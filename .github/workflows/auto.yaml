@@ -29,17 +29,17 @@ jobs:
     - name: Run .py
       run: python hot_to_md.py
 
-    # # 配置git
-    # - name: Config git
-    #   run: |
-    #     git config --local user.email "actions@github.com"
-    #     git config --local user.name "github"
-    #     git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
-    #     git pull --rebase
+    # 配置git
+    - name: Config git
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "github"
+        git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
+        git pull --rebase
 
-    # # 更新仓库
-    # - name: Update repo
-    #   run: |
-    #       git add .
-    #       git commit -m "auto update"
-    #       git push -u origin main
+    # 更新仓库
+    - name: Update repo
+      run: |
+          git add .
+          git commit -m "auto update"
+          git push -u origin main
