@@ -28,9 +28,10 @@ if __name__ == "__main__":
 
             hrefs = [item["href"] for item in api_data['result']['%s' % key]]
             
-            os.makedirs('archives/%s/%s/%s/%s' % (key,year,month,day), exist_ok=True)
+            path = os.path.join('archives',key,year,month,day)
+            os.makedirs(path, exist_ok=True)
 
-            with open("archives/%s/%s/%s/%s/%s.md" % (key,year,month,day,time), mode="w", newline="", encoding="utf-8") as file:
+            with open(os.path.join(path,time), mode="w", newline="", encoding="utf-8") as file:
                 file.write("## %s \n### %s\n\n" % (key,time))
                 for i in range(len(indexs)):
                     file.write("%s. [%s](%s)\n\n" % (indexs[i], titles[i], hrefs[i]))
