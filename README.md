@@ -1,10 +1,10 @@
-使用api接口获取各平台热搜
+### 使用api接口获取各平台热搜
 
 从2023年8月16日开始。每两个小时获取一次。
 
 文件保存在./archives文件夹中，按照`软件名称/年/月/日`的路径保存
 
-使用的[教书先生的api](https://api.oioweb.cn/doc/common/HotList)
+### 使用的[教书先生的api](https://api.oioweb.cn/doc/common/HotList)
 
 共包含以下平台的热搜：
 
