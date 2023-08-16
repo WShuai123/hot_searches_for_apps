@@ -30,7 +30,7 @@ if __name__ == "__main__":
             
             path = os.path.join('archives',key,year,month,day)
             os.makedirs(path, exist_ok=True)
-
+            
             with open(os.path.join(path,time), mode="w", newline="", encoding="utf-8") as file:
                 file.write("## %s \n### %s\n\n" % (key,time))
                 for i in range(len(indexs)):
