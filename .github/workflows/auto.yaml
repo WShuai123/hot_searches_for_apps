@@ -1,9 +1,8 @@
 name: auto_get_hot
 
 on:
-  create
-  # schedule:
-  #   - cron: "30 * * * *"
+  schedule:
+    - cron: "1 * * * *"
 
 jobs:
   build:
