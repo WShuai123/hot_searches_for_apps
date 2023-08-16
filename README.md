@@ -6,7 +6,7 @@
 
 使用的[教书先生的api](https://api.oioweb.cn/doc/common/HotList)
 
-共包含一下平台的热搜：
+共包含以下平台的热搜：
 
 1. 微博
 2. 知乎
