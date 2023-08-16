@@ -20,19 +20,16 @@ if __name__ == "__main__":
     if api_data:
         for key in list(api_data['result'].keys())[1:-1]:
             print(key)
-            indexs = [item["index"] for item in api_data['result']['%s' % key]]
-
+            
             titles = [item["title"] for item in api_data['result']['%s' % key]]
-
-            hots = [item["hot"] for item in api_data['result']['%s' % key]]
 
             hrefs = [item["href"] for item in api_data['result']['%s' % key]]
             
             path = os.path.join('archives',key,year,month,day)
             os.makedirs(path, exist_ok=True)
             
-            with open(os.path.join(path,'%s.md' % time), mode="w", newline="", encoding="utf-8") as file:
+            with open(os.path.join(path,'%s.md' % time), mode="w", encoding="utf-8") as file:
                 file.write("## %s \n### %s\n\n" % (key,time))
-                for i in range(len(indexs)):
-                    file.write("%s. [%s](%s)\n\n" % (indexs[i], titles[i], hrefs[i]))
+                for i in range(len(titles)):
+                    file.write("%s. [%s](%s)\n\n" % (i+1, titles[i], hrefs[i]))
             print("Data saved successfully!")
