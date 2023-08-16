@@ -28,9 +28,10 @@ if __name__ == "__main__":
 
             hrefs = [item["href"] for item in api_data['result']['%s' % key]]
             
-            os.makedirs('./%s/%s/%s/%s' % (year,month,day,key), exist_ok=True)
+            path = os.path.join('archives',key,year,month,day)
+            os.makedirs(path, exist_ok=True)
 
-            with open("./%s/%s/%s/%s/%s.csv" % (year,month,day,key,time), mode="w", newline="", encoding="utf-8") as file:
+            with open(os.path.join(path,'%s.csv' % time), mode="w", newline="", encoding="utf-8") as file:
                 writer = csv.writer(file)
                 writer.writerow(["index", "hot", "title", "href"])  # 写入标题行
                 for item1, item2 ,item3 ,item4 in zip(indexs, hots, titles, hrefs):
