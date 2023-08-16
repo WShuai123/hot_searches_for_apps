@@ -2,12 +2,15 @@
 
 从**2023年8月16**日开始。每两个小时获取一次。
 
-文件保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存
+获取到的热搜以markdown的形式保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
 
-### 使用[教书先生的api](https://api.oioweb.cn/doc/common/HotList)
+### 使用[教书先生](https://api.oioweb.cn/doc/common/HotList)的api
+
+`hot_to_csv.py`是将获取到的热搜保存在csv文件中。
+
+`hot_to_md.py`是将获取到的热搜保存在markdown文件中。
 
 共包含以下平台的热搜：
-
 
 1. 微博
 2. 知乎
