@@ -105,3 +105,11 @@
 
 + [官方温馨提醒：《心灵杀手2》还有5天发售](https://www.3dmgame.com/news/202310/3879951.html)
 
++ [任天堂美国总裁回应微软收购传闻：合作将继续](https://www.3dmgame.com/news/202310/3879955.html)
+
++ [《名侦探皮卡丘：闪电回归》后仍有系列新作可能](https://www.3dmgame.com/news/202310/3879954.html)
+
++ [国内爱好者用虚幻引擎开发2.5D版《莎木4》](https://www.3dmgame.com/news/202310/3879953.html)
+
++ [《最终幻想14》联动《糖豆人》新玩法预告](https://www.3dmgame.com/news/202310/3879952.html)
+
