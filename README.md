@@ -4,7 +4,7 @@
 
 获取到的热搜以markdown的形式保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
 
-更新日志：
+### 更新日志：
 
 + 2023-10-22： 过滤各平台当天的重复热搜，合并为一个文件夹
 
