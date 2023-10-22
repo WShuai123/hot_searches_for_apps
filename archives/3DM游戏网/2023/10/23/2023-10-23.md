@@ -101,3 +101,7 @@
 
 + [2023年9月欧洲主机销量估测排行 PS5仍然保持领先](https://www.3dmgame.com/news/202310/3879900.html)
 
++ [RTX 4080 SUPER良心升级：20GB大显存爽了](https://www.3dmgame.com/news/202310/3879950.html)
+
++ [官方温馨提醒：《心灵杀手2》还有5天发售](https://www.3dmgame.com/news/202310/3879951.html)
+
