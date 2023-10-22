@@ -115,3 +115,23 @@
 
 + [线性代数的本质笔记](https://blog.csdn.net/catpico/article/details/132275380)
 
++ [网络原理之UDP协议](https://blog.csdn.net/m0_73888323/article/details/133928858)
+
++ [使用pytorch实现高斯混合模型分类器](https://blog.csdn.net/m0_46510245/article/details/133958564)
+
++ [神经网络的梯度优化方法](https://blog.csdn.net/qq_44154915/article/details/133972027)
+
++ [web3之链上情报平台Arkham](https://blog.csdn.net/inthat/article/details/133977568)
+
++ [进阶课2——语音分类](https://blog.csdn.net/2202_75469062/article/details/133894534)
+
++ [【Spring Cloud】如何确定微服务项目的Spring Boot、Spring Cloud、Spring Cloud Alibaba的版本](https://blog.csdn.net/yuchangyuan5237/article/details/133968994)
+
++ [pytorch,tf维度理解RNN](https://blog.csdn.net/IsayIwant/article/details/133848066)
+
++ [「我的AIGC咒语库：分享和AI对话交流的秘诀——如何利用Prompt和AI进行高效交流？」](https://blog.csdn.net/u014727709/article/details/133977517)
+
++ [Axure RP静态站点的发布与内网穿透结合实现远程访问本地原型页面](https://blog.csdn.net/m0_69061857/article/details/133939272)
+
++ [带你深入了解微信小程序【授权登录】](https://blog.csdn.net/lz17267861157/article/details/133963553)
+
