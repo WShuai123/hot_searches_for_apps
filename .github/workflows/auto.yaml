@@ -29,16 +29,25 @@ jobs:
       # run: python hot_to_md.py
       run: python hot_md_filter.py
 
-    - name: Config git
+    # - name: Config git
+    #   run: |
+    #     git config --local user.email "action@github.com"
+    #     git config --local user.name "GitHub Action"
+    #     git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
+    #     git pull --rebase
+
+    # - name: Update repo
+    #   run: |
+    #       git add .
+    #       # git commit -m "auto update"
+    #       git commit -m "commit message"
+    #       git push -u origin main
+
+    - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
-        git pull --rebase
-
-    - name: Update repo
-      run: |
-          git add .
-          # git commit -m "auto update"
-          git commit -m "commit message"
-          git push -u origin main
+        git add .
+        git diff --staged --name-status
+        git commit -m "Add generated files"
+        git push
