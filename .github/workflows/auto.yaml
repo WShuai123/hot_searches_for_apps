@@ -31,8 +31,8 @@ jobs:
 
     - name: Config git
       run: |
-        git config --local user.email "hkwsvip@gmail.com"
-        git config --local user.name "WShuai123"
+        git config --local user.email "action@github.com"
+        git config --local user.name "github"
         git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
         git pull --rebase
 
