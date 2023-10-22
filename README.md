@@ -10,9 +10,11 @@
 
 ### 使用[教书先生](https://api.oioweb.cn/doc/common/HotList)的api
 
-`hot_to_csv.py`是将获取到的热搜保存在csv文件中。
+`hot_to_csv.py`是将获取到的热搜保存在csv文件中，不进行重复热搜过滤。
 
-`hot_to_md.py`是将获取到的热搜保存在markdown文件中。
+`hot_to_md.py`是将获取到的热搜保存在markdown文件中，不进行重复热搜过滤。
+
+`hot_md_filter.py`获取热搜并过滤，保存在一个markdown文件中。该仓库使用的GitHub Action就是运行这个文件。
 
 共包含以下平台的热搜：
 
