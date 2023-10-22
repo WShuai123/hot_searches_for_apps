@@ -32,7 +32,7 @@ jobs:
     - name: Config git
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "github"
+        git config --local user.name "GitHub Action"
         git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
         git pull --rebase
 
