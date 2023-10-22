@@ -39,5 +39,6 @@ jobs:
     - name: Update repo
       run: |
           git add .
-          git commit -m "auto update"
+          # git commit -m "auto update"
+          git commit -m "commit message"
           git push -u origin main
