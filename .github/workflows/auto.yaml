@@ -24,7 +24,8 @@ jobs:
         pip install requests
         
     - name: Run .py
-      run: python hot_to_md.py
+      # run: python hot_to_md.py
+      run: python hot_md_filter.py
 
     - name: Config git
       run: |
