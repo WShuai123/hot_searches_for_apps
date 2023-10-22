@@ -101,3 +101,7 @@
 
 + [马斯克对特斯拉Cybertruck实弹射击：清空弹夹也没打穿](https://www.3dmgame.com/news/202310/3879893.html)
 
++ [Remedy解释为何《心灵杀手2》不支持10系列N卡和5000系列A卡](https://www.3dmgame.com/news/202310/3879944.html)
+
++ [曝华为正在清理骁龙机型库存 即将全面切换产品线](https://www.3dmgame.com/news/202310/3879943.html)
+

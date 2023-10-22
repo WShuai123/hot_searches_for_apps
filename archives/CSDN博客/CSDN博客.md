@@ -115,3 +115,7 @@
 
 + [RabbitMQ原理(三)：发送者的可靠性](https://blog.csdn.net/weixin_44816664/article/details/133945735)
 
++ [【微信小程序】授权登录流程解析](https://blog.csdn.net/Justw320/article/details/133959087)
+
++ [微信小程序前后端交互与WXS的应用](https://blog.csdn.net/weixin_74268571/article/details/133952389)
+
