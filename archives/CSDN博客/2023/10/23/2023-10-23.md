@@ -135,3 +135,9 @@
 
 + [带你深入了解微信小程序【授权登录】](https://blog.csdn.net/lz17267861157/article/details/133963553)
 
++ [【Spring Boot 源码学习】HttpEncodingAutoConfiguration 详解](https://blog.csdn.net/u012855229/article/details/133902414)
+
++ [基于ResNet34的花朵分类](https://blog.csdn.net/qq_46454669/article/details/133977165)
+
++ [应用层协议——HTTP](https://blog.csdn.net/wzh18907434168/article/details/133965240)
+
