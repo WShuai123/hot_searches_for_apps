@@ -101,3 +101,17 @@
 
 + [【网络】HTTPS讲解（侧重于加密、秘钥、证书的讲解）](https://blog.csdn.net/m0_62782700/article/details/133943069)
 
++ [探索未来的视觉革命：卷积神经网络的崭新时代（一）](https://blog.csdn.net/null18/article/details/133942314)
+
++ [使用Python打造微信高效自动化操作教程](https://blog.csdn.net/qq_27595745/article/details/133970413)
+
++ [【腾讯云 TDSQL-C Serverless 产品测评】深度实测TDSQL-C Serverless 弹性伸缩策略及稳定性](https://blog.csdn.net/Lisas_ss/article/details/133956218)
+
++ [小程序之微信登录授权（6）](https://blog.csdn.net/YZZdear/article/details/133962900)
+
++ [Redis在分布式场景下的应用](https://blog.csdn.net/qq_55272229/article/details/133860224)
+
++ [jmeter如何测试websocket接口？](https://blog.csdn.net/caixiangting/article/details/133974202)
+
++ [线性代数的本质笔记](https://blog.csdn.net/catpico/article/details/132275380)
+
