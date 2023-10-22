@@ -25,3 +25,5 @@
 
 + [暴雪《暗黑破坏神 4》推出献血活动，将送出一台注入人类血液的 PC](https://m.ithome.com/html/726615.htm)
 
++ [6000M 无线速率：小米 Redmi AX6000 路由器 379 元新低](https://m.ithome.com/html/726706.htm)
+
