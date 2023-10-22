@@ -1,11 +1,11 @@
 name: auto_get_hot
 
 on:
-  # schedule:
-  #   - cron: "0 */2 * * *"
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */2 * * *"
+  # push:
+  #   branches:
+  #     - main
 jobs:
   build:
     runs-on: ubuntu-latest
