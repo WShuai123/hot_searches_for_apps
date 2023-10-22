@@ -8,7 +8,7 @@
 
 + 2023-10-22： 过滤各平台当天的重复热搜，合并为一个文件夹
 
-### 使用[教书先生](https://api.oioweb.cn/doc/common/HotList)的api
+### 感谢[教书先生](https://api.oioweb.cn/)的api
 
 `hot_to_csv.py`是将获取到的热搜保存在csv文件中，不进行重复热搜过滤。
 
