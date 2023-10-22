@@ -105,3 +105,11 @@
 
 + [曝华为正在清理骁龙机型库存 即将全面切换产品线](https://www.3dmgame.com/news/202310/3879943.html)
 
++ [耐克宣布：将实行每周四天工作制！](https://www.3dmgame.com/news/202310/3879945.html)
+
++ [《刺客信条：RED》的女主角可能是这个样子](https://www.3dmgame.com/news/202310/3879946.html)
+
++ [Remedy：《心灵杀手2》在PS5和Xbox上的优化非常好](https://www.3dmgame.com/news/202310/3879947.html)
+
++ [刘慈欣《三体》《超新星纪元》电影制作计划启动](https://www.3dmgame.com/news/202310/3879948.html)
+

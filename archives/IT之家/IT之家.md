@@ -33,3 +33,9 @@
 
 + [国产百万豪车比亚迪仰望 U8 订单已超 3 万辆，10 月下旬交付](https://m.ithome.com/html/726645.htm)
 
++ [又一地看电视“回归简单”，广东广电网络完成电视界面优化升级](https://m.ithome.com/html/726685.htm)
+
++ [可叠万券：京东 PLUS 11.11 820 元超级补贴开放领取](https://m.ithome.com/html/726694.htm)
+
++ [真我 realme GT Neo5 SE 手机直降 800 元，1499 元起](https://m.ithome.com/html/726666.htm)
+
