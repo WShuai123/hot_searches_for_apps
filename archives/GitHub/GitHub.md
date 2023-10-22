@@ -51,3 +51,33 @@
 
 + [hashicorp / terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 
++ [cpacker / MemGPT](https://github.com/cpacker/MemGPT)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [epicweb-dev / full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations)
+
++ [krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
+
++ [modularml / mojo](https://github.com/modularml/mojo)
+
++ [o3de / o3de](https://github.com/o3de/o3de)
+
++ [OpenTalker / video-retalking](https://github.com/OpenTalker/video-retalking)
+
++ [lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
++ [IceWhaleTech / CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
++ [alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [ethereum / EIPs](https://github.com/ethereum/EIPs)
+
++ [FalconForceTeam / FalconHound](https://github.com/FalconForceTeam/FalconHound)
+

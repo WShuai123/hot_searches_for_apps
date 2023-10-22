@@ -25,3 +25,9 @@
 
 + [京东三星 11.11 再加码：S23 Ultra 手机 5899 元百亿补贴 + 六期免息](https://m.ithome.com/html/726649.htm)
 
++ [科大讯飞：华为昇腾 910B 能力基本可对标英伟达 A100，正合力打造我国通用人工智能新底座](https://m.ithome.com/html/726672.htm)
+
++ [骑手童水荣：超越系统](https://m.ithome.com/html/726651.htm)
+
++ [暴雪《暗黑破坏神 4》推出献血活动，将送出一台注入人类血液的 PC](https://m.ithome.com/html/726615.htm)
+

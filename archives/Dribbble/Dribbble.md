@@ -49,3 +49,9 @@
 
 + [Gambling: CoinFlip interface](https://dribbble.com/shots/)
 
++ [Wertox logotype](https://dribbble.com/shots/)
+
++ [Sun logo](https://dribbble.com/shots/)
+
++ [OWL - LOGO](https://dribbble.com/shots/)
+
