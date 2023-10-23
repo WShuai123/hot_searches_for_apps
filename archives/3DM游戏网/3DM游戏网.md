@@ -101,3 +101,5 @@
 
 + [曝华为正在清理骁龙机型库存 即将全面切换产品线](https://www.3dmgame.com/news/202310/3879943.html)
 
++ [传PlayStation元老级制作人Connie Booth已离开索尼](https://www.3dmgame.com/news/202310/3879997.html)
+

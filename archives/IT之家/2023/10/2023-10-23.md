@@ -25,3 +25,5 @@
 
 + [高通骁龙 X Elite 规格曝光：约为 x86 芯片 2 倍性能，支持 5G 和 Wi-Fi 7](https://m.ithome.com/html/726715.htm)
 
++ [京东 11.11 年度狂促 20 点正式开抢：3 分钟速读手机数码会员攻略（非预售）](https://m.ithome.com/html/726966.htm)
+

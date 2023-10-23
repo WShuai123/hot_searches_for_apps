@@ -101,3 +101,9 @@
 
 + [helpix AI](https://www.producthunt.com/posts/helpix-ai)
 
++ [Mock Magic Studio](https://www.producthunt.com/posts/mock-magic-studio)
+
++ [Cubyts](https://www.producthunt.com/posts/cubyts)
+
++ [Flurry](https://www.producthunt.com/posts/flurry-4)
+
