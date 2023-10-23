@@ -157,3 +157,43 @@
 
 + [Apple Treats](https://dribbble.com/shots/)
 
++ [Newcastle Knights](https://dribbble.com/shots/)
+
++ [Seth Milot - Gallery Page](https://dribbble.com/shots/)
+
++ [Mercedes Configurator – Сar Customiser App](https://dribbble.com/shots/)
+
++ [Spooky Island](https://dribbble.com/shots/)
+
++ [SnowShield - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Imagica Intelligent folder UI](https://dribbble.com/shots/)
+
++ [Geometric Dachshund Dog Logo](https://dribbble.com/shots/)
+
++ [Free Yourself from Toxic People](https://dribbble.com/shots/)
+
++ [Wayside Tavern](https://dribbble.com/shots/)
+
++ [Mayhem](https://dribbble.com/shots/)
+
++ [Dazzle Website](https://dribbble.com/shots/)
+
++ [Cosmic Cat](https://dribbble.com/shots/)
+
++ [Football app](https://dribbble.com/shots/)
+
++ [Soft rocket](https://dribbble.com/shots/)
+
++ [Experimental illustrations](https://dribbble.com/shots/)
+
++ [Automarket Landing Page](https://dribbble.com/shots/)
+
++ [Foresight Wellness](https://dribbble.com/shots/)
+
++ [CF Monogram](https://dribbble.com/shots/)
+
++ [SKY - Corporate website - Blog page](https://dribbble.com/shots/)
+
++ [Playground](https://dribbble.com/shots/)
+

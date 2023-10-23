@@ -117,3 +117,11 @@
 
 + [《堕落之主》10天内销量破100万 开发商致谢](https://www.3dmgame.com/news/202310/3880004.html)
 
++ [主机版《堕落之主》更新加入跨平台联机功能](https://www.3dmgame.com/news/202310/3880014.html)
+
++ [今日正式上市《舞力全开2024》发布歌单预告](https://www.3dmgame.com/news/202310/3880013.html)
+
++ [11月22日首播《鱿鱼游戏：真人挑战赛》正式预告公开](https://www.3dmgame.com/news/202310/3880012.html)
+
++ [天诛系列开发商公开全新卡牌RPG新作](https://www.3dmgame.com/news/202310/3880011.html)
+
