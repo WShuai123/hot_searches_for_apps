@@ -121,3 +121,17 @@
 
 + [NPS Survey + Dashboard by Eisengard AI](https://www.producthunt.com/posts/nps-survey-dashboard-by-eisengard-ai)
 
++ [Squad Goals](https://www.producthunt.com/posts/squad-goals)
+
++ [Traffik Analytics](https://www.producthunt.com/posts/traffik-analytics)
+
++ [Galxe](https://www.producthunt.com/posts/galxe)
+
++ [PDFMonkey](https://www.producthunt.com/posts/pdfmonkey)
+
++ [AI Productivity Analytics](https://www.producthunt.com/posts/ai-productivity-analytics)
+
++ [MindGenie](https://www.producthunt.com/posts/mindgenie)
+
++ [Ceacle Tools For Images](https://www.producthunt.com/posts/ceacle-tools-for-images)
+

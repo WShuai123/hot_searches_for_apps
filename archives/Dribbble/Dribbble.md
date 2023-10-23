@@ -107,3 +107,23 @@
 
 + [Veke Mobile App](https://dribbble.com/shots/)
 
++ [Hexagons pt. 3](https://dribbble.com/shots/)
+
++ [Habits Tracker Mobile App Branding](https://dribbble.com/shots/)
+
++ [AlchemistX](https://dribbble.com/shots/)
+
++ [RightCustomer logo design](https://dribbble.com/shots/)
+
++ [AI Motion Visual](https://dribbble.com/shots/)
+
++ [Crypto Exchanger](https://dribbble.com/shots/)
+
++ [Usce Tower One](https://dribbble.com/shots/)
+
++ [Mobile Website Concept](https://dribbble.com/shots/)
+
++ [AI: visual identity, branding, logo design](https://dribbble.com/shots/)
+
++ [Coconut candle](https://dribbble.com/shots/)
+

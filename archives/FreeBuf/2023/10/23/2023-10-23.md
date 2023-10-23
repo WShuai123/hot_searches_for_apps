@@ -61,3 +61,5 @@
 
 + [暴露客户数据！Okta 最新系统漏洞！](https://www.freebuf.com/news/381522.html)
 
++ [Okta 被曝泄露用户数据](https://www.freebuf.com/news/381522.html)
+
