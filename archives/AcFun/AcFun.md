@@ -71,3 +71,5 @@
 
 + [军粮试吃：少见的军粮罐头原型机，B类香菇牛肉辣酱](http://www.acfun.cn/v/ac42719314)
 
++ [【劈叉兔】天凉也不妨碍做辣妹！金泫雅-Bubble Pop翻跳](http://www.acfun.cn/v/ac42718328)
+

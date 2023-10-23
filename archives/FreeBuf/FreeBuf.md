@@ -41,3 +41,7 @@
 
 + [内网渗透测试 | 如何在内网中提升权限](https://www.freebuf.com/articles/web/381088.html)
 
++ [FreeBuf早报 | BlackCat再升级；D-Link数百万用户信息疑遭泄露](https://www.freebuf.com/news/381337.html)
+
++ [最新报告：71%的AI检测器无法检测出ChatGPT撰写的钓鱼邮件](https://www.freebuf.com/articles/paper/380801.html)
+

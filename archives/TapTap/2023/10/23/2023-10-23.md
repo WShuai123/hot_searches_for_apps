@@ -21,3 +21,7 @@
 
 + [宿命回响：弦上的叹息](https://www.taptap.cn/app/219019)
 
++ [末日幸存者小队](https://www.taptap.cn/app/383691)
+
++ [音乐世界 Cytus II](https://www.taptap.cn/app/153415)
+

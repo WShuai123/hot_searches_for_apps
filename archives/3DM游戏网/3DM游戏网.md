@@ -113,3 +113,11 @@
 
 + [《最终幻想14》联动《糖豆人》新玩法预告](https://www.3dmgame.com/news/202310/3879952.html)
 
++ [Insomniac：《漫威蜘蛛侠3》将是史诗级](https://www.3dmgame.com/news/202310/3879959.html)
+
++ [《合金装备：大师合集Vol.1》新鸣谢名单没有小岛秀夫](https://www.3dmgame.com/news/202310/3879957.html)
+
++ [《DOTA2》TI12淘汰赛：前TI11卫冕冠军Tundra出局](https://www.3dmgame.com/news/202310/3879958.html)
+
++ [消息称《GTA6》发售两年内会有大型单人DLC](https://www.3dmgame.com/news/202310/3879956.html)
+
