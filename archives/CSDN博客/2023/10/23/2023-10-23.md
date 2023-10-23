@@ -151,3 +151,13 @@
 
 + [在 Python 中使用 Pillow 进行图像处理【2/4】](https://blog.csdn.net/gongdiwudu/article/details/133970735)
 
++ [spring6-国际化：i18n | 数据校验：Validation](https://blog.csdn.net/m0_62946761/article/details/133978553)
+
++ [【C++】C++11新特性之右值引用与移动语义](https://blog.csdn.net/qq_67582098/article/details/133979814)
+
++ [springboot+avue医院绩效考核系统源码](https://blog.csdn.net/qq_27741787/article/details/133974029)
+
++ [初始Redis && 分布式结构的发展演变](https://blog.csdn.net/weixin_61061381/article/details/133971295)
+
++ [在pytorch中对于张量维度的理解](https://blog.csdn.net/qq_39522016/article/details/133969913)
+

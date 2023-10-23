@@ -123,3 +123,13 @@
 
 + [《宝可梦：朱/紫》官方线上大赛将于11月3日举行](https://www.3dmgame.com/news/202310/3879960.html)
 
++ [吉田直树希望《最终幻想14》能联动《暗黑破坏神》系列](https://www.3dmgame.com/news/202310/3879964.html)
+
++ [《西瓜游戏》达成200万下载 海外玩家赞其玩如吸毒](https://www.3dmgame.com/news/202310/3879965.html)
+
++ [《心灵杀手2》配置太逆天 只有7%的PC玩家能玩原生1080P](https://www.3dmgame.com/news/202310/3879961.html)
+
++ [据报道独立《孤岛惊魂》多人游戏正在开发中 2025年发售](https://www.3dmgame.com/news/202310/3879962.html)
+
++ [恐怖动作《国际指定怪异124号 东京废村》登陆steam](https://www.3dmgame.com/news/202310/3879963.html)
+

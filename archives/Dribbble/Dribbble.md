@@ -67,3 +67,13 @@
 
 + [SalesXpert - Sales Marketing Dashboard](https://dribbble.com/shots/)
 
++ [Equify CRM Admin SaaS Dashboard Report](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+
++ [Zephyr - AI CRM Website Landing Page](https://dribbble.com/shots/)
+
++ [Monetto — App Design. Check Collection Details](https://dribbble.com/shots/)
+
++ [Finance Management Dashboard - Ekonomi](https://dribbble.com/shots/)
+
