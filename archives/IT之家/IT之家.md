@@ -33,3 +33,7 @@
 
 + [分析师：马斯克在特斯拉财报电话会议上表现得像个“小婴儿”“几乎要哭了”](https://m.ithome.com/html/726744.htm)
 
++ [华为 nova 11 SE 手机配置公布：1 亿像素主摄、4500mAh 电池](https://m.ithome.com/html/726939.htm)
+
++ [支付宝花呗开启“今年花明年还”活动，双 11 期间淘宝天猫交易延迟至明年 1 月出账](https://m.ithome.com/html/726913.htm)
+

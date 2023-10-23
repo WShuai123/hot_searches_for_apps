@@ -83,3 +83,7 @@
 
 + [第一天直播～！自我介紹=w=](http://www.acfun.cn/v/ac42720276)
 
++ [公知们的“鱿鱼游戏”](http://www.acfun.cn/v/ac42728429)
+
++ [快速看完一局韩服王者斗殴局#543 ady, sorrow, Quid, Doggo, Pleata](http://www.acfun.cn/v/ac42727901)
+

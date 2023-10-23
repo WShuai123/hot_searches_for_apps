@@ -103,3 +103,9 @@
 
 + [传PlayStation元老级制作人Connie Booth已离开索尼](https://www.3dmgame.com/news/202310/3879997.html)
 
++ [摩尔线程MTT S80国产显卡降价 仅1199元](https://www.3dmgame.com/news/202310/3880001.html)
+
++ [《漫威蜘蛛侠2》首发24小时 销量超过了250万套](https://www.3dmgame.com/news/202310/3880000.html)
+
++ [《堕落之主》更新补丁上线 修复存档丢失问题](https://www.3dmgame.com/news/202310/3879999.html)
+

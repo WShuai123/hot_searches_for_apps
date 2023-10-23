@@ -111,3 +111,27 @@
 
 + [Developer marketing examples](https://www.producthunt.com/posts/developer-marketing-examples)
 
++ [OpenLanguage plugin](https://www.producthunt.com/posts/openlanguage-plugin)
+
++ [Tripmix.ai](https://www.producthunt.com/posts/tripmix-ai)
+
++ [Pawsome Namer](https://www.producthunt.com/posts/pawsome-namer)
+
++ [Skycle](https://www.producthunt.com/posts/skycle)
+
++ [GameOn](https://www.producthunt.com/posts/gameon-4)
+
++ [AuthorGPT](https://www.producthunt.com/posts/authorgpt-2)
+
++ [Alvatix](https://www.producthunt.com/posts/alvatix)
+
++ [Texty.cc](https://www.producthunt.com/posts/texty-cc)
+
++ [PromptSnippets](https://www.producthunt.com/posts/promptsnippets)
+
++ [Catapulta.sh](https://www.producthunt.com/posts/catapulta-sh)
+
++ [Hyacinth Subscription](https://www.producthunt.com/posts/hyacinth-subscription)
+
++ [NPS Survey & Dashboard by Eisengard AI](https://www.producthunt.com/posts/nps-survey-dashboard-by-eisengard-ai)
+
