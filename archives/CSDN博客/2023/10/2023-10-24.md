@@ -101,3 +101,17 @@
 
 + [微信小程序三种授权登录以及授权登录流程讲解](https://blog.csdn.net/weixin_74318097/article/details/133963169)
 
++ [linux进程管理，一个进程的一生（喂饭级教学）](https://blog.csdn.net/2301_76144863/article/details/133611632)
+
++ [基于Python制作一个动物识别小程序](https://blog.csdn.net/doctor_zhangTZ/article/details/133984531)
+
++ [rust学习——栈、堆、所有权](https://blog.csdn.net/e891377/article/details/133907548)
+
++ [小杨说事-Halcon+LMI-Gocator测试让3D点云与2D灰度图融合效果，还你一个真实的三维世界](https://blog.csdn.net/qq_34836838/article/details/133971078)
+
++ [hello react](https://blog.csdn.net/jieyucx/article/details/133987327)
+
++ [DALL·E 3：OpenAI的革命性图像生成模型与ChatGPT的融合](https://blog.csdn.net/qq_44866828/article/details/133976754)
+
++ [生成二维码](https://blog.csdn.net/m0_46577050/article/details/133975030)
+

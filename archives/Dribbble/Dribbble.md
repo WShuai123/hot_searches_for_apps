@@ -67,3 +67,51 @@
 
 + [Clerk - Pricing](https://dribbble.com/shots/)
 
++ [Warrington Wolves](https://dribbble.com/shots/)
+
++ [Primer Brand](https://dribbble.com/shots/)
+
++ [Zoya Finance | Branding](https://dribbble.com/shots/)
+
++ [Action button + iPhone 15 Pro Max in Halide](https://dribbble.com/shots/)
+
++ [Gaming Platform](https://dribbble.com/shots/)
+
++ [Dog Sledding Service Mobile Website](https://dribbble.com/shots/)
+
++ [Tappa! - Branding for the messenger application](https://dribbble.com/shots/)
+
++ [Jordan 4 noodles](https://dribbble.com/shots/)
+
++ [Snapmaker | Corporate website redesign](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
++ [Vital Card app design by milkinside](https://dribbble.com/shots/)
+
++ [N screen](https://dribbble.com/shots/)
+
++ [Big illustration set for Ciseway](https://dribbble.com/shots/)
+
++ [Layers Anniversary](https://dribbble.com/shots/)
+
++ [Go Power Sports (Vintage Merchandise)](https://dribbble.com/shots/)
+
++ [Fitness Photography Brand Creative Presentation](https://dribbble.com/shots/)
+
++ [Etera](https://dribbble.com/shots/)
+
++ [Old video games](https://dribbble.com/shots/)
+
++ [SKY - Corporate website](https://dribbble.com/shots/)
+
++ [Finance - Online Banking App Concept](https://dribbble.com/shots/)
+
++ [Heavy Tears - Evil Eye Shirt](https://dribbble.com/shots/)
+
++ [The Weekend!](https://dribbble.com/shots/)
+
++ [Oakwood - Girl Reading](https://dribbble.com/shots/)
+
++ [Ready to cook](https://dribbble.com/shots/)
+
