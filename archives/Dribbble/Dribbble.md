@@ -145,3 +145,9 @@
 
 + [Lead Qualifiaer showreel and Landing page](https://dribbble.com/shots/)
 
++ [Something new ????](https://dribbble.com/shots/)
+
++ [Diet Tracker Mobile iOS App](https://dribbble.com/shots/)
+
++ [IKAPE - Logo Redesign](https://dribbble.com/shots/)
+

@@ -189,3 +189,7 @@
 
 + [《红蓝攻防对抗实战》三.内网探测协议出网之HTTP/HTTPS协议探测出网](https://blog.csdn.net/weixin_46192679/article/details/133984513)
 
++ [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/133980266)
+
++ [Linux中shell外壳，用户权限，文件权限](https://blog.csdn.net/qq_74276498/article/details/133960172)
+

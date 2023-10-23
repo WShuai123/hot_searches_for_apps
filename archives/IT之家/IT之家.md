@@ -45,3 +45,9 @@
 
 + [会员年卡低至三折起：腾讯视频 / B站 / WPS / 网盘 / 微博 11.11 汇总](https://m.ithome.com/html/726720.htm)
 
++ [雷军公布小米澎湃 OS 完整系统架构，启用完全独立的“自研微内核安全系统”](https://m.ithome.com/html/726878.htm)
+
++ [小米手表 S3 上架预约：首发澎湃 OS，全新 eSIM 独立通话联网](https://m.ithome.com/html/726784.htm)
+
++ [小米 14 手机现身 Geekbench：多核得分达 6820，配备 16GB RAM](https://m.ithome.com/html/726741.htm)
+
