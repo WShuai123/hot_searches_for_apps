@@ -101,3 +101,5 @@
 
 + [helpix AI](https://www.producthunt.com/posts/helpix-ai)
 
++ [Galxe](https://www.producthunt.com/posts/galxe)
+
