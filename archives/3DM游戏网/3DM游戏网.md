@@ -101,3 +101,7 @@
 
 + [单卡轻松216GB！三星宣布下一代HBM3E高带宽内存](https://www.3dmgame.com/news/202310/3879949.html)
 
++ [《合金装备：大师合集Vol.1》发布日将获得更新 解决小问题](https://www.3dmgame.com/news/202310/3880003.html)
+
++ [《幽灵行者2》IGN 9分：继承前作优点并提升](https://www.3dmgame.com/news/202310/3880005.html)
+
