@@ -39,3 +39,7 @@
 
 + [小米 14 系列手机官宣 10 月 26 日晚 7 点发布，澎湃 OS 首次亮相](https://m.ithome.com/html/726761.htm)
 
++ [雷军：小米澎湃 OS 经过 13 年探索，统一 MIUI、车机等软件架构](https://m.ithome.com/html/726812.htm)
+
++ [“Windows Phone”立功，帮用户绕过 YouTube 反广告拦截弹窗](https://m.ithome.com/html/726722.htm)
+

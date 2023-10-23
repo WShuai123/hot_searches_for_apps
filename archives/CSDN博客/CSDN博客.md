@@ -171,3 +171,9 @@
 
 + [1024程序员节特辑：【Spring Boot自动配置原理揭秘】](https://blog.csdn.net/wodejiaAA/article/details/133981729)
 
++ [MATLAB中对象的保存和加载过程](https://blog.csdn.net/jk_101/article/details/133974978)
+
++ [数据要素安全流通：挑战与解决方案](https://blog.csdn.net/qq_32682301/article/details/133982855)
+
++ [GaussDB SQL基本语法示例-CASE表达式](https://blog.csdn.net/GaussDB/article/details/133981968)
+
