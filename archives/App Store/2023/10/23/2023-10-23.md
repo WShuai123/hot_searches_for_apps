@@ -205,3 +205,11 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [百度文库-专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+
++ [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [学习通](https://itunes.apple.com/cn/app/id977946724?mt=8)
+

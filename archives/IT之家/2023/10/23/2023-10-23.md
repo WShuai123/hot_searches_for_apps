@@ -37,3 +37,5 @@
 
 + [深蓝汽车将于 10 月 27 日发布智驾版 SL03i 和 S7i](https://m.ithome.com/html/726699.htm)
 
++ [小米 14 系列手机官宣 10 月 26 日晚 7 点发布，澎湃 OS 首次亮相](https://m.ithome.com/html/726761.htm)
+

@@ -77,3 +77,15 @@
 
 + [Finance Management Dashboard - Ekonomi](https://dribbble.com/shots/)
 
++ [Finster: Card Page AI Feature Mobile App Fintech Banking](https://dribbble.com/shots/)
+
++ [Vantage - Digital Marketing Agency ( Hero Section )](https://dribbble.com/shots/)
+
++ [Holihili - Digital Marketing Landing Page](https://dribbble.com/shots/)
+
++ [Deigo - Shipment Mangement Dashboard](https://dribbble.com/shots/)
+
++ [AI - Agrotech Automation](https://dribbble.com/shots/)
+
++ [ChatIMG - Text to Image with AI](https://dribbble.com/shots/)
+

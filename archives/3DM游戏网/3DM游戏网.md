@@ -133,3 +133,15 @@
 
 + [恐怖动作《国际指定怪异124号 东京废村》登陆steam](https://www.3dmgame.com/news/202310/3879963.html)
 
++ [战国策略新游《天下统一 SSB》2024年1月登陆多平台](https://www.3dmgame.com/news/202310/3879971.html)
+
++ [《幽灵行者2》解锁时间公布 媒体评测今晚解禁](https://www.3dmgame.com/news/202310/3879970.html)
+
++ [苹果CEO库克：超过95%产品仍在中国制造组装](https://www.3dmgame.com/news/202310/3879969.html)
+
++ [《摇曳露营△》第三季2024年4月播出 新视觉图公布](https://www.3dmgame.com/news/202310/3879968.html)
+
++ [电影《攻壳机动队SAC_2045最后的人类》新预告 11月23日上映](https://www.3dmgame.com/news/202310/3879967.html)
+
++ [芋虫爬山之旅《小虫虫》10月27日登陆steam](https://www.3dmgame.com/news/202310/3879966.html)
+

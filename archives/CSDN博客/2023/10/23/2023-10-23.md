@@ -161,3 +161,11 @@
 
 + [在pytorch中对于张量维度的理解](https://blog.csdn.net/qq_39522016/article/details/133969913)
 
++ [一杯茶的时间，带你使用Express框架在服务端渲染图片](https://blog.csdn.net/weixin_43288600/article/details/133967033)
+
++ [【Unity程序技巧】 资源加载管理器](https://blog.csdn.net/m0_64128218/article/details/133969379)
+
++ [预测宝可梦武力值、分类宝可梦](https://blog.csdn.net/qq_51070956/article/details/133959993)
+
++ [【PyTorch实战演练】自调整学习率实例应用（附代码）](https://blog.csdn.net/m0_49963403/article/details/133963472)
+
