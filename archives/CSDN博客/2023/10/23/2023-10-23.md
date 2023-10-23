@@ -177,3 +177,7 @@
 
 + [GaussDB SQL基本语法示例-CASE表达式](https://blog.csdn.net/GaussDB/article/details/133981968)
 
++ [第63讲：MySQL存储过程变量传参的核心概念与案例](https://blog.csdn.net/weixin_44953658/article/details/133982208)
+
++ [云原生微服务实战 Spring Cloud Alibaba 之 Nacos](https://blog.csdn.net/s445320/article/details/133977189)
+

@@ -101,3 +101,23 @@
 
 + [helpix AI](https://www.producthunt.com/posts/helpix-ai)
 
++ [Fuyu-8B](https://www.producthunt.com/posts/fuyu-8b)
+
++ [Hyacinth Unlimited Design Subscription](https://www.producthunt.com/posts/hyacinth-unlimited-design-subscription)
+
++ [Vibe Shift](https://www.producthunt.com/posts/vibe-shift)
+
++ [LinkedIn Post Formatter](https://www.producthunt.com/posts/linkedin-post-formatter)
+
++ [Free Status Page](https://www.producthunt.com/posts/free-status-page)
+
++ [Reforge Artifacts](https://www.producthunt.com/posts/reforge-artifacts)
+
++ [Gloww](https://www.producthunt.com/posts/gloww)
+
++ [AI Design (Beta)](https://www.producthunt.com/posts/ai-design-beta)
+
++ [Simple Video Tools](https://www.producthunt.com/posts/simple-video-tools)
+
++ [NPS Survey + Dashboard by Eisengard AI](https://www.producthunt.com/posts/nps-survey-dashboard-by-eisengard-ai)
+

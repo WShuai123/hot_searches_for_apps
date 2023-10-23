@@ -57,3 +57,7 @@
 
 + [可让银行账户自动转账？Xenomorph银行木马来势汹汹](https://www.freebuf.com/news/topnews/379984.html)
 
++ [如何使用xsubfind3r收集域名的已知子域名](https://www.freebuf.com/sectool/379041.html)
+
++ [暴露客户数据！Okta 最新系统漏洞！](https://www.freebuf.com/news/381522.html)
+
