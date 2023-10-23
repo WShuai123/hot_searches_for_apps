@@ -71,3 +71,15 @@
 
 + [萌宠集合，这才是猛男该看的！ 第三百一十期](http://www.acfun.cn/v/ac42719481)
 
++ [全是喜欢的样子，AI真是懂Acer啊！欢乐八点档-716](http://www.acfun.cn/v/ac42726080)
+
++ [要被这主播笑拥了哈哈哈哈！！！](http://www.acfun.cn/v/ac42726233)
+
++ [优雅，太优雅了。【今日好笑视频 #511】](http://www.acfun.cn/v/ac42719214)
+
++ [【鱼log之北京环球】六分钟神龙勇士体验卡  交给我们吧一定会搞砸的  哈哈哈哈哈  不看不是人](http://www.acfun.cn/v/ac42723148)
+
++ [【动画剧集】瑞克和莫蒂 第七季 第二集 Rick and Morty Season 7 (2023)](http://www.acfun.cn/v/ac42727714)
+
++ [第一天直播～！自我介紹=w=](http://www.acfun.cn/v/ac42720276)
+
