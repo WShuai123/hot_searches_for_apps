@@ -63,3 +63,5 @@
 
 + [Okta 被曝泄露用户数据](https://www.freebuf.com/news/381522.html)
 
++ [日本卡西欧遭黑客入侵，泄露 149 个国家的用户数据](https://www.freebuf.com/news/381495.html)
+
