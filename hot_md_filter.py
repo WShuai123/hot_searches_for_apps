@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
             hrefs = [item["href"] for item in api_data['result']['%s' % key]]
             
-            path = os.path.join('archives',key,year,month,day)
+            path = os.path.join('archives',key,year,month)
             os.makedirs(path, exist_ok=True)    # 创建目录
             
             with open(os.path.join(path,'%s.md' % time), mode="a", encoding="utf-8") as file:    # 以追加模式打开文件
