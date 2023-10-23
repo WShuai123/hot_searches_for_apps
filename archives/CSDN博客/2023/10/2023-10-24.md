@@ -115,3 +115,9 @@
 
 + [生成二维码](https://blog.csdn.net/m0_46577050/article/details/133975030)
 
++ [【Gensim概念】01/3 NLP玩转 word2vec](https://blog.csdn.net/gongdiwudu/article/details/133988724)
+
++ [pytorch实战---IMDB情感分析](https://blog.csdn.net/null18/article/details/133984043)
+
++ [基于STC32F单片机制作的HDMI多路视频切换控制器](https://blog.csdn.net/zhuoqingjoking97298/article/details/133933600)
+

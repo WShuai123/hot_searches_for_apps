@@ -115,3 +115,45 @@
 
 + [Ready to cook](https://dribbble.com/shots/)
 
++ [JXR Skull Logo](https://dribbble.com/shots/)
+
++ [Animal illustrations - Notion Pack](https://dribbble.com/shots/)
+
++ [UX-UI design Finance App Animation](https://dribbble.com/shots/)
+
++ [Figma icon](https://dribbble.com/shots/)
+
++ [Ramen lovers club](https://dribbble.com/shots/)
+
++ [Frame - Sidebar](https://dribbble.com/shots/)
+
++ [Home](https://dribbble.com/shots/)
+
++ [Mordecai](https://dribbble.com/shots/)
+
++ [Cutest invite](https://dribbble.com/shots/)
+
++ [Munchers - Brand Identity and Brand Book](https://dribbble.com/shots/)
+
++ [Data](https://dribbble.com/shots/)
+
++ [N tetris](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [North Queensland Cowboys](https://dribbble.com/shots/)
+
++ [Mountain River](https://dribbble.com/shots/)
+
++ [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
+
++ [301.digital](https://dribbble.com/shots/)
+
++ [Llama 2](https://dribbble.com/shots/)
+
++ [Raynmakers - Responsive website design for a management tool](https://dribbble.com/shots/)
+
++ [Panihole Mobile Fare](https://dribbble.com/shots/)
+
++ [Apple Treats](https://dribbble.com/shots/)
+
