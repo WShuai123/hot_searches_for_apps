@@ -105,3 +105,15 @@
 
 + [《幽灵行者2》IGN 9分：继承前作优点并提升](https://www.3dmgame.com/news/202310/3880005.html)
 
++ [《阿凡达：潘多拉边境》封测预览或与在下周开始](https://www.3dmgame.com/news/202310/3880010.html)
+
++ [求生恐怖游戏《乌鸦国度》面向PS5/PS4/PC公布](https://www.3dmgame.com/news/202310/3880009.html)
+
++ [《辐射》亚马逊Prime剧集首播日期正式公布](https://www.3dmgame.com/news/202310/3880008.html)
+
++ [《星际公民》单人模式“42中队”25分钟实机视频](https://www.3dmgame.com/news/202310/3880007.html)
+
++ [Xbox新直播会10月26日凌晨1点举行 第三方为特色](https://www.3dmgame.com/news/202310/3880006.html)
+
++ [《堕落之主》10天内销量破100万 开发商致谢](https://www.3dmgame.com/news/202310/3880004.html)
+
