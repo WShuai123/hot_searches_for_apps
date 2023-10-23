@@ -169,3 +169,5 @@
 
 + [【PyTorch实战演练】自调整学习率实例应用（附代码）](https://blog.csdn.net/m0_49963403/article/details/133963472)
 
++ [1024程序员节特辑：【Spring Boot自动配置原理揭秘】](https://blog.csdn.net/wodejiaAA/article/details/133981729)
+

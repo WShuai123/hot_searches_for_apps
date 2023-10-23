@@ -49,3 +49,5 @@
 
 + [威胁全球400多家银行的Xenomorph安卓木马“卷土重来”！](https://www.freebuf.com/news/topnews/379984.html)
 
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+
