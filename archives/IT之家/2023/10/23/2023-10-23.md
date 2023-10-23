@@ -33,3 +33,7 @@
 
 + [马斯克罕见服软，特斯拉一夜蒸发 2800 亿](https://m.ithome.com/html/726730.htm)
 
++ [彻底告别！MIUI 官微改名为“小米澎湃 OS”](https://m.ithome.com/html/726742.htm)
+
++ [深蓝汽车将于 10 月 27 日发布智驾版 SL03i 和 S7i](https://m.ithome.com/html/726699.htm)
+

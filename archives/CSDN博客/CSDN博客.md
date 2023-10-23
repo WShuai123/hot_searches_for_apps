@@ -147,3 +147,7 @@
 
 + [网络编程的学习初篇](https://blog.csdn.net/m0_73740682/article/details/133967911)
 
++ [Vue项目中使用Multiavatarjs生成自定义随机头像-demo](https://blog.csdn.net/JackieDYH/article/details/133925046)
+
++ [在 Python 中使用 Pillow 进行图像处理【2/4】](https://blog.csdn.net/gongdiwudu/article/details/133970735)
+

@@ -45,3 +45,5 @@
 
 + [最新报告：71%的AI检测器无法检测出ChatGPT撰写的钓鱼邮件](https://www.freebuf.com/articles/paper/380801.html)
 
++ [将电源侧信道攻击转化为x86远程时序攻击](https://www.freebuf.com/vuls/381130.html)
+

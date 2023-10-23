@@ -121,3 +121,5 @@
 
 + [消息称《GTA6》发售两年内会有大型单人DLC](https://www.3dmgame.com/news/202310/3879956.html)
 
++ [《宝可梦：朱/紫》官方线上大赛将于11月3日举行](https://www.3dmgame.com/news/202310/3879960.html)
+
