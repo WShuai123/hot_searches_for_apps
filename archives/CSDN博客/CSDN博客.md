@@ -101,3 +101,23 @@
 
 + [如何使用前端桌面应用程序框架（Electron等）？](https://blog.csdn.net/JHXL_/article/details/133981574)
 
++ [Positive Technologies 在迪拜宣布与地区网络安全解决方案提供商开展合作](https://blog.csdn.net/ptsecurity/article/details/134020683)
+
++ [ChatGPT 助力英文论文翻译和润色](https://blog.csdn.net/fyfugoyfa/article/details/134016488)
+
++ [CTF/AWD竞赛标准参考书+实战指南：《AWD特训营》](https://blog.csdn.net/weixin_58070962/article/details/133995206)
+
++ [云计算——ACA学习 云计算架构](https://blog.csdn.net/yj11290301/article/details/134006938)
+
++ [自学（黑客技术）方法——网络安全](https://blog.csdn.net/stopluox/article/details/134015283)
+
++ [Linux 本地 Docker Registry本地镜像仓库远程连接](https://blog.csdn.net/xz2935117143/article/details/134003021)
+
++ [了解docker](https://blog.csdn.net/qq_41420788/article/details/131684646)
+
++ [【网络安全】5.1 网络安全的热点问题](https://blog.csdn.net/u010671061/article/details/134003519)
+
++ [一杯茶的时间，带你使用Express框架在服务端渲染图片](https://blog.csdn.net/weixin_43288600/article/details/133967033)
+
++ [如何使用Pritunl搭建OpenVPN服务器，实现远程连接【内网穿透】](https://blog.csdn.net/qq_74310471/article/details/133994145)
+

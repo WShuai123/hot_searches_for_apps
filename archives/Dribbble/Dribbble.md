@@ -201,3 +201,27 @@
 
 + [Grup!](https://dribbble.com/shots/)
 
++ [Playground](https://dribbble.com/shots/)
+
++ [Jersey Devil](https://dribbble.com/shots/)
+
++ [301.digital — Visual Guidelines](https://dribbble.com/shots/)
+
++ [Rockford House](https://dribbble.com/shots/)
+
++ [Vital mobile Landing page design by Milkinside](https://dribbble.com/shots/)
+
++ [Vectober 2023 22 // Beautiful sky](https://dribbble.com/shots/)
+
++ [Dogs and ball (Personal '23)](https://dribbble.com/shots/)
+
++ [Booking Web App](https://dribbble.com/shots/)
+
++ [Dog Sledding Website Design](https://dribbble.com/shots/)
+
++ [Pursue Purpose - Illustration](https://dribbble.com/shots/)
+
++ [The Weekend!](https://dribbble.com/shots/)
+
++ [Oracle Payroll – Salary Management App](https://dribbble.com/shots/)
+
