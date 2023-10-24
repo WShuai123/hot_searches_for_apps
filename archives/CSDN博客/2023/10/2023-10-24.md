@@ -125,3 +125,5 @@
 
 + [云原生之深入解析如何使用Vcluster Kubernetes加速开发效率](https://blog.csdn.net/Forever_wj/article/details/133998057)
 
++ [云原生之深入解析Kubernetes Pod如何获取IP地址](https://blog.csdn.net/Forever_wj/article/details/133998494)
+

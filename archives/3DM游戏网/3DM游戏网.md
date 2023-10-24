@@ -125,3 +125,7 @@
 
 + [天诛系列开发商公开全新卡牌RPG新作](https://www.3dmgame.com/news/202310/3880011.html)
 
++ [《极限竞速：地平线5》新里程碑 玩家超3400万](https://www.3dmgame.com/news/202310/3880016.html)
+
++ [前索尼互娱CEO对游戏业界收购表示担忧](https://www.3dmgame.com/news/202310/3880015.html)
+

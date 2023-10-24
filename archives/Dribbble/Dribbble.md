@@ -197,3 +197,39 @@
 
 + [Playground](https://dribbble.com/shots/)
 
++ [Finance Management App](https://dribbble.com/shots/)
+
++ [Yakoda](https://dribbble.com/shots/)
+
++ [Stona House](https://dribbble.com/shots/)
+
++ [Pine Park Health Sticker No. IV](https://dribbble.com/shots/)
+
++ [Family icon](https://dribbble.com/shots/)
+
++ [Face](https://dribbble.com/shots/)
+
++ [Utopia: Retro-futuristic Vibe](https://dribbble.com/shots/)
+
++ [The Phoenix](https://dribbble.com/shots/)
+
++ [Designing Orion](https://dribbble.com/shots/)
+
++ [Ortus - Reprogram](https://dribbble.com/shots/)
+
++ [Summer Fashion Festival Website](https://dribbble.com/shots/)
+
++ [The Ice Bucket](https://dribbble.com/shots/)
+
++ [Data 02](https://dribbble.com/shots/)
+
++ [Real Estate Website Animation for Homa](https://dribbble.com/shots/)
+
++ [Peachtober23: Candle](https://dribbble.com/shots/)
+
++ [You were made for victory](https://dribbble.com/shots/)
+
++ [Country Counter App Concept](https://dribbble.com/shots/)
+
++ [Oakwood - Boy Studying](https://dribbble.com/shots/)
+

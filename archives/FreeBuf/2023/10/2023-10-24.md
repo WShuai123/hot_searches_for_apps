@@ -41,3 +41,5 @@
 
 + [企业安全之浅谈云原生下的安全风险](https://www.freebuf.com/articles/es/379883.html)
 
++ [MS Exchange攻击日志分析一](https://www.freebuf.com/articles/web/380339.html)
+

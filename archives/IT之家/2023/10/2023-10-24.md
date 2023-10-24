@@ -25,3 +25,11 @@
 
 + [支付宝花呗开启“今年花明年还”活动，双 11 期间淘宝天猫交易延迟至明年 1 月出账](https://m.ithome.com/html/726913.htm)
 
++ [摩尔线程 MTT S70 国产显卡降价，2499 → 899 元](https://m.ithome.com/html/727003.htm)
+
++ [京东手机 11.11 狂促升级：iPhone 13 百亿补贴 3999 元买贵 2 倍赔](https://m.ithome.com/html/727034.htm)
+
++ [Win11 最后一个重大更新发布在即：Windows 11 23H2 ISO 镜像已现身](https://m.ithome.com/html/726760.htm)
+
++ [摩尔线程 MTT S80 国产显卡降价，2999 → 1199 元](https://m.ithome.com/html/726996.htm)
+
