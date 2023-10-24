@@ -131,3 +131,7 @@
 
 + [Ubuntu OpenLDAP配置笔记](https://blog.csdn.net/caoshiying/article/details/133995816)
 
++ [从昏暗到明亮—改善照明环境，提升编程效率](https://blog.csdn.net/weixin_36755535/article/details/133984702)
+
++ [MyBatis：配置文件](https://blog.csdn.net/qq_56886142/article/details/133942882)
+

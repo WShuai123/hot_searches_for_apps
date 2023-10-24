@@ -37,3 +37,5 @@
 
 + [中国联通完成 XR 通话测试，覆盖小米、OPPO、vivo、华为、荣耀 32 款手机](https://m.ithome.com/html/726972.htm)
 
++ [听说至高 11111 元？京东无门槛红包今晚 20 点速抢](https://m.ithome.com/html/726904.htm)
+

@@ -129,3 +129,33 @@
 
 + [前索尼互娱CEO对游戏业界收购表示担忧](https://www.3dmgame.com/news/202310/3880015.html)
 
++ [《死亡信号》steam页面上线 监控模拟惊悚新游](https://www.3dmgame.com/news/202310/3880031.html)
+
++ [《神秘博士》第15季开始拍摄 明年上线](https://www.3dmgame.com/news/202310/3880030.html)
+
++ [《最终幻想7：重制版》爱丽丝礼服原画欣赏：魅力十足！](https://www.3dmgame.com/news/202310/3880029.html)
+
++ [《女神异闻录3：Reload》新角色预告：真田明彦](https://www.3dmgame.com/news/202310/3880027.html)
+
++ [《城市：天际线2》预载开启 Steam版约51.6GB](https://www.3dmgame.com/news/202310/3880032.html)
+
++ [《王国之心》手游官推时隔一年多放出神秘新图 或有新动作](https://www.3dmgame.com/news/202310/3880026.html)
+
++ [《如龙8》被ESRB评为成人级 血腥暴力还有性暴露](https://www.3dmgame.com/news/202310/3880025.html)
+
++ [《英雄联盟》“心之钢” 首发单曲 《妄想》MV](https://www.3dmgame.com/news/202310/3880023.html)
+
++ [《Apex英雄》第19赛季“点燃”预告 新英雄导线管](https://www.3dmgame.com/news/202310/3880024.html)
+
++ [《原子之心》DLC“地狱边境”新截图 新挑战将来临](https://www.3dmgame.com/news/202310/3880022.html)
+
++ [《终极格斗冠军赛5》全新游戏模式深度解析视频](https://www.3dmgame.com/news/202310/3880021.html)
+
++ [暴雪要恢复开发？《风暴英雄》上线大型平衡修复补丁](https://www.3dmgame.com/news/202310/3880020.html)
+
++ [《致命地带》steam抢先体验开启 吸幸类型末日风新游](https://www.3dmgame.com/news/202310/3880019.html)
+
++ [报道称不到1%的Netflix订阅用户每天玩游戏](https://www.3dmgame.com/news/202310/3880018.html)
+
++ [演员罢工导致《碟中谍8》上映推迟到2025年](https://www.3dmgame.com/news/202310/3880017.html)
+
