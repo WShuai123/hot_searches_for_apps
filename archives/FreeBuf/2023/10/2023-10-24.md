@@ -55,3 +55,5 @@
 
 + [AiCEF：一款功能强大的网络安全演习协同框架](https://www.freebuf.com/sectool/379040.html)
 
++ [谁才是「年度安全品牌影响力」| WitAwards 2023年度评选进行时](https://www.freebuf.com/fevents/381590.html)
+
