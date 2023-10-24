@@ -227,3 +227,33 @@
 
 + [《心灵杀手2》PS5版下载大小80GB 预加载即将开启](https://www.3dmgame.com/news/202310/3880065.html)
 
++ [《漫威蜘蛛侠2》任务中出现男同情侣 大力支持LGBT？](https://www.3dmgame.com/news/202310/3880072.html)
+
++ [《最终幻想7：重生》总监表示原作“难上手”](https://www.3dmgame.com/news/202310/3880073.html)
+
++ [全球最大人脸识别搜索引擎现已禁止儿童面部搜索](https://www.3dmgame.com/news/202310/3880074.html)
+
++ [2023年日本亚洲PS合作伙伴奖12月1日公布 玩家投票开启](https://www.3dmgame.com/news/202310/3880075.html)
+
++ [《迷雾魔域：迷雾与活地下城》10月27日steam正式推出](https://www.3dmgame.com/news/202310/3880078.html)
+
++ [FS社新作《Spellbound》或将于2025年发售！](https://www.3dmgame.com/news/202310/3880076.html)
+
++ [年产值将超过100亿元！上汽集团郑州新能源电池工厂开工](https://www.3dmgame.com/news/202310/3880079.html)
+
++ [太激进！小米14把单反技术塞手机里 雷军：特别强](https://www.3dmgame.com/news/202310/3880080.html)
+
++ [摩尔线程MTTS80新驱动：鲁大师跑分提升70% 游戏更强](https://www.3dmgame.com/news/202310/3880081.html)
+
++ [在这款令人费解的现代冒险谜题游戏《距离8点还有3分钟》中欺骗死神，避免死亡](https://www.3dmgame.com/news/202310/3880082.html)
+
++ [《使命召唤》开发者：最早我们的目标是超越《CS》](https://www.3dmgame.com/news/202310/3880067.html)
+
++ [Steam最新一周销量榜 《城市：天际线2》登顶《暗黑破坏神4》上榜](https://www.3dmgame.com/news/202310/3880068.html)
+
++ [《乐高漫威复仇者联盟 红色代码》正式预告 10月27日播出](https://www.3dmgame.com/news/202310/3880069.html)
+
++ [正面挑战英特尔 英伟达Arm架构PC芯片2025年开售](https://www.3dmgame.com/news/202310/3880070.html)
+
++ [《暗黑4》粉丝请求暴雪保留游戏难度 总监确认不会削弱](https://www.3dmgame.com/news/202310/3880071.html)
+

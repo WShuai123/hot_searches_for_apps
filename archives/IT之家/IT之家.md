@@ -51,3 +51,7 @@
 
 + [小米 14 Pro 手机现身 Geekbench：配备 16GB RAM，多核得分 7466](https://m.ithome.com/html/727128.htm)
 
++ [华为科技集大成，问界 M9 内饰曝光，三巨屏 + 豪华精装，移动大客厅](https://m.ithome.com/html/727150.htm)
+
++ [魅族完成统一推送标准适配](https://m.ithome.com/html/727147.htm)
+

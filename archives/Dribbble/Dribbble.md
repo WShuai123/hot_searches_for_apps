@@ -379,3 +379,11 @@
 
 + [Silver Cup Coffee](https://dribbble.com/shots/)
 
++ [Let Live - Logo Mark](https://dribbble.com/shots/)
+
++ [Going to the stars](https://dribbble.com/shots/)
+
++ [Eric Johanson](https://dribbble.com/shots/)
+
++ [Healthcare - Website Design](https://dribbble.com/shots/)
+
