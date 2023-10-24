@@ -159,3 +159,35 @@
 
 + [演员罢工导致《碟中谍8》上映推迟到2025年](https://www.3dmgame.com/news/202310/3880017.html)
 
++ [AI耗时7千小时通关《宝可梦》首个道馆](https://www.3dmgame.com/news/202310/3880047.html)
+
++ [《农夫的生活》登陆PC平台 特别好评真实模拟](https://www.3dmgame.com/news/202310/3880034.html)
+
++ [很有时间和玩劲 樱井政博已经通关蜘蛛侠2与马惊](https://www.3dmgame.com/news/202310/3880045.html)
+
++ [上海迪士尼疯狂动物城园区官宣开幕 12月20日开园](https://www.3dmgame.com/news/202310/3880046.html)
+
++ [Epic喜加一：《艾玛和泰迪熊：影子历险记/Tandem:a Tale of Shadows》免费领](https://www.3dmgame.com/news/202310/3880044.html)
+
++ [微软CEO：收购动视暴雪后将加倍努力开发发行游戏](https://www.3dmgame.com/news/202310/3880043.html)
+
++ [B站金摇杆年度游戏投票页上线 玩家投票将计入最终评选](https://www.3dmgame.com/news/202310/3880042.html)
+
++ [《使命召唤20：现代战争3》配置需求公布](https://www.3dmgame.com/news/202310/3880036.html)
+
++ [《星际公民》2023玩家大会总结：新技术将改变业界！](https://www.3dmgame.com/news/202310/3880028.html)
+
++ [万智牌宣布与漫威联动 上线日期待定](https://www.3dmgame.com/news/202310/3880033.html)
+
++ [英国实体周榜：蜘蛛侠击败马里奥成功登顶](https://www.3dmgame.com/news/202310/3880039.html)
+
++ [俄罗斯RTS《灰烬战争》上架Steam C&C和星际争霸合体？](https://www.3dmgame.com/news/202310/3880038.html)
+
++ [国行PS5轻薄版将于12月1日发售 光驱版售价3599元](https://www.3dmgame.com/news/202310/3880037.html)
+
++ [《星空》设计师回顾开发历程：连续两年我压力很大](https://www.3dmgame.com/news/202310/3880035.html)
+
++ [科大讯飞发布星火认知大模型V3.0 号称已超ChatGPT](https://www.3dmgame.com/news/202310/3880041.html)
+
++ [消息称三星GalaxyS24将是有史以来最智能AI手机 超谷歌苹果](https://www.3dmgame.com/news/202310/3880040.html)
+

@@ -295,3 +295,25 @@
 
 + [S1.E8 Building Brands that Advance Humanity Forward](https://dribbble.com/shots/)
 
++ [Ship](https://dribbble.com/shots/)
+
++ [Stake](https://dribbble.com/shots/)
+
++ [The bay](https://dribbble.com/shots/)
+
++ [Ghosts Sheets](https://dribbble.com/shots/)
+
++ [Webui](https://dribbble.com/shots/)
+
++ [Pursue Purpose - Illustration](https://dribbble.com/shots/)
+
++ [Composition No.11](https://dribbble.com/shots/)
+
++ [Hull KR](https://dribbble.com/shots/)
+
++ [Mobile pocket](https://dribbble.com/shots/)
+
++ [Let Live Pickleball](https://dribbble.com/shots/)
+
++ [Vanitas prints](https://dribbble.com/shots/)
+

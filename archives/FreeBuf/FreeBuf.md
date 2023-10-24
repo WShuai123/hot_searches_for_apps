@@ -47,3 +47,5 @@
 
 + [Windows应急响应 | 入侵排查指南](https://www.freebuf.com/articles/system/380558.html)
 
++ [谷歌计划从Chrome119起测试IP隐私保护功能](https://www.freebuf.com/news/381609.html)
+
