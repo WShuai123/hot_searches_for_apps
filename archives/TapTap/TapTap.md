@@ -23,3 +23,7 @@
 
 + [明日方舟](https://www.taptap.cn/app/70253)
 
++ [绯色回响](https://www.taptap.cn/app/378321)
+
++ [祖宗模拟器](https://www.taptap.cn/app/238377)
+
