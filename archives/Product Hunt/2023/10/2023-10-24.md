@@ -103,3 +103,55 @@
 
 + [Galxe](https://www.producthunt.com/posts/galxe)
 
++ [Universal Money Address](https://www.producthunt.com/posts/universal-money-address)
+
++ [Talently.ai](https://www.producthunt.com/posts/talently-ai-2)
+
++ [Mastering Customer Acquisition Playbook](https://www.producthunt.com/posts/mastering-customer-acquisition-playbook)
+
++ [ZenDPA](https://www.producthunt.com/posts/zendpa)
+
++ [Banter](https://www.producthunt.com/posts/banter-db7e0a94-a51a-4595-8490-0d0888622e3e)
+
++ [Foodie Toolz](https://www.producthunt.com/posts/foodie-toolz)
+
++ [Real Or AI](https://www.producthunt.com/posts/real-or-ai)
+
++ [Prescene](https://www.producthunt.com/posts/prescene)
+
++ [Metronome Lite Pro](https://www.producthunt.com/posts/metronome-lite-pro)
+
++ [Sixty](https://www.producthunt.com/posts/sixty-2)
+
++ [AltFind: Interview Bits](https://www.producthunt.com/posts/altfind-interview-bits)
+
++ [Ava PLS](https://www.producthunt.com/posts/ava-pls)
+
++ [TalentPitch](https://www.producthunt.com/posts/talentpitch)
+
++ [Horoscope Horizon](https://www.producthunt.com/posts/horoscope-horizon)
+
++ [Sentrya](https://www.producthunt.com/posts/sentrya)
+
++ [PriceParrot](https://www.producthunt.com/posts/priceparrot)
+
++ [Questgen.ai](https://www.producthunt.com/posts/questgen-ai)
+
++ [Dashboards by Equals](https://www.producthunt.com/posts/dashboards-by-equals-2)
+
++ [NameSprint](https://www.producthunt.com/posts/namesprint)
+
++ [EazyRAG](https://www.producthunt.com/posts/eazyrag)
+
++ [Sidecade](https://www.producthunt.com/posts/sidecade)
+
++ [AgencyOS (Powered by Directus)](https://www.producthunt.com/posts/agencyos-powered-by-directus)
+
++ [Leonardo Labs](https://www.producthunt.com/posts/leonardo-labs)
+
++ [leaf](https://www.producthunt.com/posts/leaf-46a1cb29-2e7d-4a44-a755-b31fce5dbac7)
+
++ [Selzy](https://www.producthunt.com/posts/selzy)
+
++ [Zaplify](https://www.producthunt.com/posts/zaplify)
+

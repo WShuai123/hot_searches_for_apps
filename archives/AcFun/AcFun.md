@@ -99,3 +99,5 @@
 
 + [和舰娘一起度过甜蜜夜色～Genie—少女时代竖屏来袭](http://www.acfun.cn/v/ac42729108)
 
++ [HOT PINK 竖屏](http://www.acfun.cn/v/ac42726881)
+

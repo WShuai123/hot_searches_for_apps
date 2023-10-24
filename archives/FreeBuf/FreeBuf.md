@@ -53,3 +53,5 @@
 
 + [巴基斯坦和阿富汗被 DoNot Team 黑客组织“盯上了”！](https://www.freebuf.com/news/381613.html)
 
++ [AiCEF：一款功能强大的网络安全演习协同框架](https://www.freebuf.com/sectool/379040.html)
+
