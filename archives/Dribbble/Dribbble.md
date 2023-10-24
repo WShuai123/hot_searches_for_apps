@@ -317,3 +317,15 @@
 
 + [Vanitas prints](https://dribbble.com/shots/)
 
++ [Cube](https://dribbble.com/shots/)
+
++ [Vectober 2023 21 // Have fun](https://dribbble.com/shots/)
+
++ [Healthcare service - Mobile app](https://dribbble.com/shots/)
+
++ [Mining Machine II](https://dribbble.com/shots/)
+
++ [Eric](https://dribbble.com/shots/)
+
++ [Gaggenau/website redesign](https://dribbble.com/shots/)
+

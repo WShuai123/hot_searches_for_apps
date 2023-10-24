@@ -49,3 +49,5 @@
 
 + [谷歌计划从Chrome119起测试IP隐私保护功能](https://www.freebuf.com/news/381609.html)
 
++ [二进制选手的web安全之路(0x2) : CSRF跨站请求伪造](https://www.freebuf.com/articles/web/380575.html)
+
