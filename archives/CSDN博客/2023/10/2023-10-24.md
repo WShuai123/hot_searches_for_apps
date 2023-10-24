@@ -127,3 +127,7 @@
 
 + [云原生之深入解析Kubernetes Pod如何获取IP地址](https://blog.csdn.net/Forever_wj/article/details/133998494)
 
++ [Hive SQL 函数高阶应用场景](https://blog.csdn.net/software444/article/details/133971818)
+
++ [Ubuntu OpenLDAP配置笔记](https://blog.csdn.net/caoshiying/article/details/133995816)
+

@@ -33,3 +33,7 @@
 
 + [摩尔线程 MTT S80 国产显卡降价，2999 → 1199 元](https://m.ithome.com/html/726996.htm)
 
++ [12+256GB 1579 元、16+1T 1979 元：小米 Redmi Note 12 Turbo 手机发车](https://m.ithome.com/html/727044.htm)
+
++ [中国联通完成 XR 通话测试，覆盖小米、OPPO、vivo、华为、荣耀 32 款手机](https://m.ithome.com/html/726972.htm)
+

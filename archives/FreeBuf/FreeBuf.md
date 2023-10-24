@@ -43,3 +43,7 @@
 
 + [MS Exchange攻击日志分析一](https://www.freebuf.com/articles/web/380339.html)
 
++ [FreeBuf早报 | 卡西欧数据泄露；国际刑事法院遭网络间谍入侵](https://www.freebuf.com/news/381520.html)
+
++ [Windows应急响应 | 入侵排查指南](https://www.freebuf.com/articles/system/380558.html)
+
