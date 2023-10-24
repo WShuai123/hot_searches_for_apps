@@ -101,3 +101,7 @@
 
 + [HOT PINK 竖屏](http://www.acfun.cn/v/ac42726881)
 
++ [警察施暴，那就斩杀重案组《复仇者之死》麦浚龙的黑暗之作](http://www.acfun.cn/v/ac42729223)
+
++ [RED 竖屏](http://www.acfun.cn/v/ac42727262)
+

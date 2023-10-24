@@ -191,3 +191,35 @@
 
 + [消息称三星GalaxyS24将是有史以来最智能AI手机 超谷歌苹果](https://www.3dmgame.com/news/202310/3880040.html)
 
++ [漫威陨落？《惊奇队长2》首映周末收入预计仅为前作一半](https://www.3dmgame.com/news/202310/3880064.html)
+
++ [FS社举行大型招聘说明会 多个新项目正在开发中](https://www.3dmgame.com/news/202310/3880054.html)
+
++ [庆祝辐射日 《辐射》系列游戏特卖中](https://www.3dmgame.com/news/202310/3880057.html)
+
++ [肉鸽卡牌游戏《卡牌RPG：迷雾战场》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202310/3880055.html)
+
++ [纪念《合金装备：大师合集Vol.1》发售 真岛浩等特绘精美插画](https://www.3dmgame.com/news/202310/3880063.html)
+
++ [《哥布林杀手：另一个冒险-噩梦盛宴》Steam页面上线 明年2月28日发售](https://www.3dmgame.com/news/202310/3880051.html)
+
++ [恐怖冒险游戏《Crow Country》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202310/3880058.html)
+
++ [自由建造自己的世界——《都市：天际线2》登陆PC](https://www.3dmgame.com/news/202310/3880062.html)
+
++ [Nexon手游《真三国无双M》公布 今冬全球上线](https://www.3dmgame.com/news/202310/3880048.html)
+
++ [抓紧入手！ 《底特律》周促，平史低-50%！](https://www.3dmgame.com/news/202310/3880060.html)
+
++ [《迈阿密热线合集》现已登陆PS5和Xbox Sries主机](https://www.3dmgame.com/news/202310/3880061.html)
+
++ [《方舟生存进化》次世代版本支持跨平台模组，无畏龙概念图公开](https://www.3dmgame.com/news/202310/3880059.html)
+
++ [国游《叛逆神魂》steam试玩上线 剧情向视觉系RPG](https://www.3dmgame.com/news/202310/3880056.html)
+
++ [《距离8点还有3分钟》登陆steam 烧脑像素风冒险](https://www.3dmgame.com/news/202310/3880053.html)
+
++ [《暗黑4》新增“奶牛关”线索：一位玩家已斩1998只牛](https://www.3dmgame.com/news/202310/3880049.html)
+
++ [主创讨论《爱丽丝：疯人院》被EA取消：大受打击](https://www.3dmgame.com/news/202310/3880052.html)
+

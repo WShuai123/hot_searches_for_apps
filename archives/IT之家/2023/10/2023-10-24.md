@@ -45,3 +45,7 @@
 
 + [苹果 iPhone 15 全系电商价格大跳水，更抗跌的 Pro 系列也降价千元](https://m.ithome.com/html/727182.htm)
 
++ [小米 14 手机官方渲染图放出，采用经典立边与巴黎饰钉纹理设计](https://m.ithome.com/html/727197.htm)
+
++ [小米 14 手机预热：“光影猎人”传感器配备 1/1.31 英寸大底，同尺寸功耗降低 42%](https://m.ithome.com/html/727145.htm)
+
