@@ -269,3 +269,9 @@
 
 + [《上古卷轴6》过早公布是因为粉丝们的压力](https://www.3dmgame.com/news/202310/3880088.html)
 
++ [心理恐怖《杀死公主》好评如潮 Steam特惠促销](https://www.3dmgame.com/news/202310/3880091.html)
+
++ [《合金装备：大师合集Vol. 1》游戏文件暗含4代和5代复刻线索](https://www.3dmgame.com/news/202310/3880089.html)
+
++ [大众宣布明年开始将在挪威取缔燃油车 100%销售电动汽车](https://www.3dmgame.com/news/202310/3880090.html)
+

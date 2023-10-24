@@ -61,3 +61,5 @@
 
 + [小米 Redmi K70 系列两款新机通过 3C 认证，均支持 120W 快充](https://m.ithome.com/html/727089.htm)
 
++ [全网 11.11 狂促正式开抢：iPhone 15 京东立砍 500 元，摩尔线程显卡 4 折购](https://m.ithome.com/html/727306.htm)
+
