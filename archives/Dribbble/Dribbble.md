@@ -329,3 +329,19 @@
 
 + [Gaggenau/website redesign](https://dribbble.com/shots/)
 
++ [Horizons Art Print Series](https://dribbble.com/shots/)
+
++ [Oracle Payroll – Salary Management App](https://dribbble.com/shots/)
+
++ [Booking Web App](https://dribbble.com/shots/)
+
++ [N shape](https://dribbble.com/shots/)
+
++ [Leaf and Pebble icons](https://dribbble.com/shots/)
+
++ [Vectober 2023 18 // Mystery](https://dribbble.com/shots/)
+
++ [Bear Logo](https://dribbble.com/shots/)
+
++ [Dog Sledding Mobile Website](https://dribbble.com/shots/)
+

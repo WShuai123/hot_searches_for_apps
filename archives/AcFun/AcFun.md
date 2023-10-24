@@ -95,3 +95,7 @@
 
 + [拒绝“死磕”立绘的《钢岚》，能否摆脱轻玩法的魔咒？](http://www.acfun.cn/v/ac42727440)
 
++ [试一下吧](http://www.acfun.cn/v/ac42728872)
+
++ [和舰娘一起度过甜蜜夜色～Genie—少女时代竖屏来袭](http://www.acfun.cn/v/ac42729108)
+

@@ -145,3 +145,9 @@
 
 + [SpringBoot AOP + Redis 延时双删功能实战](https://blog.csdn.net/weixin_38933806/article/details/133997648)
 
++ [深入探讨MySQL数据库的InnoDB存储引擎架构](https://blog.csdn.net/weixin_44953658/article/details/134004082)
+
++ [CTF/AWD竞赛标准参考书+实战指南：《AWD特训营》](https://blog.csdn.net/weixin_58070962/article/details/133995206)
+
++ [MySQL | 数据库的管理和操作【表的增删改查】](https://blog.csdn.net/2201_76004325/article/details/133919170)
+

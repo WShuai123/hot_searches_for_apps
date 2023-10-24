@@ -51,3 +51,5 @@
 
 + [二进制选手的web安全之路(0x2) : CSRF跨站请求伪造](https://www.freebuf.com/articles/web/380575.html)
 
++ [巴基斯坦和阿富汗被 DoNot Team 黑客组织“盯上了”！](https://www.freebuf.com/news/381613.html)
+
