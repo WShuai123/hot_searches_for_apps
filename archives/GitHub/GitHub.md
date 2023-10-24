@@ -51,3 +51,39 @@
 
 + [RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
++ [eureka-research / Eureka](https://github.com/eureka-research/Eureka)
+
++ [ZachGoldberg / Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [microsoft / Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+
++ [xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
++ [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [XingangPan / DragGAN](https://github.com/XingangPan/DragGAN)
+
++ [Em1tSan / NeuroGPT](https://github.com/Em1tSan/NeuroGPT)
+
++ [syncthing / syncthing](https://github.com/syncthing/syncthing)
+
++ [IceWhaleTech / CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [THUDM / AgentTuning](https://github.com/THUDM/AgentTuning)
+
++ [vuejs / vue](https://github.com/vuejs/vue)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver)
+

@@ -155,3 +155,13 @@
 
 + [滤波器设计工具简介](https://blog.csdn.net/jk_101/article/details/124800585)
 
++ [《数字图像处理-OpenCV/Python》连载（26）绘制椭圆和椭圆弧](https://blog.csdn.net/youcans/article/details/134014737)
+
++ [SpringCloud微服务 【实用篇】| 认识微服务](https://blog.csdn.net/m0_61933976/article/details/133159874)
+
++ [Python实战｜车型识别小程序](https://blog.csdn.net/happyApple_/article/details/134005531)
+
++ [MySQL MVCC机制探秘：数据一致性与并发处理的完美结合，助你成为数据库高手](https://blog.csdn.net/m0_70952941/article/details/134009919)
+
++ [了解docker](https://blog.csdn.net/qq_41420788/article/details/131684646)
+

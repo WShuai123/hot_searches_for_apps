@@ -55,3 +55,7 @@
 
 + [魅族完成统一推送标准适配](https://m.ithome.com/html/727147.htm)
 
++ [消息称字节跳动旗下 PICO 近半员工离开，多名高管离职调岗](https://m.ithome.com/html/727090.htm)
+
++ [微博测试访客记录功能，目前仅 SVIP 和 VVIP 可查看](https://m.ithome.com/html/727102.htm)
+

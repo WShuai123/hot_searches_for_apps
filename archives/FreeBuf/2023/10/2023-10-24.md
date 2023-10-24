@@ -57,3 +57,5 @@
 
 + [谁才是「年度安全品牌影响力」| WitAwards 2023年度评选进行时](https://www.freebuf.com/fevents/381590.html)
 
++ [AI虚假信息：越发看不见的真实](https://www.freebuf.com/articles/381647.html)
+
