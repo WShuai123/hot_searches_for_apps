@@ -263,3 +263,7 @@
 
 + [丰田研发新型固态电池 最早于2027年投入使用](https://www.3dmgame.com/news/202310/3880085.html)
 
++ [《城市：天际线2》开发者：目标是30FPS，而非60](https://www.3dmgame.com/news/202310/3880086.html)
+
++ [《海贼王》真人版第二季开始创作 编剧团队晒合照](https://www.3dmgame.com/news/202310/3880087.html)
+
