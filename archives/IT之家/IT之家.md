@@ -49,3 +49,5 @@
 
 + [小米 14 手机预热：“光影猎人”传感器配备 1/1.31 英寸大底，同尺寸功耗降低 42%](https://m.ithome.com/html/727145.htm)
 
++ [小米 14 Pro 手机现身 Geekbench：配备 16GB RAM，多核得分 7466](https://m.ithome.com/html/727128.htm)
+

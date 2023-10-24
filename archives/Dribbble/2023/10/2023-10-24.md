@@ -361,3 +361,21 @@
 
 + [Iced tea ✴ with mint & oranges](https://dribbble.com/shots/)
 
++ [Vectober 2023 20 // Have fun](https://dribbble.com/shots/)
+
++ [Data Management Dashboard](https://dribbble.com/shots/)
+
++ [Vintage camera](https://dribbble.com/shots/)
+
++ [Garden](https://dribbble.com/shots/)
+
++ [EkW EV Charging Booking App UI UX Mobile App Design](https://dribbble.com/shots/)
+
++ [Paint art illustrations](https://dribbble.com/shots/)
+
++ [✨ Clerk](https://dribbble.com/shots/)
+
++ [Dalton Winery](https://dribbble.com/shots/)
+
++ [Silver Cup Coffee](https://dribbble.com/shots/)
+

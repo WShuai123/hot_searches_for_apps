@@ -223,3 +223,7 @@
 
 + [主创讨论《爱丽丝：疯人院》被EA取消：大受打击](https://www.3dmgame.com/news/202310/3880052.html)
 
++ [坂口博信：创新是FF精髓 《最终幻想16》已很好诠释](https://www.3dmgame.com/news/202310/3880066.html)
+
++ [《心灵杀手2》PS5版下载大小80GB 预加载即将开启](https://www.3dmgame.com/news/202310/3880065.html)
+
