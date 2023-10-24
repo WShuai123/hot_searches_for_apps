@@ -165,3 +165,13 @@
 
 + [了解docker](https://blog.csdn.net/qq_41420788/article/details/131684646)
 
++ [Azure - 机器学习企业级服务概述与介绍](https://blog.csdn.net/magicyangjay111/article/details/134013483)
+
++ [Spring Boot实战 | 如何整合高性能数据库连接池HikariCP](https://blog.csdn.net/superdangbo/article/details/134008940)
+
++ [Rust所有权](https://blog.csdn.net/chenlong_cxy/article/details/134010945)
+
++ [Linux中shell外壳，用户权限，文件权限](https://blog.csdn.net/qq_74276498/article/details/133960172)
+
++ [Flutter饱受争议的7个缺点，大家怎么看？](https://blog.csdn.net/finogeeks/article/details/131720624)
+

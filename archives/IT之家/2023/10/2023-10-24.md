@@ -59,3 +59,5 @@
 
 + [微博测试访客记录功能，目前仅 SVIP 和 VVIP 可查看](https://m.ithome.com/html/727102.htm)
 
++ [小米 Redmi K70 系列两款新机通过 3C 认证，均支持 120W 快充](https://m.ithome.com/html/727089.htm)
+
