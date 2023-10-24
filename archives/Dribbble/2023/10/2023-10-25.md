@@ -167,3 +167,37 @@
 
 + [Startup icon](https://dribbble.com/shots/)
 
++ [Horizons Art Print Series](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+
++ [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
+
++ [Yellow NYC](https://dribbble.com/shots/)
+
++ [Spooky Island Tutorial](https://dribbble.com/shots/)
+
++ [Data](https://dribbble.com/shots/)
+
++ [Foresight Wellness](https://dribbble.com/shots/)
+
++ [You were made for victory](https://dribbble.com/shots/)
+
++ [The giant robot attack!](https://dribbble.com/shots/)
+
++ [Finance - Online Banking App Concept](https://dribbble.com/shots/)
+
++ [Vanitas prints](https://dribbble.com/shots/)
+
++ [Pungent Puddle Pals](https://dribbble.com/shots/)
+
++ [Vectober 2023 18 // Mystery](https://dribbble.com/shots/)
+
++ [Seth Milot - Gallery Page](https://dribbble.com/shots/)
+
++ [Data Management Dashboard](https://dribbble.com/shots/)
+
++ [Frame.so - File Panel](https://dribbble.com/shots/)
+
++ [Grup!](https://dribbble.com/shots/)
+

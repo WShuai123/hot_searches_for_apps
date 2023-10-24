@@ -101,3 +101,11 @@
 
 + [万智牌宣布与漫威联动 上线日期待定](https://www.3dmgame.com/news/202310/3880033.html)
 
++ [评级委员会证实 《GTA6》年龄分级是假的](https://www.3dmgame.com/news/202310/3880099.html)
+
++ [NVIDIA分享《心灵杀手2》路径追踪新技术细节](https://www.3dmgame.com/news/202310/3880098.html)
+
++ [《Gori：Cuddly Carnage》剧情预告片分享](https://www.3dmgame.com/news/202310/3880097.html)
+
++ [《星球大战：黑暗力量》重制版明年2/28推出](https://www.3dmgame.com/news/202310/3880096.html)
+
