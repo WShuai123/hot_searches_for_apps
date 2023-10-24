@@ -2,7 +2,7 @@
 
 从**2023年8月16**日开始。
 
-每1个小时获取一次。
+每1个小时获取一次，按天归档。
 
 获取到的热搜以markdown的形式保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
 
