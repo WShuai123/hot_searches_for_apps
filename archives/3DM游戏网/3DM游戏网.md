@@ -141,3 +141,15 @@
 
 + [沙特将每年举办电竞世界杯 从2024年夏季开始](https://www.3dmgame.com/news/202310/3880106.html)
 
++ [roguelike卡组棋盘游戏《游侠物语》Steam页面上线  支持简体中文](https://www.3dmgame.com/news/202310/3880121.html)
+
++ [《星空》设计师谈B社设计理念与《博德之门3》有何不同](https://www.3dmgame.com/news/202310/3880117.html)
+
++ [传闻：任天堂正在讨论《超级马里奥兄弟3：重制版》](https://www.3dmgame.com/news/202310/3880120.html)
+
++ [《小小大星球》开发商Media Molecule计划裁员20人](https://www.3dmgame.com/news/202310/3880119.html)
+
++ [育碧正在将Rocksmith+拓展至吉他以外的领域](https://www.3dmgame.com/news/202310/3880118.html)
+
++ [《指环王：重返莫瑞亚》官方发售预告 国区售价128元](https://www.3dmgame.com/news/202310/3880116.html)
+

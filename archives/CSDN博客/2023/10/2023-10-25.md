@@ -135,3 +135,9 @@
 
 + [【RTOS学习】事件组 | 任务通知](https://blog.csdn.net/weixin_63726869/article/details/133963918)
 
++ [AIGC实战——深度学习 (Deep Learning, DL)](https://blog.csdn.net/LOVEmy134611/article/details/133967709)
+
++ [【微信小程序开发】小程序的事件处理和交互逻辑（最详细）](https://blog.csdn.net/m0_63947499/article/details/133803449)
+
++ [云原生之深入解析Kubernetes集群内的服务通信机制](https://blog.csdn.net/Forever_wj/article/details/134020238)
+

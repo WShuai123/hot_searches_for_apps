@@ -51,3 +51,5 @@
 
 + [马斯克也曾被骗，AI虚假内容太“真实”了](https://www.freebuf.com/articles/381647.html)
 
++ [GEEKCON安全极客大赛现场直击，从攻击可视化到安全可度量](https://www.freebuf.com/news/381706.html)
+

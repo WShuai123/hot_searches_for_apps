@@ -33,3 +33,5 @@
 
 + [卢伟冰：小米 14 系列手机全球首发骁龙 8 Gen 3，汽车明年发布](https://m.ithome.com/html/727365.htm)
 
++ [小米 14 真机现身 2023 骁龙峰会，标准版四款配色公布](https://m.ithome.com/html/727371.htm)
+
