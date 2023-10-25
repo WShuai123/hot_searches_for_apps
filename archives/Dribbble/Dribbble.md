@@ -227,3 +227,17 @@
 
 + [Central park](https://dribbble.com/shots/)
 
++ [Vectober 2023 25 // Coral](https://dribbble.com/shots/)
+
++ [Crypto service - Mobile app](https://dribbble.com/shots/)
+
++ [R dropcap](https://dribbble.com/shots/)
+
++ [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
+
++ [Oscar Health — Health Insurance App](https://dribbble.com/shots/)
+
++ [Sony Interactive | Corporate redesign](https://dribbble.com/shots/)
+
++ [N shape](https://dribbble.com/shots/)
+

@@ -125,3 +125,5 @@
 
 + [GPT带我学-设计模式-10观察者模式](https://blog.csdn.net/qq_37398465/article/details/133932205)
 
++ [Spring高手之路15——掌握Spring事件监听器的内部逻辑与实现](https://blog.csdn.net/qq_34115899/article/details/134012166)
+

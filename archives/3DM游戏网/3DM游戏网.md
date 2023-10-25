@@ -109,3 +109,21 @@
 
 + [有意为之！《漫威蜘蛛侠2》默认开启光追](https://www.3dmgame.com/news/202310/3880172.html)
 
++ [《Fate/Samurai Remnant》将加入更多难度选择及BOSS战模式](https://www.3dmgame.com/news/202310/3880184.html)
+
++ [中世纪策略游戏《庄园领主》明年4月发售](https://www.3dmgame.com/news/202310/3880183.html)
+
++ [消息称《浪漫沙加开拓者2》重制版明年发售](https://www.3dmgame.com/news/202310/3880181.html)
+
++ [《冲就完事模拟器》开发商公布肉鸽动作新作《伊卡洛不死》](https://www.3dmgame.com/news/202310/3880182.html)
+
++ [《机械战警：暴戾都市》Xbox合作伙伴预览会新视频](https://www.3dmgame.com/news/202310/3880180.html)
+
++ [SEGA公开《如龙8》预告介绍篝火岛新玩法](https://www.3dmgame.com/news/202310/3880179.html)
+
++ [神奇狐狸之旅《北方之灵2》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202310/3880178.html)
+
++ [《合金装备Δ：食蛇者》首部虚幻5引擎内预告片分享](https://www.3dmgame.com/news/202310/3880177.html)
+
++ [虚幻5重制 《方舟：生存上升》首部实机预告片公布](https://www.3dmgame.com/news/202310/3880176.html)
+

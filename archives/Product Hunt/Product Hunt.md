@@ -107,3 +107,5 @@
 
 + [gnow](https://www.producthunt.com/posts/gnow)
 
++ [Spice.ai](https://www.producthunt.com/posts/spice-ai)
+

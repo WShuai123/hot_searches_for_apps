@@ -33,3 +33,5 @@
 
 + [京东 80% 的系统完成了国产化替代](https://m.ithome.com/html/727459.htm)
 
++ [小米首款血压手表官宣明日发布，获得二类医疗器械证](https://m.ithome.com/html/727437.htm)
+
