@@ -145,3 +145,7 @@
 
 + [【Unity程序技巧】异步保险箱管理器](https://blog.csdn.net/m0_64128218/article/details/133981691)
 
++ [前端开发实践：vue中用qrcode库将超链接生成二维码图片](https://blog.csdn.net/qq_21891743/article/details/134022945)
+
++ [如何对Linux 本地WBO创作白板进行远程访问？](https://blog.csdn.net/qq_57761637/article/details/134022042)
+

@@ -163,3 +163,25 @@
 
 + [《星空》社区补丁Mod修复几十个Bug 感谢民间大神](https://www.3dmgame.com/news/202310/3880126.html)
 
++ [《勇者斗恶龙10离线版》中文版第一部宣传影片 明年发售](https://www.3dmgame.com/news/202310/3880134.html)
+
++ [这能评级3岁+？醉驾游戏被从Switch商店下架](https://www.3dmgame.com/news/202310/3880135.html)
+
++ [小米14全球首发第三代骁龙8：《原神》几乎稳60帧](https://www.3dmgame.com/news/202310/3880136.html)
+
++ [2024放假具体安排公布 鼓励落实带薪年假制度](https://www.3dmgame.com/news/202310/3880138.html)
+
++ [任天堂小型粉丝赛事新规定：每日参赛者上限2百人](https://www.3dmgame.com/news/202310/3880131.html)
+
++ [《拳皇13：全球大赛》新预告发布 11月16日发售](https://www.3dmgame.com/news/202310/3880132.html)
+
++ [《星空》玩家数破1100万 近一半游戏时间是PC平台贡献](https://www.3dmgame.com/news/202310/3880130.html)
+
++ [部分零售商已经上架《现代战争3》同捆新版PS5](https://www.3dmgame.com/news/202310/3880133.html)
+
++ [Xbox领导团队首次访问暴雪总部 菲尔·斯宾塞发表讲话](https://www.3dmgame.com/news/202310/3880127.html)
+
++ [勒索卡普空黑客组织被捣毁 曾索要1100万美元](https://www.3dmgame.com/news/202310/3880128.html)
+
++ [三七互娱与华为深化合作 加强AIGC、鸿蒙生态合作](https://www.3dmgame.com/news/202310/3880129.html)
+

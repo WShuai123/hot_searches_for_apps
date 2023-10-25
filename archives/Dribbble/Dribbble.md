@@ -307,3 +307,21 @@
 
 + [Big illustration set for Ciseway](https://dribbble.com/shots/)
 
++ [Country Counter App Concept](https://dribbble.com/shots/)
+
++ [S1.E8 Building Brands that Advance Humanity Forward](https://dribbble.com/shots/)
+
++ [Dark Woods](https://dribbble.com/shots/)
+
++ [CF Monogram](https://dribbble.com/shots/)
+
++ [LPF emblem](https://dribbble.com/shots/)
+
++ [Jordan 4 noodles](https://dribbble.com/shots/)
+
++ [Clerk - Pricing](https://dribbble.com/shots/)
+
++ [Oakwood - Girl Reading](https://dribbble.com/shots/)
+
++ [Action button + iPhone 15 Pro Max in Halide](https://dribbble.com/shots/)
+

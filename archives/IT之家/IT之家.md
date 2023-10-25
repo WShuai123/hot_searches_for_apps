@@ -39,3 +39,5 @@
 
 + [神舟十七号瞄准明日 11 时 14 分发射，汤洪波成为重返天宫第一人](https://m.ithome.com/html/727392.htm)
 
++ [小米 14 手机屏幕预热：1.5K 分辨率 + 460PPI，支持 1-120Hz LTPO](https://m.ithome.com/html/727404.htm)
+
