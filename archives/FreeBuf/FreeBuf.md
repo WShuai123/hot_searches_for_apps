@@ -67,3 +67,7 @@
 
 + [Nac_Bypass_Agent：一款功能强大的网络准入控制（NAC）绕过工具](https://www.freebuf.com/sectool/379039.html)
 
++ [招聘！唯品会大量信息安全招聘岗位等你来](https://www.freebuf.com/news/381757.html)
+
++ [iOS 零日漏洞：卡巴斯基深入披露“三角测量”攻击](https://www.freebuf.com/news/381748.html)
+

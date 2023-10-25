@@ -201,3 +201,5 @@
 
 + [本周Fami通游戏评分出炉 《刺客信条：幻景》获33分](https://www.3dmgame.com/news/202310/3880144.html)
 
++ [TV动画《月光下的异世界之旅》第二季正式PV 明年1月播出](https://www.3dmgame.com/news/202310/3880145.html)
+

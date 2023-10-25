@@ -149,3 +149,27 @@
 
 + [Arch](https://www.producthunt.com/posts/arch-2)
 
++ [Zoho Sheet '24](https://www.producthunt.com/posts/zoho-sheet-24)
+
++ [WriteJoy](https://www.producthunt.com/posts/writejoy-2)
+
++ [True AI](https://www.producthunt.com/posts/true-ai)
+
++ [NotAnotherTechEvent](https://www.producthunt.com/posts/notanothertechevent)
+
++ [Coday](https://www.producthunt.com/posts/coday)
+
++ [miingl](https://www.producthunt.com/posts/miingl)
+
++ [VideoMyListing](https://www.producthunt.com/posts/videomylisting)
+
++ [Freedom for Teams](https://www.producthunt.com/posts/freedom-for-teams)
+
++ [Propel Money](https://www.producthunt.com/posts/propel-money)
+
++ [Docue.AI](https://www.producthunt.com/posts/docue-ai)
+
++ [Tabular](https://www.producthunt.com/posts/tabular-2)
+
++ [How Are You (HAY) for Slack](https://www.producthunt.com/posts/how-are-you-hay-for-slack)
+
