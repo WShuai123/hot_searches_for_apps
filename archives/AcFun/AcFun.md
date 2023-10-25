@@ -99,3 +99,13 @@
 
 + [失眠系列之《如何让曼浓睡不着》](http://www.acfun.cn/v/ac42746677)
 
++ [哇，新鞋，好漂亮。【今日好笑视频 #514】](http://www.acfun.cn/v/ac42728576)
+
++ [又是瘟疫又是假币，引得拉泰鲇鱼出手破案](http://www.acfun.cn/v/ac42736129)
+
++ [熟悉的地方睡的踏实。【今日好笑视频 #515】](http://www.acfun.cn/v/ac42738292)
+
++ [庚辰 Stellar - Sting](http://www.acfun.cn/v/ac42739031)
+
++ [一舞百媚生](http://www.acfun.cn/v/ac42739640)
+

@@ -167,3 +167,15 @@
 
 + [【微信小程序】实现授权登入---超详细讲解](https://blog.csdn.net/m0_73192864/article/details/134000121)
 
++ [MATLAB | 两种上色方式的旭日图绘制](https://blog.csdn.net/slandarer/article/details/134025373)
+
++ [Azure - 机器学习：创建机器学习所需资源，配置工作区](https://blog.csdn.net/magicyangjay111/article/details/134027802)
+
++ [ChatGPT在机器学习中的应用与实践](https://blog.csdn.net/qq_44273429/article/details/134014168)
+
++ [Spark-Core](https://blog.csdn.net/weixin_44624117/article/details/134016399)
+
++ [【Python数据挖掘】优化电能能源策略：基于非侵入式负荷检测与分解的智能解决方案](https://blog.csdn.net/2301_77485708/article/details/134018390)
+
++ [【计算机网络笔记】网络应用进程通信](https://blog.csdn.net/m0_60511809/article/details/133945311)
+

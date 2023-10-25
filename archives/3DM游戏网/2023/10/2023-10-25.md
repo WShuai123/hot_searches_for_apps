@@ -229,3 +229,13 @@
 
 + [《暗黑破坏神4》首个DLC“憎恨之王”泄露 库拉斯特回归](https://www.3dmgame.com/news/202310/3880157.html)
 
++ [英伟达开始执行美国新规：一大波儿芯片停供](https://www.3dmgame.com/news/202310/3880165.html)
+
++ [特斯拉皮卡再遭质疑 上控制臂只用单层冲压钢板](https://www.3dmgame.com/news/202310/3880162.html)
+
++ [演绎推理游戏《重返犯罪现场》现已登录Steam，支持中文](https://www.3dmgame.com/news/202310/3880164.html)
+
++ [存款50万秒杀国内90%年轻人：很多人存款不够买台苹果15](https://www.3dmgame.com/news/202310/3880163.html)
+
++ [骁龙8 Gen3正式发布 8K240手游成真！性能飙升98％](https://www.3dmgame.com/news/202310/3880161.html)
+
