@@ -101,3 +101,5 @@
 
 + [How Are You (HAY) for Slack](https://www.producthunt.com/posts/how-are-you-hay-for-slack)
 
++ [SignalZen](https://www.producthunt.com/posts/signalzen-4)
+

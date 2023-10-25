@@ -93,3 +93,43 @@
 
 + [Capify Business Cards](https://dribbble.com/shots/)
 
++ [Iced tea ✴ with mint & oranges](https://dribbble.com/shots/)
+
++ [Burnt Out](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [A Light in the Woods: Site Reveal](https://dribbble.com/shots/)
+
++ [Let Me In- beer label](https://dribbble.com/shots/)
+
++ [Dark Woods](https://dribbble.com/shots/)
+
++ [8Luck](https://dribbble.com/shots/)
+
++ [Munchers - Brand Identity and Brand Book](https://dribbble.com/shots/)
+
++ [Cain Electric Logo Before/After](https://dribbble.com/shots/)
+
++ [Vectober 2023 21 // Have fun](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+
++ [Silver Cup Coffee](https://dribbble.com/shots/)
+
++ [Case Study: Dog Sledding Service Website](https://dribbble.com/shots/)
+
++ [Stona House](https://dribbble.com/shots/)
+
++ [Finance Management App](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [THE CRANE - ROARK](https://dribbble.com/shots/)
+
++ [CF Monogram](https://dribbble.com/shots/)
+
++ [Canterbury Bankstown Bulldogs](https://dribbble.com/shots/)
+
++ [Old video games](https://dribbble.com/shots/)
+

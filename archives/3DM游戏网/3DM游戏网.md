@@ -101,3 +101,11 @@
 
 + [《指环王：重返莫瑞亚》官方发售预告 国区售价128元](https://www.3dmgame.com/news/202310/3880116.html)
 
++ [生活模拟《Spirittea》11月13日发售 免费试玩](https://www.3dmgame.com/news/202310/3880175.html)
+
++ [《心灵杀手2》上市预告发布 静待27号](https://www.3dmgame.com/news/202310/3880174.html)
+
++ [IGN评选《使命》系列最佳单机战役TOP10](https://www.3dmgame.com/news/202310/3880173.html)
+
++ [有意为之！《漫威蜘蛛侠2》默认开启光追](https://www.3dmgame.com/news/202310/3880172.html)
+
