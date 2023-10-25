@@ -207,3 +207,23 @@
 
 + [SKY - Corporate website - Blog page](https://dribbble.com/shots/)
 
++ [Grup!](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off](https://dribbble.com/shots/)
+
++ [AI Infrastructure Alliance](https://dribbble.com/shots/)
+
++ [Spooky Island Tutorial](https://dribbble.com/shots/)
+
++ [Manly Warringah Sea Eagles](https://dribbble.com/shots/)
+
++ [App UI](https://dribbble.com/shots/)
+
++ [LPF emblem](https://dribbble.com/shots/)
+
++ [MA-CC Logo](https://dribbble.com/shots/)
+
++ [Animal illustrations - Notion Pack](https://dribbble.com/shots/)
+
++ [Central park](https://dribbble.com/shots/)
+

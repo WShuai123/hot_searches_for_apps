@@ -121,3 +121,7 @@
 
 + [计算机网络-TCP协议](https://blog.csdn.net/zheshiyangyang/article/details/134044327)
 
++ [【计算机网络笔记】网络应用进程通信](https://blog.csdn.net/m0_60511809/article/details/133945311)
+
++ [GPT带我学-设计模式-10观察者模式](https://blog.csdn.net/qq_37398465/article/details/133932205)
+
