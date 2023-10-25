@@ -139,3 +139,5 @@
 
 + [前奏一响，初恋登场......(今日好笑开心视频：1267)](http://www.acfun.cn/v/ac42749411)
 
++ [【东方】上海红茶馆【Latchezar Dimitrov 自家发电】](http://www.acfun.cn/v/ac42747493)
+
