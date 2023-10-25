@@ -203,3 +203,9 @@
 
 + [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
 
++ [欢乐短剧](https://itunes.apple.com/cn/app/id6467614736?mt=8)
+
++ [智联招聘—招聘找工作求职招人软件](https://itunes.apple.com/cn/app/id488033535?mt=8)
+
++ [倒数日 · Days Matter](https://itunes.apple.com/cn/app/id406170251?mt=8)
+
