@@ -355,3 +355,21 @@
 
 + [Modal Logo & Brand Identity Design](https://dribbble.com/shots/)
 
++ [Faraway and Fantastical](https://dribbble.com/shots/)
+
++ [Eli Cash](https://dribbble.com/shots/)
+
++ [Oscar Health — Health Insurance App](https://dribbble.com/shots/)
+
++ [Frog life cycle](https://dribbble.com/shots/)
+
++ [Cat Staring Contest](https://dribbble.com/shots/)
+
++ [Ecommerce Website: animation](https://dribbble.com/shots/)
+
++ [Silver Cup Coffee](https://dribbble.com/shots/)
+
++ [La Hermana No.1](https://dribbble.com/shots/)
+
++ [Paragon](https://dribbble.com/shots/)
+

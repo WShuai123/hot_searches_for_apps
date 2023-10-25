@@ -203,3 +203,29 @@
 
 + [TV动画《月光下的异世界之旅》第二季正式PV 明年1月播出](https://www.3dmgame.com/news/202310/3880145.html)
 
++ [《堕落之主》总成本6600万美元 营销花了1930万美元](https://www.3dmgame.com/news/202310/3880158.html)
+
++ [第三方统计Steam免费游戏排名 《漫威 Snap》仅排第二](https://www.3dmgame.com/news/202310/3880160.html)
+
++ [2030年前载人登月！载人月球车两个方案被选中 进入详细设计阶段](https://www.3dmgame.com/news/202310/3880159.html)
+
++ [《最终幻想7：重生》总监：爱丽丝经典场景有大惊喜](https://www.3dmgame.com/news/202310/3880156.html)
+
++ [微软CEO承认：放弃Windows Phone和手机是个错误](https://www.3dmgame.com/news/202310/3880154.html)
+
++ [《如龙8：无尽的财富》PC配置需求公布 推荐RTX 2060显卡](https://www.3dmgame.com/news/202310/3880153.html)
+
++ [《玩具熊的午夜后宫》同名电影预计票房收入超5千万美元](https://www.3dmgame.com/news/202310/3880152.html)
+
++ [前B社设计总监谈《上古卷轴6》升级系统：沿用前作](https://www.3dmgame.com/news/202310/3880149.html)
+
++ [《叛变：沙漠风暴》“狂攻行动”发售预告 现已上线](https://www.3dmgame.com/news/202310/3880151.html)
+
++ [通过Edge下载谷歌浏览器新增弹窗 询问更改原因](https://www.3dmgame.com/news/202310/3880150.html)
+
++ [PlayStation推出全新欧冠联赛版赞助宣传片](https://www.3dmgame.com/news/202310/3880147.html)
+
++ [《明日方舟：终末地》发布新海报 疑似将有新消息](https://www.3dmgame.com/news/202310/3880148.html)
+
++ [《暗黑破坏神4》首个DLC“憎恨之王”泄露 库拉斯特回归](https://www.3dmgame.com/news/202310/3880157.html)
+
