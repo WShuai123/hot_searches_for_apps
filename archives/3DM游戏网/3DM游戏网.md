@@ -195,3 +195,9 @@
 
 + [下载超200万次的NS《西瓜游戏》发布万圣节主题更新](https://www.3dmgame.com/news/202310/3880137.html)
 
++ [这是《蜘蛛侠》游戏史上最丑战衣？你认同吗？](https://www.3dmgame.com/news/202310/3880146.html)
+
++ [扇巴掌再升级 《蔷薇与椿》官方展示指虎Joy-Con](https://www.3dmgame.com/news/202310/3880143.html)
+
++ [本周Fami通游戏评分出炉 《刺客信条：幻景》获33分](https://www.3dmgame.com/news/202310/3880144.html)
+

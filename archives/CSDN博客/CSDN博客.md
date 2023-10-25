@@ -153,3 +153,7 @@
 
 + [越流行的大语言模型越不安全](https://blog.csdn.net/longtengzhangjie/article/details/134026473)
 
++ [超强满血不收费的AI绘图教程来了（在线Stable Diffusion一键即用）](https://blog.csdn.net/ith321/article/details/133969868)
+
++ [引领位置服务驱动：腾讯地图 WebService 服务端 API 实用指南](https://blog.csdn.net/vnjohn/article/details/134024667)
+

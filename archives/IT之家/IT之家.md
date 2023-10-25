@@ -43,3 +43,5 @@
 
 + [高通骁龙 X Elite 处理器发布：支持 Win12，可本地运行 130 亿参数 AI 大模型](https://m.ithome.com/html/727353.htm)
 
++ [科技昨夜今晨 1025：高通发布骁龙 8 Gen 3 处理器、小米 14 手机官方渲染图放出、美 ONE 回应京东采销喊话李佳琦](https://m.ithome.com/html/727379.htm)
+

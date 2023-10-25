@@ -107,3 +107,45 @@
 
 + [Shaka](https://www.producthunt.com/posts/shaka)
 
++ [Mindful](https://www.producthunt.com/posts/mindful-3)
+
++ [Cookii](https://www.producthunt.com/posts/cookii)
+
++ [Rayon](https://www.producthunt.com/posts/rayon)
+
++ [Toddler Time - Let's Play!](https://www.producthunt.com/posts/toddler-time-let-s-play)
+
++ [Enhanced](https://www.producthunt.com/posts/enhanced)
+
++ [ButterDocs](https://www.producthunt.com/posts/butterdocs)
+
++ [Noodge](https://www.producthunt.com/posts/noodge)
+
++ [????️Apply Script](https://www.producthunt.com/posts/apply-script)
+
++ [LLime](https://www.producthunt.com/posts/llime)
+
++ [Basil Finance](https://www.producthunt.com/posts/basil-finance)
+
++ [Finito AI](https://www.producthunt.com/posts/finito-ai-2)
+
++ [InstaNews.ai](https://www.producthunt.com/posts/instanews-ai)
+
++ [Teachify](https://www.producthunt.com/posts/teachify-2)
+
++ [DG1](https://www.producthunt.com/posts/dg1)
+
++ [StoryBee](https://www.producthunt.com/posts/storybee)
+
++ [Entrepreneurial Wisdom In Memes](https://www.producthunt.com/posts/entrepreneurial-wisdom-in-memes)
+
++ [Investor base by Spendbase: Series A](https://www.producthunt.com/posts/investor-base-by-spendbase-series-a)
+
++ [Publer for Mastodon](https://www.producthunt.com/posts/publer-for-mastodon)
+
++ [Cloupsy WordPress Hosting](https://www.producthunt.com/posts/cloupsy-wordpress-hosting)
+
++ [Airbook](https://www.producthunt.com/posts/airbook)
+
++ [Arch](https://www.producthunt.com/posts/arch-2)
+
