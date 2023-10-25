@@ -239,3 +239,15 @@
 
 + [骁龙8 Gen3正式发布 8K240手游成真！性能飙升98％](https://www.3dmgame.com/news/202310/3880161.html)
 
++ [电影《莫斯科行动》密钥延期 延长上映至11月29日](https://www.3dmgame.com/news/202310/3880171.html)
+
++ [《合金装备：大师合集Vol.1》Steam评价“褒贬不一”](https://www.3dmgame.com/news/202310/3880167.html)
+
++ [第一人称恐怖《切勿尖叫》10月27日登陆Steam抢先体验](https://www.3dmgame.com/news/202310/3880170.html)
+
++ [《极限竞速：Motorsport》Steam评价变成“多半差评”](https://www.3dmgame.com/news/202310/3880169.html)
+
++ [微软砍掉工业元宇宙项目Project Airsim 将人工智能战略转向OpenAI](https://www.3dmgame.com/news/202310/3880168.html)
+
++ [美光推出新款LPDDR5X 支持第三代骁龙8平台](https://www.3dmgame.com/news/202310/3880166.html)
+

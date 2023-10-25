@@ -185,3 +185,7 @@
 
 + [【从删库到跑路】MySQL数据库 | 存储过程 | 存储函数(使用代码辅助理解)](https://blog.csdn.net/m0_72853403/article/details/134032345)
 
++ [非侵入式负荷检测与分解：电力数据挖掘新视角](https://blog.csdn.net/wodejiaAA/article/details/134034272)
+
++ [Linux JumpServer 堡垒机远程访问](https://blog.csdn.net/hsjsiwkwm/article/details/134032350)
+
