@@ -51,3 +51,35 @@
 
 + [neuralmagic / deepsparse](https://github.com/neuralmagic/deepsparse)
 
++ [ErickWendel / semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08)
+
++ [psf / black](https://github.com/psf/black)
+
++ [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
+
++ [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
+
++ [hehonghui / awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
+
++ [apache / incubator-answer](https://github.com/apache/incubator-answer)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [daveshap / SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [yarnpkg / berry](https://github.com/yarnpkg/berry)
+
++ [bugen / pypipe](https://github.com/bugen/pypipe)
+
++ [nuejs / nuejs](https://github.com/nuejs/nuejs)
+
++ [pmndrs / react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [getmoto / moto](https://github.com/getmoto/moto)
+

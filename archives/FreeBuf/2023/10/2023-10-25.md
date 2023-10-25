@@ -71,3 +71,5 @@
 
 + [iOS 零日漏洞：卡巴斯基深入披露“三角测量”攻击](https://www.freebuf.com/news/381748.html)
 
++ [倒计时28天 | FCIS 2023 大会精彩内容抢先看](https://www.freebuf.com/fevents/381714.html)
+

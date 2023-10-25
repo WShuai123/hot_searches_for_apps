@@ -179,3 +179,7 @@
 
 + [【计算机网络笔记】网络应用进程通信](https://blog.csdn.net/m0_60511809/article/details/133945311)
 
++ [基于CUDA的Transformer Encoder并行化](https://blog.csdn.net/qq_46009046/article/details/134020656)
+
++ [工控安全与网络安全有什么不同？](https://blog.csdn.net/dolazou/article/details/134030093)
+
