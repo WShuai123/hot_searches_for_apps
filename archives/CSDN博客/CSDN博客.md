@@ -105,3 +105,19 @@
 
 + [服务器百万并发的原理与实现](https://blog.csdn.net/txh1873749380/article/details/134030657)
 
++ [深入探究深度学习、神经网络与卷积神经网络以及它们在多个领域中的应用](https://blog.csdn.net/chenlycly/article/details/134043297)
+
++ [【Elasticsearch】es脚本编程使用详解](https://blog.csdn.net/zhangcongyi420/article/details/134041349)
+
++ [通俗介绍：什么是 Redis ？](https://blog.csdn.net/wyd_333/article/details/134024783)
+
++ [golang小游戏：飞翔的小鸟](https://blog.csdn.net/m0_63512120/article/details/134013815)
+
++ [springboot+avue医院绩效考核系统源码](https://blog.csdn.net/qq_27741787/article/details/133974029)
+
++ [网络爬虫——urllib（4）文末好书推荐](https://blog.csdn.net/m0_63951142/article/details/134013573)
+
++ [越流行的大语言模型越不安全](https://blog.csdn.net/longtengzhangjie/article/details/134026473)
+
++ [计算机网络-TCP协议](https://blog.csdn.net/zheshiyangyang/article/details/134044327)
+
