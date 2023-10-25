@@ -141,3 +141,7 @@
 
 + [云原生之深入解析Kubernetes集群内的服务通信机制](https://blog.csdn.net/Forever_wj/article/details/134020238)
 
++ [防止消息丢失与消息重复——Kafka可靠性分析及优化实践](https://blog.csdn.net/u011709538/article/details/133997855)
+
++ [【Unity程序技巧】异步保险箱管理器](https://blog.csdn.net/m0_64128218/article/details/133981691)
+

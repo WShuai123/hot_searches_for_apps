@@ -53,3 +53,9 @@
 
 + [GEEKCON安全极客大赛现场直击，从攻击可视化到安全可度量](https://www.freebuf.com/news/381706.html)
 
++ [多伦多 Pwn2Own 大赛首日战报！三星 Galaxy S23 被黑两次](https://www.freebuf.com/news/381712.html)
+
++ [勒索软件情报 | qBit RaaS以 Windows、Linux 系统为目标](https://www.freebuf.com/news/381725.html)
+
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+

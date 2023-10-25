@@ -153,3 +153,13 @@
 
 + [《指环王：重返莫瑞亚》官方发售预告 国区售价128元](https://www.3dmgame.com/news/202310/3880116.html)
 
++ [迪士尼新片《星愿》中国内地定档 11月24日上映](https://www.3dmgame.com/news/202310/3880123.html)
+
++ [《最终幻想7：重生》与原版对比图 画质提升技术进步](https://www.3dmgame.com/news/202310/3880122.html)
+
++ [离谱！《反恐精英2》鼠标DPI过高也会导致封禁](https://www.3dmgame.com/news/202310/3880124.html)
+
++ [《马力欧派对3》本周加入NSO会员N64游戏库](https://www.3dmgame.com/news/202310/3880125.html)
+
++ [《星空》社区补丁Mod修复几十个Bug 感谢民间大神](https://www.3dmgame.com/news/202310/3880126.html)
+

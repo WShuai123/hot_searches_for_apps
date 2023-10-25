@@ -35,3 +35,7 @@
 
 + [小米 14 真机现身 2023 骁龙峰会，标准版四款配色公布](https://m.ithome.com/html/727371.htm)
 
++ [高通骁龙 8 Gen 3 首发名单出炉：含魅族、蔚来、荣耀、小米、OPPO、vivo 等](https://m.ithome.com/html/727355.htm)
+
++ [神舟十七号瞄准明日 11 时 14 分发射，汤洪波成为重返天宫第一人](https://m.ithome.com/html/727392.htm)
+
