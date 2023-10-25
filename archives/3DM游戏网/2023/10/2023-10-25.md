@@ -111,3 +111,13 @@
 
 + [育碧公布《舞力全开2024》完整歌曲列表](https://www.3dmgame.com/news/202310/3880101.html)
 
++ [微软Q1游戏营收创纪录 《星空》功不可没](https://www.3dmgame.com/news/202310/3880105.html)
+
++ [FC末期经典游戏《迷糊蛋》重启作明年登陆Switch](https://www.3dmgame.com/news/202310/3880104.html)
+
++ [育碧宣布《摇滚史密斯+》新增钢琴免费学习功能](https://www.3dmgame.com/news/202310/3880103.html)
+
++ [类魂ARPG《阿喀琉斯：传说未竟之谜》玩法介绍视频](https://www.3dmgame.com/news/202310/3880102.html)
+
++ [Annapurna推出包含12款游戏的实体Switch游戏卡](https://www.3dmgame.com/news/202310/3880100.html)
+

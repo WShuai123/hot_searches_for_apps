@@ -25,3 +25,9 @@
 
 + [京东采销喊话李佳琦“二选一”，美 ONE 回应：“底价协议”系不实消息](https://m.ithome.com/html/727293.htm)
 
++ [高通发布骁龙 8 Gen 3 处理器：CPU 性能提升 30%、GPU 提升 25%](https://m.ithome.com/html/727354.htm)
+
++ [苹果官宣 10 月 31 日举行发布活动，届时将推出 2023 款 iMac 等产品](https://m.ithome.com/html/727345.htm)
+
++ [蚂蚁集团回应旗下语雀崩了：运维升级 Bug 导致，将向所有用户赠送 6 个月会员](https://m.ithome.com/html/727332.htm)
+

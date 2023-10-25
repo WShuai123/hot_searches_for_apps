@@ -127,3 +127,7 @@
 
 + [Docker搭建rmq集群 2主2从](https://blog.csdn.net/qq_29751083/article/details/133961393)
 
++ [学习计网之前非看不可的一篇文章](https://blog.csdn.net/m0_63710200/article/details/134012063)
+
++ [【软件教程】如何用C++交叉编译出能在Android运行的ELF程序或so动态库](https://blog.csdn.net/zhangjiuding/article/details/134023409)
+

@@ -41,3 +41,7 @@
 
 + [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
 
++ [FreeBuf早报 | 印政府组建“网络突击队”；美能源公司披露勒索攻击细节](https://www.freebuf.com/news/381676.html)
+
++ [威胁面面观：揭露基于LLM的聊天机器人设置和隐私策略](https://www.freebuf.com/articles/paper/381131.html)
+
