@@ -131,3 +131,7 @@
 
 + [【软件教程】如何用C++交叉编译出能在Android运行的ELF程序或so动态库](https://blog.csdn.net/zhangjiuding/article/details/134023409)
 
++ [【计算机网络】ip协议](https://blog.csdn.net/m0_68872612/article/details/133903283)
+
++ [【RTOS学习】事件组 | 任务通知](https://blog.csdn.net/weixin_63726869/article/details/133963918)
+

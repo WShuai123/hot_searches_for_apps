@@ -121,3 +121,23 @@
 
 + [Annapurna推出包含12款游戏的实体Switch游戏卡](https://www.3dmgame.com/news/202310/3880100.html)
 
++ [未能实现Xbox业务增长目标 微软CEO高管被迫降薪](https://www.3dmgame.com/news/202310/3880115.html)
+
++ [罗布乐思中国因“独特的业务和运营需求”裁员](https://www.3dmgame.com/news/202310/3880114.html)
+
++ [《战锤西格玛时代：毁灭之境》地图编辑器预告 11月17日发售](https://www.3dmgame.com/news/202310/3880113.html)
+
++ [合作恐怖FPS《Ripout》已在Steam上开启抢先体验](https://www.3dmgame.com/news/202310/3880112.html)
+
++ [《塔罗斯的法则2》新预告 游戏时长20-30小时](https://www.3dmgame.com/news/202310/3880111.html)
+
++ [《名侦探柯南》茱蒂声优一城美由希去世 享年76岁](https://www.3dmgame.com/news/202310/3880110.html)
+
++ [《星际战甲》开发商Digital Extremes首席执行官卸任](https://www.3dmgame.com/news/202310/3880109.html)
+
++ [《城市：天际线2》Steam峰值超10万 官方发布优化指南](https://www.3dmgame.com/news/202310/3880108.html)
+
++ [V社：11月20日起 阿根廷和土耳其采用美元定价](https://www.3dmgame.com/news/202310/3880107.html)
+
++ [沙特将每年举办电竞世界杯 从2024年夏季开始](https://www.3dmgame.com/news/202310/3880106.html)
+

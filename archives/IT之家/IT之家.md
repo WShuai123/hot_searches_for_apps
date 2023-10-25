@@ -31,3 +31,5 @@
 
 + [蚂蚁集团回应旗下语雀崩了：运维升级 Bug 导致，将向所有用户赠送 6 个月会员](https://m.ithome.com/html/727332.htm)
 
++ [卢伟冰：小米 14 系列手机全球首发骁龙 8 Gen 3，汽车明年发布](https://m.ithome.com/html/727365.htm)
+

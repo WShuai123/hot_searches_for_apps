@@ -277,3 +277,19 @@
 
 + [Smiley Heart](https://dribbble.com/shots/)
 
++ [ZC Monogram](https://dribbble.com/shots/)
+
++ [Case Study: Dog Sledding Service Website](https://dribbble.com/shots/)
+
++ [Vectober 2023 20 // Have fun](https://dribbble.com/shots/)
+
++ [UX-UI design FintechProject Animation](https://dribbble.com/shots/)
+
++ [Capify Business Cards](https://dribbble.com/shots/)
+
++ [Peachtober23: Candle](https://dribbble.com/shots/)
+
++ [Zoya Finance | Branding](https://dribbble.com/shots/)
+
++ [Hull KR](https://dribbble.com/shots/)
+
