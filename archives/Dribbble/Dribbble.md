@@ -345,3 +345,13 @@
 
 + [SKY - Corporate website - Blog page](https://dribbble.com/shots/)
 
++ [App UI](https://dribbble.com/shots/)
+
++ [Plant Collectors Club](https://dribbble.com/shots/)
+
++ [Huddersfield Giants](https://dribbble.com/shots/)
+
++ [Sales Marketing Dashboard](https://dribbble.com/shots/)
+
++ [Modal Logo & Brand Identity Design](https://dribbble.com/shots/)
+
