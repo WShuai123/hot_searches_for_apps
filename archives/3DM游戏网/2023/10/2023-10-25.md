@@ -185,3 +185,13 @@
 
 + [三七互娱与华为深化合作 加强AIGC、鸿蒙生态合作](https://www.3dmgame.com/news/202310/3880129.html)
 
++ [世嘉万圣节促销低至一折！《如龙7》《索尼克：未知边境》加入促销阵容](https://www.3dmgame.com/news/202310/3880142.html)
+
++ [70年来首位 中国籍物理学家获得2024年度巴克利奖](https://www.3dmgame.com/news/202310/3880141.html)
+
++ [苹果官宣10月31日举行新品发布会 或重点关注Mac](https://www.3dmgame.com/news/202310/3880139.html)
+
++ [玩家在《帝国时代2》中重现《上古卷轴5》天际省](https://www.3dmgame.com/news/202310/3880140.html)
+
++ [下载超200万次的NS《西瓜游戏》发布万圣节主题更新](https://www.3dmgame.com/news/202310/3880137.html)
+

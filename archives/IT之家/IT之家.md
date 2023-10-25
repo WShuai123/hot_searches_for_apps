@@ -41,3 +41,5 @@
 
 + [小米 14 手机屏幕预热：1.5K 分辨率 + 460PPI，支持 1-120Hz LTPO](https://m.ithome.com/html/727404.htm)
 
++ [高通骁龙 X Elite 处理器发布：支持 Win12，可本地运行 130 亿参数 AI 大模型](https://m.ithome.com/html/727353.htm)
+

@@ -325,3 +325,15 @@
 
 + [Action button + iPhone 15 Pro Max in Halide](https://dribbble.com/shots/)
 
++ [UI UX Mobile Design for Auto Investing Portfolio App Management](https://dribbble.com/shots/)
+
++ [Finance Management App](https://dribbble.com/shots/)
+
++ [Beret](https://dribbble.com/shots/)
+
++ [Healthcare service - Mobile app](https://dribbble.com/shots/)
+
++ [N maze](https://dribbble.com/shots/)
+
++ [Webui](https://dribbble.com/shots/)
+
