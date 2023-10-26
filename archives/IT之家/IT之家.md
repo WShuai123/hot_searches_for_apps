@@ -45,3 +45,5 @@
 
 + [手机直连卫星上网，中国电信完成全球首次运营商 NR NTN 现网试验](https://m.ithome.com/html/727444.htm)
 
++ [高通骁龙 8 Gen 3 处理器官方参考跑分出炉：Geekbench 6 单核 2300+、多核 7400+](https://m.ithome.com/html/727683.htm)
+

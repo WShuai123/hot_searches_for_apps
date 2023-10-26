@@ -159,3 +159,17 @@
 
 + [射击游戏《THE FINALS》跨平台公测 10月26日开启](https://www.3dmgame.com/news/202310/3880191.html)
 
++ [《星之海洋2：第二个故事R》中文最终预告片 11月2日发售](https://www.3dmgame.com/news/202310/3880206.html)
+
++ [AMD回应大幅裁员：小幅优化和调整](https://www.3dmgame.com/news/202310/3880207.html)
+
++ [《收获日3》玩家数持续降低：前作活跃是新作10倍](https://www.3dmgame.com/news/202310/3880205.html)
+
++ [应用AI辅助的游戏公司获得300万美元种子融资](https://www.3dmgame.com/news/202310/3880203.html)
+
++ [发售不到一周 《漫威蜘蛛侠2》四分之一玩家已通关](https://www.3dmgame.com/news/202310/3880204.html)
+
++ [《收获日3》开发者：首个补丁已经发布 正在测试认证](https://www.3dmgame.com/news/202310/3880202.html)
+
++ [《饥饿游戏：鸣鸟与蛇之歌》确认引进中国内地 档期待定](https://www.3dmgame.com/news/202310/3880201.html)
+

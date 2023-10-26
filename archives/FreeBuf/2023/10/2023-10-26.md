@@ -53,3 +53,5 @@
 
 + [web安全渗透测试实战营 | 平安科技&FreeBuf培训](https://www.freebuf.com/news/381812.html)
 
++ [欺骗性不不比真人写的差，警惕由AI生成的钓鱼邮件](https://www.freebuf.com/news/381833.html)
+

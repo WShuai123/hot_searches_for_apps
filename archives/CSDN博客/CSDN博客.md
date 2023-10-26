@@ -141,3 +141,7 @@
 
 + [TCP 协议的可靠传输机制是怎样实现的？](https://blog.csdn.net/usstmiracle/article/details/134026653)
 
++ [图像数据噪音种类以及Python生成对应噪音](https://blog.csdn.net/master_hunter/article/details/134038638)
+
++ [《数字图像处理-OpenCV/Python》连载（26）绘制椭圆和椭圆弧](https://blog.csdn.net/youcans/article/details/134014737)
+

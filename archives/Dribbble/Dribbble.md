@@ -289,3 +289,15 @@
 
 + [301.digital — Visual Guidelines](https://dribbble.com/shots/)
 
++ [EstateGuru Hero Illustration 07](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
++ [Geometric Guitar Logo](https://dribbble.com/shots/)
+
++ [Raven Ranch](https://dribbble.com/shots/)
+
++ [Goddess????](https://dribbble.com/shots/)
+
++ [Vectober 2023 22 // Beautiful sky](https://dribbble.com/shots/)
+
