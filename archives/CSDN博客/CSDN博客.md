@@ -135,3 +135,9 @@
 
 + [【Java】电子病历编辑器源码（云端SaaS服务）](https://blog.csdn.net/qq_27741787/article/details/134038338)
 
++ [USB学习(2)：USB端点和传输协议(数据包、事物)详解](https://blog.csdn.net/tilblackout/article/details/134000672)
+
++ [计算机网络——计算机网络体系结构（4/4）-计算机网络体系结构中的专用术语（实体、协议、服务，三次握手‘三报文握手’、数据包术语）](https://blog.csdn.net/li13437542099/article/details/133936431)
+
++ [TCP 协议的可靠传输机制是怎样实现的？](https://blog.csdn.net/usstmiracle/article/details/134026653)
+

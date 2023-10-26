@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 国家数据局正式揭牌；Okta被黑后市值蒸发逾20亿美元](https://www.freebuf.com/news/381769.html)
 
++ [企业安全之浅谈DevSecOps](https://www.freebuf.com/articles/es/377112.html)
+
++ [web安全渗透测试实战营 | 平安科技&FreeBuf培训](https://www.freebuf.com/news/381812.html)
+

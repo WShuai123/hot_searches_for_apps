@@ -139,3 +139,23 @@
 
 + [第一人称恐怖《Still Wakes the Deep》实机预告](https://www.3dmgame.com/news/202310/3880186.html)
 
++ [《神秘博士》确认三集特别周年纪念剧集的上线日期](https://www.3dmgame.com/news/202310/3880198.html)
+
++ [街机动作游戏《IKARO：拒绝死亡》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202310/3880199.html)
+
++ [沙盒生存游戏《Tinkerlands: 海难冒险》Steam页面 支持简体中文](https://www.3dmgame.com/news/202310/3880196.html)
+
++ [JRPG《星位继承者》开发商计划在沙特开办新工作室](https://www.3dmgame.com/news/202310/3880197.html)
+
++ [有网才能用 PS5轻薄版光驱首次配对需联网验证](https://www.3dmgame.com/news/202310/3880195.html)
+
++ [《雨中冒险：回归》和2代主机DLC将于11月8日发售](https://www.3dmgame.com/news/202310/3880192.html)
+
++ [任天堂公布更严格社交媒体条规：打击泄密和模拟器](https://www.3dmgame.com/news/202310/3880194.html)
+
++ [《纸片马里奥：千年之门》复刻版在巴西通过评级 2024年发售](https://www.3dmgame.com/news/202310/3880200.html)
+
++ [《维多利亚3》新DLC“Colossus of the South”公布 11月14日发售](https://www.3dmgame.com/news/202310/3880193.html)
+
++ [射击游戏《THE FINALS》跨平台公测 10月26日开启](https://www.3dmgame.com/news/202310/3880191.html)
+
