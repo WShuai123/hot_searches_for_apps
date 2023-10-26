@@ -101,3 +101,13 @@
 
 + [《维多利亚3》新DLC“Colossus of the South”公布 11月14日发售](https://www.3dmgame.com/news/202310/3880193.html)
 
++ [Epic喜加一：《艾玛和泰迪熊:影子历险记》《恶灵附身2》免费领](https://www.3dmgame.com/news/202310/3880261.html)
+
++ [类银河恶魔城《影下九载》11月9日登陆Switch](https://www.3dmgame.com/news/202310/3880262.html)
+
++ [Fami通新一周销量榜 《超级马里奥兄弟：惊奇》登顶](https://www.3dmgame.com/news/202310/3880258.html)
+
++ [《EA Sports WRC》PS5/XSX目标为4K/60帧 虚幻5制作](https://www.3dmgame.com/news/202310/3880259.html)
+
++ [《神之亵渎2》宣布登陆PS4和XB1 新预告释出](https://www.3dmgame.com/news/202310/3880260.html)
+
