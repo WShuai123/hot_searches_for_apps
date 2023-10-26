@@ -49,3 +49,45 @@
 
 + [Set Milot- Landing Page UI Animation](https://dribbble.com/shots/)
 
++ [Tappa! - UI design elements for the messenger app](https://dribbble.com/shots/)
+
++ [Big illustration set for Ciseway](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [Crypto service - Mobile app](https://dribbble.com/shots/)
+
++ [Capify Business Cards](https://dribbble.com/shots/)
+
++ [Orange Dog Logo](https://dribbble.com/shots/)
+
++ [Eric Johanson](https://dribbble.com/shots/)
+
++ [Football app](https://dribbble.com/shots/)
+
++ [Silver Cup Coffee](https://dribbble.com/shots/)
+
++ [Stack](https://dribbble.com/shots/)
+
++ [Truly Fresh Logo](https://dribbble.com/shots/)
+
++ [App UI](https://dribbble.com/shots/)
+
++ [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
+
++ [Hull KR](https://dribbble.com/shots/)
+
++ [Business Insurance Landing Page](https://dribbble.com/shots/)
+
++ [Halloween Illustrations](https://dribbble.com/shots/)
+
++ [N shape](https://dribbble.com/shots/)
+
++ [Rick and Smokey ????](https://dribbble.com/shots/)
+
++ [Home](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+

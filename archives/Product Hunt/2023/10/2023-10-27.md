@@ -101,3 +101,13 @@
 
 + [HURMA Recruitment](https://www.producthunt.com/posts/hurma-recruitment)
 
++ [Opior Design System](https://www.producthunt.com/posts/opior-design-system)
+
++ [AI VC Finder](https://www.producthunt.com/posts/ai-vc-finder)
+
++ [Nova](https://www.producthunt.com/posts/nova-15de977d-f2cf-4944-972c-344a9118e13f)
+
++ [Detail for iOS](https://www.producthunt.com/posts/detail-for-ios)
+
++ [Genie AI](https://www.producthunt.com/posts/genie-ai)
+
