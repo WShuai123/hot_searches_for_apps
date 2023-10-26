@@ -377,3 +377,7 @@
 
 + [The Weekend!](https://dribbble.com/shots/)
 
++ [Seth Milot - Gallery Page](https://dribbble.com/shots/)
+
++ [iHome - Smart Home Control App](https://dribbble.com/shots/)
+

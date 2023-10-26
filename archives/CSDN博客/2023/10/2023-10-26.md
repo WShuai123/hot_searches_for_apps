@@ -187,3 +187,13 @@
 
 + [阶段性学习小记](https://blog.csdn.net/Lehjy/article/details/134003640)
 
++ [数据分析必备原理思路（二）](https://blog.csdn.net/myy12456789/article/details/134027866)
+
++ [【实战】硅基物语.AI写作高手：从零开始用ChatGPT学会写作](https://blog.csdn.net/qq_32682301/article/details/133986494)
+
++ [详解预处理（1）](https://blog.csdn.net/m0_74841364/article/details/133777510)
+
++ [网络安全（黑客）自学笔记0.1](https://blog.csdn.net/rjychg/article/details/134053752)
+
++ [react中通过props实现父子组件间通信](https://blog.csdn.net/jieyucx/article/details/134057557)
+

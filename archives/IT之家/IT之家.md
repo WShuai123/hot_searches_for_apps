@@ -73,3 +73,5 @@
 
 + [澎湃 OS 发版时间表公布：小米 14 系列、Redmi K60 Ultra 手机率先搭载](https://m.ithome.com/html/727900.htm)
 
++ [小米 14 手机发布：首发骁龙 8 Gen 3、光影猎人传感器，3999 元起](https://m.ithome.com/html/727908.htm)
+
