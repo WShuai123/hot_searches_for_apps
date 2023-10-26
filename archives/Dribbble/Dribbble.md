@@ -183,3 +183,31 @@
 
 + [CRY LATER TATTOO - LOVE POWER](https://dribbble.com/shots/)
 
++ [Sound logo](https://dribbble.com/shots/)
+
++ [Cat Pumpkin (Blue)](https://dribbble.com/shots/)
+
++ [NIKE Club Cheetah Box](https://dribbble.com/shots/)
+
++ [Hotel Building Illustration](https://dribbble.com/shots/)
+
++ [Maze of alleys](https://dribbble.com/shots/)
+
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+
++ [Data 02](https://dribbble.com/shots/)
+
++ [CoinMaster Mobile App Concept](https://dribbble.com/shots/)
+
++ [Salford Red Devils](https://dribbble.com/shots/)
+
++ [Vectober 2023 23 // Message](https://dribbble.com/shots/)
+
++ [Going to the stars](https://dribbble.com/shots/)
+
++ [Frame.so - File Panel](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Orion for iPad mini](https://dribbble.com/shots/)
+

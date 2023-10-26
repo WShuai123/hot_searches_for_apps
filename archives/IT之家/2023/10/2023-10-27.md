@@ -27,3 +27,5 @@
 
 + [小米手表 S3 发布：百变表圈随心拆换，可选 eSIM，售价 799 元起](https://m.ithome.com/html/727918.htm)
 
++ [小米 14 / Pro 系列手机 MiCare 无忧版价格公布，447 元起](https://m.ithome.com/html/727923.htm)
+
