@@ -127,3 +127,5 @@
 
 + [Spring高手之路15——掌握Spring事件监听器的内部逻辑与实现](https://blog.csdn.net/qq_34115899/article/details/134012166)
 
++ [Elasticsearch：使用 Open AI 和 Langchain 的 RAG - Retrieval Augmented Generation （三）](https://blog.csdn.net/UbuntuTouch/article/details/134030755)
+

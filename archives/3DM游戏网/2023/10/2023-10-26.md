@@ -127,3 +127,5 @@
 
 + [虚幻5重制 《方舟：生存上升》首部实机预告片公布](https://www.3dmgame.com/news/202310/3880176.html)
 
++ [《心灵杀手2》PC版将支持DualSense手柄](https://www.3dmgame.com/news/202310/3880185.html)
+

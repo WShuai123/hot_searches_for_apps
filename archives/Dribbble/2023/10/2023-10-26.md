@@ -241,3 +241,19 @@
 
 + [N shape](https://dribbble.com/shots/)
 
++ [Hoolest](https://dribbble.com/shots/)
+
++ [Vital mobile Landing page design by Milkinside](https://dribbble.com/shots/)
+
++ [Vases](https://dribbble.com/shots/)
+
++ [Maze of alleys](https://dribbble.com/shots/)
+
++ [Going to the stars](https://dribbble.com/shots/)
+
++ [NexaVirtu Tech Website](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+

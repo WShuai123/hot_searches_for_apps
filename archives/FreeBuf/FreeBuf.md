@@ -41,3 +41,5 @@
 
 + [二进制选手的web安全之路(0x2) : CSRF跨站请求伪造](https://www.freebuf.com/articles/web/380575.html)
 
++ [您确定自己的浏览器是最新的吗？揭露虚假浏览器更新现状](https://www.freebuf.com/articles/paper/381458.html)
+

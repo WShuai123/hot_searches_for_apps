@@ -35,3 +35,7 @@
 
 + [小米首款血压手表官宣明日发布，获得二类医疗器械证](https://m.ithome.com/html/727437.htm)
 
++ [Redmi K70 系列官宣首批搭载第三代骁龙 8 移动平台，下月发布](https://m.ithome.com/html/727482.htm)
+
++ [全网 11.11 狂促继续：小米 14 先人一步预约抢，海信旗下 120Hz+4K+65 寸电视 1779 元新低](https://m.ithome.com/html/727614.htm)
+
