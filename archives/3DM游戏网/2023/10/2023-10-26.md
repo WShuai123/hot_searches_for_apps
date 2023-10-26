@@ -229,3 +229,15 @@
 
 + [《超级双截龙》《双截龙ADVANCE》Steam页面 11月9日发售](https://www.3dmgame.com/news/202310/3880240.html)
 
++ [突然断供中国多款GPU！RTX4090是否也被禁售：NV回应](https://www.3dmgame.com/news/202310/3880250.html)
+
++ [《想要成为影之实力者》贝塔手办 身材太傲人了](https://www.3dmgame.com/news/202310/3880242.html)
+
++ [《漫威蜘蛛侠2》彼得开局负债100万美元 需23年偿清](https://www.3dmgame.com/news/202310/3880246.html)
+
++ [《完蛋 我被美女包围》捧红女演员 浩浩妈：泼天富贵砸我头晕](https://www.3dmgame.com/news/202310/3880247.html)
+
++ [雷军：小米14越级对标iPhone 15 Pro 小米14 Pro更强](https://www.3dmgame.com/news/202310/3880248.html)
+
++ [苹果发布iOS 17.1正式版：修复iPhone15 Pro烧屏问题](https://www.3dmgame.com/news/202310/3880249.html)
+
