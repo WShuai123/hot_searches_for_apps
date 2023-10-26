@@ -121,3 +121,35 @@
 
 + [Stratis UI - Graph](https://dribbble.com/shots/)
 
++ [Webui](https://dribbble.com/shots/)
+
++ [Relab - Marketing Agency Branding](https://dribbble.com/shots/)
+
++ [An Event Promo-Site](https://dribbble.com/shots/)
+
++ [ZC Monogram](https://dribbble.com/shots/)
+
++ [Sony Interactive | Corporate redesign](https://dribbble.com/shots/)
+
++ [Vampires](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
++ [AI Infrastructure Alliance](https://dribbble.com/shots/)
+
++ [Healthcare - Website Design](https://dribbble.com/shots/)
+
++ [Shein X Skilline](https://dribbble.com/shots/)
+
++ [Ecommerce Website: animation](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [Vectober 2023 25 // Coral](https://dribbble.com/shots/)
+
++ [301.digital](https://dribbble.com/shots/)
+
++ [ESC Zodiac Collection - Scorpio](https://dribbble.com/shots/)
+
++ [Wendy the Wendigo](https://dribbble.com/shots/)
+

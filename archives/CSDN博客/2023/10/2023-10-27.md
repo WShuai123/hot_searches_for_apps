@@ -101,3 +101,13 @@
 
 + [阶段性学习小记](https://blog.csdn.net/Lehjy/article/details/134003640)
 
++ [非侵入式负荷检测与分解：电力数据挖掘新视角](https://blog.csdn.net/wodejiaAA/article/details/134034272)
+
++ [Linux区分文件类型，file指令，目录权限，umask掩码，共享文件，Linux中的一些有趣指令](https://blog.csdn.net/qq_74276498/article/details/133999396)
+
++ [将 10 亿条日志行从 OpenSearch 迁移到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/134056957)
+
++ [使用mac自带VNC公网远程控制macOS](https://blog.csdn.net/qq_48652579/article/details/134058623)
+
++ [学习网络编程No.8【应用层协议之HTTP】](https://blog.csdn.net/weixin_74004489/article/details/133699481)
+
