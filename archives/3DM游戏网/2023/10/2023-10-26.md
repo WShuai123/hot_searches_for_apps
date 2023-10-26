@@ -129,3 +129,13 @@
 
 + [《心灵杀手2》PC版将支持DualSense手柄](https://www.3dmgame.com/news/202310/3880185.html)
 
++ [《方舟：生存上升》Steam页面上线 今天开启抢先体验](https://www.3dmgame.com/news/202310/3880190.html)
+
++ [PS5 UI新图标更新 可显示游戏是否支持串流](https://www.3dmgame.com/news/202310/3880189.html)
+
++ [《北方之魂 2》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202310/3880188.html)
+
++ [《合金装备Δ：食蛇者》新截图 感受虚幻5重制的魅力](https://www.3dmgame.com/news/202310/3880187.html)
+
++ [第一人称恐怖《Still Wakes the Deep》实机预告](https://www.3dmgame.com/news/202310/3880186.html)
+

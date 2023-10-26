@@ -129,3 +129,9 @@
 
 + [Elasticsearch：使用 Open AI 和 Langchain 的 RAG - Retrieval Augmented Generation （三）](https://blog.csdn.net/UbuntuTouch/article/details/134030755)
 
++ [【德哥说库系列】-PostgreSQL跨版本升级](https://blog.csdn.net/weixin_41645135/article/details/134045499)
+
++ [嵌入式中的MCU、ARM、DSP、FPGA](https://blog.csdn.net/m0_56694518/article/details/134043994)
+
++ [【Java】电子病历编辑器源码（云端SaaS服务）](https://blog.csdn.net/qq_27741787/article/details/134038338)
+

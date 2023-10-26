@@ -43,3 +43,9 @@
 
 + [您确定自己的浏览器是最新的吗？揭露虚假浏览器更新现状](https://www.freebuf.com/articles/paper/381458.html)
 
++ [内网渗透：集权系统vCenter攻击面分析](https://www.freebuf.com/articles/network/378458.html)
+
++ [技术分享 | 跨越语言的艺术：Flask Session 伪造](https://www.freebuf.com/vuls/381226.html)
+
++ [FreeBuf早报 | 国家数据局正式揭牌；Okta被黑后市值蒸发逾20亿美元](https://www.freebuf.com/news/381769.html)
+

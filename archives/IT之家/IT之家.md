@@ -39,3 +39,9 @@
 
 + [全网 11.11 狂促继续：小米 14 先人一步预约抢，海信旗下 120Hz+4K+65 寸电视 1779 元新低](https://m.ithome.com/html/727614.htm)
 
++ [苹果 iOS / iPadOS 17.1 正式版发布：支持 AirDrop 互联网传输，适配 USB-C 款 Apple Pencil 等](https://m.ithome.com/html/727660.htm)
+
++ [12G 版跌破两千：Redmi K60 手机 11.11 六期免息发车](https://m.ithome.com/html/727632.htm)
+
++ [手机直连卫星上网，中国电信完成全球首次运营商 NR NTN 现网试验](https://m.ithome.com/html/727444.htm)
+
