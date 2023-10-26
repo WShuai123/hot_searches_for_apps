@@ -219,3 +219,5 @@
 
 + [Motorla Flexible Phone](https://www.producthunt.com/posts/motorla-flexible-phone)
 
++ [HelpBar.ai](https://www.producthunt.com/posts/helpbar-ai)
+

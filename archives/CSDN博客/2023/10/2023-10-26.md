@@ -179,3 +179,11 @@
 
 + [产品经理的秘密武器：提高效率的 6 种软件工具](https://blog.csdn.net/2301_79599164/article/details/134049452)
 
++ [递归神经网络 (RNN)](https://blog.csdn.net/gongdiwudu/article/details/134049739)
+
++ [大数据可视化BI分析工具Apache Superset实现公网远程访问](https://blog.csdn.net/ljq_up/article/details/134055027)
+
++ [内网渗透-内网信息收集](https://blog.csdn.net/hackzkaq/article/details/134052709)
+
++ [阶段性学习小记](https://blog.csdn.net/Lehjy/article/details/134003640)
+

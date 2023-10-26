@@ -69,3 +69,7 @@
 
 + [苹果客服回应 iPhone 15 手机玻璃背板易碎：确实可能存在该问题，如有顾虑建议使用保护壳](https://m.ithome.com/html/727844.htm)
 
++ [小米澎湃 OS 正式发布：最大规模“底层重构”、跨端智联、内置 AI 大模型](https://m.ithome.com/html/727898.htm)
+
++ [澎湃 OS 发版时间表公布：小米 14 系列、Redmi K60 Ultra 手机率先搭载](https://m.ithome.com/html/727900.htm)
+
