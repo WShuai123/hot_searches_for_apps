@@ -25,3 +25,5 @@
 
 + [小米 14 Pro 手机首发 1024 级可变光圈](https://m.ithome.com/html/727913.htm)
 
++ [小米手表 S3 发布：百变表圈随心拆换，可选 eSIM，售价 799 元起](https://m.ithome.com/html/727918.htm)
+

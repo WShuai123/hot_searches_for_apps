@@ -111,3 +111,5 @@
 
 + [Genie AI](https://www.producthunt.com/posts/genie-ai)
 
++ [Motorola Flexible Phone](https://www.producthunt.com/posts/motorola-flexible-phone)
+
