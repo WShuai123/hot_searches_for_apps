@@ -111,3 +111,19 @@
 
 + [学习网络编程No.8【应用层协议之HTTP】](https://blog.csdn.net/weixin_74004489/article/details/133699481)
 
++ [PostgreSQL 插件 CREATE EXTENSION 原理](https://blog.csdn.net/qq_41773806/article/details/133882688)
+
++ [《数字图像处理-OpenCV/Python》连载（26）绘制椭圆和椭圆弧](https://blog.csdn.net/youcans/article/details/134014737)
+
++ [Nginx+cpolar实现内网穿透多个Windows Web站点端口](https://blog.csdn.net/2201_75743654/article/details/134059609)
+
++ [内网渗透——macOS上搭建Web服务器](https://blog.csdn.net/m0_72165281/article/details/134056053)
+
++ [SpringCloud 微服务全栈体系（四）](https://blog.csdn.net/sgsgkxkx/article/details/134047229)
+
++ [GaussDB技术解读系列：如何迁移到GaussDB?](https://blog.csdn.net/GaussDB/article/details/134036748)
+
++ [【Python 算法】信号处理通过陷波滤波器准确去除工频干扰](https://blog.csdn.net/qq_43158059/article/details/134045106)
+
++ [【2021集创赛】Arm杯三等奖：基于FPGA的人脸检测SoC设计](https://blog.csdn.net/weixin_47569031/article/details/134028505)
+
