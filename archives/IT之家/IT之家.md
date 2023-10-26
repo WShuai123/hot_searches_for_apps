@@ -57,3 +57,7 @@
 
 + [7399 元起，华为 Mate Xs 2 官方翻新机开售：搭载高通骁龙 888 芯片](https://m.ithome.com/html/727591.htm)
 
++ [全网 11.11 狂促继续：小米 14 先人一步预约抢，京东京造一转四插座 9.9 元限量购](https://m.ithome.com/html/727614.htm)
+
++ [神舟十七号载人飞船发射取得圆满成功！](https://m.ithome.com/html/727738.htm)
+

@@ -65,3 +65,5 @@
 
 + [在钓鱼邮件制作方面，AI丝毫不逊色于黑客](https://www.freebuf.com/news/381833.html)
 
++ [数据库问题：7 TB 医疗数据泄露，影响 1200 万患者](https://www.freebuf.com/news/381917.html)
+

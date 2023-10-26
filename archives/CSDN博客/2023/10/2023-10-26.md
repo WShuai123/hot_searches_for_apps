@@ -167,3 +167,5 @@
 
 + [【兔子王赠书第3期】《案例学Python（进阶篇）》](https://blog.csdn.net/m0_68111267/article/details/134044733)
 
++ [Table-GPT:让大语言模型理解表格数据](https://blog.csdn.net/m0_46510245/article/details/134049139)
+

@@ -155,3 +155,5 @@
 
 + [Genie AI](https://www.producthunt.com/posts/genie-ai)
 
++ [Halloween PhotoAI: AI Headshot Generator](https://www.producthunt.com/posts/halloween-photoai-ai-headshot-generator)
+
