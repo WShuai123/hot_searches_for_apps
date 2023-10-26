@@ -51,3 +51,35 @@
 
 + [getmoto / moto](https://github.com/getmoto/moto)
 
++ [Vendicated / Vencord](https://github.com/Vendicated/Vencord)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [SUDO-AI-3D / zero123plus](https://github.com/SUDO-AI-3D/zero123plus)
+
++ [xiaye13579 / BBLL](https://github.com/xiaye13579/BBLL)
+
++ [premAI-io / state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)
+
++ [syncthing / syncthing](https://github.com/syncthing/syncthing)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [s0md3v / roop](https://github.com/s0md3v/roop)
+
++ [AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT)
+
++ [roadmapsh / next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
+
++ [fsnotify / fsnotify](https://github.com/fsnotify/fsnotify)
+
++ [mouredev / hello-sql](https://github.com/mouredev/hello-sql)
+
++ [THUDM / AgentTuning](https://github.com/THUDM/AgentTuning)
+
++ [hashicorp / vault](https://github.com/hashicorp/vault)
+
++ [helix-editor / helix](https://github.com/helix-editor/helix)
+

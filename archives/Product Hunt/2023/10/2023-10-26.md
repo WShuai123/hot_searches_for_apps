@@ -217,3 +217,5 @@
 
 + [HURMA Recruitment](https://www.producthunt.com/posts/hurma-recruitment)
 
++ [Motorla Flexible Phone](https://www.producthunt.com/posts/motorla-flexible-phone)
+

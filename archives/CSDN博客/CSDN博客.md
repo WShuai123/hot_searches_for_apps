@@ -169,3 +169,13 @@
 
 + [Table-GPT:让大语言模型理解表格数据](https://blog.csdn.net/m0_46510245/article/details/134049139)
 
++ [基于腾讯云Lighthouse自建Grafana和Prometheus服务](https://blog.csdn.net/loveaf/article/details/134044683)
+
++ [『Linux』补丁制作指南](https://blog.csdn.net/m0_63748493/article/details/134021837)
+
++ [Uni-app智慧工地可视化信息平台源码](https://blog.csdn.net/qq_27741787/article/details/134058042)
+
++ [Vue 2 生命周期与 Vue 3 生命周期：介绍与差别对比](https://blog.csdn.net/qq_63358859/article/details/134015846)
+
++ [产品经理的秘密武器：提高效率的 6 种软件工具](https://blog.csdn.net/2301_79599164/article/details/134049452)
+

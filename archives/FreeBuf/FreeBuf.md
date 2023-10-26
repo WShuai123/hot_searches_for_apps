@@ -73,3 +73,5 @@
 
 + [谁在坚持创新？ | WitAwards 2023年度安全评选火热进行中](https://www.freebuf.com/fevents/381859.html)
 
++ [数据泄露高达7 TB ，这家医疗巨头数据库无任何密码保护](https://www.freebuf.com/news/381917.html)
+

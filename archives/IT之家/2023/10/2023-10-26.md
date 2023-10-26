@@ -67,3 +67,5 @@
 
 + [苹果为老款机型推出 iOS 16.7.2 及 15.8 正式版更新](https://m.ithome.com/html/727663.htm)
 
++ [苹果客服回应 iPhone 15 手机玻璃背板易碎：确实可能存在该问题，如有顾虑建议使用保护壳](https://m.ithome.com/html/727844.htm)
+
