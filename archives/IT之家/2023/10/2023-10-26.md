@@ -51,3 +51,5 @@
 
 + [刘作虎展示一加 12 真机：采用双曲面屏、极窄边框，下月发布](https://m.ithome.com/html/727483.htm)
 
++ [高通公布 9 家首发骁龙 X Elite 处理器合作厂商名单：小米、荣耀在列](https://m.ithome.com/html/727682.htm)
+

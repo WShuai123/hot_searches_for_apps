@@ -149,3 +149,9 @@
 
 + [CV计算机视觉每日开源代码Paper with code速览-2023.10.23](https://blog.csdn.net/zhangkai950121/article/details/134035325)
 
++ [【Docker】Docker的应用包含Sandbox、PaaS、Open Solution以及IT运维概念的详细讲解](https://blog.csdn.net/2201_75366661/article/details/134050103)
+
++ [C# 基于腾讯云人脸核身和百度云证件识别技术相结合的 API 实现](https://blog.csdn.net/michaelline/article/details/134013152)
+
++ [Linux区分文件类型，file指令，目录权限，umask掩码，共享文件，Linux中的一些有趣指令](https://blog.csdn.net/qq_74276498/article/details/133999396)
+

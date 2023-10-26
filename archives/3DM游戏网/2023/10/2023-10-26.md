@@ -185,3 +185,7 @@
 
 + [《辐射76》庆祝游戏5周年 挑战活动11月7日开启](https://www.3dmgame.com/news/202310/3880209.html)
 
++ [《崩坏：星穹铁道》托帕&账账角色PV 「专家教学」](https://www.3dmgame.com/news/202310/3880214.html)
+
++ [《红霞岛》通过Steam Deck验证 玩家最少时仅有个位数](https://www.3dmgame.com/news/202310/3880215.html)
+
