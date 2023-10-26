@@ -189,3 +189,5 @@
 
 + [《红霞岛》通过Steam Deck验证 玩家最少时仅有个位数](https://www.3dmgame.com/news/202310/3880215.html)
 
++ [《合金装备4》也有可能重制 但科乐美能做好吗？](https://www.3dmgame.com/news/202310/3880216.html)
+

@@ -53,3 +53,7 @@
 
 + [高通公布 9 家首发骁龙 X Elite 处理器合作厂商名单：小米、荣耀在列](https://m.ithome.com/html/727682.htm)
 
++ [华为回应“将全面接管 AITO 问界销售体系”：信息不实](https://m.ithome.com/html/727659.htm)
+
++ [7399 元起，华为 Mate Xs 2 官方翻新机开售：搭载高通骁龙 888 芯片](https://m.ithome.com/html/727591.htm)
+

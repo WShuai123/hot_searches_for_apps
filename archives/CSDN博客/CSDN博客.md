@@ -155,3 +155,15 @@
 
 + [Linux区分文件类型，file指令，目录权限，umask掩码，共享文件，Linux中的一些有趣指令](https://blog.csdn.net/qq_74276498/article/details/133999396)
 
++ [【小尘送书-第九期】《Excel数据透视表应用大全for Excel 365 & Excel 2019》](https://blog.csdn.net/qq_54796785/article/details/134026418)
+
++ [如何在 SwiftUI 中创建悬浮操作按钮](https://blog.csdn.net/qq_36478920/article/details/134051378)
+
++ [【Python】基于非侵入式负荷检测与分解的电力数据挖掘](https://blog.csdn.net/dietime1943/article/details/134029100)
+
++ [数据分析案例-某公司员工数据信息可视化（文末送书）](https://blog.csdn.net/m0_64336780/article/details/133971754)
+
++ [【Linux】从零开始学习Linux基本指令(三)](https://blog.csdn.net/m0_75219751/article/details/134049257)
+
++ [【兔子王赠书第3期】《案例学Python（进阶篇）》](https://blog.csdn.net/m0_68111267/article/details/134044733)
+

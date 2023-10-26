@@ -109,3 +109,49 @@
 
 + [Spice.ai](https://www.producthunt.com/posts/spice-ai)
 
++ [Fort Solis](https://www.producthunt.com/posts/fort-solis)
+
++ [Integra](https://www.producthunt.com/posts/integra)
+
++ [Nova](https://www.producthunt.com/posts/nova-15de977d-f2cf-4944-972c-344a9118e13f)
+
++ [Detail for iOS](https://www.producthunt.com/posts/detail-for-ios)
+
++ [Vetted AI](https://www.producthunt.com/posts/vetted-ai)
+
++ [Hello History](https://www.producthunt.com/posts/hello-history)
+
++ [ResolveAI](https://www.producthunt.com/posts/resolveai-2)
+
++ [Online compass in your browser](https://www.producthunt.com/posts/online-compass-in-your-browser)
+
++ [EmbedX](https://www.producthunt.com/posts/embedx)
+
++ [Phase](https://www.producthunt.com/posts/phase-6)
+
++ [VAYU - Sleep Stories and Meditation](https://www.producthunt.com/posts/vayu-sleep-stories-and-meditation)
+
++ [Sup Standup Bot](https://www.producthunt.com/posts/sup-standup-bot)
+
++ [Storybot AI](https://www.producthunt.com/posts/storybot-ai)
+
++ [Symphony](https://www.producthunt.com/posts/symphony-6)
+
++ [ChatwithGod.ai](https://www.producthunt.com/posts/chatwithgod-ai)
+
++ [Hello Ivy 2.5](https://www.producthunt.com/posts/hello-ivy-2-5)
+
++ [The Ultimate Graphic Design Dashboard](https://www.producthunt.com/posts/the-ultimate-graphic-design-dashboard)
+
++ [MAIA](https://www.producthunt.com/posts/maia-2)
+
++ [Vintti](https://www.producthunt.com/posts/vintti)
+
++ [Bits Art](https://www.producthunt.com/posts/bits-art)
+
++ [HelpBar by Chameleon](https://www.producthunt.com/posts/helpbar-by-chameleon)
+
++ [Branding Colors](https://www.producthunt.com/posts/branding-colors)
+
++ [Genie AI](https://www.producthunt.com/posts/genie-ai)
+

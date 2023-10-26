@@ -59,3 +59,9 @@
 
 + [一文详解内网LCX端口转发](https://www.freebuf.com/articles/network/379553.html)
 
++ [如何使用Trawler在安全事件响应活动中发现攻击者部署的持久化感染机制](https://www.freebuf.com/sectool/379038.html)
+
++ [《工业互联网安全分类分级管理办法（公开征求意见稿）》发布](https://www.freebuf.com/news/381885.html)
+
++ [在钓鱼邮件制作方面，AI丝毫不逊色于黑客](https://www.freebuf.com/news/381833.html)
+
