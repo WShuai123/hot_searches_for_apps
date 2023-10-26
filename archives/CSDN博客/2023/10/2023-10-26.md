@@ -197,3 +197,7 @@
 
 + [react中通过props实现父子组件间通信](https://blog.csdn.net/jieyucx/article/details/134057557)
 
++ [使用内网穿透本地MariaDB数据库，并实现在公网环境下使用navicat图形化工具](https://blog.csdn.net/xz2935117143/article/details/134055521)
+
++ [【码银送书第九期】《ChatGPT 驱动软件开发：AI 在软件研发全流程中的革新与实践》](https://blog.csdn.net/weixin_53197693/article/details/134061422)
+

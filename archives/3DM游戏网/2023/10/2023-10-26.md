@@ -241,3 +241,17 @@
 
 + [苹果发布iOS 17.1正式版：修复iPhone15 Pro烧屏问题](https://www.3dmgame.com/news/202310/3880249.html)
 
++ [《赛博朋克2077：往日之影》2.02更新现已上线](https://www.3dmgame.com/news/202310/3880251.html)
+
++ [2023年10月份游戏版号公布 《绝区零》《剑网3无界》等游戏过审](https://www.3dmgame.com/news/202310/3880254.html)
+
++ [RTX 40系列SUPER 英伟达或混用AD103/102/104芯片](https://www.3dmgame.com/news/202310/3880253.html)
+
++ [《合金装备Δ：食蛇者》和《合金装备3》画面对比](https://www.3dmgame.com/news/202310/3880252.html)
+
++ [科幻单人RPG《天外世界》销量突破500万份](https://www.3dmgame.com/news/202310/3880255.html)
+
++ [《心灵杀手2》没有D加密 老显卡可以玩](https://www.3dmgame.com/news/202310/3880256.html)
+
++ [《心灵杀手2》IGN 9分 青出于蓝而胜于蓝](https://www.3dmgame.com/news/202310/3880257.html)
+

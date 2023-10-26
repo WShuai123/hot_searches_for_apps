@@ -75,3 +75,9 @@
 
 + [小米 14 手机发布：首发骁龙 8 Gen 3、光影猎人传感器，3999 元起](https://m.ithome.com/html/727908.htm)
 
++ [4999 元起，小米 14 Pro 手机正式发布：首发高通骁龙 8 Gen3 及龙晶玻璃](https://m.ithome.com/html/727914.htm)
+
++ [21:20 开售：小米 14 / Pro 手机 3999 元起 + 京东 24 期免息](https://m.ithome.com/html/727917.htm)
+
++ [6499 元！小米 14 Pro 钛金属特别版手机发布，跟进苹果 iPhone 15 Pro](https://m.ithome.com/html/727915.htm)
+
