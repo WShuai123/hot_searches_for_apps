@@ -157,3 +157,35 @@
 
 + [Halloween PhotoAI: AI Headshot Generator](https://www.producthunt.com/posts/halloween-photoai-ai-headshot-generator)
 
++ [HfactoR](https://www.producthunt.com/posts/hfactor)
+
++ [Bolt Foundry](https://www.producthunt.com/posts/bolt-foundry)
+
++ [Atten AI](https://www.producthunt.com/posts/atten-ai)
+
++ [Contrato](https://www.producthunt.com/posts/contrato)
+
++ [Assistant](https://www.producthunt.com/posts/assistant-a67cfbd8-e7f8-4e56-9c8f-d684ac0d6b50)
+
++ [Sleepr](https://www.producthunt.com/posts/sleepr)
+
++ [ScreenSpace • Immersive Product Stories](https://www.producthunt.com/posts/screenspace-immersive-product-stories)
+
++ [Work Sensei](https://www.producthunt.com/posts/work-sensei)
+
++ [Frappe HR](https://www.producthunt.com/posts/frappe-hr)
+
++ [Sticky Studio Plus](https://www.producthunt.com/posts/sticky-studio-plus)
+
++ [Vulert](https://www.producthunt.com/posts/vulert)
+
++ [FocuSee](https://www.producthunt.com/posts/focusee)
+
++ [Utopic.ai](https://www.producthunt.com/posts/utopic-ai)
+
++ [OpenSign™: Open Source DocuSign & more](https://www.producthunt.com/posts/opensign-open-source-docusign-more)
+
++ [Maruti.io](https://www.producthunt.com/posts/maruti-io)
+
++ [Priority Inbox for Builders](https://www.producthunt.com/posts/priority-inbox-for-builders)
+

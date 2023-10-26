@@ -61,3 +61,5 @@
 
 + [神舟十七号载人飞船发射取得圆满成功！](https://m.ithome.com/html/727738.htm)
 
++ [高通称骁龙 8 Gen 4 将使用自研 Oryon CPU 核心，成本可能上升](https://m.ithome.com/html/727709.htm)
+

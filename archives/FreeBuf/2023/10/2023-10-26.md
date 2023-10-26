@@ -67,3 +67,7 @@
 
 + [数据库问题：7 TB 医疗数据泄露，影响 1200 万患者](https://www.freebuf.com/news/381917.html)
 
++ [谷歌的零信任实践BeyondCorp到底讲了啥？](https://www.freebuf.com/articles/database/378373.html)
+
++ [印度医疗地震：数据泄露高达7 TB ，影响 1200 万患者](https://www.freebuf.com/news/381917.html)
+
