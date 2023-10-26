@@ -99,3 +99,7 @@
 
 + [离谱，一个罐罐卖到128？我直接一个锅子复刻罐罐烤奶！](http://www.acfun.cn/v/ac42749703)
 
++ [给萝莉控一点来自灵魂的颤抖！](http://www.acfun.cn/v/ac42759454)
+
++ [复古金曲 每日每夜都在想念你☆Day By Day★【Gikiki】](http://www.acfun.cn/v/ac42755763)
+

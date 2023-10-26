@@ -189,3 +189,31 @@
 
 + [Priority Inbox for Builders](https://www.producthunt.com/posts/priority-inbox-for-builders)
 
++ [Scriptomatic](https://www.producthunt.com/posts/scriptomatic)
+
++ [True AI](https://www.producthunt.com/posts/true-ai)
+
++ [Arrange](https://www.producthunt.com/posts/arrange-2)
+
++ [Lemon Hire](https://www.producthunt.com/posts/lemon-hire)
+
++ [Fabloq for databases](https://www.producthunt.com/posts/fabloq-for-databases)
+
++ [PathFinder](https://www.producthunt.com/posts/pathfinder-9)
+
++ [Tip Calculator](https://www.producthunt.com/posts/tip-calculator-4)
+
++ [Sundae for monday.com](https://www.producthunt.com/posts/sundae-for-monday-com)
+
++ [Botsheets Chat](https://www.producthunt.com/posts/botsheets-chat)
+
++ [Persuwise](https://www.producthunt.com/posts/persuwise)
+
++ [Mayfair](https://www.producthunt.com/posts/mayfair-2)
+
++ [Hive3](https://www.producthunt.com/posts/hive3)
+
++ [Nuprizm](https://www.producthunt.com/posts/nuprizm)
+
++ [HURMA Recruitment](https://www.producthunt.com/posts/hurma-recruitment)
+

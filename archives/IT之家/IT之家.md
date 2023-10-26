@@ -63,3 +63,5 @@
 
 + [高通称骁龙 8 Gen 4 将使用自研 Oryon CPU 核心，成本可能上升](https://m.ithome.com/html/727709.htm)
 
++ [小米 14 手机标配环形冷泵散热系统，《原神》重载 30 分钟平均帧率 59.3 帧](https://m.ithome.com/html/727784.htm)
+

@@ -191,3 +191,41 @@
 
 + [《合金装备4》也有可能重制 但科乐美能做好吗？](https://www.3dmgame.com/news/202310/3880216.html)
 
++ [《车轮经理2》现已在Steam上提供抢先体验](https://www.3dmgame.com/news/202310/3880237.html)
+
++ [ARK/8推出《艾尔登法环》主题服装 皮草大衣1735美元](https://www.3dmgame.com/news/202310/3880235.html)
+
++ [《霍格沃茨之遗》Switch版首日补丁8GB 比游戏本体还大](https://www.3dmgame.com/news/202310/3880236.html)
+
++ [B社曾认为《辐射76》万无一失 却输给了傲慢](https://www.3dmgame.com/news/202310/3880233.html)
+
++ [Quest 3头显更新省电模式：牺牲画面增加续航](https://www.3dmgame.com/news/202310/3880234.html)
+
++ [《城市：天际线2》官方解释为何未优化好就发售：乐趣大于性能](https://www.3dmgame.com/news/202310/3880230.html)
+
++ [娱美德向腾讯出售《胜利女神》开发商股份：4.35亿元](https://www.3dmgame.com/news/202310/3880232.html)
+
++ [英国游戏行业职位空缺创三年来新低](https://www.3dmgame.com/news/202310/3880231.html)
+
++ [韦伯望远镜首次检测到恒星合并后的重元素 帮科学家探究生命起源奥秘](https://www.3dmgame.com/news/202310/3880229.html)
+
++ [B社晒《星空》截图：轻松愉快 玩家们快来体验](https://www.3dmgame.com/news/202310/3880227.html)
+
++ [Xbox高管赞扬暴雪是游戏行业的皮克斯：叙事艺术非凡](https://www.3dmgame.com/news/202310/3880238.html)
+
++ [vivo X100首发自研V3影像芯片：6nm工艺制程](https://www.3dmgame.com/news/202310/3880239.html)
+
++ [还原名场面 世嘉推出《葬送的芙莉莲》宝箱怪头枕](https://www.3dmgame.com/news/202310/3880226.html)
+
++ [印度在教科书中用“巴拉特”替代“印度”：摆脱奴隶制影响](https://www.3dmgame.com/news/202310/3880245.html)
+
++ [扎克伯格声称推特竞品Threads月用户已近1亿](https://www.3dmgame.com/news/202310/3880228.html)
+
++ [不给糖果就捣蛋！KK对战平台万圣节特别活动开启](https://www.3dmgame.com/news/202310/3880244.html)
+
++ [《Caliber（鬼魅战队）》4周年庆活动开始 双倍奖励火热进行中](https://www.3dmgame.com/news/202310/3880243.html)
+
++ [小米申请多个HyperOS商标 有望全系升级澎湃OS](https://www.3dmgame.com/news/202310/3880241.html)
+
++ [《超级双截龙》《双截龙ADVANCE》Steam页面 11月9日发售](https://www.3dmgame.com/news/202310/3880240.html)
+

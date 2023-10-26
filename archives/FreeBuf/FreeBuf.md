@@ -71,3 +71,5 @@
 
 + [印度医疗地震：数据泄露高达7 TB ，影响 1200 万患者](https://www.freebuf.com/news/381917.html)
 
++ [谁在坚持创新？ | WitAwards 2023年度安全评选火热进行中](https://www.freebuf.com/fevents/381859.html)
+
