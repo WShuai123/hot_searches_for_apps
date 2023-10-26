@@ -55,3 +55,5 @@
 
 + [欺骗性不不比真人写的差，警惕由AI生成的钓鱼邮件](https://www.freebuf.com/news/381833.html)
 
++ [java经典漏洞复现（基于vulhub）](https://www.freebuf.com/articles/network/381092.html)
+

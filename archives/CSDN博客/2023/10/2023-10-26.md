@@ -145,3 +145,7 @@
 
 + [《数字图像处理-OpenCV/Python》连载（26）绘制椭圆和椭圆弧](https://blog.csdn.net/youcans/article/details/134014737)
 
++ [【MySQL】表的约束](https://blog.csdn.net/qq_62939852/article/details/133987351)
+
++ [CV计算机视觉每日开源代码Paper with code速览-2023.10.23](https://blog.csdn.net/zhangkai950121/article/details/134035325)
+

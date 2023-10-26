@@ -47,3 +47,7 @@
 
 + [高通骁龙 8 Gen 3 处理器官方参考跑分出炉：Geekbench 6 单核 2300+、多核 7400+](https://m.ithome.com/html/727683.htm)
 
++ [小米 14 手机今晚亮相，官宣费翔出任“小米人文影像共创家”](https://m.ithome.com/html/727710.htm)
+
++ [刘作虎展示一加 12 真机：采用双曲面屏、极窄边框，下月发布](https://m.ithome.com/html/727483.htm)
+
