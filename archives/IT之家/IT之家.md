@@ -27,3 +27,5 @@
 
 + [苹果 iOS / iPadOS 17.2 开发者预览版 Beta 1 发布：手记应用上线](https://m.ithome.com/html/727948.htm)
 
++ [iOS 17.2 SDK 代码确认古尔曼爆料：免开箱更新苹果 iPhone 系统](https://m.ithome.com/html/727985.htm)
+
