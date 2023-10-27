@@ -135,3 +135,5 @@
 
 + [【Python】基于非侵入式负荷检测与分解的电力数据挖掘](https://blog.csdn.net/dietime1943/article/details/134029100)
 
++ [详解预处理（2）](https://blog.csdn.net/m0_74841364/article/details/134042080)
+

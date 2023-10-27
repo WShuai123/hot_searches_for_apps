@@ -31,3 +31,5 @@
 
 + [小米澎湃 OS 国际版 2024 年第一季度发布](https://m.ithome.com/html/728124.htm)
 
++ [11.11 今日攻略：Redmi K60 手机跌破两千，AirPods Pro 2 耳机 1436 元含税包邮](https://m.ithome.com/html/728166.htm)
+

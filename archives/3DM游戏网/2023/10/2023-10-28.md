@@ -107,3 +107,13 @@
 
 + [GOG喜加一：《黑猫侦探：深入本质》限时免费](https://www.3dmgame.com/news/202310/3880339.html)
 
++ [《暗黑4》将于10月31日迎来大型更新 新增训练假人](https://www.3dmgame.com/news/202310/3880346.html)
+
++ [《迷雾魔域：迷雾与活地下城》脱离EA登陆PC](https://www.3dmgame.com/news/202310/3880344.html)
+
++ [《闪光银枪》PC版将于11/3推出 移植自360版](https://www.3dmgame.com/news/202310/3880343.html)
+
++ [《幽灵骑士：黑暗传说》试玩版现已上线](https://www.3dmgame.com/news/202310/3880345.html)
+
++ [恐怖射击游戏《量子误差》上市预告片分享](https://www.3dmgame.com/news/202310/3880342.html)
+

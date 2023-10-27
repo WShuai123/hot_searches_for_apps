@@ -215,3 +215,25 @@
 
 + [Halloween icons](https://dribbble.com/shots/)
 
++ [La Hermana No. 2](https://dribbble.com/shots/)
+
++ [Case Study: Dog Sledding Service Website](https://dribbble.com/shots/)
+
++ [Yellow NYC](https://dribbble.com/shots/)
+
++ [Stratis UI - Mobile Graph](https://dribbble.com/shots/)
+
++ [Relab - Marketing Agency Branding](https://dribbble.com/shots/)
+
++ [Sound logo](https://dribbble.com/shots/)
+
++ [Big illustration set for Ciseway](https://dribbble.com/shots/)
+
++ [Dangerous Ideas 2](https://dribbble.com/shots/)
+
++ [Orange Dog Logo](https://dribbble.com/shots/)
+
++ [Agency Web](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+
