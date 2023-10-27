@@ -49,3 +49,45 @@
 
 + [N tetris](https://dribbble.com/shots/)
 
++ [Jersey Devil](https://dribbble.com/shots/)
+
++ [Parramatta Eels](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+
++ [Web UI](https://dribbble.com/shots/)
+
++ [Oscar Health — Health Insurance App](https://dribbble.com/shots/)
+
++ [Bates Smart | Corporate website redesign](https://dribbble.com/shots/)
+
++ [Flow - Design Studio Mobile UI Concept](https://dribbble.com/shots/)
+
++ [La Hermana No.1](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 1](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
++ [Direct To Solver - Merchandise](https://dribbble.com/shots/)
+
++ [Crypto Exchange Illustration](https://dribbble.com/shots/)
+
++ [Boba on the Beach Illustration for Adobe Express Keynote @ MAX](https://dribbble.com/shots/)
+
++ [Surfs Up](https://dribbble.com/shots/)
+
++ [Marinus Yacht Service](https://dribbble.com/shots/)
+
++ [Merlin - Simple Landing page](https://dribbble.com/shots/)
+
++ [Full Moon](https://dribbble.com/shots/)
+
++ [Muti Moon Base 2071](https://dribbble.com/shots/)
+
++ [UX-UI design FintechProject Animation](https://dribbble.com/shots/)
+
++ [The giant robot attack!](https://dribbble.com/shots/)
+
++ [Mercedes-Benz Vinyl (Illustration)](https://dribbble.com/shots/)
+

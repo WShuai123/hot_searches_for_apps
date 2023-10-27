@@ -61,3 +61,5 @@
 
 + [【逗鱼时刻】第406期 优势稳，劣势拼！](http://www.acfun.cn/v/ac42759363)
 
++ [快速看完一局韩服王者斗殴局#547 Imp, Light ,Piero, Morgan, xiaof](http://www.acfun.cn/v/ac42770766)
+
