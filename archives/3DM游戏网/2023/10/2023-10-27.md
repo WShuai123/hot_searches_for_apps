@@ -205,3 +205,13 @@
 
 + [《守望先锋2》联动LE SSERAFIM女团单曲MV发布 新联动皮肤即将上线](https://www.3dmgame.com/news/202310/3880304.html)
 
++ [首周价68.8元！逃狱题材CRPG《动物迷城》将于11月3日上线](https://www.3dmgame.com/news/202310/3880314.html)
+
++ [iOS 17.2版本iPhone 15 Pro动作按钮增添翻译功能](https://www.3dmgame.com/news/202310/3880312.html)
+
++ [疑似发现《城市：天际线2》卡顿缘由 NPC建模精致到牙齿](https://www.3dmgame.com/news/202310/3880313.html)
+
++ [类宝可梦像素游戏《Coromon》移动端发售预告 11月8日发售](https://www.3dmgame.com/news/202310/3880311.html)
+
++ [《使命召唤：战区》手游预注册人数已超4500万 2024年春上线](https://www.3dmgame.com/news/202310/3880310.html)
+
