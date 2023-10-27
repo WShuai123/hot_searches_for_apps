@@ -115,3 +115,43 @@
 
 + [Online compass in your browser](https://www.producthunt.com/posts/online-compass-in-your-browser)
 
++ [NANI - Baby Monitor App](https://www.producthunt.com/posts/nani-baby-monitor-app)
+
++ [Newsletter Pilot](https://www.producthunt.com/posts/newsletter-pilot)
+
++ [MagicPost](https://www.producthunt.com/posts/magicpost)
+
++ [BabyData](https://www.producthunt.com/posts/babydata)
+
++ [Sequel 2.1](https://www.producthunt.com/posts/sequel-2-1)
+
++ [01supply](https://www.producthunt.com/posts/01supply)
+
++ [AI-Powered Slack Huddles](https://www.producthunt.com/posts/ai-powered-slack-huddles)
+
++ [Pill](https://www.producthunt.com/posts/pill)
+
++ [Showem](https://www.producthunt.com/posts/showem-2)
+
++ [UndoFlow For WebFlow](https://www.producthunt.com/posts/undoflow-for-webflow)
+
++ [RespacedAI](https://www.producthunt.com/posts/respacedai)
+
++ [Workout Quest](https://www.producthunt.com/posts/workout-quest)
+
++ [SiteCompanion](https://www.producthunt.com/posts/sitecompanion)
+
++ [Cool Costume Ideas](https://www.producthunt.com/posts/cool-costume-ideas)
+
++ [Suku Webdev](https://www.producthunt.com/posts/suku-webdev)
+
++ [MedReport AI](https://www.producthunt.com/posts/medreport-ai)
+
++ [Full-stack Auth for React/Node by Wasp](https://www.producthunt.com/posts/full-stack-auth-for-react-node-by-wasp)
+
++ [Layer](https://www.producthunt.com/posts/layer-0ba50dc8-0ad4-40ff-9955-d088e619bf20)
+
++ [Ascend - Home Mountain Climbing](https://www.producthunt.com/posts/ascend-home-mountain-climbing)
+
++ [Skillpine](https://www.producthunt.com/posts/skillpine)
+

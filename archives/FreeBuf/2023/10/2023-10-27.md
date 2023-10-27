@@ -53,3 +53,7 @@
 
 + [StripedFly 恶意软件感染 100 万台 Windows 和 Linux 主机](https://www.freebuf.com/news/382025.html)
 
++ [如何使用Aker配置你自己的Linux SSH跳转主机和堡垒主机](https://www.freebuf.com/sectool/379906.html)
+
++ [新型 iLeakage 攻击从苹果 Safari 浏览器窃取电子邮件和密码](https://www.freebuf.com/news/382020.html)
+

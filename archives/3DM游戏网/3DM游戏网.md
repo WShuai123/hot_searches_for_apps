@@ -193,3 +193,15 @@
 
 + [Unity安装费实为“匆忙推出”：手游大厂当面痛骂CEO](https://www.3dmgame.com/news/202310/3880303.html)
 
++ [《The Finals》跨平台公测已开启 但游戏存在崩溃问题](https://www.3dmgame.com/news/202310/3880309.html)
+
++ [《心灵杀手2》外媒评价整合：时隔13年续作不负众望](https://www.3dmgame.com/news/202310/3880307.html)
+
++ [LEVEL-5庆祝成为25周年 新作发售日期11月公布](https://www.3dmgame.com/news/202310/3880308.html)
+
++ [《幽灵行者2》发售预告 国区售价169元](https://www.3dmgame.com/news/202310/3880306.html)
+
++ [《战地2042》新限时活动“黑暗协议”将于下周开启](https://www.3dmgame.com/news/202310/3880305.html)
+
++ [《守望先锋2》联动LE SSERAFIM女团单曲MV发布 新联动皮肤即将上线](https://www.3dmgame.com/news/202310/3880304.html)
+
