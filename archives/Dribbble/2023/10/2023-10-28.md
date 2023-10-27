@@ -193,3 +193,25 @@
 
 + [Cedro El Coco](https://dribbble.com/shots/)
 
++ [Adobe MAX 2023 Postcards](https://dribbble.com/shots/)
+
++ [Salford Red Devils](https://dribbble.com/shots/)
+
++ [Plant Collectors Club](https://dribbble.com/shots/)
+
++ [Geometric Guitar Logo](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
+
++ [Paragon](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Football app](https://dribbble.com/shots/)
+
++ [PolyAI rebrand + case study](https://dribbble.com/shots/)
+
++ [Halloween icons](https://dribbble.com/shots/)
+

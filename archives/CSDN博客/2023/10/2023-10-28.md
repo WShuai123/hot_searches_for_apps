@@ -133,3 +133,5 @@
 
 + [【开源】基于SpringBoot的海南旅游景点推荐系统的设计和实现](https://blog.csdn.net/customer08/article/details/134070287)
 
++ [【Python】基于非侵入式负荷检测与分解的电力数据挖掘](https://blog.csdn.net/dietime1943/article/details/134029100)
+
