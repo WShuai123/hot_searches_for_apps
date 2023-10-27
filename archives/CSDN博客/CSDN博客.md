@@ -133,3 +133,9 @@
 
 + [Windows下如何编译FFmpeg](https://blog.csdn.net/u012559967/article/details/134035253)
 
++ [【微信小程序】实现投票功能（附源码）](https://blog.csdn.net/weixin_74383330/article/details/134024992)
+
++ [使用Docker部署Apache Superset并实现公网远程访问](https://blog.csdn.net/asdssadddd/article/details/134055708)
+
++ [【信息科技风险管理】合规管理、技术防控与数字化，助力金融机构业务发展。](https://blog.csdn.net/2301_77485708/article/details/134041126)
+

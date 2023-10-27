@@ -149,3 +149,9 @@
 
 + [《漫威蜘蛛侠2》新补丁上线 修复旗帜显示错误](https://www.3dmgame.com/news/202310/3880276.html)
 
++ [自动化策略游戏《Oddsparks》Steam页面 明年发售](https://www.3dmgame.com/news/202310/3880284.html)
+
++ [Embracer缩减影响更多工作室：Digic裁员35名员工](https://www.3dmgame.com/news/202310/3880283.html)
+
++ [《Space Trash Scavenger》发售日预告 11月10日正式发售](https://www.3dmgame.com/news/202310/3880278.html)
+
