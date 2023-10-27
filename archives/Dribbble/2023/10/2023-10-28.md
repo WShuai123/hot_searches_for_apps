@@ -131,3 +131,41 @@
 
 + [R dropcap](https://dribbble.com/shots/)
 
++ [Tankbusters - case study](https://dribbble.com/shots/)
+
++ [Playlist AI iOS App Icon](https://dribbble.com/shots/)
+
++ [Capify Fintech Logo](https://dribbble.com/shots/)
+
++ [Mordecai](https://dribbble.com/shots/)
+
++ [Vectober 2023 23 // Message](https://dribbble.com/shots/)
+
++ [AI Infrastructure Alliance](https://dribbble.com/shots/)
+
++ [Cat Pumpkin (Blue)](https://dribbble.com/shots/)
+
++ [Truly Fresh Logo](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [Barber Booking Mobile App](https://dribbble.com/shots/)
+
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+
++ [Rusted Lantern](https://dribbble.com/shots/)
+
++ [Mural Design Going up in Melbourne ????????](https://dribbble.com/shots/)
+
++ [Healthcare service - Mobile app](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [App UI](https://dribbble.com/shots/)
+
++ [the Insiders - Logo Redesign](https://dribbble.com/shots/)
+
++ [Walking in New york ???????? ☀️](https://dribbble.com/shots/)
+
++ [Oakwood - Boy Studying](https://dribbble.com/shots/)
+

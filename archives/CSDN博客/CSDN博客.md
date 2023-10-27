@@ -101,3 +101,7 @@
 
 + [18亿欧元大动作，法国瞄准实现量子飞跃](https://blog.csdn.net/Qforepost/article/details/134072491)
 
++ [nodejs+vue 电子书阅读系统](https://blog.csdn.net/QQ511008285/article/details/133886418)
+
++ [基于FPGA的电风扇控制器verilog，视频/代码](https://blog.csdn.net/diaojiangxue/article/details/134066472)
+

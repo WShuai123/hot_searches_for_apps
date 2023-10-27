@@ -29,3 +29,5 @@
 
 + [iOS 17.2 SDK 代码确认古尔曼爆料：免开箱更新苹果 iPhone 系统](https://m.ithome.com/html/727985.htm)
 
++ [小米澎湃 OS 国际版 2024 年第一季度发布](https://m.ithome.com/html/728124.htm)
+

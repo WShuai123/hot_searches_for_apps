@@ -101,3 +101,5 @@
 
 + [Skillpine](https://www.producthunt.com/posts/skillpine)
 
++ [MintyCookie: CupidAI & Chat](https://www.producthunt.com/posts/mintycookie-cupidai-chat)
+
