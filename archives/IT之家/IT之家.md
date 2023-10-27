@@ -29,3 +29,5 @@
 
 + [小米 14 / Pro 系列手机 MiCare 无忧版价格公布，447 元起](https://m.ithome.com/html/727923.htm)
 
++ [TCL 华星介绍小米 14 / Pro 手机屏幕：C8 发光材料、LTPO 技术，带来充满惊喜的体验](https://m.ithome.com/html/727933.htm)
+

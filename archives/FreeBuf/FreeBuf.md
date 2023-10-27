@@ -45,3 +45,5 @@
 
 + [揭秘兵工厂：探索攻击者工具集和战术](https://www.freebuf.com/articles/paper/381519.html)
 
++ [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
+

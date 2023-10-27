@@ -129,3 +129,23 @@
 
 + [育碧策略游戏《纪元1800》开启免费试玩活动](https://www.3dmgame.com/news/202310/3880263.html)
 
++ [数毛社《心灵杀手2》PS5版性能分析：整体体验稳定](https://www.3dmgame.com/news/202310/3880282.html)
+
++ [《Apex英雄》发布第19赛季“点燃”游戏玩法预告](https://www.3dmgame.com/news/202310/3880280.html)
+
++ [2D平台动作游戏《剑魂》Steam页面上线 2025年发售](https://www.3dmgame.com/news/202310/3880281.html)
+
++ [Meta VR部门Q3收入下降26% 将继续投资和开发](https://www.3dmgame.com/news/202310/3880279.html)
+
++ [亚马逊公布11月会免游戏 《星球大战：旧共和国武士》等](https://www.3dmgame.com/news/202310/3880275.html)
+
++ [《方舟：生存飞升》Steam中文区评价差评如潮](https://www.3dmgame.com/news/202310/3880274.html)
+
++ [育碧上半年收入增长14%：《碧海黑帆》最晚明年3月发售](https://www.3dmgame.com/news/202310/3880273.html)
+
++ [《消逝的光芒2》x《吸血鬼：避世血族》开启嗜血联动](https://www.3dmgame.com/news/202310/3880272.html)
+
++ [前B社设计师猛夸《星空》：游戏发售时表现如此出色](https://www.3dmgame.com/news/202310/3880277.html)
+
++ [《漫威蜘蛛侠2》新补丁上线 修复旗帜显示错误](https://www.3dmgame.com/news/202310/3880276.html)
+

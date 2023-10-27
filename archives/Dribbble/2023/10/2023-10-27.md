@@ -233,3 +233,25 @@
 
 + [NexaVirtu Tech Website](https://dribbble.com/shots/)
 
++ [La Hermana No.1](https://dribbble.com/shots/)
+
++ [Frog life cycle](https://dribbble.com/shots/)
+
++ [London](https://dribbble.com/shots/)
+
++ [BookTracker App Icon](https://dribbble.com/shots/)
+
++ [Case Study: Dog Sledding Service Website](https://dribbble.com/shots/)
+
++ [footer micro animation](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [Labels for hot sauces](https://dribbble.com/shots/)
+
++ [Flow - Design Studio Mobile UI Concept](https://dribbble.com/shots/)
+
++ [UX-UI design FintechProject Animation](https://dribbble.com/shots/)
+
++ [Crypto Exchange Illustration](https://dribbble.com/shots/)
+
