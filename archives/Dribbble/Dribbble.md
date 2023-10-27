@@ -351,3 +351,17 @@
 
 + [Main navigation](https://dribbble.com/shots/)
 
++ [R dropcap](https://dribbble.com/shots/)
+
++ [Central park](https://dribbble.com/shots/)
+
++ [Colossus of the South](https://dribbble.com/shots/)
+
++ [Rusted Lantern](https://dribbble.com/shots/)
+
++ [Dark UI](https://dribbble.com/shots/)
+
++ [Penrith Panthers](https://dribbble.com/shots/)
+
++ [Foodies app design](https://dribbble.com/shots/)
+

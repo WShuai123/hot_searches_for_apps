@@ -215,3 +215,21 @@
 
 + [《使命召唤：战区》手游预注册人数已超4500万 2024年春上线](https://www.3dmgame.com/news/202310/3880310.html)
 
++ [新生物免费更新和魔法城堡DLC隆重上线，庆祝万圣节史低特惠！](https://www.3dmgame.com/news/202310/3880320.html)
+
++ [网瘾少女！新垣结衣：自己无法忍受的欲望是玩游戏](https://www.3dmgame.com/news/202310/3880321.html)
+
++ [《博德之门3》令孩之宝的数字销售额增长了40%](https://www.3dmgame.com/news/202310/3880322.html)
+
++ [为了《漫威蜘蛛侠2》在沙特过审 索尼删除了游戏中LGBTQ+元素](https://www.3dmgame.com/news/202310/3880323.html)
+
++ [2023 WePlay文化展正式开票！魔都超好玩的游戏展回来了！](https://www.3dmgame.com/news/202310/3880315.html)
+
++ [全球首个吉瓦级液流电池智能工厂珠海投产 生产不燃不爆的“巨型充电宝”](https://www.3dmgame.com/news/202310/3880316.html)
+
++ [《碧蓝幻想Versus：崛起》宣布第二次B测 11月10日开启](https://www.3dmgame.com/news/202310/3880317.html)
+
++ [马斯克取经支付宝？计划一年内推特取代银行账户](https://www.3dmgame.com/news/202310/3880318.html)
+
++ [恋爱模拟游戏《制服女友》新预告 与美少女恋爱](https://www.3dmgame.com/news/202310/3880319.html)
+

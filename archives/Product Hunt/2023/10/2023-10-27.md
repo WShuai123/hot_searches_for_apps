@@ -187,3 +187,9 @@
 
 + [Humanloop](https://www.producthunt.com/posts/humanloop-d8095c62-2325-4d5c-a0ab-8a67a79678e7)
 
++ [Ultimate Free CV Guide](https://www.producthunt.com/posts/ultimate-free-cv-guide)
+
++ [Tripmix.ai - Personalize AI Trip Planner](https://www.producthunt.com/posts/tripmix-ai-personalize-ai-trip-planner)
+
++ [Freelancing Dashboard](https://www.producthunt.com/posts/freelancing-dashboard)
+
