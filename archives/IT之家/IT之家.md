@@ -31,3 +31,5 @@
 
 + [TCL 华星介绍小米 14 / Pro 手机屏幕：C8 发光材料、LTPO 技术，带来充满惊喜的体验](https://m.ithome.com/html/727933.htm)
 
++ [全网 11.11 限时购：小米 14 系列 3999 元起 24 期免息，85 寸 MiniLED 电视 7999 元补贴好价](https://m.ithome.com/html/727939.htm)
+

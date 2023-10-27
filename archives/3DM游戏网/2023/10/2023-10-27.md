@@ -155,3 +155,41 @@
 
 + [《Space Trash Scavenger》发售日预告 11月10日正式发售](https://www.3dmgame.com/news/202310/3880278.html)
 
++ [《暗黑破坏神4》玩家好羞涩 美女护甲太短遮不住屁股](https://www.3dmgame.com/news/202310/3880290.html)
+
++ [卡普空宣布正在开发下一代RE引擎 代号“REX”](https://www.3dmgame.com/news/202310/3880286.html)
+
++ [《超级马里奥兄弟：惊奇》成欧洲史上销售最快马里奥游戏](https://www.3dmgame.com/news/202310/3880291.html)
+
++ [卡普空上半年业绩创纪录 主要由《街头霸王6》推动](https://www.3dmgame.com/news/202310/3880289.html)
+
++ [微软Ignite全球技术大会11月15日举行 全面拥抱AI](https://www.3dmgame.com/news/202310/3880288.html)
+
++ [《暗黑破坏神4》现在战网客户端提供免费试玩版](https://www.3dmgame.com/news/202310/3880287.html)
+
++ [《上古卷轴5》向世界证明了开放世界游戏地位 GTA3稍逊](https://www.3dmgame.com/news/202310/3880285.html)
+
++ [Xbox系统10月更新：为手柄增加键盘按键映射](https://www.3dmgame.com/news/202310/3880299.html)
+
++ [为全球加强AI治理 联合国成立咨询机构](https://www.3dmgame.com/news/202310/3880298.html)
+
++ [《心灵杀手2》确认有2个付费DLC 将带来全新故事](https://www.3dmgame.com/news/202310/3880295.html)
+
++ [3年“放养”结束：B社和Arkane现需向微软汇报工作](https://www.3dmgame.com/news/202310/3880297.html)
+
++ [梦幻联动 《回到未来》将于下月进驻《冲就完事模拟器》](https://www.3dmgame.com/news/202310/3880294.html)
+
++ [3999元起！小米14正式发布 还有钛金属特别版](https://www.3dmgame.com/news/202310/3880302.html)
+
++ [横版平台跳跃游戏《变色龙童绘历险》Steam页面上线 明年发售](https://www.3dmgame.com/news/202310/3880292.html)
+
++ [Epic喜加一：《恶灵附身2/The Evil Within 2》免费领！](https://www.3dmgame.com/news/202310/3880300.html)
+
++ [Epic商城中的《蝙蝠侠：阿卡姆骑士》曾短暂上架新电影战服皮肤](https://www.3dmgame.com/news/202310/3880301.html)
+
++ [索尼发布新PS5主机系统更新 PSVR2可隐藏游玩内容](https://www.3dmgame.com/news/202310/3880293.html)
+
++ [手游《王国之心ML》下周公布新消息 开发完成30%](https://www.3dmgame.com/news/202310/3880296.html)
+
++ [Unity安装费实为“匆忙推出”：手游大厂当面痛骂CEO](https://www.3dmgame.com/news/202310/3880303.html)
+

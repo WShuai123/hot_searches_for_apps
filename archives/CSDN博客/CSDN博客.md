@@ -157,3 +157,13 @@
 
 + [nodejs+vue 电子书阅读系统](https://blog.csdn.net/QQ511008285/article/details/133886418)
 
++ [解密人工智能：决策树 | 随机森林 | 朴素贝叶斯](https://blog.csdn.net/weixin_63115236/article/details/134068783)
+
++ [巧用AI玩转时事分析](https://blog.csdn.net/s445320/article/details/134068486)
+
++ [语雀服务器P0事故的一些启发](https://blog.csdn.net/jinxinxin1314/article/details/134068593)
+
++ [如何通过VNC实现公网远程控制macOS设备](https://blog.csdn.net/2301_76147196/article/details/134056360)
+
++ [计算机网络-应用层（1）](https://blog.csdn.net/limengshi138392/article/details/134067099)
+
