@@ -51,3 +51,33 @@
 
 + [helix-editor / helix](https://github.com/helix-editor/helix)
 
++ [hehonghui / awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
+
++ [eylonmiz / react-agent](https://github.com/eylonmiz/react-agent)
+
++ [AndrewWalsh / openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)
+
++ [Chuny1 / 3DGPT](https://github.com/Chuny1/3DGPT)
+
++ [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [vercel / next-learn](https://github.com/vercel/next-learn)
+
++ [vercel / next.js](https://github.com/vercel/next.js)
+
++ [microsoft / fluentui](https://github.com/microsoft/fluentui)
+
++ [angular / components](https://github.com/angular/components)
+
++ [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
++ [frida / frida](https://github.com/frida/frida)
+

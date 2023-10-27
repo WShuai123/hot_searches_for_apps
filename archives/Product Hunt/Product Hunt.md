@@ -193,3 +193,5 @@
 
 + [Freelancing Dashboard](https://www.producthunt.com/posts/freelancing-dashboard)
 
++ [timeOS for Slack Huddles](https://www.producthunt.com/posts/timeos-for-slack-huddles)
+
