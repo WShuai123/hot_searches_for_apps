@@ -41,3 +41,13 @@
 
 + [小米澎湃 OS AI 内测开启报名，新增小爱输入助手、AI 写真、AI 搜图等功能](https://m.ithome.com/html/727951.htm)
 
++ [【IT之家评测室】小米 14 Pro 手机体验：不止首发骁龙 8 Gen 3](https://m.ithome.com/html/727982.htm)
+
++ [iQOO 12 手机官图公开：大尺寸后置镜头模组 +“标志性”三色条纹](https://m.ithome.com/html/728103.htm)
+
++ [华为音乐 iOS 版开启内测，现已上架苹果 Testflight](https://m.ithome.com/html/727932.htm)
+
++ [开源鸿蒙 OpenHarmony 4.0 Release 正式发布，开发套件同步升级 API 10](https://m.ithome.com/html/727942.htm)
+
++ [【IT之家开箱】小米 14 Pro 手机图赏：张扬与内敛的和谐统一](https://m.ithome.com/html/727983.htm)
+
