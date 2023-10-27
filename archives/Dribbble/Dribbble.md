@@ -289,3 +289,25 @@
 
 + [La Hermana No. 2](https://dribbble.com/shots/)
 
++ [LPF emblem](https://dribbble.com/shots/)
+
++ [L'ETOILE DU NORD](https://dribbble.com/shots/)
+
++ [Bold - Personality Landing Page](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+
++ [Mocktober - Mainway Industries](https://dribbble.com/shots/)
+
++ [WristWonders - Watch Landing Page](https://dribbble.com/shots/)
+
++ [Eli Cash](https://dribbble.com/shots/)
+
++ [N tetris](https://dribbble.com/shots/)
+
++ [Paint art illustrations](https://dribbble.com/shots/)
+
++ [Nutella | Corporate Redesign](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+

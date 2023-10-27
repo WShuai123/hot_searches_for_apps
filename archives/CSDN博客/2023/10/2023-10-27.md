@@ -149,3 +149,11 @@
 
 + [基于nodejs+vue 宁夏旅游景点客流量数据分析系统](https://blog.csdn.net/QQ_511008285/article/details/133885853)
 
++ [protobuf使用详解](https://blog.csdn.net/qq_42402854/article/details/134066566)
+
++ [如何公网远程连接本地群晖NAS中的WebDAV](https://blog.csdn.net/2301_77053417/article/details/134056675)
+
++ [前端（二十五）——前端实现 OCR 图文识别的详细步骤与示例代码](https://blog.csdn.net/dyk11111/article/details/134063765)
+
++ [nodejs+vue 电子书阅读系统](https://blog.csdn.net/QQ511008285/article/details/133886418)
+
