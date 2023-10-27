@@ -253,3 +253,9 @@
 
 + [高通暗示明年第四代骁龙8定价或更高 成为其最贵的移动SoC](https://www.3dmgame.com/news/202310/3880331.html)
 
++ [收购动视暴雪后 微软拥有17个十亿美元游戏系列](https://www.3dmgame.com/news/202310/3880336.html)
+
++ [《荒野大镖客2》已经发售5年了](https://www.3dmgame.com/news/202310/3880334.html)
+
++ [特斯拉：Model Y高性能版价格上调1.4万元](https://www.3dmgame.com/news/202310/3880335.html)
+

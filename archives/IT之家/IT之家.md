@@ -51,3 +51,9 @@
 
 + [【IT之家开箱】小米 14 Pro 手机图赏：张扬与内敛的和谐统一](https://m.ithome.com/html/727983.htm)
 
++ [支持中文，苹果 iPhone 15 Pro / Max 操作按钮新增翻译选项](https://m.ithome.com/html/727963.htm)
+
++ [小米 14 / Pro 手机官方保护壳上架：透明 / 硅胶 / 素皮三款，售价 49 元起](https://m.ithome.com/html/727962.htm)
+
++ [iQOO 12 手机确认搭载骁龙 8 Gen 3 + 独显芯片 Q1，支持 144Hz 刷新率](https://m.ithome.com/html/727966.htm)
+
