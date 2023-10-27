@@ -113,3 +113,19 @@
 
 + [主创人员亲自演示《超级马里奥兄弟：惊奇》试玩视频](https://www.3dmgame.com/news/202310/3880264.html)
 
++ [《生化4RE》销量545万份 《生化3RE》销量804万份](https://www.3dmgame.com/news/202310/3880271.html)
+
++ [Capcom：正朝着连续第11年增长的目标稳步前进](https://www.3dmgame.com/news/202310/3880270.html)
+
++ [Xbox领导层团队变更 黑人女高管Sarah Bond晋升为总裁](https://www.3dmgame.com/news/202310/3880269.html)
+
++ [育碧官宣一个大作跳票 猜测是《星球大战：法外狂徒》](https://www.3dmgame.com/news/202310/3880268.html)
+
++ [任天堂专注于玩家体验对于配音演员保持神秘](https://www.3dmgame.com/news/202310/3880267.html)
+
++ [《Apex英雄》即将推出跨平台进度同步功能](https://www.3dmgame.com/news/202310/3880266.html)
+
++ [功能加强《顶级赛车合集》明年1月全平台发售](https://www.3dmgame.com/news/202310/3880265.html)
+
++ [育碧策略游戏《纪元1800》开启免费试玩活动](https://www.3dmgame.com/news/202310/3880263.html)
+

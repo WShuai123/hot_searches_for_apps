@@ -211,3 +211,25 @@
 
 + [Orion for iPad mini](https://dribbble.com/shots/)
 
++ [Hard Work Pays Off](https://dribbble.com/shots/)
+
++ [Iced tea ✴ with mint & oranges](https://dribbble.com/shots/)
+
++ [Plant Collectors Club](https://dribbble.com/shots/)
+
++ [Faraway and Fantastical](https://dribbble.com/shots/)
+
++ [A Light in the Woods](https://dribbble.com/shots/)
+
++ [iHome - Smart Home Control App](https://dribbble.com/shots/)
+
++ [Surfs Up](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+
++ [Homepage hero sketch](https://dribbble.com/shots/)
+
++ [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
+
++ [NexaVirtu Tech Website](https://dribbble.com/shots/)
+

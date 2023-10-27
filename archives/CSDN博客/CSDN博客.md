@@ -127,3 +127,5 @@
 
 + [【2021集创赛】Arm杯三等奖：基于FPGA的人脸检测SoC设计](https://blog.csdn.net/weixin_47569031/article/details/134028505)
 
++ [使用Docker快速搭建服务器环境](https://blog.csdn.net/laigengsong/article/details/134015575)
+

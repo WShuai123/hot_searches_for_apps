@@ -41,3 +41,7 @@
 
 + [攻防演练 | 详细分析某红队钓鱼样本](https://www.freebuf.com/articles/system/381668.html)
 
++ [FreeBuf早报 | 以色列遭网络攻击；英国议会启动对网络弹性的调查](https://www.freebuf.com/news/381984.html)
+
++ [揭秘兵工厂：探索攻击者工具集和战术](https://www.freebuf.com/articles/paper/381519.html)
+
