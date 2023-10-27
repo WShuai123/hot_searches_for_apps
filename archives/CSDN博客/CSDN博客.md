@@ -175,3 +175,15 @@
 
 + [Vue 3中toRaw和markRaw的使用](https://blog.csdn.net/qq_43546721/article/details/134003012)
 
++ [【从瀑布模式到水母模式】ChatGPT如何赋能软件研发全流程](https://blog.csdn.net/m0_72853403/article/details/134074899)
+
++ [minio + linux + docker + spring boot实现文件上传与下载](https://blog.csdn.net/qq_45004609/article/details/134073781)
+
++ [webpack介绍及使用](https://blog.csdn.net/2302_76329106/article/details/134071124)
+
++ [Azure - 机器学习实战：快速训练、部署模型](https://blog.csdn.net/magicyangjay111/article/details/134076011)
+
++ [18亿欧元大动作，法国瞄准实现量子飞跃](https://blog.csdn.net/Qforepost/article/details/134072491)
+
++ [Linux权限大揭秘：深入理解系统安全](https://blog.csdn.net/m0_74755811/article/details/134056158)
+

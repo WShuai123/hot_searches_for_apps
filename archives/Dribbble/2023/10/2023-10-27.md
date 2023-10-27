@@ -365,3 +365,11 @@
 
 + [Foodies app design](https://dribbble.com/shots/)
 
++ [Vital mobile Landing page design by Milkinside](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 1](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
++ [Coworking App](https://dribbble.com/shots/)
+

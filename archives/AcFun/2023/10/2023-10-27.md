@@ -91,3 +91,17 @@
 
 + [【国风原创曲】小神仙丨行乐高歌，纵情肆意。 / 朵芊](http://www.acfun.cn/v/ac42759890)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千五百零六期](http://www.acfun.cn/v/ac42765949)
+
++ [喜欢的心情不可以有吗？すきっちゅーの！  Covered by Riria](http://www.acfun.cn/v/ac42763971)
+
++ [「小超快跑」吃我招 AOE 还不跑快快](http://www.acfun.cn/v/ac42760541)
+
++ [看完珍珠鸟育雏的过程，才知道鸟类的母爱有多伟大](http://www.acfun.cn/v/ac42760109)
+
++ [周杰伦联名积木，竟然装着初恋的画面？](http://www.acfun.cn/v/ac42759252)
+
++ [连女生看了都惊讶的美女。【今日好笑视频 #518】](http://www.acfun.cn/v/ac42749836)
+
++ [【台湾解说】速看S13全球总决赛 正赛 Day6](http://www.acfun.cn/v/ac42761485)
+

@@ -61,3 +61,5 @@
 
 + [一种新型侧信道攻击方法，影响大部分苹果 A&M 系列芯片](https://www.freebuf.com/news/382020.html)
 
++ [从实战看红队进攻性技巧 | FCIS 2023大会议题前瞻](https://www.freebuf.com/fevents/382080.html)
+

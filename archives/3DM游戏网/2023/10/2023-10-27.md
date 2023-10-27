@@ -233,3 +233,7 @@
 
 + [恋爱模拟游戏《制服女友》新预告 与美少女恋爱](https://www.3dmgame.com/news/202310/3880319.html)
 
++ [《漫威蜘蛛侠2》里到处都是LGBTQ+元素 实在太正确了](https://www.3dmgame.com/news/202310/3880325.html)
+
++ [Steam秋促和Steam大奖提名将于11月22日开启](https://www.3dmgame.com/news/202310/3880327.html)
+
