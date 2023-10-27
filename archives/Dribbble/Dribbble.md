@@ -169,3 +169,27 @@
 
 + [Oakwood - Boy Studying](https://dribbble.com/shots/)
 
++ [Walking Mountain](https://dribbble.com/shots/)
+
++ [Faraway and Fantastical](https://dribbble.com/shots/)
+
++ [Frog life cycle](https://dribbble.com/shots/)
+
++ [Podcasts Landing Page](https://dribbble.com/shots/)
+
++ [Ncoded](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+
++ [Patria UI-UX](https://dribbble.com/shots/)
+
++ [Hoolest](https://dribbble.com/shots/)
+
++ [Capify Business Cards](https://dribbble.com/shots/)
+
++ [Hallo W (Personal '23)](https://dribbble.com/shots/)
+
++ [Stack](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+

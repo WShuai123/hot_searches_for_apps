@@ -105,3 +105,31 @@
 
 + [基于FPGA的电风扇控制器verilog，视频/代码](https://blog.csdn.net/diaojiangxue/article/details/134066472)
 
++ [2023年第四届MathorCup大数据挑战赛（B题）|电商零售商家需求预测及库存优化问题|数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134082686)
+
++ [【兔子王赠书第3期】《案例学Python（进阶篇）》](https://blog.csdn.net/m0_68111267/article/details/134044733)
+
++ [OpenCV学习（三）——响应鼠标事件（获取点击点坐标和颜色，利用鼠标进行绘图）](https://blog.csdn.net/qq_38473254/article/details/134082649)
+
++ [好的FPGA编码风格（2）--多参考设计软件的语言模板（Language Templates）](https://blog.csdn.net/wuzhikaidetb/article/details/134068761)
+
++ [OSG开发笔记（二十九）：OSG加载模型文件、加载3DMax三维型文件Demo](https://blog.csdn.net/qq21497936/article/details/134064988)
+
++ [【网络安全无小事】汽车网络安全：只有开局，没有尽头，聚光向前，安全到达](https://blog.csdn.net/szullc/article/details/134081193)
+
++ [前端，HTTP协议，HTML介绍](https://blog.csdn.net/qq_38104453/article/details/134082780)
+
++ [Redis 主从复制和哨兵监控，实现Redis高可用配置](https://blog.csdn.net/qifu123/article/details/134078535)
+
++ [【Overload游戏引擎细节分析】PBR材质Shader](https://blog.csdn.net/loveoobaby/article/details/133955742)
+
++ [上帝视角看支付总架构解析](https://blog.csdn.net/agonie201218/article/details/134033397)
+
++ [【电路笔记】-电路中的复数与相量(Phasor)](https://blog.csdn.net/wujuxKkoolerter/article/details/134083169)
+
++ [LVS集群-DR模式](https://blog.csdn.net/wutong0824/article/details/134085214)
+
++ [【计算机网络】应用层——HTTP协议](https://blog.csdn.net/Tianzhenchuan/article/details/133973606)
+
++ [【开源】基于SpringBoot的海南旅游景点推荐系统的设计和实现](https://blog.csdn.net/customer08/article/details/134070287)
+
