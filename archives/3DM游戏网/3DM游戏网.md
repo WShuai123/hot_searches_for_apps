@@ -101,3 +101,9 @@
 
 + [横版平台跳跃游戏《变色龙童绘历险》Steam页面上线 明年发售](https://www.3dmgame.com/news/202310/3880292.html)
 
++ [Mate 60大卖！华为前三季度营收4566亿元](https://www.3dmgame.com/news/202310/3880341.html)
+
++ [《小小梦魇3》18分钟关卡演示 展示合作模式](https://www.3dmgame.com/news/202310/3880340.html)
+
++ [GOG喜加一：《黑猫侦探：深入本质》限时免费](https://www.3dmgame.com/news/202310/3880339.html)
+

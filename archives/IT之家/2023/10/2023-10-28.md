@@ -25,3 +25,5 @@
 
 + [魅族科技：原定今日的新品预订活动延期上线](https://m.ithome.com/html/727988.htm)
 
++ [苹果 iOS / iPadOS 17.2 开发者预览版 Beta 1 发布：手记应用上线](https://m.ithome.com/html/727948.htm)
+
