@@ -247,3 +247,9 @@
 
 + [没磕碰自己碎裂！iPhone15用户吐槽没法用 苹果承认了](https://www.3dmgame.com/news/202310/3880330.html)
 
++ [《魔兽世界》新资料片“Avaloren”泄露](https://www.3dmgame.com/news/202310/3880333.html)
+
++ [EA的《钢铁侠》单机游戏已经找到了编剧](https://www.3dmgame.com/news/202310/3880332.html)
+
++ [高通暗示明年第四代骁龙8定价或更高 成为其最贵的移动SoC](https://www.3dmgame.com/news/202310/3880331.html)
+

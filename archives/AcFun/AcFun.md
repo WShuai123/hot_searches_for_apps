@@ -119,3 +119,17 @@
 
 + [悬溺一响，嫩芽登场](http://www.acfun.cn/v/ac42761122)
 
++ [我主人敢吃屎](http://www.acfun.cn/v/ac42769818)
+
++ [喜 欢 你 是 我 的 秘 密](http://www.acfun.cn/v/ac42770709)
+
++ [没电没铁路、被列强追著打......回到19世纪，艰难称霸世界！](http://www.acfun.cn/v/ac42769933)
+
++ [「对你而言我是什么呢？」Pretender 翻唱](http://www.acfun.cn/v/ac42769220)
+
++ [好穷啊，三个人吃一个雪糕。【今日好笑视频 #519】](http://www.acfun.cn/v/ac42760588)
+
++ [Girls Day 背带舞 Expect Me](http://www.acfun.cn/v/ac42761167)
+
++ [萌宠集合，这才是猛男该看的！ 第三百一十四期](http://www.acfun.cn/v/ac42761271)
+

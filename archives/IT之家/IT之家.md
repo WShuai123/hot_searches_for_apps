@@ -35,3 +35,9 @@
 
 + [【IT之家开箱】小米 14 手机黑色版图赏：时尚简约，精致典雅](https://m.ithome.com/html/727984.htm)
 
++ [小米腕部心电血压记录仪发布：支持跌倒检测、运动模式，售 1999 元](https://m.ithome.com/html/727920.htm)
+
++ [小米电视 S Pro 85 MiniLED 电视发布：2400 尼特峰值亮度，7999 元](https://m.ithome.com/html/727921.htm)
+
++ [小米澎湃 OS AI 内测开启报名，新增小爱输入助手、AI 写真、AI 搜图等功能](https://m.ithome.com/html/727951.htm)
+
