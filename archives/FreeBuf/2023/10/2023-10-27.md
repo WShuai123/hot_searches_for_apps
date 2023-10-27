@@ -47,3 +47,5 @@
 
 + [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
 
++ [StripedFly 恶意软件框架感染 100 万台 Windows 和 Linux 主机](https://www.freebuf.com/news/382025.html)
+

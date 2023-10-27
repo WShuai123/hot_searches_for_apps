@@ -139,3 +139,13 @@
 
 + [【信息科技风险管理】合规管理、技术防控与数字化，助力金融机构业务发展。](https://blog.csdn.net/2301_77485708/article/details/134041126)
 
++ [学习MATLAB、从算法到实战 (文末送书【北大出版社】)](https://blog.csdn.net/qq_58286439/article/details/134032093)
+
++ [【尘缘赠书活动第二期】：信息科技风险管理](https://blog.csdn.net/weixin_55756734/article/details/134049493)
+
++ [Vue 商场首页头部布局](https://blog.csdn.net/weixin_47906106/article/details/134028762)
+
++ [Unity中Shader的模型网格阴影](https://blog.csdn.net/qq_51603875/article/details/134058034)
+
++ [基于nodejs+vue 宁夏旅游景点客流量数据分析系统](https://blog.csdn.net/QQ_511008285/article/details/133885853)
+
