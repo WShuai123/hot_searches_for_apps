@@ -237,3 +237,13 @@
 
 + [Steam秋促和Steam大奖提名将于11月22日开启](https://www.3dmgame.com/news/202310/3880327.html)
 
++ [女英雄登场！P站女星Eva Elfie宣布赞助Ti12](https://www.3dmgame.com/news/202310/3880324.html)
+
++ [1秒生产一电芯！斥资约70亿元的宁德时代贵州基地投产](https://www.3dmgame.com/news/202310/3880326.html)
+
++ [11月7日执行！油价再次跌破下调红线 国内油价又要调整了](https://www.3dmgame.com/news/202310/3880328.html)
+
++ [小米14支持本地AI大模型：AI写真照片惊艳 以假乱真](https://www.3dmgame.com/news/202310/3880329.html)
+
++ [没磕碰自己碎裂！iPhone15用户吐槽没法用 苹果承认了](https://www.3dmgame.com/news/202310/3880330.html)
+

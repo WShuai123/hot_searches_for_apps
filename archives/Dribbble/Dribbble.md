@@ -373,3 +373,15 @@
 
 + [Coworking App](https://dribbble.com/shots/)
 
++ [Halloween icons](https://dribbble.com/shots/)
+
++ [S1.E9 | The Power of Brand - with Bill Kenney | Low-Key Legends](https://dribbble.com/shots/)
+
++ [Spooky Island Tutorial](https://dribbble.com/shots/)
+
++ [Icon Animation Tutorial](https://dribbble.com/shots/)
+
++ [Website UI](https://dribbble.com/shots/)
+
++ [Raven Ranch](https://dribbble.com/shots/)
+
