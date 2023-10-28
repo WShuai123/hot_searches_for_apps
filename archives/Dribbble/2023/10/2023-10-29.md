@@ -157,3 +157,29 @@
 
 + [App UI](https://dribbble.com/shots/)
 
++ [Cat Staring Contest](https://dribbble.com/shots/)
+
++ [301.digital](https://dribbble.com/shots/)
+
++ [Podcasts Landing Page](https://dribbble.com/shots/)
+
++ [Sound engineer wordmark](https://dribbble.com/shots/)
+
++ [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [Playlist AI iOS App Icon](https://dribbble.com/shots/)
+
++ [Mercedes-Benz Vinyl (Illustration)](https://dribbble.com/shots/)
+
++ [Immersive Experience Studio Mobile Website](https://dribbble.com/shots/)
+
++ [Team Building Service Web App](https://dribbble.com/shots/)
+
++ [Vital card Rewards UI by Milkinside](https://dribbble.com/shots/)
+
++ [Relab - Marketing Agency Branding](https://dribbble.com/shots/)
+
++ [Country Counter App Concept](https://dribbble.com/shots/)
+
