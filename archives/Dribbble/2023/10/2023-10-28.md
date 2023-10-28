@@ -341,3 +341,11 @@
 
 + [Halloween Illustrations](https://dribbble.com/shots/)
 
++ [BuildBetter.ai - Permissions Menu for Documents and Calls](https://dribbble.com/shots/)
+
++ [Website UI](https://dribbble.com/shots/)
+
++ [CoinMaster Mobile App Concept](https://dribbble.com/shots/)
+
++ [Hull KR](https://dribbble.com/shots/)
+

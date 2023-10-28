@@ -161,3 +161,7 @@
 
 + [大数据可视化BI分析工具Apache Superset实现公网远程访问](https://blog.csdn.net/ljq_up/article/details/134055027)
 
++ [【易售小程序项目】后端部署、Uniapp项目Web部署](https://blog.csdn.net/laodanqiu/article/details/134088793)
+
++ [轻松搭建Linux宝塔面板并实现公网访问Discuz论坛，让您的论坛更具吸引力](https://blog.csdn.net/st200112266/article/details/134063019)
+

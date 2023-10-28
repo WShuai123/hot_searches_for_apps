@@ -191,3 +191,7 @@
 
 + [《命运2：终焉之形》资料片将同时改进染色剂图标](https://www.3dmgame.com/news/202310/3880372.html)
 
++ [2022年恐怖电影《野蛮人》将改编为同名游戏作品](https://www.3dmgame.com/news/202310/3880384.html)
+
++ [英国消费者组织警告：AI聊天机器人使网络诈骗文案愈发专业化](https://www.3dmgame.com/news/202310/3880385.html)
+

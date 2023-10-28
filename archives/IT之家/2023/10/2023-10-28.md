@@ -57,3 +57,7 @@
 
 + [6000M 无线速率：小米 Redmi AX6000 路由器 360 元再降新低](https://m.ithome.com/html/728128.htm)
 
++ [消息称苹果下周发布会无 M3 芯片 13 英寸 MacBook Pro](https://m.ithome.com/html/728157.htm)
+
++ [【IT之家开箱】华为运动健康全家桶图赏：华为 Mate 60 Pro、华为 WATCH GT 4、华为 Freebuds Pro 3](https://m.ithome.com/html/728224.htm)
+
