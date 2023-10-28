@@ -47,3 +47,5 @@
 
 + [闪迪至尊极速固态硬盘上架：2TB 899 元](https://m.ithome.com/html/728187.htm)
 
++ [英特尔酷睿 Ultra 1 代移动处理器已出货，首批笔记本 12 月 14 日推出](https://m.ithome.com/html/728167.htm)
+

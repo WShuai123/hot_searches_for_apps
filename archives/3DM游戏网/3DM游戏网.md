@@ -143,3 +143,17 @@
 
 + [《金刚狼》游戏和《漫威蜘蛛侠2》是同一宇宙](https://www.3dmgame.com/news/202310/3880349.html)
 
++ [《进击的巨人》最终季新PV 11月4日开播](https://www.3dmgame.com/news/202310/3880366.html)
+
++ [《流浪地球2》角逐本届奥斯卡 最佳国际影片奖项](https://www.3dmgame.com/news/202310/3880360.html)
+
++ [P社：《城市：天际线2》性能差不是因为渲染人物牙齿](https://www.3dmgame.com/news/202310/3880365.html)
+
++ [索尼高管回应PS Plus涨价批评：需反映市场状况](https://www.3dmgame.com/news/202310/3880364.html)
+
++ [索尼再失老将 30年资深高管Connie Booth确认离职](https://www.3dmgame.com/news/202310/3880363.html)
+
++ [准备三年内飞向月球 贝索斯向NASA展示“蓝月”货运着陆器模型](https://www.3dmgame.com/news/202310/3880362.html)
+
++ [重生公布《Apex英雄》跨平台进度同步功能详情](https://www.3dmgame.com/news/202310/3880361.html)
+
