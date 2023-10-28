@@ -147,3 +147,7 @@
 
 + [三篇论文：速览GPT在网络安全最新论文中的应用案例](https://blog.csdn.net/wtyuong/article/details/134081124)
 
++ [Python深度数据挖掘之电力系统负荷预测](https://blog.csdn.net/weixin_43178406/article/details/134068639)
+
++ [鸿蒙ArkUI-X跨端应用开发，一套代码构建多平台应用](https://blog.csdn.net/malu_record/article/details/134086902)
+

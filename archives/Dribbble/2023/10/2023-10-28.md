@@ -305,3 +305,13 @@
 
 + [NexaVirtu Tech Website](https://dribbble.com/shots/)
 
++ [Bold - Personality Landing Page](https://dribbble.com/shots/)
+
++ [Icons](https://dribbble.com/shots/)
+
++ [Penrith Panthers](https://dribbble.com/shots/)
+
++ [Cannabis Gummies Package Design Pouch](https://dribbble.com/shots/)
+
++ [A Light in the Woods: Site Reveal](https://dribbble.com/shots/)
+

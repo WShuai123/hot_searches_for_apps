@@ -157,3 +157,5 @@
 
 + [重生公布《Apex英雄》跨平台进度同步功能详情](https://www.3dmgame.com/news/202310/3880361.html)
 
++ [Epic下周免费新增独立游戏《大头菜小子避税记》](https://www.3dmgame.com/news/202310/3880367.html)
+
