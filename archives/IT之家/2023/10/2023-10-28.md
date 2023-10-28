@@ -55,3 +55,5 @@
 
 + [上线时间不到两年，中国广电 192 邮箱 12 月 1 日起停止服务](https://m.ithome.com/html/728213.htm)
 
++ [6000M 无线速率：小米 Redmi AX6000 路由器 360 元再降新低](https://m.ithome.com/html/728128.htm)
+

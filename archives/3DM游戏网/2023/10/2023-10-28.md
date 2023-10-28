@@ -177,3 +177,17 @@
 
 + [2023年截至9月三大主机销量对比 PS5涨幅太惊人](https://www.3dmgame.com/news/202310/3880376.html)
 
++ [任天堂高管谈马里奥配音更换：希望大家享受游戏本身](https://www.3dmgame.com/news/202310/3880382.html)
+
++ [复古风格RPG新作《面包之子》公布正式发售日期](https://www.3dmgame.com/news/202310/3880383.html)
+
++ [《尼克儿童频道全明星大乱斗2》Azula介绍 11月3日发售](https://www.3dmgame.com/news/202310/3880381.html)
+
++ [谷歌聊天AI Bard现能实时回复并随时被中途打断](https://www.3dmgame.com/news/202310/3880380.html)
+
++ [年底发售 VR新作《亚利桑那阳光2》上市日期公布](https://www.3dmgame.com/news/202310/3880378.html)
+
++ [前作团队完整保留 《最终幻想7：重生》开发顺利](https://www.3dmgame.com/news/202310/3880377.html)
+
++ [《命运2：终焉之形》资料片将同时改进染色剂图标](https://www.3dmgame.com/news/202310/3880372.html)
+
