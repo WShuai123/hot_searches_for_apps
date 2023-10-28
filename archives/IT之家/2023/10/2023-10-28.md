@@ -61,3 +61,5 @@
 
 + [【IT之家开箱】华为运动健康全家桶图赏：华为 Mate 60 Pro、华为 WATCH GT 4、华为 Freebuds Pro 3](https://m.ithome.com/html/728224.htm)
 
++ [蔚来推出婚庆用车定制服务，4 小时收费 666 元](https://m.ithome.com/html/728270.htm)
+

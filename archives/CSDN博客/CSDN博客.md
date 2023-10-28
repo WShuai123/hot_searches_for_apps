@@ -173,3 +173,11 @@
 
 + [Openssl数据安全传输平台015：OCCI的使用方法+在项目中的设计与实现](https://blog.csdn.net/jiangchufeng123/article/details/134086901)
 
++ [从瀑布模式到水母模式：ChatGPT如何赋能软件研发全流程](https://blog.csdn.net/H1727548/article/details/134085118)
+
++ [【网络】详解http协议](https://blog.csdn.net/Hush_H/article/details/134034868)
+
++ [【计算机网络】TCP协议](https://blog.csdn.net/C0631xjn_/article/details/134091230)
+
++ [【Unity精华一记】特殊文件夹](https://blog.csdn.net/m0_64128218/article/details/134077686)
+

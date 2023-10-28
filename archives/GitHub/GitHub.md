@@ -51,3 +51,37 @@
 
 + [apache / incubator-answer](https://github.com/apache/incubator-answer)
 
++ [xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D)
+
++ [deepseek-ai / DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)
+
++ [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [Vendicated / Vencord](https://github.com/Vendicated/Vencord)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
+
++ [stevearc / conform.nvim](https://github.com/stevearc/conform.nvim)
+
++ [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
+
++ [google / comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent)
+
++ [trickest / cve](https://github.com/trickest/cve)
+
++ [apernet / hysteria](https://github.com/apernet/hysteria)
+
++ [GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
+
++ [hashicorp / vault](https://github.com/hashicorp/vault)
+
++ [AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT)
+
++ [hasura / graphql-engine](https://github.com/hasura/graphql-engine)
+

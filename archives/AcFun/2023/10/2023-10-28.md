@@ -117,3 +117,13 @@
 
 + [摇摆 wiggle wiggle](http://www.acfun.cn/v/ac42770887)
 
++ [在地铁穿cos服回头率太高了](http://www.acfun.cn/v/ac42779178)
+
++ [《奥本海默》](http://www.acfun.cn/v/ac42779559)
+
++ [今日份搞笑沙雕弹弹乐视频 #1021【求弹幕回复】](http://www.acfun.cn/v/ac42773665)
+
++ [萌宠集合，这才是猛男该看的！ 第三百一十五期](http://www.acfun.cn/v/ac42771382)
+
++ [哇塞！爷青回！](http://www.acfun.cn/v/ac42771507)
+
