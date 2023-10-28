@@ -155,3 +155,5 @@
 
 + [微信小程序之投票管理](https://blog.csdn.net/weixin_73320743/article/details/134084908)
 
++ [iOS的应用生命周期以及应用界面](https://blog.csdn.net/qq_36828822/article/details/134085811)
+

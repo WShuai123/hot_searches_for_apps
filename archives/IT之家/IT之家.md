@@ -51,3 +51,7 @@
 
 + [最高延长 14%，测试显示 iOS 17.1 延长部分旧款 iPhone 续航](https://m.ithome.com/html/728203.htm)
 
++ [小米 Redmi 13C 手机更多实物图和售价信息曝光](https://m.ithome.com/html/728174.htm)
+
++ [上线时间不到两年，中国广电 192 邮箱 12 月 1 日起停止服务](https://m.ithome.com/html/728213.htm)
+

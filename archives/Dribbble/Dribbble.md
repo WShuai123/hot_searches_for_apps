@@ -319,3 +319,15 @@
 
 + [Country Counter App Concept](https://dribbble.com/shots/)
 
++ [Huddersfield Giants](https://dribbble.com/shots/)
+
++ [Mocktober - Whispers from the Void](https://dribbble.com/shots/)
+
++ [N maze](https://dribbble.com/shots/)
+
++ [Orion for iPad mini](https://dribbble.com/shots/)
+
++ [Dangerous cat](https://dribbble.com/shots/)
+
++ [L'etoile du Nord V2](https://dribbble.com/shots/)
+

@@ -49,3 +49,5 @@
 
 + [号称植入了2000万设备的欺诈后门拓展分析](https://www.freebuf.com/articles/paper/380885.html)
 
++ [如何使用Mkchain构建一个有效的SSL证书链](https://www.freebuf.com/sectool/379908.html)
+
