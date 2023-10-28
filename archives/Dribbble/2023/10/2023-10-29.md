@@ -49,3 +49,49 @@
 
 + [R dropcap](https://dribbble.com/shots/)
 
++ [footer micro animation](https://dribbble.com/shots/)
+
++ [Boba Fest Branding for Adobe Illustrator MAX keynote](https://dribbble.com/shots/)
+
++ [UI/UX Dashboard Mobile App Design for CBDC Wallet with Loans](https://dribbble.com/shots/)
+
++ [Mordecai](https://dribbble.com/shots/)
+
++ [Unloved](https://dribbble.com/shots/)
+
++ [Rainy Sunday (Personal '23)](https://dribbble.com/shots/)
+
++ [Snapmaker | Corporate website redesign](https://dribbble.com/shots/)
+
++ [Penrith Panthers](https://dribbble.com/shots/)
+
++ [Vectober 2023 27 // Pond](https://dribbble.com/shots/)
+
++ [Dangerous cat](https://dribbble.com/shots/)
+
++ [Website UI](https://dribbble.com/shots/)
+
++ [Blood Bank](https://dribbble.com/shots/)
+
++ [Rusted Lantern](https://dribbble.com/shots/)
+
++ [Orange Dog Logo](https://dribbble.com/shots/)
+
++ [SMOCKY CHICK](https://dribbble.com/shots/)
+
++ [Virtual Reality Immersion Studio Website](https://dribbble.com/shots/)
+
++ [Jersey Devil](https://dribbble.com/shots/)
+
++ [N shape](https://dribbble.com/shots/)
+
++ [Stillwell Collective](https://dribbble.com/shots/)
+
++ [Mocktober - Whispers from the Void](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
