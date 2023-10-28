@@ -211,3 +211,9 @@
 
 + [轻颜 - 风格自拍新潮流](https://itunes.apple.com/cn/app/id1375390276?mt=8)
 
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+
++ [倒数日 · Days Matter](https://itunes.apple.com/cn/app/id406170251?mt=8)
+

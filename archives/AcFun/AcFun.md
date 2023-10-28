@@ -133,3 +133,15 @@
 
 + [【歌切】新不了情【ACFUN声唱2023云参赛】](http://www.acfun.cn/v/ac42777072)
 
++ [【东方】推特东方小视频选集 第154期](http://www.acfun.cn/v/ac42772279)
+
++ [真怕她突然掏出个流星锤！欢乐八点档-721](http://www.acfun.cn/v/ac42775240)
+
++ [锻造大马士革 千影（千荫 ）手持黑刀来到热情好客的亚楠](http://www.acfun.cn/v/ac42763639)
+
++ [傲寒/吉他弹唱/A限](http://www.acfun.cn/v/ac42776771)
+
++ [万圣节之夜｜卡芙卡cos](http://www.acfun.cn/v/ac42756426)
+
++ [微软拿下暴雪，国服回归在即？恋爱模拟游戏登顶steam，幻想时间到！](http://www.acfun.cn/v/ac42777516)
+

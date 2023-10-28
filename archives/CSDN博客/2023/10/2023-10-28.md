@@ -185,3 +185,7 @@
 
 + [FPGA时序分析与约束（7）——通过Tcl扩展SDC](https://blog.csdn.net/apple_53311083/article/details/133979334)
 
++ [【网络】应用层 -- http协议](https://blog.csdn.net/Hush_H/article/details/134034868)
+
++ [网络原理之TCP/IP](https://blog.csdn.net/qq_43339789/article/details/134056117)
+

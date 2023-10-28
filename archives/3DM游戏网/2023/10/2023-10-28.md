@@ -201,3 +201,5 @@
 
 + [前R星开发者希望《GTA6》的世界更小但更密集](https://www.3dmgame.com/news/202310/3880388.html)
 
++ [花旗计划为其40000多名程序员部署生成式AI](https://www.3dmgame.com/news/202310/3880389.html)
+

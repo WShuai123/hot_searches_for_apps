@@ -69,3 +69,11 @@
 
 + [ROG 新款枪神笔记本曝光：i9-14900HX + RTX 4090](https://m.ithome.com/html/728182.htm)
 
++ [消息称国产科幻电影《流浪地球 2》将角逐 2024 奥斯卡“最佳国际影片”奖项](https://m.ithome.com/html/728236.htm)
+
++ [三星预告 Galaxy S24 Ultra 手机两大相机新特性：增强 2 亿像素主摄能力](https://m.ithome.com/html/728209.htm)
+
++ [赛力斯公布第三季度报告：净亏损 9.5 亿元，问界新 M7 车型将拉动营收](https://m.ithome.com/html/728231.htm)
+
++ [问界 M7 车型上市 45 天大定破 7 万台，交付延迟至高补贴 1 万元](https://m.ithome.com/html/728279.htm)
+
