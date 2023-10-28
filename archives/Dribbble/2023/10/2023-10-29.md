@@ -95,3 +95,43 @@
 
 + [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
 
++ [Merlin - Simple Landing page](https://dribbble.com/shots/)
+
++ [N tetris](https://dribbble.com/shots/)
+
++ [Tappa! - Website design for the messenger application](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+
++ [Frog life cycle](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - Sticker Design](https://dribbble.com/shots/)
+
++ [Icon Animation Tutorial](https://dribbble.com/shots/)
+
++ [Maze of alleys](https://dribbble.com/shots/)
+
++ [Business Insurance Landing Page](https://dribbble.com/shots/)
+
++ [Tankbusters - case study](https://dribbble.com/shots/)
+
++ [Central park](https://dribbble.com/shots/)
+
++ [AVA Remote control 3d Glass](https://dribbble.com/shots/)
+
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+
++ [Huddersfield Giants](https://dribbble.com/shots/)
+
++ [CoinMaster Mobile App Concept](https://dribbble.com/shots/)
+
++ [Football app](https://dribbble.com/shots/)
+
++ [Piccola Noce](https://dribbble.com/shots/)
+
++ [A Light in the Woods: Site Reveal](https://dribbble.com/shots/)
+
++ [Sound logo](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 03](https://dribbble.com/shots/)
+
