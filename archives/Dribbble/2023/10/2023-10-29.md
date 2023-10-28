@@ -213,3 +213,23 @@
 
 + [Mocktober - Mainway Industries](https://dribbble.com/shots/)
 
++ [Boba on the Beach Illustration for Adobe Express Keynote @ MAX](https://dribbble.com/shots/)
+
++ [La Hermana No. 2](https://dribbble.com/shots/)
+
++ [N maze](https://dribbble.com/shots/)
+
++ [Dark UI](https://dribbble.com/shots/)
+
++ [Home](https://dribbble.com/shots/)
+
++ [Wendy the Wendigo](https://dribbble.com/shots/)
+
++ [NexaVirtu Tech Website](https://dribbble.com/shots/)
+
++ [S1.E9 | The Power of Brand - with Bill Kenney | Low-Key Legends](https://dribbble.com/shots/)
+
++ [Full Moon](https://dribbble.com/shots/)
+
++ [Vases](https://dribbble.com/shots/)
+

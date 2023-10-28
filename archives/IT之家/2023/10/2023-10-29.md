@@ -25,3 +25,5 @@
 
 + [11.11 今日攻略：小米路由器 7000 京东 659 元新低，M1 芯片 MacBook Air 4999 元起](https://m.ithome.com/html/728290.htm)
 
++ [前开发部负责人：微软放弃 Windows Phone 重要原因是运营商缺乏兴趣](https://m.ithome.com/html/728326.htm)
+

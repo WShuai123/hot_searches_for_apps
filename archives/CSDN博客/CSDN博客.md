@@ -127,3 +127,13 @@
 
 + [【计算机网络】数据链路层](https://blog.csdn.net/m0_68872612/article/details/133934288)
 
++ [基于web server实现工业数据采集](https://blog.csdn.net/qq_52305085/article/details/134087241)
+
++ [深度学习项目：CIFAR-10图像分类（附完整代码）](https://blog.csdn.net/weixin_46211269/article/details/134094472)
+
++ [不一样的网络协议-------KCP协议](https://blog.csdn.net/txh1873749380/article/details/134063485)
+
++ [2023年秋季学期人工神经网络第二次作业](https://blog.csdn.net/zhuoqingjoking97298/article/details/134088107)
+
++ [uniapp实现瀑布流](https://blog.csdn.net/zzx262625/article/details/134093983)
+
