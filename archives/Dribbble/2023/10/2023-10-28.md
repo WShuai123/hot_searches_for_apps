@@ -349,3 +349,11 @@
 
 + [Hull KR](https://dribbble.com/shots/)
 
++ [SnowShield - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - Sticker Design](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off](https://dribbble.com/shots/)
+
++ [Alcova Miami](https://dribbble.com/shots/)
+
