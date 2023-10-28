@@ -63,3 +63,9 @@
 
 + [蔚来推出婚庆用车定制服务，4 小时收费 666 元](https://m.ithome.com/html/728270.htm)
 
++ [日本小哥发明玩手机防砸脸神器，就是挺费手机的](https://m.ithome.com/html/728241.htm)
+
++ [华硕公布新款 RTX 4060 Ti 显卡，可安装 M.2 SSD](https://m.ithome.com/html/728171.htm)
+
++ [ROG 新款枪神笔记本曝光：i9-14900HX + RTX 4090](https://m.ithome.com/html/728182.htm)
+

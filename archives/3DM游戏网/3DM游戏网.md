@@ -197,3 +197,7 @@
 
 + [《心灵杀手2》三平台版本画质与性能表现对比](https://www.3dmgame.com/news/202310/3880386.html)
 
++ [英特尔CEO称Arm对PC的影响“微不足道”](https://www.3dmgame.com/news/202310/3880387.html)
+
++ [前R星开发者希望《GTA6》的世界更小但更密集](https://www.3dmgame.com/news/202310/3880388.html)
+

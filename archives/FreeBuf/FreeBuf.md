@@ -51,3 +51,5 @@
 
 + [如何使用Mkchain构建一个有效的SSL证书链](https://www.freebuf.com/sectool/379908.html)
 
++ [Lockbit拿下波音，称不交赎金将公布敏感数据](https://www.freebuf.com/news/382167.html)
+
