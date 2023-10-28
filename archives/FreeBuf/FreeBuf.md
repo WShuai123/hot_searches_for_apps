@@ -41,3 +41,7 @@
 
 + [内网渗透：集权系统vCenter攻击面分析](https://www.freebuf.com/articles/network/378458.html)
 
++ [FreeBuf 周报 | 在钓鱼邮件制作方面，AI丝毫不逊色黑客；Okta被曝泄露用户数据](https://www.freebuf.com/news/382091.html)
+
++ [WPS WebShape 漏洞及利用分析](https://www.freebuf.com/vuls/381485.html)
+

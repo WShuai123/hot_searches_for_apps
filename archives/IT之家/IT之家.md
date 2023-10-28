@@ -33,3 +33,7 @@
 
 + [11.11 今日攻略：Redmi K60 手机跌破两千，AirPods Pro 2 耳机 1436 元含税包邮](https://m.ithome.com/html/728166.htm)
 
++ [苹果发布会前瞻：搭载 M3 芯片的 MacBook Air / Pro、24 寸 iMac 等设备有望登场](https://m.ithome.com/html/728188.htm)
+
++ [极越 01 SUV 正式发布：纯视觉感知，35.6 寸 6K 中控，号称“全球首台 AI 汽车机器人”售 24.9 万元起](https://m.ithome.com/html/728165.htm)
+

@@ -117,3 +117,7 @@
 
 + [恐怖射击游戏《量子误差》上市预告片分享](https://www.3dmgame.com/news/202310/3880342.html)
 
++ [《心灵杀手2》将在发售后追加二周目模式](https://www.3dmgame.com/news/202310/3880348.html)
+
++ [《心灵杀手2》大受好评 Remedy股价飞涨13%](https://www.3dmgame.com/news/202310/3880347.html)
+

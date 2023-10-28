@@ -237,3 +237,35 @@
 
 + [Little detective](https://dribbble.com/shots/)
 
++ [Howling Wolf Logo](https://dribbble.com/shots/)
+
++ [301.digital](https://dribbble.com/shots/)
+
++ [Wendy the Wendigo](https://dribbble.com/shots/)
+
++ [N shape](https://dribbble.com/shots/)
+
++ [ZC Monogram](https://dribbble.com/shots/)
+
++ [Going to the stars](https://dribbble.com/shots/)
+
++ [Vital card Rewards UI by Milkinside](https://dribbble.com/shots/)
+
++ [EstateGuru Hero Illustration 08](https://dribbble.com/shots/)
+
++ [Labels for hot sauces](https://dribbble.com/shots/)
+
++ [Nike - Mobile App Concept](https://dribbble.com/shots/)
+
++ [CRY LATER TATTOO - LOVE POWER](https://dribbble.com/shots/)
+
++ [Cain Electric Logo](https://dribbble.com/shots/)
+
++ [BuildBetter - Navigation dashboard sidebar for AI Product Assist](https://dribbble.com/shots/)
+
++ [Powder Box](https://dribbble.com/shots/)
+
++ [ESC Zodiac Collection - Scorpio](https://dribbble.com/shots/)
+
++ [Frame.so - File Panel](https://dribbble.com/shots/)
+
