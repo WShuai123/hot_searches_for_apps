@@ -159,3 +159,17 @@
 
 + [Epic下周免费新增独立游戏《大头菜小子避税记》](https://www.3dmgame.com/news/202310/3880367.html)
 
++ [《DOTA2》TI12中国队内战：LGD二比零击败AR晋级前三 再战雪碧](https://www.3dmgame.com/news/202310/3880375.html)
+
++ [吉尼斯世界纪录：上海龙之队获电竞团队最长的连败纪录](https://www.3dmgame.com/news/202310/3880374.html)
+
++ [暴雪嘉年华2023全新宣传片 具体时间表公布](https://www.3dmgame.com/news/202310/3880368.html)
+
++ [《英雄联盟》S13总决赛BLG对战T1 中韩对决今晚上演](https://www.3dmgame.com/news/202310/3880373.html)
+
++ [RPG推箱子游戏《我在疗养院送人上西天》Steam页面上线 支持中文](https://www.3dmgame.com/news/202310/3880371.html)
+
++ [索尼前高管：游戏不是一次性的东西，应该保存下去](https://www.3dmgame.com/news/202310/3880370.html)
+
++ [亨利·卡维尔新《高地人》将由《疾速追杀》导演掌勺](https://www.3dmgame.com/news/202310/3880369.html)
+

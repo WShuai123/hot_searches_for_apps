@@ -49,3 +49,5 @@
 
 + [英特尔酷睿 Ultra 1 代移动处理器已出货，首批笔记本 12 月 14 日推出](https://m.ithome.com/html/728167.htm)
 
++ [最高延长 14%，测试显示 iOS 17.1 延长部分旧款 iPhone 续航](https://m.ithome.com/html/728203.htm)
+

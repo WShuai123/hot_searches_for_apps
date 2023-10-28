@@ -103,3 +103,15 @@
 
 + [MintyCookie: CupidAI & Chat](https://www.producthunt.com/posts/mintycookie-cupidai-chat)
 
++ [ufeedback](https://www.producthunt.com/posts/ufeedback)
+
++ [TripMoja](https://www.producthunt.com/posts/tripmoja)
+
++ [Candia.io](https://www.producthunt.com/posts/candia-io)
+
++ [Connectible](https://www.producthunt.com/posts/connectible)
+
++ [AI Summarized News](https://www.producthunt.com/posts/ai-summarized-news)
+
++ [Plazn.com](https://www.producthunt.com/posts/plazn-com)
+
