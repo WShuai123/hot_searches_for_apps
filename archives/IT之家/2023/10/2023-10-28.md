@@ -37,3 +37,13 @@
 
 + [极越 01 SUV 正式发布：纯视觉感知，35.6 寸 6K 中控，号称“全球首台 AI 汽车机器人”售 24.9 万元起](https://m.ithome.com/html/728165.htm)
 
++ [极氪 001 FR 纯电猎装超跑上市：全球首个量产交付四碳化硅 800V 系统、首发莱科宁模式，76.9 万元](https://m.ithome.com/html/728163.htm)
+
++ [一加 12 手机现身安兔兔：骁龙 8 Gen 3 搭配 12GB 内存，总分超 211 万](https://m.ithome.com/html/728068.htm)
+
++ [华为 2023 年前三季度销售收入 4566 亿元：同比增长 2.4%，净利润率 16.0%](https://m.ithome.com/html/728096.htm)
+
++ [三星 Galaxy S24 + 手机现身 Geekbench，确认提供 12GB 内存版本](https://m.ithome.com/html/728084.htm)
+
++ [闪迪至尊极速固态硬盘上架：2TB 899 元](https://m.ithome.com/html/728187.htm)
+

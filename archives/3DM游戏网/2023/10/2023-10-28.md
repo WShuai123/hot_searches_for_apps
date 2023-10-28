@@ -121,3 +121,25 @@
 
 + [《心灵杀手2》大受好评 Remedy股价飞涨13%](https://www.3dmgame.com/news/202310/3880347.html)
 
++ [索尼高管：有幸拥有高品质游戏是成功的关键](https://www.3dmgame.com/news/202310/3880358.html)
+
++ [《反恐精英2》确认未来会推出更多全新武器](https://www.3dmgame.com/news/202310/3880359.html)
+
++ [《行尸走肉：命运》Steam页面上线 11月17日发售](https://www.3dmgame.com/news/202310/3880356.html)
+
++ [《漫威蜘蛛侠2》超胆侠彩蛋或有后续内容计划](https://www.3dmgame.com/news/202310/3880357.html)
+
++ [波士顿动力机器狗变身导游：接入ChatGPT对答如流](https://www.3dmgame.com/news/202310/3880354.html)
+
++ [V社讨论NFT：我们只对玩家关心的内容感兴趣](https://www.3dmgame.com/news/202310/3880355.html)
+
++ [《白雪公主》真人电影首曝剧照 七个小矮人亮相](https://www.3dmgame.com/news/202310/3880353.html)
+
++ [《机械战警：暴戾都市》故事预告 11月2日发售](https://www.3dmgame.com/news/202310/3880352.html)
+
++ [《迪士尼梦幻星谷》保持付费模式 免费版无限期推迟](https://www.3dmgame.com/news/202310/3880351.html)
+
++ [V社确认《CS2》军备竞赛等模式“没有被遗忘”](https://www.3dmgame.com/news/202310/3880350.html)
+
++ [《金刚狼》游戏和《漫威蜘蛛侠2》是同一宇宙](https://www.3dmgame.com/news/202310/3880349.html)
+
