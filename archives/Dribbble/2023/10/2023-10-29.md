@@ -135,3 +135,25 @@
 
 + [Dangerous Ideas - 03](https://dribbble.com/shots/)
 
++ [Faraway and Fantastical](https://dribbble.com/shots/)
+
++ [Sony Interactive | Corporate redesign](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 1](https://dribbble.com/shots/)
+
++ [Merlin - Login & Signup](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+
++ [ZC Monogram](https://dribbble.com/shots/)
+
++ [Lettering for Boba Fest branding for Adobe MAX](https://dribbble.com/shots/)
+
++ [A girl drinking a cocktail](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+
++ [UX-UI design FintechProject Animation](https://dribbble.com/shots/)
+
++ [App UI](https://dribbble.com/shots/)
+
