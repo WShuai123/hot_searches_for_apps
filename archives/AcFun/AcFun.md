@@ -71,3 +71,5 @@
 
 + [机你钛美对标iPhone？老实人雷军发布小米14求不被骂？？](http://www.acfun.cn/v/ac42771900)
 
++ [《猫德学院招生简章》](http://www.acfun.cn/v/ac42771261)
+

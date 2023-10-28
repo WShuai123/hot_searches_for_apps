@@ -137,3 +137,9 @@
 
 + [详解预处理（2）](https://blog.csdn.net/m0_74841364/article/details/134042080)
 
++ [【微信小程序】发布投票与用户投票完整讲解](https://blog.csdn.net/Justw320/article/details/134086888)
+
++ [如何高效自学（黑客技术）方法——网络安全](https://blog.csdn.net/stopluox/article/details/134084013)
+
++ [【完整解题】2023年第四届MathorCup高校数学建模挑战赛——大数据竞赛B题 思路代码文章电商零售商家需求预测及库存优化问题](https://blog.csdn.net/yeqianqian_/article/details/134082591)
+
