@@ -103,3 +103,27 @@
 
 + [iOS的应用生命周期以及应用界面](https://blog.csdn.net/qq_36828822/article/details/134085811)
 
++ [轻松搭建Linux宝塔面板并实现公网访问Discuz论坛，让您的论坛更具吸引力](https://blog.csdn.net/st200112266/article/details/134063019)
+
++ [【代码思路】2023mathorcup 大数据数学建模B题 电商零售商家需求预测及库存优化问题](https://blog.csdn.net/yeqianqian_/article/details/134084234)
+
++ [在 Elasticsearch 中丰富你的 Elasticsearch 文档](https://blog.csdn.net/UbuntuTouch/article/details/134087810)
+
++ [nginx+keepalived实现nginx服务的高可用](https://blog.csdn.net/qq_19309473/article/details/134068184)
+
++ [Vue 3响应式对象: ref和reactive](https://blog.csdn.net/m0_72603435/article/details/134096290)
+
++ [【腾讯云 TDSQL-C Serverless 产品体验】TDSQL-C MySQL Serverless最佳实践](https://blog.csdn.net/wanmeijuhao/article/details/134082742)
+
++ [“KeyarchOS：国产Linux新星的崛起与创新之路“](https://blog.csdn.net/qq_42264638/article/details/134077915)
+
++ [使用Linux JumpServer 堡垒机进行远程访问](https://blog.csdn.net/m0_73879806/article/details/134068313)
+
++ [unity 微信小程序iOS内存优化与管控经验](https://blog.csdn.net/weixin_40137140/article/details/134083407)
+
++ [【linux】文件系统+软硬连接+动静态库](https://blog.csdn.net/fight_p/article/details/133959150)
+
++ [【Linux】从零开始学习Linux基本指令(三)](https://blog.csdn.net/m0_75219751/article/details/134049257)
+
++ [【计算机网络】数据链路层](https://blog.csdn.net/m0_68872612/article/details/133934288)
+

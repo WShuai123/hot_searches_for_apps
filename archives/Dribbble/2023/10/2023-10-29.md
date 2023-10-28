@@ -183,3 +183,33 @@
 
 + [Country Counter App Concept](https://dribbble.com/shots/)
 
++ [Wakefield Trinity](https://dribbble.com/shots/)
+
++ [Truly Fresh Logo](https://dribbble.com/shots/)
+
++ [Vectober 2023 23 // Message](https://dribbble.com/shots/)
+
++ [Halloween Illustrations](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [ESC Zodiac Collection - Scorpio](https://dribbble.com/shots/)
+
++ [Walking in New york ???????? ☀️](https://dribbble.com/shots/)
+
++ [Walking Mountain](https://dribbble.com/shots/)
+
++ [Paragon](https://dribbble.com/shots/)
+
++ [Digger III](https://dribbble.com/shots/)
+
++ [Geometric Guitar Logo](https://dribbble.com/shots/)
+
++ [Case Study: Dog Sledding Service Website](https://dribbble.com/shots/)
+
++ [Retro Synth APTUP](https://dribbble.com/shots/)
+
++ [Nutella | Corporate Redesign](https://dribbble.com/shots/)
+
++ [Mocktober - Mainway Industries](https://dribbble.com/shots/)
+
