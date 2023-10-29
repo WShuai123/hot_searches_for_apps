@@ -37,3 +37,7 @@
 
 + [西风显卡全面上架京东自营，RTX 4060/4070 型号即将推出](https://m.ithome.com/html/728263.htm)
 
++ [小米米家智能水暖毯 1.5m*2m 上架，到手价 449 元](https://m.ithome.com/html/728319.htm)
+
++ [联想 ThinkCentre Q500 迷你主机降至 2799 元：1L 小体积，i5-13420H + 16G + 512G](https://m.ithome.com/html/728306.htm)
+
