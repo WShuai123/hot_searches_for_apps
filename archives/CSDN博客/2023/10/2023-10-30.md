@@ -123,3 +123,11 @@
 
 + [【音视频|PCM】PCM格式详解](https://blog.csdn.net/wkd_007/article/details/134101976)
 
++ [PDFgear——一款接入AI智能化模型的免费PDF聊天软件](https://blog.csdn.net/lucky51222/article/details/134074418)
+
++ [2023 年 MathorCup 高校数学建模挑战赛大数据竞赛（B题）|电商零售商家需求预测及库存优化问题|建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/134084139)
+
++ [Docker 的数据管理](https://blog.csdn.net/BryantLSY/article/details/134107086)
+
++ [计算机网络——物理层](https://blog.csdn.net/m0_58961367/article/details/134104919)
+

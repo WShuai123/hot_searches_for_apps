@@ -141,3 +141,11 @@
 
 + [传闻：捆绑《马里奥赛车8：豪华版》Switch将于11月推出](https://www.3dmgame.com/news/202310/3880429.html)
 
++ [Remedy创意总监：想开发一个哥特式黑暗幻想游戏](https://www.3dmgame.com/news/202310/3880438.html)
+
++ [《DOTA2》TI12：LGD不敌GG遗憾获得季军](https://www.3dmgame.com/news/202310/3880436.html)
+
++ [索尼高管称新PSP不是Switch的竞争对手](https://www.3dmgame.com/news/202310/3880437.html)
+
++ [《全面尸控》联动《生化危机》新角色上线](https://www.3dmgame.com/news/202310/3880435.html)
+
