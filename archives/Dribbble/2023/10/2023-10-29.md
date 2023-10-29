@@ -281,3 +281,19 @@
 
 + [PolyAI rebrand + case study](https://dribbble.com/shots/)
 
++ [Homepage hero sketch](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+
++ [Virtual Immersive Experience Website](https://dribbble.com/shots/)
+
++ [LPF emblem](https://dribbble.com/shots/)
+
++ [Cat Pumpkin (Blue)](https://dribbble.com/shots/)
+
++ [La Hermana No.1](https://dribbble.com/shots/)
+
++ [Faithbase App](https://dribbble.com/shots/)
+
++ [Playaudio logo](https://dribbble.com/shots/)
+

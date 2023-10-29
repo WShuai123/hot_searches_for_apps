@@ -157,3 +157,7 @@
 
 + [2023 年 MathorCup 数学建模大数据竞赛（A题）|基于计算机视觉的坑洼道路检测和识别|建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/134083555)
 
++ [使用FastAPI部署Ultralytics YOLOv5模型](https://blog.csdn.net/m0_46510245/article/details/134099699)
+
++ [利用Nginx通过内网穿透实现Windows Web多站点远程访问](https://blog.csdn.net/m0_67768006/article/details/134063360)
+
