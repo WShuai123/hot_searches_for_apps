@@ -105,3 +105,15 @@
 
 + [2023 年 MathorCup 高校数学建模挑战赛--赛道 B：电商零售商家需求预测及库存优化问题完整思路以及源代码](https://blog.csdn.net/weixin_52051317/article/details/134086454)
 
++ [【赠书活动】从瀑布模式到水母模式：ChatGPT如何赋能软件研发全流程](https://blog.csdn.net/weixin_44244190/article/details/134101426)
+
++ [【2023年冬季】华为OD统一考试（B卷）题库清单（已收录345题），又快又全的 B 卷题库大整理](https://blog.csdn.net/guorui_java/article/details/134108618)
+
++ [基于Java+Vue+uniapp微信小程序微信阅读网站平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134084940)
+
++ [巧用AI玩转时事分析](https://blog.csdn.net/s445320/article/details/134068486)
+
++ [最新ChatGPT源码+AI绘画系统+详细图文搭建部署教程+支持OpenAI-GPT全模型+国内AI模型](https://blog.csdn.net/weixin_47059371/article/details/134094090)
+
++ [三篇论文：速览GPT在网络安全最新论文中的应用案例](https://blog.csdn.net/wtyuong/article/details/134081124)
+

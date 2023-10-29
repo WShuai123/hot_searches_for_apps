@@ -139,3 +139,5 @@
 
 + [《赛博朋克2077》开发商不想用DLC淡化原版结局](https://www.3dmgame.com/news/202310/3880434.html)
 
++ [传闻：捆绑《马里奥赛车8：豪华版》Switch将于11月推出](https://www.3dmgame.com/news/202310/3880429.html)
+
