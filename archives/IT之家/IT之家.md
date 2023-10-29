@@ -31,3 +31,5 @@
 
 + [联想新款拯救者游戏本曝光：i9-14900HX + RTX 4090](https://m.ithome.com/html/728302.htm)
 
++ [华为 MateBook 14S 32G 大内存版降至 6499 元：i5-13500H + 2.5K 120Hz 触控屏](https://m.ithome.com/html/728322.htm)
+
