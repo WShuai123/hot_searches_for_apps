@@ -29,3 +29,5 @@
 
 + [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://m.ithome.com/html/728407.htm)
 
++ [温度高达 5000℃，水不沸腾，反而结冰，科学家发现水的一种新形态](https://m.ithome.com/html/728430.htm)
+
