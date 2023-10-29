@@ -47,3 +47,7 @@
 
 + [我国发现一批万吨至十万吨级铀矿床，天然铀保障供应体系已初步形成](https://m.ithome.com/html/728338.htm)
 
++ [比亚迪新车宋 L 官宣：10 月 31 日发布并开启预售](https://m.ithome.com/html/728353.htm)
+
++ [奇瑞全新小蚂蚁车型上市：至高 321km 续航，6.49-8.29 万元](https://m.ithome.com/html/728328.htm)
+
