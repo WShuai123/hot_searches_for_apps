@@ -91,3 +91,7 @@
 
 + [这大胯，这肉腿！是生男孩的料……▎大师精选⁶¹](http://www.acfun.cn/v/ac42763347)
 
++ [【喷神James】210-211（男孩与泡泡怪、化身博士）](http://www.acfun.cn/v/ac42784724)
+
++ [小恶魔来敲你家门啦！万圣节Happy Halloween](http://www.acfun.cn/v/ac42782002)
+

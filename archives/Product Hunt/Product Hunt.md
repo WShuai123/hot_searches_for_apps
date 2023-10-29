@@ -111,3 +111,25 @@
 
 + [BeGuided AI](https://www.producthunt.com/posts/beguided-ai)
 
++ [150+ Digital Products Ideas](https://www.producthunt.com/posts/150-digital-products-ideas)
+
++ [Polar Pivot Emails](https://www.producthunt.com/posts/polar-pivot-emails)
+
++ [JobPulse](https://www.producthunt.com/posts/jobpulse)
+
++ [ColdDM](https://www.producthunt.com/posts/colddm)
+
++ [Bookmarks IO](https://www.producthunt.com/posts/bookmarks-io)
+
++ [Choosing Helper](https://www.producthunt.com/posts/choosing-helper)
+
++ [The Agent Hub](https://www.producthunt.com/posts/the-agent-hub)
+
++ [Carbon](https://www.producthunt.com/posts/carbon-4c01810d-f2aa-4a22-ab1f-4c5ddcf5f5ce)
+
++ [CheckinBee](https://www.producthunt.com/posts/checkinbee)
+
++ [LinguAI](https://www.producthunt.com/posts/linguai)
+
++ [GetMax](https://www.producthunt.com/posts/getmax-3)
+
