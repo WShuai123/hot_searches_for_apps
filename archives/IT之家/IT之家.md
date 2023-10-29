@@ -41,3 +41,9 @@
 
 + [联想 ThinkCentre Q500 迷你主机降至 2799 元：1L 小体积，i5-13420H + 16G + 512G](https://m.ithome.com/html/728306.htm)
 
++ [捷尼赛思高管：3 年在华合计亏损 30 亿元，无一中国员工购买自家车辆](https://m.ithome.com/html/728349.htm)
+
++ [iQOO 12 系列手机完整机身图曝光，11 月 7 日发布](https://m.ithome.com/html/728342.htm)
+
++ [我国发现一批万吨至十万吨级铀矿床，天然铀保障供应体系已初步形成](https://m.ithome.com/html/728338.htm)
+

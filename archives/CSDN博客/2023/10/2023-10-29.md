@@ -155,3 +155,5 @@
 
 + [云服务器的先驱，亚马逊云科技海外云服务器领军者](https://blog.csdn.net/m0_73491327/article/details/134060910)
 
++ [2023 年 MathorCup 数学建模大数据竞赛（A题）|基于计算机视觉的坑洼道路检测和识别|建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/134083555)
+

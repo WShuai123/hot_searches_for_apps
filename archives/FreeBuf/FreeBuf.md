@@ -53,3 +53,5 @@
 
 + [SharkTeam：2023年第三季度Web3安全报告](https://www.freebuf.com/articles/web/381270.html)
 
++ [如何使用leakScraper从大量文本数据中提取出凭证](https://www.freebuf.com/sectool/379911.html)
+
