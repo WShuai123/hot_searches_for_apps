@@ -51,3 +51,35 @@
 
 + [hasura / graphql-engine](https://github.com/hasura/graphql-engine)
 
++ [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [THUDM / ChatGLM3](https://github.com/THUDM/ChatGLM3)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [Las-Fuerzas-Del-Cielo / Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral)
+
++ [halpz / re3](https://github.com/halpz/re3)
+
++ [boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [github / docs](https://github.com/github/docs)
+
++ [hyprwm / Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [huggingface / alignment-handbook](https://github.com/huggingface/alignment-handbook)
+
++ [eylonmiz / react-agent](https://github.com/eylonmiz/react-agent)
+
++ [leerob / leerob.io](https://github.com/leerob/leerob.io)
+
++ [leanprover / lean4](https://github.com/leanprover/lean4)
+
++ [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
+
++ [RsaCtfTool / RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)
+
++ [facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes)
+

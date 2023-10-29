@@ -167,3 +167,7 @@
 
 + [【网络】序列化反序列化](https://blog.csdn.net/qq_65207641/article/details/133035797)
 
++ [【微信小程序开发】学习小程序的网络请求和数据处理](https://blog.csdn.net/m0_63947499/article/details/133804204)
+
++ [【SPSS】基于RFM+Kmeans聚类的客户分群分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134097589)
+
