@@ -49,3 +49,45 @@
 
 + [Salford Red Devils](https://dribbble.com/shots/)
 
++ [App UI](https://dribbble.com/shots/)
+
++ [Full Moon](https://dribbble.com/shots/)
+
++ [Vital card Rewards UI by Milkinside](https://dribbble.com/shots/)
+
++ [Car Rental Platform](https://dribbble.com/shots/)
+
++ [Capify Business Cards](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [CRY LATER TATTOO - LOVE POWER](https://dribbble.com/shots/)
+
++ [EstateGuru Hero Illustration 08](https://dribbble.com/shots/)
+
++ [Tappa! - Website design for the messenger application](https://dribbble.com/shots/)
+
++ [The giant robot attack!](https://dribbble.com/shots/)
+
++ [Clerk - Pricing](https://dribbble.com/shots/)
+
++ [BooTacular on TikTok LIVE!](https://dribbble.com/shots/)
+
++ [Labels for hot sauces](https://dribbble.com/shots/)
+
++ [Liquor](https://dribbble.com/shots/)
+
++ [Orion for iPad mini](https://dribbble.com/shots/)
+
++ [Stack](https://dribbble.com/shots/)
+
++ [iHome - Smart Home Control App](https://dribbble.com/shots/)
+
++ [Piccola Noce](https://dribbble.com/shots/)
+
++ [UX-UI design FintechProject Animation](https://dribbble.com/shots/)
+
++ [Stratis UI - Graph](https://dribbble.com/shots/)
+
++ [Unloved](https://dribbble.com/shots/)
+
