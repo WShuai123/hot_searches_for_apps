@@ -45,3 +45,7 @@
 
 + [SpringWeb常见鉴权措施与垂直越权检测](https://www.freebuf.com/news/380895.html)
 
++ [将电源侧信道攻击转化为x86远程时序攻击](https://www.freebuf.com/vuls/381130.html)
+
++ [卡巴斯基：分析“三角测量行动”（Operation Triangulation）出色的隐身性能](https://www.freebuf.com/articles/paper/381931.html)
+
