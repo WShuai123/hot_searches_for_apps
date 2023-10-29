@@ -101,3 +101,7 @@
 
 + [Linux权限大揭秘：深入理解系统安全](https://blog.csdn.net/m0_74755811/article/details/134056158)
 
++ [Elasticsearch：使用 E5 嵌入模型进行多语言向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/134102457)
+
++ [2023 年 MathorCup 高校数学建模挑战赛--赛道 B：电商零售商家需求预测及库存优化问题完整思路以及源代码](https://blog.csdn.net/weixin_52051317/article/details/134086454)
+

@@ -205,3 +205,5 @@
 
 + [咪咕视频-看五大联赛体育直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
 
++ [唯品会 -新人享豪礼](https://itunes.apple.com/cn/app/id417200582?mt=8)
+
