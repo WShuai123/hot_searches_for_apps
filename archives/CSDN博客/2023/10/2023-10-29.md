@@ -163,3 +163,7 @@
 
 + [Azure - 机器学习：使用 Apache Spark 进行交互式数据整理](https://blog.csdn.net/magicyangjay111/article/details/134099553)
 
++ [DevChat：VSCode中的AI黑马](https://blog.csdn.net/JHXL_/article/details/134063654)
+
++ [【网络】序列化反序列化](https://blog.csdn.net/qq_65207641/article/details/133035797)
+

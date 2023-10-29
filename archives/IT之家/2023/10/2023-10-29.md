@@ -51,3 +51,7 @@
 
 + [奇瑞全新小蚂蚁车型上市：至高 321km 续航，6.49-8.29 万元](https://m.ithome.com/html/728328.htm)
 
++ [京东 iPhone 15 256G 低至 6198 元，iPhone 15 Pro Max 现货立减 600 元](https://m.ithome.com/html/728380.htm)
+
++ [“中国电车没有技术惊喜”，日本新造车社长狂言：只是排列 APP 图标](https://m.ithome.com/html/728370.htm)
+
