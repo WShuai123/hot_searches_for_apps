@@ -25,3 +25,7 @@
 
 + [Pwn2Own 2023 黑客大赛闭幕：无人尝试入侵苹果 iPhone 14 / 谷歌 Pixel 7 手机](https://m.ithome.com/html/728356.htm)
 
++ [为什么说中国现在非常缺石油](https://m.ithome.com/html/728417.htm)
+
++ [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://m.ithome.com/html/728407.htm)
+

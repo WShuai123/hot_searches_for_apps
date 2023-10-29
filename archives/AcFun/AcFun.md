@@ -61,3 +61,9 @@
 
 + [【东方】番凩【上海人形&蓬莱人形 MMD】](http://www.acfun.cn/v/ac42772296)
 
++ [快速看完一局韩服王者斗殴局#548 Photon, haoye, Ambition, Ahn, Iw](http://www.acfun.cn/v/ac42788818)
+
++ [AC狼王争霸赛MVP砍王](http://www.acfun.cn/v/ac42785563)
+
++ [嗷呜~你的猫猫成精啦！不给糖就捣蛋！【凉悦】](http://www.acfun.cn/v/ac42781134)
+
