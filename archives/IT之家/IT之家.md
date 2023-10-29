@@ -59,3 +59,7 @@
 
 + [小鹏“年轻态”MPV 新车 X9 更多配色实车曝光：白色、黑色首次亮相](https://m.ithome.com/html/728334.htm)
 
++ [大量海外华为 / 荣耀用户反馈称 Google 应用被手机识别为木马](https://m.ithome.com/html/728431.htm)
+
++ [小米 Redmi K60 至尊版机型全系最高降价 200 元，2599 元起](https://m.ithome.com/html/728372.htm)
+
