@@ -49,3 +49,7 @@
 
 + [卡巴斯基：分析“三角测量行动”（Operation Triangulation）出色的隐身性能](https://www.freebuf.com/articles/paper/381931.html)
 
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+
++ [SharkTeam：2023年第三季度Web3安全报告](https://www.freebuf.com/articles/web/381270.html)
+

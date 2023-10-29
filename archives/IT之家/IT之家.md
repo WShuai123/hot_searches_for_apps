@@ -33,3 +33,7 @@
 
 + [华为 MateBook 14S 32G 大内存版降至 6499 元：i5-13500H + 2.5K 120Hz 触控屏](https://m.ithome.com/html/728322.htm)
 
++ [微信安卓版 8.0.43 最新官方内测版下载发布](https://m.ithome.com/html/728316.htm)
+
++ [西风显卡全面上架京东自营，RTX 4060/4070 型号即将推出](https://m.ithome.com/html/728263.htm)
+
