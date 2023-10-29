@@ -57,3 +57,5 @@
 
 + [《英雄联盟》S13 全球总决赛瑞士轮收官：LPL 四支战队首次携手打入 8 强且完美避免内战](https://m.ithome.com/html/728415.htm)
 
++ [小鹏“年轻态”MPV 新车 X9 更多配色实车曝光：白色、黑色首次亮相](https://m.ithome.com/html/728334.htm)
+
