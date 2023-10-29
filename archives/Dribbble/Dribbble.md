@@ -233,3 +233,21 @@
 
 + [Vases](https://dribbble.com/shots/)
 
++ [Hotel Building Illustration](https://dribbble.com/shots/)
+
++ [L'ETOILE DU NORD](https://dribbble.com/shots/)
+
++ [Healthcare service - Mobile app](https://dribbble.com/shots/)
+
++ [Going to the stars](https://dribbble.com/shots/)
+
++ [AI Infrastructure Alliance](https://dribbble.com/shots/)
+
++ [Capify Fintech Logo](https://dribbble.com/shots/)
+
++ [Qiok Microchips Producer - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Eli Cash](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+

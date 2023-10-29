@@ -101,3 +101,7 @@
 
 + [恐怖射击游戏《量子误差》上市预告片分享](https://www.3dmgame.com/news/202310/3880342.html)
 
++ [开放世界RPG《王者荣耀：世界》6分钟实机演示](https://www.3dmgame.com/news/202310/3880392.html)
+
++ [任天堂Switch 2可能配备双可拆卸屏幕](https://www.3dmgame.com/news/202310/3880393.html)
+

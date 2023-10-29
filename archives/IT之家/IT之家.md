@@ -27,3 +27,7 @@
 
 + [前开发部负责人：微软放弃 Windows Phone 重要原因是运营商缺乏兴趣](https://m.ithome.com/html/728326.htm)
 
++ [受罢工影响，迪士尼推迟上映真人电影《白雪公主》和动画《艾里奥》](https://m.ithome.com/html/728257.htm)
+
++ [联想新款拯救者游戏本曝光：i9-14900HX + RTX 4090](https://m.ithome.com/html/728302.htm)
+

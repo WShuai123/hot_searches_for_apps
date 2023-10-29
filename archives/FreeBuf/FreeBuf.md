@@ -41,3 +41,7 @@
 
 + [《工业互联网安全分类分级管理办法（公开征求意见稿）》发布](https://www.freebuf.com/news/381885.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/382061.html)
+
++ [SpringWeb常见鉴权措施与垂直越权检测](https://www.freebuf.com/news/380895.html)
+
