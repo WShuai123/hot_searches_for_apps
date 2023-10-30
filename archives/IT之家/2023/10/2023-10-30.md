@@ -43,3 +43,5 @@
 
 + [“苹果皮”重现江湖：华强北商家用外置 SIM 卡槽改装 iPhone 15 Pro](https://m.ithome.com/html/728482.htm)
 
++ [美加州州长参观上海特斯拉超级工厂，笑称“若有新电池想直接带走”](https://m.ithome.com/html/728461.htm)
+

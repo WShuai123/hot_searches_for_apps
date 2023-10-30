@@ -315,3 +315,11 @@
 
 + [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
 
++ [Powder Box](https://dribbble.com/shots/)
+
++ [Sound logo](https://dribbble.com/shots/)
+
++ [Truly Fresh Logo](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - Sticker Design Vol. 1](https://dribbble.com/shots/)
+

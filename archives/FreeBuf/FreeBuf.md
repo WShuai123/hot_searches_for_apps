@@ -59,3 +59,7 @@
 
 + [警惕：基于 XMPP 的即时信息服务的窃听行为](https://www.freebuf.com/news/382227.html)
 
++ [攻防演练 | 详细分析某红队钓鱼样本](https://www.freebuf.com/articles/system/381668.html)
+
++ [基于 XMPP 的即时聊天软件面临严重窃听风险](https://www.freebuf.com/news/382227.html)
+

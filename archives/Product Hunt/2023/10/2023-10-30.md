@@ -109,3 +109,39 @@
 
 + [AI Love Code](https://www.producthunt.com/posts/ai-love-code)
 
++ [Free Language Detector](https://www.producthunt.com/posts/free-language-detector)
+
++ [Botanical Bliss: Indoor Plant Decor](https://www.producthunt.com/posts/botanical-bliss-indoor-plant-decor)
+
++ [WatchNow AI 2.0](https://www.producthunt.com/posts/watchnow-ai-2-0)
+
++ [Botsheets](https://www.producthunt.com/posts/botsheets-1)
+
++ [App Finder](https://www.producthunt.com/posts/app-finder)
+
++ [Hyperaide](https://www.producthunt.com/posts/hyperaide-2)
+
++ [UIHUT](https://www.producthunt.com/posts/uihut-1)
+
++ [Key Click Pro](https://www.producthunt.com/posts/key-click-pro)
+
++ [GoblinX: ADHD & Anxiety Support](https://www.producthunt.com/posts/goblinx-adhd-anxiety-support)
+
++ [StartupXplorer](https://www.producthunt.com/posts/startupxplorer)
+
++ [GenVid](https://www.producthunt.com/posts/genvid)
+
++ [Coveragely](https://www.producthunt.com/posts/coveragely)
+
++ [Giftadvisor](https://www.producthunt.com/posts/giftadvisor-2)
+
++ [Prune](https://www.producthunt.com/posts/prune-3)
+
++ [AI Consultant](https://www.producthunt.com/posts/ai-consultant)
+
++ [Procurelist » Purchase Order App](https://www.producthunt.com/posts/procurelist-purchase-order-app)
+
++ [Tailwave](https://www.producthunt.com/posts/tailwave)
+
++ [Rakuten SixthSense TAP](https://www.producthunt.com/posts/rakuten-sixthsense-tap)
+
