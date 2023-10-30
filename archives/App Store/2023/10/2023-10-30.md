@@ -209,3 +209,7 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [百度文库-专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+

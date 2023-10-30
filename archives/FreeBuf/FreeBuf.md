@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 境外SDK背后的“数据间谍”窃密；IDC发布全球信息技术行业十大预测](https://www.freebuf.com/news/382140.html)
 
++ [绕过 YARA 规则 | 自定义可扩展 C2进行EDR规避](https://www.freebuf.com/sectool/381649.html)
+
++ [HackerOne 已向白帽支付了超 3 亿美元漏洞赏金](https://www.freebuf.com/news/382199.html)
+

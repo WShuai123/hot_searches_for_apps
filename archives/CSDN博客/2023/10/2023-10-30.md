@@ -151,3 +151,5 @@
 
 + [FastReport.Net & FastReport.Core 2023.3.7 Crack](https://blog.csdn.net/john_dwh/article/details/134111314)
 
++ [给VSCode插上一双AI的翅膀](https://blog.csdn.net/s445320/article/details/134096619)
+

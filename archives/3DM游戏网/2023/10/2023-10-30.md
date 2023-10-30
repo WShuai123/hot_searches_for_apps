@@ -181,3 +181,31 @@
 
 + [《死亡空间3》制作人表示 若有机会要完全重做游戏](https://www.3dmgame.com/news/202310/3880450.html)
 
++ [城市天际线2房租太高怎么解决？城市天际线2房屋租金太高解决方法](https://www.3dmgame.com/news/202310/3880467.html)
+
++ [iPhone15提前降价千元致销量下滑：大家更爱国产机](https://www.3dmgame.com/news/202310/3880468.html)
+
++ [Switch会员新一期试玩同乐会：《天穗之咲稻姬》](https://www.3dmgame.com/news/202310/3880463.html)
+
++ [《生化危机8》IOS版现已发售 上市宣传片欣赏](https://www.3dmgame.com/news/202310/3880464.html)
+
++ [《游戏中心CX：有野的挑战书》合集2024年2月登陆Switch](https://www.3dmgame.com/news/202310/3880465.html)
+
++ [免费射击游戏《The Finals》正在使用AI进行配音](https://www.3dmgame.com/news/202310/3880466.html)
+
++ [《电锯糖心：重制版》战斗系统升级 画面效果更好](https://www.3dmgame.com/news/202310/3880458.html)
+
++ [经典影视剧改编游戏《星际之门：计时者》发布试玩Demo](https://www.3dmgame.com/news/202310/3880459.html)
+
++ [《心灵杀手2》与《心灵杀手1》对比 画面进化技术飞跃](https://www.3dmgame.com/news/202310/3880460.html)
+
++ [Fami通评最受欢迎的《塞尔达传说：王国之泪》角色：塞尔达第一](https://www.3dmgame.com/news/202310/3880461.html)
+
++ [苹果官方iPhone以旧换新价格暴涨 比第三方还高](https://www.3dmgame.com/news/202310/3880462.html)
+
++ [《万智牌》设计师公开回应跨界合作带来的争议](https://www.3dmgame.com/news/202310/3880455.html)
+
++ [Xbox将禁止玩家使用未授权的第三方手柄 11月起生效](https://www.3dmgame.com/news/202310/3880456.html)
+
++ [女神转生衍生作《魔神转生》确定制作 预定登陆PC/Switch](https://www.3dmgame.com/news/202310/3880457.html)
+

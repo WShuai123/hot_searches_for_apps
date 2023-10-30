@@ -35,3 +35,7 @@
 
 + [英伟达 RTX 4080 SUPER、4070 Ti SUPER 、4070 SUPER 显卡规格曝光](https://m.ithome.com/html/728447.htm)
 
++ [华为申请注册“遥遥领先”商标](https://m.ithome.com/html/728501.htm)
+
++ [苹果发布会前夕，iPad mini、MacBook Pro 等电池被重新提交到监管数据库](https://m.ithome.com/html/728448.htm)
+
