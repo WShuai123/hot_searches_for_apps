@@ -157,3 +157,15 @@
 
 + [《龙珠战士Z》原本没有打算加入比迪丽这个角色](https://www.3dmgame.com/news/202310/3880439.html)
 
++ [《圆谷电影节2023》11月17日举行 庵野秀明亲选奥特曼4K上映](https://www.3dmgame.com/news/202310/3880448.html)
+
++ [iPhone15 Pro体验《生化危机8》 画面效果出色](https://www.3dmgame.com/news/202310/3880447.html)
+
++ [《DOTA2》TI12：Spirit击败GG 夺得总冠军](https://www.3dmgame.com/news/202310/3880446.html)
+
++ [《真人快打1》万圣节内容的微交易比“死亡”更可怕](https://www.3dmgame.com/news/202310/3880445.html)
+
++ [《极限竞速：Motorsport》宣布首个内容更新 11月中旬上线](https://www.3dmgame.com/news/202310/3880444.html)
+
++ [《宝可梦：朱/紫》最强火暴兽袭来 新挑战11月3日举行](https://www.3dmgame.com/news/202310/3880443.html)
+

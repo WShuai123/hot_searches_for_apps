@@ -45,3 +45,7 @@
 
 + [2024年开源安全趋势和预测](https://www.freebuf.com/articles/neopoints/381879.html)
 
++ [一个人的信息安全部（1）-灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [FreeBuf早报 | 境外SDK背后的“数据间谍”窃密；IDC发布全球信息技术行业十大预测](https://www.freebuf.com/news/382140.html)
+

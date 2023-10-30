@@ -225,3 +225,23 @@
 
 + [CoinMaster Mobile App Concept](https://dribbble.com/shots/)
 
++ [Proxies](https://dribbble.com/shots/)
+
++ [Sound engineer wordmark](https://dribbble.com/shots/)
+
++ [Qiok Microchips Producer - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Mercedes-Benz Vinyl (Illustration)](https://dribbble.com/shots/)
+
++ [Business Insurance Landing Page](https://dribbble.com/shots/)
+
++ [Maze of alleys](https://dribbble.com/shots/)
+
++ [Ancient Aliens](https://dribbble.com/shots/)
+
++ [AVA Remote control 3d Glass](https://dribbble.com/shots/)
+
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+
++ [Pumpkin Destruction Shark](https://dribbble.com/shots/)
+
