@@ -117,3 +117,5 @@
 
 + [Halloweenie by StyleOf](https://www.producthunt.com/posts/halloweenie-by-styleof)
 
++ [Notion Second Brain 2.0](https://www.producthunt.com/posts/notion-second-brain-2-0-2)
+

@@ -161,3 +161,29 @@
 
 + [Patria UI-UX](https://dribbble.com/shots/)
 
++ [NexaVirtu Tech Website](https://dribbble.com/shots/)
+
++ [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
+
++ [Frog life cycle](https://dribbble.com/shots/)
+
++ [Solve Et Coagula: Falling Apart and Coming Together](https://dribbble.com/shots/)
+
++ [Web UI](https://dribbble.com/shots/)
+
++ [Capify Business Cards](https://dribbble.com/shots/)
+
++ [Workspace](https://dribbble.com/shots/)
+
++ [Parramatta Eels](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+
++ [TrustedSec Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Productivity App for Planing - Planoo](https://dribbble.com/shots/)
+
++ [Mocktober - Whispers from the Void](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
