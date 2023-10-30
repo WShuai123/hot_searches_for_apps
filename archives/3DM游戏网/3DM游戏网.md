@@ -149,3 +149,11 @@
 
 + [《全面尸控》联动《生化危机》新角色上线](https://www.3dmgame.com/news/202310/3880435.html)
 
++ [《使命召唤》系列诞生20周年对游戏行业影响深远](https://www.3dmgame.com/news/202310/3880442.html)
+
++ [山内一典：《GT赛车7》大型更新即将在本周上线](https://www.3dmgame.com/news/202310/3880441.html)
+
++ [Flash游戏《战火英雄》强化登陆Steam](https://www.3dmgame.com/news/202310/3880440.html)
+
++ [《龙珠战士Z》原本没有打算加入比迪丽这个角色](https://www.3dmgame.com/news/202310/3880439.html)
+

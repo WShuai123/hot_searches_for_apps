@@ -41,3 +41,7 @@
 
 + [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
 
++ [FreeBuf早报 | 一些境外SDK背后的“数据间谍”窃密；IDC发布全球信息技术行业十大预测](https://www.freebuf.com/news/382140.html)
+
++ [2024年开源安全趋势和预测](https://www.freebuf.com/articles/neopoints/381879.html)
+
