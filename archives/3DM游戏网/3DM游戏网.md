@@ -231,3 +231,19 @@
 
 + [手游《王国之心ML》发布新预告 2024年上线](https://www.3dmgame.com/news/202310/3880476.html)
 
++ [印度富豪主张年轻人每周工作70小时：这是你们的责任](https://www.3dmgame.com/news/202310/3880487.html)
+
++ [内部消息称：R星开发者不想在今年公布《GTA6》消息](https://www.3dmgame.com/news/202310/3880485.html)
+
++ [经典回归 开放世界RPG射击《沸点：地狱之路》11月14日登陆Steam](https://www.3dmgame.com/news/202310/3880486.html)
+
++ [中国车辆可靠性研究：保时捷、一汽丰田、长城魏牌分别夺冠](https://www.3dmgame.com/news/202310/3880484.html)
+
++ [粉丝化身列文虎克 细节推测《勇者斗恶龙》12月新情报](https://www.3dmgame.com/news/202310/3880483.html)
+
++ [华为申请遥遥领先商标 Q3手机销量同比增长37%](https://www.3dmgame.com/news/202310/3880482.html)
+
++ [TGA主持人赞叹今年游戏阵容强大：质量高规模大](https://www.3dmgame.com/news/202310/3880480.html)
+
++ [世嘉手游《404 GAME RE:SET》宣布停服 运营还不满一年](https://www.3dmgame.com/news/202310/3880481.html)
+

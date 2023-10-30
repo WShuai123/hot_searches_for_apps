@@ -187,3 +187,7 @@
 
 + [第16期 | GPTSecurity周报](https://blog.csdn.net/m0_73736695/article/details/134113281)
 
++ [【ChatGPT瀑布到水母】AI 在驱动软件研发的革新与实践](https://blog.csdn.net/2202_75623950/article/details/134113944)
+
++ [读图数据库实战笔记03_遍历](https://blog.csdn.net/lyingSeven/article/details/134108592)
+
