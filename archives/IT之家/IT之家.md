@@ -57,3 +57,7 @@
 
 + [三菱败走，一个时代来临](https://m.ithome.com/html/728428.htm)
 
++ [一加 12R 手机配置曝光：骁龙 8 Gen 2 处理器，峰值亮度达 3000 尼特](https://m.ithome.com/html/728453.htm)
+
++ [消息称苹果明年推出新款 AirPods Max：缺少 H2 芯片，功能性不如 AirPods Pro](https://m.ithome.com/html/728433.htm)
+

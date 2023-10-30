@@ -257,3 +257,7 @@
 
 + [FromSoftware正为多个项目招募大量开发人员](https://www.3dmgame.com/news/202310/3880492.html)
 
++ [美加州州长参观特斯拉上海超级工厂 并试驾新款Model 3](https://www.3dmgame.com/news/202310/3880493.html)
+
++ [数毛社：《心灵杀手2》在中配PC上运行地很好](https://www.3dmgame.com/news/202310/3880494.html)
+
