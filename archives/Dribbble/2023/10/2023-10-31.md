@@ -133,3 +133,31 @@
 
 + [ZC Monogram](https://dribbble.com/shots/)
 
++ [Shein X Skilline](https://dribbble.com/shots/)
+
++ [Hallo W (Personal '23)](https://dribbble.com/shots/)
+
++ [Ncoded Chip animation](https://dribbble.com/shots/)
+
++ [Plant Collectors Club](https://dribbble.com/shots/)
+
++ [Stratis UI - Mobile Graph](https://dribbble.com/shots/)
+
++ [Dangerous Ideas 2](https://dribbble.com/shots/)
+
++ [Digger III](https://dribbble.com/shots/)
+
++ [Podcasts Landing Page](https://dribbble.com/shots/)
+
++ [Nutella | Corporate Redesign](https://dribbble.com/shots/)
+
++ [Halloween Illustrations](https://dribbble.com/shots/)
+
++ [Winter Wonderland ❄️](https://dribbble.com/shots/)
+
++ [Immersive Experience Website](https://dribbble.com/shots/)
+
++ [footer micro animation](https://dribbble.com/shots/)
+
++ [Patria UI-UX](https://dribbble.com/shots/)
+
