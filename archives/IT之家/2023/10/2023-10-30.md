@@ -33,3 +33,5 @@
 
 + [11.11 今日攻略：iPhone 15 系列现货 + 立减 801 元，小米一级能效 1.5 匹空调 1409 元新低](https://m.ithome.com/html/728418.htm)
 
++ [英伟达 RTX 4080 SUPER、4070 Ti SUPER 、4070 SUPER 显卡规格曝光](https://m.ithome.com/html/728447.htm)
+

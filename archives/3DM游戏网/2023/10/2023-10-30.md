@@ -169,3 +169,15 @@
 
 + [《宝可梦：朱/紫》最强火暴兽袭来 新挑战11月3日举行](https://www.3dmgame.com/news/202310/3880443.html)
 
++ [《心灵杀手2》高管感谢投资方Epic：不干扰创作很棒](https://www.3dmgame.com/news/202310/3880454.html)
+
++ [《脑汁旅行》steam页面上线 像素风探索冒险解谜](https://www.3dmgame.com/news/202310/3880453.html)
+
++ [《DOTA2》新英雄百戏大王公布 2024年上线](https://www.3dmgame.com/news/202310/3880452.html)
+
++ [《堕落之主》媒体赞誉宣传片：绝赞类魂游戏！](https://www.3dmgame.com/news/202310/3880451.html)
+
++ [V社新作《Neon Prime》细节曝光：地图巨大完全可破坏](https://www.3dmgame.com/news/202310/3880449.html)
+
++ [《死亡空间3》制作人表示 若有机会要完全重做游戏](https://www.3dmgame.com/news/202310/3880450.html)
+

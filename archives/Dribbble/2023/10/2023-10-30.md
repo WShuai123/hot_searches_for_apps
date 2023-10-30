@@ -245,3 +245,25 @@
 
 + [Pumpkin Destruction Shark](https://dribbble.com/shots/)
 
++ [Jade Headset](https://dribbble.com/shots/)
+
++ [Muti Moon Base 2071](https://dribbble.com/shots/)
+
++ [Mocktober - Mainway Industries](https://dribbble.com/shots/)
+
++ [La Hermana No.1](https://dribbble.com/shots/)
+
++ [Orange Dog Logo](https://dribbble.com/shots/)
+
++ [Little detective](https://dribbble.com/shots/)
+
++ [EstateGuru Hero Illustration 07](https://dribbble.com/shots/)
+
++ [Productivity App for Planing - Planoo](https://dribbble.com/shots/)
+
++ [Walking in New york ???????? ☀️](https://dribbble.com/shots/)
+
++ [Vectober 2023 27 // Pond](https://dribbble.com/shots/)
+
++ [Sign in page — Untitled UI](https://dribbble.com/shots/)
+

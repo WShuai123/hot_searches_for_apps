@@ -141,3 +141,13 @@
 
 + [招生报名缴费小程序开发笔记（上）](https://blog.csdn.net/cclinux2/article/details/134111185)
 
++ [【C++项目实战】基于多设计模式下的同步于异步的日志系统（完整详细）](https://blog.csdn.net/VHhhbb/article/details/134109998)
+
++ [《数字图像处理-OpenCV/Python》连载（33）使用掩模图像控制处理区域](https://blog.csdn.net/youcans/article/details/134014675)
+
++ [[javaweb]——spring框架之控制反转(IOC)与依赖注入(DI)](https://blog.csdn.net/Panci_/article/details/134068389)
+
++ [【红蓝攻防鸿篇巨著】ATT&CK视角下的红蓝对抗实战指南](https://blog.csdn.net/2301_77485708/article/details/134070567)
+
++ [FastReport.Net & FastReport.Core 2023.3.7 Crack](https://blog.csdn.net/john_dwh/article/details/134111314)
+
