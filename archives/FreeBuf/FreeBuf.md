@@ -63,3 +63,5 @@
 
 + [基于 XMPP 的即时聊天软件面临严重窃听风险](https://www.freebuf.com/news/382227.html)
 
++ [研究发现基于 XMPP协议的社交软件面临严重窃听风险](https://www.freebuf.com/news/382227.html)
+
