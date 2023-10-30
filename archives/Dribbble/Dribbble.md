@@ -49,3 +49,45 @@
 
 + [Foodies](https://dribbble.com/shots/)
 
++ [Bates Smart | Corporate website redesign](https://dribbble.com/shots/)
+
++ [Howling Wolf Logo](https://dribbble.com/shots/)
+
++ [UX-UI design Fintech Project Animation](https://dribbble.com/shots/)
+
++ [Boba on the Beach Illustration for Adobe Express Keynote @ MAX](https://dribbble.com/shots/)
+
++ [Vases](https://dribbble.com/shots/)
+
++ [Car Rental Platform](https://dribbble.com/shots/)
+
++ [Williams Alamu Folio 23](https://dribbble.com/shots/)
+
++ [Crypto Exchange Illustration](https://dribbble.com/shots/)
+
++ [Ncoded](https://dribbble.com/shots/)
+
++ [Merlin - Simple Landing page](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [Cain Electric Logo Before/After](https://dribbble.com/shots/)
+
++ [Flow - Design Studio Mobile UI Concept](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Still life Illustration](https://dribbble.com/shots/)
+
++ [L'etoile du Nord V2](https://dribbble.com/shots/)
+
++ [Bat friends](https://dribbble.com/shots/)
+
++ [Tappa! - UI design elements for the messenger app](https://dribbble.com/shots/)
+
++ [Plastic transition for Voice UI](https://dribbble.com/shots/)
+
++ [PolyAI rebrand + case study](https://dribbble.com/shots/)
+
++ [Sound engineer wordmark](https://dribbble.com/shots/)
+

@@ -101,3 +101,7 @@
 
 + [《死亡空间3》制作人表示 若有机会要完全重做游戏](https://www.3dmgame.com/news/202310/3880450.html)
 
++ [《轩辕剑3：云和山的彼端》12月8日登陆NS 售价14.99美元](https://www.3dmgame.com/news/202310/3880500.html)
+
++ [《战神4》、《神秘海域：盗贼遗产合集》上架GOG 暂未公开发售日](https://www.3dmgame.com/news/202310/3880501.html)
+
