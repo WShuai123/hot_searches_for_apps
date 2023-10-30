@@ -105,3 +105,11 @@
 
 + [《战神4》、《神秘海域：盗贼遗产合集》上架GOG 暂未公开发售日](https://www.3dmgame.com/news/202310/3880501.html)
 
++ [迟到了28年：Win11将原生支持11种压缩格式](https://www.3dmgame.com/news/202310/3880505.html)
+
++ [Bungie已推迟发行《命运2》新资料片和《马拉松》](https://www.3dmgame.com/news/202310/3880504.html)
+
++ [《女神异闻录5：战略版》主人公Joker预告片分享](https://www.3dmgame.com/news/202310/3880503.html)
+
++ [《阿凡达：潘多拉边境》配置公布 支持RTGI/FSR3.0](https://www.3dmgame.com/news/202310/3880502.html)
+
