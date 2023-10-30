@@ -247,3 +247,9 @@
 
 + [世嘉手游《404 GAME RE:SET》宣布停服 运营还不满一年](https://www.3dmgame.com/news/202310/3880481.html)
 
++ [腾讯申请微信AI服务平台商标 有望搭载混元大模型](https://www.3dmgame.com/news/202310/3880490.html)
+
++ [小米股价大涨创新高：首款汽车杀到 售价近25万](https://www.3dmgame.com/news/202310/3880488.html)
+
++ [《亡灵法师》结束抢先体验正式推出，万圣节期间还将有六折促销！](https://www.3dmgame.com/news/202310/3880489.html)
+

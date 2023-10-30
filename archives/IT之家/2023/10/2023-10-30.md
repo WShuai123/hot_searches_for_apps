@@ -47,3 +47,5 @@
 
 + [（更新：病毒库升级后已解决）大量海外华为 | 荣耀用户反馈称 Google 应用被手机识别为木马](https://m.ithome.com/html/728431.htm)
 
++ [手机业务凉凉后，LG 现在过得怎么样？](https://m.ithome.com/html/728414.htm)
+

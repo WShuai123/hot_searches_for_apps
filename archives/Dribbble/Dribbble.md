@@ -343,3 +343,13 @@
 
 + [Bitrate](https://dribbble.com/shots/)
 
++ [Burnt Out](https://dribbble.com/shots/)
+
++ ["Mother of Pearl" - Daily vector doodle](https://dribbble.com/shots/)
+
++ [Patria UI-UX](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [AI Chat tool pt.2](https://dribbble.com/shots/)
+
