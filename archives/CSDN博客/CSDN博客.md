@@ -201,3 +201,7 @@
 
 + [React 运行原理](https://blog.csdn.net/qq_53673551/article/details/134070352)
 
++ [Azure机器学习 - 使用与Azure集成的Visual Studio Code实战教程](https://blog.csdn.net/magicyangjay111/article/details/134116477)
+
++ [GPT的广泛应用会对互联网公司造成挑战吗？——探讨GPT在实际使用中的应用和影响](https://blog.csdn.net/u014727709/article/details/134094705)
+

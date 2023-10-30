@@ -61,3 +61,7 @@
 
 + [消息称苹果明年推出新款 AirPods Max：缺少 H2 芯片，功能性不如 AirPods Pro](https://m.ithome.com/html/728433.htm)
 
++ [“雪碧”Spirit 夺得《DOTA2》TI12 冠军，中国战队 LGD、AR 分列三、四名](https://m.ithome.com/html/728485.htm)
+
++ [华为余承东：目前已有 98 款华为产品可升级至鸿蒙 HarmonyOS 4 系统](https://m.ithome.com/html/728636.htm)
+
