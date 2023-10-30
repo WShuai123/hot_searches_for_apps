@@ -25,3 +25,5 @@
 
 + [“中国首款商用可重构 5G 射频收发芯片”上架淘宝：售价 999999 元，只展示不卖](https://m.ithome.com/html/728569.htm)
 
++ [（更新：疑似为 PS 图片）新款特斯拉 Model Y 实车曝光](https://m.ithome.com/html/728529.htm)
+
