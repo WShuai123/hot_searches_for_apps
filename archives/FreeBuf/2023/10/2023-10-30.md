@@ -53,3 +53,5 @@
 
 + [HackerOne 已向白帽支付了超 3 亿美元漏洞赏金](https://www.freebuf.com/news/382199.html)
 
++ [Pwn2Own 大会落幕，三星多次被攻破，苹果和谷歌躲过一劫](https://www.freebuf.com/news/382191.html)
+

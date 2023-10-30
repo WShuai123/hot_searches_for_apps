@@ -213,3 +213,5 @@
 
 + [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
 
++ [十六番旅行-懒人地图旅行地图](https://itunes.apple.com/cn/app/id855031900?mt=8)
+

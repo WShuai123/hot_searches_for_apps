@@ -39,3 +39,5 @@
 
 + [苹果发布会前夕，iPad mini、MacBook Pro 等电池被重新提交到监管数据库](https://m.ithome.com/html/728448.htm)
 
++ [小米 14 手机额外 8GB 存储扩容：老机型不支持，后续向友商开放](https://m.ithome.com/html/728528.htm)
+
