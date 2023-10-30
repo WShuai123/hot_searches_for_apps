@@ -113,3 +113,9 @@
 
 + [《阿凡达：潘多拉边境》配置公布 支持RTGI/FSR3.0](https://www.3dmgame.com/news/202310/3880502.html)
 
++ [电影《阴阳师0》发布首个预告：揭秘前传故事](https://www.3dmgame.com/news/202310/3880507.html)
+
++ [樱井再次重申不确定任天堂明星大乱斗今后走向](https://www.3dmgame.com/news/202310/3880508.html)
+
++ [合金装备老牌配音演员与KONAMI重归于好](https://www.3dmgame.com/news/202310/3880506.html)
+
