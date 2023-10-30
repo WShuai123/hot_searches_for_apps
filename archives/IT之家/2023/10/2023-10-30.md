@@ -41,3 +41,5 @@
 
 + [小米 14 手机额外 8GB 存储扩容：老机型不支持，后续向友商开放](https://m.ithome.com/html/728528.htm)
 
++ [“苹果皮”重现江湖：华强北商家用外置 SIM 卡槽改装 iPhone 15 Pro](https://m.ithome.com/html/728482.htm)
+

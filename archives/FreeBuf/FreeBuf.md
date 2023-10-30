@@ -55,3 +55,7 @@
 
 + [Pwn2Own 大会落幕，三星多次被攻破，苹果和谷歌躲过一劫](https://www.freebuf.com/news/382191.html)
 
++ [ProbeQuest：一款功能强大的Wi-Fi探测请求捕捉和嗅探工具](https://www.freebuf.com/sectool/380043.html)
+
++ [警惕：基于 XMPP 的即时信息服务的窃听行为](https://www.freebuf.com/news/382227.html)
+

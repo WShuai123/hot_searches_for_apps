@@ -209,3 +209,17 @@
 
 + [女神转生衍生作《魔神转生》确定制作 预定登陆PC/Switch](https://www.3dmgame.com/news/202310/3880457.html)
 
++ [《刺客信条4：黑旗》庆祝10周年 玩家数超3400万](https://www.3dmgame.com/news/202310/3880475.html)
+
++ [名作《石纪元》11月6日发布短篇新作 讲述完结后世界](https://www.3dmgame.com/news/202310/3880474.html)
+
++ [血裁2000人！百年大众搞不定软件：车机焕新遥遥无期](https://www.3dmgame.com/news/202310/3880473.html)
+
++ [《异世界流浪美食家》官方宣布第二季动画确认制作](https://www.3dmgame.com/news/202310/3880472.html)
+
++ [游戏尚未发售 《量子误差》仅靠数字版预购已收回开发成本](https://www.3dmgame.com/news/202310/3880471.html)
+
++ [《城市：天际线2》将推出8个免费地区建筑包](https://www.3dmgame.com/news/202310/3880470.html)
+
++ [《王国地下城与英雄》steam页面上线 地下城经营探索](https://www.3dmgame.com/news/202310/3880469.html)
+
