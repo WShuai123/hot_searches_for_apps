@@ -65,3 +65,5 @@
 
 + [华为余承东：目前已有 98 款华为产品可升级至鸿蒙 HarmonyOS 4 系统](https://m.ithome.com/html/728636.htm)
 
++ [网信部门责令“夸克”“网易 CC”立即全面深入整改，前者罚款 50 万元](https://m.ithome.com/html/728697.htm)
+

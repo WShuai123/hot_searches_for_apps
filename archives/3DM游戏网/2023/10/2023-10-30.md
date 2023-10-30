@@ -263,3 +263,5 @@
 
 + [《GTA6》将有着更多元和更真实的动画系统](https://www.3dmgame.com/news/202310/3880495.html)
 
++ [《头脑特工队2》增加全新负面情绪 2024年6月上映](https://www.3dmgame.com/news/202310/3880496.html)
+

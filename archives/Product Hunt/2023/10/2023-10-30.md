@@ -145,3 +145,5 @@
 
 + [Rakuten SixthSense TAP](https://www.producthunt.com/posts/rakuten-sixthsense-tap)
 
++ [Midjourney's Niji Journey](https://www.producthunt.com/posts/midjourney-s-niji-journey)
+
