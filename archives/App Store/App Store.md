@@ -223,3 +223,5 @@
 
 + [神州租车-随时随地 随需而用](https://itunes.apple.com/cn/app/id454685734?mt=8)
 
++ [动物翻译器-璞玉猫狗翻译器,宠物翻译器&狗语翻译器](https://itunes.apple.com/cn/app/id6462860730?mt=8)
+

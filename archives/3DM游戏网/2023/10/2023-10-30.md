@@ -253,3 +253,7 @@
 
 + [《亡灵法师》结束抢先体验正式推出，万圣节期间还将有六折促销！](https://www.3dmgame.com/news/202310/3880489.html)
 
++ [喜剧片《临时劫案》定档 郭富城龅牙造型颠覆形象](https://www.3dmgame.com/news/202310/3880491.html)
+
++ [FromSoftware正为多个项目招募大量开发人员](https://www.3dmgame.com/news/202310/3880492.html)
+

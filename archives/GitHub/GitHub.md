@@ -51,3 +51,39 @@
 
 + [facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes)
 
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [i-am-alice / 2nd-devs](https://github.com/i-am-alice/2nd-devs)
+
++ [SidraChain / sidra-contracts](https://github.com/SidraChain/sidra-contracts)
+
++ [OpenSignLabs / OpenSign](https://github.com/OpenSignLabs/OpenSign)
+
++ [SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum)
+
++ [witnessmenow / ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
+
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [InterviewReady / system-design-resources](https://github.com/InterviewReady/system-design-resources)
+
++ [Grasscutters / Grasscutter](https://github.com/Grasscutters/Grasscutter)
+
++ [telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop)
+
++ [torvalds / linux](https://github.com/torvalds/linux)
+
++ [wg-easy / wg-easy](https://github.com/wg-easy/wg-easy)
+
++ [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
++ [arendst / Tasmota](https://github.com/arendst/Tasmota)
+
++ [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+

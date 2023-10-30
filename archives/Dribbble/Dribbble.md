@@ -353,3 +353,11 @@
 
 + [AI Chat tool pt.2](https://dribbble.com/shots/)
 
++ [ZC Monogram](https://dribbble.com/shots/)
+
++ [Stratis UI - Mobile Graph](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [Huddersfield Giants](https://dribbble.com/shots/)
+

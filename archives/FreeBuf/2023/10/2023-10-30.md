@@ -65,3 +65,5 @@
 
 + [研究发现基于 XMPP协议的社交软件面临严重窃听风险](https://www.freebuf.com/news/382227.html)
 
++ [「年度安全技术变革」花落谁家 | WitAwards 2023年度评选参评巡礼](https://www.freebuf.com/news/382212.html)
+
