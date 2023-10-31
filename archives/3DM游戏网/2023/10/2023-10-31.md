@@ -259,3 +259,13 @@
 
 + [骁龙X Elite基准测试结果公布 可击败苹果M2等芯片](https://www.3dmgame.com/news/202310/3880588.html)
 
++ [Steam Deck已支持超12000款游戏 4000多款已认证](https://www.3dmgame.com/news/202310/3880595.html)
+
++ [持续畅销 《心灵杀手：重制版》已收回成本](https://www.3dmgame.com/news/202310/3880594.html)
+
++ [Xbox Game Pass 11月上旬新增游戏公开](https://www.3dmgame.com/news/202310/3880593.html)
+
++ [联想集团与英特尔、爱奇艺达成合作 推动AI技术在个人电脑上落地](https://www.3dmgame.com/news/202310/3880592.html)
+
++ [Capcom称PC MOD等同于作弊](https://www.3dmgame.com/news/202310/3880591.html)
+

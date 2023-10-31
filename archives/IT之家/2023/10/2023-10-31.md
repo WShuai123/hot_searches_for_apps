@@ -63,3 +63,5 @@
 
 + [高通公布 23W / 80W 骁龙 X Elite 参考跑分：傲视苹果 M2 等“群雄”](https://m.ithome.com/html/728736.htm)
 
++ [vivo 将发布自研智慧操作系统：全球首款基于 Rust 语言编写，支持大模型](https://m.ithome.com/html/728859.htm)
+
