@@ -225,3 +225,7 @@
 
 + [Nitro+美少女机甲新作《Dolls Nest》公开 预计登陆Steam](https://www.3dmgame.com/news/202310/3880569.html)
 
++ [Steam最新一周销量榜 国产游戏《完蛋！我被美女包围了！》上榜](https://www.3dmgame.com/news/202310/3880575.html)
+
++ [本世纪最大行业罢工正式结束 通用汽车妥协达成涨薪协议](https://www.3dmgame.com/news/202310/3880574.html)
+

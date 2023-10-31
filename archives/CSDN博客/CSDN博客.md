@@ -175,3 +175,5 @@
 
 + [Mybatis 多对一和一对多查询](https://blog.csdn.net/weixin_44505901/article/details/134130508)
 
++ [AI时代产品经理升级之道：ChatGPT让产品经理插上翅膀](https://blog.csdn.net/qq_44273429/article/details/134133057)
+

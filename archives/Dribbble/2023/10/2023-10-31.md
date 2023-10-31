@@ -347,3 +347,15 @@
 
 + [Vectober 2023 25 // Coral](https://dribbble.com/shots/)
 
++ [Salesforce CRM – Customer Engagement Platform](https://dribbble.com/shots/)
+
++ [Fintech mobile app](https://dribbble.com/shots/)
+
++ [Icons](https://dribbble.com/shots/)
+
++ [Fitness App Design Concept](https://dribbble.com/shots/)
+
++ [Hireus - Client Dashboard](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+

@@ -51,3 +51,9 @@
 
 + [不买立省 100%，全网 11.11 狂促 20:00 正式开启：iPhone 15 京东自营 2999 元半价购](https://m.ithome.com/html/728733.htm)
 
++ [不买立省 100%，全网 11.11 狂促 20:00 正式开抢：iPhone 15 京东自营 2999 元半价购](https://m.ithome.com/html/728733.htm)
+
++ [Touch Bar 退出历史，苹果停产 13 英寸 MacBook Pro](https://m.ithome.com/html/728762.htm)
+
++ [华为上架 Mate 60 Pro 乐臻版手机：含 FreeBuds 5 至臻版耳机，7899 元起](https://m.ithome.com/html/728824.htm)
+
