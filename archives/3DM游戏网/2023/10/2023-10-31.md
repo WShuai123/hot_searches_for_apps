@@ -253,3 +253,9 @@
 
 + [明年理想月均销量如果只有5万 李想：我就要去找工作了](https://www.3dmgame.com/news/202310/3880576.html)
 
++ [传《生化危机9》非8代直接续作 既是终结又是开始](https://www.3dmgame.com/news/202310/3880589.html)
+
++ [《控制》多人游戏和《马克思佩恩重制版》进入到制作阶段](https://www.3dmgame.com/news/202310/3880590.html)
+
++ [骁龙X Elite基准测试结果公布 可击败苹果M2等芯片](https://www.3dmgame.com/news/202310/3880588.html)
+

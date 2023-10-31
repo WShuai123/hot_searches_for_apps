@@ -183,3 +183,9 @@
 
 + [微信小程序用户隐私保护指引fail api scope is not declared in the privacy agreement](https://blog.csdn.net/weixin_43018356/article/details/134111826)
 
++ [[MySQL]——SQL预编译、动态sql](https://blog.csdn.net/Panci_/article/details/134131428)
+
++ [Java工程师的职业规划Java工程师的持续发展和自我推广](https://blog.csdn.net/Feng_wwf/article/details/134096367)
+
++ [【Redis】高并发分布式结构服务器](https://blog.csdn.net/chuxinchangcun/article/details/134114856)
+
