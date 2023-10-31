@@ -141,3 +141,43 @@
 
 + [《命运2》开发商Bungie也遭SIE裁员](https://www.3dmgame.com/news/202310/3880512.html)
 
++ [米哈游重拳打击游戏私服 配合司法连破六起私服刑案](https://www.3dmgame.com/news/202310/3880549.html)
+
++ [《博德之门3》的演员们创建的小恶魔被实装到了MOD中](https://www.3dmgame.com/news/202310/3880539.html)
+
++ [《女神异闻录5：战略版》PS5下载大小24GB 提前两天预载](https://www.3dmgame.com/news/202310/3880547.html)
+
++ [发行商Midwest Games获得300万美元融资](https://www.3dmgame.com/news/202310/3880548.html)
+
++ [宫崎骏《红猪》“浪漫如此”版预告 11月17日上映](https://www.3dmgame.com/news/202310/3880545.html)
+
++ [Switch在线新游上线 万圣节主题恶魔系列三部经典游戏](https://www.3dmgame.com/news/202310/3880546.html)
+
++ [《洛基》第二季季中宣传片 还剩两集剧情将迎高潮](https://www.3dmgame.com/news/202310/3880543.html)
+
++ [美国脑机接口解冻渐冻症患者控制能力 3个月90%准确率](https://www.3dmgame.com/news/202310/3880544.html)
+
++ [全球首个陆上商用小型核反应堆“玲龙一号”上架淘宝 总价52亿元](https://www.3dmgame.com/news/202310/3880542.html)
+
++ [《浩劫前夕》宣布11月2日发布最终预告片 曾因商标纠纷跳票](https://www.3dmgame.com/news/202310/3880541.html)
+
++ [重新上映依然火爆 《海贼王》动画电影票房突破200亿日元](https://www.3dmgame.com/news/202310/3880540.html)
+
++ [苹果公布国行14/16寸新MacBook 起售价12999/19999元](https://www.3dmgame.com/news/202310/3880551.html)
+
++ [《崩坏：星穹铁道》是如何将中文梗“国际化”的？](https://www.3dmgame.com/news/202310/3880550.html)
+
++ [60周年《神秘博士》宣布衍生剧 前博士和同伴回归](https://www.3dmgame.com/news/202310/3880538.html)
+
++ [《守望先锋2》LE SSERAFIM女团联动预告 新皮肤11月2日上线](https://www.3dmgame.com/news/202310/3880535.html)
+
++ [《The Finals》备受好评 依然存在外挂和其他问题](https://www.3dmgame.com/news/202310/3880536.html)
+
++ [《装甲核心6：境界天火》游戏原声带已正式发布！](https://www.3dmgame.com/news/202310/3880537.html)
+
++ [2024年游戏行业投资和收购将增加 各巨头将更强大](https://www.3dmgame.com/news/202310/3880533.html)
+
++ [任天堂申请新硬件专利引热议 设计造型酷似索尼PSP go](https://www.3dmgame.com/news/202310/3880534.html)
+
++ [《如龙８》中配版剧情宣传片 2024年1月26日发售](https://www.3dmgame.com/news/202310/3880532.html)
+

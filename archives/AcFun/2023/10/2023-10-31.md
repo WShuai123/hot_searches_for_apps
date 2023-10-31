@@ -81,3 +81,7 @@
 
 + [萌宠集合，这才是猛男该看的！ 第三百一十七期](http://www.acfun.cn/v/ac42789723)
 
++ [Acer喜欢成熟的还是可爱的？★手机竖屏957★](http://www.acfun.cn/v/ac42799925)
+
++ [快速看完一局韩服王者斗殴局#549 Hoya, Kania, BuLLDoG, Lure, Such](http://www.acfun.cn/v/ac42799285)
+

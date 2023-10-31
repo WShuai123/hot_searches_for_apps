@@ -53,3 +53,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [企业安全测试分享 | 如何通过python模拟前端加密登录](https://www.freebuf.com/articles/web/382046.html)
+

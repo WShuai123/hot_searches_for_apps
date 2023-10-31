@@ -41,3 +41,7 @@
 
 + [全网 11.11 狂促 20:00 正式开启：苹果 AirPods Pro 限量 1548 元，小米 13 再降新低 + 24 期免息](https://m.ithome.com/html/728733.htm)
 
++ [苹果公布国行 14/16 英寸 MacBook Pro，起售价 12999/19999 元](https://m.ithome.com/html/728761.htm)
+
++ [苹果 MacBook Pro 14/16 笔记本新增“深空黑”配色](https://m.ithome.com/html/728755.htm)
+
