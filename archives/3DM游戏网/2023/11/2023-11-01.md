@@ -101,3 +101,9 @@
 
 + [《洛基》第二季季中宣传片 还剩两集剧情将迎高潮](https://www.3dmgame.com/news/202310/3880543.html)
 
++ [视觉效果升级 玩家自制《生化危机5》高清MOD](https://www.3dmgame.com/news/202310/3880596.html)
+
++ [《酷极轮滑》11月28日登陆XSX 获特别好评](https://www.3dmgame.com/news/202310/3880597.html)
+
++ [微信iOS 8.0.43版史诗级更新！新增独立发送按钮](https://www.3dmgame.com/news/202310/3880598.html)
+
