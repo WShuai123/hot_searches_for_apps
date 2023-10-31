@@ -37,3 +37,5 @@
 
 + [苹果发布搭载 M3 系列芯片的全新 14/16 英寸 MacBook Pro 笔记本：起售价 12999 元 / 19999 元](https://m.ithome.com/html/728754.htm)
 
++ [苹果发布新款 24 英寸 iMac：搭载 M3 芯片，售价 10999 元起](https://m.ithome.com/html/728757.htm)
+

@@ -47,3 +47,7 @@
 
 + [深入分析 CVE-2023-44487 HTTP2 快速重置攻击对 Nginx 的影响](https://www.freebuf.com/articles/network/380829.html)
 
++ [因传播淫秽色情，“夸克”平台和“网易CC”被罚](https://www.freebuf.com/news/382313.html)
+
++ [Windows应急响应 | 入侵排查指南](https://www.freebuf.com/articles/system/380558.html)
+

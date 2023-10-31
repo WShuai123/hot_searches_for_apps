@@ -275,3 +275,17 @@
 
 + [Truly Fresh Logo](https://dribbble.com/shots/)
 
++ [Talaria — Custom Wordmark (Agency)](https://dribbble.com/shots/)
+
++ [AI Chat Tool](https://dribbble.com/shots/)
+
++ [Pakistan Travel Map](https://dribbble.com/shots/)
+
++ [Avalon Organics Packaging Illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [AVA Remote control 3d Glass](https://dribbble.com/shots/)
+
++ [Liquor](https://dribbble.com/shots/)
+
++ [N neon](https://dribbble.com/shots/)
+
