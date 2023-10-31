@@ -129,3 +129,15 @@
 
 + [2023年了，还有人在买手动挡的车吗？](http://www.acfun.cn/v/ac42806722)
 
++ [不给糖..就捣蛋！！Happy Halloween~~](http://www.acfun.cn/v/ac42808677)
+
++ [【可心喵】南瓜噩梦～不给糖就捣蛋！](http://www.acfun.cn/v/ac42808643)
+
++ [2023年10月下旬新游资讯，舞蹈不错，衣服也不错](http://www.acfun.cn/v/ac42808370)
+
++ [【独家】打赢就可以跟美女嘿嘿嘿！？斗神都市简介《兰斯4》第0期](http://www.acfun.cn/v/ac42800395)
+
++ [别想“张盼盼”了，听歌赏景才是正道](http://www.acfun.cn/v/ac42802014)
+
++ [【地狱客栈/Hazbin Hotel】INSANE【小子贼疯 feat.陸Roku】](http://www.acfun.cn/v/ac42790248)
+

@@ -51,3 +51,35 @@
 
 + [home-assistant / core](https://github.com/home-assistant/core)
 
++ [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [antirez / smallchat](https://github.com/antirez/smallchat)
+
++ [vercel / geist-font](https://github.com/vercel/geist-font)
+
++ [cisagov / LME](https://github.com/cisagov/LME)
+
++ [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
+
++ [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [skiptools / skip](https://github.com/skiptools/skip)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [EddieHubCommunity / BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+
++ [keyval-dev / odigos](https://github.com/keyval-dev/odigos)
+
++ [reflex-dev / reflex](https://github.com/reflex-dev/reflex)
+
++ [rust-unofficial / awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+
++ [ageitgey / face_recognition](https://github.com/ageitgey/face_recognition)
+
++ [Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
+

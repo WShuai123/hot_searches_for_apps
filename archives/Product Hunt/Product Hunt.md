@@ -221,3 +221,5 @@
 
 + [The New iMac](https://www.producthunt.com/posts/the-new-imac)
 
++ [AI GPT for Google Slides](https://www.producthunt.com/posts/ai-gpt-for-google-slides)
+
