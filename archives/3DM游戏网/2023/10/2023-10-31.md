@@ -199,3 +199,29 @@
 
 + [SpaceX已制造近400台猛禽发动机 用于发射星舰](https://www.3dmgame.com/news/202310/3880558.html)
 
++ [互动剧集《寂静岭:飞升》角色海报 明日播出](https://www.3dmgame.com/news/202310/3880572.html)
+
++ [《星空》粉丝对B社更新速度不满：太慢了真失望](https://www.3dmgame.com/news/202310/3880573.html)
+
++ [《生化危机8》IOS版与PS5版对比 差别不大画面依旧棒](https://www.3dmgame.com/news/202310/3880570.html)
+
++ [恐怖游戏《死噛》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202310/3880568.html)
+
++ [实习生因撞脸《漫威蜘蛛侠2》MJ而遭网络攻击](https://www.3dmgame.com/news/202310/3880567.html)
+
++ [《蔷薇的夜宴2 蓝玉石》steam发售 肉鸽卡组构筑新游](https://www.3dmgame.com/news/202310/3880566.html)
+
++ [喜迎万圣节！《博德之门3》粉丝雕刻游戏主题南瓜灯](https://www.3dmgame.com/news/202310/3880565.html)
+
++ [《恋爱绮谈~不存在的夏天~》Nintendo Switch™版现已正式发售](https://www.3dmgame.com/news/202310/3880564.html)
+
++ [KK对战平台人气新图来袭！二次元＆武侠总有一款是你的菜！](https://www.3dmgame.com/news/202310/3880563.html)
+
++ [《泰拉瑞亚》1.4.5更新将分阶段启用跨平台功能](https://www.3dmgame.com/news/202310/3880562.html)
+
++ [传说之下作者新作《三角符文》第三章几乎完成 将与四章合集推出](https://www.3dmgame.com/news/202310/3880561.html)
+
++ [苹果高价清洁布“支持”新Mac 外设依然用老接口](https://www.3dmgame.com/news/202310/3880571.html)
+
++ [Nitro+美少女机甲新作《Dolls Nest》公开 预计登陆Steam](https://www.3dmgame.com/news/202310/3880569.html)
+

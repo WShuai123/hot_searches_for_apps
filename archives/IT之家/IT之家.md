@@ -49,3 +49,5 @@
 
 + [全网 11.11 狂促 20:00 正式开启：iPhone 15 手机 2999 元百亿补贴，Redmi K60 手机 16G 版跌破两千](https://m.ithome.com/html/728733.htm)
 
++ [不买立省 100%，全网 11.11 狂促 20:00 正式开启：iPhone 15 京东自营 2999 元半价购](https://m.ithome.com/html/728733.htm)
+
