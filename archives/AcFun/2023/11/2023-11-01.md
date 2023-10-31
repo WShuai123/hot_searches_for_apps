@@ -61,3 +61,9 @@
 
 + [【地狱客栈/Hazbin Hotel】INSANE【小子贼疯 feat.陸Roku】](http://www.acfun.cn/v/ac42790248)
 
++ [今天就放肆点吧！要晚上才有趣不是吗~Happy Halloween！](http://www.acfun.cn/v/ac42808953)
+
++ [就让我咬一口嘛  吸血鬼 / ヴァンパイア](http://www.acfun.cn/v/ac42805609)
+
++ [200元挑战！一家不起眼的小馆子，上过央视还成为了网红打卡地？](http://www.acfun.cn/v/ac42805619)
+

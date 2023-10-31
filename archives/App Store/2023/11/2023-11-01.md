@@ -201,3 +201,7 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [唯品会 -新人享豪礼](https://itunes.apple.com/cn/app/id417200582?mt=8)
+
++ [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
+

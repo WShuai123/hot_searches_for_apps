@@ -25,3 +25,5 @@
 
 + [vivo 将发布自研智慧操作系统：全球首款基于 Rust 语言编写，支持大模型](https://m.ithome.com/html/728859.htm)
 
++ [又一台 2007 年未拆封 4GB 版 iPhone 拍出，成交价 13.3 万美元](https://m.ithome.com/html/728751.htm)
+
