@@ -55,3 +55,5 @@
 
 + [企业安全测试分享 | 如何通过python模拟前端加密登录](https://www.freebuf.com/articles/web/382046.html)
 
++ [如何使用Rastrea2r快速实现IoC的收集和分类](https://www.freebuf.com/sectool/380046.html)
+

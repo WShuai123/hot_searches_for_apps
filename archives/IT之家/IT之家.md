@@ -45,3 +45,5 @@
 
 + [苹果 MacBook Pro 14/16 笔记本新增“深空黑”配色](https://m.ithome.com/html/728755.htm)
 
++ [全网 11.11 狂促 20:00 正式开启：苹果 AirPods Pro 限量 1548 元，Redmi K60 手机 16G 版跌破两千](https://m.ithome.com/html/728733.htm)
+

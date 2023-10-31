@@ -149,3 +149,17 @@
 
 + [【计算机网络笔记】传输层——多路复用和多路分用](https://blog.csdn.net/m0_60511809/article/details/134039602)
 
++ [C语言调用lua](https://blog.csdn.net/wuquan_1230/article/details/134131929)
+
++ [[C++]命名空间等——喵喵要吃C嘎嘎](https://blog.csdn.net/ormstq/article/details/134126395)
+
++ [《动手深度学习》线性回归简洁实现实例](https://blog.csdn.net/u011074149/article/details/132773774)
+
++ [通过内网穿透快速搭建公网可访问的Spring Boot接口调试环境](https://blog.csdn.net/xz2935117143/article/details/134132048)
+
++ [安防监控项目---web点灯（网页发送命令控制A9的led）](https://blog.csdn.net/weixin_58016534/article/details/134116845)
+
++ [Linux玩物志：好玩却无用的软件探秘](https://blog.csdn.net/m0_74755811/article/details/134131647)
+
++ [redis实现分布式延时队列](https://blog.csdn.net/qq_29750559/article/details/134108765)
+
