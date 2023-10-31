@@ -35,3 +35,5 @@
 
 + [苹果发布 M3、M3 Pro、M3 Max 芯片：采用 3nm 工艺，支持动态缓存技术](https://m.ithome.com/html/728752.htm)
 
++ [苹果发布搭载 M3 系列芯片的全新 14/16 英寸 MacBook Pro 笔记本：起售价 12999 元 / 19999 元](https://m.ithome.com/html/728754.htm)
+

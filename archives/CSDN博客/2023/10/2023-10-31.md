@@ -133,3 +133,7 @@
 
 + [Java on Azure Tooling 9月更新｜Azure OpenAI 服务和 Playground 支持及更多](https://blog.csdn.net/MicrosoftReactor/article/details/134125575)
 
++ [黑客技术（网络安全）——如何高效学习](https://blog.csdn.net/stopluox/article/details/134128668)
+
++ [如何本地部署Jellyfin影音服务器并实现在公网访问](https://blog.csdn.net/asdssadddd/article/details/134125601)
+

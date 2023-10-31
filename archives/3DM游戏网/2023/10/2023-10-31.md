@@ -125,3 +125,19 @@
 
 + [《赤红灯火妖魅行》明年2月29日登陆Steam和NS](https://www.3dmgame.com/news/202310/3880509.html)
 
++ [《心灵杀手2》存在严重的声音丢失和字幕问题](https://www.3dmgame.com/news/202310/3880518.html)
+
++ [《星露谷物语》作者有兴趣将游戏改编为电影](https://www.3dmgame.com/news/202310/3880517.html)
+
++ [育碧明年关闭多款老游戏在线服务 包括刺客英雄无敌](https://www.3dmgame.com/news/202310/3880519.html)
+
++ [《愤怒的小鸟》开发商Rovio Q3收入下降6%](https://www.3dmgame.com/news/202310/3880516.html)
+
++ [《玩具熊的午夜后宫》首映 影视第二电子游戏改编作品](https://www.3dmgame.com/news/202310/3880515.html)
+
++ [《疯狂被诅咒老太太之家》steam发售 恐怖探索之旅](https://www.3dmgame.com/news/202310/3880514.html)
+
++ [《卧龙：苍天陨落》1.210版更新上线 各类武器加新特性](https://www.3dmgame.com/news/202310/3880513.html)
+
++ [《命运2》开发商Bungie也遭SIE裁员](https://www.3dmgame.com/news/202310/3880512.html)
+

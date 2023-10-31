@@ -45,3 +45,5 @@
 
 + [技术分析：恶意广告投放活动如何通过时效性链接传播HTA脚本](https://www.freebuf.com/articles/network/381854.html)
 
++ [深入分析 CVE-2023-44487 HTTP2 快速重置攻击对 Nginx 的影响](https://www.freebuf.com/articles/network/380829.html)
+
