@@ -89,3 +89,7 @@
 
 + [可可西里网红狼 不光被喂成二哈还开始收徒勒](http://www.acfun.cn/v/ac42797895)
 
++ [【真曈】Happy Halloween(ฺ◣ω◢)ฺ【2023ver.】](http://www.acfun.cn/v/ac42726807)
+
++ [盘点姐姐的血脉压制，说打就打毫不留情](http://www.acfun.cn/v/ac42797893)
+

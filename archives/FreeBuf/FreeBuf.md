@@ -57,3 +57,7 @@
 
 + [如何使用Rastrea2r快速实现IoC的收集和分类](https://www.freebuf.com/sectool/380046.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [因存在色情内容，夸克被罚50万元](https://www.freebuf.com/news/382313.html)
+

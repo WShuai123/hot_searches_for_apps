@@ -181,3 +181,21 @@
 
 + [《如龙８》中配版剧情宣传片 2024年1月26日发售](https://www.3dmgame.com/news/202310/3880532.html)
 
++ [《大乱斗》制作人樱井政博亲自示范升龙拳发招](https://www.3dmgame.com/news/202310/3880552.html)
+
++ [经典复古FPS《黄昏》现已登陆PS4美服商店](https://www.3dmgame.com/news/202310/3880559.html)
+
++ [《宝可梦：大集结》新开发者视频 国服11月底开启新测试](https://www.3dmgame.com/news/202310/3880560.html)
+
++ [《阿凡达：潘多拉边境》18分钟实机 12月7日发售](https://www.3dmgame.com/news/202310/3880553.html)
+
++ [《创造吧！我们的星球》steam页面上线 开放世界星球探索](https://www.3dmgame.com/news/202310/3880554.html)
+
++ [漫威分享《惊奇队长2》战斗片段 11月10日上映](https://www.3dmgame.com/news/202310/3880555.html)
+
++ [为登陆火星 SpaceX造400台最强火箭发动机](https://www.3dmgame.com/news/202310/3880556.html)
+
++ [光荣特库摩2024财年Q2财报 《玛莉的炼金工房：重制版》销量达11万](https://www.3dmgame.com/news/202310/3880557.html)
+
++ [SpaceX已制造近400台猛禽发动机 用于发射星舰](https://www.3dmgame.com/news/202310/3880558.html)
+
