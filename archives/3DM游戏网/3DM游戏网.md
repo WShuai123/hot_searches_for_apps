@@ -113,3 +113,15 @@
 
 + [《吸血鬼：避世血族2》公布自定义主角细节信息](https://www.3dmgame.com/news/202311/3880599.html)
 
++ [像素风童话恐怖游戏《小古德两只鞋》上市宣传片](https://www.3dmgame.com/news/202311/3880605.html)
+
++ [新版本PS5偷跑 玩家反馈主机运行很安静](https://www.3dmgame.com/news/202311/3880607.html)
+
++ [《尼克儿童频道全明星大乱斗2》将推出四名DLC角色](https://www.3dmgame.com/news/202311/3880606.html)
+
++ [29人吃鸡音乐节奏游戏《节奏天鸽》现已发售](https://www.3dmgame.com/news/202311/3880602.html)
+
++ [《秃鹰》进入制作准备阶段《控制2》仍在概念验证](https://www.3dmgame.com/news/202311/3880604.html)
+
++ [《铁拳8》新预告揭晓5位深受喜爱的角色将回归](https://www.3dmgame.com/news/202311/3880603.html)
+

@@ -29,3 +29,5 @@
 
 + [小米宣布 HyperOS 澎湃系统内置 32 位 App 转译器，性能反而比上一代原生支持的表现更好](https://m.ithome.com/html/729035.htm)
 
++ [小米 14 Pro 手机推送 HyperOS 1.0.10.0 系统更新，支持 LHDC 耳机连接](https://m.ithome.com/html/729062.htm)
+

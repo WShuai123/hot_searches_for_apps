@@ -241,3 +241,27 @@
 
 + [Orange Dog Logo](https://dribbble.com/shots/)
 
++ [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
+
++ [St George Illawarra Dragons](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Watch out!](https://dribbble.com/shots/)
+
++ [UX-UI design Protect card mobile animation](https://dribbble.com/shots/)
+
++ [Dark keyboard input transition](https://dribbble.com/shots/)
+
++ [Boba Fest Branding for Adobe Illustrator MAX keynote](https://dribbble.com/shots/)
+
++ [Mocktober - The Teller](https://dribbble.com/shots/)
+
++ [FinVibes - Logo and branding for the financial service startup](https://dribbble.com/shots/)
+
++ [Breeze 3D](https://dribbble.com/shots/)
+
++ [Gin](https://dribbble.com/shots/)
+
