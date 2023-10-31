@@ -181,3 +181,5 @@
 
 + [计算机网络-IP地址](https://blog.csdn.net/weixin_61426225/article/details/134134240)
 
++ [微信小程序用户隐私保护指引fail api scope is not declared in the privacy agreement](https://blog.csdn.net/weixin_43018356/article/details/134111826)
+

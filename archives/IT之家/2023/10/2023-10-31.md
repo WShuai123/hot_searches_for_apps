@@ -59,3 +59,7 @@
 
 + [小米 14 Pro 钛金属特别版手机非限量发售：因良率低首发货量少，后续将补货](https://m.ithome.com/html/728856.htm)
 
++ [小米 14 / Pro 系列手机今晚 8 点开售，售价 3999 元起](https://m.ithome.com/html/728744.htm)
+
++ [高通公布 23W / 80W 骁龙 X Elite 参考跑分：傲视苹果 M2 等“群雄”](https://m.ithome.com/html/728736.htm)
+
