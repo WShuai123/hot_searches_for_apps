@@ -191,3 +191,33 @@
 
 + [Mashreq Bank - Another Exploration](https://dribbble.com/shots/)
 
++ [CCC — Logo Design](https://dribbble.com/shots/)
+
++ [Digimax / Design & Animation](https://dribbble.com/shots/)
+
++ [Ancient Aliens](https://dribbble.com/shots/)
+
++ [Unloved](https://dribbble.com/shots/)
+
++ [PolyAI rebrand + case study](https://dribbble.com/shots/)
+
++ [8Luck](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [Scorpio](https://dribbble.com/shots/)
+
++ [Hero moment](https://dribbble.com/shots/)
+
++ [Wendy the Wendigo](https://dribbble.com/shots/)
+
++ [Fitness App Design Concept](https://dribbble.com/shots/)
+
++ [A / Letter](https://dribbble.com/shots/)
+
++ [Tokyo Travel Poster Illustration](https://dribbble.com/shots/)
+
++ [Tokyo by night????????](https://dribbble.com/shots/)
+
++ [Salford Red Devils](https://dribbble.com/shots/)
+

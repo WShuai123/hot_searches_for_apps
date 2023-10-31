@@ -105,3 +105,19 @@
 
 + [微信小程序用户隐私保护指引fail api scope is not declared in the privacy agreement](https://blog.csdn.net/weixin_43018356/article/details/134111826)
 
++ [作为开发者如何有效使用 ChatGPT（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134003856)
+
++ [AI大模型在短视频处理和剪辑中的应用，文末送书](https://blog.csdn.net/qq_21891743/article/details/134143130)
+
++ [《数字图像处理-OpenCV/Python》连载（33）使用掩模图像控制处理区域](https://blog.csdn.net/youcans/article/details/134014675)
+
++ [可视化文件编辑与SSH传输神器WinSCP如何公网远程访问本地服务器](https://blog.csdn.net/hsjsiwkwm/article/details/134133746)
+
++ [Docker 是什么](https://blog.csdn.net/woshihaizeiwang/article/details/134146178)
+
++ [【Linux】从零开始本地部署Dashy并远程访问](https://blog.csdn.net/2301_77485708/article/details/134123283)
+
++ [python数据可视化](https://blog.csdn.net/me_to_007/article/details/132777889)
+
++ [【C++项目实战】基于多设计模式下的同步于异步的日志系统（完整详细）](https://blog.csdn.net/VHhhbb/article/details/134109998)
+
