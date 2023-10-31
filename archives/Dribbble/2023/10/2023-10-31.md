@@ -247,3 +247,19 @@
 
 + [Stratis UI - Graph](https://dribbble.com/shots/)
 
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
++ [Powder Box](https://dribbble.com/shots/)
+
++ [Gemini](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 1](https://dribbble.com/shots/)
+
++ [S1.E9 | The Power of Brand - with Bill Kenney | Low-Key Legends](https://dribbble.com/shots/)
+
++ [Silver Cup Coffee](https://dribbble.com/shots/)
+
++ [Piccolo's Pickles No.1](https://dribbble.com/shots/)
+

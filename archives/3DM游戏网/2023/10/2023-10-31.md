@@ -119,3 +119,9 @@
 
 + [合金装备老牌配音演员与KONAMI重归于好](https://www.3dmgame.com/news/202310/3880506.html)
 
++ [《使命召唤：现代战争3》PC预告、解锁时间和配置公开](https://www.3dmgame.com/news/202310/3880511.html)
+
++ [《御伽活剧 豆狸巴克尔 ～神谕祭太郎的祭典之难》关卡介绍视频](https://www.3dmgame.com/news/202310/3880510.html)
+
++ [《赤红灯火妖魅行》明年2月29日登陆Steam和NS](https://www.3dmgame.com/news/202310/3880509.html)
+

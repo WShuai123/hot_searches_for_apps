@@ -41,3 +41,7 @@
 
 + [号称植入了2000万设备的欺诈后门拓展分析](https://www.freebuf.com/articles/paper/380885.html)
 
++ [FreeBuf早报 | CISO 的噩梦：影子 AI；谷歌扩大其漏洞赏金计划](https://www.freebuf.com/news/382264.html)
+
++ [技术分析：恶意广告投放活动如何通过时效性链接传播HTA脚本](https://www.freebuf.com/articles/network/381854.html)
+

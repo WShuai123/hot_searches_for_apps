@@ -31,3 +31,7 @@
 
 + [夸克搜索回应被罚 50 万：高度重视、诚恳接受、坚决执行](https://m.ithome.com/html/728709.htm)
 
++ [小米免费商用字体 MiSans L3 发布，符合最新国标 GB18030-2022](https://m.ithome.com/html/728721.htm)
+
++ [苹果发布 M3、M3 Pro、M3 Max 芯片：采用 3nm 工艺，支持动态缓存技术](https://m.ithome.com/html/728752.htm)
+

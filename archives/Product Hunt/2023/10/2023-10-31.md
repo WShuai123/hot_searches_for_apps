@@ -119,3 +119,5 @@
 
 + [Notion Second Brain 2.0](https://www.producthunt.com/posts/notion-second-brain-2-0-2)
 
++ [MacBook Pro M3](https://www.producthunt.com/posts/macbook-pro-m3)
+

@@ -125,3 +125,11 @@
 
 + [Nginx 实战指南：暴露出请求的真实 IP](https://blog.csdn.net/vnjohn/article/details/134025552)
 
++ [Spring Cloud 实战 | 解密Feign底层原理，包含实战源码](https://blog.csdn.net/superdangbo/article/details/134121434)
+
++ [云原生之使用Docker部署slash书签共享平台](https://blog.csdn.net/jks212454/article/details/134126347)
+
++ [k8s资源调度](https://blog.csdn.net/weixin_47978762/article/details/134128337)
+
++ [Java on Azure Tooling 9月更新｜Azure OpenAI 服务和 Playground 支持及更多](https://blog.csdn.net/MicrosoftReactor/article/details/134125575)
+
