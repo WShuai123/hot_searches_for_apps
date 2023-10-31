@@ -27,3 +27,5 @@
 
 + [又一台 2007 年未拆封 4GB 版 iPhone 拍出，成交价 13.3 万美元](https://m.ithome.com/html/728751.htm)
 
++ [小米宣布 HyperOS 澎湃系统内置 32 位 App 转译器，性能反而比上一代原生支持的表现更好](https://m.ithome.com/html/729035.htm)
+

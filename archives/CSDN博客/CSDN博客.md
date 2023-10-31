@@ -101,3 +101,7 @@
 
 + [【计算机网络笔记】传输层——多路复用和多路分用](https://blog.csdn.net/m0_60511809/article/details/134039602)
 
++ [【音视频 | wav】wav音频文件格式详解——包含RIFF规范、完整的各个块解析、PCM转wav代码](https://blog.csdn.net/wkd_007/article/details/134125746)
+
++ [微信小程序用户隐私保护指引fail api scope is not declared in the privacy agreement](https://blog.csdn.net/weixin_43018356/article/details/134111826)
+

@@ -155,3 +155,39 @@
 
 + [Lettering for Boba Fest branding for Adobe MAX](https://dribbble.com/shots/)
 
++ [ESC Zodiac Collection - Sagittarius](https://dribbble.com/shots/)
+
++ [Virtual Immersive Experience Website](https://dribbble.com/shots/)
+
++ [Mocktober - Nostromo Crew](https://dribbble.com/shots/)
+
++ [Restitution](https://dribbble.com/shots/)
+
++ [AI browser](https://dribbble.com/shots/)
+
++ [Jack O'Lantern Tutorial](https://dribbble.com/shots/)
+
++ [NexaVirtu Tech Website](https://dribbble.com/shots/)
+
++ [Custom System Builder Sidebar](https://dribbble.com/shots/)
+
++ [A Light In the Woods](https://dribbble.com/shots/)
+
++ [Scooby boo (Personal '23)](https://dribbble.com/shots/)
+
++ [Emotion](https://dribbble.com/shots/)
+
++ [Walking in New york ???????? ☀️](https://dribbble.com/shots/)
+
++ [Icons](https://dribbble.com/shots/)
+
++ [Playaudio logo](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [BREDA | E-commerce redesign](https://dribbble.com/shots/)
+
++ [BOO!](https://dribbble.com/shots/)
+
++ [Mashreq Bank - Another Exploration](https://dribbble.com/shots/)
+
