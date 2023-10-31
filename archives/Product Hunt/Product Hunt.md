@@ -111,3 +111,5 @@
 
 + [PageBot](https://www.producthunt.com/posts/pagebot)
 
++ [SnipStore](https://www.producthunt.com/posts/snipstore)
+

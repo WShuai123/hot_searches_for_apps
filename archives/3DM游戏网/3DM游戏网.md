@@ -107,3 +107,9 @@
 
 + [微信iOS 8.0.43版史诗级更新！新增独立发送按钮](https://www.3dmgame.com/news/202310/3880598.html)
 
++ [经典街机游戏重制《午夜杀生重制版》发布预告片](https://www.3dmgame.com/news/202311/3880601.html)
+
++ [《命运2》销量不佳 Bungie解雇上百名员工](https://www.3dmgame.com/news/202311/3880600.html)
+
++ [《吸血鬼：避世血族2》公布自定义主角细节信息](https://www.3dmgame.com/news/202311/3880599.html)
+
