@@ -57,3 +57,5 @@
 
 + [华为上架 Mate 60 Pro 乐臻版手机：含 FreeBuds 5 至臻版耳机，7899 元起](https://m.ithome.com/html/728824.htm)
 
++ [小米 14 Pro 钛金属特别版手机非限量发售：因良率低首发货量少，后续将补货](https://m.ithome.com/html/728856.htm)
+

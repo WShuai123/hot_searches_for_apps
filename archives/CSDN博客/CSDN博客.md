@@ -177,3 +177,5 @@
 
 + [AI时代产品经理升级之道：ChatGPT让产品经理插上翅膀](https://blog.csdn.net/qq_44273429/article/details/134133057)
 
++ [可视化文件编辑与SSH传输神器WinSCP如何公网远程访问本地服务器](https://blog.csdn.net/hsjsiwkwm/article/details/134133746)
+
