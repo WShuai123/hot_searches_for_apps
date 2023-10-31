@@ -139,3 +139,7 @@
 
 + [CSDN热榜分析5：导入数据库](https://blog.csdn.net/m0_37816922/article/details/132382487)
 
++ [【兔子王赠书第4期】用ChatGPT轻松玩转机器学习与深度学习](https://blog.csdn.net/m0_68111267/article/details/134121268)
+
++ [让GPT替我写vue3代码，看的我血压升高](https://blog.csdn.net/u012110870/article/details/134120467)
+

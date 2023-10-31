@@ -51,3 +51,5 @@
 
 + [Windows应急响应 | 入侵排查指南](https://www.freebuf.com/articles/system/380558.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

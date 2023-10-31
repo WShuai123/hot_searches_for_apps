@@ -39,3 +39,5 @@
 
 + [苹果发布新款 24 英寸 iMac：搭载 M3 芯片，售价 10999 元起](https://m.ithome.com/html/728757.htm)
 
++ [全网 11.11 狂促 20:00 正式开启：苹果 AirPods Pro 限量 1548 元，小米 13 再降新低 + 24 期免息](https://m.ithome.com/html/728733.htm)
+
