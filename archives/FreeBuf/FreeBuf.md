@@ -49,3 +49,9 @@
 
 + [【跨国议题】AI在企业内部的机遇与挑战；如何保障多云环境安全 | FCIS 2023 大会议题前瞻](https://www.freebuf.com/fevents/382362.html)
 
++ [恶意 NuGet 软件包被发现传播 SeroXen RAT 恶意软件](https://www.freebuf.com/news/382444.html)
+
++ [毫无依据！加拿大禁止在政府设备上使用微信和卡巴斯基产品](https://www.freebuf.com/news/382423.html)
+
++ [美国等40国联盟将签署承诺，拒绝向黑客支付赎金](https://www.freebuf.com/news/382416.html)
+

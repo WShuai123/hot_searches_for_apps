@@ -55,3 +55,5 @@
 
 + [微软正式推出 Win11 23H2，AI 助手 Copilot 来了](https://m.ithome.com/html/729094.htm)
 
++ [ChatGPT 真实参数只有 200 亿，首次被微软曝光！网友：难怪 OpenAI 对开源很紧张](https://m.ithome.com/html/729080.htm)
+

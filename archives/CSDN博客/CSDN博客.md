@@ -145,3 +145,9 @@
 
 + [数据结构与算法-树和森林](https://blog.csdn.net/qq_73121173/article/details/134129499)
 
++ [【隐私合规】个人信息收集的合法性、必要性、被收集者同意、征得被收集者同意的例外、隐私政策优化、间接获取个人信息的要求~讲师厾罗](https://blog.csdn.net/2301_79368222/article/details/134152798)
+
++ [YOLOv7-QAT量化部署](https://blog.csdn.net/qq_40672115/article/details/134087922)
+
++ [安防监控项目---web网页通过A9控制Zigbee终端节点的风扇](https://blog.csdn.net/weixin_58016534/article/details/134137887)
+

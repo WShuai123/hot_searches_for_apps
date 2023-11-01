@@ -161,3 +161,17 @@
 
 + [《使命召唤20：现代战争3》多人首发模式公布 更多后续推出](https://www.3dmgame.com/news/202311/3880635.html)
 
++ [《电兔拉比！》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202311/3880639.html)
+
++ [《血源卡丁车》宣传片 明年1月31日发售](https://www.3dmgame.com/news/202311/3880634.html)
+
++ [Win11 2023最后大更新正式发布 Copilot来了](https://www.3dmgame.com/news/202311/3880640.html)
+
++ [《小丑2》摄影师称续集会令人吃惊 是“一部相当冒险的电影”](https://www.3dmgame.com/news/202311/3880638.html)
+
++ [《蜡笔小新：炭之镇的小白》日本明年2月发售 中文版时间待定](https://www.3dmgame.com/news/202311/3880637.html)
+
++ [《寂静岭：飞升》正式发布 但季票才是真正的噩梦](https://www.3dmgame.com/news/202311/3880636.html)
+
++ [R星确认旗下游戏不再支持win7/8系统 有人还没升级？](https://www.3dmgame.com/news/202311/3880632.html)
+

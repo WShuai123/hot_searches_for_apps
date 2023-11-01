@@ -217,3 +217,7 @@
 
 + [优酷视频-治愈系恋人 全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
 
++ [SNKRS 中国 - 属于你的运动鞋、服装、时尚集结地](https://itunes.apple.com/cn/app/id1623018593?mt=8)
+
++ [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+
