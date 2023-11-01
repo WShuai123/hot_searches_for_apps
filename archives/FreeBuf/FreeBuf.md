@@ -41,3 +41,5 @@
 
 + [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
 
++ [技术分析：CL0P勒索软件组织如何使用Torrent（种子）来传播泄漏数据](https://www.freebuf.com/articles/database/380189.html)
+

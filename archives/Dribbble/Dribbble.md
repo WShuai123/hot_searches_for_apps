@@ -265,3 +265,29 @@
 
 + [Gin](https://dribbble.com/shots/)
 
++ [N neon animated](https://dribbble.com/shots/)
+
++ [James & Dew Logo Design](https://dribbble.com/shots/)
+
++ [Hallo W (Personal '23)](https://dribbble.com/shots/)
+
++ [Style](https://dribbble.com/shots/)
+
++ [Homepage hero sketch](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+
++ [The crow](https://dribbble.com/shots/)
+
++ [AI Chat Tool](https://dribbble.com/shots/)
+
++ [Nike - Mobile App Concept](https://dribbble.com/shots/)
+
++ [CRISTINA CELESTINO studio E-commerce Redesign](https://dribbble.com/shots/)
+
++ [Coworking App](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - Sticker Design Vol. 2](https://dribbble.com/shots/)
+
++ [Halloween Free Vectors](https://dribbble.com/shots/)
+

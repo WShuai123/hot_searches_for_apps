@@ -31,3 +31,13 @@
 
 + [小米 14 Pro 手机推送 HyperOS 1.0.10.0 系统更新，支持 LHDC 耳机连接](https://m.ithome.com/html/729062.htm)
 
++ [Mate 60 系列销售强劲，消息称华为明年智能手机出货量目标为 1 亿部](https://m.ithome.com/html/729072.htm)
+
++ [小米 / 红米 11.11 好价汇总：K60 16G 版跌破两千，小米水壶 39.9 元限十万台](https://m.ithome.com/html/728999.htm)
+
++ [苹果 M3 Mac 新品发布会视频由 iPhone 15 Pro Max 手机拍摄](https://m.ithome.com/html/728758.htm)
+
++ [苹果新款 M3 MacBook Pro 拥有 Mac 史上最长续航：可连续看视频 22 小时](https://m.ithome.com/html/728772.htm)
+
++ [苹果 M3 入门款 14 寸 MacBook Pro 仅有 2 个 USB-C 接口](https://m.ithome.com/html/728776.htm)
+

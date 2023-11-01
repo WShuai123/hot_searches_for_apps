@@ -127,3 +127,7 @@
 
 + [Web3公链之Cosmos生态的项目Celestia](https://blog.csdn.net/inthat/article/details/133936896)
 
++ [一条 SQL 是如何在 MyBatis 中执行的](https://blog.csdn.net/agonie201218/article/details/134138741)
+
++ [基于物联网、大数据、云计算、人工智能等技术的智慧工地源码（Java+Spring Cloud +UniApp +MySql）](https://blog.csdn.net/qq_27741787/article/details/134112912)
+
