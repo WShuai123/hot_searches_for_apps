@@ -191,3 +191,17 @@
 
 + [中国科学院发布学术文献公益平台 免费看八千万篇资源](https://www.3dmgame.com/news/202311/3880648.html)
 
++ [《方舟：生存飞升》优化更新，MOD工具ARK Devkit](https://www.3dmgame.com/news/202311/3880655.html)
+
++ [玩家吐槽《全面战争：战锤3》DLC定价高 官方直接封禁处理](https://www.3dmgame.com/news/202311/3880651.html)
+
++ [视觉小说《潜入》11月08日发售 《诡闻斋》系列漫画改编](https://www.3dmgame.com/news/202311/3880654.html)
+
++ [RTX 4090禁售时间确定！各大品牌疯狂放货](https://www.3dmgame.com/news/202311/3880653.html)
+
++ [尚未腰斩 《咒术回战 Phantom Parade》发布五条悟介绍动画](https://www.3dmgame.com/news/202311/3880652.html)
+
++ [AMD第三季度业绩增长 AI领域将成为业务发展关键](https://www.3dmgame.com/news/202311/3880650.html)
+
++ [游戏活动Archipel Caravan12月举行 饭野贤治去世10周年纪念](https://www.3dmgame.com/news/202311/3880649.html)
+

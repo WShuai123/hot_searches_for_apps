@@ -61,3 +61,5 @@
 
 + [全新 M3 芯片版深空黑 MacBook 和彩虹 iMac 发布，苹果牙膏用力挤了挤](https://m.ithome.com/html/729009.htm)
 
++ [vivo 自研蓝河操作系统 BlueOS 发布：支持大模型，Rust 语言编写框架](https://m.ithome.com/html/729188.htm)
+

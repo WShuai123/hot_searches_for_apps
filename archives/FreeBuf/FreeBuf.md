@@ -57,3 +57,5 @@
 
 + [Windows x64 ShellCode加载技术（上篇）：本地进程加载](https://www.freebuf.com/articles/system/381467.html)
 
++ [PurpleOps：一款自托管的开源紫队管理Web应用程序](https://www.freebuf.com/sectool/380216.html)
+

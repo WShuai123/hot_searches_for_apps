@@ -161,3 +161,11 @@
 
 + [软件安利——火绒安全](https://blog.csdn.net/jsl123x/article/details/134149271)
 
++ [Spring Boot指标监控及日志管理](https://blog.csdn.net/qq_53317005/article/details/133486209)
+
++ [解密人工智能：KNN | K-均值 | 降维算法 | 梯度Boosting算法 | AdaBoosting算法](https://blog.csdn.net/weixin_63115236/article/details/134155085)
+
++ [Kubernetes异常？别担心，100个命令来解救你](https://blog.csdn.net/fly910905/article/details/134153596)
+
++ [微信小程序-授权登录(手机号码)](https://blog.csdn.net/zw899004/article/details/134143822)
+
