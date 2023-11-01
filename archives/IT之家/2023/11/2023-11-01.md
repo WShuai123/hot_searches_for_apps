@@ -69,3 +69,7 @@
 
 + [vivo 自研蓝河操作系统不兼容安卓应用](https://m.ithome.com/html/729257.htm)
 
++ [11.11 巅峰秒杀 28 小时：1.1 元无门槛红包人人有份，小米 Redmi K60 16G 版手机 1879 元破冰新低](https://m.ithome.com/html/729089.htm)
+
++ [京东 iPhone 狂促加码，15 系列立减 851 元，15 Pro 全系现货 + 减 800 元](https://m.ithome.com/html/729127.htm)
+

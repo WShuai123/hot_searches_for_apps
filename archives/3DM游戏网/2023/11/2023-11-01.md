@@ -263,3 +263,7 @@
 
 + [英伟达执行美国新规 芯片停供：损失50亿美元订单](https://www.3dmgame.com/news/202311/3880685.html)
 
++ [微星发布6款QD-OLED游戏显示器 从27至49英寸全覆盖](https://www.3dmgame.com/news/202311/3880686.html)
+
++ [黑白漫画悬疑恐怖视觉小说《潜入》将于11月8日登陆Steam](https://www.3dmgame.com/news/202311/3880684.html)
+

@@ -103,3 +103,19 @@
 
 + [这便是君王不早朝的原因吧……](http://www.acfun.cn/v/ac42809201)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千五百一十一期](http://www.acfun.cn/v/ac42811839)
+
++ [线上王者，线下青铜](http://www.acfun.cn/v/ac42819003)
+
++ [《快乐男生》](http://www.acfun.cn/v/ac42817211)
+
++ [是时候练起来了【今天有什么好笑的 #1365】](http://www.acfun.cn/v/ac42817207)
+
++ [酱大骨，精髓都在骨头里](http://www.acfun.cn/v/ac42769462)
+
++ [韩服最强王者菁英对决 #2265ㅣ来](http://www.acfun.cn/v/ac42810233)
+
++ [138元买了个电动车续航王！拆开后人都傻了](http://www.acfun.cn/v/ac42809588)
+
++ [【东方】Happy Halloween【芙兰朵露 万圣Ver. MMD】](http://www.acfun.cn/v/ac42795531)
+
