@@ -75,3 +75,5 @@
 
 + [vivo OriginOS 4 系统发布：搭载私人助理蓝心小 V，采用全新字体](https://m.ithome.com/html/729168.htm)
 
++ [黄仁勋曾纹身庆祝英伟达股价突破 100 美元，如今表示不会再这么做](https://m.ithome.com/html/729154.htm)
+

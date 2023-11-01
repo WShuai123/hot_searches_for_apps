@@ -229,3 +229,5 @@
 
 + [MightyMeld](https://www.producthunt.com/posts/mightymeld)
 
++ [Huck: Ultimate Scoreboard](https://www.producthunt.com/posts/huck-ultimate-scoreboard)
+

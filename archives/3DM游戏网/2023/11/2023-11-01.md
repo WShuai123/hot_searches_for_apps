@@ -269,3 +269,5 @@
 
 + [《匹诺曹的谎言》总监确认将开发续作](https://www.3dmgame.com/news/202311/3880687.html)
 
++ [数毛社：《心灵杀手2》XSX版比PS5版表现更好](https://www.3dmgame.com/news/202311/3880688.html)
+

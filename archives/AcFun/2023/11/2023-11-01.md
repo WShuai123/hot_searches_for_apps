@@ -123,3 +123,17 @@
 
 + [为什么别人戴眼镜这么好看？【今日好笑视频 #529】](http://www.acfun.cn/v/ac42809300)
 
++ [完美复刻「吉米的水杯」【ABQ好物】](http://www.acfun.cn/v/ac42819646)
+
++ [比亚迪VS马路三大妈！谁是最强买菜车？](http://www.acfun.cn/v/ac42814169)
+
++ [测评acfun唐茶推荐的报警器](http://www.acfun.cn/v/ac42819065)
+
++ [无所谓，我会向这个世界放屁（）](http://www.acfun.cn/v/ac42810447)
+
++ [Happy Halloween ～小蘑菇也想要糖果！](http://www.acfun.cn/v/ac42819152)
+
++ [98元！肥肠鳝鱼双拼干拌面，你们会来吃吗？](http://www.acfun.cn/v/ac42818526)
+
++ [没用的，Acer是不会动摇道心的！欢乐八点档-725](http://www.acfun.cn/v/ac42820058)
+
