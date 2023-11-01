@@ -63,3 +63,5 @@
 
 + [招聘！北银金融租赁有限公司招人啦！](https://www.freebuf.com/jobs/382461.html)
 
++ [白话零信任技术架构之SDP2.0](https://www.freebuf.com/articles/database/378939.html)
+

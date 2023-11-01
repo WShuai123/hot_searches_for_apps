@@ -239,3 +239,15 @@
 
 + [与“神研社”一起解开世界真相《天狼星奇谭》今日众筹上线](https://www.3dmgame.com/news/202311/3880664.html)
 
++ [《星空》发售两月后的表现依旧惊艳 粉丝爱玩](https://www.3dmgame.com/news/202311/3880674.html)
+
++ [《堡垒之夜》卢森堡分部被曝巨额偷漏税 三年间约30亿日元](https://www.3dmgame.com/news/202311/3880679.html)
+
++ [世界第二例接受猪心脏移植患者6周后死亡：比第一例存活时间更短](https://www.3dmgame.com/news/202311/3880678.html)
+
++ [微软和西门子将AI引入制造业 仿真时间缩短至几分钟](https://www.3dmgame.com/news/202311/3880676.html)
+
++ [《帝国时代2：决定版》新DLC“皇家山脉”发售 定价89元](https://www.3dmgame.com/news/202311/3880675.html)
+
++ [继华为小米之后 vivo自研“蓝河”操作系统正式发布](https://www.3dmgame.com/news/202311/3880673.html)
+

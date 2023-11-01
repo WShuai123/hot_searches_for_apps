@@ -67,3 +67,5 @@
 
 + [vivo OriginOS 4 首发虚拟显卡：支持光追、插帧和超分技术](https://m.ithome.com/html/729182.htm)
 
++ [vivo 自研蓝河操作系统不兼容安卓应用](https://m.ithome.com/html/729257.htm)
+

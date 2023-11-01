@@ -183,3 +183,9 @@
 
 + [数模竞赛那么累，究竟能给我带来什么？](https://blog.csdn.net/qq_37345758/article/details/134156603)
 
++ [无需服务器内网穿透Windows下快速搭建个人WEB项目](https://blog.csdn.net/2301_80092713/article/details/134155747)
+
++ [在Spring Boot中使用国产数据库连接池Druid](https://blog.csdn.net/qq_45922256/article/details/134156658)
+
++ [自学SLAM（6）相机与图像实践：OpenCV处理图像与图像拼接(点云)](https://blog.csdn.net/qq_57425280/article/details/134143614)
+
