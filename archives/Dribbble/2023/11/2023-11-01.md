@@ -371,3 +371,15 @@
 
 + [Cannabis Gummies Package Design Pouch](https://dribbble.com/shots/)
 
++ [Capify Fintech Logo](https://dribbble.com/shots/)
+
++ [Penrith Panthers](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 03](https://dribbble.com/shots/)
+
++ [Car Rental Platform](https://dribbble.com/shots/)
+
++ [Accountability Partner App](https://dribbble.com/shots/)
+
++ [CCC — Brand Identity](https://dribbble.com/shots/)
+

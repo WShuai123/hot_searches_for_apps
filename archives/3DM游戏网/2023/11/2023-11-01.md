@@ -251,3 +251,15 @@
 
 + [继华为小米之后 vivo自研“蓝河”操作系统正式发布](https://www.3dmgame.com/news/202311/3880673.html)
 
++ [碎片化严重！安卓份额占比公布：安卓13拔得头筹](https://www.3dmgame.com/news/202311/3880677.html)
+
++ [长江存储232层闪存揭秘：世界第一！独特设计无敌](https://www.3dmgame.com/news/202311/3880680.html)
+
++ [现在就加入 Steam 上的《阿拉斯加卡车司机》“不给糖就偷油”活动吧！](https://www.3dmgame.com/news/202311/3880681.html)
+
++ [2023 CiGADC完整日程公开！联合CRI TechSummit带给开发者3天优质行业干货分享！](https://www.3dmgame.com/news/202311/3880682.html)
+
++ [GTAOL：万圣节来临之际，灵异和超自然现象的报道不断增加](https://www.3dmgame.com/news/202311/3880683.html)
+
++ [英伟达执行美国新规 芯片停供：损失50亿美元订单](https://www.3dmgame.com/news/202311/3880685.html)
+

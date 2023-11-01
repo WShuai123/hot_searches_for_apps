@@ -189,3 +189,7 @@
 
 + [自学SLAM（6）相机与图像实践：OpenCV处理图像与图像拼接(点云)](https://blog.csdn.net/qq_57425280/article/details/134143614)
 
++ [深度学习（4）---生成式对抗网络(GAN)](https://blog.csdn.net/m0_62881487/article/details/134103517)
+
++ [【从零开始学习Linux】一文带你了解Shell外壳及用户权限（一）](https://blog.csdn.net/m0_75219751/article/details/134095162)
+
