@@ -151,3 +151,13 @@
 
 + [安防监控项目---web网页通过A9控制Zigbee终端节点的风扇](https://blog.csdn.net/weixin_58016534/article/details/134137887)
 
++ [机器学习(六)构建机器学习模型](https://blog.csdn.net/xianyu120/article/details/134147220)
+
++ [【爬虫系统设计系列】模板爬虫的动态配置策略设计与实现](https://blog.csdn.net/qiulin_wu/article/details/134116941)
+
++ [网际协议IP](https://blog.csdn.net/m0_61386859/article/details/134119678)
+
++ [让SOME/IP运转起来——SOME/IP系统设计（上）](https://blog.csdn.net/Hirain1234/article/details/134154886)
+
++ [软件安利——火绒安全](https://blog.csdn.net/jsl123x/article/details/134149271)
+
