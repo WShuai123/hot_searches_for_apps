@@ -271,3 +271,11 @@
 
 + [数毛社：《心灵杀手2》XSX版比PS5版表现更好](https://www.3dmgame.com/news/202311/3880688.html)
 
++ [《遗迹2》首款DLC预告 11月14日上线](https://www.3dmgame.com/news/202311/3880693.html)
+
++ [传闻：《生化危机9》是系列最大规模和预算游戏](https://www.3dmgame.com/news/202311/3880692.html)
+
++ [传《刺客信条：代号RED》现代故事设定在2090年](https://www.3dmgame.com/news/202311/3880690.html)
+
++ [惊悚片《坠落》将拍摄两部续集 原导演回归](https://www.3dmgame.com/news/202311/3880689.html)
+

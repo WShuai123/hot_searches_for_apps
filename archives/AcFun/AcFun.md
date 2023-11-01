@@ -137,3 +137,11 @@
 
 + [没用的，Acer是不会动摇道心的！欢乐八点档-725](http://www.acfun.cn/v/ac42820058)
 
++ [一条汽车生产线，我竟找不出两辆一模一样的车？](http://www.acfun.cn/v/ac42820391)
+
++ [【万圣节的小鸽子】TickTrick](http://www.acfun.cn/v/ac42819898)
+
++ [竖屏 肉O肉O Rollin](http://www.acfun.cn/v/ac42810651)
+
++ [萌宠集合，这才是猛男该看的！ 第三百一十九期](http://www.acfun.cn/v/ac42809929)
+

@@ -207,3 +207,5 @@
 
 + [为什么前端用vue的公司越来越多?](https://blog.csdn.net/finogeeks/article/details/134163480)
 
++ [【ChatGPT从瀑布模式到水母模式】如何赋能软件研发全流程？](https://blog.csdn.net/2301_77485708/article/details/134070993)
+
