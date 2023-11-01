@@ -195,3 +195,21 @@
 
 + [Geometric Polar Bear Logo](https://dribbble.com/shots/)
 
++ [Piccolo's Pickles No.2](https://dribbble.com/shots/)
+
++ [Capify Fintech Logo](https://dribbble.com/shots/)
+
++ [Halloween Illustrations](https://dribbble.com/shots/)
+
++ [The Black Sheep](https://dribbble.com/shots/)
+
++ [Ooooooo ... I'm late (Personal '23)](https://dribbble.com/shots/)
+
++ [N shape animated](https://dribbble.com/shots/)
+
++ [Rockford House](https://dribbble.com/shots/)
+
++ [Work friends](https://dribbble.com/shots/)
+
++ [Nike - Mobile App Concept](https://dribbble.com/shots/)
+
