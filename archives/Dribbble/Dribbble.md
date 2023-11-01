@@ -179,3 +179,19 @@
 
 + [appandflow/work](https://dribbble.com/shots/)
 
++ [Pepper & Salt BBQ - Sticker Design Vol. 2](https://dribbble.com/shots/)
+
++ [Mocktober - The Teller](https://dribbble.com/shots/)
+
++ [Dangerous Ideas - 03](https://dribbble.com/shots/)
+
++ [Forager - OUT NOW!](https://dribbble.com/shots/)
+
++ [Witch's Brew](https://dribbble.com/shots/)
+
++ [Pakistan Travel Map](https://dribbble.com/shots/)
+
++ [Alaska Gear Lab](https://dribbble.com/shots/)
+
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+

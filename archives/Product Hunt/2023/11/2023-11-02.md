@@ -109,3 +109,7 @@
 
 + [Exports for Trello](https://www.producthunt.com/posts/exports-for-trello)
 
++ [Jumble Journal](https://www.producthunt.com/posts/jumble-journal)
+
++ [Docus.ai](https://www.producthunt.com/posts/docus-ai)
+
