@@ -59,3 +59,7 @@
 
 + [PurpleOps：一款自托管的开源紫队管理Web应用程序](https://www.freebuf.com/sectool/380216.html)
 
++ [网安上市公司三季报：大环境好转，业内公司需抓紧“修炼内功” | FreeBuf洞察](https://www.freebuf.com/articles/neopoints/382471.html)
+
++ [招聘！北银金融租赁有限公司招人啦！](https://www.freebuf.com/jobs/382461.html)
+

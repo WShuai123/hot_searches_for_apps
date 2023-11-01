@@ -205,3 +205,19 @@
 
 + [游戏活动Archipel Caravan12月举行 饭野贤治去世10周年纪念](https://www.3dmgame.com/news/202311/3880649.html)
 
++ [《心灵杀手2》媒体赞誉图公布：满分太多了！](https://www.3dmgame.com/news/202311/3880663.html)
+
++ [NASA分享宇航员万圣节装扮 星战马里奥超人](https://www.3dmgame.com/news/202311/3880662.html)
+
++ [传闻：《战神：诸神黄昏》DLC将在今年年底公布](https://www.3dmgame.com/news/202311/3880661.html)
+
++ [恐怖游戏《波比游戏时间》第三章Steam页面上线 年内发售](https://www.3dmgame.com/news/202311/3880660.html)
+
++ [漫改TV动画《怪异与少女与神隐》首支正式PV公布](https://www.3dmgame.com/news/202311/3880659.html)
+
++ [《The Police Mystery》登陆Steam 小人国警官冒险物语](https://www.3dmgame.com/news/202311/3880658.html)
+
++ [KK对战平台战令S1启程，500%超值豪华奖励等你探索！](https://www.3dmgame.com/news/202311/3880657.html)
+
++ [本周Fami通游戏评分出炉 《瓦里奥制造》获35分](https://www.3dmgame.com/news/202311/3880656.html)
+

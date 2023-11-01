@@ -63,3 +63,7 @@
 
 + [vivo 自研蓝河操作系统 BlueOS 发布：支持大模型，Rust 语言编写框架](https://m.ithome.com/html/729188.htm)
 
++ [世界第二例猪心脏移植患者 6 周后去世，比第一例存活时间更短](https://m.ithome.com/html/729202.htm)
+
++ [vivo OriginOS 4 首发虚拟显卡：支持光追、插帧和超分技术](https://m.ithome.com/html/729182.htm)
+
