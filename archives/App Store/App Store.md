@@ -201,3 +201,5 @@
 
 + [Top Widgets⁺ - 万能小组件桌面灵动岛手机主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
 
++ [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

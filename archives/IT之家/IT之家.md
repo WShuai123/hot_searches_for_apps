@@ -25,3 +25,7 @@
 
 + [法院查明特斯拉潮州事故与车辆无关：一自媒体被判赔 3 万元并道歉](https://m.ithome.com/html/729196.htm)
 
++ [小米 14 魔改手机存储芯片遭质疑，一文科普修改 OP 背后的逻辑](https://m.ithome.com/html/729390.htm)
+
++ [提醒：搭载基础款 M3 芯片的苹果 MacBook Pro 仅支持外接 1 台显示器](https://m.ithome.com/html/729095.htm)
+

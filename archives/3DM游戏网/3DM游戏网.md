@@ -101,3 +101,9 @@
 
 + [《博德之门3》明年在伦敦举办音乐会 爱乐乐团参与演奏](https://www.3dmgame.com/news/202311/3880642.html)
 
++ [万代《My Hero Ultra Rumble》下载人数突破700万！](https://www.3dmgame.com/news/202311/3880694.html)
+
++ [《星之海洋2：第二个故事R》评分解禁 M站均分86](https://www.3dmgame.com/news/202311/3880695.html)
+
++ [《战地1》《战地5》本月底将不再支持Windows 7和8](https://www.3dmgame.com/news/202311/3880691.html)
+
