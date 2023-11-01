@@ -221,3 +221,21 @@
 
 + [本周Fami通游戏评分出炉 《瓦里奥制造》获35分](https://www.3dmgame.com/news/202311/3880656.html)
 
++ [《觉醒者：遗忘之誓》Steam解锁时间公布 定价58元](https://www.3dmgame.com/news/202311/3880671.html)
+
++ [基努《康斯坦丁2》电影导演确认制作重回正轨](https://www.3dmgame.com/news/202311/3880669.html)
+
++ [扳机社《新 吊带袜天使》将邀请粉丝创作新角色](https://www.3dmgame.com/news/202311/3880670.html)
+
++ [《碧蓝幻想versus：崛起》 宣布延期 12月14日发售](https://www.3dmgame.com/news/202311/3880668.html)
+
++ [《龙之信条2》全新截图 丧尸骷髅史莱姆介绍](https://www.3dmgame.com/news/202311/3880667.html)
+
++ [《进击的巨人》动画完结纪念书公布 豪华资料周边附赠](https://www.3dmgame.com/news/202311/3880666.html)
+
++ [韩国二次元新作《守护女神》公布 胜利女神姐妹版？](https://www.3dmgame.com/news/202311/3880672.html)
+
++ [鼠辈模拟器 城市建造游戏《鼠托帮》现已在Steam开启抢先体验](https://www.3dmgame.com/news/202311/3880665.html)
+
++ [与“神研社”一起解开世界真相《天狼星奇谭》今日众筹上线](https://www.3dmgame.com/news/202311/3880664.html)
+

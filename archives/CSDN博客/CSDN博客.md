@@ -175,3 +175,11 @@
 
 + [鸿蒙实现类似于安卓的Handler，鸿蒙的延迟和异步操作](https://blog.csdn.net/As_thin/article/details/134138823)
 
++ [【ElasticSearch系列-03】ElasticSearch的高级句法查询Query DSL](https://blog.csdn.net/zhenghuishengq/article/details/134159587)
+
++ [websocket网络聊天室](https://blog.csdn.net/weixin_64822448/article/details/134150435)
+
++ [【前端系列】Element-UI 悟道](https://blog.csdn.net/qyj19920704/article/details/134159697)
+
++ [数模竞赛那么累，究竟能给我带来什么？](https://blog.csdn.net/qq_37345758/article/details/134156603)
+

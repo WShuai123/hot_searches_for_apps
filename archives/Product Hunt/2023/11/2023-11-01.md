@@ -193,3 +193,19 @@
 
 + [PollySpeak - Text to Speech for iOS](https://www.producthunt.com/posts/pollyspeak-text-to-speech-for-ios)
 
++ [Harriet.ai](https://www.producthunt.com/posts/harriet-ai)
+
++ [KeaML Deployments](https://www.producthunt.com/posts/keaml-deployments)
+
++ [Cookii](https://www.producthunt.com/posts/cookii-2)
+
++ [Hand Mirror](https://www.producthunt.com/posts/hand-mirror-2)
+
++ [AtMailWin](https://www.producthunt.com/posts/atmailwin)
+
++ [The Platform](https://www.producthunt.com/posts/the-platform)
+
++ [Coworkations 2.0](https://www.producthunt.com/posts/coworkations-2-0)
+
++ [P0 Security](https://www.producthunt.com/posts/p0-security)
+
