@@ -213,3 +213,21 @@
 
 + [Nike - Mobile App Concept](https://dribbble.com/shots/)
 
++ [Sasquatch WIP](https://dribbble.com/shots/)
+
++ [Plastic transition for Voice UI](https://dribbble.com/shots/)
+
++ [Watch out!](https://dribbble.com/shots/)
+
++ [KUO DUO](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - T-shirt Design](https://dribbble.com/shots/)
+
++ [Car Rental Dashboard](https://dribbble.com/shots/)
+
++ [Weird Heads](https://dribbble.com/shots/)
+
++ [AP Logo Badge Suite](https://dribbble.com/shots/)
+
++ [Fintech mobile app](https://dribbble.com/shots/)
+

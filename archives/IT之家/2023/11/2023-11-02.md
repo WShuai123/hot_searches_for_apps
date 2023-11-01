@@ -29,3 +29,7 @@
 
 + [提醒：搭载基础款 M3 芯片的苹果 MacBook Pro 仅支持外接 1 台显示器](https://m.ithome.com/html/729095.htm)
 
++ [苹果 M3 芯片首个 Geekbench 跑分（iMac 2023）出炉：频率达 4.05 GHz，GB6 单核 3076 分](https://m.ithome.com/html/729384.htm)
+
++ [vivo OriginOS 4 公测适配计划公布：X100、iQOO 12 手机首发搭载](https://m.ithome.com/html/729190.htm)
+
