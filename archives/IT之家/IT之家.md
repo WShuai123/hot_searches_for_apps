@@ -41,3 +41,13 @@
 
 + [苹果 M3 入门款 14 寸 MacBook Pro 仅有 2 个 USB-C 接口](https://m.ithome.com/html/728776.htm)
 
++ [小米双 11 开门红战报：全渠道累计支付金额破 100 亿元](https://m.ithome.com/html/729090.htm)
+
++ [21:00 京东茅台 1 分购，天猫加抽 40 万个大额红包](https://m.ithome.com/html/728919.htm)
+
++ [每种颜色限量 100 件：iPhone 15 手机 2999 元京东百亿补贴](https://m.ithome.com/html/728917.htm)
+
++ [22~28 万元，比亚迪全新 B 级纯电猎跑 SUV 车型宋 L 预售：无框车门 + 升降尾翼](https://m.ithome.com/html/729045.htm)
+
++ [华为 nova 11 SE 手机发布：1 亿像素主摄 + 骁龙 680，售价 1999 元起](https://m.ithome.com/html/728808.htm)
+

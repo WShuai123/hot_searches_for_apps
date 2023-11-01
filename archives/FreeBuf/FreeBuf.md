@@ -43,3 +43,7 @@
 
 + [技术分析：CL0P勒索软件组织如何使用Torrent（种子）来传播泄漏数据](https://www.freebuf.com/articles/database/380189.html)
 
++ [FreeBuf早报 | 印度最大数据泄露事件；加拿大禁止政府设备使用微信](https://www.freebuf.com/news/382385.html)
+
++ [针对NFC-RFID屏蔽卡的信号绕过攻击](https://www.freebuf.com/vuls/382162.html)
+

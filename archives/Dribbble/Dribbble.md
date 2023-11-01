@@ -291,3 +291,13 @@
 
 + [Halloween Free Vectors](https://dribbble.com/shots/)
 
++ [Digital Cheetah](https://dribbble.com/shots/)
+
++ [Vectober 2023 25 // Coral](https://dribbble.com/shots/)
+
++ [Playlist AI iOS App Icon](https://dribbble.com/shots/)
+
++ [Tankbusters - case study](https://dribbble.com/shots/)
+
++ [Mocktober - Whispers from the Void](https://dribbble.com/shots/)
+
