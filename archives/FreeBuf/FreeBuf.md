@@ -47,3 +47,5 @@
 
 + [针对NFC-RFID屏蔽卡的信号绕过攻击](https://www.freebuf.com/vuls/382162.html)
 
++ [【跨国议题】AI在企业内部的机遇与挑战；如何保障多云环境安全 | FCIS 2023 大会议题前瞻](https://www.freebuf.com/fevents/382362.html)
+

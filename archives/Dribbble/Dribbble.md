@@ -301,3 +301,15 @@
 
 + [Mocktober - Whispers from the Void](https://dribbble.com/shots/)
 
++ [AVA Remote control 3d Glass](https://dribbble.com/shots/)
+
++ [Halloween - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Pepper & Salt BBQ - T-shirt Design](https://dribbble.com/shots/)
+
++ [Dangerous Ideas 2](https://dribbble.com/shots/)
+
++ [Business Startup Website](https://dribbble.com/shots/)
+
++ [Hoolest](https://dribbble.com/shots/)
+

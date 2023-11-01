@@ -135,3 +135,13 @@
 
 + [『VUE H5页面 - PDF预览』](https://blog.csdn.net/csheng88/article/details/134120316)
 
++ [FPGA与ASIC有什么差异？二者该如何选用？](https://blog.csdn.net/wuzhikaidetb/article/details/134113123)
+
++ [Spring Cloud Alibaba 之 Sentinel](https://blog.csdn.net/s445320/article/details/134149339)
+
++ [【好书推荐】ChatGPT 驱动软件开发：AI 在软件研发全流程中的革新与实践](https://blog.csdn.net/m0_68662723/article/details/134150322)
+
++ [【网安AIGC专题11.1】（顶刊OpenAI API调用）CodeX（比chatgpt更好）用于命名实体识别NER和关系抽取RE：提示工程设计+控制变量对比实验（格式一致性、模型忠实度、细粒度性能）](https://blog.csdn.net/wtyuong/article/details/134145851)
+
++ [数据结构与算法-树和森林](https://blog.csdn.net/qq_73121173/article/details/134129499)
+

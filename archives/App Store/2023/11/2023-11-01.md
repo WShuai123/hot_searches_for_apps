@@ -215,3 +215,5 @@
 
 + [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
 
++ [优酷视频-治愈系恋人 全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
+

@@ -125,3 +125,39 @@
 
 + [《铁拳8》新预告揭晓5位深受喜爱的角色将回归](https://www.3dmgame.com/news/202311/3880603.html)
 
++ [《匹诺曹的谎言》未来更新计划公布 DLC正在制作中](https://www.3dmgame.com/news/202311/3880616.html)
+
++ [雅达利2千万美元收购老牌开发商Digital Eclipse](https://www.3dmgame.com/news/202311/3880617.html)
+
++ [直播平台Twitch宣布终止Switch版服务 应用即将下架](https://www.3dmgame.com/news/202311/3880618.html)
+
++ [全新班迪恐怖游戏《班迪：牢笼》前瞻预告 发售日期待定](https://www.3dmgame.com/news/202311/3880620.html)
+
++ [《博德之门3》Xbox版仍将在今年底推出 期待吗？](https://www.3dmgame.com/news/202311/3880619.html)
+
++ [《Buried》steam页面上线 幽闭空间恐怖悬疑新游](https://www.3dmgame.com/news/202311/3880621.html)
+
++ [育碧首席人事官将于月底离职 因公司丑闻被任命](https://www.3dmgame.com/news/202311/3880622.html)
+
++ [官博更新 《使命召唤：现代战争3》准备就绪](https://www.3dmgame.com/news/202311/3880623.html)
+
++ [免费FPS《最终决战》12分钟B测演示](https://www.3dmgame.com/news/202311/3880624.html)
+
++ [《暗黑4》吸血鬼猎人通缉活动预告 女星莎拉出镜](https://www.3dmgame.com/news/202311/3880625.html)
+
++ [《吸血鬼幸存者》官方提醒咒文 可解锁英雄万圣节皮肤](https://www.3dmgame.com/news/202311/3880626.html)
+
++ [策略肉鸽游戏《Everwarder》将于本周开启测试](https://www.3dmgame.com/news/202311/3880627.html)
+
++ [互动剧《寂静岭飞升》宣传片 现已上线](https://www.3dmgame.com/news/202311/3880628.html)
+
++ [《王者荣耀》美人鱼朵莉亚将上线 大招可刷新队友CD](https://www.3dmgame.com/news/202311/3880629.html)
+
++ [Bungie首席配乐和大量老将被裁 引粉丝强烈不满](https://www.3dmgame.com/news/202311/3880630.html)
+
++ [《量子误差》M站均分仅47 开发商回应接受批评拒绝辱骂](https://www.3dmgame.com/news/202311/3880631.html)
+
++ [《Mecha Blitz》steam页面上线 定制组装机甲战斗](https://www.3dmgame.com/news/202311/3880633.html)
+
++ [《使命召唤20：现代战争3》多人首发模式公布 更多后续推出](https://www.3dmgame.com/news/202311/3880635.html)
+

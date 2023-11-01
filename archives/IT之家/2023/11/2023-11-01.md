@@ -51,3 +51,7 @@
 
 + [华为 nova 11 SE 手机发布：1 亿像素主摄 + 骁龙 680，售价 1999 元起](https://m.ithome.com/html/728808.htm)
 
++ [11.11 巅峰秒杀 28 小时：小米 Redmi K60 16G 版手机 1879 元破冰新低，三星 S23 Ultra 重回 5999 元探底好价](https://m.ithome.com/html/729089.htm)
+
++ [微软正式推出 Win11 23H2，AI 助手 Copilot 来了](https://m.ithome.com/html/729094.htm)
+
