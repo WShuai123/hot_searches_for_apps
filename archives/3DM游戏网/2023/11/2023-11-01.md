@@ -175,3 +175,17 @@
 
 + [R星确认旗下游戏不再支持win7/8系统 有人还没升级？](https://www.3dmgame.com/news/202311/3880632.html)
 
++ [小米14首销4小时 打破近一年国产手机全天销售记录](https://www.3dmgame.com/news/202311/3880647.html)
+
++ [《战争机器》主创认为游戏需要“战神式”重启](https://www.3dmgame.com/news/202311/3880646.html)
+
++ [《战争机器》主创：支持扎克·施奈德执导真人电影](https://www.3dmgame.com/news/202311/3880645.html)
+
++ [丧尸剧《甜蜜家园》第二季预告  12月1日播出](https://www.3dmgame.com/news/202311/3880644.html)
+
++ [《REMORE: INFESTED KINGDOM》steam抢测 回合制战术RPG](https://www.3dmgame.com/news/202311/3880643.html)
+
++ [CDPR希望《赛博朋克》系列能像《巫师》一样“进化”](https://www.3dmgame.com/news/202311/3880641.html)
+
++ [《博德之门3》明年在伦敦举办音乐会 爱乐乐团参与演奏](https://www.3dmgame.com/news/202311/3880642.html)
+

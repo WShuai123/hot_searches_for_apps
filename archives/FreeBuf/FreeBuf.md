@@ -55,3 +55,5 @@
 
 + [美国等40国联盟将签署承诺，拒绝向黑客支付赎金](https://www.freebuf.com/news/382416.html)
 
++ [Windows x64 ShellCode加载技术（上篇）：本地进程加载](https://www.freebuf.com/articles/system/381467.html)
+

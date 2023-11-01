@@ -325,3 +325,15 @@
 
 + [Fitness app design](https://dribbble.com/shots/)
 
++ [Walking Mountain](https://dribbble.com/shots/)
+
++ [Ncoded Chip animation](https://dribbble.com/shots/)
+
++ [Halloween Illustrations](https://dribbble.com/shots/)
+
++ [Wakefield Trinity](https://dribbble.com/shots/)
+
++ [Halloline (Personal '23)](https://dribbble.com/shots/)
+
++ [Happy Halloween????????????️????????](https://dribbble.com/shots/)
+

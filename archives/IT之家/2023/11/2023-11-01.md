@@ -57,3 +57,7 @@
 
 + [ChatGPT 真实参数只有 200 亿，首次被微软曝光！网友：难怪 OpenAI 对开源很紧张](https://m.ithome.com/html/729080.htm)
 
++ [再降 100 元：Redmi K60 手机 16G 版 1879 元破冰新低](https://m.ithome.com/html/729086.htm)
+
++ [全新 M3 芯片版深空黑 MacBook 和彩虹 iMac 发布，苹果牙膏用力挤了挤](https://m.ithome.com/html/729009.htm)
+
