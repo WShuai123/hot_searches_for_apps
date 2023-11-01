@@ -199,3 +199,7 @@
 
 + [2023大湾区粤港澳金融数学建模思路代码分享](https://blog.csdn.net/yeqianqian_/article/details/134158977)
 
++ [Linux基本网页访问--防火墙、服务管理、selinux强制访问](https://blog.csdn.net/ZQXSSJHK/article/details/134161155)
+
++ [avi怎么转mp4？](https://blog.csdn.net/yososoft/article/details/134165562)
+

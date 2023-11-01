@@ -73,3 +73,5 @@
 
 + [京东 iPhone 狂促加码，15 系列立减 851 元，15 Pro 全系现货 + 减 800 元](https://m.ithome.com/html/729127.htm)
 
++ [vivo OriginOS 4 系统发布：搭载私人助理蓝心小 V，采用全新字体](https://m.ithome.com/html/729168.htm)
+

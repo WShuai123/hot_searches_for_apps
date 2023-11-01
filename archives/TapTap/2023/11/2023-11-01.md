@@ -25,3 +25,5 @@
 
 + [明日方舟](https://www.taptap.cn/app/70253)
 
++ [开局抽取超级天赋](https://www.taptap.cn/app/420904)
+

@@ -389,3 +389,9 @@
 
 + [Case Study: Virtual Reality Studio](https://dribbble.com/shots/)
 
++ [Mocktober - Apparition Apprehension](https://dribbble.com/shots/)
+
++ [Safe Drive: Share Your Location](https://dribbble.com/shots/)
+
++ [Mashreq Bank - Icons / Spot Illustrations](https://dribbble.com/shots/)
+

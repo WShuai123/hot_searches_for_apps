@@ -267,3 +267,5 @@
 
 + [黑白漫画悬疑恐怖视觉小说《潜入》将于11月8日登陆Steam](https://www.3dmgame.com/news/202311/3880684.html)
 
++ [《匹诺曹的谎言》总监确认将开发续作](https://www.3dmgame.com/news/202311/3880687.html)
+
