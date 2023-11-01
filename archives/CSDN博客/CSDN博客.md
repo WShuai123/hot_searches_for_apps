@@ -101,3 +101,25 @@
 
 + [《C Primer Plus(第6版)》中文版PDF电子版下载（免费）](https://blog.csdn.net/guxiaonuan/article/details/134163450)
 
++ [姿态识别+康复训练矫正+代码+部署（AI 健身教练来分析深蹲等姿态）](https://blog.csdn.net/ALiLiLiYa/article/details/134168545)
+
++ [【python】爬取豆瓣电影排行榜TOP250存储到CSV文件中](https://blog.csdn.net/m0_73367097/article/details/134121460)
+
++ [使用Docker Compose部署Spug并实现内网穿透远程访问](https://blog.csdn.net/st200112266/article/details/134166708)
+
++ [IOS手机耗电量测试](https://blog.csdn.net/2301_78276982/article/details/134169077)
+
++ [Python 算法高级篇：多阶段决策问题与状态转移方程的构建](https://blog.csdn.net/qq_38161040/article/details/134147219)
+
++ [【代码数据】2023粤港澳大湾区金融数学建模B题分享](https://blog.csdn.net/yeqianqian_/article/details/134172164)
+
++ [数据仓库-拉链表](https://blog.csdn.net/wangqiaowq/article/details/134132941)
+
++ [【计算机网络】同源策略及跨域问题](https://blog.csdn.net/XiugongHao/article/details/134166806)
+
++ [Kubernetes异常？别担心，100个命令来解救你](https://blog.csdn.net/fly910905/article/details/134153596)
+
++ [Kubernetes-网络插件](https://blog.csdn.net/weixin_56744753/article/details/134170921)
+
++ [【计算机网络】第二章：应用层](https://blog.csdn.net/qq_73985089/article/details/134168963)
+

@@ -149,3 +149,33 @@
 
 + [Car Rental Platform](https://dribbble.com/shots/)
 
++ [Tokyo Travel Poster Illustration](https://dribbble.com/shots/)
+
++ [A / Letter](https://dribbble.com/shots/)
+
++ [Flower Shower 3D version](https://dribbble.com/shots/)
+
++ [Banking Landing Page](https://dribbble.com/shots/)
+
++ [Octocup Excelente](https://dribbble.com/shots/)
+
++ [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
+
++ [The Vowels of Hell](https://dribbble.com/shots/)
+
++ [Vectober 2023 27 // Pond](https://dribbble.com/shots/)
+
++ [AI Chat tool pt.2](https://dribbble.com/shots/)
+
++ [Got nothing but time](https://dribbble.com/shots/)
+
++ [Salesforce CRM – Customer Engagement Platform](https://dribbble.com/shots/)
+
++ [Diamondbacks World Series 2023 Seal](https://dribbble.com/shots/)
+
++ [Willow- Lifestyle Brand Identity](https://dribbble.com/shots/)
+
++ [Walking Mountain](https://dribbble.com/shots/)
+
++ [appandflow/work](https://dribbble.com/shots/)
+
