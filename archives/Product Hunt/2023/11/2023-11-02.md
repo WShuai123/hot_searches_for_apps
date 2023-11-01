@@ -101,3 +101,5 @@
 
 + [PollySpeak](https://www.producthunt.com/posts/pollyspeak)
 
++ [Benjamin - AI Rewards Shopping Assistant](https://www.producthunt.com/posts/benjamin-ai-rewards-shopping-assistant)
+

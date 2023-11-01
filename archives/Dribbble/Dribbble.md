@@ -91,3 +91,37 @@
 
 + [Ncoded Chip animation](https://dribbble.com/shots/)
 
++ [Solve Et Coagula: Falling Apart and Coming Together](https://dribbble.com/shots/)
+
++ [Stona House](https://dribbble.com/shots/)
+
++ [Cat Pumpkin (Blue)](https://dribbble.com/shots/)
+
++ [Alcova Miami](https://dribbble.com/shots/)
+
++ [Virtual Reality Studio Website](https://dribbble.com/shots/)
+
++ [UX-UI design Protect card mobile animation](https://dribbble.com/shots/)
+
++ [Green Africa](https://dribbble.com/shots/)
+
++ [Bates Smart | Corporate website redesign](https://dribbble.com/shots/)
+
++ [Healthcare service - Mobile app](https://dribbble.com/shots/)
+
++ [Hide_in (Personal '23)](https://dribbble.com/shots/)
+
++ [Minimalist Viking Logo](https://dribbble.com/shots/)
+
++ [Dark UI](https://dribbble.com/shots/)
+
++ [The crow](https://dribbble.com/shots/)
+
++ [S1.E9 | The Power of Brand - with Bill Kenney | Low-Key Legends](https://dribbble.com/shots/)
+
++ [La Hermana No. 2](https://dribbble.com/shots/)
+
++ [Dangerous ideas - 04](https://dribbble.com/shots/)
+
++ [Product Inspiration Board for Figma](https://dribbble.com/shots/)
+
