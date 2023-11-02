@@ -127,3 +127,9 @@
 
 + [【东方MMD】我姓石](http://www.acfun.cn/v/ac42820726)
 
++ [还有高手？](http://www.acfun.cn/v/ac42828651)
+
++ [室友：唱完《花海》才有饭吃](http://www.acfun.cn/v/ac42824773)
+
++ [【Ria】Cynical Night Plan开始游戏吧](http://www.acfun.cn/v/ac42822446)
+
