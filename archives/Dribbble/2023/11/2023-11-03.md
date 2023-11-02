@@ -49,3 +49,21 @@
 
 + [Mercedes-Benz Vinyl (Illustration)](https://dribbble.com/shots/)
 
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+
++ [Colourful Chaos](https://dribbble.com/shots/)
+
++ [Walking Mountain](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+
++ [AVA Remote control 3d Glass](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [A / Letter](https://dribbble.com/shots/)
+
++ [BOO!](https://dribbble.com/shots/)
+

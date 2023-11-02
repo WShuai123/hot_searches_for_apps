@@ -25,3 +25,7 @@
 
 + [因辅助驾驶及车机系统未适配，数百名小鹏 P5 车主联名致信何小鹏](https://m.ithome.com/html/729495.htm)
 
++ [iQOO 12 Pro 手机官宣搭载 IP68 级防尘防水，11 月 7 日发布](https://m.ithome.com/html/729470.htm)
+
++ [消息称阿里 1688 和闲鱼升级为淘天集团一级业务](https://m.ithome.com/html/729530.htm)
+
