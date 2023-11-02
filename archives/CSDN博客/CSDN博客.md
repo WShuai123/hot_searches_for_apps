@@ -209,3 +209,11 @@
 
 + [如何将各种小程序(微信小程序)项目转换为 uni-app 项目](https://blog.csdn.net/AdminGuan/article/details/134178080)
 
++ [CSDN热榜分析6：将实时爬取的热榜数据导入sqlite](https://blog.csdn.net/m0_37816922/article/details/132383710)
+
++ [Talk| 卡耐基梅隆大学博士生徐梦迪：可泛化机器人学习-如何让机器人创造性地使用工具](https://blog.csdn.net/hanseywho/article/details/134130906)
+
++ [嵌入式软件开发：第二部分–七个步骤计划](https://blog.csdn.net/m0_70911440/article/details/134179824)
+
++ [计算机网络-应用层](https://blog.csdn.net/weixin_61426225/article/details/134172690)
+

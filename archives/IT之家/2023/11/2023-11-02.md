@@ -63,3 +63,9 @@
 
 + [辛巴抖音账号被封，知情人士称因其屡次发布不实信息、拉踩引战](https://m.ithome.com/html/729542.htm)
 
++ [“P 反了”2 天才发现，苹果悄然修正官网 MacBook Pro 充电线错误配图](https://m.ithome.com/html/729643.htm)
+
++ [比亚迪秦 PLUS EV 2023 冠军版车型限时直降 1 万元，售价 11.98 万元起](https://m.ithome.com/html/729416.htm)
+
++ [因辅助驾驶及车机系统未适配，数百名小鹏 P5 车主联名致信何小鹏](https://m.ithome.com/html/729495.htm)
+
