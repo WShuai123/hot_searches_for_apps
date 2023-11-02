@@ -63,3 +63,5 @@
 
 + [时隔八年！通用漏洞评分系统标准CVSS v4.0正式发布](https://www.freebuf.com/news/382555.html)
 
++ [小红书数据安全建设实践；亚马逊云科技构建安全合规的AI | FCIS 2023 大会议题前瞻](https://www.freebuf.com/articles/382635.html)
+

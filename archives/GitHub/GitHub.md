@@ -51,3 +51,31 @@
 
 + [facebookresearch / llama](https://github.com/facebookresearch/llama)
 
++ [GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
+
++ [hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+
++ [huggingface / distil-whisper](https://github.com/huggingface/distil-whisper)
+
++ [public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis)
+
++ [jeycaarce / flowers](https://github.com/jeycaarce/flowers)
+
++ [huggingface / transformers](https://github.com/huggingface/transformers)
+
++ [AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter)
+
++ [withastro / astro](https://github.com/withastro/astro)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [lapce / lapce](https://github.com/lapce/lapce)
+
++ [ageitgey / face_recognition](https://github.com/ageitgey/face_recognition)
+
++ [li-plus / chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
+
++ [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube)
+
++ [artichokeee / test-assignments](https://github.com/artichokeee/test-assignments)
+
