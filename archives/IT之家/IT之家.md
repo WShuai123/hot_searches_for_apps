@@ -51,3 +51,7 @@
 
 + [2024 款上汽大众途观 L 车型上市，19.87 万元起](https://m.ithome.com/html/729397.htm)
 
++ [采用钛金属，三星 Galaxy S24 Ultra 手机最新渲染图曝光](https://m.ithome.com/html/729484.htm)
+
++ [调查：你购买 iPhone、安卓手机时，会选择全额还是分期？](https://m.ithome.com/html/729417.htm)
+

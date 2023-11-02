@@ -169,3 +169,7 @@
 
 + [汇编学习记录（一）](https://blog.csdn.net/QXinHan/article/details/134164023)
 
++ [Elasticsearch：在你的数据上训练大型语言模型 (LLM)](https://blog.csdn.net/UbuntuTouch/article/details/134154511)
+
++ [【MySQL】从0到1学会单表查询](https://blog.csdn.net/2301_80760873/article/details/134129908)
+
