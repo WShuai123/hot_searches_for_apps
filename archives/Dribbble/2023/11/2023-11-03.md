@@ -81,3 +81,9 @@
 
 + [The Vowels of Hell](https://dribbble.com/shots/)
 
++ [Piccolo's Pickles No.1](https://dribbble.com/shots/)
+
++ [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
+
++ [Orange Dog Logo](https://dribbble.com/shots/)
+

@@ -69,3 +69,5 @@
 
 + [【Ria】Cynical Night Plan开始游戏吧](http://www.acfun.cn/v/ac42822446)
 
++ [【劈叉兔】IVE最新回归曲Baddie半曲翻跳 四人队形版](http://www.acfun.cn/v/ac42830640)
+
