@@ -59,3 +59,5 @@
 
 + [消息称 7 款国际版小米 Redmi 手机首批升级 HyperOS 澎湃系统](https://m.ithome.com/html/729498.htm)
 
++ [11.11 今日攻略：长江存储 2T 固态 799 元久违发车，零刻 SER7 迷你主机 2779 元狂促](https://m.ithome.com/html/729406.htm)
+

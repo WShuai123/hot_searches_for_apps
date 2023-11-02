@@ -59,3 +59,7 @@
 
 + [如何使用Associated-Threat-Analyzer检测跟Web应用程序相关的恶意IPv4地址和域名](https://www.freebuf.com/sectool/380229.html)
 
++ [年度优秀安全解决方案 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/382511.html)
+
++ [时隔八年！通用漏洞评分系统标准CVSS v4.0正式发布](https://www.freebuf.com/news/382555.html)
+
