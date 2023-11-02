@@ -137,3 +137,9 @@
 
 + [【Linux笔记】Linux进程概念与进程状态](https://blog.csdn.net/kk702392702/article/details/134153521)
 
++ [树莓派使用Nginx+cpolar内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/qq_57761637/article/details/134185850)
+
++ [Redis高可用解决方案之Redis集群，和Spring Cloud集成实战](https://blog.csdn.net/superdangbo/article/details/134185175)
+
++ [【腾讯云HAI域探秘】搭建一个永不宕机的本地SD文本生成图像应用--喂饭级高性能应用HAI部署stable diffusion webui 一键文生图](https://blog.csdn.net/air__Heaven/article/details/134151730)
+
