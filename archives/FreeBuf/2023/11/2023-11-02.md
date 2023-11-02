@@ -41,3 +41,7 @@
 
 + [技术分析：恶意广告投放活动如何通过时效性链接传播HTA脚本](https://www.freebuf.com/articles/network/381854.html)
 
++ [FreeBuf早报 | 多平台启动超50万粉丝自媒体前台实名制；“双11提货卡”骗局现身](https://www.freebuf.com/news/382490.html)
+
++ [揭开勒索软件LostTrust的神秘面纱](https://www.freebuf.com/articles/database/381000.html)
+

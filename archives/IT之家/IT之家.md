@@ -33,3 +33,5 @@
 
 + [vivo OriginOS 4 公测适配计划公布：X100、iQOO 12 手机首发搭载](https://m.ithome.com/html/729190.htm)
 
++ [京东苹果 11.11 加码：iPhone 15 256G 版立减 1201 元百亿补贴](https://m.ithome.com/html/729394.htm)
+

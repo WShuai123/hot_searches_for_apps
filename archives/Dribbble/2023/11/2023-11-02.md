@@ -231,3 +231,29 @@
 
 + [Fintech mobile app](https://dribbble.com/shots/)
 
++ [Case Study: Virtual Reality Studio](https://dribbble.com/shots/)
+
++ [RxB | E-commerce | Redesign](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Halloline (Personal '23)](https://dribbble.com/shots/)
+
++ [3D Icons](https://dribbble.com/shots/)
+
++ [Renewable Energy Landing Page](https://dribbble.com/shots/)
+
++ [Hero moment](https://dribbble.com/shots/)
+
++ [Mercedes-Benz Vinyl (Illustration)](https://dribbble.com/shots/)
+
++ [Fitness app design](https://dribbble.com/shots/)
+
++ [Unloved](https://dribbble.com/shots/)
+
++ [Surfe Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Happy Halloween](https://dribbble.com/shots/)
+
++ [Scooters - Mobile App Concept](https://dribbble.com/shots/)
+
