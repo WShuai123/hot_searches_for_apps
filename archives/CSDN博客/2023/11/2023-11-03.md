@@ -123,3 +123,17 @@
 
 + [计算机网络-应用层](https://blog.csdn.net/weixin_61426225/article/details/134172690)
 
++ [【兔子王赠书第5期】ChatGPT速学通：文案写作+PPT制作+数据分析+知识学习与变现](https://blog.csdn.net/m0_68111267/article/details/134182139)
+
++ [使用Process Explorer/Process Hacker和Windbg高效排查软件高CPU占用问题](https://blog.csdn.net/chenlycly/article/details/134180480)
+
++ [微服务架构之路1，服务如何拆分？使用微服务的注意事项？](https://blog.csdn.net/guorui_java/article/details/134102785)
+
++ [UDP服务端和客户端通信代码开发流程](https://blog.csdn.net/qq_64691289/article/details/134170748)
+
++ [windwos10搭建我的世界服务器，并通过内网穿透实现联机游戏Minecraft](https://blog.csdn.net/2301_76147196/article/details/134183842)
+
++ [API接口安全设计](https://blog.csdn.net/qq_30823993/article/details/134184890)
+
++ [【Linux笔记】Linux进程概念与进程状态](https://blog.csdn.net/kk702392702/article/details/134153521)
+
