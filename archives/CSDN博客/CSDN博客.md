@@ -143,3 +143,15 @@
 
 + [【网络】HTTP协议](https://blog.csdn.net/qq_65207641/article/details/133102601)
 
++ [Docker与NS3之间实现数据通信](https://blog.csdn.net/weixin_50881817/article/details/134154970)
+
++ [【ChatGPT瀑布到水母】AI 在驱动软件研发的革新与实践](https://blog.csdn.net/2202_75623950/article/details/134113944)
+
++ [自学SLAM（6）相机与图像实践：OpenCV处理图像与图像拼接(点云)](https://blog.csdn.net/qq_57425280/article/details/134143614)
+
++ [【MySQL】 复合查询 | 内外连接](https://blog.csdn.net/qq_62939852/article/details/134112657)
+
++ [保障效率与可用，分析Kafka的消费者组与Rebalance机制](https://blog.csdn.net/u011709538/article/details/134053456)
+
++ [无测试组织：测试团队的敏捷转型](https://blog.csdn.net/HHX_01/article/details/134155295)
+

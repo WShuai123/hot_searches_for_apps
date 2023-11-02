@@ -289,3 +289,25 @@
 
 + [BREDA | E-commerce redesign](https://dribbble.com/shots/)
 
++ [Penrith Panthers](https://dribbble.com/shots/)
+
++ [Faraway and Fantastical](https://dribbble.com/shots/)
+
++ [8Luck](https://dribbble.com/shots/)
+
++ [Yakoda](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
++ [Gorilla sketch](https://dribbble.com/shots/)
+
++ [Hotel Building Illustration](https://dribbble.com/shots/)
+
++ [L'ETOILE DU NORD](https://dribbble.com/shots/)
+
++ [Who's there?](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
+

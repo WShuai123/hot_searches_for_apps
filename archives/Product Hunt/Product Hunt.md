@@ -117,3 +117,7 @@
 
 + [LOOKi](https://www.producthunt.com/posts/looki)
 
++ [Bookmarks](https://www.producthunt.com/posts/bookmarks-3)
+
++ [ClicKarma.io](https://www.producthunt.com/posts/clickarma-io)
+

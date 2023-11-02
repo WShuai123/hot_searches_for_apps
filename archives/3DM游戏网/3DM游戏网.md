@@ -147,3 +147,23 @@
 
 + [《孤岛惊魂6》停止更新 在线服务不关闭](https://www.3dmgame.com/news/202311/3880728.html)
 
++ [Roguelite动作游戏《小小诺娅：乐园继承者》登陆Xbox 售价108港币](https://www.3dmgame.com/news/202311/3880737.html)
+
++ [《超级马里奥RPG：重制版》介绍影片 11月17日发售](https://www.3dmgame.com/news/202311/3880738.html)
+
++ [《博德之门3》粉丝在《模拟人生4》中重现游戏角色](https://www.3dmgame.com/news/202311/3880739.html)
+
++ [《晨风》大型MOD更新 包含上百个任务](https://www.3dmgame.com/news/202311/3880740.html)
+
++ [《星之海洋2：第二个故事R》主机版正式发售 3DX2D名作回归](https://www.3dmgame.com/news/202311/3880741.html)
+
++ [迪士尼收购hulu全部股份 花费86.1亿美元](https://www.3dmgame.com/news/202311/3880742.html)
+
++ [Xbox开发人员现可基于Edge改进应用和游戏](https://www.3dmgame.com/news/202311/3880743.html)
+
++ [《城市：天际线2》开发者研究新补丁修复流浪狗的问题](https://www.3dmgame.com/news/202311/3880734.html)
+
++ [《Apex Legends：点燃》现已推出 + 战斗通行证预告片](https://www.3dmgame.com/news/202311/3880735.html)
+
++ [40国联盟将签署承诺 拒绝向勒索软件黑客支付赎金](https://www.3dmgame.com/news/202311/3880736.html)
+

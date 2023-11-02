@@ -39,3 +39,11 @@
 
 + [11.11 今日攻略：长江存储 2T 固态 799 元久违发车，新款 Apple Watch 立减 700 元新低](https://m.ithome.com/html/729406.htm)
 
++ [vivo X100 系列手机定档 11 月 13 日，vivo WATCH 3 手表同步亮相](https://m.ithome.com/html/729217.htm)
+
++ [OpenAI 潜入黑客群聊！将盗版 ChatGPT 换成“喵喵 GPT”，网友：绝对的传奇](https://m.ithome.com/html/729405.htm)
+
++ [全天放货 10 万台：小米 1A 米家电水壶 39.9 元百亿补贴](https://m.ithome.com/html/729375.htm)
+
++ [诺基亚曾规划“潜望镜头”手机，但最终选择 808 PureView“大底高像素”之路](https://m.ithome.com/html/729395.htm)
+

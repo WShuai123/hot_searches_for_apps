@@ -49,3 +49,9 @@
 
 + [《网络安全标准实践指南—粤港澳大湾区跨境个人信息保护要求（征求意见稿）》发布](https://www.freebuf.com/news/382537.html)
 
++ [黑客正在利用 Citrix Bleed 漏洞攻击全球政府网络！](https://www.freebuf.com/news/382563.html)
+
++ [招聘！蚂蚁集团招人啦](https://www.freebuf.com/jobs/382566.html)
+
++ [时隔八年！漏洞严重等级标准CVSS 4.0 全新版本正式发布](https://www.freebuf.com/news/382555.html)
+
