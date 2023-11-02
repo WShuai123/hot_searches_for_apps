@@ -47,3 +47,7 @@
 
 + [诺基亚曾规划“潜望镜头”手机，但最终选择 808 PureView“大底高像素”之路](https://m.ithome.com/html/729395.htm)
 
++ [苹果 M3 Max 芯片跑分曝光，单核成绩比 M2 Ultra 高 9%](https://m.ithome.com/html/729471.htm)
+
++ [2024 款上汽大众途观 L 车型上市，19.87 万元起](https://m.ithome.com/html/729397.htm)
+

@@ -167,3 +167,5 @@
 
 + [40国联盟将签署承诺 拒绝向勒索软件黑客支付赎金](https://www.3dmgame.com/news/202311/3880736.html)
 
++ [苹果加大对印度扶持：印产iPhone激增 还要参与研发](https://www.3dmgame.com/news/202311/3880744.html)
+

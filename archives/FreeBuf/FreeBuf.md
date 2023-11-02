@@ -55,3 +55,5 @@
 
 + [时隔八年！漏洞严重等级标准CVSS 4.0 全新版本正式发布](https://www.freebuf.com/news/382555.html)
 
++ [以DSMM为依据的视频安全解决思路](https://www.freebuf.com/articles/database/381718.html)
+

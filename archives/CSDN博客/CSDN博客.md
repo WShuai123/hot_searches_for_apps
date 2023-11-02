@@ -155,3 +155,17 @@
 
 + [无测试组织：测试团队的敏捷转型](https://blog.csdn.net/HHX_01/article/details/134155295)
 
++ [C++快餐——C++11（3）](https://blog.csdn.net/wzh18907434168/article/details/134109004)
+
++ [【微服务 Spring Cloud Alibaba】- Nacos 服务注册中心](https://blog.csdn.net/xaiobit_hl/article/details/134142521)
+
++ [大模型开启人工智能的新时代](https://blog.csdn.net/brucexia/article/details/134163783)
+
++ [学习Linux/GNU/C++/C过程中遇到的问题](https://blog.csdn.net/tao_sc/article/details/134008297)
+
++ [企业服务总线ESB有什么作用？和微服务有什么区别？会如何发展？](https://blog.csdn.net/weixin_54106890/article/details/134154832)
+
++ [docker离线部署](https://blog.csdn.net/m0_54024707/article/details/134157006)
+
++ [汇编学习记录（一）](https://blog.csdn.net/QXinHan/article/details/134164023)
+

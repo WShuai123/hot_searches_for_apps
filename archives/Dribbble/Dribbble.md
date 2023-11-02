@@ -311,3 +311,11 @@
 
 + [Stylized Halloween Pumpkin](https://dribbble.com/shots/)
 
++ [Wakefield Trinity](https://dribbble.com/shots/)
+
++ [Murder Crow (Ink'd)](https://dribbble.com/shots/)
+
++ [Geometric Guitar Logo](https://dribbble.com/shots/)
+
++ [Colourful Chaos](https://dribbble.com/shots/)
+
