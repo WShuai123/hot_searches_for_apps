@@ -65,3 +65,7 @@
 
 + [《药屋少女的呢喃》-第四集！](http://www.acfun.cn/v/ac42822383)
 
++ [好姐妹天天秀#7【英雄联盟挺好的】](http://www.acfun.cn/v/ac42829518)
+
++ [【Ria】Cynical Night Plan开始游戏吧](http://www.acfun.cn/v/ac42822446)
+

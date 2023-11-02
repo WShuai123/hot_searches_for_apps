@@ -67,3 +67,17 @@
 
 + [BOO!](https://dribbble.com/shots/)
 
++ [Minimalist Viking Logo](https://dribbble.com/shots/)
+
++ [Surfe Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [Ancient Aliens](https://dribbble.com/shots/)
+
++ [Wakefield Trinity](https://dribbble.com/shots/)
+
++ [Dark website for VR lab OberonWeb](https://dribbble.com/shots/)
+
++ [The Vowels of Hell](https://dribbble.com/shots/)
+
