@@ -121,3 +121,39 @@
 
 + [ClicKarma.io](https://www.producthunt.com/posts/clickarma-io)
 
++ [LinkedIn AI-powered Job-Seeker Coach](https://www.producthunt.com/posts/linkedin-ai-powered-job-seeker-coach)
+
++ [Mubert Render 2.0](https://www.producthunt.com/posts/mubert-render-2-0)
+
++ [Artbreeder Tuner](https://www.producthunt.com/posts/artbreeder-tuner)
+
++ [DePortal](https://www.producthunt.com/posts/deportal)
+
++ [Love & Noteit Widget By Sendit](https://www.producthunt.com/posts/love-noteit-widget-by-sendit)
+
++ [Teachify: AI Powered Teaching Assistant](https://www.producthunt.com/posts/teachify-ai-powered-teaching-assistant)
+
++ [KLO Invoicer](https://www.producthunt.com/posts/klo-invoicer)
+
++ [Invitor](https://www.producthunt.com/posts/invitor)
+
++ [SuperFam](https://www.producthunt.com/posts/superfam)
+
++ [Tegro.Money — Web3 payment system](https://www.producthunt.com/posts/tegro-money-web3-payment-system)
+
++ [CoPilot.Live](https://www.producthunt.com/posts/copilot-live)
+
++ [Userdesk](https://www.producthunt.com/posts/userdesk)
+
++ [Noloco for SmartSuite](https://www.producthunt.com/posts/noloco-for-smartsuite)
+
++ [Pump India](https://www.producthunt.com/posts/pump-india)
+
++ [Artwork Flow](https://www.producthunt.com/posts/artwork-flow-3)
+
++ [Vext](https://www.producthunt.com/posts/vext)
+
++ [CardPointers 5](https://www.producthunt.com/posts/cardpointers-5-3)
+
++ [OnlyPans](https://www.producthunt.com/posts/onlypans)
+

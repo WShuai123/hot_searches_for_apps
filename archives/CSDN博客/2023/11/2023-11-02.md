@@ -173,3 +173,13 @@
 
 + [【MySQL】从0到1学会单表查询](https://blog.csdn.net/2301_80760873/article/details/134129908)
 
++ [不一样的编程方式 —— 协程(设计原理与汇编实现)](https://blog.csdn.net/txh1873749380/article/details/134174067)
+
++ [基于Java+Vue+uniapp微信小程序商品展示系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134173872)
+
++ [AI智能语音识别模块（二）——基于Arduino的语音控制MP3播放器](https://blog.csdn.net/qq_42250136/article/details/134132660)
+
++ [开发第一个flutter app的六个关键步骤](https://blog.csdn.net/POHOU23/article/details/134175769)
+
++ [Spring Boot进阶(98)：【实战经验】Spring Boot如何轻松整合Jenkins？](https://blog.csdn.net/weixin_43970743/article/details/134096374)
+
