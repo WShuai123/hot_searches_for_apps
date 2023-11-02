@@ -187,3 +187,7 @@
 
 + [【计算机网络】应用层](https://blog.csdn.net/qq_73985089/article/details/134168963)
 
++ [Docker Compose部署Spug：实现内网穿透](https://blog.csdn.net/st200112266/article/details/134166708)
+
++ [手写数字识别--神经网络实验](https://blog.csdn.net/qq_64079631/article/details/134072332)
+
