@@ -35,3 +35,5 @@
 
 + [京东苹果 11.11 加码：iPhone 15 256G 版立减 1201 元百亿补贴](https://m.ithome.com/html/729394.htm)
 
++ [微信输入法 Windows / Mac 1.0 正式版发布：支持跨设备复制粘贴、词库及常用语同步](https://m.ithome.com/html/729358.htm)
+

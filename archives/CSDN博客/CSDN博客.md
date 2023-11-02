@@ -129,3 +129,5 @@
 
 + [Redis Functions 介绍（一）](https://blog.csdn.net/middleware2018/article/details/134152994)
 
++ [Doris Manager集群的工具，运维更顺畅](https://blog.csdn.net/weixin_41645135/article/details/134171260)
+

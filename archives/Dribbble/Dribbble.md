@@ -257,3 +257,21 @@
 
 + [Scooters - Mobile App Concept](https://dribbble.com/shots/)
 
++ [Lumi Ice Cream Logo Symbol](https://dribbble.com/shots/)
+
++ [Smart Traffic Landing Page](https://dribbble.com/shots/)
+
++ [Posse Website Design](https://dribbble.com/shots/)
+
++ [ASMR on LIVE / Halloween Edition!](https://dribbble.com/shots/)
+
++ [CCC — Logo Design](https://dribbble.com/shots/)
+
++ [Playaudio logo](https://dribbble.com/shots/)
+
++ [N lettermark for an AI Startup](https://dribbble.com/shots/)
+
++ [Cedro El Coco](https://dribbble.com/shots/)
+
++ [Liquor](https://dribbble.com/shots/)
+

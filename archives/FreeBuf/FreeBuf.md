@@ -45,3 +45,7 @@
 
 + [揭开勒索软件LostTrust的神秘面纱](https://www.freebuf.com/articles/database/381000.html)
 
++ [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
+
++ [《网络安全标准实践指南—粤港澳大湾区跨境个人信息保护要求（征求意见稿）》发布](https://www.freebuf.com/news/382537.html)
+
