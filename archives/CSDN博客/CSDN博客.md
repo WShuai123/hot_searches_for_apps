@@ -143,3 +143,5 @@
 
 + [【腾讯云HAI域探秘】搭建一个永不宕机的本地SD文本生成图像应用--喂饭级高性能应用HAI部署stable diffusion webui 一键文生图](https://blog.csdn.net/air__Heaven/article/details/134151730)
 
++ [硬件加速器及其深度神经网络模型的性能指标理解](https://blog.csdn.net/qq_46009046/article/details/134141429)
+

@@ -101,3 +101,41 @@
 
 + [继华为小米之后 vivo自研“蓝河”操作系统正式发布](https://www.3dmgame.com/news/202311/3880673.html)
 
++ [势头强劲！《EA Sports FC 24》首月吸引玩家超1450万人](https://www.3dmgame.com/news/202311/3880788.html)
+
++ [《反恐精英2》10月份流失了超18万玩家](https://www.3dmgame.com/news/202311/3880786.html)
+
++ [Fami通新一周销量榜 《超级马里奥兄弟：惊奇》二连冠](https://www.3dmgame.com/news/202311/3880787.html)
+
++ [鬼蟹成立新工作室 公布3A级奇幻MMO《Ghost》](https://www.3dmgame.com/news/202311/3880784.html)
+
++ [传《复联6》主角将是蜘蛛侠和金刚狼 托比马奎尔版和休·杰克曼版将回归](https://www.3dmgame.com/news/202311/3880785.html)
+
++ [潮州特斯拉2死事故鉴定结果 法院已查明与车辆无关](https://www.3dmgame.com/news/202311/3880781.html)
+
++ [《使命召唤：现代战争3》偷跑 战役任务视频泄露](https://www.3dmgame.com/news/202311/3880783.html)
+
++ [苹果客服回应App自动扣费3年8千元：只能退450元](https://www.3dmgame.com/news/202311/3880780.html)
+
++ [小米14系列是阶段性成果 雷军：小米手机会越来越好](https://www.3dmgame.com/news/202311/3880779.html)
+
++ [电视剧《仙剑4》要来了 玩家：给童年留点回忆吧](https://www.3dmgame.com/news/202311/3880778.html)
+
++ [腾讯《三角洲行动》11月3日10点开测 最低3060显卡](https://www.3dmgame.com/news/202311/3880789.html)
+
++ [Epic喜加一：《大头菜小子避税历险记》免费领](https://www.3dmgame.com/news/202311/3880790.html)
+
++ [谏山创暗示《进击的巨人》动画版最终话结局改变 世界值得拯救么？](https://www.3dmgame.com/news/202311/3880777.html)
+
++ [《龙之家族》第二季明年初夏播出 首季豆瓣评分8.8](https://www.3dmgame.com/news/202311/3880792.html)
+
++ [中国成功研制离子阱量子计算机原型：稳定囚禁53个离子](https://www.3dmgame.com/news/202311/3880776.html)
+
++ [《无敌号》IGN 5分：改编效果适得其反](https://www.3dmgame.com/news/202311/3880791.html)
+
++ [基南汤普森出演Switch广告展示家庭欢乐游戏时刻](https://www.3dmgame.com/news/202311/3880795.html)
+
++ [虚幻5制作吉卜力风格《时之笛》动画21日发布](https://www.3dmgame.com/news/202311/3880794.html)
+
++ [《铁拳8》公布新角色法国海军维克多](https://www.3dmgame.com/news/202311/3880793.html)
+
