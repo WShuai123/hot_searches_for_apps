@@ -205,3 +205,7 @@
 
 + [换机助手-零流量手机换机克隆传输助手](https://itunes.apple.com/cn/app/id6464110682?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
++ [轻颜 - 风格自拍新潮流](https://itunes.apple.com/cn/app/id1375390276?mt=8)
+
