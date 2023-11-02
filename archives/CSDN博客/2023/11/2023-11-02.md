@@ -131,3 +131,15 @@
 
 + [Doris Manager集群的工具，运维更顺畅](https://blog.csdn.net/weixin_41645135/article/details/134171260)
 
++ [深度学习实战：基于TensorFlow与OpenCV的手语识别系统](https://blog.csdn.net/m0_68111267/article/details/134164772)
+
++ [（八）Flask之app.route装饰器函数的参数](https://blog.csdn.net/qq_44907926/article/details/134163110)
+
++ [【计算机网络笔记】传输层——可靠数据传输之流水线机制与滑动窗口协议](https://blog.csdn.net/m0_60511809/article/details/134108080)
+
++ [【Linux】从零开始本地部署Dashy并远程访问](https://blog.csdn.net/2301_77485708/article/details/134123283)
+
++ [Vue3 项目中怎么使用 jsx——易懂](https://blog.csdn.net/qq_21861771/article/details/134173783)
+
++ [【网络】HTTP协议](https://blog.csdn.net/qq_65207641/article/details/133102601)
+

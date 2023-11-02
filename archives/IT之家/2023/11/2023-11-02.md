@@ -37,3 +37,5 @@
 
 + [微信输入法 Windows / Mac 1.0 正式版发布：支持跨设备复制粘贴、词库及常用语同步](https://m.ithome.com/html/729358.htm)
 
++ [11.11 今日攻略：长江存储 2T 固态 799 元久违发车，新款 Apple Watch 立减 700 元新低](https://m.ithome.com/html/729406.htm)
+

@@ -107,3 +107,43 @@
 
 + [《战地1》《战地5》本月底将不再支持Windows 7和8](https://www.3dmgame.com/news/202311/3880691.html)
 
++ [Bungie裁员详情公开：人数上百 年收入比预期低了45%](https://www.3dmgame.com/news/202311/3880726.html)
+
++ [《漫威蜘蛛侠2》媒体赞誉宣传片 扣人心弦的大作](https://www.3dmgame.com/news/202311/3880723.html)
+
++ [《迪士尼梦幻星谷》多人游戏将于12月推出](https://www.3dmgame.com/news/202311/3880724.html)
+
++ [复活钢铁侠？传漫威考虑让初代复仇者联盟回归](https://www.3dmgame.com/news/202311/3880722.html)
+
++ [铃木裕希望制作《如龙0》风格的《莎木》前传游戏 新玩家更易上手](https://www.3dmgame.com/news/202311/3880712.html)
+
++ [Remedy财报：Q3收入持平 很看好《心灵杀手2》长期收入](https://www.3dmgame.com/news/202311/3880721.html)
+
++ [《漫威蜘蛛侠2》新更新上线 修复问题改进体验](https://www.3dmgame.com/news/202311/3880720.html)
+
++ [三上真司和神谷英树将举行联合演讲 分享未来计划](https://www.3dmgame.com/news/202311/3880719.html)
+
++ [《禁闭求生》最新更新11月13日上线 追加新模式玩法](https://www.3dmgame.com/news/202311/3880718.html)
+
++ [《Apex 英雄》19赛季尼斯湖水怪胜利画面彩蛋被发现](https://www.3dmgame.com/news/202311/3880717.html)
+
++ [《使命召唤：现代战争3》PS5版没有白金奖杯 被视为前作DLC](https://www.3dmgame.com/news/202311/3880725.html)
+
++ [《沙石镇时光》正式版将发售 包括单人和多人模式](https://www.3dmgame.com/news/202311/3880727.html)
+
++ [Devolver收购《异星探险家》开发商System Era](https://www.3dmgame.com/news/202311/3880716.html)
+
++ [EA公布2024财年第二季度财报：收入超出预期](https://www.3dmgame.com/news/202311/3880732.html)
+
++ [育碧万圣节贺图疑似AI作画！被众多网友嘲讽](https://www.3dmgame.com/news/202311/3880715.html)
+
++ [Pamela Burga成为暴雪全球首席多元化包容官](https://www.3dmgame.com/news/202311/3880733.html)
+
++ [《战争雷霆》开发商宣布旗下游戏引擎DagorEngine开源](https://www.3dmgame.com/news/202311/3880731.html)
+
++ [《战地2042》新赛季获得成功 EA将加倍投入支持](https://www.3dmgame.com/news/202311/3880730.html)
+
++ [《伊苏10：北境历险》体验版发布 存档可继承至正式版](https://www.3dmgame.com/news/202311/3880729.html)
+
++ [《孤岛惊魂6》停止更新 在线服务不关闭](https://www.3dmgame.com/news/202311/3880728.html)
+
