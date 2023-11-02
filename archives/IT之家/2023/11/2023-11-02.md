@@ -57,3 +57,5 @@
 
 + [首发天玑 9300 处理器，vivo X100 标准版手机参数曝光](https://m.ithome.com/html/729472.htm)
 
++ [消息称 7 款国际版小米 Redmi 手机首批升级 HyperOS 澎湃系统](https://m.ithome.com/html/729498.htm)
+
