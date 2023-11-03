@@ -27,3 +27,5 @@
 
 + [vivo X100 Pro 手机外观及拍摄样张公布，橙、蓝配色 + 曲面屏设计](https://m.ithome.com/html/729748.htm)
 
++ [苹果公布 FY23Q4 财报：营收 895 亿美元，下降 4%；净利润 230 亿美元，增加 11%](https://m.ithome.com/html/729691.htm)
+
