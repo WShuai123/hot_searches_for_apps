@@ -207,3 +207,17 @@
 
 + [使用老北鼻CharGPT对话查询 Qt/C++ 使用gumbo-parse解析加载的html全过程](https://blog.csdn.net/qq_35554617/article/details/134192720)
 
++ [树莓派使用如何使用Nginx+内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/qq_57761637/article/details/134185850)
+
++ [顿悟？涌现？产生意识？？？谈谈关于大语言模型能力涌现的个人看法](https://blog.csdn.net/old_wanghandsome/article/details/134178896)
+
++ [Ubuntu 增加服务 比如openfire](https://blog.csdn.net/jolly10/article/details/134198244)
+
++ [通过IIS和内网穿透实现快速搭建本地web服务器并实现公网访问](https://blog.csdn.net/qq_58286439/article/details/134188862)
+
++ [电脑如何录制小视频](https://blog.csdn.net/shipinzan_com/article/details/134156880)
+
++ [CSS3媒体查询与页面自适应](https://blog.csdn.net/YYBDESHIJIE/article/details/134171771)
+
++ [Talk | CoRL 2023 Oral 上海交通大学迮炎杰：通用机器人操作的视觉表征](https://blog.csdn.net/hanseywho/article/details/134131063)
+

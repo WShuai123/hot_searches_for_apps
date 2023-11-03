@@ -57,3 +57,5 @@
 
 + [苹果内部正测试 iOS 17.1.1 更新，有望修复夜间自动关机一段时间等诸多问题](https://m.ithome.com/html/729694.htm)
 
++ [小米 Redmi Note 12 Turbo 手机推出 16GB+256GB 版：第二代骁龙 7+，到手价 1699 元](https://m.ithome.com/html/729923.htm)
+
