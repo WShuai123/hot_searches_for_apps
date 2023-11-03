@@ -231,3 +231,15 @@
 
 + [经典动画《飞出个未来》确认续订 将再播出2季](https://www.3dmgame.com/news/202311/3880847.html)
 
++ [没那么容易泄露 《荒野大镖客2》演员称R星的保密协议比漫威更严格](https://www.3dmgame.com/news/202311/3880854.html)
+
++ [美国零元购猖獗：商店货架不敢放商品 只放商品照片](https://www.3dmgame.com/news/202311/3880855.html)
+
++ [100 Thieves裁员20% 关闭内部游戏开发工作室](https://www.3dmgame.com/news/202311/3880856.html)
+
++ [《模拟人生4》下个扩展将添最烦人职业：房东](https://www.3dmgame.com/news/202311/3880851.html)
+
++ [《合金装备5》静静演员谈角色过度性感争议：可以接受](https://www.3dmgame.com/news/202311/3880852.html)
+
++ [国产恐怖叙述游戏《吃香》定档预告 11月17日发售](https://www.3dmgame.com/news/202311/3880853.html)
+

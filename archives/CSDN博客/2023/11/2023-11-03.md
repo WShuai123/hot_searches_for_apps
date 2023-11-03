@@ -175,3 +175,13 @@
 
 + [黑客（网络安全）技术——如何高效自学](https://blog.csdn.net/stopluox/article/details/134160409)
 
++ [【好书推荐】AI时代架构师修炼之道：ChatGPT让架构师插上翅膀](https://blog.csdn.net/m0_68662723/article/details/134198142)
+
++ [竞赛选题 深度学习实现行人重识别 - python opencv yolo Reid](https://blog.csdn.net/laafeer/article/details/134184862)
+
++ [SpringCloud 微服务全栈体系（十）](https://blog.csdn.net/sgsgkxkx/article/details/134173661)
+
++ [Redis内存满的最佳解决方案](https://blog.csdn.net/jinxinxin1314/article/details/134194798)
+
++ [OSPF 高级特性3](https://blog.csdn.net/2302_77035737/article/details/134182877)
+
