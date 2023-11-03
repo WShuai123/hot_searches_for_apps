@@ -191,3 +191,9 @@
 
 + [「软件设计师」 2023年上半年上午真题解析](https://blog.csdn.net/weixin_46838716/article/details/134102272)
 
++ [【腾讯云 HAI域探秘】基于ChatGLM和StableDiffusion的小红书热门文章创作实践与经验分享](https://blog.csdn.net/Zlyunduan/article/details/134188634)
+
++ [uniapp-微信公众号之微信支付流程](https://blog.csdn.net/zcylyzhi4/article/details/134197503)
+
++ [2014年亚太杯APMCM数学建模大赛A题无人机创造安全环境求解全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134182222)
+
