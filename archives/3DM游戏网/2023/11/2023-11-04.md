@@ -103,3 +103,11 @@
 
 + [小米14稳了 雷军：电商用户满意率99%](https://www.3dmgame.com/news/202311/3880875.html)
 
++ [《守望先锋2》公布萨摩亚新重装英雄毛加](https://www.3dmgame.com/news/202311/3880879.html)
+
++ [《魔兽世界》公布3个资料片 打造世界之魂剧情线](https://www.3dmgame.com/news/202311/3880878.html)
+
++ [《暗黑破坏神4：憎恨之躯》资料片将于24年底推出](https://www.3dmgame.com/news/202311/3880877.html)
+
++ [Xbox老板斯宾塞承诺在收购后将培养暴雪独特之处](https://www.3dmgame.com/news/202311/3880876.html)
+
