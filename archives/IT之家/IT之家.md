@@ -59,3 +59,7 @@
 
 + [小米 Redmi Note 12 Turbo 手机推出 16GB+256GB 版：第二代骁龙 7+，到手价 1699 元](https://m.ithome.com/html/729923.htm)
 
++ [苹果：所有在中国大陆合法销售的 iPhone 15 /Pro 系列手机均为中国组装](https://m.ithome.com/html/729955.htm)
+
++ [小鹏汽车官方回应 P5 老车主“联名维权”：补偿 2 万元代金券](https://m.ithome.com/html/729890.htm)
+
