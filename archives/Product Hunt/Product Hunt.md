@@ -151,3 +151,37 @@
 
 + [Vairflow](https://www.producthunt.com/posts/vairflow)
 
++ [PotionPitch AI](https://www.producthunt.com/posts/potionpitch-ai)
+
++ [IndieHackers RPG Game ????️](https://www.producthunt.com/posts/indiehackers-rpg-game)
+
++ [Chirp](https://www.producthunt.com/posts/chirp-6)
+
++ [SpeakFlow](https://www.producthunt.com/posts/speakflow)
+
++ [T-Minus Daily](https://www.producthunt.com/posts/t-minus-daily)
+
++ [TrendUp 2.0](https://www.producthunt.com/posts/trendup-2-0)
+
++ [AuditEZ : Facebook Ad Reporting & Audits](https://www.producthunt.com/posts/auditez-facebook-ad-reporting-audits)
+
++ [Decypher](https://www.producthunt.com/posts/decypher-2)
+
++ [LitRevu](https://www.producthunt.com/posts/litrevu)
+
++ [COUPLESY - COUPLES APP](https://www.producthunt.com/posts/couplesy-couples-app)
+
++ [Qolabot](https://www.producthunt.com/posts/qolabot)
+
++ [Let's Split](https://www.producthunt.com/posts/let-s-split-2)
+
++ [AI Best Man Speech Writing Tool](https://www.producthunt.com/posts/ai-best-man-speech-writing-tool)
+
++ [Shopbuddy Mobile](https://www.producthunt.com/posts/shopbuddy-mobile)
+
++ [Insightio AI](https://www.producthunt.com/posts/insightio-ai)
+
++ [FliQR](https://www.producthunt.com/posts/fliqr)
+
++ [Fluento](https://www.producthunt.com/posts/fluento-2)
+

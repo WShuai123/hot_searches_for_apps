@@ -165,3 +165,13 @@
 
 + [【linux进程控制(一)】进程终止--如何干掉一个进程?](https://blog.csdn.net/m0_61982936/article/details/134140968)
 
++ [OpenCV实战——OpenCV.js介绍](https://blog.csdn.net/LOVEmy134611/article/details/134194832)
+
++ [汽车标定技术（一）：XCP概述](https://blog.csdn.net/djkeyzx/article/details/134166684)
+
++ [IT开发怕失败？买个低代码搭建属于自己应用](https://blog.csdn.net/wangonik_l/article/details/134183098)
+
++ [【从删库到跑路】详解MySQL数据库的视图以及相关操作](https://blog.csdn.net/m0_72853403/article/details/134185246)
+
++ [黑客（网络安全）技术——如何高效自学](https://blog.csdn.net/stopluox/article/details/134160409)
+

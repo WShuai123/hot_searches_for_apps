@@ -217,3 +217,17 @@
 
 + [《Apex英雄》与音乐家波斯特·马龙联动活动预告](https://www.3dmgame.com/news/202311/3880839.html)
 
++ [首个国家级电力鸿蒙OS发布！首次实现大一统](https://www.3dmgame.com/news/202311/3880848.html)
+
++ [国行PS5“深地色系”手柄和主机盖发售：火山红和钴晶蓝](https://www.3dmgame.com/news/202311/3880849.html)
+
++ [马斯克：X推出基于AI的查看类似帖子功能](https://www.3dmgame.com/news/202311/3880850.html)
+
++ [《死亡岛2》DLC“艺廊”现已在Epic上推出](https://www.3dmgame.com/news/202311/3880844.html)
+
++ [《流浪地球3》正式定档 2027年大年初一上映](https://www.3dmgame.com/news/202311/3880845.html)
+
++ [《塞尔达传说》系列制作人青沼英二被授予法国艺术与文学骑士勋章](https://www.3dmgame.com/news/202311/3880846.html)
+
++ [经典动画《飞出个未来》确认续订 将再播出2季](https://www.3dmgame.com/news/202311/3880847.html)
+

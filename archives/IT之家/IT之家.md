@@ -49,3 +49,5 @@
 
 + [华为 Mate 20、P30 等 12 款手机明年一季度升级鸿蒙 HarmonyOS 4](https://m.ithome.com/html/729770.htm)
 
++ [苹果第四财季大中华营收 150.8 亿美元，不及预期近 20 亿](https://m.ithome.com/html/729690.htm)
+
