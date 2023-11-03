@@ -147,3 +147,5 @@
 
 + [从瀑布模式到水母模式：ChatGPT引领软件研发的革新之路](https://blog.csdn.net/wodejiaAA/article/details/134181444)
 
++ [【腾讯云 HAI域探秘】基于ChatGLM和StableDiffusion的小学一年级语文教学方案创作实践与经验分享](https://blog.csdn.net/qq_34195670/article/details/134184856)
+

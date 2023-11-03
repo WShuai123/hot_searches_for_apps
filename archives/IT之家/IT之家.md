@@ -35,3 +35,7 @@
 
 + [学生再降 300 元：小米 13 系列 11.11 京东新低 + 24 期免息](https://m.ithome.com/html/729685.htm)
 
++ [三星 GalaxyS24 / S24+/Ultra 手机配色曝光，覆盖黑、灰、绿、橙、蓝 、紫、黄](https://m.ithome.com/html/729663.htm)
+
++ [消息称华为将于 11 月 28 日推出新款 MatePad 平板电脑及 MateBook D16 2024 笔记本](https://m.ithome.com/html/729658.htm)
+
