@@ -139,3 +139,13 @@
 
 + [《铁拳8》公布新角色法国海军维克多](https://www.3dmgame.com/news/202311/3880793.html)
 
++ [SIE已收购英国人工智能公司iSize](https://www.3dmgame.com/news/202311/3880798.html)
+
++ [科乐美：更多的《寂静岭》重制版正在开发中](https://www.3dmgame.com/news/202311/3880799.html)
+
++ [《艾尔登法环》DLC“黄金树之影”开发进展顺利](https://www.3dmgame.com/news/202311/3880782.html)
+
++ [明年5月上映电影《猩球崛起：王国》预告片发布](https://www.3dmgame.com/news/202311/3880796.html)
+
++ [2v2漫改格斗《咒术回战：战华双乱》公布新人物](https://www.3dmgame.com/news/202311/3880797.html)
+

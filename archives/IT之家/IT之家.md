@@ -29,3 +29,7 @@
 
 + [消息称阿里 1688 和闲鱼升级为淘天集团一级业务](https://m.ithome.com/html/729530.htm)
 
++ [零跑官宣全系车型降价，每台最高补贴 10000 元](https://m.ithome.com/html/729649.htm)
+
++ [微软正从 Win11 中删除“地图”、“电影和电视”两款应用，Canary 通道已不再预装](https://m.ithome.com/html/729608.htm)
+

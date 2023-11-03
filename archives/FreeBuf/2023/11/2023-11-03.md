@@ -41,3 +41,7 @@
 
 + [【跨国议题】AI在企业内部的机遇与挑战；如何保障多云环境安全 | FCIS 2023 大会议题前瞻](https://www.freebuf.com/fevents/382362.html)
 
++ [FreeBuf早报 | FIRST发布CVSS 4.0 漏洞评分系统；MRI快照架构侵犯隐私？](https://www.freebuf.com/news/382664.html)
+
++ [中国也是受害者，回顾 AvosLocker 勒索软件](https://www.freebuf.com/articles/network/382525.html)
+
