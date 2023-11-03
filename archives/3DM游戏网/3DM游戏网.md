@@ -189,3 +189,15 @@
 
 + [暴雪新手游《魔兽大作战》提前上线 免费游玩](https://www.3dmgame.com/news/202311/3880822.html)
 
++ [小米华为一机难求：双十一苹果却在降价促销](https://www.3dmgame.com/news/202311/3880835.html)
+
++ [高斯林动作喜剧《特技狂人》正式预告 明年三月上映](https://www.3dmgame.com/news/202311/3880833.html)
+
++ [国产虚幻5新作《代号：西格玛》正式官宣 实机演示发布](https://www.3dmgame.com/news/202311/3880834.html)
+
++ [国产种田《沙石镇时光》更新正式版 特别好评、限时首发折扣](https://www.3dmgame.com/news/202311/3880829.html)
+
++ [《星空》开发者：部分星球空旷是刻意设计 并不无聊](https://www.3dmgame.com/news/202311/3880831.html)
+
++ [Xbox Series X/S在日本销量第四次超过PS5](https://www.3dmgame.com/news/202311/3880832.html)
+

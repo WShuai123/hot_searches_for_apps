@@ -57,3 +57,5 @@
 
 + [刚披露就被利用，攻击者盯上了Apache ActiveMQ 漏洞](https://www.freebuf.com/news/382716.html)
 
++ [记某漏洞百出的CMS文件上传到获得CNVD证书](https://www.freebuf.com/vuls/382495.html)
+

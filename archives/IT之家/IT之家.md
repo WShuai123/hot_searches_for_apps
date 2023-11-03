@@ -41,3 +41,7 @@
 
 + [全网 11.11 开门红倒数 24 小时：小米 13 系列学生再降 300 元 24 期免息，无门槛红包 24 点失效](https://m.ithome.com/html/729687.htm)
 
++ [小鹏汽车内部人士回应 P5 老车主“联名维权” ：在讨论解决方案](https://m.ithome.com/html/729705.htm)
+
++ [iQOO 12 Pro 手机预热：首发 2K E7 显示屏，支持 144Hz 刷新率](https://m.ithome.com/html/729545.htm)
+
