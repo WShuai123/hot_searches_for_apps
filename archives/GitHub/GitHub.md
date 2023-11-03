@@ -51,3 +51,31 @@
 
 + [artichokeee / test-assignments](https://github.com/artichokeee/test-assignments)
 
++ [zzzgydi / clash-verge](https://github.com/zzzgydi/clash-verge)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [jmorganca / ollama](https://github.com/jmorganca/ollama)
+
++ [v2fly / v2ray-core](https://github.com/v2fly/v2ray-core)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [evilsocket / legba](https://github.com/evilsocket/legba)
+
++ [gedoor / legado](https://github.com/gedoor/legado)
+
++ [2dust / v2rayN](https://github.com/2dust/v2rayN)
+
++ [radames / Real-Time-Latent-Consistency-Model](https://github.com/radames/Real-Time-Latent-Consistency-Model)
+
++ [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+

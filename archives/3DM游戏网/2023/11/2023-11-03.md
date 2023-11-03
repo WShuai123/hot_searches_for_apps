@@ -257,3 +257,5 @@
 
 + [三菱败退中国：年轻员工转入新势力，近2千人就地遣散](https://www.3dmgame.com/news/202311/3880857.html)
 
++ [AMD与三星和高通合作 将FSR引入智能手机](https://www.3dmgame.com/news/202311/3880864.html)
+
