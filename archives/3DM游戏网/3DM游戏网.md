@@ -149,3 +149,43 @@
 
 + [2v2漫改格斗《咒术回战：战华双乱》公布新人物](https://www.3dmgame.com/news/202311/3880797.html)
 
++ [裁员引《命运》玩家不安 Bungie回应：不会再令人失望](https://www.3dmgame.com/news/202311/3880817.html)
+
++ [EA称《EA FC 24》将成为面向球迷的未来互动平台](https://www.3dmgame.com/news/202311/3880818.html)
+
++ [《荒野大镖客2》PC新MOD 加入世界随机活动](https://www.3dmgame.com/news/202311/3880815.html)
+
++ [《浩劫前夕》新预告再次被质疑抄袭 文案照搬其他游戏](https://www.3dmgame.com/news/202311/3880816.html)
+
++ [《S4U: 都市朋克2011与爱的重拳》Steam页面 发售日待定](https://www.3dmgame.com/news/202311/3880814.html)
+
++ [《龙之信条2》没有固定脚本触发事件 为玩家带来惊喜](https://www.3dmgame.com/news/202311/3880813.html)
+
++ [补牢未成 《收获日3》首个补丁发布玩家数量仍低迷](https://www.3dmgame.com/news/202311/3880812.html)
+
++ [暴雪战网好友列表扩至600人：结交更多的朋友！](https://www.3dmgame.com/news/202311/3880819.html)
+
++ [《机械战警：暴戾都市》正式发售 综合评价“特别好评”](https://www.3dmgame.com/news/202311/3880820.html)
+
++ [索尼PS Portal云掌机供不应求 已在多个地区售尽](https://www.3dmgame.com/news/202311/3880811.html)
+
++ [电影《海王2：失落的王国》确认引进国内 档期待定](https://www.3dmgame.com/news/202311/3880830.html)
+
++ [玩家苦等的《收获日3》首个补丁终于在全平台发布](https://www.3dmgame.com/news/202311/3880810.html)
+
++ [《查理和巧克力工厂》前传《旺卡》确认引进 档期待定](https://www.3dmgame.com/news/202311/3880827.html)
+
++ [Xbox主机正在推送《现代战争3》的全屏弹出广告](https://www.3dmgame.com/news/202311/3880828.html)
+
++ [EA认为微软收购动视暴雪是好事 对行业发展有益](https://www.3dmgame.com/news/202311/3880825.html)
+
++ [EA SPORTS FC FUTURES 欢庆与 UEFA 合作推出免费在线培训实践计划](https://www.3dmgame.com/news/202311/3880826.html)
+
++ [《城市：天际线2》开发商CEO：玩家因技术问题失望理所应当](https://www.3dmgame.com/news/202311/3880824.html)
+
++ [《饥饿游戏：鸣鸟与蛇之歌》内地定档 11月17日上映](https://www.3dmgame.com/news/202311/3880823.html)
+
++ [《吸血鬼幸存者》1.7.0更新现已登陆NS平台](https://www.3dmgame.com/news/202311/3880821.html)
+
++ [暴雪新手游《魔兽大作战》提前上线 免费游玩](https://www.3dmgame.com/news/202311/3880822.html)
+

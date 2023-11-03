@@ -49,3 +49,11 @@
 
 + [技术分享 | 针对蜜罐反制Goby背后的故事](https://www.freebuf.com/articles/network/381667.html)
 
++ [BlackCat 勒索软件又出击了，医疗保健巨头 Henry Schein 成为受害者](https://www.freebuf.com/news/382719.html)
+
++ [波音公司遭遇勒索攻击，全球服务业务及零部件部门受严重影响](https://www.freebuf.com/news/382710.html)
+
++ [苹果 "手机入侵 "指控引发印度政府调查](https://www.freebuf.com/news/382729.html)
+
++ [刚披露就被利用，攻击者盯上了Apache ActiveMQ 漏洞](https://www.freebuf.com/news/382716.html)
+

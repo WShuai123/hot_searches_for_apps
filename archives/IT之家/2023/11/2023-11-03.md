@@ -39,3 +39,5 @@
 
 + [消息称华为将于 11 月 28 日推出新款 MatePad 平板电脑及 MateBook D16 2024 笔记本](https://m.ithome.com/html/729658.htm)
 
++ [全网 11.11 开门红倒数 24 小时：小米 13 系列学生再降 300 元 24 期免息，无门槛红包 24 点失效](https://m.ithome.com/html/729687.htm)
+
