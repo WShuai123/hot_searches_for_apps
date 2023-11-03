@@ -103,3 +103,5 @@
 
 + [JumpBoost](https://www.producthunt.com/posts/jumpboost)
 
++ [WordPal AI](https://www.producthunt.com/posts/wordpal-ai)
+
