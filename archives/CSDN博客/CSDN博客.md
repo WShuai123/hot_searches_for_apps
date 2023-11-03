@@ -125,3 +125,9 @@
 
 + [2014年亚太杯APMCM数学建模大赛A题无人机创造安全环境求解全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134182222)
 
++ [OpenAI最新官方GPT最佳实践指南，一文讲清ChatGPT的Prompt玩法](https://blog.csdn.net/javastart/article/details/134203551)
+
++ [使用vscode实现远程开发，并通过内网穿透在公网环境下远程连接](https://blog.csdn.net/m0_69984273/article/details/134203893)
+
++ [2.Spark的工作与架构原理](https://blog.csdn.net/2301_79691134/article/details/134147397)
+
