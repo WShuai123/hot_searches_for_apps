@@ -25,3 +25,5 @@
 
 + [苹果第四财季大中华营收 150.8 亿美元，不及预期近 20 亿](https://m.ithome.com/html/729690.htm)
 
++ [vivo X100 Pro 手机外观及拍摄样张公布，橙、蓝配色 + 曲面屏设计](https://m.ithome.com/html/729748.htm)
+

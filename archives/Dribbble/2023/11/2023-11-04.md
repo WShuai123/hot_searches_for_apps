@@ -49,3 +49,19 @@
 
 + [Digimax / Design & Animation](https://dribbble.com/shots/)
 
++ [Howling Wolf Logo](https://dribbble.com/shots/)
+
++ [Solve Et Coagula: Falling Apart and Coming Together](https://dribbble.com/shots/)
+
++ [UX-UI design Protect card mobile animation](https://dribbble.com/shots/)
+
++ [Vital card Rewards UI by Milkinside](https://dribbble.com/shots/)
+
++ [Hotel Building Illustration](https://dribbble.com/shots/)
+
++ [Tappa! - Promotional landing page design for the messenger app](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [National Park Website](https://dribbble.com/shots/)
+

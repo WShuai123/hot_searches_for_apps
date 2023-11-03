@@ -201,3 +201,11 @@
 
 + [顺丰速运-快递查寄收 不止是快](https://itunes.apple.com/cn/app/id899529698?mt=8)
 
++ [虎扑-篮球足球游戏影视](https://itunes.apple.com/cn/app/id906632439?mt=8)
+
++ [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
+
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
++ [米家](https://itunes.apple.com/cn/app/id957323480?mt=8)
+
