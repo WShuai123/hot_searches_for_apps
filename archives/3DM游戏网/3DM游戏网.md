@@ -201,3 +201,7 @@
 
 + [Xbox Series X/S在日本销量第四次超过PS5](https://www.3dmgame.com/news/202311/3880832.html)
 
++ [《漫威蜘蛛侠2》惊现火影跑 原来是BUG导致](https://www.3dmgame.com/news/202311/3880837.html)
+
++ [全球首个商用核电小型堆 “玲龙一号”封顶](https://www.3dmgame.com/news/202311/3880836.html)
+

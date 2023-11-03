@@ -45,3 +45,5 @@
 
 + [iQOO 12 Pro 手机预热：首发 2K E7 显示屏，支持 144Hz 刷新率](https://m.ithome.com/html/729545.htm)
 
++ [《流浪地球 3》前进三发布会今日下午 1 点举行，定档 2027 年大年初一上映](https://m.ithome.com/html/729779.htm)
+
