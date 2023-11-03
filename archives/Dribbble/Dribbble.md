@@ -83,3 +83,11 @@
 
 + [KUO DUO](https://dribbble.com/shots/)
 
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+
++ [La Hermana No. 2](https://dribbble.com/shots/)
+
++ [Dewsbury Rams](https://dribbble.com/shots/)
+
++ [TrustedSec Rebrand + Case Study](https://dribbble.com/shots/)
+

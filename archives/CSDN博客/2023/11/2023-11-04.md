@@ -101,3 +101,27 @@
 
 + [使用老北鼻CharGPT对话查询 Qt/C++ 使用gumbo-parse解析加载的html全过程](https://blog.csdn.net/qq_35554617/article/details/134192720)
 
++ [【深入探究人工智能】历史、应用、技术与未来](https://blog.csdn.net/xz2935117143/article/details/134201480)
+
++ [（八）Flask之app.route装饰器函数的参数](https://blog.csdn.net/qq_44907926/article/details/134163110)
+
++ [保障效率与可用，分析Kafka的消费者组与Rebalance机制](https://blog.csdn.net/u011709538/article/details/134053456)
+
++ [基于计算机视觉的身份证识别系统 计算机竞赛](https://blog.csdn.net/m0_43533/article/details/134201857)
+
++ [YOLOv8改进之更换BiFPN并融合P2小目标检测层](https://blog.csdn.net/qq_43649937/article/details/134201814)
+
++ [k8s 多网卡方案multus](https://blog.csdn.net/weixin_40579389/article/details/134183179)
+
++ [【计算机网络】物理层知识](https://blog.csdn.net/m0_65277261/article/details/134200925)
+
++ [在Node.js中，什么是模块（module）？如何导入和导出模块？](https://blog.csdn.net/JHXL_/article/details/134174234)
+
++ [【华为 OD 机考 C 卷】OD 统一考试 C 卷开始更新，先上车先拿题，预祝大家上岸](https://blog.csdn.net/hihell/article/details/134177485)
+
++ [在IDEA运行spark程序（搭建Spark开发环境）](https://blog.csdn.net/wanglingli95/article/details/134154006)
+
++ [游戏引擎中为什么要用四元数表示旋转而不用欧拉角旋转？](https://blog.csdn.net/Motarookie/article/details/134166285)
+
++ [2014年亚太杯APMCM数学建模大赛A题无人机创造安全环境求解全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134182222)
+
