@@ -59,3 +59,7 @@
 
 + [记某漏洞百出的CMS文件上传到获得CNVD证书](https://www.freebuf.com/vuls/382495.html)
 
++ [ICMPWatch：一款功能强大的ICMP数据包嗅探工具](https://www.freebuf.com/sectool/380247.html)
+
++ [波音公司承认遭受攻击，影响全球服务业务及零部件部门](https://www.freebuf.com/news/382710.html)
+

@@ -47,3 +47,5 @@
 
 + [《流浪地球 3》前进三发布会今日下午 1 点举行，定档 2027 年大年初一上映](https://m.ithome.com/html/729779.htm)
 
++ [华为 Mate 20、P30 等 12 款手机明年一季度升级鸿蒙 HarmonyOS 4](https://m.ithome.com/html/729770.htm)
+

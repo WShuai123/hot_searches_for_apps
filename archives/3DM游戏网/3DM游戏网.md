@@ -205,3 +205,15 @@
 
 + [全球首个商用核电小型堆 “玲龙一号”封顶](https://www.3dmgame.com/news/202311/3880836.html)
 
++ [微软员工不满被取消免费XGP福利：公司压榨自己人](https://www.3dmgame.com/news/202311/3880838.html)
+
++ [玩家吐槽《FF14》联动《糖豆人》活动比副本还难](https://www.3dmgame.com/news/202311/3880840.html)
+
++ [《方舟：生存升级》（ARK Survival Ascended）在销售后 24 小时内跃居 Stea](https://www.3dmgame.com/news/202311/3880841.html)
+
++ [《无敌大猫》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202311/3880842.html)
+
++ [现在是逃狱时间！策略题材CRPG《动物迷城》现已发售](https://www.3dmgame.com/news/202311/3880843.html)
+
++ [《Apex英雄》与音乐家波斯特·马龙联动活动预告](https://www.3dmgame.com/news/202311/3880839.html)
+
