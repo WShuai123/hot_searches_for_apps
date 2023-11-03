@@ -45,3 +45,7 @@
 
 + [中国也是受害者，回顾 AvosLocker 勒索软件](https://www.freebuf.com/articles/network/382525.html)
 
++ [工信部发布《人形机器人创新发展指导意见》！](https://www.freebuf.com/news/382701.html)
+
++ [技术分享 | 针对蜜罐反制Goby背后的故事](https://www.freebuf.com/articles/network/381667.html)
+

@@ -101,3 +101,5 @@
 
 + [Get Social Proof](https://www.producthunt.com/posts/get-social-proof)
 
++ [Scanfinity](https://www.producthunt.com/posts/scanfinity)
+

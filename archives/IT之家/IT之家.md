@@ -33,3 +33,5 @@
 
 + [微软正从 Win11 中删除“地图”、“电影和电视”两款应用，Canary 通道已不再预装](https://m.ithome.com/html/729608.htm)
 
++ [学生再降 300 元：小米 13 系列 11.11 京东新低 + 24 期免息](https://m.ithome.com/html/729685.htm)
+

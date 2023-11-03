@@ -145,3 +145,5 @@
 
 + [硬件加速器及其深度神经网络模型的性能指标理解](https://blog.csdn.net/qq_46009046/article/details/134141429)
 
++ [从瀑布模式到水母模式：ChatGPT引领软件研发的革新之路](https://blog.csdn.net/wodejiaAA/article/details/134181444)
+
