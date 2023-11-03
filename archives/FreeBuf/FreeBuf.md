@@ -65,3 +65,7 @@
 
 + [云原生安全 | 容器安全技术路线探讨](https://www.freebuf.com/articles/container/377481.html)
 
++ [年度开源社区安全工具 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/382650.html)
+
++ [泄露35TB数据，这家医疗巨头被勒索组织加密两次](https://www.freebuf.com/news/382719.html)
+

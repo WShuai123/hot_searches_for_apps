@@ -185,3 +185,9 @@
 
 + [OSPF 高级特性3](https://blog.csdn.net/2302_77035737/article/details/134182877)
 
++ [Amazon Generative AI 新世界 | 基于 Amazon 扩散模型原理的代码实践之采样篇](https://blog.csdn.net/chenlycly/article/details/134160998)
+
++ [畅销书《Kali Linux高级渗透测试》更新版速速查收~](https://blog.csdn.net/weixin_58070962/article/details/134168844)
+
++ [「软件设计师」 2023年上半年上午真题解析](https://blog.csdn.net/weixin_46838716/article/details/134102272)
+

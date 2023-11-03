@@ -243,3 +243,17 @@
 
 + [国产恐怖叙述游戏《吃香》定档预告 11月17日发售](https://www.3dmgame.com/news/202311/3880853.html)
 
++ [周星驰《美人鱼2》已进入后期制作阶段 你期待吗？](https://www.3dmgame.com/news/202311/3880863.html)
+
++ [踏上种田+高速自由的斩杀之旅，《黑白剑刃》将在12月1日发售](https://www.3dmgame.com/news/202311/3880862.html)
+
++ [机会来了，双倍 GTAOL 游戏币和声望值尽在短程奔波与安保合约](https://www.3dmgame.com/news/202311/3880861.html)
+
++ [男子订4部iPhone15竟收60部1T顶配：价值百万 苹果亏哭](https://www.3dmgame.com/news/202311/3880860.html)
+
++ [极限竞速Forza Motorsport领克邀请赛火热来袭！](https://www.3dmgame.com/news/202311/3880859.html)
+
++ [官方：电视“套娃”收费得到整治 年底前要全国“开机看直播”](https://www.3dmgame.com/news/202311/3880858.html)
+
++ [三菱败退中国：年轻员工转入新势力，近2千人就地遣散](https://www.3dmgame.com/news/202311/3880857.html)
+
