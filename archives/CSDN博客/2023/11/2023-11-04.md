@@ -145,3 +145,9 @@
 
 + [构建mono-repo风格的脚手架库](https://blog.csdn.net/zhangyun1107892254/article/details/134209445)
 
++ [【德哥说库系列】-Oracle 19C PDB创建大全](https://blog.csdn.net/weixin_41645135/article/details/134212574)
+
++ [relectron框架——打包前端vue3、react为pc端exe可执行程序](https://blog.csdn.net/qq_38870145/article/details/134210786)
+
++ [算法通关村第十三关黄金挑战——数论问题解析](https://blog.csdn.net/m0_74469506/article/details/134212363)
+

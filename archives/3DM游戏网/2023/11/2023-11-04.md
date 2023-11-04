@@ -115,3 +115,11 @@
 
 + [《守望先锋2》未来计划：新PvP、新英雄、竞技系统重做](https://www.3dmgame.com/news/202311/3880880.html)
 
++ [《吸血鬼幸存者》1.8版重大改动 加入全新冒险模式](https://www.3dmgame.com/news/202311/3880885.html)
+
++ [《使命召唤：现代战争3》单人战役IGN 4分：太无聊](https://www.3dmgame.com/news/202311/3880884.html)
+
++ [《星际迷航OL》运营商Cryptic工作室遭遇裁员](https://www.3dmgame.com/news/202311/3880883.html)
+
++ [传《博德之门3》12月6日登陆Xbox Series](https://www.3dmgame.com/news/202311/3880882.html)
+

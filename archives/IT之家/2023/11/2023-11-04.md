@@ -37,3 +37,5 @@
 
 + [《英雄联盟》S13 淘汰赛赛果公布，BLG 战队 3:2 战胜 GEN 晋级四强](https://m.ithome.com/html/729961.htm)
 
++ [郭明錤：华为的回归引发苹果 iPhone 需求疲软，且结构性改变中国手机市场](https://m.ithome.com/html/729979.htm)
+
