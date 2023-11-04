@@ -127,3 +127,25 @@
 
 + [Domains 4 Startups](https://www.producthunt.com/posts/domains-4-startups)
 
++ [Mindfuly: Daily AI Meditations](https://www.producthunt.com/posts/mindfuly-daily-ai-meditations)
+
++ [BookmarkPilot](https://www.producthunt.com/posts/bookmarkpilot)
+
++ [Get Strong Password](https://www.producthunt.com/posts/get-strong-password)
+
++ [Director Mode](https://www.producthunt.com/posts/director-mode)
+
++ [Christmas Advent Calendar](https://www.producthunt.com/posts/christmas-advent-calendar)
+
++ [CopyRemix](https://www.producthunt.com/posts/copyremix)
+
++ [Documind](https://www.producthunt.com/posts/documind)
+
++ [Dinesto](https://www.producthunt.com/posts/dinesto)
+
++ [WaveOn](https://www.producthunt.com/posts/waveon)
+
++ [craftygform](https://www.producthunt.com/posts/craftygform)
+
++ [Therr for Business](https://www.producthunt.com/posts/therr-for-business)
+

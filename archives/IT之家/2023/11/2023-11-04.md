@@ -47,3 +47,5 @@
 
 + [NT 版 Windows / Mac / Linux QQ 迎更新：改进资料卡、支持商城表情等](https://m.ithome.com/html/729966.htm)
 
++ [小米 RedmiBook Pro 15 锐龙版 2023 笔记本降至 4699 元：R7 7840HS + 3.2K 120Hz 屏](https://m.ithome.com/html/729956.htm)
+

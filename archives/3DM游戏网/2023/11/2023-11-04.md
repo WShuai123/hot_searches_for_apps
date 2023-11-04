@@ -163,3 +163,21 @@
 
 + [《炉石传说》新扩展包动画CG预告 11月15日发售](https://www.3dmgame.com/news/202311/3880902.html)
 
++ [《究极大越野：传奇》新DLC加入GASGAS摩托车](https://www.3dmgame.com/news/202311/3880907.html)
+
++ [漫威新剧《回声》首发预告 网飞版金并再次回归！](https://www.3dmgame.com/news/202311/3880908.html)
+
++ [《消逝的光芒 2 》 社区更新第三弹免费添加 6 种处决动作， 万圣节活动惊悚继续](https://www.3dmgame.com/news/202311/3880909.html)
+
++ [《对魔忍RPG Extasy》神奇操作：玩家欠了厂商的债？](https://www.3dmgame.com/news/202311/3880910.html)
+
++ [动作冒险手游《梦游》首曝PV 预约页面现已开启](https://www.3dmgame.com/news/202311/3880911.html)
+
++ [腾讯爆款手游重磅回归！《节奏大师》11月7日上线](https://www.3dmgame.com/news/202311/3880912.html)
+
++ [微软听取员工意见 重新恢复免费XGP终极版福利](https://www.3dmgame.com/news/202311/3880913.html)
+
++ [《丁丁历险记：法老的雪茄》PS4版跳票 11月30日发售](https://www.3dmgame.com/news/202311/3880914.html)
+
++ [北京人形机器人创新中心 全球首个软硬件“母平台”](https://www.3dmgame.com/news/202311/3880906.html)
+
