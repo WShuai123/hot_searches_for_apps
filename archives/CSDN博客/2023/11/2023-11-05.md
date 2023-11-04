@@ -101,3 +101,19 @@
 
 + [如何使用 SwiftUI 中新地图框架 MapKit](https://blog.csdn.net/qq_36478920/article/details/134219707)
 
++ [12.JavaScript(WebAPI) - JS api文献精解](https://blog.csdn.net/xinhang10/article/details/134209036)
+
++ [Azure 机器学习 - 设置 AutoML 训练时序预测模型](https://blog.csdn.net/magicyangjay111/article/details/134223408)
+
++ [七月论文审稿GPT第二版：从Meta Nougat、GPT4审稿到Mistral、LLaMA LongLora](https://blog.csdn.net/v_JULY_v/article/details/134183799)
+
++ [(景行锐创) 高性能计算平台 Pytorch 深度学习环境超详细教程](https://blog.csdn.net/Wenyuanbo/article/details/134216006)
+
++ [树莓派结合Nginx，轻松搭建内网穿透服务实现远程访问内部站点](https://blog.csdn.net/ks_wyf/article/details/134222137)
+
++ [使用vscode实现远程开发，并通过内网穿透在公网环境下远程连接](https://blog.csdn.net/m0_69984273/article/details/134203893)
+
++ [SoftwareTest5 - 你就只知道功能测试吗 ?](https://blog.csdn.net/m0_53117341/article/details/134214297)
+
++ [一站式解决方案：体验亚马逊轻量服务器/VPS的顶级服务与灵活性](https://blog.csdn.net/qq_53123067/article/details/134218187)
+
