@@ -189,3 +189,7 @@
 
 + [《原始袭变》PC版本周末免费游玩 限时三五折特惠](https://www.3dmgame.com/news/202311/3880915.html)
 
++ [《梦工厂全明星卡丁车》现已正式发售 上市宣传片赏](https://www.3dmgame.com/news/202311/3880920.html)
+
++ [《使命召唤：现代战争3》上市前夕宣布删除武器调校功能](https://www.3dmgame.com/news/202311/3880919.html)
+

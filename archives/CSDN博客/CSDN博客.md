@@ -187,3 +187,7 @@
 
 + [CentOs7搭建基于pptp的VPN服务器](https://blog.csdn.net/u012559967/article/details/134217206)
 
++ [Kali Linux：网络与安全专家的终极武器](https://blog.csdn.net/qq_32682301/article/details/134167035)
+
++ [程序员必修课—算法效率](https://blog.csdn.net/bubble_shadow/article/details/134209687)
+

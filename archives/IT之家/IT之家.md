@@ -51,3 +51,9 @@
 
 + [三星 Galaxy S24 Ultra 手机跑分再曝：骁龙 8 Gen 3 for Galaxy CPU 提频至 3.4GHz、GPU 提至 1GHz](https://m.ithome.com/html/729919.htm)
 
++ [杭州极氪 009 车辆冒烟事件回应：受到直接冲击的单个电芯出现损坏，未出现热失控情况、无过火痕迹](https://m.ithome.com/html/729934.htm)
+
++ [《原神》4.2 版本「罪人舞步旋」11 月 8 日上线](https://m.ithome.com/html/729967.htm)
+
++ [2 名旅客绑藏 90 部旧手机进境被查，多为三星手机](https://m.ithome.com/html/729976.htm)
+
