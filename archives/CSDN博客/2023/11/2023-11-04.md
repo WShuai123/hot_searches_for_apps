@@ -191,3 +191,7 @@
 
 + [程序员必修课—算法效率](https://blog.csdn.net/bubble_shadow/article/details/134209687)
 
++ [实现自动化构建与集成：Jenkins与SVN整合的指南](https://blog.csdn.net/qq_54796785/article/details/133899251)
+
++ [【鸿蒙软件开发】UIAbility组件概况、生命周期与启动模式](https://blog.csdn.net/m0_62599305/article/details/134146835)
+
