@@ -79,3 +79,5 @@
 
 + [【台湾附赠韩国解说】速看S13全球总决赛 八强淘汰赛 Day2 GEN vs BLG](http://www.acfun.cn/v/ac42841545)
 
++ [投影仪就是要亮！2450CVIA流明亮度是怎么样的体验-当贝X5](http://www.acfun.cn/v/ac42841358)
+

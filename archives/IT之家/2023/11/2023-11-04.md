@@ -45,3 +45,5 @@
 
 + [腾讯宣布游戏《节奏大师》“回归”细节：包大小 300MB，大区数据不互通](https://m.ithome.com/html/729964.htm)
 
++ [NT 版 Windows / Mac / Linux QQ 迎更新：改进资料卡、支持商城表情等](https://m.ithome.com/html/729966.htm)
+

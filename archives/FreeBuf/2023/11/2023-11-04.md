@@ -53,3 +53,5 @@
 
 + [一文带你理解tcache缓存投毒](https://www.freebuf.com/news/382188.html)
 
++ [HTTP-Shell：一款功能强大的跨平台HTTP反向Shell工具](https://www.freebuf.com/sectool/380538.html)
+
