@@ -137,3 +137,21 @@
 
 + [《如龙7外传：无名之龙》仅用六个月时间开发完成](https://www.3dmgame.com/news/202311/3880889.html)
 
++ [《城市：天际线2》新补丁发布 优化性能减少崩溃](https://www.3dmgame.com/news/202311/3880900.html)
+
++ [《心灵杀手2》数据挖掘DLC剧透：将延续Remedy宇宙](https://www.3dmgame.com/news/202311/3880901.html)
+
++ [《尸臭-翌日异谭》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202311/3880899.html)
+
++ [微软学坏了 Xbox全屏《使命召唤20》广告引玩家不满](https://www.3dmgame.com/news/202311/3880898.html)
+
++ [《黑暗之魂2》画质MOD发布 最大限度保留原版效果](https://www.3dmgame.com/news/202311/3880897.html)
+
++ [网易有道“子曰”教育大模型通过相关备案 将对公众开放](https://www.3dmgame.com/news/202311/3880896.html)
+
++ [取消已近20年 《夜魔侠：无畏之人》原型视频泄露](https://www.3dmgame.com/news/202311/3880895.html)
+
++ [更加栩栩如生 《星空》眼睛效果新版优化MOD发布](https://www.3dmgame.com/news/202311/3880894.html)
+
++ [Q3全球智能手机出货量同比下降0.3%：小米逆势增长](https://www.3dmgame.com/news/202311/3880893.html)
+

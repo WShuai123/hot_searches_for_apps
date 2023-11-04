@@ -39,3 +39,5 @@
 
 + [郭明錤：华为的回归引发苹果 iPhone 需求疲软，且结构性改变中国手机市场](https://m.ithome.com/html/729979.htm)
 
++ [胡峥楠回应小米汽车白车身曝光：脑壳生痛，要不直接开卖吧](https://m.ithome.com/html/729997.htm)
+
