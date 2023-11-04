@@ -169,3 +169,9 @@
 
 + [搭建个人hMailServer邮件服务实现远程发送邮件](https://blog.csdn.net/2201_75743654/article/details/134191789)
 
++ [【网络奇遇记】那年我与计算机网络的初相识](https://blog.csdn.net/2301_80026901/article/details/134209912)
+
++ [MySQL中表的增删改查](https://blog.csdn.net/cool_tao6/article/details/134148942)
+
++ [基于 Amazon EC2 和 Amazon Systems Manager Session Manager 的堡垒机的设计和自动化实现](https://blog.csdn.net/zhangxia_/article/details/134177726)
+
