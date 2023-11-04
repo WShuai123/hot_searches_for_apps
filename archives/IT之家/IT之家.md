@@ -59,3 +59,7 @@
 
 + [比亚迪方程豹首款车型豹 5 官宣 11 月 9 日上市，预售价 30 万-40 万元](https://m.ithome.com/html/729995.htm)
 
++ [苹果 M3 芯片 GPU 跑分曝光：比 M2 高 9%、比 23W TDP 骁龙 X Elite 高 10%](https://m.ithome.com/html/730060.htm)
+
++ [小米 14 系列手机备件保外维修价格出炉，14 Pro 钛金属特别版屏幕 1610 元](https://m.ithome.com/html/730078.htm)
+

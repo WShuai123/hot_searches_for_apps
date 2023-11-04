@@ -43,3 +43,35 @@
 
 + [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 
++ [bensadeh / tailspin](https://github.com/bensadeh/tailspin)
+
++ [AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter)
+
++ [MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+
++ [simondankelmann / Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
+
++ [vernesong / OpenClash](https://github.com/vernesong/OpenClash)
+
++ [v2ray / v2ray-core](https://github.com/v2ray/v2ray-core)
+
++ [2dust / v2rayNG](https://github.com/2dust/v2rayNG)
+
++ [Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+
++ [haishanh / yacd](https://github.com/haishanh/yacd)
+
++ [MetaCubeX / metacubexd](https://github.com/MetaCubeX/metacubexd)
+
++ [isno / theByteBook](https://github.com/isno/theByteBook)
+
++ [shadowsocks / shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+
++ [2dust / clashN](https://github.com/2dust/clashN)
+
++ [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+
