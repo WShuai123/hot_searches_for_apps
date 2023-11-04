@@ -203,3 +203,11 @@
 
 + [【微信小程序】自定义组件（一）](https://blog.csdn.net/m0_61016904/article/details/134215189)
 
++ [【微服务】mysql + elasticsearch数据双写设计与实现](https://blog.csdn.net/zhangcongyi420/article/details/134195062)
+
++ [Spring Boot 整合SpringSecurity和JWT和Redis实现统一鉴权认证](https://blog.csdn.net/2301_80092713/article/details/134215105)
+
++ [竞赛 深度学习猫狗分类 - python opencv cnn](https://blog.csdn.net/iuerfee/article/details/134221282)
+
++ [MyBatis底层原理（小白版本）](https://blog.csdn.net/yuyanhaonan/article/details/134210341)
+

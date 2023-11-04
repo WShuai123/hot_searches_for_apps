@@ -195,3 +195,13 @@
 
 + [小米汽车新专利泄露 可检测车辆事故并自动呼叫救援](https://www.3dmgame.com/news/202311/3880921.html)
 
++ [斯宾塞：Xbox将赋能暴雪 暴雪的未来比以往任何时候都更加光明](https://www.3dmgame.com/news/202311/3880926.html)
+
++ [微软新头显专利获批：增强眼球和手部追踪技术](https://www.3dmgame.com/news/202311/3880925.html)
+
++ [2011年的《使命召唤8：现代战争3》遭差评轰炸](https://www.3dmgame.com/news/202311/3880924.html)
+
++ [《符文工厂5》Steam国区价格永降 标准版降至218元](https://www.3dmgame.com/news/202311/3880922.html)
+
++ [昆仑万维「天工」大模型正式向全社会开放](https://www.3dmgame.com/news/202311/3880923.html)
+

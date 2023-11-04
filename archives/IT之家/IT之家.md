@@ -63,3 +63,13 @@
 
 + [小米 14 系列手机备件保外维修价格出炉，14 Pro 钛金属特别版屏幕 1610 元](https://m.ithome.com/html/730078.htm)
 
++ [复旦、浙大、南开等 17 所高校成立开源鸿蒙 OpenHarmony 技术俱乐部](https://m.ithome.com/html/730047.htm)
+
++ [11.11 今日攻略：vivo Pad 2 平板 1839 元 6 期免息，联想拯救者 135W 氮化镓适配器 129 元新低](https://m.ithome.com/html/730006.htm)
+
++ [索尼 Xperia PRO-I 微单手机降至 3879 元，首发价 10999 元](https://m.ithome.com/html/730059.htm)
+
++ [苹果 macOS Sonoma 14.1 引入新守护系统，用于分析 USB-C 端口是否接触液体](https://m.ithome.com/html/729980.htm)
+
++ [为逃避欧盟监管，苹果自称提供三款 Safari 浏览器：同名不同设备](https://m.ithome.com/html/730004.htm)
+
