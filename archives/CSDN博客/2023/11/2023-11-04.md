@@ -195,3 +195,11 @@
 
 + [【鸿蒙软件开发】UIAbility组件概况、生命周期与启动模式](https://blog.csdn.net/m0_62599305/article/details/134146835)
 
++ [Linux的指令和用途（持续更新）](https://blog.csdn.net/2302_76941579/article/details/134217349)
+
++ [手机转接器实现原理,低成本方案讲解](https://blog.csdn.net/Legendary_008/article/details/134218593)
+
++ [动手学深度学习：1.线性回归从0开始实现](https://blog.csdn.net/ArthurHai521/article/details/134218571)
+
++ [【微信小程序】自定义组件（一）](https://blog.csdn.net/m0_61016904/article/details/134215189)
+
