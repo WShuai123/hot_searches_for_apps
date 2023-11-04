@@ -181,3 +181,11 @@
 
 + [北京人形机器人创新中心 全球首个软硬件“母平台”](https://www.3dmgame.com/news/202311/3880906.html)
 
++ [动作肉鸽《诸子无双》11月15日正式版发售 首周限时九折](https://www.3dmgame.com/news/202311/3880918.html)
+
++ [《塔罗斯的法则2》GLaDOS现身：可惜只是宣传片](https://www.3dmgame.com/news/202311/3880917.html)
+
++ [因经济形势 谷歌取消硅谷150亿美元新园区项目](https://www.3dmgame.com/news/202311/3880916.html)
+
++ [《原始袭变》PC版本周末免费游玩 限时三五折特惠](https://www.3dmgame.com/news/202311/3880915.html)
+

@@ -49,3 +49,5 @@
 
 + [小米 RedmiBook Pro 15 锐龙版 2023 笔记本降至 4699 元：R7 7840HS + 3.2K 120Hz 屏](https://m.ithome.com/html/729956.htm)
 
++ [三星 Galaxy S24 Ultra 手机跑分再曝：骁龙 8 Gen 3 for Galaxy CPU 提频至 3.4GHz、GPU 提至 1GHz](https://m.ithome.com/html/729919.htm)
+
