@@ -73,3 +73,7 @@
 
 + [Geometric Polar Bear Logo](https://dribbble.com/shots/)
 
++ [Minimalist Viking Logo](https://dribbble.com/shots/)
+
++ [Piccolo's Pickles No.1](https://dribbble.com/shots/)
+
