@@ -155,3 +155,11 @@
 
 + [Q3全球智能手机出货量同比下降0.3%：小米逆势增长](https://www.3dmgame.com/news/202311/3880893.html)
 
++ [小米双11开门红支付金额破131亿元 位列国产手机第一](https://www.3dmgame.com/news/202311/3880905.html)
+
++ [米哈游《绝区零》“降噪测试”资格申请现已开启](https://www.3dmgame.com/news/202311/3880904.html)
+
++ [《原神》角色演示-「夏洛蒂：爆炸新闻！」](https://www.3dmgame.com/news/202311/3880903.html)
+
++ [《炉石传说》新扩展包动画CG预告 11月15日发售](https://www.3dmgame.com/news/202311/3880902.html)
+

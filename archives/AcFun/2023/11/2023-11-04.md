@@ -75,3 +75,7 @@
 
 + [盘点那些不用动脑子的工作，看似很轻松，其实一点也不累](http://www.acfun.cn/v/ac42839248)
 
++ [龙 ju 游 环 球 #2](http://www.acfun.cn/v/ac42842985)
+
++ [【台湾附赠韩国解说】速看S13全球总决赛 八强淘汰赛 Day2 GEN vs BLG](http://www.acfun.cn/v/ac42841545)
+
