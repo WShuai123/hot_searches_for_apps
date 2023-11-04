@@ -123,3 +123,17 @@
 
 + [传《博德之门3》12月6日登陆Xbox Series](https://www.3dmgame.com/news/202311/3880882.html)
 
++ [《原神》4.2版本「罪人舞步旋」11月8日上线](https://www.3dmgame.com/news/202311/3880890.html)
+
++ [策略卡牌独立游戏《月光下的冒险》Steam页面 发售日期待定](https://www.3dmgame.com/news/202311/3880891.html)
+
++ [《GT赛车7》“Spec II”更新开场视频公开](https://www.3dmgame.com/news/202311/3880892.html)
+
++ [《最终幻想7：重生》已获韩国评级 适合15岁以上玩家](https://www.3dmgame.com/news/202311/3880886.html)
+
++ [《超市保安模拟器》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202311/3880887.html)
+
++ [《最长的散步》《赫尔克里·波洛：伦敦案件》获苏格兰游戏奖](https://www.3dmgame.com/news/202311/3880888.html)
+
++ [《如龙7外传：无名之龙》仅用六个月时间开发完成](https://www.3dmgame.com/news/202311/3880889.html)
+

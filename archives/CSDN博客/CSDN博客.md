@@ -151,3 +151,13 @@
 
 + [算法通关村第十三关黄金挑战——数论问题解析](https://blog.csdn.net/m0_74469506/article/details/134212363)
 
++ [12.JavaScript(WebAPI) - JS api文献精解](https://blog.csdn.net/xinhang10/article/details/134209036)
+
++ [机器学习之多层感知机 MLP简洁实现 《动手深度学习》实例](https://blog.csdn.net/u011074149/article/details/133051075)
+
++ [Java 21：最新特性、性能改进和语言发展](https://blog.csdn.net/qq_43546721/article/details/134202039)
+
++ [Linux非root用户运行服务实践](https://blog.csdn.net/jkler_doyourself/article/details/134210690)
+
++ [【计算机网络笔记】传输层——TCP的可靠数据传输](https://blog.csdn.net/m0_60511809/article/details/134108307)
+

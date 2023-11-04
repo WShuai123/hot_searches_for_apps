@@ -47,3 +47,7 @@
 
 + [黑暗“天使” —— Angel Drainer 钓鱼团伙揭秘](https://www.freebuf.com/articles/blockchain-articles/380862.html)
 
++ [记一次众测的两个洞](https://www.freebuf.com/vuls/379351.html)
+
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
