@@ -41,3 +41,7 @@
 
 + [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
 
++ [FreeBuf 周报 | 通用漏洞评分系统标准CVSS v4.0正式发布；波音公司承认遭受攻击](https://www.freebuf.com/news/382805.html)
+
++ [HardHatC2技术剖析](https://www.freebuf.com/articles/network/380861.html)
+

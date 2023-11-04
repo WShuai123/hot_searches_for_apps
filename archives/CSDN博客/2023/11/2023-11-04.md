@@ -133,3 +133,15 @@
 
 + [【设计模式】策略模式在项目中的实战运用](https://blog.csdn.net/Dan1374219106/article/details/134199018)
 
++ [【ElasticSearch系列-05】SpringBoot整合elasticSearch](https://blog.csdn.net/zhenghuishengq/article/details/134212200)
+
++ [【框架篇】统一用户登录权限验证](https://blog.csdn.net/m0_64338546/article/details/134209382)
+
++ [FFmpeg——使用Canvas录制视频尚存问题的解决方案](https://blog.csdn.net/qq_45902692/article/details/134206682)
+
++ [无声的世界，精神科用药并结合临床的一些分析及笔记（十）](https://blog.csdn.net/michaelline/article/details/134173918)
+
++ [将 UniLinks 与 Flutter 集成（安卓 AppLinks + iOS UniversalLinks）](https://blog.csdn.net/duninet/article/details/134210803)
+
++ [构建mono-repo风格的脚手架库](https://blog.csdn.net/zhangyun1107892254/article/details/134209445)
+

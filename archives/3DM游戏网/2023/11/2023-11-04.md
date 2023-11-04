@@ -111,3 +111,7 @@
 
 + [Xbox老板斯宾塞承诺在收购后将培养暴雪独特之处](https://www.3dmgame.com/news/202311/3880876.html)
 
++ [《暗黑破坏神4》未来更新详情 首个赛季活动12月13日上线](https://www.3dmgame.com/news/202311/3880881.html)
+
++ [《守望先锋2》未来计划：新PvP、新英雄、竞技系统重做](https://www.3dmgame.com/news/202311/3880880.html)
+
