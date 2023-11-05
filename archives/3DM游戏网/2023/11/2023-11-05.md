@@ -143,3 +143,15 @@
 
 + [《武林外传》控诉横店影视城侵权：同福客栈一比一还原](https://www.3dmgame.com/news/202311/3880947.html)
 
++ [一键叫船快捷方便 《星空》遥控飞船MOD发布](https://www.3dmgame.com/news/202311/3880953.html)
+
++ [《赛博朋克2077》AI语音MOD 加入杰洛特声音](https://www.3dmgame.com/news/202311/3880948.html)
+
++ [HORI推《勇者斗恶龙》主题NS手柄 精致美观性能强劲](https://www.3dmgame.com/news/202311/3880949.html)
+
++ [《黑暗之魂：重制版》画质MOD 大幅增加绘图距离](https://www.3dmgame.com/news/202311/3880950.html)
+
++ [《英灵神殿》获《暗黑破坏神：不朽》风格8K地图](https://www.3dmgame.com/news/202311/3880951.html)
+
++ [10年布局 特斯拉超充站已100%覆盖中国大陆省会及直辖市](https://www.3dmgame.com/news/202311/3880952.html)
+

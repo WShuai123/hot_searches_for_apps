@@ -155,3 +155,11 @@
 
 + [【亚马逊云科技产品测评】活动征文｜亚马逊云科技AWS之EC2详细测评](https://blog.csdn.net/2202_75623950/article/details/134223673)
 
++ [亚马逊云科技大语言模型下的六大创新应用功能](https://blog.csdn.net/lbcyllqj/article/details/134221123)
+
++ [MySQL---搜索引擎](https://blog.csdn.net/qq_51506982/article/details/134201512)
+
++ [BEV-YOLO 论文学习](https://blog.csdn.net/calvinpaean/article/details/134197804)
+
++ [【Unity之UI编程】如何用UGUI搭建一个登录注册面板](https://blog.csdn.net/m0_64128218/article/details/134223658)
+
