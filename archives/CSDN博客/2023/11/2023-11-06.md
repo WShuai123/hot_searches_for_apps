@@ -105,3 +105,21 @@
 
 + [Springboot实现人脸识别与WebSocket长连接的实现](https://blog.csdn.net/weixin_47039303/article/details/134232172)
 
++ [2023年亚太杯APMCM数学建模大赛ABC题辅导及组队](https://blog.csdn.net/weixin_43292788/article/details/134235933)
+
++ [[蓝桥杯 2022 省 A] 推导部分和](https://blog.csdn.net/huang_ke_hai/article/details/134236517)
+
++ [Java 21：最新特性、性能改进和语言发展](https://blog.csdn.net/qq_43546721/article/details/134202039)
+
++ [【探索Linux】—— 强大的命令行工具 P.13（文件系统 | 软硬链接 | 动态库和静态库）](https://blog.csdn.net/m0_75215937/article/details/134125454)
+
++ [讲透Rust核心概念：所有权](https://blog.csdn.net/m0_37816922/article/details/132471323)
+
++ [ElasticSearch 实现 全文检索 支持（PDF、TXT、Word、HTML等文件）通过 ingest-attachment 插件实现 文档的检索](https://blog.csdn.net/lijie0213/article/details/134205963)
+
++ [Java+SSM+MySQL的基于微信的健康减肥管理小程序的设计与实现（附源码 调试 文档）](https://blog.csdn.net/shenchengyv/article/details/134224896)
+
++ [relectron框架——打包前端vue3、react为pc端exe可执行程序](https://blog.csdn.net/qq_38870145/article/details/134210786)
+
++ [Tcl语言：SDC约束命令create_clock详解](https://blog.csdn.net/weixin_45791458/article/details/134217796)
+

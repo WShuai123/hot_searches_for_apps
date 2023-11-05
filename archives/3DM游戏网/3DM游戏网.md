@@ -107,3 +107,11 @@
 
 + [流产的RTX 4090 Ti挡板也被卖了！175块钱买个念想](https://www.3dmgame.com/news/202311/3880963.html)
 
++ [《上古卷轴4：湮没》天际重制版25分钟实机视频](https://www.3dmgame.com/news/202311/3880966.html)
+
++ [经典DnD游戏《冰风谷2》增强版Mod提供下载](https://www.3dmgame.com/news/202311/3880967.html)
+
++ [《心灵杀手2》并未使用完整的路径追踪功能](https://www.3dmgame.com/news/202311/3880968.html)
+
++ [《寂静岭2》重制版将为三角头打造“特别背景剧情”](https://www.3dmgame.com/news/202311/3880969.html)
+
