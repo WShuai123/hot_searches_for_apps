@@ -67,3 +67,11 @@
 
 + [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
 
++ [Solve Et Coagula: Falling Apart and Coming Together](https://dribbble.com/shots/)
+
++ [Surfe Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Proxies](https://dribbble.com/shots/)
+
++ [Dewsbury Rams](https://dribbble.com/shots/)
+

@@ -101,3 +101,5 @@
 
 + [Scraibe for iOS](https://www.producthunt.com/posts/scraibe-for-ios)
 
++ [Magic Dash AI](https://www.producthunt.com/posts/magic-dash-ai)
+
