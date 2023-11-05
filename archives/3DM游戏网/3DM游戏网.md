@@ -133,3 +133,7 @@
 
 + [IO Interactive一心开发007游戏 拒绝多个IP合作提议](https://www.3dmgame.com/news/202311/3880940.html)
 
++ [世嘉公布《足球经理2024》系列历程 11月7日发售在即](https://www.3dmgame.com/news/202311/3880944.html)
+
++ [英特尔CEO：进军手机业失败是犯下的最大错误](https://www.3dmgame.com/news/202311/3880943.html)
+

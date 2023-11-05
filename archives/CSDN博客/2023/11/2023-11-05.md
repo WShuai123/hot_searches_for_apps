@@ -143,3 +143,11 @@
 
 + [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/134227119)
 
++ [【兔子王赠书第6期】Python机器学习实战：基于Scikit-learn与PyTorch的神经网络解决方案](https://blog.csdn.net/m0_68111267/article/details/134210154)
+
++ [Document Solutions for Word（GcWord）6.2.5 Crack](https://blog.csdn.net/john_dwh/article/details/134227912)
+
++ [2014年亚太杯APMCM数学建模大赛B题如何评价微信公众号求解全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134227715)
+
++ [Electron[2] Electron使用准备](https://blog.csdn.net/wltsysterm/article/details/134227423)
+
