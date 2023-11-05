@@ -131,3 +131,9 @@
 
 + [【计算机网络笔记】TCP连接管理（图解三次握手和四次挥手）](https://blog.csdn.net/m0_60511809/article/details/134122169)
 
++ [【MySQL】嵌套查询—数据之旅:解析层层嵌套的迷思](https://blog.csdn.net/2301_80760873/article/details/134193327)
+
++ [基于Java+Vue+uniapp微信小程序外卖平台系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134197509)
+
++ [【Redis】笔记学习中](https://blog.csdn.net/weixin_53217341/article/details/134216565)
+

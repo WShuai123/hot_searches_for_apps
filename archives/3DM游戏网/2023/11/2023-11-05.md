@@ -113,3 +113,17 @@
 
 + [二战RTS《归途列车》更新上线 修复问题提高体验](https://www.3dmgame.com/news/202311/3880928.html)
 
++ [M站数据显示2023年是二十年来高分游戏最多的一年](https://www.3dmgame.com/news/202311/3880937.html)
+
++ [NC新作网游《王权与自由》确定12月7日韩服上线](https://www.3dmgame.com/news/202311/3880938.html)
+
++ [发售仅半年 《Omega Strikers》年底停止内容更新](https://www.3dmgame.com/news/202311/3880939.html)
+
++ [《暗黑破坏神》桌游产品公布 将于明后两年上市](https://www.3dmgame.com/news/202311/3880933.html)
+
++ [《守望先锋》世界杯决赛正式结束：中国队2-3获亚军](https://www.3dmgame.com/news/202311/3880934.html)
+
++ [微软在土耳其和阿根廷再次大幅上调订阅服务价格](https://www.3dmgame.com/news/202311/3880935.html)
+
++ [《FWsim: 烟花表演模拟器》登陆steam 美丽新世界](https://www.3dmgame.com/news/202311/3880936.html)
+

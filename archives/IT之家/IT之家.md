@@ -37,3 +37,7 @@
 
 + [狂裁 2000 人，大众软件部两年亏 260 亿，高管曾集体被炒](https://m.ithome.com/html/730098.htm)
 
++ [消息称高通骁龙 8 Gen 4 将整合下一代 Adreno 830，GPU 跑分比苹果 M2 高 10%](https://m.ithome.com/html/730115.htm)
+
++ [比亚迪宋 PLUS 冠军版车型限时 2000 抵 7000 元，原价 15.98 万元起](https://m.ithome.com/html/730088.htm)
+
