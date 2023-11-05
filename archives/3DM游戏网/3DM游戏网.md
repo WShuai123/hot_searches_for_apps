@@ -161,3 +161,5 @@
 
 + [《机械战警：暴戾都市》PC版性能分析：表现不错](https://www.3dmgame.com/news/202311/3880956.html)
 
++ [苹果表示Vision Pro只会在Apple Store提供](https://www.3dmgame.com/news/202311/3880957.html)
+

@@ -51,3 +51,27 @@
 
 + [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 
++ [idurar / idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
++ [microsoft / DeepSpeed](https://github.com/microsoft/DeepSpeed)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
+
++ [Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core)
+
++ [nz-m / SocialEcho](https://github.com/nz-m/SocialEcho)
+
++ [girafe-ai / ml-course](https://github.com/girafe-ai/ml-course)
+
++ [chronark / highstorm](https://github.com/chronark/highstorm)
+
++ [Ieooo / clash](https://github.com/Ieooo/clash)
+
++ [apernet / hysteria](https://github.com/apernet/hysteria)
+
++ [v2rayA / v2rayA](https://github.com/v2rayA/v2rayA)
+

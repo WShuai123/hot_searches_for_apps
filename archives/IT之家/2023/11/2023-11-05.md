@@ -53,3 +53,5 @@
 
 + [惠普暗影精灵 9 笔记本百亿补贴：i9-13900HX + RTX 4060，7999 元](https://m.ithome.com/html/730107.htm)
 
++ [京东苹果 11.11 狂促继续：iPhone 15 Pro Max 立减 800 元](https://m.ithome.com/html/730146.htm)
+
