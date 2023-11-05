@@ -51,3 +51,5 @@
 
 + [全新索尼 LYTIA 移动传感器曝光，小米、OPPO 及 vivo 将采用 50MP 一英寸 LYT900](https://m.ithome.com/html/730119.htm)
 
++ [惠普暗影精灵 9 笔记本百亿补贴：i9-13900HX + RTX 4060，7999 元](https://m.ithome.com/html/730107.htm)
+
