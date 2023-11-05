@@ -41,3 +41,13 @@
 
 + [小红书数据安全建设实践；亚马逊云科技构建安全合规的AI | FCIS 2023 大会议题前瞻](https://www.freebuf.com/articles/382635.html)
 
++ [Dosinator：一款功能强大的DoS拒绝服务攻击测试工具](https://www.freebuf.com/sectool/380544.html)
+
++ [Java安全攻防之ActiveMQ从Broker到Consumer](https://www.freebuf.com/articles/network/382780.html)
+
++ [Apache Commons Compress拒绝服务漏洞 CVE-2021-35515](https://www.freebuf.com/vuls/382817.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/382791.html)
+
++ [如何使用钩子框架扩展Android平台恶意软件检测覆盖率](https://www.freebuf.com/articles/game/380192.html)
+

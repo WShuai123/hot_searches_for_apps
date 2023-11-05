@@ -163,3 +163,5 @@
 
 + [苹果表示Vision Pro只会在Apple Store提供](https://www.3dmgame.com/news/202311/3880957.html)
 
++ [PS5 Slim首个拆解视频 温度、能耗比旧款都更高](https://www.3dmgame.com/news/202311/3880958.html)
+

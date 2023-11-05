@@ -183,3 +183,11 @@
 
 + [1.Netty概述](https://blog.csdn.net/lock0531/article/details/134231962)
 
++ [OpenCV实现手势音量控制](https://blog.csdn.net/weixin_51390582/article/details/134218385)
+
++ [【音视频 | opus】opus编码的Ogg封装文件详解](https://blog.csdn.net/wkd_007/article/details/134206646)
+
++ [微信内H5页面唤醒App](https://blog.csdn.net/qq_44859233/article/details/134232099)
+
++ [yolov8+动物+姿态识别（训练教程+代码）](https://blog.csdn.net/ALiLiLiYa/article/details/134231545)
+

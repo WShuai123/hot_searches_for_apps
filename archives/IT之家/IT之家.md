@@ -55,3 +55,9 @@
 
 + [京东苹果 11.11 狂促继续：iPhone 15 Pro Max 立减 800 元](https://m.ithome.com/html/730146.htm)
 
++ [《英雄联盟》S13 全球总决赛淘汰赛：T1 以 3-0 战胜 LNG，晋级四强](https://m.ithome.com/html/730203.htm)
+
++ [保时捷中国 CEO：目前中国市场规模尚无法支撑保时捷国产](https://m.ithome.com/html/730193.htm)
+
++ [中国移动 5G 消息 12 月 1 日起正式商用：国内（不含港澳台）0.1 元 / 条，接收免费](https://m.ithome.com/html/730186.htm)
+
