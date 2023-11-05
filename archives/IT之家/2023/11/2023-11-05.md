@@ -47,3 +47,7 @@
 
 + [雷军：小米 14 Pro 钛金属特别版手机成本高、加工难，正在拼命催单](https://m.ithome.com/html/730139.htm)
 
++ [首个苹果 M3 Pro 芯片跑分出炉：比 M2 Pro 快 6~14%](https://m.ithome.com/html/730150.htm)
+
++ [全新索尼 LYTIA 移动传感器曝光，小米、OPPO 及 vivo 将采用 50MP 一英寸 LYT900](https://m.ithome.com/html/730119.htm)
+
