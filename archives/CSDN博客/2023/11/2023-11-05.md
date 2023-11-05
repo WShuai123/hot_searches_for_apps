@@ -127,3 +127,5 @@
 
 + [vue的指令学习](https://blog.csdn.net/weiyi47/article/details/134213047)
 
++ [时间序列聚类的直观方法](https://blog.csdn.net/gongdiwudu/article/details/134212467)
+

@@ -101,3 +101,5 @@
 
 + [Xbox老板斯宾塞承诺在收购后将培养暴雪独特之处](https://www.3dmgame.com/news/202311/3880876.html)
 
++ [《魔兽世界：大灾变 经典服》公布 2024年上线](https://www.3dmgame.com/news/202311/3880927.html)
+
