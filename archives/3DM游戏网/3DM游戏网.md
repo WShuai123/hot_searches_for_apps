@@ -101,3 +101,9 @@
 
 + [漫威新剧《回声》首发预告 网飞版金并再次回归！](https://www.3dmgame.com/news/202311/3880908.html)
 
++ [《最后的生还者》多人游戏总监：游戏仍在开发中](https://www.3dmgame.com/news/202311/3880965.html)
+
++ [传闻：顽皮狗有四款游戏正在开发](https://www.3dmgame.com/news/202311/3880964.html)
+
++ [流产的RTX 4090 Ti挡板也被卖了！175块钱买个念想](https://www.3dmgame.com/news/202311/3880963.html)
+
