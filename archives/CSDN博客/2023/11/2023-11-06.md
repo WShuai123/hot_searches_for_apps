@@ -101,3 +101,7 @@
 
 + [ELK搭建以及使用教程（多pipiline）](https://blog.csdn.net/weixin_38405770/article/details/134229548)
 
++ [Azure 机器学习 - 使用 ONNX 对来自 AutoML 的计算机视觉模型进行预测](https://blog.csdn.net/magicyangjay111/article/details/134233908)
+
++ [Springboot实现人脸识别与WebSocket长连接的实现](https://blog.csdn.net/weixin_47039303/article/details/134232172)
+

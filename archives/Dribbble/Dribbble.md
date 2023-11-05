@@ -81,3 +81,9 @@
 
 + [Murder Crow (Ink'd)](https://dribbble.com/shots/)
 
++ [Colourful Chaos](https://dribbble.com/shots/)
+
++ [Minimalist Viking Logo](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
