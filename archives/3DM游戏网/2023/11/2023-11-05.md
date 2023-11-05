@@ -169,3 +169,7 @@
 
 + [数毛社：Switch 2能带来流畅的1080P光追体验](https://www.3dmgame.com/news/202311/3880959.html)
 
++ [Steam十月硬件调查：3060继续霸榜 简体中文使用者最多](https://www.3dmgame.com/news/202311/3880962.html)
+
++ [真假？传索尼要拍《血源》真人电影](https://www.3dmgame.com/news/202311/3880961.html)
+
