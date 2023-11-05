@@ -43,3 +43,5 @@
 
 + [小米开启 CarWith 适配兼容性测试，号称将覆盖 1400 款、2600 万台车](https://m.ithome.com/html/730114.htm)
 
++ [华为 Mate 60 Pro 手机明日开启“90 天预约申购”，期内订单将按照随机顺序发货](https://m.ithome.com/html/730141.htm)
+

@@ -151,3 +151,7 @@
 
 + [Electron[2] Electron使用准备](https://blog.csdn.net/wltsysterm/article/details/134227423)
 
++ [【Vue.js】Vue3全局配置Axios并解决跨域请求问题](https://blog.csdn.net/SKMIT/article/details/134226890)
+
++ [【亚马逊云科技产品测评】活动征文｜亚马逊云科技AWS之EC2详细测评](https://blog.csdn.net/2202_75623950/article/details/134223673)
+

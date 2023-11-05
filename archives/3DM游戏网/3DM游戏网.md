@@ -137,3 +137,5 @@
 
 + [英特尔CEO：进军手机业失败是犯下的最大错误](https://www.3dmgame.com/news/202311/3880943.html)
 
++ [商店版星露谷？像素风新作《Discounty》公布](https://www.3dmgame.com/news/202311/3880945.html)
+
