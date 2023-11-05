@@ -25,3 +25,5 @@
 
 + [全新索尼 LYTIA 移动传感器曝光，小米、OPPO 及 vivo 将采用 50MP 一英寸 LYT900](https://m.ithome.com/html/730119.htm)
 
++ [比亚迪日赚一个亿，毛利率反超特斯拉，单车利润终破万](https://m.ithome.com/html/730220.htm)
+
