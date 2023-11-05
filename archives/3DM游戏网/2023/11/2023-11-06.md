@@ -115,3 +115,7 @@
 
 + [《寂静岭2》重制版将为三角头打造“特别背景剧情”](https://www.3dmgame.com/news/202311/3880969.html)
 
++ [VR狙击游戏《狙击精英VR：寒冬战士》发布预告](https://www.3dmgame.com/news/202311/3880971.html)
+
++ [PC版快节奏足球游戏《梦想足球24》16日发售](https://www.3dmgame.com/news/202311/3880970.html)
+
