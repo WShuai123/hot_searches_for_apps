@@ -137,3 +137,7 @@
 
 + [【Redis】笔记学习中](https://blog.csdn.net/weixin_53217341/article/details/134216565)
 
++ [【鸿蒙软件开发】ArkUI之Column、ColumnSplit组件](https://blog.csdn.net/m0_62599305/article/details/134148458)
+
++ [读程序员的制胜技笔记04_有用的反模式（下）](https://blog.csdn.net/lyingSeven/article/details/134224064)
+

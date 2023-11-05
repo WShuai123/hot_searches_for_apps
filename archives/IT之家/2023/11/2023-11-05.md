@@ -41,3 +41,5 @@
 
 + [比亚迪宋 PLUS 冠军版车型限时 2000 抵 7000 元，原价 15.98 万元起](https://m.ithome.com/html/730088.htm)
 
++ [小米开启 CarWith 适配兼容性测试，号称将覆盖 1400 款、2600 万台车](https://m.ithome.com/html/730114.htm)
+
