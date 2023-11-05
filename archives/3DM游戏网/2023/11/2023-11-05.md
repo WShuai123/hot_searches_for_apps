@@ -165,3 +165,7 @@
 
 + [PS5 Slim首个拆解视频 温度、能耗比旧款都更高](https://www.3dmgame.com/news/202311/3880958.html)
 
++ [消息称比亚迪将在匈牙利建设第一家欧洲工厂](https://www.3dmgame.com/news/202311/3880960.html)
+
++ [数毛社：Switch 2能带来流畅的1080P光追体验](https://www.3dmgame.com/news/202311/3880959.html)
+

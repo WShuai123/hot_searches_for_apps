@@ -191,3 +191,9 @@
 
 + [yolov8+动物+姿态识别（训练教程+代码）](https://blog.csdn.net/ALiLiLiYa/article/details/134231545)
 
++ [向量数据库的崛起与多元化场景创新](https://blog.csdn.net/m0_68089732/article/details/134225555)
+
++ [七月论文审稿GPT第2版：从Meta Nougat、GPT4审稿到Mistral、LongLora](https://blog.csdn.net/v_JULY_v/article/details/134183799)
+
++ [【网络】HTTPS协议](https://blog.csdn.net/qq_65207641/article/details/133253474)
+
