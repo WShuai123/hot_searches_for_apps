@@ -127,3 +127,9 @@
 
 + [《FWsim: 烟花表演模拟器》登陆steam 美丽新世界](https://www.3dmgame.com/news/202311/3880936.html)
 
++ [《海豚没有鳞片的原因》免费登陆Steam 创意射击新游](https://www.3dmgame.com/news/202311/3880942.html)
+
++ [马斯克热推AI助手 Grok 为X“Premium+”标配每月16美元](https://www.3dmgame.com/news/202311/3880941.html)
+
++ [IO Interactive一心开发007游戏 拒绝多个IP合作提议](https://www.3dmgame.com/news/202311/3880940.html)
+

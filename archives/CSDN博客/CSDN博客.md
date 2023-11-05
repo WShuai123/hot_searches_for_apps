@@ -141,3 +141,5 @@
 
 + [读程序员的制胜技笔记04_有用的反模式（下）](https://blog.csdn.net/lyingSeven/article/details/134224064)
 
++ [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/134227119)
+
