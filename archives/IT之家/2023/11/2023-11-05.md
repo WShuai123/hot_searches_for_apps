@@ -33,3 +33,7 @@
 
 + [《英雄联盟》S13 全球总决赛淘汰赛：JDG 3-1 KT 晋级四强](https://m.ithome.com/html/730092.htm)
 
++ [华为、小鹏“AEB 之争”仍未结束：何小鹏喊话“不知道他急什么”](https://m.ithome.com/html/730111.htm)
+
++ [狂裁 2000 人，大众软件部两年亏 260 亿，高管曾集体被炒](https://m.ithome.com/html/730098.htm)
+

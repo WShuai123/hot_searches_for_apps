@@ -103,3 +103,13 @@
 
 + [《魔兽世界：大灾变 经典服》公布 2024年上线](https://www.3dmgame.com/news/202311/3880927.html)
 
++ [《美国联合教派》steam页面上线 教派经营模拟](https://www.3dmgame.com/news/202311/3880932.html)
+
++ [《暗黑破坏神4：憎恨之躯》剧情简介和首个概念图](https://www.3dmgame.com/news/202311/3880931.html)
+
++ [《守望先锋2》：新模式“交锋”、新地图“花丘”细节](https://www.3dmgame.com/news/202311/3880930.html)
+
++ [《魔兽世界：地心之战》开启预购 史诗版售价90美元](https://www.3dmgame.com/news/202311/3880929.html)
+
++ [二战RTS《归途列车》更新上线 修复问题提高体验](https://www.3dmgame.com/news/202311/3880928.html)
+
