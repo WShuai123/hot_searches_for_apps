@@ -139,3 +139,7 @@
 
 + [商店版星露谷？像素风新作《Discounty》公布](https://www.3dmgame.com/news/202311/3880945.html)
 
++ [新电影《机动战士高达SEED FREEDOM》角色设定图公开](https://www.3dmgame.com/news/202311/3880946.html)
+
++ [《武林外传》控诉横店影视城侵权：同福客栈一比一还原](https://www.3dmgame.com/news/202311/3880947.html)
+

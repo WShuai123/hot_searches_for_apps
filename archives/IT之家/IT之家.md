@@ -45,3 +45,5 @@
 
 + [华为 Mate 60 Pro 手机明日开启“90 天预约申购”，期内订单将按照随机顺序发货](https://m.ithome.com/html/730141.htm)
 
++ [雷军：小米 14 Pro 钛金属特别版手机成本高、加工难，正在拼命催单](https://m.ithome.com/html/730139.htm)
+
