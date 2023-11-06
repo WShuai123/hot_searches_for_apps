@@ -135,3 +135,53 @@
 
 + [Frederick AI](https://www.producthunt.com/posts/frederick-ai)
 
++ [aiCarousels 2.0](https://www.producthunt.com/posts/aicarousels-2-0)
+
++ [Decorion AI](https://www.producthunt.com/posts/decorion-ai)
+
++ [MVP Studio](https://www.producthunt.com/posts/mvp-studio-2)
+
++ [Keep React](https://www.producthunt.com/posts/keep-react)
+
++ [Clap](https://www.producthunt.com/posts/clap)
+
++ [Venngage Accessible Design Tool](https://www.producthunt.com/posts/venngage-accessible-design-tool)
+
++ [Quizzle](https://www.producthunt.com/posts/quizzle)
+
++ [Canopy AI](https://www.producthunt.com/posts/canopy-ai)
+
++ [Quenti](https://www.producthunt.com/posts/quenti)
+
++ [Free Bug Reporting Widget](https://www.producthunt.com/posts/free-bug-reporting-widget)
+
++ [Chainrel](https://www.producthunt.com/posts/chainrel)
+
++ [Cicada](https://www.producthunt.com/posts/cicada-4)
+
++ [Revelo Shortlist](https://www.producthunt.com/posts/revelo-shortlist)
+
++ [NotionVC.com](https://www.producthunt.com/posts/notionvc-com)
+
++ [GénérationS Coloc](https://www.producthunt.com/posts/generations-coloc)
+
++ [SummyMonkey](https://www.producthunt.com/posts/summymonkey)
+
++ [Hehealth.ai: PEnis Health with AI](https://www.producthunt.com/posts/hehealth-ai-penis-health-with-ai)
+
++ [Interview Prep Tool](https://www.producthunt.com/posts/interview-prep-tool)
+
++ [Anise Health RestorAsian Scholarship](https://www.producthunt.com/posts/anise-health-restorasian-scholarship)
+
++ [Universal UI Kit (Web) v4.0](https://www.producthunt.com/posts/universal-ui-kit-web-v4-0)
+
++ [SummaVerse](https://www.producthunt.com/posts/summaverse)
+
++ [GPTBLOX - ChatGPT/Bard/Claude Save Data](https://www.producthunt.com/posts/gptblox-chatgpt-bard-claude-save-data)
+
++ [INSIVER](https://www.producthunt.com/posts/insiver)
+
++ [Re:catch](https://www.producthunt.com/posts/re-catch)
+
++ [Attentionkart](https://www.producthunt.com/posts/attentionkart)
+

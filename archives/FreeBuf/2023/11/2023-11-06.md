@@ -59,3 +59,7 @@
 
 + [如何使用KnockKnock枚举OneDrive和Microsoft Teams的有效用户](https://www.freebuf.com/sectool/380555.html)
 
++ [将电源侧信道攻击转化为x86远程时序攻击](https://www.freebuf.com/vuls/381130.html)
+
++ [警惕！微软Exchange服务器零日漏洞，仍未完全修复](https://www.freebuf.com/news/382876.html)
+

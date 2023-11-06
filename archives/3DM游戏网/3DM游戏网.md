@@ -203,3 +203,15 @@
 
 + [《博德之门3》PS5日版官方禁止所有成人暴露内容 12月21日发售](https://www.3dmgame.com/news/202311/3881010.html)
 
++ [《人中之龙８》公开初期剧情与主要登场人物的详情](https://www.3dmgame.com/news/202311/3881018.html)
+
++ [《龙之信条2》设计师曾闭关三天两夜 想出许多点子](https://www.3dmgame.com/news/202311/3881019.html)
+
++ [AI游戏编码工具能够立即设计出克隆版《愤怒的小鸟》](https://www.3dmgame.com/news/202311/3881017.html)
+
++ [希捷将推业界首款第二代HAMR硬盘 32TB版明年发](https://www.3dmgame.com/news/202311/3881016.html)
+
++ [韩国女团亮相2023暴雪嘉年华 穿性感短裙活力四射](https://www.3dmgame.com/news/202311/3881015.html)
+
++ [《完蛋！我被美女包围了！》官方回应续作传闻：正在做DLC](https://www.3dmgame.com/news/202311/3881014.html)
+

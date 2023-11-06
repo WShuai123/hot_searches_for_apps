@@ -161,3 +161,11 @@
 
 + [使用蒙特卡罗模拟的投资组合优化](https://blog.csdn.net/m0_46510245/article/details/134240038)
 
++ [使用群晖Docker搭建HomeAssistant并实现异地公网访问](https://blog.csdn.net/hsjsiwkwm/article/details/134244448)
+
++ [Linux 本地Yearning SQL审核平台远程访问](https://blog.csdn.net/ljq_up/article/details/134245280)
+
++ [【微信小程序】自定义组件（二）](https://blog.csdn.net/m0_61016904/article/details/134215705)
+
++ [12.JavaScript(WebAPI) - JS api文献精解](https://blog.csdn.net/xinhang10/article/details/134209036)
+

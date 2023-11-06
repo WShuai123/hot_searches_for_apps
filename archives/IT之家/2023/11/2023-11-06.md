@@ -45,3 +45,5 @@
 
 + [《完蛋！我被美女包围了》开发商新作《完蛋 2！我被帅哥包围了！》正在筹备中](https://m.ithome.com/html/730341.htm)
 
++ [11.11 今日攻略：三星 990 Pro 旗舰 2T SSD 京东 979 元探底，国产致态 TiPlus7100 2T SSD 官方 799 元发车](https://m.ithome.com/html/730234.htm)
+
