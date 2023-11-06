@@ -145,3 +145,23 @@
 
 + [暴雪嘉年华COS集锦 《暗黑4》莉莉丝获最佳创意](https://www.3dmgame.com/news/202311/3880975.html)
 
++ [《暗黑破坏神4》开发者对奶牛关给出了“重大暗示”](https://www.3dmgame.com/news/202311/3880994.html)
+
++ [任天堂或推出《任天堂明星大乱斗：特别版》Switch OLED捆绑包](https://www.3dmgame.com/news/202311/3880993.html)
+
++ [《暗黑破坏神4：憎恨之躯》概念图 墨菲斯托很邪恶](https://www.3dmgame.com/news/202311/3880992.html)
+
++ [Bungie新作《马拉松》早期反馈不佳 测试者并不感兴趣](https://www.3dmgame.com/news/202311/3880991.html)
+
++ [水族模拟器《Fish Games》发行失误提前推出 但收获特别好评](https://www.3dmgame.com/news/202311/3880990.html)
+
++ [《巫兎》免费登陆Steam 美少女刀剑对战BOSS](https://www.3dmgame.com/news/202311/3880989.html)
+
++ [腾讯《三角洲行动》实机对局 最低配置需RTX3060](https://www.3dmgame.com/news/202311/3880988.html)
+
++ [港服PS Plus三档会员新增多款试玩游戏：《最终幻想7：核心危机 重聚》等](https://www.3dmgame.com/news/202311/3880987.html)
+
++ [再见彼得！《漫威蜘蛛侠3》小黑蛛将是唯一主角](https://www.3dmgame.com/news/202311/3880986.html)
+
++ [《守望先锋2》非二元新英雄无畏演示 Buff要叠满](https://www.3dmgame.com/news/202311/3880985.html)
+
