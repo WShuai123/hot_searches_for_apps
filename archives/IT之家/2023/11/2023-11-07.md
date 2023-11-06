@@ -25,3 +25,5 @@
 
 + [少林寺方丈释永信造访 Meta 总部，谈“禅宗遇到 AI”](https://m.ithome.com/html/730460.htm)
 
++ [苹果 iPhone 15 / Pro 和 M3 Mac 爆料回顾：郭明錤、Gurman 各领风骚](https://m.ithome.com/html/730320.htm)
+

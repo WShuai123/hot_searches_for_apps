@@ -103,3 +103,7 @@
 
 + [《如龙7外传》IGN 7分：正餐前的开胃菜](https://www.3dmgame.com/news/202311/3881038.html)
 
++ [共有750万玩家参与了《最终决战》开放测试](https://www.3dmgame.com/news/202311/3881040.html)
+
++ [Xbox与生成式AI公司合作 实现动态生成剧情/任务](https://www.3dmgame.com/news/202311/3881039.html)
+

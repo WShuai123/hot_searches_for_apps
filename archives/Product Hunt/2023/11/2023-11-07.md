@@ -105,3 +105,7 @@
 
 + [Baked Design Studio](https://www.producthunt.com/posts/baked-design-studio)
 
++ [GPT-4 Turbo](https://www.producthunt.com/posts/gpt-4-turbo)
+
++ [GPTs by OpenAI](https://www.producthunt.com/posts/gpts-by-openai)
+
