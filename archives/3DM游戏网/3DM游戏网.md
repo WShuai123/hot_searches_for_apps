@@ -119,3 +119,7 @@
 
 + [PC版快节奏足球游戏《梦想足球24》16日发售](https://www.3dmgame.com/news/202311/3880970.html)
 
++ [衍生短片《哥斯拉VS梅加洛》预告 怪兽大战升级](https://www.3dmgame.com/news/202311/3880973.html)
+
++ [沙盒破坏游戏《拆迁》11月15日登陆PS及Xbox](https://www.3dmgame.com/news/202311/3880972.html)
+

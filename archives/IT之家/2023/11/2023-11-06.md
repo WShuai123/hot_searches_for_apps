@@ -27,3 +27,9 @@
 
 + [比亚迪日赚一个亿，毛利率反超特斯拉，单车利润终破万](https://m.ithome.com/html/730220.htm)
 
++ [AI 女友突然下线，大叔集体“崩溃”冲向贴吧哀悼](https://m.ithome.com/html/730233.htm)
+
++ [分析师：仅苹果 M3、M3 Pro 和 M3 Max 的流片成本就达 10 亿美元](https://m.ithome.com/html/730216.htm)
+
++ [网红富豪空中狂撒一百万美元现金，上千人用麻袋捡钱](https://m.ithome.com/html/730231.htm)
+
