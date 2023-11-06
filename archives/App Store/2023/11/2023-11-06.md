@@ -219,3 +219,5 @@
 
 + [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
 
++ [顺丰速运-快递查寄收 不止是快](https://itunes.apple.com/cn/app/id899529698?mt=8)
+
