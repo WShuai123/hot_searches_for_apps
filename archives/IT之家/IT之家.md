@@ -33,3 +33,9 @@
 
 + [网红富豪空中狂撒一百万美元现金，上千人用麻袋捡钱](https://m.ithome.com/html/730231.htm)
 
++ [领克 06 EM-P 上市：售 13.68 万元起，搭载超级增程电动方案](https://m.ithome.com/html/730222.htm)
+
++ [没有国产可能 1979 元？三星 990 PRO 2T SSD 京东 979 元再探底](https://m.ithome.com/html/730202.htm)
+
++ [115 亿，零跑汽车牵手玛莎拉蒂母公司](https://m.ithome.com/html/730229.htm)
+

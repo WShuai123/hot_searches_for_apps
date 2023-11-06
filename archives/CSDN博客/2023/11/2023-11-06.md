@@ -139,3 +139,7 @@
 
 + [华为政企网络安全产品集](https://blog.csdn.net/uesowys/article/details/134228598)
 
++ [【SpringBoot篇】SpringBoot整合Mybatis实战](https://blog.csdn.net/m0_72853403/article/details/134240336)
+
++ [LLM时代中的分布式AI](https://blog.csdn.net/ariesjzj/article/details/134215494)
+

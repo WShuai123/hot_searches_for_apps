@@ -207,3 +207,7 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [点淘-淘宝直播官方APP](https://itunes.apple.com/cn/app/id1448831879?mt=8)
+

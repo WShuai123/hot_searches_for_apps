@@ -179,3 +179,9 @@
 
 + [刘昊然回应一部手机用五六年 够用就行](https://www.3dmgame.com/news/202311/3880998.html)
 
++ [回合制 Roguelike战棋与跑团RPG游戏《为了吾王II》现已正式上线 Steam！](https://www.3dmgame.com/news/202311/3881004.html)
+
++ [博主用AI动画生成普通女孩的一生：温暖治愈感动众人](https://www.3dmgame.com/news/202311/3881003.html)
+
++ [《Apex Legends》x Post Malone 与限时模式“三次机会”将于 11 月 7 日](https://www.3dmgame.com/news/202311/3881002.html)
+
