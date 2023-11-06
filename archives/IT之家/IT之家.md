@@ -39,3 +39,7 @@
 
 + [115 亿，零跑汽车牵手玛莎拉蒂母公司](https://m.ithome.com/html/730229.htm)
 
++ [vivo X100 手机现身 Geekbench，联发科天玑 9300 芯片跑分基本持平高通骁龙 8 Gen 3](https://m.ithome.com/html/730162.htm)
+
++ [余承东亲自预热：华为智选车业务首款轿车，智界 S7 官图公布](https://m.ithome.com/html/730270.htm)
+

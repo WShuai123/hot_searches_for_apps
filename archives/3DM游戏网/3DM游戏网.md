@@ -185,3 +185,9 @@
 
 + [《Apex Legends》x Post Malone 与限时模式“三次机会”将于 11 月 7 日](https://www.3dmgame.com/news/202311/3881002.html)
 
++ [《咒术回战》动画官方将推出第二季原声带 封面五条悟对半开](https://www.3dmgame.com/news/202311/3881006.html)
+
++ [传闻：《寂静岭2：重制版》将于2024年3月21日发售](https://www.3dmgame.com/news/202311/3881007.html)
+
++ [《BoneField》Steam页面上线 摄录风恐怖冒险](https://www.3dmgame.com/news/202311/3881005.html)
+

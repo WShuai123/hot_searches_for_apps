@@ -143,3 +143,19 @@
 
 + [LLM时代中的分布式AI](https://blog.csdn.net/ariesjzj/article/details/134215494)
 
++ [SpringBoot知识点复习](https://blog.csdn.net/qq_40609008/article/details/134229764)
+
++ [【计算机网络】HTTP 协议](https://blog.csdn.net/m0_73888323/article/details/134130632)
+
++ [Rust结构体和枚举类](https://blog.csdn.net/m0_37816922/article/details/132611842)
+
++ [遥感影像智能化分割分类工程化实施路径摸索](https://blog.csdn.net/A1258516/article/details/133943984)
+
++ [FastAPI 库（Python 的 Web 框架）基本使用指南（一）](https://blog.csdn.net/footless_bird/article/details/134242229)
+
++ [[pytorch]手动构建一个神经网络并且训练](https://blog.csdn.net/weixin_62697030/article/details/134220468)
+
++ [GPT技术的崛起：改变生活与挑战未来](https://blog.csdn.net/cooldream2009/article/details/134211806)
+
++ [深度学习框架TensorFlow.NET之数据类型及张量2（C#）](https://blog.csdn.net/zxy13826134783/article/details/134232338)
+
