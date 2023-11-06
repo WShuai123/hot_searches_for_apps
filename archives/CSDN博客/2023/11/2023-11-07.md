@@ -135,3 +135,5 @@
 
 + [IOS自带的OCR识别功能](https://blog.csdn.net/ForeverMyheart/article/details/134241784)
 
++ [利用机器学习的力量来对抗野火](https://blog.csdn.net/gongdiwudu/article/details/134229710)
+
