@@ -59,3 +59,9 @@
 
 + [微软 Win11 ISO 文件体积不断增长，最新版本已达 6.24 GB](https://m.ithome.com/html/730243.htm)
 
++ [极氪 007 官宣 11 月 17 日广州车展正式发布：定位纯电豪华轿车](https://m.ithome.com/html/730288.htm)
+
++ [首发天玑 9300，vivo X100 系列手机真机实拍图公布](https://m.ithome.com/html/730411.htm)
+
++ [《完蛋！我被美女包围了！》开发商回应续作：尚在初期准备阶段，目前专注于 DLC](https://m.ithome.com/html/730420.htm)
+

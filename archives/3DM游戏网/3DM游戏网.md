@@ -241,3 +241,11 @@
 
 + [陈伟霆、张家辉动作大片《爆裂点》定档12月8日](https://www.3dmgame.com/news/202311/3881026.html)
 
++ [10月Steam Deck游玩游戏时间排行榜 《博德之门3》第一](https://www.3dmgame.com/news/202311/3881036.html)
+
++ [冒险游戏《苍穹浩瀚》即将登陆Steam 不支持中文](https://www.3dmgame.com/news/202311/3881035.html)
+
++ [酷冷至尊沉浸式电竞舱ORB X开卖 售价14万元](https://www.3dmgame.com/news/202311/3881034.html)
+
++ [《使命召唤：现代战争3》成PlayStation和Steam上最畅销游戏](https://www.3dmgame.com/news/202311/3881033.html)
+
