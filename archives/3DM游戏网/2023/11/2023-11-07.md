@@ -107,3 +107,7 @@
 
 + [Xbox与生成式AI公司合作 实现动态生成剧情/任务](https://www.3dmgame.com/news/202311/3881039.html)
 
++ [开发者表示《堕落之主》将拆分PvE/PvP平衡](https://www.3dmgame.com/news/202311/3881041.html)
+
++ [《城市：天际线2》：性能问题修复前无付费DLC](https://www.3dmgame.com/news/202311/3881042.html)
+

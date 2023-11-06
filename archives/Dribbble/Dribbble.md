@@ -87,3 +87,7 @@
 
 + [Ram Logo](https://dribbble.com/shots/)
 
++ [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
+
++ [The Grim Reaper Logo](https://dribbble.com/shots/)
+
