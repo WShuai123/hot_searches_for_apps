@@ -221,3 +221,13 @@
 
 + [为什么李想不敢和华为吵架](https://www.3dmgame.com/news/202311/3881020.html)
 
++ [神隐文字冒险《赤与灯皆有诡异 集册》发售日公布及预约开始](https://www.3dmgame.com/news/202311/3881027.html)
+
++ [母亲月薪五千借钱给儿子买万元电脑 被线下电脑城坑](https://www.3dmgame.com/news/202311/3881028.html)
+
++ [7年间2783家外企关闭在印度业务：苹果不信邪 押宝印度](https://www.3dmgame.com/news/202311/3881025.html)
+
++ [爱立信被曝裁掉整个广州研发团队：赔偿N+3加年终奖](https://www.3dmgame.com/news/202311/3881024.html)
+
++ [被美国封杀！国产显卡大厂：中国GPU不存在至暗时刻](https://www.3dmgame.com/news/202311/3881023.html)
+

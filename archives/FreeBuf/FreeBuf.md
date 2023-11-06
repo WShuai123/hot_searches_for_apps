@@ -63,3 +63,5 @@
 
 + [警惕！微软Exchange服务器零日漏洞，仍未完全修复](https://www.freebuf.com/news/382876.html)
 
++ [最新情报！ZDI 披露微软Exchange存在四个零日漏洞](https://www.freebuf.com/news/382876.html)
+
