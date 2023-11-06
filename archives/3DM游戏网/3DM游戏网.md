@@ -231,3 +231,9 @@
 
 + [被美国封杀！国产显卡大厂：中国GPU不存在至暗时刻](https://www.3dmgame.com/news/202311/3881023.html)
 
++ [RX 7900M基准测试成绩曝光 3DMark TimeSpy比RTX 4080高4.3%](https://www.3dmgame.com/news/202311/3881031.html)
+
++ [传唐尼和埃文斯同意回归漫威 出演《复仇者联盟6》](https://www.3dmgame.com/news/202311/3881029.html)
+
++ [A卡新驱动发布 优化《使命召唤20》《如龙7外传》等游戏](https://www.3dmgame.com/news/202311/3881030.html)
+

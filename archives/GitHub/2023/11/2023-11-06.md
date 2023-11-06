@@ -51,3 +51,35 @@
 
 + [shadowsocks / shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
 
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend)
+
++ [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
++ [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+
++ [bevyengine / bevy](https://github.com/bevyengine/bevy)
+
++ [TheChance101 / beep-beep](https://github.com/TheChance101/beep-beep)
+
++ [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+
++ [xmrig / xmrig](https://github.com/xmrig/xmrig)
+
++ [milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [qdrant / qdrant](https://github.com/qdrant/qdrant)
+
++ [LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples)
+
++ [google / jax](https://github.com/google/jax)
+
++ [yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu)
+
++ [aseprite / aseprite](https://github.com/aseprite/aseprite)
+
++ [openwrt / packages](https://github.com/openwrt/packages)
+

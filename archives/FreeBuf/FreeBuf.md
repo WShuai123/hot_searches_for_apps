@@ -65,3 +65,5 @@
 
 + [最新情报！ZDI 披露微软Exchange存在四个零日漏洞](https://www.freebuf.com/news/382876.html)
 
++ [AI提效网安运营新未来，数据安全新机遇与新挑战 | FCIS 2023 大会精彩抢先看](https://www.freebuf.com/news/382885.html)
+
