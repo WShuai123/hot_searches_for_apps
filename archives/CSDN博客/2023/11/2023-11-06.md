@@ -169,3 +169,13 @@
 
 + [12.JavaScript(WebAPI) - JS api文献精解](https://blog.csdn.net/xinhang10/article/details/134209036)
 
++ [用AI魔法打败AI魔法](https://blog.csdn.net/ZhangRelay/article/details/134243444)
+
++ [不用流氓软件，如何在户外使用手机听下载到家中电脑里的音乐文件呢？](https://blog.csdn.net/qq_57761637/article/details/134244983)
+
++ [Linux DataEase数据可视化分析工具结合cpolar实现远程访问](https://blog.csdn.net/qq_48652579/article/details/134245253)
+
++ [【验证码系列】Google验证码从数据训练到机器自动识别算法构建](https://blog.csdn.net/qiulin_wu/article/details/134202604)
+
++ [HTML5的语义元素](https://blog.csdn.net/corlin6688/article/details/134244977)
+
