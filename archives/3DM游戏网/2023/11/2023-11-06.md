@@ -123,3 +123,25 @@
 
 + [沙盒破坏游戏《拆迁》11月15日登陆PS及Xbox](https://www.3dmgame.com/news/202311/3880972.html)
 
++ [《博德之门3》或将添加新难度选项：“荣誉模式”](https://www.3dmgame.com/news/202311/3880980.html)
+
++ [《暗黑4》1.2.2版更新详情 五职业暗金戒指来了](https://www.3dmgame.com/news/202311/3880981.html)
+
++ [Steam首届逆弹幕射击游戏节开始！一波重大更新、新游试玩来袭！](https://www.3dmgame.com/news/202311/3880982.html)
+
++ [《方舟：生存飞升》11月14日登陆Xbox PS5版月末发售](https://www.3dmgame.com/news/202311/3880983.html)
+
++ [RapidEyeMovers将在英国肯德尔举办全市游戏节](https://www.3dmgame.com/news/202311/3880984.html)
+
++ [《日式庭园模拟器》steam页面上线 学习打造精致庭院](https://www.3dmgame.com/news/202311/3880976.html)
+
++ [《如龙7外传》新宣传片 不要老盯着赤目大美女看](https://www.3dmgame.com/news/202311/3880977.html)
+
++ [DICE正解决《战地2042》比赛结束后的黑屏问题](https://www.3dmgame.com/news/202311/3880978.html)
+
++ [《堡垒之夜》同时在线人数创新纪录 超过600万](https://www.3dmgame.com/news/202311/3880979.html)
+
++ [暴雪称一直在考虑将《魔兽世界》带到主机平台](https://www.3dmgame.com/news/202311/3880974.html)
+
++ [暴雪嘉年华COS集锦 《暗黑4》莉莉丝获最佳创意](https://www.3dmgame.com/news/202311/3880975.html)
+

@@ -41,3 +41,9 @@
 
 + [刚披露就被利用，攻击者盯上了Apache ActiveMQ 漏洞](https://www.freebuf.com/news/382716.html)
 
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
++ [FreeBuf早报 | 微软宣布安全未来计划；美国出台安全事件报告规定](https://www.freebuf.com/news/382758.html)
+
++ [透视全球 XorDDoS 攻击基础设施](https://www.freebuf.com/articles/network/381275.html)
+
