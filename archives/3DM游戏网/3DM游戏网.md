@@ -111,3 +111,7 @@
 
 + [《城市：天际线2》：性能问题修复前无付费DLC](https://www.3dmgame.com/news/202311/3881042.html)
 
++ [微软将任天堂和PS用户视为Xbox用户的一部分](https://www.3dmgame.com/news/202311/3881044.html)
+
++ [开启硬科幻冒险之旅 《无敌号》正式上市](https://www.3dmgame.com/news/202311/3881043.html)
+

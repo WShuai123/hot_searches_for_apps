@@ -27,3 +27,5 @@
 
 + [苹果 iPhone 15 / Pro 和 M3 Mac 爆料回顾：郭明錤、Gurman 各领风骚](https://m.ithome.com/html/730320.htm)
 
++ [整体立减 1020 元：小米 13 系列加码再降 100 元 + 24 期免息](https://m.ithome.com/html/730453.htm)
+
