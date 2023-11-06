@@ -101,3 +101,5 @@
 
 + [《守望先锋2》非二元新英雄无畏演示 Buff要叠满](https://www.3dmgame.com/news/202311/3880985.html)
 
++ [《如龙7外传》IGN 7分：正餐前的开胃菜](https://www.3dmgame.com/news/202311/3881038.html)
+
