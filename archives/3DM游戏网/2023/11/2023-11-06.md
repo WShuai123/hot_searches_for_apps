@@ -195,3 +195,11 @@
 
 + [《假面骑士》系列首位VTuber客串 白上吹雪白狐登场](https://www.3dmgame.com/news/202311/3881008.html)
 
++ [《你必须成为巫妖》登陆Steam 黑暗风格硬币推杆游戏](https://www.3dmgame.com/news/202311/3881012.html)
+
++ [传《艾尔登法环》DLC有本体一半大小 时长超25小时](https://www.3dmgame.com/news/202311/3881013.html)
+
++ [巫师多人游戏“天狼星计划”或将是开放世界游戏](https://www.3dmgame.com/news/202311/3881011.html)
+
++ [《博德之门3》PS5日版官方禁止所有成人暴露内容 12月21日发售](https://www.3dmgame.com/news/202311/3881010.html)
+

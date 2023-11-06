@@ -159,3 +159,5 @@
 
 + [深度学习框架TensorFlow.NET之数据类型及张量2（C#）](https://blog.csdn.net/zxy13826134783/article/details/134232338)
 
++ [使用蒙特卡罗模拟的投资组合优化](https://blog.csdn.net/m0_46510245/article/details/134240038)
+

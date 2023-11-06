@@ -211,3 +211,9 @@
 
 + [点淘-淘宝直播官方APP](https://itunes.apple.com/cn/app/id1448831879?mt=8)
 
++ [华为商城-VMALL](https://itunes.apple.com/cn/app/id1455432631?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
