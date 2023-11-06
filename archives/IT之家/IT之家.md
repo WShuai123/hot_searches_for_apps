@@ -55,3 +55,7 @@
 
 + [消息称钢铁侠、美国队长演员已同意在《复仇者联盟 6》回归](https://m.ithome.com/html/730338.htm)
 
++ [GPT-4V 学会用键鼠上网，人类眼睁睁看着它发帖玩游戏](https://m.ithome.com/html/730228.htm)
+
++ [微软 Win11 ISO 文件体积不断增长，最新版本已达 6.24 GB](https://m.ithome.com/html/730243.htm)
+
