@@ -75,3 +75,7 @@
 
 + [好姐妹天天秀#12【本期大傻子】](http://www.acfun.cn/v/ac42858702)
 
++ [16元一碗大排拌面，你们觉得贵不贵？](http://www.acfun.cn/v/ac42858938)
+
++ [【柯基】以色列国歌《希望》- Hatikvah](http://www.acfun.cn/v/ac42860004)
+

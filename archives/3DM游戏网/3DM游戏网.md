@@ -165,3 +165,17 @@
 
 + [《守望先锋2》非二元新英雄无畏演示 Buff要叠满](https://www.3dmgame.com/news/202311/3880985.html)
 
++ [手游《世界弹射物语》日服宣布停运 国服将继续运营](https://www.3dmgame.com/news/202311/3880999.html)
+
++ [《银河英雄传说 DNT》动画续篇确定制作 过去全系列将重播](https://www.3dmgame.com/news/202311/3881000.html)
+
++ [《心灵杀手2》中最受关注的场景差点被砍](https://www.3dmgame.com/news/202311/3881001.html)
+
++ [《GREED IS GOOD》Steam抢先体验开启 多人动作冒险](https://www.3dmgame.com/news/202311/3880995.html)
+
++ [万代推出《小小梦魇3》逃离巨婴宝宝场景模型](https://www.3dmgame.com/news/202311/3880996.html)
+
++ [《英雄联盟：双城之战》第二季宣布2024年11月上线Netflix](https://www.3dmgame.com/news/202311/3880997.html)
+
++ [刘昊然回应一部手机用五六年 够用就行](https://www.3dmgame.com/news/202311/3880998.html)
+

@@ -49,3 +49,9 @@
 
 + [苹果Find My功能可被滥用并窃取键盘记录的密码](https://www.freebuf.com/news/382871.html)
 
++ [美国航空公司飞行员工会遭受勒索软件攻击](https://www.freebuf.com/news/382883.html)
+
++ [Kinsing Actor 利用最新 Linux 漏洞入侵云环境](https://www.freebuf.com/news/382887.html)
+
++ [警惕！微软Exchange这四个零日漏洞，现仍未修复](https://www.freebuf.com/news/382876.html)
+
