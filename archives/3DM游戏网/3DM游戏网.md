@@ -191,3 +191,7 @@
 
 + [《BoneField》Steam页面上线 摄录风恐怖冒险](https://www.3dmgame.com/news/202311/3881005.html)
 
++ [KK对战平台双十一大促来袭！查收你的进货清单！](https://www.3dmgame.com/news/202311/3881009.html)
+
++ [《假面骑士》系列首位VTuber客串 白上吹雪白狐登场](https://www.3dmgame.com/news/202311/3881008.html)
+

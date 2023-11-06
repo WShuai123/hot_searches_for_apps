@@ -57,3 +57,5 @@
 
 + [java安全之Thymeleaf模板注入漏洞](https://www.freebuf.com/articles/web/381634.html)
 
++ [如何使用KnockKnock枚举OneDrive和Microsoft Teams的有效用户](https://www.freebuf.com/sectool/380555.html)
+
