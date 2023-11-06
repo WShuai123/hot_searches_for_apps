@@ -103,3 +103,35 @@
 
 + [微服务之Eureka](https://blog.csdn.net/m0_64074924/article/details/134235983)
 
++ [深入详解高性能消息队列中间件 RabbitMQ](https://blog.csdn.net/chenlycly/article/details/134253444)
+
++ [Spring Boot 整合SpringSecurity和JWT和Redis实现统一鉴权认证](https://blog.csdn.net/2301_80092713/article/details/134215105)
+
++ [Matlab 机器人工具箱 (一）DH参数和正逆运动学](https://blog.csdn.net/weixin_61876315/article/details/134222677)
+
++ [【2023】COMAP美赛数模中的大型语言模型LLM和生成式人工智能工具的使用](https://blog.csdn.net/wtyuong/article/details/134251936)
+
++ [Azure 机器学习 - 使用Python SDK训练模型](https://blog.csdn.net/magicyangjay111/article/details/134240950)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(一)](https://blog.csdn.net/m0_59230408/article/details/132768205)
+
++ [吴恩达《机器学习》6-4-＞6-7:代价函数、简化代价函数与梯度下降、高级优化、多元分类:一对多](https://blog.csdn.net/qq_46179411/article/details/134252436)
+
++ [pytorch-损失函数-分类和回归区别](https://blog.csdn.net/xckkcxxck/article/details/134220322)
+
++ [python获取电脑所连接的wifi密码](https://blog.csdn.net/qq_34045989/article/details/134232749)
+
++ [CAN（Controller Area Network）是一种用于在汽车和工业领域中进行通信的串行总线系统(附加案例)](https://blog.csdn.net/m0_46376834/article/details/134225731)
+
++ [二蛋赠书七期：《云原生数据中台：架构、方法论与实践》](https://blog.csdn.net/qq_28314431/article/details/134255003)
+
++ [Go 与数据可视化：使用 Gonum 和 Plot 库探索数据之美](https://blog.csdn.net/yll_358918552/article/details/134236183)
+
++ [vue3的自定义指令](https://blog.csdn.net/weixin_53729216/article/details/134236629)
+
++ [【亚马逊云科技产品测评】活动征文｜亚马逊云科技AWS之EC2详细测评](https://blog.csdn.net/2202_75623950/article/details/134223673)
+
++ [第十八节——插槽](https://blog.csdn.net/weixin_57017198/article/details/134063961)
+
++ [IOS自带的OCR识别功能](https://blog.csdn.net/ForeverMyheart/article/details/134241784)
+
