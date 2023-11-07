@@ -43,3 +43,7 @@
 
 + [荷兰光刻机巨头阿斯麦：对中国市场明年业务非常乐观](https://m.ithome.com/html/730430.htm)
 
++ [雷军称小米 14 / Pro 系列手机销量超 100 万部，但缺货还是严重](https://m.ithome.com/html/730596.htm)
+
++ [腾讯游戏《节奏大师》今日回归，iOS 版现已重新上架苹果 App Store](https://m.ithome.com/html/730526.htm)
+

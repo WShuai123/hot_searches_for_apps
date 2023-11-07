@@ -51,3 +51,5 @@
 
 + [内网攻防 | Kerberos协议安全解析](https://www.freebuf.com/defense/382531.html)
 
++ [虚拟绑架：人工智能正在助长勒索诈骗](https://www.freebuf.com/news/383029.html)
+

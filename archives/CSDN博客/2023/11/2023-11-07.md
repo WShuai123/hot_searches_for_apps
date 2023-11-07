@@ -175,3 +175,13 @@
 
 + [【redis】ssm项目整合redis，redis注解式缓存及应用场景，redis的击穿、穿透、雪崩的解决方案](https://blog.csdn.net/weixin_74383330/article/details/134248681)
 
++ [【Nginx篇】Nginx轻松上手](https://blog.csdn.net/qyj19920704/article/details/134259159)
+
++ [机器学习——回归](https://blog.csdn.net/m0_63024355/article/details/134255418)
+
++ [MapReduce：大数据处理的范式](https://blog.csdn.net/gongdiwudu/article/details/134229762)
+
++ [GPT-4 Alpha：OpenAI的革命性升级](https://blog.csdn.net/xianyu120/article/details/134254870)
+
++ [使用cpolar配合Plex搭建私人媒体站并实现远程访问](https://blog.csdn.net/YYDsis/article/details/134256651)
+

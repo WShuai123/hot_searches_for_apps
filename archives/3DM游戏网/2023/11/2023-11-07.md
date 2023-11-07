@@ -175,3 +175,13 @@
 
 + [推理解谜冒险游戏《通灵神探：落魂街》Steam页面上线 12月15日发售](https://www.3dmgame.com/news/202311/3881072.html)
 
++ [《遥远的圆形世界》体验版发布 好评如潮《重返蓝鲸岛》续篇](https://www.3dmgame.com/news/202311/3881077.html)
+
++ [《收获日3》（PAYDAY3）首个更新Patch，多处修复与优化](https://www.3dmgame.com/news/202311/3881078.html)
+
++ [我国首台紧凑型加速器质谱仪研制成功 相关技术指标达到国际领先水平](https://www.3dmgame.com/news/202311/3881079.html)
+
++ [《原神》角色演示-「芙宁娜：世界皆舞台」](https://www.3dmgame.com/news/202311/3881075.html)
+
++ [国行Switch延保服务计划停止销售 已购买玩家不受影响](https://www.3dmgame.com/news/202311/3881076.html)
+
