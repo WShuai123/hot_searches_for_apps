@@ -153,3 +153,19 @@
 
 + [《星空》缺少官方Mod工具支持 民间大神们很失望](https://www.3dmgame.com/news/202311/3881059.html)
 
++ [暴雪总裁谈国服：我希望暴雪游戏能回归中国大陆](https://www.3dmgame.com/news/202311/3881070.html)
+
++ [《PUNIHI LOADER 2》12月1日Steam抢测 定制机甲射击](https://www.3dmgame.com/news/202311/3881071.html)
+
++ [《仙剑世界》光追版首发天玑9300：端游级画质震撼！](https://www.3dmgame.com/news/202311/3881067.html)
+
++ [《刺客信条：幻景》1.0.5补丁即将上线 添加关闭色差选项](https://www.3dmgame.com/news/202311/3881068.html)
+
++ [科技富豪返老还童每年花1500万 或许该跟她们学学](https://www.3dmgame.com/news/202311/3881069.html)
+
++ [《拳皇15》新DLC角色“四条雏子”11月14日上线](https://www.3dmgame.com/news/202311/3881064.html)
+
++ [2021年停运 经典手游《节奏大师》今日重新上线](https://www.3dmgame.com/news/202311/3881065.html)
+
++ [《俄罗斯方块99》联动《超级马里奥RPG》11月10日开启](https://www.3dmgame.com/news/202311/3881066.html)
+

@@ -37,3 +37,5 @@
 
 + [联发科天玑 9300 旗舰 5G 生成式 AI 移动芯片正式发布，采用全大核架构](https://m.ithome.com/html/730472.htm)
 
++ [AITO 问界汽车下场“科普”AEB：拒绝“无效刹车”，不打无谓嘴仗](https://m.ithome.com/html/730461.htm)
+
