@@ -51,3 +51,39 @@
 
 + [openwrt / packages](https://github.com/openwrt/packages)
 
++ [jxnl / instructor](https://github.com/jxnl/instructor)
+
++ [01-ai / Yi](https://github.com/01-ai/Yi)
+
++ [leerob / nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client)
+
++ [EvilAnne / lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity)
+
++ [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
++ [lukas-blecher / LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+
++ [LayerZero-Labs / LayerZero](https://github.com/LayerZero-Labs/LayerZero)
+
++ [AnsonZnl / RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+
++ [PKUFlyingPig / cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
++ [imoneoi / openchat](https://github.com/imoneoi/openchat)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [supabase / supabase](https://github.com/supabase/supabase)
+
++ [angular / angular](https://github.com/angular/angular)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
+

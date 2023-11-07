@@ -59,3 +59,9 @@
 
 + [因步伐明显异常，两名旅客腿上、鞋内共藏匿 450 个 CPU 进境被查](https://m.ithome.com/html/730509.htm)
 
++ [【视频】小巧全能，华为冰糖卡片充电器体验评测](https://m.ithome.com/html/730565.htm)
+
++ [“小米提货卡”成为新型诈骗形式，雷军转发提醒用户](https://m.ithome.com/html/730508.htm)
+
++ [王腾暗示小米 Redmi K70 系列手机进入全面量产阶段](https://m.ithome.com/html/730564.htm)
+

@@ -225,3 +225,5 @@
 
 + [Steam新一周销量榜 《使命召唤》登顶](https://www.3dmgame.com/news/202311/3881095.html)
 
++ [英伟达RTX 4070 Ti SUPER包装设计曝光](https://www.3dmgame.com/news/202311/3881100.html)
+

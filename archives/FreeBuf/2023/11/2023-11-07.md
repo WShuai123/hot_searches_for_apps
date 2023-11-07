@@ -59,3 +59,5 @@
 
 + [谷歌披露最新概念验证（PoC）漏洞](https://www.freebuf.com/news/383056.html)
 
++ [供应商安全评估实务；企业攻击面管理实践 | FCIS 2023 大会议题前瞻](https://www.freebuf.com/fevents/383018.html)
+
