@@ -107,3 +107,23 @@
 
 + [【论文阅读】Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval](https://blog.csdn.net/MiHu001/article/details/134265337)
 
++ [Elasticsearch：在 ES|QL 中使用 DISSECT 和 GROK 进行数据处理](https://blog.csdn.net/UbuntuTouch/article/details/134266887)
+
++ [python opencv 实现对二值化后的某一像素值做修改和mask叠加](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/134246798)
+
++ [超级英雄云计算的技术之旅](https://blog.csdn.net/qq_42055933/article/details/134277942)
+
++ [亚马逊云科技产品测评』活动征文｜通过使用Amazon Neptune来预测电影类型初体验](https://blog.csdn.net/Qingai521/article/details/134251017)
+
++ [Android 12 S 系统开机流程分析（一）](https://blog.csdn.net/weixin_41028555/article/details/134183395)
+
++ [2023年【金属非金属矿山（地下矿山）安全管理人员】实操考试视频及金属非金属矿山（地下矿山）安全管理人员操作证考试](https://blog.csdn.net/akthwyl/article/details/134264278)
+
++ [YOLOv8推理详解及部署实现](https://blog.csdn.net/qq_40672115/article/details/134276907)
+
++ [量子计算和量子通信技术](https://blog.csdn.net/xiao1234oaix/article/details/134276250)
+
++ [【云原生 | Docker】Linux 定时自动化备份Mysql数据到本地 & Windows 最佳实践，确定不来看看？](https://blog.csdn.net/weixin_66526635/article/details/127712632)
+
++ [移远EC600U-CN开发板 day01](https://blog.csdn.net/qq_40501067/article/details/134265833)
+

@@ -105,3 +105,11 @@
 
 + [苹果高管回应“黄金内存”质疑：8GB和其它系统的16GB接近](https://www.3dmgame.com/news/202311/3881111.html)
 
++ [视觉小说新作《新宿葬命》2024年2月登陆PC](https://www.3dmgame.com/news/202311/3881112.html)
+
++ [育碧裁员124人以“精简运营”和“提高集体效率”](https://www.3dmgame.com/news/202311/3881113.html)
+
++ [BioWare暗示《质量效应》新作或为三代续作](https://www.3dmgame.com/news/202311/3881114.html)
+
++ [《雨中冒险2》神秘新资料片登陆Steam](https://www.3dmgame.com/news/202311/3881116.html)
+
