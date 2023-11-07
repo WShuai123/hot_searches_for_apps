@@ -53,3 +53,7 @@
 
 + [梦幻联动，魅族 PANDAER 为小米 14 手机壳“征集灵感”](https://m.ithome.com/html/730427.htm)
 
++ [微软 Office 2024 预览版提前泄露，官方回应：未来一片光明](https://m.ithome.com/html/730558.htm)
+
++ [小米宣布成为西班牙智能手机出货量第一品牌](https://m.ithome.com/html/730533.htm)
+

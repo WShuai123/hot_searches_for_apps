@@ -205,3 +205,11 @@
 
 + [FPS游戏《前线1942 第二次世界大战》Steam页面上线 11月21日发售](https://www.3dmgame.com/news/202311/3881083.html)
 
++ [消息称三星自研光追和AI超采样技术 2025年后应用于Exynos芯片](https://www.3dmgame.com/news/202311/3881093.html)
+
++ [《战神》新改编桌游正式公布 2024年开启众筹](https://www.3dmgame.com/news/202311/3881092.html)
+
++ [《魔兽世界》付费抢先体验让人不满：暴雪怎敢这么做](https://www.3dmgame.com/news/202311/3881091.html)
+
++ [守望先锋联赛明年或将解散 动视暴雪损失超1亿美元](https://www.3dmgame.com/news/202311/3881090.html)
+

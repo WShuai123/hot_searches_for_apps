@@ -177,3 +177,29 @@
 
 + [Go Global World 2.0](https://www.producthunt.com/posts/go-global-world-2-0)
 
++ [Patterns – Habit Tracker app](https://www.producthunt.com/posts/patterns-habit-tracker-app)
+
++ [Steno - Your friendly neighborhood dino](https://www.producthunt.com/posts/steno-your-friendly-neighborhood-dino)
+
++ [Qureos Resume Builder](https://www.producthunt.com/posts/qureos-resume-builder)
+
++ [Gruene Studio](https://www.producthunt.com/posts/gruene-studio)
+
++ [Talk to PDF](https://www.producthunt.com/posts/talk-to-pdf)
+
++ [ChargebackStop](https://www.producthunt.com/posts/chargebackstop)
+
++ [Kwilio Bills](https://www.producthunt.com/posts/kwilio-bills)
+
++ [LabScale](https://www.producthunt.com/posts/labscale)
+
++ [OHMYSYNT](https://www.producthunt.com/posts/ohmysynt)
+
++ [Vidiofy](https://www.producthunt.com/posts/vidiofy)
+
++ [Store.app](https://www.producthunt.com/posts/store-app)
+
++ [Morgen Assist](https://www.producthunt.com/posts/morgen-assist)
+
++ [Zintlr](https://www.producthunt.com/posts/zintlr)
+

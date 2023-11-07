@@ -197,3 +197,7 @@
 
 + [【C++干货铺】内存管理new和delete](https://blog.csdn.net/qq_55119554/article/details/134246477)
 
++ [【Hadoop】YARN容量调度器详解](https://blog.csdn.net/qq_35995514/article/details/134252041)
+
++ [【终端目标检测03】nanodet训练自己的数据集、NCNN部署到Android](https://blog.csdn.net/weixin_45977690/article/details/134262606)
+
