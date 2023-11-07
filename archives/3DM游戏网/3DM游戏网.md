@@ -123,3 +123,23 @@
 
 + [《怪奇物语》章节将回归《黎明杀机》](https://www.3dmgame.com/news/202311/3881045.html)
 
++ [文字冒险游戏《精灵戏剧：复读机不会获得幸福》Steam页面 明年发售](https://www.3dmgame.com/news/202311/3881054.html)
+
++ [暴雪愿意开发《星际争霸》新作 但可能不是RTS](https://www.3dmgame.com/news/202311/3881055.html)
+
++ [《创造都市岛物语》Steam版11月13日推出 城建模拟经营](https://www.3dmgame.com/news/202311/3881056.html)
+
++ [传闻：FromSoftware正在制作PS5独占游戏 不是《血源》续集](https://www.3dmgame.com/news/202311/3881057.html)
+
++ [《女神异闻录3 Reload》山岸风花角色PV 2024年2月2日发售](https://www.3dmgame.com/news/202311/3881058.html)
+
++ [玩家测试OLED版NS两年不关机息屏 结果不出所料](https://www.3dmgame.com/news/202311/3881051.html)
+
++ [PS5和PS4宣布不再支持推特 11月13日起生效](https://www.3dmgame.com/news/202311/3881052.html)
+
++ [AMD和11 Bit合作 未来游戏都将支持FSR 3、A卡优化](https://www.3dmgame.com/news/202311/3881053.html)
+
++ [暴雪总裁对《守望2》《暗黑不朽》《暗黑4》感到自豪](https://www.3dmgame.com/news/202311/3881049.html)
+
++ [《GTA6》的NPC将非常智能 可以记住玩家的行为和选择](https://www.3dmgame.com/news/202311/3881050.html)
+

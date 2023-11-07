@@ -45,3 +45,5 @@
 
 + [深入理解实践场景下的DNS隧道通信](https://www.freebuf.com/articles/network/381477.html)
 
++ [安全运营之浅谈SOAR剧本设计](https://www.freebuf.com/articles/es/381630.html)
+
