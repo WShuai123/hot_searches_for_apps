@@ -113,3 +113,11 @@
 
 + [《雨中冒险2》神秘新资料片登陆Steam](https://www.3dmgame.com/news/202311/3881116.html)
 
++ [任天堂宣布塞尔达传说真人电影 索尼参与出资](https://www.3dmgame.com/news/202311/3881120.html)
+
++ [游戏开发恋爱游戏《调试女友》明年登陆PC及Switch](https://www.3dmgame.com/news/202311/3881119.html)
+
++ [《生化危机4：重制版》12月20日登陆苹果设备](https://www.3dmgame.com/news/202311/3881118.html)
+
++ [澳大利亚分级信息泄露《寂静岭：短讯》剧情](https://www.3dmgame.com/news/202311/3881117.html)
+
