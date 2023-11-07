@@ -101,3 +101,9 @@
 
 + [如何使用Linux DataEase数据可视化分析工具结合内网穿透实现远程办公](https://blog.csdn.net/m0_59281987/article/details/134260135)
 
++ [mysql之备份和恢复](https://blog.csdn.net/2303_79207100/article/details/134258674)
+
++ [python获取电脑所连接的wifi密码](https://blog.csdn.net/qq_34045989/article/details/134232749)
+
++ [【论文阅读】Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval](https://blog.csdn.net/MiHu001/article/details/134265337)
+
