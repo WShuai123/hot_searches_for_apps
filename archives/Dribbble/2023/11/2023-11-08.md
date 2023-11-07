@@ -81,3 +81,9 @@
 
 + [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
 
++ [Minimalist Viking Logo](https://dribbble.com/shots/)
+
++ [Ryan Norbauer Script Wordmark](https://dribbble.com/shots/)
+
++ [Dewsbury Rams](https://dribbble.com/shots/)
+
