@@ -91,3 +91,11 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千五百一十四期](http://www.acfun.cn/v/ac42872700)
 
++ [北美“笔仙”拍成爆款，《指环王》导演不吝盛赞！A24再出低成本恐怖佳作【墨菲】](http://www.acfun.cn/v/ac42874762)
+
++ [DNF联动奥特曼完整版短片来了](http://www.acfun.cn/v/ac42868098)
+
++ [川 剧 变 脸【今天有什么好笑的 #1371】](http://www.acfun.cn/v/ac42875709)
+
++ [萨勒芬妮 但是Kpop版【Baddie】](http://www.acfun.cn/v/ac42870257)
+
