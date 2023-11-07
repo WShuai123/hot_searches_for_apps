@@ -29,3 +29,11 @@
 
 + [整体立减 1020 元：小米 13 系列加码再降 100 元 + 24 期免息](https://m.ithome.com/html/730453.htm)
 
++ [余承东亲自预热：华为智选车业务首款轿车，智界 S7 兼鸿蒙智行发布会定档 11 月 9 日](https://m.ithome.com/html/730270.htm)
+
++ [英伟达 CEO 黄仁勋希望自己的传记片由成龙主演，认为“他长得像我”](https://m.ithome.com/html/730507.htm)
+
++ [小米 14 Pro 手机推送 HyperOS 1.0.23.11.4.DEV 开发版更新：修复大量已知问题](https://m.ithome.com/html/730500.htm)
+
++ [联发科天玑 9300 旗舰 5G 生成式 AI 移动芯片正式发布，采用全大核架构](https://m.ithome.com/html/730472.htm)
+

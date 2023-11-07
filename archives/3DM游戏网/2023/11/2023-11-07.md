@@ -115,3 +115,11 @@
 
 + [开启硬科幻冒险之旅 《无敌号》正式上市](https://www.3dmgame.com/news/202311/3881043.html)
 
++ [Epic商城上线5年了 但仍然没有盈利](https://www.3dmgame.com/news/202311/3881047.html)
+
++ [暴雪总裁：在Xbox旗下 暴雪比以往任何时候都更加独立自由](https://www.3dmgame.com/news/202311/3881048.html)
+
++ [《火箭联盟》宣布联动迪士尼《汽车总动员》](https://www.3dmgame.com/news/202311/3881046.html)
+
++ [《怪奇物语》章节将回归《黎明杀机》](https://www.3dmgame.com/news/202311/3881045.html)
+

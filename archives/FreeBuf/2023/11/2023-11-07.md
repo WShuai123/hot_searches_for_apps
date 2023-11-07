@@ -41,3 +41,7 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [FreeBuf早报 | 伊朗黑客组织声称攻陷十个以色列水处理厂；思科修补27个漏洞](https://www.freebuf.com/news/382908.html)
+
++ [深入理解实践场景下的DNS隧道通信](https://www.freebuf.com/articles/network/381477.html)
+
