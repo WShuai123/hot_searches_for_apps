@@ -55,3 +55,7 @@
 
 + [如何使用moniorg监控新颁发域名的活动和安全性](https://www.freebuf.com/sectool/380557.html)
 
++ [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
+
++ [谷歌披露最新概念验证（PoC）漏洞](https://www.freebuf.com/news/383056.html)
+

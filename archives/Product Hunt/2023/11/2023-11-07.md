@@ -133,3 +133,47 @@
 
 + [Squibler](https://www.producthunt.com/posts/squibler-2)
 
++ [LaunchFa.st](https://www.producthunt.com/posts/launchfa-st)
+
++ [Wonderin Resume AI](https://www.producthunt.com/posts/wonderin-resume-ai)
+
++ [Hidden Hotspots: The Money Map](https://www.producthunt.com/posts/hidden-hotspots-the-money-map)
+
++ [Product Prompt](https://www.producthunt.com/posts/product-prompt)
+
++ [StoryMap.site](https://www.producthunt.com/posts/storymap-site)
+
++ [Scholarbot AI](https://www.producthunt.com/posts/scholarbot-ai)
+
++ [Seal](https://www.producthunt.com/posts/seal-3)
+
++ [Quicktion](https://www.producthunt.com/posts/quicktion)
+
++ [Shopify Product Reviews by ReviewXpo](https://www.producthunt.com/posts/shopify-product-reviews-by-reviewxpo)
+
++ [Yap: Daily Sentences Widget](https://www.producthunt.com/posts/yap-daily-sentences-widget)
+
++ [Sortbird](https://www.producthunt.com/posts/sortbird)
+
++ [Nomedicaldebt.com](https://www.producthunt.com/posts/nomedicaldebt-com)
+
++ [weploy.ai 2.0](https://www.producthunt.com/posts/weploy-ai-2-0)
+
++ [Week 4.0](https://www.producthunt.com/posts/week-4-0)
+
++ [Refer Me](https://www.producthunt.com/posts/refer-me-2)
+
++ [UpPartner - Early Access](https://www.producthunt.com/posts/uppartner-early-access)
+
++ [HirerPro](https://www.producthunt.com/posts/hirerpro)
+
++ [GitNotebooks](https://www.producthunt.com/posts/gitnotebooks)
+
++ [SpiffWorkflow](https://www.producthunt.com/posts/spiffworkflow)
+
++ [Rewatch AI](https://www.producthunt.com/posts/rewatch-ai)
+
++ [Vityl](https://www.producthunt.com/posts/vityl)
+
++ [Go Global World 2.0](https://www.producthunt.com/posts/go-global-world-2-0)
+

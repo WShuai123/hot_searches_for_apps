@@ -195,3 +195,5 @@
 
 + [亚马逊云科技产品测评』活动征文｜通过使用Amazon Neptune来预测电影类型初体验](https://blog.csdn.net/Qingai521/article/details/134251017)
 
++ [【C++干货铺】内存管理new和delete](https://blog.csdn.net/qq_55119554/article/details/134246477)
+

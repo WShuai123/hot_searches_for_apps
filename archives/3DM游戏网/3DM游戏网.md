@@ -191,3 +191,17 @@
 
 + [《汉斯》登陆Steam 西瓜版只有向上攀登跑酷](https://www.3dmgame.com/news/202311/3881082.html)
 
++ [SE上半年财报：游戏部门总销售额上升利润下降](https://www.3dmgame.com/news/202311/3881087.html)
+
++ [《帝王计划：怪兽遗产》剧集视频 巨型蜘蛛战巨型螃蟹](https://www.3dmgame.com/news/202311/3881088.html)
+
++ [英特尔可如期达成4年5代制程目标 Intel 3正准备量产](https://www.3dmgame.com/news/202311/3881089.html)
+
++ [任天堂新财报 Switch销量突破1.3亿 《王国之泪》销量达1950万](https://www.3dmgame.com/news/202311/3881084.html)
+
++ [《Indomitable Blade》Steam页面上线 复古风战旗RPG](https://www.3dmgame.com/news/202311/3881085.html)
+
++ [《FF7重生》野村哲也：想了27年 大家为何那么喜欢萨菲罗斯](https://www.3dmgame.com/news/202311/3881086.html)
+
++ [FPS游戏《前线1942 第二次世界大战》Steam页面上线 11月21日发售](https://www.3dmgame.com/news/202311/3881083.html)
+
