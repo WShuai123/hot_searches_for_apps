@@ -151,3 +151,13 @@
 
 + [python opencv 实现对二值化后的某一像素值做修改和mask叠加](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/134246798)
 
++ [【ElasticSearch系列-06】Es集群架构的搭建以及集群的核心概念](https://blog.csdn.net/zhenghuishengq/article/details/134258577)
+
++ [树莓派上使用Nginx通过内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/xz2935117143/article/details/134201711)
+
++ [详解vue3的ref和reactive](https://blog.csdn.net/m0_72196169/article/details/134250405)
+
++ [ESP8266：物联网时代的连接神器](https://blog.csdn.net/lovehuanhuan1314/article/details/134258585)
+
++ [【云原生 | Docker】Linux 定时自动化备份Mysql数据到本地 & Windows 最佳实践，确定不来看看？](https://blog.csdn.net/weixin_66526635/article/details/127712632)
+

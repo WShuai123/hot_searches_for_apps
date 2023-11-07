@@ -143,3 +143,13 @@
 
 + [《GTA6》的NPC将非常智能 可以记住玩家的行为和选择](https://www.3dmgame.com/news/202311/3881050.html)
 
++ [《FF7RE》编剧呼吁玩家停止骚扰：别再让我杀死某角色](https://www.3dmgame.com/news/202311/3881063.html)
+
++ [集英社新独立游戏开发者服务平台《Game Pitch Base》公布](https://www.3dmgame.com/news/202311/3881062.html)
+
++ [索尼“印度之星计划”明年初公布首批游戏 登陆PS5](https://www.3dmgame.com/news/202311/3881061.html)
+
++ [《足球经理2024》现已在全平台正式上线](https://www.3dmgame.com/news/202311/3881060.html)
+
++ [《星空》缺少官方Mod工具支持 民间大神们很失望](https://www.3dmgame.com/news/202311/3881059.html)
+
