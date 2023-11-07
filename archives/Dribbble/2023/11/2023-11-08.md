@@ -49,3 +49,19 @@
 
 + [AVA Remote control 3d Glass](https://dribbble.com/shots/)
 
++ [Who's there?](https://dribbble.com/shots/)
+
++ [The Grim Reaper Logo](https://dribbble.com/shots/)
+
++ [Solve Et Coagula: Falling Apart and Coming Together](https://dribbble.com/shots/)
+
++ [Barrow Raiders](https://dribbble.com/shots/)
+
++ [Good Sports Talk](https://dribbble.com/shots/)
+
++ [Tokyo Travel Poster Illustration](https://dribbble.com/shots/)
+
++ [Gillian's Manufacturing](https://dribbble.com/shots/)
+
++ [Landing page for Planoo](https://dribbble.com/shots/)
+

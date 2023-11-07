@@ -25,3 +25,9 @@
 
 + [王腾暗示小米 Redmi K70 系列手机进入全面量产阶段](https://m.ithome.com/html/730564.htm)
 
++ [消息称小米 14 Ultra 和 MIX Fold 4 手机采用四摄潜望双焦段路线](https://m.ithome.com/html/730719.htm)
+
++ [腾讯发布手机 QQ 8.9.88 版本更新，升至 API 31 安卓 12 级别](https://m.ithome.com/html/730539.htm)
+
++ [iQOO 首款自研电竞芯片 Q1 发布：支持超帧超分并发](https://m.ithome.com/html/730757.htm)
+
