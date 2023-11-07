@@ -189,3 +189,9 @@
 
 + [Redis注解式开发结合SSM项目使用与Quartz框架介绍以及击穿、穿透、雪崩问题解决](https://blog.csdn.net/Justw320/article/details/134253680)
 
++ [AI短视频制作一本通：文本生成视频、图片生成视频、视频生成视频](https://blog.csdn.net/qq_44273429/article/details/134260026)
+
++ [【知识点随笔分析 | 第八篇】什么是布谷鸟过滤器（缓解Redis穿透）](https://blog.csdn.net/fckbb/article/details/134247669)
+
++ [亚马逊云科技产品测评』活动征文｜通过使用Amazon Neptune来预测电影类型初体验](https://blog.csdn.net/Qingai521/article/details/134251017)
+

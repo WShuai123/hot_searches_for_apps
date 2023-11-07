@@ -49,3 +49,5 @@
 
 + [消息称小米 Redmi K70 机型搭载骁龙 8 Gen 2，K70 Pro 为骁龙 8 Gen 3](https://m.ithome.com/html/730553.htm)
 
++ [11.11 今日攻略：小米 13 系列立减 1020 元 + 24 期免息，米家免洗扫地机器人 2 七折 1394 元新低](https://m.ithome.com/html/730512.htm)
+
