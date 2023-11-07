@@ -53,3 +53,5 @@
 
 + [虚拟绑架：人工智能正在助长勒索诈骗](https://www.freebuf.com/news/383029.html)
 
++ [如何使用moniorg监控新颁发域名的活动和安全性](https://www.freebuf.com/sectool/380557.html)
+

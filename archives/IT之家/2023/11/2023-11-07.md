@@ -47,3 +47,5 @@
 
 + [腾讯游戏《节奏大师》今日回归，iOS 版现已重新上架苹果 App Store](https://m.ithome.com/html/730526.htm)
 
++ [消息称小米 Redmi K70 机型搭载骁龙 8 Gen 2，K70 Pro 为骁龙 8 Gen 3](https://m.ithome.com/html/730553.htm)
+

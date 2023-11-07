@@ -185,3 +185,9 @@
 
 + [国行Switch延保服务计划停止销售 已购买玩家不受影响](https://www.3dmgame.com/news/202311/3881076.html)
 
++ [《纸嫁衣2：奘铃村》电影备案 上映日期待定](https://www.3dmgame.com/news/202311/3881080.html)
+
++ [《星际公民》举行新免费试玩活动 11月17日开启](https://www.3dmgame.com/news/202311/3881081.html)
+
++ [《汉斯》登陆Steam 西瓜版只有向上攀登跑酷](https://www.3dmgame.com/news/202311/3881082.html)
+

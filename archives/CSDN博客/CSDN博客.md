@@ -185,3 +185,7 @@
 
 + [使用cpolar配合Plex搭建私人媒体站并实现远程访问](https://blog.csdn.net/YYDsis/article/details/134256651)
 
++ [（九）Flask有关于FBV和CBV](https://blog.csdn.net/qq_44907926/article/details/134257021)
+
++ [Redis注解式开发结合SSM项目使用与Quartz框架介绍以及击穿、穿透、雪崩问题解决](https://blog.csdn.net/Justw320/article/details/134253680)
+
