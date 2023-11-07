@@ -49,3 +49,5 @@
 
 + [警示！QNAP QTS 操作系统和应用程序中存在高危漏洞](https://www.freebuf.com/articles/383019.html)
 
++ [内网攻防 | Kerberos协议安全解析](https://www.freebuf.com/defense/382531.html)
+
