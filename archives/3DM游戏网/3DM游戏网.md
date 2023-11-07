@@ -101,3 +101,7 @@
 
 + [集英社新独立游戏开发者服务平台《Game Pitch Base》公布](https://www.3dmgame.com/news/202311/3881062.html)
 
++ [卡普空销量数据更新 前十游戏《生化》占六款](https://www.3dmgame.com/news/202311/3881110.html)
+
++ [苹果高管回应“黄金内存”质疑：8GB和其它系统的16GB接近](https://www.3dmgame.com/news/202311/3881111.html)
+

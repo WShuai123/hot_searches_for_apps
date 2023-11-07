@@ -31,3 +31,5 @@
 
 + [iQOO 首款自研电竞芯片 Q1 发布：支持超帧超分并发](https://m.ithome.com/html/730757.htm)
 
++ [漫威电影《惊奇队长 2》发布终极预告，现已开启预售 11 月 10 日内地上映](https://m.ithome.com/html/730593.htm)
+

@@ -65,3 +65,19 @@
 
 + [Landing page for Planoo](https://dribbble.com/shots/)
 
++ [Ram Logo](https://dribbble.com/shots/)
+
++ [Crescent Charms - Vector Stippling Brushes for Adobe Illustrator](https://dribbble.com/shots/)
+
++ [Posse Website Design](https://dribbble.com/shots/)
+
++ [Piccolo's Pickles No.1](https://dribbble.com/shots/)
+
++ [Surfe Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Sheffield Eagles](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Halloween Tattoo Flash X Pattern](https://dribbble.com/shots/)
+
