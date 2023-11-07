@@ -227,3 +227,9 @@
 
 + [英伟达RTX 4070 Ti SUPER包装设计曝光](https://www.3dmgame.com/news/202311/3881100.html)
 
++ [《星空》新MOD已经上线 NPC不再是死鱼眼](https://www.3dmgame.com/news/202311/3881103.html)
+
++ [《DOTA2》ESL One吉隆坡站首批直邀队伍公布](https://www.3dmgame.com/news/202311/3881102.html)
+
++ [《装甲核心6》更新至1.04.1版本 继续调整平衡性](https://www.3dmgame.com/news/202311/3881101.html)
+
