@@ -65,3 +65,7 @@
 
 + [王腾暗示小米 Redmi K70 系列手机进入全面量产阶段](https://m.ithome.com/html/730564.htm)
 
++ [iQOO 12 / Pro 系列手机发布：第三代骁龙 8、自研电竞芯片 Q1，售 3999 元起](https://m.ithome.com/html/730761.htm)
+
++ [消息称多家手机厂商取消 5G 开关设置，为运营商统一要求](https://m.ithome.com/html/730691.htm)
+

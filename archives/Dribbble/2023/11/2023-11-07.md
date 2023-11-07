@@ -119,3 +119,7 @@
 
 + [Posse Web Design](https://dribbble.com/shots/)
 
++ [Minimalist Shih Tzu Logo](https://dribbble.com/shots/)
+
++ [Kasada Rebrand + Case Study](https://dribbble.com/shots/)
+

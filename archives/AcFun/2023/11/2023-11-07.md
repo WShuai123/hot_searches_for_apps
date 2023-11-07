@@ -121,3 +121,11 @@
 
 + [【助眠音声】吉卜力钢琴曲联播 103min（恢复疲劳 音乐治疗~）](http://www.acfun.cn/v/ac42851190)
 
++ [总是在人群中一眼看到主角！欢乐八点档-731](http://www.acfun.cn/v/ac42875892)
+
++ [小僵尸出没 快开门呀   Happy Halloween](http://www.acfun.cn/v/ac42878005)
+
++ [MC石头：《香水有毒》特别版](http://www.acfun.cn/v/ac42877500)
+
++ [讲究人办讲究事！讲究](http://www.acfun.cn/v/ac42760933)
+

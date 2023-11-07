@@ -233,3 +233,9 @@
 
 + [《装甲核心6》更新至1.04.1版本 继续调整平衡性](https://www.3dmgame.com/news/202311/3881101.html)
 
++ [《惊奇队长2》终极预告 11月10日国内上映](https://www.3dmgame.com/news/202311/3881104.html)
+
++ [特斯拉Model Y又将涨价？ 官方回应：属实！](https://www.3dmgame.com/news/202311/3881105.html)
+
++ [OpenAI CEO：GPT-4周活用户数达1亿](https://www.3dmgame.com/news/202311/3881106.html)
+
