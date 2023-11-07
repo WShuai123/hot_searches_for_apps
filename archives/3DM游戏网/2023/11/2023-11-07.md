@@ -239,3 +239,7 @@
 
 + [OpenAI CEO：GPT-4周活用户数达1亿](https://www.3dmgame.com/news/202311/3881106.html)
 
++ [《完蛋！我被美女包围了！》DLC三位新女主公布 详情介绍](https://www.3dmgame.com/news/202311/3881107.html)
+
++ [《生化4：重制版》iPhone 15 Pro版12月20推出 截图放出](https://www.3dmgame.com/news/202311/3881108.html)
+

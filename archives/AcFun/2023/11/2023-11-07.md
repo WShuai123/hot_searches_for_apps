@@ -129,3 +129,11 @@
 
 + [讲究人办讲究事！讲究](http://www.acfun.cn/v/ac42760933)
 
++ [滴，昏君体验卡。【今日好笑视频 #540】](http://www.acfun.cn/v/ac42868341)
+
++ [★此歌献给我disappointed的一周★](http://www.acfun.cn/v/ac42874053)
+
++ [玩点怀旧的情怀，入门级平头塞推荐](http://www.acfun.cn/v/ac42878873)
+
++ [【奥雷】1976年推出的防骗指南，放到如今依然适用！](http://www.acfun.cn/v/ac42878625)
+
