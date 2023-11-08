@@ -101,3 +101,43 @@
 
 + [《DOTA2》ESL One吉隆坡站首批直邀队伍公布](https://www.3dmgame.com/news/202311/3881102.html)
 
++ [打造国人专属智能座舱 上汽通用汽车成立软件及数字化中心](https://www.3dmgame.com/news/202311/3881180.html)
+
++ [原哲夫回忆《北斗神拳》创作秘闻 一天能画20个小时](https://www.3dmgame.com/news/202311/3881181.html)
+
++ [零售商泄露《赛博朋克2077：终极版》12月5日发售 定价60美元](https://www.3dmgame.com/news/202311/3881179.html)
+
++ [策略卡牌游戏《展翅翱翔》DLC“大洋洲篇”宣布将于12月12日发售](https://www.3dmgame.com/news/202311/3881182.html)
+
++ [腾讯推出数智人技术：普通人也有自己分身术 成本仅千元](https://www.3dmgame.com/news/202311/3881183.html)
+
++ [《收获日3》带来的全新体验：好玩又上头](https://www.3dmgame.com/news/202311/3881184.html)
+
++ [NVIDIA矿卡改造变身游戏卡：实际性能不忍直视！](https://www.3dmgame.com/news/202311/3881185.html)
+
++ [二次元美少女TPS游戏《END OF BACK WORLD》上架Steam](https://www.3dmgame.com/news/202311/3881186.html)
+
++ [苹果暂停iOS 18和macOS 15开发 处理开发初期大量的bug](https://www.3dmgame.com/news/202311/3881187.html)
+
++ [《侠探杰克》第二季首曝预告 12月15日播出](https://www.3dmgame.com/news/202311/3881188.html)
+
++ [传《GTA6》最快将在本周公布 12月发首支预告片](https://www.3dmgame.com/news/202311/3881189.html)
+
++ [《质量效应》新作离发售还有3-4年时间](https://www.3dmgame.com/news/202311/3881190.html)
+
++ [Steam新功能开发中 可将游戏设为私密向好友隐藏](https://www.3dmgame.com/news/202311/3881191.html)
+
++ [传《GTA6》2025年发售 12月开启宣传](https://www.3dmgame.com/news/202311/3881192.html)
+
++ [R星官宣！《GTA6》首支预告片12月初发布](https://www.3dmgame.com/news/202311/3881193.html)
+
++ [外媒评15款好玩的魂类游戏 《堕落之主》等](https://www.3dmgame.com/news/202311/3881194.html)
+
++ [《逆转裁判123》Steam史低促销 仅售53.46元](https://www.3dmgame.com/news/202311/3881195.html)
+
++ [策略模拟《好莱坞动物》将于明年发售 预告放出](https://www.3dmgame.com/news/202311/3881196.html)
+
++ [《鬼屋魔影：重制版》8分钟预告 寻找Jeremy](https://www.3dmgame.com/news/202311/3881197.html)
+
++ [不跳票 官方宣布《死亡搁浅导剪版》IOS版今年发售](https://www.3dmgame.com/news/202311/3881198.html)
+
