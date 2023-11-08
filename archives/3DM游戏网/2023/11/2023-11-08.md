@@ -175,3 +175,13 @@
 
 + [马斯克正招募志愿者 切除头骨让芯片植入大脑](https://www.3dmgame.com/news/202311/3881147.html)
 
++ [年轻人第一辆酷驾！小米汽车新专利：尾翼角度可调](https://www.3dmgame.com/news/202311/3881152.html)
+
++ [马斯克：Neuralink正开发视觉芯片 几年内有望帮助失明人士恢复光明](https://www.3dmgame.com/news/202311/3881151.html)
+
++ [《仙剑世界》光追版视频 体验身临其境的视觉观感](https://www.3dmgame.com/news/202311/3881150.html)
+
++ [《Dungeons Deep》Steam页面上线 黑暗幻想迷宫探索RPG](https://www.3dmgame.com/news/202311/3881149.html)
+
++ [任天堂财报公开新情报《超级马里奥兄弟：惊奇》总销量超430万](https://www.3dmgame.com/news/202311/3881148.html)
+

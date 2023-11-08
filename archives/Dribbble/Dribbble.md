@@ -103,3 +103,5 @@
 
 + [Zuora Rebrand + Case Study](https://dribbble.com/shots/)
 
++ [Minimalist Shih Tzu Logo](https://dribbble.com/shots/)
+

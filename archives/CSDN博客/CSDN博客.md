@@ -155,3 +155,13 @@
 
 + [【亚马逊云科技产品测评】活动征文｜10分钟拥有一台AWS Linux系统](https://blog.csdn.net/s445320/article/details/134258645)
 
++ [【验证码系列】利用深度学习构建字符型验证码自动识别模型与算法](https://blog.csdn.net/qiulin_wu/article/details/134245736)
+
++ [Spring Task 超详解版](https://blog.csdn.net/qq_53317005/article/details/133606081)
+
++ [【微服务 Spring Cloud 8】如何对微服务进行有效的监控？](https://blog.csdn.net/guorui_java/article/details/134137661)
+
++ [随时随地时时刻刻使用GPT类应用](https://blog.csdn.net/ZhangRelay/article/details/134243543)
+
++ [Vue2和Vue3生命周期映射关系及异同](https://blog.csdn.net/qq_43277404/article/details/134249460)
+
