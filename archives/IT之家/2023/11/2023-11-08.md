@@ -57,3 +57,5 @@
 
 + [华为手机 0 元首月开通高精度定位，实现北斗车道级导航](https://m.ithome.com/html/730909.htm)
 
++ [11 月 8 日 PLUS DAY 攻略：全场折后 6 期免息，苹果 AirPods Pro 2 京东 1350 元新低](https://m.ithome.com/html/730803.htm)
+

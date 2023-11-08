@@ -193,3 +193,21 @@
 
 + [VB.NET—DataGridView控件教程详解](https://blog.csdn.net/weixin_59272777/article/details/134242544)
 
++ [基于YOLOv8与DeepSORT实现多目标跟踪——算法与源码解析](https://blog.csdn.net/matt45m/article/details/134237238)
+
++ [OGG将Oracle全量同步到kafka](https://blog.csdn.net/weixin_41645135/article/details/134287157)
+
++ [从白日梦到现实：推出 Elastic 的管道查询语言 ES|QL](https://blog.csdn.net/UbuntuTouch/article/details/134286439)
+
++ [【计算机网络】如何让客户端构造一个HTTP请求](https://blog.csdn.net/m0_73888323/article/details/134267351)
+
++ [使用Python从零实现多分类SVM](https://blog.csdn.net/m0_46510245/article/details/134261523)
+
++ [【Unity之UI编程】在Unity中如何打图集，来降低DrowCall](https://blog.csdn.net/m0_64128218/article/details/134289836)
+
++ [关于视频封装格式和视频编码格式的简介](https://blog.csdn.net/yikezhuixun/article/details/134288104)
+
++ [51单片机+SIM800C(GSM模块)实现短信发送功能](https://blog.csdn.net/xiaolong1126626497/article/details/134259624)
+
++ [拟态时钟动画](https://blog.csdn.net/qq_33003143/article/details/134287000)
+

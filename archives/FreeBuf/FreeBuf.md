@@ -69,3 +69,7 @@
 
 + [原创数据库 YashanDB发布，称可满足高安全性要求](https://www.freebuf.com/articles/383230.html)
 
++ [云原生与云安全运营实践 | FCIS 2023大会安全新势力专场](https://www.freebuf.com/fevents/383108.html)
+
++ [每条价格仅1美分，美国军人敏感信息正被低价售卖](https://www.freebuf.com/news/383183.html)
+

@@ -51,3 +51,37 @@
 
 + [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
 
++ [ekzhang / sshx](https://github.com/ekzhang/sshx)
+
++ [files-community / Files](https://github.com/files-community/Files)
+
++ [openai / whisper](https://github.com/openai/whisper)
+
++ [langchain-ai / opengpts](https://github.com/langchain-ai/opengpts)
+
++ [openai / openai-python](https://github.com/openai/openai-python)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [kubero-dev / ladder](https://github.com/kubero-dev/ladder)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [sashabaranov / go-openai](https://github.com/sashabaranov/go-openai)
+
++ [Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
++ [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [nodejs / node](https://github.com/nodejs/node)
+
++ [fuzzballcat / milliForth](https://github.com/fuzzballcat/milliForth)
+
++ [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [qdrant / qdrant](https://github.com/qdrant/qdrant)
+
++ [openai / consistencydecoder](https://github.com/openai/consistencydecoder)
+
++ [dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
