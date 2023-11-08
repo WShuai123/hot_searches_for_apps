@@ -43,3 +43,5 @@
 
 + [1999 元起，华为 nova 11 SE 手机今日首销：1 亿像素主摄 + 骁龙 680](https://m.ithome.com/html/730814.htm)
 
++ [苹果高管回应“黄金内存”质疑：MacBook Pro 的 8GB 近似于其它系统的 16GB](https://m.ithome.com/html/730827.htm)
+

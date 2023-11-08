@@ -147,3 +147,25 @@
 
 + [科乐美澄清《寂静岭2：重制版》三角头传闻：错误信息](https://www.3dmgame.com/news/202311/3881128.html)
 
++ [2023年TGA游戏提名名单将于11月14日凌晨公布](https://www.3dmgame.com/news/202311/3881140.html)
+
++ [《Robocraft 2》Steam免费抢先体验 定制战车大混战](https://www.3dmgame.com/news/202311/3881144.html)
+
++ [纪录片《中国游戏纪事》预告片 今晚6点播出](https://www.3dmgame.com/news/202311/3881143.html)
+
++ [最新联动 《怪奇物语》小十一加入《堡垒之夜》](https://www.3dmgame.com/news/202311/3881142.html)
+
++ [《最终幻想》系列总销量已超1.85亿份 FF16出力大](https://www.3dmgame.com/news/202311/3881141.html)
+
++ [IO互动高层：获得007游戏化授权之路并不轻松](https://www.3dmgame.com/news/202311/3881139.html)
+
++ [《死亡搁浅》庆祝发售四周年 多位主演献上祝福](https://www.3dmgame.com/news/202311/3881138.html)
+
++ [扎导科幻片《月球叛军》院线上映时间被提前](https://www.3dmgame.com/news/202311/3881137.html)
+
++ [《堕落之主》后续更新计划路线图公布：更多免费内容](https://www.3dmgame.com/news/202311/3881136.html)
+
++ [《遗迹2》首款DLC“The Awakened King”Steam页面上线 11月15日发售](https://www.3dmgame.com/news/202311/3881135.html)
+
++ [PS5将在圣诞节期间“充足供货” 包括新版主机](https://www.3dmgame.com/news/202311/3881134.html)
+

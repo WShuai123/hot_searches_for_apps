@@ -135,3 +135,13 @@
 
 + [《巧用ChatGPT快速提高职场晋升力》书籍推荐【包邮送书五本】](https://blog.csdn.net/yuan2019035055/article/details/134261727)
 
++ [Python实战 | 使用 Python 的日志库（logging）和 pandas 库对日志数据进行分析](https://blog.csdn.net/superdangbo/article/details/134279026)
+
++ [【Redis】Redis与SSM整合&Redis注解式缓存&Redis解决缓存问题](https://blog.csdn.net/m0_73192864/article/details/134260926)
+
++ [网络编程打开的第一节预备课-----关于socket](https://blog.csdn.net/qq_64691289/article/details/134275810)
+
++ [计算机网络——物理层-物理层的基本概念、物理层下面的传输媒体](https://blog.csdn.net/li13437542099/article/details/134192990)
+
++ [[pytorch]手动构建一个神经网络并且训练](https://blog.csdn.net/weixin_62697030/article/details/134220468)
+
