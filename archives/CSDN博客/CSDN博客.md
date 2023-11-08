@@ -127,3 +127,7 @@
 
 + [移远EC600U-CN开发板 day01](https://blog.csdn.net/qq_40501067/article/details/134265833)
 
++ [【网络奇遇记】我和因特网的初相遇](https://blog.csdn.net/2301_80026901/article/details/134257898)
+
++ [Android 12 S 系统开机流程分析-FirstStageMain（一）](https://blog.csdn.net/weixin_41028555/article/details/134183395)
+

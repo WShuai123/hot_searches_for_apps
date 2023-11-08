@@ -121,3 +121,9 @@
 
 + [澳大利亚分级信息泄露《寂静岭：短讯》剧情](https://www.3dmgame.com/news/202311/3881117.html)
 
++ [《如龙7外传》Steam现已开放预载 11月8日发售](https://www.3dmgame.com/news/202311/3881123.html)
+
++ [暴雪：玩家没有耐心 每天都想要新内容](https://www.3dmgame.com/news/202311/3881121.html)
+
++ [《刺客信条：Red》新爆料 主角是黑人武士弥助和藤林正保之女](https://www.3dmgame.com/news/202311/3881122.html)
+

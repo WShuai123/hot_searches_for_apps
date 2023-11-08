@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 微软宣布安全未来计划；美国出台安全事件报告规定](https://www.freebuf.com/news/382758.html)
 
++ [FreeBuf早报 | 美国数据交易产业失控引发国家安全漏洞；日本航空行业遭攻击](https://www.freebuf.com/news/383139.html)
+
++ [攻击者针对香港用户投放虚假 WhatsApp 与 Telegram 广告](https://www.freebuf.com/articles/network/381975.html)
+
