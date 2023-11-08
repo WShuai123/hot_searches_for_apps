@@ -63,3 +63,7 @@
 
 + [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
 
++ [深算院发布原创数据库 YashanDB，安全性再提升](https://www.freebuf.com/articles/383230.html)
+
++ [年度优秀安全新势力企业 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/382968.html)
+

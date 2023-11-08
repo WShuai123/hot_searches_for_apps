@@ -129,3 +129,61 @@
 
 + [Mayday](https://www.producthunt.com/posts/mayday-5)
 
++ [Pocket Paint - Easy Gen AI](https://www.producthunt.com/posts/pocket-paint-easy-gen-ai)
+
++ [Landing Tools Directory](https://www.producthunt.com/posts/landing-tools-directory)
+
++ [Instaheadshots - PRO Headshots with AI](https://www.producthunt.com/posts/instaheadshots-pro-headshots-with-ai)
+
++ [Marketing Campaign Simulator](https://www.producthunt.com/posts/marketing-campaign-simulator)
+
++ [Boardgamers](https://www.producthunt.com/posts/boardgamers)
+
++ [Kapeta](https://www.producthunt.com/posts/kapeta)
+
++ [Excompt](https://www.producthunt.com/posts/excompt)
+
++ [Chicken Rush](https://www.producthunt.com/posts/chicken-rush)
+
++ [Proofbase](https://www.producthunt.com/posts/proofbase)
+
++ [Intellecs.ai](https://www.producthunt.com/posts/intellecs-ai-2)
+
++ [DIY Websites AI Website Builder](https://www.producthunt.com/posts/diy-websites-ai-website-builder)
+
++ [Sole Stream](https://www.producthunt.com/posts/sole-stream)
+
++ [ReceiptCamp](https://www.producthunt.com/posts/receiptcamp)
+
++ [Mogox](https://www.producthunt.com/posts/mogox)
+
++ [Factiverse plugin for ChatGPT](https://www.producthunt.com/posts/factiverse-plugin-for-chatgpt)
+
++ [Remagine AI](https://www.producthunt.com/posts/remagine-ai)
+
++ [IGdm Pro](https://www.producthunt.com/posts/igdm-pro-2)
+
++ [Platoria](https://www.producthunt.com/posts/platoria-2)
+
++ [What2Watch](https://www.producthunt.com/posts/what2watch)
+
++ [BeeDone - AI Gamified Productivity](https://www.producthunt.com/posts/beedone-ai-gamified-productivity)
+
++ [Attio Automations](https://www.producthunt.com/posts/attio-automations)
+
++ [Dhibot](https://www.producthunt.com/posts/dhibot)
+
++ [Odoo 17](https://www.producthunt.com/posts/odoo-17)
+
++ [Codebay](https://www.producthunt.com/posts/codebay)
+
++ [Craftverse - Crafting Innovation](https://www.producthunt.com/posts/craftverse-crafting-innovation)
+
++ [Contractable](https://www.producthunt.com/posts/contractable)
+
++ [Joinby](https://www.producthunt.com/posts/joinby)
+
++ [AAArdvark](https://www.producthunt.com/posts/aaardvark)
+
++ [Speechki: Copilot Creator Tool](https://www.producthunt.com/posts/speechki-copilot-creator-tool)
+

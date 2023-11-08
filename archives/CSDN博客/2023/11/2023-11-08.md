@@ -181,3 +181,7 @@
 
 + [【AWS系列】使用 Amazon SageMaker 微调和部署 ChatGLM 模型](https://blog.csdn.net/weixin_36755535/article/details/134282416)
 
++ [SpringBoot整合Kafka (二)](https://blog.csdn.net/2301_80092713/article/details/134272560)
+
++ [现一个智能的SQL编辑器](https://blog.csdn.net/2301_79105024/article/details/134267577)
+
