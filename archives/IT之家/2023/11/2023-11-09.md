@@ -27,3 +27,5 @@
 
 + [特斯拉 Model 3 网约车不堪高强度使用，行驶 12 万英里后电池坏掉](https://m.ithome.com/html/730991.htm)
 
++ [小米京东自营 11.11 狂促加码：Redmi K60 16GB 手机 1699 元官方新低](https://m.ithome.com/html/731058.htm)
+

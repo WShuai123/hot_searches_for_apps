@@ -141,3 +141,11 @@
 
 + [不跳票 官方宣布《死亡搁浅导剪版》IOS版今年发售](https://www.3dmgame.com/news/202311/3881198.html)
 
++ [《#驾驶拉力赛》面向全平台公布 2024年推出](https://www.3dmgame.com/news/202311/3881202.html)
+
++ [《阿凡达：潘多拉边境》提供拍照模式 没有新游戏+](https://www.3dmgame.com/news/202311/3881200.html)
+
++ [科乐美音游《超疯狂节奏城堡》解说预告片分享](https://www.3dmgame.com/news/202311/3881201.html)
+
++ [《女神异闻录5：战略版》明智吾郎角色预告片分享](https://www.3dmgame.com/news/202311/3881199.html)
+
