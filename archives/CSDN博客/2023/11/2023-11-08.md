@@ -165,3 +165,7 @@
 
 + [Vue2和Vue3生命周期映射关系及异同](https://blog.csdn.net/qq_43277404/article/details/134249460)
 
++ [【腾讯云 HAI域探秘】借助高性能应用服务HAI快速开发一款“看图识成语“益智游戏，领略成语之韵，感受汉字之美。](https://blog.csdn.net/m0_61243965/article/details/134270565)
+
++ [【小尘送书-第十一期】编程的基石，开发的核心:《算法秘籍》](https://blog.csdn.net/qq_54796785/article/details/134282292)
+

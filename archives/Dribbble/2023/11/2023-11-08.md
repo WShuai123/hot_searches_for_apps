@@ -105,3 +105,47 @@
 
 + [Minimalist Shih Tzu Logo](https://dribbble.com/shots/)
 
++ [Form progress pills](https://dribbble.com/shots/)
+
++ [Getaway](https://dribbble.com/shots/)
+
++ [Levels](https://dribbble.com/shots/)
+
++ [Case Study: Posse Website Design](https://dribbble.com/shots/)
+
++ [Montlake Apparel - Badges](https://dribbble.com/shots/)
+
++ [Night](https://dribbble.com/shots/)
+
++ [11th Street Cowboy Bar Illustration](https://dribbble.com/shots/)
+
++ [ESC Zodiac Collection - Capricorn](https://dribbble.com/shots/)
+
++ [Wordmarks 2020 - 2023](https://dribbble.com/shots/)
+
++ [Skully](https://dribbble.com/shots/)
+
++ [Eventbeds - Website design for the best hotel deals for events](https://dribbble.com/shots/)
+
++ [Alarm Mobile App](https://dribbble.com/shots/)
+
++ [Lil Wings](https://dribbble.com/shots/)
+
++ [2024 National Park Calendar](https://dribbble.com/shots/)
+
++ [Smash stickers](https://dribbble.com/shots/)
+
++ [London Broncos](https://dribbble.com/shots/)
+
++ [Happy app mascot](https://dribbble.com/shots/)
+
++ [Vasolab Artery Scanning Interface](https://dribbble.com/shots/)
+
++ [Vital Card iOS app design by milkinside](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
++ [ConnectX - Mobile UI App Concept](https://dribbble.com/shots/)
+
++ [N logo](https://dribbble.com/shots/)
+

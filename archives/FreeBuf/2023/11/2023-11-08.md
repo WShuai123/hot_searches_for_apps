@@ -53,3 +53,5 @@
 
 + [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
 
++ [新型 GootLoader 恶意软件变种逃避检测并迅速传播](https://www.freebuf.com/news/383180.html)
+
