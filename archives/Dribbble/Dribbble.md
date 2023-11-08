@@ -101,3 +101,19 @@
 
 + [Traffio UI-UX](https://dribbble.com/shots/)
 
++ [Minimalist Shih Tzu Logo](https://dribbble.com/shots/)
+
++ [Mindmade](https://dribbble.com/shots/)
+
++ [Checkmark for AI by Milkinside](https://dribbble.com/shots/)
+
++ [Productivity Tool pt.2](https://dribbble.com/shots/)
+
++ [Stona House](https://dribbble.com/shots/)
+
++ [Lamontagne Rivera](https://dribbble.com/shots/)
+
++ [Signature 365 - Logo](https://dribbble.com/shots/)
+
++ [Dove](https://dribbble.com/shots/)
+

@@ -117,3 +117,5 @@
 
 + [kafka微服务学习](https://blog.csdn.net/m0_57084845/article/details/134298786)
 
++ [基于机器学习的 ICU 脑血管疾病死亡风险智能预测系统](https://blog.csdn.net/andrew_extra/article/details/134299771)
+
