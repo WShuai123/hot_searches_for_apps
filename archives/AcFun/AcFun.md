@@ -133,3 +133,7 @@
 
 + [昨天视频没过审](http://www.acfun.cn/v/ac42881635)
 
++ [有美女的地方就会有Acer！欢乐八点档-732](http://www.acfun.cn/v/ac42885952)
+
++ [【正片打野双视角】我找了十个王者绝活哥”复刻“LNG vs T1的比赛 #1](http://www.acfun.cn/v/ac42888086)
+
