@@ -25,3 +25,5 @@
 
 + [高分高刷 LCD 屏 + 骁龙 870：小米平板 5 Pro 5G 版限时 1859 元清仓](https://m.ithome.com/html/730832.htm)
 
++ [特斯拉 Model 3 网约车不堪高强度使用，行驶 12 万英里后电池坏掉](https://m.ithome.com/html/730991.htm)
+
