@@ -145,3 +145,13 @@
 
 + [[pytorch]手动构建一个神经网络并且训练](https://blog.csdn.net/weixin_62697030/article/details/134220468)
 
++ [AIGC实战——卷积神经网络(Convolutional Neural Network, CNN)](https://blog.csdn.net/LOVEmy134611/article/details/133967726)
+
++ [DevChat助手：在数据库及数据分析上面的应用实践](https://blog.csdn.net/qq_21891743/article/details/134274275)
+
++ [AI时代项目经理与架构师的成长之道：ChatGPT让你插上翅膀](https://blog.csdn.net/qq_44273429/article/details/134280406)
+
++ [vue的双向绑定的原理，和angular的对比](https://blog.csdn.net/m0_72196169/article/details/134280194)
+
++ [【亚马逊云科技产品测评】活动征文｜10分钟拥有一台AWS Linux系统](https://blog.csdn.net/s445320/article/details/134258645)
+

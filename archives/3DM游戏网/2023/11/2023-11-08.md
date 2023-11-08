@@ -169,3 +169,9 @@
 
 + [PS5将在圣诞节期间“充足供货” 包括新版主机](https://www.3dmgame.com/news/202311/3881134.html)
 
++ [《奇迹时代4》最新DLC《帝国与灰烬》正式发售](https://www.3dmgame.com/news/202311/3881145.html)
+
++ [《旺卡》中国内地正式定档 12月8日正式上映](https://www.3dmgame.com/news/202311/3881146.html)
+
++ [马斯克正招募志愿者 切除头骨让芯片植入大脑](https://www.3dmgame.com/news/202311/3881147.html)
+

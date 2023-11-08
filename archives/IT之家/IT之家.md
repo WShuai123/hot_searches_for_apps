@@ -45,3 +45,7 @@
 
 + [苹果高管回应“黄金内存”质疑：MacBook Pro 的 8GB 近似于其它系统的 16GB](https://m.ithome.com/html/730827.htm)
 
++ [小米机械键盘 TKL 开售：87 键布局 + 三模连接，到手价 199 元](https://m.ithome.com/html/730786.htm)
+
++ [《完蛋！我被美女包围了！》DLC 三位新角色曝光：运动员、老师、理科女博士](https://m.ithome.com/html/730840.htm)
+

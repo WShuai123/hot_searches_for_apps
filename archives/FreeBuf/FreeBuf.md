@@ -47,3 +47,7 @@
 
 + [基于特征向量的自动化指纹捕获实现之基础知识](https://www.freebuf.com/articles/web/381535.html)
 
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+
++ [谷歌警告，大量黑客披露最新概念验证（PoC）漏洞](https://www.freebuf.com/news/383056.html)
+
