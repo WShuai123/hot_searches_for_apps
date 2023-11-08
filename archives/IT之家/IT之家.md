@@ -61,3 +61,5 @@
 
 + [小米：澎湃 OS 的 Bootloader 解锁权限将仅针对开发者和手机发烧友开放](https://m.ithome.com/html/731004.htm)
 
++ [超 13Gbps，华为刷新 Wi-Fi 7 最快速率纪录](https://m.ithome.com/html/730931.htm)
+
