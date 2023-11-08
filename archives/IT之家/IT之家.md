@@ -59,3 +59,5 @@
 
 + [11 月 8 日 PLUS DAY 攻略：全场折后 6 期免息，苹果 AirPods Pro 2 京东 1350 元新低](https://m.ithome.com/html/730803.htm)
 
++ [小米：澎湃 OS 的 Bootloader 解锁权限将仅针对开发者和手机发烧友开放](https://m.ithome.com/html/731004.htm)
+
