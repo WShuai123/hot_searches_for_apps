@@ -105,3 +105,15 @@
 
 + [拟态时钟动画](https://blog.csdn.net/qq_33003143/article/details/134287000)
 
++ [Devchat插件：AI智能编程助手，让你告别脏活累活。](https://blog.csdn.net/u014727709/article/details/134255458)
+
++ [Spring Boot 统一处理功能](https://blog.csdn.net/m0_72161237/article/details/134248844)
+
++ [优化C++资源利用：探索高效内存管理技巧](https://blog.csdn.net/m0_74755811/article/details/134233462)
+
++ [如何在Linux上搭建本地Docker Registry并实现远程连接](https://blog.csdn.net/Tiam_cr/article/details/134296286)
+
++ [【亚马逊云科技产品测评】活动征文｜10分钟拥有一台AWS Linux系统](https://blog.csdn.net/s445320/article/details/134258645)
+
++ [kafka微服务学习](https://blog.csdn.net/m0_57084845/article/details/134298786)
+

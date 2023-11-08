@@ -49,3 +49,37 @@
 
 + [Real Estate Detail Page](https://dribbble.com/shots/)
 
++ [Synchrogods Website – Full Case Study](https://dribbble.com/shots/)
+
++ [No one really wins](https://dribbble.com/shots/)
+
++ [N logo](https://dribbble.com/shots/)
+
++ [World Champions in Paris](https://dribbble.com/shots/)
+
++ [Sharp Turn](https://dribbble.com/shots/)
+
++ [Yellow](https://dribbble.com/shots/)
+
++ [Learning Medics Branding](https://dribbble.com/shots/)
+
++ [bimini](https://dribbble.com/shots/)
+
++ [Usechannel - Online AI Chatbot Platform](https://dribbble.com/shots/)
+
++ [Illustrative labels for milk powder - kid's flavors](https://dribbble.com/shots/)
+
++ [Magnolia Home Buyers concept](https://dribbble.com/shots/)
+
++ [Dope - Snowboarding Web Illustration](https://dribbble.com/shots/)
+
++ [Ugly is Cool](https://dribbble.com/shots/)
+
++ [Cleaver](https://dribbble.com/shots/)
+
++ [Stratos logotype](https://dribbble.com/shots/)
+
++ [Zena: Settings](https://dribbble.com/shots/)
+
++ [The Tree Illustration Collection by Steven Noble](https://dribbble.com/shots/)
+
