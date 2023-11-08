@@ -149,3 +149,27 @@
 
 + [N logo](https://dribbble.com/shots/)
 
++ [AI Infrastructure Alliance Report](https://dribbble.com/shots/)
+
++ [Chewing Gum Landing Page](https://dribbble.com/shots/)
+
++ [UX-UI design Protect card mobile White animation](https://dribbble.com/shots/)
+
++ [Guahyba Estates Wines Label illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [Joygem: Unchosen Concept](https://dribbble.com/shots/)
+
++ [Sunshine Coast Falcons](https://dribbble.com/shots/)
+
++ [Financial Web Application: dashboard](https://dribbble.com/shots/)
+
++ [Flower](https://dribbble.com/shots/)
+
++ [The Bread of Life](https://dribbble.com/shots/)
+
++ [Cool Skull Bruh](https://dribbble.com/shots/)
+
++ [Embroidery Hero](https://dribbble.com/shots/)
+
++ [Real Estate Detail Page](https://dribbble.com/shots/)
+
