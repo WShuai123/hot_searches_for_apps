@@ -67,3 +67,5 @@
 
 + [年度优秀安全新势力企业 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/382968.html)
 
++ [原创数据库 YashanDB发布，称可满足高安全性要求](https://www.freebuf.com/articles/383230.html)
+

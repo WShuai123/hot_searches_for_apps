@@ -185,3 +185,5 @@
 
 + [现一个智能的SQL编辑器](https://blog.csdn.net/2301_79105024/article/details/134267577)
 
++ [【有源码】基于uniapp的农场管理小程序springboot基于微信小程序的农场检测系统（源码 调试 lw 开题报告ppt）](https://blog.csdn.net/m0_72599287/article/details/134273946)
+
