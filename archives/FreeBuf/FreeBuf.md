@@ -55,3 +55,9 @@
 
 + [新型 GootLoader 恶意软件变种逃避检测并迅速传播](https://www.freebuf.com/news/383180.html)
 
++ [Pinkerton：一款功能强大的JavaScript文件爬虫与敏感信息扫描工具](https://www.freebuf.com/sectool/380564.html)
+
++ [每条价格仅10美分，美国军人敏感信息正被低价售卖](https://www.freebuf.com/news/383183.html)
+
++ [新加坡豪华酒店遭到网络攻击，665000 名客户受到影响](https://www.freebuf.com/news/383178.html)
+

@@ -169,3 +169,11 @@
 
 + [【小尘送书-第十一期】编程的基石，开发的核心:《算法秘籍》](https://blog.csdn.net/qq_54796785/article/details/134282292)
 
++ [AI时代产品经理升级之道：ChatGPT让产品经理插上翅膀](https://blog.csdn.net/qq_32682301/article/details/134266044)
+
++ [解密hash算法：散列表、布隆过滤器和分布式一致性hash的原理与应用](https://blog.csdn.net/Long_xu/article/details/133895230)
+
++ [数据结构和算法是人工智能的基石](https://blog.csdn.net/herosunly/article/details/134283919)
+
++ [【论文阅读】PSDF Fusion：用于动态 3D 数据融合和场景重建的概率符号距离函数](https://blog.csdn.net/m0_50910915/article/details/134268933)
+
