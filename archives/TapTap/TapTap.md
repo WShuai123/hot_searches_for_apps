@@ -29,3 +29,5 @@
 
 + [石油大亨](https://www.taptap.cn/app/40337)
 
++ [超级收纳馆2](https://www.taptap.cn/app/397030)
+

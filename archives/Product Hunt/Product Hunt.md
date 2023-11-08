@@ -105,3 +105,27 @@
 
 + [FigJam AI by Figma](https://www.producthunt.com/posts/figjam-ai-by-figma)
 
++ [Conversational 404s (Formless-Typeform)](https://www.producthunt.com/posts/conversational-404s-formless-typeform)
+
++ [Guida](https://www.producthunt.com/posts/guida)
+
++ [PubScale](https://www.producthunt.com/posts/pubscale)
+
++ [RSVPlease on nostr](https://www.producthunt.com/posts/rsvplease-on-nostr)
+
++ [Semiring AI](https://www.producthunt.com/posts/semiring-ai)
+
++ [CodebaseUp](https://www.producthunt.com/posts/codebaseup)
+
++ [Flightcontrol](https://www.producthunt.com/posts/flightcontrol-2)
+
++ [Dopt Analytics](https://www.producthunt.com/posts/dopt-analytics)
+
++ [CommandBar for Mobile](https://www.producthunt.com/posts/commandbar-for-mobile)
+
++ [Whee.li](https://www.producthunt.com/posts/whee-li)
+
++ [Round](https://www.producthunt.com/posts/round-3)
+
++ [Mayday](https://www.producthunt.com/posts/mayday-5)
+

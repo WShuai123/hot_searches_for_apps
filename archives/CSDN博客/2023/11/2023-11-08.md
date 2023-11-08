@@ -177,3 +177,7 @@
 
 + [【论文阅读】PSDF Fusion：用于动态 3D 数据融合和场景重建的概率符号距离函数](https://blog.csdn.net/m0_50910915/article/details/134268933)
 
++ [解密人工智能：决策树 | 随机森林 | 朴素贝叶斯](https://blog.csdn.net/weixin_63115236/article/details/134281693)
+
++ [【AWS系列】使用 Amazon SageMaker 微调和部署 ChatGLM 模型](https://blog.csdn.net/weixin_36755535/article/details/134282416)
+

@@ -61,3 +61,5 @@
 
 + [新加坡豪华酒店遭到网络攻击，665000 名客户受到影响](https://www.freebuf.com/news/383178.html)
 
++ [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
+
