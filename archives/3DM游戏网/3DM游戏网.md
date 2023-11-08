@@ -127,3 +127,23 @@
 
 + [《刺客信条：Red》新爆料 主角是黑人武士弥助和藤林正保之女](https://www.3dmgame.com/news/202311/3881122.html)
 
++ [模拟经营《Taxi Life》新预告上线 明年2月发售](https://www.3dmgame.com/news/202311/3881129.html)
+
++ [粉丝设计《大金刚》乐高组件获6200票支持 1万可能生产](https://www.3dmgame.com/news/202311/3881130.html)
+
++ [任天堂社长古川俊太郎否认所有Switch 2传闻：并不准确](https://www.3dmgame.com/news/202311/3881131.html)
+
++ [《足球经理2024》Steam特别好评 在线峰值7.8万](https://www.3dmgame.com/news/202311/3881132.html)
+
++ [《刺客信条：幻景》1.05更新上线 改进视觉效果修复Bug](https://www.3dmgame.com/news/202311/3881133.html)
+
++ [《艾尔登法环》PC版又出漏洞 黑客入侵导致游戏崩溃](https://www.3dmgame.com/news/202311/3881124.html)
+
++ [《觉醒者：遗忘之誓》登陆Steam 高自由度战斗动作肉鸽](https://www.3dmgame.com/news/202311/3881125.html)
+
++ [下一个登陆Steam的暴雪游戏可能是《炉石传说》](https://www.3dmgame.com/news/202311/3881126.html)
+
++ [《暗黑地牢2》首个DLC将于12月推出 新增两位英雄](https://www.3dmgame.com/news/202311/3881127.html)
+
++ [科乐美澄清《寂静岭2：重制版》三角头传闻：错误信息](https://www.3dmgame.com/news/202311/3881128.html)
+

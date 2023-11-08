@@ -131,3 +131,7 @@
 
 + [Android 12 S 系统开机流程分析-FirstStageMain（一）](https://blog.csdn.net/weixin_41028555/article/details/134183395)
 
++ [我在Vscode学OpenCV 图像运算（权重、逻辑运算、掩码、位分解、数字水印）](https://blog.csdn.net/m0_74154295/article/details/134252425)
+
++ [《巧用ChatGPT快速提高职场晋升力》书籍推荐【包邮送书五本】](https://blog.csdn.net/yuan2019035055/article/details/134261727)
+

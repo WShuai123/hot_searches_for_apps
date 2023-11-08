@@ -37,3 +37,9 @@
 
 + [油价三连降：今晚国内油价将下调，加满一箱 92 号汽油少花 5.5 元](https://m.ithome.com/html/730715.htm)
 
++ [哈工大暖廊让学生出行“四季如春”，去上课像登机](https://m.ithome.com/html/730799.htm)
+
++ [苹果 iOS 17.1.1 正式版发布，修复了 iPhone 15 系列手机无线充电损坏 NFC 问题](https://m.ithome.com/html/730804.htm)
+
++ [1999 元起，华为 nova 11 SE 手机今日首销：1 亿像素主摄 + 骁龙 680](https://m.ithome.com/html/730814.htm)
+

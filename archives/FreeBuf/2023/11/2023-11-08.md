@@ -45,3 +45,5 @@
 
 + [攻击者针对香港用户投放虚假 WhatsApp 与 Telegram 广告](https://www.freebuf.com/articles/network/381975.html)
 
++ [基于特征向量的自动化指纹捕获实现之基础知识](https://www.freebuf.com/articles/web/381535.html)
+

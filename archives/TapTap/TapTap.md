@@ -23,3 +23,5 @@
 
 + [阿比斯少年冒险团](https://www.taptap.cn/app/387752)
 
++ [土豆兄弟(Brotato)](https://www.taptap.cn/app/256335)
+
