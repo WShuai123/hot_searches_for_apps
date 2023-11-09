@@ -149,3 +149,7 @@
 
 + [《时空幻境》周年纪念版重制版将登陆各大平台](https://www.3dmgame.com/news/202311/3881293.html)
 
++ [下周发售Switch《超级马里奥RPG》公开介绍视频](https://www.3dmgame.com/news/202311/3881297.html)
+
++ [笑不活了 官方公开《战神：诸神黄昏》BUG集锦](https://www.3dmgame.com/news/202311/3881298.html)
+
