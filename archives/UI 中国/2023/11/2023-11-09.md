@@ -13,3 +13,5 @@
 
 + [重塑知识探索体验：百度百科设计升级](https://www.ui.cn/detail/657501.html)
 
++ [想让设计更吸引人？这7种调色板示例可以帮助你！](https://www.ui.cn/detail/649186.html)
+

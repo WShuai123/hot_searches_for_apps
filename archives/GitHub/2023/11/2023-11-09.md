@@ -51,3 +51,37 @@
 
 + [dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
++ [microsoft / inshellisense](https://github.com/microsoft/inshellisense)
+
++ [VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT)
+
++ [Deci-AI / super-gradients](https://github.com/Deci-AI/super-gradients)
+
++ [SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [idurar / idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
++ [daveshap / ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions)
+
++ [ko-build / ko](https://github.com/ko-build/ko)
+
++ [TheoKanning / openai-java](https://github.com/TheoKanning/openai-java)
+
++ [primefaces / primeng](https://github.com/primefaces/primeng)
+
++ [jxnl / instructor](https://github.com/jxnl/instructor)
+
++ [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [Niek / chatgpt-web](https://github.com/Niek/chatgpt-web)
+
++ [dagster-io / dagster](https://github.com/dagster-io/dagster)
+
++ [deepmap / oapi-codegen](https://github.com/deepmap/oapi-codegen)
+
++ [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
+
