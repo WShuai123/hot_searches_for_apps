@@ -123,3 +123,9 @@
 
 + [【论文阅读】PSDF Fusion：用于动态 3D 数据融合和场景重建的概率符号距离函数](https://blog.csdn.net/m0_50910915/article/details/134268933)
 
++ [亚马逊云科技大语言模型的创新科技](https://blog.csdn.net/weixin_47343544/article/details/134265293)
+
++ [Java+SSM+MySQL基于微信的在线协同办公小程序(附源码 调试 文档)](https://blog.csdn.net/shenchengyv/article/details/134300663)
+
++ [微信小程序之自定义组件开发](https://blog.csdn.net/gghhb12/article/details/134253816)
+

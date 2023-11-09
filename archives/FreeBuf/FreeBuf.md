@@ -49,3 +49,5 @@
 
 + [从系统层到应用层，vivo 已在安全生态层](https://www.freebuf.com/articles/neopoints/383312.html)
 
++ [警惕！Python软件包索引资源库中存在BlazeStealer恶意软件](https://www.freebuf.com/news/383317.html)
+
