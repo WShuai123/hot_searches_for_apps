@@ -153,3 +153,7 @@
 
 + [【电路笔记】-基尔霍夫电路定律](https://blog.csdn.net/wujuxKkoolerter/article/details/134299469)
 
++ [微信小程序隐私政策不合规，应当由用户自主阅读后自行选择是否同意隐私政策协议，不得默认强制用户同意](https://blog.csdn.net/weixin_42220130/article/details/134304215)
+
++ [RIS 系列 Beyond One-to-One: Rethinking the Referring Image Segmentation 论文阅读笔记](https://blog.csdn.net/qq_38929105/article/details/134252308)
+

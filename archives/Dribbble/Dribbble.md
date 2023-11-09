@@ -133,3 +133,17 @@
 
 + [Lee Seidenberg Photography](https://dribbble.com/shots/)
 
++ [Athene Noctua Owl Logo](https://dribbble.com/shots/)
+
++ [Web Platform for Content Creators](https://dribbble.com/shots/)
+
++ [Animation for Vantagediscovery.com](https://dribbble.com/shots/)
+
++ [Cactus Country Font Test - Queen of the Rodeo](https://dribbble.com/shots/)
+
++ [LEWT - Finance Dashboard](https://dribbble.com/shots/)
+
++ [Architectural Design - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Landingpage](https://dribbble.com/shots/)
+
