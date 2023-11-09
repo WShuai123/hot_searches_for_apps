@@ -141,3 +141,11 @@
 
 + [Epic喜加一：《金色的光芒》免费领](https://www.3dmgame.com/news/202311/3881291.html)
 
++ [NVIDIA确认1/8举行CES发布会 或发布SUPER版](https://www.3dmgame.com/news/202311/3881296.html)
+
++ [《亚瑟王：骑士传说》PS5/XS版2024/2/22推出](https://www.3dmgame.com/news/202311/3881294.html)
+
++ [Valve公布Steam Deck OLED：更好的屏幕 售价549刀](https://www.3dmgame.com/news/202311/3881295.html)
+
++ [《时空幻境》周年纪念版重制版将登陆各大平台](https://www.3dmgame.com/news/202311/3881293.html)
+

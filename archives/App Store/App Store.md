@@ -203,3 +203,7 @@
 
 + [Keep - 跑步健身计步瑜伽](https://itunes.apple.com/cn/app/id952694580?mt=8)
 
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
