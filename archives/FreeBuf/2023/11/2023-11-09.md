@@ -47,3 +47,5 @@
 
 + [渗透测试之HTTP报头攻击](https://www.freebuf.com/articles/web/383012.html)
 
++ [从系统层到应用层，vivo 已在安全生态层](https://www.freebuf.com/articles/neopoints/383312.html)
+

@@ -39,3 +39,5 @@
 
 + [3A6000 国产桌面处理器来了！2023 龙芯产品发布暨用户大会定档 11 月 28 日](https://m.ithome.com/html/731002.htm)
 
++ [首日立减 100 元：华为 nova 11 SE 手机 1899 元起新低](https://m.ithome.com/html/731070.htm)
+
