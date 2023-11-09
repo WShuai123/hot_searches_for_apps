@@ -53,3 +53,7 @@
 
 + [内网渗透测试 | 横向常见利用手法](https://www.freebuf.com/articles/network/382754.html)
 
++ [由AI生成的巴以冲突虚假图片正在Adobe图库上售卖](https://www.freebuf.com/news/383328.html)
+
++ [俄罗斯储蓄银行遭受 100 万 RPS DDoS 攻击](https://www.freebuf.com/news/383319.html)
+
