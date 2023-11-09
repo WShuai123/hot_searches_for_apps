@@ -35,3 +35,5 @@
 
 + [土豆兄弟(Brotato)](https://www.taptap.cn/app/256335)
 
++ [蛋仔派对](https://www.taptap.cn/app/206776)
+

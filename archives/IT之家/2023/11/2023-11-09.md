@@ -59,3 +59,7 @@
 
 + [消息称华为 P70 系列手机将采用定制高频护眼屏、豪威大底大光圈传感器，国产化率进一步提高](https://m.ithome.com/html/731268.htm)
 
++ [苹果美国官网上架 256GB 款 iPhone 12 mini 官翻机，售 529 美元](https://m.ithome.com/html/731221.htm)
+
++ [比亚迪认证二手车商城界面曝光，即将上线](https://m.ithome.com/html/731093.htm)
+
