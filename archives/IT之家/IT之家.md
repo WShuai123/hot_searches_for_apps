@@ -41,3 +41,7 @@
 
 + [首日立减 100 元：华为 nova 11 SE 手机 1899 元起新低](https://m.ithome.com/html/731070.htm)
 
++ [Flyme 征集中文 OS 名称：对标鸿蒙、澎湃，入选者送华为、小米、魅族手机](https://m.ithome.com/html/731164.htm)
+
++ [汽车 AEB 之争落下帷幕，何小鹏向华为余承东表示感谢：有时候误会后更容易成为好朋友](https://m.ithome.com/html/731168.htm)
+

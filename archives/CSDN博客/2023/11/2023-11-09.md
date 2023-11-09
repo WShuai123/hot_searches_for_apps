@@ -129,3 +129,13 @@
 
 + [微信小程序之自定义组件开发](https://blog.csdn.net/gghhb12/article/details/134253816)
 
++ [【Redis】SSM整合Redis&注解式缓存的使用](https://blog.csdn.net/weixin_74318097/article/details/134252504)
+
++ [不用流氓软件，如何在户外使用手机听下载到家中电脑里的音乐文件呢？](https://blog.csdn.net/qq_57761637/article/details/134244983)
+
++ [Guava：Java开发者的全方位工具库](https://blog.csdn.net/Mrxiao_bo/article/details/134291893)
+
++ [【计算机网络笔记】网络层服务模型——虚电路网络](https://blog.csdn.net/m0_60511809/article/details/134239943)
+
++ [基于JavaWeb+SpringBoot+微信小程序的酒店商品配送平台系统的设计和实现](https://blog.csdn.net/qq_39659876/article/details/134300801)
+

@@ -51,3 +51,5 @@
 
 + [警惕！Python软件包索引资源库中存在BlazeStealer恶意软件](https://www.freebuf.com/news/383317.html)
 
++ [内网渗透测试 | 横向常见利用手法](https://www.freebuf.com/articles/network/382754.html)
+
