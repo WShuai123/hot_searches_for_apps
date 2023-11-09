@@ -167,3 +167,7 @@
 
 + [JS加密/解密之你是否真的明白xss](https://blog.csdn.net/mxd01848/article/details/134309081)
 
++ [使用Docker部署开源分布式任务调度系统DolphinScheduler](https://blog.csdn.net/hsjsiwkwm/article/details/134311017)
+
++ [支持向量机 (SVM)：初学者指南](https://blog.csdn.net/gongdiwudu/article/details/134257159)
+

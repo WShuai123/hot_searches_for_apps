@@ -63,3 +63,5 @@
 
 + [比亚迪认证二手车商城界面曝光，即将上线](https://m.ithome.com/html/731093.htm)
 
++ [苹果 iPhone 15 Pro Max 物料成本分析：比前代高 37.7 美元、增长 8%](https://m.ithome.com/html/731202.htm)
+
