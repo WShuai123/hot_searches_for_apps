@@ -145,3 +145,7 @@
 
 + [Amazon CodeWhisperer（亚马逊云 AI 大模型下应用创新——自动代码生成插件：AWS toolkit）以 IntelliJ IDEA 2023.1 为例的实测使用](https://blog.csdn.net/lbcyllqj/article/details/134301209)
 
++ [【有源码】基于uniapp的农场管理小程序springboot基于微信小程序的农场检测系统（源码 调试 lw 开题报告ppt）](https://blog.csdn.net/m0_72599287/article/details/134273946)
+
++ [现一个智能的SQL编辑器](https://blog.csdn.net/2301_79105024/article/details/134267577)
+

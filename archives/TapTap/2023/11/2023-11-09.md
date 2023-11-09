@@ -31,3 +31,7 @@
 
 + [泰拉瑞亚](https://www.taptap.cn/app/194610)
 
++ [战双帕弥什](https://www.taptap.cn/app/130651)
+
++ [土豆兄弟(Brotato)](https://www.taptap.cn/app/256335)
+

@@ -61,3 +61,7 @@
 
 + [AI生成巴以冲突虚假图片，以假乱真被媒体引用](https://www.freebuf.com/news/383328.html)
 
++ [攻防演练 | 详细分析某红队钓鱼样本](https://www.freebuf.com/articles/system/381668.html)
+
++ [GPT-4 Turbo发布，隔天因为太火宕机 2 小时](https://www.freebuf.com/news/383346.html)
+

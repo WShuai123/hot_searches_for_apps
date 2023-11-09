@@ -101,3 +101,21 @@
 
 + [Speechki: Copilot Creator Tool](https://www.producthunt.com/posts/speechki-copilot-creator-tool)
 
++ [Everhour Shifts](https://www.producthunt.com/posts/everhour-shifts)
+
++ [Puter](https://www.producthunt.com/posts/puter)
+
++ [AI Email Finder by Ful.io](https://www.producthunt.com/posts/ai-email-finder-by-ful-io)
+
++ [Sweet Dream Labs](https://www.producthunt.com/posts/sweet-dream-labs)
+
++ [Flagright AI Forensics](https://www.producthunt.com/posts/flagright-ai-forensics)
+
++ [Relate](https://www.producthunt.com/posts/relate-1ad1f764-96d1-413c-ac36-36c10234f98c)
+
++ [Giskard](https://www.producthunt.com/posts/giskard-2)
+
++ [Loyoly](https://www.producthunt.com/posts/loyoly)
+
++ [March Health](https://www.producthunt.com/posts/march-health)
+
