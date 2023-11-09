@@ -143,3 +143,5 @@
 
 + [2023年的低代码：数字化、人工智能、趋势及未来展望](https://blog.csdn.net/powertoolsteam/article/details/133925089)
 
++ [Amazon CodeWhisperer（亚马逊云 AI 大模型下应用创新——自动代码生成插件：AWS toolkit）以 IntelliJ IDEA 2023.1 为例的实测使用](https://blog.csdn.net/lbcyllqj/article/details/134301209)
+
