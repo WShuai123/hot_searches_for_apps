@@ -25,3 +25,5 @@
 
 + [会影响佣金收入，苹果承认欧洲市场开放第三方 App Store 无法避免](https://m.ithome.com/html/731103.htm)
 
++ [苹果美国官网上架 256GB 款 iPhone 12 mini 官翻机，售 529 美元](https://m.ithome.com/html/731221.htm)
+

@@ -101,3 +101,43 @@
 
 + [《艾尔登法环》PC版又出漏洞 黑客入侵导致游戏崩溃](https://www.3dmgame.com/news/202311/3881124.html)
 
++ [中手游授权INTINY开发互动影像新作 《天呐！我被仙剑包围了》](https://www.3dmgame.com/news/202311/3881271.html)
+
++ [2023年全球笔电出货量将减少10.2%：明年有望恢复增长](https://www.3dmgame.com/news/202311/3881273.html)
+
++ [《Beyond Sunset》Steam抢先体验 像素风赛朋第一人称射击](https://www.3dmgame.com/news/202311/3881276.html)
+
++ [暴雪总裁说玩家没耐心 网友们不满称这是甩锅行为](https://www.3dmgame.com/news/202311/3881274.html)
+
++ [电视剧《仙剑奇侠传4》集数缩短：40集变更为36集](https://www.3dmgame.com/news/202311/3881277.html)
+
++ [NASA发现迄今最古老黑洞：质量为太阳的一亿倍](https://www.3dmgame.com/news/202311/3881278.html)
+
++ [苹果称未将环保成本转嫁给消费者 用户：充电器耳机都没](https://www.3dmgame.com/news/202311/3881279.html)
+
++ [RTX4080/4070新版来了：4400元起 全面压制AMD](https://www.3dmgame.com/news/202311/3881280.html)
+
++ [经典重制RPG《赵云传：云汉腾龙》12月7日正式发售 定档预告公开](https://www.3dmgame.com/news/202311/3881281.html)
+
++ [英伟达正为中国区开发新款特供AI芯片 共有三款](https://www.3dmgame.com/news/202311/3881284.html)
+
++ [新的主角？BioWare发《质量效应》新作角色海报](https://www.3dmgame.com/news/202311/3881282.html)
+
++ [动作冒险游戏《Steel Flood》Steam页面上线](https://www.3dmgame.com/news/202311/3881283.html)
+
++ [新版《贱女孩》首曝预告 新一代塑料姐妹团华丽来袭](https://www.3dmgame.com/news/202311/3881285.html)
+
++ [Fami通新一周销量榜 《超级马里奥兄弟：惊奇》三连冠](https://www.3dmgame.com/news/202311/3881286.html)
+
++ [索尼副总裁将临时担任SIE CEO一年 将物色新的人选](https://www.3dmgame.com/news/202311/3881287.html)
+
++ [苹果明年或停产mini LED版iPad Pro 将以OLED版取代](https://www.3dmgame.com/news/202311/3881288.html)
+
++ [《斗技场的阿利娜》主机版11月23日推出 获特别好评](https://www.3dmgame.com/news/202311/3881289.html)
+
++ [《破晓传说：黎明新程》已经发售 上市预告发布](https://www.3dmgame.com/news/202311/3881290.html)
+
++ [单条128GB DDR5-8000内存诞生！1TB也是小意思](https://www.3dmgame.com/news/202311/3881292.html)
+
++ [Epic喜加一：《金色的光芒》免费领](https://www.3dmgame.com/news/202311/3881291.html)
+

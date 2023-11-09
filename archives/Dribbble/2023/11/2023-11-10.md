@@ -49,3 +49,31 @@
 
 + [Home](https://dribbble.com/shots/)
 
++ [Timekeepers Redefined](https://dribbble.com/shots/)
+
++ [( ˚ - ˚)/](https://dribbble.com/shots/)
+
++ [Madly Backwards Album Art](https://dribbble.com/shots/)
+
++ [Athene Noctua Owl Logo](https://dribbble.com/shots/)
+
++ [Web UI](https://dribbble.com/shots/)
+
++ [Tokyo](https://dribbble.com/shots/)
+
++ [E...agle](https://dribbble.com/shots/)
+
++ [AI stock recommendation](https://dribbble.com/shots/)
+
++ [Hard-Soft](https://dribbble.com/shots/)
+
++ [Football badge](https://dribbble.com/shots/)
+
++ [Astronaut Scene #1](https://dribbble.com/shots/)
+
++ [1000 Portraits of SeatGeek Employees](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [Boat Invitation Design](https://dribbble.com/shots/)
+

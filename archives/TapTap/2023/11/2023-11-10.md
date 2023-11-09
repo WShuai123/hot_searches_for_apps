@@ -21,3 +21,5 @@
 
 + [香肠派对](https://www.taptap.cn/app/58881)
 
++ [土豆兄弟(Brotato)](https://www.taptap.cn/app/256335)
+
