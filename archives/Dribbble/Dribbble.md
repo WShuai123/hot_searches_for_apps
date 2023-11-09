@@ -115,3 +115,15 @@
 
 + [Braze Rebrand + Case Study](https://dribbble.com/shots/)
 
++ [Business Consultancy Website Home Page](https://dribbble.com/shots/)
+
++ [The Emotional Connection of Human-Robot Interaction](https://dribbble.com/shots/)
+
++ [Crypto Exchange Marketplace](https://dribbble.com/shots/)
+
++ [LEWT - Finance Dashboard](https://dribbble.com/shots/)
+
++ [Lil Doughnuts](https://dribbble.com/shots/)
+
++ [Keep It Movin'](https://dribbble.com/shots/)
+
