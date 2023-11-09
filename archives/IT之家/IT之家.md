@@ -29,3 +29,5 @@
 
 + [小米京东自营 11.11 狂促加码：Redmi K60 16GB 手机 1699 元官方新低](https://m.ithome.com/html/731058.htm)
 
++ [消息称小米 Redmi K70 手机配备 2K 极窄直屏及金属中框，本月发布](https://m.ithome.com/html/731055.htm)
+

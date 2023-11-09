@@ -41,3 +41,7 @@
 
 + [内网攻防 | Kerberos协议安全解析](https://www.freebuf.com/defense/382531.html)
 
++ [FreeBuf早报 | 美国数据交易产业失控引发国家安全漏洞；斯坦福大学遭勒索软件攻击](https://www.freebuf.com/news/383197.html)
+
++ [Quasar RAT 开始使用双重 DLL 侧加载技术](https://www.freebuf.com/articles/network/382007.html)
+

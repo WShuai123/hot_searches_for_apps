@@ -149,3 +149,5 @@
 
 + [《女神异闻录5：战略版》明智吾郎角色预告片分享](https://www.3dmgame.com/news/202311/3881199.html)
 
++ [《雨中冒险：回归》上市 获Steam特别好评](https://www.3dmgame.com/news/202311/3881203.html)
+
