@@ -77,3 +77,17 @@
 
 + [Boat Invitation Design](https://dribbble.com/shots/)
 
++ [Tokyo lights](https://dribbble.com/shots/)
+
++ [Usechannel - Online AI Chatbot Platform](https://dribbble.com/shots/)
+
++ [Financial Web Application: dashboard](https://dribbble.com/shots/)
+
++ [Dope - Snowboarding Web Illustration](https://dribbble.com/shots/)
+
++ [Business Growth Company Website](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
++ [Productivity Tool pt.3](https://dribbble.com/shots/)
+

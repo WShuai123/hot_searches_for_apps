@@ -101,3 +101,5 @@
 
 + [March Health](https://www.producthunt.com/posts/march-health)
 
++ [Humane Ai Pin](https://www.producthunt.com/posts/humane-ai-pin-2)
+

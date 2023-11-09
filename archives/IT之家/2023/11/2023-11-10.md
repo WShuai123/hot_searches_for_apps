@@ -27,3 +27,5 @@
 
 + [苹果美国官网上架 256GB 款 iPhone 12 mini 官翻机，售 529 美元](https://m.ithome.com/html/731221.htm)
 
++ [智界 S7 轿车 11 月 28 日正式上市，华为余承东“叫苦”4 款价格都是亏损的](https://m.ithome.com/html/731377.htm)
+
