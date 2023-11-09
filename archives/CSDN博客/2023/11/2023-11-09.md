@@ -149,3 +149,7 @@
 
 + [现一个智能的SQL编辑器](https://blog.csdn.net/2301_79105024/article/details/134267577)
 
++ [黑客（网络安全）技术——高效自学](https://blog.csdn.net/stopluox/article/details/134291039)
+
++ [【电路笔记】-基尔霍夫电路定律](https://blog.csdn.net/wujuxKkoolerter/article/details/134299469)
+

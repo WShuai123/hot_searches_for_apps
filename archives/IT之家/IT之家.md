@@ -47,3 +47,5 @@
 
 + [（已结束）立减 1051 元： iPhone 15 Pro 256G 京东自营 7948 元百亿补贴](https://m.ithome.com/html/731063.htm)
 
++ [特斯拉中国宣布 Model 3 / Y 长续航版涨价 1500/2500 元，分别为 29.74/30.24 万元](https://m.ithome.com/html/731121.htm)
+
