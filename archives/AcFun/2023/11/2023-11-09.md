@@ -69,3 +69,5 @@
 
 + [《狗呗 谁能狗过你啊》](http://www.acfun.cn/v/ac42888449)
 
++ [酸酸甜甜发布会，iQOO12携含韵让酷客直呼牛逼！](http://www.acfun.cn/v/ac42888533)
+

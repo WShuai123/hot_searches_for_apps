@@ -45,3 +45,5 @@
 
 + [Quasar RAT 开始使用双重 DLL 侧加载技术](https://www.freebuf.com/articles/network/382007.html)
 
++ [渗透测试之HTTP报头攻击](https://www.freebuf.com/articles/web/383012.html)
+

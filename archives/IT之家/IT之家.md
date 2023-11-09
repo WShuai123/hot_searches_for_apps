@@ -31,3 +31,11 @@
 
 + [消息称小米 Redmi K70 手机配备 2K 极窄直屏及金属中框，本月发布](https://m.ithome.com/html/731055.htm)
 
++ [《GTA6》终于要来了，R 星宣布 12 月初公布新作首个预告片](https://m.ithome.com/html/731073.htm)
+
++ [不到 1 分钟开发一个 GPT 应用！各路大神疯狂整活，网友：ChatGPT 就是新 iPhone](https://m.ithome.com/html/731096.htm)
+
++ [11.11 今日攻略：小米 Redmi K60 16GB 手机 1699 元百亿补贴，会员好价再度回归](https://m.ithome.com/html/731100.htm)
+
++ [3A6000 国产桌面处理器来了！2023 龙芯产品发布暨用户大会定档 11 月 28 日](https://m.ithome.com/html/731002.htm)
+

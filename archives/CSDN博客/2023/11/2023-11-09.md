@@ -119,3 +119,5 @@
 
 + [基于机器学习的 ICU 脑血管疾病死亡风险智能预测系统](https://blog.csdn.net/andrew_extra/article/details/134299771)
 
++ [【Linux】了解文件的inode元信息，以及日志分析](https://blog.csdn.net/liu_xueyin/article/details/134287813)
+

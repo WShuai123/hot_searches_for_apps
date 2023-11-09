@@ -23,3 +23,5 @@
 
 + [超级收纳馆2](https://www.taptap.cn/app/397030)
 
++ [代号：LaB](https://www.taptap.cn/app/353164)
+
