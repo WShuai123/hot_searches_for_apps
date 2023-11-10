@@ -109,3 +109,11 @@
 
 + [《使命召唤20》上市预告 今日正式发售](https://www.3dmgame.com/news/202311/3881378.html)
 
++ [竞速RPG新作《电阻》首部实机预告片分享](https://www.3dmgame.com/news/202311/3881385.html)
+
++ [磁带式未来主义《午夜机器人》面向PC/XS公布](https://www.3dmgame.com/news/202311/3881383.html)
+
++ [生活模拟RPG《我们的水上生活》面向PC公布](https://www.3dmgame.com/news/202311/3881384.html)
+
++ [《博德之门3》荣获2023金摇杆奖终极年度游戏奖](https://www.3dmgame.com/news/202311/3881382.html)
+
