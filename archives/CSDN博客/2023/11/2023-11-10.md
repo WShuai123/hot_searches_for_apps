@@ -179,3 +179,5 @@
 
 + [Linux下内网穿透实现云原生观测分析工具的远程访问](https://blog.csdn.net/2301_80092713/article/details/134327359)
 
++ [如何在Linux上部署1Panel运维管理面板并远程访问内网进行操作](https://blog.csdn.net/m0_75215937/article/details/134322524)
+

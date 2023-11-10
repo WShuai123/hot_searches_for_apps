@@ -49,3 +49,7 @@
 
 + [比亚迪方程豹首款车型豹 5 上市：DMO 超级混动越野平台，28.98 万元起售](https://m.ithome.com/html/731381.htm)
 
++ [腾讯 QQ 经典头像升级为 3D 版，还新增 9 个小黄脸表情](https://m.ithome.com/html/731542.htm)
+
++ [OLED 版 Steam Deck 游戏主机发布：刷新率 90Hz、续航延长 50%，起售价 549 美元](https://m.ithome.com/html/731433.htm)
+
