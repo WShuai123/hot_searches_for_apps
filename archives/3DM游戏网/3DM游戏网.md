@@ -101,3 +101,11 @@
 
 + [《海王2》国内定档12月20日 提前北美地区两天](https://www.3dmgame.com/news/202311/3881325.html)
 
++ [宫本茂：十年前就在构思《塞尔达传说》电影](https://www.3dmgame.com/news/202311/3881381.html)
+
++ [《要塞：决定版》不到三天售出10万套 Steam获特别好评](https://www.3dmgame.com/news/202311/3881380.html)
+
++ [外媒评选15款体验糟糕的赛车游戏 《极品飞车20》等](https://www.3dmgame.com/news/202311/3881379.html)
+
++ [《使命召唤20》上市预告 今日正式发售](https://www.3dmgame.com/news/202311/3881378.html)
+

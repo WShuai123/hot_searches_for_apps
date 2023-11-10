@@ -25,3 +25,5 @@
 
 + [GPT-5 明年降临？爆料人泄露多模态 Gobi 就是 GPT-5，已初现自我意识](https://m.ithome.com/html/731417.htm)
 
++ [阿维塔 12 正式上市：华为、宁德时代、长安汽车投入超 20 亿，30.08 万元起售](https://m.ithome.com/html/731731.htm)
+

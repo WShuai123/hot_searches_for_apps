@@ -49,3 +49,25 @@
 
 + [Modular Logo/Logotype](https://dribbble.com/shots/)
 
++ [AI stock recommendation](https://dribbble.com/shots/)
+
++ [Animation for Vantagediscovery.com](https://dribbble.com/shots/)
+
++ [Omniwear](https://dribbble.com/shots/)
+
++ [Flow - Design Studio Mobile UI Concept](https://dribbble.com/shots/)
+
++ [Business Consultancy Website Home Page](https://dribbble.com/shots/)
+
++ [Study planner tool pt.3](https://dribbble.com/shots/)
+
++ [Batley Bulldogs](https://dribbble.com/shots/)
+
++ [AP Social Media Design](https://dribbble.com/shots/)
+
++ [UX-UI design Top up mobile White animation](https://dribbble.com/shots/)
+
++ [Taman badge](https://dribbble.com/shots/)
+
++ ["Sunny" - Daily vector art](https://dribbble.com/shots/)
+
