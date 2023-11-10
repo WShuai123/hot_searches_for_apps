@@ -153,3 +153,13 @@
 
 + [笑不活了 官方公开《战神：诸神黄昏》BUG集锦](https://www.3dmgame.com/news/202311/3881298.html)
 
++ [微软：正努力让创意成为第一方游戏的必然选择](https://www.3dmgame.com/news/202311/3881303.html)
+
++ [V社确认开发Steam Deck 2 性能将有次世代升级、未来2-3年不会推出](https://www.3dmgame.com/news/202311/3881302.html)
+
++ [明年6月上映 皮克斯动画电影《头脑特工队2》预告](https://www.3dmgame.com/news/202311/3881299.html)
+
++ [2月22日开播《降世神通：最后的气宗》发布前导预告](https://www.3dmgame.com/news/202311/3881300.html)
+
++ [操作小虫在澳大利亚丛林冒险的游戏上架Steam](https://www.3dmgame.com/news/202311/3881301.html)
+

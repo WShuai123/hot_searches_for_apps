@@ -29,3 +29,7 @@
 
 + [智界 S7 轿车 11 月 28 日正式上市，华为余承东“叫苦”4 款价格都是亏损的](https://m.ithome.com/html/731377.htm)
 
++ [理想汽车 CEO 李想：面对华为，80% 学习、20% 表示尊敬、零抱怨](https://m.ithome.com/html/731386.htm)
+
++ [苹果 iPhone 15 Pro Max 物料成本分析：比前代高 37.7 美元、增长 8%](https://m.ithome.com/html/731202.htm)
+

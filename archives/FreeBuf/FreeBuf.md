@@ -41,3 +41,7 @@
 
 + [新加坡豪华酒店遭到网络攻击，665000 名客户受到影响](https://www.freebuf.com/news/383178.html)
 
++ [FreeBuf早报 | ChatGPT确认遭 DDoS 攻击；特斯拉允许车主关闭远程访问](https://www.freebuf.com/news/383401.html)
+
++ [DarkGate正在积极利用 Skype和Teams 对目标组织执行恶意活动](https://www.freebuf.com/articles/network/382034.html)
+
