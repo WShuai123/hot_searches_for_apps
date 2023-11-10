@@ -147,3 +147,7 @@
 
 + [Finance mobile app](https://dribbble.com/shots/)
 
++ [Reside Logo Design](https://dribbble.com/shots/)
+
++ [Pepper X](https://dribbble.com/shots/)
+
