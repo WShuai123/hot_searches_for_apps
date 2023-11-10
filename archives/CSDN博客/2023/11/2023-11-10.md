@@ -195,3 +195,11 @@
 
 + [基于QT使用OpenGL，加载obj模型，进行鼠标交互](https://blog.csdn.net/gb11235/article/details/134311115)
 
++ [我在Vscode学OpenCV 图像运算（权重、逻辑运算、掩码、位分解、数字水印）](https://blog.csdn.net/m0_74154295/article/details/134252425)
+
++ [【操作系统】测试二](https://blog.csdn.net/m0_68111267/article/details/134143820)
+
++ [【FGPA】Verilog：移位寄存器 | 环形计数器 | 4bit移位寄存器的实现 | 4bit环形计数器的实现](https://blog.csdn.net/weixin_50502862/article/details/134318743)
+
++ [Python进行数据可视化，探索和发现数据中的模式和趋势。](https://blog.csdn.net/2301_80240808/article/details/134321562)
+

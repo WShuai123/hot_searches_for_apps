@@ -299,3 +299,7 @@
 
 + [“雪龙2”号穿越赤道 中国第40次南极考察船队已进入南半球](https://www.3dmgame.com/news/202311/3881352.html)
 
++ [《堕落之主》现已通过了Steam Deck验证](https://www.3dmgame.com/news/202311/3881373.html)
+
++ [传华硕RTX 4090显卡大幅涨价3000元以上](https://www.3dmgame.com/news/202311/3881372.html)
+

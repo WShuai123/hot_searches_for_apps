@@ -53,3 +53,7 @@
 
 + [OLED 版 Steam Deck 游戏主机发布：刷新率 90Hz、续航延长 50%，起售价 549 美元](https://m.ithome.com/html/731433.htm)
 
++ [一年一度全民高数节：两分钟速读 11.11 全网 20:00~24:00 巅峰四小时攻略，iPhone 15 京东 2999 元半价购](https://m.ithome.com/html/731631.htm)
+
++ [华为、荣耀、小米、OPPO、vivo、中兴、魅族在列，中国电信推动“旗舰手机标配”卫星直连](https://m.ithome.com/html/731639.htm)
+

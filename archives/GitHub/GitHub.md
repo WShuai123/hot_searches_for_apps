@@ -51,3 +51,39 @@
 
 + [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
 
++ [daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm)
+
++ [SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+
++ [expo / expo](https://github.com/expo/expo)
+
++ [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+
++ [roboflow / awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments)
+
++ [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [opendilab / LLMRiddles](https://github.com/opendilab/LLMRiddles)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [Chanzhaoyu / chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+
++ [starship / starship](https://github.com/starship/starship)
+
++ [facebook / folly](https://github.com/facebook/folly)
+
++ [GaiZhenbiao / ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+
++ [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
++ [KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix)
+
++ [OpenBMB / XAgent](https://github.com/OpenBMB/XAgent)
+
++ [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
+
++ [openai / openai-python](https://github.com/openai/openai-python)
+
++ [uber-go / goleak](https://github.com/uber-go/goleak)
+
