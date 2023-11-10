@@ -71,3 +71,25 @@
 
 + ["Sunny" - Daily vector art](https://dribbble.com/shots/)
 
++ [Raw Man](https://dribbble.com/shots/)
+
++ [Eventbeds - Website page for businesses](https://dribbble.com/shots/)
+
++ [Download  Festival -  Merch Design](https://dribbble.com/shots/)
+
++ [Athene Noctua Owl Logo](https://dribbble.com/shots/)
+
++ [The Emotional Connection of Human-Robot Interaction](https://dribbble.com/shots/)
+
++ [LOOVE YEWELRY LOGO DESIGN](https://dribbble.com/shots/)
+
++ [Finance mobile app](https://dribbble.com/shots/)
+
++ [P-Con](https://dribbble.com/shots/)
+
++ [Cruz: Payment terminal UI](https://dribbble.com/shots/)
+
++ [Bandaids](https://dribbble.com/shots/)
+
++ [Dope - Sustainable Snowboarding Icons 2](https://dribbble.com/shots/)
+
