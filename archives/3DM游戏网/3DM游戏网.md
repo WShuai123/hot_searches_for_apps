@@ -239,3 +239,11 @@
 
 + [网飞动画剧集《侏罗纪世界：混沌理论》公布](https://www.3dmgame.com/news/202311/3881335.html)
 
++ [马斯克又作妖 推特投票提问是否该删除热点标签功能](https://www.3dmgame.com/news/202311/3881345.html)
+
++ [蒸汽平台独立游戏特卖周：抓紧上车 福利满满的双11游戏之旅](https://www.3dmgame.com/news/202311/3881343.html)
+
++ [2D动作游戏《小骨：英雄杀手》新DLC预告公布！“恶魔防御战”新内容亮相！](https://www.3dmgame.com/news/202311/3881344.html)
+
++ [《进击的巨人》官方推兵长等身抱枕 姿态过于妖娆](https://www.3dmgame.com/news/202311/3881342.html)
+

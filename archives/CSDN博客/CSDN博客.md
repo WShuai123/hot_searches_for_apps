@@ -169,3 +169,7 @@
 
 + [微服务 Spring Cloud 5，一图说透Spring Cloud微服务架构](https://blog.csdn.net/guorui_java/article/details/134322513)
 
++ [短短 45 分钟发布会，OpenAI 如何再次让 AI 圈一夜未眠](https://blog.csdn.net/m0_68662723/article/details/134311031)
+
++ [『吴秋霖赠书活动 ｜ 第四期』《Spring Boot微服务实战》](https://blog.csdn.net/qiulin_wu/article/details/134309744)
+

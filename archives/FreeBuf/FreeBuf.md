@@ -61,3 +61,7 @@
 
 + [Cloudflare 网站遭匿名苏丹声称的 DDoS 攻击而瘫痪](https://www.freebuf.com/news/383459.html)
 
++ [如何使用HTMLSmuggler测试你的Web应用能否抵御HTML Smuggling攻击](https://www.freebuf.com/sectool/380752.html)
+
++ [攻击者正利用虚假Windows 新闻门户传播恶意软件](https://www.freebuf.com/news/383497.html)
+
