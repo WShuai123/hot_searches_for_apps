@@ -57,3 +57,7 @@
 
 + [华为、荣耀、小米、OPPO、vivo、中兴、魅族在列，中国电信推动“旗舰手机标配”卫星直连](https://m.ithome.com/html/731639.htm)
 
++ [近 300 位小鹏 P7 车主发联名信，称官方宣传的 OTA 升级无法兑现](https://m.ithome.com/html/731388.htm)
+
++ [华为余承东、梁朝伟将出席，阿维塔 12 汽车上市发布会今晚举行](https://m.ithome.com/html/731557.htm)
+

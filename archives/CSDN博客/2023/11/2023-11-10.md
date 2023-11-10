@@ -203,3 +203,7 @@
 
 + [Python进行数据可视化，探索和发现数据中的模式和趋势。](https://blog.csdn.net/2301_80240808/article/details/134321562)
 
++ [如何结合内网穿透实现公网远程访问Linux AMH服务器管理面板](https://blog.csdn.net/2301_76147196/article/details/134336291)
+
++ [【FPGA】正确处理设计优先级--或许能帮你节省50%的资源](https://blog.csdn.net/wuzhikaidetb/article/details/134328239)
+

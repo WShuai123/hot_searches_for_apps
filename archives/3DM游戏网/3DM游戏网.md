@@ -303,3 +303,7 @@
 
 + [传华硕RTX 4090显卡大幅涨价3000元以上](https://www.3dmgame.com/news/202311/3881372.html)
 
++ [谷歌希望Bard AI聊天机器人能为其吸引数十亿用户](https://www.3dmgame.com/news/202311/3881375.html)
+
++ [Steam Deck OLED性能有提升 2.0目前还不存在](https://www.3dmgame.com/news/202311/3881374.html)
+
