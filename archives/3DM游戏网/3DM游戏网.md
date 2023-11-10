@@ -227,3 +227,15 @@
 
 + [80后的回忆！国内越来越多KTV关店：90/00后抛弃](https://www.3dmgame.com/news/202311/3881336.html)
 
++ [据报道Meta已与腾讯签订协议 将推出国行版VR头戴设备](https://www.3dmgame.com/news/202311/3881341.html)
+
++ [《遗迹2》DLC新职业“祭祀者”揭晓预告片 11月15日发售](https://www.3dmgame.com/news/202311/3881340.html)
+
++ [国游10月数据统计榜：《传奇生物2》榜一](https://www.3dmgame.com/news/202311/3881339.html)
+
++ [《Gigabash巨击大乱斗》奥特曼DLC上市 但国区和日区暂不发行](https://www.3dmgame.com/news/202311/3881338.html)
+
++ [纸嫁衣第6部《无间梦境》公开 预约现已开启](https://www.3dmgame.com/news/202311/3881337.html)
+
++ [网飞动画剧集《侏罗纪世界：混沌理论》公布](https://www.3dmgame.com/news/202311/3881335.html)
+

@@ -43,3 +43,7 @@
 
 + [11.11 今日攻略：三星 990 PRO 2T 固态 979 元补货，iPhone 15 系列硅胶壳 289 元手慢无](https://m.ithome.com/html/731278.htm)
 
++ [华为、小米、OPPO、vivo、荣耀今日齐聚广州，与中国电信共商“手机直连卫星”技术](https://m.ithome.com/html/731463.htm)
+
++ [确认患有轻微中风，苹果联合创始人史蒂夫・沃兹尼亚克已出院回家](https://m.ithome.com/html/731449.htm)
+
