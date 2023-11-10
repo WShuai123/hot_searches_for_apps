@@ -181,3 +181,11 @@
 
 + [如何在Linux上部署1Panel运维管理面板并远程访问内网进行操作](https://blog.csdn.net/m0_75215937/article/details/134322524)
 
++ [第十九届全国大学生智能汽车竞速比赛规则（讨论稿）](https://blog.csdn.net/zhuoqingjoking97298/article/details/134331321)
+
++ [RabbitMQ 系列教程](https://blog.csdn.net/leesinbad/article/details/134321765)
+
++ [Spark实战](https://blog.csdn.net/s445320/article/details/134318605)
+
++ [【Unity细节】如何让组件失活而不是物体失活](https://blog.csdn.net/m0_64128218/article/details/134318239)
+
