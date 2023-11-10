@@ -45,3 +45,7 @@
 
 + [DarkGate正在积极利用 Skype和Teams 对目标组织执行恶意活动](https://www.freebuf.com/articles/network/382034.html)
 
++ [机器学习如何在网络安全中使用？](https://www.freebuf.com/articles/network/382417.html)
+
++ [正在彻查中！工商银行美国子公司遭勒索软件攻击致部分系统中断](https://www.freebuf.com/news/383423.html)
+

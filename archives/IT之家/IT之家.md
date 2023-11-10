@@ -33,3 +33,7 @@
 
 + [苹果 iPhone 15 Pro Max 物料成本分析：比前代高 37.7 美元、增长 8%](https://m.ithome.com/html/731202.htm)
 
++ [魅族沈子瑜明确 Flyme 不会改名：只是征集中文名](https://m.ithome.com/html/731412.htm)
+
++ [合作开发商回应网传《完蛋 2！我被帅哥包围了》：系离职、外聘人员恶意传播](https://m.ithome.com/html/731399.htm)
+

@@ -163,3 +163,25 @@
 
 + [操作小虫在澳大利亚丛林冒险的游戏上架Steam](https://www.3dmgame.com/news/202311/3881301.html)
 
++ [分析师：《GTA6》将成为史上规模最大的游戏发布](https://www.3dmgame.com/news/202311/3881314.html)
+
++ [外国熊孩子也会乱氪金 《罗布乐思》遭家长起诉](https://www.3dmgame.com/news/202311/3881313.html)
+
++ [《双城之战》第二季先导预告 明年11月播出](https://www.3dmgame.com/news/202311/3881312.html)
+
++ [受罢工影响 《毒液3》宣布延期至2024年11月8日上映](https://www.3dmgame.com/news/202311/3881311.html)
+
++ [任天堂新开发中心开业延期 2028年才能建设完工](https://www.3dmgame.com/news/202311/3881310.html)
+
++ [《霍格沃茨之遗》Switch版预告 11月14日发售](https://www.3dmgame.com/news/202311/3881309.html)
+
++ [《破晓传说》全球销量突破270万 为系列前所未有](https://www.3dmgame.com/news/202311/3881308.html)
+
++ [《星际战甲》工作室确认关闭发行部门后进行多次裁员](https://www.3dmgame.com/news/202311/3881307.html)
+
++ [Nexon韩国CEO李政宪被任命为公司新全球总裁](https://www.3dmgame.com/news/202311/3881306.html)
+
++ [曝《现代战争3》开发时间仅18个月 是之前的一半](https://www.3dmgame.com/news/202311/3881305.html)
+
++ [DOTA2秘密战队官宣新阵容 霸气二哥MidOne回归](https://www.3dmgame.com/news/202311/3881304.html)
+
