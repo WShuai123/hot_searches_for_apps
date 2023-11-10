@@ -57,3 +57,5 @@
 
 + [警惕！SysAid IT 曝出零日漏洞，需尽快安装补丁](https://www.freebuf.com/news/383432.html)
 
++ [恶意软件攻击技术大揭秘——直接系统调用](https://www.freebuf.com/articles/system/382113.html)
+

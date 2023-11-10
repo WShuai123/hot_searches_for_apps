@@ -157,3 +157,11 @@
 
 + [微信小程序隐私政策不合规，应当由用户自主阅读后自行选择是否同意隐私政策协议，不得默认强制用户同意](https://blog.csdn.net/weixin_42220130/article/details/134304215)
 
++ [Zigbee—网络层地址分配机制](https://blog.csdn.net/weixin_64038246/article/details/134321014)
+
++ [【Python】数据分析案例：世界杯数据可视化 | 文末送书](https://blog.csdn.net/dietime1943/article/details/134301750)
+
++ [【赠书第3期】用ChatGPT轻松玩转机器学习与深度学习](https://blog.csdn.net/qq_20016593/article/details/134321166)
+
++ [网络安全行业现在好混吗，工资水平怎么样？](https://blog.csdn.net/web22050702/article/details/134317981)
+

@@ -223,3 +223,7 @@
 
 + [动画电影《奥特曼：崛起》正式预告 2024年播出](https://www.3dmgame.com/news/202311/3881324.html)
 
++ [瑞安·雷诺兹透露死侍狗将出现在《死侍3》中](https://www.3dmgame.com/news/202311/3881334.html)
+
++ [80后的回忆！国内越来越多KTV关店：90/00后抛弃](https://www.3dmgame.com/news/202311/3881336.html)
+
