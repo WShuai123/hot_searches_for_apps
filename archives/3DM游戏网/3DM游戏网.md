@@ -185,3 +185,41 @@
 
 + [DOTA2秘密战队官宣新阵容 霸气二哥MidOne回归](https://www.3dmgame.com/news/202311/3881304.html)
 
++ [Level-5宣布11月29日举行发布会 公布新作发售日期](https://www.3dmgame.com/news/202311/3881332.html)
+
++ [微软禁止员工使用ChatGPT 担心机密数据泄露](https://www.3dmgame.com/news/202311/3881333.html)
+
++ [《海王2》国内定档12月20日 提前北美地区两天](https://www.3dmgame.com/news/202311/3881325.html)
+
++ [暴雪对《暗黑破坏神4》的“顺利”发布感到非常自豪](https://www.3dmgame.com/news/202311/3881326.html)
+
++ [《GTA 6》可能即将推出 但GTA电影似乎还需要一些时间](https://www.3dmgame.com/news/202311/3881327.html)
+
++ [《要塞：决定版》Steam版发售 售52元支持中文](https://www.3dmgame.com/news/202311/3881328.html)
+
++ [《飞雅卢恩 碎片之岛》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881329.html)
+
++ [《三国志8 Remake》战斗系统详情：战斗提升 画面焕然一新](https://www.3dmgame.com/news/202311/3881330.html)
+
++ [OLED电池续航改进也将登陆原版Steam Deck](https://www.3dmgame.com/news/202311/3881331.html)
+
++ [《永恒之柱》开发者买了个表 庆祝续作迟来的成功](https://www.3dmgame.com/news/202311/3881315.html)
+
++ [发售近四年 《女神异闻录5对决：幽灵先锋》销量突破200万](https://www.3dmgame.com/news/202311/3881316.html)
+
++ [Take-Two：今年游戏裁员潮是疫情后过度扩张所致](https://www.3dmgame.com/news/202311/3881317.html)
+
++ [魔兽总监：抢先体验新资料片的玩家不会有太多优势](https://www.3dmgame.com/news/202311/3881319.html)
+
++ [《浩劫前夕》PC配置需求公布 最低要求GTX1060](https://www.3dmgame.com/news/202311/3881320.html)
+
++ [《使命召唤20》战役为啥拉跨？开发赶工临时替代原定新作](https://www.3dmgame.com/news/202311/3881321.html)
+
++ [《博德之门3》10号热修补丁已上线 影心不再掉队](https://www.3dmgame.com/news/202311/3881322.html)
+
++ [《咒术回战：双华乱舞》NS预购宣传片 售价479港币](https://www.3dmgame.com/news/202311/3881318.html)
+
++ [V社警告：OLED和原版Steam Deck配件不兼容](https://www.3dmgame.com/news/202311/3881323.html)
+
++ [动画电影《奥特曼：崛起》正式预告 2024年播出](https://www.3dmgame.com/news/202311/3881324.html)
+

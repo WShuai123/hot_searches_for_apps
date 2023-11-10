@@ -145,3 +145,15 @@
 
 + [可恶的 TCP 加速](https://blog.csdn.net/dog250/article/details/134300771)
 
++ [Docker本地部署Drupal并实现公网访问](https://blog.csdn.net/st200112266/article/details/134320633)
+
++ [kafka 集群企业部署最佳实践](https://blog.csdn.net/weixin_41645135/article/details/134324173)
+
++ [在群晖NAS上使用AudioStation实现本地音频公网共享](https://blog.csdn.net/m0_74195626/article/details/134310674)
+
++ [读程序员的制胜技笔记08_死磕优化（上）](https://blog.csdn.net/lyingSeven/article/details/134322670)
+
++ [IP 地址冲突检测工具](https://blog.csdn.net/ITmoster/article/details/134290796)
+
++ [微信小程序隐私政策不合规，应当由用户自主阅读后自行选择是否同意隐私政策协议，不得默认强制用户同意](https://blog.csdn.net/weixin_42220130/article/details/134304215)
+

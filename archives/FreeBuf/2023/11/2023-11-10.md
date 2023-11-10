@@ -55,3 +55,5 @@
 
 + [国内未受影响！工商银行美国子公司声明：遭勒索攻击致部分系统中断](https://www.freebuf.com/news/383423.html)
 
++ [警惕！SysAid IT 曝出零日漏洞，需尽快安装补丁](https://www.freebuf.com/news/383432.html)
+
