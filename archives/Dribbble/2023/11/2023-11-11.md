@@ -109,3 +109,11 @@
 
 + [Sloth in Space](https://dribbble.com/shots/)
 
++ [Cinema Landing Page](https://dribbble.com/shots/)
+
++ [Loop animation explorations](https://dribbble.com/shots/)
+
++ [Modular AI Logo/Logotype](https://dribbble.com/shots/)
+
++ [Blog - Built in Webflow](https://dribbble.com/shots/)
+
