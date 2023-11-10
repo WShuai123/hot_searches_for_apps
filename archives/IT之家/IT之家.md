@@ -61,3 +61,9 @@
 
 + [华为余承东、梁朝伟将出席，阿维塔 12 汽车上市发布会今晚举行](https://m.ithome.com/html/731557.htm)
 
++ [限量 300 件试试手气：iPhone 15 手机 2999 元京东百亿补贴](https://m.ithome.com/html/731686.htm)
+
++ [锤子便签“复活”：近日迎来多轮更新，新增置顶排序等功能](https://m.ithome.com/html/731540.htm)
+
++ [再降 20 元：华为 nova 11 SE 手机 1879 元 11.11 破冰新低](https://m.ithome.com/html/731637.htm)
+

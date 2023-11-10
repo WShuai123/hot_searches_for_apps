@@ -207,3 +207,11 @@
 
 + [【FPGA】正确处理设计优先级--或许能帮你节省50%的资源](https://blog.csdn.net/wuzhikaidetb/article/details/134328239)
 
++ [Azure 机器学习 - 使用自动化机器学习训练计算机视觉模型的数据架构](https://blog.csdn.net/magicyangjay111/article/details/134326879)
+
++ [kafka和rocketMq的区别](https://blog.csdn.net/qq_36042938/article/details/134329481)
+
++ [Elastic Stack 8.11：引入一种新的强大查询语言 ES|QL](https://blog.csdn.net/UbuntuTouch/article/details/134324955)
+
++ [WebSocket技术解析：实现Web实时双向通信的利器](https://blog.csdn.net/weixin_62079735/article/details/134331841)
+

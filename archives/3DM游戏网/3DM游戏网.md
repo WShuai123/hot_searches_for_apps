@@ -307,3 +307,7 @@
 
 + [Steam Deck OLED性能有提升 2.0目前还不存在](https://www.3dmgame.com/news/202311/3881374.html)
 
++ [Steam Deck OLED IGN 9分 续航是最大亮点](https://www.3dmgame.com/news/202311/3881376.html)
+
++ [《奥本海默》高票房震惊诺兰：是上映的时机对了](https://www.3dmgame.com/news/202311/3881377.html)
+
