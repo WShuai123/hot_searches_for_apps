@@ -163,3 +163,13 @@
 
 + [Eventbeds - Website page for businesses](https://dribbble.com/shots/)
 
++ [Cruz: Payment terminal UI](https://dribbble.com/shots/)
+
++ [Flow - Design Studio Mobile UI Concept](https://dribbble.com/shots/)
+
++ [Geometric Skull Logo](https://dribbble.com/shots/)
+
++ [Loop animation explorations](https://dribbble.com/shots/)
+
++ [P-Con](https://dribbble.com/shots/)
+

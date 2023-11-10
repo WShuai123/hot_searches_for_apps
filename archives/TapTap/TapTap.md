@@ -27,3 +27,7 @@
 
 + [炼丹模拟器](https://www.taptap.cn/app/389264)
 
++ [蛋仔派对](https://www.taptap.cn/app/206776)
+
++ [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
+
