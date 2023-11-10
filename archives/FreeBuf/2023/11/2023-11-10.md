@@ -65,3 +65,7 @@
 
 + [攻击者正利用虚假Windows 新闻门户传播恶意软件](https://www.freebuf.com/news/383497.html)
 
++ [年度 AI 安全创新应用 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/383471.html)
+
++ [云原生安全 | 容器安全技术路线探讨](https://www.freebuf.com/articles/container/377481.html)
+

@@ -247,3 +247,15 @@
 
 + [《进击的巨人》官方推兵长等身抱枕 姿态过于妖娆](https://www.3dmgame.com/news/202311/3881342.html)
 
++ [米哈游《崩坏：星穹铁道》PS5版玩家数突破100万](https://www.3dmgame.com/news/202311/3881351.html)
+
++ [为提高盈利指标 引擎开发商Unity或将进行裁员](https://www.3dmgame.com/news/202311/3881350.html)
+
++ [为庆祝伊布日 《宝可梦 Sleep》推出“伊布周”活动](https://www.3dmgame.com/news/202311/3881349.html)
+
++ [《使命召唤：现代战争3》现已解锁 综合评价“褒贬不一”](https://www.3dmgame.com/news/202311/3881348.html)
+
++ [《十字军之王3》DLC“波斯的遗产”正式发布](https://www.3dmgame.com/news/202311/3881347.html)
+
++ [《纸嫁衣5来生戏》PC横版宣布12月1日登陆Steam](https://www.3dmgame.com/news/202311/3881346.html)
+

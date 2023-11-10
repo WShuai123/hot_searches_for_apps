@@ -105,3 +105,27 @@
 
 + [Coldpress AI](https://www.producthunt.com/posts/coldpress-ai)
 
++ [Spotify on TV](https://www.producthunt.com/posts/spotify-on-tv)
+
++ [News Social](https://www.producthunt.com/posts/news-social)
+
++ [Clone My CEO](https://www.producthunt.com/posts/clone-my-ceo)
+
++ [LedgerBox](https://www.producthunt.com/posts/ledgerbox)
+
++ [AI Blogger](https://www.producthunt.com/posts/ai-blogger)
+
++ [Nurovant AI](https://www.producthunt.com/posts/nurovant-ai)
+
++ [Pet Genius](https://www.producthunt.com/posts/pet-genius)
+
++ [Huddles](https://www.producthunt.com/posts/huddles)
+
++ [NexGenics](https://www.producthunt.com/posts/nexgenics)
+
++ [Backender](https://www.producthunt.com/posts/backender)
+
++ [DocuHelp](https://www.producthunt.com/posts/docuhelp)
+
++ [SpeedVitals](https://www.producthunt.com/posts/speedvitals)
+

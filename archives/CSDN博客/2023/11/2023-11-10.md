@@ -173,3 +173,9 @@
 
 + [『吴秋霖赠书活动 ｜ 第四期』《Spring Boot微服务实战》](https://blog.csdn.net/qiulin_wu/article/details/134309744)
 
++ [线性回归，核技巧和线性核](https://blog.csdn.net/m0_46510245/article/details/134325823)
+
++ [机器学习(七)模型选择](https://blog.csdn.net/xianyu120/article/details/134274131)
+
++ [Linux下内网穿透实现云原生观测分析工具的远程访问](https://blog.csdn.net/2301_80092713/article/details/134327359)
+
