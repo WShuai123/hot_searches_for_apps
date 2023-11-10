@@ -103,3 +103,23 @@
 
 + [微服务 Spring Cloud 5，一图说透Spring Cloud微服务架构](https://blog.csdn.net/guorui_java/article/details/134322513)
 
++ [AI时代如何提升自己晋升力](https://blog.csdn.net/weixin_44244190/article/details/134330923)
+
++ [如何使用Net2FTP搭建免费web文件管理器打造个人网盘](https://blog.csdn.net/2201_75743654/article/details/134330018)
+
++ [Linux 文件系统层次结构标准（FHS)](https://blog.csdn.net/weixin_42740431/article/details/134335824)
+
++ [竞赛 题目： 基于深度学习的疲劳驾驶检测 深度学习](https://blog.csdn.net/iuerfee/article/details/134339558)
+
++ [基于情感分析+聚类分析+LDA主题分析对服装产品类的消费者评论分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134308752)
+
++ [18. 深度学习 - 从零理解神经网络](https://blog.csdn.net/ivandoo/article/details/134314681)
+
++ [【ElasticSearch系列-08】ElasticSearch处理对象间的关联关系](https://blog.csdn.net/zhenghuishengq/article/details/134327295)
+
++ [Spring高手之路16——解析Spring XML配置的BeanDefinition源码](https://blog.csdn.net/qq_34115899/article/details/134186880)
+
++ [【 云原生 | K8S 】kubectl 详解](https://blog.csdn.net/2302_78835233/article/details/134280467)
+
++ [2023年云计算发展趋势浅析](https://blog.csdn.net/qq_38563206/article/details/134338382)
+
