@@ -37,3 +37,7 @@
 
 + [合作开发商回应网传《完蛋 2！我被帅哥包围了》：系离职、外聘人员恶意传播](https://m.ithome.com/html/731399.htm)
 
++ [苹果 iPhone SE 4 更多细节曝光：48MP 单摄像头、USB-C、基于 iPhone 14 打造](https://m.ithome.com/html/731441.htm)
+
++ [北斗星通高精度定位服务正式发布：可达厘米级，已覆盖全国 31 省市地区](https://m.ithome.com/html/731402.htm)
+

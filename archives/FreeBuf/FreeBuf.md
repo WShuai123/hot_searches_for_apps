@@ -49,3 +49,9 @@
 
 + [正在彻查中！工商银行美国子公司遭勒索软件攻击致部分系统中断](https://www.freebuf.com/news/383423.html)
 
++ [年度热门安全产品榜 | WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/news/383278.html)
+
++ [全议题公布 | FCIS 2023网络安全创新大会](https://www.freebuf.com/news/383392.html)
+
++ [国内未受影响！工商银行美国子公司声明：遭勒索攻击致部分系统中断](https://www.freebuf.com/news/383423.html)
+
