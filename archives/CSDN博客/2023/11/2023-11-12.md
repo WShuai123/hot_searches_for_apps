@@ -127,3 +127,5 @@
 
 + [web3 React Dapp书写订单 买入/取消操作](https://blog.csdn.net/weixin_45966674/article/details/134347309)
 
++ [用于强化学习的置换不变神经网络](https://blog.csdn.net/gongdiwudu/article/details/134327113)
+
