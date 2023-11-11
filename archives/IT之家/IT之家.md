@@ -25,3 +25,7 @@
 
 + [小米京东 11.11 狂促加码：Redmi K60 16+512GB 手机 1849 元官方新低](https://m.ithome.com/html/731828.htm)
 
++ [双十一当晚“淘宝崩了”登上热搜，网友反馈出现卡顿、无法购买或加购等情况](https://m.ithome.com/html/731912.htm)
+
++ [上市价 3299 元：荣耀 80 GT 手机 1829 元起 5.5 折新低清仓](https://m.ithome.com/html/731780.htm)
+
