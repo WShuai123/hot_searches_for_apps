@@ -165,3 +165,7 @@
 
 + [《杀出重围》主角配音演员想做动捕 因“个子太矮”被拒](https://www.3dmgame.com/news/202311/3881409.html)
 
++ [剧情游戏《猛鬼大廈》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202311/3881410.html)
+
++ [马斯克脑接口公司召集志愿者参与实验 数千人报名](https://www.3dmgame.com/news/202311/3881411.html)
+

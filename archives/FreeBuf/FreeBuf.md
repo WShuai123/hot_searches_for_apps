@@ -51,3 +51,5 @@
 
 + [关于Goby反制上线CS中的各种问题](https://www.freebuf.com/vuls/382351.html)
 
++ [渗透测试高级技巧（一）：分析验签与前端加密](https://www.freebuf.com/articles/network/382483.html)
+
