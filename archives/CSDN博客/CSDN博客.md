@@ -123,3 +123,9 @@
 
 + [2023年云计算发展趋势浅析](https://blog.csdn.net/qq_38563206/article/details/134338382)
 
++ [用于强化学习的置换不变神经网络](https://blog.csdn.net/gongdiwudu/article/details/134327113)
+
++ [2023年开发语言和数据库排行](https://blog.csdn.net/qq_45609369/article/details/134315740)
+
++ [WebSocket技术解析：实现Web实时双向通信的利器](https://blog.csdn.net/weixin_62079735/article/details/134331841)
+

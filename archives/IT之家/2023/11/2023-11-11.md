@@ -27,3 +27,9 @@
 
 + [阿维塔 12 正式上市：华为、宁德时代、长安汽车投入超 20 亿，30.08 万元起售](https://m.ithome.com/html/731731.htm)
 
++ [消息称腾讯明年底在中国大陆独家代理销售 Meta VR 头显](https://m.ithome.com/html/731537.htm)
+
++ [京东苹果 11.11 狂促 20 点加码：iPhone 15 系列至高立减 1100 元](https://m.ithome.com/html/731698.htm)
+
++ [21:00 再加码：京东速抢 3 元红包 + 茅台，天猫百万红包无门槛可用](https://m.ithome.com/html/731550.htm)
+

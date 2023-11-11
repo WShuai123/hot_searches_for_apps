@@ -117,3 +117,9 @@
 
 + [《博德之门3》荣获2023金摇杆奖终极年度游戏奖](https://www.3dmgame.com/news/202311/3881382.html)
 
++ [澳洲游戏开发商Samurai Punk工作室宣布关闭](https://www.3dmgame.com/news/202311/3881387.html)
+
++ [传RTX 4070Ti Super性能将比4070Ti快20%](https://www.3dmgame.com/news/202311/3881388.html)
+
++ [《阿凡达：潘多拉边境》为何是第一人称？增强玩家沉浸感](https://www.3dmgame.com/news/202311/3881386.html)
+

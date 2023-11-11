@@ -41,3 +41,13 @@
 
 + [警惕！Python软件包索引资源库中存在BlazeStealer恶意软件](https://www.freebuf.com/news/383317.html)
 
++ [记一次众测的两个洞](https://www.freebuf.com/vuls/379351.html)
+
++ [通过SD卡给某摄像头植入可控程序](https://www.freebuf.com/articles/endpoint/382466.html)
+
++ [FreeBuf 周报 | GPT-4 全球宕机；美国军人敏感信息正被低价售卖](https://www.freebuf.com/news/383491.html)
+
++ [AI大模型安全风险分析；证券公司数据安全共享实践 | FCIS 2023大会安全新势力专场](https://www.freebuf.com/articles/383434.html)
+
++ [关于Goby反制上线CS中的各种问题](https://www.freebuf.com/vuls/382351.html)
+
