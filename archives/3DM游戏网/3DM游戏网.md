@@ -199,3 +199,7 @@
 
 + [Konami成立《寂静岭》游戏开发团队Silent Production Team](https://www.3dmgame.com/news/202311/3881426.html)
 
++ [告别洛基！抖森表示《洛基》第二季是其14年旅程终点](https://www.3dmgame.com/news/202311/3881427.html)
+
++ [谷歌将对AI创企Character.AI投资数亿美元](https://www.3dmgame.com/news/202311/3881428.html)
+
