@@ -101,3 +101,11 @@
 
 + [《使命召唤20》上市预告 今日正式发售](https://www.3dmgame.com/news/202311/3881378.html)
 
++ [《杀手》开发商IO回忆艰苦岁月 无公司有意愿收购](https://www.3dmgame.com/news/202311/3881433.html)
+
++ [哆啦A梦大雄爸爸配音演员中庸助去世 享年93岁](https://www.3dmgame.com/news/202311/3881432.html)
+
++ [《辐射4》粉丝自制新扩展包推出 提供2-4小时内容](https://www.3dmgame.com/news/202311/3881431.html)
+
++ [《幽灵行者2》赞誉预告片展示游戏所获积极评价](https://www.3dmgame.com/news/202311/3881430.html)
+

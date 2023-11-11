@@ -101,3 +101,25 @@
 
 + [C#中在.NET 7.0控制台应用使用ADO.NET的方法](https://blog.csdn.net/wenchm/article/details/134334625)
 
++ [Blender--》点线面操作及其面操作的详解](https://blog.csdn.net/qq_53123067/article/details/132925552)
+
++ [用于图像处理的高斯滤波器 （LoG） 拉普拉斯](https://blog.csdn.net/gongdiwudu/article/details/134302397)
+
++ [基于情感分析+聚类分析+LDA主题分析对服装产品类的消费者评论分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134308752)
+
++ [html动态爱心超文本标记代码，丝滑流畅有特效，附源码](https://blog.csdn.net/yaosichengalpha/article/details/131360967)
+
++ [Elasticsearch：Lucene 中引入标量量化](https://blog.csdn.net/UbuntuTouch/article/details/134334247)
+
++ [Docker 和 Kubernetes ，技术相同之处，和不同之处](https://blog.csdn.net/m0_67906358/article/details/134351085)
+
++ [Docker本地部署Drupal并实现公网访问](https://blog.csdn.net/st200112266/article/details/134320633)
+
++ [【阿里云】任务2-OSS对象存储教程（找我参加活动可获得京东卡奖励）](https://blog.csdn.net/qq_35230125/article/details/134320457)
+
++ [Install Docker in Linux](https://blog.csdn.net/qq_44376306/article/details/134352651)
+
++ [使用Docker部署开源分布式任务调度系统DolphinScheduler](https://blog.csdn.net/hsjsiwkwm/article/details/134311017)
+
++ [[Linux打怪升级之路]-信号的保存和递达](https://blog.csdn.net/qq_61552595/article/details/134231630)
+

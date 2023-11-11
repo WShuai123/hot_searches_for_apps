@@ -107,3 +107,11 @@
 
 + [Burleigh Bears](https://dribbble.com/shots/)
 
++ [The Beetle Backs / Aces](https://dribbble.com/shots/)
+
++ [Ahsoka](https://dribbble.com/shots/)
+
++ [Layover in Tokyo (Tókyó de Noritsugi)](https://dribbble.com/shots/)
+
++ ["Holly Jolly Scavenger Hunt" - Highlights Magazine, December '23](https://dribbble.com/shots/)
+
