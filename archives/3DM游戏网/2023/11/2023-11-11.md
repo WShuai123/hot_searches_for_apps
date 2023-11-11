@@ -123,3 +123,15 @@
 
 + [《阿凡达：潘多拉边境》为何是第一人称？增强玩家沉浸感](https://www.3dmgame.com/news/202311/3881386.html)
 
++ [《星际战甲》开发商DE确认30名员工受裁员影响](https://www.3dmgame.com/news/202311/3881389.html)
+
++ [《惊奇队长2》豆瓣分数出炉：国内首日票房比前作暴跌](https://www.3dmgame.com/news/202311/3881390.html)
+
++ [Netflix《幽游白书》真人剧中文先导预告公开](https://www.3dmgame.com/news/202311/3881392.html)
+
++ [《群星》DLC“Astral Planes”发售日预告 11月16日发售](https://www.3dmgame.com/news/202311/3881391.html)
+
++ [Steam Deck 2暂时不会有，因为相关技术尚未成熟](https://www.3dmgame.com/news/202311/3881393.html)
+
++ [Unity Q3财报：收入增加损失降低 依然将裁员](https://www.3dmgame.com/news/202311/3881394.html)
+
