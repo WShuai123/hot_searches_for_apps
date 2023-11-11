@@ -167,3 +167,7 @@
 
 + [NeRF-pytorch源码解读：论文Representing Scenesas Neural Radiance Fieldsfor View Synthesis](https://blog.csdn.net/qq_35831906/article/details/131317381)
 
++ [Flutter 实战：构建跨平台应用](https://blog.csdn.net/qq_32682301/article/details/134346899)
+
++ [RabbitMQ 之 Work Queues 工作队列](https://blog.csdn.net/weixin_73616913/article/details/134150244)
+

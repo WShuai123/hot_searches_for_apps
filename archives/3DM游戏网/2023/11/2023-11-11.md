@@ -181,3 +181,9 @@
 
 + [顽皮狗技术总监Christian Girling离职 供职17年](https://www.3dmgame.com/news/202311/3881415.html)
 
++ [《如龙7外传》疑似直接借用《审判之逝》教程卡](https://www.3dmgame.com/news/202311/3881419.html)
+
++ [《使命召唤20》对战重生速度太快 官方正在调查](https://www.3dmgame.com/news/202311/3881420.html)
+
++ [拉瑞安展示《博德之门3》Xbox Series S版优化进展](https://www.3dmgame.com/news/202311/3881418.html)
+

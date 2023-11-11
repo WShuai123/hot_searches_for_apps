@@ -59,3 +59,5 @@
 
 + [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
 
++ [工商银行美国子公司勒索软件攻击事件的幕后黑手找到了](https://www.freebuf.com/news/383568.html)
+
