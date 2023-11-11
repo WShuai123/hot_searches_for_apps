@@ -49,3 +49,9 @@
 
 + [苹果 Mac mini 好搭档：小米 Redmi 4K 显示器 1309 元好价再现](https://m.ithome.com/html/731756.htm)
 
++ [东风汽车宣布将与一汽、长安共同打造车用操作系统](https://m.ithome.com/html/731744.htm)
+
++ [40 年前的今天，微软 Windows 1.0 操作系统首次向公众展示](https://m.ithome.com/html/731754.htm)
+
++ [上市价 2488 元：华为 WATCH GT 3 Pro 智能手表 1483 元京东自营大促](https://m.ithome.com/html/731749.htm)
+

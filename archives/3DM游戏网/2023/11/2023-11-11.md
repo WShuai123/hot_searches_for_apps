@@ -187,3 +187,11 @@
 
 + [拉瑞安展示《博德之门3》Xbox Series S版优化进展](https://www.3dmgame.com/news/202311/3881418.html)
 
++ [《星球大战》C-3PO头部以80万美元拍卖价成交](https://www.3dmgame.com/news/202311/3881424.html)
+
++ [亨利·卡维尔主演《高地人》重启版或于2026年上映](https://www.3dmgame.com/news/202311/3881423.html)
+
++ [吉祥航空“原神号”起飞 首航周可体验纪念登机牌、餐盒及水杯](https://www.3dmgame.com/news/202311/3881421.html)
+
++ [《神奇四侠》导演表示情景喜剧经历影响本片制作](https://www.3dmgame.com/news/202311/3881422.html)
+
