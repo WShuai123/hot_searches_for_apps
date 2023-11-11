@@ -203,3 +203,5 @@
 
 + [谷歌将对AI创企Character.AI投资数亿美元](https://www.3dmgame.com/news/202311/3881428.html)
 
++ [iG《DOTA2》分部官宣新阵容 引进LGD中单NothingToSay](https://www.3dmgame.com/news/202311/3881429.html)
+

@@ -191,3 +191,5 @@
 
 + [释放Node.js的潜力：NVM指南，让版本管理变得轻松](https://blog.csdn.net/m0_68390957/article/details/134350861)
 
++ [秋招求职经验分享](https://blog.csdn.net/zency/article/details/134341894)
+
