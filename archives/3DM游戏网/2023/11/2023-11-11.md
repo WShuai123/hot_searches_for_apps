@@ -135,3 +135,31 @@
 
 + [Unity Q3财报：收入增加损失降低 依然将裁员](https://www.3dmgame.com/news/202311/3881394.html)
 
++ [SpaceX：Starship星舰11月17日第二次发射](https://www.3dmgame.com/news/202311/3881408.html)
+
++ [开发者介绍《雨中冒险2》风暴探寻者DLC新内容](https://www.3dmgame.com/news/202311/3881407.html)
+
++ [故事类模拟游戏《Forgery Craft》Steam页面上线 支持简中](https://www.3dmgame.com/news/202311/3881406.html)
+
++ [V社透露Steam Deck已经售出“数百万台”](https://www.3dmgame.com/news/202311/3881405.html)
+
++ [12月发售 《勇者斗恶龙 怪物仙境3》玩法介绍预告片](https://www.3dmgame.com/news/202311/3881404.html)
+
++ [Netflix动画电影《猎魔人：深海女妖》首曝预告 杰洛特游戏版配音回归](https://www.3dmgame.com/news/202311/3881403.html)
+
++ [《任天堂大乱斗》不制作角色登场动画 只因泄密太严重](https://www.3dmgame.com/news/202311/3881402.html)
+
++ [《战锤40K：暗潮》免费更新档公布 加入全新内容](https://www.3dmgame.com/news/202311/3881401.html)
+
++ [独立解谜游戏《森林四重奏》11月17日登陆NS](https://www.3dmgame.com/news/202311/3881400.html)
+
++ [《恐龙猎人3：湮灭之影重制版》延期至11月30日发售](https://www.3dmgame.com/news/202311/3881398.html)
+
++ [赐予我力量！《宇宙的巨人希曼：革命》预告片公布](https://www.3dmgame.com/news/202311/3881397.html)
+
++ [解谜探案游戏《杀死影子》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881396.html)
+
++ [熊猫人创作者Samwise宣布退休 已在暴雪任职32年](https://www.3dmgame.com/news/202311/3881395.html)
+
++ [网飞《三体》独家精选片段 2024年3月21日播出](https://www.3dmgame.com/news/202311/3881399.html)
+

@@ -35,3 +35,5 @@
 
 + [你好！光棍节：2 分钟速读 11.11 全网巅峰 24 小时攻略，华为 WATCH GT 3 Pro 智能手表 1483 元半折购](https://m.ithome.com/html/731755.htm)
 
++ [你好！光棍节：2 分钟速读 11.11 全网巅峰 24 小时攻略，iPhone 15 Pro Max 立减 1100 元新低](https://m.ithome.com/html/731755.htm)
+
