@@ -207,3 +207,7 @@
 
 + [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
 
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
+
