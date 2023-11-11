@@ -169,3 +169,7 @@
 
 + [马斯克脑接口公司召集志愿者参与实验 数千人报名](https://www.3dmgame.com/news/202311/3881411.html)
 
++ [《漫威蜘蛛侠2》主演建议动画反派斑点加入游戏](https://www.3dmgame.com/news/202311/3881412.html)
+
++ [世界最大海上直驱风电机组在福建下线 转一圈发38度电](https://www.3dmgame.com/news/202311/3881413.html)
+

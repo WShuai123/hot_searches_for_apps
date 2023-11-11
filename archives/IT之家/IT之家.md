@@ -43,3 +43,7 @@
 
 + [梁朝伟亮相阿维塔 12 新车发布会，将担任品牌全球代言人](https://m.ithome.com/html/731732.htm)
 
++ [8GB 内存够用吗？和苹果 16GB M3 MacBook Pro 性能实测对比](https://m.ithome.com/html/731767.htm)
+
++ [苹果 Vision Pro 头显现“国产山寨版”：内置安卓 8.1，售价仅原版 1/10](https://m.ithome.com/html/731738.htm)
+
