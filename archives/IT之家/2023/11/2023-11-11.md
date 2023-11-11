@@ -55,3 +55,9 @@
 
 + [上市价 2488 元：华为 WATCH GT 3 Pro 智能手表 1483 元京东自营大促](https://m.ithome.com/html/731749.htm)
 
++ [你好！光棍节：11.11 巅峰狂促倒数 6 小时攻略，天猫无门槛红包 24 点过期失效](https://m.ithome.com/html/731755.htm)
+
++ [#男人消费力首次超过宠物狗#上热搜，公路自行车、电竞产品和冲锋衣成男人“新三宝”](https://m.ithome.com/html/731822.htm)
+
++ [Netflix 版《三体》剧集片段公布，明年 3 月 21 日上线](https://m.ithome.com/html/731769.htm)
+
