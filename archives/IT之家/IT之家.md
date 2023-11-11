@@ -61,3 +61,5 @@
 
 + [Netflix 版《三体》剧集片段公布，明年 3 月 21 日上线](https://m.ithome.com/html/731769.htm)
 
++ [阿维塔 12 新车上市 12 小时内大定突破 5000 台，App 服务器一度被挤爆](https://m.ithome.com/html/731834.htm)
+

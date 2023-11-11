@@ -51,3 +51,35 @@
 
 + [uber-go / goleak](https://github.com/uber-go/goleak)
 
++ [imartinez / privateGPT](https://github.com/imartinez/privateGPT)
+
++ [ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT)
+
++ [jbranchaud / til](https://github.com/jbranchaud/til)
+
++ [githubnext / monaspace](https://github.com/githubnext/monaspace)
+
++ [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
++ [sashabaranov / go-openai](https://github.com/sashabaranov/go-openai)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [Azure / azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [primefaces / primeng](https://github.com/primefaces/primeng)
+
++ [zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
++ [fabricjs / fabric.js](https://github.com/fabricjs/fabric.js)
+
++ [lapce / floem](https://github.com/lapce/floem)
+
++ [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
+
++ [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+

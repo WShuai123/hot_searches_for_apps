@@ -181,3 +181,7 @@
 
 + [【阿里云】任务2-OSS对象存储教程（找我参加活动可获得京东卡奖励）](https://blog.csdn.net/qq_35230125/article/details/134320457)
 
++ [Python喜羊羊](https://blog.csdn.net/m0_68111267/article/details/134338743)
+
++ [Linux AMH 服务器管理面板远程访问](https://blog.csdn.net/weixin_63115236/article/details/134348044)
+

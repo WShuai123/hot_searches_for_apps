@@ -195,3 +195,5 @@
 
 + [《神奇四侠》导演表示情景喜剧经历影响本片制作](https://www.3dmgame.com/news/202311/3881422.html)
 
++ [富士通推出GPU自适应分配技术 更合理地分配CPU和GPU资源](https://www.3dmgame.com/news/202311/3881425.html)
+
