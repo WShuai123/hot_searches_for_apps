@@ -173,3 +173,11 @@
 
 + [世界最大海上直驱风电机组在福建下线 转一圈发38度电](https://www.3dmgame.com/news/202311/3881413.html)
 
++ [暖冬将至！厄尔尼诺已形成：2023将成为史上最暖年](https://www.3dmgame.com/news/202311/3881416.html)
+
++ [《杀戮尖塔》开发者：有些模仿者借鉴的不够好](https://www.3dmgame.com/news/202311/3881417.html)
+
++ [《UFO魔神古兰戴萨：狼之盛宴》上市宣传片欣赏](https://www.3dmgame.com/news/202311/3881414.html)
+
++ [顽皮狗技术总监Christian Girling离职 供职17年](https://www.3dmgame.com/news/202311/3881415.html)
+

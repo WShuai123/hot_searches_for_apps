@@ -47,3 +47,5 @@
 
 + [苹果 Vision Pro 头显现“国产山寨版”：内置安卓 8.1，售价仅原版 1/10](https://m.ithome.com/html/731738.htm)
 
++ [苹果 Mac mini 好搭档：小米 Redmi 4K 显示器 1309 元好价再现](https://m.ithome.com/html/731756.htm)
+

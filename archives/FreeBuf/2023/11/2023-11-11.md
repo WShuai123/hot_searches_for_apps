@@ -55,3 +55,7 @@
 
 + [EDRaser：一款功能强大的远程日志和文件数据清理工具](https://www.freebuf.com/sectool/380753.html)
 
++ [工商银行北美子公司勒索攻击背后“黑手”浮出水面](https://www.freebuf.com/news/383568.html)
+
++ [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
+

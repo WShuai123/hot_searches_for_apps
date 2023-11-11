@@ -165,3 +165,5 @@
 
 + [搭建 Makefile+OpenOCD+CMSIS-DAP+Vscode arm-none-eabi-gcc 工程模板](https://blog.csdn.net/weixin_43599390/article/details/134291169)
 
++ [NeRF-pytorch源码解读：论文Representing Scenesas Neural Radiance Fieldsfor View Synthesis](https://blog.csdn.net/qq_35831906/article/details/131317381)
+
