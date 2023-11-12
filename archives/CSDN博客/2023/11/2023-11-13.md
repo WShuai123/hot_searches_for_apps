@@ -109,3 +109,23 @@
 
 + [YOLOv5检测界面-PyQt5实现](https://blog.csdn.net/ALiLiLiYa/article/details/134330763)
 
++ [Linux如何修改主机名（hostname）（亲测可用）](https://blog.csdn.net/Dontla/article/details/134367555)
+
++ [网络原理-UDP/TCP详解](https://blog.csdn.net/weixin_70564024/article/details/134298665)
+
++ [深度解剖Linux权限的概念](https://blog.csdn.net/AAlykk/article/details/134348563)
+
++ [【Springboot】基于注解式开发Springboot-Vue3整合Mybatis-plus实现分页查询(二）——前端el-pagination实现](https://blog.csdn.net/SKMIT/article/details/134363046)
+
++ [黑客技术（网络安全）-自学](https://blog.csdn.net/dexi113/article/details/134351227)
+
++ [FFmpeg简介1](https://blog.csdn.net/huntenganwei/article/details/134355140)
+
++ [.NET快速对接极光消息推送](https://blog.csdn.net/qq_37237487/article/details/134346038)
+
++ [微服务概念](https://blog.csdn.net/qq_26347283/article/details/134328144)
+
++ [2023年云计算发展趋势浅析](https://blog.csdn.net/qq_38563206/article/details/134338382)
+
++ [【hacker送书第一期】嵌入式虚拟化技术与应用](https://blog.csdn.net/xqe777/article/details/134364875)
+
