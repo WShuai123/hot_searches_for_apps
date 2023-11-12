@@ -173,3 +173,7 @@
 
 + [华硕RTX 4090 ROG Matrix显卡国内开售 已被炒到39999元以上](https://www.3dmgame.com/news/202311/3881464.html)
 
++ [《使命召唤：现代战争3》Steam在线峰值不太理想](https://www.3dmgame.com/news/202311/3881467.html)
+
++ [Insomniac《漫威金刚狼》将在2024年发售](https://www.3dmgame.com/news/202311/3881466.html)
+

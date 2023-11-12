@@ -59,3 +59,7 @@
 
 + [中国最大闪存芯片制造商长江存储在美起诉美光专利侵权，涉 8 项专利](https://m.ithome.com/html/731993.htm)
 
++ [华为鸿蒙系统将不再兼容安卓应用，网易、美团等急招鸿蒙开发员](https://m.ithome.com/html/732013.htm)
+
++ [《英雄联盟》S13 全球总决赛 T1 战胜 JDG，Faker 生涯第六次杀入决赛](https://m.ithome.com/html/732014.htm)
+
