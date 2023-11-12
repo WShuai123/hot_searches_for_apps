@@ -109,3 +109,13 @@
 
 + [《幽灵行者2》赞誉预告片展示游戏所获积极评价](https://www.3dmgame.com/news/202311/3881430.html)
 
++ [育碧宣布战略合作Immutable 或发力Web3区块链NFT](https://www.3dmgame.com/news/202311/3881438.html)
+
++ [《DOTA2》Team Aster和Team Falcons战队阵容官宣](https://www.3dmgame.com/news/202311/3881437.html)
+
++ [AMD最新驱动程序暗示锐龙 8000系列APU](https://www.3dmgame.com/news/202311/3881435.html)
+
++ [Netflix丧尸惊悚韩剧《京城怪物》首发预告](https://www.3dmgame.com/news/202311/3881436.html)
+
++ [T2：从游戏提供的内容量看 当前游戏实在太便宜了](https://www.3dmgame.com/news/202311/3881434.html)
+

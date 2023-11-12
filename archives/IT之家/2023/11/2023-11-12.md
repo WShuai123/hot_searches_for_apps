@@ -37,3 +37,5 @@
 
 + [《开心消消乐》完成鸿蒙原生应用开发，用户可在华为智慧屏上多人对战](https://m.ithome.com/html/731851.htm)
 
++ [SpaceX：Starship 星舰 11 月 17 日第二次发射，等待最终监管部门批准](https://m.ithome.com/html/731803.htm)
+

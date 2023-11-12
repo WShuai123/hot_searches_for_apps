@@ -129,3 +129,7 @@
 
 + [用于强化学习的置换不变神经网络](https://blog.csdn.net/gongdiwudu/article/details/134327113)
 
++ [51单片机应用从零开始（一）](https://blog.csdn.net/MANONGDKY/article/details/134351812)
+
++ [基于SpringBoot+Vue+mysql卓越导师双选系统设计与实现](https://blog.csdn.net/m0_64148096/article/details/134356304)
+

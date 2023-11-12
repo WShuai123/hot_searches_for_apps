@@ -45,3 +45,7 @@
 
 + [框架安全-CVE 复现&Apache Shiro&Apache Solr漏洞复现](https://www.freebuf.com/articles/web/382559.html)
 
++ [将电源侧信道攻击转化为x86远程时序攻击](https://www.freebuf.com/vuls/381130.html)
+
++ [SonarQube入门](https://www.freebuf.com/sectool/382714.html)
+
