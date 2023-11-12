@@ -129,3 +129,9 @@
 
 + [【hacker送书第一期】嵌入式虚拟化技术与应用](https://blog.csdn.net/xqe777/article/details/134364875)
 
++ [【MySQL】表的增删改查(强化)](https://blog.csdn.net/paperjie/article/details/134335377)
+
++ [如何使用Net2FTP搭建免费web文件管理器打造个人网盘](https://blog.csdn.net/2201_75743654/article/details/134330018)
+
++ [GPT 写作与改编](https://blog.csdn.net/qq_41739364/article/details/134163233)
+
