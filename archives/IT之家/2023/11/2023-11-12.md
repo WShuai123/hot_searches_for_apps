@@ -31,3 +31,9 @@
 
 + [吉利两款混动新车星瑞 L / 星越 L 智擎开启预售，13.17 万元起](https://m.ithome.com/html/731863.htm)
 
++ [基于 Sailfish OS，俄罗斯国产操作系统 Aurora OS 5.0 亮相](https://m.ithome.com/html/731921.htm)
+
++ [京东双 11 战报：累计超过 60 个品牌销售破 10 亿元，成交额、订单量、用户数创新高](https://m.ithome.com/html/731924.htm)
+
++ [《开心消消乐》完成鸿蒙原生应用开发，用户可在华为智慧屏上多人对战](https://m.ithome.com/html/731851.htm)
+

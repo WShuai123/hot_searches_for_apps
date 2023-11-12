@@ -41,3 +41,7 @@
 
 + [国内未受影响！工商银行美国子公司声明：遭勒索攻击致部分系统中断](https://www.freebuf.com/news/383423.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/383517.html)
+
++ [框架安全-CVE 复现&Apache Shiro&Apache Solr漏洞复现](https://www.freebuf.com/articles/web/382559.html)
+
