@@ -205,3 +205,5 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [ChatGadget-官方中文版AI智能4.0](https://itunes.apple.com/cn/app/id6458733127?mt=8)
+

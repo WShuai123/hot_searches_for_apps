@@ -101,3 +101,9 @@
 
 + [《星球大战》C-3PO头部以80万美元拍卖价成交](https://www.3dmgame.com/news/202311/3881424.html)
 
++ [跑酷射击VR游戏《Stride: Fates》上架Steam](https://www.3dmgame.com/news/202311/3881476.html)
+
++ [《火影忍者：终极风暴羁绊》凯队必杀合集](https://www.3dmgame.com/news/202311/3881475.html)
+
++ [《彩虹六号：围攻》与《街头霸王6》联动包现已上线](https://www.3dmgame.com/news/202311/3881474.html)
+
