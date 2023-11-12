@@ -135,3 +135,11 @@
 
 + [《PAPERHEAD》Steam页面上线 纸壳世界铅笔作战](https://www.3dmgame.com/news/202311/3881443.html)
 
++ [《圣斗士星矢》漫画单行本结局秘闻 并非当年的最终话](https://www.3dmgame.com/news/202311/3881450.html)
+
++ [开罗游戏新作《创造都市岛物语》即将登陆Steam](https://www.3dmgame.com/news/202311/3881447.html)
+
++ [安卓版本与鸿蒙将不再兼容 多公司急招鸿蒙开发员](https://www.3dmgame.com/news/202311/3881448.html)
+
++ [《超级马里奥RPG：重制版》游戏ROM泄漏至网络](https://www.3dmgame.com/news/202311/3881449.html)
+

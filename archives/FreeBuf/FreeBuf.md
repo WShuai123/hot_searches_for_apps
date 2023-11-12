@@ -49,3 +49,5 @@
 
 + [SonarQube入门](https://www.freebuf.com/sectool/382714.html)
 
++ [渗透测试高级技巧（二）：对抗前端动态密钥与非对称加密防护](https://www.freebuf.com/articles/web/380655.html)
+

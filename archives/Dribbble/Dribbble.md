@@ -127,3 +127,5 @@
 
 + [Sidebar nav — Untitled UI](https://dribbble.com/shots/)
 
++ [Product Detail page design](https://dribbble.com/shots/)
+

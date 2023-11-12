@@ -145,3 +145,9 @@
 
 + [【神经网络】GAN：生成对抗网络](https://blog.csdn.net/weixin_45434953/article/details/134344996)
 
++ [神经网络（第二周）](https://blog.csdn.net/qq_44228301/article/details/134107299)
+
++ [PowerPoint to HTML5 SDK Crack](https://blog.csdn.net/john_dwh/article/details/134347689)
+
++ [VB.NET—Bug调试(参数话查询、附近语法错误)](https://blog.csdn.net/weixin_59272777/article/details/134353203)
+
