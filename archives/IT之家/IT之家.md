@@ -47,3 +47,5 @@
 
 + [消息称苹果正测试“打孔屏”原型机，预计将用于 iPhone 16/17 Pro 系列](https://m.ithome.com/html/731967.htm)
 
++ [保时捷拒绝国产的理由：目前中国市场规模尚无法支撑](https://m.ithome.com/html/731963.htm)
+

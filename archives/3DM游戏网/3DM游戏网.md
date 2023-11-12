@@ -163,3 +163,7 @@
 
 + [《机动战士高达EXVS2》新机体11月14日上线 铁骑高达参战](https://www.3dmgame.com/news/202311/3881457.html)
 
++ [《城市：天际线2》三号更新档发布 再次优化性能表现](https://www.3dmgame.com/news/202311/3881461.html)
+
++ [世嘉收购美国大型博赌公司 加强博赌类游戏事业](https://www.3dmgame.com/news/202311/3881462.html)
+

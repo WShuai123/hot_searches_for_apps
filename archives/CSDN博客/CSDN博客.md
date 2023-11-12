@@ -171,3 +171,11 @@
 
 + [2020年五一杯数学建模B题基于系统性风险角度的基金资产配置策略分析解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134333282)
 
++ [亚马逊云AI应用科技创新下的Amazon SageMaker使用教程](https://blog.csdn.net/lbcyllqj/article/details/134360213)
+
++ [【uniapp】文件授权验真系统(含代码)](https://blog.csdn.net/qq_35230125/article/details/131737588)
+
++ [YOLOv5检测界面-PyQt5实现](https://blog.csdn.net/ALiLiLiYa/article/details/134330763)
+
++ [安全通信网络（设备和技术注解）](https://blog.csdn.net/ryanzzzzz/article/details/134348828)
+
