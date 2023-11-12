@@ -143,3 +143,7 @@
 
 + [《超级马里奥RPG：重制版》游戏ROM泄漏至网络](https://www.3dmgame.com/news/202311/3881449.html)
 
++ [《英雄征集》Steam页面上线测试 原创规则卡牌构筑](https://www.3dmgame.com/news/202311/3881451.html)
+
++ [《惊奇队长2》口碑溃败 网友吐槽剧本像低级AI生成](https://www.3dmgame.com/news/202311/3881452.html)
+

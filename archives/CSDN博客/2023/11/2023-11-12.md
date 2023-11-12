@@ -151,3 +151,9 @@
 
 + [VB.NET—Bug调试(参数话查询、附近语法错误)](https://blog.csdn.net/weixin_59272777/article/details/134353203)
 
++ [Python开源项目PGDiff——人脸重建（Face Restoration），模糊清晰、划痕修复及黑白上色的实践](https://blog.csdn.net/beijinghorn/article/details/134342534)
+
++ [XoT：一种新的大语言模型的提示技术](https://blog.csdn.net/m0_46510245/article/details/134357233)
+
++ [跨域：利用CORS实现跨域访问](https://blog.csdn.net/qq_68163788/article/details/134347980)
+
