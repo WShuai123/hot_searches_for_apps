@@ -163,3 +163,9 @@
 
 + [网络运维Day11](https://blog.csdn.net/weixin_65777087/article/details/134357089)
 
++ [【网络奇遇记】我和因特网的初相遇2 —— 三种交换方式](https://blog.csdn.net/2301_80026901/article/details/134344529)
+
++ [从C++软件调试实战的角度去看多线程编程中的若干细节问题](https://blog.csdn.net/chenlycly/article/details/134358655)
+
++ [Python实战 | 使用 Python 和 TensorFlow 构建卷积神经网络（CNN）进行人脸识别](https://blog.csdn.net/superdangbo/article/details/134358607)
+

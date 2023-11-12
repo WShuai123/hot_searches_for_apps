@@ -45,3 +45,5 @@
 
 + [深蓝汽车 CEO 邓承浩：不需要 2025 年，“增程时代”到来会比想象快](https://m.ithome.com/html/731923.htm)
 
++ [消息称苹果正测试“打孔屏”原型机，预计将用于 iPhone 16/17 Pro 系列](https://m.ithome.com/html/731967.htm)
+

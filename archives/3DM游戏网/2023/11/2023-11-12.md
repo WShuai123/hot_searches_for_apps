@@ -147,3 +147,11 @@
 
 + [《惊奇队长2》口碑溃败 网友吐槽剧本像低级AI生成](https://www.3dmgame.com/news/202311/3881452.html)
 
++ [《最终幻想7：重生》提供两种画质模式 但存在一隐患](https://www.3dmgame.com/news/202311/3881456.html)
+
++ [《如龙8》最新开发者访谈 内容量是系列最大怪物级](https://www.3dmgame.com/news/202311/3881455.html)
+
++ [铃木裕手游作品《Air Twister》现已登陆Steam平台](https://www.3dmgame.com/news/202311/3881453.html)
+
++ [今年“双十一”冷清的原因找到了：网友感觉没意思](https://www.3dmgame.com/news/202311/3881454.html)
+

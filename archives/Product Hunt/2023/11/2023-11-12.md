@@ -101,3 +101,9 @@
 
 + [SpeedVitals](https://www.producthunt.com/posts/speedvitals)
 
++ [ChatPRD](https://www.producthunt.com/posts/chatprd)
+
++ [DomumGym](https://www.producthunt.com/posts/domumgym)
+
++ [DocuPull](https://www.producthunt.com/posts/docupull)
+
