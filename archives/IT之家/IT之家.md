@@ -51,3 +51,7 @@
 
 + [英特尔 i9-14900KS 处理器曝光，睿频 6.2GHz](https://m.ithome.com/html/731908.htm)
 
++ [阿里云崩了，阿里云盘、天猫精灵、饿了么等无法使用（更新）](https://m.ithome.com/html/732003.htm)
+
++ [微软 Win10 Mobile 应用商店“凉凉”：应用无法下载、首页加载失败](https://m.ithome.com/html/731969.htm)
+

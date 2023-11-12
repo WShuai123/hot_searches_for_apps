@@ -51,3 +51,31 @@
 
 + [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
++ [huggingface / alignment-handbook](https://github.com/huggingface/alignment-handbook)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [CleverRaven / Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+
++ [sveltejs / svelte](https://github.com/sveltejs/svelte)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint)
+
++ [netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
+
++ [JushBJJ / Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+
++ [hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend)
+
++ [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+
++ [lyswhut / lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
+
++ [vinta / awesome-python](https://github.com/vinta/awesome-python)
+
++ [GaiZhenbiao / ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+
