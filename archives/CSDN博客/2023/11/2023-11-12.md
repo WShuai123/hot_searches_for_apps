@@ -179,3 +179,9 @@
 
 + [安全通信网络（设备和技术注解）](https://blog.csdn.net/ryanzzzzz/article/details/134348828)
 
++ [MATLAB的编程与应用，匿名函数、嵌套函数、蒙特卡洛法的掌握与使用](https://blog.csdn.net/Williamtym/article/details/134356032)
+
++ [【FPGA】Verilog：计数器 | 异步计数器 | 同步计数器 | 2位二进制计数器的实现 | 4位十进制计数器的实现](https://blog.csdn.net/weixin_50502862/article/details/134342151)
+
++ [Azure 机器学习 - 使用受保护工作区时的网络流量流](https://blog.csdn.net/magicyangjay111/article/details/134357002)
+

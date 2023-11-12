@@ -167,3 +167,5 @@
 
 + [世嘉收购美国大型博赌公司 加强博赌类游戏事业](https://www.3dmgame.com/news/202311/3881462.html)
 
++ [《上古卷轴5：天际》大型剧情MOD“Krein”发布](https://www.3dmgame.com/news/202311/3881463.html)
+
