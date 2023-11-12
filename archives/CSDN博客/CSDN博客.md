@@ -169,3 +169,5 @@
 
 + [Python实战 | 使用 Python 和 TensorFlow 构建卷积神经网络（CNN）进行人脸识别](https://blog.csdn.net/superdangbo/article/details/134358607)
 
++ [2020年五一杯数学建模B题基于系统性风险角度的基金资产配置策略分析解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134333282)
+
