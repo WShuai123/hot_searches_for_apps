@@ -55,3 +55,7 @@
 
 + [微软 Win10 Mobile 应用商店“凉凉”：应用无法下载、首页加载失败](https://m.ithome.com/html/731969.htm)
 
++ [阿里云崩了，阿里云盘、天猫精灵、饿了么等无法使用（更新：已全面恢复）](https://m.ithome.com/html/732003.htm)
+
++ [中国最大闪存芯片制造商长江存储在美起诉美光专利侵权，涉 8 项专利](https://m.ithome.com/html/731993.htm)
+

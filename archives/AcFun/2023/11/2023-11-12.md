@@ -125,3 +125,13 @@
 
 + [双十一买的电子小狐狸到啦~](http://www.acfun.cn/v/ac42923427)
 
++ [牛肉卷，忙碌一天后给自己的快乐](http://www.acfun.cn/v/ac42906917)
+
++ [硕果姐越南一日游！真好…](http://www.acfun.cn/v/ac42920423)
+
++ [张雪峰直播连线录制](http://www.acfun.cn/v/ac42919012)
+
++ [You&Me★彡南瓜独家](http://www.acfun.cn/v/ac42917483)
+
++ [抢夺政府95亿美元《剑鱼行动》参议员只是棋子，我布的局是维护国家安全](http://www.acfun.cn/v/ac42925851)
+

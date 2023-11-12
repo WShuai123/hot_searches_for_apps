@@ -169,3 +169,7 @@
 
 + [《上古卷轴5：天际》大型剧情MOD“Krein”发布](https://www.3dmgame.com/news/202311/3881463.html)
 
++ [小11挑大梁！Netflix《少女斗恶龙》正式前导预告](https://www.3dmgame.com/news/202311/3881465.html)
+
++ [华硕RTX 4090 ROG Matrix显卡国内开售 已被炒到39999元以上](https://www.3dmgame.com/news/202311/3881464.html)
+
