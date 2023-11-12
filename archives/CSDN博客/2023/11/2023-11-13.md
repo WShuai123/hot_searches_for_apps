@@ -101,3 +101,11 @@
 
 + [html动态爱心超文本标记代码，丝滑流畅有特效，附源码](https://blog.csdn.net/yaosichengalpha/article/details/131360967)
 
++ [MySQL索引事务](https://blog.csdn.net/m0_61876562/article/details/134361867)
+
++ [《网络协议》05. 网络通信安全 · 密码技术](https://blog.csdn.net/KeepPromise/article/details/134314776)
+
++ [2023亚太杯数学建模A题B题C题思路代码分析](https://blog.csdn.net/math_assistant/article/details/134359793)
+
++ [YOLOv5检测界面-PyQt5实现](https://blog.csdn.net/ALiLiLiYa/article/details/134330763)
+
