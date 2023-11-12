@@ -43,3 +43,5 @@
 
 + [小米双 11 战报：全渠道支付金额破 224 亿元](https://m.ithome.com/html/731927.htm)
 
++ [深蓝汽车 CEO 邓承浩：不需要 2025 年，“增程时代”到来会比想象快](https://m.ithome.com/html/731923.htm)
+

@@ -51,3 +51,7 @@
 
 + [渗透测试高级技巧（二）：对抗前端动态密钥与非对称加密防护](https://www.freebuf.com/articles/web/380655.html)
 
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
++ [如何使用SMShell通过SMS短信获取Shell](https://www.freebuf.com/sectool/380754.html)
+
