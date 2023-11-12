@@ -177,3 +177,9 @@
 
 + [Insomniac《漫威金刚狼》将在2024年发售](https://www.3dmgame.com/news/202311/3881466.html)
 
++ [《CS2》2024年冬季Major落户上海 完美世界承办](https://www.3dmgame.com/news/202311/3881469.html)
+
++ [京东双11战报公布：成交额、订单量、用户数齐创新高](https://www.3dmgame.com/news/202311/3881470.html)
+
++ [《黑袍纠察队》演员不会为《真人快打1》祖国人配音](https://www.3dmgame.com/news/202311/3881468.html)
+
