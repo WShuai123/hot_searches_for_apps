@@ -49,3 +49,23 @@
 
 + [Las Vegas Map](https://dribbble.com/shots/)
 
++ [Braze Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [House of Gleason](https://dribbble.com/shots/)
+
++ [Rugby Fever ????](https://dribbble.com/shots/)
+
++ [Lefty](https://dribbble.com/shots/)
+
++ [Study planner tool pt.3](https://dribbble.com/shots/)
+
++ [Eventbeds - Website page for businesses](https://dribbble.com/shots/)
+
++ [Oscar Health — Health Insurance App](https://dribbble.com/shots/)
+
++ [Taman badge](https://dribbble.com/shots/)
+
++ [Modular AI Logo/Logotype](https://dribbble.com/shots/)
+
++ [The Beetle Backs / Aces](https://dribbble.com/shots/)
+
