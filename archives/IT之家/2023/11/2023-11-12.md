@@ -41,3 +41,5 @@
 
 + [小米澎湃 OS 开发版第一批机型预计 11 月中下旬陆续推送](https://m.ithome.com/html/731933.htm)
 
++ [小米双 11 战报：全渠道支付金额破 224 亿元](https://m.ithome.com/html/731927.htm)
+

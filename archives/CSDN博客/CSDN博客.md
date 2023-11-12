@@ -143,3 +143,5 @@
 
 + [基于GPTs个性化定制SCI论文专业翻译器](https://blog.csdn.net/wenquantongxin/article/details/134356777)
 
++ [【神经网络】GAN：生成对抗网络](https://blog.csdn.net/weixin_45434953/article/details/134344996)
+
