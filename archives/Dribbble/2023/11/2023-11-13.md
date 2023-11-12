@@ -87,3 +87,15 @@
 
 + [Geometric Skull Logo](https://dribbble.com/shots/)
 
++ [Astronaut #3](https://dribbble.com/shots/)
+
++ [Layover in Tokyo (Tókyó de Noritsugi)](https://dribbble.com/shots/)
+
++ [Business Consultancy Mobile Website](https://dribbble.com/shots/)
+
++ [Coffee Catalog Web Page](https://dribbble.com/shots/)
+
++ [Wind Rises - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Biker Chimp](https://dribbble.com/shots/)
+
