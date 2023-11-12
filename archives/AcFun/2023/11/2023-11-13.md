@@ -67,3 +67,7 @@
 
 + [《完蛋！我被好舍友包围了》DLC](http://www.acfun.cn/v/ac42926509)
 
++ [【游戏咖啡馆】秋哥的科研，禁防禁跳禁雷反10+1无伤一郎](http://www.acfun.cn/v/ac42928456)
+
++ [【原创编舞】gods 登神 英雄联盟s13 加油](http://www.acfun.cn/v/ac42926588)
+
