@@ -133,3 +133,13 @@
 
 + [基于SpringBoot+Vue+mysql卓越导师双选系统设计与实现](https://blog.csdn.net/m0_64148096/article/details/134356304)
 
++ [利用OGG实现PostgreSQL实时同步](https://blog.csdn.net/weixin_41645135/article/details/134356950)
+
++ [【C++破局】C++内存管理之new与deleted剖析](https://blog.csdn.net/lovewold_/article/details/133496380)
+
++ [使用大型语言模型进行文本摘要](https://blog.csdn.net/gongdiwudu/article/details/134318487)
+
++ [【电路笔记】-节点电压分析和网状电流分析](https://blog.csdn.net/wujuxKkoolerter/article/details/134354643)
+
++ [基于GPTs个性化定制SCI论文专业翻译器](https://blog.csdn.net/wenquantongxin/article/details/134356777)
+

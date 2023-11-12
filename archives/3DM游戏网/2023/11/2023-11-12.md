@@ -119,3 +119,19 @@
 
 + [T2：从游戏提供的内容量看 当前游戏实在太便宜了](https://www.3dmgame.com/news/202311/3881434.html)
 
++ [iPhone史诗级变革 代码显示可从App Store外安装应用](https://www.3dmgame.com/news/202311/3881444.html)
+
++ [日本最大级别非数字游戏大会《游戏市场2023秋》12月9日举行](https://www.3dmgame.com/news/202311/3881445.html)
+
++ [俯视视角射击新作《Berzerk: Recharged》现已发售](https://www.3dmgame.com/news/202311/3881446.html)
+
++ [《超级马里奥RPG：重制版》开发商和引擎信息公布](https://www.3dmgame.com/news/202311/3881439.html)
+
++ [魔法学校大冒险 《咒语和奥秘》上市宣传片公布](https://www.3dmgame.com/news/202311/3881440.html)
+
++ [《战火英雄》登陆Steam 经典竞技场射击新游](https://www.3dmgame.com/news/202311/3881441.html)
+
++ [《天国：拯救》NS版仍未消失 或于明年正式发售](https://www.3dmgame.com/news/202311/3881442.html)
+
++ [《PAPERHEAD》Steam页面上线 纸壳世界铅笔作战](https://www.3dmgame.com/news/202311/3881443.html)
+

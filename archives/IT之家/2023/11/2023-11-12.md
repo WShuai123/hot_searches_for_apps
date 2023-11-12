@@ -39,3 +39,5 @@
 
 + [SpaceX：Starship 星舰 11 月 17 日第二次发射，等待最终监管部门批准](https://m.ithome.com/html/731803.htm)
 
++ [小米澎湃 OS 开发版第一批机型预计 11 月中下旬陆续推送](https://m.ithome.com/html/731933.htm)
+
