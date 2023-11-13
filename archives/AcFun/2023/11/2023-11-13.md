@@ -75,3 +75,7 @@
 
 + [Fly me to the moon （Live）](http://www.acfun.cn/v/ac42927348)
 
++ [《动物迷惑行为大赏180》](http://www.acfun.cn/v/ac42927480)
+
++ [【被遗忘的武器/双语】长风CS/LS-06 - 中国的弹筒供弹冲锋枪](http://www.acfun.cn/v/ac42927516)
+

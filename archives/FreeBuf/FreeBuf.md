@@ -45,3 +45,5 @@
 
 + [信息窃密木马入局新玩家：ExelaStealer](https://www.freebuf.com/articles/network/381460.html)
 
++ [合规致远：《生成式人工智能服务管理暂行办法 》颁布](https://www.freebuf.com/articles/neopoints/382393.html)
+

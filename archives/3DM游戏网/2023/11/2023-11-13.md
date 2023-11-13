@@ -113,3 +113,17 @@
 
 + [专利显示索尼PS将为游戏添加跳转章节功能](https://www.3dmgame.com/news/202311/3881477.html)
 
++ [《最终幻想7：重生》将拥有更多服装选择 比前作多](https://www.3dmgame.com/news/202311/3881483.html)
+
++ [《守望先锋2》现新BUG 玩家如冻结般被困原地](https://www.3dmgame.com/news/202311/3881484.html)
+
++ [人气小说漫画《THE NEW GATE》确定制作TV动画 主艺图公开](https://www.3dmgame.com/news/202311/3881485.html)
+
++ [《博德之门3》大获成功 拉瑞安希望更多厂商制作CRPG](https://www.3dmgame.com/news/202311/3881486.html)
+
++ [《月球叛军-第1部：火之女》曝中文正式预告](https://www.3dmgame.com/news/202311/3881480.html)
+
++ [《宝可梦：朱/紫》新事件11月17日举行 最强伊布袭来](https://www.3dmgame.com/news/202311/3881481.html)
+
++ [多人生存游戏《Dark and Darker》再次推出联名咖啡收藏](https://www.3dmgame.com/news/202311/3881482.html)
+
