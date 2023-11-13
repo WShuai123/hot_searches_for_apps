@@ -201,3 +201,7 @@
 
 + [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
 
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+

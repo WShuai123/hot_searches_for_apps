@@ -25,3 +25,5 @@
 
 + [古尔曼：苹果内部对 iOS 18 抱有极高期望，将为 iPhone 和 iPad 带来开创性功能更新](https://m.ithome.com/html/732047.htm)
 
++ [vivo X100 系列手机全球首发天玑 9300 处理器、LPDDR5T 内存，安兔兔跑分超 224 万分](https://m.ithome.com/html/732261.htm)
+
