@@ -239,3 +239,5 @@
 
 + [如何实现公网远程访问本地OpenGauss数据库【内网穿透】](https://blog.csdn.net/xz2935117143/article/details/134378835)
 
++ [《Linux从练气到飞升》No.26 Linux中的线程控制](https://blog.csdn.net/m0_67759533/article/details/134300606)
+

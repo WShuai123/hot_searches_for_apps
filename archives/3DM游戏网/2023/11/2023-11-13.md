@@ -219,3 +219,7 @@
 
 + [《黑帝斯》iOS版将于2024年推出 Netflix独占](https://www.3dmgame.com/news/202311/3881531.html)
 
++ [日式风格商店街经营模拟游戏《南小路》公布 2024年1月登陆Steam](https://www.3dmgame.com/news/202311/3881532.html)
+
++ [《使命召唤：现代战争3》Steam多半差评 好评率仅28%](https://www.3dmgame.com/news/202311/3881534.html)
+
