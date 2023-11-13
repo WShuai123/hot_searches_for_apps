@@ -101,3 +101,7 @@
 
 + [Fika](https://www.producthunt.com/posts/fika-8)
 
++ [Remote Marketer Jobs](https://www.producthunt.com/posts/remote-marketer-jobs)
+
++ [RemixAI](https://www.producthunt.com/posts/remixai)
+

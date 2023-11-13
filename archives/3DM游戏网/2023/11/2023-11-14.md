@@ -101,3 +101,5 @@
 
 + [CDPR谈《赛博朋克2077》口碑如何逆袭：坚持更新不放弃](https://www.3dmgame.com/news/202311/3881497.html)
 
++ [《阿凡达：潘多拉边境》PS5特性预告 超强的沉浸感](https://www.3dmgame.com/news/202311/3881541.html)
+
