@@ -219,3 +219,9 @@
 
 + [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+

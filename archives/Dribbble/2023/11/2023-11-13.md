@@ -143,3 +143,9 @@
 
 + [Fashion OS](https://dribbble.com/shots/)
 
++ [Football Player Logo](https://dribbble.com/shots/)
+
++ [HAWK Personal Security Services Logotype/Symbol Mark/Identity](https://dribbble.com/shots/)
+
++ [Oracle NetSuite – AI-powered Business Management Software](https://dribbble.com/shots/)
+

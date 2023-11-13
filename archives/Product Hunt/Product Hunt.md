@@ -155,3 +155,7 @@
 
 + [LeadDelta 3.0](https://www.producthunt.com/posts/leaddelta-3-0)
 
++ [Studio](https://www.producthunt.com/posts/studio-cb9b3875-444c-4e41-84e7-cc077e721163)
+
++ [MailMaestro](https://www.producthunt.com/posts/mailmaestro)
+

@@ -213,3 +213,5 @@
 
 + [《Our Life on Water》Steam页面上线 水上生活模拟RPG](https://www.3dmgame.com/news/202311/3881527.html)
 
++ [RTX4060 Ti 16GB瘦成一道闪电！风扇很暴力](https://www.3dmgame.com/news/202311/3881530.html)
+

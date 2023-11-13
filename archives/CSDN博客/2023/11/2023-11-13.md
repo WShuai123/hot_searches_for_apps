@@ -217,3 +217,7 @@
 
 + [【网络豆送书第六期】《嵌入式虚拟化技术与应用》](https://blog.csdn.net/yj11290301/article/details/134375693)
 
++ [Rust图形界面：从零开始创建eGUi项目](https://blog.csdn.net/m0_37816922/article/details/134172703)
+
++ [PowerPoint to HTML5 SDK Crack](https://blog.csdn.net/john_dwh/article/details/134347689)
+

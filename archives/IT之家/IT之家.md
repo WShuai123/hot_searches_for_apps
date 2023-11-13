@@ -51,3 +51,5 @@
 
 + [【IT之家开箱】vivo X100 星迹蓝图赏：月环云阶，手摘星辰](https://m.ithome.com/html/732101.htm)
 
++ [美 ONE 回应李佳琦双 11 收入 250 亿：无稽之谈，直播间从未公布过 GMV 数据](https://m.ithome.com/html/732124.htm)
+
