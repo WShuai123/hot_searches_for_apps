@@ -205,3 +205,11 @@
 
 + [CSS特效007：绘制3D文字，类似PS效果](https://blog.csdn.net/cuclife/article/details/134268577)
 
++ [【网络奇幻之旅】那年我与大数据的邂逅](https://blog.csdn.net/2301_80760873/article/details/134374506)
+
++ [【愚公系列】2023年11月 Java教学课程 190-SpringCloud（Hystrix熔断器介绍和服务降级）](https://blog.csdn.net/aa2528877987/article/details/134366925)
+
++ [微服务 Spring Cloud 6，用了这么多年Docker容器，殊不知你还有这么多弯弯绕](https://blog.csdn.net/guorui_java/article/details/134295856)
+
++ [Azure 机器学习：在 Azure 机器学习中使用 Azure OpenAI 模型](https://blog.csdn.net/magicyangjay111/article/details/134376746)
+

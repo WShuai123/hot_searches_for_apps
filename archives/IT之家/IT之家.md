@@ -49,3 +49,5 @@
 
 + [高端成了？消息称小米 14 / Pro 系列手机首销 10 天达 144.74 万台，打破自家纪录](https://m.ithome.com/html/732143.htm)
 
++ [【IT之家开箱】vivo X100 星迹蓝图赏：月环云阶，手摘星辰](https://m.ithome.com/html/732101.htm)
+

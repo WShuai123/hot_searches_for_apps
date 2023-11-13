@@ -183,3 +183,25 @@
 
 + [前星际开发者吐槽辛辛苦苦做3A 收入还不如魔兽的氪金坐骑](https://www.3dmgame.com/news/202311/3881513.html)
 
++ [王老菊做游戏亏了600万元 积蓄快花完了还在坚持](https://www.3dmgame.com/news/202311/3881524.html)
+
++ [9.2分科幻神作！《万神殿》第二季完结 刘宇昆小说改编](https://www.3dmgame.com/news/202311/3881525.html)
+
++ [传闻：《GTA6》女主有一个孩子 或已为人妻](https://www.3dmgame.com/news/202311/3881523.html)
+
++ [Intel官宣Vision 2024大会 主题为未来由此开始](https://www.3dmgame.com/news/202311/3881522.html)
+
++ [双11优惠末班车：蒸汽平台独立游戏特卖周，低价优惠仍未停](https://www.3dmgame.com/news/202311/3881521.html)
+
++ [《蛛丝诡迹2：长夜迷城》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881520.html)
+
++ [狂割韭菜？外媒吐槽《暗黑破坏神4》皮肤价格太贵](https://www.3dmgame.com/news/202311/3881519.html)
+
++ [第74届NHK红白歌会歌手名单公布 12月31日播出](https://www.3dmgame.com/news/202311/3881518.html)
+
++ [《大侠立志传》11月16日将迎来正式版发售](https://www.3dmgame.com/news/202311/3881517.html)
+
++ [摆烂玩家终于制裁了 《王者荣耀》局内踢人效果明显：投降率大降](https://www.3dmgame.com/news/202311/3881516.html)
+
++ [传奇名作《怪医黑杰克》全新漫画11月22日刊载 AI辅助创作](https://www.3dmgame.com/news/202311/3881515.html)
+
