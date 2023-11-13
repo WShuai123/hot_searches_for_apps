@@ -89,3 +89,15 @@
 
 + [Exploration visual identity process for 301.digital](https://dribbble.com/shots/)
 
++ [ZIKI Barber Shop](https://dribbble.com/shots/)
+
++ [Procreate Day 3](https://dribbble.com/shots/)
+
++ [ESC Zodiac Collection - Aquarius](https://dribbble.com/shots/)
+
++ [Real Estate Mobile App Design](https://dribbble.com/shots/)
+
++ [Imagica AI Home Screen](https://dribbble.com/shots/)
+
++ [Ipswich Jets](https://dribbble.com/shots/)
+

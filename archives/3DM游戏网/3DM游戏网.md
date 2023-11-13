@@ -103,3 +103,7 @@
 
 + [《阿凡达：潘多拉边境》PS5特性预告 超强的沉浸感](https://www.3dmgame.com/news/202311/3881541.html)
 
++ [TGA游戏大奖2023提名公布 博德之门3众望所归](https://www.3dmgame.com/news/202311/3881542.html)
+
++ [多款佳作竞争TGA年度最佳 博德3心灵杀手2领跑](https://www.3dmgame.com/news/202311/3881543.html)
+
