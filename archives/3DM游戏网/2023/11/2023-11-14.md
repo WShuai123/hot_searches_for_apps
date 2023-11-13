@@ -107,3 +107,7 @@
 
 + [多款佳作竞争TGA年度最佳 博德3心灵杀手2领跑](https://www.3dmgame.com/news/202311/3881543.html)
 
++ [《阿凡达：潘多拉边境》完成开发 开始进厂压盘](https://www.3dmgame.com/news/202311/3881545.html)
+
++ [《三位一体融合》将于12/15脱离EA推出正式版](https://www.3dmgame.com/news/202311/3881544.html)
+

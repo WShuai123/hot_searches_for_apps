@@ -115,3 +115,9 @@
 
 + [黑客技术（网络安全）—高效自学](https://blog.csdn.net/dexi1113/article/details/134377552)
 
++ [【兔子王赠书第7期】机器学习与人工智能实战：基于业务场景的工程应用](https://blog.csdn.net/m0_68111267/article/details/134385218)
+
++ [Linux系统中如何开启和配置OpenGauss数据库的远程连接(1)](https://blog.csdn.net/2301_77053417/article/details/134377608)
+
++ [云原生 黑马Kubernetes教程（K8S教程）笔记——第一章 kubernetes介绍——Master集群控制节点、Node工作负载节点、Pod控制单元](https://blog.csdn.net/Dontla/article/details/134342051)
+
