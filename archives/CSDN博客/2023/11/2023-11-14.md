@@ -101,3 +101,17 @@
 
 + [利用uni-app 开发的iOS app 发布到App Store全流程](https://blog.csdn.net/weixin_46626339/article/details/134370483)
 
++ [AI工程师在崛起，我们如何做到快速转型](https://blog.csdn.net/m0_74755811/article/details/134361305)
+
++ [linux下使用Docker Compose部署Spug实现公网远程访问](https://blog.csdn.net/2301_80092713/article/details/134387476)
+
++ [深度学习 大数据 股票预测系统 - python lstm 计算机竞赛](https://blog.csdn.net/m0_43533/article/details/134375949)
+
++ [K8S集群调度](https://blog.csdn.net/qq_54235967/article/details/134379761)
+
++ [【从零开始学习Linux】一文带你了解Shell外壳及用户权限（二）](https://blog.csdn.net/m0_75219751/article/details/134353259)
+
++ [CSS特效007：绘制3D文字，类似PS效果](https://blog.csdn.net/cuclife/article/details/134268577)
+
++ [黑客技术（网络安全）—高效自学](https://blog.csdn.net/dexi1113/article/details/134377552)
+
