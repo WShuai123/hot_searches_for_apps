@@ -223,3 +223,11 @@
 
 + [《使命召唤：现代战争3》Steam多半差评 好评率仅28%](https://www.3dmgame.com/news/202311/3881534.html)
 
++ [《最终幻想7：重生》总监：游戏从《巫师3》和《地平线》吸取灵感](https://www.3dmgame.com/news/202311/3881538.html)
+
++ [《天呐！我被仙剑包围了》为买断制 互动冒险游戏](https://www.3dmgame.com/news/202311/3881537.html)
+
++ [任天堂新一期直面会将会11月15日举行 时长约25分钟](https://www.3dmgame.com/news/202311/3881536.html)
+
++ [《全境封锁2》国服将于11月29日正式上线 登陆腾讯WeGame](https://www.3dmgame.com/news/202311/3881535.html)
+

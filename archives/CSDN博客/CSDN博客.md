@@ -241,3 +241,11 @@
 
 + [《Linux从练气到飞升》No.26 Linux中的线程控制](https://blog.csdn.net/m0_67759533/article/details/134300606)
 
++ [【Docker】深入理解Docker：一种革新性的容器技术](https://blog.csdn.net/m0_75058342/article/details/132084756)
+
++ [数据分析实战 | 逻辑回归——病例自动诊断分析](https://blog.csdn.net/m0_70452407/article/details/134352744)
+
++ [基于Java+Vue+uniapp微信小程序智能社区服务平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134384415)
+
++ [网络安全黑客技术自学](https://blog.csdn.net/dexi113/article/details/134385346)
+
