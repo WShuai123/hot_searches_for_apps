@@ -161,3 +161,7 @@
 
 + [网络安全之认识托管威胁检测与响应（MDR）](https://blog.csdn.net/fullbug/article/details/134362769)
 
++ [【Hadoop】MapReduce详解](https://blog.csdn.net/qq_35995514/article/details/134358873)
+
++ [WebSocket网络协议](https://blog.csdn.net/m0_71229255/article/details/134366289)
+

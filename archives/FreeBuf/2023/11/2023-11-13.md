@@ -49,3 +49,7 @@
 
 + [波音公司拒绝支付赎金，LockBit直接公布43GB文件](https://www.freebuf.com/news/383609.html)
 
++ [阿里云“崩了”，相关App组团上热搜](https://www.freebuf.com/news/383618.html)
+
++ [MuddyC2Go：伊朗黑客对以色列使用的新C2框架](https://www.freebuf.com/news/383617.html)
+

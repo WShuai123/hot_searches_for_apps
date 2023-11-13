@@ -135,3 +135,33 @@
 
 + [《巨击大乱斗》“奥特曼”DLC国区已解锁 定价42元](https://www.3dmgame.com/news/202311/3881487.html)
 
++ [2025年大阪万博会命运堪忧 民调显示八成不满](https://www.3dmgame.com/news/202311/3881505.html)
+
++ [韩国丧尸游戏《暗夜绝望》预告 探险世界爽快战斗](https://www.3dmgame.com/news/202311/3881503.html)
+
++ [你们心心念念的《CD2：陷阱大师》EA版今天终于上线了](https://www.3dmgame.com/news/202311/3881504.html)
+
++ [《女神异闻录5：战略版》首日DLC角色“芳泽霞”预告](https://www.3dmgame.com/news/202311/3881502.html)
+
++ [因更耗电多家手机厂取消5G开关 实测就苹果还保留](https://www.3dmgame.com/news/202311/3881501.html)
+
++ [Netflix奇幻剧集《死亡男孩侦探社》首支预告片](https://www.3dmgame.com/news/202311/3881500.html)
+
++ [虚幻5重制《上古卷轴5》冬堡地图 更美丽冻人](https://www.3dmgame.com/news/202311/3881499.html)
+
++ [传闻A24和达伦·阿伦诺夫斯基正在制作马斯克传记片](https://www.3dmgame.com/news/202311/3881498.html)
+
++ [科乐美幻之夭折FC游戏现世 拍出240万日元高价](https://www.3dmgame.com/news/202311/3881496.html)
+
++ [鬼火模拟器《曼岛TT：边缘竞速3》全新DLC现已发布](https://www.3dmgame.com/news/202311/3881494.html)
+
++ [《惊奇队长2》IGN 8分 北美首周末票房为MCU最差](https://www.3dmgame.com/news/202311/3881493.html)
+
++ [时而长时而短！盘点大怪兽哥斯拉30年身高变迁史](https://www.3dmgame.com/news/202311/3881492.html)
+
++ [《天穗之咲稻姬》开发商明年发布重大公告 或将是续作](https://www.3dmgame.com/news/202311/3881491.html)
+
++ [CDPR谈《赛博朋克2077》口碑如何逆袭：坚持更新不放弃](https://www.3dmgame.com/news/202311/3881497.html)
+
++ [电影《旺卡》“巧克力逐梦”版预告 12月8日上映](https://www.3dmgame.com/news/202311/3881495.html)
+
