@@ -41,3 +41,7 @@
 
 + [1 分钟诞生一个新 GPT！3 天内定制 GPT 大爆发，理想型男友、科研利器全网刷屏](https://m.ithome.com/html/732045.htm)
 
++ [华为天气 App 上线免广告权益：安装激活 1 个应用可享 30 天免广告，最高 360 天](https://m.ithome.com/html/732119.htm)
+
++ [巨亏 12.69 万亿韩元，三星“翻滚”下坡](https://m.ithome.com/html/732034.htm)
+
