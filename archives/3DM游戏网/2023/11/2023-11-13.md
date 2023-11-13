@@ -215,3 +215,7 @@
 
 + [RTX4060 Ti 16GB瘦成一道闪电！风扇很暴力](https://www.3dmgame.com/news/202311/3881530.html)
 
++ [全力打造AGI！OpenAI寻求微软新资金支持](https://www.3dmgame.com/news/202311/3881533.html)
+
++ [《黑帝斯》iOS版将于2024年推出 Netflix独占](https://www.3dmgame.com/news/202311/3881531.html)
+

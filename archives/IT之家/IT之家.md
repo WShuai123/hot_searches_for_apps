@@ -53,3 +53,7 @@
 
 + [美 ONE 回应李佳琦双 11 收入 250 亿：无稽之谈，直播间从未公布过 GMV 数据](https://m.ithome.com/html/732124.htm)
 
++ [华为 Mate 60 Pro 手机推出中国电信量子密话定制终端](https://m.ithome.com/html/732069.htm)
+
++ [360 周鸿祎谈汽车 AEB 之争：无论任何情况都支持华为，哪吒汽车也能做到](https://m.ithome.com/html/732053.htm)
+

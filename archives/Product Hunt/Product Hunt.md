@@ -159,3 +159,5 @@
 
 + [MailMaestro](https://www.producthunt.com/posts/mailmaestro)
 
++ [Studio (Beta)](https://www.producthunt.com/posts/studio-beta)
+

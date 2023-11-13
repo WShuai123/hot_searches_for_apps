@@ -51,3 +51,33 @@
 
 + [GaiZhenbiao / ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
+
++ [fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
+
++ [raysan5 / raylib](https://github.com/raysan5/raylib)
+
++ [langchain-ai / opengpts](https://github.com/langchain-ai/opengpts)
+
++ [Anil-matcha / Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store)
+
++ [halpz / re3](https://github.com/halpz/re3)
+
++ [iDvel / rime-ice](https://github.com/iDvel/rime-ice)
+
++ [taranjeet / awesome-gpts](https://github.com/taranjeet/awesome-gpts)
+
++ [activepieces / activepieces](https://github.com/activepieces/activepieces)
+
++ [josean-dev / dev-environment-files](https://github.com/josean-dev/dev-environment-files)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [biomejs / biome](https://github.com/biomejs/biome)
+
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
+

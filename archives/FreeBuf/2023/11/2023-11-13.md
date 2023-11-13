@@ -63,3 +63,7 @@
 
 + [企业安全 | 威胁建模入门](https://www.freebuf.com/articles/es/380786.html)
 
++ [攻防漏洞利用与红队反溯源 | FCIS 2023大会议题前瞻](https://www.freebuf.com/fevents/383676.html)
+
++ [《电信网络诈骗及其关联违法犯罪联合惩戒办法（征求意见稿）》](https://www.freebuf.com/articles/383717.html)
+
