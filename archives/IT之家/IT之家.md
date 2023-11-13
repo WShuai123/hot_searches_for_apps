@@ -39,3 +39,5 @@
 
 + [OneDrive 弹窗惹众怒，微软将其撤回](https://m.ithome.com/html/732042.htm)
 
++ [1 分钟诞生一个新 GPT！3 天内定制 GPT 大爆发，理想型男友、科研利器全网刷屏](https://m.ithome.com/html/732045.htm)
+

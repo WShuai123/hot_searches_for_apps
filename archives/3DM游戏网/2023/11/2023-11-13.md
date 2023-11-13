@@ -165,3 +165,7 @@
 
 + [电影《旺卡》“巧克力逐梦”版预告 12月8日上映](https://www.3dmgame.com/news/202311/3881495.html)
 
++ [英伟达为中国推三款AI新芯片：性能降80% 怎么买](https://www.3dmgame.com/news/202311/3881507.html)
+
++ [动作冒险游戏《搞什么鸭》已在Steam正式推出](https://www.3dmgame.com/news/202311/3881506.html)
+

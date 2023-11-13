@@ -53,3 +53,5 @@
 
 + [MuddyC2Go：伊朗黑客对以色列使用的新C2框架](https://www.freebuf.com/news/383617.html)
 
++ [前端动态密钥与非对称加密场景下的测试](https://www.freebuf.com/articles/web/380896.html)
+
