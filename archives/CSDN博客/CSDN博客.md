@@ -231,3 +231,11 @@
 
 + [探索向量数据库 | 重新定义数据存储与分析](https://blog.csdn.net/qq_53123067/article/details/134375227)
 
++ [使用Tipas结合内网穿透在Ubuntu上搭建高效问题解答平台网站](https://blog.csdn.net/qiuqiushuibx/article/details/134377848)
+
++ [OpenWRT搭建个人web站点并结合内网穿透实现公网远程访问](https://blog.csdn.net/qq_48652579/article/details/134377930)
+
++ [【从零开始学习Linux】一文带你了解Shell外壳及用户权限（二）](https://blog.csdn.net/m0_75219751/article/details/134353259)
+
++ [如何实现公网远程访问本地OpenGauss数据库【内网穿透】](https://blog.csdn.net/xz2935117143/article/details/134378835)
+
