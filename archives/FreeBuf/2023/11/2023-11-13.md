@@ -41,3 +41,7 @@
 
 + [攻击者正利用虚假Windows 新闻门户传播恶意软件](https://www.freebuf.com/news/383497.html)
 
++ [FreeBuf早报 | 恶意木马感染设备后公然挑衅用户；工行美国子公司正彻查勒索软件攻击](https://www.freebuf.com/news/383544.html)
+
++ [信息窃密木马入局新玩家：ExelaStealer](https://www.freebuf.com/articles/network/381460.html)
+

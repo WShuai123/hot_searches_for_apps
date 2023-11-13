@@ -107,3 +107,9 @@
 
 + [《彩虹六号：围攻》与《街头霸王6》联动包现已上线](https://www.3dmgame.com/news/202311/3881474.html)
 
++ [索尼新专利 可让玩家启动游戏到任何时间点](https://www.3dmgame.com/news/202311/3881479.html)
+
++ [《战国王朝》官方发布视频介绍新增农业系统](https://www.3dmgame.com/news/202311/3881478.html)
+
++ [专利显示索尼PS将为游戏添加跳转章节功能](https://www.3dmgame.com/news/202311/3881477.html)
+
