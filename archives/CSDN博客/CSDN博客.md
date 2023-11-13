@@ -147,3 +147,17 @@
 
 + [【ElasticSearch系列-08】ElasticSearch处理对象间的关联关系](https://blog.csdn.net/zhenghuishengq/article/details/134327295)
 
++ [第二十七节——组合式API介绍](https://blog.csdn.net/weixin_57017198/article/details/134264564)
+
++ [Flutter开发中的一些Tips（四）](https://blog.csdn.net/qq_17766199/article/details/134351554)
+
++ [IP多播需要使用两种协议（IGMP和多播路由选择协议）](https://blog.csdn.net/weixin_69884785/article/details/134357401)
+
++ [AI应用新时代的起点，亚马逊云科技加速大模型应用](https://blog.csdn.net/qq_38951259/article/details/134366750)
+
++ [Oracle主备切换，ogg恢复方法(经典模式)](https://blog.csdn.net/sinat_36757755/article/details/134363175)
+
++ [使用.net 构建 Elsa Workflow](https://blog.csdn.net/cao919/article/details/134363759)
+
++ [网络安全之认识托管威胁检测与响应（MDR）](https://blog.csdn.net/fullbug/article/details/134362769)
+

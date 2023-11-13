@@ -127,3 +127,11 @@
 
 + [多人生存游戏《Dark and Darker》再次推出联名咖啡收藏](https://www.3dmgame.com/news/202311/3881482.html)
 
++ [《魔兽世界》总监解释一口气公布三个资料片原因](https://www.3dmgame.com/news/202311/3881490.html)
+
++ [曝索尼2024年还有未公布的单人游戏阵容](https://www.3dmgame.com/news/202311/3881488.html)
+
++ [《塞尔达传说》中塞尔达的英语配音演员 有意出演真人版塞尔达](https://www.3dmgame.com/news/202311/3881489.html)
+
++ [《巨击大乱斗》“奥特曼”DLC国区已解锁 定价42元](https://www.3dmgame.com/news/202311/3881487.html)
+

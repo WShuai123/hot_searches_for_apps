@@ -47,3 +47,5 @@
 
 + [合规致远：《生成式人工智能服务管理暂行办法 》颁布](https://www.freebuf.com/articles/neopoints/382393.html)
 
++ [波音公司拒绝支付赎金，LockBit直接公布43GB文件](https://www.freebuf.com/news/383609.html)
+
