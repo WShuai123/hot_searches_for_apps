@@ -111,3 +111,9 @@
 
 + [《三位一体融合》将于12/15脱离EA推出正式版](https://www.3dmgame.com/news/202311/3881544.html)
 
++ [手绘动作游戏《幻想新国度：全扇飞2》上市宣传片](https://www.3dmgame.com/news/202311/3881548.html)
+
++ [开发团队亲自演示《无界》高级战斗技巧](https://www.3dmgame.com/news/202311/3881547.html)
+
++ [万智牌联动《古墓丽影》推出7张劳拉特别卡牌](https://www.3dmgame.com/news/202311/3881546.html)
+

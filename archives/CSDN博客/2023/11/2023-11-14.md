@@ -121,3 +121,5 @@
 
 + [云原生 黑马Kubernetes教程（K8S教程）笔记——第一章 kubernetes介绍——Master集群控制节点、Node工作负载节点、Pod控制单元](https://blog.csdn.net/Dontla/article/details/134342051)
 
++ [MySQL：语法速查手册【持续更新...】](https://blog.csdn.net/Fire_Cloud_1/article/details/134373417)
+
