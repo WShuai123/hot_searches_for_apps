@@ -189,3 +189,15 @@
 
 + [vue-组件注册及使用](https://blog.csdn.net/2302_76329106/article/details/134355791)
 
++ [深度神经网络算子参数量和计算量分析—卷积篇](https://blog.csdn.net/qq_46009046/article/details/134265365)
+
++ [Spring高手之路16——解析XML配置映射为BeanDefinition的源码](https://blog.csdn.net/qq_34115899/article/details/134186880)
+
++ [（十）Flask请求和响应](https://blog.csdn.net/qq_44907926/article/details/134368198)
+
++ [【愚公系列】2023年11月 Java教学课程 190-SpringCloud（Hystrix熔断器）](https://blog.csdn.net/aa2528877987/article/details/134366925)
+
++ [FastAPI 库（Python 的 Web 框架）基本使用指南（二）](https://blog.csdn.net/footless_bird/article/details/134369505)
+
++ [node实战——koa实现文件下载和图片/pdf/视频预览（node后端储备知识）](https://blog.csdn.net/qq_38870145/article/details/134367680)
+

@@ -57,3 +57,7 @@
 
 + [伊朗黑客对以色列科技界发动恶意软件攻击](https://www.freebuf.com/news/383615.html)
 
++ [z9：一款功能强大的PowerShell恶意软件检测与分析工具](https://www.freebuf.com/sectool/380907.html)
+
++ [凉凉！大型网络钓鱼即服务平台BulletProftLink被警方查封](https://www.freebuf.com/news/383614.html)
+

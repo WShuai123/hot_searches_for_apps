@@ -169,3 +169,11 @@
 
 + [动作冒险游戏《搞什么鸭》已在Steam正式推出](https://www.3dmgame.com/news/202311/3881506.html)
 
++ [狗爷再玩跨界 宣布成立自家游戏工作室Death Row Games](https://www.3dmgame.com/news/202311/3881511.html)
+
++ [快递送货随意致《宝可梦》梵高联名卡牌惨遭动物摧残](https://www.3dmgame.com/news/202311/3881510.html)
+
++ [《铁拳8》新角色“蕾娜”公布 神秘黑丝美女](https://www.3dmgame.com/news/202311/3881509.html)
+
++ [三丽鸥联动B站《梦职人与追忆之黑妖精》凯蒂猫必得](https://www.3dmgame.com/news/202311/3881508.html)
+
