@@ -25,3 +25,5 @@
 
 + [土豆兄弟(Brotato)](https://www.taptap.cn/app/256335)
 
++ [石油大亨](https://www.taptap.cn/app/40337)
+

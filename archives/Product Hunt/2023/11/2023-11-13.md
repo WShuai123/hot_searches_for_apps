@@ -101,3 +101,25 @@
 
 + [Fika](https://www.producthunt.com/posts/fika-8)
 
++ [GPTsdex](https://www.producthunt.com/posts/gptsdex)
+
++ [AI Tool Finder GPT by AI-Finder.net](https://www.producthunt.com/posts/ai-tool-finder-gpt-by-ai-finder-net)
+
++ [Tailscan 2 for Tailwind CSS](https://www.producthunt.com/posts/tailscan-2-for-tailwind-css)
+
++ [YBC Business Match](https://www.producthunt.com/posts/ybc-business-match)
+
++ [Same Day Landing Page](https://www.producthunt.com/posts/same-day-landing-page)
+
++ [GPTs Gallery](https://www.producthunt.com/posts/gpts-gallery)
+
++ [Drigmo](https://www.producthunt.com/posts/drigmo)
+
++ [Planfit - AI Personal Trainer](https://www.producthunt.com/posts/planfit-ai-personal-trainer)
+
++ [OTelBin](https://www.producthunt.com/posts/otelbin)
+
++ [Remix](https://www.producthunt.com/posts/remix-7)
+
++ [AI FitForge](https://www.producthunt.com/posts/ai-fitforge)
+

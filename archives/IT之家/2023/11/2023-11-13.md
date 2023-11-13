@@ -45,3 +45,7 @@
 
 + [巨亏 12.69 万亿韩元，三星“翻滚”下坡](https://m.ithome.com/html/732034.htm)
 
++ [魅族 21 手机预热：1.74mm 超窄边框，11 月 15 日开始预定](https://m.ithome.com/html/732115.htm)
+
++ [高端成了？消息称小米 14 / Pro 系列手机首销 10 天达 144.74 万台，打破自家纪录](https://m.ithome.com/html/732143.htm)
+

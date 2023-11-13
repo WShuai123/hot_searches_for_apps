@@ -177,3 +177,9 @@
 
 + [三丽鸥联动B站《梦职人与追忆之黑妖精》凯蒂猫必得](https://www.3dmgame.com/news/202311/3881508.html)
 
++ [表情包的海底大冒险 《萨卡班甲鱼》游戏登陆Switch](https://www.3dmgame.com/news/202311/3881514.html)
+
++ [《Incarnation》Steam页面上线 肉鸽动作射击](https://www.3dmgame.com/news/202311/3881512.html)
+
++ [前星际开发者吐槽辛辛苦苦做3A 收入还不如魔兽的氪金坐骑](https://www.3dmgame.com/news/202311/3881513.html)
+
