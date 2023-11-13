@@ -205,3 +205,11 @@
 
 + [传奇名作《怪医黑杰克》全新漫画11月22日刊载 AI辅助创作](https://www.3dmgame.com/news/202311/3881515.html)
 
++ [华为提出“太空宽带”目标：打造100Gbps+星际光互联网](https://www.3dmgame.com/news/202311/3881528.html)
+
++ [中国市场第一！小米周销量市占率21.9%：遥遥领先](https://www.3dmgame.com/news/202311/3881529.html)
+
++ [《守望先锋2》玩家数显著增长 暴雪信心更足了](https://www.3dmgame.com/news/202311/3881526.html)
+
++ [《Our Life on Water》Steam页面上线 水上生活模拟RPG](https://www.3dmgame.com/news/202311/3881527.html)
+

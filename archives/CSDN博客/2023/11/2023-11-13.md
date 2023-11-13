@@ -213,3 +213,7 @@
 
 + [Azure 机器学习：在 Azure 机器学习中使用 Azure OpenAI 模型](https://blog.csdn.net/magicyangjay111/article/details/134376746)
 
++ [【Linux】软硬链接和动静态库](https://blog.csdn.net/m0_69061857/article/details/134376938)
+
++ [【网络豆送书第六期】《嵌入式虚拟化技术与应用》](https://blog.csdn.net/yj11290301/article/details/134375693)
+
