@@ -41,3 +41,5 @@
 
 + [我国开通全球首条 1.2T 超高速下一代互联网主干通路，实现系统软、硬件设备的全部国产和自主可控](https://m.ithome.com/html/732131.htm)
 
++ [（更新：华为 Mate X5 折叠机涨价 1000 元为不实消息）MatePad Pro 13.2 平板涨价 500 元](https://m.ithome.com/html/732313.htm)
+

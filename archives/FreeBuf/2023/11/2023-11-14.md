@@ -51,3 +51,5 @@
 
 + [CISA 将 4 个 Juniper 漏洞添加到已知漏洞列表中](https://www.freebuf.com/news/383754.html)
 
++ [Windos应急响应与Linux应急响应总结与实战案例](https://www.freebuf.com/defense/383415.html)
+

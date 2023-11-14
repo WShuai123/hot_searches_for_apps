@@ -149,3 +149,9 @@
 
 + [《Linux从练气到飞升》No.26 Linux中的线程控制](https://blog.csdn.net/m0_67759533/article/details/134300606)
 
++ [百度文心一言](https://blog.csdn.net/Edwin_jade/article/details/134390973)
+
++ [Elasticsearch：ES|QL 动手实践](https://blog.csdn.net/UbuntuTouch/article/details/134377739)
+
++ [CSS特效009：音频波纹加载律动](https://blog.csdn.net/cuclife/article/details/134282407)
+

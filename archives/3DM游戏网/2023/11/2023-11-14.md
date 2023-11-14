@@ -207,3 +207,7 @@
 
 + [《禁闭求生》新版本上线 Steam开启免费体验](https://www.3dmgame.com/news/202311/3881579.html)
 
++ [《辐射76》五周年在即 将举行粉丝庆典活动](https://www.3dmgame.com/news/202311/3881595.html)
+
++ [摇一摇跳转被迫看广告！苹果忍不了 要出手整治App](https://www.3dmgame.com/news/202311/3881594.html)
+
