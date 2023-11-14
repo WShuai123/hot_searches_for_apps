@@ -49,3 +49,5 @@
 
 + [“华为 Mate X5 折叠机将涨价 1000 元”消息不实，爆料博主致歉](https://m.ithome.com/html/732376.htm)
 
++ [提前升级！小米 13 系列、Redmi K60 / Pro 今日起推送澎湃 OS 开发版](https://m.ithome.com/html/732472.htm)
+
