@@ -25,3 +25,5 @@
 
 + [辨识度拉满：荣耀 100 系列手机发布会定档 11 月 23 日，后置不规则镜头模组](https://m.ithome.com/html/732309.htm)
 
++ [英国男子从苹果官网购买 iPhone 15 Pro Max，却收到安卓山寨机](https://m.ithome.com/html/732547.htm)
+
