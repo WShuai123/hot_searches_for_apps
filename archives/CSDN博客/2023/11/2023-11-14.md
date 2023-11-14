@@ -193,3 +193,7 @@
 
 + [2023亚太杯数学建模C题思路](https://blog.csdn.net/math_assistant/article/details/134360766)
 
++ [水厂运行管理与供水安全性分析](https://blog.csdn.net/laizonghai/article/details/134399371)
+
++ [云原生微服务架构及实现技术](https://blog.csdn.net/ejinxian/article/details/134357132)
+

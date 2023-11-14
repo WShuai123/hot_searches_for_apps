@@ -279,3 +279,7 @@
 
 + [《霍格沃茨之遗》没有获得任何TGA大奖提名](https://www.3dmgame.com/news/202311/3881627.html)
 
++ [《霍格沃茨之遗》NS上市预告 游戏反响不错](https://www.3dmgame.com/news/202311/3881631.html)
+
++ [Netflix《星期三》第二季2024年4月开拍](https://www.3dmgame.com/news/202311/3881630.html)
+

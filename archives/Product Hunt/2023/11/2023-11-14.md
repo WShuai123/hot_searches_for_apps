@@ -241,3 +241,5 @@
 
 + [EMAIL2GO](https://www.producthunt.com/posts/email2go-2)
 
++ [Continuous Deployment by Plural](https://www.producthunt.com/posts/continuous-deployment-by-plural)
+
