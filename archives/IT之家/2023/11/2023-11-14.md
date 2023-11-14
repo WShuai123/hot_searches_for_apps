@@ -47,3 +47,5 @@
 
 + [三星 Galaxy S24 Ultra 手机最新渲染图曝光，据称“非常符合真机尺寸”](https://m.ithome.com/html/732234.htm)
 
++ [“华为 Mate X5 折叠机将涨价 1000 元”消息不实，爆料博主致歉](https://m.ithome.com/html/732376.htm)
+

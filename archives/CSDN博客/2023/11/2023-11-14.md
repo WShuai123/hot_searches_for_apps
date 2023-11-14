@@ -173,3 +173,9 @@
 
 + [Rust字符串详解](https://blog.csdn.net/m0_37816922/article/details/134281403)
 
++ [二蛋赠书八期：《Java物联网、人工智能和区块链编程实战》](https://blog.csdn.net/qq_28314431/article/details/134386999)
+
++ [数据库表的设计——范式](https://blog.csdn.net/m0_70325779/article/details/134312816)
+
++ [Jenkins 构建CICD](https://blog.csdn.net/chenyao1994/article/details/134365275)
+

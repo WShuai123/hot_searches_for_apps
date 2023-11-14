@@ -143,3 +143,95 @@
 
 + [Jotform for Beginners, Volume 2](https://www.producthunt.com/posts/jotform-for-beginners-volume-2)
 
++ [Ghosted.boo](https://www.producthunt.com/posts/ghosted-boo)
+
++ [Framify](https://www.producthunt.com/posts/framify)
+
++ [DocuSeal](https://www.producthunt.com/posts/docuseal)
+
++ [IdeasForTools](https://www.producthunt.com/posts/ideasfortools)
+
++ [FireJet](https://www.producthunt.com/posts/firejet)
+
++ [Trazable Copilot](https://www.producthunt.com/posts/trazable-copilot)
+
++ [Morgan](https://www.producthunt.com/posts/morgan)
+
++ [Axterior](https://www.producthunt.com/posts/axterior)
+
++ [UltimateGPT](https://www.producthunt.com/posts/ultimategpt)
+
++ [ProGPTs](https://www.producthunt.com/posts/progpts)
+
++ [TslaCast](https://www.producthunt.com/posts/tslacast)
+
++ [ChatCMO](https://www.producthunt.com/posts/chatcmo)
+
++ [MailKing by cloudHQ](https://www.producthunt.com/posts/mailking-by-cloudhq-1)
+
++ [Maps & Dioramas AR](https://www.producthunt.com/posts/maps-dioramas-ar)
+
++ [The Design Blog](https://www.producthunt.com/posts/the-design-blog)
+
++ [Flawless](https://www.producthunt.com/posts/flawless-3)
+
++ [Newji](https://www.producthunt.com/posts/newji)
+
++ [Black Friday Procrastinators' Toolkit](https://www.producthunt.com/posts/black-friday-procrastinators-toolkit)
+
++ [Floutwork](https://www.producthunt.com/posts/floutwork)
+
++ [ExcelBot](https://www.producthunt.com/posts/excelbot)
+
++ [Vid Breeze](https://www.producthunt.com/posts/vid-breeze)
+
++ [FeedShelf](https://www.producthunt.com/posts/feedshelf)
+
++ [Piktochart AI](https://www.producthunt.com/posts/piktochart-ai)
+
++ [Tefez Scheduling](https://www.producthunt.com/posts/tefez-scheduling)
+
++ [Debaters.ai](https://www.producthunt.com/posts/debaters-ai)
+
++ [Typper Links](https://www.producthunt.com/posts/typper-links)
+
++ [Choose Tech](https://www.producthunt.com/posts/choose-tech)
+
++ [Playwright Testing Cloud by Argos](https://www.producthunt.com/posts/playwright-testing-cloud-by-argos)
+
++ [ShadowTraffic](https://www.producthunt.com/posts/shadowtraffic)
+
++ [Bugz.FYI](https://www.producthunt.com/posts/bugz-fyi)
+
++ [Hubql](https://www.producthunt.com/posts/hubql)
+
++ [Buildai Website](https://www.producthunt.com/posts/buildai-website)
+
++ [Influencer ROI Measurement for Shopify](https://www.producthunt.com/posts/influencer-roi-measurement-for-shopify)
+
++ [UI Table Builder](https://www.producthunt.com/posts/ui-table-builder)
+
++ [AI-Powered Meeting Notes](https://www.producthunt.com/posts/ai-powered-meeting-notes)
+
++ [novita.ai](https://www.producthunt.com/posts/novita-ai-2)
+
++ [lockrMail Chrome Extension](https://www.producthunt.com/posts/lockrmail-chrome-extension)
+
++ [Plural Continuous Deployment](https://www.producthunt.com/posts/plural-continuous-deployment)
+
++ [Typescale](https://www.producthunt.com/posts/typescale)
+
++ [Blocks](https://www.producthunt.com/posts/blocks-203dc42b-d31e-4e75-a6c6-17c05e7399d4)
+
++ [Yorba](https://www.producthunt.com/posts/yorba)
+
++ [Verta AI Workbench](https://www.producthunt.com/posts/verta-ai-workbench)
+
++ [Pexmotion](https://www.producthunt.com/posts/pexmotion)
+
++ [MFA by Logto](https://www.producthunt.com/posts/mfa-by-logto)
+
++ [Pitch 2.0](https://www.producthunt.com/posts/pitch-2-0)
+
++ [Mentionitis](https://www.producthunt.com/posts/mentionitis-2)
+

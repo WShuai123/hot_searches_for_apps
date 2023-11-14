@@ -249,3 +249,23 @@
 
 + [人生模拟游戏《inZOI》实机演示 韩国版《模拟人生》](https://www.3dmgame.com/news/202311/3881614.html)
 
++ [2023中国最佳品牌排行榜：腾讯第一 小米领先华为](https://www.3dmgame.com/news/202311/3881624.html)
+
++ [印度考虑对电动汽车进口减税五年 以吸引特斯拉等制造商](https://www.3dmgame.com/news/202311/3881623.html)
+
++ [我国首个天然气处理智能工厂落户塔里木 年处理天然气100亿方](https://www.3dmgame.com/news/202311/3881622.html)
+
++ [Steam最新一周销量榜 《使命召唤》达成二连冠](https://www.3dmgame.com/news/202311/3881621.html)
+
++ [《王者天下》第5季主艺图公开 新登场角色亮相](https://www.3dmgame.com/news/202311/3881620.html)
+
++ [小屏手机春天来了！小米14狂卖百万台 曝友商开始立项1.5K小屏旗舰](https://www.3dmgame.com/news/202311/3881619.html)
+
++ [暴雪老兵工作室很乐意帮助开发《星际争霸》新作](https://www.3dmgame.com/news/202311/3881618.html)
+
++ [传闻：Atlus多款新作开发中 《女神异闻录6》2025年发售](https://www.3dmgame.com/news/202311/3881617.html)
+
++ [网飞有意通过云游戏拓广至手游以外游戏平台](https://www.3dmgame.com/news/202311/3881616.html)
+
++ [不用坐班日结800元？饿了么提醒这是诈骗](https://www.3dmgame.com/news/202311/3881615.html)
+

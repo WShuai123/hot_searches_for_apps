@@ -151,3 +151,11 @@
 
 + [Cat website design & animation full case study - Ragdoll Islands](https://dribbble.com/shots/)
 
++ [Today's Vibes](https://dribbble.com/shots/)
+
++ [Zena: Credit Card Details](https://dribbble.com/shots/)
+
++ [P-Labs](https://dribbble.com/shots/)
+
++ [Corx - Branding design for the digital money transfer company](https://dribbble.com/shots/)
+
