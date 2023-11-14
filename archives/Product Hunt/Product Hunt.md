@@ -109,3 +109,35 @@
 
 + [1PhotoAI](https://www.producthunt.com/posts/1photoai)
 
++ [Tadpole](https://www.producthunt.com/posts/tadpole)
+
++ [Reflect AI Search](https://www.producthunt.com/posts/reflect-ai-search)
+
++ [Facetopia](https://www.producthunt.com/posts/facetopia)
+
++ [jotlog](https://www.producthunt.com/posts/jotlog)
+
++ [Shillings](https://www.producthunt.com/posts/shillings)
+
++ [QuickRefer](https://www.producthunt.com/posts/quickrefer)
+
++ [Snappy Staff](https://www.producthunt.com/posts/snappy-staff)
+
++ [Boulder Creator](https://www.producthunt.com/posts/boulder-creator)
+
++ [LeadSavvy Pro](https://www.producthunt.com/posts/leadsavvy-pro)
+
++ [Juniper](https://www.producthunt.com/posts/juniper-4)
+
++ [Scenery](https://www.producthunt.com/posts/scenery-3)
+
++ [CoHost: Podcast Analytics Prefix](https://www.producthunt.com/posts/cohost-podcast-analytics-prefix)
+
++ [Subsystem](https://www.producthunt.com/posts/subsystem)
+
++ [Memory Lane](https://www.producthunt.com/posts/memory-lane-2)
+
++ [AskYoda by Eden AI](https://www.producthunt.com/posts/askyoda-by-eden-ai)
+
++ [Drylendar](https://www.producthunt.com/posts/drylendar)
+

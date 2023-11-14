@@ -57,3 +57,7 @@
 
 + [VTScanner：一款功能强大的文件扫描和恶意软件分析检测工具](https://www.freebuf.com/sectool/380565.html)
 
++ [30岁，年薪百万，网络安全总监的聊天记录被流出](https://www.freebuf.com/articles/network/383718.html)
+
++ [高危险性后门入侵Python混淆包，已有数千名开发者中招](https://www.freebuf.com/news/383796.html)
+

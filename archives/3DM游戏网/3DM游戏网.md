@@ -235,3 +235,15 @@
 
 + [爆款续作《全网公敌：新世界》Steam限时试玩版首次公开！](https://www.3dmgame.com/news/202311/3881605.html)
 
++ [《炽焰之帆》Steam正式推出 好评航海竞技游戏](https://www.3dmgame.com/news/202311/3881611.html)
+
++ [暴雪计划加快《魔兽世界》资料片开发进度：很自信](https://www.3dmgame.com/news/202311/3881612.html)
+
++ [阿里发布自研夸克大模型：整体能力已超GPT-3.5](https://www.3dmgame.com/news/202311/3881613.html)
+
++ [特斯拉皮卡有特殊合约：购买后一年内不许转卖](https://www.3dmgame.com/news/202311/3881608.html)
+
++ [海上狼人杀《恐惧饥饿》宣布将停运 12月初终止销售](https://www.3dmgame.com/news/202311/3881609.html)
+
++ [日本2万亿日元支持芯片及AI产业 含对台积电援助](https://www.3dmgame.com/news/202311/3881610.html)
+
