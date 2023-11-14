@@ -133,3 +133,15 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134386112)
 
++ [AI大模型低成本快速定制秘诀：RAG和向量数据库](https://blog.csdn.net/herosunly/article/details/134374699)
+
++ [【Python Opencv】Opencv画图形](https://blog.csdn.net/m0_62599305/article/details/134344124)
+
++ [【网络豆送书第六期】《嵌入式虚拟化技术与应用》](https://blog.csdn.net/yj11290301/article/details/134375693)
+
++ [数据库 并发控制](https://blog.csdn.net/weixin_65951505/article/details/134368963)
+
++ [Python实现猎人猎物优化算法(HPO)优化XGBoost回归模型(XGBRegressor算法)项目实战](https://blog.csdn.net/weixin_42163563/article/details/134378365)
+
++ [【前端异常】JavaScript错误处理：分析 Uncaught(in promise) error](https://blog.csdn.net/weixin_44299027/article/details/134382584)
+

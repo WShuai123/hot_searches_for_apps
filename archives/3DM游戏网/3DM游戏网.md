@@ -155,3 +155,21 @@
 
 + [亚马逊游戏部门计划再裁员180人](https://www.3dmgame.com/news/202311/3881552.html)
 
++ [《斗破苍穹》真人电影预告 11月17日在三大平台上映](https://www.3dmgame.com/news/202311/3881575.html)
+
++ [《DayZ》更新后同时在线玩家破记录 近7万人](https://www.3dmgame.com/news/202311/3881569.html)
+
++ [暴雪游戏出现神奇卡死BUG：仅针对挪威玩家](https://www.3dmgame.com/news/202311/3881576.html)
+
++ [解谜游戏《列车交通管理员》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881573.html)
+
++ [Atlus宣布2024年4月起员工平均加薪15% 已创立37年](https://www.3dmgame.com/news/202311/3881574.html)
+
++ [PS5 Slim版光驱可以轻松配对不同的主机](https://www.3dmgame.com/news/202311/3881572.html)
+
++ [B站退股网元圣唐 腾讯增持网元圣唐](https://www.3dmgame.com/news/202311/3881571.html)
+
++ [《龙腾世纪4：恐狼》开发者泄露游戏将于2024年发售](https://www.3dmgame.com/news/202311/3881570.html)
+
++ [《生化危机4：重制版》iOS版新截图 看起来也挺美](https://www.3dmgame.com/news/202311/3881568.html)
+

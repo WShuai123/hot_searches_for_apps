@@ -33,3 +33,5 @@
 
 + [老黄深夜炸场！英伟达发布全球最强 AI 芯片 H200：性能飙升 90%，Llama 2 推理速度翻倍](https://m.ithome.com/html/732284.htm)
 
++ [虽迟但到，消息称京东方已开始向苹果 iPhone 15 标准版供应屏幕](https://m.ithome.com/html/732251.htm)
+
