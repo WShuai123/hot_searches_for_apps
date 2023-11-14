@@ -67,3 +67,5 @@
 
 + [连十五秒都坚持不了嘛？](http://www.acfun.cn/v/ac42944318)
 
++ [快速看完一局韩服王者斗殴局#550 Rooster, Loki, Bwipo, MoHaM, Ham](http://www.acfun.cn/v/ac42935852)
+
