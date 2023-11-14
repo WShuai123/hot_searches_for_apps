@@ -109,3 +109,5 @@
 
 + [《沙丘：香料战争》将于11月28日登陆Xbox Series](https://www.3dmgame.com/news/202311/3881635.html)
 
++ [拉瑞安：我们下一个大作将突破众多边界](https://www.3dmgame.com/news/202311/3881639.html)
+
