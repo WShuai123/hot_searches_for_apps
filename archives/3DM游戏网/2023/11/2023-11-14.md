@@ -247,3 +247,5 @@
 
 + [日本2万亿日元支持芯片及AI产业 含对台积电援助](https://www.3dmgame.com/news/202311/3881610.html)
 
++ [人生模拟游戏《inZOI》实机演示 韩国版《模拟人生》](https://www.3dmgame.com/news/202311/3881614.html)
+

@@ -45,3 +45,5 @@
 
 + [AITO 汽车官方：东莞寮步用户中心试驾事故由用户误将油门当刹车导致](https://m.ithome.com/html/732291.htm)
 
++ [三星 Galaxy S24 Ultra 手机最新渲染图曝光，据称“非常符合真机尺寸”](https://m.ithome.com/html/732234.htm)
+

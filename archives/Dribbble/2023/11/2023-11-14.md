@@ -149,3 +149,5 @@
 
 + [EchoTune - AI Dashboard UX-UI design](https://dribbble.com/shots/)
 
++ [Cat website design & animation full case study - Ragdoll Islands](https://dribbble.com/shots/)
+
