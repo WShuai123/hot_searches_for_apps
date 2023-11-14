@@ -189,3 +189,7 @@
 
 + [2023亚太杯数学建模思路 - 复盘：校园消费行为分析](https://blog.csdn.net/dc_sinor/article/details/134383409)
 
++ [详解IP安全：IPSec协议簇 | AH协议 | ESP协议 | IKE协议](https://blog.csdn.net/m0_69519887/article/details/134383369)
+
++ [2023亚太杯数学建模C题思路](https://blog.csdn.net/math_assistant/article/details/134360766)
+

@@ -273,3 +273,9 @@
 
 + [《龙之信条2》沙特完成分级 距离发售不远了](https://www.3dmgame.com/news/202311/3881626.html)
 
++ [CDPR：《赛博朋克2077》续作采用虚幻5开发是一大挑战 但优势也很明显](https://www.3dmgame.com/news/202311/3881629.html)
+
++ [英伟达发布H200！巩固AI芯片霸主地位](https://www.3dmgame.com/news/202311/3881628.html)
+
++ [《霍格沃茨之遗》没有获得任何TGA大奖提名](https://www.3dmgame.com/news/202311/3881627.html)
+
