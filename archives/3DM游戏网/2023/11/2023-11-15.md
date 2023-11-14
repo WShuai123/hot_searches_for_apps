@@ -101,3 +101,11 @@
 
 + [TGA最佳独立游戏提名引争议 《潜水员戴夫》不是独立游戏？](https://www.3dmgame.com/news/202311/3881584.html)
 
++ [剧情驱动生活模拟游戏《尾巴之旅》公布](https://www.3dmgame.com/news/202311/3881638.html)
+
++ [《地心护核者》2024年夏季脱离EA推出正式版](https://www.3dmgame.com/news/202311/3881637.html)
+
++ [《纵横命途》将于11月29日推出抢先体验版](https://www.3dmgame.com/news/202311/3881636.html)
+
++ [《沙丘：香料战争》将于11月28日登陆Xbox Series](https://www.3dmgame.com/news/202311/3881635.html)
+

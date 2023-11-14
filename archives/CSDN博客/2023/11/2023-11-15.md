@@ -101,3 +101,17 @@
 
 + [国内外四款强大的远控使用体验：ToDesk、向日葵、AnyDesk、Microsoft 远程桌面横向比较](https://blog.csdn.net/m0_61933976/article/details/134338834)
 
++ [linux tmpfs文件系统](https://blog.csdn.net/weixin_42740431/article/details/134318875)
+
++ [51单片机应用从零开始（二）](https://blog.csdn.net/MANONGDKY/article/details/134369041)
+
++ [Docker学习——⑧](https://blog.csdn.net/qq_56044032/article/details/134337055)
+
++ [【Hadoop】MapReduce详解](https://blog.csdn.net/qq_35995514/article/details/134358873)
+
++ [基于单片机智能输液器监控系统的设计](https://blog.csdn.net/2301_79745346/article/details/134374616)
+
++ [【从零开始学习Linux】一文带你了解Shell外壳及用户权限（二）](https://blog.csdn.net/m0_75219751/article/details/134353259)
+
++ [Web安全之PHP的伪协议漏洞利用，以及伪协议漏洞防护方法](https://blog.csdn.net/Scalzdp/article/details/134337050)
+
