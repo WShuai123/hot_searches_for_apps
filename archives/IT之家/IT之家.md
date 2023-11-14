@@ -51,3 +51,11 @@
 
 + [提前升级！小米 13 系列、Redmi K60 / Pro 今日起推送澎湃 OS 开发版](https://m.ithome.com/html/732472.htm)
 
++ [集邦咨询：华为手机本土零件占比 90%](https://m.ithome.com/html/732360.htm)
+
++ [小米澎湃 OS 首个开发版更新日志公布：底层重构，安装包大小 6GB](https://m.ithome.com/html/732518.htm)
+
++ [摄像头平了，红魔游戏手机 9 Pro 号称“直板手机的终极形态”](https://m.ithome.com/html/732332.htm)
+
++ [vivo 黄韬：X100 / Pro 系列手机“太缺货了”，预售同比上代 X90 系列增长 740%](https://m.ithome.com/html/732321.htm)
+

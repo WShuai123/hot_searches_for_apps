@@ -61,3 +61,5 @@
 
 + [高危险性后门入侵Python混淆包，已有数千名开发者中招](https://www.freebuf.com/news/383796.html)
 
++ [财政部、国家网信办发布《会计师事务所数据安全管理暂行办法（征求意见稿）》](https://www.freebuf.com/articles/383846.html)
+

@@ -51,3 +51,33 @@
 
 + [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
++ [netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
+
++ [disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics)
+
++ [atomicals / atomicals-js](https://github.com/atomicals/atomicals-js)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [prettier / prettier](https://github.com/prettier/prettier)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [ai-boost / Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs)
+
++ [saadeghi / daisyui](https://github.com/saadeghi/daisyui)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+
++ [ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR)
+
++ [chatchat-space / Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+
++ [CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)
+
++ [luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)
+

@@ -163,3 +163,17 @@
 
 + [Calendar Dashboard](https://dribbble.com/shots/)
 
++ [Owl's Head Logomark Illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [Cute Corgi Logo](https://dribbble.com/shots/)
+
++ [Home Turf](https://dribbble.com/shots/)
+
++ [Highland](https://dribbble.com/shots/)
+
++ [Shape Studies: 050](https://dribbble.com/shots/)
+
++ [New Balance sneakers](https://dribbble.com/shots/)
+
++ [Karachi Cityscape](https://dribbble.com/shots/)
+

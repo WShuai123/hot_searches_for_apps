@@ -129,3 +129,13 @@
 
 + [猫狗：这个冬天有点冷](http://www.acfun.cn/v/ac42943877)
 
++ [这一刻我沦陷了~](http://www.acfun.cn/v/ac42944827)
+
++ [各种奇葩救援现场，消防员是怎么做到憋住不笑的](http://www.acfun.cn/v/ac42943952)
+
++ [起猛了！看见毒萝滑冰](http://www.acfun.cn/v/ac42944634)
+
++ [【STN慢报】这年头，mod做个商业化都得打高级战争了](http://www.acfun.cn/v/ac42944522)
+
++ [加沙地道：平时走私肯德基，战时运输火箭弹](http://www.acfun.cn/v/ac42943937)
+
