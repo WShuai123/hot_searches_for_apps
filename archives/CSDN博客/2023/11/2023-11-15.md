@@ -117,3 +117,5 @@
 
 + [大模型时代的机器人研究](https://blog.csdn.net/xw555666/article/details/134404242)
 
++ [Ora2Pg工具迁移Oracle到openGauss](https://blog.csdn.net/weixin_41645135/article/details/134405861)
+
