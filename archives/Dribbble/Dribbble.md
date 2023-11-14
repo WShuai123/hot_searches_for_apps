@@ -141,3 +141,9 @@
 
 + [Coffee Packaging and Branding for Driftaway: Explorers Box](https://dribbble.com/shots/)
 
++ [Clutch 3D Motion & Visual Identity Branding](https://dribbble.com/shots/)
+
++ [Zcash logo deisign update](https://dribbble.com/shots/)
+
++ [STYLEEN || Clothing Fashion Brand](https://dribbble.com/shots/)
+

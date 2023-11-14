@@ -43,3 +43,5 @@
 
 + [（更新：华为 Mate X5 折叠机涨价 1000 元为不实消息）MatePad Pro 13.2 平板涨价 500 元](https://m.ithome.com/html/732313.htm)
 
++ [AITO 汽车官方：东莞寮步用户中心试驾事故由用户误将油门当刹车导致](https://m.ithome.com/html/732291.htm)
+

@@ -155,3 +155,9 @@
 
 + [CSS特效009：音频波纹加载律动](https://blog.csdn.net/cuclife/article/details/134282407)
 
++ [建模分析 | 差速轮式移动机器人运动学建模(附Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/132384439)
+
++ [Rust 中的引用与借用](https://blog.csdn.net/u014388408/article/details/134263933)
+
++ [【MySQL】事务(中)](https://blog.csdn.net/qq_62939852/article/details/134383422)
+
