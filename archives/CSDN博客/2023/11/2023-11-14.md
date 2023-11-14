@@ -129,3 +129,7 @@
 
 + [学习网络编程No.9【应用层协议之HTTPS】](https://blog.csdn.net/weixin_74004489/article/details/134033437)
 
++ [FastReport .NET 2023.3.10 Crack](https://blog.csdn.net/john_dwh/article/details/134390222)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134386112)
+

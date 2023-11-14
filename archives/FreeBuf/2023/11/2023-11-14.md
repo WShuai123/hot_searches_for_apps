@@ -45,3 +45,5 @@
 
 + [LoveGPT：约会平台中的魅影](https://www.freebuf.com/articles/network/380559.html)
 
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+
