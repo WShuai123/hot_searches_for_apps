@@ -59,3 +59,5 @@
 
 + [vivo 黄韬：X100 / Pro 系列手机“太缺货了”，预售同比上代 X90 系列增长 740%](https://m.ithome.com/html/732321.htm)
 
++ [消息称苹果要叫停“摇一摇”跳转广告功能，淘宝、抖音等头部 App 回应](https://m.ithome.com/html/732512.htm)
+

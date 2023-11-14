@@ -271,3 +271,5 @@
 
 + [外媒称iOS 18将是一次重大更新， 且iPhone 16在硬件上没有重大升级](https://www.3dmgame.com/news/202311/3881625.html)
 
++ [《龙之信条2》沙特完成分级 距离发售不远了](https://www.3dmgame.com/news/202311/3881626.html)
+
