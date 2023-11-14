@@ -55,3 +55,5 @@
 
 + [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
 
++ [VTScanner：一款功能强大的文件扫描和恶意软件分析检测工具](https://www.freebuf.com/sectool/380565.html)
+

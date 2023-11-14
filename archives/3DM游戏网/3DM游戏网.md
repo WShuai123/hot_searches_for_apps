@@ -219,3 +219,19 @@
 
 + [《崩坏：星穹铁道》藿藿角色PV——「回魂夜」](https://www.3dmgame.com/news/202311/3881596.html)
 
++ [《Struggle F.O》Steam页面上线 少女冒险幻想ARPG](https://www.3dmgame.com/news/202311/3881606.html)
+
++ [《彩虹六号：围攻》年8第4季“冰封行动”新干员即将推出](https://www.3dmgame.com/news/202311/3881607.html)
+
++ [《博德之门3》游戏动画主管去世 拉瑞安痛失大将](https://www.3dmgame.com/news/202311/3881600.html)
+
++ [《七大罪：起源》公布全新预告 发售日期待定](https://www.3dmgame.com/news/202311/3881601.html)
+
++ [《生化奇兵》总监被取消合作僵尸FPS 比求生之路早](https://www.3dmgame.com/news/202311/3881602.html)
+
++ [《名侦探皮卡丘 闪电回归》二手价格崩盘 但3DS前作价格上涨](https://www.3dmgame.com/news/202311/3881603.html)
+
++ [《极限竞速：地平线5》领克杯极速挑战赛决赛圆满结束！恭喜SEVENLDH获得冠军！](https://www.3dmgame.com/news/202311/3881604.html)
+
++ [爆款续作《全网公敌：新世界》Steam限时试玩版首次公开！](https://www.3dmgame.com/news/202311/3881605.html)
+
