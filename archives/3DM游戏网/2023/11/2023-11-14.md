@@ -173,3 +173,37 @@
 
 + [《生化危机4：重制版》iOS版新截图 看起来也挺美](https://www.3dmgame.com/news/202311/3881568.html)
 
++ [斯嘉丽回应黑寡妇回归传闻：她复活需要奇迹](https://www.3dmgame.com/news/202311/3881593.html)
+
++ [《女神异闻录5》剧情简介 《P5T》11月17日发售](https://www.3dmgame.com/news/202311/3881591.html)
+
++ [高玩的修养《博德之门3》玩家50分钟达成最速与熊修成正果](https://www.3dmgame.com/news/202311/3881592.html)
+
++ [暴雪拒绝透露暗黑4新职业 但泄露了一些线索](https://www.3dmgame.com/news/202311/3881590.html)
+
++ [《彩虹六号：围攻》将推出类似CS的皮肤交易市场](https://www.3dmgame.com/news/202311/3881589.html)
+
++ [万代南梦宫成立新游戏代工团队 与任天堂合作密切](https://www.3dmgame.com/news/202311/3881588.html)
+
++ [高通骁龙7 Gen3首曝 台积电4nm代工预计明年商用](https://www.3dmgame.com/news/202311/3881587.html)
+
++ [《全网公敌：新世界》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881586.html)
+
++ [冈导确认：新《超人：传承》电影未因罢工延期](https://www.3dmgame.com/news/202311/3881585.html)
+
++ [TGA最佳独立游戏提名引争议 《潜水员戴夫》不是独立游戏？](https://www.3dmgame.com/news/202311/3881584.html)
+
++ [《最终幻想7：重生》角色介绍 扎克斯跨越死线生还了](https://www.3dmgame.com/news/202311/3881582.html)
+
++ [《生化奇兵》网飞真人版将有让粉丝吃惊的“小改编”](https://www.3dmgame.com/news/202311/3881581.html)
+
++ [《霍格沃茨之遗》Switch版发售 体验试玩反响不错](https://www.3dmgame.com/news/202311/3881580.html)
+
++ [种田单机《古镇物语》定名《古镇闲居》WePlay现场试玩](https://www.3dmgame.com/news/202311/3881578.html)
+
++ [索尼预告2023年黑五折扣计划 基础会员订阅打7折](https://www.3dmgame.com/news/202311/3881577.html)
+
++ [英伟达发布全球最强AI芯片H200：性能较H100提升近一倍](https://www.3dmgame.com/news/202311/3881583.html)
+
++ [《禁闭求生》新版本上线 Steam开启免费体验](https://www.3dmgame.com/news/202311/3881579.html)
+

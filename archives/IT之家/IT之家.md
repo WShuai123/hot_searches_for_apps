@@ -35,3 +35,9 @@
 
 + [虽迟但到，消息称京东方已开始向苹果 iPhone 15 标准版供应屏幕](https://m.ithome.com/html/732251.htm)
 
++ [网传女乘客购票默认为列车上铺，12306 辟谣：均为随机出票](https://m.ithome.com/html/732192.htm)
+
++ [vivo WATCH 3 手表发布：首发自研蓝河系统，支持独立通信，首销 1049 元起](https://m.ithome.com/html/732256.htm)
+
++ [我国开通全球首条 1.2T 超高速下一代互联网主干通路，实现系统软、硬件设备的全部国产和自主可控](https://m.ithome.com/html/732131.htm)
+

@@ -145,3 +145,7 @@
 
 + [【前端异常】JavaScript错误处理：分析 Uncaught(in promise) error](https://blog.csdn.net/weixin_44299027/article/details/134382584)
 
++ [redis和缓存及相关问题和解决办法 什么是缓存预热、缓存穿透、缓存雪崩、缓存击穿](https://blog.csdn.net/dream_ready/article/details/133501439)
+
++ [《Linux从练气到飞升》No.26 Linux中的线程控制](https://blog.csdn.net/m0_67759533/article/details/134300606)
+
