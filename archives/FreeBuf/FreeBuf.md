@@ -41,3 +41,7 @@
 
 + [框架安全-CVE 复现&Apache Shiro&Apache Solr漏洞复现](https://www.freebuf.com/articles/web/382559.html)
 
++ [FreeBuf早报 | ChatGPT遭微软内部禁用；欧洲议会通过《数据法案》](https://www.freebuf.com/news/383655.html)
+
++ [LoveGPT：约会平台中的魅影](https://www.freebuf.com/articles/network/380559.html)
+

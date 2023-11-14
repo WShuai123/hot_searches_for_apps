@@ -117,3 +117,9 @@
 
 + [万智牌联动《古墓丽影》推出7张劳拉特别卡牌](https://www.3dmgame.com/news/202311/3881546.html)
 
++ [《自杀小队：战胜正义联盟》本周四公布故事和游戏玩法](https://www.3dmgame.com/news/202311/3881551.html)
+
++ [任天堂对马里奥赛车新作开发加大投入 新3D马里奥画面出色](https://www.3dmgame.com/news/202311/3881549.html)
+
++ [消息称马里奥赛车新作2025年末登陆Switch 2](https://www.3dmgame.com/news/202311/3881550.html)
+

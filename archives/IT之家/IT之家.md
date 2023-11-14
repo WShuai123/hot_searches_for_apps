@@ -27,3 +27,7 @@
 
 + [vivo X100 系列手机全球首发天玑 9300 处理器、LPDDR5T 内存，安兔兔跑分超 224 万分](https://m.ithome.com/html/732261.htm)
 
++ [HarmonyOS NEXT 不再兼容安卓，美团与华为达成合作：启动鸿蒙原生应用开发](https://m.ithome.com/html/732289.htm)
+
++ [车评人韩路爆料小米汽车信息：定位 C 级豪华，售价超 30 万 / 高配近 40 万](https://m.ithome.com/html/732285.htm)
+

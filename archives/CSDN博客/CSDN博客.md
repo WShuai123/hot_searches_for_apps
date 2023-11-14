@@ -123,3 +123,9 @@
 
 + [MySQL：语法速查手册【持续更新...】](https://blog.csdn.net/Fire_Cloud_1/article/details/134373417)
 
++ [【计算机网络】VRRP协议理论和配置](https://blog.csdn.net/m0_65277261/article/details/134387329)
+
++ [进亦忧，退亦忧，Github Copilot 集成进入 Visual Studio 带来的思考](https://blog.csdn.net/goldenhawking/article/details/134344591)
+
++ [学习网络编程No.9【应用层协议之HTTPS】](https://blog.csdn.net/weixin_74004489/article/details/134033437)
+
