@@ -119,3 +119,9 @@
 
 + [Ora2Pg工具迁移Oracle到openGauss](https://blog.csdn.net/weixin_41645135/article/details/134405861)
 
++ [MySQL库的操作『增删改查 ‖ 编码问题 ‖ 备份与恢复』](https://blog.csdn.net/weixin_61437787/article/details/134399473)
+
++ [Linux Zabbix企业级监控平台+cpolar实现远程访问](https://blog.csdn.net/2301_77485708/article/details/134383585)
+
++ [【电路笔记】-诺顿定理（Norton‘s Theorem）](https://blog.csdn.net/wujuxKkoolerter/article/details/134409039)
+

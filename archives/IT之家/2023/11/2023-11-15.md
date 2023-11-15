@@ -27,3 +27,5 @@
 
 + [英国男子从苹果官网购买 iPhone 15 Pro Max，却收到安卓山寨机](https://m.ithome.com/html/732547.htm)
 
++ [骁龙 7 Gen 3 测试版规格曝光：台积电 4nm 工艺，主频 2.63 GHz](https://m.ithome.com/html/732552.htm)
+

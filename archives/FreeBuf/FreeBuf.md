@@ -41,3 +41,7 @@
 
 + [阿里云“崩了”，相关App组团上热搜](https://www.freebuf.com/news/383618.html)
 
++ [FreeBuf早报 | 英雄联盟EUW服务器遭攻击后宕机；丹麦遭最大规模网络攻击](https://www.freebuf.com/news/383841.html)
+
++ [2023年顶级网络安全并购交易](https://www.freebuf.com/news/383585.html)
+

@@ -111,3 +111,19 @@
 
 + [拉瑞安：我们下一个大作将突破众多边界](https://www.3dmgame.com/news/202311/3881639.html)
 
++ [《堡垒之夜》与TGA合作开放年度岛屿评选活动](https://www.3dmgame.com/news/202311/3881647.html)
+
++ [《拉娜的星球》2024年春季登陆Switch和PS5、PS4](https://www.3dmgame.com/news/202311/3881646.html)
+
++ [探索狂野苏格兰高地《高地之歌》12月5日发售](https://www.3dmgame.com/news/202311/3881645.html)
+
++ [像素动作探索游戏《奇美拉之剑》明春登陆Switch](https://www.3dmgame.com/news/202311/3881644.html)
+
++ [505母公司Digital Bros计划裁掉30%的员工](https://www.3dmgame.com/news/202311/3881643.html)
+
++ [Switch版《星际拓荒》将于12月7日发售](https://www.3dmgame.com/news/202311/3881642.html)
+
++ [《阿凡达：潘多拉边境》季票详情 含两个故事DLC](https://www.3dmgame.com/news/202311/3881641.html)
+
++ [网飞电影《宝可梦礼宾部》12月28日开播](https://www.3dmgame.com/news/202311/3881640.html)
+
