@@ -141,3 +141,13 @@
 
 + [计算机 - - - 浏览器网页打开本地exe程序，网页打开微信，网页打开迅雷](https://blog.csdn.net/weixin_48430685/article/details/134408941)
 
++ [Linux项目自动化构建工具---make/Makefile](https://blog.csdn.net/m0_71746526/article/details/134411695)
+
++ [数据分析法宝，一个 SQL 语句查询多个异构数据源](https://blog.csdn.net/NineData/article/details/134394744)
+
++ [uniapp大概是怎么个开发法（前端）](https://blog.csdn.net/aZHANGJIANZHENa/article/details/134309779)
+
++ [Python之冒泡排序(AI自动写文章项目测试）](https://blog.csdn.net/weixin_46211269/article/details/134411365)
+
++ [一篇文章教会你什么是C++异常](https://blog.csdn.net/kingxzq/article/details/134399259)
+

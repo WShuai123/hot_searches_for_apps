@@ -41,3 +41,5 @@
 
 + [五菱宏光 MINIEV 第三代马卡龙上市：续航 215 公里，售 4.68 万](https://m.ithome.com/html/732539.htm)
 
++ [小米汽车 SU7 / Pro / Max 工信部“证件照”正式亮相：溜背式设计，还有“创始版”车型](https://m.ithome.com/html/732747.htm)
+

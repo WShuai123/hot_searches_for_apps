@@ -157,3 +157,61 @@
 
 + [Joberty](https://www.producthunt.com/posts/joberty)
 
++ [Records - A Simple Video Form Builder](https://www.producthunt.com/posts/records-a-simple-video-form-builder)
+
++ [Annotate](https://www.producthunt.com/posts/annotate-5)
+
++ [Ohcryp: Crypto News at a Glance](https://www.producthunt.com/posts/ohcryp-crypto-news-at-a-glance)
+
++ [Einblick Prompt AI for JupyterLab](https://www.producthunt.com/posts/einblick-prompt-ai-for-jupyterlab)
+
++ [Otto AI](https://www.producthunt.com/posts/otto-ai)
+
++ [Recty AI - Thumbnail Generator](https://www.producthunt.com/posts/recty-ai-thumbnail-generator)
+
++ [ketl](https://www.producthunt.com/posts/ketl)
+
++ [Letty](https://www.producthunt.com/posts/letty)
+
++ [The North](https://www.producthunt.com/posts/the-north)
+
++ [GPTs Nest](https://www.producthunt.com/posts/gpts-nest)
+
++ [supastarter for Nuxt 3](https://www.producthunt.com/posts/supastarter-for-nuxt-3)
+
++ [Signlz AI: Alpha Release](https://www.producthunt.com/posts/signlz-ai-alpha-release)
+
++ [Resume Generator](https://www.producthunt.com/posts/resume-generator)
+
++ [Amiilog for iOS](https://www.producthunt.com/posts/amiilog-for-ios)
+
++ [Autoblocks 2.0](https://www.producthunt.com/posts/autoblocks-2-0)
+
++ [Secfi Portfolio](https://www.producthunt.com/posts/secfi-portfolio)
+
++ [Document360 2.0](https://www.producthunt.com/posts/document360-2-0)
+
++ [AI Courthouse](https://www.producthunt.com/posts/ai-courthouse)
+
++ [AI Product Insights Feed](https://www.producthunt.com/posts/ai-product-insights-feed)
+
++ [Flot AI](https://www.producthunt.com/posts/flot-ai)
+
++ [Edily](https://www.producthunt.com/posts/edily)
+
++ [Olympia](https://www.producthunt.com/posts/olympia-3)
+
++ [OpenMeter](https://www.producthunt.com/posts/openmeter)
+
++ [WhatsApp Flows by Rasayel](https://www.producthunt.com/posts/whatsapp-flows-by-rasayel)
+
++ [Language Vocabulary Flashcards](https://www.producthunt.com/posts/language-vocabulary-flashcards)
+
++ [Redoc - ChatGPT with Super Powers](https://www.producthunt.com/posts/redoc-chatgpt-with-super-powers)
+
++ [Polychrom](https://www.producthunt.com/posts/polychrom)
+
++ [Hurree](https://www.producthunt.com/posts/hurree)
+
++ [PrevessAI App](https://www.producthunt.com/posts/prevessai-app)
+

@@ -239,3 +239,11 @@
 
 + [本周Fami通游戏评分出炉 《超级马里奥兄弟RPG》获34分](https://www.3dmgame.com/news/202311/3881700.html)
 
++ [小岛工作室北京快闪店 11月18日正式开业](https://www.3dmgame.com/news/202311/3881707.html)
+
++ [《博德之门3》阿斯代伦动捕演员：濒临破产时是游戏拯救了我](https://www.3dmgame.com/news/202311/3881706.html)
+
++ [《无人深空》持续为开发商带来上亿元利润 让人惊讶！](https://www.3dmgame.com/news/202311/3881705.html)
+
++ [温暖哥谭！亚马逊《蝙蝠侠》圣诞特别动画预告](https://www.3dmgame.com/news/202311/3881704.html)
+
