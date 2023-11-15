@@ -219,3 +219,9 @@
 
 + [《湮灭线》新版本上线！限时八折，同步登陆WeGame、蒸汽平台发售](https://www.3dmgame.com/news/202311/3881688.html)
 
++ [歌帝梵再与《动森》合作 推出2024年情人节限定巧克力](https://www.3dmgame.com/news/202311/3881696.html)
+
++ [音乐节奏动作游戏《共鸣》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881695.html)
+
++ [《女神异闻录5：战略版》媒体评分解禁 IGN和GS双8分](https://www.3dmgame.com/news/202311/3881694.html)
+

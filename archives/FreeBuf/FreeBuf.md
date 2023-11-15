@@ -57,3 +57,5 @@
 
 + [LockBit 勒索软件利用 Citrix Bleed 进行攻击，10K 服务器暴露](https://www.freebuf.com/news/383908.html)
 
++ [Electron_shell：一款功能强大且隐蔽性极强的远程访问红队工具](https://www.freebuf.com/sectool/380997.html)
+
