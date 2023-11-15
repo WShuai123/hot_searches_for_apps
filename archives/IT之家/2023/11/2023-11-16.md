@@ -25,3 +25,5 @@
 
 + [全国电影标准化技术委员会成立，郭帆成为唯一入选导演](https://m.ithome.com/html/732683.htm)
 
++ [荣耀 30、荣耀 V30 等 8 款设备开启华为鸿蒙 HarmonyOS 4 正式版升级](https://m.ithome.com/html/732798.htm)
+
