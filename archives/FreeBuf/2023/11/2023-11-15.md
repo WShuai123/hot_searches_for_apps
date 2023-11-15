@@ -53,3 +53,7 @@
 
 + [内网渗透测试 | 如何进行权限维持](https://www.freebuf.com/articles/network/383331.html)
 
++ [史上最大！丹麦关键基础设施遭受网络攻击](https://www.freebuf.com/news/383886.html)
+
++ [LockBit 勒索软件利用 Citrix Bleed 进行攻击，10K 服务器暴露](https://www.freebuf.com/news/383908.html)
+

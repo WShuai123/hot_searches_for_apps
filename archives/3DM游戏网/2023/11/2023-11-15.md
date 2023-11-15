@@ -207,3 +207,15 @@
 
 + [《遗迹2》新DLC“觉醒之王”现已正式推出](https://www.3dmgame.com/news/202311/3881681.html)
 
++ [《匹诺曹的谎言》再更新！新服装推出与战斗再平衡|游戏OST即将发售](https://www.3dmgame.com/news/202311/3881693.html)
+
++ [富坚义博爆《全职猎人》原设定 小杰无法通过猎人考试](https://www.3dmgame.com/news/202311/3881692.html)
+
++ [X推特最新回应与PS合作 正考虑直播流媒体领域](https://www.3dmgame.com/news/202311/3881691.html)
+
++ [《崩坏：星穹铁道》走近星穹——「藿藿：战胜恐惧的唯一办法…逃跑！」](https://www.3dmgame.com/news/202311/3881690.html)
+
++ [塔导宣布退出 漫威《雷神5》将需寻找新导演](https://www.3dmgame.com/news/202311/3881689.html)
+
++ [《湮灭线》新版本上线！限时八折，同步登陆WeGame、蒸汽平台发售](https://www.3dmgame.com/news/202311/3881688.html)
+
