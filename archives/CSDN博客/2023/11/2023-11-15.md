@@ -131,3 +131,13 @@
 
 + [Vue中methods实现原理](https://blog.csdn.net/weixin_68854196/article/details/134410083)
 
++ [Linux Docker 图形化工具 Portainer远程访问](https://blog.csdn.net/xz2935117143/article/details/134129142)
+
++ [计算机视觉：人脸识别与检测](https://blog.csdn.net/m0_68662723/article/details/134402072)
+
++ [springboot整合SSE技术开发经验总结及心得](https://blog.csdn.net/weixin_43860634/article/details/134378074)
+
++ [【赠书第5期】AI时代项目经理成长之道：ChatGPT让项目经理插上翅膀](https://blog.csdn.net/qq_20016593/article/details/134387181)
+
++ [计算机 - - - 浏览器网页打开本地exe程序，网页打开微信，网页打开迅雷](https://blog.csdn.net/weixin_48430685/article/details/134408941)
+
