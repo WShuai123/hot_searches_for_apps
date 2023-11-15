@@ -283,3 +283,7 @@
 
 + [RTX 4090 Ti/TITAN公版显卡再现身 900W功耗](https://www.3dmgame.com/news/202311/3881725.html)
 
++ [《沙石镇时光》PS5/Switch亚洲实体版延期](https://www.3dmgame.com/news/202311/3881727.html)
+
++ [今天是索尼主机PS4正式发售十周年](https://www.3dmgame.com/news/202311/3881726.html)
+
