@@ -161,3 +161,9 @@
 
 + [网易数帆：云原生向左，低代码向右](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/134373072)
 
++ [计算机视觉+深度学习+机器学习+opencv+目标检测跟踪+一站式学习（代码+视频+PPT)](https://blog.csdn.net/ALiLiLiYa/article/details/134406118)
+
++ [SpringCloud集成Eureka并实现负载均衡](https://blog.csdn.net/weixin_57535055/article/details/134391818)
+
++ [高级 Bootstrap：发挥 Sass 定制的威力](https://blog.csdn.net/qq_36478920/article/details/134414215)
+

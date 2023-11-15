@@ -49,3 +49,9 @@
 
 + [消息称小米汽车已实现小批量试生产，新车预计明年 2 月上市](https://m.ithome.com/html/732685.htm)
 
++ [红魔 9 Pro 系列手机外观公布，提供暗夜骑士、氘锋透明暗夜、氘锋透明银翼三种配色](https://m.ithome.com/html/732641.htm)
+
++ [苹果 iPhone SE 4 渲染：4800 万主摄、6.1 英寸屏幕、USB-C 端口](https://m.ithome.com/html/732738.htm)
+
++ [消息称字节跳动第二季度营收飙升至 290 亿美元，逼近 Meta](https://m.ithome.com/html/732561.htm)
+

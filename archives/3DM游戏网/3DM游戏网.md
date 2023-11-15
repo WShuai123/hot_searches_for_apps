@@ -279,3 +279,5 @@
 
 + [Key社全价买断新作公布 《Anemoi》预告影像公开](https://www.3dmgame.com/news/202311/3881712.html)
 
++ [《星空》被TGA冷落 有人愤愤不平有人认为理所当然](https://www.3dmgame.com/news/202311/3881724.html)
+
