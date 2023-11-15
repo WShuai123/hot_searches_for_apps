@@ -101,3 +101,5 @@
 
 + [联动激浪 《光环3》经典地图回归《光环：无限》](https://www.3dmgame.com/news/202311/3881677.html)
 
++ [RTX 4090批发价就高达1.7万元！AMD趁机赚翻了](https://www.3dmgame.com/news/202311/3881735.html)
+
