@@ -103,3 +103,23 @@
 
 + [RTX 4090批发价就高达1.7万元！AMD趁机赚翻了](https://www.3dmgame.com/news/202311/3881735.html)
 
++ [世嘉高管毫不意外地否认了微软收购的可能性](https://www.3dmgame.com/news/202311/3881741.html)
+
++ [英国F1车神刘易斯汉密尔顿加入《堡垒之夜》](https://www.3dmgame.com/news/202311/3881742.html)
+
++ [12月1日上市《勇者斗恶龙怪兽篇3》怪兽展示视频](https://www.3dmgame.com/news/202311/3881740.html)
+
++ [《博德之门3》Xbox版12月发售 TGA上公布具体日期](https://www.3dmgame.com/news/202311/3881739.html)
+
++ [《奇唤士》PC版推迟至2024年2月20日发售](https://www.3dmgame.com/news/202311/3881738.html)
+
++ [70年代怀旧科幻解谜《美国阿卡迪亚》现已开售](https://www.3dmgame.com/news/202311/3881743.html)
+
++ [世嘉暗示《如龙》《女神异闻录》将改编成影视剧](https://www.3dmgame.com/news/202311/3881744.html)
+
++ [《自杀小队：战胜正义联盟》发布20分钟新预告片](https://www.3dmgame.com/news/202311/3881737.html)
+
++ [《吸血鬼：避世血族2》公布第二家族特雷默](https://www.3dmgame.com/news/202311/3881745.html)
+
++ [《小猫咪大城市》将于2024年春季登陆Switch](https://www.3dmgame.com/news/202311/3881736.html)
+
