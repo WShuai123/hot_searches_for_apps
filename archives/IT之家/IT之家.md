@@ -61,3 +61,7 @@
 
 + [滴滴回应“司机与乘客聊收入被弹窗提醒”：网上相关传闻均为谣言](https://m.ithome.com/html/732566.htm)
 
++ [消息称小米汽车生产资质“借用”北汽集团，由自建工厂生产](https://m.ithome.com/html/732797.htm)
+
++ [问界 M5 标准版追尾施工车，AITO 汽车回应称 AEB 已最大限度减轻碰撞](https://m.ithome.com/html/732799.htm)
+
