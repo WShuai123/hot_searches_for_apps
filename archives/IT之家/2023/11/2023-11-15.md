@@ -55,3 +55,7 @@
 
 + [消息称字节跳动第二季度营收飙升至 290 亿美元，逼近 Meta](https://m.ithome.com/html/732561.htm)
 
++ [小米汽车 SU7 内饰曝光：方向盘设双独立按钮，可一键切换驾驶模式](https://m.ithome.com/html/732780.htm)
+
++ [网易再回应“腾讯二手制冰机”事件：已将从雀巢处采购的咖啡粉送检](https://m.ithome.com/html/732694.htm)
+

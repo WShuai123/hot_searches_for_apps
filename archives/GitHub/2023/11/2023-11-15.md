@@ -51,3 +51,25 @@
 
 + [luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)
 
++ [craftzdog / dotfiles-public](https://github.com/craftzdog/dotfiles-public)
+
++ [netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+
++ [pandora-next / deploy](https://github.com/pandora-next/deploy)
+
++ [torvalds / linux](https://github.com/torvalds/linux)
+
++ [MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev)
+
++ [kubernetes / kubernetes](https://github.com/kubernetes/kubernetes)
+
++ [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
++ [rust-lang / rustlings](https://github.com/rust-lang/rustlings)
+
++ [chenzomi12 / DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem)
+
++ [lapce / lapce](https://github.com/lapce/lapce)
+
++ [langchain-ai / opengpts](https://github.com/langchain-ai/opengpts)
+

@@ -281,3 +281,5 @@
 
 + [《星空》被TGA冷落 有人愤愤不平有人认为理所当然](https://www.3dmgame.com/news/202311/3881724.html)
 
++ [RTX 4090 Ti/TITAN公版显卡再现身 900W功耗](https://www.3dmgame.com/news/202311/3881725.html)
+
