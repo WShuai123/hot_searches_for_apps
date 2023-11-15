@@ -133,3 +133,5 @@
 
 + [vscode + gdb +gdbserver 远程调试Pg源码](https://blog.csdn.net/wdnq1022/article/details/134397319)
 
++ [mysql之搭建MMM架构实现高可用](https://blog.csdn.net/2303_79207100/article/details/134426659)
+
