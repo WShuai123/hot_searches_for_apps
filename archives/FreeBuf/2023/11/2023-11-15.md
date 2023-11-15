@@ -47,3 +47,5 @@
 
 + [浅谈CobaltStrike UDRL实现与混淆](https://www.freebuf.com/articles/network/383273.html)
 
++ [浅谈哈希传递那些世人皆知的事](https://www.freebuf.com/articles/network/280976.html)
+

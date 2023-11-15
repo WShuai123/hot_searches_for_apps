@@ -135,3 +135,49 @@
 
 + [KK疯了！玩游戏就送KK专版特斯拉？](https://www.3dmgame.com/news/202311/3881648.html)
 
++ [《暗黑破坏神4》新热修复补丁上线 改善了游戏体验](https://www.3dmgame.com/news/202311/3881673.html)
+
++ [漫威将在明年的《恶灵骑士》中推出新任复仇之灵](https://www.3dmgame.com/news/202311/3881672.html)
+
++ [TGA大奖提名者要求删除自己的提名：今年我什么都没干](https://www.3dmgame.com/news/202311/3881670.html)
+
++ [《饥饿派画家2》Switch版现已在全球范围发售](https://www.3dmgame.com/news/202311/3881671.html)
+
++ [新作《桃太郎电铁世界》时隔12年回归世界舞台 11月16日登陆Switch](https://www.3dmgame.com/news/202311/3881674.html)
+
++ [平台动作游戏《A Highland Song》宣传片 12月6日发售](https://www.3dmgame.com/news/202311/3881669.html)
+
++ [像素悬疑《都市传说解体中心》新增NS版 明年发售](https://www.3dmgame.com/news/202311/3881668.html)
+
++ [平台冒险游戏《壁虎之神》将于2024年春季发售](https://www.3dmgame.com/news/202311/3881665.html)
+
++ [《守望先锋2》路霸重做正式上线 新技能“猪圈”](https://www.3dmgame.com/news/202311/3881664.html)
+
++ [《星空》发布两个月后 Steam玩家数量少于《上古卷轴5》](https://www.3dmgame.com/news/202311/3881666.html)
+
++ [四人合作玩法《索尼克》桌游预计将于2024年1月上市](https://www.3dmgame.com/news/202311/3881663.html)
+
++ [《幻梦骑士》登陆Steam发售 2D横版像素街机风动作](https://www.3dmgame.com/news/202311/3881667.html)
+
++ [宇航员模拟《Heavenly Bodies》明年2月登陆NS平台](https://www.3dmgame.com/news/202311/3881661.html)
+
++ [恐怖RPG《Catechesis》Steam页面上线 支持简中](https://www.3dmgame.com/news/202311/3881662.html)
+
++ [V社公布Steam Deck OLED版购买限制：仅限加拿大和美国地区](https://www.3dmgame.com/news/202311/3881654.html)
+
++ [剧情驱动的3D生活模拟游戏《On Your Tail》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881660.html)
+
++ [高玩坚持《宝可梦：蓝宝石》奇葩圆周率玩法 1.6万小时没出新手村](https://www.3dmgame.com/news/202311/3881659.html)
+
++ [新PC游戏展宣布12月1日凌晨举行：《家园3》新公告等](https://www.3dmgame.com/news/202311/3881658.html)
+
++ [《最后的生还者》剧集第二季将于明年1月7日开拍](https://www.3dmgame.com/news/202311/3881657.html)
+
++ [小锤回应《使命召唤20》战役赶工：均不属实](https://www.3dmgame.com/news/202311/3881656.html)
+
++ [好评如潮基建游戏《幸福工厂》大升级 虚幻5引擎加持](https://www.3dmgame.com/news/202311/3881655.html)
+
++ [日本实体月榜：《马里奥：惊奇》新作中突出重围](https://www.3dmgame.com/news/202311/3881653.html)
+
++ [模拟游戏《Morels: The Hunt 2》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881652.html)
+

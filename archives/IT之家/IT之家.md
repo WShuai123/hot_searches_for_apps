@@ -33,3 +33,7 @@
 
 + [vivo Watch 3 发布会素材出错，官方道歉更正：eSIM 下续航 7 天](https://m.ithome.com/html/732554.htm)
 
++ [TGA 2023 完整提名名单公布，米哈游《原神》《崩坏：星穹铁道》在榜](https://m.ithome.com/html/732422.htm)
+
++ [【IT之家评测室】vivo X100 深度体验：满分标准版，满分影像机](https://m.ithome.com/html/732487.htm)
+
