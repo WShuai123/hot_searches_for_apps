@@ -151,3 +151,13 @@
 
 + [一篇文章教会你什么是C++异常](https://blog.csdn.net/kingxzq/article/details/134399259)
 
++ [谈谈一个IT杂家的职业生涯规划，你的护城河被AI 攻破了么](https://blog.csdn.net/wangyaninglm/article/details/134410731)
+
++ [猫头虎博主第8️⃣期赠书活动: 《抖音+剪映+Premiere短视频创作实战（全视频微课版）》](https://blog.csdn.net/qq_44866828/article/details/134397932)
+
++ [HTTP/2.0协议详解](https://blog.csdn.net/zhangzehai2234/article/details/134410811)
+
++ [小红书x-s、x-s-common算法研究与分析（仅供学习）](https://blog.csdn.net/qiulin_wu/article/details/134382467)
+
++ [网易数帆：云原生向左，低代码向右](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/134373072)
+

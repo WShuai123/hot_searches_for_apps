@@ -63,3 +63,5 @@
 
 + [供应链安全发展趋势与建设模式探索 | FCIS 2023大会议题前瞻](https://www.freebuf.com/articles/383525.html)
 
++ [LockBit 勒索软件利用 Citrix Bleed 进行攻击，1万台服务器暴露](https://www.freebuf.com/news/383908.html)
+

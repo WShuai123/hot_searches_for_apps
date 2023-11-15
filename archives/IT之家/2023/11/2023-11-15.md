@@ -43,3 +43,9 @@
 
 + [小米汽车 SU7 / Pro / Max 工信部“证件照”正式亮相：溜背式设计，还有“创始版”车型](https://m.ithome.com/html/732747.htm)
 
++ [小米汽车 SU7 / Pro / Max 工信部“证件照”正式亮相：溜背式设计，还有主动式尾翼](https://m.ithome.com/html/732747.htm)
+
++ [4 槽位，英伟达 RTX 4090 Ti“Titan”显卡再曝光](https://m.ithome.com/html/732677.htm)
+
++ [消息称小米汽车已实现小批量试生产，新车预计明年 2 月上市](https://m.ithome.com/html/732685.htm)
+

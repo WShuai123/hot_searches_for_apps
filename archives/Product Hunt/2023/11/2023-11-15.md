@@ -215,3 +215,21 @@
 
 + [PrevessAI App](https://www.producthunt.com/posts/prevessai-app)
 
++ [CloudFit](https://www.producthunt.com/posts/cloudfit)
+
++ [Konsol](https://www.producthunt.com/posts/konsol)
+
++ [Fireflies.ai Mobile App - AI Notetaker](https://www.producthunt.com/posts/fireflies-ai-mobile-app-ai-notetaker)
+
++ [Susterra](https://www.producthunt.com/posts/susterra)
+
++ [Sentitrac](https://www.producthunt.com/posts/sentitrac)
+
++ [Hackerplates](https://www.producthunt.com/posts/hackerplates)
+
++ [wave](https://www.producthunt.com/posts/wave-0f18b2bc-b202-41e9-bde6-e3db18818a4e)
+
++ [Story Maker by Gluecharm](https://www.producthunt.com/posts/story-maker-by-gluecharm)
+
++ [BlackFridayDeals.dev](https://www.producthunt.com/posts/blackfridaydeals-dev)
+
