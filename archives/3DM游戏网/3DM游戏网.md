@@ -287,3 +287,11 @@
 
 + [今天是索尼主机PS4正式发售十周年](https://www.3dmgame.com/news/202311/3881726.html)
 
++ [外媒评30款值得玩的XSX游戏 《心灵杀手2》等](https://www.3dmgame.com/news/202311/3881731.html)
+
++ [传索尼《蜘蛛夫人》电影首支预告将在本周发布](https://www.3dmgame.com/news/202311/3881730.html)
+
++ [《巫师3》官方MOD编辑器要来了 2024年免费发布](https://www.3dmgame.com/news/202311/3881729.html)
+
++ [三星Galaxy Book 4系列阵容泄露 最高可选配RTX 4070](https://www.3dmgame.com/news/202311/3881728.html)
+

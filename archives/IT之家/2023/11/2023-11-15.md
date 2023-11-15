@@ -65,3 +65,5 @@
 
 + [问界 M5 标准版追尾施工车，AITO 汽车回应称 AEB 已最大限度减轻碰撞](https://m.ithome.com/html/732799.htm)
 
++ [小米正开设多个汽车销售类相关岗位，门店店长底薪可达 2 万元](https://m.ithome.com/html/732785.htm)
+

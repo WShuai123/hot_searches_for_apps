@@ -181,3 +181,5 @@
 
 + [2023数维杯国际数学建模A题B题C题D题思路+模型+代码+完整论文](https://blog.csdn.net/weixin_45499067/article/details/134417776)
 
++ [Windows UAC权限详解以及因为权限不对等引发的若干问题分享](https://blog.csdn.net/chenlycly/article/details/134418715)
+
