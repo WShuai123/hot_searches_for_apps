@@ -59,3 +59,7 @@
 
 + [Electron_shell：一款功能强大且隐蔽性极强的远程访问红队工具](https://www.freebuf.com/sectool/380997.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [供应链安全发展趋势与建设模式探索 | FCIS 2023大会议题前瞻](https://www.freebuf.com/articles/383525.html)
+

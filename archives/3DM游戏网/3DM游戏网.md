@@ -225,3 +225,17 @@
 
 + [《女神异闻录5：战略版》媒体评分解禁 IGN和GS双8分](https://www.3dmgame.com/news/202311/3881694.html)
 
++ [Key社恋爱冒险新游《阿涅摩伊》公开 官方网站开放](https://www.3dmgame.com/news/202311/3881701.html)
+
++ [完美模拟出火星环境！我国科学家成功构建新一代火星大气模式](https://www.3dmgame.com/news/202311/3881702.html)
+
++ [双11落幕！年轻人精致省钱成新风潮：被评为“炫省一族”](https://www.3dmgame.com/news/202311/3881703.html)
+
++ [《FUMES》Steam试玩上线 世纪末武装战车混战](https://www.3dmgame.com/news/202311/3881697.html)
+
++ [《黑色五叶草 魔法帝之道》即将全球上线 事前预约已达500万人](https://www.3dmgame.com/news/202311/3881698.html)
+
++ [《往日之影》任务设计讨论DLC剧情：深受玩家反馈影响](https://www.3dmgame.com/news/202311/3881699.html)
+
++ [本周Fami通游戏评分出炉 《超级马里奥兄弟RPG》获34分](https://www.3dmgame.com/news/202311/3881700.html)
+
