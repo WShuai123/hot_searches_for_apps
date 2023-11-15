@@ -45,3 +45,5 @@
 
 + [2023年顶级网络安全并购交易](https://www.freebuf.com/news/383585.html)
 
++ [浅谈CobaltStrike UDRL实现与混淆](https://www.freebuf.com/articles/network/383273.html)
+

@@ -127,3 +127,11 @@
 
 + [网飞电影《宝可梦礼宾部》12月28日开播](https://www.3dmgame.com/news/202311/3881640.html)
 
++ [《海王2》“兄弟联手”新预告 阻止强大的黑蝠鲼](https://www.3dmgame.com/news/202311/3881651.html)
+
++ [《极限竞速》登陆移动平台 推出全新三消益智游戏](https://www.3dmgame.com/news/202311/3881650.html)
+
++ [《Buriedbornes2》12月20日登陆Steam 回合制地城RPG](https://www.3dmgame.com/news/202311/3881649.html)
+
++ [KK疯了！玩游戏就送KK专版特斯拉？](https://www.3dmgame.com/news/202311/3881648.html)
+

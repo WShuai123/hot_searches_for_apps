@@ -125,3 +125,7 @@
 
 + [【电路笔记】-诺顿定理（Norton‘s Theorem）](https://blog.csdn.net/wujuxKkoolerter/article/details/134409039)
 
++ [【Linux】软硬链接和动静态库](https://blog.csdn.net/m0_69061857/article/details/134376938)
+
++ [深度解剖Linux权限的概念](https://blog.csdn.net/AAlykk/article/details/134348563)
+

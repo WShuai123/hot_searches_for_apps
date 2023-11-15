@@ -29,3 +29,7 @@
 
 + [骁龙 7 Gen 3 测试版规格曝光：台积电 4nm 工艺，主频 2.63 GHz](https://m.ithome.com/html/732552.htm)
 
++ [供不应求，特斯拉确认中国市场 Model 3 / Y 还将继续涨价](https://m.ithome.com/html/732535.htm)
+
++ [vivo Watch 3 发布会素材出错，官方道歉更正：eSIM 下续航 7 天](https://m.ithome.com/html/732554.htm)
+
