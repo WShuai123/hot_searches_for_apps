@@ -181,3 +181,29 @@
 
 + [模拟游戏《Morels: The Hunt 2》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881652.html)
 
++ [2023年薪酬最高10种编程语言：第一名年薪近140万](https://www.3dmgame.com/news/202311/3881687.html)
+
++ [联动激浪 《光环3》经典地图回归《光环：无限》](https://www.3dmgame.com/news/202311/3881677.html)
+
++ [TRPG《战锤：任务》12月12日下架Steam GOG版继续](https://www.3dmgame.com/news/202311/3881683.html)
+
++ [NS《霍格沃茨之遗》变《星空》？开放世界不再无缝！](https://www.3dmgame.com/news/202311/3881682.html)
+
++ [《纪元1800》玩家数突破350万 育碧将发放免费奖励](https://www.3dmgame.com/news/202311/3881684.html)
+
++ [特斯拉Cybertruck新车交付 11月30日得州超级工厂举行](https://www.3dmgame.com/news/202311/3881685.html)
+
++ [就连《星空》的粉丝都认为《星空》不配获得年度游戏提名](https://www.3dmgame.com/news/202311/3881686.html)
+
++ [庆祝《维多利亚》系列20周年！《维多利亚3》全新内容包正式推出](https://www.3dmgame.com/news/202311/3881676.html)
+
++ [《LOL》S13开幕式11月19日举办 心之钢男团韩国女团亮相](https://www.3dmgame.com/news/202311/3881678.html)
+
++ [喜提两个TGA年度游戏提名 任天堂官方发文感谢玩家](https://www.3dmgame.com/news/202311/3881679.html)
+
++ [苹果MacPro被曝灰尘门 屏幕出现严重紫色垂直线](https://www.3dmgame.com/news/202311/3881680.html)
+
++ [策略游戏《Last Train Home》全新预告 11月28日发售](https://www.3dmgame.com/news/202311/3881675.html)
+
++ [《遗迹2》新DLC“觉醒之王”现已正式推出](https://www.3dmgame.com/news/202311/3881681.html)
+

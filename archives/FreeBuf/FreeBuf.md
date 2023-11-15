@@ -51,3 +51,5 @@
 
 + [Intel曝出 Reptar 高危漏洞，可绕过CPU安全边界](https://www.freebuf.com/news/383884.html)
 
++ [内网渗透测试 | 如何进行权限维持](https://www.freebuf.com/articles/network/383331.html)
+
