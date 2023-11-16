@@ -269,3 +269,19 @@
 
 + [美国马里兰大学开设《王国之泪》理工部课程 结合游戏创作系统](https://www.3dmgame.com/news/202311/3881818.html)
 
++ [电视剧《仙剑奇侠传4》过审引热议：迫不及待想看了](https://www.3dmgame.com/news/202311/3881819.html)
+
++ [李彦宏：国内200多个大模型调用量加起来还没文心一个多](https://www.3dmgame.com/news/202311/3881820.html)
+
++ [《百炼登神》Steam秋季特卖系统大改版](https://www.3dmgame.com/news/202311/3881821.html)
+
++ [《迷失之刃》旅途再续，DLC“迷失之谷”现已推出](https://www.3dmgame.com/news/202311/3881822.html)
+
++ [《倾听画语》开发团队所打造《未晓星程》 将于2024年春推出NS版](https://www.3dmgame.com/news/202311/3881823.html)
+
++ [全新弹幕平台解谜游戏 《二进制恋人》正式公开](https://www.3dmgame.com/news/202311/3881824.html)
+
++ [就在今天，来《因果动物园》传播爱与善](https://www.3dmgame.com/news/202311/3881825.html)
+
++ [“鸿蒙之父”确认！鸿蒙PC来了：模拟器搞定兼容性](https://www.3dmgame.com/news/202311/3881826.html)
+

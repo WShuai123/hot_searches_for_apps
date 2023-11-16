@@ -207,3 +207,7 @@
 
 + [解压小橙子 - HRV心理压力自测](https://itunes.apple.com/cn/app/id6451831613?mt=8)
 
++ [虎扑-篮球足球游戏影视](https://itunes.apple.com/cn/app/id906632439?mt=8)
+
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+

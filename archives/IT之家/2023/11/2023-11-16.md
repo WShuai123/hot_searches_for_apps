@@ -43,3 +43,9 @@
 
 + [去哪儿与华为展开合作，启动鸿蒙原生应用开发](https://m.ithome.com/html/732784.htm)
 
++ [小米发布 Vela 快应用开发工具 Aiot-IDE：基于微软 VS Code，仅支持 Ubuntu](https://m.ithome.com/html/732945.htm)
+
++ [卢伟冰：小米汽车进展超预期，明年上半年正式发布](https://m.ithome.com/html/732894.htm)
+
++ [不只镜头做平，红魔 9 Pro 系列手机全新升级 5000 万 OIS 超感光主摄](https://m.ithome.com/html/732939.htm)
+

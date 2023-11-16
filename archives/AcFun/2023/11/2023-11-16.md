@@ -107,3 +107,11 @@
 
 + [【东方】シネマ Cinema【十六夜咲夜 Ver. MMD】](http://www.acfun.cn/v/ac42936480)
 
++ [挑战100块如何玩转海南万宁？](http://www.acfun.cn/v/ac42956202)
+
++ [翻唱：敕勒川](http://www.acfun.cn/v/ac42960902)
+
++ [韩服最强王者菁英对决 #2269ㅣ来了](http://www.acfun.cn/v/ac42955968)
+
++ [【求投五蕉】 那些令人心动的颜值 788](http://www.acfun.cn/v/ac42957449)
+
