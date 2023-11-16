@@ -289,3 +289,7 @@
 
 + [冒险游戏《断崖的卡尔姆》Steam确认支持简体中文](https://www.3dmgame.com/news/202311/3881827.html)
 
++ [《古墓丽影》母公司Embracer确认已经裁掉900名员工](https://www.3dmgame.com/news/202311/3881828.html)
+
++ [世嘉表示将进行更多的收购 而不是出售自己](https://www.3dmgame.com/news/202311/3881829.html)
+

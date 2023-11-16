@@ -57,3 +57,5 @@
 
 + [消息称苹果 iPhone 16 / Pro 手机将采用石墨烯散热系统，电池使用金属外壳](https://m.ithome.com/html/732879.htm)
 
++ [新浪与华为达成合作，启动微博等鸿蒙原生应用开发](https://m.ithome.com/html/733080.htm)
+
