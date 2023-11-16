@@ -193,3 +193,11 @@
 
 + [【开源】基于微信小程序、Vue和SpringBoot的智慧家政系统](https://blog.csdn.net/yangyin1998/article/details/134428613)
 
++ [【小黑送书—第六期】＞＞AI时代，程序员如何应对挑战——《AI时代系列书籍》](https://blog.csdn.net/Goforyouqp/article/details/134417955)
+
++ [vue+element模仿实现PC端网易云，对接第三方接口](https://blog.csdn.net/lucky_fang/article/details/134438401)
+
++ [【计算机网络】VRRP协议理论和配置](https://blog.csdn.net/m0_65277261/article/details/134387329)
+
++ [详解IP安全：IPSec协议簇 | AH协议 | ESP协议 | IKE协议](https://blog.csdn.net/m0_69519887/article/details/134383369)
+

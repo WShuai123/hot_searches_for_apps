@@ -287,3 +287,5 @@
 
 + [传英伟达将停产RTX 4080和RTX 4070Ti 为后续新品让路](https://www.3dmgame.com/news/202311/3881830.html)
 
++ [冒险游戏《断崖的卡尔姆》Steam确认支持简体中文](https://www.3dmgame.com/news/202311/3881827.html)
+

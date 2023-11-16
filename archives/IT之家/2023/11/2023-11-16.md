@@ -55,3 +55,5 @@
 
 + [松下和小米空调合作从 2018 年就开始谈，但今年才谈成](https://m.ithome.com/html/732915.htm)
 
++ [消息称苹果 iPhone 16 / Pro 手机将采用石墨烯散热系统，电池使用金属外壳](https://m.ithome.com/html/732879.htm)
+

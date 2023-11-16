@@ -155,3 +155,13 @@
 
 + [Mountains Magazine Map](https://dribbble.com/shots/)
 
++ [Illustration for Vantagediscovery.com](https://dribbble.com/shots/)
+
++ [Geometric Tiger Logo](https://dribbble.com/shots/)
+
++ [Future Generations](https://dribbble.com/shots/)
+
++ [Pronghorn](https://dribbble.com/shots/)
+
++ [Kingsway Meats Packaging Illustrated by Steven Noble](https://dribbble.com/shots/)
+
