@@ -285,3 +285,5 @@
 
 + [“鸿蒙之父”确认！鸿蒙PC来了：模拟器搞定兼容性](https://www.3dmgame.com/news/202311/3881826.html)
 
++ [传英伟达将停产RTX 4080和RTX 4070Ti 为后续新品让路](https://www.3dmgame.com/news/202311/3881830.html)
+

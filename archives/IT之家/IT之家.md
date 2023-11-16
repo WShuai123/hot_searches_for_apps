@@ -49,3 +49,9 @@
 
 + [不只镜头做平，红魔 9 Pro 系列手机全新升级 5000 万 OIS 超感光主摄](https://m.ithome.com/html/732939.htm)
 
++ [魅族 21 手机白面板真机亮相，沈子瑜称“很难搞，好在最后搞定了”](https://m.ithome.com/html/733027.htm)
+
++ [小米 Redmi Note 13R Pro 手机现身电信产品库，天玑 6080 处理器](https://m.ithome.com/html/732812.htm)
+
++ [松下和小米空调合作从 2018 年就开始谈，但今年才谈成](https://m.ithome.com/html/732915.htm)
+

@@ -185,3 +185,11 @@
 
 + [React 高级教程](https://blog.csdn.net/qq_53673551/article/details/134406882)
 
++ [大语言模型量化方法对比：GPTQ、GGUF、AWQ](https://blog.csdn.net/m0_46510245/article/details/134436062)
+
++ [计算属性与watch的区别,fetch与axios在vue中的异步请求,单文本组件使用,使用vite创建vue项目,组件的使用方法](https://blog.csdn.net/qq_46372132/article/details/134430297)
+
++ [2023 年 数维杯（A题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134432997)
+
++ [【开源】基于微信小程序、Vue和SpringBoot的智慧家政系统](https://blog.csdn.net/yangyin1998/article/details/134428613)
+
