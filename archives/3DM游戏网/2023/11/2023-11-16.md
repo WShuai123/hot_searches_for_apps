@@ -225,3 +225,13 @@
 
 + [RTS新游《Project G》G-Star 2023全新预告和截图](https://www.3dmgame.com/news/202311/3881793.html)
 
++ [《赛博朋克2077》今年TGA提名是2021年TGA提名的两倍](https://www.3dmgame.com/news/202311/3881801.html)
+
++ [《装甲核心3》终极BOSS九球模型复刻公开 酷炫精致可变形](https://www.3dmgame.com/news/202311/3881800.html)
+
++ [复古俯视角解谜冒险游戏《昭昭天命》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881799.html)
+
++ [游戏发行商Humble Games确认公司裁员计划](https://www.3dmgame.com/news/202311/3881798.html)
+
++ [死搁+全境+圣歌？第三人称射击新作《Project LLL》预告](https://www.3dmgame.com/news/202311/3881797.html)
+

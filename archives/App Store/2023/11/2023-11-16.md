@@ -205,3 +205,5 @@
 
 + [西瓜视频 - 夺宝奇兵5热播](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [解压小橙子 - HRV心理压力自测](https://itunes.apple.com/cn/app/id6451831613?mt=8)
+

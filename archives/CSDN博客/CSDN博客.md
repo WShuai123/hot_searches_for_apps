@@ -163,3 +163,13 @@
 
 + [uniapp 微信小程序分享功能 onShareAppMessage(options)](https://blog.csdn.net/weixin_71403100/article/details/134437296)
 
++ [AIGC实战——变分自编码器(Variational Autoencoder, VAE)](https://blog.csdn.net/LOVEmy134611/article/details/133974527)
+
++ [【计算机网络笔记】DHCP协议](https://blog.csdn.net/m0_60511809/article/details/134409807)
+
++ [开启创造力之门：掌握Vue中Slot插槽的使用技巧与灵感](https://blog.csdn.net/qq_48652579/article/details/134413879)
+
++ [基于yolov5的目标检测-停车位检测、低矮障碍物、地面标识检测等](https://blog.csdn.net/herobinbin/article/details/134139329)
+
++ [学习网络编程No.9【应用层协议之HTTPS】](https://blog.csdn.net/weixin_74004489/article/details/134033437)
+

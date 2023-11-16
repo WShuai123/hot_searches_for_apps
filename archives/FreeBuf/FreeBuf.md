@@ -59,3 +59,5 @@
 
 + [ByteSRC千元现金+千元新年礼盒派送中！！](https://www.freebuf.com/articles/384047.html)
 
++ [白话零信任技术架构之SDP2.0](https://www.freebuf.com/articles/database/378939.html)
+
