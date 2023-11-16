@@ -103,3 +103,13 @@
 
 + [Epic喜加一：《末日求生》和《魔法季节》免费领](https://www.3dmgame.com/news/202311/3881837.html)
 
++ [世嘉相信《女神异闻录6》首年能卖出500万套](https://www.3dmgame.com/news/202311/3881842.html)
+
++ [射击游戏《超时空要塞：射击心眼》再次延期](https://www.3dmgame.com/news/202311/3881841.html)
+
++ [国产双主角冒险游戏《梦灯花》本月28日发售](https://www.3dmgame.com/news/202311/3881840.html)
+
++ [曝《使命召唤19：现代战争2》项目预算达2.5亿美元](https://www.3dmgame.com/news/202311/3881839.html)
+
++ [三位新角色确定加入《咒术回战 战华双乱》](https://www.3dmgame.com/news/202311/3881838.html)
+
