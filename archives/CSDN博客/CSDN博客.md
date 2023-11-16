@@ -101,3 +101,23 @@
 
 + [2023 年 数维杯（A题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134432997)
 
++ [MIGraphX推理框架第七章-性能分析](https://blog.csdn.net/qq_28356373/article/details/134383424)
+
++ [CentOS停更在即，国内厂商该如何应对？KeyarchOS X2Keyarch 迁移体验](https://blog.csdn.net/weixin_53072519/article/details/133859470)
+
++ [无需云盘，不限流量实现Zotero跨平台同步：内网穿透+私有WebDAV服务器](https://blog.csdn.net/hsjsiwkwm/article/details/134440279)
+
++ [MySQL索引事务](https://blog.csdn.net/weixin_71841320/article/details/134439809)
+
++ [Elasticsearch：运用向量搜索通过图像搜索找到你的小狗](https://blog.csdn.net/UbuntuTouch/article/details/134438930)
+
++ [一篇文章教会你什么是C++异常](https://blog.csdn.net/kingxzq/article/details/134399259)
+
++ [.NET 8.0 中有哪些新的变化？](https://blog.csdn.net/powertoolsteam/article/details/134415816)
+
++ [【开源】基于微信小程序、Vue和SpringBoot的智慧家政系统](https://blog.csdn.net/yangyin1998/article/details/134428613)
+
++ [张岩111](https://blog.csdn.net/ProLeaner/article/details/134450404)
+
++ [【 云原生 | K8S 】kubeadm 部署Kubernetes集群](https://blog.csdn.net/2302_78835233/article/details/134433181)
+
