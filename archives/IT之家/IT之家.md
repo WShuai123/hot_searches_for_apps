@@ -27,3 +27,5 @@
 
 + [荣耀 30、荣耀 V30 等 8 款设备开启华为鸿蒙 HarmonyOS 4 正式版升级](https://m.ithome.com/html/732798.htm)
 
++ [百度李彦宏：国内两百多个大模型调用量加起来还没文心一个多](https://m.ithome.com/html/732825.htm)
+

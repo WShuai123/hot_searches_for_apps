@@ -123,3 +123,9 @@
 
 + [《小猫咪大城市》将于2024年春季登陆Switch](https://www.3dmgame.com/news/202311/3881736.html)
 
++ [《使命召唤：现代战争3》更新 PC版所有模式都支持DLSS3](https://www.3dmgame.com/news/202311/3881748.html)
+
++ [华纳的《神奇女侠》可能是一个即时服务游戏](https://www.3dmgame.com/news/202311/3881747.html)
+
++ [平行世界一战策略游戏《凯撒朋克》正式公布](https://www.3dmgame.com/news/202311/3881746.html)
+

@@ -109,3 +109,5 @@
 
 + [DataGPT](https://www.producthunt.com/posts/datagpt-3)
 
++ [Taskade AI Agents](https://www.producthunt.com/posts/taskade-ai-agents)
+

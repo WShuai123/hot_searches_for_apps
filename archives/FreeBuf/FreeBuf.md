@@ -41,3 +41,7 @@
 
 + [DP World 遭遇网络攻击，导致约3万个集装箱滞留港口](https://www.freebuf.com/news/383747.html)
 
++ [FreeBuf早报 | 美国防部发布人工智能临时指南；ChatGPT Plus账号暂停注册](https://www.freebuf.com/news/383973.html)
+
++ [深入分析Elektra-Leak恶意活动如何获取和利用暴露的IAM密钥](https://www.freebuf.com/articles/network/382638.html)
+
