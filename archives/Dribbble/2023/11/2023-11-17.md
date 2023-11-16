@@ -115,3 +115,15 @@
 
 + [Corx - Website design with 3D for a money transfer company](https://dribbble.com/shots/)
 
++ [File Manager Mobile App Exploration](https://dribbble.com/shots/)
+
++ [Pat Absent Wordmark: Unused direction](https://dribbble.com/shots/)
+
++ [Star Claws](https://dribbble.com/shots/)
+
++ [Lee Seidenberg Photography](https://dribbble.com/shots/)
+
++ [WIP.. Cat Mascot](https://dribbble.com/shots/)
+
++ [CCC – Social Media](https://dribbble.com/shots/)
+
