@@ -69,3 +69,23 @@
 
 + [Taylor's Apothecary](https://dribbble.com/shots/)
 
++ [Trading For Turkeys](https://dribbble.com/shots/)
+
++ [Sauce](https://dribbble.com/shots/)
+
++ [Hales Freight Website Home Page](https://dribbble.com/shots/)
+
++ [Ava remote control reveal by milkinside](https://dribbble.com/shots/)
+
++ [Fall Diorama Tutorial](https://dribbble.com/shots/)
+
++ ["Generosity" - Goddess Cili, daily vector art](https://dribbble.com/shots/)
+
++ [Retrowave Crypto Neon Landing Page](https://dribbble.com/shots/)
+
++ [Finance Web Dashboard](https://dribbble.com/shots/)
+
++ [N Lettermark for an AI Startup](https://dribbble.com/shots/)
+
++ [DJF Branding Presentation](https://dribbble.com/shots/)
+
