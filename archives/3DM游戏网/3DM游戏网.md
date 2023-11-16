@@ -129,3 +129,27 @@
 
 + [平行世界一战策略游戏《凯撒朋克》正式公布](https://www.3dmgame.com/news/202311/3881746.html)
 
++ [《漫威What If…?》第二季预告 12月22日播出](https://www.3dmgame.com/news/202311/3881753.html)
+
++ [发行商Thunderful最新财报：上半年收入略微增长](https://www.3dmgame.com/news/202311/3881754.html)
+
++ [《最后的信念》登陆多平台发售 银河恶魔城类魂新游](https://www.3dmgame.com/news/202311/3881756.html)
+
++ [《蜘蛛女：超感觉醒》首个预告发布 一大波女蜘蛛侠来袭](https://www.3dmgame.com/news/202311/3881755.html)
+
++ [《心灵杀手2》发布官方真人音乐视频《黑暗先驱》](https://www.3dmgame.com/news/202311/3881757.html)
+
++ [游戏行业第三季度并购活动金额达60亿美元](https://www.3dmgame.com/news/202311/3881759.html)
+
++ [数毛社测试《星空》新补丁提升巨大：早就该这样做](https://www.3dmgame.com/news/202311/3881758.html)
+
++ [《自杀小队：战胜正义联盟》预购开启 国区售价446元](https://www.3dmgame.com/news/202311/3881760.html)
+
++ [开放世界生存《小小世界》确定延期 2024年Q1新发售](https://www.3dmgame.com/news/202311/3881749.html)
+
++ [《刺客信条：幻景》12月免费更新：新游戏+和永久死亡模式](https://www.3dmgame.com/news/202311/3881750.html)
+
++ [传字节跳动有意出售游戏开发公司沐瞳科技](https://www.3dmgame.com/news/202311/3881751.html)
+
++ [索尼发布PS Plus系列全新会免游戏 含《龙之信条：黑暗觉醒》](https://www.3dmgame.com/news/202311/3881752.html)
+

@@ -137,3 +137,5 @@
 
 + [如何使用内网穿透实现远程公网访问windows node.js的服务端](https://blog.csdn.net/asdssadddd/article/details/134386569)
 
++ [『亚马逊云科技产品测评』在当前飞速发展的AI人工智能时代云服务技术哪家强？](https://blog.csdn.net/qq_57761637/article/details/134334826)
+

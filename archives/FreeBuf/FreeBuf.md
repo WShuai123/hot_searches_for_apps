@@ -45,3 +45,5 @@
 
 + [深入分析Elektra-Leak恶意活动如何获取和利用暴露的IAM密钥](https://www.freebuf.com/articles/network/382638.html)
 
++ [CVE-2023-46604 AMQ RCE漏洞应急响应实录](https://www.freebuf.com/vuls/383845.html)
+

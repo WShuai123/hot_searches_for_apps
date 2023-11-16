@@ -111,3 +111,5 @@
 
 + [Taskade AI Agents](https://www.producthunt.com/posts/taskade-ai-agents)
 
++ [ZELIQ](https://www.producthunt.com/posts/zeliq-2)
+
