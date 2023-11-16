@@ -235,3 +235,25 @@
 
 + [死搁+全境+圣歌？第三人称射击新作《Project LLL》预告](https://www.3dmgame.com/news/202311/3881797.html)
 
++ [英伟达晒《心灵杀手2》实机截图 光追加持画面惊人](https://www.3dmgame.com/news/202311/3881812.html)
+
++ [北斗正式加入ICAO标准，成为全球民航通用的卫星导航系统](https://www.3dmgame.com/news/202311/3881811.html)
+
++ [《遗迹2》全球销量突破200万 《收获日3》表现低于管理层预期](https://www.3dmgame.com/news/202311/3881810.html)
+
++ [《以闪亮之名》免费上线Steam 综合评价“特别好评”](https://www.3dmgame.com/news/202311/3881809.html)
+
++ [陶德回顾自己的作品：下次见面时会有《上古卷轴6》](https://www.3dmgame.com/news/202311/3881808.html)
+
++ [《剑灵》宇宙动漫风RPG《Project BSS》G-Star展预告](https://www.3dmgame.com/news/202311/3881807.html)
+
++ [俄罗斯史上首次载人登月计划公布！最快2031年实施](https://www.3dmgame.com/news/202311/3881806.html)
+
++ [好评游戏《神之天平》Switch版发售 日式ARPG名作](https://www.3dmgame.com/news/202311/3881805.html)
+
++ [《方舟生存飞升》持续更新，服务器端客户端大幅优化](https://www.3dmgame.com/news/202311/3881804.html)
+
++ [《小骨：英雄杀手》推出新DLC“神话包”全新内容上线](https://www.3dmgame.com/news/202311/3881803.html)
+
++ [《匹诺曹的谎言》获“韩国游戏大奖”六项大奖 包含最高奖项](https://www.3dmgame.com/news/202311/3881802.html)
+

@@ -61,3 +61,5 @@
 
 + [白话零信任技术架构之SDP2.0](https://www.freebuf.com/articles/database/378939.html)
 
++ [vivo对生成式人工智能的安全思考和实践  | FCIS 2023大会议题前瞻](https://www.freebuf.com/fevents/384009.html)
+

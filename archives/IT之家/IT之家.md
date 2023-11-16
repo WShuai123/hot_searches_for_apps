@@ -37,3 +37,7 @@
 
 + [（更新：安卓版已发布）小米米家 App 9.0 iOS 体验版发布：Pad 可变身智能家庭中控](https://m.ithome.com/html/732892.htm)
 
++ [（更新：12 月开放申请）小米 IoT 向个人开发者全面开放，Vela 全面开源](https://m.ithome.com/html/732900.htm)
+
++ [消息称字节跳动考虑出售游戏子公司沐瞳科技，40 亿美元拿下后表现平平](https://m.ithome.com/html/732782.htm)
+
