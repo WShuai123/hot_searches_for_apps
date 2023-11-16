@@ -101,3 +101,5 @@
 
 + [让 GIANLUCA VIALLI 的精神发光发热——EA SPORTS™ 为当地孩童铺路，携手前进](https://www.3dmgame.com/news/202311/3881788.html)
 
++ [Epic喜加一：《末日求生》和《魔法季节》免费领](https://www.3dmgame.com/news/202311/3881837.html)
+

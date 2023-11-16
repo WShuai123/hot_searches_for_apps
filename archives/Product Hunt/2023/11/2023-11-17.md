@@ -101,3 +101,9 @@
 
 + [Jamit.app](https://www.producthunt.com/posts/jamit-app)
 
++ [fakesocial.ai](https://www.producthunt.com/posts/fakesocial-ai)
+
++ [AlphaSquared](https://www.producthunt.com/posts/alphasquared)
+
++ [UILearn Design Challenges](https://www.producthunt.com/posts/uilearn-design-challenges)
+
