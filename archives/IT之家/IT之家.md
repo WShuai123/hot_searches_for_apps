@@ -29,3 +29,5 @@
 
 + [百度李彦宏：国内两百多个大模型调用量加起来还没文心一个多](https://m.ithome.com/html/732825.htm)
 
++ [英伟达 RTX 50 显卡新爆料：支持 384bit GDDR7 显存](https://m.ithome.com/html/732824.htm)
+

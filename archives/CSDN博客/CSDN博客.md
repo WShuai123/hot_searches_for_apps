@@ -139,3 +139,9 @@
 
 + [『亚马逊云科技产品测评』在当前飞速发展的AI人工智能时代云服务技术哪家强？](https://blog.csdn.net/qq_57761637/article/details/134334826)
 
++ [功能测试 公共测试用例库 建设](https://blog.csdn.net/qq_26224539/article/details/134416166)
+
++ [51单片机应用从零开始（三）](https://blog.csdn.net/MANONGDKY/article/details/134415805)
+
++ [＜MySQL＞ 查询数据进阶操作 -- 联合查询](https://blog.csdn.net/zzy734437202/article/details/134424446)
+
