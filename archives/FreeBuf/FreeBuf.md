@@ -55,3 +55,7 @@
 
 + [倒计时7天 | FCIS 2023网络安全创新大会](https://www.freebuf.com/fevents/383892.html)
 
++ [AtlasReaper：一款针对Confluence和Jira的网络侦查工具](https://www.freebuf.com/sectool/381001.html)
+
++ [ByteSRC千元现金+千元新年礼盒派送中！！](https://www.freebuf.com/articles/384047.html)
+

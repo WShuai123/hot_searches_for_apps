@@ -217,3 +217,11 @@
 
 + [让 GIANLUCA VIALLI 的精神发光发热——EA SPORTS™ 为当地孩童铺路，携手前进](https://www.3dmgame.com/news/202311/3881788.html)
 
++ [《浪人崛起》PS商店页面上线 现可加入心愿单](https://www.3dmgame.com/news/202311/3881796.html)
+
++ [动作类肉鸽游戏《Death Must Die》抢先体验推出获特别好评](https://www.3dmgame.com/news/202311/3881795.html)
+
++ [因预算问题 美国宇航局搁置火星样本返回任务](https://www.3dmgame.com/news/202311/3881794.html)
+
++ [RTS新游《Project G》G-Star 2023全新预告和截图](https://www.3dmgame.com/news/202311/3881793.html)
+
