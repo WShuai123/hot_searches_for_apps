@@ -149,3 +149,9 @@
 
 + [⑧【MySQL】数据库查询：内连接、外连接、自连接、子查询、多表查询](https://blog.csdn.net/ebb29bbe/article/details/134411828)
 
++ [vue-vuex详解](https://blog.csdn.net/2302_76329106/article/details/134402231)
+
++ [基于yolov5的停车位、低矮障碍物、地面标识检测效果展示](https://blog.csdn.net/herobinbin/article/details/134139329)
+
++ [2023年亚太杯数学建模思路 - 复盘：人力资源安排的最优化模型](https://blog.csdn.net/math_assistant/article/details/134428893)
+

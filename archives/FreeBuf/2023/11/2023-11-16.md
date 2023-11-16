@@ -51,3 +51,5 @@
 
 + [安卓用户当心： CERT-IN 发布高危漏洞警告](https://www.freebuf.com/news/384019.html)
 
++ [Java代码审计实战分享 | 一文详解RuoYi 4.2](https://www.freebuf.com/articles/web/383646.html)
+

@@ -189,3 +189,17 @@
 
 + [《刺客信条：幻景》PS5版玩家一个月内流失68%](https://www.3dmgame.com/news/202311/3881761.html)
 
++ [柏青哥式的肉鸽塔防游戏《地狱弹珠》steam页面 明年发售](https://www.3dmgame.com/news/202311/3881785.html)
+
++ [《洛基》第二季完结 但新角色OB的旅程可能还将继续](https://www.3dmgame.com/news/202311/3881782.html)
+
++ [英伟达RTX 5090显卡爆料：首发GDDR7显存 512位梦碎](https://www.3dmgame.com/news/202311/3881784.html)
+
++ [漫威传奇衰落 《复仇者联盟5》导演退出项目](https://www.3dmgame.com/news/202311/3881783.html)
+
++ [韩国模拟游戏《inZOI》新截图 模拟人生最强劲敌！](https://www.3dmgame.com/news/202311/3881781.html)
+
++ [《合金装备：大师合集Vol.1》更新发布 修复大量问题](https://www.3dmgame.com/news/202311/3881780.html)
+
++ [韩国机甲科幻网游《RF ONLINE NEXT》全新预告](https://www.3dmgame.com/news/202311/3881779.html)
+

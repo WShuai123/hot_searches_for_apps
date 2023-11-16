@@ -31,3 +31,5 @@
 
 + [英伟达 RTX 50 显卡新爆料：支持 384bit GDDR7 显存](https://m.ithome.com/html/732824.htm)
 
++ [微软关闭 Win11 免费升级通道，部分用户遭遇 Windows 激活问题](https://m.ithome.com/html/732822.htm)
+
