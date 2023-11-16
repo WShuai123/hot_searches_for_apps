@@ -25,3 +25,5 @@
 
 + [OPPO ColorOS14 发布即推送，首批 6 款机型今天升级正式版](https://m.ithome.com/html/732936.htm)
 
++ [OPPO 自研潘塔纳尔系统落地，ColorOS 14 搭配 AndesGPT](https://m.ithome.com/html/732932.htm)
+
