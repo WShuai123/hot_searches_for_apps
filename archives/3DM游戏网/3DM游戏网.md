@@ -203,3 +203,17 @@
 
 + [韩国机甲科幻网游《RF ONLINE NEXT》全新预告](https://www.3dmgame.com/news/202311/3881779.html)
 
++ [《魔女之泉R》将推出付费服装DLC 主机版2024年发售](https://www.3dmgame.com/news/202311/3881786.html)
+
++ [开放世界推箱子冒险游戏《海天岛传说》宣传片 中文Demo上线](https://www.3dmgame.com/news/202311/3881787.html)
+
++ [NCSOFT动作冒险新作《Project M》正式预告和新截图](https://www.3dmgame.com/news/202311/3881789.html)
+
++ [《大侠立志传：碧血丹心》正式版发售：那个神仙醋的江湖正在越来越有趣](https://www.3dmgame.com/news/202311/3881792.html)
+
++ [华硕ROG《新世纪福音战士》联名主板竟出现拼写错误](https://www.3dmgame.com/news/202311/3881791.html)
+
++ [万代魂系列将推新品 《塞尔达旷野之息》大师之剑实体化](https://www.3dmgame.com/news/202311/3881790.html)
+
++ [让 GIANLUCA VIALLI 的精神发光发热——EA SPORTS™ 为当地孩童铺路，携手前进](https://www.3dmgame.com/news/202311/3881788.html)
+

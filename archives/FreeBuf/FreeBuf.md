@@ -53,3 +53,5 @@
 
 + [Java代码审计实战分享 | 一文详解RuoYi 4.2](https://www.freebuf.com/articles/web/383646.html)
 
++ [倒计时7天 | FCIS 2023网络安全创新大会](https://www.freebuf.com/fevents/383892.html)
+

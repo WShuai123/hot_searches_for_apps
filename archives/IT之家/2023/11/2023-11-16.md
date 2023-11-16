@@ -33,3 +33,7 @@
 
 + [微软关闭 Win11 免费升级通道，部分用户遭遇 Windows 激活问题](https://m.ithome.com/html/732822.htm)
 
++ [小米 Vela 开源系统正式发布：8KB 内存就能跑，支持端侧 AI、跨端快应用](https://m.ithome.com/html/732934.htm)
+
++ [（更新：安卓版已发布）小米米家 App 9.0 iOS 体验版发布：Pad 可变身智能家庭中控](https://m.ithome.com/html/732892.htm)
+
