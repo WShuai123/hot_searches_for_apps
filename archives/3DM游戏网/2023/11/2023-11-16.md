@@ -153,3 +153,39 @@
 
 + [索尼发布PS Plus系列全新会免游戏 含《龙之信条：黑暗觉醒》](https://www.3dmgame.com/news/202311/3881752.html)
 
++ [日本一将于11月20日公布新作 或是战略类型游戏](https://www.3dmgame.com/news/202311/3881778.html)
+
++ [《炉石传说》最新拓展《决战荒芜之地》正式登场](https://www.3dmgame.com/news/202311/3881776.html)
+
++ [长江存储在美国起诉美光侵犯专利 后者保持沉默](https://www.3dmgame.com/news/202311/3881777.html)
+
++ [超级血液的神力 硅谷富豪称换血让父亲“年轻”25岁](https://www.3dmgame.com/news/202311/3881775.html)
+
++ [超自然赛博朋克风类银河城游戏《幻刃奇美拉》Steam页面 明年发售](https://www.3dmgame.com/news/202311/3881773.html)
+
++ [蜡笔小新2023新剧场版预售开启发布中国版海报 11月25日感受超能力](https://www.3dmgame.com/news/202311/3881772.html)
+
++ [志尊淳被任命为《女神异闻录》系列大使 将出演宣传广告](https://www.3dmgame.com/news/202311/3881771.html)
+
++ [《魔兽世界》展开看直播送坐骑活动 收视率直冲Twitch榜首](https://www.3dmgame.com/news/202311/3881769.html)
+
++ [《幻影星系》Steam抢先体验 太空机甲战斗科幻新游](https://www.3dmgame.com/news/202311/3881768.html)
+
++ [《守望先锋2》天使僵尸医生礼包上线 售1600金币](https://www.3dmgame.com/news/202311/3881767.html)
+
++ [《七大罪：起源》G-Star展会公布新截图和全新细节](https://www.3dmgame.com/news/202311/3881774.html)
+
++ [《最终幻想7：重生》与原版新对比图 画面更美让人难忘](https://www.3dmgame.com/news/202311/3881770.html)
+
++ [“曼达洛人”佩德罗·帕斯卡有望在漫威电影宇宙中出演“神奇先生”](https://www.3dmgame.com/news/202311/3881765.html)
+
++ [《原神》泄露者被官方要求公开X个人现实信息 或面临起诉或逮捕](https://www.3dmgame.com/news/202311/3881764.html)
+
++ [《火影忍者：终极风暴羁绊》发售预告 Steam版明日解锁](https://www.3dmgame.com/news/202311/3881762.html)
+
++ [Newzoo：手游受挑战 下调今年游戏市场份额预测](https://www.3dmgame.com/news/202311/3881763.html)
+
++ [《幕后高手》停止运营通知 12月14日停运](https://www.3dmgame.com/news/202311/3881766.html)
+
++ [《刺客信条：幻景》PS5版玩家一个月内流失68%](https://www.3dmgame.com/news/202311/3881761.html)
+

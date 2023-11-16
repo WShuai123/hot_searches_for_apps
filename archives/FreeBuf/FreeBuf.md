@@ -47,3 +47,7 @@
 
 + [CVE-2023-46604 AMQ RCE漏洞应急响应实录](https://www.freebuf.com/vuls/383845.html)
 
++ [还能这样操作？勒索软件团伙向监管部门举报受害者！](https://www.freebuf.com/news/384006.html)
+
++ [安卓用户当心： CERT-IN 发布高危漏洞警告](https://www.freebuf.com/news/384019.html)
+
