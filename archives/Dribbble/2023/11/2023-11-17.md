@@ -89,3 +89,17 @@
 
 + [DJF Branding Presentation](https://dribbble.com/shots/)
 
++ [Fitness App Design Concept](https://dribbble.com/shots/)
+
++ [current read](https://dribbble.com/shots/)
+
++ [Cute lion cub revisited](https://dribbble.com/shots/)
+
++ [Seven Aldermen](https://dribbble.com/shots/)
+
++ [Feature Cards concepts](https://dribbble.com/shots/)
+
++ [On  demand](https://dribbble.com/shots/)
+
++ [Web UI](https://dribbble.com/shots/)
+
