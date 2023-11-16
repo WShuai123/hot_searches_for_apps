@@ -209,3 +209,11 @@
 
 + [如何快速搭建Spring Boot接口调试环境并实现公网访问](https://blog.csdn.net/m0_70980326/article/details/134444444)
 
++ [分布式系统架构理论与组件](https://blog.csdn.net/weixin_44816664/article/details/134362254)
+
++ [【Linux】命令expect使用详解](https://blog.csdn.net/qq_35995514/article/details/134426603)
+
++ [使用量子玻尔兹曼机推进机器学习：新范式](https://blog.csdn.net/gongdiwudu/article/details/134417612)
+
++ [计算机视觉+深度学习+机器学习+opencv+目标检测跟踪+一站式学习（代码+视频+PPT)](https://blog.csdn.net/ALiLiLiYa/article/details/134406118)
+

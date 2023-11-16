@@ -59,3 +59,7 @@
 
 + [新浪与华为达成合作，启动微博等鸿蒙原生应用开发](https://m.ithome.com/html/733080.htm)
 
++ [广电总局发布智能电视操作系统 TVOS 5.0](https://m.ithome.com/html/733081.htm)
+
++ [OPPO ColorOS14 发布即推送，首批 6 款机型今天升级正式版](https://m.ithome.com/html/732936.htm)
+

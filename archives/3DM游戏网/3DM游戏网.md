@@ -293,3 +293,5 @@
 
 + [世嘉表示将进行更多的收购 而不是出售自己](https://www.3dmgame.com/news/202311/3881829.html)
 
++ [《武装突袭Reforger》现已在PC和Xbox正式推出](https://www.3dmgame.com/news/202311/3881831.html)
+
