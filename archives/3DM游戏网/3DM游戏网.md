@@ -101,3 +101,5 @@
 
 + [裁员有效：Embracer债务已减少至14亿美元](https://www.3dmgame.com/news/202311/3881866.html)
 
++ [《仙剑世界》问剑测试定档12.15 手机、PC、云互通](https://www.3dmgame.com/news/202311/3881919.html)
+

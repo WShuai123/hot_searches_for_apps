@@ -49,3 +49,25 @@
 
 + [Le cercle](https://dribbble.com/shots/)
 
++ [Bricks](https://dribbble.com/shots/)
+
++ [Illustration for Vantagediscovery.com](https://dribbble.com/shots/)
+
++ [Workspace Rental Hub Website](https://dribbble.com/shots/)
+
++ [Hales Freight Website Home Page](https://dribbble.com/shots/)
+
++ [Geometric Tiger Logo](https://dribbble.com/shots/)
+
++ [Taylor's Apothecary](https://dribbble.com/shots/)
+
++ [Simple AI UI](https://dribbble.com/shots/)
+
++ [Dark Mode Pricing](https://dribbble.com/shots/)
+
++ [NFS - Filter Component](https://dribbble.com/shots/)
+
++ [Pronghorn badge](https://dribbble.com/shots/)
+
++ [Frame animation w/ smoke ????](https://dribbble.com/shots/)
+

@@ -201,3 +201,7 @@
 
 + [百度地图-智能导航，打车地铁公交更快出行](https://itunes.apple.com/cn/app/id452186370?mt=8)
 
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
++ [微信输入法](https://itunes.apple.com/cn/app/id1618175312?mt=8)
+
