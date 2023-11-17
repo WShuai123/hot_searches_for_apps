@@ -119,3 +119,33 @@
 
 + [韩国恋爱游戏《母胎单身》本月发售主机版本](https://www.3dmgame.com/news/202311/3881843.html)
 
++ [《名侦探柯南：黑铁的鱼影》官宣确认引进内地 或年末上映](https://www.3dmgame.com/news/202311/3881860.html)
+
++ [《收获日3》已回本 Starbreeze季度收入大幅增长](https://www.3dmgame.com/news/202311/3881859.html)
+
++ [索尼：做PS掌机目的不为盈利 而是要加强PS5用户粘性](https://www.3dmgame.com/news/202311/3881858.html)
+
++ [据报道Epic黑五大促11月22日开启：折扣+套娃券+返利](https://www.3dmgame.com/news/202311/3881857.html)
+
++ [《泰迪熊》前传剧集先导预告 1月11日播出](https://www.3dmgame.com/news/202311/3881856.html)
+
++ [制作人确认《最终幻想7 重置版》三部曲将与《最终幻想7：圣子降临》联动](https://www.3dmgame.com/news/202311/3881855.html)
+
++ [世嘉美国被指控反工会：威胁将针对性大规模裁员](https://www.3dmgame.com/news/202311/3881854.html)
+
++ [Unity 6引擎2024年推出 包含AI和更多多人技术](https://www.3dmgame.com/news/202311/3881848.html)
+
++ [大吉大利 今晚吃鸡 《沙盒与副本：英勇之地》又出新花样！](https://www.3dmgame.com/news/202311/3881851.html)
+
++ [《美少女梦工厂2：重生》宣布跳票 2024年5月发售](https://www.3dmgame.com/news/202311/3881852.html)
+
++ [电影《拿破仑》内地定档 12月1日全国上映](https://www.3dmgame.com/news/202311/3881850.html)
+
++ [《迷失》发行商收购南非“最大”开发商24 Bit Games](https://www.3dmgame.com/news/202311/3881853.html)
+
++ [日本任天堂前员工：那里是天才的天堂 普通人的地狱](https://www.3dmgame.com/news/202311/3881847.html)
+
++ [《博德之门 3》将于明年初推出多平台实体豪华版](https://www.3dmgame.com/news/202311/3881849.html)
+
++ [第三人称动作冒险《时空英豪2：新起点》战斗预告](https://www.3dmgame.com/news/202311/3881846.html)
+

@@ -75,3 +75,5 @@
 
 + [【AC天团】提前祝大家万圣节快乐 ! ! !](http://www.acfun.cn/v/ac42967633)
 
++ [【栗七浔】Faded （cover Alan Walker）| 你在我的另一场梦里](http://www.acfun.cn/v/ac42956047)
+

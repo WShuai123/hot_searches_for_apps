@@ -45,3 +45,5 @@
 
 + [引流网站大量沦陷，攻击者借鸡生蛋](https://www.freebuf.com/articles/network/383636.html)
 
++ [一文详解Ntlm Relay](https://www.freebuf.com/articles/network/383408.html)
+

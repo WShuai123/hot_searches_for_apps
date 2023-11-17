@@ -27,3 +27,7 @@
 
 + [OPPO 自研潘塔纳尔系统落地，ColorOS 14 搭配 AndesGPT](https://m.ithome.com/html/732932.htm)
 
++ [华为发布两款全闪存新品，推进全场景闪存化](https://m.ithome.com/html/733115.htm)
+
++ [排名第一，华为 Mate 60 Pro+ 手机 DXOMARK 影像测试总分 157](https://m.ithome.com/html/733142.htm)
+
