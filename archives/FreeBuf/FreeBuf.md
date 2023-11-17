@@ -57,3 +57,5 @@
 
 + [美杜莎勒索软件“再”出手，丰田公司遭遇网络攻击](https://www.freebuf.com/news/384123.html)
 
++ [谷歌的零信任实践BeyondCorp到底讲了啥？](https://www.freebuf.com/articles/database/378373.html)
+
