@@ -59,3 +59,5 @@
 
 + [过去 10 年消费全部免单，美团外卖感谢首位用户隋蕊](https://m.ithome.com/html/733375.htm)
 
++ [小米新款游戏本曝光：搭载 i9-14900HX 处理器](https://m.ithome.com/html/733382.htm)
+

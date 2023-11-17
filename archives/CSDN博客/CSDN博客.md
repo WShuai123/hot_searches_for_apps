@@ -205,3 +205,7 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134450021)
 
++ [Linux基本指令及周边(第一弹）](https://blog.csdn.net/weixin_73397765/article/details/134465722)
+
++ [2023 年 数维杯（D题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134438351)
+

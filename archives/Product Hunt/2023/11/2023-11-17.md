@@ -189,3 +189,13 @@
 
 + [Automatica.xyz - Powered by AI](https://www.producthunt.com/posts/automatica-xyz-powered-by-ai)
 
++ [NewsGamer](https://www.producthunt.com/posts/newsgamer)
+
++ [GPTsGarden](https://www.producthunt.com/posts/gptsgarden)
+
++ [PomoTimer](https://www.producthunt.com/posts/pomotimer-2)
+
++ [Outset AI Voice Interviews](https://www.producthunt.com/posts/outset-ai-voice-interviews)
+
++ [Ceeya Mobile](https://www.producthunt.com/posts/ceeya-mobile)
+

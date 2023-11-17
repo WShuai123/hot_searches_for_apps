@@ -123,3 +123,7 @@
 
 + [全网最晚皇后牌](http://www.acfun.cn/v/ac42974213)
 
++ [小鹿乱撞~撞到你心上了吗？](http://www.acfun.cn/v/ac42976281)
+
++ [【东方】What s the white magic【A-One feat. lily-an】](http://www.acfun.cn/v/ac42971121)
+

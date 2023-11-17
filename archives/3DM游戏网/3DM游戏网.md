@@ -255,3 +255,5 @@
 
 + [《堕落之主》更新引入Nanite 游戏性能继续优化](https://www.3dmgame.com/news/202311/3881912.html)
 
++ [《GTA6》的开放世界地图可能是5代的3倍大](https://www.3dmgame.com/news/202311/3881915.html)
+
