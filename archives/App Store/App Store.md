@@ -211,3 +211,5 @@
 
 + [头条搜索极速版-原今日头条极速版](https://itunes.apple.com/cn/app/id1410120498?mt=8)
 
++ [百度地图-智能导航，打车地铁公交更快出行](https://itunes.apple.com/cn/app/id452186370?mt=8)
+

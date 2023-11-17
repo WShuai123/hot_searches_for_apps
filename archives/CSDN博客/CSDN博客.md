@@ -197,3 +197,11 @@
 
 + [30天黑客（网络安全）自学](https://blog.csdn.net/y473158Yansu/article/details/134450030)
 
++ [【强化学习】时间循环最优决策：原理与Python实战](https://blog.csdn.net/2202_75623950/article/details/134461728)
+
++ [C# 实现腾讯云多路直播流的云端混合录制](https://blog.csdn.net/michaelline/article/details/134458337)
+
++ [【腾讯云云上实验室-向量数据库】TAI时代的数据枢纽-向量数据库 VectorDB](https://blog.csdn.net/qq_35190492/article/details/134466008)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134450021)
+

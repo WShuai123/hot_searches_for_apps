@@ -249,3 +249,9 @@
 
 + [联想裸眼3D显示器ThinkVision 27开售 价格2万](https://www.3dmgame.com/news/202311/3881911.html)
 
++ [苹果自研5G基带芯片进展不顺 未来3年继续用高通](https://www.3dmgame.com/news/202311/3881914.html)
+
++ [《龙之信条2》可能在2024年3月22日发售](https://www.3dmgame.com/news/202311/3881913.html)
+
++ [《堕落之主》更新引入Nanite 游戏性能继续优化](https://www.3dmgame.com/news/202311/3881912.html)
+
