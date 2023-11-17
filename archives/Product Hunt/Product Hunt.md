@@ -101,3 +101,5 @@
 
 + [Barrax AI](https://www.producthunt.com/posts/barrax-ai)
 
++ [ResearchGPT](https://www.producthunt.com/posts/researchgpt)
+
