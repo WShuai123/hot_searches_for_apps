@@ -131,3 +131,9 @@
 
 + [数据库选型与优化：策略与技巧的探讨](https://blog.csdn.net/NineData/article/details/134468722)
 
++ [基于opencv+tensorflow+神经网络的智能银行卡卡号识别系统——深度学习算法应用(含python、模型源码)+数据集（二）](https://blog.csdn.net/qq_31136513/article/details/134391948)
+
++ [高级 Bootstrap：发挥 Sass 定制的威力](https://blog.csdn.net/qq_36478920/article/details/134414215)
+
++ [网络安全（黑客）自学1.0](https://blog.csdn.net/Y7472821/article/details/134450044)
+

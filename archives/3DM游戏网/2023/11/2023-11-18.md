@@ -103,3 +103,11 @@
 
 + [《仙剑世界》问剑测试定档12.15 手机、PC、云互通](https://www.3dmgame.com/news/202311/3881919.html)
 
++ [《JOJO群星之战R》DLC角色Wonder of U公布](https://www.3dmgame.com/news/202311/3881923.html)
+
++ [《最终幻想7》重制版放出新回顾视频 为重生做准备](https://www.3dmgame.com/news/202311/3881922.html)
+
++ [传言《星球大战：旧共和国武士》重制版已不再开发](https://www.3dmgame.com/news/202311/3881921.html)
+
++ [《最终幻想7：重生》将新增动态难度/等级适配](https://www.3dmgame.com/news/202311/3881920.html)
+
