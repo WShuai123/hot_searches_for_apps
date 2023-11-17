@@ -101,3 +101,33 @@
 
 + [计算机网络的发展](https://blog.csdn.net/weixin_72077052/article/details/134444592)
 
++ [[ 云计算 | AWS ] AI 编程助手新势力 Amazon CodeWhisperer：优势功能及实用技巧](https://blog.csdn.net/dietime1943/article/details/134453885)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134450021)
+
++ [深入了解百度爬虫工作原理](https://blog.csdn.net/weixin_42794881/article/details/134462622)
+
++ [QCChart2D Charting 3.1 for .Net Crack](https://blog.csdn.net/john_dwh/article/details/134468459)
+
++ [30天黑客（网络安全）自学](https://blog.csdn.net/y473158Yansu/article/details/134450030)
+
++ [Spring接入Metric+Graphite+Grafana搭建监控系统](https://blog.csdn.net/m0_74787523/article/details/134463988)
+
++ [使用Nginx可视化管理工具+内网穿透在本地搭建服务器并实现远程访问](https://blog.csdn.net/2301_77485708/article/details/134441503)
+
++ [一文浅入Springboot+mybatis-plus+actuator+Prometheus+Grafana+Swagger2.9.2开发运维一体化](https://blog.csdn.net/weixin_47268883/article/details/134452984)
+
++ [运维知识点-Windows操作系统cmd/Dos批处理命令与脚本手册bat](https://blog.csdn.net/qq_33608000/article/details/134461827)
+
++ [云计算（Docker）](https://blog.csdn.net/Y2000104/article/details/134454515)
+
++ [Elasticsearch：运用向量搜索通过图像搜索找到你的小狗](https://blog.csdn.net/UbuntuTouch/article/details/134438930)
+
++ [51单片机应用从零开始（四）](https://blog.csdn.net/MANONGDKY/article/details/134433460)
+
++ [html实现图片裁剪处理(附源码)](https://blog.csdn.net/weixin_43151418/article/details/134455169)
+
++ [六部工坊服务机器人（v1.4.1）使用文档及注意事项](https://blog.csdn.net/github_74952777/article/details/134470632)
+
++ [数据库选型与优化：策略与技巧的探讨](https://blog.csdn.net/NineData/article/details/134468722)
+
