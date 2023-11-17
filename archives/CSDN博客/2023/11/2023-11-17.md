@@ -187,3 +187,5 @@
 
 + [“开源 vs. 闭源：大模型的未来发展趋势预测“——探讨大模型未来的发展方向](https://blog.csdn.net/u014727709/article/details/134450984)
 
++ [基于JavaWeb+SpringBoot+Vue医疗器械商城微信小程序系统的设计和实现](https://blog.csdn.net/qq_39659876/article/details/134452070)
+

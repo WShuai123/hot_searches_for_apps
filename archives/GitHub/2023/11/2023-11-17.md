@@ -51,3 +51,27 @@
 
 + [hyperium / hyper](https://github.com/hyperium/hyper)
 
++ [hashicorp / terraform](https://github.com/hashicorp/terraform)
+
++ [cbh123 / narrator](https://github.com/cbh123/narrator)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [tldraw / tldraw](https://github.com/tldraw/tldraw)
+
++ [MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev)
+
++ [kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
++ [mattermost / focalboard](https://github.com/mattermost/focalboard)
+
++ [0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
+
++ [onetable-io / onetable](https://github.com/onetable-io/onetable)
+
++ [disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics)
+
++ [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+

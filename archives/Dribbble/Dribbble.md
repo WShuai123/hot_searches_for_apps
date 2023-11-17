@@ -167,3 +167,13 @@
 
 + [I rejected an Art Director role at Apple](https://dribbble.com/shots/)
 
++ [Pronghorn badge](https://dribbble.com/shots/)
+
++ [Dashboard Design](https://dribbble.com/shots/)
+
++ [Packaging Design for condoms](https://dribbble.com/shots/)
+
++ [Simple AI UI](https://dribbble.com/shots/)
+
++ [Accounting Web App Concept](https://dribbble.com/shots/)
+

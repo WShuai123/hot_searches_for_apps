@@ -187,3 +187,5 @@
 
 + [Barrax AI](https://www.producthunt.com/posts/barrax-ai)
 
++ [Automatica.xyz - Powered by AI](https://www.producthunt.com/posts/automatica-xyz-powered-by-ai)
+
