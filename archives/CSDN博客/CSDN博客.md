@@ -189,3 +189,11 @@
 
 + [基于JavaWeb+SpringBoot+Vue医疗器械商城微信小程序系统的设计和实现](https://blog.csdn.net/qq_39659876/article/details/134452070)
 
++ [基于IDEA进行Maven工程构建](https://blog.csdn.net/Y_hanxiong/article/details/134460571)
+
++ [《Linux从练气到飞升》No.29 生产者消费者模型](https://blog.csdn.net/m0_67759533/article/details/134360924)
+
++ [【智能家居】5、主流程设计以及外设框架编写](https://blog.csdn.net/weixin_53062144/article/details/134459377)
+
++ [30天黑客（网络安全）自学](https://blog.csdn.net/y473158Yansu/article/details/134450030)
+

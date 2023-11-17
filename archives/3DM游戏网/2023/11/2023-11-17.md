@@ -247,3 +247,5 @@
 
 + [迪士尼剧版《波西·杰克逊》发中文正式预告](https://www.3dmgame.com/news/202311/3881910.html)
 
++ [联想裸眼3D显示器ThinkVision 27开售 价格2万](https://www.3dmgame.com/news/202311/3881911.html)
+
