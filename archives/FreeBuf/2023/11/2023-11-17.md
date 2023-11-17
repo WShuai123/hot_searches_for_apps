@@ -59,3 +59,5 @@
 
 + [谷歌的零信任实践BeyondCorp到底讲了啥？](https://www.freebuf.com/articles/database/378373.html)
 
++ [Gartner发布2024年及未来中国网络安全重要趋势](https://www.freebuf.com/news/384189.html)
+

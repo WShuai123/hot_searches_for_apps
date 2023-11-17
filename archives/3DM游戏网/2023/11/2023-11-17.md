@@ -233,3 +233,15 @@
 
 + [新麒麟吹起反击号角！华为手机10月销量暴涨83%：遥遥领先所有竞品](https://www.3dmgame.com/news/202311/3881892.html)
 
++ [英伟达对中国厂商禁售芯片！腾讯等巨头表态：已囤够](https://www.3dmgame.com/news/202311/3881909.html)
+
++ [华为鸿蒙原生App速度媲美苹果iOS 流畅度提升20-30%](https://www.3dmgame.com/news/202311/3881908.html)
+
++ [TGA创始人暗示《博德之门3》是今年年度游戏 你的选择是？](https://www.3dmgame.com/news/202311/3881906.html)
+
++ [《龙之信条2》Showcase直播活动 11月29日上线](https://www.3dmgame.com/news/202311/3881905.html)
+
++ [抖音测试付费短视频：用户付费后只能看7天](https://www.3dmgame.com/news/202311/3881904.html)
+
++ [剧版《史密斯夫妇》亚裔+黑人新剧照 准备追剧吗？](https://www.3dmgame.com/news/202311/3881903.html)
+

@@ -181,3 +181,7 @@
 
 + [YOLOv8改进 | 如何在网络结构中添加注意力机制、C2f、卷积、Neck、检测头](https://blog.csdn.net/java1314777/article/details/134432710)
 
++ [【送书活动】阿里云经历的历史级的大故障，能给我们什么启迪？](https://blog.csdn.net/m0_37482190/article/details/134448482)
+
++ [计算机网络的发展](https://blog.csdn.net/weixin_72077052/article/details/134444592)
+

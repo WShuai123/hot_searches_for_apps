@@ -49,3 +49,5 @@
 
 + [联发科天玑 8300 首个跑分出炉，小米 Redmi K70 系列手机搭载](https://m.ithome.com/html/733171.htm)
 
++ [华为余承东：智界、问界之后还有两个“界”，来自北汽、江淮](https://m.ithome.com/html/733297.htm)
+

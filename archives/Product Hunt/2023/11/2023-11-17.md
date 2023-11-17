@@ -125,3 +125,21 @@
 
 + [Automatica.xyz](https://www.producthunt.com/posts/automatica-xyz)
 
++ [Haircut and Styling Advice](https://www.producthunt.com/posts/haircut-and-styling-advice)
+
++ [Formula God](https://www.producthunt.com/posts/formula-god-2)
+
++ [GPT Unbound](https://www.producthunt.com/posts/gpt-unbound)
+
++ [Route](https://www.producthunt.com/posts/route-4)
+
++ [First Words - Multilingual](https://www.producthunt.com/posts/first-words-multilingual)
+
++ [catalyst for GitLab™](https://www.producthunt.com/posts/catalyst-for-gitlab)
+
++ [SalesGPT by Ful.io](https://www.producthunt.com/posts/salesgpt-by-ful-io)
+
++ [ClassroomIO](https://www.producthunt.com/posts/classroomio)
+
++ [Bucket Coach](https://www.producthunt.com/posts/bucket-coach)
+
