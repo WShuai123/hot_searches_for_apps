@@ -129,3 +129,11 @@
 
 + [Linux Traefik工具Dashboard结合内网穿透实现远程访问](https://blog.csdn.net/qq_58286439/article/details/134452514)
 
++ [Linux Docker图形化工具Portainer如何进行远程访问？](https://blog.csdn.net/qq_63320529/article/details/134440769)
+
++ [LayoutLMv3 ： 基于统一文本和带Masking图像的文档AI预训练【论文翻译】](https://blog.csdn.net/sinat_28442665/article/details/132832189)
+
++ [谈谈一个IT杂家的职业生涯规划，你的护城河被AI 攻破了么](https://blog.csdn.net/wangyaninglm/article/details/134410731)
+
++ [【计算机网络笔记】网络地址转换(NAT)](https://blog.csdn.net/m0_60511809/article/details/134409925)
+

@@ -47,3 +47,5 @@
 
 + [一文详解Ntlm Relay](https://www.freebuf.com/articles/network/383408.html)
 
++ [三星公司第三方应用程序漏洞遭黑客利用，客户数据被窃！](https://www.freebuf.com/news/384112.html)
+

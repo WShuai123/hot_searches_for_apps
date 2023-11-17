@@ -31,3 +31,7 @@
 
 + [排名第一，华为 Mate 60 Pro+ 手机 DXOMARK 影像测试总分 157](https://m.ithome.com/html/733142.htm)
 
++ [实测显示，没必要为省电而关掉苹果 iPhone 15 Pro 的 ProMotion 高刷功能](https://m.ithome.com/html/733126.htm)
+
++ [一粤澳两地牌客车被查：车头前柱、发动机空气过滤器内藏匿 120 个 CPU，668 个内存条](https://m.ithome.com/html/733137.htm)
+

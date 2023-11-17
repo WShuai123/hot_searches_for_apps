@@ -149,3 +149,19 @@
 
 + [第三人称动作冒险《时空英豪2：新起点》战斗预告](https://www.3dmgame.com/news/202311/3881846.html)
 
++ [裁员有效：Embracer债务已减少至14亿美元](https://www.3dmgame.com/news/202311/3881866.html)
+
++ [治愈系益智解谜游戏《请触摸艺术》公布油画风续作](https://www.3dmgame.com/news/202311/3881867.html)
+
++ [顽皮狗创意总监尼尔获得NYVGCC传奇奖 小岛秀夫也曾获奖](https://www.3dmgame.com/news/202311/3881868.html)
+
++ [《王者荣耀》联动美少女战士皮肤开售 代表月亮惩罚你](https://www.3dmgame.com/news/202311/3881861.html)
+
++ [索尼为PlayStation Store新增游戏星级评定系统](https://www.3dmgame.com/news/202311/3881862.html)
+
++ [索尼PS5 Access无障碍手柄国行版预计12月6日发售 预购已开启](https://www.3dmgame.com/news/202311/3881863.html)
+
++ [《暗黑破坏神4》新奖励活动：额外金币和经验值等你拿](https://www.3dmgame.com/news/202311/3881864.html)
+
++ [策略游戏《腐根之里》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881865.html)
+
