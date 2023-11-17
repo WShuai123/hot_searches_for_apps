@@ -205,3 +205,9 @@
 
 + [《巴别号漫游指南》正式登陆国行版Nintendo Switch及TapTap平台](https://www.3dmgame.com/news/202311/3881880.html)
 
++ [策略模拟RPG《圣兽之王》公开“菲布利斯大陆”新情报](https://www.3dmgame.com/news/202311/3881890.html)
+
++ [《英雄传说：黎之轨迹》Switch版开场动画公布 2024年3月发售](https://www.3dmgame.com/news/202311/3881891.html)
+
++ [三星英国曝出信息泄露事件 黑客入侵长达1年](https://www.3dmgame.com/news/202311/3881889.html)
+

@@ -47,3 +47,5 @@
 
 + [华为花瓣支付公司正式完成更名，加快鸿蒙生态构建](https://m.ithome.com/html/733237.htm)
 
++ [联发科天玑 8300 首个跑分出炉，小米 Redmi K70 系列手机搭载](https://m.ithome.com/html/733171.htm)
+

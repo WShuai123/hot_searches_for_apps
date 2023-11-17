@@ -109,3 +109,19 @@
 
 + [Fake Social - fakesocial.ai](https://www.producthunt.com/posts/fake-social-fakesocial-ai)
 
++ [Certainly Health](https://www.producthunt.com/posts/certainly-health)
+
++ [PartyRock](https://www.producthunt.com/posts/partyrock)
+
++ [Glorify 3.0 Design Tool Powered by AI](https://www.producthunt.com/posts/glorify-3-0-design-tool-powered-by-ai)
+
++ [Ramp's Job Board](https://www.producthunt.com/posts/ramp-s-job-board)
+
++ [Cypher](https://www.producthunt.com/posts/cypher-3)
+
++ [Kraftful GPT](https://www.producthunt.com/posts/kraftful-gpt)
+
++ [Supster](https://www.producthunt.com/posts/supster)
+
++ [Automatica.xyz](https://www.producthunt.com/posts/automatica-xyz)
+
