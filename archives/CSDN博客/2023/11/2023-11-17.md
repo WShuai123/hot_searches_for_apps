@@ -145,3 +145,13 @@
 
 + [保护数据完整性：探索 RocketMQ 分布式事务消息的力量](https://blog.csdn.net/vnjohn/article/details/134337618)
 
++ [Kafka的重要组件，谈谈流处理引擎Kafka Stream](https://blog.csdn.net/u011709538/article/details/134269056)
+
++ [Python | 机器学习之PCA降维](https://blog.csdn.net/m0_57532432/article/details/134326459)
+
++ [基于opencv+tensorflow+神经网络的智能银行卡卡号识别系统——深度学习算法应用(含python、模型源码)+数据集（二）](https://blog.csdn.net/qq_31136513/article/details/134391948)
+
++ [使用Nginx可视化管理工具+内网穿透在本地搭建服务器并实现远程访问](https://blog.csdn.net/2301_77485708/article/details/134441503)
+
++ [Hadoop-HDFS架构与设计](https://blog.csdn.net/wlphlj/article/details/130374338)
+

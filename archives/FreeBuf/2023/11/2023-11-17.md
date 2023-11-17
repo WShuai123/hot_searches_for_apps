@@ -51,3 +51,5 @@
 
 + [DarkCasino： 利用 WinRAR 漏洞的新兴 APT 组织](https://www.freebuf.com/news/384114.html)
 
++ [等保2.0测评：麒麟操作系统](https://www.freebuf.com/articles/system/383809.html)
+

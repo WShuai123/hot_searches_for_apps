@@ -183,3 +183,7 @@
 
 + [VR游戏《度假模拟器》销量突破百万份，发布新更新](https://www.3dmgame.com/news/202311/3881875.html)
 
++ [大限已到！RTX 4090显卡今起正式在国内禁售](https://www.3dmgame.com/news/202311/3881878.html)
+
++ [在《GTA6》的预告片揭晓之前 有关《GTA4》重制版的传言再次浮出水面](https://www.3dmgame.com/news/202311/3881879.html)
+

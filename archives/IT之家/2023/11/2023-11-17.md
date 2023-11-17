@@ -43,3 +43,5 @@
 
 + [消息称三星电子已终止与京东方合作，不再采购其面板](https://m.ithome.com/html/733113.htm)
 
++ [苹果宣布明年适配 RCS 信息方案](https://m.ithome.com/html/733140.htm)
+
