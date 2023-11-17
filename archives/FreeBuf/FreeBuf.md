@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 英雄联盟EUW服务器遭攻击后宕机；丹麦遭最大规模网络攻击](https://www.freebuf.com/news/383841.html)
 
++ [FreeBuf早报 | 支付宝回应会员服务“崩了”；越南邮政泄露 1.2TB 数据](https://www.freebuf.com/news/384083.html)
+
++ [引流网站大量沦陷，攻击者借鸡生蛋](https://www.freebuf.com/articles/network/383636.html)
+

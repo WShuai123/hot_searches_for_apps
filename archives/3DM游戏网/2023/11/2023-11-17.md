@@ -113,3 +113,9 @@
 
 + [三位新角色确定加入《咒术回战 战华双乱》](https://www.3dmgame.com/news/202311/3881838.html)
 
++ [《刺客信条Nexus VR》现已正式发售](https://www.3dmgame.com/news/202311/3881845.html)
+
++ [编剧：《赛博朋克2077》的续作不一定发生在夜之城](https://www.3dmgame.com/news/202311/3881844.html)
+
++ [韩国恋爱游戏《母胎单身》本月发售主机版本](https://www.3dmgame.com/news/202311/3881843.html)
+
