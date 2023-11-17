@@ -45,3 +45,5 @@
 
 + [苹果宣布明年适配 RCS 信息方案](https://m.ithome.com/html/733140.htm)
 
++ [华为花瓣支付公司正式完成更名，加快鸿蒙生态构建](https://m.ithome.com/html/733237.htm)
+

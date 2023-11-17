@@ -53,3 +53,7 @@
 
 + [等保2.0测评：麒麟操作系统](https://www.freebuf.com/articles/system/383809.html)
 
++ [NucleiFuzzer：一款功能强大的自动化Web应用程序漏洞检测工具](https://www.freebuf.com/sectool/381002.html)
+
++ [美杜莎勒索软件“再”出手，丰田公司遭遇网络攻击](https://www.freebuf.com/news/384123.html)
+

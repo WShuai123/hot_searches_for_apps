@@ -187,3 +187,21 @@
 
 + [在《GTA6》的预告片揭晓之前 有关《GTA4》重制版的传言再次浮出水面](https://www.3dmgame.com/news/202311/3881879.html)
 
++ [日本人气组合Yoasobi与《宝可梦》联动新歌将于11月18日发布](https://www.3dmgame.com/news/202311/3881885.html)
+
++ [Steam Deck系统更新 官方底座现支持VRR外接屏幕](https://www.3dmgame.com/news/202311/3881886.html)
+
++ [《方舟：生存飞升》两周内在 Steam平台销售超过60万份](https://www.3dmgame.com/news/202311/3881887.html)
+
++ [《风暴英雄》大型补丁上线正式服 全英雄平衡错误修复](https://www.3dmgame.com/news/202311/3881888.html)
+
++ [日本品牌推出《间谍过家家》联名女鞋 阿尼亚同款](https://www.3dmgame.com/news/202311/3881881.html)
+
++ [雅马哈联动《尼尔：机械纪元》 推出限定ZG01直播调音台](https://www.3dmgame.com/news/202311/3881882.html)
+
++ [托德回忆《辐射76》：失败让我们成长为更好的开发者](https://www.3dmgame.com/news/202311/3881883.html)
+
++ [剧情主导的横板像素文字冒险游戏《无名归宿》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881884.html)
+
++ [《巴别号漫游指南》正式登陆国行版Nintendo Switch及TapTap平台](https://www.3dmgame.com/news/202311/3881880.html)
+

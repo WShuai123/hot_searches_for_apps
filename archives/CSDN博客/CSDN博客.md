@@ -155,3 +155,15 @@
 
 + [Hadoop-HDFS架构与设计](https://blog.csdn.net/wlphlj/article/details/130374338)
 
++ [火星探测器背后的人工智能：从原理到实战的强化学习](https://blog.csdn.net/magicyangjay111/article/details/134458632)
+
++ [我把MySQL运行在Docker上，差点完了……](https://blog.csdn.net/2301_78843735/article/details/134443014)
+
++ [vue-组件生命周期+网络请求](https://blog.csdn.net/2302_76329106/article/details/134422006)
+
++ [2018年五一杯数学建模C题江苏省本科教育质量综合评价解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134454629)
+
++ [OPPO发布AndesGPT大模型；Emu Video和Emu Edit的新突破](https://blog.csdn.net/weixin_40425640/article/details/134456408)
+
++ [【用unity实现100个游戏之15】开发一个类保卫萝卜的Unity2D塔防游戏4（附项目源码）](https://blog.csdn.net/qq_36303853/article/details/134456150)
+
