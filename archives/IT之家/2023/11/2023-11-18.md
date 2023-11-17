@@ -27,3 +27,5 @@
 
 + [消息称魅族 21 手机白色版定位 4K 价位段，极窄四等边直屏](https://m.ithome.com/html/733357.htm)
 
++ [【IT之家评测室】OPPO ColorOS 14 体验：流畅好用只是基础，这次更懂你才是关键](https://m.ithome.com/html/733389.htm)
+
