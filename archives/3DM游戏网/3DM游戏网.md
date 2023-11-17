@@ -165,3 +165,21 @@
 
 + [策略游戏《腐根之里》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881865.html)
 
++ [时速可达1000公里！国内首条超高速低真空管道磁浮系统主体完工](https://www.3dmgame.com/news/202311/3881876.html)
+
++ [手游《大富翁GO》玩家支出总额已达10亿美元](https://www.3dmgame.com/news/202311/3881877.html)
+
++ [Steam Deck OLED抢购开始 V社这次库存管够](https://www.3dmgame.com/news/202311/3881869.html)
+
++ [《模拟人生5》将加入多人游戏模式 带来更多玩法](https://www.3dmgame.com/news/202311/3881870.html)
+
++ [扭转宿命的齿轮！《执谕者：坠月之兆》今日正式发售](https://www.3dmgame.com/news/202311/3881871.html)
+
++ [《缺氧》发布“水落食出”更新 添加新工具新蓝图](https://www.3dmgame.com/news/202311/3881872.html)
+
++ [《夜下降生2》开启Steam预购 国区售价272元](https://www.3dmgame.com/news/202311/3881873.html)
+
++ [《堡垒之夜》新增语音举报 未成年玩家默认开启](https://www.3dmgame.com/news/202311/3881874.html)
+
++ [VR游戏《度假模拟器》销量突破百万份，发布新更新](https://www.3dmgame.com/news/202311/3881875.html)
+

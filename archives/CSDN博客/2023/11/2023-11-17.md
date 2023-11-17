@@ -137,3 +137,11 @@
 
 + [【计算机网络笔记】网络地址转换(NAT)](https://blog.csdn.net/m0_60511809/article/details/134409925)
 
++ [make和makefile](https://blog.csdn.net/m0_69323023/article/details/134433476)
+
++ [穿越时空：未来云计算的奇妙世界](https://blog.csdn.net/qq_43546721/article/details/134416082)
+
++ [FPGA电平标准的介绍](https://blog.csdn.net/dalingertong/article/details/134419844)
+
++ [保护数据完整性：探索 RocketMQ 分布式事务消息的力量](https://blog.csdn.net/vnjohn/article/details/134337618)
+

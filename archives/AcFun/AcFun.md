@@ -77,3 +77,7 @@
 
 + [【栗七浔】Faded （cover Alan Walker）| 你在我的另一场梦里](http://www.acfun.cn/v/ac42956047)
 
++ [【玩弹Lite】Novritsch设计的狙击套装](http://www.acfun.cn/v/ac42955170)
+
++ [没有才艺吗？？？★手机竖屏971★](http://www.acfun.cn/v/ac42966743)
+
