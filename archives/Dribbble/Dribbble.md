@@ -163,3 +163,7 @@
 
 + [Boat painting](https://dribbble.com/shots/)
 
++ [X-Mas card illustration (CKSL '23)](https://dribbble.com/shots/)
+
++ [I rejected an Art Director role at Apple](https://dribbble.com/shots/)
+

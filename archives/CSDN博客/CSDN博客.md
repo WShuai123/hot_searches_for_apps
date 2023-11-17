@@ -185,3 +185,5 @@
 
 + [计算机网络的发展](https://blog.csdn.net/weixin_72077052/article/details/134444592)
 
++ [“开源 vs. 闭源：大模型的未来发展趋势预测“——探讨大模型未来的发展方向](https://blog.csdn.net/u014727709/article/details/134450984)
+

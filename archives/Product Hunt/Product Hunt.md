@@ -143,3 +143,47 @@
 
 + [Bucket Coach](https://www.producthunt.com/posts/bucket-coach)
 
++ [HUE: Find Eateries For YOU](https://www.producthunt.com/posts/hue-find-eateries-for-you)
+
++ [Custom forms in Framer](https://www.producthunt.com/posts/custom-forms-in-framer)
+
++ [BoostBot](https://www.producthunt.com/posts/boostbot-1)
+
++ [SayMyName Cards](https://www.producthunt.com/posts/saymyname-cards)
+
++ [Super Send](https://www.producthunt.com/posts/super-send-2)
+
++ [Project Profit](https://www.producthunt.com/posts/project-profit)
+
++ [PartneroList](https://www.producthunt.com/posts/partnerolist)
+
++ [Freelance Things](https://www.producthunt.com/posts/freelance-things)
+
++ [Read Smart Scheduler Links](https://www.producthunt.com/posts/read-smart-scheduler-links)
+
++ [Fotion](https://www.producthunt.com/posts/fotion)
+
++ [Transcriptmate.com](https://www.producthunt.com/posts/transcriptmate-com)
+
++ [SuperStack](https://www.producthunt.com/posts/superstack)
+
++ [Konfig](https://www.producthunt.com/posts/konfig-3)
+
++ [SVGFlow - Webflow App](https://www.producthunt.com/posts/svgflow-webflow-app)
+
++ [Shellf](https://www.producthunt.com/posts/shellf)
+
++ [ClickUp 3.0](https://www.producthunt.com/posts/clickup-3-0)
+
++ [GPT Discovery Assistant](https://www.producthunt.com/posts/gpt-discovery-assistant)
+
++ [Custom GPT store](https://www.producthunt.com/posts/custom-gpt-store)
+
++ [Empai: Empathic AI Assistant](https://www.producthunt.com/posts/empai-empathic-ai-assistant)
+
++ [Rooms for iOS](https://www.producthunt.com/posts/rooms-for-ios)
+
++ [Linfo.ai](https://www.producthunt.com/posts/linfo-ai)
+
++ [Barrax AI](https://www.producthunt.com/posts/barrax-ai)
+
