@@ -25,3 +25,5 @@
 
 + [OpenAI CEO 离职后，总裁兼联合创始人 Greg Brockman 也宣布辞职](https://m.ithome.com/html/733418.htm)
 
++ [（更新：官方公告）SpaceX 星舰第二次发射：33 台发动机正确启动，二级火箭发生故障失联](https://m.ithome.com/html/733518.htm)
+

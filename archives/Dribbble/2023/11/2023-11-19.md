@@ -49,3 +49,33 @@
 
 + [Seven Aldermen](https://dribbble.com/shots/)
 
++ [ESC Zodiac Collection - Pisces](https://dribbble.com/shots/)
+
++ [Alaskan Camouflage](https://dribbble.com/shots/)
+
++ [Finance Web Dashboard](https://dribbble.com/shots/)
+
++ [Notebook](https://dribbble.com/shots/)
+
++ [Sisense – Analytics and Business Intelligence Platform](https://dribbble.com/shots/)
+
++ [Hales Freight Website Shipping Page](https://dribbble.com/shots/)
+
++ [Fitness app design](https://dribbble.com/shots/)
+
++ [Bradford Bulls](https://dribbble.com/shots/)
+
++ [Evnex - Electric Car Charger](https://dribbble.com/shots/)
+
++ [MFP case study](https://dribbble.com/shots/)
+
++ [EV Hub Charging Station Booking React Admin UI Dashboard Web App](https://dribbble.com/shots/)
+
++ [Vintage Style Travel Poster](https://dribbble.com/shots/)
+
++ [Taman badges](https://dribbble.com/shots/)
+
++ [The Beetle Backs / Back Design](https://dribbble.com/shots/)
+
++ [Dashboard Design](https://dribbble.com/shots/)
+
