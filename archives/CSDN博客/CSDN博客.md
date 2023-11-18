@@ -101,3 +101,7 @@
 
 + [HTML5-原生History](https://blog.csdn.net/wangyuegyq/article/details/134445846)
 
++ [竞赛选题 深度学习驾驶行为状态检测系统(疲劳 抽烟 喝水 玩手机) - opencv python](https://blog.csdn.net/laafeer/article/details/134467237)
+
++ [SystemVerilog学习 （11）——覆盖率](https://blog.csdn.net/apple_53311083/article/details/134465224)
+
