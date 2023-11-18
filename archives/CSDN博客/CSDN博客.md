@@ -105,3 +105,27 @@
 
 + [SystemVerilog学习 （11）——覆盖率](https://blog.csdn.net/apple_53311083/article/details/134465224)
 
++ [AI机器学习 | 基于librosa库和使用scikit-learn库中的分类器进行语音识别](https://blog.csdn.net/superdangbo/article/details/134481774)
+
++ [【云原生-Kurbernetes篇】K8s的存储卷/数据卷+PV与PVC](https://blog.csdn.net/q2524607033/article/details/134452769)
+
++ [为什么Go是后端开发的未来](https://blog.csdn.net/csjds/article/details/134472120)
+
++ [『 MySQL数据库 』数据库之表的约束](https://blog.csdn.net/2202_75303754/article/details/134482616)
+
++ [SpringBoot使用DevTools实现后端热部署](https://blog.csdn.net/2301_80092713/article/details/134434900)
+
++ [[MySQL] MySQL表的约束](https://blog.csdn.net/weixin_67596609/article/details/134429169)
+
++ [13.真刀实枪做项目---博客系统(页面设计)](https://blog.csdn.net/xinhang10/article/details/134482255)
+
++ [syslog快速开始](https://blog.csdn.net/inthat/article/details/134413870)
+
++ [【STM32】RTC（实时时钟）](https://blog.csdn.net/m0_63077733/article/details/134447815)
+
++ [【Linux】C文件系统详解（二）——什么是fd文件描述符以及理解“一切皆文件“](https://blog.csdn.net/weixin_62712120/article/details/134467071)
+
++ [html在线生成二维码（附源码）](https://blog.csdn.net/weixin_43151418/article/details/134458927)
+
++ [【Nacos】配置管理、微服务配置拉取、实现配置热更新、多环境配置](https://blog.csdn.net/qq_64743563/article/details/134474751)
+
