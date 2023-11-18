@@ -57,3 +57,5 @@
 
 + [疑似响尾蛇组织利用Nim后门刺探南亚多国情报](https://www.freebuf.com/articles/paper/383365.html)
 
++ [Callisto：一款基于人工智能实现的二进制代码漏洞分析工具](https://www.freebuf.com/sectool/381031.html)
+

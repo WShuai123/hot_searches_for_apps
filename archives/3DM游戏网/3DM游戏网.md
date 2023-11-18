@@ -163,3 +163,11 @@
 
 + [《Arc Raiders》新实机泄露 发售日待定](https://www.3dmgame.com/news/202311/3881945.html)
 
++ [厂商解释《星球大战：旧共和国武士2》DLC取消原因](https://www.3dmgame.com/news/202311/3881948.html)
+
++ [《沙丘2》将于2024年3月1日提前两周上映](https://www.3dmgame.com/news/202311/3881950.html)
+
++ [L3/L4级自动驾驶可以上路了：事故责任首次获明确](https://www.3dmgame.com/news/202311/3881951.html)
+
++ [策略模拟RPG《圣兽之王》实机 2024年3月8日发售](https://www.3dmgame.com/news/202311/3881952.html)
+

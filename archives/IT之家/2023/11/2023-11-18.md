@@ -43,3 +43,11 @@
 
 + [马云办公室：坚定看好阿里，仍会长期持有阿里股票](https://m.ithome.com/html/733396.htm)
 
++ [消息称努比亚 Z60 Ultra 下月发布，新机采用屏下前摄和 35mm 焦段](https://m.ithome.com/html/733386.htm)
+
++ [ChatGPT 创始人萨姆・阿尔特曼离开 OpenAI，董事会称其“不够坦诚”](https://m.ithome.com/html/733401.htm)
+
++ [苹果 CEO 库克罕见回顾个人生活：半夜送过报纸、兼职翻烤汉堡以攒钱上大学](https://m.ithome.com/html/733414.htm)
+
++ [新款奔驰 GLA 亮相广州车展：外观升级、2.0T 发动机，29.99 万元起](https://m.ithome.com/html/733380.htm)
+
