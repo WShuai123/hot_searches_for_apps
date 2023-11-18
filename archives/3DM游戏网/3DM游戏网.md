@@ -151,3 +151,5 @@
 
 + [《方舟：生存飞升》Steam发售两周 销量超60万](https://www.3dmgame.com/news/202311/3881927.html)
 
++ [《绝区零》比利角色PV 1080p机生走马](https://www.3dmgame.com/news/202311/3881943.html)
+
