@@ -101,3 +101,11 @@
 
 + [《JOJO群星之战R》DLC角色Wonder of U公布](https://www.3dmgame.com/news/202311/3881923.html)
 
++ [科幻冒险游戏《地平线之间》24年初登陆PC/主机](https://www.3dmgame.com/news/202311/3881972.html)
+
++ [PSVR2刀剑动作游戏《虎刃》推迟发行](https://www.3dmgame.com/news/202311/3881971.html)
+
++ [益智游戏《请触摸艺术品2》24年初登陆PC/手机](https://www.3dmgame.com/news/202311/3881970.html)
+
++ [《审判官》将于2024年登陆Xbox/PS5和PC平台](https://www.3dmgame.com/news/202311/3881969.html)
+

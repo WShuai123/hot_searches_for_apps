@@ -129,3 +129,5 @@
 
 + [【Nacos】配置管理、微服务配置拉取、实现配置热更新、多环境配置](https://blog.csdn.net/qq_64743563/article/details/134474751)
 
++ [目录自动清洗](https://blog.csdn.net/HHX_01/article/details/134478368)
+
