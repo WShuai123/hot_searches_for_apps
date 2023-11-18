@@ -63,3 +63,9 @@
 
 + [Steam Deck OLED 掌机国内代购价 4999 元起，半透明限量版 6899 元](https://m.ithome.com/html/733383.htm)
 
++ [消息称小米汽车已完成部分城市门店店长培训，最高月薪可达 3.5 万元](https://m.ithome.com/html/733489.htm)
+
++ [比亚迪宋 L 车型预售 17 天累计订单超 1.1 万辆，12 月 15 日正式上市](https://m.ithome.com/html/733450.htm)
+
++ [华为鸿蒙智行广州车展首次亮相，问界 M9、智界 S7 等车型参展](https://m.ithome.com/html/733394.htm)
+

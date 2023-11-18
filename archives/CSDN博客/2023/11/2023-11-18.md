@@ -191,3 +191,15 @@
 
 + [电子病历编辑器源码（Springboot+原生HTML）](https://blog.csdn.net/xingchenCSDN/article/details/134467554)
 
++ [【Spring篇】使用注解进行开发](https://blog.csdn.net/m0_72853403/article/details/134478144)
+
++ [如何在Linux上搭建本地Docker Registry并实现远程连接](https://blog.csdn.net/xz2935117143/article/details/134473644)
+
++ [【MySQL】索引与事务](https://blog.csdn.net/paperjie/article/details/134360235)
+
++ [Linux本地docker一键部署traefik+内网穿透工具实现远程访问Web UI管理界面](https://blog.csdn.net/ks_wyf/article/details/134478159)
+
++ [竞赛选题 深度学习驾驶行为状态检测系统(疲劳 抽烟 喝水 玩手机) - opencv python](https://blog.csdn.net/laafeer/article/details/134467237)
+
++ [Taro编译警告解决方案：Error: chunk common [mini-css-extract-plugin]](https://blog.csdn.net/qq_43546721/article/details/134469209)
+

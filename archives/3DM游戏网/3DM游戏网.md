@@ -193,3 +193,11 @@
 
 + [杰森·莫玛确认《海王2》是DCEU“终结篇”](https://www.3dmgame.com/news/202311/3881963.html)
 
++ [《赛博朋克2077》续作可能会继续邀请好莱坞演员](https://www.3dmgame.com/news/202311/3881967.html)
+
++ [《半条命》Steam在线峰值打破记录 将近2.4万人](https://www.3dmgame.com/news/202311/3881965.html)
+
++ [传微软也很震惊 提前几分钟才知奥特曼被开除](https://www.3dmgame.com/news/202311/3881966.html)
+
++ [DOTA2 ESL吉隆坡站中国区预选赛 iG 3:0战胜Zero晋级](https://www.3dmgame.com/news/202311/3881964.html)
+
