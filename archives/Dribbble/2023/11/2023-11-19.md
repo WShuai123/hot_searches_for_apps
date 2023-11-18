@@ -85,3 +85,17 @@
 
 + [Footer update](https://dribbble.com/shots/)
 
++ [Artspace Book Slider Animation](https://dribbble.com/shots/)
+
++ [Famous painting serie](https://dribbble.com/shots/)
+
++ [Real Estate Website Concept](https://dribbble.com/shots/)
+
++ [Hales Freight Website Home Page](https://dribbble.com/shots/)
+
++ [Insigrate UI-UX](https://dribbble.com/shots/)
+
++ [T mood (Personal '23)](https://dribbble.com/shots/)
+
++ [Kitchen WIP (continued)](https://dribbble.com/shots/)
+
