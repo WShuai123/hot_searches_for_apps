@@ -47,3 +47,9 @@
 
 + [FastJson 启发式检测](https://www.freebuf.com/articles/web/382961.html)
 
++ [内网渗透测试 | 如何进行权限维持](https://www.freebuf.com/articles/network/383331.html)
+
++ [某企业安全规划实战篇](https://www.freebuf.com/consult/379866.html)
+
++ [FreeBuf 周报 | 阿里云崩了，相关App组团上热搜；伊朗黑客对以色列使用新C2框架](https://www.freebuf.com/news/384161.html)
+

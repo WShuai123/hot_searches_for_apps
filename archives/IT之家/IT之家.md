@@ -33,3 +33,5 @@
 
 + [广汽丰田全新一代凯美瑞车型亮相：内置高通 8155 芯片，华为合作车机](https://m.ithome.com/html/733250.htm)
 
++ [消息称努比亚 Z60 Ultra 手机下月发布，继续采用屏下设计和 35mm 焦段](https://m.ithome.com/html/733386.htm)
+
