@@ -53,3 +53,7 @@
 
 + [苹果中国官网上架 2023 款 Mac Studio 翻新版，售价 27999 元起](https://m.ithome.com/html/733399.htm)
 
++ [非必须不要做 CT：94 万人数据显示 CT 剂量累积和血液恶性肿瘤风险存在正关联](https://m.ithome.com/html/733458.htm)
+
++ [荣耀 100 / Pro 手机跑分曝光：分别配骁龙 7 Gen 3 和骁龙 8 Gen 2 处理器](https://m.ithome.com/html/733447.htm)
+

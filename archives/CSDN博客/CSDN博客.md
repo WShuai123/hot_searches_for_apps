@@ -185,3 +185,5 @@
 
 + [【Linux】C文件系统详解（二）——什么是fd文件描述符以及理解“一切皆文件“](https://blog.csdn.net/weixin_62712120/article/details/134467071)
 
++ [2023年数维杯国际赛B题 棉秸秆热解的催化反应（The catalytic reaction of cotton stalk pyrolysis）完整思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/134440299)
+
