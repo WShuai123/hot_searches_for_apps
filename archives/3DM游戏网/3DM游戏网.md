@@ -153,3 +153,13 @@
 
 + [《绝区零》比利角色PV 1080p机生走马](https://www.3dmgame.com/news/202311/3881943.html)
 
++ [《英雄联盟》S13决赛明天开打：四号种子WBG对决T1](https://www.3dmgame.com/news/202311/3881946.html)
+
++ [《行尸走肉》演员史蒂文·元加入漫威 饰演哨兵](https://www.3dmgame.com/news/202311/3881947.html)
+
++ [G胖讨论游戏延期：推迟是暂时的 但差劲是永久的](https://www.3dmgame.com/news/202311/3881944.html)
+
++ [消息称谷歌 Gemini 模型“难产” 推迟至明年第一季度](https://www.3dmgame.com/news/202311/3881949.html)
+
++ [《Arc Raiders》新实机泄露 发售日待定](https://www.3dmgame.com/news/202311/3881945.html)
+

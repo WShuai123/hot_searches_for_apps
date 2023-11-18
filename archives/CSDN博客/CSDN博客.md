@@ -163,3 +163,15 @@
 
 + [2023 年 数维杯（D题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134438351)
 
++ [计算机视觉：驾驶员疲劳检测](https://blog.csdn.net/m0_68662723/article/details/134472055)
+
++ [一文带你了解QT Model/View框架的设计思想和实现机制](https://blog.csdn.net/chenlycly/article/details/134475833)
+
++ [Python | 机器学习之SVM支持向量机](https://blog.csdn.net/m0_57532432/article/details/134326490)
+
++ [[HTML]Web前端开发技术1，meta，HBuilder等——喵喵画网页](https://blog.csdn.net/ormstq/article/details/134469392)
+
++ [详解如何使用Jenkins一键打包部署SpringBoot项目](https://blog.csdn.net/weixin_43025151/article/details/134433351)
+
++ [【SpringMvc】SpringMvc +MyBatis整理](https://blog.csdn.net/dandelionl_/article/details/134470839)
+
