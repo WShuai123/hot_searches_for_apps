@@ -45,3 +45,5 @@
 
 + [黑客滥用 Google 表单进行诈骗](https://www.freebuf.com/articles/network/383642.html)
 
++ [FastJson 启发式检测](https://www.freebuf.com/articles/web/382961.html)
+

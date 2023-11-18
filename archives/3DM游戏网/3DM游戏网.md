@@ -115,3 +115,5 @@
 
 + [《半条命》发售25周年更新上线 初代游戏免费领](https://www.3dmgame.com/news/202311/3881924.html)
 
++ [突发！ChatGPT之父奥特曼被OpenAI开除](https://www.3dmgame.com/news/202311/3881926.html)
+
