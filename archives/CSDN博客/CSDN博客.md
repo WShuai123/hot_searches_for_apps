@@ -151,3 +151,9 @@
 
 + [【腾讯云云上实验室-向量数据库】TAI时代的数据枢纽-向量数据库 VectorDB](https://blog.csdn.net/qq_35190492/article/details/134466008)
 
++ [【cpolar】Ubuntu本地快速搭建web小游戏网站，公网用户远程访问](https://blog.csdn.net/qq_73017178/article/details/134474285)
+
++ [基于深度学习的活体人脸识别检测算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/134472293)
+
++ [鸿蒙OS应用开发初体验](https://blog.csdn.net/wwj_748/article/details/134460370)
+
