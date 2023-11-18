@@ -51,3 +51,5 @@
 
 + [新款奔驰 GLA 亮相广州车展：外观升级、2.0T 发动机，29.99 万元起](https://m.ithome.com/html/733380.htm)
 
++ [苹果中国官网上架 2023 款 Mac Studio 翻新版，售价 27999 元起](https://m.ithome.com/html/733399.htm)
+

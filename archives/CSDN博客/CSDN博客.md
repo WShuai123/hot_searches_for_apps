@@ -181,3 +181,7 @@
 
 + [【计算机网络笔记】ICMP（互联网控制报文协议）](https://blog.csdn.net/m0_60511809/article/details/134409994)
 
++ [【FPGA】Verilog：升降计数器 | 波纹计数器 | 约翰逊计数器 | 实现 4-bit 升降计数器的 UP/DOWN](https://blog.csdn.net/weixin_50502862/article/details/134319516)
+
++ [【Linux】C文件系统详解（二）——什么是fd文件描述符以及理解“一切皆文件“](https://blog.csdn.net/weixin_62712120/article/details/134467071)
+

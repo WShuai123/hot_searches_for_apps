@@ -171,3 +171,23 @@
 
 + [策略模拟RPG《圣兽之王》实机 2024年3月8日发售](https://www.3dmgame.com/news/202311/3881952.html)
 
++ [《如龙7外传》PC版性能表现分析：流畅运行无压力](https://www.3dmgame.com/news/202311/3881962.html)
+
++ [经典作品《自由枪骑兵》用MOD变成太空MMO](https://www.3dmgame.com/news/202311/3881961.html)
+
++ [OpenAI离职总裁：CEO突然无原被炒不知所措](https://www.3dmgame.com/news/202311/3881960.html)
+
++ [《心灵杀手2》升级档发布 音画不同步问题得以解决](https://www.3dmgame.com/news/202311/3881959.html)
+
++ [互动式电影《反转21克》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3881958.html)
+
++ [拳头国际服新账号系统：每90天可免费修改一次ID](https://www.3dmgame.com/news/202311/3881957.html)
+
++ [狼人杀免费游戏新作《Illang》公布 2024年登陆NS](https://www.3dmgame.com/news/202311/3881956.html)
+
++ [《战锤西格玛时代：毁灭之境》 发售 综合评价“特别好评”](https://www.3dmgame.com/news/202311/3881955.html)
+
++ [《布鲁伊：电子游戏》正式发售 上市宣传片欣赏](https://www.3dmgame.com/news/202311/3881954.html)
+
++ [捆绑皮肤看起来像BUG 《使命召唤》周边被抢光](https://www.3dmgame.com/news/202311/3881953.html)
+
