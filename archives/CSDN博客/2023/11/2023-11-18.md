@@ -141,3 +141,13 @@
 
 + [HTML5-原生History](https://blog.csdn.net/wangyuegyq/article/details/134445846)
 
++ [⑩② 【MySQL索引】详解MySQL`索引`：结构、分类、性能分析、设计及使用规则。](https://blog.csdn.net/ebb29bbe/article/details/134460373)
+
++ [qt笔记之qml和C++的交互系列(一)：初记](https://blog.csdn.net/weixin_43297891/article/details/134452960)
+
++ [京东数据挖掘（京东运营数据分析）：2023年宠物行业数据分析报告](https://blog.csdn.net/jingcanmou_data/article/details/134444156)
+
++ [『亚马逊云科技产品测评』在当前飞速发展的AI人工智能时代云服务技术哪家强？](https://blog.csdn.net/qq_57761637/article/details/134334826)
+
++ [【腾讯云云上实验室-向量数据库】TAI时代的数据枢纽-向量数据库 VectorDB](https://blog.csdn.net/qq_35190492/article/details/134466008)
+

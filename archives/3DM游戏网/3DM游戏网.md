@@ -117,3 +117,37 @@
 
 + [突发！ChatGPT之父奥特曼被OpenAI开除](https://www.3dmgame.com/news/202311/3881926.html)
 
++ [VR续作《亚利桑那阳光2》宣布跨平台联机合作模式](https://www.3dmgame.com/news/202311/3881941.html)
+
++ [《超级马里奥RPG：重制版》上市宣传片与实机演示赏](https://www.3dmgame.com/news/202311/3881938.html)
+
++ [长江存储秘密开发新闪存 但还是232层](https://www.3dmgame.com/news/202311/3881942.html)
+
++ [全新体验到来 《女神异闻录5：战略版》上市宣传片赏](https://www.3dmgame.com/news/202311/3881940.html)
+
++ [《拳皇13：全球大赛》正式发售 上市宣传片欣赏](https://www.3dmgame.com/news/202311/3881939.html)
+
++ [国产独立肉鸽《墨境》将于明年登陆主机和PC](https://www.3dmgame.com/news/202311/3881937.html)
+
++ [虚幻引擎5.3对比视频赏 展示硬件Lumen潜力效果](https://www.3dmgame.com/news/202311/3881936.html)
+
++ [英剧《神秘博士》60周年特别节目首曝片段](https://www.3dmgame.com/news/202311/3881933.html)
+
++ [亚马逊再裁数百名Alexa员工 重心倾向生成式AI项目](https://www.3dmgame.com/news/202311/3881934.html)
+
++ [《最终幻想7：重生》公布大量新图 展示新角色与场景](https://www.3dmgame.com/news/202311/3881932.html)
+
++ [英国10月销量榜：《蜘蛛侠2》《马里奥：惊奇》引领新作](https://www.3dmgame.com/news/202311/3881931.html)
+
++ [《最后的生还者2：重制版》正式公布 新增肉鸽模式](https://www.3dmgame.com/news/202311/3881930.html)
+
++ [前Epic独占游戏《模拟山羊3》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3881929.html)
+
++ [国家邮政局：双11全国快递达77.67亿件 同比增长25%](https://www.3dmgame.com/news/202311/3881935.html)
+
++ [系列最新作SRPG《女神异闻录５ 战略版》现已正式发售！](https://www.3dmgame.com/news/202311/3881907.html)
+
++ [索尼Portal云掌机英美开卖两天后就已售罄](https://www.3dmgame.com/news/202311/3881928.html)
+
++ [《方舟：生存飞升》Steam发售两周 销量超60万](https://www.3dmgame.com/news/202311/3881927.html)
+

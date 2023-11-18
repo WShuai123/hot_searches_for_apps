@@ -35,3 +35,5 @@
 
 + [消息称努比亚 Z60 Ultra 手机下月发布，继续采用屏下设计和 35mm 焦段](https://m.ithome.com/html/733386.htm)
 
++ [华为开发者联盟：美团、百度、去哪儿旅行等 60 余家企业参与鸿蒙实训营](https://m.ithome.com/html/733381.htm)
+

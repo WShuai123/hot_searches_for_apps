@@ -53,3 +53,5 @@
 
 + [FreeBuf 周报 | 阿里云崩了，相关App组团上热搜；伊朗黑客对以色列使用新C2框架](https://www.freebuf.com/news/384161.html)
 
++ [AI 语料危机 | WPS 想用用户文档“喂”AI](https://www.freebuf.com/news/384243.html)
+
