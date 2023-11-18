@@ -111,3 +111,7 @@
 
 + [《最终幻想7：重生》将新增动态难度/等级适配](https://www.3dmgame.com/news/202311/3881920.html)
 
++ [华纳否认《神奇女侠》是服务型游戏 将专注于单人](https://www.3dmgame.com/news/202311/3881925.html)
+
++ [《半条命》发售25周年更新上线 初代游戏免费领](https://www.3dmgame.com/news/202311/3881924.html)
+

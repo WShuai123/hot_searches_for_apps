@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 美国防部发布人工智能临时指南；ChatGPT Plus账号暂停注册](https://www.freebuf.com/news/383973.html)
 
++ [FreeBuf 周报 | 阿里云“崩了”，相关App组团上热搜；伊朗黑客对以色列使用新C2框架](https://www.freebuf.com/news/384161.html)
+
++ [黑客滥用 Google 表单进行诈骗](https://www.freebuf.com/articles/network/383642.html)
+

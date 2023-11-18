@@ -29,3 +29,5 @@
 
 + [【IT之家评测室】OPPO ColorOS 14 体验：流畅好用只是基础，这次更懂你才是关键](https://m.ithome.com/html/733389.htm)
 
++ [高通发布第三代骁龙 7 移动平台：GPU 性能提升超过 50%，AI 能力大涨](https://m.ithome.com/html/733312.htm)
+
