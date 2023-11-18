@@ -57,3 +57,9 @@
 
 + [荣耀 100 / Pro 手机跑分曝光：分别配骁龙 7 Gen 3 和骁龙 8 Gen 2 处理器](https://m.ithome.com/html/733447.htm)
 
++ [小鹏汽车回应车辆从交付中心二楼坠落：客户油门刹车踩反，无人伤亡](https://m.ithome.com/html/733480.htm)
+
++ [OPPO Reno 11 手机跑分再曝光：联发科天玑 8200 SoC+12GB 内存](https://m.ithome.com/html/733453.htm)
+
++ [Steam Deck OLED 掌机国内代购价 4999 元起，半透明限量版 6899 元](https://m.ithome.com/html/733383.htm)
+

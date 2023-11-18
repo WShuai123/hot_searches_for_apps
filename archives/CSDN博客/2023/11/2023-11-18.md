@@ -187,3 +187,7 @@
 
 + [2023年数维杯国际赛B题 棉秸秆热解的催化反应（The catalytic reaction of cotton stalk pyrolysis）完整思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/134440299)
 
++ [专攻数学的Prompt：使GPT-3解数学题准确率升至92.5%](https://blog.csdn.net/wtyuong/article/details/134455570)
+
++ [电子病历编辑器源码（Springboot+原生HTML）](https://blog.csdn.net/xingchenCSDN/article/details/134467554)
+

@@ -51,3 +51,25 @@
 
 + [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
 
++ [twostraws / Inferno](https://github.com/twostraws/Inferno)
+
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [microsoft / hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet)
+
++ [kubeshark / kubeshark](https://github.com/kubeshark/kubeshark)
+
++ [generatebio / chroma](https://github.com/generatebio/chroma)
+
++ [hakimel / reveal.js](https://github.com/hakimel/reveal.js)
+
++ [flutter / games](https://github.com/flutter/games)
+
++ [syncthing / syncthing](https://github.com/syncthing/syncthing)
+
++ [aws-samples / amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+
++ [microsoft / SynapseML](https://github.com/microsoft/SynapseML)
+
