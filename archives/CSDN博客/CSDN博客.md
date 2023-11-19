@@ -101,3 +101,11 @@
 
 + [2023数维杯数学建模C题完整版本](https://blog.csdn.net/zzzzzzzxxaaa/article/details/134460487)
 
++ [[MySQL] MySQL表的约束](https://blog.csdn.net/weixin_67596609/article/details/134429169)
+
++ [[开源]基于 AI 大语言模型 API 实现的 AI 助手全套开源解决方案](https://blog.csdn.net/javastart/article/details/134473724)
+
++ [微服务 Spring Cloud 7，Nacos配置中心的Pull原理，附源码](https://blog.csdn.net/guorui_java/article/details/134248412)
+
++ [pytorch单精度、半精度、混合精度、单卡、多卡（DP / DDP）、FSDP、DeepSpeed模型训练](https://blog.csdn.net/cxx654/article/details/134471781)
+
