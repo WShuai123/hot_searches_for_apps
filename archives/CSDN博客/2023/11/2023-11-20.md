@@ -127,3 +127,13 @@
 
 + [下一代搜索引擎会什么？](https://blog.csdn.net/star1210644725/article/details/134477317)
 
++ [Azure Machine Learning - Azure AI 搜索中的集成数据分块和嵌入](https://blog.csdn.net/magicyangjay111/article/details/134494658)
+
++ [扬帆未来，成就架构之路：十本书籍助力你的架构师梦想 | 文末送书](https://blog.csdn.net/dietime1943/article/details/134460161)
+
++ [Linux 网络：PMTUD 简介](https://blog.csdn.net/JiMoKuangXiangQu/article/details/134484455)
+
++ [学习网络编程No.10【深入学习HTTPS】](https://blog.csdn.net/weixin_74004489/article/details/134405540)
+
++ [《缺氧》笔记整理](https://blog.csdn.net/GGN_2015/article/details/134489966)
+
