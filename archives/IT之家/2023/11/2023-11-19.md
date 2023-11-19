@@ -55,3 +55,7 @@
 
 + [小米本周优化多项开发版内容：含游戏场景卡顿、指纹不灵敏等问题，后续将推送](https://m.ithome.com/html/733563.htm)
 
++ [董明珠：格力花 1 亿开发矿井空调非常有价值，因为矿工能够穿西装上班](https://m.ithome.com/html/733588.htm)
+
++ [一汽大众 ID.7 VIZZION 电动轿车 11 月 22 日开启预售：续航超 600km](https://m.ithome.com/html/733572.htm)
+
