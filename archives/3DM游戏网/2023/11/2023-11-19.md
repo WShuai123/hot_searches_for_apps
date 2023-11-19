@@ -149,3 +149,7 @@
 
 + [提升几何？《最后的生还者2：重制版》预告片对比原版](https://www.3dmgame.com/news/202311/3881991.html)
 
++ [ChatGPT之父奥特曼被罢免后发声：很喜欢OpenAI团队](https://www.3dmgame.com/news/202311/3881993.html)
+
++ [PSVR2新广告片上线 多款游戏画面宣传爆炸效果](https://www.3dmgame.com/news/202311/3881994.html)
+

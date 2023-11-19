@@ -157,3 +157,11 @@
 
 + [论文阅读：Auto White-Balance Correction for Mixed-Illuminant Scenes](https://blog.csdn.net/shinian1987/article/details/134487000)
 
++ [Azure Machine Learning - Azure AI 搜索中的矢量搜索](https://blog.csdn.net/magicyangjay111/article/details/134477584)
+
++ [亚马逊云科技AI创新应用下的托管在AWS上的数据可视化工具—— Amazon QuickSight](https://blog.csdn.net/lbcyllqj/article/details/134477741)
+
++ [【Linux】命令expect使用详解](https://blog.csdn.net/qq_35995514/article/details/134426603)
+
++ [pytorch单精度、半精度、混合精度、单卡、多卡（DP / DDP）、FSDP、DeepSpeed模型训练](https://blog.csdn.net/cxx654/article/details/134471781)
+

@@ -101,3 +101,7 @@
 
 + [Barrax AI](https://www.producthunt.com/posts/barrax-ai)
 
++ [Indie.Deals](https://www.producthunt.com/posts/indie-deals)
+
++ [Mobirise AI](https://www.producthunt.com/posts/mobirise-ai)
+
