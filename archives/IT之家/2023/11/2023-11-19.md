@@ -49,3 +49,5 @@
 
 + [董明珠：格力 1.3 万研发人员中没有海归派，中国高校有能力培养优秀的人才](https://m.ithome.com/html/733554.htm)
 
++ [消息称微软 CEO 纳德拉已与 Sam Altman 交谈，确保其周一回归 OpenAI](https://m.ithome.com/html/733545.htm)
+

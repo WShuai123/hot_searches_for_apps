@@ -153,3 +153,13 @@
 
 + [PSVR2新广告片上线 多款游戏画面宣传爆炸效果](https://www.3dmgame.com/news/202311/3881994.html)
 
++ [新研究称过度用手机降低大脑认知 包括打游戏刷视频](https://www.3dmgame.com/news/202311/3881999.html)
+
++ [小龙斯派罗即将加入《古惑狼大乱斗》角色阵容](https://www.3dmgame.com/news/202311/3881997.html)
+
++ [华纳表示《霍格沃茨之遗》成为今年销量最高新作](https://www.3dmgame.com/news/202311/3881998.html)
+
++ [改编就是乱编 《行尸走肉：命运》爆改电视剧情节](https://www.3dmgame.com/news/202311/3881996.html)
+
++ [《博德之门3》发布最新热修补丁 修复玩家吐槽全黑浪漫镜头](https://www.3dmgame.com/news/202311/3881995.html)
+

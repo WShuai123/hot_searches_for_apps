@@ -165,3 +165,5 @@
 
 + [pytorch单精度、半精度、混合精度、单卡、多卡（DP / DDP）、FSDP、DeepSpeed模型训练](https://blog.csdn.net/cxx654/article/details/134471781)
 
++ [SpringSecurity6 | 自动配置(下)](https://blog.csdn.net/qq_58608526/article/details/134482282)
+
