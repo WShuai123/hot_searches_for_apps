@@ -71,3 +71,5 @@
 
 + [至少6块腹肌......(今日好笑开心视频：1286)](http://www.acfun.cn/v/ac42985991)
 
++ [又是全职业选手局！快速看完一局韩服王者斗殴局#552 Zeka,Juhan, Citrus, Leo](http://www.acfun.cn/v/ac42985331)
+

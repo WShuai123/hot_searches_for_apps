@@ -41,3 +41,7 @@
 
 + [白话零信任技术架构之SDP2.0](https://www.freebuf.com/articles/database/378939.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/384213.html)
+
++ [Kafka JNDI 注入分析（CVE-2023-25194）](https://www.freebuf.com/vuls/383448.html)
+

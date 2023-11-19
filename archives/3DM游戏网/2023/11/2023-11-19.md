@@ -109,3 +109,5 @@
 
 + [《审判官》将于2024年登陆Xbox/PS5和PC平台](https://www.3dmgame.com/news/202311/3881969.html)
 
++ [《不朽者传奇》迎来大更新 二周目模式上线](https://www.3dmgame.com/news/202311/3881973.html)
+
