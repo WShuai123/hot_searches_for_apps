@@ -179,3 +179,7 @@
 
 + [《英雄联盟》衍生格斗游戏《Project L》8分钟试玩](https://www.3dmgame.com/news/202311/3882006.html)
 
++ [现代汽车表示将于2024年底开发出更便宜的磷酸铁锂电池](https://www.3dmgame.com/news/202311/3882009.html)
+
++ [传《最后的生还者2：复刻版》由顽皮狗新人打造](https://www.3dmgame.com/news/202311/3882008.html)
+
