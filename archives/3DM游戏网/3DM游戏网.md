@@ -123,3 +123,9 @@
 
 + [《最后的生还者2》PS5复刻版预告片充斥大量差评](https://www.3dmgame.com/news/202311/3881974.html)
 
++ [《仙子胡萝卜》Steam页面上线 创意动作潜行冒险](https://www.3dmgame.com/news/202311/3881980.html)
+
++ [重温复古效果 《黑暗之魂：重制版》降质MOD发布](https://www.3dmgame.com/news/202311/3881981.html)
+
++ [ChatGPT之父罢免要反转！董事会与奥特曼讨论返岗](https://www.3dmgame.com/news/202311/3881982.html)
+
