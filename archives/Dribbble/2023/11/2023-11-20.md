@@ -49,3 +49,31 @@
 
 + [Broadlume Rebrand](https://dribbble.com/shots/)
 
++ [Notebook](https://dribbble.com/shots/)
+
++ [Melt Smash Burger Logo](https://dribbble.com/shots/)
+
++ [MFP outdoor advert & stationery](https://dribbble.com/shots/)
+
++ [Magic Mushroom!✨](https://dribbble.com/shots/)
+
++ [Evnex - Electric Car Charger](https://dribbble.com/shots/)
+
++ [Vintage Style Travel Poster](https://dribbble.com/shots/)
+
++ [Real Estate Website Concept](https://dribbble.com/shots/)
+
++ [Rabbit Logo](https://dribbble.com/shots/)
+
++ [Golden State Warriors Logo Redesign](https://dribbble.com/shots/)
+
++ [Fitness app design](https://dribbble.com/shots/)
+
++ [Hales Freight Website Shipping Page](https://dribbble.com/shots/)
+
++ [Dark Mode Pricing](https://dribbble.com/shots/)
+
++ [Bolts Heads Illustration by Kemal Sanli](https://dribbble.com/shots/)
+
++ [Simple AI UI](https://dribbble.com/shots/)
+
