@@ -51,3 +51,35 @@
 
 + [microsoft / SynapseML](https://github.com/microsoft/SynapseML)
 
++ [jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects)
+
++ [Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
+
++ [tldraw / make-real-starter](https://github.com/tldraw/make-real-starter)
+
++ [everywall / ladder](https://github.com/everywall/ladder)
+
++ [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [tinygrad / tinygrad](https://github.com/tinygrad/tinygrad)
+
++ [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
+
++ [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [protectai / ai-exploits](https://github.com/protectai/ai-exploits)
+
++ [pytorch-labs / segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast)
+
++ [kovidgoyal / calibre](https://github.com/kovidgoyal/calibre)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+
++ [microsoft / fluentui-blazor](https://github.com/microsoft/fluentui-blazor)
+
++ [valinet / ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
++ [SillyTavern / SillyTavern](https://github.com/SillyTavern/SillyTavern)
+
++ [0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
+

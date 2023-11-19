@@ -169,3 +169,7 @@
 
 + [《拳皇全明星》将于月底与《街头霸王6》展开联动](https://www.3dmgame.com/news/202311/3882000.html)
 
++ [Geekbench出现天玑8300移动平台跑分数据：对比上代进步明显](https://www.3dmgame.com/news/202311/3882004.html)
+
++ [Faker百炼成金 英雄联盟全球总决赛T1战胜WBG](https://www.3dmgame.com/news/202311/3882003.html)
+

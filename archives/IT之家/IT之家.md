@@ -59,3 +59,5 @@
 
 + [一汽大众 ID.7 VIZZION 电动轿车 11 月 22 日开启预售：续航超 600km](https://m.ithome.com/html/733572.htm)
 
++ [蔚来员工爆料：为保工作贷款 60 万买了两辆 ET5 仍被裁](https://m.ithome.com/html/733597.htm)
+
