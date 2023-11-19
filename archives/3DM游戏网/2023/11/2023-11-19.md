@@ -111,3 +111,15 @@
 
 + [《不朽者传奇》迎来大更新 二周目模式上线](https://www.3dmgame.com/news/202311/3881973.html)
 
++ [PUBG工作室新作Project Black Budget或于明年发布](https://www.3dmgame.com/news/202311/3881979.html)
+
++ [《STAR FLEET》2.0更新Steam上线 34年经典名作更新](https://www.3dmgame.com/news/202311/3881978.html)
+
++ [《如龙8》“新动态指令RPG战斗”6大亮点介绍](https://www.3dmgame.com/news/202311/3881977.html)
+
++ [《惊奇队长2》国内上映9天 票房终破1亿](https://www.3dmgame.com/news/202311/3881976.html)
+
++ [《废集落探索》登陆Steam 摄录风格恐怖冒险](https://www.3dmgame.com/news/202311/3881975.html)
+
++ [《最后的生还者2》PS5复刻版预告片充斥大量差评](https://www.3dmgame.com/news/202311/3881974.html)
+

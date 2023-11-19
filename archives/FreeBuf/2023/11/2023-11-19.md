@@ -45,3 +45,5 @@
 
 + [Kafka JNDI 注入分析（CVE-2023-25194）](https://www.freebuf.com/vuls/383448.html)
 
++ [鉴源实验室丨自动驾驶传感器攻击研究](https://www.freebuf.com/articles/ics-articles/382773.html)
+

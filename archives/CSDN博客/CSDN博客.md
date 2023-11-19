@@ -131,3 +131,17 @@
 
 + [目录自动清洗](https://blog.csdn.net/HHX_01/article/details/134478368)
 
++ [Linux 部署多个版本 .net 方法](https://blog.csdn.net/hymlx526/article/details/134481987)
+
++ [深入理解网络协议：通信世界的基石](https://blog.csdn.net/qq_44273429/article/details/134484353)
+
++ [【Spring】AOP进阶-JoinPoint和ProceedingJoinPoint详解](https://blog.csdn.net/m0_63463510/article/details/134437856)
+
++ [gitlab的搭建流程](https://blog.csdn.net/2301_78993194/article/details/134476260)
+
++ [私有云笔记joplin搭建](https://blog.csdn.net/weixin_40521284/article/details/134482999)
+
++ [【计算机网络笔记】IPv6简介](https://blog.csdn.net/m0_60511809/article/details/134410047)
+
++ [概统第2章——随机变量及其分布](https://blog.csdn.net/2203_75907074/article/details/134483912)
+
