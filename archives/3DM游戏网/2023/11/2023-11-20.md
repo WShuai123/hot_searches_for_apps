@@ -101,3 +101,11 @@
 
 + [《心灵杀手2》升级档发布 音画不同步问题得以解决](https://www.3dmgame.com/news/202311/3881959.html)
 
++ [27岁研究生离世前一天发文感恩感谢 离世捐眼角膜救2人](https://www.3dmgame.com/news/202311/3882013.html)
+
++ [《自杀小队：战胜正义联盟》配置公布 推荐RTX 2080](https://www.3dmgame.com/news/202311/3882012.html)
+
++ [微软推出Windows App：可使用iPhone/iPad远程连接PC](https://www.3dmgame.com/news/202311/3882010.html)
+
++ [《行尸走肉：命运》现已登陆主机 PC版12月2日发售](https://www.3dmgame.com/news/202311/3882011.html)
+
