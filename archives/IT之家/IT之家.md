@@ -35,3 +35,5 @@
 
 + [消息称英伟达 RTX 50 显卡采用台积电 3nm 工艺](https://m.ithome.com/html/733515.htm)
 
++ [丰田全新普拉多、皇冠轿车版亮相广州车展，明年将陆续上市](https://m.ithome.com/html/733504.htm)
+

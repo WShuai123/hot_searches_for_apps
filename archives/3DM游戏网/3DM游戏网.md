@@ -129,3 +129,13 @@
 
 + [ChatGPT之父罢免要反转！董事会与奥特曼讨论返岗](https://www.3dmgame.com/news/202311/3881982.html)
 
++ [世界厕所日到了 比尔盖茨最关注厕所创新](https://www.3dmgame.com/news/202311/3881986.html)
+
++ [《青岚物语》Steam页面上线 和风幻想农场经营](https://www.3dmgame.com/news/202311/3881987.html)
+
++ [Valheim Plus Mod对《英灵神殿》进行全面改动](https://www.3dmgame.com/news/202311/3881985.html)
+
++ [Embracer老板拒绝回应星战旧共和国重制取消传闻](https://www.3dmgame.com/news/202311/3881983.html)
+
++ [新电影《高达SEED 自由》正式海报公布 大和拉克丝依然C位](https://www.3dmgame.com/news/202311/3881984.html)
+
