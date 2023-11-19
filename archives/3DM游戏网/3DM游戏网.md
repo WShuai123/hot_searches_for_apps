@@ -109,3 +109,7 @@
 
 + [《行尸走肉：命运》现已登陆主机 PC版12月2日发售](https://www.3dmgame.com/news/202311/3882011.html)
 
++ [《无尽的任务》主创打造全新自由网游《阿瓦隆》](https://www.3dmgame.com/news/202311/3882015.html)
+
++ [1月末开播《七大罪：启示录四骑士》发布正式预告](https://www.3dmgame.com/news/202311/3882014.html)
+

@@ -137,3 +137,17 @@
 
 + [《缺氧》笔记整理](https://blog.csdn.net/GGN_2015/article/details/134489966)
 
++ [【WebSocket项目实战】聊天室（前端vue3、后端spring框架）](https://blog.csdn.net/weixin_55939638/article/details/134491416)
+
++ [【实用技巧】更改ArduinoIDE默认库文件位置，解放系统盘，将Arduino15中的库文件移动到其他磁盘](https://blog.csdn.net/qcmyqcmy/article/details/134481065)
+
++ [基于YOLOv5的疲劳分神驾驶检测(AutoDL云端训练部署)](https://blog.csdn.net/NangoGreen/article/details/134490648)
+
++ [WIFI版本云音响设置教程腾讯云平台版本](https://blog.csdn.net/mqlinks/article/details/134490697)
+
++ [C生万物———让我们来敲开C的世界大门](https://blog.csdn.net/2301_80198130/article/details/134488275)
+
++ [Linux--网络概念](https://blog.csdn.net/weixin_66828150/article/details/134481911)
+
++ [【Spring Boot 源码学习】Banner 信息打印流程](https://blog.csdn.net/u012855229/article/details/134373269)
+
