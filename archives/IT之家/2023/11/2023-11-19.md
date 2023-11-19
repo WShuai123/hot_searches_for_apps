@@ -43,3 +43,5 @@
 
 + [时隔两年半诈尸的《节奏大师》，决定不再“安慰”菜鸡玩家](https://m.ithome.com/html/733498.htm)
 
++ [消息称英伟达 RTX 4070 Ti / 4080 显卡最快本月清空库存](https://m.ithome.com/html/733503.htm)
+

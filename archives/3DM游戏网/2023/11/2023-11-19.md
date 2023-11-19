@@ -145,3 +145,7 @@
 
 + [小米产品经理：Redmi K70系列强到离谱 希望赶紧发布](https://www.3dmgame.com/news/202311/3881988.html)
 
++ [导演谈电影《攻壳机动队最后的人类》意义 11月23日上映](https://www.3dmgame.com/news/202311/3881992.html)
+
++ [提升几何？《最后的生还者2：重制版》预告片对比原版](https://www.3dmgame.com/news/202311/3881991.html)
+
