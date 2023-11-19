@@ -37,3 +37,5 @@
 
 + [丰田全新普拉多、皇冠轿车版亮相广州车展，明年将陆续上市](https://m.ithome.com/html/733504.htm)
 
++ [索尼 PS5（轻薄版）国行预售：2999 元起](https://m.ithome.com/html/733479.htm)
+
