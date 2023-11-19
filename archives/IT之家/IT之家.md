@@ -61,3 +61,7 @@
 
 + [蔚来员工爆料：为保工作贷款 60 万买了两辆 ET5 仍被裁](https://m.ithome.com/html/733597.htm)
 
++ [拿下队史第四冠！英雄联盟 S13 全球总决赛 T1 战队 3-0 击败 WBG](https://m.ithome.com/html/733612.htm)
+
++ [上线仅 4 年，Adobe 将于 12 月 3 日起停止在中国大陆官网销售中国摄影计划](https://m.ithome.com/html/733570.htm)
+

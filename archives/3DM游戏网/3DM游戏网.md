@@ -175,3 +175,7 @@
 
 + [《DOTA2》ESL One吉隆坡站参赛战队确认 12月11日开战](https://www.3dmgame.com/news/202311/3882005.html)
 
++ [Steam秋季特卖将于11月22日凌晨2点开始](https://www.3dmgame.com/news/202311/3882007.html)
+
++ [《英雄联盟》衍生格斗游戏《Project L》8分钟试玩](https://www.3dmgame.com/news/202311/3882006.html)
+
