@@ -77,3 +77,19 @@
 
 + [Simple AI UI](https://dribbble.com/shots/)
 
++ [driver](https://dribbble.com/shots/)
+
++ [Wynnum Manly Seagulls](https://dribbble.com/shots/)
+
++ [Frame animation w/ smoke ????](https://dribbble.com/shots/)
+
++ [Insigrate UI-UX](https://dribbble.com/shots/)
+
++ [Artspace Book Slider Animation](https://dribbble.com/shots/)
+
++ [Famous painting serie](https://dribbble.com/shots/)
+
++ [Search menu — Untitled UI](https://dribbble.com/shots/)
+
++ [Cruz: QR Pay](https://dribbble.com/shots/)
+
