@@ -109,3 +109,21 @@
 
 + [pytorch单精度、半精度、混合精度、单卡、多卡（DP / DDP）、FSDP、DeepSpeed模型训练](https://blog.csdn.net/cxx654/article/details/134471781)
 
++ [spring boot集成quartz](https://blog.csdn.net/m0_72167535/article/details/134469154)
+
++ [教程：使用 Keras 优化神经网络](https://blog.csdn.net/gongdiwudu/article/details/134476152)
+
++ [竞赛选题 深度学习驾驶行为状态检测系统(疲劳 抽烟 喝水 玩手机) - opencv python](https://blog.csdn.net/laafeer/article/details/134467237)
+
++ [最强人工智能ChatGPT引领AIGC发展](https://blog.csdn.net/qq_39403646/article/details/134488882)
+
++ [趣味追剧式理解Redis缓存管理机制（Redis秘书的功与过）](https://blog.csdn.net/weixin_43899811/article/details/134479545)
+
++ [Model1:Linear Regression](https://blog.csdn.net/linglingdie/article/details/134472174)
+
++ [电子病历编辑器源码（Springboot+原生HTML）](https://blog.csdn.net/xingchenCSDN/article/details/134467554)
+
++ [技术分享 | 如何写好测试用例？](https://blog.csdn.net/2301_78843735/article/details/134463506)
+
++ [下一代搜索引擎会什么？](https://blog.csdn.net/star1210644725/article/details/134477317)
+
