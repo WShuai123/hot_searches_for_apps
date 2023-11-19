@@ -51,3 +51,7 @@
 
 + [消息称微软 CEO 纳德拉已与 Sam Altman 交谈，确保其周一回归 OpenAI](https://m.ithome.com/html/733545.htm)
 
++ [金山办公 WPS 致歉：《隐私政策》表述容易引起误解，所有用户文档不会被用于任何 AI 训练目的](https://m.ithome.com/html/733533.htm)
+
++ [小米本周优化多项开发版内容：含游戏场景卡顿、指纹不灵敏等问题，后续将推送](https://m.ithome.com/html/733563.htm)
+

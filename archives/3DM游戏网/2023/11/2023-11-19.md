@@ -163,3 +163,9 @@
 
 + [《博德之门3》发布最新热修补丁 修复玩家吐槽全黑浪漫镜头](https://www.3dmgame.com/news/202311/3881995.html)
 
++ [轨道射击游戏新作《Railbreak》将于12月底发售](https://www.3dmgame.com/news/202311/3882002.html)
+
++ [人气游戏《胜利女神》官方公布新角色 将于孤独的幸存者事件登场](https://www.3dmgame.com/news/202311/3882001.html)
+
++ [《拳皇全明星》将于月底与《街头霸王6》展开联动](https://www.3dmgame.com/news/202311/3882000.html)
+
