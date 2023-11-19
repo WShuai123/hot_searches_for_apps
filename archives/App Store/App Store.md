@@ -223,3 +223,7 @@
 
 + [虎牙直播-游戏互动直播平台](https://itunes.apple.com/cn/app/id871095743?mt=8)
 
++ [斗鱼-超高清游戏直播视频娱乐平台](https://itunes.apple.com/cn/app/id863882795?mt=8)
+
++ [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

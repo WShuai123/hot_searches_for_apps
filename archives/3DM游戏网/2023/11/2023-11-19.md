@@ -173,3 +173,5 @@
 
 + [Faker百炼成金 英雄联盟全球总决赛T1战胜WBG](https://www.3dmgame.com/news/202311/3882003.html)
 
++ [《DOTA2》ESL One吉隆坡站参赛战队确认 12月11日开战](https://www.3dmgame.com/news/202311/3882005.html)
+
