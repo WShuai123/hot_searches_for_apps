@@ -139,3 +139,9 @@
 
 + [新电影《高达SEED 自由》正式海报公布 大和拉克丝依然C位](https://www.3dmgame.com/news/202311/3881984.html)
 
++ [《合金装备3》PC版新MOD为游戏加入蹲行功能](https://www.3dmgame.com/news/202311/3881989.html)
+
++ [万代模玩魂系2023展 最新解体匠机高达Mk-II亮相](https://www.3dmgame.com/news/202311/3881990.html)
+
++ [小米产品经理：Redmi K70系列强到离谱 希望赶紧发布](https://www.3dmgame.com/news/202311/3881988.html)
+

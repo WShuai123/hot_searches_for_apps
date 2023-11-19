@@ -149,3 +149,11 @@
 
 + [QQ五毛项目记](https://blog.csdn.net/feelinghappy/article/details/134485418)
 
++ [AIGC实战 - 使用变分自编码器生成面部图像](https://blog.csdn.net/LOVEmy134611/article/details/133974538)
+
++ [Linux--网络概念](https://blog.csdn.net/weixin_66828150/article/details/134481911)
+
++ [腾讯向量数据库——Embedding](https://blog.csdn.net/feng8403000/article/details/134473991)
+
++ [论文阅读：Auto White-Balance Correction for Mixed-Illuminant Scenes](https://blog.csdn.net/shinian1987/article/details/134487000)
+

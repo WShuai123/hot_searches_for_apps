@@ -39,3 +39,7 @@
 
 + [索尼 PS5（轻薄版）国行预售：2999 元起](https://m.ithome.com/html/733479.htm)
 
++ [被 OpenAI 罢免后，原 CEO 阿尔特曼发声：若自己“开火”董事会将索赔](https://m.ithome.com/html/733462.htm)
+
++ [时隔两年半诈尸的《节奏大师》，决定不再“安慰”菜鸡玩家](https://m.ithome.com/html/733498.htm)
+
