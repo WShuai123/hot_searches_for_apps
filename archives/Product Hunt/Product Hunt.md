@@ -183,3 +183,5 @@
 
 + [USDC to Bank: Direct Payouts](https://www.producthunt.com/posts/usdc-to-bank-direct-payouts)
 
++ [Ai Magicx](https://www.producthunt.com/posts/ai-magicx-3)
+

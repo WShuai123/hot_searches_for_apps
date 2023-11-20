@@ -187,3 +187,11 @@
 
 + [多人合作受追捧 恐怖探索《Lethal Company》Steam峰值破10万](https://www.3dmgame.com/news/202311/3882051.html)
 
++ [前OpenAI CEO奥特曼将加盟微软 领导新的AI团队](https://www.3dmgame.com/news/202311/3882056.html)
+
++ [《人中之龙8》春日·桐生专用职业等角色初始职业以及部分新增职业现已公开](https://www.3dmgame.com/news/202311/3882054.html)
+
++ [男子丢30万手机 女子捡到以为是老年机：大开眼界了](https://www.3dmgame.com/news/202311/3882055.html)
+
++ [曝RTX50系列采用3nm工艺 5090性能或比4090高70%](https://www.3dmgame.com/news/202311/3882053.html)
+
