@@ -61,3 +61,7 @@
 
 + [神秘Hack Demo提前看 | FCIS 2023网络安全创新大会](https://www.freebuf.com/fevents/383894.html)
 
++ [马上登船，2天后启航！](https://www.freebuf.com/news/384375.html)
+
++ [雅马哈遭勒索攻击，泄露约37GB数据](https://www.freebuf.com/news/384303.html)
+
