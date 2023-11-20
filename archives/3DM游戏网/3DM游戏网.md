@@ -163,3 +163,11 @@
 
 + [《最终幻想7：永恒危机》Steam页面上线 无中文锁国区](https://www.3dmgame.com/news/202311/3882039.html)
 
++ [《XELAN FORCE》Steam页面上线 复古纵屏射击](https://www.3dmgame.com/news/202311/3882043.html)
+
++ [摇人开黑福利加码，呼朋唤友一起赚钱！](https://www.3dmgame.com/news/202311/3882044.html)
+
++ [TGA主持人：希望玩家摈弃“没被提名就不是好游戏”的思想](https://www.3dmgame.com/news/202311/3882042.html)
+
++ [AYANEO SLIDE滑屏掌机开启众筹 预定12月上市](https://www.3dmgame.com/news/202311/3882041.html)
+

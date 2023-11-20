@@ -55,3 +55,5 @@
 
 + [Jsp Webshell原理性探究的那些事](https://www.freebuf.com/articles/web/384091.html)
 
++ [ADCSKiller：一款功能强大的活动目录证书服务（ADCS）漏洞自动化检测和利用工具](https://www.freebuf.com/sectool/381074.html)
+

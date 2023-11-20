@@ -97,3 +97,5 @@
 
 + [【台湾解说】S12全球总决赛 决赛 WBG vs T1](http://www.acfun.cn/v/ac42995731)
 
++ [qyqx：破戒僧那什么和老义比？破戒僧：下去吧你！](http://www.acfun.cn/v/ac42995595)
+
