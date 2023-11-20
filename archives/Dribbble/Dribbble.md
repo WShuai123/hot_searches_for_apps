@@ -185,3 +185,17 @@
 
 + [Agrinex Website](https://dribbble.com/shots/)
 
++ [Geometric Viking Logo](https://dribbble.com/shots/)
+
++ [Dish Flip](https://dribbble.com/shots/)
+
++ [Voice interaction for AI app](https://dribbble.com/shots/)
+
++ [yellow](https://dribbble.com/shots/)
+
++ [Maid Style Test](https://dribbble.com/shots/)
+
++ [A monday in november](https://dribbble.com/shots/)
+
++ [Mortis](https://dribbble.com/shots/)
+

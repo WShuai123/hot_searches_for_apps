@@ -201,3 +201,11 @@
 
 + [《巫师》《巫师2》更新 增加对苹果M1、M2的支持](https://www.3dmgame.com/news/202311/3882059.html)
 
++ [《心灵杀手2》游戏设计师：我正在开发《控制2》](https://www.3dmgame.com/news/202311/3882063.html)
+
++ [外媒评选15款希望在PS5上玩到的游戏 《血源2》等](https://www.3dmgame.com/news/202311/3882062.html)
+
++ [RTX 4080/4070 Ti库存最快或在12月前耗尽](https://www.3dmgame.com/news/202311/3882061.html)
+
++ [《不朽者传奇》开发商：大裁员主因是销量太差 竞争激烈](https://www.3dmgame.com/news/202311/3882060.html)
+

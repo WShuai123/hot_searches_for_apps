@@ -249,3 +249,7 @@
 
 + [Vue3的7种和Vue2的12种组件通信](https://blog.csdn.net/qq_43592064/article/details/134509416)
 
++ [听懂未来：AI语音识别技术的进步与实战](https://blog.csdn.net/magicyangjay111/article/details/134504521)
+
++ [【网络】——TCP协议](https://blog.csdn.net/2301_80092713/article/details/134499060)
+

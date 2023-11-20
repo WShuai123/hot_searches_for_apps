@@ -57,3 +57,7 @@
 
 + [国内油价明晚调整，92 号汽油有望重回 7 元时代](https://m.ithome.com/html/733814.htm)
 
++ [360 借条首发融入华为鸿蒙生态，奇富科技发布鸿蒙元服务 1.0 版本](https://m.ithome.com/html/733762.htm)
+
++ [消息称华为麒麟 5G 平台即将落地中端机型，但产量不大](https://m.ithome.com/html/733748.htm)
+

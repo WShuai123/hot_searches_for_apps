@@ -139,3 +139,9 @@
 
 + [雪豹原著里的周卫国堪比战神，大战过后毫发无伤《雪豹》原著P4](http://www.acfun.cn/v/ac42994859)
 
++ [~ EXTRA - DELTA ~](http://www.acfun.cn/v/ac43003327)
+
++ [IVE《Kitsch》翻跳](http://www.acfun.cn/v/ac43002733)
+
++ [萌宠集合，这才是猛男该看的！ 第三百二十九期](http://www.acfun.cn/v/ac42995281)
+
