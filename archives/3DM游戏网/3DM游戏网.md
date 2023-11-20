@@ -103,3 +103,11 @@
 
 + [高端成了！小米14系列首销销量超百万：京东好评率超99%](https://www.3dmgame.com/news/202311/3882065.html)
 
++ [日本一公布肉鸽策略RPG新作《星之深渊酒吧》](https://www.3dmgame.com/news/202311/3882069.html)
+
++ [《子弹风暴VR》推迟到2024年1月18日发售](https://www.3dmgame.com/news/202311/3882068.html)
+
++ [《风暴之城》正式版将于12/8推出 登陆PCGP](https://www.3dmgame.com/news/202311/3882067.html)
+
++ [原Epic独占冒险游戏《苍穹浩瀚》已在Steam推出](https://www.3dmgame.com/news/202311/3882066.html)
+
