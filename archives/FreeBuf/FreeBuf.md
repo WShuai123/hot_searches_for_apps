@@ -65,3 +65,5 @@
 
 + [雅马哈遭勒索攻击，泄露约37GB数据](https://www.freebuf.com/news/384303.html)
 
++ [倒计时2天 | 安全新势力 创新实践分享专场](https://www.freebuf.com/fevents/384147.html)
+

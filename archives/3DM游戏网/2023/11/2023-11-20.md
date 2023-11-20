@@ -195,3 +195,7 @@
 
 + [曝RTX50系列采用3nm工艺 5090性能或比4090高70%](https://www.3dmgame.com/news/202311/3882053.html)
 
++ [瑞典公司Aonic1.1亿美元收购《捉鬼敢死队》开发商nDreams](https://www.3dmgame.com/news/202311/3882057.html)
+
++ [联发科宣布与Meta合作 共同开发AR眼镜的定制芯片](https://www.3dmgame.com/news/202311/3882058.html)
+

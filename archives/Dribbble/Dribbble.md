@@ -167,3 +167,15 @@
 
 + [Cancer Care](https://dribbble.com/shots/)
 
++ [Dark Mode Pricing pt.2](https://dribbble.com/shots/)
+
++ [Western Clydesdales](https://dribbble.com/shots/)
+
++ [Blithe Bat](https://dribbble.com/shots/)
+
++ [3D Animation for Fulfyld.com](https://dribbble.com/shots/)
+
++ [Strawberry cake 3D illustration](https://dribbble.com/shots/)
+
++ [Cards for Minisite](https://dribbble.com/shots/)
+
