@@ -111,3 +111,5 @@
 
 + [原Epic独占冒险游戏《苍穹浩瀚》已在Steam推出](https://www.3dmgame.com/news/202311/3882066.html)
 
++ [兔女郎银河恶魔城新作《TEVI》上市宣传片](https://www.3dmgame.com/news/202311/3882070.html)
+

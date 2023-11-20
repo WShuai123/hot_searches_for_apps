@@ -131,3 +131,7 @@
 
 + [2024AIOTE智博会 第十六届山西国际智慧城市、物联网、大数据博览会](https://blog.csdn.net/weixin_44204069/article/details/134499662)
 
++ [Matlab群体智能优化算法之海象优化算法(WO)](https://blog.csdn.net/m0_52306986/article/details/134484941)
+
++ [应试教育导致学生迷信标准答案惯性导致思维僵化-移动机器人](https://blog.csdn.net/ZhangRelay/article/details/134520833)
+
