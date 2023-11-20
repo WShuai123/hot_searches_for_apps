@@ -49,3 +49,27 @@
 
 + [Dark Mode Pricing pt.2](https://dribbble.com/shots/)
 
++ [Bolts Heads Illustration by Kemal Sanli](https://dribbble.com/shots/)
+
++ [Made Whole](https://dribbble.com/shots/)
+
++ [Peace](https://dribbble.com/shots/)
+
++ [Famous painting serie](https://dribbble.com/shots/)
+
++ [Mail icon](https://dribbble.com/shots/)
+
++ [The Beetle Backs / Back Design](https://dribbble.com/shots/)
+
++ [Video Sharing App](https://dribbble.com/shots/)
+
++ [Task Manager Mobile IOS App](https://dribbble.com/shots/)
+
++ [Madness before Iron Flame](https://dribbble.com/shots/)
+
++ [Growth  ????](https://dribbble.com/shots/)
+
++ [Geometric Viking Logo](https://dribbble.com/shots/)
+
++ [Whitehaven](https://dribbble.com/shots/)
+

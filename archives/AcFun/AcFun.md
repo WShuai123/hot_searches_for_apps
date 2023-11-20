@@ -61,3 +61,7 @@
 
 + [被粉丝爆出黑历史，还学会了我的绝招](http://www.acfun.cn/v/ac43002974)
 
++ [阿根廷：向右打满全速开](http://www.acfun.cn/v/ac43004321)
+
++ [【付小远】你多像Moonlight～快学会唱给对象听！《给月亮的三行诗》吉他弹唱](http://www.acfun.cn/v/ac43002433)
+
