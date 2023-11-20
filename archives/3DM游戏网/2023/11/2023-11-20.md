@@ -199,3 +199,5 @@
 
 + [联发科宣布与Meta合作 共同开发AR眼镜的定制芯片](https://www.3dmgame.com/news/202311/3882058.html)
 
++ [《巫师》《巫师2》更新 增加对苹果M1、M2的支持](https://www.3dmgame.com/news/202311/3882059.html)
+

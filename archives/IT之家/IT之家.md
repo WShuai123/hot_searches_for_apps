@@ -53,3 +53,7 @@
 
 + [小米手机遭刻意抹黑，雷军 @小米品牌安全“出击”](https://m.ithome.com/html/733743.htm)
 
++ [纳德拉官宣 OpenAI 创始人 Sam Altman 和 Brockman 将加入微软](https://m.ithome.com/html/733764.htm)
+
++ [国内油价明晚调整，92 号汽油有望重回 7 元时代](https://m.ithome.com/html/733814.htm)
+

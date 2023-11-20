@@ -239,3 +239,13 @@
 
 + [MySQL优化-查询优化](https://blog.csdn.net/Lzfnemo2009/article/details/134499490)
 
++ [竞赛 题目：基于深度学习的人脸表情识别 - 卷积神经网络 竞赛项目 代码](https://blog.csdn.net/iuerfee/article/details/134511757)
+
++ [如何在Linux以docker-compose方式快速部署运行StackEdit，并实现公网访问](https://blog.csdn.net/qq_48652579/article/details/134511113)
+
++ [NodeMCU ESP8266构建Web Server网页端控制设备](https://blog.csdn.net/u010632165/article/details/134511631)
+
++ [图神经网络：消息传递算法](https://blog.csdn.net/gongdiwudu/article/details/134504994)
+
++ [Vue3的7种和Vue2的12种组件通信](https://blog.csdn.net/qq_43592064/article/details/134509416)
+
