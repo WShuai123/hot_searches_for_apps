@@ -31,3 +31,5 @@
 
 + [河南联通被曝强迫用户更换光猫，后台断网、停账号](https://m.ithome.com/html/733634.htm)
 
++ [卢伟冰：还有约 700 万用户在用小米 Redmi K40 和 K40s 手机](https://m.ithome.com/html/733639.htm)
+

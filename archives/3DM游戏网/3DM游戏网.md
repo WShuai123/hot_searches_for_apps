@@ -113,3 +113,13 @@
 
 + [1月末开播《七大罪：启示录四骑士》发布正式预告](https://www.3dmgame.com/news/202311/3882014.html)
 
++ [《不朽者传奇》将会上线Game Pass和PS+](https://www.3dmgame.com/news/202311/3882020.html)
+
++ [《使命召唤》开发商IW再次扩张 在奥斯汀成立新工作室](https://www.3dmgame.com/news/202311/3882019.html)
+
++ [好评像素动作游戏《监狱之城》现已发售主机版](https://www.3dmgame.com/news/202311/3882016.html)
+
++ [沙盒游戏《Aloft》新预告 带你畅游天空](https://www.3dmgame.com/news/202311/3882017.html)
+
++ [消息称《漫威金刚狼》将于2025年上市](https://www.3dmgame.com/news/202311/3882018.html)
+

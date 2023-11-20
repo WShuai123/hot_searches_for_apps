@@ -41,3 +41,7 @@
 
 + [DarkCasino： 利用 WinRAR 漏洞的新兴 APT 组织](https://www.freebuf.com/news/384114.html)
 
++ [FreeBuf早报 | 内鬼盗卖数据，某大药房被罚；网信办开展“清朗・网络戾气整治”专项行动](https://www.freebuf.com/news/384195.html)
+
++ [从阿尔巴尼亚到中东：揭秘“疤痕狮蝎”（Scarred Manticore）的间谍活动](https://www.freebuf.com/articles/paper/382676.html)
+
