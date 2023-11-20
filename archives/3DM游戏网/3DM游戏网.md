@@ -155,3 +155,11 @@
 
 + [B社仍有250人负责《星空》开发 未来带来更多新内容](https://www.3dmgame.com/news/202311/3882035.html)
 
++ [4090买不到！RTX4080 4070Ti国内库存要清空：买吗？](https://www.3dmgame.com/news/202311/3882040.html)
+
++ [《星空》Steam评价已降至“褒贬不一” 近期好评率仅为48%](https://www.3dmgame.com/news/202311/3882037.html)
+
++ [VR版《机动战士高达 银灰幻影》预告 面向Meta Quest设备](https://www.3dmgame.com/news/202311/3882038.html)
+
++ [《最终幻想7：永恒危机》Steam页面上线 无中文锁国区](https://www.3dmgame.com/news/202311/3882039.html)
+

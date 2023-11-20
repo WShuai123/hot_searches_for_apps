@@ -41,3 +41,7 @@
 
 + [万事达人民币银行卡即将到来，万事网联公司获央行银行卡清算牌照](https://m.ithome.com/html/733632.htm)
 
++ [小米 Redmi Note 13R Pro 手机发布：天玑 6080、1 亿像素，12+256GB 售 1999 元](https://m.ithome.com/html/733704.htm)
+
++ [创维汽车首款轿车 SKYHOME 首发亮相：双 8295 芯片，后排配备足底按摩](https://m.ithome.com/html/733621.htm)
+
