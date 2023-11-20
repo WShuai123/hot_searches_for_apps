@@ -215,3 +215,7 @@
 
 + [Keep - 跑步健身计步瑜伽](https://itunes.apple.com/cn/app/id952694580?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
+

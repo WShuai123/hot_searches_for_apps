@@ -39,3 +39,5 @@
 
 + [苹果 iPhone 16 / Pro 屏幕更多信息曝光：标准版依然 60Hz 刷新率、M12 有机材料](https://m.ithome.com/html/733653.htm)
 
++ [万事达人民币银行卡即将到来，万事网联公司获央行银行卡清算牌照](https://m.ithome.com/html/733632.htm)
+

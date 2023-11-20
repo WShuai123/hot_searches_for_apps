@@ -53,3 +53,5 @@
 
 + [发现 27 个恶意 PyPI 软件包，下载量达数千次，目标是 IT 专家](https://www.freebuf.com/articles/384308.html)
 
++ [Jsp Webshell原理性探究的那些事](https://www.freebuf.com/articles/web/384091.html)
+

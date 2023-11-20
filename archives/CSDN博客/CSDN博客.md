@@ -181,3 +181,5 @@
 
 + [Matlab群体智能优化算法之海象优化算法(WO)](https://blog.csdn.net/m0_52306986/article/details/134484941)
 
++ [【开源】基于Vue和SpringBoot的微信小程序的音乐平台](https://blog.csdn.net/yangyin1998/article/details/134488044)
+
