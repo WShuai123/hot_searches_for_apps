@@ -49,3 +49,5 @@
 
 + [消息称小米 5 款机型将获澎湃 OS 稳定版更新：小米 13 Ultra、Redmi K60 Pro 等](https://m.ithome.com/html/733722.htm)
 
++ [河南周口联通回应工程师未完成推销被辞退：立即成立工作专班，全力配合省公司调查核实](https://m.ithome.com/html/733709.htm)
+

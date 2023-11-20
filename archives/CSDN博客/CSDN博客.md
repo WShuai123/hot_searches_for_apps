@@ -219,3 +219,13 @@
 
 + [【开源】基于JAVA的超市自助付款系统](https://blog.csdn.net/as230627/article/details/134505116)
 
++ [Docker部署MinIO对象存储服务器结合Cpolar实现远程访问](https://blog.csdn.net/hsjsiwkwm/article/details/134505859)
+
++ [【SpringCloud】Eureka基于Ribbon负载均衡的调用链路流程分析](https://blog.csdn.net/weixin_57535055/article/details/134449104)
+
++ [[ 云计算 | AWS 实践 ] 使用 Java 更新现有 Amazon S3 对象](https://blog.csdn.net/dietime1943/article/details/134498219)
+
++ [Chain-Of-Note：解决噪声数据、不相关文档和域外场景来改进RAG的表现](https://blog.csdn.net/m0_46510245/article/details/134499829)
+
++ [【MySQL】细谈SQL高级查询](https://blog.csdn.net/Fire_Cloud_1/article/details/134434368)
+

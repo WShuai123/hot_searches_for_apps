@@ -175,3 +175,9 @@
 
 + [《暖雪》DLC“终业”Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202311/3882045.html)
 
++ [网传《GTA6》极端天气系统被删除 因为技术限制](https://www.3dmgame.com/news/202311/3882049.html)
+
++ [暴雪申请多个魔兽世界新资料片商标 国服或将回归](https://www.3dmgame.com/news/202311/3882047.html)
+
++ [曝苹果首款头显Vision Pro明年3月上市 售价超2.5万元](https://www.3dmgame.com/news/202311/3882048.html)
+
