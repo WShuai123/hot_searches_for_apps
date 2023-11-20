@@ -129,3 +129,25 @@
 
 + [拳头：《英雄联盟》S14冠军赛将在英国伦敦举行](https://www.3dmgame.com/news/202311/3882023.html)
 
++ [《exclusion》Steam页面上线 真实环境模拟恐怖冒险](https://www.3dmgame.com/news/202311/3882034.html)
+
++ [《模拟山羊3》Steam版整活预告 2024年年初发售](https://www.3dmgame.com/news/202311/3882033.html)
+
++ [《尼尔》系列制作人：只要横尾太郎还活着 系列就不会完结](https://www.3dmgame.com/news/202311/3882032.html)
+
++ [《装甲核心6》官方四种腿部装甲介绍 迎接日式纪念日好腿日](https://www.3dmgame.com/news/202311/3882031.html)
+
++ [Faker年收入超4000万元 他真的有一栋大楼！](https://www.3dmgame.com/news/202311/3882030.html)
+
++ [DLSS光线重构新版本减少了《赛博朋克2077》鬼影和闪烁问题](https://www.3dmgame.com/news/202311/3882029.html)
+
++ [经典FLASH游戏《人生OWATA大冒险》复归 三款名作免费发布](https://www.3dmgame.com/news/202311/3882026.html)
+
++ [《阿凡达：潘多拉边境》战斗解释 纳美人为何要用弓箭？](https://www.3dmgame.com/news/202311/3882025.html)
+
++ [《英雄联盟》公布新英雄“慧” 拥有10个技能的画师](https://www.3dmgame.com/news/202311/3882024.html)
+
++ [传闻：Xbox将在TGA颁奖典礼上发布新公告](https://www.3dmgame.com/news/202311/3882028.html)
+
++ [报告称Xbox如果早点收购动视暴雪 将首次超越PS](https://www.3dmgame.com/news/202311/3882027.html)
+

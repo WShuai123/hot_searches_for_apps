@@ -163,3 +163,15 @@
 
 + [飞鼠异地组网工具实战之访问k8s集群内部服务](https://blog.csdn.net/jks212454/article/details/134478651)
 
++ [《数字图像处理-OpenCV/Python》连载（44）图像的投影变换](https://blog.csdn.net/youcans/article/details/134487182)
+
++ [【C++】【Opencv】霍夫直线检测即cv::HoughLinesP()函数详解和示例](https://blog.csdn.net/qq_22734027/article/details/134495502)
+
++ [Docker 部署 GitLab](https://blog.csdn.net/qq_69006278/article/details/134494723)
+
++ [计算机网络——物理层-信道的极限容量（奈奎斯特公式、香农公式）](https://blog.csdn.net/li13437542099/article/details/131128429)
+
++ [SpringCloud 微服务全栈体系（十四）](https://blog.csdn.net/sgsgkxkx/article/details/134280158)
+
++ [es的优势](https://blog.csdn.net/weixin_51885039/article/details/134481273)
+

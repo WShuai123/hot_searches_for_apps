@@ -33,3 +33,5 @@
 
 + [卢伟冰：还有约 700 万用户在用小米 Redmi K40 和 K40s 手机](https://m.ithome.com/html/733639.htm)
 
++ [阿里巴巴再辟谣“裁员两万五千人”：谣言接二连三，已报警](https://m.ithome.com/html/733631.htm)
+
