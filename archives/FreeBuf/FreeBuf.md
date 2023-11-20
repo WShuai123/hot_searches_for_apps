@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 内鬼盗卖数据，某药房被罚；网信办开展“清朗・网络戾气整治”行动](https://www.freebuf.com/news/384195.html)
 
++ [雅马哈确认菲律宾子公司遭遇勒索软件攻击](https://www.freebuf.com/news/384303.html)
+
++ [发现 27 个恶意 PyPI 软件包，下载量达数千次，目标是 IT 专家](https://www.freebuf.com/articles/384308.html)
+

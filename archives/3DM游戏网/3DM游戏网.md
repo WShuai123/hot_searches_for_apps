@@ -151,3 +151,7 @@
 
 + [报告称Xbox如果早点收购动视暴雪 将首次超越PS](https://www.3dmgame.com/news/202311/3882027.html)
 
++ [科技初创公司计划新可穿戴设备 诱导清醒梦操控梦境](https://www.3dmgame.com/news/202311/3882036.html)
+
++ [B社仍有250人负责《星空》开发 未来带来更多新内容](https://www.3dmgame.com/news/202311/3882035.html)
+

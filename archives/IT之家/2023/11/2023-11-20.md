@@ -35,3 +35,7 @@
 
 + [阿里巴巴再辟谣“裁员两万五千人”：谣言接二连三，已报警](https://m.ithome.com/html/733631.htm)
 
++ [苹果 iPhone 16 Pro 电池实拍曝光：3355 毫安时、金属外壳 L 形设计](https://m.ithome.com/html/733643.htm)
+
++ [苹果 iPhone 16 / Pro 屏幕更多信息曝光：标准版依然 60Hz 刷新率、M12 有机材料](https://m.ithome.com/html/733653.htm)
+
