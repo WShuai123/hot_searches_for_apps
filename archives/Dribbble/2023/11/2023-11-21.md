@@ -101,3 +101,17 @@
 
 + [A monday in november](https://dribbble.com/shots/)
 
++ [AAA Concept](https://dribbble.com/shots/)
+
++ [Generative AI](https://dribbble.com/shots/)
+
++ [Burden of Proof](https://dribbble.com/shots/)
+
++ [Maid Style Test](https://dribbble.com/shots/)
+
++ [Branches #27](https://dribbble.com/shots/)
+
++ [Blithe Bat](https://dribbble.com/shots/)
+
++ [MFP brand applications](https://dribbble.com/shots/)
+

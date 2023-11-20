@@ -103,3 +103,29 @@
 
 + [【Linux系统化学习】进程的状态 | 僵尸进程 | 孤儿进程](https://blog.csdn.net/qq_55119554/article/details/134493953)
 
++ [开启AI高效办公时代，成为AI时代的先行者](https://blog.csdn.net/qq_32682301/article/details/134516293)
+
++ [Node.js 教程（3）【文末送惊喜】](https://blog.csdn.net/SHADOW_xhx/article/details/134517427)
+
++ [千帆大模型平台多维度体验总结——平台使用以及接口调用小游戏开发](https://blog.csdn.net/feng8403000/article/details/134511368)
+
++ [Windows系统搭建VisualSVN服务并结合内网穿透实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/134513354)
+
++ [PostgreSQL数据库结合内网穿透实现公网远程连接](https://blog.csdn.net/syf666250/article/details/134521468)
+
++ [Positive Technologies 利用 PT Cloud Application Firewall 保护中小型企业的网络资源](https://blog.csdn.net/ptsecurity/article/details/134519965)
+
++ [人工智能：科技的魔术师](https://blog.csdn.net/m0_74293254/article/details/134502854)
+
++ [（十二）Flask重点之session](https://blog.csdn.net/qq_44907926/article/details/134503785)
+
++ [[MySQL] MySQL表的约束](https://blog.csdn.net/weixin_67596609/article/details/134429169)
+
++ [【FPGA】Verilog：实现 RS 触发器 | Flip-Flop | 使用 NOR 的 RS 触发器 | 使用 NAND 的 RS 触发器](https://blog.csdn.net/weixin_50502862/article/details/134493144)
+
++ [Linux本地docker一键部署traefik+内网穿透工具实现远程访问Web UI管理界面](https://blog.csdn.net/ks_wyf/article/details/134478159)
+
++ [纯CSS实现炫酷文本阴影效果](https://blog.csdn.net/qq_37247349/article/details/134509447)
+
++ [飞鼠异地组网工具实战之访问k8s集群内部服务](https://blog.csdn.net/jks212454/article/details/134478651)
+
