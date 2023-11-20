@@ -27,3 +27,5 @@
 
 + [“电视家 跑路”登上热搜，官方称服务遇到问题并将发放退款](https://m.ithome.com/html/733855.htm)
 
++ [因阿尔特曼确认出走，消息称又有数十名 OpenAI 员工宣布辞职](https://m.ithome.com/html/733770.htm)
+
