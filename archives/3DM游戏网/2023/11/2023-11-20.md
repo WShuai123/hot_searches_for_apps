@@ -123,3 +123,9 @@
 
 + [消息称《漫威金刚狼》将于2025年上市](https://www.3dmgame.com/news/202311/3882018.html)
 
++ [《无主之地4》和《小缇娜的奇幻之地2》似乎在开发中](https://www.3dmgame.com/news/202311/3882021.html)
+
++ [《宝可梦：朱/紫》 最强大剑鬼登场  新挑战11月24日举行](https://www.3dmgame.com/news/202311/3882022.html)
+
++ [拳头：《英雄联盟》S14冠军赛将在英国伦敦举行](https://www.3dmgame.com/news/202311/3882023.html)
+

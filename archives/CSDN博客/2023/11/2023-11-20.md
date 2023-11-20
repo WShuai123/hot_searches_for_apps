@@ -155,3 +155,11 @@
 
 + [基于深度学习的恶意软件检测](https://blog.csdn.net/shebao3333/article/details/134498909)
 
++ [黑马程序员 计算机网络（笔记）](https://blog.csdn.net/Dontla/article/details/134406210)
+
++ [读像火箭科学家一样思考笔记03_第一性原理（上）](https://blog.csdn.net/lyingSeven/article/details/134496773)
+
++ [特征缩放和转换以及自定义Transformers（Machine Learning 研习之九）](https://blog.csdn.net/coco2d_x2014/article/details/134483490)
+
++ [飞鼠异地组网工具实战之访问k8s集群内部服务](https://blog.csdn.net/jks212454/article/details/134478651)
+
