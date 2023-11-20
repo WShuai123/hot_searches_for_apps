@@ -115,3 +115,15 @@
 
 + [MFP brand applications](https://dribbble.com/shots/)
 
++ [Tweed Seagulls](https://dribbble.com/shots/)
+
++ [EsraBibel (ESB)](https://dribbble.com/shots/)
+
++ [GIQO Branding](https://dribbble.com/shots/)
+
++ [Love Stamp 2024](https://dribbble.com/shots/)
+
++ [ROOSTER](https://dribbble.com/shots/)
+
++ [Wander UX-UI](https://dribbble.com/shots/)
+

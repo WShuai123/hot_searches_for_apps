@@ -129,3 +129,5 @@
 
 + [飞鼠异地组网工具实战之访问k8s集群内部服务](https://blog.csdn.net/jks212454/article/details/134478651)
 
++ [2024AIOTE智博会 第十六届山西国际智慧城市、物联网、大数据博览会](https://blog.csdn.net/weixin_44204069/article/details/134499662)
+
