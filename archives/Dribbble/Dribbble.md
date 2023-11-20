@@ -141,3 +141,11 @@
 
 + [Pendleton Whisky Label rendered by Steven Noble](https://dribbble.com/shots/)
 
++ [getting away from it all](https://dribbble.com/shots/)
+
++ [Video Sharing App](https://dribbble.com/shots/)
+
++ [Dribbble Poke Ball](https://dribbble.com/shots/)
+
++ [Intuit Credit Karma](https://dribbble.com/shots/)
+

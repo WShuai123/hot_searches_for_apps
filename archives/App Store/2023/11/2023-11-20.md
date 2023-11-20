@@ -219,3 +219,11 @@
 
 + [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
 
++ [潮新闻—潮闻天下](https://itunes.apple.com/cn/app/id1481290049?mt=8)
+
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [ChatGadget-官方中文版AI智能4.0](https://itunes.apple.com/cn/app/id6458733127?mt=8)
+

@@ -205,3 +205,17 @@
 
 + [【斯坦福计网CS144】Lab1终结笔记](https://blog.csdn.net/m0_57532432/article/details/134464169)
 
++ [【文末送书】计算机网络 | IO多路转接技术 | poll/epoll详解](https://blog.csdn.net/qq_43471489/article/details/130316747)
+
++ [[HTML]Web前端开发技术2（HTML5、CSS3、JavaScript ）格式化文本标记，定义列表，＜blockquote＞，definition description，ruby——喵喵画网页](https://blog.csdn.net/ormstq/article/details/134478158)
+
++ [微服务 Spring Cloud 8，开源RPC框架如何选型？](https://blog.csdn.net/guorui_java/article/details/134221063)
+
++ [【深入Scrapy实战】从登录到数据解析构建完整爬虫流程](https://blog.csdn.net/qiulin_wu/article/details/134459084)
+
++ [Vue - Router](https://blog.csdn.net/m0_56308072/article/details/134464958)
+
++ [（十二）Flask重点之session](https://blog.csdn.net/qq_44907926/article/details/134503785)
+
++ [【开源】基于JAVA的超市自助付款系统](https://blog.csdn.net/as230627/article/details/134505116)
+

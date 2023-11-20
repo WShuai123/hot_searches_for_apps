@@ -45,3 +45,7 @@
 
 + [创维汽车首款轿车 SKYHOME 首发亮相：双 8295 芯片，后排配备足底按摩](https://m.ithome.com/html/733621.htm)
 
++ [自带 M.2 插槽的华硕 RTX 4060 Ti 显卡现已量产上市，甚至可以再加装一块 RTX 4090](https://m.ithome.com/html/733652.htm)
+
++ [消息称小米 5 款机型将获澎湃 OS 稳定版更新：小米 13 Ultra、Redmi K60 Pro 等](https://m.ithome.com/html/733722.htm)
+

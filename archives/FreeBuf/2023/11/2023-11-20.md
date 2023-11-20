@@ -57,3 +57,5 @@
 
 + [ADCSKiller：一款功能强大的活动目录证书服务（ADCS）漏洞自动化检测和利用工具](https://www.freebuf.com/sectool/381074.html)
 
++ [数据防泄露建设方案-非结构化数据安全保护](https://www.freebuf.com/articles/database/374793.html)
+

@@ -101,3 +101,13 @@
 
 + [Service Shark](https://www.producthunt.com/posts/service-shark)
 
++ [Clay 2.0](https://www.producthunt.com/posts/clay-2-0-2)
+
++ [ID by amo](https://www.producthunt.com/posts/id-by-amo)
+
++ [Community Hub](https://www.producthunt.com/posts/community-hub)
+
++ [PostNitro.ai](https://www.producthunt.com/posts/postnitro-ai)
+
++ [pcWRT Secure WiFi Router](https://www.producthunt.com/posts/pcwrt-secure-wifi-router)
+
