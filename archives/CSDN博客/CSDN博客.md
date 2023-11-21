@@ -181,3 +181,15 @@
 
 + [黑客技术（网络安全）自学1.0](https://blog.csdn.net/y473158Yansu/article/details/134517013)
 
++ [【开源】基于JAVA的社区买菜系统](https://blog.csdn.net/as230627/article/details/134529289)
+
++ [【机器学习】对比学习（contrastive learning）](https://blog.csdn.net/qq_15719613/article/details/134529395)
+
++ [Pytorch完整的模型训练套路](https://blog.csdn.net/qq_45176548/article/details/134529377)
+
++ [为什么几乎所有的量化交易都用Python？](https://blog.csdn.net/mate1357/article/details/134525006)
+
++ [五分钟搭建开源ERP：Odoo，并实现公网远程访问](https://blog.csdn.net/w2915w/article/details/134509279)
+
++ [2023年亚太杯数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/m0_71450098/article/details/134515566)
+

@@ -265,3 +265,5 @@
 
 + [马斯克坚持相信印度没毛病！特斯拉将赴印度建厂等](https://www.3dmgame.com/news/202311/3882146.html)
 
++ [联发科发布天玑8300 引入旗舰级体验](https://www.3dmgame.com/news/202311/3882148.html)
+

@@ -51,3 +51,35 @@
 
 + [dotnet / eShop](https://github.com/dotnet/eShop)
 
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [zoonk / uneebee](https://github.com/zoonk/uneebee)
+
++ [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [cxli233 / FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
+
++ [yl4579 / StyleTTS2](https://github.com/yl4579/StyleTTS2)
+
++ [lxfater / inpaint-web](https://github.com/lxfater/inpaint-web)
+
++ [roc-lang / roc](https://github.com/roc-lang/roc)
+
++ [louislam / dockge](https://github.com/louislam/dockge)
+
++ [thewh1teagle / mobslide](https://github.com/thewh1teagle/mobslide)
+
++ [jordansinger / build-it-figma-ai](https://github.com/jordansinger/build-it-figma-ai)
+
++ [trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+
++ [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
++ [rsms / inter](https://github.com/rsms/inter)
+
++ [angular / angular-cli](https://github.com/angular/angular-cli)
+
++ [emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
+
++ [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
+
