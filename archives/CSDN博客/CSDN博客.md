@@ -121,3 +121,9 @@
 
 + [Web安全研究（五）](https://blog.csdn.net/AcSuccess/article/details/134496704)
 
++ [ChatGPT/GPT4科研实践应用与AI绘图技术及论文高效写作](https://blog.csdn.net/weixin_46433038/article/details/134540908)
+
++ [SpringCloud--分布式锁实现](https://blog.csdn.net/qq_33807380/article/details/134430573)
+
++ [【深入Scrapy实战】从登录到数据解析构建完整爬虫流程](https://blog.csdn.net/qiulin_wu/article/details/134459084)
+
