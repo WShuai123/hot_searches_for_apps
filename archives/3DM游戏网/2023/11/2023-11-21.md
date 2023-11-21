@@ -197,3 +197,25 @@
 
 + [洛星旗下游戏俱乐部SNS重新整合公司主页 为新作做准备](https://www.3dmgame.com/news/202311/3882109.html)
 
++ [《方舟：生存飞升》Xbox版11月21日发售 PS5版推迟到12月](https://www.3dmgame.com/news/202311/3882123.html)
+
++ [金刚狼休·杰克曼暗示《死侍3》或已重新开拍](https://www.3dmgame.com/news/202311/3882120.html)
+
++ [与《现代战争2》相比《现代战争3》的玩家在多人游戏中花费更多时间](https://www.3dmgame.com/news/202311/3882121.html)
+
++ [传闻：Switch 2的DLSS缺少DLA功能 分辨率或有限制](https://www.3dmgame.com/news/202311/3882119.html)
+
++ [我国首条高温超导低压直流电缆并网投运：电网线损降低70%](https://www.3dmgame.com/news/202311/3882122.html)
+
++ [《Eternity“s Echo》Steam页面上线 超自然现象调查探索](https://www.3dmgame.com/news/202311/3882116.html)
+
++ [大佬用ChatGPT制作《悲惨世界》线上RPG游戏 玩家得到各种奇怪的展开](https://www.3dmgame.com/news/202311/3882117.html)
+
++ [类大乱斗《以太之战2》众筹 不到一周达目标3倍](https://www.3dmgame.com/news/202311/3882118.html)
+
++ [《纳克园: 最后的乐园》实机演示  11月29日Steam公测](https://www.3dmgame.com/news/202311/3882110.html)
+
++ [深蓝航天：明年择机完成“星云-1”运载火箭第一次入轨发射回收任务](https://www.3dmgame.com/news/202311/3882114.html)
+
++ [《超级马里奥：惊奇》1.0.1补丁上线 改善游戏体验](https://www.3dmgame.com/news/202311/3882115.html)
+

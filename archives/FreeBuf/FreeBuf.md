@@ -53,3 +53,5 @@
 
 + [印度雇佣黑客多年来一直瞄准美国、中国等国](https://www.freebuf.com/news/384405.html)
 
++ [如何使用KaliPackergeManager更好地管理你的Kali Linux工具](https://www.freebuf.com/sectool/381180.html)
+
