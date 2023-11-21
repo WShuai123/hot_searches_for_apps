@@ -113,3 +113,11 @@
 
 + [兔女郎银河恶魔城新作《TEVI》上市宣传片](https://www.3dmgame.com/news/202311/3882070.html)
 
++ [迪士尼百年动画大片《星愿》发布全新预告](https://www.3dmgame.com/news/202311/3882071.html)
+
++ [任天堂发布2023年冬季Switch温馨游乐广告片](https://www.3dmgame.com/news/202311/3882072.html)
+
++ [《自杀小队：战胜正义联盟》小丑女预告](https://www.3dmgame.com/news/202311/3882073.html)
+
++ [《地狱之刃2》或将于2024年下半年发售](https://www.3dmgame.com/news/202311/3882074.html)
+

@@ -41,3 +41,7 @@
 
 + [AI 语料危机 | WPS 想用用户文档“喂”AI](https://www.freebuf.com/news/384243.html)
 
++ [FreeBuf早报 | 印度雇佣黑客针对中、美等国；多地出现“电话手表兑换卡”新型诈骗](https://www.freebuf.com/news/384350.html)
+
++ [2023年与游戏相关的网络威胁：《我的世界》继续领跑](https://www.freebuf.com/articles/paper/383579.html)
+

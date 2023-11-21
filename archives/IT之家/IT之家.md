@@ -29,3 +29,7 @@
 
 + [因阿尔特曼确认出走，消息称又有数十名 OpenAI 员工宣布辞职](https://m.ithome.com/html/733770.htm)
 
++ [小米 14 手机推送澎湃 OS 1.0.23.11.17.DEV 开发版更新：新增支持 HyperMind](https://m.ithome.com/html/733844.htm)
+
++ [闹大了：大多数 OpenAI 员工威胁要辞职加入微软，除非解散董事会并请回阿尔特曼](https://m.ithome.com/html/733851.htm)
+

@@ -129,3 +129,11 @@
 
 + [Free trial sign up — Untitled UI](https://dribbble.com/shots/)
 
++ [OpenSea HQ Mural & Logo Animation](https://dribbble.com/shots/)
+
++ [Cards for Minisite](https://dribbble.com/shots/)
+
++ [Otam Logo & App Icon Design](https://dribbble.com/shots/)
+
++ [Theatre Website UI Elements](https://dribbble.com/shots/)
+
