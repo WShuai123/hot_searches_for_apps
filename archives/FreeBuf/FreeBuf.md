@@ -55,3 +55,5 @@
 
 + [如何使用KaliPackergeManager更好地管理你的Kali Linux工具](https://www.freebuf.com/sectool/381180.html)
 
++ [明天见 | FCIS 2023网络安全创新大会](https://www.freebuf.com/fevents/384351.html)
+

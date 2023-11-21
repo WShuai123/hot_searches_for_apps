@@ -53,3 +53,7 @@
 
 + [联发科天玑 8300 GPU 跑分曝光，媲美高通骁龙 8 Gen 2](https://m.ithome.com/html/733949.htm)
 
++ [小米卢伟冰：Redmi K70 E 手机全球首发天玑 8300-Ultra 处理器，落地澎湃 OS](https://m.ithome.com/html/734033.htm)
+
++ [酷派手机拥抱开源鸿蒙，成功在展讯 T606 平台上接入 OpenHarmony v3.2.2](https://m.ithome.com/html/733883.htm)
+

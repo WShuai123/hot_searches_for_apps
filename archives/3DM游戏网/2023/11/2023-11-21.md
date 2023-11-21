@@ -261,3 +261,7 @@
 
 + [Steam最新一周销量榜 Steam Deck成功登顶](https://www.3dmgame.com/news/202311/3882139.html)
 
++ [英伟达RTX 4080显卡正式停产了：降价是不可能的！](https://www.3dmgame.com/news/202311/3882147.html)
+
++ [马斯克坚持相信印度没毛病！特斯拉将赴印度建厂等](https://www.3dmgame.com/news/202311/3882146.html)
+
