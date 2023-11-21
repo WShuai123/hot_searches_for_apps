@@ -145,3 +145,11 @@
 
 + [如何将 Docsify 项目部署到 CentOS 系统的 Nginx 中](https://blog.csdn.net/qq_43546721/article/details/134489609)
 
++ [[Spring Cloud] Nacos 实战 + Aws云服务器](https://blog.csdn.net/s445320/article/details/134517675)
+
++ [向量数据库——AI时代的基座](https://blog.csdn.net/weixin_47343544/article/details/134504781)
+
++ [SpringCloud微服务 【实用篇】| Eureka注册中心、Ribbon负载均衡](https://blog.csdn.net/m0_61933976/article/details/133176990)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(六)](https://blog.csdn.net/m0_59230408/article/details/132889355)
+

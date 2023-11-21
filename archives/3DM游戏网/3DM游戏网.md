@@ -189,3 +189,11 @@
 
 + [P社沙盒探索游戏《星际矿工》预告 明年发售](https://www.3dmgame.com/news/202311/3882098.html)
 
++ [ChatGPT创始人奥特曼“入伙”：微软市值逼近苹果](https://www.3dmgame.com/news/202311/3882111.html)
+
++ [《不朽者传奇》总监：没人预料到《博德之门3》如此成功](https://www.3dmgame.com/news/202311/3882112.html)
+
++ [年度烂作还有竞争者 《行尸走肉：命运》静态过场遭吐槽](https://www.3dmgame.com/news/202311/3882113.html)
+
++ [洛星旗下游戏俱乐部SNS重新整合公司主页 为新作做准备](https://www.3dmgame.com/news/202311/3882109.html)
+
