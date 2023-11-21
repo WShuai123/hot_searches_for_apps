@@ -221,3 +221,9 @@
 
 + [ChatGadget-官方中文版AI人工智能](https://itunes.apple.com/cn/app/id6458733127?mt=8)
 
++ [咪咕视频-《欢迎来到麦乐村》全网热播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [中国体育彩票](https://itunes.apple.com/cn/app/id1403211152?mt=8)
+

@@ -193,3 +193,7 @@
 
 + [2023年亚太杯数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/m0_71450098/article/details/134515566)
 
++ [二蛋赠书九期：《机器学习图解》](https://blog.csdn.net/qq_28314431/article/details/134519712)
+
++ [C#，怎么修改（VS）Visual Studio 2022支持的C#版本](https://blog.csdn.net/beijinghorn/article/details/134509736)
+

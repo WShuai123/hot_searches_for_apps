@@ -225,3 +225,7 @@
 
 + [AI Response Generator](https://www.producthunt.com/posts/ai-response-generator)
 
++ [OnePlus AI Music Studio](https://www.producthunt.com/posts/oneplus-ai-music-studio)
+
++ [Zaplingo Talk](https://www.producthunt.com/posts/zaplingo-talk)
+

@@ -273,3 +273,7 @@
 
 + [G胖谈游戏创作：真实性不应该是游戏的首选因素](https://www.3dmgame.com/news/202311/3882149.html)
 
++ [《赛博朋克2077：终极典藏版》官宣！12月5日发售](https://www.3dmgame.com/news/202311/3882153.html)
+
++ [吴宇森：我不看超级英雄电影 喜欢老式、真正的电影](https://www.3dmgame.com/news/202311/3882152.html)
+
