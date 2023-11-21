@@ -127,3 +127,7 @@
 
 + [【深入Scrapy实战】从登录到数据解析构建完整爬虫流程](https://blog.csdn.net/qiulin_wu/article/details/134459084)
 
++ [SpringBoot——静态资源及原理](https://blog.csdn.net/zhengzhaoyang122/article/details/134520496)
+
++ [20231121_090257 java 接口 案例电脑上连接usb设备](https://blog.csdn.net/ifubing/article/details/134523475)
+

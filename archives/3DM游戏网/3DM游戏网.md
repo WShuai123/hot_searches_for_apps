@@ -113,3 +113,5 @@
 
 + [免费多人射击游戏《HAWKED》EA版11月30日推出](https://www.3dmgame.com/news/202311/3882156.html)
 
++ [庆祝怪物猎人系列20周年官方举办怪物评选比赛](https://www.3dmgame.com/news/202311/3882162.html)
+
