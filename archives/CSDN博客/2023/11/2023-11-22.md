@@ -107,3 +107,17 @@
 
 + [2023年亚太杯数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/m0_71450098/article/details/134515566)
 
++ [MySQL表的约束](https://blog.csdn.net/m0_62812354/article/details/134531396)
+
++ [轻松驾驭Linux命令：账户查看、目录文件操作详解](https://blog.csdn.net/a1657054242/article/details/134529712)
+
++ [太累了，是时候让AI数字人来帮我干活了（走，上教程）](https://blog.csdn.net/ffffffff8/article/details/134536062)
+
++ [【探索嵌入式虚拟化技术与应用】— 虚拟化技术深入浅出自学系列](https://blog.csdn.net/Aileenvov/article/details/134498747)
+
++ [如何在Linux以docker-compose方式快速部署运行StackEdit，并实现公网访问](https://blog.csdn.net/qq_48652579/article/details/134511113)
+
++ [vue3-响应式核心](https://blog.csdn.net/2302_76329106/article/details/134501526)
+
++ [Web安全研究（五）](https://blog.csdn.net/AcSuccess/article/details/134496704)
+
