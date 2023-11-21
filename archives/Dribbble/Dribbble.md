@@ -49,3 +49,23 @@
 
 + [The Retreat at Lake Noir concept](https://dribbble.com/shots/)
 
++ [OpenSea HQ Mural & Logo Animation](https://dribbble.com/shots/)
+
++ [Cyber Security Portal](https://dribbble.com/shots/)
+
++ [Analytics Company Website](https://dribbble.com/shots/)
+
++ [Dot come (Personal '23)](https://dribbble.com/shots/)
+
++ [Crossway Book Cover 02](https://dribbble.com/shots/)
+
++ [ROOSTER](https://dribbble.com/shots/)
+
++ [CreatiAI Hub - AI UX-UI design](https://dribbble.com/shots/)
+
++ [Lil Hotdogs](https://dribbble.com/shots/)
+
++ [Dark Mode - Command K](https://dribbble.com/shots/)
+
++ [moving](https://dribbble.com/shots/)
+
