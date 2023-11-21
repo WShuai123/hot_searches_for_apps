@@ -229,3 +229,19 @@
 
 + [自如应对油价 《加油站大亨》全新DLC“潮汐波”公布](https://www.3dmgame.com/news/202311/3882124.html)
 
++ [《超级马里奥RPG：重制版》删除了李小龙彩蛋 让人遗憾](https://www.3dmgame.com/news/202311/3882132.html)
+
++ [KK对战平台，老板不在家，限定“乐园”套装送送送！](https://www.3dmgame.com/news/202311/3882133.html)
+
++ [OpenAI高管回应员工不满CEO被裁：仍在谈判](https://www.3dmgame.com/news/202311/3882134.html)
+
++ [《街头霸王6》服装3原画预览 朱莉也太可爱了！](https://www.3dmgame.com/news/202311/3882135.html)
+
++ [你中招了没 2023全球最糟密码榜出炉：1秒内就能破解](https://www.3dmgame.com/news/202311/3882136.html)
+
++ [照明娱乐新短片《Mooned》预告 12月22日贴片上映](https://www.3dmgame.com/news/202311/3882129.html)
+
++ [《了不起的修仙模拟器》移动版公测定档 12月20日上线](https://www.3dmgame.com/news/202311/3882130.html)
+
++ [文件显示谷歌曾考虑与腾讯合作 收购Epic100%股权](https://www.3dmgame.com/news/202311/3882131.html)
+

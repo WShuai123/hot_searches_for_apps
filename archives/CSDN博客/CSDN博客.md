@@ -165,3 +165,7 @@
 
 + [RuntimeError: PyPI no longer supports ‘pip search‘ (or XML-RPC search).](https://blog.csdn.net/chengyq116/article/details/134521510)
 
++ [如何通过cpolar内网穿透工具实现远程访问本地postgreSQL](https://blog.csdn.net/weixin_73466540/article/details/134510188)
+
++ [5分钟制作可直接导入GPTs知识库中的自动爬虫](https://blog.csdn.net/specssss/article/details/134516446)
+
