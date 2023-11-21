@@ -45,3 +45,5 @@
 
 + [2023年与游戏相关的网络威胁：《我的世界》继续领跑](https://www.freebuf.com/articles/paper/383579.html)
 
++ [针对机器学习模型的变音符号文本对抗攻击](https://www.freebuf.com/vuls/383999.html)
+

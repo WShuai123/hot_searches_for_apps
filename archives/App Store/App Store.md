@@ -207,3 +207,7 @@
 
 + [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
 
++ [唯品会 -新人享豪礼](https://itunes.apple.com/cn/app/id417200582?mt=8)
+
++ [百度地图-智能导航，打车地铁公交更快出行](https://itunes.apple.com/cn/app/id452186370?mt=8)
+

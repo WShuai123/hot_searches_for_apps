@@ -121,3 +121,33 @@
 
 + [《地狱之刃2》或将于2024年下半年发售](https://www.3dmgame.com/news/202311/3882074.html)
 
++ [《蕾丝莱利安娜的炼金工房》Steam页面上线 2024年1月上线](https://www.3dmgame.com/news/202311/3882088.html)
+
++ [《月球叛军》角色海报发布 阵容强大太美了！](https://www.3dmgame.com/news/202311/3882090.html)
+
++ [《谍影重重》新电影制作中 马特·达蒙尚不确定回归](https://www.3dmgame.com/news/202311/3882089.html)
+
++ [《使命召唤：现代战争3》中臭名昭著的“格鲁特”皮肤正在修复中](https://www.3dmgame.com/news/202311/3882087.html)
+
++ [《Kingsgrave》Steam页面上线 复古塞尔达风格动作RPG](https://www.3dmgame.com/news/202311/3882086.html)
+
++ [特别好评！《妖怪汤屋》发售首周收入已破百万美元](https://www.3dmgame.com/news/202311/3882085.html)
+
++ [DC超级英雄新片《海王2》“为家而战”版新预告 12月20日上映](https://www.3dmgame.com/news/202311/3882084.html)
+
++ [《星空》1.8.86版更新说明 添加DLSS支持改善优化](https://www.3dmgame.com/news/202311/3882081.html)
+
++ [传送门大型MOD《Portal: Revolution》确定明年1月登陆Steam](https://www.3dmgame.com/news/202311/3882080.html)
+
++ [《宝可梦 Go》开发商因性别歧视遭前员工起诉](https://www.3dmgame.com/news/202311/3882079.html)
+
++ [《深海迷航》系列新作预计2025年推出 登陆平台待定](https://www.3dmgame.com/news/202311/3882078.html)
+
++ [英国实体周榜：黑五促销《霍格沃茨》重回榜首](https://www.3dmgame.com/news/202311/3882077.html)
+
++ [OpenAI 667名员工要求董事会辞职 否则集体跳槽微软](https://www.3dmgame.com/news/202311/3882083.html)
+
++ [《命运2》Steam在线玩家数量创历史新低](https://www.3dmgame.com/news/202311/3882076.html)
+
++ [《城市：天际线2》DLC延期 需要优先修复本体游戏](https://www.3dmgame.com/news/202311/3882075.html)
+

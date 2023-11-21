@@ -75,3 +75,5 @@
 
 + [MC石头：《吻别Dj》英文版，看我的八级英语！](http://www.acfun.cn/v/ac43000872)
 
++ [只狼  看破！ 永失我真](http://www.acfun.cn/v/ac43004821)
+
