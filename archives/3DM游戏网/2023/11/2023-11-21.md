@@ -167,3 +167,25 @@
 
 + [梦回XP三维弹球 《弹球M》将于11月30日推出](https://www.3dmgame.com/news/202311/3882091.html)
 
++ [《GTA5》泄露数据揭示叙事DLC遭砍 《恶霸2》曾在制作中](https://www.3dmgame.com/news/202311/3882105.html)
+
++ [前《光环》多人总监：SBMM匹配机制歧视高手玩家](https://www.3dmgame.com/news/202311/3882104.html)
+
++ [联想公布车计算路线图 联合英伟达推域控制器](https://www.3dmgame.com/news/202311/3882106.html)
+
++ [宝可梦公司首席运营官：计划让该系列长存数百年](https://www.3dmgame.com/news/202311/3882107.html)
+
++ [《堡垒之夜》内容年龄分级系统引不满 Epic承诺改进](https://www.3dmgame.com/news/202311/3882108.html)
+
++ [《浩劫前夕》Steam抢先体验全球解锁时间公布](https://www.3dmgame.com/news/202311/3882099.html)
+
++ [《浩劫前夕》12月8日Steam抢先体验 开放世界末日生存](https://www.3dmgame.com/news/202311/3882100.html)
+
++ [PlayStation新预告推出 与日本摇滚乐队合作](https://www.3dmgame.com/news/202311/3882101.html)
+
++ [《最后的生还者2》黑暗新细节 艾莉用人血标记地图](https://www.3dmgame.com/news/202311/3882102.html)
+
++ [Steam更新：Steam 库和商店显示PS手柄支持](https://www.3dmgame.com/news/202311/3882103.html)
+
++ [P社沙盒探索游戏《星际矿工》预告 明年发售](https://www.3dmgame.com/news/202311/3882098.html)
+
