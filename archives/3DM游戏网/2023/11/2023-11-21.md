@@ -151,3 +151,19 @@
 
 + [《城市：天际线2》DLC延期 需要优先修复本体游戏](https://www.3dmgame.com/news/202311/3882075.html)
 
++ [《女神异闻录３ Reload》埃癸斯角色PV 明年发售](https://www.3dmgame.com/news/202311/3882082.html)
+
++ [《刺客信条：奥德赛》游戏与现实对比图 旅游模拟器！](https://www.3dmgame.com/news/202311/3882097.html)
+
++ [《In Stars and Time》登陆多平台 黑白色调回合制RPG](https://www.3dmgame.com/news/202311/3882095.html)
+
++ [《装甲核心6：境界天火》无缝合作模式MOD即将推出](https://www.3dmgame.com/news/202311/3882094.html)
+
++ [《塔罗斯的法则2》玩家数突破10万 Steam好评如潮](https://www.3dmgame.com/news/202311/3882093.html)
+
++ [PSVR2《玩具熊的五夜后宫：需要帮助2》12月14日发售](https://www.3dmgame.com/news/202311/3882096.html)
+
++ [《巫师1》《巫师2》已支持苹果硅芯片 在Mac上享受巫师](https://www.3dmgame.com/news/202311/3882092.html)
+
++ [梦回XP三维弹球 《弹球M》将于11月30日推出](https://www.3dmgame.com/news/202311/3882091.html)
+
