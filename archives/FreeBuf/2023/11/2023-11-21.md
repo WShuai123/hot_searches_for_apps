@@ -51,3 +51,5 @@
 
 + [分享一个自己APP测试遇到的抓包问题与APP登录密码加密](https://www.freebuf.com/articles/mobile/384075.html)
 
++ [印度雇佣黑客多年来一直瞄准美国、中国等国](https://www.freebuf.com/news/384405.html)
+

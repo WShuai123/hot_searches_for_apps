@@ -35,3 +35,5 @@
 
 + [业内人士回应华为鸿蒙系统“明年不兼容安卓”传闻：有计划但内部未发通知](https://m.ithome.com/html/733750.htm)
 
++ [小米王腾暗示 Redmi K70 系列手机即将开启预热，还有笔记本新品](https://m.ithome.com/html/733853.htm)
+
