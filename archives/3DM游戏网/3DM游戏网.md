@@ -245,3 +245,19 @@
 
 + [文件显示谷歌曾考虑与腾讯合作 收购Epic100%股权](https://www.3dmgame.com/news/202311/3882131.html)
 
++ [范冰冰登上国外杂志封面 写真美图性感美爆了](https://www.3dmgame.com/news/202311/3882142.html)
+
++ [2023 indiePlay中国独立游戏大赛各大奖项结果公布！](https://www.3dmgame.com/news/202311/3882143.html)
+
++ [CRI TechSummit 2023顺利收官，精彩回顾！](https://www.3dmgame.com/news/202311/3882144.html)
+
++ [《愿景之城》《中世纪王朝》在Steam上火热促销，Toplitz游戏享75%最高折扣](https://www.3dmgame.com/news/202311/3882145.html)
+
++ [《赛博朋克2077：终极版》实体封面泄露 定价60美元](https://www.3dmgame.com/news/202311/3882137.html)
+
++ [惊奇少女回应《惊奇队长2》票房惨淡：那不关我的事](https://www.3dmgame.com/news/202311/3882138.html)
+
++ [《Flyout》Steam抢先体验开启 高自由度飞机设计模拟](https://www.3dmgame.com/news/202311/3882140.html)
+
++ [Steam最新一周销量榜 Steam Deck成功登顶](https://www.3dmgame.com/news/202311/3882139.html)
+

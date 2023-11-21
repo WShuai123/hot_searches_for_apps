@@ -51,3 +51,5 @@
 
 + [消息称深圳水务集团原董事长吴晖加入荣耀：预计担任董事长并推动上市进程](https://m.ithome.com/html/733813.htm)
 
++ [联发科天玑 8300 GPU 跑分曝光，媲美高通骁龙 8 Gen 2](https://m.ithome.com/html/733949.htm)
+
