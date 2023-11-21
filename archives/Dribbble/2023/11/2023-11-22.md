@@ -93,3 +93,15 @@
 
 + [Industrial Light & Magic (ILM) Rebrand](https://dribbble.com/shots/)
 
++ [AVIA – Octopus mascot](https://dribbble.com/shots/)
+
++ [EMC Presents Visual Identity](https://dribbble.com/shots/)
+
++ [Swinton Lions](https://dribbble.com/shots/)
+
++ [Sherbet UI](https://dribbble.com/shots/)
+
++ [Landscape Collage](https://dribbble.com/shots/)
+
++ [Pattern](https://dribbble.com/shots/)
+

@@ -101,3 +101,9 @@
 
 + [学习网络编程No.10【深入学习HTTPS】](https://blog.csdn.net/weixin_74004489/article/details/134405540)
 
++ [Linux驱动开发笔记（四）：设备驱动介绍、熟悉杂项设备驱动和ubuntu开发杂项设备Demo](https://blog.csdn.net/qq21497936/article/details/134533533)
+
++ [C#，怎么修改（VS）Visual Studio 2022支持的C#版本](https://blog.csdn.net/beijinghorn/article/details/134509736)
+
++ [2023年亚太杯数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/m0_71450098/article/details/134515566)
+

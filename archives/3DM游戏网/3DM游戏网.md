@@ -101,3 +101,15 @@
 
 + [宝可梦公司首席运营官：计划让该系列长存数百年](https://www.3dmgame.com/news/202311/3882107.html)
 
++ [战略RPG《阿卡迪亚图集》11/30登陆主机平台](https://www.3dmgame.com/news/202311/3882161.html)
+
++ [《JOJO群星之战R》季票2最终角色透龙预告片公布](https://www.3dmgame.com/news/202311/3882159.html)
+
++ [RPG《goHELLgo去地狱》3/28推出 登陆PS4/NS/PC](https://www.3dmgame.com/news/202311/3882160.html)
+
++ [游戏引擎GameMaker现可免费用于非商业用途](https://www.3dmgame.com/news/202311/3882158.html)
+
++ [外媒评最值得游玩的31款开放世界游戏 《巫师3》等](https://www.3dmgame.com/news/202311/3882157.html)
+
++ [免费多人射击游戏《HAWKED》EA版11月30日推出](https://www.3dmgame.com/news/202311/3882156.html)
+

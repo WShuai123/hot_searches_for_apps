@@ -25,3 +25,5 @@
 
 + [红魔 9 Pro 系列手机预热：2160Hz 高频 PWM 调光、首发京东方屏下 Q9 + 发光材料](https://m.ithome.com/html/733942.htm)
 
++ [联发科天玑 8300 处理器亮相：3.35GHz 八核 CPU，峰值功耗降低 30%](https://m.ithome.com/html/734021.htm)
+
