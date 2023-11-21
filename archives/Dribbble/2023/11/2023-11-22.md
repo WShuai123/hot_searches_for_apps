@@ -69,3 +69,23 @@
 
 + [moving](https://dribbble.com/shots/)
 
++ [Wanderer Sage](https://dribbble.com/shots/)
+
++ [Football app](https://dribbble.com/shots/)
+
++ [Love Stamp 2024](https://dribbble.com/shots/)
+
++ [Dribbbler's Crocs](https://dribbble.com/shots/)
+
++ [EsraBibel (ESB)](https://dribbble.com/shots/)
+
++ [Tweed Seagulls](https://dribbble.com/shots/)
+
++ [Payment Website Design](https://dribbble.com/shots/)
+
++ [Airbnb Specials Visual Identity](https://dribbble.com/shots/)
+
++ [Redken Gift Kit](https://dribbble.com/shots/)
+
++ [Tank Logo](https://dribbble.com/shots/)
+
