@@ -159,3 +159,9 @@
 
 + [【计算机视觉】24-Object Detection](https://blog.csdn.net/weixin_62012485/article/details/134520933)
 
++ [目标分割技术-语义分割总览](https://blog.csdn.net/master_hunter/article/details/134524610)
+
++ [【兔子王赠书第8期】AI短视频制作一本通： 文本生成视频+图片生成视频+视频生成视频](https://blog.csdn.net/m0_68111267/article/details/134525264)
+
++ [RuntimeError: PyPI no longer supports ‘pip search‘ (or XML-RPC search).](https://blog.csdn.net/chengyq116/article/details/134521510)
+

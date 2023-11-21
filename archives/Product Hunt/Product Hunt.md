@@ -103,3 +103,35 @@
 
 + [Notion Leader's Toolkit](https://www.producthunt.com/posts/notion-leader-s-toolkit)
 
++ [TextCortex Prompt Marketplace](https://www.producthunt.com/posts/textcortex-prompt-marketplace)
+
++ [Ekran](https://www.producthunt.com/posts/ekran)
+
++ [SongPush](https://www.producthunt.com/posts/songpush)
+
++ [RetireMint](https://www.producthunt.com/posts/retiremint)
+
++ [PromoAI](https://www.producthunt.com/posts/promoai)
+
++ [Hotlist](https://www.producthunt.com/posts/hotlist)
+
++ [Mojju](https://www.producthunt.com/posts/mojju)
+
++ [ChatGPT for Copywriting - Lifetime Deal](https://www.producthunt.com/posts/chatgpt-for-copywriting-lifetime-deal)
+
++ [Mango Mail](https://www.producthunt.com/posts/mango-mail)
+
++ [CramJam: Your Ultimate Study Sidekick](https://www.producthunt.com/posts/cramjam-your-ultimate-study-sidekick)
+
++ [Align API](https://www.producthunt.com/posts/align-api)
+
++ [Wondering](https://www.producthunt.com/posts/wondering)
+
++ [FigMayo](https://www.producthunt.com/posts/figmayo)
+
++ [Proofmarked](https://www.producthunt.com/posts/proofmarked)
+
++ [JazzUp AI](https://www.producthunt.com/posts/jazzup-ai)
+
++ [Boxio](https://www.producthunt.com/posts/boxio)
+

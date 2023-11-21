@@ -219,3 +219,13 @@
 
 + [《超级马里奥：惊奇》1.0.1补丁上线 改善游戏体验](https://www.3dmgame.com/news/202311/3882115.html)
 
++ [特斯拉回应1月涨价4次：供不应求 单周交付已达1.6万台](https://www.3dmgame.com/news/202311/3882128.html)
+
++ [《超市保安模拟器》登陆Steam发售 体验各种奇葩事件](https://www.3dmgame.com/news/202311/3882127.html)
+
++ [《英雄联盟》北美冠军联赛LCS再缩水：EG、GG退出](https://www.3dmgame.com/news/202311/3882126.html)
+
++ [《自杀小队：战胜正义联盟》封闭A测公布 预注册开启](https://www.3dmgame.com/news/202311/3882125.html)
+
++ [自如应对油价 《加油站大亨》全新DLC“潮汐波”公布](https://www.3dmgame.com/news/202311/3882124.html)
+
