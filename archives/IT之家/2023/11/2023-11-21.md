@@ -63,3 +63,7 @@
 
 + [斗鱼：公司 CEO 陈少杰已被成都警方逮捕](https://m.ithome.com/html/734118.htm)
 
++ [《英雄联盟》T1 战队官宣“三冠王”kkOma 金正均回归，担任监督](https://m.ithome.com/html/733983.htm)
+
++ [小米澎湃 OS 开发版首批机型已全量推送，发版节奏公布](https://m.ithome.com/html/734113.htm)
+
