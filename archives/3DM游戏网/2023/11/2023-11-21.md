@@ -267,3 +267,9 @@
 
 + [联发科发布天玑8300 引入旗舰级体验](https://www.3dmgame.com/news/202311/3882148.html)
 
++ [斗鱼：公司CEO陈少杰于11月16日被成都警方逮捕](https://www.3dmgame.com/news/202311/3882151.html)
+
++ [《DOTA2》7.34e平衡性更新发布 至宝还没做完](https://www.3dmgame.com/news/202311/3882150.html)
+
++ [G胖谈游戏创作：真实性不应该是游戏的首选因素](https://www.3dmgame.com/news/202311/3882149.html)
+
