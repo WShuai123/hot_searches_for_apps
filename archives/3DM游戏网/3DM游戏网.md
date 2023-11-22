@@ -107,3 +107,7 @@
 
 + [《铁拳8》全新预告 展示女性角色Leo](https://www.3dmgame.com/news/202311/3882234.html)
 
++ [《自杀小队：战胜正义联盟》预告片介绍鲨鱼王](https://www.3dmgame.com/news/202311/3882236.html)
+
++ [万代南梦宫公布《海贼无双4》DLC角色乌塔](https://www.3dmgame.com/news/202311/3882237.html)
+

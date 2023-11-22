@@ -129,3 +129,9 @@
 
 + [ERP对接淘宝/天猫/京东/拼多多商品详情数据API接口](https://blog.csdn.net/onebound_linda/article/details/134546465)
 
++ [RedisTemplate使用详解](https://blog.csdn.net/zhangzehai2234/article/details/134563989)
+
++ [2023 年 亚太赛 APMCM ABC题 国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134565173)
+
++ [20231121_090257 java 接口 案例电脑上连接usb设备](https://blog.csdn.net/ifubing/article/details/134523475)
+
