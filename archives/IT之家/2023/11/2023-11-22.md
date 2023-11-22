@@ -51,3 +51,5 @@
 
 + [苹果 CEO 蒂姆・库克透露接班计划，希望继任者来自公司内部](https://m.ithome.com/html/734127.htm)
 
++ [Redmi K70E 手机真机曝光，屏幕边框控制出色](https://m.ithome.com/html/734314.htm)
+

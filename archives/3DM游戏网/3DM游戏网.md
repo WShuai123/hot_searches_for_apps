@@ -231,3 +231,9 @@
 
 + [卡普空招聘简体中文本地化专员 开发高质量本地化内容](https://www.3dmgame.com/news/202311/3882216.html)
 
++ [游改电影《纸嫁衣：鸳鸯债》备案公示 上映日期待定](https://www.3dmgame.com/news/202311/3882222.html)
+
++ [据称《最后的生还者2：复刻版》生存模式将包含12个关卡](https://www.3dmgame.com/news/202311/3882223.html)
+
++ [夺权大戏正式落幕！奥特曼将重返OpenAI担任CEO](https://www.3dmgame.com/news/202311/3882224.html)
+
