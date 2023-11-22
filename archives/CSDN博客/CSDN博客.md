@@ -165,3 +165,9 @@
 
 + [HTML5生成二维码](https://blog.csdn.net/lplovewjm/article/details/134524616)
 
++ [第三方模块远程注入到软件中引发软件异常的若干实战案例分享](https://blog.csdn.net/chenlycly/article/details/134545223)
+
++ [SpringBoot——数据访问](https://blog.csdn.net/zhengzhaoyang122/article/details/134542918)
+
++ [uni-app - 日期 · 时间选择器](https://blog.csdn.net/weixin_54721820/article/details/134531410)
+

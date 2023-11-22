@@ -37,3 +37,5 @@
 
 + [英特尔最新四核处理器 i3-14100 现身闲鱼，售价 850 元](https://m.ithome.com/html/734136.htm)
 
++ [特斯拉“刹车失灵”事件核心成员被判道歉](https://m.ithome.com/html/734202.htm)
+

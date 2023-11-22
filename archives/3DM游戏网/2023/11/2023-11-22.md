@@ -183,3 +183,19 @@
 
 + [《命运2》下一个联动活动将添加《猎魔人》系列皮肤](https://www.3dmgame.com/news/202311/3882196.html)
 
++ [历史最低价！《底特律》新史低60% OFF四折！](https://www.3dmgame.com/news/202311/3882204.html)
+
++ [大宇新作《三国战旅：乱世行》Steam商店页面上线 2024年发售](https://www.3dmgame.com/news/202311/3882202.html)
+
++ [《方舟生存飞升》无畏龙生物图谱公开，泰坦BOSS将遭遇劲敌](https://www.3dmgame.com/news/202311/3882203.html)
+
++ [《方块方舟》创造模式来袭，感恩节活动嘟嘟霸王龙同步登场](https://www.3dmgame.com/news/202311/3882201.html)
+
++ [The Front参与Steam秋季特卖：7.5折史低优惠！](https://www.3dmgame.com/news/202311/3882200.html)
+
++ [《宝可梦》官方玩梗“我是谁”剪影 玩出超级缝合怪](https://www.3dmgame.com/news/202311/3882199.html)
+
++ [《绝区零》比利角色展示 | 骑士登场！](https://www.3dmgame.com/news/202311/3882198.html)
+
++ [成龙再次参演《龙威小子》系列新作 明年上映](https://www.3dmgame.com/news/202311/3882197.html)
+
