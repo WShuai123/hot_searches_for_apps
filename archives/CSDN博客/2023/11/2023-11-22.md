@@ -203,3 +203,7 @@
 
 + [一个基于Kafka客户端封装的工具，Kafka开发效率神器](https://blog.csdn.net/zhangchuangzhuang/article/details/134542177)
 
++ [『亚马逊云科技产品测评』活动征文｜通过Lightsail搭建个人笔记](https://blog.csdn.net/qq_24694139/article/details/134548179)
+
++ [某高品质房产企业：借助NineData平台，统一数据库访问权限，保障业务安全](https://blog.csdn.net/NineData/article/details/134551733)
+

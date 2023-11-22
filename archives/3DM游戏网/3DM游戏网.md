@@ -241,3 +241,7 @@
 
 + [8CD超豪华《地球防卫军》20周年CD合集月底发售](https://www.3dmgame.com/news/202311/3882225.html)
 
++ [特斯拉“车顶事件”核心成员被判道歉赔偿](https://www.3dmgame.com/news/202311/3882228.html)
+
++ [《战争机器》系列叙事总监加盟索尼圣莫妮卡](https://www.3dmgame.com/news/202311/3882227.html)
+

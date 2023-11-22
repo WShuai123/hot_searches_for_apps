@@ -57,3 +57,7 @@
 
 + [DXOMARK 公布小米 MIX Fold 3 折叠屏手机屏幕得分，位列第 28](https://m.ithome.com/html/734138.htm)
 
++ [吉利银河 E8 半幅式方向盘曝光：零百加速 3.49s，新车有望年内上市](https://m.ithome.com/html/734137.htm)
+
++ [OpenAI：已与阿尔特曼原则上达成协议，让他复职 CEO 并重组董事会](https://m.ithome.com/html/734268.htm)
+
