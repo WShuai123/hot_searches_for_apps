@@ -73,3 +73,7 @@
 
 + [【歌回录像】水曜日！（2023-10-04）](http://www.acfun.cn/v/ac43021645)
 
++ [231122 HAN X 昇玟 [2 Kids Show] Ep.01](http://www.acfun.cn/v/ac43024657)
+
++ [五官那那都好看......(今日好笑开心视频：1290)](http://www.acfun.cn/v/ac43024235)
+
