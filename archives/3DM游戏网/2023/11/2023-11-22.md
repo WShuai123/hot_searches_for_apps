@@ -245,3 +245,7 @@
 
 + [《战争机器》系列叙事总监加盟索尼圣莫妮卡](https://www.3dmgame.com/news/202311/3882227.html)
 
++ [英伟达第三财季营收181亿美元 净利润92亿美元暴增1259%](https://www.3dmgame.com/news/202311/3882230.html)
+
++ [《铁拳8》PC配置公开 推荐RTX 2070/RX 5700XT](https://www.3dmgame.com/news/202311/3882229.html)
+

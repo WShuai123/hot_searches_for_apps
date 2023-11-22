@@ -61,3 +61,9 @@
 
 + [OpenAI：已与阿尔特曼原则上达成协议，让他复职 CEO 并重组董事会](https://m.ithome.com/html/734268.htm)
 
++ [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://m.ithome.com/html/734356.htm)
+
++ [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://m.ithome.com/html/734363.htm)
+
++ [2024 款奔驰 S 级上市：售价 96.26 万元起，部分车型涨价 4.06 万元](https://m.ithome.com/html/734309.htm)
+

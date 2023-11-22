@@ -207,3 +207,7 @@
 
 + [某高品质房产企业：借助NineData平台，统一数据库访问权限，保障业务安全](https://blog.csdn.net/NineData/article/details/134551733)
 
++ [【腾讯云云上实验室-向量数据库】腾讯云开创新时代，发布全新向量数据库Tencent Cloud VectorDB](https://blog.csdn.net/weixin_43970743/article/details/134550552)
+
++ [【斯坦福计网CS144】Lab3终结笔记](https://blog.csdn.net/m0_57532432/article/details/134471896)
+
