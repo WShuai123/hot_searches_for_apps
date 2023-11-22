@@ -33,3 +33,5 @@
 
 + [今晚国内油价迎“四连降”，加满一箱能省 13.5 元](https://m.ithome.com/html/734073.htm)
 
++ [小米 Redmi K70E 手机预热：开放世界游戏一小时，常温下 "极近满帧"](https://m.ithome.com/html/734111.htm)
+

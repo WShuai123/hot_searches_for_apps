@@ -151,3 +151,33 @@
 
 + [《戴森球计划》大型更新“黑雾崛起”上线日期宣传片 12月15日上线](https://www.3dmgame.com/news/202311/3882175.html)
 
++ [GTA模仿作《辛普森一家：横冲直撞》开发者也不知道为什么没有续作](https://www.3dmgame.com/news/202311/3882194.html)
+
++ [《猎魔人》小说新书确定 预计2025年全球推出](https://www.3dmgame.com/news/202311/3882195.html)
+
++ [《赛博朋克 2077:终极典藏版》将于今年发布！将黑暗未来的故事包罗万象的终极套装！](https://www.3dmgame.com/news/202311/3882193.html)
+
++ [Focus宣布将与《层层梦境》开发商合作推出新IP](https://www.3dmgame.com/news/202311/3882192.html)
+
++ [《小小梦魇3》制作人访谈宣传视频 明年正式发售](https://www.3dmgame.com/news/202311/3882191.html)
+
++ [拉瑞安提醒玩家不要送钱给黄牛 《博德之门3》豪华实体版并非限量版不会缺货](https://www.3dmgame.com/news/202311/3882190.html)
+
++ [索尼去年收购手游工作室Savage现更名Neon Koi](https://www.3dmgame.com/news/202311/3882188.html)
+
++ [《Last Train Home》火车升级预告 11月28日发售](https://www.3dmgame.com/news/202311/3882189.html)
+
++ [《超人：传承》中的卢瑟或由尼古拉斯·霍尔特扮演](https://www.3dmgame.com/news/202311/3882187.html)
+
++ [Epic老板：我们曾有意因PS无法跨平台起诉索尼](https://www.3dmgame.com/news/202311/3882185.html)
+
++ [《战锤40K：星际战士2》宣布跳票 2024年下半年发售](https://www.3dmgame.com/news/202311/3882184.html)
+
++ [《星露谷物语》的BUG让玩家可以对温泉进行装饰](https://www.3dmgame.com/news/202311/3882183.html)
+
++ [粉丝用虚幻5引擎制作吉卜力风格《塞尔达传说：时之笛》](https://www.3dmgame.com/news/202311/3882177.html)
+
++ [叫板 Unity GameMaker将提供非商用免费选项](https://www.3dmgame.com/news/202311/3882186.html)
+
++ [《大雨》联合《大护法》预告公布 1月12日全国上映](https://www.3dmgame.com/news/202311/3882182.html)
+
