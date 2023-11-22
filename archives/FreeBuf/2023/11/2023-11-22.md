@@ -51,3 +51,5 @@
 
 + [Quick-Lookup-ptrun：一款针对PowerToys Run的网络安全快速查询和分析工具](https://www.freebuf.com/sectool/381184.html)
 
++ [美国网络安全实验室遭遇重大数据泄露事件](https://www.freebuf.com/news/384533.html)
+

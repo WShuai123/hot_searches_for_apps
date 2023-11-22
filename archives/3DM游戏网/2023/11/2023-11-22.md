@@ -205,3 +205,17 @@
 
 + [经典日式DRPG《剑与魔法与学园》1&2 Steam页面 明年发售](https://www.3dmgame.com/news/202311/3882206.html)
 
++ [《如龙8》堤真一采访影片 2024年1月26日发售](https://www.3dmgame.com/news/202311/3882215.html)
+
++ [阿里内网发文澄清马云抛售股票：一股都没有卖！](https://www.3dmgame.com/news/202311/3882214.html)
+
++ [去年每21名员工有1人受伤 特斯拉得州厂被曝安全问题](https://www.3dmgame.com/news/202311/3882213.html)
+
++ [Steam 区域价格上涨高达 4298%  可能会刺激阿根廷和土耳其游戏玩家的流失](https://www.3dmgame.com/news/202311/3882212.html)
+
++ [《真人快打1》玩家通过“时光倒流”绕过皮肤收费](https://www.3dmgame.com/news/202311/3882211.html)
+
++ [打破垄断！我国自主重型燃气轮机首套国产化控制系统交付](https://www.3dmgame.com/news/202311/3882210.html)
+
++ [《暗黑破坏神：不朽》新地区“恐惧之地南部”宣传片](https://www.3dmgame.com/news/202311/3882209.html)
+

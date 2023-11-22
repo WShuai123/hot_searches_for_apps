@@ -177,3 +177,11 @@
 
 + [ERP对接淘宝/天猫/京东/拼多多商品详情数据API接口](https://blog.csdn.net/onebound_linda/article/details/134546465)
 
++ [vue3-响应式函数](https://blog.csdn.net/2302_76329106/article/details/134501921)
+
++ [紧跟热点：教你如何快速掌握ChatGPT](https://blog.csdn.net/CCfz566/article/details/134545242)
+
++ [软件工程--软件建模--结构化方法通俗语言总结（暴肝超详解）（包含数据流图、数据字典、ER图、结构化设计和优化......）](https://blog.csdn.net/m0_63222058/article/details/134539206)
+
++ [计算机网络之概述](https://blog.csdn.net/qq_62377885/article/details/134543846)
+

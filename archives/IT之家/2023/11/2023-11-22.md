@@ -41,3 +41,7 @@
 
 + [警方通报斗鱼 CEO 被捕：陈某杰涉嫌开设赌场罪被执行逮捕](https://m.ithome.com/html/734249.htm)
 
++ [Redmi K70 E 手机 5500mAh + 90W 快充，首发小米海星算法可修复电池技术](https://m.ithome.com/html/734251.htm)
+
++ [努比亚 Z60 Ultra 拍摄样张公布：号称“拍星星的手机”，预计下月发布](https://m.ithome.com/html/734141.htm)
+
