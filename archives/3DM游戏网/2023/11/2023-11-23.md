@@ -101,3 +101,9 @@
 
 + [粉丝用虚幻5引擎制作吉卜力风格《塞尔达传说：时之笛》](https://www.3dmgame.com/news/202311/3882177.html)
 
++ [《影子诡局：被诅咒的海盗》将发布两款DLC  12月6日上线](https://www.3dmgame.com/news/202311/3882235.html)
+
++ [外媒评选15款用虚幻5画面最好的游戏 《铁拳8》等](https://www.3dmgame.com/news/202311/3882233.html)
+
++ [《铁拳8》全新预告 展示女性角色Leo](https://www.3dmgame.com/news/202311/3882234.html)
+

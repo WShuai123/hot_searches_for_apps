@@ -25,3 +25,5 @@
 
 + [消息称微软已为接手 700 多名 OpenAI 员工做好准备：腾出空间、升级服务器、调集 HR 人员](https://m.ithome.com/html/734168.htm)
 
++ [魅族 21 手机拍摄样张公布：骁龙 8 Gen 3 处理器，11 月 30 日正式发布](https://m.ithome.com/html/734374.htm)
+
