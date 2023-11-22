@@ -111,3 +111,13 @@
 
 + [万代南梦宫公布《海贼无双4》DLC角色乌塔](https://www.3dmgame.com/news/202311/3882237.html)
 
++ [四人组队打雪仗《南方公园：雪假》发布游玩预告](https://www.3dmgame.com/news/202311/3882242.html)
+
++ [青春恐怖RPG《OMORI》将推出改编漫画](https://www.3dmgame.com/news/202311/3882241.html)
+
++ [体验东京地铁职员工作《地铁游戏》明年发售](https://www.3dmgame.com/news/202311/3882240.html)
+
++ [双人冒险游戏《双萌同行：齐心协力》12/14登陆PC](https://www.3dmgame.com/news/202311/3882239.html)
+
++ [《咒术回战：战华双乱》全新角色预告片分享](https://www.3dmgame.com/news/202311/3882238.html)
+

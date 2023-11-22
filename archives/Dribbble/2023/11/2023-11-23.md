@@ -117,3 +117,15 @@
 
 + [Colonial Smokehouse Label Illustrated by Steven Noble](https://dribbble.com/shots/)
 
++ [PNG Hunters](https://dribbble.com/shots/)
+
++ [Case Study: Hales Freight Website](https://dribbble.com/shots/)
+
++ [The Retreat at Lake Noir concept](https://dribbble.com/shots/)
+
++ [Gamer](https://dribbble.com/shots/)
+
++ [Book Cover Collage](https://dribbble.com/shots/)
+
++ [Michelangelo's Creation of Adam](https://dribbble.com/shots/)
+
