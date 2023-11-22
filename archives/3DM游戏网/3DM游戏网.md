@@ -133,3 +133,21 @@
 
 + [Epic开启黑五特卖：超106元便可享受6.7折优惠](https://www.3dmgame.com/news/202311/3882168.html)
 
++ [《赛博朋克2077：终极典藏版》Xbox版包含3张光盘 XSX主机首次](https://www.3dmgame.com/news/202311/3882176.html)
+
++ [《星空》现已开启Steam平台限时折扣，低至八折仅需238元](https://www.3dmgame.com/news/202311/3882178.html)
+
++ [新销售里程碑 《皇牌空战7：未知空域》全球销量突破500万](https://www.3dmgame.com/news/202311/3882180.html)
+
++ [欧洲10月榜：《刺客信条：幻景》表现喜人](https://www.3dmgame.com/news/202311/3882179.html)
+
++ [《消逝的光芒2》 x 《荣耀战魂》联动开启 击败三大派系战士赢取丰厚好礼](https://www.3dmgame.com/news/202311/3882181.html)
+
++ [传闻：R星的《GTA6》公告或将于12月3日上线](https://www.3dmgame.com/news/202311/3882172.html)
+
++ [今年中国游戏市场增长5.2% 收入达477亿美元](https://www.3dmgame.com/news/202311/3882173.html)
+
++ [《方舟:生存进化》跨平台模组预告 现已开放下载](https://www.3dmgame.com/news/202311/3882174.html)
+
++ [《戴森球计划》大型更新“黑雾崛起”上线日期宣传片 12月15日上线](https://www.3dmgame.com/news/202311/3882175.html)
+
