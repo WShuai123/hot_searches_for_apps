@@ -71,3 +71,17 @@
 
 + [SAUCY Giveaway coming next week!](https://dribbble.com/shots/)
 
++ [Bold Barista - Branding](https://dribbble.com/shots/)
+
++ [Toulouse Olympique](https://dribbble.com/shots/)
+
++ [Dark Mode - Command K](https://dribbble.com/shots/)
+
++ [Industrial Light & Magic (ILM) Rebrand](https://dribbble.com/shots/)
+
++ [Pattern](https://dribbble.com/shots/)
+
++ [Sparc Website](https://dribbble.com/shots/)
+
++ [Crossway Book Cover 02](https://dribbble.com/shots/)
+
