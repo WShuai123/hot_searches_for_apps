@@ -133,3 +133,11 @@
 
 + [Spring Boot单元测试](https://blog.csdn.net/Joker_ZJN/article/details/134542387)
 
++ [基于Bagging集成学习方法的情绪分类预测模型研究（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134417467)
+
++ [Qt全球峰会2023中国站 参会概要](https://blog.csdn.net/qq_45014727/article/details/134539701)
+
++ [人工智能给我们的生活带来了巨大的影响？](https://blog.csdn.net/m0_54187478/article/details/134521643)
+
++ [MATLAB | 绘图复刻(十三) | 带NaN图例的地图绘制](https://blog.csdn.net/slandarer/article/details/134543035)
+

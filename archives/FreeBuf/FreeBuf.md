@@ -45,3 +45,5 @@
 
 + [StripedFly：揭开恶意软件常年隐身的秘密](https://www.freebuf.com/articles/paper/383831.html)
 
++ [操作系统权限提升 | MySQL MOF提权](https://www.freebuf.com/articles/network/384279.html)
+

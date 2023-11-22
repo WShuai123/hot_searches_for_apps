@@ -31,3 +31,5 @@
 
 + [小米 Redmi K70E 手机开启预约，或 11 月 29 日发布](https://m.ithome.com/html/734119.htm)
 
++ [今晚国内油价迎“四连降”，加满一箱能省 13.5 元](https://m.ithome.com/html/734073.htm)
+

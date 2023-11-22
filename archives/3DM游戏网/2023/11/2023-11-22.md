@@ -125,3 +125,11 @@
 
 + [《原子之心》地狱边境DLC公开游戏场景预告](https://www.3dmgame.com/news/202311/3882165.html)
 
++ [《瘟疫传说：安魂曲》达到新里程碑：玩家超300万](https://www.3dmgame.com/news/202311/3882169.html)
+
++ [育碧现加入苹果迪士尼行列 撤下推特X上的广告](https://www.3dmgame.com/news/202311/3882170.html)
+
++ [V社发布Steam更新 商店页面可显示手柄支持类型](https://www.3dmgame.com/news/202311/3882171.html)
+
++ [Epic开启黑五特卖：超106元便可享受6.7折优惠](https://www.3dmgame.com/news/202311/3882168.html)
+
