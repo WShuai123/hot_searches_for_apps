@@ -219,3 +219,15 @@
 
 + [《暗黑破坏神：不朽》新地区“恐惧之地南部”宣传片](https://www.3dmgame.com/news/202311/3882209.html)
 
++ [Steam版《海市蜃楼之馆》销量突破10万 特别插画公布](https://www.3dmgame.com/news/202311/3882221.html)
+
++ [美团回应“送外卖也要充会员”：谣言 不需要付费跑单](https://www.3dmgame.com/news/202311/3882220.html)
+
++ [补票青春开启！黑五大促三位数拿下无主之地全家老小！](https://www.3dmgame.com/news/202311/3882219.html)
+
++ [类魂《FADE》开发者：独立是因为发行商“抢钱”](https://www.3dmgame.com/news/202311/3882218.html)
+
++ [蒸汽平台秋季特卖：感人超低价入手好时机](https://www.3dmgame.com/news/202311/3882217.html)
+
++ [卡普空招聘简体中文本地化专员 开发高质量本地化内容](https://www.3dmgame.com/news/202311/3882216.html)
+

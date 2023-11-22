@@ -185,3 +185,11 @@
 
 + [计算机网络之概述](https://blog.csdn.net/qq_62377885/article/details/134543846)
 
++ [人工智能中的文本分类：技术突破与实战指导](https://blog.csdn.net/magicyangjay111/article/details/134550073)
+
++ [[HTML]Web前端开发技术3（HTML5、CSS3、JavaScript ）超链接，target，scrolling,marginwidth,frameborder,iframe——喵喵画网页](https://blog.csdn.net/ormstq/article/details/134541153)
+
++ [【FPGA图像处理】——DDR仲裁、多输入源拼接、旋转任意角度、突发长度修改、任意地址读取。](https://blog.csdn.net/qq_44676785/article/details/134539813)
+
++ [C++ LibCurl实现Web指纹识别](https://blog.csdn.net/lyshark_csdn/article/details/134540525)
+
