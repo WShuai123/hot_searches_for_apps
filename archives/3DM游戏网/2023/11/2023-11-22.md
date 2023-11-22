@@ -115,3 +115,13 @@
 
 + [庆祝怪物猎人系列20周年官方举办怪物评选比赛](https://www.3dmgame.com/news/202311/3882162.html)
 
++ [索尼在英国面临高达50亿英镑的集体诉讼](https://www.3dmgame.com/news/202311/3882167.html)
+
++ [《暗黑破坏神4》Steam开启6天免费玩 本体新史低292元](https://www.3dmgame.com/news/202311/3882166.html)
+
++ [Steam启动2023年秋季特卖 众多游戏打折促销](https://www.3dmgame.com/news/202311/3882163.html)
+
++ [《街头霸王6》全新角色服装包与豪鬼12月1日上线](https://www.3dmgame.com/news/202311/3882164.html)
+
++ [《原子之心》地狱边境DLC公开游戏场景预告](https://www.3dmgame.com/news/202311/3882165.html)
+

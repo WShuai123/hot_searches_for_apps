@@ -27,3 +27,7 @@
 
 + [联发科天玑 8300 处理器亮相：3.35GHz 八核 CPU，峰值功耗降低 30%](https://m.ithome.com/html/734021.htm)
 
++ [有望替代“百草枯”的安全除草剂，我国新成果“双烯双胺”登上顶级期刊](https://m.ithome.com/html/734094.htm)
+
++ [小米 Redmi K70E 手机开启预约，或 11 月 29 日发布](https://m.ithome.com/html/734119.htm)
+

@@ -41,3 +41,7 @@
 
 + [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
 
++ [FreeBuf早报 | 美国网安实验室重大数据泄露；勒索软件攻击加拿大政府](https://www.freebuf.com/news/384453.html)
+
++ [StripedFly：揭开恶意软件常年隐身的秘密](https://www.freebuf.com/articles/paper/383831.html)
+
