@@ -47,3 +47,7 @@
 
 + [李彦宏：文心大模型重构后的广告系统，将在四季度为百度带来数亿元增量收入](https://m.ithome.com/html/734133.htm)
 
++ [魅族 21 手机搭载魅族最大体积马达，定名 mEngine Ultra](https://m.ithome.com/html/734211.htm)
+
++ [苹果 CEO 蒂姆・库克透露接班计划，希望继任者来自公司内部](https://m.ithome.com/html/734127.htm)
+

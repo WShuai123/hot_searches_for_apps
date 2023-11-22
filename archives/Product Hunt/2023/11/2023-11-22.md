@@ -125,3 +125,33 @@
 
 + [No-code Customer Interface](https://www.producthunt.com/posts/no-code-customer-interface)
 
++ [Ristretto 512 First Edition](https://www.producthunt.com/posts/ristretto-512-first-edition)
+
++ [Pixally](https://www.producthunt.com/posts/pixally)
+
++ [Deepmark AI](https://www.producthunt.com/posts/deepmark-ai)
+
++ [Popsters 3.0](https://www.producthunt.com/posts/popsters-3-0)
+
++ [Marktag](https://www.producthunt.com/posts/marktag)
+
++ [Firstline](https://www.producthunt.com/posts/firstline-2)
+
++ [Doplac CRM](https://www.producthunt.com/posts/doplac-crm)
+
++ [Devzery](https://www.producthunt.com/posts/devzery)
+
++ [WingAI: Your AI Wingman](https://www.producthunt.com/posts/wingai-your-ai-wingman)
+
++ [Apitally](https://www.producthunt.com/posts/apitally)
+
++ [Recrooit 2.0](https://www.producthunt.com/posts/recrooit-2-0)
+
++ [Societal Labs 1.9 - Your social platform](https://www.producthunt.com/posts/societal-labs-1-9-your-social-platform)
+
++ [Organizations by Logto](https://www.producthunt.com/posts/organizations-by-logto)
+
++ [AIWatchfulCompanion](https://www.producthunt.com/posts/aiwatchfulcompanion-2)
+
++ [Privy Reviews | Creator Reviews](https://www.producthunt.com/posts/privy-reviews-creator-reviews)
+
