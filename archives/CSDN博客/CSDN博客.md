@@ -211,3 +211,7 @@
 
 + [【斯坦福计网CS144】Lab3终结笔记](https://blog.csdn.net/m0_57532432/article/details/134471896)
 
++ [Socket通信之网络协议基本原理](https://blog.csdn.net/key_3_feng/article/details/134554902)
+
++ [【云原生-Kurbernetes篇】HPA 与 Rancher管理工具](https://blog.csdn.net/q2524607033/article/details/134538201)
+

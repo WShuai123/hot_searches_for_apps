@@ -249,3 +249,5 @@
 
 + [《铁拳8》PC配置公开 推荐RTX 2070/RX 5700XT](https://www.3dmgame.com/news/202311/3882229.html)
 
++ [PlayStation Portal CPU采用了高通骁龙680](https://www.3dmgame.com/news/202311/3882231.html)
+
