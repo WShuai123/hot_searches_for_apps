@@ -199,3 +199,9 @@
 
 + [成龙再次参演《龙威小子》系列新作 明年上映](https://www.3dmgame.com/news/202311/3882197.html)
 
++ [《黑白莫比乌斯：岁月的代价》PS5中文版2024年2月29日发售](https://www.3dmgame.com/news/202311/3882208.html)
+
++ [经典游戏《赛道狂飙》推新内容和新活动 庆祝20周年](https://www.3dmgame.com/news/202311/3882207.html)
+
++ [经典日式DRPG《剑与魔法与学园》1&2 Steam页面 明年发售](https://www.3dmgame.com/news/202311/3882206.html)
+

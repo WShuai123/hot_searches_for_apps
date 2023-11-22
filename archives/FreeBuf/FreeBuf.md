@@ -49,3 +49,5 @@
 
 + [CIA Hive平台交叉编译环境构建及通信数据解密](https://www.freebuf.com/articles/system/384273.html)
 
++ [Quick-Lookup-ptrun：一款针对PowerToys Run的网络安全快速查询和分析工具](https://www.freebuf.com/sectool/381184.html)
+

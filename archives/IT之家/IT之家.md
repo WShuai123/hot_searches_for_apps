@@ -39,3 +39,5 @@
 
 + [特斯拉“刹车失灵”事件核心成员被判道歉](https://m.ithome.com/html/734202.htm)
 
++ [警方通报斗鱼 CEO 被捕：陈某杰涉嫌开设赌场罪被执行逮捕](https://m.ithome.com/html/734249.htm)
+
