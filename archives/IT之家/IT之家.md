@@ -53,3 +53,7 @@
 
 + [Redmi K70E 手机真机曝光，屏幕边框控制出色](https://m.ithome.com/html/734314.htm)
 
++ [2023 年中国科学院、中国工程院院士增选当选名单公布，共 133 人](https://m.ithome.com/html/734339.htm)
+
++ [DXOMARK 公布小米 MIX Fold 3 折叠屏手机屏幕得分，位列第 28](https://m.ithome.com/html/734138.htm)
+

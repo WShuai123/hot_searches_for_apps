@@ -237,3 +237,7 @@
 
 + [夺权大戏正式落幕！奥特曼将重返OpenAI担任CEO](https://www.3dmgame.com/news/202311/3882224.html)
 
++ [三星或已获得AMD和特斯拉的订单 生产4/5nm芯片](https://www.3dmgame.com/news/202311/3882226.html)
+
++ [8CD超豪华《地球防卫军》20周年CD合集月底发售](https://www.3dmgame.com/news/202311/3882225.html)
+

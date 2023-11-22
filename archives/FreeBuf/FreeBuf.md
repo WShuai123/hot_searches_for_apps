@@ -53,3 +53,5 @@
 
 + [美国网络安全实验室遭遇重大数据泄露事件](https://www.freebuf.com/news/384533.html)
 
++ [网安人物齐聚，引领安全创新 | FCIS 2023网络安全创新大会首日隆重举行](https://www.freebuf.com/fevents/384462.html)
+

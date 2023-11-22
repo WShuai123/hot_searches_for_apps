@@ -197,3 +197,9 @@
 
 + [《白帽子讲web安全》](https://blog.csdn.net/seanyang_/article/details/134426594)
 
++ [基于Java+Vue+uniapp微信小程序农场驿站平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134540876)
+
++ [【Go语言实战】(26) 分布式搜索引擎](https://blog.csdn.net/weixin_45304503/article/details/134522122)
+
++ [一个基于Kafka客户端封装的工具，Kafka开发效率神器](https://blog.csdn.net/zhangchuangzhuang/article/details/134542177)
+

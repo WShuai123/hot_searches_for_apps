@@ -51,3 +51,29 @@
 
 + [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
 
++ [flowtyone / flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo)
+
++ [Stability-AI / generative-models](https://github.com/Stability-AI/generative-models)
+
++ [fanmingming / live](https://github.com/fanmingming/live)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
+
++ [Xacone / BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)
+
++ [jmorganca / ollama](https://github.com/jmorganca/ollama)
+
++ [DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
++ [primefaces / primeng](https://github.com/primefaces/primeng)
+
++ [Acly / krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)
+
