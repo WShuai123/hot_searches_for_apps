@@ -35,3 +35,5 @@
 
 + [小米 Redmi K70E 手机预热：开放世界游戏一小时，常温下 "极近满帧"](https://m.ithome.com/html/734111.htm)
 
++ [英特尔最新四核处理器 i3-14100 现身闲鱼，售价 850 元](https://m.ithome.com/html/734136.htm)
+

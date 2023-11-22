@@ -155,3 +155,13 @@
 
 + [Spring Cloud实战 |分布式系统的流量控制、熔断降级组件Sentinel如何使用](https://blog.csdn.net/superdangbo/article/details/134543637)
 
++ [【opencv】计算机视觉：停车场车位实时识别](https://blog.csdn.net/m0_68662723/article/details/134534006)
+
++ [向量数据库—加速大模型训练推理](https://blog.csdn.net/qq_38951259/article/details/134496959)
+
++ [一文读懂 Linux 网络 IO 模型](https://blog.csdn.net/K346K346/article/details/134537265)
+
++ [Create Web, Desktop, Mobile Apps for .NET 8 with Telerik](https://blog.csdn.net/john_dwh/article/details/134544636)
+
++ [HTML5生成二维码](https://blog.csdn.net/lplovewjm/article/details/134524616)
+

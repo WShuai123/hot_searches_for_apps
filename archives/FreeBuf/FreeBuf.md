@@ -47,3 +47,5 @@
 
 + [操作系统权限提升 | MySQL MOF提权](https://www.freebuf.com/articles/network/384279.html)
 
++ [CIA Hive平台交叉编译环境构建及通信数据解密](https://www.freebuf.com/articles/system/384273.html)
+
