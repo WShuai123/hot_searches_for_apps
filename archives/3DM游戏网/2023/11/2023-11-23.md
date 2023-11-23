@@ -195,3 +195,15 @@
 
 + [多人生存恐怖游戏《利刃乐园：恐怖大逃杀》steam页面 支持简繁体中文](https://www.3dmgame.com/news/202311/3882277.html)
 
++ [“纯血鸿蒙”生态加速！钉钉、华为达成合作：鸿蒙原生应用开发启动](https://www.3dmgame.com/news/202311/3882284.html)
+
++ [前R星开发者分享游戏开发秘闻 被R星警告：你别说了](https://www.3dmgame.com/news/202311/3882283.html)
+
++ [日本ispace推出微型漫游车 用于第二次月球任务](https://www.3dmgame.com/news/202311/3882282.html)
+
++ [《月姬：重制版》海外版2024年夏季推出 登陆PS4和Switch](https://www.3dmgame.com/news/202311/3882281.html)
+
++ [日本“好哥哥日” 《博人传》官推放宇智波家族插图](https://www.3dmgame.com/news/202311/3882280.html)
+
++ [收获TGA诸多提名《心灵杀手2》十月主机活跃玩家却很少](https://www.3dmgame.com/news/202311/3882279.html)
+
