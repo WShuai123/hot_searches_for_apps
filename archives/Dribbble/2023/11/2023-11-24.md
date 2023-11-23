@@ -49,3 +49,29 @@
 
 + [Book Cover Collage](https://dribbble.com/shots/)
 
++ [Support / Trading Platform pt.2](https://dribbble.com/shots/)
+
++ [Light & Dark  Espresso Set](https://dribbble.com/shots/)
+
++ [Hales Freight Web Design](https://dribbble.com/shots/)
+
++ [Microsoft Dynamics CRM - Lead Relationship Management Platform](https://dribbble.com/shots/)
+
++ [Surf](https://dribbble.com/shots/)
+
++ [EMC Presents Visual Identity](https://dribbble.com/shots/)
+
++ [Connexions](https://dribbble.com/shots/)
+
++ [Dawn](https://dribbble.com/shots/)
+
++ ["Abstract 03" - Daily vector doodle](https://dribbble.com/shots/)
+
++ [YB Universe](https://dribbble.com/shots/)
+
++ [Industrial Light & Magic (ILM) Rebrand](https://dribbble.com/shots/)
+
++ [NVO: Components & Cards 2.0](https://dribbble.com/shots/)
+
++ [Moon / Sun](https://dribbble.com/shots/)
+

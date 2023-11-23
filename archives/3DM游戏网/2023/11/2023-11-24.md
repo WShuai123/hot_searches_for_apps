@@ -101,3 +101,5 @@
 
 + [科隆国际游戏展上任新总监 曾任职育碧索尼微软](https://www.3dmgame.com/news/202311/3882250.html)
 
++ [Epic喜加一：《火星孤征》免费领取](https://www.3dmgame.com/news/202311/3882301.html)
+
