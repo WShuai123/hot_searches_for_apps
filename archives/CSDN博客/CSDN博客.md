@@ -139,3 +139,5 @@
 
 + [Docker部署MinIO对象存储服务器结合Cpolar实现远程访问](https://blog.csdn.net/hsjsiwkwm/article/details/134505859)
 
++ [2023年亚太杯数学建模亚太赛A题思路解析+代码+论文](https://blog.csdn.net/weixin_43345535/article/details/134503992)
+

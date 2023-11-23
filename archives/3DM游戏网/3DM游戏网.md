@@ -127,3 +127,13 @@
 
 + [任天堂Live 2024将直播《塞尔达传说》音乐会](https://www.3dmgame.com/news/202311/3882243.html)
 
++ [《蜡笔小新：新次元！超能力大决战》线下免费观影会来了](https://www.3dmgame.com/news/202311/3882205.html)
+
++ [《最后的生还者2：复刻版》WLF实体版将包含光盘](https://www.3dmgame.com/news/202311/3882249.html)
+
++ [叙事解谜视觉小说《去远方》Steam页面 明年发售](https://www.3dmgame.com/news/202311/3882248.html)
+
++ [《宝可梦GO》开发商Niantic性别歧视集体诉讼裁定继续](https://www.3dmgame.com/news/202311/3882247.html)
+
++ [《暗黑4》“免费”后在线峰值翻倍 卡门只需修改Host](https://www.3dmgame.com/news/202311/3882246.html)
+
