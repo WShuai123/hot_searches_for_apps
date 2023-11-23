@@ -171,3 +171,9 @@
 
 + [为UE和Unity开发者准备的Godot指南](https://blog.csdn.net/CrazyEngine/article/details/134563672)
 
++ [2023年全国大学生数学建模竞赛总结](https://blog.csdn.net/qq_62904883/article/details/134471067)
+
++ [2023亚太赛c题完整思路数据 数学建模亚太](https://blog.csdn.net/yeqianqian_/article/details/134567583)
+
++ [【2021集创赛】基于ARM-M3的双目立体视觉避障系统 SOC设计](https://blog.csdn.net/weixin_47569031/article/details/134569996)
+

@@ -191,3 +191,7 @@
 
 + [《广告狂人》主演乔恩·哈姆希望有机会参演漫威电影](https://www.3dmgame.com/news/202311/3882273.html)
 
++ [《宝可梦》初代“御三家”TCG卡牌 售价创历史新高](https://www.3dmgame.com/news/202311/3882278.html)
+
++ [多人生存恐怖游戏《利刃乐园：恐怖大逃杀》steam页面 支持简繁体中文](https://www.3dmgame.com/news/202311/3882277.html)
+

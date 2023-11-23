@@ -39,3 +39,7 @@
 
 + [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://m.ithome.com/html/734437.htm)
 
++ [测试称高通骁龙 8 Gen 3 大核功耗增加 28%，性能增加 13%](https://m.ithome.com/html/734470.htm)
+
++ [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://m.ithome.com/html/734458.htm)
+

@@ -49,3 +49,7 @@
 
 + [Linux安全基线：audit基线规则验证](https://www.freebuf.com/articles/security-management/384196.html)
 
++ [Sekiryu：一款针对Ghidra Headless模式的综合性安全工具](https://www.freebuf.com/sectool/381241.html)
+
++ [新的指纹传感器漏洞可绕过 Windows Hello 登录](https://www.freebuf.com/news/384633.html)
+
