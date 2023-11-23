@@ -199,3 +199,7 @@
 
 + [【Linux】进程间通信——进程间通信的介绍和分类、管道、匿名管道、命名管道、匿名管道与命名管道的区别](https://blog.csdn.net/Crocodile1006/article/details/134548881)
 
++ [GaussDB技术解读系列：数据实例的连接](https://blog.csdn.net/GaussDB/article/details/134572218)
+
++ [推荐一款适合做智慧旅游的前端模板](https://blog.csdn.net/yelangkingwuzuhu/article/details/134564351)
+

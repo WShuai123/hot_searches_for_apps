@@ -49,3 +49,9 @@
 
 + [红魔 9 Pro/+ 系列游戏手机发布：行业唯一背部纯平旗舰，售价 4399 元起](https://m.ithome.com/html/734536.htm)
 
++ [2499 元起，OPPO Reno 11/Pro 手机正式发布：首发搭载 ColorOS 14 系统](https://m.ithome.com/html/734518.htm)
+
++ [重心放在 Face ID 上，消息称苹果 iPhone 已不再朝指纹解锁 Touch ID 方向上努力](https://m.ithome.com/html/734408.htm)
+
++ [俄罗斯国产操作系统 Alt Linux 宣布支持龙芯处理器，仅用 9 个月时间完成适配](https://m.ithome.com/html/734472.htm)
+

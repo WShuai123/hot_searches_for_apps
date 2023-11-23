@@ -51,3 +51,29 @@
 
 + [tldraw / make-real-starter](https://github.com/tldraw/make-real-starter)
 
++ [run-llama / rags](https://github.com/run-llama/rags)
+
++ [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
+
++ [openai / whisper](https://github.com/openai/whisper)
+
++ [MrNeRF / awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+
++ [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
++ [angular / angular](https://github.com/angular/angular)
+
++ [PKU-YuanGroup / Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+
++ [php / php-src](https://github.com/php/php-src)
+
++ [mRs- / Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+
++ [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [apify / crawlee](https://github.com/apify/crawlee)
+
++ [antirez / smallchat](https://github.com/antirez/smallchat)
+

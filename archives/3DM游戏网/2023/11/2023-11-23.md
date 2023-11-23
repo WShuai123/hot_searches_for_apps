@@ -223,3 +223,5 @@
 
 + [地沟油变航空燃料：空客A380全球首飞成功！](https://www.3dmgame.com/news/202311/3882287.html)
 
++ [联想向ITC提起专利侵权诉讼 指控华硕侵犯多项专利](https://www.3dmgame.com/news/202311/3882295.html)
+
