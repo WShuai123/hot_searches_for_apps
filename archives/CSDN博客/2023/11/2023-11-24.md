@@ -105,3 +105,25 @@
 
 + [Elasticsearch：将最大内积引入 Lucene](https://blog.csdn.net/UbuntuTouch/article/details/134556297)
 
++ [人工智能的时代---AI的影响](https://blog.csdn.net/m0_71746526/article/details/134543200)
+
++ [【腾讯云云上实验室】用向量数据库——突破搜索极限-让问答应用秒上线](https://blog.csdn.net/feng8403000/article/details/134581664)
+
++ [【RocketMq系列-02】RocketMq的架构解析和高性能设计](https://blog.csdn.net/zhenghuishengq/article/details/134559514)
+
++ [轻松驾驭Linux命令：账户查看、目录文件操作详解](https://blog.csdn.net/a1657054242/article/details/134529712)
+
++ [Nginx反向代理实现负载均衡+Keepalive实现高可用](https://blog.csdn.net/qq_68163788/article/details/134517281)
+
++ [HTML5生成二维码](https://blog.csdn.net/lplovewjm/article/details/134524616)
+
++ [Python淘宝家用电器爬虫数据可视化分析大屏全屏系统 开题报告](https://blog.csdn.net/u013818205/article/details/134574997)
+
++ [【电路笔记】-电源电压](https://blog.csdn.net/wujuxKkoolerter/article/details/134543177)
+
++ [[HTML]Web前端开发技术3（HTML5、CSS3、JavaScript ）超链接，target，scrolling,marginwidth,frameborder,iframe——喵喵画网页](https://blog.csdn.net/ormstq/article/details/134541153)
+
++ [【计算机网络笔记】路由算法之层次路由](https://blog.csdn.net/m0_60511809/article/details/134497782)
+
++ [阿里云99元服务器ECS经济型e实例性能如何？测评来了](https://blog.csdn.net/gla2018/article/details/134567164)
+

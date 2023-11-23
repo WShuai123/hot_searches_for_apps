@@ -115,3 +115,15 @@
 
 + [UP UI negative space monogram logo design](https://dribbble.com/shots/)
 
++ [The birth of Venus](https://dribbble.com/shots/)
+
++ [Vivid world under the sea](https://dribbble.com/shots/)
+
++ [PG Wodehouse Map](https://dribbble.com/shots/)
+
++ [Elfmade](https://dribbble.com/shots/)
+
++ [KLANG! logo concept](https://dribbble.com/shots/)
+
++ [Thankful](https://dribbble.com/shots/)
+
