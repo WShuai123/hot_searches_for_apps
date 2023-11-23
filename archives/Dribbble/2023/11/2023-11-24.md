@@ -103,3 +103,15 @@
 
 + [TicToc - iconography Set](https://dribbble.com/shots/)
 
++ [PNG Hunters](https://dribbble.com/shots/)
+
++ [Quote - Terry](https://dribbble.com/shots/)
+
++ [Vellum Bubbly Torus](https://dribbble.com/shots/)
+
++ [Tiger Logo](https://dribbble.com/shots/)
+
++ [Balas - UX/UI mobile design for the family care application](https://dribbble.com/shots/)
+
++ [UP UI negative space monogram logo design](https://dribbble.com/shots/)
+

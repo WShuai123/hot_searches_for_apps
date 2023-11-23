@@ -101,3 +101,7 @@
 
 + [2023年亚太数学建模C题数据分享+详细思路](https://blog.csdn.net/qq_33690821/article/details/134571206)
 
++ [一个基于Mybatis封装的类JdbcTemplate风格的ORM工具](https://blog.csdn.net/zhangchuangzhuang/article/details/134541627)
+
++ [Elasticsearch：将最大内积引入 Lucene](https://blog.csdn.net/UbuntuTouch/article/details/134556297)
+
