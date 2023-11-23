@@ -121,3 +121,9 @@
 
 + [《咒术回战：战华双乱》全新角色预告片分享](https://www.3dmgame.com/news/202311/3882238.html)
 
++ [育碧：《波斯王子：时之砂重制版》开发达重要里程碑](https://www.3dmgame.com/news/202311/3882245.html)
+
++ [消息称2024年《使命召唤》战场设置在海湾战争](https://www.3dmgame.com/news/202311/3882244.html)
+
++ [任天堂Live 2024将直播《塞尔达传说》音乐会](https://www.3dmgame.com/news/202311/3882243.html)
+

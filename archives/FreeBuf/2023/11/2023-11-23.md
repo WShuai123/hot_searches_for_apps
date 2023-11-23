@@ -41,3 +41,7 @@
 
 + [ADCSKiller：一款功能强大的活动目录证书服务（ADCS）漏洞自动化检测和利用工具](https://www.freebuf.com/sectool/381074.html)
 
++ [FreeBuf早报 | Microsoft 推出 Defender 赏金计划；巴黎水务机构遭网络攻击](https://www.freebuf.com/news/384570.html)
+
++ [巴以冲突中的各路窃密黑客](https://www.freebuf.com/articles/network/382523.html)
+
