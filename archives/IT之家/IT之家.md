@@ -33,3 +33,5 @@
 
 + [消息称小米 Redmi K70 Pro 机型 12GB 内存起步，采用金属边框](https://m.ithome.com/html/734394.htm)
 
++ [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://m.ithome.com/html/734378.htm)
+

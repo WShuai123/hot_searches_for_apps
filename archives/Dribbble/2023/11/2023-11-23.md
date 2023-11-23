@@ -143,3 +143,11 @@
 
 + [Saltz branding](https://dribbble.com/shots/)
 
++ [Portfolio Website For A Photo Studio](https://dribbble.com/shots/)
+
++ [2FA modal QR code — Untitled UI](https://dribbble.com/shots/)
+
++ [Cover for Book](https://dribbble.com/shots/)
+
++ [Vstream UI-UX](https://dribbble.com/shots/)
+

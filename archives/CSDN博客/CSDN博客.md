@@ -153,3 +153,7 @@
 
 + [【计算机网络笔记】路由算法之层次路由](https://blog.csdn.net/m0_60511809/article/details/134497782)
 
++ [浪潮信息云峦服务器操作系统KeyarchOS体验与实践](https://blog.csdn.net/yj11290301/article/details/134526442)
+
++ [2023年亚太杯数学建模思路 - 案例：粒子群算法](https://blog.csdn.net/math_assistant/article/details/134557183)
+

@@ -167,3 +167,17 @@
 
 + [《求生之路》编剧表示 最终领导该项目纯属偶然](https://www.3dmgame.com/news/202311/3882252.html)
 
++ [《模拟人生》官方周边商店上线 销售游戏主题服饰等](https://www.3dmgame.com/news/202311/3882271.html)
+
++ [《全境封锁2》国服正式服上线 开放直升30级](https://www.3dmgame.com/news/202311/3882270.html)
+
++ [全国首艘智能船级执法船入列 可实现柴、电自动转换](https://www.3dmgame.com/news/202311/3882269.html)
+
++ [《健身拳击 北斗神拳》扩展DLC宣布12月5日推出](https://www.3dmgame.com/news/202311/3882268.html)
+
++ [《花园生活》发售日预告 明年2月22日正式发售](https://www.3dmgame.com/news/202311/3882267.html)
+
++ [《毁灭战士》游戏现已可在耳环上正式运行](https://www.3dmgame.com/news/202311/3882266.html)
+
++ [《新蝙蝠侠》衍生剧《企鹅人》下周重新开机 首曝剧照](https://www.3dmgame.com/news/202311/3882265.html)
+
