@@ -127,3 +127,7 @@
 
 + [阿里云99元服务器ECS经济型e实例性能如何？测评来了](https://blog.csdn.net/gla2018/article/details/134567164)
 
++ [【OpenCV+OCR】计算机视觉：识别图像验证码中指定颜色文字](https://blog.csdn.net/qiulin_wu/article/details/134538042)
+
++ [【网络奇缘】- 计算机网络|性能指标|体系结构](https://blog.csdn.net/Aileenvov/article/details/134562369)
+
