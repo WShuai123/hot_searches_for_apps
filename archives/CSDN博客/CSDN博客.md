@@ -189,3 +189,9 @@
 
 + [AI大爆发的时代，未来的年轻人怎样获得机会和竞争力？](https://blog.csdn.net/Why_does_it_work/article/details/134542468)
 
++ [AI大模型时代 | 基于AIGC的重塑教育](https://blog.csdn.net/Why_does_it_work/article/details/134542468)
+
++ [一个基于Mybatis封装的类JdbcTemplate风格的ORM工具](https://blog.csdn.net/zhangchuangzhuang/article/details/134541627)
+
++ [轻松驾驭Linux命令：账户查看、目录文件操作详解](https://blog.csdn.net/a1657054242/article/details/134529712)
+

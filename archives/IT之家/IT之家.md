@@ -45,3 +45,5 @@
 
 + [一汽大众 ID.7 VIZZION 首发版预售：定位纯电旗舰轿车，23.777 万元](https://m.ithome.com/html/734366.htm)
 
++ [TCL 芯片公司摩星半导体被曝解散，当天员工打包走人](https://m.ithome.com/html/734369.htm)
+

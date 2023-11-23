@@ -211,3 +211,15 @@
 
 + [开发商重申《寂静岭2：重制版》没被取消 还在开发中](https://www.3dmgame.com/news/202311/3882286.html)
 
++ [KK对战平台全是彦祖？首届KK地图男神大赛魅力来袭！](https://www.3dmgame.com/news/202311/3882292.html)
+
++ [索尼将云掌机PlayStation Portal视为新硬件 而非PS5的配件](https://www.3dmgame.com/news/202311/3882291.html)
+
++ [山寨特斯拉Cybertruck亮相洛杉矶车展 2025年投产](https://www.3dmgame.com/news/202311/3882290.html)
+
++ [苹果被指反工会：拒绝为工会成员提供福利](https://www.3dmgame.com/news/202311/3882289.html)
+
++ [奥特曼此前遭解雇原因曝光：AI有可能威胁到人类](https://www.3dmgame.com/news/202311/3882288.html)
+
++ [地沟油变航空燃料：空客A380全球首飞成功！](https://www.3dmgame.com/news/202311/3882287.html)
+
