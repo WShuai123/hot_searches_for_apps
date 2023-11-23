@@ -25,3 +25,5 @@
 
 + [华为新款 MatePad Pro 11 平板确认支持星闪连接，搭载第三代 M-Pencil 手写笔](https://m.ithome.com/html/734456.htm)
 
++ [华为年底将发布全新形态开放式耳机产品](https://m.ithome.com/html/734542.htm)
+
