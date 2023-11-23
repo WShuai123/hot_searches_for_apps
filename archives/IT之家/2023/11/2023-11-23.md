@@ -43,3 +43,5 @@
 
 + [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://m.ithome.com/html/734458.htm)
 
++ [一汽大众 ID.7 VIZZION 首发版预售：定位纯电旗舰轿车，23.777 万元](https://m.ithome.com/html/734366.htm)
+

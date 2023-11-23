@@ -185,3 +185,7 @@
 
 + [Docker Swarm总结+基础、集群搭建维护、安全以及集群容灾（1/3）](https://blog.csdn.net/weixin_43025151/article/details/134473881)
 
++ [基于Bagging集成学习方法的情绪分类预测模型研究（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134417467)
+
++ [AI大爆发的时代，未来的年轻人怎样获得机会和竞争力？](https://blog.csdn.net/Why_does_it_work/article/details/134542468)
+

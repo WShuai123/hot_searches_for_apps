@@ -207,3 +207,7 @@
 
 + [收获TGA诸多提名《心灵杀手2》十月主机活跃玩家却很少](https://www.3dmgame.com/news/202311/3882279.html)
 
++ [Steam Deck OLED联想Legion Go内部拆解对比](https://www.3dmgame.com/news/202311/3882285.html)
+
++ [开发商重申《寂静岭2：重制版》没被取消 还在开发中](https://www.3dmgame.com/news/202311/3882286.html)
+
