@@ -229,3 +229,9 @@
 
 + [《杀手学堂》本体游戏变成免费 30美元周年版公布](https://www.3dmgame.com/news/202311/3882293.html)
 
++ [神谷英树暗示《猎天使魔女》系列将会继续](https://www.3dmgame.com/news/202311/3882297.html)
+
++ [第一人称单人RPG《金帐汗国》将采用虚幻5引擎](https://www.3dmgame.com/news/202311/3882298.html)
+
++ [扎导《月球叛军2：烙印之人》首曝剧照](https://www.3dmgame.com/news/202311/3882296.html)
+

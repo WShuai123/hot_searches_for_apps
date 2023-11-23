@@ -57,3 +57,5 @@
 
 + [荣耀 100 Pro 手机参数曝光：骁龙 8 Gen 2 处理器，今晚正式发布](https://m.ithome.com/html/734540.htm)
 
++ [华为新款 MatePad Pro 11 平板确认支持星闪连接，搭载第三代 M-Pencil 手写笔](https://m.ithome.com/html/734456.htm)
+
