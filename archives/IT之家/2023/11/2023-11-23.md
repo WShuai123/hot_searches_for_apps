@@ -59,3 +59,7 @@
 
 + [华为新款 MatePad Pro 11 平板确认支持星闪连接，搭载第三代 M-Pencil 手写笔](https://m.ithome.com/html/734456.htm)
 
++ [小米 Redmi K70 Pro 手机预热：全新“冰封散热”系统，采用自研材料](https://m.ithome.com/html/734600.htm)
+
++ [荣耀 100 / Pro 手机发布：搭载单反级写真相机，售价 2499 元起](https://m.ithome.com/html/734633.htm)
+

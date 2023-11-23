@@ -235,3 +235,7 @@
 
 + [扎导《月球叛军2：烙印之人》首曝剧照](https://www.3dmgame.com/news/202311/3882296.html)
 
++ [突传噩耗！刘德华父亲去世，曾患膀胱癌](https://www.3dmgame.com/news/202311/3882300.html)
+
++ [Fami通新一周销量榜 《桃太郎电铁世界》登顶](https://www.3dmgame.com/news/202311/3882299.html)
+
