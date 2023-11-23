@@ -47,3 +47,5 @@
 
 + [TCL 芯片公司摩星半导体被曝解散，当天员工打包走人](https://m.ithome.com/html/734369.htm)
 
++ [红魔 9 Pro/+ 系列游戏手机发布：行业唯一背部纯平旗舰，售价 4399 元起](https://m.ithome.com/html/734536.htm)
+

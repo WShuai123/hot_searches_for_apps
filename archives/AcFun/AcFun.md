@@ -101,3 +101,13 @@
 
 + [勇气大爆发（怒吼版）](http://www.acfun.cn/v/ac43022845)
 
++ [音乐人的事怎么能叫抄呢（第74期）](http://www.acfun.cn/v/ac43031846)
+
++ [【4k竖屏】不近一些怎么给你晚安吻☆Good-Night Kiss★权孝盛☆【Gikiki】](http://www.acfun.cn/v/ac43021889)
+
++ [感恩节带着桃源恋歌来咯~谢谢大家的陪伴~](http://www.acfun.cn/v/ac43025793)
+
++ [【网梗课代表】国家一级三级演员是什么梗？](http://www.acfun.cn/v/ac43023965)
+
++ [今天虽然没钓到鱼，但是钓到了晚霞，不算空军吧？](http://www.acfun.cn/v/ac43023008)
+

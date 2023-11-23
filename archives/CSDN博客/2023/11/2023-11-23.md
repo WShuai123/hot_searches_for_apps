@@ -195,3 +195,7 @@
 
 + [轻松驾驭Linux命令：账户查看、目录文件操作详解](https://blog.csdn.net/a1657054242/article/details/134529712)
 
++ [【Linux】权限理解【文件权限以及目录权限详解、以及umsk程序掩码知识详解】](https://blog.csdn.net/NiNi_suanfa/article/details/134496272)
+
++ [【Linux】进程间通信——进程间通信的介绍和分类、管道、匿名管道、命名管道、匿名管道与命名管道的区别](https://blog.csdn.net/Crocodile1006/article/details/134548881)
+

@@ -207,3 +207,5 @@
 
 + [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
 
++ [顺丰速运-快递查寄收 不止是快](https://itunes.apple.com/cn/app/id899529698?mt=8)
+

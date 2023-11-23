@@ -53,3 +53,7 @@
 
 + [新的指纹传感器漏洞可绕过 Windows Hello 登录](https://www.freebuf.com/news/384633.html)
 
++ [看清新风险，解构新安全 | FCIS 2023网络安全创新大会精彩回顾](https://www.freebuf.com/fevents/384688.html)
+
++ [《工业和信息化领域数据安全行政处罚裁量指引（试行）（征求意见稿）》发布](https://www.freebuf.com/articles/384719.html)
+
