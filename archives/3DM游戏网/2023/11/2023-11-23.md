@@ -225,3 +225,7 @@
 
 + [联想向ITC提起专利侵权诉讼 指控华硕侵犯多项专利](https://www.3dmgame.com/news/202311/3882295.html)
 
++ [2023年10月Steam最热新品 《暗黑4》《堕落之主》等上榜](https://www.3dmgame.com/news/202311/3882294.html)
+
++ [《杀手学堂》本体游戏变成免费 30美元周年版公布](https://www.3dmgame.com/news/202311/3882293.html)
+

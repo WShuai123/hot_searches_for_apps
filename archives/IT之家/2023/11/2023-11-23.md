@@ -55,3 +55,5 @@
 
 + [俄罗斯国产操作系统 Alt Linux 宣布支持龙芯处理器，仅用 9 个月时间完成适配](https://m.ithome.com/html/734472.htm)
 
++ [荣耀 100 Pro 手机参数曝光：骁龙 8 Gen 2 处理器，今晚正式发布](https://m.ithome.com/html/734540.htm)
+
