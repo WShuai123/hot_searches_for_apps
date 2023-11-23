@@ -47,3 +47,5 @@
 
 + [CTF实战分享 | Crypto-RSA(二)](https://www.freebuf.com/articles/database/383724.html)
 
++ [Linux安全基线：audit基线规则验证](https://www.freebuf.com/articles/security-management/384196.html)
+

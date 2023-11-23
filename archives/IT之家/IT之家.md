@@ -35,3 +35,5 @@
 
 + [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://m.ithome.com/html/734378.htm)
 
++ [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://m.ithome.com/html/734403.htm)
+

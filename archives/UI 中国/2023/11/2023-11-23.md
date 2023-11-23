@@ -13,3 +13,7 @@
 
 + [【2023年端午节】活动设计复盘](https://www.ui.cn/detail/658840.html)
 
++ [商业实战丨如何通过竞品分析快速提炼设计策略应用到售前设计？](https://www.ui.cn/detail/659360.html)
+
++ [暑期内容运营活动设计大揭秘](https://www.ui.cn/detail/659286.html)
+

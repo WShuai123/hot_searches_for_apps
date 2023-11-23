@@ -157,3 +157,7 @@
 
 + [2023年亚太杯数学建模思路 - 案例：粒子群算法](https://blog.csdn.net/math_assistant/article/details/134557183)
 
++ [基于SpringBoot垃圾分类小程序系统的设计与实现](https://blog.csdn.net/mengchuan6666/article/details/134550273)
+
++ [Elasticsearch：将最大内积引入 Lucene](https://blog.csdn.net/UbuntuTouch/article/details/134556297)
+
