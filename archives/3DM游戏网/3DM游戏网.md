@@ -137,3 +137,33 @@
 
 + [《暗黑4》“免费”后在线峰值翻倍 卡门只需修改Host](https://www.3dmgame.com/news/202311/3882246.html)
 
++ [《星球大战：帝国战争》在发布17年后终于更新至64位](https://www.3dmgame.com/news/202311/3882264.html)
+
++ [《太空房地产》合作预告 支持简体中文](https://www.3dmgame.com/news/202311/3882261.html)
+
++ [《旺卡》发布中文角色海报 12月8日全国上映](https://www.3dmgame.com/news/202311/3882263.html)
+
++ [Steam喜加一：《模拟人生4》DLC“我的第一只宠物组合”免费领](https://www.3dmgame.com/news/202311/3882259.html)
+
++ [小锤：玩家批评《使命召唤20：现代战争3》让团队更有动力](https://www.3dmgame.com/news/202311/3882262.html)
+
++ [Roguelite第一人称射击游戏《Bear It》发布宣传预告](https://www.3dmgame.com/news/202311/3882260.html)
+
++ [另一个被删减的《旺达与幻视》场景公开](https://www.3dmgame.com/news/202311/3882258.html)
+
++ [传闻：T组《使命召唤：黑色行动》新作明年冬季发售](https://www.3dmgame.com/news/202311/3882257.html)
+
++ [《堡垒之夜》皮肤外观年龄分级年底将暂时禁用](https://www.3dmgame.com/news/202311/3882256.html)
+
++ [《现代战争3》仍是PS和Xbox上最畅销的游戏](https://www.3dmgame.com/news/202311/3882255.html)
+
++ [市场统计：83%的手游在推出3年内就会失败](https://www.3dmgame.com/news/202311/3882253.html)
+
++ [Netflix惊悚韩剧《京城怪物》正式先导预告](https://www.3dmgame.com/news/202311/3882251.html)
+
++ [科隆国际游戏展上任新总监 曾任职育碧索尼微软](https://www.3dmgame.com/news/202311/3882250.html)
+
++ [《海绵宝宝：宇宙摇摆》即将登陆移动端 售价10美元](https://www.3dmgame.com/news/202311/3882254.html)
+
++ [《求生之路》编剧表示 最终领导该项目纯属偶然](https://www.3dmgame.com/news/202311/3882252.html)
+

@@ -141,3 +141,15 @@
 
 + [2023年亚太杯数学建模亚太赛A题思路解析+代码+论文](https://blog.csdn.net/weixin_43345535/article/details/134503992)
 
++ [2023亚太杯数学建模C题思路分析 - 我国新能源电动汽车的发展趋势](https://blog.csdn.net/dc_sinor/article/details/134567625)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(七)](https://blog.csdn.net/m0_59230408/article/details/132889274)
+
++ [[ 云计算 | AWS 实践 ] 基于 Amazon S3 协议搭建个人云存储服务](https://blog.csdn.net/dietime1943/article/details/134566027)
+
++ [基于PCA算法的点云平面拟合](https://blog.csdn.net/qq_36686437/article/details/134562750)
+
++ [Linux本地WBO创作白板部署与远程访问](https://blog.csdn.net/m0_73879806/article/details/134521506)
+
++ [【计算机网络笔记】路由算法之层次路由](https://blog.csdn.net/m0_60511809/article/details/134497782)
+

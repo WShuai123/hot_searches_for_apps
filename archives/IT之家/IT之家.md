@@ -31,3 +31,5 @@
 
 + [Redmi K70 手机即将发布？小米王腾发文称“明天早上见，不负期待”](https://m.ithome.com/html/734398.htm)
 
++ [消息称小米 Redmi K70 Pro 机型 12GB 内存起步，采用金属边框](https://m.ithome.com/html/734394.htm)
+
