@@ -161,3 +161,13 @@
 
 + [Elasticsearch：将最大内积引入 Lucene](https://blog.csdn.net/UbuntuTouch/article/details/134556297)
 
++ [PyTorch深度学习实战——人体姿态估计](https://blog.csdn.net/LOVEmy134611/article/details/132114806)
+
++ [SpringBoot集成七牛云OSS详细介绍](https://blog.csdn.net/2301_80092713/article/details/134567614)
+
++ [2023亚太杯数学建模A题B题C题思路模型代码论文指导](https://blog.csdn.net/weixin_45499067/article/details/134551712)
+
++ [vue开发一、在Vue中引入ElementUI二、在Vue中使用阿里图标库](https://blog.csdn.net/weiyi47/article/details/134565206)
+
++ [为UE和Unity开发者准备的Godot指南](https://blog.csdn.net/CrazyEngine/article/details/134563672)
+

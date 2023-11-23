@@ -183,3 +183,11 @@
 
 + [《阿索卡》导演：安纳金在《星球大战》中“一直”和阿索卡在一起](https://www.3dmgame.com/news/202311/3882272.html)
 
++ [过半PS玩家认为《博德之门3》将获得TGA年度游戏大奖](https://www.3dmgame.com/news/202311/3882276.html)
+
++ [《HunterX: code name T》Steam页面上线 支持中文](https://www.3dmgame.com/news/202311/3882275.html)
+
++ [富坚义博再揭秘《全职猎人》设定 结局有4个版本](https://www.3dmgame.com/news/202311/3882274.html)
+
++ [《广告狂人》主演乔恩·哈姆希望有机会参演漫威电影](https://www.3dmgame.com/news/202311/3882273.html)
+

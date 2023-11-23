@@ -37,3 +37,5 @@
 
 + [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://m.ithome.com/html/734403.htm)
 
++ [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://m.ithome.com/html/734437.htm)
+
