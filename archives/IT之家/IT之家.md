@@ -53,3 +53,5 @@
 
 + [淘宝双 12 活动今年取消，改为“年终好价节”：消息称满 200-30 元](https://m.ithome.com/html/734783.htm)
 
++ [小米 Redmi K70 Pro 手机晴雪配色公布：白色玻璃机身 + 金属中框](https://m.ithome.com/html/734815.htm)
+

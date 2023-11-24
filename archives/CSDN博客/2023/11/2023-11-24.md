@@ -217,3 +217,5 @@
 
 + [【2023年APMCM亚太杯C题】完整数据与解题思路](https://blog.csdn.net/Magnolia_He/article/details/134576827)
 
++ [《安富莱嵌入式周报》第327期：Cortex-A7所有外设单片机玩法LL/HAL库全面上线，分享三款GUI， PX5 RTOS推出网络协议栈，小米Vela开源](https://blog.csdn.net/Simon223/article/details/134550725)
+
