@@ -207,3 +207,11 @@
 
 + [著名说唱歌手非常想在《塞尔达传说》真人电影中扮演林克](https://www.3dmgame.com/news/202311/3882352.html)
 
++ [女性向像素rpg游戏《欺神弄鬼》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3882359.html)
+
++ [《神秘博士》60周年特别剧集“星兽”抢先片段](https://www.3dmgame.com/news/202311/3882356.html)
+
++ [特斯拉最新面部识别专利曝光：可实时监测驾驶员身体状况](https://www.3dmgame.com/news/202311/3882357.html)
+
++ [KK对战平台×雷神加速器，畅玩RPG，极速由我掌控！](https://www.3dmgame.com/news/202311/3882358.html)
+

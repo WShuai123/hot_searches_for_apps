@@ -209,3 +209,9 @@
 
 + [黑客技术（网络安全）自学1.0](https://blog.csdn.net/y473158Yansu/article/details/134586550)
 
++ [远程网络安全访问JumpServer：使用cpolar内网穿透搭建固定公网地址](https://blog.csdn.net/a1657054242/article/details/134577840)
+
++ [Elasticsearch：ES|QL 函数及操作符](https://blog.csdn.net/UbuntuTouch/article/details/134575015)
+
++ [2023亚太杯数学建模A题思路 - 采果机器人的图像识别技术](https://blog.csdn.net/m0_71450098/article/details/134572775)
+

@@ -63,3 +63,5 @@
 
 + [DorXNG：一款功能强大的现代OSINT信息收集工具](https://www.freebuf.com/sectool/381319.html)
 
++ [入侵只需要1小时，米高梅幕后黑手Scattered Spider成集团杀手](https://www.freebuf.com/news/384821.html)
+
