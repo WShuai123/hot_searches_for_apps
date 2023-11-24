@@ -237,3 +237,5 @@
 
 + [大数据技能大赛（高职组）答案](https://blog.csdn.net/weixin_54412689/article/details/134562668)
 
++ [通过内网穿透本地MariaDB数据库，实现在公网环境下使用navicat图形化工具](https://blog.csdn.net/qq_48652579/article/details/134596171)
+

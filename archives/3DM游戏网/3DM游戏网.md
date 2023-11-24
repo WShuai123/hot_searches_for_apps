@@ -231,3 +231,5 @@
 
 + [《暗黑4》Steam评价升至“多半好评” 4天新增千条好评](https://www.3dmgame.com/news/202311/3882367.html)
 
++ [谷歌Bard迎来升级 一分钟总结长视频再不是梦](https://www.3dmgame.com/news/202311/3882368.html)
+

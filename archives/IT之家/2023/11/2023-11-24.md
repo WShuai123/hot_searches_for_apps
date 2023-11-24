@@ -55,3 +55,7 @@
 
 + [小米 Redmi K70 Pro 手机晴雪配色公布：白色玻璃机身 + 金属中框](https://m.ithome.com/html/734815.htm)
 
++ [苹果新款 iPad Air 信息汇总：新增 12.9 英寸机型、升级 M2 芯片、支持 Wi-Fi 6E 和蓝牙 5.3](https://m.ithome.com/html/734674.htm)
+
++ [魅族 21 手机预热：内置 4800mAh 电池，称“配合 OneMind 10.5 + 三星 OLED 屏 > 5100mAh”](https://m.ithome.com/html/734769.htm)
+
