@@ -101,3 +101,7 @@
 
 + [《怪奇物语VR》炸裂广告：夺心魔入侵Sphere球体馆](https://www.3dmgame.com/news/202311/3882320.html)
 
++ [特别好评《黄昏降临时》Steam史低促销 仅售22元](https://www.3dmgame.com/news/202311/3882376.html)
+
++ [英伟达禁售：大量RTX 4090在国内聚集场面壮观](https://www.3dmgame.com/news/202311/3882375.html)
+
