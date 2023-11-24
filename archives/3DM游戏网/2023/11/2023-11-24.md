@@ -163,3 +163,13 @@
 
 + [Switch版《西瓜游戏》突破400万次下载 官方推出LINE动画贴纸](https://www.3dmgame.com/news/202311/3882331.html)
 
++ [电影《拿破仑》“帝王崛起”特辑 12月1日全国影院上映](https://www.3dmgame.com/news/202311/3882333.html)
+
++ [《命运 2》正逐步删除PvP中一击必杀的招式](https://www.3dmgame.com/news/202311/3882334.html)
+
++ [《赛马大亨10 2024》公布 明年3月28日登陆多平台](https://www.3dmgame.com/news/202311/3882336.html)
+
++ [中式民俗恐怖题材文字解密游戏《白河村》Steam页面 发售日期待定](https://www.3dmgame.com/news/202311/3882337.html)
+
++ [2D格斗游戏《群马乱斗》即将停止开发 故事模式不会实装](https://www.3dmgame.com/news/202311/3882338.html)
+

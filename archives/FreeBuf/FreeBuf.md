@@ -51,3 +51,7 @@
 
 + [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
 
++ [大量Kubernetes机密暴露，波及多家头部公司](https://www.freebuf.com/news/384761.html)
+
++ [基于 Mirai 的僵尸网络利用路由器和 NVR 中的零日漏洞进行大规模 DDoS 攻击](https://www.freebuf.com/news/384756.html)
+

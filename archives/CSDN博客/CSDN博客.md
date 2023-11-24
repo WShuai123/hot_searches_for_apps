@@ -185,3 +185,9 @@
 
 + [【Linux】进程间通信——进程间通信的介绍和分类、管道、匿名管道、命名管道、匿名管道与命名管道的区别](https://blog.csdn.net/Crocodile1006/article/details/134548881)
 
++ [SpringBoot——MVC原理](https://blog.csdn.net/zhengzhaoyang122/article/details/134588261)
+
++ [线性回归中的函数求导](https://blog.csdn.net/m0_70911440/article/details/134574548)
+
++ [微信小程序完整实现微信支付功能（SpringBoot和小程序）](https://blog.csdn.net/m0_59799878/article/details/134589551)
+

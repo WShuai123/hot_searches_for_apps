@@ -35,3 +35,5 @@
 
 + [华为 Petal 花瓣地图 4.0 更新：新增红绿灯数量显示、境外起点推荐等功能](https://m.ithome.com/html/734665.htm)
 
++ [小米 Redmi 宣布与国产供应链共同开启“2 万亿新宏图计划”](https://m.ithome.com/html/734565.htm)
+
