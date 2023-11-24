@@ -229,3 +229,5 @@
 
 + [i5-14400F跑分曝光 多核性能仅比13400F提升2%](https://www.3dmgame.com/news/202311/3882366.html)
 
++ [《暗黑4》Steam评价升至“多半好评” 4天新增千条好评](https://www.3dmgame.com/news/202311/3882367.html)
+
