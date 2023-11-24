@@ -121,3 +121,29 @@
 
 + [《奇异人生》初代游戏玩家人数突破2000万](https://www.3dmgame.com/news/202311/3882304.html)
 
++ [英伟达GeForceNow新增18款游戏 包括《骑士精神2》、《海岛大亨 6》等](https://www.3dmgame.com/news/202311/3882324.html)
+
++ [《爱乐之城》内地重映 12月22日上映](https://www.3dmgame.com/news/202311/3882323.html)
+
++ [《房产达人2》宣布实体版 主机版明年3月推出](https://www.3dmgame.com/news/202311/3882319.html)
+
++ [任天堂日本将推出18+分级Switch Online应用](https://www.3dmgame.com/news/202311/3882322.html)
+
++ [索尼云掌机PS Portal开发最早始于2015年 原本或是为PS4准备](https://www.3dmgame.com/news/202311/3882325.html)
+
++ [DC新片《海王2》发布“叛逆王者”特辑 12月20日上映](https://www.3dmgame.com/news/202311/3882321.html)
+
++ [《怪奇物语VR》炸裂广告：夺心魔入侵Sphere球体馆](https://www.3dmgame.com/news/202311/3882320.html)
+
++ [原创西幻百合AVG游戏《Lost Seed》Steam页面 明年8月发售](https://www.3dmgame.com/news/202311/3882318.html)
+
++ [国产JRPG《梦灯花》11月28日发售，线下试玩会举办成功](https://www.3dmgame.com/news/202311/3882316.html)
+
++ [好评如潮 《如龙7外传：无名之龙》通过Steam Deck验证](https://www.3dmgame.com/news/202311/3882317.html)
+
++ [《美国卡车模拟》新DLC“堪萨斯州”将于下周发行](https://www.3dmgame.com/news/202311/3882315.html)
+
++ [Steam秋季特卖 《荒野大镖客2》入围热销榜第八](https://www.3dmgame.com/news/202311/3882314.html)
+
++ [《光环：无限》玩家人数超过3000万](https://www.3dmgame.com/news/202311/3882313.html)
+

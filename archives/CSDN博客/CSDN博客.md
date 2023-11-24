@@ -177,3 +177,7 @@
 
 + [关于「光学神经网络」的一切：理论、应用与发展](https://blog.csdn.net/QUANTUM_CHINA/article/details/134583633)
 
++ [一个基于Kafka客户端封装的工具，Kafka开发效率神器](https://blog.csdn.net/zhangchuangzhuang/article/details/134542177)
+
++ [html5](https://blog.csdn.net/h_e_l_l_o_______/article/details/134563050)
+

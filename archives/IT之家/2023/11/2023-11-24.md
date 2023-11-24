@@ -31,3 +31,5 @@
 
 + [马云斥资千万成立“马家厨房”，经营范围含销售预制菜](https://m.ithome.com/html/734660.htm)
 
++ [盖茨：AI 不会抢走你的工作，且会让每周工作 3 天成为可能](https://m.ithome.com/html/734538.htm)
+
