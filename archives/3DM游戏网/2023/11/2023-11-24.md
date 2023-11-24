@@ -103,3 +103,21 @@
 
 + [Epic喜加一：《火星孤征》免费领取](https://www.3dmgame.com/news/202311/3882301.html)
 
++ [格斗游戏《杀手本能》十周年庆 基础版免费玩](https://www.3dmgame.com/news/202311/3882312.html)
+
++ [人气手游《妮姬：胜利女神》官方漫画即将连载](https://www.3dmgame.com/news/202311/3882311.html)
+
++ [《侏罗纪世界：进化2》​将于11月30日进行内容更新](https://www.3dmgame.com/news/202311/3882310.html)
+
++ [《EA FC 24》明年以免费更新方式添加2024欧洲杯](https://www.3dmgame.com/news/202311/3882309.html)
+
++ [魔幻假面喵12月加入《宝可梦：大集结》](https://www.3dmgame.com/news/202311/3882308.html)
+
++ [索尼与日本乐队King Gnu合作拍摄PS5奇特广告](https://www.3dmgame.com/news/202311/3882307.html)
+
++ [神谷英树透露想开发大神和红侠乔伊系列新作](https://www.3dmgame.com/news/202311/3882306.html)
+
++ [Age社知名恋爱游戏《君望》众筹成功 登陆Steam](https://www.3dmgame.com/news/202311/3882305.html)
+
++ [《奇异人生》初代游戏玩家人数突破2000万](https://www.3dmgame.com/news/202311/3882304.html)
+

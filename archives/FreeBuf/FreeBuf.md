@@ -41,3 +41,7 @@
 
 + [一万亿条记录，美国监视计划曝光](https://www.freebuf.com/news/384403.html)
 
++ [FreeBuf早报 | 美国核研究实验室遭黑客入侵；堪萨斯州法院确认数据被盗](https://www.freebuf.com/news/384651.html)
+
++ [Microsoft Kernel Streaming Server漏洞分析（CVE-2023-368002）](https://www.freebuf.com/vuls/383090.html)
+

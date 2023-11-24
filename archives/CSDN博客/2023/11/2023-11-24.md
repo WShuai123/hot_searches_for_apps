@@ -131,3 +131,49 @@
 
 + [【网络奇缘】- 计算机网络|性能指标|体系结构](https://blog.csdn.net/Aileenvov/article/details/134562369)
 
++ [生成式AI：SEO的末日？](https://blog.csdn.net/shebao3333/article/details/134572516)
+
++ [基于SpringBoot垃圾分类小程序系统的设计与实现](https://blog.csdn.net/mengchuan6666/article/details/134550273)
+
++ [【OpenCV实现图像：使用OpenCV进行图像处理之透视变换】](https://blog.csdn.net/weixin_47869094/article/details/134551270)
+
++ [2023 年 亚太赛 APMCM （B题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134567547)
+
++ [基于Mapmost Alpha工具快速搭建3D场景可视化大屏](https://blog.csdn.net/m0_64336780/article/details/134383824)
+
++ [一个测试驱动的Spring Boot应用程序开发](https://blog.csdn.net/ZhangCurie/article/details/134475842)
+
++ [springboot前后端分离项目配置https接口（ssl证书）](https://blog.csdn.net/yang2330648064/article/details/134564394)
+
++ [SpringBoot项目连接,有Kerberos认证的Kafka](https://blog.csdn.net/weixin_50737119/article/details/134578995)
+
++ [神经网络中BN层简介及位置分析](https://blog.csdn.net/shadowismine/article/details/134532182)
+
++ [TransFusionNet：JetsonTX2下肝肿瘤和血管分割的语义和空间特征融合框架](https://blog.csdn.net/weixin_42489272/article/details/134561064)
+
++ [王者荣耀游戏](https://blog.csdn.net/ycq8888/article/details/134567844)
+
++ [【机器学习】Nonlinear Independent Component Analysis - Aapo Hyvärinen](https://blog.csdn.net/qq_43426078/article/details/134566610)
+
++ [SQLite3 数据库学习（六）：Qt 嵌入式 Web 服务器详解](https://blog.csdn.net/qq_42994487/article/details/134585350)
+
++ [docker部署微服务](https://blog.csdn.net/Hubery_sky/article/details/134586404)
+
++ [CentOS 7 使用异步网络框架Libevent](https://blog.csdn.net/zhouzhiwengang/article/details/134584249)
+
++ [SQL Server数据库自动备份方法](https://blog.csdn.net/qq_33790894/article/details/134575851)
+
++ [2023亚太杯数学建模思路 - 案例：粒子群算法](https://blog.csdn.net/dc_sinor/article/details/134556291)
+
++ [前端如何做数据加密](https://blog.csdn.net/BradenHan/article/details/134565604)
+
++ [redis的一些操作](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/134530831)
+
++ [【2021集创赛】基于ARM-M3的双目立体视觉避障系统 SOC设计](https://blog.csdn.net/weixin_47569031/article/details/134569996)
+
++ [HCIP --- HCIA（部分汇总）--- 点对点网络](https://blog.csdn.net/weixin_64768917/article/details/134521117)
+
++ [服务器主机安全的重要性及防护策略](https://blog.csdn.net/HoewDec/article/details/134555223)
+
++ [关于「光学神经网络」的一切：理论、应用与发展](https://blog.csdn.net/QUANTUM_CHINA/article/details/134583633)
+
