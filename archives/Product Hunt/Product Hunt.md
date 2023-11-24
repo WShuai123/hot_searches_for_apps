@@ -137,3 +137,5 @@
 
 + [Faircado](https://www.producthunt.com/posts/faircado)
 
++ [CopyStyleGuide.com](https://www.producthunt.com/posts/copystyleguide-com)
+

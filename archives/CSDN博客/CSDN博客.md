@@ -215,3 +215,5 @@
 
 + [2023亚太杯数学建模A题思路 - 采果机器人的图像识别技术](https://blog.csdn.net/m0_71450098/article/details/134572775)
 
++ [【2023年APMCM亚太杯C题】完整数据与解题思路](https://blog.csdn.net/Magnolia_He/article/details/134576827)
+

@@ -47,3 +47,9 @@
 
 + [保时捷全新 Panamera 官图曝光，11 月 24 日全球首发](https://m.ithome.com/html/734586.htm)
 
++ [抄作业“把名字也抄上了”，手机壳制造商 Casetify 被 Dbrand 起诉外观侵权](https://m.ithome.com/html/734686.htm)
+
++ [新华三管理层集体降薪：17 级以上主动降 20%，12 月 1 日起执行](https://m.ithome.com/html/734743.htm)
+
++ [淘宝双 12 活动今年取消，改为“年终好价节”：消息称满 200-30 元](https://m.ithome.com/html/734783.htm)
+

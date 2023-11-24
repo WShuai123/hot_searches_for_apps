@@ -215,3 +215,15 @@
 
 + [KK对战平台×雷神加速器，畅玩RPG，极速由我掌控！](https://www.3dmgame.com/news/202311/3882358.html)
 
++ [淘宝双12活动今年取消：改为“年终好价节”](https://www.3dmgame.com/news/202311/3882365.html)
+
++ [TGA官方删除推文暗示 《死亡搁浅2》或将亮相TGA 2023](https://www.3dmgame.com/news/202311/3882364.html)
+
++ [传闻：中国特供版英伟达H20 AI芯片推迟到明年一季度发布](https://www.3dmgame.com/news/202311/3882363.html)
+
++ [《鱿鱼游戏》真人秀参赛者称拍摄过程中受伤 索要赔偿或起诉](https://www.3dmgame.com/news/202311/3882362.html)
+
++ [《红霞岛》骨折促销折后仅10美元 玩家仍然觉得不值](https://www.3dmgame.com/news/202311/3882361.html)
+
++ [赵明剧透荣耀Magic6系列：有非常惊艳的创新](https://www.3dmgame.com/news/202311/3882360.html)
+
