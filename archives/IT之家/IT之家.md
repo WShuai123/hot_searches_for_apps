@@ -27,3 +27,5 @@
 
 + [2024 款吉利豪越 L 上市：全系车型 7 座布局，12.79 万元起](https://m.ithome.com/html/734902.htm)
 
++ [小米澎湃 OS 开发版第二批机型 12 月推送：含小米 12 / Pro、Redmi K50 至尊版 / 电竞版](https://m.ithome.com/html/734903.htm)
+
