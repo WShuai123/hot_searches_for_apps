@@ -233,3 +233,15 @@
 
 + [谷歌Bard迎来升级 一分钟总结长视频再不是梦](https://www.3dmgame.com/news/202311/3882368.html)
 
++ [《绿色地狱VR》11月30日上线免费DLC 可游玩15小时左右](https://www.3dmgame.com/news/202311/3882373.html)
+
++ [外媒评PS5平台15款画质精美的游戏 《战神》等](https://www.3dmgame.com/news/202311/3882374.html)
+
++ [视觉小说《椰城蓝调》Steam版正式发售 免费开玩](https://www.3dmgame.com/news/202311/3882372.html)
+
++ [2024好莱坞影视新作预览 《猩球崛起4》《特技狂人》](https://www.3dmgame.com/news/202311/3882371.html)
+
++ [苹果研发“隐私屏幕” 防止小偷窃取你的密码](https://www.3dmgame.com/news/202311/3882370.html)
+
++ [《龙与地下城：侠盗荣耀》可能会拍摄续集](https://www.3dmgame.com/news/202311/3882369.html)
+

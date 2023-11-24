@@ -239,3 +239,5 @@
 
 + [通过内网穿透本地MariaDB数据库，实现在公网环境下使用navicat图形化工具](https://blog.csdn.net/qq_48652579/article/details/134596171)
 
++ [【网络奇幻之旅】那年我与区块链技术的邂逅](https://blog.csdn.net/2301_80760873/article/details/134596009)
+

@@ -59,3 +59,5 @@
 
 + [魅族 21 手机预热：内置 4800mAh 电池，称“配合 OneMind 10.5 + 三星 OLED 屏 > 5100mAh”](https://m.ithome.com/html/734769.htm)
 
++ [小红书宣布完成华为鸿蒙原生应用 Beta 版本开发](https://m.ithome.com/html/734886.htm)
+
