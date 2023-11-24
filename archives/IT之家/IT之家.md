@@ -39,3 +39,11 @@
 
 + [华为无人代客泊车视频曝光：智界 S7 首发，自己找车位，还能会车倒车](https://m.ithome.com/html/734739.htm)
 
++ [小米 Redmi K70 Pro 手机外观亮相：“墨羽”配色，后置矩阵三摄](https://m.ithome.com/html/734718.htm)
+
++ [小米 Redmi K70 Pro 手机外观预热：后盖上方采用 1.3mm 高透玻璃，两侧做弧线处理](https://m.ithome.com/html/734741.htm)
+
++ [机构公布国内双十一手机战报：苹果排第一、小米增长 28%、华为增长 66%](https://m.ithome.com/html/734735.htm)
+
++ [保时捷全新 Panamera 官图曝光，11 月 24 日全球首发](https://m.ithome.com/html/734586.htm)
+

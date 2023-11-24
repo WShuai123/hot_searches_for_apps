@@ -199,3 +199,11 @@
 
 + [《绝区零》降噪测试PV | 第二份委托 别被砸了哟](https://www.3dmgame.com/news/202311/3882350.html)
 
++ [日企合作研发单晶材料 让固态电池寿命延长10倍至50年](https://www.3dmgame.com/news/202311/3882354.html)
+
++ [大宇资讯首款BL游戏《Voice Love on Air》公布 2024年发售](https://www.3dmgame.com/news/202311/3882355.html)
+
++ [《命运2》火力小队寻找功能公开测试即将上线](https://www.3dmgame.com/news/202311/3882353.html)
+
++ [著名说唱歌手非常想在《塞尔达传说》真人电影中扮演林克](https://www.3dmgame.com/news/202311/3882352.html)
+
