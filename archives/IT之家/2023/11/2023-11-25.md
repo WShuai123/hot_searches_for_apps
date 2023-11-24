@@ -25,3 +25,5 @@
 
 + [比亚迪秦 PLUS DM-i 冠军版车型限时优惠 1 万元：相当于 8.98 万元起售](https://m.ithome.com/html/734892.htm)
 
++ [2024 款吉利豪越 L 上市：全系车型 7 座布局，12.79 万元起](https://m.ithome.com/html/734902.htm)
+

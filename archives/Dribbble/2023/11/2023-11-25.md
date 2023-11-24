@@ -73,3 +73,17 @@
 
 + [Events App](https://dribbble.com/shots/)
 
++ [Connexions](https://dribbble.com/shots/)
+
++ [Tiger Logo](https://dribbble.com/shots/)
+
++ [NVO: Components & Cards 2.0](https://dribbble.com/shots/)
+
++ [Salesman](https://dribbble.com/shots/)
+
++ [TicToc - iconography Set](https://dribbble.com/shots/)
+
++ [Crypto Wallet](https://dribbble.com/shots/)
+
++ [Plum](https://dribbble.com/shots/)
+
