@@ -219,3 +219,21 @@
 
 + [《安富莱嵌入式周报》第327期：Cortex-A7所有外设单片机玩法LL/HAL库全面上线，分享三款GUI， PX5 RTOS推出网络协议栈，小米Vela开源](https://blog.csdn.net/Simon223/article/details/134550725)
 
++ [Azure Machine Learning - Azure可视化图像分类操作实战](https://blog.csdn.net/magicyangjay111/article/details/134592906)
+
++ [树莓派上使用Nginx通过内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/xz2935117143/article/details/134602190)
+
++ [【腾讯云云上实验室】用向量数据库融合AI技术：构建下一代智能客服平台](https://blog.csdn.net/qq_33681891/article/details/134601265)
+
++ [【腾讯云云上实验室】探索保护数据之盾背后的安全监控机制](https://blog.csdn.net/qq_53123067/article/details/134469967)
+
++ [『亚马逊云科技产品测评』活动征文 | uWSGI部署Django](https://blog.csdn.net/qq_24694139/article/details/134593112)
+
++ [一些好用的前端小插件（转自知乎）](https://blog.csdn.net/weixin_60886885/article/details/134591836)
+
++ [【斯坦福计网CS144】Lab5终结笔记](https://blog.csdn.net/m0_57532432/article/details/134464240)
+
++ [vue3-组件传参及计算属性](https://blog.csdn.net/2302_76329106/article/details/134502883)
+
++ [大数据技能大赛（高职组）答案](https://blog.csdn.net/weixin_54412689/article/details/134562668)
+

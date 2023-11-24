@@ -227,3 +227,5 @@
 
 + [赵明剧透荣耀Magic6系列：有非常惊艳的创新](https://www.3dmgame.com/news/202311/3882360.html)
 
++ [i5-14400F跑分曝光 多核性能仅比13400F提升2%](https://www.3dmgame.com/news/202311/3882366.html)
+

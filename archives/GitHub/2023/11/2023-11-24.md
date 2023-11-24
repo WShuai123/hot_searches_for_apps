@@ -49,3 +49,35 @@
 
 + [antirez / smallchat](https://github.com/antirez/smallchat)
 
++ [keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)
+
++ [doocs / leetcode](https://github.com/doocs/leetcode)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [StarRocks / starrocks](https://github.com/StarRocks/starrocks)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot)
+
++ [fffaraz / awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+
++ [MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension)
+
++ [Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc)
+
++ [windmill-labs / windmill](https://github.com/windmill-labs/windmill)
+
++ [AabyssZG / WebShell-Bypass-Guide](https://github.com/AabyssZG/WebShell-Bypass-Guide)
+
++ [intel / intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
+
++ [Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN)
+
++ [teslamotors / roadster](https://github.com/teslamotors/roadster)
+
++ [CatVodTVOfficial / TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
+
++ [langchain-ai / langchain](https://github.com/langchain-ai/langchain)
+
