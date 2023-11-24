@@ -37,3 +37,5 @@
 
 + [小米 Redmi 宣布与国产供应链共同开启“2 万亿新宏图计划”](https://m.ithome.com/html/734565.htm)
 
++ [华为无人代客泊车视频曝光：智界 S7 首发，自己找车位，还能会车倒车](https://m.ithome.com/html/734739.htm)
+

@@ -183,3 +183,15 @@
 
 + [《全面战争：战锤 3》修补程序 4.1.1 补丁发布 旋风大金牙战车不再](https://www.3dmgame.com/news/202311/3882342.html)
 
++ [《名侦探柯南》新T恤周边 一秒变身黑衣人](https://www.3dmgame.com/news/202311/3882349.html)
+
++ [《有氧拳击2拳力舞动》国行版预售开启 定价269元](https://www.3dmgame.com/news/202311/3882348.html)
+
++ [《巫师》小说原作者：网飞从来没听过我的反馈](https://www.3dmgame.com/news/202311/3882347.html)
+
++ [“UEFA EURO 2024™”将于2024年夏季登上《EA SPORTS FC™ 24》](https://www.3dmgame.com/news/202311/3882346.html)
+
++ [日本国土交通省在《我的世界》中复刻正在建造的水坝项目](https://www.3dmgame.com/news/202311/3882345.html)
+
++ [蜡笔小新2023新剧场版曝最新海报预告 超能力觉醒明日上映](https://www.3dmgame.com/news/202311/3882344.html)
+

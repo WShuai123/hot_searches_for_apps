@@ -57,3 +57,7 @@
 
 + [JAVA代码审计-xss漏洞基础详解与案例(上)](https://www.freebuf.com/vuls/384354.html)
 
++ [美国汽车零部件巨头 AutoZone 遭遇网络攻击](https://www.freebuf.com/news/384758.html)
+
++ [欲更新浏览器的Mac用户请注意，AMOS又出一招新“骗术”](https://www.freebuf.com/news/384754.html)
+
