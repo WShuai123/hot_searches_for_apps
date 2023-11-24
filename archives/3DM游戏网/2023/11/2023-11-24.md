@@ -147,3 +147,19 @@
 
 + [《光环：无限》玩家人数超过3000万](https://www.3dmgame.com/news/202311/3882313.html)
 
++ [《机械战警：暴戾都市》证明中端游戏依然能成功](https://www.3dmgame.com/news/202311/3882332.html)
+
++ [零售商澄清《GTA6》12月开启预购：得等到R星宣布](https://www.3dmgame.com/news/202311/3882335.html)
+
++ [诺兰表示自己不会拍摄《007》电影](https://www.3dmgame.com/news/202311/3882326.html)
+
++ [《无垠之心》发行商收购游戏开发商Mojiken工作室](https://www.3dmgame.com/news/202311/3882327.html)
+
++ [谷歌Chromebook Plus与《赛博朋克2077》展开合作](https://www.3dmgame.com/news/202311/3882328.html)
+
++ [《流放之路2》11月30日直播预告 明年6月7日内测](https://www.3dmgame.com/news/202311/3882329.html)
+
++ [《咩咩启示录》预告新免费内容更新 2024年年初发布](https://www.3dmgame.com/news/202311/3882330.html)
+
++ [Switch版《西瓜游戏》突破400万次下载 官方推出LINE动画贴纸](https://www.3dmgame.com/news/202311/3882331.html)
+

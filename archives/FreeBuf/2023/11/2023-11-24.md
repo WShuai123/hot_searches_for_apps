@@ -45,3 +45,9 @@
 
 + [Microsoft Kernel Streaming Server漏洞分析（CVE-2023-368002）](https://www.freebuf.com/vuls/383090.html)
 
++ [操作系统权限提升 | SQL Server 提权](https://www.freebuf.com/articles/network/384704.html)
+
++ [FreeBuf年度评选：WitAwards 2023 获奖名单现场揭晓](https://www.freebuf.com/fevents/384706.html)
+
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+

@@ -181,3 +181,7 @@
 
 + [html5](https://blog.csdn.net/h_e_l_l_o_______/article/details/134563050)
 
++ [人工智能：让生活更便捷、更智能——探讨人工智能在生活中的作用与挑战](https://blog.csdn.net/u014727709/article/details/134569536)
+
++ [【Linux】进程间通信——进程间通信的介绍和分类、管道、匿名管道、命名管道、匿名管道与命名管道的区别](https://blog.csdn.net/Crocodile1006/article/details/134548881)
+

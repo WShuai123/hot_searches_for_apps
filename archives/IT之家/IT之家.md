@@ -33,3 +33,5 @@
 
 + [盖茨：AI 不会抢走你的工作，且会让每周工作 3 天成为可能](https://m.ithome.com/html/734538.htm)
 
++ [华为 Petal 花瓣地图 4.0 更新：新增红绿灯数量显示、境外起点推荐等功能](https://m.ithome.com/html/734665.htm)
+
