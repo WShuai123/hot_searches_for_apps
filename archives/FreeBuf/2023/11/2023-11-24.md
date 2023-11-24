@@ -61,3 +61,5 @@
 
 + [欲更新浏览器的Mac用户请注意，AMOS又出一招新“骗术”](https://www.freebuf.com/news/384754.html)
 
++ [DorXNG：一款功能强大的现代OSINT信息收集工具](https://www.freebuf.com/sectool/381319.html)
+
