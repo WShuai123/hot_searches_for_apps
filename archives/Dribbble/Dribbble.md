@@ -87,3 +87,17 @@
 
 + [Plum](https://dribbble.com/shots/)
 
++ [Stona House](https://dribbble.com/shots/)
+
++ [Healthcare Web Design](https://dribbble.com/shots/)
+
++ [Light & Dark  Espresso Set](https://dribbble.com/shots/)
+
++ [The birth of Venus](https://dribbble.com/shots/)
+
++ [E-learning Mobile App - Teacher Dashboard](https://dribbble.com/shots/)
+
++ [UX UI design for B2C urban mobility app | Lazarev.](https://dribbble.com/shots/)
+
++ [Lucyanna](https://dribbble.com/shots/)
+
