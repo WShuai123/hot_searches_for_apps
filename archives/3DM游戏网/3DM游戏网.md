@@ -173,3 +173,13 @@
 
 + [2D格斗游戏《群马乱斗》即将停止开发 故事模式不会实装](https://www.3dmgame.com/news/202311/3882338.html)
 
++ [轻度格斗休闲派对游戏《女神试炼》Steam页面上线 支持中文](https://www.3dmgame.com/news/202311/3882343.html)
+
++ [《使命召唤20》出现高速爬行漏洞 官方正在调查](https://www.3dmgame.com/news/202311/3882339.html)
+
++ [《帕斯卡契约：终极版》追加内容《皇座之舞》现已免费更新，NS版港日服打折促销](https://www.3dmgame.com/news/202311/3882340.html)
+
++ [暗黑类奇幻游戏《暗黑炽天使》Steam页面上线 支持中文](https://www.3dmgame.com/news/202311/3882341.html)
+
++ [《全面战争：战锤 3》修补程序 4.1.1 补丁发布 旋风大金牙战车不再](https://www.3dmgame.com/news/202311/3882342.html)
+

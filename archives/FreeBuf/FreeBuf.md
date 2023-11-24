@@ -55,3 +55,5 @@
 
 + [基于 Mirai 的僵尸网络利用路由器和 NVR 中的零日漏洞进行大规模 DDoS 攻击](https://www.freebuf.com/news/384756.html)
 
++ [JAVA代码审计-xss漏洞基础详解与案例(上)](https://www.freebuf.com/vuls/384354.html)
+

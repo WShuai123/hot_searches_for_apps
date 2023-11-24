@@ -191,3 +191,9 @@
 
 + [微信小程序完整实现微信支付功能（SpringBoot和小程序）](https://blog.csdn.net/m0_59799878/article/details/134589551)
 
++ [【MySQL】mysql中不推荐使用uuid或者雪花id作为主键的原因以及差异化对比](https://blog.csdn.net/jinxinxin1314/article/details/134590351)
+
++ [什么年代了，还不会 CI/CD 么？](https://blog.csdn.net/weixin_44749269/article/details/134586502)
+
++ [【性能优化】CPU利用率飙高与内存飙高问题](https://blog.csdn.net/FMC_WBL/article/details/134587305)
+
