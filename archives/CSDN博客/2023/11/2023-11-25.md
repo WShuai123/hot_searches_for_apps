@@ -169,3 +169,7 @@
 
 + [「 系统设计 」 为什么要做架构分层？](https://blog.csdn.net/u014571143/article/details/134572913)
 
++ [LLMLingua:集成LlamaIndex，对提示进行压缩，提供大语言模型的高效推理](https://blog.csdn.net/m0_46510245/article/details/134611157)
+
++ [Spring Boot 应用的 Docker 化：从 Maven 构建到 Docker 部署的完整指南](https://blog.csdn.net/mbh12333/article/details/134601197)
+
