@@ -41,3 +41,5 @@
 
 + [继续与华为解绑，荣耀 100 系列手机首次内置自家云服务、钱包等应用](https://m.ithome.com/html/734775.htm)
 
++ [小米 Redmi K70 系列手机延保、碎屏保服务上架，129 元起](https://m.ithome.com/html/734911.htm)
+

@@ -159,3 +159,5 @@
 
 + [JoyT的科研之旅第一周——科研工具学习及论文阅读收获](https://blog.csdn.net/qq_65052774/article/details/134539243)
 
++ [2023亚太杯数学建模A题思路代码分析](https://blog.csdn.net/zzzzzzzxxaaa/article/details/134570966)
+

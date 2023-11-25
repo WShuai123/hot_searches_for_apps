@@ -51,3 +51,5 @@
 
 + [Cobalt Strike之反向上线操作](https://www.freebuf.com/vuls/384698.html)
 
++ [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
+
