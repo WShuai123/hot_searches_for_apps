@@ -187,3 +187,9 @@
 
 + [马云前助理：马家厨房不做预制菜](https://www.3dmgame.com/news/202311/3882416.html)
 
++ [微软为Windows 10带来AI助手Copilot](https://www.3dmgame.com/news/202311/3882420.html)
+
++ [《战地5》Steam又火起来了 在线近10万打破之前记录](https://www.3dmgame.com/news/202311/3882419.html)
+
++ [泰勒·斯威夫特巡演电影 将于12月在中国内地上映](https://www.3dmgame.com/news/202311/3882418.html)
+

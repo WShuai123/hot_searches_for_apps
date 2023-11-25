@@ -73,3 +73,11 @@
 
 + [电影《拿破仑》中文角色海报发布，12 月 1 日内地上映](https://m.ithome.com/html/734932.htm)
 
++ [小米更新澎湃 OS 开发版第二批机型：12S 系列具有“最高”优先级](https://m.ithome.com/html/735029.htm)
+
++ [原生，启动！米哈游招聘信息暗示《原神》将适配华为鸿蒙系统](https://m.ithome.com/html/735033.htm)
+
++ [比亚迪回应车辆促销：活动仅限 11 月内、非官降，为促进“油转电”](https://m.ithome.com/html/734993.htm)
+
++ [升级后的小黄豆，因不够传神而被网友嫌弃了](https://m.ithome.com/html/735031.htm)
+
