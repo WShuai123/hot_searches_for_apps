@@ -185,3 +185,9 @@
 
 + [YOLOv8改进 | 2023 | FocusedLinearAttention实现有效涨点](https://blog.csdn.net/java1314777/article/details/134406160)
 
++ [【SpringBoot篇】阿里云OSS—存储文件的利器](https://blog.csdn.net/m0_72853403/article/details/134611445)
+
++ [基于opencv+ImageAI+tensorflow的智能动漫人物识别系统——深度学习算法应用(含python、JS、模型源码)+数据集（二）](https://blog.csdn.net/qq_31136513/article/details/134591503)
+
++ [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/134606526)
+

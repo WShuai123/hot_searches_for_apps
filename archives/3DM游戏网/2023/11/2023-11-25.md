@@ -179,3 +179,7 @@
 
 + [美国大学开设《原神》课程 考试就是组队打BOSS](https://www.3dmgame.com/news/202311/3882413.html)
 
++ [2023中国最具幸福感城市揭晓 你的城市入选没？](https://www.3dmgame.com/news/202311/3882415.html)
+
++ [《灵魂战甲》首批小规模测试将于12月初启动](https://www.3dmgame.com/news/202311/3882414.html)
+

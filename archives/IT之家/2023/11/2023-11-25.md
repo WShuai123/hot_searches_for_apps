@@ -51,3 +51,15 @@
 
 + [最后一辆奥迪 TT 车型正式下线，上市 25 年累计生产 662762 台](https://m.ithome.com/html/734899.htm)
 
++ [报道称今年锂价已下跌 75%，未来将继续下探](https://m.ithome.com/html/734953.htm)
+
++ [比亚迪百万级超跑车型仰望 U9 内饰公开：麂皮 + 碳纤维包覆，俯冲式仪表台](https://m.ithome.com/html/734898.htm)
+
++ [安兔兔车机版 Beta 2 榜单出炉：骁龙 8295 遥遥领先，骁龙 8155 位列第五](https://m.ithome.com/html/734907.htm)
+
++ [保时捷全新 Panamera 全球首秀：推出三款车型，预售价 103.8 万元起](https://m.ithome.com/html/734910.htm)
+
++ [魅族 21 手机搭载超声波指纹 2.0，最快解锁速度 0.075s](https://m.ithome.com/html/734980.htm)
+
++ [OPPO Reno11 手机今日首销：天玑 8200 处理器，2499 元起](https://m.ithome.com/html/734934.htm)
+
