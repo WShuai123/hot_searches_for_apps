@@ -153,3 +153,9 @@
 
 + [2023 年 亚太赛 APMCM （B题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134567547)
 
++ [【文末送书】机器学习高级实践](https://blog.csdn.net/weixin_46626339/article/details/134601103)
+
++ [Spire.Office for .NET 8.11.0 Crack](https://blog.csdn.net/john_dwh/article/details/134591113)
+
++ [JoyT的科研之旅第一周——科研工具学习及论文阅读收获](https://blog.csdn.net/qq_65052774/article/details/134539243)
+

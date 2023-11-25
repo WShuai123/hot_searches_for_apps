@@ -39,3 +39,5 @@
 
 + [小米预告 Redmi Book 14/16 2024 笔记本：47W 满血性能，接入 Xiaomi HyperOS Connect](https://m.ithome.com/html/734835.htm)
 
++ [继续与华为解绑，荣耀 100 系列手机首次内置自家云服务、钱包等应用](https://m.ithome.com/html/734775.htm)
+

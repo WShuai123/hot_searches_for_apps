@@ -139,3 +139,13 @@
 
 + [天黑闭鬼眼？日式萌妖推理游戏《妖崽幼稚园》12月1日将于Steam开园！](https://www.3dmgame.com/news/202311/3882391.html)
 
++ [《鳄鱼侦探布罗格》更新 加入本地合作游戏模式](https://www.3dmgame.com/news/202311/3882398.html)
+
++ [盖茨：AI时代人类每周仅工作三天 烹饪也可代劳](https://www.3dmgame.com/news/202311/3882396.html)
+
++ [广告商流失 X（推特）到年底将损失7500万美元收入](https://www.3dmgame.com/news/202311/3882395.html)
+
++ [《赛博朋克2077》叙事总监：我最喜欢的彩蛋还没被发现](https://www.3dmgame.com/news/202311/3882397.html)
+
++ [特效堆积如山 《阿凡达2》数据总量达1940万G](https://www.3dmgame.com/news/202311/3882394.html)
+

@@ -49,3 +49,5 @@
 
 + [工商银行美国子公司勒索病毒事件分析](https://www.freebuf.com/articles/network/384197.html)
 
++ [Cobalt Strike之反向上线操作](https://www.freebuf.com/vuls/384698.html)
+
