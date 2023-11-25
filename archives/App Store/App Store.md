@@ -205,3 +205,7 @@
 
 + [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
 
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
