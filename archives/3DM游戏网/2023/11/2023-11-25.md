@@ -177,3 +177,5 @@
 
 + [我国家庭户均网速出炉：百/千兆宽带进一步加快普及](https://www.3dmgame.com/news/202311/3882405.html)
 
++ [美国大学开设《原神》课程 考试就是组队打BOSS](https://www.3dmgame.com/news/202311/3882413.html)
+
