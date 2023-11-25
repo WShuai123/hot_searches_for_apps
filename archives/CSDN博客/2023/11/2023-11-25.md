@@ -173,3 +173,11 @@
 
 + [Spring Boot 应用的 Docker 化：从 Maven 构建到 Docker 部署的完整指南](https://blog.csdn.net/mbh12333/article/details/134601197)
 
++ [【spring（五）】SpringMvc总结 SSM整合流程](https://blog.csdn.net/Panci_/article/details/134587974)
+
++ [第十九届全国大学生智能汽车竞赛 视觉组比赛细则](https://blog.csdn.net/zhuoqingjoking97298/article/details/134612755)
+
++ [【深度学习】因果推断与机器学习的高级实践 | 数学建模](https://blog.csdn.net/Why_does_it_work/article/details/134613216)
+
++ [【Spring Boot 源码学习】自定义 Banner 信息打印](https://blog.csdn.net/u012855229/article/details/134425752)
+

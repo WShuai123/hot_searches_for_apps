@@ -47,3 +47,7 @@
 
 + [华为开发者联盟：中国移动、中国联通、国家电网等 40 余家企业参与鸿蒙实训营](https://m.ithome.com/html/734919.htm)
 
++ [三星 Galaxy S24 Ultra 手机高清渲染图再曝光：近乎直屏设计](https://m.ithome.com/html/734883.htm)
+
++ [最后一辆奥迪 TT 车型正式下线，上市 25 年累计生产 662762 台](https://m.ithome.com/html/734899.htm)
+

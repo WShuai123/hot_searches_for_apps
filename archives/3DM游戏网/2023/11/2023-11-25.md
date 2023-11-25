@@ -161,3 +161,19 @@
 
 + [我国首个跨地级市核能供热工程投运 覆盖约40万人冬季清洁取暖](https://www.3dmgame.com/news/202311/3882401.html)
 
++ [发售25年 《半条命1》中动画BUG终于被修复](https://www.3dmgame.com/news/202311/3882412.html)
+
++ [报道称今年锂价已下跌75% 未来将继续下探](https://www.3dmgame.com/news/202311/3882411.html)
+
++ [Major Nelson推特发布PS5促销信息被怒喷“叛徒”](https://www.3dmgame.com/news/202311/3882410.html)
+
++ [传言称《死亡搁浅2》或将于2025年正式发售](https://www.3dmgame.com/news/202311/3882409.html)
+
++ [恋爱VR游戏《心跳女友-千雅篇》Steam页面上线 11月30日发售](https://www.3dmgame.com/news/202311/3882408.html)
+
++ [《瓦尔法瑞斯：兽神归来》现已发售 登陆PC平台](https://www.3dmgame.com/news/202311/3882407.html)
+
++ [世嘉公布《VR战士3tb Online》街机 11.28.日本推出](https://www.3dmgame.com/news/202311/3882406.html)
+
++ [我国家庭户均网速出炉：百/千兆宽带进一步加快普及](https://www.3dmgame.com/news/202311/3882405.html)
+
