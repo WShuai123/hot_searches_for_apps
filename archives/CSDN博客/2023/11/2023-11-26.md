@@ -121,3 +121,7 @@
 
 + [【计算机网络】（网络层）定长掩码和变长掩码](https://blog.csdn.net/m0_65277261/article/details/134606175)
 
++ [【LLM】chatglm3的agent应用和微调实践](https://blog.csdn.net/qq_35812205/article/details/134487750)
+
++ [使用 HTML、CSS 和 JavaScript 创建图像滑块](https://blog.csdn.net/qq_42880714/article/details/134598885)
+
