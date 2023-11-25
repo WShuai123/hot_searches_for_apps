@@ -151,3 +151,5 @@
 
 + [远程安全访问JumpServer：使用cpolar内网穿透搭建固定公网地址](https://blog.csdn.net/a1657054242/article/details/134577840)
 
++ [2023 年 亚太赛 APMCM （B题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134567547)
+

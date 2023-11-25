@@ -35,3 +35,7 @@
 
 + [比亚迪汉车型在阿联酋上市，迪拜全新旗舰展厅开幕](https://m.ithome.com/html/734767.htm)
 
++ [三星 Galaxy S24 Ultra 真机首次曝光：近乎直屏设计，机身更加方正](https://m.ithome.com/html/734897.htm)
+
++ [小米预告 Redmi Book 14/16 2024 笔记本：47W 满血性能，接入 Xiaomi HyperOS Connect](https://m.ithome.com/html/734835.htm)
+

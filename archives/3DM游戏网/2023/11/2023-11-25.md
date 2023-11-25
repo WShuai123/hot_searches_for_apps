@@ -133,3 +133,9 @@
 
 + [科幻生存《太平洋驾驶》宣布PS5实体豪华版](https://www.3dmgame.com/news/202311/3882382.html)
 
++ [PS5统治法国市场 销量高出Xbox Series九倍](https://www.3dmgame.com/news/202311/3882393.html)
+
++ [传闻：监狱管理游戏《监狱建筑师》续作疑似在韩过审](https://www.3dmgame.com/news/202311/3882392.html)
+
++ [天黑闭鬼眼？日式萌妖推理游戏《妖崽幼稚园》12月1日将于Steam开园！](https://www.3dmgame.com/news/202311/3882391.html)
+
