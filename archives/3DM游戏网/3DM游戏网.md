@@ -111,3 +111,25 @@
 
 + [《绿色地狱VR》将免费迎来“亚马逊之魂”三部曲更新](https://www.3dmgame.com/news/202311/3882378.html)
 
++ [CDPR和PureArts合作 推出1:1复刻艾瑞丁头盔](https://www.3dmgame.com/news/202311/3882387.html)
+
++ [英伟达击败台积电和英特尔 首次摘得芯片行业收入桂冠](https://www.3dmgame.com/news/202311/3882388.html)
+
++ [《星际战甲》“墙中低语”扩展12月上线 包括跨平台存档功能](https://www.3dmgame.com/news/202311/3882389.html)
+
++ [《女神异闻录5：战略版》首发期销量表现不佳](https://www.3dmgame.com/news/202311/3882390.html)
+
++ [《岚与山之彼端》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202311/3882384.html)
+
++ [《艾诺提亚：失落之歌》PC版封测现已接受申请](https://www.3dmgame.com/news/202311/3882383.html)
+
++ [《GTA5》麦克演员感恩节直播 遭遇报假警恶作剧](https://www.3dmgame.com/news/202311/3882385.html)
+
++ [《无主之地：潘多拉魔盒典藏版》或将登陆NS平台](https://www.3dmgame.com/news/202311/3882386.html)
+
++ [《阿凡达：潘多拉边境》预购奖励预告 12月7日正式发售](https://www.3dmgame.com/news/202311/3882380.html)
+
++ [《星刃》韩国开发商Shift Up成为索尼第二方合作伙伴](https://www.3dmgame.com/news/202311/3882381.html)
+
++ [科幻生存《太平洋驾驶》宣布PS5实体豪华版](https://www.3dmgame.com/news/202311/3882382.html)
+

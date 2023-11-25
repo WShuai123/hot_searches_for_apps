@@ -33,3 +33,5 @@
 
 + [中国石化：新一代加油卡系统全国上线](https://m.ithome.com/html/734880.htm)
 
++ [比亚迪汉车型在阿联酋上市，迪拜全新旗舰展厅开幕](https://m.ithome.com/html/734767.htm)
+

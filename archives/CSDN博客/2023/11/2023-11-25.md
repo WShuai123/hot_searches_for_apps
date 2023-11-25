@@ -143,3 +143,11 @@
 
 + [【数据库】数据库中的检查点Checkpoint，数据落盘的重要时刻](https://blog.csdn.net/senllang/article/details/134560804)
 
++ [【腾讯云云上实验室-向量数据库】基于向量数据的客户价值体系推荐系统设计](https://blog.csdn.net/master_hunter/article/details/134605226)
+
++ [量子计算 | 解密著名量子算法Shor算法和Grover算法](https://blog.csdn.net/superdangbo/article/details/134609046)
+
++ [RevCol：可逆的柱状神经网络](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/134600828)
+
++ [远程安全访问JumpServer：使用cpolar内网穿透搭建固定公网地址](https://blog.csdn.net/a1657054242/article/details/134577840)
+
