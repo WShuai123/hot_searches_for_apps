@@ -105,3 +105,5 @@
 
 + [英伟达禁售：大量RTX 4090在国内聚集场面壮观](https://www.3dmgame.com/news/202311/3882375.html)
 
++ [育碧：《刺客信条》游戏内弹出广告是技术失误](https://www.3dmgame.com/news/202311/3882377.html)
+

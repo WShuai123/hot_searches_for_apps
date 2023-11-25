@@ -29,3 +29,5 @@
 
 + [小米澎湃 OS 开发版第二批机型 12 月推送：含小米 12 / Pro、Redmi K50 至尊版 / 电竞版](https://m.ithome.com/html/734903.htm)
 
++ [吉利星瑞 L / 星越 L 智擎车型 12 月 3 日上市，预售 13.17 万元起](https://m.ithome.com/html/734879.htm)
+

@@ -41,3 +41,7 @@
 
 + [CTF实战分享 | Crypto-RSA(二)](https://www.freebuf.com/articles/database/383724.html)
 
++ [FreeBuf 周报 | 美国监视计划曝光；印度雇佣黑客多年来一直瞄准美国、中国等国](https://www.freebuf.com/news/384779.html)
+
++ [针对恶意软件Blister的探索与研究](https://www.freebuf.com/articles/network/383873.html)
+
