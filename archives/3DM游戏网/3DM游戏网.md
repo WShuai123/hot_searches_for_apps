@@ -107,3 +107,7 @@
 
 + [育碧：《刺客信条》游戏内弹出广告是技术失误](https://www.3dmgame.com/news/202311/3882377.html)
 
++ [Steam“PC商店垄断”诉讼继续 G胖被勒令亲自出庭](https://www.3dmgame.com/news/202311/3882379.html)
+
++ [《绿色地狱VR》将免费迎来“亚马逊之魂”三部曲更新](https://www.3dmgame.com/news/202311/3882378.html)
+

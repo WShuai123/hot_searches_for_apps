@@ -45,3 +45,7 @@
 
 + [针对恶意软件Blister的探索与研究](https://www.freebuf.com/articles/network/383873.html)
 
++ [内网攻防 | Kerberos协议安全解析](https://www.freebuf.com/defense/382531.html)
+
++ [工商银行美国子公司勒索病毒事件分析](https://www.freebuf.com/articles/network/384197.html)
+
