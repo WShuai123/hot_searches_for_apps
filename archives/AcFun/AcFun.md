@@ -119,3 +119,11 @@
 
 + [丂 渐 麦 克 疯](http://www.acfun.cn/v/ac43044188)
 
++ [【东方】推特东方小视频选集 第158期](http://www.acfun.cn/v/ac43050221)
+
++ [挑战清唱《人鱼之歌》](http://www.acfun.cn/v/ac43052097)
+
++ [狐狸不懂善恶 她只知道报恩......](http://www.acfun.cn/v/ac43051293)
+
++ [伟大，无需多言](http://www.acfun.cn/v/ac43051078)
+

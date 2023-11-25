@@ -69,3 +69,7 @@
 
 + [美国卡内基梅隆大学开设《原神》研究课程：考试要在 2 分钟内击败 BOSS](https://m.ithome.com/html/735013.htm)
 
++ [小米 Redmi Buds 5 Pro 耳机预热：圈瓷同轴双单元，号称品牌史上最强音质](https://m.ithome.com/html/735002.htm)
+
++ [电影《拿破仑》中文角色海报发布，12 月 1 日内地上映](https://m.ithome.com/html/734932.htm)
+

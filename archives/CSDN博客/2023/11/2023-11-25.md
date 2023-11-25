@@ -193,3 +193,13 @@
 
 + [R数据分析：集成学习方法之随机生存森林的原理和做法，实例解析](https://blog.csdn.net/tm_ggplot2/article/details/134586938)
 
++ [从零到Kafka：万字带你体验Spring Boot整合消息驱动的奇妙之旅](https://blog.csdn.net/wodejiaAA/article/details/134206717)
+
++ [【Docker】Docker与Kubernetes：区别与优势对比](https://blog.csdn.net/m0_75058342/article/details/132111934)
+
++ [【Docker】Docker 仓库管理和Docker Dockerfile](https://blog.csdn.net/2201_75366661/article/details/133911535)
+
++ [【腾讯云云上实验室】向量数据库与数据挖掘分析的黄金组合指南](https://blog.csdn.net/weixin_54174102/article/details/134495075)
+
++ [微服务 BFF 架构设计](https://blog.csdn.net/weixin_44816664/article/details/134540744)
+
