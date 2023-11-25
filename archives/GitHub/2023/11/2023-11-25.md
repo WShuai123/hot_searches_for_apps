@@ -51,3 +51,29 @@
 
 + [langchain-ai / langchain](https://github.com/langchain-ai/langchain)
 
++ [bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+
++ [run-llama / rags](https://github.com/run-llama/rags)
+
++ [trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+
++ [linexjlin / GPTs](https://github.com/linexjlin/GPTs)
+
++ [wesbos / hot-tips](https://github.com/wesbos/hot-tips)
+
++ [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
+
++ [antirez / botlib](https://github.com/antirez/botlib)
+
++ [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
+
++ [LouisShark / chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+
++ [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
++ [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [mRs- / Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+
++ [sergiomarotco / Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
+

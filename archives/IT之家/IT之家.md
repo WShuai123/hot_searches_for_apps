@@ -63,3 +63,9 @@
 
 + [OPPO Reno11 手机今日首销：天玑 8200 处理器，2499 元起](https://m.ithome.com/html/734934.htm)
 
++ [不会因 NVMe 退出舞台，SAS 接口 2027 年要成为 HDD 硬盘主流](https://m.ithome.com/html/734978.htm)
+
++ [马云前助理陈伟：马家厨房肯定不做预制菜](https://m.ithome.com/html/735006.htm)
+
++ [美国卡内基梅隆大学开设《原神》研究课程：考试要在 2 分钟内击败 BOSS](https://m.ithome.com/html/735013.htm)
+
