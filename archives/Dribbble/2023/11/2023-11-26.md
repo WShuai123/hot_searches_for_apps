@@ -49,3 +49,25 @@
 
 + [Solarius UI-UX](https://dribbble.com/shots/)
 
++ [York Knights](https://dribbble.com/shots/)
+
++ [E-learning Mobile App - Teacher Dashboard](https://dribbble.com/shots/)
+
++ [PG Wodehouse Map](https://dribbble.com/shots/)
+
++ [Vivid world under the sea](https://dribbble.com/shots/)
+
++ [Fox eating sushi emoji ????????](https://dribbble.com/shots/)
+
++ [Dove podcast](https://dribbble.com/shots/)
+
++ [ToyJoy Website Product Page](https://dribbble.com/shots/)
+
++ [Discarded Draft](https://dribbble.com/shots/)
+
++ [Nuvo Invest || Finance App](https://dribbble.com/shots/)
+
++ [Getpay-Finance Web](https://dribbble.com/shots/)
+
++ [Generative Ai](https://dribbble.com/shots/)
+
