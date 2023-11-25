@@ -43,3 +43,5 @@
 
 + [小米 Redmi K70 系列手机延保、碎屏保服务上架，129 元起](https://m.ithome.com/html/734911.htm)
 
++ [消息称小米将推出竖向小折叠手机，整体设计偏方正硬朗](https://m.ithome.com/html/734849.htm)
+

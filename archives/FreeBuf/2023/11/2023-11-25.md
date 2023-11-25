@@ -53,3 +53,5 @@
 
 + [渗透测试之linux提权技术梳理](https://www.freebuf.com/articles/system/382491.html)
 
++ [Dynmx：一款功能强大的基于签名的恶意软件功能检测工具](https://www.freebuf.com/sectool/381727.html)
+

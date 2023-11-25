@@ -153,3 +153,11 @@
 
 + [汤姆·哈迪感谢《毒液3》剧组 确认已重新开机](https://www.3dmgame.com/news/202311/3882400.html)
 
++ [《Everwild》还活着：Rare正为项目招聘视频制作人](https://www.3dmgame.com/news/202311/3882404.html)
+
++ [《王者荣耀》“四大美女”旗袍手办开售 3D打印超逼真](https://www.3dmgame.com/news/202311/3882402.html)
+
++ [小岛秀夫盛赞网飞《蓝眼武士》：年度最佳动画！](https://www.3dmgame.com/news/202311/3882403.html)
+
++ [我国首个跨地级市核能供热工程投运 覆盖约40万人冬季清洁取暖](https://www.3dmgame.com/news/202311/3882401.html)
+
