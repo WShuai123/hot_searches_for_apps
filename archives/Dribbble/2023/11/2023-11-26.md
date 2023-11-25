@@ -71,3 +71,15 @@
 
 + [Generative Ai](https://dribbble.com/shots/)
 
++ [3D Rugby Characters](https://dribbble.com/shots/)
+
++ [Aviation mobile app](https://dribbble.com/shots/)
+
++ [ToyJoy Website Design](https://dribbble.com/shots/)
+
++ [Finance App Design](https://dribbble.com/shots/)
+
++ [Customer Service Landing page](https://dribbble.com/shots/)
+
++ [Crypto Nova Casestudy](https://dribbble.com/shots/)
+

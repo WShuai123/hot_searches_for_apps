@@ -25,3 +25,5 @@
 
 + [Interbrand 2023 全球品牌百强：苹果、微软前二，小米第 87、华为第 92](https://m.ithome.com/html/735004.htm)
 
++ [五菱首款轿车星光预售一周订单破 5000 辆：灵犀混动 + 神炼电池，9.38 万元起](https://m.ithome.com/html/735027.htm)
+
