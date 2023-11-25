@@ -83,3 +83,13 @@
 
 + [Crypto Nova Casestudy](https://dribbble.com/shots/)
 
++ [Horizons Enamel Pins + Black Friday Sale](https://dribbble.com/shots/)
+
++ [Sold Out](https://dribbble.com/shots/)
+
++ [The birth of Venus](https://dribbble.com/shots/)
+
++ [X Icon Replacement](https://dribbble.com/shots/)
+
++ [Under the mountain](https://dribbble.com/shots/)
+
