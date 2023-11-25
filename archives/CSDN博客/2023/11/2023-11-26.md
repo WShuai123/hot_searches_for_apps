@@ -101,3 +101,23 @@
 
 + [YOLOv8改进 | 2023 | FocusedLinearAttention实现有效涨点](https://blog.csdn.net/java1314777/article/details/134406160)
 
++ [人工智能：让生活更便捷、更智能——探讨人工智能在生活中的作用与挑战](https://blog.csdn.net/u014727709/article/details/134569536)
+
++ [【Spring源码】Spring Event事件](https://blog.csdn.net/p793049488/article/details/134545651)
+
++ [【网络奇缘】- 计算机网络|分层结构|ISO模型](https://blog.csdn.net/Aileenvov/article/details/134587604)
+
++ [2023 年 认证杯 小美赛 ABC题 国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/134613227)
+
++ [【2023年APMCM亚太杯C题】完整数据与解题思路](https://blog.csdn.net/Magnolia_He/article/details/134576827)
+
++ [Hadoop学习总结（MapReduce的数据去重）](https://blog.csdn.net/2202_75688394/article/details/134574630)
+
++ [微服务 BFF 架构设计](https://blog.csdn.net/weixin_44816664/article/details/134540744)
+
++ [小程序中的大道理之三--对称性和耦合问题](https://blog.csdn.net/ShawGolden/article/details/134195172)
+
++ [【程序员的自我修养01】编译流程概述](https://blog.csdn.net/xieyihua1994/article/details/134617795)
+
++ [【计算机网络】（网络层）定长掩码和变长掩码](https://blog.csdn.net/m0_65277261/article/details/134606175)
+

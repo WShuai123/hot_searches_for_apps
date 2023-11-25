@@ -101,3 +101,11 @@
 
 + [外媒评PS5平台15款画质精美的游戏 《战神》等](https://www.3dmgame.com/news/202311/3882374.html)
 
++ [侦探冒险游戏《侦探本能：永别了挚爱》面向PC公布](https://www.3dmgame.com/news/202311/3882423.html)
+
++ [《生化危机4：重制版》寂静岭服装Mod推出](https://www.3dmgame.com/news/202311/3882424.html)
+
++ [开发商在大型项目之间开发小型作品或有利于发展](https://www.3dmgame.com/news/202311/3882425.html)
+
++ [《超级马里奥RPG：重制版》赞誉宣传片公布](https://www.3dmgame.com/news/202311/3882422.html)
+
