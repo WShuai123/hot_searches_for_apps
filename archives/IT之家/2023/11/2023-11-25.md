@@ -81,3 +81,5 @@
 
 + [升级后的小黄豆，因不够传神而被网友嫌弃了](https://m.ithome.com/html/735031.htm)
 
++ [专属的“魅族味”调校，魅族 21 手机跑分曝光：配骁龙 8 Gen 3 芯片](https://m.ithome.com/html/735025.htm)
+
