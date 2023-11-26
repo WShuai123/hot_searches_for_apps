@@ -163,3 +163,9 @@
 
 + [世嘉开发者访谈 《VR战士3tb》街机回归的经纬](https://www.3dmgame.com/news/202311/3882449.html)
 
++ [区块链新游《三国志大战》运营延期 预定2024年发布](https://www.3dmgame.com/news/202311/3882455.html)
+
++ [Xbox与Meister Watches推出限量版联名腕表产品](https://www.3dmgame.com/news/202311/3882454.html)
+
++ [Bethesda周边商店推出《星空》星图主题床品](https://www.3dmgame.com/news/202311/3882453.html)
+
