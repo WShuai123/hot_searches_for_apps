@@ -123,3 +123,9 @@
 
 + [持续集成交付CICD：GitLabCI 通过trigger触发流水线](https://blog.csdn.net/cronaldo91/article/details/134604700)
 
++ [机器学习---贝叶斯网络与朴素贝叶斯](https://blog.csdn.net/weixin_43961909/article/details/134621260)
+
++ [FPGA模块——SPI协议（读写FLASH）](https://blog.csdn.net/Treasureljc/article/details/134564121)
+
++ [量子计算的发展](https://blog.csdn.net/m0_64087341/article/details/134598944)
+

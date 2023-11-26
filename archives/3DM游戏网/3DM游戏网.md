@@ -109,3 +109,7 @@
 
 + [《我推的孩子》第二季PV放出 2024年上映](https://www.3dmgame.com/news/202311/3882464.html)
 
++ [真人秀改编《幸存者：在遗弃之岛》正式发售](https://www.3dmgame.com/news/202311/3882466.html)
+
++ [低配大镖客《枪与马刺2》现已登陆任天堂Switch](https://www.3dmgame.com/news/202311/3882465.html)
+
