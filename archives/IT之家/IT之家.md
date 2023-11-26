@@ -55,3 +55,7 @@
 
 + [全球限量 8 台：帕加尼 Huayra Imola Roadster 超级跑车亮相，最大马力 850 匹](https://m.ithome.com/html/735050.htm)
 
++ [华为鸿蒙原生 App 有望再加三：百度、WPS、航班管家开始招募相关职位](https://m.ithome.com/html/735119.htm)
+
++ [罗马尼亚男子获“最多的手机收藏”吉尼斯世界纪录，共 3456 部](https://m.ithome.com/html/735062.htm)
+

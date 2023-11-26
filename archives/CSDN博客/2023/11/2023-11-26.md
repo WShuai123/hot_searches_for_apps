@@ -183,3 +183,7 @@
 
 + [【电路笔记】-快速了解电阻](https://blog.csdn.net/wujuxKkoolerter/article/details/134627043)
 
++ [适用于 Mac 和 Windows 的顶级U 盘数据恢复软件](https://blog.csdn.net/Geeker55/article/details/134625055)
+
++ [【腾讯云云上实验室】向量数据库+LangChain+LLM搭建智慧辅导系统实践](https://blog.csdn.net/air__Heaven/article/details/134611607)
+
