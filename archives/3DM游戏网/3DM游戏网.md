@@ -171,3 +171,7 @@
 
 + [iPhone Q3欧洲出货量同比下滑13% 小米排第三](https://www.3dmgame.com/news/202311/3882456.html)
 
++ [《全境封锁：中心地带》分级完成 距离发售不远了](https://www.3dmgame.com/news/202311/3882457.html)
+
++ [国外玩家请求SIE重制/复刻《声名狼藉》1和2](https://www.3dmgame.com/news/202311/3882458.html)
+

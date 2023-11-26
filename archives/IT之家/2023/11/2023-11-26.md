@@ -51,3 +51,5 @@
 
 + [小米之家零售店最新平面设计图曝光：新增汽车展区](https://m.ithome.com/html/735132.htm)
 
++ [暴雪简体中文官网恢复，可正常下载战网客户端](https://m.ithome.com/html/735124.htm)
+
