@@ -31,3 +31,7 @@
 
 + [消息称电影《泰勒・斯威夫特：时代巡演》有望 12 月在中国内地上映](https://m.ithome.com/html/735049.htm)
 
++ [阿里达摩院确认撤裁量子实验室：已将实验室及仪器设备赠予浙江大学，并向其他高校和科研机构开放](https://m.ithome.com/html/735088.htm)
+
++ [三分钟看懂 NFC](https://m.ithome.com/html/735038.htm)
+

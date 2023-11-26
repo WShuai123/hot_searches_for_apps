@@ -151,3 +151,7 @@
 
 + [对标模拟人生新作《inZOI》公布超长实机演示](https://www.3dmgame.com/news/202311/3882444.html)
 
++ [Certain Affinity工作室正与343合作开发《光环》新游](https://www.3dmgame.com/news/202311/3882447.html)
+
++ [领英简历曝光《我的世界》当前收入与月活玩家状况](https://www.3dmgame.com/news/202311/3882448.html)
+
