@@ -107,3 +107,19 @@
 
 + [TCP/IP协议、三次握手、四次挥手](https://blog.csdn.net/weixin_44606481/article/details/122044187)
 
++ [大数据可视化BI分析工具Apache Superset实现公网远程访问](https://blog.csdn.net/ks_wyf/article/details/134628229)
+
++ [聚类笔记：HDBSCAN](https://blog.csdn.net/qq_40206371/article/details/134601984)
+
++ [人力资源管理后台 === 组织架构](https://blog.csdn.net/qq_63358859/article/details/134629065)
+
++ [量子计算的世界：探索叠加态与Python编程](https://blog.csdn.net/qq_51447436/article/details/134593225)
+
++ [RPC和HTTP的区别](https://blog.csdn.net/m0_62006803/article/details/134612172)
+
++ [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/134606526)
+
++ [2016年五一杯数学建模A题购房中的数学问题解题全过程文档及程序(采光与房款)](https://blog.csdn.net/weixin_43292788/article/details/134631087)
+
++ [持续集成交付CICD：GitLabCI 通过trigger触发流水线](https://blog.csdn.net/cronaldo91/article/details/134604700)
+
