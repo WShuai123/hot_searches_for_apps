@@ -101,3 +101,11 @@
 
 + [传言称《死亡搁浅2》或将于2025年正式发售](https://www.3dmgame.com/news/202311/3882409.html)
 
++ [中国特供！RX 7900 GRE欧洲大降价 比国内还便宜](https://www.3dmgame.com/news/202311/3882461.html)
+
++ [拉瑞安发行总监：《如龙7外传》剧情系列最佳](https://www.3dmgame.com/news/202311/3882462.html)
+
++ [《漫威蜘蛛侠2》毒液配音：游戏仅采用了我录音的10%](https://www.3dmgame.com/news/202311/3882463.html)
+
++ [《我推的孩子》第二季PV放出 2024年上映](https://www.3dmgame.com/news/202311/3882464.html)
+
