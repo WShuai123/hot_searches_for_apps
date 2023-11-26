@@ -51,3 +51,5 @@
 
 + [Confluence 未授权漏洞分析（CVE-2023-22515）](https://www.freebuf.com/vuls/384543.html)
 
++ [谷歌的零信任实践BeyondCorp到底讲了啥？](https://www.freebuf.com/articles/database/378373.html)
+

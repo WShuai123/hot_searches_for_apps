@@ -141,3 +141,7 @@
 
 + [圆谷公开新作策划《女子高中生VS奥特曼》 展开新世界观](https://www.3dmgame.com/news/202311/3882441.html)
 
++ [《Soak & Splash》Steam页面上线 多人桑拿互动体验](https://www.3dmgame.com/news/202311/3882443.html)
+
++ [小米汽车上市在即：零售店全新设计图曝光](https://www.3dmgame.com/news/202311/3882442.html)
+

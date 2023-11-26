@@ -151,3 +151,9 @@
 
 + [【腾讯云云上实验室-向量数据库】用向量数据库——实现高效文本检索功能](https://blog.csdn.net/buhuisuanfa/article/details/134475846)
 
++ [解密人工智能：线性回归 | 逻辑回归 | SVM](https://blog.csdn.net/weixin_63115236/article/details/134624154)
+
++ [2016年11月10日 Go生态洞察：七年的Go语言旅程](https://blog.csdn.net/qq_44866828/article/details/134617552)
+
++ [前端vue3——html2canvas给网站截图生成宣传海报](https://blog.csdn.net/qq_38870145/article/details/134620137)
+
