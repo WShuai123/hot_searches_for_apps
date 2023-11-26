@@ -145,3 +145,9 @@
 
 + [小米汽车上市在即：零售店全新设计图曝光](https://www.3dmgame.com/news/202311/3882442.html)
 
++ [三上真司最新访谈 谈成为游戏制作人必备素质](https://www.3dmgame.com/news/202311/3882445.html)
+
++ [尾号6个9手机号拍出2614万天价 起拍价仅有100元](https://www.3dmgame.com/news/202311/3882446.html)
+
++ [对标模拟人生新作《inZOI》公布超长实机演示](https://www.3dmgame.com/news/202311/3882444.html)
+

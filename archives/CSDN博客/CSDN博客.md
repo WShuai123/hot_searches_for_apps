@@ -157,3 +157,7 @@
 
 + [前端vue3——html2canvas给网站截图生成宣传海报](https://blog.csdn.net/qq_38870145/article/details/134620137)
 
++ [pytorch分布式训练](https://blog.csdn.net/lsb2002/article/details/134622185)
+
++ [Docker容器化部署若依微服务ruoyi-cloud项目](https://blog.csdn.net/u013810234/article/details/134613312)
+

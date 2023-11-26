@@ -53,3 +53,5 @@
 
 + [谷歌的零信任实践BeyondCorp到底讲了啥？](https://www.freebuf.com/articles/database/378373.html)
 
++ [如何使用BeRoot-Windows通过Windows常见错误配置实现提权](https://www.freebuf.com/sectool/381737.html)
+
