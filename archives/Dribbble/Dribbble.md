@@ -85,3 +85,17 @@
 
 + [Zamny Branding Identity](https://dribbble.com/shots/)
 
++ [Northern Pride](https://dribbble.com/shots/)
+
++ [Logo Collection](https://dribbble.com/shots/)
+
++ [Poster for my favorite PIXIES song](https://dribbble.com/shots/)
+
++ [The Beetle Backs / Joker](https://dribbble.com/shots/)
+
++ [Kay - Fashion Website](https://dribbble.com/shots/)
+
++ [Nuvo Invest || Finance App](https://dribbble.com/shots/)
+
++ [LESSSGO™](https://dribbble.com/shots/)
+
