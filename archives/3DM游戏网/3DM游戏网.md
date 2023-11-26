@@ -175,3 +175,5 @@
 
 + [国外玩家请求SIE重制/复刻《声名狼藉》1和2](https://www.3dmgame.com/news/202311/3882458.html)
 
++ [《死亡空间：重制版》邀玩家提名“最佳原声音轨奖”](https://www.3dmgame.com/news/202311/3882459.html)
+

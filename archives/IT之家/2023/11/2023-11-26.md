@@ -53,3 +53,5 @@
 
 + [暴雪简体中文官网恢复，可正常下载战网客户端](https://m.ithome.com/html/735124.htm)
 
++ [全球限量 8 台：帕加尼 Huayra Imola Roadster 超级跑车亮相，最大马力 850 匹](https://m.ithome.com/html/735050.htm)
+

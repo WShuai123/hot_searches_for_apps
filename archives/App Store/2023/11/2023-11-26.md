@@ -213,3 +213,5 @@
 
 + [58同城-二手车招聘找工作家政租房大平台](https://itunes.apple.com/cn/app/id480079300?mt=8)
 
++ [ChatGadget-官方中文版AI人工智能](https://itunes.apple.com/cn/app/id6458733127?mt=8)
+

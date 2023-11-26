@@ -181,3 +181,5 @@
 
 + [TCP/IP协议、三次握手、四次挥手](https://blog.csdn.net/weixin_44606481/article/details/122044187)
 
++ [【电路笔记】-快速了解电阻](https://blog.csdn.net/wujuxKkoolerter/article/details/134627043)
+
