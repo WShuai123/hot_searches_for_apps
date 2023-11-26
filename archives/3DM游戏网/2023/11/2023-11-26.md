@@ -133,3 +133,7 @@
 
 + [《行尸走肉》系列全15部游戏打包促销 其中包括VR版](https://www.3dmgame.com/news/202311/3882430.html)
 
++ [《方舟：生存飞升》Xbox Series X对比PC版视频](https://www.3dmgame.com/news/202311/3882438.html)
+
++ [传言称《黑道圣徒：重启版》设计思路受发行商干预](https://www.3dmgame.com/news/202311/3882439.html)
+
