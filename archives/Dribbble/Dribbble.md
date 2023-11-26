@@ -111,3 +111,11 @@
 
 + [Cherry Blossom Sweets](https://dribbble.com/shots/)
 
++ [Crypto Wallet](https://dribbble.com/shots/)
+
++ [Idea](https://dribbble.com/shots/)
+
++ [Solarius UI-UX](https://dribbble.com/shots/)
+
++ [Card CC Logo](https://dribbble.com/shots/)
+
