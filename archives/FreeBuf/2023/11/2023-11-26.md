@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 美国核研究实验室遭黑客入侵；堪萨斯州法院确认数据被盗](https://www.freebuf.com/news/384651.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/384820.html)
+
++ [大数据平台红蓝对抗 - 磨利刃，淬精兵！ | 京东云技术团队](https://www.freebuf.com/articles/database/384394.html)
+
