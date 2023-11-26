@@ -137,3 +137,9 @@
 
 + [大模型能否生成搜索引擎的未来？](https://blog.csdn.net/GZZN2019/article/details/134604878)
 
++ [【一起来学kubernetes】7、k8s中的ingress详解](https://blog.csdn.net/zhangzehai2234/article/details/134616667)
+
++ [Elasticsearch：ES|QL 查询中的元数据字段及多值字段](https://blog.csdn.net/UbuntuTouch/article/details/134611682)
+
++ [html实现我的故乡，城市介绍网站(附源码)](https://blog.csdn.net/weixin_43151418/article/details/134617864)
+

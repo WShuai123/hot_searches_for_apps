@@ -117,3 +117,19 @@
 
 + [Intel发布独显新驱动 大幅度提升《心灵杀手2》等游戏性能](https://www.3dmgame.com/news/202311/3882427.html)
 
++ [经典恋爱《你所期望的永远》重制众筹成功 开发新档位解锁](https://www.3dmgame.com/news/202311/3882437.html)
+
++ [换个角度新体验 《幽灵行动：断点》第一人称MOD发布](https://www.3dmgame.com/news/202311/3882436.html)
+
++ [复古街机风格 《超级沃顿大奖赛2》正式发售](https://www.3dmgame.com/news/202311/3882435.html)
+
++ [特斯拉新增“主动防护前罩”：降低车祸行人伤亡风险](https://www.3dmgame.com/news/202311/3882434.html)
+
++ [《星空》玩家奇葩挑战 有枪不用只用枪托攻击通关](https://www.3dmgame.com/news/202311/3882433.html)
+
++ [吉卜力风格《塞尔达传说：时之笛》完整视频欣赏](https://www.3dmgame.com/news/202311/3882432.html)
+
++ [《海贼王》动画将开启新篇章 2024年1月7日播出](https://www.3dmgame.com/news/202311/3882431.html)
+
++ [《行尸走肉》系列全15部游戏打包促销 其中包括VR版](https://www.3dmgame.com/news/202311/3882430.html)
+
