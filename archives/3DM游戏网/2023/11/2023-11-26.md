@@ -137,3 +137,7 @@
 
 + [传言称《黑道圣徒：重启版》设计思路受发行商干预](https://www.3dmgame.com/news/202311/3882439.html)
 
++ [谷歌AI鉴定美国登月照片系合成造假 普京回应有意思](https://www.3dmgame.com/news/202311/3882440.html)
+
++ [圆谷公开新作策划《女子高中生VS奥特曼》 展开新世界观](https://www.3dmgame.com/news/202311/3882441.html)
+

@@ -49,3 +49,5 @@
 
 + [Cisco IOS XE 系统 WebUI 未授权命令执行漏洞分析](https://www.freebuf.com/vuls/383694.html)
 
++ [Confluence 未授权漏洞分析（CVE-2023-22515）](https://www.freebuf.com/vuls/384543.html)
+

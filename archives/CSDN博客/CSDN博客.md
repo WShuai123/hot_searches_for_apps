@@ -147,3 +147,7 @@
 
 + [小程序中的大道理之四--单元测试](https://blog.csdn.net/ShawGolden/article/details/134195181)
 
++ [聚类笔记：HDBSCAN](https://blog.csdn.net/qq_40206371/article/details/134601984)
+
++ [【腾讯云云上实验室-向量数据库】用向量数据库——实现高效文本检索功能](https://blog.csdn.net/buhuisuanfa/article/details/134475846)
+
