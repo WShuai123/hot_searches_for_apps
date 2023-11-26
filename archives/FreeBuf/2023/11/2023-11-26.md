@@ -45,3 +45,7 @@
 
 + [大数据平台红蓝对抗 - 磨利刃，淬精兵！ | 京东云技术团队](https://www.freebuf.com/articles/database/384394.html)
 
++ [企业安全之浅谈DevSecOps](https://www.freebuf.com/articles/es/377112.html)
+
++ [Cisco IOS XE 系统 WebUI 未授权命令执行漏洞分析](https://www.freebuf.com/vuls/383694.html)
+

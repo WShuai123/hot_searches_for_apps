@@ -109,3 +109,11 @@
 
 + [《超级马里奥RPG：重制版》赞誉宣传片公布](https://www.3dmgame.com/news/202311/3882422.html)
 
++ [《地平线：西之绝境》桌游众筹开启 已经超额完成目标](https://www.3dmgame.com/news/202311/3882428.html)
+
++ [《荒野大镖客2》Steam在线峰值打破新纪录](https://www.3dmgame.com/news/202311/3882429.html)
+
++ [《寂静岭2：重制版》开发商：新细节Konami负责公开](https://www.3dmgame.com/news/202311/3882426.html)
+
++ [Intel发布独显新驱动 大幅度提升《心灵杀手2》等游戏性能](https://www.3dmgame.com/news/202311/3882427.html)
+
