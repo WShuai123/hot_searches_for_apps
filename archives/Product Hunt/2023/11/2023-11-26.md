@@ -135,3 +135,19 @@
 
 + [OpenRep](https://www.producthunt.com/posts/openrep-2)
 
++ [Browsing Word Heatmap](https://www.producthunt.com/posts/browsing-word-heatmap)
+
++ [Yep.so](https://www.producthunt.com/posts/yep-so)
+
++ [RepoList](https://www.producthunt.com/posts/repolist)
+
++ [Calq_](https://www.producthunt.com/posts/calq_)
+
++ [IP Guide](https://www.producthunt.com/posts/ip-guide)
+
++ [Combat Crafter](https://www.producthunt.com/posts/combat-crafter)
+
++ [Truth or Truth](https://www.producthunt.com/posts/truth-or-truth)
+
++ [Leadpipe](https://www.producthunt.com/posts/leadpipe-2)
+

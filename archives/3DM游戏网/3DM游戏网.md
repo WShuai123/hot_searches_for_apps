@@ -155,3 +155,11 @@
 
 + [领英简历曝光《我的世界》当前收入与月活玩家状况](https://www.3dmgame.com/news/202311/3882448.html)
 
++ [Embracer集团：裁员代价惨重，但这是一个必要的过程](https://www.3dmgame.com/news/202311/3882452.html)
+
++ [贾跃亭卖了造车工厂回租 套现8600万称不影响生产](https://www.3dmgame.com/news/202311/3882451.html)
+
++ [《战地2042》有意Steam“爱的付出”奖 邀请玩家提名](https://www.3dmgame.com/news/202311/3882450.html)
+
++ [世嘉开发者访谈 《VR战士3tb》街机回归的经纬](https://www.3dmgame.com/news/202311/3882449.html)
+

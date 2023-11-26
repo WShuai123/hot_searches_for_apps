@@ -35,3 +35,7 @@
 
 + [三分钟看懂 NFC](https://m.ithome.com/html/735038.htm)
 
++ [小米手环 8 NFC 版固件升级，新增支持苹果 iOS 电量小组件](https://m.ithome.com/html/735066.htm)
+
++ [成都警方通报“特斯拉连撞 11 车”：3 人受轻伤，驾驶员被当场控制](https://m.ithome.com/html/735102.htm)
+
