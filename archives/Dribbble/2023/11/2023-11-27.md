@@ -49,3 +49,21 @@
 
 + [Dove podcast](https://dribbble.com/shots/)
 
++ [Plazit Website](https://dribbble.com/shots/)
+
++ [3D Rugby Characters](https://dribbble.com/shots/)
+
++ [Oracle](https://dribbble.com/shots/)
+
++ [HomeHub - Smart Home Mobile App](https://dribbble.com/shots/)
+
++ [Fastest strawberry alive ????????](https://dribbble.com/shots/)
+
++ [NVO: USD-Futures](https://dribbble.com/shots/)
+
++ [60k Followers](https://dribbble.com/shots/)
+
++ [Music App Design Concept](https://dribbble.com/shots/)
+
++ [Lucyanna](https://dribbble.com/shots/)
+
