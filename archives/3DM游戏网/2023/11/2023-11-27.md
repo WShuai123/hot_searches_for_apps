@@ -185,3 +185,25 @@
 
 + [玩家为玩《GTA6》选择戒烟：害怕抽出病错过游戏](https://www.3dmgame.com/news/202311/3882502.html)
 
++ [《人中之龙8》公开新舞台夏威夷的主要区域及探索信息](https://www.3dmgame.com/news/202311/3882512.html)
+
++ [“SEGA十二月精选促销”火热进行中！低至二折](https://www.3dmgame.com/news/202311/3882513.html)
+
++ [外媒测试天玑9300 压力测试下CPU降频明显](https://www.3dmgame.com/news/202311/3882514.html)
+
++ [传Capcom 2024年没有《生化危机》重制版游戏](https://www.3dmgame.com/news/202311/3882511.html)
+
++ [人气漫改新游《搖曳莊的幽奈小姐》上架Steam 肉鸽RPG](https://www.3dmgame.com/news/202311/3882505.html)
+
++ [RTX4090禁售后充斥“海鲜市场”：基本没低于2万元](https://www.3dmgame.com/news/202311/3882506.html)
+
++ [在末日将至社区挑战中赚取合计 1000 亿 GTA 游戏币，以获得奖励](https://www.3dmgame.com/news/202311/3882507.html)
+
++ [GTAOL：在赌场故事任务、名钻赌场豪劫，及更多内容中赢取奖励](https://www.3dmgame.com/news/202311/3882508.html)
+
++ [苹果员工需要1400余年：才能挣得苹果CEO库克的年薪](https://www.3dmgame.com/news/202311/3882509.html)
+
++ [很意外：我国青年人入世越深反而越不想躺平 专家喊话躺平没意义](https://www.3dmgame.com/news/202311/3882503.html)
+
++ [暴雪解释《暗黑4》女性不穿高跟鞋原因：要有真实性](https://www.3dmgame.com/news/202311/3882504.html)
+
