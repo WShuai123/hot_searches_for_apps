@@ -101,3 +101,5 @@
 
 + [《如龙8》地图是7的三倍大 各主要地区介绍](https://www.3dmgame.com/news/202311/3882470.html)
 
++ [《战锤西格玛时代》销量不佳 开发商将发行DLC支持游戏](https://www.3dmgame.com/news/202311/3882520.html)
+

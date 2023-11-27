@@ -71,3 +71,25 @@
 
 + [Acousta Brand Identity](https://dribbble.com/shots/)
 
++ [Crypto Nova Casestudy](https://dribbble.com/shots/)
+
++ [ToyJoy Website Product Page](https://dribbble.com/shots/)
+
++ [One for the weekend](https://dribbble.com/shots/)
+
++ [Blossom UI-UX](https://dribbble.com/shots/)
+
++ [Fastest strawberry alive ????????](https://dribbble.com/shots/)
+
++ [The Beetle Backs / Joker](https://dribbble.com/shots/)
+
++ [Dove podcast](https://dribbble.com/shots/)
+
++ [EV Hub Charging App Booking React Admin UI Dashboard Template](https://dribbble.com/shots/)
+
++ [Customer Service Landing page](https://dribbble.com/shots/)
+
++ [Mr. Storm](https://dribbble.com/shots/)
+
++ [Focusing](https://dribbble.com/shots/)
+
