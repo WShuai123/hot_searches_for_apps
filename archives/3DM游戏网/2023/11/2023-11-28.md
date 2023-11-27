@@ -111,3 +111,9 @@
 
 + [《亚瑟王：骑士传说》资料片“第九军团”公布](https://www.3dmgame.com/news/202311/3882521.html)
 
++ [NCSoft新作《Project M》发布G-STAR 2023预告](https://www.3dmgame.com/news/202311/3882527.html)
+
++ [爱好者用爱发电制推出《地球冒险USA》纪录片](https://www.3dmgame.com/news/202311/3882526.html)
+
++ [《自杀小队：战胜正义联盟》新预告片揭示回旋镖队长](https://www.3dmgame.com/news/202311/3882525.html)
+

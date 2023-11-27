@@ -127,3 +127,7 @@
 
 + [案例030:基于微信小程序的英语学习交流平台](https://blog.csdn.net/2301_79727522/article/details/134633834)
 
++ [无公网IP下，如何实现公网远程访问MongoDB文件数据库](https://blog.csdn.net/qq_65596720/article/details/134648470)
+
++ [vue简述](https://blog.csdn.net/weixin_45815520/article/details/134631644)
+
