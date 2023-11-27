@@ -205,3 +205,7 @@
 
 + [https 是否真的安全,https攻击该如何防护,https可以被抓包吗？如何防止呢?](https://blog.csdn.net/a38417/article/details/134634782)
 
++ [【网安AIGC专题】46篇前沿代码大模型论文、24篇论文阅读笔记汇总](https://blog.csdn.net/wtyuong/article/details/134650727)
+
++ [Pytorch深度学习实战2-1：详细推导Xavier参数初始化(附Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/134633321)
+

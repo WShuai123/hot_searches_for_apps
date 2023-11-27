@@ -207,3 +207,7 @@
 
 + [暴雪解释《暗黑4》女性不穿高跟鞋原因：要有真实性](https://www.3dmgame.com/news/202311/3882504.html)
 
++ [《指环王：重返莫瑞亚》还将登陆PS4和Switch](https://www.3dmgame.com/news/202311/3882510.html)
+
++ [《巫火》开发商：步行模拟器的时代已经过去了](https://www.3dmgame.com/news/202311/3882515.html)
+
