@@ -43,3 +43,5 @@
 
 + [“极简版 Win11”Tiny11 更新 23H2 版本，体积继续减小 20%](https://m.ithome.com/html/735171.htm)
 
++ [一加 12 手机三款配色亮相：三种玻璃工艺后盖，类腕表设计镜头模组](https://m.ithome.com/html/735235.htm)
+

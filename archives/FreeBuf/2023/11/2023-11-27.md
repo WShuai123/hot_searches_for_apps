@@ -59,3 +59,5 @@
 
 + [恶意 Telegram 机器人Telekopye 正进行大规模网络诈骗活动](https://www.freebuf.com/news/384896.html)
 
++ [Optiva-Framework：一款功能强大的Web应用程序安全扫描工具](https://www.freebuf.com/sectool/381738.html)
+
