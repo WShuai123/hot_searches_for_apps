@@ -191,3 +191,9 @@
 
 + [2023机器人灵巧手的分类与商业化应用及未来市场规模分析报告](https://blog.csdn.net/GPT20236688/article/details/134643740)
 
++ [【docker系列】docker高阶篇](https://blog.csdn.net/qyj19920704/article/details/134635282)
+
++ [【Python数据结构与算法】--- 递归算法的应用 ---[乌龟走迷宫] |人工智能|探索扫地机器人工作原理](https://blog.csdn.net/Aileenvov/article/details/134566818)
+
++ [【开源】基于JAVA的天然气工程运维系统](https://blog.csdn.net/as230627/article/details/134642775)
+
