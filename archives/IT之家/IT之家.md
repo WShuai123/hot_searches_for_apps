@@ -49,3 +49,9 @@
 
 + [魅族 Flyme 中文 OS 名大投票活动今日开启，超一半人选“无界”](https://m.ithome.com/html/735254.htm)
 
++ [小米路由器已正式通过 Wi-Fi 7 认证，3 款产品即将升级](https://m.ithome.com/html/735263.htm)
+
++ [特斯拉要求“刹车失灵”事件女车主赔偿 500 万，将继续上诉](https://m.ithome.com/html/735258.htm)
+
++ [华为鸿蒙原生 App 有望喜加二：抖音、瑞幸开启相关岗位招聘](https://m.ithome.com/html/735170.htm)
+
