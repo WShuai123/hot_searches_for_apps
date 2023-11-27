@@ -139,3 +139,15 @@
 
 + [[计算机网络]运输层概述](https://blog.csdn.net/weixin_62697030/article/details/134599351)
 
++ [2.5 - 网络协议 - HTTP协议工作原理，报文格式，抓包实战](https://blog.csdn.net/wangyuxiang946/article/details/134245187)
+
++ [什么是好的FPGA编码风格？（3）--尽量不要使用锁存器Latch](https://blog.csdn.net/wuzhikaidetb/article/details/134607370)
+
++ [Elasticsearch：LangChain 是什么？](https://blog.csdn.net/UbuntuTouch/article/details/134634999)
+
++ [pygame加载图像，并让小球做平抛运动](https://blog.csdn.net/m0_37816922/article/details/134597872)
+
++ [31 - MySQL调优之SQL语句：如何写出高性能SQL语句？](https://blog.csdn.net/qq_34272760/article/details/134568535)
+
++ [vue简述](https://blog.csdn.net/weixin_45815520/article/details/134631644)
+

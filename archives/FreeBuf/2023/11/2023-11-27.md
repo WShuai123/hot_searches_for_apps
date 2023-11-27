@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 大量Kubernetes机密暴露；美国最大产权保险商被黑后关机断网](https://www.freebuf.com/news/384775.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

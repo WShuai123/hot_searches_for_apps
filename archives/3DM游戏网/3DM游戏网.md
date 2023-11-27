@@ -127,3 +127,21 @@
 
 + [343正在寻找新设计师来策划《光环：无限》的“铸造器”内容](https://www.3dmgame.com/news/202311/3882473.html)
 
++ [《星际公民》技术演示视频 星辰引擎无加载一镜到底](https://www.3dmgame.com/news/202311/3882482.html)
+
++ [《龙之信条2》传送石和传送水晶将回归](https://www.3dmgame.com/news/202311/3882481.html)
+
++ [《如果德川家康成为总理大臣》真人电影公开 滨边美波主演](https://www.3dmgame.com/news/202311/3882480.html)
+
++ [英国游戏贸易机构Ukie为多元化倡议活动推出Empower Up工具包](https://www.3dmgame.com/news/202311/3882479.html)
+
++ [《最后的生还者2：复刻版》新情报 肉鸽模式等介绍](https://www.3dmgame.com/news/202311/3882478.html)
+
++ [《星际战甲》开发商新作《灵甲神兵》12月首测](https://www.3dmgame.com/news/202311/3882477.html)
+
++ [东京街机游戏庆典精彩掠影 巨大汽车变形机器人亮相](https://www.3dmgame.com/news/202311/3882475.html)
+
++ [育碧波尔多聘请Rik担任首席编剧 继续开发AC系列新作](https://www.3dmgame.com/news/202311/3882474.html)
+
++ [V社在最新的CS 1.6更新中意外发布了《求生之路》早期原型](https://www.3dmgame.com/news/202311/3882476.html)
+
