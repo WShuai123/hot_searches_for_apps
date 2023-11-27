@@ -113,3 +113,13 @@
 
 + [低配大镖客《枪与马刺2》现已登陆任天堂Switch](https://www.3dmgame.com/news/202311/3882465.html)
 
++ [《龙珠战士Z》回滚代码BETA公测11月30日举行](https://www.3dmgame.com/news/202311/3882471.html)
+
++ [《如龙8》地图是7的三倍大 各主要地区介绍](https://www.3dmgame.com/news/202311/3882470.html)
+
++ [BIoober Team针对《寂静岭2重制版》发布公告](https://www.3dmgame.com/news/202311/3882469.html)
+
++ [真事改编恐怖游戏《无声频道2》12月8日正式发售](https://www.3dmgame.com/news/202311/3882468.html)
+
++ [2024款Lucid Air蓝宝石加入《极限竞速：地平线5》](https://www.3dmgame.com/news/202311/3882467.html)
+

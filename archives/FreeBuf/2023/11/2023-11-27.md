@@ -41,3 +41,5 @@
 
 + [欲更新浏览器的Mac用户请注意，AMOS又出一招新“骗术”](https://www.freebuf.com/news/384754.html)
 
++ [Gen AI数据风险加剧，数据丢失防护（DLP）供应商纷纷出手！](https://www.freebuf.com/articles/neopoints/384418.html)
+

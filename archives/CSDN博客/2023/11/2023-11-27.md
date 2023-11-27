@@ -129,3 +129,7 @@
 
 + [量子计算的发展](https://blog.csdn.net/m0_64087341/article/details/134598944)
 
++ [解密Kafka主题的分区策略：提升实时数据处理的关键](https://blog.csdn.net/guorui_java/article/details/134522836)
+
++ [flutter编译和构建鸿蒙应用程序（windows环境）](https://blog.csdn.net/weixin_39033300/article/details/134599424)
+
