@@ -25,3 +25,5 @@
 
 + [快手发招聘海报，欢迎字节朝夕光年员工入职](https://m.ithome.com/html/735341.htm)
 
++ [小米 Redmi K70 / Pro 真机曝光：背部纹理清晰可见，直角中框搭配微弧机身](https://m.ithome.com/html/735389.htm)
+

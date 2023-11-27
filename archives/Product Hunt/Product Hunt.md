@@ -101,3 +101,7 @@
 
 + [Email Emu](https://www.producthunt.com/posts/email-emu)
 
++ [Malloy](https://www.producthunt.com/posts/malloy)
+
++ [Vizme](https://www.producthunt.com/posts/vizme)
+

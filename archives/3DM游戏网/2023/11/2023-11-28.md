@@ -103,3 +103,11 @@
 
 + [《战锤西格玛时代》销量不佳 开发商将发行DLC支持游戏](https://www.3dmgame.com/news/202311/3882520.html)
 
++ [粉丝自制虚幻5《进击的巨人》免费游戏推出](https://www.3dmgame.com/news/202311/3882524.html)
+
++ [《崛起力量: 沃尼米尔》公布 全新预告片分享](https://www.3dmgame.com/news/202311/3882523.html)
+
++ [《博德之门3》补丁#5本周推出 修复持续激活盗窃Bug](https://www.3dmgame.com/news/202311/3882522.html)
+
++ [《亚瑟王：骑士传说》资料片“第九军团”公布](https://www.3dmgame.com/news/202311/3882521.html)
+
