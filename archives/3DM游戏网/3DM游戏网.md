@@ -145,3 +145,13 @@
 
 + [V社在最新的CS 1.6更新中意外发布了《求生之路》早期原型](https://www.3dmgame.com/news/202311/3882476.html)
 
++ [斯坦福大学新研究 或将实现用意念控制AI机器人](https://www.3dmgame.com/news/202311/3882486.html)
+
++ [特别好评模拟建造游戏《船舶墓地模拟器2》新DLC“战舰”上架Steam商店](https://www.3dmgame.com/news/202311/3882487.html)
+
++ [美少女生存恐怖游戏《探灵直播2》中文实体版将推出](https://www.3dmgame.com/news/202311/3882484.html)
+
++ [生存恐怖游戏《活埋：无息救援》发布新预告 12月12日推出](https://www.3dmgame.com/news/202311/3882485.html)
+
++ [《Ark of The Kosmoz》Steam页面上线 肉鸽宇宙射击](https://www.3dmgame.com/news/202311/3882483.html)
+

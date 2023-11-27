@@ -51,3 +51,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [警惕！ownCloud 文件共享程序中曝出三个严重漏洞](https://www.freebuf.com/news/384893.html)
+

@@ -213,3 +213,7 @@
 
 + [西瓜视频 - 老大夫小大夫热播](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [i茅台](https://itunes.apple.com/cn/app/id1600482450?mt=8)
+
++ [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
+
