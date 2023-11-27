@@ -55,3 +55,7 @@
 
 + [针对视觉模型的简易对抗攻击：涂鸦标签](https://www.freebuf.com/vuls/384380.html)
 
++ [数百所学校使用的应用程序泄漏未成年人数据](https://www.freebuf.com/news/384913.html)
+
++ [恶意 Telegram 机器人Telekopye 正进行大规模网络诈骗活动](https://www.freebuf.com/news/384896.html)
+

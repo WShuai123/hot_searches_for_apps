@@ -37,3 +37,9 @@
 
 + [极氪 007 实车内饰曝光：续航最高 870 公里，预售 22.99 万元起](https://m.ithome.com/html/735138.htm)
 
++ [小米 Redmi K70 Pro 手机预热：TCL 华星 2K 屏，4000nit 峰值亮度](https://m.ithome.com/html/735216.htm)
+
++ [华为长安签署投资合作备忘录，新公司开放股权引更多车企加入](https://m.ithome.com/html/735122.htm)
+
++ [“极简版 Win11”Tiny11 更新 23H2 版本，体积继续减小 20%](https://m.ithome.com/html/735171.htm)
+

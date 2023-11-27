@@ -163,3 +163,7 @@
 
 + [索尼SIE总裁：我拥有世界上最棒工作 不在乎物质财富](https://www.3dmgame.com/news/202311/3882488.html)
 
++ [1000小时的《艾尔登法环》玩家 发现“南瓜头”新连击招式](https://www.3dmgame.com/news/202311/3882493.html)
+
++ [《十三机兵防卫圈》4周年纪念 PS4/NS版半价促销](https://www.3dmgame.com/news/202311/3882492.html)
+

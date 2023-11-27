@@ -167,3 +167,13 @@
 
 + [vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？](https://blog.csdn.net/2302_76329106/article/details/134629237)
 
++ [ChatGPT初体验：注册、API Key获取与ChatAPI调用详解](https://blog.csdn.net/qq_51447436/article/details/134624252)
+
++ [SpringCloudAlibaba微服务 【实用篇】| Nacos注册中心](https://blog.csdn.net/m0_61933976/article/details/133205225)
+
++ [Linux下使用Docker部署MinIO存储服务实现远程上传](https://blog.csdn.net/2301_80092713/article/details/134639366)
+
++ [Mysql使用周期性计划任务定时备份，发现备份的文件都是空的？为什么？如何解决？](https://blog.csdn.net/liu_chen_yang/article/details/134638264)
+
++ [Python淘宝电脑销售数据爬虫可视化分析大屏全屏系统 开题报告](https://blog.csdn.net/u013818205/article/details/134575026)
+
