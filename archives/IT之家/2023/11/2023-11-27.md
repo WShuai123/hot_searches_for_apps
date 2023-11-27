@@ -55,3 +55,7 @@
 
 + [华为鸿蒙原生 App 有望喜加二：抖音、瑞幸开启相关岗位招聘](https://m.ithome.com/html/735170.htm)
 
++ [国家广电总局：IPTV 终端开机时间应不大于 35s，并显示“中国 IPTV-省份”呼号](https://m.ithome.com/html/735253.htm)
+
++ [华为首款 Wi-Fi 7 路由器 BE3 Pro 今日开启预售，1000M 网口版 399 元](https://m.ithome.com/html/735202.htm)
+
