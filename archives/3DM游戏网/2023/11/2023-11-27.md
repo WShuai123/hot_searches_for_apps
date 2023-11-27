@@ -123,3 +123,7 @@
 
 + [2024款Lucid Air蓝宝石加入《极限竞速：地平线5》](https://www.3dmgame.com/news/202311/3882467.html)
 
++ [《索尼克》世界巡演音乐会2024年2月开启 系列经典名曲](https://www.3dmgame.com/news/202311/3882472.html)
+
++ [343正在寻找新设计师来策划《光环：无限》的“铸造器”内容](https://www.3dmgame.com/news/202311/3882473.html)
+

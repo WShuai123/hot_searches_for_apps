@@ -43,3 +43,7 @@
 
 + [Gen AI数据风险加剧，数据丢失防护（DLP）供应商纷纷出手！](https://www.freebuf.com/articles/neopoints/384418.html)
 
++ [MS Exchange攻击日志分析二](https://www.freebuf.com/articles/web/384737.html)
+
++ [FreeBuf早报 | 大量Kubernetes机密暴露；美国最大产权保险商被黑后关机断网](https://www.freebuf.com/news/384775.html)
+
