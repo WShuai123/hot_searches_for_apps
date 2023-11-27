@@ -53,3 +53,5 @@
 
 + [警惕！ownCloud 文件共享程序中曝出三个严重漏洞](https://www.freebuf.com/news/384893.html)
 
++ [针对视觉模型的简易对抗攻击：涂鸦标签](https://www.freebuf.com/vuls/384380.html)
+

@@ -155,3 +155,11 @@
 
 + [《Ark of The Kosmoz》Steam页面上线 肉鸽宇宙射击](https://www.3dmgame.com/news/202311/3882483.html)
 
++ [Epic Games首席执行官表示 索尼的原因导致游戏不能降价](https://www.3dmgame.com/news/202311/3882491.html)
+
++ [ARPG新游《崛起力量：沃尼米尔》试玩发布 2024年登陆多平台](https://www.3dmgame.com/news/202311/3882489.html)
+
++ [特斯拉海外推出“超充站拥堵费”：每分钟7块钱](https://www.3dmgame.com/news/202311/3882490.html)
+
++ [索尼SIE总裁：我拥有世界上最棒工作 不在乎物质财富](https://www.3dmgame.com/news/202311/3882488.html)
+

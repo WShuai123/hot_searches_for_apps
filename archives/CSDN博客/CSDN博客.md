@@ -161,3 +161,9 @@
 
 + [2016年五一杯数学建模B题能源总量控制下的城市工业企业协调发展问题解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/134632341)
 
++ [ChatGPT进阶：提示工程的神秘面纱与实战指南](https://blog.csdn.net/qq_32682301/article/details/134634768)
+
++ [【腾讯云云上实验室】探索向量数据库背后的安全监控机制](https://blog.csdn.net/qq_53123067/article/details/134469967)
+
++ [vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？](https://blog.csdn.net/2302_76329106/article/details/134629237)
+
