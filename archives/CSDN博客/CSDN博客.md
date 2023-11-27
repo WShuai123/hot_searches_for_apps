@@ -107,3 +107,23 @@
 
 + [HCIP中期实验](https://blog.csdn.net/m0_61802503/article/details/134615745)
 
++ [如何使用Java支付宝沙箱环境并公网调用sdk创建支付单服](https://blog.csdn.net/ljq_up/article/details/134644186)
+
++ [王者荣耀java版](https://blog.csdn.net/2302_76552038/article/details/134633063)
+
++ [TCP/IP协议、三次握手、四次挥手](https://blog.csdn.net/weixin_44606481/article/details/122044187)
+
++ [文生视频的发展史及其原理解析：从Gen2、Emu Video到SVD、PixelDance](https://blog.csdn.net/v_JULY_v/article/details/134655535)
+
++ [南邮计算机学习指北(2)](https://blog.csdn.net/qq_51507718/article/details/134626477)
+
++ [https 是否真的安全,https攻击该如何防护,https可以被抓包吗？如何防止呢?](https://blog.csdn.net/a38417/article/details/134634782)
+
++ [MATLAB的rvctools工具箱熟悉运动学【机械臂机器人示例】](https://blog.csdn.net/weixin_41896770/article/details/134652957)
+
++ [Java远程连接本地开源分布式搜索引擎ElasticSearch](https://blog.csdn.net/m0_69984273/article/details/134654883)
+
++ [HTTP报文长度管理：实际应用与最佳实践](https://blog.csdn.net/tieqiaoshaonian/article/details/134630521)
+
++ [案例030:基于微信小程序的英语学习交流平台](https://blog.csdn.net/2301_79727522/article/details/134633834)
+
