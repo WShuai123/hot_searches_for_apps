@@ -61,3 +61,5 @@
 
 + [Optiva-Framework：一款功能强大的Web应用程序安全扫描工具](https://www.freebuf.com/sectool/381738.html)
 
++ [全球巨头通用电气疑被黑客入侵开发环境，泄露美国军事机密](https://www.freebuf.com/articles/384955.html)
+

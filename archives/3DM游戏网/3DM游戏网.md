@@ -171,3 +171,5 @@
 
 + [特摄动画《古利特宇宙》联名香水仅古利特款售罄 三位女角色联名却货源充足](https://www.3dmgame.com/news/202311/3882494.html)
 
++ [MAPPA原创动画《BUCCHIGIRI?!》公布主要预告 制作阵容等公开](https://www.3dmgame.com/news/202311/3882496.html)
+
