@@ -209,3 +209,7 @@
 
 + [Pytorch深度学习实战2-1：详细推导Xavier参数初始化(附Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/134633321)
 
++ [中南大学2021级云计算复习笔记](https://blog.csdn.net/moqi997752/article/details/134632735)
+
++ [机器人制作开源方案 | 网球自动拾取机](https://blog.csdn.net/Robotway/article/details/134628891)
+

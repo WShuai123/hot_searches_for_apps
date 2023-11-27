@@ -211,3 +211,5 @@
 
 + [《巫火》开发商：步行模拟器的时代已经过去了](https://www.3dmgame.com/news/202311/3882515.html)
 
++ [育碧喜加一：《刺客信条：枭雄》免费领](https://www.3dmgame.com/news/202311/3882516.html)
+
