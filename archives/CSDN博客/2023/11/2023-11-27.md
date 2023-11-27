@@ -185,3 +185,9 @@
 
 + [​使用PotPlayer播放器查看软解和硬解4K高清视频时的CPU及GPU占用情况​](https://blog.csdn.net/chenlycly/article/details/134637464)
 
++ [本地Nginx服务搭建结合内网穿透实现多个Windows Web站点公网访问](https://blog.csdn.net/Tiam_cr/article/details/134642615)
+
++ [软件开发中的抓大放小vs极致细节思维](https://blog.csdn.net/xindoo/article/details/134621373)
+
++ [2023机器人灵巧手的分类与商业化应用及未来市场规模分析报告](https://blog.csdn.net/GPT20236688/article/details/134643740)
+

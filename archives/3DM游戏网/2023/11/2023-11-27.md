@@ -173,3 +173,11 @@
 
 + [MAPPA原创动画《BUCCHIGIRI?!》公布主要预告 制作阵容等公开](https://www.3dmgame.com/news/202311/3882496.html)
 
++ [暴雪创始人谈暴雪傲慢的教训 新作或与《哈迪斯》类似](https://www.3dmgame.com/news/202311/3882500.html)
+
++ [Nexon游戏广告古怪手势引发舆论歧视抗议 官方致歉](https://www.3dmgame.com/news/202311/3882499.html)
+
++ [好评游戏低至2折 蒸汽平台秋季特卖进行时](https://www.3dmgame.com/news/202311/3882498.html)
+
++ [官方预告：韩国年轻人数量预计将减少一半 只能大力推行人工智能](https://www.3dmgame.com/news/202311/3882497.html)
+
