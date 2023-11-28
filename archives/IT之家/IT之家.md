@@ -67,3 +67,7 @@
 
 + [华为 MatePad Pro 11 英寸 2024 款平板发布：首发双向卫星通信，4299 元起](https://m.ithome.com/html/735589.htm)
 
++ [小米 Redmi K70 浅茄紫、竹月蓝配色公布：陶瓷质感机身，彩色金属中框](https://m.ithome.com/html/735587.htm)
+
++ [TrollStore 巨魔 2 正式发布，支持苹果 iOS 16-17 部分版本设备部署 IPA 软件](https://m.ithome.com/html/735507.htm)
+

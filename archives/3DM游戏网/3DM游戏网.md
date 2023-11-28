@@ -259,3 +259,5 @@
 
 + [2023哥谭奖获奖名单揭晓 《过往人生》获最佳影片](https://www.3dmgame.com/news/202311/3882599.html)
 
++ [《DOTA2》LGD和AR战队公布新赛季阵容](https://www.3dmgame.com/news/202311/3882600.html)
+

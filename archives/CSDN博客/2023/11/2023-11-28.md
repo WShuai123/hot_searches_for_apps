@@ -207,3 +207,7 @@
 
 + [使用 SwiftUI 创建一个灵活的选择器](https://blog.csdn.net/qq_36478920/article/details/134671825)
 
++ [【机器视觉技术】：开创人工智能新时代](https://blog.csdn.net/a1657054242/article/details/134653020)
+
++ [云计算——ACA学习 阿里云云计算服务概述](https://blog.csdn.net/yj11290301/article/details/134392253)
+
