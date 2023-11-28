@@ -47,3 +47,27 @@
 
 + [ZocDoc - eHealth PMR Healthcare Solutions](https://dribbble.com/shots/)
 
++ [Maestro Renewable Energy logo design: conductor hand green leaf](https://dribbble.com/shots/)
+
++ [Card CC Logo](https://dribbble.com/shots/)
+
++ [Alternative Concept for Natomic](https://dribbble.com/shots/)
+
++ [Nuvo Invest || Finance App](https://dribbble.com/shots/)
+
++ [Modular Website](https://dribbble.com/shots/)
+
++ [ToyJoy Website Product Page](https://dribbble.com/shots/)
+
++ [Hogwarts Express Tutorial](https://dribbble.com/shots/)
+
++ [Fastest strawberry alive ????????](https://dribbble.com/shots/)
+
++ [Eco Oil Company Website](https://dribbble.com/shots/)
+
++ ["Gm" - Daily vector art](https://dribbble.com/shots/)
+
++ [Focusing](https://dribbble.com/shots/)
+
++ [Cub Studio Xmas Special](https://dribbble.com/shots/)
+
