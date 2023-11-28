@@ -103,3 +103,7 @@
 
 + [玩家自制《艾尔登法环》血源风MOD 在PC上体验《血源》](https://www.3dmgame.com/news/202311/3882605.html)
 
++ [《龙之信条2》PC版配置需求公布 最低需要1070](https://www.3dmgame.com/news/202311/3882607.html)
+
++ [《龙之信条2》正式公布发售日期/预告片/豪华版](https://www.3dmgame.com/news/202311/3882606.html)
+

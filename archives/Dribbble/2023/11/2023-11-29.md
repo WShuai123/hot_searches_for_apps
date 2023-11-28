@@ -113,3 +113,7 @@
 
 + [digital nomad](https://dribbble.com/shots/)
 
++ [Icons & Assets](https://dribbble.com/shots/)
+
++ [Affinity icon](https://dribbble.com/shots/)
+
