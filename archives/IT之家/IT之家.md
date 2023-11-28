@@ -27,3 +27,5 @@
 
 + [小米 Redmi K70 / Pro 真机曝光：背部纹理清晰可见，直角中框搭配微弧机身](https://m.ithome.com/html/735389.htm)
 
++ [特斯拉回应成都连撞 11 车事故：车辆碰撞后制动系统管路受损，无法正常制动](https://m.ithome.com/html/735371.htm)
+

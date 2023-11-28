@@ -41,3 +41,7 @@
 
 + [Dynmx：一款功能强大的基于签名的恶意软件功能检测工具](https://www.freebuf.com/sectool/381727.html)
 
++ [FreeBuf早报 | 美国核反应堆实验室遭黑客攻击；微软推出全新赏金计划](https://www.freebuf.com/news/384911.html)
+
++ [苹果OTA更新的噩梦：绕过签名验证和内核任意代码执行](https://www.freebuf.com/vuls/383032.html)
+

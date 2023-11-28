@@ -117,3 +117,9 @@
 
 + [《自杀小队：战胜正义联盟》新预告片揭示回旋镖队长](https://www.3dmgame.com/news/202311/3882525.html)
 
++ [字节跳动向外媒确认重组游戏业务 数百名员工恐受影响](https://www.3dmgame.com/news/202311/3882530.html)
+
++ [《命运2》新资料片“终焉之形”跳票到2024年6月](https://www.3dmgame.com/news/202311/3882529.html)
+
++ [动画版《当哒当》发布预告 将于2024年开播](https://www.3dmgame.com/news/202311/3882528.html)
+

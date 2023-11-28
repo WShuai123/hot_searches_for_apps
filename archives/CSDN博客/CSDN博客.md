@@ -131,3 +131,7 @@
 
 + [vue简述](https://blog.csdn.net/weixin_45815520/article/details/134631644)
 
++ [★数据库建表优化](https://blog.csdn.net/qq_51941912/article/details/134650240)
+
++ [python：傅里叶分析，傅里叶变换 FFT](https://blog.csdn.net/belldeep/article/details/134619584)
+
