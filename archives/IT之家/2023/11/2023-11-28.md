@@ -45,3 +45,7 @@
 
 + [一加 12 手机预热：全球首发内存基因重组 2.0，提供 24GB+1TB 版本](https://m.ithome.com/html/735304.htm)
 
++ [龙芯 3A6000 国产桌面处理器发布：四核 2.5GHz，对标英特尔 10 代酷睿](https://m.ithome.com/html/735469.htm)
+
++ [广电总局：有线电视终端系统默认设置应为“开机进入全屏直播”](https://m.ithome.com/html/735333.htm)
+

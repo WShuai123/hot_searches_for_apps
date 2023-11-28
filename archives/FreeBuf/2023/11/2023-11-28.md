@@ -59,3 +59,5 @@
 
 + [如何使用m4ngl3m3基于字符串列表生成常见密码模式](https://www.freebuf.com/sectool/382035.html)
 
++ [发现滴滴崩了的人，太惨了](https://www.freebuf.com/news/385050.html)
+

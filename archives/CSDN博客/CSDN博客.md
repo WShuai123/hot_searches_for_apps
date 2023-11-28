@@ -177,3 +177,5 @@
 
 + [有一种浪漫，叫接触Linux](https://blog.csdn.net/weixin_41904238/article/details/132044183)
 
++ [人工智能与供应链行业融合：预测算法的通用化与实战化](https://blog.csdn.net/Why_does_it_work/article/details/134651878)
+
