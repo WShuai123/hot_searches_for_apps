@@ -189,3 +189,7 @@
 
 + [《地下城追踪者》steam游戏测试  PVEVP地下城探索](https://www.3dmgame.com/news/202311/3882561.html)
 
++ [VR机甲肉鸽《Mecha Force》明年全球发行 新增中文支持](https://www.3dmgame.com/news/202311/3882563.html)
+
++ [Switch在线游戏《F-ZERO 99》11月29日追加新模式功能](https://www.3dmgame.com/news/202311/3882565.html)
+

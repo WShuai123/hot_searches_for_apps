@@ -165,3 +165,9 @@
 
 + [说说过量 tcp pure ack 的利弊](https://blog.csdn.net/dog250/article/details/134649784)
 
++ [AI超级个体：ChatGPT与AIGC实战指南](https://blog.csdn.net/m0_68662723/article/details/134650505)
+
++ [OpenVINO异步Stable Diffusion推理优化方案](https://blog.csdn.net/m0_68089732/article/details/134662033)
+
++ [探秘网络通信：UDP与TCP/IP的奥秘](https://blog.csdn.net/Mrxiao_bo/article/details/134650683)
+

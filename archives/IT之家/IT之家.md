@@ -41,3 +41,7 @@
 
 + [奥迪全新一代国产“A4L”内饰图曝光，首次搭载副驾屏](https://m.ithome.com/html/735305.htm)
 
++ [代号“笙”，小米平板 7 Pro 规格曝光：10 英寸屏幕、骁龙 8 Gen 2 芯片](https://m.ithome.com/html/735477.htm)
+
++ [一加 12 手机预热：全球首发内存基因重组 2.0，提供 24GB+1TB 版本](https://m.ithome.com/html/735304.htm)
+
