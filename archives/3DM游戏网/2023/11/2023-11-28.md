@@ -249,3 +249,5 @@
 
 + [《生化危机：代号维罗妮卡》重制版爆料 可操控新角色](https://www.3dmgame.com/news/202311/3882590.html)
 
++ [传闻华为正在开发Apple Vision Pro竞品 将配备旗舰级SoC](https://www.3dmgame.com/news/202311/3882595.html)
+

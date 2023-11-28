@@ -51,3 +51,37 @@
 
 + [angular / angular](https://github.com/angular/angular)
 
++ [atomicals / atomicals-js](https://github.com/atomicals/atomicals-js)
+
++ [opa334 / TrollStore](https://github.com/opa334/TrollStore)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [BurntSushi / ripgrep](https://github.com/BurntSushi/ripgrep)
+
++ [Ftindy / IPTV-URL](https://github.com/Ftindy/IPTV-URL)
+
++ [yairm210 / Unciv](https://github.com/yairm210/Unciv)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [biomejs / biome](https://github.com/biomejs/biome)
+
++ [udlbook / udlbook](https://github.com/udlbook/udlbook)
+
++ [nlohmann / json](https://github.com/nlohmann/json)
+
++ [Ma-Lab-Berkeley / CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)
+
++ [ShinoKana / multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene)
+
++ [goniszewski / grimoire](https://github.com/goniszewski/grimoire)
+
++ [zennomi / Seg-Mirror](https://github.com/zennomi/Seg-Mirror)
+
++ [googleapis / google-api-php-client](https://github.com/googleapis/google-api-php-client)
+
++ [grpc-ecosystem / grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
