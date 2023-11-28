@@ -145,3 +145,23 @@
 
 + [《洛基》编剧将编写《复仇者联盟》5和6](https://www.3dmgame.com/news/202311/3882531.html)
 
++ [独立FPS《部落》系列最新作线上对战测试截图公开](https://www.3dmgame.com/news/202311/3882551.html)
+
++ [《Last Train Home》最新预告 今日正式发售](https://www.3dmgame.com/news/202311/3882547.html)
+
++ [饭野贤治去世10周年纪念活动12月16日举行 知名游戏制作人参加](https://www.3dmgame.com/news/202311/3882550.html)
+
++ [小岛秀夫吐槽35年前的《掠夺者》开发经历 累到胃溃疡](https://www.3dmgame.com/news/202311/3882549.html)
+
++ [《超级猫咪模拟器》上架Steam 魔法喵探索神秘岛](https://www.3dmgame.com/news/202311/3882548.html)
+
++ [《GTA6》首部预告将发布 R星向业内人士发布宣传邮件](https://www.3dmgame.com/news/202311/3882546.html)
+
++ [互动式电影《琉璃烟火》Steam页面 明年发售](https://www.3dmgame.com/news/202311/3882543.html)
+
++ [《HASTE: Broken Worlds》Steam页面上线 高速肉鸽战斗冒险](https://www.3dmgame.com/news/202311/3882545.html)
+
++ [应对PS新掌机缺货 外媒编辑将罗技G Cloud改造成替代品](https://www.3dmgame.com/news/202311/3882544.html)
+
++ [字节切割游戏业务 《漫威SNAP》保证将“继续运营”](https://www.3dmgame.com/news/202311/3882542.html)
+

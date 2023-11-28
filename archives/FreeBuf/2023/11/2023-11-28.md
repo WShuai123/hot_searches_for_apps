@@ -47,3 +47,5 @@
 
 + [以真实渗透视角剖析等级保护要求的防御能力](https://www.freebuf.com/articles/network/384613.html)
 
++ [日本主要通讯应用Line遭攻击，数十万用户面临数据泄露风险](https://www.freebuf.com/news/385035.html)
+
