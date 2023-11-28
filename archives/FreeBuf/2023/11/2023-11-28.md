@@ -53,3 +53,5 @@
 
 + [BlackCat又下“黑手”！医疗保健巨头Henry Schein 35TB数据被窃](https://www.freebuf.com/news/385030.html)
 
++ [内网渗透测试 | Kerberos协议及其部分攻击手法](https://www.freebuf.com/articles/network/384457.html)
+

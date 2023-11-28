@@ -175,3 +175,17 @@
 
 + [《甜蜜家园》第二季深入直击预告 12月1日正式播出](https://www.3dmgame.com/news/202311/3882552.html)
 
++ [随着《战锤西格玛时代》的失败 Frontier预估今年亏损900万英镑](https://www.3dmgame.com/news/202311/3882562.html)
+
++ [快手发招聘海报 欢迎字节游戏员工入职：最懂你的还是我](https://www.3dmgame.com/news/202311/3882564.html)
+
++ [《玩具熊的午夜后宫》电影打破更多票房记录](https://www.3dmgame.com/news/202311/3882557.html)
+
++ [沐瞳CEO袁菁回应出售传闻：公司继续独立运营](https://www.3dmgame.com/news/202311/3882558.html)
+
++ [克里斯·埃文斯讨论美队回归传闻：第一次听说不是没可能](https://www.3dmgame.com/news/202311/3882559.html)
+
++ [《燕云十六声》拥有30小时单人剧情 欲打破3A既定标准](https://www.3dmgame.com/news/202311/3882560.html)
+
++ [《地下城追踪者》steam游戏测试  PVEVP地下城探索](https://www.3dmgame.com/news/202311/3882561.html)
+

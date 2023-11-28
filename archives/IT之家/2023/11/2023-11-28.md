@@ -35,3 +35,9 @@
 
 + [长安福特蒙迪欧混动版 11 月 30 日上市，搭载 1.5T 混动系统](https://m.ithome.com/html/735284.htm)
 
++ [育碧“黑五”喜加一：《刺客信条：枭雄》游戏限时免费领取](https://m.ithome.com/html/735392.htm)
+
++ [降频版麒麟 9000S 处理器跑分曝光，华为 MatePad Pro 11 2024 款首发](https://m.ithome.com/html/735455.htm)
+
++ [奥迪全新一代国产“A4L”内饰图曝光，首次搭载副驾屏](https://m.ithome.com/html/735305.htm)
+
