@@ -81,3 +81,19 @@
 
 + [Mindy Health Care Branding](https://dribbble.com/shots/)
 
++ [Floral godess illustration](https://dribbble.com/shots/)
+
++ [X Icon Replacement](https://dribbble.com/shots/)
+
++ [Dashboard UI](https://dribbble.com/shots/)
+
++ [Aviation mobile app](https://dribbble.com/shots/)
+
++ [EV Hub Charging App Booking React Admin UI Dashboard Template](https://dribbble.com/shots/)
+
++ [Football Quiz App](https://dribbble.com/shots/)
+
++ [Alaska Gear Lab](https://dribbble.com/shots/)
+
++ [EV Charger Landing page](https://dribbble.com/shots/)
+
