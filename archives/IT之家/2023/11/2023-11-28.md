@@ -49,3 +49,7 @@
 
 + [广电总局：有线电视终端系统默认设置应为“开机进入全屏直播”](https://m.ithome.com/html/735333.htm)
 
++ [比尔盖茨：GPT-5 不会比 GPT-4 好多少，生成式 AI 已达到极限](https://m.ithome.com/html/735336.htm)
+
++ [高德地图发布安卓版 13.06.1：红绿灯双灯读秒、自动帮找停车场上线](https://m.ithome.com/html/735390.htm)
+

@@ -221,3 +221,19 @@
 
 + [前开发者揭秘R星被取消游戏幕后：均为历代GTA让路](https://www.3dmgame.com/news/202311/3882575.html)
 
++ [EA新专利让玩家能为游戏角色配音 你想给谁配音？](https://www.3dmgame.com/news/202311/3882588.html)
+
++ [《黑神话：悟空》位居Epic愿望单排行榜首位 太期待了](https://www.3dmgame.com/news/202311/3882583.html)
+
++ [亚马逊正在试验新芯片：或能解决量子计算关键问题](https://www.3dmgame.com/news/202311/3882587.html)
+
++ [全年龄向恋爱题材作品《月白星斗》Steam页面 明年发售](https://www.3dmgame.com/news/202311/3882586.html)
+
++ [贾跃亭把车卖到中东：FF 91亮相72小时狂揽300台免订金订单](https://www.3dmgame.com/news/202311/3882585.html)
+
++ [英美等企业联发《AI 系统开发指引》 称全球首份安全标准](https://www.3dmgame.com/news/202311/3882584.html)
+
++ [诺兰：好莱坞需要同时发布大片和小项目才能成功](https://www.3dmgame.com/news/202311/3882582.html)
+
++ [《如龙》制作人称主系列回合制没问题：我们很有信心](https://www.3dmgame.com/news/202311/3882581.html)
+

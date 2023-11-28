@@ -179,3 +179,5 @@
 
 + [人工智能与供应链行业融合：预测算法的通用化与实战化](https://blog.csdn.net/Why_does_it_work/article/details/134651878)
 
++ [Linux驱动开发笔记（五）：驱动连接用户层与内核层的文件操作集原理和Demo](https://blog.csdn.net/qq21497936/article/details/134561660)
+
