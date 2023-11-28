@@ -101,3 +101,5 @@
 
 + [《甜蜜家园》第二季深入直击预告 12月1日正式播出](https://www.3dmgame.com/news/202311/3882552.html)
 
++ [玩家自制《艾尔登法环》血源风MOD 在PC上体验《血源》](https://www.3dmgame.com/news/202311/3882605.html)
+
