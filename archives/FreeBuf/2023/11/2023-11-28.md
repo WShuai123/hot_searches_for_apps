@@ -61,3 +61,7 @@
 
 + [发现滴滴崩了的人，太惨了](https://www.freebuf.com/news/385050.html)
 
++ [分享一个自己APP测试遇到的抓包问题与APP登录密码加密](https://www.freebuf.com/articles/mobile/384075.html)
+
++ [滴滴崩了12小时，预计损失千万订单](https://www.freebuf.com/news/385050.html)
+
