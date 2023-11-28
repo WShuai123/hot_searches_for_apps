@@ -57,3 +57,5 @@
 
 + [乌克兰宣称成功侵入俄罗斯航空机构并盗取大量数据](https://www.freebuf.com/news/385042.html)
 
++ [如何使用m4ngl3m3基于字符串列表生成常见密码模式](https://www.freebuf.com/sectool/382035.html)
+

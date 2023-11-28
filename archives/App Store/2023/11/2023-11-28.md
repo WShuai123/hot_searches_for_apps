@@ -215,3 +215,7 @@
 
 + [智联招聘—招聘找工作求职招人软件](https://itunes.apple.com/cn/app/id488033535?mt=8)
 
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
++ [纷玩岛](https://itunes.apple.com/cn/app/id1566835977?mt=8)
+

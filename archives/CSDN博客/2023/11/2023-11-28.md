@@ -171,3 +171,9 @@
 
 + [探秘网络通信：UDP与TCP/IP的奥秘](https://blog.csdn.net/Mrxiao_bo/article/details/134650683)
 
++ [GaussDB数据库SQL系列-触发器](https://blog.csdn.net/GaussDB/article/details/134659930)
+
++ [第71讲：MySQL锁机制详解：表级锁、元数据锁和意向锁的全面解析与实践指南](https://blog.csdn.net/weixin_44953658/article/details/134659144)
+
++ [有一种浪漫，叫接触Linux](https://blog.csdn.net/weixin_41904238/article/details/132044183)
+

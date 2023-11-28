@@ -123,3 +123,5 @@
 
 + [Mackay Cutters](https://dribbble.com/shots/)
 
++ [Sphynx Cat Logo](https://dribbble.com/shots/)
+

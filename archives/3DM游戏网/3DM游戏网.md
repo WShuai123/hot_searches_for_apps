@@ -193,3 +193,19 @@
 
 + [Switch在线游戏《F-ZERO 99》11月29日追加新模式功能](https://www.3dmgame.com/news/202311/3882565.html)
 
++ [益智游戏《来自地狱的女友》Steam页面上线 明年发售](https://www.3dmgame.com/news/202311/3882574.html)
+
++ [《擅长捉弄人的高木同学》将拍真人电影 注重原创内容](https://www.3dmgame.com/news/202311/3882573.html)
+
++ [《宝可梦：朱紫》官方在线大赛2024因为出现BUG临时中止](https://www.3dmgame.com/news/202311/3882572.html)
+
++ [《蜡笔小新：新次元！超能力大决战》3DM观影圆满结束](https://www.3dmgame.com/news/202311/3882571.html)
+
++ [油管正式进军游戏：高级会员现可玩37款小游戏](https://www.3dmgame.com/news/202311/3882569.html)
+
++ [大卫爱上了露西 《赛博朋克：边缘行者》官方立体模型开放预购](https://www.3dmgame.com/news/202311/3882570.html)
+
++ [《名侦探柯南：黑铁的鱼影》内地定档 12月16日全国上映](https://www.3dmgame.com/news/202311/3882568.html)
+
++ [贝塞斯达开发者对 Steam上《星空》的负面评论做出了回应](https://www.3dmgame.com/news/202311/3882566.html)
+
