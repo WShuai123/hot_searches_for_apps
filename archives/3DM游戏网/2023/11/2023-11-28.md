@@ -239,3 +239,13 @@
 
 + [《城市：天际线2》官方Mod工具确定2024年初发布 开始招募测试者](https://www.3dmgame.com/news/202311/3882589.html)
 
++ [生存管理游戏《战地医院》确定明年1月11日上市](https://www.3dmgame.com/news/202311/3882594.html)
+
++ [顾客吐槽去海底捞看到科目三很不适：为什么会火？](https://www.3dmgame.com/news/202311/3882593.html)
+
++ [《逆水寒手游》联动《永劫无间》 季莹莹岳山皮肤加入江湖](https://www.3dmgame.com/news/202311/3882592.html)
+
++ [AMD线程撕裂者7000系列处理器上架：96核85999元](https://www.3dmgame.com/news/202311/3882591.html)
+
++ [《生化危机：代号维罗妮卡》重制版爆料 可操控新角色](https://www.3dmgame.com/news/202311/3882590.html)
+
