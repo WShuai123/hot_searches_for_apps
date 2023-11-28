@@ -45,3 +45,5 @@
 
 + [苹果OTA更新的噩梦：绕过签名验证和内核任意代码执行](https://www.freebuf.com/vuls/383032.html)
 
++ [以真实渗透视角剖析等级保护要求的防御能力](https://www.freebuf.com/articles/network/384613.html)
+

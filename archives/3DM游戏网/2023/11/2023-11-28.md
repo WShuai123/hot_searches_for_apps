@@ -123,3 +123,25 @@
 
 + [动画版《当哒当》发布预告 将于2024年开播](https://www.3dmgame.com/news/202311/3882528.html)
 
++ [赛朋风2.5D动作游戏《Quantic River》公布 登陆PC](https://www.3dmgame.com/news/202311/3882540.html)
+
++ [《暗黑破坏神4》新篝火直播12月1日举办 深入介绍屠宰场](https://www.3dmgame.com/news/202311/3882541.html)
+
++ [玩家投稿发现《马里奥RPG》与《街霸6》架招共通点引热议](https://www.3dmgame.com/news/202311/3882539.html)
+
++ [TGA2023将加强安保工作 不会再让红灵哥等有机可乘](https://www.3dmgame.com/news/202311/3882536.html)
+
++ [《旺达与幻视》衍生剧《阿加莎：混沌女巫团》公开幕后花絮特辑](https://www.3dmgame.com/news/202311/3882538.html)
+
++ [《女神异闻录３ Reload》天田乾角色PV 明年发售](https://www.3dmgame.com/news/202311/3882537.html)
+
++ [iPad Pro M2可超2K流畅运行《生化危机8》](https://www.3dmgame.com/news/202311/3882535.html)
+
++ [时代变了！今年圣诞美国孩子更想要游戏订阅而非新游戏](https://www.3dmgame.com/news/202311/3882534.html)
+
++ [《旺达与幻视》编剧已加入亚马逊《古墓丽影》电视剧团队](https://www.3dmgame.com/news/202311/3882533.html)
+
++ [《Rusty“s Retirement》Steam页面上线 放置类农场经营](https://www.3dmgame.com/news/202311/3882532.html)
+
++ [《洛基》编剧将编写《复仇者联盟》5和6](https://www.3dmgame.com/news/202311/3882531.html)
+
