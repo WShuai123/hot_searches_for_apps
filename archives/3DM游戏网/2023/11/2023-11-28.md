@@ -255,3 +255,7 @@
 
 + [《流放之路2》确认将参加PC游戏秀 展示新实机](https://www.3dmgame.com/news/202311/3882596.html)
 
++ [B社客服对《星空》Steam上的差评进行了回应](https://www.3dmgame.com/news/202311/3882598.html)
+
++ [2023哥谭奖获奖名单揭晓 《过往人生》获最佳影片](https://www.3dmgame.com/news/202311/3882599.html)
+

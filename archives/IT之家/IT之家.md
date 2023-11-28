@@ -63,3 +63,7 @@
 
 + [李想：12 月理想城市 NOA 覆盖全国高速和环线及百城，LCC 全球都能用](https://m.ithome.com/html/735626.htm)
 
++ [龙芯 3A6000 台式机、笔记本、一体机发布](https://m.ithome.com/html/735475.htm)
+
++ [华为 MatePad Pro 11 英寸 2024 款平板发布：首发双向卫星通信，4299 元起](https://m.ithome.com/html/735589.htm)
+
