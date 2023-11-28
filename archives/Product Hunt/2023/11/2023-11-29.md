@@ -105,3 +105,5 @@
 
 + [Meeting Navigator](https://www.producthunt.com/posts/meeting-navigator)
 
++ [Magnific AI](https://www.producthunt.com/posts/magnific-ai)
+
