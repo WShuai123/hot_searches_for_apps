@@ -49,3 +49,7 @@
 
 + [日本主要通讯应用Line遭攻击，数十万用户面临数据泄露风险](https://www.freebuf.com/news/385035.html)
 
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+
++ [BlackCat又下“黑手”！医疗保健巨头Henry Schein 35TB数据被窃](https://www.freebuf.com/news/385030.html)
+

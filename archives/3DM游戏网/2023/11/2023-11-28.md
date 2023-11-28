@@ -165,3 +165,13 @@
 
 + [字节切割游戏业务 《漫威SNAP》保证将“继续运营”](https://www.3dmgame.com/news/202311/3882542.html)
 
++ [中国2023年成全球最大汽车出口国 成本新技术均第一](https://www.3dmgame.com/news/202311/3882556.html)
+
++ [新一代国产CPU正式发布 无需依赖任何国外授权技术](https://www.3dmgame.com/news/202311/3882553.html)
+
++ [肉鸽FPS《塑战核心》新地图“风暴大厦”更新上线，STEAM新史低促销中](https://www.3dmgame.com/news/202311/3882555.html)
+
++ [网飞资金被导演中饱私囊 买豪车名牌投资狗狗币](https://www.3dmgame.com/news/202311/3882554.html)
+
++ [《甜蜜家园》第二季深入直击预告 12月1日正式播出](https://www.3dmgame.com/news/202311/3882552.html)
+
