@@ -61,3 +61,5 @@
 
 + [华为余承东：新公司已向“四界”发出邀请，希望一汽集团加入](https://m.ithome.com/html/735564.htm)
 
++ [李想：12 月理想城市 NOA 覆盖全国高速和环线及百城，LCC 全球都能用](https://m.ithome.com/html/735626.htm)
+

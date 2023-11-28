@@ -195,3 +195,9 @@
 
 + [前端学习系列之html](https://blog.csdn.net/qq_35056891/article/details/134624633)
 
++ [第十九届全国大学生智能汽车竞赛-竞速比赛模型组比赛细则](https://blog.csdn.net/zhuoqingjoking97298/article/details/134667660)
+
++ [如何通过内网穿透实现公网远程ssh连接kali系统](https://blog.csdn.net/qq_48652579/article/details/134664064)
+
++ [【计算机网络笔记】ARP协议](https://blog.csdn.net/m0_60511809/article/details/134545955)
+

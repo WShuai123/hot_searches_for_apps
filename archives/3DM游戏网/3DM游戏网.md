@@ -251,3 +251,7 @@
 
 + [传闻华为正在开发Apple Vision Pro竞品 将配备旗舰级SoC](https://www.3dmgame.com/news/202311/3882595.html)
 
++ [《雷神3》导演：我加入漫威宇宙是为了钱](https://www.3dmgame.com/news/202311/3882597.html)
+
++ [《流放之路2》确认将参加PC游戏秀 展示新实机](https://www.3dmgame.com/news/202311/3882596.html)
+
