@@ -101,3 +101,7 @@
 
 + [万代南梦宫投资美国初创公司Flickplay和Code Charm](https://www.3dmgame.com/news/202311/3882632.html)
 
++ [《铁拳8》全新预告 展示角色史蒂夫-福克斯](https://www.3dmgame.com/news/202311/3882687.html)
+
++ [《超越善恶》20周年纪念版官宣 明年正式发售](https://www.3dmgame.com/news/202311/3882686.html)
+

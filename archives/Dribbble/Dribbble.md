@@ -75,3 +75,17 @@
 
 + [Alaska Gear Lab](https://dribbble.com/shots/)
 
++ [Elusive Fire](https://dribbble.com/shots/)
+
++ [Holographic Social Club](https://dribbble.com/shots/)
+
++ [Sketchbook icon](https://dribbble.com/shots/)
+
++ [ToyJoy Web Design](https://dribbble.com/shots/)
+
++ [Crossway Book Cover 03](https://dribbble.com/shots/)
+
++ [Alternative Concept for Natomic](https://dribbble.com/shots/)
+
++ [Dashboard UI](https://dribbble.com/shots/)
+
