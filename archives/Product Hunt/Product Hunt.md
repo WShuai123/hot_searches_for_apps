@@ -117,3 +117,29 @@
 
 + [XCalSync](https://www.producthunt.com/posts/xcalsync)
 
++ [Docu](https://www.producthunt.com/posts/docu)
+
++ [EstimateAI](https://www.producthunt.com/posts/estimateai)
+
++ [Varroe.com](https://www.producthunt.com/posts/varroe-com)
+
++ [Memo](https://www.producthunt.com/posts/memo-10)
+
++ [neoSVG](https://www.producthunt.com/posts/neosvg)
+
++ [ORA app](https://www.producthunt.com/posts/ora-app)
+
++ [Vueform](https://www.producthunt.com/posts/vueform)
+
++ [Devtron](https://www.producthunt.com/posts/devtron)
+
++ [Manot](https://www.producthunt.com/posts/manot-2)
+
++ [Personalised Therapy by Kind Mind](https://www.producthunt.com/posts/personalised-therapy-by-kind-mind)
+
++ [DirectoryKit](https://www.producthunt.com/posts/directorykit)
+
++ [Morph 1.0](https://www.producthunt.com/posts/morph-1-0)
+
++ [Type](https://www.producthunt.com/posts/type-3)
+

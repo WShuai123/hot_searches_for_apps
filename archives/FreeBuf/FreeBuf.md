@@ -63,3 +63,5 @@
 
 + [某企业安全规划实战篇](https://www.freebuf.com/consult/379866.html)
 
++ [CIA Hive平台交叉编译环境构建及通信数据解密](https://www.freebuf.com/articles/system/384273.html)
+

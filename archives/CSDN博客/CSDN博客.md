@@ -137,3 +137,5 @@
 
 + [文生视频的发展史及其原理解析：从Gen2、Pika Labs、Emu Video到SVD、PixelDance](https://blog.csdn.net/v_JULY_v/article/details/134655535)
 
++ [文生视频的发展史及其原理解析：从Gen2、Emu Video到SVD、PixelDance、Pika 1.0](https://blog.csdn.net/v_JULY_v/article/details/134655535)
+

@@ -219,3 +219,11 @@
 
 + [育碧：杨志宏将接替Jean-Francois Vallee成为育碧上海工作室总经理](https://www.3dmgame.com/news/202311/3882651.html)
 
++ [华为新专利获授权：用车灯就能看电影](https://www.3dmgame.com/news/202311/3882667.html)
+
++ [《方舟：生存飞升》PS5版不再延期 确定11月30日发售](https://www.3dmgame.com/news/202311/3882666.html)
+
++ [Unity正式确认裁员 “公司重置”将影响3.8%员工](https://www.3dmgame.com/news/202311/3882665.html)
+
++ [《彩虹六号：围攻》年8第4季“冰封行动”官宣延期](https://www.3dmgame.com/news/202311/3882664.html)
+
