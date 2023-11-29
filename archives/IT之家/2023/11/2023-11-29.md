@@ -65,3 +65,7 @@
 
 + [滴滴出行再次致歉：初步确定事故起因在于底层系统软件发生故障，并非网传“遭受攻击”](https://m.ithome.com/html/735775.htm)
 
++ [小米卢伟冰：Redmi 研发首款产品不达标，4000 万“打了水漂”](https://m.ithome.com/html/735931.htm)
+
++ [魅族 Flyme 中文 OS 名称次轮投票结束：无界、鸿鹄等入选 8 进 4](https://m.ithome.com/html/735876.htm)
+

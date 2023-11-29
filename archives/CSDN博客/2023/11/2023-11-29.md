@@ -175,3 +175,9 @@
 
 + [基于FPGA的五子棋游戏设计](https://blog.csdn.net/baidu_34971492/article/details/134659521)
 
++ [贪心算法&策略实现](https://blog.csdn.net/m0_73530538/article/details/134582374)
+
++ [【Cisco Packet Tracer】访问 Web服务器](https://blog.csdn.net/m0_57532432/article/details/134474816)
+
++ [AMIS【部署 01】amis前端低代码框架可视化编辑器amis-editor本地部署流程](https://blog.csdn.net/weixin_39168541/article/details/134689012)
+
