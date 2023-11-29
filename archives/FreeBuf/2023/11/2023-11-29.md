@@ -53,3 +53,5 @@
 
 + [蓝牙曝底层安全漏洞，数十亿设备受影响](https://www.freebuf.com/news/385158.html)
 
++ [如何利用 Zeek 检测 Sliver HTTP C2](https://www.freebuf.com/articles/es/383592.html)
+

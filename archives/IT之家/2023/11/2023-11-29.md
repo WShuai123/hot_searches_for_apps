@@ -37,3 +37,5 @@
 
 + [华为余承东再提 AEB：放 5 段对比视频智界 S7“碾压”特斯拉汽车](https://m.ithome.com/html/735583.htm)
 
++ [售价 24.98 万元起，一文看懂华为智界 S7 四个版本区别](https://m.ithome.com/html/735644.htm)
+
