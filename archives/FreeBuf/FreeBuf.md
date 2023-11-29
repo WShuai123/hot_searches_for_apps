@@ -51,3 +51,5 @@
 
 + [全国信安标委发布《网络安全标准实践指南——网络安全产品互联互通 资产信息格式（征求意见稿）》](https://www.freebuf.com/news/385135.html)
 
++ [蓝牙曝底层安全漏洞，数十亿设备受影响](https://www.freebuf.com/news/385158.html)
+

@@ -155,3 +155,23 @@
 
 + [2023年东亚PC和手游市场规模预计将达298亿美元](https://www.3dmgame.com/news/202311/3882624.html)
 
++ [CDPR高管对《赛博朋克：边缘行者》第二季的问题发笑](https://www.3dmgame.com/news/202311/3882641.html)
+
++ [《黎明杀机》新杀手鬼娃恰吉上线 原作演员亲自配音](https://www.3dmgame.com/news/202311/3882638.html)
+
++ [电影《海王2：失落的王国》“必承其重”全新预告 12月20日发售](https://www.3dmgame.com/news/202311/3882640.html)
+
++ [《进击的巨人VR》宣布延期 2024年下半年发售](https://www.3dmgame.com/news/202311/3882639.html)
+
++ [横板卡通动作《Cookie Cutter》12月14日正式发售](https://www.3dmgame.com/news/202311/3882637.html)
+
++ [Massive Monster工作室：《咩咩启示录》明年年初更新添加成人内容](https://www.3dmgame.com/news/202311/3882636.html)
+
++ [《星际公民》迎来史上最大众筹日：一天筹到350万美元](https://www.3dmgame.com/news/202311/3882635.html)
+
++ [荒木飞吕彦出道作全新衍生漫画公开 12月19日刊载](https://www.3dmgame.com/news/202311/3882634.html)
+
++ [《红墙传奇：侦察兵合集》新发售预告 延期至2024年1月](https://www.3dmgame.com/news/202311/3882633.html)
+
++ [万代南梦宫投资美国初创公司Flickplay和Code Charm](https://www.3dmgame.com/news/202311/3882632.html)
+

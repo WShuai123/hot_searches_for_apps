@@ -127,3 +127,11 @@
 
 + [微服务--05--配置管理](https://blog.csdn.net/weixin_48052161/article/details/134677046)
 
++ [JSP+MYSQL通达物流信息平台的设计与实现](https://blog.csdn.net/shenchengyv/article/details/134656992)
+
++ [Docker | 自定义Docker镜像](https://blog.csdn.net/qq_58608526/article/details/134671157)
+
++ [【FGPA】Verilog：JK 触发器 | D 触发器 | T 触发器 | D 触发器的实现](https://blog.csdn.net/weixin_50502862/article/details/134657872)
+
++ [【SpringCloud系列】@FeignClient微服务轻舞者](https://blog.csdn.net/qyj19920704/article/details/134679445)
+
