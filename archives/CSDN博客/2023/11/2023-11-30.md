@@ -103,3 +103,9 @@
 
 + [文生视频的发展史及其原理解析：从Gen2、Emu Video到PixelDance、SVD、Pika 1.0](https://blog.csdn.net/v_JULY_v/article/details/134655535)
 
++ [Java大型智慧工地APP云平台源码带AI智能识别功能](https://blog.csdn.net/xingchenCSDN/article/details/134661059)
+
++ [Qt开发实现字幕滚动效果](https://blog.csdn.net/hw5230/article/details/134675965)
+
++ [C/C++ 发送与接收HTTP/S请求](https://blog.csdn.net/lyshark_csdn/article/details/134667652)
+
