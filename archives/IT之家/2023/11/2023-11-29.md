@@ -31,3 +31,5 @@
 
 + [问界新 M7 Max 后驱智驾版车型发布：华为 ADS 2.0 加持，28.98 万元起](https://m.ithome.com/html/735560.htm)
 
++ [魅族 21 手机背面曝光：配备 RGB 环形闪光灯，延续上代设计语言](https://m.ithome.com/html/735673.htm)
+

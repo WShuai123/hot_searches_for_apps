@@ -45,3 +45,9 @@
 
 + [防守实战 | 蜜罐反制之信息收集木马逆向分析](https://www.freebuf.com/defense/384276.html)
 
++ [数据安全生命周期学习——交换安全](https://www.freebuf.com/articles/database/384963.html)
+
++ [全国信安标委发布《网络安全标准实践指南——网络安全产品互联互通 告警信息格式》](https://www.freebuf.com/news/385140.html)
+
++ [全国信安标委发布《网络安全标准实践指南——网络安全产品互联互通 资产信息格式（征求意见稿）》](https://www.freebuf.com/news/385135.html)
+

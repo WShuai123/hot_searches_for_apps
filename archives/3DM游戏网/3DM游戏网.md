@@ -131,3 +131,27 @@
 
 + [《家园3》PC版配置需求公布 需要40GB硬盘空间](https://www.3dmgame.com/news/202311/3882608.html)
 
++ [《英灵神殿》Xbox移植开发商Fishlabs宣布裁员50人](https://www.3dmgame.com/news/202311/3882625.html)
+
++ [Take Two和2K因年货体育系列游戏中的游戏货币而被起诉](https://www.3dmgame.com/news/202311/3882626.html)
+
++ [科隆游戏展明年将举办拉美展 与巴西BIG Festival合并](https://www.3dmgame.com/news/202311/3882627.html)
+
++ [CDPR：《赛博朋克2077》真人版2024年不会有](https://www.3dmgame.com/news/202311/3882628.html)
+
++ [《Warriors of Dust》Steam页面上线 废土探索ARPG](https://www.3dmgame.com/news/202311/3882629.html)
+
++ [P社多人游戏《Stellaris Nexus》12月5日EA发售 不支持中文](https://www.3dmgame.com/news/202311/3882630.html)
+
++ [《寂静岭：飞升》官方坚称没用AI撰写游戏：你们在侮辱人](https://www.3dmgame.com/news/202311/3882631.html)
+
++ [《僵尸巴士模拟器》开启众筹 2024年Q3登陆多平台](https://www.3dmgame.com/news/202311/3882620.html)
+
++ [顽皮狗称在开发多个其他项目 或暗示新的IP](https://www.3dmgame.com/news/202311/3882621.html)
+
++ [《吸血鬼王朝》Steam页面上线 预计于明年发售](https://www.3dmgame.com/news/202311/3882622.html)
+
++ [索尼与《激战2》发行商NCsoft宣布战略合作伙伴关系](https://www.3dmgame.com/news/202311/3882623.html)
+
++ [2023年东亚PC和手游市场规模预计将达298亿美元](https://www.3dmgame.com/news/202311/3882624.html)
+
