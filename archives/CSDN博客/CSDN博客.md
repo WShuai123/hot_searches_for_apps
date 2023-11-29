@@ -135,3 +135,5 @@
 
 + [【SpringCloud系列】@FeignClient微服务轻舞者](https://blog.csdn.net/qyj19920704/article/details/134679445)
 
++ [文生视频的发展史及其原理解析：从Gen2、Pika Labs、Emu Video到SVD、PixelDance](https://blog.csdn.net/v_JULY_v/article/details/134655535)
+

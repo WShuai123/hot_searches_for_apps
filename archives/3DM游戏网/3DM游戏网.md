@@ -175,3 +175,15 @@
 
 + [万代南梦宫投资美国初创公司Flickplay和Code Charm](https://www.3dmgame.com/news/202311/3882632.html)
 
++ [长鑫存储发布多款国产LPDDR5产品：已在小米手机上完成验证](https://www.3dmgame.com/news/202311/3882643.html)
+
++ [《全境封锁2》国服今日正式免费上线 腾讯代理](https://www.3dmgame.com/news/202311/3882647.html)
+
++ [周鸿祎回应360广告多 你享受免费安全我要营利](https://www.3dmgame.com/news/202311/3882646.html)
+
++ [休闲管理冒险《熊与早餐》12月12日登陆PS主机](https://www.3dmgame.com/news/202311/3882644.html)
+
++ [玩家利用《DNF》漏洞非法敛财近1亿元 官方回应来了](https://www.3dmgame.com/news/202311/3882645.html)
+
++ [《GTA5》和《荒野大镖客2》编剧加入R星联合创始人的新工作室](https://www.3dmgame.com/news/202311/3882642.html)
+
