@@ -117,3 +117,9 @@
 
 + [Affinity icon](https://dribbble.com/shots/)
 
++ [Explore Cape Town this Summer](https://dribbble.com/shots/)
+
++ [Quincy Seltzer Label Illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [Glide](https://dribbble.com/shots/)
+

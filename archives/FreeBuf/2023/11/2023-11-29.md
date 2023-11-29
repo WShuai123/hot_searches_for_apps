@@ -41,3 +41,7 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [FreeBuf早报 | 滴滴系统崩溃；Line Messenger 确认数据泄露](https://www.freebuf.com/news/385116.html)
+
++ [防守实战 | 蜜罐反制之信息收集木马逆向分析](https://www.freebuf.com/defense/384276.html)
+
