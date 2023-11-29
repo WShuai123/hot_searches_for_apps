@@ -131,3 +131,11 @@
 
 + [Asp.net core WebApi 配置自定义swaggerUI和中文注释,Jwt Bearer配置](https://blog.csdn.net/qq_41942413/article/details/134679295)
 
++ [卷积神经网络动物检测识别系统](https://blog.csdn.net/purple_love/article/details/134672918)
+
++ [Stable Diffusion：开启AI魔法绘画的无限可能](https://blog.csdn.net/qq_44273429/article/details/134685069)
+
++ [re:Invent 云端历程：我与 2023 亚马逊云科技 re:Invent 大会](https://blog.csdn.net/feng8403000/article/details/134698880)
+
++ [本地部署Jellyfin影音服务器并实现远程访问影音库](https://blog.csdn.net/m0_73868817/article/details/134676950)
+
