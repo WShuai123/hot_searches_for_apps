@@ -109,3 +109,25 @@
 
 + [C/C++ 发送与接收HTTP/S请求](https://blog.csdn.net/lyshark_csdn/article/details/134667652)
 
++ [Elasticsearch：向量搜索 (kNN) 实施指南 - API 版](https://blog.csdn.net/UbuntuTouch/article/details/134664594)
+
++ [Linux系统---僵尸进程、孤儿进程](https://blog.csdn.net/m0_71746526/article/details/134635191)
+
++ [【AIGC】猴子拍照版权是谁的：一文读懂AIGC和版权问题](https://blog.csdn.net/giszz/article/details/134635448)
+
++ [Positive Technologies 公司发布了一种保护容器环境的产品 PT Container Security](https://blog.csdn.net/ptsecurity/article/details/134679121)
+
++ [Java远程连接本地开源分布式搜索引擎ElasticSearch](https://blog.csdn.net/m0_69984273/article/details/134654883)
+
++ [硝烟弥漫的科技战场——GPT之战](https://blog.csdn.net/weixin_41446370/article/details/134665833)
+
++ [聊聊 Jetpack Compose 原理 -- Compose 是如何将数据转换成 UI 的？](https://blog.csdn.net/pepsimaxin/article/details/134675967)
+
++ [随时随地，打开浏览器即可体验的在线PS编辑器](https://blog.csdn.net/2301_79599164/article/details/134668879)
+
++ [.NET生成微信小程序推广二维码](https://blog.csdn.net/qq_37237487/article/details/134678292)
+
++ [vue3怎么提升效率的？为什么vue3比vue2快？效率提升主要在哪些方面？](https://blog.csdn.net/Lora_0925/article/details/134671032)
+
++ [Asp.net core WebApi 配置自定义swaggerUI和中文注释,Jwt Bearer配置](https://blog.csdn.net/qq_41942413/article/details/134679295)
+

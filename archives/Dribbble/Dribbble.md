@@ -103,3 +103,7 @@
 
 + [EchoTune - AI Dashboard UX-UI design](https://dribbble.com/shots/)
 
++ [Affinity icon](https://dribbble.com/shots/)
+
++ [Endpoint Website Design](https://dribbble.com/shots/)
+
