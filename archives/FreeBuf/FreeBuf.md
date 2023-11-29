@@ -55,3 +55,5 @@
 
 + [如何利用 Zeek 检测 Sliver HTTP C2](https://www.freebuf.com/articles/es/383592.html)
 
++ [好消息！警方摧毁了攻击 71 个国家的勒索软件组织 ](https://www.freebuf.com/news/385165.html)
+
