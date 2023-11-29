@@ -235,3 +235,11 @@
 
 + [《名侦探柯南》连载30周年将举办纪念展 漫画暂停](https://www.3dmgame.com/news/202311/3882668.html)
 
++ [任天堂Switch主机售出1.32亿台 销售额超739亿美元](https://www.3dmgame.com/news/202311/3882674.html)
+
++ [太空策略《坠落边界》大幅延期至2025年 登陆PC平台](https://www.3dmgame.com/news/202311/3882675.html)
+
++ [数据：宝马5系中国车主平均年龄只有34岁 妥妥年轻有为群体](https://www.3dmgame.com/news/202311/3882673.html)
+
++ [研究证明《GTA》等游戏大大降低犯罪率 不会让人更暴力](https://www.3dmgame.com/news/202311/3882672.html)
+

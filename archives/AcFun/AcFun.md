@@ -99,3 +99,11 @@
 
 + [【翻唱】四重罪孽【茗魂独家】](http://www.acfun.cn/v/ac43088819)
 
++ [更适合Acer体质的偶像【今天有什么好笑的 #1385】](http://www.acfun.cn/v/ac43088481)
+
++ [小雪~是你的安哥拉兔兔~](http://www.acfun.cn/v/ac43080283)
+
++ [我把你当兄弟，你说你不吃牛肉？](http://www.acfun.cn/v/ac43079812)
+
++ [【小泽】校园歌手大赛的Young And Beautiful（cover Lana Del Rey）](http://www.acfun.cn/v/ac43080828)
+

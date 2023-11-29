@@ -153,3 +153,17 @@
 
 + [前端量子纠缠 效果炸裂 multipleWindow3dScene](https://blog.csdn.net/weixin_43304253/article/details/134679841)
 
++ [【SpringBoot篇】登录校验 — JWT令牌](https://blog.csdn.net/m0_72853403/article/details/134686838)
+
++ [【首次发布】华为 OD 机试 C卷抽中题库清单（真题库），目前华为OD机考以C卷为主，特殊情况会发送D卷](https://blog.csdn.net/hihell/article/details/134493296)
+
++ [Java大型智慧工地APP云平台源码带AI智能识别功能](https://blog.csdn.net/xingchenCSDN/article/details/134661059)
+
++ [【小黑嵌入式系统第十课】μC/OS-III概况——实时操作系统的特点、基本概念（内核&任务&中断）、与硬件的关系&实现](https://blog.csdn.net/Goforyouqp/article/details/134678864)
+
++ [2023网络安全产业图谱](https://blog.csdn.net/qq_33163046/article/details/134677345)
+
++ [C/C++ 发送与接收HTTP/S请求](https://blog.csdn.net/lyshark_csdn/article/details/134667652)
+
++ [Nodejs+Vue校园餐厅外卖订餐点餐系统 PHP高校食堂 微信小程序_0u4hl 多商家](https://blog.csdn.net/QQ_402205496/article/details/134673592)
+

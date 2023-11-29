@@ -53,3 +53,7 @@
 
 + [华为推出鸿蒙 HarmonyOS 后台任务管理开发指南，包含具体的使用场景、详细的开发步骤](https://m.ithome.com/html/735681.htm)
 
++ [一加 12 手机预热：全球首发 2K 东方屏，峰值亮度 4500nit](https://m.ithome.com/html/735779.htm)
+
++ [一公司为苹果 M2 MacBook Air 安装主动冷却系统，性能大幅提升](https://m.ithome.com/html/735660.htm)
+
