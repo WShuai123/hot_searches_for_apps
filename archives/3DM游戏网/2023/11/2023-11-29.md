@@ -187,3 +187,35 @@
 
 + [《GTA5》和《荒野大镖客2》编剧加入R星联合创始人的新工作室](https://www.3dmgame.com/news/202311/3882642.html)
 
++ [漫改电影《黄金神威》全新预告 明年正式发售](https://www.3dmgame.com/news/202311/3882663.html)
+
++ [《最终幻想：纷争》手游将于2024年２月29日停运 七年旅程完结](https://www.3dmgame.com/news/202311/3882662.html)
+
++ [《命运2》X《巫师》联动 释出新细节截图及创作过程](https://www.3dmgame.com/news/202311/3882661.html)
+
++ [《辐射》真人剧故事是正典 发生在《辐射4》9年后](https://www.3dmgame.com/news/202311/3882660.html)
+
++ [系列最新作《名侦探柯南：百万美元的五稜星》公开 明年4月上映](https://www.3dmgame.com/news/202311/3882659.html)
+
++ [《咒术回战》粉丝在谷歌地图中的马来西亚为七海建人建神社](https://www.3dmgame.com/news/202311/3882658.html)
+
++ [《命运2》终愿赛季开启！终焉之形DLC延期至明年6月5日](https://www.3dmgame.com/news/202311/3882657.html)
+
++ [决战何罗神!Steam特别好评roguelite游戏《暖雪》DLC“终业”12月5日发售](https://www.3dmgame.com/news/202311/3882656.html)
+
++ [《方舟生存飞升》发布超120个跨平台模组，“火鸡审判”本周开启](https://www.3dmgame.com/news/202311/3882655.html)
+
++ [《拿破仑》“兵不厌诈”特辑公布 12月1日全国上映](https://www.3dmgame.com/news/202311/3882654.html)
+
++ [周鸿祎谈360无法卸载：这是一个彻底的谣言](https://www.3dmgame.com/news/202311/3882653.html)
+
++ [黑五特惠之后 《EA FC 24》重回英国实体销量榜首](https://www.3dmgame.com/news/202311/3882652.html)
+
++ [扎导也是游戏玩家 玩《堡垒之夜》熬夜到凌晨3点](https://www.3dmgame.com/news/202311/3882648.html)
+
++ [英伟达扩大自动驾驶中国团队 由前小鹏汽车副总裁吴新宙领导](https://www.3dmgame.com/news/202311/3882649.html)
+
++ [《黎明杀机》全球玩家突破6000万 官方赠礼开启皮肤活动](https://www.3dmgame.com/news/202311/3882650.html)
+
++ [育碧：杨志宏将接替Jean-Francois Vallee成为育碧上海工作室总经理](https://www.3dmgame.com/news/202311/3882651.html)
+

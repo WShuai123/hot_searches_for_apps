@@ -57,3 +57,9 @@
 
 + [好消息！警方摧毁了攻击 71 个国家的勒索软件组织 ](https://www.freebuf.com/news/385165.html)
 
++ [WiFi-Pineapple-MK7_REST-Client：一款功能强大的WiFi安全渗透测试工具](https://www.freebuf.com/sectool/382089.html)
+
++ [漏洞盒子 x vivo SRC | 漏洞盒子「企业SRC」新住客](https://www.freebuf.com/news/385191.html)
+
++ [某企业安全规划实战篇](https://www.freebuf.com/consult/379866.html)
+
