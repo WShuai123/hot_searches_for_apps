@@ -139,3 +139,17 @@
 
 + [文生视频的发展史及其原理解析：从Gen2、Emu Video到SVD、PixelDance、Pika 1.0](https://blog.csdn.net/v_JULY_v/article/details/134655535)
 
++ [【人工智能】人工智能的技术研究与安全问题的深入讨论](https://blog.csdn.net/m0_75058342/article/details/131673810)
+
++ [GitHub 2023排名前十的最佳开源项目](https://blog.csdn.net/wo541075754/article/details/134658470)
+
++ [大数据可视化BI分析工具Apache Superset实现公网远程访问](https://blog.csdn.net/ks_wyf/article/details/134628229)
+
++ [Maven 介绍](https://blog.csdn.net/m0_73888323/article/details/134632463)
+
++ [【赠书第9期】巧用ChatGPT高效搞定Excel数据分析](https://blog.csdn.net/qq_20016593/article/details/134677893)
+
++ [亚马逊云科技 re:Invent 2023：引领科技前沿，探索未来云计算之窗](https://blog.csdn.net/dietime1943/article/details/134680660)
+
++ [前端量子纠缠 效果炸裂 multipleWindow3dScene](https://blog.csdn.net/weixin_43304253/article/details/134679841)
+

@@ -97,3 +97,5 @@
 
 + [【魔法OFF】简单爱](http://www.acfun.cn/v/ac43082697)
 
++ [【翻唱】四重罪孽【茗魂独家】](http://www.acfun.cn/v/ac43088819)
+

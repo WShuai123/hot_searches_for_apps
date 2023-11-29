@@ -143,3 +143,43 @@
 
 + [Type](https://www.producthunt.com/posts/type-3)
 
++ [IsHalal.info](https://www.producthunt.com/posts/ishalal-info)
+
++ [Mavy](https://www.producthunt.com/posts/mavy)
+
++ [Giftish](https://www.producthunt.com/posts/giftish)
+
++ [ReachOwl](https://www.producthunt.com/posts/reachowl)
+
++ [Free DALL·E 3 Avatar Generator](https://www.producthunt.com/posts/free-dall-e-3-avatar-generator)
+
++ [Swiddle](https://www.producthunt.com/posts/swiddle)
+
++ [SuperCold](https://www.producthunt.com/posts/supercold)
+
++ [AI Agents – Dream Team of GPT Assistants](https://www.producthunt.com/posts/ai-agents-dream-team-of-gpt-assistants)
+
++ [Digger](https://www.producthunt.com/posts/digger-3)
+
++ [Webbie UI](https://www.producthunt.com/posts/webbie-ui)
+
++ [HasMySecretLeaked](https://www.producthunt.com/posts/hasmysecretleaked)
+
++ [CapGen](https://www.producthunt.com/posts/capgen)
+
++ [Marketing GPTs](https://www.producthunt.com/posts/marketing-gpts)
+
++ [mern.ai](https://www.producthunt.com/posts/mern-ai)
+
++ [SafeTube](https://www.producthunt.com/posts/safetube)
+
++ [DocuWriter.ai](https://www.producthunt.com/posts/docuwriter-ai-2)
+
++ [Saaspo](https://www.producthunt.com/posts/saaspo)
+
++ [Omlete](https://www.producthunt.com/posts/omlete)
+
++ [Voxguru](https://www.producthunt.com/posts/voxguru)
+
++ [Syllaby](https://www.producthunt.com/posts/syllaby)
+

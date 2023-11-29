@@ -227,3 +227,11 @@
 
 + [《彩虹六号：围攻》年8第4季“冰封行动”官宣延期](https://www.3dmgame.com/news/202311/3882664.html)
 
++ [苹果版“余额宝”凉了 苹果提出终止与高盛合作](https://www.3dmgame.com/news/202311/3882671.html)
+
++ [前TGA评委：别太把TGA年度大奖当回事 那就是扯淡的](https://www.3dmgame.com/news/202311/3882669.html)
+
++ [《如龙8》三田村英二采访影片 明年1月26日发售](https://www.3dmgame.com/news/202311/3882670.html)
+
++ [《名侦探柯南》连载30周年将举办纪念展 漫画暂停](https://www.3dmgame.com/news/202311/3882668.html)
+
