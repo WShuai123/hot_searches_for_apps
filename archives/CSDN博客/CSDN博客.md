@@ -101,3 +101,5 @@
 
 + [python之pyqt专栏7-信号与槽3](https://blog.csdn.net/qq_34343637/article/details/134664215)
 
++ [文生视频的发展史及其原理解析：从Gen2、Emu Video到PixelDance、SVD、Pika 1.0](https://blog.csdn.net/v_JULY_v/article/details/134655535)
+

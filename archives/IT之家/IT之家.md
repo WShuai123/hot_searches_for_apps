@@ -25,3 +25,5 @@
 
 + [魅族 Flyme 中文 OS 名称次轮投票结束：无界、鸿鹄等入选 8 进 4](https://m.ithome.com/html/735876.htm)
 
++ [先人一步今天抢明天到：Redmi K70 / Pro 至高 24 期免息，赠京东 PLUS 年卡](https://m.ithome.com/html/735953.htm)
+
