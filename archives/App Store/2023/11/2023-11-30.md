@@ -201,3 +201,7 @@
 
 + [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
 
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
++ [智慧中小学-国家中小学智慧教育平台](https://itunes.apple.com/cn/app/id1497477307?mt=8)
+
