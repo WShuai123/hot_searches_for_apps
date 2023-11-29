@@ -193,3 +193,7 @@
 
 + [Avatar Generator by HeadshotPro](https://www.producthunt.com/posts/avatar-generator-by-headshotpro)
 
++ [NEX](https://www.producthunt.com/posts/nex)
+
++ [Kastro 2.0](https://www.producthunt.com/posts/kastro-2-0)
+

@@ -183,3 +183,5 @@
 
 + [在线 SQL 模拟器SQL Fiddle使用简介](https://blog.csdn.net/cnds123/article/details/134666895)
 
++ [人工智能 - 图像分类：发展历史、技术全解与实战](https://blog.csdn.net/magicyangjay111/article/details/134698103)
+
