@@ -69,3 +69,9 @@
 
 + [魅族 Flyme 中文 OS 名称次轮投票结束：无界、鸿鹄等入选 8 进 4](https://m.ithome.com/html/735876.htm)
 
++ [3299 元起，小米 Redmi K70 Pro 手机发布：骁龙 8 Gen 3，12GB 内存起步](https://m.ithome.com/html/735941.htm)
+
++ [Redmi K70 手机发布：搭载第二代骁龙 8 处理器，2499 元起](https://m.ithome.com/html/735944.htm)
+
++ [1999 元起，小米 Redmi K70E 手机发布：首发天玑 8300-Ultra，运行澎湃 OS](https://m.ithome.com/html/735949.htm)
+

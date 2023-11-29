@@ -253,3 +253,7 @@
 
 + [英伟达确认RTX 3060系列短期内不会停产](https://www.3dmgame.com/news/202311/3882680.html)
 
++ [Level-5犯罪悬疑RPG《DECAPOLICE》跳票到2024年](https://www.3dmgame.com/news/202311/3882683.html)
+
++ [Level 5《雷顿教授与蒸汽新世界》将于2025年发售](https://www.3dmgame.com/news/202311/3882682.html)
+
