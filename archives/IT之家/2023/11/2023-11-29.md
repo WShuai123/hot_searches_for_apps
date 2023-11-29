@@ -61,3 +61,7 @@
 
 + [K70 冠军版？小米官宣 Redmi x 兰博基尼汽车 SQUADRA CORSE](https://m.ithome.com/html/735754.htm)
 
++ [小米 CEO 雷军、泰康 CEO 陈东升担任中国光谷全球首席顾问](https://m.ithome.com/html/735806.htm)
+
++ [滴滴出行再次致歉：初步确定事故起因在于底层系统软件发生故障，并非网传“遭受攻击”](https://m.ithome.com/html/735775.htm)
+

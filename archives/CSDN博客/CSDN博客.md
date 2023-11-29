@@ -169,3 +169,9 @@
 
 + [python之pyqt专栏7-信号与槽3](https://blog.csdn.net/qq_34343637/article/details/134664215)
 
++ [无需部署服务器，如何结合内网穿透实现公网访问导航页工具Dashy](https://blog.csdn.net/Tiam_cr/article/details/134686343)
+
++ [Linux Nmap命令解析（Nmap指令）（功能：主机发现、ping扫描、arp扫描、端口扫描、服务版本检测、操作系统识别等）](https://blog.csdn.net/Dontla/article/details/134672951)
+
++ [基于FPGA的五子棋游戏设计](https://blog.csdn.net/baidu_34971492/article/details/134659521)
+

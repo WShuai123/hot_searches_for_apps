@@ -51,3 +51,33 @@
 
 + [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
++ [OthersideAI / self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
+
++ [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+
++ [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+
++ [NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+
++ [jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP)
+
++ [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
+
++ [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet)
+
++ [makeplane / plane](https://github.com/makeplane/plane)
+
++ [atomone-hub / genesis](https://github.com/atomone-hub/genesis)
+
++ [fastlane / fastlane](https://github.com/fastlane/fastlane)
+
++ [StanGirard / quivr](https://github.com/StanGirard/quivr)
+
++ [Azure / azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
+
++ [brianvoe / gofakeit](https://github.com/brianvoe/gofakeit)
+
++ [DrKLO / Telegram](https://github.com/DrKLO/Telegram)
+
++ [Melledy / LunarCore](https://github.com/Melledy/LunarCore)
+

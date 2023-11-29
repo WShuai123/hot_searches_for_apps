@@ -249,3 +249,7 @@
 
 + [RTX4090被下手！国人又将3080 20GB矿卡改成游戏卡](https://www.3dmgame.com/news/202311/3882676.html)
 
++ [育碧游戏《勇敢的心：回家》将登陆PC和主机平台](https://www.3dmgame.com/news/202311/3882679.html)
+
++ [英伟达确认RTX 3060系列短期内不会停产](https://www.3dmgame.com/news/202311/3882680.html)
+
