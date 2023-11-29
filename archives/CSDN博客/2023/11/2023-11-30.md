@@ -139,3 +139,13 @@
 
 + [本地部署Jellyfin影音服务器并实现远程访问影音库](https://blog.csdn.net/m0_73868817/article/details/134676950)
 
++ [HBase Java API编程实践](https://blog.csdn.net/actionbean/article/details/134654833)
+
++ [移动应用开发介绍及iOS方向学习路线（HUT移动组版）](https://blog.csdn.net/yueliangmua/article/details/134680564)
+
++ [第71讲：MySQL锁机制详解：表级锁、元数据锁和意向锁的全面解析与实践指南](https://blog.csdn.net/weixin_44953658/article/details/134659144)
+
++ [什么是好的FPGA编码风格？（3）--尽量不要使用锁存器Latch](https://blog.csdn.net/wuzhikaidetb/article/details/134607370)
+
++ [迅为iTOP-4412之Android 4.0系统编译环境的搭建（完整版）](https://blog.csdn.net/Eva20192020/article/details/134668004)
+

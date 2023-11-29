@@ -105,3 +105,7 @@
 
 + [《超越善恶》20周年纪念版官宣 明年正式发售](https://www.3dmgame.com/news/202311/3882686.html)
 
++ [《闪电十一人 英雄们的胜利之路》延期至2024年](https://www.3dmgame.com/news/202311/3882688.html)
+
++ [《百万吨级武藏W》将于2024年4月5日发售](https://www.3dmgame.com/news/202311/3882689.html)
+
