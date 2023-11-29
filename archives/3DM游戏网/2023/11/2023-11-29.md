@@ -243,3 +243,9 @@
 
 + [研究证明《GTA》等游戏大大降低犯罪率 不会让人更暴力](https://www.3dmgame.com/news/202311/3882672.html)
 
++ [四人合作冒险《舍伍德侠盗团》预购豪华版现可开始游玩](https://www.3dmgame.com/news/202311/3882678.html)
+
++ [加拿大男子中2.6亿后准时上班：直言公司离不开我](https://www.3dmgame.com/news/202311/3882677.html)
+
++ [RTX4090被下手！国人又将3080 20GB矿卡改成游戏卡](https://www.3dmgame.com/news/202311/3882676.html)
+

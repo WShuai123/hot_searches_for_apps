@@ -57,3 +57,7 @@
 
 + [一公司为苹果 M2 MacBook Air 安装主动冷却系统，性能大幅提升](https://m.ithome.com/html/735660.htm)
 
++ [巴菲特的黄金搭档、伯克希尔哈撒韦副主席查理・芒格辞世，享年 99 岁](https://m.ithome.com/html/735706.htm)
+
++ [K70 冠军版？小米官宣 Redmi x 兰博基尼汽车 SQUADRA CORSE](https://m.ithome.com/html/735754.htm)
+
