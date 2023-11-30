@@ -177,3 +177,17 @@
 
 + [The New GitBook](https://www.producthunt.com/posts/the-new-gitbook)
 
++ [Hacker News on Your Wall](https://www.producthunt.com/posts/hacker-news-on-your-wall)
+
++ [Rocketlane TV](https://www.producthunt.com/posts/rocketlane-tv)
+
++ [CGDream.ai](https://www.producthunt.com/posts/cgdream-ai)
+
++ [VoiceRec: AI Vocal Recorder](https://www.producthunt.com/posts/voicerec-ai-vocal-recorder)
+
++ [Flavorish](https://www.producthunt.com/posts/flavorish)
+
++ [Profiler](https://www.producthunt.com/posts/profiler-2)
+
++ [Midstay](https://www.producthunt.com/posts/midstay)
+

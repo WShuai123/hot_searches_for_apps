@@ -63,3 +63,7 @@
 
 + [魅族 Flyme OS 中文名定为“无界”：主打万物互联、无边无界](https://m.ithome.com/html/736121.htm)
 
++ [雷军回应小米被指没有核心技术：5G 标准专利全球前十](https://m.ithome.com/html/736210.htm)
+
++ [魅族 21 手机攻克白面板良率难题：永久命名“魅族白”，发布即开售](https://m.ithome.com/html/736133.htm)
+

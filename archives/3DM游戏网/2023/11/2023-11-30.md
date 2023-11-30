@@ -257,3 +257,7 @@
 
 + [12月Game Pass游戏泄露：《古墓丽影：崛起》《孤岛惊魂6》](https://www.3dmgame.com/news/202311/3882763.html)
 
++ [Fami通新一周销量榜 《桃太郎电铁世界》二连冠](https://www.3dmgame.com/news/202311/3882764.html)
+
++ [XGP 12月新增游戏阵容公开 《孤岛惊魂6》《古墓丽影》等](https://www.3dmgame.com/news/202311/3882765.html)
+
