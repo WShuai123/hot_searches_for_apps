@@ -55,3 +55,7 @@
 
 + [GraphQL渗透测试案例及防御办法](https://www.freebuf.com/articles/web/384344.html)
 
++ [如何使用BurpBounty快速执行主动或被动安全扫描](https://www.freebuf.com/sectool/382115.html)
+
++ [SIM卡调换黑客被判入狱 8 年，罚金 120 万美元](https://www.freebuf.com/news/385302.html)
+

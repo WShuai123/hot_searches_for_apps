@@ -191,3 +191,19 @@
 
 + [玩家发现2009年PSP版《GT赛车》秘技 初期即可全车收藏](https://www.3dmgame.com/news/202311/3882730.html)
 
++ [真正的PS5 Slim诞生 大佬动手将PS5体积缩小70%](https://www.3dmgame.com/news/202311/3882738.html)
+
++ [江苏最大共享储能电站正式并网：两小时可充电40万度](https://www.3dmgame.com/news/202311/3882737.html)
+
++ [《Tevi》登陆Steam 银河恶魔城2D横版动作冒险](https://www.3dmgame.com/news/202311/3882736.html)
+
++ [电影《刺猬索尼克3》首曝新角色暗影夏特设计](https://www.3dmgame.com/news/202311/3882735.html)
+
++ [卡通类魂游戏《九日》再次延期 2024年第一季度发行](https://www.3dmgame.com/news/202311/3882734.html)
+
++ [《最终幻想7：永恒危机》12月7日上线PC 不支持中文](https://www.3dmgame.com/news/202311/3882733.html)
+
++ [面条人全新免费关卡「水下世界」上线蒸汽平台 一起“潜入海里”](https://www.3dmgame.com/news/202311/3882732.html)
+
++ [《波兰球：编年史》 现可在亚洲任天堂Switch™数码平台上购买](https://www.3dmgame.com/news/202311/3882731.html)
+
