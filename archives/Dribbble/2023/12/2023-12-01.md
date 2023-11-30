@@ -99,3 +99,15 @@
 
 + [Apparel Design Exploration](https://dribbble.com/shots/)
 
++ [Flatfile Branding, visual identity, corporate brand design](https://dribbble.com/shots/)
+
++ [Country road](https://dribbble.com/shots/)
+
++ [Back to hill valley](https://dribbble.com/shots/)
+
++ [Jimmy the Genie](https://dribbble.com/shots/)
+
++ [dude](https://dribbble.com/shots/)
+
++ [Taste Explorers](https://dribbble.com/shots/)
+
