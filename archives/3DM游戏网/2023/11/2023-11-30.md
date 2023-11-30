@@ -175,3 +175,15 @@
 
 + [微软推出2023款丑陋毛衣 基于WinXP蓝天白云壁纸](https://www.3dmgame.com/news/202311/3882718.html)
 
++ [员工逼宫成功！OpenAI官宣奥特曼回归：重新担任CEO](https://www.3dmgame.com/news/202311/3882728.html)
+
++ [《惊天魔盗团》男主演杰西·艾森伯格：迫不及待想要拍第三部](https://www.3dmgame.com/news/202311/3882727.html)
+
++ [谷歌：明天起开始清理连续2年未活动的“休眠 Google 账号”](https://www.3dmgame.com/news/202311/3882726.html)
+
++ [《月球叛军》导演扎克·施奈德表示 仍会与艾梅柏·希尔德合作](https://www.3dmgame.com/news/202311/3882725.html)
+
++ [《遗产传奇》HD重制Steam版2024年3月发售 主机版2月发售](https://www.3dmgame.com/news/202311/3882724.html)
+
++ [黑曜石设计总监赞扬《赛博朋克》DLC销量：令人印象深刻](https://www.3dmgame.com/news/202311/3882723.html)
+

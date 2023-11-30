@@ -53,3 +53,5 @@
 
 + [美国水务局遭遇黑客攻击，系统第一时间紧急下线](https://www.freebuf.com/news/385278.html)
 
++ [GraphQL渗透测试案例及防御办法](https://www.freebuf.com/articles/web/384344.html)
+

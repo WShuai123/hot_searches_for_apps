@@ -37,3 +37,5 @@
 
 + [消息称苹果放弃自主研发 5G 调制解调器芯片](https://m.ithome.com/html/735942.htm)
 
++ [小米卢伟冰：目前仍有 120 万 Redmi K20 系列手机“钉子户”](https://m.ithome.com/html/735930.htm)
+
