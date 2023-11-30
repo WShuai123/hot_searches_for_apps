@@ -101,3 +101,9 @@
 
 + [网传任天堂Switch2明年3月公布 光追性能比PS5强](https://www.3dmgame.com/news/202311/3882715.html)
 
++ [Epic喜加一：《柔术小队》《强大的战斗联盟》免费领](https://www.3dmgame.com/news/202311/3882768.html)
+
++ [《生化危机4重制版》VR版预告 12月8日免费登陆PS5](https://www.3dmgame.com/news/202311/3882766.html)
+
++ [《终结者 : 黑暗命运 - Defiance》宣布跳票 明年2月发售](https://www.3dmgame.com/news/202311/3882767.html)
+

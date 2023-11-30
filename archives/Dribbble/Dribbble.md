@@ -47,3 +47,29 @@
 
 + [Gorilla sketch 2](https://dribbble.com/shots/)
 
++ [Halfsize Script](https://dribbble.com/shots/)
+
++ [Leucadia Alternative Logotype](https://dribbble.com/shots/)
+
++ [Featherweight Cocktails Logo](https://dribbble.com/shots/)
+
++ [Wolf Man!](https://dribbble.com/shots/)
+
++ [Frame.So Modal](https://dribbble.com/shots/)
+
++ [Up to 30% off on Semplice](https://dribbble.com/shots/)
+
++ [One Thought](https://dribbble.com/shots/)
+
++ [Pronghorn icon](https://dribbble.com/shots/)
+
++ [Zengo® — Logo Design](https://dribbble.com/shots/)
+
++ [Taylor Bowman Psychotherapy](https://dribbble.com/shots/)
+
++ [PG Wodehouse Map](https://dribbble.com/shots/)
+
++ [Jazz Hands](https://dribbble.com/shots/)
+
++ [Endpoint Website Design](https://dribbble.com/shots/)
+

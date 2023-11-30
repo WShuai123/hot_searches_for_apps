@@ -101,3 +101,9 @@
 
 + [Beep](https://www.producthunt.com/posts/beep-10)
 
++ [Sider 4.0](https://www.producthunt.com/posts/sider-4-0)
+
++ [mern.ai](https://www.producthunt.com/posts/mern-ai)
+
++ [Wizard AI](https://www.producthunt.com/posts/wizard-ai)
+
