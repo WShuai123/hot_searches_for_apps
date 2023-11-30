@@ -73,3 +73,29 @@
 
 + [Endpoint Website Design](https://dribbble.com/shots/)
 
++ [NVO: Cards](https://dribbble.com/shots/)
+
++ [Emote Health Care Branding](https://dribbble.com/shots/)
+
++ [Command+K search menu — Untitled UI](https://dribbble.com/shots/)
+
++ [Hamilton Cardinals Updates](https://dribbble.com/shots/)
+
++ [ToyJoy Brand Graphics](https://dribbble.com/shots/)
+
++ [Design for an upcoming tshirt](https://dribbble.com/shots/)
+
++ [Job Search Website UI Elements](https://dribbble.com/shots/)
+
++ [ReArt Hand drawn illustrations](https://dribbble.com/shots/)
+
++ [JBL icon](https://dribbble.com/shots/)
+
++ [Web UI](https://dribbble.com/shots/)
+
++ [Afro Girl](https://dribbble.com/shots/)
+
++ [JIWE - Jewelry Website Concept](https://dribbble.com/shots/)
+
++ [Apparel Design Exploration](https://dribbble.com/shots/)
+

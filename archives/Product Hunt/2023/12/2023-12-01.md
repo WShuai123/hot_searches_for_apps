@@ -107,3 +107,7 @@
 
 + [Wizard AI](https://www.producthunt.com/posts/wizard-ai)
 
++ [VIZ-X](https://www.producthunt.com/posts/viz-x-2)
+
++ [Pactto: Record video feedback](https://www.producthunt.com/posts/pactto-record-video-feedback)
+
