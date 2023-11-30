@@ -205,3 +205,9 @@
 
 + [我在Vscode学OpenCV 图像处理一（阈值处理、形态学操作【连通性，腐蚀和膨胀，开闭运算，礼帽和黑帽，内核】）](https://blog.csdn.net/m0_74154295/article/details/134608609)
 
++ [re:Invent 构建未来：云计算&生成式 AI 诞生科技新局面](https://blog.csdn.net/ljq_up/article/details/134689554)
+
++ [Windows系统IIS服务配置与网站搭建，结合内网穿透实现公网访问](https://blog.csdn.net/qq_25749749/article/details/134711874)
+
++ [实现校园网开机自启动部署](https://blog.csdn.net/qinjilll/article/details/134711975)
+

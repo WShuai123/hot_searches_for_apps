@@ -231,3 +231,9 @@
 
 + [剧情养成管理模拟游戏《西门立志传》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202311/3882744.html)
 
++ [一加12玩《原神》两小时几乎满帧 巅峰性能丝滑体验](https://www.3dmgame.com/news/202311/3882753.html)
+
++ [《Katana Robo: RTA》Steam页面上线 只狼向上跑酷动作](https://www.3dmgame.com/news/202311/3882752.html)
+
++ [《最终幻想7：重制版》克劳德早期女装设计图 款式还挺多](https://www.3dmgame.com/news/202311/3882751.html)
+
