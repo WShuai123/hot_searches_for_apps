@@ -43,3 +43,9 @@
 
 + [苹果 iPhone 16 / Pro 系列手机前瞻：更大显示屏、Wi-Fi 7、改善散热等](https://m.ithome.com/html/735986.htm)
 
++ [一加 12 真机上手图曝光：2K 曲面屏设计，首发 OPPO 第一代显示芯片](https://m.ithome.com/html/735962.htm)
+
++ [小米 Redmi Buds 5 Pro 耳机发布：支持深空降噪，售价 399 元起](https://m.ithome.com/html/735952.htm)
+
++ [荣耀高管回应友商跟进护眼：方向对了](https://m.ithome.com/html/736042.htm)
+

@@ -213,3 +213,9 @@
 
 + [数据挖掘实战-基于word2vec的短文本情感分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/133979382)
 
++ [在线课堂课程订购微信小程序的设计与实现（附源码 配置 文档）](https://blog.csdn.net/shenchengyv/article/details/134714298)
+
++ [FastDFS文件系统本地部署结合Nginx与内网穿透实现远程访问本地服务器](https://blog.csdn.net/bushibrnxiaohaij/article/details/134717297)
+
++ [Docker 网络使用指南](https://blog.csdn.net/m0_67906358/article/details/134713346)
+

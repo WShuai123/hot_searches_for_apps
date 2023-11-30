@@ -245,3 +245,13 @@
 
 + [英伟达特供中国市场RTX4090曝光：12999元 性能缩水](https://www.3dmgame.com/news/202311/3882756.html)
 
++ [《赛博朋克2077》2.1更新将和终极典藏版同步上线](https://www.3dmgame.com/news/202311/3882762.html)
+
++ [迪士尼反思电影口碑、票房下滑：不应传递价值观第一](https://www.3dmgame.com/news/202311/3882761.html)
+
++ [《遗迹1》和《遗迹2》现已登陆GamePass](https://www.3dmgame.com/news/202311/3882760.html)
+
++ [《燕云十六声》现已开启黄钟测试招募 仅面向PC玩家](https://www.3dmgame.com/news/202311/3882759.html)
+
++ [多年巨额投资未取得回报 苹果或放弃自研5G基带](https://www.3dmgame.com/news/202311/3882758.html)
+
