@@ -101,3 +101,21 @@
 
 + [Docker 网络使用指南](https://blog.csdn.net/m0_67906358/article/details/134713346)
 
++ [深度学习车流量统计目标跟踪](https://blog.csdn.net/purple_love/article/details/134665721)
+
++ [【Python】python天气数据抓取与数据分析（源码+论文）【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/134677241)
+
++ [Linux安全之auditd审计工具使用说明](https://blog.csdn.net/carefree2005/article/details/133813995)
+
++ [基于SpringBoot+微信小程序汽车服务系统的设计与实现](https://blog.csdn.net/mengchuan6666/article/details/134686538)
+
++ [第十九届全国大学生智能汽车竞赛-竞速比赛模型组比赛细则](https://blog.csdn.net/zhuoqingjoking97298/article/details/134667660)
+
++ [基于Python体育用品销售数据可视化分析大屏全屏系统设计与实现](https://blog.csdn.net/u013818205/article/details/134642529)
+
++ [【FGPA】Verilog：JK 触发器 | D 触发器 | T 触发器 | D 触发器的实现](https://blog.csdn.net/weixin_50502862/article/details/134657872)
+
++ [【Linux驱动开发】编译Android12源码+](https://blog.csdn.net/EAyayaya/article/details/134668556)
+
++ [大数据之 Hadoop](https://blog.csdn.net/u014755700/article/details/134690217)
+

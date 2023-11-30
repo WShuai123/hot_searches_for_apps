@@ -113,3 +113,7 @@
 
 + [Rella](https://www.producthunt.com/posts/rella-2)
 
++ [Bind AI](https://www.producthunt.com/posts/bind-ai)
+
++ [Vela Terminal](https://www.producthunt.com/posts/vela-terminal)
+
