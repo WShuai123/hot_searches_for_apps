@@ -39,3 +39,5 @@
 
 + [小米卢伟冰：目前仍有 120 万 Redmi K20 系列手机“钉子户”](https://m.ithome.com/html/735930.htm)
 
++ [魅族 21 手机发布：无界美学设计、第三代骁龙 8，售价 3399 元起](https://m.ithome.com/html/736137.htm)
+

@@ -211,3 +211,5 @@
 
 + [实现校园网开机自启动部署](https://blog.csdn.net/qinjilll/article/details/134711975)
 
++ [数据挖掘实战-基于word2vec的短文本情感分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/133979382)
+

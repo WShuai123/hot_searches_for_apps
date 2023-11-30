@@ -237,3 +237,11 @@
 
 + [《最终幻想7：重制版》克劳德早期女装设计图 款式还挺多](https://www.3dmgame.com/news/202311/3882751.html)
 
++ [周鸿祎建顶级私人电影院：200个4TB硬盘存蓝光原片](https://www.3dmgame.com/news/202311/3882757.html)
+
++ [曝暴雪与网易腾讯等大厂谈判国服回归 时间仍未落定](https://www.3dmgame.com/news/202311/3882754.html)
+
++ [百合游戏《君羽》Steam页面上线 12月15日推出](https://www.3dmgame.com/news/202311/3882755.html)
+
++ [英伟达特供中国市场RTX4090曝光：12999元 性能缩水](https://www.3dmgame.com/news/202311/3882756.html)
+
