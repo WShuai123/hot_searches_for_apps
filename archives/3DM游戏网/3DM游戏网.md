@@ -107,3 +107,7 @@
 
 + [《终结者 : 黑暗命运 - Defiance》宣布跳票 明年2月发售](https://www.3dmgame.com/news/202311/3882767.html)
 
++ [美少女功夫射击游戏《SPINE》发布预告](https://www.3dmgame.com/news/202312/3882770.html)
+
++ [大富翁玩法《鬼灭之刃》游戏确定明年4月发售](https://www.3dmgame.com/news/202312/3882769.html)
+

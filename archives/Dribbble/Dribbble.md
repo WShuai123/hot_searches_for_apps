@@ -127,3 +127,11 @@
 
 + [Watches & Jewellery](https://dribbble.com/shots/)
 
++ [Type Development](https://dribbble.com/shots/)
+
++ [Clarity - SaaS Dashboard](https://dribbble.com/shots/)
+
++ [Coffee Packaging and Branding for Driftaway: Cold Brew Box](https://dribbble.com/shots/)
+
++ [Art Investments UI-UX](https://dribbble.com/shots/)
+
