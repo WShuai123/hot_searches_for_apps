@@ -115,3 +115,31 @@
 
 + [《自杀小队：战胜正义联盟》新预告介绍死亡射手](https://www.3dmgame.com/news/202311/3882692.html)
 
++ [《名侦探柯南：百万美元的五稜星》预告 明年4月12日上映](https://www.3dmgame.com/news/202311/3882706.html)
+
++ [《巫师4》目标是超越当前的RPG 吸引更多新粉丝](https://www.3dmgame.com/news/202311/3882705.html)
+
++ [经典雷电竖屏射击《天空战记》12月7日登陆NS主机](https://www.3dmgame.com/news/202311/3882704.html)
+
++ [《宝可梦Go》的“神奥之旅”暂未发现阿尔宙斯的踪迹](https://www.3dmgame.com/news/202311/3882703.html)
+
++ [《妙探闯通关：魔鬼剧场 重制版》延期至明年春季](https://www.3dmgame.com/news/202311/3882702.html)
+
++ [《逆转裁判456 王泥喜精选集》PV3 下载版现正接受预约](https://www.3dmgame.com/news/202311/3882701.html)
+
++ [世嘉：Creative Assembly将重新专注于策略游戏](https://www.3dmgame.com/news/202311/3882700.html)
+
++ [PS Plus 12月会免游戏阵容：《冲就完事模拟器》等三款游戏](https://www.3dmgame.com/news/202311/3882699.html)
+
++ [拳头游戏宣布计划在德国建立新电竞场馆](https://www.3dmgame.com/news/202311/3882698.html)
+
++ [《Wizordum》Steam抢先体验开启 复古风魔法FPS](https://www.3dmgame.com/news/202311/3882697.html)
+
++ [CDPR发布《夜城档案》第一集夜城简史 速度观看](https://www.3dmgame.com/news/202311/3882696.html)
+
++ [《GTA：三部曲-终极版》将登陆Netflix订阅服务](https://www.3dmgame.com/news/202311/3882694.html)
+
++ [《森林之子》将于2024年2月正式发售 扩展Timmy故事](https://www.3dmgame.com/news/202311/3882695.html)
+
++ [R星创始人Dan Houser新工作室首批项目公布](https://www.3dmgame.com/news/202311/3882693.html)
+

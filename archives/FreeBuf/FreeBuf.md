@@ -45,3 +45,7 @@
 
 + [Android端SpyNote恶意软件技术层面深度剖析](https://www.freebuf.com/articles/mobile/383327.html)
 
++ [具有语义相关的对抗音频样本攻击](https://www.freebuf.com/vuls/384867.html)
+
++ [FreeBuf早报 | Group-IB启动全球扩张；黑客开始利用关键的 ownCloud 漏洞](https://www.freebuf.com/news/385216.html)
+

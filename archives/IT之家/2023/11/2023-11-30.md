@@ -31,3 +31,5 @@
 
 + [小米 Redmi Watch 4 发布：搭载澎湃 OS，支持手表跨端互联，售价 499 元](https://m.ithome.com/html/735950.htm)
 
++ [拼多多美股市值超越阿里巴巴，成为美股市值最大中概股](https://m.ithome.com/html/735969.htm)
+

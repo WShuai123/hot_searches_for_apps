@@ -149,3 +149,9 @@
 
 + [迅为iTOP-4412之Android 4.0系统编译环境的搭建（完整版）](https://blog.csdn.net/Eva20192020/article/details/134668004)
 
++ [ChatGPT到底是如何运作？](https://blog.csdn.net/Mr_HelloWorldx/article/details/134676140)
+
++ [高项备考葵花宝典-项目范围管理输入、输出、工具和技术](https://blog.csdn.net/imwucx/article/details/134671478)
+
++ [【Linux驱动开发】编译Android12源码+](https://blog.csdn.net/EAyayaya/article/details/134668556)
+
