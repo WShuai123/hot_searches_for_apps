@@ -207,3 +207,13 @@
 
 + [《波兰球：编年史》 现可在亚洲任天堂Switch™数码平台上购买](https://www.3dmgame.com/news/202311/3882731.html)
 
++ [特斯拉：离不开中国 这里的供应链是我们的生产优势](https://www.3dmgame.com/news/202311/3882743.html)
+
++ [《如龙8》海老名正孝采访影片 明年1月26日发售](https://www.3dmgame.com/news/202311/3882740.html)
+
++ [《足球经理2024》24.2大型更新现已上线](https://www.3dmgame.com/news/202311/3882742.html)
+
++ [RPG《境界战役》DLsite率先发售 稍后Steam抢测](https://www.3dmgame.com/news/202311/3882741.html)
+
++ [谷歌Play商店2023年最佳游戏 《崩坏：星穹铁道》登榜](https://www.3dmgame.com/news/202311/3882739.html)
+
