@@ -209,3 +209,7 @@
 
 + [ChatGadget-官方中文版AI人工智能4.0](https://itunes.apple.com/cn/app/id6458733127?mt=8)
 
++ [爱奇艺-一念关山全网独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
+
++ [Hay - 小鳄鱼社交平台](https://itunes.apple.com/cn/app/id1548184995?mt=8)
+

@@ -155,3 +155,15 @@
 
 + [【Linux驱动开发】编译Android12源码+](https://blog.csdn.net/EAyayaya/article/details/134668556)
 
++ [Docker + Jenkins + Nginx实现前端自动化部署](https://blog.csdn.net/qq_38951259/article/details/134552047)
+
++ [手势识别4：C/C++实现手部检测和手势识别(含源码下载)](https://blog.csdn.net/guyuealian/article/details/134690422)
+
++ [基于ora2pg迁移Oracle19C到postgreSQL14](https://blog.csdn.net/weixin_41645135/article/details/134702809)
+
++ [CSS核心功能手册：从熟悉到精通](https://blog.csdn.net/weixin_43654363/article/details/134697255)
+
++ [【Spring Boot 源码学习】BootstrapRegistryInitializer 详解](https://blog.csdn.net/u012855229/article/details/134515191)
+
++ [计算机网络 一到二章 PPT 复习](https://blog.csdn.net/m0_64799907/article/details/134356484)
+

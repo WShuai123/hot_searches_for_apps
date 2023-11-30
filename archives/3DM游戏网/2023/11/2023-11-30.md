@@ -143,3 +143,15 @@
 
 + [R星创始人Dan Houser新工作室首批项目公布](https://www.3dmgame.com/news/202311/3882693.html)
 
++ [《星露谷物语》官方音乐会公开 2024年东京公演](https://www.3dmgame.com/news/202311/3882712.html)
+
++ [像素种田游戏《桃源村日志》Steam页面上线 明年正式发售](https://www.3dmgame.com/news/202311/3882711.html)
+
++ [街机格斗增强版《斗鱼+》公布 年内登陆主机和PC](https://www.3dmgame.com/news/202311/3882708.html)
+
++ [《最后生还者2》删减关卡内容将整合到真人剧第二季里](https://www.3dmgame.com/news/202311/3882710.html)
+
++ [新一届独立游戏大会《BitSummit Drift》2024年7月19日举行](https://www.3dmgame.com/news/202311/3882709.html)
+
++ [世嘉表示《索尼克：超级巨星》销量受到马力欧的影响](https://www.3dmgame.com/news/202311/3882707.html)
+
