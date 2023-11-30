@@ -35,3 +35,5 @@
 
 + [魅族 21 白色真机上手图曝光：四等边直屏设计，明日正式发布](https://m.ithome.com/html/735959.htm)
 
++ [消息称苹果放弃自主研发 5G 调制解调器芯片](https://m.ithome.com/html/735942.htm)
+

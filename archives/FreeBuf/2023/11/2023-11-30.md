@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | Group-IB启动全球扩张；黑客开始利用关键的 ownCloud 漏洞](https://www.freebuf.com/news/385216.html)
 
++ [Black hat 大会13岁天才黑客：从Python到勒索软件](https://www.freebuf.com/news/385286.html)
+
++ [美国水务局遭遇黑客攻击，系统第一时间紧急下线](https://www.freebuf.com/news/385278.html)
+

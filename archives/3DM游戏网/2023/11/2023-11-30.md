@@ -155,3 +155,23 @@
 
 + [世嘉表示《索尼克：超级巨星》销量受到马力欧的影响](https://www.3dmgame.com/news/202311/3882707.html)
 
++ [太空狼人杀《我们之中》与《时光之帽》开发商等6家工作室同时联动](https://www.3dmgame.com/news/202311/3882719.html)
+
++ [《守望先锋》卡西迪配音：有机会愿意开发一款游戏](https://www.3dmgame.com/news/202311/3882720.html)
+
++ [《泰迪熊》电视剧正式预告 1月11日播出](https://www.3dmgame.com/news/202311/3882721.html)
+
++ [马斯克认为人工智能比核弹更危险 该对AI实施监管](https://www.3dmgame.com/news/202311/3882722.html)
+
++ [《怪物猎人：崛起》中的索尼克联动将在明年1月下架](https://www.3dmgame.com/news/202311/3882713.html)
+
++ [类魂动作《病态：艾尔之王》新增主机版 PC试玩12月推出](https://www.3dmgame.com/news/202311/3882714.html)
+
++ [网传任天堂Switch2明年3月公布 光追性能比PS5强](https://www.3dmgame.com/news/202311/3882715.html)
+
++ [怪兽大片《哥斯拉大战金刚2》首曝海报 4月12日北美上映](https://www.3dmgame.com/news/202311/3882716.html)
+
++ [Switch在线两款新游上线 N64版《黄金眼007》可在线对战](https://www.3dmgame.com/news/202311/3882717.html)
+
++ [微软推出2023款丑陋毛衣 基于WinXP蓝天白云壁纸](https://www.3dmgame.com/news/202311/3882718.html)
+
