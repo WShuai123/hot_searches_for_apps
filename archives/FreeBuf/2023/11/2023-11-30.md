@@ -59,3 +59,7 @@
 
 + [SIM卡调换黑客被判入狱 8 年，罚金 120 万美元](https://www.freebuf.com/news/385302.html)
 
++ [针对视觉模型的简易对抗攻击：涂鸦标签](https://www.freebuf.com/vuls/384380.html)
+
++ [今日CSO：吹哨人还是离职者](https://www.freebuf.com/articles/neopoints/385259.html)
+

@@ -217,3 +217,17 @@
 
 + [谷歌Play商店2023年最佳游戏 《崩坏：星穹铁道》登榜](https://www.3dmgame.com/news/202311/3882739.html)
 
++ [《最后生还者2》复刻版与原版对比视频 改进不太明显](https://www.3dmgame.com/news/202311/3882745.html)
+
++ [雷军：捐款13亿是为了让中国出现更多的华为小米比亚迪](https://www.3dmgame.com/news/202311/3882746.html)
+
++ [宁德时代“滑板底盘”续航破一千公里 明年开始量产](https://www.3dmgame.com/news/202311/3882747.html)
+
++ [次世代动作RPG《流放之路2》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202311/3882748.html)
+
++ [动视暴雪原本有计划推出自家安卓手游商店](https://www.3dmgame.com/news/202311/3882749.html)
+
++ [腾讯手游《和平精英》能骑马了：吃草回血 机动性强](https://www.3dmgame.com/news/202311/3882750.html)
+
++ [剧情养成管理模拟游戏《西门立志传》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202311/3882744.html)
+
