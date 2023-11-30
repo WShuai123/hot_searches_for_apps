@@ -49,3 +49,17 @@
 
 + [荣耀高管回应友商跟进护眼：方向对了](https://m.ithome.com/html/736042.htm)
 
++ [消息称英伟达正在为中国玩家准备 RTX 4090 D(ragon)显卡](https://m.ithome.com/html/735994.htm)
+
++ [魅族官宣正式进军汽车市场：首款车型 MEIZU DreamCar MX 由用户深度参与定制，购买魅族 21 可全款抵扣](https://m.ithome.com/html/736142.htm)
+
++ [华为 nova 12 Ultra 手机通过 3C 质量认证，支持 100W 快充](https://m.ithome.com/html/736022.htm)
+
++ [小米 Redmi A75 2024 电视预售：75 英寸 4K 120Hz，2999 元](https://m.ithome.com/html/735977.htm)
+
++ [英国 10 岁男孩请愿苹果重新设计“书呆子脸”Emoji](https://m.ithome.com/html/735979.htm)
+
++ [努比亚 Z60 Ultra 手机官宣 12 月发布，“真全面，真的很全面”](https://m.ithome.com/html/736015.htm)
+
++ [魅族 Flyme OS 中文名定为“无界”：主打万物互联、无边无界](https://m.ithome.com/html/736121.htm)
+

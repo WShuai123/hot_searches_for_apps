@@ -255,3 +255,5 @@
 
 + [多年巨额投资未取得回报 苹果或放弃自研5G基带](https://www.3dmgame.com/news/202311/3882758.html)
 
++ [12月Game Pass游戏泄露：《古墓丽影：崛起》《孤岛惊魂6》](https://www.3dmgame.com/news/202311/3882763.html)
+
