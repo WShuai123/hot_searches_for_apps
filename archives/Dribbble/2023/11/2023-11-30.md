@@ -145,3 +145,13 @@
 
 + [Jimmy the Genie](https://dribbble.com/shots/)
 
++ [Taylor Bowman Psychotherapy](https://dribbble.com/shots/)
+
++ [Asynchronous Video Meetings](https://dribbble.com/shots/)
+
++ [ReArt Hand drawn illustrations](https://dribbble.com/shots/)
+
++ [Love, courage, and pride!](https://dribbble.com/shots/)
+
++ [Zengo® — Logo Design](https://dribbble.com/shots/)
+

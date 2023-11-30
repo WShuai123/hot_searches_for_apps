@@ -113,3 +113,11 @@
 
 + [萌宠集合，这才是猛男该看的！ 第三百三十八期](http://www.acfun.cn/v/ac43091623)
 
++ [是谁打开了水龙头？也太爆汁了吧！](http://www.acfun.cn/v/ac43099886)
+
++ [“美式截停”还得靠火箭筒？！【红白机N合一】](http://www.acfun.cn/v/ac43097570)
+
++ [羊蝎子，冬日里能驱走寒冷](http://www.acfun.cn/v/ac43098465)
+
++ [竖屏 shake it](http://www.acfun.cn/v/ac43091641)
+

@@ -51,3 +51,29 @@
 
 + [Melledy / LunarCore](https://github.com/Melledy/LunarCore)
 
++ [federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
++ [epfLLM / meditron](https://github.com/epfLLM/meditron)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [openai / openai-python](https://github.com/openai/openai-python)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [straight-tamago / misaka](https://github.com/straight-tamago/misaka)
+
++ [roboflow / multimodal-maestro](https://github.com/roboflow/multimodal-maestro)
+
++ [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT)
+
++ [ascoders / weekly](https://github.com/ascoders/weekly)
+
