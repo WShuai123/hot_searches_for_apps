@@ -187,3 +187,7 @@
 
 + [黑曜石设计总监赞扬《赛博朋克》DLC销量：令人印象深刻](https://www.3dmgame.com/news/202311/3882723.html)
 
++ [《名侦探柯南》30周年 官方推出小兰和柯南发型发箍](https://www.3dmgame.com/news/202311/3882729.html)
+
++ [玩家发现2009年PSP版《GT赛车》秘技 初期即可全车收藏](https://www.3dmgame.com/news/202311/3882730.html)
+

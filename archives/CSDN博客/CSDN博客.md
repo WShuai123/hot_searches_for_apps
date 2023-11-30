@@ -179,3 +179,9 @@
 
 + [深入理解网络阻塞 I/O：BIO](https://blog.csdn.net/vnjohn/article/details/134623506)
 
++ [【Springboot系列】SpringBoot整合Jpa](https://blog.csdn.net/jinxinxin1314/article/details/134702470)
+
++ [项目demo —— GPT 聊天机器人](https://blog.csdn.net/wxc971231/article/details/134642363)
+
++ [接口测试之测试原则、测试用例、测试流程......](https://blog.csdn.net/2301_78843735/article/details/134691015)
+
