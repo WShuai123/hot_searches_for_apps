@@ -27,3 +27,7 @@
 
 + [先人一步今天抢明天到：Redmi K70 / Pro 至高 24 期免息，赠京东 PLUS 年卡](https://m.ithome.com/html/735953.htm)
 
++ [小米 Redmi Book 14/16 2024 笔记本发布，售价 4199 元起](https://m.ithome.com/html/735954.htm)
+
++ [小米 Redmi Watch 4 发布：搭载澎湃 OS，支持手表跨端互联，售价 499 元](https://m.ithome.com/html/735950.htm)
+

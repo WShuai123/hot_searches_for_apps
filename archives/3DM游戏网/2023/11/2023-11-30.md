@@ -109,3 +109,9 @@
 
 + [《百万吨级武藏W》将于2024年4月5日发售](https://www.3dmgame.com/news/202311/3882689.html)
 
++ [Switch RPG《幻想生活i》确定2024年夏季上市](https://www.3dmgame.com/news/202311/3882690.html)
+
++ [本周Fami通评分：现代战争3不敌DQ怪兽篇3](https://www.3dmgame.com/news/202311/3882691.html)
+
++ [《自杀小队：战胜正义联盟》新预告介绍死亡射手](https://www.3dmgame.com/news/202311/3882692.html)
+
