@@ -49,3 +49,11 @@
 
 + [消息称英伟达 RTX 4090 D 中国特供显卡采用 AD102-250 GPU](https://m.ithome.com/html/736249.htm)
 
++ [老将真能打：苹果 Apple Music 中国大陆年度最热歌曲 TOP 100 公布，周杰伦包揽前 15](https://m.ithome.com/html/736239.htm)
+
++ [小米 Redmi K60 至尊版手机推送澎湃 OS 正式版内测更新](https://m.ithome.com/html/736342.htm)
+
++ [QQ9 前瞻版本上线：QQ NT 8.9.96.13525 测试版采用全新启动页，适配荣耀推送服务 Honor Push](https://m.ithome.com/html/736271.htm)
+
++ [联名兰博基尼，小米王腾透露 Redmi K70 Pro 冠军版手机元旦前后开售](https://m.ithome.com/html/736247.htm)
+

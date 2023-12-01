@@ -119,3 +119,5 @@
 
 + [大数据之 Hadoop](https://blog.csdn.net/u014755700/article/details/134690217)
 
++ [亚马逊云科技 re:Invent 2023：科技前沿风向标，探索未来云计算之窗](https://blog.csdn.net/dietime1943/article/details/134680660)
+

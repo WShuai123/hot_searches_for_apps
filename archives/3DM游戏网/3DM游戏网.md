@@ -241,3 +241,23 @@
 
 + [《暗黑破坏神4》计划明年第4赛季改善刷装备体验](https://www.3dmgame.com/news/202312/3882832.html)
 
++ [双倍 GTA 游戏币和声望值尽在颠覆计划任务](https://www.3dmgame.com/news/202312/3882845.html)
+
++ [全新的 GTA 在线模式内容更新将于今年 12 月推出](https://www.3dmgame.com/news/202312/3882844.html)
+
++ [RTX4090D中国特供版内核首曝：售价12999元买不买](https://www.3dmgame.com/news/202312/3882843.html)
+
++ [《中国奇谭》衍生动画电影《小妖怪的夏天》已备案 同意拍摄](https://www.3dmgame.com/news/202312/3882842.html)
+
++ [KK对战平台一大波年末爆款好图来袭！次元少女与你并肩作战！](https://www.3dmgame.com/news/202312/3882841.html)
+
++ [网飞《幽游白书》真人剧新剧照 12月14日正式开播](https://www.3dmgame.com/news/202312/3882840.html)
+
++ [知名R星内部人士预测 《GTA6》预告最迟下周二发布](https://www.3dmgame.com/news/202312/3882839.html)
+
++ [中国网约车司机3年翻倍 日均接单量暴跌至不到10单](https://www.3dmgame.com/news/202312/3882838.html)
+
++ [男子输游戏被盖猪肉印章至今未洗掉 求教网友有啥高招](https://www.3dmgame.com/news/202312/3882837.html)
+
++ [三星良率不理想：台积电将独家代工高通骁龙8 Gen4](https://www.3dmgame.com/news/202312/3882836.html)
+
