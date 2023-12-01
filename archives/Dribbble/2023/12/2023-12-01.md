@@ -249,3 +249,9 @@
 
 + [Logo - rejected concept](https://dribbble.com/shots/)
 
++ [Healthcare | Telemedicine | New Site](https://dribbble.com/shots/)
+
++ [Bad Cosmos](https://dribbble.com/shots/)
+
++ [FoodNoms Alt App Icon](https://dribbble.com/shots/)
+

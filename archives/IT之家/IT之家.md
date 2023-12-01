@@ -61,3 +61,9 @@
 
 + [小米公司发言人：关于雷军“冰冷的 40 亿”的传闻纯属子虚乌有，人生不是爽文](https://m.ithome.com/html/736473.htm)
 
++ [高德地图与华为达成合作，启动鸿蒙原生应用开发](https://m.ithome.com/html/736336.htm)
+
++ [消息称小米平板 7 系列搭载骁龙 8 Gen 2 处理器，与小米 14 Ultra 一同登场](https://m.ithome.com/html/736472.htm)
+
++ [1999~4399 元，小米 Redmi K70 系列手机今日开售](https://m.ithome.com/html/736274.htm)
+
