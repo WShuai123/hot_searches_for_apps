@@ -59,3 +59,5 @@
 
 + [华为畅享 70 手机 12 月 5 日开启预售：内置 6000mAh 电池，预装鸿蒙 HarmonyOS 4 系统](https://m.ithome.com/html/736328.htm)
 
++ [小米公司发言人：关于雷军“冰冷的 40 亿”的传闻纯属子虚乌有，人生不是爽文](https://m.ithome.com/html/736473.htm)
+
