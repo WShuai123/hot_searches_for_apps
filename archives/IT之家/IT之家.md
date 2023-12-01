@@ -57,3 +57,5 @@
 
 + [联名兰博基尼，小米王腾透露 Redmi K70 Pro 冠军版手机元旦前后开售](https://m.ithome.com/html/736247.htm)
 
++ [华为畅享 70 手机 12 月 5 日开启预售：内置 6000mAh 电池，预装鸿蒙 HarmonyOS 4 系统](https://m.ithome.com/html/736328.htm)
+

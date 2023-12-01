@@ -51,3 +51,33 @@
 
 + [ascoders / weekly](https://github.com/ascoders/weekly)
 
++ [OthersideAI / self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
+
++ [atomicals / atomicals-js](https://github.com/atomicals/atomicals-js)
+
++ [autonomousvision / mip-splatting](https://github.com/autonomousvision/mip-splatting)
+
++ [EmergeTools / Pow](https://github.com/EmergeTools/Pow)
+
++ [Niek / chatgpt-web](https://github.com/Niek/chatgpt-web)
+
++ [jart / cosmopolitan](https://github.com/jart/cosmopolitan)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [haotian-liu / LLaVA](https://github.com/haotian-liu/LLaVA)
+
++ [notmahi / dobb-e](https://github.com/notmahi/dobb-e)
+
++ [gradio-app / gradio](https://github.com/gradio-app/gradio)
+
++ [google / comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [QwenLM / Qwen](https://github.com/QwenLM/Qwen)
+
++ [open-mmlab / Amphion](https://github.com/open-mmlab/Amphion)
+
++ [chiteroman / PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+
++ [apache / incubator-opendal](https://github.com/apache/incubator-opendal)
+

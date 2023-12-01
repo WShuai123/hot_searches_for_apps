@@ -53,3 +53,7 @@
 
 + [DefectDojo：一个功能强大的漏洞管理平台和DevSecOps解决方案](https://www.freebuf.com/sectool/382164.html)
 
++ [精彩回顾 | FCIS 2023网络安全创新大会（附PPT下载）](https://www.freebuf.com/fevents/385488.html)
+
++ [降本增效下安全该怎么做；员工信息应保留多久 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/385417.html)
+
