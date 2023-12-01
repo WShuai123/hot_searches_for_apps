@@ -35,3 +35,7 @@
 
 + [苹果 iOS 17.1.2 正式版发布](https://m.ithome.com/html/736257.htm)
 
++ [致态预告新款 SSD：“超大杯”就要来了](https://m.ithome.com/html/736195.htm)
+
++ [消息称小米 14 Ultra 手机配备 5180mAh± 电池，依旧为 90W 有线快充](https://m.ithome.com/html/736238.htm)
+

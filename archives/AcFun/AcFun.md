@@ -77,3 +77,7 @@
 
 + [绝区零超燃Boss战演示，差点忘了我自己是游戏高手！【绝区零】](http://www.acfun.cn/v/ac43101629)
 
++ [【杳杳录播】《学园构想家》系列](http://www.acfun.cn/v/ac43101532)
+
++ [放心看！这是你辛苦一周应得的～bubblepop](http://www.acfun.cn/v/ac43103972)
+

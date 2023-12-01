@@ -151,3 +151,41 @@
 
 + [微软希望Game Pass能够出现在“每一个可以玩游戏的屏幕”上](https://www.3dmgame.com/news/202312/3882785.html)
 
++ [《暗黑4》新篝火直播情报 在齐尔的屠宰场降下血雨](https://www.3dmgame.com/news/202312/3882809.html)
+
++ [前《质量效应》开发者的新生存游戏《夜莺》将于2024年初开启压力测试](https://www.3dmgame.com/news/202312/3882808.html)
+
++ [《非诚勿扰3》发布定档预告 12月30日上映](https://www.3dmgame.com/news/202312/3882807.html)
+
++ [《吸血鬼：避世血族2》第三个可玩氏族：阴影刺客哈基姆](https://www.3dmgame.com/news/202312/3882806.html)
+
++ [《城市：天际线2》老板为“如果你不喜欢模拟，这款游戏可能就不适合你”言论光速道歉](https://www.3dmgame.com/news/202312/3882804.html)
+
++ [《一起开火车2：汽笛重鸣》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202312/3882803.html)
+
++ [《流放之路2》新实机演示 新职业让你体验射击游戏玩法](https://www.3dmgame.com/news/202312/3882802.html)
+
++ [回合制策略游戏《地狱王座》宣布2024年2月14日发售](https://www.3dmgame.com/news/202312/3882801.html)
+
++ [恐怖钓鱼冒险游戏《Drowned Lake》Steam页面 支持中文](https://www.3dmgame.com/news/202312/3882800.html)
+
++ [《光环》电视剧现已在YouTube免费播放 第二季将于明年2月播出](https://www.3dmgame.com/news/202312/3882799.html)
+
++ [《流放之路：降临》预约强势开启，S24赛季12月15日上线](https://www.3dmgame.com/news/202312/3882798.html)
+
++ [VR瓦罗兰特《X8》开发商Thirdverse融资筹得800万美元](https://www.3dmgame.com/news/202312/3882797.html)
+
++ [报告称索尼将继续与韩国开发商合作 包括《匹诺曹的谎言》等](https://www.3dmgame.com/news/202312/3882805.html)
+
++ [卡牌构建游戏《IRONHIVE》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202312/3882796.html)
+
++ [《怪物猎人Now》下周将推出冬季重大更新](https://www.3dmgame.com/news/202312/3882795.html)
+
++ [《崩坏：星穹铁道》获苹果评选iPhone年度游戏](https://www.3dmgame.com/news/202312/3882794.html)
+
++ [微软兑现承诺 《使命召唤》系列登陆英伟达GeForce Now](https://www.3dmgame.com/news/202312/3882793.html)
+
++ [《海盗共和国》Steam页面上线 明年正式发售](https://www.3dmgame.com/news/202312/3882792.html)
+
++ [《如龙8》全新预告公布 前往夏威夷大干一场](https://www.3dmgame.com/news/202312/3882791.html)
+

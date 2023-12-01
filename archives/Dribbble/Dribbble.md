@@ -161,3 +161,11 @@
 
 + [Landing Page | Mobile Version](https://dribbble.com/shots/)
 
++ [The Nova Case Study](https://dribbble.com/shots/)
+
++ [UI/UX Components](https://dribbble.com/shots/)
+
++ [Talaria — Combination Mark](https://dribbble.com/shots/)
+
++ [Fashion Insider - Mobile App Concept](https://dribbble.com/shots/)
+
