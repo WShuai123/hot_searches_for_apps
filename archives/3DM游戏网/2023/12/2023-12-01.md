@@ -201,3 +201,27 @@
 
 + [Epic诉谷歌案法官要求两家公司进行和解谈判](https://www.3dmgame.com/news/202312/3882810.html)
 
++ [系列编剧辟谣 《最终幻想战略版》暂无复刻版计划](https://www.3dmgame.com/news/202312/3882826.html)
+
++ [《收获日3》 1.0.2补丁发布，重制二代经典劫案](https://www.3dmgame.com/news/202312/3882822.html)
+
++ [“悟道”游戏续作《岩石模拟器2》正式发售 Steam上收获好评](https://www.3dmgame.com/news/202312/3882827.html)
+
++ [联机肉鸽，整活狂欢！国产独游《天启派对》现已上线！](https://www.3dmgame.com/news/202312/3882825.html)
+
++ [国产独游《风来之国》即将在WholeSome Snack发布会公布游戏最新消息](https://www.3dmgame.com/news/202312/3882824.html)
+
++ [格斗游戏大赛EVO Japan 2024游戏项目名单公布](https://www.3dmgame.com/news/202312/3882823.html)
+
++ [《蔚蓝档案》2023年全球市场收入和下载量增长一倍以上](https://www.3dmgame.com/news/202312/3882821.html)
+
++ [修女叙事冒险游戏《印蒂卡》公开 明年发售](https://www.3dmgame.com/news/202312/3882818.html)
+
++ [小米没有核心技术？雷军回应：5G标准专利全球前十](https://www.3dmgame.com/news/202312/3882820.html)
+
++ [《方舟：生存飞升》PC外挂太多 跨平台暂时禁用](https://www.3dmgame.com/news/202312/3882819.html)
+
++ [巨金怪即将加入《宝可梦：大集结》 12月26日上线](https://www.3dmgame.com/news/202312/3882817.html)
+
++ [《博德之门3》全新自定义模式 提供更逼真的D＆D体验](https://www.3dmgame.com/news/202312/3882816.html)
+

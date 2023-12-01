@@ -39,3 +39,5 @@
 
 + [消息称小米 14 Ultra 手机配备 5180mAh± 电池，依旧为 90W 有线快充](https://m.ithome.com/html/736238.htm)
 
++ [告别静音拨片，消息称苹果 iPhone 16 全系标配操作按钮](https://m.ithome.com/html/736295.htm)
+
