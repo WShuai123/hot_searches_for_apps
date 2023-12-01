@@ -111,3 +111,31 @@
 
 + [大富翁玩法《鬼灭之刃》游戏确定明年4月发售](https://www.3dmgame.com/news/202312/3882769.html)
 
++ [《疯狂的麦克斯：狂暴女神》首发预告、海报](https://www.3dmgame.com/news/202312/3882784.html)
+
++ [变成了射击游戏？《流放之路2》公布新职业雇佣兵](https://www.3dmgame.com/news/202312/3882781.html)
+
++ [叙事科幻《太平洋驾驶》发售宣传片 2024年2月推出](https://www.3dmgame.com/news/202312/3882783.html)
+
++ [《艾尔登法环》Steam后台数据更新 或将很快获得新内容](https://www.3dmgame.com/news/202312/3882782.html)
+
++ [《地狱之刃2》在澳大利亚被评为R18禁](https://www.3dmgame.com/news/202312/3882780.html)
+
++ [《冰汽时代2》全新预告 新致命威胁“人性”](https://www.3dmgame.com/news/202312/3882779.html)
+
++ [《赛博朋克2077》免费更新12月5日上线 引入新元素](https://www.3dmgame.com/news/202312/3882778.html)
+
++ [生成式开放世界游戏《Under a Rock》发布新预告](https://www.3dmgame.com/news/202312/3882775.html)
+
++ [《燧石枪：黎明之围》明年夏季推出 新预告分享](https://www.3dmgame.com/news/202312/3882774.html)
+
++ [巴西神话改编惊悚恐怖游戏《溺亡湖》发布预告](https://www.3dmgame.com/news/202312/3882773.html)
+
++ [《家园3》再次小幅度跳票 明年3/8推出](https://www.3dmgame.com/news/202312/3882772.html)
+
++ [《潜行者2》发布新预告片 进入最终开发环节](https://www.3dmgame.com/news/202312/3882771.html)
+
++ [好评续作《黑帝斯2》发布全新预告](https://www.3dmgame.com/news/202312/3882777.html)
+
++ [策略游戏《寂静之歌》明年春季登陆PC](https://www.3dmgame.com/news/202312/3882776.html)
+

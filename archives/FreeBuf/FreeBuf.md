@@ -41,3 +41,5 @@
 
 + [全国信安标委发布《网络安全标准实践指南——网络安全产品互联互通 资产信息格式（征求意见稿）》](https://www.freebuf.com/news/385135.html)
 
++ [FreeBuf早报 | 美国大型医院集团遭勒索攻击；Deepfake 数字身份欺诈激增十倍](https://www.freebuf.com/news/385292.html)
+
