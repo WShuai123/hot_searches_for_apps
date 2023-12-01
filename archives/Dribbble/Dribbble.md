@@ -73,3 +73,21 @@
 
 + [River waterfall](https://dribbble.com/shots/)
 
++ [Jakarta Art Gallery Website](https://dribbble.com/shots/)
+
++ [ToyJoy Mobile Website Design](https://dribbble.com/shots/)
+
++ [Holidays in a snowing city](https://dribbble.com/shots/)
+
++ [Healthcare | Telemedicine | New Site](https://dribbble.com/shots/)
+
++ [FoodNoms Alt App Icon](https://dribbble.com/shots/)
+
++ [Crypto Wallet Mobile iOS App](https://dribbble.com/shots/)
+
++ [Landing Page for Music Artists Promotional Platform](https://dribbble.com/shots/)
+
++ [Clarity - SaaS Dashboard](https://dribbble.com/shots/)
+
++ [Logofolio 2023](https://dribbble.com/shots/)
+

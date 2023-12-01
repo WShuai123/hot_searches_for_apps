@@ -101,3 +101,7 @@
 
 + [VR瓦罗兰特《X8》开发商Thirdverse融资筹得800万美元](https://www.3dmgame.com/news/202312/3882797.html)
 
++ [《赛博朋克2077》V2.1版更新预览 游戏变得更易操作](https://www.3dmgame.com/news/202312/3882855.html)
+
++ [《战锤40K：行商浪人》公布新预告 展示近战和远程战斗](https://www.3dmgame.com/news/202312/3882854.html)
+
