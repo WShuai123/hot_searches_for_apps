@@ -49,3 +49,27 @@
 
 + [Poly Chromy](https://dribbble.com/shots/)
 
++ [Art Investments UI-UX](https://dribbble.com/shots/)
+
++ [Salesforce CRM – Customer Engagement Platform](https://dribbble.com/shots/)
+
++ [Type Development](https://dribbble.com/shots/)
+
++ [Free iOS App Icon Mockup](https://dribbble.com/shots/)
+
++ [Blaster](https://dribbble.com/shots/)
+
++ [Makko - Logo and brand identity for the social network](https://dribbble.com/shots/)
+
++ [Logo - rejected concept](https://dribbble.com/shots/)
+
++ [Futuralis, AWS cloud services, brand identity design case study](https://dribbble.com/shots/)
+
++ [Renting App Design Concept: iOS](https://dribbble.com/shots/)
+
++ [Landing page - Dark UI](https://dribbble.com/shots/)
+
++ [Dorothy](https://dribbble.com/shots/)
+
++ [River waterfall](https://dribbble.com/shots/)
+
