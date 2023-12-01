@@ -233,3 +233,11 @@
 
 + [恐怖游戏《Supernormal》Steam页面上线 明年1月9日发售](https://www.3dmgame.com/news/202312/3882831.html)
 
++ [Steam将于明年2月停止macOS 10.13和10.14支持](https://www.3dmgame.com/news/202312/3882835.html)
+
++ [《弈仙牌》正式版2024年1月上线 将转为免费游戏](https://www.3dmgame.com/news/202312/3882833.html)
+
++ [缤果成扛把子！五菱新能源11月狂卖59372辆 暴涨超6成](https://www.3dmgame.com/news/202312/3882834.html)
+
++ [《暗黑破坏神4》计划明年第4赛季改善刷装备体验](https://www.3dmgame.com/news/202312/3882832.html)
+

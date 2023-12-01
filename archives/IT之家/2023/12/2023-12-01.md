@@ -45,3 +45,7 @@
 
 + [新浪宣布除夕安排放假](https://m.ithome.com/html/736368.htm)
 
++ [小米 Redmi K70 系列手机首销 5 分钟销量突破 60 万台，相比 K60 翻倍增长](https://m.ithome.com/html/736354.htm)
+
++ [消息称英伟达 RTX 4090 D 中国特供显卡采用 AD102-250 GPU](https://m.ithome.com/html/736249.htm)
+

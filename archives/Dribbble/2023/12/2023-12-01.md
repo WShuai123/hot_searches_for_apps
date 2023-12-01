@@ -203,3 +203,13 @@
 
 + [Jimmu the Genie](https://dribbble.com/shots/)
 
++ [The finance mobile detail page](https://dribbble.com/shots/)
+
++ [Makko - Logo and brand identity for the social network](https://dribbble.com/shots/)
+
++ [Salesforce CRM – Customer Engagement Platform](https://dribbble.com/shots/)
+
++ [Pigs Island](https://dribbble.com/shots/)
+
++ [3D Illustration for Fulfyld.com](https://dribbble.com/shots/)
+
