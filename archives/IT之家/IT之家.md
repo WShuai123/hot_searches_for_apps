@@ -25,3 +25,5 @@
 
 + [小米汽车 xiaomiev.com 网站开放访问，目前仅为官网截图占位](https://m.ithome.com/html/736434.htm)
 
++ [小米 13 Ultra 手机推送 HyperOS 正式版内测系统，升级内存管理引擎、智能选网能力](https://m.ithome.com/html/736487.htm)
+
