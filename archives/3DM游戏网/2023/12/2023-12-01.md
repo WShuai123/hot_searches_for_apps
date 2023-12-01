@@ -265,3 +265,11 @@
 
 + [三星上调图像传感器售价 影像旗舰手机或迎来涨价](https://www.3dmgame.com/news/202312/3882847.html)
 
++ [Capcom确认会继续重制《生化危机》游戏](https://www.3dmgame.com/news/202312/3882851.html)
+
++ [《自杀小队：战胜正义联盟》Alpha封测现已开启](https://www.3dmgame.com/news/202312/3882850.html)
+
++ [朱迪·福斯特：希望观众早点厌倦超级英雄电影](https://www.3dmgame.com/news/202312/3882849.html)
+
++ [曝PS6或支持路径追踪技术 将比微软新主机晚发售](https://www.3dmgame.com/news/202312/3882848.html)
+
