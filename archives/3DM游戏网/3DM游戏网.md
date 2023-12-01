@@ -189,3 +189,15 @@
 
 + [《如龙8》全新预告公布 前往夏威夷大干一场](https://www.3dmgame.com/news/202312/3882791.html)
 
++ [Steam Link更新 原生支持Meta Quest头显连接](https://www.3dmgame.com/news/202312/3882815.html)
+
++ [《Apex英雄》起义收集活动预告 新30v30生化模式](https://www.3dmgame.com/news/202312/3882814.html)
+
++ [电影改编游戏《咒》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3882813.html)
+
++ [腾讯吃鸡游戏《无限法则》今日正式停服 支撑了1899天](https://www.3dmgame.com/news/202312/3882812.html)
+
++ [《空洞骑士：丝之歌》全新预告 发售日期待定](https://www.3dmgame.com/news/202312/3882811.html)
+
++ [Epic诉谷歌案法官要求两家公司进行和解谈判](https://www.3dmgame.com/news/202312/3882810.html)
+
