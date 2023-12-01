@@ -261,3 +261,5 @@
 
 + [三星良率不理想：台积电将独家代工高通骁龙8 Gen4](https://www.3dmgame.com/news/202312/3882836.html)
 
++ [大佬称年轻人不必吃苦耐劳：每天工作5小时足够](https://www.3dmgame.com/news/202312/3882846.html)
+

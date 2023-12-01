@@ -205,3 +205,5 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [顺丰速运-快递查寄收 不止是快](https://itunes.apple.com/cn/app/id899529698?mt=8)
+
