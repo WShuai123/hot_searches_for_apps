@@ -225,3 +225,7 @@
 
 + [《博德之门3》全新自定义模式 提供更逼真的D＆D体验](https://www.3dmgame.com/news/202312/3882816.html)
 
++ [策略模拟游戏《矮人要塞》冒险模式扩展明年免费推出](https://www.3dmgame.com/news/202312/3882829.html)
+
++ [动视终于松口 讨论《使命召唤》备受争议SBMM匹配](https://www.3dmgame.com/news/202312/3882828.html)
+

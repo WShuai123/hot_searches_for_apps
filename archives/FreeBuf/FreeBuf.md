@@ -49,3 +49,7 @@
 
 + [记某SRC站点前端JS加解密到获得漏洞报送证书](https://www.freebuf.com/vuls/384800.html)
 
++ [《2023年企业IoT和OT威胁报告》：物联网恶意软件攻击增长400%](https://www.freebuf.com/articles/384560.html)
+
++ [DefectDojo：一个功能强大的漏洞管理平台和DevSecOps解决方案](https://www.freebuf.com/sectool/382164.html)
+

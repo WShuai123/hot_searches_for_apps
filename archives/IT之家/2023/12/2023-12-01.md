@@ -41,3 +41,5 @@
 
 + [告别静音拨片，消息称苹果 iPhone 16 全系标配操作按钮](https://m.ithome.com/html/736295.htm)
 
++ [全国数十家 985、211 大学宣布开设华为鸿蒙 HarmonyOS 相关课程](https://m.ithome.com/html/736349.htm)
+
