@@ -139,3 +139,15 @@
 
 + [策略游戏《寂静之歌》明年春季登陆PC](https://www.3dmgame.com/news/202312/3882776.html)
 
++ [《博德之门3》五号补丁更新上线 添加新荣誉模式](https://www.3dmgame.com/news/202312/3882789.html)
+
++ [《救护车生活：辅助医护人员模拟器》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3882788.html)
+
++ [2024年任天堂Live活动明年1月20日东京举行](https://www.3dmgame.com/news/202312/3882790.html)
+
++ [130万名玩家通关《博德之门3》！玩起来停不下来](https://www.3dmgame.com/news/202312/3882787.html)
+
++ [特斯拉Cybertruck已在北美正式交付 起售价60990美元](https://www.3dmgame.com/news/202312/3882786.html)
+
++ [微软希望Game Pass能够出现在“每一个可以玩游戏的屏幕”上](https://www.3dmgame.com/news/202312/3882785.html)
+
