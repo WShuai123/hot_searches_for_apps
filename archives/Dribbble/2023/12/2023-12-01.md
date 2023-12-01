@@ -191,3 +191,15 @@
 
 + [Spider](https://dribbble.com/shots/)
 
++ [Walk animation](https://dribbble.com/shots/)
+
++ [Shape Studies: 052](https://dribbble.com/shots/)
+
++ [The Nutcracker](https://dribbble.com/shots/)
+
++ [Futuralis, AWS cloud services, brand identity design case study](https://dribbble.com/shots/)
+
++ [Distrust](https://dribbble.com/shots/)
+
++ [Jimmu the Genie](https://dribbble.com/shots/)
+

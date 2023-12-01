@@ -117,3 +117,9 @@
 
 + [Vela Terminal](https://www.producthunt.com/posts/vela-terminal)
 
++ [Ramp Verification](https://www.producthunt.com/posts/ramp-verification)
+
++ [Gruntly](https://www.producthunt.com/posts/gruntly)
+
++ [stable.work](https://www.producthunt.com/posts/stable-work)
+

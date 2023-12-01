@@ -229,3 +229,7 @@
 
 + [动视终于松口 讨论《使命召唤》备受争议SBMM匹配](https://www.3dmgame.com/news/202312/3882828.html)
 
++ [《纸嫁衣5来生戏》Steam版正式发售 首发折后28.8元](https://www.3dmgame.com/news/202312/3882830.html)
+
++ [恐怖游戏《Supernormal》Steam页面上线 明年1月9日发售](https://www.3dmgame.com/news/202312/3882831.html)
+

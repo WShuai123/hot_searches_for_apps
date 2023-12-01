@@ -43,3 +43,5 @@
 
 + [全国数十家 985、211 大学宣布开设华为鸿蒙 HarmonyOS 相关课程](https://m.ithome.com/html/736349.htm)
 
++ [新浪宣布除夕安排放假](https://m.ithome.com/html/736368.htm)
+
