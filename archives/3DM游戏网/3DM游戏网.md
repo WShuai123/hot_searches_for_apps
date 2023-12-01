@@ -105,3 +105,11 @@
 
 + [《战锤40K：行商浪人》公布新预告 展示近战和远程战斗](https://www.3dmgame.com/news/202312/3882854.html)
 
++ [《最终幻想7：永恒危机》首段PC版实机视频展示](https://www.3dmgame.com/news/202312/3882859.html)
+
++ [Xbox负责人斯宾塞表示微软计划开设新手游商店](https://www.3dmgame.com/news/202312/3882858.html)
+
++ [《心灵杀手2》新增“New Game+”模式](https://www.3dmgame.com/news/202312/3882857.html)
+
++ [《守望先锋2》第八赛季“狩猎召唤”预告片12/4展示](https://www.3dmgame.com/news/202312/3882856.html)
+
