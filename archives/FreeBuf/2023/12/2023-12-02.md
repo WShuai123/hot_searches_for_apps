@@ -45,3 +45,7 @@
 
 + [Nftables整型溢出（CVE-2023-0179）](https://www.freebuf.com/vuls/383066.html)
 
++ [操作系统权限提升 | MySQL MOF提权](https://www.freebuf.com/articles/network/384279.html)
+
++ [“数字孪生水利”网络安全体系设计](https://www.freebuf.com/articles/network/384584.html)
+

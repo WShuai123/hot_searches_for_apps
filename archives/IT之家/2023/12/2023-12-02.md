@@ -29,3 +29,5 @@
 
 + [消息称华为 nova 12 系列、新款折叠屏搭载麒麟 5G 平台，手机壳已曝光](https://m.ithome.com/html/736445.htm)
 
++ [小米 14 Pro 钛金属版手机开启预约：12 月 5 日开售，首发 6499 元](https://m.ithome.com/html/736506.htm)
+

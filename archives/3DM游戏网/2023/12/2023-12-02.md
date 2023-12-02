@@ -115,3 +115,19 @@
 
 + [《赛博朋克2077》下周更新加入地铁系统 那空中载具是不是有望了？](https://www.3dmgame.com/news/202312/3882860.html)
 
++ [PlayStation即将下架大量电视节目 即便用户已经购买](https://www.3dmgame.com/news/202312/3882868.html)
+
++ [回合制划卡策略游戏《王权：三国》Steam页面 发行日期待定](https://www.3dmgame.com/news/202312/3882867.html)
+
++ [《赛博朋克2077》首发滑铁卢投资者起诉CDP现已和解](https://www.3dmgame.com/news/202312/3882866.html)
+
++ [斯宾塞：Game Pass每年花超10亿美元 没计划登陆PS5和Switch](https://www.3dmgame.com/news/202312/3882865.html)
+
++ [《妖精农场》开发商Phoenix Labs今年第二次裁员](https://www.3dmgame.com/news/202312/3882864.html)
+
++ [《蒸汽世界：建造》正式发售 综合评价“特别好评”](https://www.3dmgame.com/news/202312/3882863.html)
+
++ [《火影忍者：终极风暴羁绊》被指使用AI配音 万代否认](https://www.3dmgame.com/news/202312/3882862.html)
+
++ [《蝙蝠侠：阿卡姆骑士》Switch版移植太烂 部分场景0帧](https://www.3dmgame.com/news/202312/3882861.html)
+
