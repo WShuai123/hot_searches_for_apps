@@ -79,3 +79,9 @@
 
 + [Chronicles of Feminism](https://dribbble.com/shots/)
 
++ [Wordmarks Roundup Vol 05](https://dribbble.com/shots/)
+
++ [3D Illustration for Fulfyld.com](https://dribbble.com/shots/)
+
++ [Studio Size—Freebies 02](https://dribbble.com/shots/)
+

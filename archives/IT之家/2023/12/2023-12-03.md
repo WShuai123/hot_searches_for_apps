@@ -27,3 +27,5 @@
 
 + [LG Innotek 成赢家，消息称苹果 iPhone 16 Pro 也配四重反射棱镜](https://m.ithome.com/html/736544.htm)
 
++ [华为华南首家服务旗舰店开业：智能机器人可自动为工程师提供零件](https://m.ithome.com/html/736641.htm)
+
