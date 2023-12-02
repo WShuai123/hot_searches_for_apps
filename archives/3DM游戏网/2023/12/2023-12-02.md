@@ -139,3 +139,15 @@
 
 + [魅族也开始造车了 首款车MEIZU DreamCar MX](https://www.3dmgame.com/news/202312/3882869.html)
 
++ [EA开源IRIS工具 协助开发者帮助光敏感性疾病玩家](https://www.3dmgame.com/news/202312/3882877.html)
+
++ [Stadia手柄蓝牙驱动12月底下线 手慢就只能有线了](https://www.3dmgame.com/news/202312/3882878.html)
+
++ [《街头霸王6》角色皮肤定价过高因玩家愤怒声讨](https://www.3dmgame.com/news/202312/3882873.html)
+
++ [龙行龘龘！2024年央视春节晚会主题、主标识发布](https://www.3dmgame.com/news/202312/3882874.html)
+
++ [解谜游戏《真知之岛》2024年2月发售 支持简体中文](https://www.3dmgame.com/news/202312/3882875.html)
+
++ [《原神》获索尼PS合作伙伴奖日本亚洲区大奖](https://www.3dmgame.com/news/202312/3882876.html)
+

@@ -37,3 +37,5 @@
 
 + [肯德基推出 KFC 圣诞多功能电热锅，双堡套餐 89.9 元](https://m.ithome.com/html/736377.htm)
 
++ [京东上线外星人电脑海外自营店铺，同配置价格是国行 7 折](https://m.ithome.com/html/736454.htm)
+
