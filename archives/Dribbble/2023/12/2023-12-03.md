@@ -69,3 +69,13 @@
 
 + [Design and code are only tools. Collaboration is essential.](https://dribbble.com/shots/)
 
++ [Admin Dashboard for Auto Trading Crypto Investing Platform](https://dribbble.com/shots/)
+
++ [Free iOS App Icon Mockup](https://dribbble.com/shots/)
+
++ [The finance mobile detail page](https://dribbble.com/shots/)
+
++ [NVO: Tools](https://dribbble.com/shots/)
+
++ [Chronicles of Feminism](https://dribbble.com/shots/)
+
