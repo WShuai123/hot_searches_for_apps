@@ -133,3 +133,11 @@
 
 + [Tangyuan](https://www.producthunt.com/posts/tangyuan)
 
++ [500 FREE Doodles & Scribbles](https://www.producthunt.com/posts/500-free-doodles-scribbles)
+
++ [Human or AI?](https://www.producthunt.com/posts/human-or-ai-3)
+
++ [Learniverse](https://www.producthunt.com/posts/learniverse-2)
+
++ [Dictation](https://www.producthunt.com/posts/dictation-3)
+

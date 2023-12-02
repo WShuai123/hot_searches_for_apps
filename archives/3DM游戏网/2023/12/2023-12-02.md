@@ -181,3 +181,11 @@
 
 + [成就一代经典 《最终幻想7》突破全新销量里程碑](https://www.3dmgame.com/news/202312/3882889.html)
 
++ [《星空》BETA版更新 修复太空旅行与武器箱BUG](https://www.3dmgame.com/news/202312/3882897.html)
+
++ [员工称亚马逊AI聊天机器人Q“幻觉”严重 且泄露公司机密数据](https://www.3dmgame.com/news/202312/3882895.html)
+
++ [明年1月见 《大头菜小子抢银行》上市日期宣布](https://www.3dmgame.com/news/202312/3882896.html)
+
++ [OpenAI董事会在解雇CEO时想保持“惊喜元素” 没告诉微软](https://www.3dmgame.com/news/202312/3882894.html)
+
