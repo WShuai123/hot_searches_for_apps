@@ -201,3 +201,5 @@
 
 + [扎克·施奈德已经拿回《300勇士》续集版权](https://www.3dmgame.com/news/202312/3882903.html)
 
++ [《家园3》Steam现已开启预购 国区标准版219元](https://www.3dmgame.com/news/202312/3882904.html)
+
