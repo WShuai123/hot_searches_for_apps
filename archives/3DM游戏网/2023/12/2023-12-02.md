@@ -189,3 +189,5 @@
 
 + [OpenAI董事会在解雇CEO时想保持“惊喜元素” 没告诉微软](https://www.3dmgame.com/news/202312/3882894.html)
 
++ [《自杀小队：战胜正义联盟》大量实机试玩视频泄露](https://www.3dmgame.com/news/202312/3882898.html)
+

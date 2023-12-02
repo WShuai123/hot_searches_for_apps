@@ -47,3 +47,11 @@
 
 + [英国 iPhone 用户诉苦：官网订购，15 变 14 / SE 且不支持退款](https://m.ithome.com/html/736540.htm)
 
++ [华为 Mate 60 手机推送鸿蒙OS 4.0.0.136 版本，MatePad / Pro 10.8 英寸平板发布 4.0.0.128 更新](https://m.ithome.com/html/736560.htm)
+
++ [“西瓜”配色，#北京极光#冲上热搜：色彩绚丽、罕见奇观](https://m.ithome.com/html/736528.htm)
+
++ [重大发现：中国石油宣布勘测到大油田，地质储量超亿吨级](https://m.ithome.com/html/736594.htm)
+
++ [《原神》向玩家发放 800 原石，庆祝获得索尼 PlayStation 合作伙伴奖](https://m.ithome.com/html/736497.htm)
+
