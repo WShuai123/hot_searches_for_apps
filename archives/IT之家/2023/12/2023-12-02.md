@@ -27,3 +27,5 @@
 
 + [小米 13 Ultra 手机推送 HyperOS 正式版内测系统，升级内存管理引擎、智能选网能力](https://m.ithome.com/html/736487.htm)
 
++ [消息称华为 nova 12 系列、新款折叠屏搭载麒麟 5G 平台，手机壳已曝光](https://m.ithome.com/html/736445.htm)
+

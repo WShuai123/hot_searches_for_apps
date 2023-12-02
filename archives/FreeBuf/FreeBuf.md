@@ -41,3 +41,7 @@
 
 + [漏洞盒子 x vivo SRC | 漏洞盒子「企业SRC」新住客](https://www.freebuf.com/news/385191.html)
 
++ [FreeBuf 周报 | 蓝牙曝底层安全漏洞，数十亿设备受影响；美国水务局遭遇黑客攻击](https://www.freebuf.com/news/385374.html)
+
++ [Nftables整型溢出（CVE-2023-0179）](https://www.freebuf.com/vuls/383066.html)
+
