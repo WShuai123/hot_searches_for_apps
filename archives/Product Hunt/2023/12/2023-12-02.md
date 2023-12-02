@@ -111,3 +111,25 @@
 
 + [Quillcap - Your writing activity tracker](https://www.producthunt.com/posts/quillcap-your-writing-activity-tracker)
 
++ [ScrapX](https://www.producthunt.com/posts/scrapx)
+
++ [Papper: Scan Handwritten Todos](https://www.producthunt.com/posts/papper-scan-handwritten-todos)
+
++ [IdeaNamer.co](https://www.producthunt.com/posts/ideanamer-co)
+
++ [Garden Of AI](https://www.producthunt.com/posts/garden-of-ai)
+
++ [Tayo rituals](https://www.producthunt.com/posts/tayo-rituals)
+
++ [Vulse](https://www.producthunt.com/posts/vulse)
+
++ [Supersparks: Webflow Community Reviews](https://www.producthunt.com/posts/supersparks-webflow-community-reviews)
+
++ [Flurry AI](https://www.producthunt.com/posts/flurry-ai)
+
++ [Aispect](https://www.producthunt.com/posts/aispect)
+
++ [Numbobulate](https://www.producthunt.com/posts/numbobulate)
+
++ [Tangyuan](https://www.producthunt.com/posts/tangyuan)
+

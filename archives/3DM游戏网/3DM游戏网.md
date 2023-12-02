@@ -171,3 +171,13 @@
 
 + [《盗贼之海》私人服务器模式将于下周推出](https://www.3dmgame.com/news/202312/3882885.html)
 
++ [微软将要放弃Win10！你已经升级到Win11了吗？](https://www.3dmgame.com/news/202312/3882893.html)
+
++ [《GTA6》预告的预告爆火 微软糖豆人“跟风”玩梗](https://www.3dmgame.com/news/202312/3882892.html)
+
++ [《超级马里奥RPG》设计师分享原版弃用草稿图](https://www.3dmgame.com/news/202312/3882891.html)
+
++ [腾讯共建全球低碳创新联盟 公益低碳技术创新社区“碳 LIVE 国际版”落地](https://www.3dmgame.com/news/202312/3882890.html)
+
++ [成就一代经典 《最终幻想7》突破全新销量里程碑](https://www.3dmgame.com/news/202312/3882889.html)
+
