@@ -43,3 +43,5 @@
 
 + [龙行龘龘（dá），欣欣家国：2024 年总台春晚主题、主标识正式发布](https://m.ithome.com/html/736546.htm)
 
++ [《GTA 6》首部预告片 12 月 5 日晚 10 点发布](https://m.ithome.com/html/736512.htm)
+

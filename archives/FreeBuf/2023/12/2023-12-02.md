@@ -53,3 +53,5 @@
 
 + [LockBit勒索软件样本分析及针对定向勒索的防御思考](https://www.freebuf.com/articles/network/384362.html)
 
++ [数据安全生命周期学习——交换安全](https://www.freebuf.com/articles/database/384963.html)
+
