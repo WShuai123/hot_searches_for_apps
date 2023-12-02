@@ -25,3 +25,5 @@
 
 + [realme 真我 GT5 Pro 手机全系内存标配 USB 3.2，提供 1TB 版本](https://m.ithome.com/html/736580.htm)
 
++ [LG Innotek 成赢家，消息称苹果 iPhone 16 Pro 也配四重反射棱镜](https://m.ithome.com/html/736544.htm)
+

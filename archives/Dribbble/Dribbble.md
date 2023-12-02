@@ -49,3 +49,23 @@
 
 + [Composition No. 15](https://dribbble.com/shots/)
 
++ [Chatinsure Website](https://dribbble.com/shots/)
+
++ [Attack on stoned titan](https://dribbble.com/shots/)
+
++ [Skullball](https://dribbble.com/shots/)
+
++ [Blaster](https://dribbble.com/shots/)
+
++ [Futuralis, AWS cloud services, brand identity design case study](https://dribbble.com/shots/)
+
++ [River waterfall](https://dribbble.com/shots/)
+
++ [Dorothy](https://dribbble.com/shots/)
+
++ [Audible Gift Center](https://dribbble.com/shots/)
+
++ [Melbourne Caulfield Cup Illustration Case Study](https://dribbble.com/shots/)
+
++ [Design and code are only tools. Collaboration is essential.](https://dribbble.com/shots/)
+
