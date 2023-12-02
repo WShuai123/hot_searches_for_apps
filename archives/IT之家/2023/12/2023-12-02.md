@@ -61,3 +61,7 @@
 
 + [三星 Galaxy S24 UItra 手机曝光：新增黄色、主打 AI、采用钛金属、VC 均热板大 90%](https://m.ithome.com/html/736584.htm)
 
++ [荣耀 100 系列首销战报公布：打破荣耀历史所有新机首销日记录](https://m.ithome.com/html/736579.htm)
+
++ [realme 真我 GT5 Pro 手机全系内存标配 USB 3.2，提供 1TB 版本](https://m.ithome.com/html/736580.htm)
+

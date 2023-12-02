@@ -203,3 +203,7 @@
 
 + [《家园3》Steam现已开启预购 国区标准版219元](https://www.3dmgame.com/news/202312/3882904.html)
 
++ [《最终幻想16》DLC将会揭开男主故事的黑暗和神秘](https://www.3dmgame.com/news/202312/3882906.html)
+
++ [亚马逊《辐射》真人剧首发海报](https://www.3dmgame.com/news/202312/3882905.html)
+
