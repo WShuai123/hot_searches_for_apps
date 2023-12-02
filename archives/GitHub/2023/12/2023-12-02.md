@@ -51,3 +51,37 @@
 
 + [apache / incubator-opendal](https://github.com/apache/incubator-opendal)
 
++ [pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams)
+
++ [microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [google-deepmind / materials_discovery](https://github.com/google-deepmind/materials_discovery)
+
++ [HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
+
++ [facebookresearch / seamless_communication](https://github.com/facebookresearch/seamless_communication)
+
++ [kotlin-hands-on / advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template)
+
++ [ascoders / weekly](https://github.com/ascoders/weekly)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [DopplerHQ / awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [francozappa / bluffs](https://github.com/francozappa/bluffs)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+

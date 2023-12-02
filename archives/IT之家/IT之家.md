@@ -55,3 +55,5 @@
 
 + [《原神》向玩家发放 800 原石，庆祝获得索尼 PlayStation 合作伙伴奖](https://m.ithome.com/html/736497.htm)
 
++ [《三国杀》系列游戏已完成华为鸿蒙原生应用开发](https://m.ithome.com/html/736530.htm)
+

@@ -195,3 +195,5 @@
 
 + [《星空》4K材质包MOD发布 提升风景与植被品质](https://www.3dmgame.com/news/202312/3882899.html)
 
++ [微软或选择明年6月推出Windows 12 预计会带动新一轮AI PC销售](https://www.3dmgame.com/news/202312/3882901.html)
+
