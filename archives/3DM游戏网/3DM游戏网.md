@@ -131,3 +131,11 @@
 
 + [《蝙蝠侠：阿卡姆骑士》Switch版移植太烂 部分场景0帧](https://www.3dmgame.com/news/202312/3882861.html)
 
++ [网易和Krafton就《荒野行动》PUBG争议再次达成和解](https://www.3dmgame.com/news/202312/3882872.html)
+
++ [《DOTA2》ESL吉隆坡站分组出炉 老冤家AR、BB同组](https://www.3dmgame.com/news/202312/3882871.html)
+
++ [《弹球尖塔》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3882870.html)
+
++ [魅族也开始造车了 首款车MEIZU DreamCar MX](https://www.3dmgame.com/news/202312/3882869.html)
+

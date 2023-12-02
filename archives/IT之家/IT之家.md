@@ -31,3 +31,9 @@
 
 + [小米 14 Pro 钛金属版手机开启预约：12 月 5 日开售，首发 6499 元](https://m.ithome.com/html/736506.htm)
 
++ [联想 ThinkPad X1 Carbon 2024 笔记本即将发布：小了，却更大了](https://m.ithome.com/html/736495.htm)
+
++ [金标联盟：OPPO、vivo、小米、联想应用商店 TOP1W App 的 64 位适配率超 96%](https://m.ithome.com/html/736526.htm)
+
++ [肯德基推出 KFC 圣诞多功能电热锅，双堡套餐 89.9 元](https://m.ithome.com/html/736377.htm)
+
