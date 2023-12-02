@@ -55,3 +55,5 @@
 
 + [数据安全生命周期学习——交换安全](https://www.freebuf.com/articles/database/384963.html)
 
++ [backdoorme：专为红队研究人员设计的自动化后门安全测试模块](https://www.freebuf.com/sectool/382397.html)
+

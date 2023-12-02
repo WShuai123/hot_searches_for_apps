@@ -163,3 +163,11 @@
 
 + [《蜡笔小新：煤炭镇的小白》15分钟实机 明年发售](https://www.3dmgame.com/news/202312/3882884.html)
 
++ [小米13系列、Redmi K60系列澎湃OS正式版即将推送](https://www.3dmgame.com/news/202312/3882888.html)
+
++ [杰洛特配音演员：希里或是《巫师》新三部曲主角](https://www.3dmgame.com/news/202312/3882887.html)
+
++ [回合制RPG游戏《Project MW》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3882886.html)
+
++ [《盗贼之海》私人服务器模式将于下周推出](https://www.3dmgame.com/news/202312/3882885.html)
+
