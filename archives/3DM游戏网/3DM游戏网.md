@@ -197,3 +197,7 @@
 
 + [微软或选择明年6月推出Windows 12 预计会带动新一轮AI PC销售](https://www.3dmgame.com/news/202312/3882901.html)
 
++ [世嘉在TGA上将有新的宣布 号称进入新时代](https://www.3dmgame.com/news/202312/3882902.html)
+
++ [扎克·施奈德已经拿回《300勇士》续集版权](https://www.3dmgame.com/news/202312/3882903.html)
+

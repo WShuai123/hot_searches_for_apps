@@ -57,3 +57,7 @@
 
 + [《三国杀》系列游戏已完成华为鸿蒙原生应用开发](https://m.ithome.com/html/736530.htm)
 
++ [微软“Win11 24H2”现踪迹，消息称明年 6 月发布“Win12”](https://m.ithome.com/html/736561.htm)
+
++ [三星 Galaxy S24 UItra 手机曝光：新增黄色、主打 AI、采用钛金属、VC 均热板大 90%](https://m.ithome.com/html/736584.htm)
+
