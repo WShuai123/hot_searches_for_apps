@@ -191,3 +191,7 @@
 
 + [《自杀小队：战胜正义联盟》大量实机试玩视频泄露](https://www.3dmgame.com/news/202312/3882898.html)
 
++ [《驱灵者：新伊甸的幽灵》新预告 2月13日发售](https://www.3dmgame.com/news/202312/3882900.html)
+
++ [《星空》4K材质包MOD发布 提升风景与植被品质](https://www.3dmgame.com/news/202312/3882899.html)
+
