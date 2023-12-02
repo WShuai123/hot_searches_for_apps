@@ -151,3 +151,13 @@
 
 + [《原神》获索尼PS合作伙伴奖日本亚洲区大奖](https://www.3dmgame.com/news/202312/3882876.html)
 
++ [Spencer首次探及Xbox巴西市场涨价 但并未解释原因](https://www.3dmgame.com/news/202312/3882883.html)
+
++ [沙加系列35周年直播活动将于12月15日举行](https://www.3dmgame.com/news/202312/3882882.html)
+
++ [科幻生存游戏《翼星求生》Steam周末免费试玩](https://www.3dmgame.com/news/202312/3882881.html)
+
++ [《异世界自杀小队》全新宣传片 明年播出](https://www.3dmgame.com/news/202312/3882880.html)
+
++ [《战锤40K：暗潮》更新档月内发布 预告片欣赏](https://www.3dmgame.com/news/202312/3882879.html)
+

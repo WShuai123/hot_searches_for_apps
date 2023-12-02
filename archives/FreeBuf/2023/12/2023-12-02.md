@@ -51,3 +51,5 @@
 
 + [美国证券交易委员会开启网络安全问责底线](https://www.freebuf.com/news/385501.html)
 
++ [LockBit勒索软件样本分析及针对定向勒索的防御思考](https://www.freebuf.com/articles/network/384362.html)
+
