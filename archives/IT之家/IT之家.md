@@ -67,3 +67,7 @@
 
 + [GPT-4 没通过图灵测试！60 年前老 AI 击败了 ChatGPT，但人类胜率也仅有 63%](https://m.ithome.com/html/736711.htm)
 
++ [“腾讯视频崩了”冲上热搜，网友反馈主页无法加载、会员出现 bug](https://m.ithome.com/html/736748.htm)
+
++ [吉利星瑞 L / 星越 L 智擎车型今日上市：搭载油电混动系统，预售 13.17 万元起](https://m.ithome.com/html/736673.htm)
+
