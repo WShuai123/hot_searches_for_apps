@@ -171,3 +171,5 @@
 
 + [因推广虚拟货币 足球明星C罗遭索赔涉案10亿美元](https://www.3dmgame.com/news/202312/3882937.html)
 
++ [AMD全球最大的研发中心在印度落成](https://www.3dmgame.com/news/202312/3882942.html)
+

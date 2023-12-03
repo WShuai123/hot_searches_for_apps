@@ -63,3 +63,5 @@
 
 + [一加 12 手机预热：搭载全区域多功能 NFC、红外遥控功能](https://m.ithome.com/html/736693.htm)
 
++ [成立 25 年来首次：广汽本田宣布裁员 900 人](https://m.ithome.com/html/736699.htm)
+

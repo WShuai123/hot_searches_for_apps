@@ -51,3 +51,29 @@
 
 + [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 
++ [cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
+
++ [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+
++ [laravel / pulse](https://github.com/laravel/pulse)
+
++ [rust-lang / rust](https://github.com/rust-lang/rust)
+
++ [unslothai / unsloth](https://github.com/unslothai/unsloth)
+
++ [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
++ [samuelcolvin / FastUI](https://github.com/samuelcolvin/FastUI)
+
++ [apple / swift-aoc-starter-example](https://github.com/apple/swift-aoc-starter-example)
+
++ [ThePrimeagen / harpoon](https://github.com/ThePrimeagen/harpoon)
+
++ [typehero / typehero](https://github.com/typehero/typehero)
+
++ [ExpLangcn / NucleiTP](https://github.com/ExpLangcn/NucleiTP)
+
++ [ChristopherBiscardi / advent-of-code](https://github.com/ChristopherBiscardi/advent-of-code)
+
