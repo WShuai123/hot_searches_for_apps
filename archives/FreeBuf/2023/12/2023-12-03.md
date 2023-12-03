@@ -49,3 +49,5 @@
 
 + [波音、X行遭受LockBit3.0勒索软件攻击，透过分析折射防守应该有的变化](https://www.freebuf.com/articles/web/384131.html)
 
++ [渗透测试实战 | 若依ruoyi框架](https://www.freebuf.com/articles/web/384073.html)
+
