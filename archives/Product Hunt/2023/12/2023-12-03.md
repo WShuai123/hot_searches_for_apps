@@ -101,3 +101,15 @@
 
 + [WOV](https://www.producthunt.com/posts/wov)
 
++ [FastCut](https://www.producthunt.com/posts/fastcut)
+
++ [iMean Shopping](https://www.producthunt.com/posts/imean-shopping)
+
++ [Hurdlefly](https://www.producthunt.com/posts/hurdlefly)
+
++ [Plus AI Google Analytics Reports](https://www.producthunt.com/posts/plus-ai-google-analytics-reports)
+
++ [Metawork](https://www.producthunt.com/posts/metawork)
+
++ [Rizzpad - AI Dating Guru](https://www.producthunt.com/posts/rizzpad-ai-dating-guru)
+

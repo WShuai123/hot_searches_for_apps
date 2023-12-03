@@ -153,3 +153,9 @@
 
 + [英特尔革命性架构转变！酷睿Ultra处理器本月15日发布](https://www.3dmgame.com/news/202312/3882927.html)
 
++ [《漫威蜘蛛侠2》早期概念图曝光 毒液招数丰富多彩](https://www.3dmgame.com/news/202312/3882935.html)
+
++ [《碧蓝幻想：Relink》40分钟超长实机演示曝光](https://www.3dmgame.com/news/202312/3882933.html)
+
++ [《都市传说冒险团2 ：分身》Steam上线 都市传说沉浸冒险](https://www.3dmgame.com/news/202312/3882934.html)
+
