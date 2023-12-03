@@ -39,3 +39,5 @@
 
 + [联合华为打造！香橙派 Orange Pi AIpro 开发板预售：昇腾 AI 技术路线、8/20 TOPS 算力，889 元起](https://m.ithome.com/html/736567.htm)
 
++ [ROG 2024 款幻 16 笔记本曝光：Ultra 9 185H + RTX 4090](https://m.ithome.com/html/736639.htm)
+

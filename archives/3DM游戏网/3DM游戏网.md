@@ -125,3 +125,13 @@
 
 + [《寿司灵魂宇宙》12月10日steam发售 恶搞吃寿司续篇](https://www.3dmgame.com/news/202312/3882913.html)
 
++ [《Million Depth》Steam页面上线 肉鸽爬塔动作新游](https://www.3dmgame.com/news/202312/3882923.html)
+
++ [Spencer暗示Xbox大作《地狱之刃2》上市日期临近](https://www.3dmgame.com/news/202312/3882922.html)
+
++ [即将启动 《最后的生还者》剧集第二季拍摄日期敲定](https://www.3dmgame.com/news/202312/3882921.html)
+
++ [《哥斯拉大战金刚2》新剧照 两大巨兽再次联手抗敌](https://www.3dmgame.com/news/202312/3882920.html)
+
++ [《水烟水雾》Steam页面上线 浪漫恋爱冒险](https://www.3dmgame.com/news/202312/3882919.html)
+
