@@ -49,3 +49,23 @@
 
 + [Case Study: ToyJoy Website Design](https://dribbble.com/shots/)
 
++ [House of Gleason](https://dribbble.com/shots/)
+
++ [Blaster](https://dribbble.com/shots/)
+
++ [FoodNoms Alt App Icon](https://dribbble.com/shots/)
+
++ [Bad Cosmos](https://dribbble.com/shots/)
+
++ [Beside the Sea](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Ciga: E-commerce Mobile App - Brand Identity](https://dribbble.com/shots/)
+
++ [Trading website - Hero Concept](https://dribbble.com/shots/)
+
++ [Luminary Wealth Management - Owl/Shield/Guiding star](https://dribbble.com/shots/)
+
++ [Holidays in a snowing city](https://dribbble.com/shots/)
+

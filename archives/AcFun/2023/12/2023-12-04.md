@@ -61,3 +61,9 @@
 
 + [轻涟](http://www.acfun.cn/v/ac43129143)
 
++ [【丸子歌单】流行朋克代表乐队Green Day绿日名曲分享](http://www.acfun.cn/v/ac43129562)
+
++ [让 过 往 飞 （外传）结尾有彩蛋](http://www.acfun.cn/v/ac43129942)
+
++ [悄悄给珍珠鸟窝放一枚鹦鹉蛋，测试鸟妈的反应！](http://www.acfun.cn/v/ac43123727)
+
