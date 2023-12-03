@@ -107,3 +107,7 @@
 
 + [《WWE 2K24》已获评级 或很快发布](https://www.3dmgame.com/news/202312/3882949.html)
 
++ [明年4月上映 《哥斯拉与金刚2》预告片释出](https://www.3dmgame.com/news/202312/3882951.html)
+
++ [新角色Quan Chi将于本月加入《真人快打1》](https://www.3dmgame.com/news/202312/3882952.html)
+
