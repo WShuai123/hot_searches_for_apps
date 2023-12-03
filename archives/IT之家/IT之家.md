@@ -65,3 +65,5 @@
 
 + [成立 25 年来首次：广汽本田宣布裁员 900 人](https://m.ithome.com/html/736699.htm)
 
++ [GPT-4 没通过图灵测试！60 年前老 AI 击败了 ChatGPT，但人类胜率也仅有 63%](https://m.ithome.com/html/736711.htm)
+

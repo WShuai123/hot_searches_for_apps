@@ -173,3 +173,5 @@
 
 + [AMD全球最大的研发中心在印度落成](https://www.3dmgame.com/news/202312/3882942.html)
 
++ [传《GTA6》首个预告片段泄露 2024年秋季发售](https://www.3dmgame.com/news/202312/3882943.html)
+
