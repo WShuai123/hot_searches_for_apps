@@ -73,3 +73,7 @@
 
 + [甜妹妹......(今日好笑开心视频：1300)](http://www.acfun.cn/v/ac43120865)
 
++ [今日份搞笑沙雕弹弹乐视频 #1033【求弹幕回复】](http://www.acfun.cn/v/ac43117210)
+
++ [【原创编舞】カラフル - Best Album Version(H△G)【HB to JIO】](http://www.acfun.cn/v/ac43098924)
+

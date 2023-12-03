@@ -41,3 +41,5 @@
 
 + [GraphQL渗透测试案例及防御办法](https://www.freebuf.com/articles/web/384344.html)
 
++ [《2023年企业IoT和OT威胁报告》：物联网恶意软件攻击增长400%](https://www.freebuf.com/articles/384560.html)
+
