@@ -53,3 +53,5 @@
 
 + [世界最大：日本大型核聚变实验装置开始运行](https://m.ithome.com/html/736659.htm)
 
++ [一汽奔腾第四代 B70 车型 12 月 8 日上市：2.0T + 爱信 6AT，全新设计语言](https://m.ithome.com/html/736644.htm)
+

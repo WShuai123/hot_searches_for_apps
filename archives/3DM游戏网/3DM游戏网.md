@@ -141,3 +141,15 @@
 
 + [全球最大核聚变反应堆成功点火 距人造太阳又近一步](https://www.3dmgame.com/news/202312/3882925.html)
 
++ [《Recolit》2024年2月登陆Steam 2D治愈解谜冒险](https://www.3dmgame.com/news/202312/3882931.html)
+
++ [PlayStation Portal拆机视频显示摇杆漂移更易维修](https://www.3dmgame.com/news/202312/3882932.html)
+
++ [《最终幻想16》配音演员炮轰业界大规模裁员现象](https://www.3dmgame.com/news/202312/3882930.html)
+
++ [张朝阳称长期被动刷手机人就废了：要多多读书运动](https://www.3dmgame.com/news/202312/3882929.html)
+
++ [精神破坏《MINDHACK》更新上线 故事核心第四章启动](https://www.3dmgame.com/news/202312/3882928.html)
+
++ [英特尔革命性架构转变！酷睿Ultra处理器本月15日发布](https://www.3dmgame.com/news/202312/3882927.html)
+

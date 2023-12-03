@@ -51,3 +51,5 @@
 
 + [渗透测试实战 | 若依ruoyi框架](https://www.freebuf.com/articles/web/384073.html)
 
++ [temcrypt：基于时间变化复杂度的强大JavaScript加密框架](https://www.freebuf.com/sectool/382398.html)
+
