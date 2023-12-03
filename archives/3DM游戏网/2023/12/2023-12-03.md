@@ -161,3 +161,13 @@
 
 + [几乎持平 2023年10月PS5销量与PS4生涯同期销量对比](https://www.3dmgame.com/news/202312/3882936.html)
 
++ [押井守谈《攻壳机动队最后的人类》电影 盛赞总导演干的好](https://www.3dmgame.com/news/202312/3882941.html)
+
++ [虚幻引擎5重制《极品飞车：最高通缉》效果视频赏](https://www.3dmgame.com/news/202312/3882940.html)
+
++ [末世生存新作《纳克园：最后的乐园》实机演示公布](https://www.3dmgame.com/news/202312/3882939.html)
+
++ [生存驾驶冒险新作《超自然车旅》上市日期公布](https://www.3dmgame.com/news/202312/3882938.html)
+
++ [因推广虚拟货币 足球明星C罗遭索赔涉案10亿美元](https://www.3dmgame.com/news/202312/3882937.html)
+
