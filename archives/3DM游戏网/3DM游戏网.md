@@ -135,3 +135,9 @@
 
 + [《水烟水雾》Steam页面上线 浪漫恋爱冒险](https://www.3dmgame.com/news/202312/3882919.html)
 
++ [《螃蟹大战2》2024年2月13日Steam抢测 好评甲壳对战](https://www.3dmgame.com/news/202312/3882926.html)
+
++ [艾莉扮演者：无需担心《最后的生还者》第二季品质](https://www.3dmgame.com/news/202312/3882924.html)
+
++ [全球最大核聚变反应堆成功点火 距人造太阳又近一步](https://www.3dmgame.com/news/202312/3882925.html)
+

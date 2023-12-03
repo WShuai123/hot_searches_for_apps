@@ -41,3 +41,5 @@
 
 + [ROG 2024 款幻 16 笔记本曝光：Ultra 9 185H + RTX 4090](https://m.ithome.com/html/736639.htm)
 
++ [钓鱼佬用鱼竿隔空画画，果然除了鱼什么都能钓出来](https://m.ithome.com/html/736568.htm)
+
