@@ -159,3 +159,5 @@
 
 + [《都市传说冒险团2 ：分身》Steam上线 都市传说沉浸冒险](https://www.3dmgame.com/news/202312/3882934.html)
 
++ [几乎持平 2023年10月PS5销量与PS4生涯同期销量对比](https://www.3dmgame.com/news/202312/3882936.html)
+
