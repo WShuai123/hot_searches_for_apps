@@ -61,3 +61,5 @@
 
 + [腾讯将关停 MOO 音乐，12 月 31 日正式停止服务](https://m.ithome.com/html/736705.htm)
 
++ [一加 12 手机预热：搭载全区域多功能 NFC、红外遥控功能](https://m.ithome.com/html/736693.htm)
+
