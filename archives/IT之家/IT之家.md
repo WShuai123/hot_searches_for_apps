@@ -43,3 +43,7 @@
 
 + [钓鱼佬用鱼竿隔空画画，果然除了鱼什么都能钓出来](https://m.ithome.com/html/736568.htm)
 
++ [小米王腾：Redmi K70 Pro 冠军版机型初期良率偏低、在产能爬坡阶段，12 月底发售](https://m.ithome.com/html/736664.htm)
+
++ [一加 12 手机采用独家自研“全息音频”技术，实现最多 12 音源信道不同方位同时播放](https://m.ithome.com/html/736578.htm)
+

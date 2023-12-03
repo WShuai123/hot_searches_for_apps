@@ -47,3 +47,5 @@
 
 + [摩诃草组织（APT-Q-36）借Spyder下载器投递Remcos木马](https://www.freebuf.com/articles/paper/385480.html)
 
++ [波音、X行遭受LockBit3.0勒索软件攻击，透过分析折射防守应该有的变化](https://www.freebuf.com/articles/web/384131.html)
+
