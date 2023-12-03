@@ -33,3 +33,9 @@
 
 + [贾跃亭，要把车卖给中东豪门](https://m.ithome.com/html/736618.htm)
 
++ [英特尔宣布酷睿 Ultra 处理器 12 月 15 日发布：核显显著提升，探索 AI 潜力](https://m.ithome.com/html/736635.htm)
+
++ [网红大 V 测豹 5 高速油耗 18 升，比亚迪方程豹回应：存大量异常驾驶行为](https://m.ithome.com/html/736652.htm)
+
++ [联合华为打造！香橙派 Orange Pi AIpro 开发板预售：昇腾 AI 技术路线、8/20 TOPS 算力，889 元起](https://m.ithome.com/html/736567.htm)
+

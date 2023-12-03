@@ -113,3 +113,15 @@
 
 + [《星空》发售三个月 游玩人数超过1200万](https://www.3dmgame.com/news/202312/3882912.html)
 
++ [《乐高堡垒之夜》正式公布 方块世界体验游戏乐趣](https://www.3dmgame.com/news/202312/3882918.html)
+
++ [PC引擎替换主机Analogue Duo12月11日上市 预购价249美元](https://www.3dmgame.com/news/202312/3882917.html)
+
++ [Redmi K70可以继续加电池并增厚1mm吗？网友：不接受](https://www.3dmgame.com/news/202312/3882916.html)
+
++ [《Apex英雄》没计划更换引擎 会占用大量开发资源](https://www.3dmgame.com/news/202312/3882915.html)
+
++ [《黑袍纠察队》第四季首曝预告 2024年播出](https://www.3dmgame.com/news/202312/3882914.html)
+
++ [《寿司灵魂宇宙》12月10日steam发售 恶搞吃寿司续篇](https://www.3dmgame.com/news/202312/3882913.html)
+

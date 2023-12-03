@@ -205,3 +205,7 @@
 
 + [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
 
++ [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
+
++ [唯品会 -新人享豪礼](https://itunes.apple.com/cn/app/id417200582?mt=8)
+
