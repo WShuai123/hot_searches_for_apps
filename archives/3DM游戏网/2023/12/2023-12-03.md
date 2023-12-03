@@ -175,3 +175,9 @@
 
 + [传《GTA6》首个预告片段泄露 2024年秋季发售](https://www.3dmgame.com/news/202312/3882943.html)
 
++ [TikTok将在欧洲投资超120亿欧元 并为当地用户建设3座数据中心](https://www.3dmgame.com/news/202312/3882946.html)
+
++ [今年的TGA可能有大量新IP公开](https://www.3dmgame.com/news/202312/3882944.html)
+
++ [曝Apple Vision Pro屏幕供应商为中国厂家](https://www.3dmgame.com/news/202312/3882945.html)
+

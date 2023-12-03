@@ -71,3 +71,5 @@
 
 + [吉利星瑞 L / 星越 L 智擎车型今日上市：搭载油电混动系统，预售 13.17 万元起](https://m.ithome.com/html/736673.htm)
 
++ [广汽本田将解雇约 900 名合约工](https://m.ithome.com/html/736699.htm)
+
