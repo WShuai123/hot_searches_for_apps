@@ -69,3 +69,25 @@
 
 + [Holidays in a snowing city](https://dribbble.com/shots/)
 
++ [Wordmarks Roundup Vol 05](https://dribbble.com/shots/)
+
++ [Ybsky Tea Identity](https://dribbble.com/shots/)
+
++ [Imagine ChatGPT Redesigned](https://dribbble.com/shots/)
+
++ [Jason Broyles](https://dribbble.com/shots/)
+
++ [Composition No. 15](https://dribbble.com/shots/)
+
++ [App UI](https://dribbble.com/shots/)
+
++ [Chronicles of Feminism](https://dribbble.com/shots/)
+
++ [Star Wars: X-Wing](https://dribbble.com/shots/)
+
++ [Jimmu the Genie](https://dribbble.com/shots/)
+
++ [Epoxy treats](https://dribbble.com/shots/)
+
++ [ToyJoy Mobile Website Design](https://dribbble.com/shots/)
+

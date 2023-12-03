@@ -101,3 +101,9 @@
 
 + [《自杀小队：战胜正义联盟》大量实机试玩视频泄露](https://www.3dmgame.com/news/202312/3882898.html)
 
++ [微软正筹备Xbox移动商店 或通过手游盈利](https://www.3dmgame.com/news/202312/3882950.html)
+
++ [斯宾塞：微软每年花费10亿美元购买第三方游戏进XGP](https://www.3dmgame.com/news/202312/3882948.html)
+
++ [《WWE 2K24》已获评级 或很快发布](https://www.3dmgame.com/news/202312/3882949.html)
+
