@@ -49,3 +49,23 @@
 
 + [Wilco Loft Sans Specimens](https://dribbble.com/shots/)
 
++ [Shih Tzu Logo](https://dribbble.com/shots/)
+
++ [Mac Classic 2 icon](https://dribbble.com/shots/)
+
++ [Jungle Mode](https://dribbble.com/shots/)
+
++ [Music and Artist Platform](https://dribbble.com/shots/)
+
++ [Making the most of summer in Cape Town](https://dribbble.com/shots/)
+
++ [Shoaling Salmon & Behind the Scenes](https://dribbble.com/shots/)
+
++ [Townsquare: Cairo](https://dribbble.com/shots/)
+
++ [Admin Dashboard for Auto Trading Crypto Investing Platform](https://dribbble.com/shots/)
+
++ [whiskies](https://dribbble.com/shots/)
+
++ [HUMBA](https://dribbble.com/shots/)
+
