@@ -45,3 +45,5 @@
 
 + [一加 12 手机预热：支持 USB 3.2 Gen1、IP65 防尘防水](https://m.ithome.com/html/736769.htm)
 
++ [小米万兆路由器等产品推送 Wi-Fi 7 固件升级，新增 MLO 多频同连](https://m.ithome.com/html/736765.htm)
+

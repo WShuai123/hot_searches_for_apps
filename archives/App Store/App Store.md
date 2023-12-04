@@ -213,3 +213,9 @@
 
 + [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [国家反诈中心](https://itunes.apple.com/cn/app/id1552823102?mt=8)
+

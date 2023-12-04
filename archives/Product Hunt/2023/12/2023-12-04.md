@@ -101,3 +101,15 @@
 
 + [Rizzpad - AI Dating Guru](https://www.producthunt.com/posts/rizzpad-ai-dating-guru)
 
++ [The new Substack Video](https://www.producthunt.com/posts/the-new-substack-video)
+
++ [Amazon Q](https://www.producthunt.com/posts/amazon-q)
+
++ [PPTX.ai](https://www.producthunt.com/posts/pptx-ai)
+
++ [D-ID Creative Reality™ Studio Mobile App](https://www.producthunt.com/posts/d-id-creative-reality-studio-mobile-app)
+
++ [ddle.dev](https://www.producthunt.com/posts/ddle-dev)
+
++ [Swifty](https://www.producthunt.com/posts/swifty-5)
+

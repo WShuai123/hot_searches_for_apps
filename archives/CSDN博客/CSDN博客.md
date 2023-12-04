@@ -225,3 +225,7 @@
 
 + [OpenHarmony 应用（HarmonyOS 原生应用）- 写一个 Hello World 并在华为手机上跑起来](https://blog.csdn.net/weixin_61845324/article/details/134770101)
 
++ [Pytorch深度强化学习1-5：详解蒙特卡洛强化学习原理](https://blog.csdn.net/FRIGIDWINTER/article/details/134770913)
+
++ [树莓派使用Nginx+cpolar内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/a1657054242/article/details/134779908)
+

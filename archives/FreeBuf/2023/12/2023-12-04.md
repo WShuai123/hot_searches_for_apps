@@ -59,3 +59,7 @@
 
 + [如何使用TinyTracer跟踪API调用](https://www.freebuf.com/sectool/382399.html)
 
++ [国家标准《信息安全技术 政务计算机终端核心配置规范》征求意见稿发布](https://www.freebuf.com/news/385605.html)
+
++ [USRC周年庆 | 安全一“陆”有你，“银”光筑梦未来！](https://www.freebuf.com/fevents/385602.html)
+
