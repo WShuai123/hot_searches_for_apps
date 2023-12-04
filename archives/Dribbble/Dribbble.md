@@ -111,3 +111,9 @@
 
 + [Justis UI-UX](https://dribbble.com/shots/)
 
++ [Admin Dashboard for Auto Trading Crypto Investing Platform](https://dribbble.com/shots/)
+
++ [Shoaling Salmon & Behind the Scenes](https://dribbble.com/shots/)
+
++ [Mech battle.](https://dribbble.com/shots/)
+

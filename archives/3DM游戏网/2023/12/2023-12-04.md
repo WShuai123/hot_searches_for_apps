@@ -121,3 +121,23 @@
 
 + [悬疑冒险解谜游戏《深红女仆》发布试玩版](https://www.3dmgame.com/news/202312/3882953.html)
 
++ [全力宣传《GTA6》 R星删除了社交媒体INS的所有帖文](https://www.3dmgame.com/news/202312/3882961.html)
+
++ [斯宾塞对《星空》有信心：将像《上古卷轴5》一样长寿](https://www.3dmgame.com/news/202312/3882962.html)
+
++ [索尼新专利表明 正在开发可提供游戏提示的DualSense手柄](https://www.3dmgame.com/news/202312/3882963.html)
+
++ [《自拍》Steam页面上线 纪录片风格恐怖新游](https://www.3dmgame.com/news/202312/3882964.html)
+
++ [IGN更新十大最佳类魂游戏 《匹诺曹的谎言》上榜](https://www.3dmgame.com/news/202312/3882965.html)
+
++ [《龙之信条2》幻术师介绍视频 召唤幻象发动攻击](https://www.3dmgame.com/news/202312/3882966.html)
+
++ [《星露谷物语》1.6版本取得巨大进展 作者还在努力开发中](https://www.3dmgame.com/news/202312/3882967.html)
+
++ [3DS名作《不思议国的冒险酒场》12月21日登陆Switch](https://www.3dmgame.com/news/202312/3882958.html)
+
++ [凯奇《战争之王》续集将于2024年在摩洛哥开拍](https://www.3dmgame.com/news/202312/3882959.html)
+
++ [EA注册全新商标“Neon Fox” 或为新工作室](https://www.3dmgame.com/news/202312/3882960.html)
+

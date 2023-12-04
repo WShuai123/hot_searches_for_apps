@@ -45,3 +45,5 @@
 
 + [batsignal macOS本地提权漏洞分析](https://www.freebuf.com/vuls/384037.html)
 
++ [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
+

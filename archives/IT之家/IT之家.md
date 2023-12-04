@@ -33,3 +33,5 @@
 
 + [比亚迪高管批行业乱象：技术和产品经常被针对，悬赏 500 万打击恶意抹黑](https://m.ithome.com/html/736763.htm)
 
++ [研究结果显示，向 ChatGPT 提问时承诺提供“小费”会得到更详细回复](https://m.ithome.com/html/736733.htm)
+
