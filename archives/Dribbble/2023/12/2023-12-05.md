@@ -85,3 +85,17 @@
 
 + [HomeeAi - Visual Identity System](https://dribbble.com/shots/)
 
++ [Fitness Photography Brand Identity](https://dribbble.com/shots/)
+
++ [Financilux UI-UX](https://dribbble.com/shots/)
+
++ [Packed Present](https://dribbble.com/shots/)
+
++ [Finances](https://dribbble.com/shots/)
+
++ [Strawberry Cake????](https://dribbble.com/shots/)
+
++ [Boy with dog](https://dribbble.com/shots/)
+
++ [doodle](https://dribbble.com/shots/)
+
