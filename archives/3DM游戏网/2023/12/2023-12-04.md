@@ -239,3 +239,7 @@
 
 + [《GTA6》首支预告片上线时间早在几个月前就被“公开”了](https://www.3dmgame.com/news/202312/3883016.html)
 
++ [烛龙新作《白荆回廊》1月12日上线 预约人数破千万](https://www.3dmgame.com/news/202312/3883018.html)
+
++ [《时空英豪2：新起点》2024年3月15日发售](https://www.3dmgame.com/news/202312/3883017.html)
+
