@@ -249,3 +249,5 @@
 
 + [基于Java+Vue+uniapp微信小程序博客平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134790120)
 
++ [Docker Registry本地镜像仓库部署并实现远程连接拉取镜像](https://blog.csdn.net/qq_73017178/article/details/134785293)
+

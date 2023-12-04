@@ -49,3 +49,9 @@
 
 + [蔚来汽车获得独立生产资质，摆脱江淮制造](https://m.ithome.com/html/736823.htm)
 
++ [消息称小米 14 Ultra 工程机测试单点超声波指纹方案，目前在积极验证中](https://m.ithome.com/html/736792.htm)
+
++ [小米米家标签打印机套装上架：无需油墨，众筹价 119 元](https://m.ithome.com/html/736809.htm)
+
++ [美国又出新规，使用中国电池的美国电动汽车将不享受免税](https://m.ithome.com/html/736775.htm)
+
