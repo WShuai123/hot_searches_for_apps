@@ -213,3 +213,25 @@
 
 + [“英雄传说轨迹系列”集换式卡牌游戏宣布 预计2024年发售](https://www.3dmgame.com/news/202312/3883002.html)
 
++ [Meta首席科学家杨立昆驳黄仁勋：超级智能不会很快到来](https://www.3dmgame.com/news/202312/3883015.html)
+
++ [11月国产网络游戏版号公布 《全境封锁：曙光》等过审](https://www.3dmgame.com/news/202312/3883013.html)
+
++ [大妈捡手机用免密支付刷光余额！教你关闭微信等免密支付](https://www.3dmgame.com/news/202312/3883012.html)
+
++ [生存城市建设游戏《耀斑纪元》将于2024年1月18日进入抢先体验](https://www.3dmgame.com/news/202312/3883011.html)
+
++ [《佩妮大逃脱》揭晓全新动画宣传片](https://www.3dmgame.com/news/202312/3883010.html)
+
++ [《时空错乱之旅》现已登陆主机平台，为玩家带来合作飞船生存体验](https://www.3dmgame.com/news/202312/3883009.html)
+
++ [今日收获：《同舟共济》“鱼和船舶”更新现已在全平台推出](https://www.3dmgame.com/news/202312/3883008.html)
+
++ [现代冒险解谜游戏《距离8点还有3分钟》将于今年12月登陆主机和移动平台](https://www.3dmgame.com/news/202312/3883007.html)
+
++ [克苏鲁生存射击游戏《黎明前20分钟》12月21日上线Nintendo Switch](https://www.3dmgame.com/news/202312/3883006.html)
+
++ [国风独立动作游戏《平寇志》现已正式定档12月7日！](https://www.3dmgame.com/news/202312/3883005.html)
+
++ [DDR4/DDR5集体大涨价 三星等存储大厂继续减产：还要涨](https://www.3dmgame.com/news/202312/3883004.html)
+

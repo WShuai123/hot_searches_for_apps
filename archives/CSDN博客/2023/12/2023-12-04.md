@@ -233,3 +233,9 @@
 
 + [破解app思路](https://blog.csdn.net/Python9724/article/details/134235980)
 
++ [使用 PHPMailer 实现邮件的实时发送](https://blog.csdn.net/qq_44273429/article/details/134784616)
+
++ [无公网IP环境固定地址远程SSH访问本地树莓派Raspberry Pi](https://blog.csdn.net/hsjsiwkwm/article/details/134785727)
+
++ [【最通用版FPGA 实现 SPI 驱动】](https://blog.csdn.net/weixin_44698673/article/details/134620089)
+
