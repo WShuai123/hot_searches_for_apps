@@ -151,3 +151,11 @@
 
 + [C#网络编程（System.Net.Sockets命名空间）](https://blog.csdn.net/wenchm/article/details/134767746)
 
++ [还记得当初自己为什么选择计算机——报专业的时候好奇](https://blog.csdn.net/feng8403000/article/details/134795536)
+
++ [数据挖掘第一章-OLAP](https://blog.csdn.net/weixin_43206246/article/details/134765396)
+
++ [鸿蒙是Android套壳么，当然不是，ArkTS还是很有意思的](https://blog.csdn.net/jiyanglin/article/details/134754730)
+
++ [【云原生-K8s】镜像漏洞安全扫描工具Trivy部署及使用](https://blog.csdn.net/u010800804/article/details/134791398)
+
