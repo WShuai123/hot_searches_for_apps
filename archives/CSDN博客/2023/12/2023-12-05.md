@@ -159,3 +159,5 @@
 
 + [【云原生-K8s】镜像漏洞安全扫描工具Trivy部署及使用](https://blog.csdn.net/u010800804/article/details/134791398)
 
++ [人工智能与供应链行业融合：预测算法的通用化与实战化](https://blog.csdn.net/u014727709/article/details/134659315)
+

@@ -101,3 +101,13 @@
 
 + [凯文·费奇：我们永远不会神奇撤销钢铁侠之死](https://www.3dmgame.com/news/202312/3882972.html)
 
++ [《罪恶装备》与《刀剑神域》开发商宣布合作](https://www.3dmgame.com/news/202312/3883026.html)
+
++ [《闪电十一人 英雄们的胜利之路》也将登陆PC](https://www.3dmgame.com/news/202312/3883025.html)
+
++ [Starbreeze公布基于DnD IP新作Project Baxter](https://www.3dmgame.com/news/202312/3883024.html)
+
++ [探索解谜游戏《波坦尼庄园》将于24年春季推出](https://www.3dmgame.com/news/202312/3883023.html)
+
++ [《龙腾世纪：恐狼》明年夏季揭晓 新预告片公布](https://www.3dmgame.com/news/202312/3883022.html)
+
