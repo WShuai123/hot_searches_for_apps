@@ -171,3 +171,7 @@
 
 + [瓦路易基创作者表示  04年的《马里奥网球》未使用他设计的“邪恶瓦碧琪公主”](https://www.3dmgame.com/news/202312/3882978.html)
 
++ [AMD吃惊 RX7900已卖疯！戴尔行动：在中国全面禁售](https://www.3dmgame.com/news/202312/3882984.html)
+
++ [《权力的游戏》衍生剧《龙之家族》曝第二季预告片](https://www.3dmgame.com/news/202312/3882983.html)
+

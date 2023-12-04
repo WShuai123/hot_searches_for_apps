@@ -199,3 +199,15 @@
 
 + [打造个性化github主页 一](https://blog.csdn.net/studycodeday/article/details/134744005)
 
++ [使用Pytoch实现Opencv warpAffine方法](https://blog.csdn.net/qq_37541097/article/details/134766540)
+
++ [代码生成的原理解析：从Codex、GitHub copliot到CodeLlama、CodeGeex](https://blog.csdn.net/v_JULY_v/article/details/134765564)
+
++ [计算机网络的性能](https://blog.csdn.net/weixin_72077052/article/details/134766823)
+
++ [Web前端 ---- 【Vue】（组件）父子组件之间的通信一文带你了解](https://blog.csdn.net/weixin_68854196/article/details/134753755)
+
++ [YOLOv7+姿态估计Pose+tensort部署加速](https://blog.csdn.net/ALiLiLiYa/article/details/134758819)
+
++ [WPS开发文档](https://blog.csdn.net/zslefour/article/details/134766174)
+
