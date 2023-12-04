@@ -41,3 +41,7 @@
 
 + [今日CSO：吹哨人还是离职者](https://www.freebuf.com/articles/neopoints/385259.html)
 
++ [FreeBuf早报 | 延锋汽车遭“麒麟”勒索软件攻击；法国建议不要使用外国聊天软件](https://www.freebuf.com/news/385496.html)
+
++ [batsignal macOS本地提权漏洞分析](https://www.freebuf.com/vuls/384037.html)
+

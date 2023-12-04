@@ -111,3 +111,13 @@
 
 + [新角色Quan Chi将于本月加入《真人快打1》](https://www.3dmgame.com/news/202312/3882952.html)
 
++ [《GT赛车7》Spec 2更新后 活跃玩家翻了一倍](https://www.3dmgame.com/news/202312/3882957.html)
+
++ [《DOTA2》2023年上海大师赛 iG 2:1 茶队夺冠](https://www.3dmgame.com/news/202312/3882956.html)
+
++ [Epic发布《堡垒之夜》第五章第一季预告](https://www.3dmgame.com/news/202312/3882955.html)
+
++ [虚幻5动画《高达：复仇的安魂曲》发布预告片](https://www.3dmgame.com/news/202312/3882954.html)
+
++ [悬疑冒险解谜游戏《深红女仆》发布试玩版](https://www.3dmgame.com/news/202312/3882953.html)
+
