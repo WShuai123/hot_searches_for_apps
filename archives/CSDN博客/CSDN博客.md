@@ -219,3 +219,9 @@
 
 + [Python 数据处理与分析之 Pandas 库](https://blog.csdn.net/footless_bird/article/details/134776677)
 
++ [11月推荐阅读的12篇大语言模型相关论文](https://blog.csdn.net/m0_46510245/article/details/134776461)
+
++ [ElementUI+vue+nodejs培训学校课程预约网站的设计与开发](https://blog.csdn.net/abo2021/article/details/134761029)
+
++ [OpenHarmony 应用（HarmonyOS 原生应用）- 写一个 Hello World 并在华为手机上跑起来](https://blog.csdn.net/weixin_61845324/article/details/134770101)
+

@@ -175,3 +175,19 @@
 
 + [《权力的游戏》衍生剧《龙之家族》曝第二季预告片](https://www.3dmgame.com/news/202312/3882983.html)
 
++ [TGA 2023持续约2.5-3小时 将有大量新游戏揭晓](https://www.3dmgame.com/news/202312/3882992.html)
+
++ [《RONNARIUM》登陆Steam 不可思议水族馆探索冒险](https://www.3dmgame.com/news/202312/3882991.html)
+
++ [蜘蛛侠绝不杀人但会折磨人 《漫威蜘蛛侠2》BUG制造酷刑永动机](https://www.3dmgame.com/news/202312/3882990.html)
+
++ [评分网站泄露 《生化危机4：重制版》或将推出黄金版](https://www.3dmgame.com/news/202312/3882989.html)
+
++ [《GTA6》海报引发病毒式宣传 《守望先锋2》《合金装备》等游戏跟风出同款海报](https://www.3dmgame.com/news/202312/3882988.html)
+
++ [《完蛋我被美女包围》新DLC在厦门开拍 有3个新女角](https://www.3dmgame.com/news/202312/3882987.html)
+
++ [《HIP GAME》Steam页面上线 掉落解谜新游](https://www.3dmgame.com/news/202312/3882986.html)
+
++ [《街头霸王6》联动《间谍过家家》特别动画今日公开 春丽VS约尔](https://www.3dmgame.com/news/202312/3882985.html)
+
