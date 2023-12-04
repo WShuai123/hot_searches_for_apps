@@ -47,3 +47,7 @@
 
 + [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
 
++ [法国禁止政府要员使用外国聊天应用](https://www.freebuf.com/news/385573.html)
+
++ [国外知名占卜网站1300万条用户信息遭泄露](https://www.freebuf.com/news/385561.html)
+

@@ -159,3 +159,15 @@
 
 + [新加坡分级委员会透露《未知9号：觉醒》将于2024年发售](https://www.3dmgame.com/news/202312/3882968.html)
 
++ [LOL格斗游戏《Project L》确定参展EVO Japan 2024](https://www.3dmgame.com/news/202312/3882982.html)
+
++ [威尔史密斯透露《我是传奇2》进度 大家期待吗？](https://www.3dmgame.com/news/202312/3882977.html)
+
++ [新研究称比特币耗水量巨大 加剧全球水资源不足](https://www.3dmgame.com/news/202312/3882981.html)
+
++ [《名侦探柯南：黑铁的鱼影》曝正面交锋版预告海报 红黑集结开战](https://www.3dmgame.com/news/202312/3882980.html)
+
++ [TGA 2023预热宣传片公布 12月8日即将开启](https://www.3dmgame.com/news/202312/3882979.html)
+
++ [瓦路易基创作者表示  04年的《马里奥网球》未使用他设计的“邪恶瓦碧琪公主”](https://www.3dmgame.com/news/202312/3882978.html)
+

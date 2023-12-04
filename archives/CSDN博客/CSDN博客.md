@@ -101,3 +101,101 @@
 
 + [【数据库】数据库可恢复性目标的实现模型，针对灾难级故障的数据完整性保护对策](https://blog.csdn.net/senllang/article/details/134698248)
 
++ [人工智能时代：AIGC的横空出世](https://blog.csdn.net/2301_80026901/article/details/134755411)
+
++ [微前端实战：打造高效、灵活的前端应用架构](https://blog.csdn.net/qq_32682301/article/details/134711726)
+
++ [人工智能 - 人脸识别：发展历史、技术全解与实战](https://blog.csdn.net/magicyangjay111/article/details/134762161)
+
++ [翻译: GPT4等大型语言模型的原理解析和未来预测慢思考和模型自我迭代和LLM安全](https://blog.csdn.net/zgpeace/article/details/134760623)
+
++ [深入探究Photoshop图像修复与润饰技巧](https://blog.csdn.net/qq_44273429/article/details/134728085)
+
++ [[ 云计算 | AWS 实践 ] 使用 Java 检查指定的密钥是否存在于给定的 Amazon S3 存储桶中](https://blog.csdn.net/dietime1943/article/details/134773478)
+
++ [OGG实现Oracle19C到postgreSQL14的实时同步](https://blog.csdn.net/weixin_41645135/article/details/134774559)
+
++ [2024年，Rust和Go学哪个更好？](https://blog.csdn.net/wo541075754/article/details/134762207)
+
++ [Linux Spug自动化运维平台本地部署与公网远程访问](https://blog.csdn.net/qq_57761637/article/details/134747164)
+
++ [【SpringBoot】讲清楚日志文件&&lombok](https://blog.csdn.net/weixin_69160215/article/details/134760692)
+
++ [Java+springboot+avue医院绩效考核系统源码支持二次开发](https://blog.csdn.net/qq_27741787/article/details/134766491)
+
++ [AI时代架构师之路：技术、洞察和创新的完美融合](https://blog.csdn.net/xqe777/article/details/134741283)
+
++ [定时任务特辑 | Quartz、xxl-job、elastic-job、Cron四个定时任务框架对比，和Spring Boot集成实战](https://blog.csdn.net/superdangbo/article/details/134750640)
+
++ [【SpringBoot系列】SpringBoot整合Kafka(含源码)](https://blog.csdn.net/jinxinxin1314/article/details/134770887)
+
++ [【spring（六）】WebSocket网络传输协议](https://blog.csdn.net/Panci_/article/details/134749030)
+
++ [TTM Squeeze挤牌指标选股公式，通过波动率和动量判断能量释放](https://blog.csdn.net/m0_74754828/article/details/134736691)
+
++ [ChatGPT 的 18 种玩法，你还不会用吗？](https://blog.csdn.net/weixin_47059371/article/details/134766001)
+
++ [基于OpenCV的手势1~5识别系统（源码＆环境部署）](https://blog.csdn.net/xuehaishijue/article/details/134733407)
+
++ [维基百科文章爬虫和聚类：高级聚类和可视化](https://blog.csdn.net/gongdiwudu/article/details/134768438)
+
++ [Windows11系统下MemoryCompression导致内存占用率过高](https://blog.csdn.net/2301_80092713/article/details/134747355)
+
++ [代码生成的原理解析：从Codex、GitHub copliot到codeLlama、codegeex](https://blog.csdn.net/v_JULY_v/article/details/134765564)
+
++ [Android监听用户的截屏、投屏、录屏行为](https://blog.csdn.net/ldld1717/article/details/134756724)
+
++ [Python海绵宝宝](https://blog.csdn.net/m0_68111267/article/details/134761996)
+
++ [【理解ARM架构】中断处理 | CPU模式](https://blog.csdn.net/weixin_63726869/article/details/134692802)
+
++ [【计算机组成原理】存储器知识](https://blog.csdn.net/m0_65277261/article/details/134770339)
+
++ [ActiViz 9.3.0 for .NET Crack](https://blog.csdn.net/john_dwh/article/details/134764650)
+
++ [【bat】批处理脚本大全](https://blog.csdn.net/Joker_ZJN/article/details/134763877)
+
++ [吸烟(抽烟)检测和识别2：Pytorch实现吸烟(抽烟)检测和识别(含吸烟(抽烟)数据集和训练代码)](https://blog.csdn.net/guyuealian/article/details/131521338)
+
++ [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/134737083)
+
++ [【爬虫逆向分析实战】某笔登录算法分析——本地替换分析法](https://blog.csdn.net/qq_35230125/article/details/134382105)
+
++ [设计模式之道：解构结构型设计模式的核心原理](https://blog.csdn.net/Long_xu/article/details/134754113)
+
++ [直播电商数据仓库](https://blog.csdn.net/qq_24330181/article/details/134734411)
+
++ [【Linux系统化学习】揭秘 命令行参数 | 环境变量](https://blog.csdn.net/qq_55119554/article/details/134742689)
+
++ [计算机网络扫盲（1）——因特网](https://blog.csdn.net/apple_53311083/article/details/134743358)
+
++ [对比ProtoBuf和JSON的序列化和反序列化能力](https://blog.csdn.net/qq_65307907/article/details/134041331)
+
++ [SSR是什么？Vue中怎么实现？](https://blog.csdn.net/He_9a9/article/details/134728495)
+
++ [软件工程 考试重点](https://blog.csdn.net/m0_64799907/article/details/134761456)
+
++ [python--自动化办公（Word）](https://blog.csdn.net/u012121721/article/details/134758288)
+
++ [计算机网络第四章：网络层](https://blog.csdn.net/qq_62982856/article/details/134746787)
+
++ [C#网络编程System.Net.WebClient 类vs System.Net.Http.HttpClient 类](https://blog.csdn.net/wenchm/article/details/134768772)
+
++ [【微信小程序】上传头像 微信小程序内接小程序客服](https://blog.csdn.net/qq_45489665/article/details/134768222)
+
++ [2023认证杯小美赛a题思路代码太阳黑子预测](https://blog.csdn.net/yeqianqian_/article/details/134729281)
+
++ [Elasticsearch：什么是向量数据库？](https://blog.csdn.net/UbuntuTouch/article/details/134770001)
+
++ [【开源】基于Vue和SpringBoot的校园二手交易系统](https://blog.csdn.net/yangyin1998/article/details/134748769)
+
++ [【开源】基于Vue+SpringBoot的音乐平台](https://blog.csdn.net/javamyfriend/article/details/134750065)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/stopluox/article/details/134743164)
+
++ [【网络安全】-《网络安全法》制定背景和核心内容](https://blog.csdn.net/u010671061/article/details/134775083)
+
++ [uni-app 微信小程序之自定义navigationBar顶部导航栏](https://blog.csdn.net/qq_36410795/article/details/134752143)
+
++ [打造个性化github主页 一](https://blog.csdn.net/studycodeday/article/details/134744005)
+
