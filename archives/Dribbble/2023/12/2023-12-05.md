@@ -69,3 +69,19 @@
 
 + [HUMBA](https://dribbble.com/shots/)
 
++ [Advocacy Through Walls Website](https://dribbble.com/shots/)
+
++ [Jimmy Genie](https://dribbble.com/shots/)
+
++ [Sold Out](https://dribbble.com/shots/)
+
++ [Ecommerce Modal](https://dribbble.com/shots/)
+
++ [Motion illustrations for Notion](https://dribbble.com/shots/)
+
++ [Fishbowl CRM - Business Management Solution](https://dribbble.com/shots/)
+
++ [2023 Chromatic Curves ⓒ by Alex Spenser](https://dribbble.com/shots/)
+
++ [HomeeAi - Visual Identity System](https://dribbble.com/shots/)
+
