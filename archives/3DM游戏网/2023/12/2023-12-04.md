@@ -141,3 +141,21 @@
 
 + [EA注册全新商标“Neon Fox” 或为新工作室](https://www.3dmgame.com/news/202312/3882960.html)
 
++ [网易游戏为家长开通禁止充值登录功能 一键即可管理](https://www.3dmgame.com/news/202312/3882976.html)
+
++ [EA将开源更多专利 共享其无障碍工具并“帮助游戏玩家”](https://www.3dmgame.com/news/202312/3882973.html)
+
++ [玩家期待度爆表 《GTA6》预告推文点赞逼近200万游戏类型新记录](https://www.3dmgame.com/news/202312/3882975.html)
+
++ [Steam十一月硬件调查：RTX3060显卡仍稳居榜首位置](https://www.3dmgame.com/news/202312/3882974.html)
+
++ [凯文·费奇：我们永远不会神奇撤销钢铁侠之死](https://www.3dmgame.com/news/202312/3882972.html)
+
++ [《骰死地牢：起源》免费登陆Steam 肉鸽骰子作战](https://www.3dmgame.com/news/202312/3882971.html)
+
++ [《最后生还者》剧集艾莉演员想在第2季开拍前玩这游戏](https://www.3dmgame.com/news/202312/3882970.html)
+
++ [《赛博朋克2077》2.1版本可与伴侣在家中共度良宵](https://www.3dmgame.com/news/202312/3882969.html)
+
++ [新加坡分级委员会透露《未知9号：觉醒》将于2024年发售](https://www.3dmgame.com/news/202312/3882968.html)
+

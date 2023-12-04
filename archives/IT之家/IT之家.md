@@ -35,3 +35,5 @@
 
 + [研究结果显示，向 ChatGPT 提问时承诺提供“小费”会得到更详细回复](https://m.ithome.com/html/736733.htm)
 
++ [华为 Mate 50 工程机曝光：提供白、蓝两款配色，最终未能上市](https://m.ithome.com/html/736776.htm)
+
