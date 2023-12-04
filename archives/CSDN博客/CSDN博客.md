@@ -135,3 +135,19 @@
 
 + [【微信小程序】上传头像 微信小程序内接小程序客服](https://blog.csdn.net/qq_45489665/article/details/134768222)
 
++ [ARM_CORE 梳理--ARM系列](https://blog.csdn.net/tujiuguo3994/article/details/133825211)
+
++ [SpringCloud | Dubbo 微服务实战——注册中心详解](https://blog.csdn.net/Why_does_it_work/article/details/134777376)
+
++ [AI神经网络原理与人类大脑神经系统原理理论与Python实战：意识与注意力的神经机制探究](https://blog.csdn.net/universsky2015/article/details/134773428)
+
++ [人工智能发展史](https://blog.csdn.net/lsb2002/article/details/134772829)
+
++ [使用Plex结合cpolar搭建本地私人媒体站并实现远程访问](https://blog.csdn.net/w2915w/article/details/134782478)
+
++ [【腾讯云HAI域探密】- AIGC应用助力企业降本增效之路](https://blog.csdn.net/wanmeijuhao/article/details/134769960)
+
++ [ChatGPT 的 18 种玩法，你还不会用吗？](https://blog.csdn.net/weixin_47059371/article/details/134766001)
+
++ [C#网络编程（System.Net.Sockets命名空间）](https://blog.csdn.net/wenchm/article/details/134767746)
+
