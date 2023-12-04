@@ -237,3 +237,5 @@
 
 + [《真人快打1》将有故事资料片](https://www.3dmgame.com/news/202312/3883014.html)
 
++ [《GTA6》首支预告片上线时间早在几个月前就被“公开”了](https://www.3dmgame.com/news/202312/3883016.html)
+

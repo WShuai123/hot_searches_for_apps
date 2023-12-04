@@ -247,3 +247,5 @@
 
 + [外包干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/hlsxjh/article/details/134782751)
 
++ [基于Java+Vue+uniapp微信小程序博客平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134790120)
+
