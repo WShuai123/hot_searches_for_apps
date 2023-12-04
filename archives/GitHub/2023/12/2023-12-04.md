@@ -51,3 +51,25 @@
 
 + [ChristopherBiscardi / advent-of-code](https://github.com/ChristopherBiscardi/advent-of-code)
 
++ [go-gost / gost](https://github.com/go-gost/gost)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
+
++ [TabbyML / tabby](https://github.com/TabbyML/tabby)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+
++ [qbittorrent / qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
++ [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
++ [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+
++ [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
+

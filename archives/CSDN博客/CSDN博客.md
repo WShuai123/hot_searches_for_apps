@@ -239,3 +239,11 @@
 
 + [【最通用版FPGA 实现 SPI 驱动】](https://blog.csdn.net/weixin_44698673/article/details/134620089)
 
++ [Linux DataEase数据可视化分析工具本地部署与远程访问](https://blog.csdn.net/qq_72916130/article/details/134787413)
+
++ [云原生之深入解析Kubernetes策略引擎对比：OPA/Gatekeeper与Kyverno](https://blog.csdn.net/Forever_wj/article/details/134784484)
+
++ [如何使用cpolar+Plex在Windows系统上搭建私人媒体影音站点公网可访问](https://blog.csdn.net/qq_58286439/article/details/134787407)
+
++ [外包干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/hlsxjh/article/details/134782751)
+

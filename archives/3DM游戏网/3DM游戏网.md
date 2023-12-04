@@ -235,3 +235,5 @@
 
 + [DDR4/DDR5集体大涨价 三星等存储大厂继续减产：还要涨](https://www.3dmgame.com/news/202312/3883004.html)
 
++ [《真人快打1》将有故事资料片](https://www.3dmgame.com/news/202312/3883014.html)
+

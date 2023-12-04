@@ -47,3 +47,5 @@
 
 + [小米万兆路由器等产品推送 Wi-Fi 7 固件升级，新增 MLO 多频同连](https://m.ithome.com/html/736765.htm)
 
++ [蔚来汽车获得独立生产资质，摆脱江淮制造](https://m.ithome.com/html/736823.htm)
+
