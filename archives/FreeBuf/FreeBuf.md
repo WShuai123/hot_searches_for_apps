@@ -65,3 +65,5 @@
 
 + [漏洞盒子x度小满SRC | 一年一度，10倍狂欢来袭！](https://www.freebuf.com/articles/385610.html)
 
++ [FB 赠书第 103 期 | 企业安全体系建设宝典 ——《企业信息安全体系建设之道》来喽！](https://www.freebuf.com/fevents/385622.html)
+
