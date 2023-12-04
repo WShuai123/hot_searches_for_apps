@@ -53,3 +53,7 @@
 
 + [Jsp Webshell与unicode的事](https://www.freebuf.com/articles/web/385433.html)
 
++ [Black Basta 勒索软件团伙出道以来至少“赚取” 1.07 亿美元](https://www.freebuf.com/news/385580.html)
+
++ [等保2.0测评：麒麟操作系统](https://www.freebuf.com/articles/system/383809.html)
+

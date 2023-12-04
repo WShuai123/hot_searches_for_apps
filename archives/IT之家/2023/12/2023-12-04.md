@@ -41,3 +41,7 @@
 
 + [12.67 万元 / 16.77 万元起售，吉利两款新车星瑞 L / 星越 L 智擎正式上市](https://m.ithome.com/html/736750.htm)
 
++ [《完蛋！我被美女包围了！》游戏 DLC 在厦门开拍，消息称都是全新角色](https://m.ithome.com/html/736802.htm)
+
++ [一加 12 手机预热：支持 USB 3.2 Gen1、IP65 防尘防水](https://m.ithome.com/html/736769.htm)
+
