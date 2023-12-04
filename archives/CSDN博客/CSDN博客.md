@@ -101,3 +101,37 @@
 
 + [【SpringBoot】讲清楚日志文件&&lombok](https://blog.csdn.net/weixin_69160215/article/details/134760692)
 
++ [Elasticsearch：什么是向量数据库？](https://blog.csdn.net/UbuntuTouch/article/details/134770001)
+
++ [使用Pytoch实现Opencv warpAffine方法](https://blog.csdn.net/qq_37541097/article/details/134766540)
+
++ [云原生之深入解析Kubernetes策略引擎对比：OPA/Gatekeeper与Kyverno](https://blog.csdn.net/Forever_wj/article/details/134784484)
+
++ [Python 数据处理与分析之 Pandas 库](https://blog.csdn.net/footless_bird/article/details/134776677)
+
++ [软件工程 考试重点](https://blog.csdn.net/m0_64799907/article/details/134761456)
+
++ [【理解ARM架构】中断处理 | CPU模式](https://blog.csdn.net/weixin_63726869/article/details/134692802)
+
++ [计算机网络的性能](https://blog.csdn.net/weixin_72077052/article/details/134766823)
+
++ [HarmonyOS开发(九)：数据管理](https://blog.csdn.net/advent86/article/details/134753667)
+
++ [对比ProtoBuf和JSON的序列化和反序列化能力](https://blog.csdn.net/qq_65307907/article/details/134041331)
+
++ [ElementUI+vue+nodejs培训学校课程预约网站的设计与开发](https://blog.csdn.net/abo2021/article/details/134761029)
+
++ [外包干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/hlsxjh/article/details/134782751)
+
++ [OpenHarmony 应用（HarmonyOS 原生应用）- 写一个 Hello World 并在华为手机上跑起来](https://blog.csdn.net/weixin_61845324/article/details/134770101)
+
++ [C#网络编程System.Net.WebClient 类vs System.Net.Http.HttpClient 类](https://blog.csdn.net/wenchm/article/details/134768772)
+
++ [python--自动化办公（Word）](https://blog.csdn.net/u012121721/article/details/134758288)
+
++ [【开源】基于Vue+SpringBoot的音乐平台](https://blog.csdn.net/javamyfriend/article/details/134750065)
+
++ [蓝桥杯-03-蓝桥杯学习计划](https://blog.csdn.net/m0_38139250/article/details/134783926)
+
++ [【微信小程序】上传头像 微信小程序内接小程序客服](https://blog.csdn.net/qq_45489665/article/details/134768222)
+
