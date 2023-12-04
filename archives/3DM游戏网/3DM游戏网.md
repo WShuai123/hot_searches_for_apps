@@ -195,3 +195,17 @@
 
 + [特别好评恐怖游戏《８番出口》补丁修复速通BUG 玩家光速开发新速通套路](https://www.3dmgame.com/news/202312/3882993.html)
 
++ [AI重绘《古墓丽影》三角胸劳拉：美丽逼真身材太好了](https://www.3dmgame.com/news/202312/3883001.html)
+
++ [玩家展示玩《艾尔登法环》一年后PS4手柄：被磨得很光](https://www.3dmgame.com/news/202312/3883000.html)
+
++ [华为、江淮合作首车曝光：定位百万级 对标迈巴赫](https://www.3dmgame.com/news/202312/3882999.html)
+
++ [捷尼赛思发布全新虚拟概念车 将在《GT赛车7》上线](https://www.3dmgame.com/news/202312/3882998.html)
+
++ [《英雄联盟》国服召唤师ID系统即将升级 可免费改名一次](https://www.3dmgame.com/news/202312/3882997.html)
+
++ [你用过哪些 2023年十大流行语发布：人工智能大模型、显眼包等上榜](https://www.3dmgame.com/news/202312/3882996.html)
+
++ [还没开始做？《最后的生还者》配音演员称尚未收到第三部的剧本](https://www.3dmgame.com/news/202312/3882995.html)
+

@@ -63,3 +63,5 @@
 
 + [USRC周年庆 | 安全一“陆”有你，“银”光筑梦未来！](https://www.freebuf.com/fevents/385602.html)
 
++ [漏洞盒子x度小满SRC | 一年一度，10倍狂欢来袭！](https://www.freebuf.com/articles/385610.html)
+

@@ -229,3 +229,7 @@
 
 + [树莓派使用Nginx+cpolar内网穿透实现无公网IP访问内网本地站点](https://blog.csdn.net/a1657054242/article/details/134779908)
 
++ [使用群晖Docker搭建HomeAssistant并实现异地公网访问家中智能设备](https://blog.csdn.net/xz2935117143/article/details/134783562)
+
++ [破解app思路](https://blog.csdn.net/Python9724/article/details/134235980)
+
