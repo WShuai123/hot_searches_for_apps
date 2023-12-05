@@ -175,3 +175,9 @@
 
 + [【计算机网络笔记】物理层——物理介质](https://blog.csdn.net/m0_60511809/article/details/134683086)
 
++ [使用Python Flask搭建Web问答应用程序并发布到公网远程访问](https://blog.csdn.net/qq_57761637/article/details/134797732)
+
++ [【C进阶】C程序是怎么运作的呢？-- 程序环境和预处理(上)](https://blog.csdn.net/weixin_65186652/article/details/134431793)
+
++ [深度学习机器视觉车道线识别与检测 -自动驾驶 计算机竞赛](https://blog.csdn.net/m0_43533/article/details/134783237)
+
