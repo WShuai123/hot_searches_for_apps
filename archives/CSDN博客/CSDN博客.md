@@ -99,3 +99,21 @@
 
 + [【网络安全】-《网络安全法》制定背景和核心内容](https://blog.csdn.net/u010671061/article/details/134775083)
 
++ [我从来不理解JavaScript闭包，但我用了它好多年](https://blog.csdn.net/weixin_43288600/article/details/134766993)
+
++ [Mysql进阶-事务&锁](https://blog.csdn.net/weixin_64133130/article/details/134546346)
+
++ [【腾讯云HAI域探密】- AIGC应用助力企业降本增效之路](https://blog.csdn.net/wanmeijuhao/article/details/134769960)
+
++ [计算机视觉之手势、面部、姿势捕捉以Python Mediapipe为工具](https://blog.csdn.net/weixin_48964486/article/details/134810312)
+
++ [Elasticsearch：评估 RAG - 指标之旅](https://blog.csdn.net/UbuntuTouch/article/details/134782301)
+
++ [网络协议与 IP 编址](https://blog.csdn.net/weixin_43483442/article/details/134783865)
+
++ [深入微服务架构 | 微服务与k8s架构解读](https://blog.csdn.net/NHB456789/article/details/134784034)
+
++ [【计算机网络笔记】物理层——物理介质](https://blog.csdn.net/m0_60511809/article/details/134683086)
+
++ [【ACM独立出版、确定的ISBN号】第三届密码学、网络安全和通信技术国际会议（CNSCT 2024）](https://blog.csdn.net/qq_57563030/article/details/134788343)
+
