@@ -59,3 +59,5 @@
 
 + [小米汽车现身浙江国际赛车场，开启赛道专项内测](https://m.ithome.com/html/737074.htm)
 
++ [【IT之家评测室】没有 Pro，超越 Pro：一加 12 深度体验](https://m.ithome.com/html/737170.htm)
+

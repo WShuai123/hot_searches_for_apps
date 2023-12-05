@@ -215,3 +215,9 @@
 
 + [云计算——ACA学习 虚拟化技术概述](https://blog.csdn.net/yj11290301/article/details/134710819)
 
++ [第十九届全国大学智能汽车竞赛 | 独轮组比赛细则](https://blog.csdn.net/zhuoqingjoking97298/article/details/134800052)
+
++ [揭秘MQTT：为何它是物联网的首选协议？](https://blog.csdn.net/Qingai521/article/details/134804558)
+
++ [关于运维工作和Linux的理解](https://blog.csdn.net/baidu_41774120/article/details/134785467)
+

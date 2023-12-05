@@ -195,3 +195,7 @@
 
 + [SuperDuperDB](https://www.producthunt.com/posts/superduperdb)
 
++ [Beeper Mini](https://www.producthunt.com/posts/beeper-mini)
+
++ [Dumbbell AI: Motion Tracking Fitness App](https://www.producthunt.com/posts/dumbbell-ai-motion-tracking-fitness-app)
+

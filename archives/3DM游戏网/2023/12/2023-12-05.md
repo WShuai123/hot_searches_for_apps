@@ -281,3 +281,5 @@
 
 + [传闻：今年的TGA上可能公布《耻辱3》](https://www.3dmgame.com/news/202312/3883111.html)
 
++ [《星空》Steam版史低促销 国区售价208.6元](https://www.3dmgame.com/news/202312/3883113.html)
+
