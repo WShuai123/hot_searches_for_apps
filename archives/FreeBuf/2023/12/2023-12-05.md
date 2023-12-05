@@ -55,3 +55,5 @@
 
 + [俄罗斯黑客利用 Outlook 漏洞劫持 Exchange 账户](https://www.freebuf.com/news/385687.html)
 
++ [如何在漏洞奖励任务中使用Nodesub高效寻找子域名](https://www.freebuf.com/sectool/383983.html)
+

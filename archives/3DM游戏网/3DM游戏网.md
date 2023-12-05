@@ -213,3 +213,17 @@
 
 + [粉丝认为《GTA6》首支预告片有望打破油管24小时播放记录](https://www.3dmgame.com/news/202312/3883076.html)
 
++ [Meta Quest更新将移除VR头显内显示手机通知功能](https://www.3dmgame.com/news/202312/3883083.html)
+
++ [《灌篮高手》剧场版片头曲《Love Rockets》主唱因食道癌逝世](https://www.3dmgame.com/news/202312/3883079.html)
+
++ [《猛兽派对》更新1.3上线 追加多种语言修复优化问题](https://www.3dmgame.com/news/202312/3883084.html)
+
++ [《猛兽派对》首次开启打折，价格史低，仅需68元](https://www.3dmgame.com/news/202312/3883082.html)
+
++ [EA Originals新作《Tales of Kenzera：ZAU》泄露 2024年发售](https://www.3dmgame.com/news/202312/3883080.html)
+
++ [和老板娘必有一战！Steam特别好评roguelite游戏《暖雪》DLC“终业”今日发售！](https://www.3dmgame.com/news/202312/3883081.html)
+
++ [英伟达高管大抛售 累计套现1.8亿美元](https://www.3dmgame.com/news/202312/3883078.html)
+
