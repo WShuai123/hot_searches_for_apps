@@ -167,3 +167,11 @@
 
 + [Covers: AI and scale](https://dribbble.com/shots/)
 
++ [Clarity - SaaS Brand Identity](https://dribbble.com/shots/)
+
++ [Whimsical Sewing Craft Surface Pattern](https://dribbble.com/shots/)
+
++ [Cosmos Invite Remix](https://dribbble.com/shots/)
+
++ [Scopio UI-UX](https://dribbble.com/shots/)
+

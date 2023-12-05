@@ -273,3 +273,7 @@
 
 + [西门子和英特尔签署备忘录 将在先进半导体制造领域展开合作](https://www.3dmgame.com/news/202312/3883108.html)
 
++ [《GTA6》预告浏览量超6000万 6代和5代画面对比](https://www.3dmgame.com/news/202312/3883110.html)
+
++ [系列首次！《龙腾世纪：恐惧之狼》自带中文](https://www.3dmgame.com/news/202312/3883109.html)
+
