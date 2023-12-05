@@ -185,3 +185,21 @@
 
 + [TGA 2023“玩家之声”投票决赛入围游戏揭晓 本周五公布获胜者](https://www.3dmgame.com/news/202312/3883053.html)
 
++ [沉迷游戏的“最终幻想之父”为《最终幻想14》发表10周年致辞](https://www.3dmgame.com/news/202312/3883070.html)
+
++ [结碧蓝之约！《碧蓝幻想：Relink》冒险舞台、星晶兽以及初期可操作角色介绍](https://www.3dmgame.com/news/202312/3883069.html)
+
++ [互动式影片《破五》Steam页面上线 明年1月发售](https://www.3dmgame.com/news/202312/3883071.html)
+
++ [《命运2》开发商 Bungie与作弊工具销售商诉讼下周开庭](https://www.3dmgame.com/news/202312/3883072.html)
+
++ [《仙剑》系列新史低 四款游戏捆绑包只需12元](https://www.3dmgame.com/news/202312/3883064.html)
+
++ [扎导《月球叛军：火之女》结局将留下超大悬念 铺垫续集](https://www.3dmgame.com/news/202312/3883065.html)
+
++ [Nintendo Switch《巧克甜恋》发布日期确定 2024年3月28日发售](https://www.3dmgame.com/news/202312/3883066.html)
+
++ [工信部明确2G3G会换代 三大运营商倒逼用户升级5G](https://www.3dmgame.com/news/202312/3883067.html)
+
++ [《暖雪》DLC“终业”正式发售 国区首发25.2元](https://www.3dmgame.com/news/202312/3883068.html)
+

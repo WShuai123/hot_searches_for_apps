@@ -47,3 +47,7 @@
 
 + [物联网安全 | 农业无线智能设备的安全性分析](https://www.freebuf.com/vuls/385530.html)
 
++ [因销售隐藏式挂钩摄像头，亚马逊陷入法律诉讼风波](https://www.freebuf.com/news/385682.html)
+
++ [又一全新黑客组织“浮出水面”，美国航空航天领域被盯上](https://www.freebuf.com/news/385667.html)
+
