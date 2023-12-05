@@ -25,3 +25,7 @@
 
 + [【IT之家评测室】没有 Pro，超越 Pro：一加 12 深度体验](https://m.ithome.com/html/737170.htm)
 
++ [《GTA 6》确认 2025 年登陆 PS5 和 Xbox Series X|S 平台，突破开放世界极限](https://m.ithome.com/html/737029.htm)
+
++ [华为推出擎云 L540 全国产化笔记本：搭载麒麟 9006C 芯片，售价 6000 元起](https://m.ithome.com/html/737027.htm)
+

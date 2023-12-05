@@ -49,3 +49,27 @@
 
 + [First date](https://dribbble.com/shots/)
 
++ [U + Mountain Color Exploration](https://dribbble.com/shots/)
+
++ [Okisuka - Sales Analytics Dashboard](https://dribbble.com/shots/)
+
++ [SaaS Modals](https://dribbble.com/shots/)
+
++ [Soundscape Website](https://dribbble.com/shots/)
+
++ [Jimmy Genie](https://dribbble.com/shots/)
+
++ [Coffee Packaging](https://dribbble.com/shots/)
+
++ [Advocacy Through Walls Website](https://dribbble.com/shots/)
+
++ [Covers: AI and scale](https://dribbble.com/shots/)
+
++ [Badass Santa](https://dribbble.com/shots/)
+
++ [jetadmin.io](https://dribbble.com/shots/)
+
++ [AIM — AI Modernism of Kharkiv [Ukraine]](https://dribbble.com/shots/)
+
++ [Finance Dashboard Design](https://dribbble.com/shots/)
+
