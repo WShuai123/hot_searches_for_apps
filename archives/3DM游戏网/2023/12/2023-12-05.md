@@ -277,3 +277,7 @@
 
 + [系列首次！《龙腾世纪：恐惧之狼》自带中文](https://www.3dmgame.com/news/202312/3883109.html)
 
++ [《赛博朋克2077：终极典藏版》现已正式推出](https://www.3dmgame.com/news/202312/3883112.html)
+
++ [传闻：今年的TGA上可能公布《耻辱3》](https://www.3dmgame.com/news/202312/3883111.html)
+

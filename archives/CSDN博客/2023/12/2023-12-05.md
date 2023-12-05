@@ -211,3 +211,7 @@
 
 + [Apollo新版本Beta自动驾驶技术沙龙参会体验有感—百度自动驾驶开源框架](https://blog.csdn.net/weixin_52908342/article/details/134804128)
 
++ [Rust 枚举和模式匹配](https://blog.csdn.net/u014388408/article/details/134441999)
+
++ [云计算——ACA学习 虚拟化技术概述](https://blog.csdn.net/yj11290301/article/details/134710819)
+

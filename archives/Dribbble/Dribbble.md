@@ -175,3 +175,9 @@
 
 + [Scopio UI-UX](https://dribbble.com/shots/)
 
++ [Cruz: Chat](https://dribbble.com/shots/)
+
++ [Jackalope Logo](https://dribbble.com/shots/)
+
++ [Web design: XIX3D website](https://dribbble.com/shots/)
+
