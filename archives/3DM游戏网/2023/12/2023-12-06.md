@@ -101,3 +101,7 @@
 
 + [《暖雪》DLC“终业”正式发售 国区首发25.2元](https://www.3dmgame.com/news/202312/3883068.html)
 
++ [稳居上升！Win11在Steam平台占比11.51%](https://www.3dmgame.com/news/202312/3883116.html)
+
++ [R星《GTA6》页面更新中文 前往雷奥奈达州](https://www.3dmgame.com/news/202312/3883115.html)
+

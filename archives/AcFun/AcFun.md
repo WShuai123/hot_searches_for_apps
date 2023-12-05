@@ -67,3 +67,5 @@
 
 + [急了，都急了](http://www.acfun.cn/v/ac43147285)
 
++ [快速看完一局韩服王者斗殴局#554 MaRin, Nuguri, SSol, Zorah, Citr](http://www.acfun.cn/v/ac43148038)
+

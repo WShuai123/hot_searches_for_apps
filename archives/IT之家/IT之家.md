@@ -29,3 +29,5 @@
 
 + [华为推出擎云 L540 全国产化笔记本：搭载麒麟 9006C 芯片，售价 6000 元起](https://m.ithome.com/html/737027.htm)
 
++ [消息称小米 Redmi K70 Ultra 手机搭载天玑 9300 处理器，采用差异化配置](https://m.ithome.com/html/737161.htm)
+

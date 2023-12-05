@@ -73,3 +73,19 @@
 
 + [Finance Dashboard Design](https://dribbble.com/shots/)
 
++ [2023 Chromatic Curves ⓒ by Alex Spenser](https://dribbble.com/shots/)
+
++ [Om Nom icon](https://dribbble.com/shots/)
+
++ [Jungle Mode](https://dribbble.com/shots/)
+
++ [Christmas Tree ????](https://dribbble.com/shots/)
+
++ [Shih Tzu Logo](https://dribbble.com/shots/)
+
++ [Alternative Logo & Brand Identity Design for Natomic](https://dribbble.com/shots/)
+
++ [Branding](https://dribbble.com/shots/)
+
++ [doodle](https://dribbble.com/shots/)
+
