@@ -93,3 +93,13 @@
 
 + [Plastic](https://dribbble.com/shots/)
 
++ [Joysticks 'n Sliders](https://dribbble.com/shots/)
+
++ [Mota - Logo and identity design for the remote work platform](https://dribbble.com/shots/)
+
++ [Christmas Party](https://dribbble.com/shots/)
+
++ [Sence.Point - HR UX-UI design](https://dribbble.com/shots/)
+
++ [Cherry Blossom Sweets](https://dribbble.com/shots/)
+
