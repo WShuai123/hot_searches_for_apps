@@ -153,3 +153,35 @@
 
 + [NVIDIA RTX游戏和应用现已突破500款](https://www.3dmgame.com/news/202312/3883032.html)
 
++ [《燕云十六声》5分钟实机PV 黄钟测试招募开启](https://www.3dmgame.com/news/202312/3883062.html)
+
++ [《最终幻想15》总监透露离开SE原因 并宣布正在制作2款全新JRPG](https://www.3dmgame.com/news/202312/3883056.html)
+
++ [漫威宣布迈尔斯·莫拉莱斯的官方宿敌是“Rabble”](https://www.3dmgame.com/news/202312/3883063.html)
+
++ [日本超级任天堂世界新扩展“大金刚国度”2024年春季开放](https://www.3dmgame.com/news/202312/3883060.html)
+
++ [黑暗奇幻冒险《审判官》获CERO Z评级 18岁以上暴力血腥](https://www.3dmgame.com/news/202312/3883061.html)
+
++ [R星：《GTA6》预告提前发布是因为已被泄露](https://www.3dmgame.com/news/202312/3883059.html)
+
++ [谷神星一号遥九运载火箭发射成功 民营火箭首次晨昏轨道发射](https://www.3dmgame.com/news/202312/3883058.html)
+
++ [《GTA6》将不断突破开放世界体验的极限 极具沉浸感](https://www.3dmgame.com/news/202312/3883057.html)
+
++ [横版战斗开放世界武侠单机《江湖路：缘起》steam免费公开测试！](https://www.3dmgame.com/news/202312/3883055.html)
+
++ [《Skystrider》Steam试玩发布 3D沙盒动作探索](https://www.3dmgame.com/news/202312/3883052.html)
+
++ [《旺卡》中国独家预告 周五全国上映](https://www.3dmgame.com/news/202312/3883051.html)
+
++ [《哥斯拉大战金刚2》新剧照 双王联手对付刀疤王](https://www.3dmgame.com/news/202312/3883050.html)
+
++ [《守望先锋2》第八赛季预告 新英雄“毛加”12月6日上线](https://www.3dmgame.com/news/202312/3883048.html)
+
++ [《辐射》真人剧将介绍吉祥物“避难所小子”起源故事](https://www.3dmgame.com/news/202312/3883049.html)
+
++ [《堡垒之夜》玩家不适应移动大改 官方正在听取反馈](https://www.3dmgame.com/news/202312/3883054.html)
+
++ [TGA 2023“玩家之声”投票决赛入围游戏揭晓 本周五公布获胜者](https://www.3dmgame.com/news/202312/3883053.html)
+
