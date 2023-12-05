@@ -151,3 +151,11 @@
 
 + [No-code Dev Platform Concept](https://dribbble.com/shots/)
 
++ [VPN Mobile App Design Concept](https://dribbble.com/shots/)
+
++ [AIM — AI Modernism of Kharkiv [Ukraine]](https://dribbble.com/shots/)
+
++ [Sleep Tracker Web Platform](https://dribbble.com/shots/)
+
++ [Mota - Website design for the remote work platform](https://dribbble.com/shots/)
+

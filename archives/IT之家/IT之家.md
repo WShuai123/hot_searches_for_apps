@@ -51,3 +51,5 @@
 
 + [消息称小米本月还有发布会，有望带来重磅新品](https://m.ithome.com/html/737045.htm)
 
++ [4299 元起，一加 12 手机发布：骁龙 8 Gen 3、索尼 LYT-808、东方屏](https://m.ithome.com/html/737168.htm)
+
