@@ -161,3 +161,9 @@
 
 + [Cycode Brand identity illustrations guide, illustrator](https://dribbble.com/shots/)
 
++ [Website Animation Art Jakarta](https://dribbble.com/shots/)
+
++ [Fairwell Festival Merchandise](https://dribbble.com/shots/)
+
++ [Covers: AI and scale](https://dribbble.com/shots/)
+

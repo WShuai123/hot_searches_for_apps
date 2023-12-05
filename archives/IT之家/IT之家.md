@@ -53,3 +53,5 @@
 
 + [4299 元起，一加 12 手机发布：骁龙 8 Gen 3、索尼 LYT-808、东方屏](https://m.ithome.com/html/737168.htm)
 
++ [华为畅享 70 手机预售：6000mAh 电池 + 鸿蒙 HarmonyOS 4，到手价 1149 元起](https://m.ithome.com/html/737050.htm)
+

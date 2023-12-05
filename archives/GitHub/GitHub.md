@@ -51,3 +51,27 @@
 
 + [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
 
++ [microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver)
+
++ [xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+
++ [100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments)
+
++ [bbycroft / llm-viz](https://github.com/bbycroft/llm-viz)
+
++ [labring / FastGPT](https://github.com/labring/FastGPT)
+
++ [ExpLangcn / NucleiTP](https://github.com/ExpLangcn/NucleiTP)
+
++ [sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp)
+
++ [AmrDeveloper / GQL](https://github.com/AmrDeveloper/GQL)
+
++ [Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
++ [stevearc / oil.nvim](https://github.com/stevearc/oil.nvim)
+
++ [TheRamU / Fay](https://github.com/TheRamU/Fay)
+
++ [YueChan / Live](https://github.com/YueChan/Live)
+
