@@ -201,3 +201,7 @@
 
 + [人工智能-机器翻译：技术发展与代码实战](https://blog.csdn.net/magicyangjay111/article/details/134803159)
 
++ [详解原生Spring当中的事务](https://blog.csdn.net/Facial_Mask/article/details/134768937)
+
++ [云原生之深入解析如何限制Kubernetes集群中文件描述符与线程数量](https://blog.csdn.net/Forever_wj/article/details/134783137)
+

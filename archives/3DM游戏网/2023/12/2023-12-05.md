@@ -269,3 +269,5 @@
 
 + [Steam最新一周销量榜 Steam Deck成功三连冠](https://www.3dmgame.com/news/202312/3883099.html)
 
++ [《奇娅》将于2024年3月登陆 STEAM，准备启航，前往热带海岛](https://www.3dmgame.com/news/202312/3883107.html)
+
