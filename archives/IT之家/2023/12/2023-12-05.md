@@ -49,3 +49,5 @@
 
 + [供不应求，消息称小米 14 系列手机已加单 40%](https://m.ithome.com/html/737080.htm)
 
++ [消息称小米本月还有发布会，有望带来重磅新品](https://m.ithome.com/html/737045.htm)
+

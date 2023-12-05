@@ -57,3 +57,7 @@
 
 + [如何在漏洞奖励任务中使用Nodesub高效寻找子域名](https://www.freebuf.com/sectool/383983.html)
 
++ [国家标准化管理委员会宣布提前实施《民用无人驾驶航空器系统安全要求》主要条款](https://www.freebuf.com/news/385732.html)
+
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+

@@ -235,3 +235,23 @@
 
 + [鑫羿文创推出年度“巨”作 《进击的巨人》10周年造型纪念酒 墙裂登场！](https://www.3dmgame.com/news/202312/3883085.html)
 
++ [国产动画《武动乾坤》疑似盗用《刺客信条》游戏素材](https://www.3dmgame.com/news/202312/3883095.html)
+
++ [2614万恶意竞拍含6个9的手机靓号后续 法院通报罚款8万元](https://www.3dmgame.com/news/202312/3883096.html)
+
++ [滚导：《超人：传承》剧本已经完成99.9%](https://www.3dmgame.com/news/202312/3883097.html)
+
++ [“赛博皮卡”秒变“乡村皮卡” 网友自制国产特斯拉Cybertruck涂装](https://www.3dmgame.com/news/202312/3883098.html)
+
++ [新田真剑佑谈《海贼王》剧集第2季：动作戏表现更好](https://www.3dmgame.com/news/202312/3883092.html)
+
++ [现实侵蚀中 粉丝玩家现实还原《GTA6》预告中出现SNS账号](https://www.3dmgame.com/news/202312/3883091.html)
+
++ [《塞尔达传说：王国之泪》成为2023年日本搜索次数最多的游戏](https://www.3dmgame.com/news/202312/3883093.html)
+
++ [EA将大幅削减Codemasters团队 人数待定](https://www.3dmgame.com/news/202312/3883094.html)
+
++ [马斯克不爱玩《GTA》：因为不喜欢犯罪 不想朝警察开枪](https://www.3dmgame.com/news/202312/3883089.html)
+
++ [张朝阳谈年轻人互联网创业：把热爱变成专业就会有收获](https://www.3dmgame.com/news/202312/3883090.html)
+

@@ -165,3 +165,21 @@
 
 + [Transcriptal](https://www.producthunt.com/posts/transcriptal)
 
++ [AltPlot](https://www.producthunt.com/posts/altplot)
+
++ [Mailmodo for Shopify](https://www.producthunt.com/posts/mailmodo-for-shopify)
+
++ [Keyri EchoGuard](https://www.producthunt.com/posts/keyri-echoguard)
+
++ [Alfred Chat](https://www.producthunt.com/posts/alfred-chat-2)
+
++ [Onset Layouts](https://www.producthunt.com/posts/onset-layouts)
+
++ [Spellar AI](https://www.producthunt.com/posts/spellar-ai)
+
++ [Referd](https://www.producthunt.com/posts/referd-2)
+
++ [Cybird](https://www.producthunt.com/posts/cybird)
+
++ [Lottielab - Figma to Lottie animations](https://www.producthunt.com/posts/lottielab-figma-to-lottie-animations)
+
