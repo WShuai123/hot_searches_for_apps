@@ -111,3 +111,13 @@
 
 + [《龙腾世纪：恐狼》明年夏季揭晓 新预告片公布](https://www.3dmgame.com/news/202312/3883022.html)
 
++ [《最后的生还者2：重制版》预告 展示肉鸽生存模式](https://www.3dmgame.com/news/202312/3883031.html)
+
++ [初代重制《魂斗罗：加鲁加行动》公开游戏预告片](https://www.3dmgame.com/news/202312/3883027.html)
+
++ [《吸血鬼幸存者》12月6日更新解锁冒险模式](https://www.3dmgame.com/news/202312/3883028.html)
+
++ [2D银河恶魔城新作《露珠黎明》开启众筹](https://www.3dmgame.com/news/202312/3883029.html)
+
++ [2025年发售！《GTA6》公开首个预告片](https://www.3dmgame.com/news/202312/3883030.html)
+

@@ -29,3 +29,11 @@
 
 + [刘作虎展示一加 12 手机“苍绿”色真机，号称是其“最喜欢的颜色”](https://m.ithome.com/html/736964.htm)
 
++ [黑鲨手机回应“不务正业”：如今资源有限，只能把手头上的产品捂热](https://m.ithome.com/html/736984.htm)
+
++ [消息称索尼拥有《GTA6》独家营销权，游戏首发主机独占 1 年](https://m.ithome.com/html/736950.htm)
+
++ [《英雄联盟》国服宣布将升级数字 ID 形式，玩家可免费改名一次](https://m.ithome.com/html/736919.htm)
+
++ [中国航天科技集团称与 SpaceX 相比大而不强：永不自满、永不自大](https://m.ithome.com/html/736998.htm)
+

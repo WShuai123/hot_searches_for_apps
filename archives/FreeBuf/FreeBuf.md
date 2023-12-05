@@ -41,3 +41,7 @@
 
 + [backdoorme：专为红队研究人员设计的自动化后门安全测试模块](https://www.freebuf.com/sectool/382397.html)
 
++ [FreeBuf早报 | 倒卖微信号，“躺赚”却违法；金融云被勒索，约60家信用社服务中断](https://www.freebuf.com/news/385631.html)
+
++ [NoEscape 勒索软件的前世今生](https://www.freebuf.com/articles/network/384862.html)
+
