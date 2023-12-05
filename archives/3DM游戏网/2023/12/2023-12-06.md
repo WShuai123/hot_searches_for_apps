@@ -105,3 +105,17 @@
 
 + [R星《GTA6》页面更新中文 前往雷奥奈达州](https://www.3dmgame.com/news/202312/3883115.html)
 
++ [DF评测：Switch《蝙蝠侠三部曲》简直糟糕透顶](https://www.3dmgame.com/news/202312/3883123.html)
+
++ [本月14日开播 真人版《幽游白书》发布正式预告](https://www.3dmgame.com/news/202312/3883122.html)
+
++ [《塞尔达传说》电影以真人吉卜力为目标](https://www.3dmgame.com/news/202312/3883121.html)
+
++ [若干索尼PSN账户因不明原因被永久封号](https://www.3dmgame.com/news/202312/3883120.html)
+
++ [星际争霸精神续作《风暴之门》15分钟完成众筹](https://www.3dmgame.com/news/202312/3883119.html)
+
++ [《方舟：生存飞升》“焦土”地图推迟至明年3月](https://www.3dmgame.com/news/202312/3883118.html)
+
++ [回合制轻肉鸽型地牢迷宫游戏《脚下之地》公布](https://www.3dmgame.com/news/202312/3883117.html)
+
