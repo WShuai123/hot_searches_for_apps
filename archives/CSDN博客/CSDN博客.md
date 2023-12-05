@@ -181,3 +181,11 @@
 
 + [深度学习机器视觉车道线识别与检测 -自动驾驶 计算机竞赛](https://blog.csdn.net/m0_43533/article/details/134783237)
 
++ [人工智能时代AIGC绘画实战](https://blog.csdn.net/s445320/article/details/134798487)
+
++ [使用Huggingface创建大语言模型RLHF训练流程的完整教程](https://blog.csdn.net/m0_46510245/article/details/134799110)
+
++ [浪潮信息KeyarchOS——保卫数字未来的安全防御利器](https://blog.csdn.net/m0_61703913/article/details/134802427)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/rjychg/article/details/134788844)
+
