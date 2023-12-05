@@ -103,3 +103,65 @@
 
 + [#GoodWorkVibes](https://www.producthunt.com/posts/goodworkvibes)
 
++ [Envio](https://www.producthunt.com/posts/envio-2)
+
++ [MagicAnimate](https://www.producthunt.com/posts/magicanimate)
+
++ [Respell](https://www.producthunt.com/posts/respell)
+
++ [ToolBox MacOS](https://www.producthunt.com/posts/toolbox-macos)
+
++ [Mosaic Journal](https://www.producthunt.com/posts/mosaic-journal)
+
++ [Turf](https://www.producthunt.com/posts/turf-4)
+
++ [Changelogg: Track API](https://www.producthunt.com/posts/changelogg-track-api)
+
++ [Wannabe Stark](https://www.producthunt.com/posts/wannabe-stark)
+
++ [Hubble.cx](https://www.producthunt.com/posts/hubble-cx)
+
++ [PenParrot](https://www.producthunt.com/posts/penparrot)
+
++ [EnlightUp.io](https://www.producthunt.com/posts/enlightup-io)
+
++ [Watermelon](https://www.producthunt.com/posts/watermelon-2)
+
++ [Aureo](https://www.producthunt.com/posts/aureo)
+
++ [Tumlook](https://www.producthunt.com/posts/tumlook)
+
++ [sudoku.coach](https://www.producthunt.com/posts/sudoku-coach)
+
++ [Websense Analytics](https://www.producthunt.com/posts/websense-analytics)
+
++ [Hitab - a new tab with ChatGPT](https://www.producthunt.com/posts/hitab-a-new-tab-with-chatgpt)
+
++ [Autometrics Observability Stack](https://www.producthunt.com/posts/autometrics-observability-stack)
+
++ [Vepaar - HubSpot + WhatsApp Integration](https://www.producthunt.com/posts/vepaar-hubspot-whatsapp-integration)
+
++ [DesignSense AI](https://www.producthunt.com/posts/designsense-ai-2)
+
++ [FigGenius File Thumbnails](https://www.producthunt.com/posts/figgenius-file-thumbnails)
+
++ [WarpBuild](https://www.producthunt.com/posts/warpbuild)
+
++ [fucimo advertising marketplace](https://www.producthunt.com/posts/fucimo-advertising-marketplace)
+
++ [Competely](https://www.producthunt.com/posts/competely)
+
++ [Just Read](https://www.producthunt.com/posts/just-read-2)
+
++ [Quest Playground](https://www.producthunt.com/posts/quest-playground)
+
++ [Passage by 1Password](https://www.producthunt.com/posts/passage-by-1password)
+
++ [Magnific AI](https://www.producthunt.com/posts/magnific-ai)
+
++ [Maia](https://www.producthunt.com/posts/maia-3)
+
++ [Blank 2.0](https://www.producthunt.com/posts/blank-2-0)
+
++ [Transcriptal](https://www.producthunt.com/posts/transcriptal)
+

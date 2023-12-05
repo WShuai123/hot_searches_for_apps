@@ -47,3 +47,5 @@
 
 + [WiFi-7 来了：小米 14/13 全系列、Redmi K60 Pro/ K70 等机型即将升级](https://m.ithome.com/html/737048.htm)
 
++ [供不应求，消息称小米 14 系列手机已加单 40%](https://m.ithome.com/html/737080.htm)
+

@@ -207,3 +207,9 @@
 
 + [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
 
++ [京东-京东12.12 年终特惠 真便宜](https://itunes.apple.com/cn/app/id414245413?mt=8)
+
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
++ [去哪儿旅行-预订特价酒店机票火车票平台](https://itunes.apple.com/cn/app/id395096736?mt=8)
+

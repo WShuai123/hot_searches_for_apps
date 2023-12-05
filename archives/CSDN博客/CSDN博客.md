@@ -193,3 +193,9 @@
 
 + [计算机网络之IP篇](https://blog.csdn.net/songbijian/article/details/134775347)
 
++ [Python搭建代理IP池实现接口设置与整体调度](https://blog.csdn.net/wq10_12/article/details/134783158)
+
++ [GaussDB数据库SQL系列-序列的使用](https://blog.csdn.net/GaussDB/article/details/134798549)
+
++ [Vue2.0与Vue3.0的区别](https://blog.csdn.net/wei_dan1129/article/details/134779549)
+

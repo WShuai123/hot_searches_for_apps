@@ -227,3 +227,11 @@
 
 + [英伟达高管大抛售 累计套现1.8亿美元](https://www.3dmgame.com/news/202312/3883078.html)
 
++ [KK对战平台人气新图降临，重走英雄路做头号人物！](https://www.3dmgame.com/news/202312/3883086.html)
+
++ [《潜水员戴夫》销量已突破200万 Steam好评如潮](https://www.3dmgame.com/news/202312/3883087.html)
+
++ [《方舟：生存飞升》官方承认：游戏服务器“很垃圾”](https://www.3dmgame.com/news/202312/3883088.html)
+
++ [鑫羿文创推出年度“巨”作 《进击的巨人》10周年造型纪念酒 墙裂登场！](https://www.3dmgame.com/news/202312/3883085.html)
+
