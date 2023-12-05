@@ -45,3 +45,5 @@
 
 + [NoEscape 勒索软件的前世今生](https://www.freebuf.com/articles/network/384862.html)
 
++ [物联网安全 | 农业无线智能设备的安全性分析](https://www.freebuf.com/vuls/385530.html)
+

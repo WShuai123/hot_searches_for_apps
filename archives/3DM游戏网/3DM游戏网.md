@@ -121,3 +121,35 @@
 
 + [2025年发售！《GTA6》公开首个预告片](https://www.3dmgame.com/news/202312/3883030.html)
 
++ [《阿凡达：潘多拉边境》解锁时间公布 12月6日解锁](https://www.3dmgame.com/news/202312/3883047.html)
+
++ [尼古拉斯·凯奇表示 他再拍几部电影后就退休](https://www.3dmgame.com/news/202312/3883046.html)
+
++ [《浩劫前夕》官方诚恳致玩家信息 12月8日发售在即](https://www.3dmgame.com/news/202312/3883045.html)
+
++ [传闻：Embracer集团关闭《叛乱》工作室](https://www.3dmgame.com/news/202312/3883044.html)
+
++ [《女神异闻录3：Reload》发布荒垣真次郎角色PV](https://www.3dmgame.com/news/202312/3883043.html)
+
++ [R星确定《GTA6》首发仅登陆主机平台 PC版还得再等等](https://www.3dmgame.com/news/202312/3883042.html)
+
++ [前Epic独占游戏《星际迷航:复苏》steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883040.html)
+
++ [《王国之泪》开发者表示 在设计怪物时会“优先考虑游戏玩法”](https://www.3dmgame.com/news/202312/3883039.html)
+
++ [Epic解释为何没有就30%抽成起诉索微任御三家](https://www.3dmgame.com/news/202312/3883038.html)
+
++ [Crytek：《孤岛危机4》还在开发 我们有很好的团队](https://www.3dmgame.com/news/202312/3883037.html)
+
++ [《赛博朋克2077》2.1版本是最后一次重大更新 CDPR未来将转向新作](https://www.3dmgame.com/news/202312/3883036.html)
+
++ [《上古卷轴5》重新翻译文本MOD推出 诡异台词加上AI新鲜感](https://www.3dmgame.com/news/202312/3883035.html)
+
++ [《暗黑4》开发者不断保证：不会添加氪金变强的内容](https://www.3dmgame.com/news/202312/3883041.html)
+
++ [《GTA6》首个预告获得上百万的点赞 新截图欣赏](https://www.3dmgame.com/news/202312/3883034.html)
+
++ [《F1》开发商Codemasters被EA裁员](https://www.3dmgame.com/news/202312/3883033.html)
+
++ [NVIDIA RTX游戏和应用现已突破500款](https://www.3dmgame.com/news/202312/3883032.html)
+

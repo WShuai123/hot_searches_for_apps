@@ -161,3 +161,5 @@
 
 + [人工智能与供应链行业融合：预测算法的通用化与实战化](https://blog.csdn.net/u014727709/article/details/134659315)
 
++ [【文末送书】人工智能背景下的C++编程方向](https://blog.csdn.net/qq_43471489/article/details/134768591)
+
