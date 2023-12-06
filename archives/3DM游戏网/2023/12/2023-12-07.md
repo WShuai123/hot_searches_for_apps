@@ -113,3 +113,9 @@
 
 + [模拟社交游戏《暖心话语2》面向PC公布 24年推出](https://www.3dmgame.com/news/202312/3883219.html)
 
++ [母女公路旅行小说《Open Road》明年2月发售](https://www.3dmgame.com/news/202312/3883222.html)
+
++ [《乐高堡垒之夜》现已面向各大游戏平台开放](https://www.3dmgame.com/news/202312/3883221.html)
+
++ [《铁拳8》公开白色死神德拉古诺夫预告](https://www.3dmgame.com/news/202312/3883220.html)
+
