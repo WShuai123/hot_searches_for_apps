@@ -69,3 +69,21 @@
 
 + [Polygon logo redesign concept: P letter mark + polygons network](https://dribbble.com/shots/)
 
++ [Keeping Your Apartment...Editorial Illustrations.](https://dribbble.com/shots/)
+
++ [Visou Website](https://dribbble.com/shots/)
+
++ [Alternative Logo & Brand Identity Design for Natomic](https://dribbble.com/shots/)
+
++ [Weekend Fun 3](https://dribbble.com/shots/)
+
++ [Video Sharing Platform](https://dribbble.com/shots/)
+
++ [The Beetle Backs / TGW](https://dribbble.com/shots/)
+
++ [Modern City Tracker](https://dribbble.com/shots/)
+
++ [Warehouse WIP](https://dribbble.com/shots/)
+
++ [AI Agent user interface for Fetch AI by milkinside](https://dribbble.com/shots/)
+
