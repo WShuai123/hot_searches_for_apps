@@ -59,3 +59,7 @@
 
 + [小米澎湃 OS 体验沟通会明晚 7 点举行，主题为“妙想澎湃”](https://m.ithome.com/html/737305.htm)
 
++ [初代苹果 iPhone SE 谢幕，已被列为过时产品](https://m.ithome.com/html/737270.htm)
+
++ [黄仁勋：华为是英伟达在 AI 芯片领域“非常强大”的竞争对手](https://m.ithome.com/html/737384.htm)
+

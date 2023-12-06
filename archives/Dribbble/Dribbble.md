@@ -175,3 +175,7 @@
 
 + [The Beetle Backs / TGW](https://dribbble.com/shots/)
 
++ [AI Agent user interface for Fetch AI by milkinside](https://dribbble.com/shots/)
+
++ [Hippo Logo](https://dribbble.com/shots/)
+
