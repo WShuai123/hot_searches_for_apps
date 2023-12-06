@@ -49,3 +49,5 @@
 
 + [后知后觉？HTC Global services 承认遭到网络攻击](https://www.freebuf.com/news/385813.html)
 
++ [关于LinkWeChat的一次代码审计记录](https://www.freebuf.com/articles/web/385579.html)
+
