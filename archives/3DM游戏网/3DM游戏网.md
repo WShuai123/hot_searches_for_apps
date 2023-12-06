@@ -119,3 +119,15 @@
 
 + [回合制轻肉鸽型地牢迷宫游戏《脚下之地》公布](https://www.3dmgame.com/news/202312/3883117.html)
 
++ [《暗黑破坏神4》新更新发布 踏入齐尔的屠宰场](https://www.3dmgame.com/news/202312/3883129.html)
+
++ [《GTA6》预告片和现实世界对比 完美还原](https://www.3dmgame.com/news/202312/3883128.html)
+
++ [《阿凡达：潘多拉边境》实体盘需要联网才能安装](https://www.3dmgame.com/news/202312/3883127.html)
+
++ [《GTA6》首发没有PC 原因是”双重购买“趋势](https://www.3dmgame.com/news/202312/3883126.html)
+
++ [实体版《阿凡达：潘多拉边境》安装需联网](https://www.3dmgame.com/news/202312/3883125.html)
+
++ [《街头霸王6：街机版》12月14日开始运营](https://www.3dmgame.com/news/202312/3883124.html)
+

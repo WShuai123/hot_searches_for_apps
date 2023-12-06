@@ -41,3 +41,7 @@
 
 + [法国禁止政府要员使用外国聊天应用](https://www.freebuf.com/news/385573.html)
 
++ [FreeBuf早报 | 国内首个数据要素省级标准正式实施；全球首位CISO去世](https://www.freebuf.com/news/385733.html)
+
++ [2024威胁预测：探索威胁行为者行为变化及新兴攻击方式](https://www.freebuf.com/articles/neopoints/385090.html)
+

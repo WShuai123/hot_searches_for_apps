@@ -31,3 +31,7 @@
 
 + [消息称小米 Redmi K70 Ultra 手机搭载天玑 9300 处理器，采用差异化配置](https://m.ithome.com/html/737161.htm)
 
++ [小米金凡：澎湃 OS 的连接能力最强，没有之一](https://m.ithome.com/html/737253.htm)
+
++ [一加 12 手机胡桃木质感全包保护壳上架，售 149 元](https://m.ithome.com/html/737186.htm)
+

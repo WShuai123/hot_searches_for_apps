@@ -129,3 +129,9 @@
 
 + [coffee](https://dribbble.com/shots/)
 
++ [Driftaway Wordmark Logo Lettering exploration](https://dribbble.com/shots/)
+
++ [Branding for Bakery Online Course](https://dribbble.com/shots/)
+
++ [Fairies](https://dribbble.com/shots/)
+
