@@ -87,3 +87,19 @@
 
 + [AI Agent user interface for Fetch AI by milkinside](https://dribbble.com/shots/)
 
++ [Dashlane - Passwords](https://dribbble.com/shots/)
+
++ [Walkman icon](https://dribbble.com/shots/)
+
++ [Hippo Logo](https://dribbble.com/shots/)
+
++ [Feeling Strange](https://dribbble.com/shots/)
+
++ [Jet Ai Chat Bot Exploration](https://dribbble.com/shots/)
+
++ [meal](https://dribbble.com/shots/)
+
++ [ContainGo App - Portable Storage Container Software](https://dribbble.com/shots/)
+
++ [Branding for Bakery Online Course](https://dribbble.com/shots/)
+
