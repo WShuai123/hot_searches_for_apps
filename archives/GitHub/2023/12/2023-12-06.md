@@ -51,3 +51,23 @@
 
 + [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
 
++ [magic-research / magic-animate](https://github.com/magic-research/magic-animate)
+
++ [state-spaces / mamba](https://github.com/state-spaces/mamba)
+
++ [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
+
++ [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
++ [hashicorp / terraform](https://github.com/hashicorp/terraform)
+
++ [ytongbai / LVM](https://github.com/ytongbai/LVM)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [modularml / mojo](https://github.com/modularml/mojo)
+
++ [nodejs / node](https://github.com/nodejs/node)
+
++ [langchain-ai / opengpts](https://github.com/langchain-ai/opengpts)
+

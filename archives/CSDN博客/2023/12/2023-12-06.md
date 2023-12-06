@@ -187,3 +187,5 @@
 
 + [【信息安全】-个人敏感信息、个人信息、个人金融信息](https://blog.csdn.net/u010671061/article/details/134822310)
 
++ [群晖Docker搭建HomeAssistant，结合内网穿透实现远程访问智能家居控制中心](https://blog.csdn.net/ks_wyf/article/details/134835203)
+

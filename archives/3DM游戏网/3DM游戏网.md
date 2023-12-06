@@ -281,3 +281,7 @@
 
 + [徐静雨、BBC梦幻联动直播首秀 年度人气地图见证最帅瞬间](https://www.3dmgame.com/news/202312/3883199.html)
 
++ [传英伟达将停产RTX 3050 8GB 明年1月会带来6GB版](https://www.3dmgame.com/news/202312/3883207.html)
+
++ [《海王2》中国独家终极版预告 12月20日上映](https://www.3dmgame.com/news/202312/3883206.html)
+

@@ -63,3 +63,5 @@
 
 + [黄仁勋：华为是英伟达在 AI 芯片领域“非常强大”的竞争对手](https://m.ithome.com/html/737384.htm)
 
++ [小米明晚将全面分享澎湃 OS 新架构，设计团队首次集体走到台前](https://m.ithome.com/html/737378.htm)
+
