@@ -65,3 +65,5 @@
 
 + [小米明晚将全面分享澎湃 OS 新架构，设计团队首次集体走到台前](https://m.ithome.com/html/737378.htm)
 
++ [小米 14 / Pro 手机内核已在 GitHub 开源](https://m.ithome.com/html/737478.htm)
+

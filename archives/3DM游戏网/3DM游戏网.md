@@ -285,3 +285,7 @@
 
 + [《海王2》中国独家终极版预告 12月20日上映](https://www.3dmgame.com/news/202312/3883206.html)
 
++ [《罪恶装备：Strive》将在TGA上公布新的DLC角色](https://www.3dmgame.com/news/202312/3883205.html)
+
++ [《阿凡达：潘多拉边境》媒体评分解禁 IGN 7分](https://www.3dmgame.com/news/202312/3883208.html)
+
