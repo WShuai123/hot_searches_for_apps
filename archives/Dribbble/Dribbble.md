@@ -183,3 +183,11 @@
 
 + [Warehouse WIP](https://dribbble.com/shots/)
 
++ [Dashlane - Passwords](https://dribbble.com/shots/)
+
++ [NR Monogram](https://dribbble.com/shots/)
+
++ [Polygon logo redesign concept](https://dribbble.com/shots/)
+
++ [Milks](https://dribbble.com/shots/)
+

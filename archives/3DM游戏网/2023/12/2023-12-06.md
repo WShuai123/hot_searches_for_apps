@@ -289,3 +289,5 @@
 
 + [《阿凡达：潘多拉边境》媒体评分解禁 IGN 7分](https://www.3dmgame.com/news/202312/3883208.html)
 
++ [苹果股价创4个月新高 市值再次突破3万亿美元](https://www.3dmgame.com/news/202312/3883209.html)
+
