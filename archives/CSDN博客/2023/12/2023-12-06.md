@@ -151,3 +151,5 @@
 
 + [鸿蒙Harmony开发初探](https://blog.csdn.net/weixin_61845324/article/details/134809823)
 
++ [深入理解Java核心技术：Java工程师的实用干货笔记](https://blog.csdn.net/qq_44273429/article/details/134805637)
+

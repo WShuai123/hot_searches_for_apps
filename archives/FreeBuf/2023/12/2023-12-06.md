@@ -53,3 +53,7 @@
 
 + [黑客利用 Adob​​e ColdFusion 漏洞入侵美国政府机构](https://www.freebuf.com/news/385807.html)
 
++ [如何使用Apepe基于APK文件枚举应用程序信息](https://www.freebuf.com/sectool/383905.html)
+
++ [知名机构HTC Global 遭勒索攻击，泄露大量敏感信息](https://www.freebuf.com/news/385813.html)
+
