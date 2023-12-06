@@ -45,3 +45,5 @@
 
 + [2024威胁预测：探索威胁行为者行为变化及新兴攻击方式](https://www.freebuf.com/articles/neopoints/385090.html)
 
++ [记一次另类越权进入某家园社区管理后台案例](https://www.freebuf.com/articles/web/385274.html)
+

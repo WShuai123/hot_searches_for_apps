@@ -131,3 +131,27 @@
 
 + [《街头霸王6：街机版》12月14日开始运营](https://www.3dmgame.com/news/202312/3883124.html)
 
++ [《你好邻居》发行商TinyBuild降低收入预期 或已裁员](https://www.3dmgame.com/news/202312/3883141.html)
+
++ [《僵尸世界大战：劫后余生》新DLC上线 追加新地图任务](https://www.3dmgame.com/news/202312/3883139.html)
+
++ [Xbox开启冬季游戏节 提供33款独立游戏试玩 持续到年底](https://www.3dmgame.com/news/202312/3883140.html)
+
++ [《祝你好死》登陆PS和Xbox平台 支持中文售价25美元](https://www.3dmgame.com/news/202312/3883138.html)
+
++ [英国实体周榜：黑五结束所有游戏销量均下滑](https://www.3dmgame.com/news/202312/3883137.html)
+
++ [模拟经营游戏《农夫王朝2》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3883136.html)
+
++ [《燃灯者联盟》推出免费DLC 新增角色和活动内容](https://www.3dmgame.com/news/202312/3883135.html)
+
++ [DNF类魂动作RPG《第一狂战士：卡赞》宣布 TGA公布预告](https://www.3dmgame.com/news/202312/3883134.html)
+
++ [《上古卷轴5重制版》新更新 带回来最受鄙视的功能之一](https://www.3dmgame.com/news/202312/3883133.html)
+
++ [受Embracer重组影响 《叛变：沙漠风暴》开发商遭裁员](https://www.3dmgame.com/news/202312/3883132.html)
+
++ [《GTA6》粉丝已经爱上了女主：欢迎我们的新女王](https://www.3dmgame.com/news/202312/3883131.html)
+
++ [VR游戏《穿越半径2》Steam页面上线 战斗射击名作续篇](https://www.3dmgame.com/news/202312/3883130.html)
+
