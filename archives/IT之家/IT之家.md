@@ -47,3 +47,9 @@
 
 + [【IT之家开箱】一加 12「苍绿」图赏：时间中汲取灵感，复刻高级腕表设计](https://m.ithome.com/html/737184.htm)
 
++ [小米米家 App 9.0 iOS / 安卓正式版上线：Pad 可变身智能家庭中控](https://m.ithome.com/html/737335.htm)
+
++ [苹果 iOS / iPadOS 17.2 候选版本发布：增强手记应用，改善 Music](https://m.ithome.com/html/737262.htm)
+
++ [消息称麦当劳启动华为鸿蒙原生应用开发，签约活动曝光](https://m.ithome.com/html/737271.htm)
+

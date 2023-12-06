@@ -145,3 +145,13 @@
 
 + [Visualith](https://www.producthunt.com/posts/visualith)
 
++ [DataDots](https://www.producthunt.com/posts/datadots)
+
++ [FinalCuts.pro](https://www.producthunt.com/posts/finalcuts-pro)
+
++ [Waypoint](https://www.producthunt.com/posts/waypoint-2)
+
++ [Boost.space: New Standard in Data](https://www.producthunt.com/posts/boost-space-new-standard-in-data)
+
++ [Krater.ai](https://www.producthunt.com/posts/krater-ai-2)
+

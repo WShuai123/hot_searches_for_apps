@@ -165,3 +165,11 @@
 
 + [FL Studio21.3破解版水果编曲软件下载](https://blog.csdn.net/qq_48396513/article/details/134807931)
 
++ [深入浅出理解kafka ---- 万字总结](https://blog.csdn.net/txh1873749380/article/details/134784969)
+
++ [ChatGPT哪些行业需要学习？](https://blog.csdn.net/zhkjjww/article/details/134809131)
+
++ [HarmonyOS应用开发——页面](https://blog.csdn.net/maniuT/article/details/134811533)
+
++ [阿里云Arthas使用——在日志没有输出异常情况下，如何进行线上bug定位 & stack命令 和 trace命令](https://blog.csdn.net/Pireley/article/details/134804127)
+

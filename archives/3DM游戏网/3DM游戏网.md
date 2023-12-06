@@ -253,3 +253,19 @@
 
 + [网费太高迫使Twitch将于明年2月完全退出韩国市场](https://www.3dmgame.com/news/202312/3883167.html)
 
++ [《奥德赛光之越》无限期暂停开发 开发商裁员超过50%](https://www.3dmgame.com/news/202312/3883191.html)
+
++ [《迷失》正式登陆苹果Mac平台 仅支持M系列芯片](https://www.3dmgame.com/news/202312/3883192.html)
+
++ [故意降低iPhone性能 苹果电池门韩国被判赔每人7万韩元](https://www.3dmgame.com/news/202312/3883193.html)
+
++ [联动英伟达 搭载光追和DLSS，黑杰克想在PC版《钢岚》上面实现怎样的野心？](https://www.3dmgame.com/news/202312/3883194.html)
+
++ [道德卫士猛批《GTA6》：暴力多果体女性多 对孩子影响大](https://www.3dmgame.com/news/202312/3883195.html)
+
++ [新能源汽车年末打起价格战！整个市场冰火两重天](https://www.3dmgame.com/news/202312/3883196.html)
+
++ [《我被美女包围》郑梓妍扮演者钟晨瑶Cos《穿越火线》女角](https://www.3dmgame.com/news/202312/3883197.html)
+
++ [星舰第三次试飞将在圣诞节前：演示“空中加油”](https://www.3dmgame.com/news/202312/3883198.html)
+

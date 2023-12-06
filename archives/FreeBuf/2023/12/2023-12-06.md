@@ -59,3 +59,7 @@
 
 + [研究人员发现新型攻击方式，可通过图像和音频操纵大模型](https://www.freebuf.com/news/385857.html)
 
++ [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
+
++ [记一次某家园社区管理后台渗透测试案例](https://www.freebuf.com/articles/web/385274.html)
+
