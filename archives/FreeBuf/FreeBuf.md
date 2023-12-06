@@ -51,3 +51,5 @@
 
 + [关于LinkWeChat的一次代码审计记录](https://www.freebuf.com/articles/web/385579.html)
 
++ [黑客利用 Adob​​e ColdFusion 漏洞入侵美国政府机构](https://www.freebuf.com/news/385807.html)
+

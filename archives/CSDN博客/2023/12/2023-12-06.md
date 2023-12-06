@@ -145,3 +145,9 @@
 
 + [ELasticsearch：什么是语义搜索？](https://blog.csdn.net/UbuntuTouch/article/details/134806320)
 
++ [HarmonyOS鸿蒙操作系统架构](https://blog.csdn.net/lzy302810/article/details/134821705)
+
++ [软件工程 复习笔记](https://blog.csdn.net/m0_73644864/article/details/134815541)
+
++ [鸿蒙Harmony开发初探](https://blog.csdn.net/weixin_61845324/article/details/134809823)
+
