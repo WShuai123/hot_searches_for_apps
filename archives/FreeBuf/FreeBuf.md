@@ -57,3 +57,5 @@
 
 + [知名机构HTC Global 遭勒索攻击，泄露大量敏感信息](https://www.freebuf.com/news/385813.html)
 
++ [研究人员发现新型攻击方式，可通过图像和音频操纵大模型](https://www.freebuf.com/news/385857.html)
+

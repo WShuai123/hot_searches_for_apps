@@ -205,3 +205,51 @@
 
 + [《扫雪模拟器》Demo Steam页面 1月23日上线](https://www.3dmgame.com/news/202312/3883164.html)
 
++ [CDPR发文致谢玩家：三年来对2077不离不弃 给我们动力](https://www.3dmgame.com/news/202312/3883190.html)
+
++ [美国演员工会协议投票通过 好莱坞罢工正式结束](https://www.3dmgame.com/news/202312/3883189.html)
+
++ [索尼互娱PS5 Access无障碍手柄正式上市 曾获设计金奖](https://www.3dmgame.com/news/202312/3883188.html)
+
++ [张雪峰谈普通大学和985大学的区别：有单位看重这个 自己体会](https://www.3dmgame.com/news/202312/3883187.html)
+
++ [超过一半的《博德之门3》玩家与影心发生了浪漫关系](https://www.3dmgame.com/news/202312/3883185.html)
+
++ [不用等太久 《GTA6》或将在2025年4月前发售](https://www.3dmgame.com/news/202312/3883186.html)
+
++ [《鸣潮》同人漫画《不简单！共鸣者》「丹瑾」篇](https://www.3dmgame.com/news/202312/3883184.html)
+
++ [《鸣潮》共鸣者档案公开 | 绯光掠影——丹瑾](https://www.3dmgame.com/news/202312/3883183.html)
+
++ [Win10官方支持2025年停止 未来安全更新需付费](https://www.3dmgame.com/news/202312/3883182.html)
+
++ [《鸣潮》共鸣者「丹瑾」角色预告](https://www.3dmgame.com/news/202312/3883181.html)
+
++ [黄仁勋：华为是英伟达在AI芯片领域“非常强大”竞争对手](https://www.3dmgame.com/news/202312/3883180.html)
+
++ [Bang-On Balls: Chronicles (《波兰球：编年史》)现已推出任天堂Switch](https://www.3dmgame.com/news/202312/3883178.html)
+
++ [《蕾丝莱利安娜的炼金工房》开发者访谈 自信主线会获好评](https://www.3dmgame.com/news/202312/3883177.html)
+
++ [向着地表进发！《地心归途》12月15日开启抢先体验](https://www.3dmgame.com/news/202312/3883179.html)
+
++ [《李尸朝鲜：血脉》新预告片 各大反派Boss纷纷亮相](https://www.3dmgame.com/news/202312/3883171.html)
+
++ [《如龙7外传：无名之龙》英文配音本月上线 免费更新](https://www.3dmgame.com/news/202312/3883175.html)
+
++ [《方舟生存飞升》更新路线图公开，大逃杀模式本月上线](https://www.3dmgame.com/news/202312/3883176.html)
+
++ [《博德之门3》新荣誉模式太难！玩家纷纷诉苦](https://www.3dmgame.com/news/202312/3883174.html)
+
++ [《鬼灭之刃 目标！最强队员！》公开新情报和宣传视频](https://www.3dmgame.com/news/202312/3883173.html)
+
++ [《崩坏：星穹铁道》 「银枝：花瓣去哪儿了？」](https://www.3dmgame.com/news/202312/3883172.html)
+
++ [《最后的生还者》总监尼尔称赞《GTA6》预告：叹为观止](https://www.3dmgame.com/news/202312/3883170.html)
+
++ [肉鸽卡牌游戏《卡牌RPG：迷雾战场》Demo上线 发售日期待定](https://www.3dmgame.com/news/202312/3883169.html)
+
++ [《Map Map》Steam页面上线 3D世界寻宝冒险绘图](https://www.3dmgame.com/news/202312/3883168.html)
+
++ [网费太高迫使Twitch将于明年2月完全退出韩国市场](https://www.3dmgame.com/news/202312/3883167.html)
+

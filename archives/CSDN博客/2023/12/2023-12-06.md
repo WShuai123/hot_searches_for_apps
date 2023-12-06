@@ -153,3 +153,15 @@
 
 + [深入理解Java核心技术：Java工程师的实用干货笔记](https://blog.csdn.net/qq_44273429/article/details/134805637)
 
++ [从0到1构建智能分布式大数据爬虫系统](https://blog.csdn.net/qiulin_wu/article/details/134439821)
+
++ [揭秘AI魔法绘画：Stable Diffusion引领无限创意新纪元](https://blog.csdn.net/qq_32682301/article/details/134824338)
+
++ [深度学习火车票识别系统 计算机竞赛](https://blog.csdn.net/m0_43533/article/details/134808510)
+
++ [【SpringCloud篇】Eureka服务的基本配置和操作](https://blog.csdn.net/m0_72853403/article/details/134828462)
+
++ [虚拟局域网（VLAN）解析（Virtual Local Area Network）（用于在不受物理位置限制的情况下将设备划分到同一网络或不同网络）](https://blog.csdn.net/Dontla/article/details/134818426)
+
++ [FL Studio21.3破解版水果编曲软件下载](https://blog.csdn.net/qq_48396513/article/details/134807931)
+
