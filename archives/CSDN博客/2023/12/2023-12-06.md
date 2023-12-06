@@ -191,3 +191,7 @@
 
 + [前端面试——CSS面经（持续更新）](https://blog.csdn.net/weixin_43599321/article/details/134819059)
 
++ [代码生成的原理解析：从Codex、GitHub Copliot到CodeLlama、CodeGeex](https://blog.csdn.net/v_JULY_v/article/details/134765564)
+
++ [2023美图创造力大会开幕，美图发布AI视觉大模型4.0](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/134811424)
+

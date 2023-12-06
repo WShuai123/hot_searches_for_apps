@@ -67,3 +67,5 @@
 
 + [小米 14 / Pro 手机内核已在 GitHub 开源](https://m.ithome.com/html/737478.htm)
 
++ [2024 年央视春晚吉祥物“龙辰辰”正式亮相](https://m.ithome.com/html/737371.htm)
+
