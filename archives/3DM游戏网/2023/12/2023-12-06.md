@@ -269,3 +269,15 @@
 
 + [星舰第三次试飞将在圣诞节前：演示“空中加油”](https://www.3dmgame.com/news/202312/3883198.html)
 
++ [大家接受涨价！显卡活过来了 销量激增：只会越卖越贵](https://www.3dmgame.com/news/202312/3883204.html)
+
++ [调查：95%的主播月收入低于5000元 不如外卖员](https://www.3dmgame.com/news/202312/3883203.html)
+
++ [顶流！《GTA6》首个预告油管播放量突破1亿 超越《GTA5》打破记录](https://www.3dmgame.com/news/202312/3883202.html)
+
++ [奔驰公布PS5联动特别版A250新车 只是索尼白而已](https://www.3dmgame.com/news/202312/3883201.html)
+
++ [消息称台积电自研聊天AI tGenie已投入运营 已节省1亿新台币翻译费](https://www.3dmgame.com/news/202312/3883200.html)
+
++ [徐静雨、BBC梦幻联动直播首秀 年度人气地图见证最帅瞬间](https://www.3dmgame.com/news/202312/3883199.html)
+

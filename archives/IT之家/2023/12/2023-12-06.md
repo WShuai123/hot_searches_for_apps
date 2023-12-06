@@ -53,3 +53,9 @@
 
 + [消息称麦当劳启动华为鸿蒙原生应用开发，签约活动曝光](https://m.ithome.com/html/737271.htm)
 
++ [《GTA6》官方预告播放量破 6500 万，外媒总结游戏隐藏细节特性](https://m.ithome.com/html/737241.htm)
+
++ [英特尔预热酷睿 Ultra 处理器，展示全新贴纸标识](https://m.ithome.com/html/737240.htm)
+
++ [小米澎湃 OS 体验沟通会明晚 7 点举行，主题为“妙想澎湃”](https://m.ithome.com/html/737305.htm)
+
