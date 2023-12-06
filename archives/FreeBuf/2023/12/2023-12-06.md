@@ -47,3 +47,5 @@
 
 + [记一次另类越权进入某家园社区管理后台案例](https://www.freebuf.com/articles/web/385274.html)
 
++ [后知后觉？HTC Global services 承认遭到网络攻击](https://www.freebuf.com/news/385813.html)
+

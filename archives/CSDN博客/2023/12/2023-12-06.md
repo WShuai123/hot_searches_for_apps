@@ -133,3 +133,11 @@
 
 + [机器人制作开源方案 | 自主型收集餐盘机器人](https://blog.csdn.net/Robotway/article/details/134771679)
 
++ [基于Java+Vue+uniapp微信小程序社区车位租赁系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134817074)
+
++ [解密人工智能：KNN | K-均值 | 降维算法 | 梯度Boosting算法 | AdaBoosting算法](https://blog.csdn.net/weixin_63115236/article/details/134823688)
+
++ [Python 数据处理与分析之 Pandas 库](https://blog.csdn.net/footless_bird/article/details/134776677)
+
++ [Vue3中定义变量是选择ref还是reactive？](https://blog.csdn.net/m0_72196169/article/details/134819901)
+

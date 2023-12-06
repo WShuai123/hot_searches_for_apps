@@ -185,3 +185,17 @@
 
 + [《暗黑破坏神4》更新出BUG 意外削弱玩家巅峰面板](https://www.3dmgame.com/news/202312/3883151.html)
 
++ [《DESIGNS 永野护设计展》2024年2月开幕 机甲美学之神](https://www.3dmgame.com/news/202312/3883163.html)
+
++ [扎克·施奈德表示《活死人军团》不会有导演剪辑版](https://www.3dmgame.com/news/202312/3883162.html)
+
++ [《GTA6》预告比基尼美女引玩家热议：或是女主变装？](https://www.3dmgame.com/news/202312/3883161.html)
+
++ [《傲世三国之三分天下》新Steam商店页面上线 支持中文](https://www.3dmgame.com/news/202312/3883160.html)
+
++ [通信能力超5G10倍 我国2030年左右将实现6G商用](https://www.3dmgame.com/news/202312/3883159.html)
+
++ [回合战略国际象棋桌面游戏《棋境漫游》现已在Steam正式发行](https://www.3dmgame.com/news/202312/3883158.html)
+
++ [我国成功发射卫星互联网技术试验卫星！首次海上远距离机动发射](https://www.3dmgame.com/news/202312/3883157.html)
+

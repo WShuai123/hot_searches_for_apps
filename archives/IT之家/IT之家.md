@@ -43,3 +43,5 @@
 
 + [印度用户更喜欢 iPhone 12/13 等旧款机型，苹果希望免除强制使用 USB-C 接口的规定](https://m.ithome.com/html/737224.htm)
 
++ [今晚国内油价迎“五连降”，加满一箱 92 号汽油少花 2 元](https://m.ithome.com/html/737202.htm)
+
