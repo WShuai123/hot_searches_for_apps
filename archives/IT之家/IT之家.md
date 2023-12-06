@@ -29,3 +29,5 @@
 
 + [小米路由器 AX1500 上架：支持 5GHz WiFi6，预售到手价 129 元](https://m.ithome.com/html/737317.htm)
 
++ [麦当劳正式启动华为鸿蒙原生应用开发](https://m.ithome.com/html/737493.htm)
+
