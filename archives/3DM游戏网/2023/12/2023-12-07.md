@@ -105,3 +105,11 @@
 
 + [外媒评选2023年15款最佳的单机续作 《博德之门3》等](https://www.3dmgame.com/news/202312/3883214.html)
 
++ [宁静冒险探索游戏《欧罗巴》4/16登陆PC](https://www.3dmgame.com/news/202312/3883216.html)
+
++ [《吸血鬼幸存者》“Among Us”主题DLC公布](https://www.3dmgame.com/news/202312/3883217.html)
+
++ [悬疑游戏《鸭子侦探：秘密萨拉米》面向PC公布](https://www.3dmgame.com/news/202312/3883218.html)
+
++ [模拟社交游戏《暖心话语2》面向PC公布 24年推出](https://www.3dmgame.com/news/202312/3883219.html)
+
