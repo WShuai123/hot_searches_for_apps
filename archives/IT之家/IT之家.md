@@ -37,3 +37,9 @@
 
 + [7299 元 → 3734 元：魅族 20 INFINITY 无界版手机京东 24 期免息](https://m.ithome.com/html/737256.htm)
 
++ [消息称江淮版华为智选“界”车型对标梅赛德斯-迈巴赫，售价将达百万级](https://m.ithome.com/html/737259.htm)
+
++ [我国发布全球首型、世界最大核动力集装箱船，采用第四代堆型熔盐反应堆解决方案](https://m.ithome.com/html/737179.htm)
+
++ [印度用户更喜欢 iPhone 12/13 等旧款机型，苹果希望免除强制使用 USB-C 接口的规定](https://m.ithome.com/html/737224.htm)
+

@@ -125,3 +125,11 @@
 
 + [计算机网络：可靠数据传输（rdt）、流水协议、窗口滑动协议](https://blog.csdn.net/weixin_62951900/article/details/134809983)
 
++ [【SpringCloud】通过Redis手动更新Ribbon缓存来解决Eureka微服务架构中服务下线感知的问题](https://blog.csdn.net/weixin_57535055/article/details/134719740)
+
++ [「哈士奇赠书活动 - 47期」-『硅基物语.AI写作高手』](https://blog.csdn.net/weixin_42250835/article/details/134819879)
+
++ [CSS面经（未完待续）](https://blog.csdn.net/weixin_43599321/article/details/134819059)
+
++ [机器人制作开源方案 | 自主型收集餐盘机器人](https://blog.csdn.net/Robotway/article/details/134771679)
+
