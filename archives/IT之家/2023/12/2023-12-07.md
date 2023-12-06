@@ -27,3 +27,5 @@
 
 + [8.88 万元起，五菱星光轿车正式上市：CLTC 纯电续航 70/150 km](https://m.ithome.com/html/737485.htm)
 
++ [小米路由器 AX1500 上架：支持 5GHz WiFi6，预售到手价 129 元](https://m.ithome.com/html/737317.htm)
+
