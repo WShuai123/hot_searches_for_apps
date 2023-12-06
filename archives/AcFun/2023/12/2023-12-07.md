@@ -61,3 +61,7 @@
 
 + [韩国神拳再次让男性破防！私货手势被发现 工作室急忙道歉返工！](http://www.acfun.cn/v/ac43156697)
 
++ [12月玩什么？7款新游戏推荐【安娜游戏推荐】](http://www.acfun.cn/v/ac43157349)
+
++ [4K竖屏 SISTAR - Shake It](http://www.acfun.cn/v/ac43156992)
+

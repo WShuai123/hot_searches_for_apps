@@ -25,3 +25,5 @@
 
 + [消息称小米 14 Ultra 手机配备更大的高密度电池，采用等深四微曲屏](https://m.ithome.com/html/737362.htm)
 
++ [8.88 万元起，五菱星光轿车正式上市：CLTC 纯电续航 70/150 km](https://m.ithome.com/html/737485.htm)
+

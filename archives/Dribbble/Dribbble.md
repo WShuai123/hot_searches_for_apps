@@ -49,3 +49,23 @@
 
 + [Sence.Point - HR UX-UI design](https://dribbble.com/shots/)
 
++ [Fishing Club - Badge](https://dribbble.com/shots/)
+
++ [Subscription - 30% OFF](https://dribbble.com/shots/)
+
++ [Peaceful Tanks](https://dribbble.com/shots/)
+
++ [P-Con Final](https://dribbble.com/shots/)
+
++ [Chocolate 7-Pot](https://dribbble.com/shots/)
+
++ [City Badges for Kiln Co](https://dribbble.com/shots/)
+
++ [3D Icons for Izon.com](https://dribbble.com/shots/)
+
++ [Metafy RPG](https://dribbble.com/shots/)
+
++ [Joysticks 'n Sliders](https://dribbble.com/shots/)
+
++ [Polygon logo redesign concept: P letter mark + polygons network](https://dribbble.com/shots/)
+
