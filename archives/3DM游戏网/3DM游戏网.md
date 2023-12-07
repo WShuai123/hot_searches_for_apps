@@ -103,3 +103,11 @@
 
 + [Epic喜加一：《GigaBash巨击大乱斗》《Predecessor》免费、下周神秘游戏](https://www.3dmgame.com/news/202312/3883311.html)
 
++ [《战锤40K：行商浪人》上市预告片展示游戏特色](https://www.3dmgame.com/news/202312/3883317.html)
+
++ [《吸血鬼：避世血族2》公布第四可玩氏族梵卓族](https://www.3dmgame.com/news/202312/3883316.html)
+
++ [《哥布林杀手》战略游戏新预告片分享 结尾曲公布](https://www.3dmgame.com/news/202312/3883315.html)
+
++ [《波斯王子：失落王冠》预告片泄露 Demo1/11推出](https://www.3dmgame.com/news/202312/3883314.html)
+
