@@ -37,3 +37,5 @@
 
 + [Win12 前瞻版本准备登场：消息称微软明年将发布两次 Windows 版本更新，并带来“突破性”AI 功能](https://m.ithome.com/html/737523.htm)
 
++ [“顺丰暂停揽收手办”登上热搜，官方回应称“传言不实，揽收一切正常”](https://m.ithome.com/html/737453.htm)
+

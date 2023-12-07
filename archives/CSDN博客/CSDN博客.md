@@ -143,3 +143,11 @@
 
 + [Elasticsearch--解决磁盘使用率超过警戒水位线](https://blog.csdn.net/feiying0canglang/article/details/128752831)
 
++ [基于Java+Vue+uniapp微信小程序婚庆摄影系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134825820)
+
++ [什么是数据清洗、特征工程、数据可视化、数据挖掘与建模？](https://blog.csdn.net/m0_72274883/article/details/134822485)
+
++ [【C语言】7-38 吉老师的回归 分数 15](https://blog.csdn.net/zRenox/article/details/134839426)
+
++ [【Cisco Packet Tracer】分类地址](https://blog.csdn.net/m0_57532432/article/details/134474986)
+

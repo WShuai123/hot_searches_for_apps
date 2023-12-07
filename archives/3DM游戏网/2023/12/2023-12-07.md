@@ -153,3 +153,43 @@
 
 + [《Llamasoft: The Jeff Minter Story》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202312/3883235.html)
 
++ [基里安·墨菲仍然希望出演《浴血黑帮》电影“如果还有更多故事可讲的话”](https://www.3dmgame.com/news/202312/3883253.html)
+
++ [N站移除《博德之门3》恐同Mod：违反社区准则](https://www.3dmgame.com/news/202312/3883254.html)
+
++ [11月国游数据统计榜 《魔法工艺》等8款游戏上榜](https://www.3dmgame.com/news/202312/3883255.html)
+
++ [Meta和微软将购买AMD新型AI芯片 替代英伟达](https://www.3dmgame.com/news/202312/3883256.html)
+
++ [太空狼人杀《我们之中VR》现已登陆PSVR2](https://www.3dmgame.com/news/202312/3883257.html)
+
++ [DC的电子游戏可能不会成为电影宇宙的一部分](https://www.3dmgame.com/news/202312/3883258.html)
+
++ [《GTA6》下个新预告可能还要再等一年 R星传统](https://www.3dmgame.com/news/202312/3883259.html)
+
++ [开放世界航海生存《Voyagers of Nera》明年Steam抢先体验](https://www.3dmgame.com/news/202312/3883248.html)
+
++ [《阿凡达：潘多拉边境》主线通关20小时 支线很多](https://www.3dmgame.com/news/202312/3883249.html)
+
++ [《Moratorium》Steam页面上线 小众文本冒险新游](https://www.3dmgame.com/news/202312/3883250.html)
+
++ [CDPR展示《赛博朋克2077：终极版》主题RTX4090 只送不卖](https://www.3dmgame.com/news/202312/3883251.html)
+
++ [《阴阳师0》新预告 2024年4月19日上映](https://www.3dmgame.com/news/202312/3883252.html)
+
++ [TGA暴躁老哥旧作《兄弟：双子传说》的重置版似乎正在制作中](https://www.3dmgame.com/news/202312/3883240.html)
+
++ [《Open Roads》预计于2024年2月23日发售 支持简中](https://www.3dmgame.com/news/202312/3883241.html)
+
++ [《子弹风暴VR》宣布将额外包含两个新女主个人关卡](https://www.3dmgame.com/news/202312/3883242.html)
+
++ [HBO确定《最后的生还者》第二季将于2025年上线](https://www.3dmgame.com/news/202312/3883243.html)
+
++ [开放世界冒险探索《Europa》PC版明年4月发售](https://www.3dmgame.com/news/202312/3883244.html)
+
++ [《GTA6》与前作对比视频：全面进化 画面超级棒](https://www.3dmgame.com/news/202312/3883245.html)
+
++ [30年经典解谜游戏推新作 《上海LEGEND》登陆Switch](https://www.3dmgame.com/news/202312/3883246.html)
+
++ [Switch版《蝙蝠侠：阿卡姆三部曲》向凯文·康罗伊致敬](https://www.3dmgame.com/news/202312/3883247.html)
+
