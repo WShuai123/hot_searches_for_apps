@@ -59,3 +59,5 @@
 
 + [春晚吉祥物“龙辰辰”再遭外界质疑，消息称原型基于建设银行龙年金钞 AI 成图](https://m.ithome.com/html/737729.htm)
 
++ [小米澎湃 OS 首批发布计划公布，小米 13 / Pro、Redmi K60 / Pro 等 5 款机型今日起推送](https://m.ithome.com/html/737758.htm)
+

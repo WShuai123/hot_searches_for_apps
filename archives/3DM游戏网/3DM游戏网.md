@@ -283,3 +283,9 @@
 
 + [诺兰《奥本海默》将于明年在日本上映](https://www.3dmgame.com/news/202312/3883304.html)
 
++ [《GTA6》全局光照和反射将混合使用光追解决方案](https://www.3dmgame.com/news/202312/3883307.html)
+
++ [马斯克祝贺谷歌推出Gemini：令人印象深刻](https://www.3dmgame.com/news/202312/3883306.html)
+
++ [《影子诡局：被诅咒的海盗》全新DLC现已上线](https://www.3dmgame.com/news/202312/3883303.html)
+

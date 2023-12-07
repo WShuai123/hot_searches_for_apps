@@ -187,3 +187,11 @@
 
 + [MATLAB机器人对偏导数、雅克比矩阵、行列式的分析与实践](https://blog.csdn.net/weixin_41896770/article/details/134852130)
 
++ [如何使用Docker本地搭建开源CMF Drupal并结合内网穿透公网访问](https://blog.csdn.net/syf666250/article/details/134861703)
+
++ [C#大型LIS检验信息系统项目源码](https://blog.csdn.net/qq_27741787/article/details/134854540)
+
++ [基于springboot + vue的社区团购系统](https://blog.csdn.net/Yaml4/article/details/134819573)
+
++ [2023五岳杯量子计算数学建模挑战赛深度剖析（QUBO建模+模拟退火算法）](https://blog.csdn.net/2301_80749953/article/details/134841439)
+
