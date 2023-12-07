@@ -75,3 +75,7 @@
 
 + [【东方】ハイスピードケルベロス【ぱらどっと Eurobeat】](http://www.acfun.cn/v/ac43145883)
 
++ [《汗流浃背了吧主人》](http://www.acfun.cn/v/ac43157906)
+
++ [韩服最强王者菁英对决 #2288ㅣ来了来了](http://www.acfun.cn/v/ac43158750)
+

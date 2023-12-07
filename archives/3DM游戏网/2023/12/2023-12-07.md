@@ -129,3 +129,15 @@
 
 + [《风来之国》复活吧海鸥镇DLC确定1月31日发售](https://www.3dmgame.com/news/202312/3883224.html)
 
++ [Atlus新作《暗喻幻想》确定参加TGA 公布新情报](https://www.3dmgame.com/news/202312/3883232.html)
+
++ [报告预计2024年美国将占全球手游收入增长40%](https://www.3dmgame.com/news/202312/3883231.html)
+
++ [裁员或只是开始 《命运2》工作人员担忧Bungie的未来](https://www.3dmgame.com/news/202312/3883233.html)
+
++ [索尼谈PS5对于PC的优势：开箱即玩 节省成本和时间](https://www.3dmgame.com/news/202312/3883230.html)
+
++ [《面包之子》登陆多平台发售 复古回合制RPG新作](https://www.3dmgame.com/news/202312/3883229.html)
+
++ [亚瑟摩根演员：《荒野大镖客3》肯定有 但亚瑟的故事已经完结](https://www.3dmgame.com/news/202312/3883228.html)
+

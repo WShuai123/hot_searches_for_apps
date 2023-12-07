@@ -43,3 +43,7 @@
 
 + [你的声音就是我的“通行证”](https://www.freebuf.com/articles/network/385515.html)
 
++ [RCE系统交互条件与受限环境下的利用](https://www.freebuf.com/vuls/383943.html)
+
++ [FreeBuf早报 | AI平台Hugging Face现API令牌漏洞；英国Sellafield核设施曾遭入侵](https://www.freebuf.com/articles/385872.html)
+
