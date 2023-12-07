@@ -257,3 +257,9 @@
 
 + [NAND闪存价格起飞！存储大厂西数发出涨价信：未来累计涨幅达55%](https://www.3dmgame.com/news/202312/3883291.html)
 
++ [休闲游戏《窗景》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3883293.html)
+
++ [网飞确定《鱿鱼游戏：真人挑战赛》续订第二季](https://www.3dmgame.com/news/202312/3883292.html)
+
++ [俄罗斯宣布中小学校将禁用手机：耽误学生学习等](https://www.3dmgame.com/news/202312/3883294.html)
+

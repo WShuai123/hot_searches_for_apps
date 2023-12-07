@@ -51,3 +51,5 @@
 
 + [宋紫薇首秀，理想汽车“史上最强 OTA”智能软件发布会 12 月 10 日举行](https://m.ithome.com/html/737618.htm)
 
++ [realme 真我 GT5 Pro 手机发布：搭载第三代骁龙 8、超光影影像，首销 3298 元起](https://m.ithome.com/html/737666.htm)
+
