@@ -101,3 +101,27 @@
 
 + [.NET Core 依赖注入 Microsoft.Extensions.DependencyInjection](https://blog.csdn.net/qq_44695769/article/details/134819501)
 
++ [使用Python Flask搭建Web问答应用程序并发布到公网远程访问](https://blog.csdn.net/qq_57761637/article/details/134797732)
+
++ [【推荐系统】了解推荐系统的生态（重点：推荐算法的主要分类）](https://blog.csdn.net/m0_62218217/article/details/134865391)
+
++ [【Spring教程16】Spring框架实战：详解解读AOP配置管理中AOP切入点表达式和通知类型](https://blog.csdn.net/shenchengyv/article/details/134829141)
+
++ [Ubuntu宝塔面板本地部署Emlog个人博客网站并远程访问【内网穿透】](https://blog.csdn.net/2201_75743654/article/details/134863127)
+
++ [项目中使用之Maven BOM](https://blog.csdn.net/qq_58608526/article/details/134842812)
+
++ [【“C++ 精妙之道：解锁模板奇谭与STL精粹之门“】](https://blog.csdn.net/qq_64446981/article/details/134351949)
+
++ [决战排序之巅(一)](https://blog.csdn.net/GenshiN__IMPACt_/article/details/134476587)
+
++ [【微服务】springboot整合quartz使用详解](https://blog.csdn.net/congge_study/article/details/134864240)
+
++ [【SpringBoot】解析Springboot事件机制，事件发布和监听](https://blog.csdn.net/weixin_44299027/article/details/134839770)
+
++ [使用TouchSocket适配一个c++的自定义协议](https://blog.csdn.net/qq_40374647/article/details/134836611)
+
++ [MATLAB将动画演示以及将过程保存为gif动态图片](https://blog.csdn.net/weixin_41896770/article/details/134852388)
+
++ [【数据库】基于时间戳的并发访问控制，乐观模式，时间戳替代形式及存在的问题，与封锁模式的对比](https://blog.csdn.net/senllang/article/details/134863882)
+
