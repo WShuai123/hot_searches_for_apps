@@ -93,3 +93,7 @@
 
 + [不正经翻唱之♢全唱了我们就是吉祥三宝幸福的一家♢/パパみたいに](http://www.acfun.cn/v/ac43159074)
 
++ [我去！初音叫我唱歌](http://www.acfun.cn/v/ac43159071)
+
++ [【安兜】只能选我！yes or yes？](http://www.acfun.cn/v/ac43159209)
+

@@ -227,3 +227,19 @@
 
 + [手绘寻物游戏《旅人苏菲亚》公布全新宣传片 将于2024年发售](https://www.3dmgame.com/news/202312/3883268.html)
 
++ [入侵TGA颁奖仪式的红灵少年威胁重返TGA 2023：明天见](https://www.3dmgame.com/news/202312/3883278.html)
+
++ [KK对战平台首届“地图男神大赛”圆满落幕 徐静雨、BBC联袂直播敬献巅峰](https://www.3dmgame.com/news/202312/3883284.html)
+
++ [《英雄联盟》跨区匹配功能即将开测 第一阶段划分8个大区](https://www.3dmgame.com/news/202312/3883282.html)
+
++ [KK对战平台12月燃爆周末活动开启，福利满满只为等你！](https://www.3dmgame.com/news/202312/3883283.html)
+
++ [《如龙8》参演者kson酱谈游戏心得 对桐生一马新状态半分不安](https://www.3dmgame.com/news/202312/3883281.html)
+
++ [老电脑要淘汰了！微软正准备性能超40 TOPS AI电脑：满足Windows 12系统要求](https://www.3dmgame.com/news/202312/3883280.html)
+
++ [玩家在《赛博朋克2077》地铁中发现基努·里维斯坐长椅表情包彩蛋](https://www.3dmgame.com/news/202312/3883279.html)
+
++ [开机甲经营农场《光年前线》明年3月推出抢先体验](https://www.3dmgame.com/news/202312/3883277.html)
+

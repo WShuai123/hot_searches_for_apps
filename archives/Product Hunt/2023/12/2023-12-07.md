@@ -107,3 +107,33 @@
 
 + [Picmojo](https://www.producthunt.com/posts/picmojo)
 
++ [AI Adventure by Steamship](https://www.producthunt.com/posts/ai-adventure-by-steamship)
+
++ [Gemini](https://www.producthunt.com/posts/gemini-8)
+
++ [ASCII Charts](https://www.producthunt.com/posts/ascii-charts)
+
++ [Echonotes](https://www.producthunt.com/posts/echonotes)
+
++ [Xound](https://www.producthunt.com/posts/xound)
+
++ [Midnight](https://www.producthunt.com/posts/midnight-2)
+
++ [NeckGo](https://www.producthunt.com/posts/neckgo)
+
++ [AI Applicant Sorting by Dover](https://www.producthunt.com/posts/ai-applicant-sorting-by-dover)
+
++ [Openlayer: LLM Evals and Monitoring](https://www.producthunt.com/posts/openlayer-llm-evals-and-monitoring)
+
++ [VEED Captions App](https://www.producthunt.com/posts/veed-captions-app-4)
+
++ [Ello](https://www.producthunt.com/posts/ello-4)
+
++ [JetBrains AI](https://www.producthunt.com/posts/jetbrains-ai)
+
++ [EngageLab](https://www.producthunt.com/posts/engagelab)
+
++ [&facts](https://www.producthunt.com/posts/facts-2)
+
++ [Kombai For Email](https://www.producthunt.com/posts/kombai-for-email)
+

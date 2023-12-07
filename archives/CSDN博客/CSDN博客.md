@@ -159,3 +159,7 @@
 
 + [2023年5个自动化EDA库推荐](https://blog.csdn.net/m0_46510245/article/details/134849953)
 
++ [华为OD七日集训第9期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/134843561)
+
++ [大数据可视化项目——基于Python豆瓣电影数据可视化分析系统的设计与实现](https://blog.csdn.net/Myx74270512/article/details/134838865)
+
