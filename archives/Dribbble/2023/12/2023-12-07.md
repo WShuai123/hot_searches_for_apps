@@ -131,3 +131,11 @@
 
 + [Marketing Page](https://dribbble.com/shots/)
 
++ [Sales Analytics](https://dribbble.com/shots/)
+
++ [2023 Summary](https://dribbble.com/shots/)
+
++ [After - Pre Plan](https://dribbble.com/shots/)
+
++ [BlockTrade App - Cryptocurrency Trading Terminal Admin Dashboard](https://dribbble.com/shots/)
+

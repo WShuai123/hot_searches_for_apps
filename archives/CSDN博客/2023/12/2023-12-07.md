@@ -119,3 +119,9 @@
 
 + [HarmonyOS应用开发——页面](https://blog.csdn.net/maniuT/article/details/134811533)
 
++ [图像处理中的角点检测Python-OpenCV 中的实现](https://blog.csdn.net/gongdiwudu/article/details/134822602)
+
++ [Nodejs+vue+ElementUi自动排课系统](https://blog.csdn.net/qq_3166678367/article/details/134814781)
+
++ [如何使用Node.js快速创建本地HTTP服务器并实现异地远程访问](https://blog.csdn.net/qiuqiushuibx/article/details/134787113)
+

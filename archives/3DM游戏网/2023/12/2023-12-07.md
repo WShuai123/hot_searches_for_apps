@@ -119,3 +119,13 @@
 
 + [《铁拳8》公开白色死神德拉古诺夫预告](https://www.3dmgame.com/news/202312/3883220.html)
 
++ [《黎明杀机》单人剧情游戏将在TGA正式公开](https://www.3dmgame.com/news/202312/3883227.html)
+
++ [《叛变：沙漠风暴》开发商新世界互动遭裁员](https://www.3dmgame.com/news/202312/3883225.html)
+
++ [前R星动画师盛赞《GTA6》预告：太棒了 NPC很逼真](https://www.3dmgame.com/news/202312/3883226.html)
+
++ [微缩世界手绘动画风格游戏《Vivarium》公开](https://www.3dmgame.com/news/202312/3883223.html)
+
++ [《风来之国》复活吧海鸥镇DLC确定1月31日发售](https://www.3dmgame.com/news/202312/3883224.html)
+

@@ -71,3 +71,7 @@
 
 + [生活化减脂餐 第69天  虾滑饺](http://www.acfun.cn/v/ac43157527)
 
++ [这首歌杀伤力不亚于初恋](http://www.acfun.cn/v/ac43158530)
+
++ [【东方】ハイスピードケルベロス【ぱらどっと Eurobeat】](http://www.acfun.cn/v/ac43145883)
+

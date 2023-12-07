@@ -41,3 +41,5 @@
 
 + [NoEscape 勒索软件的前世今生](https://www.freebuf.com/articles/network/384862.html)
 
++ [你的声音就是我的“通行证”](https://www.freebuf.com/articles/network/385515.html)
+
