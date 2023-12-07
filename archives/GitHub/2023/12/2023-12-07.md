@@ -51,3 +51,5 @@
 
 + [langchain-ai / opengpts](https://github.com/langchain-ai/opengpts)
 
++ [pydantic / FastUI](https://github.com/pydantic/FastUI)
+

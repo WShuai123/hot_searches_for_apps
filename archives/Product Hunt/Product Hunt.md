@@ -137,3 +137,21 @@
 
 + [Kombai For Email](https://www.producthunt.com/posts/kombai-for-email)
 
++ [Animaker AI](https://www.producthunt.com/posts/animaker-ai)
+
++ [SplitMyExpenses 2.0](https://www.producthunt.com/posts/splitmyexpenses-2-0)
+
++ [All-in-One SEO Suite](https://www.producthunt.com/posts/all-in-one-seo-suite)
+
++ [PartnerJam](https://www.producthunt.com/posts/partnerjam)
+
++ [Qualli](https://www.producthunt.com/posts/qualli)
+
++ [QAssist](https://www.producthunt.com/posts/qassist)
+
++ [BarGlance](https://www.producthunt.com/posts/barglance)
+
++ [Strut AI](https://www.producthunt.com/posts/strut-ai)
+
++ [BrandVox](https://www.producthunt.com/posts/brandvox-3)
+

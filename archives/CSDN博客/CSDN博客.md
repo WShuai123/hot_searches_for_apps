@@ -163,3 +163,9 @@
 
 + [大数据可视化项目——基于Python豆瓣电影数据可视化分析系统的设计与实现](https://blog.csdn.net/Myx74270512/article/details/134838865)
 
++ [如何本地搭建Linux DataEase数据可视化分析工具并实现公网访问](https://blog.csdn.net/ljq_up/article/details/134854401)
+
++ [外包干了一个月，技术明显进步。。。。。](https://blog.csdn.net/2301_77645750/article/details/134836296)
+
++ [外包干了2个月，技术倒退2年。。。](https://blog.csdn.net/2301_77645573/article/details/134819144)
+
