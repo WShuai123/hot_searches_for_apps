@@ -279,3 +279,7 @@
 
 + [京阿尼纵火案庭审完结 嫌犯首次道歉明年1月25日宣判](https://www.3dmgame.com/news/202312/3883299.html)
 
++ [《GTA6》首发没有PC 国外有玩家称将选择盗版](https://www.3dmgame.com/news/202312/3883305.html)
+
++ [诺兰《奥本海默》将于明年在日本上映](https://www.3dmgame.com/news/202312/3883304.html)
+

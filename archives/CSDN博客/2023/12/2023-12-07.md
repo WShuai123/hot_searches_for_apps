@@ -179,3 +179,11 @@
 
 + [如何使用Net2FTP轻松部署本地Web文件管理器并远程访问管理内网资源？](https://blog.csdn.net/qq_25749749/article/details/134854693)
 
++ [如何在Linux上部署1Panel运维管理面板并远程访问内网Web端管理界面](https://blog.csdn.net/weixin_43786143/article/details/134855953)
+
++ [Docker部署开源分布式任务调度系统DolphinScheduler与远程访问办公](https://blog.csdn.net/st200112266/article/details/134856647)
+
++ [机器学习之回归算法-逻辑回归](https://blog.csdn.net/lijunhcn/article/details/134851676)
+
++ [MATLAB机器人对偏导数、雅克比矩阵、行列式的分析与实践](https://blog.csdn.net/weixin_41896770/article/details/134852130)
+

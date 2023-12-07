@@ -107,3 +107,19 @@
 
 + [【出道曲】唯美声线唱响《远古之歌》，绝美原创PV【尼尔】（翻唱）](http://www.acfun.cn/v/ac43156130)
 
++ [【1900】人民万岁！中原逐鹿大结局《淮海战役》精讲 后篇](http://www.acfun.cn/v/ac43167094)
+
++ [梨 形 身 材！就问：哪个男人不爱？——▎大师精选⁷⁶](http://www.acfun.cn/v/ac43158245)
+
++ [细数SNK在街机上的那些奇葩清版游戏，斗不过卡普空的原因终于找到了！](http://www.acfun.cn/v/ac43166630)
+
++ [大禹治水，竟是被迫？【史记 | HISTORY】04](http://www.acfun.cn/v/ac43160558)
+
++ [【ちいかわ×アリアナ】Santa Tell Me (搬运)](http://www.acfun.cn/v/ac43158295)
+
++ [萌宠集合，这才是猛男该看的！ 第三百四十五期](http://www.acfun.cn/v/ac43158140)
+
++ [30岁了，我该生小孩吗？](http://www.acfun.cn/v/ac43164787)
+
++ [【真曈】宅舞人的What is Love-Twice](http://www.acfun.cn/v/ac43155032)
+

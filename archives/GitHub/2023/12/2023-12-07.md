@@ -53,3 +53,31 @@
 
 + [pydantic / FastUI](https://github.com/pydantic/FastUI)
 
++ [JJTech0130 / pypush](https://github.com/JJTech0130/pypush)
+
++ [google / style-aligned](https://github.com/google/style-aligned)
+
++ [ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder)
+
++ [PRIS-CV / DemoFusion](https://github.com/PRIS-CV/DemoFusion)
+
++ [facebook / stylex](https://github.com/facebook/stylex)
+
++ [SuperDuperDB / superduperdb](https://github.com/SuperDuperDB/superduperdb)
+
++ [linexjlin / GPTs](https://github.com/linexjlin/GPTs)
+
++ [hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+
++ [nocodb / nocodb](https://github.com/nocodb/nocodb)
+
++ [gkd-kit / gkd](https://github.com/gkd-kit/gkd)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+
++ [kata-containers / kata-containers](https://github.com/kata-containers/kata-containers)
+
++ [keyvanakbary / learning-notes](https://github.com/keyvanakbary/learning-notes)
+
++ [catchorg / Catch2](https://github.com/catchorg/Catch2)
+
