@@ -95,3 +95,15 @@
 
 + [Hero Exploration](https://dribbble.com/shots/)
 
++ [Hippo Logo](https://dribbble.com/shots/)
+
++ [SoccerSkullz](https://dribbble.com/shots/)
+
++ [Jason Broyles](https://dribbble.com/shots/)
+
++ [Jobsity Illustration](https://dribbble.com/shots/)
+
++ [Financeo: Components & Cards](https://dribbble.com/shots/)
+
++ [After - Pre Plan](https://dribbble.com/shots/)
+
