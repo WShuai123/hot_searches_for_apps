@@ -105,3 +105,5 @@
 
 + [【柯基】妖精的旋律OP《LILIUM》](http://www.acfun.cn/v/ac43165427)
 
++ [【出道曲】唯美声线唱响《远古之歌》，绝美原创PV【尼尔】（翻唱）](http://www.acfun.cn/v/ac43156130)
+

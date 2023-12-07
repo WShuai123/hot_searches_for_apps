@@ -53,3 +53,7 @@
 
 + [realme 真我 GT5 Pro 手机发布：搭载第三代骁龙 8、超光影影像，首销 3298 元起](https://m.ithome.com/html/737666.htm)
 
++ [问界 M9 尾灯可自定义文字和图案，显示“囍”字秒变婚车](https://m.ithome.com/html/737627.htm)
+
++ [李杰回应“一加 12 降价”：已报警，若传闻真实将原价回收手机](https://m.ithome.com/html/737626.htm)
+

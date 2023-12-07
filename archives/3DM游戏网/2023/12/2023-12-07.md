@@ -263,3 +263,19 @@
 
 + [俄罗斯宣布中小学校将禁用手机：耽误学生学习等](https://www.3dmgame.com/news/202312/3883294.html)
 
++ [国外网友吐槽《GTA6》黑人太多了 但现实就这样](https://www.3dmgame.com/news/202312/3883300.html)
+
++ [iPhone15价格跳水销量大涨：中国年轻人换机首选苹果](https://www.3dmgame.com/news/202312/3883301.html)
+
++ [英伟达中国特供版RTX4090D细节曝光：12999元买吗？](https://www.3dmgame.com/news/202312/3883302.html)
+
++ [国产策略对抗《三国之志4》2023年12月18日发售！](https://www.3dmgame.com/news/202312/3883295.html)
+
++ [玩家吐槽《赛博朋克2077》地铁功能 进站黑屏加载学星空？](https://www.3dmgame.com/news/202312/3883296.html)
+
++ [《天国：拯救》皇家版宣布将于2024年初登陆Switch](https://www.3dmgame.com/news/202312/3883297.html)
+
++ [英伟达RTX 3050 6G显卡爆料 75W功耗售价 179-189 美元](https://www.3dmgame.com/news/202312/3883298.html)
+
++ [京阿尼纵火案庭审完结 嫌犯首次道歉明年1月25日宣判](https://www.3dmgame.com/news/202312/3883299.html)
+

@@ -171,3 +171,11 @@
 
 + [机器学习之分类算法-决策树](https://blog.csdn.net/lijunhcn/article/details/134837487)
 
++ [【Vue】学习路线图（VIP珍藏版）](https://blog.csdn.net/libusi001/article/details/134849673)
+
++ [Linux CentOS本地部署SQL Server数据库结合cpolar内网穿透实现公网访问](https://blog.csdn.net/2301_80026901/article/details/134853934)
+
++ [基于LSTM和N-gram序列的英文文本生成（文末送书）](https://blog.csdn.net/m0_64336780/article/details/134330095)
+
++ [如何使用Net2FTP轻松部署本地Web文件管理器并远程访问管理内网资源？](https://blog.csdn.net/qq_25749749/article/details/134854693)
+
