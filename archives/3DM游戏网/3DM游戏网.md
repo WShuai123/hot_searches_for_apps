@@ -141,3 +141,15 @@
 
 + [亚瑟摩根演员：《荒野大镖客3》肯定有 但亚瑟的故事已经完结](https://www.3dmgame.com/news/202312/3883228.html)
 
++ [《卧龙》新DLC宣传片及截图 刘备军面临新威胁](https://www.3dmgame.com/news/202312/3883239.html)
+
++ [《宝可梦：朱紫》DLC零之秘宝新情报12月7日晚间公开](https://www.3dmgame.com/news/202312/3883238.html)
+
++ [《GTA6》预告片的BGM大受欢迎 播放量暴增360倍](https://www.3dmgame.com/news/202312/3883237.html)
+
++ [佛州小丑回应自己出现在《GTA6》：R星，我们得谈谈了](https://www.3dmgame.com/news/202312/3883234.html)
+
++ [游戏零售商GameStop Q3财报：销售额降低但损失减少](https://www.3dmgame.com/news/202312/3883236.html)
+
++ [《Llamasoft: The Jeff Minter Story》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202312/3883235.html)
+

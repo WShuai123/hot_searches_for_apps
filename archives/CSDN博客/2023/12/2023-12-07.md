@@ -135,3 +135,11 @@
 
 + [.NET Core 依赖注入 Microsoft.Extensions.DependencyInjection](https://blog.csdn.net/qq_44695769/article/details/134819501)
 
++ [AIGC：使用变分自编码器VAE实现MINIST手写数字生成](https://blog.csdn.net/lsb2002/article/details/134837076)
+
++ [无公网IP环境固定地址远程SSH访问本地树莓派Raspberry Pi](https://blog.csdn.net/hsjsiwkwm/article/details/134785727)
+
++ [Azure Machine Learning - Azure OpenAI 服务使用 GPT-35-Turbo and GPT-4](https://blog.csdn.net/magicyangjay111/article/details/134844642)
+
++ [Elasticsearch--解决磁盘使用率超过警戒水位线](https://blog.csdn.net/feiying0canglang/article/details/128752831)
+

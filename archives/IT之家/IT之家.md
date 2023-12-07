@@ -33,3 +33,7 @@
 
 + [新一代国产超算“天河星逸”性能透露：多方面较“天河二号”实现倍增](https://m.ithome.com/html/737357.htm)
 
++ [谷歌高调炸场：全新大语言模型 Gemini 1.0 正式亮相，近乎全面领先于 OpenAI GPT-4](https://m.ithome.com/html/737519.htm)
+
++ [Win12 前瞻版本准备登场：消息称微软明年将发布两次 Windows 版本更新，并带来“突破性”AI 功能](https://m.ithome.com/html/737523.htm)
+
