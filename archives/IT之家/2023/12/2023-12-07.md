@@ -45,3 +45,7 @@
 
 + [吉祥物“龙辰辰”被质疑“AI 合成”，春晚官博回应称真是一笔笔画出来的](https://m.ithome.com/html/737591.htm)
 
++ [消息称苹果 iPhone SE 4 将使用 iPhone 14 同款电池，以降低成本](https://m.ithome.com/html/737527.htm)
+
++ [抖音跳舞不用真人出镜，一张照片就能生成高质量视频！字节新技术连抱抱脸 CTO 都下场体验了](https://m.ithome.com/html/737524.htm)
+

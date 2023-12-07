@@ -209,3 +209,21 @@
 
 + [2024ChinaJoy定档 明年7月26日在上海举办](https://www.3dmgame.com/news/202312/3883266.html)
 
++ [B站TGA将全程中文直播 每十分钟送出一台PS5](https://www.3dmgame.com/news/202312/3883276.html)
+
++ [《United 1944》发售日预告 12月12日EA发售](https://www.3dmgame.com/news/202312/3883275.html)
+
++ [《最终幻想7：永恒危机》Steam免费上线 与手机版数据共通](https://www.3dmgame.com/news/202312/3883274.html)
+
++ [《葬送的芙莉莲》官方再玩梗 在二维码宝箱怪里猜中宝物](https://www.3dmgame.com/news/202312/3883273.html)
+
++ [朱莉《沉睡魔咒3》电影或制作中 曾表示将息影](https://www.3dmgame.com/news/202312/3883272.html)
+
++ [无畏入绝地 孤身诛贼寇《平寇志》现已正式上线](https://www.3dmgame.com/news/202312/3883271.html)
+
++ [《PUBG》为新地图推真人电影短片 吴彦祖李政宰主演](https://www.3dmgame.com/news/202312/3883270.html)
+
++ [TGA官方B站直播8日上午9点开启 每10分钟送一台PS5](https://www.3dmgame.com/news/202312/3883269.html)
+
++ [手绘寻物游戏《旅人苏菲亚》公布全新宣传片 将于2024年发售](https://www.3dmgame.com/news/202312/3883268.html)
+

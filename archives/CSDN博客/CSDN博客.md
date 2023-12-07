@@ -155,3 +155,7 @@
 
 + [探究Spring Boot 中实现跨域的几种方式](https://blog.csdn.net/m0_68806028/article/details/134794025)
 
++ [SpringBoot进行自然语言处理，利用Hanlp进行文本情感分析](https://blog.csdn.net/2301_80092713/article/details/134832808)
+
++ [2023年5个自动化EDA库推荐](https://blog.csdn.net/m0_46510245/article/details/134849953)
+
