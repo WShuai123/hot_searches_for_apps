@@ -193,3 +193,15 @@
 
 + [Switch版《蝙蝠侠：阿卡姆三部曲》向凯文·康罗伊致敬](https://www.3dmgame.com/news/202312/3883247.html)
 
++ [《风来之国》DLC《复活吧！海鸥镇》将于1月31日发售](https://www.3dmgame.com/news/202312/3883265.html)
+
++ [消灭刘海 药丸屏！曝苹果正在研发真全面屏iPhone](https://www.3dmgame.com/news/202312/3883263.html)
+
++ [Steam免费多人欢乐大逃杀游戏《橡胶关键：假日序幕》现已正式推出](https://www.3dmgame.com/news/202312/3883264.html)
+
++ [星际老将新RTS《风暴之门》众筹一天内超原目标6倍](https://www.3dmgame.com/news/202312/3883262.html)
+
++ [大宇资讯模拟经营游戏《拾光酒館》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3883261.html)
+
++ [《梦幻战士收藏合集3》登陆Switch 系列5部游戏完整移植](https://www.3dmgame.com/news/202312/3883260.html)
+

@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | AI平台Hugging Face现API令牌漏洞；英国Sellafield核设施曾遭入侵](https://www.freebuf.com/articles/385872.html)
 
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
