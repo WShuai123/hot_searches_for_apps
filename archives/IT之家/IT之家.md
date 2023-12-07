@@ -39,3 +39,9 @@
 
 + [“顺丰暂停揽收手办”登上热搜，官方回应称“传言不实，揽收一切正常”](https://m.ithome.com/html/737453.htm)
 
++ [铁路 12306 App 改版，新增折扣信息](https://m.ithome.com/html/737568.htm)
+
++ [BAT、华为、网易发起：绿标 6.0 发布，制定安卓 / 开源鸿蒙 App 标准](https://m.ithome.com/html/737590.htm)
+
++ [吉祥物“龙辰辰”被质疑“AI 合成”，春晚官博回应称真是一笔笔画出来的](https://m.ithome.com/html/737591.htm)
+

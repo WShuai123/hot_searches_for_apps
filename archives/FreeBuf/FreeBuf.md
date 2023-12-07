@@ -49,3 +49,5 @@
 
 + [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
 
++ [Sierra 安全漏洞严重影响关键基础设施](https://www.freebuf.com/news/385952.html)
+
