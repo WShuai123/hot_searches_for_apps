@@ -101,3 +101,5 @@
 
 + [星际老将新RTS《风暴之门》众筹一天内超原目标6倍](https://www.3dmgame.com/news/202312/3883262.html)
 
++ [Epic喜加一：《GigaBash巨击大乱斗》《Predecessor》免费、下周神秘游戏](https://www.3dmgame.com/news/202312/3883311.html)
+

@@ -49,3 +49,31 @@
 
 + [Website Design for Advocacy Through Walls](https://dribbble.com/shots/)
 
++ ["Winter Elemental", Open edition, Winter 2023, NFT.](https://dribbble.com/shots/)
+
++ [Video Sharing Platform](https://dribbble.com/shots/)
+
++ [Polygon logo redesign concept: P letter mark + polygons network](https://dribbble.com/shots/)
+
++ [Walkman icon](https://dribbble.com/shots/)
+
++ [still nature](https://dribbble.com/shots/)
+
++ [Milks](https://dribbble.com/shots/)
+
++ [Slask Pocket Square](https://dribbble.com/shots/)
+
++ [つづく](https://dribbble.com/shots/)
+
++ [Frame.so Custom Fields](https://dribbble.com/shots/)
+
++ [Redwolves Uniforms](https://dribbble.com/shots/)
+
++ [Angry Bull is Watching You](https://dribbble.com/shots/)
+
++ [Control center](https://dribbble.com/shots/)
+
++ [ContainGo App - Portable Storage Container Software](https://dribbble.com/shots/)
+
++ [Air*](https://dribbble.com/shots/)
+
