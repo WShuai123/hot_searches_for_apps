@@ -195,3 +195,7 @@
 
 + [2023五岳杯量子计算数学建模挑战赛深度剖析（QUBO建模+模拟退火算法）](https://blog.csdn.net/2301_80749953/article/details/134841439)
 
++ [使用DockerUI结合内网穿透工具轻松实现公网访问和管理docker容器](https://blog.csdn.net/qq_72916130/article/details/134859148)
+
++ [【hacker送书第10期】AI时代系列丛书（五选一）](https://blog.csdn.net/xqe777/article/details/134861623)
+

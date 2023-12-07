@@ -289,3 +289,9 @@
 
 + [《影子诡局：被诅咒的海盗》全新DLC现已上线](https://www.3dmgame.com/news/202312/3883303.html)
 
++ [Fami通新一周销量榜 《勇者斗恶龙怪兽篇3》登顶](https://www.3dmgame.com/news/202312/3883309.html)
+
++ [《鬼屋魔影：重制版》再次延期 明年3月20日发售](https://www.3dmgame.com/news/202312/3883310.html)
+
++ [三星大量订购2.5D封装设备 可能用于英伟达下一代GPU](https://www.3dmgame.com/news/202312/3883308.html)
+
