@@ -51,3 +51,5 @@
 
 + [国家互联网信息办公室发布《网络安全事件报告管理办法（征求意见稿）》](https://www.freebuf.com/news/386036.html)
 
++ [一个普通网安人做社群，40天超600人为他付费](https://www.freebuf.com/articles/386048.html)
+

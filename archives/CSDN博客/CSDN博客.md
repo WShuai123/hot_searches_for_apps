@@ -133,3 +133,9 @@
 
 + [创建第一个 Flink 项目](https://blog.csdn.net/zhengzhaoyang122/article/details/134866997)
 
++ [HarmonyOS系统架构及项目结构浅析](https://blog.csdn.net/qq_44664231/article/details/134867023)
+
++ [【Ambari】Python调用Rest API 获取YARN HA状态信息并发送钉钉告警](https://blog.csdn.net/qq_35995514/article/details/134862544)
+
++ [展望2024年供应链安全](https://blog.csdn.net/manok/article/details/134848847)
+

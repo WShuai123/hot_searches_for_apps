@@ -169,3 +169,21 @@
 
 + [《阿凡达：潘多拉边境》4K截图欣赏 风景如画](https://www.3dmgame.com/news/202312/3883324.html)
 
++ [TGA：《The Casting of Frank Stone》预告](https://www.3dmgame.com/news/202312/3883352.html)
+
++ [战神扮演者在TGA上调侃获奖感言比《使命召唤》战役要长](https://www.3dmgame.com/news/202312/3883353.html)
+
++ [TGA 2023：最佳动作、艺术指导、VR/AR游戏和手游获奖者公布](https://www.3dmgame.com/news/202312/3883351.html)
+
++ [TGA 2023：《浪人崛起》实机预告 发售日公开](https://www.3dmgame.com/news/202312/3883350.html)
+
++ [TGA 2023：《逃生：试炼》正式版2024年3月5日发售](https://www.3dmgame.com/news/202312/3883349.html)
+
++ [TGA 2023：《完美音浪》荣获最佳游戏音频设计](https://www.3dmgame.com/news/202312/3883354.html)
+
++ [TGA 2023：圣剑传说新作《Visions of Mana》预告](https://www.3dmgame.com/news/202312/3883355.html)
+
++ [TGA：《地狱之刃2：塞娜的传奇》预告](https://www.3dmgame.com/news/202312/3883348.html)
+
++ [TGA 2023：万代《龙珠Z：电光火石》新作正式公布](https://www.3dmgame.com/news/202312/3883347.html)
+
