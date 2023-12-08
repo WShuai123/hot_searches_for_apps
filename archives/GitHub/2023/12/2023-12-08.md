@@ -51,3 +51,25 @@
 
 + [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
++ [ml-explore / mlx](https://github.com/ml-explore/mlx)
+
++ [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [prisma / prisma](https://github.com/prisma/prisma)
+
++ [huggingface / optimum-nvidia](https://github.com/huggingface/optimum-nvidia)
+
++ [yformer / EfficientSAM](https://github.com/yformer/EfficientSAM)
+
++ [hashicorp / terraform](https://github.com/hashicorp/terraform)
+
++ [fmtlib / fmt](https://github.com/fmtlib/fmt)
+
++ [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
++ [pybind / pybind11](https://github.com/pybind/pybind11)
+
++ [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
+

@@ -189,3 +189,9 @@
 
 + [Linux本地部署1Panel服务器运维管理面板并实现公网访问](https://blog.csdn.net/m0_73879806/article/details/134867928)
 
++ [Docker部署开源分布式任务调度平台DolphinScheduler并实现远程访问办公](https://blog.csdn.net/st200112266/article/details/134856647)
+
++ [【FPGA】Verilog：BCD 加法器的实现](https://blog.csdn.net/weixin_50502862/article/details/134880375)
+
++ [26.Python 网络爬虫](https://blog.csdn.net/weixin_50357986/article/details/134820830)
+

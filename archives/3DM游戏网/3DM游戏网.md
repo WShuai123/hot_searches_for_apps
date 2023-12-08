@@ -325,3 +325,5 @@
 
 + [《风中行者 Windblown》 2024年开启Steam抢先体验](https://www.3dmgame.com/news/202312/3883423.html)
 
++ [致态推出TiPro600 SSD 4TB 1299元起售](https://www.3dmgame.com/news/202312/3883425.html)
+

@@ -53,3 +53,15 @@
 
 + [TGA 2023 完整获奖名单：《博德之门 3》年度最佳游戏、《崩坏：星穹铁道》最佳手游](https://m.ithome.com/html/737889.htm)
 
++ [消息称骁龙 8 Gen 4 芯片代号“SUN”，CPU 设计性能提升很大](https://m.ithome.com/html/737966.htm)
+
++ [OPPO、vivo、小米、华为等 7 家企业共同发起《应用软件适配 64 位架构的倡议书》](https://m.ithome.com/html/737804.htm)
+
++ [努比亚 Z60 Ultra 手机外观细节公布：延续直角边框设计，号称“颜值机皇”](https://m.ithome.com/html/737851.htm)
+
++ [多家互联网大厂宣布除夕安排放假：字节跳动、腾讯、美团、新浪、网易、滴滴等](https://m.ithome.com/html/737938.htm)
+
++ [魅族 20 / Pro“经典重映”，官方宣布为系列手机推出“雪人大冒险” PANDAER 复刻抗菌壳](https://m.ithome.com/html/737772.htm)
+
++ [华硕灵耀 14 2024 笔记本下周开卖：酷睿 Ultra 处理器 + 32G 内存 + 2.8K 120Hz 屏](https://m.ithome.com/html/737785.htm)
+

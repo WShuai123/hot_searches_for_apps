@@ -149,3 +149,7 @@
 
 + [NeoAnalyst](https://www.producthunt.com/posts/neoanalyst)
 
++ [Amazy.uk](https://www.producthunt.com/posts/amazy-uk)
+
++ [Urso](https://www.producthunt.com/posts/urso)
+
