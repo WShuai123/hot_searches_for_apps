@@ -53,3 +53,5 @@
 
 + [一个普通网安人做社群，40天超600人为他付费](https://www.freebuf.com/articles/386048.html)
 
++ [现已修复！WordPress 曝出严重漏洞](https://www.freebuf.com/news/386057.html)
+

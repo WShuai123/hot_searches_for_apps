@@ -33,3 +33,7 @@
 
 + [小米澎湃 OS 精简历史功能，全面重构应用界面及系统框架](https://m.ithome.com/html/737752.htm)
 
++ [小米 × 原神联名产品明晚公布，消息称是小米手环 8 Pro](https://m.ithome.com/html/737744.htm)
+
++ [【IT之家开箱】真我 GT5 Pro 星夜色图赏：低调，轻奢](https://m.ithome.com/html/737761.htm)
+

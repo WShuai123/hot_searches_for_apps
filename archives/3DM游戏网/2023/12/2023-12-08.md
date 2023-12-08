@@ -187,3 +187,53 @@
 
 + [TGA 2023：万代《龙珠Z：电光火石》新作正式公布](https://www.3dmgame.com/news/202312/3883347.html)
 
++ [TGA 2023：《最后的哨兵（Last Sentinel）》公布](https://www.3dmgame.com/news/202312/3883374.html)
+
++ [TGA 2023： 《漫威刀锋战士》预告公布](https://www.3dmgame.com/news/202312/3883375.html)
+
++ [TGA 2023：《塞尔达传说：王国之泪》获最佳动作冒险游戏](https://www.3dmgame.com/news/202312/3883377.html)
+
++ [TGA 2023：开放世界游戏《Exoborne》新预告](https://www.3dmgame.com/news/202312/3883378.html)
+
++ [TGA 2023：《博德之门3》揽获三项大奖 包括玩家之声！](https://www.3dmgame.com/news/202312/3883379.html)
+
++ [TGA：《战锤40K：星际战士2》9月9日发售](https://www.3dmgame.com/news/202312/3883380.html)
+
++ [TGA 2023：《心灵杀手2》获得最佳游戏指导](https://www.3dmgame.com/news/202312/3883381.html)
+
++ [TGA 2023：《碧海黑帆》2024年2月16日发售](https://www.3dmgame.com/news/202312/3883365.html)
+
++ [TGA 2023：翻盘成功《赛博朋克2077》获最佳持续运营](https://www.3dmgame.com/news/202312/3883366.html)
+
++ [TGA：奇异人生工作室开发《迷失纪录》预告](https://www.3dmgame.com/news/202312/3883367.html)
+
++ [TGA 2023：《绝区零》新预告 2024年上线](https://www.3dmgame.com/news/202312/3883369.html)
+
++ [TGA：《Tales of Kenzara: ZAU》预告](https://www.3dmgame.com/news/202312/3883370.html)
+
++ [TGA 2023：《最终幻想7：重生》新预告 明年2月发售](https://www.3dmgame.com/news/202312/3883368.html)
+
++ [TGA 2023：《第一后裔》新预告 2024年夏季发售](https://www.3dmgame.com/news/202312/3883371.html)
+
++ [TGA 2023：《最后的生还者》美剧获最佳游戏改编作品](https://www.3dmgame.com/news/202312/3883372.html)
+
++ [TGA 2023：西山居科幻机甲游戏《解限机》新预告](https://www.3dmgame.com/news/202312/3883373.html)
+
++ [TGA：小岛工作室新作《OD》预告](https://www.3dmgame.com/news/202312/3883356.html)
+
++ [TGA 2023：《严阵以待》正式版12月13日上线](https://www.3dmgame.com/news/202312/3883357.html)
+
++ [TGA 2023：《Tchia》荣获最具影响力游戏奖](https://www.3dmgame.com/news/202312/3883358.html)
+
++ [TGA 2023：《侏罗纪公园：生存》发布预告](https://www.3dmgame.com/news/202312/3883359.html)
+
++ [TGA：《黑神话：悟空》发售日预告 8月20日发售](https://www.3dmgame.com/news/202312/3883360.html)
+
++ [TGA 2023：DNF类魂动作RPG《第一狂战士：卡赞》新预告](https://www.3dmgame.com/news/202312/3883361.html)
+
++ [TGA 2023：最佳独立《星之海》 《街头霸王6》获最佳格斗游戏](https://www.3dmgame.com/news/202312/3883362.html)
+
++ [TGA 2023：《自杀小队：战胜正义联盟》新预告](https://www.3dmgame.com/news/202312/3883363.html)
+
++ [TGA 2023：《Apex 英雄》宣布联动《最终幻想7》](https://www.3dmgame.com/news/202312/3883364.html)
+

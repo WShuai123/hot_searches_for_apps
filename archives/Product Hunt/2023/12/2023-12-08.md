@@ -107,3 +107,7 @@
 
 + [Inter 4.0](https://www.producthunt.com/posts/inter-4-0)
 
++ [Investor Ratings](https://www.producthunt.com/posts/investor-ratings)
+
++ [Superpowered AI](https://www.producthunt.com/posts/superpowered-ai-896fa381-2747-4e2f-90ab-d6da3adb14b2)
+

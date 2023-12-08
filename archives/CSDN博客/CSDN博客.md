@@ -139,3 +139,11 @@
 
 + [展望2024年供应链安全](https://blog.csdn.net/manok/article/details/134848847)
 
++ [【Linux】公网远程访问AMH服务器管理面板](https://blog.csdn.net/2301_77485708/article/details/134864738)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/134863296)
+
++ [基于springboot + vue的社区医院信息系统](https://blog.csdn.net/Yaml4/article/details/134840533)
+
++ [使用Python实现的Excel像素画](https://blog.csdn.net/weixin_61360713/article/details/134867386)
+
