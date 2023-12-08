@@ -287,3 +287,11 @@
 
 + [《尚气》男主现身TGA 为RTS游戏《风暴之门》配音](https://www.3dmgame.com/news/202312/3883403.html)
 
++ [小岛回应玩家对新作名称《OD》猜测：不是“开门”](https://www.3dmgame.com/news/202312/3883409.html)
+
++ [《心灵杀手2》插曲TGA现场表演：游戏总监演员同台劲舞](https://www.3dmgame.com/news/202312/3883408.html)
+
++ [《EXOBORNE》：让我们掌控末日！Sharkmob和Level Infinite推出开放世界战术](https://www.3dmgame.com/news/202312/3883407.html)
+
++ [纪录片《小岛秀夫：连接世界》宣布2024年春季上线流媒体平台](https://www.3dmgame.com/news/202312/3883406.html)
+

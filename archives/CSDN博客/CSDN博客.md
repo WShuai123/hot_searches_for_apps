@@ -163,3 +163,11 @@
 
 + [【尘缘送书第五期】Java程序员：学习与使用多线程](https://blog.csdn.net/weixin_55756734/article/details/134865874)
 
++ [物联网+AI智慧工地云平台源码（SaaS模式）](https://blog.csdn.net/qq_27741787/article/details/134874132)
+
++ [机器学习第15天：GBDT模型](https://blog.csdn.net/MuRanstr/article/details/134764197)
+
++ [YOLO的全面综述：从YOLOv1到最新版本](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/134834520)
+
++ [kafka详解](https://blog.csdn.net/xrq1995/article/details/134855999)
+
