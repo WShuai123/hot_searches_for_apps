@@ -199,3 +199,5 @@
 
 + [【Linux系统化学习】进程地址空间 | 虚拟地址和物理地址的关系](https://blog.csdn.net/qq_55119554/article/details/134868568)
 
++ [深入浅出分析kafka客户端程序设计 ----- 生产者篇----万字总结](https://blog.csdn.net/txh1873749380/article/details/134856445)
+

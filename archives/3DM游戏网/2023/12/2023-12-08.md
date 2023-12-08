@@ -335,3 +335,5 @@
 
 + [《自杀小队：战胜正义联盟》发售后追加离线故事模式](https://www.3dmgame.com/news/202312/3883427.html)
 
++ [《赛博朋克2077》获最佳运营奖 CDPR致谢](https://www.3dmgame.com/news/202312/3883430.html)
+
