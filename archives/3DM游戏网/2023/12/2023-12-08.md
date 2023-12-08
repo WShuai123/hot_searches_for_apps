@@ -265,3 +265,19 @@
 
 + [TGA 2023：合作FPS游戏《Den of Wolves》预告](https://www.3dmgame.com/news/202312/3883393.html)
 
++ [科幻惊悚主题！《收获日》原班底打造全新多人合作射击游戏](https://www.3dmgame.com/news/202312/3883399.html)
+
++ [杨奇冯骥谈《黑神话：悟空》TGA预告：充满了艰辛](https://www.3dmgame.com/news/202312/3883400.html)
+
++ [恭喜《崩坏：星穹铁道》荣膺TGA 2023年度最佳移动游戏奖项](https://www.3dmgame.com/news/202312/3883401.html)
+
++ [ATLUS全新RPG游戏《暗喻幻想：ReFantazio》定于2024年秋发售！](https://www.3dmgame.com/news/202312/3883402.html)
+
++ [《人中之龙８》中配版“临终笔记”影像 1月26日发售](https://www.3dmgame.com/news/202312/3883395.html)
+
++ [《索尼克 未知边境》现已发布1.41升级补丁 对第三弹“超·完全决战”进行难度调整等改动](https://www.3dmgame.com/news/202312/3883396.html)
+
++ [《博德之门3》现已正式登陆Xbox Series X|S 13号热修补丁发布](https://www.3dmgame.com/news/202312/3883397.html)
+
++ [《足球经理 2024》PlayStation®5实体版现已发售！ 追加J联赛并优化定位球战术](https://www.3dmgame.com/news/202312/3883398.html)
+

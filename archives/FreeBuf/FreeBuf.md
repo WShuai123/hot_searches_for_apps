@@ -57,3 +57,5 @@
 
 + [黑盒sql注入测试进阶篇](https://www.freebuf.com/articles/web/385126.html)
 
++ [如何使用ChromeCookieStealer通过开发者工具收集和注入Chrome Cookie](https://www.freebuf.com/sectool/383985.html)
+

@@ -43,3 +43,5 @@
 
 + [支付宝宣布启动华为鸿蒙原生应用开发](https://m.ithome.com/html/737830.htm)
 
++ [天猫年终好价节正式开启：5 折会员再度回归，realme GT5 Pro 手机 3298 元免息开售](https://m.ithome.com/html/737793.htm)
+
