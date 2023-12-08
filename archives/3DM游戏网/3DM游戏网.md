@@ -261,3 +261,7 @@
 
 + [TGA：《辐射》电视剧最新预告](https://www.3dmgame.com/news/202312/3883386.html)
 
++ [TGA 2023 预告汇总：《黑神话》《战神5》DLC等](https://www.3dmgame.com/news/202312/3883394.html)
+
++ [TGA 2023：合作FPS游戏《Den of Wolves》预告](https://www.3dmgame.com/news/202312/3883393.html)
+

@@ -37,3 +37,9 @@
 
 + [【IT之家开箱】真我 GT5 Pro 星夜色图赏：低调，轻奢](https://m.ithome.com/html/737761.htm)
 
++ [小米澎湃 OS 系统字体 MiSans 全新升级：新增生僻字键盘，全球免费商用](https://m.ithome.com/html/737757.htm)
+
++ [小米澎湃 OS 改善手机多任务，支持全局自动小窗、折叠屏分屏改进](https://m.ithome.com/html/737753.htm)
+
++ [支付宝宣布启动华为鸿蒙原生应用开发](https://m.ithome.com/html/737830.htm)
+
