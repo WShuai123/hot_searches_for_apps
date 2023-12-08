@@ -327,3 +327,11 @@
 
 + [致态推出TiPro600 SSD 4TB 1299元起售](https://www.3dmgame.com/news/202312/3883425.html)
 
++ [《黄昏降临时》将于2024年3月登陆PS4和PS5](https://www.3dmgame.com/news/202312/3883428.html)
+
++ [国外主播称愿意花100万美元 提前一天玩到GTA6](https://www.3dmgame.com/news/202312/3883429.html)
+
++ [《战神：诸神黄昏》销量现已超过1500万套](https://www.3dmgame.com/news/202312/3883426.html)
+
++ [《自杀小队：战胜正义联盟》发售后追加离线故事模式](https://www.3dmgame.com/news/202312/3883427.html)
+
