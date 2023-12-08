@@ -281,3 +281,9 @@
 
 + [《足球经理 2024》PlayStation®5实体版现已发售！ 追加J联赛并优化定位球战术](https://www.3dmgame.com/news/202312/3883398.html)
 
++ [《驱灵者：新伊甸的幽灵》“至死不渝”预告片 2月13日发售](https://www.3dmgame.com/news/202312/3883405.html)
+
++ [《如龙7：光与暗的去向》售价宣布永降 12月26日实施](https://www.3dmgame.com/news/202312/3883404.html)
+
++ [《尚气》男主现身TGA 为RTS游戏《风暴之门》配音](https://www.3dmgame.com/news/202312/3883403.html)
+

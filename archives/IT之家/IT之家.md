@@ -45,3 +45,5 @@
 
 + [天猫年终好价节正式开启：5 折会员再度回归，realme GT5 Pro 手机 3298 元免息开售](https://m.ithome.com/html/737793.htm)
 
++ [国产 3A 大作定档！《黑神话：悟空》官宣明年 8 月 20 日发售，TGA 2023 新预告公布](https://m.ithome.com/html/737847.htm)
+
