@@ -105,3 +105,19 @@
 
 + [如何在Android平板上远程连接Ubuntu服务器使用code-server代码开发](https://blog.csdn.net/weixin_58070962/article/details/134884558)
 
++ [备份系统及分区数据，及恢复系统或分区数据（利用PE工具）](https://blog.csdn.net/m0_46256735/article/details/134882821)
+
++ [ELK（五）—集群搭建](https://blog.csdn.net/qq_51010919/article/details/134889460)
+
++ [Linux本地部署1Panel服务器运维管理面板并实现公网访问](https://blog.csdn.net/m0_73879806/article/details/134867928)
+
++ [HTTPS 的通信加解密过程，证书为什么更安全？](https://blog.csdn.net/yangyin1998/article/details/134839774)
+
++ [今天讲讲TCP（详解）](https://blog.csdn.net/m0_74359467/article/details/134856210)
+
++ [使用Python实现的Excel像素画](https://blog.csdn.net/weixin_61360713/article/details/134867386)
+
++ [FaceChain V2，Human AIGC开源应用平台](https://blog.csdn.net/sunbaigui/article/details/134870981)
+
++ [【SpringCloud篇】Eureka服务的基本配置和操作](https://blog.csdn.net/m0_72853403/article/details/134828462)
+

@@ -111,3 +111,7 @@
 
 + [《蓝色协议》PS5/XS版将于12/13在日本地区推出](https://www.3dmgame.com/news/202312/3883435.html)
 
++ [《如龙8》新预告片公布 系列老粉丝直接落泪](https://www.3dmgame.com/news/202312/3883437.html)
+
++ [《原神》4.3「蔷薇与铳枪」版本公布 12/20上线](https://www.3dmgame.com/news/202312/3883436.html)
+
