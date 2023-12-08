@@ -237,3 +237,27 @@
 
 + [TGA 2023：《Apex 英雄》宣布联动《最终幻想7》](https://www.3dmgame.com/news/202312/3883364.html)
 
++ [画风敲可爱的多人本地合作游戏《萌宠拆拆乐》demo试玩上线steam！](https://www.3dmgame.com/news/202312/3883392.html)
+
++ [《波斯王子：失落的王冠》免费试玩1月11日开启](https://www.3dmgame.com/news/202312/3883390.html)
+
++ [TGA：《风暴之门》新预告 明年EA上线](https://www.3dmgame.com/news/202312/3883391.html)
+
++ [TGA 2023：《罪恶装备：奋战》艾尔菲尔特参战预告](https://www.3dmgame.com/news/202312/3883388.html)
+
++ [TGA 2023 获奖名单汇总：年度游戏《博德之门3》!](https://www.3dmgame.com/news/202312/3883387.html)
+
++ [TGA 2023：《无人深空》开发商新作《Light No Fire》公布](https://www.3dmgame.com/news/202312/3883384.html)
+
++ [TGA 2023：系列新作《怪物猎人：荒野》正式公布 2025年发售](https://www.3dmgame.com/news/202312/3883385.html)
+
++ [《严阵以待》正式版即将于2023年12月13日发布](https://www.3dmgame.com/news/202312/3883376.html)
+
++ [《The First Descendant》全新剧情预告片揭晓游戏发售时间：2024年夏季](https://www.3dmgame.com/news/202312/3883383.html)
+
++ [Embark Studios12月8日宣布《THE FINALS》正式上线](https://www.3dmgame.com/news/202312/3883382.html)
+
++ [TGA 2023：《最终幻想16》两款DLC正式公布](https://www.3dmgame.com/news/202312/3883389.html)
+
++ [TGA：《辐射》电视剧最新预告](https://www.3dmgame.com/news/202312/3883386.html)
+

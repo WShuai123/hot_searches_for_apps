@@ -55,3 +55,5 @@
 
 + [现已修复！WordPress 曝出严重漏洞](https://www.freebuf.com/news/386057.html)
 
++ [黑盒sql注入测试进阶篇](https://www.freebuf.com/articles/web/385126.html)
+

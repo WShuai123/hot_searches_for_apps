@@ -141,3 +141,11 @@
 
 + [Crypto Wallet Web Platform](https://dribbble.com/shots/)
 
++ [Wilco Loft Sans](https://dribbble.com/shots/)
+
++ [The Avendale Logomark rendered by Steven Noble](https://dribbble.com/shots/)
+
++ [Landscape Collage](https://dribbble.com/shots/)
+
++ [Jobsity Characters](https://dribbble.com/shots/)
+
