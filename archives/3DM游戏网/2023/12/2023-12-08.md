@@ -295,3 +295,11 @@
 
 + [纪录片《小岛秀夫：连接世界》宣布2024年春季上线流媒体平台](https://www.3dmgame.com/news/202312/3883406.html)
 
++ [剧版《史密斯夫妇》首个预告 亚裔+黑人间谍来袭](https://www.3dmgame.com/news/202312/3883413.html)
+
++ [《星际战甲》扩展“墙中低语”宣布12月13日推出 新战甲上线](https://www.3dmgame.com/news/202312/3883412.html)
+
++ [《浩劫前夕》现已正式发售 光速收获Steam差评如潮](https://www.3dmgame.com/news/202312/3883411.html)
+
++ [光谱资讯《富甲天下W》Steam页面上线 12月发售](https://www.3dmgame.com/news/202312/3883410.html)
+

@@ -171,3 +171,13 @@
 
 + [kafka详解](https://blog.csdn.net/xrq1995/article/details/134855999)
 
++ [探索异步交互：JavaScript AJAX 的全面指南](https://blog.csdn.net/2302_76329106/article/details/134767699)
+
++ [基于Java+Vue+uniapp微信小程序垃圾分类系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134869019)
+
++ [机器学习实战：预测波士顿房价](https://blog.csdn.net/weixin_51390582/article/details/134870570)
+
++ [SSH原理与应用与探索](https://blog.csdn.net/qq_44915801/article/details/134814119)
+
++ [Ubuntu宝塔面板本地部署轻论坛系统HadSky并远程访问](https://blog.csdn.net/qq_63320529/article/details/134862555)
+
