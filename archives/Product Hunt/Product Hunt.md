@@ -139,3 +139,13 @@
 
 + [locant.tv](https://www.producthunt.com/posts/locant-tv)
 
++ [Bottomright AI](https://www.producthunt.com/posts/bottomright-ai)
+
++ [BigRead.ai](https://www.producthunt.com/posts/bigread-ai)
+
++ [Depth Tale](https://www.producthunt.com/posts/depth-tale)
+
++ [Outboundly.ai](https://www.producthunt.com/posts/outboundly-ai)
+
++ [NeoAnalyst](https://www.producthunt.com/posts/neoanalyst)
+
