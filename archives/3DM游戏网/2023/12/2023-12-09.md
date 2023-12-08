@@ -101,3 +101,9 @@
 
 + [Embark Studios12月8日宣布《THE FINALS》正式上线](https://www.3dmgame.com/news/202312/3883382.html)
 
++ [《心灵杀手2》新游戏+模式12.11上线 新增难度模式](https://www.3dmgame.com/news/202312/3883433.html)
+
++ [还有高手 外媒评今年最差劲的15款游戏](https://www.3dmgame.com/news/202312/3883432.html)
+
++ [《博德之门3》获TGA年度游戏 官方发布媒体赞誉宣传片](https://www.3dmgame.com/news/202312/3883431.html)
+

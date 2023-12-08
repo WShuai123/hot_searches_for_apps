@@ -25,3 +25,7 @@
 
 + [苹果 Apple Music 国区价格上涨：个人订阅 11 元 / 月，家庭订阅 17 元 / 月](https://m.ithome.com/html/737879.htm)
 
++ [网易云音乐宣布学生会员降至每月 5 元](https://m.ithome.com/html/737969.htm)
+
++ [2024 款奔驰 A 级车国内上市：1.3T 四缸发动机，售价 25.03 万起](https://m.ithome.com/html/737864.htm)
+
