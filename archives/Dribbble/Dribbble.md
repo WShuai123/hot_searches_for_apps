@@ -111,3 +111,13 @@
 
 + [Expo Website](https://dribbble.com/shots/)
 
++ [Zombie Logo](https://dribbble.com/shots/)
+
++ [Thank you sticker](https://dribbble.com/shots/)
+
++ [Design course landing page — Untitled UI](https://dribbble.com/shots/)
+
++ [Branding and web design exploration](https://dribbble.com/shots/)
+
++ [Salesforce CRM - Sales Analytics Platform](https://dribbble.com/shots/)
+
