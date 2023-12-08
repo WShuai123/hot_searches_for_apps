@@ -107,3 +107,7 @@
 
 + [《博德之门3》获TGA年度游戏 官方发布媒体赞誉宣传片](https://www.3dmgame.com/news/202312/3883431.html)
 
++ [《刺客信条：幻景》下周获得New Game+模式](https://www.3dmgame.com/news/202312/3883434.html)
+
++ [《蓝色协议》PS5/XS版将于12/13在日本地区推出](https://www.3dmgame.com/news/202312/3883435.html)
+
