@@ -123,3 +123,49 @@
 
 + [Square Enix疑似注册圣剑传说系列新作商标](https://www.3dmgame.com/news/202312/3883318.html)
 
++ [TGA 2023：《Ori》开发商全新动作RPG《恶意不息》公开](https://www.3dmgame.com/news/202312/3883345.html)
+
++ [TGA 2023：《心灵杀手2》荣获最佳叙事游戏](https://www.3dmgame.com/news/202312/3883343.html)
+
++ [TGA 2023：中村育美新作《Kemuri》正式公布](https://www.3dmgame.com/news/202312/3883344.html)
+
++ [TGA 2023：科幻射击游戏《Exodus》全新预告](https://www.3dmgame.com/news/202312/3883342.html)
+
++ [VR音游《Thumper》创作者续作《Thrasher》亮相TGA 2023](https://www.3dmgame.com/news/202312/3883341.html)
+
++ [TGA 2023：《捣蛋鹅》开发商新作《大步走（Big Walk）》公开](https://www.3dmgame.com/news/202312/3883340.html)
+
++ [TGA 2023：《COCOON》荣获最佳首发独立游戏](https://www.3dmgame.com/news/202312/3883346.html)
+
++ [TGA 2023：《战神：诸神黄昏》免费DLC公布](https://www.3dmgame.com/news/202312/3883338.html)
+
++ [TGA：《Windblown World》预告公布](https://www.3dmgame.com/news/202312/3883339.html)
+
++ [TGA 2023：《绝世好武功》预告 武林绝学巅峰对决](https://www.3dmgame.com/news/202312/3883328.html)
+
++ [《潜水员戴夫》宣布联动《渔帆暗涌》 12月15日上线](https://www.3dmgame.com/news/202312/3883327.html)
+
++ [《死亡细胞》工作室肉鸽新作《风中行者》亮相TGA 2023](https://www.3dmgame.com/news/202312/3883333.html)
+
++ [TGA 2023：《小马岛2：熊猫马戏团》公布](https://www.3dmgame.com/news/202312/3883329.html)
+
++ [TGA 2023：VR《刺客信条Nexus》预告 沉浸刺杀体验](https://www.3dmgame.com/news/202312/3883336.html)
+
++ [TGA 2023：《兄弟：双子传说重制版》公布](https://www.3dmgame.com/news/202312/3883325.html)
+
++ [TGA 2023：最佳电竞比赛、游戏、战队、选手、教练](https://www.3dmgame.com/news/202312/3883337.html)
+
++ [TGA 2023颁奖典礼：《黏黏世界2》正式公布明年发售](https://www.3dmgame.com/news/202312/3883334.html)
+
++ [TGA 2023：《博德之门3》阿斯代伦演员获最佳表演奖](https://www.3dmgame.com/news/202312/3883335.html)
+
++ [被世嘉收购后 Rovio关闭旗下工作室Lumi](https://www.3dmgame.com/news/202312/3883326.html)
+
++ [TGA 2023：《黄金偶像的崛起》预告公布](https://www.3dmgame.com/news/202312/3883332.html)
+
++ [TGA 2023：《暗喻幻想》宣布2024年秋季发售](https://www.3dmgame.com/news/202312/3883331.html)
+
++ [TGA 2023：《明日方舟：终末地》预告 黑丝少女战斗](https://www.3dmgame.com/news/202312/3883330.html)
+
++ [《阿凡达：潘多拉边境》4K截图欣赏 风景如画](https://www.3dmgame.com/news/202312/3883324.html)
+

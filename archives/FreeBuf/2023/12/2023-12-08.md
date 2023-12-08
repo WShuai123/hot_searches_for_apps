@@ -45,3 +45,9 @@
 
 + [透视 Phobos 勒索软件的组织架构与攻击行动](https://www.freebuf.com/articles/network/385541.html)
 
++ [「网安收藏助手」使用指南](https://www.freebuf.com/articles/386045.html)
+
++ [经验分享 | Windows系统安装补丁典型问题及解决方法](https://www.freebuf.com/articles/system/385094.html)
+
++ [国家互联网信息办公室发布《网络安全事件报告管理办法（征求意见稿）》](https://www.freebuf.com/news/386036.html)
+
