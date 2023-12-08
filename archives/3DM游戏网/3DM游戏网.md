@@ -111,3 +111,15 @@
 
 + [《波斯王子：失落王冠》预告片泄露 Demo1/11推出](https://www.3dmgame.com/news/202312/3883314.html)
 
++ [《最后的生还者》第二季计划于2025年播出](https://www.3dmgame.com/news/202312/3883323.html)
+
++ [《幽灵行者2》首个DLC冰霜包现已上市](https://www.3dmgame.com/news/202312/3883322.html)
+
++ [《罪恶装备：STRIVE》新DLC角色和3V3模式公开](https://www.3dmgame.com/news/202312/3883321.html)
+
++ [因受到威胁任天堂取消线下游戏比赛活动](https://www.3dmgame.com/news/202312/3883320.html)
+
++ [《铁拳8》第一年度DLC角色名单泄露](https://www.3dmgame.com/news/202312/3883319.html)
+
++ [Square Enix疑似注册圣剑传说系列新作商标](https://www.3dmgame.com/news/202312/3883318.html)
+

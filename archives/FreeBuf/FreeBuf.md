@@ -41,3 +41,7 @@
 
 + [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
 
++ [FreeBuf早报 | 美国政府近十年发生1283起数据泄露事件；中国台湾发布关键技术清单](https://www.freebuf.com/news/385846.html)
+
++ [透视 Phobos 勒索软件的组织架构与攻击行动](https://www.freebuf.com/articles/network/385541.html)
+
