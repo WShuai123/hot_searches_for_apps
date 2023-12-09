@@ -191,3 +191,11 @@
 
 + [excel做预测的方法集合](https://blog.csdn.net/weixin_41875135/article/details/134886222)
 
++ [【Spring进阶系列丨第五篇】详解Spring中的依赖注入](https://blog.csdn.net/m0_63947499/article/details/134577569)
+
++ [【腾讯云 HAI域探秘】StableDiffusionWebUI 让我找到了宫崎骏动漫里的夏天](https://blog.csdn.net/qq_38951259/article/details/134842957)
+
++ [【Cisco Packet Tracer】分类地址](https://blog.csdn.net/m0_57532432/article/details/134474986)
+
++ [鸿蒙(HarmonyOS)应用开发——http的使用](https://blog.csdn.net/weixin_46282323/article/details/134877974)
+
