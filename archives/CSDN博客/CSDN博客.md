@@ -153,3 +153,9 @@
 
 + [网络安全（黑客技术）—自学](https://blog.csdn.net/dexi113/article/details/134885726)
 
++ [【Java探索之旅】我与Java的初相识(一)：Java的特性与优点及其发展史](https://blog.csdn.net/a1657054242/article/details/134885140)
+
++ [大数据可视化项目——基于Python豆瓣电影数据可视化分析系统的设计与实现](https://blog.csdn.net/Myx74270512/article/details/134838865)
+
++ [【腾讯云HAI域探秘】不在五行之中的算命大师](https://blog.csdn.net/hacks8/article/details/134864214)
+

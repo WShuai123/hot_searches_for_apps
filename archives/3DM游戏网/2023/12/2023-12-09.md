@@ -165,3 +165,11 @@
 
 + [《塞尔达传说》新作将不会是“王国之泪”的续作](https://www.3dmgame.com/news/202312/3883460.html)
 
++ [欧美区NSO会员新增三款N64游戏 《牧场物语64》入选](https://www.3dmgame.com/news/202312/3883464.html)
+
++ [老滚联机Mod制作者放弃《星空》：游戏太垃圾了](https://www.3dmgame.com/news/202312/3883466.html)
+
++ [欧盟监管AI达成初步协议 迄今为止同类“最全面”规则](https://www.3dmgame.com/news/202312/3883465.html)
+
++ [育碧《刺客信条》参与修复！巴黎圣母院明年重新开放](https://www.3dmgame.com/news/202312/3883463.html)
+

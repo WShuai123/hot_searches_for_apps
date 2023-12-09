@@ -49,3 +49,5 @@
 
 + [因在《GTA 6》游戏预告现身，佛罗里达小丑本尊喊话 R 星“我们得谈谈”](https://m.ithome.com/html/738099.htm)
 
++ [AITO 问界回应 M7“冬测”纯电续航达成率垫底：测试前空调持续制热，车辆门窗频繁开关](https://m.ithome.com/html/738128.htm)
+
