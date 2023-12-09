@@ -183,3 +183,13 @@
 
 + [《最终幻想16》开发者介绍DLC长度与设定细节](https://www.3dmgame.com/news/202312/3883467.html)
 
++ [中式民俗微恐独立游戏《落花洞女》PV 试玩Demo现已上线](https://www.3dmgame.com/news/202312/3883476.html)
+
++ [《最终幻想7：重生》中的希德难道已经戒烟了？](https://www.3dmgame.com/news/202312/3883473.html)
+
++ [《赛博朋克2077》4K材质包MOD发布 优化所有建筑外观](https://www.3dmgame.com/news/202312/3883475.html)
+
++ [玩家未来或有可能在《塞尔达传说》里控制塞尔达](https://www.3dmgame.com/news/202312/3883474.html)
+
++ [射击游戏《幻耀的羽毛》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883472.html)
+

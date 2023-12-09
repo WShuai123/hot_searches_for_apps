@@ -165,3 +165,9 @@
 
 + [华为、华三、锐捷、思科巡检命令大全](https://blog.csdn.net/qq_33794290/article/details/134870296)
 
++ [【SpringBoot】MyBatis-plus 报错 Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required](https://blog.csdn.net/dandelionl_/article/details/134892975)
+
++ [8 个顶级的 PDF 转 Word 转换器](https://blog.csdn.net/qq_23996309/article/details/134869953)
+
++ [2023五岳杯量子计算数学建模挑战赛深度剖析（QUBO建模+模拟退火算法）](https://blog.csdn.net/2301_80749953/article/details/134841439)
+
