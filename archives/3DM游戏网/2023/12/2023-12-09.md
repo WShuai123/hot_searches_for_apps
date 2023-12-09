@@ -173,3 +173,13 @@
 
 + [育碧《刺客信条》参与修复！巴黎圣母院明年重新开放](https://www.3dmgame.com/news/202312/3883463.html)
 
++ [开发商Triple Topping宣布破产 明年新作命运未卜](https://www.3dmgame.com/news/202312/3883471.html)
+
++ [《亡灵巫师2》新预告公布 明年第一季度发售](https://www.3dmgame.com/news/202312/3883470.html)
+
++ [传言称《龙珠Z：电光火石0》登场角色数量庞大](https://www.3dmgame.com/news/202312/3883469.html)
+
++ [脑机之父：马斯克脑机无任何创新 他连大脑位置都不知](https://www.3dmgame.com/news/202312/3883468.html)
+
++ [《最终幻想16》开发者介绍DLC长度与设定细节](https://www.3dmgame.com/news/202312/3883467.html)
+
