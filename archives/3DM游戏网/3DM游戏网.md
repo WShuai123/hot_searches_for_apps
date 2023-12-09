@@ -103,3 +103,9 @@
 
 + [桌游《Undergrove》Kickstarter众筹率超过6000%](https://www.3dmgame.com/news/202312/3883483.html)
 
++ [NVIDIA表示除台积电和三星外 希望有第三个代工伙伴](https://www.3dmgame.com/news/202312/3883486.html)
+
++ [《微软飞行模拟》空客A300/苏-27Flanker新截图](https://www.3dmgame.com/news/202312/3883485.html)
+
++ [《火箭竞速》在堡垒之夜中亮相 同时游戏玩家超50万](https://www.3dmgame.com/news/202312/3883484.html)
+
