@@ -49,3 +49,27 @@
 
 + [Name Badge](https://dribbble.com/shots/)
 
++ [Glyph Beer 14](https://dribbble.com/shots/)
+
++ [Healthcare service - Web Design](https://dribbble.com/shots/)
+
++ [I see faces.. ????](https://dribbble.com/shots/)
+
++ [SoccerSkullz](https://dribbble.com/shots/)
+
++ [Zombie Logo](https://dribbble.com/shots/)
+
++ [Bike ????](https://dribbble.com/shots/)
+
++ [GTA](https://dribbble.com/shots/)
+
++ [Freelance Marketplace Mobile App](https://dribbble.com/shots/)
+
++ [Salesforce CRM - Sales Analytics Platform](https://dribbble.com/shots/)
+
++ [Expo Website](https://dribbble.com/shots/)
+
++ [Beaverdale edc](https://dribbble.com/shots/)
+
++ [Daytona - core guidelines](https://dribbble.com/shots/)
+

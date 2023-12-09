@@ -101,3 +101,9 @@
 
 + [Content Oyster](https://www.producthunt.com/posts/content-oyster)
 
++ [Midnight](https://www.producthunt.com/posts/midnight-2)
+
++ [AI Applicant Sorting](https://www.producthunt.com/posts/ai-applicant-sorting)
+
++ [Ello](https://www.producthunt.com/posts/ello-4)
+
