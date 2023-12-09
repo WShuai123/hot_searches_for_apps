@@ -39,3 +39,9 @@
 
 + [TGA 2023 年度最佳游戏：《博德之门 3》](https://m.ithome.com/html/737880.htm)
 
++ [针对因价格调整误解约优惠的学生用户，QQ 音乐重新开放补签约入口](https://m.ithome.com/html/738039.htm)
+
++ [比亚迪仰望 U9 超跑申报图亮相：四个 240kW 电机，选配电动尾翼](https://m.ithome.com/html/738073.htm)
+
++ [中兴首款 Wi-Fi 7 路由器公布，即将上市](https://m.ithome.com/html/738024.htm)
+

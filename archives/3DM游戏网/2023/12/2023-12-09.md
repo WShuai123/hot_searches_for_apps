@@ -155,3 +155,5 @@
 
 + [类大乱斗平台格斗游戏《Combo Devil》公布 将登陆Steam](https://www.3dmgame.com/news/202312/3883448.html)
 
++ [《刀锋战士》新作游戏一段时间内都不会有新消息](https://www.3dmgame.com/news/202312/3883458.html)
+
