@@ -51,3 +51,25 @@
 
 + [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
 
++ [jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)
+
++ [facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama)
+
++ [anoma / namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer)
+
++ [MichaelYuhe / ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs)
+
++ [rmcelreath / stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
+
++ [songquanpeng / one-api](https://github.com/songquanpeng/one-api)
+
++ [apache / superset](https://github.com/apache/superset)
+
++ [keyvanakbary / learning-notes](https://github.com/keyvanakbary/learning-notes)
+
++ [OpenSalamander / salamander](https://github.com/OpenSalamander/salamander)
+
++ [Flode-Labs / vid2densepose](https://github.com/Flode-Labs/vid2densepose)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+

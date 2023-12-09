@@ -61,3 +61,7 @@
 
 + [华为“纯血鸿蒙”原生 App 再加二：HiPaint、交通银行官宣启动开发](https://m.ithome.com/html/738141.htm)
 
++ [荣耀 Magic 6 Pro 手机入网：配 100W 快充、跟进华为支持卫星通信](https://m.ithome.com/html/738150.htm)
+
++ [荣耀 90 GT 手机渲染图曝光：紫色为底，金色点缀](https://m.ithome.com/html/738132.htm)
+
