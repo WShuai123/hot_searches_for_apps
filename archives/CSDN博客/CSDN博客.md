@@ -171,3 +171,9 @@
 
 + [2023五岳杯量子计算数学建模挑战赛深度剖析（QUBO建模+模拟退火算法）](https://blog.csdn.net/2301_80749953/article/details/134841439)
 
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖集成Redis(九)](https://blog.csdn.net/m0_59230408/article/details/133267525)
+
++ [Elasticsearch：什么是检索增强生成 (RAG)？](https://blog.csdn.net/UbuntuTouch/article/details/134883939)
+
++ [一文详解：什么是https 加密协议？](https://blog.csdn.net/qqerrr/article/details/134857932)
+

@@ -57,3 +57,7 @@
 
 + [余承东：华为明年将推出颠覆性的产品，改写行业历史](https://m.ithome.com/html/738161.htm)
 
++ [余承东：华为明年将推出引领性、创新性、颠覆性的产品，改写行业历史](https://m.ithome.com/html/738161.htm)
+
++ [华为“纯血鸿蒙”原生 App 再加二：HiPaint、交通银行官宣启动开发](https://m.ithome.com/html/738141.htm)
+
