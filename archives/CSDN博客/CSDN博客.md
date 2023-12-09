@@ -151,3 +151,5 @@
 
 + [Azure Machine Learning - Azure OpenAI 服务使用 GPT-35-Turbo and GPT-4](https://blog.csdn.net/magicyangjay111/article/details/134844642)
 
++ [网络安全（黑客技术）—自学](https://blog.csdn.net/dexi113/article/details/134885726)
+

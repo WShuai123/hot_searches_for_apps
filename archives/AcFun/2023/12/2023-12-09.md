@@ -87,3 +87,5 @@
 
 + [二萌komo：大摆锤，但是礼崩乐坏版](http://www.acfun.cn/v/ac43178959)
 
++ [《精灵宝钻》初代精灵至高王](http://www.acfun.cn/v/ac43165113)
+

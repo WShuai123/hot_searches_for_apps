@@ -53,3 +53,5 @@
 
 + [实战Webshell管理工具Weevely检测思路分析](https://www.freebuf.com/articles/network/385268.html)
 
++ [如何使用LooneyPwner检测Linux系统是否存在“Looney Tunables”漏洞](https://www.freebuf.com/sectool/384045.html)
+

@@ -159,3 +159,9 @@
 
 + [《欢迎来到帕拉迪泽》实机预告 2月29日发售](https://www.3dmgame.com/news/202312/3883459.html)
 
++ [模拟游戏《花园生活》实机预告 2月23日正式发售](https://www.3dmgame.com/news/202312/3883462.html)
+
++ [同名游戏改编美剧《烈火战车》确认续订第二季](https://www.3dmgame.com/news/202312/3883461.html)
+
++ [《塞尔达传说》新作将不会是“王国之泪”的续作](https://www.3dmgame.com/news/202312/3883460.html)
+
