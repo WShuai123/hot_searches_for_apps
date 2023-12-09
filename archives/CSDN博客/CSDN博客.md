@@ -133,3 +133,9 @@
 
 + [如何解决5G基站高能耗问题？](https://blog.csdn.net/weixin_54418884/article/details/134861510)
 
++ [Pandas统计分析(上)](https://blog.csdn.net/sweethoney216/article/details/134837077)
+
++ [思维链（CoT）提出者 Jason Wei：关于大语言模型的六个直觉](https://blog.csdn.net/fyfugoyfa/article/details/134882402)
+
++ [【爬取二手车并将数据保存在数据库中】](https://blog.csdn.net/qq_50847752/article/details/134887655)
+

@@ -35,3 +35,7 @@
 
 + [小米 Redmi 13R 手机上架：天玑 6100 + 处理器，标价 999 元](https://m.ithome.com/html/737935.htm)
 
++ [年终好价节巅峰狂促 4 小时：京东 iPhone 15 Pro Max 立减千元，小米 WiFi7 万兆路由器 599 元探底](https://m.ithome.com/html/738083.htm)
+
++ [TGA 2023 年度最佳游戏：《博德之门 3》](https://m.ithome.com/html/737880.htm)
+

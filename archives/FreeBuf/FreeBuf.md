@@ -47,3 +47,7 @@
 
 + [严重漏洞 | Citrix NetScaler ADC会话劫持及网关漏洞分析（CVE-2023-4966）](https://www.freebuf.com/articles/network/384833.html)
 
++ [内网渗透测试 | Kerberos协议及其部分攻击手法](https://www.freebuf.com/articles/network/384457.html)
+
++ [关于LinkWeChat的一次代码审计记录](https://www.freebuf.com/articles/web/385579.html)
+
