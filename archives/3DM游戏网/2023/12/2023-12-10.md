@@ -101,3 +101,5 @@
 
 + [《心灵杀手2》新游戏+模式12.11上线 新增难度模式](https://www.3dmgame.com/news/202312/3883433.html)
 
++ [桌游《Undergrove》Kickstarter众筹率超过6000%](https://www.3dmgame.com/news/202312/3883483.html)
+

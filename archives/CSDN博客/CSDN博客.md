@@ -107,3 +107,29 @@
 
 + [详解TCP报文格式以及TCP相关特性](https://blog.csdn.net/m0_73920844/article/details/134893671)
 
++ [物联网+AI智慧工地云平台源码（SaaS模式）](https://blog.csdn.net/qq_27741787/article/details/134874132)
+
++ [基于Java+Vue+uniapp微信小程序学生资助在线系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134897786)
+
++ [【SpringBoot】MyBatis-plus 报错 Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required](https://blog.csdn.net/dandelionl_/article/details/134892975)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖集成Redis(九)](https://blog.csdn.net/m0_59230408/article/details/133267525)
+
++ [爱智EdgerOS之深入解析数据库模块的Redis Client](https://blog.csdn.net/Forever_wj/article/details/134891863)
+
++ [如何使用Net2FTP轻松部署本地Web文件管理器并远程访问管理内网资源？](https://blog.csdn.net/qq_25749749/article/details/134854693)
+
++ [本地搭建Linux DataEase数据可视化分析工具并实现公网访问](https://blog.csdn.net/ljq_up/article/details/134854401)
+
++ [利用法线贴图渲染逼真的3D老虎模型](https://blog.csdn.net/ygtu2018/article/details/134873690)
+
++ [第二十一章网络通信](https://blog.csdn.net/2201_75845637/article/details/134871201)
+
++ [【Angular开发】Angular在2023年之前不是很好](https://blog.csdn.net/jiagoushipro/article/details/134900558)
+
++ [第二十一章网络通信总结博客](https://blog.csdn.net/2301_76552154/article/details/134876097)
+
++ [网页设计中增强现实的兴起](https://blog.csdn.net/arthas777/article/details/134869724)
+
++ [第二十一章网络通信](https://blog.csdn.net/QX3242/article/details/134876731)
+
