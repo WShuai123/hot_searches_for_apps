@@ -33,3 +33,5 @@
 
 + [小米手环 8 Pro 原神定制礼盒发布：含达达利亚主题手办充电底座，首发 549 元](https://m.ithome.com/html/738054.htm)
 
++ [小米 Redmi 13R 手机上架：天玑 6100 + 处理器，标价 999 元](https://m.ithome.com/html/737935.htm)
+

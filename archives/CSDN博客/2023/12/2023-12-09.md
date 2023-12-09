@@ -127,3 +127,9 @@
 
 + [Zabbix结合Grafana打造高逼格监控系统](https://blog.csdn.net/weixin_41645135/article/details/134888701)
 
++ [机器学习 sklearn 中的超参数搜索方法](https://blog.csdn.net/qq_63585949/article/details/134866412)
+
++ [机器学习之案例：客流预测](https://blog.csdn.net/lijunhcn/article/details/134877273)
+
++ [如何解决5G基站高能耗问题？](https://blog.csdn.net/weixin_54418884/article/details/134861510)
+

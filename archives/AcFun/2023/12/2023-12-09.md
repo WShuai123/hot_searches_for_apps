@@ -75,3 +75,5 @@
 
 + [好姐妹天天秀#62【致命有趣】](http://www.acfun.cn/v/ac43177563)
 
++ [【东方】超燃电吉他演绎 リバースイデオロギー【RichaadEB】](http://www.acfun.cn/v/ac43169156)
+

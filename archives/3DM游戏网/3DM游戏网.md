@@ -131,3 +131,7 @@
 
 + [《浩劫前夕》Steam在线峰值3.8万 玩家流失严重](https://www.3dmgame.com/news/202312/3883439.html)
 
++ [又成功发射一箭三星 朱雀二号遥三运载火箭发射成功](https://www.3dmgame.com/news/202312/3883447.html)
+
++ [英国2023年黑五游戏零售破纪录：主机销量贡献最大](https://www.3dmgame.com/news/202312/3883446.html)
+
