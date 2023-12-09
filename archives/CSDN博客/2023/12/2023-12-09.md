@@ -121,3 +121,5 @@
 
 + [【SpringCloud篇】Eureka服务的基本配置和操作](https://blog.csdn.net/m0_72853403/article/details/134828462)
 
++ [〖Python网络爬虫实战㊶〗- 极验滑块介绍（三）](https://blog.csdn.net/BROKEN__Y/article/details/134863809)
+

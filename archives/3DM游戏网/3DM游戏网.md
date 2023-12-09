@@ -115,3 +115,5 @@
 
 + [《原神》4.3「蔷薇与铳枪」版本公布 12/20上线](https://www.3dmgame.com/news/202312/3883436.html)
 
++ [《最终幻想16》PC版需要SSD 或收录所有DLC](https://www.3dmgame.com/news/202312/3883438.html)
+

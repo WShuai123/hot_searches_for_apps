@@ -41,3 +41,7 @@
 
 + [如何使用Apepe基于APK文件枚举应用程序信息](https://www.freebuf.com/sectool/383905.html)
 
++ [FreeBuf 周报 | iPhone现虚假锁定骗局；美国航空航天领域被黑客盯上](https://www.freebuf.com/news/386073.html)
+
++ [Webshell混淆免杀的一些思路](https://www.freebuf.com/articles/web/385014.html)
+
