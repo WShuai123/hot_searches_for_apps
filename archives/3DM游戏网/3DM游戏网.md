@@ -117,3 +117,17 @@
 
 + [《最终幻想16》PC版需要SSD 或收录所有DLC](https://www.3dmgame.com/news/202312/3883438.html)
 
++ [微软宣布部分ZeniMax合同工转为全职工会员工](https://www.3dmgame.com/news/202312/3883445.html)
+
++ [免费FPS《最终决战》Steam褒贬不一 在线峰值20万](https://www.3dmgame.com/news/202312/3883444.html)
+
++ [与微软谈妥了 《博德之门3》XSS版没有本地分屏](https://www.3dmgame.com/news/202312/3883443.html)
+
++ [R星有史以来最美的游戏？《GTA6》和《荒野大镖客2》画面对比](https://www.3dmgame.com/news/202312/3883442.html)
+
++ [傲娇工作室《霓虹人生》Steam页面上线 上线日期待定](https://www.3dmgame.com/news/202312/3883441.html)
+
++ [TGA 2023公布新作数猛增至61款 一半是动作冒险](https://www.3dmgame.com/news/202312/3883440.html)
+
++ [《浩劫前夕》Steam在线峰值3.8万 玩家流失严重](https://www.3dmgame.com/news/202312/3883439.html)
+

@@ -123,3 +123,7 @@
 
 + [〖Python网络爬虫实战㊶〗- 极验滑块介绍（三）](https://blog.csdn.net/BROKEN__Y/article/details/134863809)
 
++ [柏林噪声C++](https://blog.csdn.net/fuyouzhiyi/article/details/134733383)
+
++ [Zabbix结合Grafana打造高逼格监控系统](https://blog.csdn.net/weixin_41645135/article/details/134888701)
+

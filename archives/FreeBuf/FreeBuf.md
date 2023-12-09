@@ -45,3 +45,5 @@
 
 + [Webshell混淆免杀的一些思路](https://www.freebuf.com/articles/web/385014.html)
 
++ [严重漏洞 | Citrix NetScaler ADC会话劫持及网关漏洞分析（CVE-2023-4966）](https://www.freebuf.com/articles/network/384833.html)
+
