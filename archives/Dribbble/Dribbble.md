@@ -73,3 +73,15 @@
 
 + [Daytona - core guidelines](https://dribbble.com/shots/)
 
++ [good times](https://dribbble.com/shots/)
+
++ [Slope finance logo design: S, folded notes, growth graphic chart](https://dribbble.com/shots/)
+
++ [Mota - UX/UI web application design for remote work](https://dribbble.com/shots/)
+
++ [Sold Out](https://dribbble.com/shots/)
+
++ [Anchor Face Logo](https://dribbble.com/shots/)
+
++ [Jolly Roger & Gomu Gomu no Mi](https://dribbble.com/shots/)
+
