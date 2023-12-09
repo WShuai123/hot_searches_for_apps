@@ -45,3 +45,5 @@
 
 + [中兴首款 Wi-Fi 7 路由器公布，即将上市](https://m.ithome.com/html/738024.htm)
 
++ [消息称小米汽车发布会内部定档 12 月 28 日，现场将公布预售价](https://m.ithome.com/html/738110.htm)
+

@@ -143,3 +143,11 @@
 
 + [决战排序之巅(一)](https://blog.csdn.net/GenshiN__IMPACt_/article/details/134476587)
 
++ [『Linux升级路』进度条小程序](https://blog.csdn.net/2301_76207836/article/details/134606020)
+
++ [人工智能教程（三）：更多有用的 Python 库](https://blog.csdn.net/m0_68662723/article/details/134891950)
+
++ [SCI一区级 | Matlab实现GWO-CNN-BiLSTM-selfAttention多变量多步时间序列预测](https://blog.csdn.net/kjm13182345320/article/details/134889031)
+
++ [Azure Machine Learning - Azure OpenAI 服务使用 GPT-35-Turbo and GPT-4](https://blog.csdn.net/magicyangjay111/article/details/134844642)
+
