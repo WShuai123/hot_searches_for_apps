@@ -119,3 +119,5 @@
 
 + [Streak: The Party App](https://www.producthunt.com/posts/streak-the-party-app)
 
++ [Fork.ai Extension](https://www.producthunt.com/posts/fork-ai-extension)
+

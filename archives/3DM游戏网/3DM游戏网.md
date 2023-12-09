@@ -193,3 +193,9 @@
 
 + [射击游戏《幻耀的羽毛》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883472.html)
 
++ [《生化危机4》VR模式现已在PS5上线](https://www.3dmgame.com/news/202312/3883479.html)
+
++ [GTA6女主Lucia MOD出炉 适用于GTA5和GTA：SA](https://www.3dmgame.com/news/202312/3883478.html)
+
++ [CMA盯上微软与OpenAI 评估是否展开反垄断调查](https://www.3dmgame.com/news/202312/3883477.html)
+
