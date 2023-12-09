@@ -199,3 +199,7 @@
 
 + [CMA盯上微软与OpenAI 评估是否展开反垄断调查](https://www.3dmgame.com/news/202312/3883477.html)
 
++ [《风暴之城》现已正式发售 Steam评价好评如潮](https://www.3dmgame.com/news/202312/3883481.html)
+
++ [《最终幻想16》《最终幻想7：重生》独占时间没变](https://www.3dmgame.com/news/202312/3883480.html)
+

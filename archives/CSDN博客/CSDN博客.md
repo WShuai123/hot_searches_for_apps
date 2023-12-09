@@ -185,3 +185,9 @@
 
 + [MindOpt APL：一款适合优化问题数学建模的编程语言](https://blog.csdn.net/MindOpt_003/article/details/134881682)
 
++ [【送书活动四期】被GitHub 要求强制开启 2FA 双重身份验证，我该怎么办？](https://blog.csdn.net/m0_37482190/article/details/134876892)
+
++ [Termux+Hexo结合内网穿透轻松实现安卓手机搭建博客网站发布公网访问](https://blog.csdn.net/qq_48652579/article/details/134886952)
+
++ [excel做预测的方法集合](https://blog.csdn.net/weixin_41875135/article/details/134886222)
+
