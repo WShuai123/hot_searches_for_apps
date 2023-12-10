@@ -45,3 +45,5 @@
 
 + [《英雄联盟》下周开始跨区匹配，先在男爵领域和教育网大区测试](https://m.ithome.com/html/738222.htm)
 
++ [苹果回应封杀 Beeper Mini：保护用户的 iMessage 隐私和安全](https://m.ithome.com/html/738236.htm)
+

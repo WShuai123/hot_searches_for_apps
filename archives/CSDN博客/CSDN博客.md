@@ -197,3 +197,7 @@
 
 + [System 2 Attention：可以提高不同LLM问题的推理能力](https://blog.csdn.net/m0_46510245/article/details/134904816)
 
++ [2024年网络安全（黑客）自学规划](https://blog.csdn.net/stopluox/article/details/134894881)
+
++ [python爬虫学习-批量爬取图片](https://blog.csdn.net/qq_44373419/article/details/134899679)
+

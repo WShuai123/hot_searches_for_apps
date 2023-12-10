@@ -119,3 +119,9 @@
 
 + [JetBrains AI](https://www.producthunt.com/posts/jetbrains-ai)
 
++ [Stray](https://www.producthunt.com/posts/stray-2)
+
++ [ShakeMyHand](https://www.producthunt.com/posts/shakemyhand)
+
++ [ayraa](https://www.producthunt.com/posts/ayraa)
+
