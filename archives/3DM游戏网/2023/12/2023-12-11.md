@@ -103,3 +103,5 @@
 
 + [今天是《毁灭战士》发售30周年 官方发文纪念](https://www.3dmgame.com/news/202312/3883526.html)
 
++ [Epic称《堡垒之夜》加入任天堂角色太难了](https://www.3dmgame.com/news/202312/3883527.html)
+

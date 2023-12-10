@@ -123,3 +123,13 @@
 
 + [[仅供学习,禁止用于违法]编写一个程序来手动设置Windows的全局代理开或关，实现对所有网络请求拦截和数据包捕获(抓包或VPN的应用)](https://blog.csdn.net/qq_43073558/article/details/134899284)
 
++ [[ 云计算 | Azure 实践 ] 在 Azure 门户中创建 VM 虚拟机并进行验证](https://blog.csdn.net/dietime1943/article/details/134917504)
+
++ [【FPGA】Verilog：BCD 加法器的实现](https://blog.csdn.net/weixin_50502862/article/details/134880375)
+
++ [【SpringBoot】请求参数](https://blog.csdn.net/XiugongHao/article/details/134894319)
+
++ [【SpringBoot】MyBatis-plus 报错 Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required](https://blog.csdn.net/dandelionl_/article/details/134892975)
+
++ [2024年网络安全（黑客）自学规划](https://blog.csdn.net/stopluox/article/details/134894881)
+
