@@ -211,3 +211,9 @@
 
 + [西工大网络空间安全学院计算机网络实验五——ACL配置](https://blog.csdn.net/a15735748145a/article/details/134897471)
 
++ [Elasticsearch：向量数据库的真相](https://blog.csdn.net/UbuntuTouch/article/details/134903878)
+
++ [python程序大全(8)——鼠标乱动恶搞小病毒（有资源）](https://blog.csdn.net/C_ygxb/article/details/134900952)
+
++ [Vue笔记（三）深入组件](https://blog.csdn.net/zhaoqingquanajax/article/details/134902496)
+

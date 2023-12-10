@@ -53,3 +53,5 @@
 
 + [JSpector：一款以被动模式爬取和分析JS文件安全性的Burp Suite扩展](https://www.freebuf.com/sectool/384185.html)
 
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
