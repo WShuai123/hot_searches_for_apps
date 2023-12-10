@@ -41,3 +41,7 @@
 
 + [Sierra 安全漏洞严重影响关键基础设施](https://www.freebuf.com/news/385952.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/386096.html)
+
++ [海莲花 APT 组织模仿 APT29 攻击活动分析](https://www.freebuf.com/articles/paper/385406.html)
+

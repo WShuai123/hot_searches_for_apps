@@ -213,3 +213,7 @@
 
 + [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
 
++ [唯品会 -新人享豪礼](https://itunes.apple.com/cn/app/id417200582?mt=8)
+
++ [去哪儿旅行-预订特价酒店机票火车票平台](https://itunes.apple.com/cn/app/id395096736?mt=8)
+

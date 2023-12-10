@@ -29,3 +29,5 @@
 
 + [小米汽车发布会定档 12 月 28 日？内部员工：有考虑这个时间，其他内容全是假的](https://m.ithome.com/html/738200.htm)
 
++ [小米 Redmi K70 Pro 手机维修备件价格公布：屏幕 550 元，电池 119 元](https://m.ithome.com/html/738193.htm)
+
