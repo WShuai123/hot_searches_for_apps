@@ -109,3 +109,17 @@
 
 + [2024年FL Studio 21最佳最适配 MIDI 设备：最适合音乐制作人的 Mac、PC 和 iOS 键盘](https://blog.csdn.net/yanzhixue2023/article/details/134902322)
 
++ [python玩具电商销售数据可视化和商品推荐系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/134907992)
+
++ [机器学习算法（9）——集成技术（Bagging——随机森林分类器和回归）](https://blog.csdn.net/gongdiwudu/article/details/134900669)
+
++ [Other -- ChatGPT 原理](https://blog.csdn.net/qq_37233070/article/details/134895279)
+
++ [深入解析Spring Boot中的注解@PathVariable、@RequestParam、@RequestBody的正确使用](https://blog.csdn.net/qq_43546721/article/details/134902803)
+
++ [策略模式（security的认证管理）](https://blog.csdn.net/qxt_142312/article/details/134783322)
+
++ [智能制造和低代码：打造高效工厂的关键](https://blog.csdn.net/HUIBUR/article/details/134911074)
+
++ [[仅供学习,禁止用于违法]编写一个程序来手动设置Windows的全局代理开或关，实现对所有网络请求拦截和数据包捕获(抓包或VPN的应用)](https://blog.csdn.net/qq_43073558/article/details/134899284)
+
