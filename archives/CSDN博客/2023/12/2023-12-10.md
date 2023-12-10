@@ -161,3 +161,17 @@
 
 + [Carla自动驾驶仿真六：pygame多个车辆摄像头画面拼接](https://blog.csdn.net/zataji/article/details/134897903)
 
++ [web的注解应用](https://blog.csdn.net/Glowing_cat/article/details/134888813)
+
++ [【SpringBoot篇】5种类型参数传递&&json数据传参的操作](https://blog.csdn.net/m0_72853403/article/details/134905482)
+
++ [【小沐学Python】Python实现语音识别（Whisper）](https://blog.csdn.net/hhy321/article/details/134897967)
+
++ [基于YOLOv8深度学习的人脸面部口罩检测系统【python源码+Pyqt5界面+数据集+训练代码】目标检测](https://blog.csdn.net/qq_42589613/article/details/134897139)
+
++ [如何使用eXtplorer+cpolar内网穿透搭建个人云存储实现公网访问](https://blog.csdn.net/qq_73017178/article/details/134875715)
+
++ [【Linux学习】磁盘结构与寻址原理&EXT2文件系统&inode&软硬链接](https://blog.csdn.net/sdhajkdghjkawhd/article/details/134720580)
+
++ [python程序大全(9)——鼠标乱动恶搞小病毒（有资源）](https://blog.csdn.net/C_ygxb/article/details/134900952)
+

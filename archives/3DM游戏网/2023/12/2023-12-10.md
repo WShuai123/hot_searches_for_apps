@@ -135,3 +135,7 @@
 
 + [英伟达：希望能与英特尔合作 共同生产下一代芯片](https://www.3dmgame.com/news/202312/3883498.html)
 
++ [《星际拓荒》登陆Switch发售 太空探索互动冒险](https://www.3dmgame.com/news/202312/3883501.html)
+
++ [前索尼开发者声称《漫威刀锋战士》不是Xbox独占](https://www.3dmgame.com/news/202312/3883500.html)
+

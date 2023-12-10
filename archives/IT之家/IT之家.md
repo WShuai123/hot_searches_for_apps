@@ -35,3 +35,5 @@
 
 + [年终好价节巅峰狂促 4 小时：京东 iPhone 15 Pro Max 立减千元，12+256G 版魅族 20 Pro 百亿补贴 2999 元](https://m.ithome.com/html/738201.htm)
 
++ [华为余承东谈“遥遥领先”：非常不容易，需要研发创新和强大技术投入](https://m.ithome.com/html/738228.htm)
+
