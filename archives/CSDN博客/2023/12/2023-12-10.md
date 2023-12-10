@@ -233,3 +233,5 @@
 
 + [思维链（CoT）提出者 Jason Wei：关于大语言模型的六个直觉](https://blog.csdn.net/fyfugoyfa/article/details/134882402)
 
++ [文心一言API(高级版)使用](https://blog.csdn.net/qq_48896417/article/details/134898647)
+
