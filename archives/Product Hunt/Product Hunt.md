@@ -125,3 +125,13 @@
 
 + [ayraa](https://www.producthunt.com/posts/ayraa)
 
++ [Charm Check](https://www.producthunt.com/posts/charm-check)
+
++ [Zurimoney](https://www.producthunt.com/posts/zurimoney)
+
++ [AI Assistant](https://www.producthunt.com/posts/ai-assistant-4)
+
++ [HappinessPal](https://www.producthunt.com/posts/happinesspal)
+
++ [Fastbatch](https://www.producthunt.com/posts/fastbatch)
+

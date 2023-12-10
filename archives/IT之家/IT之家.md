@@ -47,3 +47,7 @@
 
 + [苹果回应封杀 Beeper Mini：保护用户的 iMessage 隐私和安全](https://m.ithome.com/html/738236.htm)
 
++ [绿联上架新款 160W 闪充湃 Pro 氮化镓充电器：3C1A 接口，429 元](https://m.ithome.com/html/738221.htm)
+
++ [TCL 华星展示 31 英寸穹形印刷 OLED 显示器：4K 120Hz，3D 空间视角](https://m.ithome.com/html/738218.htm)
+

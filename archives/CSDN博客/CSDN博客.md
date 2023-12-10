@@ -201,3 +201,13 @@
 
 + [python爬虫学习-批量爬取图片](https://blog.csdn.net/qq_44373419/article/details/134899679)
 
++ [边缘计算系统设计与实践：引领科技创新的新浪潮](https://blog.csdn.net/qq_32682301/article/details/134906296)
+
++ [【小聆送书第二期】人工智能时代AIGC重塑教育](https://blog.csdn.net/2301_80026901/article/details/134904473)
+
++ [【Java探索之旅】我与Java的初相识(一)：Java的特性与优点及其发展史](https://blog.csdn.net/a1657054242/article/details/134885140)
+
++ [SystemVerilog学习（0）——目录与传送门](https://blog.csdn.net/apple_53311083/article/details/134897921)
+
++ [西工大网络空间安全学院计算机网络实验五——ACL配置](https://blog.csdn.net/a15735748145a/article/details/134897471)
+
