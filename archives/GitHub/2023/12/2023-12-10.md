@@ -51,3 +51,31 @@
 
 + [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
 
++ [linexjlin / GPTs](https://github.com/linexjlin/GPTs)
+
++ [prasanthrangan / hyprdots](https://github.com/prasanthrangan/hyprdots)
+
++ [mli / paper-reading](https://github.com/mli/paper-reading)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [sweepai / sweep](https://github.com/sweepai/sweep)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [kgrzybek / modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [01-ai / Yi](https://github.com/01-ai/Yi)
+
++ [facebookresearch / Pearl](https://github.com/facebookresearch/Pearl)
+
++ [zzzgydi / clash-verge](https://github.com/zzzgydi/clash-verge)
+
++ [ytdl-org / youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
++ [dunglas / frankenphp](https://github.com/dunglas/frankenphp)
+
