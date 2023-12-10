@@ -101,3 +101,5 @@
 
 + [射击游戏《幻耀的羽毛》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883472.html)
 
++ [今天是《毁灭战士》发售30周年 官方发文纪念](https://www.3dmgame.com/news/202312/3883526.html)
+

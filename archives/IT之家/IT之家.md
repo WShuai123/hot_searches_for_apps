@@ -25,3 +25,7 @@
 
 + [努比亚 Z60 Ultra 手机全球首发主摄级广角镜头，号称打破“广角无用论”](https://m.ithome.com/html/738267.htm)
 
++ [小米卢伟冰：Redmi 以前秉承参数领先，近期调整为“参数领先 + 体验优先”并重](https://m.ithome.com/html/738312.htm)
+
++ [恐龙可能是导致我们活不到 200 岁的原因](https://m.ithome.com/html/738300.htm)
+
