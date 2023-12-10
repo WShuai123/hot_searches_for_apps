@@ -39,3 +39,9 @@
 
 + [广州地铁内禁止电子设备外放声音，2024 年 1 月 1 日起施行](https://m.ithome.com/html/738227.htm)
 
++ [年终好价节巅峰狂促：京东 iPhone 15 Pro Max 、魅族 20 Pro 手机立减千元自营探底](https://m.ithome.com/html/738201.htm)
+
++ [卢旺达要发 30 万颗卫星，太空圈地背后的算计与乱象](https://m.ithome.com/html/738156.htm)
+
++ [《英雄联盟》下周开始跨区匹配，先在男爵领域和教育网大区测试](https://m.ithome.com/html/738222.htm)
+

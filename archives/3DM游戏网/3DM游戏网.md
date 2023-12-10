@@ -141,3 +141,13 @@
 
 + [《A Date with Death》Steam免费发布 视觉冒险](https://www.3dmgame.com/news/202312/3883502.html)
 
++ [难解难分 《博德之门3》PS5与Xbox Series版本对比](https://www.3dmgame.com/news/202312/3883507.html)
+
++ [《The Finals》没有更新路线图 开发团队介绍背后原因](https://www.3dmgame.com/news/202312/3883505.html)
+
++ [苹果人事“大地震”！iPhone产品设计负责人离职](https://www.3dmgame.com/news/202312/3883506.html)
+
++ [《VRChat》即将升级B版 安卓玩家无需条件即可利用](https://www.3dmgame.com/news/202312/3883504.html)
+
++ [《使命召唤》开发团队狂喷奎托斯演员：你真有才](https://www.3dmgame.com/news/202312/3883503.html)
+

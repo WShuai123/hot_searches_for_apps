@@ -51,3 +51,5 @@
 
 + [Sangfor华东天勇战队：springsecurity+springwebflux（CVE-2023-34034）](https://www.freebuf.com/articles/web/385129.html)
 
++ [JSpector：一款以被动模式爬取和分析JS文件安全性的Burp Suite扩展](https://www.freebuf.com/sectool/384185.html)
+

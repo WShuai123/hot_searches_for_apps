@@ -115,3 +115,7 @@
 
 + [AI Adventure](https://www.producthunt.com/posts/ai-adventure)
 
++ [Xound](https://www.producthunt.com/posts/xound)
+
++ [JetBrains AI](https://www.producthunt.com/posts/jetbrains-ai)
+
