@@ -169,3 +169,9 @@
 
 + [《龙珠Z：电光火石0》与《电光火石3》视频对比](https://www.3dmgame.com/news/202312/3883516.html)
 
++ [《兄弟：双子传说重制版》PC配置公布 推荐RTX 2060 Super](https://www.3dmgame.com/news/202312/3883519.html)
+
++ [《海王2》国内宣传：杰森·莫玛游故宫、攀长城](https://www.3dmgame.com/news/202312/3883517.html)
+
++ [马斯克：OpenAI首席科学家应该考虑跳槽xAI或特斯拉](https://www.3dmgame.com/news/202312/3883518.html)
+

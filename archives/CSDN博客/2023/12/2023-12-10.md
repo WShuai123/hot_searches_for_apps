@@ -231,3 +231,5 @@
 
 + [NNDL 作业10 BPTT](https://blog.csdn.net/gdx1314520/article/details/134829261)
 
++ [思维链（CoT）提出者 Jason Wei：关于大语言模型的六个直觉](https://blog.csdn.net/fyfugoyfa/article/details/134882402)
+
