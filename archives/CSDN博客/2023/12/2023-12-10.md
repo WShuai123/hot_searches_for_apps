@@ -175,3 +175,19 @@
 
 + [python程序大全(9)——鼠标乱动恶搞小病毒（有资源）](https://blog.csdn.net/C_ygxb/article/details/134900952)
 
++ [Azure Machine Learning - 使用 Azure OpenAI 服务生成图像](https://blog.csdn.net/magicyangjay111/article/details/134904156)
+
++ [【Linux】探索Linux进程状态 | 僵尸进程 | 孤儿进程](https://blog.csdn.net/xz2935117143/article/details/134694655)
+
++ [【图像分类】【深度学习】【Pytorch版本】 DenseNet模型算法详解](https://blog.csdn.net/yangyu0515/article/details/134873045)
+
++ [我在Vscode学OpenCV 图像处理二（滤除噪声干扰）](https://blog.csdn.net/m0_74154295/article/details/134763310)
+
++ [Redis课程：黑马点评](https://blog.csdn.net/shizheng_Li/article/details/134899991)
+
++ [【计算机网络】TCP|IP协议](https://blog.csdn.net/double222222/article/details/134900883)
+
++ [【词云图】从excel和从txt文件，绘制以句子、词为单位的词云图](https://blog.csdn.net/wtyuong/article/details/134807863)
+
++ [揭秘字符串的奥秘：探索String类的深层含义与源码解读](https://blog.csdn.net/qq_51601665/article/details/134905619)
+

@@ -139,3 +139,5 @@
 
 + [前索尼开发者声称《漫威刀锋战士》不是Xbox独占](https://www.3dmgame.com/news/202312/3883500.html)
 
++ [《A Date with Death》Steam免费发布 视觉冒险](https://www.3dmgame.com/news/202312/3883502.html)
+
