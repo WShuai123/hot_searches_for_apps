@@ -33,3 +33,5 @@
 
 + [小米 Redmi 12R 手机上架：第二代骁龙 4+1080P 屏幕，4+128GB 售 999 元](https://m.ithome.com/html/738217.htm)
 
++ [年终好价节巅峰狂促 4 小时：京东 iPhone 15 Pro Max 立减千元，12+256G 版魅族 20 Pro 百亿补贴 2999 元](https://m.ithome.com/html/738201.htm)
+

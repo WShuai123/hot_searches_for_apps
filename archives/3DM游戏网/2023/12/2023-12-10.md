@@ -123,3 +123,11 @@
 
 + [大宇回合制RPG《三国战旅：乱世行》12分钟实机](https://www.3dmgame.com/news/202312/3883488.html)
 
++ [《怪物猎人：荒野》预告分析 可飞空或为开放世界](https://www.3dmgame.com/news/202312/3883497.html)
+
++ [TGA再遭痛批：明星无限畅聊 获奖者说两句就被赶](https://www.3dmgame.com/news/202312/3883494.html)
+
++ [修长城模拟器《中国边疆》测试开启 2024年Q2发售](https://www.3dmgame.com/news/202312/3883496.html)
+
++ [《漫威蜘蛛侠2》TGA 2023颗粒无收 引起粉丝强烈不满](https://www.3dmgame.com/news/202312/3883495.html)
+
