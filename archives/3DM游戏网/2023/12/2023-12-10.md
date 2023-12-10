@@ -131,3 +131,7 @@
 
 + [《漫威蜘蛛侠2》TGA 2023颗粒无收 引起粉丝强烈不满](https://www.3dmgame.com/news/202312/3883495.html)
 
++ [周鸿祎看好谷歌AI 长期来看赶上GPT-4绰绰有余](https://www.3dmgame.com/news/202312/3883499.html)
+
++ [英伟达：希望能与英特尔合作 共同生产下一代芯片](https://www.3dmgame.com/news/202312/3883498.html)
+
