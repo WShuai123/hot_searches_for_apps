@@ -31,3 +31,5 @@
 
 + [小米 Redmi K70 Pro 手机维修备件价格公布：屏幕 550 元，电池 119 元](https://m.ithome.com/html/738193.htm)
 
++ [小米 Redmi 12R 手机上架：第二代骁龙 4+1080P 屏幕，4+128GB 售 999 元](https://m.ithome.com/html/738217.htm)
+

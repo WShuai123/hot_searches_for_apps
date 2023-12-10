@@ -109,3 +109,17 @@
 
 + [《火箭竞速》在堡垒之夜中亮相 同时游戏玩家超50万](https://www.3dmgame.com/news/202312/3883484.html)
 
++ [《重金属：地狱歌手》“涤罪”DLC与免费更新发布](https://www.3dmgame.com/news/202312/3883489.html)
+
++ [《兄弟：双子传说》原版和重制版对比 视觉效果大提升](https://www.3dmgame.com/news/202312/3883490.html)
+
++ [玩家打造《军团要塞2》弹药补给机PC机箱 完美还原游戏原设](https://www.3dmgame.com/news/202312/3883491.html)
+
++ [“佛州小丑”称《GTA6》侵犯肖像权 索赔200万美元](https://www.3dmgame.com/news/202312/3883492.html)
+
++ [《最终幻想16》将没有续作或衍生作](https://www.3dmgame.com/news/202312/3883493.html)
+
++ [《傀儡禁域》Steam页面上线 生存恐怖动作冒险](https://www.3dmgame.com/news/202312/3883487.html)
+
++ [大宇回合制RPG《三国战旅：乱世行》12分钟实机](https://www.3dmgame.com/news/202312/3883488.html)
+
