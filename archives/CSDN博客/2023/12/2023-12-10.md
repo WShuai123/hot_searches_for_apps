@@ -235,3 +235,5 @@
 
 + [文心一言API(高级版)使用](https://blog.csdn.net/qq_48896417/article/details/134898647)
 
++ [【原创】【一类问题的通法】【真题+李6卷6+李4卷4(+李6卷5)分析】合同矩阵A B有PTAP=B，求可逆阵P的策略](https://blog.csdn.net/m0_57050876/article/details/134905602)
+
