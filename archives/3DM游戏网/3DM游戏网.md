@@ -231,3 +231,7 @@
 
 + [《芭比》成为谷歌年度搜索最多的电影](https://www.3dmgame.com/news/202312/3883591.html)
 
++ [传《FF16》《FF7》《FF7重生》永远不登Xbox](https://www.3dmgame.com/news/202312/3883592.html)
+
++ [《Chasing the Unseen》将于2024年3月7日发售](https://www.3dmgame.com/news/202312/3883588.html)
+
