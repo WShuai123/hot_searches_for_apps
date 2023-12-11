@@ -35,3 +35,5 @@
 
 + [消息称余承东“正面回应”问界汽车冬测争议：坑人测试、误导民众](https://m.ithome.com/html/738342.htm)
 
++ [华为 Mate 60 Pro 今日开启“60 天预约申购”：订单按随机顺序发货](https://m.ithome.com/html/738344.htm)
+

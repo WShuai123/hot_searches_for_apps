@@ -149,3 +149,7 @@
 
 + [【Linux系统化学习】命令行参数 | 环境变量的再次理解](https://blog.csdn.net/qq_55119554/article/details/134864458)
 
++ [FaceChain V2，Human AIGC开源应用平台](https://blog.csdn.net/sunbaigui/article/details/134870981)
+
++ [外包干了3个月，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/134899908)
+

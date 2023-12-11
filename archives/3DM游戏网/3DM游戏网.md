@@ -123,3 +123,19 @@
 
 + [英国黑五：PS5主机销量比去年同期暴增217%](https://www.3dmgame.com/news/202312/3883531.html)
 
++ [《寿司灵魂宇宙》steam发售 恶搞吃寿司名作续篇](https://www.3dmgame.com/news/202312/3883544.html)
+
++ [《天国：拯救》Switch版首批游戏截图公布 2024年初发售](https://www.3dmgame.com/news/202312/3883542.html)
+
++ [《无人深空》团队新作《Light No Fire》是今年油管上看量最高的TGA预告](https://www.3dmgame.com/news/202312/3883543.html)
+
++ [《eFootball 2024》第三赛季更新 包含新的游戏模式](https://www.3dmgame.com/news/202312/3883541.html)
+
++ [爆火惊悚游戏《八番出口》出现假冒APP 作者提醒只有Steam版](https://www.3dmgame.com/news/202312/3883540.html)
+
++ [可招架开放世界魂游《V.A Proxy》现已推出试玩Demo](https://www.3dmgame.com/news/202312/3883539.html)
+
++ [虚幻5重制《塞尔达：时之笛》新演示 支持DLSS3](https://www.3dmgame.com/news/202312/3883538.html)
+
++ [新作《影之诗：Worlds Beyond》公布 2024年夏季上线](https://www.3dmgame.com/news/202312/3883537.html)
+
