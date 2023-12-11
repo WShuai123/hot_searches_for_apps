@@ -101,3 +101,21 @@
 
 + [Content Oyster](https://www.producthunt.com/posts/content-oyster)
 
++ [DoCast 2.0](https://www.producthunt.com/posts/docast-2-0)
+
++ [Layoff Alerts App](https://www.producthunt.com/posts/layoff-alerts-app)
+
++ [Walnut: Deal Intel](https://www.producthunt.com/posts/walnut-deal-intel)
+
++ [Kasheesh](https://www.producthunt.com/posts/kasheesh)
+
++ [NativeRest](https://www.producthunt.com/posts/nativerest)
+
++ [BoldDesk](https://www.producthunt.com/posts/bolddesk)
+
++ [Paigo: SaaS Billing on Autopilot](https://www.producthunt.com/posts/paigo-saas-billing-on-autopilot)
+
++ [Kapstan Free](https://www.producthunt.com/posts/kapstan-free)
+
++ [Artisan AI](https://www.producthunt.com/posts/artisan-ai)
+

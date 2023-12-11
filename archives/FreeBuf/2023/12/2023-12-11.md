@@ -59,3 +59,5 @@
 
 + [超过 30% 的 Log4J 应用程序使用存在漏洞的版本库](https://www.freebuf.com/news/386209.html)
 
++ [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
+
