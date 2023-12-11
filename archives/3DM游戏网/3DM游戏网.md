@@ -139,3 +139,33 @@
 
 + [新作《影之诗：Worlds Beyond》公布 2024年夏季上线](https://www.3dmgame.com/news/202312/3883537.html)
 
++ [恋爱冒险名作《To Heart 2：迷宫旅人》将登陆PC 明年2月发售](https://www.3dmgame.com/news/202312/3883558.html)
+
++ [Win12发布时间曝光：系统需求大幅提高 老电脑难更新](https://www.3dmgame.com/news/202312/3883559.html)
+
++ [《匹诺曹的谎言》更新圣诞节奖励 Mac版正在准备中](https://www.3dmgame.com/news/202312/3883557.html)
+
++ [从《星星是冰冷的玩具》走进俄罗斯科幻的狂想世界](https://www.3dmgame.com/news/202312/3883556.html)
+
++ [《如龙8：无尽的财富》新登场人物介绍 有几个大美女](https://www.3dmgame.com/news/202312/3883555.html)
+
++ [西行归来战妖魔《西游志：山海战纪》正式定档12月18日发售](https://www.3dmgame.com/news/202312/3883554.html)
+
++ [网友怀疑《黑神话：悟空》壁画是AI作图 杨奇放出原图](https://www.3dmgame.com/news/202312/3883551.html)
+
++ [马克·沃尔伯格表示 《神秘海域》电影续集的剧本正在创作中](https://www.3dmgame.com/news/202312/3883553.html)
+
++ [华为首家海外工厂将法国落成 目标年产10亿台设备](https://www.3dmgame.com/news/202312/3883552.html)
+
++ [《三国志8重制版》宣布延期 2024年年内发售](https://www.3dmgame.com/news/202312/3883550.html)
+
++ [《赛博朋克2077》3周年官方发推 感谢玩家的反馈与支持](https://www.3dmgame.com/news/202312/3883547.html)
+
++ [无人深空开发商新作《无火之光》可探索地球规模星球](https://www.3dmgame.com/news/202312/3883545.html)
+
++ [《使命召唤：现代战争3》将支持FSR 3帧生成](https://www.3dmgame.com/news/202312/3883546.html)
+
++ [索尼互娱公布《漫威蜘蛛侠2》同捆限量版PS5 12月20日发售](https://www.3dmgame.com/news/202312/3883549.html)
+
++ [《行尸走肉：背叛》宣布停止开发 所有玩家将获全额退款](https://www.3dmgame.com/news/202312/3883548.html)
+
