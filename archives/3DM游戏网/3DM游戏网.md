@@ -105,3 +105,9 @@
 
 + [Epic称《堡垒之夜》加入任天堂角色太难了](https://www.3dmgame.com/news/202312/3883527.html)
 
++ [《战神：诸神黄昏》DLC新截图 奎爷仰视女武神](https://www.3dmgame.com/news/202312/3883530.html)
+
++ [公布了5款经典游戏后SEGA有望复活《VR战士》](https://www.3dmgame.com/news/202312/3883529.html)
+
++ [开放世界竞速RPG《Resistor》公开](https://www.3dmgame.com/news/202312/3883528.html)
+

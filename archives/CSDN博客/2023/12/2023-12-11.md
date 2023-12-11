@@ -133,3 +133,15 @@
 
 + [2024年网络安全（黑客）自学规划](https://blog.csdn.net/stopluox/article/details/134894881)
 
++ [Python开源项目月排行 2023年11月](https://blog.csdn.net/cbbxn/article/details/134871892)
+
++ [[MySQL--进阶篇]存储引擎的体系结构、简介、特点、选择](https://blog.csdn.net/m0_74939592/article/details/134912117)
+
++ [【电路笔记】-压敏电阻](https://blog.csdn.net/wujuxKkoolerter/article/details/134906888)
+
++ [如何本地搭建开源分布式任务调度系统DolphinScheduler并远程访问](https://blog.csdn.net/fcawyxb/article/details/134913259)
+
++ [python爬虫学习-批量爬取图片](https://blog.csdn.net/qq_44373419/article/details/134899679)
+
++ [Modelscope Agent初体验与思考](https://blog.csdn.net/RandyHan/article/details/134907516)
+

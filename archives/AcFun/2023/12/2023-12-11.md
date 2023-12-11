@@ -67,3 +67,5 @@
 
 + [十月霸权新番（6）名侦探猫猫，启动！](http://www.acfun.cn/v/ac43197185)
 
++ [开心可爱又元气！周日的港妹跳LOVE DIVE](http://www.acfun.cn/v/ac43190410)
+

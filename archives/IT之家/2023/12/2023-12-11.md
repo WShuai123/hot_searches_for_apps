@@ -29,3 +29,7 @@
 
 + [恐龙可能是导致我们活不到 200 岁的原因](https://m.ithome.com/html/738300.htm)
 
++ [华为首家海外工厂将在法国落成，预计 2025 年底投产](https://m.ithome.com/html/738323.htm)
+
++ [宋紫薇开启理想汽车生涯首秀：OTA5.0 将在智能驾驶、智能空间和智能增程方面迎来升级](https://m.ithome.com/html/738313.htm)
+

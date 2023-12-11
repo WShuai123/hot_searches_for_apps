@@ -43,3 +43,7 @@
 
 + [国家互联网信息办公室发布《网络安全事件报告管理办法（征求意见稿）》](https://www.freebuf.com/news/386036.html)
 
++ [FreeBuf早报 | 日本汽车制造商Nissan遭遇网络攻击；WordPress 曝出严重漏洞](https://www.freebuf.com/news/386085.html)
+
++ [Arid Viper正在利用SpyC23针对Android设备进行大规模攻击](https://www.freebuf.com/articles/mobile/385531.html)
+
