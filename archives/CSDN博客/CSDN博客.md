@@ -101,3 +101,29 @@
 
 + [Redis 五大经典业务问题](https://blog.csdn.net/yang073402/article/details/134903304)
 
++ [免费获取GPT-4的五种工具](https://blog.csdn.net/java_cjkl/article/details/134906986)
+
++ [AI人工智能课题：通用场景文字识别系统的设计与实现（基于百度智能云AI接口）](https://blog.csdn.net/u013818205/article/details/134923875)
+
++ [【物联网】光影奇航：激光传感器探秘与按键妙用](https://blog.csdn.net/m0_57532432/article/details/134873236)
+
++ [深入理解网络中断：原理与应用](https://blog.csdn.net/vnjohn/article/details/134903479)
+
++ [html5 登录玻璃特效](https://blog.csdn.net/weixin_45932157/article/details/134916445)
+
++ [Spring Boot 优雅地处理重复请求](https://blog.csdn.net/houxian1103/article/details/134897933)
+
++ [DM8/达梦 数据库管理员使用手册详解](https://blog.csdn.net/zhouzhiwengang/article/details/134902534)
+
++ [HarmonyOS鸿蒙应用开发——HTTP网络访问与封装](https://blog.csdn.net/hzw2017/article/details/134910847)
+
++ [使用Node.js服务搭建本地web网页小游戏并实现远程访问](https://blog.csdn.net/m0_73868817/article/details/134929584)
+
++ [【算法优选】 动态规划之路径问题——贰](https://blog.csdn.net/m0_71731682/article/details/134900625)
+
++ [基于JavaWeb+SSM+Vue马拉松报名系统微信小程序的设计和实现](https://blog.csdn.net/qq_39659876/article/details/134904064)
+
++ [聊聊什么是CDN，这些特点你都了解吗？](https://blog.csdn.net/jinxinxin1314/article/details/134915683)
+
++ [【Spring Boot 源码学习】ApplicationListener 详解](https://blog.csdn.net/u012855229/article/details/134515439)
+
