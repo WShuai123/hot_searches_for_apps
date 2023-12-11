@@ -111,3 +111,15 @@
 
 + [开放世界竞速RPG《Resistor》公开](https://www.3dmgame.com/news/202312/3883528.html)
 
++ [《鬼灭之刃》第四季确定2024年春开播 首集一小时特别版](https://www.3dmgame.com/news/202312/3883533.html)
+
++ [腾讯官宣：国行Switch延保计划正式停售！](https://www.3dmgame.com/news/202312/3883534.html)
+
++ [《使命召唤：战区》的“福尔丹斯克”地图将于2024年底前登陆新作](https://www.3dmgame.com/news/202312/3883535.html)
+
++ [传闻：黑曜石《宣誓》或将于2024年下半年发售](https://www.3dmgame.com/news/202312/3883536.html)
+
++ [《黎明杀机》单人游戏《弗兰克·斯通的阴影》PC配置公布](https://www.3dmgame.com/news/202312/3883532.html)
+
++ [英国黑五：PS5主机销量比去年同期暴增217%](https://www.3dmgame.com/news/202312/3883531.html)
+

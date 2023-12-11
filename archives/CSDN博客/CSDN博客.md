@@ -145,3 +145,7 @@
 
 + [Modelscope Agent初体验与思考](https://blog.csdn.net/RandyHan/article/details/134907516)
 
++ [Spring Boot 优雅地处理重复请求](https://blog.csdn.net/houxian1103/article/details/134897933)
+
++ [【Linux系统化学习】命令行参数 | 环境变量的再次理解](https://blog.csdn.net/qq_55119554/article/details/134864458)
+
