@@ -25,3 +25,7 @@
 
 + [1 英寸 50MP 超大底，索尼光喻 LYT-900 图像传感器公布](https://m.ithome.com/html/738401.htm)
 
++ [懂车帝回应“冬测”标准遭质疑：所有参与车辆使用统一标准，不存在区别对待](https://m.ithome.com/html/738507.htm)
+
++ [努比亚 Z60 Ultra 真机公布：超窄边无开孔全面屏，蓝钻排列](https://m.ithome.com/html/738463.htm)
+

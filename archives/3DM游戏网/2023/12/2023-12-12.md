@@ -101,3 +101,7 @@
 
 + [《使命召唤：现代战争3》将支持FSR 3帧生成](https://www.3dmgame.com/news/202312/3883546.html)
 
++ [《碧海黑帆》12月14日开启封测 可游玩6小时](https://www.3dmgame.com/news/202312/3883597.html)
+
++ [模拟建造《帕格尼物语》EA版12月13日上线 支持中文](https://www.3dmgame.com/news/202312/3883598.html)
+

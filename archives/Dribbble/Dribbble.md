@@ -49,3 +49,27 @@
 
 + [Apple Watch App Concept 5](https://dribbble.com/shots/)
 
++ [Thank you sticker](https://dribbble.com/shots/)
+
++ [Accom Branding](https://dribbble.com/shots/)
+
++ [⚫⚪](https://dribbble.com/shots/)
+
++ [Car](https://dribbble.com/shots/)
+
++ [Software Development - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Sourcio UI-UX](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Desert Wren](https://dribbble.com/shots/)
+
++ [Log in modal — Untitled UI](https://dribbble.com/shots/)
+
++ [wind](https://dribbble.com/shots/)
+
++ [Magic 8 Ball](https://dribbble.com/shots/)
+
++ [Expo Website](https://dribbble.com/shots/)
+

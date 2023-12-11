@@ -101,3 +101,5 @@
 
 + [ayraa](https://www.producthunt.com/posts/ayraa)
 
++ [Stray for Mac](https://www.producthunt.com/posts/stray-for-mac)
+
