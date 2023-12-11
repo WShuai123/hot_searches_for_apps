@@ -51,3 +51,29 @@
 
 + [dunglas / frankenphp](https://github.com/dunglas/frankenphp)
 
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [luciddreamer-cvlab / LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer)
+
++ [mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F)
+
++ [linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [ast-grep / ast-grep](https://github.com/ast-grep/ast-grep)
+
++ [zhyever / PatchFusion](https://github.com/zhyever/PatchFusion)
+
++ [SqueezeAILab / LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler)
+
++ [wilsonfreitas / awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+
++ [asset-group / 5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks)
+
++ [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+

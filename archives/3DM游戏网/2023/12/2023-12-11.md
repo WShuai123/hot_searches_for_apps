@@ -225,3 +225,7 @@
 
 + [《最终幻想7重制版》幼年蒂法双马尾背带裤超可爱](https://www.3dmgame.com/news/202312/3883587.html)
 
++ [传RTX 3050 6GB定价179-189美元](https://www.3dmgame.com/news/202312/3883590.html)
+
++ [美女甩头发？《GTA6》首支预告片重播最多的镜头是它](https://www.3dmgame.com/news/202312/3883589.html)
+
