@@ -185,3 +185,13 @@
 
 + [类和对象竟是这样的（中集）](https://blog.csdn.net/weixin_75172965/article/details/134886854)
 
++ [Pytorch深度强化学习1-6：详解时序差分强化学习(SARSA、Q-Learning算法)](https://blog.csdn.net/FRIGIDWINTER/article/details/134914760)
+
++ [【腾讯云 HAI 域探秘】释放生产力：基于 HAI 打造团队专属的 AI 编程助手](https://blog.csdn.net/u012203867/article/details/134893756)
+
++ [Mybatis之核心配置文件详解、默认类型别名、Mybatis获取参数值的两种方式](https://blog.csdn.net/m0_64074924/article/details/134869168)
+
++ [如何公网访问内网的群晖NAS随时随地远程访问本地存储的学习资源](https://blog.csdn.net/2201_75743654/article/details/134925832)
+
++ [【数学建模】《实战数学建模：例题与讲解》第十讲-时间序列预测（含Matlab代码）](https://blog.csdn.net/zhushatong/article/details/134905452)
+

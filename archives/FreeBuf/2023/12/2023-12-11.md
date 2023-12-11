@@ -61,3 +61,9 @@
 
 + [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
 
++ [FB 赠书第 104 期 | 《计算》重磅来袭！吴翰清（道哥）倾情力作](https://www.freebuf.com/fevents/386267.html)
+
++ [Black Hat Europe分享 | AutoSpill攻击可窃取安卓密码管理器中密码](https://www.freebuf.com/news/386254.html)
+
++ [难以置信！超过30% 的Log4J 使用存在漏洞的版本库](https://www.freebuf.com/news/386209.html)
+

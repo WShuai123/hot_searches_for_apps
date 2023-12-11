@@ -193,3 +193,9 @@
 
 + [PS4时代即将完结？索尼官方商店显示PS4销售正在关闭](https://www.3dmgame.com/news/202312/3883568.html)
 
++ [《圣剑传说》新作并非开放世界 主角是热血少年](https://www.3dmgame.com/news/202312/3883574.html)
+
++ [骗子在网上传播虚假《GTA6》PC版下载  散布恶意病毒](https://www.3dmgame.com/news/202312/3883573.html)
+
++ [李斌回应蔚来和合肥对赌1200亿元：没有这回事](https://www.3dmgame.com/news/202312/3883572.html)
+
