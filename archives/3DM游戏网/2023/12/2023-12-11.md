@@ -235,3 +235,11 @@
 
 + [《Chasing the Unseen》将于2024年3月7日发售](https://www.3dmgame.com/news/202312/3883588.html)
 
++ [2024美国电影电视金球奖提名 《最后的生还者》榜上有名](https://www.3dmgame.com/news/202312/3883596.html)
+
++ [《我的世界》2023年配置要求 老电脑仍可运行](https://www.3dmgame.com/news/202312/3883595.html)
+
++ [英国新一周游戏销量榜 《阿凡达：潘多拉边境》第五](https://www.3dmgame.com/news/202312/3883594.html)
+
++ [《霍格沃茨之遗》登顶谷歌2023十大搜索游戏](https://www.3dmgame.com/news/202312/3883593.html)
+

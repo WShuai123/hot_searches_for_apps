@@ -213,3 +213,9 @@
 
 + [【Spring Boot 源码学习】ApplicationListener 详解](https://blog.csdn.net/u012855229/article/details/134515439)
 
++ [2023年度AI盘点 AIGC|AGI|ChatGPT|人工智能大模型](https://blog.csdn.net/Why_does_it_work/article/details/134931548)
+
++ [Quartus多功能数字钟设计verilog代码AX301开发板](https://blog.csdn.net/RTLcoder/article/details/134894950)
+
++ [央企国企相关](https://blog.csdn.net/liu17234050/article/details/134914424)
+
