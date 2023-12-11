@@ -105,3 +105,7 @@
 
 + [模拟建造《帕格尼物语》EA版12月13日上线 支持中文](https://www.3dmgame.com/news/202312/3883598.html)
 
++ [驯养龙的牧场物语《龙之避难所》上架Steam](https://www.3dmgame.com/news/202312/3883600.html)
+
++ [《暗喻幻想：ReFantazio》开发人员对谈视频](https://www.3dmgame.com/news/202312/3883599.html)
+

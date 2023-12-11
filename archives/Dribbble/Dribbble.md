@@ -135,3 +135,19 @@
 
 + [Lion King :P](https://dribbble.com/shots/)
 
++ [Trash Ice Cream Mural](https://dribbble.com/shots/)
+
++ [Quick Personal Loans App](https://dribbble.com/shots/)
+
++ [Colorful Abstract Peppermint Pattern](https://dribbble.com/shots/)
+
++ [Web design: XIX3D website 404 error](https://dribbble.com/shots/)
+
++ [Outside](https://dribbble.com/shots/)
+
++ [Cruz: Connect ID](https://dribbble.com/shots/)
+
++ [Statly - Product Sales Analytics](https://dribbble.com/shots/)
+
++ [Kraken Rum Illustrations Created by Steven Noble](https://dribbble.com/shots/)
+

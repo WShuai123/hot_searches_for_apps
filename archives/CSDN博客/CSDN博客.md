@@ -127,3 +127,33 @@
 
 + [【Spring Boot 源码学习】ApplicationListener 详解](https://blog.csdn.net/u012855229/article/details/134515439)
 
++ [PyTorch深度学习实战——人群计数](https://blog.csdn.net/LOVEmy134611/article/details/132114808)
+
++ [【VS Code开发】使用Live Server搭建MENJA小游戏并发布至公网远程访问](https://blog.csdn.net/qq_57761637/article/details/134924706)
+
++ [使用eXtplorer本地搭建文件管理器并内网穿透远程访问本地数据](https://blog.csdn.net/Tiam_cr/article/details/134916906)
+
++ [一文通透Mamba模型：FlashAttention作者等人基于SSM架构试图颠覆Transformer霸权](https://blog.csdn.net/v_JULY_v/article/details/134923301)
+
++ [我的 CSDN 三周年创作纪念日：2020-12-12](https://blog.csdn.net/boysoft2002/article/details/134935680)
+
++ [python天津天气预报数据可视化大屏全屏系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/134910563)
+
++ [【低压电工证】理论考试技巧](https://blog.csdn.net/weixin_52632755/article/details/134828834)
+
++ [六级高频词汇3](https://blog.csdn.net/double222222/article/details/134904976)
+
++ [如何使用 Google 的 Gemini](https://blog.csdn.net/weixin_37813152/article/details/134908313)
+
++ [如何使用cpolar+Inis在Ubuntu系统快速搭建本地博客网站公网可访问](https://blog.csdn.net/qq_73017178/article/details/134929531)
+
++ [宝塔面板部署Apache服务器搭建本地站点发布到公网可访问【内网穿透】](https://blog.csdn.net/bushibrnxiaohaij/article/details/134929925)
+
++ [高项备考葵花宝典-项目进度管理核心概念加强记忆](https://blog.csdn.net/imwucx/article/details/134908956)
+
++ [揭秘字符串的奥秘：探索String类的深层含义与源码解读](https://blog.csdn.net/qq_51601665/article/details/134905619)
+
++ [类和对象竟是这样的（中集）](https://blog.csdn.net/weixin_75172965/article/details/134886854)
+
++ [微服务实战系列之通信](https://blog.csdn.net/splendid_java/article/details/134835665)
+
