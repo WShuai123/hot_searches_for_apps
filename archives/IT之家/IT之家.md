@@ -37,3 +37,5 @@
 
 + [华为 Mate 60 Pro 今日开启“60 天预约申购”：订单按随机顺序发货](https://m.ithome.com/html/738344.htm)
 
++ [年终好价节巅峰狂促继续：京东小米手环 7 NFC 版 99 元限量购，华为手环 8 自营 154 元探底](https://m.ithome.com/html/738334.htm)
+

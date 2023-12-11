@@ -173,3 +173,5 @@
 
 + [《匹诺曹的谎言》豪华捆绑包八折优惠，并免费更新三款服饰](https://www.3dmgame.com/news/202312/3883561.html)
 
++ [LightSpeed LA推出旗下首款游戏《Last Sentinel》，呈现以未来东京为背景的全新](https://www.3dmgame.com/news/202312/3883562.html)
+

@@ -129,3 +129,5 @@
 
 + [Quick Personal Loans App](https://dribbble.com/shots/)
 
++ [Website design for Resolute Group, Consulting firm](https://dribbble.com/shots/)
+

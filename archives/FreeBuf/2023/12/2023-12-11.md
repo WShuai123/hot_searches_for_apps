@@ -51,3 +51,5 @@
 
 + [安全厂商和云厂商业务合作的分析与思考](https://www.freebuf.com/articles/neopoints/385951.html)
 
++ [欧盟在争议声中敲定全球首部人工智能相关法案](https://www.freebuf.com/news/386202.html)
+

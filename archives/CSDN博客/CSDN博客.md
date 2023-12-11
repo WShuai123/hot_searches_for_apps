@@ -169,3 +169,11 @@
 
 + [如何理解 RPC 远程服务调用？](https://blog.csdn.net/caryxp/article/details/134906117)
 
++ [使用PyTorch II的新特性加快LLM推理速度](https://blog.csdn.net/m0_46510245/article/details/134919344)
+
++ [计算机网络 第一章（概述）](https://blog.csdn.net/Zevalin/article/details/134916302)
+
++ [基于YOLOv8深度学习的舰船目标分类检测系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、深度学习实战](https://blog.csdn.net/qq_42589613/article/details/134906115)
+
++ [某音上很火的圣诞树分享](https://blog.csdn.net/qq_35241329/article/details/134912433)
+
