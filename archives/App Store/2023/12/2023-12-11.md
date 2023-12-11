@@ -213,3 +213,11 @@
 
 + [去哪儿旅行-预订特价酒店机票火车票平台](https://itunes.apple.com/cn/app/id395096736?mt=8)
 
++ [极光新闻](https://itunes.apple.com/cn/app/id1252912377?mt=8)
+
++ [平安好车主—用车就上好车主](https://itunes.apple.com/cn/app/id796339836?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+

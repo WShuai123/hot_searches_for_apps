@@ -201,3 +201,9 @@
 
 + [[MySQL] SQL优化之性能分析](https://blog.csdn.net/Panci_/article/details/134918156)
 
++ [【玩转TableAgent 数据智能分析】-- 分析人才数据集开启数据分析的新篇章](https://blog.csdn.net/qq_33681891/article/details/134925371)
+
++ [第十八届全国大学生智能汽车竞赛室外赛5g室外专项赛（湘大队）开源](https://blog.csdn.net/m0_64688675/article/details/134916040)
+
++ [【物联网】光影奇航：激光传感器探秘与按键妙用](https://blog.csdn.net/m0_57532432/article/details/134873236)
+

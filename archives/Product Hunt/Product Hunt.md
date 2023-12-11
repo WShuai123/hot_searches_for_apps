@@ -153,3 +153,5 @@
 
 + [FuseBase](https://www.producthunt.com/posts/fusebase)
 
++ [Walnut Deal Intel](https://www.producthunt.com/posts/walnut-deal-intel)
+
