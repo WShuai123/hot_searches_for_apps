@@ -101,3 +101,21 @@
 
 + [Deck The Shelves](https://dribbble.com/shots/)
 
++ [Love is love](https://dribbble.com/shots/)
+
++ [Backcountry Skiing](https://dribbble.com/shots/)
+
++ [Dog](https://dribbble.com/shots/)
+
++ [Website design for Resolute Group, Consulting firm](https://dribbble.com/shots/)
+
++ [Happiest of Holidays](https://dribbble.com/shots/)
+
++ [Coffee Love Foam☕️????](https://dribbble.com/shots/)
+
++ [Music Streaming Mobile iOS App](https://dribbble.com/shots/)
+
++ [Going Luffy Senpai](https://dribbble.com/shots/)
+
++ [Patria Website](https://dribbble.com/shots/)
+
