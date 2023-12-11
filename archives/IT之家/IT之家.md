@@ -39,3 +39,9 @@
 
 + [年终好价节巅峰狂促继续：京东小米手环 7 NFC 版 99 元限量购，华为手环 8 自营 154 元探底](https://m.ithome.com/html/738334.htm)
 
++ [余承东怒怼懂车帝后，长城汽车宣布举行懂车帝冬测标准质疑沟通会](https://m.ithome.com/html/738408.htm)
+
++ [Mark Gurman：苹果计划在 2024 年彻底改革 iPad 产品线，以减少混乱并提振销量](https://m.ithome.com/html/738326.htm)
+
++ [4299 元起，一加 12 手机今日首销：骁龙 8 Gen 3、索尼 LYT-808、东方屏](https://m.ithome.com/html/738333.htm)
+

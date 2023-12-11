@@ -53,3 +53,9 @@
 
 + [欧盟在争议声中敲定全球首部人工智能相关法案](https://www.freebuf.com/news/386202.html)
 
++ [Dissect：一款功能强大的事件响应和数字取证框架](https://www.freebuf.com/sectool/384198.html)
+
++ [新型SLAM侧信道攻击曝光，Intel、AMD和Arm CPU均受到影响](https://www.freebuf.com/news/386207.html)
+
++ [超过 30% 的 Log4J 应用程序使用存在漏洞的版本库](https://www.freebuf.com/news/386209.html)
+

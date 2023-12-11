@@ -177,3 +177,9 @@
 
 + [某音上很火的圣诞树分享](https://blog.csdn.net/qq_35241329/article/details/134912433)
 
++ [Kafka事务是怎么实现的？Kafka事务消息原理详解](https://blog.csdn.net/guorui_java/article/details/134918032)
+
++ [巧用ChatGPT高效搞定Excel数据分析【文末送书-04】](https://blog.csdn.net/weixin_52908342/article/details/134921692)
+
++ [【华为鸿蒙系统学习】- HarmonyOS4.0开发|自学篇](https://blog.csdn.net/Aileenvov/article/details/134866399)
+

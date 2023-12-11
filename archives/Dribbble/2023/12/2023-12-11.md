@@ -131,3 +131,5 @@
 
 + [Website design for Resolute Group, Consulting firm](https://dribbble.com/shots/)
 
++ [Curved Hotel Landing Page](https://dribbble.com/shots/)
+

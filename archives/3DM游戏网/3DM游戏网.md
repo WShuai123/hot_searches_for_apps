@@ -175,3 +175,13 @@
 
 + [LightSpeed LA推出旗下首款游戏《Last Sentinel》，呈现以未来东京为背景的全新](https://www.3dmgame.com/news/202312/3883562.html)
 
++ [比便携静香还离谱！日本品牌推出犬型“爬行静香”玩具 发售即售罄](https://www.3dmgame.com/news/202312/3883566.html)
+
++ [《毁灭战士》系列30周年纪念 官方发布贺图庆祝](https://www.3dmgame.com/news/202312/3883567.html)
+
++ [Atlus新作《暗喻幻想》官网更新 最新游戏故事艺图截图公开](https://www.3dmgame.com/news/202312/3883563.html)
+
++ [棒球明星大谷翔平转队 FOX电视台玩梗宝可梦进化](https://www.3dmgame.com/news/202312/3883564.html)
+
++ [科幻机兵战略《钢铁指挥官》蒸汽平台现已上线，首周特惠开启](https://www.3dmgame.com/news/202312/3883565.html)
+
