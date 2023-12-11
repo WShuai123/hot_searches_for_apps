@@ -199,3 +199,27 @@
 
 + [李斌回应蔚来和合肥对赌1200亿元：没有这回事](https://www.3dmgame.com/news/202312/3883572.html)
 
++ [刘强东承认管理不善：京东必须改变！否则没有出路](https://www.3dmgame.com/news/202312/3883586.html)
+
++ [可能又是中国特供！NVIDIA特殊新卡首曝：命名5880](https://www.3dmgame.com/news/202312/3883585.html)
+
++ [《THE FINALS》Steam玩家峰值突破24万 评价提升至多半好评](https://www.3dmgame.com/news/202312/3883584.html)
+
++ [爆火创意游戏《八番出口》作者访谈 在考虑其他类型关卡续作](https://www.3dmgame.com/news/202312/3883583.html)
+
++ [卡牌塔防Roguelike游戏《最终坚守》将于12月14日推出正式版](https://www.3dmgame.com/news/202312/3883582.html)
+
++ [可喜可贺！恭喜《极限竞速》荣获TGA最佳体育/竞速游戏和最佳无障碍创新奖！](https://www.3dmgame.com/news/202312/3883581.html)
+
++ [KK对战平台：全新姿态，重新起航再出发](https://www.3dmgame.com/news/202312/3883580.html)
+
++ [《GTA6》90秒预告中有多少违法行为？高达25起](https://www.3dmgame.com/news/202312/3883579.html)
+
++ [2023年诺贝尔奖颁奖仪式举行：单项奖金1100万瑞典克朗](https://www.3dmgame.com/news/202312/3883578.html)
+
++ [多家车企质疑懂车帝冬测！吉利总裁：我也不认同](https://www.3dmgame.com/news/202312/3883577.html)
+
++ [《怪物猎人：荒野》全新截图 飞行体验非常刺激！](https://www.3dmgame.com/news/202312/3883576.html)
+
++ [英伟达计划在越南新建芯片生产中心 老黄现身河内街头小吃](https://www.3dmgame.com/news/202312/3883575.html)
+

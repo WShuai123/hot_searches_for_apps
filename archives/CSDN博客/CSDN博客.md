@@ -195,3 +195,9 @@
 
 + [【数学建模】《实战数学建模：例题与讲解》第十讲-时间序列预测（含Matlab代码）](https://blog.csdn.net/zhushatong/article/details/134905452)
 
++ [Python+AI实现AI绘画](https://blog.csdn.net/ywsydwsbn/article/details/134914206)
+
++ [感悟随想：还记得当初自己为什么选择计算机？](https://blog.csdn.net/m0_37482190/article/details/134914254)
+
++ [[MySQL] SQL优化之性能分析](https://blog.csdn.net/Panci_/article/details/134918156)
+
