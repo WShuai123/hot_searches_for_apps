@@ -49,3 +49,5 @@
 
 + [渗透测试 | web缓存投毒](https://www.freebuf.com/articles/web/385863.html)
 
++ [安全厂商和云厂商业务合作的分析与思考](https://www.freebuf.com/articles/neopoints/385951.html)
+
