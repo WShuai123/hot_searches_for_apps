@@ -129,3 +129,11 @@
 
 + [【切鼓片】震惊！鼓灵竟做过这种事！∑( 口 ||](http://www.acfun.cn/v/ac43203712)
 
++ [泰国曼谷水灯节，百年文华东方酒店，湄南河烟花晚餐，阿星做水灯](http://www.acfun.cn/v/ac43198253)
+
++ [超级敏感，笨手笨脚](http://www.acfun.cn/v/ac43204919)
+
++ [vocal！制服！前夜！国乙男团翻跳EXO-The Eve【5A】](http://www.acfun.cn/v/ac43198056)
+
++ [【可心喵】元气满满快乐小狗～](http://www.acfun.cn/v/ac43205356)
+

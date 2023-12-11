@@ -229,3 +229,5 @@
 
 + [美女甩头发？《GTA6》首支预告片重播最多的镜头是它](https://www.3dmgame.com/news/202312/3883589.html)
 
++ [《芭比》成为谷歌年度搜索最多的电影](https://www.3dmgame.com/news/202312/3883591.html)
+
