@@ -197,3 +197,11 @@
 
 + [科幻射击游戏《Exodus》将更像《质量效应》而不是《星空》](https://www.3dmgame.com/news/202312/3883642.html)
 
++ [《Abysm》PC平台免费发布 第一人称太空科幻恐怖探索新游](https://www.3dmgame.com/news/202312/3883646.html)
+
++ [开放世界生存恐怖游戏《寄生虫》 爆衣系统有望拓展为成人内容？](https://www.3dmgame.com/news/202312/3883647.html)
+
++ [《无人深空》工作室新作将包含“比珠穆朗玛峰还高”的山脉](https://www.3dmgame.com/news/202312/3883649.html)
+
++ [《古龙风云录》实体收藏版 12月25日开启预售](https://www.3dmgame.com/news/202312/3883645.html)
+

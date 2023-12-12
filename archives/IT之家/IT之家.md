@@ -45,3 +45,5 @@
 
 + [小米 Redmi 电脑音箱今日开售：四单元声学配置、RGB 炫彩氛围灯，199 元](https://m.ithome.com/html/738578.htm)
 
++ [12.12 巅峰狂促：iPhone 15 Pro Max 京东 8999 元限时补货，三星 S9 Ultra 平板 4 月立减 3900 元](https://m.ithome.com/html/738576.htm)
+
