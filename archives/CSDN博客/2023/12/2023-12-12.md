@@ -209,3 +209,5 @@
 
 + [OpenWRT搭建本地web站点并结合内网穿透实现公网远程访问](https://blog.csdn.net/w2915w/article/details/134930319)
 
++ [硬件开发笔记（十六）：RK3568底板电路mipi摄像头接口原理图分析、mipi摄像头详解](https://blog.csdn.net/qq21497936/article/details/134922307)
+

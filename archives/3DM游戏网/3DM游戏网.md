@@ -237,3 +237,19 @@
 
 + [种田游戏《Dragon Shelter》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883660.html)
 
++ [真人版白雪公主小美人魚表示：网友不考虑我们的感受](https://www.3dmgame.com/news/202312/3883670.html)
+
++ [回合制战术游戏《铁血联盟3》更新12月18日上线 追加新内容](https://www.3dmgame.com/news/202312/3883671.html)
+
++ [《暗黑地牢2》首个DLC“束缚之刃”正式发售 Steam定价42元](https://www.3dmgame.com/news/202312/3883648.html)
+
++ [多结局、多分支剧情的国产僵尸题材生存游戏《苏醒之路》已正式上线Steam等平台](https://www.3dmgame.com/news/202312/3883669.html)
+
++ [《战神：诸神黄昏》DLC最高难度极具挑战性 开发者都未能通关](https://www.3dmgame.com/news/202312/3883667.html)
+
++ [Steam最新一周销量榜 Steam Deck登顶四连冠](https://www.3dmgame.com/news/202312/3883672.html)
+
++ [温子仁：《海王2》之后将会回归制作恐怖电影](https://www.3dmgame.com/news/202312/3883668.html)
+
++ [古龙IP授权，河洛正统武侠RPG！《古龙风云录》WeGame预约开启](https://www.3dmgame.com/news/202312/3883666.html)
+
