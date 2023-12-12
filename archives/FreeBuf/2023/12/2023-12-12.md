@@ -55,3 +55,5 @@
 
 + [渗透测试 | 基于白名单AutoElevate绕过UAC提权](https://www.freebuf.com/articles/network/386161.html)
 
++ [如何使用S4UTomato通过Kerberos将服务账号提权为LocalSystem](https://www.freebuf.com/sectool/384233.html)
+

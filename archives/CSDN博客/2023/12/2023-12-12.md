@@ -195,3 +195,9 @@
 
 + [【Docker】Docker Compose，yml 配置指令参考的详细讲解](https://blog.csdn.net/2201_75366661/article/details/134897440)
 
++ [Linux系统中如何开启和配置OpenGauss数据库的远程连接](https://blog.csdn.net/weixin_63115236/article/details/134941752)
+
++ [如何使用GaussDB创建外表（FOREIGN TABLE）](https://blog.csdn.net/GaussDB/article/details/134940272)
+
++ [Azure Machine Learning - 使用自己的数据与 Azure OpenAI 模型对话](https://blog.csdn.net/magicyangjay111/article/details/134944029)
+

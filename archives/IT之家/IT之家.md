@@ -47,3 +47,5 @@
 
 + [12.12 巅峰狂促：iPhone 15 Pro Max 京东 8999 元限时补货，三星 S9 Ultra 平板 4 月立减 3900 元](https://m.ithome.com/html/738576.htm)
 
++ [小米反驳华为余承东：无端针对“龙骨转轴”技术发布不实言论，与事实严重不符](https://m.ithome.com/html/738676.htm)
+

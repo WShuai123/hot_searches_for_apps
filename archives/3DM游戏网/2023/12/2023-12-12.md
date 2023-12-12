@@ -205,3 +205,7 @@
 
 + [《古龙风云录》实体收藏版 12月25日开启预售](https://www.3dmgame.com/news/202312/3883645.html)
 
++ [类密室逃脱的解密游戏《鬼打墙》Steam页面上线 12月发售](https://www.3dmgame.com/news/202312/3883650.html)
+
++ [《The Finals》部分玩家遭遇“TFLA0004”代码错误 导致账号被误封](https://www.3dmgame.com/news/202312/3883651.html)
+
