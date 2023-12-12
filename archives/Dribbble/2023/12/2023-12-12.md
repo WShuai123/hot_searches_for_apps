@@ -187,3 +187,13 @@
 
 + [Ohh deer (Personal '23)](https://dribbble.com/shots/)
 
++ [Mobile UI Screen](https://dribbble.com/shots/)
+
++ [Geometrica Laptop: free Figma vector mockup, macbook pro](https://dribbble.com/shots/)
+
++ [Mascot Design](https://dribbble.com/shots/)
+
++ [Mota - UX/UI design of the application for a remote work](https://dribbble.com/shots/)
+
++ [Dating Mobile iOS App](https://dribbble.com/shots/)
+

@@ -51,3 +51,27 @@
 
 + [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
++ [illacloud / illa-builder](https://github.com/illacloud/illa-builder)
+
++ [mistralai / mistral-src](https://github.com/mistralai/mistral-src)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [pandora-next / deploy](https://github.com/pandora-next/deploy)
+
++ [HuolalaTech / page-spy-web](https://github.com/HuolalaTech/page-spy-web)
+
++ [KovenYu / WonderJourney](https://github.com/KovenYu/WonderJourney)
+
++ [llmware-ai / llmware](https://github.com/llmware-ai/llmware)
+
++ [vinta / awesome-python](https://github.com/vinta/awesome-python)
+
++ [vllm-project / vllm](https://github.com/vllm-project/vllm)
+
++ [allenai / papermage](https://github.com/allenai/papermage)
+
++ [lyswhut / lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
+
++ [webstudio-is / webstudio](https://github.com/webstudio-is/webstudio)
+

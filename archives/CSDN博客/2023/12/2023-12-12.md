@@ -213,3 +213,7 @@
 
 + [【机器学习实训项目】黑色星期五画像分析](https://blog.csdn.net/m0_71369515/article/details/134923369)
 
++ [软路由R4S+iStoreOS如何实现公网远程桌面本地电脑](https://blog.csdn.net/2301_80026901/article/details/134946564)
+
++ [Linux本地部署Mosquitto MQTT协议消息服务端并实现远程访问【内网穿透】](https://blog.csdn.net/xinhang10/article/details/134949768)
+
