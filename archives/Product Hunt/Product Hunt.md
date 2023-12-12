@@ -103,3 +103,27 @@
 
 + [Stray for Mac](https://www.producthunt.com/posts/stray-for-mac)
 
++ [Apple MLX](https://www.producthunt.com/posts/apple-mlx)
+
++ [Mezzi](https://www.producthunt.com/posts/mezzi)
+
++ [Capture by amo](https://www.producthunt.com/posts/capture-by-amo)
+
++ [Fakeface](https://www.producthunt.com/posts/fakeface)
+
++ [Fitsnack](https://www.producthunt.com/posts/fitsnack)
+
++ [MagicDocs](https://www.producthunt.com/posts/magicdocs-2)
+
++ [Chat with YouTube](https://www.producthunt.com/posts/chat-with-youtube)
+
++ [Infosnap](https://www.producthunt.com/posts/infosnap)
+
++ [EnVsion AI](https://www.producthunt.com/posts/envsion-ai)
+
++ [PromptForge](https://www.producthunt.com/posts/promptforge)
+
++ [Typogram](https://www.producthunt.com/posts/typogram-3)
+
++ [Intelogos AI](https://www.producthunt.com/posts/intelogos-ai)
+

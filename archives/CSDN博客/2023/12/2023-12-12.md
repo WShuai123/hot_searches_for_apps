@@ -201,3 +201,11 @@
 
 + [Azure Machine Learning - 使用自己的数据与 Azure OpenAI 模型对话](https://blog.csdn.net/magicyangjay111/article/details/134944029)
 
++ [量化交易与人工智能：Python库的应用与效用](https://blog.csdn.net/qq_44273429/article/details/134931872)
+
++ [【SpringBoot篇】详解基于Redis实现短信登录的操作](https://blog.csdn.net/m0_72853403/article/details/134946539)
+
++ [计算机网络：网络层（无分类编址CIDR、计算题讲解）](https://blog.csdn.net/weixin_62951900/article/details/134919163)
+
++ [OpenWRT搭建本地web站点并结合内网穿透实现公网远程访问](https://blog.csdn.net/w2915w/article/details/134930319)
+
