@@ -211,3 +211,5 @@
 
 + [硬件开发笔记（十六）：RK3568底板电路mipi摄像头接口原理图分析、mipi摄像头详解](https://blog.csdn.net/qq21497936/article/details/134922307)
 
++ [【机器学习实训项目】黑色星期五画像分析](https://blog.csdn.net/m0_71369515/article/details/134923369)
+

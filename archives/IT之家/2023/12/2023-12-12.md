@@ -51,3 +51,9 @@
 
 + [李杰回应一加 12 手机“缝隙”“点胶”：不是品质或者设计问题，开通退换货绿色通道](https://m.ithome.com/html/738675.htm)
 
++ [12.12 天猫无门槛红包 6 小时后失效：iPhone 15 Pro Max 京东 8999 元，三星 S9 Ultra 平板 4 月立减 3900 元](https://m.ithome.com/html/738576.htm)
+
++ [无伪装！小米汽车实车上路曝光，比“证件照”更好看](https://m.ithome.com/html/738768.htm)
+
++ [苹果下一任 CEO 身份解析，库克已确认来自公司内部](https://m.ithome.com/html/738546.htm)
+

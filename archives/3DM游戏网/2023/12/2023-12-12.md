@@ -253,3 +253,7 @@
 
 + [古龙IP授权，河洛正统武侠RPG！《古龙风云录》WeGame预约开启](https://www.3dmgame.com/news/202312/3883666.html)
 
++ [美国阻挠英伟达开发特供芯片 腾讯等大厂开始自研芯](https://www.3dmgame.com/news/202312/3883673.html)
+
++ [年轻人越来越不喜欢人情世故：痛恨无效 目的性强的社交](https://www.3dmgame.com/news/202312/3883674.html)
+
