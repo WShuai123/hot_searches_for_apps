@@ -39,3 +39,9 @@
 
 + [消息称华为正邀请梅赛德斯奔驰、奥迪投资其汽车公司，旨在扩大与中国车企以外的合作伙伴关系](https://m.ithome.com/html/738533.htm)
 
++ [腾讯 QQ 9.0 大版本更新 iOS / 安卓首个测试版发布：界面焕新，群文件在线预览](https://m.ithome.com/html/738639.htm)
+
++ [小米 12 手机推送澎湃 OS 开发版：安装包 5.3GB，全新融合设备中心](https://m.ithome.com/html/738589.htm)
+
++ [小米 Redmi 电脑音箱今日开售：四单元声学配置、RGB 炫彩氛围灯，199 元](https://m.ithome.com/html/738578.htm)
+

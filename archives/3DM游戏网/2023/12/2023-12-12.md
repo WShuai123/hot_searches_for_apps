@@ -191,3 +191,9 @@
 
 + [宝可梦宣布将建设主题公园：“PokéPark Kanto”](https://www.3dmgame.com/news/202312/3883634.html)
 
++ [滚导《超人：遗产》卢瑟演员：将成为被铭记的反派](https://www.3dmgame.com/news/202312/3883643.html)
+
++ [英伟达黄仁勋：希望将越南建设成公司“第二总部”](https://www.3dmgame.com/news/202312/3883644.html)
+
++ [科幻射击游戏《Exodus》将更像《质量效应》而不是《星空》](https://www.3dmgame.com/news/202312/3883642.html)
+

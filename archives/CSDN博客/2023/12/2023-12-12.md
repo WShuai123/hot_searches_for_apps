@@ -179,3 +179,9 @@
 
 + [小米路由器4A千兆版如何刷OpenWRT并使用固定地址远程访问](https://blog.csdn.net/m0_73879806/article/details/134932528)
 
++ [YOLOv8改进 | 2023主干篇 | EfficientViT替换Backbone（高效的视觉变换网络）](https://blog.csdn.net/java1314777/article/details/134889610)
+
++ [新版Spring Security6.2架构 (三) - Authorization](https://blog.csdn.net/u012895183/article/details/134923916)
+
++ [如何在小米路由器4A千兆版刷入OpenWRT并通过内网穿透工具实现公网远程访问](https://blog.csdn.net/qq_43289447/article/details/134927229)
+

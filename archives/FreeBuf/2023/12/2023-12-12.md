@@ -53,3 +53,5 @@
 
 + [丰田公司遭遇美杜莎勒索软件攻击，被索要800万美元赎金](https://www.freebuf.com/news/386320.html)
 
++ [渗透测试 | 基于白名单AutoElevate绕过UAC提权](https://www.freebuf.com/articles/network/386161.html)
+
