@@ -47,3 +47,5 @@
 
 + [揭秘Jupyter新变体在近期激增的攻击活动](https://www.freebuf.com/articles/system/385532.html)
 
++ [安全设计 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385850.html)
+

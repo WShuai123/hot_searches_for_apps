@@ -119,3 +119,35 @@
 
 + [青沼英二确认塞尔达传说新作仍然是开放世界](https://www.3dmgame.com/news/202312/3883603.html)
 
++ [《疯狂的麦克斯：狂暴女神》新海报 残酷废土之旅](https://www.3dmgame.com/news/202312/3883620.html)
+
++ [世嘉称《街头涂鸦》的原作者参与了新游戏开发](https://www.3dmgame.com/news/202312/3883619.html)
+
++ [钱包准备！2024年上半年Steam特卖及游戏节日期确定](https://www.3dmgame.com/news/202312/3883616.html)
+
++ [《电锯惊魂11》官宣 定档2024年9月27日](https://www.3dmgame.com/news/202312/3883618.html)
+
++ [《Kitty Cat Combat》Steam页面上线 治愈系战旗RPG](https://www.3dmgame.com/news/202312/3883617.html)
+
++ [英雄联盟执行制作人卸任 去处理拳头其他事务](https://www.3dmgame.com/news/202312/3883615.html)
+
++ [纸飞机模拟器《Paper Sky》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3883621.html)
+
++ [《时空分裂者》工作室Free Radical Design已关闭 80人失业](https://www.3dmgame.com/news/202312/3883614.html)
+
++ [《生化危机4：重制版》次世代特性预告 究极沉浸感体验](https://www.3dmgame.com/news/202312/3883613.html)
+
++ [Fami通11月日本销量榜：Switch依然是最热主机](https://www.3dmgame.com/news/202312/3883610.html)
+
++ [《蓝眼武士》官宣第二季 阿水复仇之路还将继续](https://www.3dmgame.com/news/202312/3883609.html)
+
++ [《光环：无限》战役DLC没有积极开发 343专注多人游戏](https://www.3dmgame.com/news/202312/3883611.html)
+
++ [《星空》新Bug出现 游玩越久存档越容易崩溃](https://www.3dmgame.com/news/202312/3883607.html)
+
++ [饭制《毁灭战士》新MOD《Doom Gaiden》Demo下周公开](https://www.3dmgame.com/news/202312/3883608.html)
+
++ [岛学家在行动 粉丝在《OD》预告片中发现《寂静岭》线索](https://www.3dmgame.com/news/202312/3883612.html)
+
++ [《漫威刀锋战士》将是第三人称 开发才刚刚开始](https://www.3dmgame.com/news/202312/3883606.html)
+
