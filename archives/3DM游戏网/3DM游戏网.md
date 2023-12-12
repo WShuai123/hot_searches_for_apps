@@ -225,3 +225,15 @@
 
 + [Epic战胜谷歌赢得反垄断诉讼 谷歌被认定存在垄断行为](https://www.3dmgame.com/news/202312/3883654.html)
 
++ [博主曝懂车帝冬测品牌权益表 品牌合作最高1600万元/席](https://www.3dmgame.com/news/202312/3883664.html)
+
++ [国产飞腾CPU立功 国内首套全国产可信DCS系统成功投运](https://www.3dmgame.com/news/202312/3883665.html)
+
++ [《DayZ》《Rust》官方发文 嘲讽《浩劫前夕》开发商跑路](https://www.3dmgame.com/news/202312/3883663.html)
+
++ [马斯克的AI机器人Grok出现“幻觉”生成虚假误导回应](https://www.3dmgame.com/news/202312/3883662.html)
+
++ [中国驻外大使馆力荐《黑神话：悟空》：沉浸在中国神话中](https://www.3dmgame.com/news/202312/3883661.html)
+
++ [种田游戏《Dragon Shelter》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3883660.html)
+

@@ -127,3 +127,9 @@
 
 + [Intelogos AI](https://www.producthunt.com/posts/intelogos-ai)
 
++ [Recast Studio](https://www.producthunt.com/posts/recast-studio-3)
+
++ [Plant ID & Disease Identifier](https://www.producthunt.com/posts/plant-id-disease-identifier)
+
++ [Queue](https://www.producthunt.com/posts/queue-f848390b-8f2a-400a-9740-5aadee38aa6f)
+

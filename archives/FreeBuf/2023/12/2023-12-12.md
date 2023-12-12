@@ -57,3 +57,7 @@
 
 + [如何使用S4UTomato通过Kerberos将服务账号提权为LocalSystem](https://www.freebuf.com/sectool/384233.html)
 
++ [某企业安全规划实战篇](https://www.freebuf.com/consult/379866.html)
+
++ [马斯克的AI工具Grok套壳ChatGPT？](https://www.freebuf.com/news/386386.html)
+
