@@ -151,3 +151,21 @@
 
 + [《漫威刀锋战士》将是第三人称 开发才刚刚开始](https://www.3dmgame.com/news/202312/3883606.html)
 
++ [传闻：《银河战士Prime4》开发已基本完成](https://www.3dmgame.com/news/202312/3883629.html)
+
++ [禁止尖叫 又一款麦克风必备恐怖探索新游《Shhh!》Steam页面上线](https://www.3dmgame.com/news/202312/3883627.html)
+
++ [《堡垒之夜》新内容“堡垒之夜音乐节”将支持乐器控制](https://www.3dmgame.com/news/202312/3883628.html)
+
++ [麦克演员回应主播愿花百万美元提前玩《GTA6》：给我打钱](https://www.3dmgame.com/news/202312/3883625.html)
+
++ [牌组构建游戏《王国之牌》steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3883626.html)
+
++ [英国销量月榜：《使命召唤》销量下滑刹不住车](https://www.3dmgame.com/news/202312/3883624.html)
+
++ [B社母公司ZeniMax就AI与工会达成协议：绝不伤害员工](https://www.3dmgame.com/news/202312/3883630.html)
+
++ [拉瑞安建议玩家手动更新Xbox 以防止崩溃导致的存档丢失问题](https://www.3dmgame.com/news/202312/3883623.html)
+
++ [《GTA6》黑客威胁出狱后重操旧业 曾攻击并勒索R星](https://www.3dmgame.com/news/202312/3883622.html)
+

@@ -163,3 +163,11 @@
 
 + [Spring Boot中的事务是如何实现的？懂吗？](https://blog.csdn.net/u012889902/article/details/134911601)
 
++ [基于Java+Vue+uniapp微信小程序高校订餐系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/134937490)
+
++ [代理IP的正确打开方式，使用IPIDEA解决性能困境](https://blog.csdn.net/guorui_java/article/details/134839954)
+
++ [人体关键点检测2：Pytorch实现人体关键点检测(人体姿势估计)含训练代码](https://blog.csdn.net/guyuealian/article/details/134837816)
+
++ [如何通过内网穿透工具实现任意浏览器远程访问Linux本地zabbix web管理界面](https://blog.csdn.net/qiuqiushuibx/article/details/134930006)
+

@@ -35,3 +35,5 @@
 
 + [懂车帝重申“冬测”所有项目使用统一测试标准，邀请 AITO、比亚迪等 39 家车企现场观测](https://m.ithome.com/html/738547.htm)
 
++ [苹果发布 iOS / iPadOS 17.2 正式版：引入“手记”应用等](https://m.ithome.com/html/738582.htm)
+
