@@ -49,3 +49,7 @@
 
 + [安全设计 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385850.html)
 
++ [WordPress 插件曝出关键漏洞，导致 5 万个网站遭受 RCE 攻击](https://www.freebuf.com/news/386335.html)
+
++ [丰田公司遭遇美杜莎勒索软件攻击，被索要800万美元赎金](https://www.freebuf.com/news/386320.html)
+

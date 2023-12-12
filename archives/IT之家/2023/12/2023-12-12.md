@@ -37,3 +37,5 @@
 
 + [苹果发布 iOS / iPadOS 17.2 正式版：引入“手记”应用等](https://m.ithome.com/html/738582.htm)
 
++ [消息称华为正邀请梅赛德斯奔驰、奥迪投资其汽车公司，旨在扩大与中国车企以外的合作伙伴关系](https://m.ithome.com/html/738533.htm)
+

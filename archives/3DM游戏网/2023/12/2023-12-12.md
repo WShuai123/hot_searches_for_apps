@@ -169,3 +169,25 @@
 
 + [《GTA6》黑客威胁出狱后重操旧业 曾攻击并勒索R星](https://www.3dmgame.com/news/202312/3883622.html)
 
++ [《博德之门3》Xbox版发布更新 修复存档消失BUG](https://www.3dmgame.com/news/202312/3883639.html)
+
++ [中国汽研与华为签署战略合作协议 涉及汽车技术国产化替代](https://www.3dmgame.com/news/202312/3883640.html)
+
++ [《超级肌肉猫》Steam试玩发布 爆笑2D横版动作新游](https://www.3dmgame.com/news/202312/3883641.html)
+
++ [杰夫·基斯利承认今年TGA上留给获奖感言的时间太少](https://www.3dmgame.com/news/202312/3883635.html)
+
++ [《浩劫前夕》发行商金主发表声明：将确保玩家能退款](https://www.3dmgame.com/news/202312/3883636.html)
+
++ [苹果发布watchOS 10.2正式版 可查看记录健康数据](https://www.3dmgame.com/news/202312/3883637.html)
+
++ [小岛工作室注册多个游戏商标 与新作《OD》有关](https://www.3dmgame.com/news/202312/3883638.html)
+
++ [视觉小说《从Kiss开始的自我主义～EGOISM～》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3883631.html)
+
++ [《俄罗斯方块99》联动《超级马里奥惊奇》12月15日开启](https://www.3dmgame.com/news/202312/3883632.html)
+
++ [《如龙8》娱乐场所介绍：成年人的娱乐让人欲罢不能](https://www.3dmgame.com/news/202312/3883633.html)
+
++ [宝可梦宣布将建设主题公园：“PokéPark Kanto”](https://www.3dmgame.com/news/202312/3883634.html)
+

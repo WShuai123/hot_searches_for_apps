@@ -171,3 +171,11 @@
 
 + [如何通过内网穿透工具实现任意浏览器远程访问Linux本地zabbix web管理界面](https://blog.csdn.net/qiuqiushuibx/article/details/134930006)
 
++ [基于YOLOv8深度学习的血细胞检测与计数系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、深度学习实战、智慧医疗](https://blog.csdn.net/qq_42589613/article/details/134934204)
+
++ [FPGA时序分析与约束（0）——目录与传送门](https://blog.csdn.net/apple_53311083/article/details/134893857)
+
++ [【Windows】MCSM面板搭建Mycraft服务器，实现公网远程联机](https://blog.csdn.net/2301_77485708/article/details/134931251)
+
++ [小米路由器4A千兆版如何刷OpenWRT并使用固定地址远程访问](https://blog.csdn.net/m0_73879806/article/details/134932528)
+
