@@ -43,3 +43,7 @@
 
 + [内网渗透测试 | Kerberos协议及其部分攻击手法](https://www.freebuf.com/articles/network/384457.html)
 
++ [FreeBuf早报 | 导航系统被攻击导致多架飞机偏离航线；欧盟达成《人工智能法案》协议](https://www.freebuf.com/news/386232.html)
+
++ [揭秘Jupyter新变体在近期激增的攻击活动](https://www.freebuf.com/articles/system/385532.html)
+

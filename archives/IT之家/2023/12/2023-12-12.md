@@ -29,3 +29,7 @@
 
 + [努比亚 Z60 Ultra 真机公布：超窄边无开孔全面屏，蓝钻排列](https://m.ithome.com/html/738463.htm)
 
++ [第三方音乐播放 App“歌词适配”永久下架，不再提供服务](https://m.ithome.com/html/738551.htm)
+
++ [荣耀 90 GT 手机现身官方商城：直角中框 + 直屏设计，号称“性能灭霸”](https://m.ithome.com/html/738410.htm)
+

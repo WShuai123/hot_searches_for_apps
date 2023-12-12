@@ -109,3 +109,13 @@
 
 + [《暗喻幻想：ReFantazio》开发人员对谈视频](https://www.3dmgame.com/news/202312/3883599.html)
 
++ [《浩劫前夕》开发商破产关闭 游戏已停售](https://www.3dmgame.com/news/202312/3883604.html)
+
++ [《星空》1.8.88版更新发布 修复若干游戏问题](https://www.3dmgame.com/news/202312/3883605.html)
+
++ [玩家用虚幻5引擎自制《GTA6》大结局](https://www.3dmgame.com/news/202312/3883601.html)
+
++ [《彩虹六号：围攻》推出《黎明杀机》联动内容](https://www.3dmgame.com/news/202312/3883602.html)
+
++ [青沼英二确认塞尔达传说新作仍然是开放世界](https://www.3dmgame.com/news/202312/3883603.html)
+
