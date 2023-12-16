@@ -35,3 +35,5 @@
 
 + [俞敏洪发致歉信：被东方甄选拉黑的网友已全部解除](https://m.ithome.com/html/739695.htm)
 
++ [商汤科技创始人汤晓鸥逝世：享年 55 岁，系中国 AI 领军人物](https://m.ithome.com/html/739701.htm)
+

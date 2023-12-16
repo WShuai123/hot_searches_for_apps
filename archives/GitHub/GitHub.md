@@ -51,3 +51,27 @@
 
 + [dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project)
 
++ [google / generative-ai-swift](https://github.com/google/generative-ai-swift)
+
++ [bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
++ [oxc-project / oxc](https://github.com/oxc-project/oxc)
+
++ [yihong0618 / tg_bot_collections](https://github.com/yihong0618/tg_bot_collections)
+
++ [GoogleCloudPlatform / python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
+
++ [srush / Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [google / generative-ai-docs](https://github.com/google/generative-ai-docs)
+
++ [chatanywhere / GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
+
++ [fastlane / fastlane](https://github.com/fastlane/fastlane)
+
++ [damo-vilab / i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl)
+
++ [google / generative-ai-android](https://github.com/google/generative-ai-android)
+
