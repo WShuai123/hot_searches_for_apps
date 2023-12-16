@@ -101,3 +101,11 @@
 
 + [《一拳超人：世界》1/31发行 登陆PC/移动端](https://www.3dmgame.com/news/202312/3883951.html)
 
++ [独立格斗游戏《Coreupt》新视频展现角色招式](https://www.3dmgame.com/news/202312/3884003.html)
+
++ [Steam 2023冬季特卖公布预告片 12月21日开始](https://www.3dmgame.com/news/202312/3884002.html)
+
++ [新《青之驱魔师》ARPG公布 实机画面曝光](https://www.3dmgame.com/news/202312/3884001.html)
+
++ [《巫师3》次世代版高清化Mod第一版提供下载](https://www.3dmgame.com/news/202312/3884000.html)
+
