@@ -101,3 +101,13 @@
 
 + [Flink+Kafka消费](https://blog.csdn.net/weixin_37862824/article/details/135016578)
 
++ [前端已死？探讨人工智能与低代码对前端的影响](https://blog.csdn.net/u014727709/article/details/134986381)
+
++ [重返CSDN，时隔三个月，我成长了（Python与ChatGPT篇）](https://blog.csdn.net/m0_64122244/article/details/135028366)
+
++ [一文搞懂OSI参考模型与TCP/IP](https://blog.csdn.net/apr15/article/details/134895641)
+
++ [VUE-脚手架搭建](https://blog.csdn.net/xhmico/article/details/133893176)
+
++ [2023 亚马逊云科技 re:Invent 大会探秘：Aurora 无限数据库的突破性应用](https://blog.csdn.net/dietime1943/article/details/134797358)
+

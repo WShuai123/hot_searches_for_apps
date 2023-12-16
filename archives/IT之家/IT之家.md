@@ -29,3 +29,5 @@
 
 + [苹果 iOS 17.2 更新实测，明显遏制 Flipper Zero 攻击 iPhone 效果](https://m.ithome.com/html/739623.htm)
 
++ [美国可控核聚变 4 次点火成功，刷新纪录登 Nature！首席女科学家入选年度十大人物](https://m.ithome.com/html/739722.htm)
+
