@@ -127,3 +127,13 @@
 
 + [《完蛋！我被美女包围了》获Steam杰出剧情游戏提名](https://www.3dmgame.com/news/202312/3883986.html)
 
++ [《THE FINALS》新补丁发布 比赛结束可以看积分板了](https://www.3dmgame.com/news/202312/3883993.html)
+
++ [下月发售 《最后的生还者2：重制版》下载容量曝光](https://www.3dmgame.com/news/202312/3883994.html)
+
++ [字节跳动用ChatGPT训练自家AI？OpenAI封号调查](https://www.3dmgame.com/news/202312/3883992.html)
+
++ [IOS版《死亡搁浅：导演剪辑版》官宣延期 明年年初发售](https://www.3dmgame.com/news/202312/3883991.html)
+
++ [《家园3》遇上“吸血鬼幸存者”：全新肉鸽模式公布](https://www.3dmgame.com/news/202312/3883990.html)
+

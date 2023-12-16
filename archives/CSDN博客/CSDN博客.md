@@ -123,3 +123,11 @@
 
 + [计算机网络：应用层（二） Web与http协议](https://blog.csdn.net/reyas/article/details/134983525)
 
++ [猫头虎博主深度探索：Amazon Q——2023 re:Invent大会的AI革新之星](https://blog.csdn.net/qq_44866828/article/details/134791022)
+
++ [【Spring教程29】Spring框架实战：从零开始学习SpringMVC 之 服务器响应知识全面详解](https://blog.csdn.net/shenchengyv/article/details/135026882)
+
++ [TCP/IP详解——ICMP协议，Ping程序，Traceroute程序，IP源站选路选项](https://blog.csdn.net/weixin_58783105/article/details/134986343)
+
++ [Flink+Kafka消费](https://blog.csdn.net/weixin_37862824/article/details/135016578)
+

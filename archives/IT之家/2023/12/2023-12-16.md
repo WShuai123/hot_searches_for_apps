@@ -31,3 +31,5 @@
 
 + [男性避孕药新进展，YCT-529 在英国进入 1 期临床试验](https://m.ithome.com/html/739636.htm)
 
++ [消息称 iPhone 17 Pro / Max 配备苹果自研 Wi-Fi 7 芯片](https://m.ithome.com/html/739621.htm)
+

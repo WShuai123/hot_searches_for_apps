@@ -67,3 +67,21 @@
 
 + [粉丝竟现场端了碗面条来…他真的我哭死…](http://www.acfun.cn/v/ac43248236)
 
++ [那我长大了还管谁叫爷爷](http://www.acfun.cn/v/ac43243933)
+
++ [历史上最超模的英雄是哪个？韩 服 王 者 就 这？#231](http://www.acfun.cn/v/ac43243824)
+
++ [一顿顶一天！60元吃碗长鱼＋大肉面，算不算南京老字号？](http://www.acfun.cn/v/ac43240820)
+
++ [当我开始唱歌以来积攒的各种废稿黑历史年度大合集](http://www.acfun.cn/v/ac43247072)
+
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千五百五十三期](http://www.acfun.cn/v/ac43248183)
+
++ [下班了，跳个舞！IVE- Baddie【竹熊】KPOP韩舞翻跳](http://www.acfun.cn/v/ac43236084)
+
++ [看着容易，手法要自然也还是蛮难的](http://www.acfun.cn/v/ac43243903)
+
++ [【东方】GOCHA GOCHA Ensemble【ぱらどっと Hi-Tech Fullon】](http://www.acfun.cn/v/ac43244896)
+
++ [乌克兰一男子闯进村委会会议现场引爆多枚手榴弹，至少26人伤](http://www.acfun.cn/v/ac43245691)
+
