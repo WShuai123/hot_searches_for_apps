@@ -67,3 +67,5 @@
 
 + [叶子媚，很少人知道她了！](http://www.acfun.cn/v/ac43248394)
 
++ [【柯基】好听易弹钢琴曲《星空之下 Under the stars》浪漫又治愈](http://www.acfun.cn/v/ac43253365)
+
