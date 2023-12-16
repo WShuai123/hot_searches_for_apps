@@ -23,7 +23,7 @@ if __name__ == "__main__":
     api_data = get_api_data(api_url)
     
     if api_data:
-        for key in list(api_data['result'].keys())[1:-1]:
+        for key in list(api_data['result'].keys())[1:]:
             print(key)
             
             titles = [item["title"] for item in api_data['result']['%s' % key]]
