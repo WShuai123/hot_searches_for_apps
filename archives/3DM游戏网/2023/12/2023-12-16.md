@@ -105,3 +105,11 @@
 
 + [3D风格化解密益智游戏《OCTAMETA》Steam页面上线 12月发售](https://www.3dmgame.com/news/202312/3883977.html)
 
++ [宁德时代神行超充电池获最佳技术奖 31国评委认可](https://www.3dmgame.com/news/202312/3883982.html)
+
++ [银河恶魔城风格新作《Genopanic》发布预告片](https://www.3dmgame.com/news/202312/3883979.html)
+
++ [东方甄选发布官方公告：免去孙东旭CEO职务](https://www.3dmgame.com/news/202312/3883980.html)
+
++ [CRPG新作《主权辛迪加》预告 介绍三位主角之一](https://www.3dmgame.com/news/202312/3883981.html)
+

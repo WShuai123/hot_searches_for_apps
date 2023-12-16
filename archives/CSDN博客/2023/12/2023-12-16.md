@@ -107,3 +107,11 @@
 
 + [Linux服务器开发太麻烦? 试试IntelliJ IDEA公网远程访问开发极大提升开发效率](https://blog.csdn.net/qq_57761637/article/details/135013711)
 
++ [利用机器学习实现客户细分的实战](https://blog.csdn.net/weixin_51390582/article/details/134876951)
+
++ [2024年网络安全（黑客）——自学](https://blog.csdn.net/stopluox/article/details/135025409)
+
++ [差分法详解](https://blog.csdn.net/Tokai___Teio/article/details/135014484)
+
++ [C#动态生成带参数的小程序二维码](https://blog.csdn.net/michaelline/article/details/135016652)
+

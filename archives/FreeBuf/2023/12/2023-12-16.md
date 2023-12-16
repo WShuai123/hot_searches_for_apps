@@ -41,3 +41,5 @@
 
 + [如何使用HBSQLI自动测试基于Header的SQL盲注](https://www.freebuf.com/sectool/384257.html)
 
++ [PathFinder：一款针对Web应用程序的网络侦查和数据收集框架](https://www.freebuf.com/sectool/384266.html)
+
