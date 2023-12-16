@@ -141,3 +141,9 @@
 
 + [华硕发布新款Chromebook 搭载酷睿Ultra U系列处理器](https://www.3dmgame.com/news/202312/3883995.html)
 
++ [《潜行者》风格射击游戏《Pioner》跳票到2024年 12月20日展示新实机](https://www.3dmgame.com/news/202312/3883999.html)
+
++ [《龙之信条2》巫师职业官网战斗演示视频](https://www.3dmgame.com/news/202312/3883998.html)
+
++ [美国法医公布《老友记》男星马修·派瑞死因](https://www.3dmgame.com/news/202312/3883997.html)
+

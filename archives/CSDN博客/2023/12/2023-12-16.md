@@ -143,3 +143,9 @@
 
 + [verilog高级语法-原语-ibuf-obuf-LUT](https://blog.csdn.net/q511951451/article/details/135019928)
 
++ [【人工智能革命】：AIGC时代的到来 | 探索AI生成内容的未来](https://blog.csdn.net/a1657054242/article/details/135034120)
+
++ [前端真的死了吗](https://blog.csdn.net/lele66688888/article/details/134986526)
+
++ [Java医院3D人体智能导诊系统源码 Uniapp+springboot 微信小程序](https://blog.csdn.net/qq_27741787/article/details/135034680)
+

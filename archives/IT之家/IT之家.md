@@ -39,3 +39,5 @@
 
 + [小米平板 5 Pro 12.4 英寸 8+128GB 版价格史低，到手 1627 元](https://m.ithome.com/html/739690.htm)
 
++ [华为新专利获批，提高晶圆对准效率和对准精度](https://m.ithome.com/html/739632.htm)
+
