@@ -131,3 +131,7 @@
 
 + [Flink+Kafka消费](https://blog.csdn.net/weixin_37862824/article/details/135016578)
 
++ [AIGC重塑教育：AI大模型驱动的教育变革与实践](https://blog.csdn.net/m0_68662723/article/details/134995904)
+
++ [华南理工C++试卷](https://blog.csdn.net/2302_79394843/article/details/135023365)
+

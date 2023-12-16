@@ -85,3 +85,19 @@
 
 + [乌克兰一男子闯进村委会会议现场引爆多枚手榴弹，至少26人伤](http://www.acfun.cn/v/ac43245691)
 
++ [有难度但足够好玩！暴躁吐槽《洛克人》系列的伟大开端【受难日08】](http://www.acfun.cn/v/ac43248639)
+
++ [《Walking On A Dream》](http://www.acfun.cn/v/ac43246689)
+
++ [本周STEAM高评价史低游戏大推荐（12月15日-12月22日）](http://www.acfun.cn/v/ac43237535)
+
++ [其实我是一个社恐你信吗](http://www.acfun.cn/v/ac43244825)
+
++ [【年跃龙门】新歌预告（竾颜音）](http://www.acfun.cn/v/ac43250721)
+
++ [好姐妹天天秀#75【预热周六】](http://www.acfun.cn/v/ac43244823)
+
++ [这些清纯的女孩子初吻应该还在吧](http://www.acfun.cn/v/ac43248431)
+
++ [闪电五连鞭，变化莫测](http://www.acfun.cn/v/ac43248339)
+
