@@ -111,3 +111,15 @@
 
 + [2023 亚马逊云科技 re:Invent 大会探秘：Aurora 无限数据库的突破性应用](https://blog.csdn.net/dietime1943/article/details/134797358)
 
++ [【文末送书】拥抱人工智能](https://blog.csdn.net/qq_43471489/article/details/134941528)
+
++ [（1）(1.8) MSP(MultiWii 串行协议)(4.1 版)](https://blog.csdn.net/qq_20016593/article/details/134924689)
+
++ [MySQL运维5-Mycat配置](https://blog.csdn.net/sdgfafg_25/article/details/135009353)
+
++ [深入理解网络 I/O：单 Selector 多线程｜单线程模型](https://blog.csdn.net/vnjohn/article/details/134984999)
+
++ [Linux：进程概念](https://blog.csdn.net/li209779/article/details/135032482)
+
++ [外包干了一个月，技术明显进步。。。。。](https://blog.csdn.net/2301_79535733/article/details/135020149)
+
