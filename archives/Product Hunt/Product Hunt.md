@@ -101,3 +101,7 @@
 
 + [Altern](https://www.producthunt.com/posts/altern)
 
++ [My AskAI](https://www.producthunt.com/posts/my-askai-2)
+
++ [GradesAI](https://www.producthunt.com/posts/gradesai)
+

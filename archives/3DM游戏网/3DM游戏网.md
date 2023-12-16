@@ -101,3 +101,7 @@
 
 + [雷诺兹再次与《死侍3》导演合作 拍摄网飞新片](https://www.3dmgame.com/news/202312/3883927.html)
 
++ [《DOTA2》小号“淘气名单”：圣诞礼物煤块和封禁](https://www.3dmgame.com/news/202312/3883978.html)
+
++ [3D风格化解密益智游戏《OCTAMETA》Steam页面上线 12月发售](https://www.3dmgame.com/news/202312/3883977.html)
+
