@@ -119,3 +119,15 @@
 
 + [Vuala 1.0](https://www.producthunt.com/posts/vuala-1-0)
 
++ [GrowEasy](https://www.producthunt.com/posts/groweasy)
+
++ [Username Generator](https://www.producthunt.com/posts/username-generator)
+
++ [Siena AI](https://www.producthunt.com/posts/siena-ai)
+
++ [PromptMule](https://www.producthunt.com/posts/promptmule)
+
++ [TryHairstyle.com](https://www.producthunt.com/posts/tryhairstyle-com)
+
++ [Snoooz](https://www.producthunt.com/posts/snoooz)
+

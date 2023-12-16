@@ -119,3 +119,11 @@
 
 + [《最后的生还者多人版》取消反而获得玩家叫好](https://www.3dmgame.com/news/202312/3883983.html)
 
++ [《阿凡达：潘多拉边境》发布更新档 优化PC版性能](https://www.3dmgame.com/news/202312/3883989.html)
+
++ [实施《在线安全法案》后 英国政府拟进一步限制16岁以下用社交媒体](https://www.3dmgame.com/news/202312/3883987.html)
+
++ [杰森·莫玛或无法继续饰演海王：不太看好可能性](https://www.3dmgame.com/news/202312/3883988.html)
+
++ [《完蛋！我被美女包围了》获Steam杰出剧情游戏提名](https://www.3dmgame.com/news/202312/3883986.html)
+
