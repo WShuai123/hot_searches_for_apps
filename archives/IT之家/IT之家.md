@@ -25,3 +25,7 @@
 
 + [立减 1700 元：三星 S23 手机京东百亿补贴 3456 元清仓（上市 5199 元）](https://m.ithome.com/html/739661.htm)
 
++ [会降低电池寿命，苹果提醒用户不要使用未认证的 Apple Watch 充电器](https://m.ithome.com/html/739618.htm)
+
++ [苹果 iOS 17.2 更新实测，明显遏制 Flipper Zero 攻击 iPhone 效果](https://m.ithome.com/html/739623.htm)
+

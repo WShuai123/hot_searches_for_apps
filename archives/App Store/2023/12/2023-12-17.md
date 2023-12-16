@@ -201,3 +201,9 @@
 
 + [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
 
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [乐播投屏 - 亿万用户选择的无线投屏助手](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
