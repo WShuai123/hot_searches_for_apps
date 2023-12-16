@@ -137,3 +137,7 @@
 
 + [《家园3》遇上“吸血鬼幸存者”：全新肉鸽模式公布](https://www.3dmgame.com/news/202312/3883990.html)
 
++ [《星空》入围2023年Steam“最具创意游戏玩法”大奖提名](https://www.3dmgame.com/news/202312/3883996.html)
+
++ [华硕发布新款Chromebook 搭载酷睿Ultra U系列处理器](https://www.3dmgame.com/news/202312/3883995.html)
+

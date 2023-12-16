@@ -37,3 +37,5 @@
 
 + [商汤科技创始人汤晓鸥逝世：享年 55 岁，系中国 AI 领军人物](https://m.ithome.com/html/739701.htm)
 
++ [小米平板 5 Pro 12.4 英寸 8+128GB 版价格史低，到手 1627 元](https://m.ithome.com/html/739690.htm)
+

@@ -141,3 +141,5 @@
 
 + [VUE-脚手架搭建](https://blog.csdn.net/xhmico/article/details/133893176)
 
++ [verilog高级语法-原语-ibuf-obuf-LUT](https://blog.csdn.net/q511951451/article/details/135019928)
+
