@@ -7,9 +7,9 @@
 获取到的热搜以markdown的形式保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
 
 ### 更新日志：
-
-+ 2023-12-15：使用的第三方api出现故障无法访问，所以打算自己写api。额外没那么多时间，所以可能会慢点，api也会开源：<https://github.com/WShuai123/api_for_hot_searchs>
-+ 2023-10-22： 过滤各平台当天的重复热搜，合并为一个文件夹,改为每1小时运行一次。
++ 2023-12-16: 教书先生api恢复。
++ 2023-12-15: 使用的第三方api出现故障无法访问，所以打算自己写api。额外没那么多时间，所以可能会慢点，api也会开源：<https://github.com/WShuai123/api_for_hot_searchs>
++ 2023-10-22: 过滤各平台当天的重复热搜，合并为一个文件夹,改为每1小时运行一次。
 
 ### 感谢[教书先生](https://api.oioweb.cn/)的api
 
