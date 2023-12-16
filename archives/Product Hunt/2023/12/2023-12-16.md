@@ -131,3 +131,7 @@
 
 + [Snoooz](https://www.producthunt.com/posts/snoooz)
 
++ [YouTube Music Loop](https://www.producthunt.com/posts/youtube-music-loop)
+
++ [ShadowLens](https://www.producthunt.com/posts/shadowlens)
+

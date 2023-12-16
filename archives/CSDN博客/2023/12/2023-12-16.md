@@ -149,3 +149,7 @@
 
 + [Java医院3D人体智能导诊系统源码 Uniapp+springboot 微信小程序](https://blog.csdn.net/qq_27741787/article/details/135034680)
 
++ [AI智能化办公：ChatGPT使用方法与技巧](https://blog.csdn.net/xqe777/article/details/134880253)
+
++ [【FPGA】Verilog：解码器 | 实现 2-4 解码器](https://blog.csdn.net/weixin_50502862/article/details/135024478)
+
