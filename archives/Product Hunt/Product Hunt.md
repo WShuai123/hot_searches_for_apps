@@ -111,3 +111,11 @@
 
 + [Aiva Women's Tracker](https://www.producthunt.com/posts/aiva-women-s-tracker)
 
++ [Apple Self Service Repair](https://www.producthunt.com/posts/apple-self-service-repair)
+
++ [Captions for photos: Captioned](https://www.producthunt.com/posts/captions-for-photos-captioned)
+
++ [250+ Trends for 2024](https://www.producthunt.com/posts/250-trends-for-2024)
+
++ [Vuala 1.0](https://www.producthunt.com/posts/vuala-1-0)
+

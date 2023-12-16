@@ -113,3 +113,9 @@
 
 + [CRPG新作《主权辛迪加》预告 介绍三位主角之一](https://www.3dmgame.com/news/202312/3883981.html)
 
++ [《博德之门3》海量结局花费超过一年时间打造](https://www.3dmgame.com/news/202312/3883985.html)
+
++ [小岛秀夫回顾工作室成立8年 感谢玩家们的支持](https://www.3dmgame.com/news/202312/3883984.html)
+
++ [《最后的生还者多人版》取消反而获得玩家叫好](https://www.3dmgame.com/news/202312/3883983.html)
+
