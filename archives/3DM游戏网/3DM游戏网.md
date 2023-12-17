@@ -171,3 +171,13 @@
 
 + [《功夫熊猫4》预告首日1.42亿次播放 或是新三部曲开端](https://www.3dmgame.com/news/202312/3884034.html)
 
++ [《DOTA2》ESL One吉隆坡站 中国队AR让二追三夺冠](https://www.3dmgame.com/news/202312/3884039.html)
+
++ [宫崎骏经典电影《红猪》延长上映至2024年1月](https://www.3dmgame.com/news/202312/3884038.html)
+
++ [联发科赢得苹果Wi-Fi芯片订单 最早2025年供应Apple TV使用](https://www.3dmgame.com/news/202312/3884037.html)
+
++ [《海贼王》动画将从东海篇重启 霸权社制作](https://www.3dmgame.com/news/202312/3884036.html)
+
++ [《漫威刀锋战士》继续采用Void引擎 而非虚幻](https://www.3dmgame.com/news/202312/3884035.html)
+
