@@ -109,3 +109,13 @@
 
 + [《巫师3》次世代版高清化Mod第一版提供下载](https://www.3dmgame.com/news/202312/3884000.html)
 
++ [《全职猎人》正统对战新游确定制作 明年1月公布详情](https://www.3dmgame.com/news/202312/3884008.html)
+
++ [《博德之门3》已经是Xbox平台最畅销的游戏](https://www.3dmgame.com/news/202312/3884007.html)
+
++ [《Station 5》Steam页面上线 仿八番出口惊悚解谜](https://www.3dmgame.com/news/202312/3884006.html)
+
++ [索尼新专利 可根据玩家水平实时调整游戏难度](https://www.3dmgame.com/news/202312/3884005.html)
+
++ [《星球大战》系列电影现已正式上线B站](https://www.3dmgame.com/news/202312/3884004.html)
+
