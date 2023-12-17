@@ -51,3 +51,37 @@
 
 + [krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 
++ [anoma / namada](https://github.com/anoma/namada)
+
++ [openai / weak-to-strong](https://github.com/openai/weak-to-strong)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [vectorisvector / Polaris](https://github.com/vectorisvector/Polaris)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [ordinals / ord](https://github.com/ordinals/ord)
+
++ [adrianhajdin / event_platform](https://github.com/adrianhajdin/event_platform)
+
++ [bytebase / bytebase](https://github.com/bytebase/bytebase)
+
++ [zulip / zulip](https://github.com/zulip/zulip)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [robotics-survey / Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
+
++ [google-deepmind / funsearch](https://github.com/google-deepmind/funsearch)
+
++ [Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23)
+
++ [HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources)
+
++ [iv-org / invidious](https://github.com/iv-org/invidious)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
++ [pheralb / svgl](https://github.com/pheralb/svgl)
+
