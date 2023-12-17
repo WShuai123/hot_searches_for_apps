@@ -105,3 +105,23 @@
 
 + [HNU-计算机网络-实验3-应用层和传输层协议分析（PacketTracer）](https://blog.csdn.net/qq_39480177/article/details/135035624)
 
++ [60道KafKa高频题整理（附答案背诵版）](https://blog.csdn.net/m0_37907797/article/details/135051802)
+
++ [MySQL数据库存储](https://blog.csdn.net/qq_37755459/article/details/134880197)
+
++ [记一次挖矿病毒的溯源](https://blog.csdn.net/qq_38154820/article/details/135019556)
+
++ [使用Axure RP结合内网穿透工具制作本地静态web页面并实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/135016752)
+
++ [HarmonyOS给应用添加消息通知](https://blog.csdn.net/2301_81624474/article/details/135034792)
+
++ [微信小程序置顶导航，替代原生导航栏](https://blog.csdn.net/yu502586512/article/details/135033987)
+
++ [软件设计师——计算机网络（三）](https://blog.csdn.net/weixin_61494821/article/details/135035955)
+
++ [外包干了3个月，技术退步明显。。。](https://blog.csdn.net/2301_77645573/article/details/135038574)
+
++ [【数学建模】《实战数学建模：例题与讲解》第十四讲-模拟退火、遗传算法（含Matlab代码）](https://blog.csdn.net/zhushatong/article/details/135031660)
+
++ [Electron框架：构建跨平台桌面应用的终极解决方案](https://blog.csdn.net/qq_32682301/article/details/134695881)
+
