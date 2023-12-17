@@ -201,3 +201,9 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [网易大神-上大神轻松找玩伴](https://itunes.apple.com/cn/app/id1359055423?mt=8)
+
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
