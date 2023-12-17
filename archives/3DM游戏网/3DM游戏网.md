@@ -149,3 +149,7 @@
 
 + [多人生存名作《腐蚀》10周年纪念 多平台半价促销](https://www.3dmgame.com/news/202312/3884023.html)
 
++ [黑暗系名作《链锯人》最新剧场版先导海报预告公开](https://www.3dmgame.com/news/202312/3884025.html)
+
++ [平台游戏新作《浣熊大冒险》发售 上市宣传片赏](https://www.3dmgame.com/news/202312/3884024.html)
+
