@@ -127,3 +127,11 @@
 
 + [深入理解网络 I/O：单 Group 混杂模式｜多 Group 主从模式](https://blog.csdn.net/vnjohn/article/details/135033250)
 
++ [AI人工智能课题：交通场景文字识别系统的设计与实现（基于百度智能云AI接口）](https://blog.csdn.net/u013818205/article/details/134979124)
+
++ [【送书活动】智能汽车、自动驾驶、车联网的发展趋势和关键技术](https://blog.csdn.net/u014727709/article/details/134941510)
+
++ [云原生之深入解析使用Telepresence轻松在本地调试和开发Kubernetes应用程序](https://blog.csdn.net/Forever_wj/article/details/135035237)
+
++ [springboot中的一些重要的注解](https://blog.csdn.net/m0_54140659/article/details/135012439)
+

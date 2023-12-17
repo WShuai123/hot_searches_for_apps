@@ -119,3 +119,9 @@
 
 + [《星球大战》系列电影现已正式上线B站](https://www.3dmgame.com/news/202312/3884004.html)
 
++ [AMD公布FSR 3未来支持游戏 《黑神话》《赛博朋克2077》在列](https://www.3dmgame.com/news/202312/3884009.html)
+
++ [罗永浩点评东方甄选：分析一下这事到底有多荒唐](https://www.3dmgame.com/news/202312/3884010.html)
+
++ [城市建设《工人与资源：苏维埃共和国》2024年正式推出](https://www.3dmgame.com/news/202312/3884011.html)
+
