@@ -123,3 +123,7 @@
 
 + [外包干了一个月，技术明显进步。。。。。](https://blog.csdn.net/2301_79535733/article/details/135020149)
 
++ [【腾讯云HAI域探秘】“赋予艺术生命：通过腾讯云HAI和MagicAnimate呈现动态蒙娜丽莎“](https://blog.csdn.net/qq_33681891/article/details/134992932)
+
++ [深入理解网络 I/O：单 Group 混杂模式｜多 Group 主从模式](https://blog.csdn.net/vnjohn/article/details/135033250)
+

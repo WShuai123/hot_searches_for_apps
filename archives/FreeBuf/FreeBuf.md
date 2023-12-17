@@ -41,3 +41,7 @@
 
 + [漏洞预警！Apache Struts 2曝出远程代码执行漏洞](https://www.freebuf.com/news/386423.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/articles/386806.html)
+
++ [对某登录站点的JS前端逆向思路](https://www.freebuf.com/articles/web/385280.html)
+
