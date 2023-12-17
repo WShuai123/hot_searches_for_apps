@@ -147,3 +147,5 @@
 
 + [Win11今年被微软弃用功能达16项 Cortana助手没了](https://www.3dmgame.com/news/202312/3884020.html)
 
++ [多人生存名作《腐蚀》10周年纪念 多平台半价促销](https://www.3dmgame.com/news/202312/3884023.html)
+

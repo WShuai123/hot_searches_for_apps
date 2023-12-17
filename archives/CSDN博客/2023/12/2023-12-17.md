@@ -145,3 +145,13 @@
 
 + [Azure Machine Learning - 提示工程简介](https://blog.csdn.net/magicyangjay111/article/details/135041392)
 
++ [【MyBatis-Plus】MyBatis进阶使用](https://blog.csdn.net/Justw320/article/details/135029138)
+
++ [医疗智能化革命：AI技术引领医疗领域的创新进程](https://blog.csdn.net/jkoij23/article/details/135025083)
+
++ [【机器学习】应用KNN实现鸢尾花种类预测](https://blog.csdn.net/m0_71369515/article/details/135041547)
+
++ [【网络安全】网络防护之旅 - 点燃网络安全战场的数字签名烟火](https://blog.csdn.net/m0_57532432/article/details/134877344)
+
++ [开源云原生网关Linux Traefik本地部署结合内网穿透远程访问](https://blog.csdn.net/qq_72916130/article/details/135001859)
+

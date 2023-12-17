@@ -101,3 +101,5 @@
 
 + [Altern](https://www.producthunt.com/posts/altern)
 
++ [Snoooz AI](https://www.producthunt.com/posts/snoooz-ai)
+

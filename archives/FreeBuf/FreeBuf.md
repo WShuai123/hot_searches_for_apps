@@ -49,3 +49,5 @@
 
 + [BOOMSLANG（树蚺）移动欺诈家族分析](https://www.freebuf.com/articles/endpoint/385752.html)
 
++ [如何使用Facad1ng隐藏真实的URL地址](https://www.freebuf.com/sectool/384278.html)
+
