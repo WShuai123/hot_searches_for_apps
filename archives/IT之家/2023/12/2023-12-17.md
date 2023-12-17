@@ -59,3 +59,9 @@
 
 + [联发科坚持激进路线，消息称天玑 9400 依旧采用全大核架构](https://m.ithome.com/html/739748.htm)
 
++ [美国最荒诞的新闻都被塞进了 GTA6，甚至还被索赔百万美元](https://m.ithome.com/html/739772.htm)
+
++ [微软 Win11 淘汰旧版控制台模式，未来将不再默认提供](https://m.ithome.com/html/739751.htm)
+
++ [失踪一年之久，太空西红柿重现国际空间站](https://m.ithome.com/html/739778.htm)
+

@@ -189,3 +189,7 @@
 
 + [Qt/C++音视频开发60-坐标拾取/按下鼠标获取矩形区域/转换到视频源真实坐标](https://blog.csdn.net/feiyangqingyun/article/details/135041561)
 
++ [python钟表手表电商销售数据可视化和商品推荐系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/134979615)
+
++ [网络安全—学习溯源和日志分析](https://blog.csdn.net/m0_69801663/article/details/134974956)
+
