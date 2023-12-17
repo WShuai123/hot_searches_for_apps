@@ -101,3 +101,11 @@
 
 + [《家园3》遇上“吸血鬼幸存者”：全新肉鸽模式公布](https://www.3dmgame.com/news/202312/3883990.html)
 
++ [《查尔斯小火车》NS版预告 明年1月18日发售](https://www.3dmgame.com/news/202312/3884043.html)
+
++ [AMD挖矿更疯狂！索尼PS5处理器、12卡192GB显存](https://www.3dmgame.com/news/202312/3884040.html)
+
++ [热度不减！《GTA6》预告播放量破1.5亿](https://www.3dmgame.com/news/202312/3884041.html)
+
++ [外媒评选今年最好的30款游戏 《心灵杀手2》等](https://www.3dmgame.com/news/202312/3884042.html)
+
