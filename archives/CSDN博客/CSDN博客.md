@@ -161,3 +161,11 @@
 
 + [软件设计师——计算机网络（三）](https://blog.csdn.net/weixin_61494821/article/details/135035955)
 
++ [【DataSophon】大数据服务组件之Flink升级](https://blog.csdn.net/qq_35995514/article/details/135031780)
+
++ [阿里 P7 三面凉凉，kafka Borker 日志持久化没答上来](https://blog.csdn.net/qq_40915439/article/details/135039857)
+
++ [7个精选的矢量数据库和搜索引擎项目](https://blog.csdn.net/kaszxc/article/details/135035077)
+
++ [【腾讯云 HAI 域探秘】10 分钟构建一个多音色控制的 TTS 引擎](https://blog.csdn.net/2301_79531419/article/details/134996664)
+
