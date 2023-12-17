@@ -115,3 +115,9 @@
 
 + [2023点12月第2周碉堡傻缺视频合辑](http://www.acfun.cn/v/ac43257010)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千五百五十四期](http://www.acfun.cn/v/ac43257515)
+
++ [萌宠集合，这才是猛男该看的！ 第三百五十五期](http://www.acfun.cn/v/ac43255084)
+
++ [帕洛蒂 - Conqueror](http://www.acfun.cn/v/ac43250399)
+

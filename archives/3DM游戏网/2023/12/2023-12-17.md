@@ -163,3 +163,9 @@
 
 + [《星之海》开发商宣布删除游戏中的争议角色](https://www.3dmgame.com/news/202312/3884029.html)
 
++ [《茶杯头》开发商发布招聘广告 或为系列续作做准备](https://www.3dmgame.com/news/202312/3884033.html)
+
++ [迷宫探索RPG《Metro Quester》登陆多平台  萩原一至原案设计](https://www.3dmgame.com/news/202312/3884032.html)
+
++ [世嘉经典IP复活计划野心勃勃 再次提交八款商标注册](https://www.3dmgame.com/news/202312/3884031.html)
+

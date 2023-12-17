@@ -55,3 +55,7 @@
 
 + [iPhone 15 Pro Max 至高立减 1100 元：京东自营苹果限时狂促](https://m.ithome.com/html/739765.htm)
 
++ [英伟达部分员工“躺平”，CEO 黄仁勋全体例会上喊话](https://m.ithome.com/html/739757.htm)
+
++ [联发科坚持激进路线，消息称天玑 9400 依旧采用全大核架构](https://m.ithome.com/html/739748.htm)
+
