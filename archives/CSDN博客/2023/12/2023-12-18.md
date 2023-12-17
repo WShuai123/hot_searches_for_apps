@@ -101,3 +101,7 @@
 
 + [【腾讯云HAI域探秘】使用LCM-LORA助力炼丹师极速出丹](https://blog.csdn.net/Lisas_ss/article/details/135018359)
 
++ [AI人工智能课题：财务票据文字识别系统的设计与实现（基于百度智能云AI接口）](https://blog.csdn.net/u013818205/article/details/134979885)
+
++ [HNU-计算机网络-实验3-应用层和传输层协议分析（PacketTracer）](https://blog.csdn.net/qq_39480177/article/details/135035624)
+
