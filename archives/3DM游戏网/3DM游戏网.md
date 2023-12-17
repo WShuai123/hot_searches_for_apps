@@ -139,3 +139,11 @@
 
 + [《上古卷轴5：重制版》新MOD加入高品质体积雾](https://www.3dmgame.com/news/202312/3884012.html)
 
++ [《浪客剑心》动画第二季《京都动乱》确定制作 新预告公开](https://www.3dmgame.com/news/202312/3884021.html)
+
++ [《波西·杰克逊》主演：不确定自己是否想扮演林克](https://www.3dmgame.com/news/202312/3884022.html)
+
++ [全新任务外加全新奖励 《Hawked》圣诞节活动上线](https://www.3dmgame.com/news/202312/3884019.html)
+
++ [Win11今年被微软弃用功能达16项 Cortana助手没了](https://www.3dmgame.com/news/202312/3884020.html)
+

@@ -45,3 +45,9 @@
 
 + [《变形金刚》大黄蜂原型车：最后一辆雪佛兰科迈罗下线，宣告停产](https://m.ithome.com/html/739669.htm)
 
++ [蔚来李斌：建议各大车企 CEO 亲自测试自家电动车真实续航](https://m.ithome.com/html/739756.htm)
+
++ [魅族 21 Pro 手机入网：高管曾称定价可能达 6000 元级，仍在规划阶段](https://m.ithome.com/html/739747.htm)
+
++ [电车们还在掐架，氢能车就要来了？](https://m.ithome.com/html/739721.htm)
+

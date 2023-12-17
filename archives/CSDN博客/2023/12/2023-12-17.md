@@ -139,3 +139,9 @@
 
 + [CAN 五: CAN编程实践](https://blog.csdn.net/weixin_42727214/article/details/135030325)
 
++ [ChatGPT与PowerPoint：AI高效PPT创作、VAB代码](https://blog.csdn.net/wtyuong/article/details/135037160)
+
++ [ChatGPT对话为什么不用WebSocket而使用EventSource？](https://blog.csdn.net/qq_43546721/article/details/135012848)
+
++ [Azure Machine Learning - 提示工程简介](https://blog.csdn.net/magicyangjay111/article/details/135041392)
+
