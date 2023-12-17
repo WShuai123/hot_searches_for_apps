@@ -125,3 +125,5 @@
 
 + [Electron框架：构建跨平台桌面应用的终极解决方案](https://blog.csdn.net/qq_32682301/article/details/134695881)
 
++ [探索泰勒级数在机器学习中的作用：从函数逼近到模型优化](https://blog.csdn.net/gongdiwudu/article/details/135030399)
+
