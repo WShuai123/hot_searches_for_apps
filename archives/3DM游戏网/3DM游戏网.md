@@ -125,3 +125,17 @@
 
 + [城市建设《工人与资源：苏维埃共和国》2024年正式推出](https://www.3dmgame.com/news/202312/3884011.html)
 
++ [策略新作《纵横七海：船运世界》发售 上市宣传片赏](https://www.3dmgame.com/news/202312/3884017.html)
+
++ [《战争附言》更新上线改名《Squad 44》二战FPS经典游戏](https://www.3dmgame.com/news/202312/3884018.html)
+
++ [贝索斯称人类数量依然太少 希望有1万亿生活在太阳系](https://www.3dmgame.com/news/202312/3884016.html)
+
++ [农场模拟作品《萌芽谷》冬季更新档预告片发布](https://www.3dmgame.com/news/202312/3884015.html)
+
++ [上市六年半之后《子弹风暴：完全版》销量突破百万套](https://www.3dmgame.com/news/202312/3884014.html)
+
++ [《东方夜雀食堂》2024年5月2日登陆Switch 酒馆经营](https://www.3dmgame.com/news/202312/3884013.html)
+
++ [《上古卷轴5：重制版》新MOD加入高品质体积雾](https://www.3dmgame.com/news/202312/3884012.html)
+
