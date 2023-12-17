@@ -193,3 +193,7 @@
 
 + [网络安全—学习溯源和日志分析](https://blog.csdn.net/m0_69801663/article/details/134974956)
 
++ [使用LM Studio在本地运行LLM完整教程](https://blog.csdn.net/m0_46510245/article/details/135041760)
+
++ [[SECURITY] Use HTTPS to resolve dependencies in Maven Build](https://blog.csdn.net/moshowgame/article/details/135044201)
+

@@ -65,3 +65,5 @@
 
 + [失踪一年之久，太空西红柿重现国际空间站](https://m.ithome.com/html/739778.htm)
 
++ [蔚来汽车 CEO 李斌确认：全新行政旗舰轿车 ET9 将在今年 NIO Day 亮相](https://m.ithome.com/html/739786.htm)
+
