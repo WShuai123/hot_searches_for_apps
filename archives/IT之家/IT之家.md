@@ -47,3 +47,5 @@
 
 + [比亚迪仰望 U8 配置调整，方向盘升级为实体按键](https://m.ithome.com/html/739904.htm)
 
++ [小米米家智能电热毯上架：双区独立温控，众筹价 189 元](https://m.ithome.com/html/739883.htm)
+

@@ -119,3 +119,15 @@
 
 + [Link to QR](https://www.producthunt.com/posts/link-to-qr-2)
 
++ [CapGo.AI](https://www.producthunt.com/posts/capgo-ai)
+
++ [Neexa AI](https://www.producthunt.com/posts/neexa-ai)
+
++ [App-Logs](https://www.producthunt.com/posts/app-logs)
+
++ [Smashing Docs](https://www.producthunt.com/posts/smashing-docs)
+
++ [Splitser](https://www.producthunt.com/posts/splitser)
+
++ [ChainDon](https://www.producthunt.com/posts/chaindon)
+
