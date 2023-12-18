@@ -131,3 +131,17 @@
 
 + [ChainDon](https://www.producthunt.com/posts/chaindon)
 
++ [Pixplain by Merlin AI](https://www.producthunt.com/posts/pixplain-by-merlin-ai)
+
++ [Lithium - The People's Sense](https://www.producthunt.com/posts/lithium-the-people-s-sense)
+
++ [Advanced Columns](https://www.producthunt.com/posts/advanced-columns)
+
++ [Floowi](https://www.producthunt.com/posts/floowi)
+
++ [CopyNinja - AI Copywriter for Shopify](https://www.producthunt.com/posts/copyninja-ai-copywriter-for-shopify)
+
++ [storyflash Audio Suite](https://www.producthunt.com/posts/storyflash-audio-suite)
+
++ [IXI Screen Recorder](https://www.producthunt.com/posts/ixi-screen-recorder)
+

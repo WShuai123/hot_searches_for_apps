@@ -199,3 +199,25 @@
 
 + [原生，启动！米哈游与华为达成合作 将开发鸿蒙原生应用](https://www.3dmgame.com/news/202312/3884083.html)
 
++ [《少女理论及其周边》现已上线Steam](https://www.3dmgame.com/news/202312/3884094.html)
+
++ [前《死或生》制作人新堀洋平加入万代南梦宫 参与《铁拳8》开发](https://www.3dmgame.com/news/202312/3884095.html)
+
++ [《SKATERWITCH》PC平台免费发布 3D小清新动作新游](https://www.3dmgame.com/news/202312/3884096.html)
+
++ [雷军回应小米对标iPhone原因：敢比我们就走出了第一步](https://www.3dmgame.com/news/202312/3884097.html)
+
++ [趋势及潜力报告：国内收入创新高，但明年挑战更大](https://www.3dmgame.com/news/202312/3884098.html)
+
++ [李彦宏：大公司代表落后生产力 千万不要看大公司在干嘛](https://www.3dmgame.com/news/202312/3884099.html)
+
++ [小米SU7实车谍照曝光 电动尾翼造型酷炫](https://www.3dmgame.com/news/202312/3884089.html)
+
++ [R星办公室清洁工声称《GTA6》发售日期为2025年9月](https://www.3dmgame.com/news/202312/3884090.html)
+
++ [丰田章男：电动车是“低级产品” 不算新能源要抵制到底](https://www.3dmgame.com/news/202312/3884091.html)
+
++ [马斯克：石油和天然气不应被妖魔化 鼓励大家多生孩子](https://www.3dmgame.com/news/202312/3884092.html)
+
++ [韩国课堂出现《黑神话》预告 教授称是他最期待的游戏](https://www.3dmgame.com/news/202312/3884093.html)
+

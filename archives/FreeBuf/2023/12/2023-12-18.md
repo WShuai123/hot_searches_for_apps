@@ -63,3 +63,5 @@
 
 + [“2023年度安全总结”主题征稿来啦](https://www.freebuf.com/fevents/386635.html)
 
++ [中央网信工作指导 | 《关于防治“指尖上的形式主义”的若干意见》发布！](https://www.freebuf.com/news/386947.html)
+
