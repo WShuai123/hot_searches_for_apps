@@ -237,3 +237,5 @@
 
 + [三上真司表示没有兴趣再制作《生化危机》系列](https://www.3dmgame.com/news/202312/3884107.html)
 
++ [机械革命imini Pro迷你PC上市 搭载酷睿Ultra 5 125H](https://www.3dmgame.com/news/202312/3884108.html)
+
