@@ -203,3 +203,13 @@
 
 + [微服务Redis-Session共享登录状态](https://blog.csdn.net/qq_36602951/article/details/135050364)
 
++ [如何在本地Docker中部署MinIO服务并实现远程访问管理界面](https://blog.csdn.net/asdssadddd/article/details/135062159)
+
++ [2023年中国法拍房用户画像和数据分析](https://blog.csdn.net/fulk6667g78o8/article/details/135038111)
+
++ [Dell PowerEdge T440 故障查询](https://blog.csdn.net/LangDaoShiJie/article/details/135057131)
+
++ [Elasticsearch：相关性工作台 - BM25 及 ELSER 的相关性比较](https://blog.csdn.net/UbuntuTouch/article/details/134996849)
+
++ [Jenkins打包、发布、部署](https://blog.csdn.net/qwerrwqe/article/details/130516377)
+

@@ -51,3 +51,29 @@
 
 + [jmorganca / ollama](https://github.com/jmorganca/ollama)
 
++ [microsoft / Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+
++ [DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
++ [chatanywhere / GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
+
++ [Card-Forge / forge](https://github.com/Card-Forge/forge)
+
++ [kwsch / PKHeX](https://github.com/kwsch/PKHeX)
+
++ [google / generative-ai-docs](https://github.com/google/generative-ai-docs)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
+
++ [mpv-player / mpv](https://github.com/mpv-player/mpv)
+
++ [hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+

@@ -221,3 +221,15 @@
 
 + [韩国课堂出现《黑神话》预告 教授称是他最期待的游戏](https://www.3dmgame.com/news/202312/3884093.html)
 
++ [英伟达敲定RTX 4090 D发布时间 本月28日晚上10点](https://www.3dmgame.com/news/202312/3884106.html)
+
++ [现在你可以在所有支持DLSS3的游戏中启用FSR 3](https://www.3dmgame.com/news/202312/3884104.html)
+
++ [虽然《最后的生还者OL》取消了但是开发者很自豪](https://www.3dmgame.com/news/202312/3884103.html)
+
++ [螃蟹游戏服务成都AIG漫展完美收官，创意与实力共舞！](https://www.3dmgame.com/news/202312/3884102.html)
+
++ [趋势论坛：4000+亿市场如何挖掘增量？小游戏、出海等领域有机会](https://www.3dmgame.com/news/202312/3884101.html)
+
++ [2023未保进展报告：游戏偏好位居第六，未成年消费进一步降低](https://www.3dmgame.com/news/202312/3884100.html)
+

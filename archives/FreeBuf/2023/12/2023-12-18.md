@@ -65,3 +65,5 @@
 
 + [中央网信工作指导 | 《关于防治“指尖上的形式主义”的若干意见》发布！](https://www.freebuf.com/news/386947.html)
 
++ [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
+
