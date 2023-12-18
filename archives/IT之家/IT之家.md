@@ -35,3 +35,7 @@
 
 + [消息称任天堂 Switch2 游戏更贵，将达 70 美元](https://m.ithome.com/html/739808.htm)
 
++ [原生，启动！米哈游与华为官宣合作，将开发“纯血鸿蒙”游戏](https://m.ithome.com/html/739876.htm)
+
++ [华为官宣 nova 12 系列手机即将加入先锋计划，12 月 26 日亮相](https://m.ithome.com/html/739867.htm)
+

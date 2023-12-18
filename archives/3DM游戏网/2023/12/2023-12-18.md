@@ -159,3 +159,17 @@
 
 + [《潜行者2》成就出现在Steam上 明年2月15日发售？](https://www.3dmgame.com/news/202312/3884060.html)
 
++ [《SCP: The Expedition》招募测试 俯视角战术游戏](https://www.3dmgame.com/news/202312/3884073.html)
+
++ [《战地 2042》将于2024年3月推出第7赛季](https://www.3dmgame.com/news/202312/3884074.html)
+
++ [莫问路在何方，荡尽妖魔便是路！《西游志：山海战纪》今日正式发售](https://www.3dmgame.com/news/202312/3884075.html)
+
++ [《妮姬：胜利女神》开发商给所有员工发放5万多元奖励](https://www.3dmgame.com/news/202312/3884069.html)
+
++ [因裁员而消亡的游戏 前开发人员分享《时空分裂者》新作概念艺术图](https://www.3dmgame.com/news/202312/3884070.html)
+
++ [《杀死公主》宣布推出“原始剪辑版” 2024年免费更新](https://www.3dmgame.com/news/202312/3884071.html)
+
++ [小米第一辆车3400名工程师参与 研发投入超100亿](https://www.3dmgame.com/news/202312/3884072.html)
+

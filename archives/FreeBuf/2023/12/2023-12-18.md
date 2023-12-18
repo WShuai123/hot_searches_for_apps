@@ -49,3 +49,7 @@
 
 + [《工业和信息化领域数据安全事件应急预案（试行）（征求意见稿）》发布](https://www.freebuf.com/news/386854.html)
 
++ [WordPress 主机托管服务被谷歌钓鱼广告“盯上”](https://www.freebuf.com/news/386852.html)
+
++ [美国最大牙科保险公司Delta Dental泄露近700万客户数据](https://www.freebuf.com/news/386870.html)
+
