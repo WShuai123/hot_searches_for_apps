@@ -71,3 +71,5 @@
 
 + [NASA拿到太阳系最古老的材料，有望解开太阳系演化、生命起源双重秘密！](http://www.acfun.cn/v/ac43270885)
 
++ [《TruE》♪【兎乃翻唱】](http://www.acfun.cn/v/ac43273909)
+
