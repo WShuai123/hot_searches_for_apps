@@ -165,3 +165,13 @@
 
 + [【赠书第11期】Unity 3D游戏开发](https://blog.csdn.net/qq_20016593/article/details/135051522)
 
++ [AIGC实战——条件生成对抗网络(Conditional Generative Adversarial Net, CGAN)](https://blog.csdn.net/LOVEmy134611/article/details/133974588)
+
++ [【MySQL】数据库和表的操作](https://blog.csdn.net/YoungMLet/article/details/134977958)
+
++ [YOLOv8改进 | 2023主干篇 | RepViT从视觉变换器（ViT）的视角重新审视CNN](https://blog.csdn.net/java1314777/article/details/135052550)
+
++ [docker consul](https://blog.csdn.net/weixin_62445943/article/details/135017126)
+
++ [华为鸿蒙应用--欢迎页SplashPage+倒计时跳过（自适应手机和平板）-ArkTs](https://blog.csdn.net/qq_41374940/article/details/135045139)
+
