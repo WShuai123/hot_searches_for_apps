@@ -233,3 +233,7 @@
 
 + [2023未保进展报告：游戏偏好位居第六，未成年消费进一步降低](https://www.3dmgame.com/news/202312/3884100.html)
 
++ [头文字D动画续作《MF GHOST》续订第二季](https://www.3dmgame.com/news/202312/3884105.html)
+
++ [三上真司表示没有兴趣再制作《生化危机》系列](https://www.3dmgame.com/news/202312/3884107.html)
+

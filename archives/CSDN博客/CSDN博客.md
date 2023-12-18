@@ -213,3 +213,9 @@
 
 + [Jenkins打包、发布、部署](https://blog.csdn.net/qwerrwqe/article/details/130516377)
 
++ [如何在Linux上搭建本地Docker Registry并实现远程连接](https://blog.csdn.net/hsjsiwkwm/article/details/135066259)
+
++ [【AIGC重塑教育】AI大模型驱动的教育变革与实践](https://blog.csdn.net/m0_72853403/article/details/135062945)
+
++ [第9章：深度探讨知识问答系统评测：智能背后的挑战与技术方案](https://blog.csdn.net/null18/article/details/135062742)
+
