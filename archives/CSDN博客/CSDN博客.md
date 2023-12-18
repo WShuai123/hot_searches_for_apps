@@ -115,3 +115,9 @@
 
 + [用户行为分析遇到的问题-ubantu16,hadoop3.1.3](https://blog.csdn.net/m0_73282576/article/details/135073491)
 
++ [神经网络可以计算任何函数的可视化证明](https://blog.csdn.net/u011146203/article/details/135051837)
+
++ [【人工智能革命】：AIGC时代的到来 | 探索AI生成内容的未来](https://blog.csdn.net/a1657054242/article/details/135034120)
+
++ [【.NET Core】特性（Attribute）详解](https://blog.csdn.net/songjianlong/article/details/135071706)
+

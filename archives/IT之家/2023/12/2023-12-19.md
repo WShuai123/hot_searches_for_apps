@@ -27,3 +27,5 @@
 
 + [小米米家智能电热毯上架：双区独立温控，众筹价 189 元](https://m.ithome.com/html/739883.htm)
 
++ [华为 nova 12 / Pro 系列手机上架预约，12 月 26 日发布](https://m.ithome.com/html/740035.htm)
+

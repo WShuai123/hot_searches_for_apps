@@ -209,3 +209,7 @@
 
 + [欢乐短剧](https://itunes.apple.com/cn/app/id6467614736?mt=8)
 
++ [地震预警](https://itunes.apple.com/cn/app/id713947342?mt=8)
+
++ [地震预警-地震监测](https://itunes.apple.com/cn/app/id1632600559?mt=8)
+
