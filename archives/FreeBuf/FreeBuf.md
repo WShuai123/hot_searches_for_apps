@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 美国政府利用手机推送通知追踪目标；周海媚抢救病历遭泄露](https://www.freebuf.com/news/386655.html)
 
++ [FreeBuf早报 | 国内企业遭高级勒索团伙批量投毒；《金刚狼》相关数据疑被泄露](https://www.freebuf.com/news/386728.html)
+
++ [最新发现：21个漏洞被证实影响超过86000台Sierra AirLink路由器](https://www.freebuf.com/articles/paper/386178.html)
+

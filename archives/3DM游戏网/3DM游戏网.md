@@ -109,3 +109,15 @@
 
 + [外媒评选今年最好的30款游戏 《心灵杀手2》等](https://www.3dmgame.com/news/202312/3884042.html)
 
++ [《最后的生还者》《死亡空间：重制版》FSR 3.0 MOD发布](https://www.3dmgame.com/news/202312/3884049.html)
+
++ [《战锤40K：星际战士2》新截图发布](https://www.3dmgame.com/news/202312/3884048.html)
+
++ [消息称《地狱之刃2》将于明年5月21日发售](https://www.3dmgame.com/news/202312/3884047.html)
+
++ [Switch《异色代码：回忆录》现已推出试玩版](https://www.3dmgame.com/news/202312/3884046.html)
+
++ [Switch《病房》现已追加高清60帧显示模式](https://www.3dmgame.com/news/202312/3884045.html)
+
++ [预告发布《死神千年血战篇》相剋谭明年开播](https://www.3dmgame.com/news/202312/3884044.html)
+

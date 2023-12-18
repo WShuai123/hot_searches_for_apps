@@ -127,3 +127,9 @@
 
 + [探索泰勒级数在机器学习中的作用：从函数逼近到模型优化](https://blog.csdn.net/gongdiwudu/article/details/135030399)
 
++ [基于Java+Vue+uniapp微信小程序大学城就餐推荐系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135047944)
+
++ [单机架构到分布式架构的演变](https://blog.csdn.net/qq_65307907/article/details/132840031)
+
++ [微服务保护--熔断降级](https://blog.csdn.net/qq_45672041/article/details/135022833)
+
