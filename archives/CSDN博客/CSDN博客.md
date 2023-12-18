@@ -121,3 +121,9 @@
 
 + [【.NET Core】特性（Attribute）详解](https://blog.csdn.net/songjianlong/article/details/135071706)
 
++ [SCI一区级 | Matlab实现GWO-CNN-GRU-selfAttention多变量多步时间序列预测](https://blog.csdn.net/kjm13182345320/article/details/135044386)
+
++ [机器学习的数据管理](https://blog.csdn.net/weixin_42581560/article/details/135043751)
+
++ [低代码冲击带来的影响](https://blog.csdn.net/MANONGDKY/article/details/135035479)
+

@@ -105,3 +105,13 @@
 
 + [外媒评今年最难的15款游戏 《匹诺曹的谎言》等](https://www.3dmgame.com/news/202312/3884113.html)
 
++ [《海贼无双4》明年1月11日新增三名DLC角色](https://www.3dmgame.com/news/202312/3884119.html)
+
++ [EA寒霜引擎启用新Logo并进行品牌重塑](https://www.3dmgame.com/news/202312/3884115.html)
+
++ [《装甲核心6：境界天火》排名匹配模式12/20推出](https://www.3dmgame.com/news/202312/3884118.html)
+
++ [“逆城市”建设类游戏《伊始之地》Switch版推出](https://www.3dmgame.com/news/202312/3884117.html)
+
++ [《波斯王子：失落的王冠》开发完成 开始送厂压盘](https://www.3dmgame.com/news/202312/3884116.html)
+
