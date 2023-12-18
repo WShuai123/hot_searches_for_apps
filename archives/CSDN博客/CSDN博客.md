@@ -107,3 +107,11 @@
 
 + [HarmonyOS开发实战：如何实现一个运动排名榜页面](https://blog.csdn.net/qq_45607784/article/details/135048321)
 
++ [传统软件集成AI大模型——Function Calling](https://blog.csdn.net/weixin_43167499/article/details/135073551)
+
++ [【OpenCV】 OpenCV 源码编译并实现 CUDA 加速 (Windows)](https://blog.csdn.net/grape_yan/article/details/135044697)
+
++ [单机架构到分布式架构的演变](https://blog.csdn.net/qq_65307907/article/details/132840031)
+
++ [用户行为分析遇到的问题-ubantu16,hadoop3.1.3](https://blog.csdn.net/m0_73282576/article/details/135073491)
+
