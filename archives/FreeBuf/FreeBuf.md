@@ -55,3 +55,7 @@
 
 + [操作系统权限提升 | 基于白名单DLL劫持绕过UAC提权](https://www.freebuf.com/articles/network/386553.html)
 
++ [某企业安全规划实战篇](https://www.freebuf.com/consult/379866.html)
+
++ [MongoDB 遭遇网络攻击，大量用户数据信息泄露](https://www.freebuf.com/news/386878.html)
+

@@ -41,3 +41,7 @@
 
 + [消息称华为 nova 12 手机 12 月 26 日前上线，预计开启先锋计划](https://m.ithome.com/html/739863.htm)
 
++ [夸克 PC 版开启内测，集合浏览器搜索、网盘、工具等](https://m.ithome.com/html/739871.htm)
+
++ [小米米家镭雕机上架：无需耗材也能使用，众筹到手价 1399 元](https://m.ithome.com/html/739890.htm)
+

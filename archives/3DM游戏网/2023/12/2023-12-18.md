@@ -175,3 +175,13 @@
 
 + [手游画质新标杆！荣耀90 GT将支持PC级画质体验](https://www.3dmgame.com/news/202312/3884076.html)
 
++ [真流量密码了！《恋爱！小姐姐都超甜》上架Steam](https://www.3dmgame.com/news/202312/3884081.html)
+
++ [抢跑冬促！《极限竞速：地平线5》新史低！《极限竞速》首次打折！](https://www.3dmgame.com/news/202312/3884080.html)
+
++ [16万分之1的霉运 主播玩《博德之门3》连续掷出四个1](https://www.3dmgame.com/news/202312/3884079.html)
+
++ [《独臂强盗》Steam免费发布 多人对应低画质FPS新游](https://www.3dmgame.com/news/202312/3884078.html)
+
++ [日式2D像素游戏《雨魂》主视觉图公布 游戏延期至2024年初](https://www.3dmgame.com/news/202312/3884077.html)
+
