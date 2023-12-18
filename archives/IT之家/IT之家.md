@@ -55,3 +55,5 @@
 
 + [因攻击、诋毁华为公司及相关产品，博主“汽车购买评价”发布致歉声明](https://m.ithome.com/html/739978.htm)
 
++ [腾讯 QQ 从美区苹果 App Store 下架，含 iOS 版及 macOS 平台 NT 版](https://m.ithome.com/html/740032.htm)
+

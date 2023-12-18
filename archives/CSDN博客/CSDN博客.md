@@ -221,3 +221,7 @@
 
 + [如何在使用Docker快速部署StackEdit并实现公网访问本地编辑器远程办公](https://blog.csdn.net/qq_73017178/article/details/135066993)
 
++ [【微服务】springboot整合minio详解](https://blog.csdn.net/congge_study/article/details/135042676)
+
++ [【Spring教程31】SSM框架整合实战：从零开始学习SSM整合配置，如何编写Mybatis SpringMVC JDBC Spring配置类](https://blog.csdn.net/shenchengyv/article/details/135068395)
+

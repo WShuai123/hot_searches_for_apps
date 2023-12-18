@@ -239,3 +239,7 @@
 
 + [机械革命imini Pro迷你PC上市 搭载酷睿Ultra 5 125H](https://www.3dmgame.com/news/202312/3884108.html)
 
++ [GOG喜加一：《失落的遗迹》免费领取](https://www.3dmgame.com/news/202312/3884110.html)
+
++ [《闪电侠》入围“综艺”年度五大烂片](https://www.3dmgame.com/news/202312/3884109.html)
+
