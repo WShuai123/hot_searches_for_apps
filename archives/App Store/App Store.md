@@ -211,3 +211,7 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+

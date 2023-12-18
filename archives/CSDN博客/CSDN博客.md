@@ -145,3 +145,15 @@
 
 + [计算机网络：DNS域名解析系统](https://blog.csdn.net/reyas/article/details/135038383)
 
++ [【咕咕送书 | 第7期】深入探索Spring Batch：大规模批处理的领航者](https://blog.csdn.net/qq_57761637/article/details/135038420)
+
++ [【OpenCV】 OpenCV 源码编译并实现 CUDA 加速 (Windows)](https://blog.csdn.net/grape_yan/article/details/135044697)
+
++ [情感香槟——御姐 MetaGPT版本项目代码分析](https://blog.csdn.net/QAQterrible/article/details/135052904)
+
++ [Github 2023-12-17 开源项目日报Top10](https://blog.csdn.net/xiaoquqi/article/details/135041269)
+
++ [Spring-整合MyBatis](https://blog.csdn.net/h_e_l_l_o_______/article/details/135052211)
+
++ [YOLOv3-YOLOv8的一些总结](https://blog.csdn.net/qq_36258516/article/details/135019320)
+

@@ -173,3 +173,5 @@
 
 + [小米第一辆车3400名工程师参与 研发投入超100亿](https://www.3dmgame.com/news/202312/3884072.html)
 
++ [手游画质新标杆！荣耀90 GT将支持PC级画质体验](https://www.3dmgame.com/news/202312/3884076.html)
+

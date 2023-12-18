@@ -39,3 +39,5 @@
 
 + [华为官宣 nova 12 系列手机即将加入先锋计划，12 月 26 日亮相](https://m.ithome.com/html/739867.htm)
 
++ [消息称华为 nova 12 手机 12 月 26 日前上线，预计开启先锋计划](https://m.ithome.com/html/739863.htm)
+

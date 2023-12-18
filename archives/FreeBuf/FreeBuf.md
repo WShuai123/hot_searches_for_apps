@@ -53,3 +53,5 @@
 
 + [美国最大牙科保险公司Delta Dental泄露近700万客户数据](https://www.freebuf.com/news/386870.html)
 
++ [操作系统权限提升 | 基于白名单DLL劫持绕过UAC提权](https://www.freebuf.com/articles/network/386553.html)
+
