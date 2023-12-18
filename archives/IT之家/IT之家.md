@@ -25,3 +25,5 @@
 
 + [消息称华为 nova 12 手机 12 月 26 日前上线，预计开启先锋计划](https://m.ithome.com/html/739863.htm)
 
++ [小米米家智能电热毯上架：双区独立温控，众筹价 189 元](https://m.ithome.com/html/739883.htm)
+

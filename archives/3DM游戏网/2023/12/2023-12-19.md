@@ -101,3 +101,7 @@
 
 + [国产历史策略《三国之志4》登录STEAM抢先体验](https://www.3dmgame.com/news/202312/3884061.html)
 
++ [缅怀！《心灵杀手2》、《控制》配音James去世](https://www.3dmgame.com/news/202312/3884114.html)
+
++ [外媒评今年最难的15款游戏 《匹诺曹的谎言》等](https://www.3dmgame.com/news/202312/3884113.html)
+
