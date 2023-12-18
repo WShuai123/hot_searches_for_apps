@@ -121,3 +121,23 @@
 
 + [预告发布《死神千年血战篇》相剋谭明年开播](https://www.3dmgame.com/news/202312/3884044.html)
 
++ [《波斯王子：失落的王冠》主线将达20-25个小时 融入类银河恶魔城玩法](https://www.3dmgame.com/news/202312/3884053.html)
+
++ [上帝扮演游戏《Godus》和《Godus Wars》确认从Steam下架](https://www.3dmgame.com/news/202312/3884052.html)
+
++ [《合金弹头：战略版》再次宣布延期 2024年发售](https://www.3dmgame.com/news/202312/3884054.html)
+
++ [B社总监MarcTardif宣布离职：能与陶德做朋友很感激](https://www.3dmgame.com/news/202312/3884055.html)
+
++ [特别好评《奈斯启示录》更新上线 多服务器角色共通化](https://www.3dmgame.com/news/202312/3884056.html)
+
++ [官网现“404” 传腾讯已关闭3A多人游戏工作室Team Kaiju](https://www.3dmgame.com/news/202312/3884057.html)
+
++ [发行商不满《尘封大陆》销量低迷 明年为游戏推出加强版](https://www.3dmgame.com/news/202312/3884058.html)
+
++ [2023玩家游玩最多平台：PC第一 PS3超过XSX|S](https://www.3dmgame.com/news/202312/3884059.html)
+
++ [《逃离塔科夫：竞技场》Beta版面向测试玩家发布](https://www.3dmgame.com/news/202312/3884050.html)
+
++ [《深海迷航》系列新作预计2024年公布 或在2025年发售](https://www.3dmgame.com/news/202312/3884051.html)
+

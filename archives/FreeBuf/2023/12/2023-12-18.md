@@ -45,3 +45,5 @@
 
 + [最新发现：21个漏洞被证实影响超过86000台Sierra AirLink路由器](https://www.freebuf.com/articles/paper/386178.html)
 
++ [安全测试 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/vuls/386574.html)
+
