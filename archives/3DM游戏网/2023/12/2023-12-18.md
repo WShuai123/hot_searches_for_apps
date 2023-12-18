@@ -141,3 +141,21 @@
 
 + [《深海迷航》系列新作预计2024年公布 或在2025年发售](https://www.3dmgame.com/news/202312/3884051.html)
 
++ [锦上添花 《严阵以待》新MOD酷似SWAT现场战术纪录](https://www.3dmgame.com/news/202312/3884068.html)
+
++ [挖掘藏尸真相 《卡牌侦探》将于Steam平台正式发售](https://www.3dmgame.com/news/202312/3884066.html)
+
++ [小岛秀夫：我想终身工作 离开科乐美曾遭亲戚反对](https://www.3dmgame.com/news/202312/3884067.html)
+
++ [港服PS+三档会员新增试玩游戏：《真人快打1》](https://www.3dmgame.com/news/202312/3884065.html)
+
++ [《Omega Crafter》2024年3月推抢测版 开放世界生存建造](https://www.3dmgame.com/news/202312/3884064.html)
+
++ [《燕云十六声》黄钟测试已开启 官方发布实机演示](https://www.3dmgame.com/news/202312/3884063.html)
+
++ [第一人称恐怖游戏《波比的游戏时间》即将登陆PS4、PS5和NS平台](https://www.3dmgame.com/news/202312/3884062.html)
+
++ [国产历史策略《三国之志4》登录STEAM抢先体验](https://www.3dmgame.com/news/202312/3884061.html)
+
++ [《潜行者2》成就出现在Steam上 明年2月15日发售？](https://www.3dmgame.com/news/202312/3884060.html)
+

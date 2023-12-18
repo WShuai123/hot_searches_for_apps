@@ -31,3 +31,7 @@
 
 + [《非银行支付机构监督管理条例》今日发布，支付宝、微信支付、美团、抖音等发声](https://m.ithome.com/html/739829.htm)
 
++ [雷军谈小米汽车：整个研发投入超 100 亿元，第一辆车投入 3400 名工程师](https://m.ithome.com/html/739857.htm)
+
++ [消息称任天堂 Switch2 游戏更贵，将达 70 美元](https://m.ithome.com/html/739808.htm)
+

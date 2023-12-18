@@ -47,3 +47,5 @@
 
 + [安全测试 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/vuls/386574.html)
 
++ [《工业和信息化领域数据安全事件应急预案（试行）（征求意见稿）》发布](https://www.freebuf.com/news/386854.html)
+

@@ -79,3 +79,7 @@
 
 + [《动物迷惑行为大赏185》](http://www.acfun.cn/v/ac43263325)
 
++ [枪中黑魂 见面一枪死的特警模拟器《严阵以待》Ready or Not](http://www.acfun.cn/v/ac43265097)
+
++ [机智的秃鹫爽局！魅惑狼人为我大鲨特鲨！！！片尾彩蛋~](http://www.acfun.cn/v/ac43264803)
+
