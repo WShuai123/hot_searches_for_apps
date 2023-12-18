@@ -61,3 +61,5 @@
 
 + [Commander：一款功能强大的命令与控制C2服务器框架](https://www.freebuf.com/sectool/384277.html)
 
++ [“2023年度安全总结”主题征稿来啦](https://www.freebuf.com/fevents/386635.html)
+

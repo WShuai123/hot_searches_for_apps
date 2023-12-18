@@ -175,3 +175,11 @@
 
 + [华为鸿蒙应用--欢迎页SplashPage+倒计时跳过（自适应手机和平板）-ArkTs](https://blog.csdn.net/qq_41374940/article/details/135045139)
 
++ [【网络安全】网络防护之旅 - Java安全机制探秘与数字证书引爆网络防线](https://blog.csdn.net/m0_57532432/article/details/134877310)
+
++ [ChatGPT与提示工程：创造性的交互与智能引导的完美结合](https://blog.csdn.net/xqe777/article/details/135030110)
+
++ [网关GateWay](https://blog.csdn.net/SUNBOYmxbsH/article/details/135034289)
+
++ [【Linux】cp问题，生产者消费者问题代码实现](https://blog.csdn.net/m0_74774759/article/details/135049546)
+

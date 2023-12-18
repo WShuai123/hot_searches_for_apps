@@ -187,3 +187,15 @@
 
 + [大佬打造现实版可伸缩发光《赛博朋克2077》螳螂刀](https://www.3dmgame.com/news/202312/3884082.html)
 
++ [《千变的迷宫 风来的希炼6》新系统情报公开 明年1月发售](https://www.3dmgame.com/news/202312/3884088.html)
+
++ [《GTA6》佛罗里达小丑声称受到骚扰 联系律师准备起诉R星](https://www.3dmgame.com/news/202312/3884087.html)
+
++ [主播神似董宇辉 东方甄选高仿号“西方臻选”被封：遭举报下线](https://www.3dmgame.com/news/202312/3884086.html)
+
++ [热门少年漫《怪兽8号》公开主要动画PV 明年4月开始放送](https://www.3dmgame.com/news/202312/3884085.html)
+
++ [《Synthetic Selection》A测启动 物理模拟动作解谜](https://www.3dmgame.com/news/202312/3884084.html)
+
++ [原生，启动！米哈游与华为达成合作 将开发鸿蒙原生应用](https://www.3dmgame.com/news/202312/3884083.html)
+
