@@ -63,3 +63,7 @@
 
 + [苹果 iPhone 15 Pro 试玩《生化危机 4：重制版》：无法稳定 30 帧](https://m.ithome.com/html/740144.htm)
 
++ [谷歌 Gemini 自曝中文用百度文心一言训练，网友看呆：大公司互薅羊毛？](https://m.ithome.com/html/740076.htm)
+
++ [小米汽车泄密及谣言声明：涉及媒体“ZAKER”“小白买车”员工、汽车部 3 名前员工](https://m.ithome.com/html/740317.htm)
+
