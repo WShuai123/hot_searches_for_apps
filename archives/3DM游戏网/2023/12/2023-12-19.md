@@ -213,3 +213,13 @@
 
 + [“投机”不成蚀把米 指环王同人作者起诉亚马逊反欠高额律师费](https://www.3dmgame.com/news/202312/3884165.html)
 
++ [尾田荣一郎漫画《MONSTERS》改编动画 将于2024年1月在Netflix首播](https://www.3dmgame.com/news/202312/3884170.html)
+
++ [暴雪承诺《暗黑4》齐尔屠宰场将不断迭代 奖励会更好](https://www.3dmgame.com/news/202312/3884173.html)
+
++ [《侠探杰克》美剧主演非常希望饰演蝙蝠侠](https://www.3dmgame.com/news/202312/3884172.html)
+
++ [日本环球影城推出《名侦探柯南》主题表演 2024年春季开放](https://www.3dmgame.com/news/202312/3884171.html)
+
++ [《地平线 西之绝境》官方食谱公布 收录游戏60多种美味料理](https://www.3dmgame.com/news/202312/3884167.html)
+

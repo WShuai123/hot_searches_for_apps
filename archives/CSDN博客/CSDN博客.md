@@ -165,3 +165,9 @@
 
 + [AWS解决方案架构师学习与备考](https://blog.csdn.net/s445320/article/details/135076560)
 
++ [技术大变革时代来临，亚马逊云科技释放企业级生成式 AI 潜力](https://blog.csdn.net/weixin_43739157/article/details/135070038)
+
++ [推荐算法架构6：数据样本](https://blog.csdn.net/u013510838/article/details/135068490)
+
++ [【.NET】控制台应用程序的各种交互玩法](https://blog.csdn.net/sdgfafg_25/article/details/135056002)
+

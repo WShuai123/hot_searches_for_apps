@@ -59,3 +59,5 @@
 
 + [如何使用Qu1ckdr0p2快速通过HTTP或HTTPS实现文件托管](https://www.freebuf.com/sectool/384284.html)
 
++ [这个被禁售的黑客小工具，曾让苹果用户崩溃](https://www.freebuf.com/articles/neopoints/387094.html)
+

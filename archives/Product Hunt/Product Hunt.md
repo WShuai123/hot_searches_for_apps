@@ -101,3 +101,17 @@
 
 + [Link to QR](https://www.producthunt.com/posts/link-to-qr-2)
 
++ [Korus](https://www.producthunt.com/posts/korus)
+
++ [Job Description Generator](https://www.producthunt.com/posts/job-description-generator-4e261f24-276d-4aaa-8295-be4dc9723596)
+
++ [iNRI](https://www.producthunt.com/posts/inri-2)
+
++ [Pieces Copilot](https://www.producthunt.com/posts/pieces-copilot)
+
++ [Creatify AI](https://www.producthunt.com/posts/creatify-ai)
+
++ [ChronoMarker™](https://www.producthunt.com/posts/chronomarker)
+
++ [Autonoma](https://www.producthunt.com/posts/autonoma)
+
