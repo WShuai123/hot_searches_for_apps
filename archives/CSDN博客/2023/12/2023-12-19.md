@@ -177,3 +177,7 @@
 
 + [Windows使用VNC Viewer远程桌面Ubuntu【内网穿透】](https://blog.csdn.net/qq_72916130/article/details/135071952)
 
++ [【思扬赠书 | 第1期】教你如何一站式解决OpenCV工程化开发痛点](https://blog.csdn.net/qq_25749749/article/details/135076852)
+
++ [云原生之深入解析如何在K8S环境中使用Prometheus来监控CoreDNS指标](https://blog.csdn.net/Forever_wj/article/details/135065503)
+

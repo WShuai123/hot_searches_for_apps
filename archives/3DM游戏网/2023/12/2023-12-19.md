@@ -237,3 +237,25 @@
 
 + [《城堡建造者》2024年1月Steam正式推出 策略塔防](https://www.3dmgame.com/news/202312/3884176.html)
 
++ [NASA即将发射高空气球望远镜：绘制部分银河系三维地图](https://www.3dmgame.com/news/202312/3884188.html)
+
++ [《疾风之刃》Steam页面上线 支持简繁中文](https://www.3dmgame.com/news/202312/3884189.html)
+
++ [苹果应用测试服务泄露反成游戏历史保护者的宝藏](https://www.3dmgame.com/news/202312/3884190.html)
+
++ [Steam最新一周销量榜 Steam Deck登顶五连冠](https://www.3dmgame.com/news/202312/3884191.html)
+
++ [普京：有必要结合俄罗斯传统元素制作国产电脑游戏](https://www.3dmgame.com/news/202312/3884181.html)
+
++ [警惕《GTA6》预购测试诈骗 225美元假PC版预购“好评如潮”](https://www.3dmgame.com/news/202312/3884182.html)
+
++ [《浩劫前夕》资金短缺是托词 开发商圈钱跑路是真](https://www.3dmgame.com/news/202312/3884183.html)
+
++ [游戏出海支付报告：海外收入降5.6%遇挑战 支付助力降本增效](https://www.3dmgame.com/news/202312/3884184.html)
+
++ [KK对战平台人气地图来袭 赛博少女守护末日危局](https://www.3dmgame.com/news/202312/3884185.html)
+
++ [研究：美国主要汽车品牌中特斯拉事故率最高](https://www.3dmgame.com/news/202312/3884186.html)
+
++ [《逆水寒》自称赚到了远超预期的钱 要把钱撒给玩家](https://www.3dmgame.com/news/202312/3884187.html)
+
