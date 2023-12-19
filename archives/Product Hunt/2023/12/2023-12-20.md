@@ -101,3 +101,5 @@
 
 + [Link to QR](https://www.producthunt.com/posts/link-to-qr-2)
 
++ [AI UI Kits by QuickBlox](https://www.producthunt.com/posts/ai-ui-kits-by-quickblox)
+
