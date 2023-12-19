@@ -157,3 +157,21 @@
 
 + [黑曜石曾提议开发《上古卷轴》衍生作 但遭到B社拒绝](https://www.3dmgame.com/news/202312/3884124.html)
 
++ [模拟经营游戏《日落汽车旅馆》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202312/3884146.html)
+
++ [玩家从《GTA 6》宣传图中 发现疑似此前泄露的游戏地图](https://www.3dmgame.com/news/202312/3884147.html)
+
++ [巴黎世家发布免费滑雪游戏 游玩比赛可得实物奖励](https://www.3dmgame.com/news/202312/3884148.html)
+
++ [《生化危机4：重制版》iPhone15版分辨率720p 无法稳定30帧](https://www.3dmgame.com/news/202312/3884149.html)
+
++ [《原神》新角色闲云和嘉明介绍 喜欢黑丝大姐姐吗？](https://www.3dmgame.com/news/202312/3884141.html)
+
++ [《对马岛之鬼》预算仅为6000万美元 远小于其他3A游戏](https://www.3dmgame.com/news/202312/3884142.html)
+
++ [独立恐怖游戏《铁肺》涨价 制作者建议反对者“去玩盗版”](https://www.3dmgame.com/news/202312/3884143.html)
+
++ [经典名作《El Shaddai》Switch版12月20日公布重要消息](https://www.3dmgame.com/news/202312/3884144.html)
+
++ [赞美神皇！亚马逊与GW敲定《战锤40K》改编合同](https://www.3dmgame.com/news/202312/3884145.html)
+

@@ -135,3 +135,7 @@
 
 + [三大主流前端框架介绍](https://blog.csdn.net/brucexia/article/details/135065022)
 
++ [Hadoop3.x完全分布式模式下slaveDataNode节点未启动调整](https://blog.csdn.net/yelangkingwuzuhu/article/details/135072970)
+
++ [云原生之深入解析Thanos在EKS多集群架构上存储多个集群Prometheus](https://blog.csdn.net/Forever_wj/article/details/135057042)
+

@@ -35,3 +35,7 @@
 
 + [“西方甄选”被封号，抖音称涉及仿冒假冒、不当蹭热](https://m.ithome.com/html/739924.htm)
 
++ [因专利侵权，苹果本周将在美国停售 Apple Watch S9 及 Apple Watch Ultra 2 智能手表](https://m.ithome.com/html/740064.htm)
+
++ [董宇辉任新东方教育科技集团董事长文化助理兼文旅副总裁，俞敏洪发文祝贺](https://m.ithome.com/html/739975.htm)
+

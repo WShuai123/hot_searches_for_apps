@@ -47,3 +47,5 @@
 
 + [渗透测试 | 云上OSS攻防](https://www.freebuf.com/articles/web/386607.html)
 
++ [从电子消费巨头到美国法院，BlackCat 向全球发起攻击](https://www.freebuf.com/news/topnews/386935.html)
+
