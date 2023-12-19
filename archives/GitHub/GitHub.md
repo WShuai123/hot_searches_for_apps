@@ -51,3 +51,35 @@
 
 + [iv-org / invidious](https://github.com/iv-org/invidious)
 
++ [damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor)
+
++ [openai / weak-to-strong](https://github.com/openai/weak-to-strong)
+
++ [Project-DARC / DARC](https://github.com/Project-DARC/DARC)
+
++ [manticoresoftware / manticoresearch](https://github.com/manticoresoftware/manticoresearch)
+
++ [open-mmlab / Amphion](https://github.com/open-mmlab/Amphion)
+
++ [HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources)
+
++ [ruanyf / weekly](https://github.com/ruanyf/weekly)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [bytebase / bytebase](https://github.com/bytebase/bytebase)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [gkd-kit / gkd](https://github.com/gkd-kit/gkd)
+
++ [ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D)
+
++ [facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes)
+
++ [lxfater / inpaint-web](https://github.com/lxfater/inpaint-web)
+
++ [modood / Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
+
++ [microsoft / LLMLingua](https://github.com/microsoft/LLMLingua)
+

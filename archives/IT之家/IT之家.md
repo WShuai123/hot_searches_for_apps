@@ -59,3 +59,7 @@
 
 + [大众汽车内饰设计转向：实体按键回归](https://m.ithome.com/html/740108.htm)
 
++ [首发立减 300 元：努比亚 Z60 Ultra 手机 3999 元起开抢 + 24 期免息](https://m.ithome.com/html/740222.htm)
+
++ [苹果 iPhone 15 Pro 试玩《生化危机 4：重制版》：无法稳定 30 帧](https://m.ithome.com/html/740144.htm)
+
