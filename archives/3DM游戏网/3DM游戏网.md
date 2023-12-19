@@ -259,3 +259,17 @@
 
 + [《逆水寒》自称赚到了远超预期的钱 要把钱撒给玩家](https://www.3dmgame.com/news/202312/3884187.html)
 
++ [漫威蜘蛛侠开发商被黑后98%文件已经泄露](https://www.3dmgame.com/news/202312/3884198.html)
+
++ [《FF7：重生》编剧野岛一成坦言被网暴 引发粉丝跟风声援](https://www.3dmgame.com/news/202312/3884192.html)
+
++ [我国开源软件开发者人数已突破800万 位居全球第二](https://www.3dmgame.com/news/202312/3884197.html)
+
++ [《人渣》推出了“部落”玩法，包括全新的教学系统和粉丝最爱的车辆回归](https://www.3dmgame.com/news/202312/3884196.html)
+
++ [治愈风手账模拟器《小小贴纸铺》DLC“来做计划吧” 今日发布！](https://www.3dmgame.com/news/202312/3884195.html)
+
++ [《神笔谈兵》迎来了第四个大更新：“战术游泳”，海洋生物的军队将淹没一切](https://www.3dmgame.com/news/202312/3884194.html)
+
++ [雷军担心卖太火！小米汽车在大街上开跑：回头率超高](https://www.3dmgame.com/news/202312/3884193.html)
+
