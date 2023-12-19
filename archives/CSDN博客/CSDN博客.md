@@ -107,3 +107,27 @@
 
 + [操作系统系列：Unix进程系统调用fork,wait,exec](https://blog.csdn.net/wss_xt/article/details/135039707)
 
++ [Positive Technologies 专家强调了 2023 年的威胁：网络间谍、双重勒索和电信攻击的双倍增长](https://blog.csdn.net/ptsecurity/article/details/135094476)
+
++ [【企业转型】以企业架构为中心的SABOE数字化转型五环法](https://blog.csdn.net/weixin_44244190/article/details/135064087)
+
++ [机器学习 | 决策树 Decision Tree](https://blog.csdn.net/weixin_47187147/article/details/135043029)
+
++ [【智慧之窗】AI驱动产品探索](https://blog.csdn.net/qyj19920704/article/details/135067269)
+
++ [Linux部署Nacos注册中心结合内网穿透实现远程访问UI管理界面](https://blog.csdn.net/weixin_63115236/article/details/135061183)
+
++ [云原生之深入解析如何在K8S环境中使用Prometheus来监控CoreDNS指标](https://blog.csdn.net/Forever_wj/article/details/135065503)
+
++ [【Linux】磁盘分区管理及挂载/永久挂载管理](https://blog.csdn.net/liu_chen_yang/article/details/134648396)
+
++ [微信小程序校园跑腿系统怎么做，如何做，要做多久](https://blog.csdn.net/u011144780/article/details/135067622)
+
++ [P2P网络下分布式文件共享场景的测试](https://blog.csdn.net/XINERTEL/article/details/135061604)
+
++ [【赠书第11期】Unity 3D游戏开发](https://blog.csdn.net/qq_20016593/article/details/135051522)
+
++ [Wireshark高级网络安全分析](https://blog.csdn.net/xiao1234oaix/article/details/135070969)
+
++ [08-Event Sources和Sink架构](https://blog.csdn.net/weixin_38753143/article/details/135068918)
+
