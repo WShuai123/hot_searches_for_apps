@@ -45,3 +45,5 @@
 
 + [揭秘勒索软件团伙和媒体之间的共生关系](https://www.freebuf.com/articles/paper/386882.html)
 
++ [渗透测试 | 云上OSS攻防](https://www.freebuf.com/articles/web/386607.html)
+

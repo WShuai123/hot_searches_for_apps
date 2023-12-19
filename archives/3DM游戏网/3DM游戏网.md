@@ -123,3 +123,37 @@
 
 + [开发商承认《自杀小队：战胜正义联盟》出现剧透](https://www.3dmgame.com/news/202312/3884120.html)
 
++ [《猩球崛起4》新剧照 官方确定将开启全新的三部曲](https://www.3dmgame.com/news/202312/3884140.html)
+
++ [《往日不再》开发商和顽皮狗曾合作开发过未公开项目](https://www.3dmgame.com/news/202312/3884134.html)
+
++ [多人冒险游戏《Age of Water》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3884138.html)
+
++ [《传说之下》配乐发行商收购《终点咖啡馆》唱片公司](https://www.3dmgame.com/news/202312/3884139.html)
+
++ [万代魂《装甲核心6》拼装模型2024年推出 3月公布详情](https://www.3dmgame.com/news/202312/3884137.html)
+
++ [ABK工人联盟反对动视暴雪一刀切地恢复返回公司办公计划](https://www.3dmgame.com/news/202312/3884136.html)
+
++ [《泰迪熊》前传剧集曝预告和首个海报](https://www.3dmgame.com/news/202312/3884135.html)
+
++ [裁员大户Embracer延长信贷贷款协议至2025年](https://www.3dmgame.com/news/202312/3884133.html)
+
++ [英国监管机构CMA一月重启苹果谷歌云游戏垄断调查](https://www.3dmgame.com/news/202312/3884131.html)
+
++ [《英灵神殿》确定“灰烬之地”更新将于2024年上半年推出](https://www.3dmgame.com/news/202312/3884129.html)
+
++ [苹果2012至2015年期间的TestFlight数据遭泄漏 数据量达1.2TB](https://www.3dmgame.com/news/202312/3884128.html)
+
++ [合作恐怖射击《RIPOUT》更新上线 追加新任务关卡武器](https://www.3dmgame.com/news/202312/3884127.html)
+
++ [康演员被判一年有期徒刑 漫威光速切断与其的合作](https://www.3dmgame.com/news/202312/3884126.html)
+
++ [《怪物猎人：荒野》Steam页面上线 2025年发售](https://www.3dmgame.com/news/202312/3884132.html)
+
++ [《最终幻想7：重生》召唤兽巴哈姆特改 泰坦 菲尼克斯介绍](https://www.3dmgame.com/news/202312/3884130.html)
+
++ [Xbox Series X售价在英国创下历史新低：335英镑](https://www.3dmgame.com/news/202312/3884125.html)
+
++ [黑曜石曾提议开发《上古卷轴》衍生作 但遭到B社拒绝](https://www.3dmgame.com/news/202312/3884124.html)
+
