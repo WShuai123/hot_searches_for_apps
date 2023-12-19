@@ -199,3 +199,9 @@
 
 + [粉丝推测《怪奇物语》只是一场桌游 制作人回应](https://www.3dmgame.com/news/202312/3884150.html)
 
++ [PC名作《地中海地狱》确定明年3月登陆三大主机平台](https://www.3dmgame.com/news/202312/3884163.html)
+
++ [台湾漫展coser拍“军火版”《葬送的芙莉莲》照片 被网友疯狂二创](https://www.3dmgame.com/news/202312/3884164.html)
+
++ [《全面战争：法老》商品调整公告 游戏本体降价DLC免费](https://www.3dmgame.com/news/202312/3884162.html)
+
