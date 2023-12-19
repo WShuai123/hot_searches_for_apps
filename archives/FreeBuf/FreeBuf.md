@@ -49,3 +49,9 @@
 
 + [从电子消费巨头到美国法院，BlackCat 向全球发起攻击](https://www.freebuf.com/news/topnews/386935.html)
 
++ [Vans 和 North Face  的母公司遭勒索软件攻击](https://www.freebuf.com/news/387013.html)
+
++ [美国贷款巨头库珀先生泄露了1470万名客户数据](https://www.freebuf.com/news/387030.html)
+
++ [微软在 Perforce Helix 核心服务器中发现4个安全漏洞](https://www.freebuf.com/news/387010.html)
+

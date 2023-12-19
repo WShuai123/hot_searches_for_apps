@@ -39,3 +39,5 @@
 
 + [董宇辉任新东方教育科技集团董事长文化助理兼文旅副总裁，俞敏洪发文祝贺](https://m.ithome.com/html/739975.htm)
 
++ [Gemini 自曝中文用百度文心一言训练，网友看呆：大公司互薅羊毛？](https://m.ithome.com/html/740076.htm)
+
