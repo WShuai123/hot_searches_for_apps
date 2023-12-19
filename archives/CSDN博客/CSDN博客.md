@@ -101,3 +101,9 @@
 
 + [基于html5的演唱会购票系统的设计与实现论文](https://blog.csdn.net/Q_1928499906/article/details/135059539)
 
++ [Windows本地搭建开源企业管理套件Odoo并实现公网访问](https://blog.csdn.net/2301_77053417/article/details/135067024)
+
++ [系统设计——系统安全](https://blog.csdn.net/xrq1995/article/details/135063394)
+
++ [操作系统系列：Unix进程系统调用fork,wait,exec](https://blog.csdn.net/wss_xt/article/details/135039707)
+
