@@ -51,3 +51,9 @@
 
 + [努比亚 Z60 Ultra 手机参数汇总：骁龙 8 Gen 3 搭配 6000mAh 大电池，今日发布](https://m.ithome.com/html/740089.htm)
 
++ [消息称苹果 iPhone 16 Pro 手机主摄采用堆叠式传感器，超广角升级至 4800 万像素](https://m.ithome.com/html/740049.htm)
+
++ [3999 元起，努比亚 Z60 Ultra 手机发布：首发 IP68 屏下前摄、骁龙 8 Gen 3](https://m.ithome.com/html/740219.htm)
+
++ [机械革命全新轻薄游戏本曝光：15.3 英寸金属机身，新一代处理器](https://m.ithome.com/html/740145.htm)
+

@@ -171,3 +171,9 @@
 
 + [【.NET】控制台应用程序的各种交互玩法](https://blog.csdn.net/sdgfafg_25/article/details/135056002)
 
++ [GaussDB数据库表创建行访问控制策略](https://blog.csdn.net/GaussDB/article/details/135076230)
+
++ [【音视频 | AAC】AAC音频编码详解](https://blog.csdn.net/wkd_007/article/details/135004442)
+
++ [Windows使用VNC Viewer远程桌面Ubuntu【内网穿透】](https://blog.csdn.net/qq_72916130/article/details/135071952)
+

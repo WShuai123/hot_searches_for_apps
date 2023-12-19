@@ -223,3 +223,17 @@
 
 + [《地平线 西之绝境》官方食谱公布 收录游戏60多种美味料理](https://www.3dmgame.com/news/202312/3884167.html)
 
++ [《英雄联盟》将在2025年发生永久性改变 大家期待吗？](https://www.3dmgame.com/news/202312/3884177.html)
+
++ [因专利纠纷 苹果两款最新Apple Watch停售！](https://www.3dmgame.com/news/202312/3884178.html)
+
++ [美国纽约华裔议员被指使用AI回答媒体问题](https://www.3dmgame.com/news/202312/3884179.html)
+
++ [谷歌掏50亿元和解美反垄断诉讼 允许开发者直接收费](https://www.3dmgame.com/news/202312/3884180.html)
+
++ [失眠组2023-2030年游戏发售计划泄露 《毒液》、《金刚狼》等](https://www.3dmgame.com/news/202312/3884174.html)
+
++ [宋紫薇：李想的判断力惊人、但又温和、冷静、理性和有趣](https://www.3dmgame.com/news/202312/3884175.html)
+
++ [《城堡建造者》2024年1月Steam正式推出 策略塔防](https://www.3dmgame.com/news/202312/3884176.html)
+
