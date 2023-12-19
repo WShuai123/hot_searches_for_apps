@@ -137,3 +137,7 @@
 
 + [黄霑经典之-《黎明不要来》｜1987年电影《倩女幽魂》主题曲](http://www.acfun.cn/v/ac43278526)
 
++ [每一套我都喜欢](http://www.acfun.cn/v/ac43282970)
+
++ [qyqx：我的回合！四暗刻！](http://www.acfun.cn/v/ac43282640)
+

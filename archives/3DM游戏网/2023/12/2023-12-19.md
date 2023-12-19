@@ -279,3 +279,9 @@
 
 + [英特尔XeSS将加入帧生成技术 正在准备ExtraSS](https://www.3dmgame.com/news/202312/3884199.html)
 
++ [索尼游戏Steam销量泄露 《地平线：零之曙光》销量最好](https://www.3dmgame.com/news/202312/3884203.html)
+
++ [迪士尼剧版《波西·杰克逊》口碑爆表 烂番茄开局97%](https://www.3dmgame.com/news/202312/3884204.html)
+
++ [索尼、漫威“X战警授权条款”泄露 登陆PC和PS平台](https://www.3dmgame.com/news/202312/3884202.html)
+
