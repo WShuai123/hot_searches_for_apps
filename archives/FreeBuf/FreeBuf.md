@@ -61,3 +61,5 @@
 
 + [这个被禁售的黑客小工具，曾让苹果用户崩溃](https://www.freebuf.com/articles/neopoints/387094.html)
 
++ [从电子消费巨头到美国法院，BlackCat 向全球目标发起攻击](https://www.freebuf.com/news/topnews/386935.html)
+
