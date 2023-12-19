@@ -55,3 +55,5 @@
 
 + [微软在 Perforce Helix 核心服务器中发现4个安全漏洞](https://www.freebuf.com/news/387010.html)
 
++ [实现阶段 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/security-management/386317.html)
+

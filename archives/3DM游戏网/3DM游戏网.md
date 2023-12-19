@@ -175,3 +175,27 @@
 
 + [赞美神皇！亚马逊与GW敲定《战锤40K》改编合同](https://www.3dmgame.com/news/202312/3884145.html)
 
++ [裁员潮“逆流” 《战锤》公司员工年终奖2500英镑](https://www.3dmgame.com/news/202312/3884161.html)
+
++ [《吸血鬼幸存者》的“Among Us”DLC 现已推出](https://www.3dmgame.com/news/202312/3884159.html)
+
++ [马斯克称人类应成为星际文明 在月球建基地在火星建城市](https://www.3dmgame.com/news/202312/3884160.html)
+
++ [“绝版游戏” 《浩劫前夕》下架后激活码被炒出天价](https://www.3dmgame.com/news/202312/3884158.html)
+
++ [眼光遥遥领先 沙特宣布将在Qiddiya打造世界首座游戏主题特区](https://www.3dmgame.com/news/202312/3884157.html)
+
++ [冒险游戏《引力》Steam页面上线 明年1月发售](https://www.3dmgame.com/news/202312/3884156.html)
+
++ [Remedy：《瞬息全宇宙》成功增强了我们对《心灵杀手2》的信心](https://www.3dmgame.com/news/202312/3884155.html)
+
++ [知名爆料人称任天堂Switch2游戏更加昂贵 将达70美元](https://www.3dmgame.com/news/202312/3884154.html)
+
++ [Netflix正在筹划衍生剧《星期三》的衍生剧 以及更多热门剧集的衍生剧](https://www.3dmgame.com/news/202312/3884153.html)
+
++ [马斯克与迪士尼CEO争执 特斯拉车载Disney+被隐藏](https://www.3dmgame.com/news/202312/3884152.html)
+
++ [传闻：微软希望抢先PS6发布下一代Xbox 打价格战](https://www.3dmgame.com/news/202312/3884151.html)
+
++ [粉丝推测《怪奇物语》只是一场桌游 制作人回应](https://www.3dmgame.com/news/202312/3884150.html)
+
