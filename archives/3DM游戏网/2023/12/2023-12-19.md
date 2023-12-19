@@ -115,3 +115,11 @@
 
 + [《波斯王子：失落的王冠》开发完成 开始送厂压盘](https://www.3dmgame.com/news/202312/3884116.html)
 
++ [《阿凡达：潘多拉边境》已经在大降价了 发售不到两周](https://www.3dmgame.com/news/202312/3884123.html)
+
++ [Steam推出2023年游戏记录回顾页面](https://www.3dmgame.com/news/202312/3884122.html)
+
++ [原田胜弘称《铁拳8》比同类游戏角色更多](https://www.3dmgame.com/news/202312/3884121.html)
+
++ [开发商承认《自杀小队：战胜正义联盟》出现剧透](https://www.3dmgame.com/news/202312/3884120.html)
+

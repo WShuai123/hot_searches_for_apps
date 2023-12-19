@@ -127,3 +127,9 @@
 
 + [低代码冲击带来的影响](https://blog.csdn.net/MANONGDKY/article/details/135035479)
 
++ [ChatGPT与提示工程：创造性的交互与智能引导的完美结合](https://blog.csdn.net/xqe777/article/details/135030110)
+
++ [系统设计——系统安全](https://blog.csdn.net/xrq1995/article/details/135063394)
+
++ [紫光FPGA DDR3 IP使用和注意事项（axi4协议）](https://blog.csdn.net/xzs520xzs/article/details/135051468)
+

@@ -41,3 +41,7 @@
 
 + [内网渗透测试瑞士军刀-impacket工具解析（五）](https://www.freebuf.com/news/385734.html)
 
++ [FreeBuf早报 | MongoDB遭遇网络攻击；新疆公安机关公布8起网络违法犯罪典型案例](https://www.freebuf.com/news/386883.html)
+
++ [揭秘勒索软件团伙和媒体之间的共生关系](https://www.freebuf.com/articles/paper/386882.html)
+

@@ -29,3 +29,5 @@
 
 + [华为 nova 12 / Pro 系列手机上架预约，12 月 26 日发布](https://m.ithome.com/html/740035.htm)
 
++ [IT之家 iOS / 安卓版 8.80 重大更新：AI 智能摘要、搜索 Plus、评论页新颜……](https://m.ithome.com/html/739947.htm)
+
