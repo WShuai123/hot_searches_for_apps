@@ -45,3 +45,9 @@
 
 + [小米澎湃 HyperOS 国际版率先面向 POCO F5 用户推送](https://m.ithome.com/html/740037.htm)
 
++ [华为已有 400 多家合作伙伴启动鸿蒙原生应用开发](https://m.ithome.com/html/740147.htm)
+
++ [R7 7840HS+16G+1T：零刻 SER7 迷你主机 2899 元久违发车](https://m.ithome.com/html/739990.htm)
+
++ [努比亚 Z60 Ultra 手机参数汇总：骁龙 8 Gen 3 搭配 6000mAh 大电池，今日发布](https://m.ithome.com/html/740089.htm)
+

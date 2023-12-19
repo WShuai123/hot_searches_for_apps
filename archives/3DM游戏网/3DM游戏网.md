@@ -205,3 +205,11 @@
 
 + [《全面战争：法老》商品调整公告 游戏本体降价DLC免费](https://www.3dmgame.com/news/202312/3884162.html)
 
++ [百度数字人生成专利公布：可像人类一样表达意识和情感](https://www.3dmgame.com/news/202312/3884169.html)
+
++ [游戏数据网站HowLongToBeat公布2023年统计数据](https://www.3dmgame.com/news/202312/3884168.html)
+
++ [黑客组织公开索尼被盗文件 《漫威金刚狼》2025年9月前发售](https://www.3dmgame.com/news/202312/3884166.html)
+
++ [“投机”不成蚀把米 指环王同人作者起诉亚马逊反欠高额律师费](https://www.3dmgame.com/news/202312/3884165.html)
+

@@ -57,3 +57,5 @@
 
 + [实现阶段 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/security-management/386317.html)
 
++ [如何使用Qu1ckdr0p2快速通过HTTP或HTTPS实现文件托管](https://www.freebuf.com/sectool/384284.html)
+
