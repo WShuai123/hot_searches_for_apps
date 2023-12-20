@@ -121,3 +121,7 @@
 
 + [《层层恐惧》开发商Bloober将开发Skybound新IP](https://www.3dmgame.com/news/202312/3884308.html)
 
++ [《荒野大镖客2》主角倾情演唱如龙神曲《像笨蛋一样》](https://www.3dmgame.com/news/202312/3884310.html)
+
++ [牧场物语衍生作《数织拼图：牧场物语》预告](https://www.3dmgame.com/news/202312/3884309.html)
+
