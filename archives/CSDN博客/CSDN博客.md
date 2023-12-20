@@ -179,3 +179,7 @@
 
 + [2023年微软开源八个人工智能项目](https://blog.csdn.net/java_cjkl/article/details/135060062)
 
++ [基于Java+Vue+uniapp微信小程序国产动漫论坛系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135108894)
+
++ [网络安全—四种攻击方式](https://blog.csdn.net/m0_69801663/article/details/135089845)
+
