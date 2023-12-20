@@ -259,3 +259,17 @@
 
 + [任天堂还没发话粉丝有点担心 拜仁慕尼黑官方宣传图高仿马车](https://www.3dmgame.com/news/202312/3884286.html)
 
++ [三星与iFixit合作 折叠屏手机加入自助维修计划](https://www.3dmgame.com/news/202312/3884292.html)
+
++ [《硬核机甲：勇气版》现已登陆Xbox！支持本地多人对战！](https://www.3dmgame.com/news/202312/3884288.html)
+
++ [摩尔线程发布智算加速卡MTT S4000 支持48GB显存](https://www.3dmgame.com/news/202312/3884293.html)
+
++ [《鸢之歌2：星纪元》12月20日开放试玩：天才科学少女的终末旅行](https://www.3dmgame.com/news/202312/3884291.html)
+
++ [所有鸽子们！《Headbangers: Rhythm Royale》第二赛季今日上线](https://www.3dmgame.com/news/202312/3884290.html)
+
++ [与朋友们在全新的团队模式中，打场《友尽高尔夫》](https://www.3dmgame.com/news/202312/3884289.html)
+
++ [网友晒小米汽车和保时捷的外观对比 真借鉴了吗？](https://www.3dmgame.com/news/202312/3884287.html)
+

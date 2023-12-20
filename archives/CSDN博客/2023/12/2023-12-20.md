@@ -173,3 +173,5 @@
 
 + [高维向量压缩方法IVFPQ :通过创建索引加速矢量搜索](https://blog.csdn.net/m0_46510245/article/details/135102464)
 
++ [【SpringCloudAlibaba】Sentinel熔断限流工具的使用](https://blog.csdn.net/ZhangXS9722/article/details/132315931)
+

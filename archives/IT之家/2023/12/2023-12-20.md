@@ -51,3 +51,5 @@
 
 + [2023 全球十大工程成就发布：ChatGPT、中国空间站、华为鸿蒙等入选](https://m.ithome.com/html/740410.htm)
 
++ [腾讯 QQ 9 全新版本官网上线，iOS、安卓版均已开放更新下载](https://m.ithome.com/html/740538.htm)
+
