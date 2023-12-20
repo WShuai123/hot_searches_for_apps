@@ -27,3 +27,5 @@
 
 + [苹果 iPhone 用户反馈 iOS 17 存在闹钟不响问题](https://m.ithome.com/html/740510.htm)
 
++ [腾讯游戏《王者荣耀》实现微信 QQ 双区互通，需通过王者营地 App 添加好友](https://m.ithome.com/html/740573.htm)
+

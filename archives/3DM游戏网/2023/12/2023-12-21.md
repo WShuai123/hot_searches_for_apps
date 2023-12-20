@@ -101,3 +101,15 @@
 
 + [Neowiz 新作《英雄征集》进行大规模更新 将参与steam冬季折扣](https://www.3dmgame.com/news/202312/3884246.html)
 
++ [腾讯QQ9正式发布！4年来最大更新](https://www.3dmgame.com/news/202312/3884303.html)
+
++ [Epic喜加一：《Spelldrifter》免费领、明日神秘游戏](https://www.3dmgame.com/news/202312/3884304.html)
+
++ [《轩辕剑7》NS版宣布延期至明年春 研发最后阶段](https://www.3dmgame.com/news/202312/3884302.html)
+
++ [PS5销量破5000万 达到新里程碑](https://www.3dmgame.com/news/202312/3884300.html)
+
++ [分析机构：PS5今年销量是Xbox Series三倍](https://www.3dmgame.com/news/202312/3884301.html)
+
++ [《漫威蜘蛛侠2》计划推出三款免费DLC](https://www.3dmgame.com/news/202312/3884299.html)
+
