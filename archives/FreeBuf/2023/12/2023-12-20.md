@@ -43,3 +43,7 @@
 
 + [警惕掠夺性金融技术：看Android上的欺骗性贷款应用如何绕过Google Play检测](https://www.freebuf.com/articles/paper/386168.html)
 
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
++ [FreeBuf早报 | 伊朗发生大规模网络攻击；2023年十大新兴安卓银行木马](https://www.freebuf.com/news/387054.html)
+

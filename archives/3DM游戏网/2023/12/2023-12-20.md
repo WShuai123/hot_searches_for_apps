@@ -111,3 +111,39 @@
 
 + [《黑色沙漠》新增职业智者挥舞大锤的炼金术师](https://www.3dmgame.com/news/202312/3884209.html)
 
++ [传闻：《使命召唤2025》为黑色行动2直接续作](https://www.3dmgame.com/news/202312/3884229.html)
+
++ [《海王2：失落的王国》今日正式上映 票买好了吗？](https://www.3dmgame.com/news/202312/3884230.html)
+
++ [任天堂否决了马里奥制造风格的塞尔达游戏的想法](https://www.3dmgame.com/news/202312/3884228.html)
+
++ [《迷宫校舍》明年2月登陆steam 多人合作恐怖探险](https://www.3dmgame.com/news/202312/3884227.html)
+
++ [新西兰游戏产业2023年收入达2.7亿美元](https://www.3dmgame.com/news/202312/3884226.html)
+
++ [《魔兽世界》2024年路线图公布 新资料片档期和大灾变怀旧确定](https://www.3dmgame.com/news/202312/3884225.html)
+
++ [新泄露文件揭示 索尼担心微软收购动视暴雪后Xbox 将“超越”PlayStation](https://www.3dmgame.com/news/202312/3884224.html)
+
++ [《DNF决斗》锁国区 Epic本周国区免费游戏为特供](https://www.3dmgame.com/news/202312/3884222.html)
+
++ [《铁拳8》终极版预告 32位角色黄金西装等](https://www.3dmgame.com/news/202312/3884221.html)
+
++ [诡异操作 《自杀小队：战胜正义联盟》Epic版单独跳票一个月](https://www.3dmgame.com/news/202312/3884219.html)
+
++ [澳大利亚游戏行业2023年收入3.455亿澳元](https://www.3dmgame.com/news/202312/3884220.html)
+
++ [《The Enjenir》Steam抢先体验开启 中世纪物理建筑模拟](https://www.3dmgame.com/news/202312/3884218.html)
+
++ [《消逝的光芒2》圣诞活动开启 冬季更新武器库再升级](https://www.3dmgame.com/news/202312/3884223.html)
+
++ [Insomniac开发《日落过载》仅赚了567美元](https://www.3dmgame.com/news/202312/3884217.html)
+
++ [EA高管资料显示《圣歌》首周销量200万份 总销量500万份](https://www.3dmgame.com/news/202312/3884216.html)
+
++ [《血源》销量泄露 截止2020财年将近750万套](https://www.3dmgame.com/news/202312/3884215.html)
+
++ [《工业大亨4.0》最低配置公布 要求RTX 3060显卡](https://www.3dmgame.com/news/202312/3884214.html)
+
++ [像素射击游戏《救国少女之斯娜静歌》公布游戏预告](https://www.3dmgame.com/news/202312/3884213.html)
+

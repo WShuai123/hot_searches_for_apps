@@ -29,3 +29,7 @@
 
 + [小米宣布为甘肃地震中受损的电视 / 空调 / 冰箱 / 洗衣机产品提供免费检测维修服务](https://m.ithome.com/html/740360.htm)
 
++ [现代汽车宣布 1 万卢布出售俄罗斯工厂，约合 789 元人民币](https://m.ithome.com/html/740325.htm)
+
++ [消息称 ofo 创始人戴威美国创业项目再失败，About Time Coffee 咖啡馆关到仅剩一家](https://m.ithome.com/html/740348.htm)
+
