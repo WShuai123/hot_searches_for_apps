@@ -53,3 +53,7 @@
 
 + [美国第二大互联网供应商泄露3600万用户数据](https://www.freebuf.com/news/387155.html)
 
++ [CloudPulse：一款针对AWS云环境的SSL证书搜索与分析引擎](https://www.freebuf.com/sectool/384285.html)
+
++ [FBI：BlackCat 勒索软件狂“薅” 3 亿美元](https://www.freebuf.com/news/387160.html)
+

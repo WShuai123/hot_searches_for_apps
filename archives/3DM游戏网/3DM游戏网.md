@@ -199,3 +199,25 @@
 
 + [《光环》电视剧第二季首张海报公布 2024年2月8日首播](https://www.3dmgame.com/news/202312/3884256.html)
 
++ [《向上向下》登陆Steam 仿只有向上竞速跑酷新游](https://www.3dmgame.com/news/202312/3884265.html)
+
++ [《银河文明 IV》故事驱动类DLC“半人马座传说”正式发售](https://www.3dmgame.com/news/202312/3884267.html)
+
++ [折扣吸引新老玩家 《怪物猎人：世界》在线数3年内史高](https://www.3dmgame.com/news/202312/3884266.html)
+
++ [国内首款！中国自研AS700载人飞艇获颁合格证](https://www.3dmgame.com/news/202312/3884264.html)
+
++ [扎克·施奈德称有兴趣执导《堡垒之夜》改编电影](https://www.3dmgame.com/news/202312/3884263.html)
+
++ [官宣！胖布丁解谜新作《迷失岛4小屋实验》2024年1月10日登陆蒸汽平台](https://www.3dmgame.com/news/202312/3884262.html)
+
++ [开放世界生存制作游戏《非生物因素》 现已开放测试申请](https://www.3dmgame.com/news/202312/3884261.html)
+
++ [《沙漠大冒险》载具预告 发售日期待定](https://www.3dmgame.com/news/202312/3884260.html)
+
++ [麦克演员采访 矢口否认自己会出演《GTA 6》](https://www.3dmgame.com/news/202312/3884259.html)
+
++ [《任天堂全明星大乱斗》玩家自制海贼王地图 恶搞艾斯牺牲场面](https://www.3dmgame.com/news/202312/3884258.html)
+
++ [《Riven》重制版Steam页面上线 经典神作《神秘岛》续篇](https://www.3dmgame.com/news/202312/3884257.html)
+
