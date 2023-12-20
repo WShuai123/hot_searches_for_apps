@@ -221,3 +221,7 @@
 
 + [《Riven》重制版Steam页面上线 经典神作《神秘岛》续篇](https://www.3dmgame.com/news/202312/3884257.html)
 
++ [IOS《生化4重制版》今日推出 首发折扣5.1折](https://www.3dmgame.com/news/202312/3884269.html)
+
++ [本周fami通游戏评分出炉 《博德之门3》获36分](https://www.3dmgame.com/news/202312/3884268.html)
+

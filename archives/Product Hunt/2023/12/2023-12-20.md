@@ -105,3 +105,15 @@
 
 + [AI Enhanced UI Kits](https://www.producthunt.com/posts/ai-enhanced-ui-kits)
 
++ [Location by amo](https://www.producthunt.com/posts/location-by-amo)
+
++ [Milky Plant](https://www.producthunt.com/posts/milky-plant)
+
++ [Findly](https://www.producthunt.com/posts/findly)
+
++ [Knowlee AI](https://www.producthunt.com/posts/knowlee-ai)
+
++ [Krea](https://www.producthunt.com/posts/krea)
+
++ [Twixie](https://www.producthunt.com/posts/twixie)
+

@@ -39,3 +39,7 @@
 
 + [摩尔线程大模型智算加速卡 MTT S4000 发布，配备 48GB 显存](https://m.ithome.com/html/740281.htm)
 
++ [小米汽车要来了？“小米年度科技盛宴”月底举行，开启米粉招募](https://m.ithome.com/html/740427.htm)
+
++ [小米 Redmi K70 系列手机 14 天销量突破 100 万台，刷新 K 系列纪录](https://m.ithome.com/html/740406.htm)
+

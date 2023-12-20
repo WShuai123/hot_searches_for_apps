@@ -57,3 +57,5 @@
 
 + [FBI：BlackCat 勒索软件狂“薅” 3 亿美元](https://www.freebuf.com/news/387160.html)
 
++ [疯狂勒索500强和美国政府，疯猫BlackCat靠什么年入“3”亿？](https://www.freebuf.com/news/topnews/386935.html)
+
