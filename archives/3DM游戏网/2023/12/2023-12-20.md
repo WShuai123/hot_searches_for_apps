@@ -157,3 +157,23 @@
 
 + [失眠社泄露：《漫威蜘蛛侠》多人模式截图](https://www.3dmgame.com/news/202312/3884231.html)
 
++ [《浪人崛起》更加现代不玩魔幻 全新截图公布](https://www.3dmgame.com/news/202312/3884243.html)
+
++ [WPS Office宣布今日起正式关闭第三方商业广告](https://www.3dmgame.com/news/202312/3884244.html)
+
++ [《铁尾传奇》扩展“高杉森林”上线 免费更新](https://www.3dmgame.com/news/202312/3884245.html)
+
++ [暴雪希望立即为所有玩家免费提供《守望先锋2》的新英雄](https://www.3dmgame.com/news/202312/3884236.html)
+
++ [集英社综合游戏平台《Game Pitch Base》免费B版启动](https://www.3dmgame.com/news/202312/3884237.html)
+
++ [《金刚狼》早期实机泄露 钢爪攀爬等核心玩法](https://www.3dmgame.com/news/202312/3884238.html)
+
++ [M站评出2023年年度最烂游戏：《魔戒：咕噜》](https://www.3dmgame.com/news/202312/3884239.html)
+
++ [《使命召唤》宣布推出新活动CODMAS 包含新地图和新模式](https://www.3dmgame.com/news/202312/3884240.html)
+
++ [前《质量效应》编剧：传奇版成功让我决心离开生软](https://www.3dmgame.com/news/202312/3884241.html)
+
++ [早期开发版本《原子之心》 今年俄国盗版下载量第一](https://www.3dmgame.com/news/202312/3884242.html)
+

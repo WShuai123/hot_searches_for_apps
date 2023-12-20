@@ -35,3 +35,7 @@
 
 + [WPS Office 国内个人版今日起正式关闭第三方商业广告](https://m.ithome.com/html/740399.htm)
 
++ [苹果 iOS 17.2.1 正式版发布：修复某些场景下耗电过快问题](https://m.ithome.com/html/740365.htm)
+
++ [摩尔线程大模型智算加速卡 MTT S4000 发布，配备 48GB 显存](https://m.ithome.com/html/740281.htm)
+

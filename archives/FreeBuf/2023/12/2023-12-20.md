@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 伊朗发生大规模网络攻击；2023年十大新兴安卓银行木马](https://www.freebuf.com/news/387054.html)
 
++ [Play勒索软件已完成RaaS业务转型，曾袭击全球超300家企业机构](https://www.freebuf.com/news/387140.html)
+

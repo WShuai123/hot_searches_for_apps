@@ -139,3 +139,7 @@
 
 + [HTML中边框样式、内外边距、盒子模型尺寸计算（附代码图文示例）【详解】](https://blog.csdn.net/Jin_Xiang123/article/details/135068756)
 
++ [【2023 英特尔On技术创新大会直播 |我与英特尔的初次相遇】—— AIPC探索下一代的物联网时代](https://blog.csdn.net/Aileenvov/article/details/135093640)
+
++ [竞赛保研 python的搜索引擎系统设计与实现](https://blog.csdn.net/iuerfee/article/details/135066942)
+
