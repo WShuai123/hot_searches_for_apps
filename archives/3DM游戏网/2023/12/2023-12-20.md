@@ -147,3 +147,13 @@
 
 + [像素射击游戏《救国少女之斯娜静歌》公布游戏预告](https://www.3dmgame.com/news/202312/3884213.html)
 
++ [第三人称视角动作冒险新游《Grey Lines》即将众筹](https://www.3dmgame.com/news/202312/3884234.html)
+
++ [《The Finals》外挂太多玩家要求锁中国区 官方回应不予支持](https://www.3dmgame.com/news/202312/3884235.html)
+
++ [《辐射76》玩家数已突破1700万 明年更新计划公布](https://www.3dmgame.com/news/202312/3884233.html)
+
++ [《暗黑破坏神4》成Twitch直播2023年最热新游戏](https://www.3dmgame.com/news/202312/3884232.html)
+
++ [失眠社泄露：《漫威蜘蛛侠》多人模式截图](https://www.3dmgame.com/news/202312/3884231.html)
+
