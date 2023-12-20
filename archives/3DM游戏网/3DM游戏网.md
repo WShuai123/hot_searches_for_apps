@@ -113,3 +113,11 @@
 
 + [《漫威蜘蛛侠2》计划推出三款免费DLC](https://www.3dmgame.com/news/202312/3884299.html)
 
++ [《铁拳8》“沙漠之鹰”沙欣角色预告片分享](https://www.3dmgame.com/news/202312/3884305.html)
+
++ [《潜行者》风格FPS《Pioner》新实机预告片展示](https://www.3dmgame.com/news/202312/3884306.html)
+
++ [《遗物：第一守护者》25年初发行 预告片放出](https://www.3dmgame.com/news/202312/3884307.html)
+
++ [《层层恐惧》开发商Bloober将开发Skybound新IP](https://www.3dmgame.com/news/202312/3884308.html)
+
