@@ -273,3 +273,7 @@
 
 + [网友晒小米汽车和保时捷的外观对比 真借鉴了吗？](https://www.3dmgame.com/news/202312/3884287.html)
 
++ [泄露文件称《漫威蜘蛛侠》2和3都将移植到PC](https://www.3dmgame.com/news/202312/3884296.html)
+
++ [《最终幻想7：重生》GI前瞻：主线40小时 支线60小时](https://www.3dmgame.com/news/202312/3884295.html)
+

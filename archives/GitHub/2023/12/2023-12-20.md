@@ -51,3 +51,35 @@
 
 + [microsoft / LLMLingua](https://github.com/microsoft/LLMLingua)
 
++ [jmorganca / ollama](https://github.com/jmorganca/ollama)
+
++ [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD)
+
++ [Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
+
++ [gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+
++ [chokcoco / iCSS](https://github.com/chokcoco/iCSS)
+
++ [bytedance / ImageDream](https://github.com/bytedance/ImageDream)
+
++ [Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary)
+
++ [Librum-Reader / Librum](https://github.com/Librum-Reader/Librum)
+
++ [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
++ [atomicals / atomicals-js](https://github.com/atomicals/atomicals-js)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [ollama-webui / ollama-webui](https://github.com/ollama-webui/ollama-webui)
+
++ [libp2p / rust-libp2p](https://github.com/libp2p/rust-libp2p)
+
++ [mpv-player / mpv](https://github.com/mpv-player/mpv)
+
++ [ansible / ansible](https://github.com/ansible/ansible)
+

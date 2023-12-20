@@ -175,3 +175,7 @@
 
 + [【SpringCloudAlibaba】Sentinel熔断限流工具的使用](https://blog.csdn.net/ZhangXS9722/article/details/132315931)
 
++ [（1）(1.9) MSP (version 4.2)](https://blog.csdn.net/qq_20016593/article/details/134924948)
+
++ [2023年微软开源八个人工智能项目](https://blog.csdn.net/java_cjkl/article/details/135060062)
+
