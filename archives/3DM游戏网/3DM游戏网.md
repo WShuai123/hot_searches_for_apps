@@ -277,3 +277,7 @@
 
 + [《最终幻想7：重生》GI前瞻：主线40小时 支线60小时](https://www.3dmgame.com/news/202312/3884295.html)
 
++ [《芭比》电影导演格蕾塔和编剧鲍姆巴赫结婚](https://www.3dmgame.com/news/202312/3884297.html)
+
++ [前《木卫四协议》总监将于2024年公布自己的新作](https://www.3dmgame.com/news/202312/3884294.html)
+
