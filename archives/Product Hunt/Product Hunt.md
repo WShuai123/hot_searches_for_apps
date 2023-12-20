@@ -117,3 +117,17 @@
 
 + [Twixie](https://www.producthunt.com/posts/twixie)
 
++ [DaDa](https://www.producthunt.com/posts/dada-3)
+
++ [AI Christmas portrait generator](https://www.producthunt.com/posts/ai-christmas-portrait-generator)
+
++ [Canary Checker](https://www.producthunt.com/posts/canary-checker)
+
++ [Discovertsy 2.0](https://www.producthunt.com/posts/discovertsy-2-0)
+
++ [Empty Email](https://www.producthunt.com/posts/empty-email)
+
++ [Toothbrushing: Daily Oral Care](https://www.producthunt.com/posts/toothbrushing-daily-oral-care)
+
++ [Phron.io](https://www.producthunt.com/posts/phron-io)
+

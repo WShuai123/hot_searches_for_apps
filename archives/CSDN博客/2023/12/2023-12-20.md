@@ -167,3 +167,5 @@
 
 + [【Java】工业园区高精准UWB定位系统源码](https://blog.csdn.net/qq_27741787/article/details/135090031)
 
++ [【SpringBoot篇】基于Redis实现生成全局唯一ID的方法](https://blog.csdn.net/m0_72853403/article/details/135104994)
+

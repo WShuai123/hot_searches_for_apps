@@ -225,3 +225,33 @@
 
 + [本周fami通游戏评分出炉 《博德之门3》获36分](https://www.3dmgame.com/news/202312/3884268.html)
 
++ [《人中之龙7外传》首促！《索尼克 超级巨星》等人气作品亦参与促销](https://www.3dmgame.com/news/202312/3884279.html)
+
++ [沙特要建全球最高端游戏电竞馆 可容纳5155人](https://www.3dmgame.com/news/202312/3884283.html)
+
++ [《日落过载》或难有续作 索尼拥有IP微软拥有发行权](https://www.3dmgame.com/news/202312/3884284.html)
+
++ [区块链游戏将重登Epic商店 不受成人分级影响](https://www.3dmgame.com/news/202312/3884282.html)
+
++ [外媒GI评2023年十大游戏：《塞尔达：王国之泪》年度最佳](https://www.3dmgame.com/news/202312/3884281.html)
+
++ [碰撞测试数据造假：丰田子公司全部车型将停止出货](https://www.3dmgame.com/news/202312/3884280.html)
+
++ [《魔法气泡™ 特趣思™ 俄罗斯方块™》系列 全球累计销售300万部纪念促销活动火热进行中！](https://www.3dmgame.com/news/202312/3884278.html)
+
++ [全球虚假新闻网站激增十几倍 AI工具成帮凶](https://www.3dmgame.com/news/202312/3884277.html)
+
++ [恭喜陶德和拉瑞安老板 入选娱乐业最具影响力人物榜单](https://www.3dmgame.com/news/202312/3884276.html)
+
++ [PS首席执行官吉姆·瑞安出售大量索尼股票 获利420万美元](https://www.3dmgame.com/news/202312/3884275.html)
+
++ [网飞奇幻片《少女斗恶龙》新剧照 阴暗山洞中的公主](https://www.3dmgame.com/news/202312/3884274.html)
+
++ [《坎巴拉太空计划2》大型更新For Science!上线 追加新探索模式](https://www.3dmgame.com/news/202312/3884272.html)
+
++ [涨幅55%不算完！内存、SSD等存储要继续涨价 至少还能涨23%](https://www.3dmgame.com/news/202312/3884270.html)
+
++ [达斯·维达演员：很愿意在未来《星战》中再饰演黑武士](https://www.3dmgame.com/news/202312/3884273.html)
+
++ [今年《模拟人生4》玩家创建5.68亿个模拟人 超美国人口数](https://www.3dmgame.com/news/202312/3884271.html)
+

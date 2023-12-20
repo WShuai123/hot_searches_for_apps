@@ -43,3 +43,7 @@
 
 + [小米 Redmi K70 系列手机 14 天销量突破 100 万台，刷新 K 系列纪录](https://m.ithome.com/html/740406.htm)
 
++ [上市 74 年，巨头东芝今日正式退市](https://m.ithome.com/html/740382.htm)
+
++ [传音入驻深圳总部新大楼](https://m.ithome.com/html/740270.htm)
+
