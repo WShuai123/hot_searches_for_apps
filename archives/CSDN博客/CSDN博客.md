@@ -151,3 +151,13 @@
 
 + [YOLOv8改进 | 主干篇 | 轻量级网络ShuffleNetV2（附代码+修改教程）](https://blog.csdn.net/java1314777/article/details/135084192)
 
++ [AI时代架构设计新模式](https://blog.csdn.net/weixin_50843918/article/details/135089396)
+
++ [云计算——ACA学习 虚拟化技术产品介绍](https://blog.csdn.net/yj11290301/article/details/135035678)
+
++ [深入理解 HTTP 和 HTTPS：提升你的网站安全性(下)](https://blog.csdn.net/weixin_42554191/article/details/135046291)
+
++ [第80讲：GTID全局事务标识符的基本概念以及在Binlog中应用GTID](https://blog.csdn.net/weixin_44953658/article/details/135099985)
+
++ [MySQL是如何保证数据不丢失的？](https://blog.csdn.net/qq_28314431/article/details/135090703)
+

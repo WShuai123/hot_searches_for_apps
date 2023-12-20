@@ -51,3 +51,5 @@
 
 + [GPTs攻击面研究与分析](https://www.freebuf.com/articles/network/386897.html)
 
++ [美国第二大互联网供应商泄露3600万用户数据](https://www.freebuf.com/news/387155.html)
+

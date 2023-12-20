@@ -195,3 +195,7 @@
 
 + [Neowiz 新作《英雄征集》进行大规模更新 将参与steam冬季折扣](https://www.3dmgame.com/news/202312/3884246.html)
 
++ [《迷失岛4 小屋实验》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3884255.html)
+
++ [《光环》电视剧第二季首张海报公布 2024年2月8日首播](https://www.3dmgame.com/news/202312/3884256.html)
+
