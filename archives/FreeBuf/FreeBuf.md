@@ -49,3 +49,5 @@
 
 + [Play勒索软件已完成RaaS业务转型，曾袭击全球超300家企业机构](https://www.freebuf.com/news/387140.html)
 
++ [GPTs攻击面研究与分析](https://www.freebuf.com/articles/network/386897.html)
+

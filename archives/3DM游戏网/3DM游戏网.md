@@ -177,3 +177,21 @@
 
 + [早期开发版本《原子之心》 今年俄国盗版下载量第一](https://www.3dmgame.com/news/202312/3884242.html)
 
++ [《人中之龙8》角色介绍 1月26日发售](https://www.3dmgame.com/news/202312/3884252.html)
+
++ [《瑞克和莫蒂：日漫版》发布全新预告 多元宇宙瑞克登场](https://www.3dmgame.com/news/202312/3884254.html)
+
++ [影驰20周年纪念款RTX4070显卡即将开卖 首发5999元](https://www.3dmgame.com/news/202312/3884253.html)
+
++ [《战神：诸神黄昏》新补丁 增加DLC肉鸽玩法难度](https://www.3dmgame.com/news/202312/3884251.html)
+
++ [《maboroshi caravan》登陆Steam 放置系沙漠之旅](https://www.3dmgame.com/news/202312/3884250.html)
+
++ [亚当·桑德勒主演的Netflix原创电影 《太空孤航》 发布抢先预告](https://www.3dmgame.com/news/202312/3884249.html)
+
++ [游戏开发者痛斥失眠组泄露黑客：可耻可恶](https://www.3dmgame.com/news/202312/3884248.html)
+
++ [硬核平台跑酷游戏《弃子》发售日预告 1月19日发售](https://www.3dmgame.com/news/202312/3884247.html)
+
++ [Neowiz 新作《英雄征集》进行大规模更新 将参与steam冬季折扣](https://www.3dmgame.com/news/202312/3884246.html)
+
