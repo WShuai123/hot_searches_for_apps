@@ -169,3 +169,7 @@
 
 + [【SpringBoot篇】基于Redis实现生成全局唯一ID的方法](https://blog.csdn.net/m0_72853403/article/details/135104994)
 
++ [Docker容器中的OpenCV：轻松构建可移植的计算机视觉环境](https://blog.csdn.net/m0_68662723/article/details/135096901)
+
++ [高维向量压缩方法IVFPQ :通过创建索引加速矢量搜索](https://blog.csdn.net/m0_46510245/article/details/135102464)
+

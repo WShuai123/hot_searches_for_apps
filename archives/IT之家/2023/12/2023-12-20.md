@@ -47,3 +47,7 @@
 
 + [传音入驻深圳总部新大楼](https://m.ithome.com/html/740270.htm)
 
++ [网易云音乐 2023 听歌报告上线：从今以后，听歌数据可以每天查看](https://m.ithome.com/html/740395.htm)
+
++ [2023 全球十大工程成就发布：ChatGPT、中国空间站、华为鸿蒙等入选](https://m.ithome.com/html/740410.htm)
+

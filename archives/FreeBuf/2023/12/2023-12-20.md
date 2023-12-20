@@ -59,3 +59,5 @@
 
 + [疯狂勒索500强和美国政府，疯猫BlackCat靠什么年入“3”亿？](https://www.freebuf.com/news/topnews/386935.html)
 
++ [企业安全 | 威胁建模入门](https://www.freebuf.com/articles/es/380786.html)
+
