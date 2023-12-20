@@ -281,3 +281,5 @@
 
 + [前《木卫四协议》总监将于2024年公布自己的新作](https://www.3dmgame.com/news/202312/3884294.html)
 
++ [星链竞争对手HughesNet开始提供100Mbps卫星网速](https://www.3dmgame.com/news/202312/3884298.html)
+
