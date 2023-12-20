@@ -103,3 +103,11 @@
 
 + [Epic五年送出395款游戏 16天连送马上开启](https://www.3dmgame.com/news/202312/3884208.html)
 
++ [游戏粉丝自掏腰包200美元制作《GTA6》预告](https://www.3dmgame.com/news/202312/3884212.html)
+
++ [穿越策略游戏《时间融合》发布游玩预告片](https://www.3dmgame.com/news/202312/3884211.html)
+
++ [《消逝的光芒2》冬日传说活动1月5日追加全新内容](https://www.3dmgame.com/news/202312/3884210.html)
+
++ [《黑色沙漠》新增职业智者挥舞大锤的炼金术师](https://www.3dmgame.com/news/202312/3884209.html)
+

@@ -41,3 +41,5 @@
 
 + [《工业和信息化领域数据安全事件应急预案（试行）（征求意见稿）》发布](https://www.freebuf.com/news/386854.html)
 
++ [警惕掠夺性金融技术：看Android上的欺骗性贷款应用如何绕过Google Play检测](https://www.freebuf.com/articles/paper/386168.html)
+
