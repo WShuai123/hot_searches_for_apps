@@ -147,3 +147,7 @@
 
 + [【计算机四级（网络工程师）笔记】操作系统概论](https://blog.csdn.net/m0_71369515/article/details/135110700)
 
++ [【智慧之窗】AI驱动产品探索](https://blog.csdn.net/qyj19920704/article/details/135067269)
+
++ [YOLOv5性能评估指标-＞mAP、Precision、Recall、FPS、Confienc (讲解论文关注的主要指标)](https://blog.csdn.net/java1314777/article/details/135120684)
+

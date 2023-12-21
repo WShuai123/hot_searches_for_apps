@@ -39,3 +39,7 @@
 
 + [消息称苹果培训员工介绍 Vision Pro 头显时禁用“VR”单词](https://m.ithome.com/html/740452.htm)
 
++ [小米 ZMI 被紫米 zime 提起诉讼并“索赔巨大”，酷态科负责人发声](https://m.ithome.com/html/740622.htm)
+
++ [杨元庆以个人名义向母校中国科大捐赠 2 亿元，支持少年班学院楼建设](https://m.ithome.com/html/740575.htm)
+

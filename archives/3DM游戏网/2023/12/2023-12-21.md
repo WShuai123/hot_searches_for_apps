@@ -183,3 +183,21 @@
 
 + [电子游戏筹款活动“Jingle Jam”自2011年以来已筹集超过2500万英镑](https://www.3dmgame.com/news/202312/3884326.html)
 
++ [劳力士因阻止其手表在线销售 被法国重罚9160万欧元](https://www.3dmgame.com/news/202312/3884349.html)
+
++ [宛如艺术品 高玩使用LED加树脂逼真还原独角兽高达精神骨架特效](https://www.3dmgame.com/news/202312/3884348.html)
+
++ [漫威《雷霆特工队》电影演员透露拍摄春季开机](https://www.3dmgame.com/news/202312/3884347.html)
+
++ [游戏《间谍过家家：日记大作战》正式发售 2024年登陆PS](https://www.3dmgame.com/news/202312/3884346.html)
+
++ [智联招聘董事长谈受AI影响最大职业 有必要尽快转型](https://www.3dmgame.com/news/202312/3884345.html)
+
++ [《耀斑纪元》12分钟实机公布 1月18日Steam EA发售](https://www.3dmgame.com/news/202312/3884344.html)
+
++ [《弹丸论破》制作者小高和刚：“我不在乎他们卖得好不好”](https://www.3dmgame.com/news/202312/3884343.html)
+
++ [《少女前线2：追放》公测开启 多平台进度互通](https://www.3dmgame.com/news/202312/3884342.html)
+
++ [《遗迹2》开发者：乐意探索新玩法 或增添波次生存模式](https://www.3dmgame.com/news/202312/3884341.html)
+
