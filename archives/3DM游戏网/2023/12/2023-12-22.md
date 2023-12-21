@@ -115,3 +115,5 @@
 
 + [《古往今来的板球》将于2024年初登陆PC/Switch](https://www.3dmgame.com/news/202312/3884403.html)
 
++ [四人共斗游戏《南方公园：雪假》确定3月26日发售](https://www.3dmgame.com/news/202312/3884404.html)
+

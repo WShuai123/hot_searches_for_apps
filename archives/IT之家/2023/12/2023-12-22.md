@@ -29,3 +29,5 @@
 
 + [4599 元，小米 Redmi K70 Pro 冠军版手机发布：联名兰博基尼，24GB + 1TB 顶配](https://m.ithome.com/html/740801.htm)
 
++ [【IT之家开箱】Redmi K70 Pro 冠军版图赏：联名兰博基尼，超跑附体](https://m.ithome.com/html/740805.htm)
+
