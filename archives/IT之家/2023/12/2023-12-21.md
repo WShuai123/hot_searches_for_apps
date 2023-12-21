@@ -57,3 +57,7 @@
 
 + [三星 Galaxy S24 手机官方渲染图曝光：紫、灰、黄、黑四款配色，四边等宽](https://m.ithome.com/html/740629.htm)
 
++ [小米 Redmi K70 Pro 冠军版手机外观细节公布：兰博基尼标志 + 碳纤维纹理](https://m.ithome.com/html/740614.htm)
+
++ [荣耀 90GT 手机发布：搭载第二代骁龙 8 芯片，限时优惠价 2599 元起](https://m.ithome.com/html/740804.htm)
+

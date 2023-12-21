@@ -193,3 +193,11 @@
 
 + [百度侯震宇详解：大模型将如何重构云计算？](https://blog.csdn.net/GZZN2019/article/details/135104936)
 
++ [如何使用Docker搭建青龙面板并结合内网穿透工具发布至公网可访问](https://blog.csdn.net/bushibrnxiaohaij/article/details/135135300)
+
++ [Vue.js 学习总结（6）—— Css 之预处理器 Sass(Scss)、Less 的区别与选择](https://blog.csdn.net/u012562943/article/details/135117774)
+
++ [2017年第六届数学建模国际赛小美赛A题飓风与全球变暖解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135099046)
+
++ [Linux笔记---系统信息](https://blog.csdn.net/AliceNo/article/details/135122514)
+

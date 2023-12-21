@@ -281,3 +281,11 @@
 
 + [Q3中国PC市场出货量同比下跌16% 预计明年迎来增长](https://www.3dmgame.com/news/202312/3884389.html)
 
++ [郭达《养蜂人》国内定档1月12日 和北美同步](https://www.3dmgame.com/news/202312/3884392.html)
+
++ [LG预告新款UltraGear OLED游戏显示器 覆盖32至45英寸](https://www.3dmgame.com/news/202312/3884393.html)
+
++ [《最终幻想7：重生》支线灵感来自《巫师3》](https://www.3dmgame.com/news/202312/3884391.html)
+
++ [《浪人崛起》7年前就已立项开发 游戏面积27平方公里](https://www.3dmgame.com/news/202312/3884390.html)
+
