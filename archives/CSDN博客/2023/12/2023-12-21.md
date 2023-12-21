@@ -187,3 +187,9 @@
 
 + [使用包、Crate 和模块管理项目（下）](https://blog.csdn.net/u014388408/article/details/134921511)
 
++ [深入理解 Nginx 工作原理：Master-Worker 架构与性能优化](https://blog.csdn.net/cooldream2009/article/details/135099843)
+
++ [CentOS操作学习（二）](https://blog.csdn.net/m0_56308072/article/details/135076247)
+
++ [百度侯震宇详解：大模型将如何重构云计算？](https://blog.csdn.net/GZZN2019/article/details/135104936)
+
