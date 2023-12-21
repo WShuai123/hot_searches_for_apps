@@ -107,3 +107,11 @@
 
 + [《物质世界：终极版》明年登陆NS Steam获多半好评](https://www.3dmgame.com/news/202312/3884397.html)
 
++ [世嘉管理会与透露《如龙7》已售出180万套](https://www.3dmgame.com/news/202312/3884400.html)
+
++ [《驱灵者：新伊甸的幽灵》新预告片介绍游戏背景](https://www.3dmgame.com/news/202312/3884401.html)
+
++ [《蒸汽世界：建造》赞誉宣传片公布 突出好评如潮](https://www.3dmgame.com/news/202312/3884402.html)
+
++ [《古往今来的板球》将于2024年初登陆PC/Switch](https://www.3dmgame.com/news/202312/3884403.html)
+
