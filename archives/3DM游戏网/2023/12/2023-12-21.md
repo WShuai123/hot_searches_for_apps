@@ -249,3 +249,33 @@
 
 + [索尼未来将采取多平台策略：建立无处不在的体验](https://www.3dmgame.com/news/202312/3884369.html)
 
++ [《完蛋我被美女包围》郑梓妍美图：手持大茄子称喜欢吃](https://www.3dmgame.com/news/202312/3884382.html)
+
++ [大屏电视交互差！近九成用户希望电视能像手机一样操作](https://www.3dmgame.com/news/202312/3884383.html)
+
++ [iPhone估价近3000回收却给500引热议 网友：到手屠龙刀](https://www.3dmgame.com/news/202312/3884384.html)
+
++ [《工业大亨4.0》——商业模拟游戏的新时代，将于2024年登陆PC！](https://www.3dmgame.com/news/202312/3884385.html)
+
++ [Creepy Jar 的下一部作品有了新名字《星际裂变》](https://www.3dmgame.com/news/202312/3884386.html)
+
++ [画风可爱但玩法硬核 《变色龙童绘历险》Steam试玩版现已开启](https://www.3dmgame.com/news/202312/3884387.html)
+
++ [《侠客风云传》侵权不成立，法院判决河洛无需赔偿](https://www.3dmgame.com/news/202312/3884388.html)
+
++ [苹果下一代CarPlay率先登陆保时捷和阿斯顿马丁](https://www.3dmgame.com/news/202312/3884376.html)
+
++ [KK对战平台DOTA 6.83怀旧重制版震撼上线 召唤室友再推高地！](https://www.3dmgame.com/news/202312/3884377.html)
+
++ [《阿盖尔：神秘特工》国内定档 2月23日正式发售](https://www.3dmgame.com/news/202312/3884378.html)
+
++ [《摇曳露营△》第三季新艺图公布 2024年4月开播](https://www.3dmgame.com/news/202312/3884379.html)
+
++ [库克已考虑离任！苹果下任掌门人会是谁](https://www.3dmgame.com/news/202312/3884381.html)
+
++ [国外游戏博主称2027年游戏价格将大涨 涨至100美元](https://www.3dmgame.com/news/202312/3884380.html)
+
++ [消息称台积电美国工厂明年第1季度试生产 已获3家本土客户订单](https://www.3dmgame.com/news/202312/3884374.html)
+
++ [《铁拳8》试玩Demo上线Steam和Xbox 下载大小20GB+](https://www.3dmgame.com/news/202312/3884375.html)
+

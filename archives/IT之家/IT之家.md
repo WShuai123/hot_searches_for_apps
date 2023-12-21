@@ -51,3 +51,5 @@
 
 + [华为 Mate 60 Pro 手机在列，中国电信“天通”卫星终端运抵甘肃地震灾区](https://m.ithome.com/html/740628.htm)
 
++ [Epic 喜加一：16 连送第一弹揭晓，回合制战术游戏《咒语浪人》](https://m.ithome.com/html/740598.htm)
+

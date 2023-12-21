@@ -177,3 +177,7 @@
 
 + [Windows本地搭建开源企业管理套件Odoo并实现公网访问](https://blog.csdn.net/2301_77053417/article/details/135067024)
 
++ [.netCHARTING 10.6 .NET 8.0 Chart Support --Crack](https://blog.csdn.net/john_dwh/article/details/135116045)
+
++ [【powershell】Windows环境powershell 运维之历史文件压缩清理](https://blog.csdn.net/qq_35995514/article/details/135044184)
+
