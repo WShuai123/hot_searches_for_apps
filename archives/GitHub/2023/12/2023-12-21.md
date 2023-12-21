@@ -51,3 +51,37 @@
 
 + [ansible / ansible](https://github.com/ansible/ansible)
 
++ [SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+
++ [damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor)
+
++ [babaohuang / GeminiProChat](https://github.com/babaohuang/GeminiProChat)
+
++ [tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
++ [localsend / localsend](https://github.com/localsend/localsend)
+
++ [pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
+
++ [JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+
++ [RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner)
+
++ [basecamp / solid_queue](https://github.com/basecamp/solid_queue)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [solidjs / solid-start](https://github.com/solidjs/solid-start)
+
++ [suno-ai / bark](https://github.com/suno-ai/bark)
+
++ [lxfater / inpaint-web](https://github.com/lxfater/inpaint-web)
+
++ [Anttwo / SuGaR](https://github.com/Anttwo/SuGaR)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot)
+
++ [dream-num / univer](https://github.com/dream-num/univer)
+

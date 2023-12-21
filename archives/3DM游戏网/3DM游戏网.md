@@ -279,3 +279,5 @@
 
 + [《铁拳8》试玩Demo上线Steam和Xbox 下载大小20GB+](https://www.3dmgame.com/news/202312/3884375.html)
 
++ [Q3中国PC市场出货量同比下跌16% 预计明年迎来增长](https://www.3dmgame.com/news/202312/3884389.html)
+
