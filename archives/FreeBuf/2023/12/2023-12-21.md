@@ -53,3 +53,7 @@
 
 + [渗透测试 | 关于“绕”云服务器防火墙策略的小tip](https://www.freebuf.com/articles/web/386233.html)
 
++ [GCP Scanner：一款针对Google Cloud Platform（GCP）的凭证安全审计工具](https://www.freebuf.com/sectool/384589.html)
+
++ [新型网络钓鱼攻击甚至能绕过 Instagram 2FA 验证！](https://www.freebuf.com/articles/387283.html)
+

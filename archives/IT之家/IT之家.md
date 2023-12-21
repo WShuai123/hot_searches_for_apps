@@ -45,3 +45,5 @@
 
 + [iOS 18 泄露“天机”：苹果 iPhone 16 / Pro 手机全系配 t8140 新 SoC](https://m.ithome.com/html/740601.htm)
 
++ [魅族开启 2023 手机百花奖评选：华为 Mate 60 Pro、魅族 21、小米 14 等入围最佳人气手机奖](https://m.ithome.com/html/740676.htm)
+

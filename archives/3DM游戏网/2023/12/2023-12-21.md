@@ -207,3 +207,25 @@
 
 + [预告发布两周 《GTA 6》粉丝已经开始研究头发了](https://www.3dmgame.com/news/202312/3884350.html)
 
++ [《粗暴的正义：“84 年》主机版发售 策略解谜棋盘游戏](https://www.3dmgame.com/news/202312/3884361.html)
+
++ [纪念《最终幻想7：重生》发售 CG电影《最终幻想7：圣子降临》4K重制版将在日本重映](https://www.3dmgame.com/news/202312/3884362.html)
+
++ [艺画开天热门动画IP改编 《灵笼 VR》互动体验内容发布](https://www.3dmgame.com/news/202312/3884363.html)
+
++ [肉鸽游戏《ShitMan》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202312/3884358.html)
+
++ [2023年游戏行业数据总结：王泪波德3并列口碑第一](https://www.3dmgame.com/news/202312/3884359.html)
+
++ [2.5D横版解谜动作游戏《Gift》现已登陆Steam 2024年发售](https://www.3dmgame.com/news/202312/3884360.html)
+
++ [《无职转生II：到了异世界就拿出真本事》第二季第二部分发布视觉预告图 2024年4月开始播出](https://www.3dmgame.com/news/202312/3884353.html)
+
++ [圆谷注册2024年新奥特曼商标：亚克奥特曼](https://www.3dmgame.com/news/202312/3884354.html)
+
++ [世界首座观众沉浸参与式主题娱乐城2024年东京开业](https://www.3dmgame.com/news/202312/3884355.html)
+
++ [英最高法院：专利“发明人”不能是人工智能](https://www.3dmgame.com/news/202312/3884356.html)
+
++ [《哥斯拉-1.0》将在日本上映黑白版 小岛秀夫转发海报表示期待](https://www.3dmgame.com/news/202312/3884357.html)
+
