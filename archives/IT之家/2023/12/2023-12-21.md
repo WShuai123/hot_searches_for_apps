@@ -37,3 +37,5 @@
 
 + [国产操作系统崛起：统信 UOS 桌面版装机量超 600 万套，市占率持续保持第一](https://m.ithome.com/html/740588.htm)
 
++ [消息称苹果培训员工介绍 Vision Pro 头显时禁用“VR”单词](https://m.ithome.com/html/740452.htm)
+

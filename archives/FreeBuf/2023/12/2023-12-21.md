@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 美国陆军完成2023年网络现代化实验；2024年欧洲数字计划](https://www.freebuf.com/news/387213.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+

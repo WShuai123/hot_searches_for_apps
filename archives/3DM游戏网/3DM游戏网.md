@@ -151,3 +151,35 @@
 
 + [《X4：基石》新资料片“时间线”与7.00更新2024年推出](https://www.3dmgame.com/news/202312/3884319.html)
 
++ [《谜之机器》明年2月登陆Switch 第一人称惊悚冒险](https://www.3dmgame.com/news/202312/3884340.html)
+
++ [假期结束？V社《军团要塞2》两天内连续发布更新](https://www.3dmgame.com/news/202312/3884338.html)
+
++ [《底特律：变人》全球销量900万份 今年卖了100万份](https://www.3dmgame.com/news/202312/3884339.html)
+
++ [《暗黑破坏神4》热修上线 超稀有装备掉率限时双倍](https://www.3dmgame.com/news/202312/3884337.html)
+
++ [《沙丘2》国内定档预告 2024年3月8日正式上映](https://www.3dmgame.com/news/202312/3884336.html)
+
++ [《严阵以待》Steam同时在线超5.5万 合作反恐受好评](https://www.3dmgame.com/news/202312/3884335.html)
+
++ [《梦幻之星 Online 2：新起源》宣布与《黑礁》联动](https://www.3dmgame.com/news/202312/3884334.html)
+
++ [动作游戏《全能之神》Switch版宣布2024年4月28日发售](https://www.3dmgame.com/news/202312/3884333.html)
+
++ [《守望先锋2》冬季活动引众怒 开发者表示不解](https://www.3dmgame.com/news/202312/3884331.html)
+
++ [《浪人崛起》被ESRB评为成人级 随便击杀平民NPC](https://www.3dmgame.com/news/202312/3884330.html)
+
++ [《方舟2》仍会在2024年发售 DLC已计划到了2029年](https://www.3dmgame.com/news/202312/3884328.html)
+
++ [《FF7重生》制作人：游戏必须回归完全的开放世界地图](https://www.3dmgame.com/news/202312/3884327.html)
+
++ [《斗鱼+》登陆三大主机发售 经典街机格斗名作复刻增强](https://www.3dmgame.com/news/202312/3884325.html)
+
++ [Steam测试版更新：购物车更新及私密游戏](https://www.3dmgame.com/news/202312/3884324.html)
+
++ [PS Blog 2023年度评选：《漫威蜘蛛侠2》一口气拿下9项大奖](https://www.3dmgame.com/news/202312/3884329.html)
+
++ [电子游戏筹款活动“Jingle Jam”自2011年以来已筹集超过2500万英镑](https://www.3dmgame.com/news/202312/3884326.html)
+
