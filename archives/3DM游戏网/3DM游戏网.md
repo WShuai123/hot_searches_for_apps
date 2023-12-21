@@ -101,3 +101,9 @@
 
 + [《遗迹2》开发者：乐意探索新玩法 或增添波次生存模式](https://www.3dmgame.com/news/202312/3884341.html)
 
++ [Epic喜加一：《梅尔沃放置》免费领取](https://www.3dmgame.com/news/202312/3884399.html)
+
++ [性能最强荣耀手机！荣耀90 GT发布：2599元起](https://www.3dmgame.com/news/202312/3884398.html)
+
++ [《物质世界：终极版》明年登陆NS Steam获多半好评](https://www.3dmgame.com/news/202312/3884397.html)
+
