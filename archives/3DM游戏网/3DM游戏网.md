@@ -141,3 +141,13 @@
 
 + [《宝可梦：朱.紫 零之秘宝》通关后还有“外传”可玩](https://www.3dmgame.com/news/202312/3884311.html)
 
++ [《合金装备：大师合集Vol.1》PC版1.4.0版本更新上线](https://www.3dmgame.com/news/202312/3884323.html)
+
++ [Xbox领导层大变动 微软宣布B社将迎来新负责人](https://www.3dmgame.com/news/202312/3884322.html)
+
++ [《寂静岭：飞升》IGN 5分：肤浅、混乱和毫无逻辑](https://www.3dmgame.com/news/202312/3884321.html)
+
++ [《西瓜游戏》模仿作即将登陆PlayStation平台](https://www.3dmgame.com/news/202312/3884320.html)
+
++ [《X4：基石》新资料片“时间线”与7.00更新2024年推出](https://www.3dmgame.com/news/202312/3884319.html)
+

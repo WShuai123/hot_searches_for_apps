@@ -135,3 +135,7 @@
 
 + [mysql使用全文索引+ngram全文解析器进行全文检索](https://blog.csdn.net/T3165919332/article/details/134924866)
 
++ [Azure Machine Learning - 提示工程高级技术](https://blog.csdn.net/magicyangjay111/article/details/135114447)
+
++ [网络安全-零信任安全](https://blog.csdn.net/I_AM_WORRY/article/details/135064299)
+

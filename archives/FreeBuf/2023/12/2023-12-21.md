@@ -45,3 +45,7 @@
 
 + [明显的、一般的和高级的：Outlook攻击向量的综合分析](https://www.freebuf.com/articles/paper/386319.html)
 
++ [2023年最需要注意的九大安全威胁](https://www.freebuf.com/articles/neopoints/386831.html)
+
++ [FreeBuf早报 | 美国陆军完成2023年网络现代化实验；2024年欧洲数字计划](https://www.freebuf.com/news/387213.html)
+
