@@ -173,3 +173,7 @@
 
 + [云原生之深入解析如何使用Vcluster Kubernetes加速开发效率](https://blog.csdn.net/Forever_wj/article/details/135086759)
 
++ [【音视频 | AAC】AAC格式音频文件解析](https://blog.csdn.net/wkd_007/article/details/135112250)
+
++ [Windows本地搭建开源企业管理套件Odoo并实现公网访问](https://blog.csdn.net/2301_77053417/article/details/135067024)
+

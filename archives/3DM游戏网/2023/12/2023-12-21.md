@@ -239,3 +239,13 @@
 
 + [《The Finals》1.4.0更新发布 反作弊系统优化](https://www.3dmgame.com/news/202312/3884364.html)
 
++ [用户称地震时7部苹果手机均无预警 官方回应需下载第三方App](https://www.3dmgame.com/news/202312/3884373.html)
+
++ [华为余承东也是明星员工 为何没碰到董宇辉般的遭遇](https://www.3dmgame.com/news/202312/3884372.html)
+
++ [奥本海默传记作者等作家对OpenAI提起集体版权诉讼](https://www.3dmgame.com/news/202312/3884371.html)
+
++ [光荣特库摩宣布参加2024台北国际电玩展 1月25日举行](https://www.3dmgame.com/news/202312/3884370.html)
+
++ [索尼未来将采取多平台策略：建立无处不在的体验](https://www.3dmgame.com/news/202312/3884369.html)
+

@@ -47,3 +47,7 @@
 
 + [魅族开启 2023 手机百花奖评选：华为 Mate 60 Pro、魅族 21、小米 14 等入围最佳人气手机奖](https://m.ithome.com/html/740676.htm)
 
++ [华为 nova 12 Ultra 手机配色公布：黑、白、蓝三款，预计为素皮材质](https://m.ithome.com/html/740633.htm)
+
++ [华为 Mate 60 Pro 手机在列，中国电信“天通”卫星终端运抵甘肃地震灾区](https://m.ithome.com/html/740628.htm)
+

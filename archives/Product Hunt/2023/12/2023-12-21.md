@@ -131,3 +131,15 @@
 
 + [Amazely](https://www.producthunt.com/posts/amazely)
 
++ [Spline](https://www.producthunt.com/posts/spline-2)
+
++ [Capte](https://www.producthunt.com/posts/capte)
+
++ [Task Flow](https://www.producthunt.com/posts/task-flow-2)
+
++ [Files](https://www.producthunt.com/posts/files)
+
++ [Helix](https://www.producthunt.com/posts/helix-5)
+
++ [Picmojo - AI Photographer](https://www.producthunt.com/posts/picmojo-ai-photographer)
+
