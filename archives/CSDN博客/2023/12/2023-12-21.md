@@ -181,3 +181,9 @@
 
 + [【powershell】Windows环境powershell 运维之历史文件压缩清理](https://blog.csdn.net/qq_35995514/article/details/135044184)
 
++ [2023 英特尔On技术创新大会直播 |探索视觉AI的无限可能](https://blog.csdn.net/weixin_50804299/article/details/135113373)
+
++ [【Spring教程31】SSM框架整合实战：从零开始学习SSM整合配置，如何编写Mybatis SpringMVC JDBC Spring配置类](https://blog.csdn.net/shenchengyv/article/details/135068395)
+
++ [使用包、Crate 和模块管理项目（下）](https://blog.csdn.net/u014388408/article/details/134921511)
+
