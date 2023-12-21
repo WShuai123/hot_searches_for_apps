@@ -201,3 +201,9 @@
 
 + [《遗迹2》开发者：乐意探索新玩法 或增添波次生存模式](https://www.3dmgame.com/news/202312/3884341.html)
 
++ [中国大陆个人电脑市场将在明年二季度迎来增长](https://www.3dmgame.com/news/202312/3884351.html)
+
++ [威世智在AI作画争议后更加反对人工智能艺术](https://www.3dmgame.com/news/202312/3884352.html)
+
++ [预告发布两周 《GTA 6》粉丝已经开始研究头发了](https://www.3dmgame.com/news/202312/3884350.html)
+

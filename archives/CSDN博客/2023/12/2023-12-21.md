@@ -151,3 +151,5 @@
 
 + [YOLOv5性能评估指标-＞mAP、Precision、Recall、FPS、Confienc (讲解论文关注的主要指标)](https://blog.csdn.net/java1314777/article/details/135120684)
 
++ [网络安全A模块（最全详解）](https://blog.csdn.net/weixin_57536426/article/details/135098127)
+

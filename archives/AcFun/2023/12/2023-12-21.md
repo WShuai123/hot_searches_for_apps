@@ -79,3 +79,9 @@
 
 + [【4K MMD】质感赛车MIKU×魔法未来MIKU「Marine Bloomin 」初音ミク カバー](http://www.acfun.cn/v/ac43293639)
 
++ [期待你的每一天【独家】](http://www.acfun.cn/v/ac43294477)
+
++ [1986年的机械硬盘，99.9%的人没见过的钢带寻道设计](http://www.acfun.cn/v/ac43294151)
+
++ [特厨探店 |网上黑红的西贝？！好吃还是一般？西贝莜面村](http://www.acfun.cn/v/ac43278730)
+
