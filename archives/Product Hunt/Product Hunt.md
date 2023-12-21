@@ -105,3 +105,5 @@
 
 + [Plutu](https://www.producthunt.com/posts/plutu)
 
++ [Opencord AI](https://www.producthunt.com/posts/opencord-ai)
+

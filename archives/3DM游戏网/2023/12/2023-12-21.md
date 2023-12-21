@@ -125,3 +125,19 @@
 
 + [牧场物语衍生作《数织拼图：牧场物语》预告](https://www.3dmgame.com/news/202312/3884309.html)
 
++ [卡普空移除《幽灵诡计：幻影侦探》D加密技术](https://www.3dmgame.com/news/202312/3884318.html)
+
++ [华纳兄弟或将和派拉蒙合并 双方CEO已接触洽谈](https://www.3dmgame.com/news/202312/3884317.html)
+
++ [《星空》首个故事资料片“破碎空间”明年发售 2024年更新计划发布](https://www.3dmgame.com/news/202312/3884316.html)
+
++ [《星空》玩家数破1300万 玩家平均时长达40小时](https://www.3dmgame.com/news/202312/3884315.html)
+
++ [微软宣布动视暴雪CEO考迪克将于12月29日离职](https://www.3dmgame.com/news/202312/3884314.html)
+
++ [《自杀小队：战胜正义联盟》开发对谈展示部分剧情](https://www.3dmgame.com/news/202312/3884313.html)
+
++ [《Sand Land》开发者介绍基地建造玩法](https://www.3dmgame.com/news/202312/3884312.html)
+
++ [《宝可梦：朱.紫 零之秘宝》通关后还有“外传”可玩](https://www.3dmgame.com/news/202312/3884311.html)
+

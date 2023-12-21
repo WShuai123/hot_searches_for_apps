@@ -41,3 +41,7 @@
 
 + [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
 
++ [FreeBuf早报 | 美国陆军完成2023年网络现代化实验；以色列指责伊朗造成医院数据泄露](https://www.freebuf.com/news/387213.html)
+
++ [明显的、一般的和高级的：Outlook攻击向量的综合分析](https://www.freebuf.com/articles/paper/386319.html)
+
