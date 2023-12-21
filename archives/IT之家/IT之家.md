@@ -43,3 +43,5 @@
 
 + [杨元庆以个人名义向母校中国科大捐赠 2 亿元，支持少年班学院楼建设](https://m.ithome.com/html/740575.htm)
 
++ [iOS 18 泄露“天机”：苹果 iPhone 16 / Pro 手机全系配 t8140 新 SoC](https://m.ithome.com/html/740601.htm)
+
