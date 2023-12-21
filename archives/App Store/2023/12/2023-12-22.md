@@ -201,3 +201,5 @@
 
 + [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
 
++ [全民解压馆](https://itunes.apple.com/cn/app/id6474172155?mt=8)
+

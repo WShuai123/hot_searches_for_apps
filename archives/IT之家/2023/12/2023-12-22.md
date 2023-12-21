@@ -25,3 +25,7 @@
 
 + [小米 Redmi K70 Pro 冠军版手机外观细节公布：兰博基尼标志 + 碳纤维纹理](https://m.ithome.com/html/740614.htm)
 
++ [问界 M9 搭载华为智能灯光系统，支持 100 + 英寸巨幕投影](https://m.ithome.com/html/740759.htm)
+
++ [4599 元，小米 Redmi K70 Pro 冠军版手机发布：联名兰博基尼，24GB + 1TB 顶配](https://m.ithome.com/html/740801.htm)
+
