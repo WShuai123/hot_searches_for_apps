@@ -101,3 +101,25 @@
 
 + [网络安全：专科及普通本科的温柔乡](https://blog.csdn.net/qq_69775412/article/details/135107450)
 
++ [本地配置Java支付宝沙箱环境模拟支付并内网穿透远程调试](https://blog.csdn.net/asdssadddd/article/details/135129284)
+
++ [数据库编程大赛：一条SQL计算扑克牌24点](https://blog.csdn.net/NineData/article/details/135125036)
+
++ [飞书+ChatGPT搭建智能AI助手，无公网ip实现公网访问飞书聊天界面](https://blog.csdn.net/wtyuong/article/details/135135753)
+
++ [2023 英特尔On技术创新大会直播 | 边云协同加速 AI 解决方案商业化落地](https://blog.csdn.net/qq_38951259/article/details/135120354)
+
++ [复杂 SQL 实现分组分情况分页查询](https://blog.csdn.net/kologin/article/details/135108661)
+
++ [大数据可视化BI分析工具Apache Superset结合内网穿透实现远程访问](https://blog.csdn.net/m0_70980326/article/details/135134466)
+
++ [2017年第六届数学建模国际赛小美赛A题飓风与全球变暖解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135099046)
+
++ [【计算机网络】八股文 | 第五章](https://blog.csdn.net/qq_41895003/article/details/135038003)
+
++ [本地websocket服务端结合cpolar内网穿透实现公网访问](https://blog.csdn.net/qq_72916130/article/details/135137923)
+
++ [Shell脚本应用（二）](https://blog.csdn.net/zj2059129607/article/details/135110555)
+
++ [Apache Superset如何实现无公网ip实时远程访问本地数据【内网穿透】](https://blog.csdn.net/w2915w/article/details/135130918)
+
