@@ -229,3 +229,13 @@
 
 + [《哥斯拉-1.0》将在日本上映黑白版 小岛秀夫转发海报表示期待](https://www.3dmgame.com/news/202312/3884357.html)
 
++ [《解限机》技术性首测内容演示 9台解限型机兵等](https://www.3dmgame.com/news/202312/3884367.html)
+
++ [Atlus新作《暗喻幻想》新情报公开 世界观设定精美截图](https://www.3dmgame.com/news/202312/3884368.html)
+
++ [发售仅一个月 《桃太郎电铁世界》销量突破100万](https://www.3dmgame.com/news/202312/3884366.html)
+
++ [苹果客服回应7部手机均无地震预警 被吐槽高价低能：专家喊话买国产手机](https://www.3dmgame.com/news/202312/3884365.html)
+
++ [《The Finals》1.4.0更新发布 反作弊系统优化](https://www.3dmgame.com/news/202312/3884364.html)
+

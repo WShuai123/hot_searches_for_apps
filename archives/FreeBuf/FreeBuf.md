@@ -57,3 +57,5 @@
 
 + [新型网络钓鱼攻击甚至能绕过 Instagram 2FA 验证！](https://www.freebuf.com/articles/387283.html)
 
++ [Oracle这个公开漏洞正在被8220挖矿组利用](https://www.freebuf.com/news/387299.html)
+

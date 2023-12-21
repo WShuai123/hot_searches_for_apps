@@ -107,3 +107,27 @@
 
 + [Opencord AI](https://www.producthunt.com/posts/opencord-ai)
 
++ [Founder University](https://www.producthunt.com/posts/founder-university)
+
++ [Dr. Change](https://www.producthunt.com/posts/dr-change)
+
++ [Rex Nutribot](https://www.producthunt.com/posts/rex-nutribot)
+
++ [Detail – Remote Recording](https://www.producthunt.com/posts/detail-remote-recording)
+
++ [Sunnybox.io](https://www.producthunt.com/posts/sunnybox-io)
+
++ [What's Vita](https://www.producthunt.com/posts/what-s-vita)
+
++ [Phota - AI Photographer](https://www.producthunt.com/posts/phota-ai-photographer)
+
++ [Meeting Guidelines](https://www.producthunt.com/posts/meeting-guidelines)
+
++ [Magic Hour](https://www.producthunt.com/posts/magic-hour-2)
+
++ [Ideate Pad](https://www.producthunt.com/posts/ideate-pad)
+
++ [Cline](https://www.producthunt.com/posts/cline-2)
+
++ [Amazely](https://www.producthunt.com/posts/amazely)
+
