@@ -289,3 +289,9 @@
 
 + [《浪人崛起》7年前就已立项开发 游戏面积27平方公里](https://www.3dmgame.com/news/202312/3884390.html)
 
++ [《怒之铁拳》新作名为《怒之铁拳：进化》 改为3D模式](https://www.3dmgame.com/news/202312/3884396.html)
+
++ [Fami通新一周销量榜 《超级马里奥兄弟：惊奇》再登顶](https://www.3dmgame.com/news/202312/3884395.html)
+
++ [DOTA2 Nigma组建新阵容 苏皇Sumail强势回归](https://www.3dmgame.com/news/202312/3884394.html)
+

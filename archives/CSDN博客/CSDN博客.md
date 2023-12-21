@@ -201,3 +201,7 @@
 
 + [Linux笔记---系统信息](https://blog.csdn.net/AliceNo/article/details/135122514)
 
++ [神经网络：池化层知识点](https://blog.csdn.net/weixin_51390582/article/details/135109045)
+
++ [网络安全：专科及普通本科的温柔乡](https://blog.csdn.net/qq_69775412/article/details/135107450)
+
