@@ -55,3 +55,5 @@
 
 + [小米 13 手机今日起官方直降 300 元：澎湃 OS 正式版陆续推送，3299 元起](https://m.ithome.com/html/740917.htm)
 
++ [马斯克“超级高铁”梦想破碎，Hyperloop One 宣布倒闭](https://m.ithome.com/html/740857.htm)
+

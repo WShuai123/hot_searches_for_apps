@@ -113,3 +113,21 @@
 
 + [Krea](https://www.producthunt.com/posts/krea)
 
++ [Midjourney v6](https://www.producthunt.com/posts/midjourney-v6)
+
++ [Task Doer](https://www.producthunt.com/posts/task-doer)
+
++ [LetterMe](https://www.producthunt.com/posts/letterme-2)
+
++ [Basecamp: Sprint, Task Manager](https://www.producthunt.com/posts/basecamp-sprint-task-manager)
+
++ [Portrait Art](https://www.producthunt.com/posts/portrait-art)
+
++ [Snack AI](https://www.producthunt.com/posts/snack-ai)
+
++ [Beep! - Review Websites 4x Faster](https://www.producthunt.com/posts/beep-review-websites-4x-faster)
+
++ [PromptifyPRO](https://www.producthunt.com/posts/promptifypro)
+
++ [refro](https://www.producthunt.com/posts/refro)
+

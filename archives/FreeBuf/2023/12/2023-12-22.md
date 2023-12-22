@@ -61,3 +61,7 @@
 
 + [《GTA 6》泄密事件幕后黑手被判“无限期服刑”](https://www.freebuf.com/news/387441.html)
 
++ [为窃取Android手机PIN码，这个恶意软件路子有多野？](https://www.freebuf.com/news/387465.html)
+
++ [Gartner战略性技术趋势：AI信任、风险与安全管理](https://www.freebuf.com/articles/database/378397.html)
+

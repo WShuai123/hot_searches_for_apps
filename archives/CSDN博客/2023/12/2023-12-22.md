@@ -161,3 +161,11 @@
 
 + [5分钟搭建开源运维监控工具Uptime Kuma并实现无公网IP远程访问](https://blog.csdn.net/qq_48652579/article/details/135145397)
 
++ [TypeScript实战——ChatGPT前端自适应手机端，PC端](https://blog.csdn.net/Why_does_it_work/article/details/135148489)
+
++ [如何在Linux设置JumpServer实现无公网ip远程访问管理界面](https://blog.csdn.net/2201_75743654/article/details/135147263)
+
++ [【Linux笔记】系统信息](https://blog.csdn.net/AliceNo/article/details/135122514)
+
++ [zookeeper【封神录】上篇](https://blog.csdn.net/dfdg345/article/details/134869097)
+

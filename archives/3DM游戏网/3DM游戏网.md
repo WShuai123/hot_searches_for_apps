@@ -205,3 +205,17 @@
 
 + [《最终幻想7：重生》创意总监野村哲也表示 已经死去的人在游戏中不应该复活](https://www.3dmgame.com/news/202312/3884448.html)
 
++ [蒸汽平台冬季特卖：好价在冬季 年终折扣限时返场](https://www.3dmgame.com/news/202312/3884454.html)
+
++ [《最终幻想16》作曲家盛赞《心灵杀手2》配乐舞蹈](https://www.3dmgame.com/news/202312/3884453.html)
+
++ [黎明杀机冬促福利回归，你绝对不能错过的活动！](https://www.3dmgame.com/news/202312/3884452.html)
+
++ [《小小诺娅：乐园继承者》销量突破20万 新史低促销开启](https://www.3dmgame.com/news/202312/3884451.html)
+
++ [《非常调查局：异兽》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3884455.html)
+
++ [网游新规严管诱导消费：游戏股全面“冬至”](https://www.3dmgame.com/news/202312/3884450.html)
+
++ [进口网络游戏版号：《一拳超人：世界》等40款游戏](https://www.3dmgame.com/news/202312/3884449.html)
+
