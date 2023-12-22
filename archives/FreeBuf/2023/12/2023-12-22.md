@@ -69,3 +69,5 @@
 
 + [X （推特）宕机，是裁员惹的祸？](https://www.freebuf.com/news/387467.html)
 
++ [美国联邦贸易委员会十年内首次提出加强儿童数据隐私规则](https://www.freebuf.com/news/387521.html)
+

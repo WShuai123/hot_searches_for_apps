@@ -179,3 +179,5 @@
 
 + [YOLOv8改进 | 2023注意力篇 | HAttention(HAT）超分辨率重建助力小目标检测 (全网首发)](https://blog.csdn.net/java1314777/article/details/135118883)
 
++ [百度侯震宇详解：大模型将如何重构云计算？](https://blog.csdn.net/GZZN2019/article/details/135104936)
+
