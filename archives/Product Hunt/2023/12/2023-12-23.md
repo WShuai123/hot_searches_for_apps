@@ -101,3 +101,5 @@
 
 + [refro](https://www.producthunt.com/posts/refro)
 
++ [Midjourney V6](https://www.producthunt.com/posts/midjourney-v6)
+
