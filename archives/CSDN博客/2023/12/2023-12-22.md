@@ -169,3 +169,9 @@
 
 + [zookeeper【封神录】上篇](https://blog.csdn.net/dfdg345/article/details/134869097)
 
++ [在Portainer创建Nginx容器并部署Web静态站点实现公网访问](https://blog.csdn.net/hsjsiwkwm/article/details/135150491)
+
++ [【大模型】快速体验百度智能云千帆AppBuilder搭建知识库与小助手](https://blog.csdn.net/Qingai521/article/details/135150671)
+
++ [智慧工地一体化云平台APP源码：监管端、工地端、危大工程、智慧大屏、物联网、塔机、吊钩、升降机](https://blog.csdn.net/qq_27741787/article/details/135132370)
+

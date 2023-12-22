@@ -219,3 +219,21 @@
 
 + [进口网络游戏版号：《一拳超人：世界》等40款游戏](https://www.3dmgame.com/news/202312/3884449.html)
 
++ [微信处置一批违规微短剧类小程序：剧目名字个个吸睛](https://www.3dmgame.com/news/202312/3884461.html)
+
++ [《传奇生物2》上线爬塔模式 Steam创意工坊现已开放](https://www.3dmgame.com/news/202312/3884464.html)
+
++ [《逆水寒》新增角色女铁衣将登场 性转功能介绍](https://www.3dmgame.com/news/202312/3884463.html)
+
++ [失眠组游戏PC版移植成本曝光：《金刚狼》400万美元](https://www.3dmgame.com/news/202312/3884462.html)
+
++ [索尼因限制对第三方手柄 被罚款1350万欧元](https://www.3dmgame.com/news/202312/3884460.html)
+
++ [网易《射雕》PC配置需求公布 明年1月开启删档测试](https://www.3dmgame.com/news/202312/3884459.html)
+
++ [谷歌浏览器密码安全检查功能现将自动后台运行](https://www.3dmgame.com/news/202312/3884458.html)
+
++ [理想L7事故后被撕裂 官方回应：碰撞前3秒车速达到178km/h](https://www.3dmgame.com/news/202312/3884457.html)
+
++ [《黑暗之魂2》《装甲核心：审判日》旧主机在线服务器宣布关闭](https://www.3dmgame.com/news/202312/3884456.html)
+

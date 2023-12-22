@@ -65,3 +65,5 @@
 
 + [Gartner战略性技术趋势：AI信任、风险与安全管理](https://www.freebuf.com/articles/database/378397.html)
 
++ [X （推特）崩了，是裁员惹的祸？](https://www.freebuf.com/news/387467.html)
+

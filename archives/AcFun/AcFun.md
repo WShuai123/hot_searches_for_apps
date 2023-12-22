@@ -95,3 +95,7 @@
 
 + [三个小薰给你睡前的mua mua～](http://www.acfun.cn/v/ac43304154)
 
++ [【20231220】读书回切片](http://www.acfun.cn/v/ac43302433)
+
++ [资博《路过孤单》（2013）全创作专辑｜视频存档](http://www.acfun.cn/v/ac43290731)
+
