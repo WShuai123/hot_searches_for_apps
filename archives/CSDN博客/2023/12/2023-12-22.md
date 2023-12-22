@@ -185,3 +185,9 @@
 
 + [OpenCV4 工业缺陷检测的六种方法](https://blog.csdn.net/Ceylan__/article/details/135146920)
 
++ [机器学习算法(12) — 集成技术（Boosting — Xgboost 分类）](https://blog.csdn.net/gongdiwudu/article/details/135115626)
+
++ [深入理解网络 I/O：mmap、sendfile、Direct I/O](https://blog.csdn.net/vnjohn/article/details/135120559)
+
++ [Spring Boot Web中文文档](https://blog.csdn.net/qq_41939901/article/details/135127870)
+
