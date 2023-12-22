@@ -103,3 +103,5 @@
 
 + [Midjourney V6](https://www.producthunt.com/posts/midjourney-v6)
 
++ [Serenica](https://www.producthunt.com/posts/serenica)
+

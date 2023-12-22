@@ -101,3 +101,7 @@
 
 + [《魔兽世界》前开发者新MMO：艺术灵感来自《女神异闻录5》等](https://www.3dmgame.com/news/202312/3884435.html)
 
++ [Epic喜加一：《拉力赛艺术》免费领取](https://www.3dmgame.com/news/202312/3884485.html)
+
++ [非2023年游戏热度排名 《艾尔登法环》玩家最爱](https://www.3dmgame.com/news/202312/3884484.html)
+
