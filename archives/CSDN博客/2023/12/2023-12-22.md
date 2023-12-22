@@ -131,3 +131,13 @@
 
 + [【Spring Security】认证&密码加密&Token令牌&CSRF的使用详解](https://blog.csdn.net/weixin_74318097/article/details/135135288)
 
++ [【大数据实训】python石油大数据可视化(八)](https://blog.csdn.net/xianyu120/article/details/135110152)
+
++ [Seata使用详解](https://blog.csdn.net/zhangzehai2234/article/details/135096775)
+
++ [CSS3过渡与动画，2D与3D](https://blog.csdn.net/weixin_42071236/article/details/135087278)
+
++ [【HTML5】HTML5 语音合成](https://blog.csdn.net/david_520042/article/details/135140526)
+
++ [车辆违规开启远光灯检测系统：融合YOLO-MS改进YOLOv8](https://blog.csdn.net/xuehai996/article/details/135116815)
+

@@ -45,3 +45,5 @@
 
 + [苹果取得技术突破：有望在 iPhone 上运行大型语言模型](https://m.ithome.com/html/740808.htm)
 
++ [赛力斯发布“问界 M9 追尾公交车”情况说明：驾驶员干预导致智驾退出造成事故](https://m.ithome.com/html/740864.htm)
+

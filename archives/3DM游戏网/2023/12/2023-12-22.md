@@ -171,3 +171,19 @@
 
 + [生存游戏《City Defense Z》Steam页面 支持简中](https://www.3dmgame.com/news/202312/3884424.html)
 
++ [电影《GOLD BOY》正式定档 3月8日日本上映](https://www.3dmgame.com/news/202312/3884437.html)
+
++ [网游管理征求意见稿：网游不得设置每日登录等诱导性奖励](https://www.3dmgame.com/news/202312/3884438.html)
+
++ [《神之亵渎2》实体典藏版公布 售价700元2024年春发售](https://www.3dmgame.com/news/202312/3884439.html)
+
++ [Steam特别好评 《苍翼：混沌效应》正式版定档2024年1月31日](https://www.3dmgame.com/news/202312/3884432.html)
+
++ [《刺客信条：幻景》玩家统计数据：2.5亿次信仰之跃 杀敌19.7亿](https://www.3dmgame.com/news/202312/3884433.html)
+
++ [俄罗斯童话改编电影《飞艇》预告 3月7日上映](https://www.3dmgame.com/news/202312/3884434.html)
+
++ [《魔兽世界》前开发者新MMO：艺术灵感来自《女神异闻录5》等](https://www.3dmgame.com/news/202312/3884435.html)
+
++ [巨石·强森和“美队”克里斯主演的圣诞动作片 将于2024年上映](https://www.3dmgame.com/news/202312/3884436.html)
+
