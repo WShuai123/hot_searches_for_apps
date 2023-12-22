@@ -193,3 +193,13 @@
 
 + [落地匈牙利 比亚迪欧洲首家工厂即将官宣](https://www.3dmgame.com/news/202312/3884440.html)
 
++ [《DUNGEON SLASHER》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3884443.html)
+
++ [《超级马力欧兄弟大电影》主题曲《碧琪公主之歌》未受奥斯卡提名青睐](https://www.3dmgame.com/news/202312/3884444.html)
+
++ [《The Finals》天才方法对抗作弊者：盆栽上放炮塔](https://www.3dmgame.com/news/202312/3884445.html)
+
++ [billbil-kun预测Epic未来喜加一：《蔚蓝》等作品](https://www.3dmgame.com/news/202312/3884446.html)
+
++ [马斯克：X平台支付功能预计明年获美国所有州批准](https://www.3dmgame.com/news/202312/3884447.html)
+

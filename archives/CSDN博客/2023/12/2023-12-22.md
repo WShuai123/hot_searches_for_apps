@@ -143,3 +143,15 @@
 
 + [PyGame实现打砖块游戏](https://blog.csdn.net/m0_37816922/article/details/134947763)
 
++ [【SpringBoot篇】解决缓存击穿问题① — 基于互斥锁方式](https://blog.csdn.net/m0_72853403/article/details/135145363)
+
++ [【JAVA日志框架大全】一文快速讲透JAVA日志体系](https://blog.csdn.net/Joker_ZJN/article/details/135096897)
+
++ [MIPS CPU设计（基于华中科技大学计组实验）](https://blog.csdn.net/qq_62325622/article/details/135082654)
+
++ [51单片机简易出租车计费系统仿真设计](https://blog.csdn.net/xfx_office/article/details/135094469)
+
++ [群晖Drive搭建结合内网穿透实现云同步Obsidian笔记文件](https://blog.csdn.net/m0_73868817/article/details/135132104)
+
++ [使用 Taro 开发鸿蒙原生应用 —— 探秘适配鸿蒙 ArkTS 的工作原理](https://blog.csdn.net/JDDTechTalk/article/details/135124411)
+
