@@ -27,3 +27,5 @@
 
 + [Epic 喜加一：16 连送新游戏揭晓，策略类 RPG《梅尔沃放置》免费领](https://m.ithome.com/html/740840.htm)
 
++ [科技昨夜今晨 1222：小米 Redmi K70 Pro 冠军版手机发布，4599 元；小米 ZMI 被紫米 zime 提起诉讼并“索赔巨大”；京东快递首批试点 9 省市内“次晨达”，最快 8 点到](https://m.ithome.com/html/740850.htm)
+
