@@ -107,3 +107,5 @@
 
 + [Findly](https://www.producthunt.com/posts/findly)
 
++ [LogoFast](https://www.producthunt.com/posts/logofast)
+

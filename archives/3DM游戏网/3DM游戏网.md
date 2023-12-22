@@ -145,3 +145,29 @@
 
 + [3A游戏开发成本过高 索尼迫使工作室削减预算](https://www.3dmgame.com/news/202312/3884410.html)
 
++ [开放世界角色扮演游戏《维京前线》发布游戏测试预告](https://www.3dmgame.com/news/202312/3884431.html)
+
++ [《博德之门3》设计师：玩家数年后还会发现新东西](https://www.3dmgame.com/news/202312/3884430.html)
+
++ [《纸嫁衣6》千秋魇篇全新预告 2024年寒假上线](https://www.3dmgame.com/news/202312/3884429.html)
+
++ [《蜘蛛侠》多人游戏概念图 好多女蜘蛛侠登场亮相](https://www.3dmgame.com/news/202312/3884422.html)
+
++ [《速度与激情》男星范迪塞尔被前助理指控性侵](https://www.3dmgame.com/news/202312/3884423.html)
+
++ [英国实体周榜：《阿凡达：潘多拉边境》首周后立即掉出前十](https://www.3dmgame.com/news/202312/3884421.html)
+
++ [比R星先去佛州 《终极钓鱼模拟器》“佛罗里达”DLC正式发布](https://www.3dmgame.com/news/202312/3884420.html)
+
++ [Xbox负责人致敬考迪克 感谢他对游戏行业的宝贵贡献](https://www.3dmgame.com/news/202312/3884419.html)
+
++ [折扣也不忘维护 《博德之门3》官方发布15号热修补丁](https://www.3dmgame.com/news/202312/3884428.html)
+
++ [网飞《降世神通》真人剧新剧照 明年2月22日开播](https://www.3dmgame.com/news/202312/3884427.html)
+
++ [Newzoo数据：2023年英美收入最高游戏《NBA 2K24》](https://www.3dmgame.com/news/202312/3884426.html)
+
++ [视觉小说《ONE.》Steam中文版正式发售 首发价60元](https://www.3dmgame.com/news/202312/3884425.html)
+
++ [生存游戏《City Defense Z》Steam页面 支持简中](https://www.3dmgame.com/news/202312/3884424.html)
+

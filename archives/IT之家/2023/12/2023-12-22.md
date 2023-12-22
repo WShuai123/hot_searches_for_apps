@@ -43,3 +43,5 @@
 
 + [天涯创始人称明年重启，将推官方直播和天涯神贴](https://m.ithome.com/html/740790.htm)
 
++ [苹果取得技术突破：有望在 iPhone 上运行大型语言模型](https://m.ithome.com/html/740808.htm)
+
