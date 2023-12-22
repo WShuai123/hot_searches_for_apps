@@ -57,3 +57,11 @@
 
 + [马斯克“超级高铁”梦想破碎，Hyperloop One 宣布倒闭](https://m.ithome.com/html/740857.htm)
 
++ [消息称小米 14 Ultra 手机采用直角中框设计，目前系统没有设置“卫星通讯”](https://m.ithome.com/html/740909.htm)
+
++ [浙大科学家发明“北极熊毛衣”：厚度仅羽绒服五分之一，但比其更保暖](https://m.ithome.com/html/740925.htm)
+
++ [vivo S18 手机今日首销：骁龙 7 Gen 3 处理器，到手价 2299 元起](https://m.ithome.com/html/740845.htm)
+
++ [游戏整改征求意见引圈内巨震：网易股价跌近 30%，腾讯跌超 15%](https://m.ithome.com/html/740939.htm)
+

@@ -181,3 +181,7 @@
 
 + [百度侯震宇详解：大模型将如何重构云计算？](https://blog.csdn.net/GZZN2019/article/details/135104936)
 
++ [神经网络：深度学习优化方法](https://blog.csdn.net/weixin_51390582/article/details/135124638)
+
++ [OpenCV4 工业缺陷检测的六种方法](https://blog.csdn.net/Ceylan__/article/details/135146920)
+
