@@ -109,3 +109,27 @@
 
 + [什么是数据仪表板？数据可视化仪表盘怎么制作？](https://blog.csdn.net/u011916503/article/details/135110858)
 
++ [Spring IoC&DI](https://blog.csdn.net/m0_73888323/article/details/134894066)
+
++ [什么是Amazon Bedrock (亚马逊云的生成式 AI产品)](https://blog.csdn.net/m0_37482190/article/details/135134627)
+
++ [Text Intelligence - TextIn.com AI时代下的智能文档识别、处理、转换](https://blog.csdn.net/magicyangjay111/article/details/135156259)
+
++ [Spring之事务（2）](https://blog.csdn.net/m0_64074924/article/details/135119272)
+
++ [使用Docker部署Nexus Maven私有仓库并结合Cpolar实现远程访问](https://blog.csdn.net/qq_63320529/article/details/135131373)
+
++ [【C#】.net core 6.0 通过依赖注入注册和使用上下文服务](https://blog.csdn.net/lmy_520/article/details/134992699)
+
++ [使用 Elasticsearch 检测抄袭 （一）](https://blog.csdn.net/UbuntuTouch/article/details/135145279)
+
++ [（1）(1.9) MSP (version 4.2)](https://blog.csdn.net/qq_20016593/article/details/134924948)
+
++ [HTML---盒子模型](https://blog.csdn.net/zhoutong2323/article/details/135116515)
+
++ [scrapy_redis原理分析并实现断点续爬以及分布式爬虫](https://blog.csdn.net/xiugtt6141121/article/details/135141845)
+
++ [Spring Boot + EasyUI 全屏布局（二）](https://blog.csdn.net/qq_21370419/article/details/135126027)
+
++ [案例109:基于微信小程序的高校寻物平台](https://blog.csdn.net/2301_79727522/article/details/135142861)
+
