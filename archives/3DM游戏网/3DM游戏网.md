@@ -237,3 +237,19 @@
 
 + [《黑暗之魂2》《装甲核心：审判日》旧主机在线服务器宣布关闭](https://www.3dmgame.com/news/202312/3884456.html)
 
++ [年底iPhone 15价格再度跳水超千元：大批果粉下单](https://www.3dmgame.com/news/202312/3884471.html)
+
++ [英特尔CEO评价黄仁勋：英伟达成功纯粹靠运气](https://www.3dmgame.com/news/202312/3884472.html)
+
++ [蜗牛游戏推出《方舟: 生存飞升》永恒的“冬季仙境”MOD游戏改装模组](https://www.3dmgame.com/news/202312/3884470.html)
+
++ [国产《沙石镇时光》冬促平史低 新版本”回家的诱惑“上线](https://www.3dmgame.com/news/202312/3884469.html)
+
++ [KK周年庆盛典福利升级，双旦特辑惊喜上线](https://www.3dmgame.com/news/202312/3884468.html)
+
++ [《黑神话：悟空》音效不尽人意 官方回应：现在不是最终版](https://www.3dmgame.com/news/202312/3884467.html)
+
++ [KK对战平台开年巨作，搏一搏，小灯变老灯，老灯变哈登！](https://www.3dmgame.com/news/202312/3884466.html)
+
++ [梦土无际，挑战不息！《枪火重生》“无垠梦境”正式上线，冬季限时折扣](https://www.3dmgame.com/news/202312/3884465.html)
+

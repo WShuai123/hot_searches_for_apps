@@ -175,3 +175,7 @@
 
 + [智慧工地一体化云平台APP源码：监管端、工地端、危大工程、智慧大屏、物联网、塔机、吊钩、升降机](https://blog.csdn.net/qq_27741787/article/details/135132370)
 
++ [2017年第六届数学建模国际赛小美赛B题电子邮件中的笔迹分析解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135099727)
+
++ [YOLOv8改进 | 2023注意力篇 | HAttention(HAT）超分辨率重建助力小目标检测 (全网首发)](https://blog.csdn.net/java1314777/article/details/135118883)
+
