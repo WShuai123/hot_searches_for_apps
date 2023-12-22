@@ -259,3 +259,11 @@
 
 + [《防火墙》开发商宣布倒闭 称行业缺乏对VR的支持](https://www.3dmgame.com/news/202312/3884476.html)
 
++ [iOS 18代码泄露 明年iPhone 16全系列采用A18芯片](https://www.3dmgame.com/news/202312/3884480.html)
+
++ [《迸发》系列开发商Deck 13新作将采用虚幻5 2026年发售](https://www.3dmgame.com/news/202312/3884479.html)
+
++ [苏奇组合再次上线！《DOTA2》Nigma战队官宣奇迹哥归来](https://www.3dmgame.com/news/202312/3884478.html)
+
++ [《浩劫前夕》将于2024年1月22日停服](https://www.3dmgame.com/news/202312/3884477.html)
+
