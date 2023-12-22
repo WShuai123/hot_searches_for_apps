@@ -267,3 +267,7 @@
 
 + [《浩劫前夕》将于2024年1月22日停服](https://www.3dmgame.com/news/202312/3884477.html)
 
++ [GOG喜加一：《洞窟开拓者》免费领取](https://www.3dmgame.com/news/202312/3884481.html)
+
++ [《博德之门3》15号迷你补丁上线 修复崩溃、玩法问题](https://www.3dmgame.com/news/202312/3884482.html)
+
