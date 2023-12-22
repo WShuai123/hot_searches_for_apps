@@ -57,3 +57,7 @@
 
 + [数据分类分级方法论与实践详解](https://www.freebuf.com/articles/database/387183.html)
 
++ [MailChecker：一款功能强大的跨语言临时电子邮件安全检测库](https://www.freebuf.com/sectool/384582.html)
+
++ [《GTA 6》泄密事件幕后黑手被判“无限期服刑”](https://www.freebuf.com/news/387441.html)
+
