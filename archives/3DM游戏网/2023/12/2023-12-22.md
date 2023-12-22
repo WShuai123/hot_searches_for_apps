@@ -187,3 +187,9 @@
 
 + [巨石·强森和“美队”克里斯主演的圣诞动作片 将于2024年上映](https://www.3dmgame.com/news/202312/3884436.html)
 
++ [英伟达RTX 50系列显卡或将于2024年第四季度推出](https://www.3dmgame.com/news/202312/3884442.html)
+
++ [即将重返荧幕的《加菲猫》电影 还会推出衍生电子游戏](https://www.3dmgame.com/news/202312/3884441.html)
+
++ [落地匈牙利 比亚迪欧洲首家工厂即将官宣](https://www.3dmgame.com/news/202312/3884440.html)
+
