@@ -45,3 +45,7 @@
 
 + [针对5G基础设施的GTP-U in GTP-U攻击技术深入剖析](https://www.freebuf.com/articles/wireless/385914.html)
 
++ [写一个POC的过程思路参考](https://www.freebuf.com/articles/web/386764.html)
+
++ [Windows窃密木马分析，你还会轻易下载Windows破解软件吗?](https://www.freebuf.com/articles/system/386807.html)
+

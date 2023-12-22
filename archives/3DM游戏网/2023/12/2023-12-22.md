@@ -127,3 +127,21 @@
 
 + [《永劫无间》携手高达之父大河原邦男新作机甲皮肤](https://www.3dmgame.com/news/202312/3884405.html)
 
++ [泄密文件称索尼有计划在PC上推出PS+服务 创造新客户](https://www.3dmgame.com/news/202312/3884415.html)
+
++ [前CDPR开发者新工作室在开发一款开放世界黑暗奇幻RPG](https://www.3dmgame.com/news/202312/3884416.html)
+
++ [《战争雷霆》玩家再次于论坛上泄露军事机密文件](https://www.3dmgame.com/news/202312/3884417.html)
+
++ [索尼与华纳续签 不再删除PS用户已购买探索频道节目](https://www.3dmgame.com/news/202312/3884418.html)
+
++ [移动游戏《超级马里奥跑酷》开启《超级马力欧兄弟：惊奇》限时关卡](https://www.3dmgame.com/news/202312/3884411.html)
+
++ [微软彻底放弃混合现实平台 HoloLens将成为历史](https://www.3dmgame.com/news/202312/3884412.html)
+
++ [温子仁将拍《克苏鲁的呼唤》真人改编电影](https://www.3dmgame.com/news/202312/3884413.html)
+
++ [2023年VR消费者支出下降10% 硬件销量不佳](https://www.3dmgame.com/news/202312/3884414.html)
+
++ [3A游戏开发成本过高 索尼迫使工作室削减预算](https://www.3dmgame.com/news/202312/3884410.html)
+

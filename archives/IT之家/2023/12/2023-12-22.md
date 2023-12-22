@@ -35,3 +35,11 @@
 
 + [荣耀平板 9 正式发布：可选 12.1 英寸“纸感护眼柔光雾面屏”、高通骁龙 6 Gen 1 处理器，1499 元起](https://m.ithome.com/html/740807.htm)
 
++ [云闪付 App 启动鸿蒙原生应用开发，中国银联与华为合作再进一步](https://m.ithome.com/html/740652.htm)
+
++ [免费用户也能用：ChatGPT 语音功能现已全面开放](https://m.ithome.com/html/740826.htm)
+
++ [阿里云宣布旗下 Linux 发行版 Anolis OS“龙蜥操作系统”装机量超 600 万，生态“日见成熟”](https://m.ithome.com/html/740838.htm)
+
++ [天涯创始人称明年重启，将推官方直播和天涯神贴](https://m.ithome.com/html/740790.htm)
+
