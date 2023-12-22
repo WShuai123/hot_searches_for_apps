@@ -41,3 +41,7 @@
 
 + [如何使用Qu1ckdr0p2快速通过HTTP或HTTPS实现文件托管](https://www.freebuf.com/sectool/384284.html)
 
++ [FreeBuf早报 | 谷歌修复第8个Chrome零日漏洞；支撑AI图像生成的最大数据集被移除](https://www.freebuf.com/news/387313.html)
+
++ [针对5G基础设施的GTP-U in GTP-U攻击技术深入剖析](https://www.freebuf.com/articles/wireless/385914.html)
+

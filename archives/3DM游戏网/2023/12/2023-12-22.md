@@ -117,3 +117,13 @@
 
 + [四人共斗游戏《南方公园：雪假》确定3月26日发售](https://www.3dmgame.com/news/202312/3884404.html)
 
++ [Steam冬季特卖现已开启 《博德之门3》首次打折](https://www.3dmgame.com/news/202312/3884409.html)
+
++ [毫无悔意的18岁《GTA6》泄密黑客被判终身住院](https://www.3dmgame.com/news/202312/3884408.html)
+
++ [照明娱乐有意与任天堂打造《任天堂大乱斗》电影宇宙](https://www.3dmgame.com/news/202312/3884407.html)
+
++ [《杀出重围》游戏导演对《传奇米老鼠》非常自豪](https://www.3dmgame.com/news/202312/3884406.html)
+
++ [《永劫无间》携手高达之父大河原邦男新作机甲皮肤](https://www.3dmgame.com/news/202312/3884405.html)
+

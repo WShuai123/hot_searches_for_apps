@@ -105,3 +105,5 @@
 
 + [Osmo Pocket 3](https://www.producthunt.com/posts/osmo-pocket-3)
 
++ [Findly](https://www.producthunt.com/posts/findly)
+

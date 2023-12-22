@@ -31,3 +31,7 @@
 
 + [【IT之家开箱】Redmi K70 Pro 冠军版图赏：联名兰博基尼，超跑附体](https://m.ithome.com/html/740805.htm)
 
++ [Midjourney V6 史诗级升级，网友惊呼太逼真！神图接连曝出，传今明两天上线](https://m.ithome.com/html/740837.htm)
+
++ [荣耀平板 9 正式发布：可选 12.1 英寸“纸感护眼柔光雾面屏”、高通骁龙 6 Gen 1 处理器，1499 元起](https://m.ithome.com/html/740807.htm)
+
