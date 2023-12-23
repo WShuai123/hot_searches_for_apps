@@ -137,3 +137,7 @@
 
 + [基于Java+Vue+uniapp微信小程序企业职工薪资查询系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135160176)
 
++ [Win系统修改Nginx配置结合内网穿透实现远程访问多个Web站点](https://blog.csdn.net/qq_65596720/article/details/135159935)
+
++ [7. ASP.NET Core Blazor 官网文档](https://blog.csdn.net/qq_25547755/article/details/135139222)
+

@@ -105,3 +105,5 @@
 
 + [非2023年游戏热度排名 《艾尔登法环》玩家最爱](https://www.3dmgame.com/news/202312/3884484.html)
 
++ [Insomniac回应泄露：《漫威金刚狼》继续按计划进行](https://www.3dmgame.com/news/202312/3884486.html)
+

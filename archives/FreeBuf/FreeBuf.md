@@ -41,3 +41,7 @@
 
 + [2023年最需要注意的九大安全威胁](https://www.freebuf.com/articles/neopoints/386831.html)
 
++ [FreeBuf 周报 | 美国互联网供应商泄露3600万用户数据；BlackCat靠什么年入3亿？](https://www.freebuf.com/news/387495.html)
+
++ [Operation Blacksmith：Lazarus攻击全球的企业和组织](https://www.freebuf.com/articles/paper/386683.html)
+
