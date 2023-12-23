@@ -109,3 +109,19 @@
 
 + [.NET Framework 对应系统版本汇总](https://blog.csdn.net/pmcasp/article/details/135158500)
 
++ [机器学习 深度学习 神经网络](https://blog.csdn.net/weixin_41147796/article/details/135123657)
+
++ [医学实验室检验科LIS信息系统源码](https://blog.csdn.net/qq_27741787/article/details/135166347)
+
++ [『HPC运维点滴』第01期 - Ubuntu Server 20.04集群网络配置](https://blog.csdn.net/m0_74221433/article/details/135175622)
+
++ [字节跳动 Spark Shuffle 大规模云原生化演进实践](https://blog.csdn.net/weixin_46399686/article/details/135132462)
+
++ [LA@线性代数学习总结@主要对象和问题@思想方法](https://blog.csdn.net/xuchaoxin1375/article/details/135129057)
+
++ [html5实现最高端的公司年会抽奖（源码）](https://blog.csdn.net/weixin_43151418/article/details/135171926)
+
++ [互联网+建筑工地源码，基于微服务+Java+Spring Cloud +Vue+UniApp开发](https://blog.csdn.net/xingchenCSDN/article/details/135170274)
+
++ [Docker——微服务的部署](https://blog.csdn.net/shall_zhao/article/details/135144507)
+
