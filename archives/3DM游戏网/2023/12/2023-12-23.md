@@ -199,3 +199,5 @@
 
 + [《浪人崛起》提供三种难度 可满足类魂玩家的需求](https://www.3dmgame.com/news/202312/3884528.html)
 
++ [估值不低于1000亿美元 OpenAI拟开展新一轮融资](https://www.3dmgame.com/news/202312/3884533.html)
+

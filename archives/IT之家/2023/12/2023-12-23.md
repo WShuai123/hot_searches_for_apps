@@ -69,3 +69,7 @@
 
 + [国家大模型标准测试首批通过名单公布：含阿里通义千问、腾讯混元等](https://m.ithome.com/html/741089.htm)
 
++ [蔚来行政旗舰轿车 ET9 开订：预售价 80 万元，2025 年 Q1 交付](https://m.ithome.com/html/741178.htm)
+
++ [Epic 喜加一：免费领取竞速游戏《art of rally》](https://m.ithome.com/html/741076.htm)
+

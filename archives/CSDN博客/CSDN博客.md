@@ -185,3 +185,7 @@
 
 + [HarmonyOS官网案例解析——新闻数据加载（ArkTS）](https://blog.csdn.net/qq_36067302/article/details/135125086)
 
++ [python 神经网络归纳](https://blog.csdn.net/Steven_yang_1/article/details/135134493)
+
++ [【开题报告】基于微信小程序的个人心情记录系统的设计与实现](https://blog.csdn.net/lf21qp/article/details/135137803)
+
