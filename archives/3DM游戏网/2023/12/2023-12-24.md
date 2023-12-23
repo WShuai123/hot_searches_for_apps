@@ -101,3 +101,11 @@
 
 + [非2023年游戏热度排名 《艾尔登法环》玩家最爱](https://www.3dmgame.com/news/202312/3884484.html)
 
++ [《碧蓝幻想：Relink》新预告片分享 试玩信息透露](https://www.3dmgame.com/news/202312/3884536.html)
+
++ [《碧蓝幻想：Relink》将包含超过100个任务](https://www.3dmgame.com/news/202312/3884537.html)
+
++ [《摇曳庄的幽奈小姐：温泉迷宫》新增主机版 1/18推出](https://www.3dmgame.com/news/202312/3884535.html)
+
++ [Epic喜加一：《辐射3》年度最佳游戏版免费领取](https://www.3dmgame.com/news/202312/3884534.html)
+
