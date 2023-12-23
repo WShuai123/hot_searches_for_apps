@@ -109,3 +109,5 @@
 
 + [Amazely](https://www.producthunt.com/posts/amazely)
 
++ [HeyGen’s Personalized Video Generator](https://www.producthunt.com/posts/heygen-s-personalized-video-generator)
+

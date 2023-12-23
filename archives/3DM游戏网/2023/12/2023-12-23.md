@@ -135,3 +135,15 @@
 
 + [《GTA6》泄密R星损失500万美元和数千小时工时](https://www.3dmgame.com/news/202312/3884500.html)
 
++ [《奥本海默》将在欧美部分地区IMAX影院重映](https://www.3dmgame.com/news/202312/3884506.html)
+
++ [22岁老师被老人开老头乐撞死 明年全面禁止老头乐](https://www.3dmgame.com/news/202312/3884502.html)
+
++ [《怪物猎人：荒野》Steam页面出现“恋爱模拟”标签](https://www.3dmgame.com/news/202312/3884505.html)
+
++ [《荒野大镖客2》安装100多个MOD之后长这样](https://www.3dmgame.com/news/202312/3884504.html)
+
++ [《加菲猫》圣诞节海报 2024年5月24日上映](https://www.3dmgame.com/news/202312/3884503.html)
+
++ [《如龙8》新细节 每次探索迷宫都会有所变化](https://www.3dmgame.com/news/202312/3884501.html)
+

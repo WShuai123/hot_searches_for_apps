@@ -49,3 +49,5 @@
 
 + [Struts2 历史 RCE 的学习与研究：附最新 S2-066（CVE-2023-50164）](https://www.freebuf.com/vuls/386592.html)
 
++ [S-CMS的代码审计初探](https://www.freebuf.com/vuls/386377.html)
+
