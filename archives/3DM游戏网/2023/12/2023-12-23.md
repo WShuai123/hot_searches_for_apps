@@ -107,3 +107,9 @@
 
 + [Insomniac回应泄露：《漫威金刚狼》继续按计划进行](https://www.3dmgame.com/news/202312/3884486.html)
 
++ [《战地医院》进厂压盘 1月11日发售](https://www.3dmgame.com/news/202312/3884489.html)
+
++ [《100%满分恋爱模拟器》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3884488.html)
+
++ [《微软飞行模拟》免费更新上线 加入大量欧洲城市](https://www.3dmgame.com/news/202312/3884487.html)
+

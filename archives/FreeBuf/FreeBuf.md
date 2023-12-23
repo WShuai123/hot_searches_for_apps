@@ -45,3 +45,7 @@
 
 + [Operation Blacksmith：Lazarus攻击全球的企业和组织](https://www.freebuf.com/articles/paper/386683.html)
 
++ [安全培训 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385189.html)
+
++ [Struts2 历史 RCE 的学习与研究：附最新 S2-066（CVE-2023-50164）](https://www.freebuf.com/vuls/386592.html)
+
