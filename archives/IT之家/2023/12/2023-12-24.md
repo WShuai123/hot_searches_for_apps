@@ -25,3 +25,9 @@
 
 + [Epic 喜加一：免费领取竞速游戏《art of rally》](https://m.ithome.com/html/741076.htm)
 
++ [联想 ThinkBook 14+ 2024 笔记本曝光，配备 Oculink 接口](https://m.ithome.com/html/741131.htm)
+
++ [蔚来行政旗舰轿车 ET9 亮相：首创“行政桥”，集成智能冰箱 / 飞航头等舱座椅](https://m.ithome.com/html/741174.htm)
+
++ [《艾尔登法环》制作人：仍不清楚该作因何成为爆款，会保持初心打造有价值游戏](https://m.ithome.com/html/741113.htm)
+
