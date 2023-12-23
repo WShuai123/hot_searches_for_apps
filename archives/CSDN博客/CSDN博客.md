@@ -175,3 +175,7 @@
 
 + [Spring和Spring Boot框架中怎么理解Bean这个核心概念](https://blog.csdn.net/l2x1314258/article/details/135151781)
 
++ [AI工程化—— 如何让AI在企业多快好省的落地？](https://blog.csdn.net/m0_68662723/article/details/135167287)
+
++ [Redis原理](https://blog.csdn.net/VHhhbb/article/details/135167306)
+
