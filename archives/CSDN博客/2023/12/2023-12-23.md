@@ -173,3 +173,5 @@
 
 + [Kafka收发消息核心参数详解](https://blog.csdn.net/qq_27740127/article/details/135040033)
 
++ [Spring和Spring Boot框架中怎么理解Bean这个核心概念](https://blog.csdn.net/l2x1314258/article/details/135151781)
+

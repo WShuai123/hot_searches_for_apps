@@ -55,3 +55,9 @@
 
 + [腾讯游戏回应网游新规：将继续坚持技术创新、文化引领的精品战略](https://m.ithome.com/html/740995.htm)
 
++ [索尼 Xperia PRO-I 微单手机 3849 元新低，首发价 10999 元](https://m.ithome.com/html/741097.htm)
+
++ [微信安卓版 8.0.45 最新官方内测版下载发布](https://m.ithome.com/html/741070.htm)
+
++ [阿维塔获批高快速路有条件自动驾驶测试牌照，阿维塔 11 通过 L3 路测](https://m.ithome.com/html/741068.htm)
+

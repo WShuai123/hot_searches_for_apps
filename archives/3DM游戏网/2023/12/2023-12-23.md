@@ -175,3 +175,17 @@
 
 + [圣诞快乐！拉瑞安发布《博德之门3》节日动画短片](https://www.3dmgame.com/news/202312/3884520.html)
 
++ [《八英里》说唱歌手纳肖恩·布里德洛夫死因公布](https://www.3dmgame.com/news/202312/3884527.html)
+
++ [国家新闻出版署回应网游新规 旨在促进行业繁荣健康发展](https://www.3dmgame.com/news/202312/3884526.html)
+
++ [好评作品《Gloomwood》更新 添加快速旅行系统](https://www.3dmgame.com/news/202312/3884525.html)
+
++ [360智脑通过国家大模型标准符合性测试 号称全国首个原生安全大模型](https://www.3dmgame.com/news/202312/3884524.html)
+
++ [距离完美再近一步 《终极杀戮》更新档加入第七层](https://www.3dmgame.com/news/202312/3884523.html)
+
++ [下载《漫威金刚狼》开发版用户会收到DMCA通知](https://www.3dmgame.com/news/202312/3884522.html)
+
++ [苹果有意购买新闻档案 用于训练自家AI](https://www.3dmgame.com/news/202312/3884521.html)
+
