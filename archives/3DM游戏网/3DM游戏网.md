@@ -189,3 +189,5 @@
 
 + [苹果有意购买新闻档案 用于训练自家AI](https://www.3dmgame.com/news/202312/3884521.html)
 
++ [华擎宣布率先支持微软动态光效功能 让RGB灯效同步变得更便捷](https://www.3dmgame.com/news/202312/3884529.html)
+

@@ -51,3 +51,41 @@
 
 + [solana-labs / solana-program-library](https://github.com/solana-labs/solana-program-library)
 
++ [cumulo-autumn / StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
+
++ [suno-ai / bark](https://github.com/suno-ai/bark)
+
++ [beeper / imessage](https://github.com/beeper/imessage)
+
++ [Anuken / Mindustry](https://github.com/Anuken/Mindustry)
+
++ [SocialComplexityLab / life2vec](https://github.com/SocialComplexityLab/life2vec)
+
++ [serverless / serverless](https://github.com/serverless/serverless)
+
++ [JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+
++ [kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
++ [electric-capital / crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+
++ [szymanowiczs / splatter-image](https://github.com/szymanowiczs/splatter-image)
+
++ [davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)
+
++ [infiniflow / infinity](https://github.com/infiniflow/infinity)
+
++ [jemalloc / jemalloc](https://github.com/jemalloc/jemalloc)
+
++ [JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [ton-community / tsc5](https://github.com/ton-community/tsc5)
+
++ [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
++ [babaohuang / GeminiProChat](https://github.com/babaohuang/GeminiProChat)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
