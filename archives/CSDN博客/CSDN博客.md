@@ -171,3 +171,5 @@
 
 + [【RTOS学习】源码分析(信号量和互斥量 && 事件组 && 任务通知)](https://blog.csdn.net/weixin_63726869/article/details/135065560)
 
++ [Kafka收发消息核心参数详解](https://blog.csdn.net/qq_27740127/article/details/135040033)
+
