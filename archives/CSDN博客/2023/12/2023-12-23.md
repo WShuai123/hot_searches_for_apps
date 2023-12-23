@@ -181,3 +181,7 @@
 
 + [GoDance分布式搜索引擎项目](https://blog.csdn.net/qq_45911678/article/details/129348423)
 
++ [Yolov5水果分类识别+pyqt交互式界面](https://blog.csdn.net/ALiLiLiYa/article/details/135153162)
+
++ [HarmonyOS官网案例解析——新闻数据加载（ArkTS）](https://blog.csdn.net/qq_36067302/article/details/135125086)
+

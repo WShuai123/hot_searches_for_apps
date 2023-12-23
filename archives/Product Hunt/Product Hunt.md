@@ -127,3 +127,11 @@
 
 + [Reassurance AI (Beta)](https://www.producthunt.com/posts/reassurance-ai-beta)
 
++ [Creaizi AR Christmas Card](https://www.producthunt.com/posts/creaizi-ar-christmas-card)
+
++ [fnchart](https://www.producthunt.com/posts/fnchart)
+
++ [Free Coloring Pages Generator](https://www.producthunt.com/posts/free-coloring-pages-generator)
+
++ [Gibble AI](https://www.producthunt.com/posts/gibble-ai)
+

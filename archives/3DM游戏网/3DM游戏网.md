@@ -191,3 +191,11 @@
 
 + [华擎宣布率先支持微软动态光效功能 让RGB灯效同步变得更便捷](https://www.3dmgame.com/news/202312/3884529.html)
 
++ [《海王2：失落的王国》上映4天 国内票房破1亿](https://www.3dmgame.com/news/202312/3884532.html)
+
++ [扮演狗狗！冒险新作《The Rising》Steam页面上线](https://www.3dmgame.com/news/202312/3884531.html)
+
++ [2023年6大优化最差游戏 《城市：天际线2》上榜](https://www.3dmgame.com/news/202312/3884530.html)
+
++ [《浪人崛起》提供三种难度 可满足类魂玩家的需求](https://www.3dmgame.com/news/202312/3884528.html)
+
