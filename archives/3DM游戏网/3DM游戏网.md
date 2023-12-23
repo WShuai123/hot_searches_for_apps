@@ -159,3 +159,17 @@
 
 + [虚幻引擎4打造 《恐龙危机》玩家自制版发布试玩](https://www.3dmgame.com/news/202312/3884507.html)
 
++ [肉鸽游戏《灾厄幸存者》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3884518.html)
+
++ [《碧蓝幻想：Relink》1月面向主机平台发布免费试玩版](https://www.3dmgame.com/news/202312/3884519.html)
+
++ [经济学家分析《小鬼当家》：住的房子可一点不便宜](https://www.3dmgame.com/news/202312/3884517.html)
+
++ [至少5000万美元 传闻苹果正购买新闻采集权用于训练生成式 AI](https://www.3dmgame.com/news/202312/3884516.html)
+
++ [董明珠怒斥只想多挣钱！孟羽童反驳：不要自觉低人一等](https://www.3dmgame.com/news/202312/3884515.html)
+
++ [《漫威蜘蛛侠3》和《漫威毒液》并无PC工程版](https://www.3dmgame.com/news/202312/3884514.html)
+
++ [海外玩家怎么看网游新规？保护消费者建议普及！](https://www.3dmgame.com/news/202312/3884513.html)
+

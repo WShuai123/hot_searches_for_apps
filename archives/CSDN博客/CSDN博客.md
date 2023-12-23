@@ -167,3 +167,7 @@
 
 + [轻量Http客户端工具VSCode和IDEA](https://blog.csdn.net/qq_34168515/article/details/135162147)
 
++ [【音视频 | AAC】AAC格式音频文件解析](https://blog.csdn.net/wkd_007/article/details/135112250)
+
++ [【RTOS学习】源码分析(信号量和互斥量 && 事件组 && 任务通知)](https://blog.csdn.net/weixin_63726869/article/details/135065560)
+

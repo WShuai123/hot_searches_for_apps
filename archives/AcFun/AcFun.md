@@ -81,3 +81,7 @@
 
 + [十月霸权新番（7）大！傻！壬！你在对猫猫干什么！](http://www.acfun.cn/v/ac43313935)
 
++ [30年前德国的幻灯机，这机械设计算是遥遥领先吗？](http://www.acfun.cn/v/ac43316048)
+
++ [大摆锤Phut hon【独家】](http://www.acfun.cn/v/ac43319707)
+
