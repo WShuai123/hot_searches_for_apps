@@ -105,3 +105,5 @@
 
 + [Serenica](https://www.producthunt.com/posts/serenica)
 
++ [Rex Nutribot](https://www.producthunt.com/posts/rex-nutribot)
+

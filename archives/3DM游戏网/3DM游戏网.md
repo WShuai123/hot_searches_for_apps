@@ -113,3 +113,21 @@
 
 + [《微软飞行模拟》免费更新上线 加入大量欧洲城市](https://www.3dmgame.com/news/202312/3884487.html)
 
++ [PS1《异形：复活》隐藏秘密 可引导启动刻录光盘](https://www.3dmgame.com/news/202312/3884498.html)
+
++ [DC漫画宇宙数字卡牌游戏《DC Dual Force》关服公告 明年2月29日正式关服](https://www.3dmgame.com/news/202312/3884497.html)
+
++ [数毛社评选年度游戏：最佳画面花落谁家？](https://www.3dmgame.com/news/202312/3884496.html)
+
++ [《重装机兵雷诺斯2 Saturn Tribute》明年4月登陆多平台](https://www.3dmgame.com/news/202312/3884495.html)
+
++ [《最终幻想7：重生》将拥有原版游戏中不存在的城市](https://www.3dmgame.com/news/202312/3884494.html)
+
++ [《Cloudy Valley》Steam页面 支持简体中文](https://www.3dmgame.com/news/202312/3884493.html)
+
++ [Falcom公开即将推出游戏 包括《轨迹》未公布项目](https://www.3dmgame.com/news/202312/3884492.html)
+
++ [《赛博朋克2》出身更加重要 不像1代是个摆设](https://www.3dmgame.com/news/202312/3884491.html)
+
++ [《永恒之柱》发行商Versus Evil宣布关门 运营十年](https://www.3dmgame.com/news/202312/3884490.html)
+
