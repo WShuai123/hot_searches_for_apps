@@ -147,3 +147,15 @@
 
 + [《如龙8》新细节 每次探索迷宫都会有所变化](https://www.3dmgame.com/news/202312/3884501.html)
 
++ [改头换面 《潜行者》True Stalker大修MOD发布](https://www.3dmgame.com/news/202312/3884512.html)
+
++ [中文效果超越GPT3.5！腾讯混元大模型通过国家大模型标准测试](https://www.3dmgame.com/news/202312/3884510.html)
+
++ [微软支付7600万美元 购买占地407英亩南瓜农场](https://www.3dmgame.com/news/202312/3884511.html)
+
++ [突然神秘失踪四年 《偏执狂：强制幸福》重新上架](https://www.3dmgame.com/news/202312/3884509.html)
+
++ [Win10结束支持后，全球超2.4亿台PC或被扔进垃圾桶](https://www.3dmgame.com/news/202312/3884508.html)
+
++ [虚幻引擎4打造 《恐龙危机》玩家自制版发布试玩](https://www.3dmgame.com/news/202312/3884507.html)
+

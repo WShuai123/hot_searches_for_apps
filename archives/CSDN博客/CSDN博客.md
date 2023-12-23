@@ -163,3 +163,7 @@
 
 + [TCP服务器的演变过程：揭秘使用多线程实现一对多的TCP服务器](https://blog.csdn.net/Long_xu/article/details/135140837)
 
++ [AI时代Python量化交易实战：ChatGPT引领新时代](https://blog.csdn.net/u014727709/article/details/135165054)
+
++ [轻量Http客户端工具VSCode和IDEA](https://blog.csdn.net/qq_34168515/article/details/135162147)
+

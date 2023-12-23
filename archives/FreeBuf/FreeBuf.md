@@ -51,3 +51,7 @@
 
 + [S-CMS的代码审计初探](https://www.freebuf.com/vuls/386377.html)
 
++ [内网渗透测试 | 横向常见利用手法](https://www.freebuf.com/articles/network/382754.html)
+
++ [Arsenal：一款专为红队人员设计的渗透测试命令快速执行工具](https://www.freebuf.com/sectool/384590.html)
+
