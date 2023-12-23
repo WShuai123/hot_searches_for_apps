@@ -107,3 +107,5 @@
 
 + [Rex Nutribot](https://www.producthunt.com/posts/rex-nutribot)
 
++ [Amazely](https://www.producthunt.com/posts/amazely)
+

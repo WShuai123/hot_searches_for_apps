@@ -143,3 +143,15 @@
 
 + [设计模式：循序渐进走入工厂模式](https://blog.csdn.net/weixin_62951900/article/details/135161459)
 
++ [神经网络：数据预处理知识点](https://blog.csdn.net/weixin_51390582/article/details/135124465)
+
++ [推荐算法架构7：特征工程](https://blog.csdn.net/u013510838/article/details/135123291)
+
++ [网络安全（黑客技术）—自学手册](https://blog.csdn.net/dexi113/article/details/135131382)
+
++ [网络爬虫之Ajax动态数据采集](https://blog.csdn.net/qq_44709053/article/details/135106160)
+
++ [案例096:基于微信小程序的社区团购系统](https://blog.csdn.net/2301_79727522/article/details/135142764)
+
++ [YOLOv8改进 | 主干篇 | 利用MobileNetV3替换Backbone（轻量化网络结构）](https://blog.csdn.net/java1314777/article/details/135074619)
+

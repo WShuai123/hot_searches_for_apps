@@ -131,3 +131,7 @@
 
 + [《永恒之柱》发行商Versus Evil宣布关门 运营十年](https://www.3dmgame.com/news/202312/3884490.html)
 
++ [《博德之门3》日版强制遮挡敏感部位 反获玩家好感](https://www.3dmgame.com/news/202312/3884499.html)
+
++ [《GTA6》泄密R星损失500万美元和数千小时工时](https://www.3dmgame.com/news/202312/3884500.html)
+
