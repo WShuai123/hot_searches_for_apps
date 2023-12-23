@@ -101,3 +101,11 @@
 
 + [【音视频 | AAC】AAC格式音频文件解析](https://blog.csdn.net/wkd_007/article/details/135112250)
 
++ [SpringSecurity安全框架 ——认证与授权](https://blog.csdn.net/Justw320/article/details/135117451)
+
++ [Spring security之授权](https://blog.csdn.net/weixin_73320743/article/details/135166451)
+
++ [web网页端使用webSocket实现语音通话功能(SpringBoot+VUE)](https://blog.csdn.net/Carmelo_7/article/details/135162517)
+
++ [.NET Framework 对应系统版本汇总](https://blog.csdn.net/pmcasp/article/details/135158500)
+

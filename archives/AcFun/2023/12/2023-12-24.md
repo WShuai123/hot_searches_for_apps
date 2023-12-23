@@ -67,3 +67,5 @@
 
 + [《Merry Christmas Mr Lawrence》♡圣诞节快乐，小萝北先生♡【翻唱】](http://www.acfun.cn/v/ac43277462)
 
++ [20年前奇特的武侠游戏，借来赵云传的音乐，还隐藏起两位男主！](http://www.acfun.cn/v/ac43322765)
+
