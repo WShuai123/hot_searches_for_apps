@@ -125,3 +125,5 @@
 
 + [Docker——微服务的部署](https://blog.csdn.net/shall_zhao/article/details/135144507)
 
++ [05. Springboot admin集成Actuator（一）](https://blog.csdn.net/p793049488/article/details/135173501)
+
