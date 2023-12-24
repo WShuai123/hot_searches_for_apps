@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 谷歌修复第8个Chrome零日漏洞；支撑AI图像生成的最大数据集被移除](https://www.freebuf.com/news/387313.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/387522.html)
+
++ [样本分析 | LockBit：持续进化的勒索威胁](https://www.freebuf.com/articles/es/386715.html)
+
