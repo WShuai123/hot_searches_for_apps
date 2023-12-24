@@ -115,3 +115,15 @@
 
 + [JaevesAI Creative Suite 2.0 (Beta)](https://www.producthunt.com/posts/jaevesai-creative-suite-2-0-beta)
 
++ [RolesHQ](https://www.producthunt.com/posts/roleshq)
+
++ [Your 2023 in Words | Totem Word](https://www.producthunt.com/posts/your-2023-in-words-totem-word)
+
++ [Fanfuel](https://www.producthunt.com/posts/fanfuel)
+
++ [ProductAssist](https://www.producthunt.com/posts/productassist-4)
+
++ [Spiritme AI ScriptWriter](https://www.producthunt.com/posts/spiritme-ai-scriptwriter)
+
++ [Pitchlink](https://www.producthunt.com/posts/pitchlink-2)
+

@@ -177,3 +177,9 @@
 
 + [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/135159966)
 
++ [【微服务】springboot整合kafka-stream使用详解](https://blog.csdn.net/zhangcongyi420/article/details/135180590)
+
++ [什么是Amazon Bedrock (亚马逊云的生成式 AI产品)](https://blog.csdn.net/m0_37482190/article/details/135134627)
+
++ [【HTML5】HTML5 语音合成](https://blog.csdn.net/david_520042/article/details/135140526)
+
