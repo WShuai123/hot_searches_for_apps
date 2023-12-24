@@ -173,3 +173,7 @@
 
 + [Python量化投资——金融数据最佳实践: 使用qteasy+tushare搭建本地金融数据仓库并定期批量更新【附源码】](https://blog.csdn.net/Shepherdppz/article/details/124586480)
 
++ [Spark SQL](https://blog.csdn.net/Morse_Chen/article/details/135173487)
+
++ [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/135159966)
+

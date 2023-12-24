@@ -105,3 +105,13 @@
 
 + [Collab](https://www.producthunt.com/posts/collab-3)
 
++ [AI ChatMentor](https://www.producthunt.com/posts/ai-chatmentor)
+
++ [Download Bazar](https://www.producthunt.com/posts/download-bazar)
+
++ [Playlistlist](https://www.producthunt.com/posts/playlistlist)
+
++ [Twine](https://www.producthunt.com/posts/twine-8)
+
++ [JaevesAI Creative Suite 2.0 (Beta)](https://www.producthunt.com/posts/jaevesai-creative-suite-2-0-beta)
+
