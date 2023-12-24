@@ -25,3 +25,5 @@
 
 + [腾讯全新社交应用《代号 M9》上线，支持多人群聊、好友地图、实时状态等](https://m.ithome.com/html/741246.htm)
 
++ [曾准确预测苹果 iPhone 15 系列手机相关信息，知名爆料人 Revegnus 宣布停更](https://m.ithome.com/html/741235.htm)
+

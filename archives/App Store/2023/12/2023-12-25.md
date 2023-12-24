@@ -201,3 +201,9 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+
++ [乐播投屏 - 亿万用户必备投屏助手](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
