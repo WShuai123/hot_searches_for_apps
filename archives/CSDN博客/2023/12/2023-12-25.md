@@ -101,3 +101,9 @@
 
 + [持续集成交付CICD：Jira 远程触发 Jenkins 实现更新 GitLab 分支](https://blog.csdn.net/cronaldo91/article/details/135171221)
 
++ [【MySQL】表的基本查询](https://blog.csdn.net/YoungMLet/article/details/135022325)
+
++ [【计算机四级（网络工程师）笔记】操作系统运行机制](https://blog.csdn.net/m0_71369515/article/details/135179671)
+
++ [Python 爬虫之下载视频（四）](https://blog.csdn.net/weixin_57061292/article/details/135171895)
+
