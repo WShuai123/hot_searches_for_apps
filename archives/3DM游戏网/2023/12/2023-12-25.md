@@ -105,3 +105,9 @@
 
 + [外媒评今年游玩时间超过百小时的游戏 《博德之门3》等](https://www.3dmgame.com/news/202312/3884576.html)
 
++ [《前线任务1重制版》夏季免费更新剧情及多人模式](https://www.3dmgame.com/news/202312/3884580.html)
+
++ [任天堂关闭Wii U和3DS新用户的网络功能](https://www.3dmgame.com/news/202312/3884579.html)
+
++ [3D动作RPG《东京复仇者》宣布延期至2024年2月](https://www.3dmgame.com/news/202312/3884578.html)
+

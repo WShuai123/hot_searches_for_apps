@@ -131,3 +131,11 @@
 
 + [重构云计算，打造 AI 原生时代的云计算产品与技术体系，实现 AI 零距离](https://blog.csdn.net/qq_32036091/article/details/135165075)
 
++ [使用 Elasticsearch 检测抄袭 （二）](https://blog.csdn.net/UbuntuTouch/article/details/135154708)
+
++ [深度剖析Ajax实现方式(原生框架、JQuery、Axios，Fetch）](https://blog.csdn.net/ak_bingbing/article/details/135159805)
+
++ [Win系统修改Nginx配置结合内网穿透实现远程访问多个Web站点](https://blog.csdn.net/qq_65596720/article/details/135159935)
+
++ [计算机网络 第七章 物理层(习题)](https://blog.csdn.net/m0_53054984/article/details/135142761)
+
