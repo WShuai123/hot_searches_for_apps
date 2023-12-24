@@ -155,3 +155,13 @@
 
 + [全球八国畅销手机TOP5：除韩国之外第一全是iPhone](https://www.3dmgame.com/news/202312/3884559.html)
 
++ [《使命召唤：现代战争3》AI反作弊封禁2.3万账号](https://www.3dmgame.com/news/202312/3884564.html)
+
++ [玩家认为《GTA6》已暗示下一段预告片发布日期](https://www.3dmgame.com/news/202312/3884562.html)
+
++ [百度文心率先通过国家大模型标准测试 用户已超 7000 万](https://www.3dmgame.com/news/202312/3884563.html)
+
++ [好评作品《Baba Is You》衍生新作限时免费领取](https://www.3dmgame.com/news/202312/3884561.html)
+
++ [《石纪元》最终季《SCIENCE FUTURE》确定制作](https://www.3dmgame.com/news/202312/3884560.html)
+

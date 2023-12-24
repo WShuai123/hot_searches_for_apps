@@ -169,3 +169,7 @@
 
 + [C++ Qt开发：Charts折线图绘制详解](https://blog.csdn.net/lyshark_csdn/article/details/135169906)
 
++ [持续集成交付CICD：Jira 远程触发 Jenkins 实现更新 GitLab 分支](https://blog.csdn.net/cronaldo91/article/details/135171221)
+
++ [Python量化投资——金融数据最佳实践: 使用qteasy+tushare搭建本地金融数据仓库并定期批量更新【附源码】](https://blog.csdn.net/Shepherdppz/article/details/124586480)
+
