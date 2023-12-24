@@ -39,3 +39,9 @@
 
 + [三星 Galaxy S24 Ultra 手机相机模组曝光，暗示长焦从 1000 万 10x 改为 5000 万 5x](https://m.ithome.com/html/741125.htm)
 
++ [“猪队友”拼多多提前曝光华为 nova 12 系列手机售价：3299 元起](https://m.ithome.com/html/741203.htm)
+
++ [上映 7 天，《名侦探柯南：黑铁的鱼影》内地票房破亿、豆瓣 6.6 分](https://m.ithome.com/html/741191.htm)
+
++ [华为 nova 12 Pro 樱语粉真机曝光：采用四曲屏，支持卫星通信](https://m.ithome.com/html/741196.htm)
+

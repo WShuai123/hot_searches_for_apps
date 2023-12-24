@@ -121,3 +121,15 @@
 
 + [育碧也被黑客攻击 差点丢失将近1TB数据](https://www.3dmgame.com/news/202312/3884538.html)
 
++ [截至2023年11月PS5和Xbox Series X|S美国销量对比](https://www.3dmgame.com/news/202312/3884546.html)
+
++ [《怪物猎人：世界》在线峰值突破10万 官方发推致谢玩家](https://www.3dmgame.com/news/202312/3884547.html)
+
++ [多种奖励活动 VR新作《Brazen Blaze》开启公测注册](https://www.3dmgame.com/news/202312/3884548.html)
+
++ [《星空》现已开启Steam平台冬季促销，低至七折仅需208元](https://www.3dmgame.com/news/202312/3884473.html)
+
++ [FTC仍在调查微软动视交易 要求提供更多证据](https://www.3dmgame.com/news/202312/3884544.html)
+
++ [《碧蓝幻想versus：崛起》联动《尼尔》2B确定参战](https://www.3dmgame.com/news/202312/3884545.html)
+
