@@ -51,3 +51,5 @@
 
 + [Epic 喜加一：《辐射 3》年度最佳游戏版免费领取](https://m.ithome.com/html/741193.htm)
 
++ [vivo 印度公司两高管被曝在印被拘，公司回应：深感震惊，将采取法律措施](https://m.ithome.com/html/741205.htm)
+

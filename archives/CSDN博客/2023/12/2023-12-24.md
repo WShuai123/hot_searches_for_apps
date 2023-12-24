@@ -155,3 +155,13 @@
 
 + [YOLOv8改进 | 主干篇 | 利用SENetV1改进网络结构 (ILSVRC冠军得主)](https://blog.csdn.net/java1314777/article/details/135092385)
 
++ [【模式识别】探秘分类奥秘：最近邻算法解密与实战](https://blog.csdn.net/m0_57532432/article/details/135031090)
+
++ [【FPGA】Verilog 实践：优先级编码器 | Priority encoder](https://blog.csdn.net/weixin_50502862/article/details/135074841)
+
++ [HTML5文档](https://blog.csdn.net/m0_62943934/article/details/135159668)
+
++ [如何在Windows上搭建WebDAV服务并通过内网穿透实现公网访问](https://blog.csdn.net/qq_57761637/article/details/135164413)
+
++ [Yolov5水果分类识别+pyqt交互式界面](https://blog.csdn.net/ALiLiLiYa/article/details/135153162)
+
