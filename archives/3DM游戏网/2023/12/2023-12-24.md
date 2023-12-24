@@ -177,3 +177,7 @@
 
 + [传SIE正高清复刻《战神》原三部曲 登陆PS5](https://www.3dmgame.com/news/202312/3884569.html)
 
++ [布拉德·皮特、乔治克鲁尼新片定档9月20日](https://www.3dmgame.com/news/202312/3884572.html)
+
++ [《海王2》国内票房破2亿 全球票房已超1亿美元](https://www.3dmgame.com/news/202312/3884571.html)
+

@@ -193,3 +193,5 @@
 
 + [使用PE信息查看工具和Dependency Walker工具排查因为库版本不对导致程序启动报错的问题](https://blog.csdn.net/chenlycly/article/details/135165307)
 
++ [C++学习周报（2023.12.17~2023.12.23）](https://blog.csdn.net/2302_79422829/article/details/135079009)
+
