@@ -195,3 +195,9 @@
 
 + [C++学习周报（2023.12.17~2023.12.23）](https://blog.csdn.net/2302_79422829/article/details/135079009)
 
++ [C++ Qt开发：Charts折线图绑定事件](https://blog.csdn.net/lyshark_csdn/article/details/135185484)
+
++ [物联网协议之COAP简介及Java实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/135139769)
+
++ [Python 爬虫之下载视频（四）](https://blog.csdn.net/weixin_57061292/article/details/135171895)
+

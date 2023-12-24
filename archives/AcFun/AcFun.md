@@ -149,3 +149,13 @@
 
 + [圣诞文艺复兴 MASAYUME CHSING 妖精的尾巴op](http://www.acfun.cn/v/ac43331164)
 
++ [圣诞快乐~你的兔子秘书已上线！](http://www.acfun.cn/v/ac43331940)
+
++ [霓虹甜心](http://www.acfun.cn/v/ac43331822)
+
++ [【原神】美露辛原型解析](http://www.acfun.cn/v/ac43331078)
+
++ [【颜音圣诞MMD】Very Merry Happy Christmas](http://www.acfun.cn/v/ac43331603)
+
++ [男人，你一定要硬气](http://www.acfun.cn/v/ac43206490)
+
