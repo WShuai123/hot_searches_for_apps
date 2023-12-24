@@ -133,3 +133,13 @@
 
 + [《碧蓝幻想versus：崛起》联动《尼尔》2B确定参战](https://www.3dmgame.com/news/202312/3884545.html)
 
++ [《假面骑士歌查德》新海报公开 面向2024年全新展开](https://www.3dmgame.com/news/202312/3884553.html)
+
++ [《辐射4》DLC规模MOD“辐射：伦敦”明年4月发布](https://www.3dmgame.com/news/202312/3884552.html)
+
++ [青沼英二：不想把《塞尔达传说》做成《马里奥制造》](https://www.3dmgame.com/news/202312/3884551.html)
+
++ [中国未成年网民突破1.93亿 玩游戏时间减少狂刷短视频](https://www.3dmgame.com/news/202312/3884550.html)
+
++ [马斯克成全球最能赚钱的男人：今年平均每分钟赚146万](https://www.3dmgame.com/news/202312/3884549.html)
+

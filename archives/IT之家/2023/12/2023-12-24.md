@@ -45,3 +45,5 @@
 
 + [华为 nova 12 Pro 樱语粉真机曝光：采用四曲屏，支持卫星通信](https://m.ithome.com/html/741196.htm)
 
++ [蔚来首颗自研智驾芯片“神玑 NX9031”发布，5nm 车规级工艺](https://m.ithome.com/html/741173.htm)
+

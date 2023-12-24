@@ -77,3 +77,5 @@
 
 + [小薰给大家变个魔术](http://www.acfun.cn/v/ac43318965)
 
++ [什么鬼？再看亿遍！！](http://www.acfun.cn/v/ac43325286)
+
