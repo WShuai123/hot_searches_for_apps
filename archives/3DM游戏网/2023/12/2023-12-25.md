@@ -101,3 +101,7 @@
 
 + [好评作品《Gloomwood》更新 添加快速旅行系统](https://www.3dmgame.com/news/202312/3884525.html)
 
++ [Epic喜加一：《幽灵线：东京》免费领取](https://www.3dmgame.com/news/202312/3884577.html)
+
++ [外媒评今年游玩时间超过百小时的游戏 《博德之门3》等](https://www.3dmgame.com/news/202312/3884576.html)
+
