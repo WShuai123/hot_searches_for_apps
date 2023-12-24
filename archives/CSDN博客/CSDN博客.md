@@ -183,3 +183,11 @@
 
 + [【HTML5】HTML5 语音合成](https://blog.csdn.net/david_520042/article/details/135140526)
 
++ [如何在飞书自建项目中接入ChatGPT打造智能问答助手并远程访问](https://blog.csdn.net/Tiam_cr/article/details/135184114)
+
++ [2016年第五届数学建模国际赛小美赛C题对超级细菌的战争解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135147816)
+
++ [【高数定积分求解旋转体体积】 —— （上）高等数学|定积分|柱壳法|学习技巧](https://blog.csdn.net/Aileenvov/article/details/135171104)
+
++ [分布式搜索引擎03](https://blog.csdn.net/m0_64378422/article/details/135176521)
+

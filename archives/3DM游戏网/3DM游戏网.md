@@ -167,3 +167,9 @@
 
 + [《上古卷轴5》安装MOD太多之后：效果令人绝望](https://www.3dmgame.com/news/202312/3884565.html)
 
++ [微星黑/白刃机箱上市 270°侧透海景房、支持背插主板](https://www.3dmgame.com/news/202312/3884568.html)
+
++ [玩家分析3DS与Switch好玩游戏多原因 游戏画面再好也比不上电影](https://www.3dmgame.com/news/202312/3884566.html)
+
++ [NS烧录卡破解即将测试完成？传言称下月首批发货](https://www.3dmgame.com/news/202312/3884567.html)
+

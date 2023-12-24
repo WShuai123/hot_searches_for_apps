@@ -51,3 +51,35 @@
 
 + [langgenius / dify](https://github.com/langgenius/dify)
 
++ [mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent)
+
++ [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
++ [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
++ [labring / FastGPT](https://github.com/labring/FastGPT)
+
++ [heyman / heynote](https://github.com/heyman/heynote)
+
++ [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [SillyTavern / SillyTavern](https://github.com/SillyTavern/SillyTavern)
+
++ [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [jianchang512 / clone-voice](https://github.com/jianchang512/clone-voice)
+
++ [sundowndev / phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
++ [firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions)
+

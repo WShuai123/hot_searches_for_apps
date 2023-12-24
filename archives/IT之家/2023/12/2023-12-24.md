@@ -59,3 +59,7 @@
 
 + [全新奥迪“A4L”首台焊装车下线：消息称将更名为奥迪 A5，预计明年投产](https://m.ithome.com/html/741219.htm)
 
++ [央视公布 2023 年度国内、国际十大科技新闻：包括华为 Mate 60 系列手机发布、1 箭 41 星等](https://m.ithome.com/html/741229.htm)
+
++ [小米汽车申请视频号，微信公众号头像改为车标](https://m.ithome.com/html/741260.htm)
+
