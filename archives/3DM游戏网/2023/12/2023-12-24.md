@@ -173,3 +173,7 @@
 
 + [NS烧录卡破解即将测试完成？传言称下月首批发货](https://www.3dmgame.com/news/202312/3884567.html)
 
++ [CDPR、Capcom、B社等厂商祝玩家圣诞快乐](https://www.3dmgame.com/news/202312/3884570.html)
+
++ [传SIE正高清复刻《战神》原三部曲 登陆PS5](https://www.3dmgame.com/news/202312/3884569.html)
+

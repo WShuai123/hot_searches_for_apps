@@ -131,3 +131,15 @@
 
 + [就拍个雪，房塌了！](http://www.acfun.cn/v/ac43325645)
 
++ [【地厚载山河】第八集：梭哈是一种智慧](http://www.acfun.cn/v/ac43330881)
+
++ [这么可爱的兔兔！难以抗拒【pop翻跳】](http://www.acfun.cn/v/ac43330770)
+
++ [【皆琉子】之琉sir出警！](http://www.acfun.cn/v/ac43325398)
+
++ [对马岛太好看了！可惜是个罐头......](http://www.acfun.cn/v/ac43323585)
+
++ [竖屏拉近 BingBing](http://www.acfun.cn/v/ac43323526)
+
++ [扔垃圾的邻居](http://www.acfun.cn/v/ac43325629)
+

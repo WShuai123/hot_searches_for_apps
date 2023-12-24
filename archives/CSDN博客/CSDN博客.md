@@ -191,3 +191,5 @@
 
 + [分布式搜索引擎03](https://blog.csdn.net/m0_64378422/article/details/135176521)
 
++ [使用PE信息查看工具和Dependency Walker工具排查因为库版本不对导致程序启动报错的问题](https://blog.csdn.net/chenlycly/article/details/135165307)
+

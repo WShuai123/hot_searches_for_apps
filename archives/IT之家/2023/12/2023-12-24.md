@@ -63,3 +63,5 @@
 
 + [小米汽车申请视频号，微信公众号头像改为车标](https://m.ithome.com/html/741260.htm)
 
++ [消息称京东上月底开启小规模裁员，部分员工对赔偿不满](https://m.ithome.com/html/741232.htm)
+
