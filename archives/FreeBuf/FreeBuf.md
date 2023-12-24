@@ -51,3 +51,7 @@
 
 + [CVE-2023-39785堆栈溢出漏洞分析](https://www.freebuf.com/vuls/386848.html)
 
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
++ [如何使用GATOR测试Google Cloud云环境实例的安全性](https://www.freebuf.com/sectool/384592.html)
+

@@ -165,3 +165,5 @@
 
 + [Yolov5水果分类识别+pyqt交互式界面](https://blog.csdn.net/ALiLiLiYa/article/details/135153162)
 
++ [云原生系列3-Kubernetes](https://blog.csdn.net/ma1782072/article/details/135128888)
+
