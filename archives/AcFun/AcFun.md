@@ -79,3 +79,5 @@
 
 + [什么鬼？再看亿遍！！](http://www.acfun.cn/v/ac43325286)
 
++ [我们Acer就喜欢戴眼镜的！★手机竖屏1008★](http://www.acfun.cn/v/ac43323556)
+

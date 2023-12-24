@@ -49,3 +49,5 @@
 
 + [车联网安全之GPS欺骗](https://www.freebuf.com/articles/network/386385.html)
 
++ [CVE-2023-39785堆栈溢出漏洞分析](https://www.freebuf.com/vuls/386848.html)
+

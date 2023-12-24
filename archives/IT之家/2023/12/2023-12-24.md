@@ -47,3 +47,7 @@
 
 + [蔚来首颗自研智驾芯片“神玑 NX9031”发布，5nm 车规级工艺](https://m.ithome.com/html/741173.htm)
 
++ [中国电信恢复 eSIM 一号双终端业务办理](https://m.ithome.com/html/741215.htm)
+
++ [Epic 喜加一：《辐射 3》年度最佳游戏版免费领取](https://m.ithome.com/html/741193.htm)
+

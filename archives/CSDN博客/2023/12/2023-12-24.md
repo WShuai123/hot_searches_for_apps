@@ -151,3 +151,7 @@
 
 + [深度学习第6天：ResNet深度残差网络](https://blog.csdn.net/MuRanstr/article/details/135169702)
 
++ [ASP.Net实现姓名添加查询(三层架构)](https://blog.csdn.net/Mr_wangzu/article/details/135161475)
+
++ [YOLOv8改进 | 主干篇 | 利用SENetV1改进网络结构 (ILSVRC冠军得主)](https://blog.csdn.net/java1314777/article/details/135092385)
+
