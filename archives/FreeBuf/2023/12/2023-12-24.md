@@ -45,3 +45,7 @@
 
 + [样本分析 | LockBit：持续进化的勒索威胁](https://www.freebuf.com/articles/es/386715.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [车联网安全之GPS欺骗](https://www.freebuf.com/articles/network/386385.html)
+

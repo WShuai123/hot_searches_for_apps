@@ -35,3 +35,7 @@
 
 + [国家新闻出版署有关负责人：网游新规征求意见稿旨在促进行业繁荣健康发展](https://m.ithome.com/html/741148.htm)
 
++ [PD3.1 140W 快充：AOHi 青春版氮化镓充电器 169 元预售](https://m.ithome.com/html/741144.htm)
+
++ [三星 Galaxy S24 Ultra 手机相机模组曝光，暗示长焦从 1000 万 10x 改为 5000 万 5x](https://m.ithome.com/html/741125.htm)
+

@@ -109,3 +109,15 @@
 
 + [Epic喜加一：《辐射3》年度最佳游戏版免费领取](https://www.3dmgame.com/news/202312/3884534.html)
 
++ [《８番出口》阐明立场  只要场所系统不尽相同不会追究](https://www.3dmgame.com/news/202312/3884543.html)
+
++ [《月球叛军2：烙印之人》预告泄露 4月19日上线](https://www.3dmgame.com/news/202312/3884542.html)
+
++ [吉田直树认为十年后游戏主机可能会消失](https://www.3dmgame.com/news/202312/3884541.html)
+
++ [《RELICS The recur of “ORIGIN”》确定复刻 经典游戏合集](https://www.3dmgame.com/news/202312/3884540.html)
+
++ [传闻：id Software开发《曼达洛人》游戏 Xbox独占](https://www.3dmgame.com/news/202312/3884539.html)
+
++ [育碧也被黑客攻击 差点丢失将近1TB数据](https://www.3dmgame.com/news/202312/3884538.html)
+

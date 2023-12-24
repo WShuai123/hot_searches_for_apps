@@ -131,3 +131,19 @@
 
 + [WebAssembly 的魅力：高效、安全、跨平台(下)](https://blog.csdn.net/weixin_42554191/article/details/135163037)
 
++ [【AI】人工智能复兴的推进器之机器学习](https://blog.csdn.net/giszz/article/details/135163165)
+
++ [OpenHarmony源码学习之编译构建](https://blog.csdn.net/weixin_42938827/article/details/135165434)
+
++ [【安卓app开发三】基于Fragment构建底部导航栏与个人中心模块](https://blog.csdn.net/weixin_53046242/article/details/135160523)
+
++ [Mysql之约束下篇](https://blog.csdn.net/m0_74228185/article/details/135117017)
+
++ [Web前端 ---- 【Vue】vue路由守卫（全局前置路由守卫、全局后置路由守卫、局部路由path守卫、局部路由component守卫）](https://blog.csdn.net/weixin_68854196/article/details/135173267)
+
++ [【JAVA】分布式链路追踪技术概论](https://blog.csdn.net/Joker_ZJN/article/details/135175596)
+
++ [云原生之深入解析基于FunctionGraph在Serverless领域的FinOps的探索和实践](https://blog.csdn.net/Forever_wj/article/details/135139792)
+
++ [探索vue.js：构建现代化的前端应用](https://blog.csdn.net/AnZz0827/article/details/135167845)
+
