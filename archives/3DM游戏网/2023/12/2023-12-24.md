@@ -151,3 +151,7 @@
 
 + [人气游戏《胜利女神》公布新角色 红莲黑色阴影即将登场](https://www.3dmgame.com/news/202312/3884554.html)
 
++ [泄露信息显示Bend曾有计划开发《往日不再》续作](https://www.3dmgame.com/news/202312/3884558.html)
+
++ [全球八国畅销手机TOP5：除韩国之外第一全是iPhone](https://www.3dmgame.com/news/202312/3884559.html)
+

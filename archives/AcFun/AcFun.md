@@ -89,3 +89,11 @@
 
 + [好一个科目二坡路急停](http://www.acfun.cn/v/ac43325713)
 
++ [【柯基】德国传统圣诞颂歌——哦，大枞树 O Tannenbaum](http://www.acfun.cn/v/ac43325013)
+
++ [美属萨摩亚大学卫衣【ABQ好物】](http://www.acfun.cn/v/ac43322542)
+
++ [在圣诞小屋里，清唱《焦糖星》给你听](http://www.acfun.cn/v/ac43322418)
+
++ [无锡南方泉老街，8元一碗小馄饨算便宜吗？](http://www.acfun.cn/v/ac43319500)
+
