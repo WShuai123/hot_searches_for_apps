@@ -111,3 +111,15 @@
 
 + [Woodle AI](https://www.producthunt.com/posts/woodle-ai)
 
++ [BrewFlavor](https://www.producthunt.com/posts/brewflavor)
+
++ [New Year Resolutions AI](https://www.producthunt.com/posts/new-year-resolutions-ai)
+
++ [Your Domain Bot](https://www.producthunt.com/posts/your-domain-bot)
+
++ [AI Employe](https://www.producthunt.com/posts/ai-employe)
+
++ [Convertlyio](https://www.producthunt.com/posts/convertlyio)
+
++ [Fabric Content Analyzer](https://www.producthunt.com/posts/fabric-content-analyzer)
+

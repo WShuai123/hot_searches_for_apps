@@ -47,3 +47,5 @@
 
 + [消息称 vivo X100 Pro + 手机搭载 2 亿潜望镜，支持 200 倍数字变焦](https://m.ithome.com/html/741317.htm)
 
++ [消息称《GTA6》主线时长约 35~40 小时，不及《荒野大镖客 2》](https://m.ithome.com/html/741281.htm)
+

@@ -187,3 +187,19 @@
 
 + [《寂静岭：Townfall》承诺2024年将公布更多信息](https://www.3dmgame.com/news/202312/3884617.html)
 
++ [《星空》玩家仍然在不断流失！本月平均人数1万4](https://www.3dmgame.com/news/202312/3884625.html)
+
++ [CDPR承认没兑现《赛博朋克2077》角色出身承诺 未来将改进](https://www.3dmgame.com/news/202312/3884626.html)
+
++ [《最终幻想16》制作人认为十年后主机将消失 进入云游戏时代](https://www.3dmgame.com/news/202312/3884621.html)
+
++ [英特尔CEO称摩尔定律节奏正在放缓 但仍未消亡](https://www.3dmgame.com/news/202312/3884622.html)
+
++ [碰撞时可能引发车门解锁：特斯拉宣布召回12万辆汽车](https://www.3dmgame.com/news/202312/3884623.html)
+
++ [传闻：《侏罗纪公园：生存》玩法类似于《异形：隔离》](https://www.3dmgame.com/news/202312/3884624.html)
+
++ [《Deep Death Dungeon Darkness》登陆Steam 类魂肉鸽](https://www.3dmgame.com/news/202312/3884619.html)
+
++ [传闻：Xbox提前规划了15年的第一方游戏阵容](https://www.3dmgame.com/news/202312/3884620.html)
+
