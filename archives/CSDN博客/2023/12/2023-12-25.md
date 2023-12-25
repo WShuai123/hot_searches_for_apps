@@ -181,3 +181,17 @@
 
 + [RPC 实战与原理](https://blog.csdn.net/weixin_43847283/article/details/135148302)
 
++ [【模式识别】探秘分类奥秘：K-近邻算法解密与实战](https://blog.csdn.net/m0_57532432/article/details/135031099)
+
++ [探索 HTTP 请求的世界：get 和 post 的奥秘(上)](https://blog.csdn.net/weixin_42554191/article/details/135086070)
+
++ [第1课 配置FFmpeg+OpenCV开发环境](https://blog.csdn.net/XiBuQiuChong/article/details/135177305)
+
++ [使用 Spring Boot + MyBatis开发需要注意的事项以及开发模版](https://blog.csdn.net/qq_45922256/article/details/135158525)
+
++ [Anylogic Pro 8.8.x for Mac / for Linux Crack](https://blog.csdn.net/john_dwh/article/details/135183604)
+
++ [微信小程序生成一个天气查询的小程序](https://blog.csdn.net/weixin_71893790/article/details/135175224)
+
++ [Vue3和Vue2的区别](https://blog.csdn.net/study_way/article/details/135045987)
+

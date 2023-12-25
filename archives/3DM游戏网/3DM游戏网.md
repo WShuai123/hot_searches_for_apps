@@ -171,3 +171,11 @@
 
 + [动视暴雪高管回顾今年公司高光时刻 暗黑4是骄傲](https://www.3dmgame.com/news/202312/3884605.html)
 
++ [《一拳超人》画师的《光速跑者21号》的21周年特别篇将在2024年1月29日公开](https://www.3dmgame.com/news/202312/3884614.html)
+
++ [“掘地求生”风格游戏《一款关于攀岩的困难游戏》登陆Steam 明年2月发行](https://www.3dmgame.com/news/202312/3884612.html)
+
++ [《GTA5》源代码被泄露 包含《GTA6》脚本文件](https://www.3dmgame.com/news/202312/3884613.html)
+
++ [日本电竞联盟白皮书公布 电竞规模达到125亿日元](https://www.3dmgame.com/news/202312/3884611.html)
+

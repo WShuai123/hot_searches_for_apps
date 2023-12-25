@@ -59,3 +59,9 @@
 
 + [欧洲：数百家电商网站泄露了用户支付信息](https://www.freebuf.com/news/387606.html)
 
++ [如何使用PatchaPalooza对微软每月的安全更新进行全面深入的分析](https://www.freebuf.com/sectool/384585.html)
+
++ [日产澳大利亚公司遭到网络攻击](https://www.freebuf.com/articles/387640.html)
+
++ [拜登在年终截止日期前签署了短期《外国情报监视法》（FISA）延期法案](https://www.freebuf.com/news/387642.html)
+
