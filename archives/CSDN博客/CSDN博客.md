@@ -205,3 +205,7 @@
 
 + [【开源】基于Vue+SpringBoot的停车场收费系统](https://blog.csdn.net/javamyfriend/article/details/135197259)
 
++ [JuiceSSH结合内网穿透实现公网远程访问本地Linux虚拟机](https://blog.csdn.net/syf666250/article/details/135200061)
+
++ [公网环境使用navicat图形化工具远程连接本地MariaDB数据库](https://blog.csdn.net/2201_75743654/article/details/135203812)
+

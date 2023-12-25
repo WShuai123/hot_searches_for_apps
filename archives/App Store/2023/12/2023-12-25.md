@@ -219,3 +219,9 @@
 
 + [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
 
++ [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
+
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+

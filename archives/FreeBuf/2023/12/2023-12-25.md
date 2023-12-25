@@ -67,3 +67,7 @@
 
 + [公开100GB数据，日产汽车遭勒索组织“撕票”](https://www.freebuf.com/articles/387640.html)
 
++ [FreeBuf 2024年度「活动与媒体服务」规划抢先看](https://www.freebuf.com/fevents/387408.html)
+
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
