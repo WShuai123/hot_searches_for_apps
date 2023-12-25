@@ -55,3 +55,7 @@
 
 + [操作系统权限提升 | 系统错误配置-注册表键AlwaysInstall提权](https://www.freebuf.com/articles/network/386814.html)
 
++ [深度解读《网络游戏管理办法（草案征求意见稿）》](https://www.freebuf.com/articles/387553.html)
+
++ [欧洲：数百家电商网站泄露了用户支付信息](https://www.freebuf.com/news/387606.html)
+

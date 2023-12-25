@@ -37,3 +37,9 @@
 
 + [地震预警系统你打开了吗？](https://m.ithome.com/html/741230.htm)
 
++ [首搭麒麟 8000 处理器？华为 nova 12 Pro 手机配置信息曝光](https://m.ithome.com/html/741326.htm)
+
++ [任天堂 Switch 烧录卡测试视频流出，预计明年 1 月首批发货](https://m.ithome.com/html/741265.htm)
+
++ [蔚来李斌称所有中国品牌都是新势力，呼吁各大车企不要互相攻击、恶性竞争](https://m.ithome.com/html/741238.htm)
+
