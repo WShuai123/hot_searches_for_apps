@@ -65,3 +65,5 @@
 
 + [拜登在年终截止日期前签署了短期《外国情报监视法》（FISA）延期法案](https://www.freebuf.com/news/387642.html)
 
++ [公开100GB数据，日产汽车遭勒索组织“撕票”](https://www.freebuf.com/articles/387640.html)
+

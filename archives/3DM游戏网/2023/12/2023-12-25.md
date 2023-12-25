@@ -203,3 +203,15 @@
 
 + [传闻：Xbox提前规划了15年的第一方游戏阵容](https://www.3dmgame.com/news/202312/3884620.html)
 
++ [马斯克成为全球最能赚钱的男人：今年平均每分钟赚146万](https://www.3dmgame.com/news/202312/3884632.html)
+
++ [人类再度远征，谁是外星霸主，原子朋克科幻《无敌号》讲了什么](https://www.3dmgame.com/news/202312/3884631.html)
+
++ [蒸汽平台「冬季特卖」来了！好游好价年终大放送](https://www.3dmgame.com/news/202312/3884630.html)
+
++ [RTX3060/3050卖不动砸手里了！坐等大降价](https://www.3dmgame.com/news/202312/3884629.html)
+
++ [《最终幻想14》主题星象仪《艾欧泽亚的众神与星星物语》公开](https://www.3dmgame.com/news/202312/3884627.html)
+
++ [GPT-5要来了！OpenAI公布2024年计划](https://www.3dmgame.com/news/202312/3884628.html)
+

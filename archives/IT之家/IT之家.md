@@ -49,3 +49,7 @@
 
 + [消息称《GTA6》主线时长约 35~40 小时，不及《荒野大镖客 2》](https://m.ithome.com/html/741281.htm)
 
++ [我国研究提出 1000km/h 超高速磁悬浮列车，上海-杭州等 6 条线路建议优先建设](https://m.ithome.com/html/741335.htm)
+
++ [京东要卖特斯拉汽车了？官宣 12 月 31 日见](https://m.ithome.com/html/741367.htm)
+
