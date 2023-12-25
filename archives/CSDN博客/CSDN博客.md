@@ -109,3 +109,19 @@
 
 + [【开源】基于Vue+SpringBoot的停车场收费系统](https://blog.csdn.net/javamyfriend/article/details/135197259)
 
++ [MyBatis：Generator](https://blog.csdn.net/qq_56886142/article/details/132613447)
+
++ [如何使用JuiceSSH实现手机端远程连接Linux服务器](https://blog.csdn.net/qq_73017178/article/details/135201414)
+
++ [物联网协议之COAP简介及Java实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/135139769)
+
++ [如何从0到1搭建一个SpringBoot项目](https://blog.csdn.net/Fire_Cloud_1/article/details/135199915)
+
++ [【论文阅读】MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/135191070)
+
++ [分布式搜索引擎03](https://blog.csdn.net/m0_64378422/article/details/135176521)
+
++ [Github 2023-12-24 开源项目日报 Top10](https://blog.csdn.net/xiaoquqi/article/details/135178197)
+
++ [嵌入式硬件电路原理图之跟随电路](https://blog.csdn.net/FMgxth/article/details/135176765)
+
