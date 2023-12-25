@@ -215,3 +215,9 @@
 
 + [GPT-5要来了！OpenAI公布2024年计划](https://www.3dmgame.com/news/202312/3884628.html)
 
++ [《漫威蜘蛛侠2》PC开发版本外泄 首批截图曝光](https://www.3dmgame.com/news/202312/3884635.html)
+
++ [微星推出宙斯盾钛14代系列主机 5899元起](https://www.3dmgame.com/news/202312/3884634.html)
+
++ [国服回归？传网易和暴雪有望复合](https://www.3dmgame.com/news/202312/3884633.html)
+

@@ -57,3 +57,5 @@
 
 + [禁售令生效：苹果 Apple Watch Series 9 / Ultra 2 在美国正式全面停售](https://m.ithome.com/html/741301.htm)
 
++ [消息称小米新车设计、澎湃车机等有望亮相 12 月 28 日发布会](https://m.ithome.com/html/741331.htm)
+
