@@ -165,3 +165,11 @@
 
 + [【【IIC模块Verilog实现---用IIC协议从FPGA端读取E2PROM】】](https://blog.csdn.net/weixin_50965981/article/details/135186362)
 
++ [Mybatis使用详解](https://blog.csdn.net/zhangzehai2234/article/details/135188471)
+
++ [Spring security之授权](https://blog.csdn.net/weixin_73320743/article/details/135166451)
+
++ [YOLOv8改进 | 2023注意力篇 | MSDA多尺度空洞注意力（附多位置添加教程）](https://blog.csdn.net/java1314777/article/details/135053430)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/S18374/article/details/135173583)
+
