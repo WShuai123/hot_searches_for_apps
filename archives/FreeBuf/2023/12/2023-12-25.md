@@ -45,3 +45,5 @@
 
 + [揭秘Socks5Systemz：通过 PrivateLoader 和 Amadey 实现的新型代理服务分析](https://www.freebuf.com/articles/network/385780.html)
 
++ [数据安全生命周期学习——销毁安全](https://www.freebuf.com/articles/database/387214.html)
+

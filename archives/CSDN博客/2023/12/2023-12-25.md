@@ -143,3 +143,9 @@
 
 + [TCP服务器的演变过程：多进程实现一对多的TCP服务器](https://blog.csdn.net/Long_xu/article/details/135179950)
 
++ [【玩转 TableAgent 数据智能分析】基于TableAgent实现IT职位招聘数据分析—以传统机器学习与TableAgent 数据分析方式相对比以凸显TableAgent 特性](https://blog.csdn.net/weixin_52908342/article/details/135184913)
+
++ [Spring Boot Security认证：Redis缓存用户信息](https://blog.csdn.net/qq_43546721/article/details/135184557)
+
++ [MyBatis笔记](https://blog.csdn.net/qq_46641047/article/details/135169375)
+

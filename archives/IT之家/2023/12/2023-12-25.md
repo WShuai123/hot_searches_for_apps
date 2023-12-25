@@ -29,3 +29,7 @@
 
 + [理想汽车公布广东清远 L7 交通事故相关视频，车速大幅超出 AEB 工作范围](https://m.ithome.com/html/741272.htm)
 
++ [降低烧毁风险，海韵建议用户用吹风机软化 RTX 4090 显卡电源连接线](https://m.ithome.com/html/741288.htm)
+
++ [Epic 喜加一：原价 249 元的动作冒险游戏《幽灵线：东京》免费领](https://m.ithome.com/html/741293.htm)
+

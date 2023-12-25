@@ -119,3 +119,9 @@
 
 + [任天堂解释《超级马里奥兄弟：惊奇》取消时限](https://www.3dmgame.com/news/202312/3884581.html)
 
++ [2023年12月国产游戏版号公布 《刺客信条：侠隐》等过审](https://www.3dmgame.com/news/202312/3884586.html)
+
++ [《黎明杀机》团队希望玩家在满意度调查中提供反馈](https://www.3dmgame.com/news/202312/3884587.html)
+
++ [《宝可梦：朱紫》新事件上线 龙类型宝可梦三种大量出现](https://www.3dmgame.com/news/202312/3884585.html)
+
