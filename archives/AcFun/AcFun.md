@@ -77,3 +77,9 @@
 
 + [好姐妹天天秀#86【进步】](http://www.acfun.cn/v/ac43330979)
 
++ [【东方】SnowMix♪【蕾米&芙兰 圣诞Ver MMD】](http://www.acfun.cn/v/ac43331662)
+
++ [【奥雷】博士将动物强行变成人类，妄图引导人类基因革命！《冲出人魔岛》](http://www.acfun.cn/v/ac43332018)
+
++ [平安夜快乐！](http://www.acfun.cn/v/ac43331988)
+

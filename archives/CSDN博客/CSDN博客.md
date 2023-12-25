@@ -157,3 +157,11 @@
 
 + [用大白话举例子讲明白云计算](https://blog.csdn.net/weixin_41674401/article/details/135175255)
 
++ [【GoLang】Go语言几种标准库介绍(一)](https://blog.csdn.net/jinxinxin1314/article/details/135189848)
+
++ [千帆起航：探索百度智能云千帆AppBuilder在AI原生应用开发中的革新之路](https://blog.csdn.net/master_hunter/article/details/135190661)
+
++ [Jmeter、postman、python 三大主流技术如何操作数据库？](https://blog.csdn.net/a448335587/article/details/135173978)
+
++ [【【IIC模块Verilog实现---用IIC协议从FPGA端读取E2PROM】】](https://blog.csdn.net/weixin_50965981/article/details/135186362)
+

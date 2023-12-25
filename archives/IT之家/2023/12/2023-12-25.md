@@ -33,3 +33,7 @@
 
 + [Epic 喜加一：原价 249 元的动作冒险游戏《幽灵线：东京》免费领](https://m.ithome.com/html/741293.htm)
 
++ [小米汽车技术发布会官宣定档 12 月 28 日，雷军称“这次不发产品”](https://m.ithome.com/html/741313.htm)
+
++ [地震预警系统你打开了吗？](https://m.ithome.com/html/741230.htm)
+

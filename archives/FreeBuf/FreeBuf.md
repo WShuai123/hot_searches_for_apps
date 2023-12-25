@@ -49,3 +49,7 @@
 
 + [国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》](https://www.freebuf.com/news/387590.html)
 
++ [欧洲刑警组织：数百家电商网站泄露了用户支付信息](https://www.freebuf.com/news/387606.html)
+
++ [Mint Mobile 遭遇黑客攻击，泄露的数据可用于 SIM 卡交换攻击](https://www.freebuf.com/news/387591.html)
+
