@@ -137,3 +137,19 @@
 
 + [【괜찮아도 괜찮아 (That s okay)】没关系的 没关系呀](http://www.acfun.cn/v/ac43337549)
 
++ [跟我一起过圣诞啦～](http://www.acfun.cn/v/ac43340943)
+
++ [Merry Christmas！不过也快乐～](http://www.acfun.cn/v/ac43341481)
+
++ [盘点人类幼崽的爆笑瞬间，脚指头那个差点给我笑断气](http://www.acfun.cn/v/ac43340058)
+
++ [笑点太密了不知道该从哪开始笑](http://www.acfun.cn/v/ac43340097)
+
++ [唱的全在调上，也在串上](http://www.acfun.cn/v/ac43340013)
+
++ [《白雪公主和七个大高个》](http://www.acfun.cn/v/ac43340113)
+
++ [【其他】圣诞风格BGM 2小时联播【圣诞快乐 直播 作业用】](http://www.acfun.cn/v/ac43331274)
+
++ [这一刻猫把生无可恋表现得淋漓尽致.](http://www.acfun.cn/v/ac43340109)
+

@@ -61,3 +61,5 @@
 
 + [暴雪、网易“复婚”？消息称双方重新合作，《魔兽世界》国服回归有戏](https://m.ithome.com/html/741480.htm)
 
++ [华为公布鸿蒙 HarmonyOS 4 升级新进展，华为 P30 等 12 款手机开启 Beta 招募](https://m.ithome.com/html/741401.htm)
+

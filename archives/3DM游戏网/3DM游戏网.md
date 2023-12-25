@@ -225,3 +225,5 @@
 
 + [RTX 50系列游戏显卡或在2024年Q4到来](https://www.3dmgame.com/news/202312/3884636.html)
 
++ [暴雪中国回应国服回归：没有可分享的信息](https://www.3dmgame.com/news/202312/3884638.html)
+
