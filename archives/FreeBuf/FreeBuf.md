@@ -47,3 +47,5 @@
 
 + [数据安全生命周期学习——销毁安全](https://www.freebuf.com/articles/database/387214.html)
 
++ [国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》](https://www.freebuf.com/news/387590.html)
+

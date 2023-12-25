@@ -125,3 +125,31 @@
 
 + [《宝可梦：朱紫》新事件上线 龙类型宝可梦三种大量出现](https://www.3dmgame.com/news/202312/3884585.html)
 
++ [《堡垒之夜》联动《龙珠超》弗利萨与沙鲁新上线](https://www.3dmgame.com/news/202312/3884601.html)
+
++ [玩家认为《使命召唤：现代战争3》的外挂已经失控](https://www.3dmgame.com/news/202312/3884599.html)
+
++ [世嘉在管理会议中透露五款复苏的经典游戏的全新封面](https://www.3dmgame.com/news/202312/3884600.html)
+
++ [吉姆瑞恩向玩家致谢：感谢你们坚定支持PlayStation](https://www.3dmgame.com/news/202312/3884598.html)
+
++ [新电影《高达SEED FREEDOM》官方圣诞贺图 距上映一个月](https://www.3dmgame.com/news/202312/3884597.html)
+
++ [《斯普拉遁3》冬季特别祭典将于1月5开始投票 1月13日正式启动](https://www.3dmgame.com/news/202312/3884596.html)
+
++ [育碧前首席编剧称《超越善恶2》编剧工作被外包](https://www.3dmgame.com/news/202312/3884595.html)
+
++ [小米汽车发布会锁定12月28日 只发技术不发产品](https://www.3dmgame.com/news/202312/3884594.html)
+
++ [《帕格尼物语》抢先体验首周销量已突破10万份](https://www.3dmgame.com/news/202312/3884593.html)
+
++ [《酷MA萌跑》登陆Switch发售 熊本熊官方游戏](https://www.3dmgame.com/news/202312/3884591.html)
+
++ [《魔法工艺》最新EA版本更新，更酷、更炫、更有深度！](https://www.3dmgame.com/news/202312/3884589.html)
+
++ [《红色派系》新游戏概念图赏 IP前景不太明朗](https://www.3dmgame.com/news/202312/3884588.html)
+
++ [《火炬之光：无限》全新拓展“双生梦魇”即将推出 第十位英雄加入战斗](https://www.3dmgame.com/news/202312/3884592.html)
+
++ [SteamDB发布2023年最热游戏榜单 《致命公司》登顶](https://www.3dmgame.com/news/202312/3884590.html)
+

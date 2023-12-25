@@ -149,3 +149,11 @@
 
 + [MyBatis笔记](https://blog.csdn.net/qq_46641047/article/details/135169375)
 
++ [热带水果种植户种植决策系统：基于python爬虫热带水果销售数据可视化分析（django框架）](https://blog.csdn.net/u013818205/article/details/135092852)
+
++ [《数字图像处理-OpenCV/Python》连载：图像的阈值处理](https://blog.csdn.net/youcans/article/details/135164986)
+
++ [【开源】基于Vue+SpringBoot的中学生家校互联系统](https://blog.csdn.net/javamyfriend/article/details/135160808)
+
++ [用大白话举例子讲明白云计算](https://blog.csdn.net/weixin_41674401/article/details/135175255)
+
