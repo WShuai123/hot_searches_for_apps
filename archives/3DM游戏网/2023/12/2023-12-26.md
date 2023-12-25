@@ -101,3 +101,7 @@
 
 + [《红色派系》新游戏概念图赏 IP前景不太明朗](https://www.3dmgame.com/news/202312/3884588.html)
 
++ [Epic喜加一：《天外世界：太空人之选》免费领取](https://www.3dmgame.com/news/202312/3884642.html)
+
++ [外媒评今年值得游玩的十款恐怖游戏 《生化4RE》等](https://www.3dmgame.com/news/202312/3884641.html)
+

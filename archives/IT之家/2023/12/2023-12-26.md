@@ -25,3 +25,5 @@
 
 + [华为公布鸿蒙 HarmonyOS 4 升级新进展，华为 P30 等 12 款手机开启 Beta 招募](https://m.ithome.com/html/741401.htm)
 
++ [Flyme 征集中文 OS 名拟获奖名单公示，4 人获得华为、小米、魅族手机组合](https://m.ithome.com/html/741425.htm)
+
