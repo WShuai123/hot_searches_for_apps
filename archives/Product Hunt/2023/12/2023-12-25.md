@@ -123,3 +123,7 @@
 
 + [Fabric Content Analyzer](https://www.producthunt.com/posts/fabric-content-analyzer)
 
++ [Santa's Bouncy Quest](https://www.producthunt.com/posts/santa-s-bouncy-quest)
+
++ [Emit Diary](https://www.producthunt.com/posts/emit-diary)
+
