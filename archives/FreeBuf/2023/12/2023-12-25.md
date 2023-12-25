@@ -41,3 +41,7 @@
 
 + [《GTA 6》泄密事件幕后黑手被判“无限期服刑”](https://www.freebuf.com/news/387441.html)
 
++ [FreeBuf早报 | 《GTA 6》少年黑客被判终生入院看护；谷歌地图“泄露”俄军信息](https://www.freebuf.com/articles/387494.html)
+
++ [揭秘Socks5Systemz：通过 PrivateLoader 和 Amadey 实现的新型代理服务分析](https://www.freebuf.com/articles/network/385780.html)
+

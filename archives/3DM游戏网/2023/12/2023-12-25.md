@@ -111,3 +111,11 @@
 
 + [3D动作RPG《东京复仇者》宣布延期至2024年2月](https://www.3dmgame.com/news/202312/3884578.html)
 
++ [《GTA6》的主线剧情可能35-40个小时](https://www.3dmgame.com/news/202312/3884584.html)
+
++ [登下一代Xbox？《漫威刀锋战士》最早或于2027年发售](https://www.3dmgame.com/news/202312/3884583.html)
+
++ [《碧蓝幻想：Relink》20分钟多人模式试玩演示](https://www.3dmgame.com/news/202312/3884582.html)
+
++ [任天堂解释《超级马里奥兄弟：惊奇》取消时限](https://www.3dmgame.com/news/202312/3884581.html)
+

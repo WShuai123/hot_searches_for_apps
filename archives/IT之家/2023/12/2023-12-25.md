@@ -27,3 +27,5 @@
 
 + [曾准确预测苹果 iPhone 15 系列手机相关信息，知名爆料人 Revegnus 宣布停更](https://m.ithome.com/html/741235.htm)
 
++ [理想汽车公布广东清远 L7 交通事故相关视频，车速大幅超出 AEB 工作范围](https://m.ithome.com/html/741272.htm)
+
