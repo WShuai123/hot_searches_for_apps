@@ -105,3 +105,9 @@
 
 + [外媒评今年值得游玩的十款恐怖游戏 《生化4RE》等](https://www.3dmgame.com/news/202312/3884641.html)
 
++ [《为美好的世界献上祝福！》第三季正式预告发布](https://www.3dmgame.com/news/202312/3884645.html)
+
++ [《心跳回忆》系列女生三部曲情人节登陆Switch](https://www.3dmgame.com/news/202312/3884644.html)
+
++ [科幻史诗《月球叛军：烙印之人》正式预告震撼发布](https://www.3dmgame.com/news/202312/3884643.html)
+
