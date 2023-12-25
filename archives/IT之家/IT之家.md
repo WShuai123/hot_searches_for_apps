@@ -45,3 +45,5 @@
 
 + [雷军再谈小米汽车：坚持正向开发，“重新定义”汽车工业技术栈](https://m.ithome.com/html/741362.htm)
 
++ [消息称 vivo X100 Pro + 手机搭载 2 亿潜望镜，支持 200 倍数字变焦](https://m.ithome.com/html/741317.htm)
+

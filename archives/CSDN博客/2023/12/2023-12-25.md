@@ -195,3 +195,7 @@
 
 + [Vue3和Vue2的区别](https://blog.csdn.net/study_way/article/details/135045987)
 
++ [《运维人员的未来：IT界的“万金油“如何继续闪耀光芒》](https://blog.csdn.net/u014727709/article/details/135190530)
+
++ [数据处理演进：EtLT崛起，ELT正在告别历史舞台](https://blog.csdn.net/qq_26442553/article/details/135057348)
+

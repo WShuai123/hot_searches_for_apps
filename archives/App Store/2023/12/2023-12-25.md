@@ -215,3 +215,7 @@
 
 + [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
 
++ [平安好车主—用车就上好车主](https://itunes.apple.com/cn/app/id796339836?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+

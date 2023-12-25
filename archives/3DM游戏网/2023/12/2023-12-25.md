@@ -179,3 +179,11 @@
 
 + [日本电竞联盟白皮书公布 电竞规模达到125亿日元](https://www.3dmgame.com/news/202312/3884611.html)
 
++ [几十年了美国还没高铁 背后原因揭秘：航空/汽车发达、 土地拆迁难](https://www.3dmgame.com/news/202312/3884618.html)
+
++ [《Granvir》Steam页面上线 机甲肉鸽动作新游](https://www.3dmgame.com/news/202312/3884615.html)
+
++ [《漫威蜘蛛侠2》的新BUG “平步青云”的彼得·帕克](https://www.3dmgame.com/news/202312/3884616.html)
+
++ [《寂静岭：Townfall》承诺2024年将公布更多信息](https://www.3dmgame.com/news/202312/3884617.html)
+
