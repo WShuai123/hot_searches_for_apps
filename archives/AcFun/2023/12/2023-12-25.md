@@ -107,3 +107,13 @@
 
 + [特厨探店 |开了二十多年的苍蝇馆？怀旧味道一流？？！——皖峰饭馆](http://www.acfun.cn/v/ac43334254)
 
++ [圣诞夜和我一起过吗？twice-likey【独家】](http://www.acfun.cn/v/ac43340276)
+
++ [老艺术家的从容【今天有什么好笑的 #1411】](http://www.acfun.cn/v/ac43338432)
+
++ [网传爆火的胖东来真的这么好吗，小翔哥亲自体验结果被细节震惊](http://www.acfun.cn/v/ac43331246)
+
++ [♪ 圣·诞·の·诱·惑 ♬](http://www.acfun.cn/v/ac43329146)
+
++ [【劈叉兔】陷入我的咒语吧！姨母团傲慢扭胯舞Abracadabra翻跳](http://www.acfun.cn/v/ac43334763)
+

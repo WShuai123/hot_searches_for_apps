@@ -53,3 +53,7 @@
 
 + [京东要卖特斯拉汽车了？官宣 12 月 31 日见](https://m.ithome.com/html/741367.htm)
 
++ [麒麟 9000SL 处理器，华为 nova 12 Ultra 手机配置曝光](https://m.ithome.com/html/741461.htm)
+
++ [禁售令生效：苹果 Apple Watch Series 9 / Ultra 2 在美国正式全面停售](https://m.ithome.com/html/741301.htm)
+

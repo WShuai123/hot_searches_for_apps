@@ -51,3 +51,35 @@
 
 + [firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions)
 
++ [apple / ml-ferret](https://github.com/apple/ml-ferret)
+
++ [JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+
++ [Enraged-Rabbit-Community / ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2)
+
++ [Hillobar / Rope](https://github.com/Hillobar/Rope)
+
++ [microsoft / promptbench](https://github.com/microsoft/promptbench)
+
++ [Innei / Shiro](https://github.com/Innei/Shiro)
+
++ [JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
++ [Coder-World04 / Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design)
+
++ [simondankelmann / Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+
++ [Z3Prover / z3](https://github.com/Z3Prover/z3)
+
++ [elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [be5invis / Iosevka](https://github.com/be5invis/Iosevka)
+
++ [opa334 / TrollStore](https://github.com/opa334/TrollStore)
+
