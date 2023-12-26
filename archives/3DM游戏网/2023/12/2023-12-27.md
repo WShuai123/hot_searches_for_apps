@@ -105,3 +105,11 @@
 
 + [Epic喜加一：《人力资源机器》免费领取](https://www.3dmgame.com/news/202312/3884727.html)
 
++ [手游《勇者斗恶龙Tact》全球服明年2/29关服](https://www.3dmgame.com/news/202312/3884731.html)
+
++ [《Muv-Luv》《Muv-Luv AL》3/28推出Switch版](https://www.3dmgame.com/news/202312/3884730.html)
+
++ [粉丝自制《超级马里奥阳光》续作 预告片展示](https://www.3dmgame.com/news/202312/3884729.html)
+
++ [《梦幻之星OL》Unity3D粉丝重制版2024年推出](https://www.3dmgame.com/news/202312/3884728.html)
+
