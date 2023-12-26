@@ -49,3 +49,5 @@
 
 + [2999 元起，华为 nova 12 / Pro / Ultra 系列手机发布](https://m.ithome.com/html/741637.htm)
 
++ [问界 M9 正式发布：搭载华为最新全栈技术解决方案，46.98 万元起](https://m.ithome.com/html/741670.htm)
+

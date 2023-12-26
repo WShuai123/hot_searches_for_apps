@@ -243,3 +243,7 @@
 
 + [元旦高速日均流量可超3500万辆 猛增26％](https://www.3dmgame.com/news/202312/3884697.html)
 
++ [Steam最新一周销量榜 《博德之门3》重回榜首](https://www.3dmgame.com/news/202312/3884713.html)
+
++ [《饿狼传说》特瑞全新高端手办 特殊像素风处理涂装精致特别](https://www.3dmgame.com/news/202312/3884712.html)
+

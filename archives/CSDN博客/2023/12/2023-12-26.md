@@ -167,3 +167,9 @@
 
 + [Redis Streams在Spring Boot中的应用：构建可靠的消息队列解决方案【redis实战 二】](https://blog.csdn.net/Mrxiao_bo/article/details/135191850)
 
++ [Azure Machine Learning - Azure OpenAI GPT 3.5 Turbo 微调教程](https://blog.csdn.net/magicyangjay111/article/details/135217880)
+
++ [Linux OpenEuler(欧拉系统)无公网ip实现SSH远程连接](https://blog.csdn.net/hsjsiwkwm/article/details/135219196)
+
++ [【网络安全】SQL注入总结](https://blog.csdn.net/kalilinuxsafe/article/details/135201340)
+
