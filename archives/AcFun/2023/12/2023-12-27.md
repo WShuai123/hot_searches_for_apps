@@ -69,3 +69,7 @@
 
 + [快速看完一局韩服王者斗殴局#556 xiaolaohu, xiaohuangren, Creme,](http://www.acfun.cn/v/ac43350483)
 
++ [萌宠集合，这才是猛男该看的！ 第三百六十四期](http://www.acfun.cn/v/ac43341716)
+
++ [直播唱《嘉宾》过于入戏，现场肥肥哭成一团（）【歌切】](http://www.acfun.cn/v/ac43349561)
+
