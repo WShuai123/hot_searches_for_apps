@@ -149,3 +149,13 @@
 
 + [《黎明杀机》调查问卷暗示新模式：互换视角和2v8](https://www.3dmgame.com/news/202312/3884650.html)
 
++ [Roblox版《玩具熊的午夜后宫》意外泄露 但短时间内就被下架并将重新构建](https://www.3dmgame.com/news/202312/3884669.html)
+
++ [设计师暗示《战争机器6》或将于2024年公布](https://www.3dmgame.com/news/202312/3884670.html)
+
++ [《名侦探柯南：百万美元的五稜星》新预告 2024年4月12日上映](https://www.3dmgame.com/news/202312/3884665.html)
+
++ [《EXTERMINATOR》Steam页面上线 机器人定制战斗](https://www.3dmgame.com/news/202312/3884667.html)
+
++ [模仿《浩劫前夕》预告单人开发者展示制作进度](https://www.3dmgame.com/news/202312/3884666.html)
+

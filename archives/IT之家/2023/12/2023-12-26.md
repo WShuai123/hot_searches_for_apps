@@ -33,3 +33,7 @@
 
 + [中国卫通：因卫星推力器出现故障，中星 6C 寿命减少导致约 2.6 亿元损失](https://m.ithome.com/html/741467.htm)
 
++ [中国 10 月畅销智能手机榜：苹果 iPhone 15 Pro Max 登顶，华为 Mate 60 Pro 第二](https://m.ithome.com/html/741539.htm)
+
++ [真人互动影像游戏《完蛋！我也能追到美女了！》正式版定档 12 月 29 日，时长约 1 小时](https://m.ithome.com/html/741508.htm)
+
