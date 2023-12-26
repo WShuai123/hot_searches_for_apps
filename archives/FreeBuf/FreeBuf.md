@@ -41,3 +41,7 @@
 
 + [样本分析 | LockBit：持续进化的勒索威胁](https://www.freebuf.com/articles/es/386715.html)
 
++ [FreeBuf早报 | 育碧调查黑客入侵；美国产权保险巨头遭网络攻击下线](https://www.freebuf.com/news/387608.html)
+
++ [Cisco Talos年度回顾：恶意软件、攻击者趋势及重要影响因素](https://www.freebuf.com/articles/paper/387184.html)
+

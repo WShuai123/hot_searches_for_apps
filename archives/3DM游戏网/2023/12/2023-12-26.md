@@ -111,3 +111,11 @@
 
 + [科幻史诗《月球叛军：烙印之人》正式预告震撼发布](https://www.3dmgame.com/news/202312/3884643.html)
 
++ [职业选手称《守望先锋》国服即将官宣 明年能玩到](https://www.3dmgame.com/news/202312/3884649.html)
+
++ [《博德之门3》今年已经拿下了64个年度游戏大奖](https://www.3dmgame.com/news/202312/3884648.html)
+
++ [据称多人联机版《漫威蜘蛛侠》已被取消开发](https://www.3dmgame.com/news/202312/3884647.html)
+
++ [Steam特别好评《蛙之歌》明年1月11日登陆Switch](https://www.3dmgame.com/news/202312/3884646.html)
+
