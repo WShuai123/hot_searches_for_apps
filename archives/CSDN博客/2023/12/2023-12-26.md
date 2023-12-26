@@ -163,3 +163,7 @@
 
 + [HTML5之 夜景放烟花](https://blog.csdn.net/qq_39835505/article/details/135198633)
 
++ [2023年国赛高教杯数学建模E题黄河水沙监测数据分析解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135197832)
+
++ [Redis Streams在Spring Boot中的应用：构建可靠的消息队列解决方案【redis实战 二】](https://blog.csdn.net/Mrxiao_bo/article/details/135191850)
+

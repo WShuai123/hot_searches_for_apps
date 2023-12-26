@@ -47,3 +47,5 @@
 
 + [雷军：目前已经开了超 150 辆车，小米汽车技术发布会将分享一系列技术突破](https://m.ithome.com/html/741555.htm)
 
++ [2999 元起，华为 nova 12 / Pro / Ultra 系列手机发布](https://m.ithome.com/html/741637.htm)
+

@@ -89,3 +89,5 @@
 
 + [【喷神James】最终幻想6 - 212](http://www.acfun.cn/v/ac43341684)
 
++ [连王志文都笑场的戏，看完真的爆笑如雷了](http://www.acfun.cn/v/ac43340049)
+
