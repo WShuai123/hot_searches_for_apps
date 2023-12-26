@@ -247,3 +247,11 @@
 
 + [《饿狼传说》特瑞全新高端手办 特殊像素风处理涂装精致特别](https://www.3dmgame.com/news/202312/3884712.html)
 
++ [女子被偷手机在平台售卖 买家竟上门要密码！](https://www.3dmgame.com/news/202312/3884717.html)
+
++ [全国首个大规模近海桩基固定式海上光伏项目开工：建成年发电量6.9亿度](https://www.3dmgame.com/news/202312/3884714.html)
+
++ [《使命召唤：黑色行动》反派梅内德斯演员去世](https://www.3dmgame.com/news/202312/3884715.html)
+
++ [三星携手Naver发布新AI芯片 能效是英伟达H100的8倍](https://www.3dmgame.com/news/202312/3884716.html)
+

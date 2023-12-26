@@ -51,3 +51,7 @@
 
 + [问界 M9 正式发布：搭载华为最新全栈技术解决方案，46.98 万元起](https://m.ithome.com/html/741670.htm)
 
++ [荣耀 X50 Pro 手机预热：骁龙 8 + 处理器，1.5K 超清护眼曲面屏](https://m.ithome.com/html/741559.htm)
+
++ [2499 元起，华为推出 nova 12 活力版手机：前置 6000 万像素自拍镜头](https://m.ithome.com/html/741665.htm)
+
