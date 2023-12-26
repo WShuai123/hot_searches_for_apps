@@ -179,3 +179,5 @@
 
 + [【安全学习】-网络安全靶场实训演练系统建设方案](https://blog.csdn.net/xqdd/article/details/135200330)
 
++ [[HADOOP]数据倾斜的避免和处理](https://blog.csdn.net/weixin_46485607/article/details/135194490)
+

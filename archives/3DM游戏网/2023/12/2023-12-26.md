@@ -255,3 +255,9 @@
 
 + [三星携手Naver发布新AI芯片 能效是英伟达H100的8倍](https://www.3dmgame.com/news/202312/3884716.html)
 
++ [《恶霸鲁尼2》早期版本概念图外泄 看起来很不错](https://www.3dmgame.com/news/202312/3884720.html)
+
++ [《海王2》电影发布两支全新片段](https://www.3dmgame.com/news/202312/3884719.html)
+
++ [三星推迟新建美国工厂量产时间：延后至2025年](https://www.3dmgame.com/news/202312/3884718.html)
+
