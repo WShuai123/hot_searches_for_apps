@@ -101,3 +101,7 @@
 
 + [Zocket](https://www.producthunt.com/posts/zocket)
 
++ [Inbox Zero](https://www.producthunt.com/posts/inbox-zero-2)
+
++ [Design Buddy](https://www.producthunt.com/posts/design-buddy)
+

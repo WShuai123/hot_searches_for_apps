@@ -209,3 +209,7 @@
 
 + [《Denpatou》Steam页面上线 复古风农场模拟游戏](https://www.3dmgame.com/news/202312/3884688.html)
 
++ [多款游戏登上央视网2023年巡礼短片：《博德之门3》等](https://www.3dmgame.com/news/202312/3884695.html)
+
++ [索尼数据确认：第一方游戏加入PS+会影响销量](https://www.3dmgame.com/news/202312/3884696.html)
+
