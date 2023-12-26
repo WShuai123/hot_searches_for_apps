@@ -101,3 +101,7 @@
 
 + [《RTA in Japan Winter 2023》开幕 只狼银河战士等参战](https://www.3dmgame.com/news/202312/3884671.html)
 
++ [外媒2024年前瞻：《黑神话：悟空》是中国最重要的买断制游戏](https://www.3dmgame.com/news/202312/3884726.html)
+
++ [Epic喜加一：《人力资源机器》免费领取](https://www.3dmgame.com/news/202312/3884727.html)
+
