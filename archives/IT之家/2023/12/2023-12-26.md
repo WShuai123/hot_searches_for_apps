@@ -39,3 +39,9 @@
 
 + [联想拯救者 Y7000P 2024 游戏本 1 月推出，采用全新模具设计](https://m.ithome.com/html/741361.htm)
 
++ [网易大神社区已重新开始更新《魔兽世界》内容，原停服通知删除](https://m.ithome.com/html/741568.htm)
+
++ [Epic 喜加一：原价 199 元的动作冒险游戏《天外世界：太空人之选》免费领](https://m.ithome.com/html/741526.htm)
+
++ [柔宇科技被曝欠薪长达一年，员工罢工讨薪](https://m.ithome.com/html/741534.htm)
+

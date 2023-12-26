@@ -183,3 +183,9 @@
 
 + [《RTA in Japan Winter 2023》开幕 只狼银河战士等参战](https://www.3dmgame.com/news/202312/3884671.html)
 
++ [万元iPhone 15用非苹果USB-C数据线 端口竟烧坏](https://www.3dmgame.com/news/202312/3884684.html)
+
++ [《电锯惊魂11》制片人已有构思：不是《漩涡》续集](https://www.3dmgame.com/news/202312/3884683.html)
+
++ [索尼克官方圣诞图采用角色夏特 并暗含《索尼克大冒险2》的刀子](https://www.3dmgame.com/news/202312/3884682.html)
+

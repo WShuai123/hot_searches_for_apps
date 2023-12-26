@@ -139,3 +139,9 @@
 
 + [基于包围盒算法的三维点云数据压缩和曲面重建matlab仿真](https://blog.csdn.net/aycd1234/article/details/135189040)
 
++ [【Image】GAN的超详细解释（以及奇怪的问题）](https://blog.csdn.net/weixin_49816179/article/details/135211119)
+
++ [Docker部署Nexus Maven私服并实现远程访问Nexus界面](https://blog.csdn.net/qq_57761637/article/details/135212732)
+
++ [计算机网络——连接的概念](https://blog.csdn.net/weixin_65190179/article/details/134843823)
+

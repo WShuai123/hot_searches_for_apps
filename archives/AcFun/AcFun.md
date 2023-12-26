@@ -79,3 +79,5 @@
 
 + [从苏美到波斯：最后的阿努纳奇，95岁去世在洛阳，直到1994年，我们才破解了他的墓志铭](http://www.acfun.cn/v/ac43336562)
 
++ [【被选剩的孩子】butter-fly tri.version](http://www.acfun.cn/v/ac43341671)
+
