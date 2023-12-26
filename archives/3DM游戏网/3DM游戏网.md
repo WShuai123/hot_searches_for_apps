@@ -119,3 +119,33 @@
 
 + [Steam特别好评《蛙之歌》明年1月11日登陆Switch](https://www.3dmgame.com/news/202312/3884646.html)
 
++ [《如龙8》 进化版“随叫随到”介绍 制作及强化武器](https://www.3dmgame.com/news/202312/3884662.html)
+
++ [VR射击游戏《牛仔和外星人》正式发售 Steam收获特别好评](https://www.3dmgame.com/news/202312/3884656.html)
+
++ [《战锤40K：行商浪人》负责人锐评《博德之门3》的成功：几乎没有开发商拥有相同的资源](https://www.3dmgame.com/news/202312/3884664.html)
+
++ [壶男系攀登新游《A Difficult Game About Climbing》 Steam上线](https://www.3dmgame.com/news/202312/3884661.html)
+
++ [《丧尸围城：黎明》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202312/3884663.html)
+
++ [外国小朋友圣诞收到PS5要退货：我想要PC](https://www.3dmgame.com/news/202312/3884659.html)
+
++ [泄露文件显示《GTA5》曾有8个单人剧情DLC 但均被废弃](https://www.3dmgame.com/news/202312/3884660.html)
+
++ [Kotaku评年终12大佳作 《心灵杀手2》夺魁](https://www.3dmgame.com/news/202312/3884658.html)
+
++ [《龙之信条2》新实机预告 魔剑士弓箭手法师斗士介绍](https://www.3dmgame.com/news/202312/3884657.html)
+
++ [动作冒险游戏《面具收集者维克》现已推出试玩Demo](https://www.3dmgame.com/news/202312/3884653.html)
+
++ [动作新游《Snowy“s Wish》免费发布 雪人大战圣诞老人](https://www.3dmgame.com/news/202312/3884652.html)
+
++ [《星空》在Steam上的评价更差了 现已多半差评](https://www.3dmgame.com/news/202312/3884651.html)
+
++ [《宝可梦：大集结》新宝可梦“巨金怪”演示视频 今日上线](https://www.3dmgame.com/news/202312/3884655.html)
+
++ [《流浪之魂》开发商倒闭：因游戏销量差 遭受网暴](https://www.3dmgame.com/news/202312/3884654.html)
+
++ [《黎明杀机》调查问卷暗示新模式：互换视角和2v8](https://www.3dmgame.com/news/202312/3884650.html)
+

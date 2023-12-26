@@ -131,3 +131,5 @@
 
 + [一起玩儿物联网人工智能小车（ESP32）——14. 用ESP32的GPIO控制智能小车运动起来（二）](https://blog.csdn.net/qq_16601363/article/details/135178352)
 
++ [python（django框架）图书电商销售数据可视化和商品推荐系统设计与实现](https://blog.csdn.net/u013818205/article/details/135134665)
+

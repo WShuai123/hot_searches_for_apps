@@ -29,3 +29,7 @@
 
 + [网易对与暴雪重新合作不予回应，已解散团队短时间内难以重组](https://m.ithome.com/html/741502.htm)
 
++ [华为 Mate 50 / Pro、Pocket S 官翻机上架，售 3699/4499 元、3899 元](https://m.ithome.com/html/741495.htm)
+
++ [中国卫通：因卫星推力器出现故障，中星 6C 寿命减少导致约 2.6 亿元损失](https://m.ithome.com/html/741467.htm)
+

@@ -45,3 +45,5 @@
 
 + [Cisco Talos年度回顾：恶意软件、攻击者趋势及重要影响因素](https://www.freebuf.com/articles/paper/387184.html)
 
++ [攻防视角下车联网安全风险分析](https://www.freebuf.com/defense/387578.html)
+
