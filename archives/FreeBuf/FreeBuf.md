@@ -47,3 +47,9 @@
 
 + [攻防视角下车联网安全风险分析](https://www.freebuf.com/defense/387578.html)
 
++ [APT组织UAC-0099利用WinRAR漏洞攻击乌克兰](https://www.freebuf.com/news/387733.html)
+
++ [APT 33 威胁组织“盯上了”全球国防工业部门](https://www.freebuf.com/news/387717.html)
+
++ [R星又双叒遭非法“登陆”，GTA 5 完整源代码被公开泄露](https://www.freebuf.com/news/387698.html)
+

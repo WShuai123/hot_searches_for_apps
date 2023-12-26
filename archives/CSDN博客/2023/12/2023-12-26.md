@@ -135,3 +135,7 @@
 
 + [MongoDB创建和查询视图(一)](https://blog.csdn.net/wilsonzane/article/details/135203210)
 
++ [AI赋能金融创新：ChatGPT引领量化交易新时代](https://blog.csdn.net/qq_32682301/article/details/135214198)
+
++ [基于包围盒算法的三维点云数据压缩和曲面重建matlab仿真](https://blog.csdn.net/aycd1234/article/details/135189040)
+

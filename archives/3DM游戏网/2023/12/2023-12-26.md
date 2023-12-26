@@ -159,3 +159,27 @@
 
 + [模仿《浩劫前夕》预告单人开发者展示制作进度](https://www.3dmgame.com/news/202312/3884666.html)
 
++ [FAMI通公布《超流行游戏大奖2023》《王国之泪》登顶](https://www.3dmgame.com/news/202312/3884681.html)
+
++ [平台冒险游戏《Gatcha Gear》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202312/3884678.html)
+
++ [《机动战士高达 复仇安魂曲》先导PV2 虚幻5制作](https://www.3dmgame.com/news/202312/3884680.html)
+
++ [《小丑2》导演分享新剧照：Gaga深情注视凤凰叔](https://www.3dmgame.com/news/202312/3884679.html)
+
++ [粉丝将《王国之心4》宣传片中索拉的装扮 应用到了《王国之心3》中](https://www.3dmgame.com/news/202312/3884677.html)
+
++ [《女神异闻录3：Reload》新预告 介绍校园日常生活](https://www.3dmgame.com/news/202312/3884676.html)
+
++ [淘宝2023年度十大商品 “爱因斯坦的脑子”入选](https://www.3dmgame.com/news/202312/3884675.html)
+
++ [业内人士称暴雪国服回归正逐步加快 网易腾讯等谁会接手](https://www.3dmgame.com/news/202312/3884674.html)
+
++ [游戏总监与《指环王》电影主演一起玩《博德之门3》](https://www.3dmgame.com/news/202312/3884668.html)
+
++ [《辐射：伦敦》Mod开发团队：受国际形势影响导致延迟](https://www.3dmgame.com/news/202312/3884673.html)
+
++ [电影《天降大任》发布“次元冒险”版预告 1月6日上映](https://www.3dmgame.com/news/202312/3884672.html)
+
++ [《RTA in Japan Winter 2023》开幕 只狼银河战士等参战](https://www.3dmgame.com/news/202312/3884671.html)
+
