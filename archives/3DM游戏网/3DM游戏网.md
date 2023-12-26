@@ -113,3 +113,7 @@
 
 + [《梦幻之星OL》Unity3D粉丝重制版2024年推出](https://www.3dmgame.com/news/202312/3884728.html)
 
++ [《机动战士高达：激战任务2》12月28日追加新机体“报丧女妖·命运女神”](https://www.3dmgame.com/news/202312/3884733.html)
+
++ [樱井政博证实仍在制作游戏具体名称尚未公布](https://www.3dmgame.com/news/202312/3884732.html)
+
