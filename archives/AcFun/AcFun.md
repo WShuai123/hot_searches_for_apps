@@ -139,3 +139,9 @@
 
 + [我这一腿下去你可能会…](http://www.acfun.cn/v/ac43349376)
 
++ [扭这两下不得给Acer们迷晕！欢乐八点档-780](http://www.acfun.cn/v/ac43348188)
+
++ [《 儒 雅 随 和，出 口 成 脏 》](http://www.acfun.cn/v/ac43235613)
+
++ [啊咧？今天不是圣诞节吗？](http://www.acfun.cn/v/ac43349258)
+

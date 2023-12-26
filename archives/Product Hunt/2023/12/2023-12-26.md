@@ -127,3 +127,7 @@
 
 + [Linkedin Email Finder by Mailmo](https://www.producthunt.com/posts/linkedin-email-finder-by-mailmo)
 
++ [Logo with Icons](https://www.producthunt.com/posts/logo-with-icons)
+
++ [Epic Selfie](https://www.producthunt.com/posts/epic-selfie)
+
