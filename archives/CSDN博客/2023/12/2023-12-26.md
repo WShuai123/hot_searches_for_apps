@@ -145,3 +145,11 @@
 
 + [计算机网络——连接的概念](https://blog.csdn.net/weixin_65190179/article/details/134843823)
 
++ [Pytorch深度强化学习2-1：基于价值的强化学习——DQN算法](https://blog.csdn.net/FRIGIDWINTER/article/details/135210098)
+
++ [如何使用宝塔面板+Discuz+cpolar内网穿透工具搭建可远程访问论坛服务](https://blog.csdn.net/a1657054242/article/details/135197531)
+
++ [【网络奇缘】——奈氏准则和香农定理从理论到实践一站式服务|计算机网络](https://blog.csdn.net/Aileenvov/article/details/135188215)
+
++ [开源分布式搜索引擎ElasticSearch结合内网穿透远程连接](https://blog.csdn.net/weixin_46703995/article/details/135203302)
+

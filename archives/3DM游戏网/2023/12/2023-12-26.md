@@ -189,3 +189,7 @@
 
 + [索尼克官方圣诞图采用角色夏特 并暗含《索尼克大冒险2》的刀子](https://www.3dmgame.com/news/202312/3884682.html)
 
++ [《艾尔登法环》玩家变身交界地“圣诞老人”](https://www.3dmgame.com/news/202312/3884686.html)
+
++ [《黄昏旅店Renewal》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202312/3884685.html)
+
