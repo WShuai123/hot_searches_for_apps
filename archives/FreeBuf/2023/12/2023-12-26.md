@@ -55,3 +55,7 @@
 
 + [渗透测试 | 实战中对宝塔禁止执行系统命令绕过的思考](https://www.freebuf.com/articles/web/387190.html)
 
++ [SecuSphere：一款功能强大的一站式高效DevSecOps安全框架](https://www.freebuf.com/sectool/385256.html)
+
++ [《网络安全标准实践指南——大型互联网平台网络安全评估指南（征求意见稿）》发布](https://www.freebuf.com/news/387749.html)
+

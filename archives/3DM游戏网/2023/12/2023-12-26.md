@@ -193,3 +193,19 @@
 
 + [《黄昏旅店Renewal》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202312/3884685.html)
 
++ [《天空与无垢的6机》Steam页面上线 机师构建养成](https://www.3dmgame.com/news/202312/3884694.html)
+
++ [游戏口碑不佳 零售商4美元甩卖实体版《红霞岛》](https://www.3dmgame.com/news/202312/3884693.html)
+
++ [日本动漫协会调查显示 日本以外的动漫产业利润已超过20%](https://www.3dmgame.com/news/202312/3884692.html)
+
++ [中国第一口万米深井！深地塔科1井钻探深度已突破9000米](https://www.3dmgame.com/news/202312/3884691.html)
+
++ [《崩坏：星穹铁道》阮•梅角色PV——「万物生」](https://www.3dmgame.com/news/202312/3884690.html)
+
++ [横山昌义谈《如龙8》 单主线就超过72个小时](https://www.3dmgame.com/news/202312/3884689.html)
+
++ [《阿加莎·克里斯蒂：东方快车谋杀案》主机版2024年1月25日发售 试玩版开放](https://www.3dmgame.com/news/202312/3884687.html)
+
++ [《Denpatou》Steam页面上线 复古风农场模拟游戏](https://www.3dmgame.com/news/202312/3884688.html)
+
