@@ -57,3 +57,5 @@
 
 + [雷军：小米 SU7 定位 C 级高性能生态科技轿车，定价“确实有点贵”](https://m.ithome.com/html/741720.htm)
 
++ [华为内部人士：PC 端鸿蒙操作系统已接近完成](https://m.ithome.com/html/741727.htm)
+

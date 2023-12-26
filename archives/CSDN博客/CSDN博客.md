@@ -181,3 +181,5 @@
 
 + [[HADOOP]数据倾斜的避免和处理](https://blog.csdn.net/weixin_46485607/article/details/135194490)
 
++ [iOS设备信息详解](https://blog.csdn.net/u010671061/article/details/135213460)
+

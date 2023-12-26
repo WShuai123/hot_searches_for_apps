@@ -261,3 +261,5 @@
 
 + [三星推迟新建美国工厂量产时间：延后至2025年](https://www.3dmgame.com/news/202312/3884718.html)
 
++ [中世纪城市建设《Crowncity》Steam页面公开](https://www.3dmgame.com/news/202312/3884721.html)
+
