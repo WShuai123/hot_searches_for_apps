@@ -173,3 +173,9 @@
 
 + [【网络安全】SQL注入总结](https://blog.csdn.net/kalilinuxsafe/article/details/135201340)
 
++ [概率论中的 50 个具有挑战性的问题 [第 6 部分]：Chuck-a-Luck](https://blog.csdn.net/gongdiwudu/article/details/135195721)
+
++ [多方面解读openAI官网：chatGPT4.0 版本（GPT-4模型）](https://blog.csdn.net/chatGPT_51/article/details/135175327)
+
++ [【安全学习】-网络安全靶场实训演练系统建设方案](https://blog.csdn.net/xqdd/article/details/135200330)
+

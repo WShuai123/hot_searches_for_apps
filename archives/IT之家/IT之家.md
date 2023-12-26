@@ -55,3 +55,5 @@
 
 + [2499 元起，华为推出 nova 12 活力版手机：前置 6000 万像素自拍镜头](https://m.ithome.com/html/741665.htm)
 
++ [雷军：小米 SU7 定位 C 级高性能生态科技轿车，定价“确实有点贵”](https://m.ithome.com/html/741720.htm)
+
