@@ -67,3 +67,5 @@
 
 + [年度奇葩游戏！2023年度最烂游戏颁奖典礼](http://www.acfun.cn/v/ac43346356)
 
++ [快速看完一局韩服王者斗殴局#556 xiaolaohu, xiaohuangren, Creme,](http://www.acfun.cn/v/ac43350483)
+
