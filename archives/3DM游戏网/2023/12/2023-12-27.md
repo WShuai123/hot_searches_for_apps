@@ -237,3 +237,15 @@
 
 + [关注另类玩家群体 《Big Box Collection》站展示PC游戏盒装设计](https://www.3dmgame.com/news/202312/3884783.html)
 
++ [亚马逊流媒体平台也将于明年开始播放广告](https://www.3dmgame.com/news/202312/3884799.html)
+
++ [《英雄联盟》主持人余霜分享自己的结婚照 笑的太甜了](https://www.3dmgame.com/news/202312/3884798.html)
+
++ [腾讯今年超400亿回购 段永平：实际上就是在给员工发奖金](https://www.3dmgame.com/news/202312/3884797.html)
+
++ [ChatGPT之父正邀请苹果设计高管 合作开发AI硬件](https://www.3dmgame.com/news/202312/3884796.html)
+
++ [《逃离塔科夫》0.14版本更新日志 新手地图“中心区”上线](https://www.3dmgame.com/news/202312/3884795.html)
+
++ [TGA官方分享陶德现场照 众人哄堂大笑：终于加载完了](https://www.3dmgame.com/news/202312/3884794.html)
+
