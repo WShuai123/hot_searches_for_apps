@@ -101,3 +101,5 @@
 
 + [《崩坏：星穹铁道》1.6版本“庸与神的冠冕”现已上线](https://www.3dmgame.com/news/202312/3884768.html)
 
++ [Epic喜加一：《诅咒高尔夫》免费领取](https://www.3dmgame.com/news/202312/3884818.html)
+
