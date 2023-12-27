@@ -101,3 +101,17 @@
 
 + [个人实际开发心得感悟及学习方法](https://blog.csdn.net/m0_54741495/article/details/135225524)
 
++ [Python Opencv实践 - 人体姿态检测](https://blog.csdn.net/vivo01/article/details/135139737)
+
++ [JuiceSSH结合内网穿透实现公网远程访问本地Linux虚拟机](https://blog.csdn.net/syf666250/article/details/135200061)
+
++ [SpringBoot 2 集成Spark 3](https://blog.csdn.net/zhouzhiwengang/article/details/135193083)
+
++ [python爬虫山西太原美食店铺数据可视化大屏全屏系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/135172650)
+
++ [概率论中的 50 个具有挑战性的问题 [第 6 部分]：Chuck-a-Luck](https://blog.csdn.net/gongdiwudu/article/details/135195721)
+
++ [Maven 项目依赖仓库配置详解：pom.xml 中的 repositories 与 Maven 配置文件的调用顺序](https://blog.csdn.net/wykqh/article/details/135214118)
+
++ [【Java】MybatisPlus](https://blog.csdn.net/weixin_52808620/article/details/135196556)
+
