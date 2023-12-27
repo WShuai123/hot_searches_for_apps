@@ -267,3 +267,7 @@
 
 + [研究显示《超级马里奥：奥德赛》可以治疗抑郁症](https://www.3dmgame.com/news/202312/3884808.html)
 
++ [360与华为合作：鸿蒙原生应用核心版本开发完成](https://www.3dmgame.com/news/202312/3884811.html)
+
++ [被R星取消的游戏《特工》水下截图曝光](https://www.3dmgame.com/news/202312/3884810.html)
+
