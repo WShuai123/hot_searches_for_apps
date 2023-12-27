@@ -55,3 +55,5 @@
 
 + [美国某金融公司遭遇网络攻击，130 万民众受影响](https://www.freebuf.com/news/387873.html)
 
++ [如何使用Spoofy检测目标域名是否存在欺骗攻击风险](https://www.freebuf.com/sectool/385258.html)
+

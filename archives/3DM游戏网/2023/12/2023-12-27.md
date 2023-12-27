@@ -205,3 +205,13 @@
 
 + [《Seal World》登陆Steam 治愈系3D探索冒险新游](https://www.3dmgame.com/news/202312/3884774.html)
 
++ [中国单体规模最大水面漂浮式光伏电站全容量并网 年平均发电量约7亿千瓦时](https://www.3dmgame.com/news/202312/3884782.html)
+
++ [诺兰：扎导对超级英雄科幻电影影响深远](https://www.3dmgame.com/news/202312/3884779.html)
+
++ [Neowiz 2D动作游戏《小骨》累计销量突破200万](https://www.3dmgame.com/news/202312/3884781.html)
+
++ [KK对战平台500%超值豪华战令奖励！KK战令S3梦回午夜幻境](https://www.3dmgame.com/news/202312/3884780.html)
+
++ [玩家再次发现疑似《GTA6》女主角的扮演者 长相和声音极度相似](https://www.3dmgame.com/news/202312/3884778.html)
+
