@@ -101,3 +101,5 @@
 
 + [EventConnect](https://www.producthunt.com/posts/eventconnect-2)
 
++ [Schema Validator Browser Extension](https://www.producthunt.com/posts/schema-validator-browser-extension)
+

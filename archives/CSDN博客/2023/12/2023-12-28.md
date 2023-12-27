@@ -115,3 +115,15 @@
 
 + [【Java】MybatisPlus](https://blog.csdn.net/weixin_52808620/article/details/135196556)
 
++ [SpringCloud 整合 Canal+RabbitMQ+Redis 实现数据监听](https://blog.csdn.net/m0_67597657/article/details/135229049)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/S18374/article/details/135230280)
+
++ [开源持续测试平台Linux MeterSphere本地部署与远程访问](https://blog.csdn.net/2301_77053417/article/details/135201875)
+
++ [【微服务核心】Spring Boot](https://blog.csdn.net/xxx1276063856/article/details/135233125)
+
++ [Unity从零开始制作多人回合制对战游戏（1）——网络通讯](https://blog.csdn.net/weixin_43010844/article/details/135258387)
+
++ [云原生Kubernetes：K8S集群实现容器运行时迁移(docker → containerd) 与 版本升级(v1.23.14 → v1.24.1)](https://blog.csdn.net/cronaldo91/article/details/135222979)
+
