@@ -103,3 +103,13 @@
 
 + [Universal Breath App](https://www.producthunt.com/posts/universal-breath-app)
 
++ [Suno.ai](https://www.producthunt.com/posts/suno-ai)
+
++ [Facades 2.0](https://www.producthunt.com/posts/facades-2-0)
+
++ [Habit Hero](https://www.producthunt.com/posts/habit-hero)
+
++ [MyYearInReview](https://www.producthunt.com/posts/myyearinreview)
+
++ [Avatars by Studio Neiro AI](https://www.producthunt.com/posts/avatars-by-studio-neiro-ai)
+
