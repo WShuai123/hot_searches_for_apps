@@ -45,3 +45,11 @@
 
 + [小鹏、比亚迪、理想回应小米汽车致敬：欢迎加入汽车大家庭](https://m.ithome.com/html/741850.htm)
 
++ [荣耀 MagicOS 中文命名为“魔法 OS”](https://m.ithome.com/html/741794.htm)
+
++ [荣耀 Magic6 系列手机官宣搭载鸿燕卫星通信技术，支持通话和短信](https://m.ithome.com/html/741837.htm)
+
++ [消息称 AITO 问界明年全年销量目标 60 万辆，计划发布并量产 M8 车型](https://m.ithome.com/html/741760.htm)
+
++ [苹果 iOS 17.2.1 续航测试：iPhone 11 提升 6.7%、iPhone 13 下降 6.3%](https://m.ithome.com/html/741773.htm)
+

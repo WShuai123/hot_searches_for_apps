@@ -175,3 +175,7 @@
 
 + [轻松设置CentOS IP地址的最终指南：详细的分步说明](https://blog.csdn.net/Long_xu/article/details/135208424)
 
++ [在Portainer创建Nginx容器并部署Web静态站点实现公网访问](https://blog.csdn.net/xz2935117143/article/details/135242270)
+
++ [网络渗透测试实验三 XSS和SQL注入](https://blog.csdn.net/weixin_74109869/article/details/135233630)
+

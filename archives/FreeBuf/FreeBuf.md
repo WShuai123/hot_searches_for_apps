@@ -57,3 +57,7 @@
 
 + [如何使用Spoofy检测目标域名是否存在欺骗攻击风险](https://www.freebuf.com/sectool/385258.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [2023年全球网安行业顶级并购交易 TOP 5](https://www.freebuf.com/news/387934.html)
+
