@@ -103,3 +103,17 @@
 
 + [Epic喜加一：《诅咒高尔夫》免费领取](https://www.3dmgame.com/news/202312/3884818.html)
 
++ [0.14版《逃离塔科夫》更新内容视频预告](https://www.3dmgame.com/news/202312/3884825.html)
+
++ [《Death Relives》发布剧情预告男主手臂能开花](https://www.3dmgame.com/news/202312/3884824.html)
+
++ [两人开发 虚幻5打造FPS恐惧游戏《裂缝恐惧》公布](https://www.3dmgame.com/news/202312/3884823.html)
+
++ [20周年作品《英雄传说：界之轨迹》拥有最强表现力](https://www.3dmgame.com/news/202312/3884822.html)
+
++ [SE两款手游惨遭失败 在推出13个月/19个月后关服](https://www.3dmgame.com/news/202312/3884821.html)
+
++ [《蝙蝠侠：阿卡姆之城》新增疯狂难度Mod](https://www.3dmgame.com/news/202312/3884820.html)
+
++ [新年将至：Atlus/SNK等日本开发商预告未公布游戏](https://www.3dmgame.com/news/202312/3884819.html)
+
