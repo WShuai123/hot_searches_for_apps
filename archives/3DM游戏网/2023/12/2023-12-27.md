@@ -191,3 +191,9 @@
 
 + [网友自制《最终幻想7RE》尤菲圣诞贺图 白丝美腿吸睛](https://www.3dmgame.com/news/202312/3884767.html)
 
++ [华硕RTX 4070 Super显卡曝光 将于明年1月9日发布](https://www.3dmgame.com/news/202312/3884773.html)
+
++ [《守望先锋2》玩家晒游戏时长 使用D.Va超过2万个小时 头号D.Va粉丝](https://www.3dmgame.com/news/202312/3884771.html)
+
++ [R星或已取消潜行动作游戏《特工》地图泄露](https://www.3dmgame.com/news/202312/3884772.html)
+

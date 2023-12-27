@@ -51,3 +51,5 @@
 
 + [银行“大盗” Carbanak 勒索软件卷土重来](https://www.freebuf.com/news/387852.html)
 
++ [Padding Oracle原理深入剖析与实践](https://www.freebuf.com/articles/web/387660.html)
+

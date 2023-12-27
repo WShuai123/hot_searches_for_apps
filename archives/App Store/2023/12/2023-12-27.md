@@ -209,3 +209,5 @@
 
 + [爱奇艺-三大队全网独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
 
++ [智慧中小学-国家中小学智慧教育平台](https://itunes.apple.com/cn/app/id1497477307?mt=8)
+

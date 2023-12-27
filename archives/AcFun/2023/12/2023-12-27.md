@@ -77,3 +77,7 @@
 
 + [小小水一下《再见，卡门》](http://www.acfun.cn/v/ac43351135)
 
++ [这个发型无敌了！★手机竖屏1011★](http://www.acfun.cn/v/ac43350500)
+
++ [关于今年白玉甘蔗](http://www.acfun.cn/v/ac43350842)
+
