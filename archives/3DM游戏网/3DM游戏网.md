@@ -275,3 +275,5 @@
 
 + [《DOTA2》XG战队官宣新阵容 Ame和XinQ加盟](https://www.3dmgame.com/news/202312/3884809.html)
 
++ [联发科CEO暗示天玑9400进展顺利 正在与台积电密切合作3nm芯片](https://www.3dmgame.com/news/202312/3884813.html)
+

@@ -13,3 +13,5 @@
 
 + [自然语言界面：开启人机交互的全新篇章](https://www.ui.cn/detail/660390.html)
 
++ [AE教程 | 手把手教会你 “毛玻璃质感”天气卡片动效](https://www.ui.cn/detail/652155.html)
+

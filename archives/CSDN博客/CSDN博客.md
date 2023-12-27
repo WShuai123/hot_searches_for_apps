@@ -187,3 +187,7 @@
 
 + [GaussDB元命令使用指导](https://blog.csdn.net/GaussDB/article/details/135231624)
 
++ [【C#】.net core 6.0 依赖注入生命周期](https://blog.csdn.net/lmy_520/article/details/135191856)
+
++ [基于深度学习的性别识别算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/135189358)
+
