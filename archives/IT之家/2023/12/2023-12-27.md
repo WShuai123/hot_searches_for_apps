@@ -39,3 +39,5 @@
 
 + [消息称华为 HarmonyOS Next App 适配进度良好，目前在 Mate60 Pro 等麒麟芯片机型上测试](https://m.ithome.com/html/741777.htm)
 
++ [雷军：小米澎湃 OS 启动新标识，“人车家全生态”正式闭环](https://m.ithome.com/html/741843.htm)
+

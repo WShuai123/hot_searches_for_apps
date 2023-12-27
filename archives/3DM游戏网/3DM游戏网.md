@@ -197,3 +197,11 @@
 
 + [R星或已取消潜行动作游戏《特工》地图泄露](https://www.3dmgame.com/news/202312/3884772.html)
 
++ [我国首艘大洋钻探船首次试航成功：航行约500海里](https://www.3dmgame.com/news/202312/3884777.html)
+
++ [《遗迹传说：高清复刻版》中文版先导预告 2024年2月1日发售](https://www.3dmgame.com/news/202312/3884776.html)
+
++ [《星空》玩家发现丑陋克系生物 酷似《月球旅行记》经典月亮脸](https://www.3dmgame.com/news/202312/3884775.html)
+
++ [《Seal World》登陆Steam 治愈系3D探索冒险新游](https://www.3dmgame.com/news/202312/3884774.html)
+
