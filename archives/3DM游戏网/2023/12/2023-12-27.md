@@ -263,3 +263,7 @@
 
 + [本周Fami通游戏评分出炉 《阿凡达：潘多拉边境》获32分](https://www.3dmgame.com/news/202312/3884800.html)
 
++ [《勇者斗恶龙10》第七部资料片发布动画宣传片](https://www.3dmgame.com/news/202312/3884807.html)
+
++ [研究显示《超级马里奥：奥德赛》可以治疗抑郁症](https://www.3dmgame.com/news/202312/3884808.html)
+
