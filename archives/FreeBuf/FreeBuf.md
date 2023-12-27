@@ -47,3 +47,7 @@
 
 + [实战分享 | 从Portswigger API Testing中入门 API 安全](https://www.freebuf.com/articles/web/387377.html)
 
++ [新版Chrome浏览器将支持检测用户存储的密码是否存在泄露](https://www.freebuf.com/news/387876.html)
+
++ [银行“大盗” Carbanak 勒索软件卷土重来](https://www.freebuf.com/news/387852.html)
+

@@ -145,3 +145,7 @@
 
 + [2023年数学建模年度总结——第一弹](https://blog.csdn.net/qq_33690821/article/details/135232000)
 
++ [JuiceSSH结合内网穿透实现公网远程访问本地Linux虚拟机](https://blog.csdn.net/syf666250/article/details/135200061)
+
++ [iPhone 15、Plus、Pro 和 Pro Max 的制造成本是多少？](https://blog.csdn.net/2301_81307082/article/details/135184495)
+

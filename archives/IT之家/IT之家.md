@@ -37,3 +37,5 @@
 
 + [搭载麒麟芯片的华为 nova 12 / Pro / Ultra 全部售罄，只剩搭载骁龙 778G 的活力版有货](https://m.ithome.com/html/741783.htm)
 
++ [消息称华为 HarmonyOS Next App 适配进度良好，目前在 Mate60 Pro 等麒麟芯片机型上测试](https://m.ithome.com/html/741777.htm)
+
