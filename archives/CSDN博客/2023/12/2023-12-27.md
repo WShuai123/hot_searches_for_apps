@@ -185,3 +185,5 @@
 
 + [【Java】MybatisPlus](https://blog.csdn.net/weixin_52808620/article/details/135196556)
 
++ [GaussDB元命令使用指导](https://blog.csdn.net/GaussDB/article/details/135231624)
+
