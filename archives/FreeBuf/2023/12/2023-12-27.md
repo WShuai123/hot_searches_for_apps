@@ -41,3 +41,7 @@
 
 + [国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》](https://www.freebuf.com/news/387590.html)
 
++ [FreeBuf早报 | 2023年网络攻击激增50%；GTA 5 完整源代码被公开泄露](https://www.freebuf.com/news/387791.html)
+
++ [高流量+高风险：“标题党”恶意网站的安全风险分析](https://www.freebuf.com/articles/network/387242.html)
+

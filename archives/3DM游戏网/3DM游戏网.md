@@ -117,3 +117,9 @@
 
 + [樱井政博证实仍在制作游戏具体名称尚未公布](https://www.3dmgame.com/news/202312/3884732.html)
 
++ [R星曾开发《GTA：东京》 登陆PS2](https://www.3dmgame.com/news/202312/3884736.html)
+
++ [泄露数据显示重制版销量惊人 索尼有意继续炒冷饭](https://www.3dmgame.com/news/202312/3884735.html)
+
++ [粉丝自制《雷曼：雷普提斯的权杖》动画发布预告](https://www.3dmgame.com/news/202312/3884734.html)
+
