@@ -133,3 +133,7 @@
 
 + [PLC-IoT 网关开发札记（1）：存档和分发 Android App](https://blog.csdn.net/Tomcat0130/article/details/135188399)
 
++ [【AI】人工智能复兴的推进器之神经网络](https://blog.csdn.net/giszz/article/details/135211112)
+
++ [探索 HTTP 请求的世界：get 和 post 的奥秘(下）](https://blog.csdn.net/weixin_42554191/article/details/135184440)
+

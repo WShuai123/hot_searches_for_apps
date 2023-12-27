@@ -123,3 +123,15 @@
 
 + [粉丝自制《雷曼：雷普提斯的权杖》动画发布预告](https://www.3dmgame.com/news/202312/3884734.html)
 
++ [TH暗示已经知道下一部《战地》游戏部分细节](https://www.3dmgame.com/news/202312/3884742.html)
+
++ [沙特将组建《守望先锋2》纯女子战队 现招募选手中](https://www.3dmgame.com/news/202312/3884739.html)
+
++ [《荒野大镖客2》玩家为游戏开发《荒野大镖客1》MOD](https://www.3dmgame.com/news/202312/3884741.html)
+
++ [JRPG《贤者世界Re:Try》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202312/3884740.html)
+
++ [《星空》是2023年最受关注游戏 陶德称本作能玩好几年](https://www.3dmgame.com/news/202312/3884737.html)
+
++ [《毁灭战士3》跑酷增强MOD《Runner“s Doom 3》更新发布](https://www.3dmgame.com/news/202312/3884738.html)
+
