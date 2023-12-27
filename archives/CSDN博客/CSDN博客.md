@@ -137,3 +137,11 @@
 
 + [探索 HTTP 请求的世界：get 和 post 的奥秘(下）](https://blog.csdn.net/weixin_42554191/article/details/135184440)
 
++ [物联网协议Coap之Californium CoapServer解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/135232361)
+
++ [【GitHub精选项目】抖音/ TikTok 视频下载：TikTokDownloader 操作指南](https://blog.csdn.net/weixin_45081575/article/details/135170724)
+
++ [Jmeter、postman、python 三大主流技术如何操作数据库？](https://blog.csdn.net/A18285759691/article/details/135182470)
+
++ [2023年数学建模年度总结——第一弹](https://blog.csdn.net/qq_33690821/article/details/135232000)
+

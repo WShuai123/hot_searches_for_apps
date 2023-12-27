@@ -135,3 +135,43 @@
 
 + [《毁灭战士3》跑酷增强MOD《Runner“s Doom 3》更新发布](https://www.3dmgame.com/news/202312/3884738.html)
 
++ [据称《GTA5》剧情DLC取消是因为开发人员离职](https://www.3dmgame.com/news/202312/3884762.html)
+
++ [电影《大雨》角色海报 2024年1月12日全国上映](https://www.3dmgame.com/news/202312/3884757.html)
+
++ [心理恐怖游戏《杀死公主》开发者提示玩家 买不起游戏可以玩盗版](https://www.3dmgame.com/news/202312/3884761.html)
+
++ [《Spellbound Survivors》登陆Steam 吸幸系肉鸽动作射击](https://www.3dmgame.com/news/202312/3884760.html)
+
++ [任天堂Switch日服举办新年特卖 12月28日开启](https://www.3dmgame.com/news/202312/3884759.html)
+
++ [《最后的生还者》真人剧成2023年盗版最多的电视剧](https://www.3dmgame.com/news/202312/3884758.html)
+
++ [粉丝团队制作的《索尼克：力量》MOD“超频” 发布全新预告](https://www.3dmgame.com/news/202312/3884755.html)
+
++ [《逃离塔科夫》新更新今日上线 竞技场封测账号优惠即将结束](https://www.3dmgame.com/news/202312/3884753.html)
+
++ [索尼第一方销量泄露 《瑞奇与叮当：分离》卖出397万份](https://www.3dmgame.com/news/202312/3884752.html)
+
++ [《魔兽世界》社区重新在网易大神上线 停服通知已删除](https://www.3dmgame.com/news/202312/3884748.html)
+
++ [《小骨：英雄杀手》全球销量突破200万 5折促销活动延长](https://www.3dmgame.com/news/202312/3884750.html)
+
++ [索尼可能在组建新的工作室 吸纳前Deviation Games主创](https://www.3dmgame.com/news/202312/3884751.html)
+
++ [漫威《终极宇宙》新书第三本将于2024年3月推出](https://www.3dmgame.com/news/202312/3884749.html)
+
++ [Sony PG赏金女王：一款发售17年仍拥有超过百万名活跃玩家的游戏](https://www.3dmgame.com/news/202312/3884756.html)
+
++ [温子仁恐怖新作《Night Swim》发布特辑 1月5日上映](https://www.3dmgame.com/news/202312/3884754.html)
+
++ [《漫威蜘蛛侠2》成本高达3亿美元：回本需原价卖出720万份](https://www.3dmgame.com/news/202312/3884747.html)
+
++ [《魔法使之夜》剧场版动画PV2 预计12月31日公布](https://www.3dmgame.com/news/202312/3884746.html)
+
++ [《Liminal Border Part II》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202312/3884745.html)
+
++ [《DarkAndLight》登陆Steam 第一人称僵尸FPS新游](https://www.3dmgame.com/news/202312/3884744.html)
+
++ [《古剑奇谭》开发商RPG手游《白荆回廊》宣传PV](https://www.3dmgame.com/news/202312/3884743.html)
+
