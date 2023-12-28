@@ -203,3 +203,7 @@
 
 + [YOLOv8改进 | 注意力篇 | ACmix自注意力与卷积混合模型（提高FPS+检测效率）](https://blog.csdn.net/java1314777/article/details/135239236)
 
++ [Jupyter Notbook+cpolar内网穿透实现公共互联网访问使用数据分析工作](https://blog.csdn.net/zhoubancheng/article/details/135269636)
+
++ [「GPT」G、P、T分别是啥意思？](https://blog.csdn.net/poHUNNYoh/article/details/135225237)
+

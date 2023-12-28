@@ -59,3 +59,5 @@
 
 + [小米汽车官网 xiaomiev.com 上线](https://m.ithome.com/html/742199.htm)
 
++ [小米汽车超级大压铸技术亮相：9100 吨工艺、自研冲压集群系统、已用于 SU7 “72 合一”三段式后地板](https://m.ithome.com/html/742135.htm)
+

@@ -243,3 +243,9 @@
 
 + [Radeon RX 7600 XT明年1月上市 AMD暂时没有RX 7800/7700的计划](https://www.3dmgame.com/news/202312/3884888.html)
 
++ [特斯拉Q4交付量有望再次创下历史新高](https://www.3dmgame.com/news/202312/3884891.html)
+
++ [销量还不错 《星空》入围Steam今年12大最赚钱游戏](https://www.3dmgame.com/news/202312/3884890.html)
+
++ [《十三号星期五》将于今年12月31日起在Steam停售](https://www.3dmgame.com/news/202312/3884889.html)
+
