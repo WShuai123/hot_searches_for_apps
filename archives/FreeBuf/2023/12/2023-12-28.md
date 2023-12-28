@@ -45,3 +45,5 @@
 
 + [Google Workspace全域委派功能的关键安全问题剖析](https://www.freebuf.com/articles/network/387123.html)
 
++ [量子阴谋——某 APT 组织的追踪报告](https://www.freebuf.com/articles/network/387576.html)
+

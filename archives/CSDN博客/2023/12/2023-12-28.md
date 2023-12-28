@@ -127,3 +127,5 @@
 
 + [云原生Kubernetes：K8S集群实现容器运行时迁移(docker → containerd) 与 版本升级(v1.23.14 → v1.24.1)](https://blog.csdn.net/cronaldo91/article/details/135222979)
 
++ [【AIGC】AIGC——真正意义的智能，颠覆性的变革](https://blog.csdn.net/weixin_41704077/article/details/135213251)
+

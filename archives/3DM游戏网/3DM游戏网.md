@@ -127,3 +127,15 @@
 
 + [《驱灵者：新伊甸的幽灵》新视频展示男女合作玩法](https://www.3dmgame.com/news/202312/3884826.html)
 
++ [《巫师3》杰洛特配音演员称AI很危险：剥夺了我的收入](https://www.3dmgame.com/news/202312/3884835.html)
+
++ [日本制作人2024年计划 铃木亮浩希望带来《真三国无双》新消息](https://www.3dmgame.com/news/202312/3884833.html)
+
++ [Bungie意外泄露了《命运2》“愿望之季”的未公布剧情](https://www.3dmgame.com/news/202312/3884836.html)
+
++ [报道称《GTA5》源代码泄露是由于买家内讧](https://www.3dmgame.com/news/202312/3884834.html)
+
++ [Epic榜单：值得在冬季假期中游玩的完美PC游戏](https://www.3dmgame.com/news/202312/3884830.html)
+
++ [欧美服PS Plus 2024年1月会免公布：《瘟疫传说：安魂曲》等](https://www.3dmgame.com/news/202312/3884832.html)
+

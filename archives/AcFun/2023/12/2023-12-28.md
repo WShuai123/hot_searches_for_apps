@@ -81,3 +81,7 @@
 
 + [惊！一头熊求婚失败竟暴打女友！【铁拳8】熊【TEKKEN8】Kuma PV](http://www.acfun.cn/v/ac43359609)
 
++ [【东方】东方永夜抄，大概是这样的故事【半手书动画】](http://www.acfun.cn/v/ac43355298)
+
++ [《嘞个怕是有点疼哦》](http://www.acfun.cn/v/ac43359131)
+
