@@ -57,3 +57,9 @@
 
 + [如何使用ModuleShifting测试Module Stomping和Module Overloading注入技术](https://www.freebuf.com/sectool/385260.html)
 
++ [以大数据和AI为技术底座的数据安全防护平台设计](https://www.freebuf.com/sectool/378817.html)
+
++ [iPhone史上最复杂的攻击链，卡巴斯基曝光苹果处理器“神秘后门”](https://www.freebuf.com/news/388065.html)
+
++ [美国彩票机构遭勒索软件攻击](https://www.freebuf.com/news/387976.html)
+

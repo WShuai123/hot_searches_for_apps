@@ -165,3 +165,15 @@
 
 + [Python——yolov8识别车牌2.0](https://blog.csdn.net/Pan_peter/article/details/135216959)
 
++ [人工智能生成文本检测在实践中使用有效性探讨](https://blog.csdn.net/m0_46510245/article/details/135262994)
+
++ [【OpenCV】告别人工目检：深度学习技术引领工业品缺陷检测新时代](https://blog.csdn.net/m0_68662723/article/details/135263489)
+
++ [【分布式链路追踪技术】sleuth+zipkin](https://blog.csdn.net/Joker_ZJN/article/details/135258207)
+
++ [Linux与C/C++服务器开发：深入探索网络编程与实用技术（文末送书）](https://blog.csdn.net/a1657054242/article/details/135252457)
+
++ [Linux账号与权限管理](https://blog.csdn.net/yunjisuanxietu/article/details/135228340)
+
++ [2015年第四届数学建模国际赛小美赛C题科学能解决恐怖主义吗解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135198284)
+

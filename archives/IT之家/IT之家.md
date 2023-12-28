@@ -39,3 +39,7 @@
 
 + [OPPO 卫星通信技术来了：首发听筒 / 免提双模通话，Find X7 系列手机搭载](https://m.ithome.com/html/741908.htm)
 
++ [魅族公布“2023 手机百花奖”评选结果：华为 Mate 60 Pro、小米 14、魅族 21 获得最佳人气手机奖](https://m.ithome.com/html/742015.htm)
+
++ [加拿大鹅援助甘肃震区物资被倒卖为谣言，造谣者已被刑事拘留](https://m.ithome.com/html/742028.htm)
+

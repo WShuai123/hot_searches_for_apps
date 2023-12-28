@@ -203,3 +203,9 @@
 
 + [《亚瑟王：第九军团》Steam页面上线 支持中文2024年初发售](https://www.3dmgame.com/news/202312/3884863.html)
 
++ [为何不向长安、吉利等致敬 雷军：大家误解了](https://www.3dmgame.com/news/202312/3884871.html)
+
++ [《乐高堡垒之夜》建造上限太低引建筑大佬不满](https://www.3dmgame.com/news/202312/3884870.html)
+
++ [年度烂作《魔戒：咕噜》二手实体盘价格离谱 高达88澳元](https://www.3dmgame.com/news/202312/3884869.html)
+

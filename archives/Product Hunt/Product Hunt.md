@@ -103,3 +103,17 @@
 
 + [Schema Validator Browser Extension](https://www.producthunt.com/posts/schema-validator-browser-extension)
 
++ [Genie AI](https://www.producthunt.com/posts/genie-ai-2)
+
++ [Furrn.com](https://www.producthunt.com/posts/furrn-com)
+
++ [Nural: Schedule, Plan, Achieve](https://www.producthunt.com/posts/nural-schedule-plan-achieve)
+
++ [Video Mood](https://www.producthunt.com/posts/video-mood)
+
++ [100DaysOfAI Challenge](https://www.producthunt.com/posts/100daysofai-challenge)
+
++ [Token Gater by Monetized](https://www.producthunt.com/posts/token-gater-by-monetized)
+
++ [Hardal](https://www.producthunt.com/posts/hardal)
+
