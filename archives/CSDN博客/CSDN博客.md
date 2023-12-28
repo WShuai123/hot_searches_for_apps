@@ -125,3 +125,9 @@
 
 + [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/135220721)
 
++ [【OpenCV】告别人工目检：深度学习技术引领工业品缺陷检测新时代](https://blog.csdn.net/m0_68662723/article/details/135263489)
+
++ [[MySQL] MySQL 高级(进阶) SQL 语句](https://blog.csdn.net/Cnm_147258/article/details/135252712)
+
++ [金蚂蚁国创推出电机控制器生产测试线，助力新能源汽车整车性能提升](https://blog.csdn.net/JMYgroup/article/details/135273418)
+

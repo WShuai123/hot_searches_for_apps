@@ -103,3 +103,15 @@
 
 + [Epic喜加一：《喵咪斗恶龙》免费领](https://www.3dmgame.com/news/202312/3884898.html)
 
++ [回合恋爱游戏《诺瓦之心》明年夏季发售 开篇免费](https://www.3dmgame.com/news/202312/3884904.html)
+
++ [《房产达人2》现已登陆Steam 主机版3月发售](https://www.3dmgame.com/news/202312/3884903.html)
+
++ [《微软飞行模拟》空客A300推出 飞鸿100测试中](https://www.3dmgame.com/news/202312/3884902.html)
+
++ [虚幻5赛博朋克动作游戏《烟烟罗》新实机内容展示](https://www.3dmgame.com/news/202312/3884901.html)
+
++ [《装甲核心6：境界天火》获得“简单”难度剧情Mod](https://www.3dmgame.com/news/202312/3884900.html)
+
++ [韩国动作冒险游戏《星刃》推迟到2024年发行](https://www.3dmgame.com/news/202312/3884899.html)
+
