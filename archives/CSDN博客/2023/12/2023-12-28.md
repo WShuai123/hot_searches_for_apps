@@ -129,3 +129,19 @@
 
 + [【AIGC】AIGC——真正意义的智能，颠覆性的变革](https://blog.csdn.net/weixin_41704077/article/details/135213251)
 
++ [从实际业务问题出发去分析Eureka-Server端源码](https://blog.csdn.net/weixin_57535055/article/details/135159475)
+
++ [北航人机交互复习](https://blog.csdn.net/qq_45551930/article/details/135256939)
+
++ [对于c++的总结与思考](https://blog.csdn.net/whcwhc111111/article/details/135254566)
+
++ [5分钟搭建属于你个人的chatgpt网站，申请内测API-key，chatgpt](https://blog.csdn.net/qq_62465320/article/details/135250853)
+
++ [为什么深度学习神经网络可以学习任何东西](https://blog.csdn.net/neptune4751/article/details/135224186)
+
++ [启明智显开源项目分享|基于Model 3c芯片的86中控面板ZX3D95CM20S-V11项目软硬件全开源](https://blog.csdn.net/ami82/article/details/135238653)
+
++ [【Linux驱动】驱动框架的进化 | 总线设备驱动模型](https://blog.csdn.net/weixin_63726869/article/details/135193203)
+
++ [OpenAI GPT 模型 API 接口新增参数 top_logprobs 和 logprobs](https://blog.csdn.net/fyfugoyfa/article/details/135232023)
+

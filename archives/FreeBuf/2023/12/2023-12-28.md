@@ -47,3 +47,7 @@
 
 + [量子阴谋——某 APT 组织的追踪报告](https://www.freebuf.com/articles/network/387576.html)
 
++ [澳大利亚最大的医疗保健提供商遭到网络攻击](https://www.freebuf.com/news/387994.html)
+
++ [美国俄亥俄州一彩票机构遭受勒索软件攻击](https://www.freebuf.com/news/387976.html)
+

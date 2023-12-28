@@ -139,3 +139,47 @@
 
 + [欧美服PS Plus 2024年1月会免公布：《瘟疫传说：安魂曲》等](https://www.3dmgame.com/news/202312/3884832.html)
 
++ [《匹诺曹的谎言》或被改编影视作品 开发商已收到邀请](https://www.3dmgame.com/news/202312/3884858.html)
+
++ [AI作品受保护？ 我国首例 “AI文生图”案一审判决生效](https://www.3dmgame.com/news/202312/3884857.html)
+
++ [电竞俱乐部Team PWR和The Chiefs与Netflix展开《月球叛军：火之女》观影活动](https://www.3dmgame.com/news/202312/3884854.html)
+
++ [日本或强制谷歌苹果开放第三方应用商店和支付](https://www.3dmgame.com/news/202312/3884856.html)
+
++ [特斯拉儿童版cybertruck将进入中国 售价或上万](https://www.3dmgame.com/news/202312/3884855.html)
+
++ [经典武器格洛克手枪发明者Gaston Glock去世 享年94岁](https://www.3dmgame.com/news/202312/3884853.html)
+
++ [《完美音浪》成为2023年Xbox评分最高的第一方作品](https://www.3dmgame.com/news/202312/3884852.html)
+
++ [坂口博信痴迷《最终幻想14》 玩起来停不下来！](https://www.3dmgame.com/news/202312/3884850.html)
+
++ [《最终幻想7：重生》发售前 《圣子降临》将在日本重映](https://www.3dmgame.com/news/202312/3884849.html)
+
++ [《赛马娘 新时代之门》特报影像 明年5月24日上映](https://www.3dmgame.com/news/202312/3884846.html)
+
++ [日本麦当劳发布《哥斯拉大战麦当劳》电影短片](https://www.3dmgame.com/news/202312/3884847.html)
+
++ [《长安小时光》playtest试玩开启 益时光工作室开发](https://www.3dmgame.com/news/202312/3884851.html)
+
++ [《万圣节万圣节万圣节》steam页面上线 本月发售](https://www.3dmgame.com/news/202312/3884848.html)
+
++ [Square Enix宣布《钢之炼金术师 Mobile》将于2024年3月29日停服](https://www.3dmgame.com/news/202312/3884844.html)
+
++ [《龙之信条2》导演：抱歉让大家等了这么久 最好的想法是在深夜提出的](https://www.3dmgame.com/news/202312/3884842.html)
+
++ [Steam再次提醒：2024年将正式停止Win7/8系统支持](https://www.3dmgame.com/news/202312/3884843.html)
+
++ [任天堂Switch日服2023年游戏下载排行榜公布：《塞尔达传说：王国之泪》第二](https://www.3dmgame.com/news/202312/3884845.html)
+
++ [《Grand Emprise 2: Portals Apart》Steam页面上线 支持简中](https://www.3dmgame.com/news/202312/3884841.html)
+
++ [索尼第一方发行游戏销量排行 第一名竟是它！](https://www.3dmgame.com/news/202312/3884840.html)
+
++ [PlayStation官方博客发布全新PS5用户指南](https://www.3dmgame.com/news/202312/3884839.html)
+
++ [Steam 2023年最佳榜单公布 《博德之门3》等游戏最畅销](https://www.3dmgame.com/news/202312/3884838.html)
+
++ [游骑兵工作室首席游戏程序师离职 供职11年之久](https://www.3dmgame.com/news/202312/3884837.html)
+
