@@ -117,3 +117,13 @@
 
 + [新年将至：Atlus/SNK等日本开发商预告未公布游戏](https://www.3dmgame.com/news/202312/3884819.html)
 
++ [微软称索尼仍在反对动视暴雪收购案：很惊讶很失望](https://www.3dmgame.com/news/202312/3884831.html)
+
++ [CDPR重申不会被收购：我们没兴趣 很重视独立性](https://www.3dmgame.com/news/202312/3884829.html)
+
++ [《博德之门3》获IGN 2023年度PC游戏大奖](https://www.3dmgame.com/news/202312/3884828.html)
+
++ [穿越生存建造游戏《大帝国2》正式公布](https://www.3dmgame.com/news/202312/3884827.html)
+
++ [《驱灵者：新伊甸的幽灵》新视频展示男女合作玩法](https://www.3dmgame.com/news/202312/3884826.html)
+

@@ -41,3 +41,7 @@
 
 + [Cisco Talos年度回顾：恶意软件、攻击者趋势及重要影响因素](https://www.freebuf.com/articles/paper/387184.html)
 
++ [FreeBuf早报 | 腾讯发布AI安全助手；Resecurity发布2024年网络威胁态势预测报告](https://www.freebuf.com/news/387901.html)
+
++ [Google Workspace全域委派功能的关键安全问题剖析](https://www.freebuf.com/articles/network/387123.html)
+

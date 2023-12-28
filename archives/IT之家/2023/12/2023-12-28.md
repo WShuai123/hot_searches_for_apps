@@ -25,3 +25,5 @@
 
 + [2299 元起，iQOO Neo9 / Pro 系列手机发布：骁龙 8 Gen 2 / 天玑 9300 处理器，120W 闪充](https://m.ithome.com/html/741974.htm)
 
++ [京东宣布大幅涨薪：明年起采销等一线业务人员涨幅近 100%](https://m.ithome.com/html/741995.htm)
+
