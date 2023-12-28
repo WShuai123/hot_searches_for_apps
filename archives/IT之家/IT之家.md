@@ -37,3 +37,5 @@
 
 + [终于不再是谍照！小米汽车 SU7 首批官方实拍图亮相，“海湾蓝”配色](https://m.ithome.com/html/742088.htm)
 
++ [OPPO 卫星通信技术来了：首发听筒 / 免提双模通话，Find X7 系列手机搭载](https://m.ithome.com/html/741908.htm)
+

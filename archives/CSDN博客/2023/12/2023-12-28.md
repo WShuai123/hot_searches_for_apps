@@ -153,3 +153,11 @@
 
 + [【电路笔记】-交流电路中的电容](https://blog.csdn.net/wujuxKkoolerter/article/details/135255124)
 
++ [『Linux升级路』冯诺依曼体系结构与操作系统](https://blog.csdn.net/2301_76207836/article/details/134474063)
+
++ [Jmeter、postman、python 三大主流技术如何操作数据库？](https://blog.csdn.net/m0_47485438/article/details/135229542)
+
++ [Flink Job 执行流程](https://blog.csdn.net/zhengzhaoyang122/article/details/135257550)
+
++ [TensorFlow的实战（详细代码）](https://blog.csdn.net/2301_81887304/article/details/135237258)
+
