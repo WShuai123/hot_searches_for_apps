@@ -181,3 +181,9 @@
 
 + [【论文阅读+复现】SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://blog.csdn.net/weixin_57974242/article/details/135230767)
 
++ [spring的异常统一处理](https://blog.csdn.net/m0_62645012/article/details/135265117)
+
++ [Python实现张万森下雪了的效果](https://blog.csdn.net/m0_68111267/article/details/135244079)
+
++ [郝斌老师 sql 语句笔记](https://blog.csdn.net/u014045237/article/details/135257235)
+

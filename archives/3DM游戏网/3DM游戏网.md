@@ -217,3 +217,27 @@
 
 + [《GTA5》泄露结局原本大不同：角色下场更加残酷](https://www.3dmgame.com/news/202312/3884875.html)
 
++ [希捷发布全球第二款24TB大硬盘：寿命领先10倍](https://www.3dmgame.com/news/202312/3884887.html)
+
++ [雷军：小米汽车9.9万不可能 14.9万也不要再讲了！](https://www.3dmgame.com/news/202312/3884886.html)
+
++ [风暴来袭，kk对战平台“御寒”福利免费送](https://www.3dmgame.com/news/202312/3884885.html)
+
++ [关晓彤Cos《王者荣耀》孙尚香 甜酷少女气场全开](https://www.3dmgame.com/news/202312/3884884.html)
+
++ [川普否认曾强迫导演让他客串《小鬼当家2》指控](https://www.3dmgame.com/news/202312/3884883.html)
+
++ [CDPR负责人谈《巫师》《2077》新作：吸取教训用心开发](https://www.3dmgame.com/news/202312/3884882.html)
+
++ [你听过几首 网易云发布年度最热单曲TOP10](https://www.3dmgame.com/news/202312/3884881.html)
+
++ [凤凰叔主演《拿破仑》全球票房突破2亿美元](https://www.3dmgame.com/news/202312/3884880.html)
+
++ [奇幻风种田游戏《青岚物语》公布全新预告 明年Q4发售](https://www.3dmgame.com/news/202312/3884879.html)
+
++ [全球最低！小米汽车SU7风阻系数仅0.195Cd](https://www.3dmgame.com/news/202312/3884878.html)
+
++ [《海贼无双4》销量突破300万 系列销量达800万](https://www.3dmgame.com/news/202312/3884877.html)
+
++ [大魔王Faker回应不回复粉丝私信：我们需要一定距离](https://www.3dmgame.com/news/202312/3884876.html)
+

@@ -47,3 +47,11 @@
 
 + [小米超级电机 V8s 发布：全球第一 27200rpm 转速，2025 年上车](https://m.ithome.com/html/742122.htm)
 
++ [雷军称不可能 14.9 万元：小米汽车 SU7 零百加速 2.78 秒，最高速 265km/h 支持弹射起步](https://m.ithome.com/html/742180.htm)
+
++ [雷军预发布小米 SU7 / Max：拥有全球量产车最低风阻系数 Cd 0.195，零百加速 2.78 秒，CLTC 续航 800km](https://m.ithome.com/html/742182.htm)
+
++ [小米汽车 SU7 外观、内饰公布：全球轿车最低风阻系数 Cd 0.195，3000mm 轴距](https://m.ithome.com/html/742173.htm)
+
++ [小米汽车发布摩德纳技术架构，号称要争取百项“第一”“唯一”“最”](https://m.ithome.com/html/742165.htm)
+
