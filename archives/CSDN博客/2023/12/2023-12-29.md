@@ -109,3 +109,19 @@
 
 + [低时延，可扩展的 l4s 拥塞控制算法](https://blog.csdn.net/dog250/article/details/135232901)
 
++ [Java生态系统的进化：从JDK 1.0到今天](https://blog.csdn.net/weixin_58070962/article/details/135273461)
+
++ [C++ Qt开发：SqlTableModel映射组件应用](https://blog.csdn.net/lyshark_csdn/article/details/135274081)
+
++ [Flask 与微信小程序对接](https://blog.csdn.net/xinzhengLUCK/article/details/135241649)
+
++ [web3方向&产品调研](https://blog.csdn.net/m0_37482190/article/details/135279105)
+
++ [个人实际开发心得感悟及学习方法](https://blog.csdn.net/m0_54741495/article/details/135225524)
+
++ [【AIGC】AIGC——真正意义的智能，颠覆性的变革](https://blog.csdn.net/weixin_41704077/article/details/135213251)
+
++ [医院安全（不良）事件报告系统源码 支持二次开发、支持源码交付](https://blog.csdn.net/qq_27741787/article/details/135273447)
+
++ [网络安全（黑客）—自学](https://blog.csdn.net/dexi113/article/details/135220721)
+
