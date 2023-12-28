@@ -177,3 +177,7 @@
 
 + [2015年第四届数学建模国际赛小美赛C题科学能解决恐怖主义吗解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/135198284)
 
++ [深入理解 Vue.js 中的`mapState`辅助函数：简化状态管理的秘密武器（下）](https://blog.csdn.net/weixin_42554191/article/details/135173756)
+
++ [【论文阅读+复现】SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://blog.csdn.net/weixin_57974242/article/details/135230767)
+

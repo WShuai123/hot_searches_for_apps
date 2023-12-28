@@ -117,3 +117,21 @@
 
 + [Hardal](https://www.producthunt.com/posts/hardal)
 
++ [Investor AI Email Generator](https://www.producthunt.com/posts/investor-ai-email-generator)
+
++ [Water Out Of Speaker](https://www.producthunt.com/posts/water-out-of-speaker)
+
++ [Streaks](https://www.producthunt.com/posts/streaks-4)
+
++ [NYALA Digital Asset](https://www.producthunt.com/posts/nyala-digital-asset)
+
++ [MEJ Sales AI](https://www.producthunt.com/posts/mej-sales-ai)
+
++ [YourTravels](https://www.producthunt.com/posts/yourtravels)
+
++ [Picyard](https://www.producthunt.com/posts/picyard-3)
+
++ [Monica 4.0](https://www.producthunt.com/posts/monica-4-0)
+
++ [WeConnect.chat](https://www.producthunt.com/posts/weconnect-chat)
+

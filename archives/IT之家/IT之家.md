@@ -43,3 +43,7 @@
 
 + [加拿大鹅援助甘肃震区物资被倒卖为谣言，造谣者已被刑事拘留](https://m.ithome.com/html/742028.htm)
 
++ [小米智能座舱亮相：澎湃 OS 生态无缝上车、16.1 英寸中控等五屏联动、骁龙 8295、支持苹果 AirPlay 及 CarPlay](https://m.ithome.com/html/742157.htm)
+
++ [小米超级电机 V8s 发布：全球第一 27200rpm 转速，2025 年上车](https://m.ithome.com/html/742122.htm)
+

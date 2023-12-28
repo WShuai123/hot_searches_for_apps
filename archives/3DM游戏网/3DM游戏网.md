@@ -209,3 +209,11 @@
 
 + [年度烂作《魔戒：咕噜》二手实体盘价格离谱 高达88澳元](https://www.3dmgame.com/news/202312/3884869.html)
 
++ [据报道暴雪和网易复合事宜已提上日程 看重中国市场潜力巨大](https://www.3dmgame.com/news/202312/3884872.html)
+
++ [外媒喊话《上古卷轴6》控制下野心 别像《星空》眼高手低](https://www.3dmgame.com/news/202312/3884873.html)
+
++ [皮克斯计划制作汽车总动员新作 未来公布](https://www.3dmgame.com/news/202312/3884874.html)
+
++ [《GTA5》泄露结局原本大不同：角色下场更加残酷](https://www.3dmgame.com/news/202312/3884875.html)
+
