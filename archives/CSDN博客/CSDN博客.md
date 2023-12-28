@@ -195,3 +195,11 @@
 
 + [免费获取GPT-4的五种工具](https://blog.csdn.net/weixin_47059371/article/details/135262090)
 
++ [Python之路：网络工程师的自动化进阶（第2版）](https://blog.csdn.net/qq_44273429/article/details/135264837)
+
++ [python江苏南京购物店铺数据可视化大屏全屏系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/135138175)
+
++ [如何实现无公网ip环境访问vscode远程开发【内网穿透】](https://blog.csdn.net/qyj19920704/article/details/135270360)
+
++ [YOLOv8改进 | 注意力篇 | ACmix自注意力与卷积混合模型（提高FPS+检测效率）](https://blog.csdn.net/java1314777/article/details/135239236)
+

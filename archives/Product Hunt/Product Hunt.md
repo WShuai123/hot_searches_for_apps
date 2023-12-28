@@ -145,3 +145,9 @@
 
 + [Anyo](https://www.producthunt.com/posts/anyo)
 
++ [ClickFreeze](https://www.producthunt.com/posts/clickfreeze)
+
++ [Hintscribe](https://www.producthunt.com/posts/hintscribe)
+
++ [Spiritory](https://www.producthunt.com/posts/spiritory)
+

@@ -57,3 +57,5 @@
 
 + [小米汽车 SU7 CLTC 续航 800 公里：101 kWh 宁德时代麒麟电池、充电 5 分钟可开 200 公里](https://m.ithome.com/html/742181.htm)
 
++ [小米汽车官网 xiaomiev.com 上线](https://m.ithome.com/html/742199.htm)
+

@@ -241,3 +241,5 @@
 
 + [大魔王Faker回应不回复粉丝私信：我们需要一定距离](https://www.3dmgame.com/news/202312/3884876.html)
 
++ [Radeon RX 7600 XT明年1月上市 AMD暂时没有RX 7800/7700的计划](https://www.3dmgame.com/news/202312/3884888.html)
+
