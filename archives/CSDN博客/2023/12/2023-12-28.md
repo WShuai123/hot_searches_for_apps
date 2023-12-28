@@ -161,3 +161,7 @@
 
 + [TensorFlow的实战（详细代码）](https://blog.csdn.net/2301_81887304/article/details/135237258)
 
++ [MYSQL高级SQL语句](https://blog.csdn.net/2301_76352247/article/details/135249971)
+
++ [Python——yolov8识别车牌2.0](https://blog.csdn.net/Pan_peter/article/details/135216959)
+

@@ -191,3 +191,15 @@
 
 + [日本推特发布年度排行榜单 《最终幻想16》登顶游戏榜《水星的魔女》荣登动漫榜榜首](https://www.3dmgame.com/news/202312/3884862.html)
 
++ [《战神》演员拒绝为年轻奎爷配音：不想取代原版](https://www.3dmgame.com/news/202312/3884864.html)
+
++ [黑客入侵《杀戮尖塔》的MOD 并利用Steam进行传播](https://www.3dmgame.com/news/202312/3884865.html)
+
++ [《如龙８》林襄采访影片 1月26日正式发售](https://www.3dmgame.com/news/202312/3884866.html)
+
++ [须田刚一新作正在开发中 《暗影诅咒》复刻版即将发布](https://www.3dmgame.com/news/202312/3884867.html)
+
++ [《天国的子午线：英灵殿》Steam页面上线 支持中文](https://www.3dmgame.com/news/202312/3884868.html)
+
++ [《亚瑟王：第九军团》Steam页面上线 支持中文2024年初发售](https://www.3dmgame.com/news/202312/3884863.html)
+

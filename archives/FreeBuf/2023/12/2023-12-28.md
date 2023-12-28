@@ -55,3 +55,5 @@
 
 + [卡巴斯基曝光苹果处理器“神秘后门”，复杂程度堪称史诗级！](https://www.freebuf.com/news/388065.html)
 
++ [如何使用ModuleShifting测试Module Stomping和Module Overloading注入技术](https://www.freebuf.com/sectool/385260.html)
+
