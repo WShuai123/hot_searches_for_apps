@@ -183,3 +183,9 @@
 
 + [游骑兵工作室首席游戏程序师离职 供职11年之久](https://www.3dmgame.com/news/202312/3884837.html)
 
++ [马斯克表示：AI制作的电影有望在明年出现！](https://www.3dmgame.com/news/202312/3884861.html)
+
++ [《铁拳8》包含大量色盲辅助模式选项受粉丝称赞](https://www.3dmgame.com/news/202312/3884860.html)
+
++ [挽回口碑出狠招 《月球叛军：火之女》的剪辑版本将会更加粗俗和暴力](https://www.3dmgame.com/news/202312/3884859.html)
+

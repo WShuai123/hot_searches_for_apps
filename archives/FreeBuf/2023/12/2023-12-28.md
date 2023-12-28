@@ -51,3 +51,5 @@
 
 + [美国俄亥俄州一彩票机构遭受勒索软件攻击](https://www.freebuf.com/news/387976.html)
 
++ [操作系统权限提升 | 系统错误配置-不安全注册表提权](https://www.freebuf.com/articles/network/387362.html)
+

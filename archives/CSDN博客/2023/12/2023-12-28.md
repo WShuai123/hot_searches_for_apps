@@ -145,3 +145,11 @@
 
 + [OpenAI GPT 模型 API 接口新增参数 top_logprobs 和 logprobs](https://blog.csdn.net/fyfugoyfa/article/details/135232023)
 
++ [python江苏南京天气预报数据可视化大屏全屏系统设计与实现（django框架）](https://blog.csdn.net/u013818205/article/details/135138108)
+
++ [【架构设计】中台服务的优劣势及架构思考](https://blog.csdn.net/weixin_36755535/article/details/135246570)
+
++ [纯CSS的华为充电动画，它来了](https://blog.csdn.net/qq_41152573/article/details/135212849)
+
++ [【电路笔记】-交流电路中的电容](https://blog.csdn.net/wujuxKkoolerter/article/details/135255124)
+
