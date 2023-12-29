@@ -245,3 +245,11 @@
 
 + [RTX4090各种被烧毁：海韵把16针电源线掰弯了90度](https://www.3dmgame.com/news/202312/3884968.html)
 
++ [网易成立新公司 暴雪国服回归再添信号](https://www.3dmgame.com/news/202312/3884973.html)
+
++ [《海王2》国内上映10天 总票房破3亿](https://www.3dmgame.com/news/202312/3884972.html)
+
++ [《DOTA2》ESL更新EPT积分榜单 XG战队排名第三](https://www.3dmgame.com/news/202312/3884971.html)
+
++ [传全新Surface明年春季发布 AI是核心卖点](https://www.3dmgame.com/news/202312/3884970.html)
+
