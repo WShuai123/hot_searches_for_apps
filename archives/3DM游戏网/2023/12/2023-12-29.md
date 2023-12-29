@@ -121,3 +121,33 @@
 
 + [动画《筋肉人完璧超人始祖編》将于2024年播出](https://www.3dmgame.com/news/202312/3884906.html)
 
++ [《咒术回战》续篇“死灭回游”确定制作 上线时间待定](https://www.3dmgame.com/news/202312/3884920.html)
+
++ [《异界深渊：大灵王》首次删档测试即将开启！跨年有好礼，留言领福利~](https://www.3dmgame.com/news/202312/3884921.html)
+
++ [佛罗里达小丑最后通牒 R星赔偿500万美元](https://www.3dmgame.com/news/202312/3884918.html)
+
++ [马斯克沉迷《暗黑4》 组队通关齐尔屠宰场25层](https://www.3dmgame.com/news/202312/3884919.html)
+
++ [豆瓣2023十大高分外语电影 《奥本海默》登顶](https://www.3dmgame.com/news/202312/3884917.html)
+
++ [主演透露 明年上映的《龙卷风》新版电影既不是续集也不是翻拍](https://www.3dmgame.com/news/202312/3884916.html)
+
++ [《GTA5》源代码暗示NS版？分析称可能性不高](https://www.3dmgame.com/news/202312/3884915.html)
+
++ [集英社在欧洲注册《死神》新作游戏商标](https://www.3dmgame.com/news/202312/3884922.html)
+
++ [IMDb发布2023年缅怀视频追忆逝去艺人：李玟周海媚等](https://www.3dmgame.com/news/202312/3884914.html)
+
++ [索尼CES发布会1月9日举行 或将有PS新消息](https://www.3dmgame.com/news/202312/3884913.html)
+
++ [《美国浪人在LA》Steam页面 支持简体中文](https://www.3dmgame.com/news/202312/3884912.html)
+
++ [PlayStation官方博客发文 预览2024年亮点内容](https://www.3dmgame.com/news/202312/3884911.html)
+
++ [《DOTA2》新一届别墅杯宣布 明年2月迪拜开打](https://www.3dmgame.com/news/202312/3884910.html)
+
++ [粉丝希望《星之海洋3》重制 SE：已知晓 但目前没有任何承诺](https://www.3dmgame.com/news/202312/3884909.html)
+
++ [DF评2023年移植最差的PC游戏 前三名都是EA游戏](https://www.3dmgame.com/news/202312/3884908.html)
+

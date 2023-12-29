@@ -43,3 +43,9 @@
 
 + [Cytrox和Intellexa：从“破落户”到机构级间谍软件供应商](https://www.freebuf.com/articles/paper/388049.html)
 
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
++ [应急响应 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/vuls/387893.html)
+
++ [FreeBuf早报 | iPhone史上最复杂的攻击链曝光；美国NASA发布首份太空安全指南](https://www.freebuf.com/news/388105.html)
+
