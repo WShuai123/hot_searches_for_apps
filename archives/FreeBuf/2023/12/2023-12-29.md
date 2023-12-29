@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | iPhone史上最复杂的攻击链曝光；美国NASA发布首份太空安全指南](https://www.freebuf.com/news/388105.html)
 
++ [Steam热门游戏遭破解，玩家需警惕安全风险](https://www.freebuf.com/news/388252.html)
+

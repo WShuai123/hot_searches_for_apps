@@ -173,3 +173,9 @@
 
 + [暴雪开窍？《暗黑破坏神4》承诺不再立刻削弱强力玩法](https://www.3dmgame.com/news/202312/3884925.html)
 
++ [台积电向研发组发放特别贡献奖 暗示2nm工艺有新进展](https://www.3dmgame.com/news/202312/3884936.html)
+
++ [《潜行者2》开发中版本实机截图与预告对比](https://www.3dmgame.com/news/202312/3884935.html)
+
++ [粉丝分享《赛博朋克2077》摄影截图 这画面太震撼](https://www.3dmgame.com/news/202312/3884934.html)
+
