@@ -101,3 +101,11 @@
 
 + [《Apex英雄》今年Steam玩家数量下降了近50% 游戏缺乏内容竞争激烈](https://www.3dmgame.com/news/202312/3884927.html)
 
++ [Epic喜加一：《蛇鹈鸟完整版》免费领](https://www.3dmgame.com/news/202312/3884980.html)
+
++ [阿里回应“二选一”败诉判赔京东10亿元：尊重判决结果](https://www.3dmgame.com/news/202312/3884977.html)
+
++ [外媒评2023年画面最好的15款游戏 《生化危机4RE》等](https://www.3dmgame.com/news/202312/3884978.html)
+
++ [《完蛋！我也能追到美女了！》Steam褒贬不一 缺乏游戏性](https://www.3dmgame.com/news/202312/3884979.html)
+

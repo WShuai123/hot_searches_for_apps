@@ -115,3 +115,21 @@
 
 + [【微服务核心】MyBatis Plus](https://blog.csdn.net/xxx1276063856/article/details/135276053)
 
++ [AIGC时代下，结合ChatGPT谈谈儿童教育](https://blog.csdn.net/Why_does_it_work/article/details/135292270)
+
++ [springboot整合gateway网关](https://blog.csdn.net/weixin_45766875/article/details/135275769)
+
++ [Spring高手之路-@Autowired和@Resource注解异同点](https://blog.csdn.net/qq_62262918/article/details/135291547)
+
++ [【分布式链路追踪技术】sleuth+zipkin](https://blog.csdn.net/Joker_ZJN/article/details/135258207)
+
++ [大数据前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/Myx74270512/article/details/135274117)
+
++ [【Unity细节】为什么按下移动键之后，物体还是会滑行一段距离（阻力都无穷大了）](https://blog.csdn.net/m0_64128218/article/details/135243671)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/S18374/article/details/135298108)
+
++ [【11】ES6：async/await](https://blog.csdn.net/weixin_45559449/article/details/135274570)
+
++ [在微服务中如何实现全链路的金丝雀发布？](https://blog.csdn.net/xaiobit_hl/article/details/135272563)
+
