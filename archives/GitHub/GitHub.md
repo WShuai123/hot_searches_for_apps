@@ -51,3 +51,41 @@
 
 + [baaivision / Emu](https://github.com/baaivision/Emu)
 
++ [hrvach / deskhop](https://github.com/hrvach/deskhop)
+
++ [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+
++ [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
++ [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [SoilLabs / Solana-Foam](https://github.com/SoilLabs/Solana-Foam)
+
++ [activepieces / activepieces](https://github.com/activepieces/activepieces)
+
++ [Az0x7 / vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
+
++ [songquanpeng / one-api](https://github.com/songquanpeng/one-api)
+
++ [federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [danielmiessler / SecLists](https://github.com/danielmiessler/SecLists)
+
++ [redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+
++ [n8n-io / n8n](https://github.com/n8n-io/n8n)
+
++ [UberGuidoZ / Flipper](https://github.com/UberGuidoZ/Flipper)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [dataease / dataease](https://github.com/dataease/dataease)
+
++ [omnivore-app / omnivore](https://github.com/omnivore-app/omnivore)
+
++ [dubinc / dub](https://github.com/dubinc/dub)
+
