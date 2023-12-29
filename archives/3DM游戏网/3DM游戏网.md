@@ -185,3 +185,17 @@
 
 + [雷军：目标就是媲美保时捷特斯拉 小米汽车做到了](https://www.3dmgame.com/news/202312/3884939.html)
 
++ [《魔兽世界》官方发布最爱龙族名“龙”选择图 玩家发现缺少多位重要角色](https://www.3dmgame.com/news/202312/3884946.html)
+
++ [他终于走了！动视暴雪CEO考迪克今日正式卸任](https://www.3dmgame.com/news/202312/3884944.html)
+
++ [肉鸽独游《数字魅影：极限竞赛》实机pv公布](https://www.3dmgame.com/news/202312/3884945.html)
+
++ [《职业棒球之魂》20周年和《实况力量棒球》30周年纪念网站上线 或有新作将发布](https://www.3dmgame.com/news/202312/3884943.html)
+
++ [优必选宣布港交所挂牌上市 成为“人形机器人第一股”](https://www.3dmgame.com/news/202312/3884942.html)
+
++ [《博德之门 3》Xbox版本的存档丢失问题仍未得到解决](https://www.3dmgame.com/news/202312/3884941.html)
+
++ [玩家吐槽《方舟：生存进化》容量超300GB：几乎0优化](https://www.3dmgame.com/news/202312/3884940.html)
+

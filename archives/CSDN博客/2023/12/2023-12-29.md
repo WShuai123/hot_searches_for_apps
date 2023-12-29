@@ -163,3 +163,7 @@
 
 + [工业3D工程师们常说的3D Web轻量引擎HOOPS Commuicator是什么？](https://blog.csdn.net/Juvien_Huang/article/details/135263331)
 
++ [ChatGPT4和python完美融合，快速完成数据分析与可视化、人工智能建模及论文高效撰写](https://blog.csdn.net/AIzmjl/article/details/135224887)
+
++ [Spire.Office 8.12.2 for .NET](https://blog.csdn.net/john_dwh/article/details/135260531)
+
