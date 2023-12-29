@@ -167,3 +167,13 @@
 
 + [Spire.Office 8.12.2 for .NET](https://blog.csdn.net/john_dwh/article/details/135260531)
 
++ [Lunix的奇妙冒险————权限篇](https://blog.csdn.net/2301_79181624/article/details/135276376)
+
++ [【赠书第14期】AI短视频制作一本通：文本生成视频+图片生成视频+视频生成视频](https://blog.csdn.net/qq_20016593/article/details/135209361)
+
++ [【CSAPP】探究BombLab奥秘：Phase_2的解密与实战](https://blog.csdn.net/m0_57532432/article/details/135272571)
+
++ [Docker本地部署开源浏览器Firefox并远程访问进行测试](https://blog.csdn.net/qq_57761637/article/details/135287061)
+
++ [零代码也能玩出花：Mugeda在H5设计中的魔法力量](https://blog.csdn.net/qq_32682301/article/details/135286257)
+

@@ -53,3 +53,9 @@
 
 + [一文把远程浏览器隔离（RBI）说清楚](https://www.freebuf.com/articles/web/387567.html)
 
++ [如何使用Pyxamstore快速解析Xamarin AssemblyStore文件](https://www.freebuf.com/sectool/385289.html)
+
++ [现象级车辆App遭网络攻击，泄露数百万用户数据](https://www.freebuf.com/news/388309.html)
+
++ [数据安全生命周期学习——采集管理](https://www.freebuf.com/articles/database/372570.html)
+
