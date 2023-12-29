@@ -41,3 +41,15 @@
 
 + [小米有品上架方舟鱼智能房门锁 S5：300 天续航、号称可“原位替换原锁”，众筹价 199 元起](https://m.ithome.com/html/742259.htm)
 
++ [英伟达 RTX 4090 D 显卡发布，售价 12999 元](https://m.ithome.com/html/742253.htm)
+
++ [消息称英伟达 RTX 4090 D 显卡今晚发布，只阉割张量核心](https://m.ithome.com/html/742214.htm)
+
++ [Gartner：华为全闪存 Q3 首次超越戴尔拿下全球第一](https://m.ithome.com/html/742239.htm)
+
++ [华为预计 2023 年实现销售收入超过 7000 亿元人民币](https://m.ithome.com/html/742306.htm)
+
++ [荣耀 X50 Pro 手机上架：骁龙 8 + 处理器，12GB+256GB 售价 2799 元](https://m.ithome.com/html/742337.htm)
+
++ [国产高端工控系统发布：龙芯 3A5000 处理器，性能达到同类进口产品水平](https://m.ithome.com/html/742203.htm)
+
