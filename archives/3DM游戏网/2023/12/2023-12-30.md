@@ -109,3 +109,11 @@
 
 + [《完蛋！我也能追到美女了！》Steam褒贬不一 缺乏游戏性](https://www.3dmgame.com/news/202312/3884979.html)
 
++ [《君望》众筹活动圆满结束 众筹金额近5800万日元](https://www.3dmgame.com/news/202312/3884984.html)
+
++ [《实况力量棒球》30th《职棒之魂》20th纪念网站开启](https://www.3dmgame.com/news/202312/3884983.html)
+
++ [SNK正在开发《饿狼传说》/《龙虎之拳》新作](https://www.3dmgame.com/news/202312/3884982.html)
+
++ [《R-Type 战略 I • II 宇宙》将于2024年秋季推出](https://www.3dmgame.com/news/202312/3884981.html)
+
