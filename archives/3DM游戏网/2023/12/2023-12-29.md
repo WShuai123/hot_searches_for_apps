@@ -199,3 +199,27 @@
 
 + [玩家吐槽《方舟：生存进化》容量超300GB：几乎0优化](https://www.3dmgame.com/news/202312/3884940.html)
 
++ [杰洛特配音演员谈《巫师4》 希望希里当主角继续冒险](https://www.3dmgame.com/news/202312/3884958.html)
+
++ [加里·奥德曼对《哈利·波特》小天狼星表演并不满意](https://www.3dmgame.com/news/202312/3884957.html)
+
++ [开发商Game Freak：正在开发超越宝可梦系列的杰作](https://www.3dmgame.com/news/202312/3884955.html)
+
++ [车主载同事发生车祸致其8级伤残 法院：系无偿搭乘 应当减轻车主赔偿责任](https://www.3dmgame.com/news/202312/3884956.html)
+
++ [雷蛇和汽车品牌雷克萨斯联手打造电竞SUV 灵魂RGB改装](https://www.3dmgame.com/news/202312/3884954.html)
+
++ [卡牌构筑游戏《桌面修仙》Steam页面上线 明年1月24日发售](https://www.3dmgame.com/news/202312/3884953.html)
+
++ [FPS游戏《灼烧之地》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202312/3884952.html)
+
++ [6元就能与女神甜蜜恋爱？真人沉浸恋爱向游戏29号上线steam](https://www.3dmgame.com/news/202312/3884951.html)
+
++ [奇幻恋爱漫画《婚戒物语》计划于第15卷完结](https://www.3dmgame.com/news/202312/3884950.html)
+
++ [《装甲核心6》排位赛实装掉线应对机制 故意多次掉线将被惩罚](https://www.3dmgame.com/news/202312/3884948.html)
+
++ [模拟经营游戏《超灵秘法社》开放抢先体验 获Steam特别好评](https://www.3dmgame.com/news/202312/3884949.html)
+
++ [《在地下城寻求邂逅：记忆憧憬》手游国际服2月停服](https://www.3dmgame.com/news/202312/3884947.html)
+

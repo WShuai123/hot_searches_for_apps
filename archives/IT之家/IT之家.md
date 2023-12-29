@@ -31,3 +31,13 @@
 
 + [不是小米王腾，知名博主“数码闲聊站”实名认证为“余啸”](https://m.ithome.com/html/742343.htm)
 
++ [雷军：小米汽车对小米集团来说，是从手机行业向技术行业的重大跨越](https://m.ithome.com/html/742196.htm)
+
++ [OPPO Find X7 / Ultra 手机开启预约，发布会定档 1 月 8 日 14:30](https://m.ithome.com/html/742269.htm)
+
++ [【IT之家图赏】小米汽车 SU7 Max「海湾蓝」实拍：全球量产车最低风阻系数，零百加速 2.78 秒](https://m.ithome.com/html/742256.htm)
+
++ [B 站 2023 年度报告上线](https://m.ithome.com/html/742174.htm)
+
++ [小米有品上架方舟鱼智能房门锁 S5：300 天续航、号称可“原位替换原锁”，众筹价 199 元起](https://m.ithome.com/html/742259.htm)
+

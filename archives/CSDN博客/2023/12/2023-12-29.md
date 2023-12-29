@@ -177,3 +177,5 @@
 
 + [零代码也能玩出花：Mugeda在H5设计中的魔法力量](https://blog.csdn.net/qq_32682301/article/details/135286257)
 
++ [CUDA驱动深度学习发展 - 技术全解与实战](https://blog.csdn.net/magicyangjay111/article/details/135285430)
+
