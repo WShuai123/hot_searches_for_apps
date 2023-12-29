@@ -197,3 +197,13 @@
 
 + [计算机网络——应用层与网络安全（六）](https://blog.csdn.net/m0_63168877/article/details/135266049)
 
++ [[ 云计算 | AWS ] 对比分析：Amazon SNS 与 SQS 消息服务的异同与选择](https://blog.csdn.net/dietime1943/article/details/135293801)
+
++ [本地部署Python Flask并搭建web问答应用程序框架实现远程访问](https://blog.csdn.net/2201_75743654/article/details/135290503)
+
++ [C++ Qt开发：SqlRelationalTable关联表组件](https://blog.csdn.net/lyshark_csdn/article/details/135291541)
+
++ [Halcon区域生长的几种算法regiongrowing/regiongrowing_mean/watersheds](https://blog.csdn.net/fallingleafgrief/article/details/135278655)
+
++ [【微服务核心】MyBatis Plus](https://blog.csdn.net/xxx1276063856/article/details/135276053)
+
