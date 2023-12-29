@@ -231,3 +231,13 @@
 
 + [互动式影片《和她一起整顿职场！》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3884959.html)
 
++ [《战锤40K：行商浪人》三号补丁上线 下个补丁明年1月推出](https://www.3dmgame.com/news/202312/3884965.html)
+
++ [卡牌游戏《弈仙牌》正式版定档2024年1月22日 免费游玩](https://www.3dmgame.com/news/202312/3884966.html)
+
++ [铃空游戏提前贺元旦 《昭和米国物语》新截图公布](https://www.3dmgame.com/news/202312/3884967.html)
+
++ [2023全球百大美女出炉：古力娜扎 真人版小美人鱼等上榜](https://www.3dmgame.com/news/202312/3884963.html)
+
++ [苹果Apple Watch重新上架：1月将彻底在美禁售](https://www.3dmgame.com/news/202312/3884964.html)
+

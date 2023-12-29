@@ -179,3 +179,7 @@
 
 + [CUDA驱动深度学习发展 - 技术全解与实战](https://blog.csdn.net/magicyangjay111/article/details/135285430)
 
++ [【问题系列】同时管理多版本node&方案](https://blog.csdn.net/weixin_36755535/article/details/135225588)
+
++ [【SpringBoot篇】详解Bean的管理（获取bean，bean的作用域，第三方bean）](https://blog.csdn.net/m0_72853403/article/details/135288863)
+

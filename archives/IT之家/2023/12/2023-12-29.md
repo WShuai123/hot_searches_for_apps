@@ -53,3 +53,9 @@
 
 + [国产高端工控系统发布：龙芯 3A5000 处理器，性能达到同类进口产品水平](https://m.ithome.com/html/742203.htm)
 
++ [消息称华为、北汽的“界牌”STELATO 样车已出炉，首款中大型纯电轿车明年上半年亮相](https://m.ithome.com/html/742330.htm)
+
++ [零跑 C10 下月开启预售：搭载高通骁龙 8295 车机芯片，LEAP3.0 六大技术同步首发](https://m.ithome.com/html/742261.htm)
+
++ [爱奇艺完成华为鸿蒙原生应用 Beta 版](https://m.ithome.com/html/742305.htm)
+
