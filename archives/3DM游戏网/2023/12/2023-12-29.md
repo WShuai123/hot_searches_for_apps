@@ -253,3 +253,7 @@
 
 + [传全新Surface明年春季发布 AI是核心卖点](https://www.3dmgame.com/news/202312/3884970.html)
 
++ [传苹果Vision Pro第二代采用OLEDoS 2027年面世](https://www.3dmgame.com/news/202312/3884975.html)
+
++ [《绝境盟约》曝海报 空难幸存者吃同伴遗体存活](https://www.3dmgame.com/news/202312/3884974.html)
+
