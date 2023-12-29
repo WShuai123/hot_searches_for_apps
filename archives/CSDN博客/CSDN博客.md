@@ -101,3 +101,17 @@
 
 + [uniapp 目录结构](https://blog.csdn.net/xiaowude_boke/article/details/135279282)
 
++ [【全栈小5】挥手告别2023，如期而至的2024，给大家分享我的一些小感受，2023也是AI百花齐放的一年](https://blog.csdn.net/lmy_520/article/details/135248570)
+
++ [Spring Boot整合 EasyExcel 实现复杂 Excel 表格的导入与导出功能](https://blog.csdn.net/weixin_65175398/article/details/135274075)
+
++ [【MySQL】数据库之高级SQL查询语句](https://blog.csdn.net/liu_xueyin/article/details/135252732)
+
++ [SpringMVC之获取请求参数和域对象共享数据](https://blog.csdn.net/m0_64074924/article/details/135178321)
+
++ [Halcon区域生长的几种算法regiongrowing/regiongrowing_mean/watersheds](https://blog.csdn.net/fallingleafgrief/article/details/135278655)
+
++ [带你正确认识开源软件](https://blog.csdn.net/u013129300/article/details/135232049)
+
++ [【微服务核心】MyBatis Plus](https://blog.csdn.net/xxx1276063856/article/details/135276053)
+

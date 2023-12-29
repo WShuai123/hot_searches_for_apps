@@ -27,3 +27,5 @@
 
 + [红旗：全新自主电动车实现百公里制动距离 29.68 米，刷新世界纪录](https://m.ithome.com/html/742283.htm)
 
++ [限购 1 台：京东 iPhone 15 系列至高立减 1100 元跨年大促](https://m.ithome.com/html/742386.htm)
+
