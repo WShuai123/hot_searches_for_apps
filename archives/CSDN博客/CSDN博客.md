@@ -183,3 +183,7 @@
 
 + [【SpringBoot篇】详解Bean的管理（获取bean，bean的作用域，第三方bean）](https://blog.csdn.net/m0_72853403/article/details/135288863)
 
++ [机器学习（二） -- 数据预处理](https://blog.csdn.net/zqx1473/article/details/135280575)
+
++ [深度学习在语义分割中的进展与应用](https://blog.csdn.net/gongdiwudu/article/details/135209229)
+

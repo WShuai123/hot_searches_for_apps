@@ -241,3 +241,7 @@
 
 + [苹果Apple Watch重新上架：1月将彻底在美禁售](https://www.3dmgame.com/news/202312/3884964.html)
 
++ [RTX 50有望明年底发布：开始放肆挤牙膏了！](https://www.3dmgame.com/news/202312/3884969.html)
+
++ [RTX4090各种被烧毁：海韵把16针电源线掰弯了90度](https://www.3dmgame.com/news/202312/3884968.html)
+

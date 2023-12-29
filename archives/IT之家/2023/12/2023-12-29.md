@@ -59,3 +59,7 @@
 
 + [爱奇艺完成华为鸿蒙原生应用 Beta 版](https://m.ithome.com/html/742305.htm)
 
++ [京东诉阿里巴巴“二选一”案一审胜诉，判决获赔 10 亿元](https://m.ithome.com/html/742434.htm)
+
++ [极速超 310km/h：博主实测小米超级电机 V8s“极限性能”，2025 年上车](https://m.ithome.com/html/742407.htm)
+
