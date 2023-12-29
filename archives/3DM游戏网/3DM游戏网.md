@@ -151,3 +151,25 @@
 
 + [DF评2023年移植最差的PC游戏 前三名都是EA游戏](https://www.3dmgame.com/news/202312/3884908.html)
 
++ [全新3D即时战斗卡牌手游《圣斗士星矢：重生2》 预约开启](https://www.3dmgame.com/news/202312/3884933.html)
+
++ [国行Switch开启元旦促销活动 部分商品低至7折](https://www.3dmgame.com/news/202312/3884931.html)
+
++ [《最终幻想7重生》总监迫不及待地想让玩家看到“艾丽丝的命运”](https://www.3dmgame.com/news/202312/3884932.html)
+
++ [Xbox使用AI生成图片宣传引大量艺术家批评](https://www.3dmgame.com/news/202312/3884930.html)
+
++ [《野狗子》将在2024年有更多展示：明年是重要的一年](https://www.3dmgame.com/news/202312/3884929.html)
+
++ [《寂静岭》制作人暗示2024年有《寂静岭2 重置版》消息](https://www.3dmgame.com/news/202312/3884926.html)
+
++ [金棕榈最佳影片《坠落的审判》定档 3月29日上映](https://www.3dmgame.com/news/202312/3884928.html)
+
++ [《Apex英雄》今年Steam玩家数量下降了近50% 游戏缺乏内容竞争激烈](https://www.3dmgame.com/news/202312/3884927.html)
+
++ [《最终幻想7：重生》萨菲罗斯戏份比原版多 玩家能更深入了解](https://www.3dmgame.com/news/202312/3884924.html)
+
++ [平台冒险游戏《Fezuki》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202312/3884923.html)
+
++ [暴雪开窍？《暗黑破坏神4》承诺不再立刻削弱强力玩法](https://www.3dmgame.com/news/202312/3884925.html)
+
