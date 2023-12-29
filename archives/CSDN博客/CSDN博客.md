@@ -155,3 +155,11 @@
 
 + [yolov5旋转目标检测-遥感图像检测-无人机旋转目标检测-附代码和原理](https://blog.csdn.net/ALiLiLiYa/article/details/135274751)
 
++ [大创项目推荐 深度学习YOLO抽烟行为检测 - python opencv](https://blog.csdn.net/laafeer/article/details/135273015)
+
++ [腾讯云服务器和轻量服务器选哪个好(各自的优势区别)](https://blog.csdn.net/fuwuqiba/article/details/135276871)
+
++ [大数据前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/Myx74270512/article/details/135274117)
+
++ [工业3D工程师们常说的3D Web轻量引擎HOOPS Commuicator是什么？](https://blog.csdn.net/Juvien_Huang/article/details/135263331)
+

@@ -179,3 +179,9 @@
 
 + [粉丝分享《赛博朋克2077》摄影截图 这画面太震撼](https://www.3dmgame.com/news/202312/3884934.html)
 
++ [制作人安田善巳确认《电锯甜心：重置版》将于2024年发布](https://www.3dmgame.com/news/202312/3884937.html)
+
++ [育碧吉祥物《疯狂兔子》动画电影试映片段泄露](https://www.3dmgame.com/news/202312/3884938.html)
+
++ [雷军：目标就是媲美保时捷特斯拉 小米汽车做到了](https://www.3dmgame.com/news/202312/3884939.html)
+
