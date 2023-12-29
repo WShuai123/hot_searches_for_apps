@@ -115,3 +115,9 @@
 
 + [韩国动作冒险游戏《星刃》推迟到2024年发行](https://www.3dmgame.com/news/202312/3884899.html)
 
++ [剧场版动画《高达SEED 自由》​发布全新预告](https://www.3dmgame.com/news/202312/3884907.html)
+
++ [双人合作银河恶魔城游戏《Anima Flux》明年上市](https://www.3dmgame.com/news/202312/3884905.html)
+
++ [动画《筋肉人完璧超人始祖編》将于2024年播出](https://www.3dmgame.com/news/202312/3884906.html)
+
