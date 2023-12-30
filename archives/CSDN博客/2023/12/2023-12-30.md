@@ -137,3 +137,7 @@
 
 + [2023年度总结：技术旅程的杨帆远航⛵](https://blog.csdn.net/weixin_43694096/article/details/135292111)
 
++ [从方程到预测：数学在深度学习中的作用](https://blog.csdn.net/gongdiwudu/article/details/135288695)
+
++ [Linux性能优化全景指南](https://blog.csdn.net/weixin_39757802/article/details/135284418)
+

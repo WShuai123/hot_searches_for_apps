@@ -41,3 +41,7 @@
 
 + [Google Workspace全域委派功能的关键安全问题剖析](https://www.freebuf.com/articles/network/387123.html)
 
++ [FreeBuf 周报 | R星又双叒遭非法“登陆”；理想汽车公布车祸视频](https://www.freebuf.com/news/388036.html)
+
++ [浅析Fastjson场景下Java Bcel字节码实践应用](https://www.freebuf.com/vuls/387479.html)
+
