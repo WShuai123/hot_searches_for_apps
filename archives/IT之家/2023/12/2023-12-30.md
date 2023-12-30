@@ -57,3 +57,5 @@
 
 + [AITO 问界 M5 / M7 城区 NCA 推送计划：春节前向订阅 ADS 2.0 高阶功能包智驾版车主陆续推送](https://m.ithome.com/html/742498.htm)
 
++ [全新现代索纳塔正式下线，北京现代加入“1200 万车企俱乐部”](https://m.ithome.com/html/742502.htm)
+

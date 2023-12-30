@@ -51,3 +51,41 @@
 
 + [dubinc / dub](https://github.com/dubinc/dub)
 
++ [jasonjmcghee / rem](https://github.com/jasonjmcghee/rem)
+
++ [midudev / porfolio.dev](https://github.com/midudev/porfolio.dev)
+
++ [commaai / openpilot](https://github.com/commaai/openpilot)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [radishes-music / radishes](https://github.com/radishes-music/radishes)
+
++ [stacksmashing / tamarin-c](https://github.com/stacksmashing/tamarin-c)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [midudev / esland-web](https://github.com/midudev/esland-web)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+
++ [KwaiKEG / KwaiAgents](https://github.com/KwaiKEG/KwaiAgents)
+
++ [alibaba-damo-academy / FunASR](https://github.com/alibaba-damo-academy/FunASR)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [twentyhq / twenty](https://github.com/twentyhq/twenty)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [iusztinpaul / hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
+
++ [build-trust / ockam](https://github.com/build-trust/ockam)
+
++ [Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [cypress-io / cypress](https://github.com/cypress-io/cypress)
+

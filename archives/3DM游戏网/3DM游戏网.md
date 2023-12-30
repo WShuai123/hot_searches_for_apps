@@ -191,3 +191,5 @@
 
 + [Falcom公布新年计划 包括《英雄传说》和神秘新作](https://www.3dmgame.com/news/202312/3885020.html)
 
++ [英伟达发布新显卡驱动 支持RTX 4090 D显卡](https://www.3dmgame.com/news/202312/3885022.html)
+

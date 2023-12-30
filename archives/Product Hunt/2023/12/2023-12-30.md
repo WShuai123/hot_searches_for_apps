@@ -125,3 +125,7 @@
 
 + [Impakt: AI Coach](https://www.producthunt.com/posts/impakt-ai-coach)
 
++ [Submitting](https://www.producthunt.com/posts/submitting)
+
++ [Customer Feedback & Product Roadmap](https://www.producthunt.com/posts/customer-feedback-product-roadmap)
+
