@@ -151,3 +151,7 @@
 
 + [《驱灵者 新伊甸幽灵》预告 2月13日发售](https://www.3dmgame.com/news/202312/3884997.html)
 
++ [《堡垒之夜-火箭竞速》新模式“死亡竞速”新细节泄露](https://www.3dmgame.com/news/202312/3885003.html)
+
++ [玩家自制作品《索尼克Overture》发布试玩版本](https://www.3dmgame.com/news/202312/3885002.html)
+

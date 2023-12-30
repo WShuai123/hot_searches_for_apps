@@ -153,3 +153,7 @@
 
 + [Vmware虚拟机搭建 K8S Jenkins Gitlab Harbor Docker 一键部署SpringCloud微服务](https://blog.csdn.net/u014741634/article/details/135228268)
 
++ [YOLOv8改进 | 主干篇 | EfficientNetV1均衡缩放网络改进特征提取层](https://blog.csdn.net/java1314777/article/details/135266618)
+
++ [Unix/Linux操作系统介绍](https://blog.csdn.net/qq_38342510/article/details/135258033)
+

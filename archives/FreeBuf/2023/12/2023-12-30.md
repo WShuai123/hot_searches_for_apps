@@ -47,3 +47,5 @@
 
 + [离线破解Kerberos中的DES密钥](https://www.freebuf.com/articles/network/387254.html)
 
++ [某后台管理系统加密参数逆向分析](https://www.freebuf.com/articles/web/388109.html)
+
