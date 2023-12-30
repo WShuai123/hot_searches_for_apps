@@ -161,3 +161,17 @@
 
 + [《星空》对话选项引玩家不满：选什么都一样](https://www.3dmgame.com/news/202312/3885006.html)
 
++ [《血污：夜之仪式》制作人将于2024年公布新作情报](https://www.3dmgame.com/news/202312/3885010.html)
+
++ [XGP 2023年内添加了价值近9000美元的游戏](https://www.3dmgame.com/news/202312/3885011.html)
+
++ [1月1日起将有这些国家标准实施：涉电动自行车电气安全](https://www.3dmgame.com/news/202312/3885012.html)
+
++ [《铁拳8》制作人谈无障碍选项：经过多年开发实现](https://www.3dmgame.com/news/202312/3885013.html)
+
++ [下一代微软Surface笔记本将是首台真正的AI电脑](https://www.3dmgame.com/news/202312/3885007.html)
+
++ [骚扰电话拒接！运营商“来电免打扰”服务用户破6亿！](https://www.3dmgame.com/news/202312/3885008.html)
+
++ [叙事游戏《我的胡子》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3885009.html)
+

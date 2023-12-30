@@ -99,3 +99,7 @@
 
 + [都这么久了 怎么还不来和我约会呀( －з)](http://www.acfun.cn/v/ac43380018)
 
++ [【中国网游史】“法外狂徒”300英雄，为何能坚持至今？](http://www.acfun.cn/v/ac43377693)
+
++ [【郭德纲】谎言坠子（Liar Dancer）](http://www.acfun.cn/v/ac43377922)
+
