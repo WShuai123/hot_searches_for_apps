@@ -25,3 +25,7 @@
 
 + [电影《奥本海默》今日全平台上线：付费后可在 48 小时内观看](https://m.ithome.com/html/742584.htm)
 
++ [Wi-Fi 7 的新侧重点：降低延迟、提高稳定性](https://m.ithome.com/html/742573.htm)
+
++ [2023 小米百万美金技术大奖 9 个重点项目公布，含澎湃 OS、CTB 倒置电池等](https://m.ithome.com/html/742607.htm)
+
