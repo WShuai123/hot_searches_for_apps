@@ -103,3 +103,7 @@
 
 + [【郭德纲】谎言坠子（Liar Dancer）](http://www.acfun.cn/v/ac43377922)
 
++ [[抽奖]男人嘛，要学会腾出一只手(暖雪X思路)](http://www.acfun.cn/v/ac43378686)
+
++ [音乐人的事怎么能叫抄呢（第76期）](http://www.acfun.cn/v/ac43382458)
+

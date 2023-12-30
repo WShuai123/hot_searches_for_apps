@@ -175,3 +175,13 @@
 
 + [叙事游戏《我的胡子》Steam页面上线 明年发售](https://www.3dmgame.com/news/202312/3885009.html)
 
++ [微软AI聊天机器人Copilot应用现已登陆iOS](https://www.3dmgame.com/news/202312/3885018.html)
+
++ [Steam客服工作忙 每天收到五十多万条退款申请](https://www.3dmgame.com/news/202312/3885017.html)
+
++ [交易模拟游戏《星际典当行》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202312/3885016.html)
+
++ [《疯狂的麦克斯：狂暴女神》剧本确认：游戏是正传](https://www.3dmgame.com/news/202312/3885015.html)
+
++ [内部人士爆料《哥斯拉大战金刚2》上映时间情报](https://www.3dmgame.com/news/202312/3885014.html)
+
