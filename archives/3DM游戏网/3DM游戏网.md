@@ -157,3 +157,7 @@
 
 + [大众安徽正式投产！将生产纯电车型Cupra出口欧洲](https://www.3dmgame.com/news/202312/3885004.html)
 
++ [《电锯人》获安古兰国际漫画节最佳漫画奖提名](https://www.3dmgame.com/news/202312/3885005.html)
+
++ [《星空》对话选项引玩家不满：选什么都一样](https://www.3dmgame.com/news/202312/3885006.html)
+

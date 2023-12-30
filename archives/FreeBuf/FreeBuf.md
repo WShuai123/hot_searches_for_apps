@@ -49,3 +49,5 @@
 
 + [某后台管理系统加密参数逆向分析](https://www.freebuf.com/articles/web/388109.html)
 
++ [如何使用CVE-Collector快速收集最新的CVE漏洞信息](https://www.freebuf.com/sectool/385925.html)
+
