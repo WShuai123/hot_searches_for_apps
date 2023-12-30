@@ -187,3 +187,11 @@
 
 + [再见2023，你好2024（附新年烟花python实现）](https://blog.csdn.net/weixin_43734080/article/details/135291044)
 
++ [SpringMVC之视图和RESTful](https://blog.csdn.net/m0_64074924/article/details/135178340)
+
++ [2023 年中国高校大数据挑战赛赛题B DNA 存储中的序列聚类与比对-解析与参考代码](https://blog.csdn.net/lichensun/article/details/135293378)
+
++ [创建VLAN及VLAN间通信](https://blog.csdn.net/weixin_63747428/article/details/135291669)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/135298180)
+
