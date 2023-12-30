@@ -119,3 +119,9 @@
 
 + [sikey.io](https://www.producthunt.com/posts/sikey-io)
 
++ [Astra Health AI](https://www.producthunt.com/posts/astra-health-ai)
+
++ [Swiftale](https://www.producthunt.com/posts/swiftale)
+
++ [Impakt: AI Coach](https://www.producthunt.com/posts/impakt-ai-coach)
+
