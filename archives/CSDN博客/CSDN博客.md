@@ -183,3 +183,7 @@
 
 + [免费获取GPT-4的五种工具](https://blog.csdn.net/weixin_47059371/article/details/135262090)
 
++ [华为Could API人工智能系列——意图理解](https://blog.csdn.net/feng8403000/article/details/135299431)
+
++ [再见2023，你好2024（附新年烟花python实现）](https://blog.csdn.net/weixin_43734080/article/details/135291044)
+

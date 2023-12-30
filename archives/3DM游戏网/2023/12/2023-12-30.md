@@ -193,3 +193,13 @@
 
 + [英伟达发布新显卡驱动 支持RTX 4090 D显卡](https://www.3dmgame.com/news/202312/3885022.html)
 
++ [RTX 40 SUPER系列显卡完整规格曝光 4080Super将配备23Gbps的显存](https://www.3dmgame.com/news/202312/3885025.html)
+
++ [《王者荣耀：荣耀之章碎月篇》定档2024年1月 每周六更新](https://www.3dmgame.com/news/202312/3885026.html)
+
++ [曝马斯克明年1月访问印度 将宣布成立特斯拉印度公司](https://www.3dmgame.com/news/202312/3885027.html)
+
++ [《奥本海默》今日上线国内视频平台 采用单片付费制](https://www.3dmgame.com/news/202312/3885024.html)
+
++ [Team Spirit是今年电竞比赛奖金最多的队伍](https://www.3dmgame.com/news/202312/3885023.html)
+

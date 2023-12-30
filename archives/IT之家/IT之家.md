@@ -61,3 +61,5 @@
 
 + [上海前滩太古里华为旗舰店开业：设计灵感来自“种子生长”](https://m.ithome.com/html/742582.htm)
 
++ [央行同意支付宝中国变更为无实际控制人](https://m.ithome.com/html/742600.htm)
+
