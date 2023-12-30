@@ -143,3 +143,7 @@
 
 + [【SpringCloud】从实际业务问题出发去分析Eureka-Server端源码](https://blog.csdn.net/weixin_57535055/article/details/135159475)
 
++ [{MySQL} 数据库约束& 表的关系& 新增&&删除& 修改& 查询](https://blog.csdn.net/weixin_69160215/article/details/135298107)
+
++ [Springcloud Alibaba 使用Canal将MySql数据实时同步到Elasticsearch](https://blog.csdn.net/qq_43649937/article/details/135297752)
+

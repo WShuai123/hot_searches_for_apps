@@ -129,3 +129,15 @@
 
 + [2024年已有40款游戏确认首发登陆Game Pass](https://www.3dmgame.com/news/202312/3884985.html)
 
++ [考迪克离职 前《守望先锋》社区管理终于发声痛批](https://www.3dmgame.com/news/202312/3884995.html)
+
++ [2.5D格斗新作《枕头大战》将于2024年春季发售](https://www.3dmgame.com/news/202312/3884996.html)
+
++ [《如龙8》“江湖宝贝”细节公布 超长试玩演示放出](https://www.3dmgame.com/news/202312/3884994.html)
+
++ [索尼统计格斗游戏内购营收：1/4收入为通行证](https://www.3dmgame.com/news/202312/3884993.html)
+
++ [NCSoft注册新域名 或为索尼《地平线》网游做准备](https://www.3dmgame.com/news/202312/3884992.html)
+
++ [中国风开放世界动作RPG《烽火与炊烟》公布 2024年Q4发售](https://www.3dmgame.com/news/202312/3884991.html)
+

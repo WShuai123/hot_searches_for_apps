@@ -31,3 +31,7 @@
 
 + [小米汽车麋鹿测试视频公布，时速 82km](https://m.ithome.com/html/742503.htm)
 
++ [京东国际自营：iPad Pro 2021 款 11 英寸 256G 苹果认证翻新款 4639 元大促](https://m.ithome.com/html/742412.htm)
+
++ [市值仅 3000 万美元，法拉第未来收到纳斯达克退市通知](https://m.ithome.com/html/742509.htm)
+
