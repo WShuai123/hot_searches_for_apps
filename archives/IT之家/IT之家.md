@@ -29,3 +29,5 @@
 
 + [限购 1 台：京东 iPhone 15 系列至高立减 1100 元跨年大促](https://m.ithome.com/html/742386.htm)
 
++ [小米汽车麋鹿测试视频公布，时速 82km](https://m.ithome.com/html/742503.htm)
+

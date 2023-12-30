@@ -117,3 +117,15 @@
 
 + [《R-Type 战略 I • II 宇宙》将于2024年秋季推出](https://www.3dmgame.com/news/202312/3884981.html)
 
++ [文字向探案解谜冒险游戏《锦鱼图》Steam页面 1月上线](https://www.3dmgame.com/news/202312/3884988.html)
+
++ [《漫威金刚狼》泄露代码：合作模式以及预购奖励](https://www.3dmgame.com/news/202312/3884989.html)
+
++ [动作RPG《传奇重装步兵：阿拉克涅的考验》Steam页面 1月12日发售](https://www.3dmgame.com/news/202312/3884990.html)
+
++ [凭借辉煌的2023 任天堂股价在年底创下历史新高](https://www.3dmgame.com/news/202312/3884986.html)
+
++ [如龙工作室总监：2024年还将有一个重大宣布](https://www.3dmgame.com/news/202312/3884987.html)
+
++ [2024年已有40款游戏确认首发登陆Game Pass](https://www.3dmgame.com/news/202312/3884985.html)
+

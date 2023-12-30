@@ -45,3 +45,5 @@
 
 + [浅析Fastjson场景下Java Bcel字节码实践应用](https://www.freebuf.com/vuls/387479.html)
 
++ [离线破解Kerberos中的DES密钥](https://www.freebuf.com/articles/network/387254.html)
+
