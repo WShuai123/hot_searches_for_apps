@@ -35,3 +35,9 @@
 
 + [市值仅 3000 万美元，法拉第未来收到纳斯达克退市通知](https://m.ithome.com/html/742509.htm)
 
++ [iQOO Neo9 / Pro 手机今日首销：骁龙 8 Gen 2 / 天玑 9300 处理器，2299 元起](https://m.ithome.com/html/742504.htm)
+
++ [京东 2023 年度账单出炉，看看你花了多少钱](https://m.ithome.com/html/742379.htm)
+
++ [动视暴雪 CEO 鲍比・科蒂克今日卸任，工作由微软游戏业务首席执行官菲尔・斯宾塞接管](https://m.ithome.com/html/742428.htm)
+

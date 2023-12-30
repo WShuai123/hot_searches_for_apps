@@ -147,3 +147,9 @@
 
 + [Springcloud Alibaba 使用Canal将MySql数据实时同步到Elasticsearch](https://blog.csdn.net/qq_43649937/article/details/135297752)
 
++ [GaussDB数据库中的同义词SYNONYM](https://blog.csdn.net/GaussDB/article/details/135282622)
+
++ [竞赛保研 基于大数据的时间序列股价预测分析与可视化 - lstm](https://blog.csdn.net/iuerfee/article/details/135273624)
+
++ [Vmware虚拟机搭建 K8S Jenkins Gitlab Harbor Docker 一键部署SpringCloud微服务](https://blog.csdn.net/u014741634/article/details/135228268)
+

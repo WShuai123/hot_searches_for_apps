@@ -141,3 +141,13 @@
 
 + [中国风开放世界动作RPG《烽火与炊烟》公布 2024年Q4发售](https://www.3dmgame.com/news/202312/3884991.html)
 
++ [苹果Vision Pro 2首曝：屏幕将升级为RGB OLEDoS](https://www.3dmgame.com/news/202312/3885001.html)
+
++ [现实走路即可升级 《WalkScape》1月进入封测阶段](https://www.3dmgame.com/news/202312/3884998.html)
+
++ [微软去年为《班卓熊大冒险》新作项目开绿灯](https://www.3dmgame.com/news/202312/3885000.html)
+
++ [最新“极地”号破冰科考船亮相 搭载无人机、无人船等设备](https://www.3dmgame.com/news/202312/3884999.html)
+
++ [《驱灵者 新伊甸幽灵》预告 2月13日发售](https://www.3dmgame.com/news/202312/3884997.html)
+
