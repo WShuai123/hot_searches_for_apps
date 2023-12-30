@@ -187,3 +187,7 @@
 
 + [万代南梦宫制作人宣布《皇牌空战》新作开发中](https://www.3dmgame.com/news/202312/3885019.html)
 
++ [欧盟：明年起USB-C将成当地电子设备通用标准](https://www.3dmgame.com/news/202312/3885021.html)
+
++ [Falcom公布新年计划 包括《英雄传说》和神秘新作](https://www.3dmgame.com/news/202312/3885020.html)
+
