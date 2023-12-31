@@ -149,3 +149,11 @@
 
 + [OpenAI年化收入究竟几何？据称已超过16亿美元](https://www.3dmgame.com/news/202312/3885051.html)
 
++ [《龙之信条2》女NPC乌利卡和怪物琥珀焰介绍](https://www.3dmgame.com/news/202312/3885054.html)
+
++ [《DOTA2》AR战队官宣新阵容 Faith_bian回归](https://www.3dmgame.com/news/202312/3885055.html)
+
++ [国风开放世界动作RPG《烽火与炊烟》官博已上线](https://www.3dmgame.com/news/202312/3885053.html)
+
++ [《命运石之门》总监浅田诚：一个令人吃惊的续作计划2024年发售](https://www.3dmgame.com/news/202312/3885052.html)
+

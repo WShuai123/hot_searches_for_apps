@@ -221,3 +221,11 @@
 
 + [脸猫-AI绘画 ,AI写真,智能换脸换装特效视频一键制作](https://itunes.apple.com/cn/app/id1617204889?mt=8)
 
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+
++ [快影-创作有趣的视频](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [千面秀-AI换脸写真相机&智能变装软件](https://itunes.apple.com/cn/app/id6443576867?mt=8)
+
++ [方特旅游](https://itunes.apple.com/cn/app/id1089447593?mt=8)
+
