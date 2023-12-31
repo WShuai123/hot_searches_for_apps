@@ -63,3 +63,7 @@
 
 + [比亚迪弗迪科技首台车载冰箱下线：30 分钟可以喝到冰水](https://m.ithome.com/html/742651.htm)
 
++ [印度法院下令释放 vivo 在印公司高管](https://m.ithome.com/html/742646.htm)
+
++ [百度地图车道级导航覆盖超 100 座城市，官方称明年覆盖全国（附完整名单）](https://m.ithome.com/html/742633.htm)
+
