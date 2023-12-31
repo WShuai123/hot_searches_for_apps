@@ -25,3 +25,7 @@
 
 + [印度法院下令释放 vivo 在印公司高管](https://m.ithome.com/html/742646.htm)
 
++ [QQ 音乐臻品耳机开启预售：双重 ANC 主动降噪、单次续航 5 小时，499 元](https://m.ithome.com/html/742657.htm)
+
++ [歪头杀：Linux 开发者提出 22° 旋转屏幕显示方案，称其最适合软件开发](https://m.ithome.com/html/742683.htm)
+

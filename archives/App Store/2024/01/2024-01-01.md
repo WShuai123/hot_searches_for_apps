@@ -201,3 +201,7 @@
 
 + [方特旅游](https://itunes.apple.com/cn/app/id1089447593?mt=8)
 
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [秒剪 - 朋友圈短片轻松做](https://itunes.apple.com/cn/app/id1530922601?mt=8)
+

@@ -101,3 +101,5 @@
 
 + [《血污：夜之仪式》制作人将于2024年公布新作情报](https://www.3dmgame.com/news/202312/3885010.html)
 
++ [Epic喜加一：《幽灵行者》免费领](https://www.3dmgame.com/news/202401/3885060.html)
+
