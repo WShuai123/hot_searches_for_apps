@@ -205,3 +205,7 @@
 
 + [秒剪 - 朋友圈短片轻松做](https://itunes.apple.com/cn/app/id1530922601?mt=8)
 
++ [桌面时钟 - 翻页时钟全屏时间显示悬浮时钟](https://itunes.apple.com/cn/app/id1525347157?mt=8)
+
++ [地震预警](https://itunes.apple.com/cn/app/id713947342?mt=8)
+
