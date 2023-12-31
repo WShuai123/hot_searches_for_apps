@@ -35,3 +35,7 @@
 
 + [2023 王者世冠 KIC 总决赛：AG 超玩会 4-2 战胜北京 WB，时隔 1477 天再次夺冠](https://m.ithome.com/html/742616.htm)
 
++ [Epic 喜加一：《黑道圣徒：重启版》免费送，国区原价 110.99 元](https://m.ithome.com/html/742623.htm)
+
++ [由于识别陌生人方面能力出众，巴西一监狱用大鹅看犯人](https://m.ithome.com/html/742601.htm)
+

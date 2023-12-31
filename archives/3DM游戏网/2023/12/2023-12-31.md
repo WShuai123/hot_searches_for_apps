@@ -123,3 +123,9 @@
 
 + [《改装机甲大战》评价褒贬不一 厂商发布更新档](https://www.3dmgame.com/news/202312/3885038.html)
 
++ [PSVR2作品《C-Smash VRS》将于1月迎来大更新](https://www.3dmgame.com/news/202312/3885041.html)
+
++ [荒诞风格肉鸽幸存者FPS《吸血鬼猎人》发布更新](https://www.3dmgame.com/news/202312/3885040.html)
+
++ [双摇杆肉鸽射击游戏《进击的机甲球》1月底发售](https://www.3dmgame.com/news/202312/3885039.html)
+

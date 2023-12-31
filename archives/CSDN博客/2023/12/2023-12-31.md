@@ -149,3 +149,13 @@
 
 + [如何使用Docker将.Net6项目部署到Linux服务器（三）](https://blog.csdn.net/ckk_0821/article/details/135199171)
 
++ [互联网加竞赛 基于Django与深度学习的股票预测系统](https://blog.csdn.net/m0_43533/article/details/135305472)
+
++ [SpringMVC之HttpMessageConverter](https://blog.csdn.net/m0_64074924/article/details/135178376)
+
++ [服务器运行状况监控工具](https://blog.csdn.net/ITmoster/article/details/135289993)
+
++ [一文通透Text Embedding模型：从text2vec、openai-ada-002到m3e、bge](https://blog.csdn.net/v_JULY_v/article/details/135311471)
+
++ [子网掩码与IP段计算](https://blog.csdn.net/weixin_42209881/article/details/135261205)
+
