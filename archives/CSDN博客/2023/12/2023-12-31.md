@@ -141,3 +141,11 @@
 
 + [2023十大编程语言及未来展望](https://blog.csdn.net/apr15/article/details/135307241)
 
++ [【AI导师】利用Coding Agent完成AIGC编程](https://blog.csdn.net/m0_73589720/article/details/135300578)
+
++ [Vmware虚拟机搭建 K8S ingress Jenkins Gitlab Harbor Docker 一键部署SpringCloud微服务](https://blog.csdn.net/u014741634/article/details/135228268)
+
++ [k8s的陈述式资源管理](https://blog.csdn.net/m0_75209491/article/details/135284244)
+
++ [如何使用Docker将.Net6项目部署到Linux服务器（三）](https://blog.csdn.net/ckk_0821/article/details/135199171)
+
