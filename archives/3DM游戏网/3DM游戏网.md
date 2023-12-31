@@ -143,3 +143,5 @@
 
 + [2023年全球著名电竞城市排名出炉：上海排名第三](https://www.3dmgame.com/news/202312/3885046.html)
 
++ [《赛博朋克2077》MOD修复游戏中的光追效果](https://www.3dmgame.com/news/202312/3885049.html)
+
