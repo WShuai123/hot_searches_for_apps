@@ -53,3 +53,41 @@
 
 + [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos)
+
++ [successfulstudy / promptoftheyear](https://github.com/successfulstudy/promptoftheyear)
+
++ [flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot)
+
++ [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [krishnaik06 / Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
+
++ [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [DrKLO / Telegram](https://github.com/DrKLO/Telegram)
+
++ [safak / next14-tutorial](https://github.com/safak/next14-tutorial)
+
++ [anasfik / flutter-spy](https://github.com/anasfik/flutter-spy)
+
++ [Tongji-KGLLM / RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [atomicals / atomicals-js](https://github.com/atomicals/atomicals-js)
+
++ [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
++ [rails / rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase)
+
++ [nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+

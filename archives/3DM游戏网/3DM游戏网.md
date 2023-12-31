@@ -147,3 +147,5 @@
 
 + [城市建设游戏新作《企鹅联合王国》2024年发售](https://www.3dmgame.com/news/202312/3885050.html)
 
++ [OpenAI年化收入究竟几何？据称已超过16亿美元](https://www.3dmgame.com/news/202312/3885051.html)
+
