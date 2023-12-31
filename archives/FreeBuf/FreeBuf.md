@@ -43,3 +43,5 @@
 
 + [通过Microsoft Access“链接表”功能执行NTLM强制身份验证攻击技术分析](https://www.freebuf.com/articles/network/387121.html)
 
++ [“游蛇”黑产团伙针对财务人员及电商客服的新一轮攻击活动分析](https://www.freebuf.com/articles/network/383772.html)
+

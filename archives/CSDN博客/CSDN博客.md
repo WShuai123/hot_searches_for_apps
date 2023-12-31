@@ -137,3 +137,7 @@
 
 + [k8s 架构](https://blog.csdn.net/huaiyingdetective/article/details/135281914)
 
++ [一文通透文本embedding表示：从m3e、bge到..](https://blog.csdn.net/v_JULY_v/article/details/135311471)
+
++ [2023十大编程语言及未来展望](https://blog.csdn.net/apr15/article/details/135307241)
+

@@ -33,3 +33,5 @@
 
 + [哈弗全新一代 H9 官图首曝：硬派 SUV 车型，国内发布日期未定 / 明年登陆东欧](https://m.ithome.com/html/742574.htm)
 
++ [2023 王者世冠 KIC 总决赛：AG 超玩会 4-2 战胜北京 WB，时隔 1477 天再次夺冠](https://m.ithome.com/html/742616.htm)
+

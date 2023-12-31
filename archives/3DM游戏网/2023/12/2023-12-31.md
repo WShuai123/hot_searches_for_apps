@@ -109,3 +109,15 @@
 
 + [Epic喜加一：《黑道圣徒：重启版》免费领取](https://www.3dmgame.com/news/202312/3885028.html)
 
++ [《守望先锋2》前开发者：早在发售前就料到会差评轰炸](https://www.3dmgame.com/news/202312/3885037.html)
+
++ [《年会不能停》豆瓣开分8.0 大厂员工：看完很有感触](https://www.3dmgame.com/news/202312/3885036.html)
+
++ [研究表明人类可能在31000年前就已经拥有远程武器](https://www.3dmgame.com/news/202312/3885035.html)
+
++ [《死侍3》曝光新剧照 2024年7月26日北美上映](https://www.3dmgame.com/news/202312/3885034.html)
+
++ [《碧蓝幻想：Relink》现已进厂压盘 体验版1月上线](https://www.3dmgame.com/news/202312/3885033.html)
+
++ [Epic下批免费游戏泄露 有《漫威银河护卫队》《瘟疫传说》](https://www.3dmgame.com/news/202312/3885032.html)
+
