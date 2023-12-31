@@ -45,3 +45,5 @@
 
 + [“游蛇”黑产团伙针对财务人员及电商客服的新一轮攻击活动分析](https://www.freebuf.com/articles/network/383772.html)
 
++ [UTG-Q-003：微软应用商店7ZIP供应链投毒事件始末](https://www.freebuf.com/articles/paper/386374.html)
+
