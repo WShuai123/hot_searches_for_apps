@@ -133,3 +133,5 @@
 
 + [《费卢杰六日》抢先体验版更新 加入三个新任☒](https://www.3dmgame.com/news/202312/3885043.html)
 
++ [《勒芒终极版》公布Vanwall Vandervell 680截图](https://www.3dmgame.com/news/202312/3885044.html)
+

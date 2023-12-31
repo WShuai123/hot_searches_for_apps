@@ -41,3 +41,5 @@
 
 + [小米电视 A50 / A55 / A65 / A70 / A75 今日首销：4K 全面屏，到手价 1549 元起](https://m.ithome.com/html/742627.htm)
 
++ [问界 M9 车型单日大定破 2000 台，售 46.98 万元起](https://m.ithome.com/html/742621.htm)
+

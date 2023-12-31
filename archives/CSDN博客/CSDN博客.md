@@ -175,3 +175,11 @@
 
 + [Spring Data Redis对象缓存序列化问题](https://blog.csdn.net/qq_28336351/article/details/135311507)
 
++ [年终回顾与展望：CSDN成就之路，2023年AI浪潮展望及2024 Flag](https://blog.csdn.net/weixin_37813152/article/details/135245797)
+
++ [大创项目推荐 深度学习二维码识别](https://blog.csdn.net/laafeer/article/details/135306831)
+
++ [【网络奇遇记】揭秘计算机网络的性能指标：时延带宽积|往返时间|利用率|丢包率](https://blog.csdn.net/2301_80026901/article/details/135314609)
+
++ [Halcon纹理分析texture_laws/trans_from_rgb](https://blog.csdn.net/fallingleafgrief/article/details/135308792)
+

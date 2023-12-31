@@ -47,3 +47,5 @@
 
 + [UTG-Q-003：微软应用商店7ZIP供应链投毒事件始末](https://www.freebuf.com/articles/paper/386374.html)
 
++ [NetworkAssessment：一款针对pcap文件的网络安全审计工具](https://www.freebuf.com/sectool/385922.html)
+
