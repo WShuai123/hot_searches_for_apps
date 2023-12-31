@@ -167,3 +167,11 @@
 
 + [【C#与Redis】--高级主题--Redis 哨兵](https://blog.csdn.net/gangzhucoll/article/details/135310791)
 
++ [AI时代Python量化交易实战：ChatGPT让量化交易插上翅膀](https://blog.csdn.net/m0_68662723/article/details/135313409)
+
++ [神经网络中的分位数回归和分位数损失](https://blog.csdn.net/m0_46510245/article/details/135313454)
+
++ [YOLOv8改进有效系列目录 | 包含卷积、主干、检测头、注意力机制、Neck上百种创新机制](https://blog.csdn.net/java1314777/article/details/135309007)
+
++ [Spring Data Redis对象缓存序列化问题](https://blog.csdn.net/qq_28336351/article/details/135311507)
+
