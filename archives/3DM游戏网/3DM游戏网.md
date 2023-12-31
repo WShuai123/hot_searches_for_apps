@@ -137,3 +137,9 @@
 
 + [《终极钓鱼模拟器》新DLC 前往佛罗里达玩海钓](https://www.3dmgame.com/news/202312/3885045.html)
 
++ [降质版体验 《传送门64》自制免费试玩版开放下载](https://www.3dmgame.com/news/202312/3885048.html)
+
++ [VR游戏《亡灵游侠：解脱》针对Quest 3发布更新](https://www.3dmgame.com/news/202312/3885047.html)
+
++ [2023年全球著名电竞城市排名出炉：上海排名第三](https://www.3dmgame.com/news/202312/3885046.html)
+

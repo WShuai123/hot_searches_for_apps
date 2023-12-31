@@ -43,3 +43,7 @@
 
 + [问界 M9 车型单日大定破 2000 台，售 46.98 万元起](https://m.ithome.com/html/742621.htm)
 
++ [联想预热新款拯救者游戏本：可选 2TB SSD](https://m.ithome.com/html/742589.htm)
+
++ [工信部通报 2022 年度新能源汽车监督检查结果，7 家车企存在生产一致性问题](https://m.ithome.com/html/742626.htm)
+

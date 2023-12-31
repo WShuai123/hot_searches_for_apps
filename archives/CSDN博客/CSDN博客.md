@@ -185,3 +185,11 @@
 
 + [Mysql 容易忘的 sql 指令总结](https://blog.csdn.net/qq_58417838/article/details/135296118)
 
++ [机器学习——主成分分析（PCA）](https://blog.csdn.net/linzixi0220/article/details/135118675)
+
++ [Pytorch整体框架学习](https://blog.csdn.net/Star__01/article/details/135311138)
+
++ [pygame学习(一)——pygame库的导包、初始化、窗口的设置、打印文字](https://blog.csdn.net/weixin_53197693/article/details/135297777)
+
++ [FPGA实现IIC接口（1）-EEPROM芯片读取数据](https://blog.csdn.net/qq_45742083/article/details/135307355)
+
