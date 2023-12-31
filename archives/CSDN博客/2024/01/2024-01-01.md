@@ -127,3 +127,5 @@
 
 + [半导体行业-SECS/GEM协议,C#编写secs-gem 所需SxFy](https://blog.csdn.net/semij/article/details/135284066)
 
++ [TCP/IP的网络层（即IP层）之IP地址和网络掩码，在视频监控系统中的配置和应用](https://blog.csdn.net/weixin_70208651/article/details/135300140)
+
