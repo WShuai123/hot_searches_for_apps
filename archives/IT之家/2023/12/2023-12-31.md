@@ -53,3 +53,5 @@
 
 + [拥有 10²⁸种变化的黑白棋，被超算破解了](https://m.ithome.com/html/742592.htm)
 
++ [比亚迪仰望 U6 轿车实车曝光，展示“家传技艺”原地掉头](https://m.ithome.com/html/742687.htm)
+

@@ -145,3 +145,5 @@
 
 + [《赛博朋克2077》MOD修复游戏中的光追效果](https://www.3dmgame.com/news/202312/3885049.html)
 
++ [城市建设游戏新作《企鹅联合王国》2024年发售](https://www.3dmgame.com/news/202312/3885050.html)
+
