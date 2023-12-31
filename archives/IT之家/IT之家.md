@@ -29,3 +29,7 @@
 
 + [2023 小米百万美金技术大奖 9 个重点项目公布，含澎湃 OS、CTB 倒置电池等](https://m.ithome.com/html/742607.htm)
 
++ [欧盟：明年起 USB-C 将成当地电子设备通用标准，2026 年适用于笔记本电脑](https://m.ithome.com/html/742585.htm)
+
++ [哈弗全新一代 H9 官图首曝：硬派 SUV 车型，国内发布日期未定 / 明年登陆东欧](https://m.ithome.com/html/742574.htm)
+

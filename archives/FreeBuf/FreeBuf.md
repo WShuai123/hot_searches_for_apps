@@ -41,3 +41,5 @@
 
 + [操作系统权限提升 | 系统错误配置-不安全注册表提权](https://www.freebuf.com/articles/network/387362.html)
 
++ [通过Microsoft Access“链接表”功能执行NTLM强制身份验证攻击技术分析](https://www.freebuf.com/articles/network/387121.html)
+

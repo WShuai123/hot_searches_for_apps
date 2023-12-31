@@ -133,3 +133,7 @@
 
 + [【OpenCV】OpenCV 4.9.0 正式发布](https://blog.csdn.net/youcans/article/details/135301919)
 
++ [大数据前馈神经网络解密：深入理解人工智能的基石](https://blog.csdn.net/Myx74270512/article/details/135274117)
+
++ [k8s 架构](https://blog.csdn.net/huaiyingdetective/article/details/135281914)
+
