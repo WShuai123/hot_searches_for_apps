@@ -115,3 +115,15 @@
 
 + [新年快乐！Xbox、PlayStation、CDPR等厂商新年贺图](https://www.3dmgame.com/news/202401/3885062.html)
 
++ [Nexon总裁：今年的目标制作世界玩家共同喜爱的游戏](https://www.3dmgame.com/news/202401/3885072.html)
+
++ [《星球大战：法外狂徒》剧情与玩法细节情报公布](https://www.3dmgame.com/news/202401/3885071.html)
+
++ [Unity引擎自制《上古卷轴2：匕首雨》1.0版本发布](https://www.3dmgame.com/news/202401/3885070.html)
+
++ [《竞猜☆答案在一年后》登陆Switch 高难度解谜游戏新作](https://www.3dmgame.com/news/202401/3885069.html)
+
++ [RX 7600 XT新增16GB 128bit大显存版本：24日见](https://www.3dmgame.com/news/202401/3885068.html)
+
++ [玩家自制Unity《古墓丽影：黑暗天使》发布试玩版](https://www.3dmgame.com/news/202401/3885067.html)
+

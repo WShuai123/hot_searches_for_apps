@@ -45,3 +45,5 @@
 
 + [工业互联网安全研究：西门子 S7-300 PLC 注入攻击分析](https://www.freebuf.com/articles/ics-articles/387747.html)
 
++ [Unix这颗大雷，真的会让电子设备瘫痪吗？](https://www.freebuf.com/articles/388350.html)
+
