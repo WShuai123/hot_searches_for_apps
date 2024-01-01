@@ -135,3 +135,5 @@
 
 + [英伟达黄仁勋被评年度最佳CEO 身价暴增2100亿元](https://www.3dmgame.com/news/202401/3885074.html)
 
++ [《胜利女神》精美艺术沙画公开 一月更新多项内容](https://www.3dmgame.com/news/202401/3885077.html)
+
