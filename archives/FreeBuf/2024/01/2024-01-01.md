@@ -41,3 +41,5 @@
 
 + [Cytrox和Intellexa：从“破落户”到机构级间谍软件供应商](https://www.freebuf.com/articles/paper/388049.html)
 
++ [Konni组织以邮件安全检查手册为诱饵的窃密行动分析](https://www.freebuf.com/articles/paper/386932.html)
+
