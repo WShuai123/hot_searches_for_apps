@@ -217,3 +217,7 @@
 
 + [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
 
++ [快对-作业标准答案&错题本去手写&拍照翻译](https://itunes.apple.com/cn/app/id1330927814?mt=8)
+
++ [米家](https://itunes.apple.com/cn/app/id957323480?mt=8)
+

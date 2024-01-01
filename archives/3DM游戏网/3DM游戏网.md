@@ -167,3 +167,11 @@
 
 + [2023中国内地票房排行榜 《满江红》45亿获年度票房冠军](https://www.3dmgame.com/news/202401/3885092.html)
 
++ [《烽火与炊烟》已完成70% 开发只有夫妻两人](https://www.3dmgame.com/news/202401/3885096.html)
+
++ [《龙之信条2》巫师、斗士和魔弓手职业视频展示](https://www.3dmgame.com/news/202401/3885095.html)
+
++ [传闻HomePod将于2024年推出新款 配备LCD屏幕](https://www.3dmgame.com/news/202401/3885094.html)
+
++ [《巫师3》《暗黑4》上榜！MTC 2023年20大Xbox游戏](https://www.3dmgame.com/news/202401/3885093.html)
+

@@ -125,3 +125,5 @@
 
 + [REDACTED](https://www.producthunt.com/posts/redacted-a13fba6d-83cf-404c-af77-f62b63b18077)
 
++ [2023 Wrapped Code Stats from WakaTime](https://www.producthunt.com/posts/2023-wrapped-code-stats-from-wakatime)
+
