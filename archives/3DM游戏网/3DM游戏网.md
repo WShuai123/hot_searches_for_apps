@@ -127,3 +127,11 @@
 
 + [玩家自制Unity《古墓丽影：黑暗天使》发布试玩版](https://www.3dmgame.com/news/202401/3885067.html)
 
++ [传言称微软今年将对Xbox成就系统进行全面改革](https://www.3dmgame.com/news/202401/3885075.html)
+
++ [爆火益智解谜游戏《合成大西瓜》登陆手机平台](https://www.3dmgame.com/news/202401/3885076.html)
+
++ [又有新掌机上市？便携游戏机广告试镜通告曝光](https://www.3dmgame.com/news/202401/3885073.html)
+
++ [英伟达黄仁勋被评年度最佳CEO 身价暴增2100亿元](https://www.3dmgame.com/news/202401/3885074.html)
+

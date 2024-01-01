@@ -35,3 +35,5 @@
 
 + [售 46.98 万元起，问界 M9 今日单日大定达 3173 台](https://m.ithome.com/html/742717.htm)
 
++ [小鹏 X9 新车预售订单突破 30000 台，明晚上市 / 同月交付](https://m.ithome.com/html/742704.htm)
+
