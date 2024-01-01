@@ -51,3 +51,35 @@
 
 + [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
 
++ [dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [hack-ink / atomicalsir](https://github.com/hack-ink/atomicalsir)
+
++ [OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis)
+
++ [ossu / bioinformatics](https://github.com/ossu/bioinformatics)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [tyxsspa / AnyText](https://github.com/tyxsspa/AnyText)
+
++ [TheAlgorithms / C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [kgrzybek / modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
++ [Melledy / LunarCore](https://github.com/Melledy/LunarCore)
+
++ [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+

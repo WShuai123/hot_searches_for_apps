@@ -59,3 +59,5 @@
 
 + [比亚迪海豹系列车型限时至高优惠 7000 元，原价 16.68 万元起](https://m.ithome.com/html/742762.htm)
 
++ [憋大招？苹果 2023 年首度“停更”iPad](https://m.ithome.com/html/742787.htm)
+

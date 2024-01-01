@@ -179,3 +179,13 @@
 
 + [【Web API系列】使用异步剪贴板API（async clipboard）的图像的编程复制和粘贴](https://blog.csdn.net/weixin_47754149/article/details/135292757)
 
++ [在 Spring 中操作 Redis](https://blog.csdn.net/dream_ready/article/details/133182583)
+
++ [你逛过凌晨四点的校园吗？--大四毕业生的年终总结](https://blog.csdn.net/weixin_51390582/article/details/135290280)
+
++ [打破数据孤岛：ChatGPT如何打通金融大数据的任督二脉？](https://blog.csdn.net/qq_32682301/article/details/135325880)
+
++ [循环生成对抗网络（CycleGAN）](https://blog.csdn.net/gongdiwudu/article/details/135316462)
+
++ [Spring Boot应用整合Prometheus](https://blog.csdn.net/u010355502/article/details/135317477)
+
