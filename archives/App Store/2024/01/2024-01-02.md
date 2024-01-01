@@ -211,3 +211,5 @@
 
 + [仙梦奇缘-秘境戮仙](https://itunes.apple.com/cn/app/id6463383160?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+

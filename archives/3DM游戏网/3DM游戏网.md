@@ -111,3 +111,7 @@
 
 + [《龙之信条2》新年贺图 致敬龙与地下城](https://www.3dmgame.com/news/202401/3885102.html)
 
++ [鲤鱼王和暴鲤龙即将登陆《宝可梦：大集结》](https://www.3dmgame.com/news/202401/3885106.html)
+
++ [简单上头游戏《肉鸽地牢骑士》登陆Switch](https://www.3dmgame.com/news/202401/3885105.html)
+
