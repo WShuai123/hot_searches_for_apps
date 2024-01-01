@@ -141,3 +141,7 @@
 
 + [巨头对谈聊游戏 宮本茂X糸井重里谈话系列即将启动](https://www.3dmgame.com/news/202401/3885079.html)
 
++ [《铁拳8》色盲模式引争议 或存诱发癫痫风险](https://www.3dmgame.com/news/202401/3885080.html)
+
++ [《纸片马里奥：千年之门》重制版ESRB评级公布](https://www.3dmgame.com/news/202401/3885081.html)
+

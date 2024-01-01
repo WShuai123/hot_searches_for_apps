@@ -209,3 +209,9 @@
 
 + [地震预警](https://itunes.apple.com/cn/app/id713947342?mt=8)
 
++ [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
+
++ [河马剧场-全网热门短剧无限看](https://itunes.apple.com/cn/app/id6451242037?mt=8)
+
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+

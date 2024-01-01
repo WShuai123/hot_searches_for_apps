@@ -151,3 +151,11 @@
 
 + [【网络安全】网络隔离设备](https://blog.csdn.net/eidolon_foot/article/details/135308783)
 
++ [初始SpringBoot：详解特性和结构](https://blog.csdn.net/weixin_62951900/article/details/135304450)
+
++ [接收Kafka数据并消费至Hive表](https://blog.csdn.net/qq_31412425/article/details/135320470)
+
++ [【Linux】深挖进程地址空间](https://blog.csdn.net/AAlykk/article/details/135293599)
+
++ [nodejs+vue+ElementUi摄影预约服务网站系统91f0v](https://blog.csdn.net/dongyun2022/article/details/135306596)
+
