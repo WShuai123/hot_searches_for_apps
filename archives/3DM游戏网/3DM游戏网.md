@@ -103,3 +103,15 @@
 
 + [Epic喜加一：《幽灵行者》免费领](https://www.3dmgame.com/news/202401/3885060.html)
 
++ [小岛：2024年将同步开发《死亡搁浅2》和《OD》](https://www.3dmgame.com/news/202401/3885065.html)
+
++ [《狼与香辛料》全新作确定4月开播 系列15周年作品](https://www.3dmgame.com/news/202401/3885066.html)
+
++ [任天堂经典名作《地球冒险2》30周年纪念策划启动](https://www.3dmgame.com/news/202401/3885063.html)
+
++ [吉田直树新年寄语：正努力开发《最终幻想16》第二个DLC和PC版](https://www.3dmgame.com/news/202401/3885064.html)
+
++ [《匹诺曹的谎言》续作将采用虚幻5引擎](https://www.3dmgame.com/news/202401/3885061.html)
+
++ [新年快乐！Xbox、PlayStation、CDPR等厂商新年贺图](https://www.3dmgame.com/news/202401/3885062.html)
+
