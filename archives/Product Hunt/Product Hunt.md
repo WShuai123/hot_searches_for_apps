@@ -107,3 +107,21 @@
 
 + [Polar Habits](https://www.producthunt.com/posts/polar-habits-2)
 
++ [Avra Core](https://www.producthunt.com/posts/avra-core)
+
++ [socra | AI for Goals](https://www.producthunt.com/posts/socra-ai-for-goals)
+
++ [GPT Quiz Maker for Google Forms](https://www.producthunt.com/posts/gpt-quiz-maker-for-google-forms)
+
++ [Freelancer Stash](https://www.producthunt.com/posts/freelancer-stash)
+
++ [Heydai](https://www.producthunt.com/posts/heydai)
+
++ [Habit Tracker, Simple Goal App](https://www.producthunt.com/posts/habit-tracker-simple-goal-app)
+
++ [FibonacciKu](https://www.producthunt.com/posts/fibonacciku)
+
++ [Legalify ADS](https://www.producthunt.com/posts/legalify-ads)
+
++ [REDACTED](https://www.producthunt.com/posts/redacted-a13fba6d-83cf-404c-af77-f62b63b18077)
+

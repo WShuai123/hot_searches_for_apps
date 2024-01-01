@@ -45,3 +45,7 @@
 
 + [腾讯《元梦之星》官方宣布严打外挂，作弊将封号 10 年](https://m.ithome.com/html/742700.htm)
 
++ [开源鸿蒙 OpenHarmony 4.1 Beta1 发布，开始提供首批 API 11 接口](https://m.ithome.com/html/742726.htm)
+
++ [三星 Galaxy S24 系列手机即将到来，消息称 2024 Unpacked 新品发布会 1 月 17 日举行](https://m.ithome.com/html/742725.htm)
+

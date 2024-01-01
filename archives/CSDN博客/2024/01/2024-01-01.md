@@ -159,3 +159,11 @@
 
 + [nodejs+vue+ElementUi摄影预约服务网站系统91f0v](https://blog.csdn.net/dongyun2022/article/details/135306596)
 
++ [【LLM-RAG】知识库问答 | 检索 | embedding](https://blog.csdn.net/qq_35812205/article/details/132392276)
+
++ [【电路笔记】-电容分压器](https://blog.csdn.net/wujuxKkoolerter/article/details/135322430)
+
++ [linux的页缓存page cache](https://blog.csdn.net/zlpzlpzyd/article/details/135317588)
+
++ [【软件工程】走进敏捷开发：灵活、协作、迭代的软件工艺之旅](https://blog.csdn.net/AliceNo/article/details/135315165)
+
