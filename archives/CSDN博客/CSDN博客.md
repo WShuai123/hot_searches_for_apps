@@ -127,3 +127,11 @@
 
 + [Hbase 的三个应用](https://blog.csdn.net/bluedraam_pp/article/details/135317919)
 
++ [【软件工程】走进敏捷开发：灵活、协作、迭代的软件工艺之旅](https://blog.csdn.net/AliceNo/article/details/135315165)
+
++ [FPGA实现IIC接口（1）-EEPROM芯片读取数据](https://blog.csdn.net/qq_45742083/article/details/135307355)
+
++ [【privateGPT】使用privateGPT训练您自己的LLM](https://blog.csdn.net/jiagoushipro/article/details/135308362)
+
++ [[2024] 十大免费电脑数据恢复软件——轻松恢复电脑上已删除文件](https://blog.csdn.net/Geeker55/article/details/135303293)
+

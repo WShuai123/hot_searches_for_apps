@@ -105,3 +105,9 @@
 
 + [UEVR Beta展示 可在6DOF VR中体验多款UE游戏](https://www.3dmgame.com/news/202401/3885101.html)
 
++ [《魔法使之夜》动画PV第二弹公布 忠实还原游戏](https://www.3dmgame.com/news/202401/3885104.html)
+
++ [SE CEO承诺“积极应用AI”和新技术进行内容开发](https://www.3dmgame.com/news/202401/3885103.html)
+
++ [《龙之信条2》新年贺图 致敬龙与地下城](https://www.3dmgame.com/news/202401/3885102.html)
+
