@@ -25,3 +25,5 @@
 
 + [骁龙 870 + 两年质保：联想小新 Pad Pro 11.2 英寸平板 1279 元腰斩清仓](https://m.ithome.com/html/742791.htm)
 
++ [小鹏 X9 纯电 MPV 上市：标配后轮转向、双腔空悬，售价 35.98 万元起](https://m.ithome.com/html/742807.htm)
+
