@@ -37,3 +37,5 @@
 
 + [小鹏 X9 新车预售订单突破 30000 台，明晚上市 / 同月交付](https://m.ithome.com/html/742704.htm)
 
++ [篮球巨星詹姆斯考虑直播玩游戏，引发平台争夺战](https://m.ithome.com/html/742720.htm)
+
