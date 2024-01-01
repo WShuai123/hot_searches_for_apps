@@ -101,3 +101,29 @@
 
 + [软件工程导论——（为什么要学习软件工程？软件工程能学到什么？如何学习软件工程？）](https://blog.csdn.net/x20020402/article/details/126755964)
 
++ [2024年总结的前端学习路线分享（学习导读）](https://blog.csdn.net/qq_53123067/article/details/135326610)
+
++ [华为Could API人工智能系列——成分语法分析](https://blog.csdn.net/feng8403000/article/details/135327768)
+
++ [为什么ChatGPT选择了SSE，而不是WebSocket？](https://blog.csdn.net/ll15982534415/article/details/135313247)
+
++ [Excel报表框架（ExcelReport）极简化解决复杂报表导出问题](https://blog.csdn.net/wangpengfei_p/article/details/135330428)
+
++ [机器学习概述](https://blog.csdn.net/qq_37977007/article/details/135314067)
+
++ [大数据机器学习GAN：生成对抗网络GAN全维度介绍与实战](https://blog.csdn.net/Myx74270512/article/details/135325033)
+
++ [Spring Boot应用整合Prometheus](https://blog.csdn.net/u010355502/article/details/135317477)
+
++ [Linux虚拟文件系统](https://blog.csdn.net/demon7552003/article/details/135301740)
+
++ [2023结婚成家，2024借势起飞](https://blog.csdn.net/u014534808/article/details/135328625)
+
++ [跟我学c++中级篇——再谈C++20中的协程](https://blog.csdn.net/fpcc/article/details/135311653)
+
++ [从 MySQL 的事务 到 锁机制 再到 MVCC](https://blog.csdn.net/kologin/article/details/135294742)
+
++ [H.264码流格式分析](https://blog.csdn.net/m0_51496461/article/details/135307330)
+
++ [Hbase 的三个应用](https://blog.csdn.net/bluedraam_pp/article/details/135317919)
+
