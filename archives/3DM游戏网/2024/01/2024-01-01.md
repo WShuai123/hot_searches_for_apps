@@ -137,3 +137,7 @@
 
 + [《胜利女神》精美艺术沙画公开 一月更新多项内容](https://www.3dmgame.com/news/202401/3885077.html)
 
++ [2024年元旦档票房超过13.11亿：刷新影史同期纪录](https://www.3dmgame.com/news/202401/3885078.html)
+
++ [巨头对谈聊游戏 宮本茂X糸井重里谈话系列即将启动](https://www.3dmgame.com/news/202401/3885079.html)
+

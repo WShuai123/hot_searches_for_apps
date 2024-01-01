@@ -143,3 +143,11 @@
 
 + [25、WEB攻防——通用漏洞&SQL读写注入&MYSQL&MSSQL&PostgreSQL](https://blog.csdn.net/qq_55202378/article/details/135310022)
 
++ [解算人生--写于2023跨年之夜](https://blog.csdn.net/wwwyue1985/article/details/135319583)
+
++ [【Linux操作系统】探秘Linux奥秘：文件系统的管理与使用](https://blog.csdn.net/m0_57532432/article/details/134900292)
+
++ [2023年度学习总结](https://blog.csdn.net/Prototype___/article/details/135314461)
+
++ [【网络安全】网络隔离设备](https://blog.csdn.net/eidolon_foot/article/details/135308783)
+
