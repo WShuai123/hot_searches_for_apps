@@ -167,3 +167,7 @@
 
 + [【软件工程】走进敏捷开发：灵活、协作、迭代的软件工艺之旅](https://blog.csdn.net/AliceNo/article/details/135315165)
 
++ [2023年终总结｜回顾学习Tensorflow、Keras的历程](https://blog.csdn.net/lymake/article/details/135308643)
+
++ [跟我学c++中级篇——再谈C++20中的协程](https://blog.csdn.net/fpcc/article/details/135311653)
+

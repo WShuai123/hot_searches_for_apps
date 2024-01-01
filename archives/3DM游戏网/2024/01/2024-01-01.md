@@ -153,3 +153,13 @@
 
 + [考迪克再遭声讨 员工表示其决策让游戏变得更糟糕](https://www.3dmgame.com/news/202401/3885083.html)
 
++ [《吟游诗人：对抗黑修道院》春季发售 新试玩放出](https://www.3dmgame.com/news/202401/3885087.html)
+
++ [玩家上传《博德之门3》果体片段被Xbox封号一年](https://www.3dmgame.com/news/202401/3885088.html)
+
++ [全国多个城市今日起封杀老头乐 大爷买车要考驾照了](https://www.3dmgame.com/news/202401/3885089.html)
+
++ [日本卡拉OK厅最火《高达》动画歌 SEED神曲占两席](https://www.3dmgame.com/news/202401/3885090.html)
+
++ [像素肉鸽游戏《Into the Necrovale》发布新预告](https://www.3dmgame.com/news/202401/3885086.html)
+

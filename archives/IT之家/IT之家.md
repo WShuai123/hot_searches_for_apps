@@ -49,3 +49,7 @@
 
 + [三星 Galaxy S24 系列手机即将到来，消息称 2024 Unpacked 新品发布会 1 月 17 日举行](https://m.ithome.com/html/742725.htm)
 
++ [17.38~20.88 万元，全新丰田凯美瑞开启预售：搭载高通骁龙 8155 车机芯片](https://m.ithome.com/html/742760.htm)
+
++ [24.98 万元起，智界 S7 已开始交付：全系车型搭载华为“巨鲸”800V 高压平台](https://m.ithome.com/html/742755.htm)
+

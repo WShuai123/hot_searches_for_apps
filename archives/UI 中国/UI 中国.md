@@ -15,3 +15,5 @@
 
 + [AE教程 |  手把手教会你 “毛玻璃质感”天气卡片动效](https://www.ui.cn/detail/652155.html)
 
++ [AIGC与应用设计——百度MEUX x 北科大交互设计联合课](https://www.ui.cn/detail/661050.html)
+
