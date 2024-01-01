@@ -101,3 +101,5 @@
 
 + [城市建设游戏新作《企鹅联合王国》2024年发售](https://www.3dmgame.com/news/202312/3885050.html)
 
++ [Epic喜加一：《逃脱学院》免费领](https://www.3dmgame.com/news/202401/3885100.html)
+
