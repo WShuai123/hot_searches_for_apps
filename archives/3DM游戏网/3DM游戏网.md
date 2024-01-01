@@ -175,3 +175,5 @@
 
 + [《巫师3》《暗黑4》上榜！MTC 2023年20大Xbox游戏](https://www.3dmgame.com/news/202401/3885093.html)
 
++ [外媒评2023年十大优化PC游戏 《生化危机4》等](https://www.3dmgame.com/news/202401/3885097.html)
+

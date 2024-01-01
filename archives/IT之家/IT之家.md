@@ -61,3 +61,5 @@
 
 + [憋大招？苹果 2023 年首度“停更”iPad](https://m.ithome.com/html/742787.htm)
 
++ [长安启源官宣周杰伦为品牌大使，“全民伙伴计划”同步开启](https://m.ithome.com/html/742757.htm)
+

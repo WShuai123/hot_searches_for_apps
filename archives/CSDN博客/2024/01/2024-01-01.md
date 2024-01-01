@@ -199,3 +199,7 @@
 
 + [AI时代系列丛书（由北京大学出版社出版）](https://blog.csdn.net/xqe777/article/details/135327336)
 
++ [网络安全领域八大国际认证](https://blog.csdn.net/fengzheng126/article/details/135325266)
+
++ [Linux 权限掌控术:深入探索和用户管理](https://blog.csdn.net/2203_75397752/article/details/134827721)
+
