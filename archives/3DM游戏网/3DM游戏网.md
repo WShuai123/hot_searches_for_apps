@@ -141,3 +141,9 @@
 
 + [《刃神的天照》登陆多平台 和风神话幻想RPG新作](https://www.3dmgame.com/news/202401/3885111.html)
 
++ [《星刃》女主身材来自韩国模特申才恩 脸蛋甜美身材火辣](https://www.3dmgame.com/news/202401/3885122.html)
+
++ [《胜利女神》新角色红莲黑色阴影登场 三日登陆奖励启动](https://www.3dmgame.com/news/202401/3885121.html)
+
++ [多人射击游戏《The Finals》大规模封禁作弊账号 部分玩家被误封](https://www.3dmgame.com/news/202401/3885120.html)
+

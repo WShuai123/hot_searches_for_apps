@@ -147,3 +147,9 @@
 
 + [计算机网络（1）](https://blog.csdn.net/weixin_74888502/article/details/135327098)
 
++ [基于SpringBoot微信小程序的宠物美容预约系统设计与实现](https://blog.csdn.net/weixin_39709134/article/details/135330391)
+
++ [Redis内存使用率高，内存不足问题排查和解决](https://blog.csdn.net/xue317378914/article/details/135307911)
+
++ [微服务雪崩问题及解决方案](https://blog.csdn.net/weixin_49564779/article/details/135329843)
+
