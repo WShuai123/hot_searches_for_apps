@@ -59,3 +59,5 @@
 
 + [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
 
++ [Afuzz：一款功能强大的自动化Web路径模糊测试工具](https://www.freebuf.com/sectool/385927.html)
+

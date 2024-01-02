@@ -173,3 +173,15 @@
 
 + [外媒称索尼第一方工作室顽皮狗可能会与PS5“失之交臂”](https://www.3dmgame.com/news/202401/3885134.html)
 
++ [知名爆料人billbil_kun回顾2023年 涨粉4万不搞假消息标题党](https://www.3dmgame.com/news/202401/3885141.html)
+
++ [热门恐怖游戏《8号出口》确认续作开发中 制作人投票征询真实广告](https://www.3dmgame.com/news/202401/3885140.html)
+
++ [纪念《黄金神威》真人电影上映在即 漫画版全卷免费读开启](https://www.3dmgame.com/news/202401/3885136.html)
+
++ [索尼开发“足控福利”新专利 用脚控制的AR/VR控制器](https://www.3dmgame.com/news/202401/3885137.html)
+
++ [传闻：《猎天使魔女》三部曲将登陆Switch 2](https://www.3dmgame.com/news/202401/3885138.html)
+
++ [苍火龙登场 《怪物猎人 Now》2024年1月活动时间表公开](https://www.3dmgame.com/news/202401/3885139.html)
+
