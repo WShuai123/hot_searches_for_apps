@@ -101,3 +101,15 @@
 
 + [Readbay.ai](https://www.producthunt.com/posts/readbay-ai)
 
++ [dataplots](https://www.producthunt.com/posts/dataplots)
+
++ [crewAI](https://www.producthunt.com/posts/crewai)
+
++ [Ferret](https://www.producthunt.com/posts/ferret)
+
++ [Adcolabs Scraper](https://www.producthunt.com/posts/adcolabs-scraper)
+
++ [Your News](https://www.producthunt.com/posts/your-news)
+
++ [Memoru: Flashcards](https://www.producthunt.com/posts/memoru-flashcards)
+

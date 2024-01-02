@@ -45,3 +45,7 @@
 
 + [2024 款日产轩逸・经典上市，售 10.86 万起](https://m.ithome.com/html/742770.htm)
 
++ [小米 Redmi Book 16 笔记本 12 代酷睿版开售，到手价 3399 元起](https://m.ithome.com/html/742798.htm)
+
++ [荣耀 Magic6 系列手机外观设计亮相：海湖青配色、“枕形”摄像头](https://m.ithome.com/html/742854.htm)
+

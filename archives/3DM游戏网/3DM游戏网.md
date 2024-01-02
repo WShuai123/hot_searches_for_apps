@@ -185,3 +185,15 @@
 
 + [苍火龙登场 《怪物猎人 Now》2024年1月活动时间表公开](https://www.3dmgame.com/news/202401/3885139.html)
 
++ [全美2024年最期待电影TOP10 《死侍3》登顶](https://www.3dmgame.com/news/202401/3885142.html)
+
++ [纪念《人中之龙8》即将发售 如龙全系列为期一个月促销](https://www.3dmgame.com/news/202401/3885145.html)
+
++ [艺术家将《GTA6》泳池女孩打造为虚拟雕像：太热辣了](https://www.3dmgame.com/news/202401/3885146.html)
+
++ [PlayStation博客2023年度游戏公布：《漫威蜘蛛侠2》](https://www.3dmgame.com/news/202401/3885147.html)
+
++ [乔治·RR·马丁透露 正在策划多个《权力的游戏》动画剧集](https://www.3dmgame.com/news/202401/3885143.html)
+
++ [苹果品控跌落神坛！多名用户称iPhone 15 Pro做工差：后盖溢胶明显](https://www.3dmgame.com/news/202401/3885144.html)
+
