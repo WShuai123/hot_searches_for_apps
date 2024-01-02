@@ -223,3 +223,9 @@
 
 + [RTX 4090D有望在下周初全面出货开售 建议零售价12999元](https://www.3dmgame.com/news/202401/3885160.html)
 
++ [Steam 12月硬件调查报告 RTX 3060拉大榜首领先优势](https://www.3dmgame.com/news/202401/3885163.html)
+
++ [《烽火与炊烟》后续计划：登陆手机、开放工坊](https://www.3dmgame.com/news/202401/3885161.html)
+
++ [模拟策略游戏《生化公司：救赎》确定移植Switch](https://www.3dmgame.com/news/202401/3885162.html)
+

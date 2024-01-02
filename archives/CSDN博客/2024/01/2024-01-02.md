@@ -201,3 +201,5 @@
 
 + [【OpenCV】OpenCV：计算机视觉的强大工具库](https://blog.csdn.net/m0_75058342/article/details/132112113)
 
++ [开源数据可视化分析工具DataEase本地部署并实现远程访问](https://blog.csdn.net/weixin_58070962/article/details/135346579)
+
