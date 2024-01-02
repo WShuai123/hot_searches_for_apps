@@ -49,3 +49,7 @@
 
 + [身份危机：安全领域的最大奖项](https://www.freebuf.com/articles/es/387691.html)
 
++ [最高 50 亿美金！谷歌就隐私诉讼达成和解](https://www.freebuf.com/news/388438.html)
+
++ [瑞典最大的连锁超市Coop再遭勒索软件团伙攻击](https://www.freebuf.com/news/388440.html)
+

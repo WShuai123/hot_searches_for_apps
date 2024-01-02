@@ -147,3 +147,21 @@
 
 + [多人射击游戏《The Finals》大规模封禁作弊账号 部分玩家被误封](https://www.3dmgame.com/news/202401/3885120.html)
 
++ [滨口直树：《最终幻想7：重生》结局会让老玩家感到震惊](https://www.3dmgame.com/news/202401/3885127.html)
+
++ [《赛博朋克2077》玩家在《往日之影》DLC中发现《GTA 圣安地列斯》的彩蛋](https://www.3dmgame.com/news/202401/3885128.html)
+
++ [余承东放言2030年新能源车企存活不超5家 大家拼命卷](https://www.3dmgame.com/news/202401/3885129.html)
+
++ [《蕾斯莱莉娅娜的炼金工房》Steam日服1月10日上线 支持4K](https://www.3dmgame.com/news/202401/3885130.html)
+
++ [《龙之信条2》新角色和怪物介绍 乌利卡琥珀焰龙巫妖等](https://www.3dmgame.com/news/202401/3885131.html)
+
++ [小岛秀夫：今年同时开发《死亡搁浅2》和《OD》](https://www.3dmgame.com/news/202401/3885123.html)
+
++ [托尼霍克加吸血鬼幸存者 动作射击肉鸽游戏《末日摩托》现已开放试玩Demo](https://www.3dmgame.com/news/202401/3885124.html)
+
++ [CyberConnect2总裁松山洋：2024年继续开发动漫IP游戏 新工作室2月成立](https://www.3dmgame.com/news/202401/3885125.html)
+
++ [A24导演谈《死亡搁浅》真人电影 虽然很想执导但档期不合](https://www.3dmgame.com/news/202401/3885126.html)
+
