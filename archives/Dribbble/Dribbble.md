@@ -97,3 +97,13 @@
 
 + [Glyph beer 20](https://dribbble.com/shots/)
 
++ [Planet FWD Footer](https://dribbble.com/shots/)
+
++ [Dark Mode Command Bar](https://dribbble.com/shots/)
+
++ [Cruz: Widget](https://dribbble.com/shots/)
+
++ [2023 in Review - Coric Design](https://dribbble.com/shots/)
+
++ [Clarity - SaaS Website](https://dribbble.com/shots/)
+

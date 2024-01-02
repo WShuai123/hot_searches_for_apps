@@ -25,3 +25,5 @@
 
 + [小米 Redmi G Pro 2024 游戏本曝光：i5-14500HX + RTX 4060 配置](https://m.ithome.com/html/742938.htm)
 
++ [乐视官宣今年春节提前 2 天放假：共计 10 天，此前已推行四天半工作制](https://m.ithome.com/html/742984.htm)
+
