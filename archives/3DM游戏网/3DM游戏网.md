@@ -219,3 +219,5 @@
 
 + [AI生成《魔兽》《Dota2》等典型粉丝形象 速度围观！](https://www.3dmgame.com/news/202401/3885156.html)
 
++ [苹果遭遇过去22年最长时间的营收下滑 2024年或面临多项挑战](https://www.3dmgame.com/news/202401/3885159.html)
+

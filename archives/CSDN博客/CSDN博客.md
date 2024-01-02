@@ -195,3 +195,7 @@
 
 + [计算机专业个人简历范文（8篇）](https://blog.csdn.net/weixin_42244691/article/details/135323137)
 
++ [Elasticsearch：带有自查询检索器的聊天机器人示例](https://blog.csdn.net/UbuntuTouch/article/details/135333698)
+
++ [如何使用Plex在Windows系统搭建个人媒体站点公网可访问](https://blog.csdn.net/qq_72916130/article/details/135341906)
+

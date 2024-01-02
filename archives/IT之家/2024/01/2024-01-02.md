@@ -55,3 +55,9 @@
 
 + [2023 年 12 月桌面浏览器排行榜：Chrome 稳坐第一，Edge 强势回升，Safari 暴跌](https://m.ithome.com/html/742803.htm)
 
++ [小米公司发言人：网传“小米汽车产业链”图片内容至少 50% 完全错误](https://m.ithome.com/html/742931.htm)
+
++ [小鹏汽车：上市发布会还未结束，小鹏 X9 大定已突破 5000 台](https://m.ithome.com/html/742816.htm)
+
++ [iPhone 用户反馈升级苹果 iOS 17.2.1 后，无法接打电话、蜂窝上网](https://m.ithome.com/html/742839.htm)
+
