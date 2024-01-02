@@ -183,3 +183,9 @@
 
 + [加速Python循环的12种方法,最高可以提速900倍](https://blog.csdn.net/m0_46510245/article/details/135334893)
 
++ [Ubuntu本地快速搭建web小游戏网站，公网用户远程访问](https://blog.csdn.net/hsjsiwkwm/article/details/135340620)
+
++ [如何使用Node.js快速创建本地HTTP服务器并实现公网访问服务端](https://blog.csdn.net/qyj19920704/article/details/135340947)
+
++ [【搜索引擎】elastic search核心概念](https://blog.csdn.net/Joker_ZJN/article/details/135342256)
+

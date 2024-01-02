@@ -61,3 +61,5 @@
 
 + [Afuzz：一款功能强大的自动化Web路径模糊测试工具](https://www.freebuf.com/sectool/385927.html)
 
++ [工业和信息化部发布《工业领域数据安全标准体系建设指南（2023版）》](https://www.freebuf.com/articles/388489.html)
+

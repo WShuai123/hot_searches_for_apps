@@ -49,3 +49,5 @@
 
 + [荣耀 Magic6 系列手机外观设计亮相：海湖青配色、“枕形”摄像头](https://m.ithome.com/html/742854.htm)
 
++ [消息称小米平板 7 Pro 配 10000mAh 电池、支持 120W 快充](https://m.ithome.com/html/742847.htm)
+

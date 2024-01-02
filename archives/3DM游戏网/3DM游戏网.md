@@ -199,3 +199,17 @@
 
 + [美国大法官谈AI 会改变运作方式但无法取代人类](https://www.3dmgame.com/news/202401/3885148.html)
 
++ [Steam最新一周销量榜 《博德之门3》登顶二连冠](https://www.3dmgame.com/news/202401/3885155.html)
+
++ [万代魂《超时空要塞》YF-21战机新超合金 三段变形精致酷炫](https://www.3dmgame.com/news/202401/3885154.html)
+
++ [《Fate/EXTRA Record》新截图 游戏仍在开发中](https://www.3dmgame.com/news/202401/3885153.html)
+
++ [外媒称R星应重视女权叙事 别把《GTA6》露西亚做成贝姐](https://www.3dmgame.com/news/202401/3885152.html)
+
++ [小米汽车SU7电池抗住子弹射击：三发子弹接连吃瘪](https://www.3dmgame.com/news/202401/3885151.html)
+
++ [ASML声明：2050、2100光刻机出口许可证被部分撤销](https://www.3dmgame.com/news/202401/3885150.html)
+
++ [外媒称《星空》新DLC应扩展多元宇宙 吸引玩家归来](https://www.3dmgame.com/news/202401/3885149.html)
+
