@@ -55,3 +55,7 @@
 
 + [Hack-the-box渗透实战：HTB:Forge](https://www.freebuf.com/defense/387740.html)
 
++ [谷歌OAuth验证系统曝零日漏洞，可被黑客用于账户劫持](https://www.freebuf.com/news/388434.html)
+
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
