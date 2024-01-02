@@ -105,3 +105,31 @@
 
 + [使用Wireshark进行网络流量分析](https://blog.csdn.net/qq_68163788/article/details/135336355)
 
++ [2023年大类资产关键词：AI、黄金、北证、QDII](https://blog.csdn.net/Gabriel100yi/article/details/135347441)
+
++ [Windows搭建Emby媒体库服务器，无公网IP远程访问本地影音文件](https://blog.csdn.net/m0_75215937/article/details/135339855)
+
++ [2023结婚成家，2024借势起飞](https://blog.csdn.net/u014534808/article/details/135328625)
+
++ [Kubernetes（k8s）：Namespace详解](https://blog.csdn.net/qq_41840843/article/details/134979651)
+
++ [Mongodb分片副本集群，实战部署全攻略](https://blog.csdn.net/weixin_41645135/article/details/135331967)
+
++ [阶段十-分布式-docker虚拟化容器](https://blog.csdn.net/m0_59163770/article/details/135326377)
+
++ [动画墙纸：将视频、网页、游戏、模拟器变成windows墙纸——Lively Wallpaper](https://blog.csdn.net/qq_36303853/article/details/135264011)
+
++ [07. HTTP接口请求重试怎么处理？](https://blog.csdn.net/p793049488/article/details/135349133)
+
++ [微信小程序自定义步骤条效果](https://blog.csdn.net/qq_37268201/article/details/135287614)
+
++ [设计模式之工厂设计模式【创造者模式】](https://blog.csdn.net/m0_64074924/article/details/135195373)
+
++ [Web数据库基本知识,SQL基本语法](https://blog.csdn.net/killsime/article/details/135314904)
+
++ [【中南林业科技大学】计算机组成原理复习包括题目讲解（超详细）](https://blog.csdn.net/qq_62325622/article/details/135275037)
+
++ [2023年度总结—你是你的年度MVP吗？](https://blog.csdn.net/H1727548/article/details/135315108)
+
++ [通过国家网络风险管理方法提供安全的网络环境](https://blog.csdn.net/qq_29607687/article/details/135328718)
+

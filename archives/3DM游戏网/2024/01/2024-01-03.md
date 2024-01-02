@@ -109,3 +109,11 @@
 
 + [华为强势回归！勇夺2023全球高端手机份额前三](https://www.3dmgame.com/news/202401/3885165.html)
 
++ [《狙击精英》工作室创建者获大英帝国司令勋章](https://www.3dmgame.com/news/202401/3885172.html)
+
++ [迪士尼透露《星球大战：法外狂徒》24年末底推出](https://www.3dmgame.com/news/202401/3885170.html)
+
++ [《沉没之城》开发商获得完整发行权 承诺将推新DLC](https://www.3dmgame.com/news/202401/3885171.html)
+
++ [《博德之门3》获Steam最佳游戏 《星空》获最具创新](https://www.3dmgame.com/news/202401/3885169.html)
+
