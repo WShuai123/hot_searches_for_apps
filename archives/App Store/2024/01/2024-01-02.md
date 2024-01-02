@@ -229,3 +229,5 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
+

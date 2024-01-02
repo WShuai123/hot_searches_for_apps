@@ -61,3 +61,7 @@
 
 + [iPhone 用户反馈升级苹果 iOS 17.2.1 后，无法接打电话、蜂窝上网](https://m.ithome.com/html/742839.htm)
 
++ [比亚迪各系车型销量数据公布：宋 PLUS 冠军版 2023 年累计 427071 辆，海鸥 270217 辆](https://m.ithome.com/html/742888.htm)
+
++ [今起无人机需实名登记“身份证”，适飞高度不超 120 米](https://m.ithome.com/html/742924.htm)
+

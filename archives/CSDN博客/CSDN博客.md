@@ -199,3 +199,5 @@
 
 + [如何使用Plex在Windows系统搭建个人媒体站点公网可访问](https://blog.csdn.net/qq_72916130/article/details/135341906)
 
++ [【OpenCV】OpenCV：计算机视觉的强大工具库](https://blog.csdn.net/m0_75058342/article/details/132112113)
+
