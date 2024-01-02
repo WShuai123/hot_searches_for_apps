@@ -113,3 +113,15 @@
 
 + [Memoru: Flashcards](https://www.producthunt.com/posts/memoru-flashcards)
 
++ [Open Love](https://www.producthunt.com/posts/open-love)
+
++ [FrequentlyAskedAI](https://www.producthunt.com/posts/frequentlyaskedai)
+
++ [Micro Habits](https://www.producthunt.com/posts/micro-habits-6)
+
++ [MyInvestment-AI](https://www.producthunt.com/posts/myinvestment-ai)
+
++ [Lottiebox](https://www.producthunt.com/posts/lottiebox)
+
++ [Xypher](https://www.producthunt.com/posts/xypher)
+

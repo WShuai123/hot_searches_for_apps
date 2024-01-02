@@ -197,3 +197,5 @@
 
 + [苹果品控跌落神坛！多名用户称iPhone 15 Pro做工差：后盖溢胶明显](https://www.3dmgame.com/news/202401/3885144.html)
 
++ [美国大法官谈AI 会改变运作方式但无法取代人类](https://www.3dmgame.com/news/202401/3885148.html)
+
