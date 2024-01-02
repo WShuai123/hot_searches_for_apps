@@ -117,3 +117,13 @@
 
 + [《博德之门3》获Steam最佳游戏 《星空》获最具创新](https://www.3dmgame.com/news/202401/3885169.html)
 
++ [《博德之门3》荣获2023年度Steam年度最佳游戏](https://www.3dmgame.com/news/202401/3885177.html)
+
++ [DF评测iPhone《生化危机4重制版》优化不错](https://www.3dmgame.com/news/202401/3885176.html)
+
++ [微软或将推出类似Switch分离式设计的游戏手柄](https://www.3dmgame.com/news/202401/3885175.html)
+
++ [2月13日发售《驱灵者：新伊甸的幽灵》新预告](https://www.3dmgame.com/news/202401/3885174.html)
+
++ [杰克布莱克将出演电影版《我的世界》史蒂夫](https://www.3dmgame.com/news/202401/3885173.html)
+
