@@ -159,3 +159,9 @@
 
 + [【web安全】短信等各类验证码的绕过思路整理](https://blog.csdn.net/2302_79590880/article/details/135294318)
 
++ [从仿写持久层框架到MyBatis核心源码阅读](https://blog.csdn.net/liwenyang1992/article/details/135317961)
+
++ [【AIGC-图片生成视频系列-4】DreamTuner：单张图像足以进行主题驱动生成](https://blog.csdn.net/sinat_19868271/article/details/135320448)
+
++ [【Hadoop】集群配置之主要配置文件（hadoop-env.sh、yarn-env.sh、core-site.xml、hdfs-site.xml、mapred-site.xml...）](https://blog.csdn.net/m0_60511809/article/details/135254570)
+

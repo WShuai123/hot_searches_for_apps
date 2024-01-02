@@ -53,3 +53,5 @@
 
 + [瑞典最大的连锁超市Coop再遭勒索软件团伙攻击](https://www.freebuf.com/news/388440.html)
 
++ [Hack-the-box渗透实战：HTB:Forge](https://www.freebuf.com/defense/387740.html)
+

@@ -165,3 +165,11 @@
 
 + [A24导演谈《死亡搁浅》真人电影 虽然很想执导但档期不合](https://www.3dmgame.com/news/202401/3885126.html)
 
++ [Win10终止服务：2.4亿台电脑将沦为电子垃圾 你升了没](https://www.3dmgame.com/news/202401/3885135.html)
+
++ [《８番出口》爆火后玩家寻找现实实地版 阴森恐怖有气氛](https://www.3dmgame.com/news/202401/3885132.html)
+
++ [初次见面，《晶灵清除计划》Steam首次长期奖励测试玩家招募开启](https://www.3dmgame.com/news/202401/3885133.html)
+
++ [外媒称索尼第一方工作室顽皮狗可能会与PS5“失之交臂”](https://www.3dmgame.com/news/202401/3885134.html)
+
