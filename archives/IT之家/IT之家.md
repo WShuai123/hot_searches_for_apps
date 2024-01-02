@@ -27,3 +27,9 @@
 
 + [小鹏 X9 纯电 MPV 上市：标配后轮转向、双腔空悬，售价 35.98 万元起](https://m.ithome.com/html/742807.htm)
 
++ [联想小新固态 U 盘 AMD 限量款开售：128GB、USB 3.2 Gen 1，售价 149 元](https://m.ithome.com/html/742810.htm)
+
++ [华为何刚：2023 年是鸿蒙原生应用的开局之年，2024 年将是鸿蒙生态全面进化的关键一年](https://m.ithome.com/html/742819.htm)
+
++ [小米平板 6 Pro 元旦闪降 200 元，售价 2299 元起](https://m.ithome.com/html/742776.htm)
+

@@ -115,3 +115,11 @@
 
 + [简单上头游戏《肉鸽地牢骑士》登陆Switch](https://www.3dmgame.com/news/202401/3885105.html)
 
++ [《地平线》网游采用虚幻5引擎 登陆PC和手机](https://www.3dmgame.com/news/202401/3885109.html)
+
++ [SIE被法国罚款1480万美元 因其打击第三方手柄](https://www.3dmgame.com/news/202401/3885110.html)
+
++ [恐怖米老鼠合作游戏《Infestation 88》年内上市](https://www.3dmgame.com/news/202401/3885107.html)
+
++ [《动物森友会》或将于2024年迎来大型更新或新作](https://www.3dmgame.com/news/202401/3885108.html)
+

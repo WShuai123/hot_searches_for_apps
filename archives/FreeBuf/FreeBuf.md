@@ -41,3 +41,9 @@
 
 + [一文把远程浏览器隔离（RBI）说清楚](https://www.freebuf.com/articles/web/387567.html)
 
++ [FreeBuf早报 | 沙特阿拉伯加强网络安全态势；微软禁用被黑客滥用的应用安装协议](https://www.freebuf.com/news/388291.html)
+
++ [2023年我国网络安全法规一览 | FreeBuf 年度盘点](https://www.freebuf.com/news/387995.html)
+
++ [Cloudflare年度回顾：Log4j仍是2023年攻击的首要目标](https://www.freebuf.com/articles/paper/388210.html)
+
