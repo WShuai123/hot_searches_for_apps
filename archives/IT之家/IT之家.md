@@ -33,3 +33,5 @@
 
 + [小米平板 6 Pro 元旦闪降 200 元，售价 2299 元起](https://m.ithome.com/html/742776.htm)
 
++ [全新宝马 5 系即将下线：3105mm 长轴距，后排配备 31 英寸悬浮式巨幕](https://m.ithome.com/html/742814.htm)
+

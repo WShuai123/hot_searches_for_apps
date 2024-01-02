@@ -47,3 +47,5 @@
 
 + [Cloudflare年度回顾：Log4j仍是2023年攻击的首要目标](https://www.freebuf.com/articles/paper/388210.html)
 
++ [身份危机：安全领域的最大奖项](https://www.freebuf.com/articles/es/387691.html)
+

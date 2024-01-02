@@ -123,3 +123,21 @@
 
 + [《动物森友会》或将于2024年迎来大型更新或新作](https://www.3dmgame.com/news/202401/3885108.html)
 
++ [宫本茂没有考虑过退休 要继续为游戏行业做贡献](https://www.3dmgame.com/news/202401/3885118.html)
+
++ [前网之易负责人转发考迪克黑白遗像“悼念”](https://www.3dmgame.com/news/202401/3885119.html)
+
++ [新电影《高达SEED》进化版钢普拉 科技实现SEED姿势](https://www.3dmgame.com/news/202401/3885117.html)
+
++ [《加菲猫》动画大电影曝跨年新海报 今夏上映](https://www.3dmgame.com/news/202401/3885116.html)
+
++ [《暗黑破坏神4》2023年统计数据 击杀一万亿只怪物](https://www.3dmgame.com/news/202401/3885115.html)
+
++ [索尼演示文稿透露17年以来部分PlayStation游戏销量数据](https://www.3dmgame.com/news/202401/3885114.html)
+
++ [马东锡动作科幻片《乌有之地》发布先导预告](https://www.3dmgame.com/news/202401/3885112.html)
+
++ [传闻：科乐美正在开发初代《合金装备》的重制版](https://www.3dmgame.com/news/202401/3885113.html)
+
++ [《刃神的天照》登陆多平台 和风神话幻想RPG新作](https://www.3dmgame.com/news/202401/3885111.html)
+
