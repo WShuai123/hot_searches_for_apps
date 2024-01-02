@@ -229,3 +229,5 @@
 
 + [模拟策略游戏《生化公司：救赎》确定移植Switch](https://www.3dmgame.com/news/202401/3885162.html)
 
++ [微软总裁改口 称英国监管机构很强硬但也很公平](https://www.3dmgame.com/news/202401/3885164.html)
+

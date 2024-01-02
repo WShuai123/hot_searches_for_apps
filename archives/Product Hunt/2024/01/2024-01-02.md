@@ -125,3 +125,7 @@
 
 + [Xypher](https://www.producthunt.com/posts/xypher)
 
++ [Ahead](https://www.producthunt.com/posts/ahead-d7a13334-9084-4675-afdf-b5cf0026fd81)
+
++ [Memoru Flashcards](https://www.producthunt.com/posts/memoru-flashcards)
+
