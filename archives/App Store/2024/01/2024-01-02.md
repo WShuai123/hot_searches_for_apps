@@ -223,3 +223,9 @@
 
 + [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [平安好车主—用车就上好车主](https://itunes.apple.com/cn/app/id796339836?mt=8)
+
++ [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
+

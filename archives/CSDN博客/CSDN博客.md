@@ -189,3 +189,9 @@
 
 + [【搜索引擎】elastic search核心概念](https://blog.csdn.net/Joker_ZJN/article/details/135342256)
 
++ [Zabbix最详细教程Ubuntu部署Zabbix6.0[图文]](https://blog.csdn.net/qq_73668945/article/details/135307671)
+
++ [基于Python的新闻推荐平台：网络爬虫与推荐算法实现](https://blog.csdn.net/m0_52513940/article/details/135327108)
+
++ [计算机专业个人简历范文（8篇）](https://blog.csdn.net/weixin_42244691/article/details/135323137)
+

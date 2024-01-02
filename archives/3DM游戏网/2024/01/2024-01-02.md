@@ -213,3 +213,9 @@
 
 + [外媒称《星空》新DLC应扩展多元宇宙 吸引玩家归来](https://www.3dmgame.com/news/202401/3885149.html)
 
++ [RTX 4090D来了！RTX 40系显卡新阵容年初登场](https://www.3dmgame.com/news/202401/3885158.html)
+
++ [曝小米14 Ultra支持卫星通信：系小米首款！](https://www.3dmgame.com/news/202401/3885157.html)
+
++ [AI生成《魔兽》《Dota2》等典型粉丝形象 速度围观！](https://www.3dmgame.com/news/202401/3885156.html)
+

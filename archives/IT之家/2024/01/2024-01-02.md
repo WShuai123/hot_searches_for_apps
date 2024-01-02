@@ -51,3 +51,7 @@
 
 + [消息称小米平板 7 Pro 配 10000mAh 电池、支持 120W 快充](https://m.ithome.com/html/742847.htm)
 
++ [网友催小米汽车公布价格，雷军：50 万以内有对手吗？](https://m.ithome.com/html/742943.htm)
+
++ [2023 年 12 月桌面浏览器排行榜：Chrome 稳坐第一，Edge 强势回升，Safari 暴跌](https://m.ithome.com/html/742803.htm)
+
