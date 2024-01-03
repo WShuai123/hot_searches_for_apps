@@ -199,3 +199,13 @@
 
 + [二蛋赠书十三期：《一书读懂物联网》](https://blog.csdn.net/qq_28314431/article/details/135349945)
 
++ [【K8s】K8s是什么，一文带你了解kubernetes](https://blog.csdn.net/2201_75366661/article/details/135362621)
+
++ [基于决策树、随机森林和层次聚类对帕尔默企鹅数据分析](https://blog.csdn.net/AOAIYI/article/details/135358470)
+
++ [大创项目推荐 深度学习人体语义分割在弹幕防遮挡上的实现 - python](https://blog.csdn.net/laafeer/article/details/135340370)
+
++ [Flutter 混合开发 - 动态下发 libflutter.so & libapp.so](https://blog.csdn.net/Android_Programmer/article/details/135340532)
+
++ [计算机网络--作业](https://blog.csdn.net/qq_48566899/article/details/135349368)
+
