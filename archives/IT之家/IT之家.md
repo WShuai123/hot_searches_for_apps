@@ -69,3 +69,7 @@
 
 + [今晚国内油价将迎新年第一涨，加满一箱汽油将多花 8 元左右](https://m.ithome.com/html/743170.htm)
 
++ [【IT之家开箱】华为 nova 12 Ultra「12 号色」图赏：时尚先锋“蓝”不住](https://m.ithome.com/html/743160.htm)
+
++ [前网之易负责人张栋回应暴雪国服回归进度：暴雪中国发言最准确但无人相信](https://m.ithome.com/html/743188.htm)
+

@@ -221,3 +221,7 @@
 
 + [探索大模型语言（LLM）科技的革新](https://blog.csdn.net/a1657054242/article/details/135349428)
 
++ [2024年MySQL学习指南（二），探索MySQL数据库，掌握未来数据管理趋势](https://blog.csdn.net/zhangxia_/article/details/135364698)
+
++ [SpringBoot通过自定义注解实现多数据源](https://blog.csdn.net/qq_58608526/article/details/135348243)
+

@@ -291,3 +291,9 @@
 
 + [传闻：Xbox将在本月最后一周召开新的直面会](https://www.3dmgame.com/news/202401/3885259.html)
 
++ [XGP一月上旬新增游戏阵容 《生化危机2重制版》等](https://www.3dmgame.com/news/202401/3885262.html)
+
++ [中国博纳影业投资好莱坞大片《阿凡达3》《死侍3》](https://www.3dmgame.com/news/202401/3885260.html)
+
++ [《星球大战：新绝地武士团》将由女导演执导](https://www.3dmgame.com/news/202401/3885261.html)
+
