@@ -205,3 +205,9 @@
 
 + [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
 
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [地震预警](https://itunes.apple.com/cn/app/id713947342?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
