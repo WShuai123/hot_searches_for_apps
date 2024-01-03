@@ -173,3 +173,13 @@
 
 + [【Linux操作系统】探秘Linux奥秘：进程与任务管理的解密与实战](https://blog.csdn.net/m0_57532432/article/details/134900284)
 
++ [解析大语言模型LLM的幻觉问题：消除错觉、提高认知](https://blog.csdn.net/u014727709/article/details/135354240)
+
++ [GaussDB数据库使用COPY命令导数](https://blog.csdn.net/GaussDB/article/details/135354529)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖微信小程序端(九)](https://blog.csdn.net/m0_59230408/article/details/133297770)
+
++ [如何用 GPT 去分析Excel数据](https://blog.csdn.net/weixin_42152604/article/details/135334848)
+
++ [电脑如何屏幕录制？轻松录制高清视频](https://blog.csdn.net/shujuwa__net/article/details/135334454)
+

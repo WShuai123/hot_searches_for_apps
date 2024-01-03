@@ -105,3 +105,11 @@
 
 + [Paper Billionaires](https://www.producthunt.com/posts/paper-billionaires)
 
++ [Confidence](https://www.producthunt.com/posts/confidence-2)
+
++ [Telegram 10](https://www.producthunt.com/posts/telegram-10)
+
++ [CalmAlma](https://www.producthunt.com/posts/calmalma)
+
++ [RecordOnce](https://www.producthunt.com/posts/recordonce)
+

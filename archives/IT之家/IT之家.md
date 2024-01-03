@@ -41,3 +41,11 @@
 
 + [小米隐藏式车门把手专利获授权：无需电驱、成本更低](https://m.ithome.com/html/743084.htm)
 
++ [华为回应与懂车帝等平台停止合作：原协议到期，暂缓会员门店业务合作](https://m.ithome.com/html/743102.htm)
+
++ [TechInsights：华为鸿蒙 HarmonyOS 今年将取代苹果 iOS 成为中国第二大智能手机操作系统](https://m.ithome.com/html/743110.htm)
+
++ [120Hz LCD 直屏：一加 Ace 竞速版 12+256GB 京东 1169 元发车](https://m.ithome.com/html/742983.htm)
+
++ [国产全新宝马 5 系今日下线：提供燃油 / 纯电双车型，今年年初交付](https://m.ithome.com/html/742946.htm)
+
