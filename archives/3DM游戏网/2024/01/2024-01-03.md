@@ -153,3 +153,17 @@
 
 + [《九段之都市传说》登陆Switch 经典百合系恋爱冒险](https://www.3dmgame.com/news/202401/3885180.html)
 
++ [庵野秀明《飞跃巅峰》35周年纪念完全资料集发行](https://www.3dmgame.com/news/202401/3885196.html)
+
++ [经典游戏重制《新版赵云传》 今年第一季度上线](https://www.3dmgame.com/news/202401/3885192.html)
+
++ [恐怖解谜续作《班迪：牢笼》宣布将于今年发售](https://www.3dmgame.com/news/202401/3885197.html)
+
++ [想吃机械龙排？《地平线：零之曙光》官方食谱明年推出](https://www.3dmgame.com/news/202401/3885195.html)
+
++ [《FF7重生》制作人希望游戏能达到《巫师3》相同高度](https://www.3dmgame.com/news/202401/3885194.html)
+
++ [采访者询问《战神》旧作重制版遭索尼拒绝](https://www.3dmgame.com/news/202401/3885193.html)
+
++ [2023年Steam上发布了超1.4万款游戏 创历史新纪录](https://www.3dmgame.com/news/202401/3885191.html)
+

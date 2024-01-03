@@ -49,3 +49,5 @@
 
 + [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
 
++ [2023 年全球数据泄露事件 TOP 100 | FreeBuf 年度盘点](https://www.freebuf.com/news/topnews/387500.html)
+

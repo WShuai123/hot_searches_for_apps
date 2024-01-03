@@ -131,3 +131,7 @@
 
 + [2023 Annual Recap](https://dribbble.com/shots/)
 
++ [Website design for Safety Deposit Box Service](https://dribbble.com/shots/)
+
++ [Cryptocurrency Platform](https://dribbble.com/shots/)
+

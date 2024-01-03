@@ -145,3 +145,17 @@
 
 + [2023年12月编程语言排行榜](https://blog.csdn.net/m0_66631425/article/details/135329470)
 
++ [K8s的陈述式资源管理](https://blog.csdn.net/weixin_62445943/article/details/135339621)
+
++ [k8s的声明式资源管理](https://blog.csdn.net/m0_75209491/article/details/135335279)
+
++ [自动驾驶论文](https://blog.csdn.net/wholetus/article/details/131432457)
+
++ [Plex Media Server本地搭建私人影音网站并实现远程访问](https://blog.csdn.net/qq_74415153/article/details/135339375)
+
++ [数据库攻防学习之Redis](https://blog.csdn.net/qq_38154820/article/details/135345121)
+
++ [基于rk3568 Android H265推流SRS低延迟网页播放方案](https://blog.csdn.net/superxxd/article/details/135323540)
+
++ [2023 总结：我在上海做程序员的第八年](https://blog.csdn.net/u011240877/article/details/135330227)
+
