@@ -25,3 +25,5 @@
 
 + [【IT之家开箱】华为 nova 12 Ultra「12 号色」图赏：时尚先锋“蓝”不住](https://m.ithome.com/html/743160.htm)
 
++ [【IT之家图赏】小米 14 / Watch S3 及 SU7 汽车“橄榄绿”美图：宁静深邃，暖意顿生](https://m.ithome.com/html/743185.htm)
+
