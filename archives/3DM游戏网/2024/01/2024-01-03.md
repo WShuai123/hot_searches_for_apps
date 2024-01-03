@@ -127,3 +127,7 @@
 
 + [杰克布莱克将出演电影版《我的世界》史蒂夫](https://www.3dmgame.com/news/202401/3885173.html)
 
++ [外媒：PlayStation主宰中国主机市场 份额超66%](https://www.3dmgame.com/news/202401/3885179.html)
+
++ [《漫威金刚狼》PPT证实PS5 Pro支持AI缩放技术](https://www.3dmgame.com/news/202401/3885178.html)
+

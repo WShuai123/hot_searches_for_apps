@@ -41,3 +41,7 @@
 
 + [通过Microsoft Access“链接表”功能执行NTLM强制身份验证攻击技术分析](https://www.freebuf.com/articles/network/387121.html)
 
++ [FreeBuf早报 | 阿联酋依靠人工智能增强网络安全；《未成年人网络保护条例》施行](https://www.freebuf.com/news/388463.html)
+
++ [卡巴斯基年度安全报告：微软office漏洞最容易被利用；AI成为网络犯罪的武器](https://www.freebuf.com/articles/paper/387967.html)
+

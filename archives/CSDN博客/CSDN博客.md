@@ -133,3 +133,13 @@
 
 + [通过国家网络风险管理方法提供安全的网络环境](https://blog.csdn.net/qq_29607687/article/details/135328718)
 
++ [Java 19的未来：新特性、性能优化和更多](https://blog.csdn.net/weixin_58070962/article/details/135332946)
+
++ [Deepin操作系统SSH开启与配置文件修改，结合内网穿透实现公网远程连接](https://blog.csdn.net/2301_77485708/article/details/135340609)
+
++ [计算机组成原理 数据的表示与运算](https://blog.csdn.net/studycodeday/article/details/135328161)
+
++ [YOLOv8模型训练&部署到Android端](https://blog.csdn.net/qq_45955154/article/details/135344226)
+
++ [pygame学习(一)——pygame库的导包、初始化、窗口的设置、打印文字](https://blog.csdn.net/weixin_53197693/article/details/135297777)
+
