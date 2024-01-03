@@ -125,3 +125,11 @@
 
 + [使用Wireshark进行网络流量分析](https://blog.csdn.net/qq_68163788/article/details/135336355)
 
++ [了解深度学习优化器：Momentum、AdaGrad、RMSProp 和 Adam](https://blog.csdn.net/gongdiwudu/article/details/135335520)
+
++ [【电路笔记】-电容分压器](https://blog.csdn.net/wujuxKkoolerter/article/details/135322430)
+
++ [2023年12月编程语言排行榜](https://blog.csdn.net/m0_66631425/article/details/135329470)
+
++ [【软件工程】设计概念](https://blog.csdn.net/AliceNo/article/details/135336031)
+
