@@ -167,3 +167,33 @@
 
 + [2023年Steam上发布了超1.4万款游戏 创历史新纪录](https://www.3dmgame.com/news/202401/3885191.html)
 
++ [扎克·施耐德想看20岁的詹姆斯·邦德和一部挖掘他创伤的电影](https://www.3dmgame.com/news/202401/3885211.html)
+
++ [12月最热Steam Deck游戏榜单 《博德之门3》继续领先](https://www.3dmgame.com/news/202401/3885212.html)
+
++ [苹果市值一夜蒸发7600亿元 分析称iPhone16销售疲软](https://www.3dmgame.com/news/202401/3885210.html)
+
++ [比特币价格突破4.5万美元 创下了21个月新高！](https://www.3dmgame.com/news/202401/3885209.html)
+
++ [《GT Sport》已从PS商店下架 本月底彻底关服](https://www.3dmgame.com/news/202401/3885208.html)
+
++ [米老鼠版权到期仅2天 已有两部电影一部游戏宣布](https://www.3dmgame.com/news/202401/3885207.html)
+
++ [《NightFall Shade》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3885206.html)
+
++ [《赛博朋克2077》还原《GTA6》预告 未来与现实交锋](https://www.3dmgame.com/news/202401/3885204.html)
+
++ [落实《未成年人网络保护条例》 网易游戏上线未成年人模式](https://www.3dmgame.com/news/202401/3885202.html)
+
++ [《尼尔：机械纪元》联动西铁城推新腕表 酷炫精致](https://www.3dmgame.com/news/202401/3885203.html)
+
++ [《星球大战》导演说 现在是女性制作《星球大战》电影的时候了](https://www.3dmgame.com/news/202401/3885201.html)
+
++ [《家有儿女之神犬当家》定档预告 1月20日内地上映](https://www.3dmgame.com/news/202401/3885198.html)
+
++ [《怪物猎人：世界》Steam玩家持续增加 创三年内新高](https://www.3dmgame.com/news/202401/3885199.html)
+
++ [《漫威蜘蛛侠2》概念艺术图赏 毒液太霸气威猛了](https://www.3dmgame.com/news/202401/3885200.html)
+
++ [演员保罗·吉亚玛提表示 他想参演007电影中的反派角色](https://www.3dmgame.com/news/202401/3885205.html)
+

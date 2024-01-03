@@ -51,3 +51,7 @@
 
 + [2023 年全球数据泄露事件 TOP 100 | FreeBuf 年度盘点](https://www.freebuf.com/news/topnews/387500.html)
 
++ [Terrapin 漏洞严重影响 SSH 协议的安全性](https://www.freebuf.com/news/388549.html)
+
++ [2024 年加密货币领域需要注意的 5 大网络安全威胁](https://www.freebuf.com/news/388541.html)
+
