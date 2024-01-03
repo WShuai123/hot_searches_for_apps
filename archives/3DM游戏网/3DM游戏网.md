@@ -101,3 +101,7 @@
 
 + [《The Finals》通行证引不满：完成要花近百小时](https://www.3dmgame.com/news/202401/3885214.html)
 
++ [Epic喜加一：《瘟疫传说：无罪》免费领](https://www.3dmgame.com/news/202401/3885266.html)
+
++ [联通宽带突然上传限速遭大量用户投诉：你被PCDN了吗](https://www.3dmgame.com/news/202401/3885265.html)
+
