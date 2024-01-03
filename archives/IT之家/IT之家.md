@@ -61,3 +61,9 @@
 
 + [赵明：荣耀不可能再成为华为了，和余承东是君子之争](https://m.ithome.com/html/743154.htm)
 
++ [华为鸿蒙智行旗下智界第二款车型 S9 无伪装谍照曝光：中型轿跑 SUV，消息称二季度上市](https://m.ithome.com/html/743140.htm)
+
++ [今日结束：机械师 R7-7840H 16G+1T 迷你主机 2699 元探底](https://m.ithome.com/html/743014.htm)
+
++ [铁路 12306 手机 App 推出购票需求预填和火车票起售提醒订阅功能](https://m.ithome.com/html/743060.htm)
+

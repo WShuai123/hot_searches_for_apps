@@ -51,3 +51,33 @@
 
 + [darktable-org / darktable](https://github.com/darktable-org/darktable)
 
++ [praydog / UEVR](https://github.com/praydog/UEVR)
+
++ [Melledy / LunarCore](https://github.com/Melledy/LunarCore)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [apache / incubator-answer](https://github.com/apache/incubator-answer)
+
++ [webui-dev / webui](https://github.com/webui-dev/webui)
+
++ [DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
++ [hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [chiteroman / Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices)
+
++ [shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan)
+
++ [jzhang38 / TinyLlama](https://github.com/jzhang38/TinyLlama)
+
++ [felix-pb / kfd](https://github.com/felix-pb/kfd)
+
++ [HACKE-RC / awesome-reversing](https://github.com/HACKE-RC/awesome-reversing)
+
++ [zigcc / zig-cookbook](https://github.com/zigcc/zig-cookbook)
+
++ [mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
+
