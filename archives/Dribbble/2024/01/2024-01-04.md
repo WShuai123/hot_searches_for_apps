@@ -71,3 +71,15 @@
 
 + [Dailin.AI: Inbox](https://dribbble.com/shots/)
 
++ [2023 in Review - Coric Design](https://dribbble.com/shots/)
+
++ [Cubist Dual Mood Logo](https://dribbble.com/shots/)
+
++ [2023 Annual Recap](https://dribbble.com/shots/)
+
++ [Keep Moving](https://dribbble.com/shots/)
+
++ [Mealivery Website](https://dribbble.com/shots/)
+
++ [2023 Jams of the Week](https://dribbble.com/shots/)
+
