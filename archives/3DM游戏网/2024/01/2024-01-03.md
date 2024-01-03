@@ -289,3 +289,5 @@
 
 + [三星公布2024年全新OLED游戏显示器 扩展Odyssey系列产品阵容](https://www.3dmgame.com/news/202401/3885258.html)
 
++ [传闻：Xbox将在本月最后一周召开新的直面会](https://www.3dmgame.com/news/202401/3885259.html)
+

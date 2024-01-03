@@ -213,3 +213,11 @@
 
 + [Pandas数据可视化](https://blog.csdn.net/qq_64685283/article/details/135341121)
 
++ [感知与认知的碰撞，大模型时代的智能文档处理范式](https://blog.csdn.net/FRIGIDWINTER/article/details/135342703)
+
++ [Python在金融大数据分析中的AI应用实战](https://blog.csdn.net/qq_44273429/article/details/135367901)
+
++ [React-组件使用与组件通信](https://blog.csdn.net/cc2231293148/article/details/135365707)
+
++ [探索大模型语言（LLM）科技的革新](https://blog.csdn.net/a1657054242/article/details/135349428)
+
