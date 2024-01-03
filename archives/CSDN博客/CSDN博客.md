@@ -189,3 +189,13 @@
 
 + [2024年美赛数学建模ABCDEF题思路选题分析](https://blog.csdn.net/math_assistant/article/details/135346289)
 
++ [搭建个人深度学习工作站（捡垃圾）](https://blog.csdn.net/qq_38342510/article/details/135331233)
+
++ [Spring Boot快速搭建一个简易商城项目三，【加入购物车篇】](https://blog.csdn.net/m0_73647713/article/details/135339430)
+
++ [Flink Watermark和时间语义](https://blog.csdn.net/zhengzhaoyang122/article/details/135354728)
+
++ [对Web3.0概念的梳理](https://blog.csdn.net/weixin_48157259/article/details/135334833)
+
++ [二蛋赠书十三期：《一书读懂物联网》](https://blog.csdn.net/qq_28314431/article/details/135349945)
+

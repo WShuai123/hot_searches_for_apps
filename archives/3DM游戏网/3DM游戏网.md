@@ -259,3 +259,11 @@
 
 + [苹果TV+谍战悬疑英剧《流人》确认续订第5季](https://www.3dmgame.com/news/202401/3885234.html)
 
++ [《宝藏世界》开启重量级冠军挑战赛“2024迎新节”，暨加尔克斯挑战活动](https://www.3dmgame.com/news/202401/3885247.html)
+
++ [经典动作游戏《超级小子》复刻 1月4日登陆Switch/PS4](https://www.3dmgame.com/news/202401/3885246.html)
+
++ [TGA汇总2024年主要游戏发售日期 《黑神话》《龙之信条2》等](https://www.3dmgame.com/news/202401/3885245.html)
+
++ [《潜水员戴夫》销量突破300万 官方感谢玩家支持](https://www.3dmgame.com/news/202401/3885244.html)
+

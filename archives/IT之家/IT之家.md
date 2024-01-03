@@ -55,3 +55,7 @@
 
 + [微信安卓版 8.0.45 最新官方正式版下载发布](https://m.ithome.com/html/742976.htm)
 
++ [一加 Ace 3 手机号称“同档性能新标杆”：骁龙 8 Gen 2 芯片、16GB LPDDR5X RAM、1TB UFS 4.0 存储](https://m.ithome.com/html/743097.htm)
+
++ [小米汽车开放城市招募计划，以“1+N”模式优先覆盖头部市场](https://m.ithome.com/html/742971.htm)
+
