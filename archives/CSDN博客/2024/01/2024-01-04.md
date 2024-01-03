@@ -133,3 +133,5 @@
 
 + [【软件工程】设计概念](https://blog.csdn.net/AliceNo/article/details/135336031)
 
++ [Windows使用VSCode配置部署C++与OpenCV环境](https://blog.csdn.net/m0_46253579/article/details/135353417)
+

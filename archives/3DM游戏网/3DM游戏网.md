@@ -105,3 +105,19 @@
 
 + [联通宽带突然上传限速遭大量用户投诉：你被PCDN了吗](https://www.3dmgame.com/news/202401/3885265.html)
 
++ [Dead Game?《DOTA2》2023年有三次峰值超过了80万](https://www.3dmgame.com/news/202401/3885274.html)
+
++ [幽体脱离2D动作游戏《地下楼》确定PC及NS版](https://www.3dmgame.com/news/202401/3885273.html)
+
++ [任天堂发布2023年热门游戏 马里奥惊奇未进前五](https://www.3dmgame.com/news/202401/3885272.html)
+
++ [分析师：Switch 2不会有太大突破 是迭代而非革新](https://www.3dmgame.com/news/202401/3885271.html)
+
++ [《永恒空间2》将在春季更新中升级至虚幻5引擎](https://www.3dmgame.com/news/202401/3885268.html)
+
++ [《自杀小队》游戏新预告强调PS5手柄/3D音频支持](https://www.3dmgame.com/news/202401/3885270.html)
+
++ [Embracer集团继续裁员 3D Realms无法幸免](https://www.3dmgame.com/news/202401/3885269.html)
+
++ [《波斯王子：失落的王冠》官方PC配置需求公布](https://www.3dmgame.com/news/202401/3885267.html)
+
