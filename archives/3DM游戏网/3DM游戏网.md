@@ -209,3 +209,13 @@
 
 + [日本地震期间 网友发现switch可以当应急电源给手机充电](https://www.3dmgame.com/news/202401/3885216.html)
 
++ [KK对战平台惊现神秘地图 修仙忍者两开花，降妖杀鬼各有精彩](https://www.3dmgame.com/news/202401/3885223.html)
+
++ [新电影《高达SEED 自由》情报分析 1月20日上映在即](https://www.3dmgame.com/news/202401/3885221.html)
+
++ [《恶魔人》原作者永井豪纪念馆遭大火 馆藏漫画原稿全数焚毁](https://www.3dmgame.com/news/202401/3885222.html)
+
++ [《女神异闻录：夜幕魅影》“偷心测试”宣布1月16日开启](https://www.3dmgame.com/news/202401/3885220.html)
+
++ [《女神异闻录》3P和4G等1月15日离开XGP](https://www.3dmgame.com/news/202401/3885219.html)
+
