@@ -113,3 +113,33 @@
 
 + [RecordOnce](https://www.producthunt.com/posts/recordonce)
 
++ [LAUNCHED](https://www.producthunt.com/posts/launched-3)
+
++ [Content Squeezy](https://www.producthunt.com/posts/content-squeezy)
+
++ [Pet Booth: AI Pet Photos](https://www.producthunt.com/posts/pet-booth-ai-pet-photos)
+
++ [WordSnap - AI Flashcards Maker](https://www.producthunt.com/posts/wordsnap-ai-flashcards-maker)
+
++ [Many Penny](https://www.producthunt.com/posts/many-penny)
+
++ [PixelClub](https://www.producthunt.com/posts/pixelclub)
+
++ [ApparenceKit](https://www.producthunt.com/posts/apparencekit-2)
+
++ [Moodboard Creator](https://www.producthunt.com/posts/moodboard-creator)
+
++ [Textok](https://www.producthunt.com/posts/textok)
+
++ [JobMatchPro : Your AI Recruiter](https://www.producthunt.com/posts/jobmatchpro-your-ai-recruiter)
+
++ [Preline UI v2.0](https://www.producthunt.com/posts/preline-ui-v2-0)
+
++ [Cartfuls](https://www.producthunt.com/posts/cartfuls)
+
++ [LeadrPro for Events](https://www.producthunt.com/posts/leadrpro-for-events)
+
++ [decosoft](https://www.producthunt.com/posts/decosoft)
+
++ [Langmeier Backup](https://www.producthunt.com/posts/langmeier-backup)
+

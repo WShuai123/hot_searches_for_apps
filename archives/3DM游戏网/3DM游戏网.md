@@ -239,3 +239,23 @@
 
 + [国风本格推理游戏《山河旅探》定档预告 1月31日发售](https://www.3dmgame.com/news/202401/3885228.html)
 
++ [日本地震扰乱供应链 东芝旗下功率半导体工厂停工](https://www.3dmgame.com/news/202401/3885243.html)
+
++ [前网易高管回应国服回归消息：暴雪中国发言最准确](https://www.3dmgame.com/news/202401/3885242.html)
+
++ [三星冬季发布会1月18日举办 S24确认公布](https://www.3dmgame.com/news/202401/3885241.html)
+
++ [玩家抱怨PC游戏存档位置混乱：为什么不能统一下？](https://www.3dmgame.com/news/202401/3885240.html)
+
++ [传闻：AMD新款RX 7600 XT 16G显卡国内推迟上市](https://www.3dmgame.com/news/202401/3885236.html)
+
++ [Mate 60卖爆 让苹果高端市场受压！余承东：华为手机要做到世界领先](https://www.3dmgame.com/news/202401/3885239.html)
+
++ [我国新能源汽车相关企业一年暴增30万家 山东位居第一](https://www.3dmgame.com/news/202401/3885238.html)
+
++ [《往日不再》开发商暗示新IP进展顺利 正在开发中](https://www.3dmgame.com/news/202401/3885237.html)
+
++ [魔兽官方宣布《巨龙崛起：复兴之种》将于1月18日推出](https://www.3dmgame.com/news/202401/3885235.html)
+
++ [苹果TV+谍战悬疑英剧《流人》确认续订第5季](https://www.3dmgame.com/news/202401/3885234.html)
+

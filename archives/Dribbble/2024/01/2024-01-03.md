@@ -165,3 +165,11 @@
 
 + [Cycode Brand identity illustrations guide, illustrator](https://dribbble.com/shots/)
 
++ [Powering Up for 2024](https://dribbble.com/shots/)
+
++ [Sailing into the new year ????⛵️](https://dribbble.com/shots/)
+
++ [Colorful Island](https://dribbble.com/shots/)
+
++ [Dailin.AI: Quick Search](https://dribbble.com/shots/)
+

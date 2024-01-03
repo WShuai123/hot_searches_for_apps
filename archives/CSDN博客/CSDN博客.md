@@ -183,3 +183,9 @@
 
 + [电脑如何屏幕录制？轻松录制高清视频](https://blog.csdn.net/shujuwa__net/article/details/135334454)
 
++ [使用 Process Explorer 和 Windbg 排查软件线程堵塞案例分享](https://blog.csdn.net/chenlycly/article/details/135361532)
+
++ [机器学习（三） -- 特征工程（2）](https://blog.csdn.net/zqx1473/article/details/135327947)
+
++ [2024年美赛数学建模ABCDEF题思路选题分析](https://blog.csdn.net/math_assistant/article/details/135346289)
+

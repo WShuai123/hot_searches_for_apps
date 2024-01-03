@@ -49,3 +49,9 @@
 
 + [国产全新宝马 5 系今日下线：提供燃油 / 纯电双车型，今年年初交付](https://m.ithome.com/html/742946.htm)
 
++ [微软移动端 Edge 浏览器名称变更，加入“AI”字样](https://m.ithome.com/html/743016.htm)
+
++ [新款保时捷 Taycan 刷新纽北电车纪录，比特斯拉 Model S Plaid 快 18 秒](https://m.ithome.com/html/743041.htm)
+
++ [微信安卓版 8.0.45 最新官方正式版下载发布](https://m.ithome.com/html/742976.htm)
+
