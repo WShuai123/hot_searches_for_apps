@@ -219,3 +219,11 @@
 
 + [《女神异闻录》3P和4G等1月15日离开XGP](https://www.3dmgame.com/news/202401/3885219.html)
 
++ [《堡垒之夜》或即将与《鬼泣》《阿凡达》联动](https://www.3dmgame.com/news/202401/3885227.html)
+
++ [《女神异闻录3：Reload》Steam页面更新 已添加D加密](https://www.3dmgame.com/news/202401/3885226.html)
+
++ [暗改游戏道具概率 Nexon被韩国罚款116亿韩元](https://www.3dmgame.com/news/202401/3885225.html)
+
++ [日媒票选年度宝可梦 《宝可梦 朱·紫》魔幻假面喵荣登第一](https://www.3dmgame.com/news/202401/3885224.html)
+

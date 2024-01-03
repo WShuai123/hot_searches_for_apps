@@ -59,3 +59,5 @@
 
 + [Orbit Chain遭攻击，受损金额高达8600万美元](https://www.freebuf.com/news/388548.html)
 
++ [如何使用LightsOut生成经过混淆处理的DLL](https://www.freebuf.com/sectool/385946.html)
+
