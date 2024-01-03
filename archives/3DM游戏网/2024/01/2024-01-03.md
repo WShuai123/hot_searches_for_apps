@@ -197,3 +197,15 @@
 
 + [演员保罗·吉亚玛提表示 他想参演007电影中的反派角色](https://www.3dmgame.com/news/202401/3885205.html)
 
++ [史蒂文·元因档期不合退出漫威新片《雷霆特工队》](https://www.3dmgame.com/news/202401/3885217.html)
+
++ [Win12发布时间曝光：微软压上一切赌注 你电脑能升吗？](https://www.3dmgame.com/news/202401/3885218.html)
+
++ [紧急事故模拟器《回应》Steam页面上线 今年发售](https://www.3dmgame.com/news/202401/3885213.html)
+
++ [《The Finals》通行证引不满：完成要花近百小时](https://www.3dmgame.com/news/202401/3885214.html)
+
++ [《宇宙战舰大和》重制最新电影预告 7月19日上映](https://www.3dmgame.com/news/202401/3885215.html)
+
++ [日本地震期间 网友发现switch可以当应急电源给手机充电](https://www.3dmgame.com/news/202401/3885216.html)
+
