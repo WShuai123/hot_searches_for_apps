@@ -83,3 +83,23 @@
 
 + [2023 Jams of the Week](https://dribbble.com/shots/)
 
++ [E-commerce Watches Web Design](https://dribbble.com/shots/)
+
++ [Panther Tile](https://dribbble.com/shots/)
+
++ [Powering Up for 2024](https://dribbble.com/shots/)
+
++ [Bird Rock Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Website design for Safety Deposit Box Service](https://dribbble.com/shots/)
+
++ [Zodiac](https://dribbble.com/shots/)
+
++ [Netsuite ERP - Inventory Management Software](https://dribbble.com/shots/)
+
++ [TL Law Pineapple Seal Logo Concept](https://dribbble.com/shots/)
+
++ [Girl with pet](https://dribbble.com/shots/)
+
++ [Christmas 2023 - Clay](https://dribbble.com/shots/)
+
