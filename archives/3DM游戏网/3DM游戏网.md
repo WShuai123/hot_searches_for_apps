@@ -131,3 +131,25 @@
 
 + [《漫威金刚狼》PPT证实PS5 Pro支持AI缩放技术](https://www.3dmgame.com/news/202401/3885178.html)
 
++ [PC游戏市场收入超过主机平台总收入 Steam贡献最大](https://www.3dmgame.com/news/202401/3885189.html)
+
++ [《魔导物语》三部曲复刻 复古3D迷宫探索RPG](https://www.3dmgame.com/news/202401/3885190.html)
+
++ [Steam硬件调查显示 购买RTX 4090的人多于购买Steam Deck的人](https://www.3dmgame.com/news/202401/3885188.html)
+
++ [《哥斯拉大战金刚2》新剧照发布 4月12日上映](https://www.3dmgame.com/news/202401/3885187.html)
+
++ [《星空》官推庆祝获Steam“最具创意玩法奖”被嘲讽](https://www.3dmgame.com/news/202401/3885186.html)
+
++ [《雪人兄弟2特别版》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202401/3885185.html)
+
++ [《守望先锋2》新英雄精通关卡即将上线 完成挑战获得奖励](https://www.3dmgame.com/news/202401/3885184.html)
+
++ [因涉及反犹 米老鼠恐怖游戏被更名为《Infestation: Origins》](https://www.3dmgame.com/news/202401/3885183.html)
+
++ [2024年对SIE“无责任”预测：《血源》重制 为PS5 Pro量身打造](https://www.3dmgame.com/news/202401/3885182.html)
+
++ [前总裁回归 世嘉欧洲领导层进行重大变动](https://www.3dmgame.com/news/202401/3885181.html)
+
++ [《九段之都市传说》登陆Switch 经典百合系恋爱冒险](https://www.3dmgame.com/news/202401/3885180.html)
+

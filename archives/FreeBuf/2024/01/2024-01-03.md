@@ -45,3 +45,7 @@
 
 + [卡巴斯基年度安全报告：微软office漏洞最容易被利用；AI成为网络犯罪的武器](https://www.freebuf.com/articles/paper/387967.html)
 
++ [智能汽车网络安全的那些事 | 测试篇](https://www.freebuf.com/articles/endpoint/388022.html)
+
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
