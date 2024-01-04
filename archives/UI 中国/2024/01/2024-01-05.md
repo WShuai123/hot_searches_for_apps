@@ -13,3 +13,5 @@
 
 + [动效设计学习完整篇｜顺滑解决各种动效难题](https://www.ui.cn/detail/660554.html)
 
++ [AE教程 |  手把手教会你 “毛玻璃质感”天气卡片动效](https://www.ui.cn/detail/652155.html)
+

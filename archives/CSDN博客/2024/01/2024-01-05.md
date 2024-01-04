@@ -103,3 +103,23 @@
 
 + [构建异步高并发服务器：Netty与Spring Boot的完美结合](https://blog.csdn.net/Why_does_it_work/article/details/135390448)
 
++ [Copilot插件：开启AI编程新篇章](https://blog.csdn.net/double222222/article/details/135394291)
+
++ [深入探究：使用大型AI模型的实战指南](https://blog.csdn.net/qq_44273429/article/details/135384391)
+
++ [Mybatis-Plus乐观锁配置使用流程【OptimisticLockerInnerInterceptor】](https://blog.csdn.net/weixin_45735355/article/details/135366100)
+
++ [[PySpark学习]RDD的转换（Transformation）与动作算子（Action）](https://blog.csdn.net/alie_123/article/details/135394812)
+
++ [【Linux操作系统】探秘Linux奥秘：日志管理的解密与实战](https://blog.csdn.net/m0_57532432/article/details/134900307)
+
++ [Windows使用VSCode配置部署C++与OpenCV环境](https://blog.csdn.net/m0_46253579/article/details/135353417)
+
++ [SpringBoot集成沙箱支付](https://blog.csdn.net/weixin_73320743/article/details/135385267)
+
++ [Python消消乐小游戏（PyGame）](https://blog.csdn.net/m0_68111267/article/details/135390188)
+
++ [【K8s】K8s是什么，一文带你了解kubernetes](https://blog.csdn.net/2201_75366661/article/details/135362621)
+
++ [一文掌握文本语义分割：从朴素切分、Cross-Segment到阿里SeqModel](https://blog.csdn.net/v_JULY_v/article/details/135386202)
+
