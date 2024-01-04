@@ -221,3 +221,19 @@
 
 + [《博德之门3》荣耀模式玩家因想和NPC狗狗玩丢球 惨遭敌对团灭](https://www.3dmgame.com/news/202401/3885318.html)
 
++ [LG公布最快OLED面板：27寸1440p支持480Hz](https://www.3dmgame.com/news/202401/3885331.html)
+
++ [坂口博信称新游仍在策划中 不做游戏太闲的无聊](https://www.3dmgame.com/news/202401/3885332.html)
+
++ [角色扮演Rougelite《百剑讨妖传绮谭》宣布2024年10月发售 登陆全平台](https://www.3dmgame.com/news/202401/3885329.html)
+
++ [2024年上映的好莱坞大片名单 《沙丘2》《死侍3》《小丑2》等](https://www.3dmgame.com/news/202401/3885330.html)
+
++ [均价超50万确实不贵！华为问界M9用户自画像：企业老板、高管和事业单位为主](https://www.3dmgame.com/news/202401/3885328.html)
+
++ [Mod大佬在《星际争霸2》中“复活”《风暴英雄》](https://www.3dmgame.com/news/202401/3885325.html)
+
++ [《女鬼桥2：释魂路》宣布2024年发售 登陆全平台](https://www.3dmgame.com/news/202401/3885326.html)
+
++ [三星计划到2030年实现芯片工厂完全自动化 正开发本土自研智能传感器](https://www.3dmgame.com/news/202401/3885327.html)
+
