@@ -129,3 +129,9 @@
 
 + [育碧发布《波斯王子：失落的王冠》神话世界预告](https://www.3dmgame.com/news/202401/3885275.html)
 
++ [“养鸟”桌游《展翅翱翔》即将推出包含龙类的奇幻生物版本](https://www.3dmgame.com/news/202401/3885282.html)
+
++ [心理恐怖游戏《Whispering Lane》Steam页面上线 2月发售](https://www.3dmgame.com/news/202401/3885280.html)
+
++ [《擅长捉弄的高木同学》日剧3月26日开播 新剧照公开](https://www.3dmgame.com/news/202401/3885279.html)
+

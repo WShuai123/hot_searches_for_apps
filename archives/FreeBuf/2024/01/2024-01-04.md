@@ -45,3 +45,5 @@
 
 + [实战案例：记一次利用SpringBoot相关RCE漏洞拿下某数字化平台系统](https://www.freebuf.com/articles/web/388523.html)
 
++ [对美国防部《2023网络战略》的解读和分析](https://www.freebuf.com/articles/neopoints/387572.html)
+

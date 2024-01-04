@@ -141,3 +141,7 @@
 
 + [工作中redis相关知识总结](https://blog.csdn.net/YZL40514131/article/details/135371636)
 
++ [Python新年烟花代码](https://blog.csdn.net/gxz888/article/details/135338323)
+
++ [Linux 权限掌控术:深入探索和用户管理](https://blog.csdn.net/2203_75397752/article/details/134827721)
+
