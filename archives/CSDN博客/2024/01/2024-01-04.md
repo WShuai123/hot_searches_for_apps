@@ -157,3 +157,11 @@
 
 + [微服务-Gateway](https://blog.csdn.net/qq_43259860/article/details/135365930)
 
++ [使用pytorch构建图卷积网络预测化学分子性质](https://blog.csdn.net/m0_46510245/article/details/135379282)
+
++ [探索模块化神经网络在现代人工智能中的功效和应用](https://blog.csdn.net/gongdiwudu/article/details/135369865)
+
++ [如何解决大模型的「幻觉」问题？](https://blog.csdn.net/qq_41739364/article/details/135362690)
+
++ [『年度总结』逐梦编程之始：我的2023学习回顾与展望](https://blog.csdn.net/2301_79558858/article/details/135377251)
+

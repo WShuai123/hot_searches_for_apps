@@ -57,3 +57,11 @@
 
 + [追踪黑客脚步：实战Process Hollowing调试揭示攻击手法](https://www.freebuf.com/articles/system/388547.html)
 
++ [某企业安全规划实战篇](https://www.freebuf.com/articles/379866.html)
+
++ [研究人员发布了Black Basta勒索软件的免费解密器](https://www.freebuf.com/news/388654.html)
+
++ [黑客利用宝马网站发起钓鱼攻击](https://www.freebuf.com/news/388671.html)
+
++ [中国信通院发布《全球数字治理白皮书（2023年）》](https://www.freebuf.com/news/388662.html)
+

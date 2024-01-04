@@ -37,3 +37,5 @@
 
 + [经典重生：概念设计师打造 Windows XP 2024 Edition](https://m.ithome.com/html/743201.htm)
 
++ [奇瑞风云 A8 上市：搭载 1.5T 插混动力、综合续航超 1400 公里，11.99 万元起](https://m.ithome.com/html/743211.htm)
+

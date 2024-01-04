@@ -199,3 +199,5 @@
 
 + [P社“模拟人生”《Life by You》还受到国际象棋启发](https://www.3dmgame.com/news/202401/3885312.html)
 
++ [乐高索尼克将推出方头仔版纳克鲁斯和夏特套装 2月1日发售](https://www.3dmgame.com/news/202401/3885314.html)
+
