@@ -285,3 +285,5 @@
 
 + [更多LOL赛事？拳头正和多个主办方商谈第三方赛事授权](https://www.3dmgame.com/news/202401/3885355.html)
 
++ [英特尔成立新AI软件公司 专为企业客户提供生成式软件](https://www.3dmgame.com/news/202401/3885357.html)
+

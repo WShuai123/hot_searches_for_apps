@@ -55,3 +55,5 @@
 
 + [《王者荣耀》S34 新赛季“云梦有灵”今日上线：峡谷地形调整、V10 增加奖励 / 特权](https://m.ithome.com/html/743231.htm)
 
++ [OPPO Find X7 系列手机搭载全球首款双潜望镜头，首发安卓全焦段 4K 杜比 HDR 视频拍摄](https://m.ithome.com/html/743272.htm)
+
