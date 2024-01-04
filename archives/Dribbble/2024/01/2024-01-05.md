@@ -69,3 +69,19 @@
 
 + [Birthday Party Branding](https://dribbble.com/shots/)
 
++ [2024 Lift Off!](https://dribbble.com/shots/)
+
++ [Cycode Brand identity illustrations guide, illustrator](https://dribbble.com/shots/)
+
++ [Movie Library App](https://dribbble.com/shots/)
+
++ [Vizard Rebrand & Case Study ????](https://dribbble.com/shots/)
+
++ [Roofing Logomark](https://dribbble.com/shots/)
+
++ [TL Law Pineapple Seal Logo Concept](https://dribbble.com/shots/)
+
++ [Vago / 2024](https://dribbble.com/shots/)
+
++ [Netsuite ERP - Inventory Management Software](https://dribbble.com/shots/)
+
