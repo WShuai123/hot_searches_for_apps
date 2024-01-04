@@ -135,3 +135,7 @@
 
 + [Qlient](https://www.producthunt.com/posts/qlient)
 
++ [HabitLoop - Habit tracker for iOS](https://www.producthunt.com/posts/habitloop-habit-tracker-for-ios)
+
++ [smudge.ai](https://www.producthunt.com/posts/smudge-ai)
+

@@ -287,3 +287,11 @@
 
 + [英特尔成立新AI软件公司 专为企业客户提供生成式软件](https://www.3dmgame.com/news/202401/3885357.html)
 
++ [“纯血鸿蒙”电脑、手机要来了 未来将脱离安卓Windows](https://www.3dmgame.com/news/202401/3885361.html)
+
++ [坤哥爆料Epic今年喜加一继续 近两周游戏公布](https://www.3dmgame.com/news/202401/3885360.html)
+
++ [梦工厂动画电影《功夫熊猫4》新剧照曝光](https://www.3dmgame.com/news/202401/3885359.html)
+
++ [RTX 4090 D显卡出货时间延后 已推迟到1月20日左右](https://www.3dmgame.com/news/202401/3885358.html)
+

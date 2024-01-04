@@ -57,3 +57,5 @@
 
 + [OPPO Find X7 系列手机搭载全球首款双潜望镜头，首发安卓全焦段 4K 杜比 HDR 视频拍摄](https://m.ithome.com/html/743272.htm)
 
++ [小米王化回应 SU7 汽车开启预定：P 图更用心，但依然是假的](https://m.ithome.com/html/743405.htm)
+
