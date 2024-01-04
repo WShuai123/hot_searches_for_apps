@@ -65,3 +65,5 @@
 
 + [中国信通院发布《全球数字治理白皮书（2023年）》](https://www.freebuf.com/news/388662.html)
 
++ [DVenom：一款功能强大的Shellcode加密封装和加载工具](https://www.freebuf.com/sectool/386012.html)
+

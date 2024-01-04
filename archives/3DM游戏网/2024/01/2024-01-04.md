@@ -201,3 +201,23 @@
 
 + [乐高索尼克将推出方头仔版纳克鲁斯和夏特套装 2月1日发售](https://www.3dmgame.com/news/202401/3885314.html)
 
++ [赛博刑具！国外玩家尝试制作史上最糟糕的电子游戏 多次迭代越来越烂](https://www.3dmgame.com/news/202401/3885322.html)
+
++ [平台冒险游戏《钻头传奇》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3885324.html)
+
++ [《终结者2》等25部经典电影进入美国国家影片收藏簿](https://www.3dmgame.com/news/202401/3885323.html)
+
++ [漫画作者官宣《中年大叔转生反派千金》即将动画化](https://www.3dmgame.com/news/202401/3885321.html)
+
++ [《妮姬：胜利女神》推出联名冰淇淋 实物造型引吐槽：新鲜制造](https://www.3dmgame.com/news/202401/3885320.html)
+
++ [Twitch进一步收紧直播尺度 禁止暗示果体直播](https://www.3dmgame.com/news/202401/3885319.html)
+
++ [《命运2》新内容将陷入“冬眠” 玩家数跌破史低](https://www.3dmgame.com/news/202401/3885317.html)
+
++ [《脑航员》开发商Double Fine回应新作传闻：正在开发中](https://www.3dmgame.com/news/202401/3885316.html)
+
++ [《暗黑破坏神4》DLC计划曝出 售价近百美元皮肤坐骑引热议](https://www.3dmgame.com/news/202401/3885315.html)
+
++ [《博德之门3》荣耀模式玩家因想和NPC狗狗玩丢球 惨遭敌对团灭](https://www.3dmgame.com/news/202401/3885318.html)
+
