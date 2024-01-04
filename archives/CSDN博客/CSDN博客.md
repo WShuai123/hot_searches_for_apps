@@ -101,3 +101,5 @@
 
 + [请查收使用OpenAI的Whisper进行语音识别的攻略](https://blog.csdn.net/u013250861/article/details/135353287)
 
++ [构建异步高并发服务器：Netty与Spring Boot的完美结合](https://blog.csdn.net/Why_does_it_work/article/details/135390448)
+
