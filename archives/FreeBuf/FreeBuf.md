@@ -49,3 +49,9 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [尼日利亚黑客利用BEC欺诈窃取750万美元，或面临最高20年刑期](https://www.freebuf.com/news/388636.html)
+
++ [医疗保健科技公司遭遇网络攻击，预计影响 450 万客户](https://www.freebuf.com/news/388638.html)
+
++ [2024年全球网安行业趋势预测TOP20 |  FreeBuf年度盘点](https://www.freebuf.com/articles/388622.html)
+
