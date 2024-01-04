@@ -67,3 +67,5 @@
 
 + [DVenom：一款功能强大的Shellcode加密封装和加载工具](https://www.freebuf.com/sectool/386012.html)
 
++ [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
+

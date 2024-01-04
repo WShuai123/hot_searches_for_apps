@@ -179,3 +179,5 @@
 
 + [黑客自学 - 笔记](https://blog.csdn.net/kailiaq_1/article/details/135362800)
 
++ [【JAVA】AI医疗导诊系统源码](https://blog.csdn.net/qq_27741787/article/details/135369469)
+

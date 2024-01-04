@@ -151,3 +151,9 @@
 
 + [Movie Library App](https://dribbble.com/shots/)
 
++ [Water Tracker Web Platform](https://dribbble.com/shots/)
+
++ [PC setup #3](https://dribbble.com/shots/)
+
++ [Ramos - UX/UI design of the digital analytics platform](https://dribbble.com/shots/)
+

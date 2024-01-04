@@ -45,3 +45,5 @@
 
 + [又导了？中科院等发现新疑似室温超导材料，作者对结果很有信心](https://m.ithome.com/html/743330.htm)
 
++ [一加 Ace 3 手机发布：搭载骁龙 8 Gen 2 处理器，售价 2599 元起](https://m.ithome.com/html/743371.htm)
+

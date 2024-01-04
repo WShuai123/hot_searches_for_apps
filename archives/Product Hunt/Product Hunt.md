@@ -121,3 +121,17 @@
 
 + [Convertixo for e-commerce](https://www.producthunt.com/posts/convertixo-for-e-commerce)
 
++ [Hubble Tailwind CSS](https://www.producthunt.com/posts/hubble-tailwind-css)
+
++ [authentiGPT](https://www.producthunt.com/posts/authentigpt)
+
++ [WebPower](https://www.producthunt.com/posts/webpower)
+
++ [McAnswers AI](https://www.producthunt.com/posts/mcanswers-ai)
+
++ [OpenTaskAI](https://www.producthunt.com/posts/opentaskai)
+
++ [Free AI Video Generator by Collov](https://www.producthunt.com/posts/free-ai-video-generator-by-collov)
+
++ [Qlient](https://www.producthunt.com/posts/qlient)
+

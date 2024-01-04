@@ -243,3 +243,19 @@
 
 + [Steam测试版更新：家庭账号不再显示隐藏游戏](https://www.3dmgame.com/news/202401/3885333.html)
 
++ [印度电影迎大发展 2023年本土总票房达13亿美元](https://www.3dmgame.com/news/202401/3885339.html)
+
++ [外星版双点医院《Galacticare》新预告 上半年发售](https://www.3dmgame.com/news/202401/3885340.html)
+
++ [国产战旗SRPG《天临混元》公开 买断制登陆多平台](https://www.3dmgame.com/news/202401/3885341.html)
+
++ [《全职猎人》新舞台剧定妆海报公开 幻影旅团全员亮相](https://www.3dmgame.com/news/202401/3885342.html)
+
++ [2024年最受期待的24款游戏：潜行者2黑神话星刃等](https://www.3dmgame.com/news/202401/3885343.html)
+
++ [张雪峰：我的愿景是“消灭张雪峰”](https://www.3dmgame.com/news/202401/3885336.html)
+
++ [《星刃》女主Eve性感体模引热议 网友吐槽西方政治正确](https://www.3dmgame.com/news/202401/3885337.html)
+
++ [《世上英雄》道歉信：游戏5月内发售](https://www.3dmgame.com/news/202401/3885338.html)
+
