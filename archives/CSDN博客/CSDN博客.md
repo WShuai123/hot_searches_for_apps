@@ -173,3 +173,9 @@
 
 + [【网络编程】——基于TCP协议实现回显服务器及客户端](https://blog.csdn.net/m0_74352571/article/details/135209036)
 
++ [合合TextIn团队发布 - 文档图像多模态大模型技术发展、探索与应用](https://blog.csdn.net/magicyangjay111/article/details/135380460)
+
++ [华为Could API人工智能系列——命名实体识别](https://blog.csdn.net/feng8403000/article/details/135374586)
+
++ [黑客自学 - 笔记](https://blog.csdn.net/kailiaq_1/article/details/135362800)
+

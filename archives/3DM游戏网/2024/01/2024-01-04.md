@@ -237,3 +237,9 @@
 
 + [三星计划到2030年实现芯片工厂完全自动化 正开发本土自研智能传感器](https://www.3dmgame.com/news/202401/3885327.html)
 
++ [贾跃亭公司收到退市通知 只卖出10辆车多为自己人](https://www.3dmgame.com/news/202401/3885335.html)
+
++ [《机械战警：暴戾都市》新游戏+模式更多信息即将公布](https://www.3dmgame.com/news/202401/3885334.html)
+
++ [Steam测试版更新：家庭账号不再显示隐藏游戏](https://www.3dmgame.com/news/202401/3885333.html)
+

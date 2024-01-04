@@ -41,3 +41,7 @@
 
 + [消息称支付宝再战社交，内测“兴趣社区”功能](https://m.ithome.com/html/743261.htm)
 
++ [Epic 喜加一：《瘟疫传说：无罪》免费领，原价 158 元 / 支持中文](https://m.ithome.com/html/743230.htm)
+
++ [又导了？中科院等发现新疑似室温超导材料，作者对结果很有信心](https://m.ithome.com/html/743330.htm)
+
