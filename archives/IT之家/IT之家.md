@@ -33,3 +33,7 @@
 
 + [拼多多内部不满意，消息称多多买菜本地生活业务已完全暂停](https://m.ithome.com/html/743245.htm)
 
++ [原生鸿蒙 HarmonyOS NEXT 本季度开放，华为 1 月 18 日举行“鸿蒙生态千帆启航仪式”](https://m.ithome.com/html/743253.htm)
+
++ [经典重生：概念设计师打造 Windows XP 2024 Edition](https://m.ithome.com/html/743201.htm)
+

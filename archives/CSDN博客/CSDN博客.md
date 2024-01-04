@@ -153,3 +153,7 @@
 
 + [Elasticsearch：如何使用 Elasticsearch 进行排序](https://blog.csdn.net/UbuntuTouch/article/details/135356642)
 
++ [2024肥晨赠书活动第一期：《实战AI大模型》](https://blog.csdn.net/weixin_48998573/article/details/135379158)
+
++ [微服务-Gateway](https://blog.csdn.net/qq_43259860/article/details/135365930)
+

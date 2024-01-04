@@ -195,3 +195,7 @@
 
 + [受《极乐迪斯科》启发 独立RPG《温室》发布试玩](https://www.3dmgame.com/news/202401/3885303.html)
 
++ [微软Win11新年首更 砍掉了有28年历史的写字板应用](https://www.3dmgame.com/news/202401/3885313.html)
+
++ [P社“模拟人生”《Life by You》还受到国际象棋启发](https://www.3dmgame.com/news/202401/3885312.html)
+

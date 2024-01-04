@@ -55,3 +55,5 @@
 
 + [2024年全球网安行业趋势预测TOP20 |  FreeBuf年度盘点](https://www.freebuf.com/articles/388622.html)
 
++ [追踪黑客脚步：实战Process Hollowing调试揭示攻击手法](https://www.freebuf.com/articles/system/388547.html)
+
