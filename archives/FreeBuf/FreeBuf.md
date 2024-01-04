@@ -47,3 +47,5 @@
 
 + [对美国防部《2023网络战略》的解读和分析](https://www.freebuf.com/articles/neopoints/387572.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

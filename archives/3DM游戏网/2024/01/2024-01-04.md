@@ -135,3 +135,41 @@
 
 + [《擅长捉弄的高木同学》日剧3月26日开播 新剧照公开](https://www.3dmgame.com/news/202401/3885279.html)
 
++ [玩家谎称《铁拳8》没黑人是歧视 总监怒斥胡扯](https://www.3dmgame.com/news/202401/3885296.html)
+
++ [《斯普拉遁3》出现脱衣BUG 不过任天堂已经早有准备](https://www.3dmgame.com/news/202401/3885298.html)
+
++ [西部风格刷宝射击游戏《挖洞者2》现已在Xbox平台推出](https://www.3dmgame.com/news/202401/3885300.html)
+
++ [《凶兆》的衍生新片《凶兆前传》发布预告 4月5日上映](https://www.3dmgame.com/news/202401/3885290.html)
+
++ [《星露谷物语》作者公布新年截图 1.6版仍在开发中](https://www.3dmgame.com/news/202401/3885299.html)
+
++ [战锤IP联合创始人去世 享年68岁](https://www.3dmgame.com/news/202401/3885297.html)
+
++ [任天堂提醒：港服Switch“任亏券”限时售卖即将结束](https://www.3dmgame.com/news/202401/3885295.html)
+
++ [《魔岩山传说》1月15日登陆Switch 经典迷宫探索RPG](https://www.3dmgame.com/news/202401/3885293.html)
+
++ [Xbox家电套餐加一 Xbox Series S造型烤面包机上架电商平台](https://www.3dmgame.com/news/202401/3885291.html)
+
++ [前索尼互娱CEO：2024年游戏成本将成为热门话题](https://www.3dmgame.com/news/202401/3885289.html)
+
++ [制片人确认 漫威新剧《回声》中的金并将成为漫威宇宙一角的灭霸](https://www.3dmgame.com/news/202401/3885294.html)
+
++ [外媒推测《贪婪之秋2》或将于2024年9月发售](https://www.3dmgame.com/news/202401/3885292.html)
+
++ [《为奴12年》编剧约翰·里德利版的《永恒族》电视剧遭漫威高层取消](https://www.3dmgame.com/news/202401/3885287.html)
+
++ [《龙之信条2》18分钟新演示 魔剑士盗贼法师斗士杀敌](https://www.3dmgame.com/news/202401/3885286.html)
+
++ [《千与千寻》秘闻录 宣传片与广告为何没有重要角色小白龙](https://www.3dmgame.com/news/202401/3885285.html)
+
++ [《星际公民》新2023年度船包价格出炉：高达4.8万美元](https://www.3dmgame.com/news/202401/3885284.html)
+
++ [绿化休闲游戏《城市丛林》Steam页面上线 今年正式发售](https://www.3dmgame.com/news/202401/3885283.html)
+
++ [《恐鬼症》2024年更新路线图公布 将脱离抢先体验](https://www.3dmgame.com/news/202401/3885288.html)
+
++ [帮B社做游戏：《星空》可操控机甲Mod开发中](https://www.3dmgame.com/news/202401/3885281.html)
+
