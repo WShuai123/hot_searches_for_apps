@@ -201,3 +201,5 @@
 
 + [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
 
++ [智联招聘—招聘找工作求职招人软件](https://itunes.apple.com/cn/app/id488033535?mt=8)
+

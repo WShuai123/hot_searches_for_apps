@@ -49,3 +49,23 @@
 
 + [Train story](https://dribbble.com/shots/)
 
++ [Personal finance dashboard — Untitled UI](https://dribbble.com/shots/)
+
++ [Water Tracker Web Platform](https://dribbble.com/shots/)
+
++ ["Woman with Peacock" - NFT art.](https://dribbble.com/shots/)
+
++ [PC setup #4](https://dribbble.com/shots/)
+
++ [Tubik Design Year Review](https://dribbble.com/shots/)
+
++ [Picto Branding](https://dribbble.com/shots/)
+
++ [cube.io - 3D Web Based Editor](https://dribbble.com/shots/)
+
++ [Zermatt, Switzerland Book & Poster](https://dribbble.com/shots/)
+
++ [Christmas 2023 - Clay](https://dribbble.com/shots/)
+
++ [Birthday Party Branding](https://dribbble.com/shots/)
+
