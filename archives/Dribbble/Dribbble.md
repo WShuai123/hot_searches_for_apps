@@ -85,3 +85,17 @@
 
 + [Netsuite ERP - Inventory Management Software](https://dribbble.com/shots/)
 
++ [Happy New Year](https://dribbble.com/shots/)
+
++ [Decentralized Exchange Web Design](https://dribbble.com/shots/)
+
++ [Cherry Blossom Sweets Logo Mockup](https://dribbble.com/shots/)
+
++ [We're hiring!](https://dribbble.com/shots/)
+
++ [Zombie sticker](https://dribbble.com/shots/)
+
++ [Wild Stripes ????????](https://dribbble.com/shots/)
+
++ [Growcase 2024 Studio Brand Update](https://dribbble.com/shots/)
+
