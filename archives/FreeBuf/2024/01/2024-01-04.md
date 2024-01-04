@@ -41,3 +41,7 @@
 
 + [身份危机：安全领域的最大奖项](https://www.freebuf.com/articles/es/387691.html)
 
++ [FreeBuf早报 | ChatGPT被恶意注册域名超65万个；广西19岁黑客倒卖明星身份信息](https://www.freebuf.com/news/388586.html)
+
++ [实战案例：记一次利用SpringBoot相关RCE漏洞拿下某数字化平台系统](https://www.freebuf.com/articles/web/388523.html)
+

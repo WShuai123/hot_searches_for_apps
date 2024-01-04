@@ -27,3 +27,5 @@
 
 + [【IT之家图赏】小米 14 / Watch S3 及 SU7 汽车“橄榄绿”美图：宁静深邃，暖意顿生](https://m.ithome.com/html/743185.htm)
 
++ [微信 2024 年首更：安卓版 8.0.45 最新官方正式版更新内容汇总](https://m.ithome.com/html/743222.htm)
+

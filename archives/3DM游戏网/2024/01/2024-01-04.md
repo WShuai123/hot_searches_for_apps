@@ -121,3 +121,11 @@
 
 + [《波斯王子：失落的王冠》官方PC配置需求公布](https://www.3dmgame.com/news/202401/3885267.html)
 
++ [《战地》系列新Logo曝光 继续由多家工作室联合打造](https://www.3dmgame.com/news/202401/3885278.html)
+
++ [迪士尼被超越！环球影业成2023年票房最高的电影公司](https://www.3dmgame.com/news/202401/3885276.html)
+
++ [2023年Steam平台平均每天推出近40款新游戏](https://www.3dmgame.com/news/202401/3885277.html)
+
++ [育碧发布《波斯王子：失落的王冠》神话世界预告](https://www.3dmgame.com/news/202401/3885275.html)
+

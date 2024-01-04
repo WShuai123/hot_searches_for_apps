@@ -135,3 +135,9 @@
 
 + [Windows使用VSCode配置部署C++与OpenCV环境](https://blog.csdn.net/m0_46253579/article/details/135353417)
 
++ [宣传照（私密）勿转发](https://blog.csdn.net/qq_42875345/article/details/135343605)
+
++ [AIGC带给开发者的冲击](https://blog.csdn.net/dawei_yang000000/article/details/135362297)
+
++ [工作中redis相关知识总结](https://blog.csdn.net/YZL40514131/article/details/135371636)
+
