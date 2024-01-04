@@ -103,3 +103,9 @@
 
 + [Epic喜加一：《漫威银河护卫队》免费领](https://www.3dmgame.com/news/202401/3885364.html)
 
++ [《尘埃异变》将于本月移植到任天堂Switch平台](https://www.3dmgame.com/news/202401/3885367.html)
+
++ [《魔法门：英雄交锋 决定版》推出PS4和Switch实体版](https://www.3dmgame.com/news/202401/3885366.html)
+
++ [育碧发布《波斯王子：失落的王冠》易用性预告](https://www.3dmgame.com/news/202401/3885365.html)
+

@@ -123,3 +123,5 @@
 
 + [一文掌握文本语义分割：从朴素切分、Cross-Segment到阿里SeqModel](https://blog.csdn.net/v_JULY_v/article/details/135386202)
 
++ [Qt/C++编写视频监控系统82-自定义音柱显示](https://blog.csdn.net/feiyangqingyun/article/details/135355456)
+
