@@ -157,3 +157,7 @@
 
 + [Ramos - UX/UI design of the digital analytics platform](https://dribbble.com/shots/)
 
++ [Vizard Rebrand & Case Study ????](https://dribbble.com/shots/)
+
++ [Stoneblock SVG Typeface - Available For Sale](https://dribbble.com/shots/)
+

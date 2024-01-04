@@ -181,3 +181,7 @@
 
 + [【JAVA】AI医疗导诊系统源码](https://blog.csdn.net/qq_27741787/article/details/135369469)
 
++ [为什么会去华为 OD？网传的 OD 转华为正编，真的假的？](https://blog.csdn.net/guorui_java/article/details/135004899)
+
++ [Mysql数据库：select from语句详解](https://blog.csdn.net/qq_41840843/article/details/135360791)
+
