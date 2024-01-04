@@ -51,3 +51,33 @@
 
 + [mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
 
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [uutils / coreutils](https://github.com/uutils/coreutils)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [electronicarts / CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+
++ [ali-vilab / dreamtalk](https://github.com/ali-vilab/dreamtalk)
+
++ [embedchain / embedchain](https://github.com/embedchain/embedchain)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [labring / FastGPT](https://github.com/labring/FastGPT)
+
++ [Frrrrrrrrank / auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)
+
++ [zju3dv / EasyVolcap](https://github.com/zju3dv/EasyVolcap)
+
++ [dotnet / maui](https://github.com/dotnet/maui)
+
++ [SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+
++ [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [googleapis / googleapis](https://github.com/googleapis/googleapis)
+

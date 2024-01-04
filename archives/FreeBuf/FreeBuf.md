@@ -71,3 +71,5 @@
 
 + [年度盘点 | 亚信安全深度解读2023年中国网络安全重要政策法规](https://www.freebuf.com/news/388744.html)
 
++ [年度盘点 | 深度解读2023年中国网络安全重要政策法规](https://www.freebuf.com/articles/neopoints/388744.html)
+

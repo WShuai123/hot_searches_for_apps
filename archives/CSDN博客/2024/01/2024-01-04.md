@@ -185,3 +185,15 @@
 
 + [Mysql数据库：select from语句详解](https://blog.csdn.net/qq_41840843/article/details/135360791)
 
++ [从云计算到物联网：虚拟化技术的演变与嵌入式系统的融合](https://blog.csdn.net/qq_32682301/article/details/135385684)
+
++ [【网络】网络层IP地址和IP数据报的格式](https://blog.csdn.net/qq_35995514/article/details/135384511)
+
++ [spring创建与使用](https://blog.csdn.net/qq_68006585/article/details/135319788)
+
++ [Flink实时电商数仓之旁路缓存](https://blog.csdn.net/qq_44273739/article/details/135354914)
+
++ [JavaScript中的数据缓存与内存泄露：解密前端性能优化与代码健康](https://blog.csdn.net/2302_76329106/article/details/135354425)
+
++ [请查收使用OpenAI的Whisper进行语音识别的攻略](https://blog.csdn.net/u013250861/article/details/135353287)
+

@@ -273,3 +273,7 @@
 
 + [把游戏打投降了，美国13岁男孩或成通关俄罗斯方块第一人](https://www.3dmgame.com/news/202401/3885345.html)
 
++ [一加Ace 3正式发布：第二代骁龙8，2599元起](https://www.3dmgame.com/news/202401/3885353.html)
+
++ [美国仓库发现价值几万美元未开封老游戏](https://www.3dmgame.com/news/202401/3885352.html)
+
