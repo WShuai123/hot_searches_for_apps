@@ -253,3 +253,9 @@
 
 + [《暗黑4》第三赛季1月23日开始 暴雪即将公布新细节](https://www.3dmgame.com/news/202401/3885438.html)
 
++ [CBS将推出现代剧集《华生后记》 黑人出演华生](https://www.3dmgame.com/news/202401/3885442.html)
+
++ [《街头霸王6》1月格斗通行证“Capcom Cup支持者”现已推出](https://www.3dmgame.com/news/202401/3885440.html)
+
++ [高通推出第二代骁龙XR2+平台 支持4.3K@90FPS空间计算](https://www.3dmgame.com/news/202401/3885441.html)
+
