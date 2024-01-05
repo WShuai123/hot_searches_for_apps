@@ -145,3 +145,9 @@
 
 + [Linux之文件系统与软硬链接](https://blog.csdn.net/zdlynj/article/details/135162347)
 
++ [【人工智能】深入了解人工智能的核心算法与应用实践](https://blog.csdn.net/2202_75623950/article/details/135402724)
+
++ [k8s---pod的生命周期](https://blog.csdn.net/qq_51506982/article/details/135354839)
+
++ [【赠书第16期】码上行动：用ChatGPT学会Python编程](https://blog.csdn.net/qq_20016593/article/details/135372839)
+

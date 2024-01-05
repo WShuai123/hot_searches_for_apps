@@ -37,3 +37,9 @@
 
 + [华为 nova 12 / Pro 手机今日首销：将搭载麒麟 8000 处理器，2999 元起](https://m.ithome.com/html/743469.htm)
 
++ [Epic 喜加一：动作冒险游戏《漫威银河护卫队》免费送，原价 359 元](https://m.ithome.com/html/743454.htm)
+
++ [苹果 iPhone 16 Pro / Max 渲染图曝光：屏幕增至 6.3/6.9 英寸，新增拍照按钮](https://m.ithome.com/html/743457.htm)
+
++ [戴尔发布全新 XPS 13/14/16 笔记本：酷睿 Ultra 处理器 + OLED 屏](https://m.ithome.com/html/743411.htm)
+

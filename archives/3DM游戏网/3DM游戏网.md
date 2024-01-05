@@ -181,3 +181,17 @@
 
 + [受作者身体状况等影响 连载超过40年的《足球小将》漫画即将完结](https://www.3dmgame.com/news/202401/3885401.html)
 
++ [《原神》角色演示-「夏沃蕾：弹无虚发」](https://www.3dmgame.com/news/202401/3885408.html)
+
++ [KK对战平台超上头新图《爆炸兄弟》！品质拉满爽快割草](https://www.3dmgame.com/news/202401/3885410.html)
+
++ [《数字魅影：极限竞赛》赛博朋克rogue-lite独游Playtest报名开启](https://www.3dmgame.com/news/202401/3885409.html)
+
++ [TH推测索尼应将于第三季度末公布PS5 Pro](https://www.3dmgame.com/news/202401/3885407.html)
+
++ [NASA邀请公众“乘坐”月球车 VIPER：将名字发送到月球上](https://www.3dmgame.com/news/202401/3885406.html)
+
++ [《咒术回战》漫画累计销量破9千万本 五条悟和宿傩登日本报纸封面头条](https://www.3dmgame.com/news/202401/3885405.html)
+
++ [为新年工作加油 《最终幻想7重置版》官方发蒂法、爱丽丝、尤菲热舞视频](https://www.3dmgame.com/news/202401/3885404.html)
+

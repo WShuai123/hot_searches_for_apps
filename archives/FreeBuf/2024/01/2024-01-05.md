@@ -57,3 +57,5 @@
 
 + [一文学习主流网络安全行业主流模型](https://www.freebuf.com/articles/others-articles/388414.html)
 
++ [身份危机：安全领域的最大奖项](https://www.freebuf.com/articles/es/387691.html)
+
