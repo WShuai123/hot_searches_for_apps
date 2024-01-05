@@ -129,3 +129,23 @@
 
 + [PH Hunters](https://www.producthunt.com/posts/ph-hunters)
 
++ [AppWeaver](https://www.producthunt.com/posts/appweaver)
+
++ [GitHub Graph Drawer](https://www.producthunt.com/posts/github-graph-drawer)
+
++ [Map Pathfinding Visualizer](https://www.producthunt.com/posts/map-pathfinding-visualizer)
+
++ [ResumeForrest v1.0](https://www.producthunt.com/posts/resumeforrest-v1-0)
+
++ [Ingredient Scanner & Analyzer](https://www.producthunt.com/posts/ingredient-scanner-analyzer)
+
++ [Parse Url Online](https://www.producthunt.com/posts/parse-url-online)
+
++ [Minodor](https://www.producthunt.com/posts/minodor-3)
+
++ [AnnounceBot - Team Celebration](https://www.producthunt.com/posts/announcebot-team-celebration)
+
++ [Free AI Privacy Policy & ToS Generator](https://www.producthunt.com/posts/free-ai-privacy-policy-tos-generator)
+
++ [Last Plannr](https://www.producthunt.com/posts/last-plannr)
+

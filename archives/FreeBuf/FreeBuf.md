@@ -65,3 +65,5 @@
 
 + [摧毁最大电信运营商的系统，俄罗斯黑客持续攻击乌克兰](https://www.freebuf.com/news/388832.html)
 
++ [交易系统“宕机”，券商再因网络安全问题被监管点名](https://www.freebuf.com/news/388814.html)
+
