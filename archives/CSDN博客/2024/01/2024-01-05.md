@@ -141,3 +141,7 @@
 
 + [CTF数据分析题详解](https://blog.csdn.net/qq_68163788/article/details/135372466)
 
++ [K8S--部署SpringBoot项目实战](https://blog.csdn.net/feiying0canglang/article/details/135201415)
+
++ [Linux之文件系统与软硬链接](https://blog.csdn.net/zdlynj/article/details/135162347)
+

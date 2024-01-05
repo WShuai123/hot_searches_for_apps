@@ -175,3 +175,9 @@
 
 + [美漫《再生侠》作者：好莱坞改编电影成败就在今年](https://www.3dmgame.com/news/202401/3885390.html)
 
++ [iPhone15Pro Max价格大跳水 256GB到手仅8298元](https://www.3dmgame.com/news/202401/3885402.html)
+
++ [《疾速追杀》导演希望能够尝试拍一部《星球大战》](https://www.3dmgame.com/news/202401/3885403.html)
+
++ [受作者身体状况等影响 连载超过40年的《足球小将》漫画即将完结](https://www.3dmgame.com/news/202401/3885401.html)
+

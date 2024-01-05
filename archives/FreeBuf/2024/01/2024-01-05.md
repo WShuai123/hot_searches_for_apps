@@ -55,3 +55,5 @@
 
 + [2023年度全球重大关基安全事件 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/news/388624.html)
 
++ [一文学习主流网络安全行业主流模型](https://www.freebuf.com/articles/others-articles/388414.html)
+
