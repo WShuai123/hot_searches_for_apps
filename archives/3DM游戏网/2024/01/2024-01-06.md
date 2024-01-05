@@ -105,3 +105,11 @@
 
 + [经典平台解谜《3D平衡球》登陆Steam 首发15.6元促销](https://www.3dmgame.com/news/202401/3885446.html)
 
++ [业界持续裁员 Bossa和Archiact工作室遭受打击](https://www.3dmgame.com/news/202401/3885451.html)
+
++ [Mantic/343宣布推出《光环》桌面微缩模型游戏](https://www.3dmgame.com/news/202401/3885450.html)
+
++ [原手游《王权：三国》将于1/11登陆Switch和PC](https://www.3dmgame.com/news/202401/3885449.html)
+
++ [免费格斗游戏《Toribash Next》面向PC公布](https://www.3dmgame.com/news/202401/3885448.html)
+
