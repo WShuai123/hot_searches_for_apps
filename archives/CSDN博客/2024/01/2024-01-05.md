@@ -165,3 +165,13 @@
 
 + [EasyRecovery2024永久免费版电脑数据恢复软件](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/135196750)
 
++ [【ESP32接入国产大模型之文心一言】](https://blog.csdn.net/vor234/article/details/135372118)
+
++ [如何使用可视化管理工具DockerUI远程管理docker容器](https://blog.csdn.net/asdssadddd/article/details/135408294)
+
++ [Flink任务实战优化](https://blog.csdn.net/weixin_42049123/article/details/135408159)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/S18374/article/details/135387925)
+
++ [【Redis-09】Redis哨兵机制的实现原理-Sentinel](https://blog.csdn.net/qq_35850405/article/details/135378917)
+
