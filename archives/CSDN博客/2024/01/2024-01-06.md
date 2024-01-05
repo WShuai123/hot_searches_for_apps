@@ -101,3 +101,11 @@
 
 + [CSDN-2023年成长之路-Tech行者](https://blog.csdn.net/m0_62338174/article/details/135375877)
 
++ [构建Python随机密码生成器：保障账户安全的简易工具](https://blog.csdn.net/qq_44273429/article/details/135405340)
+
++ [「小明赠书活动」2024第二期《实战AI大模型》](https://blog.csdn.net/FMC_WBL/article/details/135408946)
+
++ [【2023 CSIG垂直领域大模型】大模型时代，如何完成IDP智能文档处理领域的OCR大一统？](https://blog.csdn.net/air__Heaven/article/details/135407255)
+
++ [二蛋赠书十三期：《一书读懂物联网》](https://blog.csdn.net/qq_28314431/article/details/135349945)
+
