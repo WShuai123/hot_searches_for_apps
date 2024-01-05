@@ -249,3 +249,7 @@
 
 + [LG将带来业界首款QHD@480Hz游戏OLED屏](https://www.3dmgame.com/news/202401/3885437.html)
 
++ [《DOTA2》Nigma战队完整阵容公布 Ghost加盟转三](https://www.3dmgame.com/news/202401/3885439.html)
+
++ [《暗黑4》第三赛季1月23日开始 暴雪即将公布新细节](https://www.3dmgame.com/news/202401/3885438.html)
+
