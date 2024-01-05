@@ -159,3 +159,9 @@
 
 + [基于多反应堆的高并发服务器【C/C++/Reactor】（中）Buffer的创建和销毁、扩容、写入数据](https://blog.csdn.net/weixin_41987016/article/details/135394303)
 
++ [AI时代Python金融大数据分析实战：ChatGPT让金融大数据分析插上翅膀](https://blog.csdn.net/m0_68662723/article/details/135406138)
+
++ [4种SVM主要核函数及相关参数的比较](https://blog.csdn.net/m0_46510245/article/details/135402015)
+
++ [EasyRecovery2024永久免费版电脑数据恢复软件](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/135196750)
+

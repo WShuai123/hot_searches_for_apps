@@ -195,3 +195,19 @@
 
 + [为新年工作加油 《最终幻想7重置版》官方发蒂法、爱丽丝、尤菲热舞视频](https://www.3dmgame.com/news/202401/3885404.html)
 
++ [种田游戏《Abyss: New Dawn》Steam页面上线 年内发售](https://www.3dmgame.com/news/202401/3885419.html)
+
++ [媒体根据信息自制渲染图 展示iPhone 16 Pro外观](https://www.3dmgame.com/news/202401/3885418.html)
+
++ [2024年纽约游戏奖提名名单公布 《博德之门3》六项提名领跑全场](https://www.3dmgame.com/news/202401/3885417.html)
+
++ [曝特斯拉对中国销售员工“美团式”实时管理：每小时监控一次](https://www.3dmgame.com/news/202401/3885416.html)
+
++ [杰森斯坦森主演电影《养蜂人》发布终极预告 1月12日上映](https://www.3dmgame.com/news/202401/3885415.html)
+
++ [《GTA三部曲：终极版》PC版或将获手机端改进更新](https://www.3dmgame.com/news/202401/3885414.html)
+
++ [《英雄联盟》2024季中冠军赛MSI落户中国成都 冠军直通世界赛](https://www.3dmgame.com/news/202401/3885413.html)
+
++ [拉瑞安好温柔！《博德之门3》将粉丝患病的父亲做进游戏](https://www.3dmgame.com/news/202401/3885411.html)
+

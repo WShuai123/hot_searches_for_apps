@@ -105,3 +105,13 @@
 
 + [Habit Harbor](https://www.producthunt.com/posts/habit-harbor)
 
++ [Setify - Gym Workout Tracker](https://www.producthunt.com/posts/setify-gym-workout-tracker)
+
++ [Journeys - Photo Journal](https://www.producthunt.com/posts/journeys-photo-journal)
+
++ [T1 Tomahawk](https://www.producthunt.com/posts/t1-tomahawk)
+
++ [The Bulletproof Notion Workspace 4.0](https://www.producthunt.com/posts/the-bulletproof-notion-workspace-4-0)
+
++ [Zing](https://www.producthunt.com/posts/zing-ef827ba9-1bb2-4825-8a33-2095d1cc0ddc)
+

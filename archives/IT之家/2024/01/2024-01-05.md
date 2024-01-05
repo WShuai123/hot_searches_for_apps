@@ -45,3 +45,7 @@
 
 + [王化公布“小米汽车 SU7 终极辟谣”：发布会结束前所有版本、售价信息和海报都是假的](https://m.ithome.com/html/743485.htm)
 
++ [华为 nova 12 / Pro 手机今日首销：预计搭载麒麟 8000 处理器，2999 元起](https://m.ithome.com/html/743469.htm)
+
++ [IT之家 iOS / 安卓版 8.81 发布：致敬，勋章！以及小米澎湃 OS 小尾巴...](https://m.ithome.com/html/743538.htm)
+
