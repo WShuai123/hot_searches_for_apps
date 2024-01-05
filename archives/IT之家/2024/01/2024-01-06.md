@@ -25,3 +25,5 @@
 
 + [小米 3A 快充数据线上架：适用于苹果 iPhone 15 手机，售价 19 元](https://m.ithome.com/html/743584.htm)
 
++ [吉利银河首款纯电轿车 E8 上市：风阻系数 0.199Cd、45 英寸大屏，17.58 万元起](https://m.ithome.com/html/743628.htm)
+
