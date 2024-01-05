@@ -59,3 +59,7 @@
 
 + [身份危机：安全领域的最大奖项](https://www.freebuf.com/articles/es/387691.html)
 
++ [如何使用WebSecProbe对Web应用程序执行复杂的网络安全评估](https://www.freebuf.com/sectool/386013.html)
+
++ [隐私保护大事件！Google终结第三方Cookie](https://www.freebuf.com/news/388806.html)
+

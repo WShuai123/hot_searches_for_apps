@@ -43,3 +43,5 @@
 
 + [戴尔发布全新 XPS 13/14/16 笔记本：酷睿 Ultra 处理器 + OLED 屏](https://m.ithome.com/html/743411.htm)
 
++ [王化公布“小米汽车 SU7 终极辟谣”：发布会结束前所有版本、售价信息和海报都是假的](https://m.ithome.com/html/743485.htm)
+

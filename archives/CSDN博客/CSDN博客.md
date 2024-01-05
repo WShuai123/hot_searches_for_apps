@@ -151,3 +151,11 @@
 
 + [【赠书第16期】码上行动：用ChatGPT学会Python编程](https://blog.csdn.net/qq_20016593/article/details/135372839)
 
++ [【微信支付】springboot-java接入微信支付-JSAPI支付/查单/退款/发送红包（二）---查单](https://blog.csdn.net/ssdadasd15623/article/details/135380763)
+
++ [【Linux操作系统】探秘Linux奥秘：Linux 操作系统的解密与实战](https://blog.csdn.net/m0_57532432/article/details/134900255)
+
++ [基于Java+SpringBoot+Vue前后端分离手工艺品销售系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135397446)
+
++ [基于多反应堆的高并发服务器【C/C++/Reactor】（中）Buffer的创建和销毁、扩容、写入数据](https://blog.csdn.net/weixin_41987016/article/details/135394303)
+
