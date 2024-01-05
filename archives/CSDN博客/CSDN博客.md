@@ -135,3 +135,9 @@
 
 + [CSDN年度征文｜我与CSDN的一周年相遇，为往年画句号让新年胜旧年](https://blog.csdn.net/qq_57761637/article/details/135383153)
 
++ [Zookeeper集群 + Kafka集群的详解与部署（以及Filebeat+Kafka+ELK ）](https://blog.csdn.net/qq_51545656/article/details/135354996)
+
++ [AIGC实战——自回归模型(Autoregressive Model)](https://blog.csdn.net/LOVEmy134611/article/details/135395814)
+
++ [CTF数据分析题详解](https://blog.csdn.net/qq_68163788/article/details/135372466)
+

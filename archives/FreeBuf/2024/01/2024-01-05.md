@@ -47,3 +47,5 @@
 
 + [安全运营之浅谈SIEM的告警疲劳](https://www.freebuf.com/articles/es/388406.html)
 
++ [CISA发出警告：Chrome和Excel解析库存在被利用的漏洞](https://www.freebuf.com/news/388779.html)
+

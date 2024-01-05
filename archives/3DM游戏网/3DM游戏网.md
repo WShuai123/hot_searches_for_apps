@@ -139,3 +139,15 @@
 
 + [PS新视频：《寂静岭2》《合金装备3》重制版今年发售](https://www.3dmgame.com/news/202401/3885376.html)
 
++ [Steam资本主义和经济节预告 1月9日开幕](https://www.3dmgame.com/news/202401/3885387.html)
+
++ [艰难的决定 《炉石传说》“对决模式”将停更下架](https://www.3dmgame.com/news/202401/3885386.html)
+
++ [《三体》番外剧《三体：大史》9月开拍 于和伟主演](https://www.3dmgame.com/news/202401/3885388.html)
+
++ [LOL走向CCTV？央视申请注册多个“央视电竞”商标](https://www.3dmgame.com/news/202401/3885385.html)
+
++ [亚马逊公布1月会员免费游戏 包含扮演狐狸的《终端：灭绝永恒》等](https://www.3dmgame.com/news/202401/3885384.html)
+
++ [好莱坞明星金·卡戴珊主题手游将于4月8日关服](https://www.3dmgame.com/news/202401/3885383.html)
+
