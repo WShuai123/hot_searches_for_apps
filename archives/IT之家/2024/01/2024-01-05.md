@@ -57,3 +57,9 @@
 
 + [华为 P70 手机线稿曝光：超大相机模组，搭载后置三摄](https://m.ithome.com/html/743562.htm)
 
++ [一加李杰：今年的目标是超过小米手机（不含红米）国内市场份额](https://m.ithome.com/html/743593.htm)
+
++ [高通推出第二代骁龙 XR2 + 平台：支持单眼 4.3K 分辨率，挑战苹果 Vision Pro 头显](https://m.ithome.com/html/743441.htm)
+
++ [特斯拉中国官网上新：Model 3 / Y 牌照框 129 元、迎宾灯 179 元一对](https://m.ithome.com/html/743546.htm)
+

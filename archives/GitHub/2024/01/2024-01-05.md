@@ -51,3 +51,33 @@
 
 + [shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan)
 
++ [RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner)
+
++ [ChristianLempa / homelab](https://github.com/ChristianLempa/homelab)
+
++ [llenotre / maestro](https://github.com/llenotre/maestro)
+
++ [apache / incubator-answer](https://github.com/apache/incubator-answer)
+
++ [farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
++ [zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians)
+
++ [blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0)
+
++ [guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone)
+
++ [puppeteer / puppeteer](https://github.com/puppeteer/puppeteer)
+
++ [attractivechaos / plb2](https://github.com/attractivechaos/plb2)
+
++ [coqui-ai / TTS](https://github.com/coqui-ai/TTS)
+
++ [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
++ [ktock / container2wasm](https://github.com/ktock/container2wasm)
+
++ [HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
+
++ [wy876 / POC](https://github.com/wy876/POC)
+

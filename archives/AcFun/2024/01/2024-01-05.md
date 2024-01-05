@@ -111,3 +111,15 @@
 
 + [20240104羊羔讲经队之苏莱曼尼传](http://www.acfun.cn/v/ac43429386)
 
++ [《new boy》](http://www.acfun.cn/v/ac43437639)
+
++ [“我期待的就是雪”](http://www.acfun.cn/v/ac43437513)
+
++ [联通小助手开箱拆解，这玩意给老人用还真挺不错（主要是便宜）](http://www.acfun.cn/v/ac43436280)
+
++ [【温】什么白丝小护士？！](http://www.acfun.cn/v/ac43437794)
+
++ [【逗鱼时刻】第411期 拆弹专家戴佳伟 高跷达人矮人春](http://www.acfun.cn/v/ac43426600)
+
++ [萌宠集合，这才是猛男该看的！ 第三百七十四期](http://www.acfun.cn/v/ac43429745)
+

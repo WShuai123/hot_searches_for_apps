@@ -247,3 +247,5 @@
 
 + [椰树2024年大尺度日历引争议 官方回应：不对外出售](https://www.3dmgame.com/news/202401/3885435.html)
 
++ [LG将带来业界首款QHD@480Hz游戏OLED屏](https://www.3dmgame.com/news/202401/3885437.html)
+

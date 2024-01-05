@@ -187,3 +187,9 @@
 
 + [【APP爬虫-抓包篇】巧妙使用工具与技巧绕过安卓APP抓包防护](https://blog.csdn.net/qiulin_wu/article/details/135382303)
 
++ [【2023 CSIG垂直领域大模型】大模型时代，如何完成IDP智能文档处理领域的OCR大一统？](https://blog.csdn.net/air__Heaven/article/details/135407255)
+
++ [如何在Linux上部署1Panel面板并远程访问内网Web端管理界面](https://blog.csdn.net/qq_73017178/article/details/135412155)
+
++ [如何使用Docker本地部署一个开源网址导航页并分享好友公网使用](https://blog.csdn.net/qyj19920704/article/details/135412858)
+
