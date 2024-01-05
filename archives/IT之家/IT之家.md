@@ -55,3 +55,5 @@
 
 + [消息称华为 P70 系列手机超广角端采用 1G6P 镜头，主摄配备 1 英寸传感器](https://m.ithome.com/html/743515.htm)
 
++ [华为 P70 手机线稿曝光：超大相机模组，搭载后置三摄](https://m.ithome.com/html/743562.htm)
+

@@ -211,3 +211,5 @@
 
 + [脸猫-AI绘画 ,AI写真,智能换脸换装特效视频一键制作](https://itunes.apple.com/cn/app/id1617204889?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
