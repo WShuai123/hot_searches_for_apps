@@ -119,3 +119,23 @@
 
 + [经典赛车合集《顶级赛车合集》宣布延期发售](https://www.3dmgame.com/news/202401/3885369.html)
 
++ [小岛秀夫谈逆时代潮流游戏 《OD》与他之前的游戏都不同](https://www.3dmgame.com/news/202401/3885377.html)
+
++ [育碧推出《荣耀战魂》全新周内容 高地勇士限时免费](https://www.3dmgame.com/news/202401/3885378.html)
+
++ [拉瑞安正在解决《博德之门3》Xbox录屏云同步导致封号](https://www.3dmgame.com/news/202401/3885379.html)
+
++ [Xbox用户录制《博德之门3》成人内容被封 拉瑞安：已在沟通](https://www.3dmgame.com/news/202401/3885380.html)
+
++ [《Apex英雄》联动《最终幻想7》预告 通用传家宝“破坏剑”上线](https://www.3dmgame.com/news/202401/3885381.html)
+
++ [粉丝用虚幻5重制《反恐精英》意大利地图 画面惊艳](https://www.3dmgame.com/news/202401/3885382.html)
+
++ [《蒙蒂鼹鼠系列》五款游戏合集现已登陆switch平台](https://www.3dmgame.com/news/202401/3885373.html)
+
++ [研究发现：社交媒体游戏广告大多未合法标明包含随机开箱](https://www.3dmgame.com/news/202401/3885375.html)
+
++ [《女神异闻录3 Reload》开场动画 2月2日发售](https://www.3dmgame.com/news/202401/3885374.html)
+
++ [PS新视频：《寂静岭2》《合金装备3》重制版今年发售](https://www.3dmgame.com/news/202401/3885376.html)
+

@@ -45,3 +45,5 @@
 
 + [勒索软件新秀 Cactus 在暗网上崭露头角](https://www.freebuf.com/articles/network/388755.html)
 
++ [安全运营之浅谈SIEM的告警疲劳](https://www.freebuf.com/articles/es/388406.html)
+

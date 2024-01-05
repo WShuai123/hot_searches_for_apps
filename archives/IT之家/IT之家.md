@@ -33,3 +33,5 @@
 
 + [荣耀 Magic6 系列手机新配色陆续亮相：祁连雪、流云紫](https://m.ithome.com/html/743391.htm)
 
++ [微软宣布 Win11 PC 键盘将新增 Copilot 键，可一键直达 AI 助手](https://m.ithome.com/html/743377.htm)
+

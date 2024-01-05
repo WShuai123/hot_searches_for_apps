@@ -127,3 +127,11 @@
 
 + [华为Could API人工智能系列——分词](https://blog.csdn.net/feng8403000/article/details/135396033)
 
++ [【Spring进阶系列丨第六篇】Spring的Bean管理（基于注解）](https://blog.csdn.net/m0_63947499/article/details/134577623)
+
++ [解析大语言模型LLM的幻觉问题：消除错觉、提高认知](https://blog.csdn.net/u014727709/article/details/135354240)
+
++ [Ansible自动化运维（一）简介及部署、清单](https://blog.csdn.net/liu_chen_yang/article/details/133769300)
+
++ [CSDN年度征文｜我与CSDN的一周年相遇，为往年画句号让新年胜旧年](https://blog.csdn.net/qq_57761637/article/details/135383153)
+
