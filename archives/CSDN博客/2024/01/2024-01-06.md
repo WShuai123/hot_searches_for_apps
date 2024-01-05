@@ -109,3 +109,13 @@
 
 + [二蛋赠书十三期：《一书读懂物联网》](https://blog.csdn.net/qq_28314431/article/details/135349945)
 
++ [使用 Process Explorer 和 Windbg 排查软件线程堵塞案例分享](https://blog.csdn.net/chenlycly/article/details/135361532)
+
++ [为什么会去华为 OD？网传的 OD 转华为正编，真的假的？](https://blog.csdn.net/guorui_java/article/details/135004899)
+
++ [一文掌握文本语义分割：从朴素切分、Cross-Segment到阿里SeqModel](https://blog.csdn.net/v_JULY_v/article/details/135386202)
+
++ [中间件是开箱即用的吗？为什么要开发中间件adapter？](https://blog.csdn.net/devcloud/article/details/135403148)
+
++ [构建异步高并发服务器：Netty与Spring Boot的完美结合](https://blog.csdn.net/Why_does_it_work/article/details/135390448)
+
