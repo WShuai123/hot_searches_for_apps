@@ -87,3 +87,19 @@
 
 + [NFT Marketplace Web Design](https://dribbble.com/shots/)
 
++ [fun lettering](https://dribbble.com/shots/)
+
++ [Outdoors Badge - Yonder Apparel Co.](https://dribbble.com/shots/)
+
++ [AI Voice Trainer Landing Page](https://dribbble.com/shots/)
+
++ [Imagination](https://dribbble.com/shots/)
+
++ [Cumpanaz Electric - Product Landing Page](https://dribbble.com/shots/)
+
++ [Mojave Desert](https://dribbble.com/shots/)
+
++ [Eat Shit!](https://dribbble.com/shots/)
+
++ [Tubik Design Year in Review](https://dribbble.com/shots/)
+
