@@ -29,3 +29,7 @@
 
 + [2023 年全球程序员薪酬报告出炉：中国北京排行“热门城市”第六，年收入中位数 9 万美元](https://m.ithome.com/html/743381.htm)
 
++ [小米电纸书 7 英寸推出：300PPI 像素密度，首发 1399 元](https://m.ithome.com/html/743429.htm)
+
++ [荣耀 Magic6 系列手机新配色陆续亮相：祁连雪、流云紫](https://m.ithome.com/html/743391.htm)
+

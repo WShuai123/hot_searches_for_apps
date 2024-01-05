@@ -41,3 +41,7 @@
 
 + [实战分享 | 记一次挖矿病毒的溯源](https://www.freebuf.com/articles/web/386775.html)
 
++ [FreeBuf早报 | 美国FBI正向驻外大使馆增派网络特工；澳大利亚法院服务被黑客入侵](https://www.freebuf.com/news/388676.html)
+
++ [勒索软件新秀 Cactus 在暗网上崭露头角](https://www.freebuf.com/articles/network/388755.html)
+

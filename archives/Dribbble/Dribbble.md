@@ -125,3 +125,17 @@
 
 + [Cute Sheep](https://dribbble.com/shots/)
 
++ [Minimalist Tank Logo](https://dribbble.com/shots/)
+
++ [NFS - Contract Document](https://dribbble.com/shots/)
+
++ [Small but mighty engineering tips](https://dribbble.com/shots/)
+
++ [Dialin.ai- Side Navigation](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [BlockAI Crypto Trading Admin UI Dashboard React Template](https://dribbble.com/shots/)
+
++ [Clouds](https://dribbble.com/shots/)
+

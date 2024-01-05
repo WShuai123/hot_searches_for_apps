@@ -125,3 +125,5 @@
 
 + [Qt/C++编写视频监控系统82-自定义音柱显示](https://blog.csdn.net/feiyangqingyun/article/details/135355456)
 
++ [华为Could API人工智能系列——分词](https://blog.csdn.net/feng8403000/article/details/135396033)
+

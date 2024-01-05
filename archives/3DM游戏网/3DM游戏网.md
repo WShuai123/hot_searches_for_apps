@@ -109,3 +109,13 @@
 
 + [育碧发布《波斯王子：失落的王冠》易用性预告](https://www.3dmgame.com/news/202401/3885365.html)
 
++ [微星将在CES 2024公布自己的掌机 预热视频发布](https://www.3dmgame.com/news/202401/3885372.html)
+
++ [《星空》击败《博德之门3》成为2023年游玩时长最多的RPG游戏](https://www.3dmgame.com/news/202401/3885371.html)
+
++ [免费格斗游戏《Toribash Next》1月24日上线](https://www.3dmgame.com/news/202401/3885370.html)
+
++ [《赛博朋克2077》往日之影DLC 2023年销量超过500万套](https://www.3dmgame.com/news/202401/3885368.html)
+
++ [经典赛车合集《顶级赛车合集》宣布延期发售](https://www.3dmgame.com/news/202401/3885369.html)
+
