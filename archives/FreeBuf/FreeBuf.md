@@ -49,3 +49,9 @@
 
 + [CISA发出警告：Chrome和Excel解析库存在被利用的漏洞](https://www.freebuf.com/news/388779.html)
 
++ [黑客劫持 X 上的政府和企业认证账户用于加密诈骗](https://www.freebuf.com/news/388778.html)
+
++ [美国医院通过起诉 LockBit，要求云存储公司归还被盗数据](https://www.freebuf.com/news/388782.html)
+
++ [2023年度全球重大关基安全事件 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/news/388624.html)
+

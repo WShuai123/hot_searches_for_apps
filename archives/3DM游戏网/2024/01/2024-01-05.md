@@ -151,3 +151,27 @@
 
 + [好莱坞明星金·卡戴珊主题手游将于4月8日关服](https://www.3dmgame.com/news/202401/3885383.html)
 
++ [《英雄联盟》预告新ADC英雄“斯莫德” 可爱喷火射手小火龙](https://www.3dmgame.com/news/202401/3885399.html)
+
++ [档期冲突遗憾退出 史蒂文·元：仍想参演漫威电影](https://www.3dmgame.com/news/202401/3885400.html)
+
++ [比亚迪徐州钠离子电池项目开工 总投资100亿元](https://www.3dmgame.com/news/202401/3885398.html)
+
++ [《城市英雄》MMO关闭11年后 NCSoft正式授权粉丝私服](https://www.3dmgame.com/news/202401/3885397.html)
+
++ [日本地震 《最终幻想14》日服暂停拆除玩家房屋](https://www.3dmgame.com/news/202401/3885396.html)
+
++ [模拟经营《客栈大亨》Steam页面上线 支持简中](https://www.3dmgame.com/news/202401/3885395.html)
+
++ [2024年的游戏刻板印象 英国新闻主持人嘲笑《俄罗斯方块》破纪录少年引热议](https://www.3dmgame.com/news/202401/3885394.html)
+
++ [《浴血黑帮》编剧正在完成电影剧本 并透露电影何时拍摄](https://www.3dmgame.com/news/202401/3885392.html)
+
++ [微软为Windows键盘新增AI Copilot键 专为Win12打造](https://www.3dmgame.com/news/202401/3885391.html)
+
++ [艾梅柏·希尔德感谢粉丝在《海王2》上映后的大力支持](https://www.3dmgame.com/news/202401/3885389.html)
+
++ [肉鸽弹幕射击《机核吞噬者》发售日预告 1月26日发售](https://www.3dmgame.com/news/202401/3885393.html)
+
++ [美漫《再生侠》作者：好莱坞改编电影成败就在今年](https://www.3dmgame.com/news/202401/3885390.html)
+

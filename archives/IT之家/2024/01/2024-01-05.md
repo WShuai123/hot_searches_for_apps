@@ -35,3 +35,5 @@
 
 + [微软宣布 Win11 PC 键盘将新增 Copilot 键，可一键直达 AI 助手](https://m.ithome.com/html/743377.htm)
 
++ [华为 nova 12 / Pro 手机今日首销：将搭载麒麟 8000 处理器，2999 元起](https://m.ithome.com/html/743469.htm)
+
