@@ -193,3 +193,7 @@
 
 + [如何使用Docker本地部署一个开源网址导航页并分享好友公网使用](https://blog.csdn.net/qyj19920704/article/details/135412858)
 
++ [揭秘人工智能：探索智慧未来](https://blog.csdn.net/2301_80026901/article/details/135412864)
+
++ [第十三章 SpringBoot整合knife4j](https://blog.csdn.net/s445320/article/details/135401380)
+
