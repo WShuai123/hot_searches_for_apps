@@ -137,3 +137,9 @@
 
 + [SpringBoot：详解Bean装配](https://blog.csdn.net/weixin_62951900/article/details/135417214)
 
++ [垂直领域大模型——文档图像大模型的思考与探索](https://blog.csdn.net/m0_63947499/article/details/135370773)
+
++ [基于多反应堆的高并发服务器【C/C++/Reactor】（中）Buffer的创建和销毁、扩容、写入数据](https://blog.csdn.net/weixin_41987016/article/details/135394303)
+
++ [大创项目推荐 深度学习卷积神经网络垃圾分类系统 - 深度学习 神经网络 图像识别 垃圾分类 算法 小程序](https://blog.csdn.net/laafeer/article/details/135390151)
+

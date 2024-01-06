@@ -167,3 +167,11 @@
 
 + [《鬼屋改造家》测试预告 今年二月发售](https://www.3dmgame.com/news/202401/3885476.html)
 
++ [新作《EA Sports大学橄榄球24》即将正式公布](https://www.3dmgame.com/news/202401/3885482.html)
+
++ [《不死者之王：圣王国篇》预告 2024年上映](https://www.3dmgame.com/news/202401/3885481.html)
+
++ [《堕落之主》发行商CI Games后续新作详情曝光](https://www.3dmgame.com/news/202401/3885480.html)
+
++ [《完蛋！我被美女包围了！》上架抖音小程序：手机直接玩](https://www.3dmgame.com/news/202401/3885479.html)
+
