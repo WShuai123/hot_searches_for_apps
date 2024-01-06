@@ -41,3 +41,7 @@
 
 + [中国信通院发布《全球数字治理白皮书（2023年）》](https://www.freebuf.com/news/388662.html)
 
++ [FreeBuf 周报 | 黑客利用宝马网站发起钓鱼攻击；Google终结第三方Cookie](https://www.freebuf.com/news/388857.html)
+
++ [Mirai僵尸网络变种“Aquabot”分析](https://www.freebuf.com/articles/network/388057.html)
+
