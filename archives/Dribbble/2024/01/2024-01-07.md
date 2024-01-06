@@ -79,3 +79,15 @@
 
 + [Surrealist Cat Logo](https://dribbble.com/shots/)
 
++ [Tubik Design Year in Review](https://dribbble.com/shots/)
+
++ [Calorie Counter Website](https://dribbble.com/shots/)
+
++ [Dark Mode Tracking pt.4](https://dribbble.com/shots/)
+
++ [Dark Mode Dashboard](https://dribbble.com/shots/)
+
++ [Eat Shit!](https://dribbble.com/shots/)
+
++ [Dialin.AI: Analysts](https://dribbble.com/shots/)
+
