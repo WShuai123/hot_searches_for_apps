@@ -69,3 +69,5 @@
 
 + [性能最高提升 50%，消息称英伟达最快今年第 4 季度推出 GeForce 50 系列 GPU](https://m.ithome.com/html/743694.htm)
 
++ [东风纳米 01 纯电小车在襄阳量产下线：预售 7.98 万元起，明日上市](https://m.ithome.com/html/743724.htm)
+
