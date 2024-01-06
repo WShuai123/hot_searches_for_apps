@@ -67,3 +67,15 @@
 
 + [Poms Builder](https://dribbble.com/shots/)
 
++ [Assist UI-UX](https://dribbble.com/shots/)
+
++ [Growcase 2024 Studio Brand Update](https://dribbble.com/shots/)
+
++ [Loser](https://dribbble.com/shots/)
+
++ [Car Dashboard Components](https://dribbble.com/shots/)
+
++ [Profity dashboard interaction](https://dribbble.com/shots/)
+
++ [Surrealist Cat Logo](https://dribbble.com/shots/)
+
