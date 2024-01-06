@@ -131,3 +131,9 @@
 
 + [开源分布式任务调度系统DolphinScheduler本地部署与远程访问](https://blog.csdn.net/qq_63320529/article/details/135408836)
 
++ [基于决策树、随机森林和层次聚类对帕尔默企鹅数据分析](https://blog.csdn.net/AOAIYI/article/details/135358470)
+
++ [基于Java+SpringBoot+Vue前后端分离校园体育场馆（设施）使用管理网站设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135397526)
+
++ [SpringBoot：详解Bean装配](https://blog.csdn.net/weixin_62951900/article/details/135417214)
+
