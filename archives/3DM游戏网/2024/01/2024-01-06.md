@@ -113,3 +113,19 @@
 
 + [免费格斗游戏《Toribash Next》面向PC公布](https://www.3dmgame.com/news/202401/3885448.html)
 
++ [杰拉德·巴特勒参演《驯龙高手》真人电影 饰演主角老爸](https://www.3dmgame.com/news/202401/3885459.html)
+
++ [《星空》N网MOD已经超过了6000个](https://www.3dmgame.com/news/202401/3885458.html)
+
++ [新西兰大力支持游戏产业 20%退税比例保持不变](https://www.3dmgame.com/news/202401/3885457.html)
+
++ [《驱灵者：新伊甸的幽灵》“兽志”预告 2月13日发售](https://www.3dmgame.com/news/202401/3885456.html)
+
++ [麦克演员：《GTA6》不会因为加入女主而变得政治正确](https://www.3dmgame.com/news/202401/3885455.html)
+
++ [版本更新？前管理层称动视歧视“大龄白人男性”](https://www.3dmgame.com/news/202401/3885454.html)
+
++ [《英雄联盟：双城之战》第二季前瞻片段公开](https://www.3dmgame.com/news/202401/3885453.html)
+
++ [平台游戏《Area 37》Steam上线 支持简体中文](https://www.3dmgame.com/news/202401/3885452.html)
+

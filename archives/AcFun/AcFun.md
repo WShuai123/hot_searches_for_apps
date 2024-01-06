@@ -69,3 +69,7 @@
 
 + [又是炸鸡，你肯定觉得没意思](http://www.acfun.cn/v/ac43433658)
 
++ [《吾虽非人，然汝甚狗》](http://www.acfun.cn/v/ac43438322)
+
++ [【诸葛】南北朝-关陇内忧](http://www.acfun.cn/v/ac43438234)
+

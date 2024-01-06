@@ -129,3 +129,11 @@
 
 + [Tech Landing Page](https://dribbble.com/shots/)
 
++ [Steamboat Willie (turntable animation)](https://dribbble.com/shots/)
+
++ [Calorie Counter Website](https://dribbble.com/shots/)
+
++ [Kitty](https://dribbble.com/shots/)
+
++ [Grocery Delivery App](https://dribbble.com/shots/)
+
