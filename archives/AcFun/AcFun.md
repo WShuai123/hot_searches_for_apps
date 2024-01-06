@@ -81,3 +81,7 @@
 
 + [好姐妹天天秀#107【脑后闪光】](http://www.acfun.cn/v/ac43438204)
 
++ [颜 音 的 showtime！](http://www.acfun.cn/v/ac43437993)
+
++ [【东方】展翅飞枕【二ノ瀬泰徳 手书动画】](http://www.acfun.cn/v/ac43435426)
+

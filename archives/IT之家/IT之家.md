@@ -39,3 +39,9 @@
 
 + [蔚来展示 ET9 汽车水中“抖脚”，搭载天行全主动悬架](https://m.ithome.com/html/743543.htm)
 
++ [华为 P70 手机 Deco 玻璃饰板泄露，采用 50MP 国产超大底 + 国产物理可变光圈](https://m.ithome.com/html/743682.htm)
+
++ [消息称小米 Civi4 手机搭载骁龙 7 Gen 3 处理器以及金属中框](https://m.ithome.com/html/743644.htm)
+
++ [理想汽车内部人士谈与华为关系：“今年将是双方的主战场”是很多员工共识](https://m.ithome.com/html/743588.htm)
+
