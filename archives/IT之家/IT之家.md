@@ -63,3 +63,5 @@
 
 + [三星 Galaxy S24 Ultra 手机真机照片曝光](https://m.ithome.com/html/743720.htm)
 
++ [来了！2023 车企收官，仅 4 家达成 KPI，内卷进入 2.0 时代](https://m.ithome.com/html/743725.htm)
+

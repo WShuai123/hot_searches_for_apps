@@ -201,3 +201,5 @@
 
 + [英伟达正式推出RTX 5880工作站显卡 搭载精简版AD102 GPU](https://www.3dmgame.com/news/202401/3885495.html)
 
++ [《漫威蜘蛛侠2》非官方PC移植版开发中](https://www.3dmgame.com/news/202401/3885496.html)
+

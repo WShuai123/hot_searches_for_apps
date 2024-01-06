@@ -167,3 +167,7 @@
 
 + [物联网协议Coap中Californium CoapClient解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/135421268)
 
++ [已解决‘ping‘ 不是内部或外部命令，也不是可运行的程序或批处理文件。”的问题](https://blog.csdn.net/FMC_WBL/article/details/135352371)
+
++ [外包干了3个月，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/135394793)
+
