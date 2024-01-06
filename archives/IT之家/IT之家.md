@@ -61,3 +61,5 @@
 
 + [澎湃 OS 走向海外，小米 POCO X6 Pro 手机官宣 1 月 11 日发布](https://m.ithome.com/html/743640.htm)
 
++ [三星 Galaxy S24 Ultra 手机真机照片曝光](https://m.ithome.com/html/743720.htm)
+

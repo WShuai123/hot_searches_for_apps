@@ -51,3 +51,33 @@
 
 + [wy876 / POC](https://github.com/wy876/POC)
 
++ [facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal)
+
++ [ubuygold / go-noss](https://github.com/ubuygold/go-noss)
+
++ [MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha)
+
++ [MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus)
+
++ [bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [aaamoon / copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+
++ [bclavie / RAGatouille](https://github.com/bclavie/RAGatouille)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [tonyzhaozh / aloha](https://github.com/tonyzhaozh/aloha)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [EleutherAI / lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+
++ [renovatebot / renovate](https://github.com/renovatebot/renovate)
+
++ [NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
+
++ [stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+

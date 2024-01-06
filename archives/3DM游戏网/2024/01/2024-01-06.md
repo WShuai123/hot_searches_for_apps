@@ -199,3 +199,5 @@
 
 + [Shawn Layden：大作难做，今年会进一步证明](https://www.3dmgame.com/news/202401/3885492.html)
 
++ [英伟达正式推出RTX 5880工作站显卡 搭载精简版AD102 GPU](https://www.3dmgame.com/news/202401/3885495.html)
+

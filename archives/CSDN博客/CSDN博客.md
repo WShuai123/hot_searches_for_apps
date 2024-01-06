@@ -163,3 +163,7 @@
 
 + [阿里云配置服务器详细指南](https://blog.csdn.net/aliyunbaike/article/details/135400209)
 
++ [【C#】网址不进行UrlEncode编码会存在一些问题](https://blog.csdn.net/lmy_520/article/details/135419702)
+
++ [物联网协议Coap中Californium CoapClient解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/135421268)
+
