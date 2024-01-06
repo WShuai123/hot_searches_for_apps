@@ -147,3 +147,9 @@
 
 + [【.NET Core】异步编程模式](https://blog.csdn.net/songjianlong/article/details/135419284)
 
++ [如何在 ChatGPT 上使用 Wolfram 插件回答数学问题](https://blog.csdn.net/wtyuong/article/details/135219871)
+
++ [基于Java品牌银饰售卖平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135419711)
+
++ [C++八股学习心得.5](https://blog.csdn.net/weixin_55605689/article/details/135410405)
+

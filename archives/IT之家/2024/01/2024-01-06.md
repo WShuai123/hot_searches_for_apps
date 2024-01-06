@@ -47,3 +47,9 @@
 
 + [京东方推出 45 英寸 8K 无界智慧屏，吉利银河 E8 车型全球首发](https://m.ithome.com/html/743636.htm)
 
++ [中国人民银行：2024 年开展整治拒收现金专项行动，稳妥推进数字人民币研发应用](https://m.ithome.com/html/743627.htm)
+
++ [红魔 8S Pro 手机至高优惠 1300 元：骁龙 8 Gen 2 领先版处理器，到手价 3688 元起](https://m.ithome.com/html/743612.htm)
+
++ [腾讯调整 Nintendo Switch 官方店铺运营，微信商城即将暂停服务](https://m.ithome.com/html/743629.htm)
+

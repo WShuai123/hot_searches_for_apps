@@ -107,3 +107,19 @@
 
 + [Youtube Looper](https://www.producthunt.com/posts/youtube-looper)
 
++ [MyGigz](https://www.producthunt.com/posts/mygigz)
+
++ [Brewed](https://www.producthunt.com/posts/brewed)
+
++ [Digitapes](https://www.producthunt.com/posts/digitapes)
+
++ [CommodityPriceAPI](https://www.producthunt.com/posts/commoditypriceapi)
+
++ [VisualVibe AI](https://www.producthunt.com/posts/visualvibe-ai)
+
++ [Diffr](https://www.producthunt.com/posts/diffr)
+
++ [SaaS Boilerplates](https://www.producthunt.com/posts/saas-boilerplates)
+
++ [Reiki by Web3Go](https://www.producthunt.com/posts/reiki-by-web3go)
+

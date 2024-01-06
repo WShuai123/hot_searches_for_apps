@@ -177,3 +177,5 @@
 
 + [索尼申请专利游戏分块下载 智能判定时长边下边玩](https://www.3dmgame.com/news/202401/3885483.html)
 
++ [2023年11月Xbox Series X|S与Xbox 360生涯销量对比](https://www.3dmgame.com/news/202401/3885484.html)
+
