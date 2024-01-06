@@ -129,3 +129,11 @@
 
 + [平台游戏《Area 37》Steam上线 支持简体中文](https://www.3dmgame.com/news/202401/3885452.html)
 
++ [新能源汽车不再怕冷？新技术让-20℃电池容量提升60%](https://www.3dmgame.com/news/202401/3885463.html)
+
++ [《无畏契约》4年来推出首个新武器：双管狙击枪“莽侠”](https://www.3dmgame.com/news/202401/3885461.html)
+
++ [振兴乡村真实经历改编游戏《越过重山》Steam页面上线 第一季度发售](https://www.3dmgame.com/news/202401/3885462.html)
+
++ [《赛博朋克2077》MOD再次提升游戏人物显示效果](https://www.3dmgame.com/news/202401/3885460.html)
+
