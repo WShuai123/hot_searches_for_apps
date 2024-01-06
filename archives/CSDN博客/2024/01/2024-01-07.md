@@ -101,3 +101,31 @@
 
 + [基于多反应堆的高并发服务器【C/C++/Reactor】（中）创建一个TcpConnection实例 以及 接收客户端数据](https://blog.csdn.net/weixin_41987016/article/details/135416445)
 
++ [【Spring进阶系列丨第六篇】Spring的Bean管理（基于注解）](https://blog.csdn.net/m0_63947499/article/details/134577623)
+
++ [【微信支付】springboot-java接入微信支付-JSAPI支付/查单/退款/发送红包（二）---查单](https://blog.csdn.net/ssdadasd15623/article/details/135380763)
+
++ [【HarmonyOS】装饰器下的状态管理与页面路由跳转实现](https://blog.csdn.net/qq_53123067/article/details/135320571)
+
++ [【2023 CSIG垂直领域大模型】大模型时代，如何完成IDP智能文档处理领域的OCR大一统？](https://blog.csdn.net/air__Heaven/article/details/135407255)
+
++ [C++ Qt开发：Charts与数据库组件联动](https://blog.csdn.net/lyshark_csdn/article/details/135427614)
+
++ [【计算机网络】TCP原理 | 可靠性机制分析（一）](https://blog.csdn.net/m0_74352571/article/details/135396389)
+
++ [我利用DevOps给公司来一套组合拳会产生什么样的效果](https://blog.csdn.net/hrk1234/article/details/135428350)
+
++ [解码 Elasticsearch 查询 DSL：利用 Elasticsearch 中的 has_child 和 has_parent 查询进行父子文档搜索](https://blog.csdn.net/UbuntuTouch/article/details/135421725)
+
++ [数据库攻防学习](https://blog.csdn.net/YJ_12340/article/details/135414668)
+
++ [软件工程概论------文件管理](https://blog.csdn.net/weixin_69884785/article/details/135363370)
+
++ [网络安全（黑客技术）-2024最新自学](https://blog.csdn.net/dexi113/article/details/135410707)
+
++ [程序性能优化全能手册](https://blog.csdn.net/kfashfasf/article/details/135407940)
+
++ [外包干了3个多月，技术退步明显。。。。。](https://blog.csdn.net/qq_73332379/article/details/135419242)
+
++ [计算机网络 - 路由器查表过程模拟 C++(2024)](https://blog.csdn.net/weixin_46337464/article/details/135397829)
+
