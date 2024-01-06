@@ -101,3 +101,11 @@
 
 + [免费格斗游戏《Toribash Next》面向PC公布](https://www.3dmgame.com/news/202401/3885448.html)
 
++ [《期待在地下城邂逅有错吗》游戏版面向主机公布](https://www.3dmgame.com/news/202401/3885504.html)
+
++ [《无职转生》游戏版今年夏季推出 实机预告分享](https://www.3dmgame.com/news/202401/3885503.html)
+
++ [《全职猎人》主题格斗游戏公布 预告片展示](https://www.3dmgame.com/news/202401/3885502.html)
+
++ [第一人称动作《东京地下杀手》“新宿枢纽”预告片](https://www.3dmgame.com/news/202401/3885501.html)
+
