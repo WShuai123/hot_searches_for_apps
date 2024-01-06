@@ -137,3 +137,21 @@
 
 + [《赛博朋克2077》MOD再次提升游戏人物显示效果](https://www.3dmgame.com/news/202401/3885460.html)
 
++ [《直到黎明》幕后：原版开发工作被索尼叫停](https://www.3dmgame.com/news/202401/3885472.html)
+
++ [索尼PS+去年送出251款游戏 美服价值约8千美元](https://www.3dmgame.com/news/202401/3885471.html)
+
++ [美国自动驾驶公司Aurora计划今年实现无人驾驶卡车上路 2027年达到“千辆”规模](https://www.3dmgame.com/news/202401/3885470.html)
+
++ [沃尔玛与Unity达成合作 可在游戏里直接买东西](https://www.3dmgame.com/news/202401/3885469.html)
+
++ [爆料称微软将于本月举行Xbox Direct展示活动](https://www.3dmgame.com/news/202401/3885468.html)
+
++ [《潜行者2》不再跳票了 预购奖励已可以预载](https://www.3dmgame.com/news/202401/3885467.html)
+
++ [万智牌宣传图被指使用AI 威世智：是由人类创作的](https://www.3dmgame.com/news/202401/3885466.html)
+
++ [《星空》新模型MOD 《命运2》守护者加入游戏之中](https://www.3dmgame.com/news/202401/3885465.html)
+
++ [纸嫁衣第6部《无间梦境》千秋魇篇预告 1月19日上线](https://www.3dmgame.com/news/202401/3885464.html)
+

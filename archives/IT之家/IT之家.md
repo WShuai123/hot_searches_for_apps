@@ -35,3 +35,5 @@
 
 + [华为、北汽合作的 STELATO 轿车谍照曝光：定位行政车型，配电子外后视镜](https://m.ithome.com/html/743614.htm)
 
++ [紫米：小米旗下子公司“江苏紫米”侵犯商标权，已向法院提起民事诉讼](https://m.ithome.com/html/743658.htm)
+
