@@ -55,3 +55,9 @@
 
 + [消息称蔚来手机负责人尹水军将离职，硬件负责人白剑兼管](https://m.ithome.com/html/743691.htm)
 
++ [三星承认 One UI 6 缺少“防烧屏机制”，有望本月发布更新修复](https://m.ithome.com/html/743668.htm)
+
++ [三星 Galaxy S24 Ultra 手机官网限定色渲染图曝光，蓝、绿、橙三款](https://m.ithome.com/html/743688.htm)
+
++ [澎湃 OS 走向海外，小米 POCO X6 Pro 手机官宣 1 月 11 日发布](https://m.ithome.com/html/743640.htm)
+

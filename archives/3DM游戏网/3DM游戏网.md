@@ -193,3 +193,9 @@
 
 + [343开启合作项目 计划为《光环：无限》更换UI](https://www.3dmgame.com/news/202401/3885485.html)
 
++ [大招直接叫妈？LOL新英雄斯莫德玩法公布](https://www.3dmgame.com/news/202401/3885494.html)
+
++ [英雄联盟双城之战第二季前瞻来了，范德尔终于实锤狼人](https://www.3dmgame.com/news/202401/3885493.html)
+
++ [Shawn Layden：大作难做，今年会进一步证明](https://www.3dmgame.com/news/202401/3885492.html)
+
