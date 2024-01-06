@@ -49,3 +49,21 @@
 
 + [Mouse sea captain](https://dribbble.com/shots/)
 
++ [RIP Invision — Fun Character Illustrations](https://dribbble.com/shots/)
+
++ [Steamboat Willie (turntable animation)](https://dribbble.com/shots/)
+
++ [NVO: Components](https://dribbble.com/shots/)
+
++ [Lego stickers](https://dribbble.com/shots/)
+
++ [AI Voice Trainer Landing Page](https://dribbble.com/shots/)
+
++ [Bonus](https://dribbble.com/shots/)
+
++ [Cherry Blossom Sweets Logo Mockup](https://dribbble.com/shots/)
+
++ [Ramos - UX/UI design of the digital analytics platform](https://dribbble.com/shots/)
+
++ [Poms Builder](https://dribbble.com/shots/)
+

@@ -25,3 +25,7 @@
 
 + [东风纳米 01 纯电小车在襄阳量产下线：预售 7.98 万元起，明日上市](https://m.ithome.com/html/743724.htm)
 
++ [荣耀 Magic6 / Pro / RSR 手机续航参数曝光，最高支持 80W 快充](https://m.ithome.com/html/743738.htm)
+
++ [几年前论斤称的“电子淘汰产品”，如今却变成“香饽饽”？](https://m.ithome.com/html/743747.htm)
+
