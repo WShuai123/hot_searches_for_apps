@@ -215,3 +215,5 @@
 
 + [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
 
++ [翻译 - 实时拍照翻译软件](https://itunes.apple.com/cn/app/id6474665334?mt=8)
+

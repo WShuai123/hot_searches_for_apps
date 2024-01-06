@@ -103,3 +103,7 @@
 
 + [Folksable: Photo Habit Tracker](https://www.producthunt.com/posts/folksable-photo-habit-tracker)
 
++ [CrackedDevs - Remote Coding Jobs!](https://www.producthunt.com/posts/crackeddevs-remote-coding-jobs)
+
++ [Youtube Looper](https://www.producthunt.com/posts/youtube-looper)
+

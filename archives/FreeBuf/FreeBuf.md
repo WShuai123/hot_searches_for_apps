@@ -49,3 +49,5 @@
 
 + [从Elastic观察新兴威胁与对抗之调用堆栈检测](https://www.freebuf.com/articles/network/387905.html)
 
++ [如何使用Padre对CBC模式加密执行Padding Oracle测试](https://www.freebuf.com/sectool/386068.html)
+

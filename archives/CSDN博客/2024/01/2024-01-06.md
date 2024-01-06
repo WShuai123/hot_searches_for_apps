@@ -143,3 +143,7 @@
 
 + [大创项目推荐 深度学习卷积神经网络垃圾分类系统 - 深度学习 神经网络 图像识别 垃圾分类 算法 小程序](https://blog.csdn.net/laafeer/article/details/135390151)
 
++ [PHP语言B/S架构医院（安全）不良事件上报系统源码](https://blog.csdn.net/qq_27741787/article/details/135422690)
+
++ [【.NET Core】异步编程模式](https://blog.csdn.net/songjianlong/article/details/135419284)
+
