@@ -65,3 +65,7 @@
 
 + [来了！2023 车企收官，仅 4 家达成 KPI，内卷进入 2.0 时代](https://m.ithome.com/html/743725.htm)
 
++ [理想 L6 车型路试谍照曝光，消息称提前到今年 4 月初发布](https://m.ithome.com/html/743726.htm)
+
++ [性能最高提升 50%，消息称英伟达最快今年第 4 季度推出 GeForce 50 系列 GPU](https://m.ithome.com/html/743694.htm)
+

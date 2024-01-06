@@ -203,3 +203,9 @@
 
 + [《漫威蜘蛛侠2》非官方PC移植版开发中](https://www.3dmgame.com/news/202401/3885496.html)
 
++ [《最终幻想13》系列可能将被SE复刻](https://www.3dmgame.com/news/202401/3885499.html)
+
++ [英伟达将恢复中国特供版AI芯片出货](https://www.3dmgame.com/news/202401/3885498.html)
+
++ [横版解谜动作游戏《Gift》将于5月9日发售](https://www.3dmgame.com/news/202401/3885497.html)
+

@@ -171,3 +171,9 @@
 
 + [外包干了3个月，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/135394793)
 
++ [Docker nginx容器代理播放m3u8视频文件（HLS）](https://blog.csdn.net/Dontla/article/details/135396361)
+
++ [发明国产IDE先亏他300万,我拿法拉利赌明天](https://blog.csdn.net/xiaoyao961/article/details/135423961)
+
++ [基于多反应堆的高并发服务器【C/C++/Reactor】（中）创建一个TcpConnection实例 以及 接收客户端数据](https://blog.csdn.net/weixin_41987016/article/details/135416445)
+
