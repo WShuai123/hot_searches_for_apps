@@ -53,3 +53,5 @@
 
 + [腾讯调整 Nintendo Switch 官方店铺运营，微信商城即将暂停服务](https://m.ithome.com/html/743629.htm)
 
++ [消息称蔚来手机负责人尹水军将离职，硬件负责人白剑兼管](https://m.ithome.com/html/743691.htm)
+

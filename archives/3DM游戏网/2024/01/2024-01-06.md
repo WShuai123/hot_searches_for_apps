@@ -179,3 +179,17 @@
 
 + [2023年11月Xbox Series X|S与Xbox 360生涯销量对比](https://www.3dmgame.com/news/202401/3885484.html)
 
++ [微软监管已入驻OpenAI董事会 防止再次“暴走”](https://www.3dmgame.com/news/202401/3885491.html)
+
++ [周鸿祎的2024大模型十大趋势判断：原子弹变茶叶蛋](https://www.3dmgame.com/news/202401/3885490.html)
+
++ [《古墓丽影1-3：重制版》将提供操控设置优化效果](https://www.3dmgame.com/news/202401/3885489.html)
+
++ [《如龙8》Xbox预载开启 文件大小约59.2GB](https://www.3dmgame.com/news/202401/3885488.html)
+
++ [微软一款“备受好评”第一方或将今年登陆其他平台](https://www.3dmgame.com/news/202401/3885487.html)
+
++ [玩家自制《传送门2》前传作品即将上架Steam平台](https://www.3dmgame.com/news/202401/3885486.html)
+
++ [343开启合作项目 计划为《光环：无限》更换UI](https://www.3dmgame.com/news/202401/3885485.html)
+
