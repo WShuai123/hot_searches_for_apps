@@ -91,3 +91,11 @@
 
 + [Dialin.AI: Analysts](https://dribbble.com/shots/)
 
++ [Crypto Mobile App](https://dribbble.com/shots/)
+
++ ["Pink Bubble Dreams" - NFT art](https://dribbble.com/shots/)
+
++ [Tech Landing Page](https://dribbble.com/shots/)
+
++ [fun lettering](https://dribbble.com/shots/)
+

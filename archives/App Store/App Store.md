@@ -205,3 +205,11 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [翻译 - 实时拍照翻译软件](https://itunes.apple.com/cn/app/id6474665334?mt=8)
+
++ [我的桌面 · iScreen - 桌面小组件主题壁纸](https://itunes.apple.com/cn/app/id1534704608?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+
