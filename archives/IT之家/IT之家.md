@@ -63,3 +63,9 @@
 
 + [消息称小米 Redmi K70 Ultra 手机配备 1.5K 直屏，直角中框设计](https://m.ithome.com/html/743829.htm)
 
++ [吉利银河 L6 推出限时购车政策：膨胀金 8000 元，原价 11.58 万元起](https://m.ithome.com/html/743786.htm)
+
++ [加量还降价：消息称英伟达 RTX 4080 Super 显卡定价 999 美元](https://m.ithome.com/html/743796.htm)
+
++ [腾讯 QQ 更新 Windows 9.9.7、Mac 6.9.25、Linux 3.2.5 版本，新增一键合并独立窗口](https://m.ithome.com/html/743780.htm)
+

@@ -177,3 +177,7 @@
 
 + [《最终幻想14：黄金的遗产》大量内容公开 新职业、新地区](https://www.3dmgame.com/news/202401/3885537.html)
 
++ [联想预热2024款Y7000P游戏本 主打“乾坤散热”](https://www.3dmgame.com/news/202401/3885540.html)
+
++ [《最终幻想14》惊现“GPU城市” 网友：这是英伟达打造的吧](https://www.3dmgame.com/news/202401/3885539.html)
+
