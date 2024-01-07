@@ -41,3 +41,7 @@
 
 + [等保能力验证2022—Windows主机](https://www.freebuf.com/articles/system/381708.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/388901.html)
+
++ [Konni组织以邮件安全检查手册为诱饵的窃密行动分析](https://www.freebuf.com/articles/paper/386932.html)
+
