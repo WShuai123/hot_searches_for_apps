@@ -51,3 +51,7 @@
 
 + [消息称高通为三星准备双版本“骁龙 8 Gen 3 for Galaxy”芯片，Cortex-X4 频率相差 100MHz](https://m.ithome.com/html/743768.htm)
 
++ [蔚来白剑确认接管手机业务：手机和车的结合会更紧密，具备自研 ISP 能力](https://m.ithome.com/html/743763.htm)
+
++ [网易《逆水寒》端手游活跃用户总数突破 1 亿](https://m.ithome.com/html/743754.htm)
+

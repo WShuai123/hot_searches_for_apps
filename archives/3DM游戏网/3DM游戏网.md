@@ -161,3 +161,9 @@
 
 + [AMD下一代Zen 6首曝光 采用带宽更高2.5D互连性能更强](https://www.3dmgame.com/news/202401/3885530.html)
 
++ [《8番出口》游戏照进现实 日本狠人玩家挑战现实版迷宫级别新宿站](https://www.3dmgame.com/news/202401/3885533.html)
+
++ [《矮人要塞》《深岩银河》厂商呼吁Steam添加矮人标签](https://www.3dmgame.com/news/202401/3885532.html)
+
++ [复古风再起 Steam商店新增boomer shooters标签](https://www.3dmgame.com/news/202401/3885531.html)
+
