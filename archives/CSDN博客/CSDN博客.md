@@ -107,3 +107,19 @@
 
 + [【Vue】灵魂拷问](https://blog.csdn.net/weixin_55639808/article/details/135404664)
 
++ [【Linux操作系统】探秘Linux奥秘：shell 编程的解密与实战](https://blog.csdn.net/m0_57532432/article/details/134900334)
+
++ [结队编程 - 华为OD统一考试](https://blog.csdn.net/user_longling/article/details/135424446)
+
++ [Mysql SQL审核平台Yearning本地部署](https://blog.csdn.net/Tiam_cr/article/details/135446118)
+
++ [基于vue.js校园实验室自习室教室预约系统设计与实现(uni-app框架+PHP后台) 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135401029)
+
++ [Linux 定时任务管理](https://blog.csdn.net/weixin_43839586/article/details/135423304)
+
++ [C++20新特性解析：深入探讨协程库的实现原理与应用](https://blog.csdn.net/Long_xu/article/details/135433695)
+
++ [Android 15即将到来，或将推出5大新功能特性](https://blog.csdn.net/u011897062/article/details/135434195)
+
++ [.NET Standard 支持的 .NET Framework 和 .NET Core](https://blog.csdn.net/hefeng_aspnet/article/details/135401390)
+
