@@ -167,3 +167,5 @@
 
 + [复古风再起 Steam商店新增boomer shooters标签](https://www.3dmgame.com/news/202401/3885531.html)
 
++ [Xbox Series S烤面包机售罄 eBay售价为原价2.5倍](https://www.3dmgame.com/news/202401/3885534.html)
+
