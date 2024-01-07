@@ -35,3 +35,9 @@
 
 + [苹果 iPhone“电池门”赔款到账，每台手机获赔 92.17 美元](https://m.ithome.com/html/743765.htm)
 
++ [Tech Insights 拆解发现，华为 5nm 的海思麒麟 9006C 芯片由台积电制造](https://m.ithome.com/html/743772.htm)
+
++ [飞行途中机身破洞，美国阿拉斯加航空宣布停飞 65 架波音 737 MAX 9 飞机](https://m.ithome.com/html/743728.htm)
+
++ [OPPO Find X7 系列手机预热：双向隐私通话、多国免费流量](https://m.ithome.com/html/743714.htm)
+

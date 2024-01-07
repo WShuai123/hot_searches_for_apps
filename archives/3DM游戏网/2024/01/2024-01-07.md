@@ -139,3 +139,5 @@
 
 + [《Toytopia》1月29日登陆Steam 废墟生存恐怖探索](https://www.3dmgame.com/news/202401/3885512.html)
 
++ [塞尔达黑历史成为灵感 独立新作《阿兹特》下月发售](https://www.3dmgame.com/news/202401/3885520.html)
+

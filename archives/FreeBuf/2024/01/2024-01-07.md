@@ -47,3 +47,5 @@
 
 + [CVE-2023-36025 Windows SmartScreen安全功能绕过漏洞分析](https://www.freebuf.com/articles/network/387903.html)
 
++ [Fuzz工具对比及使用体验](https://www.freebuf.com/articles/network/388358.html)
+
