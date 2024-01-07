@@ -45,3 +45,5 @@
 
 + [Konni组织以邮件安全检查手册为诱饵的窃密行动分析](https://www.freebuf.com/articles/paper/386932.html)
 
++ [CVE-2023-36025 Windows SmartScreen安全功能绕过漏洞分析](https://www.freebuf.com/articles/network/387903.html)
+

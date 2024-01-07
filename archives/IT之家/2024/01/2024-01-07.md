@@ -31,3 +31,5 @@
 
 + [江苏泰兴发现 1 例罕见小 p 血型，出现频率低于百万分之一](https://m.ithome.com/html/743758.htm)
 
++ [波音回应 737 MAX 9 飞行事故：正在收集更多信息并与客户取得联系](https://m.ithome.com/html/743759.htm)
+

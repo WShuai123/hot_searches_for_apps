@@ -113,3 +113,13 @@
 
 + [国产经典RTS《傲世三国之三分天下》现已登陆Steam](https://www.3dmgame.com/news/202401/3885505.html)
 
++ [PS4 Pro卖相不好 销量不到PS4总销量的15%](https://www.3dmgame.com/news/202401/3885509.html)
+
++ [《Mushroom Kid“s Big Grass Sword》Steam试玩上线](https://www.3dmgame.com/news/202401/3885510.html)
+
++ [前《星露谷物语》开发者城市模拟新作发布视频](https://www.3dmgame.com/news/202401/3885511.html)
+
++ [《Goblin Cleanup》Steam页面上线 多人合作迷宫扫除游戏](https://www.3dmgame.com/news/202401/3885507.html)
+
++ [《星空》在赢下Steam创新玩法大奖后遭差评轰炸](https://www.3dmgame.com/news/202401/3885508.html)
+
