@@ -45,3 +45,9 @@
 
 + [美国联邦航空局下令停飞 171 架波音 737 MAX 9 飞机](https://m.ithome.com/html/743766.htm)
 
++ [消息称三星 Galaxy S24 系列手机国行版 1 月 18 日亮相线下](https://m.ithome.com/html/743755.htm)
+
++ [联想全新拯救者 Y7000P 游戏本预热：可选 RTX 4070 显卡，本月发布](https://m.ithome.com/html/743740.htm)
+
++ [消息称高通为三星准备双版本“骁龙 8 Gen 3 for Galaxy”芯片，Cortex-X4 频率相差 100MHz](https://m.ithome.com/html/743768.htm)
+
