@@ -123,3 +123,9 @@
 
 + [.NET Standard 支持的 .NET Framework 和 .NET Core](https://blog.csdn.net/hefeng_aspnet/article/details/135401390)
 
++ [基于vue.js物业维修报修系统设计与实现(uni-app框架+PHP后台) 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135401797)
+
++ [【.NET Core】异步编程模式](https://blog.csdn.net/songjianlong/article/details/135419284)
+
++ [微服务实战系列之API加密](https://blog.csdn.net/splendid_java/article/details/135384217)
+

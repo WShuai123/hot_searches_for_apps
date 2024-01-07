@@ -107,3 +107,17 @@
 
 + [Steam在线人数创新高 3367+万人在线](https://www.3dmgame.com/news/202401/3885542.html)
 
++ [《重金属：地狱歌手》推出联动《黄昏》免费DLC](https://www.3dmgame.com/news/202401/3885550.html)
+
++ [《海王2》全球票房已超3.3亿美元 预测能达到4.5亿美元](https://www.3dmgame.com/news/202401/3885549.html)
+
++ [《马克思佩恩》剧本作家开坑《博德之门3》](https://www.3dmgame.com/news/202401/3885548.html)
+
++ [《艾尔登法环》Steam在线复苏 24小时峰值超过9万人](https://www.3dmgame.com/news/202401/3885547.html)
+
++ [《波斯王子：失落的王冠》开发初期并非2D玩法](https://www.3dmgame.com/news/202401/3885546.html)
+
++ [《尼克儿童频道全明星大乱斗2》推出真正实体卡带](https://www.3dmgame.com/news/202401/3885545.html)
+
++ [佛州小丑发“最后通牒” 要求R星赔偿1000万美元](https://www.3dmgame.com/news/202401/3885544.html)
+
