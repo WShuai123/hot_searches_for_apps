@@ -101,3 +101,9 @@
 
 + [微软监管已入驻OpenAI董事会 防止再次“暴走”](https://www.3dmgame.com/news/202401/3885491.html)
 
++ [《GTA：三部曲》或获得修复 SteamDB页面有更新](https://www.3dmgame.com/news/202401/3885543.html)
+
++ [RTX 40 SUPER价格、性能曝光：一款大降价！刀法神了](https://www.3dmgame.com/news/202401/3885541.html)
+
++ [Steam在线人数创新高 3367+万人在线](https://www.3dmgame.com/news/202401/3885542.html)
+

@@ -25,3 +25,5 @@
 
 + [腾讯 QQ 更新 Windows 9.9.7、Mac 6.9.25、Linux 3.2.5 版本，新增一键合并独立窗口](https://m.ithome.com/html/743780.htm)
 
++ [三星 Galaxy S24 系列手机爆料不断，官方出手](https://m.ithome.com/html/743804.htm)
+

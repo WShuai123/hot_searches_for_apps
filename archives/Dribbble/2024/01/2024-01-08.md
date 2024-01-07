@@ -49,3 +49,23 @@
 
 + [Sold Out Branded Illustration](https://dribbble.com/shots/)
 
++ [Car Dashboard Components](https://dribbble.com/shots/)
+
++ [Christmas 2023 - Color](https://dribbble.com/shots/)
+
++ [fun lettering](https://dribbble.com/shots/)
+
++ [Mojave Desert](https://dribbble.com/shots/)
+
++ [After Hours](https://dribbble.com/shots/)
+
++ [Profity dashboard interaction](https://dribbble.com/shots/)
+
++ [Lego stickers](https://dribbble.com/shots/)
+
++ [Rock Illustrations](https://dribbble.com/shots/)
+
++ [Tubik Design Year Review 2023](https://dribbble.com/shots/)
+
++ ["Pink Bubble Dreams" - NFT art](https://dribbble.com/shots/)
+
