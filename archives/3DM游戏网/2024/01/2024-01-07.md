@@ -169,3 +169,5 @@
 
 + [Xbox Series S烤面包机售罄 eBay售价为原价2.5倍](https://www.3dmgame.com/news/202401/3885534.html)
 
++ [《西游ABC》剧集被迪士尼砍掉 首季收视率不佳](https://www.3dmgame.com/news/202401/3885535.html)
+

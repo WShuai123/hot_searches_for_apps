@@ -51,3 +51,35 @@
 
 + [stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift)
 
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [embedchain / embedchain](https://github.com/embedchain/embedchain)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
++ [janhq / nitro](https://github.com/janhq/nitro)
+
++ [fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)
+
++ [wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib)
+
++ [jzhang38 / TinyLlama](https://github.com/jzhang38/TinyLlama)
+
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources)
+
++ [menyifang / En3D](https://github.com/menyifang/En3D)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
+
++ [jmorganca / ollama](https://github.com/jmorganca/ollama)
+
++ [tachiyomiorg / tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+
