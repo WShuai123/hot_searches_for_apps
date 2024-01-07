@@ -173,3 +173,7 @@
 
 + [《铁拳8》体验版反响良好 预购量一直在稳定增长](https://www.3dmgame.com/news/202401/3885536.html)
 
++ [Windows 11 24H1更新计划4月上线 新增支持Wi-Fi 7](https://www.3dmgame.com/news/202401/3885538.html)
+
++ [《最终幻想14：黄金的遗产》大量内容公开 新职业、新地区](https://www.3dmgame.com/news/202401/3885537.html)
+

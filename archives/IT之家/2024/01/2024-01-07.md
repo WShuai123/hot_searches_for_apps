@@ -61,3 +61,5 @@
 
 + [首发价 49 元：米家智能温湿度计 3 京东自营 39.9 元探新低](https://m.ithome.com/html/743800.htm)
 
++ [消息称小米 Redmi K70 Ultra 手机配备 1.5K 直屏，直角中框设计](https://m.ithome.com/html/743829.htm)
+
