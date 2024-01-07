@@ -171,3 +171,5 @@
 
 + [《西游ABC》剧集被迪士尼砍掉 首季收视率不佳](https://www.3dmgame.com/news/202401/3885535.html)
 
++ [《铁拳8》体验版反响良好 预购量一直在稳定增长](https://www.3dmgame.com/news/202401/3885536.html)
+
