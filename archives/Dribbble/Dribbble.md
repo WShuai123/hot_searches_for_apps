@@ -69,3 +69,17 @@
 
 + ["Pink Bubble Dreams" - NFT art](https://dribbble.com/shots/)
 
++ [Into the new year!](https://dribbble.com/shots/)
+
++ [Assist UI-UX](https://dribbble.com/shots/)
+
++ [RIP Invision — Fun Character Illustrations](https://dribbble.com/shots/)
+
++ [Generative AI](https://dribbble.com/shots/)
+
++ [Dark Mode Tracking pt.4](https://dribbble.com/shots/)
+
++ [Crypto Mobile App](https://dribbble.com/shots/)
+
++ [Fruit Gang](https://dribbble.com/shots/)
+
