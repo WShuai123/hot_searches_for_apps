@@ -123,3 +123,19 @@
 
 + [《星空》在赢下Steam创新玩法大奖后遭差评轰炸](https://www.3dmgame.com/news/202401/3885508.html)
 
++ [石川县30年网红游戏厅地震受害严重 历经多次灾难发起支援](https://www.3dmgame.com/news/202401/3885519.html)
+
++ [20年前岩田聪未公开访谈：任天堂是最了解娱乐的](https://www.3dmgame.com/news/202401/3885518.html)
+
++ [iPhone电池门赔款引网友热议：国内用户对苹果太仁慈](https://www.3dmgame.com/news/202401/3885517.html)
+
++ [新研究称最快10天找到马航MH370 官方曾宣布无解之谜](https://www.3dmgame.com/news/202401/3885516.html)
+
++ [《Exodus》拥有多结局设定 时间跨越几个世纪](https://www.3dmgame.com/news/202401/3885515.html)
+
++ [东方新作《空想幻闻录》正在制作中 古明地恋确定主角](https://www.3dmgame.com/news/202401/3885514.html)
+
++ [受新作刺激？《永恒之柱》发售九年之后突获更新](https://www.3dmgame.com/news/202401/3885513.html)
+
++ [《Toytopia》1月29日登陆Steam 废墟生存恐怖探索](https://www.3dmgame.com/news/202401/3885512.html)
+
