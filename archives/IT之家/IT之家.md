@@ -41,3 +41,7 @@
 
 + [OPPO Find X7 系列手机预热：双向隐私通话、多国免费流量](https://m.ithome.com/html/743714.htm)
 
++ [微信私密朋友圈被吐槽有 bug，官方发文致歉并修复](https://m.ithome.com/html/743790.htm)
+
++ [美国联邦航空局下令停飞 171 架波音 737 MAX 9 飞机](https://m.ithome.com/html/743766.htm)
+

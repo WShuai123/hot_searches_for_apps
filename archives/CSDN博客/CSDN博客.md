@@ -161,3 +161,5 @@
 
 + [大模型机器人原理解析：如何从RT/RT2、Berkeley Gello到发展到斯坦福Mobile ALOHA、Google家务机器人](https://blog.csdn.net/v_JULY_v/article/details/135429156)
 
++ [3D人体姿态估计（教程+代码）](https://blog.csdn.net/ALiLiLiYa/article/details/135433115)
+
