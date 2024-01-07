@@ -49,3 +49,5 @@
 
 + [Fuzz工具对比及使用体验](https://www.freebuf.com/articles/network/388358.html)
 
++ [Goblob：一款功能强大的公开Azure Blob存储快速枚举工具](https://www.freebuf.com/sectool/386837.html)
+
