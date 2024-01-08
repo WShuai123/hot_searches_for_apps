@@ -41,3 +41,7 @@
 
 + [CISA发出警告：Chrome和Excel解析库存在被利用的漏洞](https://www.freebuf.com/news/388779.html)
 
++ [FreeBuf早报 | LastPass强制要求采用12位字符主密码；俄罗斯黑客持续攻击乌克兰](https://www.freebuf.com/news/388869.html)
+
++ [客户端漏洞篇——跨站脚本(XSS)专题](https://www.freebuf.com/articles/web/374938.html)
+

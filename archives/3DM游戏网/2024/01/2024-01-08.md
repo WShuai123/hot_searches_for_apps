@@ -121,3 +121,7 @@
 
 + [佛州小丑发“最后通牒” 要求R星赔偿1000万美元](https://www.3dmgame.com/news/202401/3885544.html)
 
++ [广州铁一中学花费4万元用破解Wii帮学生宣泄情绪](https://www.3dmgame.com/news/202401/3885552.html)
+
++ [超过Switch！Steam Deck支持游戏总量破1.3万](https://www.3dmgame.com/news/202401/3885551.html)
+
