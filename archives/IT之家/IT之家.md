@@ -51,3 +51,5 @@
 
 + [3999 元起，OPPO Find X7 超级标准版手机发布：天玑 9300、三主摄、端侧 AI](https://m.ithome.com/html/743957.htm)
 
++ [5999 元起，OPPO Find X7 Ultra 手机发布：首发双潜望四主摄，可选卫星通信版](https://m.ithome.com/html/743979.htm)
+

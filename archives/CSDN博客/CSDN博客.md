@@ -205,3 +205,9 @@
 
 + [Ubuntu如何使用宝塔面板部署开源论坛HadSky并结合内网穿透远程访问？](https://blog.csdn.net/qq_25749749/article/details/135456009)
 
++ [2023 CSIG青年科学家会议丨多模态大模型时代下的文档图像处理](https://blog.csdn.net/Javascript_tsj/article/details/135448414)
+
++ [基于vue.js旅游景区景点订票售票系统设计与实现(uniapp框架+PHP后台) 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135400824)
+
++ [最新ChatGPT网站系统源码+详细搭建部署教程+Midjourney绘画AI绘画](https://blog.csdn.net/weixin_43227851/article/details/135442146)
+

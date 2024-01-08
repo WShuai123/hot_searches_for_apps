@@ -71,3 +71,5 @@
 
 + [2023 年安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/news/388742.html)
 
++ [2023全球年度安全漏洞TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/news/388742.html)
+
