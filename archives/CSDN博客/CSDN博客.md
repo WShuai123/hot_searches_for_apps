@@ -137,3 +137,13 @@
 
 + [2.3_7 生产者-消费者问题](https://blog.csdn.net/m0_66839257/article/details/135435132)
 
++ [垂直领域大模型——文档图像大模型的思考与探索](https://blog.csdn.net/m0_63947499/article/details/135370773)
+
++ [Python爬虫获取百度的图片](https://blog.csdn.net/hgnuxc_1993/article/details/135429737)
+
++ [MyBatis：自定义 typeHandler 处理枚举类型](https://blog.csdn.net/qq_56886142/article/details/132668161)
+
++ [vue3 指令详解](https://blog.csdn.net/weixin_49014702/article/details/135440161)
+
++ [2024新年烟花代码完整版](https://blog.csdn.net/zhangxia_/article/details/135409555)
+

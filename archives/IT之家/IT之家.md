@@ -33,3 +33,5 @@
 
 + [苹果 M3 iPad Pro 将首次引入 OLED 屏幕，分析师称亮度高、寿命长、机身薄](https://m.ithome.com/html/743837.htm)
 
++ [消息称华为在汽车充电方面可能会打造一个联盟，提高充电桩利用率](https://m.ithome.com/html/743849.htm)
+

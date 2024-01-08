@@ -47,3 +47,9 @@
 
 + [随手挖洞 | 一次捡的逻辑漏洞 CNVD](https://www.freebuf.com/articles/web/388578.html)
 
++ [低价大甩卖？多次攻击美国基础设施的勒索软件Zeppelin仅500美元出售](https://www.freebuf.com/news/388963.html)
+
++ [重磅 | 17部门联合部署“数据要素×”三年行动计划](https://www.freebuf.com/news/388956.html)
+
++ [实战经验 | 企业安全运营如何做好数据接入？](https://www.freebuf.com/sectool/379068.html)
+

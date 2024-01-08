@@ -129,3 +129,27 @@
 
 + [《小龙斯派罗》官方发2024座右铭推文 引粉丝玩家遐想](https://www.3dmgame.com/news/202401/3885554.html)
 
++ [漫威全新《巨型蜘蛛侠（2024）》中 毒液和蜘蛛侠再次成为敌人](https://www.3dmgame.com/news/202401/3885566.html)
+
++ [《宝可梦：朱/紫》新7星太晶团战预告：火焰鸡](https://www.3dmgame.com/news/202401/3885563.html)
+
++ [《北斗神拳》主题新手办推出 南斗水鸟拳雷伊酷炫登场](https://www.3dmgame.com/news/202401/3885565.html)
+
++ [IGN称《如龙8》一个小游戏 就能让玩家沉迷300小时](https://www.3dmgame.com/news/202401/3885564.html)
+
++ [比魔法还管用！ MOD制作者为《博德之门3》添加RPG火箭筒](https://www.3dmgame.com/news/202401/3885562.html)
+
++ [日本玩家震灾游戏数据损坏求助任天堂 任天堂如此回应](https://www.3dmgame.com/news/202401/3885561.html)
+
++ [玩家发现《宝可梦 Go》某个成就需要耗费12年时间才能完成](https://www.3dmgame.com/news/202401/3885560.html)
+
++ [微软对《地狱之刃2》内部评测 预计M站评分能超90分](https://www.3dmgame.com/news/202401/3885558.html)
+
++ [《最后的生还者》剧集斩获8项艾美奖 第二季正在拍摄中](https://www.3dmgame.com/news/202401/3885559.html)
+
++ [吉田直树FF14庆典最新访谈 游戏的新进展走向](https://www.3dmgame.com/news/202401/3885557.html)
+
++ [受AI作画事件影响 《万智牌》原画师已从威世智离职](https://www.3dmgame.com/news/202401/3885556.html)
+
++ [科乐美回应《寂静岭2》和《合金装备3》今年发售：等待后续公告](https://www.3dmgame.com/news/202401/3885555.html)
+
