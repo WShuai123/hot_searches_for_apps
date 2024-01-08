@@ -165,3 +165,15 @@
 
 + [【大数据】基于 Flink CDC 构建 MySQL 和 Postgres 的 Streaming ETL](https://blog.csdn.net/be_racle/article/details/135440826)
 
++ [曲线生成 | 基于多项式插值的轨迹规划(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/135309731)
+
++ [基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理](https://blog.csdn.net/weixin_63115236/article/details/135446808)
+
++ [基于Python的货币识别技术实现](https://blog.csdn.net/weixin_42794881/article/details/135451178)
+
++ [为什么 Kafka 这么快？它是如何工作的？](https://blog.csdn.net/u012748257/article/details/135446839)
+
++ [高可用解决方案 Keepalived 案例（keepalived + nginx）](https://blog.csdn.net/footless_bird/article/details/135449026)
+
++ [微服务实战系列之Filter](https://blog.csdn.net/splendid_java/article/details/135435610)
+

@@ -39,3 +39,5 @@
 
 + [《GTA6》“佛罗里达小丑”对应人物向 R 星索赔 1000 万美元，威胁将释放此前泄露游戏的黑客](https://m.ithome.com/html/743858.htm)
 
++ [三星 Galaxy S24 Ultra 手机视频录制界面曝光，4K 60fps 可切换全部摄像头](https://m.ithome.com/html/743835.htm)
+
