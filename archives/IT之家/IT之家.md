@@ -37,3 +37,5 @@
 
 + [特斯拉 Cybertruck 电动皮卡雨刮器像“巨型湿面条”，功率高达 1KW](https://m.ithome.com/html/743823.htm)
 
++ [《GTA6》“佛罗里达小丑”对应人物向 R 星索赔 1000 万美元，威胁将释放此前泄露游戏的黑客](https://m.ithome.com/html/743858.htm)
+

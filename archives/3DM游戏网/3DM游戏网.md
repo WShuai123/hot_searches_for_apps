@@ -159,3 +159,13 @@
 
 + [《GTA6》粉丝为女主露西亚绘制九种形象 风格都很独特](https://www.3dmgame.com/news/202401/3885567.html)
 
++ [网友热议iPhone电池门赔款到账：国内用户对苹果太仁慈](https://www.3dmgame.com/news/202401/3885574.html)
+
++ [《暗黑4》掉率低 玩家一个月才集齐超强稀有暗金装备](https://www.3dmgame.com/news/202401/3885570.html)
+
++ [PS5、游戏手柄周周送！3DM官方APP登录签到抽大奖](https://www.3dmgame.com/news/202401/3885571.html)
+
++ [玩家将《艾尔登法环》“移植”进3DS 运行效果“复古”](https://www.3dmgame.com/news/202401/3885572.html)
+
++ [日本游戏界资深业者2024年展望 任天堂新主机与中国游戏](https://www.3dmgame.com/news/202401/3885573.html)
+

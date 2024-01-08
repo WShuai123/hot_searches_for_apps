@@ -157,3 +157,11 @@
 
 + [外包干了1个月，技术退步一大半。。。](https://blog.csdn.net/2301_77645573/article/details/135432873)
 
++ [鱼类识别Python+深度学习人工智能+TensorFlow+卷积神经网络算法](https://blog.csdn.net/meridian002/article/details/135439021)
+
++ [MySQL 8.0中新增的功能（四）](https://blog.csdn.net/hay23455/article/details/135445399)
+
++ [PHP语言B/S架构医院（安全）不良事件上报系统源码](https://blog.csdn.net/qq_27741787/article/details/135422690)
+
++ [【大数据】基于 Flink CDC 构建 MySQL 和 Postgres 的 Streaming ETL](https://blog.csdn.net/be_racle/article/details/135440826)
+

@@ -59,3 +59,5 @@
 
 + [《信息安全技术 网络安全产品互联互通告警信息格式》等4项国家标准征求意见稿发布](https://www.freebuf.com/news/388993.html)
 
++ [众测SRC | 如何通过js搜索未授权接口](https://www.freebuf.com/vuls/388765.html)
+
