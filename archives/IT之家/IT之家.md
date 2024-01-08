@@ -25,3 +25,7 @@
 
 + [2599 元起，一加 Ace 3 手机今日首销：搭载高通骁龙 8 Gen 2 处理器](https://m.ithome.com/html/743855.htm)
 
++ [刘作虎：OPPO 不做芯片，但保留哲库原有的架构团队](https://m.ithome.com/html/744004.htm)
+
++ [（更新：达达已回应）京东集团：旗下子公司达达宣布在内部审计过程中发现存疑行为](https://m.ithome.com/html/744032.htm)
+
