@@ -101,3 +101,11 @@
 
 + [科乐美回应《寂静岭2》和《合金装备3》今年发售：等待后续公告](https://www.3dmgame.com/news/202401/3885555.html)
 
++ [《波斯王子：失落的王冠》豪华版预告 售价59.99美元](https://www.3dmgame.com/news/202401/3885610.html)
+
++ [拉瑞安总监：下一款游戏还需要相当一段时间才能公开](https://www.3dmgame.com/news/202401/3885609.html)
+
++ [《百英雄传》通过评级 ESRB 10+、4月发售](https://www.3dmgame.com/news/202401/3885608.html)
+
++ [英国新一周实体游戏销量榜 《使命召唤20》第二](https://www.3dmgame.com/news/202401/3885607.html)
+

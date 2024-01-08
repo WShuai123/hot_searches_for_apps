@@ -61,3 +61,19 @@
 
 + [主播有胸毛怎么还告诉别人？？ACer真是卧龙凤雏！](http://www.acfun.cn/v/ac43463733)
 
++ [【年跃龙门】二次元塔塔开（预告）](http://www.acfun.cn/v/ac43462693)
+
++ [【丸子歌单】著名乐队空中铁匠Aerosmith名曲分享](http://www.acfun.cn/v/ac43464616)
+
++ [詹姆斯·梅 孤身闯印度 第1集：指梅为翰 James May Our Man In India](http://www.acfun.cn/v/ac43464472)
+
++ [这AI和我好像啊，不确定，再看一眼](http://www.acfun.cn/v/ac43464011)
+
++ [1974年，史上首支全女性登山队成立，她们计划征服4座7000米以上的人类禁区](http://www.acfun.cn/v/ac43460351)
+
++ [【年跃龙门】原创动画：《寰宇奇遇记》新春档预告！(ノﾟ∀ﾟ)ノ](http://www.acfun.cn/v/ac43464500)
+
++ [好厚米毕夫和捞翔打游击被包围，结果我救他≠给我绿钻](http://www.acfun.cn/v/ac43460862)
+
++ [【小六】梁山伯与朱丽叶](http://www.acfun.cn/v/ac43463702)
+
