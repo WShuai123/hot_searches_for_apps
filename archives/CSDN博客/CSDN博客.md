@@ -195,3 +195,13 @@
 
 + [【现代密码学】笔记1.2 -- 对称密钥加密、现代密码学的基本原则《introduction to modern cryphtography》现代密码学原理与协议](https://blog.csdn.net/wtyuong/article/details/135441182)
 
++ [探索人工智能：深度学习、人工智能安全和人工智能编程（文末送书）](https://blog.csdn.net/Qingai521/article/details/135455157)
+
++ [借助 ControlNet 生成艺术二维码 – 基于 Stable Diffusion 的 AI 绘画方案](https://blog.csdn.net/qq_41640218/article/details/135454669)
+
++ [解锁数据之门：Roxlabs全球住宅IP赋能海外爬虫与学术研究](https://blog.csdn.net/qq_44273429/article/details/135456218)
+
++ [开源内容管理框架Drupal在Docker本地部署并实现公网远程访问](https://blog.csdn.net/qyj19920704/article/details/135455757)
+
++ [Ubuntu如何使用宝塔面板部署开源论坛HadSky并结合内网穿透远程访问？](https://blog.csdn.net/qq_25749749/article/details/135456009)
+

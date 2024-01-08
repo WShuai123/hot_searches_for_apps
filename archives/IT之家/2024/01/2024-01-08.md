@@ -49,3 +49,5 @@
 
 + [华为畅享 70 Pro 手机上架：高通骁龙 680 芯片、108MP 主摄、侧边指纹，到手 1449 元起](https://m.ithome.com/html/743894.htm)
 
++ [3999 元起，OPPO Find X7 超级标准版手机发布：天玑 9300、三主摄、端侧 AI](https://m.ithome.com/html/743957.htm)
+

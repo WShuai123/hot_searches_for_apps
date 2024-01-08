@@ -201,3 +201,15 @@
 
 + [为热爱而战！Aster战队出征Predator League 2024亚太区总决赛](https://www.3dmgame.com/news/202401/3885586.html)
 
++ [雷军：小米汽车不仅跑得快也刹得住 售价不会是19.9万](https://www.3dmgame.com/news/202401/3885595.html)
+
++ [美国时隔50年首次登月任务！美私企“火神”火箭首飞成功](https://www.3dmgame.com/news/202401/3885596.html)
+
++ [《传送门2》饭制大型MOD《传送门：革命》Steam上线](https://www.3dmgame.com/news/202401/3885594.html)
+
++ [美国警方通过《魔兽世界》 找到被绑架的16岁女孩](https://www.3dmgame.com/news/202401/3885591.html)
+
++ [小米之家何时能看到小米汽车 官方回应](https://www.3dmgame.com/news/202401/3885592.html)
+
++ [美国科学家：超级人工智能毁灭人类可能性仅为5%](https://www.3dmgame.com/news/202401/3885593.html)
+

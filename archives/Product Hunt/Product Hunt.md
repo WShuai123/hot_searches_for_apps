@@ -131,3 +131,19 @@
 
 + [WP-Stack](https://www.producthunt.com/posts/wp-stack)
 
++ [TheDevStarter](https://www.producthunt.com/posts/thedevstarter)
+
++ [Monetise Your GPT](https://www.producthunt.com/posts/monetise-your-gpt)
+
++ [AVI by True AI](https://www.producthunt.com/posts/avi-by-true-ai)
+
++ [RoadMapWP](https://www.producthunt.com/posts/roadmapwp)
+
++ [EduEase](https://www.producthunt.com/posts/eduease)
+
++ [EntityMatcher](https://www.producthunt.com/posts/entitymatcher)
+
++ [ncScale 2.0](https://www.producthunt.com/posts/ncscale-2-0)
+
++ [Bullseye](https://www.producthunt.com/posts/bullseye-f5511349-379b-42c5-85d5-b04c75db96f0)
+
