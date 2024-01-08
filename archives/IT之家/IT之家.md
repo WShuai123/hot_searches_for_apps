@@ -61,3 +61,5 @@
 
 + [OPPO Find X7 Ultra 手机全球首发双潜望四主摄，新一代 1 英寸超大底广角](https://m.ithome.com/html/743969.htm)
 
++ [华为 P70 手机渲染图曝光：搭载可变光圈新主摄 + 潜望长焦](https://m.ithome.com/html/744008.htm)
+

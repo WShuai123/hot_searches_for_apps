@@ -145,3 +145,9 @@
 
 + [Freelancer](https://dribbble.com/shots/)
 
++ [Yoga Mobile App](https://dribbble.com/shots/)
+
++ [The Profity styleguide](https://dribbble.com/shots/)
+
++ [AI thinking reaction design by Milkinside](https://dribbble.com/shots/)
+
