@@ -109,3 +109,11 @@
 
 + [英国新一周实体游戏销量榜 《使命召唤20》第二](https://www.3dmgame.com/news/202401/3885607.html)
 
++ [《暗黑破坏神4》将于三月加入光追反射和阴影](https://www.3dmgame.com/news/202401/3885614.html)
+
++ [《龙之信条2》PC版推出时支持Nvidia DLSS3](https://www.3dmgame.com/news/202401/3885611.html)
+
++ [《地平线：西之绝境》完整版支持DLSS3 新预告展示](https://www.3dmgame.com/news/202401/3885613.html)
+
++ [《半条命2 RTX》CES预告片尽显路径追踪魅力](https://www.3dmgame.com/news/202401/3885612.html)
+

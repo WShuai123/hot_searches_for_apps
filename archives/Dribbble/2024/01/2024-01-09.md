@@ -49,3 +49,41 @@
 
 + [AI thinking reaction design by Milkinside](https://dribbble.com/shots/)
 
++ [Salesforce CRM - Sales Engagement Platform](https://dribbble.com/shots/)
+
++ [Tapas sticker for Coca-Cola](https://dribbble.com/shots/)
+
++ [Year of the Dragon pt.2](https://dribbble.com/shots/)
+
++ [Retro Music Tutorial](https://dribbble.com/shots/)
+
++ [Kid Avatar](https://dribbble.com/shots/)
+
++ [Retro gaming van](https://dribbble.com/shots/)
+
++ [Game Development Studio Website Home Page](https://dribbble.com/shots/)
+
++ [The Cat King](https://dribbble.com/shots/)
+
++ [CryptoNews Website Design](https://dribbble.com/shots/)
+
++ [Blue Cyclops Logo Mark Exploration](https://dribbble.com/shots/)
+
++ [Hope for 2024](https://dribbble.com/shots/)
+
++ [Solar Gate - Investing Dashboard React Admin UI Template](https://dribbble.com/shots/)
+
++ [Hop Harvest](https://dribbble.com/shots/)
+
++ [Helixen Website](https://dribbble.com/shots/)
+
++ [Niwa - Visual Identity for a mobile game](https://dribbble.com/shots/)
+
++ [Posh Fox](https://dribbble.com/shots/)
+
++ [Freelancer](https://dribbble.com/shots/)
+
++ [Secret Key](https://dribbble.com/shots/)
+
++ [Box](https://dribbble.com/shots/)
+
