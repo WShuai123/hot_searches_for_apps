@@ -101,3 +101,7 @@
 
 + [Neuralhub](https://www.producthunt.com/posts/neuralhub)
 
++ [AdSync](https://www.producthunt.com/posts/adsync-2)
+
++ [RoastedWithAI - Get Your Website Roasted](https://www.producthunt.com/posts/roastedwithai-get-your-website-roasted)
+
