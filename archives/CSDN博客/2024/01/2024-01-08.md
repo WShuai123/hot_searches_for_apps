@@ -211,3 +211,5 @@
 
 + [最新ChatGPT网站系统源码+详细搭建部署教程+Midjourney绘画AI绘画](https://blog.csdn.net/weixin_43227851/article/details/135442146)
 
++ [R4S软路由如何在iStoreOS后配置远程桌面本地电脑公网地址](https://blog.csdn.net/bushibrnxiaohaij/article/details/135459882)
+

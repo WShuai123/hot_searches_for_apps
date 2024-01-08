@@ -53,3 +53,7 @@
 
 + [5999 元起，OPPO Find X7 Ultra 手机发布：首发双潜望四主摄，可选卫星通信版](https://m.ithome.com/html/743979.htm)
 
++ [马斯克否认非法使用毒品，炮轰《华尔街日报》“厕纸都不配当”](https://m.ithome.com/html/743868.htm)
+
++ [荣耀 Magic6 / Pro / RSR 系列手机搭载巨犀玻璃：强调防冲击抗跌能力、号称“突破玻璃材质极限”](https://m.ithome.com/html/743900.htm)
+

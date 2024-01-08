@@ -51,3 +51,23 @@
 
 + [stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift)
 
++ [buybackoff / 1brc](https://github.com/buybackoff/1brc)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning)
+
++ [lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend)
+
++ [facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim)
+
++ [benman1 / generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain)
+
