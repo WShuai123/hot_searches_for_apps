@@ -181,3 +181,13 @@
 
 + [日系经典MMORPG《星界神话》Steam版上线 免费游玩](https://www.3dmgame.com/news/202401/3885577.html)
 
++ [少女在VR游戏中遭遇侵犯后报警：心理受到伤害！](https://www.3dmgame.com/news/202401/3885585.html)
+
++ [《Movies Tycoon》Steam试玩上线 电影制作模拟器](https://www.3dmgame.com/news/202401/3885584.html)
+
++ [2023年燃油新车数量腰斩 被新能源汽车远远超越](https://www.3dmgame.com/news/202401/3885583.html)
+
++ [《最后的生还者2：重制版》升级细节公布 存档可继承](https://www.3dmgame.com/news/202401/3885582.html)
+
++ [为《索尼克：回家大冒险》第三季动画预热 《索尼克力量：音速战争》将添加动画中的反派角色](https://www.3dmgame.com/news/202401/3885581.html)
+
