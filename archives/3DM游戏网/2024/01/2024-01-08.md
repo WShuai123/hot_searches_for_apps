@@ -191,3 +191,13 @@
 
 + [为《索尼克：回家大冒险》第三季动画预热 《索尼克力量：音速战争》将添加动画中的反派角色](https://www.3dmgame.com/news/202401/3885581.html)
 
++ [剧版《史密斯夫妇》特辑 画风与电影截然不同！](https://www.3dmgame.com/news/202401/3885590.html)
+
++ [《遗迹传说：高清复刻版》中文实体封面公布 售价321元](https://www.3dmgame.com/news/202401/3885589.html)
+
++ [三星展示裸眼3D游戏显示器 无需软件2D秒变3D](https://www.3dmgame.com/news/202401/3885588.html)
+
++ [《星空》新派系Mod 拥有自己的犯罪系统](https://www.3dmgame.com/news/202401/3885587.html)
+
++ [为热爱而战！Aster战队出征Predator League 2024亚太区总决赛](https://www.3dmgame.com/news/202401/3885586.html)
+

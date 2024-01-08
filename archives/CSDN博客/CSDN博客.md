@@ -189,3 +189,9 @@
 
 + [电脑丢失dll文件怎么办，dll修复工具可一键修复dll问题](https://blog.csdn.net/2301_77698200/article/details/135444882)
 
++ [Qt优秀开源项目之二十：RedPanda-CPP（小熊猫C++）](https://blog.csdn.net/caoshangpa/article/details/135446942)
+
++ [【Linux】启动流程](https://blog.csdn.net/double222222/article/details/135453603)
+
++ [【现代密码学】笔记1.2 -- 对称密钥加密、现代密码学的基本原则《introduction to modern cryphtography》现代密码学原理与协议](https://blog.csdn.net/wtyuong/article/details/135441182)
+

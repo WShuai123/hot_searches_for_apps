@@ -69,3 +69,5 @@
 
 + [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
 
++ [2023 年安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/news/388742.html)
+

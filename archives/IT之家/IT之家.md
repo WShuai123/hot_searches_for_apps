@@ -47,3 +47,5 @@
 
 + [联想全新拯救者 Y7000P 笔记本预热：总性能释放提升 30W](https://m.ithome.com/html/743833.htm)
 
++ [华为畅享 70 Pro 手机上架：高通骁龙 680 芯片、108MP 主摄、侧边指纹，到手 1449 元起](https://m.ithome.com/html/743894.htm)
+
