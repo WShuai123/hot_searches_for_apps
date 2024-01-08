@@ -45,3 +45,5 @@
 
 + [客户端漏洞篇——跨站脚本(XSS)专题](https://www.freebuf.com/articles/web/374938.html)
 
++ [随手挖洞 | 一次捡的逻辑漏洞 CNVD](https://www.freebuf.com/articles/web/388578.html)
+

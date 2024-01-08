@@ -125,3 +125,7 @@
 
 + [超过Switch！Steam Deck支持游戏总量破1.3万](https://www.3dmgame.com/news/202401/3885551.html)
 
++ [观影预热指南 新电影《高达SEED 自由》前多部系列重播](https://www.3dmgame.com/news/202401/3885553.html)
+
++ [《小龙斯派罗》官方发2024座右铭推文 引粉丝玩家遐想](https://www.3dmgame.com/news/202401/3885554.html)
+
