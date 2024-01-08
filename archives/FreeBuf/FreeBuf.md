@@ -53,3 +53,9 @@
 
 + [实战经验 | 企业安全运营如何做好数据接入？](https://www.freebuf.com/sectool/379068.html)
 
++ [如何在春节期间恶补红队知识?秘籍都整理好了](https://www.freebuf.com/fevents/389004.html)
+
++ [微信私密朋友圈被吐槽有BUG](https://www.freebuf.com/news/388951.html)
+
++ [《信息安全技术 网络安全产品互联互通告警信息格式》等4项国家标准征求意见稿发布](https://www.freebuf.com/news/388993.html)
+

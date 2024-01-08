@@ -35,3 +35,5 @@
 
 + [消息称华为在汽车充电方面可能会打造一个联盟，提高充电桩利用率](https://m.ithome.com/html/743849.htm)
 
++ [特斯拉 Cybertruck 电动皮卡雨刮器像“巨型湿面条”，功率高达 1KW](https://m.ithome.com/html/743823.htm)
+

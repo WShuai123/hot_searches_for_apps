@@ -147,3 +147,13 @@
 
 + [2024新年烟花代码完整版](https://blog.csdn.net/zhangxia_/article/details/135409555)
 
++ [探索文档图像大模型，提升智能文档处理性能](https://blog.csdn.net/LOVEmy134611/article/details/135438437)
+
++ [走进CSIG|文档图像大模型在智能文档处理领域中的应用](https://blog.csdn.net/weixin_50843918/article/details/135379595)
+
++ [【C#】网址不进行UrlEncode编码会存在一些问题](https://blog.csdn.net/lmy_520/article/details/135419702)
+
++ [【网络】网络层协议ARP和IP协议转发流程](https://blog.csdn.net/qq_35995514/article/details/135442708)
+
++ [外包干了1个月，技术退步一大半。。。](https://blog.csdn.net/2301_77645573/article/details/135432873)
+

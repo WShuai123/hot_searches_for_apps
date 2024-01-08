@@ -153,3 +153,9 @@
 
 + [科乐美回应《寂静岭2》和《合金装备3》今年发售：等待后续公告](https://www.3dmgame.com/news/202401/3885555.html)
 
++ [阿尔特曼称被开除又回来很痛苦 但对OpenAI是好事](https://www.3dmgame.com/news/202401/3885569.html)
+
++ [《圣兽之王》香草社公布新年贺图 今年将搬迁新办公室](https://www.3dmgame.com/news/202401/3885568.html)
+
++ [《GTA6》粉丝为女主露西亚绘制九种形象 风格都很独特](https://www.3dmgame.com/news/202401/3885567.html)
+
