@@ -57,3 +57,7 @@
 
 + [荣耀 Magic6 / Pro / RSR 系列手机搭载巨犀玻璃：强调防冲击抗跌能力、号称“突破玻璃材质极限”](https://m.ithome.com/html/743900.htm)
 
++ [2599 元起，一加 Ace 3 手机今日首销：搭载高通骁龙 8 Gen 2 处理器](https://m.ithome.com/html/743855.htm)
+
++ [OPPO Find X7 Ultra 手机全球首发双潜望四主摄，新一代 1 英寸超大底广角](https://m.ithome.com/html/743969.htm)
+

@@ -147,3 +147,7 @@
 
 + [Bullseye](https://www.producthunt.com/posts/bullseye-f5511349-379b-42c5-85d5-b04c75db96f0)
 
++ [Tablize](https://www.producthunt.com/posts/tablize)
+
++ [pipl.ai](https://www.producthunt.com/posts/pipl-ai)
+
