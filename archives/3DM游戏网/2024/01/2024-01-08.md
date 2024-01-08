@@ -225,3 +225,11 @@
 
 + [《DOTA2》迪拜别墅杯预选赛 iG不敌Blacklist遭淘汰](https://www.3dmgame.com/news/202401/3885599.html)
 
++ [《浪人崛起》被欧洲评为18+ 含有暴力和赌博元素](https://www.3dmgame.com/news/202401/3885606.html)
+
++ [《辐射：伦敦》将是《辐射4》的锦上添花 开发团队想开发一个完整游戏](https://www.3dmgame.com/news/202401/3885605.html)
+
++ [马斯克再次发帖批《华尔街日报》：水准不如八卦网站](https://www.3dmgame.com/news/202401/3885604.html)
+
++ [PlayStation公开23个国家2023年最受欢迎游戏](https://www.3dmgame.com/news/202401/3885603.html)
+
