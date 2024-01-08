@@ -41,3 +41,9 @@
 
 + [三星 Galaxy S24 Ultra 手机视频录制界面曝光，4K 60fps 可切换全部摄像头](https://m.ithome.com/html/743835.htm)
 
++ [小米汽车回答网友疑问：SU7 不会是 19.9 万，没有 Redmi 汽车计划](https://m.ithome.com/html/743920.htm)
+
++ [小米神秘手机新品现身 IMEI 数据库，预计 2025 年 3 月发布](https://m.ithome.com/html/743897.htm)
+
++ [联想全新拯救者 Y7000P 笔记本预热：总性能释放提升 30W](https://m.ithome.com/html/743833.htm)
+

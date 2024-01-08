@@ -171,3 +171,13 @@
 
 + [玩家抱怨《英雄联盟》龙类新英雄斯莫德面部太像人 拳头官方承诺修改](https://www.3dmgame.com/news/202401/3885575.html)
 
++ [《怪物猎人：世界》Steam在线人数持续飙升至16万 已达在线峰值历史的一半](https://www.3dmgame.com/news/202401/3885578.html)
+
++ [国服要来了吗？《魔兽世界》等暴雪游戏官方微博复活](https://www.3dmgame.com/news/202401/3885579.html)
+
++ [名作《废弃游乐场的记忆碎片》确定移植主机 追加全语音](https://www.3dmgame.com/news/202401/3885580.html)
+
++ [宫崎骏《你想活出怎样的人生》斩获金球奖最佳动画电影 日系首次](https://www.3dmgame.com/news/202401/3885576.html)
+
++ [日系经典MMORPG《星界神话》Steam版上线 免费游玩](https://www.3dmgame.com/news/202401/3885577.html)
+

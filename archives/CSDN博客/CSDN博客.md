@@ -177,3 +177,7 @@
 
 + [微服务实战系列之Filter](https://blog.csdn.net/splendid_java/article/details/135435610)
 
++ [使用知识图谱提高RAG的能力，减少大模型幻觉](https://blog.csdn.net/m0_46510245/article/details/135449530)
+
++ [第十九届全国大学生智能汽车竞赛 讯飞－智慧救援挑战赛 全国选拔赛规则](https://blog.csdn.net/zhuoqingjoking97298/article/details/135450368)
+
