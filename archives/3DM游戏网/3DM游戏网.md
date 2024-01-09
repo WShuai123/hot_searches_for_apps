@@ -285,3 +285,5 @@
 
 + [索尼在CES上首次展示了《重力眩晕》电影片段](https://www.3dmgame.com/news/202401/3885696.html)
 
++ [《战神》《地平线》剧集尚在剧本创作阶段](https://www.3dmgame.com/news/202401/3885699.html)
+

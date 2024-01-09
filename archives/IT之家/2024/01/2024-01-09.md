@@ -59,3 +59,9 @@
 
 + [华为贡献 88.75%，开源鸿蒙 OpenHarmony 社区报告：2023 年新增 1620 万行代码](https://m.ithome.com/html/744040.htm)
 
++ [深圳市场监管局：希望华为、腾讯、比亚迪等龙头企业总结分享海外维权经验](https://m.ithome.com/html/744233.htm)
+
++ [钉钉与微软中国达成合作：发布钉钉 Office 套件，每人每月 35 元](https://m.ithome.com/html/744197.htm)
+
++ [联想发布拯救者 Y9000K 2024 游戏本电脑：英特尔酷睿 i9-14900HX + RTX 4090](https://m.ithome.com/html/744089.htm)
+
