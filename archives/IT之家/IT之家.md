@@ -33,3 +33,5 @@
 
 + [【IT之家开箱】OPPO Find X7 系列图赏：大师影像设计，设计服务影像](https://m.ithome.com/html/743887.htm)
 
++ [京东京造推出 2400W 移动户外电源：支持 11 台设备同时充电、3000 次循环寿命，到手 4599 元](https://m.ithome.com/html/743990.htm)
+

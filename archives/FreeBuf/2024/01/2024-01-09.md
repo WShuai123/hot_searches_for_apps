@@ -45,3 +45,9 @@
 
 + [新年伊始，暗网掀起泄露数据发布狂潮](https://www.freebuf.com/articles/network/388941.html)
 
++ [APT、黑产、勒索...一个网安人的2023年](https://www.freebuf.com/articles/paper/388906.html)
+
++ [工信部组织开展网络安全保险服务试点工作](https://www.freebuf.com/news/389176.html)
+
++ [入职甲方必学：帮主亲授「代码审计入门与进阶」](https://www.freebuf.com/articles/people/389175.html)
+

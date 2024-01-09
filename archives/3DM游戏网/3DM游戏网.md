@@ -127,3 +127,33 @@
 
 + [《霍格沃茨之遗》全球销量超2200万份 续作在开发中](https://www.3dmgame.com/news/202401/3885615.html)
 
++ [《漫威蜘蛛侠》玛丽简脸模被粉丝骚扰 发文谴责越界者](https://www.3dmgame.com/news/202401/3885633.html)
+
++ [Twitch宣布联动英伟达以及OBS推高级版 正在进入B测](https://www.3dmgame.com/news/202401/3885629.html)
+
++ [次世代像素风格的ARPG游戏《圣血传说》Steam页面 支持中文](https://www.3dmgame.com/news/202401/3885634.html)
+
++ [字节正与腾讯商谈游戏项目出售 目前尚未敲定](https://www.3dmgame.com/news/202401/3885632.html)
+
++ [V社新年新成就：Steam同时在线玩家数量再创新高](https://www.3dmgame.com/news/202401/3885631.html)
+
++ [主演乔什·哈切森透露《玩具熊的五夜后宫》续集电影正在制作中](https://www.3dmgame.com/news/202401/3885630.html)
+
++ [《黎明杀机x心灵杀手》联动或于今日晚些时候公布](https://www.3dmgame.com/news/202401/3885628.html)
+
++ [《驱灵者：新伊甸的幽灵》“抉择和后果”预告 2月13日发售](https://www.3dmgame.com/news/202401/3885626.html)
+
++ [Xbox确认将禁止《博德之门3》玩家自动上传辛辣视频](https://www.3dmgame.com/news/202401/3885623.html)
+
++ [英国年度报告：PC和游戏主机销量增长2.6%](https://www.3dmgame.com/news/202401/3885624.html)
+
++ [苹果Vision Pro将于2月2日美国率先开售 3500美元起](https://www.3dmgame.com/news/202401/3885622.html)
+
++ [好评肉鸽动作《咩咩启示录》免费更新1月16日上线](https://www.3dmgame.com/news/202401/3885621.html)
+
++ [三款RTX40 SUPER显卡发布：4080SUPER售价8099元起](https://www.3dmgame.com/news/202401/3885620.html)
+
++ [腾讯游戏公布寒假限玩日历 可玩时间总计16个小时](https://www.3dmgame.com/news/202401/3885627.html)
+
++ [《轩辕剑外传：穹之扉》宣布将于2024年登陆PS5](https://www.3dmgame.com/news/202401/3885625.html)
+

@@ -123,3 +123,19 @@
 
 + [探索 GitHub：高效使用技巧与实例分享](https://blog.csdn.net/weixin_44976692/article/details/135450182)
 
++ [Leaflet.VectorGrid加载点矢量瓦片鼠标点击报Cannot read properties of undefined的解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/135435390)
+
++ [外包干了1个月，技术退步一大半。。。](https://blog.csdn.net/2301_77645573/article/details/135432873)
+
++ [《矩阵分析》笔记](https://blog.csdn.net/Transfattyacids/article/details/135464193)
+
++ [React-路由进阶](https://blog.csdn.net/cc2231293148/article/details/135462090)
+
++ [HCIA——4：TCP三次握手与四次挥手详解篇一(计算机网络)](https://blog.csdn.net/2301_79807099/article/details/135461932)
+
++ [CSDN年度征文｜2023编码诗行：与CSDN携手，开启2024编程新旅](https://blog.csdn.net/m0_57532432/article/details/135412948)
+
++ [基于yolov2深度学习网络的车辆行人检测算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/135468539)
+
++ [斯坦福机器人Mobile ALOHA的背后技术：动作分块ACT、Diffusion Policy、VINN](https://blog.csdn.net/v_JULY_v/article/details/135454242)
+
