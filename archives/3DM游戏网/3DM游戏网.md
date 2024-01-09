@@ -115,3 +115,7 @@
 
 + [《地狱潜者2》PC特性预告片分享 系统配置公布](https://www.3dmgame.com/news/202401/3885704.html)
 
++ [科幻巨作网飞版《三体》发布正式预告](https://www.3dmgame.com/news/202401/3885708.html)
+
++ [任天堂密谋合作为Switch后继主机打造更多游戏](https://www.3dmgame.com/news/202401/3885709.html)
+

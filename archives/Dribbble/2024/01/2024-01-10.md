@@ -113,3 +113,11 @@
 
 + [Winter Icons](https://dribbble.com/shots/)
 
++ [Snowing](https://dribbble.com/shots/)
+
++ [Stool Analysis Tool Report Feature](https://dribbble.com/shots/)
+
++ [Lifetune.co landing page interaction](https://dribbble.com/shots/)
+
++ [Ghost in the Shell](https://dribbble.com/shots/)
+
