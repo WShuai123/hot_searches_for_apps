@@ -143,3 +143,19 @@
 
 + [SoundXLR](https://www.producthunt.com/posts/soundxlr)
 
++ [Invoice Builder by Tola](https://www.producthunt.com/posts/invoice-builder-by-tola)
+
++ [KaziQuest e-Recruiting Software](https://www.producthunt.com/posts/kaziquest-e-recruiting-software)
+
++ [Finvest](https://www.producthunt.com/posts/finvest)
+
++ [FullEnrich](https://www.producthunt.com/posts/fullenrich)
+
++ [StatusTicker](https://www.producthunt.com/posts/statusticker-2)
+
++ [Packem](https://www.producthunt.com/posts/packem)
+
++ [HIgedi](https://www.producthunt.com/posts/higedi)
+
++ [Followr](https://www.producthunt.com/posts/followr-4)
+

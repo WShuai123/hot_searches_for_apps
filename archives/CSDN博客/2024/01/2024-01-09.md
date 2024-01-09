@@ -179,3 +179,7 @@
 
 + [基于单片机设计的智慧农业大棚检测系统](https://blog.csdn.net/xiaolong1126626497/article/details/135449194)
 
++ [基于Java协同过滤算法的电影推荐系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135468493)
+
++ [探索大模型时代下的文档识别与分析【GPT4-V带来的挑战与机遇】](https://blog.csdn.net/JHXL_/article/details/135460509)
+

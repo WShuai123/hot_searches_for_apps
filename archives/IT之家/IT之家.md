@@ -47,3 +47,7 @@
 
 + [全新 14 代 / 1 代处理器面世：英特尔发布面向发烧友和主流用户的移动、台式机和边缘处理器](https://m.ithome.com/html/744085.htm)
 
++ [网易云音乐宣布改版：广告减少，Slogan 改回“发现好音乐”](https://m.ithome.com/html/744164.htm)
+
++ [苹果宣布 Vision Pro 将于 2 月 2 日在美国上市，256GB 版本起售价 3499 美元](https://m.ithome.com/html/744050.htm)
+

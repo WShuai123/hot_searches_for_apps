@@ -147,3 +147,11 @@
 
 + [Chess Pieces Tutorial](https://dribbble.com/shots/)
 
++ [Pattern](https://dribbble.com/shots/)
+
++ [Clearbit Website Design](https://dribbble.com/shots/)
+
++ [Introducing Index Website](https://dribbble.com/shots/)
+
++ [Snowing](https://dribbble.com/shots/)
+

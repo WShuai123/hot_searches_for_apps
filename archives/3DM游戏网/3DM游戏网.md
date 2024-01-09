@@ -247,3 +247,19 @@
 
 + [《地狱潜者2》PS5版或将小幅跳票延期 2月28日发售](https://www.3dmgame.com/news/202401/3885677.html)
 
++ [《铁拳8》首个DLC角色“乔西”泄露 运动员兼职模特](https://www.3dmgame.com/news/202401/3885687.html)
+
++ [《艾尔登法环》女神玛莉卡在现实中会是什么样子](https://www.3dmgame.com/news/202401/3885685.html)
+
++ [GBC掌机新游《Power Ball - Monsters Quest》预购开启](https://www.3dmgame.com/news/202401/3885686.html)
+
++ [我国成功发射爱因斯坦探针卫星 配备“龙虾眼”望远镜技术](https://www.3dmgame.com/news/202401/3885684.html)
+
++ [因服务器宕机 风灵月影修改器暂无法正常使用](https://www.3dmgame.com/news/202401/3885683.html)
+
++ [曝今年英伟达游戏显卡将全球短缺 因为要优先生产AI芯片](https://www.3dmgame.com/news/202401/3885681.html)
+
++ [英伟达云游戏将获G-Sync 支持显示器均可用](https://www.3dmgame.com/news/202401/3885682.html)
+
++ [锂金属电池重大突破：10分钟完成充电 可循环至少6000次！](https://www.3dmgame.com/news/202401/3885680.html)
+
