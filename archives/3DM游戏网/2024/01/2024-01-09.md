@@ -269,3 +269,13 @@
 
 + [小米称没有红米汽车计划 不会研发低价“丐中丐“版本](https://www.3dmgame.com/news/202401/3885690.html)
 
++ [索尼展示本田电动汽车 通过PS5手柄遥控驾驶](https://www.3dmgame.com/news/202401/3885695.html)
+
++ [海诺大招CD越来越久? 王者荣耀逆天BUG](https://www.3dmgame.com/news/202401/3885692.html)
+
++ [大众汽车车载语音助手整合ChatGPT 计划年中上市](https://www.3dmgame.com/news/202401/3885694.html)
+
++ [某豆做游戏！真人互动游戏《这个面试有点硬》预购开启](https://www.3dmgame.com/news/202401/3885693.html)
+
++ [姬小满离谱BUG，困在海月大招里，这下真超脱三界了](https://www.3dmgame.com/news/202401/3885691.html)
+

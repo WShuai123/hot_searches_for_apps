@@ -189,3 +189,9 @@
 
 + [独立式键盘控制的4级变速流水灯](https://blog.csdn.net/qq_46065313/article/details/135464793)
 
++ [挑战Transformer的新架构Mamba解析以及Pytorch复现](https://blog.csdn.net/m0_46510245/article/details/135472630)
+
++ [如何使用Docker本地部署一个开源网址导航页并分享好友公网使用](https://blog.csdn.net/hsjsiwkwm/article/details/135482307)
+
++ [【MyBatis】#{}和${} | 数据库连接池](https://blog.csdn.net/m0_73888323/article/details/135268425)
+

@@ -161,3 +161,13 @@
 
 + [Color Palette](https://dribbble.com/shots/)
 
++ [Geometric Pirate Logo](https://dribbble.com/shots/)
+
++ [Action UI-UX](https://dribbble.com/shots/)
+
++ [Ride Waves](https://dribbble.com/shots/)
+
++ [Assets / Side Drawer](https://dribbble.com/shots/)
+
++ [#136 - Concept shots](https://dribbble.com/shots/)
+
