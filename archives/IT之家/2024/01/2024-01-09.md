@@ -29,3 +29,7 @@
 
 + [（更新：达达已回应）京东集团：旗下子公司达达宣布在内部审计过程中发现存疑行为](https://m.ithome.com/html/744032.htm)
 
++ [国行定价出炉！英伟达 RTX 40 SUPER 系列显卡发布：加量又减价，4899 元起](https://m.ithome.com/html/744067.htm)
+
++ [【IT之家开箱】OPPO Find X7 系列图赏：大师影像设计，设计服务影像](https://m.ithome.com/html/743887.htm)
+

@@ -117,3 +117,13 @@
 
 + [《半条命2 RTX》CES预告片尽显路径追踪魅力](https://www.3dmgame.com/news/202401/3885612.html)
 
++ [传《盗贼之海》将登陆PlayStation和Switch](https://www.3dmgame.com/news/202401/3885619.html)
+
++ [《霍格沃茨之遗》大获成功后 华纳将推出更多哈利波特游戏](https://www.3dmgame.com/news/202401/3885618.html)
+
++ [《暗黑4》第3赛季不会延期 更多细节将在未来几周内公布](https://www.3dmgame.com/news/202401/3885617.html)
+
++ [Unity将大裁员 全球1800名员工受影响](https://www.3dmgame.com/news/202401/3885616.html)
+
++ [《霍格沃茨之遗》全球销量超2200万份 续作在开发中](https://www.3dmgame.com/news/202401/3885615.html)
+

@@ -101,3 +101,25 @@
 
 + [外包干了3个多月，技术退步明显。。。。。](https://blog.csdn.net/qq_73332379/article/details/135419242)
 
++ [Azure AI 内容安全Content Safety Studio实战](https://blog.csdn.net/magicyangjay111/article/details/135464311)
+
++ [【人工智能】深入了解人工智能的核心算法与应用实践](https://blog.csdn.net/s445320/article/details/135455284)
+
++ [2023 CSIG青年科学家会议丨多模态大模型时代下的文档图像处理](https://blog.csdn.net/Javascript_tsj/article/details/135448414)
+
++ [【HarmonyOS】深入了解 ArkUI 的动画交互以提高用户体验](https://blog.csdn.net/qq_53123067/article/details/135430129)
+
++ [2023三星齐发，博客之星、华为OD、Java学习星球](https://blog.csdn.net/guorui_java/article/details/135464392)
+
++ [决定2024市场走向的12件大事，就在这张时间表里](https://blog.csdn.net/Gabriel100yi/article/details/135437139)
+
++ [Springboot+RocketMQ通过事务消息优雅的实现订单支付功能](https://blog.csdn.net/qq_43649937/article/details/135461751)
+
++ [如何在小米4A刷OpenWRT系统并通过cpolar实现公网访问本地路由器](https://blog.csdn.net/w2915w/article/details/135457730)
+
++ [Nacos与Eureka的区别](https://blog.csdn.net/zhangzehai2234/article/details/135441610)
+
++ [【现代密码学】笔记2 -- 完善保密性《introduction to modern cryphtography》现代密码学原理与协议](https://blog.csdn.net/wtyuong/article/details/135445174)
+
++ [探索 GitHub：高效使用技巧与实例分享](https://blog.csdn.net/weixin_44976692/article/details/135450182)
+

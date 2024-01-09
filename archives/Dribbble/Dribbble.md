@@ -87,3 +87,25 @@
 
 + [Box](https://dribbble.com/shots/)
 
++ [Unused 'a' Lettermark for a Tech Company](https://dribbble.com/shots/)
+
++ [EquipYou - Logo](https://dribbble.com/shots/)
+
++ [Dialin.ai: Sidebar Navigation Menu](https://dribbble.com/shots/)
+
++ [Color Inspiration](https://dribbble.com/shots/)
+
++ [Jason Broyles](https://dribbble.com/shots/)
+
++ [Cruz: Payment terminal](https://dribbble.com/shots/)
+
++ [Stock Values](https://dribbble.com/shots/)
+
++ [Elegant Java Sparrow Logo](https://dribbble.com/shots/)
+
++ [Little Red Riding Hood](https://dribbble.com/shots/)
+
++ [Website design for Consulting company](https://dribbble.com/shots/)
+
++ [AgriNex Website](https://dribbble.com/shots/)
+

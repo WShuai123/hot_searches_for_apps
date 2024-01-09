@@ -41,3 +41,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/388901.html)
 
++ [FreeBuf早报 | 佛州小丑向R星索要1000万美元；微信私密朋友圈被吐槽有 BUG](https://www.freebuf.com/news/389151.html)
+
++ [新年伊始，暗网掀起泄露数据发布狂潮](https://www.freebuf.com/articles/network/388941.html)
+
