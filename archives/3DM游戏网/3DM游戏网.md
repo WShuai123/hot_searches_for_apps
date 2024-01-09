@@ -101,3 +101,9 @@
 
 + [Valve假期大更新后 《军团要塞 2》在Steam上火爆 销量榜排名猛进51位](https://www.3dmgame.com/news/202401/3885647.html)
 
++ [推理冒险《里欧小卫兵》1月23日发售 支持免费试玩](https://www.3dmgame.com/news/202401/3885703.html)
+
++ [剧情互动《不朽》1月23日登陆PS5 Steam特别好评](https://www.3dmgame.com/news/202401/3885701.html)
+
++ [官宣：Xbox直面会19日4点举行 《地狱之刃2》等信息](https://www.3dmgame.com/news/202401/3885702.html)
+

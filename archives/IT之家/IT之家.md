@@ -25,3 +25,7 @@
 
 + [联想发布拯救者 Y9000K 2024 游戏本电脑：英特尔酷睿 i9-14900HX + RTX 4090](https://m.ithome.com/html/744089.htm)
 
++ [荣耀 X50 GT 手机今天开售：高通骁龙 8 + 芯片、5800 毫安时电池，首发价格 1999 元起](https://m.ithome.com/html/744101.htm)
+
++ [【IT之家开箱】ROG游戏手机8 Pro图赏：变轻变薄，后壳暗藏玄机](https://m.ithome.com/html/744110.htm)
+

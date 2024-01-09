@@ -49,3 +49,25 @@
 
 + [AI thinking reaction design by Milkinside](https://dribbble.com/shots/)
 
++ [Digital Writing Banner. Vol.2](https://dribbble.com/shots/)
+
++ [Year of the Dragon pt.2](https://dribbble.com/shots/)
+
++ [Retro gaming van](https://dribbble.com/shots/)
+
++ [SIFT - Fintech Website](https://dribbble.com/shots/)
+
++ [Fitness Mobile App design](https://dribbble.com/shots/)
+
++ [The Divide](https://dribbble.com/shots/)
+
++ [Spooky Drink + Print](https://dribbble.com/shots/)
+
++ [Housing Policies](https://dribbble.com/shots/)
+
++ [Clearbit Website Design](https://dribbble.com/shots/)
+
++ [Cruz: Payment terminal](https://dribbble.com/shots/)
+
++ [Unused 'a' Lettermark for a Tech Company](https://dribbble.com/shots/)
+
