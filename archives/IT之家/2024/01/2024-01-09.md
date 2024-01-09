@@ -51,3 +51,7 @@
 
 + [苹果宣布 Vision Pro 将于 2 月 2 日在美国上市，256GB 版本起售价 3499 美元](https://m.ithome.com/html/744050.htm)
 
++ [【IT之家评测室】OPPO Find X7 Ultra 深度评测：请允许我叫你一声，影像大师](https://m.ithome.com/html/744155.htm)
+
++ [阿拉斯加航空 1282 号班机事故后续：乘客 iPhone 从 1.6 万英尺高空坠落后仍可使用](https://m.ithome.com/html/744074.htm)
+
