@@ -57,3 +57,5 @@
 
 + [中科院推出 256 核国产“大芯片”：22nm 工艺，采用 Chiplet 芯粒 + RISC-V 架构](https://m.ithome.com/html/744130.htm)
 
++ [华为贡献 88.75%，开源鸿蒙 OpenHarmony 社区报告：2023 年新增 1620 万行代码](https://m.ithome.com/html/744040.htm)
+

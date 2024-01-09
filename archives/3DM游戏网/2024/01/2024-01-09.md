@@ -279,3 +279,9 @@
 
 + [姬小满离谱BUG，困在海月大招里，这下真超脱三界了](https://www.3dmgame.com/news/202401/3885691.html)
 
++ [英伟达确认已停产RTX 4080和RTX 4070 Ti 被对应SUPER新品取代](https://www.3dmgame.com/news/202401/3885698.html)
+
++ [动画《异兽魔都》确定制作续篇](https://www.3dmgame.com/news/202401/3885697.html)
+
++ [索尼在CES上首次展示了《重力眩晕》电影片段](https://www.3dmgame.com/news/202401/3885696.html)
+
