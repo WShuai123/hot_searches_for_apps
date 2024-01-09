@@ -43,3 +43,5 @@
 
 + [Wi-Fi 7 时代来临：Wi-Fi 联盟已开始对 Wi-Fi 7 设备进行认证](https://m.ithome.com/html/744045.htm)
 
++ [小米：SU7 50 万元以内没有对手，没有和第三方车企合作推出“智选”车的计划](https://m.ithome.com/html/744154.htm)
+

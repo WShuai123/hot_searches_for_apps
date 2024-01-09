@@ -169,3 +169,9 @@
 
 + [小米4A千兆版路由器刷入OpenWRT教程结合内网穿透远程访问](https://blog.csdn.net/ks_wyf/article/details/135473093)
 
++ [弹性搜索引擎Elasticsearch：本地部署与远程访问指南](https://blog.csdn.net/2301_80026901/article/details/135477801)
+
++ [【大模型】大型模型飞跃升级—文档图像识别领域迎来技术巨变](https://blog.csdn.net/weixin_36755535/article/details/135464759)
+
++ [用gpt写的登录页面](https://blog.csdn.net/qq_42431718/article/details/135449716)
+

@@ -105,3 +105,21 @@
 
 + [RoastedWithAI - Get Your Website Roasted](https://www.producthunt.com/posts/roastedwithai-get-your-website-roasted)
 
++ [Samsung Ballie](https://www.producthunt.com/posts/samsung-ballie)
+
++ [Generative AI by iStock](https://www.producthunt.com/posts/generative-ai-by-istock)
+
++ [MyHabbit](https://www.producthunt.com/posts/myhabbit)
+
++ [English Coach AI](https://www.producthunt.com/posts/english-coach-ai)
+
++ [snippet.run](https://www.producthunt.com/posts/snippet-run)
+
++ [Weberlo](https://www.producthunt.com/posts/weberlo)
+
++ [PDF Charts](https://www.producthunt.com/posts/pdf-charts)
+
++ [OkFeedback](https://www.producthunt.com/posts/okfeedback)
+
++ [DigBI](https://www.producthunt.com/posts/digbi)
+

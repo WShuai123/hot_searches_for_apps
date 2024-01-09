@@ -141,3 +141,5 @@
 
 + [Search Spot illustrations](https://dribbble.com/shots/)
 
++ [Pinecone Logo Concept](https://dribbble.com/shots/)
+
