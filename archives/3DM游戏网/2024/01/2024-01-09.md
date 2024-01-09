@@ -157,3 +157,25 @@
 
 + [《轩辕剑外传：穹之扉》宣布将于2024年登陆PS5](https://www.3dmgame.com/news/202401/3885625.html)
 
++ [NVIDIA推出人工智能技术 旨在让NPC行为更加逼真](https://www.3dmgame.com/news/202401/3885645.html)
+
++ [《圈圈勇士》1月24日登陆Steam 循环打怪卡牌构建策略](https://www.3dmgame.com/news/202401/3885641.html)
+
++ [索尼展示《重力异想世界》电影片段 或还在早期制作中](https://www.3dmgame.com/news/202401/3885644.html)
+
++ [兑现承诺 《咩咩启示录》发布“肉体之罪”更新宣传预告片](https://www.3dmgame.com/news/202401/3885643.html)
+
++ [《怪奇物语》第五季开拍 预计2025年播出](https://www.3dmgame.com/news/202401/3885642.html)
+
++ [俯视角CRPG为何曾销声匿迹？开发者：都怪零售商](https://www.3dmgame.com/news/202401/3885640.html)
+
++ [《使命召唤：现代战争3》中最OP的武器占据了CDL中的大部分击杀数](https://www.3dmgame.com/news/202401/3885638.html)
+
++ [《星刃》玩法演示视频 华丽招式让人眼花缭乱](https://www.3dmgame.com/news/202401/3885636.html)
+
++ [《怪物分解公司》Steam页面上线 打怪分解经营模拟](https://www.3dmgame.com/news/202401/3885635.html)
+
++ [索尼CEO谈任天堂《塞尔达传说》电影：会令人惊艳](https://www.3dmgame.com/news/202401/3885639.html)
+
++ [怀旧类游戏《Dungeonoid 2 Awakening》Steam页面上线 2月7日发售](https://www.3dmgame.com/news/202401/3885637.html)
+
