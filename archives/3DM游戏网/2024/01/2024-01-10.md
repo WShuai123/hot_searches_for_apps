@@ -107,3 +107,11 @@
 
 + [官宣：Xbox直面会19日4点举行 《地狱之刃2》等信息](https://www.3dmgame.com/news/202401/3885702.html)
 
++ [《铁拳8》梗概总结预告片“迄今为止的故事”分享](https://www.3dmgame.com/news/202401/3885707.html)
+
++ [《幻兽帕鲁》1/19以抢先体验形式登陆XS/XB1/PC](https://www.3dmgame.com/news/202401/3885706.html)
+
++ [《黎明杀机》将添加艾伦韦克作为可玩角色](https://www.3dmgame.com/news/202401/3885705.html)
+
++ [《地狱潜者2》PC特性预告片分享 系统配置公布](https://www.3dmgame.com/news/202401/3885704.html)
+

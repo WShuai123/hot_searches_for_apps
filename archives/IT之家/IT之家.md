@@ -31,3 +31,5 @@
 
 + [联想推出 ThinkCentre neo Ultra 迷你主机：可选 14 代 i9 处理器、RTX 4060，1499 美元起](https://m.ithome.com/html/744136.htm)
 
++ [2019 年禁播，消息称腾讯游戏《王者荣耀》直播版权将向抖音开放](https://m.ithome.com/html/744217.htm)
+

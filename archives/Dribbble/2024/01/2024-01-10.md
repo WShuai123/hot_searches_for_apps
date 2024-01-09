@@ -105,3 +105,11 @@
 
 + [Color Palette](https://dribbble.com/shots/)
 
++ [Bee Bat](https://dribbble.com/shots/)
+
++ [DJ](https://dribbble.com/shots/)
+
++ [Pattern](https://dribbble.com/shots/)
+
++ [Winter Icons](https://dribbble.com/shots/)
+
