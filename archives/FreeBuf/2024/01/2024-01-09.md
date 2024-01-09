@@ -59,3 +59,5 @@
 
 + [美国某知名安全公司遭黑客攻击，大量军方敏感信息外泄](https://www.freebuf.com/news/389186.html)
 
++ [Jsp中的jsp标准语法和XML语法的多重编码混淆](https://www.freebuf.com/articles/web/388929.html)
+
