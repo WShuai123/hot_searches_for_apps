@@ -207,3 +207,17 @@
 
 + [虚幻5恐怖游戏《My Pretty Closet》Steam页面 支持简中](https://www.3dmgame.com/news/202401/3885657.html)
 
++ [《最终幻想14》新种族女硌狮族引玩家浮想联翩 角色未出二创先行](https://www.3dmgame.com/news/202401/3885665.html)
+
++ [PlayStation月活跃用户达1.23亿 突破历史记录](https://www.3dmgame.com/news/202401/3885666.html)
+
++ [角色扮演类卡牌游戏《Hell Knight》Steam页面上线 支持简中](https://www.3dmgame.com/news/202401/3885664.html)
+
++ [《古墓丽影三部曲：重制版》官方：很快会公开新消息](https://www.3dmgame.com/news/202401/3885663.html)
+
++ [英伟达宣布RTX Remix测试版1月22日推出 向更多用户开放](https://www.3dmgame.com/news/202401/3885662.html)
+
++ [《Archaelund》Steam抢先体验 开放世界探索回合战斗](https://www.3dmgame.com/news/202401/3885661.html)
+
++ [为庆祝25周年 美剧《黑道家族》发布删减片段合集 并推出免费流媒体剧集](https://www.3dmgame.com/news/202401/3885660.html)
+

@@ -41,3 +41,5 @@
 
 + [比亚迪回应网传“秦 PLUS DM-i 车型 6.98 万元起售”：假消息](https://m.ithome.com/html/744029.htm)
 
++ [Wi-Fi 7 时代来临：Wi-Fi 联盟已开始对 Wi-Fi 7 设备进行认证](https://m.ithome.com/html/744045.htm)
+
