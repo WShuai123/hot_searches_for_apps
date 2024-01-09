@@ -29,3 +29,5 @@
 
 + [【IT之家开箱】ROG游戏手机8 Pro图赏：变轻变薄，后壳暗藏玄机](https://m.ithome.com/html/744110.htm)
 
++ [联想推出 ThinkCentre neo Ultra 迷你主机：可选 14 代 i9 处理器、RTX 4060，1499 美元起](https://m.ithome.com/html/744136.htm)
+
