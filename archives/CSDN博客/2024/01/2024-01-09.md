@@ -175,3 +175,7 @@
 
 + [用gpt写的登录页面](https://blog.csdn.net/qq_42431718/article/details/135449716)
 
++ [如何公网远程访问Linux AMH服务器管理面板【内网穿透】](https://blog.csdn.net/qq_57761637/article/details/135470732)
+
++ [基于单片机设计的智慧农业大棚检测系统](https://blog.csdn.net/xiaolong1126626497/article/details/135449194)
+

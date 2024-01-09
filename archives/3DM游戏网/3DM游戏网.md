@@ -241,3 +241,9 @@
 
 + [《合金装备：大师合集Vol.1》主机版v1.4.0更新发布](https://www.3dmgame.com/news/202401/3885667.html)
 
++ [百川智能发布角色大模型 游戏厂商可低成本角色定制](https://www.3dmgame.com/news/202401/3885679.html)
+
++ [定档1月18日！《一方灵田》即将正式发售](https://www.3dmgame.com/news/202401/3885678.html)
+
++ [《地狱潜者2》PS5版或将小幅跳票延期 2月28日发售](https://www.3dmgame.com/news/202401/3885677.html)
+

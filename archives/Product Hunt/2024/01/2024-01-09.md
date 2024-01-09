@@ -123,3 +123,23 @@
 
 + [DigBI](https://www.producthunt.com/posts/digbi)
 
++ [Sama AI](https://www.producthunt.com/posts/sama-ai)
+
++ [Mama Mode App](https://www.producthunt.com/posts/mama-mode-app)
+
++ [Paint Potion](https://www.producthunt.com/posts/paint-potion)
+
++ [TurboScribe](https://www.producthunt.com/posts/turboscribe)
+
++ [MetricsGate](https://www.producthunt.com/posts/metricsgate)
+
++ [Items Design](https://www.producthunt.com/posts/items-design)
+
++ [CSV Getter for Airtable](https://www.producthunt.com/posts/csv-getter-for-airtable)
+
++ [Smart Ads](https://www.producthunt.com/posts/smart-ads-2)
+
++ [CoverItUp](https://www.producthunt.com/posts/coveritup)
+
++ [SoundXLR](https://www.producthunt.com/posts/soundxlr)
+

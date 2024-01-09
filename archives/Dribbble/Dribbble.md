@@ -143,3 +143,7 @@
 
 + [Pinecone Logo Concept](https://dribbble.com/shots/)
 
++ [BMW | Corporate Redesign](https://dribbble.com/shots/)
+
++ [Chess Pieces Tutorial](https://dribbble.com/shots/)
+
