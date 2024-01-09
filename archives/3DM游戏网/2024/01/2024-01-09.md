@@ -179,3 +179,25 @@
 
 + [怀旧类游戏《Dungeonoid 2 Awakening》Steam页面上线 2月7日发售](https://www.3dmgame.com/news/202401/3885637.html)
 
++ [育碧多人竞速游戏《赛道狂飙》发布冬季战役预告](https://www.3dmgame.com/news/202401/3885656.html)
+
++ [索尼公布最新XR头显 面向沉浸式空间内容制作强化](https://www.3dmgame.com/news/202401/3885655.html)
+
++ [微星Claw掌机详细规格公布 699美元起今年上半年出货](https://www.3dmgame.com/news/202401/3885654.html)
+
++ [威世智承认承诺不用AI后在宣传图中再次使用](https://www.3dmgame.com/news/202401/3885653.html)
+
++ [《街头霸王6》《间谍过家家》联动活动实机 活动已上线](https://www.3dmgame.com/news/202401/3885652.html)
+
++ [英伟达宣布与多家车厂达成车载自动驾驶平台合作 提高效能](https://www.3dmgame.com/news/202401/3885651.html)
+
++ [6年磨一剑，今年最值得亲手试试的卡牌游戏！《未元物质》现已登陆Steam平台](https://www.3dmgame.com/news/202401/3885650.html)
+
++ [3D动作爽游《超战女武神》定档1月19日正式发售，首发折扣价38元](https://www.3dmgame.com/news/202401/3885649.html)
+
++ [《将熄之焰 序章》现已免费登陆Steam，正式版1月18日登场](https://www.3dmgame.com/news/202401/3885648.html)
+
++ [Valve假期大更新后 《军团要塞 2》在Steam上火爆 销量榜排名猛进51位](https://www.3dmgame.com/news/202401/3885647.html)
+
++ [传闻：《完美音浪》或将推出PS5版本](https://www.3dmgame.com/news/202401/3885646.html)
+

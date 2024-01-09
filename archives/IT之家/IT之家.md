@@ -37,3 +37,7 @@
 
 + [消息称小米今年有望推出屏下前摄新机，高屏占比形态](https://m.ithome.com/html/744064.htm)
 
++ [理想汽车、长城、极氪、小米宣布与英伟达 NVIDIA DRIVE 车载自动驾驶平台达成合作](https://m.ithome.com/html/744071.htm)
+
++ [比亚迪回应网传“秦 PLUS DM-i 车型 6.98 万元起售”：假消息](https://m.ithome.com/html/744029.htm)
+

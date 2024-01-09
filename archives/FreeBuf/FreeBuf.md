@@ -51,3 +51,11 @@
 
 + [入职甲方必学：帮主亲授「代码审计入门与进阶」](https://www.freebuf.com/articles/people/389175.html)
 
++ [Bandook RAT新变种向Windows发起网络钓鱼攻击](https://www.freebuf.com/articles/389211.html)
+
++ [四大攻击类型并存，NIST 警告人工智能系统带来的安全和隐私风险](https://www.freebuf.com/news/389195.html)
+
++ [美国抵押贷款机构 loanDepot 遭遇勒索软件攻击](https://www.freebuf.com/news/389190.html)
+
++ [美国某知名安全公司遭黑客攻击，大量军方敏感信息外泄](https://www.freebuf.com/news/389186.html)
+

@@ -125,3 +125,13 @@
 
 + [SaaS Product UI Elements](https://dribbble.com/shots/)
 
++ [The Divide](https://dribbble.com/shots/)
+
++ [Playing with the Luck | Part 1/3](https://dribbble.com/shots/)
+
++ [Leg Day](https://dribbble.com/shots/)
+
++ [SIFT - Fintech Website](https://dribbble.com/shots/)
+
++ [Fitness Mobile App design](https://dribbble.com/shots/)
+

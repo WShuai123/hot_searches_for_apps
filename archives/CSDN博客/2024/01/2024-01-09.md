@@ -139,3 +139,13 @@
 
 + [斯坦福机器人Mobile ALOHA的背后技术：动作分块ACT、Diffusion Policy、VINN](https://blog.csdn.net/v_JULY_v/article/details/135454242)
 
++ [【微信支付】springboot-java接入微信支付-JSAPI支付/查单/退款/发送红包（四）---发送红包](https://blog.csdn.net/ssdadasd15623/article/details/135470966)
+
++ [【笑小枫】2023：岁月如歌，坚持与放弃的交织；2024：新的征程，希望与期望的绽放](https://blog.csdn.net/qq_34988304/article/details/135437834)
+
++ [基于Java(Springboot框架) 后台付费自习室小程序系统设计与实现研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/135430896)
+
++ [如何使用GaussDB创建脱敏策略（MASKING POLICY）](https://blog.csdn.net/GaussDB/article/details/135464448)
+
++ [【开源】基于微信小程序的音乐平台](https://blog.csdn.net/as230627/article/details/135459950)
+
