@@ -93,3 +93,15 @@
 
 + [Salmon-Cucumber](https://dribbble.com/shots/)
 
++ [Artspace Book Slider Mobile Animation](https://dribbble.com/shots/)
+
++ [Sidebar navigation — Untitled UI](https://dribbble.com/shots/)
+
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [Ramos - Website design for digital business analytic platform](https://dribbble.com/shots/)
+
++ [Self Portrait, 2024](https://dribbble.com/shots/)
+
++ [Color Palette](https://dribbble.com/shots/)
+
