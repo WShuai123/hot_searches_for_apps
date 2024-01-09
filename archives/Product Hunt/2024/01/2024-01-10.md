@@ -101,3 +101,7 @@
 
 + [Neuralhub](https://www.producthunt.com/posts/neuralhub)
 
++ [RateHighly](https://www.producthunt.com/posts/ratehighly)
+
++ [Feather AI](https://www.producthunt.com/posts/feather-ai)
+
