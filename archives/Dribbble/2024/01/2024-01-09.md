@@ -157,3 +157,7 @@
 
 + [Plant](https://dribbble.com/shots/)
 
++ [LG HOME APPLIANCE](https://dribbble.com/shots/)
+
++ [Color Palette](https://dribbble.com/shots/)
+

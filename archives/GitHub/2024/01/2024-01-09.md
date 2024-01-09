@@ -51,3 +51,31 @@
 
 + [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
++ [ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission)
+
++ [dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project)
+
++ [Tongji-KGLLM / RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
+
++ [alibaba / lowcode-engine](https://github.com/alibaba/lowcode-engine)
+
++ [yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android)
+
++ [honghuangdc / soybean-admin](https://github.com/honghuangdc/soybean-admin)
+
++ [SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+
++ [rose-pine / neovim](https://github.com/rose-pine/neovim)
+
++ [mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)
+
++ [extrawurst / gitui](https://github.com/extrawurst/gitui)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI)
+
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
++ [Meroser / IPTV](https://github.com/Meroser/IPTV)
+

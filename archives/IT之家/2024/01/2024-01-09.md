@@ -55,3 +55,5 @@
 
 + [阿拉斯加航空 1282 号班机事故后续：乘客 iPhone 从 1.6 万英尺高空坠落后仍可使用](https://m.ithome.com/html/744074.htm)
 
++ [中科院推出 256 核国产“大芯片”：22nm 工艺，采用 Chiplet 芯粒 + RISC-V 架构](https://m.ithome.com/html/744130.htm)
+

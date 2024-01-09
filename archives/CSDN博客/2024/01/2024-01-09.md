@@ -183,3 +183,9 @@
 
 + [探索大模型时代下的文档识别与分析【GPT4-V带来的挑战与机遇】](https://blog.csdn.net/JHXL_/article/details/135460509)
 
++ [MySQL高可用解决方案演进：从主从复制到InnoDB Cluster架构](https://blog.csdn.net/qq_44273429/article/details/135478966)
+
++ [【linux 多线程并发】线程本地数据存储的两种方式，每个线程可以有同名全局私有数据，以及两种方式的性能分析](https://blog.csdn.net/senllang/article/details/135327922)
+
++ [独立式键盘控制的4级变速流水灯](https://blog.csdn.net/qq_46065313/article/details/135464793)
+
