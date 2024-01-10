@@ -65,3 +65,7 @@
 
 + [比亚迪仰望首款轿车 U7 官宣，定位“百万级”新能源旗舰](https://m.ithome.com/html/744447.htm)
 
++ [荣耀 MagicOS 8.0 系统发布：搭载魔法大模型，首次实现意图识别人机交互](https://m.ithome.com/html/744421.htm)
+
++ [九号远行者 Fz MIX 电动自行车发布：搭载鼹鼠控功能，首发价 3799 元起](https://m.ithome.com/html/744272.htm)
+
