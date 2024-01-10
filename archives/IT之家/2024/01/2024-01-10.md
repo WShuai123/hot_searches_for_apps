@@ -69,3 +69,9 @@
 
 + [九号远行者 Fz MIX 电动自行车发布：搭载鼹鼠控功能，首发价 3799 元起](https://m.ithome.com/html/744272.htm)
 
++ [京东 App 启动华为鸿蒙原生应用开发，余承东亮相合作仪式](https://m.ithome.com/html/744468.htm)
+
++ [供应链预测任天堂 Switch 2 游戏机售 399 美元：英伟达 T239 芯片、8GB RAM + 64GB 存储空间](https://m.ithome.com/html/744404.htm)
+
++ [Netflix《三体》真人剧集中文预告公开：共 8 集，3 月 21 日首播](https://m.ithome.com/html/744328.htm)
+

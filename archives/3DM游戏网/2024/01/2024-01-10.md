@@ -287,3 +287,7 @@
 
 + [传索尼和任天堂都将在2月召开自己的发布会](https://www.3dmgame.com/news/202401/3885791.html)
 
++ [CDPR：《赛博朋克2077》仅仅是系列的一个热身](https://www.3dmgame.com/news/202401/3885795.html)
+
++ [ROG游戏手机8系列亮相CES 全新轻薄外观设计](https://www.3dmgame.com/news/202401/3885794.html)
+
