@@ -171,3 +171,7 @@
 
 + [基于Java医院门诊互联电子病历管理信息系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135487508)
 
++ [机器之心 AI 技术--人工智能助力个性化视频实战经验分享（文末送书）](https://blog.csdn.net/weixin_51390582/article/details/135505393)
+
++ [曹操出行基于 Hologres+Flink 的实时数仓建设](https://blog.csdn.net/yunqiinsight/article/details/135502106)
+

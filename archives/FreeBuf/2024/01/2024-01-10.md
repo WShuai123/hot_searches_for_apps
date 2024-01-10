@@ -59,3 +59,5 @@
 
 + [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
 
++ [10亿英镑采购，一个系统BUG让数百名代理商含冤入狱](https://www.freebuf.com/articles/neopoints/389375.html)
+

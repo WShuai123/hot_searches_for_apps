@@ -217,3 +217,5 @@
 
 + [优酷视频-你也有今天 全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+

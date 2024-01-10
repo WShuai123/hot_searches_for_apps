@@ -61,3 +61,5 @@
 
 + [ROG 幻 14/16 Air 游戏本发布：全新设计，最高 RTX 4070 独显](https://m.ithome.com/html/744253.htm)
 
++ [2024 春运首日火车票 1 月 12 日开售，小型客车 2 月 9 日-17 日高速免费通行](https://m.ithome.com/html/744269.htm)
+
