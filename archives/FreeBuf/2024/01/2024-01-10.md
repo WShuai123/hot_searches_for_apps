@@ -41,3 +41,7 @@
 
 + [众测SRC | 如何通过js搜索未授权接口](https://www.freebuf.com/vuls/388765.html)
 
++ [FreeBuf早报 | 叙利亚威胁组织兜售SilverRAT；loanDepot 遭遇勒索软件攻击](https://www.freebuf.com/news/389223.html)
+
++ [AsyncRAT 攻击变化新动向](https://www.freebuf.com/articles/network/389170.html)
+

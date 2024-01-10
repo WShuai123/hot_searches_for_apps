@@ -127,3 +127,7 @@
 
 + [阿里云云原生弹性方案：用弹性解决集群资源利用率难题](https://blog.csdn.net/yunqiinsight/article/details/135460455)
 
++ [Java网络爬虫--概述与原理](https://blog.csdn.net/m0_60496161/article/details/135467524)
+
++ [【现代密码学】笔记3.1-3.3 --规约证明、伪随机性《introduction to modern cryphtography》](https://blog.csdn.net/wtyuong/article/details/135458119)
+

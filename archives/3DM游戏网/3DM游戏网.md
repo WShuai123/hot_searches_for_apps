@@ -119,3 +119,11 @@
 
 + [任天堂密谋合作为Switch后继主机打造更多游戏](https://www.3dmgame.com/news/202401/3885709.html)
 
++ [传微软第一方游戏《夺宝奇兵》将在今年发售](https://www.3dmgame.com/news/202401/3885713.html)
+
++ [复古恐怖《艾莉莎：导演剪辑版》2月登陆主机平台](https://www.3dmgame.com/news/202401/3885712.html)
+
++ [樱井政博即将结束YouTube视频博主身份](https://www.3dmgame.com/news/202401/3885711.html)
+
++ [《黎明杀机》《心灵杀手》联动内容1月末上线](https://www.3dmgame.com/news/202401/3885710.html)
+
