@@ -25,3 +25,5 @@
 
 + [赵明：“富二代”可能是对荣耀最大的误解](https://m.ithome.com/html/744399.htm)
 
++ [零跑 C10 开启预售：增程 / 纯电双车型，15.18 万元起售](https://m.ithome.com/html/744484.htm)
+

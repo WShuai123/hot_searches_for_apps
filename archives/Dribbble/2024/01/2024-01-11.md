@@ -49,3 +49,29 @@
 
 + [XRPL Community Report](https://dribbble.com/shots/)
 
++ [Frankie](https://dribbble.com/shots/)
+
++ [Pitch Deck](https://dribbble.com/shots/)
+
++ [Ikea Store](https://dribbble.com/shots/)
+
++ [Custom Wordmark — Wrdmrks](https://dribbble.com/shots/)
+
++ [AI onboarding by milkinside](https://dribbble.com/shots/)
+
++ [Steamboat Willie](https://dribbble.com/shots/)
+
++ [Dialin.ai: Contact List](https://dribbble.com/shots/)
+
++ [Loan Application](https://dribbble.com/shots/)
+
++ [Noon Landing Page](https://dribbble.com/shots/)
+
++ [Transport](https://dribbble.com/shots/)
+
++ [Stool Analysis Tool Report Feature](https://dribbble.com/shots/)
+
++ [Plazit AI Branding](https://dribbble.com/shots/)
+
++ [Steamboat Willie Animation](https://dribbble.com/shots/)
+
