@@ -291,3 +291,9 @@
 
 + [ROG游戏手机8系列亮相CES 全新轻薄外观设计](https://www.3dmgame.com/news/202401/3885794.html)
 
++ [著名推特主：《波斯王子：失落的王冠》试玩版12日上线](https://www.3dmgame.com/news/202401/3885798.html)
+
++ [《寂静岭2RE》开发商CEO：游戏的宣发将很快开始](https://www.3dmgame.com/news/202401/3885797.html)
+
++ [《铁拳8》全新预告 展示角色熊猫](https://www.3dmgame.com/news/202401/3885796.html)
+

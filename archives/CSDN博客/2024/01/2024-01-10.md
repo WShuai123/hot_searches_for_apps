@@ -183,3 +183,11 @@
 
 + [R2机器人加载棋盘与棋子模型，对urdf、sdf的解释(区分srdf)](https://blog.csdn.net/weixin_41896770/article/details/135494013)
 
++ [智能时代：自然语言生成SQL与知识图谱问答实战](https://blog.csdn.net/2202_75623950/article/details/135498456)
+
++ [一个Pygame的Hello World示例程序](https://blog.csdn.net/m0_62110645/article/details/135491981)
+
++ [改进的yolov5目标检测-yolov5替换骨干网络-yolo剪枝（TensorRT及NCNN部署）](https://blog.csdn.net/ALiLiLiYa/article/details/135490318)
+
++ [2024 年 Linux 和开源的六大趋势预测](https://blog.csdn.net/sdasdas12/article/details/135485725)
+
