@@ -105,3 +105,17 @@
 
 + [Feather AI](https://www.producthunt.com/posts/feather-ai)
 
++ [Startup Ratings](https://www.producthunt.com/posts/startup-ratings)
+
++ [Starlink Direct to Cell](https://www.producthunt.com/posts/starlink-direct-to-cell)
+
++ [Clear 2.0](https://www.producthunt.com/posts/clear-2-0)
+
++ [Rimo（beta version）](https://www.producthunt.com/posts/rimo-beta-version)
+
++ [Potis AI](https://www.producthunt.com/posts/potis-ai)
+
++ [Rabbit r1](https://www.producthunt.com/posts/rabbit-r1)
+
++ [Klart AI](https://www.producthunt.com/posts/klart-ai)
+

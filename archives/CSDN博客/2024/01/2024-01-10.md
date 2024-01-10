@@ -157,3 +157,13 @@
 
 + [TypeScript 极速梳理](https://blog.csdn.net/2301_76201197/article/details/135491545)
 
++ [计算机网络——应用层（2）](https://blog.csdn.net/weixin_74888502/article/details/135474021)
+
++ [探索AI技术的奥秘：揭秘人工智能的核心原理](https://blog.csdn.net/m0_68662723/article/details/135491922)
+
++ [【Spring Cloud】Gateway组件的三种使用方式](https://blog.csdn.net/weixin_74318097/article/details/135487568)
+
++ [基于vue.js在线小说电子书阅读系统设计与实现(uni-app框架+PHP后台) 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135455693)
+
++ [小程序适配IOS底部小黑条](https://blog.csdn.net/qq_45290368/article/details/135478481)
+

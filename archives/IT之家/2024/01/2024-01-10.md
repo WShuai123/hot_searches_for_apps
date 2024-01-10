@@ -53,3 +53,5 @@
 
 + [小米：SU7 标准版 CLTC 续航 668km，未来数年内没有增程车型](https://m.ithome.com/html/744367.htm)
 
++ [1449 元起，华为畅享 70 Pro 手机今日开售：搭载高通骁龙 680 芯片 + 108MP 主摄](https://m.ithome.com/html/744322.htm)
+

@@ -235,3 +235,17 @@
 
 + [《宝可梦 Sleep》新营地“宝蓝湖畔”和新的睡眠姿势即将登场](https://www.3dmgame.com/news/202401/3885758.html)
 
++ [微软大力推广AI：新记事本也将加入AI功能](https://www.3dmgame.com/news/202401/3885770.html)
+
++ [手绘风解谜游戏《Follow the meaning》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3885773.html)
+
++ [历史一刻！Model Y超越卡罗拉 电动车首次登顶全球最畅销车型](https://www.3dmgame.com/news/202401/3885772.html)
+
++ [2D格斗游戏新作《八尺鸦》公开 Q1登陆Steam与街机](https://www.3dmgame.com/news/202401/3885771.html)
+
++ [本周Fami通游戏评分出炉 《足球经理2024》获31分](https://www.3dmgame.com/news/202401/3885769.html)
+
++ [英伟达将免费赠一块老黄签名版RTX4080 Super](https://www.3dmgame.com/news/202401/3885774.html)
+
++ [末世生存《纳克园：最后的乐园》DLSS预告 发售日期待定](https://www.3dmgame.com/news/202401/3885768.html)
+
