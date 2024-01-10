@@ -109,3 +109,13 @@
 
 + [Geometric Pirate Logo](https://dribbble.com/shots/)
 
++ [Art Direction 1](https://dribbble.com/shots/)
+
++ [Revír - Visual Identity for a bar in Prague](https://dribbble.com/shots/)
+
++ [HikeDrive - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Kimaro Website](https://dribbble.com/shots/)
+
++ [3D Animation for Biss-net.com](https://dribbble.com/shots/)
+
