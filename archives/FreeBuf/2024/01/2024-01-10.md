@@ -47,3 +47,9 @@
 
 + [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
 
++ [美国证券交易委员会 X 账户被黑，引发比特币市场震荡](https://www.freebuf.com/news/389312.html)
+
++ [全国首例！进火车站被刷脸，她把铁路公司告了](https://www.freebuf.com/news/389317.html)
+
++ [土耳其黑客向全球MS SQL 服务器发起RE#TURGENCE攻击行动](https://www.freebuf.com/news/389295.html)
+

@@ -145,3 +145,5 @@
 
 + [免费分享一套微信小程序扫码点餐(订餐)系统(uni-app+SpringBoot后端+Vue管理端技术实现) ，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/135450461)
 
++ [FlinkCDC的分析和应用代码](https://blog.csdn.net/weixin_42049123/article/details/135490219)
+

@@ -173,3 +173,37 @@
 
 + [复古风生存冒险名作《Alisa》2月6日登陆主机平台](https://www.3dmgame.com/news/202401/3885736.html)
 
++ [《动物之森》联动乐高新组件3月1日发售 西施惠率先登场](https://www.3dmgame.com/news/202401/3885752.html)
+
++ [嫦娥六号计划于今年上半年实施发射 突破月背起飞上升等关键技术](https://www.3dmgame.com/news/202401/3885753.html)
+
++ [《阿索卡》美剧第二季确认 已经在制作中](https://www.3dmgame.com/news/202401/3885751.html)
+
++ [网易《射雕》新预告发布 见证金庸笔下的奇妙江湖](https://www.3dmgame.com/news/202401/3885750.html)
+
++ [网易与华为合作 首款鸿蒙原生游戏《倩女幽魂》完成开发](https://www.3dmgame.com/news/202401/3885748.html)
+
++ [野村哲也透露《最终幻想7》重置缘由 如果不做就会被其他人抢先](https://www.3dmgame.com/news/202401/3885749.html)
+
++ [前开发者称《光环》新作正在开发中 或使用虚幻引擎5](https://www.3dmgame.com/news/202401/3885747.html)
+
++ [Xbox将获固件更新修复《博德之门3》坏档问题](https://www.3dmgame.com/news/202401/3885746.html)
+
++ [马斯克的X宣布已转型 现在是一个“视频优先平台”](https://www.3dmgame.com/news/202401/3885745.html)
+
++ [《超自然车旅》全新实机演示 2月22日发售](https://www.3dmgame.com/news/202401/3885743.html)
+
++ [角色扮演手游《突袭：暗影传说》现已正式登陆Steam平台](https://www.3dmgame.com/news/202401/3885744.html)
+
++ [《帝国霸业：银河生存》新收费DLC《Dark Faction》2月推出](https://www.3dmgame.com/news/202401/3885741.html)
+
++ [《怪物猎人》x“索斯机械兽”联动内容公布 1月12日开订](https://www.3dmgame.com/news/202401/3885740.html)
+
++ [总监表示 《自杀小队：战胜正义联盟》是对已故蝙蝠侠演员凯文·康罗伊的“致敬”](https://www.3dmgame.com/news/202401/3885739.html)
+
++ [《哥斯拉大战金刚2》上映提前 提前两个星期上映](https://www.3dmgame.com/news/202401/3885738.html)
+
++ [英国12月榜：EA足球游戏持续热销 PS5销量下降](https://www.3dmgame.com/news/202401/3885737.html)
+
++ [电子游戏在英国已经不再是最热门娱乐媒体](https://www.3dmgame.com/news/202401/3885742.html)
+

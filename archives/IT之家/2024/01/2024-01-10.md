@@ -41,3 +41,5 @@
 
 + [小米有品上架领普 KS1 Pro 无线开关：自带屏显、温湿检测，到手 99 元](https://m.ithome.com/html/744225.htm)
 
++ [马斯克再次回应吸毒传闻：在 SpaceX 会议上状态不佳是因为疲劳过度](https://m.ithome.com/html/744184.htm)
+
