@@ -145,3 +145,9 @@
 
 + [Logomark® 2023](https://dribbble.com/shots/)
 
++ [Plazit AI Branding](https://dribbble.com/shots/)
+
++ [Noon Landing Page](https://dribbble.com/shots/)
+
++ [Ikea Store](https://dribbble.com/shots/)
+

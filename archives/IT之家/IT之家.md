@@ -55,3 +55,7 @@
 
 + [1449 元起，华为畅享 70 Pro 手机今日开售：搭载高通骁龙 680 芯片 + 108MP 主摄](https://m.ithome.com/html/744322.htm)
 
++ [理想汽车：2024 年第 1 周周销量被 AITO 问界反超](https://m.ithome.com/html/744315.htm)
+
++ [14.2888 万元，2024 款大众 ID.3 极智版上市：纯电续航 450 公里](https://m.ithome.com/html/744336.htm)
+

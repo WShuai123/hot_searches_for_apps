@@ -167,3 +167,7 @@
 
 + [小程序适配IOS底部小黑条](https://blog.csdn.net/qq_45290368/article/details/135478481)
 
++ [使用PyTorch实现混合专家(MoE)模型](https://blog.csdn.net/m0_46510245/article/details/135495752)
+
++ [基于Java医院门诊互联电子病历管理信息系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135487508)
+

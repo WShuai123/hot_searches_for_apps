@@ -119,3 +119,21 @@
 
 + [Klart AI](https://www.producthunt.com/posts/klart-ai)
 
++ [Journal.](https://www.producthunt.com/posts/journal-8)
+
++ [Addio](https://www.producthunt.com/posts/addio)
+
++ [Codara](https://www.producthunt.com/posts/codara)
+
++ [Sleepmi Z3](https://www.producthunt.com/posts/sleepmi-z3)
+
++ [Auria Mail](https://www.producthunt.com/posts/auria-mail)
+
++ [Fliz AI](https://www.producthunt.com/posts/fliz-ai)
+
++ [Brill](https://www.producthunt.com/posts/brill-c257a2a0-f70e-455d-a5ca-a6a35959354c)
+
++ [miflow®](https://www.producthunt.com/posts/miflow-2)
+
++ [Youtube Summarizer - Syllaby](https://www.producthunt.com/posts/youtube-summarizer-syllaby)
+
