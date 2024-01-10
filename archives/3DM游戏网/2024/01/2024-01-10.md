@@ -281,3 +281,7 @@
 
 + [历史首次！C#成为2023年度编程语言之王：稳居前10名20多年](https://www.3dmgame.com/news/202401/3885784.html)
 
++ [AIPC将成为2024年联想主打的主题概念](https://www.3dmgame.com/news/202401/3885793.html)
+
++ [叙事桌游《深空梦里人》将于今年2月追加官方中文](https://www.3dmgame.com/news/202401/3885792.html)
+

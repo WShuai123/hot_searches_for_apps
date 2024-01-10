@@ -51,3 +51,41 @@
 
 + [janhq / nitro](https://github.com/janhq/nitro)
 
++ [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
++ [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed)
+
++ [DopplerHQ / awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
++ [wagoodman / dive](https://github.com/wagoodman/dive)
+
++ [tiann / KernelSU](https://github.com/tiann/KernelSU)
+
++ [OdysseusYuan / LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+
++ [tldraw / tldraw](https://github.com/tldraw/tldraw)
+
++ [ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived)
+
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [mistralai / mistral-src](https://github.com/mistralai/mistral-src)
+
++ [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
+
++ [magento / magento2](https://github.com/magento/magento2)
+
++ [veler / DevToys](https://github.com/veler/DevToys)
+
++ [sveltejs / kit](https://github.com/sveltejs/kit)
+
++ [rmcelreath / stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
+
++ [Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+
++ [kroma-network / tachyon](https://github.com/kroma-network/tachyon)
+
++ [chakra-ui / chakra-ui](https://github.com/chakra-ui/chakra-ui)
+
++ [rauchg / next-ai-news](https://github.com/rauchg/next-ai-news)
+
