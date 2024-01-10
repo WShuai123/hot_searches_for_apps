@@ -45,3 +45,5 @@
 
 + [AsyncRAT 攻击变化新动向](https://www.freebuf.com/articles/network/389170.html)
 
++ [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
+

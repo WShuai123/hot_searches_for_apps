@@ -127,3 +127,35 @@
 
 + [《黎明杀机》《心灵杀手》联动内容1月末上线](https://www.3dmgame.com/news/202401/3885710.html)
 
++ [Steam关于游戏包含AI内容新规 允许发行但要审核](https://www.3dmgame.com/news/202401/3885720.html)
+
++ [《赛博朋克2077》Steam后台更新 新补丁或即将上线](https://www.3dmgame.com/news/202401/3885721.html)
+
++ [CDPR：《赛博朋克2077：往日之影》获得商业成功 购买率23%](https://www.3dmgame.com/news/202401/3885722.html)
+
++ [《漫威SNAP》开发商B轮获1亿美元融资](https://www.3dmgame.com/news/202401/3885723.html)
+
++ [《Unveiling》登陆Steam限时优惠 科幻悬疑冒险](https://www.3dmgame.com/news/202401/3885724.html)
+
++ [《星球大战》的下一部大银幕电影将是《曼达洛人和格洛古》](https://www.3dmgame.com/news/202401/3885726.html)
+
++ [Steam最新一周销量榜 Steam Deck重回榜首](https://www.3dmgame.com/news/202401/3885725.html)
+
++ [《博德之门3》今年首个热修补丁上线 优化性能修复Bug](https://www.3dmgame.com/news/202401/3885727.html)
+
++ [《宝可梦》官方动画APP和网站将于3月下线](https://www.3dmgame.com/news/202401/3885729.html)
+
++ [解谜游戏《Lil“ Guardsman》发售日预告 1月23日发售](https://www.3dmgame.com/news/202401/3885728.html)
+
++ [《扬帆起航：大漩涡》收费新DLC公布 1月11日上线](https://www.3dmgame.com/news/202401/3885716.html)
+
++ [美国演员工会与AI语音技术公司签订配音合约](https://www.3dmgame.com/news/202401/3885717.html)
+
++ [著名直播平台twitch将于本周裁员500人 占总员工数的35%](https://www.3dmgame.com/news/202401/3885718.html)
+
++ [动视指派前Bungie老将担任公司新首席技术官](https://www.3dmgame.com/news/202401/3885719.html)
+
++ [《最后生还者》剧集第2季艾比由凯特琳德弗饰演 肤白貌美](https://www.3dmgame.com/news/202401/3885714.html)
+
++ [《地平线：西之绝境》PC和PS5版画面对比视频](https://www.3dmgame.com/news/202401/3885715.html)
+
