@@ -59,3 +59,5 @@
 
 + [14.2888 万元，2024 款大众 ID.3 极智版上市：纯电续航 450 公里](https://m.ithome.com/html/744336.htm)
 
++ [ROG 幻 14/16 Air 游戏本发布：全新设计，最高 RTX 4070 独显](https://m.ithome.com/html/744253.htm)
+

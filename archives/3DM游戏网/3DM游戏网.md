@@ -249,3 +249,21 @@
 
 + [末世生存《纳克园：最后的乐园》DLSS预告 发售日期待定](https://www.3dmgame.com/news/202401/3885768.html)
 
++ [《最后生还者》剧集艾比介绍 网友晒艾比演员打高尔夫照](https://www.3dmgame.com/news/202401/3885782.html)
+
++ [《Rogue Frontiers》登陆Steam 黑暗幻想生存建设RPG](https://www.3dmgame.com/news/202401/3885783.html)
+
++ [铁路12306 App 推出春运学生、务工人员专区购票功能：可同时提交6个预约订单](https://www.3dmgame.com/news/202401/3885778.html)
+
++ [《心灵杀手》开发商Remedy注册新商标 或为《控制》世界观多人游戏](https://www.3dmgame.com/news/202401/3885779.html)
+
++ [恭喜你，中奖啦！首批签到抽奖活动中奖名单公布（1.8-1.9）](https://www.3dmgame.com/news/202401/3885780.html)
+
++ [战神5 DLC总监盛赞《星刃》 横尾太郎也期待这游戏](https://www.3dmgame.com/news/202401/3885781.html)
+
++ [胖布丁新作《迷失岛4》现已上线，蒸汽平台首周9折特惠](https://www.3dmgame.com/news/202401/3885775.html)
+
++ [NASA宣布载人登月计划推迟一年 2025年9月再启动](https://www.3dmgame.com/news/202401/3885776.html)
+
++ [《如龙8》蛛巢统帅胜熙可能是双性恋 LGBT+元素丰富？](https://www.3dmgame.com/news/202401/3885777.html)
+
