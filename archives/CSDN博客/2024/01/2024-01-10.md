@@ -153,3 +153,7 @@
 
 + [如何通过内网穿透实现任意浏览器远程访问Linux本地zabbix web管理界面](https://blog.csdn.net/weixin_43786143/article/details/135477942)
 
++ [华为云AI：轻松实现图像识别调用](https://blog.csdn.net/weixin_62951900/article/details/135484881)
+
++ [TypeScript 极速梳理](https://blog.csdn.net/2301_76201197/article/details/135491545)
+

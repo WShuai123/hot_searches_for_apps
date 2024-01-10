@@ -215,3 +215,23 @@
 
 + [经典MMO《龙之谷》Steam商店页面上线 开服时间待定](https://www.3dmgame.com/news/202401/3885756.html)
 
++ [索尼展示本田合作电动车Afeela可定制车尾屏幕](https://www.3dmgame.com/news/202401/3885767.html)
+
++ [史诗般的太空羊驼冒险：集GameFi 和 NFT 与一体的超级链接《终极羊人杀》打造终极游戏](https://www.3dmgame.com/news/202401/3885765.html)
+
++ [电影《飞驰人生2》发布“哈哈大笑”版预告 定档大年初一](https://www.3dmgame.com/news/202401/3885766.html)
+
++ [《致命公司》新版本上线 未来将添加大量新生物和地图变化](https://www.3dmgame.com/news/202401/3885764.html)
+
++ [《超自然车旅》Steam预购优惠 驾驶生存冒险](https://www.3dmgame.com/news/202401/3885763.html)
+
++ [模拟经营游戏《星际客栈》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3885762.html)
+
++ [恐有新动作？外媒认为任天堂正在停产部分Switch游戏实体卡带](https://www.3dmgame.com/news/202401/3885761.html)
+
++ [双倍奖励尽在博物学家样本出售、出售鱼可享三倍 RDO 游戏币](https://www.3dmgame.com/news/202401/3885760.html)
+
++ [全球首款！小鹏汇天分体式飞行汽车“陆地航母”Q4开启预订](https://www.3dmgame.com/news/202401/3885759.html)
+
++ [《宝可梦 Sleep》新营地“宝蓝湖畔”和新的睡眠姿势即将登场](https://www.3dmgame.com/news/202401/3885758.html)
+

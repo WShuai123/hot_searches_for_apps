@@ -49,3 +49,7 @@
 
 + [火车票改签范围有望扩大：开车前 48 小时内或可付费改至乘车日期后的列车](https://m.ithome.com/html/744260.htm)
 
++ [华为：网易《倩女幽魂手游》完成开发，成为首款完成开源鸿蒙适配的 Unity 中国引擎游戏](https://m.ithome.com/html/744339.htm)
+
++ [小米：SU7 标准版 CLTC 续航 668km，未来数年内没有增程车型](https://m.ithome.com/html/744367.htm)
+
