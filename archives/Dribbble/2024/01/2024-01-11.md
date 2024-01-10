@@ -85,3 +85,27 @@
 
 + [Rocky Mountains](https://dribbble.com/shots/)
 
++ [Rizzle Branding, visual identity, corporate brand design](https://dribbble.com/shots/)
+
++ [Train story landscape](https://dribbble.com/shots/)
+
++ [Outdoorsy EV](https://dribbble.com/shots/)
+
++ [Post UI](https://dribbble.com/shots/)
+
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [E-commerce Web Design Concept](https://dribbble.com/shots/)
+
++ [Dating Mobile iOS App](https://dribbble.com/shots/)
+
++ [Sleep Tracker App](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Floral](https://dribbble.com/shots/)
+
++ [Michaels Bakery](https://dribbble.com/shots/)
+
++ [Geometric Pirate Logo](https://dribbble.com/shots/)
+
