@@ -109,3 +109,5 @@
 
 + [恐龙题材FPS新作《子与骨》面向PS5公布](https://www.3dmgame.com/news/202401/3885801.html)
 
++ [《如龙8》发布真人预告 网红带你游览天堂岛](https://www.3dmgame.com/news/202401/3885805.html)
+
