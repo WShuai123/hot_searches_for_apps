@@ -207,3 +207,7 @@
 
 + [电子游戏在英国已经不再是最热门娱乐媒体](https://www.3dmgame.com/news/202401/3885742.html)
 
++ [强制！RTX 40 SUPER显卡一律标配16针供电接口](https://www.3dmgame.com/news/202401/3885755.html)
+
++ [IDW在《忍者神龟》40周年纪念日之前更新了《忍者神龟》漫画授权](https://www.3dmgame.com/news/202401/3885754.html)
+
