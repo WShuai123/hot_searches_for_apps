@@ -149,3 +149,7 @@
 
 + [你真的了解Zookeeper吗？](https://blog.csdn.net/weixin_44976692/article/details/135487256)
 
++ [人工智能语义解析：连接自然语言与机器智能的桥梁](https://blog.csdn.net/weixin_43178406/article/details/135481464)
+
++ [如何通过内网穿透实现任意浏览器远程访问Linux本地zabbix web管理界面](https://blog.csdn.net/weixin_43786143/article/details/135477942)
+

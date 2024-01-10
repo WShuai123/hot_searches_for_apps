@@ -45,3 +45,7 @@
 
 + [苹果《Apple Music 古典乐》App 将于 1 月 24 日上线中国大陆，已支持预购](https://m.ithome.com/html/744226.htm)
 
++ [2024 款极氪 X 车型发布：五座四驱版、四座后驱版均为 20 万元起](https://m.ithome.com/html/744331.htm)
+
++ [火车票改签范围有望扩大：开车前 48 小时内或可付费改至乘车日期后的列车](https://m.ithome.com/html/744260.htm)
+
