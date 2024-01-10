@@ -139,3 +139,9 @@
 
 + [react useEffect](https://blog.csdn.net/inthat/article/details/132644075)
 
++ [2024新年烟花代码完整版](https://blog.csdn.net/zhangxia_/article/details/135409555)
+
++ [基于vue.js二手物品交易系统设计与实现(uni-app框架+PHP后台) 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135437024)
+
++ [免费分享一套微信小程序扫码点餐(订餐)系统(uni-app+SpringBoot后端+Vue管理端技术实现) ，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/135450461)
+

@@ -159,3 +159,17 @@
 
 + [《地平线：西之绝境》PC和PS5版画面对比视频](https://www.3dmgame.com/news/202401/3885715.html)
 
++ [《自杀小队：战胜正义联盟》媒体首批印象普遍不好](https://www.3dmgame.com/news/202401/3885730.html)
+
++ [《堡垒之夜音乐节》将加入新曲目 包含盆栽哥的《Can“t Feel My Face》等](https://www.3dmgame.com/news/202401/3885731.html)
+
++ [视觉小说《悲哀藏在现实中》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3885732.html)
+
++ [索尼展示PS5 Slim新配色替换外壳 发售时间未定](https://www.3dmgame.com/news/202401/3885733.html)
+
++ [Netflix据称正在考虑为游戏添加内购和广告](https://www.3dmgame.com/news/202401/3885734.html)
+
++ [《龙之信条2》角色创建演示 自由创建美丽角色](https://www.3dmgame.com/news/202401/3885735.html)
+
++ [复古风生存冒险名作《Alisa》2月6日登陆主机平台](https://www.3dmgame.com/news/202401/3885736.html)
+

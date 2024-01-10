@@ -39,3 +39,5 @@
 
 + [九号电动自行车 Nz MIX 发布：48V 13Ah 铅酸电池，首发价 3299 元](https://m.ithome.com/html/744262.htm)
 
++ [小米有品上架领普 KS1 Pro 无线开关：自带屏显、温湿检测，到手 99 元](https://m.ithome.com/html/744225.htm)
+
