@@ -99,3 +99,25 @@
 
 + [如何使用安卓平板上远程Ubuntu服务器通过code-server远程开发](https://blog.csdn.net/qq_62662919/article/details/135471661)
 
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/135478821)
+
++ [如何使用web文件管理器Net2FTP搭建个人网盘](https://blog.csdn.net/Tiam_cr/article/details/135500323)
+
++ [基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理](https://blog.csdn.net/weixin_63115236/article/details/135446808)
+
++ [好书推荐丨人工智能B2B落地实战：基于云和Python的商用解决方案（清华社）](https://blog.csdn.net/m0_68111267/article/details/135388839)
+
++ [CentOS本地部署SQL Server数据库无公网ip环境实现远程访问](https://blog.csdn.net/syf666250/article/details/135514816)
+
++ [Linux网络的命令和配置](https://blog.csdn.net/m0_71815887/article/details/135478990)
+
++ [基于微信海南海口失物招领小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135474475)
+
++ [springboot学生综合测评系统源码和论文](https://blog.csdn.net/qq_22860341/article/details/135397870)
+
++ [内网渗透实战攻略](https://blog.csdn.net/Aileenvov/article/details/135507657)
+
++ [【大模型】大型模型飞跃升级—文档图像识别领域迎来技术巨变](https://blog.csdn.net/weixin_36755535/article/details/135464759)
+
++ [OFDM系统信道估计误码率matlab仿真,对比LS,LMMSE,LR-LMMSE三种信道估计算法](https://blog.csdn.net/ccsss22/article/details/135511623)
+

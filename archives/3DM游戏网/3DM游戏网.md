@@ -101,3 +101,11 @@
 
 + [马斯克的X宣布已转型 现在是一个“视频优先平台”](https://www.3dmgame.com/news/202401/3885745.html)
 
++ [《英雄联盟》24赛季预告片 招牌英雄之间史诗决斗](https://www.3dmgame.com/news/202401/3885804.html)
+
++ [《龙之信条2》幻术师预告片 幻术制敌最为致命](https://www.3dmgame.com/news/202401/3885803.html)
+
++ [《努努之歌：英雄联盟外传》主机版1/31推出](https://www.3dmgame.com/news/202401/3885802.html)
+
++ [恐龙题材FPS新作《子与骨》面向PS5公布](https://www.3dmgame.com/news/202401/3885801.html)
+
