@@ -191,3 +191,15 @@
 
 + [类糖豆人《Stumble Guys》1月23日登陆Xbox](https://www.3dmgame.com/news/202401/3885827.html)
 
++ [小米14 Ultra工业设计曝光：4颗摄像头 回归玻璃材质](https://www.3dmgame.com/news/202401/3885851.html)
+
++ [《RPG MAKER WITH》将登陆PS4和PS5 Switch版4月11日发售](https://www.3dmgame.com/news/202401/3885849.html)
+
++ [《Apex 英雄》和《最终幻想7》联动活动物品总价超过360美元 引玩家不满](https://www.3dmgame.com/news/202401/3885850.html)
+
++ [《使命召唤：战区》新获胜方式：可购买提前撤离](https://www.3dmgame.com/news/202401/3885848.html)
+
++ [《啤酒工厂》登陆Steam 经营和管理模拟游戏](https://www.3dmgame.com/news/202401/3885847.html)
+
++ [FTC延长了《堡垒之夜》儿童氪金的退款截止日期 至今年2月底](https://www.3dmgame.com/news/202401/3885846.html)
+
