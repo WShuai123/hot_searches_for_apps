@@ -45,3 +45,5 @@
 
 + [2023年网络威胁综述：无文件攻击增加1400%](https://www.freebuf.com/articles/paper/389366.html)
 
++ [JAVA常用组件未授权漏洞解析](https://www.freebuf.com/articles/web/388808.html)
+

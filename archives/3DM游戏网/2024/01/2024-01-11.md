@@ -121,3 +121,35 @@
 
 + [2D赛博朋克动作游戏《异常特工》本月上市](https://www.3dmgame.com/news/202401/3885806.html)
 
++ [两人开发的4X游戏《文明守护者》Steam页面 发售日待定](https://www.3dmgame.com/news/202401/3885825.html)
+
++ [《我的世界：传奇》的开发于今天正式结束 并进行了最后的内容更新](https://www.3dmgame.com/news/202401/3885821.html)
+
++ [任天堂股价再创新高 16年来首次突破10万亿日元](https://www.3dmgame.com/news/202401/3885826.html)
+
++ [粉丝自制起源2《军团要塞2》收到“V社”警告终止开发](https://www.3dmgame.com/news/202401/3885824.html)
+
++ [东方同人创作鸟主题游戏大赛 50款以上游戏免费公开](https://www.3dmgame.com/news/202401/3885823.html)
+
++ [《白蛇：浮生》曝“情定今生”海报 今年七夕全国上映](https://www.3dmgame.com/news/202401/3885822.html)
+
++ [《最后生还者》剧集第二季新卡司 马齐诺加盟扮演杰西](https://www.3dmgame.com/news/202401/3885820.html)
+
++ [《Forza Motorsport》官方承诺在“未来几个月”改进AI对手、车辆进度和比赛规则](https://www.3dmgame.com/news/202401/3885818.html)
+
++ [《星际迷航》新电影制作中 《星球大战：安多》导演执导](https://www.3dmgame.com/news/202401/3885816.html)
+
++ [欧美服PS+会员1月新入库游戏公布：《生化危机2：重制版》等](https://www.3dmgame.com/news/202401/3885815.html)
+
++ [暴雪公布《暗黑4》第三赛季上线日期：1月23日](https://www.3dmgame.com/news/202401/3885814.html)
+
++ [发行商Nacon高管：业界的问题是游戏太多了](https://www.3dmgame.com/news/202401/3885813.html)
+
++ [《最终之剑》官方发布神秘预告图 或即将公布新游戏](https://www.3dmgame.com/news/202401/3885812.html)
+
++ [2023年全球手游收入下降2% 中国市场份额最大](https://www.3dmgame.com/news/202401/3885819.html)
+
++ [科幻FPS《Son And Bone》实机预告 年内发售](https://www.3dmgame.com/news/202401/3885817.html)
+
++ [《DOTA2》迪拜别墅杯 中国战队AR晋级主赛事](https://www.3dmgame.com/news/202401/3885811.html)
+

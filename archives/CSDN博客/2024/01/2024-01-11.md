@@ -125,3 +125,7 @@
 
 + [【前端】使用javascript开发一个在线RGB颜色转换](https://blog.csdn.net/lmy_520/article/details/135513834)
 
++ [FlinkCDC的分析和应用代码](https://blog.csdn.net/weixin_42049123/article/details/135490219)
+
++ [【河海大学论文LaTeX+VSCode全指南】](https://blog.csdn.net/qq_43212988/article/details/135512791)
+
