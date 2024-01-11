@@ -57,3 +57,7 @@
 
 + [魅族 PANDAER 推出华为 Mate 60 Pro / Pro+ 手机壳，119 元起](https://m.ithome.com/html/744596.htm)
 
++ [荣耀 Magic6 / Pro 手机发布：首发鸿燕卫星通信、MagicOS 8.0，售价 4399 元起](https://m.ithome.com/html/744728.htm)
+
++ [比亚迪仰望 U7 实车官图亮相，展示“百万级新能源旗舰轿车”车身姿态](https://m.ithome.com/html/744702.htm)
+
