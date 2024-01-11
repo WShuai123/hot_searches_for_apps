@@ -51,3 +51,9 @@
 
 + [iQOO 12 手机推出龙年特别版，12GB+512GB 售价 3999 元](https://m.ithome.com/html/744578.htm)
 
++ [小米手机内测 5G 消息功能，现已开启报名](https://m.ithome.com/html/744690.htm)
+
++ [米哈游投资核聚变迎来里程碑，能量奇点洪荒 70 托卡马克环向场磁体成环](https://m.ithome.com/html/744534.htm)
+
++ [魅族 PANDAER 推出华为 Mate 60 Pro / Pro+ 手机壳，119 元起](https://m.ithome.com/html/744596.htm)
+

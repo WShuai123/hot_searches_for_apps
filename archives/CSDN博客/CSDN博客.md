@@ -199,3 +199,7 @@
 
 + [【数据库SQL server】自学终极笔记](https://blog.csdn.net/m0_57532432/article/details/135145859)
 
++ [Win系统搭建Elasticsearch实现公网远程访问本地服务](https://blog.csdn.net/2301_78420308/article/details/135534253)
+
++ [在线图表编辑工具Draw.io本地部署并结合内网穿透实现远程协作办公](https://blog.csdn.net/fq157856469/article/details/135533732)
+

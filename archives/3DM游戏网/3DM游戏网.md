@@ -281,3 +281,9 @@
 
 + [我来，我见，我拉扯——多人合作对战《终极拉扯》将于1月18日结束抢先体验正式发售](https://www.3dmgame.com/news/202401/3885887.html)
 
++ [Capcom偷偷在老游戏中加入新DRM引起众怒](https://www.3dmgame.com/news/202401/3885890.html)
+
++ [亚索新皮肤：预知之眼。英雄联盟最新cg同款老年亚索](https://www.3dmgame.com/news/202401/3885893.html)
+
++ [Steam主题免费送，头像、头像框、贴纸一起打包入库](https://www.3dmgame.com/news/202401/3885892.html)
+
