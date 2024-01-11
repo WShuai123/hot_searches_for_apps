@@ -247,3 +247,17 @@
 
 + [恐怖游戏《Rose Cottage》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202401/3885871.html)
 
++ [中国汽研：国内首个氢燃料电池整车极限火烧试验成功](https://www.3dmgame.com/news/202401/3885877.html)
+
++ [玩家买二手RTX4090显卡被骗：GPU和显存都被拆了](https://www.3dmgame.com/news/202401/3885878.html)
+
++ [《公民沉睡者》确定2月1日登陆Switch 好评赛朋风格回合RPG](https://www.3dmgame.com/news/202401/3885879.html)
+
++ [三七互娱CEO称周六不需要休息：员工不愿六天工作制很悲哀](https://www.3dmgame.com/news/202401/3885880.html)
+
++ [曝腾讯为了成为《消逝的光芒》开发商大股东 花费16亿美元](https://www.3dmgame.com/news/202401/3885874.html)
+
++ [车头特定角度碰撞可能起火 本田召回超25万辆汽车](https://www.3dmgame.com/news/202401/3885876.html)
+
++ [庆祝《白荆回廊》上线 《古剑奇谭》Steam全系大促](https://www.3dmgame.com/news/202401/3885875.html)
+

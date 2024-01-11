@@ -179,3 +179,15 @@
 
 + [iPad Pro如何使用SSH远程连接服务器云端编程开发【内网穿透】](https://blog.csdn.net/bushibrnxiaohaij/article/details/135528077)
 
++ [分布式引擎Elasticsearch本地部署并结合内网穿透远程访问](https://blog.csdn.net/qyj19920704/article/details/135528078)
+
++ [如何使用手机公网远程访问本地群辉Video Station中视频文件【内网穿透】](https://blog.csdn.net/xz2935117143/article/details/135529155)
+
++ [【elastic search】JAVA操作elastic search](https://blog.csdn.net/Joker_ZJN/article/details/135515805)
+
++ [如何在群辉NAS使用Docker搭建容器魔方并实现无公网ip远程访问](https://blog.csdn.net/m0_75215937/article/details/135529432)
+
++ [Java基于云计算的云HIS源码 云部署模式，可支持多家医院共同使用](https://blog.csdn.net/qq_27741787/article/details/135523916)
+
++ [【从零开始学习微服务 | 第一篇】什么是微服务](https://blog.csdn.net/fckbb/article/details/135505055)
+
