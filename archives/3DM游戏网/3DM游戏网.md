@@ -153,3 +153,41 @@
 
 + [《DOTA2》迪拜别墅杯 中国战队AR晋级主赛事](https://www.3dmgame.com/news/202401/3885811.html)
 
++ [《赵云传：云汉腾龙》新预告 赵云浑身是胆大战名将](https://www.3dmgame.com/news/202401/3885840.html)
+
++ [预告的预告 《龙珠Z：电光火石0》新情报月底公布](https://www.3dmgame.com/news/202401/3885844.html)
+
++ [Roguelite战术回合制游戏《异界失控》新Demo上线 年内发售](https://www.3dmgame.com/news/202401/3885843.html)
+
++ [《星空》早期太空地图公开：游戏原本确实更难](https://www.3dmgame.com/news/202401/3885845.html)
+
++ [塔塔要建印度最大iPhone组装厂 还计划新建半导体工厂](https://www.3dmgame.com/news/202401/3885842.html)
+
++ [《哥斯拉大战金刚2》日版预告 3月29日上映](https://www.3dmgame.com/news/202401/3885838.html)
+
++ [《夺宝奇兵》新作标题泄露：《夺宝奇兵与大圆圈》？](https://www.3dmgame.com/news/202401/3885841.html)
+
++ [《阿索卡》第二季概念图放出 向已故演员雷·史蒂文森致敬](https://www.3dmgame.com/news/202401/3885839.html)
+
++ [《蕾斯莱莉娅娜的炼金工房》Steam版上线 支持4K支持跨平台](https://www.3dmgame.com/news/202401/3885836.html)
+
++ [不为金钱所动 《权力的游戏》的制片人放弃《龙之家族》等衍生剧保留署名的权力](https://www.3dmgame.com/news/202401/3885834.html)
+
++ [吉田直树：就算被SE开除也依然会继续玩《FF14》](https://www.3dmgame.com/news/202401/3885837.html)
+
++ [漫威新片《蜘蛛夫人》新海报 四位蜘蛛女造型揭晓](https://www.3dmgame.com/news/202401/3885835.html)
+
++ [《东方：平野孤鸿》国区Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3885832.html)
+
++ [第27届DICE游戏大奖提名名单公布：《漫威蜘蛛侠2》领跑全场](https://www.3dmgame.com/news/202401/3885831.html)
+
++ [《怪物猎人：荒野》全新概念图 在危险荒原探索杀怪](https://www.3dmgame.com/news/202401/3885830.html)
+
++ [在赢得社区投票八个月后 《模拟人生4》的城堡建造DLC似乎即将推出](https://www.3dmgame.com/news/202401/3885829.html)
+
++ [《Oddsparks》1月16日发布Steam试玩 古怪创意制作工坊](https://www.3dmgame.com/news/202401/3885828.html)
+
++ [首款非V社SteamOS掌机Ayaneo Next Lite公布](https://www.3dmgame.com/news/202401/3885833.html)
+
++ [类糖豆人《Stumble Guys》1月23日登陆Xbox](https://www.3dmgame.com/news/202401/3885827.html)
+

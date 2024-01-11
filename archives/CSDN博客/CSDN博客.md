@@ -129,3 +129,27 @@
 
 + [【河海大学论文LaTeX+VSCode全指南】](https://blog.csdn.net/qq_43212988/article/details/135512791)
 
++ [圣诞老人遇见 GenAI：利用大语言模型、LangChain 和 Elasticsearch 破译手写的圣诞信件](https://blog.csdn.net/UbuntuTouch/article/details/135501664)
+
++ [华为云AI：轻松实现图像识别调用](https://blog.csdn.net/weixin_62951900/article/details/135484881)
+
++ [【开源】基于JAVA、微信小程序的音乐平台](https://blog.csdn.net/askf01/article/details/135501842)
+
++ [【SpringCloud Alibaba】Nacos Config配置管理与Gateway 网关](https://blog.csdn.net/Justw320/article/details/135442845)
+
++ [计算机网络 第1章（概述）](https://blog.csdn.net/qq_43048957/article/details/135509994)
+
++ [Jenkins-Pipeline语法总结大全](https://blog.csdn.net/YZL40514131/article/details/135504711)
+
++ [React与Vue性能对比：两大前端框架的性能](https://blog.csdn.net/m0_60769905/article/details/135494198)
+
++ [尤雨溪：框架挖坑靠文档来补，这算 PUA 用户吗？丨 RTE 开发者日报 Vol.122](https://blog.csdn.net/agora_cloud/article/details/135477733)
+
++ [救赎之道，就在其中](https://blog.csdn.net/weixin_57535055/article/details/135509511)
+
++ [Azure AI 内容安全Content Safety Studio实战](https://blog.csdn.net/magicyangjay111/article/details/135464311)
+
++ [微信小程序：发送小程序订阅消息](https://blog.csdn.net/mouday/article/details/135494982)
+
++ [【现代密码学】笔记3.4-3.7--构造安全加密方案、CPA安全、CCA安全 《introduction to modern cryphtography》](https://blog.csdn.net/wtyuong/article/details/135463695)
+

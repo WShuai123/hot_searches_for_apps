@@ -47,3 +47,7 @@
 
 + [JAVA常用组件未授权漏洞解析](https://www.freebuf.com/articles/web/388808.html)
 
++ [亲乌黑客发动报复式袭击，俄罗斯互联网服务提供商遭遇重创](https://www.freebuf.com/news/389405.html)
+
++ [Pinpoint 报告：2023年网安产业投资总额减少40%](https://www.freebuf.com/news/389410.html)
+

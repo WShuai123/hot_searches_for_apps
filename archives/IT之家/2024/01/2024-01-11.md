@@ -33,3 +33,7 @@
 
 + [字节跳动证实懂车帝将成独立公司：基于业务正常发展需要](https://m.ithome.com/html/744427.htm)
 
++ [郭富城出任领克汽车品牌大使](https://m.ithome.com/html/744483.htm)
+
++ [比亚迪“出海舰队”首船交付离港：能装 7000 台车，首航将赴欧洲](https://m.ithome.com/html/744492.htm)
+
