@@ -159,3 +159,9 @@
 
 + [R4S软路由如何在iStoreOS后配置远程桌面本地电脑公网地址](https://blog.csdn.net/bushibrnxiaohaij/article/details/135459882)
 
++ [计算机网络 物理层](https://blog.csdn.net/studycodeday/article/details/135517455)
+
++ [2024三掌柜赠书活动第三期：Rust系统编程](https://blog.csdn.net/CC1991_/article/details/135469519)
+
++ [AOF 保存的命令](https://blog.csdn.net/AmorHZR/article/details/135521782)
+

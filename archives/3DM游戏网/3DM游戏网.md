@@ -215,3 +215,9 @@
 
 + [《被埋葬的博尔内什2》Steam免费发布 回合制地牢RPG新篇](https://www.3dmgame.com/news/202401/3885852.html)
 
++ [真粉无疑 《王国之泪》玩家花费1855个小时 收集抵达上限的999999个魄](https://www.3dmgame.com/news/202401/3885860.html)
+
++ [JRPG《贤者世界Re:Try》登陆PS和Switch 5月30日发售](https://www.3dmgame.com/news/202401/3885858.html)
+
++ [《烽火与炊烟》7天突破10w愿望单 发售日待定](https://www.3dmgame.com/news/202401/3885859.html)
+

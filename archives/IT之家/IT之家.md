@@ -39,3 +39,5 @@
 
 + [代号“燧人氏”，小米神秘新机跑分曝光：骁龙 8 Gen 3 芯片 + 16GB 内存](https://m.ithome.com/html/744549.htm)
 
++ [腾讯做了一款“卡片手机”：工卡大小、仅 4 个按键，为老人研发](https://m.ithome.com/html/744587.htm)
+
