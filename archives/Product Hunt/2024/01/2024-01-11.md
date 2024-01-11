@@ -135,3 +135,9 @@
 
 + [Family Dinner Planner](https://www.producthunt.com/posts/family-dinner-planner)
 
++ [Chat Collect](https://www.producthunt.com/posts/chat-collect)
+
++ [WhisperWizard](https://www.producthunt.com/posts/whisperwizard)
+
++ [Olly - AI Social Media Co-Pilot](https://www.producthunt.com/posts/olly-ai-social-media-co-pilot)
+

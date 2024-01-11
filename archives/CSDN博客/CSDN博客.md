@@ -191,3 +191,7 @@
 
 + [【从零开始学习微服务 | 第一篇】什么是微服务](https://blog.csdn.net/fckbb/article/details/135505055)
 
++ [【网络】网络层ICMP协议](https://blog.csdn.net/qq_35995514/article/details/135519763)
+
++ [【InternLM】基于InternLM和LangChain从0开始搭建你的知识库【完全攻略】【LangChain和向量数据库的详细介绍】](https://blog.csdn.net/weixin_42475060/article/details/134491154)
+
