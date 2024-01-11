@@ -221,3 +221,23 @@
 
 + [《烽火与炊烟》7天突破10w愿望单 发售日待定](https://www.3dmgame.com/news/202401/3885859.html)
 
++ [史上首次！我国汽车产销突破3000万辆](https://www.3dmgame.com/news/202401/3885869.html)
+
++ [CES新品“AI伴侣”Rabbit R1一天售出1万台](https://www.3dmgame.com/news/202401/3885868.html)
+
++ [《辐射4》加载300个Mod+光追 画面惊艳太逼真了](https://www.3dmgame.com/news/202401/3885867.html)
+
++ [日本Falcom计划1月13日大型线下活动紧急取消 收到炸弹威胁](https://www.3dmgame.com/news/202401/3885866.html)
+
++ [DLC遥遥无期 《艾尔登法环》服务器将维护实装新补丁](https://www.3dmgame.com/news/202401/3885870.html)
+
++ [NFT已死：推特现已彻底下架NFT头像功能](https://www.3dmgame.com/news/202401/3885865.html)
+
++ [全球最大固体火箭 我国引力一号遥一商业运载火箭首次发射成功](https://www.3dmgame.com/news/202401/3885864.html)
+
++ [升级版PS5手柄泄露 加量不加价续航提升至12小时](https://www.3dmgame.com/news/202401/3885863.html)
+
++ [《猛鬼大廈》Steam页面正式发售 国区原价28元](https://www.3dmgame.com/news/202401/3885861.html)
+
++ [《马里奥vs大金刚》Switch重制版新情报公开 2月16日发售](https://www.3dmgame.com/news/202401/3885862.html)
+

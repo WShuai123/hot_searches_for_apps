@@ -41,3 +41,5 @@
 
 + [腾讯做了一款“卡片手机”：工卡大小、仅 4 个按键，为老人研发](https://m.ithome.com/html/744587.htm)
 
++ [夸克 PC 版正式登陆 Windows 平台，集合浏览器搜索、网盘、工具等功能](https://m.ithome.com/html/744584.htm)
+

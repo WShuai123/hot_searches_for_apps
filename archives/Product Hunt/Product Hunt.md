@@ -101,3 +101,25 @@
 
 + [Klart AI](https://www.producthunt.com/posts/klart-ai)
 
++ [Botvisor](https://www.producthunt.com/posts/botvisor)
+
++ [HEY Calendar](https://www.producthunt.com/posts/hey-calendar)
+
++ [Pink Piko - AI Emotion Journal](https://www.producthunt.com/posts/pink-piko-ai-emotion-journal)
+
++ [PaperJet](https://www.producthunt.com/posts/paperjet-3)
+
++ [FlowFinitee](https://www.producthunt.com/posts/flowfinitee)
+
++ [GPT Auth](https://www.producthunt.com/posts/gpt-auth)
+
++ [GoSearch](https://www.producthunt.com/posts/gosearch)
+
++ [Jellypod](https://www.producthunt.com/posts/jellypod)
+
++ [Beagle Security for Enterprises](https://www.producthunt.com/posts/beagle-security-for-enterprises)
+
++ [Prompt Whisperer](https://www.producthunt.com/posts/prompt-whisperer)
+
++ [Blue Saturn - Recruiting co-pilot](https://www.producthunt.com/posts/blue-saturn-recruiting-co-pilot)
+

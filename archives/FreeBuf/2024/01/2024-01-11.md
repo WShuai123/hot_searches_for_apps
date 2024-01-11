@@ -57,3 +57,7 @@
 
 + [思科又曝一严重漏洞，可被黑客利用获取 root 权限](https://www.freebuf.com/news/389437.html)
 
++ [智能汽车网络安全的那些事 | 测试篇](https://www.freebuf.com/articles/endpoint/388022.html)
+
++ [工信部发布《云计算综合标准化体系建设指南（征求意见稿）》](https://www.freebuf.com/news/389425.html)
+
