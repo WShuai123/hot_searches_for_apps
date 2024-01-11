@@ -157,3 +157,5 @@
 
 + [计算机网络—— 概述](https://blog.csdn.net/Wksycxy/article/details/135458573)
 
++ [R4S软路由如何在iStoreOS后配置远程桌面本地电脑公网地址](https://blog.csdn.net/bushibrnxiaohaij/article/details/135459882)
+

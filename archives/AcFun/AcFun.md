@@ -95,3 +95,7 @@
 
 + [老实说我有点猜不透她的动机](http://www.acfun.cn/v/ac43483456)
 
++ [韩服王者下饭集锦#07 这个系列成出到第七期各位都有责任！](http://www.acfun.cn/v/ac43480735)
+
++ [【MYR】ハローマリーナ【UTAU試聽】](http://www.acfun.cn/v/ac43483987)
+

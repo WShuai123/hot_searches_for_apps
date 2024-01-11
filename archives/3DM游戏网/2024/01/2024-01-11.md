@@ -203,3 +203,15 @@
 
 + [FTC延长了《堡垒之夜》儿童氪金的退款截止日期 至今年2月底](https://www.3dmgame.com/news/202401/3885846.html)
 
++ [第一人称科幻烹饪游戏《南极煎蛋》现已登陆Steam页面 做一名极地厨师](https://www.3dmgame.com/news/202401/3885853.html)
+
++ [《权游》主创在《三体》前曾在试图制作《星战》](https://www.3dmgame.com/news/202401/3885857.html)
+
++ [史低来袭！！！《底特律：化身为人》等多款游戏大促](https://www.3dmgame.com/news/202401/3885856.html)
+
++ [回合制肉鸽革新！《异界失控》Steam全新试玩再次开启！](https://www.3dmgame.com/news/202401/3885855.html)
+
++ [KK对战平台防守新图推荐，“魔女会所”在线营业，赶紧来快乐一下吧！](https://www.3dmgame.com/news/202401/3885854.html)
+
++ [《被埋葬的博尔内什2》Steam免费发布 回合制地牢RPG新篇](https://www.3dmgame.com/news/202401/3885852.html)
+
