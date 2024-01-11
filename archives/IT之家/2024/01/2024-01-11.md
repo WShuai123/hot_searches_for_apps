@@ -27,3 +27,5 @@
 
 + [零跑 C10 开启预售：增程 / 纯电双车型，15.18 万元起售](https://m.ithome.com/html/744484.htm)
 
++ [吉利星越 L 新增三款车型上市，13.72 万元起售](https://m.ithome.com/html/744481.htm)
+

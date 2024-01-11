@@ -111,3 +111,13 @@
 
 + [《如龙8》发布真人预告 网红带你游览天堂岛](https://www.3dmgame.com/news/202401/3885805.html)
 
++ [《赵云传：云汉腾龙》1月18日登陆Steam发售 首发68.4元](https://www.3dmgame.com/news/202401/3885810.html)
+
++ [消息称《异度神剑X》重制版或将抛弃Switch](https://www.3dmgame.com/news/202401/3885809.html)
+
++ [香草社《圣兽之王》收藏版赠送16位机风格游戏OST](https://www.3dmgame.com/news/202401/3885808.html)
+
++ [《量子误差》开发商打造《恐龙猎人》精神续作](https://www.3dmgame.com/news/202401/3885807.html)
+
++ [2D赛博朋克动作游戏《异常特工》本月上市](https://www.3dmgame.com/news/202401/3885806.html)
+

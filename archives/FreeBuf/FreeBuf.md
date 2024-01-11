@@ -41,3 +41,7 @@
 
 + [工信部组织开展网络安全保险服务试点工作](https://www.freebuf.com/news/389176.html)
 
++ [FreeBuf早报 | 量子安全加密遭破解；2023年网安产业投资总额减少40%](https://www.freebuf.com/news/389332.html)
+
++ [2023年网络威胁综述：无文件攻击增加1400%](https://www.freebuf.com/articles/paper/389366.html)
+
