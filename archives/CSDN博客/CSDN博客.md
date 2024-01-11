@@ -101,3 +101,25 @@
 
 + [计算机网络-各层协议](https://blog.csdn.net/weixin_52297353/article/details/135454989)
 
++ [基于Python的影视数据智能分析系统开发](https://blog.csdn.net/zhangxia_/article/details/135531492)
+
++ [智能时代：自然语言生成SQL与知识图谱问答实战](https://blog.csdn.net/2202_75623950/article/details/135498456)
+
++ [如何在OpenWRT部署uhttpd搭建服务器实现远程访问本地web站点](https://blog.csdn.net/wtyuong/article/details/135534489)
+
++ [【计算机网络】TCP原理 | 可靠性机制分析（三）](https://blog.csdn.net/m0_74352571/article/details/135498389)
+
++ [使用Docker本地部署Jupyter Notebook并结合内网穿透实现远程访问](https://blog.csdn.net/2301_77485708/article/details/135536946)
+
++ [如何从 Keras 中的深度学习目录加载大型数据集](https://blog.csdn.net/gongdiwudu/article/details/135515234)
+
++ [【Spring Cloud】Gateway组件的三种使用方式](https://blog.csdn.net/weixin_74318097/article/details/135487568)
+
++ [【大模型】大型模型飞跃升级—文档图像识别领域迎来技术巨变](https://blog.csdn.net/weixin_36755535/article/details/135464759)
+
++ [案例分享：当前高端低延迟视频类产品方案分享（内窥镜、记录仪、车载记录仪、车载环拼、车载后视镜等产品）](https://blog.csdn.net/qq21497936/article/details/135439369)
+
++ [Spring MVC文件上传](https://blog.csdn.net/qq_62965575/article/details/135502639)
+
++ [基于Flask的高并发部署方案](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/135539459)
+
