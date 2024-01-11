@@ -49,3 +49,5 @@
 
 + [懂车帝已完成独立：今日头条退出，字节称“业务正常发展需要”](https://m.ithome.com/html/744600.htm)
 
++ [iQOO 12 手机推出龙年特别版，12GB+512GB 售价 3999 元](https://m.ithome.com/html/744578.htm)
+

@@ -195,3 +195,7 @@
 
 + [【InternLM】基于InternLM和LangChain从0开始搭建你的知识库【完全攻略】【LangChain和向量数据库的详细介绍】](https://blog.csdn.net/weixin_42475060/article/details/134491154)
 
++ [人工智能语义解析：连接自然语言与机器智能的桥梁](https://blog.csdn.net/weixin_43178406/article/details/135481464)
+
++ [【数据库SQL server】自学终极笔记](https://blog.csdn.net/m0_57532432/article/details/135145859)
+

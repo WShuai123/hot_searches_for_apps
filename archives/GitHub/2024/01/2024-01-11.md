@@ -51,3 +51,41 @@
 
 + [rauchg / next-ai-news](https://github.com/rauchg/next-ai-news)
 
++ [keiyoushi / extensions](https://github.com/keiyoushi/extensions)
+
++ [keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source)
+
++ [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
+
++ [tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+
++ [atuinsh / atuin](https://github.com/atuinsh/atuin)
+
++ [Meroser / IPTV](https://github.com/Meroser/IPTV)
+
++ [mineek / Serotonin](https://github.com/mineek/Serotonin)
+
++ [openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot)
+
++ [meshery / meshery](https://github.com/meshery/meshery)
+
++ [yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [Portkey-AI / gateway](https://github.com/Portkey-AI/gateway)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission)
+
++ [apache / flink](https://github.com/apache/flink)
+
++ [terraform-aws-modules / terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+
++ [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
+
++ [u-boot / u-boot](https://github.com/u-boot/u-boot)
+
++ [ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA)
+
