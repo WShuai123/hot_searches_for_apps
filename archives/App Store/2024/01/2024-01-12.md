@@ -201,3 +201,9 @@
 
 + [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
 
++ [智联招聘极速版](https://itunes.apple.com/cn/app/id1575686067?mt=8)
+
++ [抖音精选](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+

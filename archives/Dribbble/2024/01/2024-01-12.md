@@ -49,3 +49,25 @@
 
 + [Primary - Website](https://dribbble.com/shots/)
 
++ [3D Animation for Biss-net.com](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Diet](https://dribbble.com/shots/)
+
++ [Bankly - Digital Banking Web App](https://dribbble.com/shots/)
+
++ [Crypto Wallet Landing Page](https://dribbble.com/shots/)
+
++ [Viking Ship Logo](https://dribbble.com/shots/)
+
++ [Paint Factory (soon)](https://dribbble.com/shots/)
+
++ [Dark Mode Tracking pt.5](https://dribbble.com/shots/)
+
++ [????](https://dribbble.com/shots/)
+
++ [Outdoorsy EV](https://dribbble.com/shots/)
+
++ [Loan Application](https://dribbble.com/shots/)
+
