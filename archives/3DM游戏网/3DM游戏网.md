@@ -289,3 +289,11 @@
 
 + [CES 2024：蔡司发布全新的全息技术 重点应用于汽车领域](https://www.3dmgame.com/news/202401/3885894.html)
 
++ [顶配6699元！荣耀Magic 6/Magic6 Pro价格公布：今晚预售](https://www.3dmgame.com/news/202401/3885897.html)
+
++ [《杀手：血钱》1月25日登陆NS 售价29.99美元](https://www.3dmgame.com/news/202401/3885898.html)
+
++ [Fami通新一期销量榜 《超级马里奥：惊奇》登顶](https://www.3dmgame.com/news/202401/3885896.html)
+
++ [《碧蓝幻想：Relink》体验版1月12日上线 含三个模式](https://www.3dmgame.com/news/202401/3885895.html)
+

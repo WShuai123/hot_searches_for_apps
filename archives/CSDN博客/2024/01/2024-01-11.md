@@ -203,3 +203,7 @@
 
 + [在线图表编辑工具Draw.io本地部署并结合内网穿透实现远程协作办公](https://blog.csdn.net/fq157856469/article/details/135533732)
 
++ [语义解析：如何基于SQL去实现自然语言与机器智能连接的桥梁](https://blog.csdn.net/Aileenvov/article/details/135533927)
+
++ [西瓜书读书笔记整理（九） —— 第九章 聚类](https://blog.csdn.net/smileyan9/article/details/135398479)
+
