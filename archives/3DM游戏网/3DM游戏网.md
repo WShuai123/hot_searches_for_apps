@@ -241,3 +241,9 @@
 
 + [《马里奥vs大金刚》Switch重制版新情报公开 2月16日发售](https://www.3dmgame.com/news/202401/3885862.html)
 
++ [佛州黑人小伙效仿《GTA6》佛州小丑 发视频向R星要钱](https://www.3dmgame.com/news/202401/3885872.html)
+
++ [特斯拉起诉千万粉丝大V侵权案胜诉 对方道歉并赔12万](https://www.3dmgame.com/news/202401/3885873.html)
+
++ [恐怖游戏《Rose Cottage》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202401/3885871.html)
+

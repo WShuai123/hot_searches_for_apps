@@ -43,3 +43,5 @@
 
 + [夸克 PC 版正式登陆 Windows 平台，集合浏览器搜索、网盘、工具等功能](https://m.ithome.com/html/744584.htm)
 
++ [荣耀回应“MagicOS 任意门功能照抄锤子手机 One Step”争议：功能自主独立研发、罗永浩构思超前](https://m.ithome.com/html/744630.htm)
+

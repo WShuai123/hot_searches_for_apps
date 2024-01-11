@@ -173,3 +173,9 @@
 
 + [基于微信浙江杭州二手物品交易小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135473838)
 
++ [【回归预测】基于鲸鱼算法优化卷积神经网络结合支持向量机WOA-CNN-SVM实现数据回归预测附matlab代码](https://blog.csdn.net/qq_59747472/article/details/135494288)
+
++ [SpringBoot中使用单例模式+ScheduledExecutorService实现异步多线程任务(若依源码学习)](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/135504554)
+
++ [iPad Pro如何使用SSH远程连接服务器云端编程开发【内网穿透】](https://blog.csdn.net/bushibrnxiaohaij/article/details/135528077)
+
