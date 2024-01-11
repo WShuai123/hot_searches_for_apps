@@ -105,3 +105,11 @@
 
 + [Rebel Wolves聘请《巫师3》资深人士为创意总监 3A奇幻RPG开发中](https://www.3dmgame.com/news/202401/3885899.html)
 
++ [Nvidia CES 2024透露《如龙8》PC版支持DLSS3](https://www.3dmgame.com/news/202401/3885904.html)
+
++ [《驱灵者：新伊甸的幽灵》预告片：爱/死亡与牺牲](https://www.3dmgame.com/news/202401/3885903.html)
+
++ [《咒术回战：双华乱舞》角色预告片：乙骨忧太/夏油杰](https://www.3dmgame.com/news/202401/3885902.html)
+
++ [《波斯王子：失落的王冠》PC试玩版现已开放下载](https://www.3dmgame.com/news/202401/3885901.html)
+

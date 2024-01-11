@@ -25,3 +25,5 @@
 
 + [魅族 PANDAER 推出华为 Mate 60 Pro / Pro+ 手机壳，119 元起](https://m.ithome.com/html/744596.htm)
 
++ [消息称华为 P70 标准版手机测试麒麟 9000S 处理器](https://m.ithome.com/html/744752.htm)
+
