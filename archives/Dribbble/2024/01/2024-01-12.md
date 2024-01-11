@@ -71,3 +71,21 @@
 
 + [Loan Application](https://dribbble.com/shots/)
 
++ [Online Courses Platform Website Dashboard](https://dribbble.com/shots/)
+
++ [Microsoft Dynamics 365 - Business Central CRM](https://dribbble.com/shots/)
+
++ [Women of 2023](https://dribbble.com/shots/)
+
++ [Train story landscape](https://dribbble.com/shots/)
+
++ [Frost Field](https://dribbble.com/shots/)
+
++ [Grocery Boo Website](https://dribbble.com/shots/)
+
++ [Wug Logo](https://dribbble.com/shots/)
+
++ [Mobile Banking App](https://dribbble.com/shots/)
+
++ [AI onboarding by milkinside](https://dribbble.com/shots/)
+

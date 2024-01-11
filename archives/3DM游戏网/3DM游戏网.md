@@ -101,3 +101,7 @@
 
 + [《RPG MAKER WITH》将登陆PS4和PS5 Switch版4月11日发售](https://www.3dmgame.com/news/202401/3885849.html)
 
++ [Epic喜加一：《扬帆起航》免费领](https://www.3dmgame.com/news/202401/3885900.html)
+
++ [Rebel Wolves聘请《巫师3》资深人士为创意总监 3A奇幻RPG开发中](https://www.3dmgame.com/news/202401/3885899.html)
+
