@@ -219,3 +219,27 @@
 
 + [Ayaneo Next Lite正式公布 售价299美元](https://www.3dmgame.com/news/202401/3885954.html)
 
++ [英国将推出世界首个修路AI机器人 比人类快70%还更省钱](https://www.3dmgame.com/news/202401/3885967.html)
+
++ [MOBA游戏《神之浩劫2》泄露 或者在本周末公布](https://www.3dmgame.com/news/202401/3885968.html)
+
++ [全球第一！中国AI专利申请量独占64% 论文数也遥遥领先](https://www.3dmgame.com/news/202401/3885966.html)
+
++ [顽皮狗总裁尼尔出席金球奖无人问津 太尴尬遭网友嘲笑](https://www.3dmgame.com/news/202401/3885969.html)
+
++ [GTA+ 会员可获全新亚班尼骑XL SUV、游戏内服装，及更多内容](https://www.3dmgame.com/news/202401/3885965.html)
+
++ [《蜘蛛夫人》新剧照和视频  蜘蛛女齐上阵魅力大](https://www.3dmgame.com/news/202401/3885964.html)
+
++ [《SAND LAND》将于2024年4月25日登场！同步公开宣传视频及各版本情报](https://www.3dmgame.com/news/202401/3885963.html)
+
++ [剧版《史密斯夫妇》新预告 假结婚真杀人哪个更难](https://www.3dmgame.com/news/202401/3885962.html)
+
++ [《卧龙：苍天陨落 完全版》正式公布 2月7日登陆全平台](https://www.3dmgame.com/news/202401/3885961.html)
+
++ [阿汤哥华纳签订协约 派拉蒙《壮志凌云3》仍在制作](https://www.3dmgame.com/news/202401/3885960.html)
+
++ [抵制电动汽车！丰田章男：一直致力于氢能源 启动新发动机研发](https://www.3dmgame.com/news/202401/3885959.html)
+
++ [《湮灭线》将于1月25日V1.0转正——最终章节湮灭神殿，全新设计的女性机甲](https://www.3dmgame.com/news/202401/3885958.html)
+

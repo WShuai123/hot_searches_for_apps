@@ -67,3 +67,5 @@
 
 + [DynastyPersist：一款功能强大的Linux持久化安全审计与测试工具](https://www.freebuf.com/sectool/388830.html)
 
++ [工信部印发《区块链和分布式记账技术标准体系建设指南》](https://www.freebuf.com/articles/389574.html)
+

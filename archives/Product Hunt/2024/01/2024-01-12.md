@@ -127,3 +127,29 @@
 
 + [Codebay.ai](https://www.producthunt.com/posts/codebay-ai)
 
++ [AsteroBuilder](https://www.producthunt.com/posts/asterobuilder)
+
++ [Gift Finder](https://www.producthunt.com/posts/gift-finder)
+
++ [Tool Explorer](https://www.producthunt.com/posts/tool-explorer)
+
++ [Decode the Identity](https://www.producthunt.com/posts/decode-the-identity)
+
++ [videoGPT](https://www.producthunt.com/posts/videogpt-4)
+
++ [AI Ad Text Generator](https://www.producthunt.com/posts/ai-ad-text-generator)
+
++ [I have Salt](https://www.producthunt.com/posts/i-have-salt)
+
++ [RoastedWithAI - Free AI Website Roast](https://www.producthunt.com/posts/roastedwithai-free-ai-website-roast)
+
++ [Nemo AI](https://www.producthunt.com/posts/nemo-ai)
+
++ [personas by myGPTBrain](https://www.producthunt.com/posts/personas-by-mygptbrain)
+
++ [MemoryMaps](https://www.producthunt.com/posts/memorymaps)
+
++ [Arcktic](https://www.producthunt.com/posts/arcktic)
+
++ [Shadcn UI Component Explorer](https://www.producthunt.com/posts/shadcn-ui-component-explorer)
+
