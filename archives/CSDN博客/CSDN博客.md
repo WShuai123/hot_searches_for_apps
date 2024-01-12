@@ -141,3 +141,9 @@
 
 + [基于JavaWeb+BS架构+SpringBoot+Vue+Hadoop短视频流量数据分析与可视化系统的设计和实现](https://blog.csdn.net/qq_39659876/article/details/135541220)
 
++ [【Spring Cloud】微服务架构演变及微服务架构介绍](https://blog.csdn.net/Qingai521/article/details/135546993)
+
++ [开源了，免费使用GPT4（Windows/Linux/Mac 一键启动脚本）](https://blog.csdn.net/weixin_57514792/article/details/135501914)
+
++ [监控场景及开源监控方案选型](https://blog.csdn.net/qq_33589510/article/details/135543875)
+

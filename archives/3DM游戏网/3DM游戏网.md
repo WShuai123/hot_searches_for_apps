@@ -197,3 +197,11 @@
 
 + [育碧承认《波斯王子：失落的王冠》包含AI配音内容 后续会替换](https://www.3dmgame.com/news/202401/3885942.html)
 
++ [版权到期、被迫下海整活的米老鼠，成了迪士尼的二次元虎哥](https://www.3dmgame.com/news/202401/3885949.html)
+
++ [动画剧集《宇宙的巨人希曼：革命》预告 1月25日播出](https://www.3dmgame.com/news/202401/3885950.html)
+
++ [漫威知名反派角色红兜帽将成为新一任“恶灵骑士” 全新造型公开](https://www.3dmgame.com/news/202401/3885947.html)
+
++ [Switch高级会员经典游戏库新增游戏：《黄金太阳》系列](https://www.3dmgame.com/news/202401/3885948.html)
+

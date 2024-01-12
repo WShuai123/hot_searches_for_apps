@@ -35,3 +35,5 @@
 
 + [特斯拉中国部分车型降价：Model 3 焕新版售 24.59 万元起，Model Y 售 25.89 万元起](https://m.ithome.com/html/744788.htm)
 
++ [荣耀赵明称不怕友商来偷图纸](https://m.ithome.com/html/744819.htm)
+
