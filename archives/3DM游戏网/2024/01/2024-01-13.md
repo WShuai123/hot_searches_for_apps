@@ -101,3 +101,9 @@
 
 + [CES 2024惊现AI全息马力欧 但表情呆滞AI配音怪异 非任天堂官方授权](https://www.3dmgame.com/news/202401/3885935.html)
 
++ [《沙漠大冒险》发售日预告 4月26日登陆多平台](https://www.3dmgame.com/news/202401/3885986.html)
+
++ [《铁拳8》全新预告 展示女性角色Alisa](https://www.3dmgame.com/news/202401/3885985.html)
+
++ [《王国之泪》是2023年日本销量最好的游戏 NS硬件销量最高](https://www.3dmgame.com/news/202401/3885984.html)
+
