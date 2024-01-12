@@ -113,3 +113,17 @@
 
 + [《波斯王子：失落的王冠》PC试玩版现已开放下载](https://www.3dmgame.com/news/202401/3885901.html)
 
++ [EA下一代《战地》或有更好的破坏效果](https://www.3dmgame.com/news/202401/3885911.html)
+
++ [《宝可梦》开发商Game Freak注册新商标Pand Land](https://www.3dmgame.com/news/202401/3885910.html)
+
++ [两款经典菲力猫游戏即将登陆现代游戏平台](https://www.3dmgame.com/news/202401/3885909.html)
+
++ [金手指软件商预估Switch 2在9月份上市](https://www.3dmgame.com/news/202401/3885908.html)
+
++ [《SAND LAND》发布全新预告片确定4月发售](https://www.3dmgame.com/news/202401/3885907.html)
+
++ [《波斯王子：失落的王冠》PS5与Switch画面对比：差别不大](https://www.3dmgame.com/news/202401/3885906.html)
+
++ [《出租车生活：城市驾驶模拟器》预售现已开启](https://www.3dmgame.com/news/202401/3885905.html)
+

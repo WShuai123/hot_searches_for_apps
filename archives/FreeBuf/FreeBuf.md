@@ -41,3 +41,7 @@
 
 + [AsyncRAT 攻击变化新动向](https://www.freebuf.com/articles/network/389170.html)
 
++ [FreeBuf早报 | HPE 以 140 亿美元收购瞻博网络；热门扳手感染勒索软件](https://www.freebuf.com/articles/389440.html)
+
++ [Akira勒索软件团伙及其策略的全面解析](https://www.freebuf.com/articles/paper/389167.html)
+

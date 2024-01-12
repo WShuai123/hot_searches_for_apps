@@ -27,3 +27,7 @@
 
 + [消息称华为 P70 标准版手机测试麒麟 9000S 处理器](https://m.ithome.com/html/744752.htm)
 
++ [网友反馈“腾讯炸了”：《英雄联盟》《穿越火线》等游戏服务器崩溃，玩家集体掉线](https://m.ithome.com/html/744768.htm)
+
++ [Petal 花瓣地图上架华为应用市场国区：支持车道级引导，安装包 79.9MB](https://m.ithome.com/html/744764.htm)
+
