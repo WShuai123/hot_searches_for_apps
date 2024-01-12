@@ -25,3 +25,7 @@
 
 + [专为华为 Mate 60 Pro 系列打造，魅族 PANDAER 新款妙磁抗菌手机壳开售](https://m.ithome.com/html/744817.htm)
 
++ [消息称 vivo X100 Pro + 手机配备 2K 三星 E7 屏，LYT900 一英寸主摄](https://m.ithome.com/html/744941.htm)
+
++ [北京贝塔伏特宣称成功研制民用原子能电池：50 年稳定自发电且无需充电、维护](https://m.ithome.com/html/744879.htm)
+

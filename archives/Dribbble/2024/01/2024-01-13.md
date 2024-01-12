@@ -49,3 +49,29 @@
 
 + [3D Bacteria Illustration](https://dribbble.com/shots/)
 
++ [AI onboarding by milkinside](https://dribbble.com/shots/)
+
++ [Microsoft Dynamics 365 - Business Central CRM](https://dribbble.com/shots/)
+
++ [Sleep Tracker App](https://dribbble.com/shots/)
+
++ [iOS Mobile App for Vegetarians](https://dribbble.com/shots/)
+
++ [Game Studio Mobile Website](https://dribbble.com/shots/)
+
++ [Mobile Banking App](https://dribbble.com/shots/)
+
++ [The Maine Event](https://dribbble.com/shots/)
+
++ [Dark Mode Dashboard](https://dribbble.com/shots/)
+
++ [Loan Application](https://dribbble.com/shots/)
+
++ [E-commerce Web Design Concept](https://dribbble.com/shots/)
+
++ [Kimaro Website](https://dribbble.com/shots/)
+
++ [Viking Ship Logo](https://dribbble.com/shots/)
+
++ [Dark Mode Tracking pt.5](https://dribbble.com/shots/)
+
