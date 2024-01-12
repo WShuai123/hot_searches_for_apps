@@ -31,3 +31,5 @@
 
 + [Petal 花瓣地图上架华为应用市场国区：支持车道级引导，安装包 79.9MB](https://m.ithome.com/html/744764.htm)
 
++ [荣耀官宣成龙为龙年大使 ：新年荣耀，一起成龙](https://m.ithome.com/html/744731.htm)
+

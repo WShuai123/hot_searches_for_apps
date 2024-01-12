@@ -53,3 +53,9 @@
 
 + [渗透测试 | 对Austin系统进行代码审计并利用文件读写漏洞实现Getshell](https://www.freebuf.com/articles/web/389171.html)
 
++ [细粒度权限治理系列 | ABAC学习](https://www.freebuf.com/articles/es/389391.html)
+
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
++ [关注个人数据保护，肯尼亚发布新指南](https://www.freebuf.com/news/389498.html)
+

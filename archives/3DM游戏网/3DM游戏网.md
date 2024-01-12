@@ -153,3 +153,31 @@
 
 + [科乐美足球《eFootball 2024》总下载量破7亿次](https://www.3dmgame.com/news/202401/3885918.html)
 
++ [《拳皇15》PS国行版1月15日发售](https://www.3dmgame.com/news/202401/3885934.html)
+
++ [CES 2024惊现AI全息马力欧 但表情呆滞AI配音怪异 非任天堂官方授权](https://www.3dmgame.com/news/202401/3885935.html)
+
++ [国产游戏《相声模拟器》Steam页面上线 当一回捧哏](https://www.3dmgame.com/news/202401/3885933.html)
+
++ [视觉小说《月华辉映之刻》Steam页面上线 Q4发售](https://www.3dmgame.com/news/202401/3885932.html)
+
++ [《波斯王子：失落的王冠》媒体评分解禁 IGN 8分 GS 9分](https://www.3dmgame.com/news/202401/3885931.html)
+
++ [热门聊天软件Discord公司宣布裁员17%](https://www.3dmgame.com/news/202401/3885938.html)
+
++ [PS国行版《拳皇15》1月15日发售 星游纪抖音直播间首发](https://www.3dmgame.com/news/202401/3885937.html)
+
++ [AI助微软击败苹果：市值超2.875万亿全球第一](https://www.3dmgame.com/news/202401/3885936.html)
+
++ [《THE FINALS》大削手柄辅助瞄准 针对映射伪装](https://www.3dmgame.com/news/202401/3885929.html)
+
++ [《勇者斗恶龙：寻宝探险团》《逃出生天》已移除D加密](https://www.3dmgame.com/news/202401/3885926.html)
+
++ [RPG《圣兽之王》探索心得篇预告 3月8日发售](https://www.3dmgame.com/news/202401/3885928.html)
+
++ [派拉蒙剧集《光环》放出第二季正式预告](https://www.3dmgame.com/news/202401/3885927.html)
+
++ [六位IronSource创始人辞去Unity高管职务](https://www.3dmgame.com/news/202401/3885925.html)
+
++ [《波斯王子：失落的王冠》IGN评8分 该系列完美继承者](https://www.3dmgame.com/news/202401/3885930.html)
+
