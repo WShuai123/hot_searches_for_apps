@@ -205,3 +205,9 @@
 
 + [Switch高级会员经典游戏库新增游戏：《黄金太阳》系列](https://www.3dmgame.com/news/202401/3885948.html)
 
++ [《碧蓝幻想Relink》PS平台体验版上线 含三种模式](https://www.3dmgame.com/news/202401/3885953.html)
+
++ [《战场赋格曲2》销量突破40万 免费试玩Demo发放](https://www.3dmgame.com/news/202401/3885952.html)
+
++ [《宝可梦》玩家速通作弊一年后被抓现行 全为骗取奖金](https://www.3dmgame.com/news/202401/3885951.html)
+

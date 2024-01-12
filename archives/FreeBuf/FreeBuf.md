@@ -65,3 +65,5 @@
 
 + [真实较量 | 红队视角下的Cobalt_Strike猎杀](https://www.freebuf.com/sectool/389399.html)
 
++ [DynastyPersist：一款功能强大的Linux持久化安全审计与测试工具](https://www.freebuf.com/sectool/388830.html)
+
