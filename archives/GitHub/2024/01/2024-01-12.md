@@ -51,3 +51,27 @@
 
 + [ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA)
 
++ [subquery / subql](https://github.com/subquery/subql)
+
++ [meilisearch / meilisearch](https://github.com/meilisearch/meilisearch)
+
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+
++ [morethanwords / tweb](https://github.com/morethanwords/tweb)
+
++ [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
++ [chakra-ui / chakra-ui](https://github.com/chakra-ui/chakra-ui)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [opentofu / opentofu](https://github.com/opentofu/opentofu)
+
++ [stanfordnlp / dspy](https://github.com/stanfordnlp/dspy)
+
++ [ionic-team / ionic-framework](https://github.com/ionic-team/ionic-framework)
+
++ [OdysseusYuan / LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+
++ [ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+

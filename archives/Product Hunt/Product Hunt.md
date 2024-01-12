@@ -153,3 +153,7 @@
 
 + [Shadcn UI Component Explorer](https://www.producthunt.com/posts/shadcn-ui-component-explorer)
 
++ [Plaud Note](https://www.producthunt.com/posts/plaud-note)
+
++ [PayMeForMyAI](https://www.producthunt.com/posts/paymeformyai)
+

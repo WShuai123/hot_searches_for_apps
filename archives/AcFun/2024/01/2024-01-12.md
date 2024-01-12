@@ -105,3 +105,17 @@
 
 + [好姐妹天天秀#117【言尊者】](http://www.acfun.cn/v/ac43483689)
 
++ [今日任务：俘获你的心](http://www.acfun.cn/v/ac43500526)
+
++ [他不是站不起来，而是平凡的身躯无法承受住伟大的灵魂](http://www.acfun.cn/v/ac43500480)
+
++ [【清晨】La Vie en Rose玫瑰人生翻跳](http://www.acfun.cn/v/ac43491926)
+
++ [本来开开心心，最后突然破防了……](http://www.acfun.cn/v/ac43500484)
+
++ [研究尸体、创造僵尸为我干活！这游戏不但颠覆认知，结局更是反转](http://www.acfun.cn/v/ac43499176)
+
++ [金 钟 罩【今天有什么好笑的 #1429】](http://www.acfun.cn/v/ac43498981)
+
++ [调了个效果，准备讲鬼故事，打几分？](http://www.acfun.cn/v/ac43498857)
+

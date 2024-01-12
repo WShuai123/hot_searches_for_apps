@@ -163,3 +163,7 @@
 
 + [ChatGPT4+Python近红外光谱数据分析及机器学习与深度学习建模](https://blog.csdn.net/aishangyanxiu/article/details/135521449)
 
++ [MySQL数据被误删怎么办？](https://blog.csdn.net/qq_28314431/article/details/135556178)
+
++ [【Vue系列】Vue3快速构建项目，以及在已有代码情况首次打开如何初始化依赖项](https://blog.csdn.net/lmy_520/article/details/135536160)
+

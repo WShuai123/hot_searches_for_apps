@@ -255,3 +255,5 @@
 
 + [传闻：英伟达RTX 4080 SUPER显卡性能比原版高9%](https://www.3dmgame.com/news/202401/3885972.html)
 
++ [美商海盗船推出K55 Core RGB游戏键盘 超薄静音、售价329元](https://www.3dmgame.com/news/202401/3885976.html)
+

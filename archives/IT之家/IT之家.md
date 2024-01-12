@@ -45,3 +45,5 @@
 
 + [小米 WiFi 7 路由器 BE 3600 2.5G 版上架预约，首发不高于 299 元](https://m.ithome.com/html/744821.htm)
 
++ [小米超薄充电宝 5000mAh 开售：重 93g、20W MAX 快充，129 元](https://m.ithome.com/html/744846.htm)
+

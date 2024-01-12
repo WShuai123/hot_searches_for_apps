@@ -69,3 +69,5 @@
 
 + [工信部印发《区块链和分布式记账技术标准体系建设指南》](https://www.freebuf.com/articles/389574.html)
 
++ [漏洞危害与破坏性如何评估；安全部门如何做好审计 | FB甲方群话题讨论](https://www.freebuf.com/news/389518.html)
+
