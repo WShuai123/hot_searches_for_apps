@@ -53,3 +53,5 @@
 
 + [长城全新哈弗 H9 官图发布：大尺寸方盒子车身，可选 2.0T 汽油 / 2.4T 柴油](https://m.ithome.com/html/744832.htm)
 
++ [华为 nova12 Ultra 机型今日开售：双向北斗卫星消息、第二代昆仑玻璃，4699 元起](https://m.ithome.com/html/744807.htm)
+
