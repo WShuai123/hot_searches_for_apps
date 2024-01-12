@@ -211,3 +211,11 @@
 
 + [《宝可梦》玩家速通作弊一年后被抓现行 全为骗取奖金](https://www.3dmgame.com/news/202401/3885951.html)
 
++ [宫崎骏新作《你想活出怎样的人生》有望引进 档期待定](https://www.3dmgame.com/news/202401/3885957.html)
+
++ [横版卷轴动作冒险游戏《莫莫多拉: 月下告别》 现已在Steam上正式推出](https://www.3dmgame.com/news/202401/3885956.html)
+
++ [KK对战平台爆款地图《爆战兄弟》1月12日正式上线  五大福利狂撒百万U币！](https://www.3dmgame.com/news/202401/3885955.html)
+
++ [Ayaneo Next Lite正式公布 售价299美元](https://www.3dmgame.com/news/202401/3885954.html)
+

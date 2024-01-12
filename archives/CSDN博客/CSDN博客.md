@@ -151,3 +151,11 @@
 
 + [巧用 G5g 畅游Android流媒体游戏](https://blog.csdn.net/weixin_62765017/article/details/135417268)
 
++ [【码银送书第十一期】《自然语言生成SQL与知识图谱问答实战》](https://blog.csdn.net/weixin_53197693/article/details/135482157)
+
++ [【mysql】—— 用户管理](https://blog.csdn.net/m0_56069910/article/details/135478231)
+
++ [提升决策效率：探索NL2SQL和KBQA在实际应用中的奇迹](https://blog.csdn.net/m0_46833224/article/details/135485177)
+
++ [GaussDB技术解读系列：5分钟带您了解DRS录制回放](https://blog.csdn.net/GaussDB/article/details/135547482)
+

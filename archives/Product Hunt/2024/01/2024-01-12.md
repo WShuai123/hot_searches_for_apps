@@ -109,3 +109,21 @@
 
 + [Tembo Cloud](https://www.producthunt.com/posts/tembo-cloud)
 
++ [PlayAlgoShip](https://www.producthunt.com/posts/playalgoship)
+
++ [HoneyDo](https://www.producthunt.com/posts/honeydo-3)
+
++ [Archuos](https://www.producthunt.com/posts/archuos)
+
++ [Product Hunt Weekly Digest Podcast](https://www.producthunt.com/posts/product-hunt-weekly-digest-podcast)
+
++ [SkimAI - Productivity Assistant](https://www.producthunt.com/posts/skimai-productivity-assistant)
+
++ [ABC Finder](https://www.producthunt.com/posts/abc-finder)
+
++ [Presence](https://www.producthunt.com/posts/presence-10)
+
++ [Cargo for Sheets](https://www.producthunt.com/posts/cargo-for-sheets)
+
++ [Codebay.ai](https://www.producthunt.com/posts/codebay-ai)
+
