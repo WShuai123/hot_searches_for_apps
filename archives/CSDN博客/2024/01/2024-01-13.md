@@ -117,3 +117,7 @@
 
 + [语义解析：连接自然语言与机器智能的桥梁](https://blog.csdn.net/liu_chen_yang/article/details/135490304)
 
++ [【Pytorch简介】2.What are Tensors 什么是张量？](https://blog.csdn.net/ust36q08yr/article/details/135541529)
+
++ [银行的压力测试如何进行？](https://blog.csdn.net/xuezhangmen/article/details/135520882)
+
