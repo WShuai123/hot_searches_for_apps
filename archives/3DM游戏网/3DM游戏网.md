@@ -127,3 +127,29 @@
 
 + [《出租车生活：城市驾驶模拟器》预售现已开启](https://www.3dmgame.com/news/202401/3885905.html)
 
++ [互动式电影恋爱游戏《拜托！明天和我恋爱吧》Steam页面上线 Q1发售](https://www.3dmgame.com/news/202401/3885924.html)
+
++ [新版《贱女孩》IGN 7分 酷炫且精彩的翻拍](https://www.3dmgame.com/news/202401/3885923.html)
+
++ [视觉小说《约会大作战：莲反乌托邦》2024年登陆Steam 支持中文](https://www.3dmgame.com/news/202401/3885922.html)
+
++ [《吸血鬼幸存者》官方发布2023年度总结 在线合作模式仍在计划中](https://www.3dmgame.com/news/202401/3885921.html)
+
++ [手游公司Playtika裁员10% 以色列员工不受影响](https://www.3dmgame.com/news/202401/3885920.html)
+
++ [经典游戏《火箭骑士历险记: 重闪合集》推出 预购开启](https://www.3dmgame.com/news/202401/3885919.html)
+
++ [《沙漠大冒险》Steam预购开启 标准版定价298元](https://www.3dmgame.com/news/202401/3885917.html)
+
++ [网友反馈腾讯大量游戏服务器崩了 LOL和CF等游戏掉线](https://www.3dmgame.com/news/202401/3885916.html)
+
++ [DC游戏与电影、电视宇宙联动？华纳兄弟将制作DC正史游戏](https://www.3dmgame.com/news/202401/3885915.html)
+
++ [伊莎贝拉·莫塞德将在HBO剧版的《最后生还者》第二季中饰演蒂娜](https://www.3dmgame.com/news/202401/3885914.html)
+
++ [英国实体周榜：《霍格沃茨之遗》保持第一宝座](https://www.3dmgame.com/news/202401/3885913.html)
+
++ [《暗黑破坏神4》第三赛季情报将于1月19日公布](https://www.3dmgame.com/news/202401/3885912.html)
+
++ [科乐美足球《eFootball 2024》总下载量破7亿次](https://www.3dmgame.com/news/202401/3885918.html)
+

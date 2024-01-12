@@ -73,3 +73,7 @@
 
 + [【朵芊翻唱】碎月 “愿弃红尘无杂念”](http://www.acfun.cn/v/ac43484198)
 
++ [【东方】Flowery Dreams【maritumix/まりつみ Arrange】](http://www.acfun.cn/v/ac43488925)
+
++ [超视距铁线拳](http://www.acfun.cn/v/ac43492296)
+

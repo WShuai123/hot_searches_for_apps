@@ -123,3 +123,11 @@
 
 + [基于Flask的高并发部署方案](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/135539459)
 
++ [Qt优秀开源项目之二十一：遇见QSkinny，一个轻量级Qt UI库](https://blog.csdn.net/caoshangpa/article/details/135541234)
+
++ [lvs+keepalived+nginx双主模式双主热备实现负载均衡](https://blog.csdn.net/weixin_48878440/article/details/135446867)
+
++ [Kafka的简介及架构](https://blog.csdn.net/denglh525693/article/details/135538573)
+
++ [从传统部署到无服务器计算：AI应用在AWS平台上的革新与飞跃](https://blog.csdn.net/qq_32682301/article/details/135220273)
+

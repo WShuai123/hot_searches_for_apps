@@ -45,3 +45,11 @@
 
 + [Akira勒索软件团伙及其策略的全面解析](https://www.freebuf.com/articles/paper/389167.html)
 
++ [细粒度权限治理系列 | ABAC简介](https://www.freebuf.com/articles/es/389391.html)
+
++ [2023年度全球勒索赎金排行榜TOP10 | FreeBuf年度盘点](https://www.freebuf.com/articles/389456.html)
+
++ [财政部印发《关于加强数据资产管理的指导意见》](https://www.freebuf.com/news/389485.html)
+
++ [渗透测试 | 对Austin系统进行代码审计并利用文件读写漏洞实现Getshell](https://www.freebuf.com/articles/web/389171.html)
+
