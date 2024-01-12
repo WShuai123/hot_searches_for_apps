@@ -243,3 +243,5 @@
 
 + [《湮灭线》将于1月25日V1.0转正——最终章节湮灭神殿，全新设计的女性机甲](https://www.3dmgame.com/news/202401/3885958.html)
 
++ [285W功耗何所惧！RTX 4070 Ti第一次做成ITX迷你卡](https://www.3dmgame.com/news/202401/3885970.html)
+

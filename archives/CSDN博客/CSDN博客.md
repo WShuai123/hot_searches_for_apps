@@ -159,3 +159,7 @@
 
 + [GaussDB技术解读系列：5分钟带您了解DRS录制回放](https://blog.csdn.net/GaussDB/article/details/135547482)
 
++ [详解动态网页数据获取以及浏览器数据和网络数据交互流程-Python](https://blog.csdn.net/master_hunter/article/details/135543873)
+
++ [ChatGPT4+Python近红外光谱数据分析及机器学习与深度学习建模](https://blog.csdn.net/aishangyanxiu/article/details/135521449)
+
