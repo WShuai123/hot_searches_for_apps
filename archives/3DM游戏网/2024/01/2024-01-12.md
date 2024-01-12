@@ -257,3 +257,9 @@
 
 + [美商海盗船推出K55 Core RGB游戏键盘 超薄静音、售价329元](https://www.3dmgame.com/news/202401/3885976.html)
 
++ [传闻：迪士尼旗下皮克斯工作室今年将裁员20%](https://www.3dmgame.com/news/202401/3885979.html)
+
++ [像素风俯视角ARPG游戏《我的挚友》正式公开](https://www.3dmgame.com/news/202401/3885978.html)
+
++ [《自杀小队：战胜正义联盟》PC配置公开 4K上RTX3080](https://www.3dmgame.com/news/202401/3885977.html)
+

@@ -157,3 +157,7 @@
 
 + [PayMeForMyAI](https://www.producthunt.com/posts/paymeformyai)
 
++ [Hoeking Island](https://www.producthunt.com/posts/hoeking-island)
+
++ [Deep Tab Search for Google Chrome](https://www.producthunt.com/posts/deep-tab-search-for-google-chrome)
+
