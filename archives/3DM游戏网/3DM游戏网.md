@@ -245,3 +245,13 @@
 
 + [285W功耗何所惧！RTX 4070 Ti第一次做成ITX迷你卡](https://www.3dmgame.com/news/202401/3885970.html)
 
++ [妈宝龙斯莫德语音彩蛋，斯莫德能封号](https://www.3dmgame.com/news/202401/3885974.html)
+
++ [我的赔偿在哪里，腾讯游戏集体崩溃掉线，充值系统依旧正常](https://www.3dmgame.com/news/202401/3885975.html)
+
++ [荣耀宣布成龙担任品牌龙年大使 ：新年荣耀 一起成龙](https://www.3dmgame.com/news/202401/3885973.html)
+
++ [传闻：《女神异闻录》开发商Atlus正在为Netflix移动端开发游戏](https://www.3dmgame.com/news/202401/3885971.html)
+
++ [传闻：英伟达RTX 4080 SUPER显卡性能比原版高9%](https://www.3dmgame.com/news/202401/3885972.html)
+

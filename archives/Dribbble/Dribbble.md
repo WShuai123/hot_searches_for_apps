@@ -117,3 +117,11 @@
 
 + [Instagram stories design for cosmetics brand](https://dribbble.com/shots/)
 
++ [Odi Brand Agency for Early-Stage Startups](https://dribbble.com/shots/)
+
++ [BeHire Branding Case Study](https://dribbble.com/shots/)
+
++ [Starbase typo](https://dribbble.com/shots/)
+
++ [NVO: Card](https://dribbble.com/shots/)
+

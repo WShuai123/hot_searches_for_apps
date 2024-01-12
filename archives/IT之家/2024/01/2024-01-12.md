@@ -43,3 +43,5 @@
 
 + [比亚迪仰望 U7 更多参数公布：全球量产轿车最低风阻 Cd0.195](https://m.ithome.com/html/744747.htm)
 
++ [小米 WiFi 7 路由器 BE 3600 2.5G 版上架预约，首发不高于 299 元](https://m.ithome.com/html/744821.htm)
+
