@@ -187,3 +187,13 @@
 
 + [城市建造生存拟真游戏《耀斑纪元》官方发布13分钟游戏概述视频](https://www.3dmgame.com/news/202401/3885941.html)
 
++ [2024春节放假公布：连休8天 除夕不放假调休2天](https://www.3dmgame.com/news/202401/3885946.html)
+
++ [卡普空反Mod软件引多款游戏玩家联合反对](https://www.3dmgame.com/news/202401/3885943.html)
+
++ [第三人称俯视角动作冒险游戏《势不可挡》现已在Steam正式发售](https://www.3dmgame.com/news/202401/3885945.html)
+
++ [《胡须中队：幸存者》开发者承诺配音绝不用AI](https://www.3dmgame.com/news/202401/3885944.html)
+
++ [育碧承认《波斯王子：失落的王冠》包含AI配音内容 后续会替换](https://www.3dmgame.com/news/202401/3885942.html)
+
