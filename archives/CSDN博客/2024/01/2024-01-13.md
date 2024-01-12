@@ -99,3 +99,21 @@
 
 + [Win系统搭建Elasticsearch实现公网远程访问本地服务](https://blog.csdn.net/2301_78420308/article/details/135534253)
 
++ [设计一个简易版的数据库路由](https://blog.csdn.net/qq_40851232/article/details/135562679)
+
++ [OFDM系统信道估计误码率matlab仿真,对比LS,LMMSE,LR-LMMSE三种信道估计算法](https://blog.csdn.net/ccsss22/article/details/135511623)
+
++ [5个Linux性能监控命令](https://blog.csdn.net/heshihu2019/article/details/135538993)
+
++ [【深度学习 | 风格迁移】神经网络风格迁移，原理详解&附详细案例&源码](https://blog.csdn.net/weixin_66526635/article/details/135549097)
+
++ [新年烟花代码-html版](https://blog.csdn.net/weixin_45266979/article/details/135532561)
+
++ [基于微信辽宁沈阳某健身房私教预约小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135519841)
+
++ [【MySQL】聚合函数与分组查询](https://blog.csdn.net/qq_65207641/article/details/135048404)
+
++ [开源笔记工具AFFiNE本地部署并结合内网穿透](https://blog.csdn.net/weixin_46626339/article/details/135550785)
+
++ [语义解析：连接自然语言与机器智能的桥梁](https://blog.csdn.net/liu_chen_yang/article/details/135490304)
+

@@ -107,3 +107,11 @@
 
 + [《王国之泪》是2023年日本销量最好的游戏 NS硬件销量最高](https://www.3dmgame.com/news/202401/3885984.html)
 
++ [《东方DungeonMaker 心之迷城》新预告片公布](https://www.3dmgame.com/news/202401/3885990.html)
+
++ [东方主题冒险RPG《胡言山的魔理沙》面向PC公布](https://www.3dmgame.com/news/202401/3885989.html)
+
++ [《神之浩劫2》正式公布 虚幻5打造 预告片首曝](https://www.3dmgame.com/news/202401/3885988.html)
+
++ [《碧蓝幻想：Relink》PC系统需求公布 1060可玩](https://www.3dmgame.com/news/202401/3885987.html)
+

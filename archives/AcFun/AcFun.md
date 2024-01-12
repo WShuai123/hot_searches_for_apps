@@ -73,3 +73,5 @@
 
 + [演示翻车明哥汗流浃背？荣耀Magic6 Pro抓拍对比上演苹果没抓住苹果！](http://www.acfun.cn/v/ac43501586)
 
++ [今天吃兔兔](http://www.acfun.cn/v/ac43500237)
+
