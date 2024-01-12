@@ -181,3 +181,9 @@
 
 + [《波斯王子：失落的王冠》IGN评8分 该系列完美继承者](https://www.3dmgame.com/news/202401/3885930.html)
 
++ [《守望先锋2》本周实验新快速游戏模式 对战节奏更快](https://www.3dmgame.com/news/202401/3885939.html)
+
++ [《女神异闻录3 Reload》街道设施介绍影片 2月2日发售](https://www.3dmgame.com/news/202401/3885940.html)
+
++ [城市建造生存拟真游戏《耀斑纪元》官方发布13分钟游戏概述视频](https://www.3dmgame.com/news/202401/3885941.html)
+

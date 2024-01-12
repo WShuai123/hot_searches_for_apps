@@ -33,3 +33,5 @@
 
 + [荣耀官宣成龙为龙年大使 ：新年荣耀，一起成龙](https://m.ithome.com/html/744731.htm)
 
++ [特斯拉中国部分车型降价：Model 3 焕新版售 24.59 万元起，Model Y 售 25.89 万元起](https://m.ithome.com/html/744788.htm)
+
