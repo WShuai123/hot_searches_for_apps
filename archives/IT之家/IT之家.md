@@ -47,3 +47,9 @@
 
 + [小米超薄充电宝 5000mAh 开售：重 93g、20W MAX 快充，129 元](https://m.ithome.com/html/744846.htm)
 
++ [要知「要知」的……](https://m.ithome.com/html/744848.htm)
+
++ [微软市值超越苹果，达 2.89 万亿美元（更新：已被反超）](https://m.ithome.com/html/744757.htm)
+
++ [长城全新哈弗 H9 官图发布：大尺寸方盒子车身，可选 2.0T 汽油 / 2.4T 柴油](https://m.ithome.com/html/744832.htm)
+

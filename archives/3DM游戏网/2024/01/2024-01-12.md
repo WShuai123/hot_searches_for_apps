@@ -263,3 +263,5 @@
 
 + [《自杀小队：战胜正义联盟》PC配置公开 4K上RTX3080](https://www.3dmgame.com/news/202401/3885977.html)
 
++ [模拟游戏《出租生涯：模拟城市驾驶》将于3月8日发售](https://www.3dmgame.com/news/202401/3885980.html)
+
