@@ -127,3 +127,11 @@
 
 + [机器人制作开源方案 | 基于混合现实的可移动机械臂平台](https://blog.csdn.net/Robotway/article/details/135442553)
 
++ [Python系列（1）：简洁优雅，功能强大的编程语言](https://blog.csdn.net/apr15/article/details/135575500)
+
++ [【Docker】Linux中Docker镜像结构及自定义镜像，并且上传仓库可提供使用](https://blog.csdn.net/SAME_LOVE/article/details/135573944)
+
++ [Matlab数学建模算法之模拟退火算法（SA）详解](https://blog.csdn.net/ywsydwsbn/article/details/135188369)
+
++ [机器学习扩散模型简介](https://blog.csdn.net/gongdiwudu/article/details/135543397)
+
