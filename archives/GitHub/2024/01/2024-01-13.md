@@ -51,3 +51,41 @@
 
 + [ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 
++ [pandora-next / deploy](https://github.com/pandora-next/deploy)
+
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [ruby / ruby](https://github.com/ruby/ruby)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [ArchiveBox / ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [Meroser / IPTV](https://github.com/Meroser/IPTV)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
++ [apache / incubator-answer](https://github.com/apache/incubator-answer)
+
++ [yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android)
+
++ [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
++ [ardanlabs / service](https://github.com/ardanlabs/service)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
+
++ [ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA)
+
