@@ -199,3 +199,17 @@
 
 + [.NET core 中的Kestrel 服务器](https://blog.csdn.net/lwpoor123/article/details/135544085)
 
++ [计算机网络——应用层（3）](https://blog.csdn.net/weixin_74888502/article/details/135572343)
+
++ [【elastic search】JAVA操作elastic search](https://blog.csdn.net/Joker_ZJN/article/details/135515805)
+
++ [基于嵌入式的智能台灯系统](https://blog.csdn.net/weixin_42320020/article/details/135515589)
+
++ [【docker】Docker Stack 详细使用及注意事项](https://blog.csdn.net/wlddhj/article/details/135551401)
+
++ [微服务接口工具Swagger2](https://blog.csdn.net/weixin_73412838/article/details/135561287)
+
++ [2024美赛数学建模思路 - 复盘：校园消费行为分析](https://blog.csdn.net/dc_sinor/article/details/135570985)
+
++ [【数据库原理】（25）数据完整性](https://blog.csdn.net/qq_40951951/article/details/135568660)
+
