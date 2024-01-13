@@ -33,3 +33,11 @@
 
 + [中国奥委会指定医院，北京大学第三医院宣布加入华为鸿蒙生态](https://m.ithome.com/html/744974.htm)
 
++ [零下 30℃也有 600kW 充电，哈尔滨首座华为全液冷超充站上线](https://m.ithome.com/html/744977.htm)
+
++ [赠 30 元红包：京东 Plus 会员年卡 85 元天猫大促开启](https://m.ithome.com/html/744860.htm)
+
++ [五菱缤果 Plus 车型亮相：尺寸加大对标比亚迪海豚，续航有望超 500km](https://m.ithome.com/html/744856.htm)
+
++ [奥迪 SQ7 暗夜骑士版车型上市： 4.0T V8 发动机，售价 116.98 万元](https://m.ithome.com/html/744962.htm)
+

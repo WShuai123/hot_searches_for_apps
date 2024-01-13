@@ -141,3 +141,15 @@
 
 + [《守望先锋2》彻底大改：所有角色都自带治疗](https://www.3dmgame.com/news/202401/3885999.html)
 
++ [刘德华又要去超市上班了 《恭喜发财》谁还没听过](https://www.3dmgame.com/news/202401/3886009.html)
+
++ [七年前的今天，任天堂正式公布NS及首发游戏阵容](https://www.3dmgame.com/news/202401/3886008.html)
+
++ [世界气象组织：2023年为有记录以来最热年份！2024年更热](https://www.3dmgame.com/news/202401/3886007.html)
+
++ [V社持续改进AMD显卡Linux开源驱动 增强游戏性能](https://www.3dmgame.com/news/202401/3886006.html)
+
++ [《古墓丽影》动画版劳拉配音：剧本真的非常不错](https://www.3dmgame.com/news/202401/3886005.html)
+
++ [2023微博游戏大赏圆满落幕，原神、蛋仔派对等获评年度卓越热游](https://www.3dmgame.com/news/202401/3886004.html)
+
