@@ -101,3 +101,11 @@
 
 + [《神之浩劫2》正式公布 虚幻5打造 预告片首曝](https://www.3dmgame.com/news/202401/3885988.html)
 
++ [横版恐怖RPG《枯萎的房间》新增主机版](https://www.3dmgame.com/news/202401/3886041.html)
+
++ [《奥特罗斯》新预告片展示战斗和艺术效果](https://www.3dmgame.com/news/202401/3886039.html)
+
++ [《生化危机：启示录》引入新DRM的更新已被取消](https://www.3dmgame.com/news/202401/3886040.html)
+
++ [8位横版平台游戏《西蒙奎斯特历险记》公布](https://www.3dmgame.com/news/202401/3886038.html)
+
