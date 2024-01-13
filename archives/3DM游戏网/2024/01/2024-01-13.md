@@ -199,3 +199,13 @@
 
 + [马自达和丰田计划共同开发下一代车载系统 开发成本削减 70%-80%](https://www.3dmgame.com/news/202401/3886032.html)
 
++ [《真探》第四季IGN 9分：第一季以来最出色的篇章](https://www.3dmgame.com/news/202401/3886037.html)
+
++ [《生化危机4》迎来发售19周年](https://www.3dmgame.com/news/202401/3886036.html)
+
++ [《DOTA2》国家队获微博之夜年度影响力电竞团队](https://www.3dmgame.com/news/202401/3886035.html)
+
++ [杜夫·龙格尔：华纳毁掉了《海王2》 删掉了好几场戏](https://www.3dmgame.com/news/202401/3886034.html)
+
++ [《博德之门3》去年Steam营收超6.5亿美元](https://www.3dmgame.com/news/202401/3886033.html)
+
