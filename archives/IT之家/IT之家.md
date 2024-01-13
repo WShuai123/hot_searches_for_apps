@@ -47,3 +47,9 @@
 
 + [消息称腾讯将向抖音开放直播版权，《王者荣耀》最快 1 月 20 日开播](https://m.ithome.com/html/744966.htm)
 
++ [禁播 4 年，腾讯游戏《王者荣耀》官宣 1 月 21 日全面开放抖音直播](https://m.ithome.com/html/745025.htm)
+
++ [消息称英伟达 RTX 4080 SUPER 显卡性能比原版高 9%](https://m.ithome.com/html/744904.htm)
+
++ [苹果发布 Vision Pro 头显购买注意事项：需先用面容 ID 设备“刷脸”、提供视力状况](https://m.ithome.com/html/744984.htm)
+

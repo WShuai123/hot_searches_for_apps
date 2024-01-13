@@ -133,3 +133,17 @@
 
 + [学完C/C++，再学Python是一种什么体验？](https://blog.csdn.net/weixin_57544072/article/details/135554874)
 
++ [Linux OpenEuler(欧拉系统)无公网ip实现SSH远程连接](https://blog.csdn.net/weixin_62985813/article/details/135559502)
+
++ [即将被AI取代的工作](https://blog.csdn.net/czhui1993/article/details/135547922)
+
++ [最新实现人脸识别功能](https://blog.csdn.net/qq_56352725/article/details/135519043)
+
++ [微信小程序实战-03翻页时钟-3](https://blog.csdn.net/weixin_43708622/article/details/135562888)
+
++ [【RV1126 学习】SDK/ U-Boot/kernel/rootfs 编译学习](https://blog.csdn.net/Set_Mode/article/details/135562197)
+
++ [uniapp微信小程序投票系统实战 (SpringBoot2+vue3.2+element plus ) -投票帖子详情实现](https://blog.csdn.net/caoli201314/article/details/135517939)
+
++ [2023一带一路暨金砖国家技能发展与技术创新大赛 【企业信息系统安全赛项】国内赛竞赛样题](https://blog.csdn.net/Aluxian_/article/details/135547337)
+
