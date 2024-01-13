@@ -99,3 +99,31 @@
 
 + [【计算机网络概述】第二章：应用层：2.1 应用层原理](https://blog.csdn.net/2301_77868664/article/details/135258088)
 
++ [【.NET Core】Lazy＜T＞ 实现延迟加载详解](https://blog.csdn.net/songjianlong/article/details/135576551)
+
++ [基于python舆情分析可视化系统+情感分析+爬虫+机器学习（源码）✅](https://blog.csdn.net/vx_biyesheji0001/article/details/135575719)
+
++ [Rust 最新版1.75.0升级记](https://blog.csdn.net/boysoft2002/article/details/135445864)
+
++ [网络——华为与华三](https://blog.csdn.net/yj11290301/article/details/135569239)
+
++ [物联网协议Coap之Core和NetWork简介](https://blog.csdn.net/yelangkingwuzuhu/article/details/135565486)
+
++ [第二章 Spring Boot 整合 Kafka消息队列 生产者](https://blog.csdn.net/JPST228/article/details/135569333)
+
++ [2024 1.6~1.12 周报](https://blog.csdn.net/m0_56382522/article/details/135522492)
+
++ [竞赛保研 基于生成对抗网络的照片上色动态算法设计与实现 - 深度学习 opencv python](https://blog.csdn.net/iuerfee/article/details/135574858)
+
++ [匠心科技BLDC开发板原理图讲解](https://blog.csdn.net/weixin_65176607/article/details/135529031)
+
++ [在Python中调用狄拉克gamma矩阵](https://blog.csdn.net/m0_37816922/article/details/135481078)
+
++ [大创项目推荐 深度学习火车票识别系统](https://blog.csdn.net/laafeer/article/details/135557453)
+
++ [深入理解Spring IOC](https://blog.csdn.net/weixin_44543482/article/details/135574695)
+
++ [初学unity学习七天，经验收获总结](https://blog.csdn.net/wswq2505655377/article/details/135557546)
+
++ [机器人制作开源方案 | 基于混合现实的可移动机械臂平台](https://blog.csdn.net/Robotway/article/details/135442553)
+
