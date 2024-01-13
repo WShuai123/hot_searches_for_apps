@@ -201,3 +201,11 @@
 
 + [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
 
++ [抖音精选](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [数字小秀](https://itunes.apple.com/cn/app/id6474090860?mt=8)
+
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+
++ [会玩 - 聚一起更好玩](https://itunes.apple.com/cn/app/id790133739?mt=8)
+
