@@ -41,3 +41,9 @@
 
 + [奥迪 SQ7 暗夜骑士版车型上市： 4.0T V8 发动机，售价 116.98 万元](https://m.ithome.com/html/744962.htm)
 
++ [realme 真我 12 Pro + 手机规格曝光：骁龙 7s Gen 2 处理器 + IMX890 主摄](https://m.ithome.com/html/744976.htm)
+
++ [消息称苹果 iPhone 16 Pro 迈入“Proto2”开发阶段：新增拍照按钮、不放大操作按钮](https://m.ithome.com/html/744985.htm)
+
++ [消息称腾讯将向抖音开放直播版权，《王者荣耀》最快 1 月 20 日开播](https://m.ithome.com/html/744966.htm)
+

@@ -131,3 +131,5 @@
 
 + [使用Python爬取小红书笔记与评论（js注入方式获取x-s）](https://blog.csdn.net/qiulin_wu/article/details/135521867)
 
++ [学完C/C++，再学Python是一种什么体验？](https://blog.csdn.net/weixin_57544072/article/details/135554874)
+
