@@ -147,3 +147,15 @@
 
 + [2023一带一路暨金砖国家技能发展与技术创新大赛 【企业信息系统安全赛项】国内赛竞赛样题](https://blog.csdn.net/Aluxian_/article/details/135547337)
 
++ [【MyBatis】动态SQL](https://blog.csdn.net/m0_73888323/article/details/135330102)
+
++ [数据分析实战丨基于flask+pygal可视化分析sqlite中的数据](https://blog.csdn.net/m0_68111267/article/details/135549055)
+
++ [【MySQL】：DDL中的数据库定义与操作](https://blog.csdn.net/a1657054242/article/details/135566349)
+
++ [阿里云服务部署docker容器](https://blog.csdn.net/m0_58552717/article/details/135567212)
+
++ [微信小程序腾讯位置服务](https://blog.csdn.net/Rouer_jia/article/details/135554560)
+
++ [几款优秀科学开源计算软件介绍](https://blog.csdn.net/skywalk8163/article/details/135501287)
+

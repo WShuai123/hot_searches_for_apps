@@ -53,3 +53,7 @@
 
 + [苹果发布 Vision Pro 头显购买注意事项：需先用面容 ID 设备“刷脸”、提供视力状况](https://m.ithome.com/html/744984.htm)
 
++ [北京首家华为旗舰店今日开业：位于王府井步行街银泰 in88 大厦，占地超 1200㎡](https://m.ithome.com/html/745013.htm)
+
++ [三星 Galaxy S24 系列手机新海报曝光：主打 AI 功能、支持 7 年系统更新](https://m.ithome.com/html/745002.htm)
+

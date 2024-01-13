@@ -49,3 +49,5 @@
 
 + [Apache ActiveMQ 远程代码执行漏洞分析](https://www.freebuf.com/vuls/389184.html)
 
++ [Hades-C2：一款功能强大的纯Python命令控制服务器](https://www.freebuf.com/sectool/388903.html)
+

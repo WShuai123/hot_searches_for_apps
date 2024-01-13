@@ -161,3 +161,13 @@
 
 + [台积电、力积电海外代工扩张遇挑战：成本飙升2.5-4倍](https://www.3dmgame.com/news/202401/3886011.html)
 
++ [任天堂领跑日本软件销量榜20年 去年销量榜霸占前十](https://www.3dmgame.com/news/202401/3886017.html)
+
++ [Gearbox旗下另一家工作室再受Embracer裁员影响](https://www.3dmgame.com/news/202401/3886018.html)
+
++ [开放世界动作角色扮演游戏《鼠鼠英雄》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3886016.html)
+
++ [网球游戏《顶尖决胜》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202401/3886014.html)
+
++ [《神之浩劫2》不含前作部分内容 补偿老玩家等值货币](https://www.3dmgame.com/news/202401/3886015.html)
+
