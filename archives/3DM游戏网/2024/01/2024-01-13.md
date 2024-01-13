@@ -131,3 +131,13 @@
 
 + [《星空》发售后最大更新要来 1月17日进入Steam Beta测试](https://www.3dmgame.com/news/202401/3885991.html)
 
++ [《深岩银河》公布2023年度总结：销量已超8百万部](https://www.3dmgame.com/news/202401/3886003.html)
+
++ [《生化危机7》阿尔伯特·威斯克手枪模型重新开售](https://www.3dmgame.com/news/202401/3886002.html)
+
++ [吉田直树：也许该年轻人领导开发《最终幻想17》了](https://www.3dmgame.com/news/202401/3886001.html)
+
++ [《巴别塔》Steam页面上线 今年2月发售](https://www.3dmgame.com/news/202401/3886000.html)
+
++ [《守望先锋2》彻底大改：所有角色都自带治疗](https://www.3dmgame.com/news/202401/3885999.html)
+

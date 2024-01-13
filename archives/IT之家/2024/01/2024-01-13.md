@@ -31,3 +31,5 @@
 
 + [小米 14 / 14 Pro 限定色机型上架预约：源自小米汽车 SU7，4999 元起](https://m.ithome.com/html/744973.htm)
 
++ [中国奥委会指定医院，北京大学第三医院宣布加入华为鸿蒙生态](https://m.ithome.com/html/744974.htm)
+

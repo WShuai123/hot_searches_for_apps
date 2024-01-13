@@ -163,3 +163,15 @@
 
 + [Rock Illustrations](https://dribbble.com/shots/)
 
++ [Rey Mago](https://dribbble.com/shots/)
+
++ [Zermatt, Switzerland Book & Poster](https://dribbble.com/shots/)
+
++ [Wild Stripes ????????](https://dribbble.com/shots/)
+
++ [Search Spot illustrations](https://dribbble.com/shots/)
+
++ [Self Portrait, 2024](https://dribbble.com/shots/)
+
++ [Pilgrim's Progress Playing Cards](https://dribbble.com/shots/)
+

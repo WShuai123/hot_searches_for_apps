@@ -127,3 +127,5 @@
 
 + [2024美赛数学建模思路 - 复盘：光照强度计算的优化模型](https://blog.csdn.net/dc_sinor/article/details/135531361)
 
++ [无代码DIY图像检索](https://blog.csdn.net/colorknight/article/details/135514105)
+
