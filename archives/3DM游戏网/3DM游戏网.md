@@ -187,3 +187,13 @@
 
 + [《自杀小队：战胜正义联盟》10分钟实机 2月2日发售](https://www.3dmgame.com/news/202401/3886019.html)
 
++ [2023中国互联网用户规模最多App一览 第一毫无悬念](https://www.3dmgame.com/news/202401/3886031.html)
+
++ [美国X-59静音超音速喷气机亮相 音爆噪声仅75分贝](https://www.3dmgame.com/news/202401/3886030.html)
+
++ [厂商疯狂暗示 《监狱建筑师2》或将于下周正式公布](https://www.3dmgame.com/news/202401/3886029.html)
+
++ [玩家UE5自制《古墓丽影》《凯恩的遗产》重制版](https://www.3dmgame.com/news/202401/3886028.html)
+
++ [卡普空宣布暂时回滚《生化危机：启示录》更新档](https://www.3dmgame.com/news/202401/3886027.html)
+

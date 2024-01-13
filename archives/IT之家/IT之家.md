@@ -57,3 +57,5 @@
 
 + [三星 Galaxy S24 系列手机新海报曝光：主打 AI 功能、支持 7 年系统更新](https://m.ithome.com/html/745002.htm)
 
++ [Windows on ARM 将不再由骁龙独占，消息称高通微软排他性协议今年到期](https://m.ithome.com/html/745027.htm)
+

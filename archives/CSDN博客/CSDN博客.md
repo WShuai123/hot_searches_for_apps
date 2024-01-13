@@ -171,3 +171,19 @@
 
 + [他们说 GPT Store 像应用商店，我却看到了微信小程序的影子](https://blog.csdn.net/HyperAI/article/details/135559504)
 
++ [数据挖掘实战-基于机器学习的电商文本分类模型](https://blog.csdn.net/m0_64336780/article/details/135442414)
+
++ [使用Mixtral-offloading在消费级硬件上运行Mixtral-8x7B](https://blog.csdn.net/m0_46510245/article/details/135565951)
+
++ [CES 2024：AI智能大爆发，引领科技新纪元](https://blog.csdn.net/zhinaer/article/details/135524191)
+
++ [VGAN实现视网膜图像血管分割（基于pytorch）](https://blog.csdn.net/weixin_57506268/article/details/135567487)
+
++ [GPT function calling v2](https://blog.csdn.net/javastart/article/details/135517099)
+
++ [OpenHarmony—子系统开发之内核概述](https://blog.csdn.net/m0_70749039/article/details/135556005)
+
++ [【计算机网络概述】第二章：应用层：2.1 应用层原理](https://blog.csdn.net/2301_77868664/article/details/135258088)
+
++ [初学unity学习七天，经验收获总结](https://blog.csdn.net/wswq2505655377/article/details/135557546)
+
