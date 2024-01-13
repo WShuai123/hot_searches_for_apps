@@ -91,3 +91,7 @@
 
 + [这是一段男人很难拒绝的视频](http://www.acfun.cn/v/ac43500471)
 
++ [军粮试吃：俄罗斯士兵日常餐吃什么？](http://www.acfun.cn/v/ac43501463)
+
++ [【小子贼疯×位位位位子】また君と（再度和你）【JAY ED/Ms.OOJA】](http://www.acfun.cn/v/ac43493235)
+
