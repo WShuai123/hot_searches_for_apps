@@ -221,3 +221,7 @@
 
 + [星芽短剧-热门全网短剧随意看](https://itunes.apple.com/cn/app/id6460586819?mt=8)
 
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+
++ [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
+
