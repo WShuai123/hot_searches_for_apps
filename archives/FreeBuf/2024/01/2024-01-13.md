@@ -45,3 +45,5 @@
 
 + [《中国人民银行业务领域数据安全管理办法》与个人信息保护关键技术研究](https://www.freebuf.com/news/388462.html)
 
++ [旧坑新伤 —— 授权恶意合约被盗分析](https://www.freebuf.com/articles/blockchain-articles/388926.html)
+

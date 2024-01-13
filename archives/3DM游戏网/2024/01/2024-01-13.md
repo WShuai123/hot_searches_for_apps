@@ -115,3 +115,19 @@
 
 + [《碧蓝幻想：Relink》PC系统需求公布 1060可玩](https://www.3dmgame.com/news/202401/3885987.html)
 
++ [卡普空宣布为能登半岛地震捐助1.2亿日元](https://www.3dmgame.com/news/202401/3885998.html)
+
++ [ARPG游戏《我的挚友》Steam页面上线 今年发售](https://www.3dmgame.com/news/202401/3885997.html)
+
++ [Fami通日本销量月榜：《勇者斗恶龙怪兽篇3》登顶](https://www.3dmgame.com/news/202401/3885996.html)
+
++ [PS5 2023年日本销量260万台 是2022年的两倍](https://www.3dmgame.com/news/202401/3885994.html)
+
++ [大型军武类载具射击游戏《吉光》Steam页面上线 第一季度发售](https://www.3dmgame.com/news/202401/3885995.html)
+
++ [世嘉任命内海州史为公司欧美分部首席执行官](https://www.3dmgame.com/news/202401/3885993.html)
+
++ [《自杀小队：战胜正义联盟》对AMD的硬件有点偏高](https://www.3dmgame.com/news/202401/3885992.html)
+
++ [《星空》发售后最大更新要来 1月17日进入Steam Beta测试](https://www.3dmgame.com/news/202401/3885991.html)
+
