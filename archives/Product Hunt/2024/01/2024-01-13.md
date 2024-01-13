@@ -117,3 +117,15 @@
 
 + [Mural](https://www.producthunt.com/posts/mural-3)
 
++ [Personage](https://www.producthunt.com/posts/personage)
+
++ [Teleform](https://www.producthunt.com/posts/teleform)
+
++ [iTeach](https://www.producthunt.com/posts/iteach)
+
++ [Hermeso](https://www.producthunt.com/posts/hermeso)
+
++ [ocrX Image to Text](https://www.producthunt.com/posts/ocrx-image-to-text)
+
++ [Dinnerfy](https://www.producthunt.com/posts/dinnerfy)
+

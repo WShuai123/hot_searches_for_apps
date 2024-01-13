@@ -171,3 +171,19 @@
 
 + [《神之浩劫2》不含前作部分内容 补偿老玩家等值货币](https://www.3dmgame.com/news/202401/3886015.html)
 
++ [《波斯王子：失落王冠》各平台版本下载容量曝光](https://www.3dmgame.com/news/202401/3886026.html)
+
++ [《黑客帝国》墨菲斯将饰演《巫师》美剧吸血鬼雷吉斯](https://www.3dmgame.com/news/202401/3886025.html)
+
++ [传世嘉另有三款游戏复活 《樱花大战》再次回归？](https://www.3dmgame.com/news/202401/3886024.html)
+
++ [《冰汽时代2》实机演示 1月16日公布](https://www.3dmgame.com/news/202401/3886023.html)
+
++ [《王者荣耀》3D动画剧集开播 被吐槽李白诗人变刺客](https://www.3dmgame.com/news/202401/3886022.html)
+
++ [传言称Raven Software正在针对经典IP进行开发](https://www.3dmgame.com/news/202401/3886021.html)
+
++ [味道回来了！《波斯王子：失落王冠》广受好评](https://www.3dmgame.com/news/202401/3886020.html)
+
++ [《自杀小队：战胜正义联盟》10分钟实机 2月2日发售](https://www.3dmgame.com/news/202401/3886019.html)
+
