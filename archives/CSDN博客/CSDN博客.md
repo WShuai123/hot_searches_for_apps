@@ -103,3 +103,29 @@
 
 + [Docker进阶数据卷&目录挂载及在线部署](https://blog.csdn.net/weixin_73320743/article/details/135551431)
 
++ [JavaAPI](https://blog.csdn.net/2301_76556912/article/details/134465269)
+
++ [Web前端 ---- 【Vue3】computed计算属性和watch侦听属性(侦听被ref和reactive包裹的数据)](https://blog.csdn.net/weixin_68854196/article/details/135587386)
+
++ [基于python舆情分析可视化系统+情感分析+爬虫+机器学习（源码）✅](https://blog.csdn.net/vx_biyesheji0001/article/details/135575719)
+
++ [机器学习Caret--R处理不平衡数据](https://blog.csdn.net/lijunhcn/article/details/135581277)
+
++ [如何异地链接Pycharm服务器进行远程开发并实现与公司服务器资源同步](https://blog.csdn.net/2301_77053417/article/details/135567936)
+
++ [zybo——嵌入式笔记](https://blog.csdn.net/m0_74215144/article/details/135588793)
+
++ [React16源码: React中调度之scheduleWork的源码实现](https://blog.csdn.net/Tyro_java/article/details/135581564)
+
++ [HLS + ffmpeg 实现动态码流视频服务](https://blog.csdn.net/qq_52703909/article/details/135575666)
+
++ [机器学习周记（第二十五周：文献阅读-DSTIGNN）2024.1.8~2024.1.14](https://blog.csdn.net/DominaterWE/article/details/135458590)
+
++ [自动驾驶车辆运动规划方法综述 - 论文阅读](https://blog.csdn.net/BigDavid123/article/details/135580407)
+
++ [解析MPC多方计算钱包：私钥分片与备份的新安全前沿](https://blog.csdn.net/qq_33842966/article/details/135547939)
+
++ [【论文阅读】Consistency Models](https://blog.csdn.net/weixin_43843835/article/details/135585053)
+
++ [springboot集成钉钉通知](https://blog.csdn.net/m0_72167535/article/details/135465475)
+
