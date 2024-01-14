@@ -99,3 +99,11 @@
 
 + [望子成龙终成“狗”，40年前的国产电影，至今还值得一看！《包氏父子》](http://www.acfun.cn/v/ac43509900)
 
++ [【十拍F5#】Earth,Wind&Fire - Win Or Lose【Cover by 叫ぶ獣】](http://www.acfun.cn/v/ac43512123)
+
++ [生活在大阪](http://www.acfun.cn/v/ac43510972)
+
++ [在赛博朋克中寻找自我，极致的作画和剧情《攻壳机动队1995》](http://www.acfun.cn/v/ac43508776)
+
++ [空气质量检测仪拆解，用洗板水的时候注意防范甲醛](http://www.acfun.cn/v/ac43512658)
+

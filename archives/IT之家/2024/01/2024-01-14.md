@@ -43,3 +43,5 @@
 
 + [部分亚马逊卖家用 ChatGPT 上架商品，导致商品名变成“抱歉，违反 OpenAI 政策”](https://m.ithome.com/html/745102.htm)
 
++ [《王者荣耀》首部 3D 动画剧集今日开播，每周六早 10 点更新](https://m.ithome.com/html/745067.htm)
+
