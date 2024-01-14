@@ -169,3 +169,5 @@
 
 + [《使命召唤4》RTX Remix Mod为游戏加入光追效果](https://www.3dmgame.com/news/202401/3886071.html)
 
++ [微软和高通Windows On Arm排他性协议今年到期](https://www.3dmgame.com/news/202401/3886072.html)
+

@@ -51,3 +51,39 @@
 
 + [ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA)
 
++ [EpicGames / raddebugger](https://github.com/EpicGames/raddebugger)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
++ [marimo-team / marimo](https://github.com/marimo-team/marimo)
+
++ [Portkey-AI / gateway](https://github.com/Portkey-AI/gateway)
+
++ [tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+
++ [MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)
+
++ [MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+
++ [vinta / awesome-python](https://github.com/vinta/awesome-python)
+
++ [valinet / ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
++ [tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions)
+
++ [actualbudget / actual](https://github.com/actualbudget/actual)
+
++ [linexjlin / GPTs](https://github.com/linexjlin/GPTs)
+
++ [JushBJJ / Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [stenzek / duckstation](https://github.com/stenzek/duckstation)
+
++ [nextcloud / all-in-one](https://github.com/nextcloud/all-in-one)
+

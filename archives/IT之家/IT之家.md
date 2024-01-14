@@ -49,3 +49,13 @@
 
 + [OpenAI 悄然更新使用政策，删除“明确禁止将技术用于军事、战争”措辞](https://m.ithome.com/html/745092.htm)
 
++ [马斯克：特斯拉 Cybertruck 电动皮卡车很难在中国合法上路](https://m.ithome.com/html/745154.htm)
+
++ [消息称小米 14 Ultra 手机进入最后测试阶段，骁龙 8 Gen 2 平板一同发布](https://m.ithome.com/html/745183.htm)
+
++ [哪吒 S 增程车型满油满电实测：实际续航 980km，负重 270kg、百公里油耗 5.4L](https://m.ithome.com/html/745121.htm)
+
++ [X100 Pro 机型推送全高频 PWM，vivo 产品经理：功耗影响平均 2-3%](https://m.ithome.com/html/745147.htm)
+
++ [秘鲁“外星人遗体”鉴定结果出炉：人工合成的人偶](https://m.ithome.com/html/745175.htm)
+
