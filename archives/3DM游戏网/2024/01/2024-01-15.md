@@ -107,3 +107,7 @@
 
 + [腾讯抖音正式“拆墙”破冰：内幕曝光](https://www.3dmgame.com/news/202401/3886077.html)
 
++ [《海贼王》作者早期作品《Monsters》改编动画](https://www.3dmgame.com/news/202401/3886081.html)
+
++ [《铁拳8》公布开场动画及首个DLC角色](https://www.3dmgame.com/news/202401/3886080.html)
+
