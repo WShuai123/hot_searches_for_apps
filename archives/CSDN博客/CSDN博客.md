@@ -101,3 +101,5 @@
 
 + [【grid】pytorch中的Flow_filed，MES，affine_gridHGRID，GRID_SAMPLE详解](https://blog.csdn.net/prinTao/article/details/135586307)
 
++ [Docker进阶数据卷&目录挂载及在线部署](https://blog.csdn.net/weixin_73320743/article/details/135551431)
+
