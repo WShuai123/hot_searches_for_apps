@@ -173,3 +173,5 @@
 
 + [PlayGround大肆招人 加速开发新《神鬼寓言》](https://www.3dmgame.com/news/202401/3886073.html)
 
++ [《自杀小队：战胜正义联盟》首发将提供数百种Build组合 发售后将有大量新内容](https://www.3dmgame.com/news/202401/3886074.html)
+

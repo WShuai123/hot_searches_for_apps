@@ -63,3 +63,7 @@
 
 + [网友称自家智能洗衣机日吞 3.7GB 流量，真相竟是路由器误报](https://m.ithome.com/html/745166.htm)
 
++ [微博出现大批 AI 机器人受害者](https://m.ithome.com/html/745145.htm)
+
++ [松下工业承认数据造假数十年：相关产品不会停止出货也不会召回](https://m.ithome.com/html/745193.htm)
+
