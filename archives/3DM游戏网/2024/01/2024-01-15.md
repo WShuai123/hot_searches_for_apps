@@ -101,3 +101,9 @@
 
 + [卡普空宣布暂时回滚《生化危机：启示录》更新档](https://www.3dmgame.com/news/202401/3886027.html)
 
++ [数据显示：PS5用户单机游戏时间多于多人部分](https://www.3dmgame.com/news/202401/3886079.html)
+
++ [《主播女孩重度依赖》销量破150万套 发售即将二周年](https://www.3dmgame.com/news/202401/3886078.html)
+
++ [腾讯抖音正式“拆墙”破冰：内幕曝光](https://www.3dmgame.com/news/202401/3886077.html)
+
