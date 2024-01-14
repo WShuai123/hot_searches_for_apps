@@ -67,3 +67,5 @@
 
 + [客人点盘经典老菜油焖大虾，老板娘非要多给几个，这样还能赚钱吗](http://www.acfun.cn/v/ac43518824)
 
++ [Hot Summer先放个小片段～](http://www.acfun.cn/v/ac43512661)
+
