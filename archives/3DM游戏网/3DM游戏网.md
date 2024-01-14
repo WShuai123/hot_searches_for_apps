@@ -171,3 +171,5 @@
 
 + [微软和高通Windows On Arm排他性协议今年到期](https://www.3dmgame.com/news/202401/3886072.html)
 
++ [PlayGround大肆招人 加速开发新《神鬼寓言》](https://www.3dmgame.com/news/202401/3886073.html)
+
