@@ -143,3 +143,5 @@
 
 + [《酒馆经理模拟器》Steam页面上线 幻想风格经营新游](https://www.3dmgame.com/news/202401/3886056.html)
 
++ [经典《魔神英雄传》确定推出全新动画《魔神创造传》](https://www.3dmgame.com/news/202401/3886059.html)
+
