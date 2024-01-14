@@ -163,3 +163,7 @@
 
 + [2023年PC游戏销量与收入排行 《博德之门3》登顶](https://www.3dmgame.com/news/202401/3886066.html)
 
++ [《BoardLand》免费登陆Steam 掷筛子回合策略棋盘新游](https://www.3dmgame.com/news/202401/3886070.html)
+
++ [《街头霸王X铁拳》或将重新在Steam平台销售](https://www.3dmgame.com/news/202401/3886069.html)
+

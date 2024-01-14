@@ -45,3 +45,7 @@
 
 + [《王者荣耀》首部 3D 动画剧集今日开播，每周六早 10 点更新](https://m.ithome.com/html/745067.htm)
 
++ [微软：不会强制电脑厂商添加 Copilot 键，也不会将其用于设备硬件认证](https://m.ithome.com/html/745095.htm)
+
++ [OpenAI 悄然更新使用政策，删除“明确禁止将技术用于军事、战争”措辞](https://m.ithome.com/html/745092.htm)
+
