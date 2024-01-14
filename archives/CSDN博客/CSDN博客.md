@@ -147,3 +147,9 @@
 
 + [HiveSQL分区表的作用及创建分区表案例演示(图解)](https://blog.csdn.net/HGl1327401792/article/details/135571695)
 
++ [大数据深度学习卷积神经网络CNN：CNN结构、训练与优化一文全解](https://blog.csdn.net/Myx74270512/article/details/135578359)
+
++ [【网络】网络层ICMP协议](https://blog.csdn.net/qq_35995514/article/details/135519763)
+
++ [嵌入式必备的WEB知识](https://blog.csdn.net/m0_73731708/article/details/135569416)
+

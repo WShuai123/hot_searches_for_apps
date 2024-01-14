@@ -35,3 +35,5 @@
 
 + [全新一代雷克萨斯 GX 上市：全新普拉多“同款”车身，77.8 万元起售](https://m.ithome.com/html/745090.htm)
 
++ [TP-LINK 推出 BE5100 Wi-Fi 7 千兆双频路由器：2.5G 网口，首发 279 元](https://m.ithome.com/html/745105.htm)
+

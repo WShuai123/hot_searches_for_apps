@@ -131,3 +131,9 @@
 
 + [泄露信息显示PS5多项市场表现优于前代主机PS4](https://www.3dmgame.com/news/202401/3886049.html)
 
++ [《自杀小队》开发商花一年时间删除游戏装备评分系统](https://www.3dmgame.com/news/202401/3886053.html)
+
++ [卡普空遭遇大量差评轰炸 新DRM应用作品列表曝光](https://www.3dmgame.com/news/202401/3886054.html)
+
++ [发射失败依然庆祝 马斯克仍然对星舰发射成功充满信心](https://www.3dmgame.com/news/202401/3886055.html)
+
