@@ -41,3 +41,5 @@
 
 + [丰田章男：发动机在实现碳中和中仍将发挥作用，公司已启动新型内燃机开发](https://m.ithome.com/html/745075.htm)
 
++ [部分亚马逊卖家用 ChatGPT 上架商品，导致商品名变成“抱歉，违反 OpenAI 政策”](https://m.ithome.com/html/745102.htm)
+

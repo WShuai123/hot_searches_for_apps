@@ -175,3 +175,9 @@
 
 + [大创项目推荐 深度学习疫情社交安全距离检测算法 - python opencv cnn](https://blog.csdn.net/laafeer/article/details/135574210)
 
++ [Azure Machine Learning - 视频AI技术](https://blog.csdn.net/magicyangjay111/article/details/135580921)
+
++ [【elastic search】详解elastic search集群](https://blog.csdn.net/Joker_ZJN/article/details/135581380)
+
++ [【AIGC】IP-Adapter：文本兼容图像提示适配器，用于文本到图像扩散模型](https://blog.csdn.net/qq_44091004/article/details/135577083)
+

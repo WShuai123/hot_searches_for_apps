@@ -151,3 +151,9 @@
 
 + [《王者荣耀》新增KPL年度总决赛 总奖金池达1亿元](https://www.3dmgame.com/news/202401/3886060.html)
 
++ [小米14系列官方商城评价超112万：99%好评](https://www.3dmgame.com/news/202401/3886063.html)
+
++ [PC新游《记忆侦探：Akira》年内Steam抢测 肉鸽卡组构建](https://www.3dmgame.com/news/202401/3886064.html)
+
++ [《堡垒之夜》12月主机版总游戏时长大幅碾压其它作品](https://www.3dmgame.com/news/202401/3886065.html)
+
