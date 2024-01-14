@@ -113,3 +113,11 @@
 
 + [动作游戏《莫莫多拉：月下告别》Steam特别好评](https://www.3dmgame.com/news/202401/3886042.html)
 
++ [29000亿美元！微软开盘市值超越苹果重回全球第一](https://www.3dmgame.com/news/202401/3886046.html)
+
++ [《Dead Tomb》即将发售 复古风探索解谜新游](https://www.3dmgame.com/news/202401/3886047.html)
+
++ [Raven曾想开发《使命召唤：僵尸》服务型游戏 但后来被取消](https://www.3dmgame.com/news/202401/3886045.html)
+
++ [《水晶物语》登陆Steam 16bit风动作RPG新游](https://www.3dmgame.com/news/202401/3886044.html)
+

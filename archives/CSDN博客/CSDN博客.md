@@ -141,3 +141,9 @@
 
 + [DP读书：《openEuler操作系统》（八）TCP、UDP与跨机器通讯](https://blog.csdn.net/m0_74037814/article/details/135577916)
 
++ [Kubernetes 集群管理—日志架构](https://blog.csdn.net/leesinbad/article/details/135576487)
+
++ [机器人模仿学习之动作分块ACT算法的代码剖析、部署训练](https://blog.csdn.net/v_JULY_v/article/details/135566948)
+
++ [HiveSQL分区表的作用及创建分区表案例演示(图解)](https://blog.csdn.net/HGl1327401792/article/details/135571695)
+
