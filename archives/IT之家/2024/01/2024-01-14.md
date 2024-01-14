@@ -29,3 +29,7 @@
 
 + [联想新款拯救者 Y9000X 游戏本预热：主打颜值，可选 i9-14900HX 和 RTX4070](https://m.ithome.com/html/745058.htm)
 
++ [消息称华为鸿蒙智行加入新成员，“享界”和“傲界”车型即将登场](https://m.ithome.com/html/745103.htm)
+
++ [CES 2024 年度创新奖重磅揭晓：35 个产品拿下“金标”大奖，华硕、三星等入选](https://m.ithome.com/html/745094.htm)
+

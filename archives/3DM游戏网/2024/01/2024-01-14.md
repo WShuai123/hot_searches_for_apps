@@ -109,3 +109,7 @@
 
 + [8位横版平台游戏《西蒙奎斯特历险记》公布](https://www.3dmgame.com/news/202401/3886038.html)
 
++ [动作平台游戏《奥特罗斯》新预告 展示战斗和美术](https://www.3dmgame.com/news/202401/3886043.html)
+
++ [动作游戏《莫莫多拉：月下告别》Steam特别好评](https://www.3dmgame.com/news/202401/3886042.html)
+

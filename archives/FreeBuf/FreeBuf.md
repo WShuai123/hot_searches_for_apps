@@ -41,3 +41,7 @@
 
 + [智能汽车网络安全的那些事 | 测试篇](https://www.freebuf.com/articles/endpoint/388022.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/389527.html)
+
++ [利用pow工作量证明降低黑产的破解效率](https://www.freebuf.com/articles/network/388354.html)
+
