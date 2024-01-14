@@ -121,3 +121,13 @@
 
 + [《水晶物语》登陆Steam 16bit风动作RPG新游](https://www.3dmgame.com/news/202401/3886044.html)
 
++ [《传奇重装步兵》免费登陆Steam 塔防动作RPG](https://www.3dmgame.com/news/202401/3886052.html)
+
++ [恐龙生存新作《Instinction》曝7分钟实机](https://www.3dmgame.com/news/202401/3886048.html)
+
++ [《电脑维修店》登陆Steam 奸商电脑修理工模拟器](https://www.3dmgame.com/news/202401/3886051.html)
+
++ [PS Stars系统故障修复 部分用户余额被修复为负数](https://www.3dmgame.com/news/202401/3886050.html)
+
++ [泄露信息显示PS5多项市场表现优于前代主机PS4](https://www.3dmgame.com/news/202401/3886049.html)
+
