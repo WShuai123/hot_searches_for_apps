@@ -187,3 +187,9 @@
 
 + [树莓派ubuntu22桌面配置（一）](https://blog.csdn.net/qq_42087574/article/details/135572772)
 
++ [云卷云舒：独立式向量数据库？数据库向量式插件？](https://blog.csdn.net/bishenghua/article/details/135536698)
+
++ [Python商业数据挖掘实战——爬取网页并将其转为Markdown](https://blog.csdn.net/Why_does_it_work/article/details/135488020)
+
++ [Handsfree_ros_imu：ROS机器人IMU模块的hfi_a9.py文件学习记录](https://blog.csdn.net/qq_54900679/article/details/135554679)
+

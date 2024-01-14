@@ -167,3 +167,5 @@
 
 + [《街头霸王X铁拳》或将重新在Steam平台销售](https://www.3dmgame.com/news/202401/3886069.html)
 
++ [《使命召唤4》RTX Remix Mod为游戏加入光追效果](https://www.3dmgame.com/news/202401/3886071.html)
+
