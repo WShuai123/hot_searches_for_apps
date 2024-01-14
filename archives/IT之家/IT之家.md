@@ -39,3 +39,5 @@
 
 + [英特尔酷睿 Ultra 7 165H 处理器实测：单核性能不如酷睿 i7-13700H](https://m.ithome.com/html/745059.htm)
 
++ [丰田章男：发动机在实现碳中和中仍将发挥作用，公司已启动新型内燃机开发](https://m.ithome.com/html/745075.htm)
+

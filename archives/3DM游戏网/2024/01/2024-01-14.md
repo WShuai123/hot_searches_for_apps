@@ -145,3 +145,9 @@
 
 + [经典《魔神英雄传》确定推出全新动画《魔神创造传》](https://www.3dmgame.com/news/202401/3886059.html)
 
++ [经典《Atari 400 Mini》复刻主机公开 预定三月北美发售](https://www.3dmgame.com/news/202401/3886061.html)
+
++ [《最终幻想16》制作人想开发新作而非参与续作](https://www.3dmgame.com/news/202401/3886062.html)
+
++ [《王者荣耀》新增KPL年度总决赛 总奖金池达1亿元](https://www.3dmgame.com/news/202401/3886060.html)
+

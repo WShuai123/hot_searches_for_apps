@@ -87,3 +87,5 @@
 
 + [有钱是真好啊！](http://www.acfun.cn/v/ac43512647)
 
++ [祝我生日快乐，自娱自乐版](http://www.acfun.cn/v/ac43507532)
+

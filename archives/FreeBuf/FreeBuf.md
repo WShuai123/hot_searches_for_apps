@@ -49,3 +49,5 @@
 
 + [glibc 提权漏洞（CVE-2023-4911）分析](https://www.freebuf.com/vuls/386999.html)
 
++ [如何使用WinDiff浏览和对比Windows源代码中的符号和系统调用信息](https://www.freebuf.com/sectool/388904.html)
+
