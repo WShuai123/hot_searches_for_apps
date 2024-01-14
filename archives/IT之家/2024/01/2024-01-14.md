@@ -67,3 +67,7 @@
 
 + [松下工业承认数据造假数十年：相关产品不会停止出货也不会召回](https://m.ithome.com/html/745193.htm)
 
++ [超越卡罗拉，2023 年特斯拉 Model Y 杀疯了，成全球最畅销车](https://m.ithome.com/html/745158.htm)
+
++ [三星 Galaxy S24 系列手机大量官方宣传资料曝光，AI 功能引期待](https://m.ithome.com/html/745174.htm)
+

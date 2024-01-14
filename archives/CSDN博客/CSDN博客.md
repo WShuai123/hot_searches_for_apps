@@ -203,3 +203,7 @@
 
 + [【数据库】聊聊MVCC机制与BufferPool缓存机制](https://blog.csdn.net/jia970426/article/details/135584651)
 
++ [【AI的未来 - AI Agent系列】【MetaGPT】2. 实现自己的第一个Agent](https://blog.csdn.net/Attitude93/article/details/135585847)
+
++ [【grid】pytorch中的Flow_filed，MES，affine_gridHGRID，GRID_SAMPLE详解](https://blog.csdn.net/prinTao/article/details/135586307)
+
