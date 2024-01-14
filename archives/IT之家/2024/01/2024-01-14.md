@@ -37,3 +37,5 @@
 
 + [TP-LINK 推出 BE5100 Wi-Fi 7 千兆双频路由器：2.5G 网口，首发 279 元](https://m.ithome.com/html/745105.htm)
 
++ [英特尔酷睿 Ultra 7 165H 处理器实测：单核性能不如酷睿 i7-13700H](https://m.ithome.com/html/745059.htm)
+

@@ -137,3 +137,9 @@
 
 + [发射失败依然庆祝 马斯克仍然对星舰发射成功充满信心](https://www.3dmgame.com/news/202401/3886055.html)
 
++ [《子弹风暴VR》新预告发布 1月18日正式发售](https://www.3dmgame.com/news/202401/3886058.html)
+
++ [《艾尔登法环》DLC“黄金树之影”或将公布上市日期](https://www.3dmgame.com/news/202401/3886057.html)
+
++ [《酒馆经理模拟器》Steam页面上线 幻想风格经营新游](https://www.3dmgame.com/news/202401/3886056.html)
+

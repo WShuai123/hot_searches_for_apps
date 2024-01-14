@@ -153,3 +153,9 @@
 
 + [嵌入式必备的WEB知识](https://blog.csdn.net/m0_73731708/article/details/135569416)
 
++ [基于微信山东济南某大学在线考试小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135549692)
+
++ [静态代理IP是如何助力跨境电商运营的？我的跨境电商发展史](https://blog.csdn.net/qq_44907926/article/details/135557146)
+
++ [基于Matlab/Simulink开发自动驾驶的解决方案](https://blog.csdn.net/CSSUST/article/details/135575251)
+
