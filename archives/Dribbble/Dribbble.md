@@ -49,3 +49,23 @@
 
 + [MOVE IT!](https://dribbble.com/shots/)
 
++ [Shape Studies: 053](https://dribbble.com/shots/)
+
++ [Zermatt, Switzerland Book & Poster](https://dribbble.com/shots/)
+
++ [Frost Field](https://dribbble.com/shots/)
+
++ [Happy New Year](https://dribbble.com/shots/)
+
++ [Self Portrait, 2024](https://dribbble.com/shots/)
+
++ [Floral](https://dribbble.com/shots/)
+
++ [Yeti Trail Runners. Run With Us](https://dribbble.com/shots/)
+
++ [Retro gaming van](https://dribbble.com/shots/)
+
++ [Japanese tea ceremony.](https://dribbble.com/shots/)
+
++ [Train story landscape](https://dribbble.com/shots/)
+
