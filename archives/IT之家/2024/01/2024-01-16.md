@@ -29,3 +29,5 @@
 
 + [比亚迪宋 Pro DM-i 冠军版车型限时优惠 8000 元，起售价 12.18 万元](https://m.ithome.com/html/745344.htm)
 
++ [小米汽车 SU7 工信部信息变更：增加 21 英寸轮圈，尾部 xiaomi 可选更小字体](https://m.ithome.com/html/745390.htm)
+

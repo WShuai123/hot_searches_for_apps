@@ -81,3 +81,5 @@
 
 + [Panther Tile](https://dribbble.com/shots/)
 
++ [EquipYou - Logo](https://dribbble.com/shots/)
+

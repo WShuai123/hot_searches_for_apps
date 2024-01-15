@@ -101,3 +101,9 @@
 
 + [【国产之光】开年尝鲜——优秀的AI编码助手 Fitten Code](https://blog.csdn.net/CoderSharry/article/details/135562661)
 
++ [大数据深度学习卷积神经网络CNN：CNN结构、训练与优化一文全解](https://blog.csdn.net/Myx74270512/article/details/135578359)
+
++ [CNN：Convolutional Neural Network（上）](https://blog.csdn.net/m0_64140451/article/details/135586827)
+
++ [GPT图解大模型是怎样构建的](https://blog.csdn.net/shi_hong_fei_hei/article/details/135601268)
+
