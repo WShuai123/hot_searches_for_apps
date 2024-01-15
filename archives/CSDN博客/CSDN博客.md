@@ -121,3 +121,5 @@
 
 + [深入理解单例模式：如何确保一个类只有一个实例？](https://blog.csdn.net/2202_75623950/article/details/135566949)
 
++ [基于Python实现地标景点识别](https://blog.csdn.net/weixin_42794881/article/details/135552955)
+
