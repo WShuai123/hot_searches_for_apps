@@ -111,3 +111,11 @@
 
 + [《铁拳8》公布开场动画及首个DLC角色](https://www.3dmgame.com/news/202401/3886080.html)
 
++ [微软第一方游戏多个爆料：《夺宝奇兵》、《光环》、老IP复活](https://www.3dmgame.com/news/202401/3886085.html)
+
++ [《DOTA2》迪拜别墅杯所有参赛战队确定 中国共3支](https://www.3dmgame.com/news/202401/3886084.html)
+
++ [致敬8位机恶魔城新作《西蒙探险记》明年发售](https://www.3dmgame.com/news/202401/3886083.html)
+
++ [2023年德国游戏销量数据公开 玩家最爱足球游戏](https://www.3dmgame.com/news/202401/3886082.html)
+

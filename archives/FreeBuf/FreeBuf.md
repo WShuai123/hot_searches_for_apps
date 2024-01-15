@@ -41,3 +41,7 @@
 
 + [关注个人数据保护，肯尼亚发布新指南](https://www.freebuf.com/news/389498.html)
 
++ [FreeBuf早报 | 以色列网安行业2023年融资金额大幅下降；T-Mobile 又出网络故障](https://www.freebuf.com/news/389537.html)
+
++ [如何评估一个网安漏洞的市场价值？](https://www.freebuf.com/articles/neopoints/389484.html)
+

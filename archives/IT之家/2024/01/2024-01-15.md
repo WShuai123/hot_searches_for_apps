@@ -25,3 +25,7 @@
 
 + [三星 Galaxy S24 系列手机大量官方宣传资料曝光，AI 功能引期待](https://m.ithome.com/html/745174.htm)
 
++ [苹果中国上线迎新春限时活动：iPhone 15 系列手机最高降 500 元，Mac、iPad 也有优惠](https://m.ithome.com/html/745214.htm)
+
++ [消息称字节跳动与阿里巴巴洽购饿了么，尚有两点分歧](https://m.ithome.com/html/745207.htm)
+
