@@ -119,3 +119,21 @@
 
 + [2023年德国游戏销量数据公开 玩家最爱足球游戏](https://www.3dmgame.com/news/202401/3886082.html)
 
++ [《暗示》Steam页面上线 下楼梯视角恐怖新游](https://www.3dmgame.com/news/202401/3886090.html)
+
++ [音乐节奏游戏《神椿市协奏中。》发布首个预告 2024年春季发售](https://www.3dmgame.com/news/202401/3886091.html)
+
++ [《质量效应》演员抨击AI配音：无法赋予角色灵魂](https://www.3dmgame.com/news/202401/3886092.html)
+
++ [《泰迪熊》前传剧集IGN 6分 没有带来太多新意](https://www.3dmgame.com/news/202401/3886093.html)
+
++ [开年两周时间 《逃离塔科夫》已封禁超过万名作弊者](https://www.3dmgame.com/news/202401/3886094.html)
+
++ [坂口博信认可《对马岛之鬼》赞其很有趣完成度很棒](https://www.3dmgame.com/news/202401/3886086.html)
+
++ [《怪奇物语》第五季开拍 但粉丝对“关键”角色的删除表示不满](https://www.3dmgame.com/news/202401/3886087.html)
+
++ [传闻：《战争机器》复刻版合集正在测试中](https://www.3dmgame.com/news/202401/3886088.html)
+
++ [Twitch裁员500人 CEO直播坦言尚未盈利](https://www.3dmgame.com/news/202401/3886089.html)
+
