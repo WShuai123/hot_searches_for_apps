@@ -221,3 +221,9 @@
 
 + [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [国家反诈中心](https://itunes.apple.com/cn/app/id1552823102?mt=8)
+
++ [WPS Office - 智能AI办公助手](https://itunes.apple.com/cn/app/id599852710?mt=8)
+

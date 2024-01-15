@@ -43,3 +43,7 @@
 
 + [极氪 009 改款：售价调整至 50 万元起，全系车型标配四项豪华舒适配置](https://m.ithome.com/html/745237.htm)
 
++ [联想 ThinkBook 14+ / 16+ 2024 笔记本 1 月 18 日发布，预计为酷睿 Ultra 处理器](https://m.ithome.com/html/745200.htm)
+
++ [理想汽车回应“全系车型降价超 3 万元”：提前开始产品更新过渡](https://m.ithome.com/html/745305.htm)
+

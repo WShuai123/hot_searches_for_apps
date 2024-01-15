@@ -191,3 +191,5 @@
 
 + [如何使用Docker本地搭建Traefik服务并实现公网访问管理界面](https://blog.csdn.net/qq_48652579/article/details/135600482)
 
++ [开源对象存储服务器MinIO本地部署并结合内网穿透实现远程访问管理界面](https://blog.csdn.net/a1657054242/article/details/135600558)
+
