@@ -19,3 +19,5 @@
 
 + [可用性测试7大实战技巧](https://www.ui.cn/detail/661364.html)
 
++ [用AI玩转品牌符号——SD超级符号案例分享&方法论](https://www.ui.cn/detail/661400.html)
+

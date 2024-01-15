@@ -101,3 +101,27 @@
 
 + [Mural - Global payments for businesses](https://www.producthunt.com/posts/mural-global-payments-for-businesses)
 
++ [Pinokio](https://www.producthunt.com/posts/pinokio)
+
++ [Friz](https://www.producthunt.com/posts/friz-2)
+
++ [RealityMAX](https://www.producthunt.com/posts/realitymax)
+
++ [Danger](https://www.producthunt.com/posts/danger-2)
+
++ [Arcush](https://www.producthunt.com/posts/arcush)
+
++ [Squad Habits](https://www.producthunt.com/posts/squad-habits)
+
++ [SocialTalk](https://www.producthunt.com/posts/socialtalk-2)
+
++ [WhisperAI](https://www.producthunt.com/posts/whisperai-3)
+
++ [Affistash](https://www.producthunt.com/posts/affistash-2)
+
++ [Life Story AI](https://www.producthunt.com/posts/life-story-ai)
+
++ [Gotalk.ai](https://www.producthunt.com/posts/gotalk-ai)
+
++ [AIWatchfulCompanion](https://www.producthunt.com/posts/aiwatchfulcompanion-2)
+
