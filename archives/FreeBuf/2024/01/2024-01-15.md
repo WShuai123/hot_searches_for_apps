@@ -57,3 +57,9 @@
 
 + [海普瑞遭遇A股史上最大电信诈骗，涉案近亿，追回难度大](https://www.freebuf.com/news/389679.html)
 
++ [HiddenDesktop：一款针对Cobalt Strike设计的HVNC隐藏桌面工具](https://www.freebuf.com/sectool/388905.html)
+
++ [Meta 承认使用盗版书籍来训练 AI，并拒绝赔偿作家](https://www.freebuf.com/news/389695.html)
+
++ [大模型隐蔽后门震惊马斯克：平时人畜无害，提到关键字瞬间破防](https://www.freebuf.com/news/389683.html)
+

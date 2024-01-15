@@ -175,3 +175,13 @@
 
 + [Steam新游首曝：可御剑飞行的国产游戏《剑气劫》](https://www.3dmgame.com/news/202401/3886110.html)
 
++ [《擅长捉弄的高木同学》完结单行本发售 官方公布梶裕贵配音的纪念PV](https://www.3dmgame.com/news/202401/3886118.html)
+
++ [《咩咩启示录》Twitch drops活动开启 看直播获得抢测奖品](https://www.3dmgame.com/news/202401/3886117.html)
+
++ [传闻：《女神异闻录》自走棋衍生游戏已开发完毕](https://www.3dmgame.com/news/202401/3886116.html)
+
++ [上映15年后 主演克里斯汀·斯图尔特表示《暮光之城》是一部“同性恋电影”](https://www.3dmgame.com/news/202401/3886115.html)
+
++ [DLC来了！《完蛋！我被美女包围了！》路透首曝光](https://www.3dmgame.com/news/202401/3886114.html)
+

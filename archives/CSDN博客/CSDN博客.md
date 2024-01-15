@@ -173,3 +173,7 @@
 
 + [使用 Python 和 Pygame 制作游戏：第一章到第五章](https://blog.csdn.net/wizardforcel/article/details/135590133)
 
++ [好书推荐丨AI时代Python量化交易实战：ChatGPT让量化交易插上翅膀（北大社）](https://blog.csdn.net/m0_68111267/article/details/135595408)
+
++ [【计算机网络】TCP原理 | 可靠性机制分析（四）](https://blog.csdn.net/m0_74352571/article/details/135518488)
+

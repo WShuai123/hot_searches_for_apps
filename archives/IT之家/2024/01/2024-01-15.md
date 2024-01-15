@@ -33,3 +33,5 @@
 
 + [华为纯血鸿蒙 HarmonyOS NEXT 开发者预览版首批 Beta 招募开启，支持 Mate 60 / Pro、X5 机型](https://m.ithome.com/html/745256.htm)
 
++ [小米 14 / 14 Pro 限定色机型今日首销：小米汽车 SU7 同配色，4999 元起](https://m.ithome.com/html/745213.htm)
+
