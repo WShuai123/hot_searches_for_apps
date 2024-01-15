@@ -125,3 +125,19 @@
 
 + [AIWatchfulCompanion](https://www.producthunt.com/posts/aiwatchfulcompanion-2)
 
++ [Qlary AI](https://www.producthunt.com/posts/qlary-ai)
+
++ [ValidateFast](https://www.producthunt.com/posts/validatefast)
+
++ [AI GPT for Gmail™](https://www.producthunt.com/posts/ai-gpt-for-gmail)
+
++ [Disciplined](https://www.producthunt.com/posts/disciplined)
+
++ [Speechimo](https://www.producthunt.com/posts/speechimo)
+
++ [AI Picasso - AI dance](https://www.producthunt.com/posts/ai-picasso-ai-dance)
+
++ [WEVO Pulse](https://www.producthunt.com/posts/wevo-pulse)
+
++ [IdealCustomers-AI](https://www.producthunt.com/posts/idealcustomers-ai)
+

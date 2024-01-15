@@ -37,3 +37,7 @@
 
 + [一代神车消逝记 —— 桑塔纳](https://m.ithome.com/html/745185.htm)
 
++ [苹果 Vision Pro 头显即将重磅发售，消费者 25 分钟试戴全流程曝光](https://m.ithome.com/html/745211.htm)
+
++ [消息称宝马 540i 车型不再供应中国市场，全新 5 系 1 月底上市](https://m.ithome.com/html/745195.htm)
+
