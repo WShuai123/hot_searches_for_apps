@@ -155,3 +155,11 @@
 
 + [《蝙蝠侠：阿卡姆》系列工作室声称 《自杀小队》是其有史以来“故事情节”最丰富的游戏](https://www.3dmgame.com/news/202401/3886095.html)
 
++ [《如龙8》通过Steam Deck验证 1月26日发售](https://www.3dmgame.com/news/202401/3886107.html)
+
++ [《失踪》1月21日登陆Steam 第一人称视角恐怖探索](https://www.3dmgame.com/news/202401/3886106.html)
+
++ [英伟达RTXVideo HDR技术：流媒体低清自动转为高清](https://www.3dmgame.com/news/202401/3886105.html)
+
++ [我国首张无人机新规黑飞行政罚单：超高飞行罚款500元](https://www.3dmgame.com/news/202401/3886104.html)
+

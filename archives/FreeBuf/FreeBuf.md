@@ -49,3 +49,7 @@
 
 + [不分青红皂白，美杜莎勒索软件攻击慈善饮用水机构Water for People](https://www.freebuf.com/news/389654.html)
 
++ [NCSC发布全新中小企业实用安全指南](https://www.freebuf.com/news/389657.html)
+
++ [现已修复！苹果 Magic Keyboard 曝出大 Bug](https://www.freebuf.com/news/389665.html)
+

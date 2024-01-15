@@ -145,3 +145,13 @@
 
 + [CNN：Convolutional Neural Network（上）](https://blog.csdn.net/m0_64140451/article/details/135586827)
 
++ [Zookeeper使用详解](https://blog.csdn.net/zhangzehai2234/article/details/135585312)
+
++ [GaussDB技术解读系列：5分钟带您了解DRS录制回放](https://blog.csdn.net/GaussDB/article/details/135547482)
+
++ [（1）(1.13) SiK无线电高级配置（七）](https://blog.csdn.net/qq_20016593/article/details/135521788)
+
++ [机器学习周报第28周](https://blog.csdn.net/2301_78609379/article/details/135584743)
+
++ [快乐学Python，数据分析之使用爬虫获取网页内容](https://blog.csdn.net/u010223407/article/details/135586722)
+
