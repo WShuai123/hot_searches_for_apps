@@ -201,3 +201,9 @@
 
 + [WPS Office - 智能AI办公助手](https://itunes.apple.com/cn/app/id599852710?mt=8)
 
++ [抖音精选](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+

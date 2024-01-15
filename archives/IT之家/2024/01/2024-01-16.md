@@ -25,3 +25,5 @@
 
 + [上汽大众 ID.4 X 2024 款纯电车型上市，限时首销价 14.98 万起](https://m.ithome.com/html/745273.htm)
 
++ [小米磁吸充电宝 2 6000mAh 15W 上架：支持有线 / 无线充，219 元](https://m.ithome.com/html/745285.htm)
+

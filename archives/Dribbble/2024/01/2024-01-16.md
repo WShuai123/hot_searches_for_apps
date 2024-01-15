@@ -49,3 +49,25 @@
 
 + [#136 - Concept shots](https://dribbble.com/shots/)
 
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [Train story landscape](https://dribbble.com/shots/)
+
++ [Bonus](https://dribbble.com/shots/)
+
++ [Happy New Year](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [Christmas postcard](https://dribbble.com/shots/)
+
++ [Hope for 2024](https://dribbble.com/shots/)
+
++ [DJ](https://dribbble.com/shots/)
+
++ [Floral](https://dribbble.com/shots/)
+
++ [2024 Metropolitan Locomotive](https://dribbble.com/shots/)
+
++ [Viking Ship Logo](https://dribbble.com/shots/)
+
