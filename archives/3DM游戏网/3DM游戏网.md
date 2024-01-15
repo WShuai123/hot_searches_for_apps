@@ -229,3 +229,7 @@
 
 + [《最终幻想7：重生》快速旅行系统展示](https://www.3dmgame.com/news/202401/3886140.html)
 
++ [《速度与激情》将回归系列本源 预算低于2亿美元](https://www.3dmgame.com/news/202401/3886141.html)
+
++ [AMD：锐龙8000G搭配DDR5-6000内存 核显性能更强](https://www.3dmgame.com/news/202401/3886142.html)
+

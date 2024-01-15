@@ -53,3 +53,7 @@
 
 + [理想 L6 车型定于今年 4 月上市：30 万元以下，挑战月销 3 万辆](https://m.ithome.com/html/745264.htm)
 
++ [消息称小米屏下前摄新机搭载骁龙 8 系芯片，极致四窄边设计](https://m.ithome.com/html/745364.htm)
+
++ [荣耀高管回应 Magic6 系列屏幕：你永远可以相信荣耀](https://m.ithome.com/html/745338.htm)
+
