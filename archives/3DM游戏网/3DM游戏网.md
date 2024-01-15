@@ -137,3 +137,21 @@
 
 + [Twitch裁员500人 CEO直播坦言尚未盈利](https://www.3dmgame.com/news/202401/3886089.html)
 
++ [视觉小说《Love Live！虹咲学园学园偶像同好会》宣布将登陆Switch 发售日期待定](https://www.3dmgame.com/news/202401/3886102.html)
+
++ [鉴于对任天堂方面的担忧 Valve要求《传送门64》开发商停止项目](https://www.3dmgame.com/news/202401/3886103.html)
+
++ [曝《刺客信条 Red》《Hexe》将是育碧史上最大投资](https://www.3dmgame.com/news/202401/3886101.html)
+
++ [东方同人《西瓜VS机甲西瓜》4月1日登陆Steam](https://www.3dmgame.com/news/202401/3886100.html)
+
++ [年度独立游戏《星之海》官方发推表示 DLC已完成预制作阶段](https://www.3dmgame.com/news/202401/3886099.html)
+
++ [开发者解释《神之浩劫2》跳过Switch：可能会登陆继任者](https://www.3dmgame.com/news/202401/3886098.html)
+
++ [英伟达官方晒RTX40 SUPER主题电脑 太酷炫](https://www.3dmgame.com/news/202401/3886097.html)
+
++ [《元祖掉落寿司》Steam页面上线 物理原则消除](https://www.3dmgame.com/news/202401/3886096.html)
+
++ [《蝙蝠侠：阿卡姆》系列工作室声称 《自杀小队》是其有史以来“故事情节”最丰富的游戏](https://www.3dmgame.com/news/202401/3886095.html)
+

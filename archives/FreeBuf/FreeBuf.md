@@ -47,3 +47,5 @@
 
 + [一次oss存储桶云安全实战](https://www.freebuf.com/articles/web/389285.html)
 
++ [不分青红皂白，美杜莎勒索软件攻击慈善饮用水机构Water for People](https://www.freebuf.com/news/389654.html)
+
