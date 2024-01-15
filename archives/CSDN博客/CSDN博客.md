@@ -155,3 +155,7 @@
 
 + [快乐学Python，数据分析之使用爬虫获取网页内容](https://blog.csdn.net/u010223407/article/details/135586722)
 
++ [在奇牛软件学院的第一个学习记录](https://blog.csdn.net/m0_71081799/article/details/132800183)
+
++ [【RT-DETR改进涨点】为什么YOLO版本的RT-DETR训练模型不收敛的问题](https://blog.csdn.net/java1314777/article/details/135584733)
+
