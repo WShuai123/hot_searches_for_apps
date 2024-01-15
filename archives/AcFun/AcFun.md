@@ -67,3 +67,7 @@
 
 + [竖屏 EXID- Every night 每夜 开档属实带劲奥](http://www.acfun.cn/v/ac43519202)
 
++ [娅是天才好咩](http://www.acfun.cn/v/ac43523589)
+
++ [【迷宫大侦探】第一集  可爱欢乐的绘本童话冒险！让我摸一下！](http://www.acfun.cn/v/ac43526011)
+

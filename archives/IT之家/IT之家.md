@@ -27,3 +27,5 @@
 
 + [小米磁吸充电宝 2 6000mAh 15W 上架：支持有线 / 无线充，219 元](https://m.ithome.com/html/745285.htm)
 
++ [比亚迪宋 Pro DM-i 冠军版车型限时优惠 8000 元，起售价 12.18 万元](https://m.ithome.com/html/745344.htm)
+

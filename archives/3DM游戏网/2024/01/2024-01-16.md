@@ -101,3 +101,9 @@
 
 + [英伟达官方晒RTX40 SUPER主题电脑 太酷炫](https://www.3dmgame.com/news/202401/3886097.html)
 
++ [《棋弈无限：中国象棋》正式发售 首发价格35.1元](https://www.3dmgame.com/news/202401/3886148.html)
+
++ [外媒评值得期待的17款Xbox独占游戏 《上古卷轴6》等](https://www.3dmgame.com/news/202401/3886147.html)
+
++ [又有新证据 顽皮狗正在开发新IP游戏](https://www.3dmgame.com/news/202401/3886146.html)
+
