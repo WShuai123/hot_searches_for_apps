@@ -159,3 +159,17 @@
 
 + [【RT-DETR改进涨点】为什么YOLO版本的RT-DETR训练模型不收敛的问题](https://blog.csdn.net/java1314777/article/details/135584733)
 
++ [曲线生成 | 图解贝塞尔曲线生成原理(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/135568032)
+
++ [云原生微服务之分布式锁框架 Redisson](https://blog.csdn.net/s445320/article/details/135592454)
+
++ [一篇搞明白微信小程序的基本授权功能](https://blog.csdn.net/qq_56352725/article/details/135593578)
+
++ [Python轴承故障诊断 (11)基于VMD+CNN-BiGRU-Attenion的故障分类](https://blog.csdn.net/qq_40949048/article/details/135580556)
+
++ [扩散模型微调方法/文献综述](https://blog.csdn.net/qq_46009046/article/details/135558667)
+
++ [PyTorch深度学习实战（30）——Deepfakes](https://blog.csdn.net/LOVEmy134611/article/details/135589751)
+
++ [使用 Python 和 Pygame 制作游戏：第一章到第五章](https://blog.csdn.net/wizardforcel/article/details/135590133)
+

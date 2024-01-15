@@ -29,3 +29,7 @@
 
 + [消息称字节跳动与阿里巴巴洽购饿了么，尚有两点分歧](https://m.ithome.com/html/745207.htm)
 
++ [消息称苹果 iPhone 16 / Plus 手机将配备 8GB 内存并支持 Wi-Fi 6E](https://m.ithome.com/html/745232.htm)
+
++ [华为纯血鸿蒙 HarmonyOS NEXT 开发者预览版首批 Beta 招募开启，支持 Mate 60 / Pro、X5 机型](https://m.ithome.com/html/745256.htm)
+
