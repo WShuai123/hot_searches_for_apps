@@ -225,3 +225,7 @@
 
 + [2024年IEM中国站落户成都 4月8日开始](https://www.3dmgame.com/news/202401/3886137.html)
 
++ [苹果将120人团队迁至奥斯汀 专注于改进Siri](https://www.3dmgame.com/news/202401/3886139.html)
+
++ [《最终幻想7：重生》快速旅行系统展示](https://www.3dmgame.com/news/202401/3886140.html)
+
