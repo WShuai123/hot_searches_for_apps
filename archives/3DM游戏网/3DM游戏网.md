@@ -199,3 +199,15 @@
 
 + [两周暴跌超6600亿元！特斯拉遭遇开年市值史上最大滑坡](https://www.3dmgame.com/news/202401/3886119.html)
 
++ [奇葩好评游戏《Nothing》免费登陆Steam 啥都不要做](https://www.3dmgame.com/news/202401/3886131.html)
+
++ [《异形工厂2》试玩版1月25日上线Steam 支持中文](https://www.3dmgame.com/news/202401/3886130.html)
+
++ [如果大超基努杰西卡等明星参演《魔兽》电影 会是什么样？](https://www.3dmgame.com/news/202401/3886128.html)
+
++ [IMF总裁称AI将影响全球约40%的工作：技能要求越高的工作影响越大](https://www.3dmgame.com/news/202401/3886127.html)
+
++ [大骗局！法医证实：秘鲁外星人遗体是人工合成人偶](https://www.3dmgame.com/news/202401/3886126.html)
+
++ [《仙剑六祈今朝》电视剧获批 本月有望开播！](https://www.3dmgame.com/news/202401/3886129.html)
+

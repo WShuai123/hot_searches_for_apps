@@ -63,3 +63,5 @@
 
 + [大模型隐蔽后门震惊马斯克：平时人畜无害，提到关键字瞬间破防](https://www.freebuf.com/news/389683.html)
 
++ [CSO、安全运营...2023网安人年度关注 TOP 10](https://www.freebuf.com/news/389735.html)
+
