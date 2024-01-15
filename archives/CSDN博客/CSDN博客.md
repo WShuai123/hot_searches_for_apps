@@ -107,3 +107,17 @@
 
 + [GPT图解大模型是怎样构建的](https://blog.csdn.net/shi_hong_fei_hei/article/details/135601268)
 
++ [K8S--Ingress的作用](https://blog.csdn.net/feiying0canglang/article/details/135508006)
+
++ [【病虫害识别】SVM病虫害识别系统【含GUI Matlab源码 2429期】](https://blog.csdn.net/KeepingMatlab/article/details/135579871)
+
++ [[docker] Compose 简介](https://blog.csdn.net/qq_45704048/article/details/135612300)
+
++ [【文本到上下文 #5】：RNN、LSTM 和 GRU](https://blog.csdn.net/gongdiwudu/article/details/135600690)
+
++ [在linux里运行springboot项目](https://blog.csdn.net/CSDNlele666/article/details/135588609)
+
++ [PyTorch损失函数（二）](https://blog.csdn.net/weixin_46334272/article/details/135590931)
+
++ [深入理解单例模式：如何确保一个类只有一个实例？](https://blog.csdn.net/2202_75623950/article/details/135566949)
+

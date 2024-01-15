@@ -107,3 +107,11 @@
 
 + [又有新证据 顽皮狗正在开发新IP游戏](https://www.3dmgame.com/news/202401/3886146.html)
 
++ [网易注资原CDPR成员新工作室叛狼公布《黎明行者》](https://www.3dmgame.com/news/202401/3886152.html)
+
++ [《浪人崛起》介绍其三大派系及其关键人物](https://www.3dmgame.com/news/202401/3886150.html)
+
++ [EA已将Denuvo从《逃出生天》中移除](https://www.3dmgame.com/news/202401/3886151.html)
+
++ [《最终幻想7：重生》新预告片展示跌宕起伏剧情](https://www.3dmgame.com/news/202401/3886149.html)
+
