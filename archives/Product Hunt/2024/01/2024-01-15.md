@@ -141,3 +141,7 @@
 
 + [IdealCustomers-AI](https://www.producthunt.com/posts/idealcustomers-ai)
 
++ [Bliss Brain](https://www.producthunt.com/posts/bliss-brain)
+
++ [Team Analytics by CodeMonk.ai](https://www.producthunt.com/posts/team-analytics-by-codemonk-ai)
+

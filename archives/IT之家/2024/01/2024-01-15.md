@@ -47,3 +47,9 @@
 
 + [理想汽车回应“全系车型降价超 3 万元”：提前开始产品更新过渡](https://m.ithome.com/html/745305.htm)
 
++ [卢伟冰：小米汽车首批 2S 门店已在装修中](https://m.ithome.com/html/745332.htm)
+
++ [独供中国大陆，英特尔酷睿 i7-14790F、i5-14490F 处理器悄然发布](https://m.ithome.com/html/745340.htm)
+
++ [理想 L6 车型定于今年 4 月上市：30 万元以下，挑战月销 3 万辆](https://m.ithome.com/html/745264.htm)
+

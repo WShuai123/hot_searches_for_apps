@@ -51,3 +51,27 @@
 
 + [nextcloud / all-in-one](https://github.com/nextcloud/all-in-one)
 
++ [ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived)
+
++ [keiyoushi / extensions](https://github.com/keiyoushi/extensions)
+
++ [microsoft / autogen](https://github.com/microsoft/autogen)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [BartoszJarocki / cv](https://github.com/BartoszJarocki/cv)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
++ [Stellarium / stellarium](https://github.com/Stellarium/stellarium)
+
++ [tachiyomiorg / website](https://github.com/tachiyomiorg/website)
+
++ [calcom / cal.com](https://github.com/calcom/cal.com)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+

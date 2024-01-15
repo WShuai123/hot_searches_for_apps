@@ -193,3 +193,11 @@
 
 + [开源对象存储服务器MinIO本地部署并结合内网穿透实现远程访问管理界面](https://blog.csdn.net/a1657054242/article/details/135600558)
 
++ [WaitForSingleObject 函数的诸多用途与使用场景总结](https://blog.csdn.net/chenlycly/article/details/135604637)
+
++ [C++结合OpenCV：图像的加法运算](https://blog.csdn.net/msq19895070/article/details/135605201)
+
++ [【国产之光】开年尝鲜——优秀的AI编码助手 Fitten Code](https://blog.csdn.net/CoderSharry/article/details/135562661)
+
++ [深入理解单例模式：如何确保一个类只有一个实例？](https://blog.csdn.net/2202_75623950/article/details/135566949)
+
