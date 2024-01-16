@@ -57,3 +57,5 @@
 
 + [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
 
++ [2024年值得关注的三个新兴勒索软件组织](https://www.freebuf.com/news/389802.html)
+

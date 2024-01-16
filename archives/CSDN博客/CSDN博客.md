@@ -151,3 +151,11 @@
 
 + [竞赛保研 多目标跟踪算法 实时检测 - opencv 深度学习 机器视觉](https://blog.csdn.net/iuerfee/article/details/135607607)
 
++ [YOLOv5姿态估计：HRnet实时检测人体关键点](https://blog.csdn.net/weixin_51390582/article/details/135611862)
+
++ [如何保证Kafka不丢失消息](https://blog.csdn.net/zhangweiwei2020/article/details/135597695)
+
++ [Docker部署Traefik结合内网穿透远程访问Dashboard界面](https://blog.csdn.net/YYDsis/article/details/135612352)
+
++ [教你用通义千问只要五步让千年的兵马俑跳上现代的科目三？](https://blog.csdn.net/boysoft2002/article/details/135613547)
+
