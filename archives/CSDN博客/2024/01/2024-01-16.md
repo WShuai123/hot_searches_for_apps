@@ -129,3 +129,13 @@
 
 + [微软.NET、.NET Framework和.NET Core联系和区别](https://blog.csdn.net/wang2015cn/article/details/135594320)
 
++ [2023.1.15 关于 Redis 持久化 RDB 策略详解](https://blog.csdn.net/weixin_63888301/article/details/135614109)
+
++ [IOC之Spring统一资源加载策略](https://blog.csdn.net/weixin_44543482/article/details/135582271)
+
++ [SpringBoot 全局异常统一处理：BindException（绑定异常）](https://blog.csdn.net/sgx1825192/article/details/135541575)
+
++ [RESTfulAPI和webservice 到底有啥区别](https://blog.csdn.net/zz_ll9023/article/details/135590306)
+
++ [transbigdata笔记：其他方法](https://blog.csdn.net/qq_40206371/article/details/135604468)
+

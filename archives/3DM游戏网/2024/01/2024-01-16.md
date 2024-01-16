@@ -153,3 +153,19 @@
 
 + [《光环》大逃杀游戏被砍 系列正传已在开发](https://www.3dmgame.com/news/202401/3886160.html)
 
++ [蒸汽朋克CRPG《主权辛迪加》现已在Steam上正式发售](https://www.3dmgame.com/news/202401/3886179.html)
+
++ [英国零售商GAME员工称 将停止实体电子游戏以旧换新业务](https://www.3dmgame.com/news/202401/3886173.html)
+
++ [《时光幸存者》登陆Steam 吸幸类型时代名人动作新游](https://www.3dmgame.com/news/202401/3886177.html)
+
++ [《碧蓝幻想Versus：Rising》1.1版本更新 DLC角色“Lucilius”上线](https://www.3dmgame.com/news/202401/3886178.html)
+
++ [腾讯《三角洲行动》测试招募：GTX1060显卡就能玩](https://www.3dmgame.com/news/202401/3886176.html)
+
++ [任天堂支援能登半岛地震 提供游戏机免费维修服务](https://www.3dmgame.com/news/202401/3886174.html)
+
++ [《索尼克 力量》（豪华版）现已上架WeGame 价格89元](https://www.3dmgame.com/news/202401/3886175.html)
+
++ [《家有儿女》大电影今年开拍 原班人马全员回归](https://www.3dmgame.com/news/202401/3886172.html)
+

@@ -49,3 +49,5 @@
 
 + [美媒：OpenAI删除了禁止其技术被用于军事用途的条款](https://www.freebuf.com/news/389769.html)
 
++ [超过 17.8万个 SonicWall防火墙易受到DoS和潜在RCE攻击](https://www.freebuf.com/news/389779.html)
+

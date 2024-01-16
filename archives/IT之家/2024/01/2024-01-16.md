@@ -35,3 +35,7 @@
 
 + [新款极氪 001 车型亮相工信部：外观小幅升级，新增激光雷达](https://m.ithome.com/html/745381.htm)
 
++ [京东开启苹果年货节：力度比官网更大，iPhone 15 系列机型 5199 元起](https://m.ithome.com/html/745410.htm)
+
++ [AI 在操作系统里复制自己，这一天还是来了](https://m.ithome.com/html/745396.htm)
+

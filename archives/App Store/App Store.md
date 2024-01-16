@@ -213,3 +213,5 @@
 
 + [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
 
++ [腾讯视频-王者荣耀：荣耀之章全网独播](https://itunes.apple.com/cn/app/id458318329?mt=8)
+
