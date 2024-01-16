@@ -173,3 +173,17 @@
 
 + [第89讲：MySQL数据库迁移方面需要考虑的因素以及XBK企业级备份参数](https://blog.csdn.net/weixin_44953658/article/details/135622920)
 
++ [如何配置Pycharm服务器并结合内网穿透工具实现远程开发](https://blog.csdn.net/hsjsiwkwm/article/details/135621829)
+
++ [基于Spark+Springboot的电商用户行为分析系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135622635)
+
++ [人工智能时代：ChatGPT破土重生（文末送书）](https://blog.csdn.net/2301_80026901/article/details/135621130)
+
++ [AI智能化办公：巧用ChatGPT高效搞定Excel数据分析](https://blog.csdn.net/qq_32682301/article/details/135606684)
+
++ [Fpga开发笔记（二）：高云FPGA发开发软件Gowin和高云fpga基本开发过程](https://blog.csdn.net/qq21497936/article/details/135620590)
+
++ [如何使用Docker一键部署WBO白板并实现固定公网地址远程访问](https://blog.csdn.net/weixin_43786143/article/details/135621987)
+
++ [超强文档搜索引擎AnyTXT Searcher本地搭建](https://blog.csdn.net/Tiam_cr/article/details/135622736)
+

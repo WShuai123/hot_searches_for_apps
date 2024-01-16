@@ -45,3 +45,9 @@
 
 + [酷态科 10 号超级电能棒特别版充电宝上架：10000mAh 容量 + 150W 功率，249 元](https://m.ithome.com/html/745388.htm)
 
++ [优酷宣布更新 Logo：主题色由“红蓝”改为“蓝橙”](https://m.ithome.com/html/745454.htm)
+
++ [一汽大众新迈腾亮相工信部：外观更时尚，贯穿式尾灯设计](https://m.ithome.com/html/745379.htm)
+
++ [坦克 330 越野车亮相工信部，搭载 3.0T 涡轮增压 V6 发动机](https://m.ithome.com/html/745382.htm)
+
