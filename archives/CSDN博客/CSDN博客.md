@@ -121,3 +121,5 @@
 
 + [基于Python实现地标景点识别](https://blog.csdn.net/weixin_42794881/article/details/135552955)
 
++ [华为埋头造车，躺赚的却是黄牛？](https://blog.csdn.net/autocore2017/article/details/135625123)
+

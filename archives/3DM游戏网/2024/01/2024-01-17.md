@@ -105,3 +105,21 @@
 
 + [《自杀小队：战胜正义联盟》全新预告 2月2日上线](https://www.3dmgame.com/news/202401/3886230.html)
 
++ [《使命召唤：现代战争3》公开新多人地图里约热内卢](https://www.3dmgame.com/news/202401/3886241.html)
+
++ [《战锤40K：混沌之门 恶魔猎人》主机版2/20推出](https://www.3dmgame.com/news/202401/3886240.html)
+
++ [1月24日正式开启《暗黑破坏神4》魔动机赛季预告](https://www.3dmgame.com/news/202401/3886239.html)
+
++ [2K公布《上旋网球2K25》 登陆主机平台](https://www.3dmgame.com/news/202401/3886238.html)
+
++ [《监狱建筑师2》首个预告公开确定将3D化](https://www.3dmgame.com/news/202401/3886236.html)
+
++ [《最后的生还者2：重制版》发布全新特性介绍视频](https://www.3dmgame.com/news/202401/3886235.html)
+
++ [《地狱潜者2》发售日预告片公布 2/8一起空降](https://www.3dmgame.com/news/202401/3886234.html)
+
++ [《铁拳8》真人预告片震撼上线点燃全球战火](https://www.3dmgame.com/news/202401/3886233.html)
+
++ [《潜行者：切尔诺贝利之心》发售日公布 预购已开始](https://www.3dmgame.com/news/202401/3886232.html)
+

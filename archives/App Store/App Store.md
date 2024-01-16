@@ -213,3 +213,5 @@
 
 + [贝壳找房-买房装修新房二手房租房平台](https://itunes.apple.com/cn/app/id1347663353?mt=8)
 
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

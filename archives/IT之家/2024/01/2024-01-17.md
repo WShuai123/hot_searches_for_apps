@@ -25,3 +25,7 @@
 
 + [华为回应智界 S7 交付问题：工厂正在全力生产，保证车辆高质量交付](https://m.ithome.com/html/745497.htm)
 
++ [壹号游侠 X1 三合一 PC 发布：酷睿 Ultra 处理器、可拆卸键盘 / 手柄，5999 元起](https://m.ithome.com/html/745508.htm)
+
++ [“性能提升超百倍、体积缩小至百分之一”，微软正式公布使用 Rust 语言重写的 Azure Quantum 开发工具](https://m.ithome.com/html/745519.htm)
+
