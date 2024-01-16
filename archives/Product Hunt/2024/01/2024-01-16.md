@@ -149,3 +149,25 @@
 
 + [neetoDesk](https://www.producthunt.com/posts/neetodesk)
 
++ [Stico - Ai Face Swap Sticker](https://www.producthunt.com/posts/stico-ai-face-swap-sticker)
+
++ [HabitStreak](https://www.producthunt.com/posts/habitstreak)
+
++ [Podsqueeze 2.0](https://www.producthunt.com/posts/podsqueeze-2-0-1)
+
++ [Domain Digger](https://www.producthunt.com/posts/domain-digger)
+
++ [Authify](https://www.producthunt.com/posts/authify)
+
++ [DirEqual](https://www.producthunt.com/posts/direqual)
+
++ [DocentPro | On-the-go Audio Tour Guide](https://www.producthunt.com/posts/docentpro-on-the-go-audio-tour-guide)
+
++ [Innox App](https://www.producthunt.com/posts/innox-app)
+
++ [Byrdhouse AI 2.0](https://www.producthunt.com/posts/byrdhouse-ai-2-0)
+
++ [OpenModerator](https://www.producthunt.com/posts/openmoderator)
+
++ [CheckYa Bookings](https://www.producthunt.com/posts/checkya-bookings)
+

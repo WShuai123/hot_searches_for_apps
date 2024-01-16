@@ -91,3 +91,7 @@
 
 + [【MMD】Tda式改变旗袍初音未来[ODD EYE CIRCLE]](http://www.acfun.cn/v/ac43528073)
 
++ [游戏画面进步越来越慢？恐怕还得是靠显卡！【社长说93】](http://www.acfun.cn/v/ac43529725)
+
++ [看好了，宝可梦是这么用的！幻兽帕鲁抢先体验报告【UCG】](http://www.acfun.cn/v/ac43528416)
+
