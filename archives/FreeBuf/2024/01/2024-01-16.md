@@ -59,3 +59,7 @@
 
 + [2024年值得关注的三个新兴勒索软件组织](https://www.freebuf.com/news/389802.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
++ [DeepSecrets：一款能够理解代码语义的代码敏感信息扫描工具](https://www.freebuf.com/sectool/388918.html)
+

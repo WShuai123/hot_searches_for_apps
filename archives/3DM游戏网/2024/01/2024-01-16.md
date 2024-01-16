@@ -201,3 +201,9 @@
 
 + [玩家测试证明 《艾尔登法环》中唯一的“乖狗狗”也想置玩家于死地](https://www.3dmgame.com/news/202401/3886190.html)
 
++ [多人恐怖解密游戏《人魅》试玩版宣布2月4日上线](https://www.3dmgame.com/news/202401/3886198.html)
+
++ [侦探游戏《摩西及柏拉图-去爪镇最后一班火车》Steam页面 发售日待定](https://www.3dmgame.com/news/202401/3886197.html)
+
++ [这次真是鲁迅说的 东海模型上架官方授权鲁迅先生可动模型](https://www.3dmgame.com/news/202401/3886196.html)
+

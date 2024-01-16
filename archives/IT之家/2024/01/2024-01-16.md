@@ -39,3 +39,5 @@
 
 + [AI 在操作系统里复制自己，这一天还是来了](https://m.ithome.com/html/745396.htm)
 
++ [支持应用侧载，苹果被欧盟要求 3 月 7 日前完成分拆 App Store](https://m.ithome.com/html/745401.htm)
+
