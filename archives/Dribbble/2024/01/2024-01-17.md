@@ -69,3 +69,15 @@
 
 + [Happy New Year](https://dribbble.com/shots/)
 
++ [Hop Harvest](https://dribbble.com/shots/)
+
++ [Retro gaming van](https://dribbble.com/shots/)
+
++ [Stock Values](https://dribbble.com/shots/)
+
++ [Generative AI](https://dribbble.com/shots/)
+
++ [Steamboat Willie](https://dribbble.com/shots/)
+
++ [Posh Fox](https://dribbble.com/shots/)
+

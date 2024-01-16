@@ -101,3 +101,5 @@
 
 + [neetoDesk](https://www.producthunt.com/posts/neetodesk)
 
++ [Life Story AI](https://www.producthunt.com/posts/life-story-ai)
+
