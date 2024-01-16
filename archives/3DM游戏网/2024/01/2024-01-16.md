@@ -263,3 +263,5 @@
 
 + [《最终幻想7：重制版》可能将登陆Xbox平台](https://www.3dmgame.com/news/202401/3886224.html)
 
++ [T2不满Remedy的新logo 因其和R星的有点像](https://www.3dmgame.com/news/202401/3886227.html)
+

@@ -65,3 +65,9 @@
 
 + [郑渝间高铁确认列车开始批量“送快递”，主要服务于电子产品等次日达产品](https://m.ithome.com/html/745398.htm)
 
++ [东京政府出奇招：推出约会 App 应对低出生率问题](https://m.ithome.com/html/745514.htm)
+
++ [3 种颜色，三星 Galaxy S24 Ultra 手机开箱视频曝光](https://m.ithome.com/html/745437.htm)
+
++ [华为回应智界 S7 交付问题：工厂正在全力生产，保证车辆高质量交付](https://m.ithome.com/html/745497.htm)
+

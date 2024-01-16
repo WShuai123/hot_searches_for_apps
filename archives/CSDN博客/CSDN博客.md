@@ -201,3 +201,7 @@
 
 + [如何公网远程访问Axure RP制作的本地web页面【内网穿透】](https://blog.csdn.net/m0_75215937/article/details/135628430)
 
++ [如何在Docker中搭建MinIO容器并实现无公网ip远程访问本地服务](https://blog.csdn.net/ks_wyf/article/details/135631927)
+
++ [2023年总结：雄关漫道真如铁，而今迈步从头越，今朝得失](https://blog.csdn.net/Eastmount/article/details/135343814)
+
