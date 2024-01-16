@@ -89,3 +89,15 @@
 
 + [Shapes 2/3](https://dribbble.com/shots/)
 
++ [Is GenAI’s Impact on Productivity Overblown?](https://dribbble.com/shots/)
+
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [Cafe Cubano Packaging Illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [Snow Crow](https://dribbble.com/shots/)
+
++ [Jack & Sally](https://dribbble.com/shots/)
+
++ [Hop Pursuit Case Study](https://dribbble.com/shots/)
+

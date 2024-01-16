@@ -101,3 +101,7 @@
 
 + [如何公网远程访问Axure RP制作的本地web页面【内网穿透】](https://blog.csdn.net/m0_75215937/article/details/135628430)
 
++ [【文本到上下文 #6】高级词嵌入：Word2Vec、GloVe 和 FastText](https://blog.csdn.net/gongdiwudu/article/details/135615326)
+
++ [分布式搜索——Elasticsearch](https://blog.csdn.net/qq_73574147/article/details/135609308)
+
