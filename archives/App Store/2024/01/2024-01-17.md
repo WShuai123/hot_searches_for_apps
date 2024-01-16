@@ -207,3 +207,9 @@
 
 + [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
+
++ [贝壳找房-买房装修新房二手房租房平台](https://itunes.apple.com/cn/app/id1347663353?mt=8)
+
