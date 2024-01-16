@@ -187,3 +187,7 @@
 
 + [超强文档搜索引擎AnyTXT Searcher本地搭建](https://blog.csdn.net/Tiam_cr/article/details/135622736)
 
++ [AI对决：ChatGPT与文心一言的深度比较](https://blog.csdn.net/2203_75397752/article/details/135626006)
+
++ [《JVM由浅入深学习九】 2024-01-15》JVM由简入深学习提升分(生产项目内存飙升分析）](https://blog.csdn.net/weixin_44976692/article/details/135600493)
+

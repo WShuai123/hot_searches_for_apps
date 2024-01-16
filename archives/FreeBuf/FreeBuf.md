@@ -63,3 +63,5 @@
 
 + [DeepSecrets：一款能够理解代码语义的代码敏感信息扫描工具](https://www.freebuf.com/sectool/388918.html)
 
++ [星纪魅族集团有限公司招人了！](https://www.freebuf.com/jobs/389844.html)
+

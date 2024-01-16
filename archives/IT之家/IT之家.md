@@ -51,3 +51,7 @@
 
 + [坦克 330 越野车亮相工信部，搭载 3.0T 涡轮增压 V6 发动机](https://m.ithome.com/html/745382.htm)
 
++ [2024 款理想 L7 / L8 / L9 亮相工信部，部分车型纯电续航提升](https://m.ithome.com/html/745380.htm)
+
++ [比亚迪仰望首款轿车 U7 工信部证件照亮相：U9 超跑同款动力，标配全景天窗、电动尾翼](https://m.ithome.com/html/745371.htm)
+
