@@ -45,3 +45,7 @@
 
 + [2023年DDoS趋势回顾及2024年可操作性策略](https://www.freebuf.com/articles/paper/389635.html)
 
++ [一文学习Spring依赖注入](https://www.freebuf.com/articles/web/389199.html)
+
++ [美媒：OpenAI删除了禁止其技术被用于军事用途的条款](https://www.freebuf.com/news/389769.html)
+

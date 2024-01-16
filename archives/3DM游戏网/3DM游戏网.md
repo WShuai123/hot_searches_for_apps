@@ -129,3 +129,27 @@
 
 + [《驱灵者：新伊甸的幽灵》公布男主角Red技能视频](https://www.3dmgame.com/news/202401/3886154.html)
 
++ [盖·里奇黑帮犯罪剧集《绅士们》发首支预告 上线Netflix](https://www.3dmgame.com/news/202401/3886170.html)
+
++ [塔防游戏《Lesson Learned》Demo Steam页面上线  Q1上线](https://www.3dmgame.com/news/202401/3886166.html)
+
++ [回合制游戏《Outcast Tales》Steam上线 支持简中](https://www.3dmgame.com/news/202401/3886171.html)
+
++ [传《龙腾世纪：起源》重制版正在开发中 画面玩法改进](https://www.3dmgame.com/news/202401/3886169.html)
+
++ [《方舟：生存飞升》的《中心岛》和《焦土》资料片将于2月和4月推出](https://www.3dmgame.com/news/202401/3886168.html)
+
++ [特别好评《房屋建造者》登陆Steam 限时25%优惠](https://www.3dmgame.com/news/202401/3886167.html)
+
++ [《Fate/Samurai Remnant》体验版全平台上线 存档可继承](https://www.3dmgame.com/news/202401/3886165.html)
+
++ [《守望先锋2》开发者承认“断章取义地”宣布治疗改动是一个错误](https://www.3dmgame.com/news/202401/3886164.html)
+
++ [《最终幻想7：重生》新截图和视觉图 新角色及战斗欣赏](https://www.3dmgame.com/news/202401/3886162.html)
+
++ [《Necrophosis》Steam页面上线 恐怖探索冒险](https://www.3dmgame.com/news/202401/3886163.html)
+
++ [育碧调整订阅服务 公布育碧+Premium和育碧+Classics](https://www.3dmgame.com/news/202401/3886161.html)
+
++ [《光环》大逃杀游戏被砍 系列正传已在开发](https://www.3dmgame.com/news/202401/3886160.html)
+
