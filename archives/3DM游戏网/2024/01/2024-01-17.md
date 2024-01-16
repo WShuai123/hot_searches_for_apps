@@ -101,3 +101,7 @@
 
 + [《勇者斗恶龙10》最新情报 新世界地图以及角色公开](https://www.3dmgame.com/news/202401/3886182.html)
 
++ [SE多人射击游戏《泡沫明星》2月6日发售 首发加入PS+](https://www.3dmgame.com/news/202401/3886231.html)
+
++ [《自杀小队：战胜正义联盟》全新预告 2月2日上线](https://www.3dmgame.com/news/202401/3886230.html)
+

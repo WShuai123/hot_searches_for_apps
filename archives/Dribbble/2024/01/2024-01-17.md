@@ -49,3 +49,23 @@
 
 + [LG HOME APPLIANCE](https://dribbble.com/shots/)
 
++ [Christmas postcard](https://dribbble.com/shots/)
+
++ [Shapes 1/3 (PSE '23)](https://dribbble.com/shots/)
+
++ [Leg Day](https://dribbble.com/shots/)
+
++ [Hope for 2024](https://dribbble.com/shots/)
+
++ [Panther Tile](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Rock Illustrations](https://dribbble.com/shots/)
+
++ [Viking Ship Logo](https://dribbble.com/shots/)
+
++ [Salmon-Cucumber](https://dribbble.com/shots/)
+
++ [Happy New Year](https://dribbble.com/shots/)
+
