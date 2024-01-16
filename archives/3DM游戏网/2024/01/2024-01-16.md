@@ -257,3 +257,9 @@
 
 + [分析师称iPhone15 Pro Max销量火热 带动镜头供应商实现营收上涨](https://www.3dmgame.com/news/202401/3886223.html)
 
++ [华为将在2030年实现卫星宽带计划](https://www.3dmgame.com/news/202401/3886226.html)
+
++ [不一样的但丁！《DMC：鬼泣》迎来发售11周年](https://www.3dmgame.com/news/202401/3886225.html)
+
++ [《最终幻想7：重制版》可能将登陆Xbox平台](https://www.3dmgame.com/news/202401/3886224.html)
+

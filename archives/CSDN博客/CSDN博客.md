@@ -197,3 +197,7 @@
 
 + [设计模式——一文即可](https://blog.csdn.net/weixin_74888502/article/details/135327724)
 
++ [知存科技助力AI应用落地：WTMDK2101-ZT1评估板实地评测与性能揭秘](https://blog.csdn.net/dietime1943/article/details/135618667)
+
++ [如何公网远程访问Axure RP制作的本地web页面【内网穿透】](https://blog.csdn.net/m0_75215937/article/details/135628430)
+
