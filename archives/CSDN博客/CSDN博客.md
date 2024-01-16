@@ -105,3 +105,19 @@
 
 + [分布式搜索——Elasticsearch](https://blog.csdn.net/qq_73574147/article/details/135609308)
 
++ [SpringBoot：详解依赖注入和使用配置文件](https://blog.csdn.net/weixin_62951900/article/details/135626611)
+
++ [sersync+rsync实现文件自动同步](https://blog.csdn.net/GGB_GG/article/details/135516295)
+
++ [【HarmonyOS】消息通知场景的实现](https://blog.csdn.net/qq_53123067/article/details/135624788)
+
++ [【预测】基于雾凇算法优化卷积神经网络结合注意力机制的长短记忆网络RIME-CNN-LSTM-Attention实现风电功率多输入单输出回归预测附matlab实现](https://blog.csdn.net/qq_59747472/article/details/135613050)
+
++ [鸿蒙Harmony-列表组件（List）详解](https://blog.csdn.net/y2653904/article/details/135634206)
+
++ [【图形学】探秘图形学奥秘：区域填充的解密与实战](https://blog.csdn.net/m0_57532432/article/details/135508111)
+
++ [使用Python+pygame实现贪吃蛇小游戏](https://blog.csdn.net/cnds123/article/details/135566558)
+
++ [基于Python实现地标景点识别](https://blog.csdn.net/weixin_42794881/article/details/135552955)
+
