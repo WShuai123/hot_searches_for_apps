@@ -51,3 +51,29 @@
 
 + [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
++ [bigskysoftware / htmx](https://github.com/bigskysoftware/htmx)
+
++ [FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
++ [karanpratapsingh / system-design](https://github.com/karanpratapsingh/system-design)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net)
+
++ [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
++ [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
++ [AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)
+
++ [bentoml / OpenLLM](https://github.com/bentoml/OpenLLM)
+
++ [marimo-team / marimo](https://github.com/marimo-team/marimo)
+
++ [Portkey-AI / gateway](https://github.com/Portkey-AI/gateway)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+

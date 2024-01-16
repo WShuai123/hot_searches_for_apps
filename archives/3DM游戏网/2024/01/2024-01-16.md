@@ -251,3 +251,5 @@
 
 + [英雄联盟新装备“狂妄”冷知识，雕像颜色会随击杀数变化](https://www.3dmgame.com/news/202401/3886218.html)
 
++ [CLAW掌机仅仅是个开始 微星确认后续产品已在筹备中](https://www.3dmgame.com/news/202401/3886221.html)
+
