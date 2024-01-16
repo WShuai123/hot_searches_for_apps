@@ -253,3 +253,7 @@
 
 + [CLAW掌机仅仅是个开始 微星确认后续产品已在筹备中](https://www.3dmgame.com/news/202401/3886221.html)
 
++ [育碧：玩家应该慢慢习惯不拥有游戏](https://www.3dmgame.com/news/202401/3886222.html)
+
++ [分析师称iPhone15 Pro Max销量火热 带动镜头供应商实现营收上涨](https://www.3dmgame.com/news/202401/3886223.html)
+

@@ -57,3 +57,11 @@
 
 + [性能、效率“全面超越”，消息称台积电 2025 年为苹果量产 2nm 芯片](https://m.ithome.com/html/745402.htm)
 
++ [消息称宁德时代、比亚迪正强推“降本”，动力电池将进入 0.3 元 / Wh 时代](https://m.ithome.com/html/745505.htm)
+
++ [英伟达 RTX 4070 Super 显卡 3DMark 跑分曝光，性能较 RTX 4070 提升约 18%](https://m.ithome.com/html/745433.htm)
+
++ [小米品牌安全官微更名，“小米法务部”正式上线](https://m.ithome.com/html/745548.htm)
+
++ [郑渝间高铁确认列车开始批量“送快递”，主要服务于电子产品等次日达产品](https://m.ithome.com/html/745398.htm)
+
