@@ -51,3 +51,7 @@
 
 + [超过 17.8万个 SonicWall防火墙易受到DoS和潜在RCE攻击](https://www.freebuf.com/news/389779.html)
 
++ [美国警方识破网络钓鱼的伎俩，要求扣押嫌疑人数万美元](https://www.freebuf.com/news/389784.html)
+
++ [2023 年针对环境服务行业的 DDoS 攻击激增 61839%](https://www.freebuf.com/news/389788.html)
+

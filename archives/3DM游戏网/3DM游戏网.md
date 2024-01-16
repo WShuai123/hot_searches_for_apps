@@ -169,3 +169,21 @@
 
 + [《家有儿女》大电影今年开拍 原班人马全员回归](https://www.3dmgame.com/news/202401/3886172.html)
 
++ [精神有寄托 《恋爱AI》新游戏公开逢田梨香子主演](https://www.3dmgame.com/news/202401/3886188.html)
+
++ [《龙之信条2》总监表示 由于采用了经典的叙事技巧 这款RPG续作对新玩家来说是易于上手的](https://www.3dmgame.com/news/202401/3886183.html)
+
++ [电影《功夫熊猫4》确认引进 档期待定](https://www.3dmgame.com/news/202401/3886187.html)
+
++ [知名财经媒体：苹果公司未来投资潜力不如英伟达](https://www.3dmgame.com/news/202401/3886186.html)
+
++ [《魔戒三部曲》制片设计师参与《我的世界》拍摄工作 2025年上映](https://www.3dmgame.com/news/202401/3886185.html)
+
++ [《街头霸王6》销量突破300万 官方贺图发布](https://www.3dmgame.com/news/202401/3886184.html)
+
++ [《勇者斗恶龙10》最新情报 新世界地图以及角色公开](https://www.3dmgame.com/news/202401/3886182.html)
+
++ [《月姬：重制版》中文版宣布2024年发售 登陆PS4和Switch](https://www.3dmgame.com/news/202401/3886181.html)
+
++ [国外玩家晒3岁儿子反手操作手柄 未来职业玩家？](https://www.3dmgame.com/news/202401/3886180.html)
+
