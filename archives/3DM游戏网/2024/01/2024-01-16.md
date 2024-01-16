@@ -117,3 +117,15 @@
 
 + [《宝可梦：朱/紫》新增宝可梦桃歹郎故事背景公开](https://www.3dmgame.com/news/202401/3886153.html)
 
++ [《潜行者2》截图更新：HUD略改 画面更美丽](https://www.3dmgame.com/news/202401/3886159.html)
+
++ [《自杀小队》之前Rocksteady曾开发一个原创多人游戏](https://www.3dmgame.com/news/202401/3886158.html)
+
++ [玩家使用AI技术制作《GTA6》游戏截图效果惊人](https://www.3dmgame.com/news/202401/3886157.html)
+
++ [《马力欧+疯狂兔子：星耀之愿》已售出近三百万份](https://www.3dmgame.com/news/202401/3886156.html)
+
++ [像素风格FPS游戏《Witch Rise》月末全平台发售](https://www.3dmgame.com/news/202401/3886155.html)
+
++ [《驱灵者：新伊甸的幽灵》公布男主角Red技能视频](https://www.3dmgame.com/news/202401/3886154.html)
+

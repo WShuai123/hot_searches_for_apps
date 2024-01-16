@@ -31,3 +31,5 @@
 
 + [小米汽车 SU7 工信部信息变更：增加 21 英寸轮圈，尾部 xiaomi 可选更小字体](https://m.ithome.com/html/745390.htm)
 
++ [郭明錤：华为 P70 系列手机采用玻塑混合镜头，今年出货量至少增长约 150%](https://m.ithome.com/html/745389.htm)
+

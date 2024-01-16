@@ -123,3 +123,5 @@
 
 + [基于Python实现地标景点识别](https://blog.csdn.net/weixin_42794881/article/details/135552955)
 
++ [基于Java面向品牌会员的在线商城小程序详细设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135592483)
+

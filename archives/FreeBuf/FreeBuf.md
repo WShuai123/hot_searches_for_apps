@@ -41,3 +41,7 @@
 
 + [旧坑新伤 —— 授权恶意合约被盗分析](https://www.freebuf.com/articles/blockchain-articles/388926.html)
 
++ [FreeBuf早报 | 阿联酋网络安全事件持续增加；深圳一药企在国外被骗近1亿](https://www.freebuf.com/news/389736.html)
+
++ [2023年DDoS趋势回顾及2024年可操作性策略](https://www.freebuf.com/articles/paper/389635.html)
+
