@@ -55,3 +55,5 @@
 
 + [2023 年针对环境服务行业的 DDoS 攻击激增 61839%](https://www.freebuf.com/news/389788.html)
 
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+

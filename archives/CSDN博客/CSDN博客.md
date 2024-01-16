@@ -141,3 +141,13 @@
 
 + [Kafka消费流程](https://blog.csdn.net/qq_44981526/article/details/135612132)
 
++ [【Qt运行流程详解】从启动到事件循环的深入解读](https://blog.csdn.net/qq_21438461/article/details/135578569)
+
++ [探索设计模式的魅力：工厂方法模式](https://blog.csdn.net/danci_/article/details/135611783)
+
++ [【文本到上下文 #6】高级词嵌入：Word2Vec、GloVe 和 FastText](https://blog.csdn.net/gongdiwudu/article/details/135615326)
+
++ [MySQL-事务](https://blog.csdn.net/qq_69178067/article/details/135593414)
+
++ [竞赛保研 多目标跟踪算法 实时检测 - opencv 深度学习 机器视觉](https://blog.csdn.net/iuerfee/article/details/135607607)
+

@@ -187,3 +187,7 @@
 
 + [国外玩家晒3岁儿子反手操作手柄 未来职业玩家？](https://www.3dmgame.com/news/202401/3886180.html)
 
++ [马斯克承认特斯拉机器人视频造假 目前不能自主叠衬衫](https://www.3dmgame.com/news/202401/3886189.html)
+
++ [微星超龙RTX 4090D显卡开售：售价15999元 买吗？](https://www.3dmgame.com/news/202401/3886191.html)
+
