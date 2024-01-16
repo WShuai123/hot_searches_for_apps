@@ -41,3 +41,5 @@
 
 + [支持应用侧载，苹果被欧盟要求 3 月 7 日前完成分拆 App Store](https://m.ithome.com/html/745401.htm)
 
++ [最便宜的理想汽车：理想 L6 车型工信部证件照亮相，定价 30 万元以下](https://m.ithome.com/html/745366.htm)
+
