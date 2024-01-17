@@ -101,3 +101,25 @@
 
 + [Maven 搭建私服](https://blog.csdn.net/xhf852963/article/details/135620468)
 
++ [ChatGPT 和文心一言哪个更好用？](https://blog.csdn.net/Auspicious_air/article/details/135624393)
+
++ [好书推荐丨AI时代Python量化交易实战：ChatGPT让量化交易插上翅膀（北大社）](https://blog.csdn.net/m0_68111267/article/details/135595408)
+
++ [微信小程序之组件和API](https://blog.csdn.net/m0_64074924/article/details/135581641)
+
++ [【Spring】SpringBoot 统一功能处理](https://blog.csdn.net/m0_73888323/article/details/135587096)
+
++ [Spring高手之路-Spring事务失效的场景详解](https://blog.csdn.net/qq_62262918/article/details/135614523)
+
++ [曲线生成 | 图解贝塞尔曲线生成原理(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/135568032)
+
++ [性能优化2.0，新增缓存后，程序的秒开率不升反降](https://blog.csdn.net/guorui_java/article/details/135538341)
+
++ [zookeeper简介](https://blog.csdn.net/xuonline4196/article/details/135621035)
+
++ [深度探讨 Golang 中并发发送 HTTP 请求的最佳技术](https://blog.csdn.net/qq_44273429/article/details/135600910)
+
++ [【.NET Core】C#预处理器指令](https://blog.csdn.net/songjianlong/article/details/135635776)
+
++ [安全运维：cmd命令大全（108个）](https://blog.csdn.net/ting_liang/article/details/135603171)
+
