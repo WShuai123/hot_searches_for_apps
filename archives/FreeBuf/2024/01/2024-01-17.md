@@ -45,3 +45,5 @@
 
 + [开发多个工具包的黑产团伙GXC正在积极拥抱AI技术](https://www.freebuf.com/articles/network/389395.html)
 
++ [AI实践 | 一文简述语音克隆实践](https://www.freebuf.com/articles/network/389291.html)
+

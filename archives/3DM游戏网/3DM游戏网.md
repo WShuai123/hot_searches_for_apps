@@ -127,3 +127,13 @@
 
 + [恐怖游戏《玛莎已死》将改编成真人电影](https://www.3dmgame.com/news/202401/3886242.html)
 
++ [《潜水员戴夫》开发商新作《Wakerunners》试玩即将推出 2月5日上线](https://www.3dmgame.com/news/202401/3886248.html)
+
++ [《最后的生还者2》重制让粉丝震惊 顽皮狗表示不理解](https://www.3dmgame.com/news/202401/3886245.html)
+
++ [GDC游戏开发者选择奖提名公布 王泪博德3领衔](https://www.3dmgame.com/news/202401/3886247.html)
+
++ [微软终于推出能解决《博德之门3》Xbox版本存档丢失问题的更新](https://www.3dmgame.com/news/202401/3886246.html)
+
++ [《Bodycam》邀请Steam玩家免费测试 多人第一视角FPS](https://www.3dmgame.com/news/202401/3886244.html)
+

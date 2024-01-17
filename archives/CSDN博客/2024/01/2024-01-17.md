@@ -127,3 +127,5 @@
 
 + [【CSDN年度征文】关于三掌柜2023全年回顾和总结](https://blog.csdn.net/CC1991_/article/details/135633851)
 
++ [AIGC实战——像素卷积神经网络(PixelCNN)](https://blog.csdn.net/LOVEmy134611/article/details/135634657)
+
