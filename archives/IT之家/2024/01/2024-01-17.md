@@ -61,3 +61,7 @@
 
 + [比亚迪汽车城市领航一镜到底实测，DiPilot 系统全新命名发布](https://m.ithome.com/html/745590.htm)
 
++ [手机后台录音只为推送大数据广告，卡巴斯基分析显示业界许多 App 及语音助手“心照不宣、夹带私货”](https://m.ithome.com/html/745767.htm)
+
++ [12G 版仅 1249 元：Redmi Note 12T Pro 手机年货节好价（减 650 元）](https://m.ithome.com/html/745717.htm)
+
