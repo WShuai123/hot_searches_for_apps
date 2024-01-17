@@ -49,3 +49,19 @@
 
 + [Cluck Farm](https://dribbble.com/shots/)
 
++ [Martin Luther King Jr. (King of Hearts)](https://dribbble.com/shots/)
+
++ [CARHARTT SELECTION GRAPHIC](https://dribbble.com/shots/)
+
++ [Rustic Rides - Branding](https://dribbble.com/shots/)
+
++ [Don't Be So Hard On Yourself](https://dribbble.com/shots/)
+
++ [Yeti Trail Runners. Run With Us](https://dribbble.com/shots/)
+
++ [Self Portrait, 2024](https://dribbble.com/shots/)
+
++ [Steamboat Willie](https://dribbble.com/shots/)
+
++ [Tomatoes ???? ???? ???? ???? ????](https://dribbble.com/shots/)
+

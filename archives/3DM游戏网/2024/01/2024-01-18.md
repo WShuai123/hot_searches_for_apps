@@ -101,3 +101,11 @@
 
 + [《孤岛惊魂》衍生作 育碧《激光战鹰队长：Niji Warrior》通过评级](https://www.3dmgame.com/news/202401/3886277.html)
 
++ [《王牌空战7：未知空域》NS版7月11日发售 获特别好评](https://www.3dmgame.com/news/202401/3886330.html)
+
++ [农场模拟《南田物语》公布 下月提供试玩](https://www.3dmgame.com/news/202401/3886329.html)
+
++ [《铁拳8》全新预告 展示截拳道选手李超狼](https://www.3dmgame.com/news/202401/3886328.html)
+
++ [RTX 4070S显卡IGN 9分：更具性价比、值得入手](https://www.3dmgame.com/news/202401/3886327.html)
+
