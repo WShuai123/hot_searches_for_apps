@@ -109,3 +109,11 @@
 
 + [RTX 4070S显卡IGN 9分：更具性价比、值得入手](https://www.3dmgame.com/news/202401/3886327.html)
 
++ [《植物大战僵尸3》发布游戏预告 年内上线](https://www.3dmgame.com/news/202401/3886332.html)
+
++ [开放世界建造游戏《堡垒：空战猎鹰编年史》3/26推出](https://www.3dmgame.com/news/202401/3886334.html)
+
++ [《班德尔城物语：英雄联盟外传》2/22推出](https://www.3dmgame.com/news/202401/3886333.html)
+
++ [原PS4恐怖游戏《直到黎明》电影正在制作中](https://www.3dmgame.com/news/202401/3886331.html)
+
