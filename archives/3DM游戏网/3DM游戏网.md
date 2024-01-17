@@ -217,3 +217,11 @@
 
 + [《风骚律师》艾美提名53次未获奖 导演：新记录！](https://www.3dmgame.com/news/202401/3886283.html)
 
++ [DIY达人动手改造PS5：尺寸更小且自带屏幕的PS5平板](https://www.3dmgame.com/news/202401/3886293.html)
+
++ [《风暴之门》众筹获180万美元 超原目标十几倍](https://www.3dmgame.com/news/202401/3886292.html)
+
++ [《仙剑六祈今朝》电视剧首个预告 男帅女甜剧情精彩](https://www.3dmgame.com/news/202401/3886291.html)
+
++ [“书生・浦语”2.0大语言模型开源 200K上下文](https://www.3dmgame.com/news/202401/3886290.html)
+

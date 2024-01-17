@@ -55,3 +55,7 @@
 
 + [记一次企业供应链下的Java框架渗透测试](https://www.freebuf.com/vuls/389720.html)
 
++ [CryptoChat：一款功能强大的纯Python消息加密安全传输工具](https://www.freebuf.com/sectool/388919.html)
+
++ [GitHub 轮换密钥，以减轻 CVE-2024-0200 漏洞带来的影响](https://www.freebuf.com/news/389885.html)
+

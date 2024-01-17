@@ -139,3 +139,11 @@
 
 + [MySQL系列之数据导入导出](https://blog.csdn.net/splendid_java/article/details/135547087)
 
++ [『C++成长记』内存管理](https://blog.csdn.net/2301_76207836/article/details/135339665)
+
++ [CSDN 年度总结｜知识改变命运，学习成就未来](https://blog.csdn.net/m0_75058342/article/details/135640116)
+
++ [MySQL-多表联合查询](https://blog.csdn.net/qq_69178067/article/details/135580540)
+
++ [2024华数杯国际数学建模A题思路模型详解](https://blog.csdn.net/weixin_45499067/article/details/135640245)
+
