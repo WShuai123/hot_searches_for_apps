@@ -47,3 +47,9 @@
 
 + [QQ 音乐电视端会员独立，原豪华绿钻 7 月起需单独付费](https://m.ithome.com/html/745672.htm)
 
++ [消息称苹果 iPhone16 Pro 系列和华为新机考虑采用玻璃 G+P 方案](https://m.ithome.com/html/745709.htm)
+
++ [比亚迪发布手掌钥匙：号称全球独一无二，识别距离 8-20cm](https://m.ithome.com/html/745575.htm)
+
++ [天猫苹果 Apple Store 旗舰店上线优惠：力度比官网 / 京东更大，iPhone 15 系列机型直降 1000 元到手 4999 元起](https://m.ithome.com/html/745728.htm)
+

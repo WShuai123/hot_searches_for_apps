@@ -217,3 +217,7 @@
 
 + [同程旅行-订酒店机票火车票,低价打车](https://itunes.apple.com/cn/app/id475966832?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
+

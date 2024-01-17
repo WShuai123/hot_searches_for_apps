@@ -269,3 +269,7 @@
 
 + [《最后生还者2》重制版与原版对比视频 快来看差别](https://www.3dmgame.com/news/202401/3886306.html)
 
++ [《新樱花大战》《莎木 I&II》等游戏推出特别优惠价](https://www.3dmgame.com/news/202401/3886316.html)
+
++ [网友给小米汽车提建议！雷军采纳 小米SU7尾标改了](https://www.3dmgame.com/news/202401/3886317.html)
+
