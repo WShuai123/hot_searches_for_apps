@@ -51,3 +51,37 @@
 
 + [dataelement / bisheng](https://github.com/dataelement/bisheng)
 
++ [TencentARC / PhotoMaker](https://github.com/TencentARC/PhotoMaker)
+
++ [bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
++ [microsoft / STL](https://github.com/microsoft/STL)
+
++ [skfolio / skfolio](https://github.com/skfolio/skfolio)
+
++ [vanna-ai / vanna](https://github.com/vanna-ai/vanna)
+
++ [angular / angular-cli](https://github.com/angular/angular-cli)
+
++ [PKUFlyingPig / cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
++ [gethomepage / homepage](https://github.com/gethomepage/homepage)
+
++ [friuns2 / Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [react-native-webview / react-native-webview](https://github.com/react-native-webview/react-native-webview)
+
++ [kubernetes / autoscaler](https://github.com/kubernetes/autoscaler)
+
++ [facebookresearch / audiocraft](https://github.com/facebookresearch/audiocraft)
+
++ [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
++ [marcnewlin / hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard)
+
++ [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai)
+
++ [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+

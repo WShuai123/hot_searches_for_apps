@@ -139,3 +139,5 @@
 
 + [Artemjev Zhenya Illustrator](https://dribbble.com/shots/)
 
++ [Don't Be So Hard On Yourself](https://dribbble.com/shots/)
+

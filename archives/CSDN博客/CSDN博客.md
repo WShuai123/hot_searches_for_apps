@@ -167,3 +167,9 @@
 
 + [【SpringBoot篇】添加富文本编辑器操作](https://blog.csdn.net/m0_72853403/article/details/135647512)
 
++ [基于SpringBoot音乐网站与分享平台详细设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135640044)
+
++ [微信小程序防止截屏录屏](https://blog.csdn.net/m0_53644435/article/details/135622377)
+
++ [Python多线程爬虫——数据分析项目实现详解](https://blog.csdn.net/Why_does_it_work/article/details/135653472)
+
