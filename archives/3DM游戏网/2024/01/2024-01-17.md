@@ -241,3 +241,9 @@
 
 + [《最后的生还者2：复刻版》M站均分90 媒体好评如潮](https://www.3dmgame.com/news/202401/3886294.html)
 
++ [梁建章建议取消中考缩短学制：中高考浪费大量时间、10年义务教育即可](https://www.3dmgame.com/news/202401/3886303.html)
+
++ [App Store开放外部链接 苹果终于放宽政策](https://www.3dmgame.com/news/202401/3886304.html)
+
++ [本周Fami通游戏评分出炉 《幽灵行者2》获31分](https://www.3dmgame.com/news/202401/3886302.html)
+

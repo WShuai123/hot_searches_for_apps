@@ -43,3 +43,7 @@
 
 + [ROG 游戏手机 8 / Pro 正式发布：高通骁龙 8 Gen 3、可选“光学矩阵屏”，4799 元起](https://m.ithome.com/html/745566.htm)
 
++ [京东京造朱雀系列移动固态硬盘上架：2T 容量、2000MB/s，预约价 799 元](https://m.ithome.com/html/745547.htm)
+
++ [QQ 音乐电视端会员独立，原豪华绿钻 7 月起需单独付费](https://m.ithome.com/html/745672.htm)
+

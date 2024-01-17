@@ -149,3 +149,7 @@
 
 + [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi1113/article/details/135622887)
 
++ [pygame学习(三)——支持多种类型的事件](https://blog.csdn.net/weixin_53197693/article/details/135465576)
+
++ [【Linux】nc 网络诊断 | 文件传输 命令详解](https://blog.csdn.net/qq_35995514/article/details/135643945)
+
