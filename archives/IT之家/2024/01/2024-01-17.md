@@ -65,3 +65,7 @@
 
 + [12G 版仅 1249 元：Redmi Note 12T Pro 手机年货节好价（减 650 元）](https://m.ithome.com/html/745717.htm)
 
++ [消息称第三代高通骁龙 7 + 处理器性能强大，堪称“小号骁龙 8 Gen3”](https://m.ithome.com/html/745803.htm)
+
++ [8888 元 vs 9999 元再次开打：京东无门槛红包 19:00 正式开抢](https://m.ithome.com/html/745779.htm)
+

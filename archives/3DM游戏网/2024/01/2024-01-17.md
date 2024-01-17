@@ -285,3 +285,9 @@
 
 + [恐怖模拟游戏《动物精神病》Steam页面公开](https://www.3dmgame.com/news/202401/3886323.html)
 
++ [百万粉丝博主三次体验苹果Vision Pro：感觉太重了](https://www.3dmgame.com/news/202401/3886326.html)
+
++ [奥特曼：人类水平的AI即将出现 但对世界的影响远比想象的小](https://www.3dmgame.com/news/202401/3886325.html)
+
++ [《仙剑4》剧集投资超3亿元 由爱奇艺全部承担](https://www.3dmgame.com/news/202401/3886324.html)
+
