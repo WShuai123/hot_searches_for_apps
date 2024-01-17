@@ -53,3 +53,11 @@
 
 + [天猫苹果 Apple Store 旗舰店上线优惠：力度比官网 / 京东更大，iPhone 15 系列机型直降 1000 元到手 4999 元起](https://m.ithome.com/html/745728.htm)
 
++ [iPhone 15 / Pro 全系立减 1050 元 + 12 期免息：京东苹果年货节大促开启](https://m.ithome.com/html/745761.htm)
+
++ [比亚迪发布易四方泊车：号称全球独一无二，单次泊车节省 8 秒](https://m.ithome.com/html/745583.htm)
+
++ [网易云音乐车机版客户端上线官网：APK 格式、播放会员曲库歌曲需 SVIP](https://m.ithome.com/html/745636.htm)
+
++ [比亚迪汽车城市领航一镜到底实测，DiPilot 系统全新命名发布](https://m.ithome.com/html/745590.htm)
+

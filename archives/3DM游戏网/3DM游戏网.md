@@ -281,3 +281,7 @@
 
 + [妈宝龙斯莫德语音含妈量极高，腕豪自愧不如](https://www.3dmgame.com/news/202401/3886319.html)
 
++ [谷歌或选择放弃三星 倾向于台企制造下一代Tensor和AI芯片](https://www.3dmgame.com/news/202401/3886322.html)
+
++ [恐怖模拟游戏《动物精神病》Steam页面公开](https://www.3dmgame.com/news/202401/3886323.html)
+
