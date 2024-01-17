@@ -247,3 +247,25 @@
 
 + [本周Fami通游戏评分出炉 《幽灵行者2》获31分](https://www.3dmgame.com/news/202401/3886302.html)
 
++ [要上天了！华为申请“太空探索”商标](https://www.3dmgame.com/news/202401/3886313.html)
+
++ [小米年度机皇来了！小米14 Ultra最新渲染图曝光](https://www.3dmgame.com/news/202401/3886314.html)
+
++ [九彩聚重霄，群星齐集结 宝可梦卡牌“剑&盾”系列第四弹补充包震撼出击](https://www.3dmgame.com/news/202401/3886315.html)
+
++ [AI生成《最后生还者》剧集第二季艾比和迪娜的样子](https://www.3dmgame.com/news/202401/3886307.html)
+
++ [2024或成“高质量游戏年”？大的要来了！](https://www.3dmgame.com/news/202401/3886308.html)
+
++ [2024亚太区Predator League菲律宾总决赛精彩落幕 2025年前进马来西亚！](https://www.3dmgame.com/news/202401/3886310.html)
+
++ [万代油管列表更新 《艾尔登法环》DLC宣传片或已上传](https://www.3dmgame.com/news/202401/3886309.html)
+
++ [《Oddsparks》Steam试玩上线 古怪创意制作工坊](https://www.3dmgame.com/news/202401/3886311.html)
+
++ [《咩咩启示录》免费大更新上线 当动物们开始为爱鼓掌](https://www.3dmgame.com/news/202401/3886312.html)
+
++ [电子朋克冒险游戏《火车：闪电风暴》预告 曾因资金短缺被冻结](https://www.3dmgame.com/news/202401/3886305.html)
+
++ [《最后生还者2》重制版与原版对比视频 快来看差别](https://www.3dmgame.com/news/202401/3886306.html)
+

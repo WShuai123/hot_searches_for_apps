@@ -165,3 +165,7 @@
 
 + [GetWebsite.Report](https://www.producthunt.com/posts/getwebsite-report)
 
++ [AI Audio Kit](https://www.producthunt.com/posts/ai-audio-kit)
+
++ [Sitescripter AI](https://www.producthunt.com/posts/sitescripter-ai)
+
