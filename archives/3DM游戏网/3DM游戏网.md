@@ -123,3 +123,7 @@
 
 + [《潜行者：切尔诺贝利之心》发售日公布 预购已开始](https://www.3dmgame.com/news/202401/3886232.html)
 
++ [《漫威蜘蛛侠2》非官方PC移植版发布 容量大小256GB](https://www.3dmgame.com/news/202401/3886243.html)
+
++ [恐怖游戏《玛莎已死》将改编成真人电影](https://www.3dmgame.com/news/202401/3886242.html)
+

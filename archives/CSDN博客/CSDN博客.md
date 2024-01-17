@@ -123,3 +123,7 @@
 
 + [华为埋头造车，躺赚的却是黄牛？](https://blog.csdn.net/autocore2017/article/details/135625123)
 
++ [Python-OpenCV教程丨从零开始学计算机视觉](https://blog.csdn.net/m0_68111267/article/details/135611664)
+
++ [【CSDN年度征文】关于三掌柜2023全年回顾和总结](https://blog.csdn.net/CC1991_/article/details/135633851)
+

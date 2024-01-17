@@ -29,3 +29,7 @@
 
 + [“性能提升超百倍、体积缩小至百分之一”，微软正式公布使用 Rust 语言重写的 Azure Quantum 开发工具](https://m.ithome.com/html/745519.htm)
 
++ [五菱汽车：网传“五菱星光相关 DEMO 视频”非官方行为，已报警](https://m.ithome.com/html/745572.htm)
+
++ [比亚迪仰望 U8 玩家版将全球首发大疆车载无人机：支持自动换电、一键起飞](https://m.ithome.com/html/745577.htm)
+

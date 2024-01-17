@@ -41,3 +41,7 @@
 
 + [NCSC发布全新中小企业实用安全指南](https://www.freebuf.com/news/389657.html)
 
++ [FreeBuf早报 | 荷兰披露“震网”的背后细节； 刘德华自曝很担心女儿网络安全](https://www.freebuf.com/news/389825.html)
+
++ [开发多个工具包的黑产团伙GXC正在积极拥抱AI技术](https://www.freebuf.com/articles/network/389395.html)
+
