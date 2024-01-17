@@ -137,3 +137,49 @@
 
 + [《Bodycam》邀请Steam玩家免费测试 多人第一视角FPS](https://www.3dmgame.com/news/202401/3886244.html)
 
++ [美国最高法院分别驳回苹果与Epic Games双方提出的上诉](https://www.3dmgame.com/news/202401/3886266.html)
+
++ [“Xbox之父”展示原版主机原型开发机：长得像PC](https://www.3dmgame.com/news/202401/3886267.html)
+
++ [《Exodus》新概念艺术图 看起来像《质量效应》](https://www.3dmgame.com/news/202401/3886268.html)
+
++ [中手游《仙剑世界》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886269.html)
+
++ [《威利船长》上架PC平台 迪士尼《汽船威利》衍生恐怖冒险游戏](https://www.3dmgame.com/news/202401/3886270.html)
+
++ [制作人解释为何首先重制《女神异闻录3》：玩家呼声最高](https://www.3dmgame.com/news/202401/3886271.html)
+
++ [P社建造管理游戏《监狱建筑师2》Steam页面  国区售价198元](https://www.3dmgame.com/news/202401/3886259.html)
+
++ [育碧发布竞技平台射击游戏《BattleCore Arena》技术测试预告](https://www.3dmgame.com/news/202401/3886260.html)
+
++ [《原始袭变》第三赛季1月18日上线 联动《怪物猎人》](https://www.3dmgame.com/news/202401/3886261.html)
+
++ [《暗黑4》第三季魔动机赛季介绍 和机奴同伴并肩战斗](https://www.3dmgame.com/news/202401/3886262.html)
+
++ [柴犬在速通大会创佳绩 30分内通关FC经典游戏《机器人组件》](https://www.3dmgame.com/news/202401/3886263.html)
+
++ [SE称《泡沫明星》包含AI艺术“仅占万分之一”](https://www.3dmgame.com/news/202401/3886264.html)
+
++ [动物园恐怖游戏《Zoochosis》预告 支持简体中文](https://www.3dmgame.com/news/202401/3886265.html)
+
++ [《星空》重大更新突然推迟发布 因为发现新的问题](https://www.3dmgame.com/news/202401/3886250.html)
+
++ [苹果Vision Pro首发流媒体应用公开 支持超过150部3D电影](https://www.3dmgame.com/news/202401/3886249.html)
+
++ [欧洲2023年PS5销量飙升 EA足球游戏最热销](https://www.3dmgame.com/news/202401/3886252.html)
+
++ [《地狱之刃2》发售日泄露 今年5月21日发售](https://www.3dmgame.com/news/202401/3886253.html)
+
++ [《古墓丽影三部曲：重置版》开发者首次讨论游戏细节 控制方式变化等内容](https://www.3dmgame.com/news/202401/3886251.html)
+
++ [《THE FINALS》更新1.5即将上线 单人模式Solo Bank It首次登场](https://www.3dmgame.com/news/202401/3886254.html)
+
++ [格斗对战游戏《轩辕剑：巅峰对决》将在台北电玩展亮相](https://www.3dmgame.com/news/202401/3886255.html)
+
++ [新Xbox直面会不会有游戏立即发售 都将在晚些时候推出](https://www.3dmgame.com/news/202401/3886256.html)
+
++ [《星期三》第二季更宏大 每集更像一部电影](https://www.3dmgame.com/news/202401/3886257.html)
+
++ [报道称去年腾讯收购大幅削减 仅达成39笔交易](https://www.3dmgame.com/news/202401/3886258.html)
+

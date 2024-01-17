@@ -47,3 +47,9 @@
 
 + [AI实践 | 一文简述语音克隆实践](https://www.freebuf.com/articles/network/389291.html)
 
++ [Ivanti Connect Secure 曝两大零日漏洞，已被大规模利用](https://www.freebuf.com/news/389875.html)
+
++ [卡巴斯基GReAT发布新工具，用于识别Pegasus和其他iOS间谍软件](https://www.freebuf.com/news/389882.html)
+
++ [CISA和FBI联合警告：Androxgh0st恶意软件正在创建大型僵尸网络](https://www.freebuf.com/news/389879.html)
+
