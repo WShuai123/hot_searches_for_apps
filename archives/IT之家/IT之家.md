@@ -25,3 +25,5 @@
 
 + [今晚油价将下调，加满一箱 92 号汽油少花 2 元左右](https://m.ithome.com/html/745777.htm)
 
++ [消息称苹果 iPhone 16 Pro 系列 1TB 机型或采用 QLC 闪存，读写速度更慢](https://m.ithome.com/html/745814.htm)
+

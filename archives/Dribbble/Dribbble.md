@@ -75,3 +75,13 @@
 
 + [Floral](https://dribbble.com/shots/)
 
++ [Artemjev Zhenya Illustrator](https://dribbble.com/shots/)
+
++ [Hope for 2024](https://dribbble.com/shots/)
+
++ [Train story landscape](https://dribbble.com/shots/)
+
++ [Vintage Woodsum camera](https://dribbble.com/shots/)
+
++ [Art Direction 1](https://dribbble.com/shots/)
+
