@@ -183,3 +183,23 @@
 
 + [报道称去年腾讯收购大幅削减 仅达成39笔交易](https://www.3dmgame.com/news/202401/3886258.html)
 
++ [韩国玩家喜新厌旧！RTX 4060彻底碾压RTX 3060](https://www.3dmgame.com/news/202401/3886282.html)
+
++ [玩家晒商场街机19年前游戏机奖品 网友吐槽正常玩根本得不到](https://www.3dmgame.com/news/202401/3886281.html)
+
++ [7600车位！中国最大清洁能源汽车运输船今日首航欧洲](https://www.3dmgame.com/news/202401/3886279.html)
+
++ [《暗黑4》第二赛季玩家反馈最早第4赛季才会加入游戏中](https://www.3dmgame.com/news/202401/3886280.html)
+
++ [《异形》前传性质电视剧制作人表示 将忽略前传电影《普罗米修斯》](https://www.3dmgame.com/news/202401/3886278.html)
+
++ [《孤岛惊魂》衍生作 育碧《激光战鹰队长：Niji Warrior》通过评级](https://www.3dmgame.com/news/202401/3886277.html)
+
++ [AI游戏探索 AI原生游戏《1001夜》Steam页面](https://www.3dmgame.com/news/202401/3886275.html)
+
++ [欧洲12月销量榜：《阿凡达：潘多拉边境》首发第六](https://www.3dmgame.com/news/202401/3886274.html)
+
++ [《女绿巨人》主演透露 漫威对第二季制作并不热衷](https://www.3dmgame.com/news/202401/3886272.html)
+
++ [OpenAI新动作 收集民调确保AI大模型与人类价值观保持一致](https://www.3dmgame.com/news/202401/3886276.html)
+

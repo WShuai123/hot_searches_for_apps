@@ -53,3 +53,5 @@
 
 + [CISA和FBI联合警告：Androxgh0st恶意软件正在创建大型僵尸网络](https://www.freebuf.com/news/389879.html)
 
++ [记一次企业供应链下的Java框架渗透测试](https://www.freebuf.com/vuls/389720.html)
+
