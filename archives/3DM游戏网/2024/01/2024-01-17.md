@@ -203,3 +203,17 @@
 
 + [OpenAI新动作 收集民调确保AI大模型与人类价值观保持一致](https://www.3dmgame.com/news/202401/3886276.html)
 
++ [类《8号出口》心理恐怖游戏《医院666》将于月底在Steam正式发售](https://www.3dmgame.com/news/202401/3886289.html)
+
++ [《暗黑破坏神4》DLC与赛季不关联 错过也没关系](https://www.3dmgame.com/news/202401/3886288.html)
+
++ [《火影忍者：终极风暴羁绊》首位DLC角色“大筒木羽衣”公布 上线时间待定](https://www.3dmgame.com/news/202401/3886286.html)
+
++ [《最终幻想14》新生活品将实装 之前热议粗劣葡萄回归](https://www.3dmgame.com/news/202401/3886287.html)
+
++ [《博德之门3》Steam玩家发现 通关第一章的玩家数不足一半](https://www.3dmgame.com/news/202401/3886284.html)
+
++ [硬核武侠动作游戏《乂闻录：轮回》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3886285.html)
+
++ [《风骚律师》艾美提名53次未获奖 导演：新记录！](https://www.3dmgame.com/news/202401/3886283.html)
+
