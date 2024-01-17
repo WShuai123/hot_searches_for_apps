@@ -39,3 +39,7 @@
 
 + [清华大学再次否认 80% 毕业生出国，本届就业民企前两位是华为、比亚迪](https://m.ithome.com/html/745654.htm)
 
++ [新款专业摄影手柄入网，小米 14 Ultra 旗舰手机蓄势待发](https://m.ithome.com/html/745667.htm)
+
++ [ROG 游戏手机 8 / Pro 正式发布：高通骁龙 8 Gen 3、可选“光学矩阵屏”，4799 元起](https://m.ithome.com/html/745566.htm)
+

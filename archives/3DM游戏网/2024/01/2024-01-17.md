@@ -225,3 +225,19 @@
 
 + [“书生・浦语”2.0大语言模型开源 200K上下文](https://www.3dmgame.com/news/202401/3886290.html)
 
++ [经典第三部《铳梦：火星战记》连载重开 1月23日免费刊载](https://www.3dmgame.com/news/202401/3886301.html)
+
++ [《咩咩启示录》免费大更新“肉身之罪”预告 现已上线](https://www.3dmgame.com/news/202401/3886298.html)
+
++ [《机械战警：暴戾都市》开发商Teyon希望能开发更多IP授权游戏](https://www.3dmgame.com/news/202401/3886299.html)
+
++ [送外卖根本没前途！清华教授：越来越多的00后毕业生选择进厂打工](https://www.3dmgame.com/news/202401/3886300.html)
+
++ [芝加哥寒潮大量特斯拉无法充电 或是充电桩冻坏](https://www.3dmgame.com/news/202401/3886297.html)
+
++ [电视剧《仙剑奇侠传4》定档预告 今晚正式开播](https://www.3dmgame.com/news/202401/3886296.html)
+
++ [EVA初号机专用高震动粒子刀模型登场 史上首次搭载声光效果](https://www.3dmgame.com/news/202401/3886295.html)
+
++ [《最后的生还者2：复刻版》M站均分90 媒体好评如潮](https://www.3dmgame.com/news/202401/3886294.html)
+

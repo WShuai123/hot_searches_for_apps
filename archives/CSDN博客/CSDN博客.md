@@ -147,3 +147,5 @@
 
 + [2024华数杯国际数学建模A题思路模型详解](https://blog.csdn.net/weixin_45499067/article/details/135640245)
 
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi1113/article/details/135622887)
+
