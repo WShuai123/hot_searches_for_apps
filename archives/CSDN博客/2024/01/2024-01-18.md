@@ -193,3 +193,5 @@
 
 + [CentOS使用docker本地部署StackEdit Markdown编辑器并实现公网访问](https://blog.csdn.net/st200112266/article/details/135676856)
 
++ [如何在Linux运行RStudio Server并实现Web浏览器远程访问](https://blog.csdn.net/Aileenvov/article/details/135675310)
+

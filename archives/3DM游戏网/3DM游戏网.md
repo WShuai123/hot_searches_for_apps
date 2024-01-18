@@ -291,3 +291,9 @@
 
 + [超人、露易斯版权10年后进入公领域](https://www.3dmgame.com/news/202401/3886421.html)
 
++ [字节跳动在加拿大、澳大利亚筹建研发中心](https://www.3dmgame.com/news/202401/3886423.html)
+
++ [4070、4070 Super和4070Ti横评：11款游戏实测](https://www.3dmgame.com/news/202401/3886420.html)
+
++ [RTX 40 Super推出后 RX 7900 XT降价到750美元](https://www.3dmgame.com/news/202401/3886422.html)
+
