@@ -215,3 +215,5 @@
 
 + [同程旅行-订酒店机票火车票,低价打车](https://itunes.apple.com/cn/app/id475966832?mt=8)
 
++ [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
+

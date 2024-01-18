@@ -105,3 +105,23 @@
 
 + [ModernLTV](https://www.producthunt.com/posts/modernltv)
 
++ [Superhuman AI for iPhone & iPad](https://www.producthunt.com/posts/superhuman-ai-for-iphone-ipad)
+
++ [TidyCal 3.0](https://www.producthunt.com/posts/tidycal-3-0)
+
++ [PMFLIX](https://www.producthunt.com/posts/pmflix)
+
++ [Auto Wiki](https://www.producthunt.com/posts/auto-wiki)
+
++ [Support OS by Threado AI](https://www.producthunt.com/posts/support-os-by-threado-ai)
+
++ [Releaso](https://www.producthunt.com/posts/releaso)
+
++ [Yomu AI](https://www.producthunt.com/posts/yomu-ai)
+
++ [RowsX](https://www.producthunt.com/posts/rowsx)
+
++ [Modelize.ai 1.0 - AI workflows](https://www.producthunt.com/posts/modelize-ai-1-0-ai-workflows)
+
++ [Hipstamatic Model 10 Camera](https://www.producthunt.com/posts/hipstamatic-model-10-camera)
+

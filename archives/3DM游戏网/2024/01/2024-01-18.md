@@ -233,3 +233,15 @@
 
 + [小岛秀夫有福了 传闻《Lycoris Recoil 莉可丽丝》电影正在制作中](https://www.3dmgame.com/news/202401/3886388.html)
 
++ [《泰拉瑞亚》1.4.5版本不止与《死亡细胞》联动 副总裁强调大概率是最后一次更新](https://www.3dmgame.com/news/202401/3886396.html)
+
++ [《马里奥vs大金刚》全新预告 2月16日发售](https://www.3dmgame.com/news/202401/3886397.html)
+
++ [《寿司发射》登陆Switch 欢乐派对消除竞技新游](https://www.3dmgame.com/news/202401/3886398.html)
+
++ [KK对战平台新图推荐  名将乱入二次元？卡牌魔女畅享无尽奇遇](https://www.3dmgame.com/news/202401/3886393.html)
+
++ [脑力就是战斗力！《孤星猎人》今日发售 9折37.8元](https://www.3dmgame.com/news/202401/3886394.html)
+
++ [《使命召唤》“隐身”树人皮肤回归 可见性已提高](https://www.3dmgame.com/news/202401/3886395.html)
+

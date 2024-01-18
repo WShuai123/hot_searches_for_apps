@@ -173,3 +173,9 @@
 
 + [【JS逆向学习】房天下登陆案例](https://blog.csdn.net/andrew_wf/article/details/135631241)
 
++ [Elasticsearch：和 LIamaIndex 的集成](https://blog.csdn.net/UbuntuTouch/article/details/135645750)
+
++ [【印象深刻的实战经历】两次全国大学生数学建模经历分享](https://blog.csdn.net/VLOKL/article/details/135670454)
+
++ [Azure Machine Learning - 聊天机器人构建](https://blog.csdn.net/magicyangjay111/article/details/135667635)
+
