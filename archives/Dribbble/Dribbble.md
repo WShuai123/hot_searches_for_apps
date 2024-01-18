@@ -83,3 +83,13 @@
 
 + [Mythic Films Logo System](https://dribbble.com/shots/)
 
++ [Bend & Snap](https://dribbble.com/shots/)
+
++ [Jason Broyles Wordmark](https://dribbble.com/shots/)
+
++ [P(GA)](https://dribbble.com/shots/)
+
++ [3D Concept design](https://dribbble.com/shots/)
+
++ [Leg Day](https://dribbble.com/shots/)
+

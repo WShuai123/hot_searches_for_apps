@@ -101,3 +101,9 @@
 
 + [谷歌再次开启裁员 主要是YouTube部门](https://www.3dmgame.com/news/202401/3886375.html)
 
++ [Epic喜加一：平台动作游戏《love》免费领](https://www.3dmgame.com/news/202401/3886428.html)
+
++ [《鬼屋魔影：重制版》预告 欢迎来到德西托庄园](https://www.3dmgame.com/news/202401/3886426.html)
+
++ [《霍格沃茨之遗》是美国2023年最畅销游戏 击败《使命召唤》](https://www.3dmgame.com/news/202401/3886427.html)
+
