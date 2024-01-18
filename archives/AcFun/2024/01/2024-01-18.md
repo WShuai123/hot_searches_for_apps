@@ -85,3 +85,7 @@
 
 + [【绝望女神/A站独家翻唱】【緋色月下、狂咲ノ絶 Remix】](http://www.acfun.cn/v/ac43542310)
 
++ [【自翻】Chiikawa第132话「表演/吓一跳」ちいかわ](http://www.acfun.cn/v/ac43545107)
+
++ [话音刚落|(￣3￣)|](http://www.acfun.cn/v/ac43547314)
+

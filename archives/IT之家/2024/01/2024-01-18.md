@@ -35,3 +35,5 @@
 
 + [发售 3 个月仅掉价 18.2%，256GB 版苹果 iPhone 15 Pro Max 保值率傲视群雄](https://m.ithome.com/html/745857.htm)
 
++ [小米首款 5G 卫星移动终端入网](https://m.ithome.com/html/745920.htm)
+

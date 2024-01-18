@@ -157,3 +157,11 @@
 
 + [快速上手的 AI 工具-文心一言](https://blog.csdn.net/tjls2008/article/details/135633216)
 
++ [【Spring】Spring AOP](https://blog.csdn.net/m0_73888323/article/details/135632583)
+
++ [第90讲：MySQL数据库主从复制集群原理概念以及搭建流程](https://blog.csdn.net/weixin_44953658/article/details/135667976)
+
++ [探索设计模式的魅力：抽象工厂模式的艺术](https://blog.csdn.net/danci_/article/details/135638488)
+
++ [使用SPIN技术对LLM进行自我博弈微调训练](https://blog.csdn.net/m0_46510245/article/details/135666752)
+

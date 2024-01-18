@@ -211,3 +211,15 @@
 
 + [克苏鲁风格游戏《沉没之城》阔别近4年后重新上架Steam等平台](https://www.3dmgame.com/news/202401/3886379.html)
 
++ [2014年上线IOS商店 数字滑块小游戏《Threes》Steam页面上线](https://www.3dmgame.com/news/202401/3886387.html)
+
++ [《暗黑4》不会削弱第三赛季机奴 除非太不平衡](https://www.3dmgame.com/news/202401/3886386.html)
+
++ [《泡沫明星》制作人希望玩家不要和《斯普拉遁》比较 发展出“类魂”形式是一种荣幸](https://www.3dmgame.com/news/202401/3886385.html)
+
++ [《鸣潮》新实机演示公布 “奏鸣测试”招募开启](https://www.3dmgame.com/news/202401/3886384.html)
+
++ [《夜间崇拜》Steam页面上线 类八番出口2D版惊悚行走](https://www.3dmgame.com/news/202401/3886383.html)
+
++ [传闻：英特尔计划CES 2025推移动版Arrow Lake处理器](https://www.3dmgame.com/news/202401/3886382.html)
+
