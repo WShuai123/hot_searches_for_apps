@@ -73,3 +73,5 @@
 
 + [小女孩追杀小女孩！小女孩赢咯~](http://www.acfun.cn/v/ac43546087)
 
++ [【东方】ハジメテノオト【上海人形 Ver. MMD】](http://www.acfun.cn/v/ac43546276)
+
