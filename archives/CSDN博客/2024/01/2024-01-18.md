@@ -185,3 +185,5 @@
 
 + [GitHub Copliot：AI驱动的编程神器](https://blog.csdn.net/2301_79188764/article/details/135637412)
 
++ [Fpga开发笔记（二）：高云FPGA发开发软件Gowin和高云fpga基本开发过程](https://blog.csdn.net/qq21497936/article/details/135620590)
+

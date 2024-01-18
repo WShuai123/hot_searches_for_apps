@@ -47,3 +47,7 @@
 
 + [联想拯救者 Y9000P 2024 游戏本发布：最高 RTX 4090 显卡、100% DCI-P3 色域](https://m.ithome.com/html/745797.htm)
 
++ [华为发布 HarmonyOS NEXT 鸿蒙星河版，开发者预览版开放申请](https://m.ithome.com/html/745981.htm)
+
++ [三名乘客同时购买同航班发现票价不同，飞猪回应“绝不是大数据杀熟”](https://m.ithome.com/html/745964.htm)
+
