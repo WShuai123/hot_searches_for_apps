@@ -101,3 +101,9 @@
 
 + [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_77645573/article/details/135612601)
 
++ [2024年华数杯国际赛赛题浅析](https://blog.csdn.net/qq_33690821/article/details/135640295)
+
++ [东北编程语言？？？](https://blog.csdn.net/weixin_64953014/article/details/135524792)
+
++ [高效的交付，从模板开始](https://blog.csdn.net/zyk830324/article/details/135623723)
+
