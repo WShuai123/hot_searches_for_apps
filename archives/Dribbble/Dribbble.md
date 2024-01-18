@@ -49,3 +49,25 @@
 
 + [CARHARTT SELECTION GRAPHIC](https://dribbble.com/shots/)
 
++ [Salesforce CRM - Sales Analytics Software](https://dribbble.com/shots/)
+
++ [Yeti Trail Runners. Run With Us](https://dribbble.com/shots/)
+
++ [All Shapes & Sizes](https://dribbble.com/shots/)
+
++ [January got me like ????](https://dribbble.com/shots/)
+
++ [Search Spot illustrations](https://dribbble.com/shots/)
+
++ [Hoops](https://dribbble.com/shots/)
+
++ [El Abandono](https://dribbble.com/shots/)
+
++ [Juicy Bonus](https://dribbble.com/shots/)
+
++ [Shapes 1/3 (PSE '23)](https://dribbble.com/shots/)
+
++ [DJ](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. I](https://dribbble.com/shots/)
+
