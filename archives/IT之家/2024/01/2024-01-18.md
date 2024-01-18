@@ -51,3 +51,7 @@
 
 + [三名乘客同时购买同航班发现票价不同，飞猪回应“绝不是大数据杀熟”](https://m.ithome.com/html/745964.htm)
 
++ [华为鸿蒙星河版系统界面亮相：HarmonyOS NEXT 全新控制中心、多彩配色](https://m.ithome.com/html/746012.htm)
+
++ [比亚迪秦 L 谍照曝光：定位中型轿车，预计将搭载第 5 代 DM-i 混动技术](https://m.ithome.com/html/745942.htm)
+

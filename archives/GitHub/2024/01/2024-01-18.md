@@ -51,3 +51,41 @@
 
 + [MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)
 
++ [mihonapp / mihon](https://github.com/mihonapp/mihon)
+
++ [netease-youdao / QAnything](https://github.com/netease-youdao/QAnything)
+
++ [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
++ [microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver)
+
++ [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [rails / rails](https://github.com/rails/rails)
+
++ [XingangPan / DragGAN](https://github.com/XingangPan/DragGAN)
+
++ [Dooy / chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
+
++ [roothide / Bootstrap](https://github.com/roothide/Bootstrap)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+
++ [max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot)
+
++ [Azure / azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+
++ [facebookresearch / dinov2](https://github.com/facebookresearch/dinov2)
+
++ [fish-shell / fish-shell](https://github.com/fish-shell/fish-shell)
+
++ [ReaVNaiL / New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
+
++ [karanpratapsingh / system-design](https://github.com/karanpratapsingh/system-design)
+
++ [InternLM / InternLM](https://github.com/InternLM/InternLM)
+
++ [kedacore / keda](https://github.com/kedacore/keda)
+

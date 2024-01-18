@@ -25,3 +25,5 @@
 
 + [米加小镇:世界](https://www.taptap.cn/app/278604)
 
++ [蔚蓝档案](https://www.taptap.cn/app/316964)
+
