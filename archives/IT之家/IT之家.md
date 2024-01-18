@@ -55,3 +55,5 @@
 
 + [比亚迪秦 L 谍照曝光：定位中型轿车，预计将搭载第 5 代 DM-i 混动技术](https://m.ithome.com/html/745942.htm)
 
++ [华为 HarmonyOS NEXT 开发者预览版官方页面上线，关键开发特性公布](https://m.ithome.com/html/746015.htm)
+
