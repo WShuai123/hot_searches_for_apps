@@ -265,3 +265,17 @@
 
 + [你还会玩吗！网易暴雪最后一案取消开庭 双方撤诉背后国服要回归节奏](https://www.3dmgame.com/news/202401/3886399.html)
 
++ [经典重制RPG《赵云传：云汉腾龙》正式发售Steam 限时68.4元](https://www.3dmgame.com/news/202401/3886413.html)
+
++ [RTX4070 SUPER显卡国内今日开卖：4899元 性能超3090](https://www.3dmgame.com/news/202401/3886414.html)
+
++ [联想极品台式机首发RTX4090D：29999元 搭配6GHz CPU](https://www.3dmgame.com/news/202401/3886415.html)
+
++ [《光环》电视剧第二季新海报曝光 大战氛围感拉满](https://www.3dmgame.com/news/202401/3886409.html)
+
++ [新作《WWE 2K24》正式官宣 更多细节1月22日公布](https://www.3dmgame.com/news/202401/3886410.html)
+
++ [《Apex》俱乐部NSD严厉处罚旗下参与代练选手 全额退还赞助费](https://www.3dmgame.com/news/202401/3886412.html)
+
++ [《仙剑4》电视剧与游戏画面对比：许多地方很好还原了](https://www.3dmgame.com/news/202401/3886411.html)
+

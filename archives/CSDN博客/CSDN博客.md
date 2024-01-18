@@ -183,3 +183,5 @@
 
 + [ONLYOFFICE：开源、免费、安全，打造定制化办公平台的最佳选择](https://blog.csdn.net/JHXL_/article/details/135664886)
 
++ [GitHub Copliot：AI驱动的编程神器](https://blog.csdn.net/2301_79188764/article/details/135637412)
+

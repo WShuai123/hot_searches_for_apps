@@ -45,3 +45,5 @@
 
 + [联想拯救者 Y7000P 2024 游戏本发布：14 代 HX，首发价 7299 元起](https://m.ithome.com/html/745795.htm)
 
++ [联想拯救者 Y9000P 2024 游戏本发布：最高 RTX 4090 显卡、100% DCI-P3 色域](https://m.ithome.com/html/745797.htm)
+
