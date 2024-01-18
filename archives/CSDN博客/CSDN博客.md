@@ -107,3 +107,19 @@
 
 + [高效的交付，从模板开始](https://blog.csdn.net/zyk830324/article/details/135623723)
 
++ [计算机网络——运输层（1）暨小程送书](https://blog.csdn.net/weixin_74888502/article/details/135626697)
+
++ [【NPL】自然语言处理（Natural Language Processing，NLP）的发展简述](https://blog.csdn.net/lmy_520/article/details/135671075)
+
++ [医学图像的图像处理、分割、分类和定位-1](https://blog.csdn.net/gongdiwudu/article/details/135664449)
+
++ [Python多线程爬虫——数据分析项目实现详解](https://blog.csdn.net/Why_does_it_work/article/details/135653472)
+
++ [2024美赛数学建模思路 - 案例：ID3-决策树分类算法](https://blog.csdn.net/dc_sinor/article/details/135651018)
+
++ [【从零开始学习Redis | 第七篇】利用Redis构造全局唯一ID（含其他构造方法）](https://blog.csdn.net/fckbb/article/details/135678480)
+
++ [【数学建模】数据处理与可视化](https://blog.csdn.net/m0_61819793/article/details/135646182)
+
++ [探索Python数据结构与算法：解锁编程的无限可能](https://blog.csdn.net/qq_51601665/article/details/135647974)
+
