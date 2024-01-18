@@ -57,3 +57,5 @@
 
 + [华为 HarmonyOS NEXT 开发者预览版官方页面上线，关键开发特性公布](https://m.ithome.com/html/746015.htm)
 
++ [华为 HarmonyOS NEXT 鸿蒙星河版第四季度商用，第二季度启动开发者 Beta](https://m.ithome.com/html/745993.htm)
+

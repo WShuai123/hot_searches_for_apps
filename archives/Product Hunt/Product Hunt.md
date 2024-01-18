@@ -165,3 +165,17 @@
 
 + [Samsung S24](https://www.producthunt.com/posts/samsung-s24)
 
++ [EpicTopia AI](https://www.producthunt.com/posts/epictopia-ai)
+
++ [Sharly AI](https://www.producthunt.com/posts/sharly-ai)
+
++ [Broadcast 2.0](https://www.producthunt.com/posts/broadcast-2-0-2)
+
++ [Value Sense (Beta)](https://www.producthunt.com/posts/value-sense-beta)
+
++ [Shipped.club](https://www.producthunt.com/posts/shipped-club)
+
++ [Social Proof Everywhere](https://www.producthunt.com/posts/social-proof-everywhere)
+
++ [mentalport-app](https://www.producthunt.com/posts/mentalport-app)
+
