@@ -13,3 +13,7 @@
 
 + [2023年终杂谈](https://www.ui.cn/detail/661072.html)
 
++ [UI设计师必须要懂设计心理学](https://www.ui.cn/detail/661462.html)
+
++ [设计灵感来源于“善于发现”](https://www.ui.cn/detail/661464.html)
+

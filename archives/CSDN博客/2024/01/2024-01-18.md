@@ -165,3 +165,11 @@
 
 + [使用SPIN技术对LLM进行自我博弈微调训练](https://blog.csdn.net/m0_46510245/article/details/135666752)
 
++ [【FPGA】Verilog描述电路的三种方式（结构化、数据流和行为化）](https://blog.csdn.net/wuzhikaidetb/article/details/135649674)
+
++ [【论文解读】用于代码处理的语言模型综述](https://blog.csdn.net/INTSIG/article/details/135667693)
+
++ [如何在CentOS下使用Docker部署Halo博客网站并结合内网穿透远程访问](https://blog.csdn.net/qq_57761637/article/details/135670211)
+
++ [【JS逆向学习】房天下登陆案例](https://blog.csdn.net/andrew_wf/article/details/135631241)
+

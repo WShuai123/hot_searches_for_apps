@@ -55,3 +55,5 @@
 
 + [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
 
++ [如何使用CureIAM自动清理GCP基础设施中的IAM账号权限](https://www.freebuf.com/sectool/389286.html)
+
