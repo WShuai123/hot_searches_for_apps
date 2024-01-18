@@ -123,3 +123,9 @@
 
 + [探索Python数据结构与算法：解锁编程的无限可能](https://blog.csdn.net/qq_51601665/article/details/135647974)
 
++ [群晖Drive搭建云同步服务器结合内网穿透实现Obsidian笔记文件远程多端同步](https://blog.csdn.net/2201_75743654/article/details/135683020)
+
++ [Chatglm3-6B模型如何对接到企微](https://blog.csdn.net/weixin_57635535/article/details/135669976)
+
++ [如何配置Pycharm服务器并结合内网穿透工具实现远程开发](https://blog.csdn.net/hsjsiwkwm/article/details/135621829)
+

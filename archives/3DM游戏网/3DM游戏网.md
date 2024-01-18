@@ -111,3 +111,17 @@
 
 + [微软宣布《地狱之刃2》将于5月21日发售 新视频欣赏](https://www.3dmgame.com/news/202401/3886429.html)
 
++ [塔防/RTS混合游戏《Cataclismo》2024 Q2推出](https://www.3dmgame.com/news/202401/3886436.html)
+
++ [圣剑传说系列新作确定于2024年夏季发售](https://www.3dmgame.com/news/202401/3886435.html)
+
++ [《铁拳8》正式上市预告片公布 1/26推出](https://www.3dmgame.com/news/202401/3886434.html)
+
++ [《秋之回忆》旧作将登Steam 支持中文 页面已上线](https://www.3dmgame.com/news/202401/3886433.html)
+
++ [《夺宝奇兵：大圆环》首个引擎内预告 2024年发售](https://www.3dmgame.com/news/202401/3886432.html)
+
++ [《阿拉：不为人知的历史》将于今年秋季推出](https://www.3dmgame.com/news/202401/3886431.html)
+
++ [GDC 2024报告显示：8%开发者正开发Switch2游戏](https://www.3dmgame.com/news/202401/3886438.html)
+
