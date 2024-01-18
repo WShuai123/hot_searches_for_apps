@@ -125,3 +125,35 @@
 
 + [Hipstamatic Model 10 Camera](https://www.producthunt.com/posts/hipstamatic-model-10-camera)
 
++ [Broadcast](https://www.producthunt.com/posts/broadcast-4)
+
++ [Locket](https://www.producthunt.com/posts/locket-3)
+
++ [Draxlr AI](https://www.producthunt.com/posts/draxlr-ai)
+
++ [Marketing Calendar + Planner 2024](https://www.producthunt.com/posts/marketing-calendar-planner-2024)
+
++ [Recognize for Slack](https://www.producthunt.com/posts/recognize-for-slack)
+
++ [Enveloop](https://www.producthunt.com/posts/enveloop-2)
+
++ [Brainstory for Teams](https://www.producthunt.com/posts/brainstory-for-teams)
+
++ [Strategy Tactics](https://www.producthunt.com/posts/strategy-tactics)
+
++ [IToy](https://www.producthunt.com/posts/itoy)
+
++ [Sintonico](https://www.producthunt.com/posts/sintonico)
+
++ [Resumenalyzer](https://www.producthunt.com/posts/resumenalyzer)
+
++ [Influenzer](https://www.producthunt.com/posts/influenzer)
+
++ [AvocadoGrowth Frontend Coding Challenge](https://www.producthunt.com/posts/avocadogrowth-frontend-coding-challenge)
+
++ [LaunchPalette](https://www.producthunt.com/posts/launchpalette)
+
++ [ChatGPT PasteBuddy](https://www.producthunt.com/posts/chatgpt-pastebuddy)
+
++ [Emailwish](https://www.producthunt.com/posts/emailwish-2)
+

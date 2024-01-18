@@ -41,3 +41,7 @@
 
 + [全员“五险一金”，近百名京东快递小哥三年收入超百万](https://m.ithome.com/html/745909.htm)
 
++ [1000 万 10x 变 5000 万 5x，三星 Galaxy S24 Ultra 手机变焦拍摄样张对比](https://m.ithome.com/html/745850.htm)
+
++ [联想拯救者 Y7000P 2024 游戏本发布：14 代 HX，首发价 7299 元起](https://m.ithome.com/html/745795.htm)
+

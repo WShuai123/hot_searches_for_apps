@@ -179,3 +179,7 @@
 
 + [Azure Machine Learning - 聊天机器人构建](https://blog.csdn.net/magicyangjay111/article/details/135667635)
 
++ [2023国赛 陕西省省级二等奖得主 数学建模学习资源推荐](https://blog.csdn.net/shaozheng0503/article/details/135635859)
+
++ [ONLYOFFICE：开源、免费、安全，打造定制化办公平台的最佳选择](https://blog.csdn.net/JHXL_/article/details/135664886)
+
