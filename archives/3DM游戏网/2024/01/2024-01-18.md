@@ -131,3 +131,17 @@
 
 + [魔法美少女弹幕游戏《Magic Chaos》妇女节上市](https://www.3dmgame.com/news/202401/3886335.html)
 
++ [多端社交游戏《阳光日子》开发商裁员25人](https://www.3dmgame.com/news/202401/3886347.html)
+
++ [《刺客信条：黑旗》重制版新证据 育碧新加坡参与其中](https://www.3dmgame.com/news/202401/3886346.html)
+
++ [美国最高法院驳回上诉后 Epic总裁表示将采取更多法律手段](https://www.3dmgame.com/news/202401/3886345.html)
+
++ [英国实体周榜：《双人成行》PS4促销推动重回前十](https://www.3dmgame.com/news/202401/3886344.html)
+
++ [《最后的生还者2：重制版》实机截图 高清人物风景绝美](https://www.3dmgame.com/news/202401/3886348.html)
+
++ [62岁女星Jennifer Coolidge加盟《我的世界》电影](https://www.3dmgame.com/news/202401/3886343.html)
+
++ [《ENENRA: DΔEMON CORE》Steam页面上线 赛朋砍杀动作](https://www.3dmgame.com/news/202401/3886342.html)
+

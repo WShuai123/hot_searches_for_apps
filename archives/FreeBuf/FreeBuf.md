@@ -45,3 +45,5 @@
 
 + [AgentTesla 全球受害者情况分析](https://www.freebuf.com/articles/network/389620.html)
 
++ [安全AI系统开发指南，全球首份相关安全标准](https://www.freebuf.com/news/389946.html)
+

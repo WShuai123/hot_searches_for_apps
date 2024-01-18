@@ -27,3 +27,7 @@
 
 + [消息称苹果 iPhone 16 Pro 系列 1TB 机型或采用 QLC 闪存，读写速度更慢](https://m.ithome.com/html/745814.htm)
 
++ [三星 Galaxy S24 系列手机国行先行者价格公布，5999 元起](https://m.ithome.com/html/745847.htm)
+
++ [三星 Galaxy S24 Ultra 手机发布：钛合金机身、AI 功能加持，1299 美元起](https://m.ithome.com/html/745835.htm)
+

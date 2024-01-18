@@ -85,3 +85,13 @@
 
 + [Art Direction 1](https://dribbble.com/shots/)
 
++ [Hoops](https://dribbble.com/shots/)
+
++ [Glyph 23](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. I](https://dribbble.com/shots/)
+
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [Salesforce CRM - Sales Analytics Software](https://dribbble.com/shots/)
+

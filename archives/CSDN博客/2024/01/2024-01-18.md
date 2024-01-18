@@ -127,3 +127,11 @@
 
 + [2023年总结：雄关漫道真如铁，而今迈步从头越，今朝得失](https://blog.csdn.net/Eastmount/article/details/135343814)
 
++ [Learn Python （一）](https://blog.csdn.net/2301_79712692/article/details/135643969)
+
++ [2024华数杯国际数学建模A题思路模型详解](https://blog.csdn.net/weixin_45499067/article/details/135640245)
+
++ [2024华数杯国际数学建模A 来自日本的放射性废水 （Problem A: Radioactive Wastewater from Japan）完整解题思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/135639773)
+
++ [基于jdk1.6、springmvc3分离系统定时任务的实现](https://blog.csdn.net/zhanqi19900308/article/details/135641418)
+
