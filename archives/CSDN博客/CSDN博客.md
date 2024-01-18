@@ -149,3 +149,11 @@
 
 + [【Android 逆向】程序员高危开发方向 ( 违法软件类型 | 赌博游戏 | 色情类应用 | 涉及金融类软件 | 爬虫类软件 | 区块链货币 | 甄别是否合法 )](https://blog.csdn.net/han1202012/article/details/135658343)
 
++ [【文本到上下文 #2】：NLP 的数据预处理步骤](https://blog.csdn.net/gongdiwudu/article/details/135601046)
+
++ [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_77645573/article/details/135612601)
+
++ [外包干了3个多月，技术退步明显。。。。。](https://blog.csdn.net/qq_73332379/article/details/135604587)
+
++ [快速上手的 AI 工具-文心一言](https://blog.csdn.net/tjls2008/article/details/135633216)
+

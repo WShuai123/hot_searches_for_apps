@@ -53,3 +53,5 @@
 
 + [伊朗黑客利用新的 MediaPl 恶意软件攻击研究人员](https://www.freebuf.com/news/389981.html)
 
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+
