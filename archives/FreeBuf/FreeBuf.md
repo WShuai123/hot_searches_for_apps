@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 阿联酋网络安全事件持续增加；深圳一药企在国外被骗近1亿](https://www.freebuf.com/news/389736.html)
 
++ [FreeBuf早报 | 西班牙地方政府遭勒索攻击；印度制药巨头遭电子邮件诈骗](https://www.freebuf.com/news/389926.html)
+
++ [AgentTesla 全球受害者情况分析](https://www.freebuf.com/articles/network/389620.html)
+

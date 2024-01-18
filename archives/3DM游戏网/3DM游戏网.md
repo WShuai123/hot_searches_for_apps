@@ -117,3 +117,17 @@
 
 + [原PS4恐怖游戏《直到黎明》电影正在制作中](https://www.3dmgame.com/news/202401/3886331.html)
 
++ [拉瑞安抵制订阅服务：我们的任何游戏都不会上](https://www.3dmgame.com/news/202401/3886341.html)
+
++ [Rocksteady联合创始人在英国伦敦成立新工作室](https://www.3dmgame.com/news/202401/3886340.html)
+
++ [《辐射避难所》团队发布手游《上古卷轴：城堡》](https://www.3dmgame.com/news/202401/3886339.html)
+
++ [《如龙8》新视频展示美国夏威夷巨大乌贼BOSS](https://www.3dmgame.com/news/202401/3886338.html)
+
++ [《碧蓝幻想：Relink》新视频展示卡塔莉娜/泽塔](https://www.3dmgame.com/news/202401/3886337.html)
+
++ [提前3天开玩育碧发布《碧海黑帆》高级版宣传片](https://www.3dmgame.com/news/202401/3886336.html)
+
++ [魔法美少女弹幕游戏《Magic Chaos》妇女节上市](https://www.3dmgame.com/news/202401/3886335.html)
+
