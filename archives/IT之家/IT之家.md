@@ -31,3 +31,5 @@
 
 + [三星 Galaxy S24 Ultra 手机发布：钛合金机身、AI 功能加持，1299 美元起](https://m.ithome.com/html/745835.htm)
 
++ [三星发布 Galaxy S24 / S24 + 手机：起售价 800/1000 美元、支持 7 年更新](https://m.ithome.com/html/745834.htm)
+

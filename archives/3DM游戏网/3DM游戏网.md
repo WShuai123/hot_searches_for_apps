@@ -145,3 +145,45 @@
 
 + [《ENENRA: DΔEMON CORE》Steam页面上线 赛朋砍杀动作](https://www.3dmgame.com/news/202401/3886342.html)
 
++ [Nexon旗下手游开发商Pixelberry宣布裁员](https://www.3dmgame.com/news/202401/3886363.html)
+
++ [《战锤：末世鼠疫2》推出多人PvPvE模式 封闭A测即将开启](https://www.3dmgame.com/news/202401/3886369.html)
+
++ [Roguelite俯视角射击游戏《忍者渔线传》Steam页面 2月8日发售](https://www.3dmgame.com/news/202401/3886367.html)
+
++ [《梦幻谷》登陆Switch 魔法元素农场模拟经营](https://www.3dmgame.com/news/202401/3886368.html)
+
++ [《勇者斗恶龙怪物仙境3》宣布销量突破100万份](https://www.3dmgame.com/news/202401/3886366.html)
+
++ [《权力的游戏》制作人承认应该进行剧情改变 但并非观众所期待的部分](https://www.3dmgame.com/news/202401/3886365.html)
+
++ [《最终幻想7：重生》新情报 介绍越野车和赤红XIII等](https://www.3dmgame.com/news/202401/3886364.html)
+
++ [《仙乡物语》登陆Steam发售 好评农场经营模拟](https://www.3dmgame.com/news/202401/3886362.html)
+
++ [《女神异闻录３ Reload》校园生活视频 2月2日发售](https://www.3dmgame.com/news/202401/3886360.html)
+
++ [B社解决了《星空》新问题 重大更新将于明天上线](https://www.3dmgame.com/news/202401/3886358.html)
+
++ [《欧陆风云4》订阅的区域价格暴涨 官方解释是定价错误](https://www.3dmgame.com/news/202401/3886357.html)
+
++ [SE《泡沫明星》后续将持续更新至少一年 所有角色都可免费获取](https://www.3dmgame.com/news/202401/3886356.html)
+
++ [心理恐怖监控游戏《UNHEIM》Steam页面 支持简中](https://www.3dmgame.com/news/202401/3886355.html)
+
++ [共享世界生存锻造RPG《夜莺》20分钟演示](https://www.3dmgame.com/news/202401/3886354.html)
+
++ [粉丝热情依旧 《往日不再2》请愿人数已达21万](https://www.3dmgame.com/news/202401/3886361.html)
+
++ [《女神异闻录3：Reload》首日DLC宣布 额外服装和配乐等](https://www.3dmgame.com/news/202401/3886359.html)
+
++ [《燕云十六声》4K DLSS3新实机演示 为玩家呈现视觉盛宴](https://www.3dmgame.com/news/202401/3886353.html)
+
++ [《最后生还者》制片人给“比尔和弗兰克”衍生剧“泼冷水”](https://www.3dmgame.com/news/202401/3886352.html)
+
++ [前GTA制作人新工作室获1.1亿美元融资 网易参投](https://www.3dmgame.com/news/202401/3886351.html)
+
++ [《尘埃终须落定》登陆Steam 推理冒险新游](https://www.3dmgame.com/news/202401/3886350.html)
+
++ [生存类游戏《HARM 气象战》Steam页面上线 年内发售](https://www.3dmgame.com/news/202401/3886349.html)
+

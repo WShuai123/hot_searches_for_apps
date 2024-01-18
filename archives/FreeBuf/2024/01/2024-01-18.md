@@ -47,3 +47,5 @@
 
 + [安全AI系统开发指南，全球首份相关安全标准](https://www.freebuf.com/news/389946.html)
 
++ [为什么洗衣机会每天自动上传3.6GB数据？](https://www.freebuf.com/news/389954.html)
+

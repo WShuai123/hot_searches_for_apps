@@ -135,3 +135,7 @@
 
 + [基于jdk1.6、springmvc3分离系统定时任务的实现](https://blog.csdn.net/zhanqi19900308/article/details/135641418)
 
++ [如何实现无公网ip固定TCP端口地址远程连接Oracle数据库](https://blog.csdn.net/qq_72916130/article/details/135607479)
+
++ [探索设计模式的魅力：工厂方法模式](https://blog.csdn.net/danci_/article/details/135611783)
+
