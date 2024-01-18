@@ -187,3 +187,21 @@
 
 + [生存类游戏《HARM 气象战》Steam页面上线 年内发售](https://www.3dmgame.com/news/202401/3886349.html)
 
++ [《摇曳庄有位幽奈小姐》多平台发布 全DLC收入终极版](https://www.3dmgame.com/news/202401/3886378.html)
+
++ [模拟经营游戏《一方灵田》正式版发售 特别联动内容同步上线](https://www.3dmgame.com/news/202401/3886376.html)
+
++ [史上最大游戏地图？Gmod大佬制作2千多个宇宙](https://www.3dmgame.com/news/202401/3886377.html)
+
++ [谷歌再次开启裁员 主要是YouTube部门](https://www.3dmgame.com/news/202401/3886375.html)
+
++ [2023年中国电视出货量创十年新低 海信销量登顶](https://www.3dmgame.com/news/202401/3886374.html)
+
++ [航海游戏《Sail Forth》Epic免费后玩家暴增2千倍](https://www.3dmgame.com/news/202401/3886373.html)
+
++ [官方再次确认《浪人崛起》是独占游戏 专为PS5打造](https://www.3dmgame.com/news/202401/3886372.html)
+
++ [《哥斯拉-1.0/C》将再次冲击北美院线 1月26日上映](https://www.3dmgame.com/news/202401/3886371.html)
+
++ [推理冒险游戏《关联线索》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3886370.html)
+

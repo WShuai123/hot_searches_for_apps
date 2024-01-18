@@ -139,3 +139,13 @@
 
 + [探索设计模式的魅力：工厂方法模式](https://blog.csdn.net/danci_/article/details/135611783)
 
++ [【文档数据库】ES和MongoDB的对比](https://blog.csdn.net/Joker_ZJN/article/details/135663020)
+
++ [基于华为MRS实时消费Kafka通过Flink落盘至HDFS的Hive外部表的调度方案](https://blog.csdn.net/qq_31412425/article/details/135657442)
+
++ [详解React与Vue的性能对比](https://blog.csdn.net/m0_72196169/article/details/135627644)
+
++ [2024年华数杯国际赛赛题浅析](https://blog.csdn.net/qq_33690821/article/details/135640295)
+
++ [【Android 逆向】程序员高危开发方向 ( 违法软件类型 | 赌博游戏 | 色情类应用 | 涉及金融类软件 | 爬虫类软件 | 区块链货币 | 甄别是否合法 )](https://blog.csdn.net/han1202012/article/details/135658343)
+

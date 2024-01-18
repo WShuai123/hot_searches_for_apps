@@ -33,3 +33,5 @@
 
 + [三星发布 Galaxy S24 / S24 + 手机：起售价 800/1000 美元、支持 7 年更新](https://m.ithome.com/html/745834.htm)
 
++ [发售 3 个月仅掉价 18.2%，256GB 版苹果 iPhone 15 Pro Max 保值率傲视群雄](https://m.ithome.com/html/745857.htm)
+

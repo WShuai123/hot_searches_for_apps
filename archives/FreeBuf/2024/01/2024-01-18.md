@@ -49,3 +49,7 @@
 
 + [为什么洗衣机会每天自动上传3.6GB数据？](https://www.freebuf.com/news/389954.html)
 
++ [OpenAI 公布2024选举虚假信息打击计划](https://www.freebuf.com/news/389979.html)
+
++ [伊朗黑客利用新的 MediaPl 恶意软件攻击研究人员](https://www.freebuf.com/news/389981.html)
+
