@@ -25,3 +25,5 @@
 
 + [飞机上也能打电话发短信，中国电信取得“卫星 + VoWiFi” 在航空场景的重大突破](https://m.ithome.com/html/746103.htm)
 
++ [科学家首次将猪肝移植到人体，成功过滤血液 72 小时](https://m.ithome.com/html/746150.htm)
+

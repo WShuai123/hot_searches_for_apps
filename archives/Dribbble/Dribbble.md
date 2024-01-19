@@ -71,3 +71,11 @@
 
 + [Tarot card #04: The Emperor](https://dribbble.com/shots/)
 
++ [Absorb Illustration](https://dribbble.com/shots/)
+
++ [Cluck Farm](https://dribbble.com/shots/)
+
++ [Jason Broyles Wordmark](https://dribbble.com/shots/)
+
++ [Until Next Time](https://dribbble.com/shots/)
+
