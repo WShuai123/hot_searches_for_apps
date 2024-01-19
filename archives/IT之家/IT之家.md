@@ -39,3 +39,5 @@
 
 + [支付宝时隔 4 年 Logo 再次换新：砍掉外框和文字，引入立体自然光](https://m.ithome.com/html/746112.htm)
 
++ [三星 Galaxy S24 Ultra 手机 100 倍变焦实测，相比 S23 Ultra 并无改进](https://m.ithome.com/html/746029.htm)
+

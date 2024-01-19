@@ -151,3 +151,7 @@
 
 + [年龄性别预测2：Pytorch实现年龄性别预测和识别(含训练代码和数据)](https://blog.csdn.net/guyuealian/article/details/135556789)
 
++ [Flutter中使用minio_new库](https://blog.csdn.net/WriteBug001/article/details/135681984)
+
++ [Spring WebSocket实现实时通信的详细教程](https://blog.csdn.net/weixin_44863237/article/details/135659715)
+
