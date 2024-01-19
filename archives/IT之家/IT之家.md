@@ -65,3 +65,5 @@
 
 + [广东永奥经销商被曝跑路，华为赛力斯成立工作组保障 31 位用户交车](https://m.ithome.com/html/746187.htm)
 
++ [开放世界生存游戏《幻兽帕鲁》Steam 开售，国区 108 元](https://m.ithome.com/html/746159.htm)
+

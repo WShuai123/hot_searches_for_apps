@@ -179,3 +179,5 @@
 
 + [文心一言使用分享](https://blog.csdn.net/ZhangRelay/article/details/135682351)
 
++ [SQL Server命令大全](https://blog.csdn.net/qqrrjj2011/article/details/135666645)
+
