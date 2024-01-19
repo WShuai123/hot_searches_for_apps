@@ -41,3 +41,7 @@
 
 + [DeepSecrets：一款能够理解代码语义的代码敏感信息扫描工具](https://www.freebuf.com/sectool/388918.html)
 
++ [FreeBuf早报 | Vicarius获3000万美元B轮融资；红帽将开发 AI 工具“日志侦探”](https://www.freebuf.com/news/390000.html)
+
++ [深入分析威胁行为者如何利用AWS服务实现数据提取](https://www.freebuf.com/articles/container/389373.html)
+

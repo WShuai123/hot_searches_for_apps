@@ -125,3 +125,15 @@
 
 + [GDC 2024报告显示：8%开发者正开发Switch2游戏](https://www.3dmgame.com/news/202401/3886438.html)
 
++ [《街头霸王6》DLC角色Ed 2月参战 预告片发布](https://www.3dmgame.com/news/202401/3886443.html)
+
++ [《地狱之刃2》只有数字版！游戏售价50美元](https://www.3dmgame.com/news/202401/3886442.html)
+
++ [《夺宝奇兵：古老之圈》Steam商店页公开 首批截图](https://www.3dmgame.com/news/202401/3886441.html)
+
++ [《波斯王子：失落的王冠》首日补丁优化游戏体验](https://www.3dmgame.com/news/202401/3886440.html)
+
++ [《苍翼默示录》主创将推出二次元兔女郎新游戏](https://www.3dmgame.com/news/202401/3886439.html)
+
++ [黑曜石《宣誓》确定2024年秋季发售](https://www.3dmgame.com/news/202401/3886437.html)
+
