@@ -155,3 +155,9 @@
 
 + [Spring WebSocket实现实时通信的详细教程](https://blog.csdn.net/weixin_44863237/article/details/135659715)
 
++ [Python数据分析案例36——基于神经网络的AQI多步预测(空气质量预测)](https://blog.csdn.net/weixin_46277779/article/details/135669745)
+
++ [电脑DIY-内存条](https://blog.csdn.net/qq_26264237/article/details/135640409)
+
++ [注册登录等操作时，如何实现前端数据的安全提交？前后端实践](https://blog.csdn.net/qq_35716689/article/details/135660078)
+

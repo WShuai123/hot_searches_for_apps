@@ -41,3 +41,5 @@
 
 + [三星 Galaxy S24 Ultra 手机 100 倍变焦实测，相比 S23 Ultra 并无改进](https://m.ithome.com/html/746029.htm)
 
++ [华为开发者联盟：60 余家游戏伙伴已加入鸿蒙生态，超 70 款游戏完成原生应用开发](https://m.ithome.com/html/746064.htm)
+

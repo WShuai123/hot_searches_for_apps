@@ -213,3 +213,7 @@
 
 + [3D动作爽游《超战女武神》今日正式发售，首发限时8折！](https://www.3dmgame.com/news/202401/3886490.html)
 
++ [《死者桑拿》开启众筹 魔界桑拿师题材动作RPG](https://www.3dmgame.com/news/202401/3886495.html)
+
++ [《最后的生还者2：重制版》上市预告片 游戏已正式发售](https://www.3dmgame.com/news/202401/3886494.html)
+

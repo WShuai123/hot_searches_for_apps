@@ -105,3 +105,31 @@
 
 + [Backchannel](https://www.producthunt.com/posts/backchannel-2)
 
++ [Concrete](https://www.producthunt.com/posts/concrete)
+
++ [Studyy - Instant Flashcards](https://www.producthunt.com/posts/studyy-instant-flashcards)
+
++ [Runology](https://www.producthunt.com/posts/runology)
+
++ [Snapquiz - quiz with AI](https://www.producthunt.com/posts/snapquiz-quiz-with-ai)
+
++ [Dollie](https://www.producthunt.com/posts/dollie-2)
+
++ [Amica](https://www.producthunt.com/posts/amica)
+
++ [Agent Lock](https://www.producthunt.com/posts/agent-lock)
+
++ [Feedby](https://www.producthunt.com/posts/feedby)
+
++ [DnD Character Portraits](https://www.producthunt.com/posts/dnd-character-portraits)
+
++ [RedditChatLab](https://www.producthunt.com/posts/redditchatlab)
+
++ [AlphaGeometry](https://www.producthunt.com/posts/alphageometry)
+
++ [Photify AI](https://www.producthunt.com/posts/photify-ai)
+
++ [AI Steve](https://www.producthunt.com/posts/ai-steve)
+
++ [Cubicle](https://www.producthunt.com/posts/cubicle)
+
