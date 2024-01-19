@@ -261,3 +261,17 @@
 
 + [国产独立武侠游戏《代号：锦衣卫》序章23分钟实机](https://www.3dmgame.com/news/202401/3886509.html)
 
++ [《幻兽帕鲁》Steam特别好评 首发在线超31万](https://www.3dmgame.com/news/202401/3886514.html)
+
++ [动画电影《八戒之天蓬下界》定档大年初一](https://www.3dmgame.com/news/202401/3886513.html)
+
++ [《夺宝奇兵：古老之圈》采用id Tech引擎开发 有开放区域](https://www.3dmgame.com/news/202401/3886512.html)
+
++ [《仙剑4》离谱穿帮镜头 男女主中间竟然有一辆车](https://www.3dmgame.com/news/202401/3886510.html)
+
++ [王者荣耀收入不敌大富翁？大富翁游戏竟然这么赚钱！](https://www.3dmgame.com/news/202401/3886511.html)
+
++ [《女神异闻录3 Reload》B站必玩榜亮相 街道设施中文系统介绍首发](https://www.3dmgame.com/news/202401/3886478.html)
+
++ [《如龙8》中配版特别宣传片“春日一番篇&桐生一马篇”首发](https://www.3dmgame.com/news/202401/3886469.html)
+
