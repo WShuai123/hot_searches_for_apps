@@ -55,3 +55,9 @@
 
 + [微软官方授权，苹果 M3 Mac 上 Parallels 18/19 可运行 Arm 版 Win11](https://m.ithome.com/html/746078.htm)
 
++ [华为与成都高投集团等拟共同收购鼎桥公司 100% 股权，此前与诺基亚合资](https://m.ithome.com/html/746175.htm)
+
++ [苹果 Vision Pro 头显上架京东国际：今日开启预约，2 月 2 日抢购不加价](https://m.ithome.com/html/746115.htm)
+
++ [科学家首次将猪肝移植到人体，成功过滤血液 72 小时](https://m.ithome.com/html/746150.htm)
+
