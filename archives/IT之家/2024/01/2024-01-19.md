@@ -43,3 +43,13 @@
 
 + [华为开发者联盟：60 余家游戏伙伴已加入鸿蒙生态，超 70 款游戏完成原生应用开发](https://m.ithome.com/html/746064.htm)
 
++ [中国建设银行首批适配华为 HarmonyOS NEXT，已完成手机银行 Beta 版本](https://m.ithome.com/html/746108.htm)
+
++ [《完蛋！我被美女包围了！》DLC“房间里的心跳”上线 Steam，2 月发售](https://m.ithome.com/html/746132.htm)
+
++ [我国探获锂资源近百万吨，为亚洲迄今探明最大规模伟晶岩型单体锂矿](https://m.ithome.com/html/746046.htm)
+
++ [消息称苹果 iPhone 16 系列新增拍照按钮：机械设计，可调整焦距](https://m.ithome.com/html/746114.htm)
+
++ [罕见！为乔纳森・艾维 50 岁生日设计的苹果 Apple Watch 表带曝光](https://m.ithome.com/html/746063.htm)
+

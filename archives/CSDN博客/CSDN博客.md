@@ -161,3 +161,5 @@
 
 + [注册登录等操作时，如何实现前端数据的安全提交？前后端实践](https://blog.csdn.net/qq_35716689/article/details/135660078)
 
++ [如何使用Synology Drive作为文件同步服务器实现云同步Obsidian笔记](https://blog.csdn.net/asdssadddd/article/details/135676124)
+

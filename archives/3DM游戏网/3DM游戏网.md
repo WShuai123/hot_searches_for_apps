@@ -217,3 +217,5 @@
 
 + [《最后的生还者2：重制版》上市预告片 游戏已正式发售](https://www.3dmgame.com/news/202401/3886494.html)
 
++ [支付宝Logo换新 去掉外框文字引入立体自然光](https://www.3dmgame.com/news/202401/3886499.html)
+
