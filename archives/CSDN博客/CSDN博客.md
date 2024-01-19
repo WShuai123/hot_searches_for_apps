@@ -127,3 +127,7 @@
 
 + [2024年华数杯国际数学建模B 光伏电（Problem B: Photovoltaic Power）完整思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/135643709)
 
++ [如何使用VNC实现Win系统远程桌面Ubuntu图形化界面【内网穿透】](https://blog.csdn.net/qq_73017178/article/details/135681594)
+
++ [SQL性能分析手段](https://blog.csdn.net/2301_78055266/article/details/135642153)
+
