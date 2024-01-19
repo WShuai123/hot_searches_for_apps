@@ -101,3 +101,9 @@
 
 + [初始Spring（适合新手）](https://blog.csdn.net/m0_70770402/article/details/135684475)
 
++ [使用Python的pygame库实现下雪的效果](https://blog.csdn.net/cnds123/article/details/135648592)
+
++ [文心一言使用分享](https://blog.csdn.net/ZhangRelay/article/details/135682351)
+
++ [【Android 逆向】程序员高危开发方向 ( 违法软件类型 | 赌博游戏 | 色情类应用 | 涉及金融类软件 | 爬虫类软件 | 区块链货币 | 甄别是否合法 )](https://blog.csdn.net/han1202012/article/details/135658343)
+
