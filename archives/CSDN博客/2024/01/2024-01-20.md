@@ -107,3 +107,23 @@
 
 + [【Android 逆向】程序员高危开发方向 ( 违法软件类型 | 赌博游戏 | 色情类应用 | 涉及金融类软件 | 爬虫类软件 | 区块链货币 | 甄别是否合法 )](https://blog.csdn.net/han1202012/article/details/135658343)
 
++ [Prometheus + Grafana 实现Springboot应用监控(超详细)](https://blog.csdn.net/qq_35716689/article/details/135686644)
+
++ [机器学习---特征提取](https://blog.csdn.net/weixin_43961909/article/details/135665084)
+
++ [GaussDB与openGauss有什么相同和不同？](https://blog.csdn.net/GaussDB/article/details/135696831)
+
++ [如何使用Docker本地部署Wiki.js容器并结合内网穿透实现知识库共享](https://blog.csdn.net/a1657054242/article/details/135674759)
+
++ [大语言模型系列-Transformer](https://blog.csdn.net/long11350/article/details/135655767)
+
++ [Dubbo使用详解](https://blog.csdn.net/zhangzehai2234/article/details/135687158)
+
++ [如何使用Docker Compose搭建StackEdit编辑器并实现远程办公](https://blog.csdn.net/qq_63320529/article/details/135684602)
+
++ [Chrome 开发者工具](https://blog.csdn.net/weixin_43443341/article/details/135641951)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/135683336)
+
++ [2024年华数杯国际数学建模B 光伏电（Problem B: Photovoltaic Power）完整思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/135643709)
+
