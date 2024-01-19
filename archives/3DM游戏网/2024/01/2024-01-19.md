@@ -169,3 +169,25 @@
 
 + [GDC调查：去年有35%的开发商受裁员影响](https://www.3dmgame.com/news/202401/3886459.html)
 
++ [特别好评 《奇怪的RPG》续作Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886470.html)
+
++ [《耀斑纪元》Steam抢先体验开启 生存拟真城市建造](https://www.3dmgame.com/news/202401/3886473.html)
+
++ [B站游戏区年度榜单直播节目单公布](https://www.3dmgame.com/news/202401/3886465.html)
+
++ [《使命召唤》反作弊更新：键鼠玩家开启手柄辅助游戏自动关闭](https://www.3dmgame.com/news/202401/3886466.html)
+
++ [《蜘蛛夫人》角色海报发布 达妹和悉尼妹等人亮相](https://www.3dmgame.com/news/202401/3886467.html)
+
++ [消息称Meta与腾讯XR业务合作中止 或因细节理念不合](https://www.3dmgame.com/news/202401/3886468.html)
+
++ [动画电影《八戒之天蓬下界》定档海报 大年初一上映](https://www.3dmgame.com/news/202401/3886460.html)
+
++ [个人开发《庄园领主》Steam愿望单突破200万 仅此于《黑帝斯2》](https://www.3dmgame.com/news/202401/3886461.html)
+
++ [《命运2》即将推出免费角色外观修改功能](https://www.3dmgame.com/news/202401/3886462.html)
+
++ [《异界深渊：大灵王》首测盛大开启！下载分享赢实物豪礼！](https://www.3dmgame.com/news/202401/3886463.html)
+
++ [《完蛋！我被美女包围了！》DLC上线 2024年2月发售](https://www.3dmgame.com/news/202401/3886464.html)
+

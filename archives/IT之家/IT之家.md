@@ -33,3 +33,7 @@
 
 + [花 2888 元买火箭发射内场票被带到周边房顶，海南文昌通报立案](https://m.ithome.com/html/746022.htm)
 
++ [小米磁吸充电宝 2 开启众筹：适配苹果 iPhone 15，售价 219 元](https://m.ithome.com/html/746068.htm)
+
++ [华为：首批 200 + 鸿蒙原生应用正加速开发，38 万以上开发者通过鸿蒙认证](https://m.ithome.com/html/745984.htm)
+

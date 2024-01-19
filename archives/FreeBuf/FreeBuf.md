@@ -47,3 +47,5 @@
 
 + [DCOM 的利用及分析总结](https://www.freebuf.com/articles/system/389767.html)
 
++ [台湾半导体大厂遭勒索软件攻击，泄露5TB数据](https://www.freebuf.com/news/390090.html)
+
