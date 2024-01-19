@@ -53,3 +53,5 @@
 
 + [罕见！为乔纳森・艾维 50 岁生日设计的苹果 Apple Watch 表带曝光](https://m.ithome.com/html/746063.htm)
 
++ [微软官方授权，苹果 M3 Mac 上 Parallels 18/19 可运行 Arm 版 Win11](https://m.ithome.com/html/746078.htm)
+

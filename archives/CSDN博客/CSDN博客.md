@@ -163,3 +163,9 @@
 
 + [如何使用Synology Drive作为文件同步服务器实现云同步Obsidian笔记](https://blog.csdn.net/asdssadddd/article/details/135676124)
 
++ [【计算机网络】（1）OSI七层模型、协议、交换技术、路由器技术](https://blog.csdn.net/m0_67724631/article/details/135685718)
+
++ [Elastic Stack 8.12：通过对 ES|QL 等的改进增强了向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/135668244)
+
++ [Chrome 开发者工具](https://blog.csdn.net/weixin_43443341/article/details/135641951)
+
