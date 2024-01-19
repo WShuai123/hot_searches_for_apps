@@ -149,3 +149,5 @@
 
 + [pyspark 笔记：窗口函数window](https://blog.csdn.net/qq_40206371/article/details/135654854)
 
++ [年龄性别预测2：Pytorch实现年龄性别预测和识别(含训练代码和数据)](https://blog.csdn.net/guyuealian/article/details/135556789)
+

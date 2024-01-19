@@ -195,3 +195,7 @@
 
 + [腾讯：PC游戏外挂增长超50% 移动端定制挂达76.9%](https://www.3dmgame.com/news/202401/3886477.html)
 
++ [《猛兽派对》与《咩咩启示录》开启联动！玩家可获得“咩咩教主”](https://www.3dmgame.com/news/202401/3886480.html)
+
++ [《领主争锋》正式登陆Steam 中世纪回合制策略](https://www.3dmgame.com/news/202401/3886482.html)
+
