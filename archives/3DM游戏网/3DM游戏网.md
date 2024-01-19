@@ -233,3 +233,27 @@
 
 + [恐怖解谜游戏《轮回路》Steam页面 发售日期待定](https://www.3dmgame.com/news/202401/3886502.html)
 
++ [《笠鬼》正式公开 Steam体验版今日开放](https://www.3dmgame.com/news/202401/3886488.html)
+
++ [幽灵行者2免费更新中文配音 巨龙外观DLC 2月8日同步上线](https://www.3dmgame.com/news/202401/3886479.html)
+
++ [《弃子》本月20日发售！续写废土传奇，开启震撼心灵的冒险之旅！](https://www.3dmgame.com/news/202401/3886481.html)
+
++ [B站游戏区年度榜单公开 《井域：喀洛之血》PV首度曝光](https://www.3dmgame.com/news/202401/3886493.html)
+
++ [废土科幻动作《无限机兵》公布预告 Steam页面上线](https://www.3dmgame.com/news/202401/3886500.html)
+
++ [国产FPS《重装前哨》亮相B站必玩榜 3月27日发售](https://www.3dmgame.com/news/202401/3886483.html)
+
++ [爽快拼刀的类银河城《偏差者》首曝PV 参加Steam新品节](https://www.3dmgame.com/news/202401/3886491.html)
+
++ [《绝命游歌》全新预告 2024年暑期发售](https://www.3dmgame.com/news/202401/3886496.html)
+
++ [《中国式相亲》暑期发售 2月14日情人节开测](https://www.3dmgame.com/news/202401/3886475.html)
+
++ [华硕确认NUC Extreme系列将停产 不会再有更新产品](https://www.3dmgame.com/news/202401/3886508.html)
+
++ [赛朋肉鸽独立《数字魅影：极限竞赛》测试报名进行中](https://www.3dmgame.com/news/202401/3886497.html)
+
++ [《卧龙》制作人视频讲解“完全版”内容，Steam国区定价公布](https://www.3dmgame.com/news/202401/3886472.html)
+

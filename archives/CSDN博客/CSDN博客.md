@@ -175,3 +175,5 @@
 
 + [基于JAVA和微信小程序的智慧家政系统 开源项目](https://blog.csdn.net/yangyin1998/article/details/135670940)
 
++ [小程序 自定义组件和生命周期](https://blog.csdn.net/studycodeday/article/details/135635594)
+

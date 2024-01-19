@@ -61,3 +61,5 @@
 
 + [科学家首次将猪肝移植到人体，成功过滤血液 72 小时](https://m.ithome.com/html/746150.htm)
 
++ [消息称高通新款处理器 3 月登场，跑分超骁龙 8 Gen 2](https://m.ithome.com/html/746227.htm)
+

@@ -51,3 +51,37 @@
 
 + [kedacore / keda](https://github.com/kedacore/keda)
 
++ [ejoy / ant](https://github.com/ejoy/ant)
+
++ [spatie / holidays](https://github.com/spatie/holidays)
+
++ [Andre0512 / hon](https://github.com/Andre0512/hon)
+
++ [google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry)
+
++ [InstantID / InstantID](https://github.com/InstantID/InstantID)
+
++ [kparc / ksimple](https://github.com/kparc/ksimple)
+
++ [alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1)
+
++ [VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm)
+
++ [sgl-project / sglang](https://github.com/sgl-project/sglang)
+
++ [Vaibhavs10 / open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker)
+
++ [apple / ml-aim](https://github.com/apple/ml-aim)
+
++ [suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev)
+
++ [angular / angular-cli](https://github.com/angular/angular-cli)
+
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [grpc / grpc-go](https://github.com/grpc/grpc-go)
+
++ [gnuboard / g6](https://github.com/gnuboard/g6)
+
++ [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
+
