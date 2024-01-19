@@ -63,3 +63,5 @@
 
 + [消息称高通新款处理器 3 月登场，跑分超骁龙 8 Gen 2](https://m.ithome.com/html/746227.htm)
 
++ [广东永奥经销商被曝跑路，华为赛力斯成立工作组保障 31 位用户交车](https://m.ithome.com/html/746187.htm)
+

@@ -177,3 +177,5 @@
 
 + [小程序 自定义组件和生命周期](https://blog.csdn.net/studycodeday/article/details/135635594)
 
++ [文心一言使用分享](https://blog.csdn.net/ZhangRelay/article/details/135682351)
+
