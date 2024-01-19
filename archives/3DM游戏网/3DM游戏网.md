@@ -101,3 +101,13 @@
 
 + [个人开发《庄园领主》Steam愿望单突破200万 仅此于《黑帝斯2》](https://www.3dmgame.com/news/202401/3886461.html)
 
++ [《原神》4.4版本1月31日上线 新PV发布](https://www.3dmgame.com/news/202401/3886518.html)
+
++ [王海举报小杨哥带货假五常大米：已卖92万单！可退一赔十](https://www.3dmgame.com/news/202401/3886519.html)
+
++ [《地狱之刃》Steam史低1折仅售8.8元 获特别好评](https://www.3dmgame.com/news/202401/3886516.html)
+
++ [《波斯王子：失落的王冠》媒体赞誉宣传片 值得一试](https://www.3dmgame.com/news/202401/3886517.html)
+
++ [Win11新版要来了：微软要求内存至少16GB 否则没法用！](https://www.3dmgame.com/news/202401/3886515.html)
+
