@@ -157,3 +157,15 @@
 
 + [《上古卷轴OL》“黄金大道”资料片6月3日首登PC CG预告](https://www.3dmgame.com/news/202401/3886444.html)
 
++ [《TopSpin 2K25》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3886454.html)
+
++ [美国12月销量榜：PC最热游戏《致命公司》](https://www.3dmgame.com/news/202401/3886455.html)
+
++ [《TEST TEST TEST》Steam免费发布 解谜冒险](https://www.3dmgame.com/news/202401/3886456.html)
+
++ [《圣剑传说》Steam页面上线  支持简体中文](https://www.3dmgame.com/news/202401/3886458.html)
+
++ [类魂游戏《堕落之主》销量突破120万份 成绩还不错](https://www.3dmgame.com/news/202401/3886457.html)
+
++ [GDC调查：去年有35%的开发商受裁员影响](https://www.3dmgame.com/news/202401/3886459.html)
+

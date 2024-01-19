@@ -131,3 +131,9 @@
 
 + [深度学习和机器学习中针对非时间序列的回归任务，有哪些改进角度？](https://blog.csdn.net/weixin_43935696/article/details/135682391)
 
++ [基于YOLOv8深度学习的葡萄簇目标检测系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、深度学习实战](https://blog.csdn.net/qq_42589613/article/details/135672822)
+
++ [计算机网络 网络安全](https://blog.csdn.net/studycodeday/article/details/135625645)
+
++ [libcurl是一个用于进行网络通信的开源库，提供了各种功能和选项，可以用于发送和接收HTTP请求、FTP操作等](https://blog.csdn.net/m0_46376834/article/details/135682753)
+
