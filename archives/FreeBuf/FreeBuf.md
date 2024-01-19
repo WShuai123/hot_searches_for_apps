@@ -45,3 +45,5 @@
 
 + [深入分析威胁行为者如何利用AWS服务实现数据提取](https://www.freebuf.com/articles/container/389373.html)
 
++ [DCOM 的利用及分析总结](https://www.freebuf.com/articles/system/389767.html)
+

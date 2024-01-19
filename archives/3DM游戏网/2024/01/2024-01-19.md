@@ -137,3 +137,23 @@
 
 + [黑曜石《宣誓》确定2024年秋季发售](https://www.3dmgame.com/news/202401/3886437.html)
 
++ [《GTA6》采用混合光线追踪技术 实现次世代视觉效果](https://www.3dmgame.com/news/202401/3886453.html)
+
++ [《DOTA2》迪拜别墅杯分组出炉 AR和XG同组](https://www.3dmgame.com/news/202401/3886452.html)
+
++ [《Light From Above》PC试玩发布 爽快2D动作新游](https://www.3dmgame.com/news/202401/3886451.html)
+
++ [中式恐怖狼人杀《不祥之夜：回魂》Steam页面 2月发售](https://www.3dmgame.com/news/202401/3886450.html)
+
++ [《黎明杀机》开发商Behaviour裁员45人](https://www.3dmgame.com/news/202401/3886449.html)
+
++ [Remedy：与R星商标争端去年就已友好解决](https://www.3dmgame.com/news/202401/3886448.html)
+
++ [《DreadOut 2》(小镇惊魂2)任天堂Switch™数字版今天发售](https://www.3dmgame.com/news/202401/3886447.html)
+
++ [《摇滚乐队4》将于1月25日终止更新新曲 持续8年累计3000曲](https://www.3dmgame.com/news/202401/3886446.html)
+
++ [《鬼谷八荒》Switch版预告及截图 将于2月1日发售](https://www.3dmgame.com/news/202401/3886445.html)
+
++ [《上古卷轴OL》“黄金大道”资料片6月3日首登PC CG预告](https://www.3dmgame.com/news/202401/3886444.html)
+
