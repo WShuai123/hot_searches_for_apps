@@ -211,3 +211,7 @@
 
 + [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
 
++ [点众阅读-热门全本小说阅读器](https://itunes.apple.com/cn/app/id1645273917?mt=8)
+
++ [智行火车票-高铁抢票、机票酒店汽车票预订平台](https://itunes.apple.com/cn/app/id651323845?mt=8)
+

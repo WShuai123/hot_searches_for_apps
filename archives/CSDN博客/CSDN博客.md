@@ -139,3 +139,13 @@
 
 + [web3.0基本概念简析](https://blog.csdn.net/sinat_33255495/article/details/135655381)
 
++ [神经网络激活函数--Sigmoid、Tanh、Relu、Softmax](https://blog.csdn.net/qq_38480311/article/details/135671556)
+
++ [[Linux 进程(五)] 程序地址空间深度剖析](https://blog.csdn.net/Ljy_cx_21_4_3/article/details/135685376)
+
++ [【Linux】权限的深度解析](https://blog.csdn.net/m0_64826370/article/details/135682255)
+
++ [Spring Boot整合JUnit](https://blog.csdn.net/m0_53127626/article/details/135640989)
+
++ [pyspark 笔记：窗口函数window](https://blog.csdn.net/qq_40206371/article/details/135654854)
+
