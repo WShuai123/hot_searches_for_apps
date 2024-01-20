@@ -41,3 +41,9 @@
 
 + [Ivanti Connect Secure 曝两大零日漏洞，已被大规模利用](https://www.freebuf.com/news/389875.html)
 
++ [FreeBuf 周报 | 海普瑞遭遇A股史上最大电信诈骗；为什么洗衣机每天自动上传3.6GB数据？](https://www.freebuf.com/news/390165.html)
+
++ [谷歌：疑似俄罗斯黑客组织部署新的 Spica 后门恶意软件](https://www.freebuf.com/news/390185.html)
+
++ [网络犯罪市场未来趋势：万物皆可“X即服务”](https://www.freebuf.com/articles/network/389624.html)
+

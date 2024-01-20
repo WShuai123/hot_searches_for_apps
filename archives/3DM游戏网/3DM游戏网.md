@@ -111,3 +111,13 @@
 
 + [Win11新版要来了：微软要求内存至少16GB 否则没法用！](https://www.3dmgame.com/news/202401/3886515.html)
 
++ [《幻兽帕鲁》Xbox版多人模式仅支持2-4人 开发商给出解释](https://www.3dmgame.com/news/202401/3886524.html)
+
++ [《主播女孩重度依赖》衍生小游戏合集发售](https://www.3dmgame.com/news/202401/3886520.html)
+
++ [索尼PS5《原神》启动套装发布：送原石 经验兑换卡](https://www.3dmgame.com/news/202401/3886523.html)
+
++ [MachineGames或已暗示《雷神之锤6》](https://www.3dmgame.com/news/202401/3886522.html)
+
++ [《幻兽帕鲁》8小时内卖出100万份 宝可梦题材潜力大](https://www.3dmgame.com/news/202401/3886521.html)
+
