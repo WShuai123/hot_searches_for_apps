@@ -121,3 +121,13 @@
 
 + [《幻兽帕鲁》8小时内卖出100万份 宝可梦题材潜力大](https://www.3dmgame.com/news/202401/3886521.html)
 
++ [2K旗下开发商31st Union裁员“少量”员工](https://www.3dmgame.com/news/202401/3886529.html)
+
++ [META大力进军通用人工智能 年底前将买35万张H100 GPU](https://www.3dmgame.com/news/202401/3886526.html)
+
++ [《欢迎来到帕拉迪泽》现已开启预购  2月29日推出](https://www.3dmgame.com/news/202401/3886528.html)
+
++ [打假人王海举报小杨哥带货假五常大米：已卖92万单！](https://www.3dmgame.com/news/202401/3886527.html)
+
++ [Square Enix有意精简游戏阵容 确保每款作品质量更高](https://www.3dmgame.com/news/202401/3886525.html)
+

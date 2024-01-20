@@ -29,3 +29,5 @@
 
 + [IT之家的初次，抖音直播，周六！](https://m.ithome.com/html/746249.htm)
 
++ [苹果 Vision Pro 头显官方实机演示操作视频发布，详解各项细节功能](https://m.ithome.com/html/746274.htm)
+

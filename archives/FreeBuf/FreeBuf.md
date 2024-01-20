@@ -47,3 +47,5 @@
 
 + [网络犯罪市场未来趋势：万物皆可“X即服务”](https://www.freebuf.com/articles/network/389624.html)
 
++ [SharkTeam：2023年加密货币犯罪分析报告](https://www.freebuf.com/articles/blockchain-articles/389776.html)
+
