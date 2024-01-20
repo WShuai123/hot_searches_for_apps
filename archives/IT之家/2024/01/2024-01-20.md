@@ -39,3 +39,7 @@
 
 + [华为路由 AX6 new 白色款上架：Wi-Fi6+、7200Mbps，预售价 449 元](https://m.ithome.com/html/746254.htm)
 
++ [苹果 Vision Pro 头显开启预售：256GB-1TB 三种规格，3499-3899 美元](https://m.ithome.com/html/746262.htm)
+
++ [比亚迪新车海狮 07 EV 官宣搭载“天神之眼”高阶智驾，支持高快领航等多项功能](https://m.ithome.com/html/746252.htm)
+

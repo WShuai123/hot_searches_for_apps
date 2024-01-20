@@ -49,3 +49,5 @@
 
 + [SharkTeam：2023年加密货币犯罪分析报告](https://www.freebuf.com/articles/blockchain-articles/389776.html)
 
++ [Androidmanifest文件加固和对抗](https://www.freebuf.com/articles/network/389709.html)
+
