@@ -165,3 +165,11 @@
 
 + [RAG中的3个高级检索技巧](https://blog.csdn.net/m0_46510245/article/details/135711200)
 
++ [[AI]文心一言爆火的同时，ChatGPT-4.5的正确打开方式](https://blog.csdn.net/Why_does_it_work/article/details/135706354)
+
++ [Prometheus + Grafana 构建强大的监控和数据可视化系统](https://blog.csdn.net/qq_35716689/article/details/135686644)
+
++ [编译和链接（你真的了解符号决议和重定位吗？）](https://blog.csdn.net/2301_79188764/article/details/135651685)
+
++ [Oracle 12CR2 RAC部署翻车，bug避坑经历](https://blog.csdn.net/weixin_41645135/article/details/135712912)
+

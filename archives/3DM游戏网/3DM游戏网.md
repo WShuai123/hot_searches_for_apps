@@ -165,3 +165,7 @@
 
 + [英军《堡垒之夜》建地图征兵 违反Epic规定](https://www.3dmgame.com/news/202401/3886545.html)
 
++ [《最后的生还者2重制版》将为错过升级选项玩家退款](https://www.3dmgame.com/news/202401/3886547.html)
+
++ [《仙剑四》开播吐槽声不断 女演员道歉：对不起丑到大家了](https://www.3dmgame.com/news/202401/3886548.html)
+

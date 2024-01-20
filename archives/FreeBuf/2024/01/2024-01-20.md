@@ -51,3 +51,5 @@
 
 + [Androidmanifest文件加固和对抗](https://www.freebuf.com/articles/network/389709.html)
 
++ [BlueBunny：基于低功耗蓝牙的Bash bunny命令控制C2框架](https://www.freebuf.com/sectool/389622.html)
+
