@@ -109,3 +109,25 @@
 
 + [深度求索开源国内首个 MoE 大模型 | DeepSeekMoE：在专家混合语言模型中实现终极专家专业化](https://blog.csdn.net/fyfugoyfa/article/details/135646462)
 
++ [Spring Cloud可视化智慧工地大数据云平台源码（人、机、料、法、环五大维度）](https://blog.csdn.net/qq_27741787/article/details/135711342)
+
++ [【资治通鉴】资治通鉴 - 帮助治理国家的历史 ( 书名分析 | 作者介绍 | 类似书籍介绍 | 资治通鉴核心思想 - 政治稳定 | 王安石 “ 变法 “ | 改革造成的动荡 )](https://blog.csdn.net/han1202012/article/details/135696230)
+
++ [k8s的坑，从这里开始](https://blog.csdn.net/WF_crystal/article/details/135671161)
+
++ [【RL】(task2)策略梯度算法](https://blog.csdn.net/qq_35812205/article/details/134322125)
+
++ [【论文阅读】GPT4Graph: Can Large Language Models Understand Graph Structured Data?](https://blog.csdn.net/qq_44426403/article/details/135706594)
+
++ [Python实现自动化办公（使用第三方库操作Excel）](https://blog.csdn.net/m0_61495539/article/details/135680908)
+
++ [XSS漏洞：xss.haozi.me靶场通关](https://blog.csdn.net/qq_68163788/article/details/135636220)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/135683336)
+
++ [软件是什么？前端，后端，数据库](https://blog.csdn.net/weixin_61022759/article/details/135669175)
+
++ [如何使用Docker Compose搭建StackEdit编辑器并实现远程办公](https://blog.csdn.net/qq_63320529/article/details/135684602)
+
++ [AIGC内容分享(五十五)：AIGC周刊](https://blog.csdn.net/qq_45038038/article/details/135665459)
+
