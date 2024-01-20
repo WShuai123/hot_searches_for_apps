@@ -31,3 +31,9 @@
 
 + [苹果 Vision Pro 头显官方实机演示操作视频发布，详解各项细节功能](https://m.ithome.com/html/746274.htm)
 
++ [比亚迪秦 L“官方谍照”曝光：百公里油耗 3.8-3.98 升，预计定位中型轿车](https://m.ithome.com/html/746272.htm)
+
++ [魅族 21 开启官方优惠活动：全版本直降 200 元，到手价 3199 元起](https://m.ithome.com/html/746236.htm)
+
++ [光斑逆时针旋转 30 度，人类史上首张黑洞照片主角 M87 新图公布](https://m.ithome.com/html/746145.htm)
+

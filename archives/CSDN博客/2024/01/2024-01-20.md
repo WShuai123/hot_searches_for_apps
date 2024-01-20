@@ -139,3 +139,11 @@
 
 + [私有仓库工具Nexus Maven如何部署并实现远程访问管理界面](https://blog.csdn.net/wtyuong/article/details/135677265)
 
++ [如何在Docker下部署MinIO存储服务通过Buckets实现文件的远程上传](https://blog.csdn.net/2301_80092713/article/details/135704247)
+
++ [Elasticsearch各种高级文档操作2](https://blog.csdn.net/qq_31960623/article/details/135649789)
+
++ [《数字图像处理-OpenCV/Python》连载：傅里叶变换与频域滤波](https://blog.csdn.net/youcans/article/details/135705738)
+
++ [ChatGPT正确打开方式与GPT-4.5的key最新获取方式](https://blog.csdn.net/Why_does_it_work/article/details/135706354)
+

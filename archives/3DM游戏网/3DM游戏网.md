@@ -131,3 +131,19 @@
 
 + [Square Enix有意精简游戏阵容 确保每款作品质量更高](https://www.3dmgame.com/news/202401/3886525.html)
 
++ [《死侍3》新场照：将会出现平行世界版小贱贱](https://www.3dmgame.com/news/202401/3886537.html)
+
++ [负债1092.8亿美元！苹果成全球负债第二多的科技公司](https://www.3dmgame.com/news/202401/3886536.html)
+
++ [《光环：无限》不再有新赛季 未来只有较小内容更新](https://www.3dmgame.com/news/202401/3886535.html)
+
++ [VR游戏《我被古装美女包围了！》Steam页面 2月发售](https://www.3dmgame.com/news/202401/3886534.html)
+
++ [英国游戏开发商整体对2024年行业“谨慎乐观”](https://www.3dmgame.com/news/202401/3886533.html)
+
++ [《夺宝奇兵：古老之圈》为何是第一人称？IGN认为有非常非常多的好处](https://www.3dmgame.com/news/202401/3886532.html)
+
++ [幸存者类Roguelite游戏《阿斯加德的陨落》Steam页面 年内发售](https://www.3dmgame.com/news/202401/3886531.html)
+
++ [躲开竞争热潮 《宣誓》为何一定要在2024年发售](https://www.3dmgame.com/news/202401/3886530.html)
+
