@@ -199,3 +199,5 @@
 
 + [Windows 12可能是Win 11 24H2的更新](https://www.3dmgame.com/news/202401/3886563.html)
 
++ [2024年第一大黑马 《幻兽帕鲁》24小时销量超过200万](https://www.3dmgame.com/news/202401/3886564.html)
+

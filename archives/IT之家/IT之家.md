@@ -61,3 +61,5 @@
 
 + [新 LOGO 亮相，HMD Global “去诺基亚”后首款新机渲染图曝光](https://m.ithome.com/html/746311.htm)
 
++ [数字人民币 App 将启动适配华为 Harmony OS NEXT 计划，完成鸿蒙原子应用改造](https://m.ithome.com/html/746336.htm)
+
