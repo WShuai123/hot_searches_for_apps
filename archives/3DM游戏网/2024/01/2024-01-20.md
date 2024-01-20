@@ -187,3 +187,13 @@
 
 + [《沙漠大冒险》PC版配置需求公布 最低需求1060](https://www.3dmgame.com/news/202401/3886555.html)
 
++ [《铁拳8》PS5版下载容量以及预载时间曝光](https://www.3dmgame.com/news/202401/3886562.html)
+
++ [卡普空40周年纪念联名服饰将在优衣库上架](https://www.3dmgame.com/news/202401/3886558.html)
+
++ [《奇异人生》最早仅规划一部作品 后续剧情难以扩展](https://www.3dmgame.com/news/202401/3886559.html)
+
++ [泰国宣布发现近1500万吨锂矿 有望为第三大锂储量国](https://www.3dmgame.com/news/202401/3886560.html)
+
++ [《龙之信条2》NPC系统优化 可发展出不同关系](https://www.3dmgame.com/news/202401/3886561.html)
+
