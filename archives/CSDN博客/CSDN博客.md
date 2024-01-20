@@ -173,3 +173,9 @@
 
 + [Oracle 12CR2 RAC部署翻车，bug避坑经历](https://blog.csdn.net/weixin_41645135/article/details/135712912)
 
++ [[AI]文心一言出圈的同时，NLP处理下的ChatGPT-4.5最新资讯](https://blog.csdn.net/Why_does_it_work/article/details/135706354)
+
++ [FPGA之分布RAM(1)](https://blog.csdn.net/lsh11111/article/details/135706966)
+
++ [flutter获取地理定位：geolocator依赖详细用法](https://blog.csdn.net/llssdshiyi/article/details/135523326)
+

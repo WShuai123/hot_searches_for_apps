@@ -103,3 +103,7 @@
 
 + [AlphaGeometry from Google DeepMind](https://www.producthunt.com/posts/alphageometry-from-google-deepmind)
 
++ [Safes](https://www.producthunt.com/posts/safes)
+
++ [Cloodo WhatsApp CRM](https://www.producthunt.com/posts/cloodo-whatsapp-crm)
+

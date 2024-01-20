@@ -47,3 +47,5 @@
 
 + [索尼 PS5《原神》启动套装 1 月 20 日开启预售，1 月 26 日发售](https://m.ithome.com/html/746263.htm)
 
++ [一加 Ace 3 原神刻晴定制机 2 月 28 日发布，号称“定制程度全面升级”](https://m.ithome.com/html/746261.htm)
+

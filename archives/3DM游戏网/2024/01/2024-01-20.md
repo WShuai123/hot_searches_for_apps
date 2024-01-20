@@ -169,3 +169,15 @@
 
 + [《仙剑四》开播吐槽声不断 女演员道歉：对不起丑到大家了](https://www.3dmgame.com/news/202401/3886548.html)
 
++ [种田游戏《Sugardew Island》Steam页面上线 Q2发售](https://www.3dmgame.com/news/202401/3886554.html)
+
++ [2023年12月美洲游戏主机销量统计 PS5销量居首](https://www.3dmgame.com/news/202401/3886553.html)
+
++ [不买保修 苹果Vision Pro玻璃前盖替换800美元](https://www.3dmgame.com/news/202401/3886552.html)
+
++ [日本零售商上架任天堂Switch2 标注2024年发售](https://www.3dmgame.com/news/202401/3886551.html)
+
++ [《蜘蛛夫人》票房预测不乐观 或不及惨剧《莫比亚斯》](https://www.3dmgame.com/news/202401/3886550.html)
+
++ [剧版哈利波特开始选编剧 罗琳担任制作人](https://www.3dmgame.com/news/202401/3886549.html)
+
