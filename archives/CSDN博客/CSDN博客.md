@@ -211,3 +211,9 @@
 
 + [【MySQL】——关系数据库标准语言SQL（大纲）](https://blog.csdn.net/shsjssnn/article/details/135705227)
 
++ [自然语言处理（Natural Language Processing，NLP）解密](https://blog.csdn.net/superdangbo/article/details/135719757)
+
++ [【音视频原理】图像相关概念 ⑤ ( YUV 数据存储 | I444 格式说明 | I422 格式说明 | I420 格式说明 | NV12 格式说明 | NV21 格式说明 )](https://blog.csdn.net/han1202012/article/details/135714862)
+
++ [【Linux取经路】初探进程地址空间](https://blog.csdn.net/weixin_63115236/article/details/135634885)
+

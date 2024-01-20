@@ -207,3 +207,5 @@
 
 + [OpenAI寻求融资数十亿美元 建立AI芯片工厂网络](https://www.3dmgame.com/news/202401/3886565.html)
 
++ [武侠电影《目中无人2》定档大年初一 上线爱奇艺云影院](https://www.3dmgame.com/news/202401/3886568.html)
+
