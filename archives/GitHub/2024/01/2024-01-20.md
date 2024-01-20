@@ -51,3 +51,33 @@
 
 + [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
 
++ [Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn)
+
++ [Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
+
++ [hustvl / Vim](https://github.com/hustvl/Vim)
+
++ [byoungd / English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [collabora / WhisperSpeech](https://github.com/collabora/WhisperSpeech)
+
++ [eugeneyan / applied-ml](https://github.com/eugeneyan/applied-ml)
+
++ [Dooy / chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
+
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [KasperskyLab / iShutdown](https://github.com/KasperskyLab/iShutdown)
+
++ [ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker)
+
++ [srikanth235 / privy](https://github.com/srikanth235/privy)
+
++ [dotnet / runtime](https://github.com/dotnet/runtime)
+
++ [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
++ [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [midudev / porfolio.dev](https://github.com/midudev/porfolio.dev)
+

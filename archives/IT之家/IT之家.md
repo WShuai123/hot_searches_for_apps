@@ -55,3 +55,9 @@
 
 + [网易回应大规模裁员传闻：消息不实，系正常业务调整和人员流动](https://m.ithome.com/html/746268.htm)
 
++ [消息称华为 P70 系列手机采用 1.5K 等深微四曲屏，OV50H 物理可变光圈](https://m.ithome.com/html/746345.htm)
+
++ [微软放水？管理员反馈 CPU 不符合升级条件设备成功升至 Win11](https://m.ithome.com/html/746330.htm)
+
++ [新 LOGO 亮相，HMD Global “去诺基亚”后首款新机渲染图曝光](https://m.ithome.com/html/746311.htm)
+
