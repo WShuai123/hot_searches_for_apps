@@ -107,3 +107,17 @@
 
 + [Cloodo WhatsApp CRM](https://www.producthunt.com/posts/cloodo-whatsapp-crm)
 
++ [Flush AI](https://www.producthunt.com/posts/flush-ai)
+
++ [Gyre](https://www.producthunt.com/posts/gyre-2)
+
++ [Rec & Pin](https://www.producthunt.com/posts/rec-pin)
+
++ [Scopechat](https://www.producthunt.com/posts/scopechat)
+
++ [Explorify - AI Travel](https://www.producthunt.com/posts/explorify-ai-travel)
+
++ [AItoZee - Your Creative AI Playground](https://www.producthunt.com/posts/aitozee-your-creative-ai-playground)
+
++ [not8](https://www.producthunt.com/posts/not8-3)
+

@@ -181,3 +181,9 @@
 
 + [剧版哈利波特开始选编剧 罗琳担任制作人](https://www.3dmgame.com/news/202401/3886549.html)
 
++ [超稀有《军团要塞2》帽子以1.8万美元售出创新史高](https://www.3dmgame.com/news/202401/3886557.html)
+
++ [苹果Vision Pro头显开启预订：国内代购价高达7万](https://www.3dmgame.com/news/202401/3886556.html)
+
++ [《沙漠大冒险》PC版配置需求公布 最低需求1060](https://www.3dmgame.com/news/202401/3886555.html)
+
