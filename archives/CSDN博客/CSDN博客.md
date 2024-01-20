@@ -185,3 +185,11 @@
 
 + [驱动开发--多路复用-信号](https://blog.csdn.net/2302_76785838/article/details/135683373)
 
++ [主动轮廓——计算机视觉中的图像分割方法](https://blog.csdn.net/gongdiwudu/article/details/135681275)
+
++ [获取mac地址，内网ip，当前ip位置信息](https://blog.csdn.net/lwdfzr/article/details/135666866)
+
++ [拓展边界：前端世界的跨域挑战](https://blog.csdn.net/weixin_51735748/article/details/135714461)
+
++ [XSS漏洞：xss.haozi.me靶场通关](https://blog.csdn.net/qq_68163788/article/details/135636220)
+

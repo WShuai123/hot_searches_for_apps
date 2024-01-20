@@ -49,3 +49,9 @@
 
 + [一加 Ace 3 原神刻晴定制机 2 月 28 日发布，号称“定制程度全面升级”](https://m.ithome.com/html/746261.htm)
 
++ [预售仅 1 小时，苹果 Vision Pro 头显交货日期推迟到 3 月中旬](https://m.ithome.com/html/746266.htm)
+
++ [更新：最高 720P，苹果 Vision Pro 支持隔空播放：佩戴者可向他人展示头显内容](https://m.ithome.com/html/746282.htm)
+
++ [网易回应大规模裁员传闻：消息不实，系正常业务调整和人员流动](https://m.ithome.com/html/746268.htm)
+
