@@ -63,3 +63,9 @@
 
 + [数字人民币 App 将启动适配华为 Harmony OS NEXT 计划，完成鸿蒙原子应用改造](https://m.ithome.com/html/746336.htm)
 
++ [爱奇艺和腾讯视频盈利了，只有优酷没赶上](https://m.ithome.com/html/746370.htm)
+
++ [大连 1 号 — 连理卫星成功在轨释放，验证基于 OpenHarmony 的实时操作系统](https://m.ithome.com/html/746312.htm)
+
++ [小米新款平板通过国家质量认证：支持 120W 快充，消息称为小米平板 7 系列](https://m.ithome.com/html/746369.htm)
+

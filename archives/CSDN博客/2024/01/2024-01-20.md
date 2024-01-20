@@ -209,3 +209,5 @@
 
 + [从 GPT1 - GPT4 拆解](https://blog.csdn.net/qq_41739364/article/details/135684457)
 
++ [【MySQL】——关系数据库标准语言SQL（大纲）](https://blog.csdn.net/shsjssnn/article/details/135705227)
+

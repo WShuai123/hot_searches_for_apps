@@ -147,3 +147,9 @@
 
 + [温柔版Rollin一下~](http://www.acfun.cn/v/ac43571783)
 
++ [【架子鼓】不想出被窝](http://www.acfun.cn/v/ac43572174)
+
++ [健身三分钟，拍照一小时！欢乐八点档-805](http://www.acfun.cn/v/ac43570448)
+
++ [复古舞 Roly Poly](http://www.acfun.cn/v/ac43571330)
+

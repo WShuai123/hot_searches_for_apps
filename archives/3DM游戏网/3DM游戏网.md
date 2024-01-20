@@ -201,3 +201,9 @@
 
 + [2024年第一大黑马 《幻兽帕鲁》24小时销量超过200万](https://www.3dmgame.com/news/202401/3886564.html)
 
++ [英伟达CEO黄仁勋低调来华 穿“东北大花”热舞](https://www.3dmgame.com/news/202401/3886567.html)
+
++ [类魂游戏《无限机兵》PC配置公开 推荐GTX 1070显卡](https://www.3dmgame.com/news/202401/3886566.html)
+
++ [OpenAI寻求融资数十亿美元 建立AI芯片工厂网络](https://www.3dmgame.com/news/202401/3886565.html)
+
