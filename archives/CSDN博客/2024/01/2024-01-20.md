@@ -161,3 +161,7 @@
 
 + [线程同步--生产者消费者模型--单例模式线程池](https://blog.csdn.net/weixin_73470348/article/details/135585080)
 
++ [AI短视频制作：创意与技术的完美结合](https://blog.csdn.net/qq_32682301/article/details/135710535)
+
++ [RAG中的3个高级检索技巧](https://blog.csdn.net/m0_46510245/article/details/135711200)
+
