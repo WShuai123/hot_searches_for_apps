@@ -131,3 +131,5 @@
 
 + [AIGC内容分享(五十五)：AIGC周刊](https://blog.csdn.net/qq_45038038/article/details/135665459)
 
++ [AWS CI/CD之二：配置CodeDeploy](https://blog.csdn.net/fxtxz2/article/details/135606039)
+
