@@ -101,3 +101,11 @@
 
 + [FPGA之分布RAM(1)](https://blog.csdn.net/lsh11111/article/details/135706966)
 
++ [计算机组成原理 第一弹](https://blog.csdn.net/qq_69178067/article/details/135718788)
+
++ [如何使用VNC实现Win系统远程桌面Ubuntu图形化界面【内网穿透】](https://blog.csdn.net/qq_73017178/article/details/135681594)
+
++ [【MySQL】——关系数据库标准语言SQL（大纲）](https://blog.csdn.net/shsjssnn/article/details/135705227)
+
++ [深度求索开源国内首个 MoE 大模型 | DeepSeekMoE：在专家混合语言模型中实现终极专家专业化](https://blog.csdn.net/fyfugoyfa/article/details/135646462)
+
