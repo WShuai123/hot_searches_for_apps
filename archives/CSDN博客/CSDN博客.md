@@ -147,3 +147,13 @@
 
 + [ChatGPT正确打开方式与GPT-4.5的key最新获取方式](https://blog.csdn.net/Why_does_it_work/article/details/135706354)
 
++ [AI时代—ChatGPT-4.5的正确打开方式](https://blog.csdn.net/Why_does_it_work/article/details/135706354)
+
++ [美国积极利用EPMM漏洞；TensorFlow易受投毒攻击；伊朗黑客伪装刺探；GitHub在暴露高危漏洞| 安全周报 0119](https://blog.csdn.net/weixin_55163056/article/details/135704851)
+
++ [外包干了一个月，技术明显进步。。。。。](https://blog.csdn.net/2301_79535544/article/details/135686169)
+
++ [【轮式平衡机器人】——软硬件配置/准备](https://blog.csdn.net/weixin_51658186/article/details/135619947)
+
++ [深度求索开源国内首个 MoE 大模型 | DeepSeekMoE：在专家混合语言模型中实现终极专家专业化](https://blog.csdn.net/fyfugoyfa/article/details/135646462)
+

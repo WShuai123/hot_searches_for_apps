@@ -147,3 +147,17 @@
 
 + [躲开竞争热潮 《宣誓》为何一定要在2024年发售](https://www.3dmgame.com/news/202401/3886530.html)
 
++ [得加钱！《如龙8》“新游戏+”模式仅通过DLC提供](https://www.3dmgame.com/news/202401/3886543.html)
+
++ [三星首款3nm商业芯片 Galaxy Watch 7手表将配Exynos W940](https://www.3dmgame.com/news/202401/3886544.html)
+
++ [《幻兽帕鲁》一开始只有4名开发者 官方计划加入PvP和副本Boss](https://www.3dmgame.com/news/202401/3886542.html)
+
++ [或导致偏头痛和眩晕 《铁拳8》修改争议无障碍功能](https://www.3dmgame.com/news/202401/3886541.html)
+
++ [《幻兽帕鲁》在线玩家数破45万 服务器受难](https://www.3dmgame.com/news/202401/3886540.html)
+
++ [真人剧集《降世神通：最后的气宗》角色海报 2月22日发售](https://www.3dmgame.com/news/202401/3886538.html)
+
++ [《星空》Mod比官方修BUG效率高？B社：我们更严谨](https://www.3dmgame.com/news/202401/3886539.html)
+

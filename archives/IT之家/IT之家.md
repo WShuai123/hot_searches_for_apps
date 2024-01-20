@@ -37,3 +37,5 @@
 
 + [光斑逆时针旋转 30 度，人类史上首张黑洞照片主角 M87 新图公布](https://m.ithome.com/html/746145.htm)
 
++ [华为路由 AX6 new 白色款上架：Wi-Fi6+、7200Mbps，预售价 449 元](https://m.ithome.com/html/746254.htm)
+
