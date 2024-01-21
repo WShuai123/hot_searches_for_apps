@@ -31,3 +31,7 @@
 
 + [Midjourney V6 超进化，大神网友深度评测来了！画质逼真到可怕，人像图片令人惊呆](https://m.ithome.com/html/746372.htm)
 
++ [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://m.ithome.com/html/746394.htm)
+
++ [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://m.ithome.com/html/746400.htm)
+

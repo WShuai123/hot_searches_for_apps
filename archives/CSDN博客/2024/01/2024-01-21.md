@@ -163,3 +163,7 @@
 
 + [libcurl是一个用于进行网络通信的开源库，提供了各种功能和选项，可以用于发送和接收HTTP请求、FTP操作等](https://blog.csdn.net/m0_46376834/article/details/135682753)
 
++ [如何使用Synology Drive作为文件同步服务器实现云同步Obsidian笔记](https://blog.csdn.net/asdssadddd/article/details/135676124)
+
++ [Linux重定向：深入理解与实践](https://blog.csdn.net/weixin_64038246/article/details/135725703)
+
