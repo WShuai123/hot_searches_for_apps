@@ -51,3 +51,5 @@
 
 + [苹果 Vision Pro 头显目前约有 230 个原生应用， Office 等大量应用截图出炉](https://m.ithome.com/html/746429.htm)
 
++ [《幻兽帕鲁》Steam 峰值在线人数超过《鹅鸭杀》，进入历史前十](https://m.ithome.com/html/746379.htm)
+
