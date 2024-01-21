@@ -133,3 +133,9 @@
 
 + [低代码+物联网: 重塑智慧社区，开启未来生活新纪元](https://blog.csdn.net/kfashfasf/article/details/135716756)
 
++ [从一到无穷大 #21 从基于多数据模型分析负载的Benchmark讨论多模数据库的发展方向](https://blog.csdn.net/weixin_43705457/article/details/135730518)
+
++ [如何使用idm下载百度网盘的资源](https://blog.csdn.net/YU_bibo/article/details/135707109)
+
++ [监听个人微信收款，实现扫码充值](https://blog.csdn.net/Some_Sunshine/article/details/135724702)
+

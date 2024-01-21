@@ -105,3 +105,7 @@
 
 + [2024新版Windows 11要来了！16GB内存需求引热议](https://www.3dmgame.com/news/202401/3886617.html)
 
++ [《异色代码：回忆录》由《罪恶工具》开发商制作](https://www.3dmgame.com/news/202401/3886620.html)
+
++ [《火箭骑士历险记: 重闪合集》公开新要素预告](https://www.3dmgame.com/news/202401/3886619.html)
+
