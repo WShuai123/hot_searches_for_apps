@@ -35,3 +35,5 @@
 
 + [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://m.ithome.com/html/746400.htm)
 
++ [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://m.ithome.com/html/746393.htm)
+

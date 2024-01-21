@@ -167,3 +167,7 @@
 
 + [现代车队恶搞《GTA 6》宣传片 拍“GTA 24真人版”短片](https://www.3dmgame.com/news/202401/3886591.html)
 
++ [2023年12月全球主机销量估测 索尼微软同比均有增长](https://www.3dmgame.com/news/202401/3886602.html)
+
++ [“抢先体验的抢先体验” 《幻兽帕鲁》XGP游戏版本落后Steam](https://www.3dmgame.com/news/202401/3886603.html)
+
