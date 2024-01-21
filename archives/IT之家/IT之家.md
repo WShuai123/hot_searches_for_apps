@@ -61,3 +61,7 @@
 
 + [国产纯电小跑车 SC01 首台白车身下线，预售不超过 30 万元](https://m.ithome.com/html/746417.htm)
 
++ [三星 Galaxy S24 Ultra 手机存储速度比 iPhone 15 Pro Max 快 75%，延迟更低](https://m.ithome.com/html/746462.htm)
+
++ [《幻兽帕鲁》口碑分化：Steam 在线人数超百万，XGP 版本仅有 1.8 评分](https://m.ithome.com/html/746466.htm)
+

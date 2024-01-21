@@ -199,3 +199,7 @@
 
 + [4D毫米波雷达——FFT-RadNet 目标检测与可行驶区域分割 CVPR2022](https://blog.csdn.net/qq_41204464/article/details/135729199)
 
++ [深度解析Python关键字：掌握核心语法的基石(新版本35+4)](https://blog.csdn.net/boysoft2002/article/details/135727362)
+
++ [Centos使用Docker搭建自己的Gitlab（社区版和设置汉化、修改密码、设置SSH秘钥、添加拉取命令端口号）](https://blog.csdn.net/weixin_45062076/article/details/135690543)
+
