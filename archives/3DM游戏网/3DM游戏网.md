@@ -109,3 +109,35 @@
 
 + [《幻兽帕鲁》被批抄袭《宝可梦》和使用AI生成](https://www.3dmgame.com/news/202401/3886569.html)
 
++ [传闻：《最终幻想16》Xbox移植版正在开发中](https://www.3dmgame.com/news/202401/3886588.html)
+
++ [《权力的游戏》制片人表示愿意回归执导琼恩·雪诺衍生剧](https://www.3dmgame.com/news/202401/3886587.html)
+
++ [多人科幻新作《Armor Attack》公布 登陆PC与移动端](https://www.3dmgame.com/news/202401/3886586.html)
+
++ [《自杀小队：杀死正义联盟》可以强制崩掉自己脑袋](https://www.3dmgame.com/news/202401/3886585.html)
+
++ [传闻：索尼有大量游戏将登陆PC 包括《最后的生还者2》](https://www.3dmgame.com/news/202401/3886584.html)
+
++ [小米汽车19.9万不可能买到！雷军：性能相当于豪车](https://www.3dmgame.com/news/202401/3886583.html)
+
++ [《德州电锯杀人狂》未来三个月内提供大量内容更新](https://www.3dmgame.com/news/202401/3886582.html)
+
++ [动作电影《红右手》官方预告片公布 精灵王子奥兰多·布鲁姆主演](https://www.3dmgame.com/news/202401/3886581.html)
+
++ [《自杀小队：杀死正义联盟》终局阶段海量细节汇总](https://www.3dmgame.com/news/202401/3886580.html)
+
++ [D&D官方发布统计 最受欢迎的种族、职业和角色名称等出炉](https://www.3dmgame.com/news/202401/3886579.html)
+
++ [泄露信息表明Epic或将推出自己的订阅服务](https://www.3dmgame.com/news/202401/3886578.html)
+
++ [有数百名开发者表示 他们正在为Switch2开发项目](https://www.3dmgame.com/news/202401/3886576.html)
+
++ [苹果开卖iPhone15龙年手机壳 售价498元](https://www.3dmgame.com/news/202401/3886577.html)
+
++ [《仙剑4》网剧有效播放量突破1亿](https://www.3dmgame.com/news/202401/3886575.html)
+
++ [《光环》电视剧主演认为 士官长的浪漫关系是一个“巨大的错误”](https://www.3dmgame.com/news/202401/3886574.html)
+
++ [《幻兽帕鲁》发售40小时销量突破300万 Steam玩家特别好评](https://www.3dmgame.com/news/202401/3886573.html)
+
