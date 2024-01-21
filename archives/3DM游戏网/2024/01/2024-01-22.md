@@ -101,3 +101,7 @@
 
 + [类魂游戏《无限机兵》PC配置公开 推荐GTX 1070显卡](https://www.3dmgame.com/news/202401/3886566.html)
 
++ [《耀斑纪元》Steam多半好评 还需打磨](https://www.3dmgame.com/news/202401/3886618.html)
+
++ [2024新版Windows 11要来了！16GB内存需求引热议](https://www.3dmgame.com/news/202401/3886617.html)
+
