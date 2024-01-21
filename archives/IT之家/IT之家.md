@@ -39,3 +39,9 @@
 
 + [别克昂科威 Plus 新款车型亮相：前脸换最新设计，车内配弧面双联屏](https://m.ithome.com/html/746380.htm)
 
++ [Sensor Tower：《大富翁 GO》超越《王者荣耀》，成 2023 年 12 月全球手游收入冠军](https://m.ithome.com/html/746383.htm)
+
++ [NTP（网络时间协议）发明人大卫・米尔斯逝世：享年 85 岁，为数十亿台设备管理时间](https://m.ithome.com/html/746358.htm)
+
++ [小鹏汽车回应“续保”问题：目前全系均可正常办理保险业务](https://m.ithome.com/html/746377.htm)
+
