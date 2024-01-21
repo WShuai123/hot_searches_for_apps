@@ -45,3 +45,9 @@
 
 + [小鹏汽车回应“续保”问题：目前全系均可正常办理保险业务](https://m.ithome.com/html/746377.htm)
 
++ [消息称华为 P70 系列手机有望 3 月发布，目前进度很快](https://m.ithome.com/html/746446.htm)
+
++ [上线仅 2 天！《幻兽帕鲁》Steam 在线峰值破百万，超越《博德之门 3》《霍格沃茨之遗》](https://m.ithome.com/html/746437.htm)
+
++ [苹果 Vision Pro 头显目前约有 230 个原生应用， Office 等大量应用截图出炉](https://m.ithome.com/html/746429.htm)
+

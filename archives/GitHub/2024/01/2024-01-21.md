@@ -51,3 +51,33 @@
 
 + [midudev / porfolio.dev](https://github.com/midudev/porfolio.dev)
 
++ [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [netease-youdao / QAnything](https://github.com/netease-youdao/QAnything)
+
++ [VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [oven-sh / bun](https://github.com/oven-sh/bun)
+
++ [gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+
++ [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [mouredev / Hello-Python](https://github.com/mouredev/Hello-Python)
+
++ [sst / demo-ai-app](https://github.com/sst/demo-ai-app)
+

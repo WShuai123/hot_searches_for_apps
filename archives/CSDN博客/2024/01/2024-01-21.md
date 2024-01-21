@@ -181,3 +181,19 @@
 
 + [Flutter 页面嵌入 Android原生 View](https://blog.csdn.net/Lan_Se_Tian_Ma/article/details/135721738)
 
++ [【Docker】未来已来 | Docker技术在云计算、边缘计算领域的应用前景](https://blog.csdn.net/m0_75058342/article/details/134617819)
+
++ [【微服务】springcloud集成sleuth与zipkin实现链路追踪](https://blog.csdn.net/zhangcongyi420/article/details/135711260)
+
++ [AIGC重塑教育：AI大模型驱动的教育变革与实践](https://blog.csdn.net/2303_77146628/article/details/135730242)
+
++ [AI对比：ChatGPT与文心一言的异同与未来](https://blog.csdn.net/a1657054242/article/details/135732012)
+
++ [制作一个Python聊天机器人](https://blog.csdn.net/zhouwei_1989_/article/details/135686782)
+
++ [【Linux学习】进程信号](https://blog.csdn.net/sdhajkdghjkawhd/article/details/135676516)
+
++ [Eureka使用详解](https://blog.csdn.net/zhangzehai2234/article/details/135709430)
+
++ [vue3-模版引用](https://blog.csdn.net/wdk996/article/details/135723981)
+
