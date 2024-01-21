@@ -53,3 +53,11 @@
 
 + [《幻兽帕鲁》Steam 峰值在线人数超过《鹅鸭杀》，进入历史前十](https://m.ithome.com/html/746379.htm)
 
++ [三星 Galaxy S24 Ultra 手机隐藏卖点：超强防反光涂层吊打竞品](https://m.ithome.com/html/746451.htm)
+
++ [中国铁路：近 1200 组复兴号高速列车投入运用，累计运送旅客已超 22 亿人次](https://m.ithome.com/html/746384.htm)
+
++ [微信 Windows 3.9.9 版本更新：视频通话体验优化](https://m.ithome.com/html/746421.htm)
+
++ [国产纯电小跑车 SC01 首台白车身下线，预售不超过 30 万元](https://m.ithome.com/html/746417.htm)
+
