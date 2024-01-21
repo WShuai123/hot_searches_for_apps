@@ -137,3 +137,17 @@
 
 + [如何在CentOS下使用Docker部署Halo博客网站并结合内网穿透远程访问](https://blog.csdn.net/qq_57761637/article/details/135670211)
 
++ [Python爬虫IP池](https://blog.csdn.net/Justw320/article/details/135720936)
+
++ [面向 AI 的编程 -- 爬虫实战：爬取某乎粉丝](https://blog.csdn.net/GoodMorning233/article/details/135718068)
+
++ [软件工程--------就业与编程语言的多样性选择](https://blog.csdn.net/m0_75006599/article/details/135706343)
+
++ [Python气象信息可视化方法汇总](https://blog.csdn.net/qq_42953042/article/details/135705892)
+
++ [Kubernetes之k3s: 使用docker作为容器来运行ros2节点 （server篇）](https://blog.csdn.net/maxmilianxing/article/details/135723106)
+
++ [【番外01】夫子明察司法大模型：阿里云部署法律大模型](https://blog.csdn.net/H66778899/article/details/135663126)
+
++ [2024年linux内核开发会是程序员新的风口吗？](https://blog.csdn.net/b98982016/article/details/135679014)
+

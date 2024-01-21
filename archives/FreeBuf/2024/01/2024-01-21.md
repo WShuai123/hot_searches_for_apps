@@ -45,3 +45,5 @@
 
 + [深入分析威胁行为者如何滥用OAuth应用程序实施恶意活动](https://www.freebuf.com/articles/network/389394.html)
 
++ [SpiderFlow爬虫平台漏洞利用分析（CVE-2024-0195）](https://www.freebuf.com/vuls/390018.html)
+

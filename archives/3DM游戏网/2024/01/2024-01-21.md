@@ -101,3 +101,11 @@
 
 + [《原神》4.4版本1月31日上线 新PV发布](https://www.3dmgame.com/news/202401/3886518.html)
 
++ [时隔十年 Bungie终于为《命运》添加角色更改外观功能](https://www.3dmgame.com/news/202401/3886572.html)
+
++ [《幻兽帕鲁》跻身Steam历史玩家榜前十 有望超越《博德之门3》](https://www.3dmgame.com/news/202401/3886570.html)
+
++ [《塔罗斯的法则2》《Estencel》现已支持FSR 3](https://www.3dmgame.com/news/202401/3886571.html)
+
++ [《幻兽帕鲁》被批抄袭《宝可梦》和使用AI生成](https://www.3dmgame.com/news/202401/3886569.html)
+
