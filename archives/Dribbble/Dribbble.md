@@ -89,3 +89,7 @@
 
 + [Rustic Rides - Brand Application](https://dribbble.com/shots/)
 
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [CARHARTT SELECTION GRAPHIC](https://dribbble.com/shots/)
+

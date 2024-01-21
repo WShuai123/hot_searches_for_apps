@@ -103,3 +103,33 @@
 
 + [Centos使用Docker搭建自己的Gitlab（社区版和设置汉化、修改密码、设置SSH秘钥、添加拉取命令端口号、配置文件传至网盘）](https://blog.csdn.net/weixin_45062076/article/details/135690543)
 
++ [论文推荐 | 借助大语言模型GPT-4辅助恶意代码动态分析](https://blog.csdn.net/Eastmount/article/details/135737712)
+
++ [Spring IOC](https://blog.csdn.net/llt2997632602/article/details/135721182)
+
++ [第二章 使用 SQL Search](https://blog.csdn.net/yaoxin521123/article/details/135690213)
+
++ [正确认识和使用C++命名空间](https://blog.csdn.net/NewStar_2022/article/details/135732485)
+
++ [Hadoop3完全分布式搭建](https://blog.csdn.net/qq_45860901/article/details/135714649)
+
++ [2024美赛数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/dc_sinor/article/details/135719518)
+
++ [08. Springboot集成webmagic实现网页爬虫](https://blog.csdn.net/p793049488/article/details/135733870)
+
++ [Wi-Fi、4G、5G的物理层技术](https://blog.csdn.net/qq_36666115/article/details/135713763)
+
++ [爬虫笔记（一）：实战登录古诗文网站](https://blog.csdn.net/qq_47627751/article/details/135706940)
+
++ [获取mac地址，内网ip，当前ip位置信息](https://blog.csdn.net/lwdfzr/article/details/135666866)
+
++ [2024年美赛数学建模思路 - 案例：感知机原理剖析及实现](https://blog.csdn.net/math_assistant/article/details/135719834)
+
++ [Flutter 页面嵌入 Android原生 View](https://blog.csdn.net/Lan_Se_Tian_Ma/article/details/135721738)
+
++ [单体架构、微服务和无服务器架构](https://blog.csdn.net/wangonik_l/article/details/135718642)
+
++ [【轮式平衡机器人】——角度/速度/方向控制分析&软件控制框架](https://blog.csdn.net/weixin_51658186/article/details/135629512)
+
++ [低代码+物联网: 重塑智慧社区，开启未来生活新纪元](https://blog.csdn.net/kfashfasf/article/details/135716756)
+
