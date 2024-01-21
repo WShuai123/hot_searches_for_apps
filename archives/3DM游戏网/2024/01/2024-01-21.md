@@ -171,3 +171,15 @@
 
 + [“抢先体验的抢先体验” 《幻兽帕鲁》XGP游戏版本落后Steam](https://www.3dmgame.com/news/202401/3886603.html)
 
++ [《幻兽帕鲁》Steam在线人数突破百万 玩家：做到了GF做不到的事](https://www.3dmgame.com/news/202401/3886609.html)
+
++ [问界新M7获2023微博年度车型奖 余承东：以智取胜 以质取胜](https://www.3dmgame.com/news/202401/3886604.html)
+
++ [特斯拉Cybertruck真实续航里程曝光：与官方数相差200多公里](https://www.3dmgame.com/news/202401/3886608.html)
+
++ [官号“让删除男友游戏”！微星致歉：对相关人员追责处理](https://www.3dmgame.com/news/202401/3886607.html)
+
++ [《如龙8》桐生一马配音演员不赞同“新游戏+”收费](https://www.3dmgame.com/news/202401/3886606.html)
+
++ [分析师：微软将被迫让旗下游戏登陆竞争对手平台](https://www.3dmgame.com/news/202401/3886605.html)
+

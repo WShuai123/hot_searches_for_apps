@@ -37,3 +37,5 @@
 
 + [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://m.ithome.com/html/746393.htm)
 
++ [别克昂科威 Plus 新款车型亮相：前脸换最新设计，车内配弧面双联屏](https://m.ithome.com/html/746380.htm)
+

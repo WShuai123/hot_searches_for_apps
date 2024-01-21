@@ -173,3 +173,7 @@
 
 + [[Linux 进程(五)] 程序地址空间深度剖析](https://blog.csdn.net/Ljy_cx_21_4_3/article/details/135685376)
 
++ [【Qt】信号和槽](https://blog.csdn.net/gfdxx/article/details/135723412)
+
++ [低代码+物联网: 重塑智慧社区，开启未来生活新纪元](https://blog.csdn.net/kfashfasf/article/details/135716756)
+
