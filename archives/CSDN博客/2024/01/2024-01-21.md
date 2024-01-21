@@ -167,3 +167,7 @@
 
 + [Linux重定向：深入理解与实践](https://blog.csdn.net/weixin_64038246/article/details/135725703)
 
++ [深度探讨 Golang 中并发发送 HTTP 请求的最佳技术](https://blog.csdn.net/m0_68662723/article/details/135711237)
+
++ [单体架构、微服务和无服务器架构](https://blog.csdn.net/wangonik_l/article/details/135718642)
+

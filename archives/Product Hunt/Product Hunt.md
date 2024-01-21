@@ -105,3 +105,13 @@
 
 + [Cubicle](https://www.producthunt.com/posts/cubicle)
 
++ [AI Lawyer 2.0](https://www.producthunt.com/posts/ai-lawyer-2-0)
+
++ [xZoom.app - iPhone camera](https://www.producthunt.com/posts/xzoom-app-iphone-camera)
+
++ [Anime Inbox](https://www.producthunt.com/posts/anime-inbox)
+
++ [WittyWingMan](https://www.producthunt.com/posts/wittywingman)
+
++ [WorkReel](https://www.producthunt.com/posts/workreel)
+
