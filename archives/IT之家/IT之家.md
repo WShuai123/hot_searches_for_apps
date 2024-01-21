@@ -25,3 +25,5 @@
 
 + [三星 Galaxy S24 Ultra 手机续航测试：以小幅优势领先苹果 iPhone 15 Pro Max](https://m.ithome.com/html/746445.htm)
 
++ [国产 C919 大飞机已拿下 1200 多架订单，形成大飞机产业链](https://m.ithome.com/html/746470.htm)
+

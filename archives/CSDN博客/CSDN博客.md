@@ -101,3 +101,5 @@
 
 + [06.搭建一个自己的私有仓库-Gitea](https://blog.csdn.net/u012149927/article/details/135722115)
 
++ [Centos使用Docker搭建自己的Gitlab（社区版和设置汉化、修改密码、设置SSH秘钥、添加拉取命令端口号、配置文件传至网盘）](https://blog.csdn.net/weixin_45062076/article/details/135690543)
+
