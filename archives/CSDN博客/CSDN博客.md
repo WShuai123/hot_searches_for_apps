@@ -133,3 +133,7 @@
 
 + [AWS CI/CD之二：配置CodeDeploy](https://blog.csdn.net/fxtxz2/article/details/135606039)
 
++ [SpringBoot：详解Bean生命周期和作用域](https://blog.csdn.net/weixin_62951900/article/details/135706261)
+
++ [如何在CentOS下使用Docker部署Halo博客网站并结合内网穿透远程访问](https://blog.csdn.net/qq_57761637/article/details/135670211)
+

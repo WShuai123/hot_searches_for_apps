@@ -29,3 +29,5 @@
 
 + [微星就“删男友游戏”相关言论致歉：已停止相关运营团队一切工作并作更换](https://m.ithome.com/html/746388.htm)
 
++ [Midjourney V6 超进化，大神网友深度评测来了！画质逼真到可怕，人像图片令人惊呆](https://m.ithome.com/html/746372.htm)
+

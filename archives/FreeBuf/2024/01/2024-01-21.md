@@ -41,3 +41,7 @@
 
 + [安全AI系统开发指南，全球首份相关安全标准](https://www.freebuf.com/news/389946.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/390136.html)
+
++ [深入分析威胁行为者如何滥用OAuth应用程序实施恶意活动](https://www.freebuf.com/articles/network/389394.html)
+
