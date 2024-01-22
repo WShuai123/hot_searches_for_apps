@@ -167,3 +167,5 @@
 
 + [ZPay](https://www.producthunt.com/posts/zpay)
 
++ [Auro: Daily Journaling](https://www.producthunt.com/posts/auro-daily-journaling)
+
