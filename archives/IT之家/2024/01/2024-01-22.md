@@ -55,3 +55,5 @@
 
 + [比亚迪小型 SUV 元 UP 车型“路试谍照”曝光，预计本季度发布](https://m.ithome.com/html/746546.htm)
 
++ [索尼发出交易终止函，取消印度子公司与 Zee 的 100 亿美元合并交易](https://m.ithome.com/html/746580.htm)
+
