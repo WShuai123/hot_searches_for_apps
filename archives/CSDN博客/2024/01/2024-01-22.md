@@ -191,3 +191,15 @@
 
 + [Docker简介](https://blog.csdn.net/qq_29750559/article/details/135732896)
 
++ [飞书+ChatGPT+cpolar搭建企业智能AI助手并实现无公网ip远程访问](https://blog.csdn.net/qq_73017178/article/details/135747987)
+
++ [【赠书第17期】Excel高效办公：文秘与行政办公（AI版）](https://blog.csdn.net/qq_20016593/article/details/135734572)
+
++ [Spring Boot 4.0：构建云原生Java应用的前沿工具](https://blog.csdn.net/weixin_58070962/article/details/135741439)
+
++ [如何搭建MariaDB并实现无公网ip环境远程连接本地数据库](https://blog.csdn.net/Aileenvov/article/details/135748820)
+
++ [【网络奇遇记】揭秘计算机网络性能指标：全面指南](https://blog.csdn.net/2301_80026901/article/details/135749596)
+
++ [本地部署轻量级web开发框架Flask并实现无公网ip远程访问开发界面](https://blog.csdn.net/fq157856469/article/details/135749431)
+

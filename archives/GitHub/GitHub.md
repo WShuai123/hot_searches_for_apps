@@ -51,3 +51,35 @@
 
 + [sst / demo-ai-app](https://github.com/sst/demo-ai-app)
 
++ [apernet / OpenGFW](https://github.com/apernet/OpenGFW)
+
++ [majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments)
+
++ [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [n8n-io / n8n](https://github.com/n8n-io/n8n)
+
++ [ocornut / imgui](https://github.com/ocornut/imgui)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)
+
++ [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
++ [LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+
++ [jammsen / docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server)
+
++ [jonbarron / camp_zipnerf](https://github.com/jonbarron/camp_zipnerf)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+

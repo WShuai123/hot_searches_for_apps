@@ -221,3 +221,5 @@
 
 + [别光拉，扯他！多人合作互坑《终极拉扯》1.0正式上线，同时Daedalic发行商特惠火热进行中](https://www.3dmgame.com/news/202401/3886675.html)
 
++ [《DOTA2》Nigma战队拉到新赞助 联想中东成合作伙伴](https://www.3dmgame.com/news/202401/3886677.html)
+

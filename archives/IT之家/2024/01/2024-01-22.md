@@ -47,3 +47,11 @@
 
 + [国家发改委：确保春运期间有电可充、有油可加](https://m.ithome.com/html/746463.htm)
 
++ [小米 Redmi K70 Ultra 手机规格曝光：天玑 9300 处理器搭配 1.5K 新屏幕](https://m.ithome.com/html/746590.htm)
+
++ [法国初创公司推出全球首款 DNA 存储卡：可存储 1KB 数据，售价 1000 欧元](https://m.ithome.com/html/746474.htm)
+
++ [电动大 G 来了，消息称奔驰 EQG 车型预计 2024 年内上市](https://m.ithome.com/html/746471.htm)
+
++ [比亚迪小型 SUV 元 UP 车型“路试谍照”曝光，预计本季度发布](https://m.ithome.com/html/746546.htm)
+

@@ -169,3 +169,5 @@
 
 + [Auro: Daily Journaling](https://www.producthunt.com/posts/auro-daily-journaling)
 
++ [Spreadly Scan](https://www.producthunt.com/posts/spreadly-scan)
+
