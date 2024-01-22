@@ -203,3 +203,5 @@
 
 + [本地部署轻量级web开发框架Flask并实现无公网ip远程访问开发界面](https://blog.csdn.net/fq157856469/article/details/135749431)
 
++ [【ORACLE】 事务 | 锁 | 约束 | 权限、角色与用户管理](https://blog.csdn.net/m0_67759533/article/details/135714209)
+

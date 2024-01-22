@@ -223,3 +223,11 @@
 
 + [《DOTA2》Nigma战队拉到新赞助 联想中东成合作伙伴](https://www.3dmgame.com/news/202401/3886677.html)
 
++ [传英伟达将会在2月中旬恢复RTX 4070供货](https://www.3dmgame.com/news/202401/3886680.html)
+
++ [位列第三！《幻兽帕鲁》Steam同时在线峰值超150万](https://www.3dmgame.com/news/202401/3886681.html)
+
++ [《真人快打2》电影正式杀青 新卡司阵容曝光](https://www.3dmgame.com/news/202401/3886679.html)
+
++ [首富埃隆·马斯克要求特斯拉给他涨薪](https://www.3dmgame.com/news/202401/3886678.html)
+

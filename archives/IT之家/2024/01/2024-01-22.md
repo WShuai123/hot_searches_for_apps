@@ -57,3 +57,9 @@
 
 + [索尼发出交易终止函，取消印度子公司与 Zee 的 100 亿美元合并交易](https://m.ithome.com/html/746580.htm)
 
++ [雷军：小米汽车性能堪比两百万油车，不着急定价](https://m.ithome.com/html/746636.htm)
+
++ [闲鱼、高德地图等开屏信息窗口“乱跳转”，31 款 App 侵害用户权益被通报](https://m.ithome.com/html/746617.htm)
+
++ [发布不到 3 个月，iQOO 12 12+256GB 版机型降价 200 元：到手 3799 元](https://m.ithome.com/html/746504.htm)
+
