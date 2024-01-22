@@ -101,3 +101,7 @@
 
 + [《女神异闻录3：Reload》奖杯列表曝光 简化部分奖杯获取条件](https://www.3dmgame.com/news/202401/3886629.html)
 
++ [《赛博朋克2077》续作或加入多人元素 处于概念设计阶段](https://www.3dmgame.com/news/202401/3886684.html)
+
++ [《土豆兄弟》1月30日登陆主机 Steam好评如潮](https://www.3dmgame.com/news/202401/3886685.html)
+

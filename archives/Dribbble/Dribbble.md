@@ -49,3 +49,21 @@
 
 + [Sugarloafin'](https://dribbble.com/shots/)
 
++ [Tarot card #04: The Emperor](https://dribbble.com/shots/)
+
++ [Robot Puke](https://dribbble.com/shots/)
+
++ [Slow Down](https://dribbble.com/shots/)
+
++ [4 Questions to Assess the Trustworthiness of Your Company’s GenA](https://dribbble.com/shots/)
+
++ [Bend & Snap](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. I](https://dribbble.com/shots/)
+
++ [Brand Archetypes](https://dribbble.com/shots/)
+
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Pattern](https://dribbble.com/shots/)
+

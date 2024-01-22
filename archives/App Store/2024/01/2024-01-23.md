@@ -201,3 +201,5 @@
 
 + [唯品会 -龍年献礼 低至1折](https://itunes.apple.com/cn/app/id417200582?mt=8)
 
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
