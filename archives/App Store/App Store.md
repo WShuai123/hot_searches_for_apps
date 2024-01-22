@@ -203,3 +203,5 @@
 
 + [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
 
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
