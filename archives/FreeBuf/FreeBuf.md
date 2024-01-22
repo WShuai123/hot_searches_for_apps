@@ -55,3 +55,5 @@
 
 + [你还敢点开Facebook上“我不敢相信他已经离开了”的帖子吗？](https://www.freebuf.com/news/390245.html)
 
++ [深度分析Struts 2 任意文件上传漏洞 CVE-2023-50164](https://www.freebuf.com/vuls/389426.html)
+

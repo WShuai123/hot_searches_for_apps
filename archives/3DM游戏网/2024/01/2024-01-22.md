@@ -159,3 +159,13 @@
 
 + [《龙之信条2》地图为前作四倍大 内容更多更丰富](https://www.3dmgame.com/news/202401/3886641.html)
 
++ [龙年央视春晚完成第二次彩排 大量艺人第一次参与](https://www.3dmgame.com/news/202401/3886650.html)
+
++ [《波斯王子：失落的王冠》开发者希望制作《塞尔达传说》的衍生作品](https://www.3dmgame.com/news/202401/3886649.html)
+
++ [RTX4070 Super首发销量惨淡让英伟达郁闷：黄牛都不想要](https://www.3dmgame.com/news/202401/3886648.html)
+
++ [《烤肉串模拟器》Steam抢先体验开启 好评餐厅管理](https://www.3dmgame.com/news/202401/3886647.html)
+
++ [2023年国游销量榜发布 《猛兽派对》销量近200万](https://www.3dmgame.com/news/202401/3886645.html)
+

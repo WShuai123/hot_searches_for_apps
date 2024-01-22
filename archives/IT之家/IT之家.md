@@ -35,3 +35,5 @@
 
 + [苹果 2024 款 iPad Air、iPad Pro 和 MacBook Air 爆料汇总，预计 3/4 月发布](https://m.ithome.com/html/746482.htm)
 
++ [高通骁龙 8 Gen 4 QRD 工程机曝光：1080p 稳定运行《原神》45 分钟](https://m.ithome.com/html/746497.htm)
+

@@ -155,3 +155,5 @@
 
 + [使用自动化测试获取手机短信验证码](https://blog.csdn.net/2301_77645573/article/details/135721351)
 
++ [Spring Boot3.2.2整合MyBatis Plus3.5.5](https://blog.csdn.net/qq_62262918/article/details/135734561)
+
