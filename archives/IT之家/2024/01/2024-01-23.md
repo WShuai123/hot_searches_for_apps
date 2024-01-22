@@ -25,3 +25,5 @@
 
 + [索尼 PS5《原神》启动套装 1 月 26 日发售，定价 3599 元](https://m.ithome.com/html/746527.htm)
 
++ [消息称微软 Win12 可能推迟到明年，今年主角是 Win11 24H2](https://m.ithome.com/html/746630.htm)
+
