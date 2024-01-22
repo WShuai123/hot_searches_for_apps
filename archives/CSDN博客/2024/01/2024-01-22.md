@@ -151,3 +151,7 @@
 
 + [游戏开发中的噪声算法](https://blog.csdn.net/gghhb12/article/details/135697601)
 
++ [基于JavaWeb+SSM+Vue基于微信小程序生鲜云订单零售系统的设计和实现](https://blog.csdn.net/qq_39659876/article/details/135723573)
+
++ [使用自动化测试获取手机短信验证码](https://blog.csdn.net/2301_77645573/article/details/135721351)
+

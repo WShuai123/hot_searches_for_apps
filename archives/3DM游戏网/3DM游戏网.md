@@ -149,3 +149,13 @@
 
 + [《最后的生还者》剧集第二季不会偏离游戏剧情 动作场面精彩](https://www.3dmgame.com/news/202401/3886636.html)
 
++ [《暗黑破坏神4》第三赛季佐敦库勒宝库演示](https://www.3dmgame.com/news/202401/3886644.html)
+
++ [小米SU7多辆测试车亮相街头 雷军：见到别忘打招呼](https://www.3dmgame.com/news/202401/3886646.html)
+
++ [沃尔玛正在尝试以0.03美元的价格甩卖《星空》实体游戏](https://www.3dmgame.com/news/202401/3886643.html)
+
++ [《幻兽帕鲁》成为Steam史上同时在线玩家数最多的付费游戏](https://www.3dmgame.com/news/202401/3886642.html)
+
++ [《龙之信条2》地图为前作四倍大 内容更多更丰富](https://www.3dmgame.com/news/202401/3886641.html)
+

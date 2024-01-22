@@ -49,3 +49,9 @@
 
 + [你还敢相信Facebook上“我不敢相信他已经离开了”的帖子吗？](https://www.freebuf.com/news/390245.html)
 
++ [给师傅们介绍一个学渗透的好地方](https://www.freebuf.com/articles/others-articles/390258.html)
+
++ [Vans 和 North Face 母公司遭遇勒索软件攻击，影响 3500 万消费者](https://www.freebuf.com/news/390241.html)
+
++ [你还敢点开Facebook上“我不敢相信他已经离开了”的帖子吗？](https://www.freebuf.com/news/390245.html)
+
