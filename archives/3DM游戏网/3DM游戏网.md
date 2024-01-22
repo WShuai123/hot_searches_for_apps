@@ -187,3 +187,11 @@
 
 + [《ATLYSS》PC试玩发布 3D动作RPG新游](https://www.3dmgame.com/news/202401/3886656.html)
 
++ [苹果负债金额约7822亿人民币 全球第二高科技公司](https://www.3dmgame.com/news/202401/3886663.html)
+
++ [黄仁勋在英伟达年会抽奖 中奖人名叫“华为”：建议严查内鬼](https://www.3dmgame.com/news/202401/3886662.html)
+
++ [纵向卷轴枪战游戏《食魂徒：群魔乱舞》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202401/3886661.html)
+
++ [《宝可梦：朱紫》新泰拉挑战1月26日上线 振翼发与铁脖颈参战](https://www.3dmgame.com/news/202401/3886660.html)
+

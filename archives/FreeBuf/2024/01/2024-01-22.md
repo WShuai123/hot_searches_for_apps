@@ -63,3 +63,7 @@
 
 + [Facebook上看到这样的帖子，你还敢点开吗？](https://www.freebuf.com/news/390245.html)
 
++ [数据中心遭勒索攻击，瑞典多个城市因此宕机](https://www.freebuf.com/news/390293.html)
+
++ [2024年密码泄露王炸：7千万邮箱账号、1 亿密码泄露](https://www.freebuf.com/news/390270.html)
+

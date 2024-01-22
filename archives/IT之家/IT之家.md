@@ -39,3 +39,5 @@
 
 + [苹果 Vision Pro 面临挑战：部分关键应用缺席，开发者热情不高](https://m.ithome.com/html/746479.htm)
 
++ [黄仁勋穿大花背心扭秧歌视频曝光，英伟达中国年会抽奖幸运儿名叫“华为”](https://m.ithome.com/html/746480.htm)
+

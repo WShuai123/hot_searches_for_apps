@@ -137,3 +137,23 @@
 
 + [SurveyPluto](https://www.producthunt.com/posts/surveypluto)
 
++ [PitchPal](https://www.producthunt.com/posts/pitchpal-3)
+
++ [Happyml](https://www.producthunt.com/posts/happyml)
+
++ [Auro, Daily Journaling](https://www.producthunt.com/posts/auro-daily-journaling)
+
++ [Mapin](https://www.producthunt.com/posts/mapin)
+
++ [Beezle Social - Discover Local Events](https://www.producthunt.com/posts/beezle-social-discover-local-events)
+
++ [Annotate](https://www.producthunt.com/posts/annotate-6)
+
++ [Holly](https://www.producthunt.com/posts/holly-3)
+
++ [Template 24](https://www.producthunt.com/posts/template-24)
+
++ [Bonkers](https://www.producthunt.com/posts/bonkers-2)
+
++ [Composer IRA](https://www.producthunt.com/posts/composer-ira)
+
