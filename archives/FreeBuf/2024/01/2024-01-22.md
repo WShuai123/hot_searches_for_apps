@@ -47,3 +47,5 @@
 
 + [三星蓝牙位置追踪系统的安全性分析](https://www.freebuf.com/vuls/389969.html)
 
++ [你还敢相信Facebook上“我不敢相信他已经离开了”的帖子吗？](https://www.freebuf.com/news/390245.html)
+

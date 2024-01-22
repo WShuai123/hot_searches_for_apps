@@ -33,3 +33,5 @@
 
 + [小米推出米家 616L 对开门冰箱：风冷无霜 + 一级能效，到手价 2399 元](https://m.ithome.com/html/746475.htm)
 
++ [苹果 2024 款 iPad Air、iPad Pro 和 MacBook Air 爆料汇总，预计 3/4 月发布](https://m.ithome.com/html/746482.htm)
+

@@ -139,3 +139,13 @@
 
 + [尾田荣一郎《MONSTERS》动画版上线开播 新角色公开](https://www.3dmgame.com/news/202401/3886627.html)
 
++ [《子弹风暴VR》突然下架PS Store日韩区 因评级为通过](https://www.3dmgame.com/news/202401/3886640.html)
+
++ [外媒评《幻兽帕鲁》开发商新作《Never Grave》 看起来如同《空洞骑士》](https://www.3dmgame.com/news/202401/3886639.html)
+
++ [报告称：2023年V社仅《CS2》开箱就赚了10亿美元](https://www.3dmgame.com/news/202401/3886638.html)
+
++ [《欧洲卡车模拟2》DLC更新1.1即将上线 追加北九州美丽路线](https://www.3dmgame.com/news/202401/3886637.html)
+
++ [《最后的生还者》剧集第二季不会偏离游戏剧情 动作场面精彩](https://www.3dmgame.com/news/202401/3886636.html)
+
