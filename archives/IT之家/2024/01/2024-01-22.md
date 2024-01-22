@@ -37,3 +37,5 @@
 
 + [高通骁龙 8 Gen 4 QRD 工程机曝光：1080p 稳定运行《原神》45 分钟](https://m.ithome.com/html/746497.htm)
 
++ [苹果 Vision Pro 面临挑战：部分关键应用缺席，开发者热情不高](https://m.ithome.com/html/746479.htm)
+

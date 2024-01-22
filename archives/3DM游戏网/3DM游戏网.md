@@ -179,3 +179,11 @@
 
 + [动画《从Lv2开始开挂的原勇者候补悠闲的异世界生活》发布第二弹PV预告](https://www.3dmgame.com/news/202401/3886651.html)
 
++ [新年史低特惠！《极限竞速：地平线5》顶级版平史低4.5折！](https://www.3dmgame.com/news/202401/3886657.html)
+
++ [《烟火》《三伏》制作人晒场景草稿 新作正在开发中](https://www.3dmgame.com/news/202401/3886659.html)
+
++ [引爆创作潜能！Y3编辑器开发者培育计划启动！](https://www.3dmgame.com/news/202401/3886658.html)
+
++ [《ATLYSS》PC试玩发布 3D动作RPG新游](https://www.3dmgame.com/news/202401/3886656.html)
+

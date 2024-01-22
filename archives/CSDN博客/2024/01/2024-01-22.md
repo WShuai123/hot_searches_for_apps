@@ -169,3 +169,5 @@
 
 + [腾讯云tsf平台-部署微服务项目](https://blog.csdn.net/qq_41840843/article/details/135743630)
 
++ [编译和链接（翻译环境:预编译+编译+汇编+链接​、运行环境）](https://blog.csdn.net/2301_79558858/article/details/135669353)
+

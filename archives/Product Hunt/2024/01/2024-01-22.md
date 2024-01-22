@@ -113,3 +113,27 @@
 
 + [Cubicle](https://www.producthunt.com/posts/cubicle)
 
++ [24me Smart Personal Assistant](https://www.producthunt.com/posts/24me-smart-personal-assistant-902909e6-1d55-4d76-b193-b9b6e7e3a7a2)
+
++ [Coral Island](https://www.producthunt.com/posts/coral-island)
+
++ [Prompt 3](https://www.producthunt.com/posts/prompt-3-2)
+
++ [Free Logo Maker](https://www.producthunt.com/posts/free-logo-maker-2)
+
++ [gemdomains](https://www.producthunt.com/posts/gemdomains)
+
++ [DevMail](https://www.producthunt.com/posts/devmail)
+
++ [Blacksmith InfoSec](https://www.producthunt.com/posts/blacksmith-infosec)
+
++ [Micro StartUps Acquisitions](https://www.producthunt.com/posts/micro-startups-acquisitions)
+
++ [Kyugo 2.0](https://www.producthunt.com/posts/kyugo-2-0)
+
++ [Career Recipes by Adaptiv](https://www.producthunt.com/posts/career-recipes-by-adaptiv)
+
++ [BuddyPT](https://www.producthunt.com/posts/buddypt)
+
++ [SurveyPluto](https://www.producthunt.com/posts/surveypluto)
+
