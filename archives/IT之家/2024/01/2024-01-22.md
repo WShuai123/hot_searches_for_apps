@@ -63,3 +63,7 @@
 
 + [发布不到 3 个月，iQOO 12 12+256GB 版机型降价 200 元：到手 3799 元](https://m.ithome.com/html/746504.htm)
 
++ [联想高管：三年内摩托罗拉将成为全球第三大手机厂商](https://m.ithome.com/html/746627.htm)
+
++ [经典音乐播放器 Winamp 登陆苹果 iOS 及安卓平台，现已上架 App Store](https://m.ithome.com/html/746549.htm)
+
