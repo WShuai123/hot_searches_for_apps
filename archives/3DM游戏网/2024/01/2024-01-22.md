@@ -121,3 +121,21 @@
 
 + [《异度神剑3》448页豪华官方画集1月4日发售](https://www.3dmgame.com/news/202401/3886621.html)
 
++ [《哥斯拉大战金刚2》中国内地定档 金刚带上机械手套](https://www.3dmgame.com/news/202401/3886634.html)
+
++ [Raven对《战区》第一赛季“重载”推出导致的游戏错误关闭问题致歉](https://www.3dmgame.com/news/202401/3886630.html)
+
++ [《终极钓鱼模拟器》宣布推出重置版 已购买玩家将免费升级](https://www.3dmgame.com/news/202401/3886635.html)
+
++ [发售四个月 类Rogue游戏《阿斯特赖亚》销量突破10万](https://www.3dmgame.com/news/202401/3886633.html)
+
++ [《功夫熊猫4》全新海报公布 神龙大侠阿宝帅气](https://www.3dmgame.com/news/202401/3886632.html)
+
++ [《Nothing Together》上架Steam 竞技版沙雕发呆新游](https://www.3dmgame.com/news/202401/3886631.html)
+
++ [《女神异闻录3：Reload》奖杯列表曝光 简化部分奖杯获取条件](https://www.3dmgame.com/news/202401/3886629.html)
+
++ [Xbox 用户再次回怼微软“非常令人失望”的主机全屏弹出广告](https://www.3dmgame.com/news/202401/3886628.html)
+
++ [尾田荣一郎《MONSTERS》动画版上线开播 新角色公开](https://www.3dmgame.com/news/202401/3886627.html)
+

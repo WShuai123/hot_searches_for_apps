@@ -45,3 +45,5 @@
 
 + [揭秘 NKAbuse：一种滥用 NKN 协议的新型多平台威胁](https://www.freebuf.com/articles/network/389514.html)
 
++ [三星蓝牙位置追踪系统的安全性分析](https://www.freebuf.com/vuls/389969.html)
+

@@ -141,3 +141,7 @@
 
 + [解析Transformer模型微调：算法、工程实践与高效数据策略](https://blog.csdn.net/garyyu2200/article/details/135727811)
 
++ [SpringSecurity+OAuth2.0 搭建认证中心和资源服务中心](https://blog.csdn.net/qq_43649937/article/details/135736820)
+
++ [socket实现视频通话-WebRTC](https://blog.csdn.net/qq_52703909/article/details/135716899)
+
