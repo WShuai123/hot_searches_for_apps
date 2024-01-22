@@ -105,3 +105,9 @@
 
 + [《土豆兄弟》1月30日登陆主机 Steam好评如潮](https://www.3dmgame.com/news/202401/3886685.html)
 
++ [《哥特王朝》开发商针对“关闭传闻”发表官方声明](https://www.3dmgame.com/news/202401/3886688.html)
+
++ [《WWE 2K24》正式面向主机/PC公布 3/8推出](https://www.3dmgame.com/news/202401/3886687.html)
+
++ [《如龙8》开场动画展示春日一番美好一天](https://www.3dmgame.com/news/202401/3886686.html)
+
