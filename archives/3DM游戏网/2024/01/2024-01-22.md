@@ -169,3 +169,13 @@
 
 + [2023年国游销量榜发布 《猛兽派对》销量近200万](https://www.3dmgame.com/news/202401/3886645.html)
 
++ [《ScreenBound》亮相 在3D跳跃游戏中同时玩2D跳跃游戏的新创意](https://www.3dmgame.com/news/202401/3886655.html)
+
++ [《迷宫饭》热播 动画师为其创作横版清关游戏风格第三集小动画](https://www.3dmgame.com/news/202401/3886654.html)
+
++ [降低学习成本 《神之浩劫2》上线时将拥有50个角色](https://www.3dmgame.com/news/202401/3886653.html)
+
++ [《幻兽帕鲁》火爆后饭制VR化实现 开发商吃惊反应原本没设计](https://www.3dmgame.com/news/202401/3886652.html)
+
++ [动画《从Lv2开始开挂的原勇者候补悠闲的异世界生活》发布第二弹PV预告](https://www.3dmgame.com/news/202401/3886651.html)
+

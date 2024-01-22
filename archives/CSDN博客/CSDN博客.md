@@ -157,3 +157,15 @@
 
 + [Spring Boot3.2.2整合MyBatis Plus3.5.5](https://blog.csdn.net/qq_62262918/article/details/135734561)
 
++ [曲线生成 | 图解三次样条曲线生成原理(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/135736061)
+
++ [针对特定领域较小的语言模型是否与较大的模型同样有效?](https://blog.csdn.net/m0_46510245/article/details/135740104)
+
++ [SpringCloudConfig+SpringCloudBus+Actuator+Git实现Eureka关键配置属性热更新(全程不重启服务)](https://blog.csdn.net/weixin_57535055/article/details/135625621)
+
++ [五种主流数据库：复合查询条件](https://blog.csdn.net/horses/article/details/135595033)
+
++ [ip_vs 的管理以及 keepalived + lvs 案例](https://blog.csdn.net/footless_bird/article/details/135740111)
+
++ [腾讯云tsf平台-部署微服务项目](https://blog.csdn.net/qq_41840843/article/details/135743630)
+

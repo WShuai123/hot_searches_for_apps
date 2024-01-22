@@ -57,3 +57,9 @@
 
 + [深度分析Struts 2 任意文件上传漏洞 CVE-2023-50164](https://www.freebuf.com/vuls/389426.html)
 
++ [MaccaroniC2：一款功能强大的纯Python命令控制框架](https://www.freebuf.com/sectool/389289.html)
+
++ [安全领域 2024 开年首炸：7084 万个邮箱账号、1 亿个密码信息泄露](https://www.freebuf.com/news/390270.html)
+
++ [Facebook上看到这样的帖子，你还敢点开吗？](https://www.freebuf.com/news/390245.html)
+

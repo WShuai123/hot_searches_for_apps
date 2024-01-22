@@ -105,3 +105,5 @@
 
 + [Cassette futurist interior](https://dribbble.com/shots/)
 
++ [4 Questions to Assess the Trustworthiness of Your Company’s GenA](https://dribbble.com/shots/)
+
