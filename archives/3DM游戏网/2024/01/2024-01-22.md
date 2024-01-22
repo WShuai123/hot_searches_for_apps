@@ -109,3 +109,15 @@
 
 + [《火箭骑士历险记: 重闪合集》公开新要素预告](https://www.3dmgame.com/news/202401/3886619.html)
 
++ [超30%的游戏开发者承认对生成式AI比较依赖](https://www.3dmgame.com/news/202401/3886626.html)
+
++ [《上古卷轴OL：黄金大道》Steam开启预购 标准升级199元](https://www.3dmgame.com/news/202401/3886625.html)
+
++ [《夺宝奇兵》游戏“大圆圈”想法首先由陶德提出](https://www.3dmgame.com/news/202401/3886624.html)
+
++ [1月26日发售《如龙8》预购特典帮你轻松游戏](https://www.3dmgame.com/news/202401/3886623.html)
+
++ [像素射击游戏《亡灵女仆》保卫秋叶原纯洁女仆](https://www.3dmgame.com/news/202401/3886622.html)
+
++ [《异度神剑3》448页豪华官方画集1月4日发售](https://www.3dmgame.com/news/202401/3886621.html)
+

@@ -41,3 +41,7 @@
 
 + [如何使用CureIAM自动清理GCP基础设施中的IAM账号权限](https://www.freebuf.com/sectool/389286.html)
 
++ [FreeBuf早报 | 台湾半导体大厂遭勒索软件攻击；Pwn2Own 2024大赛奖金公布](https://www.freebuf.com/news/390102.html)
+
++ [揭秘 NKAbuse：一种滥用 NKN 协议的新型多平台威胁](https://www.freebuf.com/articles/network/389514.html)
+

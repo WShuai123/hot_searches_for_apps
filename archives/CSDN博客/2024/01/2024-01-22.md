@@ -139,3 +139,5 @@
 
 + [监听个人微信收款，实现扫码充值](https://blog.csdn.net/Some_Sunshine/article/details/135724702)
 
++ [解析Transformer模型微调：算法、工程实践与高效数据策略](https://blog.csdn.net/garyyu2200/article/details/135727811)
+
