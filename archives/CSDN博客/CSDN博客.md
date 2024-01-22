@@ -175,3 +175,15 @@
 
 + [Vue 组件通信方式](https://blog.csdn.net/csdn9_14/article/details/135735354)
 
++ [计算机网络——运输层（2）暨小程送书](https://blog.csdn.net/weixin_74888502/article/details/135745922)
+
++ [《Windows核心编程》若干知识点应用实战分享](https://blog.csdn.net/chenlycly/article/details/135733632)
+
++ [公网环境调试本地配置的Java支付宝沙箱环境模拟支付场景](https://blog.csdn.net/syf666250/article/details/135748259)
+
++ [【SpringCloud Alibaba】 介绍及微服务模块搭建](https://blog.csdn.net/Qingai521/article/details/135741643)
+
++ [数据库（MySQL库表操作）](https://blog.csdn.net/qq_64227183/article/details/135716927)
+
++ [Windows系统本地部署MariaDB数据库并结合内网穿透实现远程访问](https://blog.csdn.net/2301_77485708/article/details/135746938)
+

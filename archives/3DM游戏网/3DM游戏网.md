@@ -195,3 +195,25 @@
 
 + [《宝可梦：朱紫》新泰拉挑战1月26日上线 振翼发与铁脖颈参战](https://www.3dmgame.com/news/202401/3886660.html)
 
++ [中国台北国际电玩展 2024 本周四开幕， GSE 展区概念图及连串精采内容公开](https://www.3dmgame.com/news/202401/3886674.html)
+
++ [发售仅三天 《幻兽帕鲁》销量现已突破500万](https://www.3dmgame.com/news/202401/3886673.html)
+
++ [小米14 Pro等深微曲屏大受欢迎 卢伟冰：结合直屏曲屏优点](https://www.3dmgame.com/news/202401/3886672.html)
+
++ [官方回应《幻兽帕鲁》Xbox版本落后：微软还在审核中](https://www.3dmgame.com/news/202401/3886671.html)
+
++ [仙剑之父姚壮宪夸剧版《仙剑四》 大赞鞠婧祎演技很灵](https://www.3dmgame.com/news/202401/3886670.html)
+
++ [制作人宣布《真人快打2》真人电影拍摄完毕 上映日期未定](https://www.3dmgame.com/news/202401/3886669.html)
+
++ [没有和谐的裙底视角，让《碧蓝幻想Relink》成了网友口中的二次元神作](https://www.3dmgame.com/news/202401/3886668.html)
+
++ [卡普空已移除了《怪物猎人：崛起》D加密技术](https://www.3dmgame.com/news/202401/3886667.html)
+
++ [你的城市排第几 全国31省份最低工资出炉：上海2690元居首](https://www.3dmgame.com/news/202401/3886666.html)
+
++ [《最后的生还者》剧集第二季乔尔死亡情节或有所不同](https://www.3dmgame.com/news/202401/3886665.html)
+
++ [周鸿祎：不能跟员工空谈奋斗精神 只给一个低工资](https://www.3dmgame.com/news/202401/3886664.html)
+

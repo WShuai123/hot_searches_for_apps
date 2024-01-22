@@ -157,3 +157,13 @@
 
 + [Composer IRA](https://www.producthunt.com/posts/composer-ira)
 
++ [Digital Wall of Fame](https://www.producthunt.com/posts/digital-wall-of-fame)
+
++ [Ivah.io Sync Your Business](https://www.producthunt.com/posts/ivah-io-sync-your-business)
+
++ [ai-o](https://www.producthunt.com/posts/ai-o)
+
++ [Team Board - In/Out Status List in Teams](https://www.producthunt.com/posts/team-board-in-out-status-list-in-teams)
+
++ [ZPay](https://www.producthunt.com/posts/zpay)
+

@@ -41,3 +41,9 @@
 
 + [黄仁勋穿大花背心扭秧歌视频曝光，英伟达中国年会抽奖幸运儿名叫“华为”](https://m.ithome.com/html/746480.htm)
 
++ [指纹究竟是不是独特的？本科生顶刊发文遭法医界质疑](https://m.ithome.com/html/746460.htm)
+
++ [苹果提醒：Vision Pro 头显在美国以外市场体验受限](https://m.ithome.com/html/746473.htm)
+
++ [国家发改委：确保春运期间有电可充、有油可加](https://m.ithome.com/html/746463.htm)
+
