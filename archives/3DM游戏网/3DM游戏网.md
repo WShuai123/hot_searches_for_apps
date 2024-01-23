@@ -269,3 +269,9 @@
 
 + [《TO:NORTH》PC平台免费发布 复古风SF冒险新游](https://www.3dmgame.com/news/202401/3886764.html)
 
++ [丰田章男：电动汽车市占率最多只能达到30%](https://www.3dmgame.com/news/202401/3886770.html)
+
++ [《幻兽帕鲁》前期工作帕鲁推荐，新手提高据点效率宝典](https://www.3dmgame.com/news/202401/3886769.html)
+
++ [幻兽帕鲁最强陆地坐骑云海鹿捕捉攻略，让你体验飞一般的感觉](https://www.3dmgame.com/news/202401/3886768.html)
+

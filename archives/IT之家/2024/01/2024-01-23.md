@@ -51,3 +51,5 @@
 
 + [联想拯救者 Y7000P 2024 笔记本“顶配皇帝版”上架：i7-14700HX + RTX4070 首发价 8999 元](https://m.ithome.com/html/746673.htm)
 
++ [特斯拉 Model 3 焕新版车型推出 ETC 加装服务：全隐藏式安装，售 299 元](https://m.ithome.com/html/746659.htm)
+

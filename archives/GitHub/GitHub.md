@@ -51,3 +51,35 @@
 
 + [microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver)
 
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [InstantID / InstantID](https://github.com/InstantID/InstantID)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
+
++ [sst / demo-ai-app](https://github.com/sst/demo-ai-app)
+
++ [lucidrains / self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+
++ [gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer)
+
++ [nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
+

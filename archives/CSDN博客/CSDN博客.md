@@ -187,3 +187,11 @@
 
 + [选对MongoDB客户端：从初学者到专业级，NineData的全覆盖解决方案](https://blog.csdn.net/NineData/article/details/135765525)
 
++ [MNIST 数据集详析：使用残差网络RESNET识别手写数字（文末送书）](https://blog.csdn.net/weixin_51390582/article/details/135771928)
+
++ [PolarDB无感切换特性助力游戏领域高可用实践](https://blog.csdn.net/shi_hong_fei_hei/article/details/135758630)
+
++ [SpringBoot 自定义Filter 提前返回 CORS 错误 处理前后端分离跨域配置无效问题解析](https://blog.csdn.net/agonie201218/article/details/135225673)
+
++ [Python助力华为设备接口状态查询](https://blog.csdn.net/qq_43751649/article/details/135749004)
+
