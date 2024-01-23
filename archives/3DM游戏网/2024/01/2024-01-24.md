@@ -107,3 +107,9 @@
 
 + [《铁拳8》媒体评分解禁 M站均分90](https://www.3dmgame.com/news/202401/3886778.html)
 
++ [网飞真人剧《降世神通：最后的气宗》发布正式预告](https://www.3dmgame.com/news/202401/3886783.html)
+
++ [任天堂发布浅粉色Joy-Con手柄 3月22日上市](https://www.3dmgame.com/news/202401/3886782.html)
+
++ [《碧奇公主表演时刻》视频展示各种变身形态](https://www.3dmgame.com/news/202401/3886781.html)
+
