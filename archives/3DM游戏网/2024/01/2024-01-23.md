@@ -229,3 +229,17 @@
 
 + [传闻漫画《宝石之国》将于2月24日发行的《月刊AFTERNOON》上恢复连载](https://www.3dmgame.com/news/202401/3886745.html)
 
++ [《欣灵感应》Steam页面上线 治愈系日常解谜新游](https://www.3dmgame.com/news/202401/3886754.html)
+
++ [传闻：《女神异闻录3：Reload》和《暗喻幻想》都将登陆Switch2](https://www.3dmgame.com/news/202401/3886753.html)
+
++ [《浩劫前夕》关服 工作室CEO已转移开发新手游](https://www.3dmgame.com/news/202401/3886752.html)
+
++ [日本经产省推动淘汰软盘与CD-ROM 不再要求必须使用](https://www.3dmgame.com/news/202401/3886751.html)
+
++ [下班用微信回工作消息公司赔3万元：全国首例“隐形加班”案！](https://www.3dmgame.com/news/202401/3886750.html)
+
++ [《幻兽帕鲁》开发成本达10亿日元 最初仅有四位开发者](https://www.3dmgame.com/news/202401/3886749.html)
+
++ [幻兽帕鲁销量突破600万 最高在线破170万](https://www.3dmgame.com/news/202401/3886748.html)
+

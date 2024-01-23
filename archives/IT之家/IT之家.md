@@ -39,3 +39,5 @@
 
 + [精简 Win11 安装镜像小于 100MB，Tiny11 开发者成功将系统改为纯命令行模式](https://m.ithome.com/html/746609.htm)
 
++ [长城全新哈弗 H9 更多官图公布：备胎替换为外挂式储物箱，可选 2.4T 柴油发动机](https://m.ithome.com/html/746664.htm)
+
