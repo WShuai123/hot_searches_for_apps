@@ -277,3 +277,9 @@
 
 + [《侏罗纪世界》新电影制作中 将开启一个全新时代](https://www.3dmgame.com/news/202401/3886771.html)
 
++ [自动驾驶大杀器来了！特斯拉正式推送FSD v12](https://www.3dmgame.com/news/202401/3886774.html)
+
++ [顽皮狗开发者开炮《幻兽帕鲁》：这是作弊](https://www.3dmgame.com/news/202401/3886773.html)
+
++ [《龙之信条2》导演：只有无聊的游戏才依赖快速旅行](https://www.3dmgame.com/news/202401/3886772.html)
+

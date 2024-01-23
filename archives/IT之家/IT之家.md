@@ -55,3 +55,7 @@
 
 + [苹果 iOS 16.7.5 正式版发布](https://m.ithome.com/html/746669.htm)
 
++ [奥迪 A6 排名第一！小米雷军同款调查，50 万以内最好看的轿车投票结果出炉](https://m.ithome.com/html/746842.htm)
+
++ [长头发了，《死侍 3》电影新片场照片曝光](https://m.ithome.com/html/746725.htm)
+

@@ -177,3 +177,5 @@
 
 + [Recraft Foundation Model](https://www.producthunt.com/posts/recraft-foundation-model)
 
++ [izTalk](https://www.producthunt.com/posts/iztalk)
+

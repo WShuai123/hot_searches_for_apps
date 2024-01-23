@@ -201,3 +201,11 @@
 
 + [写着玩的程序：pycharm实现无限弹窗程序（非病毒程序，仅整蛊使用）](https://blog.csdn.net/m0_74865737/article/details/135760668)
 
++ [AI创作之旅：探索提示工程的奇妙世界](https://blog.csdn.net/qq_44273429/article/details/135770338)
+
++ [【网络】传输层TCP协议](https://blog.csdn.net/qq_35995514/article/details/135768476)
+
++ [如何用 500 行 SQL 实现 GPT2学习](https://blog.csdn.net/qq_30031221/article/details/135753014)
+
++ [应用层—HTTP详解（抓包工具、报文格式、构造http等……）](https://blog.csdn.net/cidbi/article/details/135733343)
+
