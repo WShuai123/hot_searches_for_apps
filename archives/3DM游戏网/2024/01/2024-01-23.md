@@ -283,3 +283,7 @@
 
 + [《龙之信条2》导演：只有无聊的游戏才依赖快速旅行](https://www.3dmgame.com/news/202401/3886772.html)
 
++ [第96届奥斯卡完整提名名单揭晓 《奥本海默》领跑](https://www.3dmgame.com/news/202401/3886776.html)
+
++ [《CS2》被超越！《幻兽帕鲁》Steam峰值破183万](https://www.3dmgame.com/news/202401/3886775.html)
+
