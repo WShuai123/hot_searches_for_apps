@@ -47,3 +47,7 @@
 
 + [AIGC合规指南一：关键要点和算法备案实践](https://www.freebuf.com/articles/neopoints/390029.html)
 
++ [众测SRC | 如何通过js搜索未授权接口](https://www.freebuf.com/vuls/388765.html)
+
++ [技术博弈——识别AI深度伪造](https://www.freebuf.com/articles/390322.html)
+
