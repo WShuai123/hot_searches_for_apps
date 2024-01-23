@@ -57,3 +57,5 @@
 
 + [黑客“盯上了” Atlassian Confluence RCE 漏洞](https://www.freebuf.com/news/390358.html)
 
++ [Apple发布今年首个零日漏洞安全补丁，请及时升级！](https://www.freebuf.com/news/390347.html)
+

@@ -149,3 +149,11 @@
 
 + [AI边缘计算：自然语言处理的新篇章与边缘计算的未来](https://blog.csdn.net/qq_35716689/article/details/135740926)
 
++ [【服务器】使用域名访问服务器的IP地址](https://blog.csdn.net/m0_57532432/article/details/135746115)
+
++ [Spring RabbitMQ那些事（3-消息可靠传输和订阅）](https://blog.csdn.net/lingbomanbu_lyl/article/details/134674676)
+
++ [Spring Data JPA简介](https://blog.csdn.net/weixin_50209853/article/details/135739135)
+
++ [何为PyTorch？](https://blog.csdn.net/xw555666/article/details/135729361)
+

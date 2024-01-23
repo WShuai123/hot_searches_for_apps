@@ -213,3 +213,11 @@
 
 + [世嘉发布《如龙8》视频直播官方指引 1月26日发售](https://www.3dmgame.com/news/202401/3886724.html)
 
++ [《厌山夜话》公布首支预告片 1月25日Demo上线](https://www.3dmgame.com/news/202401/3886742.html)
+
++ [手绘风双摇杆射击冒险游戏《Hauntii》登陆Steam平台 2024年第二季度发售](https://www.3dmgame.com/news/202401/3886743.html)
+
++ [《Re≒Connect》Steam页面上线 老宅男美少女手办寻回冒险](https://www.3dmgame.com/news/202401/3886741.html)
+
++ [《蕾斯莱莉娅娜的炼金工房》国际服1月25日上线 现已开启预约](https://www.3dmgame.com/news/202401/3886740.html)
+
