@@ -101,3 +101,9 @@
 
 + [《真实动漫情境体验！2》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202401/3886728.html)
 
++ [《死亡搁浅导剪版》1月30日登陆App Store 预购享对折](https://www.3dmgame.com/news/202401/3886780.html)
+
++ [《自由星球2》主机版4月4日发布 Steam特别好评](https://www.3dmgame.com/news/202401/3886779.html)
+
++ [《铁拳8》媒体评分解禁 M站均分90](https://www.3dmgame.com/news/202401/3886778.html)
+

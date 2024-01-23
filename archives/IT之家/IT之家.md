@@ -25,3 +25,7 @@
 
 + [长头发了，《死侍 3》电影新片场照片曝光](https://m.ithome.com/html/746725.htm)
 
++ [华为 MatePad Pro 13.2 平板在部分海外市场搭载麒麟 9000W 芯片](https://m.ithome.com/html/746762.htm)
+
++ [新疆：乌什县发生 7.1 级地震后，部分网民用 AI 伪造相关内容严重误导他人](https://m.ithome.com/html/746825.htm)
+
