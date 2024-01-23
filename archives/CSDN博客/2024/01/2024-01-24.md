@@ -111,3 +111,23 @@
 
 + [深度探讨 Golang 中并发发送 HTTP 请求的最佳技术](https://blog.csdn.net/m0_68662723/article/details/135711237)
 
++ [SpringBoot：Bean生命周期自定义初始化和销毁](https://blog.csdn.net/weixin_62951900/article/details/135736900)
+
++ [Docker 基本管理](https://blog.csdn.net/weixin_72625764/article/details/135768904)
+
++ [OpenCV趣味小游戏-双人视觉推球](https://blog.csdn.net/qq_58535145/article/details/135752292)
+
++ [2.机器学习-K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135740026)
+
++ [SpringCloudConfig+SpringCloudBus+Actuator+Git实现Eureka关键配置属性热更新(全程不重启服务)](https://blog.csdn.net/weixin_57535055/article/details/135625621)
+
++ [消息队列之王——Kafka](https://blog.csdn.net/luhuiling852/article/details/135749348)
+
++ [数据的存储](https://blog.csdn.net/weixin_74809706/article/details/135773076)
+
++ [IOS-生命周期-Swift](https://blog.csdn.net/butterfly_new/article/details/135694283)
+
++ [Elasticsearch：Simulate ingest API](https://blog.csdn.net/UbuntuTouch/article/details/135750006)
+
++ [深度解析Python关键字：掌握核心语法的基石(新版本35+4)](https://blog.csdn.net/boysoft2002/article/details/135727362)
+
