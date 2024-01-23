@@ -125,3 +125,39 @@
 
 + [《自杀小队：战胜正义联盟》发行后更新内容介绍](https://www.3dmgame.com/news/202401/3886689.html)
 
++ [《怪物猎人：崛起》更新后Steam Deck无法运行 玩家声讨卡普空](https://www.3dmgame.com/news/202401/3886704.html)
+
++ [粉丝希望《幻兽帕鲁》登陆PS5 负责人吉田修平回应](https://www.3dmgame.com/news/202401/3886712.html)
+
++ [武士剑格斗模拟器《Kendo Warrior》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3886713.html)
+
++ [《幻兽帕鲁》爆红 已有玩家为其制作《宝可梦》MOD](https://www.3dmgame.com/news/202401/3886710.html)
+
++ [《喋血街头：脑损伤》将于2月2日登陆Switch主机](https://www.3dmgame.com/news/202401/3886711.html)
+
++ [《巫师4》开发者探索AI开发 但是AI不能取代人](https://www.3dmgame.com/news/202401/3886708.html)
+
++ [最强核显？锐龙7 8700G可以全高清运行《赛博朋克2077》](https://www.3dmgame.com/news/202401/3886709.html)
+
++ [男性向恋爱真人互动影游《我和七个俏房客》Steam页面 发售日待定](https://www.3dmgame.com/news/202401/3886707.html)
+
++ [《EXTERMINATOR》Steam试玩发布 致敬《装甲核心》新游](https://www.3dmgame.com/news/202401/3886706.html)
+
++ [东方同人RPG《东方少女绮想谭》现已登陆PS4](https://www.3dmgame.com/news/202401/3886705.html)
+
++ [格斗游戏《WWE 2K24》Steam页面 国区售价199元](https://www.3dmgame.com/news/202401/3886703.html)
+
++ [《暗黑破坏神4》第三赛季宠物确认将无法定制外观](https://www.3dmgame.com/news/202401/3886701.html)
+
++ [《英雄联盟》开发商Riot Games解雇530名员工 占全球员工总数的11%](https://www.3dmgame.com/news/202401/3886700.html)
+
++ [Obelisk Studios获200万美元融资 开发恐怖游戏《错位》](https://www.3dmgame.com/news/202401/3886698.html)
+
++ [《幻兽帕鲁》开发商遭死亡威胁 CEO呼吁停止该行为](https://www.3dmgame.com/news/202401/3886697.html)
+
++ [传《杀出重围：重制版》开发中 采用虚幻5引擎](https://www.3dmgame.com/news/202401/3886702.html)
+
++ [《Nowhere》Steam页面上线 第一人称恐怖探索](https://www.3dmgame.com/news/202401/3886699.html)
+
++ [《DOTA2》Nigma战队光速找到了新的三四号位](https://www.3dmgame.com/news/202401/3886696.html)
+

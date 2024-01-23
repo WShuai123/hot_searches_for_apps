@@ -45,3 +45,5 @@
 
 + [深度分析PikaBot如何通过恶意搜索广告实现大规模传播和入侵感染](https://www.freebuf.com/articles/web/389305.html)
 
++ [AIGC合规指南一：关键要点和算法备案实践](https://www.freebuf.com/articles/neopoints/390029.html)
+

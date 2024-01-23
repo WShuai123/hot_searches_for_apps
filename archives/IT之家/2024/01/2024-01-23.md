@@ -29,3 +29,5 @@
 
 + [小米官方公布 SU7 设计稿，“设计师特辑”明日起陆续推出](https://m.ithome.com/html/746652.htm)
 
++ [小米雷军同款调查：50 万以内最好看的轿车](https://m.ithome.com/html/746665.htm)
+
