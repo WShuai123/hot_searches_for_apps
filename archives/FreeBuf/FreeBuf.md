@@ -65,3 +65,7 @@
 
 + [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
 
++ [全球网络安全态势综述报告](https://www.freebuf.com/articles/paper/389733.html)
+
++ [月神：年入百万的赏金猎人，如何养成](https://www.freebuf.com/consult/390324.html)
+

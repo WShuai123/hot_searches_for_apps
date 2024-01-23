@@ -255,3 +255,9 @@
 
 + [五菱宏光MINI EV现身美国街头 五菱总经理：售价约28万多](https://www.3dmgame.com/news/202401/3886755.html)
 
++ [AI生成《GTA圣安地列斯》标志性场景 画面太逼真了](https://www.3dmgame.com/news/202401/3886763.html)
+
++ [Steam最新一周销量榜 《幻兽帕鲁》成功登顶](https://www.3dmgame.com/news/202401/3886762.html)
+
++ [富兰克林演员分享对《GTA6》和女主看法：绝赞很喜欢](https://www.3dmgame.com/news/202401/3886761.html)
+

@@ -43,3 +43,7 @@
 
 + [比亚迪元 UP 车型官宣，e 平台 3.0 首款 A0 级 SUV](https://m.ithome.com/html/746692.htm)
 
++ [腾讯《英雄联盟》开发商拳头游戏宣布裁员 530 人，占比约 11%](https://m.ithome.com/html/746681.htm)
+
++ [苹果 iOS 15.8.1 正式版发布](https://m.ithome.com/html/746670.htm)
+

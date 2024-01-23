@@ -173,3 +173,11 @@
 
 + [基于YOLOv8的目标识别、计数、电子围栏的项目开发过程](https://blog.csdn.net/jacbo/article/details/135698698)
 
++ [分布式深度学习中的数据并行和模型并行](https://blog.csdn.net/qq_46009046/article/details/135556972)
+
++ [C++ ：命名空间域](https://blog.csdn.net/2301_76445610/article/details/135729130)
+
++ [【计算机网络】应用层——HTTP 协议（一）](https://blog.csdn.net/m0_74352571/article/details/135586206)
+
++ [如何使用固定公网地址访问多个本地Nginx服务搭建的网站](https://blog.csdn.net/weixin_74937672/article/details/135748464)
+
