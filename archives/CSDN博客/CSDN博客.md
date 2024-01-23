@@ -101,3 +101,13 @@
 
 + [幻兽帕鲁游戏私服 PalWorld 服务器搭建教程/存档迁移【超详细】](https://blog.csdn.net/qq_35331328/article/details/135744598)
 
++ [打造专业级ChatGPT风格聊天界面：SpringBoot与Vue实现动态打字机效果，附完整前后端源码](https://blog.csdn.net/Learning_xzj/article/details/135770688)
+
++ [websocket服务端本地部署](https://blog.csdn.net/Tiam_cr/article/details/135768831)
+
++ [08. Springboot集成webmagic实现网页爬虫](https://blog.csdn.net/p793049488/article/details/135733870)
+
++ [Elasticsearch：使用 Gemini、Langchain 和 Elasticsearch 进行问答](https://blog.csdn.net/UbuntuTouch/article/details/135769171)
+
++ [深度探讨 Golang 中并发发送 HTTP 请求的最佳技术](https://blog.csdn.net/m0_68662723/article/details/135711237)
+
