@@ -41,3 +41,5 @@
 
 + [长城全新哈弗 H9 更多官图公布：备胎替换为外挂式储物箱，可选 2.4T 柴油发动机](https://m.ithome.com/html/746664.htm)
 
++ [比亚迪元 UP 车型官宣，e 平台 3.0 首款 A0 级 SUV](https://m.ithome.com/html/746692.htm)
+

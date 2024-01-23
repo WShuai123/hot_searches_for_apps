@@ -165,3 +165,11 @@
 
 + [探索设计模式的魅力：一次设计，多次利用，深入理解原型模式的设计艺术](https://blog.csdn.net/danci_/article/details/135739260)
 
++ [《Windows核心编程》若干知识点实战应用分享](https://blog.csdn.net/chenlycly/article/details/135733632)
+
++ [华为欧拉操作系统结合内网穿透实现固定公网地址SSH远程连接](https://blog.csdn.net/qq_58286439/article/details/135753219)
+
++ [Windows系统如何修改Nginx配置实现远程访问多个本地站点](https://blog.csdn.net/qiuqiushuibx/article/details/135756945)
+
++ [基于YOLOv8的目标识别、计数、电子围栏的项目开发过程](https://blog.csdn.net/jacbo/article/details/135698698)
+

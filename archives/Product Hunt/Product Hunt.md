@@ -121,3 +121,53 @@
 
 + [brikly](https://www.producthunt.com/posts/brikly)
 
++ [Gift Note Writer](https://www.producthunt.com/posts/gift-note-writer)
+
++ [Volapyk](https://www.producthunt.com/posts/volapyk)
+
++ [Dealight](https://www.producthunt.com/posts/dealight)
+
++ [Peerlist 1.0](https://www.producthunt.com/posts/peerlist-1-0)
+
++ [Swipify](https://www.producthunt.com/posts/swipify)
+
++ [BuukMeNow](https://www.producthunt.com/posts/buukmenow)
+
++ [Sparkling](https://www.producthunt.com/posts/sparkling)
+
++ [KeyRunner](https://www.producthunt.com/posts/keyrunner)
+
++ [Real Mock Interviews](https://www.producthunt.com/posts/real-mock-interviews)
+
++ [Camera Preview](https://www.producthunt.com/posts/camera-preview)
+
++ [Text Reader AI](https://www.producthunt.com/posts/text-reader-ai)
+
++ [BetterDisplay](https://www.producthunt.com/posts/betterdisplay)
+
++ [FitCrumbs](https://www.producthunt.com/posts/fitcrumbs)
+
++ [Zal](https://www.producthunt.com/posts/zal)
+
++ [Blackshelf](https://www.producthunt.com/posts/blackshelf)
+
++ [SocialKiwi](https://www.producthunt.com/posts/socialkiwi)
+
++ [Patara APP](https://www.producthunt.com/posts/patara-app)
+
++ [Text Wizard Ai - Webflow App](https://www.producthunt.com/posts/text-wizard-ai-webflow-app)
+
++ [ReplyGuy](https://www.producthunt.com/posts/replyguy)
+
++ [Quicklisting](https://www.producthunt.com/posts/quicklisting)
+
++ [allsides.io](https://www.producthunt.com/posts/allsides-io)
+
++ [Wave AI Note Taker for iOS](https://www.producthunt.com/posts/wave-ai-note-taker-for-ios)
+
++ [Typemat.com](https://www.producthunt.com/posts/typemat-com)
+
++ [CronbotAI](https://www.producthunt.com/posts/cronbotai)
+
++ [Brainner](https://www.producthunt.com/posts/brainner)
+
