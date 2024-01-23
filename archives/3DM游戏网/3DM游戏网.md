@@ -261,3 +261,11 @@
 
 + [富兰克林演员分享对《GTA6》和女主看法：绝赞很喜欢](https://www.3dmgame.com/news/202401/3886761.html)
 
++ [雷军再次强调贵！想捡便宜买小米SU7的人快打消念头](https://www.3dmgame.com/news/202401/3886767.html)
+
++ [华为公布黑科技专利：实现人体通信](https://www.3dmgame.com/news/202401/3886765.html)
+
++ [移动版RTX4080/4090魔改桌面卡在中国泛滥 价格离谱](https://www.3dmgame.com/news/202401/3886766.html)
+
++ [《TO:NORTH》PC平台免费发布 复古风SF冒险新游](https://www.3dmgame.com/news/202401/3886764.html)
+

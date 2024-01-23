@@ -47,3 +47,7 @@
 
 + [苹果 iOS 15.8.1 正式版发布](https://m.ithome.com/html/746670.htm)
 
++ [征求意见期 1 月 22 日截止，国家新闻出版署删除《网络游戏管理办法（草案征求意见稿）》](https://m.ithome.com/html/746783.htm)
+
++ [联想拯救者 Y7000P 2024 笔记本“顶配皇帝版”上架：i7-14700HX + RTX4070 首发价 8999 元](https://m.ithome.com/html/746673.htm)
+
