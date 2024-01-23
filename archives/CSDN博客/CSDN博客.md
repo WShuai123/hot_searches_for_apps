@@ -157,3 +157,9 @@
 
 + [何为PyTorch？](https://blog.csdn.net/xw555666/article/details/135729361)
 
++ [使用 Zabbix + Grafana 搭建服务器监控系统](https://blog.csdn.net/GGB_GG/article/details/135723141)
+
++ [引领AI变革：边缘计算与自然语言处理结合的无尽可能](https://blog.csdn.net/qq_35716689/article/details/135740926)
+
++ [Uni-App三甲医院、医保定点医院在线预约挂号系统源码](https://blog.csdn.net/qq_27741787/article/details/135743712)
+

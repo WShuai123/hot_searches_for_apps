@@ -59,3 +59,7 @@
 
 + [Apple发布今年首个零日漏洞安全补丁，请及时升级！](https://www.freebuf.com/news/390347.html)
 
++ [如何使用Forbidden-Buster绕过HTTP 401403访问限制](https://www.freebuf.com/sectool/389397.html)
+
++ [研究称手机环境光传感器可泄露用户隐私信息](https://www.freebuf.com/news/390377.html)
+

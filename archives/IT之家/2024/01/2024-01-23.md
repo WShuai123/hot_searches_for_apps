@@ -37,3 +37,5 @@
 
 + [任天堂 Switch 迎来首个破解闪存卡，二手游戏玩家恐遭池鱼之殃](https://m.ithome.com/html/746645.htm)
 
++ [精简 Win11 安装镜像小于 100MB，Tiny11 开发者成功将系统改为纯命令行模式](https://m.ithome.com/html/746609.htm)
+

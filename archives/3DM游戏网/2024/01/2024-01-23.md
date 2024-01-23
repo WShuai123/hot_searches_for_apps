@@ -221,3 +221,11 @@
 
 + [《蕾斯莱莉娅娜的炼金工房》国际服1月25日上线 现已开启预约](https://www.3dmgame.com/news/202401/3886740.html)
 
++ [黑曜石新作《宣誓》开放区域体积类似《天外世界》](https://www.3dmgame.com/news/202401/3886746.html)
+
++ [《巡回地下城》登陆Steam 肉鸽3D迷宫RPG](https://www.3dmgame.com/news/202401/3886747.html)
+
++ [传闻：《星际火狐》新作正在开发中 登陆Switch 2](https://www.3dmgame.com/news/202401/3886744.html)
+
++ [传闻漫画《宝石之国》将于2月24日发行的《月刊AFTERNOON》上恢复连载](https://www.3dmgame.com/news/202401/3886745.html)
+
