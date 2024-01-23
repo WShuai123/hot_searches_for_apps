@@ -195,3 +195,9 @@
 
 + [Python助力华为设备接口状态查询](https://blog.csdn.net/qq_43751649/article/details/135749004)
 
++ [基于神经网络的电力系统的负荷预测](https://blog.csdn.net/Metaphysicist/article/details/135772668)
+
++ [【C++干货基地】namespace超越C语言的独特魅力（文末送书）](https://blog.csdn.net/qq_57761637/article/details/135406998)
+
++ [写着玩的程序：pycharm实现无限弹窗程序（非病毒程序，仅整蛊使用）](https://blog.csdn.net/m0_74865737/article/details/135760668)
+
