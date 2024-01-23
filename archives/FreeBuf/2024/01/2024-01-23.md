@@ -51,3 +51,9 @@
 
 + [技术博弈——识别AI深度伪造](https://www.freebuf.com/articles/390322.html)
 
++ [小程序一次一密流量解密](https://www.freebuf.com/articles/web/390152.html)
+
++ [工信部通报36款APP（SDK）侵害用户权益，闲鱼、高德等在列](https://www.freebuf.com/news/390369.html)
+
++ [黑客“盯上了” Atlassian Confluence RCE 漏洞](https://www.freebuf.com/news/390358.html)
+
