@@ -27,3 +27,5 @@
 
 + [消息称微软 Win12 可能推迟到明年，今年主角是 Win11 24H2](https://m.ithome.com/html/746630.htm)
 
++ [小米官方公布 SU7 设计稿，“设计师特辑”明日起陆续推出](https://m.ithome.com/html/746652.htm)
+

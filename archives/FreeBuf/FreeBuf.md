@@ -41,3 +41,7 @@
 
 + [FreeBuf 周报 | 海普瑞遭遇A股史上最大电信诈骗；为什么洗衣机每天自动上传3.6GB数据？](https://www.freebuf.com/news/390165.html)
 
++ [FreeBuf早报 | 安全大厂零日漏洞失控；美国FTC宣布加入隐私执法全球合作安排](https://www.freebuf.com/news/390299.html)
+
++ [深度分析PikaBot如何通过恶意搜索广告实现大规模传播和入侵感染](https://www.freebuf.com/articles/web/389305.html)
+

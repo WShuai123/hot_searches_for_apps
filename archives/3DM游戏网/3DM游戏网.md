@@ -111,3 +111,17 @@
 
 + [《如龙8》开场动画展示春日一番美好一天](https://www.3dmgame.com/news/202401/3886686.html)
 
++ [业内人士：2024年将是游戏行业“倒闭年”](https://www.3dmgame.com/news/202401/3886695.html)
+
++ [《女神异闻录3：Reload》从开始就没有Switch版](https://www.3dmgame.com/news/202401/3886694.html)
+
++ [宝可梦前法务负责人表示《幻兽帕鲁》像是胡乱抄袭](https://www.3dmgame.com/news/202401/3886693.html)
+
++ [英国实体游戏销量排行榜：《霍格沃茨之遗》重回巅峰](https://www.3dmgame.com/news/202401/3886692.html)
+
++ [《伞学院》主角参演《女神异闻录3：Reload》真人预告](https://www.3dmgame.com/news/202401/3886691.html)
+
++ [Switch早期系统界面曝光 采用上下结构](https://www.3dmgame.com/news/202401/3886690.html)
+
++ [《自杀小队：战胜正义联盟》发行后更新内容介绍](https://www.3dmgame.com/news/202401/3886689.html)
+
