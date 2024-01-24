@@ -101,3 +101,31 @@
 
 + [2024美赛数学建模思路 - 案例：粒子群算法](https://blog.csdn.net/dc_sinor/article/details/135773039)
 
++ [安卓移动设备使用DS file文件管理工具远程访问本地群晖NAS文件](https://blog.csdn.net/weixin_63115236/article/details/135825304)
+
++ [微信小程序之全局配置-window和tabBar](https://blog.csdn.net/m0_64074924/article/details/135755044)
+
++ [websocket服务端本地部署](https://blog.csdn.net/Tiam_cr/article/details/135768831)
+
++ [【操作系统】实验五 添加内核模块](https://blog.csdn.net/m0_67759533/article/details/135816194)
+
++ [基于神经网络的电力系统的负荷预测](https://blog.csdn.net/Metaphysicist/article/details/135772668)
+
++ [Elasticsearch：为什么 Splunk 客户面临可观察性和现代化的选择？](https://blog.csdn.net/UbuntuTouch/article/details/135821453)
+
++ [第92讲：MySQL主从复制集群故障排查思路汇总](https://blog.csdn.net/weixin_44953658/article/details/135813913)
+
++ [机器学习 | 掌握Matplotlib的可视化图表操作](https://blog.csdn.net/qq_53123067/article/details/135796932)
+
++ [【网络】传输层TCP协议](https://blog.csdn.net/qq_35995514/article/details/135768476)
+
++ [探索设计模式的魅力：一次设计，多次利用，深入理解原型模式的设计艺术](https://blog.csdn.net/danci_/article/details/135739260)
+
++ [Vue3 Suspense 优雅地处理异步组件加载](https://blog.csdn.net/csdn9_14/article/details/135816955)
+
++ [ip_vs 的管理以及 keepalived + lvs 案例](https://blog.csdn.net/footless_bird/article/details/135740111)
+
++ [存内计算引领新一代技术革新，开启算力新时代](https://blog.csdn.net/FMC_WBL/article/details/135792980)
+
++ [2.机器学习-K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135740026)
+
