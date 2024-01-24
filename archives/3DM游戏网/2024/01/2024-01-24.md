@@ -121,3 +121,31 @@
 
 + [《驱灵者：新伊甸的幽灵》女主技能演示视频](https://www.3dmgame.com/news/202401/3886785.html)
 
++ [《太平洋驾驶》10分钟玩法总结视频 推荐RTX 3070显卡](https://www.3dmgame.com/news/202401/3886794.html)
+
++ [《宝可梦：大集结》“暴鲤龙”预告 1月25日上线](https://www.3dmgame.com/news/202401/3886795.html)
+
++ [Focus财报：Q3收入下降43% 宣布4月改名Pullup](https://www.3dmgame.com/news/202401/3886796.html)
+
++ [《避暑小屋》3月8日Steam发售 治愈系像素微型建筑](https://www.3dmgame.com/news/202401/3886797.html)
+
++ [社畜游戏《dev_hell》上架Steam：在黑心企业写程序](https://www.3dmgame.com/news/202401/3886798.html)
+
++ [剧情互动游戏《不朽》开发商正在开发一款第三人称生存恐怖游戏](https://www.3dmgame.com/news/202401/3886799.html)
+
++ [索尼：云串流比“玩到饱”类订阅服务更有价值](https://www.3dmgame.com/news/202401/3886800.html)
+
++ [应对裁员潮 去年英国游戏产业工会成员人数激增](https://www.3dmgame.com/news/202401/3886801.html)
+
++ [华纳曾开发一款非常不同的《蝙蝠侠》 有蝙蝠侠之子](https://www.3dmgame.com/news/202401/3886788.html)
+
++ [《M.O.Z.I.》Steam页面上线 塔防生存FPS新游](https://www.3dmgame.com/news/202401/3886789.html)
+
++ [《堡垒之夜》联动《合金装备》 固蛇和雷电登场](https://www.3dmgame.com/news/202401/3886790.html)
+
++ [休闲游戏《都给我下地狱》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3886791.html)
+
++ [Newzoo预测：2024年全球游戏市场增长至1890亿美元](https://www.3dmgame.com/news/202401/3886792.html)
+
++ [万代南梦宫注册新商标 或为《半妖的夜叉姬》衍生游戏](https://www.3dmgame.com/news/202401/3886793.html)
+
