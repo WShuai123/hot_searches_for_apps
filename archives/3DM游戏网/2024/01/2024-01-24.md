@@ -163,3 +163,37 @@
 
 + [初代Roguelike日系美少女游戏策略《绯樱白狐》Steam页面上线 支持中文](https://www.3dmgame.com/news/202401/3886802.html)
 
++ [eBay裁员约1000名员工 并计划在未来几个月内减少非正式员工数量](https://www.3dmgame.com/news/202401/3886823.html)
+
++ [《最终幻想7：重制版》成为SE在索尼平台数字销量最高的游戏](https://www.3dmgame.com/news/202401/3886825.html)
+
++ [《九魂的久远》5月30日多平台发售 2D横版猫咪动作](https://www.3dmgame.com/news/202401/3886824.html)
+
++ [改编游戏《星际之门：计时者》现已在Steam平台正式发售](https://www.3dmgame.com/news/202401/3886822.html)
+
++ [联赛取消后 暴雪与沙特合作打造“《守望先锋》电竞新时代”](https://www.3dmgame.com/news/202401/3886821.html)
+
++ [马斯克xAI团队首个大模型即将发布 AI界天花板有望打开](https://www.3dmgame.com/news/202401/3886820.html)
+
++ [《怪物猎人：崛起》官方已发布版本更新 修复了Steam Deck无法运行的问题](https://www.3dmgame.com/news/202401/3886819.html)
+
++ [任天堂“拿下”《幻兽帕鲁》宝可梦Mod 作者称要谨慎行事](https://www.3dmgame.com/news/202401/3886818.html)
+
++ [《幻兽帕鲁》大火占领了Steam 开发商社长表示很震惊](https://www.3dmgame.com/news/202401/3886815.html)
+
++ [2024年网易游戏寒假限玩时间表 春节只能玩9小时](https://www.3dmgame.com/news/202401/3886814.html)
+
++ [《鱿鱼游戏》第二季将于年底前播出 具体时间待定](https://www.3dmgame.com/news/202401/3886813.html)
+
++ [黑暗奇幻风格FPS《GRAVEN》现已在Steam平台正式发布](https://www.3dmgame.com/news/202401/3886812.html)
+
++ [《铁拳8》全球解锁时间公布 1月26日火热开战！](https://www.3dmgame.com/news/202401/3886810.html)
+
++ [《如龙8》Steam预加载开启 下载大小约60GB](https://www.3dmgame.com/news/202401/3886811.html)
+
++ [2.5D冒险游戏《曾有个木偶》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202401/3886809.html)
+
++ [黑曜石《宣誓》将专注战斗 不存在纯和平路线](https://www.3dmgame.com/news/202401/3886817.html)
+
++ [《如龙8》获M站均分90分好评 1月26日正式发售](https://www.3dmgame.com/news/202401/3886816.html)
+

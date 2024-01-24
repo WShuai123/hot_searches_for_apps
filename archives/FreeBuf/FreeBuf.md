@@ -47,3 +47,11 @@
 
 + [针对VR的侧信道按键推理攻击](https://www.freebuf.com/vuls/390331.html)
 
++ [警告！已发现影响苹果、Atlassian和Fortra产品的新漏洞](https://www.freebuf.com/news/390485.html)
+
++ [北美“水务巨头”遭遇勒索软件攻击，账单支付系统被破坏](https://www.freebuf.com/news/390448.html)
+
++ [2023年度DDoS攻击峰值暴增，美国是最大攻击源](https://www.freebuf.com/news/390469.html)
+
++ [【直播预告】FreeBuf年度直播（甲方版）](https://www.freebuf.com/fevents/390476.html)
+

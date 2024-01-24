@@ -41,3 +41,5 @@
 
 + [消息称上汽飞凡汽车智驾团队全员被裁，员工可选内部转岗、N+1 等方案](https://m.ithome.com/html/746848.htm)
 
++ [马云蔡崇信大幅增持阿里巴巴](https://m.ithome.com/html/746859.htm)
+

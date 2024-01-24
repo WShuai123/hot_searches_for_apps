@@ -213,3 +213,5 @@
 
 + [爱奇艺-仙剑四独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
 
++ [优酷视频-要久久爱全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
+
