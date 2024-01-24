@@ -113,3 +113,11 @@
 
 + [《碧奇公主表演时刻》视频展示各种变身形态](https://www.3dmgame.com/news/202401/3886781.html)
 
++ [2023年PS下载榜 《霍格沃茨之遗》《使命召唤：现代战争3》主宰北美](https://www.3dmgame.com/news/202401/3886786.html)
+
++ [内部人士透露《死亡搁浅2》正式名称 新预告下个月见](https://www.3dmgame.com/news/202401/3886787.html)
+
++ [《暗黑破坏神4》第三季魔动机赛季上线宣传片](https://www.3dmgame.com/news/202401/3886784.html)
+
++ [《驱灵者：新伊甸的幽灵》女主技能演示视频](https://www.3dmgame.com/news/202401/3886785.html)
+

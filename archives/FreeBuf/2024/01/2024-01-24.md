@@ -41,3 +41,7 @@
 
 + [Vans 和 North Face 母公司遭遇勒索软件攻击，影响 3500 万消费者](https://www.freebuf.com/news/390241.html)
 
++ [FreeBuf早报 | 网络安全SaaS服务欧美市场保持增长；微软内网遭撞库攻击](https://www.freebuf.com/articles/390389.html)
+
++ [深度分析GuLoader和RedLine Stealer采用的反分析技术](https://www.freebuf.com/articles/security-management/389509.html)
+
