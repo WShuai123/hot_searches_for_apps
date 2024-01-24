@@ -129,3 +129,7 @@
 
 + [2.机器学习-K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135740026)
 
++ [ChatGPT 和文心一言哪个更好用？](https://blog.csdn.net/qq_48539301/article/details/135789241)
+
++ [Excel学习](https://blog.csdn.net/qq_43693424/article/details/135788541)
+
