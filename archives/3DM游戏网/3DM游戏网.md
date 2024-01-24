@@ -149,3 +149,17 @@
 
 + [万代南梦宫注册新商标 或为《半妖的夜叉姬》衍生游戏](https://www.3dmgame.com/news/202401/3886793.html)
 
++ [《蜘蛛夫人》正片片段 美女预知能力突然生效](https://www.3dmgame.com/news/202401/3886803.html)
+
++ [任天堂宣布3DS和WiiU在线服务将于4月9日终止](https://www.3dmgame.com/news/202401/3886805.html)
+
++ [《死侍3》新路透照曝光：又是相爱相杀的一天](https://www.3dmgame.com/news/202401/3886808.html)
+
++ [Steam特别好评的管理游戏《街机乐园》即将推出VR版本](https://www.3dmgame.com/news/202401/3886807.html)
+
++ [《日式庭园模拟器》steam免费抢测 打造精致庭院教学](https://www.3dmgame.com/news/202401/3886806.html)
+
++ [英国老牌游戏业招聘公司运营26年宣布关门](https://www.3dmgame.com/news/202401/3886804.html)
+
++ [初代Roguelike日系美少女游戏策略《绯樱白狐》Steam页面上线 支持中文](https://www.3dmgame.com/news/202401/3886802.html)
+
