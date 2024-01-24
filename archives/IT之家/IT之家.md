@@ -67,3 +67,5 @@
 
 + [苹果地图惹祸，十年老店“被关门”：预估损失 1.2 万澳元](https://m.ithome.com/html/746897.htm)
 
++ [高德地图 App 上线“一键播放式音乐导航”功能，与 QQ 音乐达成合作](https://m.ithome.com/html/747010.htm)
+

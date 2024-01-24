@@ -261,3 +261,9 @@
 
 + [《射雕英雄传》电影将于今年内上映 肖战饰演郭靖](https://www.3dmgame.com/news/202401/3886852.html)
 
++ [《幻兽帕鲁》更新计划发布 将优先解决服务器问题](https://www.3dmgame.com/news/202401/3886860.html)
+
++ [《守望先锋2》营收超2.2亿美元 活跃用户超5000万](https://www.3dmgame.com/news/202401/3886858.html)
+
++ [台积电为1nm工艺做准备 总开发成本超320亿美元](https://www.3dmgame.com/news/202401/3886859.html)
+
