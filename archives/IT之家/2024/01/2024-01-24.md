@@ -51,3 +51,7 @@
 
 + [国家广电总局：2024 年逐步实现一个遥控器看电视，推进电视机机顶盒一体化](https://m.ithome.com/html/746910.htm)
 
++ [《幻兽帕鲁》Steam 在线峰值超《CS2》，仅次于《PUBG》](https://m.ithome.com/html/746861.htm)
+
++ [无需 EUV 光刻机和先进制程，我国推进硅光子新赛道：2030 全球产值预估达 61 亿美元](https://m.ithome.com/html/746914.htm)
+

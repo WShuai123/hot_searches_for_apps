@@ -223,3 +223,27 @@
 
 + [《女神异闻录3：Reload》视频直播官方指引 2月2日发售](https://www.3dmgame.com/news/202401/3886829.html)
 
++ [RTX4090假卡太嚣张：居然使用RTX4080芯片 还是坏的](https://www.3dmgame.com/news/202401/3886851.html)
+
++ [《幻兽帕鲁》已公布销量全部来自Steam 销售额约1.89亿美元](https://www.3dmgame.com/news/202401/3886849.html)
+
++ [相当于“三个三峡” 世界最大清洁能源走廊一年发电2760亿度](https://www.3dmgame.com/news/202401/3886850.html)
+
++ [《绝地潜兵2》实机介绍宣传片 2月8日正式发售](https://www.3dmgame.com/news/202401/3886846.html)
+
++ [《完蛋！我被美女包围了》DLC新海报 3位女主风格各不同](https://www.3dmgame.com/news/202401/3886848.html)
+
++ [索尼CEO：PS游戏的未来在PC 移动和云端平台](https://www.3dmgame.com/news/202401/3886845.html)
+
++ [《使命召唤》游戏语音检测已排查200万个违规账号](https://www.3dmgame.com/news/202401/3886844.html)
+
++ [电动车上不了台面 市占率最多30%！马斯克回怼丰田章男言论：很无语](https://www.3dmgame.com/news/202401/3886843.html)
+
++ [参与FF16王泪开发社长访谈 专精3D合作多家游戏公司](https://www.3dmgame.com/news/202401/3886841.html)
+
++ [谷歌因垄断被韩国重罚超2000亿韩元：强制三星等手机使用安卓系统](https://www.3dmgame.com/news/202401/3886842.html)
+
++ [《名侦探柯南》官推宣称4月10日新连载回归 基德或复归](https://www.3dmgame.com/news/202401/3886837.html)
+
++ [本周Fami通游戏评分 《千变的迷宫 风来的希炼6》获38分](https://www.3dmgame.com/news/202401/3886840.html)
+

@@ -111,3 +111,37 @@
 
 + [Stylebit](https://www.producthunt.com/posts/stylebit)
 
++ [Palworld](https://www.producthunt.com/posts/palworld)
+
++ [Aspen - API Testing for macOS](https://www.producthunt.com/posts/aspen-api-testing-for-macos)
+
++ [BlissFable](https://www.producthunt.com/posts/blissfable)
+
++ [Frontitude Developer Pack](https://www.producthunt.com/posts/frontitude-developer-pack)
+
++ [Rap Trivia](https://www.producthunt.com/posts/rap-trivia)
+
++ [The Listly](https://www.producthunt.com/posts/the-listly)
+
++ [Plato](https://www.producthunt.com/posts/plato-6)
+
++ [Frontend Arena](https://www.producthunt.com/posts/frontend-arena)
+
++ [TaggoAI](https://www.producthunt.com/posts/taggoai)
+
++ [Taped.ai](https://www.producthunt.com/posts/taped-ai)
+
++ [Project Manda](https://www.producthunt.com/posts/project-manda)
+
++ [Adept](https://www.producthunt.com/posts/adept-2)
+
++ [Auro: AI Social Post Assistant](https://www.producthunt.com/posts/auro-ai-social-post-assistant)
+
++ [Findr](https://www.producthunt.com/posts/findr-5)
+
++ [M1-project: Marketing Strategy Generator](https://www.producthunt.com/posts/m1-project-marketing-strategy-generator)
+
++ [Tool Battles](https://www.producthunt.com/posts/tool-battles)
+
++ [WebPDF](https://www.producthunt.com/posts/webpdf)
+
