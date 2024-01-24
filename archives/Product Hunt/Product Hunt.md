@@ -145,3 +145,25 @@
 
 + [WebPDF](https://www.producthunt.com/posts/webpdf)
 
++ [Seren: AI Chat Journal](https://www.producthunt.com/posts/seren-ai-chat-journal)
+
++ [ZeroThreat](https://www.producthunt.com/posts/zerothreat)
+
++ [TrabajoRapido.app](https://www.producthunt.com/posts/trabajorapido-app)
+
++ [Prompt SDK by Autoblocks](https://www.producthunt.com/posts/prompt-sdk-by-autoblocks)
+
++ [Borrow](https://www.producthunt.com/posts/borrow-3)
+
++ [Raise Millions Book](https://www.producthunt.com/posts/raise-millions-book)
+
++ [ReceiptUp](https://www.producthunt.com/posts/receiptup)
+
++ [Keep it shot](https://www.producthunt.com/posts/keep-it-shot)
+
++ [Vogozo](https://www.producthunt.com/posts/vogozo)
+
++ [Speech Dream](https://www.producthunt.com/posts/speech-dream)
+
++ [Racr](https://www.producthunt.com/posts/racr-2)
+

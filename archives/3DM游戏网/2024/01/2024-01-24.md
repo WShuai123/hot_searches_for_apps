@@ -247,3 +247,17 @@
 
 + [本周Fami通游戏评分 《千变的迷宫 风来的希炼6》获38分](https://www.3dmgame.com/news/202401/3886840.html)
 
++ [雷军：小米SU7车姿低趴 全球量产轿车最低风阻系数](https://www.3dmgame.com/news/202401/3886857.html)
+
++ [狙击国产存储！三星990 EVO SSD来了 1TB卖679元](https://www.3dmgame.com/news/202401/3886855.html)
+
++ [地球收到神秘信号：来自银河系第二亮的古老球状星团](https://www.3dmgame.com/news/202401/3886856.html)
+
++ [首次实现无串扰 我国量子网络领域取得新突破](https://www.3dmgame.com/news/202401/3886847.html)
+
++ [任天堂将发布中止的音乐会录像 包括塞尔达斯普拉遁3](https://www.3dmgame.com/news/202401/3886854.html)
+
++ [《兽娘红茶馆》Steam页面上线 今年下旬发售](https://www.3dmgame.com/news/202401/3886853.html)
+
++ [《射雕英雄传》电影将于今年内上映 肖战饰演郭靖](https://www.3dmgame.com/news/202401/3886852.html)
+

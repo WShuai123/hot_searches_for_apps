@@ -55,3 +55,5 @@
 
 + [无需 EUV 光刻机和先进制程，我国推进硅光子新赛道：2030 全球产值预估达 61 亿美元](https://m.ithome.com/html/746914.htm)
 
++ [出于“保护版权”，网易云音乐第三方开源 API GitHub 删库停更](https://m.ithome.com/html/746942.htm)
+
