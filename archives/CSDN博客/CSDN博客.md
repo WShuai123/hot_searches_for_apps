@@ -137,3 +137,13 @@
 
 + [Harmony 鸿蒙驱动开发](https://blog.csdn.net/maniuT/article/details/135774056)
 
++ [Vue 生命周期](https://blog.csdn.net/csdn9_14/article/details/135734954)
+
++ [RabbitMQ之交换机](https://blog.csdn.net/weixin_73320743/article/details/135772786)
+
++ [Redis（发布订阅、事务、redis整合springboot、集成 Spring Cache）](https://blog.csdn.net/weixin_47735032/article/details/135772907)
+
++ [flutter底层架构初探](https://blog.csdn.net/m0_63629756/article/details/135796263)
+
++ [宝塔面板部署MySQL并结合内网穿透实现公网远程访问本地数据库](https://blog.csdn.net/qq_65596720/article/details/135793804)
+

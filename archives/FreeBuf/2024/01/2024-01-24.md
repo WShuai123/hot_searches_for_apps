@@ -57,3 +57,7 @@
 
 + [记某次HVV：通过sql注入打入内网](https://www.freebuf.com/articles/web/390081.html)
 
++ [美国、英国和澳大利亚联合制裁 REvil 黑客组织成员](https://www.freebuf.com/news/390471.html)
+
++ [苹果、VMware、Apache等科技巨头漏洞被大量应用](https://www.freebuf.com/news/390485.html)
+
