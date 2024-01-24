@@ -151,3 +151,7 @@
 
 + [Hadoop中HBase命令行操作](https://blog.csdn.net/m0_69595107/article/details/135769034)
 
++ [Zabbix分布式监控系统](https://blog.csdn.net/2301_79757379/article/details/135788464)
+
++ [MySQL用户管理](https://blog.csdn.net/wmh_1234567/article/details/135777902)
+

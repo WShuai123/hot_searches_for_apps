@@ -65,3 +65,5 @@
 
 + [CCSIP 2023中国网络安全产业全景册（第六版）正式发布 | FreeBuf咨询](https://www.freebuf.com/consult/390455.html)
 
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
