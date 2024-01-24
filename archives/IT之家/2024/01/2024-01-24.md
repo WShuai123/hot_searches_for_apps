@@ -69,3 +69,7 @@
 
 + [高德地图 App 上线“一键播放式音乐导航”功能，与 QQ 音乐达成合作](https://m.ithome.com/html/747010.htm)
 
++ [小米 Redmi Note 13 Pro 新春特别版手机亮相，全新“好运红”配色](https://m.ithome.com/html/747027.htm)
+
++ [苹果 Apple Music 古典乐应用现已在中国大陆推出](https://m.ithome.com/html/746871.htm)
+
