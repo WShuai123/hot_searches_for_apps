@@ -45,3 +45,7 @@
 
 + [“哄哄模拟器”爆火：70 万网友在线哄赛博女友，10 亿 token 一天烧完](https://m.ithome.com/html/746797.htm)
 
++ [消息称苹果 iPhone16 Pro Max 手机采用 4800 万像素 IMX903 定制主摄，1/1.14 英寸超级大底 + 双层晶体管](https://m.ithome.com/html/746918.htm)
+
++ [《幻兽帕鲁》开发内幕：成本达 10 亿日元，无预算管理](https://m.ithome.com/html/746837.htm)
+

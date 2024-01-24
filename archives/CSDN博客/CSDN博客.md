@@ -147,3 +147,7 @@
 
 + [宝塔面板部署MySQL并结合内网穿透实现公网远程访问本地数据库](https://blog.csdn.net/qq_65596720/article/details/135793804)
 
++ [AI短视频制作：创意与技术的完美结合](https://blog.csdn.net/m0_68662723/article/details/135815930)
+
++ [Hadoop中HBase命令行操作](https://blog.csdn.net/m0_69595107/article/details/135769034)
+

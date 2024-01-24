@@ -203,3 +203,23 @@
 
 + [《幻兽帕鲁》灵感来自《泰拉瑞亚》《我的世界》等](https://www.3dmgame.com/news/202401/3886826.html)
 
++ [《幻兽帕鲁》宝可梦Mod仍有意发布：前提不被起诉](https://www.3dmgame.com/news/202401/3886838.html)
+
++ [《我推的孩子》确认改编真人电影和电视剧 2024年冬季上映](https://www.3dmgame.com/news/202401/3886839.html)
+
++ [做一回真正的键盘侠 《键盘战士RPG》公布游戏原型预告片](https://www.3dmgame.com/news/202401/3886836.html)
+
++ [睡一觉又卖100万 《幻兽帕鲁》销量已突破700万](https://www.3dmgame.com/news/202401/3886835.html)
+
++ [KK对战平台500%超值豪华战令奖励！KK战令S4新春龙的传人](https://www.3dmgame.com/news/202401/3886834.html)
+
++ [《原神》提瓦特风尚·衣装PV - 寒月浸霓裳](https://www.3dmgame.com/news/202401/3886833.html)
+
++ [《GTA三部曲》成网飞游戏应用史上最大发布](https://www.3dmgame.com/news/202401/3886832.html)
+
++ [时隔七年！青山刚昌漫画《魔术快斗》有望恢复连载](https://www.3dmgame.com/news/202401/3886831.html)
+
++ [《荣耀战魂》即将推出维京阵营新英雄 瓦兰吉卫队登场](https://www.3dmgame.com/news/202401/3886830.html)
+
++ [《女神异闻录3：Reload》视频直播官方指引 2月2日发售](https://www.3dmgame.com/news/202401/3886829.html)
+

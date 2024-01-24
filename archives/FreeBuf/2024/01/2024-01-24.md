@@ -61,3 +61,7 @@
 
 + [苹果、VMware、Apache等科技巨头漏洞被大量应用](https://www.freebuf.com/news/390485.html)
 
++ [Bread：一款功能强大的BIOS逆向工程和高级调试工具](https://www.freebuf.com/sectool/389401.html)
+
++ [CCSIP 2023中国网络安全产业全景册（第六版）正式发布 | FreeBuf咨询](https://www.freebuf.com/consult/390455.html)
+
