@@ -55,3 +55,5 @@
 
 + [【直播预告】FreeBuf年度直播（甲方版）](https://www.freebuf.com/fevents/390476.html)
 
++ [记某次HVV：通过sql注入打入内网](https://www.freebuf.com/articles/web/390081.html)
+

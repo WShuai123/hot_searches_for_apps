@@ -197,3 +197,9 @@
 
 + [《如龙8》获M站均分90分好评 1月26日正式发售](https://www.3dmgame.com/news/202401/3886816.html)
 
++ [小米SU7车机演示：1.49秒启动 和小米手机一样好用](https://www.3dmgame.com/news/202401/3886828.html)
+
++ [哔哩哔哩弹幕网：B站成为日本WF的中国大陆独家主办方](https://www.3dmgame.com/news/202401/3886827.html)
+
++ [《幻兽帕鲁》灵感来自《泰拉瑞亚》《我的世界》等](https://www.3dmgame.com/news/202401/3886826.html)
+
