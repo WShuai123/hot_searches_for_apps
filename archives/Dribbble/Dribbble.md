@@ -49,3 +49,21 @@
 
 + [Stamp Series](https://dribbble.com/shots/)
 
++ [Grieving](https://dribbble.com/shots/)
+
++ [Glyph beer 26](https://dribbble.com/shots/)
+
++ [Sugarloafin'](https://dribbble.com/shots/)
+
++ [Ope Camp Flag](https://dribbble.com/shots/)
+
++ [Wonka Playing Cards (Faces)](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. II](https://dribbble.com/shots/)
+
++ [Bend & Snap](https://dribbble.com/shots/)
+
++ [As Above So Below](https://dribbble.com/shots/)
+
++ [Mr. Burns Devouring His Smithers ????](https://dribbble.com/shots/)
+

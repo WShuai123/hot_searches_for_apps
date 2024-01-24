@@ -201,3 +201,11 @@
 
 + [顺丰速运-快递查寄收 不止是快](https://itunes.apple.com/cn/app/id899529698?mt=8)
 
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
++ [唯品会 -龍年献礼 低至1折](https://itunes.apple.com/cn/app/id417200582?mt=8)
+

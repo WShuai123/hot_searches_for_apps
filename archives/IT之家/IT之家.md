@@ -25,3 +25,5 @@
 
 + [新款大众高尔夫发布：外观更犀利，动力更强大](https://m.ithome.com/html/747019.htm)
 
++ [三星 Galaxy S24 系列手机 PWM 调光频率提升至 492Hz，国产手机仍遥遥领先](https://m.ithome.com/html/747058.htm)
+
