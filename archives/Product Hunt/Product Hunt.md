@@ -177,3 +177,5 @@
 
 + [Byword](https://www.producthunt.com/posts/byword-3)
 
++ [Jusi](https://www.producthunt.com/posts/jusi)
+

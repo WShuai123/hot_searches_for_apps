@@ -267,3 +267,13 @@
 
 + [台积电为1nm工艺做准备 总开发成本超320亿美元](https://www.3dmgame.com/news/202401/3886859.html)
 
++ [新里程碑！《幻兽帕鲁》在线人数突破200万](https://www.3dmgame.com/news/202401/3886864.html)
+
++ [《喷射战士3》DLC“Side Order”2月22日推出 预告发布](https://www.3dmgame.com/news/202401/3886865.html)
+
++ [威尔逊·贝索尔回归《夜魔侠》演“靶眼”](https://www.3dmgame.com/news/202401/3886863.html)
+
++ [7年前的今天，《生化危机7》拯救了该系列](https://www.3dmgame.com/news/202401/3886862.html)
+
++ [OPPO与诺基亚签署5G专利交叉许可协议 双方将结束所有未决诉讼](https://www.3dmgame.com/news/202401/3886861.html)
+

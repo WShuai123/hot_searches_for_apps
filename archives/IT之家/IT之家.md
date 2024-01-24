@@ -73,3 +73,7 @@
 
 + [苹果 Apple Music 古典乐应用现已在中国大陆推出](https://m.ithome.com/html/746871.htm)
 
++ [优酷盒子 7 电视机顶盒发布：1GB + 8GB 存储，99 元](https://m.ithome.com/html/747044.htm)
+
++ [苹果为 AirPods 2 / Pro 1 耳机推送 6A321 固件](https://m.ithome.com/html/746883.htm)
+

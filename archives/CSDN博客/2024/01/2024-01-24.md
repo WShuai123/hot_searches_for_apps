@@ -181,3 +181,9 @@
 
 + [计算机网络 第3章（数据链路层）](https://blog.csdn.net/qq_43048957/article/details/135771969)
 
++ [如何在CentOS使用docker-compose部署Apache Superset并实现公网访问](https://blog.csdn.net/a1657054242/article/details/135823389)
+
++ [【CTWVRP】基于matlab遗传算法求解带软时间窗+容量约束+成本(固定+运输+制冷+惩罚)车辆路径规划【含Matlab源码 3836期】](https://blog.csdn.net/TIQCmatlab/article/details/135745344)
+
++ [2024年美赛数学建模思路 - 案例：粒子群算法](https://blog.csdn.net/math_assistant/article/details/135773956)
+
