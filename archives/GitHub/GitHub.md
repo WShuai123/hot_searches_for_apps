@@ -51,3 +51,39 @@
 
 + [nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 
++ [LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao)
+
++ [stas00 / ml-engineering](https://github.com/stas00/ml-engineering)
+
++ [iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero)
+
++ [anonystick / anonystick](https://github.com/anonystick/anonystick)
+
++ [cxli233 / FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
+
++ [xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)
+
++ [mayaracardoso / spotify-imersao](https://github.com/mayaracardoso/spotify-imersao)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [withastro / astro](https://github.com/withastro/astro)
+
++ [OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis)
+
++ [docker / compose](https://github.com/docker/compose)
+
++ [OrionStarAI / Orion](https://github.com/OrionStarAI/Orion)
+
++ [Tichau / FileConverter](https://github.com/Tichau/FileConverter)
+
++ [StanGirard / quivr](https://github.com/StanGirard/quivr)
+
++ [madler / zlib](https://github.com/madler/zlib)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+

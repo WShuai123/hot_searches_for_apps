@@ -61,3 +61,9 @@
 
 + [取代软银，消息称马云已成为阿里巴巴最大股东](https://m.ithome.com/html/747004.htm)
 
++ [小鹏 P7i 鹏翼性能版优惠 5 万，优惠后售价 28.99 万元](https://m.ithome.com/html/746852.htm)
+
++ [腾讯开放世界抓宠游戏《创造吧！我们的星球》开启预约，现已上架苹果 App Store 及 Steam](https://m.ithome.com/html/746933.htm)
+
++ [苹果地图惹祸，十年老店“被关门”：预估损失 1.2 万澳元](https://m.ithome.com/html/746897.htm)
+

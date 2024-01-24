@@ -167,3 +167,15 @@
 
 + [API接口安全总结](https://blog.csdn.net/m0_66458291/article/details/135786277)
 
++ [【Elasticsearch篇】详解使用RestClient操作索引库的相关操作](https://blog.csdn.net/m0_72853403/article/details/135818732)
+
++ [【赠书第18期】人工智能B2B落地实战：基于云和Python的商用解决方案](https://blog.csdn.net/qq_20016593/article/details/135730932)
+
++ [【音视频原理】音频编解码原理 ① ( 声音特性 | 声音本质 | 声音频率 | 声音频率和响度本质分析 | 数字音频 |脉冲编码调制 PCM - 采样振幅值 | 奈奎斯特 Nyguist 采样定理 )](https://blog.csdn.net/han1202012/article/details/135781972)
+
++ [探索Gin框架：快速构建高性能的Golang Web应用](https://blog.csdn.net/qq_35716689/article/details/135783172)
+
++ [使用双异步后，如何保证数据一致性？](https://blog.csdn.net/guorui_java/article/details/135705565)
+
++ [基于大数据Hadoop气象分析大屏可视化设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135817537)
+

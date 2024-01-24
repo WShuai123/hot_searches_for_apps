@@ -167,3 +167,7 @@
 
 + [Racr](https://www.producthunt.com/posts/racr-2)
 
++ [Vepaar : Salesforce + WhatsApp](https://www.producthunt.com/posts/vepaar-salesforce-whatsapp)
+
++ [BLiiNK](https://www.producthunt.com/posts/bliink)
+
