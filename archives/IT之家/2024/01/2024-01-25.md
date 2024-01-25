@@ -49,3 +49,9 @@
 
 + [小米 14 Ultra 手机镜头模组曝光，主摄 f / 1.63-f / 4.0 可变光圈](https://m.ithome.com/html/747156.htm)
 
++ [IDC：2023 年国内安卓手机出货量荣耀第一](https://m.ithome.com/html/747162.htm)
+
++ [魅族 21 吉利银河定制版手机上市：12GB+256GB 售价 3999 元](https://m.ithome.com/html/747170.htm)
+
++ [（更新：麦当劳称 1 月 25 日再次上架优惠券）麦当劳“崩”上热搜：小程序 / App 无法点餐，客服称系统正在维护](https://m.ithome.com/html/747046.htm)
+
