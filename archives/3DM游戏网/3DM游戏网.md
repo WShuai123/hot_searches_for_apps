@@ -101,3 +101,5 @@
 
 + [《命运石之门》15周年纪念双包合集4月11日登陆Switch](https://www.3dmgame.com/news/202401/3886923.html)
 
++ [Epic喜加一：《无限工厂》免费领取](https://www.3dmgame.com/news/202401/3886975.html)
+
