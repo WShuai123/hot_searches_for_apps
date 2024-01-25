@@ -137,3 +137,11 @@
 
 + [AIGC时代智能绘画开启视觉新时代](https://blog.csdn.net/weixin_43178406/article/details/135831301)
 
++ [【开放原子校园行】开发者投身开源项目的能够获得什么？](https://blog.csdn.net/CC1991_/article/details/135760201)
+
++ [一文读懂RabbitMQ核心概念及架构](https://blog.csdn.net/qq_38374397/article/details/135816025)
+
++ [快速上手的AI工具-文心一言绘画达人](https://blog.csdn.net/tjls2008/article/details/135826653)
+
++ [电信联通5G共建共享方案实施及验证](https://blog.csdn.net/m0_73503557/article/details/135826833)
+

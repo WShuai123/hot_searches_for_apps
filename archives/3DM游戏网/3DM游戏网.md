@@ -155,3 +155,15 @@
 
 + [SE新作规模缩水 波兰开发商People Can Fly裁员30人](https://www.3dmgame.com/news/202401/3886880.html)
 
++ [阿什莉体模出演《如龙8》交友小游戏 和她亲密互动](https://www.3dmgame.com/news/202401/3886900.html)
+
++ [任天堂作曲家近藤浩治入选2024 DICE大奖名人堂](https://www.3dmgame.com/news/202401/3886899.html)
+
++ [《Aviators》免费登陆Steam 波兰空军冒险新游](https://www.3dmgame.com/news/202401/3886901.html)
+
++ [《玩具熊的五夜后宫》新作泄露 主创：泄露了也没关系](https://www.3dmgame.com/news/202401/3886898.html)
+
++ [《The Finals》上线一个半月 同时在线玩家数下降83%](https://www.3dmgame.com/news/202401/3886897.html)
+
++ [《死侍3》电影已杀青 今年7月26日上映](https://www.3dmgame.com/news/202401/3886896.html)
+
