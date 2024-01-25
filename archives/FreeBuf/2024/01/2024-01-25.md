@@ -61,3 +61,7 @@
 
 + [科技巨头惠普遭到亲俄黑客攻击](https://www.freebuf.com/news/390641.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [数据安全影响上市？蜜雪冰城就安全问题遭证监会询问](https://www.freebuf.com/news/390650.html)
+

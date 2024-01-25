@@ -127,3 +127,41 @@
 
 + [BotFleet](https://www.producthunt.com/posts/botfleet)
 
++ [Fundability.app](https://www.producthunt.com/posts/fundability-app-2)
+
++ [Goodhue](https://www.producthunt.com/posts/goodhue)
+
++ [Find Me a Restaurant](https://www.producthunt.com/posts/find-me-a-restaurant)
+
++ [Scheduler](https://www.producthunt.com/posts/scheduler-2)
+
++ [Venture GPT](https://www.producthunt.com/posts/venture-gpt)
+
++ [Prompt&](https://www.producthunt.com/posts/prompt-8)
+
++ [SteamPulse](https://www.producthunt.com/posts/steampulse)
+
++ [Spoki](https://www.producthunt.com/posts/spoki)
+
++ [Specify 2.0](https://www.producthunt.com/posts/specify-2-0)
+
++ [My Brand New Logo 2.0](https://www.producthunt.com/posts/my-brand-new-logo-2-0)
+
++ [Personalized Content Marketing Plan](https://www.producthunt.com/posts/personalized-content-marketing-plan)
+
++ [Notion <=> Google Tasks Sync](https://www.producthunt.com/posts/notion-google-tasks-sync)
+
++ [Sketch Logo AI](https://www.producthunt.com/posts/sketch-logo-ai)
+
++ [Traveleva](https://www.producthunt.com/posts/traveleva)
+
++ [Access](https://www.producthunt.com/posts/access)
+
++ [Invoicer Studio](https://www.producthunt.com/posts/invoicer-studio)
+
++ [Heads Or Tails Hero](https://www.producthunt.com/posts/heads-or-tails-hero)
+
++ [SQL Database Schema Generator](https://www.producthunt.com/posts/sql-database-schema-generator)
+
++ [PACE](https://www.producthunt.com/posts/pace-6)
+

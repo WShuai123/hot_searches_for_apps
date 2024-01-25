@@ -253,3 +253,15 @@
 
 + [Neowiz PC游戏《英雄征集》，3种新卡和遗物更新](https://www.3dmgame.com/news/202401/3886939.html)
 
++ [马斯克对日本人不买特斯拉感到恼火：他们认知不足](https://www.3dmgame.com/news/202401/3886950.html)
+
++ [《夜下降生》系列最新作《夜下降生 II Sys:Celes》现正热卖中！](https://www.3dmgame.com/news/202401/3886951.html)
+
++ [中国风仙侠游戏SRPG《天临混元》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886947.html)
+
++ [动保组织针对《幻兽帕鲁》发表声明：玩家要吃素帮助动物](https://www.3dmgame.com/news/202401/3886945.html)
+
++ [《幻兽帕鲁》群体中核心玩家居多 超三分之一玩家来自中国](https://www.3dmgame.com/news/202401/3886948.html)
+
++ [科学家首次用数学证明AI致命弱点 无法开发稳定算法](https://www.3dmgame.com/news/202401/3886949.html)
+

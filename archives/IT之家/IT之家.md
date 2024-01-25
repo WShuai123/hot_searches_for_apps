@@ -45,3 +45,7 @@
 
 + [消息称小米 15 系列手机有望 9 月进入量产阶段，内测进度不错](https://m.ithome.com/html/747117.htm)
 
++ [国行价格来了，三星 Galaxy S24 系列中国新品发布会定档今晚 7 点](https://m.ithome.com/html/747165.htm)
+
++ [小米 14 Ultra 手机镜头模组曝光，主摄 f / 1.63-f / 4.0 可变光圈](https://m.ithome.com/html/747156.htm)
+
