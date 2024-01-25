@@ -55,3 +55,7 @@
 
 + [（更新：麦当劳称 1 月 25 日再次上架优惠券）麦当劳“崩”上热搜：小程序 / App 无法点餐，客服称系统正在维护](https://m.ithome.com/html/747046.htm)
 
++ [三星 Galaxy S24 Ultra 手机拆解：可维修性高，散热升级](https://m.ithome.com/html/747080.htm)
+
++ [《奥本海默》电影宣布 3 月 1 日在内地重映，豪夺 13 项奥斯卡提名](https://m.ithome.com/html/747151.htm)
+

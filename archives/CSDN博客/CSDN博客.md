@@ -173,3 +173,11 @@
 
 + [HTML+CSS：炫酷登录切换](https://blog.csdn.net/weixin_72553980/article/details/135834003)
 
++ [基于Java+SpringBoot+Vue智慧党建系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/135835458)
+
++ [外包干了一个月，技术退步明显。。。。。](https://blog.csdn.net/2301_79535733/article/details/135793135)
+
++ [内网穿透、远程桌面、VPN的理解](https://blog.csdn.net/u013896064/article/details/135824223)
+
++ [【Linux】糟糕，是心动的感觉——与Linux的初次相遇](https://blog.csdn.net/2301_79458548/article/details/135791357)
+
