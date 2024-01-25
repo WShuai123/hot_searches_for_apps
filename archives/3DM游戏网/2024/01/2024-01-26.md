@@ -103,3 +103,11 @@
 
 + [Epic喜加一：《无限工厂》免费领取](https://www.3dmgame.com/news/202401/3886975.html)
 
++ [解谜游戏《真知之岛》2/13推出 预告片分享](https://www.3dmgame.com/news/202401/3886979.html)
+
++ [《时空英豪2：新起点》PC配置公布 最低需980Ti](https://www.3dmgame.com/news/202401/3886978.html)
+
++ [《驱灵者：新伊甸的幽灵》PC配置公布 1050ti可玩](https://www.3dmgame.com/news/202401/3886977.html)
+
++ [《地平线：西之绝境》完整版3/21登陆PC 支持DLSS3](https://www.3dmgame.com/news/202401/3886976.html)
+
