@@ -63,3 +63,5 @@
 
 + [京都动画纵火案被告青叶真司被判处死刑：造成 36 人死亡、32 人受伤](https://m.ithome.com/html/747226.htm)
 
++ [小米 Redmi Note 13 Pro 新春特别版手机开售，1399 元起](https://m.ithome.com/html/747132.htm)
+
