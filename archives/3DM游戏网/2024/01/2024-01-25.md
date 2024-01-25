@@ -291,3 +291,5 @@
 
 + [《女神异闻录3：Reload》明日将公布50分钟实机游玩画面](https://www.3dmgame.com/news/202401/3886954.html)
 
++ [《幻兽帕鲁》爆火后 发行商已在国内注册多个商标](https://www.3dmgame.com/news/202401/3886965.html)
+

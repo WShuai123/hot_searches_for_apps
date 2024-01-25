@@ -51,3 +51,39 @@
 
 + [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
++ [byoungd / English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)
+
++ [YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)
+
++ [lamini-ai / prompt-engineering-open-llms](https://github.com/lamini-ai/prompt-engineering-open-llms)
+
++ [sunface / rust-course](https://github.com/sunface/rust-course)
+
++ [vikhyat / moondream](https://github.com/vikhyat/moondream)
+
++ [ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [google / glog](https://github.com/google/glog)
+
++ [dotnet / maui](https://github.com/dotnet/maui)
+
++ [VikParuchuri / marker](https://github.com/VikParuchuri/marker)
+
++ [lamini-ai / simple-rag](https://github.com/lamini-ai/simple-rag)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN)
+
++ [idaholab / moose](https://github.com/idaholab/moose)
+
++ [ZHO-ZHO-ZHO / ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)
+
++ [langchain-ai / langchain](https://github.com/langchain-ai/langchain)
+
++ [Kong / kong](https://github.com/Kong/kong)
+

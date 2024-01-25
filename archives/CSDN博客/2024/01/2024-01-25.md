@@ -181,3 +181,7 @@
 
 + [【Linux】糟糕，是心动的感觉——与Linux的初次相遇](https://blog.csdn.net/2301_79458548/article/details/135791357)
 
++ [《解锁R统计分析：深度探索R Commander图形界面》](https://blog.csdn.net/qq_44273429/article/details/135842133)
+
++ [智慧交通沙盘小车实现自动驾驶BEV Transformer感知](https://blog.csdn.net/yang8767/article/details/135818733)
+
