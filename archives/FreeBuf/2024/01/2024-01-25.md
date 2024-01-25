@@ -51,3 +51,5 @@
 
 + [NCSC称人工智能将在未来两年“助长”勒索软件的威力](https://www.freebuf.com/news/390618.html)
 
++ [全球网络安全态势综述报告](https://www.freebuf.com/articles/paper/389733.html)
+
