@@ -295,3 +295,17 @@
 
 + [国产GPU龙头企业壁仞科技又一创始人离职](https://www.3dmgame.com/news/202401/3886967.html)
 
++ [微软游戏部门宣布裁员1900人 包括B社、动视](https://www.3dmgame.com/news/202401/3886973.html)
+
++ [《最后的生还者2：重制版》在英国首周销量是前作的两倍](https://www.3dmgame.com/news/202401/3886972.html)
+
++ [日本一《星之深渊酒吧》第二弹预告 2月29日发售](https://www.3dmgame.com/news/202401/3886971.html)
+
++ [姓名太相似闹乌龙 汤姆·霍兰德收到了荷兰弟的分红](https://www.3dmgame.com/news/202401/3886970.html)
+
++ [RX 7600XT普遍不看好：性能一般 但价格更贵](https://www.3dmgame.com/news/202401/3886969.html)
+
++ [《雾锁王国》Steam特别好评 首发峰值超7万人](https://www.3dmgame.com/news/202401/3886968.html)
+
++ [传闻天玑9400将采用台积电3nm工艺 性能提升巨大](https://www.3dmgame.com/news/202401/3886966.html)
+

@@ -67,3 +67,5 @@
 
 + [淘宝启动华为鸿蒙原生应用开发](https://m.ithome.com/html/747268.htm)
 
++ [三星 Galaxy S24 / S24+/Ultra 手机国行发布，5499 元起](https://m.ithome.com/html/747278.htm)
+
