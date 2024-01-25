@@ -155,3 +155,15 @@
 
 + [maven详细介绍](https://blog.csdn.net/qq_36649893/article/details/135796930)
 
++ [Mistral AI vs. Meta:顶级开源LLM比较](https://blog.csdn.net/m0_46510245/article/details/135838130)
+
++ [幻兽帕鲁4核16G配置推荐价格表阿里云和腾讯云](https://blog.csdn.net/fuwuqiba/article/details/135822487)
+
++ [Java代码审计&原生反序列化&CC链跟踪分析](https://blog.csdn.net/qq_46081990/article/details/135805910)
+
++ [Docker网络配置与自定义IP容器通信](https://blog.csdn.net/Justw320/article/details/135636257)
+
++ [【轮式平衡机器人】——TMS320F28069片内外设之GPIO](https://blog.csdn.net/weixin_51658186/article/details/135728331)
+
++ [使用Docker部署Apache Superset结合内网穿透实现远程访问本地服务](https://blog.csdn.net/qq_72916130/article/details/135759952)
+

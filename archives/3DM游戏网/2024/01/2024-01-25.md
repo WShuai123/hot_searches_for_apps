@@ -207,3 +207,41 @@
 
 + [《英雄传说：黎之轨迹》Switch版预购开启 体验版同步发布](https://www.3dmgame.com/news/202401/3886919.html)
 
++ [瞄准射击 打碎音符《BEAT AIMER!》大型更新现已上线！](https://www.3dmgame.com/news/202401/3886932.html)
+
++ [《湮灭线》Steam正式推出 末世机甲风横版动作](https://www.3dmgame.com/news/202401/3886933.html)
+
++ [《幻兽帕鲁》开发者推荐《雾锁王国》：所有游戏都能共存](https://www.3dmgame.com/news/202401/3886934.html)
+
++ [《湮灭线》正式版发售 扮演末日的机甲病毒](https://www.3dmgame.com/news/202401/3886935.html)
+
++ [《方舟生存飞升》绿洲巨龙概念图首曝，开发工具将迎重大更新](https://www.3dmgame.com/news/202401/3886936.html)
+
++ [赛博朋克平台动作游戏《时空叛客》现已登陆多平台同步发售](https://www.3dmgame.com/news/202401/3886937.html)
+
++ [道门风二次元动作游戏《神明在上》现已登陆Switch平台发售](https://www.3dmgame.com/news/202401/3886938.html)
+
++ [策略塔防游戏《恒星守望》上线Steam商城并推出试玩Demo](https://www.3dmgame.com/news/202401/3886940.html)
+
++ [鹰角买断制手游《来自星尘》更新 或将有消息公布](https://www.3dmgame.com/news/202401/3886941.html)
+
++ [另类弹幕肉鸽游戏《13秒》上架Steam 练习左右互搏术](https://www.3dmgame.com/news/202401/3886928.html)
+
++ [《原神》闲云角色PV——「玄巧灵心」](https://www.3dmgame.com/news/202401/3886929.html)
+
++ [Steam好评如潮 《PARANORMASIGHT：本所七大不可思议》将增加中文支持](https://www.3dmgame.com/news/202401/3886930.html)
+
++ [5款游戏决战网易总部！Y3制作挑战赛2023收官！](https://www.3dmgame.com/news/202401/3886931.html)
+
++ [《命运石之门》15周年纪念双包合集4月11日登陆Switch](https://www.3dmgame.com/news/202401/3886923.html)
+
++ [《龙之信条2》实体版上架北美 预购可获赠限量铁盒](https://www.3dmgame.com/news/202401/3886925.html)
+
++ [京都动画纵火案今日正式宣判 被告青叶真司被判处死刑](https://www.3dmgame.com/news/202401/3886927.html)
+
++ [宝可梦要动手了？官方称正在调查“另一家公司的游戏”](https://www.3dmgame.com/news/202401/3886924.html)
+
++ [《地球防卫军6》中文版3月14日发售 登陆PS5和PS4](https://www.3dmgame.com/news/202401/3886926.html)
+
++ [《完蛋！我被美女包围了》DLC定档2月5日 三位美女等你](https://www.3dmgame.com/news/202401/3886922.html)
+

@@ -53,3 +53,11 @@
 
 + [全球网络安全态势综述报告](https://www.freebuf.com/articles/paper/389733.html)
 
++ [黑客盯上的不是密码，而是Cookie](https://www.freebuf.com/news/390637.html)
+
++ [ICSpector：一款功能强大的微软开源工业PLC安全取证框架](https://www.freebuf.com/sectool/389407.html)
+
++ [蜜雪冰城遭证监会询问，涉及数据安全问题](https://www.freebuf.com/news/390650.html)
+
++ [科技巨头惠普遭到亲俄黑客攻击](https://www.freebuf.com/news/390641.html)
+
