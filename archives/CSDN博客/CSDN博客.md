@@ -101,3 +101,19 @@
 
 + [HTML+CSS：炫酷登录切换](https://blog.csdn.net/weixin_72553980/article/details/135834003)
 
++ [Java+Spring Cloud +Vue+UniApp微服务智慧工地云平台源码](https://blog.csdn.net/qq_27741787/article/details/135840629)
+
++ [PolarDB无感切换特性助力游戏领域高可用实践](https://blog.csdn.net/shi_hong_fei_hei/article/details/135758630)
+
++ [【Linux】糟糕，是心动的感觉——与Linux的初次相遇](https://blog.csdn.net/2301_79458548/article/details/135791357)
+
++ [计算机网络——网络层(1）](https://blog.csdn.net/weixin_74888502/article/details/135849336)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/135829740)
+
++ [Spring5系列学习文章分享---第四篇（JdbcTemplate+概念配置+增删改查数据+批量操作 ）](https://blog.csdn.net/weixin_44976692/article/details/135831740)
+
++ [【开源】基于JAVA+Vue+SpringBoot的音乐平台](https://blog.csdn.net/javamyfriend/article/details/135816978)
+
++ [【操作系统】实验六 分析源代码](https://blog.csdn.net/m0_67759533/article/details/135851181)
+
