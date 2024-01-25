@@ -167,3 +167,37 @@
 
 + [《死侍3》电影已杀青 今年7月26日上映](https://www.3dmgame.com/news/202401/3886896.html)
 
++ [模拟经营游戏《超级赚钱的网络游戏模拟器》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3886918.html)
+
++ [《Kill It With Fire 2》Steam页面上线 消灭蜘蛛恐惧症](https://www.3dmgame.com/news/202401/3886917.html)
+
++ [生存游戏《雾锁王国》崩溃修复后评价逐渐回暖](https://www.3dmgame.com/news/202401/3886916.html)
+
++ [电影《海扁王3》将是三部曲的第三部 但非原系列的第三部](https://www.3dmgame.com/news/202401/3886915.html)
+
++ [羡慕帕鲁给人打工？在这里给你打工的比它更猛](https://www.3dmgame.com/news/202401/3886914.html)
+
++ [《奥本海默》3月1日内地重映 庆祝奥斯卡提名](https://www.3dmgame.com/news/202401/3886913.html)
+
++ [马斯克坦承：中国汽车制造商是全球最具竞争力的车企](https://www.3dmgame.com/news/202401/3886912.html)
+
++ [《逆转裁判456 王泥喜精选集》发售宣传片 游戏售价248元](https://www.3dmgame.com/news/202401/3886911.html)
+
++ [一天一个100万 《幻兽帕鲁》六天销量突破800万](https://www.3dmgame.com/news/202401/3886910.html)
+
++ [《收获日3》集结精英团队 试图挽救发布惨败](https://www.3dmgame.com/news/202401/3886909.html)
+
++ [《咖啡遇上香草》漫画9年连载完结 霸总校园爱情名作](https://www.3dmgame.com/news/202401/3886907.html)
+
++ [尼尔：曾想让艾比在《最后生还者2》结局死亡 最终放弃](https://www.3dmgame.com/news/202401/3886906.html)
+
++ [PS5主机发布新固件更新 下载大小约1.1GB](https://www.3dmgame.com/news/202401/3886905.html)
+
++ [《暗黑破坏神4》第三赛季遭遇新问题 暴雪正实时关注反馈](https://www.3dmgame.com/news/202401/3886903.html)
+
++ [年味游戏《烟花绘梦》Steam页面上线 2月6日发售](https://www.3dmgame.com/news/202401/3886904.html)
+
++ [治愈系六角城市建造游戏《Preserve》上架Steam平台](https://www.3dmgame.com/news/202401/3886902.html)
+
++ [《地狱潜者2》技术总监分享GameGuard反作弊程序相关问答](https://www.3dmgame.com/news/202401/3886908.html)
+

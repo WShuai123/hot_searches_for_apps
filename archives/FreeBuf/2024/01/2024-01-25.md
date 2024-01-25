@@ -47,3 +47,7 @@
 
 + [数据安全治理学习——政策背景和体系框架](https://www.freebuf.com/articles/database/390493.html)
 
++ [Pwn2Own Automotive 2024 大赛上，研究人员又一次侵入了特斯拉](https://www.freebuf.com/news/390630.html)
+
++ [NCSC称人工智能将在未来两年“助长”勒索软件的威力](https://www.freebuf.com/news/390618.html)
+
