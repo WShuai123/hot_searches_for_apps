@@ -121,3 +121,37 @@
 
 + [《玩具熊的午夜后宫：走进深渊》实机预告片泄露](https://www.3dmgame.com/news/202401/3886872.html)
 
++ [醒来吧，火之子！奇幻生存冒险建造动作RPG《雾锁王国》现已推出](https://www.3dmgame.com/news/202401/3886893.html)
+
++ [佛州小丑继续喊话R星：让我为《GTA6》角色配音](https://www.3dmgame.com/news/202401/3886894.html)
+
++ [《幻兽帕鲁》庆祝在线人数破2百万 感谢玩家](https://www.3dmgame.com/news/202401/3886891.html)
+
++ [《Lorgeban》PC平台免费发布 手绘风经典仓库番游戏](https://www.3dmgame.com/news/202401/3886892.html)
+
++ [《非套路奇幻游戏》实机预告 试玩Demo上线](https://www.3dmgame.com/news/202401/3886887.html)
+
++ [据传大锤工作室的下一部《使命召唤》作品将在2027年发布](https://www.3dmgame.com/news/202401/3886890.html)
+
++ [《猛兽派对》Steam好友通行证上线 限时一个月](https://www.3dmgame.com/news/202401/3886889.html)
+
++ [解谜游戏《特斯拉密室》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886895.html)
+
++ [《博德之门3》又赢麻了！ 第13届纽约游戏奖获奖名单公布](https://www.3dmgame.com/news/202401/3886888.html)
+
++ [《龙与地下城》官方授权合作将开发首个VR游戏](https://www.3dmgame.com/news/202401/3886885.html)
+
++ [亚马逊假日季：Quest头显销量是PSVR2的30倍](https://www.3dmgame.com/news/202401/3886886.html)
+
++ [《宝可梦》联名卡牌混乱事件后 四名梵高博物馆员工被停职](https://www.3dmgame.com/news/202401/3886884.html)
+
++ [《GT赛车7》1.42版本更新上线 三辆新车全新赛事](https://www.3dmgame.com/news/202401/3886883.html)
+
++ [《GTA三部曲》手机端下载量达1800万次](https://www.3dmgame.com/news/202401/3886882.html)
+
++ [《死亡搁浅》定制手机手柄公布 看起来挺靓丽](https://www.3dmgame.com/news/202401/3886881.html)
+
++ [《浩劫前夕》官方发文澄清：没骗玩家钱 都怪有人带节奏](https://www.3dmgame.com/news/202401/3886879.html)
+
++ [SE新作规模缩水 波兰开发商People Can Fly裁员30人](https://www.3dmgame.com/news/202401/3886880.html)
+

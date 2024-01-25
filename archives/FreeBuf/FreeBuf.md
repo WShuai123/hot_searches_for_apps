@@ -45,3 +45,5 @@
 
 + [非人类身份的安全挑战、攻击案例及教训](https://www.freebuf.com/articles/neopoints/389768.html)
 
++ [数据安全治理学习——政策背景和体系框架](https://www.freebuf.com/articles/database/390493.html)
+

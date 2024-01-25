@@ -135,3 +135,5 @@
 
 + [不合格机器人工程讲师再读《悉达多》-2024-](https://blog.csdn.net/ZhangRelay/article/details/135765224)
 
++ [AIGC时代智能绘画开启视觉新时代](https://blog.csdn.net/weixin_43178406/article/details/135831301)
+

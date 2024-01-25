@@ -27,3 +27,9 @@
 
 + [三星 Galaxy S24 系列手机 PWM 调光频率提升至 492Hz，国产手机仍遥遥领先](https://m.ithome.com/html/747058.htm)
 
++ [途虎起诉京东养车“震虎价”涉嫌不正当竞争，要求赔偿 500 万元](https://m.ithome.com/html/747015.htm)
+
++ [赛力斯：预计 2023 年净亏损 21 亿元-27 亿元](https://m.ithome.com/html/747026.htm)
+
++ [五部委：水泥行业汽车运输全部采用新能源重卡或国六重卡](https://m.ithome.com/html/747039.htm)
+
