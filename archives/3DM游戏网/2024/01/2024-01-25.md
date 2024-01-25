@@ -107,3 +107,17 @@
 
 + [回合制RPG《无名者：屠龙》面向PC/NS公布](https://www.3dmgame.com/news/202401/3886869.html)
 
++ [RTX 4070 Ti Super现已发售 6499元起](https://www.3dmgame.com/news/202401/3886878.html)
+
++ [《木卫四协议》开发商开始为虚幻5新游戏招聘人员](https://www.3dmgame.com/news/202401/3886875.html)
+
++ [《最终幻想14》真人电视剧宣布夭折](https://www.3dmgame.com/news/202401/3886877.html)
+
++ [2024年才刚开始《毁灭全人类》开发商裁员近一半](https://www.3dmgame.com/news/202401/3886876.html)
+
++ [黑马联合CDPR推出《巫师3：狂猎》后续故事漫画](https://www.3dmgame.com/news/202401/3886874.html)
+
++ [无规则街机卡通风格足球《精彩进球2》即将上市](https://www.3dmgame.com/news/202401/3886873.html)
+
++ [《玩具熊的午夜后宫：走进深渊》实机预告片泄露](https://www.3dmgame.com/news/202401/3886872.html)
+

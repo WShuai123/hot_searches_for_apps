@@ -41,3 +41,7 @@
 
 + [黑客“盯上了” Atlassian Confluence RCE 漏洞](https://www.freebuf.com/news/390358.html)
 
++ [FreeBuf 早报 | 英国多地议会遭遇网络攻击；黑客正在大规模利用Ivanti VPN漏洞](https://www.freebuf.com/news/390520.html)
+
++ [非人类身份的安全挑战、攻击案例及教训](https://www.freebuf.com/articles/neopoints/389768.html)
+

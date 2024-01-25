@@ -133,3 +133,5 @@
 
 + [Excel学习](https://blog.csdn.net/qq_43693424/article/details/135788541)
 
++ [不合格机器人工程讲师再读《悉达多》-2024-](https://blog.csdn.net/ZhangRelay/article/details/135765224)
+
