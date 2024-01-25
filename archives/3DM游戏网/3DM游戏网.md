@@ -293,3 +293,5 @@
 
 + [《幻兽帕鲁》爆火后 发行商已在国内注册多个商标](https://www.3dmgame.com/news/202401/3886965.html)
 
++ [国产GPU龙头企业壁仞科技又一创始人离职](https://www.3dmgame.com/news/202401/3886967.html)
+

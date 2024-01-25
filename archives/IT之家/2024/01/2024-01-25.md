@@ -65,3 +65,5 @@
 
 + [小米 Redmi Note 13 Pro 新春特别版手机开售，1399 元起](https://m.ithome.com/html/747132.htm)
 
++ [淘宝启动华为鸿蒙原生应用开发](https://m.ithome.com/html/747268.htm)
+
