@@ -49,3 +49,27 @@
 
 + [Some days in Tokyo](https://dribbble.com/shots/)
 
++ [TG Sponsored Post](https://dribbble.com/shots/)
+
++ [Oregon State Park Mini Scenes](https://dribbble.com/shots/)
+
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [You're Not Crazy - Rework](https://dribbble.com/shots/)
+
++ [Characters for the new mushroom brand from Wiz Khalifa](https://dribbble.com/shots/)
+
++ [Morning Commute](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [Zeus Illustration](https://dribbble.com/shots/)
+
++ [Past Lives](https://dribbble.com/shots/)
+
++ [Knucks ©24 - Screens](https://dribbble.com/shots/)
+
++ [Tarot card #05: The Hierophant](https://dribbble.com/shots/)
+
++ [Creative stickers](https://dribbble.com/shots/)
+

@@ -25,3 +25,5 @@
 
 + [比亚迪乌兹别克斯坦工厂投产：首车宋 PLUS DM-i 下线，仰望 U8 在当地交付](https://m.ithome.com/html/747309.htm)
 
++ [消息称小米汽车北京首家 2S 店落地博瑞汽车园，原为东风日产 4S 店](https://m.ithome.com/html/747430.htm)
+
