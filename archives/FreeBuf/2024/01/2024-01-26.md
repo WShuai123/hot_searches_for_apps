@@ -55,3 +55,7 @@
 
 + [如何使用IaC Scan Runner扫描IaC中的常见安全漏洞](https://www.freebuf.com/sectool/389427.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [内含惊喜赠书活动，FreeBuf 甲方社群直播完整回顾来啦！](https://www.freebuf.com/articles/390763.html)
+

@@ -47,3 +47,5 @@
 
 + [社保卡到 2027 年基本实现全国“一卡通”](https://m.ithome.com/html/747384.htm)
 
++ [苹果 CarPlay 2.0 新截图曝光：新增 8 款应用、引入“再见”屏幕、丰富配色选择](https://m.ithome.com/html/747394.htm)
+

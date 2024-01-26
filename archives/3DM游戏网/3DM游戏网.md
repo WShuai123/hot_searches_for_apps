@@ -219,3 +219,19 @@
 
 + [动视大锤工作室30%被裁员 办公场所搬迁后缩小](https://www.3dmgame.com/news/202401/3887030.html)
 
++ [曝小米14 Ultra 2月登场 卢伟冰：非常非常非常强](https://www.3dmgame.com/news/202401/3887041.html)
+
++ [《幻兽帕鲁》配种计算器上线！快来合成你的顶级帕鲁吧](https://www.3dmgame.com/news/202401/3887040.html)
+
++ [雷军回应小米SU7满街跑就是不卖：品质打磨好再上市](https://www.3dmgame.com/news/202401/3887039.html)
+
++ [《小美人鱼》女主哈莉贝利晒一家三口合照 好幸福啊](https://www.3dmgame.com/news/202401/3887038.html)
+
++ [心理恐怖恋爱ADV《Folie Fatale》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887037.html)
+
++ [《星空》与欧洲航天局合作 将向玩家赠送太空服](https://www.3dmgame.com/news/202401/3887036.html)
+
++ [美国一男子飞机上放屁闹事：飞机被迫返回登机口](https://www.3dmgame.com/news/202401/3887035.html)
+
++ [机智号火星直升机“摔断翅膀” NASA宣布任务结束](https://www.3dmgame.com/news/202401/3887034.html)
+

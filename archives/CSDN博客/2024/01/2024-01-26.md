@@ -163,3 +163,5 @@
 
 + [Android拍照的方式：调用系统相机、自定义 Camera](https://blog.csdn.net/this_is_bug/article/details/135767361)
 
++ [Java事务的传播](https://blog.csdn.net/weixin_44976692/article/details/135855780)
+
