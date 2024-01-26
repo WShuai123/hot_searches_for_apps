@@ -31,3 +31,5 @@
 
 + [苹果 iOS 17.4 Beta 1 发布：27 个欧洲国家 3 月将支持侧载、第三方应用市场、非 WebKit 引擎浏览器等](https://m.ithome.com/html/747311.htm)
 
++ [马斯克对特斯拉在日本表现不佳感到恼火，称当地市场“缺乏认识”](https://m.ithome.com/html/747271.htm)
+

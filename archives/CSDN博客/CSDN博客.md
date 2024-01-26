@@ -123,3 +123,15 @@
 
 + [【.NET Core】深入理解任务并行库 (TPL)](https://blog.csdn.net/songjianlong/article/details/135854466)
 
++ [探索Gin框架：快速构建高性能的Golang Web应用](https://blog.csdn.net/qq_35716689/article/details/135783172)
+
++ [【MySQL】内外连接](https://blog.csdn.net/qq_65207641/article/details/135133266)
+
++ [redis漏洞研究](https://blog.csdn.net/zjlgdxzzw/article/details/135826223)
+
++ [程序媛的mac修炼手册-- 如何用Python节省WPS会员费](https://blog.csdn.net/weixin_68568895/article/details/135832374)
+
++ [2024美赛数学建模思路 - 案例：退火算法](https://blog.csdn.net/dc_sinor/article/details/135823758)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/135824510)
+

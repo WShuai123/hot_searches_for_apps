@@ -145,3 +145,27 @@
 
 + [《幻兽帕鲁》新补丁上线打击作弊行为 但很难完全阻止](https://www.3dmgame.com/news/202401/3886987.html)
 
++ [用户发现每月被扣10英镑 英国电信私自为用户开通XGP并收费](https://www.3dmgame.com/news/202401/3887007.html)
+
++ [微软游戏工作室负责人：裁员决定绝非轻易做出](https://www.3dmgame.com/news/202401/3887006.html)
+
++ [《地平线：西之绝境》PC版截图 风景唯美人物逼真](https://www.3dmgame.com/news/202401/3887008.html)
+
++ [《间谍过家家 日记大作战》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202401/3887005.html)
+
++ [《如龙8》Steam特别好评！情怀满满 画面很棒](https://www.3dmgame.com/news/202401/3887004.html)
+
++ [类银河恶魔城游戏《琳：最终之子》 现已在Steam平台正式推出](https://www.3dmgame.com/news/202401/3887003.html)
+
++ [2024年1月还没过去 游戏行业失业人数已超5千](https://www.3dmgame.com/news/202401/3887002.html)
+
++ [《欢迎来到帕拉迪泽》故事预告公开 2月29日发售](https://www.3dmgame.com/news/202401/3886999.html)
+
++ [《蜘蛛夫人：超感觉醒》中国内地定档3月1日](https://www.3dmgame.com/news/202401/3887001.html)
+
++ [角色扮演游戏《不可预知：巫石》 现已在Steam推出抢先体验模式](https://www.3dmgame.com/news/202401/3887000.html)
+
++ [微软彻底放弃实体游戏？整个Xbox实体部门全员被裁](https://www.3dmgame.com/news/202401/3886998.html)
+
++ [GOG喜加一！策略游戏《莫德海姆：诅咒之城》免费领取](https://www.3dmgame.com/news/202401/3886997.html)
+
