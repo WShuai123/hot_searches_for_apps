@@ -29,3 +29,5 @@
 
 + [华为全能充电器（Max 100W）上架官网，USB-A / C 融合端口](https://m.ithome.com/html/747494.htm)
 
++ [少 4 个 E 核性能依然能打，中国大陆特供版英特尔酷睿 i7-14790F 处理器跑分曝光](https://m.ithome.com/html/747454.htm)
+
