@@ -117,3 +117,43 @@
 
 + [YeyPin](https://www.producthunt.com/posts/yeypin)
 
++ [SmartBudget](https://www.producthunt.com/posts/smartbudget)
+
++ [Gustabot](https://www.producthunt.com/posts/gustabot)
+
++ [Elevator Pitch Generator](https://www.producthunt.com/posts/elevator-pitch-generator)
+
++ [GroupSync](https://www.producthunt.com/posts/groupsync)
+
++ [Spooky AI's Human API](https://www.producthunt.com/posts/spooky-ai-s-human-api)
+
++ [here.fm](https://www.producthunt.com/posts/here-fm)
+
++ [Mystery Search](https://www.producthunt.com/posts/mystery-search-3)
+
++ [Amicons](https://www.producthunt.com/posts/amicons)
+
++ [Fouita](https://www.producthunt.com/posts/fouita)
+
++ [The Lost Manual](https://www.producthunt.com/posts/the-lost-manual)
+
++ [Sune AI](https://www.producthunt.com/posts/sune-ai)
+
++ [EasyTranscribe](https://www.producthunt.com/posts/easytranscribe)
+
++ [Readvox - Natural voice text to speech](https://www.producthunt.com/posts/readvox-natural-voice-text-to-speech)
+
++ [WishSpace](https://www.producthunt.com/posts/wishspace)
+
++ [Pricing Page Generator](https://www.producthunt.com/posts/pricing-page-generator)
+
++ [Auro: AI Dream Journal](https://www.producthunt.com/posts/auro-ai-dream-journal)
+
++ [Paywall Removers](https://www.producthunt.com/posts/paywall-removers)
+
++ [better mind](https://www.producthunt.com/posts/better-mind)
+
++ [Opendraft](https://www.producthunt.com/posts/opendraft)
+
++ [Linearity Move](https://www.producthunt.com/posts/linearity-move)
+

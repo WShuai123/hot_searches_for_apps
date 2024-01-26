@@ -153,3 +153,13 @@
 
 + [【Linux】进程信号](https://blog.csdn.net/VHhhbb/article/details/135854896)
 
++ [引领未来：云原生在产品、架构与商业模式中的创新与应用](https://blog.csdn.net/qq_32682301/article/details/135849870)
+
++ [【赠书第19期】跨平台机器学习：ML.NET架构及应用编程](https://blog.csdn.net/qq_20016593/article/details/135731331)
+
++ [图像分割综述](https://blog.csdn.net/Alatengmiaomiao/article/details/135855987)
+
++ [【送书活动八期】docker容器中登陆并操作postgresql](https://blog.csdn.net/m0_37482190/article/details/135829824)
+
++ [Android拍照的方式：调用系统相机、自定义 Camera](https://blog.csdn.net/this_is_bug/article/details/135767361)
+

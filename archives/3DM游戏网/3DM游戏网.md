@@ -209,3 +209,13 @@
 
 + [《荣耀战魂》庆祝3500万玩家数达成 瓦兰吉卫队官方玩法预告公布](https://www.3dmgame.com/news/202401/3887023.html)
 
++ [《我和美女有个约会》发售：售价26元 又被美女包围](https://www.3dmgame.com/news/202401/3887033.html)
+
++ [《奇异贤伴：爱达之歌》定制演示预告 发售日待定](https://www.3dmgame.com/news/202401/3887029.html)
+
++ [深地系列PLAYSTATION®5 主机盖1月26日起在中国大陆市场发售](https://www.3dmgame.com/news/202401/3887032.html)
+
++ [苹果才是真正的第一！各大机构2023年中国手机排名统计](https://www.3dmgame.com/news/202401/3887031.html)
+
++ [动视大锤工作室30%被裁员 办公场所搬迁后缩小](https://www.3dmgame.com/news/202401/3887030.html)
+

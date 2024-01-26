@@ -45,3 +45,5 @@
 
 + [苹果 2024 春节短片《小蒜头》官宣：范伟主演，iPhone 15 Pro Max 拍摄](https://m.ithome.com/html/747392.htm)
 
++ [社保卡到 2027 年基本实现全国“一卡通”](https://m.ithome.com/html/747384.htm)
+
