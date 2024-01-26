@@ -61,3 +61,5 @@
 
 + [华为 Mate 60 手机成功模拟测试卫星互联网，中国移动“星元系统”下行速率 5Mbps](https://m.ithome.com/html/747489.htm)
 
++ [保时捷汽车官宣奥运冠军谷爱凌为全球代言人](https://m.ithome.com/html/747450.htm)
+

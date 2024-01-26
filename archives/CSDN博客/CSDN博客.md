@@ -177,3 +177,11 @@
 
 + [体验华为云对话机器人服务 CBS](https://blog.csdn.net/weixin_62951900/article/details/135868244)
 
++ [【SpringBoot篇】springboot的自动装配原理](https://blog.csdn.net/m0_72853403/article/details/135864375)
+
++ [机器学习 | 深入探索Numpy的高性能计算能力](https://blog.csdn.net/qq_53123067/article/details/135829127)
+
++ [初推开C++的大门](https://blog.csdn.net/ZCYchecking/article/details/135826575)
+
++ [【VBA代码解决方案】md文档转Word后，全自动转换为标准的Word公式格式](https://blog.csdn.net/wtyuong/article/details/135770837)
+
