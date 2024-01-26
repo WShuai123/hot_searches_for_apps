@@ -147,3 +147,7 @@
 
 + [WebSocket实现HTML+SpringBoot聊天功能，小程序+SpringBoot聊天功能](https://blog.csdn.net/m0_59799878/article/details/135848862)
 
++ [为什么时序逻辑电路会落后一拍？](https://blog.csdn.net/wuzhikaidetb/article/details/135857990)
+
++ [OpenHarmony开发——GN快速上手](https://blog.csdn.net/weixin_61845324/article/details/135854031)
+

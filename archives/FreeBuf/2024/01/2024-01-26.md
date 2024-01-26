@@ -53,3 +53,5 @@
 
 + [Gartner：企业安全体系常见四大误区](https://www.freebuf.com/news/390752.html)
 
++ [如何使用IaC Scan Runner扫描IaC中的常见安全漏洞](https://www.freebuf.com/sectool/389427.html)
+
