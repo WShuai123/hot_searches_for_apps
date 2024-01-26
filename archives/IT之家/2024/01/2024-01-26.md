@@ -49,3 +49,9 @@
 
 + [苹果 CarPlay 2.0 新截图曝光：新增 8 款应用、引入“再见”屏幕、丰富配色选择](https://m.ithome.com/html/747394.htm)
 
++ [微信安卓版 8.0.46 最新官方正式版更新内容汇总：变瘦了也变秀了](https://m.ithome.com/html/747400.htm)
+
++ [“非洲之王”传音年终奖多发 30%：2023 年全球智能手机出货量第五，利润增超 120%](https://m.ithome.com/html/747381.htm)
+
++ [在大陆扭完秧歌后，英伟达 CEO 黄仁勋会见台积电两大人物](https://m.ithome.com/html/747306.htm)
+

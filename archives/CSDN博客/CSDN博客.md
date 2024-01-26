@@ -165,3 +165,5 @@
 
 + [Java事务的传播](https://blog.csdn.net/weixin_44976692/article/details/135855780)
 
++ [ChatGPT 和文心一言 | 两大AI助手哪个更胜一筹](https://blog.csdn.net/m0_75058342/article/details/135870057)
+

@@ -157,3 +157,11 @@
 
 + [Linearity Move](https://www.producthunt.com/posts/linearity-move)
 
++ [Clipfly](https://www.producthunt.com/posts/clipfly)
+
++ [Free Calendar Dashboard](https://www.producthunt.com/posts/free-calendar-dashboard)
+
++ [Organiser](https://www.producthunt.com/posts/organiser)
+
++ [SMTPedia](https://www.producthunt.com/posts/smtpedia)
+
