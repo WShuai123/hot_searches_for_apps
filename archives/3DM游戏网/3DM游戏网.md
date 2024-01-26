@@ -237,3 +237,11 @@
 
 + [苹果将成为台积电2nm首批客户 预计会在iPhone 17系列首发](https://www.3dmgame.com/news/202401/3887042.html)
 
++ [新版《威龙杀阵》发预告 《史密斯夫妇》导演执导](https://www.3dmgame.com/news/202401/3887046.html)
+
++ [暴雪生存新作被砍 背后原因是引擎技术问题](https://www.3dmgame.com/news/202401/3887044.html)
+
++ [大众汽车公布在华2030年目标：将推出至少30款纯电动车](https://www.3dmgame.com/news/202401/3887045.html)
+
++ [分析师预测Switch 2将搭载8英寸LCD屏幕 任天堂有史以来屏幕最大的掌机](https://www.3dmgame.com/news/202401/3887043.html)
+

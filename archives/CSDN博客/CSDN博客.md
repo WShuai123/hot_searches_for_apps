@@ -175,3 +175,5 @@
 
 + [DataKit迁移MySQL到openGauss](https://blog.csdn.net/GaussDB/article/details/135865536)
 
++ [体验华为云对话机器人服务 CBS](https://blog.csdn.net/weixin_62951900/article/details/135868244)
+
