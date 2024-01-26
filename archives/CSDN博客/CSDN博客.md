@@ -145,3 +145,5 @@
 
 + [Vue3 watch与watchEffect区别](https://blog.csdn.net/csdn9_14/article/details/135843442)
 
++ [WebSocket实现HTML+SpringBoot聊天功能，小程序+SpringBoot聊天功能](https://blog.csdn.net/m0_59799878/article/details/135848862)
+
