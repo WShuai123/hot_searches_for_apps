@@ -31,3 +31,5 @@
 
 + [少 4 个 E 核性能依然能打，中国大陆特供版英特尔酷睿 i7-14790F 处理器跑分曝光](https://m.ithome.com/html/747454.htm)
 
++ [霉霉再成 Deepfake 受害者，AI“不雅照”被疯狂传播，粉丝网友全都怒了](https://m.ithome.com/html/747520.htm)
+
