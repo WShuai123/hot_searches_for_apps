@@ -135,3 +135,7 @@
 
 + [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/135824510)
 
++ [MySQL（七）MySQL和Oracle、PostgreSQL的区别](https://blog.csdn.net/m0_37741420/article/details/135824323)
+
++ [2024年美赛数学建模思路 - 案例：退火算法](https://blog.csdn.net/math_assistant/article/details/135824646)
+

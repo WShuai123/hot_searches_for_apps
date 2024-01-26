@@ -33,3 +33,7 @@
 
 + [马斯克对特斯拉在日本表现不佳感到恼火，称当地市场“缺乏认识”](https://m.ithome.com/html/747271.htm)
 
++ [马斯克：很乐见向中国车企授权充电和 FSD 技术](https://m.ithome.com/html/747308.htm)
+
++ [256G 升杯 512G + 赠 6 折保值换新等：三星 S24 系列手机京东预售](https://m.ithome.com/html/747283.htm)
+

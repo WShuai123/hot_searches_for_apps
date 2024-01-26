@@ -169,3 +169,11 @@
 
 + [GOG喜加一！策略游戏《莫德海姆：诅咒之城》免费领取](https://www.3dmgame.com/news/202401/3886997.html)
 
++ [鹰角买断制新作《来自星尘》AppStore页面上线 2月27日推出](https://www.3dmgame.com/news/202401/3887009.html)
+
++ [异步冒险游戏《幻影深渊》正式版上线 在神庙的一百万种死法](https://www.3dmgame.com/news/202401/3887010.html)
+
++ [《铁拳8》联机人数过多出现BUG 官方正在调查](https://www.3dmgame.com/news/202401/3887011.html)
+
++ [《侠探杰克》主演透露第三季剧情将来自原著第七本书](https://www.3dmgame.com/news/202401/3887012.html)
+
