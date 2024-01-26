@@ -139,3 +139,9 @@
 
 + [2024年美赛数学建模思路 - 案例：退火算法](https://blog.csdn.net/math_assistant/article/details/135824646)
 
++ [redis-发布&缓存](https://blog.csdn.net/weixin_64742030/article/details/135815613)
+
++ [1分钟部署幻兽帕鲁联机服务，PalWorld服务器搭建教程（阿里云）](https://blog.csdn.net/u012513463/article/details/135826395)
+
++ [Vue3 watch与watchEffect区别](https://blog.csdn.net/csdn9_14/article/details/135843442)
+

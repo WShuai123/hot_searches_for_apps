@@ -177,3 +177,13 @@
 
 + [《侠探杰克》主演透露第三季剧情将来自原著第七本书](https://www.3dmgame.com/news/202401/3887012.html)
 
++ [RTX4070Ti SUPER在德国首战告捷 销量9倍于AMD新卡](https://www.3dmgame.com/news/202401/3887017.html)
+
++ [玩家缅怀任天堂前社长岩田聪：自己降薪也不愿裁员](https://www.3dmgame.com/news/202401/3887016.html)
+
++ [未来游戏展2024春季发布会将于3月21日开启](https://www.3dmgame.com/news/202401/3887015.html)
+
++ [战略游戏《玩具帝国》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887014.html)
+
++ [裁员同一天 微软成为第二个市值破3万亿美元公司](https://www.3dmgame.com/news/202401/3887013.html)
+
