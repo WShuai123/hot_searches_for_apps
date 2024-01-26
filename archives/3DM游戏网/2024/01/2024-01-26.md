@@ -111,3 +111,17 @@
 
 + [《地平线：西之绝境》完整版3/21登陆PC 支持DLSS3](https://www.3dmgame.com/news/202401/3886976.html)
 
++ [苹果改变立场 允许游戏串流App登陆iOS](https://www.3dmgame.com/news/202401/3886986.html)
+
++ [微软裁员暴雪总裁挥泪告别 暴雪奥德赛项目被砍](https://www.3dmgame.com/news/202401/3886985.html)
+
++ [2月2日发售《女神异闻录3：Reload》公布战斗策略视频](https://www.3dmgame.com/news/202401/3886984.html)
+
++ [复古风格2D动作游戏《狂暴小子》确定3月7日发售](https://www.3dmgame.com/news/202401/3886983.html)
+
++ [亦正亦邪《自杀小队：杀死正义联盟》豪华版预告](https://www.3dmgame.com/news/202401/3886982.html)
+
++ [《最终幻想7：重制版》回顾视频发布 为《最终幻想6：重生》发售做准备](https://www.3dmgame.com/news/202401/3886981.html)
+
++ [《火影忍者博人传：新忍出击》新增少年我爱罗](https://www.3dmgame.com/news/202401/3886980.html)
+
