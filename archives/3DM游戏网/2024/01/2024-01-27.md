@@ -109,3 +109,9 @@
 
 + [《女神异闻录3：Reload》前50分钟实机游戏视频分享](https://www.3dmgame.com/news/202401/3887053.html)
 
++ [NVIDIA在全球AI芯片市场份额高达90%](https://www.3dmgame.com/news/202401/3887056.html)
+
++ [《自杀小队：战胜正义联盟》阿奈特真人预告片展示](https://www.3dmgame.com/news/202401/3887055.html)
+
++ [《碧蓝幻想：Relink》最新CM广告公布 冒险开始](https://www.3dmgame.com/news/202401/3887054.html)
+
