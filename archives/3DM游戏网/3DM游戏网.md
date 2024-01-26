@@ -101,3 +101,9 @@
 
 + [《蜘蛛夫人：超感觉醒》中国内地定档3月1日](https://www.3dmgame.com/news/202401/3887001.html)
 
++ [《如龙8》Steam峰值系列最高 超34000人在线](https://www.3dmgame.com/news/202401/3887051.html)
+
++ [《碧蓝幻想：RELINK》试玩下载量突破60万 听取玩家修改意见](https://www.3dmgame.com/news/202401/3887052.html)
+
++ [《赛博朋克2077》下周继续更新 解决常见bug](https://www.3dmgame.com/news/202401/3887050.html)
+

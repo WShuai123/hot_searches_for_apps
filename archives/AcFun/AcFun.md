@@ -65,3 +65,5 @@
 
 + [老板教我的配方，据说值1000块？你们帮我看看值不值](http://www.acfun.cn/v/ac43624344)
 
++ [拉克丝cos 高达seed 爷青回！](http://www.acfun.cn/v/ac43616031)
+

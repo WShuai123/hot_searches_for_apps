@@ -27,3 +27,5 @@
 
 + [消息称小米汽车北京首家 2S 店落地博瑞汽车园，原为东风日产 4S 店](https://m.ithome.com/html/747430.htm)
 
++ [华为全能充电器（Max 100W）上架官网，USB-A / C 融合端口](https://m.ithome.com/html/747494.htm)
+
