@@ -191,3 +191,21 @@
 
 + [类幸存者结合塔防建造游戏《荒野军团》将于1月26日正式发售](https://www.3dmgame.com/news/202401/3887018.html)
 
++ [苹果开放侧载Epic不买单 斯威尼：改动很垃圾](https://www.3dmgame.com/news/202401/3887028.html)
+
++ [无兄弟，不Dota! KK对战平台Dota 6.83 S1赛季震撼开启！](https://www.3dmgame.com/news/202401/3887026.html)
+
++ [SHONEN JUMP CAFE 成都店今日正式开业](https://www.3dmgame.com/news/202401/3887027.html)
+
++ [剧情冒险游戏《失踪的偶像》现已更新试玩Demo 2月19日发行](https://www.3dmgame.com/news/202401/3887025.html)
+
++ [世界首个！我国第三代核电站海阳核电发电超千亿度](https://www.3dmgame.com/news/202401/3887024.html)
+
++ [幻兽帕鲁搭建自己的服务器和好友一起联机玩成主流](https://www.3dmgame.com/news/202401/3887022.html)
+
++ [前暴雪设计师透露：前员工新工作室寻投资很难](https://www.3dmgame.com/news/202401/3887021.html)
+
++ [《碧海黑帆》25分钟实机 2月16日发售](https://www.3dmgame.com/news/202401/3887020.html)
+
++ [《荣耀战魂》庆祝3500万玩家数达成 瓦兰吉卫队官方玩法预告公布](https://www.3dmgame.com/news/202401/3887023.html)
+

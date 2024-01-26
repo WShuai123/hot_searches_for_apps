@@ -103,3 +103,17 @@
 
 + [Steve AI 2.0](https://www.producthunt.com/posts/steve-ai-2-0)
 
++ [Spotify Campaign Kit](https://www.producthunt.com/posts/spotify-campaign-kit)
+
++ [SellScale Email Grader](https://www.producthunt.com/posts/sellscale-email-grader)
+
++ [Glassfy](https://www.producthunt.com/posts/glassfy)
+
++ [Word Hunter](https://www.producthunt.com/posts/word-hunter-3)
+
++ [DataLang](https://www.producthunt.com/posts/datalang)
+
++ [Deckpilot](https://www.producthunt.com/posts/deckpilot)
+
++ [YeyPin](https://www.producthunt.com/posts/yeypin)
+

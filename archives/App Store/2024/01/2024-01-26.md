@@ -213,3 +213,7 @@
 
 + [西瓜视频 - 欢笑中国年](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [通义千问 - 你的超级AI助手](https://itunes.apple.com/cn/app/id6466733523?mt=8)
+
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+

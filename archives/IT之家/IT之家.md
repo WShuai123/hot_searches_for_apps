@@ -43,3 +43,5 @@
 
 + [大众、小鹏今年将合作生产两款 B 级车，何小鹏称双方合作“非常高效”](https://m.ithome.com/html/747207.htm)
 
++ [苹果 2024 春节短片《小蒜头》官宣：范伟主演，iPhone 15 Pro Max 拍摄](https://m.ithome.com/html/747392.htm)
+
