@@ -125,3 +125,23 @@
 
 + [《火影忍者博人传：新忍出击》新增少年我爱罗](https://www.3dmgame.com/news/202401/3886980.html)
 
++ [《堕灭暴徒》波兰开发商Reikon Games裁员80%](https://www.3dmgame.com/news/202401/3886988.html)
+
++ [Xbox商店首页推出新分区 单独展示精选独立游戏](https://www.3dmgame.com/news/202401/3886996.html)
+
++ [1月份国产网络游戏审批信息 《纪元变异》、《我的三体：2277》等](https://www.3dmgame.com/news/202401/3886995.html)
+
++ [《碧海黑帆》全新预告“第一年路线图” 2月16日发售](https://www.3dmgame.com/news/202401/3886989.html)
+
++ [《铁拳8》首发出现全平台在线崩溃问题](https://www.3dmgame.com/news/202401/3886994.html)
+
++ [暴雪被取消的《奥德赛》开发6年之久 受到员工高度赞扬](https://www.3dmgame.com/news/202401/3886993.html)
+
++ [由于欧盟对苹果做出的调整 《堡垒之夜》有望在今年重返iOS](https://www.3dmgame.com/news/202401/3886992.html)
+
++ [工会称微软裁员并未影响其所代表的成员](https://www.3dmgame.com/news/202401/3886991.html)
+
++ [官方整活 最为致命 《沙盒与副本：英勇之地》会是下一个究极缝合怪吗？](https://www.3dmgame.com/news/202401/3886990.html)
+
++ [《幻兽帕鲁》新补丁上线打击作弊行为 但很难完全阻止](https://www.3dmgame.com/news/202401/3886987.html)
+

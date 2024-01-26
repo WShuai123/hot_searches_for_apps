@@ -27,3 +27,7 @@
 
 + [小米 Redmi Note 13 Pro 新春特别版手机开售，1399 元起](https://m.ithome.com/html/747132.htm)
 
++ [【IT之家评测室】三星 Galaxy S24 Ultra 深度体验：安卓机皇？是更懂你的安卓机皇](https://m.ithome.com/html/747298.htm)
+
++ [苹果 iOS 17.4 Beta 1 发布：27 个欧洲国家 3 月将支持侧载、第三方应用市场、非 WebKit 引擎浏览器等](https://m.ithome.com/html/747311.htm)
+
