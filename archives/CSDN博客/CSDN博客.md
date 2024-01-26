@@ -167,3 +167,9 @@
 
 + [ChatGPT 和文心一言 | 两大AI助手哪个更胜一筹](https://blog.csdn.net/m0_75058342/article/details/135870057)
 
++ [Azure AI - 沉浸式阅读器，阅读障碍用户福音](https://blog.csdn.net/magicyangjay111/article/details/135870599)
+
++ [分享7种SQL的进阶用法](https://blog.csdn.net/weixin_42662955/article/details/135856128)
+
++ [探索HTMLx：强大的HTML工具](https://blog.csdn.net/lecepin/article/details/135853506)
+

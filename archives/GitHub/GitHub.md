@@ -51,3 +51,41 @@
 
 + [Kong / kong](https://github.com/Kong/kong)
 
++ [goenning / google-indexing-script](https://github.com/goenning/google-indexing-script)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
++ [federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
++ [NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
+
++ [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
++ [swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
++ [CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [Cysharp / UniTask](https://github.com/Cysharp/UniTask)
+
++ [projectdiscovery / cvemap](https://github.com/projectdiscovery/cvemap)
+
++ [madler / zlib](https://github.com/madler/zlib)
+
++ [dair-ai / ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+

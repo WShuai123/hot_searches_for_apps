@@ -235,3 +235,5 @@
 
 + [机智号火星直升机“摔断翅膀” NASA宣布任务结束](https://www.3dmgame.com/news/202401/3887034.html)
 
++ [苹果将成为台积电2nm首批客户 预计会在iPhone 17系列首发](https://www.3dmgame.com/news/202401/3887042.html)
+
