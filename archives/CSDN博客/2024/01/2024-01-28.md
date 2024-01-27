@@ -101,3 +101,11 @@
 
 + [带【科技感】的Echarts 图表](https://blog.csdn.net/weixin_45820444/article/details/135827155)
 
++ [【深度学习】【注意力机制】【自然语言处理】【图像识别】深度学习中的注意力机制详解、self-attention](https://blog.csdn.net/kiong_/article/details/135856961)
+
++ [Gateway服务网关](https://blog.csdn.net/KYGALYX/article/details/135840206)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/135874472)
+
++ [电流检测电路设计方案汇总](https://blog.csdn.net/qq_65102825/article/details/135097191)
+
