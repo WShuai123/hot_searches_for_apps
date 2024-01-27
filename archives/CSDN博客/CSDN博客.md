@@ -151,3 +151,5 @@
 
 + [人工智能：更多有用的 Python 库](https://blog.csdn.net/m0_68662723/article/details/135878855)
 
++ [Ubuntu使用Docker部署Redis并实现远程访问本地数据库](https://blog.csdn.net/qq_57761637/article/details/135878617)
+

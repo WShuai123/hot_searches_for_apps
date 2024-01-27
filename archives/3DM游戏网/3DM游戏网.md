@@ -171,3 +171,19 @@
 
 + [《极限竞速：Motorsport》更新细节公布 大幅优化性能](https://www.3dmgame.com/news/202401/3887081.html)
 
++ [好莱坞最佳好友再次聚首 大本执导达蒙网飞悬疑新片](https://www.3dmgame.com/news/202401/3887089.html)
+
++ [《都市传说解体中心》台北电玩展实机演示 发售日待定](https://www.3dmgame.com/news/202401/3887092.html)
+
++ [开发者对苹果Vision Pro缺乏热情：业内人士解释原因](https://www.3dmgame.com/news/202401/3887091.html)
+
++ [《绝地求生》发行商遭离职员工起诉 称被性侵后反遭解雇](https://www.3dmgame.com/news/202401/3887090.html)
+
++ [《自杀小队：战胜正义联盟》不会让玩家在游戏里打工](https://www.3dmgame.com/news/202401/3887088.html)
+
++ [《伊苏X -北境历险-》简中Steam预告 3月14日正式发售](https://www.3dmgame.com/news/202401/3887086.html)
+
++ [《铁拳8》首发崩溃问题已经修复 官方发布公告致歉](https://www.3dmgame.com/news/202401/3887087.html)
+
++ [恐怖钓鱼游戏《Drowned Lake》台北电玩展试玩实机 支持简中](https://www.3dmgame.com/news/202401/3887084.html)
+

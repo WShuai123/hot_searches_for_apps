@@ -117,3 +117,11 @@
 
 + [Wonderful.Dev](https://www.producthunt.com/posts/wonderful-dev)
 
++ [Maika Assistant 1.0](https://www.producthunt.com/posts/maika-assistant-1-0)
+
++ [Project Plan Generator](https://www.producthunt.com/posts/project-plan-generator)
+
++ [Blossom Social](https://www.producthunt.com/posts/blossom-social)
+
++ [Letterly](https://www.producthunt.com/posts/letterly-2)
+

@@ -47,3 +47,11 @@
 
 + [80 家店一夜关闭，2024 年第一颗雷，砸向 4S 店](https://m.ithome.com/html/747556.htm)
 
++ [国家邮政局约谈极兔速递：连续使用抽检不合格集装袋](https://m.ithome.com/html/747516.htm)
+
++ [千叮咛万嘱咐：欧盟警告苹果公司，若 App Store 新规调整不力将面临“严厉处罚”](https://m.ithome.com/html/747508.htm)
+
++ [传音内部人士回应年终奖多发 30%：每年都有调整，网传文件非公司内部发文](https://m.ithome.com/html/747497.htm)
+
++ [“裁员滚滚”？数据显示本月已有 80 多家科技公司宣布裁员，超 2 万名员工受影响](https://m.ithome.com/html/747488.htm)
+
