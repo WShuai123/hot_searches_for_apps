@@ -35,3 +35,7 @@
 
 + [第三方苹果 iOS 应用商店 AltStore 宣布启动“合法化”进程：欧洲朋友们三月见](https://m.ithome.com/html/747503.htm)
 
++ [Canalys：2023 年 Q4 中国大陆智能手机出货 7390 万台，华为增 47% 回归前四](https://m.ithome.com/html/747449.htm)
+
++ [小米上架 60W USB-C 2.0 快充线：白色外观、1 米线长，售 19 元](https://m.ithome.com/html/747421.htm)
+

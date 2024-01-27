@@ -151,3 +151,7 @@
 
 + [跨纬度风险来袭 《非生物因素》上市宣传片发布](https://www.3dmgame.com/news/202401/3887073.html)
 
++ [《漫威蜘蛛侠2》日本周销第一多为PS5捆绑：兑换码被低价甩卖](https://www.3dmgame.com/news/202401/3887076.html)
+
++ [《幻兽帕鲁》开发者：《方舟生存》式“开放PvP”是陷阱](https://www.3dmgame.com/news/202401/3887075.html)
+
