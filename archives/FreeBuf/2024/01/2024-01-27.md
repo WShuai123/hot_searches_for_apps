@@ -43,3 +43,7 @@
 
 + [红队如何在Web的PDF生成器中识别和检测SSRF](https://www.freebuf.com/articles/network/390394.html)
 
++ [前端JS加密与Buspsuite的坦诚相待](https://www.freebuf.com/articles/network/390264.html)
+
++ [FreeBuf 周报 | 2024年密码泄露王炸；苹果等科技巨头漏洞被大量应用](https://www.freebuf.com/news/390797.html)
+

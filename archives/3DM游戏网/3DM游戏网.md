@@ -117,3 +117,9 @@
 
 + [《霍格沃茨之遗》销量已超2400万套](https://www.3dmgame.com/news/202401/3887057.html)
 
++ [《真人快打1》销量超过300万套 IP价值达10亿美元](https://www.3dmgame.com/news/202401/3887058.html)
+
++ [模型组装游戏《Tranquil Builds》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3887059.html)
+
++ [《浩劫前夕》开发商公告引大量不满 现已删除推文](https://www.3dmgame.com/news/202401/3887060.html)
+

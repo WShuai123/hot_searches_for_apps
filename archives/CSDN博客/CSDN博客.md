@@ -127,3 +127,5 @@
 
 + [【域名解析】如何将域名指向对应服务器IP](https://blog.csdn.net/m0_57532432/article/details/135855421)
 
++ [OpenAI API 的最新动态：新一代的嵌入模型，更新 GPT-4 Turbo，更新 GPT-3.5 Turbo 以及降低 API 价格](https://blog.csdn.net/fyfugoyfa/article/details/135869287)
+
