@@ -129,3 +129,5 @@
 
 + [OpenAI API 的最新动态：新一代的嵌入模型，更新 GPT-4 Turbo，更新 GPT-3.5 Turbo 以及降低 API 价格](https://blog.csdn.net/fyfugoyfa/article/details/135869287)
 
++ [UE4运用C++和框架开发坦克大战教程笔记（十六）（第49~50集）](https://blog.csdn.net/q446013924/article/details/135778317)
+

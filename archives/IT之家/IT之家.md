@@ -33,3 +33,5 @@
 
 + [霉霉再成 Deepfake 受害者，AI“不雅照”被疯狂传播，粉丝网友全都怒了](https://m.ithome.com/html/747520.htm)
 
++ [第三方苹果 iOS 应用商店 AltStore 宣布启动“合法化”进程：欧洲朋友们三月见](https://m.ithome.com/html/747503.htm)
+
