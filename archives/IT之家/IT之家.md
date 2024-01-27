@@ -71,3 +71,5 @@
 
 + [国产大飞机 C919 春运首秀“成绩单”来了：顺利执行 10 个航班，承运 1274 名旅客](https://m.ithome.com/html/747591.htm)
 
++ [消息称 vivo X100 Pro + 手机 Q2 发布，新款折叠屏 3 月登场](https://m.ithome.com/html/747595.htm)
+
