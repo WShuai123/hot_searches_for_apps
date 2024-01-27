@@ -51,3 +51,43 @@
 
 + [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 
++ [byoungd / English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [ZHO-ZHO-ZHO / ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)
+
++ [state-spaces / mamba](https://github.com/state-spaces/mamba)
+
++ [dotnet / maui](https://github.com/dotnet/maui)
+
++ [nuxt / nuxt](https://github.com/nuxt/nuxt)
+
++ [joevess / IPTV](https://github.com/joevess/IPTV)
+
++ [psf / black](https://github.com/psf/black)
+
++ [andrewnguonly / Lumos](https://github.com/andrewnguonly/Lumos)
+
++ [Ayushparikh-code / Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
+
++ [LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
+
++ [tiny-craft / tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+
++ [lencx / Noi](https://github.com/lencx/Noi)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN)
+
++ [iusztinpaul / hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
+
++ [denoland / deno](https://github.com/denoland/deno)
+
++ [kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
++ [a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack)
+
++ [xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+

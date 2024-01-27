@@ -59,3 +59,11 @@
 
 + [小米新款平板曝光：12.45 英寸 LCD 屏，骁龙 8 Gen 2 处理器](https://m.ithome.com/html/747575.htm)
 
++ [移除古老“立即安装”界面，微软优化 Win11 装机体验](https://m.ithome.com/html/747570.htm)
+
++ [京东集团原副总裁，蔡磊夫妇捐助 1 亿元攻克渐冻症](https://m.ithome.com/html/747567.htm)
+
++ [Wi-Fi 7 全面落地，短距离通信市场有望爆发](https://m.ithome.com/html/747561.htm)
+
++ [雷军分享小米 SU7 车型黑河冬测视频，展示漂移过弯](https://m.ithome.com/html/747593.htm)
+

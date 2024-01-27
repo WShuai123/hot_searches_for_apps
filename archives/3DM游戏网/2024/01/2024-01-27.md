@@ -195,3 +195,5 @@
 
 + [《星露谷物语》1.6版更新档规模将比预想中更大](https://www.3dmgame.com/news/202401/3887093.html)
 
++ [首批苹果Vision Pro发货：从上海出发到美国](https://www.3dmgame.com/news/202401/3887097.html)
+
