@@ -41,3 +41,5 @@
 
 + [暴雪中国回应全球裁员：部分同事受影响，恢复国服运营是目前工作重点之一](https://m.ithome.com/html/747417.htm)
 
++ [5G 与 4G 信号同覆盖，中国移动与华为研发 700MHz / 900MHz 双频双模基站](https://m.ithome.com/html/747492.htm)
+

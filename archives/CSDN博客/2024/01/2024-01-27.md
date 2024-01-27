@@ -141,3 +141,11 @@
 
 + [拓展全球市场：静态代理IP成为跨境电商战略的关键工具](https://blog.csdn.net/m0_64336780/article/details/135860809)
 
++ [C++23种设计模式&软件设计模型](https://blog.csdn.net/m0_74036006/article/details/135831844)
+
++ [Spring Boot如何统计一个Bean中方法的调用次数](https://blog.csdn.net/qq_62262918/article/details/135855344)
+
++ [【机组】基于FPGA的32位算术逻辑运算单元的设计（EP2C5扩充选配类）](https://blog.csdn.net/m0_57532432/article/details/135867231)
+
++ [Redis集群](https://blog.csdn.net/2301_78541005/article/details/135864950)
+
