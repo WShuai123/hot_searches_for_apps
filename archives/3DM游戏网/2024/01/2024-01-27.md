@@ -187,3 +187,11 @@
 
 + [恐怖钓鱼游戏《Drowned Lake》台北电玩展试玩实机 支持简中](https://www.3dmgame.com/news/202401/3887084.html)
 
++ [多家公司指责苹果向欧盟的“妥协”问题诸多](https://www.3dmgame.com/news/202401/3887094.html)
+
++ [《超级滑翔翼2》PSVR2版意外发布 厂商自己也懵了](https://www.3dmgame.com/news/202401/3887096.html)
+
++ [Atlus：严禁发售日前发布《P3R》偷跑视频或直播](https://www.3dmgame.com/news/202401/3887095.html)
+
++ [《星露谷物语》1.6版更新档规模将比预想中更大](https://www.3dmgame.com/news/202401/3887093.html)
+

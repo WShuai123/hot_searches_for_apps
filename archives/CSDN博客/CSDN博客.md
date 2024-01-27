@@ -153,3 +153,9 @@
 
 + [Ubuntu使用Docker部署Redis并实现远程访问本地数据库](https://blog.csdn.net/qq_57761637/article/details/135878617)
 
++ [Termux结合内网穿透实现无公网ip远程SFTP传输文件](https://blog.csdn.net/weixin_58070962/article/details/135843841)
+
++ [数据建模分析与数仓维度建模规范](https://blog.csdn.net/weixin_42049123/article/details/135826530)
+
++ [防火墙在企业园区出口安全方案中的应用(ENSP实现)](https://blog.csdn.net/Sakura0156/article/details/135838914)
+
