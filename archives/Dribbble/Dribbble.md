@@ -49,3 +49,21 @@
 
 + [Ancient Philosophers](https://dribbble.com/shots/)
 
++ [Shows I Wish I Went To #2](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [City Perimeter 1](https://dribbble.com/shots/)
+
++ [BBC SCIENCE FOCUS QUIZ - Quetzalcoatlus](https://dribbble.com/shots/)
+
++ [Mr. Burns Devouring His Smithers ????](https://dribbble.com/shots/)
+
++ [Oregon State Park Landscapes](https://dribbble.com/shots/)
+
++ [Coram Deo Church Bremerton (Stained Glass Windows)](https://dribbble.com/shots/)
+
++ [Glyph beer 26](https://dribbble.com/shots/)
+
++ [Seabiscuit](https://dribbble.com/shots/)
+
