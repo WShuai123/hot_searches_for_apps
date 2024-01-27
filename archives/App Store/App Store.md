@@ -217,3 +217,5 @@
 
 + [大润发优鲜-优品质 鲜生活](https://itunes.apple.com/cn/app/id1204634317?mt=8)
 
++ [智学网学生端](https://itunes.apple.com/cn/app/id1448462214?mt=8)
+

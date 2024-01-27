@@ -181,3 +181,13 @@
 
 + [Redis（八）哨兵机制（sentinel）](https://blog.csdn.net/qq_45742250/article/details/135768025)
 
++ [【深度学习】【注意力机制】【自然语言处理】【图像识别】深度学习中的注意力机制详解、self-attention](https://blog.csdn.net/kiong_/article/details/135856961)
+
++ [幻兽帕鲁游戏专用服务器怎么设置进入密码，幻兽帕鲁服务器密码怎么设置](https://blog.csdn.net/weixin_47871217/article/details/135872113)
+
++ [k8s---安全机制](https://blog.csdn.net/qq_61843057/article/details/135847421)
+
++ [【Docker】nacos集群搭建Nginx负载均衡](https://blog.csdn.net/Justw320/article/details/135682647)
+
++ [电流检测电路设计方案汇总](https://blog.csdn.net/qq_65102825/article/details/135097191)
+

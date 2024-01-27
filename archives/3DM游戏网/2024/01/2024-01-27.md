@@ -201,3 +201,9 @@
 
 + [《刺客信条：RED》很快就要和玩家正式见面了](https://www.3dmgame.com/news/202401/3887098.html)
 
++ [4070 Super vs PS5：今天的中端GPU又能强多少？](https://www.3dmgame.com/news/202401/3887102.html)
+
++ [本田纯电新车Prologue海外售价公布：47400美元起](https://www.3dmgame.com/news/202401/3887100.html)
+
++ [三星Galaxy S24系列在韩预购销量高达121万台](https://www.3dmgame.com/news/202401/3887101.html)
+
