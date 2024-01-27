@@ -145,3 +145,9 @@
 
 + [SE打击盗版周边 国内制造分销商受刑事指控](https://www.3dmgame.com/news/202401/3887064.html)
 
++ [粉丝吐槽《地平线》运气差：《西之绝境》PC与《龙之信条2》同期](https://www.3dmgame.com/news/202401/3887074.html)
+
++ [美国科技业今年已大举裁员2万人 却为AI领域疯狂](https://www.3dmgame.com/news/202401/3887072.html)
+
++ [跨纬度风险来袭 《非生物因素》上市宣传片发布](https://www.3dmgame.com/news/202401/3887073.html)
+
