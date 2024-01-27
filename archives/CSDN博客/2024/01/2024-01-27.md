@@ -159,3 +159,11 @@
 
 + [防火墙在企业园区出口安全方案中的应用(ENSP实现)](https://blog.csdn.net/Sakura0156/article/details/135838914)
 
++ [【文本到上下文 #6】Word2Vec、GloVe 和 FastText](https://blog.csdn.net/gongdiwudu/article/details/135855430)
+
++ [缓存问题 | 缓存穿透，缓存击穿，缓存雪崩](https://blog.csdn.net/weixin_52164430/article/details/135871711)
+
++ [uni-app 微信小程序之红包雨活动](https://blog.csdn.net/qq_36410795/article/details/135870059)
+
++ [物联网IOT视频设备如何快速对接阿里云生活物联网(Link Visual)并成功上云？](https://blog.csdn.net/qingfeng812/article/details/135872313)
+

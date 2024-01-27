@@ -57,3 +57,5 @@
 
 + [华为余承东出席北汽智选车项目供应商大会，首款车型有望亮相北京车展](https://m.ithome.com/html/747496.htm)
 
++ [小米新款平板曝光：12.45 英寸 LCD 屏，骁龙 8 Gen 2 处理器](https://m.ithome.com/html/747575.htm)
+
