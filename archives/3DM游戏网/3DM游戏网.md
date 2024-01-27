@@ -197,3 +197,7 @@
 
 + [首批苹果Vision Pro发货：从上海出发到美国](https://www.3dmgame.com/news/202401/3887097.html)
 
++ [《铁拳8》Steam特别好评 峰值是7代的2.5倍](https://www.3dmgame.com/news/202401/3887099.html)
+
++ [《刺客信条：RED》很快就要和玩家正式见面了](https://www.3dmgame.com/news/202401/3887098.html)
+

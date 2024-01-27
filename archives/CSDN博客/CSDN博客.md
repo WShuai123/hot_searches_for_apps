@@ -175,3 +175,9 @@
 
 + [【微服务】微服务架构特征、Eureka注册中心、Ribbon负载均衡](https://blog.csdn.net/weixin_63144583/article/details/135870658)
 
++ [研发日记，Matlab/Simulink避坑指南(六)——字节分割Bug](https://blog.csdn.net/CSSUST/article/details/135879975)
+
++ [2024年华数杯国际数学建模B 光伏电（Problem B: Photovoltaic Power）完整论文](https://blog.csdn.net/weixin_52051317/article/details/135845243)
+
++ [Redis（八）哨兵机制（sentinel）](https://blog.csdn.net/qq_45742250/article/details/135768025)
+
