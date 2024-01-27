@@ -115,3 +115,5 @@
 
 + [《碧蓝幻想：Relink》最新CM广告公布 冒险开始](https://www.3dmgame.com/news/202401/3887054.html)
 
++ [《霍格沃茨之遗》销量已超2400万套](https://www.3dmgame.com/news/202401/3887057.html)
+

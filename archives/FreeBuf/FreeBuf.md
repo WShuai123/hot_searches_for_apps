@@ -41,3 +41,5 @@
 
 + [非人类身份的安全挑战、攻击案例及教训](https://www.freebuf.com/articles/neopoints/389768.html)
 
++ [红队如何在Web的PDF生成器中识别和检测SSRF](https://www.freebuf.com/articles/network/390394.html)
+
