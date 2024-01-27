@@ -43,3 +43,7 @@
 
 + [5G 与 4G 信号同覆盖，中国移动与华为研发 700MHz / 900MHz 双频双模基站](https://m.ithome.com/html/747492.htm)
 
++ [闲鱼 500 不到的游戏机，卖给学校后值 46500 元？](https://m.ithome.com/html/747557.htm)
+
++ [80 家店一夜关闭，2024 年第一颗雷，砸向 4S 店](https://m.ithome.com/html/747556.htm)
+

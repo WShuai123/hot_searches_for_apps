@@ -209,3 +209,7 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [点众小说-热门全本小说阅读器](https://itunes.apple.com/cn/app/id1645273917?mt=8)
+
++ [米家](https://itunes.apple.com/cn/app/id957323480?mt=8)
+
