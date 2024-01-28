@@ -133,3 +133,9 @@
 
 + [使用Opencv-python库读取图像、本地视频和摄像头实时数据](https://blog.csdn.net/ccf19881030/article/details/135876661)
 
++ [【开源】智能视觉组麦轮+OpenMV循赛道](https://blog.csdn.net/yipenmian/article/details/135853946)
+
++ [基于微信安徽合肥失物招领小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135813351)
+
++ [基于yolov5的数据集自动标注功能脚本工具【附代码】](https://blog.csdn.net/z240626191s/article/details/135893989)
+
