@@ -101,3 +101,23 @@
 
 + [YeyPin](https://www.producthunt.com/posts/yeypin)
 
++ [Crewlix](https://www.producthunt.com/posts/crewlix)
+
++ [AI navigator by Nexa AI](https://www.producthunt.com/posts/ai-navigator-by-nexa-ai)
+
++ [LiveChatAI](https://www.producthunt.com/posts/livechatai)
+
++ [ChatGPT Team](https://www.producthunt.com/posts/chatgpt-team)
+
++ [ilcons - 1,100+ illustrated icons](https://www.producthunt.com/posts/ilcons-1-100-illustrated-icons)
+
++ [SpeakSmart](https://www.producthunt.com/posts/speaksmart)
+
++ [RentalRunner](https://www.producthunt.com/posts/rentalrunner)
+
++ [MVP Tester](https://www.producthunt.com/posts/mvp-tester)
+
++ [Leed](https://www.producthunt.com/posts/leed)
+
++ [Ad Roast](https://www.producthunt.com/posts/ad-roast)
+

@@ -175,3 +175,7 @@
 
 + [类Markdown实时绘图编辑器mermaid-live-editor](https://blog.csdn.net/wbsu2004/article/details/135880636)
 
++ [【MySQL】学习如何通过DML更新数据库的数据](https://blog.csdn.net/Aileenvov/article/details/135864022)
+
++ [【word】论文、报告：①插入图表题注，交叉引用②快速插入图表目录③删改后一键更新](https://blog.csdn.net/wtyuong/article/details/135853212)
+

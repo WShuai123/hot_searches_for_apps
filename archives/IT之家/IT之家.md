@@ -37,3 +37,9 @@
 
 + [消息称魅族 21 Pro 手机有望 2 月底推出，目前已三证齐全](https://m.ithome.com/html/747627.htm)
 
++ [比亚迪方程豹发布豹 5 云辇旗舰版延迟交付补贴：500 积分 / 车 / 天](https://m.ithome.com/html/747624.htm)
+
++ [年轻人的第一个多模态大模型：1080Ti 轻松运行，已开源在线可玩](https://m.ithome.com/html/747607.htm)
+
++ [比亚迪元 UP 预扣提车价曝光：401km 续航 12 万元起](https://m.ithome.com/html/747630.htm)
+
