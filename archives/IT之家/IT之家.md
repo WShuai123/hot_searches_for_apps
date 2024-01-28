@@ -47,3 +47,7 @@
 
 + [保时捷高管：欧洲 2035 年燃油车禁令可能会被推迟，欧洲人当前不愿买电车](https://m.ithome.com/html/747620.htm)
 
++ [李想：理想汽车不会请明星代言，尝试将产品植入综艺、电影、电视剧](https://m.ithome.com/html/747640.htm)
+
++ [中国老板在泰国](https://m.ithome.com/html/747661.htm)
+

@@ -159,3 +159,5 @@
 
 + [《吸血鬼：避世血族2》将呈现身临其境的战斗](https://www.3dmgame.com/news/202401/3887131.html)
 
++ [《合成大西瓜》开发者访谈 下一部游戏透露](https://www.3dmgame.com/news/202401/3887132.html)
+
