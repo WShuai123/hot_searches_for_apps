@@ -51,3 +51,41 @@
 
 + [langgenius / dify](https://github.com/langgenius/dify)
 
++ [leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton)
+
++ [federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [cheahjs / palworld-save-tools](https://github.com/cheahjs/palworld-save-tools)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [bevyengine / bevy](https://github.com/bevyengine/bevy)
+
++ [FalconForceTeam / SOAPHound](https://github.com/FalconForceTeam/SOAPHound)
+
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
++ [leptonai / leptonai](https://github.com/leptonai/leptonai)
+
++ [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+
++ [ytdl-org / youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
++ [Rapha-Borges / oke-free](https://github.com/Rapha-Borges/oke-free)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+
++ [kroma-network / tachyon](https://github.com/kroma-network/tachyon)
+
++ [Ucas-HaoranWei / Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy)
+
++ [tree-sitter / tree-sitter](https://github.com/tree-sitter/tree-sitter)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+

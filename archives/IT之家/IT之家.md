@@ -51,3 +51,7 @@
 
 + [中国老板在泰国](https://m.ithome.com/html/747661.htm)
 
++ [中央气象台：春节前 10 省预计出现暴雪或大暴雪，雨雪持续时间为今冬以来最长](https://m.ithome.com/html/747693.htm)
+
++ [特斯拉赛博越野旅行车 Cybertruck 中国巡展今日开启，覆盖北京、上海、深圳 8 城](https://m.ithome.com/html/747638.htm)
+
