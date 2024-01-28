@@ -171,3 +171,5 @@
 
 + [《流浪地球2》发日版海报 3月22日在日本上映](https://www.3dmgame.com/news/202401/3887134.html)
 
++ [Galaxy AI不会下放到2023年以前发布的旧机型](https://www.3dmgame.com/news/202401/3887138.html)
+
