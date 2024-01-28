@@ -49,3 +49,23 @@
 
 + [???? Little Train (part 1)](https://dribbble.com/shots/)
 
++ [Mr. Burns Devouring His Smithers ????](https://dribbble.com/shots/)
+
++ [Chiefs Playoff Football](https://dribbble.com/shots/)
+
++ [Wonka Playing Cards (Faces)](https://dribbble.com/shots/)
+
++ [Midday](https://dribbble.com/shots/)
+
++ [Yoga](https://dribbble.com/shots/)
+
++ [City Perimeter 1](https://dribbble.com/shots/)
+
++ [Trsce branding design](https://dribbble.com/shots/)
+
++ [Travel and world monuments icons](https://dribbble.com/shots/)
+
++ [Oregon State Park Landscapes](https://dribbble.com/shots/)
+
++ [Box Top Concept - which do you prefer?](https://dribbble.com/shots/)
+
