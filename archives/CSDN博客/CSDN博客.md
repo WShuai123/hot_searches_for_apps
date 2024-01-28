@@ -147,3 +147,7 @@
 
 + [大数据期望最大化（EM）算法：从理论到实战全解析](https://blog.csdn.net/Myx74270512/article/details/135886230)
 
++ [计算机网络——TCP协议](https://blog.csdn.net/m0_74106420/article/details/135730911)
+
++ [DataKit迁移MySQL到openGauss](https://blog.csdn.net/GaussDB/article/details/135865536)
+

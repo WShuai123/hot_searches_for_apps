@@ -47,3 +47,5 @@
 
 + [窃密病毒伪装Windows激活程序 盗取用户资金](https://www.freebuf.com/articles/paper/390749.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

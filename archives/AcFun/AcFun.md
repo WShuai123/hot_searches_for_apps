@@ -75,3 +75,5 @@
 
 + [AC娘祝你恭喜发财](http://www.acfun.cn/v/ac43633177)
 
++ [竖屏 so crazy](http://www.acfun.cn/v/ac43633812)
+
