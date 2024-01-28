@@ -25,3 +25,7 @@
 
 + [马斯克的神秘新飞机：SpaceX 买下国航波音 737，用途成谜](https://m.ithome.com/html/747696.htm)
 
++ [古尔曼：苹果 iOS 18 可能是 iPhone 历史上最重磅的软件更新](https://m.ithome.com/html/747723.htm)
+
++ [苹果 2024 春节短片《小蒜头》上线：范伟主演，iPhone 15 Pro Max 拍摄](https://m.ithome.com/html/747719.htm)
+
