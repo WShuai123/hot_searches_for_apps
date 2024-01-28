@@ -55,3 +55,7 @@
 
 + [特斯拉赛博越野旅行车 Cybertruck 中国巡展今日开启，覆盖北京、上海、深圳 8 城](https://m.ithome.com/html/747638.htm)
 
++ [美国如何用鸽子搞暗杀？有网友把这个脑洞做出来了](https://m.ithome.com/html/747665.htm)
+
++ [微软游戏部门大裁员 1900 人，网友怒批 Xbox 负责人 Phil Spencer](https://m.ithome.com/html/747682.htm)
+
