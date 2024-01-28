@@ -167,3 +167,11 @@
 
 + [Linux进程间通信（IPC）机制之一：管道（Pipes）详解](https://blog.csdn.net/weixin_64038246/article/details/135886250)
 
++ [物联网协议Coap之C#基于Mozi的CoapClient调用解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/135831707)
+
++ [pytorch 卷积神经网络CNN](https://blog.csdn.net/jiang_changsheng/article/details/135890508)
+
++ [2024年1月的论文推荐](https://blog.csdn.net/m0_46510245/article/details/135892647)
+
++ [类Markdown实时绘图编辑器mermaid-live-editor](https://blog.csdn.net/wbsu2004/article/details/135880636)
+
