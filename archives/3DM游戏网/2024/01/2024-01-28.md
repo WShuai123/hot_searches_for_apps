@@ -133,3 +133,11 @@
 
 + [《Arco》Steam试玩发布 即时回合制战术动作新游](https://www.3dmgame.com/news/202401/3887118.html)
 
++ [《最终幻想7：重生》再获新剧情 度假胜地有惊喜](https://www.3dmgame.com/news/202401/3887122.html)
+
++ [《自杀小队：战胜正义联盟》PS5版文件容量公布](https://www.3dmgame.com/news/202401/3887119.html)
+
++ [《超古代兵器霍莉》3月8日登陆多平台 迷宫探索动作](https://www.3dmgame.com/news/202401/3887121.html)
+
++ [PS5主机固件更新后，作弊神器Cronus Zen被禁用](https://www.3dmgame.com/news/202401/3887120.html)
+
