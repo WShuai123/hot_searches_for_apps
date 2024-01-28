@@ -123,3 +123,11 @@
 
 + [《英雄传说：界之轨迹》将于2024年推出中文版](https://www.3dmgame.com/news/202401/3887106.html)
 
++ [《DEEP STATE》Steam页面上线 复古元素风格FPS](https://www.3dmgame.com/news/202401/3887117.html)
+
++ [Windows 11新功能来了：文件压缩更加全面灵活](https://www.3dmgame.com/news/202401/3887116.html)
+
++ [《学园偶像祭2》国际服宣布开服，同时宣布停服](https://www.3dmgame.com/news/202401/3887115.html)
+
++ [寻找外星生命重大突破 NASA新发现85颗宜居行星](https://www.3dmgame.com/news/202401/3887114.html)
+
