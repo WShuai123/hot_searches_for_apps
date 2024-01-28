@@ -27,3 +27,7 @@
 
 + [任天堂下一代 Switch 掌机爆料：今年推出 8 英寸 LCD 屏幕版本，年产有望达到 1000 万台](https://m.ithome.com/html/747609.htm)
 
++ [第三方抢票软件不比官方快：铁路 12306 已进行升级，拦截恶意“抢票”软件](https://m.ithome.com/html/747636.htm)
+
++ [中国超算如何躲开日本的坑？](https://m.ithome.com/html/747615.htm)
+
