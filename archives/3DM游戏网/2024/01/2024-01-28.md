@@ -163,3 +163,11 @@
 
 + [《寂静岭2：重制版》新消息马上要来了](https://www.3dmgame.com/news/202401/3887133.html)
 
++ [电影《封神第一部》波兰上映 德国定档2月15日](https://www.3dmgame.com/news/202401/3887135.html)
+
++ [《自杀小队：战胜正义联盟》临近发售 PC版加入了D加密](https://www.3dmgame.com/news/202401/3887137.html)
+
++ [庆祝《铁拳8》在英国发售 伦敦塔桥精彩无人机表演](https://www.3dmgame.com/news/202401/3887136.html)
+
++ [《流浪地球2》发日版海报 3月22日在日本上映](https://www.3dmgame.com/news/202401/3887134.html)
+

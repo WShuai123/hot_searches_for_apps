@@ -189,3 +189,11 @@
 
 + [网络安全产品之认识安全隔离网闸](https://blog.csdn.net/fullbug/article/details/135887212)
 
++ [MongoDB本地部署并结合内网穿透实现公网访问本地数据库](https://blog.csdn.net/weixin_63115236/article/details/135895191)
+
++ [解密人工智能：探索机器学习奥秘](https://blog.csdn.net/2301_80026901/article/details/135895066)
+
++ [游戏开发丨基于Pygame的AI版贪吃蛇小游戏](https://blog.csdn.net/m0_68111267/article/details/135893932)
+
++ [可解释性人工智能（XAI）概述](https://blog.csdn.net/u014727709/article/details/135895631)
+
