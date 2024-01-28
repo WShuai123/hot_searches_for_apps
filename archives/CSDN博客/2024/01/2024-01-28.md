@@ -143,3 +143,7 @@
 
 + [通信协议的TCP/IP模型](https://blog.csdn.net/weixin_53713070/article/details/135885647)
 
++ [2024年人工智能产业十大发展趋势](https://blog.csdn.net/apr15/article/details/135835258)
+
++ [大数据期望最大化（EM）算法：从理论到实战全解析](https://blog.csdn.net/Myx74270512/article/details/135886230)
+

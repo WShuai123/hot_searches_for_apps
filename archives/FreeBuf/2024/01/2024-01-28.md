@@ -45,3 +45,5 @@
 
 + [工控网络安全实验|PLC设备拒绝服务（DoS）数据与分析](https://www.freebuf.com/news/390228.html)
 
++ [窃密病毒伪装Windows激活程序 盗取用户资金](https://www.freebuf.com/articles/paper/390749.html)
+
