@@ -43,3 +43,7 @@
 
 + [比亚迪元 UP 预扣提车价曝光：401km 续航 12 万元起](https://m.ithome.com/html/747630.htm)
 
++ [领克首款纯电轿车谍照曝光，消息称今年 2 月量产、下半年上市](https://m.ithome.com/html/747617.htm)
+
++ [保时捷高管：欧洲 2035 年燃油车禁令可能会被推迟，欧洲人当前不愿买电车](https://m.ithome.com/html/747620.htm)
+

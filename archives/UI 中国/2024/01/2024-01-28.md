@@ -13,3 +13,5 @@
 
 + [设计灵感来源于“善于发现”](https://www.ui.cn/detail/661464.html)
 
++ [Prompt新连接，生成式AI重构营销新体验](https://www.ui.cn/detail/661791.html)
+

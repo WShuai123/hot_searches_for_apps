@@ -179,3 +179,5 @@
 
 + [【word】论文、报告：①插入图表题注，交叉引用②快速插入图表目录③删改后一键更新](https://blog.csdn.net/wtyuong/article/details/135853212)
 
++ [【Redis笔记】缓存——缓存分类、缓存穿透、缓存雪崩、缓存击穿](https://blog.csdn.net/weixin_44581175/article/details/135876109)
+
