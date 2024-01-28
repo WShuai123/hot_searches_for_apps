@@ -41,3 +41,7 @@
 
 + [数据安全影响上市？蜜雪冰城就安全问题遭证监会询问](https://www.freebuf.com/news/390650.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/390804.html)
+
++ [工控网络安全实验|PLC设备拒绝服务（DoS）数据与分析](https://www.freebuf.com/news/390228.html)
+

@@ -25,3 +25,5 @@
 
 + [外媒统计有史以来最畅销的手机：诺基亚、苹果包揽 TOP10](https://m.ithome.com/html/747613.htm)
 
++ [任天堂下一代 Switch 掌机爆料：今年推出 8 英寸 LCD 屏幕版本，年产有望达到 1000 万台](https://m.ithome.com/html/747609.htm)
+
