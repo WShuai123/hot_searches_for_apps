@@ -187,3 +187,9 @@
 
 + [新版《绿野仙踪》时空将移至现代 加入LGBT角色](https://www.3dmgame.com/news/202401/3887182.html)
 
++ [国风卡牌骰子RPG《命定奇谭》Demo试玩开启](https://www.3dmgame.com/news/202401/3887188.html)
+
++ [国产武侠ARPG《紫塞秋风》新修版Demo已于Steam商店搜索列表显示](https://www.3dmgame.com/news/202401/3887187.html)
+
++ [显卡越卖越贵 英伟达并不靠它赚钱：拿下90%全球AI芯片份额](https://www.3dmgame.com/news/202401/3887186.html)
+
