@@ -51,3 +51,35 @@
 
 + [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
++ [farcasterxyz / fc-polls](https://github.com/farcasterxyz/fc-polls)
+
++ [bclavie / RAGatouille](https://github.com/bclavie/RAGatouille)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot)
+
++ [FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core)
+
++ [KaisenAmin / c_std](https://github.com/KaisenAmin/c_std)
+
++ [100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments)
+
++ [danielmiessler / SecLists](https://github.com/danielmiessler/SecLists)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [vizia / vizia](https://github.com/vizia/vizia)
+
++ [EternalWraith / PalEdit](https://github.com/EternalWraith/PalEdit)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [TaskingAI / TaskingAI](https://github.com/TaskingAI/TaskingAI)
+
++ [FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts)
+
++ [nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [zedeus / nitter](https://github.com/zedeus/nitter)
+

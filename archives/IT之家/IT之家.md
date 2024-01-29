@@ -49,3 +49,7 @@
 
 + [消息称华为 P70 系列手机正测试 6.58/6.8 英寸两种 1.5K 微曲面屏，支持 LTPO](https://m.ithome.com/html/747772.htm)
 
++ [小米澎湃 OS：中国手机地震监测预警网首次成功预警地震](https://m.ithome.com/html/747844.htm)
+
++ [小米有品上架米家保温杯 Ti 2：号称钛含量大于 99%，首发 179 元](https://m.ithome.com/html/747800.htm)
+
