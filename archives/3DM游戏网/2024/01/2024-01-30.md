@@ -111,3 +111,7 @@
 
 + [暴雪娱乐任命女高管约翰娜法里斯为新总裁](https://www.3dmgame.com/news/202401/3887199.html)
 
++ [《龙珠Z：电光火石0》初期提供24名可操作角色](https://www.3dmgame.com/news/202401/3887204.html)
+
++ [索尼SoP发布会2月1日早6点公布15款游戏情报](https://www.3dmgame.com/news/202401/3887203.html)
+
