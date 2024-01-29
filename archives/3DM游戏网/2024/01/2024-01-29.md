@@ -153,3 +153,5 @@
 
 + [横山昌义称《如龙》不是日版GTA：我们不打女人](https://www.3dmgame.com/news/202401/3887161.html)
 
++ [SE亚洲官方发布《最终幻想7 ：重生》“注定重生”预告](https://www.3dmgame.com/news/202401/3887169.html)
+

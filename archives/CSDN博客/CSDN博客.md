@@ -161,3 +161,7 @@
 
 + [2024三掌柜赠书活动第七期：一本书读懂AIGC：探索AI商业化新时代](https://blog.csdn.net/CC1991_/article/details/135901902)
 
++ [详解操作系统各章大题汇总（死锁资源分配+银行家+进程的PV操作+实时调度+逻辑地址-＞物理地址+页面置换算法+磁盘调度算法）](https://blog.csdn.net/weixin_62985813/article/details/135905682)
+
++ [2023年CSDN年终总结：长风破浪会有时，风物长宜放眼量](https://blog.csdn.net/FRIGIDWINTER/article/details/135899014)
+

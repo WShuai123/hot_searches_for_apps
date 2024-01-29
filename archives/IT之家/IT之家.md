@@ -37,3 +37,5 @@
 
 + [古尔曼：2024 款苹果 iPad Pro 和 M3 MacBook Air 已投产，将于 3 月底发布](https://m.ithome.com/html/747720.htm)
 
++ [2024 年，马斯克又得睡在工厂了](https://m.ithome.com/html/747705.htm)
+
