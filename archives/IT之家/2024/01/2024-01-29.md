@@ -29,3 +29,9 @@
 
 + [苹果 2024 春节短片《小蒜头》上线：范伟主演，iPhone 15 Pro Max 拍摄](https://m.ithome.com/html/747719.htm)
 
++ [新款长安 UNI-V 插混版实车曝光：1.5 升发动机，今年有望上市](https://m.ithome.com/html/747721.htm)
+
++ [手机屏幕亮度大战升级，峰值亮度只是营销噱头](https://m.ithome.com/html/747718.htm)
+
++ [支付宝“五福节”活动开启：集齐五福瓜分 5 亿现金，2 月 9 日 22:18 开奖](https://m.ithome.com/html/747725.htm)
+

@@ -139,3 +139,11 @@
 
 + [基于yolov5的数据集自动标注功能脚本工具【附代码】](https://blog.csdn.net/z240626191s/article/details/135893989)
 
++ [点餐|外卖订餐小程序|基于微信小程序的外卖订餐系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/135901614)
+
++ [分布式锁（Distributed Lock）介绍（基于数据库（mysql）；基于缓存（redis）；基于ZooKeeper等分布式协调服务）](https://blog.csdn.net/Dontla/article/details/135901159)
+
++ [【Spring实战】31 Spring Boot3 集成 Gateway 微服务网关](https://blog.csdn.net/yanyc0411/article/details/135899497)
+
++ [深入理解TCP网络协议(1)](https://blog.csdn.net/weixin_64173948/article/details/135762553)
+

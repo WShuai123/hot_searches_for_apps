@@ -101,3 +101,33 @@
 
 + [《星露谷物语》1.6版更新档规模将比预想中更大](https://www.3dmgame.com/news/202401/3887093.html)
 
++ [法院已驳回Nexon对《Dark & Darker》开发公司申请的禁令](https://www.3dmgame.com/news/202401/3887157.html)
+
++ [《幻兽帕鲁》惊现高仿假冒官方SNS 诱骗玩家可疑NFT](https://www.3dmgame.com/news/202401/3887156.html)
+
++ [《如龙8》Steam在线峰值超4.6万 游戏热度很高](https://www.3dmgame.com/news/202401/3887155.html)
+
++ [PS5免费互动新游戏《交互不明确》发布公布预告片](https://www.3dmgame.com/news/202401/3887154.html)
+
++ [《宝可梦：朱/紫》 最强帝王拿波袭来  新挑战2月2日举行](https://www.3dmgame.com/news/202401/3887153.html)
+
++ [《最终幻想7：重生》台北电玩展演示 展示战斗召唤等](https://www.3dmgame.com/news/202401/3887152.html)
+
++ [索尼或于1月31日举行State of Play 展示多款新游戏](https://www.3dmgame.com/news/202401/3887151.html)
+
++ [《龙之信条2》主机版本仅支持30FPS 没有高性能60帧模式](https://www.3dmgame.com/news/202401/3887150.html)
+
++ [《007》游戏可能混合采用第一人称和第三人称](https://www.3dmgame.com/news/202401/3887149.html)
+
++ [《圣剑传说》首发还将登陆Game Pass](https://www.3dmgame.com/news/202401/3887148.html)
+
++ [《拳皇15》1月末大型更新追加全新推进打击系统](https://www.3dmgame.com/news/202401/3887146.html)
+
++ [《勇者斗恶龙10离线版》中文版确定5月28日发售](https://www.3dmgame.com/news/202401/3887145.html)
+
++ [《龙珠Z：电光火石0》发布悟空对战贝吉塔视频预告](https://www.3dmgame.com/news/202401/3887147.html)
+
++ [《间谍过家家 日记大作战》确定6月27日发售](https://www.3dmgame.com/news/202401/3887144.html)
+
++ [《龙珠Z：卡卡罗特》发布漫画终章剧情DLC](https://www.3dmgame.com/news/202401/3887143.html)
+
