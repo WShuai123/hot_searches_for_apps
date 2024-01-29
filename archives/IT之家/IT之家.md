@@ -35,3 +35,5 @@
 
 + [支付宝“五福节”活动开启：集齐五福瓜分 5 亿现金，2 月 9 日 22:18 开奖](https://m.ithome.com/html/747725.htm)
 
++ [古尔曼：2024 款苹果 iPad Pro 和 M3 MacBook Air 已投产，将于 3 月底发布](https://m.ithome.com/html/747720.htm)
+

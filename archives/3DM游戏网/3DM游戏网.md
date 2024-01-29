@@ -131,3 +131,9 @@
 
 + [《龙珠Z：卡卡罗特》发布漫画终章剧情DLC](https://www.3dmgame.com/news/202401/3887143.html)
 
++ [《杀手寓言》TV动画第二阶段4月开播 花泽香菜等确定出演](https://www.3dmgame.com/news/202401/3887160.html)
+
++ [赛博朋克风格动作射击游戏《Ruiner》开发商裁员达56%](https://www.3dmgame.com/news/202401/3887159.html)
+
++ [《沙丘》电影将于3月1日在中国内地重映](https://www.3dmgame.com/news/202401/3887158.html)
+
