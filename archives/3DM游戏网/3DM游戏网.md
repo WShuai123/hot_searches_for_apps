@@ -103,3 +103,11 @@
 
 + [《铁拳8》在英国地区首发销量是《街霸6》2倍多](https://www.3dmgame.com/news/202401/3887197.html)
 
++ [光荣特库摩公布财务业绩 销售额增长 利润下降](https://www.3dmgame.com/news/202401/3887202.html)
+
++ [《勇者斗恶龙：创世小玩家》初代即将于2/13登陆PC](https://www.3dmgame.com/news/202401/3887201.html)
+
++ [Eidos蒙特利尔裁员97人 《杀出重围》新作被取消](https://www.3dmgame.com/news/202401/3887200.html)
+
++ [暴雪娱乐任命女高管约翰娜法里斯为新总裁](https://www.3dmgame.com/news/202401/3887199.html)
+

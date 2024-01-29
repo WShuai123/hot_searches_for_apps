@@ -105,3 +105,5 @@
 
 + [kuizu](https://www.producthunt.com/posts/kuizu)
 
++ [Omnipilot - AI copilot for macOS](https://www.producthunt.com/posts/omnipilot-ai-copilot-for-macos)
+
