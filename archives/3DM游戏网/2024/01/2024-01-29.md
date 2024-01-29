@@ -155,3 +155,9 @@
 
 + [SE亚洲官方发布《最终幻想7 ：重生》“注定重生”预告](https://www.3dmgame.com/news/202401/3887169.html)
 
++ [2D黑暗奇幻风格类魂游戏《红眼露比》上架Steam](https://www.3dmgame.com/news/202401/3887172.html)
+
++ [《合金装备：大师合集Vol.1》更新 对应支持Steam deck](https://www.3dmgame.com/news/202401/3887170.html)
+
++ [《七龙珠》最新动画《龙珠 DAIMA》发布预告 悟空再次返老还童](https://www.3dmgame.com/news/202401/3887171.html)
+

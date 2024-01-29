@@ -53,3 +53,5 @@
 
 + [利用OSINT追踪勒索组织活动](https://www.freebuf.com/articles/network/390206.html)
 
++ [NetExec：一款功能强大的自动化网络安全评估与漏洞测试工具](https://www.freebuf.com/sectool/389486.html)
+

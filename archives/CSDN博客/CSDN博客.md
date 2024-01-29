@@ -165,3 +165,7 @@
 
 + [2023年CSDN年终总结：长风破浪会有时，风物长宜放眼量](https://blog.csdn.net/FRIGIDWINTER/article/details/135899014)
 
++ [第93讲：MySQL主从复制集群延时从库的核心概念以及使用](https://blog.csdn.net/weixin_44953658/article/details/135905406)
+
++ [后端学习：数据库MySQL学习](https://blog.csdn.net/qq_50086023/article/details/135820608)
+
