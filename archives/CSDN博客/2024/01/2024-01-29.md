@@ -169,3 +169,13 @@
 
 + [后端学习：数据库MySQL学习](https://blog.csdn.net/qq_50086023/article/details/135820608)
 
++ [深入了解Redis：选择适用于你的场景的持久化方案](https://blog.csdn.net/jinxinxin1314/article/details/135903276)
+
++ [探索Viper-适用于GoLang的完整配置解决方案](https://blog.csdn.net/qq_35716689/article/details/135874136)
+
++ [（二十一）Flask之上下文管理第二篇（细细扣一遍源码）](https://blog.csdn.net/qq_44907926/article/details/135897463)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖微信小程序端(十五)](https://blog.csdn.net/m0_59230408/article/details/135044029)
+
++ [手写GPT实现小说生成(二)](https://blog.csdn.net/yjw123456/article/details/135702774)
+
