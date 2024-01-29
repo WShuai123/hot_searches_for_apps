@@ -67,3 +67,5 @@
 
 + [这歌真难唱阿《鸿音》【神明的KTV】【直播歌切】](http://www.acfun.cn/v/ac43649789)
 
++ [【斑歌】好想好想](http://www.acfun.cn/v/ac43645270)
+

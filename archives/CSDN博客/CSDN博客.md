@@ -101,3 +101,7 @@
 
 + [通信协议的TCP/IP模型](https://blog.csdn.net/weixin_53713070/article/details/135885647)
 
++ [ChatGPT与文心一言：智能回复与语言准确性的较量](https://blog.csdn.net/xcbeyond/article/details/135902091)
+
++ [【word】论文、报告：①插入图表题注，交叉引用②快速插入图表目录③删改后一键更新](https://blog.csdn.net/wtyuong/article/details/135853212)
+
