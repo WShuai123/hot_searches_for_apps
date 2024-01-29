@@ -49,3 +49,31 @@
 
 + [EYE / IBM](https://dribbble.com/shots/)
 
++ [City Perimeter 1](https://dribbble.com/shots/)
+
++ [Pinecone to jewelry](https://dribbble.com/shots/)
+
++ [Ope Camp Flag](https://dribbble.com/shots/)
+
++ [Oregon State Park Mini Scenes](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. II](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Brand character design for MyToys](https://dribbble.com/shots/)
+
++ [Midday](https://dribbble.com/shots/)
+
++ [Ode to Farm](https://dribbble.com/shots/)
+
++ [Butterfly](https://dribbble.com/shots/)
+
++ [Art direction project](https://dribbble.com/shots/)
+
++ [Yoga](https://dribbble.com/shots/)
+
++ [PATCH DESIGN for NOAH KAHAN 2024 WORLD TOUR.](https://dribbble.com/shots/)
+
++ [Kamora](https://dribbble.com/shots/)
+

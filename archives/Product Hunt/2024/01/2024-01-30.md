@@ -101,3 +101,5 @@
 
 + [Letterly](https://www.producthunt.com/posts/letterly-2)
 
++ [CMDExplorer](https://www.producthunt.com/posts/cmdexplorer)
+

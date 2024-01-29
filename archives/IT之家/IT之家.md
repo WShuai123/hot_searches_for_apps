@@ -25,3 +25,5 @@
 
 + [微软“砍刀部”出动：今起 Win11 系统禁用内置 WMIC 管理工具、后续移除](https://m.ithome.com/html/747729.htm)
 
++ [离谱！牛人在 Excel 中构建出 16 位 CPU](https://m.ithome.com/html/747822.htm)
+
