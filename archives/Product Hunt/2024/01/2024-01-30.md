@@ -103,3 +103,5 @@
 
 + [CMDExplorer](https://www.producthunt.com/posts/cmdexplorer)
 
++ [kuizu](https://www.producthunt.com/posts/kuizu)
+
