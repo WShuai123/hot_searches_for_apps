@@ -137,3 +137,19 @@
 
 + [《沙丘》电影将于3月1日在中国内地重映](https://www.3dmgame.com/news/202401/3887158.html)
 
++ [《Beyond Citadel》PC试玩发布 类DOOM硬核FPS新游](https://www.3dmgame.com/news/202401/3887167.html)
+
++ [AMD旗舰显卡RX 7900 XTX价格史低：几乎腰斩](https://www.3dmgame.com/news/202401/3887168.html)
+
++ [百度输入法被指强塞广告 备选词出现广告](https://www.3dmgame.com/news/202401/3887166.html)
+
++ [Neversoft被取消的未来风格《使命召唤》游戏实机造泄露](https://www.3dmgame.com/news/202401/3887165.html)
+
++ [《神偷奶爸4》首个预告公布 小黄人又回归啦！](https://www.3dmgame.com/news/202401/3887164.html)
+
++ [印度版《疾速追杀》 动作电影《怒火战猴》发布官方预告](https://www.3dmgame.com/news/202401/3887163.html)
+
++ [《失踪》登陆Steam限时九折优惠 日风恐怖探索](https://www.3dmgame.com/news/202401/3887162.html)
+
++ [横山昌义称《如龙》不是日版GTA：我们不打女人](https://www.3dmgame.com/news/202401/3887161.html)
+

@@ -157,3 +157,7 @@
 
 + [kali系统入侵电脑windows（win11系统）渗透测试，骇入电脑教学](https://blog.csdn.net/liKeQing1027520/article/details/135881524)
 
++ [预训练语言模型transformer](https://blog.csdn.net/zhouhong0284/article/details/135888488)
+
++ [2024三掌柜赠书活动第七期：一本书读懂AIGC：探索AI商业化新时代](https://blog.csdn.net/CC1991_/article/details/135901902)
+
