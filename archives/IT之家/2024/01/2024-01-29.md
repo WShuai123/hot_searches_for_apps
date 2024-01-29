@@ -59,3 +59,7 @@
 
 + [国产江铃福特烈马越野车型今日发布：2.3T 涡轮增压四缸发动机、轴距 2950mm](https://m.ithome.com/html/747738.htm)
 
++ [小米 Redmi Note13 系列机型全国销量破 320 万台，Pro 系列 512GB 降 100 元](https://m.ithome.com/html/747748.htm)
+
++ [小米 12S Ultra 手机推送澎湃 OS 更新：安卓跨版本升级，全新融合设备中心](https://m.ithome.com/html/747825.htm)
+
