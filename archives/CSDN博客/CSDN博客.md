@@ -179,3 +179,7 @@
 
 + [手写GPT实现小说生成(二)](https://blog.csdn.net/yjw123456/article/details/135702774)
 
++ [AI智能化办公：巧用ChatGPT高效搞定Excel数据分析](https://blog.csdn.net/qq_32682301/article/details/135894081)
+
++ [免费分享一套微信小程序外卖跑腿点餐(订餐)系统(uni-app+SpringBoot后端+Vue管理端技术实现) ，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/135881792)
+

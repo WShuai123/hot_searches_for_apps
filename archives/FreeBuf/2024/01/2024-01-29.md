@@ -57,3 +57,9 @@
 
 + [存储数据多≠优势大？企业身处网络威胁时代该如何驾驭好PII](https://www.freebuf.com/news/390866.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [Pwn2Own Automotive 2024落幕，共揭露49个零日漏洞](https://www.freebuf.com/news/390890.html)
+
++ [网络战新高度！俄罗斯280台服务器被摧毁，200万GB数据丢失](https://www.freebuf.com/news/390863.html)
+
