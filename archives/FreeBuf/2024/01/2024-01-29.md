@@ -51,3 +51,5 @@
 
 + [思科产品曝出高危漏洞，允许黑客远程控制统一通信系统](https://www.freebuf.com/news/390855.html)
 
++ [利用OSINT追踪勒索组织活动](https://www.freebuf.com/articles/network/390206.html)
+
