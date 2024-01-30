@@ -27,3 +27,7 @@
 
 + [离谱！牛人在 Excel 中构建出 16 位 CPU](https://m.ithome.com/html/747822.htm)
 
++ [时光倒流？德国铁路公司竟招聘 Win3.11 系统管理员](https://m.ithome.com/html/747909.htm)
+
++ [在被暴雪解雇前，员工机智操作获十年免费《魔兽世界》游玩时间](https://m.ithome.com/html/747899.htm)
+

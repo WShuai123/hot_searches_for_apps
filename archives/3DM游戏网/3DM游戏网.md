@@ -115,3 +115,11 @@
 
 + [索尼SoP发布会2月1日早6点公布15款游戏情报](https://www.3dmgame.com/news/202401/3887203.html)
 
++ [传《刺客信条：RED》11月推出 首个演示预告7月公布](https://www.3dmgame.com/news/202401/3887208.html)
+
++ [3月22日上映《超能敢死队:冰封之城》发布官方预告](https://www.3dmgame.com/news/202401/3887207.html)
+
++ [《数码方块地球防卫军2》发布热血主题曲卡拉OK预告](https://www.3dmgame.com/news/202401/3887206.html)
+
++ [KLab将与《幻兽帕鲁》开发商打造休闲游戏](https://www.3dmgame.com/news/202401/3887205.html)
+
