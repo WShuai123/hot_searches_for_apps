@@ -25,3 +25,5 @@
 
 + [机械革命全新 15.3 英寸翼龙 15 Pro 游戏本曝光：搭载 AMD R7 8845H + RTX 4060，重 2kg 厚度不足 20mm](https://m.ithome.com/html/747960.htm)
 
++ [新款奥迪 Q7 官图发布：车头重新设计，继续配备 3.0T 发动机](https://m.ithome.com/html/748068.htm)
+

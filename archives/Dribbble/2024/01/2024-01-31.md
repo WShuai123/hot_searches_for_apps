@@ -49,3 +49,23 @@
 
 + [Black Mamba Anti-Poaching Unit](https://dribbble.com/shots/)
 
++ [Geometric Boy Logo](https://dribbble.com/shots/)
+
++ [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
+
++ [Pinecone to jewelry](https://dribbble.com/shots/)
+
++ [EYE / IBM](https://dribbble.com/shots/)
+
++ [Pilgrim's Progress Playing Cards (Face cards)](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging](https://dribbble.com/shots/)
+
++ [Ammons Poems Web Design](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #2](https://dribbble.com/shots/)
+
++ [Trees](https://dribbble.com/shots/)
+
++ [Ancient Philosophers](https://dribbble.com/shots/)
+
