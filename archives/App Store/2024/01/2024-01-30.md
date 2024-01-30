@@ -211,3 +211,5 @@
 
 + [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
 
++ [墨迹天气-看天气用墨迹](https://itunes.apple.com/cn/app/id434209233?mt=8)
+

@@ -49,3 +49,5 @@
 
 + [FBI称贵金属快递骗局数量激增，已造成超 5500 万美元损失](https://www.freebuf.com/news/390935.html)
 
++ [传统制造行业信息安全管理-企业信息安全技术规划](https://www.freebuf.com/articles/security-management/390338.html)
+

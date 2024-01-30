@@ -193,3 +193,15 @@
 
 + [无实际意义的福利 暴雪被解雇员工的补偿包括10年《魔兽世界》游戏时长](https://www.3dmgame.com/news/202401/3887239.html)
 
++ [地牢迷宫类游戏《The Land Beneath Us》Demo上线 支持简中](https://www.3dmgame.com/news/202401/3887246.html)
+
++ [黑曜石RPG新作《宣誓》将以《永恒之柱》为背景 但玩家无需玩过前作](https://www.3dmgame.com/news/202401/3887247.html)
+
++ [曝AMD的新显卡与4080性能相当 但价格仅为其一半](https://www.3dmgame.com/news/202401/3887248.html)
+
++ [苹果推出新收费结构 开发商称生活变得更困难了](https://www.3dmgame.com/news/202401/3887243.html)
+
++ [《雾锁王国》全球销量突破百万，开发商感谢玩家](https://www.3dmgame.com/news/202401/3887244.html)
+
++ [《蔚蓝64》PC平台免费发布 经典动作游戏衍生新篇](https://www.3dmgame.com/news/202401/3887245.html)
+

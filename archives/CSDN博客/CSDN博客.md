@@ -145,3 +145,19 @@
 
 + [如何搭建开源笔记Joplin服务并实现远程访问本地数据](https://blog.csdn.net/2301_77053417/article/details/135917440)
 
++ [基于java后台的微信疫苗接种在线预约小程序系统设计与实现](https://blog.csdn.net/u013818205/article/details/135813036)
+
++ [【Spring实战】32 Spring Boot3 集成 Nacos 服务注册中心 并在 Gateway 网关中应用](https://blog.csdn.net/yanyc0411/article/details/135922498)
+
++ [MySQL SQL 注入](https://blog.csdn.net/liujiaping/article/details/135883480)
+
++ [分享7种SQL的进阶用法](https://blog.csdn.net/weixin_44087733/article/details/135905570)
+
++ [大模型机器人的爆发时刻：从RoboFlamingo、OK-Robot到Google代理机器人、CMU 18万机器人](https://blog.csdn.net/v_JULY_v/article/details/135888751)
+
++ [二手交易|校园二手交易小程序|基于微信小程序的闲置物品交易平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/135921865)
+
++ [数据可视化工具JSON Crack结合内网穿透实现公网访问](https://blog.csdn.net/asdssadddd/article/details/135911675)
+
++ [【制作100个unity游戏之23】实现类似七日杀、森林一样的生存游戏4（附项目源码）](https://blog.csdn.net/qq_36303853/article/details/135744748)
+

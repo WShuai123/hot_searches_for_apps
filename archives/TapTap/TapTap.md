@@ -23,3 +23,5 @@
 
 + [穿越者系统：模拟](https://www.taptap.cn/app/387262)
 
++ [斗罗大陆：史莱克学院](https://www.taptap.cn/app/383127)
+

@@ -35,3 +35,7 @@
 
 + [微软招募人才重写 Windows 核心组件，拥抱新一代编程语言 Rust](https://m.ithome.com/html/747894.htm)
 
++ [小米回应 SU7 车型上险价 36 万元：买保险仅为上牌，发票价格不具备参考价值](https://m.ithome.com/html/747949.htm)
+
++ [微软产品“坟场”网站上线，缅怀那些被“埋葬”的产品](https://m.ithome.com/html/747901.htm)
+
