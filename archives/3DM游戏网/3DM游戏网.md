@@ -247,3 +247,31 @@
 
 + [伽马数据：2成用户愿为《黑神话》付300+](https://www.3dmgame.com/news/202401/3887262.html)
 
++ [马化腾称腾讯的AI技术不能算最领先 至少没有太落后](https://www.3dmgame.com/news/202401/3887283.html)
+
++ [传闻：美政府将要求科技公司分享大模型训练与安全信息](https://www.3dmgame.com/news/202401/3887282.html)
+
++ [浙江父亲想用AI“复活”儿子 像《流浪地球2》丫丫一样](https://www.3dmgame.com/news/202401/3887281.html)
+
++ [《深地爆破采掘》Steam试玩发布 火爆肉鸽元素动作采矿](https://www.3dmgame.com/news/202401/3887280.html)
+
++ [Steam最新一周销量榜 《幻兽帕鲁》达成二连冠](https://www.3dmgame.com/news/202401/3887279.html)
+
++ [《最终幻想7：重生》3D同人图 蒂法爱丽丝穿晚礼服秀好身材](https://www.3dmgame.com/news/202401/3887277.html)
+
++ [裁员900人还不够！本田：将在中国实施大规模人员“优化”](https://www.3dmgame.com/news/202401/3887278.html)
+
++ [《化身大唐》序章steam页面上线 年内发售](https://www.3dmgame.com/news/202401/3887276.html)
+
++ [《最终幻想7：重生》内容丰富 两张光盘都差点装不完](https://www.3dmgame.com/news/202401/3887275.html)
+
++ [艰难的决定！OPPO终止芯片业务：公司已注销](https://www.3dmgame.com/news/202401/3887274.html)
+
++ [首位人类已接受植入马斯克脑机接口芯片 目前恢复良好](https://www.3dmgame.com/news/202401/3887273.html)
+
++ [《国足奇侠传：非法足球》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887272.html)
+
++ [微软修复图片生成AI漏洞：不能再生成名人露骨图像](https://www.3dmgame.com/news/202401/3887271.html)
+
++ [报道称孩之宝欲出售《龙与地下城》IP 腾讯是买家之一](https://www.3dmgame.com/news/202401/3887270.html)
+

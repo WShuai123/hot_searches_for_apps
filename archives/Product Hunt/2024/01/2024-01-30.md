@@ -173,3 +173,9 @@
 
 + [Pebble](https://www.producthunt.com/posts/pebble-app)
 
++ [Fastpal](https://www.producthunt.com/posts/fastpal)
+
++ [AutoIndex by AISeoTool](https://www.producthunt.com/posts/autoindex-by-aiseotool)
+
++ [Shakker.Ai](https://www.producthunt.com/posts/shakker-ai)
+
