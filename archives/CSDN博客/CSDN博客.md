@@ -139,3 +139,7 @@
 
 + [2024美赛数学建模E题思路+模型+代码+论文](https://blog.csdn.net/weixin_45499067/article/details/135901989)
 
++ [基于Python 爬虫的房地产数据可视化分析与实现](https://blog.csdn.net/weixin_49081159/article/details/135900241)
+
++ [【开源】基于JAVA+Vue+SpringBoot的智慧家政系统](https://blog.csdn.net/javamyfriend/article/details/135896539)
+

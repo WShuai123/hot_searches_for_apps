@@ -159,3 +159,29 @@
 
 + [《自杀小队》抢先体验不到一小时 官方紧急将服务器下线](https://www.3dmgame.com/news/202401/3887211.html)
 
++ [《咒术回战：双华乱舞》发布小游戏预告 2024年2月2日发售](https://www.3dmgame.com/news/202401/3887234.html)
+
++ [国外玩家吐槽《雾锁王国》劫掠横行 明明没有PVP模式](https://www.3dmgame.com/news/202401/3887238.html)
+
++ [备受期待RTS《风暴之门》众筹超过200万美元](https://www.3dmgame.com/news/202401/3887237.html)
+
++ [克苏鲁恋爱模拟游戏《爱的吸盘：死亡约会》宣布延期发售](https://www.3dmgame.com/news/202401/3887236.html)
+
++ [阿什莉体模在《如龙8》中攻略自己：感觉好羞涩啊](https://www.3dmgame.com/news/202401/3887235.html)
+
++ [模拟经营游戏《超商模拟器》Steam页面 支持简体中文](https://www.3dmgame.com/news/202401/3887233.html)
+
++ [腾讯：竞技对战游戏是基本盘要守住 不能被二次元等动摇](https://www.3dmgame.com/news/202401/3887230.html)
+
++ [Bungie内部开发过一款《命运2》恋爱模拟游戏](https://www.3dmgame.com/news/202401/3887231.html)
+
++ [玩家发掘《幻兽帕鲁》游戏潜力 创建简易“水上乐园”](https://www.3dmgame.com/news/202401/3887228.html)
+
++ [非洲游戏调查显示：更多玩家喜欢离线免费游戏](https://www.3dmgame.com/news/202401/3887226.html)
+
++ [《欢迎来到帕拉迪泽》Demo预告 2月29日正式发售](https://www.3dmgame.com/news/202401/3887227.html)
+
++ [传闻：主机独占FPS《Concord》将亮相索尼发布会 灵感源自《银河护卫队》](https://www.3dmgame.com/news/202401/3887232.html)
+
++ [银恶城《BIOMORPH》3月4日登陆Steam 稍后登陆主机](https://www.3dmgame.com/news/202401/3887229.html)
+
