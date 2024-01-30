@@ -33,3 +33,5 @@
 
 + [上海网信办：某火锅连锁企业 1.5 亿条会员信息处于“裸奔”状态](https://m.ithome.com/html/747898.htm)
 
++ [微软招募人才重写 Windows 核心组件，拥抱新一代编程语言 Rust](https://m.ithome.com/html/747894.htm)
+

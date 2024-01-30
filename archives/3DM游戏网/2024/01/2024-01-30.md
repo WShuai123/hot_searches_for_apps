@@ -185,3 +185,11 @@
 
 + [银恶城《BIOMORPH》3月4日登陆Steam 稍后登陆主机](https://www.3dmgame.com/news/202401/3887229.html)
 
++ [Steam特别好评 《动物园之星》或将登陆主机平台](https://www.3dmgame.com/news/202401/3887240.html)
+
++ [亚马逊上线视频广告业务：年收入预计可达50亿美元](https://www.3dmgame.com/news/202401/3887242.html)
+
++ [《暗黑破坏神4》紧急更新 应对第三赛季玩家反馈](https://www.3dmgame.com/news/202401/3887241.html)
+
++ [无实际意义的福利 暴雪被解雇员工的补偿包括10年《魔兽世界》游戏时长](https://www.3dmgame.com/news/202401/3887239.html)
+

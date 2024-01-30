@@ -143,3 +143,5 @@
 
 + [【开源】基于JAVA+Vue+SpringBoot的智慧家政系统](https://blog.csdn.net/javamyfriend/article/details/135896539)
 
++ [如何搭建开源笔记Joplin服务并实现远程访问本地数据](https://blog.csdn.net/2301_77053417/article/details/135917440)
+
