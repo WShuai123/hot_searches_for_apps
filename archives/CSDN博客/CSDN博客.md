@@ -101,3 +101,17 @@
 
 + [Ubuntu本地部署Nextcloud并结合内网穿透实现远程访问搭建个人云盘](https://blog.csdn.net/Aileenvov/article/details/135918580)
 
++ [AI智能化办公：巧用ChatGPT高效搞定Excel数据分析](https://blog.csdn.net/qq_32682301/article/details/135894081)
+
++ [HiveSQL题——前后函数(lag/lead)](https://blog.csdn.net/SHWAITME/article/details/135902998)
+
++ [解决方案—幻兽帕鲁Palworld私服部署 一杯茶的功夫搭建部署一个属于自己的游戏私服](https://blog.csdn.net/air__Heaven/article/details/135906099)
+
++ [【开源】基于JAVA+Vue+SpringBoot的智慧家政系统](https://blog.csdn.net/javamyfriend/article/details/135896539)
+
++ [【网络协议分析】利用Wireshark分析IP分片](https://blog.csdn.net/qq_41626672/article/details/135920790)
+
++ [掌握使用 React 和 Ant Design 的个人博客艺术之美](https://blog.csdn.net/qq_36478920/article/details/135920034)
+
++ [【制作100个unity游戏之23】实现类似七日杀、森林一样的生存游戏4（附项目源码）](https://blog.csdn.net/qq_36303853/article/details/135744748)
+
