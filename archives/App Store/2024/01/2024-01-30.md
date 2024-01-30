@@ -227,3 +227,7 @@
 
 + [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
 
++ [一甜相机 -超人气风格自拍](https://itunes.apple.com/cn/app/id1415653267?mt=8)
+
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
