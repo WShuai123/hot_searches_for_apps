@@ -51,3 +51,33 @@
 
 + [zedeus / nitter](https://github.com/zedeus/nitter)
 
++ [vikhyat / moondream](https://github.com/vikhyat/moondream)
+
++ [federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
++ [h4x0r-dz / CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897)
+
++ [InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU)
+
++ [01-ai / Yi](https://github.com/01-ai/Yi)
+
++ [farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [plasma-umass / scalene](https://github.com/plasma-umass/scalene)
+
++ [saagarjha / Ensemble](https://github.com/saagarjha/Ensemble)
+
++ [puppeteer / puppeteer](https://github.com/puppeteer/puppeteer)
+
++ [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
++ [facebookresearch / codellama](https://github.com/facebookresearch/codellama)
+
++ [FuelLabs / sway](https://github.com/FuelLabs/sway)
+
++ [vercel / next.js](https://github.com/vercel/next.js)
+
++ [MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+

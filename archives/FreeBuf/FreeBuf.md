@@ -67,3 +67,7 @@
 
 + [中位数20万美元，勒索赎金支付率降至历史最低！](https://www.freebuf.com/news/390967.html)
 
++ [传统制造行业信息安全管理——企业信息安全技术规划](https://www.freebuf.com/articles/security-management/390338.html)
+
++ [FBI披露最新骗局，已造成超 5500 万美元损失](https://www.freebuf.com/news/390935.html)
+
