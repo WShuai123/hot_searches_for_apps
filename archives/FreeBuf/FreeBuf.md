@@ -51,3 +51,5 @@
 
 + [传统制造行业信息安全管理-企业信息安全技术规划](https://www.freebuf.com/articles/security-management/390338.html)
 
++ [能源巨头施耐德电气遭遇勒索软件攻击](https://www.freebuf.com/news/390945.html)
+

@@ -161,3 +161,9 @@
 
 + [【制作100个unity游戏之23】实现类似七日杀、森林一样的生存游戏4（附项目源码）](https://blog.csdn.net/qq_36303853/article/details/135744748)
 
++ [论文推荐:大语言模型在金融领域的应用调查](https://blog.csdn.net/m0_46510245/article/details/135926108)
+
++ [如何在群晖中本地部署WPS Office并实现公网远程访问](https://blog.csdn.net/zhoubancheng/article/details/135925395)
+
++ [互联网加竞赛 基于深度学习的人脸性别年龄识别 - 图像识别 opencv](https://blog.csdn.net/m0_43533/article/details/135910775)
+
