@@ -111,3 +111,47 @@
 
 + [ZeroInbox.ai](https://www.producthunt.com/posts/zeroinbox-ai)
 
++ [Code Llama 70B](https://www.producthunt.com/posts/code-llama-70b)
+
++ [OpenCopilot v2](https://www.producthunt.com/posts/opencopilot-v2)
+
++ [Panobi](https://www.producthunt.com/posts/panobi)
+
++ [Zilliz Cloud](https://www.producthunt.com/posts/zilliz-cloud)
+
++ [AI Code Personalization](https://www.producthunt.com/posts/ai-code-personalization)
+
++ [Goldie](https://www.producthunt.com/posts/goldie)
+
++ [Crypto: The Game](https://www.producthunt.com/posts/crypto-the-game)
+
++ [Lilac Garden](https://www.producthunt.com/posts/lilac-garden)
+
++ [Podnotes](https://www.producthunt.com/posts/podnotes-2)
+
++ [Faltah Interview Simulator](https://www.producthunt.com/posts/faltah-interview-simulator)
+
++ [Memories Crate](https://www.producthunt.com/posts/memories-crate)
+
++ [Open SaaS](https://www.producthunt.com/posts/open-saas)
+
++ [Trellus AI Autodialer](https://www.producthunt.com/posts/trellus-ai-autodialer)
+
++ [FluxNinja Aperture](https://www.producthunt.com/posts/fluxninja-aperture)
+
++ [Chronoscope](https://www.producthunt.com/posts/chronoscope-2)
+
++ [Flockler](https://www.producthunt.com/posts/flockler)
+
++ [Zerve AI](https://www.producthunt.com/posts/zerve-ai)
+
++ [Dear Little One](https://www.producthunt.com/posts/dear-little-one)
+
++ [Sharetribe](https://www.producthunt.com/posts/sharetribe-2)
+
++ [Martial Profile](https://www.producthunt.com/posts/martial-profile)
+
++ [Huudle AI Project Assistant](https://www.producthunt.com/posts/huudle-ai-project-assistant)
+
++ [Bizway](https://www.producthunt.com/posts/bizway)
+

@@ -57,3 +57,9 @@
 
 + [因受害者拒绝支付，勒索软件的赎金支付率降历史最低！](https://www.freebuf.com/articles/390967.html)
 
++ [企业安全 | API安全体系建设](https://www.freebuf.com/articles/es/377992.html)
+
++ [金额仅为20万美元，勒索软攻击赎金支付率降至历史最低！](https://www.freebuf.com/news/390967.html)
+
++ [能源巨头施耐德被勒索攻击，泄露TB级数据](https://www.freebuf.com/news/390945.html)
+

@@ -231,3 +231,19 @@
 
 + [报告称宝可梦公司正在进行侵权调查 但并非针对《幻兽帕鲁》](https://www.3dmgame.com/news/202401/3887253.html)
 
++ [半导体行业提价：2024年手机要涨价了](https://www.3dmgame.com/news/202401/3887269.html)
+
++ [《暗黑1》《魔兽争霸1》《魔兽争霸2》登陆战网 炒冷饭？](https://www.3dmgame.com/news/202401/3887267.html)
+
++ [ARPG《恸哭机巧》玩家数量超10万 官方贺图发布](https://www.3dmgame.com/news/202401/3887266.html)
+
++ [2月1日State of Play或包含《死亡搁浅2》新预告](https://www.3dmgame.com/news/202401/3887265.html)
+
++ [《喋血街头3》最新更新上线 主要添加MOD支持功能](https://www.3dmgame.com/news/202401/3887268.html)
+
++ [可爱风回合制策略游戏《哥布林之石》将于2024年第一季度发布](https://www.3dmgame.com/news/202401/3887264.html)
+
++ [《风来之国》全新DLC举办线下试玩会，1月31日正式发售](https://www.3dmgame.com/news/202401/3887263.html)
+
++ [伽马数据：2成用户愿为《黑神话》付300+](https://www.3dmgame.com/news/202401/3887262.html)
+
