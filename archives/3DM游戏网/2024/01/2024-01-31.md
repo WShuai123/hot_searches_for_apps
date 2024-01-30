@@ -101,3 +101,11 @@
 
 + [苹果推出新收费结构 开发商称生活变得更困难了](https://www.3dmgame.com/news/202401/3887243.html)
 
++ [《叛变：沙漠风暴》PS5和Xbox Series版现已推出](https://www.3dmgame.com/news/202401/3887298.html)
+
++ [《MLB The Show 24》面向各大主机平台公布](https://www.3dmgame.com/news/202401/3887297.html)
+
++ [《Fate/stay night》高清复刻版公布 登陆PC/NS](https://www.3dmgame.com/news/202401/3887296.html)
+
++ [索尼聘请了女团“新学校领袖”拍摄新PS5广告](https://www.3dmgame.com/news/202401/3887295.html)
+
