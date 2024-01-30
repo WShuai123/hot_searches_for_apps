@@ -53,3 +53,7 @@
 
 + [能源巨头施耐德电气遭遇勒索软件攻击](https://www.freebuf.com/news/390945.html)
 
++ [TeX：一款功能强大的Telegram安全监控与管理工具](https://www.freebuf.com/sectool/389487.html)
+
++ [因受害者拒绝支付，勒索软件的赎金支付率降历史最低！](https://www.freebuf.com/articles/390967.html)
+

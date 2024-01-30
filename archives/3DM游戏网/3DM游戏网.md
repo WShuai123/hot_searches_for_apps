@@ -213,3 +213,21 @@
 
 + [官方承认《命运2》剧情同质化严重 承诺未来改进](https://www.3dmgame.com/news/202401/3887249.html)
 
++ [国产武侠ARPG《紫塞秋风》新修版预告片发布，再探大漠苍莽](https://www.3dmgame.com/news/202401/3887260.html)
+
++ [动视分享《使命召唤》匹配机制原理：玩家推测并不属实](https://www.3dmgame.com/news/202401/3887256.html)
+
++ [《Left Behind》PC平台免费发布 第一人称恐怖探索](https://www.3dmgame.com/news/202401/3887261.html)
+
++ [开放世界生存建造游戏《雾锁王国》热度攀升 玩家花式造浮空建筑](https://www.3dmgame.com/news/202401/3887259.html)
+
++ [《极限竞速：地平线5》福星车包上线！内含领克 05+和名爵 Cyberster等经典好车！](https://www.3dmgame.com/news/202401/3887258.html)
+
++ [《宝可梦：朱/紫》3.0.1版本宣布2月1日上线](https://www.3dmgame.com/news/202401/3887257.html)
+
++ [模拟经营游戏《汉尘.腐草为萤》Steam页面上线 第二季度发售](https://www.3dmgame.com/news/202401/3887255.html)
+
++ [Steam经典logo成教会宣传标志 G胖终将成神？](https://www.3dmgame.com/news/202401/3887254.html)
+
++ [报告称宝可梦公司正在进行侵权调查 但并非针对《幻兽帕鲁》](https://www.3dmgame.com/news/202401/3887253.html)
+

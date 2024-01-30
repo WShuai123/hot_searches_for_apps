@@ -167,3 +167,7 @@
 
 + [互联网加竞赛 基于深度学习的人脸性别年龄识别 - 图像识别 opencv](https://blog.csdn.net/m0_43533/article/details/135910775)
 
++ [Jenkins自动化打包部署项目落地实践](https://blog.csdn.net/HeliosGe/article/details/135913473)
+
++ [2024 新年HTML5+Canvas制作3D烟花特效（附源码）](https://blog.csdn.net/m0_68089732/article/details/135923423)
+

@@ -39,3 +39,7 @@
 
 + [微软产品“坟场”网站上线，缅怀那些被“埋葬”的产品](https://m.ithome.com/html/747901.htm)
 
++ [小米 Redmi K70 系列机型销量破 200 万台，日均约 3.3 万台](https://m.ithome.com/html/747955.htm)
+
++ [“国内领先”纳米固态钠电池在重庆中试下线：成本不到锂电一半，能量密度相当](https://m.ithome.com/html/747872.htm)
+
