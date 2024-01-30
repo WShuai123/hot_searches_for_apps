@@ -45,3 +45,5 @@
 
 + [小米 WiFi 7 路由器 BE 3600 2.5G 版开售：1 个 2.5G 网口 + 3 个千兆网口，首发 249 元](https://m.ithome.com/html/747950.htm)
 
++ [搭建仅需 3 分钟，和好朋友一起联机玩《幻兽帕鲁》](https://m.ithome.com/html/747874.htm)
+

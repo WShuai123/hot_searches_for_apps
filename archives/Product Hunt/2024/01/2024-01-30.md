@@ -155,3 +155,21 @@
 
 + [Bizway](https://www.producthunt.com/posts/bizway)
 
++ [Quiet Places Finder](https://www.producthunt.com/posts/quiet-places-finder)
+
++ [Univerbal (formerly Quazel)](https://www.producthunt.com/posts/univerbal-formerly-quazel)
+
++ [Design QB](https://www.producthunt.com/posts/design-qb)
+
++ [Screens](https://www.producthunt.com/posts/screens-3)
+
++ [Noon x Microsoft Teams](https://www.producthunt.com/posts/noon-x-microsoft-teams)
+
++ [Framer Support](https://www.producthunt.com/posts/framer-support)
+
++ [Noise](https://www.producthunt.com/posts/noise-5d8abe7a-7c20-4c72-a645-b7db78dfa785)
+
++ [Blozum](https://www.producthunt.com/posts/blozum)
+
++ [Pebble](https://www.producthunt.com/posts/pebble-app)
+

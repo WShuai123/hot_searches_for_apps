@@ -63,3 +63,7 @@
 
 + [能源巨头施耐德被勒索攻击，泄露TB级数据](https://www.freebuf.com/news/390945.html)
 
++ [1.5亿条会员信息“裸奔”，知名火锅品牌被罚](https://www.freebuf.com/news/390992.html)
+
++ [中位数20万美元，勒索赎金支付率降至历史最低！](https://www.freebuf.com/news/390967.html)
+
