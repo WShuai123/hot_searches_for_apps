@@ -51,3 +51,7 @@
 
 + [三星 Bixby 迎来视觉焕新，UI 和动画更精致](https://m.ithome.com/html/747887.htm)
 
++ [华为龙年主题手机壳上架官网：涵盖 Mate60 Pro/+、Mate X5，119-168 元](https://m.ithome.com/html/748010.htm)
+
++ [OPPO 与诺基亚达成协议，一加重返德国市场](https://m.ithome.com/html/747903.htm)
+

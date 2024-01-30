@@ -219,3 +219,11 @@
 
 + [腾讯视频-在暴雪时分全网独播](https://itunes.apple.com/cn/app/id458318329?mt=8)
 
++ [噗叽](https://itunes.apple.com/cn/app/id1439077104?mt=8)
+
++ [快影-创作有趣的视频](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
