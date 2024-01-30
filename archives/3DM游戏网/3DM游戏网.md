@@ -279,3 +279,15 @@
 
 + [生存模拟游戏《汉尘：腐草为萤》Q2发售 登陆Steam](https://www.3dmgame.com/news/202401/3887285.html)
 
++ [《女神异闻录3：Reload》IGN 9分：值得重温的经典之作](https://www.3dmgame.com/news/202401/3887291.html)
+
++ [《动物园之星》3月26日登陆主机 售价49.99美元](https://www.3dmgame.com/news/202401/3887290.html)
+
++ [微软修复漏洞 旗下AI不能再生成名人假裸照](https://www.3dmgame.com/news/202401/3887289.html)
+
++ [《幻兽帕鲁》Xbox版性能分析 Xbox Series X也达不到60FPS](https://www.3dmgame.com/news/202401/3887288.html)
+
++ [芯片已植入人脑！马斯克：用意念控制手机](https://www.3dmgame.com/news/202401/3887287.html)
+
++ [《自杀小队：战胜正义联盟》过场动画：蝙蝠侠之死](https://www.3dmgame.com/news/202401/3887286.html)
+
