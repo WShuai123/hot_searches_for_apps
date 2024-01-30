@@ -101,3 +101,7 @@
 
 + [Bizway](https://www.producthunt.com/posts/bizway)
 
++ [ColdScribe](https://www.producthunt.com/posts/coldscribe)
+
++ [Scope](https://www.producthunt.com/posts/scope-8)
+
