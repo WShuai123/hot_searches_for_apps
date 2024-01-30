@@ -123,3 +123,39 @@
 
 + [KLab将与《幻兽帕鲁》开发商打造休闲游戏](https://www.3dmgame.com/news/202401/3887205.html)
 
++ [《特殊行动：一线生机》Steam突然停售 非官方渠道依然可买](https://www.3dmgame.com/news/202401/3887219.html)
+
++ [德国联邦州提案立法 彻底禁止游戏战利品箱](https://www.3dmgame.com/news/202401/3887220.html)
+
++ [前《黑道圣徒》开发商Volition主创成立新工作室Shapeshifter Games](https://www.3dmgame.com/news/202401/3887221.html)
+
++ [白金手游《百鬼魔道》关服时间提前 1月31日正式结束运营](https://www.3dmgame.com/news/202401/3887223.html)
+
++ [88岁“游戏爷爷”获吉尼斯认证：最年长B站游戏博主](https://www.3dmgame.com/news/202401/3887224.html)
+
++ [《驱灵者：新伊甸的幽灵》“Antea的肖像”预告 2月13日发售](https://www.3dmgame.com/news/202401/3887222.html)
+
++ [官方澄清《模拟人生4》登陆Switch：没有这个计划](https://www.3dmgame.com/news/202401/3887225.html)
+
++ [3D冒险游戏《水隐之城》确定3月14日发售 登陆多平台](https://www.3dmgame.com/news/202401/3887212.html)
+
++ [回合制战术《高水位》3月14日发售 登陆全平台](https://www.3dmgame.com/news/202401/3887198.html)
+
++ [Nexon针对《Dark and Darker》初步禁令被驳回](https://www.3dmgame.com/news/202401/3887213.html)
+
++ [锐龙7 8700G核显给力：性能已超GTX 1650](https://www.3dmgame.com/news/202401/3887214.html)
+
++ [故事游戏《悟道》Steam页面上线 年内正式上线](https://www.3dmgame.com/news/202401/3887215.html)
+
++ [《铁拳》制作人知道粉丝希望将《最终幻想》的蒂法纳入游戏中](https://www.3dmgame.com/news/202401/3887216.html)
+
++ [《魔女之泉R》将登陆主机平台 PC版2月上线大更新](https://www.3dmgame.com/news/202401/3887217.html)
+
++ [《龙之信条2》只有一个存档槽 自动和手动保存共用](https://www.3dmgame.com/news/202401/3887218.html)
+
++ [《雾锁王国》发售4天 总玩家现已突破100万](https://www.3dmgame.com/news/202401/3887209.html)
+
++ [冒险游戏《Open Roads》跳票 延期到3月28日发售](https://www.3dmgame.com/news/202401/3887210.html)
+
++ [《自杀小队》抢先体验不到一小时 官方紧急将服务器下线](https://www.3dmgame.com/news/202401/3887211.html)
+

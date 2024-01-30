@@ -133,3 +133,9 @@
 
 + [Ubuntu本地部署Nextcloud并结合内网穿透实现远程访问搭建个人云盘](https://blog.csdn.net/Aileenvov/article/details/135918580)
 
++ [计算机视觉：高级图像处理，满足您的所有需求。](https://blog.csdn.net/gongdiwudu/article/details/135891018)
+
++ [大模型机器人的爆发时刻：从RoboFlamingo、OK-Robot到Google机器人、CMU机器人](https://blog.csdn.net/v_JULY_v/article/details/135888751)
+
++ [2024美赛数学建模E题思路+模型+代码+论文](https://blog.csdn.net/weixin_45499067/article/details/135901989)
+

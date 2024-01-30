@@ -43,3 +43,7 @@
 
 + [2023年网络安全领域十大并购案例](https://www.freebuf.com/news/390373.html)
 
++ [绕过Linux内核保护的控制流劫持漏洞](https://www.freebuf.com/vuls/390217.html)
+
++ [FreeBuf早报 | 美国国家安全局秘密购买用户网络数据；12306拦截恶意“抢票”软件](https://www.freebuf.com/news/390904.html)
+
