@@ -275,3 +275,5 @@
 
 + [报道称孩之宝欲出售《龙与地下城》IP 腾讯是买家之一](https://www.3dmgame.com/news/202401/3887270.html)
 
++ [国产动画电影《三国第一部：争洛阳》已立项](https://www.3dmgame.com/news/202401/3887284.html)
+

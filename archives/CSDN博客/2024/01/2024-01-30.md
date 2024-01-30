@@ -185,3 +185,9 @@
 
 + [腾讯云云监控实践：使用云审计 CloudAudit SDK 精准管理腾讯云资源](https://blog.csdn.net/dietime1943/article/details/135928819)
 
++ [AI创作之旅：探索提示工程的奇妙世界](https://blog.csdn.net/m0_68662723/article/details/135934421)
+
++ [网络安全知识和华为防火墙](https://blog.csdn.net/m0_72654572/article/details/135922128)
+
++ [双非本科准备秋招（8.2）——JVM1](https://blog.csdn.net/qq_62726880/article/details/135879424)
+

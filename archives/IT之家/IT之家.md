@@ -57,3 +57,7 @@
 
 + [比亚迪：预计 2023 年净利润 290 亿元-310 亿元，同比增长 74.46%-86.49%](https://m.ithome.com/html/747891.htm)
 
++ [消息称苹果 A18 Pro 在 Geekbench 6 中可实现 3500/8200 单多核跑分](https://m.ithome.com/html/748049.htm)
+
++ [【IT之家开箱】Redmi Note 13 Pro 新春版图赏：好运红，迎龙年红运](https://m.ithome.com/html/747967.htm)
+
