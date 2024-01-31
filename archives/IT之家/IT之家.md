@@ -47,3 +47,7 @@
 
 + [全球首例！我国脑机接口技术突破，四肢截瘫患者实现脑控喝水](https://m.ithome.com/html/748148.htm)
 
++ [微信 iOS 版 8.0.47 最新官方正式版下载发布](https://m.ithome.com/html/748129.htm)
+
++ [苹果发布 iOS / iPadOS 17.4 首个公测版：应欧盟新规调整应用生态](https://m.ithome.com/html/748099.htm)
+

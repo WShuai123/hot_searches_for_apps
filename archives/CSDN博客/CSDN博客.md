@@ -169,3 +169,5 @@
 
 + [2024.1.30 Spark SQL的高级用法](https://blog.csdn.net/m0_49956154/article/details/135939706)
 
++ [视频转GIF动图实践, 支持长视频转GIF](https://blog.csdn.net/fanweilin0123/article/details/135909138)
+

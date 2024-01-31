@@ -257,3 +257,15 @@
 
 + [《Dealer Simulator》Steam抢先体验 仓库废品回收模拟](https://www.3dmgame.com/news/202401/3887363.html)
 
++ [《流放者传说：初踏旅程》今日在Steam平台免费上线](https://www.3dmgame.com/news/202401/3887378.html)
+
++ [《GTA6》或有健身运动系统：提高属性 影响外观](https://www.3dmgame.com/news/202401/3887374.html)
+
++ [AMD第四财季净利润暴增超3000%！AI芯片销售超预期](https://www.3dmgame.com/news/202401/3887377.html)
+
++ [集众所长，“汇流”登场！宝可梦卡牌补充包“九彩汇聚”梦幻来袭](https://www.3dmgame.com/news/202401/3887376.html)
+
++ [《海盗遗产》Steam抢先体验 加勒比海盗生活模拟器](https://www.3dmgame.com/news/202401/3887375.html)
+
++ [我国高速飞车全尺寸超导电动悬浮试验成功 未来目标时速1000公里](https://www.3dmgame.com/news/202401/3887373.html)
+
