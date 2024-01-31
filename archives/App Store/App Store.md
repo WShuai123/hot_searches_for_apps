@@ -207,3 +207,7 @@
 
 + [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
