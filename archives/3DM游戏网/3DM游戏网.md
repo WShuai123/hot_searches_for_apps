@@ -281,3 +281,11 @@
 
 + [微星CLAW掌机共有三个版本 起价700美元](https://www.3dmgame.com/news/202401/3887385.html)
 
++ [苹果Vision Pro媒体评测解禁：The Verge 7分](https://www.3dmgame.com/news/202401/3887388.html)
+
++ [《伊苏 塞尔塞塔的树海：改》Steam®版将于2024年春天上市](https://www.3dmgame.com/news/202401/3887387.html)
+
++ [《赛博朋克2077》《往日之影》2.11版本更新上线](https://www.3dmgame.com/news/202401/3887386.html)
+
++ [《细胞分裂：重制版》有望在2025或2026年发售](https://www.3dmgame.com/news/202401/3887384.html)
+

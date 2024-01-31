@@ -59,3 +59,5 @@
 
 + [消息称小米 14 Ultra 手机“必涨价”，通信、材料、电池等自研成果将首次落地](https://m.ithome.com/html/748254.htm)
 
++ [能看完 3 小时《复仇者联盟 4：终局之战》电影，苹果 Vision Pro 头显续航实测](https://m.ithome.com/html/748108.htm)
+
