@@ -41,3 +41,7 @@
 
 + [蓝箭航天回应上海松江区“爆炸”传闻：爆破实验导致公司三位人员受轻微擦伤](https://m.ithome.com/html/748027.htm)
 
++ [三星 Galaxy S24 / S24+/Ultra 手机今日开售，首发价 4999 元起](https://m.ithome.com/html/748154.htm)
+
++ [内部人士回应“格力发 G3 手机抵扣年终奖”：假的，年终奖是 2 亿奖金](https://m.ithome.com/html/748167.htm)
+

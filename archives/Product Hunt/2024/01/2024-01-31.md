@@ -105,3 +105,17 @@
 
 + [Scope](https://www.producthunt.com/posts/scope-8)
 
++ [Leprechaun AI](https://www.producthunt.com/posts/leprechaun-ai)
+
++ [Share GPT](https://www.producthunt.com/posts/share-gpt)
+
++ [GPTGuard](https://www.producthunt.com/posts/gptguard-2)
+
++ [Pirsch Analytics 2.0](https://www.producthunt.com/posts/pirsch-analytics-2-0)
+
++ [Outseta Webflow App](https://www.producthunt.com/posts/outseta-webflow-app)
+
++ [Pixeebot](https://www.producthunt.com/posts/pixeebot)
+
++ [Tailbox](https://www.producthunt.com/posts/tailbox)
+
