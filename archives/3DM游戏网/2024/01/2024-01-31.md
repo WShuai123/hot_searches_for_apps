@@ -209,3 +209,5 @@
 
 + [玩家反响不需要《黑暗之魂4》画蛇添足 三代已经完美收场](https://www.3dmgame.com/news/202401/3887348.html)
 
++ [科技解放双手 Twitch主播用意念玩《幻兽帕鲁》](https://www.3dmgame.com/news/202401/3887349.html)
+
