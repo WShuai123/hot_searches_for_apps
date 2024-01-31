@@ -149,3 +149,11 @@
 
 + [免费分享一套微信小程序外卖跑腿点餐(订餐)系统(uni-app+SpringBoot后端+Vue管理端技术实现) ，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/135881792)
 
++ [ONLYOFFICE：兼顾协作与安全的开源办公套件](https://blog.csdn.net/Qingai521/article/details/135947950)
+
++ [目标检测算法训练数据准备——Penn-Fudan数据集预处理实例说明（附代码）](https://blog.csdn.net/m0_49963403/article/details/135718342)
+
++ [游戏中排行榜的后台实现](https://blog.csdn.net/weixin_54227075/article/details/135902429)
+
++ [云原生 k8s 可能使用到的端口整理【不定期更新】](https://blog.csdn.net/peng2hui1314/article/details/135927532)
+

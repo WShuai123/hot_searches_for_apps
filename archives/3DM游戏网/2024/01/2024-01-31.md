@@ -201,3 +201,11 @@
 
 + [《命运/守护之夜：重制版》宣布 今年登陆NS和Steam支持简中](https://www.3dmgame.com/news/202401/3887343.html)
 
++ [英雄联盟抖音直播2月6日全面开放 5日技术测试](https://www.3dmgame.com/news/202401/3887345.html)
+
++ [微软大裁员后 解雇了动视暴雪电子竞技组织的大部分员工](https://www.3dmgame.com/news/202401/3887346.html)
+
++ [《如龙8》获得Fami通满分评价：大人的玩具箱](https://www.3dmgame.com/news/202401/3887347.html)
+
++ [玩家反响不需要《黑暗之魂4》画蛇添足 三代已经完美收场](https://www.3dmgame.com/news/202401/3887348.html)
+
