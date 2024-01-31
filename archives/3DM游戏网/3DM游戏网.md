@@ -131,3 +131,13 @@
 
 + [春节期间《碧海黑帆》开启不限量免费公测](https://www.3dmgame.com/news/202401/3887299.html)
 
++ [微软澄清《圣剑传说》将登陆XGP：目前没有计划](https://www.3dmgame.com/news/202401/3887313.html)
+
++ [《你好邻居》设计师新作《BRO》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3887314.html)
+
++ [《漫漫长夜》开发商透露“未公布的生存游戏”可能是《漫漫长夜2》](https://www.3dmgame.com/news/202401/3887312.html)
+
++ [EA 2024 Q3财报：更名后FC系列仍推动主要增长](https://www.3dmgame.com/news/202401/3887311.html)
+
++ [《News Tower》Steam试玩发布 新闻报业经营模拟](https://www.3dmgame.com/news/202401/3887310.html)
+

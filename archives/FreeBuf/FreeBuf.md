@@ -45,3 +45,5 @@
 
 + [美杜莎（Medusa）勒索软件如何把你的文件变成了“石头”](https://www.freebuf.com/articles/network/390339.html)
 
++ [数据安全自评估企业实践](https://www.freebuf.com/articles/es/390267.html)
+
