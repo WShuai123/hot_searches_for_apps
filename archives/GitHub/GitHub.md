@@ -51,3 +51,33 @@
 
 + [zedeus / nitter](https://github.com/zedeus/nitter)
 
++ [leptonai / leptonai](https://github.com/leptonai/leptonai)
+
++ [joevess / IPTV](https://github.com/joevess/IPTV)
+
++ [nrwl / nx](https://github.com/nrwl/nx)
+
++ [all-in-aigc / aicover](https://github.com/all-in-aigc/aicover)
+
++ [FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
+
++ [PKU-YuanGroup / MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)
+
++ [mlflow / mlflow](https://github.com/mlflow/mlflow)
+
++ [microsoft / playwright](https://github.com/microsoft/playwright)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+
++ [microsoft / sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
+
++ [opensourcecheemsburgers / RustyTube](https://github.com/opensourcecheemsburgers/RustyTube)
+
++ [polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular)
+
++ [Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR)
+
++ [collabora / WhisperFusion](https://github.com/collabora/WhisperFusion)
+
