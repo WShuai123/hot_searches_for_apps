@@ -109,3 +109,25 @@
 
 + [索尼聘请了女团“新学校领袖”拍摄新PS5广告](https://www.3dmgame.com/news/202401/3887295.html)
 
++ [《星空》1.9.51版补丁已上线：迄今为止最重大更新](https://www.3dmgame.com/news/202401/3887309.html)
+
++ [《火爆狂飙》3A新作或在开发中 使用虚幻5引擎](https://www.3dmgame.com/news/202401/3887307.html)
+
++ [《巫师：重制版》将删除原作过时糟糕部分：不许歧视女性](https://www.3dmgame.com/news/202401/3887308.html)
+
++ [《自杀小队：战胜正义联盟》主线剧情仅仅9个小时](https://www.3dmgame.com/news/202401/3887306.html)
+
++ [《魂斗罗：加鲁加行动》公布新版第三关BGM](https://www.3dmgame.com/news/202401/3887305.html)
+
++ [《命运2》与《质量效应》将展开联动活动](https://www.3dmgame.com/news/202401/3887304.html)
+
++ [《自杀小队》补偿豪华版玩家 赠送价值20美元游戏内货币](https://www.3dmgame.com/news/202401/3887303.html)
+
++ [微软Q2财报：游戏部门营收大涨49% 动视暴雪贡献21亿美元](https://www.3dmgame.com/news/202401/3887302.html)
+
++ [《我的世界》推出全新《怪兽哥斯拉》DLC](https://www.3dmgame.com/news/202401/3887301.html)
+
++ [《暗黑破坏神4》2024春节限时活动即将上线](https://www.3dmgame.com/news/202401/3887300.html)
+
++ [春节期间《碧海黑帆》开启不限量免费公测](https://www.3dmgame.com/news/202401/3887299.html)
+

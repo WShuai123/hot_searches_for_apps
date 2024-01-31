@@ -29,3 +29,5 @@
 
 + [缅北“四大家族”头目落网，10 名重大电信诈骗嫌犯被押解回国](https://m.ithome.com/html/748093.htm)
 
++ [Linus 新年首骂：和谷歌大佬大吵 4 天，“你的代码就是垃圾”](https://m.ithome.com/html/748081.htm)
+
