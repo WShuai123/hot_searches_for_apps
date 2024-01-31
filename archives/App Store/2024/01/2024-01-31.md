@@ -221,3 +221,7 @@
 
 + [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
