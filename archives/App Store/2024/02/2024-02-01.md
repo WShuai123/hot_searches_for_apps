@@ -201,3 +201,9 @@
 
 + [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
 
++ [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+

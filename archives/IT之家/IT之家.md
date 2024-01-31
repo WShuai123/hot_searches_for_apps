@@ -25,3 +25,5 @@
 
 + [能看完 3 小时《复仇者联盟 4：终局之战》电影，苹果 Vision Pro 头显续航实测](https://m.ithome.com/html/748108.htm)
 
++ [消息称高通 3 月发布 SM7675 及 SM8635 芯片，全面继承骁龙 8 Gen3 架构](https://m.ithome.com/html/748213.htm)
+
