@@ -109,3 +109,15 @@
 
 + [Paradox公布《吸血鬼：避世血族2》实机视频](https://www.3dmgame.com/news/202402/3887394.html)
 
++ [小岛秀夫游戏《死亡搁浅2》发布9分钟超长预告](https://www.3dmgame.com/news/202402/3887403.html)
+
++ [Capcom发布《龙之信条2》新预告展示各职业动作](https://www.3dmgame.com/news/202402/3887402.html)
+
++ [《寂静岭2：重制版》新战斗预告 《寂静岭：短讯》正式公布](https://www.3dmgame.com/news/202402/3887401.html)
+
++ [游戏制作人深度讲解PS5独占《浪人崛起》](https://www.3dmgame.com/news/202402/3887400.html)
+
++ [《星刃》4月26日发售登陆PS5 新中文宣传片公开](https://www.3dmgame.com/news/202402/3887399.html)
+
++ [RTX 4080 Super现已正式推出 售价8099元起](https://www.3dmgame.com/news/202402/3887398.html)
+

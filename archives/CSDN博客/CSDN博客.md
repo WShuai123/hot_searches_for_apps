@@ -137,3 +137,5 @@
 
 + [RK3399 去掉HDMI音频](https://blog.csdn.net/xiaowang_lj/article/details/135940880)
 
++ [探索设计模式的魅力：精准解读桥接模式-用桥接模式构建可扩展的软件系统](https://blog.csdn.net/danci_/article/details/135949676)
+
