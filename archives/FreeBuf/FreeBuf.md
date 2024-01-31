@@ -49,3 +49,5 @@
 
 + [开门见“山”｜24年我们去火山引擎转了转](https://www.freebuf.com/news/391044.html)
 
++ [奔驰源代码意外泄露，暴露内部敏感数据](https://www.freebuf.com/news/391047.html)
+

@@ -163,3 +163,35 @@
 
 + [《模拟农场22》全球销量突破600万份](https://www.3dmgame.com/news/202401/3887315.html)
 
++ [抢先体验滑铁卢 “《自杀小队》退款”搜索量暴涨791%](https://www.3dmgame.com/news/202401/3887339.html)
+
++ [休闲解谜《Hidden Cat Outlaws》Steam页面 支持中文](https://www.3dmgame.com/news/202401/3887338.html)
+
++ [《皎月坠落之时》Steam页面上线 游戏发售日期待定](https://www.3dmgame.com/news/202401/3887342.html)
+
++ [《黎明杀机》联动《心灵杀手》DLC现已正式上线Steam](https://www.3dmgame.com/news/202401/3887341.html)
+
++ [经典养成《美少女梦工场》新作开发中 韩国开发商D-ZARD负责](https://www.3dmgame.com/news/202401/3887340.html)
+
++ [发行商解释《特殊行动：一线生机》停售下架：许可证到期](https://www.3dmgame.com/news/202401/3887337.html)
+
++ [我国首例无线微创脑机接口试验成功 有望先于马斯克产业化](https://www.3dmgame.com/news/202401/3887336.html)
+
++ [《奇迹时代4》公布“原始狂怒”DLC发售日预告 2月28日发售](https://www.3dmgame.com/news/202401/3887334.html)
+
++ [《妮姬：胜利女神》情人节活动曝光 完美女仆登场](https://www.3dmgame.com/news/202401/3887333.html)
+
++ [《地球防卫军6》中文版预购开启 3月14日发售](https://www.3dmgame.com/news/202401/3887326.html)
+
++ [国际奥组委：首届奥林匹克电竞运动会最晚于2026年举办](https://www.3dmgame.com/news/202401/3887329.html)
+
++ [《命运2》游戏总监Joe Blackburn辞职 设计师Tyson Green接棒](https://www.3dmgame.com/news/202401/3887328.html)
+
++ [Aonic成立发行部门 负责发行《杀出重围》主创新作](https://www.3dmgame.com/news/202401/3887327.html)
+
++ [《Spilled!》Steam试玩发布 海洋垃圾清理模拟](https://www.3dmgame.com/news/202401/3887330.html)
+
++ [华纳兄弟希望DC“永远在线”的游戏能够获得成功](https://www.3dmgame.com/news/202401/3887331.html)
+
++ [Loric Games获4百万美元融资 生软老将加入公司](https://www.3dmgame.com/news/202401/3887332.html)
+
