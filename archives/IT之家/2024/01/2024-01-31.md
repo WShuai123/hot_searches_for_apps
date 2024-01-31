@@ -61,3 +61,5 @@
 
 + [能看完 3 小时《复仇者联盟 4：终局之战》电影，苹果 Vision Pro 头显续航实测](https://m.ithome.com/html/748108.htm)
 
++ [米哈游被工信部点名：《原神》投诉处理及时率仅 39.3%](https://m.ithome.com/html/748263.htm)
+
