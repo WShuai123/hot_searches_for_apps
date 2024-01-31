@@ -237,3 +237,23 @@
 
 + [结碧蓝之约！《Granblue Fantasy: Relink》各角色战斗风格介绍](https://www.3dmgame.com/news/202401/3887354.html)
 
++ [《幻兽帕鲁》提醒玩家没有手游版应用：小心被骗](https://www.3dmgame.com/news/202401/3887372.html)
+
++ [《魔药奇谭》定档预告 3月8日正式上线Steam](https://www.3dmgame.com/news/202401/3887370.html)
+
++ [前任天堂设计师谈《幻兽帕鲁》：任天堂应该采取措施了](https://www.3dmgame.com/news/202401/3887371.html)
+
++ [日本官方终于决定淘汰软盘 网友：那是啥](https://www.3dmgame.com/news/202401/3887369.html)
+
++ [多少你会为雷军买单！消息称小米汽车计划2月量产：7月可月产万辆](https://www.3dmgame.com/news/202401/3887368.html)
+
++ [卡普空宣布《生化危机4：重制版》销量已超648万](https://www.3dmgame.com/news/202401/3887367.html)
+
++ [卡维尔主演 盖里奇动作喜剧《绝密型战》首发预告](https://www.3dmgame.com/news/202401/3887366.html)
+
++ [丰田汽车宣布召回79万辆汽车：车轮连接部件可能开裂](https://www.3dmgame.com/news/202401/3887365.html)
+
++ [《紫塞秋风》新修版免费试玩今日上线！实机画面对比、试玩指引发布](https://www.3dmgame.com/news/202401/3887364.html)
+
++ [《Dealer Simulator》Steam抢先体验 仓库废品回收模拟](https://www.3dmgame.com/news/202401/3887363.html)
+
