@@ -141,3 +141,25 @@
 
 + [《News Tower》Steam试玩发布 新闻报业经营模拟](https://www.3dmgame.com/news/202401/3887310.html)
 
++ [微软 2024 Q2财报：游戏部门收入已超过Windows](https://www.3dmgame.com/news/202401/3887324.html)
+
++ [《苍翼：混沌效应》Steam正式推出 好评肉鸽横版动作](https://www.3dmgame.com/news/202401/3887325.html)
+
++ [《战地》游作至少要等到2025年 多个工作室正在努力](https://www.3dmgame.com/news/202401/3887322.html)
+
++ [育碧未来三年游戏曝光 《法外狂徒》《刺客RED》今年出](https://www.3dmgame.com/news/202401/3887323.html)
+
++ [宝可梦MOD被禁止后 作者为《幻兽帕鲁》带来了“合法的口袋生物”](https://www.3dmgame.com/news/202401/3887321.html)
+
++ [微软也不满苹果欧盟新策 Xbox高管：朝错误方向迈步](https://www.3dmgame.com/news/202401/3887320.html)
+
++ [生存游戏《夜莺》将在2月2日开始为期三小时的快速压力测试](https://www.3dmgame.com/news/202401/3887317.html)
+
++ [《最终幻想7：重生》采用虚幻4开发 以便更快发售](https://www.3dmgame.com/news/202401/3887319.html)
+
++ [《最终幻想》像素复刻版Steam版更新 追加主机版额外功能](https://www.3dmgame.com/news/202401/3887318.html)
+
++ [《龙之信条2》没有任务板或任务标记 让探索更具成就感](https://www.3dmgame.com/news/202401/3887316.html)
+
++ [《模拟农场22》全球销量突破600万份](https://www.3dmgame.com/news/202401/3887315.html)
+
