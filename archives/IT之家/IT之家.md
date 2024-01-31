@@ -37,3 +37,5 @@
 
 + [苹果 Apple Pay 交通卡《蔚蓝档案》0.5 周年纪念电子卡面限时免费，iPhone / Apple Watch 用户可领](https://m.ithome.com/html/748017.htm)
 
++ [长城汽车坦克 700 Hi4-T 开启预售，预售价 46.8 万元起](https://m.ithome.com/html/748071.htm)
+

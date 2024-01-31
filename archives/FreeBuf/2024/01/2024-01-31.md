@@ -51,3 +51,5 @@
 
 + [奔驰源代码意外泄露，暴露内部敏感数据](https://www.freebuf.com/news/391047.html)
 
++ [企业挖矿病毒处置实战——专杀脚本从0到1](https://www.freebuf.com/articles/network/390612.html)
+

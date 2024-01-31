@@ -195,3 +195,9 @@
 
 + [Loric Games获4百万美元融资 生软老将加入公司](https://www.3dmgame.com/news/202401/3887332.html)
 
++ [《使命召唤》联动《行尸走肉》 瑞克及米琼恩加入](https://www.3dmgame.com/news/202401/3887335.html)
+
++ [Win11系统KB5034204补丁惹祸：各种崩溃 无法安装](https://www.3dmgame.com/news/202401/3887344.html)
+
++ [《命运/守护之夜：重制版》宣布 今年登陆NS和Steam支持简中](https://www.3dmgame.com/news/202401/3887343.html)
+
