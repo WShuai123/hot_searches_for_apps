@@ -101,3 +101,11 @@
 
 + [《命运/守护之夜：重制版》宣布 今年登陆NS和Steam支持简中](https://www.3dmgame.com/news/202401/3887343.html)
 
++ [《幻兽帕鲁》Steam和Xbox玩家数量超过1900万](https://www.3dmgame.com/news/202402/3887397.html)
+
++ [《兄弟：双子传说》重制版实机玩法预告片分享](https://www.3dmgame.com/news/202402/3887396.html)
+
++ [横版动作游戏《流放领主》2/14登陆各大平台](https://www.3dmgame.com/news/202402/3887395.html)
+
++ [Paradox公布《吸血鬼：避世血族2》实机视频](https://www.3dmgame.com/news/202402/3887394.html)
+

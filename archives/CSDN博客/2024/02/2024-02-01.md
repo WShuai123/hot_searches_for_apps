@@ -115,3 +115,25 @@
 
 + [游戏中排行榜的后台实现](https://blog.csdn.net/weixin_54227075/article/details/135902429)
 
++ [鸿蒙OS之Rust开发](https://blog.csdn.net/2301_76813281/article/details/135916752)
+
++ [存内计算技术—解决冯·诺依曼瓶颈的AI算力引擎](https://blog.csdn.net/weixin_52908342/article/details/135963010)
+
++ [【网络奇遇记】探索网络世界的奥秘：计算机网络导论|章末总结](https://blog.csdn.net/2301_80026901/article/details/135953926)
+
++ [语言革命：NLP与GPT-3.5如何改变我们的世界](https://blog.csdn.net/a1657054242/article/details/135962570)
+
++ [【人工智能课程】计算机科学博士作业二](https://blog.csdn.net/weixin_43935696/article/details/135931574)
+
++ [【云原生】docker-compose单机容器编排工具](https://blog.csdn.net/X2683933654/article/details/135935154)
+
++ [K8S搭建（centos）完整版](https://blog.csdn.net/mo_sss/article/details/135930838)
+
++ [探索设计模式的魅力：深入了解适配器模式-优雅地解决接口不匹配问题](https://blog.csdn.net/danci_/article/details/135891805)
+
++ [【轮式平衡机器人】——TMS320F28069片内外设之ADC](https://blog.csdn.net/weixin_51658186/article/details/135744010)
+
++ [如何对政务窗口的双屏进行良好的控制和操作？](https://blog.csdn.net/nychen2000/article/details/135934206)
+
++ [RK3399 去掉HDMI音频](https://blog.csdn.net/xiaowang_lj/article/details/135940880)
+
