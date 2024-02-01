@@ -305,3 +305,11 @@
 
 + [传闻：索尼新掌机开发中 兼容PS4和PS5游戏](https://www.3dmgame.com/news/202402/3887494.html)
 
++ [《仙剑四》豆瓣评分4.2 和原作无关系、毁经典](https://www.3dmgame.com/news/202402/3887499.html)
+
++ [Fami通新一周销量榜 《如龙8》登顶](https://www.3dmgame.com/news/202402/3887498.html)
+
++ [R级恐怖片《长腿怪》曝海报 尼古拉斯·凯奇主演](https://www.3dmgame.com/news/202402/3887497.html)
+
++ [《深岩银河：幸存者》2月14日登陆Steam抢先体验](https://www.3dmgame.com/news/202402/3887496.html)
+
