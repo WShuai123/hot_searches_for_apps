@@ -301,3 +301,7 @@
 
 + [腾讯收购《龙与地下城》IP？威世智出面否认](https://www.3dmgame.com/news/202402/3887493.html)
 
++ [《直到黎明》PC/PS5版采用虚幻5引擎开发 加入新的第三人称](https://www.3dmgame.com/news/202402/3887495.html)
+
++ [传闻：索尼新掌机开发中 兼容PS4和PS5游戏](https://www.3dmgame.com/news/202402/3887494.html)
+

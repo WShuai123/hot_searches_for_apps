@@ -61,3 +61,11 @@
 
 + [问界夺新势力销冠，华为余承东自称“余大嘴变余小嘴”：对智选车受欢迎程度预估保守了](https://m.ithome.com/html/748468.htm)
 
++ [京东苹果狂促加码：iPhone 15 低至 4639 元，Apple Music 免费听两月](https://m.ithome.com/html/748395.htm)
+
++ [低过 5 折：中兴 Axon 40 Pro 手机 12G 版 1582 元清仓（上市价 3298 元）](https://m.ithome.com/html/748367.htm)
+
++ [130TB 铠侠固态硬盘“上天”，用于国际空间站存储扩容](https://m.ithome.com/html/748444.htm)
+
++ [诺基亚官网正式移除手机板块，原链接跳转至 HMD Global 新网站](https://m.ithome.com/html/748382.htm)
+

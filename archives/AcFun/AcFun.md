@@ -137,3 +137,13 @@
 
 + [【转载搬运】《死亡搁浅2：冥滩》公布预告 State of Play](http://www.acfun.cn/v/ac43671663)
 
++ [Happy birthday to ParmyAU](http://www.acfun.cn/v/ac43675924)
+
++ [【奥雷】香港最恐怖的凶宅禁地！有关它的诡异传闻不胜枚举！《13号凶宅》](http://www.acfun.cn/v/ac43675145)
+
++ [这舞真白！Roly Poly！复古蹦迪【年跃龙门】](http://www.acfun.cn/v/ac43673185)
+
++ [其实是双马尾.....(今日好笑开心视频：1355)](http://www.acfun.cn/v/ac43675317)
+
++ [这长相，这气质，正好跟Acer凑成一对！欢乐八点档-817](http://www.acfun.cn/v/ac43674360)
+
