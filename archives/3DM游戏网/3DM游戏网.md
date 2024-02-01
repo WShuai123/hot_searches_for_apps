@@ -203,3 +203,9 @@
 
 + [英雄联盟“炽炎雏龙 斯莫德”介绍影片 领龙活动今日开启](https://www.3dmgame.com/news/202402/3887436.html)
 
++ [Epic Games商城赠送的免费游戏总价值已超过1万美元](https://www.3dmgame.com/news/202402/3887447.html)
+
++ [《泡沫明星》公开发布后赛季详情&路线图 S1新增排位赛](https://www.3dmgame.com/news/202402/3887446.html)
+
++ [可4人组队挑战的正统ARPG！《Granblue Fantasy: Relink》今日发售](https://www.3dmgame.com/news/202402/3887445.html)
+

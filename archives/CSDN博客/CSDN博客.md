@@ -159,3 +159,5 @@
 
 + [一站式在线协作开源办公软件ONLYOFFICE，协作更安全更便捷](https://blog.csdn.net/chenlycly/article/details/135948424)
 
++ [十分钟快速上手Spring Boot与微信小程序API接口的调用，快速开发小程序后端服务](https://blog.csdn.net/qq_41737694/article/details/135962524)
+

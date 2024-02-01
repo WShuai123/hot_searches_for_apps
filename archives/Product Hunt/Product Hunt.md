@@ -113,3 +113,5 @@
 
 + [Leprechaun AI](https://www.producthunt.com/posts/leprechaun-ai)
 
++ [State of Email 2024](https://www.producthunt.com/posts/state-of-email-2024)
+

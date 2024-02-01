@@ -39,3 +39,7 @@
 
 + [深蓝硬派越野车 G318 官图亮相：可选行李架、射灯，售价预计 30 万级别](https://m.ithome.com/html/748249.htm)
 
++ [格力电器声明：调增 2 亿元年终奖与免费配备工作手机无关](https://m.ithome.com/html/748268.htm)
+
++ [开发者用 ChatGPT 与超过 5000 位女性“约会”，成功找到未婚妻](https://m.ithome.com/html/748271.htm)
+
