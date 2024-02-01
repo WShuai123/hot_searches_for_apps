@@ -211,3 +211,23 @@
 
 + [国产短剧出海用AI换脸变外国人：至少降低20%成本](https://www.3dmgame.com/news/202402/3887448.html)
 
++ [《自杀小队》并非已故演员凯文·康罗伊最后一次扮演蝙蝠侠](https://www.3dmgame.com/news/202402/3887458.html)
+
++ [《崩坏：星穹铁道》千星纪游PV：「旧梦重温」](https://www.3dmgame.com/news/202402/3887457.html)
+
++ [《薄暮夏梦》2月8日登陆多平台 夏日青春物语ADV](https://www.3dmgame.com/news/202402/3887456.html)
+
++ [搞笑漫画《罗马浴场》时隔11年再度连载《续篇 罗马浴场》](https://www.3dmgame.com/news/202402/3887455.html)
+
++ [《魔法季节2》新CG预告&截图 沙漠开放世界介绍](https://www.3dmgame.com/news/202402/3887454.html)
+
++ [《街头霸王6》DLC角色“爱德”宣布2月27日上线](https://www.3dmgame.com/news/202402/3887453.html)
+
++ [《雪地奔驰》第12季拓展包《公共能源》现已正式发售](https://www.3dmgame.com/news/202402/3887452.html)
+
++ [Xbox“幻境风暴”手柄国行版2月19日发售 定价499元](https://www.3dmgame.com/news/202402/3887451.html)
+
++ [《飙速宅男》漫画全作免费福利读开启 期限截至2月21日](https://www.3dmgame.com/news/202402/3887450.html)
+
++ [《原神》拾枝杂谈-「嘉明：霓舞烟霞」](https://www.3dmgame.com/news/202402/3887449.html)
+

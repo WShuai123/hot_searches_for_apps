@@ -59,3 +59,5 @@
 
 + [工信部发布《工业控制系统网络安全防护指南》](https://www.freebuf.com/articles/391156.html)
 
++ [如何使用EDRSilencer通过为特定进程添加WFP筛选器阻止EDR出站流量](https://www.freebuf.com/sectool/389495.html)
+
