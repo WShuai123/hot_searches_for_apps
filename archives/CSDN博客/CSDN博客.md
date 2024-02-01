@@ -123,3 +123,5 @@
 
 + [Web3.0初探](https://blog.csdn.net/fish_skyyyy/article/details/135953513)
 
++ [论文推荐:大语言模型在金融领域的应用调查](https://blog.csdn.net/m0_46510245/article/details/135926108)
+

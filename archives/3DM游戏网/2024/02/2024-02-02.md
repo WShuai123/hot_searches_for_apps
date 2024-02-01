@@ -113,3 +113,5 @@
 
 + [《鬼泣3：特别版》《鬼泣4》已从Steam下架停售](https://www.3dmgame.com/news/202402/3887508.html)
 
++ [《直到黎明》原开发商Supermassive两名创始人卸任](https://www.3dmgame.com/news/202402/3887509.html)
+
