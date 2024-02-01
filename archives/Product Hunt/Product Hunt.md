@@ -177,3 +177,7 @@
 
 + [TinyCadence](https://www.producthunt.com/posts/tinycadence)
 
++ [VEED GPT 2.0 - Text to Video](https://www.producthunt.com/posts/veed-gpt-2-0-text-to-video)
+
++ [YASHICA Vision](https://www.producthunt.com/posts/yashica-vision)
+

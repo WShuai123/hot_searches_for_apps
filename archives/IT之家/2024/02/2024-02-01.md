@@ -49,3 +49,7 @@
 
 + [别了“诺基亚手机”，NokiaMobile 海外官号现已更名为 HMD](https://m.ithome.com/html/748291.htm)
 
++ [比亚迪元家族全新车型“元 UP”官图公布，定位 A0 级 SUV](https://m.ithome.com/html/748349.htm)
+
++ [戴尔中国回应工商信息变更：正常调整，不会对业务产生任何影响](https://m.ithome.com/html/748295.htm)
+
