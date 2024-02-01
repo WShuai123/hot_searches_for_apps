@@ -171,3 +171,9 @@
 
 + [【Spring Boot 源码学习】BootstrapRegistry 详解](https://blog.csdn.net/u012855229/article/details/135937639)
 
++ [【Linux取经路】进程控制——进程等待](https://blog.csdn.net/weixin_63115236/article/details/135719582)
+
++ [SpringBoot 集成 WebSocket，实现后台向前端推送信息](https://blog.csdn.net/qq_30614345/article/details/135824217)
+
++ [2024美赛数学建模D题思路+代码](https://blog.csdn.net/dc_sinor/article/details/135959521)
+

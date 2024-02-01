@@ -47,3 +47,5 @@
 
 + [梦想不灭，开发团队拒绝 Windows Phone 死亡：要恢复 YouTube 应用运行](https://m.ithome.com/html/748365.htm)
 
++ [别了“诺基亚手机”，NokiaMobile 海外官号现已更名为 HMD](https://m.ithome.com/html/748291.htm)
+
