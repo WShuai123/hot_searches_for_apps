@@ -201,3 +201,7 @@
 
 + [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
 
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+

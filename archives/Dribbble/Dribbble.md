@@ -49,3 +49,23 @@
 
 + [Runner's World (Editorial)](https://dribbble.com/shots/)
 
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [25% Off Summer Dreams Flash Sale](https://dribbble.com/shots/)
+
++ [Birthday Party Branding](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
++ [Pinecone to jewelry](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
++ ["Picnic collective" logo and characters](https://dribbble.com/shots/)
+
++ [Geometric Boy Logo](https://dribbble.com/shots/)
+
++ [Trees](https://dribbble.com/shots/)
+
++ [Travel and world monuments icons](https://dribbble.com/shots/)
+

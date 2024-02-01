@@ -101,3 +101,5 @@
 
 + [《雪地奔驰》第12季拓展包《公共能源》现已正式发售](https://www.3dmgame.com/news/202402/3887452.html)
 
++ [Epic喜加一：《门:悖论》免费领取](https://www.3dmgame.com/news/202402/3887502.html)
+
