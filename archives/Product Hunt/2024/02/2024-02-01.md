@@ -117,3 +117,15 @@
 
 + [Outseta Webflow App](https://www.producthunt.com/posts/outseta-webflow-app)
 
++ [One Punch Man World](https://www.producthunt.com/posts/one-punch-man-world)
+
++ [Crypto Invoice Generator by Acctual](https://www.producthunt.com/posts/crypto-invoice-generator-by-acctual)
+
++ [Bounce Doctor](https://www.producthunt.com/posts/bounce-doctor)
+
++ [Quadratic Multiplayer](https://www.producthunt.com/posts/quadratic-multiplayer)
+
++ [Blackbell](https://www.producthunt.com/posts/blackbell)
+
++ [Flipner AI](https://www.producthunt.com/posts/flipner-ai)
+
