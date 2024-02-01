@@ -181,3 +181,7 @@
 
 + [YASHICA Vision](https://www.producthunt.com/posts/yashica-vision)
 
++ [Inky Notion](https://www.producthunt.com/posts/inky-notion)
+
++ [Favikon Chrome extension](https://www.producthunt.com/posts/favikon-chrome-extension-2)
+

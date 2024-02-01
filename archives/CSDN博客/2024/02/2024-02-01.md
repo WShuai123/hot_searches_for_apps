@@ -197,3 +197,7 @@
 
 + [Spring Boot 中文件上传](https://blog.csdn.net/weixin_65032328/article/details/135936793)
 
++ [2024美赛数学建模D题思路+模型+代码+论文（持续更新）](https://blog.csdn.net/weixin_45499067/article/details/135960996)
+
++ [鸿蒙开发-UI-组件3](https://blog.csdn.net/u013488266/article/details/135868613)
+

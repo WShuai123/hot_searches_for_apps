@@ -299,3 +299,5 @@
 
 + [Wi-Fi HaLow通过3公里超远程连接测试 创下Wi-Fi连接距离新记录](https://www.3dmgame.com/news/202402/3887492.html)
 
++ [腾讯收购《龙与地下城》IP？威世智出面否认](https://www.3dmgame.com/news/202402/3887493.html)
+
