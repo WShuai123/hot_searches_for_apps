@@ -69,3 +69,5 @@
 
 + [【破茄】今天录舞的花絮啦](http://www.acfun.cn/v/ac43676541)
 
++ [【A站首发】beyond the way翻唱](http://www.acfun.cn/v/ac43676623)
+

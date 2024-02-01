@@ -111,3 +111,5 @@
 
 + [《驱灵者：新伊甸的幽灵》新预告片展示战斗/探索](https://www.3dmgame.com/news/202402/3887504.html)
 
++ [《鬼泣3：特别版》《鬼泣4》已从Steam下架停售](https://www.3dmgame.com/news/202402/3887508.html)
+

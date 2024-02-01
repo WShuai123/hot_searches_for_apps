@@ -109,3 +109,17 @@
 
 + [2024美赛数学建模D题思路+模型+代码+论文（持续更新）](https://blog.csdn.net/weixin_45499067/article/details/135960996)
 
++ [PySimpleGUI 综合应用｜英语文本朗读以及转换为语音Mp3](https://blog.csdn.net/boysoft2002/article/details/135981765)
+
++ [Elasticsearch：构建自定义分析器指南](https://blog.csdn.net/UbuntuTouch/article/details/135954779)
+
++ [如何使用Docker部署JSON Crack](https://blog.csdn.net/Tiam_cr/article/details/135954132)
+
++ [Spring的事件监听机制](https://blog.csdn.net/qq_45716444/article/details/135959115)
+
++ [网络原理-TCP/IP(1)](https://blog.csdn.net/asdssadddd/article/details/135933595)
+
++ [在VM虚拟机上搭建MariaDB数据库服务器](https://blog.csdn.net/m0_74386218/article/details/135968494)
+
++ [Web3.0初探](https://blog.csdn.net/fish_skyyyy/article/details/135953513)
+
