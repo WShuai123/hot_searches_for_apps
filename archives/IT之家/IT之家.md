@@ -55,3 +55,7 @@
 
 + [因天气情况，申通快递对发往 12 省份快件提价：3 公斤以上每公斤涨 1-3 元](https://m.ithome.com/html/748280.htm)
 
++ [界面前瞻：微软 Win11 将原生支持 sudo 命令](https://m.ithome.com/html/748383.htm)
+
++ [微信输入法发布 iOS / 安卓 1.2.2 版本更新：支持剪贴板 / 选词粘贴、方言语音输入等](https://m.ithome.com/html/748275.htm)
+

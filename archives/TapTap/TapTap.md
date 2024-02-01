@@ -29,3 +29,5 @@
 
 + [元气骑士](https://www.taptap.cn/app/34751)
 
++ [战双帕弥什](https://www.taptap.cn/app/130651)
+

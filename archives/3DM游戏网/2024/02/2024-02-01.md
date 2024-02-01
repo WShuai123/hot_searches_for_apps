@@ -297,3 +297,5 @@
 
 + [《完蛋！我被美女包围》DLC新海报 三位大美女来啦](https://www.3dmgame.com/news/202402/3887477.html)
 
++ [Wi-Fi HaLow通过3公里超远程连接测试 创下Wi-Fi连接距离新记录](https://www.3dmgame.com/news/202402/3887492.html)
+

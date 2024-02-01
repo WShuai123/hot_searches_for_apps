@@ -51,3 +51,35 @@
 
 + [collabora / WhisperFusion](https://github.com/collabora/WhisperFusion)
 
++ [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
++ [webprodigies / plura-production](https://github.com/webprodigies/plura-production)
+
++ [ExOK / Celeste64](https://github.com/ExOK/Celeste64)
+
++ [haotian-liu / LLaVA](https://github.com/haotian-liu/LLaVA)
+
++ [containerd / containerd](https://github.com/containerd/containerd)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [skyzh / mini-lsm](https://github.com/skyzh/mini-lsm)
+
++ [vercel / next.js](https://github.com/vercel/next.js)
+
++ [curl / curl](https://github.com/curl/curl)
+
++ [deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+
++ [open-compass / opencompass](https://github.com/open-compass/opencompass)
+
++ [xlucn / oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android)
+
++ [microsoft / terminal](https://github.com/microsoft/terminal)
+
++ [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [sudheerj / reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+
