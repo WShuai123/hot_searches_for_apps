@@ -137,3 +137,31 @@
 
 + [小岛秀夫动作游戏新作《Physint》正式发表](https://www.3dmgame.com/news/202402/3887404.html)
 
++ [PS Plus 2月游戏更新 包含《泡沫明星》、《酷极轮滑》和《钢铁崛起》](https://www.3dmgame.com/news/202402/3887424.html)
+
++ [卡普空9个月财报：整体业务销售额破千亿日元](https://www.3dmgame.com/news/202402/3887423.html)
+
++ [港服PS+三档会员新增试玩游戏：《心灵杀手2》和《漫威蜘蛛侠2》](https://www.3dmgame.com/news/202402/3887420.html)
+
++ [《烽火与炊烟》Steam页面上线 国风开放世界经营探索](https://www.3dmgame.com/news/202402/3887422.html)
+
++ [小岛秀夫动作新作《PHYSINT》将超越电影和游戏之间障碍](https://www.3dmgame.com/news/202402/3887425.html)
+
++ [《女神异闻录３ Reload》PV04 预计今日发售](https://www.3dmgame.com/news/202402/3887421.html)
+
++ [《出租生涯：城市驾驶模拟器》实机预告 3月7日发售](https://www.3dmgame.com/news/202402/3887419.html)
+
++ [《潜水员戴夫》4月登陆PS 哥斯拉联动5月上线](https://www.3dmgame.com/news/202402/3887416.html)
+
++ [《最终幻想7：重生》最新情报将在下周的State of Play上发布](https://www.3dmgame.com/news/202402/3887415.html)
+
++ [《龙之信条2》全新截图 酷帅战斗狂虐众多怪物](https://www.3dmgame.com/news/202402/3887417.html)
+
++ [《风来之国》DLC《复活吧！海鸥镇》正式发售 末世历险的田园番外](https://www.3dmgame.com/news/202402/3887414.html)
+
++ [SE解散旗下工作室东京RPG工厂 并入总公司](https://www.3dmgame.com/news/202402/3887418.html)
+
++ [《夜族崛起》确定登陆PS5平台 预定2024年内发售](https://www.3dmgame.com/news/202402/3887412.html)
+
++ [Devolver旗下Artificer工作室裁员近一半员工](https://www.3dmgame.com/news/202402/3887413.html)
+

@@ -111,3 +111,5 @@
 
 + [GPTGuard](https://www.producthunt.com/posts/gptguard-2)
 
++ [Leprechaun AI](https://www.producthunt.com/posts/leprechaun-ai)
+

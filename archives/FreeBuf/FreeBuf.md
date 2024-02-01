@@ -45,3 +45,5 @@
 
 + [Kasseika勒索软件部署BYOVD攻击，滥用PsExec和利用Martini驱动程序 ](https://www.freebuf.com/articles/paper/390829.html)
 
++ [怎么有效申请网络安全预算？](https://www.freebuf.com/articles/neopoints/390831.html)
+

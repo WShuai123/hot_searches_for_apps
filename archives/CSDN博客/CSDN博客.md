@@ -145,3 +145,11 @@
 
 + [MySQL索引原理以及SQL优化](https://blog.csdn.net/weixin_73240939/article/details/135923900)
 
++ [MySQL必看表设计经验汇总-下(精华版)](https://blog.csdn.net/qq_62262918/article/details/135891065)
+
++ [Windows冷知识：最小化远程桌面与ffmpeg](https://blog.csdn.net/white_night_SZTU/article/details/135925210)
+
++ [【开源】基于JAVA+Vue+SpringBoot的数据可视化的智慧河南大屏](https://blog.csdn.net/javamyfriend/article/details/135926974)
+
++ [Axios类的二次封装](https://blog.csdn.net/weixin_49089046/article/details/135959955)
+
