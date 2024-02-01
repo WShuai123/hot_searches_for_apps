@@ -153,3 +153,9 @@
 
 + [Axios类的二次封装](https://blog.csdn.net/weixin_49089046/article/details/135959955)
 
++ [【SpringBoot系列】自动装配的魅力：Spring Boot vs 传统Spring](https://blog.csdn.net/jinxinxin1314/article/details/135964734)
+
++ [双异步系列完结撒花，如何解決异步事务问题？](https://blog.csdn.net/guorui_java/article/details/135660618)
+
++ [一站式在线协作开源办公软件ONLYOFFICE，协作更安全更便捷](https://blog.csdn.net/chenlycly/article/details/135948424)
+

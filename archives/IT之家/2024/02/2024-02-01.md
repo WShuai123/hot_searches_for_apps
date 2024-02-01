@@ -33,3 +33,5 @@
 
 + [消息称江淮、华为合作“百万级轿车”将对标宝马 7 系，今年四季度上市](https://m.ithome.com/html/748294.htm)
 
++ [首次全球发售，小米 MIX Fold 4 折叠屏手机曝光：代号“如意”，有望 5 月发布](https://m.ithome.com/html/748185.htm)
+

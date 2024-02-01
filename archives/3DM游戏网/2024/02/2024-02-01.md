@@ -165,3 +165,19 @@
 
 + [Devolver旗下Artificer工作室裁员近一半员工](https://www.3dmgame.com/news/202402/3887413.html)
 
++ [《死亡搁浅2》公开角色海报 还有更多角色尚未公布](https://www.3dmgame.com/news/202402/3887426.html)
+
++ [世嘉美国确认将于3月裁员 工会：已尽力维护权益](https://www.3dmgame.com/news/202402/3887427.html)
+
++ [又是Embracer 《星际迷航：无限》开发商 Nimble Giant确认裁员](https://www.3dmgame.com/news/202402/3887429.html)
+
++ [微软推出全新“Vapor”系列Xbox手柄 迷雾风格梦幻配色](https://www.3dmgame.com/news/202402/3887428.html)
+
++ [《监控人VS马桶男》登陆Steam 另类第一人称FPS](https://www.3dmgame.com/news/202402/3887430.html)
+
++ [VR游戏《地铁：觉醒》Steam页面 支持简中](https://www.3dmgame.com/news/202402/3887431.html)
+
++ [甄子丹将主演好莱坞电影《功夫》 改编自70年代美剧](https://www.3dmgame.com/news/202402/3887432.html)
+
++ [《幻兽帕鲁》成为XGP最大的第三方发布 Xbox将与开发商合作优化游戏](https://www.3dmgame.com/news/202402/3887433.html)
+
