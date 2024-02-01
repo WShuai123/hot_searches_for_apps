@@ -67,3 +67,5 @@
 
 + [【独家】everyday](http://www.acfun.cn/v/ac43669652)
 
++ [【破茄】今天录舞的花絮啦](http://www.acfun.cn/v/ac43676541)
+
