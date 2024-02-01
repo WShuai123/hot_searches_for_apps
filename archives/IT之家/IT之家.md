@@ -35,3 +35,7 @@
 
 + [首次全球发售，小米 MIX Fold 4 折叠屏手机曝光：代号“如意”，有望 5 月发布](https://m.ithome.com/html/748185.htm)
 
++ [2025 款宝马 M4 家族发布，外观内饰小升级](https://m.ithome.com/html/748276.htm)
+
++ [深蓝硬派越野车 G318 官图亮相：可选行李架、射灯，售价预计 30 万级别](https://m.ithome.com/html/748249.htm)
+

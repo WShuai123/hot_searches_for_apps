@@ -181,3 +181,25 @@
 
 + [《幻兽帕鲁》成为XGP最大的第三方发布 Xbox将与开发商合作优化游戏](https://www.3dmgame.com/news/202402/3887433.html)
 
++ [重新设计“寂静岭”网站 《短信》开发者的一封信](https://www.3dmgame.com/news/202402/3887443.html)
+
++ [《马里奥vs大金刚》试玩上线 2月16日正式发售](https://www.3dmgame.com/news/202402/3887444.html)
+
++ [Steam特别好评 休闲益智游戏《往左一点》2月15日登陆主机](https://www.3dmgame.com/news/202402/3887442.html)
+
++ [类CS竞技FPS开发商山巅工作室再获3千万融资](https://www.3dmgame.com/news/202402/3887441.html)
+
++ [新能源车的尴尬 网友吐槽高速服务区充电桩比加油还贵](https://www.3dmgame.com/news/202402/3887440.html)
+
++ [前《我的世界》Mojang开发者成立新工作室Roro](https://www.3dmgame.com/news/202402/3887439.html)
+
++ [《X战警：第一战》导演称：《死侍3》可以拯救漫威宇宙](https://www.3dmgame.com/news/202402/3887438.html)
+
++ [游戏媒体也逃不掉 新闻网站GameSpot再次裁员](https://www.3dmgame.com/news/202402/3887435.html)
+
++ [前《黑道圣徒》开发者的新工作室已加盟蒸汽朋克RPG《发条革命》的开发](https://www.3dmgame.com/news/202402/3887434.html)
+
++ [《攻壳机动队SAC》笑脸男OVA三天限期免费发布](https://www.3dmgame.com/news/202402/3887437.html)
+
++ [英雄联盟“炽炎雏龙 斯莫德”介绍影片 领龙活动今日开启](https://www.3dmgame.com/news/202402/3887436.html)
+

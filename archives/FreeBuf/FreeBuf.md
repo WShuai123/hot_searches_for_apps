@@ -47,3 +47,11 @@
 
 + [怎么有效申请网络安全预算？](https://www.freebuf.com/articles/neopoints/390831.html)
 
++ [DarkGate 恶意软件正在通过微软群聊进行大肆传播](https://www.freebuf.com/news/391138.html)
+
++ [CISA 发出警告，iPhone 内核漏洞正在被利用](https://www.freebuf.com/news/391136.html)
+
++ [江森自控称勒索软件攻击已造成 2700 万美元损失](https://www.freebuf.com/news/391141.html)
+
++ [欧洲汽车租赁公司Europcar否认数据泄露，称其为人工智能伪造](https://www.freebuf.com/news/391137.html)
+
