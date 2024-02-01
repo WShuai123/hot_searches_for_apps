@@ -181,3 +181,11 @@
 
 + [Spring Boot第一天](https://blog.csdn.net/Cary_cacb/article/details/135954948)
 
++ [基于腾讯云自然语言处理 NLP服务实现文本情感分析](https://blog.csdn.net/dietime1943/article/details/135961872)
+
++ [如何本地部署hMailServer邮件服务并实现远程发送邮件【内网穿透】](https://blog.csdn.net/hsjsiwkwm/article/details/135973172)
+
++ [2024年美国大学生数学建模竞赛经验分享(附历届美赛优秀论文和论文模板)](https://blog.csdn.net/clanned16/article/details/135919973)
+
++ [二维平面阵列波束赋形原理和Matlab仿真](https://blog.csdn.net/weixin_41691854/article/details/135954028)
+
