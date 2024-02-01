@@ -101,3 +101,11 @@
 
 + [Axios类的二次封装](https://blog.csdn.net/weixin_49089046/article/details/135959955)
 
++ [目标检测算法训练数据准备——Penn-Fudan数据集预处理实例说明（附代码）](https://blog.csdn.net/m0_49963403/article/details/135718342)
+
++ [云原生 k8s 可能使用到的端口整理【不定期更新】](https://blog.csdn.net/peng2hui1314/article/details/135927532)
+
++ [5G基站节能及数字化管理解决方案](https://blog.csdn.net/DamonGEM/article/details/135956351)
+
++ [2024美赛数学建模D题思路+模型+代码+论文（持续更新）](https://blog.csdn.net/weixin_45499067/article/details/135960996)
+

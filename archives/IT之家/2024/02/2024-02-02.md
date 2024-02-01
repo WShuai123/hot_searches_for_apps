@@ -25,3 +25,5 @@
 
 + [华为 & 问界“全国都能开”的城区“无图 NCA”首批推送，第二批今日起推送](https://m.ithome.com/html/748329.htm)
 
++ [耳机品牌“水月雨”造手机：5G 新机 MIAD01 入网，10W 充电](https://m.ithome.com/html/748462.htm)
+
