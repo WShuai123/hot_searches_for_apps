@@ -43,3 +43,5 @@
 
 + [开发者用 ChatGPT 与超过 5000 位女性“约会”，成功找到未婚妻](https://m.ithome.com/html/748271.htm)
 
++ [加量不加价：特斯拉 Model Y 升级 HW4.0 辅助驾驶硬件，同时推出 8000 元新春优惠、2000 元选配“快银”车漆等政策](https://m.ithome.com/html/748321.htm)
+

@@ -209,3 +209,5 @@
 
 + [可4人组队挑战的正统ARPG！《Granblue Fantasy: Relink》今日发售](https://www.3dmgame.com/news/202402/3887445.html)
 
++ [国产短剧出海用AI换脸变外国人：至少降低20%成本](https://www.3dmgame.com/news/202402/3887448.html)
+

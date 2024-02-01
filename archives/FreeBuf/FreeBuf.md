@@ -57,3 +57,5 @@
 
 + [传统制造行业——工控网络系统如何做网络安全](https://www.freebuf.com/articles/ics-articles/390568.html)
 
++ [工信部发布《工业控制系统网络安全防护指南》](https://www.freebuf.com/articles/391156.html)
+
