@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 美国国家安全局秘密购买用户网络数据；12306拦截恶意“抢票”软件](https://www.freebuf.com/news/390904.html)
 
++ [FreeBuf早报 | 阿联酋政府每天面临5万次网络攻击；暗网出售7.5亿印度移动用户数据](https://www.freebuf.com/news/391099.html)
+
++ [Kasseika勒索软件部署BYOVD攻击，滥用PsExec和利用Martini驱动程序 ](https://www.freebuf.com/articles/paper/390829.html)
+
