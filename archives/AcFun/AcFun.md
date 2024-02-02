@@ -61,3 +61,7 @@
 
 + [不带脑子看，越看越好看](http://www.acfun.cn/v/ac43684089)
 
++ [【Dina小崽】puppet show](http://www.acfun.cn/v/ac43668753)
+
++ [头一次见猪这么嗨…](http://www.acfun.cn/v/ac43684029)
+

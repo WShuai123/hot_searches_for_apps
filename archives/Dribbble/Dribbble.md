@@ -49,3 +49,23 @@
 
 + [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
 
++ [How to prepare yourself for emergencies on the road infographic](https://dribbble.com/shots/)
+
++ [Cali Bear Crusin](https://dribbble.com/shots/)
+
++ [Black Mamba Anti-Poaching Unit](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging](https://dribbble.com/shots/)
+
++ [Forest](https://dribbble.com/shots/)
+
++ [Town](https://dribbble.com/shots/)
+
++ [Pilgrim's Progress Playing Cards (Face cards)](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+

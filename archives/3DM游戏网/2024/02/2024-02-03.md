@@ -101,3 +101,9 @@
 
 + [《我的回收中心》登陆Steam限时优惠 垃圾回收模拟](https://www.3dmgame.com/news/202402/3887552.html)
 
++ [生存恐怖《法罗斯之光》上架Steam 支持中文](https://www.3dmgame.com/news/202402/3887606.html)
+
++ [PS3模拟器RPCS3现支持在线游玩 包括《恶魔之魂》](https://www.3dmgame.com/news/202402/3887604.html)
+
++ [视觉小说《新宿葬命》宣布延期至4月12日 开场动画公开](https://www.3dmgame.com/news/202402/3887605.html)
+
