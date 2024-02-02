@@ -147,3 +147,15 @@
 
 + [2024美赛C题思路/代码：网球中的动量](https://blog.csdn.net/weixin_46211269/article/details/135972112)
 
++ [Elasticsearch：将文档级安全性 (DLS) 添加到你的内部知识搜索](https://blog.csdn.net/UbuntuTouch/article/details/135975952)
+
++ [外星人入侵（python）](https://blog.csdn.net/weixin_64066303/article/details/135963588)
+
++ [使用 PyTorch 构建 NLP 聊天机器人](https://blog.csdn.net/gongdiwudu/article/details/135962655)
+
++ [美国NSA承认秘密购买数据；GitLab漏洞允许任意写入覆盖文件；Outlook漏洞泄露密码；| 安全周报0202](https://blog.csdn.net/weixin_55163056/article/details/135989223)
+
++ [基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(十六)](https://blog.csdn.net/m0_59230408/article/details/135044268)
+
++ [国密SM2 后端Hutool+前端sm-crypto](https://blog.csdn.net/weixin_43198844/article/details/135969882)
+

@@ -47,3 +47,5 @@
 
 + [Jenkins RCE漏洞PoC发布，CVE-2024-23897漏洞解析](https://www.freebuf.com/articles/neopoints/391038.html)
 
++ [对用友NC“任意文件读取”漏洞的分析](https://www.freebuf.com/vuls/390862.html)
+
