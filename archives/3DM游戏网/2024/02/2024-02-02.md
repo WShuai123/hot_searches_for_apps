@@ -271,3 +271,21 @@
 
 + [《我被美女包围》DLC倒计时预告和海报 美女让人心动](https://www.3dmgame.com/news/202402/3887585.html)
 
++ [多人联机生存合作《血清》免费试玩版亮相Steam新品节](https://www.3dmgame.com/news/202402/3887596.html)
+
++ [《失落城堡2》试玩版即将上线，2月2日一起引领新的冒险！](https://www.3dmgame.com/news/202402/3887595.html)
+
++ [《去远方》荣获2024台北国际电玩展“最佳手机游戏”](https://www.3dmgame.com/news/202402/3887591.html)
+
++ [Steam 94%特别好评游戏《深空梦里人》现已支持简体中文！](https://www.3dmgame.com/news/202402/3887594.html)
+
++ [GTAOL：西米恩为顶级豪华车业回收工作和和出口载具请求](https://www.3dmgame.com/news/202402/3887593.html)
+
++ [RTX4080 SUPER便宜1400元的秘密：供电和散热缩水](https://www.3dmgame.com/news/202402/3887592.html)
+
++ [在2024年的情人节，与《宝藏世界》中备受喜爱的恋爱地狱虫，共度欢乐时光吧！](https://www.3dmgame.com/news/202402/3887590.html)
+
++ [《失落城堡》现已登录Epic，2月9日起免费领](https://www.3dmgame.com/news/202402/3887589.html)
+
++ [聊天记录占超75%内存 微信体积再变大：手机存储撑不住](https://www.3dmgame.com/news/202402/3887588.html)
+

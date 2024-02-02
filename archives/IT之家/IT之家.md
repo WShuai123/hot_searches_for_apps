@@ -49,3 +49,9 @@
 
 + [音乐版权巨头环球音乐宣布与 TikTok 谈判破裂，不再续签授权协议](https://m.ithome.com/html/748586.htm)
 
++ [总台 2024 网络春晚节目单公布：薛凯琪、张信哲、Alan Walker 等今晚见](https://m.ithome.com/html/748631.htm)
+
++ [官宣春晚送车之后，消息称京东今年将加速布局汽车市场](https://m.ithome.com/html/748488.htm)
+
++ [百度文心一言 App 将支持一键生成“数字分身”：一张图、三句话即可创建](https://m.ithome.com/html/748513.htm)
+

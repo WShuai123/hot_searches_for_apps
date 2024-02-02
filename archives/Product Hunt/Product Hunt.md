@@ -141,3 +141,5 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Juno](https://www.producthunt.com/posts/juno-61e245ab-556a-4649-a188-3a4b38e99df2)
+

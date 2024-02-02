@@ -55,3 +55,5 @@
 
 + [黑客利用 Okta 攻击中窃取到的授权令牌，攻击 Cloudflare](https://www.freebuf.com/news/391275.html)
 
++ [如何保障日志完整性；JS代码深度混淆 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/391256.html)
+
