@@ -143,3 +143,7 @@
 
 + [2024年美赛 （B题MCM）| 潜水艇 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/135985256)
 
++ [深度学习的应用实例：重塑各个领域的未来](https://blog.csdn.net/double222222/article/details/135946495)
+
++ [2024美赛C题思路/代码：网球中的动量](https://blog.csdn.net/weixin_46211269/article/details/135972112)
+

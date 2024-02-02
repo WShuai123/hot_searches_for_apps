@@ -185,3 +185,17 @@
 
 + [科乐美财报：《桃太郎电铁》推动9个月利润上涨53%](https://www.3dmgame.com/news/202402/3887537.html)
 
++ [《地铁：觉醒》是衍生游戏 系列正统续作还在开发中](https://www.3dmgame.com/news/202402/3887546.html)
+
++ [《肯泽拉传说：扎乌》–现已于 Steam 新品节推出试玩！](https://www.3dmgame.com/news/202402/3887550.html)
+
++ [麻枝准最新力作《炽焰天穹》首曝PV 现已开启预约](https://www.3dmgame.com/news/202402/3887551.html)
+
++ [《荣耀战魂》发布周更新内容 新外观服装和全新处决动作](https://www.3dmgame.com/news/202402/3887549.html)
+
++ [扎克伯格抨击苹果：iPhone开放只是个幌子](https://www.3dmgame.com/news/202402/3887548.html)
+
++ [欧洲游戏开发者联盟对苹果欧盟新策“很失望”](https://www.3dmgame.com/news/202402/3887547.html)
+
++ [网飞版《三体》剧集新预告 3月21日正式开播](https://www.3dmgame.com/news/202402/3887545.html)
+
