@@ -67,3 +67,5 @@
 
 + [【东方】Diamond Sky【小恶魔 Ver. MMD】](http://www.acfun.cn/v/ac43683105)
 
++ [你嘴是真严啊，现在才教我们做鸡](http://www.acfun.cn/v/ac43679552)
+
