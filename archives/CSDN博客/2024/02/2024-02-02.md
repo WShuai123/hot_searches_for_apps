@@ -167,3 +167,9 @@
 
 + [Ubuntu远程连接登录信息解读（ubuntu登录信息、远程登录信息）](https://blog.csdn.net/Dontla/article/details/135975273)
 
++ [探索自然语言处理在改善搜索引擎、语音助手和机器翻译中的应用](https://blog.csdn.net/u014727709/article/details/135885892)
+
++ [猫头虎博主第10期赠书活动:《写给大家看的Midjourney设计书》](https://blog.csdn.net/qq_44866828/article/details/135967164)
+
++ [解锁文档处理的全新维度：ONLYOFFICE 文档开发者版](https://blog.csdn.net/qq_44273429/article/details/135986432)
+

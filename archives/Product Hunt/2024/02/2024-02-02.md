@@ -103,3 +103,13 @@
 
 + [AI Trailers](https://www.producthunt.com/posts/ai-trailers)
 
++ [Vision Directory](https://www.producthunt.com/posts/vision-directory)
+
++ [Seneca - Your AI Grading Assistant](https://www.producthunt.com/posts/seneca-your-ai-grading-assistant)
+
++ [Pictory GPT for Videos](https://www.producthunt.com/posts/pictory-gpt-for-videos)
+
++ [Shortcut Objectives](https://www.producthunt.com/posts/shortcut-objectives)
+
++ [BaliBam](https://www.producthunt.com/posts/balibam)
+
