@@ -37,3 +37,7 @@
 
 + [被指控“手上沾满鲜血”，扎克伯格在美听证会现场向儿童家长道歉](https://m.ithome.com/html/748447.htm)
 
++ [库克预告 iOS 18 重磅更新，已投入大量时间精力研发 AI 技术：要重塑未来](https://m.ithome.com/html/748521.htm)
+
++ [苹果大中华区营收下降 13%，库克回应：非 iPhone 人气流失，销量前六占四席](https://m.ithome.com/html/748536.htm)
+

@@ -211,3 +211,13 @@
 
 + [32Gb、400MB/s带宽！江波龙首颗自研2D MLC NAND Flash闪存发布](https://www.3dmgame.com/news/202402/3887555.html)
 
++ [《幻兽帕鲁》开发商警告玩家：手机版游戏都是假的](https://www.3dmgame.com/news/202402/3887562.html)
+
++ [《女神异闻录3》人气角色埃癸斯高端胸像公开 做工精致绝伦](https://www.3dmgame.com/news/202402/3887559.html)
+
++ [手绘风回合制冒险游戏《海蓝宝石》即将登陆PS及Switch平台](https://www.3dmgame.com/news/202402/3887561.html)
+
++ [奇幻解谜游戏《鼠鼠骑士》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3887560.html)
+
++ [科幻战术潜行游戏《演灭》新预告 试玩版2月5日上线](https://www.3dmgame.com/news/202402/3887558.html)
+

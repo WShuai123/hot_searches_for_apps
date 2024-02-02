@@ -159,3 +159,5 @@
 
 + [国密SM2 后端Hutool+前端sm-crypto](https://blog.csdn.net/weixin_43198844/article/details/135969882)
 
++ [2024美国大学生数学建模E题财产保险的可持续模型详解思路+具体代码](https://blog.csdn.net/master_hunter/article/details/135989563)
+
