@@ -63,3 +63,5 @@
 
 + [立减 1700 元：小米平板 5 Pro 12.4 天猫百亿补贴 1799 元限时购](https://m.ithome.com/html/748537.htm)
 
++ [良率 0%，消息称三星 3nm GAA 工艺试产失败，Exynos 2500 芯片被打上问号](https://m.ithome.com/html/748614.htm)
+
