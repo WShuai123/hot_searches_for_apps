@@ -161,3 +161,27 @@
 
 + [巴耶克配音演员制作的《肯泽拉传说：扎乌》现已登陆Steam平台](https://www.3dmgame.com/news/202402/3887520.html)
 
++ [单人模拟游戏《The State of Nowhere》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202402/3887543.html)
+
++ [Nordcurrent收购Cinemaware所有IP 扩展PC业务](https://www.3dmgame.com/news/202402/3887544.html)
+
++ [《归途列车》新DLC《Legion Tales》上线 追加10个新任务](https://www.3dmgame.com/news/202402/3887542.html)
+
++ [小岛秀夫谍战新作《Physint》可能是首批PS6游戏](https://www.3dmgame.com/news/202402/3887541.html)
+
++ [《死亡搁浅2》成为索尼新发布会最大赢家 播放量最高](https://www.3dmgame.com/news/202402/3887540.html)
+
++ [类肉鸽卡牌游戏《地狱卡牌》 现已在Steam平台正式推出](https://www.3dmgame.com/news/202402/3887539.html)
+
++ [Data.ai：《原神》是最快收入突破50亿美元的手游](https://www.3dmgame.com/news/202402/3887538.html)
+
++ [华纳透露 恐怖喜剧电影《甲壳虫汁2》将于9月6日上映](https://www.3dmgame.com/news/202402/3887536.html)
+
++ [美女游戏《星刃》是半开放世界 游戏故事和细节公布](https://www.3dmgame.com/news/202402/3887533.html)
+
++ [日本最大游戏开发者大会《CEDEC2024》确定8月21日举行](https://www.3dmgame.com/news/202402/3887535.html)
+
++ [《龙之信条2》“故事篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3887534.html)
+
++ [科乐美财报：《桃太郎电铁》推动9个月利润上涨53%](https://www.3dmgame.com/news/202402/3887537.html)
+

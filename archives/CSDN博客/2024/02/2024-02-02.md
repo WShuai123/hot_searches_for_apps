@@ -137,3 +137,9 @@
 
 + [基于微信江西南昌某大学教室座位预约小程序系统设计与实现 研究背景和意义、国内外现状](https://blog.csdn.net/u013818205/article/details/135908770)
 
++ [2024美赛C题完整解题教程 网球运动势头（持续更新）](https://blog.csdn.net/weixin_44099072/article/details/135985159)
+
++ [SpringCloud-搭建Eureka服务模块](https://blog.csdn.net/weixin_41793160/article/details/135971651)
+
++ [2024年美赛 （B题MCM）| 潜水艇 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/135985256)
+

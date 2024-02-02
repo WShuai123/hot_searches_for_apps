@@ -29,3 +29,5 @@
 
 + [苹果 CEO 库克首次公开佩戴 Vision Pro 头显，亮相杂志封面](https://m.ithome.com/html/748495.htm)
 
++ [“重温经典”电视直播频道今日开播：首播 87 版《红楼梦》、83 版《射雕英雄传》及《黑猫警长》等节目](https://m.ithome.com/html/748506.htm)
+
