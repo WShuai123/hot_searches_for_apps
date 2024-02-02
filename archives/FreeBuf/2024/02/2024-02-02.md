@@ -41,3 +41,7 @@
 
 + [数据安全自评估企业实践](https://www.freebuf.com/articles/es/390267.html)
 
++ [FreeBuf早报 | 英国王室开放网络安全岗位招聘；全球五大互联网注册商已沦陷四个](https://www.freebuf.com/news/391216.html)
+
++ [2023 全年 macOS 恶意软件回顾](https://www.freebuf.com/articles/network/390422.html)
+

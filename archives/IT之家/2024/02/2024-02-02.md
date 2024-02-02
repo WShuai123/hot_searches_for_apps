@@ -27,3 +27,5 @@
 
 + [耳机品牌“水月雨”造手机：5G 新机 MIAD01 入网，10W 充电](https://m.ithome.com/html/748462.htm)
 
++ [苹果 CEO 库克首次公开佩戴 Vision Pro 头显，亮相杂志封面](https://m.ithome.com/html/748495.htm)
+

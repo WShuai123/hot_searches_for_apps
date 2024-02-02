@@ -115,3 +115,17 @@
 
 + [《直到黎明》原开发商Supermassive两名创始人卸任](https://www.3dmgame.com/news/202402/3887509.html)
 
++ [西班牙版女神异闻录《神兽传奇》众筹成功](https://www.3dmgame.com/news/202402/3887516.html)
+
++ [2D恐怖冒险游戏《心灵猎手：死印2》2月15日发售](https://www.3dmgame.com/news/202402/3887515.html)
+
++ [另类《狙击精英》射击复仇游戏《太阳之子》公布](https://www.3dmgame.com/news/202402/3887514.html)
+
++ [2D格斗游戏《Blazing Strike》确定今年夏季发售](https://www.3dmgame.com/news/202402/3887513.html)
+
++ [销量太低 欧洲几家零售商停止进货Xbox实体游戏](https://www.3dmgame.com/news/202402/3887512.html)
+
++ [《完美音浪》周年更新发现Switch和PS版线索](https://www.3dmgame.com/news/202402/3887511.html)
+
++ [《地铁：觉醒》非PSVR2独占 还登陆Meta Quest和Steam VR](https://www.3dmgame.com/news/202402/3887510.html)
+
