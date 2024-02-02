@@ -143,3 +143,13 @@
 
 + [Juno](https://www.producthunt.com/posts/juno-61e245ab-556a-4649-a188-3a4b38e99df2)
 
++ [Navi for Vision Pro](https://www.producthunt.com/posts/navi-for-vision-pro)
+
++ [Frames on Farcaster](https://www.producthunt.com/posts/frames-on-farcaster)
+
++ [Treasures](https://www.producthunt.com/posts/treasures)
+
++ [Lifelight](https://www.producthunt.com/posts/lifelight)
+
++ [Morning Maker Show](https://www.producthunt.com/posts/morning-maker-show)
+

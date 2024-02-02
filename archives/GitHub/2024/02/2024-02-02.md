@@ -51,3 +51,39 @@
 
 + [sudheerj / reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
 
++ [InstantID / InstantID](https://github.com/InstantID/InstantID)
+
++ [code100x / daily-code](https://github.com/code100x/daily-code)
+
++ [AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World)
+
++ [actions / runner-images](https://github.com/actions/runner-images)
+
++ [anoma / namada](https://github.com/anoma/namada)
+
++ [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+
++ [renovatebot / renovate](https://github.com/renovatebot/renovate)
+
++ [leptonai / leptonai](https://github.com/leptonai/leptonai)
+
++ [wasp-lang / open-saas](https://github.com/wasp-lang/open-saas)
+
++ [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit)
+
++ [Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR)
+
++ [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [microsoft / playwright](https://github.com/microsoft/playwright)
+
++ [TrueCarry / JettonGramGpuMiner](https://github.com/TrueCarry/JettonGramGpuMiner)
+
++ [opencontainers / runc](https://github.com/opencontainers/runc)
+
++ [rancher / rancher](https://github.com/rancher/rancher)
+
++ [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+
++ [felipemotarocha / fullstackweek-barber](https://github.com/felipemotarocha/fullstackweek-barber)
+
