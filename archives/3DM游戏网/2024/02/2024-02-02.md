@@ -291,3 +291,5 @@
 
 + [高通确认与三星签署新协议 未来数年将延续骁龙平台供应](https://www.3dmgame.com/news/202402/3887597.html)
 
++ [Netflix剧集《忍者之家》发布预告 2月15日上线](https://www.3dmgame.com/news/202402/3887598.html)
+

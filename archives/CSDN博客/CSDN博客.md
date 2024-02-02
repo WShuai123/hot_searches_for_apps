@@ -191,3 +191,5 @@
 
 + [【昕宝爸爸小模块】日志系列之什么是分布式日志系统](https://blog.csdn.net/Java_Yangxiaoyuan/article/details/135982087)
 
++ [【Linux C | I/O模型】IO复用 | select、pselect函数详解(看完就会用了)](https://blog.csdn.net/wkd_007/article/details/135966845)
+

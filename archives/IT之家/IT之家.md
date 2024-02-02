@@ -55,3 +55,7 @@
 
 + [百度文心一言 App 将支持一键生成“数字分身”：一张图、三句话即可创建](https://m.ithome.com/html/748513.htm)
 
++ [小米要退出印度笔记本市场？产品均售罄、官网导航条移除相关栏目](https://m.ithome.com/html/748632.htm)
+
++ [消息称小米 14 Ultra、MIX Fold 4 等机型支持卫星通信，小米 15 Pro 加入测试](https://m.ithome.com/html/748630.htm)
+
