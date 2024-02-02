@@ -59,3 +59,7 @@
 
 + [消息称小米 14 Ultra、MIX Fold 4 等机型支持卫星通信，小米 15 Pro 加入测试](https://m.ithome.com/html/748630.htm)
 
++ [32 款游戏获 2024 年第一批进口版号：《地下城与勇士：起源》手游、《太鼓之达人》NS 游戏等在列](https://m.ithome.com/html/748531.htm)
+
++ [立减 1700 元：小米平板 5 Pro 12.4 天猫百亿补贴 1799 元限时购](https://m.ithome.com/html/748537.htm)
+

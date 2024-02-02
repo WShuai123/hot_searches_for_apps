@@ -293,3 +293,11 @@
 
 + [Netflix剧集《忍者之家》发布预告 2月15日上线](https://www.3dmgame.com/news/202402/3887598.html)
 
++ [黑曜石RPG《宣誓》确认有多个结局](https://www.3dmgame.com/news/202402/3887601.html)
+
++ [库克确认：苹果正研发生成式AI 今年推出](https://www.3dmgame.com/news/202402/3887602.html)
+
++ [画面大倒退！《自杀小队》vs 9年前的《阿卡姆骑士》](https://www.3dmgame.com/news/202402/3887599.html)
+
++ [《星刃》游戏介绍：故事背景、世界环境](https://www.3dmgame.com/news/202402/3887600.html)
+
