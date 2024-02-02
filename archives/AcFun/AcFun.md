@@ -65,3 +65,5 @@
 
 + [头一次见猪这么嗨…](http://www.acfun.cn/v/ac43684029)
 
++ [【东方】Diamond Sky【小恶魔 Ver. MMD】](http://www.acfun.cn/v/ac43683105)
+

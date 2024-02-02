@@ -69,3 +69,15 @@
 
 + [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
 
++ [Ghost](https://dribbble.com/shots/)
+
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Limited Edition Print Pt. IV](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
