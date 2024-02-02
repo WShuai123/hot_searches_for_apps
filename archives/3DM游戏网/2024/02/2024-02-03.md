@@ -107,3 +107,11 @@
 
 + [视觉小说《新宿葬命》宣布延期至4月12日 开场动画公开](https://www.3dmgame.com/news/202402/3887605.html)
 
++ [《刺猬索尼克3》电影预告片公布 包含标志性曲目](https://www.3dmgame.com/news/202402/3887610.html)
+
++ [《星空》新补丁将引入FSR3 并解决FormID问题](https://www.3dmgame.com/news/202402/3887609.html)
+
++ [尼尔谈《最后生还者》第三部：这个故事还有一章](https://www.3dmgame.com/news/202402/3887608.html)
+
++ [《直到黎明》原版与重制版早期图形效果对比](https://www.3dmgame.com/news/202402/3887607.html)
+

@@ -27,3 +27,5 @@
 
 + [第三方平台能抢到官方平台买不到的车票？铁路 12306 称“不违法但不厚道”](https://m.ithome.com/html/748680.htm)
 
++ [消息称小米 MIX Flip 手机实现“零感折痕”，采用极致轻薄设计](https://m.ithome.com/html/748672.htm)
+

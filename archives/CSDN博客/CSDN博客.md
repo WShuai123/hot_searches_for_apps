@@ -107,3 +107,21 @@
 
 + [【Docker】使用VS创建、运行、打包、部署.net core 6.0 webapi](https://blog.csdn.net/lmy_520/article/details/135968391)
 
++ [手动构建 2-选-1 不经意传输OT协议](https://blog.csdn.net/tieqiaoshaonian/article/details/136001153)
+
++ [基于微信小程序企业公司系统设计与实现(PHP后台)可行性分析](https://blog.csdn.net/u013818205/article/details/135962249)
+
++ [循环神经网络RNN专题（01/6）](https://blog.csdn.net/gongdiwudu/article/details/135962994)
+
++ [微信小程序 安卓/IOS兼容问题](https://blog.csdn.net/weixin_71403100/article/details/135958018)
+
++ [双异步系列完结撒花，如何解決异步事务问题？](https://blog.csdn.net/guorui_java/article/details/135660618)
+
++ [网络原理-TCP/IP(4)](https://blog.csdn.net/asdssadddd/article/details/135996929)
+
++ [从源码角度透视QTcpServer：解构QTcpServer的底层原理与技术细节](https://blog.csdn.net/Long_xu/article/details/135978073)
+
++ [ONLYOFFICE：兼顾协作与安全的开源办公套件](https://blog.csdn.net/Qingai521/article/details/135947950)
+
++ [机器学习算法决策树](https://blog.csdn.net/qq_64685283/article/details/135981780)
+
