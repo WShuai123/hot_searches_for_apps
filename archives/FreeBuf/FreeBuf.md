@@ -45,3 +45,5 @@
 
 + [2023 全年 macOS 恶意软件回顾](https://www.freebuf.com/articles/network/390422.html)
 
++ [Jenkins RCE漏洞PoC发布，CVE-2024-23897漏洞解析](https://www.freebuf.com/articles/neopoints/391038.html)
+

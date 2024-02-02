@@ -129,3 +129,35 @@
 
 + [《地铁：觉醒》非PSVR2独占 还登陆Meta Quest和Steam VR](https://www.3dmgame.com/news/202402/3887510.html)
 
++ [发行商Devolver首席执行官离职 前任CEO回归](https://www.3dmgame.com/news/202402/3887532.html)
+
++ [《黑相集》开发商Supermassive两位创始人离职](https://www.3dmgame.com/news/202402/3887523.html)
+
++ [河洛《古龙风云录》Steam褒贬不一 老玩家很失望](https://www.3dmgame.com/news/202402/3887530.html)
+
++ [《Children of the Sun》steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3887531.html)
+
++ [《Blockbuster Inc.》序章Steam免费发布 电影公司经营管理](https://www.3dmgame.com/news/202402/3887528.html)
+
++ [《如龙8》发售一周销量突破100万 系列最快销售](https://www.3dmgame.com/news/202402/3887529.html)
+
++ [《星际战甲》现已提供简便可用的跨平台存档功能](https://www.3dmgame.com/news/202402/3887527.html)
+
++ [《最终幻想7：重生》有试玩Demo 预载2月27日开启](https://www.3dmgame.com/news/202402/3887521.html)
+
++ [雨与血：《影之刃零》发布龙年特别动画短片！](https://www.3dmgame.com/news/202402/3887526.html)
+
++ [《寻路者》开发商Airship Syndicate裁员 高管减薪](https://www.3dmgame.com/news/202402/3887525.html)
+
++ [究极“缝合怪”到底怎么火的！！！](https://www.3dmgame.com/news/202402/3887524.html)
+
++ [KRAFTON旗下工作室在Steam推出新游戏“三小幸存者”](https://www.3dmgame.com/news/202402/3887522.html)
+
++ [《Lightyear Frontier》3月20日抢测 开放世界农耕生活冒险](https://www.3dmgame.com/news/202402/3887518.html)
+
++ [2024年2月进口游戏版号公布：《星之卡比：新星同盟》等多款主机游戏过审](https://www.3dmgame.com/news/202402/3887517.html)
+
++ [《浩劫前夕》前员工透露游戏开发灾难：不断跟风修改 加班](https://www.3dmgame.com/news/202402/3887519.html)
+
++ [巴耶克配音演员制作的《肯泽拉传说：扎乌》现已登陆Steam平台](https://www.3dmgame.com/news/202402/3887520.html)
+
