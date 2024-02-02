@@ -13,3 +13,5 @@
 
 + [UI设计师必须要懂设计心理学](https://www.ui.cn/detail/661462.html)
 
++ [MasterGo (莫高设计) 发布「AI 白板」工具](https://www.ui.cn/detail/661921.html)
+

@@ -45,3 +45,7 @@
 
 + [《地下城与勇士》手游国服时隔三年多回归预约，已获得进口版号](https://m.ithome.com/html/748595.htm)
 
++ [苹果接受“越狱”术语，特殊版 iPhone 新图曝光：专用于挖掘漏洞](https://m.ithome.com/html/748527.htm)
+
++ [音乐版权巨头环球音乐宣布与 TikTok 谈判破裂，不再续签授权协议](https://m.ithome.com/html/748586.htm)
+
