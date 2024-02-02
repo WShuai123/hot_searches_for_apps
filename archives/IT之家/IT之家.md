@@ -41,3 +41,5 @@
 
 + [苹果大中华区营收下降 13%，库克回应：非 iPhone 人气流失，销量前六占四席](https://m.ithome.com/html/748536.htm)
 
++ [库克回忆初次使用苹果 Vision Pro 原型机：笨重如怪物，但体验令人惊叹](https://m.ithome.com/html/748498.htm)
+

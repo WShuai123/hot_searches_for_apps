@@ -161,3 +161,9 @@
 
 + [2024美国大学生数学建模E题财产保险的可持续模型详解思路+具体代码](https://blog.csdn.net/master_hunter/article/details/135989563)
 
++ [第96讲：MySQL高可用集群MHA的核心概念以及集群搭建](https://blog.csdn.net/weixin_44953658/article/details/135987476)
+
++ [【项目日记(七)】第三层: 页缓存的具体实现(上)](https://blog.csdn.net/m0_61982936/article/details/135980953)
+
++ [Ubuntu远程连接登录信息解读（ubuntu登录信息、远程登录信息）](https://blog.csdn.net/Dontla/article/details/135975273)
+

@@ -51,3 +51,7 @@
 
 + [黑客揭露空客EFB应用漏洞，飞行数据面临风险](https://www.freebuf.com/news/391264.html)
 
++ [Galah：一款功能强大的LLM驱动型OpenAI Web蜜罐系统](https://www.freebuf.com/sectool/389504.html)
+
++ [黑客利用 Okta 攻击中窃取到的授权令牌，攻击 Cloudflare](https://www.freebuf.com/news/391275.html)
+
