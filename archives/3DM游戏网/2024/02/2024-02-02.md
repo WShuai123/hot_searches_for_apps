@@ -235,3 +235,33 @@
 
 + [《Don“t Pee》登陆Steam 另类憋尿恐怖冒险新游](https://www.3dmgame.com/news/202402/3887569.html)
 
++ [亚马逊推出AI购物助手Rufus 可回答商品信息等](https://www.3dmgame.com/news/202402/3887584.html)
+
++ [50万+大把人买 华为问界M9大定超4万台：“科技车皇”成了！](https://www.3dmgame.com/news/202402/3887583.html)
+
++ [法国试行浓缩工时版4天工作制：4天做完5天工作 多1天假](https://www.3dmgame.com/news/202402/3887582.html)
+
++ [Intel下代Arrow Lake处理器首次曝光 主打高能低耗](https://www.3dmgame.com/news/202402/3887581.html)
+
++ [《伊苏回忆录：菲尔迦纳的誓约》宣布5月23日登陆PS 售价215元](https://www.3dmgame.com/news/202402/3887580.html)
+
++ [马修沃恩想拍《超人：红色之子》 让亨利卡维尔主演](https://www.3dmgame.com/news/202402/3887579.html)
+
++ [库克回应iPhone不好卖了：我们表现很优异 销量前六名中占据了四席](https://www.3dmgame.com/news/202402/3887578.html)
+
++ [万代南梦宫潮玩×《崩坏：星穹铁道》企划 一番赏等](https://www.3dmgame.com/news/202402/3887577.html)
+
++ [第三次合作 布拉德皮特参演昆汀收山之作《影评家》](https://www.3dmgame.com/news/202402/3887570.html)
+
++ [《生化危机4：重制版》黄金版仅会在欧洲发售实体版](https://www.3dmgame.com/news/202402/3887574.html)
+
++ [肉鸽卡牌构建游戏《陨铁山》Steam页面上线 5月发售](https://www.3dmgame.com/news/202402/3887573.html)
+
++ [《女神异闻录３ Reload》今日正式多平台上线](https://www.3dmgame.com/news/202402/3887572.html)
+
++ [《浩劫前夕》开发商前员工：在公司几乎没见过老板](https://www.3dmgame.com/news/202402/3887571.html)
+
++ [《浪人崛起》抛弃《仁王》刷装备系统 粉丝喜大普奔](https://www.3dmgame.com/news/202402/3887575.html)
+
++ [《新宿葬命》4月12日Steam正式推出 视觉小说冒险](https://www.3dmgame.com/news/202402/3887576.html)
+

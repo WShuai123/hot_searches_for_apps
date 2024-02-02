@@ -43,3 +43,5 @@
 
 + [库克回忆初次使用苹果 Vision Pro 原型机：笨重如怪物，但体验令人惊叹](https://m.ithome.com/html/748498.htm)
 
++ [《地下城与勇士》手游国服时隔三年多回归预约，已获得进口版号](https://m.ithome.com/html/748595.htm)
+
