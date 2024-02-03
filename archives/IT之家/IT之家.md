@@ -65,3 +65,5 @@
 
 + [消息称小米 15 系列手机测试单点超声波指纹，直曲双尺寸战略不变](https://m.ithome.com/html/748765.htm)
 
++ [避免“iPhone 降速门”重演，苹果明确：Vision Pro 头显某些场景会因电池降低其性能](https://m.ithome.com/html/748698.htm)
+
