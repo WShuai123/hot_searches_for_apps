@@ -155,3 +155,7 @@
 
 + [网络原理TCP/IP（2）](https://blog.csdn.net/weixin_65476629/article/details/135982789)
 
++ [算法——A/算法通识](https://blog.csdn.net/weixin_56641478/article/details/135997572)
+
++ [外包干了10个月，技术退步明显...](https://blog.csdn.net/YLF123456789000/article/details/135973759)
+

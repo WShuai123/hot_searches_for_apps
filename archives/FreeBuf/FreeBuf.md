@@ -49,3 +49,5 @@
 
 + [鉴源实验室 | Web应用程序常见漏洞浅析](https://www.freebuf.com/articles/web/390741.html)
 
++ [PassBreaker：一款基于Python开发的命令行密码破解工具](https://www.freebuf.com/sectool/389613.html)
+

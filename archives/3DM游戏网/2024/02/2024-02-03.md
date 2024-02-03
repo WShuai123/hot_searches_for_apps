@@ -157,3 +157,7 @@
 
 + [模拟经营游戏《Blood Bar Tycoon》Steam页面上线 明年发售](https://www.3dmgame.com/news/202402/3887624.html)
 
++ [吉利星座02组卫星发射成功 银河E8车型率先受益相关通信技术](https://www.3dmgame.com/news/202402/3887632.html)
+
++ [《Apex英雄》更新彻底封禁手柄配置文件位移作弊方法](https://www.3dmgame.com/news/202402/3887633.html)
+
