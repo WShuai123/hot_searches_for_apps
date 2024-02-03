@@ -127,3 +127,13 @@
 
 + [HDMI2.1之eARC简介-Dolby Atmos和DTS:X](https://blog.csdn.net/yikezhuixun/article/details/136008097)
 
++ [2024 美国大学生数学建模竞赛（A题）资源可用性和性别比例问题 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/135991399)
+
++ [算法——A/算法通识](https://blog.csdn.net/weixin_56641478/article/details/135997572)
+
++ [微服务介绍](https://blog.csdn.net/weixin_57763462/article/details/136001965)
+
++ [2024美赛 MCM Problem C: Momentum in Tennis 网球中的动力 完整思路以及源代码分享](https://blog.csdn.net/weixin_52051317/article/details/135986960)
+
++ [【24美赛思路已出】2024年美赛A~F题解题思路已出 | 无偿自提](https://blog.csdn.net/RS_handy/article/details/135991149)
+

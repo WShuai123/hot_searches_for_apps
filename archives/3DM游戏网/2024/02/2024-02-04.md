@@ -101,3 +101,15 @@
 
 + [生存恐怖《法罗斯之光》上架Steam 支持中文](https://www.3dmgame.com/news/202402/3887606.html)
 
++ [《Rise Eterna War》将于2月5日在Steam平台推出试玩版](https://www.3dmgame.com/news/202402/3887661.html)
+
++ [《地狱潜者2》9分钟任务全流程试玩演示视频](https://www.3dmgame.com/news/202402/3887660.html)
+
++ [《弗恩岛上的女巫》正式版发行日公布](https://www.3dmgame.com/news/202402/3887659.html)
+
++ [使用AMD处理器和Win11的Steam用户比例增加](https://www.3dmgame.com/news/202402/3887658.html)
+
++ [SafeDiscShim可使玩家运行SafeDisc保护游戏](https://www.3dmgame.com/news/202402/3887657.html)
+
++ [《碧蓝幻想: Relink》Steam同时在线超10万](https://www.3dmgame.com/news/202402/3887656.html)
+
