@@ -161,3 +161,17 @@
 
 + [《Apex英雄》更新彻底封禁手柄配置文件位移作弊方法](https://www.3dmgame.com/news/202402/3887633.html)
 
++ [用户晒联通1000M宽带：这上下行速度飙到飞起](https://www.3dmgame.com/news/202402/3887636.html)
+
++ [金·凯瑞确认将在《刺猬索尼克3》电影中再次回归](https://www.3dmgame.com/news/202402/3887637.html)
+
++ [肉鸽游戏《Huedini》Steam页面上线 不支持简体中文](https://www.3dmgame.com/news/202402/3887638.html)
+
++ [提升安全性 索尼将为PSN账户提供Passkey支持](https://www.3dmgame.com/news/202402/3887639.html)
+
++ [腾讯增持网元盛唐股份至87.36% 实际控制人变为马化腾](https://www.3dmgame.com/news/202402/3887640.html)
+
++ [前《上古卷轴5》开发者：有些东西藏起来留给MOD](https://www.3dmgame.com/news/202402/3887634.html)
+
++ [《最后的生还者2：重制版》更新 加入纪录片与多处优化](https://www.3dmgame.com/news/202402/3887635.html)
+

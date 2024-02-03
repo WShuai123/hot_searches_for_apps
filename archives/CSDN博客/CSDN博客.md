@@ -159,3 +159,5 @@
 
 + [外包干了10个月，技术退步明显...](https://blog.csdn.net/YLF123456789000/article/details/135973759)
 
++ [小鱼深度产品测评之：阿里云一键部署幻兽帕鲁，真正1分钟部署，3分钟进入游戏，无限畅玩，双倍快乐。](https://blog.csdn.net/wuyoudeyuer/article/details/136006119)
+

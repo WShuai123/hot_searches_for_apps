@@ -101,3 +101,11 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Zoom for Apple Vision Pro](https://www.producthunt.com/posts/zoom-for-apple-vision-pro)
+
++ [SimilarTube](https://www.producthunt.com/posts/similartube)
+
++ [Photon 2.0](https://www.producthunt.com/posts/photon-2-0)
+
++ [Happie](https://www.producthunt.com/posts/happie-2)
+
