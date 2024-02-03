@@ -75,3 +75,11 @@
 
 + [So Weird](https://dribbble.com/shots/)
 
++ [Travel and world monuments icons](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ ["Picnic collective" logo and characters](https://dribbble.com/shots/)
+
++ [Chilean Mining Accident](https://dribbble.com/shots/)
+
