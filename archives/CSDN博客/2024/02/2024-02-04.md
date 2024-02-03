@@ -111,3 +111,19 @@
 
 + [【Linux系统化学习】进程替换](https://blog.csdn.net/qq_55119554/article/details/136010754)
 
++ [【微服务】skywalking自定义链路追踪与日志采集](https://blog.csdn.net/zhangcongyi420/article/details/135428070)
+
++ [Elastic 因其人工智能辅助可观察性而荣获 2024 年 EMA Allstars 奖](https://blog.csdn.net/UbuntuTouch/article/details/136006250)
+
++ [【文本到上下文 #10】探索地平线：GPT 和 NLP 中大型语言模型的未来](https://blog.csdn.net/gongdiwudu/article/details/135985199)
+
++ [2024年美赛A题：资源可用性和性别比例 Resource Availability and Sex Ratios 思路模型代码解析](https://blog.csdn.net/2201_75432540/article/details/135998891)
+
++ [【昕宝爸爸小模块】日志系列之什么是分布式日志系统](https://blog.csdn.net/Java_Yangxiaoyuan/article/details/135982087)
+
++ [基于微信小程序校园跑腿系统设计与实现(PHP后台)可行性分析](https://blog.csdn.net/u013818205/article/details/135962107)
+
++ [基于MongoDB实现聊天记录的存储](https://blog.csdn.net/qq_38374397/article/details/135951810)
+
++ [HDMI2.1之eARC简介-Dolby Atmos和DTS:X](https://blog.csdn.net/yikezhuixun/article/details/136008097)
+
