@@ -141,3 +141,19 @@
 
 + [苹果天价头显Vision Pro首摔 维修要花5750元](https://www.3dmgame.com/news/202402/3887623.html)
 
++ [《自杀小队》首发同时在线玩家人数峰值仅1.2万](https://www.3dmgame.com/news/202402/3887630.html)
+
++ [《窗台上的蝴蝶》宣传片 现已开放商店页面](https://www.3dmgame.com/news/202402/3887631.html)
+
++ [《午夜杀生 重制版》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202402/3887629.html)
+
++ [《死亡搁浅2》反派新设计灵感或来自李小龙儿子的电影《乌鸦》](https://www.3dmgame.com/news/202402/3887628.html)
+
++ [《辐射：伦敦》4月23日发布 开发者称这是辐射4.5](https://www.3dmgame.com/news/202402/3887627.html)
+
++ [矮人大胜利！Steam正式添加“矮人”官方分类标签](https://www.3dmgame.com/news/202402/3887626.html)
+
++ [《洛奇》黑人拳王扮演者卡尔·威瑟斯去世 享年76岁](https://www.3dmgame.com/news/202402/3887625.html)
+
++ [模拟经营游戏《Blood Bar Tycoon》Steam页面上线 明年发售](https://www.3dmgame.com/news/202402/3887624.html)
+

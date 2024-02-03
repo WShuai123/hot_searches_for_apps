@@ -133,3 +133,11 @@
 
 + [RK3568平台 安卓hal3适配usb camera](https://blog.csdn.net/weixin_49303682/article/details/136002076)
 
++ [探索设计模式的魅力：从单一继承到组合模式-软件设计的演变与未来](https://blog.csdn.net/danci_/article/details/135971424)
+
++ [【Mysql】数据库架构学习合集](https://blog.csdn.net/weixin_44147535/article/details/135963094)
+
++ [用户界面（UI）、用户体验（UE）和用户体验（UX）的差异](https://blog.csdn.net/2301_79733101/article/details/135966849)
+
++ [【开源】SpringBoot框架开发农村物流配送系统](https://blog.csdn.net/askf01/article/details/135978918)
+
