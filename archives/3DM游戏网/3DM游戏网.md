@@ -197,3 +197,11 @@
 
 + [TVB“御用老外”河国荣烧炭自杀 终年58岁](https://www.3dmgame.com/news/202402/3887651.html)
 
++ [Xbox掌机要来？传微软正开发多个Xbox硬件](https://www.3dmgame.com/news/202402/3887655.html)
+
++ [《死亡搁浅2》新截图 小岛公布人偶背后的设计](https://www.3dmgame.com/news/202402/3887653.html)
+
++ [Konami成立动画工作室 Logo动画暗藏作弊秘籍](https://www.3dmgame.com/news/202402/3887654.html)
+
++ [《绝地潜兵2》Steam国区定价下调 从276元降至198元](https://www.3dmgame.com/news/202402/3887652.html)
+

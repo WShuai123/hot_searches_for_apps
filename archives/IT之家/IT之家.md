@@ -67,3 +67,9 @@
 
 + [避免“iPhone 降速门”重演，苹果明确：Vision Pro 头显某些场景会因电池降低其性能](https://m.ithome.com/html/748698.htm)
 
++ [欧盟反垄断「撬开」苹果，结果坑苦了开发者](https://m.ithome.com/html/748731.htm)
+
++ [裁员 15%，市值缩水 80%，不信邪的极星仍在高冷](https://m.ithome.com/html/748783.htm)
+
++ [库克：苹果 Vision Pro 头显是“当下的未来科技”，不会使人们进一步疏远](https://m.ithome.com/html/748693.htm)
+

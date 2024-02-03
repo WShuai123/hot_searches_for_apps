@@ -179,3 +179,9 @@
 
 + [Unity C#高级特性 Partial 详细使用案例](https://blog.csdn.net/qqrrjj2011/article/details/136005990)
 
++ [Linux 磁盘空间占用率100%的排查](https://blog.csdn.net/2301_80092713/article/details/135993230)
+
++ [【2024美赛】A题（中英文）：资源可用性与性别比例Problem A: Resource Availability and Sex Ratios](https://blog.csdn.net/wtyuong/article/details/135988364)
+
++ [2024美赛数学建模C题：网球的动量，思路+代码+模型](https://blog.csdn.net/2301_81596622/article/details/135990573)
+
