@@ -175,3 +175,19 @@
 
 + [《最后的生还者2：重制版》更新 加入纪录片与多处优化](https://www.3dmgame.com/news/202402/3887635.html)
 
++ [《幸福工厂》更新路线图公布 年内发布正式版本](https://www.3dmgame.com/news/202402/3887648.html)
+
++ [腾讯Switch商店开启春节促销 至多立减137.7元](https://www.3dmgame.com/news/202402/3887645.html)
+
++ [《艾尔登法环》Steam后台更新 DLC开发或在最终阶段](https://www.3dmgame.com/news/202402/3887647.html)
+
++ [厂商表示玩家不必担心《女神异闻录3：Reload》背刺](https://www.3dmgame.com/news/202402/3887646.html)
+
++ [华为“云手机”成工信部优秀案例 续航比实体手机长7倍](https://www.3dmgame.com/news/202402/3887644.html)
+
++ [2023年12月Xbox Series X|S与前代主机生涯销量对比](https://www.3dmgame.com/news/202402/3887643.html)
+
++ [《最后的生还者2》最早是受《血源》启发的开放世界游戏](https://www.3dmgame.com/news/202402/3887642.html)
+
++ [小岛秀夫邀请老伙计回归 共同打造《死亡搁浅2》](https://www.3dmgame.com/news/202402/3887641.html)
+

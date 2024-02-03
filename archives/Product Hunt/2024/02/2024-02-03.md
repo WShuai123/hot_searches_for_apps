@@ -109,3 +109,27 @@
 
 + [Happie](https://www.producthunt.com/posts/happie-2)
 
++ [Halaska Studio](https://www.producthunt.com/posts/halaska-studio)
+
++ [Picaday](https://www.producthunt.com/posts/picaday)
+
++ [Samwell.Ai](https://www.producthunt.com/posts/samwell-ai)
+
++ [SpotBuzz - AI Photo Editing & Captions](https://www.producthunt.com/posts/spotbuzz-ai-photo-editing-captions)
+
++ [Pocket](https://www.producthunt.com/posts/pocket-6)
+
++ [PDF merge API](https://www.producthunt.com/posts/pdf-merge-api)
+
++ [spliffpay](https://www.producthunt.com/posts/spliffpay)
+
++ [Splay (beta)](https://www.producthunt.com/posts/splay-beta)
+
++ [Grade Calculator](https://www.producthunt.com/posts/grade-calculator-2)
+
++ [SocialFocus](https://www.producthunt.com/posts/socialfocus)
+
++ [Zenitizer for Apple Vision Pro](https://www.producthunt.com/posts/zenitizer-for-apple-vision-pro)
+
++ [GoGettr](https://www.producthunt.com/posts/gogettr)
+
