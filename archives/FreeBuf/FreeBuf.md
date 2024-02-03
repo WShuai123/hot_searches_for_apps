@@ -41,3 +41,5 @@
 
 + [一次oss存储桶云安全实战](https://www.freebuf.com/articles/web/389285.html)
 
++ [SaaS攻击面到底有多大？如何防御常见SaaS攻击技术?](https://www.freebuf.com/news/390429.html)
+

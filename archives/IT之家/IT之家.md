@@ -29,3 +29,5 @@
 
 + [消息称小米 MIX Flip 手机实现“零感折痕”，采用极致轻薄设计](https://m.ithome.com/html/748672.htm)
 
++ [立减 1700 元：小米平板 5 Pro 12.4 天猫百亿补贴 1799 元限时购](https://m.ithome.com/html/748537.htm)
+
