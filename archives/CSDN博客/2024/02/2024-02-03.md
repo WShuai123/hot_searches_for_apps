@@ -141,3 +141,7 @@
 
 + [【开源】SpringBoot框架开发农村物流配送系统](https://blog.csdn.net/askf01/article/details/135978918)
 
++ [语言革命：NLP与GPT-3.5如何改变我们的世界](https://blog.csdn.net/a1657054242/article/details/135962570)
+
++ [静态代理IP是如何助力跨境电商运营的？](https://blog.csdn.net/m0_64336780/article/details/135992587)
+

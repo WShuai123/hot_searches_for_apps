@@ -37,3 +37,5 @@
 
 + [腾势旗舰 SUV 伪装车公开，比亚迪赵长江再放豪言：产品力强于问界 M9 / 理想 L9](https://m.ithome.com/html/748670.htm)
 
++ [问界 M9 车型累计大定突破 4 万台，赛力斯、华为联合设计](https://m.ithome.com/html/748667.htm)
+
