@@ -51,3 +51,39 @@
 
 + [felipemotarocha / fullstackweek-barber](https://github.com/felipemotarocha/fullstackweek-barber)
 
++ [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
+
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+
++ [microsoft / terminal](https://github.com/microsoft/terminal)
+
++ [usememos / memos](https://github.com/usememos/memos)
+
++ [allenai / OLMo](https://github.com/allenai/OLMo)
+
++ [Sanster / lama-cleaner](https://github.com/Sanster/lama-cleaner)
+
++ [devfullcycle / imersao17](https://github.com/devfullcycle/imersao17)
+
++ [bclswl0827 / ChatGemini](https://github.com/bclswl0827/ChatGemini)
+
++ [Lightning-AI / pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
+
++ [X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent)
+
++ [NginxProxyManager / nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+
++ [lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
++ [githubnext / monaspace](https://github.com/githubnext/monaspace)
+
++ [snyk / leaky-vessels-static-detector](https://github.com/snyk/leaky-vessels-static-detector)
+
++ [webprodigies / plura-production](https://github.com/webprodigies/plura-production)
+
++ [lencx / Noi](https://github.com/lencx/Noi)
+
++ [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [yhirose / cpp-httplib](https://github.com/yhirose/cpp-httplib)
+

@@ -117,3 +117,21 @@
 
 + [加入中国国籍有多难,达曼人给出了答案](http://www.acfun.cn/v/ac43684093)
 
++ [现在给小孩子看的东西太逆天了](http://www.acfun.cn/v/ac43692433)
+
++ [我也想要泡温泉【今天有什么好笑的 #1450】](http://www.acfun.cn/v/ac43690784)
+
++ [真实的日本黑道，远比游戏里更奇葩。【社长说94】](http://www.acfun.cn/v/ac43687382)
+
++ [蒂蒂の奇妙黑魂冒险P4 法兰要塞&地下墓穴](http://www.acfun.cn/v/ac43688293)
+
++ [手 术 很 成 功，排 队 叫 老 公](http://www.acfun.cn/v/ac43684928)
+
++ [萌宠集合，这才是猛男该看的！ 第四百零三期](http://www.acfun.cn/v/ac43685522)
+
++ [【猪肝来也】d1 1300km绍兴-广州『DRIVETO海南』](http://www.acfun.cn/v/ac43685827)
+
++ [【颜音】一小时歌回(#^o^#)](http://www.acfun.cn/v/ac43687329)
+
++ [一脚电门，大爷失控了...](http://www.acfun.cn/v/ac43651760)
+
