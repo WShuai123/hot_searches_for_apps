@@ -49,3 +49,25 @@
 
 + [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
 
++ [Runner's World (Editorial)](https://dribbble.com/shots/)
+
++ [Forest](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
++ [The Cutting Garden](https://dribbble.com/shots/)
+
++ [Brandi Carlile's 'Girls Just Wanna Weekend' Branding](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ [Dragon 24](https://dribbble.com/shots/)
+
++ [Sssssstrike](https://dribbble.com/shots/)
+
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+

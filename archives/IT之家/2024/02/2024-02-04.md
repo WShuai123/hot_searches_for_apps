@@ -25,3 +25,7 @@
 
 + [苹果 Vision Pro 头显“虐机”测试：外部 EyeSight 屏幕玻璃面板强度较佳、摔机八次后碎裂](https://m.ithome.com/html/748716.htm)
 
++ [消息称英伟达中国特供 AI 芯片 H20 已开启预售：部分性能不如华为昇腾 910B，定价 1.2 万美元起](https://m.ithome.com/html/748797.htm)
+
++ [今年全球最火的游戏被喷虐待动物，动保组织让《幻兽帕鲁》准备素食](https://m.ithome.com/html/748789.htm)
+
