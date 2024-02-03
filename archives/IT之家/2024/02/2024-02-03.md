@@ -53,3 +53,11 @@
 
 + [深度操作系统 deepin V23 Beta3 发布，支持 Steam 原生应用正常安装及游戏运行](https://m.ithome.com/html/748666.htm)
 
++ [雷军宣布让卢伟冰来发布小米 14 Ultra 等手机产品，从而把更多精力放在汽车业务上](https://m.ithome.com/html/748777.htm)
+
++ [一口气看完 30 集《繁花》，我来聊聊里面的通信技术](https://m.ithome.com/html/748729.htm)
+
++ [中国航天 3 小时发射 20 颗卫星，包括一箭九星、一箭十一星](https://m.ithome.com/html/748748.htm)
+
++ [苹果 Vision Pro 头显今日开售：全新 3D 界面，首发 3499 美元起](https://m.ithome.com/html/748682.htm)
+
