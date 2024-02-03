@@ -51,3 +51,5 @@
 
 + [比亚迪元 UP 内饰效果图公布：车内多处环形设计，预计 3 月上市](https://m.ithome.com/html/748677.htm)
 
++ [深度操作系统 deepin V23 Beta3 发布，支持 Steam 原生应用正常安装及游戏运行](https://m.ithome.com/html/748666.htm)
+
