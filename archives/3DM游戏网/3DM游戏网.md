@@ -133,3 +133,11 @@
 
 + [《碧蓝幻想：Relink》多半好评 Steam峰值超8万](https://www.3dmgame.com/news/202402/3887612.html)
 
++ [凯瑟琳·欧哈拉宣布参演《最后的生还者》第二季](https://www.3dmgame.com/news/202402/3887622.html)
+
++ [《极速滑板》新作确认登陆Steam 主机测试今年开启](https://www.3dmgame.com/news/202402/3887621.html)
+
++ [《最后的生还者2》艾比演员自曝两岁儿子曾收到威胁](https://www.3dmgame.com/news/202402/3887620.html)
+
++ [苹果天价头显Vision Pro首摔 维修要花5750元](https://www.3dmgame.com/news/202402/3887623.html)
+
