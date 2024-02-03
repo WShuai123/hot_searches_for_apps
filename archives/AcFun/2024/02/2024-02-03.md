@@ -151,3 +151,7 @@
 
 + [【皆琉子】浣熊窜天猴](http://www.acfun.cn/v/ac43687139)
 
++ [游戏王25周年纪念视频『决斗怪兽编年史』](http://www.acfun.cn/v/ac43693271)
+
++ [你的选择是 Yes or Yes！甜妹必跳的兔曲TWICE](http://www.acfun.cn/v/ac43691654)
+
