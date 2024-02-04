@@ -143,3 +143,9 @@
 
 + [外包干了10个月，技术退步明显...](https://blog.csdn.net/YLF123456789000/article/details/135973759)
 
++ [ElasticSearch-ElasticSearch实战-仿京东商城搜索（高亮）](https://blog.csdn.net/kdzandlbj/article/details/136003095)
+
++ [深度学习驱动下的自然语言处理进展及其应用前景](https://blog.csdn.net/u014727709/article/details/135896440)
+
++ [云端录制直播流视频，上传云盘](https://blog.csdn.net/weixin_40972073/article/details/135995532)
+
