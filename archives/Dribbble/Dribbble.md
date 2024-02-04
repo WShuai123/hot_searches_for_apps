@@ -49,3 +49,27 @@
 
 + [No Such Luck](https://dribbble.com/shots/)
 
++ [Mushrooms](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+
++ [Ghost](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
++ [Dragon 24](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [Rick and Morty](https://dribbble.com/shots/)
+
++ [The new opera](https://dribbble.com/shots/)
+
++ [Settings × visionOS](https://dribbble.com/shots/)
+

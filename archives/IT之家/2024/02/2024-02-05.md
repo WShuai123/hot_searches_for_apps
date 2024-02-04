@@ -25,3 +25,5 @@
 
 + [Counterpoint：2024 年前两周华为重夺中国智能手机市场销量第一](https://m.ithome.com/html/748865.htm)
 
++ [消息称小米 15 手机首发骁龙 8 Gen 4，10 月左右真机发售](https://m.ithome.com/html/748938.htm)
+

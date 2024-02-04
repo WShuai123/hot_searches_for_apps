@@ -101,3 +101,5 @@
 
 + [EA就《FC 24》BUG问题致歉 但玩家可保留高价值梅西卡牌](https://www.3dmgame.com/news/202402/3887671.html)
 
++ [传闻：微软将宣布第一方游戏登陆多平台策略](https://www.3dmgame.com/news/202402/3887725.html)
+
