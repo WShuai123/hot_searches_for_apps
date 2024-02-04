@@ -57,3 +57,5 @@
 
 + [“Synergia”行动逮捕数十名网络犯罪分子，摧毁全球70%的指挥与控制服务器](https://www.freebuf.com/news/391382.html)
 
++ [CVE-2023-50164（S2-066）详解](https://www.freebuf.com/vuls/390725.html)
+

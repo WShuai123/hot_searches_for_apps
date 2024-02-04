@@ -171,3 +171,7 @@
 
 + [即时战术游戏《要塞：决定版》DLC“猪湾海湾”即将发布](https://www.3dmgame.com/news/202402/3887682.html)
 
++ [官方透露 漫威改编的《阿索卡》个人漫画正在制作中](https://www.3dmgame.com/news/202402/3887691.html)
+
++ [新版Windows要来了：代号哈德逊河谷 或不叫Win12](https://www.3dmgame.com/news/202402/3887692.html)
+
