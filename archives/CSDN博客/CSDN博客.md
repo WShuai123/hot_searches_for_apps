@@ -181,3 +181,7 @@
 
 + [极速搭建幻兽帕鲁私服，叫上好友春节假期一起联机畅玩帕鲁](https://blog.csdn.net/weixin_57535055/article/details/136020974)
 
++ [新 CentOS 7 服务器的基本配置](https://blog.csdn.net/rubys007/article/details/135942829)
+
++ [大数据领域的数据仓库](https://blog.csdn.net/www_tlj/article/details/136018138)
+

@@ -215,3 +215,11 @@
 
 + [博主用苹果Vision Pro给老婆打微信视频电话：被吐槽像死了的鬼魂](https://www.3dmgame.com/news/202402/3887708.html)
 
++ [百度输入法上线付费VIP：首月5.8元次月22.8元 AI功能免费](https://www.3dmgame.com/news/202402/3887716.html)
+
++ [360周鸿祎自曝演过床戏：当时很激动 也很紧张](https://www.3dmgame.com/news/202402/3887715.html)
+
++ [升起海盗旗！《海盗岛：海盗传说》登上Steam海岸](https://www.3dmgame.com/news/202402/3887714.html)
+
++ [据报道腾讯叫停了一款《尼尔》手游 已秘密开发两年](https://www.3dmgame.com/news/202402/3887713.html)
+

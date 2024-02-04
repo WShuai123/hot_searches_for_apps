@@ -43,3 +43,5 @@
 
 + [2023 年中国智能盒子出货量惨淡，销量 159 万台下降 27.5 %](https://m.ithome.com/html/748831.htm)
 
++ [小米手表 S3 eSIM 版获推 1.11.11 固件更新，新增微信 App](https://m.ithome.com/html/748823.htm)
+
