@@ -123,3 +123,5 @@
 
 + [探索Gin框架：Golang使用Gin完成文件上传](https://blog.csdn.net/qq_35716689/article/details/135989080)
 
++ [Elasticsearch：使用 Inference API 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/136028138)
+
