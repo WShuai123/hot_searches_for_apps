@@ -51,3 +51,7 @@
 
 + [比亚迪元 UP 内饰官图发布，配 12.8 英寸中控悬浮屏](https://m.ithome.com/html/748838.htm)
 
++ [全球首个：埃塞俄比亚宣布禁止进口非电动汽车，当地高官称无力进口汽油](https://m.ithome.com/html/748895.htm)
+
++ [Vision Pro 开卖炸出各种显眼包！开车 / 健身 / 过马路操作秀翻天，AI 大牛 Karpathy 发千字亲测体验](https://m.ithome.com/html/748896.htm)
+

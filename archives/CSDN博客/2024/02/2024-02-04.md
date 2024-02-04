@@ -185,3 +185,9 @@
 
 + [大数据领域的数据仓库](https://blog.csdn.net/www_tlj/article/details/136018138)
 
++ [如何搭建私有云盘SeaFile并实现远程访问本地文件资料](https://blog.csdn.net/Aileenvov/article/details/136014144)
+
++ [Python新春烟花盛宴](https://blog.csdn.net/m0_68111267/article/details/136029592)
+
++ [成本更低、更可控，云原生可观测新计费模式正式上线](https://blog.csdn.net/yunqiinsight/article/details/136027186)
+

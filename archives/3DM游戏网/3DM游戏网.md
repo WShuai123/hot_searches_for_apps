@@ -223,3 +223,7 @@
 
 + [据报道腾讯叫停了一款《尼尔》手游 已秘密开发两年](https://www.3dmgame.com/news/202402/3887713.html)
 
++ [《自杀小队：战胜正义联盟》Steam特别好评](https://www.3dmgame.com/news/202402/3887717.html)
+
++ [微软成AMD AI GPU最大买家 定价是H100四分之一](https://www.3dmgame.com/news/202402/3887718.html)
+
