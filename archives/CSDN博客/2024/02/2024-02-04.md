@@ -195,3 +195,11 @@
 
 + [【C++航海王：追寻罗杰的编程之路】类与对象你学会了吗？(上)](https://blog.csdn.net/weixin_74809706/article/details/135982169)
 
++ [RabbitMQ之交换机](https://blog.csdn.net/Justw320/article/details/135751085)
+
++ [计算机网络第4章（网络层）](https://blog.csdn.net/weixin_52297290/article/details/135983287)
+
++ [2024年美赛数学建模A题思路分析 - 资源可用性和性别比例](https://blog.csdn.net/m0_71450098/article/details/135998912)
+
++ [软件工程（最简式总结）](https://blog.csdn.net/qq_52561726/article/details/135988336)
+

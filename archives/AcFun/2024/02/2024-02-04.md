@@ -129,3 +129,7 @@
 
 + [恭喜发财，但是好运来！](http://www.acfun.cn/v/ac43694167)
 
++ [扎 心 了 老 铁](http://www.acfun.cn/v/ac43606564)
+
++ [竖屏 shake it](http://www.acfun.cn/v/ac43700234)
+
