@@ -121,3 +121,25 @@
 
 + [反战互动游戏《流离归途》现已登陆Switch和PS平台](https://www.3dmgame.com/news/202402/3887662.html)
 
++ [EA就《FC 24》BUG问题致歉 但玩家可保留高价值梅西卡牌](https://www.3dmgame.com/news/202402/3887671.html)
+
++ [索尼上海总裁新春祝福视频：一起创造快乐记忆](https://www.3dmgame.com/news/202402/3887672.html)
+
++ [传闻：卡普空正在开发5款《生化危机》游戏 包含《生化危机9》](https://www.3dmgame.com/news/202402/3887673.html)
+
++ [《Solace Inc.》Steam页面上线 肉鸽幸存动作射击](https://www.3dmgame.com/news/202402/3887674.html)
+
++ [《龙之信条2》角色介绍：女兽人梅内拉 精灵格林多尔和杜兰](https://www.3dmgame.com/news/202402/3887675.html)
+
++ [像素风冒险游戏《国王之墓》将于4月17日发售](https://www.3dmgame.com/news/202402/3887676.html)
+
++ [《夜莺》PC配置公开 支持DLSS 3和FSR 3](https://www.3dmgame.com/news/202402/3887667.html)
+
++ [《Dungeonborne》Steam试玩发布 第一人称迷宫探索](https://www.3dmgame.com/news/202402/3887668.html)
+
++ [外媒编辑称《血源》PC版/PS5版曾一度在制作中](https://www.3dmgame.com/news/202402/3887669.html)
+
++ [《守望先锋2》第九赛季2月13日上线 预告即将公布](https://www.3dmgame.com/news/202402/3887670.html)
+
++ [科乐美考虑将《寂静岭》系列移植到当代主机上](https://www.3dmgame.com/news/202402/3887666.html)
+

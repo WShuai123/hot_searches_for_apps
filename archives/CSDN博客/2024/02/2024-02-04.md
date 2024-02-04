@@ -139,3 +139,7 @@
 
 + [metagpt框架的学习 action类和role类](https://blog.csdn.net/m0_74280155/article/details/135984910)
 
++ [基于微信小程序企业公司系统设计与实现(PHP后台)可行性分析](https://blog.csdn.net/u013818205/article/details/135962249)
+
++ [外包干了10个月，技术退步明显...](https://blog.csdn.net/YLF123456789000/article/details/135973759)
+
