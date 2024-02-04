@@ -51,3 +51,37 @@
 
 + [InstantID / InstantID](https://github.com/InstantID/InstantID)
 
++ [AbanteAI / rawdog](https://github.com/AbanteAI/rawdog)
+
++ [adrianhajdin / figma_clone](https://github.com/adrianhajdin/figma_clone)
+
++ [enso-org / enso](https://github.com/enso-org/enso)
+
++ [karnotxyz / avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing)
+
++ [martinvonz / jj](https://github.com/martinvonz/jj)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [mack-a / v2ray-agent](https://github.com/mack-a/v2ray-agent)
+
++ [seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs)
+
++ [iperov / DeepFaceLive](https://github.com/iperov/DeepFaceLive)
+
++ [BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
++ [felipemotarocha / fullstackweek-barber](https://github.com/felipemotarocha/fullstackweek-barber)
+
++ [ollama-webui / ollama-webui](https://github.com/ollama-webui/ollama-webui)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [typst / typst](https://github.com/typst/typst)
+
++ [actualbudget / actual](https://github.com/actualbudget/actual)
+
++ [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
+
++ [The-OpenROAD-Project / OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
+

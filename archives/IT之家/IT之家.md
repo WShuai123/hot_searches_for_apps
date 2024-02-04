@@ -45,3 +45,9 @@
 
 + [小米手表 S3 eSIM 版获推 1.11.11 固件更新，新增微信 App](https://m.ithome.com/html/748823.htm)
 
++ [香橙派自研办公软件 Orange Pi Office 首次亮相，即将移植到开源鸿蒙系统](https://m.ithome.com/html/748803.htm)
+
++ [王化：小米相册“新年相机水印”功能明天见](https://m.ithome.com/html/748872.htm)
+
++ [比亚迪元 UP 内饰官图发布，配 12.8 英寸中控悬浮屏](https://m.ithome.com/html/748838.htm)
+
