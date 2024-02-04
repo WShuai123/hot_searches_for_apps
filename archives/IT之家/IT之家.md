@@ -41,3 +41,5 @@
 
 + [电池价格暴跌，降价潮即将来袭](https://m.ithome.com/html/748860.htm)
 
++ [2023 年中国智能盒子出货量惨淡，销量 159 万台下降 27.5 %](https://m.ithome.com/html/748831.htm)
+

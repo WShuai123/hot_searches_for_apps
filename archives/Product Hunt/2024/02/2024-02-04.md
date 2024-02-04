@@ -129,3 +129,15 @@
 
 + [Spotely](https://www.producthunt.com/posts/spotely)
 
++ [Hasty AI](https://www.producthunt.com/posts/hasty-ai-2)
+
++ [Sunlight for Apple Vision Pro/VisionOS](https://www.producthunt.com/posts/sunlight-for-apple-vision-pro-visionos)
+
++ [Bodyful: Health & Food Tracker](https://www.producthunt.com/posts/bodyful-health-food-tracker)
+
++ [Invoice Pages](https://www.producthunt.com/posts/invoice-pages)
+
++ [UserSketch](https://www.producthunt.com/posts/usersketch)
+
++ [SaaS Chatbots](https://www.producthunt.com/posts/saas-chatbots)
+

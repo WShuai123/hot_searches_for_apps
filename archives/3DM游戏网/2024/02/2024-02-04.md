@@ -203,3 +203,15 @@
 
 + [微星CLAW游戏PC掌机实机亮相 预定3月正式上市](https://www.3dmgame.com/news/202402/3887703.html)
 
++ [解谜动作《Gift》Steam试玩2月6日发布 5月9日登多平台](https://www.3dmgame.com/news/202402/3887712.html)
+
++ [员工曝小米2月底大规模裁员 劝大家买小米车三思](https://www.3dmgame.com/news/202402/3887707.html)
+
++ [曝《星刃》开发商曾解雇两名女拳开发者 众网友大喊好](https://www.3dmgame.com/news/202402/3887711.html)
+
++ [华为全年研发投入1621亿元！中国第一 世界第五](https://www.3dmgame.com/news/202402/3887710.html)
+
++ [腾讯光子H工作室杭州招人 要做3A开放世界RPG](https://www.3dmgame.com/news/202402/3887709.html)
+
++ [博主用苹果Vision Pro给老婆打微信视频电话：被吐槽像死了的鬼魂](https://www.3dmgame.com/news/202402/3887708.html)
+
