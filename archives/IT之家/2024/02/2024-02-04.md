@@ -39,3 +39,5 @@
 
 + [百度输入法 12.2.0 版更新上线“VIP 权益”：22.8 元 / 月，可使用商城付费内容及 AI 功能](https://m.ithome.com/html/748837.htm)
 
++ [电池价格暴跌，降价潮即将来袭](https://m.ithome.com/html/748860.htm)
+
