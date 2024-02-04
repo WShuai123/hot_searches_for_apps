@@ -149,3 +149,11 @@
 
 + [云端录制直播流视频，上传云盘](https://blog.csdn.net/weixin_40972073/article/details/135995532)
 
++ [2024美赛A题完整思路代码分析：建立竞争机理方程+遗传算法优化](https://blog.csdn.net/qq_45857113/article/details/135987578)
+
++ [2024年美国大学生数学建模竞赛C题完整解析](https://blog.csdn.net/ydky_xiaoyun/article/details/135988534)
+
++ [全面认识DOS系统](https://blog.csdn.net/m0_73514785/article/details/136002707)
+
++ [SpringbootWeb案例](https://blog.csdn.net/qq_50086023/article/details/135894098)
+

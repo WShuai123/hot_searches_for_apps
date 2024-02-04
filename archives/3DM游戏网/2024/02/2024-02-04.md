@@ -153,3 +153,21 @@
 
 + [《蜘蛛夫人：超感觉醒》发“无限潜能”版预告](https://www.3dmgame.com/news/202402/3887677.html)
 
++ [《咒术回战 双华乱舞》现已正式发售 Steam评价褒贬不一](https://www.3dmgame.com/news/202402/3887689.html)
+
++ [桌游名作《Dominion》登陆Steam 手游版同时上线](https://www.3dmgame.com/news/202402/3887690.html)
+
++ [米哈游《绝区零》港服PS商店页面上线 可加入愿望单](https://www.3dmgame.com/news/202402/3887688.html)
+
++ [贾跃亭被新增恢复执行2.4亿 涉及证监会行政处罚案](https://www.3dmgame.com/news/202402/3887687.html)
+
++ [再提新副业 科乐美宣布成立KONAMI animation动画工作室](https://www.3dmgame.com/news/202402/3887686.html)
+
++ [育碧多人竞速游戏《赛道狂飙》将和手游《饥饿鲨》展开联动](https://www.3dmgame.com/news/202402/3887685.html)
+
++ [《少女斗恶龙》全新海报曝光 小11持剑准备大战](https://www.3dmgame.com/news/202402/3887684.html)
+
++ [《史莱姆牧场2》销量突破100万 2月8日内容更新上线](https://www.3dmgame.com/news/202402/3887683.html)
+
++ [即时战术游戏《要塞：决定版》DLC“猪湾海湾”即将发布](https://www.3dmgame.com/news/202402/3887682.html)
+

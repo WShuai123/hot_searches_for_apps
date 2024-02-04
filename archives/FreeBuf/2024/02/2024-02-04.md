@@ -49,3 +49,11 @@
 
 + [隐私保护那些事](https://www.freebuf.com/consult/390976.html)
 
++ [Apple Vision Pro：新的隐私噩梦？](https://www.freebuf.com/news/391394.html)
+
++ [前中情局工作人员因泄露机密文件被判 40 年监禁](https://www.freebuf.com/news/391384.html)
+
++ [美国清洁用品巨头高乐氏因网络攻击损失 4900 万美元](https://www.freebuf.com/news/391364.html)
+
++ [“Synergia”行动逮捕数十名网络犯罪分子，摧毁全球70%的指挥与控制服务器](https://www.freebuf.com/news/391382.html)
+
