@@ -137,3 +137,5 @@
 
 + [【24美赛思路已出】2024年美赛A~F题解题思路已出 | 无偿自提](https://blog.csdn.net/RS_handy/article/details/135991149)
 
++ [metagpt框架的学习 action类和role类](https://blog.csdn.net/m0_74280155/article/details/135984910)
+

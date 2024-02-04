@@ -113,3 +113,11 @@
 
 + [《碧蓝幻想: Relink》Steam同时在线超10万](https://www.3dmgame.com/news/202402/3887656.html)
 
++ [EA《滑板》新作确认也会登陆Steam](https://www.3dmgame.com/news/202402/3887665.html)
+
++ [喷神恶评游戏《水管工不打领带终极版》3月5日上市](https://www.3dmgame.com/news/202402/3887663.html)
+
++ [消息称英特尔与AMD争夺次世代Xbox芯片订单](https://www.3dmgame.com/news/202402/3887664.html)
+
++ [反战互动游戏《流离归途》现已登陆Switch和PS平台](https://www.3dmgame.com/news/202402/3887662.html)
+
