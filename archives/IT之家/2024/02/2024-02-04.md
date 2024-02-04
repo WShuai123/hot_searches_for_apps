@@ -55,3 +55,5 @@
 
 + [Vision Pro 开卖炸出各种显眼包！开车 / 健身 / 过马路操作秀翻天，AI 大牛 Karpathy 发千字亲测体验](https://m.ithome.com/html/748896.htm)
 
++ [Counterpoint：2024 年前两周华为重夺中国智能手机市场销量第一](https://m.ithome.com/html/748865.htm)
+

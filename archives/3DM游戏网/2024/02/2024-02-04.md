@@ -227,3 +227,9 @@
 
 + [微软成AMD AI GPU最大买家 定价是H100四分之一](https://www.3dmgame.com/news/202402/3887718.html)
 
++ [小米汽车首撞：右前大灯被撞烂 前保险杠受损严重](https://www.3dmgame.com/news/202402/3887721.html)
+
++ [锐龙7 8700G和锐龙5 8600G开售 2499元和1699元](https://www.3dmgame.com/news/202402/3887719.html)
+
++ [国产动画电影《西游记真假美猴王》官宣](https://www.3dmgame.com/news/202402/3887720.html)
+
