@@ -79,3 +79,11 @@
 
 + [Glyph Beer 28](https://dribbble.com/shots/)
 
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ ["Picnic collective" logo and characters](https://dribbble.com/shots/)
+
++ [New Frontiers of Biomedical Engineering](https://dribbble.com/shots/)
+
