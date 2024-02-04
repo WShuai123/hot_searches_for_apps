@@ -35,3 +35,7 @@
 
 + [消息称阿里巴巴考虑出售大润发、银泰等资产](https://m.ithome.com/html/748825.htm)
 
++ [“小米 SU7 首撞”登上热搜，据称因“下雪路滑失控”酿成车辆事故](https://m.ithome.com/html/748855.htm)
+
++ [百度输入法 12.2.0 版更新上线“VIP 权益”：22.8 元 / 月，可使用商城付费内容及 AI 功能](https://m.ithome.com/html/748837.htm)
+
