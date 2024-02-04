@@ -183,3 +183,15 @@
 
 + [2D类银河恶魔城游戏《余烬祸根》愿望单人数已突破3万](https://www.3dmgame.com/news/202402/3887695.html)
 
++ [恐怖解密游戏《人魅》试玩版上线Steam 支持四人联机](https://www.3dmgame.com/news/202402/3887701.html)
+
++ [埃塞俄比亚成为全球首个禁售燃油车的国家！](https://www.3dmgame.com/news/202402/3887702.html)
+
++ [因尚未发布“新游戏＋”等更新 《漫威蜘蛛侠2》开发人员遭遇网暴力](https://www.3dmgame.com/news/202402/3887700.html)
+
++ [MG Cyberster新春涂装大赛正式开启！](https://www.3dmgame.com/news/202402/3887699.html)
+
++ [勇闯致命绝地《地心归途》全新版本“毒瘴之都”现已上线](https://www.3dmgame.com/news/202402/3887698.html)
+
++ [《来自地狱的女友》Steam试玩发布 暴整男友模拟器](https://www.3dmgame.com/news/202402/3887697.html)
+

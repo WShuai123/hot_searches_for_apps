@@ -101,3 +101,9 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Zidisha](https://www.producthunt.com/posts/zidisha-2135bca6-58ed-4eef-94e3-4409d316732a)
+
++ [MindOS Memory Twin](https://www.producthunt.com/posts/mindos-memory-twin)
+
++ [BuyMicroStartups](https://www.producthunt.com/posts/buymicrostartups)
+

@@ -61,3 +61,5 @@
 
 + [C2-Search-Netlas：一款基于Netlas API的强大C2服务器识别与检测工具](https://www.freebuf.com/sectool/389615.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
