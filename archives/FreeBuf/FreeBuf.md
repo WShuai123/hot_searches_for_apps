@@ -59,3 +59,5 @@
 
 + [CVE-2023-50164（S2-066）详解](https://www.freebuf.com/vuls/390725.html)
 
++ [C2-Search-Netlas：一款基于Netlas API的强大C2服务器识别与检测工具](https://www.freebuf.com/sectool/389615.html)
+

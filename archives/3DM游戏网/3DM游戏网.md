@@ -177,3 +177,9 @@
 
 + [《DON“T FACE UP》Steam免费发布 第一人称恐怖探索](https://www.3dmgame.com/news/202402/3887693.html)
 
++ [《宝可梦 Sleep》“情人节 2024”企划即将到来](https://www.3dmgame.com/news/202402/3887696.html)
+
++ [据报道日本艺人被告诫不要公开讨论《幻兽帕鲁》游戏](https://www.3dmgame.com/news/202402/3887694.html)
+
++ [2D类银河恶魔城游戏《余烬祸根》愿望单人数已突破3万](https://www.3dmgame.com/news/202402/3887695.html)
+

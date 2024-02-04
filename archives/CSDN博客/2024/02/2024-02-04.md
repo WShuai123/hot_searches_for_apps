@@ -167,3 +167,9 @@
 
 + [Spring Cloud Stream解密：流式数据在微服务中的魔力](https://blog.csdn.net/Mrxiao_bo/article/details/135958932)
 
++ [使用Mamba和Qdrant数据库实现RAG的代码示例](https://blog.csdn.net/m0_46510245/article/details/136023458)
+
++ [k8s搭建部署（超详细）](https://blog.csdn.net/qq_43842093/article/details/136017848)
+
++ [【项目日记(八)】第三层: 页缓存的具体实现(下)](https://blog.csdn.net/m0_61982936/article/details/135998072)
+
