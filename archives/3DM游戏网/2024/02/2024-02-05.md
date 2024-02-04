@@ -103,3 +103,7 @@
 
 + [传闻：微软将宣布第一方游戏登陆多平台策略](https://www.3dmgame.com/news/202402/3887725.html)
 
++ [科幻月球求生游戏《登月计划》即将发售PC版](https://www.3dmgame.com/news/202402/3887727.html)
+
++ [手绘农场模拟游戏《青蛙庇护所》发布试玩版](https://www.3dmgame.com/news/202402/3887726.html)
+
