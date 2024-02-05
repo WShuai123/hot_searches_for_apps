@@ -197,3 +197,25 @@
 
 + [英伟达新RTX 3050来了：售价1399元 显存缩水至6GB](https://www.3dmgame.com/news/202402/3887772.html)
 
++ [心动“家”年华，《完蛋！我被美女包围了！—房间里的心跳》现已正式上线](https://www.3dmgame.com/news/202402/3887779.html)
+
++ [传闻：《堡垒之夜》或将联动经典特摄《恐龙战队》](https://www.3dmgame.com/news/202402/3887780.html)
+
++ [《幻兽帕鲁》翠叶鼠雕像起反效果 收集越多抓捕成功率越低](https://www.3dmgame.com/news/202402/3887781.html)
+
++ [《废村散策会活动记录》登陆Steam 恐怖探索新游](https://www.3dmgame.com/news/202402/3887782.html)
+
++ [人工智能，隐私和黑科技！《全网公敌：新世界》新品节限时试玩今日上线！](https://www.3dmgame.com/news/202402/3887783.html)
+
++ [赛博卡牌构筑游戏《零异机动队》试玩版正式公开 今年发售](https://www.3dmgame.com/news/202402/3887774.html)
+
++ [《山门与幻境》年兽更新上线 春节后上线新DLC](https://www.3dmgame.com/news/202402/3887773.html)
+
++ [《守望先锋2》校队选手被暴雪误封 奖学金恐遭取消](https://www.3dmgame.com/news/202402/3887775.html)
+
++ [《高达SEED》人气度官方投票活动公开 全机体角色参与](https://www.3dmgame.com/news/202402/3887776.html)
+
++ [《咒术回战》推联名新周边 狱门疆猫屋 封印毛孩子专用](https://www.3dmgame.com/news/202402/3887777.html)
+
++ [《哈尔的移动城堡》内地定档：4月30日全国上映](https://www.3dmgame.com/news/202402/3887778.html)
+

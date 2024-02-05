@@ -59,3 +59,7 @@
 
 + [Windows Server 2025 即将引入 Linux sudo 功能](https://www.freebuf.com/news/391509.html)
 
++ [如何使用NimExec通过无文件命令执行实现横向移动](https://www.freebuf.com/sectool/389617.html)
+
++ [Okta、Proofpoint等知名安全厂商开启裁员](https://www.freebuf.com/news/391503.html)
+
