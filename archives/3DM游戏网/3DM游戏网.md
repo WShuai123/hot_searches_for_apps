@@ -117,3 +117,33 @@
 
 + [爱好者发布《超级马里奥64》洛克人X MOD正式版](https://www.3dmgame.com/news/202402/3887729.html)
 
++ [《Fate/Samurai Remnant》首个DLC宣布2月9日发售](https://www.3dmgame.com/news/202402/3887741.html)
+
++ [顽皮狗：确实曾大量加班问题 未来不会这么做了](https://www.3dmgame.com/news/202402/3887742.html)
+
++ [《如龙》制作人解释如何在《GTA》两作发售间隔做出10款游戏](https://www.3dmgame.com/news/202402/3887743.html)
+
++ [《宝可梦：朱紫》新泰拉挑战2月12日启动  强力爱心鱼参战](https://www.3dmgame.com/news/202402/3887744.html)
+
++ [量大管饱！古风暗黑类刷子游戏《神灵石之劫》今日发售！](https://www.3dmgame.com/news/202402/3887745.html)
+
++ [《完蛋我被美女包围》首个DLC今日发售 三大美女上线](https://www.3dmgame.com/news/202402/3887746.html)
+
++ [《最终幻想7：重生》媒体评分预计2月22日解禁](https://www.3dmgame.com/news/202402/3887747.html)
+
++ [《Echoes of Empire》PC平台免费发布 科幻策略新游](https://www.3dmgame.com/news/202402/3887733.html)
+
++ [恐怖游戏《Hollowbody》试玩Demo上线Steam](https://www.3dmgame.com/news/202402/3887734.html)
+
++ [为打击黄牛 梵高联名“戴毡帽的皮卡丘”卡牌将重新上架](https://www.3dmgame.com/news/202402/3887735.html)
+
++ [《漫威蜘蛛侠2》非官方PC移植版演示 看起来不错](https://www.3dmgame.com/news/202402/3887736.html)
+
++ [科乐美宣布将推出游戏《游戏王早期合集》 2024年发售](https://www.3dmgame.com/news/202402/3887737.html)
+
++ [驾驶游戏《全速以赴》Steam页面上线 2024年第三季度发售](https://www.3dmgame.com/news/202402/3887738.html)
+
++ [《大侠立志传》春节前夕更新 开放西域新增通天塔等](https://www.3dmgame.com/news/202402/3887739.html)
+
++ [PS4模拟器fpPS4现在可以在PC上运行144款游戏](https://www.3dmgame.com/news/202402/3887740.html)
+

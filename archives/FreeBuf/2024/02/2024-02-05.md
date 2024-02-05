@@ -45,3 +45,5 @@
 
 + [Phobos 勒索软件变种 FAUST 再度活跃](https://www.freebuf.com/articles/network/390818.html)
 
++ [新型工业化进程网络安全保障—企业响应工业控制系统网络安全防护指南要求的实践指引](https://www.freebuf.com/articles/ics-articles/391263.html)
+
