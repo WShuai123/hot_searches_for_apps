@@ -125,3 +125,5 @@
 
 + [Elasticsearch：使用 Inference API 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/136028138)
 
++ [挑战杯 opencv 图像识别 指纹识别 - python](https://blog.csdn.net/laafeer/article/details/136010558)
+

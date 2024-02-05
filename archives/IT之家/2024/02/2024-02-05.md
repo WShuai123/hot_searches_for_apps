@@ -27,3 +27,7 @@
 
 + [消息称小米 15 手机首发骁龙 8 Gen 4，10 月左右真机发售](https://m.ithome.com/html/748938.htm)
 
++ [成都一网友叫到 60 多公里以外网约车：平台称司机用作弊软件接单，已被暂停服务](https://m.ithome.com/html/748943.htm)
+
++ [小米磁吸充电宝 2 开售：Qi 2.0 协议认证，售价 229 元](https://m.ithome.com/html/748916.htm)
+
