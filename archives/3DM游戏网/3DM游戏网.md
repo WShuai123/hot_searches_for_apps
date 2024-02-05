@@ -111,3 +111,5 @@
 
 + [《赤痕：夜之仪式》新DLC让女主变身桑塔](https://www.3dmgame.com/news/202402/3887823.html)
 
++ [双摇杆肉鸽射击游戏《幸存几何学》2月21日发售](https://www.3dmgame.com/news/202402/3887827.html)
+
