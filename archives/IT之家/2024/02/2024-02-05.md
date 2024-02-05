@@ -45,3 +45,5 @@
 
 + [小米 Redmi K50 手机获推澎湃 OS 更新：安卓跨版本升级，内置 1 月谷歌安全补丁](https://m.ithome.com/html/748965.htm)
 
++ [马自达 SUV 新车 CX-70 官图发布：定位中型车，提供燃油 / 插混动力](https://m.ithome.com/html/748942.htm)
+

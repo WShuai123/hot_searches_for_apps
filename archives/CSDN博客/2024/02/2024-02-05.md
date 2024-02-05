@@ -173,3 +173,15 @@
 
 + [Go语言Gin框架安全加固：全面解析SQL注入、XSS与CSRF的解决方案](https://blog.csdn.net/qq_35716689/article/details/136023181)
 
++ [VS Code+Live Server插件开发游戏并结合内网穿透分享好友异地访问](https://blog.csdn.net/Aileenvov/article/details/136041237)
+
++ [大数据概念与术语简介](https://blog.csdn.net/rubys007/article/details/135942872)
+
++ [神经网络 | 基于 CNN 模型实现土壤湿度预测](https://blog.csdn.net/ttrr27/article/details/136018565)
+
++ [异地办公必不可缺的远程控制软件，原理到底是什么?](https://blog.csdn.net/weixin_42794881/article/details/136028147)
+
++ [HTTPS：数字时代的护身符，保障你的在线隐私](https://blog.csdn.net/double222222/article/details/136030849)
+
++ [【微信小程序篇】动态显示数据 | 登录授权码 | 按钮 | 异步请求](https://blog.csdn.net/m0_72853403/article/details/136034082)
+

@@ -237,3 +237,19 @@
 
 + [《潜水员戴夫》开发商MINTROCKET新作《Wakerunners》Demo 支持简中](https://www.3dmgame.com/news/202402/3887784.html)
 
++ [微软推行独占多平台可能原因：硬件已死XGP不可持续](https://www.3dmgame.com/news/202402/3887797.html)
+
++ [中国准备自己造HBM内存！采购设备已获美国批准](https://www.3dmgame.com/news/202402/3887798.html)
+
++ [《2077》开发者谈开发新版本的艰辛：小改动也费心血](https://www.3dmgame.com/news/202402/3887799.html)
+
++ [《圣兽之王》新视频“指挥官入门手册 ～交流心得篇～”及官方解说漫画“小队篇”！现已公开](https://www.3dmgame.com/news/202402/3887800.html)
+
++ [《苍翼：混沌效应》开发商宣布全员遣散 仅剩制作人一人](https://www.3dmgame.com/news/202402/3887793.html)
+
++ [淘宝拟制定客服新规 消极回复将每单罚20元](https://www.3dmgame.com/news/202402/3887794.html)
+
++ [《圣兽之王》“交流心得篇”预告 3月8日发售](https://www.3dmgame.com/news/202402/3887795.html)
+
++ [BBA、路虎增速明显！乘联会公布2023进口车销量](https://www.3dmgame.com/news/202402/3887796.html)
+
