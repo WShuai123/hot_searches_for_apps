@@ -193,3 +193,5 @@
 
 + [基于Java+SpringBoot+Vue.js前后端分离海鲜购物商城系统设计和实现 可行性分析](https://blog.csdn.net/u013818205/article/details/135980914)
 
++ [数据挖掘实战-基于决策树算法构建北京市空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/135408959)
+

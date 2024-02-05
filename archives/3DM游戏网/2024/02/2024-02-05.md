@@ -279,3 +279,7 @@
 
 + [战略竞技游戏《三国之志4》STEAM特别好评中](https://www.3dmgame.com/news/202402/3887813.html)
 
++ [微星掌机Claw国行价格公布 5299元起](https://www.3dmgame.com/news/202402/3887815.html)
+
++ [iPhone 16 Pro或有更大机身 苹果也会升级摄像头功能](https://www.3dmgame.com/news/202402/3887814.html)
+
