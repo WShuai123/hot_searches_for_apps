@@ -155,3 +155,11 @@
 
 + [（2）(2.13) Rockblock Satellite Modem](https://blog.csdn.net/qq_20016593/article/details/135968781)
 
++ [【记录】记一次关于前端单元测试的全英文问卷调查（ Survey: Automatically Generated Test Suites for JavaScript）](https://blog.csdn.net/qq_32682301/article/details/131886054)
+
++ [SpringCloud-生产者和消费者](https://blog.csdn.net/weixin_41793160/article/details/136034474)
+
++ [HTML5和CSS3强化知识总结](https://blog.csdn.net/guai_guai_guai/article/details/135864160)
+
++ [PyTorch的10个基本张量操作](https://blog.csdn.net/m0_46510245/article/details/136037487)
+

@@ -55,3 +55,7 @@
 
 + [APP安全 | 移动应用隐私合规现状分析](https://www.freebuf.com/articles/endpoint/390502.html)
 
++ [安全研究员发现漏洞群，允许黑客逃离 Docker 和 runc 容器](https://www.freebuf.com/news/391525.html)
+
++ [Windows Server 2025 即将引入 Linux sudo 功能](https://www.freebuf.com/news/391509.html)
+
