@@ -51,3 +51,29 @@
 
 + [The-OpenROAD-Project / OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
 
++ [apple / pkl](https://github.com/apple/pkl)
+
++ [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
+
++ [InstantID / InstantID](https://github.com/InstantID/InstantID)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent)
+
++ [illacloud / illa-builder](https://github.com/illacloud/illa-builder)
+
++ [Sanster / IOPaint](https://github.com/Sanster/IOPaint)
+
++ [allenai / OLMo-Eval](https://github.com/allenai/OLMo-Eval)
+
++ [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+
++ [superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode)
+
++ [nomic-ai / contrastors](https://github.com/nomic-ai/contrastors)
+
++ [FuelLabs / sway](https://github.com/FuelLabs/sway)
+
