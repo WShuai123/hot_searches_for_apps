@@ -277,3 +277,5 @@
 
 + [《SILENT BREATH》Steam页面上线 又一款禁止惊叫恐怖新游](https://www.3dmgame.com/news/202402/3887802.html)
 
++ [战略竞技游戏《三国之志4》STEAM特别好评中](https://www.3dmgame.com/news/202402/3887813.html)
+

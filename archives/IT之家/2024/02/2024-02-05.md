@@ -47,3 +47,7 @@
 
 + [马自达 SUV 新车 CX-70 官图发布：定位中型车，提供燃油 / 插混动力](https://m.ithome.com/html/748942.htm)
 
++ [“小米相册-编辑”获推 1.6.0.5 版更新：限时推出龙年春节水印，2 月 25 日下线](https://m.ithome.com/html/749022.htm)
+
++ [玩家在苹果 Vision Pro 上玩《幻兽帕鲁》，虚拟巨屏秒杀 115 英寸投影仪](https://m.ithome.com/html/748952.htm)
+
