@@ -153,3 +153,15 @@
 
 + [Dorik AI (Beta)](https://www.producthunt.com/posts/dorik-ai-beta)
 
++ [SoundPaste](https://www.producthunt.com/posts/soundpaste)
+
++ [ResumeBoostAI](https://www.producthunt.com/posts/resumeboostai-2)
+
++ [SpellingTestBuddy](https://www.producthunt.com/posts/spellingtestbuddy)
+
++ [A/B testing for Webflow](https://www.producthunt.com/posts/a-b-testing-for-webflow)
+
++ [Howe](https://www.producthunt.com/posts/howe)
+
++ [Keycheck](https://www.producthunt.com/posts/keycheck)
+

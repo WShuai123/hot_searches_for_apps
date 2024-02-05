@@ -253,3 +253,27 @@
 
 + [BBA、路虎增速明显！乘联会公布2023进口车销量](https://www.3dmgame.com/news/202402/3887796.html)
 
++ [采矿沙盒冒险游戏《核心守护者》贺农历新年！](https://www.3dmgame.com/news/202402/3887803.html)
+
++ [《三国朋克》登录STEAM|首曝先行预告PV](https://www.3dmgame.com/news/202402/3887804.html)
+
++ [苹果iPad Pro 2024售价曝光：比iPhone 15 Pro Max都贵](https://www.3dmgame.com/news/202402/3887805.html)
+
++ [乙女游戏《MAJESTIC☆MAJOLICAL》将于4月25日发售，配角介绍！](https://www.3dmgame.com/news/202402/3887806.html)
+
++ [《遗迹传说 HD Remastered》繁体中文版现已上市，举办庆祝上市活动！](https://www.3dmgame.com/news/202402/3887807.html)
+
++ [Dear Villagers的下一款游戏《泰拉往事》将于2月6日-13日亮相Steam新品节！](https://www.3dmgame.com/news/202402/3887808.html)
+
++ [画风敲可爱的多人本地合作游戏《萌宠拆拆乐》将参加Steam新品节](https://www.3dmgame.com/news/202402/3887809.html)
+
++ [《叛乱: 沙漠风暴》现已登陆PS5及Xbox S，带来无与伦比的沉浸感](https://www.3dmgame.com/news/202402/3887810.html)
+
++ [《雪地奔驰》通过今天发布的公共能源扩展包恢复电力供应](https://www.3dmgame.com/news/202402/3887811.html)
+
++ [RTX4090在整个亚洲都疯了！65万买20台主机 拆开倒卖中国](https://www.3dmgame.com/news/202402/3887812.html)
+
++ [《蜘蛛夫人》活动达妹亮相 黑钻石蛛网透视裙迷人](https://www.3dmgame.com/news/202402/3887801.html)
+
++ [《SILENT BREATH》Steam页面上线 又一款禁止惊叫恐怖新游](https://www.3dmgame.com/news/202402/3887802.html)
+

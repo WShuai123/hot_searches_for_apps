@@ -65,3 +65,5 @@
 
 + [数据安全是否能成为下一个风口](https://www.freebuf.com/articles/neopoints/379697.html)
 
++ [香港最大AI诈骗案！Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://www.freebuf.com/news/391605.html)
+

@@ -185,3 +185,7 @@
 
 + [【微信小程序篇】动态显示数据 | 登录授权码 | 按钮 | 异步请求](https://blog.csdn.net/m0_72853403/article/details/136034082)
 
++ [Verilog实现2进制码与BCD码的互相转换](https://blog.csdn.net/wuzhikaidetb/article/details/136039824)
+
++ [机器学习 - 梯度下降](https://blog.csdn.net/weixin_45487988/article/details/136031667)
+
