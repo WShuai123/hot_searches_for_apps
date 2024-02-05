@@ -25,3 +25,5 @@
 
 + [苹果官宣 iOS 17.4 正式版更新 3 月上线：欧盟地区支持应用侧载、改进播客等](https://m.ithome.com/html/748951.htm)
 
++ [iPhone 被磨成粉末的瞬间太丝滑了，强迫症看了极度舒适](https://m.ithome.com/html/749030.htm)
+

@@ -101,3 +101,5 @@
 
 + [Dorik AI (Beta)](https://www.producthunt.com/posts/dorik-ai-beta)
 
++ [AI-powered shopping assistant By Algomo](https://www.producthunt.com/posts/ai-powered-shopping-assistant-by-algomo)
+

@@ -49,3 +49,27 @@
 
 + [Pattern play ????☀️](https://dribbble.com/shots/)
 
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
++ [Cali Bear Crusin](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [Rendezvous Music Fest](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ [Summer at the Beach Icons](https://dribbble.com/shots/)
+
++ [How to prepare yourself for emergencies on the road infographic](https://dribbble.com/shots/)
+
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
++ [The Bone Wars](https://dribbble.com/shots/)
+
++ [Paradise Island ????](https://dribbble.com/shots/)
+
