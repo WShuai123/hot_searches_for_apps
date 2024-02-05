@@ -101,3 +101,5 @@
 
 + [英伟达新RTX 3050来了：售价1399元 显存缩水至6GB](https://www.3dmgame.com/news/202402/3887772.html)
 
++ [《仙剑奇侠传前传：酒剑仙》预告 2月20日在腾讯视频首播](https://www.3dmgame.com/news/202402/3887822.html)
+
