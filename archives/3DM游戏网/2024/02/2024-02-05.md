@@ -147,3 +147,29 @@
 
 + [PS4模拟器fpPS4现在可以在PC上运行144款游戏](https://www.3dmgame.com/news/202402/3887740.html)
 
++ [B社故意把《上古卷轴5》删减内容隐藏 等待Mod作者发掘](https://www.3dmgame.com/news/202402/3887758.html)
+
++ [《龙珠Z：电光火石0》最早年底发售 新预告即将公布](https://www.3dmgame.com/news/202402/3887757.html)
+
++ [消息称《原神》官方正在向加拿大作弊工具开发者提请诉讼](https://www.3dmgame.com/news/202402/3887759.html)
+
++ [《宇宙魔弹哥卓普》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3887760.html)
+
++ [2024 Steam新品节即将开始 活动将包含数百款试玩版游戏](https://www.3dmgame.com/news/202402/3887748.html)
+
++ [《麻辣教师GTO 复活》4月1日开播 反町隆史主演](https://www.3dmgame.com/news/202402/3887751.html)
+
++ [粉丝耗费10年在《星际争霸2》中重制初代游戏](https://www.3dmgame.com/news/202402/3887749.html)
+
++ [《死亡搁浅2》游戏全新截图公布 顶级视觉盛宴！](https://www.3dmgame.com/news/202402/3887752.html)
+
++ [《史努比敬献：欢迎回家,富兰克林》预告公布 2月16日发售](https://www.3dmgame.com/news/202402/3887750.html)
+
++ [肉鸽卡牌构筑游戏《骰子浪游者》Demo上线 发售日期待定](https://www.3dmgame.com/news/202402/3887753.html)
+
++ [《寿司水族馆》免费登陆VRChat 虚拟欣赏美丽世界鱼类](https://www.3dmgame.com/news/202402/3887754.html)
+
++ [《幻兽帕鲁》BUG让玩家无意中获得基地大小的帕鲁](https://www.3dmgame.com/news/202402/3887755.html)
+
++ [微软考虑在发布数月后在PS5上推出《夺宝奇兵》新作](https://www.3dmgame.com/news/202402/3887756.html)
+

@@ -31,3 +31,5 @@
 
 + [小米磁吸充电宝 2 开售：Qi 2.0 协议认证，售价 229 元](https://m.ithome.com/html/748916.htm)
 
++ [贾跃亭被恢复执行 2.41 亿元，FF 造车 9 年交付 10 台车](https://m.ithome.com/html/748888.htm)
+

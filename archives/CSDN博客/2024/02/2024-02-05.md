@@ -133,3 +133,9 @@
 
 + [微信网页授权之使用完整服务解决方案](https://blog.csdn.net/michaelline/article/details/135870637)
 
++ [2024年美赛 （D题ICM）| 湖流网络水位控制 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/135985532)
+
++ [【Linux】权限管理](https://blog.csdn.net/hsjsiwkwm/article/details/135894896)
+
++ [网络原理-TCP/IP(5)](https://blog.csdn.net/asdssadddd/article/details/136003981)
+
