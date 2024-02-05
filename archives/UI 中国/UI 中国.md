@@ -13,3 +13,5 @@
 
 + [喜报来啦！MEUX又又又斩获8项国际设计大奖！](https://www.ui.cn/detail/661585.html)
 
++ [百度APP极速版 | 任务激励体验设计之路](https://www.ui.cn/detail/661999.html)
+

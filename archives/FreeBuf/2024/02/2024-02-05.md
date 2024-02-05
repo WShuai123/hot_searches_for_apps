@@ -49,3 +49,7 @@
 
 + [国家标准《信息安全技术 云计算服务安全能力评估方法》征求意见稿发布](https://www.freebuf.com/news/391492.html)
 
++ [网络安全专家提醒：赶快断开智能电视和互联网的连接](https://www.freebuf.com/news/391517.html)
+
++ [Okta、Proofpoint等知名安全厂商宣布裁员](https://www.freebuf.com/news/391503.html)
+

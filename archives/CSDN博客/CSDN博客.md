@@ -139,3 +139,15 @@
 
 + [网络原理-TCP/IP(5)](https://blog.csdn.net/asdssadddd/article/details/136003981)
 
++ [2024三掌柜赠书活动第八期：Web3与DAO：下一代互联网演进逻辑](https://blog.csdn.net/CC1991_/article/details/136020720)
+
++ [使用PHPStudy搭建Cloudreve网盘服务](https://blog.csdn.net/Tiam_cr/article/details/136026847)
+
++ [Spring MVC](https://blog.csdn.net/weixin_72847531/article/details/136007646)
+
++ [【SpringBoot】RBAC权限控制](https://blog.csdn.net/m0_62645012/article/details/136030269)
+
++ [AIGC实战——归一化流模型(Normalizing Flow Model)](https://blog.csdn.net/LOVEmy134611/article/details/135984457)
+
++ [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_77645750/article/details/136001166)
+
