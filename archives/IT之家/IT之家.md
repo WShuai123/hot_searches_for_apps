@@ -57,3 +57,9 @@
 
 + [李想回应“年终奖有点大”：奖罚不分明，才是组织低效的最大原因](https://m.ithome.com/html/749100.htm)
 
++ [《完蛋！我被美女包围了！》首款 DLC “房间里的心跳”今日上线，售 19 元](https://m.ithome.com/html/748954.htm)
+
++ [苹果 Vision Pro，全球首拆！](https://m.ithome.com/html/749018.htm)
+
++ [中国产 ID.6 价格低廉，德国经销商进口转售遭大众起诉](https://m.ithome.com/html/748964.htm)
+
