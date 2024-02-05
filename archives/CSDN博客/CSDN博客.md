@@ -107,3 +107,19 @@
 
 + [Sklearn、TensorFlow 与 Keras 机器学习实用指南第三版（八）](https://blog.csdn.net/wizardforcel/article/details/136026192)
 
++ [DockerUI如何部署结合内网穿透实现公网环境管理本地docker容器](https://blog.csdn.net/qq_74415153/article/details/136047867)
+
++ [k8s搭建部署（超详细）](https://blog.csdn.net/qq_43842093/article/details/136017848)
+
++ [85.如何设计高并发系统（缓存、限流、熔断、降级）](https://blog.csdn.net/YouMing_Li/article/details/135993763)
+
++ [基于微信小程序的校园水电费管理小程序的研究与实现](https://blog.csdn.net/2301_77835649/article/details/136031436)
+
++ [OpenCV 图像处理六（傅里叶变换、模板匹配与霍夫变换）](https://blog.csdn.net/m0_74154295/article/details/135983615)
+
++ [池化技术的总结](https://blog.csdn.net/qq_39126115/article/details/136019420)
+
++ [数据挖掘实战-基于决策树算法构建北京市空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/135408959)
+
++ [异地办公必不可缺的远程控制软件，原理到底是什么?](https://blog.csdn.net/weixin_42794881/article/details/136028147)
+

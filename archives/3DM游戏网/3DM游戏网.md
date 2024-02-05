@@ -103,3 +103,11 @@
 
 + [《仙剑奇侠传前传：酒剑仙》预告 2月20日在腾讯视频首播](https://www.3dmgame.com/news/202402/3887822.html)
 
++ [微软将在下周的活动中分享其“Xbox未来愿景”](https://www.3dmgame.com/news/202402/3887826.html)
+
++ [SE公布疲软财报 但仍有望在第四季度实现盈利](https://www.3dmgame.com/news/202402/3887825.html)
+
++ [科乐美公布财报 上调全年销售额和利润期望](https://www.3dmgame.com/news/202402/3887824.html)
+
++ [《赤痕：夜之仪式》新DLC让女主变身桑塔](https://www.3dmgame.com/news/202402/3887823.html)
+
