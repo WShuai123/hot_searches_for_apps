@@ -53,3 +53,5 @@
 
 + [Okta、Proofpoint等知名安全厂商宣布裁员](https://www.freebuf.com/news/391503.html)
 
++ [APP安全 | 移动应用隐私合规现状分析](https://www.freebuf.com/articles/endpoint/390502.html)
+
