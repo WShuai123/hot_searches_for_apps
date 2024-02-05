@@ -285,3 +285,9 @@
 
 + [《最终幻想14》Xbox Series需要订阅XGP Core](https://www.3dmgame.com/news/202402/3887816.html)
 
++ [宫崎骏《哈尔的移动城堡》中国内地定档4月30日](https://www.3dmgame.com/news/202402/3887819.html)
+
++ [传《使命召唤2024》单人战役将采用开放世界设定](https://www.3dmgame.com/news/202402/3887818.html)
+
++ [《宣誓》战斗将更具冲击力 确认没有小游戏、角色背景影响对话选择](https://www.3dmgame.com/news/202402/3887817.html)
+

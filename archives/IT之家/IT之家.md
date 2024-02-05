@@ -63,3 +63,5 @@
 
 + [中国产 ID.6 价格低廉，德国经销商进口转售遭大众起诉](https://m.ithome.com/html/748964.htm)
 
++ [小米 14 Ultra 及“质感新中端”手机通过莱茵无屏闪认证](https://m.ithome.com/html/749095.htm)
+

@@ -195,3 +195,9 @@
 
 + [数据挖掘实战-基于决策树算法构建北京市空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/135408959)
 
++ [如何使用MCSM搭建我的世界Java版服务器并实现远程联机游戏](https://blog.csdn.net/m0_75215937/article/details/136043580)
+
++ [基于Java+SpringBoot+Vue前后端分离癌症患者交流平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/136004531)
+
++ [深度神经网络中的BNN和DNN：基于存内计算的原理、实现与能量效率](https://blog.csdn.net/Why_does_it_work/article/details/136041792)
+
