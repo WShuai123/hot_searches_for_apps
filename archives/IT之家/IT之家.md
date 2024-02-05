@@ -39,3 +39,9 @@
 
 + [《幻兽帕鲁》工程师：2 月服务器成本预计超 7000 万日元，无论如何都不能宕机](https://m.ithome.com/html/748946.htm)
 
++ [俄罗斯宇航员太空停留超 878 天，创造新的时长纪录](https://m.ithome.com/html/748930.htm)
+
++ [携程发布苹果 Vision Pro 头显专用应用，内置桂林山水、撒哈拉沙漠等多个旅游景点](https://m.ithome.com/html/748939.htm)
+
++ [小米 Redmi K50 手机获推澎湃 OS 更新：安卓跨版本升级，内置 1 月谷歌安全补丁](https://m.ithome.com/html/748965.htm)
+

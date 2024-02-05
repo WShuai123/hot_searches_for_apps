@@ -63,3 +63,5 @@
 
 + [Okta、Proofpoint等知名安全厂商开启裁员](https://www.freebuf.com/news/391503.html)
 
++ [数据安全是否能成为下一个风口](https://www.freebuf.com/articles/neopoints/379697.html)
+

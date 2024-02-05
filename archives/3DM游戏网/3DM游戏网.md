@@ -219,3 +219,21 @@
 
 + [《哈尔的移动城堡》内地定档：4月30日全国上映](https://www.3dmgame.com/news/202402/3887778.html)
 
++ [法官：苹果用户可就禁止第三方支付提出集体诉讼](https://www.3dmgame.com/news/202402/3887791.html)
+
++ [背刺Steam！特别好评佳作0.5折；《怪猎世界》39.9秒杀](https://www.3dmgame.com/news/202402/3887790.html)
+
++ [无人运输机壹通TR100试飞成功 载重150公斤](https://www.3dmgame.com/news/202402/3887792.html)
+
++ [SE《最终幻想》系列Switch平台促销启动 最大四折优惠](https://www.3dmgame.com/news/202402/3887789.html)
+
++ [特斯拉董事会愈发混乱 多名成员被曝与马斯克一同吸毒](https://www.3dmgame.com/news/202402/3887788.html)
+
++ [《星刃》灵感来自《尼尔》等游戏 主角换装数量达30种](https://www.3dmgame.com/news/202402/3887787.html)
+
++ [RTS《风暴之门》确认将于Steam新品节开启B测](https://www.3dmgame.com/news/202402/3887786.html)
+
++ [免费联机！新国风生存建造游戏《无径之林》试玩版上线](https://www.3dmgame.com/news/202402/3887785.html)
+
++ [《潜水员戴夫》开发商MINTROCKET新作《Wakerunners》Demo 支持简中](https://www.3dmgame.com/news/202402/3887784.html)
+

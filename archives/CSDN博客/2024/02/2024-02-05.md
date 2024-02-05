@@ -167,3 +167,9 @@
 
 + [操作系统透视：从历史沿革到现代应用，剖析Linux与网站服务架构](https://blog.csdn.net/Srlua/article/details/136018913)
 
++ [Fink CDC数据同步（四）Mysql数据同步到Kafka](https://blog.csdn.net/weixin_44586883/article/details/136023747)
+
++ [时间序列预测 —— ConvLSTM 模型](https://blog.csdn.net/weixin_39753819/article/details/136016677)
+
++ [Go语言Gin框架安全加固：全面解析SQL注入、XSS与CSRF的解决方案](https://blog.csdn.net/qq_35716689/article/details/136023181)
+

@@ -101,3 +101,23 @@
 
 + [Indie Wiki Buddy](https://www.producthunt.com/posts/indie-wiki-buddy)
 
++ [Apple Pkl](https://www.producthunt.com/posts/apple-pkl)
+
++ [Personal Cybersecurity Assistant](https://www.producthunt.com/posts/personal-cybersecurity-assistant)
+
++ [xtaapp](https://www.producthunt.com/posts/xtaapp)
+
++ [Go Boldly](https://www.producthunt.com/posts/go-boldly)
+
++ [Amazon Rufus](https://www.producthunt.com/posts/amazon-rufus)
+
++ [Lungy: Spaces for Apple Vision Pro](https://www.producthunt.com/posts/lungy-spaces-for-apple-vision-pro)
+
++ [Syncly](https://www.producthunt.com/posts/syncly)
+
++ [Gluecharm App Map & Conceptualization](https://www.producthunt.com/posts/gluecharm-app-map-conceptualization)
+
++ [REI Litics](https://www.producthunt.com/posts/rei-litics)
+
++ [AIStartupInsights: Startup AI Strategist](https://www.producthunt.com/posts/aistartupinsights-startup-ai-strategist)
+
