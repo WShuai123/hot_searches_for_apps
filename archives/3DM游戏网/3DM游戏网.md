@@ -267,3 +267,7 @@
 
 + [Acer掠夺者战斧18游戏本上市 起售价19999元](https://www.3dmgame.com/news/202402/3887904.html)
 
++ [XGP 2月游戏泄露 《生化危机3：重制版》领衔](https://www.3dmgame.com/news/202402/3887906.html)
+
++ [减少外包！SE将更多高知名度游戏留在内部开发](https://www.3dmgame.com/news/202402/3887905.html)
+

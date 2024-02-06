@@ -171,3 +171,7 @@
 
 + [ShieldForce](https://www.producthunt.com/posts/shieldforce)
 
++ [Note Hacker](https://www.producthunt.com/posts/note-hacker)
+
++ [GiGFi](https://www.producthunt.com/posts/gigfi)
+

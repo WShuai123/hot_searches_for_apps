@@ -149,3 +149,9 @@
 
 + [AOA –《Excuse Me》](http://www.acfun.cn/v/ac43707200)
 
++ [这是什么！再回首！](http://www.acfun.cn/v/ac43715714)
+
++ [【林小C】《天涯歌女》中国风爵士翻跳 还有资格参选大上海台柱子吗](http://www.acfun.cn/v/ac43713448)
+
++ [老娘闪亮登场](http://www.acfun.cn/v/ac43710154)
+
