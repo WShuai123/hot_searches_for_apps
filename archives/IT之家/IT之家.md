@@ -71,3 +71,9 @@
 
 + [联想小新 Pro 14 2024 锐龙版轻薄本官图公布，天青蓝、鸽子灰双色可选](https://m.ithome.com/html/749148.htm)
 
++ [华为新款 Pocket 折叠屏手机曝光：搭载麒麟 9000S 5G 芯片 + 4520mAh 电池，提供紫色素皮和灰色玻璃可选](https://m.ithome.com/html/749286.htm)
+
++ [测试发现三星 Galaxy S24 Ultra 钛合金用料不及苹果 iPhone 15 Pro Max，成本更低](https://m.ithome.com/html/749173.htm)
+
++ [顺丰、永辉宣布合作：买完东西就能寄回老家，覆盖全国 700 余家永辉超市](https://m.ithome.com/html/749133.htm)
+

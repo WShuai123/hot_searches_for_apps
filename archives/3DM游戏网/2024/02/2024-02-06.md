@@ -265,3 +265,5 @@
 
 + [《不可思议迷宫：风来的西林6》日本销量破20万部](https://www.3dmgame.com/news/202402/3887886.html)
 
++ [Acer掠夺者战斧18游戏本上市 起售价19999元](https://www.3dmgame.com/news/202402/3887904.html)
+

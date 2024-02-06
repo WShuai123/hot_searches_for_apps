@@ -51,3 +51,33 @@
 
 + [adrianhajdin / figma_clone](https://github.com/adrianhajdin/figma_clone)
 
++ [mitsuhiko / rye](https://github.com/mitsuhiko/rye)
+
++ [martinvonz / jj](https://github.com/martinvonz/jj)
+
++ [huggingface / chat-ui](https://github.com/huggingface/chat-ui)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen)
+
++ [andrewnguonly / Lumos](https://github.com/andrewnguonly/Lumos)
+
++ [karnotxyz / avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing)
+
++ [Meroser / IPTV](https://github.com/Meroser/IPTV)
+
++ [G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM)
+
++ [maybe-finance / maybe-archive](https://github.com/maybe-finance/maybe-archive)
+
++ [Expensify / App](https://github.com/Expensify/App)
+
++ [mui / mui-x](https://github.com/mui/mui-x)
+
++ [ethereum-lists / chains](https://github.com/ethereum-lists/chains)
+
++ [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+
