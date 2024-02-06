@@ -41,3 +41,7 @@
 
 + [隐私保护那些事](https://www.freebuf.com/consult/390976.html)
 
++ [FreeBuf早报 | 欧盟27国一致支持人工智能法案；AnyDesk登录凭证已在暗网上出售](https://www.freebuf.com/news/391568.html)
+
++ [网络钓鱼即服务平台 Greatness 使用量激增](https://www.freebuf.com/articles/network/390927.html)
+

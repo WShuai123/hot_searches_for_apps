@@ -27,3 +27,15 @@
 
 + [iPhone 被磨成粉末的瞬间太丝滑了，强迫症看了极度舒适](https://m.ithome.com/html/749030.htm)
 
++ [华为申请鸿蒙星河、HarmonyOS NEXT 商标，新系统有望 Q4 商用](https://m.ithome.com/html/749046.htm)
+
++ [消息称华为正研发“三折叠屏手机”，最快二季度上市](https://m.ithome.com/html/749091.htm)
+
++ [消息称一加骁龙 8 Gen 4 新机有望调整家族式设计](https://m.ithome.com/html/749080.htm)
+
++ [赛力斯超级工厂建成使用：拥有 9000T 压铸机，问界 M9 首批车主开启交付](https://m.ithome.com/html/749114.htm)
+
++ [比亚迪又一款插混新车，海豹 06 完成工信部申报：前脸造型独特](https://m.ithome.com/html/748994.htm)
+
++ [BAT 烧钱败退，上海互联网翻身](https://m.ithome.com/html/749113.htm)
+

@@ -123,3 +123,7 @@
 
 + [异地办公必不可缺的远程控制软件，原理到底是什么?](https://blog.csdn.net/weixin_42794881/article/details/136028147)
 
++ [XAI：探索AI决策透明化的前沿与展望](https://blog.csdn.net/a1657054242/article/details/136048879)
+
++ [ONLYOFFICE：一站式办公，探索高效办公新境界](https://blog.csdn.net/weixin_53072519/article/details/136030078)
+
