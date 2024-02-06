@@ -107,3 +107,21 @@
 
 + [Python爬虫：搭建本地IP池](https://blog.csdn.net/irisMoon06/article/details/136021519)
 
++ [探索Gin框架：Golang Gin框架请求参数的获取](https://blog.csdn.net/qq_35716689/article/details/136056250)
+
++ [【记录】记一次关于前端单元测试的全英文问卷调查（ Survey: Automatically Generated Test Suites for JavaScript）](https://blog.csdn.net/qq_32682301/article/details/131886054)
+
++ [【LangChain-04】利用权重和偏差跟踪和检查LangChain代理的提示](https://blog.csdn.net/gongdiwudu/article/details/136038271)
+
++ [基于深度学习算法的轴承故障自主分类](https://blog.csdn.net/stay23/article/details/136044451)
+
++ [机器学习---概率图模型（隐马尔可夫模型、马尔可夫随机场、条件随机场）](https://blog.csdn.net/weixin_43961909/article/details/136035960)
+
++ [鸿蒙内核框架](https://blog.csdn.net/iamonlyme/article/details/136043914)
+
++ [五、Redis之发布订阅及事务管理](https://blog.csdn.net/qq_65017742/article/details/136047664)
+
++ [ElasticSearch查询语句用法](https://blog.csdn.net/benben044/article/details/136041091)
+
++ [GPT-1, GPT-2, GPT-3, GPT-3.5, GPT-4论文内容解读](https://blog.csdn.net/BGoodHabit/article/details/130134446)
+
