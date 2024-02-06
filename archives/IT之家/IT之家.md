@@ -47,3 +47,5 @@
 
 + [苹果 Vision Pro 头显无法边走边使用，开启旅行模式也不行](https://m.ithome.com/html/749047.htm)
 
++ [京东集团：超 2 万名京东一线客服员工平均薪酬上涨超过 30%](https://m.ithome.com/html/749052.htm)
+

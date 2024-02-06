@@ -53,3 +53,5 @@
 
 + [全网最详细的Struts2-066漏洞分析（CVE-2023-50164）](https://www.freebuf.com/vuls/390624.html)
 
++ [微软 Outlook 更新补丁触发 ICS 安全警报](https://www.freebuf.com/news/391656.html)
+

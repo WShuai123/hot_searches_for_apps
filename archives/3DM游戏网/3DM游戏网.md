@@ -195,3 +195,17 @@
 
 + [微软又弹广告提醒Win10用户：新系统免费好用速度快](https://www.3dmgame.com/news/202402/3887868.html)
 
++ [索尼数据显示：2023年多人游戏热度远超单人游戏](https://www.3dmgame.com/news/202402/3887875.html)
+
++ [上线5天 《寂静岭：短讯》下载量已突破100万](https://www.3dmgame.com/news/202402/3887873.html)
+
++ [类8号出口恶搞新作《坤号出口》登陆Steam平台 已获特别好评](https://www.3dmgame.com/news/202402/3887874.html)
+
++ [特别通知：2024农历新年特卖 明日正式开启](https://www.3dmgame.com/news/202402/3887872.html)
+
++ [神隐少女《岚与山之彼端》Steam新品节试玩现已开启](https://www.3dmgame.com/news/202402/3887871.html)
+
++ [模拟恋爱的全动态真人互动影像作品《请做coser的主人》Steam页面上线 2月发售](https://www.3dmgame.com/news/202402/3887870.html)
+
++ [《黄石》衍生剧可能由马修·麦康纳和米歇尔·菲佛主演](https://www.3dmgame.com/news/202402/3887869.html)
+
