@@ -105,3 +105,11 @@
 
 + [传闻：任天堂直面会将于2月12日至15日举行](https://www.3dmgame.com/news/202402/3887912.html)
 
++ [《龙骑士传说》非官方PC移植版推出 支持4K/60fps](https://www.3dmgame.com/news/202402/3887917.html)
+
++ [DF发布视频 RTX4080S比索尼PS5快3倍](https://www.3dmgame.com/news/202402/3887916.html)
+
++ [二战回合制战术游戏《绝密：法国 ‘44年》3/5发行](https://www.3dmgame.com/news/202402/3887915.html)
+
++ [《夜莺传说》EA版发行日期提前至2月20日](https://www.3dmgame.com/news/202402/3887914.html)
+
