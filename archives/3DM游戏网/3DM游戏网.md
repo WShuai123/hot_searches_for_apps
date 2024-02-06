@@ -271,3 +271,7 @@
 
 + [减少外包！SE将更多高知名度游戏留在内部开发](https://www.3dmgame.com/news/202402/3887905.html)
 
++ [三星990 EVO SSD开售 最大2TB、首发价1179元](https://www.3dmgame.com/news/202402/3887908.html)
+
++ [传闻：《女神异闻录》2和4重制版正在开发中](https://www.3dmgame.com/news/202402/3887907.html)
+

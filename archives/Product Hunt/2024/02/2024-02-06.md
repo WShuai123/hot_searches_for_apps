@@ -175,3 +175,5 @@
 
 + [GiGFi](https://www.producthunt.com/posts/gigfi)
 
++ [SHOOZ](https://www.producthunt.com/posts/shooz)
+
