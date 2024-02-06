@@ -23,3 +23,5 @@
 
 + [Muse Dash 喵斯快跑](https://www.taptap.cn/app/60809)
 
++ [冒险寻宝然后打败魔王](https://www.taptap.cn/app/235508)
+

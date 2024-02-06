@@ -209,3 +209,5 @@
 
 + [《黄石》衍生剧可能由马修·麦康纳和米歇尔·菲佛主演](https://www.3dmgame.com/news/202402/3887869.html)
 
++ [Intel 18A工艺拿下大单 代工64核心Arm处理器](https://www.3dmgame.com/news/202402/3887876.html)
+

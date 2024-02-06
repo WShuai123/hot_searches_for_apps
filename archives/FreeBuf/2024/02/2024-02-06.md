@@ -55,3 +55,7 @@
 
 + [微软 Outlook 更新补丁触发 ICS 安全警报](https://www.freebuf.com/news/391656.html)
 
++ [Aladdin：一款功能强大的.NET Payload反序列化和内存执行工具](https://www.freebuf.com/sectool/389616.html)
+
++ [英国正推动《调查权力法案》更新，涉及大规模收集用户数据](https://www.freebuf.com/news/391658.html)
+

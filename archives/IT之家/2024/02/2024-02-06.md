@@ -49,3 +49,5 @@
 
 + [京东集团：超 2 万名京东一线客服员工平均薪酬上涨超过 30%](https://m.ithome.com/html/749052.htm)
 
++ [诞生 25 年之际，腾讯 QQ 披露企鹅 LOGO 设计细节：非 QQ 团队主导，设计师叫“桩子”](https://m.ithome.com/html/749221.htm)
+

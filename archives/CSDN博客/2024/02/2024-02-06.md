@@ -149,3 +149,9 @@
 
 + [Flutter 网络请求之Dio库](https://blog.csdn.net/qq_38436214/article/details/135748321)
 
++ [机器学习 | 探索朴素贝叶斯算法的应用](https://blog.csdn.net/qq_53123067/article/details/136044063)
+
++ [NLP中的嵌入和距离度量](https://blog.csdn.net/m0_46510245/article/details/136051940)
+
++ [YOLO-World——超级轻量级开放词汇目标检测方法](https://blog.csdn.net/matt45m/article/details/136034490)
+
