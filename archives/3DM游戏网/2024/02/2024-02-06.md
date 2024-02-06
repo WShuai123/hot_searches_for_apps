@@ -275,3 +275,5 @@
 
 + [传闻：《女神异闻录》2和4重制版正在开发中](https://www.3dmgame.com/news/202402/3887907.html)
 
++ [XGP二月新增游戏阵容 《生化危机3：重制版》等](https://www.3dmgame.com/news/202402/3887909.html)
+

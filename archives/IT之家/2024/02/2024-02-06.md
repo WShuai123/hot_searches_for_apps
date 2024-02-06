@@ -77,3 +77,5 @@
 
 + [顺丰、永辉宣布合作：买完东西就能寄回老家，覆盖全国 700 余家永辉超市](https://m.ithome.com/html/749133.htm)
 
++ [倒在苹果 Vision Pro 头显发售前夜的微软 Hololens，引发我们怀念](https://m.ithome.com/html/749230.htm)
+
