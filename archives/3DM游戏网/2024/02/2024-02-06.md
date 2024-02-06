@@ -137,3 +137,29 @@
 
 + [《Roblox》增加了即时文本翻译 计划未来使用人工智能翻译语音](https://www.3dmgame.com/news/202402/3887834.html)
 
++ [《Apex 英雄》“突破”赛季发布正式推出预告片 2月13日开启](https://www.3dmgame.com/news/202402/3887852.html)
+
++ [音游《对量：节奏银河》2月8日登陆PS4、XB1和NS](https://www.3dmgame.com/news/202402/3887851.html)
+
++ [《古墓丽影三部曲：重制版》新截图 劳拉更迷人了](https://www.3dmgame.com/news/202402/3887850.html)
+
++ [尼尔谈《美末2》浪漫元素：感到不舒服 但联合编剧极力推动](https://www.3dmgame.com/news/202402/3887849.html)
+
++ [手搓夜之城！赛朋城市建造《Dystopika》推出试玩](https://www.3dmgame.com/news/202402/3887848.html)
+
++ [Switch即将成为日本最畅销游戏机 还差100万销量](https://www.3dmgame.com/news/202402/3887847.html)
+
++ [漫威电影《惊奇队长2》已在全平台网播上线](https://www.3dmgame.com/news/202402/3887845.html)
+
++ [《最终幻想7：永恒危机》爱丽丝新服装 粉色礼裙诱人](https://www.3dmgame.com/news/202402/3887844.html)
+
++ [《龙之信条2》职业与追随者篇 3月22日正式发售](https://www.3dmgame.com/news/202402/3887843.html)
+
++ [Crop Circle Games发生裁员 叙事沙盒游戏暂停开发](https://www.3dmgame.com/news/202402/3887842.html)
+
++ [赛博朋克风格平台游戏《伊甸园 创世纪》推出试玩Demo](https://www.3dmgame.com/news/202402/3887841.html)
+
++ [《最终幻想7重生》Demo预告泄露 明天就能玩！](https://www.3dmgame.com/news/202402/3887840.html)
+
++ [外媒报道 《战争机器》也正在考虑于PlayStation平台上推出](https://www.3dmgame.com/news/202402/3887846.html)
+

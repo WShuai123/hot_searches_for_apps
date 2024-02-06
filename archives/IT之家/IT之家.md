@@ -39,3 +39,5 @@
 
 + [BAT 烧钱败退，上海互联网翻身](https://m.ithome.com/html/749113.htm)
 
++ [消息称比亚迪秦 L 车型 12 万元左右，NEDC 油耗约 2.9L](https://m.ithome.com/html/749154.htm)
+
