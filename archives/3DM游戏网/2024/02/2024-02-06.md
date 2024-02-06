@@ -125,3 +125,15 @@
 
 + [《午夜杀生 重制版》发布多人预告确定全平台](https://www.3dmgame.com/news/202402/3887828.html)
 
++ [《星刃》制作人：PS5能提供最优质的游戏体验！](https://www.3dmgame.com/news/202402/3887839.html)
+
++ [新《侏罗纪世界》宣布定档 7月2日北美上映](https://www.3dmgame.com/news/202402/3887838.html)
+
++ [《塞尔达：王国之泪》成日本2023年最畅销实体游戏 售出190万](https://www.3dmgame.com/news/202402/3887837.html)
+
++ [《兄弟：双子传说重制版》对比预告 2月28日发售](https://www.3dmgame.com/news/202402/3887835.html)
+
++ [《绝地潜兵2》全球解锁时间公布 2月8日下午开玩](https://www.3dmgame.com/news/202402/3887836.html)
+
++ [《Roblox》增加了即时文本翻译 计划未来使用人工智能翻译语音](https://www.3dmgame.com/news/202402/3887834.html)
+
