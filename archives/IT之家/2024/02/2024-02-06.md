@@ -51,3 +51,9 @@
 
 + [诞生 25 年之际，腾讯 QQ 披露企鹅 LOGO 设计细节：非 QQ 团队主导，设计师叫“桩子”](https://m.ithome.com/html/749221.htm)
 
++ [高通确认新版微软 Windows 具有大量 AI 功能，将于“2024 年中期”推出](https://m.ithome.com/html/749105.htm)
+
++ [长安 UNI-Z 官图公布：搭载全新混动系统，定位紧凑型 SUV 车型](https://m.ithome.com/html/749155.htm)
+
++ [微软再次全屏弹窗轰炸 Win10 用户，提醒其升级 Win11](https://m.ithome.com/html/749196.htm)
+

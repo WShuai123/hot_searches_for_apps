@@ -211,3 +211,19 @@
 
 + [Intel 18A工艺拿下大单 代工64核心Arm处理器](https://www.3dmgame.com/news/202402/3887876.html)
 
++ [搞怪冒险生活模拟《老家奇妙日记》 Steam新品节公开试玩](https://www.3dmgame.com/news/202402/3887884.html)
+
++ [网飞热门剧集《暗夜情报员》第二季拍摄现已开始](https://www.3dmgame.com/news/202402/3887883.html)
+
++ [路透社称腾讯正在开发《艾尔登法环》移动版 免费游玩包含内购](https://www.3dmgame.com/news/202402/3887882.html)
+
++ [全新《侏罗纪世界》电影定档2025年上映！斯皮尔伯格参与制作](https://www.3dmgame.com/news/202402/3887881.html)
+
++ [任天堂新财报发布 Switch销量达1亿3936万台](https://www.3dmgame.com/news/202402/3887880.html)
+
++ [《崩坏：星穹铁道》走近星穹——「黑天鹅：命运啊，你往何处去？」](https://www.3dmgame.com/news/202402/3887879.html)
+
++ [《自杀小队：消灭正义联盟》BUG对话泄露未来新角色](https://www.3dmgame.com/news/202402/3887878.html)
+
++ [《怪物猎人》将与PUMA合作推出20周年纪念系列联动产品](https://www.3dmgame.com/news/202402/3887877.html)
+

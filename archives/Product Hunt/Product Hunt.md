@@ -103,3 +103,15 @@
 
 + [AI-powered shopping assistant By Algomo](https://www.producthunt.com/posts/ai-powered-shopping-assistant-by-algomo)
 
++ [5 Why Problem Solver](https://www.producthunt.com/posts/5-why-problem-solver)
+
++ [Fantastical for Apple Vision Pro](https://www.producthunt.com/posts/fantastical-for-apple-vision-pro)
+
++ [Learning Loop](https://www.producthunt.com/posts/learning-loop)
+
++ [Rupert](https://www.producthunt.com/posts/rupert-2)
+
++ [MarketingIdeas.com](https://www.producthunt.com/posts/marketingideas-com)
+
++ [Repurpose Pie](https://www.producthunt.com/posts/repurpose-pie)
+
