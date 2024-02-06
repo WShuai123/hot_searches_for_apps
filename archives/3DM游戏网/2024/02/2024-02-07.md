@@ -113,3 +113,7 @@
 
 + [《夜莺传说》EA版发行日期提前至2月20日](https://www.3dmgame.com/news/202402/3887914.html)
 
++ [体验海盗冒险 育碧公布《碧海黑帆》发售宣传片](https://www.3dmgame.com/news/202402/3887919.html)
+
++ [索尼PS5系统固件升级 提升手柄等方面功能](https://www.3dmgame.com/news/202402/3887918.html)
+

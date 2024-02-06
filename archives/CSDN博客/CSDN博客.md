@@ -125,3 +125,5 @@
 
 + [GPT-1, GPT-2, GPT-3, GPT-3.5, GPT-4论文内容解读](https://blog.csdn.net/BGoodHabit/article/details/130134446)
 
++ [基于Python爬虫湖南长沙酒店数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/135958511)
+
