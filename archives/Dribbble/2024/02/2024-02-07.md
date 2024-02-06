@@ -49,3 +49,17 @@
 
 + [Sssssstrike](https://dribbble.com/shots/)
 
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [MEISENPRESS Halftone Processing Kit](https://dribbble.com/shots/)
+
++ [Big Bag of Money](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+
++ [Oakwood - Online Tutors](https://dribbble.com/shots/)
+
++ [Consume-O-tron](https://dribbble.com/shots/)
+
