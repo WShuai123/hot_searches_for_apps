@@ -41,3 +41,9 @@
 
 + [消息称比亚迪秦 L 车型 12 万元左右，NEDC 油耗约 2.9L](https://m.ithome.com/html/749154.htm)
 
++ [美媒曝特斯拉董事被迫与马斯克一起吸毒，后者回应](https://m.ithome.com/html/749037.htm)
+
++ [搜索引擎 Yandex 荷兰母公司宣布以 4750 亿卢布出售俄罗斯资产，现金款项将以离岸人民币支付](https://m.ithome.com/html/749096.htm)
+
++ [苹果 Vision Pro 头显无法边走边使用，开启旅行模式也不行](https://m.ithome.com/html/749047.htm)
+

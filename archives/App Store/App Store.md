@@ -209,3 +209,5 @@
 
 + [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
 
++ [一甜相机 -超人气风格自拍](https://itunes.apple.com/cn/app/id1415653267?mt=8)
+

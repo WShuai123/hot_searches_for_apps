@@ -139,3 +139,7 @@
 
 + [如何使用宝塔面板搭建MySQL 5.5数据库并实现公网远程连接](https://blog.csdn.net/w2915w/article/details/136041910)
 
++ [基于微信小程序有声读物系统设计与实现(PHP后台)可行性分析](https://blog.csdn.net/u013818205/article/details/135962083)
+
++ [Java实现婚恋交友网站 JAVA+Vue+SpringBoot+MySQL](https://blog.csdn.net/customer08/article/details/136023919)
+

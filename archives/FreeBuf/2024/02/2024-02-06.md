@@ -51,3 +51,5 @@
 
 + [最新的 Ivanti SSRF 零日漏洞正在被大规模利用](https://www.freebuf.com/news/391652.html)
 
++ [全网最详细的Struts2-066漏洞分析（CVE-2023-50164）](https://www.freebuf.com/vuls/390624.html)
+
