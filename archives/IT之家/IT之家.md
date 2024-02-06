@@ -57,3 +57,5 @@
 
 + [微软再次全屏弹窗轰炸 Win10 用户，提醒其升级 Win11](https://m.ithome.com/html/749196.htm)
 
++ [华为 2023 年分红方案曝光：豪掷 770 亿元，至少惠及 14 万员工](https://m.ithome.com/html/749254.htm)
+

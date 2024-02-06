@@ -59,3 +59,7 @@
 
 + [英国正推动《调查权力法案》更新，涉及大规模收集用户数据](https://www.freebuf.com/news/391658.html)
 
++ [2024，危中育新机——拥抱网络安全行业新质生产力 | FreeBuf咨询洞察](https://www.freebuf.com/consult/391709.html)
+
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+
