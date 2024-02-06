@@ -49,3 +49,5 @@
 
 + [实现阶段 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/security-management/386317.html)
 
++ [最新的 Ivanti SSRF 零日漏洞正在被大规模利用](https://www.freebuf.com/news/391652.html)
+

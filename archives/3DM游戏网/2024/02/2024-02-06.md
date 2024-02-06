@@ -163,3 +163,33 @@
 
 + [外媒报道 《战争机器》也正在考虑于PlayStation平台上推出](https://www.3dmgame.com/news/202402/3887846.html)
 
++ [虚幻5恐怖合作FPS《恶魔失眠》新品节推出试玩](https://www.3dmgame.com/news/202402/3887867.html)
+
++ [分析称《龙之信条2》主机不锁30帧 目标为60帧](https://www.3dmgame.com/news/202402/3887866.html)
+
++ [泄密者称《使命召唤》系列可能不会登陆XGP](https://www.3dmgame.com/news/202402/3887865.html)
+
++ [《康费斯凯特》Steam页面上线 Demo现已公布](https://www.3dmgame.com/news/202402/3887864.html)
+
++ [《女神异闻录3 Reload》UI受玩家盛赞：最酷JRPG菜单](https://www.3dmgame.com/news/202402/3887863.html)
+
++ [《数字魅影：极限竞赛》序章 2024年第一季度上线](https://www.3dmgame.com/news/202402/3887862.html)
+
++ [菲律宾背景叙事冒险游戏 《Until That》宣布2024年发售](https://www.3dmgame.com/news/202402/3887861.html)
+
++ [詹姆斯-古恩与漫威完全切割 将专注于DC宇宙](https://www.3dmgame.com/news/202402/3887858.html)
+
++ [灭霸演员暗示他的角色会在漫威电影宇宙中回归](https://www.3dmgame.com/news/202402/3887857.html)
+
++ [《上古卷轴5》大型Mod“Lordbound”演示 内容超丰富](https://www.3dmgame.com/news/202402/3887856.html)
+
++ [中国志怪动作肉鸽，国产独游《墨境》携重大更新亮相新品节](https://www.3dmgame.com/news/202402/3887855.html)
+
++ [《王冠之战：黑王子》全新预告 3月8日发售](https://www.3dmgame.com/news/202402/3887854.html)
+
++ [《星刃》提供22种语言9种配音 但日语配音仅在日本推出](https://www.3dmgame.com/news/202402/3887853.html)
+
++ [Xbox港版春节宣传片 马来西亚女星林明祯出演](https://www.3dmgame.com/news/202402/3887860.html)
+
++ [沉浸式模拟教育游戏《植物学庄园》 现已在新品节推出试玩Demo](https://www.3dmgame.com/news/202402/3887859.html)
+
