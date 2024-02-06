@@ -63,3 +63,19 @@
 
 + [Consume-O-tron](https://dribbble.com/shots/)
 
++ [Camp & Go Poster](https://dribbble.com/shots/)
+
++ [???? Little Train (part 1)](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Poindexter Books - Emblem](https://dribbble.com/shots/)
+
++ [No Such Luck](https://dribbble.com/shots/)
+
++ [Philosopher Portraits (Engraving) III](https://dribbble.com/shots/)
+
++ ["Picnic collective" logo and characters](https://dribbble.com/shots/)
+
++ [New Frontiers of Biomedical Engineering](https://dribbble.com/shots/)
+
