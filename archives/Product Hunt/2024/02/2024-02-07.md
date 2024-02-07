@@ -171,3 +171,7 @@
 
 + [enygmah](https://www.producthunt.com/posts/enygmah)
 
++ [Foundersuite](https://www.producthunt.com/posts/foundersuite)
+
++ [R10s: AI Text Summarizer](https://www.producthunt.com/posts/r10s-ai-text-summarizer)
+

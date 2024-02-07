@@ -177,3 +177,9 @@
 
 + [基于Python淘宝水果销售数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/135980683)
 
++ [计算机设计大赛 深度学习+python+opencv实现动物识别 - 图像识别](https://blog.csdn.net/iuerfee/article/details/136059697)
+
++ [（黑客攻击）如何通过 5 个步骤阻止 DDoS 攻击](https://blog.csdn.net/weixin_57514792/article/details/136040723)
+
++ [Hadoop-IDEA开发平台搭建](https://blog.csdn.net/Snower_2022/article/details/136038264)
+

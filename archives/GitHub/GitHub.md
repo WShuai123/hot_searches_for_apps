@@ -51,3 +51,37 @@
 
 + [SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 
++ [FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+
++ [zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
+
++ [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome)
+
++ [logseq / logseq](https://github.com/logseq/logseq)
+
++ [thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance)
+
++ [apernet / OpenGFW](https://github.com/apernet/OpenGFW)
+
++ [tauri-apps / tauri](https://github.com/tauri-apps/tauri)
+
++ [netbox-community / netbox](https://github.com/netbox-community/netbox)
+
++ [atopile / atopile](https://github.com/atopile/atopile)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [FuelLabs / sway](https://github.com/FuelLabs/sway)
+
++ [ansible / ansible](https://github.com/ansible/ansible)
+
++ [backstage / backstage](https://github.com/backstage/backstage)
+
++ [reqable / re-editor](https://github.com/reqable/re-editor)
+
++ [grpc / grpc](https://github.com/grpc/grpc)
+
++ [divyam234 / teldrive](https://github.com/divyam234/teldrive)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
