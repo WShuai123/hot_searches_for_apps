@@ -75,3 +75,7 @@
 
 + [【东方】トゥイー・ボックスの人形劇場【魔爱组 私服Ver. MMD】](http://www.acfun.cn/v/ac43712944)
 
++ [VUP（下）2024新春祝福【游龙戏珠·鸢飞FUN舞】](http://www.acfun.cn/v/ac43612849)
+
++ [地下艺之八木沼悟志的绝秘混音带](http://www.acfun.cn/v/ac43716989)
+

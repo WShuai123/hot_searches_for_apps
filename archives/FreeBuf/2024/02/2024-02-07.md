@@ -49,3 +49,5 @@
 
 + [Linux基金会、AWS、思科、IBM等巨头成立后量子密码学联盟](https://www.freebuf.com/news/391747.html)
 
++ [谷歌支付3.5亿美元就多年前的数据泄露达成和解](https://www.freebuf.com/news/391752.html)
+

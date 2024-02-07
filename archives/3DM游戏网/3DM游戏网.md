@@ -175,3 +175,23 @@
 
 + [假面骑士IP手游《Ride Kamens》公布 上线时间待定](https://www.3dmgame.com/news/202402/3887943.html)
 
++ [《绝密：法国‘44年》预购开启 3月6日正式发售](https://www.3dmgame.com/news/202402/3887958.html)
+
++ [可爱休闲经营《水豚咖啡厅》Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202402/3887957.html)
+
++ [传闻：下一代Xbox有望2026年发布 包含掌机和主机](https://www.3dmgame.com/news/202402/3887955.html)
+
++ [快节奏射击游戏《太空熊》现已推出试玩Demo 3月23日正式推出](https://www.3dmgame.com/news/202402/3887956.html)
+
++ [复古像素RPG《星之海》steam好评率88%，游戏后续将迎来中文本地化重置！](https://www.3dmgame.com/news/202402/3887954.html)
+
++ [国产好评佳作《学园构想家》春节大更新 Steam史低!](https://www.3dmgame.com/news/202402/3887953.html)
+
++ [《光环》真人剧演员：直接看第二季也完全没关系](https://www.3dmgame.com/news/202402/3887952.html)
+
++ [《星刃》总监确认女主体模是申在恩：她的身材太完美](https://www.3dmgame.com/news/202402/3887951.html)
+
++ [模拟经营游戏《糖果店模拟器》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3887950.html)
+
++ [科乐美透露 正在为《游戏王》系列开发全新的AI技术](https://www.3dmgame.com/news/202402/3887949.html)
+
