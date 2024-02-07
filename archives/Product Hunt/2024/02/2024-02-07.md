@@ -175,3 +175,5 @@
 
 + [R10s: AI Text Summarizer](https://www.producthunt.com/posts/r10s-ai-text-summarizer)
 
++ [CodeDesign.AI for WordPress](https://www.producthunt.com/posts/codedesign-ai-for-wordpress)
+

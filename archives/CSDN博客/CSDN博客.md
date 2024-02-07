@@ -185,3 +185,7 @@
 
 + [机器学习 | 揭示EM算法和马尔可夫链的实际应用](https://blog.csdn.net/qq_53123067/article/details/136070030)
 
++ [华为C&C++语言编程规范--笔记](https://blog.csdn.net/yaoming168/article/details/136063619)
+
++ [Elasticsearch（三）](https://blog.csdn.net/keleID/article/details/136054039)
+

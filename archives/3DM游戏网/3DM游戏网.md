@@ -275,3 +275,7 @@
 
 + [任天堂社长：将对任何侵权的人采取适当行动](https://www.3dmgame.com/news/202402/3887996.html)
 
++ [赛博朋克RPG《霓虹之血》预告 掀起一场改变世界的革命](https://www.3dmgame.com/news/202402/3888000.html)
+
++ [马斯克资助《曼达洛人》女星告迪士尼](https://www.3dmgame.com/news/202402/3887999.html)
+

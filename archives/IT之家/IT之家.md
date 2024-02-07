@@ -65,3 +65,7 @@
 
 + [IT之家 iOS / 安卓版 8.85 更新：适配 Vision Pro 及其小尾巴、安卓分屏支持](https://m.ithome.com/html/749446.htm)
 
++ [原抖音集团 CEO 张楠内部信曝光：剪映潜力大，不全力试一次会遗憾](https://m.ithome.com/html/749472.htm)
+
++ [高达 98％，中国不进口钴真的没办法](https://m.ithome.com/html/749504.htm)
+
