@@ -57,3 +57,7 @@
 
 + [2023年华为关注的10个最具“格调”的漏洞](https://www.freebuf.com/news/391758.html)
 
++ [NetProbe：一款功能强大的网络设备扫描与探测工具](https://www.freebuf.com/sectool/389618.html)
+
++ [法国医疗服务公司遭遇攻击，2000万被保人信息面临安全风险](https://www.freebuf.com/news/391763.html)
+
