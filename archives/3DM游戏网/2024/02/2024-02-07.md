@@ -117,3 +117,9 @@
 
 + [索尼PS5系统固件升级 提升手柄等方面功能](https://www.3dmgame.com/news/202402/3887918.html)
 
++ [CDPR为《赛博朋克2077》续作招揽顶尖开发人员](https://www.3dmgame.com/news/202402/3887922.html)
+
++ [3月8日上市《WWE 2K24》发布全新预告片](https://www.3dmgame.com/news/202402/3887921.html)
+
++ [《狩猎之道》新DLC玛塔里基公园解锁新西兰美景](https://www.3dmgame.com/news/202402/3887920.html)
+

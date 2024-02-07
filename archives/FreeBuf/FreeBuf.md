@@ -41,3 +41,7 @@
 
 + [国家标准《信息安全技术 云计算服务安全能力评估方法》征求意见稿发布](https://www.freebuf.com/news/391492.html)
 
++ [FreeBuf早报 | 香港最大AI诈骗案；针对Ivanti SSRF漏洞的攻击数量激增](https://www.freebuf.com/news/391677.html)
+
++ [2023 年教育行业勒索软件激增 92%](https://www.freebuf.com/articles/network/390823.html)
+

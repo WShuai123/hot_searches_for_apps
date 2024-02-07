@@ -201,3 +201,15 @@
 
 + [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
 
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
