@@ -141,3 +141,29 @@
 
 + [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)
 
++ [Galileo AI](https://www.producthunt.com/posts/galileo-ai-2)
+
++ [Techy Domains](https://www.producthunt.com/posts/techy-domains)
+
++ [Squidler.io](https://www.producthunt.com/posts/squidler-io)
+
++ [Gainium](https://www.producthunt.com/posts/gainium)
+
++ [Underpay: Price Drop Alerts](https://www.producthunt.com/posts/underpay-price-drop-alerts)
+
++ [WP Copy Defender - WordPress Plugin](https://www.producthunt.com/posts/wp-copy-defender-wordpress-plugin)
+
++ [Movie Me!](https://www.producthunt.com/posts/movie-me)
+
++ [Works](https://www.producthunt.com/posts/works)
+
++ [High-converting websites for only $2,999](https://www.producthunt.com/posts/high-converting-websites-for-only-2-999)
+
++ [EasyReview](https://www.producthunt.com/posts/easyreview)
+
++ [Chunk](https://www.producthunt.com/posts/chunk)
+
++ [Public Holiday app for Slack](https://www.producthunt.com/posts/public-holiday-app-for-slack)
+
++ [Agent Gold AI](https://www.producthunt.com/posts/agent-gold-ai)
+

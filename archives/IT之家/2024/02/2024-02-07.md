@@ -53,3 +53,5 @@
 
 + [华为余承东出席，央视新闻客户端宣布启动鸿蒙原生应用开发](https://m.ithome.com/html/749447.htm)
 
++ [AI 破译 2000 年前「上古卷轴」登 Nature 头版！21 岁计算机天才，谷歌华人工程师共获大奖](https://m.ithome.com/html/749348.htm)
+
