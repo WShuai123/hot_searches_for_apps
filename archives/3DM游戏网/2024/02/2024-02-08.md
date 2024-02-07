@@ -101,3 +101,5 @@
 
 + [科乐美透露 正在为《游戏王》系列开发全新的AI技术](https://www.3dmgame.com/news/202402/3887949.html)
 
++ [《泡沫明星》目前已正式发售 PS+免费领取](https://www.3dmgame.com/news/202402/3888003.html)
+

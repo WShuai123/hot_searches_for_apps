@@ -67,3 +67,5 @@
 
 + [【猪肝来也】d4 文昌的天蓝蓝海蓝蓝 『DRIVETO海南』](http://www.acfun.cn/v/ac43717563)
 
++ [与泰坦蚺同行的“海龙王”： 古杯蛇的新传奇](http://www.acfun.cn/v/ac43723103)
+
