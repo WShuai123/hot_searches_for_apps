@@ -101,3 +101,17 @@
 
 + [Dorik AI (Beta)](https://www.producthunt.com/posts/dorik-ai-beta)
 
++ [Session Replay by Amplitude](https://www.producthunt.com/posts/session-replay-by-amplitude)
+
++ [AgentHub](https://www.producthunt.com/posts/agenthub)
+
++ [Bluesky](https://www.producthunt.com/posts/bluesky-3)
+
++ [Figma to Shopify with Instant](https://www.producthunt.com/posts/figma-to-shopify-with-instant)
+
++ [Screen Grab](https://www.producthunt.com/posts/screen-grab)
+
++ [Peliqan](https://www.producthunt.com/posts/peliqan-2)
+
++ [Linga](https://www.producthunt.com/posts/linga)
+

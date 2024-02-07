@@ -225,3 +225,7 @@
 
 + [格斗游戏大赛EVO 2024游戏阵容公布：《铁拳8》等](https://www.3dmgame.com/news/202402/3887963.html)
 
++ [Windows 12没了！微软无奈：Win11升级乏力 Win10用户太多了](https://www.3dmgame.com/news/202402/3887975.html)
+
++ [东映联手索尼克设计者 英文CG动画电影《超银河》宣布](https://www.3dmgame.com/news/202402/3887974.html)
+

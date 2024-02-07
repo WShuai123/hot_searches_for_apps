@@ -215,3 +215,7 @@
 
 + [优酷视频-大唐狄公案全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
 
++ [点众小说-热门全本小说阅读器](https://itunes.apple.com/cn/app/id1645273917?mt=8)
+
++ [超级测量仪](https://itunes.apple.com/cn/app/id6448627389?mt=8)
+

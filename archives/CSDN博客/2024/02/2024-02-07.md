@@ -157,3 +157,9 @@
 
 + [Unix五种I/O模型（阻塞、非阻塞、多路复用、信号驱动、异步）](https://blog.csdn.net/weixin_38597669/article/details/136022419)
 
++ [阿里云服务器centos_7_9_x64位，3台，搭建k8s集群](https://blog.csdn.net/fyihdg/article/details/136058541)
+
++ [【Java】Spring如何扫描自定义的注解？](https://blog.csdn.net/double222222/article/details/136061077)
+
++ [计算机视觉 | OpenCV 实现手势虚拟控制亮度和音量](https://blog.csdn.net/ttrr27/article/details/136023942)
+

@@ -61,3 +61,9 @@
 
 + [法国医疗服务公司遭遇攻击，2000万被保人信息面临安全风险](https://www.freebuf.com/news/391763.html)
 
++ [美国《国家网络劳动力和教育战略》实施情况：让每个美国人都能从事网络安全职业](https://www.freebuf.com/news/391789.html)
+
++ [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
+
++ [2023 年教育行业勒索软件激增70%](https://www.freebuf.com/articles/network/390823.html)
+

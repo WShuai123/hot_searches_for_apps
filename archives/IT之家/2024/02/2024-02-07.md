@@ -45,3 +45,5 @@
 
 + [5800 多名特斯拉散户力挺马斯克，支持 2018 年薪酬计划](https://m.ithome.com/html/749351.htm)
 
++ [硕士学历黄仁勋，现在是院士了](https://m.ithome.com/html/749435.htm)
+
