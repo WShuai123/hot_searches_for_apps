@@ -51,3 +51,5 @@
 
 + [谷歌支付3.5亿美元就多年前的数据泄露达成和解](https://www.freebuf.com/news/391752.html)
 
++ [浅谈js在挖掘CNVD通用漏洞中的思路，附实战案例](https://www.freebuf.com/articles/web/390857.html)
+

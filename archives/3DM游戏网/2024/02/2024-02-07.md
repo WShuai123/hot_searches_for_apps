@@ -195,3 +195,9 @@
 
 + [科乐美透露 正在为《游戏王》系列开发全新的AI技术](https://www.3dmgame.com/news/202402/3887949.html)
 
++ [黄仁勋入选美国工程院院士 以后大家请称“黄院士”！](https://www.3dmgame.com/news/202402/3887961.html)
+
++ [《星刃》总监：被叫“韩国尼尔”很荣幸 是横尾太郎粉丝](https://www.3dmgame.com/news/202402/3887960.html)
+
++ [《怪奇物语》主演认为主角团应该有人死掉剧集才会更好](https://www.3dmgame.com/news/202402/3887959.html)
+
