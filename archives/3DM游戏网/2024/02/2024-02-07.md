@@ -153,3 +153,25 @@
 
 + [《原子之心》DLC2现已推出 本体游戏及季票半价促销](https://www.3dmgame.com/news/202402/3887923.html)
 
++ [冒险游戏《猩红梦魇》Steam页面上线 第二季度发售](https://www.3dmgame.com/news/202402/3887944.html)
+
++ [《李尸朝鲜：血脉》试玩Demo推出 感受韩国固有的美](https://www.3dmgame.com/news/202402/3887945.html)
+
++ [《海扁王》导演新作已悄悄进行拍摄 锤哥加盟](https://www.3dmgame.com/news/202402/3887946.html)
+
++ [PS5游戏《星刃》有望联动手游《妮姬：胜利女神》](https://www.3dmgame.com/news/202402/3887947.html)
+
++ [模拟经营《野生动物救援模拟器》Steam页面上线 明年发售](https://www.3dmgame.com/news/202402/3887948.html)
+
++ [韩国生存恐怖游戏《SAVE》新截图 游船即将沉没速逃生](https://www.3dmgame.com/news/202402/3887938.html)
+
++ [手绘风横版冒险游戏《StellaGale》现已在Steam推出试玩Demo](https://www.3dmgame.com/news/202402/3887939.html)
+
++ [《真人快打1》和平使者将于2月28日上线](https://www.3dmgame.com/news/202402/3887940.html)
+
++ [《最终幻想7：重生》全新截图 画面超唯美让人感动](https://www.3dmgame.com/news/202402/3887941.html)
+
++ [《雾锁王国》发布首个大型补丁 削弱治疗Buff修复漏洞](https://www.3dmgame.com/news/202402/3887942.html)
+
++ [假面骑士IP手游《Ride Kamens》公布 上线时间待定](https://www.3dmgame.com/news/202402/3887943.html)
+

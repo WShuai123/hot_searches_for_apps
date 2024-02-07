@@ -47,3 +47,5 @@
 
 + [波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防御思考](https://www.freebuf.com/articles/network/389914.html)
 
++ [Linux基金会、AWS、思科、IBM等巨头成立后量子密码学联盟](https://www.freebuf.com/news/391747.html)
+

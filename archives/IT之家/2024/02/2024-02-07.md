@@ -35,3 +35,5 @@
 
 + [周鸿祎：360 不会直播带货，会向小米雷军、华为余承东学习](https://m.ithome.com/html/749316.htm)
 
++ [苹果 iPhone 16 标准版相机模组设计再变：垂直排列，凸起呈药丸形状](https://m.ithome.com/html/749357.htm)
+
