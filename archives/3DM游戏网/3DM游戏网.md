@@ -123,3 +123,33 @@
 
 + [《狩猎之道》新DLC玛塔里基公园解锁新西兰美景](https://www.3dmgame.com/news/202402/3887920.html)
 
++ [《远征：泥泞奔驰》金属探测器和雷达 3月5日发售](https://www.3dmgame.com/news/202402/3887937.html)
+
++ [《最终幻想7：重生》性能规格确定：支持4K或者60帧](https://www.3dmgame.com/news/202402/3887929.html)
+
++ [《星刃》主线时长25小时 完美通关要50小时](https://www.3dmgame.com/news/202402/3887935.html)
+
++ [《师父》2周年纪念将公布惊喜内容 或是推出续集](https://www.3dmgame.com/news/202402/3887936.html)
+
++ [《匹诺曹的谎言》X《卧龙苍天陨落》 | 联动新服装武器公开！](https://www.3dmgame.com/news/202402/3887933.html)
+
++ [游戏设计师Laralyn McWilliams去世 享年58岁](https://www.3dmgame.com/news/202402/3887934.html)
+
++ [《夜魔侠：重生》片场照片剧透反派“靶眼”型造型](https://www.3dmgame.com/news/202402/3887932.html)
+
++ [《燕云十六声》新春贺岁宣传片：2024年燕云必上线](https://www.3dmgame.com/news/202402/3887931.html)
+
++ [新机子呢？任天堂2024年主营业务仍然是Switch](https://www.3dmgame.com/news/202402/3887930.html)
+
++ [《地狱潜者2》前情提要预告 2月8日正式发售](https://www.3dmgame.com/news/202402/3887928.html)
+
++ [《最终幻想7：重生》体验版现已免费上线](https://www.3dmgame.com/news/202402/3887925.html)
+
++ [《十字军之王3》第三章季票推出 包含四个DLC更过瘾](https://www.3dmgame.com/news/202402/3887924.html)
+
++ [预防裁员 游戏媒体IGN员工正在成立工会](https://www.3dmgame.com/news/202402/3887927.html)
+
++ [亨利·卡维尔表示参与《战锤》项目是他职业生涯中最荣幸的事情](https://www.3dmgame.com/news/202402/3887926.html)
+
++ [《原子之心》DLC2现已推出 本体游戏及季票半价促销](https://www.3dmgame.com/news/202402/3887923.html)
+

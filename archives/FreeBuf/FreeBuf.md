@@ -45,3 +45,5 @@
 
 + [2023 年教育行业勒索软件激增 92%](https://www.freebuf.com/articles/network/390823.html)
 
++ [波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防御思考](https://www.freebuf.com/articles/network/389914.html)
+
