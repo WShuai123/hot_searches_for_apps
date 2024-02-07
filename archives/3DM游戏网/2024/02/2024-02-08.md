@@ -103,3 +103,11 @@
 
 + [《泡沫明星》目前已正式发售 PS+免费领取](https://www.3dmgame.com/news/202402/3888003.html)
 
++ [砍杀类地牢探索游戏《血仆》面向PC公布](https://www.3dmgame.com/news/202402/3888007.html)
+
++ [格挡盾击 《龙之信条2》新预告片展示战士职业](https://www.3dmgame.com/news/202402/3888006.html)
+
++ [《漫威蜘蛛侠2》新补丁加入New Game+ 3/7上线](https://www.3dmgame.com/news/202402/3888005.html)
+
++ [《星空》新升级已在Steam Beta上线 加入FSR3/Xess](https://www.3dmgame.com/news/202402/3888004.html)
+
