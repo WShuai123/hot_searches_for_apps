@@ -39,3 +39,7 @@
 
 + [雷克萨斯 ES 200 特别限定版车型上市，售价 35.49 万元](https://m.ithome.com/html/749333.htm)
 
++ [小米 14 系列手机 2 月 25 日海外发布，Ultra 版能否亮相成看点](https://m.ithome.com/html/749341.htm)
+
++ [机械革命无界 14 Pro 笔记本降价至 3999 元：AMD R7-7840HS 处理器、16+1T 存储](https://m.ithome.com/html/749283.htm)
+

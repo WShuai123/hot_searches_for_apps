@@ -81,3 +81,7 @@
 
 + [是修女噢…Something【独家】](http://www.acfun.cn/v/ac43717382)
 
++ [初始之音，响彻未来。★手机竖屏1053★](http://www.acfun.cn/v/ac43716331)
+
++ [开挂的打不过充钱的，《生死狙击》为何如此离谱？【中国网游史】](http://www.acfun.cn/v/ac43716691)
+
