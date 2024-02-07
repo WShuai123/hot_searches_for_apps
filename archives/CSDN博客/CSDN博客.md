@@ -163,3 +163,7 @@
 
 + [计算机视觉 | OpenCV 实现手势虚拟控制亮度和音量](https://blog.csdn.net/ttrr27/article/details/136023942)
 
++ [Sentinel 新版本发布，提升配置灵活性以及可观测配套](https://blog.csdn.net/yunqiinsight/article/details/136037120)
+
++ [（2）(2.14) SPL Satellite Telemetry](https://blog.csdn.net/qq_20016593/article/details/135969146)
+

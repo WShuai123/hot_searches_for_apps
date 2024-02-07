@@ -115,3 +115,29 @@
 
 + [Linga](https://www.producthunt.com/posts/linga)
 
++ [Coursnap](https://www.producthunt.com/posts/coursnap)
+
++ [AI Text, PDF Summarizer](https://www.producthunt.com/posts/ai-text-pdf-summarizer)
+
++ [Nx Agents](https://www.producthunt.com/posts/nx-agents)
+
++ [InstaWP Live](https://www.producthunt.com/posts/instawp-live)
+
++ [ImgGen AI](https://www.producthunt.com/posts/imggen-ai)
+
++ [Coze](https://www.producthunt.com/posts/coze)
+
++ [Guide Magnet](https://www.producthunt.com/posts/guide-magnet)
+
++ [Zuko Form Builder](https://www.producthunt.com/posts/zuko-form-builder)
+
++ [SalesQL LinkedIn Email Extractor](https://www.producthunt.com/posts/salesql-linkedin-email-extractor)
+
++ [Trademark Owl](https://www.producthunt.com/posts/trademark-owl)
+
++ [Coefficient for Excel](https://www.producthunt.com/posts/coefficient-for-excel)
+
++ [Axon](https://www.producthunt.com/posts/axon)
+
++ [CodeDesign.AI for your WordPress website](https://www.producthunt.com/posts/codedesign-ai-for-your-wordpress-website)
+

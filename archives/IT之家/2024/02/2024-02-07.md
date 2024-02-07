@@ -47,3 +47,9 @@
 
 + [硕士学历黄仁勋，现在是院士了](https://m.ithome.com/html/749435.htm)
 
++ [小米最亲民系列新机 Redmi A3 将升级屏幕：6.71 英寸，刷新率提至 90Hz](https://m.ithome.com/html/749420.htm)
+
++ [深蓝汽车手机车钥匙上新，新增小米 Redmi K70 / K60 / K50 系列](https://m.ithome.com/html/749323.htm)
+
++ [华为余承东出席，央视新闻客户端宣布启动鸿蒙原生应用开发](https://m.ithome.com/html/749447.htm)
+
