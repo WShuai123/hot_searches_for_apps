@@ -57,3 +57,7 @@
 
 + [真・转发得太阳：腾讯 QQ 推出 25 周年庆生活动，发指定文字送“太阳”挂件](https://m.ithome.com/html/749427.htm)
 
++ [特斯拉中国赠送 30 天 EAP 使用权，部分 Model 3 可半价购买寒冷天气套件](https://m.ithome.com/html/749422.htm)
+
++ [2025 款保时捷 Taycan 发布，续航更长、充电更快、性能更强](https://m.ithome.com/html/749367.htm)
+

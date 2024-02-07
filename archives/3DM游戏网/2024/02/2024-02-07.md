@@ -265,3 +265,7 @@
 
 + [龙年大吉庆开春！万代南梦宫STEAM®新春特卖活动即将开始！](https://www.3dmgame.com/news/202402/3887982.html)
 
++ [《WWE》开发商Visual Concepts奥斯汀被2K裁员](https://www.3dmgame.com/news/202402/3887995.html)
+
++ [OpenAI估值已高达1000亿美元 部分投资者：太贵了](https://www.3dmgame.com/news/202402/3887994.html)
+
