@@ -173,3 +173,7 @@
 
 + [Java实现数据可视化的智慧河南大屏 JAVA+Vue+SpringBoot+MySQL](https://blog.csdn.net/customer08/article/details/136039436)
 
++ [数据分析：当当网书籍数据可视化分析](https://blog.csdn.net/AOAIYI/article/details/136028346)
+
++ [基于Python淘宝水果销售数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/135980683)
+

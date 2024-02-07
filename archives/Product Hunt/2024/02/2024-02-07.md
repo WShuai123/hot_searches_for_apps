@@ -167,3 +167,7 @@
 
 + [Agent Gold AI](https://www.producthunt.com/posts/agent-gold-ai)
 
++ [Offramps.eth - Send USDC to ENS, get USD](https://www.producthunt.com/posts/offramps-eth-send-usdc-to-ens-get-usd)
+
++ [enygmah](https://www.producthunt.com/posts/enygmah)
+

@@ -233,3 +233,35 @@
 
 + [任天堂Switch超越NDS 成为日本销量最高的游戏机](https://www.3dmgame.com/news/202402/3887976.html)
 
++ [在MMO《宝藏世界》中过中国新年迎新春大甩卖！](https://www.3dmgame.com/news/202402/3887990.html)
+
++ [Site-13的大门已向你敞开，《挣脱：十三号站点》全新Demo亮相Steam新品节](https://www.3dmgame.com/news/202402/3887993.html)
+
++ [休闲园艺模拟器《花园生涯：模拟佛系生活》揭晓剧情模式](https://www.3dmgame.com/news/202402/3887992.html)
+
++ [《噩梦初醒》展示新游戏玩法！](https://www.3dmgame.com/news/202402/3887991.html)
+
++ [显卡为啥被老黄越卖越贵：摩尔定律已死在了28nm！](https://www.3dmgame.com/news/202402/3887989.html)
+
++ [iPhone 16外观设计图曝光：重回iPhone X时代](https://www.3dmgame.com/news/202402/3887988.html)
+
++ [KK对战平台《爆战兄弟》新春版本震撼开启 龙族降临勇闯地牢十二宫](https://www.3dmgame.com/news/202402/3887987.html)
+
++ [《完蛋！我被美女包围》DLC新海报 小孩才做选择我全要](https://www.3dmgame.com/news/202402/3887986.html)
+
++ [《碧海黑帆》前总监：没有单人模式才是真正开放世界](https://www.3dmgame.com/news/202402/3887985.html)
+
++ [世嘉喜迎龙年特卖 《如龙7 外传》《女神异闻录5 战略版》等促销中！](https://www.3dmgame.com/news/202402/3887983.html)
+
++ [福特CEO：正开发低成本平台抵御特斯拉和中国电动汽车](https://www.3dmgame.com/news/202402/3887981.html)
+
++ [《星刃》港服PS商店预购开启 定价568港币](https://www.3dmgame.com/news/202402/3887980.html)
+
++ [临时工失误？《破晓传说》或即将加入XGP](https://www.3dmgame.com/news/202402/3887979.html)
+
++ [韩国男子因反战拒服兵役 法院却发现他喜欢玩吃鸡](https://www.3dmgame.com/news/202402/3887978.html)
+
++ [《卧龙：完全版》今日发布 免费试玩现已登陆Steam](https://www.3dmgame.com/news/202402/3887984.html)
+
++ [龙年大吉庆开春！万代南梦宫STEAM®新春特卖活动即将开始！](https://www.3dmgame.com/news/202402/3887982.html)
+
