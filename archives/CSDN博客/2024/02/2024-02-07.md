@@ -183,3 +183,5 @@
 
 + [Hadoop-IDEA开发平台搭建](https://blog.csdn.net/Snower_2022/article/details/136038264)
 
++ [机器学习 | 揭示EM算法和马尔可夫链的实际应用](https://blog.csdn.net/qq_53123067/article/details/136070030)
+

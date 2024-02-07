@@ -269,3 +269,9 @@
 
 + [OpenAI估值已高达1000亿美元 部分投资者：太贵了](https://www.3dmgame.com/news/202402/3887994.html)
 
++ [《城市：天际线2》销量超过100万套 用时3个月](https://www.3dmgame.com/news/202402/3887998.html)
+
++ [CPU出货量超过疫情时的水平 2023 Q4同比增长22%](https://www.3dmgame.com/news/202402/3887997.html)
+
++ [任天堂社长：将对任何侵权的人采取适当行动](https://www.3dmgame.com/news/202402/3887996.html)
+
