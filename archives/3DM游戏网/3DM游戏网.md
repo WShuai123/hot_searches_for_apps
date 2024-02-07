@@ -111,3 +111,7 @@
 
 + [《星空》新升级已在Steam Beta上线 加入FSR3/Xess](https://www.3dmgame.com/news/202402/3888004.html)
 
++ [迪士尼投资Epic15亿美元打造全新游戏和娱乐宇宙](https://www.3dmgame.com/news/202402/3888009.html)
+
++ [《星位继承者》开发商RPG新作《Lost Hellden》公开](https://www.3dmgame.com/news/202402/3888008.html)
+

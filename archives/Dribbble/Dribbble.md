@@ -97,3 +97,9 @@
 
 + [Black Mamba Anti-Poaching Unit](https://dribbble.com/shots/)
 
++ [Misc. icons](https://dribbble.com/shots/)
+
++ [Spurgeon's Playing Cards (Tuckbox)](https://dribbble.com/shots/)
+
++ [Crackers Package Design](https://dribbble.com/shots/)
+
