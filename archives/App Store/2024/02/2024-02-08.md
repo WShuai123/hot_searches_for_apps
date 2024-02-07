@@ -201,3 +201,5 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [乐影 -  AI写真即刻拥有](https://itunes.apple.com/cn/app/id6450032701?mt=8)
+

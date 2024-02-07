@@ -49,3 +49,29 @@
 
 + [Big Bag of Money](https://dribbble.com/shots/)
 
++ [Philosopher Portraits (Engraving) III](https://dribbble.com/shots/)
+
++ [HOT property opportunity ????️????](https://dribbble.com/shots/)
+
++ [AARP Seattle - Robo Calls](https://dribbble.com/shots/)
+
++ [The new opera](https://dribbble.com/shots/)
+
++ [Ode to Farm Logotype](https://dribbble.com/shots/)
+
++ [Pattern play ????☀️](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Loket.design](https://dribbble.com/shots/)
+
++ [Camp & Go Poster](https://dribbble.com/shots/)
+
++ [Summer at the Beach Icons](https://dribbble.com/shots/)
+
++ [New Frontiers of Biomedical Engineering](https://dribbble.com/shots/)
+
++ [Dragon 24](https://dribbble.com/shots/)
+
++ [Landscape](https://dribbble.com/shots/)
+
