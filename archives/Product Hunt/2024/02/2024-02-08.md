@@ -101,3 +101,5 @@
 
 + [CodeDesign.AI for WordPress](https://www.producthunt.com/posts/codedesign-ai-for-wordpress)
 
++ [Foundersuite 2.0](https://www.producthunt.com/posts/foundersuite-2-0)
+
