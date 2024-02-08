@@ -101,3 +101,11 @@
 
 + [Arm发布新的人工智能Cortex-M处理器](https://blog.csdn.net/weixin_40345245/article/details/136074288)
 
++ [神经网络与深度学习 Neural Networks and Deep Learning 课程笔记 第一周](https://blog.csdn.net/yijing_jia/article/details/136061202)
+
++ [云计算 - 弹性计算技术全解与实践](https://blog.csdn.net/kfashfasf/article/details/136053813)
+
++ [Incapsula rbzid逆向分析](https://blog.csdn.net/douweie1672/article/details/136069654)
+
++ [[AIGC] 开源流程引擎哪个好，如何选型？](https://blog.csdn.net/qq_45704048/article/details/136073854)
+
