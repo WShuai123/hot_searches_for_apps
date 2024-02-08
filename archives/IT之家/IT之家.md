@@ -47,3 +47,7 @@
 
 + [澳大利亚将立法允许公司员工下班与雇主“断联”，且不受公司处罚](https://m.ithome.com/html/749510.htm)
 
++ [触动网民神经：美国一女子化疗后收到推广火葬邮件](https://m.ithome.com/html/749569.htm)
+
++ [“OPPO 史上最短发布会”宣布明晚除夕夜举行，聚焦手机 AI 功能](https://m.ithome.com/html/749588.htm)
+

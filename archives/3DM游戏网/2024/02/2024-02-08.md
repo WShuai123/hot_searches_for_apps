@@ -181,3 +181,23 @@
 
 + [第三方重制《虚幻争霸：过载》3月7日PS5开启B测](https://www.3dmgame.com/news/202402/3888039.html)
 
++ [宜家进驻OpenAI GPT商店 用AI为客户提供家装建议](https://www.3dmgame.com/news/202402/3888052.html)
+
++ [《崩坏：星穹铁道》动画短片：「太平临新岁」](https://www.3dmgame.com/news/202402/3888051.html)
+
++ [“XGP改名是零售商笔误”推文获斯宾塞点赞](https://www.3dmgame.com/news/202402/3888050.html)
+
++ [NS&PS4《Library Of Ruina》公开游戏实机游玩影片！](https://www.3dmgame.com/news/202402/3888049.html)
+
++ [受 80 年代恐怖电影启发的像素风《橡心镇惊魂记》将于 2 月 27 日发售](https://www.3dmgame.com/news/202402/3888048.html)
+
++ [天网恢恢，RTS《终结者: 黑暗命运 - 反抗》将于2.21发售](https://www.3dmgame.com/news/202402/3888047.html)
+
++ [《背包乱斗》开发者感谢中国玩家！](https://www.3dmgame.com/news/202402/3888046.html)
+
++ [亚克系统亚洲分店，2024春节特别促销活动开始！](https://www.3dmgame.com/news/202402/3888045.html)
+
++ [《满庭芳：宋上繁华》重大更新实装，史低折扣启动！](https://www.3dmgame.com/news/202402/3888044.html)
+
++ [《CS2》更新 添加军备竞赛模式和可定制贴纸位置](https://www.3dmgame.com/news/202402/3888043.html)
+

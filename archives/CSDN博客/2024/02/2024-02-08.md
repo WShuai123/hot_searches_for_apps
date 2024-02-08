@@ -153,3 +153,11 @@
 
 + [【RT-DETR进阶实战】利用RT-DETR进行视频划定区域目标统计计数](https://blog.csdn.net/java1314777/article/details/136075822)
 
++ [SQL在云计算中的新角色：重新定义数据分析](https://blog.csdn.net/qq_32682301/article/details/136076597)
+
++ [C# 实现微信自定义分享](https://blog.csdn.net/michaelline/article/details/136056062)
+
++ [Python进行AI声音克隆的端到端指南](https://blog.csdn.net/m0_46510245/article/details/136077011)
+
++ [Redis 命令大全](https://blog.csdn.net/qqrrjj2011/article/details/136039769)
+
