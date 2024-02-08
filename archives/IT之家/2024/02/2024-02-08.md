@@ -57,3 +57,9 @@
 
 + [蓝宝石 RX 7900 XT 显卡国内已降至 5088 元，海外降至 699 美元](https://m.ithome.com/html/749509.htm)
 
++ [中国的汽车产业，总算熬出头了](https://m.ithome.com/html/749635.htm)
+
++ [realme 欧洲 CEO 展示真我 12 Pro+ 透明版手机](https://m.ithome.com/html/749521.htm)
+
++ [雷克萨斯新 UX 300h 上市，售 26.88 万元起](https://m.ithome.com/html/749617.htm)
+

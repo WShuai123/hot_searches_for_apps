@@ -51,3 +51,29 @@
 
 + [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
 
++ [apple / ml-mgie](https://github.com/apple/ml-mgie)
+
++ [0xacme / ERC404](https://github.com/0xacme/ERC404)
+
++ [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+
++ [deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+
++ [ejoy / vaststars](https://github.com/ejoy/vaststars)
+
++ [Doubiiu / DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter)
+
++ [dymensionxyz / dymension](https://github.com/dymensionxyz/dymension)
+
++ [nodejs / node](https://github.com/nodejs/node)
+
++ [emmett-framework / granian](https://github.com/emmett-framework/granian)
+
++ [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+
++ [run-llama / llama-hub](https://github.com/run-llama/llama-hub)
+
++ [AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World)
+
++ [go-acme / lego](https://github.com/go-acme/lego)
+
