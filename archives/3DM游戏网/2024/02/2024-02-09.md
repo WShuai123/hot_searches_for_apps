@@ -103,3 +103,11 @@
 
 + [Epic喜加一：《心跳文学部Plus》、《失落城堡》免费领](https://www.3dmgame.com/news/202402/3888074.html)
 
++ [《浪人崛起》首集幕后花絮视频展示全新实机玩法](https://www.3dmgame.com/news/202402/3888079.html)
+
++ [新《刺客信条》《星球大战》游戏25年3月前发行](https://www.3dmgame.com/news/202402/3888077.html)
+
++ [《浪人崛起》开发者介绍江户/横滨/京都地区](https://www.3dmgame.com/news/202402/3888078.html)
+
++ [探索解谜游戏《波坦尼庄园》4/9登陆各大平台](https://www.3dmgame.com/news/202402/3888076.html)
+
