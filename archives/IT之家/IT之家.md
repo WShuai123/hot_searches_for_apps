@@ -27,3 +27,7 @@
 
 + [电视剧《三体》将登陆美国 NBC 环球流媒体平台，大年初一全集上线](https://m.ithome.com/html/749458.htm)
 
++ [消息称苹果 iPhone 16 Plus 手机配备 4006mAh 电池，Pro Max 配 4676mAh](https://m.ithome.com/html/749545.htm)
+
++ [华为 Mate 60 / Pro 手机获推鸿蒙 OS 4.0.0.158 版更新：新增 AR 测量功能、支持人像模式云美化等](https://m.ithome.com/html/749532.htm)
+

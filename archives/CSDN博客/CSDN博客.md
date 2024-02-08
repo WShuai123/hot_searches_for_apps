@@ -133,3 +133,5 @@
 
 + [ONLYOFFICE桌面编辑器8.0新特性：PDF表单、RTL支持、Moodle集成、本地界面主题等](https://blog.csdn.net/air__Heaven/article/details/136056265)
 
++ [基于SpringBoot和PostGIS的震中影响范围可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/136073361)
+

@@ -115,3 +115,13 @@
 
 + [《星位继承者》开发商RPG新作《Lost Hellden》公开](https://www.3dmgame.com/news/202402/3888008.html)
 
++ [《家园3》延期至5月14日发售 将使用D加密技术](https://www.3dmgame.com/news/202402/3888014.html)
+
++ [《铁拳》官方视频1分钟带你回顾系列剧情](https://www.3dmgame.com/news/202402/3888012.html)
+
++ [迪士尼宣布《海洋奇缘2》11月27日上映](https://www.3dmgame.com/news/202402/3888013.html)
+
++ [《火箭联盟》与《曼达洛人》开展限时联动](https://www.3dmgame.com/news/202402/3888011.html)
+
++ [微软似乎将为XGP改名 引发玩家猜测](https://www.3dmgame.com/news/202402/3888010.html)
+

@@ -41,3 +41,5 @@
 
 + [实现阶段 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/security-management/386317.html)
 
++ [只勒索64美元，勒索软件新秀（Albabat）闪亮登场](https://www.freebuf.com/articles/network/390928.html)
+
