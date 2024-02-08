@@ -71,3 +71,5 @@
 
 + [『To U』天狼星的心脏/シリウスの心臓【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43713975)
 
++ [【2024AcFun新春庆典】晚会正片纯享【游龙戏珠·鸢飞FUN舞】](http://www.acfun.cn/v/ac43718906)
+
