@@ -225,3 +225,7 @@
 
 + [《绝地潜兵2》Steam在线超5.6万 游戏评价褒贬不一](https://www.3dmgame.com/news/202402/3888065.html)
 
++ [角川集团现已收购《歧路旅人》开发商Acquire](https://www.3dmgame.com/news/202402/3888067.html)
+
++ [2023全球显示器出货量减少7.3% 2024年将恢复增长](https://www.3dmgame.com/news/202402/3888066.html)
+
