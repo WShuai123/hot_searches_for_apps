@@ -101,3 +101,7 @@
 
 + [在隔壁打广告的传奇页游，到底是个什么东西，好不好玩？](http://www.acfun.cn/v/ac43728761)
 
++ [恭！喜！发！财！【AI兔宝】](http://www.acfun.cn/v/ac43730024)
+
++ [摇子摇子](http://www.acfun.cn/v/ac43723349)
+

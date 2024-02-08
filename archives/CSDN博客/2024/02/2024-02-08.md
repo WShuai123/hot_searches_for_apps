@@ -187,3 +187,11 @@
 
 + [关于旅行商问题的学习](https://blog.csdn.net/zsdestiny/article/details/135926882)
 
++ [【人工智能】人工智能 – 引领未来科技的潮流](https://blog.csdn.net/2202_75623950/article/details/136072884)
+
++ [Spring和Spring Boot的区别](https://blog.csdn.net/ms3_ishenglu/article/details/136074797)
+
++ [C#中实现串口通讯和网口通讯（使用SerialPort和Socket类）](https://blog.csdn.net/qq_48515185/article/details/136060837)
+
++ [Hadoop搭建（完全分布式）](https://blog.csdn.net/weixin_61070671/article/details/136072514)
+
