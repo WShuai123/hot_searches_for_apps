@@ -161,3 +161,15 @@
 
 + [Redis 命令大全](https://blog.csdn.net/qqrrjj2011/article/details/136039769)
 
++ [生成树技术&华为ICT网络赛道](https://blog.csdn.net/Williamtym/article/details/136059011)
+
++ [人工智能|推荐系统——基于tensorflow的个性化电影推荐系统实战(有前端)](https://blog.csdn.net/admin_maxin/article/details/136068145)
+
++ [Incapsula rbzid逆向分析](https://blog.csdn.net/douweie1672/article/details/136069654)
+
++ [一般系统的请求认证授权思路【gateway网关+jwt+redis+请求头httpheader】](https://blog.csdn.net/weixin_44826783/article/details/136037429)
+
++ [MacOS系统电脑远程桌面控制windows系统电脑【内网穿透】](https://blog.csdn.net/xz2935117143/article/details/136041961)
+
++ [【大模型上下文长度扩展】MedGPT：解决遗忘 + 永久记忆 + 无限上下文](https://blog.csdn.net/qq_41739364/article/details/136072543)
+

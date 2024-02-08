@@ -201,3 +201,7 @@
 
 + [《CS2》更新 添加军备竞赛模式和可定制贴纸位置](https://www.3dmgame.com/news/202402/3888043.html)
 
++ [《猛兽派对》更新1.5.0版本 特别春节活动上线](https://www.3dmgame.com/news/202402/3888054.html)
+
++ [《最终幻想7：重生》性能和质量模式对比 差异明显](https://www.3dmgame.com/news/202402/3888053.html)
+
