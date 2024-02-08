@@ -55,3 +55,5 @@
 
 + [华为辟谣：网传“任正非最新讲话”内容纯属子虚乌有](https://m.ithome.com/html/749604.htm)
 
++ [蓝宝石 RX 7900 XT 显卡国内已降至 5088 元，海外降至 699 美元](https://m.ithome.com/html/749509.htm)
+
