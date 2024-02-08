@@ -131,3 +131,17 @@
 
 + [【FPGA开发】Modelsim和Vivado的使用](https://blog.csdn.net/weixin_62179882/article/details/136070173)
 
++ [【机器学习】机器学习流程之收集数据](https://blog.csdn.net/m0_74195174/article/details/136067964)
+
++ [Recurrent Neural Network(RNN)|李宏毅](https://blog.csdn.net/m0_61900933/article/details/136074146)
+
++ [中小型网络系统总体规划与设计方法](https://blog.csdn.net/Mjl_2274887336/article/details/136081772)
+
++ [sqli~](https://blog.csdn.net/lihaidexiaotian/article/details/135997030)
+
++ [探秘ONLYOFFICE桌面编辑器v8.0：全新功能引领办公新潮流](https://blog.csdn.net/m0_73475405/article/details/136072463)
+
++ [前端学习 1st](https://blog.csdn.net/A411ASD/article/details/136079434)
+
++ [关于LLaMA Tokenizer的一些坑...](https://blog.csdn.net/raelum/article/details/136080320)
+
