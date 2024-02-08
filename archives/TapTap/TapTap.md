@@ -23,3 +23,5 @@
 
 + [我的世界](https://www.taptap.cn/app/43639)
 
++ [泰拉瑞亚](https://www.taptap.cn/app/194610)
+
