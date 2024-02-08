@@ -171,3 +171,13 @@
 
 + [《龙之信条2》“怪物篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3888027.html)
 
++ [报告称索尼PS3处理器开发成本达17亿美元 导致首发价过高](https://www.3dmgame.com/news/202402/3888040.html)
+
++ [《寂静之地：入侵日》预告公布 6月28日北美上映](https://www.3dmgame.com/news/202402/3888041.html)
+
++ [微软获批新专利：AI提取声纹细腻演绎](https://www.3dmgame.com/news/202402/3888042.html)
+
++ [1000亿美元！印度即将敲定一项史无前例的投资协议](https://www.3dmgame.com/news/202402/3888038.html)
+
++ [第三方重制《虚幻争霸：过载》3月7日PS5开启B测](https://www.3dmgame.com/news/202402/3888039.html)
+

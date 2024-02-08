@@ -79,3 +79,7 @@
 
 + [好久不见，祝大家新年快乐](http://www.acfun.cn/v/ac43724437)
 
++ [ACer群及UP团队 2024新春祝福【游龙戏珠·鸢飞FUN舞】](http://www.acfun.cn/v/ac43612860)
+
++ [以后斗舞的机会越来越少了！](http://www.acfun.cn/v/ac43725248)
+

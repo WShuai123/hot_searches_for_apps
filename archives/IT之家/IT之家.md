@@ -37,3 +37,9 @@
 
 + [酷态科推出 20W USB-C 氮化镓充电头：支持 PD 快充协议，售 19 元](https://m.ithome.com/html/749516.htm)
 
++ [IT之家 iOS / 安卓版 8.85 更新：适配 Vision Pro 及其小尾巴、安卓分屏改进](https://m.ithome.com/html/749446.htm)
+
++ [阿里巴巴高管称将慢慢完成传统实体零售业务退出，“合理但需要时间”](https://m.ithome.com/html/749535.htm)
+
++ [马斯克称苹果 Vision Pro 头显未让自己惊叹：iPhone 到第三代才成“最佳智能手机”](https://m.ithome.com/html/749491.htm)
+
