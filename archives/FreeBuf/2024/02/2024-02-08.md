@@ -57,3 +57,9 @@
 
 + [300万支电动牙刷被用于DDoS攻击？](https://www.freebuf.com/news/391819.html)
 
++ [2024年美国全面推进设计安全部署](https://www.freebuf.com/articles/391825.html)
+
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
++ [用300万支电动牙刷发起DDoS攻击？假的！](https://www.freebuf.com/news/391819.html)
+
