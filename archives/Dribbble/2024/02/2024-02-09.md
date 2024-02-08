@@ -79,3 +79,9 @@
 
 + [Limited Edition Print Pt. IV](https://dribbble.com/shots/)
 
++ [Fashion Logo Collection - Logofolio](https://dribbble.com/shots/)
+
++ [Terror of Demons Double IPA](https://dribbble.com/shots/)
+
++ [Backwoods Rebrand Case Study](https://dribbble.com/shots/)
+
