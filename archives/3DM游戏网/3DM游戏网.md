@@ -125,3 +125,27 @@
 
 + [微软似乎将为XGP改名 引发玩家猜测](https://www.3dmgame.com/news/202402/3888010.html)
 
++ [中东三大游戏市场2023年创收19.2亿美元](https://www.3dmgame.com/news/202402/3888026.html)
+
++ [《卧龙：苍天陨落》开发商目前没计划开发续作](https://www.3dmgame.com/news/202402/3888025.html)
+
++ [业内人士称《血源》重制版在制作中 将在PS6上推出](https://www.3dmgame.com/news/202402/3888024.html)
+
++ [本周Fami通游戏评分出炉 《铁拳8》获得36分](https://www.3dmgame.com/news/202402/3888023.html)
+
++ [《没有被美女包围的三角恋》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202402/3888022.html)
+
++ [Nitro Games获350万欧元融资 今年推出《星际战甲》手机版](https://www.3dmgame.com/news/202402/3888021.html)
+
++ [《守望先锋2》第九赛季预告 有望联动动漫《星际牛仔》](https://www.3dmgame.com/news/202402/3888020.html)
+
++ [《女神异闻录3：Reload》销量超过100万套 发售还不到一周](https://www.3dmgame.com/news/202402/3888019.html)
+
++ [融合纳西族文化的奇幻解谜游戏《东巴》Steam页面上线 2月22日正式发售](https://www.3dmgame.com/news/202402/3888018.html)
+
++ [P社年度财报：全年收入增长34%至2.48亿美元](https://www.3dmgame.com/news/202402/3888017.html)
+
++ [《生化危机》系列Steam国区价格永降 7代99元](https://www.3dmgame.com/news/202402/3888016.html)
+
++ [微软收购动视暴雪后裁员引争议 FTC指责其违背承诺](https://www.3dmgame.com/news/202402/3888015.html)
+

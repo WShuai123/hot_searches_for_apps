@@ -135,3 +135,7 @@
 
 + [基于SpringBoot和PostGIS的震中影响范围可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/136073361)
 
++ [【射影几何13 】梅氏定理和塞瓦定理探讨](https://blog.csdn.net/gongdiwudu/article/details/136064347)
+
++ [[WinForm开源]概率计算器 - Genshin Impact(V1.0)](https://blog.csdn.net/qq_64516527/article/details/136070214)
+

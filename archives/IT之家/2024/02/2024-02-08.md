@@ -31,3 +31,5 @@
 
 + [华为 Mate 60 / Pro 手机获推鸿蒙 OS 4.0.0.158 版更新：新增 AR 测量功能、支持人像模式云美化等](https://m.ithome.com/html/749532.htm)
 
++ [龙芯 3A6000M + 国产独显 + 麒麟系统，神舟信创商用笔记本电脑上架](https://m.ithome.com/html/749505.htm)
+

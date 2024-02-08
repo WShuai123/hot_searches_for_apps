@@ -43,3 +43,11 @@
 
 + [只勒索64美元，勒索软件新秀（Albabat）闪亮登场](https://www.freebuf.com/articles/network/390928.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [企业数据安全之数据分类分级实战](https://www.freebuf.com/articles/es/390828.html)
+
++ [中央网信办、教育部评选，16所高校入选](https://www.freebuf.com/news/391811.html)
+
++ [FreeBuf早报 | 联盟签署间谍软件责任承诺书；法国医疗服务公司Viamedis数据泄露](https://www.freebuf.com/news/391764.html)
+
