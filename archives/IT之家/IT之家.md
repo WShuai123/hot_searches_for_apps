@@ -67,3 +67,9 @@
 
 + [为自证没用 ChatGPT，副教授被迫用 GitHub 写论文｜Nature](https://m.ithome.com/html/749637.htm)
 
++ [苹果欧洲将开放第三方应用商店，iOS 推送提醒强调：App Store 安全、可信赖](https://m.ithome.com/html/749575.htm)
+
++ [消息称微软下代 Xbox 主机 2026 年推出，Surface 团队打造掌机版本](https://m.ithome.com/html/749614.htm)
+
++ [苹果开售翻新版 14 英寸 M3 MacBook Pro，起售价便宜 240 美元](https://m.ithome.com/html/749571.htm)
+

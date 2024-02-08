@@ -233,3 +233,11 @@
 
 + [《东京都市谜案特搜事件簿》将于5月30日发售](https://www.3dmgame.com/news/202402/3888068.html)
 
++ [《循环勇者》4月30日登陆手机端 Steam获特别好评](https://www.3dmgame.com/news/202402/3888073.html)
+
++ [《神笔谈兵》2月22日正式发售 EA版获特别好评](https://www.3dmgame.com/news/202402/3888072.html)
+
++ [Fami通新一周销量榜 《女神异闻录3 Reload》登顶](https://www.3dmgame.com/news/202402/3888071.html)
+
++ [新《异形》电影终于有了正式名字 今年8月上映](https://www.3dmgame.com/news/202402/3888070.html)
+
