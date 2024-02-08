@@ -61,3 +61,11 @@
 
 + [上辈子说，再打麻将就是狗，所以这辈子在这打麻将](http://www.acfun.cn/v/ac43730429)
 
++ [【晚会单品】过新年【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43675462)
+
++ [【晚会单品】我不是猪【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43675649)
+
++ [【晚会单品】破蛹【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43675689)
+
++ [【颜音实况】山河旅探（第一章+第二章+回忆杀插叙）](http://www.acfun.cn/v/ac43728857)
+

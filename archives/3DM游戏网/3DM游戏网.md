@@ -101,3 +101,5 @@
 
 + [本周Fami通游戏评分出炉 《铁拳8》获得36分](https://www.3dmgame.com/news/202402/3888023.html)
 
++ [Epic喜加一：《心跳文学部Plus》、《失落城堡》免费领](https://www.3dmgame.com/news/202402/3888074.html)
+

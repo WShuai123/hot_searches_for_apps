@@ -25,3 +25,5 @@
 
 + [苹果开售翻新版 14 英寸 M3 MacBook Pro，起售价便宜 240 美元](https://m.ithome.com/html/749571.htm)
 
++ [汽车移动“充电宝”来了，中国南方电网上线移动储能充电车](https://m.ithome.com/html/749681.htm)
+

@@ -49,3 +49,27 @@
 
 + [Data never looked so good! Luminate.](https://dribbble.com/shots/)
 
++ [Seven Seas Hotel](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [Credit Card Illustration pt.I](https://dribbble.com/shots/)
+
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
++ [So Weird](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #3](https://dribbble.com/shots/)
+
++ [Case Study: Ammons Poems Website](https://dribbble.com/shots/)
+
++ [Color Lush](https://dribbble.com/shots/)
+
++ [Merch. for Whop.io](https://dribbble.com/shots/)
+
++ [AARP Seattle - Robo Calls](https://dribbble.com/shots/)
+
++ [Let sleeping lions lie ????????‍⬛](https://dribbble.com/shots/)
+
++ [Patterns for restaurants and cafes](https://dribbble.com/shots/)
+
