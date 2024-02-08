@@ -43,3 +43,7 @@
 
 + [马斯克称苹果 Vision Pro 头显未让自己惊叹：iPhone 到第三代才成“最佳智能手机”](https://m.ithome.com/html/749491.htm)
 
++ [消息称苹果正制造可折叠 iPhone 手机：至少两款原型机，处于早期开发阶段](https://m.ithome.com/html/749533.htm)
+
++ [澳大利亚将立法允许公司员工下班与雇主“断联”，且不受公司处罚](https://m.ithome.com/html/749510.htm)
+

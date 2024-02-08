@@ -51,3 +51,5 @@
 
 + [FreeBuf早报 | 联盟签署间谍软件责任承诺书；法国医疗服务公司Viamedis数据泄露](https://www.freebuf.com/news/391764.html)
 
++ [CodeQL从入门到入土](https://www.freebuf.com/articles/web/391242.html)
+

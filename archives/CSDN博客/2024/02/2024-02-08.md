@@ -149,3 +149,7 @@
 
 + [【软件设计师】普及软件知识产权中的著作权保护](https://blog.csdn.net/CSBIGDOG/article/details/136065492)
 
++ [神经网络与深度学习 Neural Networks and Deep Learning 课程笔记 第一周](https://blog.csdn.net/yijing_jia/article/details/136061202)
+
++ [【RT-DETR进阶实战】利用RT-DETR进行视频划定区域目标统计计数](https://blog.csdn.net/java1314777/article/details/136075822)
+
