@@ -229,3 +229,7 @@
 
 + [2023全球显示器出货量减少7.3% 2024年将恢复增长](https://www.3dmgame.com/news/202402/3888066.html)
 
++ [谷歌宣布将AI聊天助手Bard更名为Gemini 推出安卓独立应用](https://www.3dmgame.com/news/202402/3888069.html)
+
++ [《东京都市谜案特搜事件簿》将于5月30日发售](https://www.3dmgame.com/news/202402/3888068.html)
+

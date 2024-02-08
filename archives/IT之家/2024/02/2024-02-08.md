@@ -63,3 +63,7 @@
 
 + [雷克萨斯新 UX 300h 上市，售 26.88 万元起](https://m.ithome.com/html/749617.htm)
 
++ [苹果 Apple Music、TV 和 Devices 应用正式登陆 Windows，终结 iTunes 时代](https://m.ithome.com/html/749549.htm)
+
++ [为自证没用 ChatGPT，副教授被迫用 GitHub 写论文｜Nature](https://m.ithome.com/html/749637.htm)
+
