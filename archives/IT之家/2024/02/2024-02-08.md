@@ -33,3 +33,7 @@
 
 + [龙芯 3A6000M + 国产独显 + 麒麟系统，神舟信创商用笔记本电脑上架](https://m.ithome.com/html/749505.htm)
 
++ [国产电视剧《三体》将登陆美国 NBC 环球流媒体平台，大年初一全集上线](https://m.ithome.com/html/749458.htm)
+
++ [酷态科推出 20W USB-C 氮化镓充电头：支持 PD 快充协议，售 19 元](https://m.ithome.com/html/749516.htm)
+

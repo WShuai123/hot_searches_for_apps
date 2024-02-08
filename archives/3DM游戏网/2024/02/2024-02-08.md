@@ -149,3 +149,25 @@
 
 + [微软收购动视暴雪后裁员引争议 FTC指责其违背承诺](https://www.3dmgame.com/news/202402/3888015.html)
 
++ [腾讯：《英雄联盟》2023年封号超187万个 严打外挂](https://www.3dmgame.com/news/202402/3888036.html)
+
++ [建设游戏《Timber》Steam页面上线 年内发售](https://www.3dmgame.com/news/202402/3888033.html)
+
++ [《使命召唤：现代战争3》免费体验即将开启 截至2月12日](https://www.3dmgame.com/news/202402/3888037.html)
+
++ [万代南梦宫在日本注册新游戏商标：“Rainbow BEAT!”](https://www.3dmgame.com/news/202402/3888035.html)
+
++ [罗布乐思年度财报：收入增长但亏损加深至11.6亿美元](https://www.3dmgame.com/news/202402/3888034.html)
+
++ [迪士尼多部动画电影定档 《曼达洛人》电影2026年上映](https://www.3dmgame.com/news/202402/3888032.html)
+
++ [《最终幻想16》难度设计是为了让所有玩家都能通关](https://www.3dmgame.com/news/202402/3888031.html)
+
++ [生活模拟游戏《Paralives》新实机演示 2025年EA发售](https://www.3dmgame.com/news/202402/3888029.html)
+
++ [2K旗下Visual Concepts奥斯汀工作室再遭裁员](https://www.3dmgame.com/news/202402/3888030.html)
+
++ [《古龙风云录》首个大型更新发布 角色有配音了](https://www.3dmgame.com/news/202402/3888028.html)
+
++ [《龙之信条2》“怪物篇”预告 3月22日发售](https://www.3dmgame.com/news/202402/3888027.html)
+

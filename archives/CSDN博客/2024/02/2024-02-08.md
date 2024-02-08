@@ -139,3 +139,9 @@
 
 + [[WinForm开源]概率计算器 - Genshin Impact(V1.0)](https://blog.csdn.net/qq_64516527/article/details/136070214)
 
++ [Elasticsearch：使用 LangChain 文档拆分器进行文档分块](https://blog.csdn.net/UbuntuTouch/article/details/136068212)
+
++ [java实战：生成会议通知Word文件](https://blog.csdn.net/oandy0/article/details/136062206)
+
++ [【软件设计师笔记】普及软件知识产权中的著作权保护](https://blog.csdn.net/CSBIGDOG/article/details/136065492)
+
