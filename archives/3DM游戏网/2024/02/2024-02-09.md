@@ -111,3 +111,19 @@
 
 + [探索解谜游戏《波坦尼庄园》4/9登陆各大平台](https://www.3dmgame.com/news/202402/3888076.html)
 
++ [CDPR新春拜年视频发布：龙马精神 心想事成](https://www.3dmgame.com/news/202402/3888087.html)
+
++ [曝iPhone SE将使用灵动岛：刘海屏时代彻底终结](https://www.3dmgame.com/news/202402/3888085.html)
+
++ [探索浩瀚星海 《星际公民》免费飞行活动启动](https://www.3dmgame.com/news/202402/3888086.html)
+
++ [T2正在努力大幅削减成本 但目前没有裁员计划](https://www.3dmgame.com/news/202402/3888084.html)
+
++ [吸血鬼主题第一人称合作射击《EvilVEvil》3月封测](https://www.3dmgame.com/news/202402/3888083.html)
+
++ [育碧不再增加对VR投资 《刺客信条》VR表现失望](https://www.3dmgame.com/news/202402/3888082.html)
+
++ [4v4 PvP+E模式启动 《战锤：末世鼠疫2 Versus》封测](https://www.3dmgame.com/news/202402/3888081.html)
+
++ [春节期间扬帆起航！《碧海黑帆》全平台公测开启](https://www.3dmgame.com/news/202402/3888080.html)
+

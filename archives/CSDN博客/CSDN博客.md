@@ -145,3 +145,7 @@
 
 + [关于LLaMA Tokenizer的一些坑...](https://blog.csdn.net/raelum/article/details/136080320)
 
++ [flutter监听app进入前后台状态的实现](https://blog.csdn.net/as425017946/article/details/136068541)
+
++ [智慧自助餐饮系统（SpringBoot+MP+Vue+微信小程序+JNI+ncnn+YOLOX-Nano）](https://blog.csdn.net/ELSA001/article/details/136071296)
+

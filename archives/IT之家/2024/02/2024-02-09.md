@@ -27,3 +27,5 @@
 
 + [汽车移动“充电宝”来了，中国南方电网上线移动储能充电车](https://m.ithome.com/html/749681.htm)
 
++ [2023 手机出货量 TOP10 出炉：安卓群英俱俯首，苹果 iPhone 拥 7 席独占鳌头](https://m.ithome.com/html/749711.htm)
+
