@@ -139,3 +139,5 @@
 
 + [《碧海黑帆》为何70美元？育碧CEO：这是一个4A级游戏](https://www.3dmgame.com/news/202402/3888088.html)
 
++ [《幻兽帕鲁》开发商Pocketpair正在紧急招聘新员工](https://www.3dmgame.com/news/202402/3888094.html)
+

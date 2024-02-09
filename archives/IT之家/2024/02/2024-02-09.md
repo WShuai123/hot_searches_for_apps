@@ -35,3 +35,5 @@
 
 + [首批领克 03+TCR Cyan 车型交付：搭载 2.0T 双增压发动机，42.03 万元](https://m.ithome.com/html/749702.htm)
 
++ [高合汽车回应薪水缓发、高管主动降薪：确有其事](https://m.ithome.com/html/749695.htm)
+

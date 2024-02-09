@@ -149,3 +149,15 @@
 
 + [智慧自助餐饮系统（SpringBoot+MP+Vue+微信小程序+JNI+ncnn+YOLOX-Nano）](https://blog.csdn.net/ELSA001/article/details/136071296)
 
++ [SpringBoot+随机盐值+双重MD5实现加密登录](https://blog.csdn.net/weixin_62951900/article/details/136055214)
+
++ [【附代码】NumPy加速库NumExpr（大数据）](https://blog.csdn.net/ymzhu385/article/details/136073609)
+
++ [【C#】.net core 6.0 设置根目录下某个文件夹可访问，访问创建的图片等资源](https://blog.csdn.net/lmy_520/article/details/136072310)
+
++ [CISA、FBI、EPA 为水系统运营商提供网络安全指南](https://blog.csdn.net/qq_29607687/article/details/136018194)
+
++ [OnlyOffice：释放无限创意，打造高效协作新体验](https://blog.csdn.net/YOU__FEI/article/details/136001145)
+
++ [Linux（三）--文件系统](https://blog.csdn.net/hahaha2221/article/details/136057663)
+

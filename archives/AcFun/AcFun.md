@@ -81,3 +81,7 @@
 
 + [《恭喜发财》](http://www.acfun.cn/v/ac43731023)
 
++ [【2024AcFun新春庆典】Lucky Strike | 鸿运当头 【栗七浔】](http://www.acfun.cn/v/ac43676144)
+
++ [国士无双](http://www.acfun.cn/v/ac43730446)
+
