@@ -55,3 +55,9 @@
 
 + [峰回路转，消息称诺基亚预计将在今年推出超过 17 款机型](https://m.ithome.com/html/749757.htm)
 
++ [华为鸿蒙智行问界 M9 广告打上 2024 央视春晚，OPPO 小米先来一步](https://m.ithome.com/html/749846.htm)
+
++ [消息称华为将推出 Vision 头显：自研芯片、4K Micro-OLED、350 克，定价 15000 元左右](https://m.ithome.com/html/749841.htm)
+
++ [我国今起与新加坡互免签证：普通护照停留不超 30 日、两国游客可用数字人民币旅游消费](https://m.ithome.com/html/749801.htm)
+

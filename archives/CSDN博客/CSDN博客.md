@@ -199,3 +199,5 @@
 
 + [消息中间件：Puslar、Kafka、RabbigMQ、ActiveMQ](https://blog.csdn.net/Kingairy/article/details/136080300)
 
++ [探索设计模式的魅力：揭秘享元模式-轻松实现资源高效利用的秘密武器](https://blog.csdn.net/danci_/article/details/136062846)
+

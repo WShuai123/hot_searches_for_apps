@@ -215,3 +215,7 @@
 
 + [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
 
++ [电视直播TV - 央视卫视大全](https://itunes.apple.com/cn/app/id1436198293?mt=8)
+
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+
