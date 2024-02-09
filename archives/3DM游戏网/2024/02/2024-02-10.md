@@ -105,3 +105,9 @@
 
 + [《荒野大镖客2》销量破6100万套 新增400万套](https://www.3dmgame.com/news/202402/3888130.html)
 
++ [小岛谈决定开发《Physint》“我意识到人终会一死”](https://www.3dmgame.com/news/202402/3888133.html)
+
++ [Certain Affinity工作室将参与开发《EXODUS》](https://www.3dmgame.com/news/202402/3888132.html)
+
++ [机甲少女动作游戏《Dolls Nest》年内推出](https://www.3dmgame.com/news/202402/3888131.html)
+

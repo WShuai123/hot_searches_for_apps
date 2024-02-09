@@ -107,3 +107,17 @@
 
 + [TCP 传输控制协议——详细](https://blog.csdn.net/m0_64621282/article/details/136081494)
 
++ [使用 Elasticsearch 和 OpenAI 构建生成式 AI 应用程序](https://blog.csdn.net/UbuntuTouch/article/details/136085734)
+
++ [基于JAVA+Springboot+Thymeleaf前后端分离项目：在线汽车租赁租车系统设计与实现](https://blog.csdn.net/u013818205/article/details/136042251)
+
++ [redis特点](https://blog.csdn.net/weixin_57763462/article/details/136074741)
+
++ [mtt s80 魔笔马良 ubuntu 20.04 + 微星b450 迫击炮部署](https://blog.csdn.net/feifei912515863/article/details/136079221)
+
++ [Hive数仓](https://blog.csdn.net/wslzoooo/article/details/136083643)
+
++ [GPT-4模型中的token和Tokenization概念介绍](https://blog.csdn.net/xw555666/article/details/135959787)
+
++ [【大模型上下文长度扩展】MedGPT：解决遗忘 + 永久记忆 + 无限上下文](https://blog.csdn.net/qq_41739364/article/details/136072543)
+
