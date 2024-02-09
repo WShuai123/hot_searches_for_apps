@@ -51,3 +51,5 @@
 
 + [实战 JS逆向思路](https://www.freebuf.com/articles/database/391308.html)
 
++ [BestEdrOfTheMarket：一个针对AVEDR绕过的训练学习环境](https://www.freebuf.com/sectool/389628.html)
+
