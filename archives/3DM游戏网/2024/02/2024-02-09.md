@@ -127,3 +127,15 @@
 
 + [春节期间扬帆起航！《碧海黑帆》全平台公测开启](https://www.3dmgame.com/news/202402/3888080.html)
 
++ [AMD RX7700 XT海外大降100美元 性价比碾压RTX4060](https://www.3dmgame.com/news/202402/3888093.html)
+
++ [因匹配等问题《地狱潜者2》Steam发售评价为褒贬不一 开发者承诺修复](https://www.3dmgame.com/news/202402/3888091.html)
+
++ [DOTA2龙年宝藏上线 正在制作大更新“倾天之战”](https://www.3dmgame.com/news/202402/3888092.html)
+
++ [美女动作游戏《星刃》预购宣传片 油腻师姐大战巨兽](https://www.3dmgame.com/news/202402/3888090.html)
+
++ [《消逝的光芒2》龙年庆典活动 吕布皮肤装备免费领](https://www.3dmgame.com/news/202402/3888089.html)
+
++ [《碧海黑帆》为何70美元？育碧CEO：这是一个4A级游戏](https://www.3dmgame.com/news/202402/3888088.html)
+

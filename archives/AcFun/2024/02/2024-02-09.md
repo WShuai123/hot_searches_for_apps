@@ -77,3 +77,7 @@
 
 + [【2024AcFun新春庆典】看春晚怎么能没有杂技呢！](http://www.acfun.cn/v/ac43701627)
 
++ [【2024AcFun新春庆典】晚会全程回顾【游龙戏珠·鸢飞FUN舞】](http://www.acfun.cn/v/ac43732531)
+
++ [《恭喜发财》](http://www.acfun.cn/v/ac43731023)
+

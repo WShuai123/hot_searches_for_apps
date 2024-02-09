@@ -29,3 +29,9 @@
 
 + [2023 手机出货量 TOP10 出炉：安卓群英俱俯首，苹果 iPhone 拥 7 席独占鳌头](https://m.ithome.com/html/749711.htm)
 
++ [苹果 iPhone SE 4 曝料：改用灵动岛，调整背面相机岛设计](https://m.ithome.com/html/749738.htm)
+
++ [苹果重新设计 Win10 / Win11 版 iCloud：更快、更易用、更安全](https://m.ithome.com/html/749714.htm)
+
++ [首批领克 03+TCR Cyan 车型交付：搭载 2.0T 双增压发动机，42.03 万元](https://m.ithome.com/html/749702.htm)
+
