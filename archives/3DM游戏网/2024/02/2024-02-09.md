@@ -159,3 +159,21 @@
 
 + [Take-Two辩称：游戏内货币是虚构的 不属于玩家](https://www.3dmgame.com/news/202402/3888099.html)
 
++ [《纳克鲁斯》剧集4月26日播映 最新预告片欣赏](https://www.3dmgame.com/news/202402/3888111.html)
+
++ [《碟形世界》重新发行难度大 一半所有权归英国王室](https://www.3dmgame.com/news/202402/3888112.html)
+
++ [Hidden Path工裁员 《龙与地下城》RPG项目被暂停](https://www.3dmgame.com/news/202402/3888109.html)
+
++ [前苹果华人工程师因窃取汽车机密入狱：监禁120天、罚款百万](https://www.3dmgame.com/news/202402/3888110.html)
+
++ [《极限竞速：Motorsport》车辆升级系统改动细节公布](https://www.3dmgame.com/news/202402/3888105.html)
+
++ [坚持到底 小米汽车内部已做好未来超5年亏损的准备](https://www.3dmgame.com/news/202402/3888106.html)
+
++ [Stoke Games获550万美元融资 开发战术射击游戏](https://www.3dmgame.com/news/202402/3888107.html)
+
++ [互动影片《退婚后，宗主马甲藏不住》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3888108.html)
+
++ [新里程碑达成！N网MOD总下载达到100亿次](https://www.3dmgame.com/news/202402/3888104.html)
+

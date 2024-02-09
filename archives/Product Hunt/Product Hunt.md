@@ -103,3 +103,23 @@
 
 + [Apple MGIE](https://www.producthunt.com/posts/apple-mgie)
 
++ [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3)
+
++ [Summary Cat](https://www.producthunt.com/posts/summary-cat)
+
++ [Yuna AI — Your Mental Health Companion](https://www.producthunt.com/posts/yuna-ai-your-mental-health-companion)
+
++ [git-re](https://www.producthunt.com/posts/git-re)
+
++ [CodeSignal Learn](https://www.producthunt.com/posts/codesignal-learn)
+
++ [Heyday](https://www.producthunt.com/posts/heyday-5)
+
++ [Synthical](https://www.producthunt.com/posts/synthical)
+
++ [Rizzle AI](https://www.producthunt.com/posts/rizzle-ai-2)
+
++ [Capitol AI](https://www.producthunt.com/posts/capitol-ai)
+
++ [Flylighter](https://www.producthunt.com/posts/flylighter)
+

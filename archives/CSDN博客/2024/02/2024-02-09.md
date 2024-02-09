@@ -169,3 +169,9 @@
 
 + [TCP的连接和断开详解](https://blog.csdn.net/haokan123456789/article/details/136076289)
 
++ [SpringBoot和SpringMVC](https://blog.csdn.net/m0_69468924/article/details/136032976)
+
++ [物理信息神经网络（PINN）: 将物理知识融合到深度学习中](https://blog.csdn.net/qq_28247201/article/details/136072595)
+
++ [实例分割论文阅读之：FCN：《Fully Convolutional Networks for Semantica Segmentation》](https://blog.csdn.net/absence521/article/details/136081718)
+
