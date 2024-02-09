@@ -61,3 +61,17 @@
 
 + [【柯基】四手联弹《春节序曲》片段｜恭祝大家新春快乐！](http://www.acfun.cn/v/ac43732930)
 
++ [他们是流落凡间的半神，也是帝皇最强大的子嗣【达奇】战锤40K故事](http://www.acfun.cn/v/ac43737280)
+
++ [这 雪 下 得 太 骚](http://www.acfun.cn/v/ac43737513)
+
++ [整点新年爱看的【今天有什么好笑的 #1456】](http://www.acfun.cn/v/ac43736436)
+
++ [★各位Acer新年快乐★空调开太大了，屋里有点热！欢乐八点档-825](http://www.acfun.cn/v/ac43733341)
+
++ [【原创动画】超哥梦龙【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43705070)
+
++ [表演个节目年夜饭助助兴！](http://www.acfun.cn/v/ac43735760)
+
++ [龙文【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43700431)
+

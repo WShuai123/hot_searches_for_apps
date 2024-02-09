@@ -101,3 +101,7 @@
 
 + [探索解谜游戏《波坦尼庄园》4/9登陆各大平台](https://www.3dmgame.com/news/202402/3888076.html)
 
++ [一个命令行 让你的Windows 10/11重回Windows 7](https://www.3dmgame.com/news/202402/3888129.html)
+
++ [《荒野大镖客2》销量破6100万套 新增400万套](https://www.3dmgame.com/news/202402/3888130.html)
+

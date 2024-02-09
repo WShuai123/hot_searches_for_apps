@@ -25,3 +25,7 @@
 
 + [国产山寨苹果 Vision Pro 头显“VisionSE”现身电商：基于骁龙 670，标价 1930 元](https://m.ithome.com/html/749817.htm)
 
++ [支付宝 2024 年“五福节”活动正式开奖：拼手气瓜分 5 亿现金，小伙伴们中了多少？](https://m.ithome.com/html/749853.htm)
+
++ [我国今起与新加坡互免签证：普通护照停留不超 30 日、两国游客可用数字人民币旅游消费](https://m.ithome.com/html/749801.htm)
+

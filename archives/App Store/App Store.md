@@ -201,3 +201,13 @@
 
 + [同程旅行-订酒店机票火车票,低价打车](https://itunes.apple.com/cn/app/id475966832?mt=8)
 
++ [秒剪 - 朋友圈短片轻松做](https://itunes.apple.com/cn/app/id1530922601?mt=8)
+
++ [万能遥控器-空调万能遥控器智能家居蓝牙版](https://itunes.apple.com/cn/app/id6470612836?mt=8)
+
++ [微信输入法](https://itunes.apple.com/cn/app/id1618175312?mt=8)
+
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+

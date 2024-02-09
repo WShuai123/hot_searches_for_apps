@@ -49,3 +49,23 @@
 
 + [Credit Card Illustration pt.I](https://dribbble.com/shots/)
 
++ [Runner's World (Editorial)](https://dribbble.com/shots/)
+
++ [Summer at the Beach Icons](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [Houses icons](https://dribbble.com/shots/)
+
++ [Seven Seas Hotel](https://dribbble.com/shots/)
+
++ [The Purple Platoon.](https://dribbble.com/shots/)
+
++ [Campobello Whale Rescue Team](https://dribbble.com/shots/)
+
++ [STEEL CITY BANDANA](https://dribbble.com/shots/)
+
++ [25% Off Summer Dreams Flash Sale](https://dribbble.com/shots/)
+
++ [ilcons - Transportation icons](https://dribbble.com/shots/)
+
