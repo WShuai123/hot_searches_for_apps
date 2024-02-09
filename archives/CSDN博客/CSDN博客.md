@@ -121,3 +121,7 @@
 
 + [【大模型上下文长度扩展】MedGPT：解决遗忘 + 永久记忆 + 无限上下文](https://blog.csdn.net/qq_41739364/article/details/136072543)
 
++ [机器人搬砖 - 华为OD统一考试](https://blog.csdn.net/user_longling/article/details/136087176)
+
++ [Gitlab和Jenkins集成 实现CI (二)](https://blog.csdn.net/made4971/article/details/136067338)
+

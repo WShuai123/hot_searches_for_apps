@@ -111,3 +111,5 @@
 
 + [机甲少女动作游戏《Dolls Nest》年内推出](https://www.3dmgame.com/news/202402/3888131.html)
 
++ [部分新游戏销售“疲软”导致世嘉游戏利润大幅下降](https://www.3dmgame.com/news/202402/3888134.html)
+
