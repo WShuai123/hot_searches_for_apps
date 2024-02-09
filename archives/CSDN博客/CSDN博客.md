@@ -197,3 +197,5 @@
 
 + [可解释性AI（XAI）：开启AI决策过程透明化，重塑信任与解决伦理偏见](https://blog.csdn.net/u014727709/article/details/135885027)
 
++ [消息中间件：Puslar、Kafka、RabbigMQ、ActiveMQ](https://blog.csdn.net/Kingairy/article/details/136080300)
+

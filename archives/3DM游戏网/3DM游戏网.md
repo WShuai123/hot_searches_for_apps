@@ -191,3 +191,11 @@
 
 + [角川财报《艾尔登法环》DLC问答：仍在全力开发](https://www.3dmgame.com/news/202402/3888119.html)
 
++ [互动剧情游戏《Lake》将于2月15日登陆Switch](https://www.3dmgame.com/news/202402/3888123.html)
+
++ [《绝地潜兵2》Steam开局强劲 创下索尼PC移植游戏同时在线峰值新记录](https://www.3dmgame.com/news/202402/3888122.html)
+
++ [幻兽帕鲁爆火，华为云何以成为幻兽帕鲁服务器首选？](https://www.3dmgame.com/news/202402/3888121.html)
+
++ [特斯拉工人最新工资曝光：时薪最低22美元 最高39美元](https://www.3dmgame.com/news/202402/3888120.html)
+

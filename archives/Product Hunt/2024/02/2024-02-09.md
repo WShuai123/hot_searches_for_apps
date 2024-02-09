@@ -167,3 +167,13 @@
 
 + [Apico - Use any app as your backend](https://www.producthunt.com/posts/apico-use-any-app-as-your-backend)
 
++ [Frame](https://www.producthunt.com/posts/frame-12)
+
++ [AgencyDock (Beta)](https://www.producthunt.com/posts/agencydock-beta)
+
++ [Niah AI](https://www.producthunt.com/posts/niah-ai)
+
++ [Flusk](https://www.producthunt.com/posts/flusk)
+
++ [AppSend](https://www.producthunt.com/posts/appsend)
+
