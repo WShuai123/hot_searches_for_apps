@@ -177,3 +177,11 @@
 
 + [新里程碑达成！N网MOD总下载达到100亿次](https://www.3dmgame.com/news/202402/3888104.html)
 
++ [传奇落幕 《杀出重围》主角扮演者向系列告别](https://www.3dmgame.com/news/202402/3888116.html)
+
++ [微软：大规模裁员1900人并非全因收购 动视本就有计划](https://www.3dmgame.com/news/202402/3888115.html)
+
++ [Respawn创始人被裁细节 动视高层试图“拿钱平事”](https://www.3dmgame.com/news/202402/3888114.html)
+
++ [Win 11发布重磅更新：原生支持sudo命令](https://www.3dmgame.com/news/202402/3888113.html)
+

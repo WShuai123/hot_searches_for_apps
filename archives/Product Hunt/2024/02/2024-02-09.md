@@ -123,3 +123,43 @@
 
 + [Flylighter](https://www.producthunt.com/posts/flylighter)
 
++ [MagicAds.ai](https://www.producthunt.com/posts/magicads-ai)
+
++ [UniFill AI](https://www.producthunt.com/posts/unifill-ai)
+
++ [Tailwind Skeleton Generator](https://www.producthunt.com/posts/tailwind-skeleton-generator)
+
++ [ChatPdf.so](https://www.producthunt.com/posts/chatpdf-so)
+
++ [Friendly Fire](https://www.producthunt.com/posts/friendly-fire)
+
++ [FitComrade](https://www.producthunt.com/posts/fitcomrade)
+
++ [themex](https://www.producthunt.com/posts/themex)
+
++ [Moosti](https://www.producthunt.com/posts/moosti-3)
+
++ [Pixel-Art.ai](https://www.producthunt.com/posts/pixel-art-ai)
+
++ [Creatorboost](https://www.producthunt.com/posts/creatorboost)
+
++ [BlueWave](https://www.producthunt.com/posts/bluewave-4)
+
++ [The Flip Clock](https://www.producthunt.com/posts/the-flip-clock)
+
++ [Backlink Monitor](https://www.producthunt.com/posts/backlink-monitor-2)
+
++ [Rapidforms](https://www.producthunt.com/posts/rapidforms)
+
++ [String Catalog Translator](https://www.producthunt.com/posts/string-catalog-translator)
+
++ [Upstash Vector](https://www.producthunt.com/posts/upstash-vector)
+
++ [Stockfill](https://www.producthunt.com/posts/stockfill)
+
++ [Titlefindr](https://www.producthunt.com/posts/titlefindr)
+
++ [Vest Builder](https://www.producthunt.com/posts/vest-builder)
+
++ [Augie Storyteller](https://www.producthunt.com/posts/augie-storyteller)
+
