@@ -149,3 +149,13 @@
 
 + [玩家不满《深海迷航2》实时服务模式 开发商出面解释](https://www.3dmgame.com/news/202402/3888097.html)
 
++ [类银河恶魔城游戏《奇迹公司》Steam上线 支持简繁体中文](https://www.3dmgame.com/news/202402/3888103.html)
+
++ [Krafton年度财报：销售额增长 主要还靠《绝地求生》](https://www.3dmgame.com/news/202402/3888102.html)
+
++ [育碧财报：预订量大幅增加 对全年业绩充满信心](https://www.3dmgame.com/news/202402/3888101.html)
+
++ [橙光游戏《声息》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202402/3888100.html)
+
++ [Take-Two辩称：游戏内货币是虚构的 不属于玩家](https://www.3dmgame.com/news/202402/3888099.html)
+
