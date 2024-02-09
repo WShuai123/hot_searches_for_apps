@@ -141,3 +141,7 @@
 
 + [《幻兽帕鲁》开发商Pocketpair正在紧急招聘新员工](https://www.3dmgame.com/news/202402/3888094.html)
 
++ [R星在Steam开启特卖 《荒野大镖客2》92元](https://www.3dmgame.com/news/202402/3888095.html)
+
++ [爆料者指出 《VR战士》重启作品正在开发中 并非重置版游戏](https://www.3dmgame.com/news/202402/3888096.html)
+
