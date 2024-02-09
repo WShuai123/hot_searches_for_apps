@@ -213,3 +213,5 @@
 
 + [必拍 - AI帮你一键制作，热门照片视频随心做](https://itunes.apple.com/cn/app/id6467222013?mt=8)
 
++ [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
+

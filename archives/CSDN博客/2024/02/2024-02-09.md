@@ -187,3 +187,11 @@
 
 + [【Linux系统学习】3.Linux用户和权限](https://blog.csdn.net/weixin_69595694/article/details/136071908)
 
++ [基于Python爬虫福建福州景点数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136030845)
+
++ [[CUDA手搓]从零开始用C++ CUDA搭建一个卷积神经网络(LeNet)，了解神经网络各个层背后算法原理](https://blog.csdn.net/Bartender_VA11/article/details/135999169)
+
++ [Docker 安全及日志管理](https://blog.csdn.net/2301_76288258/article/details/136081779)
+
++ [打造个性化的个人网页：从HTML到个人品牌](https://blog.csdn.net/double222222/article/details/136081739)
+

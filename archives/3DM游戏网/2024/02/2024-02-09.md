@@ -189,3 +189,5 @@
 
 + [《RuneScape》开发商或将被收购 价格9亿英镑](https://www.3dmgame.com/news/202402/3888117.html)
 
++ [角川财报《艾尔登法环》DLC问答：仍在全力开发](https://www.3dmgame.com/news/202402/3888119.html)
+
