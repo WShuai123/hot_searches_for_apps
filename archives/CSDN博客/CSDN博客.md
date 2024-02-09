@@ -195,3 +195,5 @@
 
 + [打造个性化的个人网页：从HTML到个人品牌](https://blog.csdn.net/double222222/article/details/136081739)
 
++ [可解释性AI（XAI）：开启AI决策过程透明化，重塑信任与解决伦理偏见](https://blog.csdn.net/u014727709/article/details/135885027)
+

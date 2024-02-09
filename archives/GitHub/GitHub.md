@@ -51,3 +51,33 @@
 
 + [go-acme / lego](https://github.com/go-acme/lego)
 
++ [GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm)
+
++ [metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src)
+
++ [MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy)
+
++ [narfindustries / http-garden](https://github.com/narfindustries/http-garden)
+
++ [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
+
++ [rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native)
+
++ [rocketseat-education / nlw-expert-nodejs](https://github.com/rocketseat-education/nlw-expert-nodejs)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react)
+
++ [tiangolo / fastapi](https://github.com/tiangolo/fastapi)
+
++ [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
++ [nektos / act](https://github.com/nektos/act)
+
++ [Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
+
++ [RustPython / RustPython](https://github.com/RustPython/RustPython)
+
