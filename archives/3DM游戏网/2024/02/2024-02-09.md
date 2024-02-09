@@ -145,3 +145,7 @@
 
 + [爆料者指出 《VR战士》重启作品正在开发中 并非重置版游戏](https://www.3dmgame.com/news/202402/3888096.html)
 
++ [博主：电车不怕堵车、不敢吹空调的永远只有油车！](https://www.3dmgame.com/news/202402/3888098.html)
+
++ [玩家不满《深海迷航2》实时服务模式 开发商出面解释](https://www.3dmgame.com/news/202402/3888097.html)
+

@@ -49,3 +49,5 @@
 
 + [传统制造行业信息安全管理实践](https://www.freebuf.com/articles/security-management/390395.html)
 
++ [实战 JS逆向思路](https://www.freebuf.com/articles/database/391308.html)
+

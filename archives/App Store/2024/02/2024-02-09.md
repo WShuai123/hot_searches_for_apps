@@ -209,3 +209,7 @@
 
 + [抖音火山版 - 欢笑中国年](https://itunes.apple.com/cn/app/id1086047750?mt=8)
 
++ [魅力秀 - AI写真大片一键制作](https://itunes.apple.com/cn/app/id6446398632?mt=8)
+
++ [必拍 - AI帮你一键制作，热门照片视频随心做](https://itunes.apple.com/cn/app/id6467222013?mt=8)
+
