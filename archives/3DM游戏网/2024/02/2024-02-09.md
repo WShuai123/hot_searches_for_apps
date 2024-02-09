@@ -185,3 +185,7 @@
 
 + [Win 11发布重磅更新：原生支持sudo命令](https://www.3dmgame.com/news/202402/3888113.html)
 
++ [《绝地潜兵2》开发商进入“危机模式” CEO：建议互加好友直接加入](https://www.3dmgame.com/news/202402/3888118.html)
+
++ [《RuneScape》开发商或将被收购 价格9亿英镑](https://www.3dmgame.com/news/202402/3888117.html)
+
