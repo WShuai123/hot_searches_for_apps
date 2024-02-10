@@ -191,3 +191,5 @@
 
 + [《绝地潜兵2》Steam已多半好评 在线峰值接近12万](https://www.3dmgame.com/news/202402/3888173.html)
 
++ [Vision Pro上架拼多多 比京东国际便宜5000元](https://www.3dmgame.com/news/202402/3888174.html)
+

@@ -181,3 +181,7 @@
 
 + [[图形学渲染]大白话推导三维重建-摄像机内参(Intrinsic)、外参(extrinsic)、世界坐标相机坐标转换、3D物体投影归一化、单双目摄像头、视差(Disparity)](https://blog.csdn.net/Bartender_VA11/article/details/136078202)
 
++ [万能分割神器——Segment Anything（Meta AI）图片和影像的万能分割](https://blog.csdn.net/qq_31988139/article/details/136013065)
+
++ [Linux 权限简介](https://blog.csdn.net/rubys007/article/details/136034891)
+
