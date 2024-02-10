@@ -69,3 +69,15 @@
 
 + [Seven Seas Hotel](https://dribbble.com/shots/)
 
++ [Hangar Sisters Logo Design](https://dribbble.com/shots/)
+
++ [Year of the Dragon](https://dribbble.com/shots/)
+
++ [Terror of Demons Double IPA](https://dribbble.com/shots/)
+
++ [Tarot card #06: The Lovers](https://dribbble.com/shots/)
+
++ [Patterns for restaurants and cafes](https://dribbble.com/shots/)
+
++ [Astronaut](https://dribbble.com/shots/)
+
