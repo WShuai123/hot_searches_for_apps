@@ -121,3 +121,7 @@
 
 + [详细解读上海人工智能实验室视频生成代表作PIA：Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image](https://blog.csdn.net/qq_41895747/article/details/136047379)
 
++ [vue+ElementUi+iframe实现轮播不同的网站](https://blog.csdn.net/JPQLGZPW/article/details/136090327)
+
++ [部门人力分配 - 华为OD统一考试](https://blog.csdn.net/user_longling/article/details/136092815)
+
