@@ -157,3 +157,17 @@
 
 + [《王国之心》作曲家下村阳子获GDC终生成就奖](https://www.3dmgame.com/news/202402/3888156.html)
 
++ [角川集团介绍《装甲核心6》销量超出公司预期](https://www.3dmgame.com/news/202402/3888162.html)
+
++ [《致命公司》即将登陆iOS？开发者警告：别被骗了！](https://www.3dmgame.com/news/202402/3888163.html)
+
++ [欧洲月榜：1月地区游戏销量下降超过7%](https://www.3dmgame.com/news/202402/3888161.html)
+
++ [2024总台龙年春晚创下新纪录：直播收视破15亿次](https://www.3dmgame.com/news/202402/3888160.html)
+
++ [Take-Two CEO：主机竞争有好处但非必要](https://www.3dmgame.com/news/202402/3888159.html)
+
++ [任天堂社长：当前进行主机世代更迭不够安全](https://www.3dmgame.com/news/202402/3888158.html)
+
++ [高手自制超还原宝可梦图鉴 可识别手办和网络图片](https://www.3dmgame.com/news/202402/3888157.html)
+
