@@ -159,3 +159,5 @@
 
 + [数学建模-灰色预测最强讲义 GM（1，1）原理及Python实现](https://blog.csdn.net/weixin_58587245/article/details/136078420)
 
++ [HiveSQL——共同使用ip的用户检测问题【自关联问题】](https://blog.csdn.net/SHWAITME/article/details/136084824)
+

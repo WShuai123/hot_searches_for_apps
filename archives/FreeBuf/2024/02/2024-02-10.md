@@ -47,3 +47,5 @@
 
 + [数据库攻防学习之Redis](https://www.freebuf.com/articles/network/388488.html)
 
++ [VED-eBPF：一款基于eBPF的内核利用和Rootkit检测工具](https://www.freebuf.com/sectool/389639.html)
+

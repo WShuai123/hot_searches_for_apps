@@ -45,3 +45,7 @@
 
 + [消息称苹果 iOS 18 有望采用 visionOS 的设计元素，例如半透明菜单等](https://m.ithome.com/html/749875.htm)
 
++ [马斯克自称将停止使用电话号码，在 X 收发信息、接打音视频电话](https://m.ithome.com/html/749883.htm)
+
++ [Epic 春节特卖开启：《赛博朋克 2077》《双人成行》等游戏打折](https://m.ithome.com/html/749872.htm)
+

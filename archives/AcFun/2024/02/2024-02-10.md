@@ -121,3 +121,9 @@
 
 + [稳定发挥的拜年方式](http://www.acfun.cn/v/ac43741814)
 
++ [祝福所有Acer新年一直旺！★手机竖屏1056★](http://www.acfun.cn/v/ac43738267)
+
++ [就请…沉醉在我的「花间酒」中吧！](http://www.acfun.cn/v/ac43738966)
+
++ [撩人晚安吻](http://www.acfun.cn/v/ac43738688)
+

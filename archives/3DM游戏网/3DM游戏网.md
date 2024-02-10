@@ -155,3 +155,5 @@
 
 + [Nexon财报：《潜水员戴夫》《The Finals》推动欧美收入](https://www.3dmgame.com/news/202402/3888155.html)
 
++ [《王国之心》作曲家下村阳子获GDC终生成就奖](https://www.3dmgame.com/news/202402/3888156.html)
+
