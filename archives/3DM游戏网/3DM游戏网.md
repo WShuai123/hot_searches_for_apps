@@ -139,3 +139,11 @@
 
 + [《给他爱5》又卖了500万份 《大镖客2》销量破6100万份](https://www.3dmgame.com/news/202402/3888138.html)
 
++ [点选冒险新作《旋风：无暇旅行》2025年登陆PC](https://www.3dmgame.com/news/202402/3888148.html)
+
++ [佛州小丑放弃起诉R星 要10万美元为角色配音](https://www.3dmgame.com/news/202402/3888149.html)
+
++ [《自杀小队：战胜正义联盟》彩蛋暗示蝙蝠侠会回归](https://www.3dmgame.com/news/202402/3888150.html)
+
++ [《RuneScape》开发商Jagex宣布再次被收购](https://www.3dmgame.com/news/202402/3888151.html)
+
