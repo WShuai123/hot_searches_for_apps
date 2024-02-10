@@ -101,3 +101,5 @@
 
 + [小岛谈决定开发《Physint》“我意识到人终会一死”](https://www.3dmgame.com/news/202402/3888133.html)
 
++ [育碧成都《碧海黑帆》团队给大家拜年 游戏介绍详情](https://www.3dmgame.com/news/202402/3888181.html)
+

@@ -25,3 +25,5 @@
 
 + [2024 央视春晚互动超 552 亿次，京东 1 亿份实物、30 亿红包已被领走](https://m.ithome.com/html/749898.htm)
 
++ [微软 Edge 浏览器在苹果 M2 芯片 Mac 上的性能提高了 20%](https://m.ithome.com/html/749925.htm)
+

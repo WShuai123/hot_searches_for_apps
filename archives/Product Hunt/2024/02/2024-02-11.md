@@ -101,3 +101,5 @@
 
 + [Hey.bio](https://www.producthunt.com/posts/hey-bio)
 
++ [Synthical](https://www.producthunt.com/posts/synthical)
+

@@ -201,3 +201,9 @@
 
 + [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [韩剧TV-弹幕热门高清韩剧短剧抢先看社区](https://itunes.apple.com/cn/app/id1596494451?mt=8)
+
