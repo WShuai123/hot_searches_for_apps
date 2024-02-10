@@ -153,3 +153,5 @@
 
 + [电影《热辣滚烫》发布新海报：贾玲瘦出下颌线](https://www.3dmgame.com/news/202402/3888152.html)
 
++ [Nexon财报：《潜水员戴夫》《The Finals》推动欧美收入](https://www.3dmgame.com/news/202402/3888155.html)
+

@@ -149,3 +149,13 @@
 
 + [Elasticsearch（四）](https://blog.csdn.net/keleID/article/details/136076742)
 
++ [服务器与电脑的区别?](https://blog.csdn.net/javamyfriend/article/details/136080258)
+
++ [基于 Python opencv 的人脸识别的酒店客房入侵系统的检测](https://blog.csdn.net/yujun2023/article/details/136083727)
+
++ [计算机网络总结](https://blog.csdn.net/weixin_44070116/article/details/130607669)
+
++ [UUID和雪花(Snowflake)算法该如何选择？](https://blog.csdn.net/weixin_74318097/article/details/135297437)
+
++ [数学建模-灰色预测最强讲义 GM（1，1）原理及Python实现](https://blog.csdn.net/weixin_58587245/article/details/136078420)
+
