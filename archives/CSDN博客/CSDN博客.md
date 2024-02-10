@@ -167,3 +167,5 @@
 
 + [使用开源VPN搭建个人虚拟专用网络](https://blog.csdn.net/qq_56819189/article/details/136085271)
 
++ [Linux探秘之旅：透彻理解路径、命令与系统概念](https://blog.csdn.net/Srlua/article/details/136086758)
+

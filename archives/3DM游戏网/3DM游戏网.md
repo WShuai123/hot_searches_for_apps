@@ -183,3 +183,5 @@
 
 + [《星刃》没有付费外观 玩家可通过游戏过程解锁](https://www.3dmgame.com/news/202402/3888164.html)
 
++ [小岛带斯宾塞参加神社大祓 为恐怖新作《OD》净化](https://www.3dmgame.com/news/202402/3888170.html)
+
