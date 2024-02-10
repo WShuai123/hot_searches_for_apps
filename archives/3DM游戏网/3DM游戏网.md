@@ -189,3 +189,5 @@
 
 + [阿汤哥有望加盟昆汀最后一部导演作品](https://www.3dmgame.com/news/202402/3888172.html)
 
++ [《绝地潜兵2》Steam已多半好评 在线峰值接近12万](https://www.3dmgame.com/news/202402/3888173.html)
+

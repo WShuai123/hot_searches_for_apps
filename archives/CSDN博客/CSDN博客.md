@@ -177,3 +177,7 @@
 
 + [IT行业我认为含金量比较高的证书只有这一个](https://blog.csdn.net/giszz/article/details/136075327)
 
++ [SQL 使用大全](https://blog.csdn.net/qiuyeyyy/article/details/136074633)
+
++ [[图形学渲染]大白话推导三维重建-摄像机内参(Intrinsic)、外参(extrinsic)、世界坐标相机坐标转换、3D物体投影归一化、单双目摄像头、视差(Disparity)](https://blog.csdn.net/Bartender_VA11/article/details/136078202)
+
