@@ -193,3 +193,7 @@
 
 + [Vision Pro上架拼多多 比京东国际便宜5000元](https://www.3dmgame.com/news/202402/3888174.html)
 
++ [英伟达成立新部门 专注于定制芯片设计](https://www.3dmgame.com/news/202402/3888176.html)
+
++ [《如龙8》推1.15更新 修复DLSS 3帧生成卡顿问题](https://www.3dmgame.com/news/202402/3888175.html)
+
