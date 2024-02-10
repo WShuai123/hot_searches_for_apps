@@ -99,3 +99,21 @@
 
 + [【晚会单品】《寰宇奇遇记》- 2024贺岁版【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43735189)
 
++ [2024新春快乐、来年发财！江苏年夜饭都吃点啥？](http://www.acfun.cn/v/ac43736921)
+
++ [【AcFun2024龙年非官方春晚】节目六——绘画《快来拆A站的红包吧（给所有acer的新年贺图）》](http://www.acfun.cn/v/ac43690132)
+
++ [台妹1分钟拜年视频纯享版！](http://www.acfun.cn/v/ac43738123)
+
++ [桜夏 ω 《Caramelldansen》2014年新年快乐！](http://www.acfun.cn/v/ac43738867)
+
++ [【新年快乐】今日份搞笑沙雕弹弹乐视频 #1058](http://www.acfun.cn/v/ac43731994)
+
++ [给大家拜年啦【配音张遥函】](http://www.acfun.cn/v/ac43737416)
+
++ [【2024AcFun新春庆典】这么穷开心又甜甜的真是抱歉！超级大融合！](http://www.acfun.cn/v/ac43730920)
+
++ [从三款入门级耳塞，谈谈我对入门塞的看法](http://www.acfun.cn/v/ac43737954)
+
++ [【铁拳8】升段赛，莉莉对战黄金忍者吉光【TEKKEN8】Lili vs Yoshimitsu](http://www.acfun.cn/v/ac43735540)
+

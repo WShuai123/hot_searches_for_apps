@@ -41,3 +41,7 @@
 
 + [支付宝“五福节”活动今晚 22:18 开奖，小伙伴们准备好拼手气瓜分 5 亿现金了吗](https://m.ithome.com/html/749796.htm)
 
++ [腾讯 QQ 25 周年社交报告出炉，看看谁是你第一位好友](https://m.ithome.com/html/749878.htm)
+
++ [消息称苹果 iOS 18 有望采用 visionOS 的设计元素，例如半透明菜单等](https://m.ithome.com/html/749875.htm)
+
