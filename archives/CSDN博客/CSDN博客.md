@@ -101,3 +101,23 @@
 
 + [IT行业有哪些证书含金量高呢？](https://blog.csdn.net/2301_80221228/article/details/136085696)
 
++ [Spring Boot3统一结果封装](https://blog.csdn.net/qq_62262918/article/details/136075039)
+
++ [ARM：AI 的翅膀，还能飞多久？](https://blog.csdn.net/Gabriel100yi/article/details/136084060)
+
++ [机器学习8-决策树](https://blog.csdn.net/dracularking/article/details/136084739)
+
++ [PostgreSQL 与 MySQL 相比，优势何在？](https://blog.csdn.net/Wyxl990/article/details/136083049)
+
++ [【跳槽须知】关于企业所签订的竞业协议你知道多少？](https://blog.csdn.net/CSBIGDOG/article/details/136084896)
+
++ [auto.js教程（autojs教程、autox.js、autoxjs）笔记（一）Autojs概述](https://blog.csdn.net/Dontla/article/details/136034564)
+
++ [VUE2和VUE3区别对比一览](https://blog.csdn.net/weixin_44149821/article/details/136079033)
+
++ [[ESP-IDF+Clion+WSL]如何使用Clion IDE快速开发ESP-idf？（基于WSL2）](https://blog.csdn.net/qq_39915309/article/details/136084037)
+
++ [Hive数仓](https://blog.csdn.net/wslzoooo/article/details/136083643)
+
++ [详细解读上海人工智能实验室视频生成代表作PIA：Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image](https://blog.csdn.net/qq_41895747/article/details/136047379)
+
