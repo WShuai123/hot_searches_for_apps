@@ -53,3 +53,5 @@
 
 + [全球有史最高，微软市值达 3.12 万亿美元打破苹果纪录](https://m.ithome.com/html/749881.htm)
 
++ [2024 年央视总台春晚创下新纪录，CCTV-1 收视份额近 11 年新高](https://m.ithome.com/html/749911.htm)
+

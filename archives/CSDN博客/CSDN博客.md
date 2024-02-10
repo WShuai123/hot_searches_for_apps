@@ -169,3 +169,7 @@
 
 + [Linux探秘之旅：透彻理解路径、命令与系统概念](https://blog.csdn.net/Srlua/article/details/136086758)
 
++ [AI助力农作物自动采摘，基于DETR(DEtection TRansformer)开发构建番茄采摘场景下番茄成熟度检测识别计数分析系统](https://blog.csdn.net/Together_CZ/article/details/136020408)
+
++ [文件上传-Webshell](https://blog.csdn.net/weixin_44415748/article/details/136075049)
+
