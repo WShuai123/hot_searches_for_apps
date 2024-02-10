@@ -113,3 +113,9 @@
 
 + [部分新游戏销售“疲软”导致世嘉游戏利润大幅下降](https://www.3dmgame.com/news/202402/3888134.html)
 
++ [《生化危机4：重制版》黄金版推出 Steam售价248元](https://www.3dmgame.com/news/202402/3888137.html)
+
++ [《死亡搁浅2》新预告捕捉自PS5 正式版画质将提升](https://www.3dmgame.com/news/202402/3888136.html)
+
++ [《奥日》开发商ARPG《恶意不息》跳票到2024年第二季度](https://www.3dmgame.com/news/202402/3888135.html)
+

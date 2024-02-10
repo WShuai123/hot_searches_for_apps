@@ -125,3 +125,9 @@
 
 + [Gitlab和Jenkins集成 实现CI (二)](https://blog.csdn.net/made4971/article/details/136067338)
 
++ [深度学习自然语言处理（NLP）模型BERT：从理论到Pytorch实战](https://blog.csdn.net/Myx74270512/article/details/136087904)
+
++ [SpringCloud-Ribbon实现负载均衡](https://blog.csdn.net/weixin_41793160/article/details/136088853)
+
++ [【无人机三维路径规划】基于蚯蚓算法EWA实现复杂地形无人机避障三维航迹规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/136068584)
+

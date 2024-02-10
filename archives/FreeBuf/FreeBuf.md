@@ -41,3 +41,5 @@
 
 + [法国医疗服务公司遭遇攻击，2000万被保人信息面临安全风险](https://www.freebuf.com/news/391763.html)
 
++ [用你的手机拿走你的钱：伪装成“安全防护”APK的金融欺诈活动](https://www.freebuf.com/articles/mobile/390431.html)
+
