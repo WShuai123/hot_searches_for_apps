@@ -131,3 +131,7 @@
 
 + [【无人机三维路径规划】基于蚯蚓算法EWA实现复杂地形无人机避障三维航迹规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/136068584)
 
++ [生成式人工智能攻击的一年：2024](https://blog.csdn.net/qq_29607687/article/details/136018327)
+
++ [Web Services 服务 是不是过时了？创建 Web Services 服务实例](https://blog.csdn.net/tomxjc/article/details/136081527)
+

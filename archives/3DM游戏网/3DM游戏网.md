@@ -119,3 +119,23 @@
 
 + [《奥日》开发商ARPG《恶意不息》跳票到2024年第二季度](https://www.3dmgame.com/news/202402/3888135.html)
 
++ [《最终幻想7：重生》PS5独占期将持续到5月29日](https://www.3dmgame.com/news/202402/3888146.html)
+
++ [牌面拉满！小米汽车SU7登上春晚：海湾蓝色超吸睛](https://www.3dmgame.com/news/202402/3888147.html)
+
++ [《风暴之城》更新路线图公布 付费DLC筹备中](https://www.3dmgame.com/news/202402/3888145.html)
+
++ [北濑佳范：若重制《最终幻想8》会优先改变战斗系统](https://www.3dmgame.com/news/202402/3888144.html)
+
++ [《博德之门3》下周将推出更新 会改进接吻效果等](https://www.3dmgame.com/news/202402/3888143.html)
+
++ [《死亡细胞》将结束更新支持 开发组专注于新项目开发](https://www.3dmgame.com/news/202402/3888142.html)
+
++ [《星刃》金亨泰：对性感女主的背部进行了重点关注](https://www.3dmgame.com/news/202402/3888141.html)
+
++ [《最终幻想7：重生》体验版画面模糊 原因并非低分辨率](https://www.3dmgame.com/news/202402/3888140.html)
+
++ [育碧：《GTA6》不可怕 其发售后也能让我家游戏受益](https://www.3dmgame.com/news/202402/3888139.html)
+
++ [《给他爱5》又卖了500万份 《大镖客2》销量破6100万份](https://www.3dmgame.com/news/202402/3888138.html)
+
