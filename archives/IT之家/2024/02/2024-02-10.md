@@ -39,3 +39,5 @@
 
 + [华硕 Zenfone 11 Ultra 手机官方渲染图曝光：骁龙 8 Gen 3、6.78 英寸 144Hz AMOLED 屏](https://m.ithome.com/html/749821.htm)
 
++ [支付宝“五福节”活动今晚 22:18 开奖，小伙伴们准备好拼手气瓜分 5 亿现金了吗](https://m.ithome.com/html/749796.htm)
+

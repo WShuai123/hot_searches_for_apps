@@ -93,3 +93,9 @@
 
 + [【莉莉子】Nine Muses Wild【8K竖屏】](http://www.acfun.cn/v/ac43723799)
 
++ [【2024AcFun新春庆典】螺旋飞天庆新年，可可爱爱迎新春](http://www.acfun.cn/v/ac43730896)
+
++ [2024Acfun新春庆典 柯哀 Time After Time 娄老师 不看不听不是人 变装有](http://www.acfun.cn/v/ac43721886)
+
++ [【晚会单品】《寰宇奇遇记》- 2024贺岁版【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43735189)
+
