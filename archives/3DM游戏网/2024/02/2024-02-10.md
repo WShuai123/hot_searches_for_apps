@@ -171,3 +171,15 @@
 
 + [高手自制超还原宝可梦图鉴 可识别手办和网络图片](https://www.3dmgame.com/news/202402/3888157.html)
 
++ [《绝地潜兵2》PC版优化匹配效果 减少崩溃问题](https://www.3dmgame.com/news/202402/3888169.html)
+
++ [RTX 4080 SUPER降价策略效果显著 北美电商卖断货](https://www.3dmgame.com/news/202402/3888168.html)
+
++ [《绝地潜兵2》在线玩家数飙升 打破一项历史纪录](https://www.3dmgame.com/news/202402/3888167.html)
+
++ [Steam 2月新品节最受欢迎试玩排行 两款RTS上榜](https://www.3dmgame.com/news/202402/3888166.html)
+
++ [西部主题社交推理游戏《西部对决》登陆NS平台](https://www.3dmgame.com/news/202402/3888165.html)
+
++ [《星刃》没有付费外观 玩家可通过游戏过程解锁](https://www.3dmgame.com/news/202402/3888164.html)
+
