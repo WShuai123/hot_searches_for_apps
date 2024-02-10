@@ -51,3 +51,29 @@
 
 + [RustPython / RustPython](https://github.com/RustPython/RustPython)
 
++ [cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
+
++ [awslabs / llrt](https://github.com/awslabs/llrt)
+
++ [jixserver / free-for-dev](https://github.com/jixserver/free-for-dev)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [YueChan / Live](https://github.com/YueChan/Live)
+
++ [hcengineering / platform](https://github.com/hcengineering/platform)
+
++ [MrForExample / ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
+
++ [Orange-OpenSource / hurl](https://github.com/Orange-OpenSource/hurl)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [Pandora-Labs-Org / erc404-legacy](https://github.com/Pandora-Labs-Org/erc404-legacy)
+
++ [AleoHQ / leo](https://github.com/AleoHQ/leo)
+
++ [denoland / deno](https://github.com/denoland/deno)
+
++ [tteck / Proxmox](https://github.com/tteck/Proxmox)
+

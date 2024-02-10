@@ -187,3 +187,5 @@
 
 + [《半条命3》确认？《CS2》更新代码包含V社新作线索](https://www.3dmgame.com/news/202402/3888171.html)
 
++ [阿汤哥有望加盟昆汀最后一部导演作品](https://www.3dmgame.com/news/202402/3888172.html)
+

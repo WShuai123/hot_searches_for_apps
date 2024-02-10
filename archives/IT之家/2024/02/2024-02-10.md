@@ -55,3 +55,5 @@
 
 + [2024 年央视总台春晚创下新纪录，CCTV-1 收视份额近 11 年新高](https://m.ithome.com/html/749911.htm)
 
++ [苹果 Vision Pro 头显上架拼多多“品牌百亿补贴”：相比京东国际便宜 5000 元，标价 33999 元](https://m.ithome.com/html/749920.htm)
+
