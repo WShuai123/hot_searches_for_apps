@@ -55,3 +55,5 @@
 
 + [ASML 展示价值 3.5 亿欧元的 High-NA EUV 光刻机，重达 15 万公斤](https://m.ithome.com/html/749984.htm)
 
++ [2024 年春节档电影豆瓣评分出炉，《飞驰人生 2》8.1、《热辣滚烫》7.9](https://m.ithome.com/html/749997.htm)
+

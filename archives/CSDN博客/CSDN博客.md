@@ -189,3 +189,9 @@
 
 + [刘谦龙年春晚魔术模拟](https://blog.csdn.net/qq_41753944/article/details/136091061)
 
++ [机器学习简介](https://blog.csdn.net/rubys007/article/details/136034895)
+
++ [K8S之运用亲和性设置Pod的调度约束](https://blog.csdn.net/weixin_40364776/article/details/136070493)
+
++ [新春快乐（烟花、春联）【附源码】](https://blog.csdn.net/qiao_yue/article/details/136091556)
+

@@ -183,3 +183,9 @@
 
 + [传闻：任天堂正在测试Switch 2的向后兼容性](https://www.3dmgame.com/news/202402/3888221.html)
 
++ [《幻兽帕鲁》Steam玩家流失 平均在线下降17.7%](https://www.3dmgame.com/news/202402/3888223.html)
+
++ [美国50亿美元芯片研发投资落地 英伟达市值逼近谷歌亚马逊](https://www.3dmgame.com/news/202402/3888224.html)
+
++ [LG 27GS95QE游戏显示器上市 OLED面板首发5999元](https://www.3dmgame.com/news/202402/3888222.html)
+
