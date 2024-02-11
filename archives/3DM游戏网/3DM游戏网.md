@@ -189,3 +189,9 @@
 
 + [LG 27GS95QE游戏显示器上市 OLED面板首发5999元](https://www.3dmgame.com/news/202402/3888222.html)
 
++ [路透社：Switch 2可能继续采用英伟达芯片](https://www.3dmgame.com/news/202402/3888227.html)
+
++ [华为P70手机全系支持曲面屏和卫星通信 芯片频率有差别](https://www.3dmgame.com/news/202402/3888226.html)
+
++ [《绝地潜兵2》PC在线是PS5的两倍多](https://www.3dmgame.com/news/202402/3888225.html)
+
