@@ -107,3 +107,9 @@
 
 + [《妮姬：胜利女神》新年贺图发布：她实在太大了](https://www.3dmgame.com/news/202402/3888182.html)
 
++ [《星河战队：灭绝》更新推出 支持AMD FSR 3](https://www.3dmgame.com/news/202402/3888186.html)
+
++ [微软或试图收购《幻兽帕鲁》开发商 对抗《宝可梦》](https://www.3dmgame.com/news/202402/3888185.html)
+
++ [《星刃》新情报：玩家的选择可以改变女主角](https://www.3dmgame.com/news/202402/3888184.html)
+

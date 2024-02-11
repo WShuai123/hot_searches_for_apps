@@ -29,3 +29,7 @@
 
 + [“佛罗里达小丑”放弃向 R 星索赔，声称想参与《GTA 6》游戏配音](https://m.ithome.com/html/749939.htm)
 
++ [消息称微软正试图收购《幻兽帕鲁》开发商 Pocketpair，以迎战任天堂《宝可梦》系列游戏](https://m.ithome.com/html/749915.htm)
+
++ [广东韶关警方通报一起“无人机黑飞致航班延误”事件：涉案男子行拘十日罚款 500 元](https://m.ithome.com/html/749937.htm)
+
