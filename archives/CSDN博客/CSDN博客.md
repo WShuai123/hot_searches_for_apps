@@ -157,3 +157,7 @@
 
 + [【实习】深信服防火墙网络安全生产实习](https://blog.csdn.net/weixin_51338719/article/details/136092122)
 
++ [机器学习：SVM、softmax、Dropout及最大池化max_pool介绍](https://blog.csdn.net/weixin_51390582/article/details/136092232)
+
++ [IDEA2023系列创建web项目](https://blog.csdn.net/2202_75341355/article/details/136085022)
+

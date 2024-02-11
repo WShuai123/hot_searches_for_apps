@@ -145,3 +145,11 @@
 
 + [我国首个商业航天发射场，海南商发目标5月底建成二号发射工位](https://www.3dmgame.com/news/202402/3888202.html)
 
++ [《街2降灵》Steam页面上线 2024年第四季度发售](https://www.3dmgame.com/news/202402/3888206.html)
+
++ [《铁拳8》排行榜被作弊和代刷霸占 官方将采取行动](https://www.3dmgame.com/news/202402/3888204.html)
+
++ [《星球工匠》年内发布正式版 将推出合作多人模式](https://www.3dmgame.com/news/202402/3888205.html)
+
++ [Steam远程同乐游戏节预告 2月13日开始](https://www.3dmgame.com/news/202402/3888203.html)
+
