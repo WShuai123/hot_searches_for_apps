@@ -27,3 +27,5 @@
 
 + [微软 Edge 浏览器在苹果 M2 芯片 Mac 上的性能提高了 20%](https://m.ithome.com/html/749925.htm)
 
++ [“佛罗里达小丑”放弃向 R 星索赔，声称想参与《GTA 6》游戏配音](https://m.ithome.com/html/749939.htm)
+

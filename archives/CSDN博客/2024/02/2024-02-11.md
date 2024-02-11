@@ -125,3 +125,9 @@
 
 + [部门人力分配 - 华为OD统一考试](https://blog.csdn.net/user_longling/article/details/136092815)
 
++ [Docker 容器网络：C++ 客户端 — 服务器应用程序。](https://blog.csdn.net/gongdiwudu/article/details/136090613)
+
++ [BatchNorm介绍：卷积神经网络中的BN](https://blog.csdn.net/weixin_51390582/article/details/136092241)
+
++ [应急响应实战笔记01入侵排查篇（3）](https://blog.csdn.net/qq_59468567/article/details/136087735)
+

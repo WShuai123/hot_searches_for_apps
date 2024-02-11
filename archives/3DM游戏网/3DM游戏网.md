@@ -103,3 +103,7 @@
 
 + [育碧成都《碧海黑帆》团队给大家拜年 游戏介绍详情](https://www.3dmgame.com/news/202402/3888181.html)
 
++ [《最终幻想7：重生》角色立绘图 俊男靓女齐登场](https://www.3dmgame.com/news/202402/3888183.html)
+
++ [《妮姬：胜利女神》新年贺图发布：她实在太大了](https://www.3dmgame.com/news/202402/3888182.html)
+

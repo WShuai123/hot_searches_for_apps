@@ -41,3 +41,5 @@
 
 + [只勒索64美元，勒索软件新秀（Albabat）闪亮登场](https://www.freebuf.com/articles/network/390928.html)
 
++ [2023年北美地区勒索软件态势-“阴魂不散+我就不给！”](https://www.freebuf.com/articles/network/390899.html)
+
