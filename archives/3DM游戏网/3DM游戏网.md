@@ -141,3 +141,7 @@
 
 + [前《守望先锋2》画师控诉暴雪：每一步都那么离谱](https://www.3dmgame.com/news/202402/3888200.html)
 
++ [《Blazing Trail》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202402/3888201.html)
+
++ [我国首个商业航天发射场，海南商发目标5月底建成二号发射工位](https://www.3dmgame.com/news/202402/3888202.html)
+
