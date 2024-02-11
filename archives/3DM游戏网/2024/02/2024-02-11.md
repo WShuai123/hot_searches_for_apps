@@ -153,3 +153,23 @@
 
 + [Steam远程同乐游戏节预告 2月13日开始](https://www.3dmgame.com/news/202402/3888203.html)
 
++ [《足球经理2024》玩家超700万 成为系列玩家最多的作品](https://www.3dmgame.com/news/202402/3888215.html)
+
++ [员工资料信息侧面印证Xbox游戏登陆PlayStation传闻](https://www.3dmgame.com/news/202402/3888212.html)
+
++ [八年磨一剑又来了 这次是火爆新作《绝地潜兵2》](https://www.3dmgame.com/news/202402/3888216.html)
+
++ [2024年度总票房破50亿：《热辣滚烫》排名第二位](https://www.3dmgame.com/news/202402/3888214.html)
+
++ [2024年1月欧洲市场主机销量数据估测 PS5最畅销](https://www.3dmgame.com/news/202402/3888213.html)
+
++ [《方舟：生存飞升》MOD工具更新 可创建全新体验](https://www.3dmgame.com/news/202402/3888211.html)
+
++ [《星刃》预购销量惊人 甚至超越了《最终幻想7：重生》](https://www.3dmgame.com/news/202402/3888209.html)
+
++ [2024年春节档《飞驰人生2》最高分 刘德华新片仅6.9](https://www.3dmgame.com/news/202402/3888210.html)
+
++ [《致命公司》开发者认为更新档应该做大一些再发](https://www.3dmgame.com/news/202402/3888208.html)
+
++ [《绝地潜兵2》已售出约100万份 超出开发商预期](https://www.3dmgame.com/news/202402/3888207.html)
+

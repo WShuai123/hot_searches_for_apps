@@ -41,3 +41,5 @@
 
 + [《幻兽帕鲁》热度下降，Steam 玩家两周流失 134 万](https://m.ithome.com/html/749966.htm)
 
++ [因开发 Vision Pro 头显，苹果员工获赠“特别”礼物](https://m.ithome.com/html/749960.htm)
+

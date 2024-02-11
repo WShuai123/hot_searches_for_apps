@@ -13,3 +13,5 @@
 
 + [Prompt新连接，生成式AI重构营销新体验](https://www.ui.cn/detail/661791.html)
 
++ [贴吧品牌广告设计 | 游戏品牌在贴吧应该这样玩！](https://www.ui.cn/detail/662183.html)
+

@@ -111,3 +111,17 @@
 
 + [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3)
 
++ [Swipe & Delete](https://www.producthunt.com/posts/swipe-delete)
+
++ [WordHoop](https://www.producthunt.com/posts/wordhoop)
+
++ [Motion Illustrations For Notion](https://www.producthunt.com/posts/motion-illustrations-for-notion)
+
++ [Quickjobs.App](https://www.producthunt.com/posts/quickjobs-app)
+
++ [GPTs App](https://www.producthunt.com/posts/gpts-app)
+
++ [3DAiLY Beta](https://www.producthunt.com/posts/3daily-beta)
+
++ [RelaGit](https://www.producthunt.com/posts/relagit)
+
