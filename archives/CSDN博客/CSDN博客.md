@@ -133,3 +133,7 @@
 
 + [基于Python爬虫广西桂林景点数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136009519)
 
++ [ARM交叉编译搭建SSH](https://blog.csdn.net/qq_38202733/article/details/136083964)
+
++ [CoGPT: 通过GitHub Copilot免费使用gpt-4](https://blog.csdn.net/u013988645/article/details/136093482)
+
