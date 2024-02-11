@@ -105,3 +105,11 @@
 
 + [传闻：Switch2支持向下兼容 支持实体版和数字版](https://www.3dmgame.com/news/202402/3888230.html)
 
++ [索尼6亿美元买下迈克尓·杰克逊半数曲目](https://www.3dmgame.com/news/202402/3888235.html)
+
++ [《赛博朋克2077》复古降级版视频 还原世嘉CD风格](https://www.3dmgame.com/news/202402/3888234.html)
+
++ [R星《湾岸午夜俱乐部2》获得RTX光追mod](https://www.3dmgame.com/news/202402/3888233.html)
+
++ [《无职转生》游戏版发行日公布 6/20登陆各大平台](https://www.3dmgame.com/news/202402/3888232.html)
+

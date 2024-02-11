@@ -101,3 +101,5 @@
 
 + [Hey.bio](https://www.producthunt.com/posts/hey-bio)
 
++ [easybranding.io](https://www.producthunt.com/posts/easybranding-io)
+
