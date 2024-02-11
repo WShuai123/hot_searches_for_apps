@@ -109,3 +109,5 @@
 
 + [Rizzle AI](https://www.producthunt.com/posts/rizzle-ai-2)
 
++ [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3)
+
