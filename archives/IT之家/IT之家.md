@@ -43,3 +43,11 @@
 
 + [因开发 Vision Pro 头显，苹果员工获赠“特别”礼物](https://m.ithome.com/html/749960.htm)
 
++ [日产市值一夜蒸发 130 亿，“全赖中国”](https://m.ithome.com/html/749983.htm)
+
++ [科技圈大佬齐贺龙年：比尔・盖茨写“福”字，马斯克、库克发博庆祝](https://m.ithome.com/html/749963.htm)
+
++ [2.5 亿个闲置的 IPv4 地址可能被释放，但仍面临重重阻碍](https://m.ithome.com/html/749972.htm)
+
++ [消息称任天堂 Switch 2 预计今年晚些时候推出，采用英伟达定制芯片](https://m.ithome.com/html/749976.htm)
+

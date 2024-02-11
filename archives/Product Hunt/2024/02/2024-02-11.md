@@ -125,3 +125,7 @@
 
 + [RelaGit](https://www.producthunt.com/posts/relagit)
 
++ [Share QR Cards: Digital Networking Tool](https://www.producthunt.com/posts/share-qr-cards-digital-networking-tool)
+
++ [SayF](https://www.producthunt.com/posts/sayf-2)
+

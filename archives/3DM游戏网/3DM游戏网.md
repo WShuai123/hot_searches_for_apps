@@ -173,3 +173,9 @@
 
 + [《绝地潜兵2》已售出约100万份 超出开发商预期](https://www.3dmgame.com/news/202402/3888207.html)
 
++ [《最强☆天使 沙利叶！》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202402/3888219.html)
+
++ [《最终幻想7：重生》创作者探讨剧情方面的改动力度](https://www.3dmgame.com/news/202402/3888218.html)
+
++ [《战国无双》系列20周年纪念 官方贺图致辞公布](https://www.3dmgame.com/news/202402/3888217.html)
+
