@@ -179,3 +179,7 @@
 
 + [《战国无双》系列20周年纪念 官方贺图致辞公布](https://www.3dmgame.com/news/202402/3888217.html)
 
++ [告别6GB时代！曝iPhone 16/16 Plus内存升级](https://www.3dmgame.com/news/202402/3888220.html)
+
++ [传闻：任天堂正在测试Switch 2的向后兼容性](https://www.3dmgame.com/news/202402/3888221.html)
+

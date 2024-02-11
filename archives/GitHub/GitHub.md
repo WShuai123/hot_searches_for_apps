@@ -51,3 +51,25 @@
 
 + [tteck / Proxmox](https://github.com/tteck/Proxmox)
 
++ [subquery / subql](https://github.com/subquery/subql)
+
++ [microsoft / sudo](https://github.com/microsoft/sudo)
+
++ [projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx)
+
++ [odin-lang / Odin](https://github.com/odin-lang/Odin)
+
++ [sangammukherjee / 25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects)
+
++ [AntonioErdeljac / next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform)
+
++ [bevyengine / bevy](https://github.com/bevyengine/bevy)
+
++ [MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension)
+
++ [dockersamples / example-voting-app](https://github.com/dockersamples/example-voting-app)
+
++ [magicbear / palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit)
+
++ [conductor-oss / conductor](https://github.com/conductor-oss/conductor)
+
