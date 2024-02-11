@@ -137,3 +137,7 @@
 
 + [《仙剑4重制版》新年贺图 玩家：希望重制顺利不要魔改](https://www.3dmgame.com/news/202402/3888187.html)
 
++ [“蛟龙号”将下潜46潜次：开展生物环境调查](https://www.3dmgame.com/news/202402/3888199.html)
+
++ [前《守望先锋2》画师控诉暴雪：每一步都那么离谱](https://www.3dmgame.com/news/202402/3888200.html)
+

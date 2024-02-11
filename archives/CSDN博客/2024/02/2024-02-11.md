@@ -137,3 +137,7 @@
 
 + [CoGPT: 通过GitHub Copilot免费使用gpt-4](https://blog.csdn.net/u013988645/article/details/136093482)
 
++ [【原创 附源码】Flutter海外登录--Google登录最详细流程](https://blog.csdn.net/mumubumaopao/article/details/136078053)
+
++ [【51单片机】AT24C02（江科大、爱上半导体）](https://blog.csdn.net/2302_80796399/article/details/136091365)
+
