@@ -61,3 +61,7 @@
 
 + [【夏浅澈】岁岁朝夕   新年第一稿，祝大家节日快乐！](http://www.acfun.cn/v/ac43748892)
 
++ [【小子贼疯×不辣】练声曲（cover：裘德&窦靖童）](http://www.acfun.cn/v/ac43749664)
+
++ [元宝吓坏了](http://www.acfun.cn/v/ac43749820)
+

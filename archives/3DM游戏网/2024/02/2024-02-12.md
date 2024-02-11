@@ -101,3 +101,7 @@
 
 + [《星空》丢失了97%的Steam玩家 不到1万人在线](https://www.3dmgame.com/news/202402/3888180.html)
 
++ [《地狱潜者2》销量破百万 Steam好评率增至75%](https://www.3dmgame.com/news/202402/3888231.html)
+
++ [传闻：Switch2支持向下兼容 支持实体版和数字版](https://www.3dmgame.com/news/202402/3888230.html)
+
