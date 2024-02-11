@@ -171,3 +171,15 @@
 
 + [第五章：变换矩阵](https://blog.csdn.net/A112459/article/details/136085162)
 
++ [图像分割——基于pytorch的牙齿分割](https://blog.csdn.net/weixin_73994643/article/details/136050774)
+
++ [基于鲲鹏服务器的LNMP配置](https://blog.csdn.net/made4971/article/details/136085508)
+
++ [滑块识别验证](https://blog.csdn.net/weixin_74144099/article/details/136093307)
+
++ [Python爬虫之关系型数据库存储#5](https://blog.csdn.net/lizhongjun1005/article/details/136090568)
+
++ [redmi note 4x（mido） kali nethunter](https://blog.csdn.net/qq_24768591/article/details/136089973)
+
++ [面向数据报编程-UDP协议](https://blog.csdn.net/zcx777123/article/details/136089306)
+

@@ -51,3 +51,7 @@
 
 + [消息称任天堂 Switch 2 预计今年晚些时候推出，采用英伟达定制芯片](https://m.ithome.com/html/749976.htm)
 
++ [消息称华为 P70 手机全系 1.5K 曲面屏 + 卫星通信，芯片频率有差别](https://m.ithome.com/html/749990.htm)
+
++ [ASML 展示价值 3.5 亿欧元的 High-NA EUV 光刻机，重达 15 万公斤](https://m.ithome.com/html/749984.htm)
+
