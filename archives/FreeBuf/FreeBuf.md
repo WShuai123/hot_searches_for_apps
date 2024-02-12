@@ -47,3 +47,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [网络安全漏洞管理十大度量指标](https://www.freebuf.com/articles/network/389477.html)
+

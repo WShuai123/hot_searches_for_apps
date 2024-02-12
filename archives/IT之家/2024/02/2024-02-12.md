@@ -39,3 +39,5 @@
 
 + [索尼影业拿下贾玲新片《热辣滚烫》全球发行权](https://m.ithome.com/html/750049.htm)
 
++ [核显超到 3.3GHz：大神成功对 AMD 锐龙处理器集成的 Radeon 780M 实现超频](https://m.ithome.com/html/750027.htm)
+
