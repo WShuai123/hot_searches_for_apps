@@ -133,3 +133,11 @@
 
 + [线性判别分析（LDA）](https://blog.csdn.net/gongdiwudu/article/details/136103379)
 
++ [AI 大模型 对话](https://blog.csdn.net/qq_38373149/article/details/136101151)
+
++ [一个Spring Boot Admin 监控多个Nacos集群](https://blog.csdn.net/weixin_40972073/article/details/136099768)
+
++ [微信小程序实战笔记（1）](https://blog.csdn.net/Regend/article/details/136091711)
+
++ [【Web】超级详细的Linux权限提升一站式笔记](https://blog.csdn.net/uuzeray/article/details/136098183)
+
