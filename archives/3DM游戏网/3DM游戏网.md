@@ -135,3 +135,19 @@
 
 + [《死侍3》首支预告片发布 定名《死侍与死党》](https://www.3dmgame.com/news/202402/3888238.html)
 
++ [玩家自制《冥界狂想曲》虚幻引擎5开场渲染视频](https://www.3dmgame.com/news/202402/3888252.html)
+
++ [《上古卷轴5》MOD作者加入《上古卷轴6》开发团队](https://www.3dmgame.com/news/202402/3888253.html)
+
++ [《功夫熊猫4》影评解禁时间公布 比上映时间早两天](https://www.3dmgame.com/news/202402/3888254.html)
+
++ [《守望先锋》D.VA等身人偶 穿紧身衣秀性感身材](https://www.3dmgame.com/news/202402/3888247.html)
+
++ [动作冒险游戏《节奏战士》Steam新品节预告 4月4日发售](https://www.3dmgame.com/news/202402/3888248.html)
+
++ [《杭州新闻联播》首推全AI主持播报：表情生动 肢体自然](https://www.3dmgame.com/news/202402/3888249.html)
+
++ [《逃离塔科夫》即将上线0.14.1版本 移除地图上的积雪](https://www.3dmgame.com/news/202402/3888250.html)
+
++ [Windows 11要内置DLSS了！但是GPU要求不低](https://www.3dmgame.com/news/202402/3888251.html)
+

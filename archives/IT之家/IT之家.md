@@ -33,3 +33,7 @@
 
 + [不止苹果 Vision Pro，消息称国内头部手机厂商也在布局头显](https://m.ithome.com/html/750016.htm)
 
++ [《杭州新闻联播》首推全 AI 主持播报，真人主播能回家过年了](https://m.ithome.com/html/750045.htm)
+
++ [腾讯视频公布《金庸武侠世界》预告：《铁血丹心》《东邪西毒》等 5 大篇章，共 60 集](https://m.ithome.com/html/750038.htm)
+
