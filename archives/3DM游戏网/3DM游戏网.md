@@ -151,3 +151,7 @@
 
 + [Windows 11要内置DLSS了！但是GPU要求不低](https://www.3dmgame.com/news/202402/3888251.html)
 
++ [天妒英才 24岁马拉松世界纪录保持者车祸去世](https://www.3dmgame.com/news/202402/3888256.html)
+
++ [第一人称恐怖射击游戏《Beneath》公布场景破坏视频](https://www.3dmgame.com/news/202402/3888255.html)
+
