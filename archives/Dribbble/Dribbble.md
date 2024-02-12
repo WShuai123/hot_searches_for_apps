@@ -119,3 +119,5 @@
 
 + [Microphone Character Illustration](https://dribbble.com/shots/)
 
++ [Hangar Sisters Logo Design](https://dribbble.com/shots/)
+

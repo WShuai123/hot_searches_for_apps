@@ -175,3 +175,13 @@
 
 + [iPhone 16 Pro Max影像规格曝光：索尼IMX903定制主摄](https://www.3dmgame.com/news/202402/3888266.html)
 
++ [危机初现？《失落的方舟》日服将于下月停运](https://www.3dmgame.com/news/202402/3888270.html)
+
++ [投入2500万欧元 谷歌承诺帮助欧洲民众提高人工智能技能](https://www.3dmgame.com/news/202402/3888271.html)
+
++ [Xbox下一代主机设计或由Surface设计团队负责](https://www.3dmgame.com/news/202402/3888272.html)
+
++ [实现更强效果 Yuzu模拟器添加帧生成技术支持](https://www.3dmgame.com/news/202402/3888268.html)
+
++ [《寂静岭：短讯》下载量已突破200万 免费上线PS5](https://www.3dmgame.com/news/202402/3888269.html)
+
