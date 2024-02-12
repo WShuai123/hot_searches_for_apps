@@ -111,3 +111,45 @@
 
 + [App Details - App Store Stat for Any App](https://www.producthunt.com/posts/app-details-app-store-stat-for-any-app)
 
++ [One Minute Focus](https://www.producthunt.com/posts/one-minute-focus)
+
++ [Gooday](https://www.producthunt.com/posts/gooday)
+
++ [SyncBob](https://www.producthunt.com/posts/syncbob)
+
++ [wunderboards](https://www.producthunt.com/posts/wunderboards)
+
++ [Platapi](https://www.producthunt.com/posts/platapi)
+
++ [RocketLaunch.org](https://www.producthunt.com/posts/rocketlaunch-org)
+
++ [Now and When](https://www.producthunt.com/posts/now-and-when)
+
++ [ScamNet: Anti-Scam App](https://www.producthunt.com/posts/scamnet-anti-scam-app)
+
++ [LittleFire - Cloud Firestore for iOS](https://www.producthunt.com/posts/littlefire-cloud-firestore-for-ios)
+
++ [AgilityPortal](https://www.producthunt.com/posts/agilityportal-2)
+
++ [Cascaid](https://www.producthunt.com/posts/cascaid)
+
++ [Narrativ](https://www.producthunt.com/posts/narrativ-2)
+
++ [DreamPal: Roleplay Character AI chat bot](https://www.producthunt.com/posts/dreampal-roleplay-character-ai-chat-bot)
+
++ [Plus AI for Google Docs](https://www.producthunt.com/posts/plus-ai-for-google-docs)
+
++ [DevFast](https://www.producthunt.com/posts/devfast)
+
++ [Kyndr](https://www.producthunt.com/posts/kyndr)
+
++ [Doinfine](https://www.producthunt.com/posts/doinfine)
+
++ [CRTVE HUB](https://www.producthunt.com/posts/crtve-hub)
+
++ [Ava, The Sales Rep Artisan](https://www.producthunt.com/posts/ava-the-sales-rep-artisan)
+
++ [Build Civitas (beta)](https://www.producthunt.com/posts/build-civitas-beta)
+
++ [Undesk 0.1](https://www.producthunt.com/posts/undesk-0-1)
+

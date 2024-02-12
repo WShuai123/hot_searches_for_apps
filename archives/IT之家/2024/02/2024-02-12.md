@@ -43,3 +43,7 @@
 
 + [消息称小米 14 Ultra 手机最高 16GB + 1TB 存储，拥有钛合金特别版](https://m.ithome.com/html/750066.htm)
 
++ [我国正开展新一代通信卫星研制，将成 6G 通信网络重要组成部分之一](https://m.ithome.com/html/750058.htm)
+
++ [华为余承东晒自驾问界 M9“奇葩”经历：手长时间离开方向盘，导致智能驾驶被禁用](https://m.ithome.com/html/750074.htm)
+
