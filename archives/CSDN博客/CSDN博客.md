@@ -129,3 +129,7 @@
 
 + [网络的基本概念和socket编程](https://blog.csdn.net/m0_74234328/article/details/135689468)
 
++ [基于微信小程序有声读物系统设计与实现（PHP+Mysql后台）](https://blog.csdn.net/u013818205/article/details/136004411)
+
++ [线性判别分析（LDA）](https://blog.csdn.net/gongdiwudu/article/details/136103379)
+

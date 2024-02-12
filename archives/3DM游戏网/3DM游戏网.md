@@ -103,3 +103,11 @@
 
 + [《漫威蜘蛛侠2》民间版配置需求 1080P需2070S](https://www.3dmgame.com/news/202402/3888287.html)
 
++ [《死灵法师之剑》3D重制版面向各大平台公布](https://www.3dmgame.com/news/202402/3888291.html)
+
++ [剧情驱动RPG《奇唤士》发行日推迟至3/4](https://www.3dmgame.com/news/202402/3888290.html)
+
++ [《博德之门3》Steam评论达50万条 好评度达96%](https://www.3dmgame.com/news/202402/3888289.html)
+
++ [微软宣布“聚焦Xbox业务未来”节目上线日期](https://www.3dmgame.com/news/202402/3888288.html)
+
