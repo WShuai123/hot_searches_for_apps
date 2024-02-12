@@ -215,3 +215,9 @@
 
 + [Linux网络编程——tcp套接字](https://blog.csdn.net/Dirty_artist/article/details/136097541)
 
++ [SpringCloud-项目引入Nacos](https://blog.csdn.net/weixin_41793160/article/details/136100779)
+
++ [Elasticsearch：使用查询规则（query rules）进行搜索](https://blog.csdn.net/UbuntuTouch/article/details/136096735)
+
++ [nn.BatchNorm1d 与 nn.BatchNorm2d 使用方法与原理](https://blog.csdn.net/qq_36396406/article/details/136095420)
+
