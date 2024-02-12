@@ -179,3 +179,7 @@
 
 + [2024龙年春晚刘谦魔术数学建模](https://blog.csdn.net/Peter20_03/article/details/136091322)
 
++ [PyTorch深度学习实战（26）——多对象实例分割](https://blog.csdn.net/LOVEmy134611/article/details/136098780)
+
++ [【Web】超级详细的Linux权限提升一站式笔记](https://blog.csdn.net/uuzeray/article/details/136098183)
+
