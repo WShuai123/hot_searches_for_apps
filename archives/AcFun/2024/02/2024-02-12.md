@@ -65,3 +65,5 @@
 
 + [元宝吓坏了](http://www.acfun.cn/v/ac43749820)
 
++ [【东方】爵士 BLUE CLIENT メドレー【Active NEETs】](http://www.acfun.cn/v/ac43748721)
+

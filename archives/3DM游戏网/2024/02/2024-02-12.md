@@ -113,3 +113,7 @@
 
 + [《无职转生》游戏版发行日公布 6/20登陆各大平台](https://www.3dmgame.com/news/202402/3888232.html)
 
++ [《最终幻想7：重生》角色关键艺术图 风格多样很华丽](https://www.3dmgame.com/news/202402/3888237.html)
+
++ [内部人士称《星空》不会登陆PS5 但其它Xbox游戏有可能](https://www.3dmgame.com/news/202402/3888236.html)
+

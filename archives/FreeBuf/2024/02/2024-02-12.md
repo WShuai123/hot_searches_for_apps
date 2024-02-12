@@ -41,3 +41,5 @@
 
 + [CodeQL从入门到入土](https://www.freebuf.com/articles/web/391242.html)
 
++ [解密 Alpha 勒索软件](https://www.freebuf.com/articles/network/391127.html)
+
