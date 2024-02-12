@@ -59,3 +59,7 @@
 
 + [耳机品牌“水月雨”首款手机 MIAD01 预热：定位 5G HiFi 移动音频设备](https://m.ithome.com/html/750063.htm)
 
++ [宝马 i16 官图发布：一代经典插混跑车 i8“继承者”，最终被取消](https://m.ithome.com/html/750065.htm)
+
++ [AMD 锐龙 R7 8700G APU 首次实现“开盖”，液金散热可使温度降低 25℃](https://m.ithome.com/html/750035.htm)
+
