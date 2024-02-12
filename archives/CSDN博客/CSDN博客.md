@@ -101,3 +101,31 @@
 
 + [第三周学习](https://blog.csdn.net/2401_82813264/article/details/136093270)
 
++ [计算机网络——网络安全](https://blog.csdn.net/weixin_74888502/article/details/136102801)
+
++ [就业|高校毕业生就业信息小程序|基于微信小程序的高校毕业生就业信息的设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136103535)
+
++ [Python中使用opencv-python进行人脸检测](https://blog.csdn.net/ccf19881030/article/details/136093085)
+
++ [深入理解 Nginx 插件及功能优化指南](https://blog.csdn.net/weixin_43883917/article/details/136097845)
+
++ [机器学习简介](https://blog.csdn.net/rubys007/article/details/136034895)
+
++ [Mybatis详解](https://blog.csdn.net/qq_59961910/article/details/136098540)
+
++ [vue3-应用规模化-单文件组件](https://blog.csdn.net/wdk996/article/details/136096958)
+
++ [【智能优化算法】中华穿山甲Chinese Pangolin Optimizer (CPO)附matlab代码](https://blog.csdn.net/m0_60703264/article/details/136100661)
+
++ [【智能优化算法】中华穿山甲Chinese Pangolin Optimizer (CPO)附matlab代码](https://blog.csdn.net/qq_59747472/article/details/136100660)
+
++ [腾讯云4核8G服务器多少钱？2024精准报价](https://blog.csdn.net/ba476/article/details/136094194)
+
++ [vue 使用iframe标签切换不同项目，实现步骤（互相嵌套，高度不适应（底部出现白条-随着切换越来越大）传值取值（免登录），内容空白缓存问题）](https://blog.csdn.net/weixin_53579656/article/details/136094748)
+
++ [腾讯云4核8G服务器多少钱一年？](https://blog.csdn.net/tengxunyun/article/details/136094207)
+
++ [【个人笔记】计算机网络五层结构理解](https://blog.csdn.net/m0_72803988/article/details/136098515)
+
++ [网络的基本概念和socket编程](https://blog.csdn.net/m0_74234328/article/details/135689468)
+
