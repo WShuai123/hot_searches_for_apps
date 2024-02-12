@@ -51,3 +51,5 @@
 
 + [玩家自己打造 NPC：网易《逆水寒》手游登上 CCTV6，爆料“捏 AI 江湖友人模式”](https://m.ithome.com/html/750017.htm)
 
++ [巴黎市民投票赞成将重型汽车停车费提高两倍，一小时高达 18 欧元](https://m.ithome.com/html/750023.htm)
+

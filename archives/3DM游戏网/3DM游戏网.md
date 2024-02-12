@@ -185,3 +185,5 @@
 
 + [《寂静岭：短讯》下载量已突破200万 免费上线PS5](https://www.3dmgame.com/news/202402/3888269.html)
 
++ [《布莱泽奥特曼》剧场版确定引进国内 档期待定](https://www.3dmgame.com/news/202402/3888273.html)
+
