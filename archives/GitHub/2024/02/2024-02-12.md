@@ -51,3 +51,25 @@
 
 + [conductor-oss / conductor](https://github.com/conductor-oss/conductor)
 
++ [apple / pkl](https://github.com/apple/pkl)
+
++ [uclaml / SPIN](https://github.com/uclaml/SPIN)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps)
+
++ [bepass-org / oblivion](https://github.com/bepass-org/oblivion)
+
++ [anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+

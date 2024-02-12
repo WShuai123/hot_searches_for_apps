@@ -53,3 +53,9 @@
 
 + [巴黎市民投票赞成将重型汽车停车费提高两倍，一小时高达 18 欧元](https://m.ithome.com/html/750023.htm)
 
++ [AMD Zen 5 架构将支持多种全新指令集，进一步强化 AI 性能](https://m.ithome.com/html/750041.htm)
+
++ [小米 14 手机欧洲售价曝光：12GB+512GB 首发 1099 欧元，没有 Pro 版](https://m.ithome.com/html/750094.htm)
+
++ [耳机品牌“水月雨”首款手机 MIAD01 预热：定位 5G HiFi 移动音频设备](https://m.ithome.com/html/750063.htm)
+

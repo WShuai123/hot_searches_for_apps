@@ -187,3 +187,11 @@
 
 + [《布莱泽奥特曼》剧场版确定引进国内 档期待定](https://www.3dmgame.com/news/202402/3888273.html)
 
++ [台积电计划将3nm月产能提高至10万片晶圆](https://www.3dmgame.com/news/202402/3888277.html)
+
++ [不满裁决！马斯克将脑机接口公司注册地迁至内华达州](https://www.3dmgame.com/news/202402/3888276.html)
+
++ [开放世界探索游戏《Outbound》Steam页面上线 支持中文](https://www.3dmgame.com/news/202402/3888275.html)
+
++ [小岛秀夫《OD》将有大量知名人士参与 游戏界“复仇者联盟”](https://www.3dmgame.com/news/202402/3888274.html)
+
