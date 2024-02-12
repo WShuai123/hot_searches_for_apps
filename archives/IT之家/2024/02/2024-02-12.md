@@ -41,3 +41,5 @@
 
 + [核显超到 3.3GHz：大神成功对 AMD 锐龙处理器集成的 Radeon 780M 实现超频](https://m.ithome.com/html/750027.htm)
 
++ [消息称小米 14 Ultra 手机最高 16GB + 1TB 存储，拥有钛合金特别版](https://m.ithome.com/html/750066.htm)
+

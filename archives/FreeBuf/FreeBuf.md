@@ -49,3 +49,5 @@
 
 + [网络安全漏洞管理十大度量指标](https://www.freebuf.com/articles/network/389477.html)
 
++ [PySQLRecon：一款功能强大的MSSQL安全测试工具](https://www.freebuf.com/sectool/389641.html)
+

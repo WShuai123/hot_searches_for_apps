@@ -159,3 +159,9 @@
 
 + [回合制游戏《Zombies!!!桌游》Steam页面 2月28日发售](https://www.3dmgame.com/news/202402/3888259.html)
 
++ [连姆·尼森不满影评人针对星战贾贾宾克斯的言论](https://www.3dmgame.com/news/202402/3888261.html)
+
++ [《少年谢尔顿》第七季预告 2月15日开播](https://www.3dmgame.com/news/202402/3888262.html)
+
++ [苹果Vision Pro还需四代才能完善：现在只能算原型](https://www.3dmgame.com/news/202402/3888260.html)
+
