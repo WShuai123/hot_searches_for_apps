@@ -25,3 +25,5 @@
 
 + [微软 Win11 将内置 AI“超级分辨率”功能，可增强游戏细节及流畅度](https://m.ithome.com/html/750047.htm)
 
++ [比亚迪仰望 U7 车型续航曝光：CLTC 最高 800 公里，风阻 Cd0.195](https://m.ithome.com/html/750105.htm)
+
