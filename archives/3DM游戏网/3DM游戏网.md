@@ -101,3 +101,5 @@
 
 + [内部人士称《星空》不会登陆PS5 但其它Xbox游戏有可能](https://www.3dmgame.com/news/202402/3888236.html)
 
++ [《漫威蜘蛛侠2》民间版配置需求 1080P需2070S](https://www.3dmgame.com/news/202402/3888287.html)
+
