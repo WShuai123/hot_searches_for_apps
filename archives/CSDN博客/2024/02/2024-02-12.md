@@ -209,3 +209,5 @@
 
 + [鸿蒙harmony--TypeScript对象详解](https://blog.csdn.net/y2653904/article/details/136098627)
 
++ [【FFmpeg】ffplay 命令行参数 ⑧ ( 设置自动旋转视频 -autorotate 参数 | 设置丢弃视频帧 -framedrop 参数 | 设置输入缓冲区 -infbuf 参数 )](https://blog.csdn.net/han1202012/article/details/136094420)
+
