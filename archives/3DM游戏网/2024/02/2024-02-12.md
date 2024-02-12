@@ -165,3 +165,9 @@
 
 + [苹果Vision Pro还需四代才能完善：现在只能算原型](https://www.3dmgame.com/news/202402/3888260.html)
 
++ [Joby Aviation在阿联酋推出空中出租车服务 获6年运营权](https://www.3dmgame.com/news/202402/3888265.html)
+
++ [《权力的游戏》又要拍前传 《新蝙蝠侠》编剧加盟](https://www.3dmgame.com/news/202402/3888264.html)
+
++ [诺兰称赞唐尼《钢铁侠》是史上最伟大选角之一](https://www.3dmgame.com/news/202402/3888263.html)
+
