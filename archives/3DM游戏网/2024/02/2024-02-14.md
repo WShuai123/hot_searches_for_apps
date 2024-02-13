@@ -101,3 +101,11 @@
 
 + [微软宣布“聚焦Xbox业务未来”节目上线日期](https://www.3dmgame.com/news/202402/3888288.html)
 
++ [《森林之子》将于2/22脱离EA阶段推出正式版](https://www.3dmgame.com/news/202402/3888343.html)
+
++ [合作奇幻生存冒险游戏《前往星星》面向PC公布](https://www.3dmgame.com/news/202402/3888342.html)
+
++ [《博德之门3》6号补丁体积21G 需要150G空间安装](https://www.3dmgame.com/news/202402/3888341.html)
+
++ [《死亡岛2》Steam版4/22推出 激流最终版免费领](https://www.3dmgame.com/news/202402/3888340.html)
+
