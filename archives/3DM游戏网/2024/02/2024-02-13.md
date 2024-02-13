@@ -185,3 +185,17 @@
 
 + [iPhone 16 Pro Max可能有史上最长电池续航](https://www.3dmgame.com/news/202402/3888327.html)
 
++ [《生化危机》系列累计销量现已超1.54亿套](https://www.3dmgame.com/news/202402/3888334.html)
+
++ [ARM股价今年已上涨192% 孙正义个人资产增加近40亿美元](https://www.3dmgame.com/news/202402/3888333.html)
+
++ [恶搞塔防动作游戏《家里蹲》2月末开启抢鲜体验](https://www.3dmgame.com/news/202402/3888331.html)
+
++ [女超英又扑了！《蜘蛛夫人》首批社交媒体评价来了](https://www.3dmgame.com/news/202402/3888332.html)
+
++ [潜入新高度！《绝地潜兵2》Steam在线峰值逼近20万](https://www.3dmgame.com/news/202402/3888328.html)
+
++ [日本任天堂宣布停止对2DS和新3DS的维修服务](https://www.3dmgame.com/news/202402/3888329.html)
+
++ [Capcom举办怪物猎人20周年交响乐会](https://www.3dmgame.com/news/202402/3888330.html)
+
