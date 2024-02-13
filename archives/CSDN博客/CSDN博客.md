@@ -149,3 +149,7 @@
 
 + [Linux网络编程——tcp套接字](https://blog.csdn.net/Dirty_artist/article/details/136097541)
 
++ [【机器学习】卷积和反向传播](https://blog.csdn.net/gongdiwudu/article/details/136103157)
+
++ [第十七章 以编程方式使用 SQL 网关 - 支持的 ODBC 函数调用](https://blog.csdn.net/yaoxin521123/article/details/136099532)
+

@@ -47,3 +47,5 @@
 
 + [代码安全审计经验集（下）](https://www.freebuf.com/vuls/391334.html)
 
++ [Patch2QL：开源供应链漏洞挖掘和检测的新方向](https://www.freebuf.com/vuls/391090.html)
+

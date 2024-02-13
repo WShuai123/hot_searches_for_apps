@@ -39,3 +39,7 @@
 
 + [一加 12R 所有机型均配备 UFS 3.1 而不是 4.0，官方为错误信息道歉](https://m.ithome.com/html/750117.htm)
 
++ [微软 Win11 24H2 新增硬件要求：CPU 需支持 POPCNT 指令](https://m.ithome.com/html/750116.htm)
+
++ [比亚迪海狮 07 EV 续航参数曝光：最高 610 公里，已完成工信部申报](https://m.ithome.com/html/750099.htm)
+
