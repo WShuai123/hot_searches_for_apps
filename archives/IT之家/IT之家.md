@@ -35,3 +35,7 @@
 
 + [深蓝 S7 车型百公里油耗超 24 升？CEO 邓承浩进行回应](https://m.ithome.com/html/750112.htm)
 
++ [华为余承东开问界 M9 回深圳，称全程 1314 公里无接管](https://m.ithome.com/html/750129.htm)
+
++ [一加 12R 所有机型均配备 UFS 3.1 而不是 4.0，官方为错误信息道歉](https://m.ithome.com/html/750117.htm)
+

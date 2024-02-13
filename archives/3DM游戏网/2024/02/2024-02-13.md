@@ -141,3 +141,11 @@
 
 + [《驱灵者：新伊甸的幽灵》现已解锁发售 国区199元](https://www.3dmgame.com/news/202402/3888300.html)
 
++ [斯宾塞召开内部会议 保证Xbox主机硬件不会消失](https://www.3dmgame.com/news/202402/3888310.html)
+
++ [《绝地潜兵2》厂商介绍登录困难原因：问题很明显](https://www.3dmgame.com/news/202402/3888309.html)
+
++ [《不朽者传奇》耗资1.25亿美元 前员工：3A单人FPS已不适合当今市场](https://www.3dmgame.com/news/202402/3888308.html)
+
++ [多人元素促成《超级马里奥兄弟：惊奇》火爆销量](https://www.3dmgame.com/news/202402/3888307.html)
+
