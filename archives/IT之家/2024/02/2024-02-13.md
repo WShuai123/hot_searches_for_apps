@@ -53,3 +53,5 @@
 
 + [驱动程序日益完善，摩尔线程 S80 和 S70 显卡一年内实现性能翻倍](https://m.ithome.com/html/750119.htm)
 
++ [三星 Galaxy S24 系列手机屏幕再出问题，用户吐槽“颗粒感”和“横向条纹”](https://m.ithome.com/html/750134.htm)
+

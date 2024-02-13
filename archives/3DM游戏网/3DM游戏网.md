@@ -183,3 +183,5 @@
 
 + [甲壳格斗《螃蟹大战2》现已开启Steam抢鲜体验](https://www.3dmgame.com/news/202402/3888326.html)
 
++ [iPhone 16 Pro Max可能有史上最长电池续航](https://www.3dmgame.com/news/202402/3888327.html)
+
