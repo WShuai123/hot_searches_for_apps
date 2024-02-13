@@ -171,3 +171,7 @@
 
 + [对《最终幻想7：重生》的结局，内部意见并不一致](https://www.3dmgame.com/news/202402/3888316.html)
 
++ [并非二线作品 任天堂将《皮克敏》系列视为旗舰IP](https://www.3dmgame.com/news/202402/3888323.html)
+
++ [《星刃》在韩国完成评级 19岁以上方可游玩本作](https://www.3dmgame.com/news/202402/3888322.html)
+
