@@ -55,3 +55,5 @@
 
 + [三星 Galaxy S24 系列手机屏幕再出问题，用户吐槽“颗粒感”和“横向条纹”](https://m.ithome.com/html/750134.htm)
 
++ [奥迪 A3 推出《飞驰人生 2》电影同款战车涂装，现已开售](https://m.ithome.com/html/750186.htm)
+
