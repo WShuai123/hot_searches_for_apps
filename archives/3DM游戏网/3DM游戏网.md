@@ -111,3 +111,11 @@
 
 + [微软宣布“聚焦Xbox业务未来”节目上线日期](https://www.3dmgame.com/news/202402/3888288.html)
 
++ [消息称满分游戏《Pentiment》将登陆PS5和Switch](https://www.3dmgame.com/news/202402/3888295.html)
+
++ [双人合作组建传送带 游戏《准备发货》一季度发售](https://www.3dmgame.com/news/202402/3888294.html)
+
++ [快节奏肉鸽动作游戏《Kiborg》支持双人合作游玩](https://www.3dmgame.com/news/202402/3888293.html)
+
++ [Capcom公布《街头霸王6》DLC角色“艾德”主题曲](https://www.3dmgame.com/news/202402/3888292.html)
+

@@ -31,3 +31,7 @@
 
 + [2024 年春节档连续 3 天单日票房破 10 亿，《热辣滚烫》《飞驰人生 2》《熊出没・逆转时空》前三](https://m.ithome.com/html/750115.htm)
 
++ [消息称苹果 iPhone 16 Pro Max 将拥有 iPhone 有史以来最强手机续航能力，仍配备 8GB 内存](https://m.ithome.com/html/750123.htm)
+
++ [深蓝 S7 车型百公里油耗超 24 升？CEO 邓承浩进行回应](https://m.ithome.com/html/750112.htm)
+

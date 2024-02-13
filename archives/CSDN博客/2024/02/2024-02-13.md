@@ -141,3 +141,5 @@
 
 + [【Web】超级详细的Linux权限提升一站式笔记](https://blog.csdn.net/uuzeray/article/details/136098183)
 
++ [微软 & CMU - Tag-LLM：将通用大语言模型改用于专业领域](https://blog.csdn.net/fyfugoyfa/article/details/136090761)
+
