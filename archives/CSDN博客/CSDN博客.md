@@ -143,3 +143,5 @@
 
 + [微软 & CMU - Tag-LLM：将通用大语言模型改用于专业领域](https://blog.csdn.net/fyfugoyfa/article/details/136090761)
 
++ [线性代数的本质——1 向量](https://blog.csdn.net/qq_43010742/article/details/136100454)
+

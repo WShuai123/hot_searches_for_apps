@@ -123,3 +123,21 @@
 
 + [《驱灵者：新伊甸的幽灵》媒体评分解禁 IGN 7分](https://www.3dmgame.com/news/202402/3888296.html)
 
++ [《自杀小队：战胜正义联盟》修复燃烧伤害漏洞 重开排行榜](https://www.3dmgame.com/news/202402/3888305.html)
+
++ [传闻：下一个《FIFA》游戏由2K打造](https://www.3dmgame.com/news/202402/3888306.html)
+
++ [Steam 2024年远程同乐游戏节现已开启](https://www.3dmgame.com/news/202402/3888301.html)
+
++ [法国游戏开发工会指责《驱灵者》开发商管理混乱](https://www.3dmgame.com/news/202402/3888302.html)
+
++ [PS5 Slim首次在欧洲打折促销 降价75欧元](https://www.3dmgame.com/news/202402/3888303.html)
+
++ [《DC超级英雄Online》开发商裁员 多位高层离职](https://www.3dmgame.com/news/202402/3888304.html)
+
++ [前华纳拳头开发者独立工作室Threshold现已关闭](https://www.3dmgame.com/news/202402/3888298.html)
+
++ [iPhone 16系列欲融入SE机型：续航激增8G内存5199元起](https://www.3dmgame.com/news/202402/3888299.html)
+
++ [《驱灵者：新伊甸的幽灵》现已解锁发售 国区199元](https://www.3dmgame.com/news/202402/3888300.html)
+
