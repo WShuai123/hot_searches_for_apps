@@ -81,3 +81,9 @@
 
 + [The Lunar Space Suit](https://dribbble.com/shots/)
 
++ [Wine & Donuts](https://dribbble.com/shots/)
+
++ [Harry Potter - Dust Jacket Collections](https://dribbble.com/shots/)
+
++ [Ava automation process](https://dribbble.com/shots/)
+
