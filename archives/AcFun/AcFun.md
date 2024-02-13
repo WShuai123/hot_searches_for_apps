@@ -109,3 +109,9 @@
 
 + [说什么今天也要理发【今天有什么好笑的 #1460】](http://www.acfun.cn/v/ac43759035)
 
++ [江湖人称老鼠鬼见愁，所到之处老鼠闻风丧胆](http://www.acfun.cn/v/ac43759533)
+
++ [i人和e人的不同表现](http://www.acfun.cn/v/ac43759423)
+
++ [催眠麦克风](http://www.acfun.cn/v/ac43759489)
+

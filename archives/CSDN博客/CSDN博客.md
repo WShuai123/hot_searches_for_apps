@@ -179,3 +179,13 @@
 
 + [Google刚刚推出了图神经网络Tensorflow-GNN](https://blog.csdn.net/2301_79342058/article/details/136094518)
 
++ [Elasticsearch：混合搜索是 GenAI 应用的未来](https://blog.csdn.net/UbuntuTouch/article/details/136094481)
+
++ [Postgres 和 MySQL 应该怎么选？](https://blog.csdn.net/Wyxl990/article/details/136093455)
+
++ [基于无线传感器网络的LC-DANSE波束形成算法matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/136103355)
+
++ [使用 FFmpeg 将视频转换为 GIF 动画的技巧](https://blog.csdn.net/windowshht/article/details/136099629)
+
++ [【linux系统体验】-ubuntu简易折腾](https://blog.csdn.net/qq_41753052/article/details/136100987)
+

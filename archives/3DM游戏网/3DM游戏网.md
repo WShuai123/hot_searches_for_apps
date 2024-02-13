@@ -179,3 +179,7 @@
 
 + [华纳将继续推出DC游戏，但暂时不会制作《超人》游戏](https://www.3dmgame.com/news/202402/3888324.html)
 
++ [杉果新春特惠：第三轮秒杀上线，Steam 好评如潮游戏0.5折入手](https://www.3dmgame.com/news/202402/3888059.html)
+
++ [甲壳格斗《螃蟹大战2》现已开启Steam抢鲜体验](https://www.3dmgame.com/news/202402/3888326.html)
+

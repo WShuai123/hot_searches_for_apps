@@ -51,3 +51,5 @@
 
 + [小米 Watch 2 智能手表海外曝光：圆形表盘设计，骁龙 W5 + 芯片](https://m.ithome.com/html/750121.htm)
 
++ [驱动程序日益完善，摩尔线程 S80 和 S70 显卡一年内实现性能翻倍](https://m.ithome.com/html/750119.htm)
+

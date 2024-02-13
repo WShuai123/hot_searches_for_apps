@@ -197,3 +197,21 @@
 
 + [Anywhere - Offline Music Player](https://www.producthunt.com/posts/anywhere-offline-music-player)
 
++ [Strafer](https://www.producthunt.com/posts/strafer)
+
++ [NegosAI](https://www.producthunt.com/posts/negosai)
+
++ [Image Anonymization API](https://www.producthunt.com/posts/image-anonymization-api)
+
++ [rootvocab.com](https://www.producthunt.com/posts/rootvocab-com)
+
++ [PDF Pilot](https://www.producthunt.com/posts/pdf-pilot)
+
++ [ChatScribe Pro](https://www.producthunt.com/posts/chatscribe-pro)
+
++ [Epic Gptstore](https://www.producthunt.com/posts/epic-gptstore)
+
++ [Fooodpedia](https://www.producthunt.com/posts/fooodpedia)
+
++ [Trelent](https://www.producthunt.com/posts/trelent-3)
+
