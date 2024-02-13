@@ -101,3 +101,23 @@
 
 + [【开源】JAVA+Vue+SpringBoot实现二手车交易系统](https://blog.csdn.net/2301_77899321/article/details/136100097)
 
++ [探索设计模式的魅力：捕捉变化的风-用观察者模式提升用户体验](https://blog.csdn.net/danci_/article/details/136109339)
+
++ [基于JAVA+Springboot+Thymeleaf前后端分离项目：旅游景点景区购票售票系统设计与实现](https://blog.csdn.net/u013818205/article/details/136024210)
+
++ [flink重温笔记（二）：Flink 流批一体 API 开发——Source 数据源操作](https://blog.csdn.net/m0_60732994/article/details/136110526)
+
++ [前端vite+vue3结合后端node+koa——实现代码模板展示平台（支持模糊搜索+分页查询）](https://blog.csdn.net/qq_38870145/article/details/136110298)
+
++ [【知识整理】产研中心岗位评定标准之产品岗位](https://blog.csdn.net/tjls2008/article/details/136105399)
+
++ [FL Studio21水果音乐编曲制作软件中文版本下载](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/136107387)
+
++ [网络协议与攻击模拟_17HTTPS 协议](https://blog.csdn.net/fencecat/article/details/136044715)
+
++ [微服务Docker](https://blog.csdn.net/weixin_48605536/article/details/136097064)
+
++ [UnityShader——02三大主流编程语言](https://blog.csdn.net/Aubyn11/article/details/136101399)
+
++ [【51单片机】DS18B20（江科大）](https://blog.csdn.net/2302_80796399/article/details/136104430)
+
