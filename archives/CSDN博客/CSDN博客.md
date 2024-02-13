@@ -153,3 +153,13 @@
 
 + [第十七章 以编程方式使用 SQL 网关 - 支持的 ODBC 函数调用](https://blog.csdn.net/yaoxin521123/article/details/136099532)
 
++ [【项目日记(九)】项目整体测试,优化以及缺陷分析](https://blog.csdn.net/m0_61982936/article/details/136101127)
+
++ [【SpringBoot】Validator组件+自定义约束注解实现手机号码校验和密码格式限制](https://blog.csdn.net/weixin_62951900/article/details/136092737)
+
++ [概念和模型](https://blog.csdn.net/xw555666/article/details/136101205)
+
++ [【5G NR】【一文读懂系列】移动通讯中使用的信道编解码技术-Viterbi译码原理](https://blog.csdn.net/u011376987/article/details/136092580)
+
++ [网络协议与攻击模拟_16HTTP协议](https://blog.csdn.net/fencecat/article/details/136026953)
+

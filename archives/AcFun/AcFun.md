@@ -85,3 +85,7 @@
 
 + [【合作】第七回中华特有曲奇春节合作](http://www.acfun.cn/v/ac43755420)
 
++ [☛葙唸伱旳んúàй笑 《I Miss You》](http://www.acfun.cn/v/ac43754875)
+
++ [新年第一练（正常训练视频）](http://www.acfun.cn/v/ac43753776)
+

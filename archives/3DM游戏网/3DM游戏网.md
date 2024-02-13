@@ -151,3 +151,7 @@
 
 + [《绝地潜兵2》创意总监解释为何付费武器并不强](https://www.3dmgame.com/news/202402/3888311.html)
 
++ [EA《极速滑板》将同时登陆移动平台 截图泄露](https://www.3dmgame.com/news/202402/3888313.html)
+
++ [《暗黑破坏神4》传送门换色售价208元 能买两份《幻兽帕鲁》](https://www.3dmgame.com/news/202402/3888312.html)
+
