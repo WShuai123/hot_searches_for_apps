@@ -175,3 +175,7 @@
 
 + [《星刃》在韩国完成评级 19岁以上方可游玩本作](https://www.3dmgame.com/news/202402/3888322.html)
 
++ [绷不住了 《自杀小队》在线人数不敌《阿卡姆骑士》](https://www.3dmgame.com/news/202402/3888325.html)
+
++ [华纳将继续推出DC游戏，但暂时不会制作《超人》游戏](https://www.3dmgame.com/news/202402/3888324.html)
+

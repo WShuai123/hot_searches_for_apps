@@ -179,3 +179,21 @@
 
 + [OMMT](https://www.producthunt.com/posts/ommt)
 
++ [PubCompare.ai](https://www.producthunt.com/posts/pubcompare-ai)
+
++ [Augmend](https://www.producthunt.com/posts/augmend)
+
++ [Hush Asmr](https://www.producthunt.com/posts/hush-asmr)
+
++ [The Internet Writes A Book](https://www.producthunt.com/posts/the-internet-writes-a-book)
+
++ [Banger.Show 2.0](https://www.producthunt.com/posts/banger-show-2-0)
+
++ [Fair Share Calculator](https://www.producthunt.com/posts/fair-share-calculator)
+
++ [Lovebird](https://www.producthunt.com/posts/lovebird-3)
+
++ [DonorDock](https://www.producthunt.com/posts/donordock)
+
++ [Anywhere - Offline Music Player](https://www.producthunt.com/posts/anywhere-offline-music-player)
+

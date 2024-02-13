@@ -49,3 +49,5 @@
 
 + [超级碗料破收视纪录：满眼都是斯威夫特和拼多多](https://m.ithome.com/html/750130.htm)
 
++ [小米 Watch 2 智能手表海外曝光：圆形表盘设计，骁龙 W5 + 芯片](https://m.ithome.com/html/750121.htm)
+
