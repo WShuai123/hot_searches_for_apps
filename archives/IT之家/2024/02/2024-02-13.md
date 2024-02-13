@@ -59,3 +59,9 @@
 
 + [深蓝汽车法务部回应“油耗超 24 升”：数据不真实，车辆轨迹特别](https://m.ithome.com/html/750181.htm)
 
++ [消息称部分手机厂商开始筹备自家影像品牌，联名到期不续约](https://m.ithome.com/html/750194.htm)
+
++ [800 块 DIY 爆火 AI 硬件，全流程开源，网友：新 Linux 时代来了](https://m.ithome.com/html/750169.htm)
+
++ [特斯拉 Model Y 在美国临时降价，马斯克称人们不喜欢在冬季买车](https://m.ithome.com/html/750167.htm)
+
