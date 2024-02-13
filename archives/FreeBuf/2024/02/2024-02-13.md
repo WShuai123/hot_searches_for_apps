@@ -49,3 +49,5 @@
 
 + [Patch2QL：开源供应链漏洞挖掘和检测的新方向](https://www.freebuf.com/vuls/391090.html)
 
++ [如何使用ProcessStomping在可执行程序的字段部分执行Shellcode](https://www.freebuf.com/sectool/389643.html)
+

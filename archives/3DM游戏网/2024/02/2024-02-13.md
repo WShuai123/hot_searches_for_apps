@@ -155,3 +155,7 @@
 
 + [《暗黑破坏神4》传送门换色售价208元 能买两份《幻兽帕鲁》](https://www.3dmgame.com/news/202402/3888312.html)
 
++ [《碧蓝幻想：Relink》全球销量11天突破100万份](https://www.3dmgame.com/news/202402/3888314.html)
+
++ [搭讪神器成为历史 微信即将终结“摇一摇”功能](https://www.3dmgame.com/news/202402/3888315.html)
+
