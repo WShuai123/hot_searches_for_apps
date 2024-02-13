@@ -159,3 +159,15 @@
 
 + [搭讪神器成为历史 微信即将终结“摇一摇”功能](https://www.3dmgame.com/news/202402/3888315.html)
 
++ [《完美音浪》将是首批登陆第三方的Xbox游戏](https://www.3dmgame.com/news/202402/3888321.html)
+
++ [HL全面转换MOD《熵：零2》公布光追效果截图](https://www.3dmgame.com/news/202402/3888319.html)
+
++ [2024春节档票房突破38亿：《热辣滚烫》位居榜首](https://www.3dmgame.com/news/202402/3888320.html)
+
++ [PC《我的世界》将添加类似Xbox快速返回游戏功能](https://www.3dmgame.com/news/202402/3888318.html)
+
++ [《上古卷轴5：天际》马卡斯城虚幻引擎5版自制视频](https://www.3dmgame.com/news/202402/3888317.html)
+
++ [对《最终幻想7：重生》的结局，内部意见并不一致](https://www.3dmgame.com/news/202402/3888316.html)
+
