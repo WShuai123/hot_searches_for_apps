@@ -49,3 +49,19 @@
 
 + [Finn](https://dribbble.com/shots/)
 
++ [Bite  | Web iIlustrations](https://dribbble.com/shots/)
+
++ [Good fortune](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [Hangry hangry hippo ????????](https://dribbble.com/shots/)
+
++ [Houses icons](https://dribbble.com/shots/)
+
++ [Nobody Loves New York Like New York](https://dribbble.com/shots/)
+
++ [Jackson Layne Construction](https://dribbble.com/shots/)
+
++ [San Fran](https://dribbble.com/shots/)
+
