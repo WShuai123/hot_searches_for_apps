@@ -201,3 +201,9 @@
 
 + [腾讯地图-路线规划,导航公交打车出行](https://itunes.apple.com/cn/app/id481623196?mt=8)
 
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [微店 - 头号玩家带你入坑](https://itunes.apple.com/cn/app/id860384719?mt=8)
+
++ [韩剧TV-弹幕热门高清韩剧短剧抢先看社区](https://itunes.apple.com/cn/app/id1596494451?mt=8)
+
