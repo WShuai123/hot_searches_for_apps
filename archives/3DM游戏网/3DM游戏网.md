@@ -101,3 +101,5 @@
 
 + [《死亡岛2》Steam版4/22推出 激流最终版免费领](https://www.3dmgame.com/news/202402/3888340.html)
 
++ [《为了世界的全部的少女》2月15日登陆主机 预告发布](https://www.3dmgame.com/news/202402/3888391.html)
+

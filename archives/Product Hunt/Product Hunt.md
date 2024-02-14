@@ -101,3 +101,5 @@
 
 + [StorageLink](https://www.producthunt.com/posts/storagelink)
 
++ [Fingy](https://www.producthunt.com/posts/fingy)
+
