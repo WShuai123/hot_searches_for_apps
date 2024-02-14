@@ -43,3 +43,5 @@
 
 + [英特尔酷睿 i9-14900KS 处理器曝光： 24 核 32 线程，频率最高 6.2 GHz](https://m.ithome.com/html/750174.htm)
 
++ [“美版拼多多”Wish 以 1.73 亿美元卖身给 Qoo10，较其峰值价格低 99%](https://m.ithome.com/html/750198.htm)
+

@@ -51,3 +51,5 @@
 
 + [软件安装包伪装下的Kimsuky（APT-Q-2）窃密行动](https://www.freebuf.com/articles/paper/390968.html)
 
++ [如何使用PipeViewer查看Windows命名管道的详细信息](https://www.freebuf.com/sectool/389642.html)
+

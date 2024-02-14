@@ -151,3 +151,9 @@
 
 + [《在地下城寻求邂逅：战斗编年史》现已登陆PS4和PS5主机](https://www.3dmgame.com/news/202402/3888364.html)
 
++ [《黑神话：悟空》发布贺岁短片：网友深挖各种隐喻](https://www.3dmgame.com/news/202402/3888367.html)
+
++ [薪水谈判无果 法国工会呼吁育碧员工举行罢工](https://www.3dmgame.com/news/202402/3888366.html)
+
++ [《绝地潜兵2》大获成功 开发商正在招聘更多员工](https://www.3dmgame.com/news/202402/3888365.html)
+
