@@ -39,3 +39,7 @@
 
 + [DXOMARK 公布三星 Galaxy S24 / Plus 手机屏幕得分，位列全球第 2](https://m.ithome.com/html/750204.htm)
 
++ [内置 iPad mini 6 同款 A15 芯片，苹果有屏版 HomePod 更多细节曝光](https://m.ithome.com/html/750225.htm)
+
++ [英特尔酷睿 i9-14900KS 处理器曝光： 24 核 32 线程，频率最高 6.2 GHz](https://m.ithome.com/html/750174.htm)
+
