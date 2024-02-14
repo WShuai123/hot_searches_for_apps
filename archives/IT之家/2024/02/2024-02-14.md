@@ -35,3 +35,7 @@
 
 + [ASML 价值 3.5 亿欧元的 High-NA EUV 光刻机已获得 10~20 个订单，预计到 2028 年可将年产量提高到 20 台](https://m.ithome.com/html/750206.htm)
 
++ [《熊出没・逆转时空》打破春节档动画片档期票房纪录，累计超 7.48 亿](https://m.ithome.com/html/750196.htm)
+
++ [DXOMARK 公布三星 Galaxy S24 / Plus 手机屏幕得分，位列全球第 2](https://m.ithome.com/html/750204.htm)
+

@@ -149,3 +149,5 @@
 
 + [日本1月销量榜：《如龙8》首发综合销量第一](https://www.3dmgame.com/news/202402/3888360.html)
 
++ [《在地下城寻求邂逅：战斗编年史》现已登陆PS4和PS5主机](https://www.3dmgame.com/news/202402/3888364.html)
+

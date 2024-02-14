@@ -49,3 +49,5 @@
 
 + [IAST实践落地总结](https://www.freebuf.com/articles/es/391330.html)
 
++ [软件安装包伪装下的Kimsuky（APT-Q-2）窃密行动](https://www.freebuf.com/articles/paper/390968.html)
+
