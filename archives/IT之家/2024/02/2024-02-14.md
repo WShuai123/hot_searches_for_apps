@@ -55,3 +55,5 @@
 
 + [英伟达推出 RTX 聊天机器人，可在 RTX 30 和 40 GPU 上免费使用](https://m.ithome.com/html/750211.htm)
 
++ [欧盟确认苹果 iMessage 不适用《数字市场法案》，欧洲人不常用](https://m.ithome.com/html/750207.htm)
+

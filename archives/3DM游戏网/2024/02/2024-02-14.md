@@ -175,3 +175,7 @@
 
 + [伊津野英昭澄清表示《龙之信条2》首发不锁帧率](https://www.3dmgame.com/news/202402/3888376.html)
 
++ [《驱灵者：新伊甸的幽灵》多平台画面表现对比](https://www.3dmgame.com/news/202402/3888378.html)
+
++ [马克·鲁法洛：漫威宇宙将不会有独立浩克电影](https://www.3dmgame.com/news/202402/3888377.html)
+
