@@ -111,3 +111,11 @@
 
 + [《漫威蜘蛛侠》系列销量突破5000万套](https://www.3dmgame.com/news/202402/3888392.html)
 
++ [托尼老师模拟器《美发师模拟器》3月发售](https://www.3dmgame.com/news/202402/3888398.html)
+
++ [《地下城与勇士：决斗》将推出DLC角色武僧](https://www.3dmgame.com/news/202402/3888399.html)
+
++ [类恶魔城新作《流放领主》现已正式上市](https://www.3dmgame.com/news/202402/3888397.html)
+
++ [华纳发布《哥斯拉大战金刚2》第二版官方预告](https://www.3dmgame.com/news/202402/3888396.html)
+
