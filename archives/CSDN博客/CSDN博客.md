@@ -193,3 +193,7 @@
 
 + [ElasticSearch分词器和相关性详解](https://blog.csdn.net/m0_61853556/article/details/136108653)
 
++ [企业级DevOps实战](https://blog.csdn.net/lpx1249115962/article/details/136107830)
+
++ [[Python进阶] 识别验证码](https://blog.csdn.net/crleep/article/details/136103739)
+

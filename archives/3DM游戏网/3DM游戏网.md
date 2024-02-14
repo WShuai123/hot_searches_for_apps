@@ -181,3 +181,17 @@
 
 + [《龙之信条2》强力支援角色弓箭手演示预告](https://www.3dmgame.com/news/202402/3888379.html)
 
++ [《深岩银河：幸存者》 IGN 8分 现已登陆抢先体验](https://www.3dmgame.com/news/202402/3888385.html)
+
++ [苹果主管：Vision Pro有1000多个应用可供选择](https://www.3dmgame.com/news/202402/3888386.html)
+
++ [索尼：下个财年不会推出系列大作 PS5销量将下滑](https://www.3dmgame.com/news/202402/3888384.html)
+
++ [《百英雄传》制作人村山吉隆因多器官衰竭去世](https://www.3dmgame.com/news/202402/3888383.html)
+
++ [恋爱游戏《与你共度的七日间》年内移植任天堂Switch](https://www.3dmgame.com/news/202402/3888382.html)
+
++ [英伟达推RTX聊天机器人 30和40系GPU免费使用](https://www.3dmgame.com/news/202402/3888381.html)
+
++ [本周FAMI评分：《蜡笔小新煤炭镇的小白》33分](https://www.3dmgame.com/news/202402/3888380.html)
+
