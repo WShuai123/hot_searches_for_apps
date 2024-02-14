@@ -141,3 +141,13 @@
 
 + [FL Studio版本升级-FL Studio怎么升级-FL Studio升级方案](https://blog.csdn.net/qq_22184989/article/details/136097973)
 
++ [Spring Boot3自定义异常及全局异常捕获](https://blog.csdn.net/qq_62262918/article/details/136110267)
+
++ [Springboot --- 使用国内的 AI 大模型 对话](https://blog.csdn.net/qq_38373149/article/details/136101151)
+
++ [在Ubuntu 14.04上使用Consul服务发现系统的介绍](https://blog.csdn.net/rubys007/article/details/136086649)
+
++ [python-自动化篇-终极工具-用GUI自动控制键盘和鼠标-pyautogui](https://blog.csdn.net/stqer/article/details/136025549)
+
++ [CSDN文章导出PDF整理状况一览](https://blog.csdn.net/sxzlc/article/details/136107788)
+

@@ -125,3 +125,19 @@
 
 + [SIE注册新商标Intergalactic: The Heretic Prophet](https://www.3dmgame.com/news/202402/3888348.html)
 
++ [《杀出重围》主角扮演者曾被厂商要求少说两句](https://www.3dmgame.com/news/202402/3888359.html)
+
++ [微信今日开放情人节红包：单个红包最高可以发520元](https://www.3dmgame.com/news/202402/3888353.html)
+
++ [美国LGBTQ倡导组织认为LGBTQ游戏数量严重不足](https://www.3dmgame.com/news/202402/3888357.html)
+
++ [《浪人崛起》将不会在韩国发行：与历史争议有关](https://www.3dmgame.com/news/202402/3888358.html)
+
++ [3.65亿！《死侍3》成24小时内观看次数最多的预告片](https://www.3dmgame.com/news/202402/3888356.html)
+
++ [孩之宝公司靠《博德之门3》狂揽9000万美元收入](https://www.3dmgame.com/news/202402/3888355.html)
+
++ [《蜘蛛夫人》口碑翻车！IGN 5分 MTC 29分](https://www.3dmgame.com/news/202402/3888354.html)
+
++ [日本地理定位AR手游去年收入超6亿美元 占全球一半](https://www.3dmgame.com/news/202402/3888352.html)
+
