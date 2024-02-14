@@ -109,3 +109,11 @@
 
 + [《死亡岛2》Steam版4/22推出 激流最终版免费领](https://www.3dmgame.com/news/202402/3888340.html)
 
++ [3月8日播出网飞奇幻爱情片《少女斗恶龙》正式预告](https://www.3dmgame.com/news/202402/3888344.html)
+
++ [《微软飞行模拟》联动《沙丘》扩展现已上线](https://www.3dmgame.com/news/202402/3888345.html)
+
++ [报业经营模拟游戏《新闻大厦》开启抢鲜体验](https://www.3dmgame.com/news/202402/3888346.html)
+
++ [《我的世界》联动环球影城 带来金刚ET等角色](https://www.3dmgame.com/news/202402/3888347.html)
+

@@ -41,3 +41,7 @@
 
 + [用你的手机拿走你的钱：伪装成“安全防护”APK的金融欺诈活动](https://www.freebuf.com/articles/mobile/390431.html)
 
++ [美国制裁了我们几家网络安全公司？网络安全的含金量还在上升......](https://www.freebuf.com/news/391847.html)
+
++ [APT-K-47 组织利用新木马工具发起窃密攻击活动](https://www.freebuf.com/articles/paper/391504.html)
+
