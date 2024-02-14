@@ -133,3 +133,7 @@
 
 + [【网工】华为设备命令学习（综合实验一)](https://blog.csdn.net/m0_74244546/article/details/136109503)
 
++ [第二篇【传奇开心果微博系列】Python微项目技术点案例示例：成语接龙游戏](https://blog.csdn.net/jackchuanqi/article/details/136104713)
+
++ [【HTML】情人节给npy一颗炫酷的爱心](https://blog.csdn.net/qq_44214428/article/details/136111233)
+

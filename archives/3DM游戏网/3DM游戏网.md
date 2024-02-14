@@ -103,3 +103,11 @@
 
 + [《为了世界的全部的少女》2月15日登陆主机 预告发布](https://www.3dmgame.com/news/202402/3888391.html)
 
++ [开发者介绍《EXODUS》沉睡者同伴信息](https://www.3dmgame.com/news/202402/3888395.html)
+
++ [《最终幻想7：重生》试玩版更新将改善图形质量](https://www.3dmgame.com/news/202402/3888394.html)
+
++ [《桃花公主：表演时刻》新预告片展示更多变身效果](https://www.3dmgame.com/news/202402/3888393.html)
+
++ [《漫威蜘蛛侠》系列销量突破5000万套](https://www.3dmgame.com/news/202402/3888392.html)
+

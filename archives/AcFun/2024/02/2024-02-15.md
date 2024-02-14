@@ -69,3 +69,5 @@
 
 + [Senpai～ Suki!!(๑´∀`๑)](http://www.acfun.cn/v/ac43766690)
 
++ [短视频 诀别书](http://www.acfun.cn/v/ac43766806)
+
