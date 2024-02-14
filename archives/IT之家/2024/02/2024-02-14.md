@@ -45,3 +45,9 @@
 
 + [“美版拼多多”Wish 以 1.73 亿美元卖身给 Qoo10，较其峰值价格低 99%](https://m.ithome.com/html/750198.htm)
 
++ [带钻石的大 G：梅赛德斯-奔驰 G 500 璀璨传奇特别版上市，新车售 254 万元](https://m.ithome.com/html/750240.htm)
+
++ [2024 春节档票房破 50 亿，《热辣滚烫》《飞驰人生 2》《熊出没・逆转时空》前三](https://m.ithome.com/html/750254.htm)
+
++ [Counterpoint：三星手机在韩国的市场占有率为 73%，苹果 25%](https://m.ithome.com/html/750188.htm)
+

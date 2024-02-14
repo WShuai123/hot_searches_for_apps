@@ -53,3 +53,5 @@
 
 + [如何使用PipeViewer查看Windows命名管道的详细信息](https://www.freebuf.com/sectool/389642.html)
 
++ [某企业安全规划实战篇](https://www.freebuf.com/articles/379866.html)
+

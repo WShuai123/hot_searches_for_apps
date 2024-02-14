@@ -157,3 +157,19 @@
 
 + [《绝地潜兵2》大获成功 开发商正在招聘更多员工](https://www.3dmgame.com/news/202402/3888365.html)
 
++ [PS5新销售数据曝光 全球出货量已达到5480万台](https://www.3dmgame.com/news/202402/3888375.html)
+
++ [OpenAI老板：《终结者》不会成真 但仍对技术感到担忧](https://www.3dmgame.com/news/202402/3888373.html)
+
++ [《漫威蜘蛛侠2》全球销量已经突破1000万套](https://www.3dmgame.com/news/202402/3888374.html)
+
++ [2024春节档总票房破50亿！贾玲《热辣滚烫》排名第一](https://www.3dmgame.com/news/202402/3888372.html)
+
++ [《原子之心》DLC“困在地狱边缘”获IGN 3分评价](https://www.3dmgame.com/news/202402/3888371.html)
+
++ [《魔兽世界》叙事总监已于去年秋天悄悄离开暴雪](https://www.3dmgame.com/news/202402/3888370.html)
+
++ [Xbox系统更新将优化游戏运行时的下载速度](https://www.3dmgame.com/news/202402/3888369.html)
+
++ [微软广告推广能写游戏代码的AI 引来开发者嘲讽](https://www.3dmgame.com/news/202402/3888368.html)
+

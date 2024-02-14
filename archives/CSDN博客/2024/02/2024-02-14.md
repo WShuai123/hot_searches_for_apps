@@ -171,3 +171,9 @@
 
 + [中科大计网学习记录笔记（十）：P2P 应用](https://blog.csdn.net/weixin_74895237/article/details/136103920)
 
++ [第七篇：SQL语法-DML-数据操作语言](https://blog.csdn.net/liKeQing1027520/article/details/136102702)
+
++ [基于微信小程序的在线课堂的研究与实现，附源码](https://blog.csdn.net/u013749113/article/details/136096989)
+
++ [统计学习方法笔记（三）：朴素贝叶斯法](https://blog.csdn.net/hnbxs/article/details/136109866)
+
