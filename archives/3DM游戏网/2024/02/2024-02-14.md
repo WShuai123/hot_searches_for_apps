@@ -179,3 +179,5 @@
 
 + [马克·鲁法洛：漫威宇宙将不会有独立浩克电影](https://www.3dmgame.com/news/202402/3888377.html)
 
++ [《龙之信条2》强力支援角色弓箭手演示预告](https://www.3dmgame.com/news/202402/3888379.html)
+

@@ -61,3 +61,5 @@
 
 + [本月 MWC 2024 登场，小米“影像旗舰” 14 Ultra 手机渲染图曝光](https://m.ithome.com/html/750281.htm)
 
++ [挂羊头卖狗肉，媒体再曝苹果 App Store 伪装应用问题](https://m.ithome.com/html/750235.htm)
+

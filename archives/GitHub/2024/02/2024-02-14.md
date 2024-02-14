@@ -51,3 +51,43 @@
 
 + [continuedev / continue](https://github.com/continuedev/continue)
 
++ [BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit)
+
++ [Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
+
++ [Vectorized / dn404](https://github.com/Vectorized/dn404)
+
++ [adamcohenhillel / ADeus](https://github.com/adamcohenhillel/ADeus)
+
++ [hashicorp / terraform](https://github.com/hashicorp/terraform)
+
++ [willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube)
+
++ [Lissy93 / personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [google / mediapipe](https://github.com/google/mediapipe)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
+
++ [storybookjs / storybook](https://github.com/storybookjs/storybook)
+
++ [octocat / Spoon-Knife](https://github.com/octocat/Spoon-Knife)
+
++ [webdriverio / webdriverio](https://github.com/webdriverio/webdriverio)
+
++ [psf / black](https://github.com/psf/black)
+
++ [oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai)
+
++ [python-poetry / poetry](https://github.com/python-poetry/poetry)
+
++ [dbt-labs / dbt-core](https://github.com/dbt-labs/dbt-core)
+
++ [saurabhnemade / will-you-be-my-valentine](https://github.com/saurabhnemade/will-you-be-my-valentine)
+
