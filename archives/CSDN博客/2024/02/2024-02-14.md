@@ -197,3 +197,9 @@
 
 + [[Python进阶] 识别验证码](https://blog.csdn.net/crleep/article/details/136103739)
 
++ [基于JAVA+Springboot+Thymeleaf前后端分离项目：社区疫情防控系统设计与实现](https://blog.csdn.net/u013818205/article/details/136096404)
+
++ [[计算机网络]---网络编程套接字](https://blog.csdn.net/qq_61552595/article/details/136111837)
+
++ [Cisco Secure Client 5.1.2.42 (macOS, Linux, Windows & iOS, Andrord) - 远程访问客户端](https://blog.csdn.net/netgc/article/details/136100682)
+

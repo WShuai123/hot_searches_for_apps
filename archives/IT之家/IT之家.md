@@ -71,3 +71,5 @@
 
 + [极星首款手机 Polestar Phone 曝光，无界版魅族 20 同款配置](https://m.ithome.com/html/750286.htm)
 
++ [丰田造假风波升级！子公司董事长和总裁双双辞职](https://m.ithome.com/html/750266.htm)
+

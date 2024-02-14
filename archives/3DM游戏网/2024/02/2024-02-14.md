@@ -195,3 +195,7 @@
 
 + [本周FAMI评分：《蜡笔小新煤炭镇的小白》33分](https://www.3dmgame.com/news/202402/3888380.html)
 
++ [《死侍3》曝情人节特别版海报 死侍金刚狼永结同心](https://www.3dmgame.com/news/202402/3888387.html)
+
++ [GOG喜加一：《横冲直撞》免费领取](https://www.3dmgame.com/news/202402/3888388.html)
+
