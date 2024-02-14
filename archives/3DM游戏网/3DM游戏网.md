@@ -117,3 +117,11 @@
 
 + [《我的世界》联动环球影城 带来金刚ET等角色](https://www.3dmgame.com/news/202402/3888347.html)
 
++ [《超次元游戏海王星姐妹vs姐妹》Xbox版延期至5月21日发售](https://www.3dmgame.com/news/202402/3888350.html)
+
++ [《寂静岭2：重制版》开发者抨击预告片 没有反应游戏的精神](https://www.3dmgame.com/news/202402/3888351.html)
+
++ [《驱灵者：新伊甸的幽灵》现已支持DLSS 3帧生成 性能最高提升1.8倍](https://www.3dmgame.com/news/202402/3888349.html)
+
++ [SIE注册新商标Intergalactic: The Heretic Prophet](https://www.3dmgame.com/news/202402/3888348.html)
+

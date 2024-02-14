@@ -45,3 +45,7 @@
 
 + [APT-K-47 组织利用新木马工具发起窃密攻击活动](https://www.freebuf.com/articles/paper/391504.html)
 
++ [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
+
++ [IAST实践落地总结](https://www.freebuf.com/articles/es/391330.html)
+

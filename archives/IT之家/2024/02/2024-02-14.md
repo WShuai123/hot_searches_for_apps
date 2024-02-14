@@ -33,3 +33,5 @@
 
 + [OPPO 上线“超级闪充会员”权益：33W 共享充电宝“周周免费用”](https://m.ithome.com/html/750165.htm)
 
++ [ASML 价值 3.5 亿欧元的 High-NA EUV 光刻机已获得 10~20 个订单，预计到 2028 年可将年产量提高到 20 台](https://m.ithome.com/html/750206.htm)
+
