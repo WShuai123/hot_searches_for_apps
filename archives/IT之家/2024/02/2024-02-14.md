@@ -51,3 +51,7 @@
 
 + [Counterpoint：三星手机在韩国的市场占有率为 73%，苹果 25%](https://m.ithome.com/html/750188.htm)
 
++ [非永久停留 USB 2.0，苹果 Vision Pro 头显 USB-C 适配器可解锁 Thunderbolt](https://m.ithome.com/html/750232.htm)
+
++ [英伟达推出 RTX 聊天机器人，可在 RTX 30 和 40 GPU 上免费使用](https://m.ithome.com/html/750211.htm)
+

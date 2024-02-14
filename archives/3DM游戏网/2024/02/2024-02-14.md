@@ -173,3 +173,5 @@
 
 + [微软广告推广能写游戏代码的AI 引来开发者嘲讽](https://www.3dmgame.com/news/202402/3888368.html)
 
++ [伊津野英昭澄清表示《龙之信条2》首发不锁帧率](https://www.3dmgame.com/news/202402/3888376.html)
+
