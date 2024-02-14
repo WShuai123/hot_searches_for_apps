@@ -141,3 +141,11 @@
 
 + [日本地理定位AR手游去年收入超6亿美元 占全球一半](https://www.3dmgame.com/news/202402/3888352.html)
 
++ [《古墓丽影三部曲：重制版》内含种族歧视警告提示](https://www.3dmgame.com/news/202402/3888363.html)
+
++ [卡普空白金游戏销量更新：《生化4》三个月再售百万份](https://www.3dmgame.com/news/202402/3888362.html)
+
++ [《极限滑雪》曾有精神续作开发中 如今已经取消](https://www.3dmgame.com/news/202402/3888361.html)
+
++ [日本1月销量榜：《如龙8》首发综合销量第一](https://www.3dmgame.com/news/202402/3888360.html)
+
