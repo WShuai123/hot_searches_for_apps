@@ -107,3 +107,13 @@
 
 + [别说我喜欢，神仙也爱看啊！](http://www.acfun.cn/v/ac43761517)
 
++ [只允许你喊我笨蛋~【竖屏纯享】](http://www.acfun.cn/v/ac43722484)
+
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千六百一十三期](http://www.acfun.cn/v/ac43761556)
+
++ [[原创·复活重编] 次元情书 (2022 Arr.) ft. UTAU-AC娘二代目 [音源配布]](http://www.acfun.cn/v/ac43760242)
+
++ [世界上最长寿的灯泡，已经亮了超过百万小时，太不可思议了](http://www.acfun.cn/v/ac43759859)
+
++ [地狱潜兵2康米生化人Be like](http://www.acfun.cn/v/ac43759268)
+
