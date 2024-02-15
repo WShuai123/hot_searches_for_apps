@@ -139,3 +139,13 @@
 
 + [传PS5 Pro无光驱版500美元 部分规格已确定](https://www.3dmgame.com/news/202402/3888404.html)
 
++ [《任天堂全明星大乱斗》最新更新上线 支持amiibo索拉](https://www.3dmgame.com/news/202402/3888414.html)
+
++ [迈克尔杰克逊传记片《迈克尔》剧照 明年上映](https://www.3dmgame.com/news/202402/3888413.html)
+
++ [《ChocoNinja!》PC平台免费发布 2D横版冒险](https://www.3dmgame.com/news/202402/3888412.html)
+
++ [《CONCRETE VISIONS》Steam上线 PS复古风FPS](https://www.3dmgame.com/news/202402/3888411.html)
+
++ [北濑佳范暗示《最终幻想7：重生》可能会有幸福结局](https://www.3dmgame.com/news/202402/3888410.html)
+

@@ -37,3 +37,5 @@
 
 + [三星 Galaxy S24 系列手机本月迎来首次系统更新，优化屏幕鲜艳度和拍摄体验](https://m.ithome.com/html/750322.htm)
 
++ [可令 AMD GPU 运行英伟达 CUDA 应用，第三方项目“ZLUDA”宣布开源](https://m.ithome.com/html/750325.htm)
+

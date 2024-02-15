@@ -159,3 +159,11 @@
 
 + [发掘GPT-4商业创新的潜力](https://blog.csdn.net/xw555666/article/details/136093372)
 
++ [如何在 Ubuntu VPS 上使用 Celery 与 RabbitMQ 来做队列](https://blog.csdn.net/xuanunix/article/details/136086580)
+
++ [如何在 Angular 中使用变更检测策略](https://blog.csdn.net/rubys007/article/details/136086656)
+
++ [Hive的相关概念——架构、数据存储、读写文件机制](https://blog.csdn.net/SHWAITME/article/details/136111309)
+
++ [python Flask与微信小程序 统计管理](https://blog.csdn.net/xinzhengLUCK/article/details/136108102)
+
