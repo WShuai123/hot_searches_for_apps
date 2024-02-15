@@ -195,3 +195,11 @@
 
 + [SpringCloud之Eureka注册中心和负载均衡](https://blog.csdn.net/m0_63837020/article/details/136115248)
 
++ [Java企业应用软件系统架构演变史](https://blog.csdn.net/double222222/article/details/136102269)
+
++ [揭秘 2024 春晚刘谦魔术——代码还原](https://blog.csdn.net/kologin/article/details/136120758)
+
++ [2024年Midjourney 付费订阅流程 | Midjourney 各版本介绍，使用虚拟信用卡支付买Midjourney流程指南](https://blog.csdn.net/zhaitong1991/article/details/136104077)
+
++ [【Linux技术宝典】深入理解Linux基本指令：命令行新手指南](https://blog.csdn.net/2201_75743654/article/details/136119854)
+

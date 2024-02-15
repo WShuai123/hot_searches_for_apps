@@ -151,3 +151,7 @@
 
 + [ChatAvatar](https://www.producthunt.com/posts/chatavatar-2)
 
++ [Playable Maker](https://www.producthunt.com/posts/playable-maker)
+
++ [RDMC AI](https://www.producthunt.com/posts/rdmc-ai)
+

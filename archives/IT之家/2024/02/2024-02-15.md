@@ -55,3 +55,7 @@
 
 + [1.83 万亿！英伟达市值火箭式蹿升：美股第三大，仅次于微软苹果，股价今年飙升 53.42%](https://m.ithome.com/html/750333.htm)
 
++ [苹果 iPhone 16 系列代工新格局：一霸、两强、一新秀](https://m.ithome.com/html/750386.htm)
+
++ [警惕 AI 女友的“糖衣炮弹”：你想要陪伴，对方要你的数据](https://m.ithome.com/html/750366.htm)
+
