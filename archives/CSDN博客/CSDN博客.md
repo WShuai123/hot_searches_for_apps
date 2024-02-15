@@ -145,3 +145,17 @@
 
 + [【RISC-V DSP设计】基于CEVA DSP架构的指令集分析（一）-总体介绍](https://blog.csdn.net/u011376987/article/details/136105749)
 
++ [Blazor OIDC 单点登录授权实例5 - 独立SSR App (net8 webapp ) 端授权](https://blog.csdn.net/alex_zoucn/article/details/136104930)
+
++ [数字二值图像处理与形状分析理论分析](https://blog.csdn.net/ccsss22/article/details/136115622)
+
++ [计算机网络之应用层](https://blog.csdn.net/weixin_74144099/article/details/136103929)
+
++ [使用 C++23 从零实现 RISC-V 模拟器（4）：完善 log 支持并支持更多指令](https://blog.csdn.net/weixin_43924623/article/details/136108067)
+
++ [软件工程实践寒假作业](https://blog.csdn.net/striker030715/article/details/136113086)
+
++ [云原生之容器编排-Docker Swarm](https://blog.csdn.net/bingersoft/article/details/136109108)
+
++ [发掘GPT-4商业创新的潜力](https://blog.csdn.net/xw555666/article/details/136093372)
+

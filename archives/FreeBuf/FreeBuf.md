@@ -43,3 +43,7 @@
 
 + [深度伪造技术导致信任坍塌：身份去中心化是治标还是治本？](https://www.freebuf.com/articles/neopoints/391569.html)
 
++ [企业安全之浅谈DevSecOps](https://www.freebuf.com/articles/es/377112.html)
+
++ [全网首发！Golang实现的Githack与原理详解](https://www.freebuf.com/articles/web/383608.html)
+

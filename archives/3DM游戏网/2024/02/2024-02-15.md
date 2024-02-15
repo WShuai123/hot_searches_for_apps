@@ -127,3 +127,15 @@
 
 + [SquareEnix四月在日本举行最终幻想巡回音乐会](https://www.3dmgame.com/news/202402/3888400.html)
 
++ [《家园3》不光游戏跳票，工作室还进行了裁员](https://www.3dmgame.com/news/202402/3888409.html)
+
++ [今年最大更新来了！Windows 11 24H2已蓄势待发](https://www.3dmgame.com/news/202402/3888408.html)
+
++ [《Arzette》登陆多平台 塞尔达衍生黑历史名作续篇](https://www.3dmgame.com/news/202402/3888407.html)
+
++ [微软确认今年的《使命召唤》新作10月发售](https://www.3dmgame.com/news/202402/3888406.html)
+
++ [新《神奇四侠》卡司名单公布 2025年7月上映](https://www.3dmgame.com/news/202402/3888405.html)
+
++ [传PS5 Pro无光驱版500美元 部分规格已确定](https://www.3dmgame.com/news/202402/3888404.html)
+

@@ -31,3 +31,9 @@
 
 + [酷态科推出 30W USB-C 氮化镓充电头：支持 PD 快充协议，售 25 元](https://m.ithome.com/html/750313.htm)
 
++ [折叠屏 iPhone 已在路上，消息称苹果已接触多家屏幕、铰链组件供应商](https://m.ithome.com/html/750276.htm)
+
++ [机械革命无界 14 Pro 笔记本开售：Ultra 5 125H、双热管，3999 元起](https://m.ithome.com/html/750299.htm)
+
++ [三星 Galaxy S24 系列手机本月迎来首次系统更新，优化屏幕鲜艳度和拍摄体验](https://m.ithome.com/html/750322.htm)
+
