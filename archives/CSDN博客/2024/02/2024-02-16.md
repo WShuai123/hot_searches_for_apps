@@ -101,3 +101,39 @@
 
 + [ROS2高效学习第三章 -- 梳理 ros 编译工具，开始 ros2 编程，第一个 hello ros2 样例](https://blog.csdn.net/cy1641395022/article/details/135946387)
 
++ [【MySQL】外键约束的删除和更新总结](https://blog.csdn.net/Aileenvov/article/details/136119265)
+
++ [下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://blog.csdn.net/Gabriel100yi/article/details/136121658)
+
++ [[嵌入式AI从0开始到入土]14_orangepi_aipro小修补含yolov7多线程案例](https://blog.csdn.net/weixin_44354614/article/details/136114185)
+
++ [第一篇【传奇开心果系列】Python的pyttsx3库技术点案例示例：文本转换语言](https://blog.csdn.net/jackchuanqi/article/details/136117787)
+
++ [【Pygame手册02/20】pygame模块display控制窗口和屏幕](https://blog.csdn.net/gongdiwudu/article/details/136121710)
+
++ [基于HTML5实现动态烟花秀效果（含音效和文字）实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/136122851)
+
++ [【计算机网络】网络层之IP协议](https://blog.csdn.net/qq_67582098/article/details/136123509)
+
++ [回显服务器（基于TCP）](https://blog.csdn.net/2301_76161469/article/details/136094278)
+
++ [【项目日记(九)】项目整体测试,优化以及缺陷分析](https://blog.csdn.net/m0_61982936/article/details/136101127)
+
++ [【知识整理】产研中心岗位评定标准之大数据岗位](https://blog.csdn.net/tjls2008/article/details/136118283)
+
++ [React18原理: 时间分片技术选择](https://blog.csdn.net/Tyro_java/article/details/136108434)
+
++ [微服务—ES数据同步](https://blog.csdn.net/aaa131420030415/article/details/136114193)
+
++ [【微信小程序开发】小程序版的防抖节流应该怎么写](https://blog.csdn.net/fifteen718/article/details/136113397)
+
++ [vivado HDL编码技术](https://blog.csdn.net/cckkppll/article/details/136111352)
+
++ [Web安全研究（六）](https://blog.csdn.net/AcSuccess/article/details/136112210)
+
++ [RISC-V汇编指令](https://blog.csdn.net/weixin_53479532/article/details/136103114)
+
++ [什么是 Docker 容器？以及操作 Docker 容器相关的命令汇总](https://blog.csdn.net/Che__dan/article/details/136113873)
+
++ [模拟电子技术——基本放大电路](https://blog.csdn.net/weixin_47541751/article/details/136112075)
+
