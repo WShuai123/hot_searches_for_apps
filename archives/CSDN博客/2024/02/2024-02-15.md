@@ -171,3 +171,7 @@
 
 + [【Spring原理高级进阶】有Redis为啥不用？深入剖析 Spring Cache：缓存的工作原理、缓存注解的使用方法与最佳实践](https://blog.csdn.net/m0_72803988/article/details/136116458)
 
++ [基于JAVA+Springboot+Thymeleaf前后端分离项目：网上书城图书购物商城系统设计与实现](https://blog.csdn.net/u013818205/article/details/136042299)
+
++ [第十九篇【传奇开心果系列】Python的OpenCV库技术点案例示例：文字识别与OCR](https://blog.csdn.net/jackchuanqi/article/details/136114481)
+

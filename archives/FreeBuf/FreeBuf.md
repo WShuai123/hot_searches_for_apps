@@ -47,3 +47,5 @@
 
 + [全网首发！Golang实现的Githack与原理详解](https://www.freebuf.com/articles/web/383608.html)
 
++ [客户端漏洞篇之跨域资源共享(CORS)专题](https://www.freebuf.com/articles/web/374992.html)
+

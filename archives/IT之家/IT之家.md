@@ -39,3 +39,5 @@
 
 + [可令 AMD GPU 运行英伟达 CUDA 应用，第三方项目“ZLUDA”宣布开源](https://m.ithome.com/html/750325.htm)
 
++ [特斯拉员工开启 FSD 自动驾驶时遭遇严重车祸身亡，经查涉嫌酒驾](https://m.ithome.com/html/750303.htm)
+

@@ -159,3 +159,9 @@
 
 + [《星刃》性感女主逼真养眼 西方玩家好羡慕](https://www.3dmgame.com/news/202402/3888415.html)
 
++ [万代南梦宫游戏部门财报表现不佳 将重新进行评估](https://www.3dmgame.com/news/202402/3888420.html)
+
++ [说“PEGI 18”的那个人只得到了200欧元的报酬](https://www.3dmgame.com/news/202402/3888421.html)
+
++ [日本一SRPG《星之深渊酒吧》试玩发布 2月29日主机发售](https://www.3dmgame.com/news/202402/3888422.html)
+
