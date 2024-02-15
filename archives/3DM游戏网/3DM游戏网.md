@@ -105,3 +105,11 @@
 
 + [恐怖冒险《GYLT》3月14日登陆NS Steam获特别好评](https://www.3dmgame.com/news/202402/3888449.html)
 
++ [《物质世界：终极版》3/28推出Switch版](https://www.3dmgame.com/news/202402/3888452.html)
+
++ [奇幻钓鱼RPG《胡须水域》4/19推出](https://www.3dmgame.com/news/202402/3888451.html)
+
++ [Xbox将在其他平台上推出4款游戏 暗示下一代硬件](https://www.3dmgame.com/news/202402/3888450.html)
+
++ [索尼互娱总裁表示PS5降价“非常困难”](https://www.3dmgame.com/news/202402/3888453.html)
+

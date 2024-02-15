@@ -25,3 +25,7 @@
 
 + [iOS 18 + 升级版 Neural Engine，消息称 iPhone 16 系列将解锁更多 AI 技能](https://m.ithome.com/html/750331.htm)
 
++ [TikTok 原生应用登陆苹果 Vision Pro 头显：界面干净清爽、遵循 3D 纵深设计规范](https://m.ithome.com/html/750433.htm)
+
++ [贝尔金 10000 毫安时“苹果 Apple Watch 快充移动电源”新低：原价 699 元，现价 566 元](https://m.ithome.com/html/750414.htm)
+
