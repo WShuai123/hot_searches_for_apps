@@ -49,3 +49,7 @@
 
 + [客户端漏洞篇之跨域资源共享(CORS)专题](https://www.freebuf.com/articles/web/374992.html)
 
++ [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
+
++ [Legba：一款功能强大的多协议凭证爆破与密码喷射枚举工具](https://www.freebuf.com/sectool/389833.html)
+

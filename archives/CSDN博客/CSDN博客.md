@@ -177,3 +177,9 @@
 
 + [【项目日记(九)】项目整体测试,优化以及缺陷分析](https://blog.csdn.net/m0_61982936/article/details/136101127)
 
++ [上位机图像处理和嵌入式模块部署（上位机主要功能）](https://blog.csdn.net/feixiaoxing/article/details/136111236)
+
++ [【Linux进阶之路】网络——“?“（上）](https://blog.csdn.net/Shun_Hua/article/details/136082020)
+
++ [SpringCloud-Feign：负载均衡(基于服务端)](https://blog.csdn.net/kdzandlbj/article/details/136106987)
+

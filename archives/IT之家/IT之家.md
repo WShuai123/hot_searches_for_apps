@@ -45,3 +45,5 @@
 
 + [续航差距缩短至 2 分钟，三星 Galaxy S24 Ultra 手机加速追赶苹果 iPhone](https://m.ithome.com/html/750339.htm)
 
++ [体验 14 天后，果粉们开始大批退货 Vision Pro：小扎发布“拉踩”视频](https://m.ithome.com/html/750370.htm)
+

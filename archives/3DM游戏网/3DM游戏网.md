@@ -167,3 +167,11 @@
 
 + [《A Silent Desolation》Steam页面上线 末世科幻探索](https://www.3dmgame.com/news/202402/3888423.html)
 
++ [《农夫王朝2》宣布与STIHL合作 将产品加入到游戏中](https://www.3dmgame.com/news/202402/3888427.html)
+
++ [《前线任务2：重制版》NS实体版发售 经典战棋重制](https://www.3dmgame.com/news/202402/3888426.html)
+
++ [拳击游戏《无可争议》生涯模式现已正式开放](https://www.3dmgame.com/news/202402/3888425.html)
+
++ [Windows 11 24H2速度起飞：正式支持USB4 80 Gbps！](https://www.3dmgame.com/news/202402/3888424.html)
+
