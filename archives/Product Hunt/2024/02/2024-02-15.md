@@ -103,3 +103,17 @@
 
 + [Fingy](https://www.producthunt.com/posts/fingy)
 
++ [Regional](https://www.producthunt.com/posts/regional)
+
++ [Lindy](https://www.producthunt.com/posts/lindy)
+
++ [CalenAI](https://www.producthunt.com/posts/calenai)
+
++ [Secoda Automations](https://www.producthunt.com/posts/secoda-automations)
+
++ [LangSmith General Availability](https://www.producthunt.com/posts/langsmith-general-availability)
+
++ [Web3 Antivirus Extension 2.0](https://www.producthunt.com/posts/web3-antivirus-extension-2-0)
+
++ [Guide](https://www.producthunt.com/posts/guide-2)
+

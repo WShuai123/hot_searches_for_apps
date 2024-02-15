@@ -175,3 +175,9 @@
 
 + [Windows 11 24H2速度起飞：正式支持USB4 80 Gbps！](https://www.3dmgame.com/news/202402/3888424.html)
 
++ [《Nyaaaanvy》2月22日登陆Steam/Switch 猫咪大乱斗](https://www.3dmgame.com/news/202402/3888430.html)
+
++ [2024春节档票房破60亿：这部电影突然宣布退出](https://www.3dmgame.com/news/202402/3888429.html)
+
++ [厂商宣布《冬日幸存者》延期一周发售以处理玩家反馈](https://www.3dmgame.com/news/202402/3888428.html)
+
