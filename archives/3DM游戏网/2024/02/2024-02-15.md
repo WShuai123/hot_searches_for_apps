@@ -183,3 +183,13 @@
 
 + [《最终幻想7：重生》后续第三部剧本已在撰写阶段](https://www.3dmgame.com/news/202402/3888431.html)
 
++ [《STARNAUT》Steam抢先体验 太空3D动作游戏](https://www.3dmgame.com/news/202402/3888435.html)
+
++ [《绝地潜兵2》会否添加PVP模式？厂商：“永远”不会](https://www.3dmgame.com/news/202402/3888436.html)
+
++ [iOS 18多个重磅新功能曝光 或迎史上最大升级](https://www.3dmgame.com/news/202402/3888432.html)
+
++ [《极限竞速：Motorsport》更新档加入纽伯格林北环赛道](https://www.3dmgame.com/news/202402/3888433.html)
+
++ [《铁拳8》销量已经突破200万份 超出厂商预期](https://www.3dmgame.com/news/202402/3888434.html)
+

@@ -193,3 +193,5 @@
 
 + [FPGA转行ISP的探索之一：行业概览](https://blog.csdn.net/danxutj/article/details/136111847)
 
++ [SpringCloud之Eureka注册中心和负载均衡](https://blog.csdn.net/m0_63837020/article/details/136115248)
+

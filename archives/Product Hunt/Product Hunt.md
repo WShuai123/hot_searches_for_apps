@@ -145,3 +145,9 @@
 
 + [Klever Suite 1.0](https://www.producthunt.com/posts/klever-suite-1-0)
 
++ [Squad AI](https://www.producthunt.com/posts/squad-ai)
+
++ [Creatr](https://www.producthunt.com/posts/creatr-2)
+
++ [ChatAvatar](https://www.producthunt.com/posts/chatavatar-2)
+
