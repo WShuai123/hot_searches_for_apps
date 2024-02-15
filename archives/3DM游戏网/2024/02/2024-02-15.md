@@ -203,3 +203,9 @@
 
 + [Embracer已经裁员1400名员工 关闭7家工作室](https://www.3dmgame.com/news/202402/3888441.html)
 
++ [佳能推出可穿戴式静音面罩 以保障人们在公共场合谈话的隐私性](https://www.3dmgame.com/news/202402/3888444.html)
+
++ [新版《古墓丽影》游戏劳拉形象曝光 经典性感](https://www.3dmgame.com/news/202402/3888442.html)
+
++ [《哥斯拉大战金刚2：帝国崛起》新海报发布](https://www.3dmgame.com/news/202402/3888443.html)
+

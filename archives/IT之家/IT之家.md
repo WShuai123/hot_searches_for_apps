@@ -65,3 +65,5 @@
 
 + [2+6 全性能核心方案，高通骁龙 8 Gen 4/5 芯片信息曝光](https://m.ithome.com/html/750381.htm)
 
++ [华为提议为 Linux 内核推出新“沙盒模式”，提高内存安全性](https://m.ithome.com/html/750399.htm)
+

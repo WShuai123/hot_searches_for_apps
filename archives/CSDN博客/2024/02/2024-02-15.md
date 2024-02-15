@@ -215,3 +215,7 @@
 
 + [数据分析案例-基于亚马逊智能产品评论的探索性数据分析](https://blog.csdn.net/m0_64336780/article/details/135409993)
 
++ [使用 Chainlit, Langchain 及 Elasticsearch 轻松实现对 PDF 文件的查询](https://blog.csdn.net/UbuntuTouch/article/details/136111385)
+
++ [内网穿透 | 推荐两个免费的内网穿透工具](https://blog.csdn.net/qq_60735796/article/details/136107877)
+
