@@ -77,3 +77,9 @@
 
 + [宝宝 你好像一块蓝莓小蛋糕](http://www.acfun.cn/v/ac43761207)
 
++ [【雀魂】不要小瞧了我们之间的羁绊阿Kora！！！！](http://www.acfun.cn/v/ac43767009)
+
++ [给鸡喂肯德基的鸡块，它会吃吗？](http://www.acfun.cn/v/ac43764002)
+
++ [我们的AC娘本体——献给A站的忠诚赞歌【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43759723)
+

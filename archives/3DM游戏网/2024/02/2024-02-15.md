@@ -149,3 +149,13 @@
 
 + [北濑佳范暗示《最终幻想7：重生》可能会有幸福结局](https://www.3dmgame.com/news/202402/3888410.html)
 
++ [微软宣布5月21日在西雅图举办Build 2024开发者大会](https://www.3dmgame.com/news/202402/3888419.html)
+
++ [《绝地潜兵2》补丁提升连接稳定性 减少游戏崩溃](https://www.3dmgame.com/news/202402/3888418.html)
+
++ [农村老人沉迷刷APP挣钱：上网7小时每天挣2块钱](https://www.3dmgame.com/news/202402/3888417.html)
+
++ [太难评！《模拟人生4》免费更新加入白癜风皮肤选项](https://www.3dmgame.com/news/202402/3888416.html)
+
++ [《星刃》性感女主逼真养眼 西方玩家好羡慕](https://www.3dmgame.com/news/202402/3888415.html)
+
