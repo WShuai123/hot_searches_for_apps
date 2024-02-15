@@ -201,3 +201,5 @@
 
 + [玩家缝合JOJO与女神异闻录 战斗效果出众](https://www.3dmgame.com/news/202402/3888438.html)
 
++ [Embracer已经裁员1400名员工 关闭7家工作室](https://www.3dmgame.com/news/202402/3888441.html)
+
