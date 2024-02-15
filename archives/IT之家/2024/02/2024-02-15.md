@@ -27,3 +27,7 @@
 
 + [马斯克回应特斯拉员工车祸死亡事件：那辆车没有 FSD](https://m.ithome.com/html/750317.htm)
 
++ [特斯拉 Cybertruck 纯电皮卡被指娇贵，雨天开车后“长出”橙色锈斑](https://m.ithome.com/html/750315.htm)
+
++ [酷态科推出 30W USB-C 氮化镓充电头：支持 PD 快充协议，售 25 元](https://m.ithome.com/html/750313.htm)
+

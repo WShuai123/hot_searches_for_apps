@@ -41,3 +41,5 @@
 
 + [PacketSpy：一款功能强大的网络数据包嗅探、捕捉和分析工具](https://www.freebuf.com/sectool/389640.html)
 
++ [深度伪造技术导致信任坍塌：身份去中心化是治标还是治本？](https://www.freebuf.com/articles/neopoints/391569.html)
+

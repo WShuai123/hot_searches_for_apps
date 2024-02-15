@@ -137,3 +137,11 @@
 
 + [【HTML】情人节给npy一颗炫酷的爱心](https://blog.csdn.net/qq_44214428/article/details/136111233)
 
++ [基于微信小程序二手跳蚤市场系统设计与实现(PHP后台+Mysql)可行性分析](https://blog.csdn.net/u013818205/article/details/136105716)
+
++ [神经网络：卷积神经网络中的BatchNorm](https://blog.csdn.net/weixin_51390582/article/details/136115314)
+
++ [Docker下的Kafka](https://blog.csdn.net/qq_59975945/article/details/136101314)
+
++ [【RISC-V DSP设计】基于CEVA DSP架构的指令集分析（一）-总体介绍](https://blog.csdn.net/u011376987/article/details/136105749)
+

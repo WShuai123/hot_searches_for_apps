@@ -119,3 +119,11 @@
 
 + [华纳发布《哥斯拉大战金刚2》第二版官方预告](https://www.3dmgame.com/news/202402/3888396.html)
 
++ [《匹诺曹的谎言》意外移除D加密 都是临时工的错！](https://www.3dmgame.com/news/202402/3888403.html)
+
++ [4090运行《上古卷轴5》上千Mod+光追 画面震撼](https://www.3dmgame.com/news/202402/3888402.html)
+
++ [索尼希望PlayStation独占游戏更早登陆PC](https://www.3dmgame.com/news/202402/3888401.html)
+
++ [SquareEnix四月在日本举行最终幻想巡回音乐会](https://www.3dmgame.com/news/202402/3888400.html)
+
