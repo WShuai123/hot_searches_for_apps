@@ -47,3 +47,9 @@
 
 + [体验 14 天后，果粉们开始大批退货 Vision Pro：小扎发布“拉踩”视频](https://m.ithome.com/html/750370.htm)
 
++ [小米 14 Ultra 手机正面渲染图曝光：直屏设计、居中打孔、极窄边框](https://m.ithome.com/html/750377.htm)
+
++ [五菱缤果限时购车政策上线：至高补 8000 元，333km 版 6.88 万元起售](https://m.ithome.com/html/750359.htm)
+
++ [新型锂金属电池如何简单提高循环寿命？耗尽电量静置几个小时即可](https://m.ithome.com/html/750306.htm)
+

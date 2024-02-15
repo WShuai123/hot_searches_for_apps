@@ -187,3 +187,9 @@
 
 + [Linux：信号的处理](https://blog.csdn.net/qq_73899585/article/details/136096879)
 
++ [基于 Python 深度学习的电影评论情感分析系统，附源码](https://blog.csdn.net/yujun2023/article/details/136109006)
+
++ [ROS2高效学习第三章 -- 梳理 ros 编译工具，开始 ros2 编程，第一个 hello ros2 样例](https://blog.csdn.net/cy1641395022/article/details/135946387)
+
++ [FPGA转行ISP的探索之一：行业概览](https://blog.csdn.net/danxutj/article/details/136111847)
+
