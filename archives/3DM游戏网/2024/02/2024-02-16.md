@@ -101,3 +101,7 @@
 
 + [类恶魔城新作《流放领主》现已正式上市](https://www.3dmgame.com/news/202402/3888397.html)
 
++ [Epic喜加一：《达喀尔沙漠拉力赛》免费领取](https://www.3dmgame.com/news/202402/3888447.html)
+
++ [恐怖冒险《GYLT》3月14日登陆NS Steam获特别好评](https://www.3dmgame.com/news/202402/3888449.html)
+

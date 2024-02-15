@@ -201,3 +201,13 @@
 
 + [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
 
++ [豆包 - 抖音旗下 AI 智能助手](https://itunes.apple.com/cn/app/id6459478672?mt=8)
+
++ [快影-创作有趣的视频](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [钉钉](https://itunes.apple.com/cn/app/id930368978?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
