@@ -137,3 +137,15 @@
 
 + [模拟电子技术——基本放大电路](https://blog.csdn.net/weixin_47541751/article/details/136112075)
 
++ [【教程4＞第1章＞第10节】FPGA浮点与定点设计应用](https://blog.csdn.net/ccsss22/article/details/136121398)
+
++ [【FFmpeg】ffmpeg 命令行参数 ① ( ffpeg 命令 -i 参数 指定 输入文件 / 输入流 | ffpeg 命令 -f 参数 指定 输出格式 | 指定 时间 相关参数 )](https://blog.csdn.net/han1202012/article/details/136114262)
+
++ [微信小程序介绍、账号申请、开发者工具目录结构详解及小程序配置](https://blog.csdn.net/weixin_74457789/article/details/136122415)
+
++ [Node.js开发-HTTP协议](https://blog.csdn.net/weixin_46926189/article/details/136111098)
+
++ [论文阅读 - Non-Local Spatial Propagation Network for Depth Completion](https://blog.csdn.net/zjuPeco/article/details/136101157)
+
++ [[缓存] - 1.缓存共性问题](https://blog.csdn.net/besthezhaowen/article/details/136111466)
+
