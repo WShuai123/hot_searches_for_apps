@@ -67,3 +67,5 @@
 
 + [华为提议为 Linux 内核推出新“沙盒模式”，提高内存安全性](https://m.ithome.com/html/750399.htm)
 
++ [iOS 18 + 升级版 Neural Engine，消息称 iPhone 16 系列将解锁更多 AI 技能](https://m.ithome.com/html/750331.htm)
+

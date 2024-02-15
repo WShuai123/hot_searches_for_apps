@@ -219,3 +219,13 @@
 
 + [内网穿透 | 推荐两个免费的内网穿透工具](https://blog.csdn.net/qq_60735796/article/details/136107877)
 
++ [【微服务】skywalking自定义告警规则使用详解](https://blog.csdn.net/zhangcongyi420/article/details/135887125)
+
++ [【Spring MVC篇】返回响应](https://blog.csdn.net/m0_74352571/article/details/136118888)
+
++ [就业|高校毕业生就业信息小程序|基于微信小程序的高校毕业生就业信息的设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136103535)
+
++ [【HTML】交友软件上照片的遮罩是如何做的](https://blog.csdn.net/qq_44214428/article/details/136112835)
+
++ [测试开发-2-概念篇](https://blog.csdn.net/xinhang10/article/details/136119871)
+

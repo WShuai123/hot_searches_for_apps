@@ -209,3 +209,9 @@
 
 + [《哥斯拉大战金刚2：帝国崛起》新海报发布](https://www.3dmgame.com/news/202402/3888443.html)
 
++ [《浩劫前夕》重新上架Steam 支持103种语言](https://www.3dmgame.com/news/202402/3888446.html)
+
++ [《地铁：逃离》发售五周年 销量已破1000万](https://www.3dmgame.com/news/202402/3888448.html)
+
++ [Fami通一周销量榜 《超级马里奥兄弟：惊奇》登顶](https://www.3dmgame.com/news/202402/3888445.html)
+
