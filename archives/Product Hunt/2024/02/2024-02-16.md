@@ -105,3 +105,5 @@
 
 + [Centerya](https://www.producthunt.com/posts/centerya)
 
++ [Sora by OpenAI](https://www.producthunt.com/posts/sora-by-openai)
+
