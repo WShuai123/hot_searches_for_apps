@@ -165,3 +165,5 @@
 
 + [日本一SRPG《星之深渊酒吧》试玩发布 2月29日主机发售](https://www.3dmgame.com/news/202402/3888422.html)
 
++ [《A Silent Desolation》Steam页面上线 末世科幻探索](https://www.3dmgame.com/news/202402/3888423.html)
+

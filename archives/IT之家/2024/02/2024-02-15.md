@@ -41,3 +41,7 @@
 
 + [特斯拉员工开启 FSD 自动驾驶时遭遇严重车祸身亡，经查涉嫌酒驾](https://m.ithome.com/html/750303.htm)
 
++ [会损坏 iPhone，苹果不推荐手机进水后放入米袋](https://m.ithome.com/html/750354.htm)
+
++ [续航差距缩短至 2 分钟，三星 Galaxy S24 Ultra 手机加速追赶苹果 iPhone](https://m.ithome.com/html/750339.htm)
+

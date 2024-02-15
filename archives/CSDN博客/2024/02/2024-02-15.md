@@ -175,3 +175,5 @@
 
 + [第十九篇【传奇开心果系列】Python的OpenCV库技术点案例示例：文字识别与OCR](https://blog.csdn.net/jackchuanqi/article/details/136114481)
 
++ [【项目日记(九)】项目整体测试,优化以及缺陷分析](https://blog.csdn.net/m0_61982936/article/details/136101127)
+
