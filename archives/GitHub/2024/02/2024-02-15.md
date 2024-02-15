@@ -51,3 +51,25 @@
 
 + [saurabhnemade / will-you-be-my-valentine](https://github.com/saurabhnemade/will-you-be-my-valentine)
 
++ [Stability-AI / StableCascade](https://github.com/Stability-AI/StableCascade)
+
++ [vosen / ZLUDA](https://github.com/vosen/ZLUDA)
+
++ [Nutlope / notesGPT](https://github.com/Nutlope/notesGPT)
+
++ [alireza0 / s-ui](https://github.com/alireza0/s-ui)
+
++ [matter-labs / zksync-era](https://github.com/matter-labs/zksync-era)
+
++ [openai / triton](https://github.com/openai/triton)
+
++ [mvdan / sh](https://github.com/mvdan/sh)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR)
+
++ [NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)
+
++ [dotnet / core](https://github.com/dotnet/core)
+

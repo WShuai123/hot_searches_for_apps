@@ -203,3 +203,13 @@
 
 + [【Linux技术宝典】深入理解Linux基本指令：命令行新手指南](https://blog.csdn.net/2201_75743654/article/details/136119854)
 
++ [(01)Hive的相关概念——架构、数据存储、读写文件机制](https://blog.csdn.net/SHWAITME/article/details/136111309)
+
++ [深度学习疆界：探索基本原理与算法，揭秘应用力量，展望未来发展与智能交互的新纪元](https://blog.csdn.net/Srlua/article/details/136120213)
+
++ [树莓派4B（Raspberry Pi 4B）使用docker搭建单机版nacos [基于docker-compose]](https://blog.csdn.net/qq_35215728/article/details/136116772)
+
++ [Unity的ML-agent训练教程（附环境配置流程）](https://blog.csdn.net/hnbxs/article/details/136110026)
+
++ [网络安全加密和防御措施研读心得（一）（粗糙版）](https://blog.csdn.net/az0618/article/details/136121502)
+
