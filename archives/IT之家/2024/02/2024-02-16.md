@@ -53,3 +53,5 @@
 
 + [消息称比亚迪秦 PLUS、驱逐舰 05 将新增“荣耀版”车型，指导价 7.98 万元](https://m.ithome.com/html/750498.htm)
 
++ [谷歌 Gemini 1.5 炸场：能处理 1 小时视频、11 小时音频、3 万行代码、70 万文字](https://m.ithome.com/html/750452.htm)
+

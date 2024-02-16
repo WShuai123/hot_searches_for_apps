@@ -51,3 +51,29 @@
 
 + [dotnet / core](https://github.com/dotnet/core)
 
++ [kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade)
+
++ [reorproject / reor](https://github.com/reorproject/reor)
+
++ [gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript)
+
++ [microsoft / UFO](https://github.com/microsoft/UFO)
+
++ [succinctlabs / sp1](https://github.com/succinctlabs/sp1)
+
++ [ajeetdsouza / zoxide](https://github.com/ajeetdsouza/zoxide)
+
++ [LargeWorldModel / LWM](https://github.com/LargeWorldModel/LWM)
+
++ [languagetool-org / languagetool](https://github.com/languagetool-org/languagetool)
+
++ [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [facebookresearch / segment-anything](https://github.com/facebookresearch/segment-anything)
+
++ [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
