@@ -123,3 +123,25 @@
 
 + [《恶意不息》首个8分钟实机演示 大战Boss撕裂者](https://www.3dmgame.com/news/202402/3888456.html)
 
++ [娜扎COS《王者荣耀》貂蝉美图：双重美丽叠加！](https://www.3dmgame.com/news/202402/3888469.html)
+
++ [《无人深空》最新更新Omega上线 新的共同探险更新启动](https://www.3dmgame.com/news/202402/3888468.html)
+
++ [Embracer裁员1400人后表示将保证股东利益](https://www.3dmgame.com/news/202402/3888467.html)
+
++ [AI生成《魔兽世界》美女角色视频：性感美丽吸睛](https://www.3dmgame.com/news/202402/3888466.html)
+
++ [开发商承认《收获日3》表现不佳 仍将努力重振游戏](https://www.3dmgame.com/news/202402/3888465.html)
+
++ [《魂斗罗：加鲁加行动》情报：还是8关 但内容更丰富](https://www.3dmgame.com/news/202402/3888464.html)
+
++ [《暗影之门2》Steam页面上线 经典迷宫冒险名作续篇](https://www.3dmgame.com/news/202402/3888463.html)
+
++ [Xbox Game Pass现在有3400万付费会员](https://www.3dmgame.com/news/202402/3888462.html)
+
++ [ARPG新游《Dreamed Away》众筹成功 2025年登陆多平台](https://www.3dmgame.com/news/202402/3888461.html)
+
++ [开发商再次裁员 《极乐迪斯科》资料片取消开发](https://www.3dmgame.com/news/202402/3888460.html)
+
++ [Xbox次世代主机确认 将是硬件世代中最大的技术飞跃](https://www.3dmgame.com/news/202402/3888459.html)
+

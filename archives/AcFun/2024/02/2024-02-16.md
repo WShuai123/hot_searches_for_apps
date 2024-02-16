@@ -81,3 +81,7 @@
 
 + [【自翻】Chiikawa第140话「超可口超人4」ちいかわ](http://www.acfun.cn/v/ac43772383)
 
++ [震惊！up竟然七零元购吉他？](http://www.acfun.cn/v/ac43771565)
+
++ [12秒虚拟主播小哲理](http://www.acfun.cn/v/ac43771350)
+

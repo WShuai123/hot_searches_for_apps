@@ -33,3 +33,5 @@
 
 + [魅族疑似撤回 2 月 18 日 All in AI“聊聊真心话”活动，微博公众号均已删除相关内容](https://m.ithome.com/html/750427.htm)
 
++ [英伟达 RTX 2080 Ti 显卡魔改 22GB 显存上架二手平台：面向 AI 市场，499 美元](https://m.ithome.com/html/750437.htm)
+
