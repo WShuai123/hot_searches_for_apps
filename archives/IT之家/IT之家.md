@@ -51,3 +51,5 @@
 
 + [550 亿美元薪酬奖励方案被判无效，马斯克怒了：SpaceX 等公司注册地已搬离特拉华州](https://m.ithome.com/html/750440.htm)
 
++ [消息称比亚迪秦 PLUS、驱逐舰 05 将新增“荣耀版”车型，指导价 7.98 万元](https://m.ithome.com/html/750498.htm)
+

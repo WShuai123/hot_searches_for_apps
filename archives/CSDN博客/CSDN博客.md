@@ -191,3 +191,7 @@
 
 + [OpenAI 最新发布的从文本生成视频模型 Sora 炸裂登场，它能根据文字指令创造逼真且富有想象力的场景](https://blog.csdn.net/fyfugoyfa/article/details/136126735)
 
++ [基于Python实现Midjourney集成到（个人/公司）平台中](https://blog.csdn.net/qq_44907926/article/details/136128312)
+
++ [【HTML】过年不能放烟花，那就放电子烟花](https://blog.csdn.net/qq_44214428/article/details/136128688)
+
