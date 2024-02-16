@@ -157,3 +157,5 @@
 
 + [《马里奥vs大金刚》正式发售 增强重制玩法更出色](https://www.3dmgame.com/news/202402/3888475.html)
 
++ [《死噛》新作登陆Steam 心理恐怖ADV名作](https://www.3dmgame.com/news/202402/3888476.html)
+
