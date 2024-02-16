@@ -101,3 +101,7 @@
 
 + [恐怖冒险《GYLT》3月14日登陆NS Steam获特别好评](https://www.3dmgame.com/news/202402/3888449.html)
 
++ [《龙之信条2》之后 卡普空或考虑提高游戏售价至70美元](https://www.3dmgame.com/news/202402/3888498.html)
+
++ [《枯萎的房间》4月2日正式发售 登陆PC和主机](https://www.3dmgame.com/news/202402/3888499.html)
+

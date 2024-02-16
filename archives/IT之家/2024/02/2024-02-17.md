@@ -25,3 +25,5 @@
 
 + [国产大飞机国外首秀：一架 C919 抵达新加坡，参加 2024 新加坡航空展](https://m.ithome.com/html/750501.htm)
 
++ [苹果为 iPhone SE 4 OLED 屏幕询价，消息称三星、京东方和天马竞标](https://m.ithome.com/html/750513.htm)
+
