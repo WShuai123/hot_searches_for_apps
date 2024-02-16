@@ -191,3 +191,5 @@
 
 + [《心灵杀手2》销量现已超130万 Remedy销售最快游戏](https://www.3dmgame.com/news/202402/3888491.html)
 
++ [《博德之门3》荣获第27届DICE大奖年度游戏](https://www.3dmgame.com/news/202402/3888493.html)
+
