@@ -79,3 +79,5 @@
 
 + [来点小时候的味道](http://www.acfun.cn/v/ac43770416)
 
++ [【自翻】Chiikawa第140话「超可口超人4」ちいかわ](http://www.acfun.cn/v/ac43772383)
+

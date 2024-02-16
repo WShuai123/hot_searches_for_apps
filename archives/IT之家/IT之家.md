@@ -31,3 +31,5 @@
 
 + [荣耀推出 X9b 手机：骁龙 6 Gen 1、108 MP 主摄，首发价 2299 港币](https://m.ithome.com/html/750397.htm)
 
++ [魅族疑似撤回 2 月 18 日 All in AI“聊聊真心话”活动，微博公众号均已删除相关内容](https://m.ithome.com/html/750427.htm)
+

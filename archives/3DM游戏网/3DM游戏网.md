@@ -115,3 +115,11 @@
 
 + [消息称英特尔与Xbox合作下一代主机被坑：让人恼火](https://www.3dmgame.com/news/202402/3888454.html)
 
++ [假冒《浩劫前夕》游戏突然上架Steam 高仿蹭热度](https://www.3dmgame.com/news/202402/3888457.html)
+
++ [苹果停止签署iOS17.3：已升级用户将无法降级](https://www.3dmgame.com/news/202402/3888458.html)
+
++ [《幻兽帕鲁》开发者不担心玩家流失：休息下再回来玩](https://www.3dmgame.com/news/202402/3888455.html)
+
++ [《恶意不息》首个8分钟实机演示 大战Boss撕裂者](https://www.3dmgame.com/news/202402/3888456.html)
+

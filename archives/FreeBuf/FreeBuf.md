@@ -43,3 +43,7 @@
 
 + [数据完整性与数据身份验证](https://www.freebuf.com/vuls/391475.html)
 
++ [企业安全之SDL体系初步探索](https://www.freebuf.com/articles/es/373784.html)
+
++ [FOFA资产拓线实战系列：APT-C-23 Android端分析](https://www.freebuf.com/articles/paper/391288.html)
+
