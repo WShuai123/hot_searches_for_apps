@@ -101,3 +101,11 @@
 
 + [7 大 Android 数据恢复软件，可轻松找回丢失的数据](https://blog.csdn.net/Geeker55/article/details/135518933)
 
++ [摸索设计模式的魅力：从策略模式看软件设计的智慧-灵活应对变化的艺术](https://blog.csdn.net/danci_/article/details/136124789)
+
++ [《数字图像处理-OpenCV/Python》连载：形态学图像处理](https://blog.csdn.net/youcans/article/details/136113194)
+
++ [使用 Chainlit, Langchain 及 Elasticsearch 轻松实现对 PDF 文件的查询](https://blog.csdn.net/UbuntuTouch/article/details/136111385)
+
++ [CSS弹性布局](https://blog.csdn.net/weixin_43631940/article/details/136119067)
+
