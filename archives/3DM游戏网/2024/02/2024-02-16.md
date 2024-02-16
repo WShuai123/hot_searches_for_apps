@@ -171,3 +171,7 @@
 
 + [《降世神通：最后的气宗》格斗游戏将于明年发售](https://www.3dmgame.com/news/202402/3888480.html)
 
++ [《绝地潜兵2》Steam平台在线人数峰值突破25万](https://www.3dmgame.com/news/202402/3888484.html)
+
++ [互动剧情《Lake》登陆Switch 温馨治愈乡村风情](https://www.3dmgame.com/news/202402/3888483.html)
+

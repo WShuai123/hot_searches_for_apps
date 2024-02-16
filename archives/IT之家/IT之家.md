@@ -47,3 +47,7 @@
 
 + [Epic 喜加一：《达喀尔沙漠拉力赛》游戏免费领取，下周送《辐射 1》《辐射 2》](https://m.ithome.com/html/750438.htm)
 
++ [B 站第三个播放量破亿视频诞生：《敢杀我的马？！》](https://m.ithome.com/html/750477.htm)
+
++ [550 亿美元薪酬奖励方案被判无效，马斯克怒了：SpaceX 等公司注册地已搬离特拉华州](https://m.ithome.com/html/750440.htm)
+
