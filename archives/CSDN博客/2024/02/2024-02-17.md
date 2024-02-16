@@ -109,3 +109,21 @@
 
 + [CSS弹性布局](https://blog.csdn.net/weixin_43631940/article/details/136119067)
 
++ [【黑客渗透】-- 中间人攻击](https://blog.csdn.net/2301_77362941/article/details/136114975)
+
++ [心理辅导|高校心理教育辅导系统|基于Springboot的高校心理教育辅导系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136133383)
+
++ [神经网络：卷积介绍及代码实现](https://blog.csdn.net/weixin_51390582/article/details/136122783)
+
++ [数据分析 — Pandas 分组聚合](https://blog.csdn.net/muyuhen/article/details/136116810)
+
++ [[缓存] - 1.缓存共性问题](https://blog.csdn.net/besthezhaowen/article/details/136111466)
+
++ [【LLM-RAG】BGE M3-embedding模型（模型篇|混合检索、多阶段训练）](https://blog.csdn.net/qq_35812205/article/details/136129356)
+
++ [基于微信小程序的校园二手物品交易系统(开题报告+源码）](https://blog.csdn.net/seryue14/article/details/136119999)
+
++ [vue+uniapp音乐播放器系统 微信小程序hbpp0](https://blog.csdn.net/QQ_402205496/article/details/136115594)
+
++ [OpenAI 最新发布的从文本生成视频模型 Sora 炸裂登场，它能根据文字指令创造逼真且富有想象力的场景](https://blog.csdn.net/fyfugoyfa/article/details/136126735)
+
