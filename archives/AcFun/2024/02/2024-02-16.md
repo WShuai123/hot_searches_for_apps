@@ -147,3 +147,5 @@
 
 + [【AcFun2024龙年非官方春晚】节目十三——八国语言翻唱Lemon【2024AcFun新春庆典】](http://www.acfun.cn/v/ac43690472)
 
++ [有没有Acer有大胆的想法？欢乐八点档-832](http://www.acfun.cn/v/ac43776890)
+

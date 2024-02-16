@@ -193,3 +193,7 @@
 
 + [《博德之门3》荣获第27届DICE大奖年度游戏](https://www.3dmgame.com/news/202402/3888493.html)
 
++ [重生开发的FPS《星战》将是一个单人游戏](https://www.3dmgame.com/news/202402/3888494.html)
+
++ [电影《沙丘2》首批评论 大师之作比肩《指环王》](https://www.3dmgame.com/news/202402/3888495.html)
+

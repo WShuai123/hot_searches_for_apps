@@ -213,3 +213,5 @@
 
 + [【计算机网络】物理层|传输介质|物理层设备|宽带接入技术](https://blog.csdn.net/qq_73017178/article/details/136127595)
 
++ [Elasticsearch：特定领域的生成式 AI - 预训练、微调和 RAG](https://blog.csdn.net/UbuntuTouch/article/details/136121557)
+

@@ -59,3 +59,5 @@
 
 + [筹备《流浪地球 3》，导演郭帆 2024 开年现身视效大厂维塔工作室](https://m.ithome.com/html/750505.htm)
 
++ [39999 元：苹果 Vision Pro 头显京东国际自营上架开售](https://m.ithome.com/html/750508.htm)
+
