@@ -47,3 +47,5 @@
 
 + [FOFA资产拓线实战系列：APT-C-23 Android端分析](https://www.freebuf.com/articles/paper/391288.html)
 
++ [漏洞分析 | JumpServer未授权访问漏洞(CVE-2023-42442)](https://www.freebuf.com/vuls/390672.html)
+

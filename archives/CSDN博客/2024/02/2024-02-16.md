@@ -171,3 +171,9 @@
 
 + [内网穿透与搭建私人服务器](https://blog.csdn.net/weixin_47420447/article/details/136113439)
 
++ [深度学习疆界：探索基本原理与算法，揭秘应用力量，展望未来发展与智能交互的新纪元](https://blog.csdn.net/Srlua/article/details/136120213)
+
++ [测试开发-2-概念篇](https://blog.csdn.net/xinhang10/article/details/136119871)
+
++ [【计算机网络】网际协议——互联网中的转发和编址](https://blog.csdn.net/m0_63288666/article/details/136093166)
+

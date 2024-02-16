@@ -155,3 +155,5 @@
 
 + [文字变视频！OpenAI发布新AI模型Sora](https://www.3dmgame.com/news/202402/3888470.html)
 
++ [《马里奥vs大金刚》正式发售 增强重制玩法更出色](https://www.3dmgame.com/news/202402/3888475.html)
+
