@@ -49,3 +49,5 @@
 
 + [漏洞分析 | JumpServer未授权访问漏洞(CVE-2023-42442)](https://www.freebuf.com/vuls/390672.html)
 
++ [NetworkSherlock：一款基于Shodan的强大端口扫描工具](https://www.freebuf.com/sectool/389832.html)
+

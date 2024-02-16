@@ -159,3 +159,9 @@
 
 + [《死噛》新作登陆Steam 心理恐怖ADV名作](https://www.3dmgame.com/news/202402/3888476.html)
 
++ [《命悬一刃》5月Steam正式推出 1对1刀剑格斗](https://www.3dmgame.com/news/202402/3888478.html)
+
++ [Xbox将于今年6月举行夏日发布会 介绍多款游戏大作](https://www.3dmgame.com/news/202402/3888479.html)
+
++ [Intel公开34个安全漏洞：其中涉及32款软件、2款固件](https://www.3dmgame.com/news/202402/3888477.html)
+

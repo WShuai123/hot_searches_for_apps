@@ -37,3 +37,5 @@
 
 + [LineageOS 21 正式版推出：基于 Android 14、改进图库及通讯录等应用](https://m.ithome.com/html/750426.htm)
 
++ [月底见，联想透明笔记本电脑渲染图再曝光](https://m.ithome.com/html/750425.htm)
+
