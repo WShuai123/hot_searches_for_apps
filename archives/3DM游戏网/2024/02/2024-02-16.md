@@ -175,3 +175,13 @@
 
 + [互动剧情《Lake》登陆Switch 温馨治愈乡村风情](https://www.3dmgame.com/news/202402/3888483.html)
 
++ [《小丑2：双重疯狂》新剧照 小丑情侣翩翩起舞](https://www.3dmgame.com/news/202402/3888489.html)
+
++ [《超级肌肉猫》3月20日Steam正式推出 爆笑2D横版动作](https://www.3dmgame.com/news/202402/3888488.html)
+
++ [卡梅隆辟谣：没有所谓的9小时版本《阿凡达3》](https://www.3dmgame.com/news/202402/3888487.html)
+
++ [万代南梦宫取消至少五款正在开发中的游戏项目](https://www.3dmgame.com/news/202402/3888486.html)
+
++ [马斯克SpaceX四枚火箭同时矗立发射场 星舰合体](https://www.3dmgame.com/news/202402/3888485.html)
+
