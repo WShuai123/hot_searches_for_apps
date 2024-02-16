@@ -145,3 +145,13 @@
 
 + [Xbox次世代主机确认 将是硬件世代中最大的技术飞跃](https://www.3dmgame.com/news/202402/3888459.html)
 
++ [仅仅1年 摩尔线程显卡性能暴涨2倍！驱动用心了](https://www.3dmgame.com/news/202402/3888474.html)
+
++ [AMD锐龙8000GE APU规格首曝 功耗仅35W](https://www.3dmgame.com/news/202402/3888473.html)
+
++ [距离《空洞骑士：丝之歌》公布已经过去五年了](https://www.3dmgame.com/news/202402/3888472.html)
+
++ [四款登陆其它平台的Xbox游戏大概是这些](https://www.3dmgame.com/news/202402/3888471.html)
+
++ [文字变视频！OpenAI发布新AI模型Sora](https://www.3dmgame.com/news/202402/3888470.html)
+

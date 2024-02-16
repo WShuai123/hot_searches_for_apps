@@ -35,3 +35,5 @@
 
 + [英伟达 RTX 2080 Ti 显卡魔改 22GB 显存上架二手平台：面向 AI 市场，499 美元](https://m.ithome.com/html/750437.htm)
 
++ [LineageOS 21 正式版推出：基于 Android 14、改进图库及通讯录等应用](https://m.ithome.com/html/750426.htm)
+
