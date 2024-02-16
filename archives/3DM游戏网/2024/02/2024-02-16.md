@@ -113,3 +113,5 @@
 
 + [索尼互娱总裁表示PS5降价“非常困难”](https://www.3dmgame.com/news/202402/3888453.html)
 
++ [消息称英特尔与Xbox合作下一代主机被坑：让人恼火](https://www.3dmgame.com/news/202402/3888454.html)
+

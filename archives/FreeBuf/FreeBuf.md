@@ -41,3 +41,5 @@
 
 + [将电源侧信道攻击转化为x86远程时序攻击](https://www.freebuf.com/vuls/381130.html)
 
++ [数据完整性与数据身份验证](https://www.freebuf.com/vuls/391475.html)
+
