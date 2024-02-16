@@ -187,3 +187,7 @@
 
 + [英特尔准备带来酷睿i9-14900KS 或选择3月中旬发布](https://www.3dmgame.com/news/202402/3888490.html)
 
++ [《心灵杀手3》？Remedy表示会继续发展该系列](https://www.3dmgame.com/news/202402/3888492.html)
+
++ [《心灵杀手2》销量现已超130万 Remedy销售最快游戏](https://www.3dmgame.com/news/202402/3888491.html)
+
