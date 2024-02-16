@@ -107,3 +107,17 @@
 
 + [Sora by OpenAI](https://www.producthunt.com/posts/sora-by-openai)
 
++ [RoomGenius](https://www.producthunt.com/posts/roomgenius)
+
++ [Vizzy](https://www.producthunt.com/posts/vizzy-3)
+
++ [Gitlab Meeting Simulator 2024](https://www.producthunt.com/posts/gitlab-meeting-simulator-2024)
+
++ [Spokk](https://www.producthunt.com/posts/spokk-0b4263a5-a48f-4530-a797-9e38fe953a5d)
+
++ [Sierra](https://www.producthunt.com/posts/sierra)
+
++ [The Prayer Page](https://www.producthunt.com/posts/the-prayer-page)
+
++ [Emailee](https://www.producthunt.com/posts/emailee)
+

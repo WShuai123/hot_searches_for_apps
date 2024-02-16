@@ -189,3 +189,5 @@
 
 + [WebSocket | 基于TCP的全双工通信网络协议](https://blog.csdn.net/qq_60735796/article/details/136124706)
 
++ [OpenAI 最新发布的从文本生成视频模型 Sora 炸裂登场，它能根据文字指令创造逼真且富有想象力的场景](https://blog.csdn.net/fyfugoyfa/article/details/136126735)
+

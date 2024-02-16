@@ -39,3 +39,11 @@
 
 + [月底见，联想透明笔记本电脑渲染图再曝光](https://m.ithome.com/html/750425.htm)
 
++ [比亚迪仰望 U9 车型 2 月 25 日上市，零百加速达到 2 秒级](https://m.ithome.com/html/750471.htm)
+
++ [OpenAI 王炸：新 Sora 模型一句话生成 1 分钟视频，效果接近实拍](https://m.ithome.com/html/750453.htm)
+
++ [2024 春节档票房超过去年，进入中国影史前二](https://m.ithome.com/html/750456.htm)
+
++ [Epic 喜加一：《达喀尔沙漠拉力赛》游戏免费领取，下周送《辐射 1》《辐射 2》](https://m.ithome.com/html/750438.htm)
+
