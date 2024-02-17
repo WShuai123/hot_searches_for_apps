@@ -127,3 +127,9 @@
 
 + [OpenAI 最新发布的从文本生成视频模型 Sora 炸裂登场，它能根据文字指令创造逼真且富有想象力的场景](https://blog.csdn.net/fyfugoyfa/article/details/136126735)
 
++ [还在为各种神经网络算法而发愁吗?一篇文章带你快速走进深度学习](https://blog.csdn.net/lmy050813/article/details/136121617)
+
++ [挑战杯 python区块链实现 - proof of work工作量证明共识算法](https://blog.csdn.net/laafeer/article/details/136122490)
+
++ [【深度学习】Pytorch 系列教程（二）：PyTorch数据结构：1、Tensor（张量）： GPU加速（GPU Acceleration）](https://blog.csdn.net/m0_63834988/article/details/136122103)
+

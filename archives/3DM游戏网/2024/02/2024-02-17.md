@@ -105,3 +105,5 @@
 
 + [《枯萎的房间》4月2日正式发售 登陆PC和主机](https://www.3dmgame.com/news/202402/3888499.html)
 
++ [Xbox老大斯宾塞：独占游戏在未来十年内将不那么重要](https://www.3dmgame.com/news/202402/3888500.html)
+
