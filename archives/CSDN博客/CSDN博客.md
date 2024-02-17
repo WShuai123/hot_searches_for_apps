@@ -179,3 +179,5 @@
 
 + [SQL的1999语法](https://blog.csdn.net/weixin_67859959/article/details/136132901)
 
++ [文生视频：Sora模型报告总结](https://blog.csdn.net/qq_36816848/article/details/136130921)
+

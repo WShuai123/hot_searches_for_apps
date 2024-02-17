@@ -95,3 +95,9 @@
 
 + [Data never looked so good! Luminate.](https://dribbble.com/shots/)
 
++ [Locker App](https://dribbble.com/shots/)
+
++ [Patterns for restaurants and cafes](https://dribbble.com/shots/)
+
++ [Kings College](https://dribbble.com/shots/)
+

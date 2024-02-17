@@ -175,3 +175,7 @@
 
 + [经典《模拟山羊3》登陆Steam 爆笑山羊花样冒险](https://www.3dmgame.com/news/202402/3888530.html)
 
++ [《星际战甲》iOS版确定2月20日免费发布 经典射击游戏](https://www.3dmgame.com/news/202402/3888535.html)
+
++ [《绝地潜兵2》未来将推出跨平台存档和进度共享功能](https://www.3dmgame.com/news/202402/3888536.html)
+

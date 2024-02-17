@@ -49,3 +49,5 @@
 
 + [微软称下一代 Xbox 主机将是“你所见过最大的技术飞跃”](https://m.ithome.com/html/750514.htm)
 
++ [扎克伯格回应争议：Vision Pro 头显贵不代表好，部分果粉不容他人质疑苹果](https://m.ithome.com/html/750540.htm)
+
