@@ -69,3 +69,9 @@
 
 + [Simple Type Club 2024](https://dribbble.com/shots/)
 
++ [Good fortune](https://dribbble.com/shots/)
+
++ [Finn](https://dribbble.com/shots/)
+
++ [Color Lush](https://dribbble.com/shots/)
+
