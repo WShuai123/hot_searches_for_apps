@@ -39,3 +39,5 @@
 
 + [垂直排列再添新证，苹果 iPhone 16 相机组件曝光](https://m.ithome.com/html/750537.htm)
 
++ [三星 Galaxy S24 系列手机首次更新细节公布，多项拍摄体验提升](https://m.ithome.com/html/750517.htm)
+

@@ -149,3 +149,11 @@
 
 + [Web安全研究（六）](https://blog.csdn.net/AcSuccess/article/details/136112210)
 
++ [【Spring boot实战】Springboot＋对话ai模型整体框架+高并发线程机制处理优化+提示词工程效果展示（按照框架自己修改可对接市面上百分之99的模型）](https://blog.csdn.net/m0_72803988/article/details/136121663)
+
++ [[计算机网络]---序列化和反序列化](https://blog.csdn.net/qq_61552595/article/details/136118509)
+
++ [基于微信小程序的智能社区服务小程序，附源码](https://blog.csdn.net/2302_77835532/article/details/136123123)
+
++ [网络安全威胁，如何解决缓冲区溢出攻击](https://blog.csdn.net/yangyin1998/article/details/136121762)
+
