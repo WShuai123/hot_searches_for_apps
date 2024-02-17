@@ -165,3 +165,13 @@
 
 + [《赛博朋克2077》MOD修复帧生成画面缺陷](https://www.3dmgame.com/news/202402/3888528.html)
 
++ [《行星边际》被认定为边缘IP 转手出售给空壳公司](https://www.3dmgame.com/news/202402/3888534.html)
+
++ [《风火轮2：爆发》销量低于预期 但实现正面投资回报](https://www.3dmgame.com/news/202402/3888533.html)
+
++ [全球最小仿人机器人记录刷新 高141毫米能跳舞踢足球](https://www.3dmgame.com/news/202402/3888532.html)
+
++ [《最终幻想7：重生》对比《核心危机重制版》效果](https://www.3dmgame.com/news/202402/3888531.html)
+
++ [经典《模拟山羊3》登陆Steam 爆笑山羊花样冒险](https://www.3dmgame.com/news/202402/3888530.html)
+

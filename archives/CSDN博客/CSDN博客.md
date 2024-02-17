@@ -173,3 +173,9 @@
 
 + [OpenHarmony—UIAbility组件生命周期](https://blog.csdn.net/m0_70749039/article/details/136128613)
 
++ [人工智能学习与实训笔记（六）：神经网络之智能推荐系统](https://blog.csdn.net/weixin_45512098/article/details/136131103)
+
++ [深度学习主流开源框架：Caffe、TensorFlow、Pytorch、Theano、Keras、MXNet、Chainer](https://blog.csdn.net/seasonsyy/article/details/136132185)
+
++ [SQL的1999语法](https://blog.csdn.net/weixin_67859959/article/details/136132901)
+
