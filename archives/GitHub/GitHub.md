@@ -51,3 +51,33 @@
 
 + [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World)
+
++ [facefusion / facefusion](https://github.com/facefusion/facefusion)
+
++ [astral-sh / uv](https://github.com/astral-sh/uv)
+
++ [firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [google / generative-ai-dart](https://github.com/google/generative-ai-dart)
+
++ [dair-ai / ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+
++ [mitsuhiko / rye](https://github.com/mitsuhiko/rye)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [MichaelCade / 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+
++ [NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
+
++ [google-deepmind / graphcast](https://github.com/google-deepmind/graphcast)
+
++ [smartcontractkit / chainlink](https://github.com/smartcontractkit/chainlink)
+

@@ -179,3 +179,5 @@
 
 + [《绝地潜兵2》未来将推出跨平台存档和进度共享功能](https://www.3dmgame.com/news/202402/3888536.html)
 
++ [华硕发布32寸4K@240Hz OLED游戏显示器 1299美元](https://www.3dmgame.com/news/202402/3888537.html)
+

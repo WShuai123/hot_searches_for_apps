@@ -55,3 +55,7 @@
 
 + [全球首家在飞机上提供苹果 Vision Pro 头显，高端航空公司 Beond 官宣](https://m.ithome.com/html/750524.htm)
 
++ [高通启用“骁龙之声”声音标识：要像英特尔“灯等灯等灯”样尽人皆知](https://m.ithome.com/html/750594.htm)
+
++ [华为可变光圈专利获批：提高成像效果，P70 系列手机有望采用](https://m.ithome.com/html/750578.htm)
+
