@@ -157,3 +157,11 @@
 
 + [网络安全威胁，如何解决缓冲区溢出攻击](https://blog.csdn.net/yangyin1998/article/details/136121762)
 
++ [GPT-4带来的思想火花](https://blog.csdn.net/xw555666/article/details/136112186)
+
++ [【故障识别】基于注意力机制融合双向长短期记忆神经网络BILSTM的Adaboost故障识别数据分类BiLSTM-Attention-Adaboost附matlab代码](https://blog.csdn.net/m0_60703264/article/details/136136913)
+
++ [人工智能学习与实训笔记（五）：神经网络之推荐系统处理](https://blog.csdn.net/weixin_45512098/article/details/136131103)
+
++ [OpenAI 生成视频模型 Sora 论文翻译](https://blog.csdn.net/weixin_46300916/article/details/136131237)
+

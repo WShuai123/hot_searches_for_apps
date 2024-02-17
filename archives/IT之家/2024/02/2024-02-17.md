@@ -41,3 +41,5 @@
 
 + [三星 Galaxy S24 系列手机首次更新细节公布，多项拍摄体验提升](https://m.ithome.com/html/750517.htm)
 
++ [英伟达 RTX 5090 显卡爆料：加速频率超 3 GHz、192 个 SM、功耗 520W](https://m.ithome.com/html/750564.htm)
+

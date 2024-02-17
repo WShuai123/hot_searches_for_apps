@@ -151,3 +151,5 @@
 
 + [《Backrooms: The Project》Steam试玩发布 后室恐怖探索](https://www.3dmgame.com/news/202402/3888515.html)
 
++ [视觉ADV《贽之匣庭》新DLC上线 追加更多美少女剧情](https://www.3dmgame.com/news/202402/3888523.html)
+
