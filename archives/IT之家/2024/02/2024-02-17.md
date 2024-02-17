@@ -51,3 +51,7 @@
 
 + [扎克伯格回应争议：Vision Pro 头显贵不代表好，部分果粉不容他人质疑苹果](https://m.ithome.com/html/750540.htm)
 
++ [消息称新款极氪 001 将于 2 月 27 日发布，新车配置全面升级：800V、双腔空悬等](https://m.ithome.com/html/750595.htm)
+
++ [全球首家在飞机上提供苹果 Vision Pro 头显，高端航空公司 Beond 官宣](https://m.ithome.com/html/750524.htm)
+

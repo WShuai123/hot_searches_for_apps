@@ -181,3 +181,7 @@
 
 + [文生视频：Sora模型报告总结](https://blog.csdn.net/qq_36816848/article/details/136130921)
 
++ [前端开发：Vue框架与前端部署](https://blog.csdn.net/qq_50086023/article/details/134516192)
+
++ [平时积累的FPGA知识点（8）](https://blog.csdn.net/danxutj/article/details/136125939)
+
