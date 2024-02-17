@@ -165,3 +165,5 @@
 
 + [OpenAI 生成视频模型 Sora 论文翻译](https://blog.csdn.net/weixin_46300916/article/details/136131237)
 
++ [电脑上用什么软件恢复数据？2024年受欢迎的恢复软件推荐](https://blog.csdn.net/yqssjhf/article/details/136118464)
+

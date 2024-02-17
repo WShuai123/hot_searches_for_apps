@@ -153,3 +153,11 @@
 
 + [视觉ADV《贽之匣庭》新DLC上线 追加更多美少女剧情](https://www.3dmgame.com/news/202402/3888523.html)
 
++ [《横冲直撞2》RTX Remix MOD提升效果展示](https://www.3dmgame.com/news/202402/3888527.html)
+
++ [别样体验 《幻兽帕鲁》第一人称视角MOD发布](https://www.3dmgame.com/news/202402/3888526.html)
+
++ [消息称万代南梦宫已经将《艾尔登法环》商标权转让给FS社](https://www.3dmgame.com/news/202402/3888525.html)
+
++ [78.44亿票房创影史新高！但春节档8部电影一半撤档](https://www.3dmgame.com/news/202402/3888524.html)
+

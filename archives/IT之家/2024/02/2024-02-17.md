@@ -43,3 +43,5 @@
 
 + [英伟达 RTX 5090 显卡爆料：加速频率超 3 GHz、192 个 SM、功耗 520W](https://m.ithome.com/html/750564.htm)
 
++ [波兰独立游戏基金会发布“进入中国市场指南”：中文本地化等决定成败](https://m.ithome.com/html/750534.htm)
+

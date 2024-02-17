@@ -51,3 +51,5 @@
 
 + [攻防演习之三天拿下官网站群](https://www.freebuf.com/articles/system/356258.html)
 
++ [如何使用KnowsMore对Microsoft活动目录执行安全渗透测试](https://www.freebuf.com/sectool/389834.html)
+
