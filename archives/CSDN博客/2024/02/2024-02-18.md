@@ -133,3 +133,5 @@
 
 + [吴恩达机器学习全课程笔记第一篇](https://blog.csdn.net/m0_63222058/article/details/136136896)
 
++ [模糊数学方法及其应用](https://blog.csdn.net/Gabriel100yi/article/details/136144281)
+

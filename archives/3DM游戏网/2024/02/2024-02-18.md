@@ -101,3 +101,11 @@
 
 + [《博德之门3》荣获第27届DICE大奖年度游戏](https://www.3dmgame.com/news/202402/3888493.html)
 
++ [《板球编年史》Switch和PC版3/1推出](https://www.3dmgame.com/news/202402/3888546.html)
+
++ [Steam限时免费领取《RPG制作大师XP》](https://www.3dmgame.com/news/202402/3888544.html)
+
++ [《最终幻想7：重生》公布2段广告 宣传游戏卖点](https://www.3dmgame.com/news/202402/3888545.html)
+
++ [《超越善恶》高清复刻版已被韩国机构分级](https://www.3dmgame.com/news/202402/3888543.html)
+
