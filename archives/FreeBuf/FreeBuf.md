@@ -43,3 +43,5 @@
 
 + [ReversingLabs报告：威胁行为者正寻找新的方法滥用GitHub](https://www.freebuf.com/articles/paper/391600.html)
 
++ [从前端验签与加解密学习Yakit中WebFuzzer热加载](https://www.freebuf.com/vuls/391476.html)
+
