@@ -101,3 +101,35 @@
 
 + [OpenAI发布Sora模型，可根据文字生成逼真AI视频](https://blog.csdn.net/weixin_4528312/article/details/136134485)
 
++ [机器学习中的10种非线性降维技术对比总结](https://blog.csdn.net/m0_46510245/article/details/136127936)
+
++ [第七篇【传奇开心果系列】Python微项目技术点案例示例：数据可视化界面图形化经典案例](https://blog.csdn.net/jackchuanqi/article/details/136134586)
+
++ [基于Springboot车辆大全和百度AI车牌智能识别系统设计与实现 开题报告参考](https://blog.csdn.net/u013818205/article/details/136136740)
+
++ [SpringCloud-Nacos集群搭建](https://blog.csdn.net/weixin_41793160/article/details/136138569)
+
++ [【Linux系统化学习】缓冲区](https://blog.csdn.net/qq_55119554/article/details/136137846)
+
++ [【记录】个人博客或笔记中的数学符号设定](https://blog.csdn.net/qq_35812205/article/details/136135998)
+
++ [SpringBoot RabbitMQ收发消息、配置及原理](https://blog.csdn.net/weixin_44612246/article/details/136033832)
+
++ [【Spring MVC篇】返回响应](https://blog.csdn.net/m0_74352571/article/details/136118888)
+
++ [智胜未来，新时代IT技术人风口攻略-第四版（弃稿）](https://blog.csdn.net/weixin_42250835/article/details/136136794)
+
++ [反向迭代器------封装的力量](https://blog.csdn.net/2303_79336820/article/details/136131229)
+
++ [平时积累的FPGA知识点（8）](https://blog.csdn.net/danxutj/article/details/136125939)
+
++ [vscode写MATLAB配置](https://blog.csdn.net/BO_S__/article/details/136129104)
+
++ [Python爬虫html网址实战笔记](https://blog.csdn.net/weixin_44071904/article/details/136132267)
+
++ [centos7.9 搭建k8s](https://blog.csdn.net/qq_35429326/article/details/136121555)
+
++ [【ARM架构】ARMv8-A 系统中的安全架构概述](https://blog.csdn.net/weixin_45264425/article/details/136126098)
+
++ [吴恩达机器学习全课程笔记第一篇](https://blog.csdn.net/m0_63222058/article/details/136136896)
+
