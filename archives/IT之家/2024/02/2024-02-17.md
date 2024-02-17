@@ -59,3 +59,5 @@
 
 + [华为可变光圈专利获批：提高成像效果，P70 系列手机有望采用](https://m.ithome.com/html/750578.htm)
 
++ [开源工具 Dopamine 2.0 发布：支持苹果 iPhone / iPad 越狱 iOS / iPadOS 15.0-16.6.1](https://m.ithome.com/html/750542.htm)
+
