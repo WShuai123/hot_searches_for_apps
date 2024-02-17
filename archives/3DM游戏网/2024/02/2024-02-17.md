@@ -125,3 +125,13 @@
 
 + [《博德之门3》6号补丁上线 改进接吻动画修复Bug等](https://www.3dmgame.com/news/202402/3888501.html)
 
++ [Xbox官方欢迎《暗黑4》进XGP 下月可免费游玩](https://www.3dmgame.com/news/202402/3888514.html)
+
++ [《碧海黑帆》IGN 7分 像是粗略初稿但基础扎实](https://www.3dmgame.com/news/202402/3888513.html)
+
++ [AMD人士称Anti-Lag+技术即将回归 曾因判定作弊被BAN](https://www.3dmgame.com/news/202402/3888512.html)
+
++ [CDPR新作《Hadar项目》不是以封建日本为背景的恐怖游戏](https://www.3dmgame.com/news/202402/3888511.html)
+
++ [《极乐迪斯科》开发者：工作室状况恶化到无法挽回](https://www.3dmgame.com/news/202402/3888510.html)
+

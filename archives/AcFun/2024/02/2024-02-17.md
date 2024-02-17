@@ -81,3 +81,7 @@
 
 + [【年跃龙门】乡村聚餐之柴火狗](http://www.acfun.cn/v/ac43778745)
 
++ [【鼓小识】什么？蚂拐节！？](http://www.acfun.cn/v/ac43776670)
+
++ [【东方】おちゃめ機能【上海&蓬莱 MMD】](http://www.acfun.cn/v/ac43776850)
+

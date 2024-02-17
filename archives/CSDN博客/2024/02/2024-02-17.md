@@ -135,3 +135,11 @@
 
 + [网络原理-TCP_IP(6)](https://blog.csdn.net/asdssadddd/article/details/136069756)
 
++ [如何在 Angular 中使用环境变量](https://blog.csdn.net/rubys007/article/details/136118055)
+
++ [机器学习中的10种非线性降维技术对比总结](https://blog.csdn.net/m0_46510245/article/details/136127936)
+
++ [uniapp 开发一个密码管理app](https://blog.csdn.net/i_am_bad_man/article/details/136120783)
+
++ [【OpenAI Sora】开启未来：视频生成模型作为终极世界模拟器的突破之旅](https://blog.csdn.net/zhaitong1991/article/details/136127272)
+
