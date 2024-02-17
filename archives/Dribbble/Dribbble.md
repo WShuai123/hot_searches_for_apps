@@ -49,3 +49,23 @@
 
 + [The Auricular Site Graphic](https://dribbble.com/shots/)
 
++ [Tarot card #07: The Chariot](https://dribbble.com/shots/)
+
++ [Sriracha Revolver poster](https://dribbble.com/shots/)
+
++ [Terror of Demons Double IPA](https://dribbble.com/shots/)
+
++ [Harry Potter - Dust Jacket Collections](https://dribbble.com/shots/)
+
++ [The Purple Platoon.](https://dribbble.com/shots/)
+
++ [Night flower](https://dribbble.com/shots/)
+
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [Ross Mason on Awwwards](https://dribbble.com/shots/)
+
++ [MTG Leyline of Abundance](https://dribbble.com/shots/)
+
++ [Simple Type Club 2024](https://dribbble.com/shots/)
+

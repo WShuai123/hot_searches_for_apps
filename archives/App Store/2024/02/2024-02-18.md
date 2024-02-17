@@ -201,3 +201,5 @@
 
 + [腾讯会议-多人实时视频会议软件](https://itunes.apple.com/cn/app/id1484048379?mt=8)
 
++ [快影-创作有趣的视频](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
