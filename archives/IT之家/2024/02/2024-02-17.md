@@ -37,3 +37,5 @@
 
 + [UFS 3.1 误传为 4.0，一加 12R 256GB 手机开放全额退款](https://m.ithome.com/html/750550.htm)
 
++ [垂直排列再添新证，苹果 iPhone 16 相机组件曝光](https://m.ithome.com/html/750537.htm)
+

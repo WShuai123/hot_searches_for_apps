@@ -135,3 +135,19 @@
 
 + [《极乐迪斯科》开发者：工作室状况恶化到无法挽回](https://www.3dmgame.com/news/202402/3888510.html)
 
++ [《博德之门3》开发人员这次终于可以畅所欲言了](https://www.3dmgame.com/news/202402/3888521.html)
+
++ [《我的世界》官方发布DLC 玩家制作网络礼仪指引游戏](https://www.3dmgame.com/news/202402/3888522.html)
+
++ [弥补开局失误 《绝地潜兵2》1.5倍奖励周末开启](https://www.3dmgame.com/news/202402/3888517.html)
+
++ [消息称Respawn开发星战新游 曼达洛人赏金猎人主题](https://www.3dmgame.com/news/202402/3888518.html)
+
++ [黑人女星：黑人和包容性故事不再是好莱坞优先事项](https://www.3dmgame.com/news/202402/3888516.html)
+
++ [软银孙正义欲成立AI芯片企业 计划筹措千亿美元](https://www.3dmgame.com/news/202402/3888519.html)
+
++ [周鸿祎谈Sora视频模型：中美的AI差距还在加大](https://www.3dmgame.com/news/202402/3888520.html)
+
++ [《Backrooms: The Project》Steam试玩发布 后室恐怖探索](https://www.3dmgame.com/news/202402/3888515.html)
+
