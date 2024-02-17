@@ -193,3 +193,13 @@
 
 + [Vue2源码梳理：render函数的实现](https://blog.csdn.net/Tyro_java/article/details/136123083)
 
++ [探索设计模式的魅力：揭秘模版方法模式-让你的代码既灵活又可维护](https://blog.csdn.net/danci_/article/details/136139211)
+
++ [【Linux系统化学习】缓冲区](https://blog.csdn.net/qq_55119554/article/details/136137846)
+
++ [如何解决缓存和数据库的数据不一致问题](https://blog.csdn.net/yikong2yuxuan/article/details/136132035)
+
++ [文件管理大师：深入解析Linux的文件与目录操控](https://blog.csdn.net/Srlua/article/details/136134467)
+
++ [OpenAI发布Sora模型，可根据文字生成逼真AI视频](https://blog.csdn.net/weixin_4528312/article/details/136134485)
+
