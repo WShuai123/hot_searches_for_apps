@@ -45,3 +45,7 @@
 
 + [小米 14 Ultra 手机发布会定档 2 月 22 日，首场“人车家全生态”发布会](https://m.ithome.com/html/750657.htm)
 
++ [硬刚“公路杀手”，问界 M9 重卡夹击挑战获 A 级认证](https://m.ithome.com/html/750682.htm)
+
++ [COMFAST 推出 CF-BE200-M 无线网卡：Wi-Fi 7 + 蓝牙 5.4，售 167 元](https://m.ithome.com/html/750621.htm)
+

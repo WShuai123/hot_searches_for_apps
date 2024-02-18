@@ -57,3 +57,7 @@
 
 + [py-amsi：一款基于AMSI的恶意软件扫描与识别工具](https://www.freebuf.com/sectool/389903.html)
 
++ [黑客利用新型Dropper在Windows上传播恶意软件](https://www.freebuf.com/news/391906.html)
+
++ [SolarWinds 曝出五个严重的RCE漏洞](https://www.freebuf.com/news/391895.html)
+
