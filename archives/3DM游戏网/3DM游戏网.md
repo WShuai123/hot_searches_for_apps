@@ -223,3 +223,5 @@
 
 + [魅族决定停止传统“智能手机”项目 全力投入AI领域](https://www.3dmgame.com/news/202402/3888603.html)
 
++ [意大利虚幻5类魂游戏《恩诺提利亚：终曲》PC配置公开](https://www.3dmgame.com/news/202402/3888604.html)
+
