@@ -205,3 +205,7 @@
 
 + [[计算机网络]---Http协议](https://blog.csdn.net/qq_61552595/article/details/136147964)
 
++ [自然语言生成任务中的5种采样方法介绍和Pytorch代码实现](https://blog.csdn.net/m0_46510245/article/details/136147008)
+
++ [【监控】spring actuator源码速读](https://blog.csdn.net/Joker_ZJN/article/details/136154345)
+
