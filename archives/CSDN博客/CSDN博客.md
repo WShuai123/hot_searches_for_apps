@@ -101,3 +101,9 @@
 
 + [租用一个服务器需要多少钱?2024阿里云新版报价](https://blog.csdn.net/jiayou2017/article/details/136142830)
 
++ [协调尺度：特征缩放在机器学习中的重要作用](https://blog.csdn.net/gongdiwudu/article/details/136123380)
+
++ [智胜未来，新时代IT技术人风口攻略-第四版（弃稿）](https://blog.csdn.net/weixin_42250835/article/details/136136794)
+
++ [AxureRp8成果发布后不能直接预览的解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/136125661)
+
