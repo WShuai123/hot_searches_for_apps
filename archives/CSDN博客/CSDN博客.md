@@ -157,3 +157,9 @@
 
 + [Hadoop-Yarn-NodeManager都做了什么](https://blog.csdn.net/lu070828/article/details/136117702)
 
++ [第二篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：深度解读pyttsx3支持多种语音引擎](https://blog.csdn.net/jackchuanqi/article/details/136144322)
+
++ [租房招聘|在线租房和招聘平台|基于Springboot的在线租房和招聘平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136142525)
+
++ [第98讲：MHA高可用集群VIP地址配置与漂移实践](https://blog.csdn.net/weixin_44953658/article/details/136146199)
+

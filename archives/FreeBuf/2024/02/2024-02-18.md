@@ -49,3 +49,5 @@
 
 + [2024全球汽车网安风险焦点：GenAI、API、软件与社交媒体](https://www.freebuf.com/articles/neopoints/391803.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+
