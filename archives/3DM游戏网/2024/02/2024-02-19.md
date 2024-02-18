@@ -101,3 +101,5 @@
 
 + [《龙珠Z：卡卡罗特》“悟空的下一个旅程”DLC实机演示 月底上线](https://www.3dmgame.com/news/202402/3888561.html)
 
++ [《恩诺提利亚：终曲》6月21日发售 新预告发售](https://www.3dmgame.com/news/202402/3888611.html)
+
