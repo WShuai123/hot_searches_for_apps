@@ -41,3 +41,5 @@
 
 + [魅族宣布将停止传统“智能手机”新项目，向 AI 领域转型](https://m.ithome.com/html/750652.htm)
 
++ [小米 14 Ultra 手机官图公布：全等深微曲屏、全新背部曲线、全新全包裹中框](https://m.ithome.com/html/750671.htm)
+

@@ -51,3 +51,7 @@
 
 + [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
 
++ [13000多个Ivanti终端易受安全漏洞的影响](https://www.freebuf.com/news/391893.html)
+
++ [以“溯源”为诱饵反钓鱼蓝队，攻击队这波上大分](https://www.freebuf.com/defense/377071.html)
+
