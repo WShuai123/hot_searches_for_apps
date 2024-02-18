@@ -143,3 +143,9 @@
 
 + [暗黑类ARPG《最后纪元》新预告 正式版2月21日发售](https://www.3dmgame.com/news/202402/3888552.html)
 
++ [微星掌机Claw对比华硕Ally：功耗更高但性能反而更低了](https://www.3dmgame.com/news/202402/3888566.html)
+
++ [报告称暴雪正在计划进行更多裁员 玩家其担忧内部稳定性](https://www.3dmgame.com/news/202402/3888565.html)
+
++ [《龙之信条2》最佳打击感职业法师官方演示预告](https://www.3dmgame.com/news/202402/3888564.html)
+

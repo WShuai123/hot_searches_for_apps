@@ -147,3 +147,9 @@
 
 + [VScode写LaTeX配置，实测有效](https://blog.csdn.net/BO_S__/article/details/136129261)
 
++ [AIGC实战——能量模型(Energy-Based Model)](https://blog.csdn.net/LOVEmy134611/article/details/136125887)
+
++ [网络原理-TCP/IP(7)](https://blog.csdn.net/asdssadddd/article/details/136134824)
+
++ [RabbitMQ如何保证可靠](https://blog.csdn.net/weixin_46376562/article/details/136126068)
+
