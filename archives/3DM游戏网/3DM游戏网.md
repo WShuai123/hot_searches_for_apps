@@ -175,3 +175,15 @@
 
 + [《胜利女神》新女神艾蕾格公开 短发遮目巨胸露脐](https://www.3dmgame.com/news/202402/3888579.html)
 
++ [《电锯人》作者藤本树短篇漫画《蓦然回首》将推出剧场版动画](https://www.3dmgame.com/news/202402/3888585.html)
+
++ [《鸣潮》开场动画“向未来去”公布 奏鸣测试即将开启](https://www.3dmgame.com/news/202402/3888583.html)
+
++ [《真知之岛》官方删除在线合作游戏标签 称共享世界出现问题](https://www.3dmgame.com/news/202402/3888584.html)
+
++ [GunHo财报透露 《死亡之旅：让他去死》正在重新开发中](https://www.3dmgame.com/news/202402/3888582.html)
+
++ [万代魂施行塑胶回收计划 并推出混合木屑高达](https://www.3dmgame.com/news/202402/3888581.html)
+
++ [《白色情人节2：谎言之花》完整版将登陆主机平台 2024年发售](https://www.3dmgame.com/news/202402/3888580.html)
+

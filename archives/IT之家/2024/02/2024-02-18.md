@@ -43,3 +43,5 @@
 
 + [小米 14 Ultra 手机官图公布：全等深微曲屏、全新背部曲线、全新全包裹中框](https://m.ithome.com/html/750671.htm)
 
++ [小米 14 Ultra 手机发布会定档 2 月 22 日，首场“人车家全生态”发布会](https://m.ithome.com/html/750657.htm)
+
