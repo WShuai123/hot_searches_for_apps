@@ -49,3 +49,5 @@
 
 + [COMFAST 推出 CF-BE200-M 无线网卡：Wi-Fi 7 + 蓝牙 5.4，售 167 元](https://m.ithome.com/html/750621.htm)
 
++ [小鹏全员信：3 年内规划新品或改款约 30 款车型，今年是淘汰赛的第一年](https://m.ithome.com/html/750670.htm)
+

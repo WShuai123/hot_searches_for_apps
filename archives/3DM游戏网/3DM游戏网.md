@@ -187,3 +187,15 @@
 
 + [《白色情人节2：谎言之花》完整版将登陆主机平台 2024年发售](https://www.3dmgame.com/news/202402/3888580.html)
 
++ [英伟达首次公开目前最快AI超算 搭载4608个H100](https://www.3dmgame.com/news/202402/3888591.html)
+
++ [任天堂发言人回应Switch 2延期传闻：无可奉告](https://www.3dmgame.com/news/202402/3888590.html)
+
++ [2024年Epic更新计划：改进离线模式 完善好友功能](https://www.3dmgame.com/news/202402/3888589.html)
+
++ [锦上添花气氛拉满 《高达SEED》名曲诞生秘闻录](https://www.3dmgame.com/news/202402/3888588.html)
+
++ [Atlus未公布游戏开发代号曝光 或为《女神异闻录》新作](https://www.3dmgame.com/news/202402/3888587.html)
+
++ [因拖欠66万租金被房东起诉：法拉第未来可能失去总部大楼](https://www.3dmgame.com/news/202402/3888586.html)
+
