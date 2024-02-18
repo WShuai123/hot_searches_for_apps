@@ -49,3 +49,23 @@
 
 + [Davinci Logo design by milkinside](https://dribbble.com/shots/)
 
++ [Cactus Dragon](https://dribbble.com/shots/)
+
++ [Bite  | Web iIlustrations](https://dribbble.com/shots/)
+
++ [Desert Blossom ????️](https://dribbble.com/shots/)
+
++ [Finn](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #3](https://dribbble.com/shots/)
+
++ [Boba 2](https://dribbble.com/shots/)
+
++ [Tarot card #07: The Chariot](https://dribbble.com/shots/)
+
++ [Dune Alternative Poster](https://dribbble.com/shots/)
+
++ [Locker App](https://dribbble.com/shots/)
+
++ [The Auricular Site Graphic](https://dribbble.com/shots/)
+

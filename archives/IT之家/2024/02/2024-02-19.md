@@ -25,3 +25,5 @@
 
 + [埃安 AION Y Plus 智驾版上市，售价 14.58-15.58 万元](https://m.ithome.com/html/750681.htm)
 
++ [小米 Civi 4 手机入网工信部，支持卫星通信](https://m.ithome.com/html/750712.htm)
+
