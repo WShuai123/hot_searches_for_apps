@@ -149,3 +149,25 @@
 
 + [《龙之信条2》最佳打击感职业法师官方演示预告](https://www.3dmgame.com/news/202402/3888564.html)
 
++ [《无敌少侠》第二季第2部分官方预告公布](https://www.3dmgame.com/news/202402/3888577.html)
+
++ [《RC Revolution》登陆Steam 无线遥控赛车竞速](https://www.3dmgame.com/news/202402/3888576.html)
+
++ [佛罗里达不养闲人 因Xbox主机起争执男子用武士刀袭击朋友](https://www.3dmgame.com/news/202402/3888575.html)
+
++ [不拔电脑等电源插头有点浪费 一个月至少多耗电3.6度](https://www.3dmgame.com/news/202402/3888574.html)
+
++ [恐怖电影《STING》发布预告 蜘蛛恐惧症慎入](https://www.3dmgame.com/news/202402/3888573.html)
+
++ [《铁拳8》ESRB评级更新 或将加入微交易系统](https://www.3dmgame.com/news/202402/3888572.html)
+
++ [迈克尔杰克逊传记片《迈克尔》路透照 太像本尊](https://www.3dmgame.com/news/202402/3888571.html)
+
++ [《霓虹之尾》Steam页面上线 开放世界动作RPG新游](https://www.3dmgame.com/news/202402/3888570.html)
+
++ [《最终幻想7：重生》发售在即 惯例痛地铁宣传策划再次袭来](https://www.3dmgame.com/news/202402/3888569.html)
+
++ [《夜莺传说》制作人夸赞《英灵神殿》对生存类游戏的贡献](https://www.3dmgame.com/news/202402/3888568.html)
+
++ [《黑旗》与《碧海黑帆》对比视频 看看有何差别](https://www.3dmgame.com/news/202402/3888567.html)
+

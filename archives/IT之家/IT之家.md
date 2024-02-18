@@ -39,3 +39,5 @@
 
 + [小米 14 Ultra 手机发布在即，现已开启线下盲订](https://m.ithome.com/html/750640.htm)
 
++ [魅族宣布将停止传统“智能手机”新项目，向 AI 领域转型](https://m.ithome.com/html/750652.htm)
+
