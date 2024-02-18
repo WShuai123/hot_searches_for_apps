@@ -225,3 +225,13 @@
 
 + [意大利虚幻5类魂游戏《恩诺提利亚：终曲》PC配置公开](https://www.3dmgame.com/news/202402/3888604.html)
 
++ [今年可能不会看到Windows 12 原因或是碎片化](https://www.3dmgame.com/news/202402/3888608.html)
+
++ [由于引起崩溃 《夜莺》首发暂不支持AMD FSR 3](https://www.3dmgame.com/news/202402/3888607.html)
+
++ [苹果也不安全了！iOS系统首现木马病毒](https://www.3dmgame.com/news/202402/3888609.html)
+
++ [粉丝请愿 希望《绝地潜兵2》登陆Xbox平台](https://www.3dmgame.com/news/202402/3888605.html)
+
++ [Vision Pro出现退货潮？外媒调查24家零售店后表示这是假新闻](https://www.3dmgame.com/news/202402/3888606.html)
+

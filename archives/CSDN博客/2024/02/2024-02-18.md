@@ -211,3 +211,11 @@
 
 + [【MySQL】学习多表查询和笛卡尔积](https://blog.csdn.net/Aileenvov/article/details/136153617)
 
++ [开源软件：推动软件行业繁荣的力量](https://blog.csdn.net/a1657054242/article/details/136154109)
+
++ [[Docker实战] 旭日X3派上Docker Openwrt +Samba 实现局域网NAS && 开启AP模式](https://blog.csdn.net/sdhajkdghjkawhd/article/details/136138267)
+
++ [网络原理 - HTTP/HTTPS(1)](https://blog.csdn.net/asdssadddd/article/details/136146849)
+
++ [Java实现新能源电池回收系统 JAVA+Vue+SpringBoot+MySQL](https://blog.csdn.net/customer08/article/details/136141000)
+

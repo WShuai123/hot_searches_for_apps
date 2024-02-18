@@ -59,3 +59,7 @@
 
 + [不止科技纳米皮、没有玻璃，多名高管暗示小米 14 Ultra 将提供多种机身材质](https://m.ithome.com/html/750714.htm)
 
++ [消息称 vivo Pad3 平板搭载骁龙 8s Gen 3 处理器，Pro 版为天玑 9300](https://m.ithome.com/html/750685.htm)
+
++ [埃安 AION Y Plus 智驾版上市，售价 14.58-15.58 万元](https://m.ithome.com/html/750681.htm)
+
