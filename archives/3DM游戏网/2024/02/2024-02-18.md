@@ -211,3 +211,13 @@
 
 + [《热辣滚烫》热辣蜕变曲MV 胖瘦版两个贾玲对唱引热议](https://www.3dmgame.com/news/202402/3888595.html)
 
++ [BL 游戏《东京24区 -祈-》预定4月11日正式发售！游戏系统及玩法介绍](https://www.3dmgame.com/news/202402/3888602.html)
+
++ [名作冒险RPG《守望传说 for NINTENDO SWITCH》确定推出中文实体版！](https://www.3dmgame.com/news/202402/3888601.html)
+
++ [《东方夜雀食堂》将于 2024 年 5 月 2 日发售NS亚洲版本](https://www.3dmgame.com/news/202402/3888600.html)
+
++ [《蜘蛛侠：纵横宇宙》斩获第51届安妮动画大奖七项大奖](https://www.3dmgame.com/news/202402/3888599.html)
+
++ [小米iPhone档次鄙视链引热议 ：手机还是身份象征吗？](https://www.3dmgame.com/news/202402/3888598.html)
+
