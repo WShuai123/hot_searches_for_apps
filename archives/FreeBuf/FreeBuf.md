@@ -41,3 +41,7 @@
 
 + [某企业安全规划实战篇](https://www.freebuf.com/articles/379866.html)
 
++ [FreeBuf早报 | 某军民融合企业平台被境外间谍入侵；Office六年前漏洞仍被利用](https://www.freebuf.com/news/391862.html)
+
++ [针对macOS盗版UltraEdit恶意软件的深度技术剖析](https://www.freebuf.com/articles/endpoint/391619.html)
+

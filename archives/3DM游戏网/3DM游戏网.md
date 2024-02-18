@@ -109,3 +109,11 @@
 
 + [《超越善恶》高清复刻版已被韩国机构分级](https://www.3dmgame.com/news/202402/3888543.html)
 
++ [《古墓丽影三部曲：重制版》中敌人性感夹克被和谐](https://www.3dmgame.com/news/202402/3888550.html)
+
++ [类魂ARPG《艾诺提亚：失落之歌》发售日确定](https://www.3dmgame.com/news/202402/3888549.html)
+
++ [Win11 24H2升级更苛刻：旧电脑可能“无法启动”](https://www.3dmgame.com/news/202402/3888548.html)
+
++ [开放世界无限地图《夜莺传说》7分钟介绍视频](https://www.3dmgame.com/news/202402/3888547.html)
+
