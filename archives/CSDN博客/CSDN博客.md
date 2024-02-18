@@ -139,3 +139,11 @@
 
 + [电脑上用什么软件恢复数据？2024年受欢迎的恢复软件推荐](https://blog.csdn.net/yqssjhf/article/details/136118464)
 
++ [神经网络学习小记录78——Keras CA（Coordinate attention）注意力机制的解析与代码详解](https://blog.csdn.net/weixin_44791964/article/details/126319522)
+
++ [Flutter 2024 路线规划，更多可期待的功能正在路上](https://blog.csdn.net/ZuoYueLiang/article/details/136129332)
+
++ [鸿蒙开发-HarmonyOS UI架构](https://blog.csdn.net/m0_62167422/article/details/136130080)
+
++ [VScode写LaTeX配置，实测有效](https://blog.csdn.net/BO_S__/article/details/136129261)
+

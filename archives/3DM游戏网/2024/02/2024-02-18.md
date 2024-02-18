@@ -117,3 +117,29 @@
 
 + [开放世界无限地图《夜莺传说》7分钟介绍视频](https://www.3dmgame.com/news/202402/3888547.html)
 
++ [《使命召唤》电竞选手起诉动视：非法垄断 索赔6.8亿美元](https://www.3dmgame.com/news/202402/3888563.html)
+
++ [宝可梦联动初音未来新曲MV公开 激情动感新演绎](https://www.3dmgame.com/news/202402/3888562.html)
+
++ [《龙珠Z：卡卡罗特》“悟空的下一个旅程”DLC实机演示 月底上线](https://www.3dmgame.com/news/202402/3888561.html)
+
++ [《自杀小队》开发商表示 解决登陆和服务器问题仍是首要任务](https://www.3dmgame.com/news/202402/3888560.html)
+
++ [传Xbox Series X|S中期换代机型被取消开发 后者有AI功能](https://www.3dmgame.com/news/202402/3888559.html)
+
++ [《幻兽帕鲁》开发商将加强反作弊措施 要严厉打击](https://www.3dmgame.com/news/202402/3888558.html)
+
++ [《龙之信条2》Steam后台更新 或将推出试玩版](https://www.3dmgame.com/news/202402/3888556.html)
+
++ [为弥补奖励结算错误问题 《地狱潜者2》本周末提供50%经验加成](https://www.3dmgame.com/news/202402/3888557.html)
+
++ [《天幕探索者》Steam页面上线 PvPvE幻想风战斗](https://www.3dmgame.com/news/202402/3888555.html)
+
++ [弩哥：《死亡搁浅2》将更暴力 更注重动作](https://www.3dmgame.com/news/202402/3888554.html)
+
++ [Epic承认部分玩家下载游戏时出现客户端崩溃情况](https://www.3dmgame.com/news/202402/3888553.html)
+
++ [《不朽者传奇》在英国超市大甩卖 售价仅1英镑](https://www.3dmgame.com/news/202402/3888551.html)
+
++ [暗黑类ARPG《最后纪元》新预告 正式版2月21日发售](https://www.3dmgame.com/news/202402/3888552.html)
+
