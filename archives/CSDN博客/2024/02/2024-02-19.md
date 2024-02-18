@@ -107,3 +107,21 @@
 
 + [AxureRp8成果发布后不能直接预览的解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/136125661)
 
++ [【机器学习】机器学习是什么以及有哪些应用场景](https://blog.csdn.net/weixin_44299027/article/details/136157627)
+
++ [基于微信小程序电子书小说平台系统设计与实现（PHP+Mysql后台）](https://blog.csdn.net/u013818205/article/details/136004731)
+
++ [基于 Amazon EC2 和 Amazon Systems Manager Session Manager 的堡垒机的设计和自动化实现](https://blog.csdn.net/m0_63947499/article/details/136149316)
+
++ [微信小程序之开发会议OA项目](https://blog.csdn.net/weixin_74457789/article/details/136158659)
+
++ [扩展语音识别系统：增强功能与多语言支持](https://blog.csdn.net/2202_75568470/article/details/136160138)
+
++ [MATLAB | 绘图复刻(十五) | 环形聚类树状图](https://blog.csdn.net/slandarer/article/details/136158914)
+
++ [【.NET Core】深入理解async 和 await 理解](https://blog.csdn.net/songjianlong/article/details/136159930)
+
++ [教你用Rust实现Smpp协议](https://blog.csdn.net/devcloud/article/details/136153878)
+
++ [web前端知识总结（上） 非常适合小白入手](https://blog.csdn.net/qq_55846232/article/details/136142297)
+
