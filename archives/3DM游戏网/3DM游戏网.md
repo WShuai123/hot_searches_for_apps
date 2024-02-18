@@ -221,3 +221,5 @@
 
 + [小米iPhone档次鄙视链引热议 ：手机还是身份象征吗？](https://www.3dmgame.com/news/202402/3888598.html)
 
++ [魅族决定停止传统“智能手机”项目 全力投入AI领域](https://www.3dmgame.com/news/202402/3888603.html)
+

@@ -51,3 +51,33 @@
 
 + [smartcontractkit / chainlink](https://github.com/smartcontractkit/chainlink)
 
++ [google / magika](https://github.com/google/magika)
+
++ [gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [microsoft / UFO](https://github.com/microsoft/UFO)
+
++ [kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade)
+
++ [ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline)
+
++ [mastodon / mastodon](https://github.com/mastodon/mastodon)
+
++ [adrianhajdin / ai_saas_app](https://github.com/adrianhajdin/ai_saas_app)
+
++ [zed-industries / extensions](https://github.com/zed-industries/extensions)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+
++ [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
++ [facebookresearch / DiT](https://github.com/facebookresearch/DiT)
+
++ [ajeetdsouza / zoxide](https://github.com/ajeetdsouza/zoxide)
+
++ [misskey-dev / misskey](https://github.com/misskey-dev/misskey)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
