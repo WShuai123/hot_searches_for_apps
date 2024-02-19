@@ -41,3 +41,5 @@
 
 + [纯黑版小米 14 Ultra 手机亮相，2 月 22 日发布](https://m.ithome.com/html/750757.htm)
 
++ [绿联推出 300W 双向快充磷酸铁锂移动电源：48000mAh 容量，到手 699 元](https://m.ithome.com/html/750738.htm)
+

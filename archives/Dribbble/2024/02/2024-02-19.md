@@ -101,3 +101,5 @@
 
 + [Ayala Coffee - Logo Explorations](https://dribbble.com/shots/)
 
++ [Tarot card #08: Strength](https://dribbble.com/shots/)
+

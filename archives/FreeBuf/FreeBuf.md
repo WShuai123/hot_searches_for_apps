@@ -59,3 +59,5 @@
 
 + [微软和OpenAI将检查AI聊天记录，以寻找恶意账户](https://www.freebuf.com/news/391967.html)
 
++ [AcuAutomate：一款基于Acunetix的大规模自动化渗透测试与漏洞扫描工具](https://www.freebuf.com/sectool/389835.html)
+

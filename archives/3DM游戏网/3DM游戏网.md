@@ -205,3 +205,11 @@
 
 + [前卡普空传奇制作人冈本吉起新策划公开 两个超大游戏项目](https://www.3dmgame.com/news/202402/3888659.html)
 
++ [玩家在《王国之泪》中发现通天术直达空岛的技巧](https://www.3dmgame.com/news/202402/3888666.html)
+
++ [《堡垒之夜-火箭竞速》或将添加三款联动车辆 包括蝙蝠车](https://www.3dmgame.com/news/202402/3888665.html)
+
++ [动画《约会大作战V》第五季首部PV放出 2024年4月放送](https://www.3dmgame.com/news/202402/3888664.html)
+
++ [《方舟：生存飞升》“爱之飞升”活动开启，巨盗龙最新原画首曝](https://www.3dmgame.com/news/202402/3888663.html)
+
