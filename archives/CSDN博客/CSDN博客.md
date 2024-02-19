@@ -145,3 +145,9 @@
 
 + [计算机网络(第四章)](https://blog.csdn.net/m0_49635911/article/details/135948428)
 
++ [机器学习中的10种非线性降维技术对比总结](https://blog.csdn.net/m0_46510245/article/details/136127936)
+
++ [Sora爆火，普通人的10个赚钱机会](https://blog.csdn.net/u014534808/article/details/136145153)
+
++ [外包干了10个月，技术退步明显...](https://blog.csdn.net/YLF123456789000/article/details/136130955)
+

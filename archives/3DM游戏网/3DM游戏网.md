@@ -173,3 +173,13 @@
 
 + [斯宾塞透露：今年就能在Xbox云游戏玩全部已拥有游戏](https://www.3dmgame.com/news/202402/3888640.html)
 
++ [《最终幻想7：重生》太阳海岸 神罗公馆等地点介绍](https://www.3dmgame.com/news/202402/3888648.html)
+
++ [索尼研发成功新型半导体激光器 大容量硬盘迎突破](https://www.3dmgame.com/news/202402/3888651.html)
+
++ [《MLB The Show 24》豪华版公开 美亚预购已开启](https://www.3dmgame.com/news/202402/3888650.html)
+
++ [回合制RPG《Bestiario》宣传片 预计登陆全平台](https://www.3dmgame.com/news/202402/3888649.html)
+
++ [玩家用100瓶生发水在《荒野大镖客2》中表演头发特技](https://www.3dmgame.com/news/202402/3888647.html)
+

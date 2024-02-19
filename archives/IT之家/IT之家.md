@@ -35,3 +35,5 @@
 
 + [比亚迪秦 PLUS 荣耀版上市，售 7.98 万元起](https://m.ithome.com/html/750779.htm)
 
++ [小鹏汽车法务部“开工”：博主“小牛说车”公开致歉并作出经济赔偿](https://m.ithome.com/html/750742.htm)
+
