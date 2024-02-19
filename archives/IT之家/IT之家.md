@@ -31,3 +31,7 @@
 
 + [华为路由 AX6 Pro 上架：支持 Wi-Fi6+、7200Mbps 及灵犀双 Wi-Fi，预售价 699 元](https://m.ithome.com/html/750729.htm)
 
++ [苹果 iPhone 16 Pro 渲染图曝光：启用全新相机岛设计](https://m.ithome.com/html/750754.htm)
+
++ [比亚迪秦 PLUS 荣耀版上市，售 7.98 万元起](https://m.ithome.com/html/750779.htm)
+

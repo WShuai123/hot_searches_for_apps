@@ -137,3 +137,11 @@
 
 + [OpenAI超级视频模型Sora登上央视，LeCun强推的「世界模型」雏形相继诞生，AGI如何能够以人类的理解方式看世界？](https://blog.csdn.net/qq_36396104/article/details/136155281)
 
++ [探索设计模式的魅力：掌握命令模式-解锁软件设计的‘遥控器’](https://blog.csdn.net/danci_/article/details/136150941)
+
++ [MySQL篇之SQL优化](https://blog.csdn.net/weixin_53094999/article/details/136138726)
+
++ [如何在 Angular 中使用懒加载路由](https://blog.csdn.net/rubys007/article/details/136118108)
+
++ [计算机网络(第四章)](https://blog.csdn.net/m0_49635911/article/details/135948428)
+

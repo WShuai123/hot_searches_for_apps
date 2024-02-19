@@ -47,3 +47,7 @@
 
 + [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
 
++ [黑莓加大裁员力度，目标年利润再增1亿美元](https://www.freebuf.com/news/391949.html)
+
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+

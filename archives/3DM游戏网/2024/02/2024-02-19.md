@@ -141,3 +141,35 @@
 
 + [《三角符文》第三章接近完成 第四章正在开发中](https://www.3dmgame.com/news/202402/3888624.html)
 
++ [发售仅5天 《深岩银河：幸存者》Steam玩家数超越原版游戏](https://www.3dmgame.com/news/202402/3888645.html)
+
++ [Humble推出《命运2》慈善包：全DLC仅需40美元](https://www.3dmgame.com/news/202402/3888643.html)
+
++ [《星刃》豪华版女主和莉莉服装外观 更性感热辣](https://www.3dmgame.com/news/202402/3888646.html)
+
++ [漫改《一兆游戏》真人电影公开 预定2025年上映](https://www.3dmgame.com/news/202402/3888644.html)
+
++ [OneRepublic不想被玩家称为来自《堡垒之夜音乐节》的乐队](https://www.3dmgame.com/news/202402/3888642.html)
+
++ [世嘉确定《疯狂出租车》系列重启作为3A游戏](https://www.3dmgame.com/news/202402/3888639.html)
+
++ [第三人称冒险游戏《指南》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202402/3888638.html)
+
++ [恋爱游戏《我被古装美女包围了》Steam版发售 售价12元](https://www.3dmgame.com/news/202402/3888635.html)
+
++ [第28届《手冢治虫文化赏》提名十强出炉 《我推之子》得票领先](https://www.3dmgame.com/news/202402/3888637.html)
+
++ [附魔装备作战，卡牌生成世界？3A大作《夜莺传说》新预告片来了！](https://www.3dmgame.com/news/202402/3888636.html)
+
++ [吕克·贝松将执导《德古拉》电影 克里斯托夫·瓦尔兹主演](https://www.3dmgame.com/news/202402/3888634.html)
+
++ [《破晓传说》2月20日加入Game Pass和PS Plus](https://www.3dmgame.com/news/202402/3888633.html)
+
++ [失眠组泄露中已发现《漫威金刚狼》首个正式预告](https://www.3dmgame.com/news/202402/3888632.html)
+
++ [《龙珠斗士Z》本世代更新将添加4K 传奇版包含所有DLC角色](https://www.3dmgame.com/news/202402/3888631.html)
+
++ [波兰《游戏开发商中国市场指南》：必须要有中文支持](https://www.3dmgame.com/news/202402/3888641.html)
+
++ [斯宾塞透露：今年就能在Xbox云游戏玩全部已拥有游戏](https://www.3dmgame.com/news/202402/3888640.html)
+
