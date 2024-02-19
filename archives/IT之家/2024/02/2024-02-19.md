@@ -37,3 +37,5 @@
 
 + [小鹏汽车法务部“开工”：博主“小牛说车”公开致歉并作出经济赔偿](https://m.ithome.com/html/750742.htm)
 
++ [小米平板 6S Pro 官宣：120W 快充、第二代骁龙 8、12.4 英寸 3K 屏](https://m.ithome.com/html/750783.htm)
+

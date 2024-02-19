@@ -51,3 +51,5 @@
 
 + [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
 
++ [记一次有趣的逻辑漏洞挖洞经历](https://www.freebuf.com/articles/web/391879.html)
+
