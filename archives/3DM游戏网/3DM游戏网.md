@@ -103,3 +103,13 @@
 
 + [《恩诺提利亚：终曲》6月21日发售 新预告发售](https://www.3dmgame.com/news/202402/3888611.html)
 
++ [时代周刊推出宝可梦25周年纪念特刊](https://www.3dmgame.com/news/202402/3888616.html)
+
++ [一击毙命格斗游戏《命悬一刃》发布游戏性预告](https://www.3dmgame.com/news/202402/3888615.html)
+
++ [探索恐怖太空 意大利《地狱银河》正式公布](https://www.3dmgame.com/news/202402/3888614.html)
+
++ [极简风格策略模拟游戏《六十四》下月发售PC版](https://www.3dmgame.com/news/202402/3888613.html)
+
++ [西班牙神话回合RPG《神兽传奇》发布全新预告](https://www.3dmgame.com/news/202402/3888612.html)
+

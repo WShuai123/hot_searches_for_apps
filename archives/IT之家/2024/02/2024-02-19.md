@@ -27,3 +27,5 @@
 
 + [小米 Civi 4 手机入网工信部，支持卫星通信](https://m.ithome.com/html/750712.htm)
 
++ [停工首日：高合汽车员工称 18 日起工厂不能进入，上月工厂即已进入半停工状态](https://m.ithome.com/html/750744.htm)
+
