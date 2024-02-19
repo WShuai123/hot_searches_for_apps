@@ -43,3 +43,7 @@
 
 + [绿联推出 300W 双向快充磷酸铁锂移动电源：48000mAh 容量，到手 699 元](https://m.ithome.com/html/750738.htm)
 
++ [比亚迪驱逐舰 05 荣耀版上市，7.98 万元起](https://m.ithome.com/html/750815.htm)
+
++ [华为 Pocket 2 小折叠手机官宣 2 月 22 日发布，消息称搭载麒麟 9000S 5G 芯片](https://m.ithome.com/html/750776.htm)
+

@@ -61,3 +61,7 @@
 
 + [AcuAutomate：一款基于Acunetix的大规模自动化渗透测试与漏洞扫描工具](https://www.freebuf.com/sectool/389835.html)
 
++ [一黑客因出售美国和加拿大用户银行信息被捕！](https://www.freebuf.com/news/391984.html)
+
++ [微软和OpenAI将开启AI账户监控，引发业界隐私担忧](https://www.freebuf.com/news/391967.html)
+

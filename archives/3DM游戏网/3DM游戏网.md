@@ -213,3 +213,15 @@
 
 + [《方舟：生存飞升》“爱之飞升”活动开启，巨盗龙最新原画首曝](https://www.3dmgame.com/news/202402/3888663.html)
 
++ [手握 793亿现金！任天堂成为日本最有钱公司](https://www.3dmgame.com/news/202402/3888672.html)
+
++ [《侠探杰克》美剧男主再次重申：非常愿意演蝙蝠侠](https://www.3dmgame.com/news/202402/3888671.html)
+
++ [《轩辕剑外传：穹之扉》2024年夏季登陆PS5 限定版内容公开](https://www.3dmgame.com/news/202402/3888670.html)
+
++ [Xbox动漫月活动预告 诸多动漫佳作畅享好价](https://www.3dmgame.com/news/202402/3888669.html)
+
++ [《高达SEED》官方投票中间结果 基拉与命运高达SpecII登顶](https://www.3dmgame.com/news/202402/3888668.html)
+
++ [《星刃》拥有3种图形模式 提供4K或者60帧体验](https://www.3dmgame.com/news/202402/3888667.html)
+
