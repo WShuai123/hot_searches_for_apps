@@ -113,3 +113,31 @@
 
 + [西班牙神话回合RPG《神兽传奇》发布全新预告](https://www.3dmgame.com/news/202402/3888612.html)
 
++ [复古心理生存恐怖游戏《心丝虫》宣布跳票至2025年](https://www.3dmgame.com/news/202402/3888625.html)
+
++ [老黄：学计算机的时代已经过去 生命科学才是未来](https://www.3dmgame.com/news/202402/3888626.html)
+
++ [《远征:泥泞奔驰》“兴趣点”预告 3月5日正式发售](https://www.3dmgame.com/news/202402/3888627.html)
+
++ [索尼新专利：带屏幕AI手柄 为玩家提建议提高技术](https://www.3dmgame.com/news/202402/3888628.html)
+
++ [乙女游戏大厂Otomate公布制作计划 新旧游戏11部陆续推出](https://www.3dmgame.com/news/202402/3888629.html)
+
++ [《最终幻想7：重生》巴雷特演员：很高兴有黑人角色](https://www.3dmgame.com/news/202402/3888630.html)
+
++ [传闻：任天堂直面会合作伙伴展示会本周举行](https://www.3dmgame.com/news/202402/3888617.html)
+
++ [《地狱潜者2》大火 Steam玩家峰值数超《给他爱5》](https://www.3dmgame.com/news/202402/3888618.html)
+
++ [微交易来袭！《铁拳8》即将加入游戏内商店](https://www.3dmgame.com/news/202402/3888619.html)
+
++ [防止服务器不稳定 《绝地潜兵2》服务器设限45万人](https://www.3dmgame.com/news/202402/3888620.html)
+
++ [《碧海黑帆》M站用户评分仅为2.9分 为24年该评分最差游戏](https://www.3dmgame.com/news/202402/3888621.html)
+
++ [日厂推出创意袖珍键盘 复制粘贴剪切三键Mac/iPad专用](https://www.3dmgame.com/news/202402/3888622.html)
+
++ [传乐高足球游戏《Lego 2K Goooal！》将在3月亮相](https://www.3dmgame.com/news/202402/3888623.html)
+
++ [《三角符文》第三章接近完成 第四章正在开发中](https://www.3dmgame.com/news/202402/3888624.html)
+

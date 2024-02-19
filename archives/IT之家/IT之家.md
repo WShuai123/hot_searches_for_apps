@@ -29,3 +29,5 @@
 
 + [停工首日：高合汽车员工称 18 日起工厂不能进入，上月工厂即已进入半停工状态](https://m.ithome.com/html/750744.htm)
 
++ [华为路由 AX6 Pro 上架：支持 Wi-Fi6+、7200Mbps 及灵犀双 Wi-Fi，预售价 699 元](https://m.ithome.com/html/750729.htm)
+

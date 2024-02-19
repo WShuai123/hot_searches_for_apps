@@ -129,3 +129,11 @@
 
 + [网络原理(HTTP篇)](https://blog.csdn.net/weixin_65331534/article/details/136129425)
 
++ [Java实现停车场收费系统 JAVA+Vue+SpringBoot+MySQL](https://blog.csdn.net/customer08/article/details/136141081)
+
++ [python-自动化篇-运维-网络-IP](https://blog.csdn.net/stqer/article/details/136134862)
+
++ [测试用例执行计划 - 华为OD统一考试(C卷)](https://blog.csdn.net/user_longling/article/details/136146080)
+
++ [OpenAI超级视频模型Sora登上央视，LeCun强推的「世界模型」雏形相继诞生，AGI如何能够以人类的理解方式看世界？](https://blog.csdn.net/qq_36396104/article/details/136155281)
+

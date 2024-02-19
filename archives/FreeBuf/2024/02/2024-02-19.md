@@ -45,3 +45,5 @@
 
 + [解析黑客工具VajraSpy：恶意软件“分身”的最佳实践](https://www.freebuf.com/articles/neopoints/391739.html)
 
++ [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
+
