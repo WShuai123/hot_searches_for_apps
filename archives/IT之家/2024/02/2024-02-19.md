@@ -39,3 +39,5 @@
 
 + [小米平板 6S Pro 官宣：120W 快充、第二代骁龙 8、12.4 英寸 3K 屏](https://m.ithome.com/html/750783.htm)
 
++ [纯黑版小米 14 Ultra 手机亮相，2 月 22 日发布](https://m.ithome.com/html/750757.htm)
+

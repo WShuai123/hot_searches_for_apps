@@ -197,3 +197,11 @@
 
 + [《永恒天空》正式版计划年内发售 主机平台由PS5独占](https://www.3dmgame.com/news/202402/3888652.html)
 
++ [《上古卷轴5》玩家恳求贝塞斯达停止发布游戏更新](https://www.3dmgame.com/news/202402/3888662.html)
+
++ [Graphcore成AI浪潮下溺水者：抛售资产寻求融资5亿美元](https://www.3dmgame.com/news/202402/3888661.html)
+
++ [鹰角买断制手游《来自星尘》发布世界构成PV 2月27日发售](https://www.3dmgame.com/news/202402/3888660.html)
+
++ [前卡普空传奇制作人冈本吉起新策划公开 两个超大游戏项目](https://www.3dmgame.com/news/202402/3888659.html)
+

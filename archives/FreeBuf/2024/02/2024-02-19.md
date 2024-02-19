@@ -53,3 +53,9 @@
 
 + [记一次有趣的逻辑漏洞挖洞经历](https://www.freebuf.com/articles/web/391879.html)
 
++ [谷歌Chrome浏览器新功能亮相，可有效抵御黑客攻击](https://www.freebuf.com/news/391956.html)
+
++ [ESET修复了Windows产品中的高严重性本地权限提升漏洞](https://www.freebuf.com/news/391969.html)
+
++ [微软和OpenAI将检查AI聊天记录，以寻找恶意账户](https://www.freebuf.com/news/391967.html)
+
