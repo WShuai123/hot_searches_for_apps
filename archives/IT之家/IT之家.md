@@ -25,3 +25,5 @@
 
 + [高通骁龙 8s Gen 3（SM8635）及 SM7675 处理器最新测试频率曝光，realme 新机跑分出炉](https://m.ithome.com/html/751076.htm)
 
++ [长安深蓝 SL03 全新纯电版车型上市，15.69~17.39 万元](https://m.ithome.com/html/751094.htm)
+
