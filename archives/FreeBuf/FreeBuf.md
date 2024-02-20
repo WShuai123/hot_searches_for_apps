@@ -41,3 +41,5 @@
 
 + [13000多个Ivanti终端易受安全漏洞的影响](https://www.freebuf.com/news/391893.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+

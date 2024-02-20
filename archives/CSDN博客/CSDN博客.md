@@ -109,3 +109,13 @@
 
 + [【网络安全】什么样的人适合学？该怎么学？](https://blog.csdn.net/weixin_57514792/article/details/136136963)
 
++ [Sora一出 哪里又要裁员了？](https://blog.csdn.net/xian0710830114/article/details/136180328)
+
++ [好书推荐丨《细说机器学习：从理论到实践》](https://blog.csdn.net/m0_68111267/article/details/136181647)
+
++ [【C++】类与对象的项目实践 — 日期管理工具](https://blog.csdn.net/JLX_1/article/details/136175498)
+
++ [【.NET Core】C#编程规范](https://blog.csdn.net/songjianlong/article/details/136181786)
+
++ [微信小程序之会议OA首页后台交互](https://blog.csdn.net/weixin_74457789/article/details/136175957)
+

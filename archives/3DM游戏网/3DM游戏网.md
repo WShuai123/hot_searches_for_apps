@@ -135,3 +135,7 @@
 
 + [《伊苏》系列官方中文网站正式上线](https://www.3dmgame.com/news/202402/3888731.html)
 
++ [《试炼之书：魔女的猎场》Steam页面 支持简体中文](https://www.3dmgame.com/news/202402/3888746.html)
+
++ [《FROGUE》登陆PC平台 回合制肉鸽动作游戏](https://www.3dmgame.com/news/202402/3888745.html)
+

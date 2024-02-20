@@ -25,3 +25,7 @@
 
 + [谢赛宁紧急辟谣：Sora 跟我一点关系没有，他们 996 搞一年了](https://m.ithome.com/html/750827.htm)
 
++ [高合汽车停工停产后续：店员已收到闭店通知，“韭菜”车主将投诉无门](https://m.ithome.com/html/750900.htm)
+
++ [vivo X Fold 3 折叠屏真机图曝光，惊现苹果 macOS 界面](https://m.ithome.com/html/750916.htm)
+
