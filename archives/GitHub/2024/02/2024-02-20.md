@@ -51,3 +51,27 @@
 
 + [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
 
++ [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [microsoft / UFO](https://github.com/microsoft/UFO)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [chatchat-space / Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [Hillobar / Rope](https://github.com/Hillobar/Rope)
+
++ [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+
++ [CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH)
+
++ [mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)
+

@@ -213,3 +213,7 @@
 
 + [俄罗斯历史题材RPG《Смута（混乱）》实机 4月4日发售](https://www.3dmgame.com/news/202402/3888772.html)
 
++ [Reddit将用户内容出售给AI开发企业 每年可获利6000万美元](https://www.3dmgame.com/news/202402/3888785.html)
+
++ [马斯克：特斯拉早已掌握视频生成技术 更胜过OpenAI](https://www.3dmgame.com/news/202402/3888784.html)
+
