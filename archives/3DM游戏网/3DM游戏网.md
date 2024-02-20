@@ -177,3 +177,17 @@
 
 + [《漫威金刚狼》开发最早期视频：加载图标是蜘蛛侠](https://www.3dmgame.com/news/202402/3888747.html)
 
++ [网传《GTA6》比前作更暴力 还能双持武器射击](https://www.3dmgame.com/news/202402/3888771.html)
+
++ [2023全球智能手机销量前10：苹果三星霸榜 国产手机无一入选](https://www.3dmgame.com/news/202402/3888770.html)
+
++ [新一期宝可梦Presents发布会官宣 2月27日晚10点播出](https://www.3dmgame.com/news/202402/3888769.html)
+
++ [《完蛋！我被美女包围》将有前传DLC 有五名新女主](https://www.3dmgame.com/news/202402/3888773.html)
+
++ [首位马斯克脑机接口患者已完全康复 可用思想操控鼠标](https://www.3dmgame.com/news/202402/3888768.html)
+
++ [4个月增加300万《极限竞速：地平线5》玩家数突破3700万](https://www.3dmgame.com/news/202402/3888767.html)
+
++ [越南买家买RTX3060Ti被骗 包装盒里只有一双女鞋](https://www.3dmgame.com/news/202402/3888766.html)
+

@@ -41,3 +41,7 @@
 
 + [小米 14 Ultra 手机线下物料泄露，蓝色陶瓷版曝光](https://m.ithome.com/html/751009.htm)
 
++ [联发科 CEO 蔡力行：小米联手 ARM 打造自研处理器，采用联发科调制解调器](https://m.ithome.com/html/750890.htm)
+
++ [小米 12 / 12S / 12S Pro 三款手机获推澎湃 OS 更新：安卓跨版本升级、集成谷歌安全补丁](https://m.ithome.com/html/750874.htm)
+
