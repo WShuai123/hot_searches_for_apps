@@ -101,3 +101,11 @@
 
 + [微服务学习 | Springboot整合Dubbo+Nacos实现RPC调用](https://blog.csdn.net/qq_35716689/article/details/136144300)
 
++ [【AIGC】OpenAI推出王炸级模型sora,颠覆AI视频行业](https://blog.csdn.net/jinxinxin1314/article/details/136180288)
+
++ [猫头虎分享：Springboot项目中实现IP白名单限制访问接口的深度探讨](https://blog.csdn.net/qq_44866828/article/details/136164574)
+
++ [OpenAI视频生成模型Sora的全面解析：从ViViT、Diffusion Transformer到NaViT、VideoPoet](https://blog.csdn.net/v_JULY_v/article/details/136143475)
+
++ [【网络安全】什么样的人适合学？该怎么学？](https://blog.csdn.net/weixin_57514792/article/details/136136963)
+

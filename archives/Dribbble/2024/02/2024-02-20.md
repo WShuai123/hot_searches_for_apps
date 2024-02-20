@@ -49,3 +49,23 @@
 
 + [Millenium Falcon](https://dribbble.com/shots/)
 
++ [Hangar Sisters Secondary Logo](https://dribbble.com/shots/)
+
++ [Ode to Farm Branded Graphic](https://dribbble.com/shots/)
+
++ [Nobody Loves New York Like New York](https://dribbble.com/shots/)
+
++ [Masks, Arms & Golden Cats.](https://dribbble.com/shots/)
+
++ [Music laboratory 3](https://dribbble.com/shots/)
+
++ [Design for "Chocosquad" Chocolate Boxes](https://dribbble.com/shots/)
+
++ [The Auricular Site Graphic](https://dribbble.com/shots/)
+
++ [Night flower](https://dribbble.com/shots/)
+
++ [Mill Valley Music Festival Posters](https://dribbble.com/shots/)
+
++ [Dear](https://dribbble.com/shots/)
+

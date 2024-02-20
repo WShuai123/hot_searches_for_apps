@@ -101,3 +101,37 @@
 
 + [《女神异闻录5：皇家版》官方美术设定集3月28日发售 定价169元](https://www.3dmgame.com/news/202402/3888676.html)
 
++ [PS Portal已被黑客破解 可成功运行PSP游戏](https://www.3dmgame.com/news/202402/3888741.html)
+
++ [SE东京举办大型营销活动 宣传《最终幻想7：重生》](https://www.3dmgame.com/news/202402/3888744.html)
+
++ [内部人士透露新的《班卓熊大冒险》班卓熊造型正在重新设计](https://www.3dmgame.com/news/202402/3888743.html)
+
++ [媒体称应加强人工智能伦理治理 防范以假乱真](https://www.3dmgame.com/news/202402/3888742.html)
+
++ [前GTA制作人新工作室 《Everywhere》开发商裁员](https://www.3dmgame.com/news/202402/3888740.html)
+
++ [台积电代工 AMD计划3季度量产Zen 5](https://www.3dmgame.com/news/202402/3888739.html)
+
++ [《星刃》开发商与索尼合作获大量帮助 让游戏更完善](https://www.3dmgame.com/news/202402/3888738.html)
+
++ [《八尺鸦》Steam页面上线 原创2D格斗新游](https://www.3dmgame.com/news/202402/3888737.html)
+
++ [《守望者》创作者艾伦·摩尔的最终漫画将于10月出版](https://www.3dmgame.com/news/202402/3888736.html)
+
++ [《碧蓝幻想Versus：Rising》新DLC角色2B上线 Steam国区售价48元](https://www.3dmgame.com/news/202402/3888735.html)
+
++ [迈克尔杰克逊传记片《迈克尔》片场照 男主神还原](https://www.3dmgame.com/news/202402/3888733.html)
+
++ [受《地狱潜者2》热度影响 科幻电影《星河战队》“重获新生”](https://www.3dmgame.com/news/202402/3888732.html)
+
++ [老员工被裁后重回暴雪！担任《魔兽》首席遭遇战设计师](https://www.3dmgame.com/news/202402/3888730.html)
+
++ [《风暴之门》开发商新众筹3月上线：投资可获公司股份](https://www.3dmgame.com/news/202402/3888729.html)
+
++ [索尼互娱强调《浪人崛起》并非取消韩国发行 而是原本就没计划](https://www.3dmgame.com/news/202402/3888728.html)
+
++ [《最终幻想7：重生》实体典藏版偷跑 艺术集谍照公开](https://www.3dmgame.com/news/202402/3888734.html)
+
++ [《伊苏》系列官方中文网站正式上线](https://www.3dmgame.com/news/202402/3888731.html)
+
