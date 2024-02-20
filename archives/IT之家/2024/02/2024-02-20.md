@@ -37,3 +37,7 @@
 
 + [吉利帝豪 L HiP 龙腾版插混轿车 8.98 万元起上市，100km 纯电续航](https://m.ithome.com/html/751001.htm)
 
++ [小米 Redmi Book Pro 14/16 2024 笔记本官宣，全面接入澎湃 OS](https://m.ithome.com/html/750976.htm)
+
++ [小米 14 Ultra 手机线下物料泄露，蓝色陶瓷版曝光](https://m.ithome.com/html/751009.htm)
+
