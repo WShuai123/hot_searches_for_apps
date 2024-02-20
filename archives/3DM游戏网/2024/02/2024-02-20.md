@@ -141,3 +141,11 @@
 
 + [小米平板6S Pro核心配置：第二代骁龙8 最高1TB大容量](https://www.3dmgame.com/news/202402/3888748.html)
 
++ [三星调整芯片工厂建设计划 应对市场需求变化](https://www.3dmgame.com/news/202402/3888752.html)
+
++ [《决战效应：重装上阵》3月6日Steam正式推出 横版枪战动作](https://www.3dmgame.com/news/202402/3888750.html)
+
++ [育碧推出漫改动作游戏《无敌少侠：保卫地球》 登陆移动端](https://www.3dmgame.com/news/202402/3888751.html)
+
++ [Netflix定格动画《宝可梦：礼宾部》续集正在制作中](https://www.3dmgame.com/news/202402/3888749.html)
+

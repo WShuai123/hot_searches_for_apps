@@ -125,3 +125,7 @@
 
 + [【ABC三维路径规划】基于matlab人工蜂群算法ABC多无人机协同集群避障路径规划（目标函数：最低成本：路径、高度、威胁、转角）【含Matlab源码 3966期】](https://blog.csdn.net/TIQCmatlab/article/details/136177461)
 
++ [如何在IDEA中使用固定公网地址SSH远程连接服务器开发环境](https://blog.csdn.net/qq_64685283/article/details/136178013)
+
++ [网络原理 - HTTP/HTTPS(3)](https://blog.csdn.net/asdssadddd/article/details/136182291)
+
