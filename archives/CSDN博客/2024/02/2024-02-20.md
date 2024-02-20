@@ -141,3 +141,7 @@
 
 + [【C#】使用代码实现龙年春晚扑克牌魔术（守岁共此时），代码实现篇](https://blog.csdn.net/lmy_520/article/details/136182591)
 
++ [[OpenAI]继ChatGPT后发布的Sora模型解析与体验通道](https://blog.csdn.net/Why_does_it_work/article/details/136189812)
+
++ [文献学习-1-Continuum Robots for Medical Interventions](https://blog.csdn.net/Metaphysicist/article/details/136189531)
+

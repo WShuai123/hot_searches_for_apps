@@ -145,3 +145,13 @@
 
 + [CapsuleGen](https://www.producthunt.com/posts/capsulegen)
 
++ [IMAX for Vision Pro](https://www.producthunt.com/posts/imax-for-vision-pro)
+
++ [Coresel](https://www.producthunt.com/posts/coresel)
+
++ [Yearly](https://www.producthunt.com/posts/yearly-4)
+
++ [Sharpe Labs](https://www.producthunt.com/posts/sharpe-labs)
+
++ [Pushup Quest](https://www.producthunt.com/posts/pushup-quest)
+
