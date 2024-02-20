@@ -45,3 +45,5 @@
 
 + [小米 12 / 12S / 12S Pro 三款手机获推澎湃 OS 更新：安卓跨版本升级、集成谷歌安全补丁](https://m.ithome.com/html/750874.htm)
 
++ [小米 Civi 4 手机爆料，骁龙 8 系旗舰平台、徕卡联名、金属中框](https://m.ithome.com/html/750984.htm)
+

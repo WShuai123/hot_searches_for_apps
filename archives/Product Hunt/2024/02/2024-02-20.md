@@ -143,3 +143,5 @@
 
 + [AdGen AI](https://www.producthunt.com/posts/adgen-ai)
 
++ [CapsuleGen](https://www.producthunt.com/posts/capsulegen)
+

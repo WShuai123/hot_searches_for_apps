@@ -135,3 +135,9 @@
 
 + [Angular 路由器：使用 RouterLink、Navigate 或 NavigateByUrl 进行导航](https://blog.csdn.net/rubys007/article/details/136118112)
 
++ [第四篇【传奇开心果系列】Python文本和语音相互转换库技术点案例示例：pyttsx3自动化脚本经典案例](https://blog.csdn.net/jackchuanqi/article/details/136167249)
+
++ [【Docker】Docker存储卷](https://blog.csdn.net/m0_67595314/article/details/136092088)
+
++ [【C#】使用代码实现龙年春晚扑克牌魔术（守岁共此时），代码实现篇](https://blog.csdn.net/lmy_520/article/details/136182591)
+

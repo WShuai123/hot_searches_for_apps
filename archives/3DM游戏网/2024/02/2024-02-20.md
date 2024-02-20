@@ -191,3 +191,25 @@
 
 + [越南买家买RTX3060Ti被骗 包装盒里只有一双女鞋](https://www.3dmgame.com/news/202402/3888766.html)
 
++ [天网恢恢，《终结者: 黑暗命运 - 反抗》将于2.21发售](https://www.3dmgame.com/news/202402/3888782.html)
+
++ [淘宝可直接用微信支付了！客服回应正逐步开放](https://www.3dmgame.com/news/202402/3888783.html)
+
++ [纯爱向恋爱模拟AVG游戏《纯爱声放送》首支PV上线](https://www.3dmgame.com/news/202402/3888780.html)
+
++ [黑暗冒险《戈德》：全新DLC“联盟”将于2月28日登陆](https://www.3dmgame.com/news/202402/3888781.html)
+
++ [《神力科莎出赛准备: 竞争》全新GT2 DLC及 Grand Tourer 组合包将于2月28日推出](https://www.3dmgame.com/news/202402/3888779.html)
+
++ [《华彩煌煌,吾之一族 幻灯时代》预定于5月20日发售！预购及店家特典内容公开](https://www.3dmgame.com/news/202402/3888778.html)
+
++ [猫屁屁相扑大乱斗游戏《Nyaaaanvy》将于2月22日在NS和Steam平台发售！](https://www.3dmgame.com/news/202402/3888777.html)
+
++ [新品节最受欢迎前五十：深入探索动作生存冒险《血清》世界](https://www.3dmgame.com/news/202402/3888776.html)
+
++ [《SCP 087》PC平台试玩发布 第一人称恐怖探索](https://www.3dmgame.com/news/202402/3888775.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》二连冠](https://www.3dmgame.com/news/202402/3888774.html)
+
++ [俄罗斯历史题材RPG《Смута（混乱）》实机 4月4日发售](https://www.3dmgame.com/news/202402/3888772.html)
+
