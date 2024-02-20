@@ -55,3 +55,7 @@
 
 + [已有近 3 年历史，支付宝 App 10.5.66 版本“长辈模式”悄悄淡出](https://m.ithome.com/html/751041.htm)
 
++ [淘宝回应开放微信支付：目前仅针对部分用户和订单开放，后续将全面覆盖](https://m.ithome.com/html/751046.htm)
+
++ [4999 元起，华为 MateBook 14 2023 款笔记本官方限时降价 400 元](https://m.ithome.com/html/750925.htm)
+

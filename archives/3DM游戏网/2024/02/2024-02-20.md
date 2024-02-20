@@ -221,3 +221,9 @@
 
 + [《浪人崛起》玩法细节 利用钩绳、马匹或滑翔翼自由穿越](https://www.3dmgame.com/news/202402/3888786.html)
 
++ [字节跳动辟谣推出中文版Sora：还无法作为完善产品落地](https://www.3dmgame.com/news/202402/3888790.html)
+
++ [《极品飞车：不羁》将获得第二年支持 路线图公开](https://www.3dmgame.com/news/202402/3888788.html)
+
++ [PS6和下一代Xbox的定价可能比之前更贵](https://www.3dmgame.com/news/202402/3888789.html)
+
