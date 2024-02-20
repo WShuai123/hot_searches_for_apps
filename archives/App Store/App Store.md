@@ -201,3 +201,7 @@
 
 + [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
 
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [王者营地](https://itunes.apple.com/cn/app/id1102305688?mt=8)
+

@@ -49,3 +49,21 @@
 
 + [Hawthorne Heights Merch Designs](https://dribbble.com/shots/)
 
++ [Hangar Sisters](https://dribbble.com/shots/)
+
++ [Featherweight Label Design - Up All Nitro](https://dribbble.com/shots/)
+
++ [Active Vacation](https://dribbble.com/shots/)
+
++ [Music laboratory 3](https://dribbble.com/shots/)
+
++ [Masks, Arms & Golden Cats.](https://dribbble.com/shots/)
+
++ [Plaza Theatre - Bangalore](https://dribbble.com/shots/)
+
++ [ilcons mini illustrations and icons](https://dribbble.com/shots/)
+
++ [Design for "Chocosquad" Chocolate Boxes](https://dribbble.com/shots/)
+
++ [San Fran](https://dribbble.com/shots/)
+

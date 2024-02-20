@@ -101,3 +101,7 @@
 
 + [媒体称应加强人工智能伦理治理 防范以假乱真](https://www.3dmgame.com/news/202402/3888742.html)
 
++ [《波兰球：编年史》3月5日登陆PS5/XSX 支持免费升级](https://www.3dmgame.com/news/202402/3888794.html)
+
++ [摩尔线程显卡驱动重磅升级！《原神》《无畏契约》帧率大涨](https://www.3dmgame.com/news/202402/3888795.html)
+
