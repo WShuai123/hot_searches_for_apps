@@ -217,3 +217,7 @@
 
 + [马斯克：特斯拉早已掌握视频生成技术 更胜过OpenAI](https://www.3dmgame.com/news/202402/3888784.html)
 
++ [《只想爱你》创莎士比亚改编真人电影票房纪录](https://www.3dmgame.com/news/202402/3888787.html)
+
++ [《浪人崛起》玩法细节 利用钩绳、马匹或滑翔翼自由穿越](https://www.3dmgame.com/news/202402/3888786.html)
+

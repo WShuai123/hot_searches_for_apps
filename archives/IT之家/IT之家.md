@@ -51,3 +51,7 @@
 
 + [华为发布 eKitStor Xtreme 系列 M.2 闪存条，以及全新数据湖解决方案](https://m.ithome.com/html/751006.htm)
 
++ [消息称配备 USB-C 接口的苹果 AirPods 4 和 AirPods Max 耳机年内推出](https://m.ithome.com/html/750932.htm)
+
++ [已有近 3 年历史，支付宝 App 10.5.66 版本“长辈模式”悄悄淡出](https://m.ithome.com/html/751041.htm)
+
