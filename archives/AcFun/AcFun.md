@@ -71,3 +71,7 @@
 
 + [苹果Vision Pro真的跨世代了吗？VR一体机平替入门，行不行](http://www.acfun.cn/v/ac43802509)
 
++ [兄弟你好香~](http://www.acfun.cn/v/ac43806747)
+
++ [【自翻】Chiikawa第140话「超可口超人5」ちいかわ](http://www.acfun.cn/v/ac43801825)
+

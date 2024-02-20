@@ -139,3 +139,5 @@
 
 + [《FROGUE》登陆PC平台 回合制肉鸽动作游戏](https://www.3dmgame.com/news/202402/3888745.html)
 
++ [小米平板6S Pro核心配置：第二代骁龙8 最高1TB大容量](https://www.3dmgame.com/news/202402/3888748.html)
+

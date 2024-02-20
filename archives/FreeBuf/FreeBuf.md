@@ -43,3 +43,7 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [Anatsa银行木马复苏，瞄准斯洛伐克、斯洛文尼亚和捷克等国家](https://www.freebuf.com/news/392076.html)
+
++ [Bricks WordPress 网站生成器中存在 RCE 漏洞，黑客正在积极利用](https://www.freebuf.com/news/392060.html)
+
