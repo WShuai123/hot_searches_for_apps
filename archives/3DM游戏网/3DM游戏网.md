@@ -105,3 +105,15 @@
 
 + [摩尔线程显卡驱动重磅升级！《原神》《无畏契约》帧率大涨](https://www.3dmgame.com/news/202402/3888795.html)
 
++ [《夜莺传说》已推出EA版 上市预告片分享](https://www.3dmgame.com/news/202402/3888800.html)
+
++ [好评手游《蹒跚英雄+》年内移植Steam平台](https://www.3dmgame.com/news/202402/3888799.html)
+
++ [消息称任天堂将于今年6月对外公布Switch 2](https://www.3dmgame.com/news/202402/3888801.html)
+
++ [肉鸽动作《Temtem: Swarm》面向PC/主机公布](https://www.3dmgame.com/news/202402/3888798.html)
+
++ [《龙珠Z：卡卡罗特》第二季最终DLC现已上线](https://www.3dmgame.com/news/202402/3888797.html)
+
++ [非对称多人对抗游戏《外太空杀人小丑》6/4推出](https://www.3dmgame.com/news/202402/3888796.html)
+

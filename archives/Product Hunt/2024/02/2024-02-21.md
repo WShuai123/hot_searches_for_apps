@@ -101,3 +101,5 @@
 
 + [Thread](https://www.producthunt.com/posts/thread-7)
 
++ [Snaplink Wallpapers](https://www.producthunt.com/posts/snaplink-wallpapers)
+
