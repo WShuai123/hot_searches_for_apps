@@ -59,3 +59,7 @@
 
 + [4999 元起，华为 MateBook 14 2023 款笔记本官方限时降价 400 元](https://m.ithome.com/html/750925.htm)
 
++ [爆火 Sora 震惊威尔・史密斯，真人整活吃意面视频](https://m.ithome.com/html/751012.htm)
+
++ [富士 X100VI 相机发布：升级 4000 万像素、新增防抖，11390 元](https://m.ithome.com/html/751018.htm)
+

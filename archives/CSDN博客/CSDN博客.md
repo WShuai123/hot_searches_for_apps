@@ -155,3 +155,5 @@
 
 + [视频生成领域的发展概述:从多级扩散到LLM](https://blog.csdn.net/m0_46510245/article/details/136187183)
 
++ [『论文阅读|利用深度学习在热图像中实现无人机目标检测』](https://blog.csdn.net/dally2/article/details/136173029)
+
