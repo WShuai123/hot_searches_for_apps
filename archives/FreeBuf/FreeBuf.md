@@ -41,3 +41,7 @@
 
 + [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
 
++ [FreeBuf 早报 | 监听手指滑动屏幕竟可还原指纹；黑客险些在空中劫持以色列客机](https://www.freebuf.com/news/392099.html)
+
++ [可信域名中的隐藏风险：邮件网络钓鱼攻击中的欺骗性URL重定向](https://www.freebuf.com/articles/network/391905.html)
+

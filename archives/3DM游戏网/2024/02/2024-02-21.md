@@ -117,3 +117,13 @@
 
 + [非对称多人对抗游戏《外太空杀人小丑》6/4推出](https://www.3dmgame.com/news/202402/3888796.html)
 
++ [索尼对棒鸡不太满意：开发预算和进度还有改进空间](https://www.3dmgame.com/news/202402/3888806.html)
+
++ [《艾尔登法环》DLC“黄金树之影”首个预告今晚放出](https://www.3dmgame.com/news/202402/3888805.html)
+
++ [纪念《师父》发售两周年 开发商带来2件新服装](https://www.3dmgame.com/news/202402/3888804.html)
+
++ [《圣兽之王》将提供香草社历史最大内容分量](https://www.3dmgame.com/news/202402/3888803.html)
+
++ [《哥布林之石》3月12日同步登陆Steam和Epic](https://www.3dmgame.com/news/202402/3888802.html)
+
