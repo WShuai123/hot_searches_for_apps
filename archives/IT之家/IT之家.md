@@ -31,3 +31,5 @@
 
 + [小米 Redmi Book Pro 14/16 2024 笔记本官宣，全面接入澎湃 OS 协同](https://m.ithome.com/html/750976.htm)
 
++ [比亚迪海豚荣耀版车型官宣 2 月 23 日上市，全新灰色、红色外观](https://m.ithome.com/html/751091.htm)
+

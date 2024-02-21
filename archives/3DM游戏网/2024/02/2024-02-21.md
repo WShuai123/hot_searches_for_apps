@@ -157,3 +157,17 @@
 
 + [《碧海黑帆》推出后 《刺客信条4：黑旗》Xbox在线率激增31%](https://www.3dmgame.com/news/202402/3888811.html)
 
++ [动作格斗名作《师父》全平台销量突破300万 发售两周年](https://www.3dmgame.com/news/202402/3888827.html)
+
++ [《地狱潜者2》成功原因总结：微交易轻 售价低等](https://www.3dmgame.com/news/202402/3888826.html)
+
++ [羽生和正宣布不再担任《数码宝贝》制作人 新作仍会继续开发](https://www.3dmgame.com/news/202402/3888824.html)
+
++ [《黎明杀机》发布“一切邪恶”预告片 3月21日正式开启](https://www.3dmgame.com/news/202402/3888825.html)
+
++ [《雾锁王国》玩家达2百万人：建议多达2600条](https://www.3dmgame.com/news/202402/3888828.html)
+
++ [《绝地潜兵2》新更新：机器人噩梦撤离任务终于修复](https://www.3dmgame.com/news/202402/3888823.html)
+
++ [轻松的城市建设游戏《Lands of Koastalia》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3888822.html)
+
