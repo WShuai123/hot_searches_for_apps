@@ -103,3 +103,5 @@
 
 + [Sharpe Labs](https://www.producthunt.com/posts/sharpe-labs)
 
++ [Locofy Lightning](https://www.producthunt.com/posts/locofy-lightning)
+
