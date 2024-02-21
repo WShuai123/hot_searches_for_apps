@@ -215,3 +215,19 @@
 
 + [《破晓传说》全球销量突破300万 官方贺图发布](https://www.3dmgame.com/news/202402/3888845.html)
 
++ [《DayZ》大型更新1.24上线 多处优化调整](https://www.3dmgame.com/news/202402/3888857.html)
+
++ [《深岩银河》开发商老板透露游戏或改编电视剧集](https://www.3dmgame.com/news/202402/3888856.html)
+
++ [《夜莺传说》今日上线Steam，生存氛围感十足的SOC](https://www.3dmgame.com/news/202402/3888855.html)
+
++ [《Until Then》正式预告 试玩demo现已上线](https://www.3dmgame.com/news/202402/3888858.html)
+
++ [KK对战平台新图推荐 仙法奥妙深不可测，四界英雄终极大乱斗！](https://www.3dmgame.com/news/202402/3888854.html)
+
++ [本周Fami通游戏评分出炉 《泡沫明星》获33分](https://www.3dmgame.com/news/202402/3888852.html)
+
++ [3秒定律成真 另类3D平台冒险游戏《3秒香蕉》登陆Steam平台](https://www.3dmgame.com/news/202402/3888853.html)
+
++ [传闻：迪士尼将蓝光、DVD 业务外包给索尼](https://www.3dmgame.com/news/202402/3888851.html)
+

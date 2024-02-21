@@ -55,3 +55,7 @@
 
 + [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
 
++ [真人视频开始冒充Sora，威尔·史密斯吃意大利面名场面](https://www.freebuf.com/news/392170.html)
+
++ [如何使用CanaryTokenScanner识别Microsoft Office文档中的Canary令牌和可疑URL](https://www.freebuf.com/sectool/389864.html)
+

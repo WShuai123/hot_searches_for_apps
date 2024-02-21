@@ -39,3 +39,7 @@
 
 + [小米 14 Ultra 手机搭载金沙江电池：体积缩小 8%，电量提升至 5300mAh](https://m.ithome.com/html/751204.htm)
 
++ [苹果重新测试 iPhone 15 / Pro 系列电池：1000 次充电循环后仍能保持 80% 容量](https://m.ithome.com/html/751137.htm)
+
++ [新款极氪 001 汽车 2 月 27 日发布，中国首位 F1 车手周冠宇担任首席操控官](https://m.ithome.com/html/751187.htm)
+

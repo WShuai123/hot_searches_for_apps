@@ -159,3 +159,15 @@
 
 + [四非保研之旅](https://blog.csdn.net/chandfy/article/details/136198388)
 
++ [【机器学习】数据清洗之处理重复点](https://blog.csdn.net/m0_74195174/article/details/136202820)
+
++ [我是怎么用静态IP代理为Google账号保驾护航的](https://blog.csdn.net/m0_63947499/article/details/136197371)
+
++ [阿里云带宽](https://blog.csdn.net/2301_80092713/article/details/135986723)
+
++ [【Oracle】玩转Oracle数据库（三）：数据库的创建和管理](https://blog.csdn.net/m0_57532432/article/details/136160294)
+
++ [22-k8s中pod的调度-亲和性affinity](https://blog.csdn.net/2302_79199605/article/details/136175200)
+
++ [如何在 Angular 中为响应式表单创建自定义验证器](https://blog.csdn.net/rubys007/article/details/136118127)
+
