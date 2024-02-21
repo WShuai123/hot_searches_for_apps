@@ -127,3 +127,33 @@
 
 + [《哥布林之石》3月12日同步登陆Steam和Epic](https://www.3dmgame.com/news/202402/3888802.html)
 
++ [《降世神通：最后的气宗》最终预告 特效太帅了](https://www.3dmgame.com/news/202402/3888821.html)
+
++ [多人在线战术竞技游戏《巨兽战争：狂暴版》即将开启内部测试](https://www.3dmgame.com/news/202402/3888815.html)
+
++ [《星空》1.9.67版本正式上线 FSR3和XeSS实装](https://www.3dmgame.com/news/202402/3888818.html)
+
++ [《无主之地》真人电影选角和游戏角色对比](https://www.3dmgame.com/news/202402/3888820.html)
+
++ [英雄射击游戏《巨兽战争》归来：买断制无微交易](https://www.3dmgame.com/news/202402/3888819.html)
+
++ [《远征:泥泞奔驰》“准备好你的车”预告 3月5日发售](https://www.3dmgame.com/news/202402/3888817.html)
+
++ [《浪人崛起》被粉丝批评画面过时 看起来像PS3游戏](https://www.3dmgame.com/news/202402/3888816.html)
+
++ [《Buckshot Roulette》3月15日登陆Steam 挑战恶魔赌局](https://www.3dmgame.com/news/202402/3888814.html)
+
++ [慈善游戏销售网站Humble迄今筹款达2.5亿美元](https://www.3dmgame.com/news/202402/3888813.html)
+
++ [斯宾塞：淘汰实体光盘游戏不是我们的战略目标](https://www.3dmgame.com/news/202402/3888810.html)
+
++ [五年之约已到 《堡垒之夜》将和Lady Gaga联动](https://www.3dmgame.com/news/202402/3888809.html)
+
++ [《无主之地》真人电影首曝先导预告和海报](https://www.3dmgame.com/news/202402/3888808.html)
+
++ [《Fractured Mind》PC试玩发布 拟真场景恐怖探索](https://www.3dmgame.com/news/202402/3888807.html)
+
++ [传闻：《艾尔登法环》DLC“黄金树之影”将于6月21日发售](https://www.3dmgame.com/news/202402/3888812.html)
+
++ [《碧海黑帆》推出后 《刺客信条4：黑旗》Xbox在线率激增31%](https://www.3dmgame.com/news/202402/3888811.html)
+

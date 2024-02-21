@@ -29,3 +29,5 @@
 
 + [中国新入网手机需支持 5G 消息，消息称苹果将为 iMessage 引入 RCS 消息标准](https://m.ithome.com/html/751114.htm)
 
++ [小米 Redmi Book Pro 14/16 2024 笔记本官宣，全面接入澎湃 OS 协同](https://m.ithome.com/html/750976.htm)
+
