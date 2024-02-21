@@ -173,3 +173,9 @@
 
 + [深度学习在时间序列预测的总结和未来方向分析](https://blog.csdn.net/m0_46510245/article/details/136207187)
 
++ [开源CMS Drupal本地快速部署并实现无公网ip环境远程访问](https://blog.csdn.net/a1657054242/article/details/136211269)
+
++ [如何在Ubuntu部署Emlog，并将本地博客发布至公网可远程访问](https://blog.csdn.net/wtyuong/article/details/136211971)
+
++ [使用Docker部署Docker-Compose-Ui工具并实现公网访问](https://blog.csdn.net/w2915w/article/details/136209266)
+

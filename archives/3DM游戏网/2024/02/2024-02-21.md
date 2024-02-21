@@ -235,3 +235,15 @@
 
 + [经典恋爱冒险游戏《同级生2：重制版》公布 6月28日发售](https://www.3dmgame.com/news/202402/3888860.html)
 
++ [新《侏罗纪世界》将由《星战：侠盗一号》导演掌勺](https://www.3dmgame.com/news/202402/3888865.html)
+
++ [专家分析梅西澄清视频是否为AI生成：不能百分百下定论](https://www.3dmgame.com/news/202402/3888866.html)
+
++ [微软计划将Sora视频生成模型整合进Copilot 但需时日](https://www.3dmgame.com/news/202402/3888864.html)
+
++ [刘作虎：OPPO在AI上的投入没有上限！](https://www.3dmgame.com/news/202402/3888863.html)
+
++ [恐怖游戏《Harvest Hunt》正式预告 5月24日正式发售](https://www.3dmgame.com/news/202402/3888862.html)
+
++ [基岩版《我的世界》追加Addons功能 大量组件道具适用](https://www.3dmgame.com/news/202402/3888861.html)
+
