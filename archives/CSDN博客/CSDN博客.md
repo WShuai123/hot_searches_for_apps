@@ -149,3 +149,13 @@
 
 + [MySQL 学习记录 1](https://blog.csdn.net/qq_36349997/article/details/136164840)
 
++ [第100讲：MHA+Atlas实现MySQL主从复制读写分离分布式集群](https://blog.csdn.net/weixin_44953658/article/details/136203280)
+
++ [Elasticsearch：创建自定义 ES Rally tracks 的分步指南](https://blog.csdn.net/UbuntuTouch/article/details/136195023)
+
++ [【爬虫JS逆向-工具篇】浏览器内存漫游加密参数Hook实战教程](https://blog.csdn.net/qiulin_wu/article/details/136069801)
+
++ [Linux系统安全：安全技术和防火墙](https://blog.csdn.net/Miraitowa_xu/article/details/136159884)
+
++ [四非保研之旅](https://blog.csdn.net/chandfy/article/details/136198388)
+

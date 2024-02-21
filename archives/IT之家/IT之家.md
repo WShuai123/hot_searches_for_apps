@@ -35,3 +35,7 @@
 
 + [小米 14 Ultra 手机支持双向卫星通信，搭载澎湃 T1 信号增强芯片](https://m.ithome.com/html/751161.htm)
 
++ [马斯克分享多张罕见照片：英伟达黄仁勋向 OpenAI 签名捐赠首台 DGX-1 AI 系统](https://m.ithome.com/html/751080.htm)
+
++ [小米 14 Ultra 手机搭载金沙江电池：体积缩小 8%，电量提升至 5300mAh](https://m.ithome.com/html/751204.htm)
+
