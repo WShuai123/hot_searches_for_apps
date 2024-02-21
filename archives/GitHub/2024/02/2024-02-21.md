@@ -51,3 +51,27 @@
 
 + [xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)
 
++ [charlax / professional-programming](https://github.com/charlax/professional-programming)
+
++ [GopeedLab / gopeed](https://github.com/GopeedLab/gopeed)
+
++ [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
+
++ [Kalabasa / htmz](https://github.com/Kalabasa/htmz)
+
++ [zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
++ [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+
++ [QuivrHQ / quivr](https://github.com/QuivrHQ/quivr)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [songquanpeng / one-api](https://github.com/songquanpeng/one-api)
+
++ [tw93 / Pake](https://github.com/tw93/Pake)
+
++ [oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai)
+
