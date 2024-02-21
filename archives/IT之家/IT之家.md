@@ -61,3 +61,5 @@
 
 + [第三方应用“贴吧 Lite”宣布永久停更，三周前曾推出 4.0.0 大版本](https://m.ithome.com/html/751276.htm)
 
++ [消息称苹果升级 iPhone 16 系列麦克风：提高信噪比、改善防水特性](https://m.ithome.com/html/751141.htm)
+

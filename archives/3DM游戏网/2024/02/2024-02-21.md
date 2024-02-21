@@ -271,3 +271,9 @@
 
 + [《最终幻想14》Xbox版BETA公测现已开启](https://www.3dmgame.com/news/202402/3888875.html)
 
++ [《地狱潜者2》在线人数破450000万 进入Steam前二十](https://www.3dmgame.com/news/202402/3888881.html)
+
++ [《Pentiment》明日登陆Switch 预告发布](https://www.3dmgame.com/news/202402/3888880.html)
+
++ [《匹诺曹的谎言》DLC确认于公司2024财年推出](https://www.3dmgame.com/news/202402/3888879.html)
+
