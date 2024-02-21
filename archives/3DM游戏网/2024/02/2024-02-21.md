@@ -263,3 +263,11 @@
 
 + [玩家显卡温度离奇飙升 原因竟是导热垫遭蚂蚁啃食](https://www.3dmgame.com/news/202402/3888874.html)
 
++ [《模拟人生4》最新组合包晶彩创意将于2月29日上线](https://www.3dmgame.com/news/202402/3888878.html)
+
++ [动画电影《蝙蝠侠：超越》曝概念图 华纳DC暂未对该项目开绿灯](https://www.3dmgame.com/news/202402/3888877.html)
+
++ [微软对Xbox的未来有信心 但强调需要找到新玩家](https://www.3dmgame.com/news/202402/3888876.html)
+
++ [《最终幻想14》Xbox版BETA公测现已开启](https://www.3dmgame.com/news/202402/3888875.html)
+
