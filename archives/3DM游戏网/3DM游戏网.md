@@ -247,3 +247,17 @@
 
 + [基岩版《我的世界》追加Addons功能 大量组件道具适用](https://www.3dmgame.com/news/202402/3888861.html)
 
++ [战棋roguelike游戏《源泉》Steam页面上线 第一季度发售](https://www.3dmgame.com/news/202402/3888871.html)
+
++ [《纯白交响曲 -Love is pure white- HD Remake》中文版发售在即！](https://www.3dmgame.com/news/202402/3888872.html)
+
++ [为什么说《夜莺传说》玩的越久，骂的越少？](https://www.3dmgame.com/news/202402/3888873.html)
+
++ [马斯克获诺贝尔和平奖提名：特斯拉、星链等改变大家生活](https://www.3dmgame.com/news/202402/3888869.html)
+
++ [《飞机失事模拟器》登陆Steam 分析事故警醒真相](https://www.3dmgame.com/news/202402/3888870.html)
+
++ [距离地球2760光年 中国天文学家观测发现史上最小恒星](https://www.3dmgame.com/news/202402/3888867.html)
+
++ [《关于我转生变成史莱姆这档事》第三季首弹PV公布 4月5日首播](https://www.3dmgame.com/news/202402/3888868.html)
+

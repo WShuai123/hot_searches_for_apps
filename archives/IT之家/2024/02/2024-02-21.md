@@ -49,3 +49,5 @@
 
 + [时隔近 2 年，锤子便签 iOS 版“诈尸”更新 3.9.0 版“新增排序功能”](https://m.ithome.com/html/751066.htm)
 
++ [2024 款苹果 iPad 新品尺寸曝光：更大的 Air、更薄的 Pro](https://m.ithome.com/html/751136.htm)
+
