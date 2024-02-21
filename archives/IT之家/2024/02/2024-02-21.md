@@ -59,3 +59,5 @@
 
 + [小米平板 6S Pro 支持远程控制 PC、可当 Win 系统电脑无线副屏](https://m.ithome.com/html/751238.htm)
 
++ [第三方应用“贴吧 Lite”宣布永久停更，三周前曾推出 4.0.0 大版本](https://m.ithome.com/html/751276.htm)
+

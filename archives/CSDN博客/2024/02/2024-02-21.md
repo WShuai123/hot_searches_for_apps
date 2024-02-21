@@ -181,3 +181,13 @@
 
 + [如何使用Net2FTP部署本地Web网站并实现远程文件共享](https://blog.csdn.net/weixin_74888502/article/details/136170032)
 
++ [第五篇【传奇开心果系列】Python文本和语音相互转换库技术点案例示例：详细解读pyttsx3的`preprocess_text`函数文本预处理。](https://blog.csdn.net/jackchuanqi/article/details/136188242)
+
++ [探索 JavaScript ES8 中的函数式编程并通过实例加以实践](https://blog.csdn.net/qq_44273429/article/details/136214524)
+
++ [基于Springboot百度AI老旧黑白照片转彩色系统设计与实现 开题报告参考](https://blog.csdn.net/u013818205/article/details/136139465)
+
++ [电脑远控工具Venom Rat 毒液的测试和预防](https://blog.csdn.net/sixpp/article/details/136202409)
+
++ [Spark大数据分析与实战笔记（第三章 Spark RDD 弹性分布式数据集-02）](https://blog.csdn.net/u014727709/article/details/136032993)
+
