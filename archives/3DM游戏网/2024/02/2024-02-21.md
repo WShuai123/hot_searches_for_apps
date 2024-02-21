@@ -231,3 +231,7 @@
 
 + [传闻：迪士尼将蓝光、DVD 业务外包给索尼](https://www.3dmgame.com/news/202402/3888851.html)
 
++ [Xbox多平台游戏或在任天堂合作直面会上公布](https://www.3dmgame.com/news/202402/3888859.html)
+
++ [经典恋爱冒险游戏《同级生2：重制版》公布 6月28日发售](https://www.3dmgame.com/news/202402/3888860.html)
+

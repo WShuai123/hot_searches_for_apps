@@ -43,3 +43,5 @@
 
 + [新款极氪 001 汽车 2 月 27 日发布，中国首位 F1 车手周冠宇担任首席操控官](https://m.ithome.com/html/751187.htm)
 
++ [消息称国产手机厂商 Top5 之一芯片研发已取得阶段性进展，AP 和 BP 推进中](https://m.ithome.com/html/751106.htm)
+
