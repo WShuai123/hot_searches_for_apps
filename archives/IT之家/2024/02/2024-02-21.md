@@ -33,3 +33,5 @@
 
 + [比亚迪海豚荣耀版车型官宣 2 月 23 日上市，全新灰色、红色外观](https://m.ithome.com/html/751091.htm)
 
++ [小米 14 Ultra 手机支持双向卫星通信，搭载澎湃 T1 信号增强芯片](https://m.ithome.com/html/751161.htm)
+

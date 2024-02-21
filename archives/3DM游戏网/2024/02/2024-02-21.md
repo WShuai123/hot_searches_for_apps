@@ -199,3 +199,7 @@
 
 + [地牢冒险游戏《#BLUD》发售日预告 6月18日发售](https://www.3dmgame.com/news/202402/3888831.html)
 
++ [AI换脸乌克兰美女在中国赚钱：软件费用每月仅72美元](https://www.3dmgame.com/news/202402/3888844.html)
+
++ [第三部《最终幻想7》重制版或将于2027年发售](https://www.3dmgame.com/news/202402/3888843.html)
+

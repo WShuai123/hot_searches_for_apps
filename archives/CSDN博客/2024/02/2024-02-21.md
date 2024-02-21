@@ -143,3 +143,9 @@
 
 + [Python 数据可视化之密度散点图 Density Scatter Plot](https://blog.csdn.net/fyfugoyfa/article/details/136198893)
 
++ [[OpenAI]继ChatGPT后发布的Sora模型原理与体验通道](https://blog.csdn.net/Why_does_it_work/article/details/136189812)
+
++ [文献学习-3-机器人操控辅助的全方位增强现实内腔介入远程手术](https://blog.csdn.net/Metaphysicist/article/details/136203553)
+
++ [MySQL 学习记录 1](https://blog.csdn.net/qq_36349997/article/details/136164840)
+
