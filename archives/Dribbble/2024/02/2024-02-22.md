@@ -49,3 +49,23 @@
 
 + [Plaza Theatre - Bangalore](https://dribbble.com/shots/)
 
++ [Essentials](https://dribbble.com/shots/)
+
++ [Dear](https://dribbble.com/shots/)
+
++ [ilcons mini illustrations and icons](https://dribbble.com/shots/)
+
++ [Sriracha Revolver poster](https://dribbble.com/shots/)
+
++ [The Auricular Site Graphic](https://dribbble.com/shots/)
+
++ [La Gazette | April 2023](https://dribbble.com/shots/)
+
++ [Nobody Loves New York Like New York](https://dribbble.com/shots/)
+
++ [Hawthorne Heights Merch Designs](https://dribbble.com/shots/)
+
++ [Flower on Saturn](https://dribbble.com/shots/)
+
++ [Masks, Arms & Golden Cats.](https://dribbble.com/shots/)
+
