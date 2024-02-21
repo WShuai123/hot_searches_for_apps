@@ -101,3 +101,9 @@
 
 + [《战锤40K：行商浪人》获超大补丁：1800多处改动](https://www.3dmgame.com/news/202402/3888835.html)
 
++ [《魂斗罗：加鲁加行动》3月发售 试玩版现已推出](https://www.3dmgame.com/news/202402/3888887.html)
+
++ [《终结的百合花》续作2024年内登陆Switch](https://www.3dmgame.com/news/202402/3888886.html)
+
++ [HORI推出Switch专用吉他演奏学习软件](https://www.3dmgame.com/news/202402/3888885.html)
+

@@ -25,3 +25,7 @@
 
 + [小米平板 6S Pro 支持远程控制 PC、可当 Win 系统电脑无线副屏](https://m.ithome.com/html/751238.htm)
 
++ [华为畅享 70z 手机明日开启预售：6000mAh 大电池，1099 元起](https://m.ithome.com/html/751287.htm)
+
++ [联发科天玑 9400 旗舰芯片设计性能曝光：CPU 多核提升超 20%，GPU 提升 11%](https://m.ithome.com/html/751250.htm)
+
