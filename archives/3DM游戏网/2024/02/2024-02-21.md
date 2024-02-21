@@ -171,3 +171,31 @@
 
 + [轻松的城市建设游戏《Lands of Koastalia》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3888822.html)
 
++ [“惊奇队长”布丽·拉尔森提前试玩《碧姬公主 表演时刻！》](https://www.3dmgame.com/news/202402/3888842.html)
+
++ [手游《彩虹六号：SMOL》预告公布 需Netflix会员](https://www.3dmgame.com/news/202402/3888840.html)
+
++ [VR游戏《灵魂契约》新系统 武器必杀技等情报公开](https://www.3dmgame.com/news/202402/3888841.html)
+
++ [《铁拳8》首个DLC角色公布 将持续添加免费剧情内容](https://www.3dmgame.com/news/202402/3888839.html)
+
++ [国产FPS《逆战：未来》首爆实机演示 将登陆PC和移动端](https://www.3dmgame.com/news/202402/3888838.html)
+
++ [天文学家发现迄今成长最快黑洞 每天吞下一个太阳](https://www.3dmgame.com/news/202402/3888837.html)
+
++ [炮打林肯纪念堂？ 《内战》全新正式预告](https://www.3dmgame.com/news/202402/3888836.html)
+
++ [《战锤40K：行商浪人》获超大补丁：1800多处改动](https://www.3dmgame.com/news/202402/3888835.html)
+
++ [《战锤40K：行商浪人》发布媒体赞誉视频 IGN 8分](https://www.3dmgame.com/news/202402/3888833.html)
+
++ [水晶动力称新版《古墓丽影》劳拉新形象并非最终版](https://www.3dmgame.com/news/202402/3888832.html)
+
++ [官方暗示新宝可梦发布会或与《宝可梦：金/银》有关](https://www.3dmgame.com/news/202402/3888830.html)
+
++ [《全境封锁2》发布“Veiled Tactics”服装活动预告片](https://www.3dmgame.com/news/202402/3888829.html)
+
++ [全新任天堂SFC复刻置换机公布 复古造型功能增强](https://www.3dmgame.com/news/202402/3888834.html)
+
++ [地牢冒险游戏《#BLUD》发售日预告 6月18日发售](https://www.3dmgame.com/news/202402/3888831.html)
+

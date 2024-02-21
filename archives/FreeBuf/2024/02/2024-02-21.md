@@ -47,3 +47,7 @@
 
 + [代码审计思路经验谈](https://www.freebuf.com/vuls/391915.html)
 
++ [Experian最新报告发布：70%的企业遭遇网络欺诈的频次有所增长](https://www.freebuf.com/news/392164.html)
+
++ [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://www.freebuf.com/news/392178.html)
+
