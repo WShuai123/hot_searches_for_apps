@@ -153,3 +153,39 @@
 
 + [宫崎英高：许多人想要《血源》重制版 但目前无法确认](https://www.3dmgame.com/news/202402/3888895.html)
 
++ [《最终幻想7：重生》试玩版更新 新可玩内容上线](https://www.3dmgame.com/news/202402/3888928.html)
+
++ [《粘粘世界2》Epic页面开放 5月23日发售](https://www.3dmgame.com/news/202402/3888927.html)
+
++ [《深岩银河：幸存者》首周售出50万份 更新路线图公开](https://www.3dmgame.com/news/202402/3888926.html)
+
++ [《高达破坏者4收藏版》预购开启 年内登陆PS/Switch](https://www.3dmgame.com/news/202402/3888924.html)
+
++ [《夜莺传说》Steam评价褒贬不一：服务器还是有问题](https://www.3dmgame.com/news/202402/3888925.html)
+
++ [索尼：PS5/PC平台上强大的第一方阵容是提高利润关键](https://www.3dmgame.com/news/202402/3888922.html)
+
++ [来自微软的“馈赠” Switch Online新增五款经典Rare游戏](https://www.3dmgame.com/news/202402/3888923.html)
+
++ [《圣兽之王》Switch体验版上线 存档进度可继承](https://www.3dmgame.com/news/202402/3888921.html)
+
++ [《蟹蟹寻宝奇遇》发售日预告  4月26日上线](https://www.3dmgame.com/news/202402/3888913.html)
+
++ [动作冒险游戏《斩斩大冒险》Steam页面上线 支持简中](https://www.3dmgame.com/news/202402/3888920.html)
+
++ [《天国：拯救》Switch版3月14日发售 预购已开启](https://www.3dmgame.com/news/202402/3888914.html)
+
++ [Gearbox暗示《无主之地4》 粉丝猜测将在3月正式公布](https://www.3dmgame.com/news/202402/3888912.html)
+
++ [《最终幻想14》国际服15联动活动回归 4人轿车坐骑](https://www.3dmgame.com/news/202402/3888911.html)
+
++ [《无主之地》真人电影正式预告 8月9日上映](https://www.3dmgame.com/news/202402/3888915.html)
+
++ [《艾尔登法环》DLC“黄金树之影”新截图 画面太美](https://www.3dmgame.com/news/202402/3888916.html)
+
++ [《艾尔登法环》DLC是独立地图 和宁姆格福一样大](https://www.3dmgame.com/news/202402/3888919.html)
+
++ [《超级猴子球》新作宣布 在线多人玩法 6月25日上线](https://www.3dmgame.com/news/202402/3888918.html)
+
++ [《真女神转生5：复仇》新系统情报公开 6月21日发售](https://www.3dmgame.com/news/202402/3888917.html)
+

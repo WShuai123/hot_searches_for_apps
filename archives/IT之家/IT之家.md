@@ -33,3 +33,7 @@
 
 + [新款梅赛德斯-迈巴赫 GLS SUV 车型上市，183.3 万元起](https://m.ithome.com/html/751323.htm)
 
++ [摩尔线程 MTT S30 国产显卡发售：4GB 显存、功耗 40W，售 399 元](https://m.ithome.com/html/751310.htm)
+
++ [安卓系统即将淘汰传统更新方式，三星等厂商或被迫拥抱“无缝更新”](https://m.ithome.com/html/751344.htm)
+

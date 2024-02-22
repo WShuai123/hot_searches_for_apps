@@ -129,3 +129,13 @@
 
 + [MySQL 学习记录 1](https://blog.csdn.net/qq_36349997/article/details/136164840)
 
++ [高校学科竞赛平台|基于springboot高校学科竞赛平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136221041)
+
++ [PyTorch深度学习实战（37）——CycleGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/136219538)
+
++ [SpringCloud-Gateway网关的使用](https://blog.csdn.net/weixin_41793160/article/details/136222756)
+
++ [国产大语言模型对比评测（二）](https://blog.csdn.net/zhangchuangzhuang/article/details/135968188)
+
++ [Redis为什么快？](https://blog.csdn.net/axyw_/article/details/136156988)
+
