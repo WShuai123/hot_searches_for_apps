@@ -189,3 +189,15 @@
 
 + [《真女神转生5：复仇》新系统情报公开 6月21日发售](https://www.3dmgame.com/news/202402/3888917.html)
 
++ [黄仁勋赚麻了：英伟达全年净利润暴增近6倍！](https://www.3dmgame.com/news/202402/3888934.html)
+
++ [PS PULSE耳机国行版今日上市 售价1149元起](https://www.3dmgame.com/news/202402/3888929.html)
+
++ [模拟美国大选 《政选机器2024》将于5月推出](https://www.3dmgame.com/news/202402/3888933.html)
+
++ [《星战：前线典藏版》Steam页面上线 3月14日发售](https://www.3dmgame.com/news/202402/3888932.html)
+
++ [《绝地潜兵2》引擎是“废弃软件” 开发商没有任何支持](https://www.3dmgame.com/news/202402/3888931.html)
+
++ [《帝国神话》登陆Steam 高自由度冷兵器战争沙盒](https://www.3dmgame.com/news/202402/3888930.html)
+

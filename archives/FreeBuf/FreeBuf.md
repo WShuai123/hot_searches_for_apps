@@ -53,3 +53,5 @@
 
 + [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html)
 
++ [Authentication身份验证漏洞内容学习笔记和通关攻略](https://www.freebuf.com/articles/web/392013.html)
+
