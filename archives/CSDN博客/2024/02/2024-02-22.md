@@ -125,3 +125,7 @@
 
 + [论文精读--word2vec](https://blog.csdn.net/m0_73202283/article/details/136190629)
 
++ [[OpenGL教程05 ] glAccum() 函数对累积缓存设置](https://blog.csdn.net/gongdiwudu/article/details/136210948)
+
++ [MySQL 学习记录 1](https://blog.csdn.net/qq_36349997/article/details/136164840)
+

@@ -121,3 +121,35 @@
 
 + [GBA经典游戏《忍者刑警》年内登陆Switch和PS](https://www.3dmgame.com/news/202402/3888888.html)
 
++ [《盗日求生》改为PvPvE撤离类游戏 3月15日封闭测试](https://www.3dmgame.com/news/202402/3888906.html)
+
++ [《恶意不息》新演示视频 暗黑4和黑魂完美结合体](https://www.3dmgame.com/news/202402/3888903.html)
+
++ [《Disney Epic Mickey: Rebrushed》预告 支持简中](https://www.3dmgame.com/news/202402/3888902.html)
+
++ [《漫威蜘蛛侠2》将推更新 包含新套装、新游戏＋等](https://www.3dmgame.com/news/202402/3888904.html)
+
++ [《旁观者：列车长》Steam页面上线 列车长监视任务日常](https://www.3dmgame.com/news/202402/3888905.html)
+
++ [《New 电波人间RPG FREE》年内免费登陆Switch](https://www.3dmgame.com/news/202402/3888910.html)
+
++ [《龙之信条2》斗士实机 3月22日发售](https://www.3dmgame.com/news/202402/3888909.html)
+
++ [乔治·马丁没有参与《艾尔登法环》DLC“黄金树之影”开发](https://www.3dmgame.com/news/202402/3888908.html)
+
++ [《DOTA2》7.35c平衡性更新发布 冰甲、法师克星削弱](https://www.3dmgame.com/news/202402/3888907.html)
+
++ [2023年有500款以上Steam游戏收入超3百万美元](https://www.3dmgame.com/news/202402/3888899.html)
+
++ [《监狱建筑师2》宣布延期两个月 5月正式发布](https://www.3dmgame.com/news/202402/3888898.html)
+
++ [战术合作生存恐怖游戏《无尽寒冬》公布 登陆PC](https://www.3dmgame.com/news/202402/3888897.html)
+
++ [《艾尔登法环》DLC典藏版内容公布 包含穿刺者“梅瑟莫”雕像](https://www.3dmgame.com/news/202402/3888901.html)
+
++ [开放世界动作RPG《燧石枪：黎明之围》新实机预告](https://www.3dmgame.com/news/202402/3888900.html)
+
++ [《艾尔登法环》黄金树之影是目前唯一DLC 宫崎英高：未来或有更多想法](https://www.3dmgame.com/news/202402/3888896.html)
+
++ [宫崎英高：许多人想要《血源》重制版 但目前无法确认](https://www.3dmgame.com/news/202402/3888895.html)
+
