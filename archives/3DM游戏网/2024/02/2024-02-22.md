@@ -201,3 +201,13 @@
 
 + [《帝国神话》登陆Steam 高自由度冷兵器战争沙盒](https://www.3dmgame.com/news/202402/3888930.html)
 
++ [《浪人崛起》发布“世界概述”预告 体验幕末时期的日本](https://www.3dmgame.com/news/202402/3888939.html)
+
++ [复古清版动作游戏《零号奴隶X》 现已在Steam平台正式推出](https://www.3dmgame.com/news/202402/3888938.html)
+
++ [《地球冒险3》登陆Swith在线仅限日本地区 海外玩家失望无比](https://www.3dmgame.com/news/202402/3888937.html)
+
++ [《艾尔登法环：黄金树之影》DLC确认会有“女武神”级别难度可选Boss](https://www.3dmgame.com/news/202402/3888936.html)
+
++ [第一人称射击动作类肉鸽游戏《狂野混球》发布预览视频](https://www.3dmgame.com/news/202402/3888935.html)
+
