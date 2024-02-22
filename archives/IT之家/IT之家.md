@@ -29,3 +29,5 @@
 
 + [联发科天玑 9400 旗舰芯片设计性能曝光：CPU 多核提升超 20%，GPU 提升 11%](https://m.ithome.com/html/751250.htm)
 
++ [小米 PC 换机助手上线：一键迁移 QQ 微信记录及浏览器书签、最高传输速率 90MB/s](https://m.ithome.com/html/751308.htm)
+

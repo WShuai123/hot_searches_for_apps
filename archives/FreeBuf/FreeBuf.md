@@ -41,3 +41,5 @@
 
 + [请先理解了云原生再谈容器安全](https://www.freebuf.com/articles/container/377477.html)
 
++ [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html)
+

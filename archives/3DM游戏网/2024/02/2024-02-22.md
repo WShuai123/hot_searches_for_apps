@@ -107,3 +107,17 @@
 
 + [HORI推出Switch专用吉他演奏学习软件](https://www.3dmgame.com/news/202402/3888885.html)
 
++ [《艾尔登法环》DLC黄金树之影是FS迄今为止最大DLC](https://www.3dmgame.com/news/202402/3888894.html)
+
++ [《真女神转生5：复仇》6/21登陆各大平台](https://www.3dmgame.com/news/202402/3888893.html)
+
++ [初代《怪物猎人物语》将于今年夏季强化登陆PC平台](https://www.3dmgame.com/news/202402/3888892.html)
+
++ [原微软第一方《盗贼之海》4月30日登陆PS5](https://www.3dmgame.com/news/202402/3888891.html)
+
++ [《Grounded》PS5/PS4/NS版4月16日推出](https://www.3dmgame.com/news/202402/3888890.html)
+
++ [《完美音浪》PS5版公布 3月19日推出](https://www.3dmgame.com/news/202402/3888889.html)
+
++ [GBA经典游戏《忍者刑警》年内登陆Switch和PS](https://www.3dmgame.com/news/202402/3888888.html)
+
