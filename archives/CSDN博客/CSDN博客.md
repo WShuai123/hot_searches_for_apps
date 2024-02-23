@@ -179,3 +179,5 @@
 
 + [【计算机网络】数据链路层--以太网/MTU/ARP/RARP协议](https://blog.csdn.net/qq_67582098/article/details/136255307)
 
++ [探索无限：Sora与AI视频模型的技术革命 - 开创未来视觉艺术的新篇章](https://blog.csdn.net/Srlua/article/details/136245635)
+
