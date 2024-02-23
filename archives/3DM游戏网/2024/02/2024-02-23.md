@@ -227,3 +227,9 @@
 
 + [“黄金树之影”DLC公开后 《艾尔登法环》重返Steam全球热销榜](https://www.3dmgame.com/news/202402/3889068.html)
 
++ [《森林之子》正式版发布 新增对AMD FSR 3支持](https://www.3dmgame.com/news/202402/3889071.html)
+
++ [李一舟抖音橱窗清空 唯一在售书籍下架](https://www.3dmgame.com/news/202402/3889070.html)
+
++ [电影人：OpenAI的Sora并不意味着好莱坞完蛋了](https://www.3dmgame.com/news/202402/3889069.html)
+
