@@ -143,3 +143,11 @@
 
 + [SpringBoot+Docker：高效容器化的最佳实践](https://blog.csdn.net/agonie201218/article/details/136240653)
 
++ [【计算机网络】数据链路层|封装成帧|透明传输|差错检测|PPP协议|CSMA/CD协议](https://blog.csdn.net/qq_73017178/article/details/136137812)
+
++ [Spring及工厂模式概述](https://blog.csdn.net/2301_78386975/article/details/136249243)
+
++ [81、为什么SpringBoot的jar可以直接运行？](https://blog.csdn.net/weixin_43860634/article/details/136234958)
+
++ [GaussDB SQL调优：建立合适的索引](https://blog.csdn.net/GaussDB/article/details/136251205)
+

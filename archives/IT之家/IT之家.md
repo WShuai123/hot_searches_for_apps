@@ -27,3 +27,5 @@
 
 + [【IT之家开箱】小米 14 Ultra 及专业影像套装图赏：由内到外的专业移动影像旗舰](https://m.ithome.com/html/751492.htm)
 
++ [小米后续发布 Redmi G Pro 2024 游戏本，号称“万元内最强”](https://m.ithome.com/html/751491.htm)
+

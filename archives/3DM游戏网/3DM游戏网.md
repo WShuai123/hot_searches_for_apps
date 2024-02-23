@@ -177,3 +177,11 @@
 
 + [数毛社分析《最终幻想：重生》体验版 性能模式太糊质量模式是最佳选择](https://www.3dmgame.com/news/202402/3889034.html)
 
++ [《森林之子》登陆Steam正式推出 生存恐怖冒险名作续篇](https://www.3dmgame.com/news/202402/3889047.html)
+
++ [iPhone 15被曝蓝牙断连问题：无法配对AirPods、车载系统](https://www.3dmgame.com/news/202402/3889045.html)
+
++ [《真人快打1》跨平台联机功能下周上线 Switch版除外](https://www.3dmgame.com/news/202402/3889046.html)
+
++ [任天堂新直面会画面略有变化 粉丝认为这是Switch 2的暗示](https://www.3dmgame.com/news/202402/3889043.html)
+
