@@ -49,3 +49,7 @@
 
 + [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html)
 
++ [AI-Gateway：一款整合了OpenAI、Anthropic、LLama2等大语言模型的统一API接口](https://www.freebuf.com/sectool/389865.html)
+
++ [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/articles/392383.html)
+

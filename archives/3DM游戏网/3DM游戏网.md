@@ -157,3 +157,23 @@
 
 + [一定要回答 三体游戏微博招募游戏开发团队及制作人](https://www.3dmgame.com/news/202402/3889030.html)
 
++ [HBO探案剧集《真探》续订第五季 第四季主创回归](https://www.3dmgame.com/news/202402/3889044.html)
+
++ [《夜莺传说》值得更多耐心，多项问题同步优化进行中](https://www.3dmgame.com/news/202402/3889042.html)
+
++ [《神笔谈兵》登陆多平台正式发售 中世纪背景回合制策略](https://www.3dmgame.com/news/202402/3889041.html)
+
++ [《明日方舟》与《彩六：围攻》再次联动 先导预告公开](https://www.3dmgame.com/news/202402/3889040.html)
+
++ [极限飞驰 热血竞速：在《极限竞速：地平线5》中体验拉力赛魅力](https://www.3dmgame.com/news/202402/3889039.html)
+
++ [2023 MG7正式登陆《极限竞速：地平线5》！](https://www.3dmgame.com/news/202402/3889038.html)
+
++ [漫画《活尸猫之夜 》宣布动画化 将于2025年放送](https://www.3dmgame.com/news/202402/3889037.html)
+
++ [鹰角买断制RPG《来自星尘》发布游戏玩法介绍预告](https://www.3dmgame.com/news/202402/3889036.html)
+
++ [日本研发出新型“纳米球”涂料 可减少飞机二氧化碳排放](https://www.3dmgame.com/news/202402/3889035.html)
+
++ [数毛社分析《最终幻想：重生》体验版 性能模式太糊质量模式是最佳选择](https://www.3dmgame.com/news/202402/3889034.html)
+
