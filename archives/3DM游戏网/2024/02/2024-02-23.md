@@ -145,3 +145,7 @@
 
 + [《博德之门3》将获得官方跨平台Mod支持 今年晚些时候上线](https://www.3dmgame.com/news/202402/3889017.html)
 
++ [小米平板6S Pro 3299元起：首发Wi-Fi 7+120W秒充](https://www.3dmgame.com/news/202402/3889029.html)
+
++ [冒险游戏《九龙诡录2》 Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3889028.html)
+

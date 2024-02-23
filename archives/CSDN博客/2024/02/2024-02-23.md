@@ -117,3 +117,15 @@
 
 + [国产大语言模型对比评测（二）](https://blog.csdn.net/zhangchuangzhuang/article/details/135968188)
 
++ [Flink双流（join）](https://blog.csdn.net/weixin_61070671/article/details/136217794)
+
++ [YOLO v9 思路复现 + 全流程优化](https://blog.csdn.net/qq_41739364/article/details/136231922)
+
++ [软件License授权原理](https://blog.csdn.net/daocaokafei/article/details/136243120)
+
++ [国内大语言模型对比评测（三）](https://blog.csdn.net/zhangchuangzhuang/article/details/136177837)
+
++ [租用海外服务器，自己部署ChatGPT-Next-Web，实现ChatGPT聊天自由，还可以分享给朋友用](https://blog.csdn.net/zhoushenghuang/article/details/136173720)
+
++ [从计网的角度讲明白什么是网关](https://blog.csdn.net/weixin_66196770/article/details/136187001)
+

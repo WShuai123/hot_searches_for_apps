@@ -25,3 +25,5 @@
 
 + [4999 元起，小米 Redmi Book Pro 14/16 2024 笔记本发布：Ultra 5/7 处理器，接入澎湃智联](https://m.ithome.com/html/751490.htm)
 
++ [【IT之家开箱】小米 14 Ultra 及专业影像套装图赏：由内到外的专业移动影像旗舰](https://m.ithome.com/html/751492.htm)
+

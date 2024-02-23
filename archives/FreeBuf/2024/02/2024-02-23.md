@@ -43,3 +43,5 @@
 
 + [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html)
 
++ [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html)
+
