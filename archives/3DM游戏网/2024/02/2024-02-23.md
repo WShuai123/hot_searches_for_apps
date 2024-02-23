@@ -101,3 +101,17 @@
 
 + [我国科学家历时7年开发超级光盘 能存储PB级海量数据](https://www.3dmgame.com/news/202402/3888958.html)
 
++ [《最终幻想7：重生》新视频 蒂法爱丽丝穿泳装吸睛](https://www.3dmgame.com/news/202402/3889011.html)
+
++ [微软这么卑微？游戏登陆PS5没有Xbox工作室标识](https://www.3dmgame.com/news/202402/3889010.html)
+
++ [《狂想异星》序章免费登陆Steam 肉鸽动作射击](https://www.3dmgame.com/news/202402/3889009.html)
+
++ [昔日iOS热门游戏《无尽之剑》已移植至PC 免费玩](https://www.3dmgame.com/news/202402/3889008.html)
+
++ [《心灵杀手2》照片模式2024年春季推出 免费更新](https://www.3dmgame.com/news/202402/3889012.html)
+
++ [自《Bloomburrow》后 万智牌将停产中文实体卡](https://www.3dmgame.com/news/202402/3889007.html)
+
++ [《完美音浪》将跳过NS直接登陆Switch 2主机](https://www.3dmgame.com/news/202402/3889006.html)
+

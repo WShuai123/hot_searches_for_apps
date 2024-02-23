@@ -49,3 +49,21 @@
 
 + [Plaza Theatre - Bangalore](https://dribbble.com/shots/)
 
++ [Knights ⚔️](https://dribbble.com/shots/)
+
++ [Super Mario Reach for the stars!](https://dribbble.com/shots/)
+
++ [Simple Type Club 2024](https://dribbble.com/shots/)
+
++ [Barilla Time](https://dribbble.com/shots/)
+
++ [Guest from the forest.](https://dribbble.com/shots/)
+
++ [Design for "Chocosquad" Chocolate Boxes](https://dribbble.com/shots/)
+
++ [Gardener](https://dribbble.com/shots/)
+
++ [Finn](https://dribbble.com/shots/)
+
++ [Utah Spirits](https://dribbble.com/shots/)
+
