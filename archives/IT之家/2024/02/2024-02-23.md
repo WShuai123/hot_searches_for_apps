@@ -33,3 +33,5 @@
 
 + [小米官宣张艺谋出任小米 14 Ultra 手机“影像首席顾问”](https://m.ithome.com/html/751477.htm)
 
++ [（更新：小米回应称“完全失实”）小米汽车，买就“送”北京牌照？](https://m.ithome.com/html/751593.htm)
+

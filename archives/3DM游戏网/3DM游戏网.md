@@ -185,3 +185,41 @@
 
 + [任天堂新直面会画面略有变化 粉丝认为这是Switch 2的暗示](https://www.3dmgame.com/news/202402/3889043.html)
 
++ [百度副总裁：靠AI赚钱是今年重点 要领跑AI行业](https://www.3dmgame.com/news/202402/3889059.html)
+
++ [需求火爆 黄仁勋：AI芯片供不应求状况将贯穿全年](https://www.3dmgame.com/news/202402/3889060.html)
+
++ [《索尼克狂欢》的团队新作，3D平台游戏《佩妮大逃脱》现已推出](https://www.3dmgame.com/news/202402/3889061.html)
+
++ [水墨风策略战棋《神笔谈兵》1.0推出，史低六折火热进行中](https://www.3dmgame.com/news/202402/3889062.html)
+
++ [准备好迎接《远征：泥泞奔驰游戏》中史诗般的探险！](https://www.3dmgame.com/news/202402/3889063.html)
+
++ [花园模拟器《花园生涯：模拟佛系生活》现已发售](https://www.3dmgame.com/news/202402/3889064.html)
+
++ [硬核模拟《铁路调度模拟器》今日结束抢先体验](https://www.3dmgame.com/news/202402/3889065.html)
+
++ [在这款游戏里，种地真的能拯救世界！](https://www.3dmgame.com/news/202402/3889066.html)
+
++ [休闲治愈模拟《花园生涯》登陆Steam 稍后登陆主机平台](https://www.3dmgame.com/news/202402/3889057.html)
+
++ [《最终幻想7：重生》媒体均分达93 总监发文感谢支持](https://www.3dmgame.com/news/202402/3889058.html)
+
++ [《波斯王子：失落的王冠》即将推出新内容新模式 免费更新](https://www.3dmgame.com/news/202402/3889051.html)
+
++ [存在燃油泄漏风险！大众集团宣布召回26.1万辆汽车](https://www.3dmgame.com/news/202402/3889054.html)
+
++ [英伟达推出全新NVIDIA App！取代控制面板和GeForce Experience](https://www.3dmgame.com/news/202402/3889055.html)
+
++ [暴雪前总裁非常期待《艾尔登法环》DLC：每天想十次](https://www.3dmgame.com/news/202402/3889056.html)
+
++ [短篇心理恐怖游戏《Valley of Shadows》Steam页面上线 暂不支持简体中文](https://www.3dmgame.com/news/202402/3889049.html)
+
++ [微软将推定制芯片 英特尔代工采用最新18A工艺](https://www.3dmgame.com/news/202402/3889050.html)
+
++ [《GTA6》新内容或将于5月公布：发售日或预告截图？](https://www.3dmgame.com/news/202402/3889052.html)
+
++ [《奇妙大作战》确定3月26日正式上线！3人组队，一起冒险吧！](https://www.3dmgame.com/news/202402/3889053.html)
+
++ [英伟达股价飙升 黄仁勋成全球第21大富豪](https://www.3dmgame.com/news/202402/3889048.html)
+

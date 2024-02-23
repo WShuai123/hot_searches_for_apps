@@ -55,3 +55,5 @@
 
 + [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html)
 
++ [个人隐私还要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html)
+
