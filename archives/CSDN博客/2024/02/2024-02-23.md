@@ -151,3 +151,9 @@
 
 + [GaussDB SQL调优：建立合适的索引](https://blog.csdn.net/GaussDB/article/details/136251205)
 
++ [华为算法题 go语言或者ptython](https://blog.csdn.net/qq_41834780/article/details/136211406)
+
++ [Mamba详细介绍和RNN、Transformer的架构可视化对比](https://blog.csdn.net/m0_46510245/article/details/136250003)
+
++ [2024三掌柜赠书活动第十期：Web漏洞解析与攻防实战](https://blog.csdn.net/CC1991_/article/details/136206482)
+

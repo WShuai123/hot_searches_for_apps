@@ -29,3 +29,7 @@
 
 + [小米后续发布 Redmi G Pro 2024 游戏本，号称“万元内最强”](https://m.ithome.com/html/751491.htm)
 
++ [小米推出卫星信号增幅仪，199 元](https://m.ithome.com/html/751481.htm)
+
++ [小米官宣张艺谋出任小米 14 Ultra 手机“影像首席顾问”](https://m.ithome.com/html/751477.htm)
+

@@ -53,3 +53,5 @@
 
 + [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/articles/392383.html)
 
++ [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html)
+
