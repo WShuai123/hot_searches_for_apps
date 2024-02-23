@@ -45,3 +45,7 @@
 
 + [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html)
 
++ [美国指控著名安全厂商Avast 向广告商出售用户浏览数据](https://www.freebuf.com/news/392370.html)
+
++ [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html)
+

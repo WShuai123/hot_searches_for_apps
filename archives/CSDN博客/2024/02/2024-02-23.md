@@ -129,3 +129,7 @@
 
 + [从计网的角度讲明白什么是网关](https://blog.csdn.net/weixin_66196770/article/details/136187001)
 
++ [YOLOv9改进 | 一文带你了解全新的SOTA模型YOLOv9（论文阅读笔记，效果完爆YOLOv8）](https://blog.csdn.net/java1314777/article/details/136230391)
+
++ [微信小程序uniapp+vue校园任务跑腿接单平台java+python+nodejs+php](https://blog.csdn.net/dongyun2022/article/details/136220527)
+

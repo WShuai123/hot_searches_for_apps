@@ -149,3 +149,11 @@
 
 + [冒险游戏《九龙诡录2》 Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3889028.html)
 
++ [奇葩恐怖游戏《甘霖娘女巫》即将推出 用脏话驱魔](https://www.3dmgame.com/news/202402/3889033.html)
+
++ [《冷漠》恐怖系列新作《Apathy 小学恐怖故事》上架Steam](https://www.3dmgame.com/news/202402/3889032.html)
+
++ [安娜·德·阿玛斯主演的《疾速追杀》衍生电影《芭蕾女杀手》推迟一年上映](https://www.3dmgame.com/news/202402/3889031.html)
+
++ [一定要回答 三体游戏微博招募游戏开发团队及制作人](https://www.3dmgame.com/news/202402/3889030.html)
+
