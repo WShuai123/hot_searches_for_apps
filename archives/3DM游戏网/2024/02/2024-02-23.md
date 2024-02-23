@@ -115,3 +115,33 @@
 
 + [《完美音浪》将跳过NS直接登陆Switch 2主机](https://www.3dmgame.com/news/202402/3889006.html)
 
++ [系列新篇《牙狼 钢之继承者》光斩骑士亮相 酷炫极致](https://www.3dmgame.com/news/202402/3889027.html)
+
++ [推出不到2年 《虚幻争霸：过载》即将于4月关服](https://www.3dmgame.com/news/202402/3889026.html)
+
++ [《魔兽世界》经典版专家模式将于3月1日推出独行模式](https://www.3dmgame.com/news/202402/3889025.html)
+
++ [《装甲核心6》获得了成功 FS社希望继续制作系列游戏](https://www.3dmgame.com/news/202402/3889024.html)
+
++ [《夜莺传说》开发商：正在优先考虑和开发离线模式](https://www.3dmgame.com/news/202402/3889023.html)
+
++ [太空实拍电影《挑战》引进中国内地院线 档期待定](https://www.3dmgame.com/news/202402/3889022.html)
+
++ [新冠可能是首个X疾病 其他X疾病或正在到来](https://www.3dmgame.com/news/202402/3889021.html)
+
++ [宫崎英高：新武器和法术是《艾尔登法环：黄金树之影》DLC主要卖点](https://www.3dmgame.com/news/202402/3889020.html)
+
++ [《全面战争：战锤III》4.2更新发布 为“变化之影”DLC带来大量新内容](https://www.3dmgame.com/news/202402/3889019.html)
+
++ [卡牌游戏《ctrl.alt.DEAL》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202402/3889018.html)
+
++ [《碧海黑帆》玩家数未达到100万 育碧却似乎感到满意](https://www.3dmgame.com/news/202402/3889016.html)
+
++ [《高达SEED》全新电影热映中 最新高清剧照公开](https://www.3dmgame.com/news/202402/3889015.html)
+
++ [回合制战略游戏《地狱王座》现已在Steam平台正式推出](https://www.3dmgame.com/news/202402/3889014.html)
+
++ [《WHAT THE CAR?》Steam页面上线 年内发售](https://www.3dmgame.com/news/202402/3889013.html)
+
++ [《博德之门3》将获得官方跨平台Mod支持 今年晚些时候上线](https://www.3dmgame.com/news/202402/3889017.html)
+
