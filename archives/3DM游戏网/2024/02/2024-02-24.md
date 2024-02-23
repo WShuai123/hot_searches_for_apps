@@ -101,3 +101,5 @@
 
 + [《装甲核心6》获得了成功 FS社希望继续制作系列游戏](https://www.3dmgame.com/news/202402/3889024.html)
 
++ [角色扮演《铁尾传奇2》上架Steam 前作好评如潮](https://www.3dmgame.com/news/202402/3889076.html)
+
