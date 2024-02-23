@@ -101,3 +101,5 @@
 
 + [UsignDoc](https://www.producthunt.com/posts/usigndoc)
 
++ [Stable Diffusion 3](https://www.producthunt.com/posts/stable-diffusion-3-2)
+
