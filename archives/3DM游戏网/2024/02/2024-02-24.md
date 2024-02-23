@@ -103,3 +103,9 @@
 
 + [角色扮演《铁尾传奇2》上架Steam 前作好评如潮](https://www.3dmgame.com/news/202402/3889076.html)
 
++ [《自杀小队》销量令人失望 《霍格沃茨之遗》大获成功](https://www.3dmgame.com/news/202402/3889079.html)
+
++ [《神话时代：决定版》将于年内登陆Xbox/PC](https://www.3dmgame.com/news/202402/3889078.html)
+
++ [ARPG/社交模拟《辛特堡传说》推迟到夏季发行](https://www.3dmgame.com/news/202402/3889077.html)
+
