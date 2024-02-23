@@ -165,3 +165,9 @@
 
 + [UsignDoc](https://www.producthunt.com/posts/usigndoc)
 
++ [LiveChatAI](https://www.producthunt.com/posts/livechatai-2)
+
++ [Mindr for Vision Pro](https://www.producthunt.com/posts/mindr-for-vision-pro)
+
++ [Grake](https://www.producthunt.com/posts/grake)
+

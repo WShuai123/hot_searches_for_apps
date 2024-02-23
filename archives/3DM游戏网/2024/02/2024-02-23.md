@@ -225,3 +225,5 @@
 
 + [《你的名字》《铃芽之旅》制作人因向未成年人索要裸照被捕](https://www.3dmgame.com/news/202402/3889067.html)
 
++ [“黄金树之影”DLC公开后 《艾尔登法环》重返Steam全球热销榜](https://www.3dmgame.com/news/202402/3889068.html)
+

@@ -37,3 +37,11 @@
 
 + [9.98 万元起，比亚迪海豚荣耀版车型上市：全新灰色、红色外观，四连杆独立悬架](https://m.ithome.com/html/751641.htm)
 
++ [【IT之家评测室】小米 14 Ultra 深度体验：上限极高，门槛极低的专业影像旗舰机](https://m.ithome.com/html/751544.htm)
+
++ [杨元庆：联想手机要在三年内重回主流行列](https://m.ithome.com/html/751496.htm)
+
++ [消息称华为 P70 系列手机暂定 3 月下旬发布，新外观形态设计](https://m.ithome.com/html/751553.htm)
+
++ [合资油车退出中国，从新能源车降到 8 万以下开始](https://m.ithome.com/html/751591.htm)
+
