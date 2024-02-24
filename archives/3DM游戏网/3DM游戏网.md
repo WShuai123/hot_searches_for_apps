@@ -111,3 +111,13 @@
 
 + [横版动作冒险《波：青莲之路》7/18登陆各平台](https://www.3dmgame.com/news/202402/3889080.html)
 
++ [拳头新作《2XKO》将采用基于服务器的回滚网络代码](https://www.3dmgame.com/news/202402/3889085.html)
+
++ [《德州电锯杀人狂》开发商退出 游戏移交给新工作室](https://www.3dmgame.com/news/202402/3889084.html)
+
++ [美国销量月榜：《铁拳8》首发第二《自杀小队》第三](https://www.3dmgame.com/news/202402/3889083.html)
+
++ [EA停运《F1移动竞速》等两款手游 并进行了“少量”裁员](https://www.3dmgame.com/news/202402/3889082.html)
+
++ [被质疑反作弊不管用 动视称4天封禁了6000名《使命召唤：现代战争3》开挂玩家](https://www.3dmgame.com/news/202402/3889081.html)
+

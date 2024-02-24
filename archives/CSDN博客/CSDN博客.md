@@ -101,3 +101,29 @@
 
 + [【计算机网络】数据链路层--以太网/MTU/ARP/RARP协议](https://blog.csdn.net/qq_67582098/article/details/136255307)
 
++ [我是怎么用静态IP代理为Google账号保驾护航的](https://blog.csdn.net/m0_63947499/article/details/136197371)
+
++ [第七篇【传奇开心果系列】python的文本和语音相互转换库技术点案例示例：Sphinx自动电话系统（IVR）经典案例](https://blog.csdn.net/jackchuanqi/article/details/136239060)
+
++ [（3）(3.5) 遥测无线电区域条例](https://blog.csdn.net/qq_20016593/article/details/136186608)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi1113/article/details/136219215)
+
++ [从器件认识到手机基带设计：硬件设计指南详解](https://blog.csdn.net/qq_44273429/article/details/136260933)
+
++ [spring boot3登录开发-3(账密登录逻辑实现)](https://blog.csdn.net/qq_62262918/article/details/136124858)
+
++ [世界顶级名校计算机专业学习使用教材汇总](https://blog.csdn.net/Aileenvov/article/details/136232307)
+
++ [【Linux系统化学习】深入理解匿名管道(pipe)和命名管道(fifo)](https://blog.csdn.net/qq_55119554/article/details/136198178)
+
++ [【Spring底层原理高级进阶】微服务 Spring Cloud 的注册发现机制：Eureka 的架构设计、服务注册与发现的实现原理，深入掌握 Ribbon 和 Feign 的用法 ️](https://blog.csdn.net/m0_72803988/article/details/136244073)
+
++ [激光图像背景噪声影响的理论分析](https://blog.csdn.net/ccsss22/article/details/136265558)
+
++ [Stable Diffusion v3---](https://blog.csdn.net/qq_29788741/article/details/136250462)
+
++ [OpenWRT部署web站点并结合内网穿透实现无公网ip远程访问](https://blog.csdn.net/fq157856469/article/details/136233641)
+
++ [【深度学习】SSD 神经网络：彻底改变目标检测](https://blog.csdn.net/gongdiwudu/article/details/136245600)
+
