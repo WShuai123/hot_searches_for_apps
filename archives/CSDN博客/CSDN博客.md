@@ -121,3 +121,11 @@
 
 + [OpenWRT部署web站点并结合内网穿透实现无公网ip远程访问](https://blog.csdn.net/fq157856469/article/details/136233641)
 
++ [kafka为什么性能这么高？](https://blog.csdn.net/huanghuozhiye/article/details/136263757)
+
++ [实现外网手机或者电脑随时随地远程访问家里的电脑主机(linux为例)](https://blog.csdn.net/w346665682/article/details/136271493)
+
++ [SpringBoot+Docker：高效容器化的最佳实践](https://blog.csdn.net/agonie201218/article/details/136240653)
+
++ [大型商用平台线上数据库故障恢复纪实](https://blog.csdn.net/zxcvbnmlxy/article/details/136256814)
+
