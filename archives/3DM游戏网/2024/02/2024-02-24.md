@@ -193,3 +193,9 @@
 
 + [《小丑牌》发售三天 全平台销量现已超过25万套](https://www.3dmgame.com/news/202402/3889121.html)
 
++ [Jim Ryan即将从SIE退休 称PS必须继续取悦玩家](https://www.3dmgame.com/news/202402/3889124.html)
+
++ [《角斗士2》制作成本飙升至3.1亿美元 11月上映](https://www.3dmgame.com/news/202402/3889122.html)
+
++ [《艾尔登法环2》可能会有 不会是万代发行](https://www.3dmgame.com/news/202402/3889123.html)
+

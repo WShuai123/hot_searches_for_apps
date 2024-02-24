@@ -179,3 +179,9 @@
 
 + [C# 实现网页内容保存为图片并生成压缩包](https://blog.csdn.net/michaelline/article/details/136259098)
 
++ [【Spring底层原理高级进阶】【SpringCloud整合Spring Security OAuth2】深入了解 Spring Security OAuth2：底层解析＋使用方法+实战](https://blog.csdn.net/m0_72803988/article/details/136275055)
+
++ [【扩散模型】【网络结构探索】神经网络扩散：Neural Network Diffusion（论文解读）](https://blog.csdn.net/qq_45752541/article/details/136234704)
+
++ [Vue学习](https://blog.csdn.net/2301_80382316/article/details/136262885)
+
