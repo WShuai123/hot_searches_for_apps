@@ -145,3 +145,7 @@
 
 + [【Vue3】toRefs和toRef在reactive中的一些应用](https://blog.csdn.net/null18/article/details/136237435)
 
++ [YOLOv8界面-目标检测+语义分割+追踪+姿态识别（姿态估计）+界面DeepSort/ByteTrack-PyQt-GUI](https://blog.csdn.net/2301_78240361/article/details/136225928)
+
++ [【计算机网络】DHCP原理与配置](https://blog.csdn.net/m0_65277261/article/details/136230649)
+

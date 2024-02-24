@@ -149,3 +149,9 @@
 
 + [分析师：微软并没有输给索尼 业务目标更加长远](https://www.3dmgame.com/news/202402/3889095.html)
 
++ [伦敦音乐会现场 横尾太郎透露《尼尔3》或制作中](https://www.3dmgame.com/news/202402/3889102.html)
+
++ [百事大战可口 索尼150万美元买下《可乐战争》电影制作权](https://www.3dmgame.com/news/202402/3889100.html)
+
++ [《龙之信条2》魔法师实机 3月22日发售](https://www.3dmgame.com/news/202402/3889101.html)
+

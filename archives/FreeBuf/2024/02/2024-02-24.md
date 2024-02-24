@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html)
 
++ [.LIVE勒索病毒正在大规模传播，请及时修复（附勒索解密代码）](https://www.freebuf.com/articles/paper/391830.html)
+

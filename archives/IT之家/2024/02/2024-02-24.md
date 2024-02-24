@@ -35,3 +35,9 @@
 
 + [小米再缩短 Bootloader 解锁答题时间：每周二 / 周四 8:30-8:45 及 10:45-11:00 开考](https://m.ithome.com/html/751709.htm)
 
++ [定位运动轿跑，长安第二代 UNI-V 官图公布](https://m.ithome.com/html/751723.htm)
+
++ [北京交管局回应买小米汽车送车牌传闻：暂未接到相关通知，车牌仍需摇号](https://m.ithome.com/html/751623.htm)
+
++ [英伟达“煮酒论英雄”，华为首次被视为 AI 领域主要竞争对手](https://m.ithome.com/html/751663.htm)
+
