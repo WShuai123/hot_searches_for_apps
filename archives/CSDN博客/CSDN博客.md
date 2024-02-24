@@ -127,3 +127,13 @@
 
 + [【深度学习】SSD 神经网络：彻底改变目标检测](https://blog.csdn.net/gongdiwudu/article/details/136245600)
 
++ [谷歌最新开源大模型 Gemma，采用与创建 Gemini 模型相同的研究和技术，专为负责任的人工智能开发而设计。](https://blog.csdn.net/fyfugoyfa/article/details/136235140)
+
++ [MySQL中的高级查询](https://blog.csdn.net/ZY_CREATE/article/details/136213341)
+
++ [网络原理 - HTTP/HTTPS(4)](https://blog.csdn.net/asdssadddd/article/details/136205681)
+
++ [27-pod数据持久化-pv与pvc资源及动态存储StorageClass](https://blog.csdn.net/2302_79199605/article/details/136252954)
+
++ [你听说过柔性数组吗？](https://blog.csdn.net/2301_80221228/article/details/136261722)
+

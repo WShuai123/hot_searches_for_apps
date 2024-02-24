@@ -29,3 +29,7 @@
 
 + [华为 P30、Mate 20 等 12 款手机开启鸿蒙 HarmonyOS 4 公测招募](https://m.ithome.com/html/751557.htm)
 
++ [立减 1700 元：小米平板 5 Pro 12.4 天猫百亿补贴 1799 元清仓](https://m.ithome.com/html/751728.htm)
+
++ [理想汽车通报：两名员工违规接受付费访谈，致使公司商业秘密泄露](https://m.ithome.com/html/751667.htm)
+
