@@ -191,3 +191,5 @@
 
 + [Intel确认下一代CPU依然有台积电代工 Arrow Lake用N3](https://www.3dmgame.com/news/202402/3889120.html)
 
++ [《小丑牌》发售三天 全平台销量现已超过25万套](https://www.3dmgame.com/news/202402/3889121.html)
+

@@ -69,3 +69,9 @@
 
 + [传祺 M8 宗师先锋版上市：29.58 万元，车机基于华为 HarmonyOS 开发](https://m.ithome.com/html/751810.htm)
 
++ [英伟达黄仁勋：华为是非常优秀的公司，可聚集许多芯片构建庞大系统](https://m.ithome.com/html/751838.htm)
+
++ [大神花 8 年用 70 万根火柴还原埃菲尔铁塔！结果因为买错火柴全都作废？](https://m.ithome.com/html/751845.htm)
+
++ [淘宝中国拟将所持全部苏宁易购股权转让给杭州灏月，总价 28.47 亿元](https://m.ithome.com/html/751831.htm)
+
