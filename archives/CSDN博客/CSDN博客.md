@@ -171,3 +171,5 @@
 
 + [【牛牛送书 | 第四期】《高效使用Redis：一书学透数据存储与高可用集群》带你快速学习使用Redis](https://blog.csdn.net/fckbb/article/details/136267181)
 
++ [Apache Doris 发展历程、技术特性及云原生时代的未来规划](https://blog.csdn.net/m0_60915009/article/details/136224715)
+
