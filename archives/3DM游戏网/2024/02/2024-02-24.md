@@ -109,3 +109,5 @@
 
 + [ARPG/社交模拟《辛特堡传说》推迟到夏季发行](https://www.3dmgame.com/news/202402/3889077.html)
 
++ [横版动作冒险《波：青莲之路》7/18登陆各平台](https://www.3dmgame.com/news/202402/3889080.html)
+
