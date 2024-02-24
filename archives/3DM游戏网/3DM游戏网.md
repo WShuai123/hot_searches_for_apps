@@ -189,3 +189,5 @@
 
 + [《文明6》再次开启免费体验活动 一折低价入手](https://www.3dmgame.com/news/202402/3889116.html)
 
++ [Intel确认下一代CPU依然有台积电代工 Arrow Lake用N3](https://www.3dmgame.com/news/202402/3889120.html)
+

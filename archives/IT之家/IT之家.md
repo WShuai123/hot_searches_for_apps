@@ -59,3 +59,9 @@
 
 + [10 万级油电争夺战打响](https://m.ithome.com/html/751804.htm)
 
++ [11.98 万元，极狐汽车推出考拉家庭版 AIR 车型：CLTC 续航 500km](https://m.ithome.com/html/751768.htm)
+
++ [马斯克犀利点评竞争对手：Lucid 靠沙特金主续命，Rivian 命不久矣](https://m.ithome.com/html/751746.htm)
+
++ [科技昨夜今晨 0224：外卖小哥网约车司机等纳入最低工资保障，工作时间达上限停止派单；9.98 万元起，比亚迪海豚荣耀版上市；小米回应“买汽车送北京牌照”，完全失实](https://m.ithome.com/html/751761.htm)
+

@@ -173,3 +173,5 @@
 
 + [Apache Doris 发展历程、技术特性及云原生时代的未来规划](https://blog.csdn.net/m0_60915009/article/details/136224715)
 
++ [VoIP（Voice over Internet Protocol 基于IP的语音传输）介绍（网络电话、ip电话）](https://blog.csdn.net/Dontla/article/details/136263564)
+

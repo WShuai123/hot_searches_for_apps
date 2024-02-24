@@ -51,3 +51,35 @@
 
 + [Azure-Samples / azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo)
 
++ [WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9)
+
++ [mttaggart / I-S00N](https://github.com/mttaggart/I-S00N)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [NoteProtocol / NoteWallet](https://github.com/NoteProtocol/NoteWallet)
+
++ [vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
+
++ [danswer-ai / danswer](https://github.com/danswer-ai/danswer)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [pytorch / pytorch](https://github.com/pytorch/pytorch)
+
++ [apache / echarts](https://github.com/apache/echarts)
+
++ [MegaManSec / SSH-Snake](https://github.com/MegaManSec/SSH-Snake)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
++ [qarmin / czkawka](https://github.com/qarmin/czkawka)
+
++ [lowRISC / opentitan](https://github.com/lowRISC/opentitan)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [chatchat-space / Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+
++ [zksync / credo](https://github.com/zksync/credo)
+
