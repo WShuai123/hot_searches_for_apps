@@ -25,3 +25,5 @@
 
 + [消息称华为计划今春发布新版智界 S7：配置调整，后续车型有望提供增程版](https://m.ithome.com/html/751841.htm)
 
++ [雷军暗示小米 14 Ultra 手机有望推出白色陶瓷版](https://m.ithome.com/html/751856.htm)
+

@@ -65,3 +65,7 @@
 
 + [翻唱《我是你的小猫》](http://www.acfun.cn/v/ac43847962)
 
++ [【A站独家】学长！我也可以跳大摆锤吗！？](http://www.acfun.cn/v/ac43848237)
+
++ [【AC独家】哄乖宝宝睡觉](http://www.acfun.cn/v/ac43848093)
+
