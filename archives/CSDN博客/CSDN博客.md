@@ -101,3 +101,23 @@
 
 + [【计算机网络】数据链路层--以太网/MTU/ARP/RARP协议](https://blog.csdn.net/qq_67582098/article/details/136255307)
 
++ [IntelliJ IDEA 创建Spring Boot 项目&整合jdbc详细步骤](https://blog.csdn.net/qq_41840843/article/details/136235706)
+
++ [Docker：使用Nvidia官方的pytorch、tensorflow、TensorRT镜像创建Container容器](https://blog.csdn.net/u013250861/article/details/136269365)
+
++ [SpringCloud-Gateway解决跨域问题](https://blog.csdn.net/weixin_41793160/article/details/136262653)
+
++ [如何使用Docker部署开源Leanote蚂蚁笔记并发布个人博客至公网](https://blog.csdn.net/xz2935117143/article/details/136233586)
+
++ [基于微信小程序志愿者报名系统 (后台JSP+JDBC+Mysql)答辩常规问题和如何回答(答辩指导)](https://blog.csdn.net/u013818205/article/details/136252209)
+
++ [[计算机网络]---TCP协议](https://blog.csdn.net/qq_61552595/article/details/136204675)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的无人机目标检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136025141)
+
++ [（3）(3.6) 用于OpenTX的Yaapu遥测脚本](https://blog.csdn.net/qq_20016593/article/details/136186218)
+
++ [外包干了3个月，技术退步明显](https://blog.csdn.net/2301_77645573/article/details/136244531)
+
++ [OpenWRT部署web站点并结合内网穿透实现无公网ip远程访问](https://blog.csdn.net/fq157856469/article/details/136233641)
+
