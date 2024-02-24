@@ -179,3 +179,13 @@
 
 + [来自黄仁勋的警告：下一代GPU将会非常难买](https://www.3dmgame.com/news/202402/3889112.html)
 
++ [原封《塞尔达传说》卡带持有者险些以低价卖出](https://www.3dmgame.com/news/202402/3889119.html)
+
++ [《While Waiting》Steam页面 发售日期待定](https://www.3dmgame.com/news/202402/3889118.html)
+
++ [《最终幻想16》“海之恸哭”DLC将于下月公布详细信息](https://www.3dmgame.com/news/202402/3889117.html)
+
++ [官方联动 在2千美元的割草机器人上玩《毁灭战士》](https://www.3dmgame.com/news/202402/3889115.html)
+
++ [《文明6》再次开启免费体验活动 一折低价入手](https://www.3dmgame.com/news/202402/3889116.html)
+

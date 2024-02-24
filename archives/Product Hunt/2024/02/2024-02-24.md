@@ -129,3 +129,7 @@
 
 + [klemmbrett – early access](https://www.producthunt.com/posts/klemmbrett-early-access)
 
++ [PDF2Anki 3.0](https://www.producthunt.com/posts/pdf2anki-3-0)
+
++ [Persuva ai](https://www.producthunt.com/posts/persuva-ai)
+

@@ -165,3 +165,9 @@
 
 + [【自然语言处理-二-attention注意力 是什么】](https://blog.csdn.net/zishuijing_dd/article/details/136263181)
 
++ [第八篇【传奇开心果系列】python的文本和语音相互转换库技术点案例示例：Google Text-to-Speech虚拟现实（VR）沉浸式体验经典案例](https://blog.csdn.net/jackchuanqi/article/details/136253808)
+
++ [【MySQL 探索之旅】初始MySQL数据库](https://blog.csdn.net/QQ3447387928/article/details/136267630)
+
++ [【牛牛送书 | 第四期】《高效使用Redis：一书学透数据存储与高可用集群》带你快速学习使用Redis](https://blog.csdn.net/fckbb/article/details/136267181)
+
