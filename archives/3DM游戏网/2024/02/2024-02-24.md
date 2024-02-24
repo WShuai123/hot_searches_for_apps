@@ -155,3 +155,7 @@
 
 + [《龙之信条2》魔法师实机 3月22日发售](https://www.3dmgame.com/news/202402/3889101.html)
 
++ [可重复液体火箭！星河动力智神星一号完成控制系统半实物仿真试验](https://www.3dmgame.com/news/202402/3889104.html)
+
++ [微软全白纯数字版Xbox Series X或于6月发售](https://www.3dmgame.com/news/202402/3889103.html)
+
