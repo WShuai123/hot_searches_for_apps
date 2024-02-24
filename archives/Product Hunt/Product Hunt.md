@@ -123,3 +123,9 @@
 
 + [MoAIJobs](https://www.producthunt.com/posts/moaijobs)
 
++ [CodeMate](https://www.producthunt.com/posts/codemate-427535d4-21ec-41aa-a76f-cba647cca36b)
+
++ [Logo Packer Web](https://www.producthunt.com/posts/logo-packer-web)
+
++ [klemmbrett – early access](https://www.producthunt.com/posts/klemmbrett-early-access)
+

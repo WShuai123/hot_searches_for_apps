@@ -173,3 +173,9 @@
 
 + [《黎明杀机》或将联动《恶魔城》和《龙与地下城》](https://www.3dmgame.com/news/202402/3889105.html)
 
++ [《自杀小队：消灭正义联盟》更新之后体验变得更差](https://www.3dmgame.com/news/202402/3889113.html)
+
++ [美航天器“奥德修斯”在月球着陆时发生侧翻 但目前运行正常](https://www.3dmgame.com/news/202402/3889114.html)
+
++ [来自黄仁勋的警告：下一代GPU将会非常难买](https://www.3dmgame.com/news/202402/3889112.html)
+

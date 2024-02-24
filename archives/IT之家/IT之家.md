@@ -49,3 +49,9 @@
 
 + [有望为鸿蒙星河版铺路：“华为开发者联盟服务”微信公众号更名为“HarmonyOS 开发者服务”](https://m.ithome.com/html/751737.htm)
 
++ [魅族宣布不再做手机，All in AI 还来得及吗？](https://m.ithome.com/html/751790.htm)
+
++ [领克 08 EM-P 最新购车权益：1 万元购车补贴、免费升级音响等](https://m.ithome.com/html/751721.htm)
+
++ [华为智慧识屏 App 获推 13.0.1.301 众测版更新，支持鸿蒙 4.0 手机“一键抠图”](https://m.ithome.com/html/751739.htm)
+
