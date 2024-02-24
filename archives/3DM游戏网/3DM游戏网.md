@@ -135,3 +135,17 @@
 
 + [RTX 2080改造升级16GB显存！性能直接飞升20倍](https://www.3dmgame.com/news/202402/3889087.html)
 
++ [《Pentiment》登陆PS5之后或将以120fps帧率运行](https://www.3dmgame.com/news/202402/3889096.html)
+
++ [Netflix《三体》3月21日开播 平均每集费用1.44亿人民币](https://www.3dmgame.com/news/202402/3889097.html)
+
++ [《Once Human》多人模式预告 3月28日内测开启](https://www.3dmgame.com/news/202402/3889098.html)
+
++ [《火影忍者》真人电影制作中 漫威《尚气》导演坐镇](https://www.3dmgame.com/news/202402/3889099.html)
+
++ [《龙之信条2》新战斗视频 展示冲天怪物塔洛斯](https://www.3dmgame.com/news/202402/3889093.html)
+
++ [《绝地潜兵2》许多玩家不知素材共享 对队友痛下杀手](https://www.3dmgame.com/news/202402/3889094.html)
+
++ [分析师：微软并没有输给索尼 业务目标更加长远](https://www.3dmgame.com/news/202402/3889095.html)
+
