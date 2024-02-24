@@ -159,3 +159,17 @@
 
 + [微软全白纯数字版Xbox Series X或于6月发售](https://www.3dmgame.com/news/202402/3889103.html)
 
++ [《绝地潜兵2》欧洲市场持续热销 第二周销量不降反升](https://www.3dmgame.com/news/202402/3889111.html)
+
++ [《超自然车旅》PS5版目标4K30fps 玩家对此感到迷惑](https://www.3dmgame.com/news/202402/3889108.html)
+
++ [《星际战甲》新战甲公布 11周年活动将于3月举办](https://www.3dmgame.com/news/202402/3889110.html)
+
++ [《璀璨的撒拉弗之星-Katis-》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3889109.html)
+
++ [《第二十条》票房突破19亿！连续5天单日票房冠军](https://www.3dmgame.com/news/202402/3889107.html)
+
++ [《功夫熊猫4》新预告 3月22日国内上映](https://www.3dmgame.com/news/202402/3889106.html)
+
++ [《黎明杀机》或将联动《恶魔城》和《龙与地下城》](https://www.3dmgame.com/news/202402/3889105.html)
+

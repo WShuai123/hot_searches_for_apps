@@ -103,3 +103,23 @@
 
 + [Stable Diffusion 3](https://www.producthunt.com/posts/stable-diffusion-3-2)
 
++ [Human Voice Over](https://www.producthunt.com/posts/human-voice-over)
+
++ [Tactic Matrix](https://www.producthunt.com/posts/tactic-matrix)
+
++ [Evo](https://www.producthunt.com/posts/evo)
+
++ [Folder Parts](https://www.producthunt.com/posts/folder-parts)
+
++ [CanGoal](https://www.producthunt.com/posts/cangoal)
+
++ [Expense App](https://www.producthunt.com/posts/expense-app)
+
++ [Kudobox](https://www.producthunt.com/posts/kudobox)
+
++ [Holy User](https://www.producthunt.com/posts/holy-user)
+
++ [Zetups](https://www.producthunt.com/posts/zetups)
+
++ [MoAIJobs](https://www.producthunt.com/posts/moaijobs)
+

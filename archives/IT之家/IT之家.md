@@ -45,3 +45,7 @@
 
 + [四天工作制试点在英国大获成功，大多数公司将永久实施](https://m.ithome.com/html/751693.htm)
 
++ [荣耀 MagicBook Pro 16 笔记本真机图首曝：Win 阵营首发空间音频、荣耀猎人品牌回归](https://m.ithome.com/html/751713.htm)
+
++ [有望为鸿蒙星河版铺路：“华为开发者联盟服务”微信公众号更名为“HarmonyOS 开发者服务”](https://m.ithome.com/html/751737.htm)
+
