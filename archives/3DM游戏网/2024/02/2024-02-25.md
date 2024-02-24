@@ -101,3 +101,11 @@
 
 + [《铁拳8》是美国1月销量最好的新游 硬件PS5最佳](https://www.3dmgame.com/news/202402/3889074.html)
 
++ [Win11可能不再需要频繁重启以进行安全更新](https://www.3dmgame.com/news/202402/3889128.html)
+
++ [《High On Life》PS5和XBS限量实体版公布](https://www.3dmgame.com/news/202402/3889126.html)
+
++ [美女动作游戏《星刃》下载体积和预载日期透露](https://www.3dmgame.com/news/202402/3889127.html)
+
++ [《巫师3》HD重制Mod次世代版全新实机视频展示](https://www.3dmgame.com/news/202402/3889125.html)
+
