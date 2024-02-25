@@ -27,3 +27,5 @@
 
 + [雷军暗示小米 14 Ultra 手机有望推出白色陶瓷版](https://m.ithome.com/html/751856.htm)
 
++ [丰田“AE86”纯电版车型将在日本举行试驾活动，但 3 小时要花 2 万日元](https://m.ithome.com/html/751860.htm)
+

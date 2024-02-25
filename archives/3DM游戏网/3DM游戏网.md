@@ -137,3 +137,23 @@
 
 + [《帝国时代》系列玩家突破5000万 Steam开启特别促销](https://www.3dmgame.com/news/202402/3889142.html)
 
++ [《血源》改编电影新爆料：导演与主演已确定](https://www.3dmgame.com/news/202402/3889149.html)
+
++ [竞速游戏《悬浮滑板手》免费推出第一章内容 可喜加一](https://www.3dmgame.com/news/202402/3889150.html)
+
++ [或成史上速度最快 Win11 24H2将首发支持Wi-Fi 7与USB4 2.0](https://www.3dmgame.com/news/202402/3889151.html)
+
++ [《最终幻想7：重生》巨幅广告在英国展出 由PS5手柄组成](https://www.3dmgame.com/news/202402/3889152.html)
+
++ [《全面战争》系列累计销量现已超过4250万套](https://www.3dmgame.com/news/202402/3889143.html)
+
++ [第一人称恐怖游戏《闪耀：诅咒》将于2024年春季登陆PS5平台](https://www.3dmgame.com/news/202402/3889144.html)
+
++ [《博德之门3》官方震惊于该作仍受欢迎：日活玩家64万](https://www.3dmgame.com/news/202402/3889145.html)
+
++ [《浪人崛起》最多支持四人联机游玩 没有PvP战斗](https://www.3dmgame.com/news/202402/3889146.html)
+
++ [华纳公司的股价过去12个月下跌超过了47%](https://www.3dmgame.com/news/202402/3889147.html)
+
++ [《DCS: 怒火危崖3》免费更新发布 经典空战模拟](https://www.3dmgame.com/news/202402/3889148.html)
+
