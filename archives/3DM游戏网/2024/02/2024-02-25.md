@@ -179,3 +179,11 @@
 
 + [Windows 11 24H2版本首发！微软将推“热补丁”：更新不用重启了](https://www.3dmgame.com/news/202402/3889163.html)
 
++ [谷歌称微软必应搜索质量差 苹果多次拒绝与其合作](https://www.3dmgame.com/news/202402/3889167.html)
+
++ [《无主之地》真人电影不是改编自游戏：完全原创的新宇宙](https://www.3dmgame.com/news/202402/3889166.html)
+
++ [最新日本玩家游戏调查 近半数每天都玩玩的最多是手游](https://www.3dmgame.com/news/202402/3889165.html)
+
++ [《盗贼之海》打破开发商39年记录 Rare首款PS平台游戏](https://www.3dmgame.com/news/202402/3889164.html)
+

@@ -113,3 +113,19 @@
 
 + [CopyFrame](https://www.producthunt.com/posts/copyframe)
 
++ [Growth Hacking Kit 4.0](https://www.producthunt.com/posts/growth-hacking-kit-4-0)
+
++ [Riff](https://www.producthunt.com/posts/riff-3)
+
++ [DeskFrame](https://www.producthunt.com/posts/deskframe)
+
++ [Freel](https://www.producthunt.com/posts/freel)
+
++ [LinkedIn AI Post Editor](https://www.producthunt.com/posts/linkedin-ai-post-editor)
+
++ [Mokapus](https://www.producthunt.com/posts/mokapus)
+
++ [MyMemo](https://www.producthunt.com/posts/mymemo)
+
++ [KeepRecord](https://www.producthunt.com/posts/keeprecord)
+

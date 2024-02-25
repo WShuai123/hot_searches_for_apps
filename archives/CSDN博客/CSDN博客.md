@@ -157,3 +157,13 @@
 
 + [微信小程序 ---- 生命周期](https://blog.csdn.net/qq_63358859/article/details/136258427)
 
++ [计算机设计大赛 深度学习图像修复算法 - opencv python 机器视觉](https://blog.csdn.net/iuerfee/article/details/136273642)
+
++ [【爬虫逆向实战篇】定位加密参数、断点调试与JS代码分析](https://blog.csdn.net/qiulin_wu/article/details/136270069)
+
++ [Spark大数据分析与实战笔记（第三章 Spark RDD 弹性分布式数据集-05）](https://blog.csdn.net/u014727709/article/details/136268261)
+
++ [微信小程序-人脸检测](https://blog.csdn.net/walle167/article/details/136261919)
+
++ [【计算机网络】DHCP原理与配置](https://blog.csdn.net/m0_65277261/article/details/136230649)
+
