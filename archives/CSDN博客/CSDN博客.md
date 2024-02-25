@@ -139,3 +139,13 @@
 
 + [| Origin绘图 | 函数图像的绘制](https://blog.csdn.net/qq_58202678/article/details/136273133)
 
++ [探索设计模式的魅力：状态模式揭秘-如何优雅地处理复杂状态转换](https://blog.csdn.net/danci_/article/details/136242484)
+
++ [C/C++内存管理学习【new】](https://blog.csdn.net/2201_76004325/article/details/136052732)
+
++ [你听说过柔性数组吗？](https://blog.csdn.net/2301_80221228/article/details/136261722)
+
++ [【Spring Cloud】实现微服务调用的负载均衡](https://blog.csdn.net/Qingai521/article/details/135912210)
+
++ [探索无限：Sora与AI视频模型的技术革命 - 开创未来视觉艺术的新篇章](https://blog.csdn.net/Srlua/article/details/136245635)
+
