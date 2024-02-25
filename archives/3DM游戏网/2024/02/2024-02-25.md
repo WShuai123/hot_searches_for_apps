@@ -187,3 +187,15 @@
 
 + [《盗贼之海》打破开发商39年记录 Rare首款PS平台游戏](https://www.3dmgame.com/news/202402/3889164.html)
 
++ [《守望先锋2》预告未来更新改动内容：将取消组队限制](https://www.3dmgame.com/news/202402/3889172.html)
+
++ [男孩玩《王者荣耀》花掉外婆一万六 并自称人生无常](https://www.3dmgame.com/news/202402/3889173.html)
+
++ [英伟达为何将华为认定为最大竞争对手：两大原因揭秘](https://www.3dmgame.com/news/202402/3889168.html)
+
++ [腾讯《三角洲行动》新演示 3月7日开启大规模测试](https://www.3dmgame.com/news/202402/3889169.html)
+
++ [3小时体验价近千元！纯电版“AE86”在日本开启试驾](https://www.3dmgame.com/news/202402/3889170.html)
+
++ [《最终幻想7：重生》小游戏里蒂法很火辣 吸引玩家目光](https://www.3dmgame.com/news/202402/3889171.html)
+

@@ -129,3 +129,15 @@
 
 + [KeepRecord](https://www.producthunt.com/posts/keeprecord)
 
++ [The Ultimate Web Design Toolkit](https://www.producthunt.com/posts/the-ultimate-web-design-toolkit)
+
++ [Sales Objections Trainer](https://www.producthunt.com/posts/sales-objections-trainer)
+
++ [Cartoonifier](https://www.producthunt.com/posts/cartoonifier)
+
++ [BeeKrowd - AI financial model partner](https://www.producthunt.com/posts/beekrowd-ai-financial-model-partner)
+
++ [15-minute Business Plans](https://www.producthunt.com/posts/15-minute-business-plans)
+
++ [Saner.AI](https://www.producthunt.com/posts/saner-ai-1)
+

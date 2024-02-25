@@ -33,3 +33,9 @@
 
 + [iPhone16 系列相机模组曝光，怎么又改回来了](https://m.ithome.com/html/751899.htm)
 
++ [特斯拉最后一刻取消 1.6 万美元订单致蛋糕店损失惨重，马斯克承诺补偿](https://m.ithome.com/html/751897.htm)
+
++ [比亚迪：对“宾利打人事件”劝架车主奖励 20 万元，拟设立“见义勇为奖”](https://m.ithome.com/html/751925.htm)
+
++ [小米超级壁纸新增“月球”主题：基于澎湃 OS 图形子系统，内存占用大幅降低](https://m.ithome.com/html/751900.htm)
+
