@@ -153,3 +153,7 @@
 
 + [XGB-11:随机森林](https://blog.csdn.net/uncle_ll/article/details/136261908)
 
++ [项目实战：Qt监测操作系统物理网卡通断v1.1.0(支持windows、linux、国产麒麟系统）](https://blog.csdn.net/qq21497936/article/details/136276999)
+
++ [微信小程序 ---- 生命周期](https://blog.csdn.net/qq_63358859/article/details/136258427)
+

@@ -177,3 +177,5 @@
 
 + [玩家提议“斩杀蒙格日” 《艾尔登法环》DLC上线前一天集体挑战蒙格](https://www.3dmgame.com/news/202402/3889159.html)
 
++ [Windows 11 24H2版本首发！微软将推“热补丁”：更新不用重启了](https://www.3dmgame.com/news/202402/3889163.html)
+
