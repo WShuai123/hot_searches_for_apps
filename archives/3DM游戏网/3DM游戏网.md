@@ -211,3 +211,5 @@
 
 + [PS5继续比PS4卖得更快：39个月销量领先7%](https://www.3dmgame.com/news/202402/3889178.html)
 
++ [为何FS能如此频繁推出3A游戏？宫崎英高给出答复](https://www.3dmgame.com/news/202402/3889180.html)
+

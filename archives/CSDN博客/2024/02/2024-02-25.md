@@ -185,3 +185,13 @@
 
 + [.Net 8.0 新的变化](https://blog.csdn.net/hefeng_aspnet/article/details/136247918)
 
++ [华为 OD 一面算法原题](https://blog.csdn.net/weixin_33243821/article/details/136270875)
+
++ [PixPin：一键搞定截图、长截图、贴图、GIF](https://blog.csdn.net/qq_51646682/article/details/136280467)
+
++ [【Oracle】玩转Oracle数据库（五）：PL/SQL编程](https://blog.csdn.net/m0_57532432/article/details/136160312)
+
++ [时序数据库TimescaleDB,实战部署全攻略](https://blog.csdn.net/weixin_41645135/article/details/136242972)
+
++ [vue+nodejs+uniapp婚纱定制婚庆摄影系统 微信小程序 springboot+python](https://blog.csdn.net/dongyun2022/article/details/136273041)
+
