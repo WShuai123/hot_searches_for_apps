@@ -149,3 +149,7 @@
 
 + [探索无限：Sora与AI视频模型的技术革命 - 开创未来视觉艺术的新篇章](https://blog.csdn.net/Srlua/article/details/136245635)
 
++ [神经网络系列---分类度量](https://blog.csdn.net/weixin_43763292/article/details/136275967)
+
++ [XGB-11:随机森林](https://blog.csdn.net/uncle_ll/article/details/136261908)
+

@@ -49,3 +49,5 @@
 
 + [深度分析 | Mirai新样本：新的伪装方式使其更难被识别](https://www.freebuf.com/articles/web/391832.html)
 
++ [如何使用APIDetector高效识别目标域名暴露的Swagger节点](https://www.freebuf.com/sectool/390220.html)
+

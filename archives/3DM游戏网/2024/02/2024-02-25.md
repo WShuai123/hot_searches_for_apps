@@ -169,3 +169,11 @@
 
 + [滨口直树表示《最终幻想7：重置版》的制作灵感受到迪士尼启发](https://www.3dmgame.com/news/202402/3889156.html)
 
++ [日本警方逮捕非法上传Magazine漫画嫌犯 之前因上传JUMP曾被捕](https://www.3dmgame.com/news/202402/3889162.html)
+
++ [任天堂日本官方主页网址变更 2月26日起生效](https://www.3dmgame.com/news/202402/3889161.html)
+
++ [《刀剑神域外传GGO》第二季角色视觉图公布 确认2024年放映](https://www.3dmgame.com/news/202402/3889160.html)
+
++ [玩家提议“斩杀蒙格日” 《艾尔登法环》DLC上线前一天集体挑战蒙格](https://www.3dmgame.com/news/202402/3889159.html)
+
