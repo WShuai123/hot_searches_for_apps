@@ -129,3 +129,11 @@
 
 + [《战地》游戏总监马库斯离开EA和Ridgeline Games](https://www.3dmgame.com/news/202402/3889133.html)
 
++ [《暗黑破坏神4》首席职业设计师庆祝自己加入暴雪15年](https://www.3dmgame.com/news/202402/3889139.html)
+
++ [《彩虹六号：围攻》创意总监表示 游戏不需要续作 可以永远持续下去](https://www.3dmgame.com/news/202402/3889140.html)
+
++ [《机器人少女之梦》Steam页面上线 美少女AI养成](https://www.3dmgame.com/news/202402/3889141.html)
+
++ [《帝国时代》系列玩家突破5000万 Steam开启特别促销](https://www.3dmgame.com/news/202402/3889142.html)
+
