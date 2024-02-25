@@ -101,3 +101,19 @@
 
 + [智胜未来，新时代IT技术人风口攻略-第七版（弃稿）](https://blog.csdn.net/weixin_42250835/article/details/136276591)
 
++ [【机器学习】特征工程之特征选择](https://blog.csdn.net/m0_74195174/article/details/136277028)
+
++ [MATLAB：数组与矩阵](https://blog.csdn.net/2302_79085918/article/details/136270051)
+
++ [现在学Oracle是49年入国军么？](https://blog.csdn.net/xxddxhyz/article/details/136275902)
+
++ [前端学习——vue学习](https://blog.csdn.net/m0_46638350/article/details/136255502)
+
++ [YOLOv9：目标检测的新里程碑](https://blog.csdn.net/weixin_47772925/article/details/136277037)
+
++ [XGB-11:随机森林](https://blog.csdn.net/uncle_ll/article/details/136261908)
+
++ [网络原理 HTTP _ HTTPS](https://blog.csdn.net/qiuqiushuibx/article/details/136265126)
+
++ [HTML5技术实现的小钢琴](https://blog.csdn.net/cnds123/article/details/136260570)
+
