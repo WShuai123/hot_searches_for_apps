@@ -181,3 +181,7 @@
 
 + [使用 ES|QL 优化可观察性：简化 Kubernetes 和 OTel 的 SRE 操作和问题解决](https://blog.csdn.net/UbuntuTouch/article/details/136273795)
 
++ [【微服务】mybatis typehandler使用详解](https://blog.csdn.net/zhangcongyi420/article/details/136285782)
+
++ [.Net 8.0 新的变化](https://blog.csdn.net/hefeng_aspnet/article/details/136247918)
+

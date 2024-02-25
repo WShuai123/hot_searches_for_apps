@@ -207,3 +207,7 @@
 
 + [电影《绝地战警4》恢复拍摄！系列第五部蓄势待发](https://www.3dmgame.com/news/202402/3889177.html)
 
++ [育碧又来大逃杀游戏？《全境封锁：战区》曝光、已完成分级](https://www.3dmgame.com/news/202402/3889179.html)
+
++ [PS5继续比PS4卖得更快：39个月销量领先7%](https://www.3dmgame.com/news/202402/3889178.html)
+
