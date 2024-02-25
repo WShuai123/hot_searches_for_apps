@@ -47,3 +47,5 @@
 
 + [深入解析RealWorldCTF 2024体验赛PWN方向题目](https://www.freebuf.com/defense/392232.html)
 
++ [深度分析 | Mirai新样本：新的伪装方式使其更难被识别](https://www.freebuf.com/articles/web/391832.html)
+

@@ -157,3 +157,9 @@
 
 + [《DCS: 怒火危崖3》免费更新发布 经典空战模拟](https://www.3dmgame.com/news/202402/3889148.html)
 
++ [《FF7重生》日本玩家投票 超半数希望改变忘却之都惨剧](https://www.3dmgame.com/news/202402/3889154.html)
+
++ [谷歌高管为AI模型绘制不出白人道歉：用户直呼离谱](https://www.3dmgame.com/news/202402/3889155.html)
+
++ [《地狱潜者2》开发商再次升级服务器 将支持80万玩家](https://www.3dmgame.com/news/202402/3889153.html)
+
