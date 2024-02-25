@@ -69,3 +69,7 @@
 
 + [太伟大了7BT1！(7.62X54R，PKP步兵机枪)](http://www.acfun.cn/v/ac43853241)
 
++ [请和我交往吧.....(今日好笑开心视频：1376)](http://www.acfun.cn/v/ac43855805)
+
++ [花卷回家的第一个月](http://www.acfun.cn/v/ac43852860)
+
