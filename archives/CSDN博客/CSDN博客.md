@@ -117,3 +117,23 @@
 
 + [HTML5技术实现的小钢琴](https://blog.csdn.net/cnds123/article/details/136260570)
 
++ [SpringCloud-Docker原理解析](https://blog.csdn.net/weixin_41793160/article/details/136286205)
+
++ [【计算机网络】深度学习使用应用层的HTTP协议](https://blog.csdn.net/smile_sundays/article/details/136262457)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的人脸表情识别系统（附完整资源+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/135588888)
+
++ [QT c++ 海康红外热像仪](https://blog.csdn.net/weixin_39926429/article/details/136273344)
+
++ [MySQL-七种SQL优化](https://blog.csdn.net/zhengshuangyue/article/details/136236459)
+
++ [三步实现SpringBoot全局日志记录，整合Echarts实现数据大屏](https://blog.csdn.net/weixin_47971206/article/details/136281031)
+
++ [基于相位的运动放大：如何检测和放大难以察觉的运动（01/2)](https://blog.csdn.net/gongdiwudu/article/details/136276597)
+
++ [Sora将创造多少算力需求？](https://blog.csdn.net/Gabriel100yi/article/details/136286628)
+
++ [Javascript[ECMAScript] ES6、ES7、ES8、ES9、ES10、ES11、ES12、ES13、ES14[2023]新特性](https://blog.csdn.net/tanranran/article/details/136277536)
+
++ [网络原理-UDP/TCP协议](https://blog.csdn.net/m0_73700505/article/details/136258824)
+
