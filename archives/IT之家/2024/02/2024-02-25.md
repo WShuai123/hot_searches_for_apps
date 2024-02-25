@@ -49,3 +49,5 @@
 
 + [比亚迪弗迪电池：研发成果将应用至两轮车，开发“能上楼”的安全电池](https://m.ithome.com/html/751920.htm)
 
++ [微软更新 iOS 版远程桌面应用，以后仅支持苹果 iOS 16 和 17 版](https://m.ithome.com/html/751861.htm)
+

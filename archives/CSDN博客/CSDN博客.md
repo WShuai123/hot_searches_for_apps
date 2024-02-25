@@ -179,3 +179,5 @@
 
 + [Python爬虫-使用代理伪装IP](https://blog.csdn.net/lizhongjun1005/article/details/136250138)
 
++ [使用 ES|QL 优化可观察性：简化 Kubernetes 和 OTel 的 SRE 操作和问题解决](https://blog.csdn.net/UbuntuTouch/article/details/136273795)
+
