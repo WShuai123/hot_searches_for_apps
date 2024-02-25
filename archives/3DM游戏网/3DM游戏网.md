@@ -101,3 +101,9 @@
 
 + [喀山未来运动会《DOTA2》项目 中国战队包含前三](https://www.3dmgame.com/news/202402/3889129.html)
 
++ [《没有被美女包围的三角恋》正式发售 首发9.35元促销](https://www.3dmgame.com/news/202402/3889185.html)
+
++ [《艾尔登法环》热度回归 Steam超10万玩家在线](https://www.3dmgame.com/news/202402/3889184.html)
+
++ [《空洞骑士》发售七周年 《丝之歌》在哪里](https://www.3dmgame.com/news/202402/3889183.html)
+

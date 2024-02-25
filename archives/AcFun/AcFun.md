@@ -65,3 +65,7 @@
 
 + [飞一般的感觉](http://www.acfun.cn/v/ac43849136)
 
++ [这是在干嘛？](http://www.acfun.cn/v/ac43849204)
+
++ [太伟大了7BT1！(7.62X54R，PKP步兵机枪)](http://www.acfun.cn/v/ac43853241)
+

@@ -25,3 +25,5 @@
 
 + [车主驾驶 Model S 十年间行驶超 196 万公里，刷新全球最高特斯拉里程纪录](https://m.ithome.com/html/751884.htm)
 
++ [贾跃亭朋友圈评论高合汽车：“行业的耻辱”](https://m.ithome.com/html/751963.htm)
+
