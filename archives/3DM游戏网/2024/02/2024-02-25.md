@@ -109,3 +109,23 @@
 
 + [《巫师3》HD重制Mod次世代版全新实机视频展示](https://www.3dmgame.com/news/202402/3889125.html)
 
++ [类暗黑游戏《最后纪元》Steam峰值超23.4万人](https://www.3dmgame.com/news/202402/3889134.html)
+
++ [日式冒险新游《Bō: Path of the Teal Lotus》7月登多平台](https://www.3dmgame.com/news/202402/3889135.html)
+
++ [《尼尔》动画第二季首张视觉海报公布 2024年播出](https://www.3dmgame.com/news/202402/3889136.html)
+
++ [官方致谢 《博德之门3》获同性恋游戏大奖多项提名](https://www.3dmgame.com/news/202402/3889137.html)
+
++ [《美女与野兽》真人电影影响了《FF7重制版》开发](https://www.3dmgame.com/news/202402/3889138.html)
+
++ [喀山未来运动会《DOTA2》项目 中国战队包含前三](https://www.3dmgame.com/news/202402/3889129.html)
+
++ [宫崎英高谈《黑暗之魂2》：影响了FS社之后许多项目](https://www.3dmgame.com/news/202402/3889130.html)
+
++ [《机甲战士5：雇佣兵》新DLC3月推出 追加竞技场任务](https://www.3dmgame.com/news/202402/3889131.html)
+
++ [Xbox推出《幻兽帕鲁》主题定制XSS主机 只抽不卖](https://www.3dmgame.com/news/202402/3889132.html)
+
++ [《战地》游戏总监马库斯离开EA和Ridgeline Games](https://www.3dmgame.com/news/202402/3889133.html)
+

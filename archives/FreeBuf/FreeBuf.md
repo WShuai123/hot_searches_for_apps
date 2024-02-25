@@ -45,3 +45,5 @@
 
 + [内网渗透瑞士军刀-impacket工具解析（八）](https://www.freebuf.com/articles/neopoints/392223.html)
 
++ [深入解析RealWorldCTF 2024体验赛PWN方向题目](https://www.freebuf.com/defense/392232.html)
+
