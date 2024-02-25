@@ -51,3 +51,33 @@
 
 + [zksync / credo](https://github.com/zksync/credo)
 
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [Stability-AI / generative-models](https://github.com/Stability-AI/generative-models)
+
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui)
+
++ [laurent22 / joplin](https://github.com/laurent22/joplin)
+
++ [Azure / PyRIT](https://github.com/Azure/PyRIT)
+
++ [FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core)
+
++ [radix-vue / radix-vue](https://github.com/radix-vue/radix-vue)
+
++ [mouredev / Hello-Python](https://github.com/mouredev/Hello-Python)
+
++ [google / highway](https://github.com/google/highway)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone)
+
++ [soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon)
+
++ [facebook / react-strict-dom](https://github.com/facebook/react-strict-dom)
+
