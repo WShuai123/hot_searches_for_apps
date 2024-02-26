@@ -51,3 +51,31 @@
 
 + [facebook / react-strict-dom](https://github.com/facebook/react-strict-dom)
 
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [qarmin / czkawka](https://github.com/qarmin/czkawka)
+
++ [mttaggart / I-S00N](https://github.com/mttaggart/I-S00N)
+
++ [MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui)
+
++ [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [state-spaces / mamba](https://github.com/state-spaces/mamba)
+
++ [OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)
+
++ [huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+
++ [glfw / glfw](https://github.com/glfw/glfw)
+
