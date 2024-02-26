@@ -103,3 +103,19 @@
 
 + [《终焉之玛格诺利亚：终结的玉兰花》EA版3月25日发售 预告发布](https://www.3dmgame.com/news/202402/3889248.html)
 
++ [罗森便利店买零食可获《最终幻想7：重生》纪念品](https://www.3dmgame.com/news/202402/3889256.html)
+
++ [潜行FPS《白色沙漠》准预览版实机预告片展示](https://www.3dmgame.com/news/202402/3889250.html)
+
++ [索尼为PS玩家带来安全便捷的密钥功能](https://www.3dmgame.com/news/202402/3889254.html)
+
++ [《彩虹六号：围攻》第9年路线图公布 包括2名新干员](https://www.3dmgame.com/news/202402/3889255.html)
+
++ [《城市：天际线2》开发者谈问题修复 工作任重道远](https://www.3dmgame.com/news/202402/3889253.html)
+
++ [像素风格日式ARPG《海洋幻想》预告片分享](https://www.3dmgame.com/news/202402/3889252.html)
+
++ [奥日团队新作《恶意不息》3月1日召开演示会](https://www.3dmgame.com/news/202402/3889251.html)
+
++ [《出租生涯：模拟城市驾驶》新预告化身巴塞罗那的哥](https://www.3dmgame.com/news/202402/3889249.html)
+
