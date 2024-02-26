@@ -37,3 +37,5 @@
 
 + [红魔 8S Pro 手机至高优惠 1700 元：骁龙 8 Gen 2 领先版处理器，到手价 3449 元起](https://m.ithome.com/html/751935.htm)
 
++ [马斯克吐槽 Win11 安装需微软账户：不酷！](https://m.ithome.com/html/751969.htm)
+

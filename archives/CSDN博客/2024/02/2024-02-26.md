@@ -165,3 +165,9 @@
 
 + [（详细使用指南）Linux下交叉编译带ffmpeg的opencv并移植到RK3588等ARM端](https://blog.csdn.net/m0_46493410/article/details/136279956)
 
++ [AI时代 编程高手的秘密武器：世界顶级大学推荐的计算机教材](https://blog.csdn.net/qq_32682301/article/details/136291666)
+
++ [深度学习手写字符识别：推理过程](https://blog.csdn.net/yanceyxin/article/details/136286679)
+
++ [【计算机网络】应用层自定义协议](https://blog.csdn.net/YoungMLet/article/details/136196317)
+

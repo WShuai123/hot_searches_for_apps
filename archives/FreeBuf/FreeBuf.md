@@ -51,3 +51,5 @@
 
 + [渗透测试 | Burpsuite 漏洞扫描介绍与实战分享](https://www.freebuf.com/articles/network/306286.html)
 
++ [黑客用 PyPI 软件包传播 Nova Sentinel 恶意软件！](https://www.freebuf.com/news/392568.html)
+
