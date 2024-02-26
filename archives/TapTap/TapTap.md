@@ -23,3 +23,5 @@
 
 + [第五人格](https://www.taptap.cn/app/49995)
 
++ [无敌脑洞王者](https://www.taptap.cn/app/382518)
+

@@ -179,3 +179,7 @@
 
 + [docker 容器访问 GPU 资源使用指南](https://blog.csdn.net/footless_bird/article/details/136291344)
 
++ [C#高级--设计模式（七个原则）](https://blog.csdn.net/qq_53631431/article/details/136286185)
+
++ [基于Pytorch的猫狗图片分类【深度学习CNN】](https://blog.csdn.net/v20000727/article/details/136283251)
+

@@ -103,3 +103,23 @@
 
 + [Cabinet Design by Collov](https://www.producthunt.com/posts/cabinet-design-by-collov)
 
++ [(Basic) Bookmarks](https://www.producthunt.com/posts/basic-bookmarks)
+
++ [Zodiac Chat AI](https://www.producthunt.com/posts/zodiac-chat-ai)
+
++ [Simple OTP](https://www.producthunt.com/posts/simple-otp-2)
+
++ [FaceFramer.io](https://www.producthunt.com/posts/faceframer-io)
+
++ [Spytik](https://www.producthunt.com/posts/spytik)
+
++ [Playground Color Swatches](https://www.producthunt.com/posts/playground-color-swatches)
+
++ [DaLMatian](https://www.producthunt.com/posts/dalmatian)
+
++ [GoTrends Insight AI](https://www.producthunt.com/posts/gotrends-insight-ai)
+
++ [AFFiNE](https://www.producthunt.com/posts/affine-3)
+
++ [Octomind](https://www.producthunt.com/posts/octomind)
+

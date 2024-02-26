@@ -61,3 +61,5 @@
 
 + [某 PyPI 软件包出现异常更新，黑客利用其传播 Nova Sentinel 恶意软件](https://www.freebuf.com/news/392568.html)
 
++ [记一次企业供应链下的Java框架渗透测试](https://www.freebuf.com/vuls/389720.html)
+

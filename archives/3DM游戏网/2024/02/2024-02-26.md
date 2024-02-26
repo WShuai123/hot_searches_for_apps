@@ -187,3 +187,11 @@
 
 + [FuRyu动作PRG《REYNATIS》发布首支完整预告片](https://www.3dmgame.com/news/202402/3889221.html)
 
++ [《SaGa Emerald Beyond》原声大碟5月发售 新作曲目全收录](https://www.3dmgame.com/news/202402/3889228.html)
+
++ [Apple Vision Pro造价成本曝光：不到售价的5成](https://www.3dmgame.com/news/202402/3889229.html)
+
++ [末日生存游戏《无感染区》EA版本宣布4月12日发售](https://www.3dmgame.com/news/202402/3889227.html)
+
++ [10万大奖即将到账！ KK对战平台“老男孩”杯Dota争霸赛天梯入围榜正式公布](https://www.3dmgame.com/news/202402/3889226.html)
+

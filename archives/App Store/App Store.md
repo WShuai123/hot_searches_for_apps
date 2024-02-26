@@ -211,3 +211,9 @@
 
 + [学习通](https://itunes.apple.com/cn/app/id977946724?mt=8)
 
++ [京东-多·快·好·省](https://itunes.apple.com/cn/app/id414245413?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
