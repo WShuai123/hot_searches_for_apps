@@ -45,3 +45,5 @@
 
 + [Pawn Storm使用暴力破解和静默攻击瞄准高价值目标](https://www.freebuf.com/articles/392073.html)
 
++ [操作权限管理（二）| 数据安全自评估企业实践](https://www.freebuf.com/articles/es/392206.html)
+
