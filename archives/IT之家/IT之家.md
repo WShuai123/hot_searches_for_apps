@@ -45,3 +45,7 @@
 
 + [小米 14 Ultra 手机亮相 MWC 2024，海外版电池容量降至 5000 毫安时](https://m.ithome.com/html/751974.htm)
 
++ [鸿蒙智行连续两天“晒战报”：问界全系车型 24 日大定破 1500 台，25 日破 1800 台](https://m.ithome.com/html/751962.htm)
+
++ [小米 Redmi G Pro 2024 游戏本 3 月 4 日发布：i9-14900HX + RTX 4060](https://m.ithome.com/html/752016.htm)
+

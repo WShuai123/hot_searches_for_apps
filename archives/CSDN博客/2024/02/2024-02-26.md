@@ -191,3 +191,7 @@
 
 + [基于YOLOv8深度学习+Pyqt5的电动车头盔佩戴检测系统](https://blog.csdn.net/m0_46653805/article/details/136286933)
 
++ [【FPGA】线性反馈移位寄存器（LFSR）的Verilog实现](https://blog.csdn.net/wuzhikaidetb/article/details/136287042)
+
++ [文献阅读-8-连续体机器人在微创手术中的形状感知技术：综述](https://blog.csdn.net/Metaphysicist/article/details/136296248)
+

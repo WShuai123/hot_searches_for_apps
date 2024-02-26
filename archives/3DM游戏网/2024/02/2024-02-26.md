@@ -197,3 +197,17 @@
 
 + [中国移动：争取到2026年底实现5G-A的全量商用](https://www.3dmgame.com/news/202402/3889230.html)
 
++ [《写真语》登陆Steam 寓教于乐学习外语游戏](https://www.3dmgame.com/news/202402/3889236.html)
+
++ [《博德之门3》Mod问题引玩家不满 总监发文希望玩家停止攻击开发者](https://www.3dmgame.com/news/202402/3889235.html)
+
++ [特斯拉Cybertruck挫败歹徒 马斯克：它有最好末日防御技术](https://www.3dmgame.com/news/202402/3889237.html)
+
++ [比5G强10倍 中移动计划到2026年底实现5G-A全量商用](https://www.3dmgame.com/news/202402/3889231.html)
+
++ [英伟达将为中国市场推出两款新AI卡 维持市场地位](https://www.3dmgame.com/news/202402/3889232.html)
+
++ [曝雅迪拆解汽车准备造车 官方回应：实为技术员工研讨 暂无计划](https://www.3dmgame.com/news/202402/3889233.html)
+
++ [《星刃》女主体模晒证件照 靓丽动人吸引众人眼球](https://www.3dmgame.com/news/202402/3889234.html)
+

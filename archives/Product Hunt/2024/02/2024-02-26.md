@@ -153,3 +153,5 @@
 
 + [Video Bilingual Subtitle Translation](https://www.producthunt.com/posts/video-bilingual-subtitle-translation)
 
++ [Immersive Translate Bilingual Video](https://www.producthunt.com/posts/immersive-translate-bilingual-video)
+
