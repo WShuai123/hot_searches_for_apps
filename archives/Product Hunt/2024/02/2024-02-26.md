@@ -123,3 +123,33 @@
 
 + [Octomind](https://www.producthunt.com/posts/octomind)
 
++ [Simple OTP 2.0](https://www.producthunt.com/posts/simple-otp-2-0)
+
++ [Slogan Generator](https://www.producthunt.com/posts/slogan-generator-ef1c13a5-6e17-4aa2-8504-4efd81e7dbfc)
+
++ [Hyperaide](https://www.producthunt.com/posts/hyperaide-3)
+
++ [Opsenic, OrgOps platform](https://www.producthunt.com/posts/opsenic-orgops-platform)
+
++ [Track My Jobs](https://www.producthunt.com/posts/track-my-jobs)
+
++ [CardRules+](https://www.producthunt.com/posts/cardrules)
+
++ [Pierre](https://www.producthunt.com/posts/pierre)
+
++ [Workflow Step Logic and Approvals](https://www.producthunt.com/posts/workflow-step-logic-and-approvals)
+
++ [HeyEditor](https://www.producthunt.com/posts/heyeditor)
+
++ [ChatGPT Easy Folders](https://www.producthunt.com/posts/chatgpt-easy-folders)
+
++ [Videotok](https://www.producthunt.com/posts/videotok)
+
++ [Scanlt](https://www.producthunt.com/posts/scanlt)
+
++ [Layers](https://www.producthunt.com/posts/layers-f6331fbb-aa0d-4579-b3d1-e382293dce6e)
+
++ [Bot Hunt](https://www.producthunt.com/posts/bot-hunt)
+
++ [Video Bilingual Subtitle Translation](https://www.producthunt.com/posts/video-bilingual-subtitle-translation)
+

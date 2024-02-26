@@ -183,3 +183,11 @@
 
 + [基于Pytorch的猫狗图片分类【深度学习CNN】](https://blog.csdn.net/v20000727/article/details/136283251)
 
++ [Amazon Generative AI | 基于 Amazon 扩散模型原理的代码实践之采样篇](https://blog.csdn.net/chenlycly/article/details/136298381)
+
++ [网络原理——HTTP](https://blog.csdn.net/2303_78892316/article/details/136087737)
+
++ [卷积神经网络 CNN](https://blog.csdn.net/m0_61517307/article/details/136279357)
+
++ [基于YOLOv8深度学习+Pyqt5的电动车头盔佩戴检测系统](https://blog.csdn.net/m0_46653805/article/details/136286933)
+

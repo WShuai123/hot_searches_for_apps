@@ -63,3 +63,7 @@
 
 + [记一次企业供应链下的Java框架渗透测试](https://www.freebuf.com/vuls/389720.html)
 
++ [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html)
+
++ [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html)
+
