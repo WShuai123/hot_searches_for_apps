@@ -101,3 +101,5 @@
 
 + [Hobby启动VR机甲展示 《变形金刚》《前线任务》等在列](https://www.3dmgame.com/news/202402/3889194.html)
 
++ [《终焉之玛格诺利亚：终结的玉兰花》EA版3月25日发售 预告发布](https://www.3dmgame.com/news/202402/3889248.html)
+
