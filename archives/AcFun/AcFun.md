@@ -77,3 +77,11 @@
 
 + [《动物迷惑行为大赏194》](http://www.acfun.cn/v/ac43854690)
 
++ [super lady](http://www.acfun.cn/v/ac43853942)
+
++ [【颜音实况】海龟汤游戏（第一个故事集《我的独白》）](http://www.acfun.cn/v/ac43856109)
+
++ [杀死那个假美国人](http://www.acfun.cn/v/ac43848062)
+
++ [这个元宵节，在陶喆的Live里度过！](http://www.acfun.cn/v/ac43855845)
+

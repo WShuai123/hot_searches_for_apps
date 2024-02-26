@@ -143,3 +143,13 @@
 
 + [《模拟人生5》PC预发布版在网上泄露 有D加密](https://www.3dmgame.com/news/202402/3889192.html)
 
++ [《最终幻想7：重生》新宣传片 尤菲穿泳装性感亮相](https://www.3dmgame.com/news/202402/3889208.html)
+
++ [《星球工匠》1.0正式版即将推出 Steam售价将上涨](https://www.3dmgame.com/news/202402/3889205.html)
+
++ [《海洋幻想》Steam页面上线 日式动作RPG新游](https://www.3dmgame.com/news/202402/3889207.html)
+
++ [育碧或将推出《刺客信条：大革命》复刻版 期待吗？](https://www.3dmgame.com/news/202402/3889206.html)
+
++ [《现代战争3》和《战区》玩家被重置为1级 动视正在努力解决](https://www.3dmgame.com/news/202402/3889204.html)
+
