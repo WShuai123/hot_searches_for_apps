@@ -49,3 +49,5 @@
 
 + [小米 Redmi G Pro 2024 游戏本 3 月 4 日发布：i9-14900HX + RTX 4060](https://m.ithome.com/html/752016.htm)
 
++ [用户网购苹果 iPhone 15 收到山寨机，亚马逊致歉](https://m.ithome.com/html/752032.htm)
+
