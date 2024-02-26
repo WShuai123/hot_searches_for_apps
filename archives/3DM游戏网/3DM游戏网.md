@@ -153,3 +153,17 @@
 
 + [《现代战争3》和《战区》玩家被重置为1级 动视正在努力解决](https://www.3dmgame.com/news/202402/3889204.html)
 
++ [贾跃亭炮轰高合汽车行业之耻 网友更关心老贾啥时回国](https://www.3dmgame.com/news/202402/3889215.html)
+
++ [《使命召唤》前资深设计师公布神秘网站 预告新作品](https://www.3dmgame.com/news/202402/3889214.html)
+
++ [《命令与征服》开发者RTS新作《9-Bit Armies》现已推出抢先体验版](https://www.3dmgame.com/news/202402/3889209.html)
+
++ [《最后的生还者》剧集第二季拍摄很顺利 令人难以置信](https://www.3dmgame.com/news/202402/3889210.html)
+
++ [《艾尔登法环》全新彩漫3月29日开始连载 褪色者的史诗冒险](https://www.3dmgame.com/news/202402/3889211.html)
+
++ [《NIGHT-RUNNERS》序章Steam免费发布 都市深夜竞速](https://www.3dmgame.com/news/202402/3889212.html)
+
++ [失眠组正在向因黑客入侵而遭个人信息泄露的员工发送通知](https://www.3dmgame.com/news/202402/3889213.html)
+

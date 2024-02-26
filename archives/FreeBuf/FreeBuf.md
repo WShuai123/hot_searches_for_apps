@@ -47,3 +47,5 @@
 
 + [操作权限管理（二）| 数据安全自评估企业实践](https://www.freebuf.com/articles/es/392206.html)
 
++ [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html)
+

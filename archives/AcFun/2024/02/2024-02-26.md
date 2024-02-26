@@ -85,3 +85,5 @@
 
 + [这个元宵节，在陶喆的Live里度过！](http://www.acfun.cn/v/ac43855845)
 
++ [他真的什么歌都放](http://www.acfun.cn/v/ac43856866)
+

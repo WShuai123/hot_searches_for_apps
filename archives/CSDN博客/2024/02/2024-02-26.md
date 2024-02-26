@@ -157,3 +157,5 @@
 
 + [微信小程序-人脸检测](https://blog.csdn.net/walle167/article/details/136261919)
 
++ [【吴恩达·机器学习】第四章：详解神经网络：推理和训练](https://blog.csdn.net/Yaoyao2024/article/details/136279816)
+
