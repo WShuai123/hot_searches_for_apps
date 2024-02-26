@@ -117,3 +117,5 @@
 
 + [主机版《生化公司：救赎》确定2月27日发售](https://www.3dmgame.com/news/202402/3889186.html)
 
++ [《绝地潜兵2》销量超过了300万套](https://www.3dmgame.com/news/202402/3889191.html)
+

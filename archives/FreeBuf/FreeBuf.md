@@ -41,3 +41,7 @@
 
 + [企业信息安全规划工作路径](https://www.freebuf.com/consult/391655.html)
 
++ [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑瘫痪](https://www.freebuf.com/news/392461.html)
+
++ [Pawn Storm使用暴力破解和静默攻击瞄准高价值目标](https://www.freebuf.com/articles/392073.html)
+
