@@ -199,3 +199,5 @@
 
 + [计算机设计大赛 深度学习图像风格迁移](https://blog.csdn.net/iuerfee/article/details/136281464)
 
++ [如何在Linux搭建MinIO服务并实现无公网ip远程访问内网管理界面](https://blog.csdn.net/weixin_74888502/article/details/136301194)
+

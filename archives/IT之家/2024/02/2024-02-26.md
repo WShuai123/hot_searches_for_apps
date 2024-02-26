@@ -51,3 +51,5 @@
 
 + [用户网购苹果 iPhone 15 收到山寨机，亚马逊致歉](https://m.ithome.com/html/752032.htm)
 
++ [卢伟冰：小米 SU7 汽车最早第二季度开始交付，国内已拥有 2000 万智能手机高端用户](https://m.ithome.com/html/752125.htm)
+
