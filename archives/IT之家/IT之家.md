@@ -55,3 +55,9 @@
 
 + [元老回归：魅族官宣“老魅友”杨颜将出席 29 日特别活动并发表演讲](https://m.ithome.com/html/752022.htm)
 
++ [Nokia 3310 5G 功能机预计成为诺基亚手机“绝唱”，搭载 SailfishOS 旗鱼系统](https://m.ithome.com/html/752038.htm)
+
++ [“电动帕萨特”来了：上汽大众 ID.7 S 实车曝光](https://m.ithome.com/html/752059.htm)
+
++ [监管机构回应女子体验自动驾驶汽车时画画：不符合要求，已联系车企了解情况](https://m.ithome.com/html/752004.htm)
+
