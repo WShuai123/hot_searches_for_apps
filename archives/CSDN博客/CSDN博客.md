@@ -171,3 +171,11 @@
 
 + [【计算机网络】应用层自定义协议](https://blog.csdn.net/YoungMLet/article/details/136196317)
 
++ [曲线生成 | 图解B样条曲线生成原理(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/136282617)
+
++ [MySQL多实例与Mycat分布式读写分离的架构实践](https://blog.csdn.net/weixin_44953658/article/details/136291069)
+
++ [选择最适合数据的嵌入模型：OpenAI 和开源多语言嵌入的对比测试](https://blog.csdn.net/m0_46510245/article/details/136292643)
+
++ [docker 容器访问 GPU 资源使用指南](https://blog.csdn.net/footless_bird/article/details/136291344)
+

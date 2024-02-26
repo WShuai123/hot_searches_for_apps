@@ -39,3 +39,5 @@
 
 + [马斯克吐槽 Win11 安装需微软账户：不酷！](https://m.ithome.com/html/751969.htm)
 
++ [比亚迪：秦 PLUS 荣耀版上市首周订单达 23590 辆](https://m.ithome.com/html/751998.htm)
+

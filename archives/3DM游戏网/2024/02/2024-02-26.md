@@ -177,3 +177,13 @@
 
 + [为表示喜爱 速通玩家在计时挑战途中表演《心灵杀手2》音乐剧](https://www.3dmgame.com/news/202402/3889216.html)
 
++ [《METAL MIND》三月正式登陆Epic商城 肉鸽动作射击](https://www.3dmgame.com/news/202402/3889225.html)
+
++ [鹰角买断制手游《来自星尘》发售PV 27号凌晨解锁](https://www.3dmgame.com/news/202402/3889223.html)
+
++ [玩家痛失喜爱《铁拳8》弟弟 制作人发文哀悼推荐AI幽灵战斗](https://www.3dmgame.com/news/202402/3889222.html)
+
++ [《赛博朋克：边缘行者》将在日本推出“夜间泳池”主题快闪店](https://www.3dmgame.com/news/202402/3889224.html)
+
++ [FuRyu动作PRG《REYNATIS》发布首支完整预告片](https://www.3dmgame.com/news/202402/3889221.html)
+
