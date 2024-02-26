@@ -49,3 +49,5 @@
 
 + [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html)
 
++ [渗透测试 | Burpsuite 漏洞扫描介绍与实战分享](https://www.freebuf.com/articles/network/306286.html)
+

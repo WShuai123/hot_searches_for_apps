@@ -159,3 +159,9 @@
 
 + [【吴恩达·机器学习】第四章：详解神经网络：推理和训练](https://blog.csdn.net/Yaoyao2024/article/details/136279816)
 
++ [Python爬虫实战：图片爬取与保存](https://blog.csdn.net/2202_75568470/article/details/136287925)
+
++ [机器学习：SVM算法（Python）](https://blog.csdn.net/2302_78896863/article/details/136283613)
+
++ [（详细使用指南）Linux下交叉编译带ffmpeg的opencv并移植到RK3588等ARM端](https://blog.csdn.net/m0_46493410/article/details/136279956)
+

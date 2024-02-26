@@ -35,3 +35,5 @@
 
 + [荣耀 Magic6 Pro 手机 DXOMARK 测试结果出炉，前摄、屏幕、电池均为第 1](https://m.ithome.com/html/751953.htm)
 
++ [红魔 8S Pro 手机至高优惠 1700 元：骁龙 8 Gen 2 领先版处理器，到手价 3449 元起](https://m.ithome.com/html/751935.htm)
+
