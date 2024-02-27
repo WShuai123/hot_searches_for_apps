@@ -65,3 +65,7 @@
 
 + [高通骁龙 7+ Gen 3 处理器最新规格曝光，X4 大核频率提升至 2.9GHz](https://m.ithome.com/html/752310.htm)
 
++ [华为 P70 Art 手机设计曝光，高辨识度相机 Deco](https://m.ithome.com/html/752385.htm)
+
++ [消息称比亚迪宋 Pro / PLUS DM-i 荣耀版 3 月初上市，进一步降低购车门槛](https://m.ithome.com/html/752404.htm)
+
