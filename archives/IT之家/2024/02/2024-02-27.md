@@ -47,3 +47,5 @@
 
 + [华为赛力斯联合打造，问界 M9 车型公布预计交付及软件更新时间](https://m.ithome.com/html/752133.htm)
 
++ [荣耀 MagicBook Pro 16 配置首曝：Ultra7+RTX4060+32GB，纯纯 Hunter 游戏本](https://m.ithome.com/html/752119.htm)
+

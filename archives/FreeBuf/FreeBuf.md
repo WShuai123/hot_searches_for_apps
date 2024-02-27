@@ -55,3 +55,9 @@
 
 + [针对数十年的内存相关漏洞，白宫发布新报告](https://www.freebuf.com/news/392666.html)
 
++ [如何在Cobalt Strike中使用Payload-Generator实现Payload自动化构建](https://www.freebuf.com/sectool/390225.html)
+
++ [微软发布用于AIGC的红队测试工具](https://www.freebuf.com/news/392694.html)
+
++ [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html)
+

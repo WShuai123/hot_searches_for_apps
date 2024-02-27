@@ -207,3 +207,17 @@
 
 + [《摇滚明星生活模拟》推出 体验摇滚明星的奢靡生活](https://www.3dmgame.com/news/202402/3889300.html)
 
++ [《远征:泥泞奔驰》“工具：桥”预告 3月5日发售](https://www.3dmgame.com/news/202402/3889305.html)
+
++ [漫改动画作品《格斗实况》放出角色PV 2024年4月开播](https://www.3dmgame.com/news/202402/3889306.html)
+
++ [计划通？《刺客信条：黑旗》Steam玩家数量现已翻2倍](https://www.3dmgame.com/news/202402/3889307.html)
+
++ [《时空英豪2：新起点》60秒概述 3月15日发售](https://www.3dmgame.com/news/202402/3889301.html)
+
++ [《Exographer》Steam页面上线 科幻动作探索冒险](https://www.3dmgame.com/news/202402/3889302.html)
+
++ [传闻：索尼已向第三方发行商展示PS5 Pro规格](https://www.3dmgame.com/news/202402/3889304.html)
+
++ [传闻：育碧《刺客信条：无限》细节曝光 将成为系列核心](https://www.3dmgame.com/news/202402/3889303.html)
+
