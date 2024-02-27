@@ -41,3 +41,7 @@
 
 + [PWN学习之格式化字符串及CTF常见利用手法](https://www.freebuf.com/geek/391911.html)
 
++ [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html)
+
++ [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html)
+

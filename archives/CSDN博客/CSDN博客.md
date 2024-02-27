@@ -123,3 +123,7 @@
 
 + [linux centos7部署前后端分离项目](https://blog.csdn.net/m0_74018330/article/details/136288864)
 
++ [【Vue】组件通信组件通信](https://blog.csdn.net/m0_62645012/article/details/136308318)
+
++ [Windows系统搭建Elasticsearch引擎结合内网穿透实现远程连接查询数据](https://blog.csdn.net/weixin_43786143/article/details/136291185)
+

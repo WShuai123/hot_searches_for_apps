@@ -119,3 +119,13 @@
 
 + [《出租生涯：模拟城市驾驶》新预告化身巴塞罗那的哥](https://www.3dmgame.com/news/202402/3889249.html)
 
++ [《沙漠大冒险》坦克战斗演示 定制坦克战斗力强大](https://www.3dmgame.com/news/202402/3889261.html)
+
++ [苹果Vision Pro IGN 8分：未来计算的惊鸿一瞥](https://www.3dmgame.com/news/202402/3889260.html)
+
++ [《博德之门3》销量已超1000万份！真是让人震惊](https://www.3dmgame.com/news/202402/3889259.html)
+
++ [《幻兽帕鲁》发售一个月后 Steam玩家流失超8成](https://www.3dmgame.com/news/202402/3889258.html)
+
++ [消息称《街头涂鸦》新作为开放世界服务型游戏](https://www.3dmgame.com/news/202402/3889257.html)
+

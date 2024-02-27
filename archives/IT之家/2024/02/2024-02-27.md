@@ -25,3 +25,7 @@
 
 + [小米 14 Ultra 手机限定礼盒套装亮相：小米 × 张艺谋工作室联合打造，含摄影手柄、无线充等](https://m.ithome.com/html/752001.htm)
 
++ [魅族 21 Pro 手机正面照公布，2 月 29 日特别活动亮相](https://m.ithome.com/html/752103.htm)
+
++ [智己新车 L6 全球首秀：5 月上市，号称零百 2 秒、续航 1000km、F1 驾控体感](https://m.ithome.com/html/752147.htm)
+
