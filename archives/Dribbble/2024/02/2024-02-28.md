@@ -71,3 +71,11 @@
 
 + [Utah Spirits](https://dribbble.com/shots/)
 
++ [Lecture series event poster](https://dribbble.com/shots/)
+
++ [Doodle illustrations](https://dribbble.com/shots/)
+
++ [Plaza Theatre - Bangalore](https://dribbble.com/shots/)
+
++ [Simple Type Club 2024](https://dribbble.com/shots/)
+
