@@ -201,3 +201,7 @@
 
 + [《最终幻想7：重生》新宣传片 蒂法楚楚动人身材太顶](https://www.3dmgame.com/news/202402/3889279.html)
 
++ [《命运2：终焉之形》DLC预购量不到《凌光之刻》1/4](https://www.3dmgame.com/news/202402/3889298.html)
+
++ [iPhone中国市场如何迎战国产机 苹果要靠iOS18逆袭](https://www.3dmgame.com/news/202402/3889299.html)
+

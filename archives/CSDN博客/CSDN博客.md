@@ -141,3 +141,7 @@
 
 + [云原生周刊：Docker 推出 Docker Build Cloud](https://blog.csdn.net/zpf17671624050/article/details/136301269)
 
++ [【.Net Core】深入理解IO之文件和目录](https://blog.csdn.net/songjianlong/article/details/136312937)
+
++ [【谈一谈】Redis是AP还是CP?](https://blog.csdn.net/weixin_43475992/article/details/136280242)
+
