@@ -103,3 +103,17 @@
 
 + [《鬼屋魔影：重制版》配置需求公布 推荐RTX 2060](https://www.3dmgame.com/news/202402/3889342.html)
 
++ [老牌钓鱼游戏系列新作《神眼钓手：夏日》夏季上市](https://www.3dmgame.com/news/202402/3889349.html)
+
++ [街机游戏《忍者神龟：变种之怒》移植PC和家用机](https://www.3dmgame.com/news/202402/3889348.html)
+
++ [《工业崛起2》公布 让你实现80年代商业大亨梦想](https://www.3dmgame.com/news/202402/3889347.html)
+
++ [SE更新倒计时短片预热《最终幻想7：重生》发行](https://www.3dmgame.com/news/202402/3889346.html)
+
++ [ATLUS已开启《真女神转生5：复仇》预购](https://www.3dmgame.com/news/202402/3889345.html)
+
++ [《F1 24》面向PS5/XBS/PS4/XB1/PC公布](https://www.3dmgame.com/news/202402/3889344.html)
+
++ [任天堂对Switch模拟器Yuzu作者发起诉讼](https://www.3dmgame.com/news/202402/3889343.html)
+

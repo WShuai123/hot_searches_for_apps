@@ -125,3 +125,5 @@
 
 + [文生图的最新进展：从LCM、SDXL到与sora同架构的Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
 
++ [电商风控系统（flink+groovy+flume+kafka+redis+clickhouse+mysql）](https://blog.csdn.net/JavaCoder_juejue/article/details/136288445)
+
