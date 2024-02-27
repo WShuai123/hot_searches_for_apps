@@ -119,3 +119,9 @@
 
 + [Unity中URP实现水体（水下的扭曲）](https://blog.csdn.net/qq_51603875/article/details/136283054)
 
++ [【FFmpeg】ffmpeg 命令行参数 ③ ( ffmpeg 音频参数解析 | 设置音频帧数 | 设置音频码率 | 设置音频采样率 | 设置音频通道数 | 设置音频编解码器 | 设置音频过滤器 )](https://blog.csdn.net/han1202012/article/details/136234949)
+
++ [spark orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
+
++ [文生图的最新进展：从LCM、SDXL到与sora同架构的Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
