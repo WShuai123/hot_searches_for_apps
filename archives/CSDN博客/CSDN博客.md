@@ -145,3 +145,7 @@
 
 + [【谈一谈】Redis是AP还是CP?](https://blog.csdn.net/weixin_43475992/article/details/136280242)
 
++ [二蛋赠书十六期：《高效使用Redis：一书学透数据存储与高可用集群》](https://blog.csdn.net/qq_28314431/article/details/136288929)
+
++ [Windows部署WebDAV服务并映射到本地盘符实现公网访问本地存储文件](https://blog.csdn.net/asdssadddd/article/details/136299804)
+
