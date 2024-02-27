@@ -127,3 +127,5 @@
 
 + [Windows系统搭建Elasticsearch引擎结合内网穿透实现远程连接查询数据](https://blog.csdn.net/weixin_43786143/article/details/136291185)
 
++ [Sora - 探索AI视频模型的无限可能](https://blog.csdn.net/u014727709/article/details/136267520)
+

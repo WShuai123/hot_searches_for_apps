@@ -129,3 +129,19 @@
 
 + [消息称《街头涂鸦》新作为开放世界服务型游戏](https://www.3dmgame.com/news/202402/3889257.html)
 
++ [《高达创坏者4》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202402/3889267.html)
+
++ [开发者称：苹果Arcade收入多年来一直在下降](https://www.3dmgame.com/news/202402/3889268.html)
+
++ [《星露谷物语》销量现已突破3000万 1.6版本3月19日上线](https://www.3dmgame.com/news/202402/3889265.html)
+
++ [索尼：PS Portal需求强烈 超过了我们的预期](https://www.3dmgame.com/news/202402/3889266.html)
+
++ [《方舟：生存飞升》的“中心岛”DLC现已无限延期](https://www.3dmgame.com/news/202402/3889264.html)
+
++ [《铁拳8》销量有望超过前作 一个月内售出200万份](https://www.3dmgame.com/news/202402/3889269.html)
+
++ [《The Mosquito Gang》Steam上线 人类与蚊子之战](https://www.3dmgame.com/news/202402/3889263.html)
+
++ [《范海辛：光明猎手》Steam商店页面 支持简中](https://www.3dmgame.com/news/202402/3889262.html)
+

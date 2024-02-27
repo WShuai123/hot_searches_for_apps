@@ -29,3 +29,9 @@
 
 + [智己新车 L6 全球首秀：5 月上市，号称零百 2 秒、续航 1000km、F1 驾控体感](https://m.ithome.com/html/752147.htm)
 
++ [6499 元起，小米 14 Ultra 手机今日十点正式开售：徕卡全明星四摄、双向卫星通信](https://m.ithome.com/html/752197.htm)
+
++ [46.98 万元起，赛力斯汽车与华为联合打造的问界 M9 开启全国规模交付](https://m.ithome.com/html/752076.htm)
+
++ [坦克 700 Hi4-T 车型今日上市：3.0T V6 双涡轮增压发动机，预售价 46.8 万元起](https://m.ithome.com/html/752033.htm)
+
