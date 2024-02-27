@@ -41,3 +41,9 @@
 
 + [华为新款鲲鹏服务器 CPU 现身 Geekbench：基于 TaiShan V120 架构，单核性能媲美 AMD Zen3](https://m.ithome.com/html/752146.htm)
 
++ [全球首例，广州互联网法院判决 AI 生成奥特曼侵犯著作权](https://m.ithome.com/html/752186.htm)
+
++ [长城汽车坦克 700 Hi4-T 发布：3.0T V6 发动机，售价 42.8 万元起](https://m.ithome.com/html/752162.htm)
+
++ [华为赛力斯联合打造，问界 M9 车型公布预计交付及软件更新时间](https://m.ithome.com/html/752133.htm)
+

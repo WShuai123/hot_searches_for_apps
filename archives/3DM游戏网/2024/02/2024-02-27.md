@@ -167,3 +167,37 @@
 
 + [打造《盐海编年史》的工作室受资金问题影响 现已完全停摆](https://www.3dmgame.com/news/202402/3889276.html)
 
++ [《异世界创造者》Steam页面上线 肉鸽迷宫RPG](https://www.3dmgame.com/news/202402/3889295.html)
+
++ [Mistral获微软投资 推出聊天机器人Le Chat挑战ChatGPT](https://www.3dmgame.com/news/202402/3889297.html)
+
++ [卡普空宣布将为卡普空职业巡回赛2024冠军提供100万美元奖金](https://www.3dmgame.com/news/202402/3889296.html)
+
++ [像素游戏《彩虹海》登陆Switch及PC 夏季上线](https://www.3dmgame.com/news/202402/3889294.html)
+
++ [《幻兽帕鲁》新补丁更新上线 修复错误优化体验](https://www.3dmgame.com/news/202402/3889291.html)
+
++ [《绝地潜兵2》总监：并非不添加DLSS 目前玩法内容更重要](https://www.3dmgame.com/news/202402/3889293.html)
+
++ [玩家制《最终幻想7：重生》蒂法泳装模型 性感火辣吸睛](https://www.3dmgame.com/news/202402/3889292.html)
+
++ [比特币持续再火价格突破57000美元 日内涨幅7.84%](https://www.3dmgame.com/news/202402/3889290.html)
+
++ [复古风即时战略游戏《Flow Of War》现已推出试玩Demo](https://www.3dmgame.com/news/202402/3889289.html)
+
++ [黑曜石《Pentiment》PS5帧率比Xbox高 总监称是Bug马上修复](https://www.3dmgame.com/news/202402/3889288.html)
+
++ [《ENDER MAGNOLIA》Steam上线 末日幻想动作RPG](https://www.3dmgame.com/news/202402/3889286.html)
+
++ [《Kiborg》试玩demo预告 支持简体中文](https://www.3dmgame.com/news/202402/3889285.html)
+
++ [《迪士尼梦幻星谷》将联动《怪兽电力公司》 大眼仔和毛怪登场](https://www.3dmgame.com/news/202402/3889284.html)
+
++ [范迪塞尔：《速度与激情》会有一个伟大的结局](https://www.3dmgame.com/news/202402/3889283.html)
+
++ [《最终幻想7：重制版》新补丁上线 蒂法胸前加了布料 部分Mod无法使用](https://www.3dmgame.com/news/202402/3889281.html)
+
++ [《彩六：围攻》新干员致敬原作：最初的彩六小队成员](https://www.3dmgame.com/news/202402/3889287.html)
+
++ [《最终幻想7：重生》新宣传片 蒂法楚楚动人身材太顶](https://www.3dmgame.com/news/202402/3889279.html)
+

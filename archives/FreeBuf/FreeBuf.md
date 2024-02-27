@@ -47,3 +47,5 @@
 
 + [AI攻防：如何使用人工智能提升网络安全性](https://www.freebuf.com/articles/neopoints/392148.html)
 
++ [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html)
+
