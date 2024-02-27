@@ -129,3 +129,13 @@
 
 + [Sora - 探索AI视频模型的无限可能](https://blog.csdn.net/u014727709/article/details/136267520)
 
++ [【Linux】部署前后端分离项目---(Nginx自启，负载均衡）](https://blog.csdn.net/m0_73192864/article/details/136279931)
+
++ [HTTP/HTTPS协议](https://blog.csdn.net/paperjie/article/details/136138137)
+
++ [人工智能产生的幻觉问题真的能被看作是创造力的另一种表现形式吗?](https://blog.csdn.net/lmy050813/article/details/136300411)
+
++ [【好书推荐-第五期】《Java开发坑点解析：从根因分析到最佳实践》（异步图书出品）](https://blog.csdn.net/weixin_51484460/article/details/136295841)
+
++ [网络安全与信创产业发展：构建数字时代的护城河](https://blog.csdn.net/Srlua/article/details/136309557)
+

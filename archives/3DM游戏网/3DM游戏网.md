@@ -145,3 +145,25 @@
 
 + [《范海辛：光明猎手》Steam商店页面 支持简中](https://www.3dmgame.com/news/202402/3889262.html)
 
++ [《半条命》粉丝重制《黑山》开发者预告全新项目](https://www.3dmgame.com/news/202402/3889277.html)
+
++ [《FOAMSTARS》新赛季宣传影片 3月9日上线](https://www.3dmgame.com/news/202402/3889278.html)
+
++ [《DUCKSIDE》Steam页面上线 开放世界多人PvPvE冒险](https://www.3dmgame.com/news/202402/3889280.html)
+
++ [《艾尔登法环：黄金树之影》将有类似《只狼》的独立等级系统](https://www.3dmgame.com/news/202402/3889282.html)
+
++ [大玩“沙丘”风！《功夫熊猫4》沙漠与香料篇预告](https://www.3dmgame.com/news/202402/3889270.html)
+
++ [开发商CEO：《城市：天际线2》没支持Mod是最大的遗憾](https://www.3dmgame.com/news/202402/3889271.html)
+
++ [《恐龙大战机器人》Steam游戏节开启 多款相关游戏优惠](https://www.3dmgame.com/news/202402/3889272.html)
+
++ [《最后纪元》开发者正在调查无法登录和连接问题](https://www.3dmgame.com/news/202402/3889274.html)
+
++ [PS商店《最终幻想7》“重生+重制版”捆绑包即将涨价](https://www.3dmgame.com/news/202402/3889273.html)
+
++ [种田模拟经营游戏《农场还债物语》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202402/3889275.html)
+
++ [打造《盐海编年史》的工作室受资金问题影响 现已完全停摆](https://www.3dmgame.com/news/202402/3889276.html)
+

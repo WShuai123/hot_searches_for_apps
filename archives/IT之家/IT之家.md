@@ -35,3 +35,9 @@
 
 + [坦克 700 Hi4-T 车型今日上市：3.0T V6 双涡轮增压发动机，预售价 46.8 万元起](https://m.ithome.com/html/752033.htm)
 
++ [使用 5 个月变“战损”级别，苹果 iPhone 精织斜纹保护套被指“娇贵”](https://m.ithome.com/html/752203.htm)
+
++ [高通发布骁龙 X80 旗舰 5G 调制解调器 ：集成 AI 技术，支持卫星通信](https://m.ithome.com/html/752079.htm)
+
++ [华为新款鲲鹏服务器 CPU 现身 Geekbench：基于 TaiShan V120 架构，单核性能媲美 AMD Zen3](https://m.ithome.com/html/752146.htm)
+
