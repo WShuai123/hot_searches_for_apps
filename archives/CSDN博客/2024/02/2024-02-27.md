@@ -175,3 +175,7 @@
 
 + [使用GPT生成python图表](https://blog.csdn.net/irisMoon06/article/details/136288959)
 
++ [时隔一年的测评：gpt3.5发展到什么程度了？](https://blog.csdn.net/qq_51646682/article/details/136326361)
+
++ [SQL注入漏洞解析--less-46](https://blog.csdn.net/duoba_an/article/details/136305299)
+

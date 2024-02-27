@@ -271,3 +271,9 @@
 
 + [ROG官宣新代言人：中国首位F1车手周冠宇](https://www.3dmgame.com/news/202402/3889332.html)
 
++ [FX历史剧集《幕府将军》获得IGN满分10分好评](https://www.3dmgame.com/news/202402/3889335.html)
+
++ [《刺客信条：无限》将以“即时服务”为重心](https://www.3dmgame.com/news/202402/3889333.html)
+
++ [迪士尼真人电影部门负责人离职 任职15年](https://www.3dmgame.com/news/202402/3889334.html)
+
