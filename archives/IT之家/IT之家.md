@@ -53,3 +53,5 @@
 
 + [天涯社区被申请破产审查，创始人曾称今年重启](https://m.ithome.com/html/752278.htm)
 
++ [李想：下半年发布三款纯电 SUV，未来 5 年不推 20 万元以下车型](https://m.ithome.com/html/752180.htm)
+

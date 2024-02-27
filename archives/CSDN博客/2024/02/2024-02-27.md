@@ -159,3 +159,9 @@
 
 + [解析Hadoop三大核心组件：HDFS、MapReduce和YARN](https://blog.csdn.net/weixin_52986315/article/details/136223188)
 
++ [【计算机网络】DNS/ICMP协议/NAT技术](https://blog.csdn.net/qq_67582098/article/details/136319481)
+
++ [DP读书：《半导体物理学（第八版）》（一）绪论 3min速通](https://blog.csdn.net/m0_74037814/article/details/136310490)
+
++ [【Linux C | 网络编程】套接字选项、getsockopt、setsockopt详解及C语言例子](https://blog.csdn.net/wkd_007/article/details/136074988)
+
