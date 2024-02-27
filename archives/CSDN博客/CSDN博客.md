@@ -155,3 +155,7 @@
 
 + [redis八股](https://blog.csdn.net/qq_36769368/article/details/136310424)
 
++ [第十一篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：Microsoft Azure Cognitive Services开发聊天机器人经典案例](https://blog.csdn.net/jackchuanqi/article/details/136305764)
+
++ [解析Hadoop三大核心组件：HDFS、MapReduce和YARN](https://blog.csdn.net/weixin_52986315/article/details/136223188)
+

@@ -221,3 +221,9 @@
 
 + [传闻：育碧《刺客信条：无限》细节曝光 将成为系列核心](https://www.3dmgame.com/news/202402/3889303.html)
 
++ [《战神》圣莫尼卡工作室正在开发未公布的ARPG游戏](https://www.3dmgame.com/news/202402/3889309.html)
+
++ [要塞模拟塔防游戏《卡戎方舟》现已登陆Steam平台](https://www.3dmgame.com/news/202402/3889310.html)
+
++ [玄学帮助开发？游戏开发者晒福娃四年开发三款游戏](https://www.3dmgame.com/news/202402/3889308.html)
+

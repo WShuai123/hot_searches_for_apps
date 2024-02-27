@@ -105,3 +105,21 @@
 
 + [(Basic) Bookmarks](https://www.producthunt.com/posts/basic-bookmarks)
 
++ [Atoms by James Clear](https://www.producthunt.com/posts/atoms-by-james-clear)
+
++ [Mistral Large](https://www.producthunt.com/posts/mistral-large)
+
++ [Le Chat](https://www.producthunt.com/posts/le-chat)
+
++ [Openmart](https://www.producthunt.com/posts/openmart)
+
++ [Strabo](https://www.producthunt.com/posts/strabo)
+
++ [Superhuman AI 2.0](https://www.producthunt.com/posts/superhuman-ai-2-0)
+
++ [FlexReview](https://www.producthunt.com/posts/flexreview)
+
++ [Velvet](https://www.producthunt.com/posts/velvet-ce4ef3ec-7c9a-48ba-919a-235445010d46)
+
++ [Viralify AI](https://www.producthunt.com/posts/viralify-ai)
+

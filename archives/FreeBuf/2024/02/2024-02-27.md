@@ -61,3 +61,5 @@
 
 + [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html)
 
++ [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html)
+
