@@ -101,3 +101,21 @@
 
 + [ARMv8-AArch64 的异常处理模型详解之异常处理详解（同步异常和异步异常的分析和处理）](https://blog.csdn.net/luolaihua2018/article/details/136243889)
 
++ [【监控】grafana图表使用快速上手](https://blog.csdn.net/Joker_ZJN/article/details/136288578)
+
++ [【吴恩达·机器学习】第四章：详解神经网络：推理和训练](https://blog.csdn.net/Yaoyao2024/article/details/136279816)
+
++ [【Oracle】玩转Oracle数据库（五）：PL/SQL编程](https://blog.csdn.net/m0_57532432/article/details/136160312)
+
++ [【Linux】部署前后端分离项目---(Nginx自启，负载均衡）](https://blog.csdn.net/m0_73192864/article/details/136279931)
+
++ [Springboot中如何记录好日志](https://blog.csdn.net/weixin_40149557/article/details/136305888)
+
++ [计算机设计大赛 深度学习图像风格迁移 - opencv python](https://blog.csdn.net/iuerfee/article/details/136281288)
+
++ [【机器学习】特征选择之过滤式特征选择法](https://blog.csdn.net/m0_74195174/article/details/136275872)
+
++ [【OnlyOffice】 桌面应用编辑器，版本8.0已发布，PDF表单、RTL支持、Moodle集成、本地界面主题](https://blog.csdn.net/lmy_520/article/details/136316751)
+
++ [Unity中URP实现水体（水下的扭曲）](https://blog.csdn.net/qq_51603875/article/details/136283054)
+

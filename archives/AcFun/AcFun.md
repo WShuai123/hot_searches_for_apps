@@ -65,3 +65,5 @@
 
 + [【Nocturne】能+交作业现场](http://www.acfun.cn/v/ac43872364)
 
++ [【玩弹】北斗「STEN MKⅡ」电动抛壳模型](http://www.acfun.cn/v/ac43873604)
+
