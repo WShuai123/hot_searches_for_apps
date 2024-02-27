@@ -277,3 +277,11 @@
 
 + [迪士尼真人电影部门负责人离职 任职15年](https://www.3dmgame.com/news/202402/3889334.html)
 
++ [《永劫无间》手游宣布4月1日开启测试 愚人节不愚人](https://www.3dmgame.com/news/202402/3889338.html)
+
++ [史无前例！全球最小UFS 4.0手机存储发布](https://www.3dmgame.com/news/202402/3889339.html)
+
++ [SIE宣布全球裁员900人 英国伦敦工作室被关](https://www.3dmgame.com/news/202402/3889337.html)
+
++ [《刺客信条：猎巫》将是女主角 系列最黑暗](https://www.3dmgame.com/news/202402/3889336.html)
+
