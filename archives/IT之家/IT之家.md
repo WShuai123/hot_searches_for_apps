@@ -55,3 +55,5 @@
 
 + [李想：下半年发布三款纯电 SUV，未来 5 年不推 20 万元以下车型](https://m.ithome.com/html/752180.htm)
 
++ [努比亚 nubia Music 音乐手机发布：大圆盘扬声器、双耳机孔，149 美元](https://m.ithome.com/html/752308.htm)
+

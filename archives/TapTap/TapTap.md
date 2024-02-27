@@ -27,3 +27,5 @@
 
 + [萌战天下](https://www.taptap.cn/app/486309)
 
++ [雷索纳斯](https://www.taptap.cn/app/226568)
+

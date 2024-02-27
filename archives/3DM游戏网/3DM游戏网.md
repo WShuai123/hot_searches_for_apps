@@ -257,3 +257,7 @@
 
 + [国产大飞机C919开启东南亚演示飞行 为国外航线做准备](https://www.3dmgame.com/news/202402/3889311.html)
 
++ [致敬攻壳机动队《Out of Action》众筹开启 动作FPS新游](https://www.3dmgame.com/news/202402/3889327.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》重回榜单](https://www.3dmgame.com/news/202402/3889326.html)
+

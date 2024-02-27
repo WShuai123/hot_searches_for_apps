@@ -149,3 +149,7 @@
 
 + [Inline Help](https://www.producthunt.com/posts/inline-help)
 
++ [Magic Document Formatter](https://www.producthunt.com/posts/magic-document-formatter)
+
++ [Immersive Translate Bilingual Video](https://www.producthunt.com/posts/immersive-translate-bilingual-video)
+
