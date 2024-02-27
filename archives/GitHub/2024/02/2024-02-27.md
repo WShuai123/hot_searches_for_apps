@@ -51,3 +51,25 @@
 
 + [glfw / glfw](https://github.com/glfw/glfw)
 
++ [tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+
++ [FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core)
+
++ [FuelLabs / sway](https://github.com/FuelLabs/sway)
+
++ [Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt)
+
++ [FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts)
+
++ [FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs)
+
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [MDK8888 / GPTFast](https://github.com/MDK8888/GPTFast)
+
++ [electric-sql / pglite](https://github.com/electric-sql/pglite)
+
++ [angular / components](https://github.com/angular/components)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+

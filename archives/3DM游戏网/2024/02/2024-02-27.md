@@ -269,3 +269,5 @@
 
 + [《街霸6》追加角色“爱德”登场 新任务等内容上线](https://www.3dmgame.com/news/202402/3889328.html)
 
++ [ROG官宣新代言人：中国首位F1车手周冠宇](https://www.3dmgame.com/news/202402/3889332.html)
+

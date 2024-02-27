@@ -61,3 +61,7 @@
 
 + [搭载旗舰潜望，realme 真我 12 Pro / Pro + 手机发布：首销 1499 元起](https://m.ithome.com/html/752343.htm)
 
++ [2024 款腾势 N7 亮相：车头“胡须”没了，比亚迪赵长江扬言“好看就跳长江”](https://m.ithome.com/html/752345.htm)
+
++ [高通骁龙 7+ Gen 3 处理器最新规格曝光，X4 大核频率提升至 2.9GHz](https://m.ithome.com/html/752310.htm)
+

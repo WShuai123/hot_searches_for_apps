@@ -63,3 +63,5 @@
 
 + [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html)
 
++ [《中华人民共和国保守国家秘密法》修订发布，5月1日正式实行](https://www.freebuf.com/news/392731.html)
+
