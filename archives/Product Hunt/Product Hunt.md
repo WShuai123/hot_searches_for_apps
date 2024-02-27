@@ -153,3 +153,7 @@
 
 + [Immersive Translate Bilingual Video](https://www.producthunt.com/posts/immersive-translate-bilingual-video)
 
++ [Pre-logo](https://www.producthunt.com/posts/pre-logo)
+
++ [Univery.io](https://www.producthunt.com/posts/univery-io)
+

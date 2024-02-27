@@ -261,3 +261,11 @@
 
 + [Steam最新一周销量榜 《艾尔登法环》重回榜单](https://www.3dmgame.com/news/202402/3889326.html)
 
++ [小米SU7在MWC太火爆！老外惊呼“amazing”](https://www.3dmgame.com/news/202402/3889331.html)
+
++ [密钥：介绍一种更安全、更便捷的游戏方式](https://www.3dmgame.com/news/202402/3889329.html)
+
++ [刷短视频有毒：教授吐槽是精神贫乏体现 越刷越不会说话](https://www.3dmgame.com/news/202402/3889330.html)
+
++ [《街霸6》追加角色“爱德”登场 新任务等内容上线](https://www.3dmgame.com/news/202402/3889328.html)
+

@@ -57,3 +57,7 @@
 
 + [努比亚 nubia Music 音乐手机发布：大圆盘扬声器、双耳机孔，149 美元](https://m.ithome.com/html/752308.htm)
 
++ [2 月版号更新，含《黑神话：悟空》《永劫无间手游》等 146 款游戏](https://m.ithome.com/html/752363.htm)
+
++ [搭载旗舰潜望，realme 真我 12 Pro / Pro + 手机发布：首销 1499 元起](https://m.ithome.com/html/752343.htm)
+
