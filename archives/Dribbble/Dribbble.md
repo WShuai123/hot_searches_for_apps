@@ -49,3 +49,25 @@
 
 + [The BFG ????????????????](https://dribbble.com/shots/)
 
++ [Drawings ✍️](https://dribbble.com/shots/)
+
++ [ilcons mini illustrations and icons](https://dribbble.com/shots/)
+
++ [Fast Co](https://dribbble.com/shots/)
+
++ [An illustration for a book by JRS](https://dribbble.com/shots/)
+
++ [StickerApp x Red Halftone: Sticker Sheet](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Character Development](https://dribbble.com/shots/)
+
++ [Black Cat Logo](https://dribbble.com/shots/)
+
++ [Hangar Sisters](https://dribbble.com/shots/)
+
++ [Paddles](https://dribbble.com/shots/)
+
++ [Utah Spirits](https://dribbble.com/shots/)
+

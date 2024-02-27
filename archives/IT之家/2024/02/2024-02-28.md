@@ -25,3 +25,5 @@
 
 + [小米“狂暴引擎”登陆 PC，Redmi G Pro 2024 游戏本首发](https://m.ithome.com/html/752398.htm)
 
++ [高通骁龙 7+ Gen 3 处理器最新规格曝光，X4 大核频率提升至 2.9GHz](https://m.ithome.com/html/752310.htm)
+
