@@ -51,3 +51,37 @@
 
 + [laurent22 / joplin](https://github.com/laurent22/joplin)
 
++ [Lissy93 / web-check](https://github.com/Lissy93/web-check)
+
++ [pmndrs / uikit](https://github.com/pmndrs/uikit)
+
++ [OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)
+
++ [movie-web / movie-web](https://github.com/movie-web/movie-web)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [taikoxyz / taiko-mono](https://github.com/taikoxyz/taiko-mono)
+
++ [dockur / windows](https://github.com/dockur/windows)
+
++ [SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R)
+
++ [myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS)
+
++ [krishnaik06 / Data-Science-Projects-For-Resumes](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes)
+
++ [polyfillpolyfill / polyfill-service](https://github.com/polyfillpolyfill/polyfill-service)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [mistralai / mistral-src](https://github.com/mistralai/mistral-src)
+
++ [Pawdroid / Free-servers](https://github.com/Pawdroid/Free-servers)
+
++ [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
+
++ [pure-admin / vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)
+
