@@ -123,3 +123,35 @@
 
 + [索尼互娱全球裁员900人 关闭伦敦工作室](https://www.3dmgame.com/news/202402/3889351.html)
 
++ [《验尸模拟器》延期至2024年内正式推出 法医病理学教学](https://www.3dmgame.com/news/202402/3889368.html)
+
++ [爆料称《师父》将成为三月份PS Plus会员游戏](https://www.3dmgame.com/news/202402/3889367.html)
+
++ [《女神异闻录3 Reload》几乎确定将推出P3F追加剧情DLC](https://www.3dmgame.com/news/202402/3889366.html)
+
++ [硬核清版动作游戏《超控行者》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202402/3889365.html)
+
++ [《生化危机2：重制版》手游版概念图 网易卡普空合作开发](https://www.3dmgame.com/news/202402/3889364.html)
+
++ [《Rise of Industry 2》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3889362.html)
+
++ [游戏引擎Unity公司去年收入增长57% 至21亿美元](https://www.3dmgame.com/news/202402/3889361.html)
+
++ [《ATTA：迷失酒店》Steam抢测 类八番出口惊悚悬疑新游](https://www.3dmgame.com/news/202402/3889360.html)
+
++ [《碧海黑帆》发布第一赛季“怒潮”宣传片 现已正式推出](https://www.3dmgame.com/news/202402/3889359.html)
+
++ [多人FPS《Bodycam》超长实机演示 画面和战斗很棒](https://www.3dmgame.com/news/202402/3889358.html)
+
++ [单人开发者《小丑牌》仅8小时内收入1百万美元](https://www.3dmgame.com/news/202402/3889357.html)
+
++ [“毁灭者”巴蒂斯塔想回到超级英雄电影 饰演大反派](https://www.3dmgame.com/news/202402/3889356.html)
+
++ [《最终幻想7：重生》小游戏多达30个 卡牌游戏有独立故事剧情](https://www.3dmgame.com/news/202402/3889363.html)
+
++ [宫崎英高：想制作更多像《艾尔登法环》这样的大型游戏](https://www.3dmgame.com/news/202402/3889355.html)
+
++ [《奇异人生》开发商宣布裁员 占员工总数五分之一](https://www.3dmgame.com/news/202402/3889354.html)
+
++ [《烈火战车》服务型游戏被砍 但《地平线》网游还活着](https://www.3dmgame.com/news/202402/3889353.html)
+

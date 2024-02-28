@@ -45,3 +45,7 @@
 
 + [2024年智能汽车多样化攻击途径](https://www.freebuf.com/articles/neopoints/392155.html)
 
++ [深度解析 DeFi 杠杆安全](https://www.freebuf.com/articles/blockchain-articles/391159.html)
+
++ [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html)
+
