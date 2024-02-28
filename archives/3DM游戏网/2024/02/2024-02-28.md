@@ -155,3 +155,17 @@
 
 + [《烈火战车》服务型游戏被砍 但《地平线》网游还活着](https://www.3dmgame.com/news/202402/3889353.html)
 
++ [被沙特收购 “全球最大电竞公司”ESL确认裁员15%](https://www.3dmgame.com/news/202402/3889370.html)
+
++ [《最终幻想7：重生》媒体赞誉图公布：满屏满分](https://www.3dmgame.com/news/202402/3889374.html)
+
++ [《绝地潜兵2》星球防卫任务：中途退出给敌人送分？](https://www.3dmgame.com/news/202402/3889375.html)
+
++ [智能手机应用《宝可梦集换式卡牌 Pocket》预计2024年推出](https://www.3dmgame.com/news/202402/3889373.html)
+
++ [恐怖+建造《Paranormal Flipper》Steam页面上线 支持中文](https://www.3dmgame.com/news/202402/3889372.html)
+
++ [粉丝认为《碧海黑帆》发售是为了减少损失：投入太多了](https://www.3dmgame.com/news/202402/3889371.html)
+
++ [重返卡洛斯地区 《宝可梦传说ZA》完全以密阿雷市为背景](https://www.3dmgame.com/news/202402/3889369.html)
+
