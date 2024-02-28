@@ -49,3 +49,7 @@
 
 + [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html)
 
++ [黑客借助 LabHost 平台对加拿大银行用户发起大规模钓鱼攻击](https://www.freebuf.com/news/392751.html)
+
++ [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html)
+

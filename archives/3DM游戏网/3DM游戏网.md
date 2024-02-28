@@ -169,3 +169,29 @@
 
 + [重返卡洛斯地区 《宝可梦传说ZA》完全以密阿雷市为背景](https://www.3dmgame.com/news/202402/3889369.html)
 
++ [复古射击游戏《怒火：永恒遗迹》现已正式推出 Steam总体多半好评](https://www.3dmgame.com/news/202402/3889384.html)
+
++ [重大突破！中国移动发布全球首台算力路由器](https://www.3dmgame.com/news/202402/3889388.html)
+
++ [《幻兽帕鲁》繁殖改动引不满 官方确认将回滚改动](https://www.3dmgame.com/news/202402/3889387.html)
+
++ [《王冠之战：黑王子》玩法概述 3月15日正式发售](https://www.3dmgame.com/news/202402/3889386.html)
+
++ [《消逝的光芒：桌游版》众筹开启 金额已超26万美元](https://www.3dmgame.com/news/202402/3889385.html)
+
++ [《杯杯倒满》发售一周好评如潮 肉鸽元素饮吧经营模拟](https://www.3dmgame.com/news/202402/3889383.html)
+
++ [《奇迹时代4》 “原始狂怒”DLC发布宣传片 售价52元](https://www.3dmgame.com/news/202402/3889380.html)
+
++ [《冲就完事模拟器》战锤40K特别组合包现已推出](https://www.3dmgame.com/news/202402/3889378.html)
+
++ [《宝可梦 Sleep》“雷公研究”活动即将在3月底开启](https://www.3dmgame.com/news/202402/3889377.html)
+
++ [《Paranormal》Steam页面上线 伪纪录片风拟真恐怖探索](https://www.3dmgame.com/news/202402/3889376.html)
+
++ [网易疯了！月薪66666低门槛招聘游戏制作人？](https://www.3dmgame.com/news/202402/3889381.html)
+
++ [每年一更 索尼为PS3发布新系统固件更新](https://www.3dmgame.com/news/202402/3889379.html)
+
++ [类魂游戏发售日撞车《艾尔登法环》DLC 开发者：无异于送死](https://www.3dmgame.com/news/202402/3889382.html)
+

@@ -149,3 +149,9 @@
 
 + [基于Pytorch的猫狗图片分类【深度学习CNN】](https://blog.csdn.net/v20000727/article/details/136283251)
 
++ [好书推荐丨AI绘画全面精通：软件平台+脚本文案+设计制作+案例实战](https://blog.csdn.net/m0_68111267/article/details/136300471)
+
++ [云计算时代的运维： 职业发展方向与岗位选择](https://blog.csdn.net/Srlua/article/details/136326709)
+
++ [云原生网关哪家强：Sealos 网关血泪史](https://blog.csdn.net/yunqiinsight/article/details/136315742)
+

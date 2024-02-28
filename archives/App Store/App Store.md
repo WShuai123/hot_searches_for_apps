@@ -205,3 +205,5 @@
 
 + [头条搜索极速版-原今日头条极速版](https://itunes.apple.com/cn/app/id1410120498?mt=8)
 
++ [优酷视频-别对我动心全网独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
+
