@@ -25,3 +25,7 @@
 
 + [“最强法务部”出手：任天堂起诉 Switch 模拟器 Yuzu 制造商](https://m.ithome.com/html/752462.htm)
 
++ [10.98 万元起，奇瑞 iCAR 03 纯电 SUV 上市：联合腾讯定制车载微信](https://m.ithome.com/html/752657.htm)
+
++ [“荣耀版”家族继续壮大，消息称比亚迪将推出海豹 DM-i 荣耀版车型](https://m.ithome.com/html/752492.htm)
+
