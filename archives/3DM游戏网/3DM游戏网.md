@@ -195,3 +195,15 @@
 
 + [类魂游戏发售日撞车《艾尔登法环》DLC 开发者：无异于送死](https://www.3dmgame.com/news/202402/3889382.html)
 
++ [恐怖电影衍生游戏《鬼影实录：遗失片段》2026年发售](https://www.3dmgame.com/news/202402/3889394.html)
+
++ [苹果iOS 17.4RC版发布：欧盟开放侧载 支持云游戏](https://www.3dmgame.com/news/202402/3889393.html)
+
++ [小白玩家低价拍卖超珍贵初版《塞尔达》游戏 幸获好心网友提醒](https://www.3dmgame.com/news/202402/3889392.html)
+
++ [PS5版《盗贼之海》需要玩家注册关联微软账户才能游玩](https://www.3dmgame.com/news/202402/3889391.html)
+
++ [外媒推测EA下一款《战地》游戏将包含“大逃杀”模式](https://www.3dmgame.com/news/202402/3889390.html)
+
++ [消息称三星年底前推出外骨骼机器人Bot Fit 安全又助力](https://www.3dmgame.com/news/202402/3889389.html)
+

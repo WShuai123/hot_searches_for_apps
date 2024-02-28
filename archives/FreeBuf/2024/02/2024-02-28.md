@@ -53,3 +53,5 @@
 
 + [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html)
 
++ [Fortinet防火墙身份认证绕过漏洞复现和利用(CVE-2022-40684)](https://www.freebuf.com/vuls/392536.html)
+

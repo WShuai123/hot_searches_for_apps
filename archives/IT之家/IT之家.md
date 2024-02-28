@@ -33,3 +33,5 @@
 
 + [2000 人团队、十多年努力成泡影，消息称苹果取消电动汽车项目](https://m.ithome.com/html/752457.htm)
 
++ [苹果 iOS 18 适配机型曝光：仅限 iPhone XR 及以上 A12 手机，A10X 芯片版 iPad Pro 被放弃](https://m.ithome.com/html/752450.htm)
+
