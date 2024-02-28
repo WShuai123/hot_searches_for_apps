@@ -207,3 +207,15 @@
 
 + [消息称三星年底前推出外骨骼机器人Bot Fit 安全又助力](https://www.3dmgame.com/news/202402/3889389.html)
 
++ [腾讯《三角洲行动》全面战场实机演示 海陆空大对决](https://www.3dmgame.com/news/202402/3889399.html)
+
++ [《幻兽帕鲁》开发商致歉：无意间修复了抓塔主BUG](https://www.3dmgame.com/news/202402/3889400.html)
+
++ [《Re：从零开始的异世界生活》第三季主视觉图公开](https://www.3dmgame.com/news/202402/3889395.html)
+
++ [模拟经营游戏《酒店装修大师》主机发售日预告 3月12日上线](https://www.3dmgame.com/news/202402/3889396.html)
+
++ [I社前制作人发文纪念《VR女友》七周年 称将迎新挑战](https://www.3dmgame.com/news/202402/3889398.html)
+
++ [《不朽者传奇》销售情况有所改善 最终故事还没有写好](https://www.3dmgame.com/news/202402/3889397.html)
+

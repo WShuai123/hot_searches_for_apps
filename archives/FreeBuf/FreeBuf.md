@@ -55,3 +55,7 @@
 
 + [Fortinet防火墙身份认证绕过漏洞复现和利用(CVE-2022-40684)](https://www.freebuf.com/vuls/392536.html)
 
++ [WordPress 又爆出漏洞，500 万个网站面临严重的安全风险](https://www.freebuf.com/news/392761.html)
+
++ [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html)
+

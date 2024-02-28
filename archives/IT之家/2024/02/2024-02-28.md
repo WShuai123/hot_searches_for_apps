@@ -35,3 +35,5 @@
 
 + [苹果 iOS 18 适配机型曝光：仅限 iPhone XR 及以上 A12 手机，A10X 芯片版 iPad Pro 被放弃](https://m.ithome.com/html/752450.htm)
 
++ [极氪汽车称“尊重且敬畏”小米汽车：营销值得学习，技术要向我们学习](https://m.ithome.com/html/752497.htm)
+
