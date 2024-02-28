@@ -41,3 +41,7 @@
 
 + [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html)
 
++ [FreeBuf 早报 | 关键SQL注入漏洞威胁超过20万个网站；网络攻击迫使上市公司电池工厂停产两周](https://www.freebuf.com/news/392699.html)
+
++ [2024年智能汽车多样化攻击途径](https://www.freebuf.com/articles/neopoints/392155.html)
+

@@ -127,3 +127,9 @@
 
 + [电商风控系统（flink+groovy+flume+kafka+redis+clickhouse+mysql）](https://blog.csdn.net/JavaCoder_juejue/article/details/136288445)
 
++ [spark-sql orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
+
++ [汽车资讯|汽车资讯网站|基于Springboot的汽车资讯网站设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136309729)
+
++ [CMake、OpenCV 和单元测试](https://blog.csdn.net/IncrediBuild/article/details/136300772)
+

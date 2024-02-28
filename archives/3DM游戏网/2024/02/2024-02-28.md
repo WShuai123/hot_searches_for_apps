@@ -117,3 +117,9 @@
 
 + [任天堂对Switch模拟器Yuzu作者发起诉讼](https://www.3dmgame.com/news/202402/3889343.html)
 
++ [《真女神转生5》Steam国区329元 采用D加密系统](https://www.3dmgame.com/news/202402/3889352.html)
+
++ [《宝可梦：大集结》宣布三只新宝可梦加入游戏](https://www.3dmgame.com/news/202402/3889350.html)
+
++ [索尼互娱全球裁员900人 关闭伦敦工作室](https://www.3dmgame.com/news/202402/3889351.html)
+

@@ -67,3 +67,5 @@
 
 + [【玩弹】北斗「STEN MKⅡ」电动抛壳模型](http://www.acfun.cn/v/ac43873604)
 
++ [【诸葛】蜜月之前](http://www.acfun.cn/v/ac43872384)
+
