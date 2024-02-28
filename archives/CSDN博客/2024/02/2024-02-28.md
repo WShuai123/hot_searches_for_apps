@@ -171,3 +171,5 @@
 
 + [【C++那些事儿】深入理解C++类与对象：从概念到实践（上）| 揭开this指针的神秘面纱](https://blog.csdn.net/2201_75743654/article/details/136218728)
 
++ [3.机器学习-十大算法之一线性回归算法(LinearRegression)原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135849773)
+

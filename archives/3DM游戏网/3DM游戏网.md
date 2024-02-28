@@ -251,3 +251,19 @@
 
 + [《地狱边境》开发商Playdead招聘开发者 公布新作概念图](https://www.3dmgame.com/news/202402/3889414.html)
 
++ [《SUNSOFT is Back》众筹三倍达成上架Steam 经典游戏合集](https://www.3dmgame.com/news/202402/3889422.html)
+
++ [微软祭大招 公布11条AI访问原则促进创新竞争](https://www.3dmgame.com/news/202402/3889423.html)
+
++ [男子未拔充电器将枕头烧出洞：晚一点会烧得更严重](https://www.3dmgame.com/news/202402/3889424.html)
+
++ [非对称性多人求生恐怖游戏《畸变2》转为免费游戏 目前已停止开发](https://www.3dmgame.com/news/202402/3889421.html)
+
++ [《黑神话》冯骥：会继续努力 从劳动里感受意义与欢喜](https://www.3dmgame.com/news/202402/3889420.html)
+
++ [2023全球电视出货量排名：中韩包揽前五！](https://www.3dmgame.com/news/202402/3889419.html)
+
++ [《赛博朋克2077》糟糕首发 殃及开发者现实生活](https://www.3dmgame.com/news/202402/3889418.html)
+
++ [曝苹果取消电动汽车研发：团队转向生成式AI](https://www.3dmgame.com/news/202402/3889417.html)
+
