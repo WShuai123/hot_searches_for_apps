@@ -29,3 +29,5 @@
 
 + [“荣耀版”家族继续壮大，消息称比亚迪将推出海豹 DM-i 荣耀版车型](https://m.ithome.com/html/752492.htm)
 
++ [华为联合成都高新收购鼎桥通信交易无条件获批](https://m.ithome.com/html/752594.htm)
+
