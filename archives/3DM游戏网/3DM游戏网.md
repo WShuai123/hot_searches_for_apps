@@ -219,3 +219,29 @@
 
 + [《不朽者传奇》销售情况有所改善 最终故事还没有写好](https://www.3dmgame.com/news/202402/3889397.html)
 
++ [曝长安正与高合汽车接触洽谈收购事宜](https://www.3dmgame.com/news/202402/3889412.html)
+
++ [《匹诺曹的谎言》包揽NAVGTR四项大奖！](https://www.3dmgame.com/news/202402/3889413.html)
+
++ [《弗恩岛上的女巫》登陆PC平台 经营探索战斗冒险](https://www.3dmgame.com/news/202402/3889411.html)
+
++ [还记得iPod吗？大佬将其变为Steam Deck手柄](https://www.3dmgame.com/news/202402/3889410.html)
+
++ [《最终幻想7 重生》×日清咚兵卫联动广告 游戏明日上线](https://www.3dmgame.com/news/202402/3889409.html)
+
++ [《街霸6》新更新发布 强化部分不容易充分发挥个性的角色](https://www.3dmgame.com/news/202402/3889407.html)
+
++ [像素惊悚解谜游戏《腐朽之馆》新预告 3月7日发售](https://www.3dmgame.com/news/202402/3889406.html)
+
++ [本周Fami通评分出炉 《最终幻想7：重生》获38分](https://www.3dmgame.com/news/202402/3889408.html)
+
++ [《最后纪元》未来更新计划公布 还将登陆主机平台](https://www.3dmgame.com/news/202402/3889404.html)
+
++ [海外厂商推出AI驱动游戏气味盒 享受嗅觉“VR”](https://www.3dmgame.com/news/202402/3889403.html)
+
++ [回合战略类肉鸽游戏《神骰传说》现已正式推出 Steam收获好评](https://www.3dmgame.com/news/202402/3889401.html)
+
++ [“SEGA 三月特惠”活动火热进行中!《索尼克 超级巨星》、《双点校园》加入促销阵容](https://www.3dmgame.com/news/202402/3889405.html)
+
++ [网飞《寄生兽》真人剧海报 4月5日播出](https://www.3dmgame.com/news/202402/3889402.html)
+

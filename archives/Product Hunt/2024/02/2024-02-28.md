@@ -101,3 +101,41 @@
 
 + [Saner.AI](https://www.producthunt.com/posts/saner-ai-1)
 
++ [LangLang - Chat Translator for WhatsApp](https://www.producthunt.com/posts/langlang-chat-translator-for-whatsapp)
+
++ [Speechify 3.0](https://www.producthunt.com/posts/speechify-3-0)
+
++ [Txt Your Ex](https://www.producthunt.com/posts/txt-your-ex)
+
++ [SnappySnail](https://www.producthunt.com/posts/snappysnail)
+
++ [FTK](https://www.producthunt.com/posts/ftk)
+
++ [brickd](https://www.producthunt.com/posts/brickd)
+
++ [Nervous System Quotient (NSQ)](https://www.producthunt.com/posts/nervous-system-quotient-nsq)
+
++ [Bookingmood](https://www.producthunt.com/posts/bookingmood)
+
++ [Food Avoidance Scanner](https://www.producthunt.com/posts/food-avoidance-scanner)
+
++ [Breakcold](https://www.producthunt.com/posts/breakcold-2)
+
++ [Qufro](https://www.producthunt.com/posts/qufro)
+
++ [Index Rusher](https://www.producthunt.com/posts/index-rusher)
+
++ [Nexto](https://www.producthunt.com/posts/nexto-2)
+
++ [SaasRock](https://www.producthunt.com/posts/saasrock)
+
++ [Mailercloud](https://www.producthunt.com/posts/mailercloud-2)
+
++ [Vendr Bids](https://www.producthunt.com/posts/vendr-bids)
+
++ [Yolk.fm](https://www.producthunt.com/posts/yolk-fm)
+
++ [Survser](https://www.producthunt.com/posts/survser)
+
++ [LetsLicious](https://www.producthunt.com/posts/letslicious)
+

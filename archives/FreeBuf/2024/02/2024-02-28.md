@@ -61,3 +61,9 @@
 
 + [Linpmem：一款功能强大的Linux物理内存提取工具](https://www.freebuf.com/sectool/390306.html)
 
++ [NIST发布里程碑式网络安全框架2.0版本](https://www.freebuf.com/news/392795.html)
+
++ [俄罗斯APT28隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html)
+
++ [WordPress 插件存在漏洞，500 万网站面临严重安全风险](https://www.freebuf.com/news/392761.html)
+
