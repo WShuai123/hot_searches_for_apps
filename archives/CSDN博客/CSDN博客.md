@@ -157,3 +157,13 @@
 
 + [基于微信小程序短视频分享点播平台系统 (后台java+Springboot框架)答辩常规问题和如何回答(答辩指导)](https://blog.csdn.net/u013818205/article/details/136248167)
 
++ [2024年2月深度学习的论文推荐](https://blog.csdn.net/m0_46510245/article/details/136339262)
+
++ [Ansible自动化运维（四）jinja2 模板、Roles角色详解](https://blog.csdn.net/liu_chen_yang/article/details/133994509)
+
++ [数据分析案例-社交媒体情绪数据集可视化分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135774825)
+
++ [从HTML提取表格数据到Excel：猫头虎博主的终极指南](https://blog.csdn.net/qq_44866828/article/details/136341255)
+
++ [【架构】GPU架构总结](https://blog.csdn.net/qq_43543209/article/details/136287163)
+

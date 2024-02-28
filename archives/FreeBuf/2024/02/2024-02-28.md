@@ -59,3 +59,5 @@
 
 + [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html)
 
++ [Linpmem：一款功能强大的Linux物理内存提取工具](https://www.freebuf.com/sectool/390306.html)
+
