@@ -245,3 +245,9 @@
 
 + [网飞《寄生兽》真人剧海报 4月5日播出](https://www.3dmgame.com/news/202402/3889402.html)
 
++ [《星际公民》开发商CIG办公室搬迁 导致“大规模”裁员](https://www.3dmgame.com/news/202402/3889415.html)
+
++ [《隐形守护者》导演新作《名利游戏》：大嫂太香了](https://www.3dmgame.com/news/202402/3889416.html)
+
++ [《地狱边境》开发商Playdead招聘开发者 公布新作概念图](https://www.3dmgame.com/news/202402/3889414.html)
+

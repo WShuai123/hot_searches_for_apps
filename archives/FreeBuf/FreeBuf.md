@@ -67,3 +67,7 @@
 
 + [WordPress 插件存在漏洞，500 万网站面临严重安全风险](https://www.freebuf.com/news/392761.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
++ [俄罗斯APT28组织隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html)
+
