@@ -100,3 +100,5 @@ packaging design](https://dribbble.com/shots/)
 
 + [Boston General Store (Teaser)](https://dribbble.com/shots/)
 
++ [Mid-century Inspired Sewing Pattern](https://dribbble.com/shots/)
+

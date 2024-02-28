@@ -117,3 +117,21 @@
 
 + [使用GPT生成python图表](https://blog.csdn.net/irisMoon06/article/details/136288959)
 
++ [pdd专家会议纪要](https://blog.csdn.net/ruangongtaotao/article/details/136333252)
+
++ [国产动漫|基于Springboot的国产动漫网站设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136357702)
+
++ [数据中台：数字中国战略关键技术设施](https://blog.csdn.net/qq_35716689/article/details/136338245)
+
++ [第十二篇【传奇开心果系列】Python文本和语音相互转换库技术点案例示例：深度解读SpeechRecognition语音转文本](https://blog.csdn.net/jackchuanqi/article/details/136314675)
+
++ [Sora - 真正单兵作战时代来临了](https://blog.csdn.net/weixin_52069830/article/details/136309078)
+
++ [3d 舞蹈同步](https://blog.csdn.net/jacke121/article/details/136295015)
+
++ [好书推荐丨AI绘画全面精通：软件平台+脚本文案+设计制作+案例实战](https://blog.csdn.net/m0_68111267/article/details/136300471)
+
++ [从零开始手写mmo游戏从框架到爆炸（二十四）— 装备系统二](https://blog.csdn.net/money9sun/article/details/136259671)
+
++ [redis八股](https://blog.csdn.net/qq_36769368/article/details/136310424)
+
