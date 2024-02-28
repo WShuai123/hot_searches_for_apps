@@ -277,3 +277,11 @@
 
 + [《绝地潜兵2》推出新补丁 改进PS5版游戏登录慢问题](https://www.3dmgame.com/news/202402/3889429.html)
 
++ [外媒盘点2024年15款生存类游戏 《潜行者2》等](https://www.3dmgame.com/news/202402/3889434.html)
+
++ [《龙珠战士Z》2月29日登陆PS5/XSX Steam特别好评](https://www.3dmgame.com/news/202402/3889433.html)
+
++ [《了不起的埃莉诺》开拍 斯嘉丽约翰逊转行当导演](https://www.3dmgame.com/news/202402/3889431.html)
+
++ [网易在美成立3A级远程工作室 《黑色行动》设计师领导](https://www.3dmgame.com/news/202402/3889430.html)
+

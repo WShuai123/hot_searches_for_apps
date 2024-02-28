@@ -53,3 +53,7 @@
 
 + [“荣耀版”家族继续壮大，消息称比亚迪将推出海豹 DM-i 荣耀版车型](https://m.ithome.com/html/752492.htm)
 
++ [消息称苹果 iPhone 17 全系采用 LTPO 可变刷新率屏幕](https://m.ithome.com/html/752646.htm)
+
++ [小米汽车回应“3 月 28 日正式发布”：具体时间会通过官方渠道公告](https://m.ithome.com/html/752653.htm)
+
