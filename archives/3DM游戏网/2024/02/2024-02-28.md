@@ -267,3 +267,5 @@
 
 + [曝苹果取消电动汽车研发：团队转向生成式AI](https://www.3dmgame.com/news/202402/3889417.html)
 
++ [周鸿祎谈苹果放弃造车：企业不拥抱AI就会被干掉](https://www.3dmgame.com/news/202402/3889425.html)
+

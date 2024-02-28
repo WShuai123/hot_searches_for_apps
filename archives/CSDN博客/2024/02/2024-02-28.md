@@ -173,3 +173,7 @@
 
 + [3.机器学习-十大算法之一线性回归算法(LinearRegression)原理讲解](https://blog.csdn.net/weixin_50804299/article/details/135849773)
 
++ [基于ChatGPT4+Python近红外光谱数据分析及机器学习与深度学习建模](https://blog.csdn.net/PhyliciaFelicia/article/details/136320178)
+
++ [SpringCloud&Nacos注册中心服务分级存储模型](https://blog.csdn.net/2301_78386975/article/details/136328260)
+
