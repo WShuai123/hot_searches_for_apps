@@ -273,3 +273,5 @@
 
 + [勒索软件团伙称已经黑掉Epic 窃取了200GB内部数据](https://www.3dmgame.com/news/202402/3889426.html)
 
++ [《铁拳8》开发成本飙升 是《铁拳7》的三倍、是90年代游戏的十倍](https://www.3dmgame.com/news/202402/3889428.html)
+

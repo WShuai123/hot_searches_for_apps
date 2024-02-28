@@ -179,3 +179,9 @@
 
 + [第 2 章 微信小程序的构成 （代码导读）断更，后续继续更新](https://blog.csdn.net/Zhiyilang/article/details/136307728)
 
++ [从新手到专家：AutoCAD 完全指南](https://blog.csdn.net/qq_44273429/article/details/136350361)
+
++ [基于YOLOv8深度学习+Pyqt5的电动车头盔佩戴检测系统](https://blog.csdn.net/m0_46653805/article/details/136286933)
+
++ [Nginx高级技巧：实现负载均衡和反向代理](https://blog.csdn.net/m0_59230408/article/details/135252948)
+
