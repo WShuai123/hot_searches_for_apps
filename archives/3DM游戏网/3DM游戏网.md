@@ -233,3 +233,29 @@
 
 + [均价20万！曝小米汽车SU7将3月上市4月交付](https://www.3dmgame.com/news/202402/3889501.html)
 
++ [库克：今年苹果将在生成式AI领域开辟新天地](https://www.3dmgame.com/news/202402/3889515.html)
+
++ [暴雪申请国内多个魔兽商标被驳回 国服真要完了？](https://www.3dmgame.com/news/202402/3889514.html)
+
++ [《Gift》Switch预购开启 沉船逃生解谜动作](https://www.3dmgame.com/news/202402/3889513.html)
+
++ [苹果造车原因曝光：防止工程师跳槽到特斯拉！](https://www.3dmgame.com/news/202402/3889512.html)
+
++ [《铁拳8》开发成本比前作高三倍：在线服务烧钱](https://www.3dmgame.com/news/202402/3889511.html)
+
++ [《地下城与勇士：决斗》“蓝拳圣使”角色DLC宣布3月14日上线](https://www.3dmgame.com/news/202402/3889510.html)
+
++ [除了被买走《控制》IP外 发行商505 Games或还有更多坏消息](https://www.3dmgame.com/news/202402/3889509.html)
+
++ [高通高管确认：骁龙8 Gen4 10月发布！自研架构提升巨大](https://www.3dmgame.com/news/202402/3889508.html)
+
++ [《使命召唤：现代战争3》玩家指责开发者使用AI制作新皮肤](https://www.3dmgame.com/news/202402/3889507.html)
+
++ [喜加一！刷宝肉鸽《数字魅影：序章》今日上线steam](https://www.3dmgame.com/news/202402/3889506.html)
+
++ [电竞女队要求《CS2》加入女性默认角色 被社区群嘲：你在假定别人性别](https://www.3dmgame.com/news/202402/3889505.html)
+
++ [周鸿祎称PPT最能忽悠人 自家内部禁用只会对外](https://www.3dmgame.com/news/202402/3889504.html)
+
++ [侦探文字冒险游戏《双盲把戏》发售日预告 3月14日上线](https://www.3dmgame.com/news/202402/3889503.html)
+
