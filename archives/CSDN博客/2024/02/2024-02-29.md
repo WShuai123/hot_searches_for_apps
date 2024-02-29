@@ -151,3 +151,13 @@
 
 + [mybatis多租户下动态切换数据源](https://blog.csdn.net/zy11517/article/details/136343437)
 
++ [图神经网络实战——图论](https://blog.csdn.net/LOVEmy134611/article/details/136334633)
+
++ [SpringBoot使用jsoup爬取HTML](https://blog.csdn.net/feiying0canglang/article/details/129494483)
+
++ [SpringBoot集成ElasticSearch（ES）实现全文搜索引擎](https://blog.csdn.net/usa_washington/article/details/126011935)
+
++ [从win11切换到ubuntu20的第1天](https://blog.csdn.net/weixin_44298961/article/details/136331503)
+
++ [vue3实现页面跳转](https://blog.csdn.net/weixin_62588253/article/details/136307180)
+

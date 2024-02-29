@@ -33,3 +33,7 @@
 
 + [新款上汽奥迪 A7L 车型 3 月 1 日上市：前格栅样式焕新，现款售 41.87 万元起](https://m.ithome.com/html/752636.htm)
 
++ [雅迪“冠能 6 代”Q50 / T60 / M85 电动车亮相：搭载 TTFAR 电机、石墨烯电池，3990 元起](https://m.ithome.com/html/752679.htm)
+
++ [小米 14 Ultra 手机用户 3 月 27 日前可领专享权益礼包：含 200GB 云空间月卡、芒果 TV / QQ 音乐会员等](https://m.ithome.com/html/752682.htm)
+

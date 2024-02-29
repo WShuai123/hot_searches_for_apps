@@ -145,3 +145,43 @@
 
 + [EA《钢铁侠》《黑豹》等游戏将继续开发](https://www.3dmgame.com/news/202402/3889448.html)
 
++ [《最终幻想》作曲家植松伸夫：精力已不足为游戏作曲](https://www.3dmgame.com/news/202402/3889475.html)
+
++ [合作策略冒险游戏《时间融合》现已在Steam平台正式推出](https://www.3dmgame.com/news/202402/3889476.html)
+
++ [《猩球崛起4：新世界》新剧照 年轻猿猴自我寻找之路](https://www.3dmgame.com/news/202402/3889474.html)
+
++ [《Spiritfall》登陆Steam正式推出 肉鸽元素横版动作](https://www.3dmgame.com/news/202402/3889473.html)
+
++ [竞速游戏《環狀战斗骑士》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3889472.html)
+
++ [太空实拍电影《挑战》发布定档海报及剧照 3月15日内地上映](https://www.3dmgame.com/news/202402/3889477.html)
+
++ [《星际拓荒》实体典藏版2024年Q3发售 售价100美元](https://www.3dmgame.com/news/202402/3889478.html)
+
++ [《功夫熊猫4》电影新海报 杨幂为狐狸小真配音](https://www.3dmgame.com/news/202402/3889471.html)
+
++ [《最终幻想7：重生》制作人北濑佳范是塞尔达系列铁粉 大部分作品都玩过](https://www.3dmgame.com/news/202402/3889470.html)
+
++ [俯视角ACT《Dinoscore》初始版发布 稍后登陆多平台](https://www.3dmgame.com/news/202402/3889466.html)
+
++ [《丽露娅与夏夏的纯白谎言》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3889465.html)
+
++ [A24出品的恐怖电影《荧屏在发光》发布官方高清预告片](https://www.3dmgame.com/news/202402/3889464.html)
+
++ [《沙丘2》导演丹尼斯·维伦纽瓦来华 3月8日内地上映](https://www.3dmgame.com/news/202402/3889463.html)
+
++ [Atlus《暗喻幻想》PS商店页面上线 白天打仗晚上恋爱](https://www.3dmgame.com/news/202402/3889461.html)
+
++ [EA取消《星战》FPS后 《泰坦陨落3》登上美国热搜](https://www.3dmgame.com/news/202402/3889460.html)
+
++ [策略冒险游戏《戈德》“联盟”DLC现已正式推出](https://www.3dmgame.com/news/202402/3889469.html)
+
++ [曝《刺客信条：Hexe》是单女主 史上最黑暗刺客游戏](https://www.3dmgame.com/news/202402/3889467.html)
+
++ [《绝地潜兵2》外骨骼机甲实机泄露 行走的机炮！](https://www.3dmgame.com/news/202402/3889468.html)
+
++ [《最后纪元》评价下滑 游戏总监承诺将继续改进](https://www.3dmgame.com/news/202402/3889459.html)
+
++ [前育碧开发者用虚幻5引擎打造《神秘海域》片段](https://www.3dmgame.com/news/202402/3889462.html)
+
