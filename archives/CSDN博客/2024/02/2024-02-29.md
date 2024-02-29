@@ -183,3 +183,9 @@
 
 + [Python爬虫项目实战案例-批量下载网易云榜单音乐保存至本地](https://blog.csdn.net/Srlua/article/details/136358740)
 
++ [网络协议：DHCP协议工作原理，DHCP分配方式，DHCP租约，Wireshark抓包分析DHCP报文](https://blog.csdn.net/wangyuxiang946/article/details/136330467)
+
++ [第104讲：数据库分库分表的意义与实现策略（MyCat）](https://blog.csdn.net/weixin_44953658/article/details/136361776)
+
++ [如何在 Angular 中使用 NgTemplateOutlet 创建可重用组件](https://blog.csdn.net/rubys007/article/details/136353980)
+

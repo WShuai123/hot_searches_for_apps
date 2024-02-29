@@ -51,3 +51,9 @@
 
 + [CVE-2022-42889 Apache Commons Text RCE 漏洞分析与 CodeQL](https://www.freebuf.com/articles/web/392350.html)
 
++ [Smuggler：一款功能强大的HTTP请求走私和去同步安全测试工具](https://www.freebuf.com/sectool/390316.html)
+
++ [Lazarus 黑客组织利用 Windows 零日漏洞获取内核权限](https://www.freebuf.com/news/392838.html)
+
++ [议题征集&报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html)
+

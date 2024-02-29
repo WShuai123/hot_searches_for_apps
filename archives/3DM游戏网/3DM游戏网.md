@@ -201,3 +201,27 @@
 
 + [《星引擎party》免费登陆Steam 多人欢乐派对新游](https://www.3dmgame.com/news/202402/3889485.html)
 
++ [对话育碧叙事总监Vicky，带你了解全新《英雄无敌》的美术迭代与创新](https://www.3dmgame.com/news/202402/3889497.html)
+
++ [《潜水员戴夫》Switch实体版5月发售 将联动《罪恶装备：STRIVE》](https://www.3dmgame.com/news/202402/3889498.html)
+
++ [《超次元游戏海王星：重生》三部曲NS版新预告 5月23日发售](https://www.3dmgame.com/news/202402/3889483.html)
+
++ [《真·女神转生Ⅴ Vengeance》公开最新资讯 介绍故事、角色等](https://www.3dmgame.com/news/202402/3889494.html)
+
++ [Adobe推出AI音乐生成工具 可根据文本生成音乐并进行精细编辑](https://www.3dmgame.com/news/202402/3889495.html)
+
++ [《Ufouria The Saga 2》登陆多平台 治愈系横版动作](https://www.3dmgame.com/news/202402/3889496.html)
+
++ [美政府建议停止使用C/C++ 转用内存安全编程语言](https://www.3dmgame.com/news/202402/3889489.html)
+
++ [玩家发现《FF7：重生》著名梗伸腰内裤竟被删除 官方吐槽时代变了](https://www.3dmgame.com/news/202402/3889491.html)
+
++ [Apple Arcade版《Samba de Amigo：出发去摇摇派对》发布更新](https://www.3dmgame.com/news/202402/3889490.html)
+
++ [任天堂提醒玩家即使是闰年 Switch年费会员时长也是365天](https://www.3dmgame.com/news/202402/3889492.html)
+
++ [《绝地潜兵2》总监：虽是实时服务游戏 但并非重点](https://www.3dmgame.com/news/202402/3889493.html)
+
++ [《星球大战：黑暗原力 复刻版》现已正式推出 收获特别好评](https://www.3dmgame.com/news/202402/3889488.html)
+
