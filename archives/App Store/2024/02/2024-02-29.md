@@ -207,3 +207,7 @@
 
 + [爱奇艺-大理寺少卿游独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
 
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+

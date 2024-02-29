@@ -39,3 +39,5 @@
 
 + [12.98 万元起，比亚迪宋 PLUS DM-i / EV 荣耀版车型上市](https://m.ithome.com/html/752727.htm)
 
++ [比亚迪唐 DM-p / 唐 EV 车型限时直降 30000 元，仅限 3 月 31 日前](https://m.ithome.com/html/752704.htm)
+

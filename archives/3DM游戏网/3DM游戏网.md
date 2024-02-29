@@ -187,3 +187,17 @@
 
 + [比4A好玩！海盗游戏《黑色艉流》转为完全免费](https://www.3dmgame.com/news/202402/3889479.html)
 
++ [英伟达推出AI编程新模型 代码生成补全调试样样精通](https://www.3dmgame.com/news/202402/3889487.html)
+
++ [多家新闻机构起诉微软和OpenAI侵权 该来的总归要来](https://www.3dmgame.com/news/202402/3889480.html)
+
++ [《Psalm 5:9-13》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3889481.html)
+
++ [《最终幻想7：重生》发售预告片 玩家评分4.85好评如潮](https://www.3dmgame.com/news/202402/3889482.html)
+
++ [《功夫熊猫4》中文配音预告 3月22日内地上映](https://www.3dmgame.com/news/202402/3889484.html)
+
++ [Apple TV plus正在制作威廉·吉布森的《神经漫游者》改编电视剧](https://www.3dmgame.com/news/202402/3889486.html)
+
++ [《星引擎party》免费登陆Steam 多人欢乐派对新游](https://www.3dmgame.com/news/202402/3889485.html)
+

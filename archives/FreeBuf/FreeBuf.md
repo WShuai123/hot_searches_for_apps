@@ -49,3 +49,5 @@
 
 + [AI模型平台Hugging Face “惊现”百余个恶意ML模型](https://www.freebuf.com/news/392830.html)
 
++ [CVE-2022-42889 Apache Commons Text RCE 漏洞分析与 CodeQL](https://www.freebuf.com/articles/web/392350.html)
+
