@@ -53,3 +53,7 @@
 
 + [10 月见，高通骁龙 8 Gen 4 将登场：配自研 Oryon 核心](https://m.ithome.com/html/752734.htm)
 
++ [苹果 iOS 版“地震预警”App 获推 2024.1.0 版更新：体积暴增 900MB 至 1.17GB、开启内购收费](https://m.ithome.com/html/752811.htm)
+
++ [小米 14 Ultra 手机维修备件价格公布：主板 2730 元起，屏幕 1350 元](https://m.ithome.com/html/752759.htm)
+

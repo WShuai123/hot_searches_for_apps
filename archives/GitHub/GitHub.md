@@ -51,3 +51,33 @@
 
 + [FuelLabs / sway](https://github.com/FuelLabs/sway)
 
++ [yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu)
+
++ [Netflix / bpftop](https://github.com/Netflix/bpftop)
+
++ [yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android)
+
++ [Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt)
+
++ [Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
+
++ [HumanAIGC / EMO](https://github.com/HumanAIGC/EMO)
+
++ [yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline)
+
++ [SuperTux / supertux](https://github.com/SuperTux/supertux)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
+
++ [pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker)
+

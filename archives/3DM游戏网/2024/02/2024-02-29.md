@@ -261,3 +261,5 @@
 
 + [英伟达暴力提升RTX5090性能：比4090快近一倍](https://www.3dmgame.com/news/202402/3889516.html)
 
++ [AMD确认RX 7900 GRE超频受限是bug 将很快进行修复](https://www.3dmgame.com/news/202402/3889517.html)
+
