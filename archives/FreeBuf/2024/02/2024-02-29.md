@@ -57,3 +57,9 @@
 
 + [议题征集&报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html)
 
++ [为什么黑客这么喜欢攻击加密货币？](https://www.freebuf.com/news/topnews/392889.html)
+
++ [Windows 这个零日漏洞正在被黑客利用，以获取内核权限](https://www.freebuf.com/news/392838.html)
+
++ [全球知名AI 平台Hugging Face “惊现”上百个恶意ML模型](https://www.freebuf.com/news/392830.html)
+

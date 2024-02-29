@@ -189,3 +189,9 @@
 
 + [如何在 Angular 中使用 NgTemplateOutlet 创建可重用组件](https://blog.csdn.net/rubys007/article/details/136353980)
 
++ [使用Java和PostGis的全国A级风景区数据入库实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/136354288)
+
++ [自然语言处理（NLP）中NER如何从JSON数据中提取实体词的有效信息](https://blog.csdn.net/superdangbo/article/details/136362128)
+
++ [华为云峰会2024，GaussDB扬帆出海，给世界一个更优选择](https://blog.csdn.net/devcloud/article/details/136350392)
+

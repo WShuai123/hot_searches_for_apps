@@ -43,3 +43,5 @@
 
 + [比亚迪海豹 DM-i 荣耀版车型上市，售价 14.98 万元起](https://m.ithome.com/html/752726.htm)
 
++ [魅族 21 Pro 手机完整配置曝光：三个版本 5299 元起，命名为“AI 终端”](https://m.ithome.com/html/752771.htm)
+

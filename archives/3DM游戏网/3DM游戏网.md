@@ -225,3 +225,11 @@
 
 + [《星球大战：黑暗原力 复刻版》现已正式推出 收获特别好评](https://www.3dmgame.com/news/202402/3889488.html)
 
++ [《真人快打1》补丁新增和平使者和跨平台联机 硬盘空间需求大增](https://www.3dmgame.com/news/202402/3889502.html)
+
++ [挪威研究显示儿童因不玩或不在游戏中消费 而遭受校园欺凌](https://www.3dmgame.com/news/202402/3889499.html)
+
++ [《东京电玩展2024》公布举行概要 9月26日开幕](https://www.3dmgame.com/news/202402/3889500.html)
+
++ [均价20万！曝小米汽车SU7将3月上市4月交付](https://www.3dmgame.com/news/202402/3889501.html)
+
