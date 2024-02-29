@@ -45,3 +45,5 @@
 
 + [Web应用防火墙的使用效率问题与替代性技术的深入讨论](https://www.freebuf.com/articles/network/392809.html)
 
++ [【云原生攻防研究】容器不安全配置导致的安全漏洞](https://www.freebuf.com/defense/392595.html)
+

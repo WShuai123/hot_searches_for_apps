@@ -141,3 +141,13 @@
 
 + [【JAVA日志】关于日志系统的架构讨论](https://blog.csdn.net/Joker_ZJN/article/details/136357635)
 
++ [digitizerNETBOX数据采集器](https://blog.csdn.net/qq_41643216/article/details/136349811)
+
++ [LNS（大规模大邻域搜索）（含AI创作）（背景与VNS相同）](https://blog.csdn.net/m0_57273050/article/details/136352929)
+
++ [spark-sql orderby遇到的shuffle问题](https://blog.csdn.net/qq_36213530/article/details/136334248)
+
++ [基于视觉识别的自动采摘机器人设计与实现](https://blog.csdn.net/xiaolong1126626497/article/details/136337918)
+
++ [mybatis多租户下动态切换数据源](https://blog.csdn.net/zy11517/article/details/136343437)
+
