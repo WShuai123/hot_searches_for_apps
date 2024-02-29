@@ -103,3 +103,19 @@
 
 + [Epic喜加一：《空中骑士从不屈服》免费领取](https://www.3dmgame.com/news/202402/3889524.html)
 
++ [《古惑狼》《小龙斯派罗》开发商宣布独立](https://www.3dmgame.com/news/202403/3889535.html)
+
++ [《终结者：幸存者》10/24以抢先体验形式登陆PC](https://www.3dmgame.com/news/202403/3889529.html)
+
++ [拯救全员躺平的世界《躺平了》3月14日上市](https://www.3dmgame.com/news/202403/3889533.html)
+
++ [《无限试驾：太阳王冠》“探索者”预告片分享](https://www.3dmgame.com/news/202403/3889534.html)
+
++ [等距ARPG《龙裔：被放逐者》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202403/3889532.html)
+
++ [开放世界FPS《终结者：幸存者》10月抢鲜体验](https://www.3dmgame.com/news/202403/3889531.html)
+
++ [《贪婪之秋2：濒死世界》夏季推出PC抢先体验版](https://www.3dmgame.com/news/202403/3889530.html)
+
++ [《数码方块地球防卫军2》将于5月23日正式发售](https://www.3dmgame.com/news/202403/3889528.html)
+
