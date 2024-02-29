@@ -263,3 +263,9 @@
 
 + [AMD确认RX 7900 GRE超频受限是bug 将很快进行修复](https://www.3dmgame.com/news/202402/3889517.html)
 
++ [苹果自动驾驶汽车已烧掉超100亿美元 取消是因为利润率太低](https://www.3dmgame.com/news/202402/3889519.html)
+
++ [连姆·尼森版《新白头神探》定档2025年7月](https://www.3dmgame.com/news/202402/3889520.html)
+
++ [《赛博朋克2077》《往日之影》2.12更新上线](https://www.3dmgame.com/news/202402/3889518.html)
+
