@@ -215,3 +215,5 @@
 
 + [番茄小说 - 热门全本小说电子书阅读器](https://itunes.apple.com/cn/app/id1468454200?mt=8)
 
++ [HOTDOG(Ai潮流)](https://itunes.apple.com/cn/app/id1472971956?mt=8)
+

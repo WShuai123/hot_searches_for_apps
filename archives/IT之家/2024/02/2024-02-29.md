@@ -57,3 +57,5 @@
 
 + [小米 14 Ultra 手机维修备件价格公布：主板 2730 元起，屏幕 1350 元](https://m.ithome.com/html/752759.htm)
 
++ [4999 元起，魅族 21 Pro 手机正式发布：魅族首款开放式 AI 终端](https://m.ithome.com/html/752902.htm)
+

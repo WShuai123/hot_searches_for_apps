@@ -215,3 +215,9 @@
 
 + [VPN简介](https://blog.csdn.net/m0_66993332/article/details/136354840)
 
++ [如何在Portainer中部署Nginx容器并制作一个本地站点结合cpolar发布至公网可访问](https://blog.csdn.net/YYDsis/article/details/136372306)
+
++ [LTX Studio开放测试，用户可以通过输入文本来生成超过25秒的微电影视频；人工智能的崛起和局限](https://blog.csdn.net/weixin_40425640/article/details/136361790)
+
++ [【Vue3】回顾watch，学习watchEffect](https://blog.csdn.net/null18/article/details/136362755)
+
