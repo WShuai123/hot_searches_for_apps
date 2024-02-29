@@ -177,3 +177,9 @@
 
 + [MySQL和Redis如何保证数据一致性？](https://blog.csdn.net/NHB234567/article/details/136323320)
 
++ [亚马逊云科技实时 AI 编程助手 Amazon CodeWhisperer，开发快人一步](https://blog.csdn.net/2202_75623950/article/details/136361265)
+
++ [【Linux系统化学习】信号概念和信号的产生](https://blog.csdn.net/qq_55119554/article/details/136319163)
+
++ [Python爬虫项目实战案例-批量下载网易云榜单音乐保存至本地](https://blog.csdn.net/Srlua/article/details/136358740)
+

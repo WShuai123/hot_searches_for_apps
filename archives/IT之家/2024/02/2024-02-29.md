@@ -41,3 +41,5 @@
 
 + [比亚迪唐 DM-p / 唐 EV 车型限时直降 30000 元，仅限 3 月 31 日前](https://m.ithome.com/html/752704.htm)
 
++ [比亚迪海豹 DM-i 荣耀版车型上市，售价 14.98 万元起](https://m.ithome.com/html/752726.htm)
+
