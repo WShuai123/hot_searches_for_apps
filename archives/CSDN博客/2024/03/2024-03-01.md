@@ -103,3 +103,25 @@
 
 + [数据界的达克摩斯之剑----深入浅出带你理解网络爬虫(Forth)](https://blog.csdn.net/lmy050813/article/details/136338771)
 
++ [基于微信小程序图书商城系统 (后台java+Springboot框架)答辩常规问题和如何回答(答辩指导)](https://blog.csdn.net/u013818205/article/details/136247959)
+
++ [文生图的最新进展：从一致性模型Consistency Model、LCM、SDXL到Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
++ [第十三篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：Microsoft Azure的Face API开发人脸识别门禁系统经典案例](https://blog.csdn.net/jackchuanqi/article/details/136354869)
+
++ [【Vue】路由](https://blog.csdn.net/m0_62645012/article/details/136378775)
+
++ [文献学习-10-微创手术机器人的运动学设计考虑因素：综述](https://blog.csdn.net/Metaphysicist/article/details/136336682)
+
++ [【架构之路】糟糕程序员的20个坏习惯,切记要改掉](https://blog.csdn.net/jinxinxin1314/article/details/136359727)
+
++ [HarmonyOS4.0系统性深入开发38Web组件概述](https://blog.csdn.net/qq_46189388/article/details/136313310)
+
++ [Unity性能优化与分析--CPU](https://blog.csdn.net/qq_41281201/article/details/136371702)
+
++ [Nginx高级技巧：实现负载均衡和反向代理](https://blog.csdn.net/m0_59230408/article/details/135252948)
+
++ [Linux--查看网络性能指标](https://blog.csdn.net/weixin_68074170/article/details/136327595)
+
++ [【好书推荐-第六期】《数据中台：数字中国战略关键技术设施》](https://blog.csdn.net/weixin_51484460/article/details/136349593)
+
