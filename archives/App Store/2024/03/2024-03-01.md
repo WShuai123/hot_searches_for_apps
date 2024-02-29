@@ -201,3 +201,7 @@
 
 + [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
 
++ [小芒—芒果TV旗下新潮国货内容电商平台](https://itunes.apple.com/cn/app/id1540247980?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+

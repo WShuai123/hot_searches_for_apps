@@ -49,3 +49,21 @@
 
 + [Can you animate him?](https://dribbble.com/shots/)
 
++ [Guest from the forest.](https://dribbble.com/shots/)
+
++ [4 illustrations for animation](https://dribbble.com/shots/)
+
++ [Dave Matthews & Tim Reynolds 2024 Riviera Maya Branding](https://dribbble.com/shots/)
+
++ [Coming Soon - DKNG Editable Textures](https://dribbble.com/shots/)
+
++ [Punk Cock](https://dribbble.com/shots/)
+
++ [Nexus Wear](https://dribbble.com/shots/)
+
++ [USA Travel map](https://dribbble.com/shots/)
+
++ [Book Illustrations](https://dribbble.com/shots/)
+
++ [Bigbun | Brand Illustrations](https://dribbble.com/shots/)
+

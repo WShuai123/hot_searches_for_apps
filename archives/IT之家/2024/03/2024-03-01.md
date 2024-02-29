@@ -25,3 +25,5 @@
 
 + [【IT之家开箱】魅族 21 Pro「魅族白」图赏：74mm 窄机身，四边等宽白面板](https://m.ithome.com/html/752906.htm)
 
++ [博主实验室测试小米 14 Ultra 手机“龙晶陶瓷后盖”，声称“大概率就是微晶玻璃”](https://m.ithome.com/html/752913.htm)
+
