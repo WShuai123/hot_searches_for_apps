@@ -161,3 +161,9 @@
 
 + [vue3实现页面跳转](https://blog.csdn.net/weixin_62588253/article/details/136307180)
 
++ [文生图的最新进展：从一致性模型Consistency Model、LCM、SDXL到Stable Diffusion3](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
++ [云计算与边缘计算：有何不同？](https://blog.csdn.net/FS_China/article/details/136345541)
+
++ [文献学习-10-微创手术机器人的运动学设计考虑因素：综述](https://blog.csdn.net/Metaphysicist/article/details/136336682)
+

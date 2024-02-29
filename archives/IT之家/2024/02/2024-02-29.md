@@ -37,3 +37,5 @@
 
 + [小米 14 Ultra 手机用户 3 月 27 日前可领专享权益礼包：含 200GB 云空间月卡、芒果 TV / QQ 音乐会员等](https://m.ithome.com/html/752682.htm)
 
++ [12.98 万元起，比亚迪宋 PLUS DM-i / EV 荣耀版车型上市](https://m.ithome.com/html/752727.htm)
+

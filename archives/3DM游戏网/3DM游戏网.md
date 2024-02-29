@@ -185,3 +185,5 @@
 
 + [前育碧开发者用虚幻5引擎打造《神秘海域》片段](https://www.3dmgame.com/news/202402/3889462.html)
 
++ [比4A好玩！海盗游戏《黑色艉流》转为完全免费](https://www.3dmgame.com/news/202402/3889479.html)
+

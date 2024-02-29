@@ -47,3 +47,5 @@
 
 + [【云原生攻防研究】容器不安全配置导致的安全漏洞](https://www.freebuf.com/defense/392595.html)
 
++ [AI模型平台Hugging Face “惊现”百余个恶意ML模型](https://www.freebuf.com/news/392830.html)
+
