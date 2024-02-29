@@ -269,3 +269,5 @@
 
 + [《赛博朋克2077》《往日之影》2.12更新上线](https://www.3dmgame.com/news/202402/3889518.html)
 
++ [《地平线》系列开发商Guerrilla Games失去10%员工](https://www.3dmgame.com/news/202402/3889521.html)
+
