@@ -115,3 +115,11 @@
 
 + [卡普空力作《龙之信条2》魔弓手预告片展示](https://www.3dmgame.com/news/202402/3889437.html)
 
++ [外媒称EA裁员并取消《星战曼达洛人》改编游戏](https://www.3dmgame.com/news/202402/3889445.html)
+
++ [《GTA6》进入开发最后阶段 R星采取严厉措施避免泄密](https://www.3dmgame.com/news/202402/3889446.html)
+
++ [EA大裁员：《星球大战绝地》第三部、《战地》单人战役仍在开发](https://www.3dmgame.com/news/202402/3889447.html)
+
++ [《歧路旅人：大陆霸者》和《尼尔：伪装者》进行角色联动](https://www.3dmgame.com/news/202402/3889444.html)
+
