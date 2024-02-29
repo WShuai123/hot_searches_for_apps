@@ -49,3 +49,7 @@
 
 + [小米 Redmi K70 / Pro 手机新增 12GB+512GB 版本，售价 2699 元 / 3599 元](https://m.ithome.com/html/752770.htm)
 
++ [山东省：3 月起免征氢能车辆高速公路通行费](https://m.ithome.com/html/752780.htm)
+
++ [10 月见，高通骁龙 8 Gen 4 将登场：配自研 Oryon 核心](https://m.ithome.com/html/752734.htm)
+
