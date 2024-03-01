@@ -153,3 +153,11 @@
 
 + [《铁拳8》现已加入微交易 一些玩家非常愤怒](https://www.3dmgame.com/news/202403/3889539.html)
 
++ [《创：战纪》续作电影《创：战神》公布首张剧照](https://www.3dmgame.com/news/202403/3889556.html)
+
++ [《最终幻想7：重生》全召唤兽演示视频 特效超酷炫](https://www.3dmgame.com/news/202403/3889554.html)
+
++ [支持中文 科幻合作生存恐怖《Byte Breach》Steam页面](https://www.3dmgame.com/news/202403/3889555.html)
+
++ [手游开发商Wildlife宣布裁员133人 已连续3年缩减](https://www.3dmgame.com/news/202403/3889553.html)
+

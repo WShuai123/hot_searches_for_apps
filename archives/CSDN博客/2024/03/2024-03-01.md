@@ -141,3 +141,7 @@
 
 + [如何使用Windows系统电脑无公网ip远程桌面Ubuntu系统](https://blog.csdn.net/zhoubancheng/article/details/136374772)
 
++ [30天拿下Rust之函数详解](https://blog.csdn.net/hope_wisdom/article/details/136287517)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的活体人脸检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136314164)
+

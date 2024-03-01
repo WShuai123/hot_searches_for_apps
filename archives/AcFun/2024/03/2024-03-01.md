@@ -77,3 +77,9 @@
 
 + [【自翻】Chiikawa第143话「制作/换毛期」ちいかわ](http://www.acfun.cn/v/ac43891446)
 
++ [花好月圆yue【ai QT】](http://www.acfun.cn/v/ac43890639)
+
++ [4K绝版修复 傲慢舞](http://www.acfun.cn/v/ac43889568)
+
++ [画质提升 bubble pop](http://www.acfun.cn/v/ac43889704)
+

@@ -47,3 +47,5 @@
 
 + [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
 
++ [Sora引发安全新挑战，视频还能相信吗？](https://www.freebuf.com/articles/392954.html)
+
