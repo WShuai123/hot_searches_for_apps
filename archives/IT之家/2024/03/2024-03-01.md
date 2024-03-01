@@ -41,3 +41,7 @@
 
 + [消息称小米 Redmi K70 Ultra 手机提速，测试潜望长焦“以下犯上”](https://m.ithome.com/html/752852.htm)
 
++ [全新一汽丰田普拉多车型开启预售：47~57 万元](https://m.ithome.com/html/752825.htm)
+
++ [消息称任天堂 Switch 2 硬件已经完成开发多年，一直在等当前 NS 机型下架](https://m.ithome.com/html/752914.htm)
+

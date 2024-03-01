@@ -169,3 +169,5 @@
 
 + [jenkins+kubernetes+git+dockerhub构建devops云平台](https://blog.csdn.net/m0_68409964/article/details/136327506)
 
++ [第十四篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：深度解读Azure Cognitive Services个性化推荐系统](https://blog.csdn.net/jackchuanqi/article/details/136377920)
+
