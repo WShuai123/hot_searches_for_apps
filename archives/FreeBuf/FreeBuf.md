@@ -49,3 +49,5 @@
 
 + [Sora引发安全新挑战，视频还能相信吗？](https://www.freebuf.com/articles/392954.html)
 
++ [人工智能图像编辑工具遭网络攻击，2000 万用户数据信息泄露](https://www.freebuf.com/news/393017.html)
+

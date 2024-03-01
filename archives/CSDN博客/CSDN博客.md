@@ -145,3 +145,15 @@
 
 + [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的活体人脸检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136314164)
 
++ [大数据旅游数据分析：基于Python旅游数据采集可视化分析推荐系统](https://blog.csdn.net/Myx74270512/article/details/136377811)
+
++ [ElasticSearch架构介绍及原理解析](https://blog.csdn.net/molangmolang/article/details/136334717)
+
++ [[OpenCv]图像增强](https://blog.csdn.net/qq_73427280/article/details/136377954)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/annebab/article/details/136354230)
+
++ [2 开源鸿蒙OpenHarmony4.1源码下载和编译流程](https://blog.csdn.net/qq582880551/article/details/136380350)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136349326)
+

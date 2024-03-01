@@ -33,3 +33,5 @@
 
 + [10 年老手游《植物大战僵尸 2》中国大陆版宣布启动华为鸿蒙原生应用开发](https://m.ithome.com/html/752928.htm)
 
++ [10.98 万元起，比亚迪宋 Pro DM-i 荣耀版汽车上市](https://m.ithome.com/html/752951.htm)
+
