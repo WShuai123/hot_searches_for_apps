@@ -21,3 +21,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [香肠派对](https://www.taptap.cn/app/58881)
+
