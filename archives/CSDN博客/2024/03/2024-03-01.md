@@ -133,3 +133,5 @@
 
 + [鸿蒙媒体开发【简述】](https://blog.csdn.net/m0_62167422/article/details/136352270)
 
++ [如何在Window系统部署BUG管理软件并结合内网穿透实现远程管理本地BUG](https://blog.csdn.net/w2915w/article/details/136375012)
+

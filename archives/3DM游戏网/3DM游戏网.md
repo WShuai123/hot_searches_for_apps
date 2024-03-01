@@ -119,3 +119,9 @@
 
 + [《数码方块地球防卫军2》将于5月23日正式发售](https://www.3dmgame.com/news/202403/3889528.html)
 
++ [Embracer计划5亿美元出售Saber Interactive](https://www.3dmgame.com/news/202403/3889538.html)
+
++ [Kotaku：Gearbox已被决定出售给另一家公司 3月公开](https://www.3dmgame.com/news/202403/3889537.html)
+
++ [实体版《魂斗罗：加鲁加行动》现已接受预定](https://www.3dmgame.com/news/202403/3889536.html)
+
