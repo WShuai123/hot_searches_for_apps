@@ -253,3 +253,9 @@
 
 + [传《无主之地4》领导层团队重组 《小缇娜的奇幻之地2》软重启](https://www.3dmgame.com/news/202403/3889601.html)
 
++ [80后的回忆！国内KTV 9年倒闭7万家 90/00后抛弃](https://www.3dmgame.com/news/202403/3889605.html)
+
++ [360和哪吒汽车战略合作 官宣发布“汽车大模型”](https://www.3dmgame.com/news/202403/3889604.html)
+
++ [《女神异闻录6》或是半开放世界 社交链接更灵活](https://www.3dmgame.com/news/202403/3889603.html)
+

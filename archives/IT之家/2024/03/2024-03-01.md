@@ -67,3 +67,7 @@
 
 + [消息称小米 SM8635 新机采用 1.5K 直屏、2.7D 微曲屏，安排影像联名](https://m.ithome.com/html/752966.htm)
 
++ [供应链称华为 P70 标准版手机搭载豪威 OV50H 后置主摄传感器](https://m.ithome.com/html/752968.htm)
+
++ [中国发现恐龙新属种，命名为“达泰龙”](https://m.ithome.com/html/752921.htm)
+
