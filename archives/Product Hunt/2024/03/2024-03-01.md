@@ -149,3 +149,15 @@
 
 + [Guap](https://www.producthunt.com/posts/guap)
 
++ [Felix AI](https://www.producthunt.com/posts/felix-ai-2)
+
++ [Sora Video AI](https://www.producthunt.com/posts/sora-video-ai)
+
++ [ChatSumo](https://www.producthunt.com/posts/chatsumo)
+
++ [Carvis](https://www.producthunt.com/posts/carvis)
+
++ [Founder Reports](https://www.producthunt.com/posts/founder-reports)
+
++ [Romo AI](https://www.producthunt.com/posts/romo-ai)
+

@@ -63,3 +63,7 @@
 
 + [酷比魔方小酷平板 2 Lite 3 月 5 日开售：号称“安兔兔接近 29 万跑分”，首发价 649 元](https://m.ithome.com/html/752915.htm)
 
++ [10.38 万元起，吉利银河 L6 / L7 龙腾版插电混动汽车上市](https://m.ithome.com/html/753099.htm)
+
++ [消息称小米 SM8635 新机采用 1.5K 直屏、2.7D 微曲屏，安排影像联名](https://m.ithome.com/html/752966.htm)
+
