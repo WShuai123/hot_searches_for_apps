@@ -59,3 +59,5 @@
 
 + [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html)
 
++ [如何安全管理企业终端；网闸还有意义吗 | FB甲方群话题讨论](https://www.freebuf.com/articles/392887.html)
+

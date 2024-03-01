@@ -177,3 +177,5 @@
 
 + [具身智能计算系统，机器人时代的 Android | 新程序员](https://blog.csdn.net/programmer_editor/article/details/136388142)
 
++ [基于大模型思维链（Chain-of-Thought）技术的定制化思维链提示和定向刺激提示的心理咨询场景定向ai智能应用](https://blog.csdn.net/m0_72803988/article/details/136380838)
+
