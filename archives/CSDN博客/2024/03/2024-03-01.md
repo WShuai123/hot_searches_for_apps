@@ -189,3 +189,9 @@
 
 + [文生图的最新进展：从一致性模型CMs、LCM、SDXL到Stable Diffusion3、SDXL-Lightning](https://blog.csdn.net/v_JULY_v/article/details/136318383)
 
++ [Flink——芒果TV的实时数仓建设实践](https://blog.csdn.net/SHWAITME/article/details/136377926)
+
++ [Pytorch从零开始实战19](https://blog.csdn.net/weixin_45959662/article/details/136382558)
+
++ [Unity中URP实现水体（整理优化）](https://blog.csdn.net/qq_51603875/article/details/136377974)
+

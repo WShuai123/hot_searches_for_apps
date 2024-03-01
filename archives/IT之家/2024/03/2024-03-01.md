@@ -53,3 +53,9 @@
 
 + [2024 款理想 L 系列车型价格公布：L7 31.98~37.98 万元、L8 33.98~39.98 万元、L9 42.98~45.98 万元](https://m.ithome.com/html/753105.htm)
 
++ [消息称华为 P70 手机全系标配麒麟 5G 芯片、潜望长焦、卫星通信等](https://m.ithome.com/html/753027.htm)
+
++ [小米 14 Ultra 手机新外观备案](https://m.ithome.com/html/753067.htm)
+
++ [WinRAR 7.0 正式版发布，最高支持 64GB 压缩字典](https://m.ithome.com/html/752998.htm)
+

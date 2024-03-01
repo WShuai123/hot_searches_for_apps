@@ -51,3 +51,29 @@
 
 + [cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker)
 
++ [cloudflare / pingora](https://github.com/cloudflare/pingora)
+
++ [pmndrs / uikit](https://github.com/pmndrs/uikit)
+
++ [moom825 / xeno-rat](https://github.com/moom825/xeno-rat)
+
++ [kyegomez / BitNet](https://github.com/kyegomez/BitNet)
+
++ [microsoft / Security-101](https://github.com/microsoft/Security-101)
+
++ [Pawdroid / Free-servers](https://github.com/Pawdroid/Free-servers)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [wazuh / wazuh](https://github.com/wazuh/wazuh)
+
++ [redis / ioredis](https://github.com/redis/ioredis)
+
++ [evo-design / evo](https://github.com/evo-design/evo)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [bruin-data / ingestr](https://github.com/bruin-data/ingestr)
+
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+

@@ -125,3 +125,17 @@
 
 + [萌宠集合，这才是猛男该看的！第四百二十九期](http://www.acfun.cn/v/ac43891256)
 
++ [笑死我了。。。](http://www.acfun.cn/v/ac43899710)
+
++ [花火cos～扭扭乐](http://www.acfun.cn/v/ac43897849)
+
++ [原来生活中很多细节我们都没有注意到啊，这回学习了](http://www.acfun.cn/v/ac43899696)
+
++ [Miss A Hush](http://www.acfun.cn/v/ac43896516)
+
++ [因为觉得中国留学录取竞争小于是来中国学习的日本人分享他的的中文学习经历](http://www.acfun.cn/v/ac43899709)
+
++ [这是我觉得最容易漂起来的车…](http://www.acfun.cn/v/ac43898292)
+
++ [时代少年团，今晚吃鸡](http://www.acfun.cn/v/ac43899682)
+
