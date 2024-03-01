@@ -27,3 +27,7 @@
 
 + [博主实验室测试小米 14 Ultra 手机“龙晶陶瓷后盖”，声称“大概率就是微晶玻璃”](https://m.ithome.com/html/752913.htm)
 
++ [贾跃亭：库克终究不是乔布斯，苹果放弃造车是个大错误](https://m.ithome.com/html/752810.htm)
+
++ [小鹏汽车回应 P7 因交通事故起火事件：正在积极配合调查](https://m.ithome.com/html/752916.htm)
+

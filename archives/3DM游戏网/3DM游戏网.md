@@ -125,3 +125,31 @@
 
 + [实体版《魂斗罗：加鲁加行动》现已接受预定](https://www.3dmgame.com/news/202403/3889536.html)
 
++ [骑行模拟游戏《Tour de France 2024》Steam页面上线 6月7日发售](https://www.3dmgame.com/news/202403/3889545.html)
+
++ [IGN：在发售一年后 索尼似乎悄悄放弃了PSVR 2](https://www.3dmgame.com/news/202403/3889546.html)
+
++ [《吸血鬼幸存者》发布“Space 54”更新 引入更多太空科幻内容](https://www.3dmgame.com/news/202403/3889547.html)
+
++ [不止《碧海黑帆》 育碧曾将《孤岛惊魂6》也列为4A游戏](https://www.3dmgame.com/news/202403/3889548.html)
+
++ [詹姆斯·古恩《超人：遗产》改名为《超人》](https://www.3dmgame.com/news/202403/3889549.html)
+
++ [体育管理游戏《Pro Cycling Manager 2024》Steam页面上线 6月6日发售](https://www.3dmgame.com/news/202403/3889550.html)
+
++ [《地平线》VR开发商员工：被索尼收购导致环境恶劣](https://www.3dmgame.com/news/202403/3889551.html)
+
++ [《遗迹2》跨平台游戏全平台上线 更多内容等待推出](https://www.3dmgame.com/news/202403/3889552.html)
+
++ [发行商505 Games关闭德国、法国和西班牙办公室](https://www.3dmgame.com/news/202403/3889540.html)
+
++ [《不朽者传奇》总监认为 该作未来将如同《死亡空间》一样成功](https://www.3dmgame.com/news/202403/3889541.html)
+
++ [《王国保卫战5：联盟》即将推出！上线日期待定](https://www.3dmgame.com/news/202403/3889542.html)
+
++ [世嘉聘请前迪士尼高管 担任全球跨媒体负责人](https://www.3dmgame.com/news/202403/3889543.html)
+
++ [《GT赛车7》1.43版本更新上线 添加新车新赛事](https://www.3dmgame.com/news/202403/3889544.html)
+
++ [《铁拳8》现已加入微交易 一些玩家非常愤怒](https://www.3dmgame.com/news/202403/3889539.html)
+

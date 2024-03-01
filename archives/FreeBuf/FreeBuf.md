@@ -45,3 +45,5 @@
 
 + [SCA 技术进阶系列(五): 揭秘运行时SCA - 新视角下的供应链安全革新](https://www.freebuf.com/articles/network/392709.html)
 
++ [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
+
