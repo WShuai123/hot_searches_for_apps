@@ -59,3 +59,7 @@
 
 + [WinRAR 7.0 正式版发布，最高支持 64GB 压缩字典](https://m.ithome.com/html/752998.htm)
 
++ [新款上汽奥迪 A7L 车型宣布上市，41.87~66.62 万元](https://m.ithome.com/html/752970.htm)
+
++ [酷比魔方小酷平板 2 Lite 3 月 5 日开售：号称“安兔兔接近 29 万跑分”，首发价 649 元](https://m.ithome.com/html/752915.htm)
+

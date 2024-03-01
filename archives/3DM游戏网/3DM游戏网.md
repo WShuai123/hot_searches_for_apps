@@ -245,3 +245,7 @@
 
 + [芯片价格将被抬高 权威机构：芯片业面临严重缺水隐患](https://www.3dmgame.com/news/202403/3889597.html)
 
++ [两个独立游戏伪装成《绝地潜兵2》骗钱 已被Steam下架](https://www.3dmgame.com/news/202403/3889600.html)
+
++ [微软表示DirectSR不是新的超分辨率技术](https://www.3dmgame.com/news/202403/3889599.html)
+
