@@ -101,3 +101,7 @@
 
 + [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的活体人脸检测系统（Python+PySide6界面+训练代码）](https://blog.csdn.net/qq_32892383/article/details/136314164)
 
++ [ElasticSearch架构介绍及原理解析](https://blog.csdn.net/molangmolang/article/details/136334717)
+
++ [【Vue3】回顾watch，学习watchEffect](https://blog.csdn.net/null18/article/details/136362755)
+
