@@ -161,3 +161,39 @@
 
 + [手游开发商Wildlife宣布裁员133人 已连续3年缩减](https://www.3dmgame.com/news/202403/3889553.html)
 
++ [《绝地潜兵2》玩家“机械飞升”：用外设快速叫补给](https://www.3dmgame.com/news/202403/3889574.html)
+
++ [英伟达GeForce NOW添加多款动视暴雪游戏：《暗黑破坏神4》等](https://www.3dmgame.com/news/202403/3889569.html)
+
++ [《一拳超人》第三季放出特别预告片 饿狼登场](https://www.3dmgame.com/news/202403/3889573.html)
+
++ [狂降1300！苹果中国需求疲软：国人不买iPhone 15](https://www.3dmgame.com/news/202403/3889572.html)
+
++ [《沙漠大冒险》步行坦克演示 4月25日发售](https://www.3dmgame.com/news/202403/3889571.html)
+
++ [《暗黑破坏神4》终于宣布测试服：但不是每个赛季都有](https://www.3dmgame.com/news/202403/3889570.html)
+
++ [《命运2》守护者游戏全明星预告 新增悬浮滑板！](https://www.3dmgame.com/news/202403/3889560.html)
+
++ [玩家制《最终幻想7：重生》爱丽丝泳装模型 喜欢吗？](https://www.3dmgame.com/news/202403/3889567.html)
+
++ [经典MMO精神续作《卡米洛：解放》确认明年末推出](https://www.3dmgame.com/news/202403/3889566.html)
+
++ [Fami通电击游戏大奖2023提名发布 3月17日公布获奖者](https://www.3dmgame.com/news/202403/3889563.html)
+
++ [《蕾斯莱莉娅娜的炼金工房》早期概念图 大长腿吸睛](https://www.3dmgame.com/news/202403/3889564.html)
+
++ [中国承担全球最大人造太阳主机安装：总工期35个月](https://www.3dmgame.com/news/202403/3889568.html)
+
++ [一份来自2013年的执念与回想，《逆向坍塌：面包房行动》宣布3月22日正式发售](https://www.3dmgame.com/news/202403/3889565.html)
+
++ [卡牌构筑肉鸽游戏《Tamarak Trail》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3889561.html)
+
++ [《我的同居女神竟是小姨子！》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3889562.html)
+
++ [《上古卷轴5》肝帝将角色升到1337级 没用Mod和修改器](https://www.3dmgame.com/news/202403/3889559.html)
+
++ [《碧蓝幻想：Relink》1.1.0更新3月14日上线 添加新Boss战](https://www.3dmgame.com/news/202403/3889557.html)
+
++ [动作类肉鸽游戏《Champion Shift》现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3889558.html)
+

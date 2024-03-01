@@ -35,3 +35,7 @@
 
 + [10.98 万元起，比亚迪宋 Pro DM-i 荣耀版汽车上市](https://m.ithome.com/html/752951.htm)
 
++ [消息称小米汽车门店开建，首批销售网点至少六十家](https://m.ithome.com/html/752905.htm)
+
++ [李楠：魅族 21 Pro 手机是“AI 时代的树莓派”，将对 LLM 大模型团队开放系统权限](https://m.ithome.com/html/752899.htm)
+
