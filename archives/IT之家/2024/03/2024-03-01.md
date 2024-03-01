@@ -49,3 +49,7 @@
 
 + [AMD 的努力以失败告终，无法为 Linux 开源驱动提供 HDMI 2.1+ 功能](https://m.ithome.com/html/752893.htm)
 
++ [“公路高铁”开来了：理想 MPV 车型 MEGA 上市，55.98 万元](https://m.ithome.com/html/753095.htm)
+
++ [2024 款理想 L 系列车型价格公布：L7 31.98~37.98 万元、L8 33.98~39.98 万元、L9 42.98~45.98 万元](https://m.ithome.com/html/753105.htm)
+

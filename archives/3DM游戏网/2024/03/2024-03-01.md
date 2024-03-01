@@ -241,3 +241,7 @@
 
 + [《星空》Steam后台更新 或即将公布新DLC](https://www.3dmgame.com/news/202403/3889588.html)
 
++ [雷军：苹果不造车利好小米汽车 果粉买SU7最佳选择！](https://www.3dmgame.com/news/202403/3889598.html)
+
++ [芯片价格将被抬高 权威机构：芯片业面临严重缺水隐患](https://www.3dmgame.com/news/202403/3889597.html)
+

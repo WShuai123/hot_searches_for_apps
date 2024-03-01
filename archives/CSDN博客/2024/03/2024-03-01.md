@@ -185,3 +185,7 @@
 
 + [ajax+.Net core Web API 场景下的请求参数传递示例](https://blog.csdn.net/dzxdzx341224/article/details/136365807)
 
++ [【SQL server】玩转SQL server数据库：第一章 绪论](https://blog.csdn.net/m0_57532432/article/details/136240803)
+
++ [文生图的最新进展：从一致性模型CMs、LCM、SDXL到Stable Diffusion3、SDXL-Lightning](https://blog.csdn.net/v_JULY_v/article/details/136318383)
+
