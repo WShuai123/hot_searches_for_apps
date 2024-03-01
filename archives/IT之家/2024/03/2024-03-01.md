@@ -45,3 +45,5 @@
 
 + [消息称任天堂 Switch 2 硬件已经完成开发多年，一直在等当前 NS 机型下架](https://m.ithome.com/html/752914.htm)
 
++ [消息称高通骁龙 8 Gen 4 四月设计定档，六月前交付 OEM 样品](https://m.ithome.com/html/752889.htm)
+

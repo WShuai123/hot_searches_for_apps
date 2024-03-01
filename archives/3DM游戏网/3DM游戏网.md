@@ -209,3 +209,17 @@
 
 + [SE没考虑闰年 《最终幻想》音游2月29日无法启动](https://www.3dmgame.com/news/202403/3889580.html)
 
++ [Intel成立全新独立FPGA公司Altera：引领550亿美元市场](https://www.3dmgame.com/news/202403/3889587.html)
+
++ [《七日世界》国服Steam页面 2024年第三季度上线](https://www.3dmgame.com/news/202403/3889586.html)
+
++ [KK对战平台人气新图推荐 剑圣觉醒爽战RUSH，不死族like也能72变？](https://www.3dmgame.com/news/202403/3889585.html)
+
++ [2024年Steam促销和游戏节完整日程公布 秋促冬促日期确定](https://www.3dmgame.com/news/202403/3889584.html)
+
++ [恋爱模拟作品《都要！小孩子才做选择！》Steam页面 2024年第一季度上线](https://www.3dmgame.com/news/202403/3889583.html)
+
++ [世嘉《糖豆人》竞品开发中 或名为《索尼克玩具派对》](https://www.3dmgame.com/news/202403/3889582.html)
+
++ [日本环球影城推出《怪物猎人》20周年纪念餐厅](https://www.3dmgame.com/news/202403/3889581.html)
+

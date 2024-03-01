@@ -55,3 +55,7 @@
 
 + [T3SF：一款功能全面的桌面端技术练习模拟框架](https://www.freebuf.com/sectool/390330.html)
 
++ [自动驾驶功能宕机，竟是因为2月有29天？](https://www.freebuf.com/news/393097.html)
+
++ [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html)
+

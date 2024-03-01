@@ -171,3 +171,9 @@
 
 + [第十四篇【传奇开心果系列】Python的文本和语音相互转换库技术点案例示例：深度解读Azure Cognitive Services个性化推荐系统](https://blog.csdn.net/jackchuanqi/article/details/136377920)
 
++ [Ubuntu系统使用Docker搭建Jupyter Notebook并实现无公网ip远程连接](https://blog.csdn.net/ljq_up/article/details/136390743)
+
++ [计算机网络：数据链路层知识点汇总](https://blog.csdn.net/m0_57180439/article/details/136091290)
+
++ [具身智能计算系统，机器人时代的 Android | 新程序员](https://blog.csdn.net/programmer_editor/article/details/136388142)
+
