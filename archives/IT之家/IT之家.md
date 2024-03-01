@@ -39,3 +39,5 @@
 
 + [李楠：魅族 21 Pro 手机是“AI 时代的树莓派”，将对 LLM 大模型团队开放系统权限](https://m.ithome.com/html/752899.htm)
 
++ [消息称小米 Redmi K70 Ultra 手机提速，测试潜望长焦“以下犯上”](https://m.ithome.com/html/752852.htm)
+

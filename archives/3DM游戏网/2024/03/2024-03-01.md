@@ -197,3 +197,13 @@
 
 + [动作类肉鸽游戏《Champion Shift》现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3889558.html)
 
++ [同为“冷冻食品”？疑似波兰超市大促销 买速冻水饺送《辐射76》](https://www.3dmgame.com/news/202403/3889576.html)
+
++ [亚马逊将推出彩色版Kindle 采用元太彩色电子纸技术](https://www.3dmgame.com/news/202403/3889577.html)
+
++ [沙盒城市建造游戏《避暑山庄》登陆Steam 3月8日正式推出](https://www.3dmgame.com/news/202403/3889578.html)
+
++ [动作冒险游戏《雨魂》Steam抢先体验版宣布3月22日发售 新预告发布](https://www.3dmgame.com/news/202403/3889579.html)
+
++ [《缺氧》2024年更新路线图公布 将推出多个付费DLC](https://www.3dmgame.com/news/202403/3889575.html)
+
