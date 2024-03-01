@@ -47,3 +47,5 @@
 
 + [消息称高通骁龙 8 Gen 4 四月设计定档，六月前交付 OEM 样品](https://m.ithome.com/html/752889.htm)
 
++ [AMD 的努力以失败告终，无法为 Linux 开源驱动提供 HDMI 2.1+ 功能](https://m.ithome.com/html/752893.htm)
+

@@ -223,3 +223,21 @@
 
 + [日本环球影城推出《怪物猎人》20周年纪念餐厅](https://www.3dmgame.com/news/202403/3889581.html)
 
++ [日本画师绘制超逼真立体画 实物跃然纸上难辨真假](https://www.3dmgame.com/news/202403/3889595.html)
+
++ [《怪物猎人》20周年纪念直播3月12日举行 不会公布《怪物猎人：荒野》新消息](https://www.3dmgame.com/news/202403/3889596.html)
+
++ [周星驰《少林女足》或将开始海选 寻找美丽出众的靓女](https://www.3dmgame.com/news/202403/3889594.html)
+
++ [经典老牌压缩软件！WinRAR 7.0正式版发布：支持最高64GB压缩字典](https://www.3dmgame.com/news/202403/3889593.html)
+
++ [奔驰放弃全电动车计划 欧洲人对电动车也兴趣不大](https://www.3dmgame.com/news/202403/3889592.html)
+
++ [重玩《最终幻想7：重生》 可以让角色全程穿比基尼](https://www.3dmgame.com/news/202403/3889591.html)
+
++ [拉瑞安工作室广招人才：被裁的人可以来我们这儿](https://www.3dmgame.com/news/202403/3889590.html)
+
++ [《绝地潜兵2》开发者确认 平衡性补丁正在开发中](https://www.3dmgame.com/news/202403/3889589.html)
+
++ [《星空》Steam后台更新 或即将公布新DLC](https://www.3dmgame.com/news/202403/3889588.html)
+

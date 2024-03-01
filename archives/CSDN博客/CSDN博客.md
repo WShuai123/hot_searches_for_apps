@@ -179,3 +179,9 @@
 
 + [基于大模型思维链（Chain-of-Thought）技术的定制化思维链提示和定向刺激提示的心理咨询场景定向ai智能应用](https://blog.csdn.net/m0_72803988/article/details/136380838)
 
++ [【计算机网络】HTTP协议](https://blog.csdn.net/YoungMLet/article/details/136267761)
+
++ [使用Docker搭建一款实用的个人IT工具箱——It-Tools](https://blog.csdn.net/st200112266/article/details/136392978)
+
++ [ajax+.Net core Web API 场景下的请求参数传递示例](https://blog.csdn.net/dzxdzx341224/article/details/136365807)
+
