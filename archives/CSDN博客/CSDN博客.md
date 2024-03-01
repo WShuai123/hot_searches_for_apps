@@ -105,3 +105,29 @@
 
 + [【Vue3】回顾watch，学习watchEffect](https://blog.csdn.net/null18/article/details/136362755)
 
++ [[计算机网络]--MAC/ARP/DNS协议](https://blog.csdn.net/qq_61552595/article/details/136331509)
+
++ [Sora - 探索AI视频模型的无限可能](https://blog.csdn.net/2301_80221228/article/details/136404732)
+
++ [如何使用 Socket.IO、Angular 和 Node.js 创建实时应用程序](https://blog.csdn.net/rubys007/article/details/136354958)
+
++ [深度探讨 Golang 中并发发送 HTTP 请求的最佳技术](https://blog.csdn.net/2303_77146628/article/details/136357819)
+
++ [【机器学习】特征选择之包裹式特征选择法](https://blog.csdn.net/m0_74195174/article/details/136358951)
+
++ [机器学习：解析未来的数据世界](https://blog.csdn.net/double222222/article/details/136403908)
+
++ [spring boot3解决跨域的几种方式](https://blog.csdn.net/qq_62262918/article/details/136334332)
+
++ [第104讲：数据库分库分表的意义与实现策略（MyCat）](https://blog.csdn.net/weixin_44953658/article/details/136361776)
+
++ [如何使用Windows系统电脑无公网ip远程桌面Ubuntu系统](https://blog.csdn.net/zhoubancheng/article/details/136374772)
+
++ [Linux中 LVM 逻辑盘卷管理](https://blog.csdn.net/jxjdhdnd/article/details/136342686)
+
++ [SpringBoot使用jsoup爬取HTML](https://blog.csdn.net/feiying0canglang/article/details/129494483)
+
++ [Vue3中组件通讯的方式](https://blog.csdn.net/qq_36877763/article/details/136372805)
+
++ [【计算机网络】五种IO模型与IO多路转接之select](https://blog.csdn.net/qq_67582098/article/details/136404048)
+
