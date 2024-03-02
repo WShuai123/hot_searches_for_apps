@@ -201,3 +201,7 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+
++ [王者营地](https://itunes.apple.com/cn/app/id1102305688?mt=8)
+
