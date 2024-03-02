@@ -101,3 +101,5 @@
 
 + [《碧蓝幻想：Relink》1.1.0更新3月14日上线 添加新Boss战](https://www.3dmgame.com/news/202403/3889557.html)
 
++ [《盗贼之海》联合开发商Radical Forge裁员](https://www.3dmgame.com/news/202403/3889609.html)
+
