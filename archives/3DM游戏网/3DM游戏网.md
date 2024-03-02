@@ -137,3 +137,11 @@
 
 + [《龙之信条2》“魔剑士”实机预告 3月22日发售](https://www.3dmgame.com/news/202403/3889626.html)
 
++ [多款Steam游戏改名《绝地潜兵2》《幻兽帕鲁》诓骗玩家](https://www.3dmgame.com/news/202403/3889630.html)
+
++ [《幻兽帕鲁》赚钱方法被削 玩家造黑商折磨装置明抢](https://www.3dmgame.com/news/202403/3889627.html)
+
++ [《自杀小队：消灭正义联盟》放弃周更节奏 备战第一赛季](https://www.3dmgame.com/news/202403/3889628.html)
+
++ [《开拓者：绞架尖塔幸存者》公布正式版上市日期](https://www.3dmgame.com/news/202403/3889629.html)
+

@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 新WiFi漏洞可能影响23亿安卓用户；NIST发布网络安全框架2.0版本](https://www.freebuf.com/news/392990.html)
 
++ [Atlassian Confluence SSTI RCE(CVE-2023-22527)详细漏洞分析](https://www.freebuf.com/vuls/392545.html)
+

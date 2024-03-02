@@ -149,3 +149,15 @@
 
 + [SQL语句创建数据库](https://blog.csdn.net/molangmolang/article/details/136334807)
 
++ [SpringBoot 事务失效及其对应解决办法](https://blog.csdn.net/zhouzhiwengang/article/details/136359656)
+
++ [可视化FAISS矢量空间并调整RAG参数提高结果精度](https://blog.csdn.net/m0_46510245/article/details/136388533)
+
++ [【Rust】——结构体struct](https://blog.csdn.net/shsjssnn/article/details/136031014)
+
++ [【Linux系统化学习】信号的保存](https://blog.csdn.net/qq_55119554/article/details/136394664)
+
++ [深度神经网络联结主义的本质](https://blog.csdn.net/gongdiwudu/article/details/136379100)
+
++ [【OpenCV】绘制桌面锁屏时钟](https://blog.csdn.net/sxyang2018/article/details/136400103)
+
