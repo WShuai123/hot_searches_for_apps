@@ -51,3 +51,23 @@
 
 + [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core)
+
++ [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [memorysafety / river](https://github.com/memorysafety/river)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [python-poetry / poetry](https://github.com/python-poetry/poetry)
+
++ [microsoft / unilm](https://github.com/microsoft/unilm)
+
++ [FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs)
+
++ [embedchain / embedchain](https://github.com/embedchain/embedchain)
+

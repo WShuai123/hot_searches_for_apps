@@ -67,3 +67,7 @@
 
 + [长安汽车回应“车辆刚出 4S 店自燃”：报道不实，正配合开展事故调查](https://m.ithome.com/html/753223.htm)
 
++ [小米汽车 SU7 全新配色蓝灰、橙、暗紫曝光，此前已官宣三种配色](https://m.ithome.com/html/753301.htm)
+
++ [智己 LS6 车型限时直降 10000 元，售价 21.99 万起](https://m.ithome.com/html/753203.htm)
+

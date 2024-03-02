@@ -187,3 +187,5 @@
 
 + [《深岩银河》推出6年后 很快将支持英伟达DLSS 3](https://www.3dmgame.com/news/202403/3889651.html)
 
++ [《博德之门3》Xbox实体版将需要3-4个光碟](https://www.3dmgame.com/news/202403/3889652.html)
+
