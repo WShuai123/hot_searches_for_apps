@@ -157,3 +157,13 @@
 
 + [周边泄露2024年《使命召唤：黑色行动》标志设计](https://www.3dmgame.com/news/202403/3889632.html)
 
++ [保时捷同款！小米汽车介绍自建油泥造型实验室](https://www.3dmgame.com/news/202403/3889641.html)
+
++ [真人互动视频游戏《典狱长的乐园》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202403/3889637.html)
+
++ [《刺客信条：RED》引擎详情：为游戏系列的新时代打造](https://www.3dmgame.com/news/202403/3889640.html)
+
++ [AMD市值突破3000亿美元 今年股价已涨46.23%](https://www.3dmgame.com/news/202403/3889639.html)
+
++ [R星要求员工重返办公室上班 多位员工表示非常不满](https://www.3dmgame.com/news/202403/3889638.html)
+

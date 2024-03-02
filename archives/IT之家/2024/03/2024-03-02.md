@@ -43,3 +43,9 @@
 
 + [吉利汽车 2 月销量 11.14 万辆：含 9120 辆银河、7510 辆极氪](https://m.ithome.com/html/753156.htm)
 
++ [华为联合设计，问界 M5 智驾版车型预告配置更新、5 月开启交付](https://m.ithome.com/html/753209.htm)
+
++ [魅族 21 Pro 手机今日首销：旗下首款开放式 AI 终端，4999 元起](https://m.ithome.com/html/753207.htm)
+
++ [小米官宣米家大吸力油烟机新品，3 月 4 日发布](https://m.ithome.com/html/753121.htm)
+

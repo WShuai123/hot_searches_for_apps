@@ -117,3 +117,19 @@
 
 + [Cerbos Hub](https://www.producthunt.com/posts/cerbos-hub)
 
++ [RipeOrNot AI - For Avocados](https://www.producthunt.com/posts/ripeornot-ai-for-avocados)
+
++ [Viral Ideas](https://www.producthunt.com/posts/viral-ideas)
+
++ [REOK.PRO](https://www.producthunt.com/posts/reok-pro)
+
++ [thinkstack.AI](https://www.producthunt.com/posts/thinkstack-ai)
+
++ [Digital Creators' Hub](https://www.producthunt.com/posts/digital-creators-hub)
+
++ [Myriad Social](https://www.producthunt.com/posts/myriad-social)
+
++ [Visionboard for Vision Pro](https://www.producthunt.com/posts/visionboard-for-vision-pro)
+
++ [PTube](https://www.producthunt.com/posts/ptube)
+
