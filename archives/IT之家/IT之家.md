@@ -41,3 +41,5 @@
 
 + [16 款苹果 2024 年 iPad 和 iPhone 芯片信息曝光](https://m.ithome.com/html/753193.htm)
 
++ [吉利汽车 2 月销量 11.14 万辆：含 9120 辆银河、7510 辆极氪](https://m.ithome.com/html/753156.htm)
+

@@ -167,3 +167,5 @@
 
 + [【SQL server】玩转SQL server数据库：第二章 关系数据库](https://blog.csdn.net/m0_57532432/article/details/136240615)
 
++ [数据之光：探索数据库技术的演进之路](https://blog.csdn.net/Srlua/article/details/136398960)
+

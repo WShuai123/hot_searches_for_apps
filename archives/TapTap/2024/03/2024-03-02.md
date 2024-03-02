@@ -27,3 +27,5 @@
 
 + [逃离园区2：青龙山庄的生存艺术](https://www.taptap.cn/app/549103)
 
++ [情商天花板](https://www.taptap.cn/app/284374)
+

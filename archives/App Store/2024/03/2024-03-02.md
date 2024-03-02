@@ -205,3 +205,9 @@
 
 + [美柚 - 经期·备孕·怀孕·育儿](https://itunes.apple.com/cn/app/id634896669?mt=8)
 
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
++ [米家](https://itunes.apple.com/cn/app/id957323480?mt=8)
+
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

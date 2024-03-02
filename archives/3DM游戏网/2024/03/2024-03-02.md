@@ -147,3 +147,13 @@
 
 + [浙江出版传媒发文说《黑神话》 版号获批 送审画面公布](https://www.3dmgame.com/news/202403/3889631.html)
 
++ [美国伊利诺伊州一警局发布“使命召唤”招募广告引争议](https://www.3dmgame.com/news/202403/3889636.html)
+
++ [视频号AI伪造声音拼凑视频！刘德华方提醒警惕骗局](https://www.3dmgame.com/news/202403/3889634.html)
+
++ [传闻：《对马岛之鬼》或将于5号宣布登陆PC平台](https://www.3dmgame.com/news/202403/3889635.html)
+
++ [微软发布财务版Copilot：可加速对账、洞察数据](https://www.3dmgame.com/news/202403/3889633.html)
+
++ [周边泄露2024年《使命召唤：黑色行动》标志设计](https://www.3dmgame.com/news/202403/3889632.html)
+
