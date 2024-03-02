@@ -205,3 +205,9 @@
 
 + [王者营地](https://itunes.apple.com/cn/app/id1102305688?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [乐播投屏-亿万用户必备的无线投屏助手](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
