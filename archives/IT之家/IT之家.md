@@ -61,3 +61,5 @@
 
 + [中国东航第五架 C919 国产大飞机交付入列](https://m.ithome.com/html/753218.htm)
 
++ [天钡推出 GEM12 迷你主机：R7-7840HS，可选配副屏指纹、双网口，2359 元起](https://m.ithome.com/html/753184.htm)
+
