@@ -63,3 +63,7 @@
 
 + [天钡推出 GEM12 迷你主机：R7-7840HS，可选配副屏指纹、双网口，2359 元起](https://m.ithome.com/html/753184.htm)
 
++ [奇瑞捷途大圣龙腾版 SUV 车型上市：提供 1.5T / 1.6T 动力，11.79 万元起](https://m.ithome.com/html/753182.htm)
+
++ [长安汽车回应“车辆刚出 4S 店自燃”：报道不实，正配合开展事故调查](https://m.ithome.com/html/753223.htm)
+

@@ -185,3 +185,5 @@
 
 + [《自杀小队：消灭正义联盟》发售一个月便打折 PC版没人玩了](https://www.3dmgame.com/news/202403/3889648.html)
 
++ [《深岩银河》推出6年后 很快将支持英伟达DLSS 3](https://www.3dmgame.com/news/202403/3889651.html)
+
