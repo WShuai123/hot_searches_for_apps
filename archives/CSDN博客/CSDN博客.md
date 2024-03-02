@@ -165,3 +165,5 @@
 
 + [视觉AIGC识别——人脸伪造检测、误差特征 + 不可见水印](https://blog.csdn.net/wtyuong/article/details/136387976)
 
++ [【SQL server】玩转SQL server数据库：第二章 关系数据库](https://blog.csdn.net/m0_57532432/article/details/136240615)
+

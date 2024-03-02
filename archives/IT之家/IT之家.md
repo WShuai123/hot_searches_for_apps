@@ -39,3 +39,5 @@
 
 + [雷军：小米公益基金会向国家自然科学基金委员会捐赠 1 亿元](https://m.ithome.com/html/753148.htm)
 
++ [16 款苹果 2024 年 iPad 和 iPhone 芯片信息曝光](https://m.ithome.com/html/753193.htm)
+
