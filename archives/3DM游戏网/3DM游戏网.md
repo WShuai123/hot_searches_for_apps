@@ -175,3 +175,7 @@
 
 + [传《暗喻幻想：ReFantazio》或将于今年10月12日发售](https://www.3dmgame.com/news/202403/3889642.html)
 
++ [索尼领跑2023年智能手机图像传感器市场 三星和豪威紧随其后](https://www.3dmgame.com/news/202403/3889647.html)
+
++ [黄仁勋：通用人工智能预计最快五年内问世 可通过任何人类测试](https://www.3dmgame.com/news/202403/3889646.html)
+

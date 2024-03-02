@@ -185,3 +185,5 @@
 
 + [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_77645750/article/details/136379509)
 
++ [Mysql与StarRocks语法上的不同](https://blog.csdn.net/CSBIGDOG/article/details/136347252)
+

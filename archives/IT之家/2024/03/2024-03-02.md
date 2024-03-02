@@ -59,3 +59,5 @@
 
 + [广汽三菱更名湖南智享汽车，三菱已退出股东行列](https://m.ithome.com/html/753205.htm)
 
++ [中国东航第五架 C919 国产大飞机交付入列](https://m.ithome.com/html/753218.htm)
+
