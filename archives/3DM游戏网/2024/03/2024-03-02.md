@@ -133,3 +133,7 @@
 
 + [虚幻引擎5.3制作新版沙丘沙漠景观技术演示视频赏](https://www.3dmgame.com/news/202403/3889616.html)
 
++ [据称Bioware对《龙腾世纪4：恐狼》今年内发布很有信心](https://www.3dmgame.com/news/202403/3889625.html)
+
++ [《龙之信条2》“魔剑士”实机预告 3月22日发售](https://www.3dmgame.com/news/202403/3889626.html)
+
