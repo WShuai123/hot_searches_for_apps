@@ -101,3 +101,31 @@
 
 + [【架构之路】糟糕程序员的20个坏习惯,切记要改掉](https://blog.csdn.net/jinxinxin1314/article/details/136359727)
 
++ [特征工程9大方法](https://blog.csdn.net/qq_55948984/article/details/136402828)
+
++ [挑战英伟达，需要另辟蹊径](https://blog.csdn.net/Gabriel100yi/article/details/136419683)
+
++ [Linux系统Docker部署StackEdit Markdown并实现公网访问本地编辑器](https://blog.csdn.net/weixin_74888502/article/details/136371375)
+
++ [【FFmpeg】ffmpeg 命令行参数 ④ ( ffmpeg 视频参数解析 | 设置视频帧数 | 设置视频码率 | 设置视频帧率 | 设置视频宽高 | 设置视频宽高比 | 设置视频滤镜 )](https://blog.csdn.net/han1202012/article/details/136339530)
+
++ [鸿蒙OS应用编程实战：构建未来应用的基石](https://blog.csdn.net/qq_44273429/article/details/136374281)
+
++ [计算机网络【网络安全】](https://blog.csdn.net/shangguanliubei/article/details/136410765)
+
++ [YOLOv9论文解析与VisDrone无人机目标检测训练](https://blog.csdn.net/weixin_43937010/article/details/136378868)
+
++ [外包干了3个多月，技术退步明显。。。。](https://blog.csdn.net/2301_79535544/article/details/136406739)
+
++ [对于爬虫的学习](https://blog.csdn.net/qq_52326978/article/details/136400197)
+
++ [实现mysql和es数据同步的两大工具——Logstash和Canal](https://blog.csdn.net/geuejfwhje/article/details/136424639)
+
++ [新王炸：文生视频Sora模型发布，能否引爆AI芯片热潮](https://blog.csdn.net/CC1991_/article/details/136366453)
+
++ [Vue中的事件总线(EventBus)是什么？它有什么优点和缺点？](https://blog.csdn.net/qq278672818/article/details/136380088)
+
++ [UniApp Vue 3 中的网络请求封装详解及用法](https://blog.csdn.net/u010362741/article/details/136328007)
+
++ [Google发布Genie硬杠Sora：通过大量无监督视频训练最终生成可交互虚拟世界](https://blog.csdn.net/v_JULY_v/article/details/136358994)
+
