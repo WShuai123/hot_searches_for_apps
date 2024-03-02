@@ -167,3 +167,11 @@
 
 + [R星要求员工重返办公室上班 多位员工表示非常不满](https://www.3dmgame.com/news/202403/3889638.html)
 
++ [华纳游戏招聘创意总监 负责3A热门IP新作项目开发](https://www.3dmgame.com/news/202403/3889645.html)
+
++ [数毛社：《最终幻想7：重生》性能表现略低于前作间章](https://www.3dmgame.com/news/202403/3889644.html)
+
++ [Meta提醒：将于本月底删除所有旧Oculus账号](https://www.3dmgame.com/news/202403/3889643.html)
+
++ [传《暗喻幻想：ReFantazio》或将于今年10月12日发售](https://www.3dmgame.com/news/202403/3889642.html)
+

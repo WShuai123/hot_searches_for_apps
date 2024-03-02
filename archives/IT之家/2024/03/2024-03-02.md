@@ -49,3 +49,7 @@
 
 + [小米官宣米家大吸力油烟机新品，3 月 4 日发布](https://m.ithome.com/html/753121.htm)
 
++ [零跑 C10 正式上市：增程 / 纯电双车型，12.88 万元起](https://m.ithome.com/html/753259.htm)
+
++ [华为“全国都能开”技术加持，问界 M7 Max 车型无图城区 NCA 开启规模推送](https://m.ithome.com/html/753144.htm)
+
