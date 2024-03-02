@@ -115,3 +115,21 @@
 
 + [ARPG《恶意不息》4月18日登陆Steam抢先体验](https://www.3dmgame.com/news/202403/3889610.html)
 
++ [《心灵杀手2》作曲家为配乐用成人玩具“侵犯”钢琴](https://www.3dmgame.com/news/202403/3889624.html)
+
++ [《逃生：试炼》开发长达6年 原本可以更快推出《逃生3》](https://www.3dmgame.com/news/202403/3889623.html)
+
++ [《不可思议的幻想乡-FORESIGHT-》Steam页面上线 5月14日发售](https://www.3dmgame.com/news/202403/3889622.html)
+
++ [《歧路旅人》初代从美区eShop下架 或因发行权变更](https://www.3dmgame.com/news/202403/3889621.html)
+
++ [《超能敢死队:冰封之城》最终预告 3月22日上映](https://www.3dmgame.com/news/202403/3889620.html)
+
++ [《恶意不息》有昼夜循环 战利品分白蓝紫黄四个等级](https://www.3dmgame.com/news/202403/3889619.html)
+
++ [《超级马里奥64》修改版加入无限随机生成关卡](https://www.3dmgame.com/news/202403/3889618.html)
+
++ [《星空》新更新测试3月6日上线 改进照相模式](https://www.3dmgame.com/news/202403/3889617.html)
+
++ [虚幻引擎5.3制作新版沙丘沙漠景观技术演示视频赏](https://www.3dmgame.com/news/202403/3889616.html)
+
