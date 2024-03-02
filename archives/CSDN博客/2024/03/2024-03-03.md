@@ -129,3 +129,7 @@
 
 + [Google发布Genie硬杠Sora：通过大量无监督视频训练最终生成可交互虚拟世界](https://blog.csdn.net/v_JULY_v/article/details/136358994)
 
++ [Pytorch中张量的高级选择操作](https://blog.csdn.net/m0_46510245/article/details/136414682)
+
++ [iOS卡顿原因与优化](https://blog.csdn.net/IOSSHAN/article/details/136388511)
+

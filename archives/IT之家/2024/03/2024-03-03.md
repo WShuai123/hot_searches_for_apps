@@ -25,3 +25,5 @@
 
 + [10999 元起，苹果中国官网开售翻新版 14 英寸 M3 MacBook Pro](https://m.ithome.com/html/753290.htm)
 
++ [16 款苹果 2024 年 iPad 和 iPhone 所用芯片信息曝光](https://m.ithome.com/html/753193.htm)
+
