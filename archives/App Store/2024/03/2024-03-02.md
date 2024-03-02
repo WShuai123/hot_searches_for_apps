@@ -211,3 +211,7 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [网易有道词典-开学必备](https://itunes.apple.com/cn/app/id353115739?mt=8)
+
++ [京东特价版-省出新生活](https://itunes.apple.com/cn/app/id1500875111?mt=8)
+

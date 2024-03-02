@@ -177,3 +177,11 @@
 
 + [C++的晨曦之旅：开启编程的新篇章](https://blog.csdn.net/zhoubancheng/article/details/136357800)
 
++ [VS Code（Visual Studio Code）本地（local）和远程（ssh）Docker Container 下的 Python 开发和调试](https://blog.csdn.net/i6101206007/article/details/136258002)
+
++ [Google发布Genie硬杠Sora：通过大量无监督视频训练最终生成可交互虚拟世界](https://blog.csdn.net/v_JULY_v/article/details/136358994)
+
++ [2D割草/吸血鬼游戏 性能优化——GPU Spine动画](https://blog.csdn.net/final5788/article/details/136402255)
+
++ [外包干了3个月，技术退步明显。。。。。](https://blog.csdn.net/2301_77645750/article/details/136379509)
+
