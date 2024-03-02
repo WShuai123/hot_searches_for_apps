@@ -161,3 +161,7 @@
 
 + [【OpenCV】绘制桌面锁屏时钟](https://blog.csdn.net/sxyang2018/article/details/136400103)
 
++ [【Linux实践室】Linux初体验](https://blog.csdn.net/2301_80026901/article/details/136381669)
+
++ [视觉AIGC识别——人脸伪造检测、误差特征 + 不可见水印](https://blog.csdn.net/wtyuong/article/details/136387976)
+
