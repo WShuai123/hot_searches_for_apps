@@ -27,3 +27,7 @@
 
 + [16 款苹果 2024 年 iPad 和 iPhone 所用芯片信息曝光](https://m.ithome.com/html/753193.htm)
 
++ [《黑神话：悟空》出版单位发文：快速过审如获官方“优秀游戏”奖章一样](https://m.ithome.com/html/753309.htm)
+
++ [理想汽车商业副总裁刘杰：20 万元以上新能源车三强必有理想、问界，年底见分晓](https://m.ithome.com/html/753311.htm)
+
