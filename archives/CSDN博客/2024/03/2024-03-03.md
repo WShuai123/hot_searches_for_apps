@@ -171,3 +171,5 @@
 
 + [外包干了3个月，技术倒退2年。。。](https://blog.csdn.net/apex_eixl/article/details/136404209)
 
++ [SpringCloud-MQ消息队列](https://blog.csdn.net/weixin_41793160/article/details/136424920)
+

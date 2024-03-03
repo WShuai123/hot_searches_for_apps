@@ -141,3 +141,11 @@
 
 + [《沉睡旅行》Steam页面上线 死亡睡眠冒险](https://www.3dmgame.com/news/202403/3889669.html)
 
++ [迫力爆表 超霸气《高达SEED》毁灭高达首次HG 1／144钢普拉化](https://www.3dmgame.com/news/202403/3889676.html)
+
++ [关闭按钮小如蚂蚁！代表建议继续规范手机App弹窗广告](https://www.3dmgame.com/news/202403/3889675.html)
+
++ [《拆建公司3》免费体验序章现已登陆Steam平台](https://www.3dmgame.com/news/202403/3889674.html)
+
++ [亡羊补牢 《收获日3》“医疗包行动”补丁现已发布](https://www.3dmgame.com/news/202403/3889673.html)
+

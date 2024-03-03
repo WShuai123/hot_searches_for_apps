@@ -105,3 +105,7 @@
 
 + [laminar](https://www.producthunt.com/posts/laminar-2)
 
++ [Calorieasy](https://www.producthunt.com/posts/calorieasy)
+
++ [WisdomPlan](https://www.producthunt.com/posts/wisdomplan)
+

@@ -13,3 +13,7 @@
 
 + [人物专访丨对话董景博：车机主题皮肤设计](https://www.ui.cn/detail/560434.html)
 
++ [关于我和UI中国的故事，关于我和iconsbox的故事](https://www.ui.cn/detail/629667.html)
+
++ [当设计遇上AI——百度APP装扮体验AI创新探索](https://www.ui.cn/detail/662415.html)
+
