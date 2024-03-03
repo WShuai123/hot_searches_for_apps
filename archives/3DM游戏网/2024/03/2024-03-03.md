@@ -107,3 +107,7 @@
 
 + [《The Brew Barons》登陆Steam 飞机酒场经营RPG](https://www.3dmgame.com/news/202403/3889655.html)
 
++ [类《银河恶魔城》游戏《暗影回响》公布 今秋发售](https://www.3dmgame.com/news/202403/3889656.html)
+
++ [《法术圆盘》登陆Steam 肉鸽元素法术战斗](https://www.3dmgame.com/news/202403/3889657.html)
+

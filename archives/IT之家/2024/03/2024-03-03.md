@@ -35,3 +35,5 @@
 
 + [Copilot 发疯化身「天网」扬言要统治人类，微软澄清网友却不买账：去年也疯过](https://m.ithome.com/html/753320.htm)
 
++ [Sora 首个受害者：好莱坞 8 亿美元投资计划黄了](https://m.ithome.com/html/753284.htm)
+
