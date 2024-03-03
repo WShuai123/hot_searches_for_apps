@@ -135,3 +135,13 @@
 
 + [【YOLO v5 v7 v8 小目标改进】中心化特征金字塔（CFP） = 特征金字塔 + 显式视觉中心（EVC）+ 全局集中调节（GCR）](https://blog.csdn.net/qq_41739364/article/details/136403535)
 
++ [第六篇：人工智能与机器学习技术VS数据迁移（Data Migration）--- 我为什么要翻译介绍美国人工智能科技巨头IAB公司？](https://blog.csdn.net/weixin_45278215/article/details/136382678)
+
++ [从零开始看poi-tl源码-2 XWPFDocument介绍](https://blog.csdn.net/weixin_39098935/article/details/136420115)
+
++ [redisson 限流实战开发](https://blog.csdn.net/qq_47923467/article/details/136423577)
+
++ [猫头虎的技术林: 加速你的Python项目 - 如何配置国内pip下载源](https://blog.csdn.net/qq_44866828/article/details/136395347)
+
++ [快速开发一个鸿蒙的页面](https://blog.csdn.net/shenshizhong/article/details/136394068)
+

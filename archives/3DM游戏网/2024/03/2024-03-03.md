@@ -101,3 +101,9 @@
 
 + [《女神异闻录6》或是半开放世界 社交链接更灵活](https://www.3dmgame.com/news/202403/3889603.html)
 
++ [再创新纪录！Steam同时在线峰值超3400万](https://www.3dmgame.com/news/202403/3889653.html)
+
++ [《龙之信条2》已入围Steam热销榜 距离发售还有3周](https://www.3dmgame.com/news/202403/3889654.html)
+
++ [《The Brew Barons》登陆Steam 飞机酒场经营RPG](https://www.3dmgame.com/news/202403/3889655.html)
+

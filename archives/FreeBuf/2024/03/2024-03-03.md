@@ -45,3 +45,5 @@
 
 + [2023年工业控制网络安全态势白皮书](https://www.freebuf.com/articles/ics-articles/392238.html)
 
++ [【总结】对大量函数进行trace调用流程+国际AIS3题](https://www.freebuf.com/defense/392786.html)
+
