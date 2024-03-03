@@ -133,3 +133,11 @@
 
 + [粉丝推测《生化危机5》重制版消息快要来了](https://www.3dmgame.com/news/202403/3889658.html)
 
++ [《最终幻想7：重生》联动版保时捷亮相 超酷炫涂装911](https://www.3dmgame.com/news/202403/3889672.html)
+
++ [《百英雄传》本月中旬进行封闭测试 仅限众筹玩家参与](https://www.3dmgame.com/news/202403/3889670.html)
+
++ [女子故意不接快递员电话 索赔获利3.7万元被抓](https://www.3dmgame.com/news/202403/3889671.html)
+
++ [《沉睡旅行》Steam页面上线 死亡睡眠冒险](https://www.3dmgame.com/news/202403/3889669.html)
+

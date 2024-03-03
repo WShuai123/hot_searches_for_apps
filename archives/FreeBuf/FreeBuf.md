@@ -49,3 +49,5 @@
 
 + [USB 设备开发：从入门到实践指南（一）](https://www.freebuf.com/articles/endpoint/392941.html)
 
++ [ASM-Guard：一款功能强大的代码压缩、优化和封装工具](https://www.freebuf.com/sectool/390340.html)
+
