@@ -181,3 +181,7 @@
 
 + [Elasticsearch：如何创建搜索引擎](https://blog.csdn.net/UbuntuTouch/article/details/136430866)
 
++ [解决spark数据倾斜](https://blog.csdn.net/qq_36213530/article/details/136429382)
+
++ [性别和年龄的视频实时监测项目](https://blog.csdn.net/qq_39297053/article/details/136271614)
+
