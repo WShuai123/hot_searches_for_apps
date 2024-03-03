@@ -25,3 +25,5 @@
 
 + [比亚迪元 PLUS 荣耀版 3 月 4 日上市，新增黑骑士车身颜色](https://m.ithome.com/html/753389.htm)
 
++ [鸿蒙生态又一里程碑，深圳发布政策支持开源鸿蒙原生应用发展](https://m.ithome.com/html/753345.htm)
+

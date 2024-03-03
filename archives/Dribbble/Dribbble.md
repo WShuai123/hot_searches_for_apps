@@ -49,3 +49,23 @@
 
 + [Tiny Tini's Martini Room](https://dribbble.com/shots/)
 
++ [MEZZO: Editable Illustrator Grain Textures - Now Available!](https://dribbble.com/shots/)
+
++ [An illustration for a book by JRS](https://dribbble.com/shots/)
+
++ [Doodle illustrations](https://dribbble.com/shots/)
+
++ [Quirky Eagle Character](https://dribbble.com/shots/)
+
++ [FIERY FATE](https://dribbble.com/shots/)
+
++ [Apple](https://dribbble.com/shots/)
+
++ [Logo Folio Vol. 8](https://dribbble.com/shots/)
+
++ [Tarot card #10: Wheel of Fortune](https://dribbble.com/shots/)
+
++ [Sweetland](https://dribbble.com/shots/)
+
++ [Blo-Me! Bubble Gum](https://dribbble.com/shots/)
+
