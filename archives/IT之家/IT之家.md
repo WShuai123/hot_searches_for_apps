@@ -55,3 +55,5 @@
 
 + [消息称三星 Galaxy S25 系列手机启用新处理器品牌，不再区分 Exynos 和骁龙](https://m.ithome.com/html/753324.htm)
 
++ [小鹏 P7i / G6/2024 款 G9 推出限时购车政策，最高优惠 5 万元](https://m.ithome.com/html/753344.htm)
+

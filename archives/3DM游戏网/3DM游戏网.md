@@ -163,3 +163,9 @@
 
 + [功耗1000W！英伟达明年推出Blackwell架构B200](https://www.3dmgame.com/news/202403/3889683.html)
 
++ [《热辣滚烫》票房超34亿 北美定档3月8日](https://www.3dmgame.com/news/202403/3889686.html)
+
++ [消息称英伟达正在开发一个高端PC掌机](https://www.3dmgame.com/news/202403/3889685.html)
+
++ [传Switch 2性能可媲美PS4 Pro](https://www.3dmgame.com/news/202403/3889684.html)
+
