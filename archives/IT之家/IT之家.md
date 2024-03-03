@@ -53,3 +53,5 @@
 
 + [极星手机 Polestar Phone 工信部证件照出炉，基于魅族 21 Pro 设计](https://m.ithome.com/html/753334.htm)
 
++ [消息称三星 Galaxy S25 系列手机启用新处理器品牌，不再区分 Exynos 和骁龙](https://m.ithome.com/html/753324.htm)
+
