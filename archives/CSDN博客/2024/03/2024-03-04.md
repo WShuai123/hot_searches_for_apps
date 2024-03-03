@@ -131,3 +131,17 @@
 
 + [基于YOLOv的目标追踪与无人机前端查看系统开发](https://blog.csdn.net/2202_75568470/article/details/136438743)
 
++ [全国大学生智能汽车竞赛2024年专家组会议](https://blog.csdn.net/zhuoqingjoking97298/article/details/136417496)
+
++ [基于YOLOv7对水中鱼类的目标检测(附完整代码含模型)](https://blog.csdn.net/Dryhten/article/details/136417735)
+
++ [【学术精选】遥感领域高水平期刊：J-STARS 期刊介绍](https://blog.csdn.net/qq_36396104/article/details/136219698)
+
++ [Spring Bean的生命周期](https://blog.csdn.net/m0_73857228/article/details/136310219)
+
++ [论文研读_基于决策变量分类的多目标多因素遗传算法，用于多目标多任务优化问题（HMOMFMA）精简版](https://blog.csdn.net/ckm1377214/article/details/136384739)
+
++ [操作系统（1）——学习导论（Ⅱ）](https://blog.csdn.net/weixin_74888502/article/details/136439093)
+
++ [[C++]C++使用yolov9结合bytetrack实现目标追踪演示](https://blog.csdn.net/FL1623863129/article/details/136437620)
+

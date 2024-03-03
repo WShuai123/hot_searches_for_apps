@@ -103,3 +103,11 @@
 
 + [《最终幻想7：重生》总监：游戏获得90分以上评分是个人目标](https://www.3dmgame.com/news/202403/3889691.html)
 
++ [AMD平台始终未能兼容Intel Wi-Fi 7无线网卡](https://www.3dmgame.com/news/202403/3889695.html)
+
++ [《房产达人》获得新DLC 可以让玩家经营餐厅](https://www.3dmgame.com/news/202403/3889694.html)
+
++ [《GTA5》战神Mod抢先体验版截图分享](https://www.3dmgame.com/news/202403/3889693.html)
+
++ [裁员后EA《星球大战》战略游戏后仍在开发中](https://www.3dmgame.com/news/202403/3889692.html)
+
