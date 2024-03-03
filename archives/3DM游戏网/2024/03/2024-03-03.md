@@ -149,3 +149,9 @@
 
 + [亡羊补牢 《收获日3》“医疗包行动”补丁现已发布](https://www.3dmgame.com/news/202403/3889673.html)
 
++ [《索尼克：未知边境》开发团队回忆制作过程遇到难题](https://www.3dmgame.com/news/202403/3889677.html)
+
++ [团队射击游戏《TRIBES 3: Rivals》即将进入抢先体验](https://www.3dmgame.com/news/202403/3889678.html)
+
++ [MIT新研究 AI威胁工作论被夸大现阶段无需担心](https://www.3dmgame.com/news/202403/3889679.html)
+

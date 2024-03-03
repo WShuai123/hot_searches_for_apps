@@ -41,3 +41,9 @@
 
 + [中国移动 7593.51 万台智能家庭网关集采：创维、中兴、华为、九联等 10 家中标](https://m.ithome.com/html/753319.htm)
 
++ [简体中文成为 Steam 平台最常用语言，2024 年 2 月软硬件调查出炉](https://m.ithome.com/html/753312.htm)
+
++ [华为联合设计，AITO 问界新 M7 车型上市 170 天累计交付超 10 万台](https://m.ithome.com/html/753352.htm)
+
++ [贾跃亭，凭什么骂高合是行业的耻辱](https://m.ithome.com/html/753347.htm)
+
