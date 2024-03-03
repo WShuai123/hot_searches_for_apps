@@ -47,3 +47,5 @@
 
 + [【总结】对大量函数进行trace调用流程+国际AIS3题](https://www.freebuf.com/defense/392786.html)
 
++ [USB 设备开发：从入门到实践指南（一）](https://www.freebuf.com/articles/endpoint/392941.html)
+
