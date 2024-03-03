@@ -77,3 +77,17 @@
 
 + [哼哼！](http://www.acfun.cn/v/ac43910065)
 
++ [她惊讶得目瞪口呆，仿佛整个世界都在瞬间静止了....(今日好笑开心视频：1381)](http://www.acfun.cn/v/ac43909940)
+
++ [萌宠集合，这才是猛男该看的！第四百三十期](http://www.acfun.cn/v/ac43901171)
+
++ [果然，男人都少不了那一眼！★手机竖屏1078★](http://www.acfun.cn/v/ac43909381)
+
++ [拆解日本售价50元的松下插排看设计与做工](http://www.acfun.cn/v/ac43912308)
+
++ [这是高二学生呀](http://www.acfun.cn/v/ac43911996)
+
++ [弱音 Bingle Bangle](http://www.acfun.cn/v/ac43904503)
+
++ [【配音二创】橡果国际最新广告 啊啊！声音水素的声音！！！！！！！！！！](http://www.acfun.cn/v/ac43906541)
+

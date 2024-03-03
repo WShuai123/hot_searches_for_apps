@@ -111,3 +111,25 @@
 
 + [《法术圆盘》登陆Steam 肉鸽元素法术战斗](https://www.3dmgame.com/news/202403/3889657.html)
 
++ [玩家吐槽《古墓丽影三部曲：重制版》Epic版更优化 官方回应是错觉](https://www.3dmgame.com/news/202403/3889668.html)
+
++ [《星刃》战斗风格演示 节奏爽快外加多种武器变化](https://www.3dmgame.com/news/202403/3889667.html)
+
++ [日本ATM机引入AI系统 帮助老年人远离电信诈骗](https://www.3dmgame.com/news/202403/3889666.html)
+
++ [《辐射》电视剧制片人：这部剧基本相当于《辐射5》](https://www.3dmgame.com/news/202403/3889665.html)
+
++ [NFT元宇宙它又来了！Ape元宇宙游戏开测令人难绷](https://www.3dmgame.com/news/202403/3889664.html)
+
++ [仿西瓜游戏新游《水果山》公开 年内登陆多平台](https://www.3dmgame.com/news/202403/3889663.html)
+
++ [《命运2》正考虑添加类似《光环》8v8大型团队战模式](https://www.3dmgame.com/news/202403/3889662.html)
+
++ [《绝地潜兵2》武器显示4项属性 实际多达50项！](https://www.3dmgame.com/news/202403/3889661.html)
+
++ [《ZERO PROTOCOL》Steam页面上线 SF恐怖冒险](https://www.3dmgame.com/news/202403/3889660.html)
+
++ [快递员称30分钟送完的货如今12小时 网友称不如放驿站](https://www.3dmgame.com/news/202403/3889659.html)
+
++ [粉丝推测《生化危机5》重制版消息快要来了](https://www.3dmgame.com/news/202403/3889658.html)
+
