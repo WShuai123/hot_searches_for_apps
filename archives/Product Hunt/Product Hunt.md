@@ -101,3 +101,7 @@
 
 + [Mailbob](https://www.producthunt.com/posts/mailbob)
 
++ [Marble](https://www.producthunt.com/posts/marble-17be6118-341b-4c01-a03a-77ea9358c066)
+
++ [Perfect Pick](https://www.producthunt.com/posts/perfect-pick)
+
