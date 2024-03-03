@@ -57,3 +57,9 @@
 
 + [小鹏 P7i / G6/2024 款 G9 推出限时购车政策，最高优惠 5 万元](https://m.ithome.com/html/753344.htm)
 
++ [华为 Mate X5 手机“流体盔甲”揭秘：日常使用柔软无感知、受到冲击变硬挡伤害](https://m.ithome.com/html/753385.htm)
+
++ [华为技术加持：鸿蒙智行问界、智界推出限时购车权益，最高 5.7 万元](https://m.ithome.com/html/753339.htm)
+
++ [继欧盟后，俄罗斯计划立法要求苹果开放 iOS 第三方应用商店](https://m.ithome.com/html/753330.htm)
+

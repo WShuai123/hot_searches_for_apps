@@ -169,3 +169,7 @@
 
 + [传Switch 2性能可媲美PS4 Pro](https://www.3dmgame.com/news/202403/3889684.html)
 
++ [马来西亚官方郑重承诺：尽快恢复搜索马航MH370](https://www.3dmgame.com/news/202403/3889688.html)
+
++ [《卧龙：苍天陨落》发售1周年 光荣发布贺图](https://www.3dmgame.com/news/202403/3889687.html)
+
