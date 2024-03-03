@@ -51,3 +51,43 @@
 
 + [embedchain / embedchain](https://github.com/embedchain/embedchain)
 
++ [layerdiffusion / sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+
++ [naver / dust3r](https://github.com/naver/dust3r)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [cooderl / wewe-rss](https://github.com/cooderl/wewe-rss)
+
++ [ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [pydantic / FastUI](https://github.com/pydantic/FastUI)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [ente-io / ente](https://github.com/ente-io/ente)
+
++ [vercel / ai](https://github.com/vercel/ai)
+
++ [bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2)
+
++ [adrianhajdin / brainwave](https://github.com/adrianhajdin/brainwave)
+
++ [microsoft / Security-101](https://github.com/microsoft/Security-101)
+
++ [nodejs / nodejs.org](https://github.com/nodejs/nodejs.org)
+
++ [jafioti / luminal](https://github.com/jafioti/luminal)
+
++ [allenai / OLMo](https://github.com/allenai/OLMo)
+
++ [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [alireza0 / s-ui](https://github.com/alireza0/s-ui)
+
++ [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit)
+
++ [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+

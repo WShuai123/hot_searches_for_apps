@@ -161,3 +161,5 @@
 
 + [Switch2资深业者分析 未采用最领先芯片并延期为避免缺货](https://www.3dmgame.com/news/202403/3889681.html)
 
++ [功耗1000W！英伟达明年推出Blackwell架构B200](https://www.3dmgame.com/news/202403/3889683.html)
+
