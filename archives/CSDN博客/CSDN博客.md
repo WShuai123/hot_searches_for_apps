@@ -107,3 +107,27 @@
 
 + [iOS卡顿原因与优化](https://blog.csdn.net/IOSSHAN/article/details/136388511)
 
++ [AMD CTO访谈全文：AI推理芯片需求猛增，GPU供应短缺必将缓解](https://blog.csdn.net/Gabriel100yi/article/details/136435709)
+
++ [探索设计模式的魅力：备忘录模式揭秘-实现时光回溯、一键还原、后悔药、历史的守护者和穿越时空隧道](https://blog.csdn.net/danci_/article/details/136386929)
+
++ [【SQL server】玩转SQL server数据库：第三章 关系数据库标准语言SQL（一）模式、表、索引与视图](https://blog.csdn.net/m0_57532432/article/details/135587275)
+
++ [Python爬虫北京天气预报数据可视化分析大屏系统 开题报告](https://blog.csdn.net/u013818205/article/details/136344344)
+
++ [数据库系统架构与DBMS功能探微：现代信息时代数据管理的关键](https://blog.csdn.net/Srlua/article/details/136436874)
+
++ [【MySQL】：约束全解析](https://blog.csdn.net/a1657054242/article/details/136432776)
+
++ [TCP协议](https://blog.csdn.net/m0_65465009/article/details/136410040)
+
++ [微服务介绍](https://blog.csdn.net/weixin_57763462/article/details/136439828)
+
++ [循环神经网络LSTM做预测](https://blog.csdn.net/qq_52491868/article/details/136257326)
+
++ [【计算机网络】深度学习HTTPS协议](https://blog.csdn.net/smile_sundays/article/details/136428481)
+
++ [web3 | 去中心化内容发布平台mirror.xyz](https://blog.csdn.net/inthat/article/details/126757957)
+
++ [基于YOLOv的目标追踪与无人机前端查看系统开发](https://blog.csdn.net/2202_75568470/article/details/136438743)
+
