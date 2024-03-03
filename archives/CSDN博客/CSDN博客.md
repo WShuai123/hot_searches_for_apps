@@ -175,3 +175,9 @@
 
 + [Docusaurus框架——react+antd+echarts自定义mdx生成图表代码解释文档](https://blog.csdn.net/qq_38870145/article/details/136423711)
 
++ [使用TensorRT-LLM进行生产环境的部署指南](https://blog.csdn.net/m0_46510245/article/details/136427065)
+
++ [【SpringBoot】mybaitsPlus的多数据源配置](https://blog.csdn.net/m0_62645012/article/details/136418624)
+
++ [Elasticsearch：如何创建搜索引擎](https://blog.csdn.net/UbuntuTouch/article/details/136430866)
+

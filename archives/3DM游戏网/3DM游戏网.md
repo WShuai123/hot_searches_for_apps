@@ -155,3 +155,9 @@
 
 + [MIT新研究 AI威胁工作论被夸大现阶段无需担心](https://www.3dmgame.com/news/202403/3889679.html)
 
++ [《幻兽帕鲁》MOD在地图上显示所有帕鲁当前位置](https://www.3dmgame.com/news/202403/3889682.html)
+
++ [全新视角体验 《匹诺曹的谎言》第一人称MOD发布](https://www.3dmgame.com/news/202403/3889680.html)
+
++ [Switch2资深业者分析 未采用最领先芯片并延期为避免缺货](https://www.3dmgame.com/news/202403/3889681.html)
+
