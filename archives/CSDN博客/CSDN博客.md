@@ -101,3 +101,29 @@
 
 + [CPO-GRU 基于豪猪算法优化门控循环单元神经网络实现风电预测附matlab代码](https://blog.csdn.net/qq_59747472/article/details/136439238)
 
++ [如何使用Python Flask发布web页面至公网并实现远程访问【内网穿透】](https://blog.csdn.net/weixin_74888502/article/details/136456097)
+
++ [Java水商品纯净水商城配送系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136437410)
+
++ [基于主从模式的Reactor的仿muduo网络库](https://blog.csdn.net/VHhhbb/article/details/136441191)
+
++ [探索Linux世界：初次接触和基本指令（文件操作）](https://blog.csdn.net/qq_74415153/article/details/136458673)
+
++ [Three.js--》探寻Cannon.js构建震撼的3D物理交互体验（一）](https://blog.csdn.net/qq_53123067/article/details/136437006)
+
++ [论文研读_基于决策变量分类的多目标多因素遗传算法，用于多目标多任务优化问题（HMOMFMA）精简版](https://blog.csdn.net/ckm1377214/article/details/136384739)
+
++ [Midjourney：AI绘画真的能替代人类的丹青妙笔吗？](https://blog.csdn.net/qq_51646682/article/details/136455460)
+
++ [我们距离AGI还有多远？](https://blog.csdn.net/Gabriel100yi/article/details/136466671)
+
++ [Vue.js大师: 构建动态Web应用的全面指南](https://blog.csdn.net/m0_59230408/article/details/135482671)
+
++ [群晖Synology Drive服务搭建结合内网穿透实现云同步Obsidian笔记文件夹](https://blog.csdn.net/Aileenvov/article/details/136461686)
+
++ [如何在飞书接入ChatGPT并结合内网穿透实现公网远程访问智能AI助手](https://blog.csdn.net/qiuqiushuibx/article/details/136454669)
+
++ [如何在 Angular 中使用 ViewChild 来访问子组件、指令或 DOM 元素](https://blog.csdn.net/rubys007/article/details/136355043)
+
++ [如何使用Docker搭建StackEdit编辑器并结合内网穿透实现远程办公](https://blog.csdn.net/ks_wyf/article/details/136426980)
+
