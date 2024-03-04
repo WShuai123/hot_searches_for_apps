@@ -45,3 +45,7 @@
 
 + [ApateWeb：一场大规模流氓安全软件、PUP感染和网络诈骗活动](https://www.freebuf.com/articles/network/392826.html)
 
++ [个人信息为什么更喜欢谈“去标识化”？](https://www.freebuf.com/articles/database/392729.html)
+
++ [FreeBuf 早报 | Epic否认“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html)
+

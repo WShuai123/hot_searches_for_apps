@@ -113,3 +113,29 @@
 
 + [重生娱乐被取消的《星战》FPS首批细节曝光](https://www.3dmgame.com/news/202403/3889696.html)
 
++ [《阴角恋爱喜剧》确定登陆Switch/Steam 怪胎男攻略日常](https://www.3dmgame.com/news/202403/3889709.html)
+
++ [《地狱潜者2》总监回应与《光环》的比较：需要更多的团结而非竞争](https://www.3dmgame.com/news/202403/3889708.html)
+
++ [《恶意不息》新实机演示 画面震撼游戏操作细腻](https://www.3dmgame.com/news/202403/3889707.html)
+
++ [名作《黄金神威》真人剧最新预告公开 确定今秋开播](https://www.3dmgame.com/news/202403/3889706.html)
+
++ [《三角战略》发售2周年贺图 开发者称今年不会公布新内容](https://www.3dmgame.com/news/202403/3889705.html)
+
++ [Switch模拟器Yuzu对任天堂提起的诉讼进行了回应 将对簿公堂](https://www.3dmgame.com/news/202403/3889704.html)
+
++ [简体中文超越英文 成为Steam平台最常用语言](https://www.3dmgame.com/news/202403/3889703.html)
+
++ [《沙丘2》北美首周末票房大爆 斩获8150万美元](https://www.3dmgame.com/news/202403/3889702.html)
+
++ [《最终幻想7：重生》性能模式修复补丁正在开发中 即将上线](https://www.3dmgame.com/news/202403/3889700.html)
+
++ [Steam打破同时在线玩家纪录 超3460万玩家同时在线](https://www.3dmgame.com/news/202403/3889701.html)
+
++ [《绝地潜兵2》将加入多个载具 包括装甲运兵车](https://www.3dmgame.com/news/202403/3889699.html)
+
++ [《部落3：对抗》3月12日Steam抢测 团队射击对抗](https://www.3dmgame.com/news/202403/3889698.html)
+
++ [《辐射》电视剧就像是“辐射5” 新海报曝光](https://www.3dmgame.com/news/202403/3889697.html)
+
