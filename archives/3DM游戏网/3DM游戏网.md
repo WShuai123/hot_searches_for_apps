@@ -167,3 +167,9 @@
 
 + [《秒速5厘米》上映17周年 新海诚曝光未使用海报提案](https://www.3dmgame.com/news/202403/3889723.html)
 
++ [制作人遭遇变故但仍未放弃 《小朋友齐打交2》翻新版公布现况进展](https://www.3dmgame.com/news/202403/3889725.html)
+
++ [角色越来越丑！玩家用行动反抗LGBTQ+组织干扰游戏开发：夺回我们失去的东西](https://www.3dmgame.com/news/202403/3889726.html)
+
++ [《无常幻境》众筹开启 前《上古卷轴》开发者奇幻RPG新作](https://www.3dmgame.com/news/202403/3889724.html)
+

@@ -165,3 +165,9 @@
 
 + [uniapp聊天记录本地存储(详细易懂)](https://blog.csdn.net/m0_66570642/article/details/136428477)
 
++ [【FPGA/IC】CRC电路的Verilog实现](https://blog.csdn.net/wuzhikaidetb/article/details/136441181)
+
++ [政务浏览器——打通信创闭环最后一公里](https://blog.csdn.net/chenlycly/article/details/136445944)
+
++ [如何使用Docker搭建StackEdit编辑器并结合内网穿透实现远程办公](https://blog.csdn.net/ks_wyf/article/details/136426980)
+
