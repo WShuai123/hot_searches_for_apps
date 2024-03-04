@@ -111,3 +111,5 @@
 
 + [裁员后EA《星球大战》战略游戏后仍在开发中](https://www.3dmgame.com/news/202403/3889692.html)
 
++ [重生娱乐被取消的《星战》FPS首批细节曝光](https://www.3dmgame.com/news/202403/3889696.html)
+

@@ -41,3 +41,7 @@
 
 + [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html)
 
++ [FreeBuf 早报 | Epic否认其遭黑客入侵“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html)
+
++ [ApateWeb：一场大规模流氓安全软件、PUP感染和网络诈骗活动](https://www.freebuf.com/articles/network/392826.html)
+

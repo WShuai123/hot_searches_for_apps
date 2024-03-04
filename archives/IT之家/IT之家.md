@@ -29,3 +29,5 @@
 
 + [苹果 iPhone SE 4 CAD 渲染图曝光，全新设计类似 iPhone 14](https://m.ithome.com/html/753422.htm)
 
++ [佳能：目前没有商用相机能满足苹果 Vision Pro 的超高分辨率需求](https://m.ithome.com/html/753397.htm)
+
