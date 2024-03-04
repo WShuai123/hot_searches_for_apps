@@ -75,3 +75,14 @@
 
 + [Books](https://dribbble.com/shots/)
 
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [Studying exploration based on Rene Paul Chambellan's works](https://dribbble.com/shots/)
+
++ [Hand with Nature](https://dribbble.com/shots/)
+
++ [Flower on Saturn - chocolate 
+packaging design](https://dribbble.com/shots/)
+
