@@ -65,3 +65,5 @@
 
 + [4 月 1 日起，国内多地未备案 App、小程序、快应用等将下架关停](https://m.ithome.com/html/753548.htm)
 
++ [搭载 M3 芯片的 2024 款苹果 MacBook Air 发布，售价 8999 元起](https://m.ithome.com/html/753622.htm)
+
