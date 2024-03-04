@@ -127,3 +127,17 @@
 
 + [如何使用Docker搭建StackEdit编辑器并结合内网穿透实现远程办公](https://blog.csdn.net/ks_wyf/article/details/136426980)
 
++ [30天拿下Rust之枚举](https://blog.csdn.net/hope_wisdom/article/details/136439111)
+
++ [Elasticsearch：向量相似度计算 - 可笑的速度](https://blog.csdn.net/UbuntuTouch/article/details/136448652)
+
++ [探索Hadoop的三种运行模式：单机模式、伪分布式模式和完全分布式模式](https://blog.csdn.net/weixin_52986315/article/details/136310851)
+
++ [DevOps学习 | 如何应对IT服务交付中的问题？](https://blog.csdn.net/qq_35716689/article/details/136454837)
+
++ [基于豪猪算法优化双向长短时记忆CPO-BiLSTM风电数据预测（含前后对比）附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136439338)
+
++ [探究大语言模型如何使用长上下文](https://blog.csdn.net/fyfugoyfa/article/details/136459471)
+
++ [告别信息搜寻烦恼：用fastgpt快速部署国内大模型知识库助手](https://blog.csdn.net/xianyu120/article/details/136454242)
+

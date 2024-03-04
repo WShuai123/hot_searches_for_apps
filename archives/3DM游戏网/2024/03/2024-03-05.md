@@ -103,3 +103,21 @@
 
 + [8999元起！苹果M3版本MacBook Air 13/15发布](https://www.3dmgame.com/news/202403/3889752.html)
 
++ [微软在百思买独家销售海绵宝宝外观Xbox游戏机](https://www.3dmgame.com/news/202403/3889761.html)
+
++ [消息称重生娱乐正开发系列新作但并非《泰坦陨落3》](https://www.3dmgame.com/news/202403/3889760.html)
+
++ [如果或《幻兽帕鲁》在2006年登陆任天堂NDS](https://www.3dmgame.com/news/202403/3889759.html)
+
++ [任天堂有望在本周日公开《纸片马里奥RPG》发售日](https://www.3dmgame.com/news/202403/3889758.html)
+
++ [《Temtem》将最后更新并删除微交易功能](https://www.3dmgame.com/news/202403/3889757.html)
+
++ [即时战略塔防新作《灾厄堡垒》7/16登陆PC](https://www.3dmgame.com/news/202403/3889756.html)
+
++ [《沙丘：觉醒》“求生厄拉科斯”新预告片分享](https://www.3dmgame.com/news/202403/3889755.html)
+
++ [Xbox合作伙伴预览节目定于3月6日举行](https://www.3dmgame.com/news/202403/3889754.html)
+
++ [Yuzu模拟器创建者接受任天堂要求 达成庭外和解](https://www.3dmgame.com/news/202403/3889753.html)
+

@@ -25,3 +25,5 @@
 
 + [4 月 1 日起，国内多地未备案 App、小程序、快应用等将下架关停](https://m.ithome.com/html/753548.htm)
 
++ [小米 Redmi G Pro 2024 游戏本发布：i9-14900HX + RTX4060，售价 8999 元](https://m.ithome.com/html/753599.htm)
+
