@@ -195,3 +195,5 @@
 
 + [基于主从模式的Reactor的仿muduo网络库](https://blog.csdn.net/VHhhbb/article/details/136441191)
 
++ [如何本地创建websocket服务端并发布到公网实现远程访问](https://blog.csdn.net/zhoubancheng/article/details/136456095)
+

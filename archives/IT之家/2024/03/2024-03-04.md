@@ -55,3 +55,7 @@
 
 + [小米 Redmi G Pro 2024 游戏本上架：至高 i9-14900HX + RTX 4060，210W 性能释放](https://m.ithome.com/html/753475.htm)
 
++ [雷军 2024 年两会建议：从义务教育阶段普及人工智能素养教育、规范自主代客泊车功能应用等](https://m.ithome.com/html/753459.htm)
+
++ [“1 天内 9 家车企宣布降价”登热搜，新能源汽车价格战愈演愈烈](https://m.ithome.com/html/753569.htm)
+

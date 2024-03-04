@@ -203,3 +203,9 @@
 
 + [宝可梦卡牌“剑&盾”系列第四弹补充包震撼出击](https://www.3dmgame.com/news/202403/3889741.html)
 
++ [R星招聘广告暗示《GTA6》将在2025年3月左右发售](https://www.3dmgame.com/news/202403/3889744.html)
+
++ [《霍格沃茨之遗》续作或采用虚幻5引擎](https://www.3dmgame.com/news/202403/3889743.html)
+
++ [LG OLED显示器32GS95UE 4月上市 售价将超1万元](https://www.3dmgame.com/news/202403/3889742.html)
+
