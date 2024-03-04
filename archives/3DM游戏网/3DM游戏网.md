@@ -139,3 +139,29 @@
 
 + [《辐射》电视剧就像是“辐射5” 新海报曝光](https://www.3dmgame.com/news/202403/3889697.html)
 
++ [日本职业电竞战队MOZE领队突然失联 多达17名选手寻找新组织](https://www.3dmgame.com/news/202403/3889720.html)
+
++ [《最终幻想7：重生》总监透露 续作中可操作文森特和希德](https://www.3dmgame.com/news/202403/3889721.html)
+
++ [小米14 Ultra海外爆火：超3成消费者愿立刻购买！](https://www.3dmgame.com/news/202403/3889722.html)
+
++ [独立游戏开发商的100个“套娃”计划 100只猫系列游戏受好评](https://www.3dmgame.com/news/202403/3889718.html)
+
++ [《生化危机4：重制版》在发售前一个月遭遇诸多问题 还好解决了](https://www.3dmgame.com/news/202403/3889719.html)
+
++ [《辐射》真人剧集新剧照 钢铁兄弟会震撼亮相](https://www.3dmgame.com/news/202403/3889714.html)
+
++ [《B1》登陆Steam 类《八番出口》惊悚解谜新作](https://www.3dmgame.com/news/202403/3889715.html)
+
++ [《冲就完事模拟器》2024年更新路线图公布 包含神秘新闻](https://www.3dmgame.com/news/202403/3889716.html)
+
++ [消息称苹果春季发布会取消 八大重磅新品线上发布](https://www.3dmgame.com/news/202403/3889717.html)
+
++ [《星露谷物语》作者：1.6版本更新将远超玩家想象](https://www.3dmgame.com/news/202403/3889710.html)
+
++ [满分物理效果手游《板球编年史》 现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3889711.html)
+
++ [动画电影《间谍过家家代号白》确定引进 档期待定](https://www.3dmgame.com/news/202403/3889712.html)
+
++ [《星刃》女主三位同伴介绍 性感长发女队长登场](https://www.3dmgame.com/news/202403/3889713.html)
+

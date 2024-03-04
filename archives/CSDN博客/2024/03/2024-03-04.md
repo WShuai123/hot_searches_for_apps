@@ -153,3 +153,9 @@
 
 + [如何在 Angular 中使用 ViewChild 来访问子组件、指令或 DOM 元素](https://blog.csdn.net/rubys007/article/details/136355043)
 
++ [基于SpringBoot+Vue大学生网络教学平台设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/136442629)
+
++ [2024最新AI系统ChatGPT网站源码, AI绘画系统](https://blog.csdn.net/weixin_47059371/article/details/136426298)
+
++ [基于Spring Boot+Vue的论坛网站](https://blog.csdn.net/Yaml4/article/details/136435816)
+

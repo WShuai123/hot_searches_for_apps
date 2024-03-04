@@ -33,3 +33,15 @@
 
 + [马来西亚交通部长：将尽快恢复对马航 MH370 的搜索工作](https://m.ithome.com/html/753406.htm)
 
++ [11.98 万元起，比亚迪元 PLUS 荣耀版车型上市](https://m.ithome.com/html/753445.htm)
+
++ [电影《沙丘 2》海外上映口碑佳：烂番茄新鲜度 94%，3 月 8 日国内上映](https://m.ithome.com/html/753420.htm)
+
++ [布加迪推出全新 V16 发动机，开启电气化新篇章](https://m.ithome.com/html/753416.htm)
+
++ [马斯克称全新特斯拉 Roadster 跑车零百加速不到一秒，Rimac CEO 回应](https://m.ithome.com/html/753409.htm)
+
++ [特斯拉 Model 3 高性能版谍照再次曝光，或即将上市](https://m.ithome.com/html/753413.htm)
+
++ [古尔曼：苹果计划通过线上渠道发布 2024 款 iPad 和 Mac](https://m.ithome.com/html/753421.htm)
+
