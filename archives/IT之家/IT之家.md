@@ -45,3 +45,5 @@
 
 + [古尔曼：苹果计划通过线上渠道发布 2024 款 iPad 和 Mac](https://m.ithome.com/html/753421.htm)
 
++ [苹果公司有望本周通过新闻稿形式发布 OLED iPad Pro / M3 MacBook Air 等产品](https://m.ithome.com/html/753427.htm)
+
