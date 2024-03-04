@@ -209,3 +209,9 @@
 
 + [LG OLED显示器32GS95UE 4月上市 售价将超1万元](https://www.3dmgame.com/news/202403/3889742.html)
 
++ [外媒：苹果造车太想颠覆行业 野心太大注定失败](https://www.3dmgame.com/news/202403/3889747.html)
+
++ [恐怖游戏《寂静岭》迎来发售25周年](https://www.3dmgame.com/news/202403/3889746.html)
+
++ [Remedy《控制》衍生作将支持第一人称](https://www.3dmgame.com/news/202403/3889745.html)
+
