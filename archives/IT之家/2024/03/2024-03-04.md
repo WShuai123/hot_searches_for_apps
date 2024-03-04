@@ -47,3 +47,9 @@
 
 + [苹果公司有望本周通过新闻稿形式发布 OLED iPad Pro / M3 MacBook Air 等产品](https://m.ithome.com/html/753427.htm)
 
++ [消息称小米 15 系列手机全系测试汇顶单点超声波指纹，标准版维持小直屏设计](https://m.ithome.com/html/753478.htm)
+
++ [华为 P70 系列手机第三方保护壳曝光，高辨识度相机 Deco 设计](https://m.ithome.com/html/753476.htm)
+
++ [京东修订《包邮规则》：除偏远地区外，3 月 19 日起普及“满 59 元包邮”](https://m.ithome.com/html/753448.htm)
+

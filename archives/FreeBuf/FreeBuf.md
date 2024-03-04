@@ -63,3 +63,9 @@
 
 + [由于AI的爆火，黑客攻击将严重影响美国选举](https://www.freebuf.com/news/393194.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html)
+
++ [SmuggleFuzz：一款功能强大的高级HTTP降级走私安全扫描工具](https://www.freebuf.com/sectool/391937.html)
+

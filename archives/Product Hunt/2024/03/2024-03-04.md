@@ -107,3 +107,41 @@
 
 + [DOTHING](https://www.producthunt.com/posts/dothing)
 
++ [Text Summarizer AI](https://www.producthunt.com/posts/text-summarizer-ai)
+
++ [AutoPrompt](https://www.producthunt.com/posts/autoprompt)
+
++ [Listener.fm](https://www.producthunt.com/posts/listener-fm)
+
++ [streamr](https://www.producthunt.com/posts/streamr)
+
++ [Parallel Labs](https://www.producthunt.com/posts/parallel-labs)
+
++ [Synthesys X²](https://www.producthunt.com/posts/synthesys-x-2)
+
++ [GPTs.Fan](https://www.producthunt.com/posts/gpts-fan)
+
++ [Owly - GPT powered spam blocker](https://www.producthunt.com/posts/owly-gpt-powered-spam-blocker)
+
++ [Inductor](https://www.producthunt.com/posts/inductor)
+
++ [PoopUp](https://www.producthunt.com/posts/poopup)
+
++ [Wondercraft](https://www.producthunt.com/posts/wondercraft)
+
++ [OSO AI](https://www.producthunt.com/posts/oso-ai)
+
++ [LaraFast - Laravel SaaS Boilerplate](https://www.producthunt.com/posts/larafast-laravel-saas-boilerplate)
+
++ [Corgea](https://www.producthunt.com/posts/corgea)
+
++ [D-ID Agents](https://www.producthunt.com/posts/d-id-agents)
+
++ [Pixelied Color Palette Generator](https://www.producthunt.com/posts/pixelied-color-palette-generator)
+
++ [PixelFree Studio](https://www.producthunt.com/posts/pixelfree-studio)
+
++ [Musicboard](https://www.producthunt.com/posts/musicboard)
+
++ [UiWidgets](https://www.producthunt.com/posts/uiwidgets)
+
