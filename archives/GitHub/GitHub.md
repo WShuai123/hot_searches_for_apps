@@ -51,3 +51,25 @@
 
 + [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
 
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [marcusGoncalvess / zap-gpt](https://github.com/marcusGoncalvess/zap-gpt)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [lining808 / CS-Ebook](https://github.com/lining808/CS-Ebook)
+
++ [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
++ [Klipper3d / klipper](https://github.com/Klipper3d/klipper)
+
++ [merill / awesome-entra](https://github.com/merill/awesome-entra)
+
++ [FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs)
+
++ [FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts)
+

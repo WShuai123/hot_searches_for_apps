@@ -53,3 +53,5 @@
 
 + [京东修订《包邮规则》：除偏远地区外，3 月 19 日起普及“满 59 元包邮”](https://m.ithome.com/html/753448.htm)
 
++ [小米 Redmi G Pro 2024 游戏本上架：至高 i9-14900HX + RTX 4060，210W 性能释放](https://m.ithome.com/html/753475.htm)
+

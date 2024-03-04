@@ -187,3 +187,11 @@
 
 + [基于ARIMA+SARIMA的航空公司 RPM 时间序列预测模型](https://blog.csdn.net/m0_64336780/article/details/135999717)
 
++ [【NR 定位】3GPP NR Positioning 5G定位标准解读（五）](https://blog.csdn.net/u011376987/article/details/136435232)
+
++ [Vision Transformers的注意力层概念解释和代码实现](https://blog.csdn.net/m0_46510245/article/details/136445551)
+
++ [基于设计模式(策略)实现对不同类型或状态的业务逻辑分发及解耦](https://blog.csdn.net/u012392387/article/details/136409978)
+
++ [基于主从模式的Reactor的仿muduo网络库](https://blog.csdn.net/VHhhbb/article/details/136441191)
+
