@@ -101,3 +101,5 @@
 
 + [Musicboard](https://www.producthunt.com/posts/musicboard)
 
++ [Pixelied Color Palette Generator](https://www.producthunt.com/posts/pixelied-color-palette-generator)
+
