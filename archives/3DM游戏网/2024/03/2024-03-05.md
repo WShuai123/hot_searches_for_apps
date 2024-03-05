@@ -237,3 +237,19 @@
 
 + [《thanks mom》Steam页面上线 体验婴儿躲避动作](https://www.3dmgame.com/news/202403/3889812.html)
 
++ [《黑神话：悟空》游戏主线剧情透露 小猴子重走西游之路](https://www.3dmgame.com/news/202403/3889827.html)
+
++ [《Critter Crops》发售日预告 4月15日推出](https://www.3dmgame.com/news/202403/3889826.html)
+
++ [特斯拉股价周一大跌7.16%：贝索斯替代马斯克再成世界首富](https://www.3dmgame.com/news/202403/3889825.html)
+
++ [《星空》开发者：为了创造外星生命 我们做了大量工作](https://www.3dmgame.com/news/202403/3889824.html)
+
++ [立刻搭乘摇篮灵柩！《奇异贤伴 爱达之歌》即将举办封闭β测试！](https://www.3dmgame.com/news/202403/3889823.html)
+
++ [《地下城与勇士：决斗》角色DLC“蓝拳圣使”实机演示 3月14日上线](https://www.3dmgame.com/news/202403/3889822.html)
+
++ [代表建议建立大学生网游防沉迷机制 Epic商城关注评论](https://www.3dmgame.com/news/202403/3889821.html)
+
++ [《使命召唤20》第2赛季新僵尸模式 联动战锤40K](https://www.3dmgame.com/news/202403/3889820.html)
+

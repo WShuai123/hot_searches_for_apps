@@ -187,3 +187,7 @@
 
 + [【计算机网络】IO多路转接之poll](https://blog.csdn.net/qq_67582098/article/details/136457244)
 
++ [C++惯用法之RAII思想: 资源管理](https://blog.csdn.net/haokan123456789/article/details/136462850)
+
++ [【图像检测】基于matlab计算机视觉地质断层结构的自动增强和识别【含Matlab源码 4026期】](https://blog.csdn.net/TIQCmatlab/article/details/136418930)
+

@@ -45,3 +45,5 @@
 
 + [五菱缤果 PLUS 五门纯电 SUV 车型 3 月 6 日上市：510km 续航、75kW 电机、1450L 后备箱](https://m.ithome.com/html/753683.htm)
 
++ [午夜色 2024 款苹果 M3 MacBook Air 采用阳极氧化密封工艺，防指纹能力更出色](https://m.ithome.com/html/753628.htm)
+
