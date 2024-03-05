@@ -271,3 +271,9 @@
 
 + [男子试图偷走自动驾驶汽车 结果失败被捕](https://www.3dmgame.com/news/202403/3889836.html)
 
++ [《地平线：西之绝境》PC配置公布 硬盘需求150G](https://www.3dmgame.com/news/202403/3889839.html)
+
++ [四名前推特高管起诉马斯克 索要1亿多美元遣散费](https://www.3dmgame.com/news/202403/3889838.html)
+
++ [《月球叛军》1和2导演剪辑版将在同一天上线 时长比原版多了一个小时](https://www.3dmgame.com/news/202403/3889837.html)
+

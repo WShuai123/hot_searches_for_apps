@@ -65,3 +65,7 @@
 
 + [蔚来子品牌首车曝光：换电轿跑 SUV，印有“比毛豆 Y 更棒”字样](https://m.ithome.com/html/753719.htm)
 
++ [华为与 vivo、亚马逊签订全球专利交叉许可协议](https://m.ithome.com/html/753706.htm)
+
++ [（更新：已回到 2024）mi.com 官网突发回档展示小米 9、黑鲨游戏手机 2 等“最新产品”](https://m.ithome.com/html/753859.htm)
+
