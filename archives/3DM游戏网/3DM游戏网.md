@@ -267,3 +267,7 @@
 
 + [英伟达GTX 16系列GPU宣布彻底停产 完成历史使命](https://www.3dmgame.com/news/202403/3889833.html)
 
++ [《自杀小队：消灭正义联盟》Epic版又跳票了 现在计划3月26日发售](https://www.3dmgame.com/news/202403/3889835.html)
+
++ [男子试图偷走自动驾驶汽车 结果失败被捕](https://www.3dmgame.com/news/202403/3889836.html)
+
