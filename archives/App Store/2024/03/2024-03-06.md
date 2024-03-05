@@ -211,3 +211,5 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [Charming](https://itunes.apple.com/cn/app/id6476763559?mt=8)
+
