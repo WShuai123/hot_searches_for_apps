@@ -105,3 +105,23 @@
 
 + [CeoBuySell.com](https://www.producthunt.com/posts/ceobuysell-com)
 
++ [Claude 3](https://www.producthunt.com/posts/claude-3)
+
++ [Twodos](https://www.producthunt.com/posts/twodos)
+
++ [keyzii](https://www.producthunt.com/posts/keyzii)
+
++ [Lunai - Share your thoughts & feelings](https://www.producthunt.com/posts/lunai-share-your-thoughts-feelings)
+
++ [Zuplo API Monetization](https://www.producthunt.com/posts/zuplo-api-monetization)
+
++ [Supertasks.io](https://www.producthunt.com/posts/supertasks-io)
+
++ [PDF to MP3](https://www.producthunt.com/posts/pdf-to-mp3)
+
++ [Certificate Maker by SmashingDocs](https://www.producthunt.com/posts/certificate-maker-by-smashingdocs)
+
++ [AI Powered Live Polls for Google Slides](https://www.producthunt.com/posts/ai-powered-live-polls-for-google-slides)
+
++ [ArDrive](https://www.producthunt.com/posts/ardrive-2)
+

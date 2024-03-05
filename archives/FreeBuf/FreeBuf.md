@@ -57,3 +57,7 @@
 
 + [SOAPHound：一款功能强大的基于ADWS协议的活动目录环境枚举工具](https://www.freebuf.com/sectool/391938.html)
 
++ [ 聚焦两会 | 网络安全成为2024年热议“关键词”](https://www.freebuf.com/news/topnews/393338.html)
+
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+

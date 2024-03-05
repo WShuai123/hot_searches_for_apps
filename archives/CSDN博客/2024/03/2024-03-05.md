@@ -183,3 +183,7 @@
 
 + [第三篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas股票市场数据分析](https://blog.csdn.net/jackchuanqi/article/details/136468533)
 
++ [使用纹理对比度检测检测AI生成的图像](https://blog.csdn.net/m0_46510245/article/details/136471333)
+
++ [【计算机网络】IO多路转接之poll](https://blog.csdn.net/qq_67582098/article/details/136457244)
+
