@@ -31,3 +31,5 @@
 
 + [苹果：新款 MacBook Air 是“用于 AI 的全球最佳消费级笔记本电脑”](https://m.ithome.com/html/753634.htm)
 
++ [Yuzu 模拟器成“绝唱”：开发商向任天堂赔款 240 万美元、交出域名、永久停止开发](https://m.ithome.com/html/753652.htm)
+
