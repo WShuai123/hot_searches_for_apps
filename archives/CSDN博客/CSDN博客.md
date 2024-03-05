@@ -175,3 +175,11 @@
 
 + [Jenkins + Gitlab 集成 实现CICD （配置前后端）](https://blog.csdn.net/C_Linlin11/article/details/136396350)
 
++ [[动态规划]---part1](https://blog.csdn.net/qq_61552595/article/details/136394945)
+
++ [主流AI服务——大专生新就业之路](https://blog.csdn.net/feng8403000/article/details/136473461)
+
++ [【.NET Core】深入理解IO - 读取器和编写器](https://blog.csdn.net/songjianlong/article/details/136465343)
+
++ [第三篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas股票市场数据分析](https://blog.csdn.net/jackchuanqi/article/details/136468533)
+

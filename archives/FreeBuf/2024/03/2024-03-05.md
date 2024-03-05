@@ -53,3 +53,5 @@
 
 + [针对某系统XXE漏洞分析](https://www.freebuf.com/articles/web/392324.html)
 
++ [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html)
+
