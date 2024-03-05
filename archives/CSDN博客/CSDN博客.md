@@ -195,3 +195,7 @@
 
 + [Linux 导航和文件管理](https://blog.csdn.net/rubys007/article/details/136355067)
 
++ [AI大模型的预训练、迁移和中间件编程](https://blog.csdn.net/weixin_43178406/article/details/136483052)
+
++ [【深圳五兴科技】Java后端面经](https://blog.csdn.net/qq_54796785/article/details/136474828)
+

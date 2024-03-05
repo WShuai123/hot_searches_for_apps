@@ -51,3 +51,7 @@
 
 + [微信上能用钉钉开会了](https://m.ithome.com/html/753588.htm)
 
++ [曝赛力斯全面“华为化”：员工持股，工资标准，供应链控制应学尽学](https://m.ithome.com/html/753779.htm)
+
++ [M3 芯片加持，2024 款苹果 MacBook Air 支持外接双显示器](https://m.ithome.com/html/753625.htm)
+
