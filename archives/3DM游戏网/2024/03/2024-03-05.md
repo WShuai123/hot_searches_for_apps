@@ -253,3 +253,13 @@
 
 + [《使命召唤20》第2赛季新僵尸模式 联动战锤40K](https://www.3dmgame.com/news/202403/3889820.html)
 
++ [许多用户吐槽Win11不好用：安装需微软账户 联网](https://www.3dmgame.com/news/202403/3889831.html)
+
++ [苹果iPad Pro 2024蓄势待发：史上最强平板！](https://www.3dmgame.com/news/202403/3889832.html)
+
++ [《妖之乡》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3889828.html)
+
++ [《YOKO》登陆Steam 日式背景恐怖冒险新游](https://www.3dmgame.com/news/202403/3889829.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》成功四连冠](https://www.3dmgame.com/news/202403/3889830.html)
+
