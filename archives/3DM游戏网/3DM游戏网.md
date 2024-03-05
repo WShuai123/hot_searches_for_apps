@@ -121,3 +121,9 @@
 
 + [Yuzu模拟器创建者接受任天堂要求 达成庭外和解](https://www.3dmgame.com/news/202403/3889753.html)
 
++ [尼尔：顽皮狗新项目雄心勃勃 但制作起来非常困难](https://www.3dmgame.com/news/202403/3889764.html)
+
++ [黑客组织称入侵Epic只是骗局而已：专业欺诈者](https://www.3dmgame.com/news/202403/3889763.html)
+
++ [《碧海黑帆》发售不到三周 零售商已降价25美元](https://www.3dmgame.com/news/202403/3889762.html)
+
