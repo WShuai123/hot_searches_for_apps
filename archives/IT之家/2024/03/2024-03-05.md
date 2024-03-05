@@ -59,3 +59,9 @@
 
 + [比亚迪混动 + 华为车机，赛力斯中型 SUV 蓝电 E5 推出限时优惠：9.98 万元起](https://m.ithome.com/html/753808.htm)
 
++ [国资委：国有车企新能源汽车发展还不够快，拟单独考核三家央企](https://m.ithome.com/html/753786.htm)
+
++ [微软 Win11 隐藏彩蛋被发现：开机旋转圆圈以字体格式存储](https://m.ithome.com/html/753681.htm)
+
++ [蔚来子品牌首车曝光：换电轿跑 SUV，印有“比毛豆 Y 更棒”字样](https://m.ithome.com/html/753719.htm)
+

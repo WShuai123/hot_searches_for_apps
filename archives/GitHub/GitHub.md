@@ -53,3 +53,29 @@
 
 + [layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse)
 
++ [atherosai / ui](https://github.com/atherosai/ui)
+
++ [pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
++ [0xsongsu / dailytask](https://github.com/0xsongsu/dailytask)
+
++ [mini-sora / minisora](https://github.com/mini-sora/minisora)
+
++ [nikic / PHP-Parser](https://github.com/nikic/PHP-Parser)
+
++ [jaywcjlove / reference](https://github.com/jaywcjlove/reference)
+
++ [itgoyo / TelegramGroup](https://github.com/itgoyo/TelegramGroup)
+
++ [ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager)
+
++ [stefanprodan / podinfo](https://github.com/stefanprodan/podinfo)
+
++ [jafioti / luminal](https://github.com/jafioti/luminal)
+
++ [microsoft / Security-101](https://github.com/microsoft/Security-101)
+
++ [huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse)
+

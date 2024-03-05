@@ -151,3 +151,17 @@
 
 + [kickstartDS low-code CMS starters](https://www.producthunt.com/posts/kickstartds-low-code-cms-starters)
 
++ [Haiper](https://www.producthunt.com/posts/haiper)
+
++ [Textify](https://www.producthunt.com/posts/textify-2)
+
++ [just words](https://www.producthunt.com/posts/just-words)
+
++ [Feelly 2.0](https://www.producthunt.com/posts/feelly-2-0)
+
++ [Candor](https://www.producthunt.com/posts/candor-3)
+
++ [DocAsk](https://www.producthunt.com/posts/docask)
+
++ [Chartgenie Graph and Chart Maker](https://www.producthunt.com/posts/chartgenie-graph-and-chart-maker)
+
