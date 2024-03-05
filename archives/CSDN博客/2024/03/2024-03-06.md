@@ -105,3 +105,17 @@
 
 + [计算机网络-网络安全（二）](https://blog.csdn.net/m0_74408723/article/details/136453511)
 
++ [好书推荐丨细说PyTorch深度学习：理论、算法、模型与编程实现](https://blog.csdn.net/m0_68111267/article/details/136486333)
+
++ [一本书讲透ChatGPT——理论与实践的完美结合，大模型技术工程师的必备指南](https://blog.csdn.net/JHXL_/article/details/136477894)
+
++ [【送书活动1】基于React低代码平台开发：构建高效、灵活的应用新范式](https://blog.csdn.net/wtyuong/article/details/136490588)
+
++ [【CSS3】CSS3 3D 转换示例 - 3D 旋转木马 ( @keyframes 规则 定义动画 | 为 盒子模型 应用动画 | 开启透视视图 | 设置 3D 呈现样式 )](https://blog.csdn.net/han1202012/article/details/136468791)
+
++ [如何本地创建websocket服务端并发布到公网实现远程访问](https://blog.csdn.net/zhoubancheng/article/details/136456095)
+
++ [教你用Ubuntu快速搭建饥荒服务器](https://blog.csdn.net/devcloud/article/details/136457207)
+
++ [Python爬虫之爬取并下载哔哩哔哩视频](https://blog.csdn.net/2301_80124151/article/details/136434775)
+
