@@ -101,3 +101,7 @@
 
 + [卡牌对战游戏《剑中决》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3889791.html)
 
++ [《涡轮高尔夫赛车》4月4日发售 EA版获特别好评](https://www.3dmgame.com/news/202403/3889842.html)
+
++ [《英雄传说：黎之轨迹》欧美版7月5日发售 登陆多平台](https://www.3dmgame.com/news/202403/3889841.html)
+
