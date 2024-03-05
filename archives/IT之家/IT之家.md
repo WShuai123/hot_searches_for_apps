@@ -43,3 +43,5 @@
 
 + [京东自营 318 元探底：漫步者 MR4 监听音箱 3 期免息](https://m.ithome.com/html/753621.htm)
 
++ [五菱缤果 PLUS 五门纯电 SUV 车型 3 月 6 日上市：510km 续航、75kW 电机、1450L 后备箱](https://m.ithome.com/html/753683.htm)
+

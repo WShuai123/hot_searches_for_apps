@@ -55,3 +55,5 @@
 
 + [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html)
 
++ [SOAPHound：一款功能强大的基于ADWS协议的活动目录环境枚举工具](https://www.freebuf.com/sectool/391938.html)
+

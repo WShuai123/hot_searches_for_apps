@@ -215,3 +215,9 @@
 
 + [开放世界多人射击游戏《猎杀：对决》推出6周年纪念T恤](https://www.3dmgame.com/news/202403/3889803.html)
 
++ [《星之后裔：吠陀骑士》预告 现已开启预注册](https://www.3dmgame.com/news/202403/3889810.html)
+
++ [AI技术逆天 《我的世界》高清化变《兄贵世界》](https://www.3dmgame.com/news/202403/3889811.html)
+
++ [《沙丘2》导演维伦纽瓦：《银翼杀手2049》压力大 至今仍会失眠](https://www.3dmgame.com/news/202403/3889809.html)
+
