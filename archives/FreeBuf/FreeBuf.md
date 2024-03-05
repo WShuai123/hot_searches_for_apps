@@ -51,3 +51,5 @@
 
 + [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html)
 
++ [针对某系统XXE漏洞分析](https://www.freebuf.com/articles/web/392324.html)
+
