@@ -199,3 +199,11 @@
 
 + [【深圳五兴科技】Java后端面经](https://blog.csdn.net/qq_54796785/article/details/136474828)
 
++ [SpringCloud-RabbitMQ消息模型](https://blog.csdn.net/weixin_41793160/article/details/136466366)
+
++ [文献学习-13-机器人顶刊IJRR近期国人新作(2024.3)](https://blog.csdn.net/Metaphysicist/article/details/136475505)
+
++ [身份证识别系统（安卓）](https://blog.csdn.net/m0_59310933/article/details/136403349)
+
++ [学习网络编程No.12【传输层协议之TCP】](https://blog.csdn.net/weixin_74004489/article/details/136317275)
+

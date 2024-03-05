@@ -55,3 +55,7 @@
 
 + [M3 芯片加持，2024 款苹果 MacBook Air 支持外接双显示器](https://m.ithome.com/html/753625.htm)
 
++ [室温超导新瓜！LK-99 团队展示全新材料完全悬浮及电阻测量结果，报告现场人挤人](https://m.ithome.com/html/753730.htm)
+
++ [比亚迪混动 + 华为车机，赛力斯中型 SUV 蓝电 E5 推出限时优惠：9.98 万元起](https://m.ithome.com/html/753808.htm)
+

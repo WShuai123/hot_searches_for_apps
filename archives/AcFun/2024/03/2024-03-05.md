@@ -129,3 +129,11 @@
 
 + [【配音二创】生化危机1生草译制片配音—恭喜大树拿下0/1/0的好成绩](http://www.acfun.cn/v/ac43925935)
 
++ [《新造的人》](http://www.acfun.cn/v/ac43932329)
+
++ [多管闲事 这回挨没有？](http://www.acfun.cn/v/ac43934934)
+
++ [竖 是竖屏 Hush](http://www.acfun.cn/v/ac43926957)
+
++ [摄影区博主给我当摄影师，是什么体验？](http://www.acfun.cn/v/ac43933350)
+

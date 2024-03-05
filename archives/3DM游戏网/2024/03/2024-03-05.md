@@ -263,3 +263,7 @@
 
 + [Steam最新一周销量榜 《绝地潜兵2》成功四连冠](https://www.3dmgame.com/news/202403/3889830.html)
 
++ [LG公布三款曲面OLED游戏显示器规格 国内已上市](https://www.3dmgame.com/news/202403/3889834.html)
+
++ [英伟达GTX 16系列GPU宣布彻底停产 完成历史使命](https://www.3dmgame.com/news/202403/3889833.html)
+
