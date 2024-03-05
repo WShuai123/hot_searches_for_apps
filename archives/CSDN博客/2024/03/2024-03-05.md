@@ -163,3 +163,9 @@
 
 + [【无人机三维路径规划】基于飞狐算法FFO实现复杂地形无人机三维航迹规划附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136467743)
 
++ [挑战杯 基于深度学习的人脸专注度检测计算系统 - opencv python cnn](https://blog.csdn.net/laafeer/article/details/136451491)
+
++ [Web3与DAO：下一代互联网演进逻辑【文末送书-25】](https://blog.csdn.net/weixin_52908342/article/details/136455064)
+
++ [【Vue】探究 Vue 2 与 Vue 3 生命周期：变化与延续](https://blog.csdn.net/null18/article/details/136458957)
+
