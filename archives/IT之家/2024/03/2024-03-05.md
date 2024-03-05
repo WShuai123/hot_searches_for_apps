@@ -27,3 +27,7 @@
 
 + [小米 Redmi G Pro 2024 游戏本发布：i9-14900HX + RTX4060，售价 8999 元](https://m.ithome.com/html/753599.htm)
 
++ [贾跃亭“手撕”丁磊，法拉第未来宣布起诉高合汽车“侵犯商业秘密和不正当竞争”](https://m.ithome.com/html/753658.htm)
+
++ [苹果：新款 MacBook Air 是“用于 AI 的全球最佳消费级笔记本电脑”](https://m.ithome.com/html/753634.htm)
+

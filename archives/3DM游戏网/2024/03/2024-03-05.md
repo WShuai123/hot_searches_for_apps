@@ -127,3 +127,29 @@
 
 + [《碧海黑帆》发售不到三周 零售商已降价25美元](https://www.3dmgame.com/news/202403/3889762.html)
 
++ [卡普空宣布举办两场新发布会活动 公布旗下游戏新动态](https://www.3dmgame.com/news/202403/3889777.html)
+
++ [《Thunder Helix》3月22日Steam抢测 武装直升机模拟](https://www.3dmgame.com/news/202403/3889775.html)
+
++ [《哥特王朝：重制版》新截图公布 画面很真实](https://www.3dmgame.com/news/202403/3889776.html)
+
++ [不仅Yuzu受灾 因和解开发商3DS模拟器Citra也被下架](https://www.3dmgame.com/news/202403/3889773.html)
+
++ [新里程碑 《女神异闻录》系列全球销量突破2200万](https://www.3dmgame.com/news/202403/3889772.html)
+
++ [开罗游戏《洞窟冒险团物语》Steam页面上线 支持简中](https://www.3dmgame.com/news/202403/3889774.html)
+
++ [《奇唤士》现已发售 综合评价“特别好评”](https://www.3dmgame.com/news/202403/3889771.html)
+
++ [因发行商变更 《八方旅人》已暂时从任天堂eShop下架](https://www.3dmgame.com/news/202403/3889770.html)
+
++ [万代机甲新作《奇异贤伴：爱达之歌》封闭B测预告 3月28日开启](https://www.3dmgame.com/news/202403/3889769.html)
+
++ [《质量效应》新作很可能是PS6游戏 还要等待很久](https://www.3dmgame.com/news/202403/3889768.html)
+
++ [《自杀小队：消灭正义联盟》小丑可玩角色3月底上线](https://www.3dmgame.com/news/202403/3889767.html)
+
++ [《巧克力广场模拟器》Steam上线 如何成为巧克力大师](https://www.3dmgame.com/news/202403/3889766.html)
+
++ [动画电影《加菲猫》曝新预告 克里斯·帕拉特配音](https://www.3dmgame.com/news/202403/3889765.html)
+

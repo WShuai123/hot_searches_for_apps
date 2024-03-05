@@ -51,3 +51,5 @@
 
 + [FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts)
 
++ [layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse)
+

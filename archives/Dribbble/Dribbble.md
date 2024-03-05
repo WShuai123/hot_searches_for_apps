@@ -102,3 +102,9 @@ packaging design](https://dribbble.com/shots/)
 
 + [Tiny Tini's Martini Room](https://dribbble.com/shots/)
 
++ [Logo Design](https://dribbble.com/shots/)
+
++ [Glyph Beer 31](https://dribbble.com/shots/)
+
++ [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
+
