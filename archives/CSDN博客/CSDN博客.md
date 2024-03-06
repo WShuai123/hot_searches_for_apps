@@ -101,3 +101,15 @@
 
 + [【计算机网络】IO多路转接之poll](https://blog.csdn.net/qq_67582098/article/details/136457244)
 
++ [Java助农农产品销售平台系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136438916)
+
++ [杭州某国企 Java 面经](https://blog.csdn.net/qq_67358181/article/details/136464786)
+
++ [书籍推荐：ChatGPT，大模型的预训练、迁移和中间件编程学习。](https://blog.csdn.net/qq_35716689/article/details/136490484)
+
++ [Vue.js+SpringBoot开发森林火灾预警系统](https://blog.csdn.net/customer08/article/details/136477000)
+
++ [基于YOLOv的目标追踪与无人机前端查看系统开发](https://blog.csdn.net/2202_75568470/article/details/136438743)
+
++ [什么是物联网？物联网如何工作？](https://blog.csdn.net/u014507573/article/details/136490747)
+
