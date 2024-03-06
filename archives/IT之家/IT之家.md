@@ -51,3 +51,5 @@
 
 + [消息称小米 Redmi K80 系列手机搭载骁龙 8 Gen 3 / 4 处理器，依旧为 2K 屏幕 + 金属中框](https://m.ithome.com/html/753920.htm)
 
++ [高合总监杨悦卿喊话贾跃亭：欢迎下周回国看看，我们不怕也不担心](https://m.ithome.com/html/754047.htm)
+
