@@ -167,3 +167,9 @@
 
 + [探索Hadoop的三种运行模式：单机模式、伪分布式模式和完全分布式模式](https://blog.csdn.net/weixin_52986315/article/details/136310851)
 
++ [【Vue】VueX仓库](https://blog.csdn.net/m0_62645012/article/details/136486848)
+
++ [基于QGIS的研究区域遥感影像裁切下载方法-以岳麓区为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/136490767)
+
++ [SpringCloud-数据认证加密总结](https://blog.csdn.net/weixin_41793160/article/details/136482696)
+
