@@ -101,3 +101,9 @@
 
 + [Jones Soda和《辐射》电视剧联动 推出全新口味核子可乐](https://www.3dmgame.com/news/202403/3889885.html)
 
++ [《对马岛之鬼》5月16日登陆Steam 国区售价414元](https://www.3dmgame.com/news/202403/3889937.html)
+
++ [《小丑牌》销量破50万 部分地区下架不影响热度](https://www.3dmgame.com/news/202403/3889935.html)
+
++ [《龙之信条2》通关主线需37小时 加上支线可超80小时](https://www.3dmgame.com/news/202403/3889936.html)
+
