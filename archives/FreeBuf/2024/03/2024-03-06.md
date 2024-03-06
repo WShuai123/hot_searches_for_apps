@@ -41,3 +41,7 @@
 
 + [金融类IOS APP端渗透测试实战分享](https://www.freebuf.com/articles/mobile/393147.html)
 
++ [FreeBuf 早报 | 全国首部公共安全摄像头管理地方性法规施行；全球首个AI蠕虫面世](https://www.freebuf.com/articles/393323.html)
+
++ [CrowdStrike全球威胁报告：云入侵上升75%](https://www.freebuf.com/articles/paper/393157.html)
+

@@ -123,3 +123,7 @@
 
 + [【OpenGL】(1) 专栏介绍：OpenGL 库 | 3D 计算机图形应用 | GPGPU 计算 | 3D 建模和 3D动画 | 渲染技术介绍](https://blog.csdn.net/weixin_50502862/article/details/136490015)
 
++ [Java助农农产品销售平台系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136438916)
+
++ [【粉丝福利社】低代码平台开发实践：基于React（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136492912)
+

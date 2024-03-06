@@ -25,3 +25,7 @@
 
 + [消息称一加 13 手机去掉家族式合页设计：影像系统同档 Pro+，抢骁龙 8 Gen 4 首发](https://m.ithome.com/html/753714.htm)
 
++ [苹果 iOS 17.4 正式版发布：扩充表情符号、播客引入听写文本](https://m.ithome.com/html/753891.htm)
+
++ [运营闹乌龙：三星官推“不小心”赞了苹果 iPhone 13 Pro Max 拍摄的演唱会视频](https://m.ithome.com/html/753837.htm)
+

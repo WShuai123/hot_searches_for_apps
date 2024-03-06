@@ -119,3 +119,13 @@
 
 + [《龙之信条2》18分钟魔弓手试玩演示](https://www.3dmgame.com/news/202403/3889843.html)
 
++ [《龙之信条2》开放世界灵感来源竟然是《给他爱5》](https://www.3dmgame.com/news/202403/3889854.html)
+
++ [科林·法瑞尔主演 苹果+剧集《糖果》首发预告](https://www.3dmgame.com/news/202403/3889853.html)
+
++ [《霍格沃茨之遗2》有可能变成一款实时服务游戏](https://www.3dmgame.com/news/202403/3889852.html)
+
++ [华纳兄弟仍决定加大力度开发在线服务类游戏](https://www.3dmgame.com/news/202403/3889851.html)
+
++ [消息称《对马岛之鬼2》即将在三个月内官宣](https://www.3dmgame.com/news/202403/3889850.html)
+
