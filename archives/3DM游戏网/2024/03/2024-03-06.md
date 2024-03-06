@@ -231,3 +231,5 @@
 
 + [主播用辣椒酱和热狗肠为《刺猬索尼克3》掌机发电并运行游戏](https://www.3dmgame.com/news/202403/3889900.html)
 
++ [Yuzu诉讼尘埃未落 任天堂模拟器已“人人自危”](https://www.3dmgame.com/news/202403/3889906.html)
+

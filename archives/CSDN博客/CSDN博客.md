@@ -173,3 +173,9 @@
 
 + [SpringCloud-数据认证加密总结](https://blog.csdn.net/weixin_41793160/article/details/136482696)
 
++ [基于yolov5-master和pyqt5实现森林火灾监测软件](https://blog.csdn.net/m0_55927959/article/details/136498181)
+
++ [书籍推荐：ChatGPT，大模型的预训练、迁移和中间件编程学习。](https://blog.csdn.net/qq_35716689/article/details/136490484)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/annebab/article/details/136450528)
+

@@ -59,3 +59,7 @@
 
 + [如何使用LEAKEY轻松检测和验证目标服务泄露的敏感凭证](https://www.freebuf.com/sectool/391939.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [针对PLC的恶意软件发布，黑客或可发起远程震网式攻击](https://www.freebuf.com/news/393495.html)
+
