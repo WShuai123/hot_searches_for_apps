@@ -137,3 +137,15 @@
 
 + [【Docker】Docker：解析容器化技术的利器与在Linux中的关键作用](https://blog.csdn.net/AliceNo/article/details/136471397)
 
++ [【机器学习核心知识点】](https://blog.csdn.net/zhiqingAI/article/details/136491039)
+
++ [计算机设计大赛 深度学习疲劳检测 驾驶行为检测 - python opencv cnn](https://blog.csdn.net/iuerfee/article/details/136453456)
+
++ [基于openKylin与RISC-V的MindSpore AI项目实践](https://blog.csdn.net/2202_75568470/article/details/136487705)
+
++ [（黑马出品_02）SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式](https://blog.csdn.net/weixin_46225503/article/details/136448112)
+
++ [Linux 导航和文件管理](https://blog.csdn.net/rubys007/article/details/136355067)
+
++ [计算机网络 网络原理之Http](https://blog.csdn.net/weixin_51312723/article/details/136390799)
+

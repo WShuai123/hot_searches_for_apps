@@ -35,3 +35,7 @@
 
 + [我国废旧手机存量超 20 亿部，每吨废旧手机可提炼约 200 克黄金](https://m.ithome.com/html/753879.htm)
 
++ [中国第四艘航母很快公布](https://m.ithome.com/html/753933.htm)
+
++ [微软将终止对 Windows 安卓子系统（WSA）的支持，亚马逊应用商店关闭](https://m.ithome.com/html/753895.htm)
+

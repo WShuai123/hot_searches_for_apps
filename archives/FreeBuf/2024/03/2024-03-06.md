@@ -47,3 +47,9 @@
 
 + [工业控制系统 | 信息安全建设思路](https://www.freebuf.com/articles/ics-articles/392657.html)
 
++ [美国国家安全局发布网络和环境组件零信任指南](https://www.freebuf.com/news/393427.html)
+
++ [苹果曝出两个 iOS 系统 0-Day 漏洞](https://www.freebuf.com/news/393421.html)
+
++ [每天1亿美元？网络攻击后现金流中断引发医疗保健行业动荡](https://www.freebuf.com/news/393428.html)
+

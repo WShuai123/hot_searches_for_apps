@@ -189,3 +189,15 @@
 
 + [《暗黑地牢2》主机版在巴西通过评级 或即将公布](https://www.3dmgame.com/news/202403/3889875.html)
 
++ [《女神异闻录３ Reload》官方监制 标杆级联动校服实物公开](https://www.3dmgame.com/news/202403/3889889.html)
+
++ [《怪兽上班》第二季发布预告 4月5日开播](https://www.3dmgame.com/news/202403/3889890.html)
+
++ [索尼推出PS5主机《原神》同捆包 3月13日发售](https://www.3dmgame.com/news/202403/3889887.html)
+
++ [最新数据显示 iPhone中国销量大跌24%华为大涨64%](https://www.3dmgame.com/news/202403/3889888.html)
+
++ [《命运2》遗失区域BUG全自动刷装备 现已修复](https://www.3dmgame.com/news/202403/3889886.html)
+
++ [Jones Soda和《辐射》电视剧联动 推出全新口味核子可乐](https://www.3dmgame.com/news/202403/3889885.html)
+
