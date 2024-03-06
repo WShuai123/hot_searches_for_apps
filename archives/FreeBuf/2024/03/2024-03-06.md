@@ -45,3 +45,5 @@
 
 + [CrowdStrike全球威胁报告：云入侵上升75%](https://www.freebuf.com/articles/paper/393157.html)
 
++ [工业控制系统 | 信息安全建设思路](https://www.freebuf.com/articles/ics-articles/392657.html)
+

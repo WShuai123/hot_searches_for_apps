@@ -129,3 +129,31 @@
 
 + [消息称《对马岛之鬼2》即将在三个月内官宣](https://www.3dmgame.com/news/202403/3889850.html)
 
++ [绑架模拟游戏《Life Eater》Steam页面上线 暂不支持简体中文](https://www.3dmgame.com/news/202403/3889861.html)
+
++ [《黑帝斯》Netflix合作iOS版 将于3月20日正式上线](https://www.3dmgame.com/news/202403/3889862.html)
+
++ [索尼印度之星计划首批五款游戏公布 登陆PS5和PC](https://www.3dmgame.com/news/202403/3889863.html)
+
++ [《地狱潜者2》透露更新内容 巨大双足机甲EXO-45即将登场](https://www.3dmgame.com/news/202403/3889864.html)
+
++ [《荒野大镖客2》亚瑟演员：多亏R星 改变了我的一切](https://www.3dmgame.com/news/202403/3889865.html)
+
++ [《骑士精神2》队伍平衡功能出现BUG 开发者紧急叫停](https://www.3dmgame.com/news/202403/3889866.html)
+
++ [《龙之信条2》帧率无上限目标30帧 可能没有性能模式](https://www.3dmgame.com/news/202403/3889867.html)
+
++ [《咩！咩咩不休》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202403/3889868.html)
+
++ [《物质世界》开发商Nine Dots成立游戏发行部门](https://www.3dmgame.com/news/202403/3889855.html)
+
++ [《VOIN》上架Steam即将测试 第一人称近战ACT](https://www.3dmgame.com/news/202403/3889856.html)
+
++ [《华纳大乱斗》社交媒体发布新内容 游戏或将重新上线](https://www.3dmgame.com/news/202403/3889857.html)
+
++ [《最终幻想7：重生》新宣传片公布：接近故事的核心](https://www.3dmgame.com/news/202403/3889858.html)
+
++ [网易2023年收入增长7.2% 游戏业务增长9.4%](https://www.3dmgame.com/news/202403/3889859.html)
+
++ [微软将推AI Explorer：你的电脑将拥有超强记忆力](https://www.3dmgame.com/news/202403/3889860.html)
+
