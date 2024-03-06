@@ -43,3 +43,7 @@
 
 + [特斯拉德国工厂负责人：已成功进行有序停产，未对员工、环境造成任何风险](https://m.ithome.com/html/753885.htm)
 
++ [8.98 万起，五菱缤果 PLUS 车型上市：401km / 510km 续航](https://m.ithome.com/html/753925.htm)
+
++ [苹果 iOS / iPadOS 15.8.2 正式版发布](https://m.ithome.com/html/753893.htm)
+

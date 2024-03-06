@@ -179,3 +179,9 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/annebab/article/details/136450528)
 
++ [【FPGA/IC】CRC电路的Verilog实现](https://blog.csdn.net/wuzhikaidetb/article/details/136441181)
+
++ [好书推荐《ChatGPT原理与架构：大模型的预训练、迁移和中间件编程 》](https://blog.csdn.net/qyj19920704/article/details/136491859)
+
++ [图解 TCP 拥塞控制](https://blog.csdn.net/wzz2333/article/details/136486166)
+

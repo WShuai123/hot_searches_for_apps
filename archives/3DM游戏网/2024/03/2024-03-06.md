@@ -233,3 +233,29 @@
 
 + [Yuzu诉讼尘埃未落 任天堂模拟器已“人人自危”](https://www.3dmgame.com/news/202403/3889906.html)
 
++ [华为全球最大的研发中心！华为上海青浦研发中心今年启用](https://www.3dmgame.com/news/202403/3889919.html)
+
++ [《美女，请别影响我学习》Steam页面上线 本月发售](https://www.3dmgame.com/news/202403/3889918.html)
+
++ [雷军近照对比图火了 网友看的透：造车催人老](https://www.3dmgame.com/news/202403/3889917.html)
+
++ [《绝地潜兵2》开发商CEO否认被索尼收购：虚假消息](https://www.3dmgame.com/news/202403/3889916.html)
+
++ [Fami通游戏评分：《碧海黑帆》竟登入银殿堂？](https://www.3dmgame.com/news/202403/3889915.html)
+
++ [谷歌宣布更新搜索算法 打击垃圾信息及内容农场](https://www.3dmgame.com/news/202403/3889914.html)
+
++ [周星驰晒与前女足国脚合影 邀请她们加盟《少林女足》](https://www.3dmgame.com/news/202403/3889913.html)
+
++ [网易游戏制作人“不懂编程”？！还能拿到¥66666x16 百万年薪](https://www.3dmgame.com/news/202403/3889911.html)
+
++ [国家应强制报废旧家电！董明珠称家电应像汽车行业一样](https://www.3dmgame.com/news/202403/3889910.html)
+
++ [《幻兽帕鲁》Steam评论超25万条 神秘内容即将推出](https://www.3dmgame.com/news/202403/3889909.html)
+
++ [电影《射雕英雄传》进入后期制作 肖战出演郭靖](https://www.3dmgame.com/news/202403/3889908.html)
+
++ [玩家呼吁《吸血鬼：避世血族》重制 比起二代更加期待](https://www.3dmgame.com/news/202403/3889907.html)
+
++ [索尼或在为游戏开发“超级代币” 对玩家有吸引力](https://www.3dmgame.com/news/202403/3889912.html)
+

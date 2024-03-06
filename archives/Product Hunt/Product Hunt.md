@@ -129,3 +129,19 @@
 
 + [Shakepay](https://www.producthunt.com/posts/shakepay-2)
 
++ [Nyre](https://www.producthunt.com/posts/nyre)
+
++ [Luminar for iPad](https://www.producthunt.com/posts/luminar-for-ipad)
+
++ [BrowseTimeLimit](https://www.producthunt.com/posts/browsetimelimit)
+
++ [Aili](https://www.producthunt.com/posts/aili)
+
++ [SaaSBold](https://www.producthunt.com/posts/saasbold)
+
++ [Eartho](https://www.producthunt.com/posts/eartho-2)
+
++ [Landing Page Structure Generator](https://www.producthunt.com/posts/landing-page-structure-generator)
+
++ [Hubrank](https://www.producthunt.com/posts/hubrank)
+
