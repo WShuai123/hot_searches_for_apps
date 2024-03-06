@@ -39,3 +39,5 @@
 
 + [微软将终止对 Windows 安卓子系统（WSA）的支持，亚马逊应用商店关闭](https://m.ithome.com/html/753895.htm)
 
++ [6.98~8.58 万元，比亚迪海鸥荣耀版车型上市：纯电续航 305/405km](https://m.ithome.com/html/753918.htm)
+

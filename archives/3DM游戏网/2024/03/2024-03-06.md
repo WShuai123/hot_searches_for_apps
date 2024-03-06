@@ -207,3 +207,15 @@
 
 + [GDDR7显存标准公布：RTX 5090性能要翻倍 速度飞起！](https://www.3dmgame.com/news/202403/3889893.html)
 
++ [法雷奥公开全新车内虚拟游戏方案 游戏与现实即时融合](https://www.3dmgame.com/news/202403/3889899.html)
+
++ [全面电动化转型 曝捷豹将于6月停产所有燃油车](https://www.3dmgame.com/news/202403/3889898.html)
+
++ [角色扮演游戏《格兰蒂亚秘闻》开发13年后终于推出1.0正式版](https://www.3dmgame.com/news/202403/3889897.html)
+
++ [《潜行者：区域传奇 三部曲》泄露 6月27日发售登陆主机平台](https://www.3dmgame.com/news/202403/3889896.html)
+
++ [超命贵 《黑袍纠察队》第四季新预告及海报](https://www.3dmgame.com/news/202403/3889895.html)
+
++ [对话育碧品牌及IP负责人Eric，带你走进《英雄无敌》系列IP的宏大篇章](https://www.3dmgame.com/news/202403/3889894.html)
+

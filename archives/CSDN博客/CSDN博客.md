@@ -157,3 +157,13 @@
 
 + [用docker一键部署前后端分离项目](https://blog.csdn.net/m0_74276368/article/details/136455593)
 
++ [第106讲：Mycat实践指南：范围分片下的水平分表详解](https://blog.csdn.net/weixin_44953658/article/details/136496561)
+
++ [迈向AI时代：掌握Python编程与ChatGPT的强强联手](https://blog.csdn.net/m0_68662723/article/details/136485168)
+
++ [数据分析案例-二手车用户数据可视化分析（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135949291)
+
++ [Claude 3家族惊艳亮相：AI领域掀起新浪潮，GPT-4面临强劲挑战](https://blog.csdn.net/Aileenvov/article/details/136493773)
+
++ [探索Hadoop的三种运行模式：单机模式、伪分布式模式和完全分布式模式](https://blog.csdn.net/weixin_52986315/article/details/136310851)
+
