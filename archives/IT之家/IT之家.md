@@ -47,3 +47,5 @@
 
 + [苹果 iOS / iPadOS 15.8.2 正式版发布](https://m.ithome.com/html/753893.htm)
 
++ [雷军近照曝光，对比图引网友感慨：造车催人老](https://m.ithome.com/html/754050.htm)
+
