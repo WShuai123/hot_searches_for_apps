@@ -201,3 +201,9 @@
 
 + [Jones Soda和《辐射》电视剧联动 推出全新口味核子可乐](https://www.3dmgame.com/news/202403/3889885.html)
 
++ [《最终幻想14》吉田：画面更新不仅是为了吸引新玩家](https://www.3dmgame.com/news/202403/3889891.html)
+
++ [阔别13年 恐怖电影《死神来了》第6部宣布拍摄中](https://www.3dmgame.com/news/202403/3889892.html)
+
++ [GDDR7显存标准公布：RTX 5090性能要翻倍 速度飞起！](https://www.3dmgame.com/news/202403/3889893.html)
+

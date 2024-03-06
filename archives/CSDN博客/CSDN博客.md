@@ -149,3 +149,11 @@
 
 + [计算机网络 网络原理之Http](https://blog.csdn.net/weixin_51312723/article/details/136390799)
 
++ [挑战杯 基于深度学习的人脸性别年龄识别 - 图像识别 opencv](https://blog.csdn.net/laafeer/article/details/136452605)
+
++ [React轻松开发平台：实现高效、多变的应用开发范本](https://blog.csdn.net/weixin_51390582/article/details/136475958)
+
++ [YOLOv9推理详解及部署实现](https://blog.csdn.net/qq_40672115/article/details/136492338)
+
++ [用docker一键部署前后端分离项目](https://blog.csdn.net/m0_74276368/article/details/136455593)
+
