@@ -51,3 +51,35 @@
 
 + [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
++ [vikhyat / moondream](https://github.com/vikhyat/moondream)
+
++ [Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules)
+
++ [dolphin-emu / dolphin](https://github.com/dolphin-emu/dolphin)
+
++ [yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu)
+
++ [PabloMK7 / citra](https://github.com/PabloMK7/citra)
+
++ [Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master)
+
++ [Unity-Technologies / EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
+
++ [zijie0 / HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+
++ [openai-translator / openai-translator](https://github.com/openai-translator/openai-translator)
+
++ [vosen / ZLUDA](https://github.com/vosen/ZLUDA)
+
++ [nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [gradio-app / gradio](https://github.com/gradio-app/gradio)
+
++ [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
++ [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+
++ [onevcat / Kingfisher](https://github.com/onevcat/Kingfisher)
+
++ [cemu-project / Cemu](https://github.com/cemu-project/Cemu)
+

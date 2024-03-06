@@ -271,3 +271,5 @@
 
 + [RPG《圣兽之王》公开指南视频第四期及官方解说漫画“](https://www.3dmgame.com/news/202403/3889925.html)
 
++ [三星仍需解决3nm工艺良品率问题 目前在50%附近徘徊](https://www.3dmgame.com/news/202403/3889926.html)
+

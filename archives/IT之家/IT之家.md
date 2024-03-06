@@ -49,3 +49,5 @@
 
 + [雷军近照曝光，对比图引网友感慨：造车催人老](https://m.ithome.com/html/754050.htm)
 
++ [消息称小米 Redmi K80 系列手机搭载骁龙 8 Gen 3 / 4 处理器，依旧为 2K 屏幕 + 金属中框](https://m.ithome.com/html/753920.htm)
+

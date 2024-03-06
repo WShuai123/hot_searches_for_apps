@@ -197,3 +197,13 @@
 
 + [【知识整理】MySQL数据库开发设计规范](https://blog.csdn.net/tjls2008/article/details/136487506)
 
++ [MySQL 篇-深入了解多表设计、多表查询](https://blog.csdn.net/Tingfeng__/article/details/136486902)
+
++ [探索设计模式的魅力：深入解析解释器模式-学习、实现与高效使用的全指南](https://blog.csdn.net/danci_/article/details/136459728)
+
++ [8个优秀的CSS实践，web开发语言](https://blog.csdn.net/m0_60721907/article/details/136490312)
+
++ [Yolov8改进交流](https://blog.csdn.net/G_Shengn/article/details/136482666)
+
++ [史称GPT-4最强劲敌——Claude 3 大模型它来了【附体验教程】](https://blog.csdn.net/qq_45392321/article/details/136501696)
+
