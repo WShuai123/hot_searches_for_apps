@@ -29,3 +29,5 @@
 
 + [小米 Redmi K70 Ultra 手机曝光：代号“rotko”有望 8 月发布，配天玑 9300 芯片](https://m.ithome.com/html/753928.htm)
 
++ [雷军：一定把小米汽车干好、干成，不让全国的用户们失望](https://m.ithome.com/html/754117.htm)
+

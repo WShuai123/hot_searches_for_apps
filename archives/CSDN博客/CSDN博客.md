@@ -113,3 +113,29 @@
 
 + [什么是物联网？物联网如何工作？](https://blog.csdn.net/u014507573/article/details/136490747)
 
++ [《精益DevOps》：填补IT服务交付的认知差距，实现高效可靠的客户期望满足](https://blog.csdn.net/JHXL_/article/details/136454736)
+
++ [【Python】python零售公司商品销售情况数据分析(源码+数据)【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/136466199)
+
++ [【机器学习核心知识点】](https://blog.csdn.net/zhiqingAI/article/details/136491039)
+
++ [vivo - BlueOS Studio下载方法与环境异常解决方案](https://blog.csdn.net/feng8403000/article/details/136495847)
+
++ [Claude3、Gemini、Sora VS GPT-4：AI技术如何助力科研与产业发展？](https://blog.csdn.net/AIzmjl/article/details/136509979)
+
++ [AI领域再出“王炸“----Claude3是否会成为下一个“神“](https://blog.csdn.net/lmy050813/article/details/136510648)
+
++ [[ 云计算 | AWS ] ChatGPT 竞争对手 Claude 3 上线亚马逊云，实测表现超预期](https://blog.csdn.net/dietime1943/article/details/136506328)
+
++ [爬虫实战——伯克利新闻【内附超详细教程，你上你也行】](https://blog.csdn.net/HHX_01/article/details/136473275)
+
++ [Elasticsearch：从 ES|QL 到 Python 数据帧](https://blog.csdn.net/UbuntuTouch/article/details/136497845)
+
++ [Spring-Cloud中服务发现是什么？干什么的？怎么用？](https://blog.csdn.net/CSBIGDOG/article/details/136472702)
+
++ [GPT-4与Claude3、Gemini、Sora：AI领域的技术创新与突破](https://blog.csdn.net/weixin_61955963/article/details/136514233)
+
++ [【Python】Python注册微服务到nacos](https://blog.csdn.net/suu_an/article/details/136492849)
+
++ [蓝桥杯前端Web赛道-新鲜的蔬菜](https://blog.csdn.net/m0_70033038/article/details/136453760)
+

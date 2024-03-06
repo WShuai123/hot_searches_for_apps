@@ -107,3 +107,11 @@
 
 + [《龙之信条2》通关主线需37小时 加上支线可超80小时](https://www.3dmgame.com/news/202403/3889936.html)
 
++ [虚幻5打造克苏鲁恐怖游戏《沉没之城2》发布](https://www.3dmgame.com/news/202403/3889941.html)
+
++ [融合卡牌构建和潜行游戏新作《女巫戏法》公布](https://www.3dmgame.com/news/202403/3889940.html)
+
++ [DNF衍生类魂新游《第一狂战士：卡赞》发布战斗演示](https://www.3dmgame.com/news/202403/3889939.html)
+
++ [超能力动作游戏《未知9号：觉醒》发布全新预告片](https://www.3dmgame.com/news/202403/3889938.html)
+
