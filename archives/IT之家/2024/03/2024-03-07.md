@@ -25,3 +25,7 @@
 
 + [京东苹果 3.8 狂促加码：iPhone 15 Pro Max 8609 元，部分机型六期免息](https://m.ithome.com/html/754009.htm)
 
++ [华为、北汽联合打造的中大型轿车谍照曝光，消息称名为“享界”/售 40 万以上](https://m.ithome.com/html/754053.htm)
+
++ [小米 Redmi K70 Ultra 手机曝光：代号“rotko”有望 8 月发布，配天玑 9300 芯片](https://m.ithome.com/html/753928.htm)
+
