@@ -157,3 +157,35 @@
 
 + [微软将推AI Explorer：你的电脑将拥有超强记忆力](https://www.3dmgame.com/news/202403/3889860.html)
 
++ [BAFTA游戏大奖“玩家选择奖”提名公布：《博德之门3》等](https://www.3dmgame.com/news/202403/3889883.html)
+
++ [《沙丘2》“宿命之敌”中字预告 3月8日内地上映](https://www.3dmgame.com/news/202403/3889879.html)
+
++ [《决战效应：重装上阵》免费登陆Steam 横版枪战动作名作回归](https://www.3dmgame.com/news/202403/3889884.html)
+
++ [《荒野机器人》发布首支预告《驯龙高手》幕后班底全新力作](https://www.3dmgame.com/news/202403/3889882.html)
+
++ [《街头霸王5》实体街机日本4月停运 全部功能下线](https://www.3dmgame.com/news/202403/3889881.html)
+
++ [2D平台动作游戏《电钻少女》现已推出试玩Demo 3月29日发售](https://www.3dmgame.com/news/202403/3889880.html)
+
++ [《地平线：西之绝境》PC版新截图 画面绚丽夺目](https://www.3dmgame.com/news/202403/3889878.html)
+
++ [致力《鬼泣》《龙之信条》20年 伊津野英昭：想要尝试新事物](https://www.3dmgame.com/news/202403/3889876.html)
+
++ [《星际小队》Steam限时免费发布 宇宙战争模拟名作](https://www.3dmgame.com/news/202403/3889874.html)
+
++ [《远征：泥泞奔驰游戏》现已正式发售 Steam评价褒贬不一](https://www.3dmgame.com/news/202403/3889873.html)
+
++ [《浪人崛起》 PS5版15日开启预载 大小96GB](https://www.3dmgame.com/news/202403/3889872.html)
+
++ [《星刃》已在沙特阿拉伯过审 没有LGBTQ+元素](https://www.3dmgame.com/news/202403/3889871.html)
+
++ [微软将在2025年3月关闭Windows子系统安卓](https://www.3dmgame.com/news/202403/3889870.html)
+
++ [乐高般构筑城堡 即时战略塔防游戏《灾厄堡垒》定档7月16日](https://www.3dmgame.com/news/202403/3889869.html)
+
++ [暴雪前总裁：《暗黑4》试炼场有趣 玩家们会回归](https://www.3dmgame.com/news/202403/3889877.html)
+
++ [《暗黑地牢2》主机版在巴西通过评级 或即将公布](https://www.3dmgame.com/news/202403/3889875.html)
+

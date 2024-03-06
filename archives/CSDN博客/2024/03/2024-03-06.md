@@ -129,3 +129,11 @@
 
 + [python网络爬虫教程笔记(1)](https://blog.csdn.net/qq_45365214/article/details/124840449)
 
++ [(文末送书)直击前沿技术：《低代码平台开发实践：基于React》](https://blog.csdn.net/m0_61243965/article/details/136489074)
+
++ [Elasticsearch：使用 Streamlit、语义搜索和命名实体提取开发 Elastic Search 应用程序](https://blog.csdn.net/UbuntuTouch/article/details/136459971)
+
++ [华为OD七日集训第1期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/136494875)
+
++ [【Docker】Docker：解析容器化技术的利器与在Linux中的关键作用](https://blog.csdn.net/AliceNo/article/details/136471397)
+

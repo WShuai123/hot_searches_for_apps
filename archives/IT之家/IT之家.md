@@ -29,3 +29,9 @@
 
 + [运营闹乌龙：三星官推“不小心”赞了苹果 iPhone 13 Pro Max 拍摄的演唱会视频](https://m.ithome.com/html/753837.htm)
 
++ [苹果 iOS / iPadOS 17.4 正式版发布：扩充表情符号、播客引入听写文本](https://m.ithome.com/html/753891.htm)
+
++ [小米 14 手机 DXOMARK 影像、屏幕测试结果出炉，分别排名 28 和 53 名](https://m.ithome.com/html/753899.htm)
+
++ [我国废旧手机存量超 20 亿部，每吨废旧手机可提炼约 200 克黄金](https://m.ithome.com/html/753879.htm)
+
