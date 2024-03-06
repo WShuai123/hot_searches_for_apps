@@ -189,3 +189,11 @@
 
 + [【粉丝福利社】ChatGPT原理与架构（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136495181)
 
++ [游戏力：竞技游戏设计实战教程](https://blog.csdn.net/qq_44273429/article/details/136507909)
+
++ [低代码平台开发实践：基于React的高效构建与创新【文末送书-29】](https://blog.csdn.net/weixin_52908342/article/details/136486710)
+
++ [【探索Linux】—— 强大的命令行工具 P.25（网络编程套接字基本概念 —— 预备知识）](https://blog.csdn.net/m0_75215937/article/details/136437329)
+
++ [【知识整理】MySQL数据库开发设计规范](https://blog.csdn.net/tjls2008/article/details/136487506)
+

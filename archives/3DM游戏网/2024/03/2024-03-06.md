@@ -269,3 +269,5 @@
 
 + [玩家意外从拍得PS3中发现16年前夭折游戏《时空分裂者4》](https://www.3dmgame.com/news/202403/3889923.html)
 
++ [RPG《圣兽之王》公开指南视频第四期及官方解说漫画“](https://www.3dmgame.com/news/202403/3889925.html)
+
