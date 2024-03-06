@@ -279,3 +279,7 @@
 
 + [Capcom又给日本新员工涨工资 起薪上调超25%](https://www.3dmgame.com/news/202403/3889927.html)
 
++ [OpenAI回击马斯克起诉 称马斯克想要绝对控制公司](https://www.3dmgame.com/news/202403/3889931.html)
+
++ [《沙丘2》全球票房需要达到5亿美元才能回本](https://www.3dmgame.com/news/202403/3889930.html)
+
