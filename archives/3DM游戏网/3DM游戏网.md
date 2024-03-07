@@ -101,3 +101,9 @@
 
 + [第一人称叙事心理恐怖游戏《噩梦初醒》现已正式发售](https://www.3dmgame.com/news/202403/3889972.html)
 
++ [Epic喜加一：《宇宙决斗2》免费领取](https://www.3dmgame.com/news/202403/3890027.html)
+
++ [《像素郡物语》新增PS5和NS版本 年内发售](https://www.3dmgame.com/news/202403/3890028.html)
+
++ [《辐射》真人剧集预告发布 4月12日上线](https://www.3dmgame.com/news/202403/3890029.html)
+

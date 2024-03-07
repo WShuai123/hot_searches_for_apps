@@ -25,3 +25,5 @@
 
 + [吉利几何 E 萤火虫 301KM 龙腾版 5.98 万元，号称“电比电低”](https://m.ithome.com/html/754171.htm)
 
++ [尼康官宣收购电影摄影机 RED 公司](https://m.ithome.com/html/754264.htm)
+
