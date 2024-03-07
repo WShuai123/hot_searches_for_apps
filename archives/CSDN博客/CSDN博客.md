@@ -101,3 +101,25 @@
 
 + [Spring-Cloud中服务发现是什么？干什么的？怎么用？](https://blog.csdn.net/CSBIGDOG/article/details/136472702)
 
++ [30天拿下Rust之引用](https://blog.csdn.net/hope_wisdom/article/details/136439454)
+
++ [如何在Linux系统Docker部署Dashy并远程访问内网服务界面](https://blog.csdn.net/qyj19920704/article/details/136545456)
+
++ [AI短视频制作：创意与技术的完美结合](https://blog.csdn.net/2303_77146628/article/details/136547252)
+
++ [【Sql Server】C#通过拼接代码的方式组合添加sql语句，会出现那些情况，参数化的作用](https://blog.csdn.net/lmy_520/article/details/136446861)
+
++ [Three.js--》探寻Cannon.js构建震撼的3D物理交互体验（二）](https://blog.csdn.net/qq_53123067/article/details/136502446)
+
++ [[动态规划]---part2](https://blog.csdn.net/qq_61552595/article/details/136487134)
+
++ [[Redis]——缓存击穿和缓存穿透及解决方案（图解+代码+解释）](https://blog.csdn.net/Panci_/article/details/136518397)
+
++ [【粉丝福利社】Excel高效办公：会计与财务管理（AI版）（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136548502)
+
++ [UML简述（项目立项、设计、需求整理必备）](https://blog.csdn.net/s445320/article/details/136528968)
+
++ [外包干了10天，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/136520167)
+
++ [【轮式平衡机器人】——TMS320F28069片内外设之ePWM](https://blog.csdn.net/weixin_51658186/article/details/136379565)
+
