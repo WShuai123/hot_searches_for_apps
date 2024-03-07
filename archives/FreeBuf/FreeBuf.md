@@ -43,3 +43,7 @@
 
 + [针对亚太地区！iOS 木马开始窃取面部识别数据](https://www.freebuf.com/articles/network/392979.html)
 
++ [白话零信任技术架构之增强IAM](https://www.freebuf.com/articles/database/393030.html)
+
++ [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html)
+

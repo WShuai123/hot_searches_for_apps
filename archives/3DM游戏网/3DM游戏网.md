@@ -123,3 +123,21 @@
 
 + [《冰汽时代2》新预告：7月25日发售 首发加入XGP](https://www.3dmgame.com/news/202403/3889944.html)
 
++ [《浣熊硬探》开发商Eggnut Games因资金问题宣布关闭](https://www.3dmgame.com/news/202403/3889955.html)
+
++ [《女神异闻录3：Reload》扩展通行证公布 追加后日谈“埃癸斯篇”剧情](https://www.3dmgame.com/news/202403/3889953.html)
+
++ [《王冠之战：黑王子》领地概述 3月15日发售](https://www.3dmgame.com/news/202403/3889952.html)
+
++ [《心灵杀手2》PC配置降低 现已支持10系列显卡](https://www.3dmgame.com/news/202403/3889950.html)
+
++ [《星刃》全新截图：油腻师姐美丽 场景壮观惊艳](https://www.3dmgame.com/news/202403/3889954.html)
+
++ [生物收集类动作冒险游戏《生灵之境：亚娃》登录Steam平台](https://www.3dmgame.com/news/202403/3889951.html)
+
++ [《多重人生》发布会最新演示 确定支持XGP](https://www.3dmgame.com/news/202403/3889949.html)
+
++ [《最终幻想7：重生》之所以如此成功 是因为专为PS5开发](https://www.3dmgame.com/news/202403/3889947.html)
+
++ [《最后的生还者2》将是下个登陆PC的索尼游戏](https://www.3dmgame.com/news/202403/3889948.html)
+

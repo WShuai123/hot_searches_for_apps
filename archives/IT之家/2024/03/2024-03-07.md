@@ -33,3 +33,9 @@
 
 + [3488 元 / 699 元起，华为 P50 Pro、畅享 50z 官方翻新机开售](https://m.ithome.com/html/754076.htm)
 
++ [17.18~20.68 万元，广汽丰田全新凯美瑞上市：提供燃油 / 混动车型](https://m.ithome.com/html/754096.htm)
+
++ [33.98 万元起，2024 款腾势 D9 上市：全系标配电吸门、方向盘加热，车机系统升级](https://m.ithome.com/html/754090.htm)
+
++ [苹果 iPhone 16 渲染：后摄垂直排列、引入操作按钮和拍照按钮](https://m.ithome.com/html/754132.htm)
+

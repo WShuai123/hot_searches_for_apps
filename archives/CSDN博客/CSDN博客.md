@@ -141,3 +141,9 @@
 
 + [数据库核心术语解析与应用](https://blog.csdn.net/double222222/article/details/136439479)
 
++ [ChatGPT预训练的奥秘：大规模数据、Transformer架构与自回归学习【文末送书-31】](https://blog.csdn.net/weixin_52908342/article/details/136506032)
+
++ [【计算机网络】IO多路转接之epoll](https://blog.csdn.net/qq_67582098/article/details/136519855)
+
++ [FISCO BCOS区块链平台上的智能合约压力测试指南](https://blog.csdn.net/2202_75568470/article/details/136517718)
+
