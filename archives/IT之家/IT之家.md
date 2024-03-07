@@ -31,3 +31,5 @@
 
 + [雷军：一定把小米汽车干好、干成，不让全国的用户们失望](https://m.ithome.com/html/754117.htm)
 
++ [3488 元 / 699 元起，华为 P50 Pro、畅享 50z 官方翻新机开售](https://m.ithome.com/html/754076.htm)
+

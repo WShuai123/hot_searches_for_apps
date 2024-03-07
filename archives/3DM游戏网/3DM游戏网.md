@@ -115,3 +115,11 @@
 
 + [超能力动作游戏《未知9号：觉醒》发布全新预告片](https://www.3dmgame.com/news/202403/3889938.html)
 
++ [《潜行者：三部曲合集》全新预告 今日正式上线](https://www.3dmgame.com/news/202403/3889946.html)
+
++ [《最终幻想7：重制版》三部曲第三部也是PS主机独占](https://www.3dmgame.com/news/202403/3889943.html)
+
++ [《最终幻想14》将于3月21日登陆Xbox Series X|S](https://www.3dmgame.com/news/202403/3889945.html)
+
++ [《冰汽时代2》新预告：7月25日发售 首发加入XGP](https://www.3dmgame.com/news/202403/3889944.html)
+
