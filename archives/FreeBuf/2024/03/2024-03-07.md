@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html)
 
++ [用来批量制作“假脸”，iOS 面部识别数据正在被黑客窃取](https://www.freebuf.com/articles/network/392979.html)
+

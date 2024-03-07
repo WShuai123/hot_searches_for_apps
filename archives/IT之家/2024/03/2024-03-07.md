@@ -39,3 +39,7 @@
 
 + [苹果 iPhone 16 渲染：后摄垂直排列、引入操作按钮和拍照按钮](https://m.ithome.com/html/754132.htm)
 
++ [央视财经两名 AI 主播“上岗”：能 24 小时解答经济、产业、旅游等领域问题](https://m.ithome.com/html/754094.htm)
+
++ [长安启源 A07“真香版”上市：13.59 万-15.99 万元，新增 710km 续航车型](https://m.ithome.com/html/754035.htm)
+

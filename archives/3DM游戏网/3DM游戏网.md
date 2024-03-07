@@ -141,3 +141,35 @@
 
 + [《最后的生还者2》将是下个登陆PC的索尼游戏](https://www.3dmgame.com/news/202403/3889948.html)
 
++ [《龙之信条2》只有一个存档位 是为了鼓励玩家探索](https://www.3dmgame.com/news/202403/3889971.html)
+
++ [从小说到电影到游戏——沙丘IP宇宙再进阶，《沙丘：觉醒》公布全新实机预告片](https://www.3dmgame.com/news/202403/3889966.html)
+
++ [《英灵殿之子》发售日预告 4月5日正式发售](https://www.3dmgame.com/news/202403/3889970.html)
+
++ [《Sugardew Island》众筹开启 温馨牧场经营](https://www.3dmgame.com/news/202403/3889969.html)
+
++ [《节奏地牢》大型DLC“同步”结束抢先体验 3月14日正式发售](https://www.3dmgame.com/news/202403/3889968.html)
+
++ [老牌澳洲开发商Torus Games解雇团队并暂停运营](https://www.3dmgame.com/news/202403/3889967.html)
+
++ [开放世界生存游戏《冬日幸存者》抢先体验发布](https://www.3dmgame.com/news/202403/3889965.html)
+
++ [《星空》最新更新B测版Steam上线 修复海量问题改进照相表情](https://www.3dmgame.com/news/202403/3889963.html)
+
++ [Netflix《寄生兽》真人剧集首发官方前导预告](https://www.3dmgame.com/news/202403/3889962.html)
+
++ [《我的世界》将为狼推出重大更新 更丰富的种群和个体](https://www.3dmgame.com/news/202403/3889960.html)
+
++ [《黑帝斯2》将提供独立的体验 无需玩过原版游戏](https://www.3dmgame.com/news/202403/3889959.html)
+
++ [《功夫熊猫4》终极预告来啦 3月22日内地上映](https://www.3dmgame.com/news/202403/3889958.html)
+
++ [华纳兄弟宣布关闭《RWBY》制作公司Rooster Teeth](https://www.3dmgame.com/news/202403/3889957.html)
+
++ [斯宾塞似乎只玩了2分钟《碧海黑帆》就放弃了](https://www.3dmgame.com/news/202403/3889956.html)
+
++ [《刀剑神域 碎梦边境》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3889964.html)
+
++ [风火轮玩具生产商美泰宣布将自主发行手机游戏](https://www.3dmgame.com/news/202403/3889961.html)
+
