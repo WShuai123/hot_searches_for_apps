@@ -123,3 +123,9 @@
 
 + [Felt squirrelly, might delete later idk ????️](https://dribbble.com/shots/)
 
++ [Failure Fans These Flames Sticker](https://dribbble.com/shots/)
+
++ [AI Music Platform Landing page](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
