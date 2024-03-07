@@ -49,3 +49,5 @@
 
 + [用来批量制作“假脸”，iOS 面部识别数据正在被黑客窃取](https://www.freebuf.com/articles/network/392979.html)
 
++ [德国防部文件密码“1234”，德媒：这安全吗？](https://www.freebuf.com/news/393636.html)
+

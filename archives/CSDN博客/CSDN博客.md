@@ -157,3 +157,9 @@
 
 + [操作系统（笔记）（一）](https://blog.csdn.net/2303_77275067/article/details/136382774)
 
++ [SpringBoot中集成LiteFlow(轻量、快速、稳定可编排的组件式规则引擎)实现复杂业务解耦、动态编排、高可扩展](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/136505046)
+
++ [基于单片机的视觉导航小车设计](https://blog.csdn.net/weixin_112233/article/details/136504765)
+
++ [微服务分布式中为什么要分库分表呢？](https://blog.csdn.net/sunyingboaini/article/details/136495304)
+
