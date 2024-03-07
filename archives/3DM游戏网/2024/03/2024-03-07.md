@@ -277,3 +277,7 @@
 
 + [华硕ROG PG32UCDM预售 4K@240Hz OLED屏](https://www.3dmgame.com/news/202403/3890021.html)
 
++ [《声名狼藉：次子》也可能移植登陆PC平台](https://www.3dmgame.com/news/202403/3890024.html)
+
++ [Fami通新一周销量榜 《最终幻想7：重生》登顶](https://www.3dmgame.com/news/202403/3890025.html)
+
