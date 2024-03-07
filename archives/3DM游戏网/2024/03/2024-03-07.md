@@ -207,3 +207,9 @@
 
 + [神奇！AMD显卡暴涨117%份额飙升 英伟达意外大跌](https://www.3dmgame.com/news/202403/3889988.html)
 
++ [游戏王世界锦标赛2024宣布9月7日举办 新增超速决斗项目](https://www.3dmgame.com/news/202403/3889991.html)
+
++ [《Perfect Poses》4月登陆Steam 内裤男的完美姿势穿洞](https://www.3dmgame.com/news/202403/3889989.html)
+
++ [狮门影业的新剧集《暮光之城》实为动画作品](https://www.3dmgame.com/news/202403/3889990.html)
+
