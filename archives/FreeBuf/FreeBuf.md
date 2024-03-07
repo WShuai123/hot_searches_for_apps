@@ -61,3 +61,5 @@
 
 + [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html)
 
++ [安全运营——厂商如何构建安全托管运营服务业务（MSSMDR）](https://www.freebuf.com/articles/security-management/371601.html)
+
