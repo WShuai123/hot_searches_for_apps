@@ -51,3 +51,5 @@
 
 + [德国防部文件密码“1234”，德媒：这安全吗？](https://www.freebuf.com/news/393636.html)
 
++ [看Darktrace如何发现ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html)
+

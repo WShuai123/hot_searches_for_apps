@@ -205,3 +205,5 @@
 
 + [《龙之信条2》幻术师预告  3月22日发售](https://www.3dmgame.com/news/202403/3889977.html)
 
++ [神奇！AMD显卡暴涨117%份额飙升 英伟达意外大跌](https://www.3dmgame.com/news/202403/3889988.html)
+
