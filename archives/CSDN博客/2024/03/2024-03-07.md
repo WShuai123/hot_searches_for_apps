@@ -203,3 +203,9 @@
 
 + [【音视频开发好书推荐】RTC程序设计：实时音视频权威指南](https://blog.csdn.net/s445320/article/details/136484696)
 
++ [Spring Boot 3核心技术与最佳实践](https://blog.csdn.net/qq_44273429/article/details/136536450)
+
++ [如何在Linux系统部署MeterSphere服务并配置固定公网访问地址](https://blog.csdn.net/qq_73017178/article/details/136537039)
+
++ [如何在Linux系统Docker本地部署SimpleMindMap并实现远程访问？](https://blog.csdn.net/qq_25749749/article/details/136535270)
+

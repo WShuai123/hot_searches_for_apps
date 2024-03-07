@@ -211,3 +211,5 @@
 
 + [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
 
++ [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
+

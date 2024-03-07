@@ -271,3 +271,9 @@
 
 + [《对马岛之鬼》PC版刚公布 销量已经冲上Steam第五名](https://www.3dmgame.com/news/202403/3890020.html)
 
++ [英伟达打击第三方公司兼容CUDA 摩尔线程表示未受影响](https://www.3dmgame.com/news/202403/3890023.html)
+
++ [“黄金树之影”DLC难度将超过《艾尔登法环》本体 直接面向老玩家](https://www.3dmgame.com/news/202403/3890022.html)
+
++ [华硕ROG PG32UCDM预售 4K@240Hz OLED屏](https://www.3dmgame.com/news/202403/3890021.html)
+

@@ -63,3 +63,9 @@
 
 + [一学生起诉丰巢退还 1 元快递柜保管费获法院支持，丰巢称“已上诉”](https://m.ithome.com/html/754285.htm)
 
++ [小鹏汽车 CEO 何小鹏：飞行汽车开售前，所有相关高管必须飞 5000 公里](https://m.ithome.com/html/754315.htm)
+
++ [吉利几何 E 萤火虫 301KM 龙腾版 5.98 万元，号称“电比电低”](https://m.ithome.com/html/754171.htm)
+
++ [尼康官宣收购电影摄影机 RED 公司](https://m.ithome.com/html/754264.htm)
+

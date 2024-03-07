@@ -169,3 +169,5 @@
 
 + [Vmaker AI Video Editor](https://www.producthunt.com/posts/vmaker-ai-video-editor)
 
++ [Nothing Phone (2a)](https://www.producthunt.com/posts/nothing-phone-2a)
+
