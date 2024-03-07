@@ -63,3 +63,5 @@
 
 + [安全运营——厂商如何构建安全托管运营服务业务（MSSMDR）](https://www.freebuf.com/articles/security-management/371601.html)
 
++ [构建数智化的研发安全体系有何”秘籍“? | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html)
+

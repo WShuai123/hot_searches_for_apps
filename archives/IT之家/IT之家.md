@@ -51,3 +51,9 @@
 
 + [广汽传祺 GS3 影速车型直降 1.6 万现价 6.98 万起，M6 Pro 直降 2 万现价 9.98 万起](https://m.ithome.com/html/754078.htm)
 
++ [小米蓝牙音箱今日开售：支持澎湃智联、360° 全向出音，售价 499 元](https://m.ithome.com/html/754147.htm)
+
++ [广汽本田飞度 / 型格無限 MUGEN 版车型上市：外观更运动，售 9.78 万元、15.79 万元](https://m.ithome.com/html/754208.htm)
+
++ [消息称华为 P70 系列手机延期发布，此前暂定 3 月下旬](https://m.ithome.com/html/754227.htm)
+
