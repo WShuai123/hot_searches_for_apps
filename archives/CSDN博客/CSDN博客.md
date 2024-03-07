@@ -123,3 +123,9 @@
 
 + [【轮式平衡机器人】——TMS320F28069片内外设之ePWM](https://blog.csdn.net/weixin_51658186/article/details/136379565)
 
++ [2024三掌柜赠书活动第十二期：Nuxt.js Web开发实战](https://blog.csdn.net/CC1991_/article/details/136500778)
+
++ [Java社区疫情防控系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136488596)
+
++ [如何使用 CSS object-fit 进行图片的缩放和裁剪](https://blog.csdn.net/rubys007/article/details/136486937)
+

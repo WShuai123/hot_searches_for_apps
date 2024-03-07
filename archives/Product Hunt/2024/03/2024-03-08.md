@@ -105,3 +105,5 @@
 
 + [DOO](https://www.producthunt.com/posts/doo-4)
 
++ [Rivian R2, R3 and R3X](https://www.producthunt.com/posts/rivian-r2-r3-and-r3x)
+
