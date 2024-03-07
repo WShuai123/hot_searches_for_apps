@@ -55,3 +55,9 @@
 
 + [oss-fuzz-gen：一款基于LLM的模糊测试对象生成与评估框架](https://www.freebuf.com/sectool/391941.html)
 
++ [安全运营 -  厂商如何构建安全托管运营服务业务（MSSMDR）](https://www.freebuf.com/articles/security-management/371601.html)
+
++ [黑客冒充美国政府机构，开展网络欺诈活动](https://www.freebuf.com/news/393709.html)
+
++ [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html)
+

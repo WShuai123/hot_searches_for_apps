@@ -221,3 +221,11 @@
 
 + [春季极速狂欢！《极限竞速·地平线5》全新赛季5折史低特惠来袭！](https://www.3dmgame.com/news/202403/3889995.html)
 
++ [《星球大战》三部曲电影智利版被无缝植入广告](https://www.3dmgame.com/news/202403/3889999.html)
+
++ [《厄苏黎雅之烬》免费登陆Steam 第一人称弓箭射击新游](https://www.3dmgame.com/news/202403/3889996.html)
+
++ [动画电影《数码宝贝02：最初的召唤》国内定档4月20日](https://www.3dmgame.com/news/202403/3889997.html)
+
++ [《最终幻想14》XGP版仅有30天 但没有试玩交易限制](https://www.3dmgame.com/news/202403/3889998.html)
+

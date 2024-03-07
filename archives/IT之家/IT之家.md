@@ -43,3 +43,5 @@
 
 + [长安启源 A07“真香版”上市：13.59 万-15.99 万元，新增 710km 续航车型](https://m.ithome.com/html/754035.htm)
 
++ [消息称微信 Linux 原生版重构，全新 1.0 版本开启测试](https://m.ithome.com/html/754212.htm)
+

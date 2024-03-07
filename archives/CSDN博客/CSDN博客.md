@@ -179,3 +179,9 @@
 
 + [推荐书籍《低代码平台开发实践：基于React》—— 提升开发效率，构建优质应用](https://blog.csdn.net/qq_54796785/article/details/136499259)
 
++ [LLM 加速技巧：Muti Query Attention](https://blog.csdn.net/m0_46510245/article/details/136524711)
+
++ [【开源】SpringBoot框架开发网上药店系统](https://blog.csdn.net/askf01/article/details/136504185)
+
++ [个人商城系统开源（登录）](https://blog.csdn.net/2302_79791164/article/details/136496259)
+
