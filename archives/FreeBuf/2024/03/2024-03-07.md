@@ -53,3 +53,5 @@
 
 + [看Darktrace如何发现ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html)
 
++ [oss-fuzz-gen：一款基于LLM的模糊测试对象生成与评估框架](https://www.freebuf.com/sectool/391941.html)
+
