@@ -49,3 +49,29 @@
 
 + [AI Music Platform Landing page](https://dribbble.com/shots/)
 
++ [Do What You Will Tattoo](https://dribbble.com/shots/)
+
++ [Paint Factory](https://dribbble.com/shots/)
+
++ [The Bear Yes Chef! Illustration](https://dribbble.com/shots/)
+
++ [Creative Desperation logo](https://dribbble.com/shots/)
+
++ [Sweetland](https://dribbble.com/shots/)
+
++ [Interior design for Viture CGI](https://dribbble.com/shots/)
+
++ [Ice Cream Cones](https://dribbble.com/shots/)
+
++ [4 Travelers Honey Liqueur](https://dribbble.com/shots/)
+
++ [Gunslingers](https://dribbble.com/shots/)
+
++ [Quirky Eagle Character](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
++ [Nike Jordan](https://dribbble.com/shots/)
+
++ [Chum Bucket](https://dribbble.com/shots/)
+
