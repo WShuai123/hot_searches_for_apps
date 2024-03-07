@@ -75,3 +75,15 @@
 
 + [Chum Bucket](https://dribbble.com/shots/)
 
++ [StickerApp x Red Halftone: Wall Stickers](https://dribbble.com/shots/)
+
++ [Parrot Paradise](https://dribbble.com/shots/)
+
++ [Movie Monsters — (1) Frankenstein's Monster](https://dribbble.com/shots/)
+
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [Hero layout](https://dribbble.com/shots/)
+
++ [Jodar Farms](https://dribbble.com/shots/)
+
