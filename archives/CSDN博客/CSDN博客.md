@@ -193,3 +193,7 @@
 
 + [小程序API能力集成指南——画布API汇总（二）](https://blog.csdn.net/Ms_Smart/article/details/136395075)
 
++ [图神经网络实战（4）——基于Node2Vec改进嵌入质量](https://blog.csdn.net/LOVEmy134611/article/details/136359416)
+
++ [Docker本地部署Redis容器结合内网穿透实现无公网ip远程连接](https://blog.csdn.net/st200112266/article/details/136530666)
+

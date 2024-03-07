@@ -57,3 +57,7 @@
 
 + [消息称华为 P70 系列手机延期发布，此前暂定 3 月下旬](https://m.ithome.com/html/754227.htm)
 
++ [快手与华为达成合作，启动鸿蒙星河版原生应用开发](https://m.ithome.com/html/754102.htm)
+
++ [苏姿丰亲自过问，AMD 工程师数小时内提供 RX 7900 XTX GPU 固件解决方案](https://m.ithome.com/html/754197.htm)
+
