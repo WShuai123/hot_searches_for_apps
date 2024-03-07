@@ -67,3 +67,5 @@
 
 + [数智化研发安全体系建设“秘籍” | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html)
 
++ [看Darktrace如何对抗ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html)
+

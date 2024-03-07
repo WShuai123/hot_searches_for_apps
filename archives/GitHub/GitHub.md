@@ -51,3 +51,31 @@
 
 + [cemu-project / Cemu](https://github.com/cemu-project/Cemu)
 
++ [VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [Crimson-Hawk / suyu](https://github.com/Crimson-Hawk/suyu)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot)
+
++ [yuzu-mirror / yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads)
+
++ [bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+
++ [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j)
+
++ [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [barry-ran / QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+
++ [snipe / snipe-it](https://github.com/snipe/snipe-it)
+

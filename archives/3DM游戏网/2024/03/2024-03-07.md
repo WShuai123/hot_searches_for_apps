@@ -269,3 +269,5 @@
 
 + [305米的小行星“毁神星”5年后贴脸擦过地球：不排除撞击](https://www.3dmgame.com/news/202403/3890005.html)
 
++ [《对马岛之鬼》PC版刚公布 销量已经冲上Steam第五名](https://www.3dmgame.com/news/202403/3890020.html)
+
