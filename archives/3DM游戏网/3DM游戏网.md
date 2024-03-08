@@ -243,3 +243,5 @@
 
 + [胖布丁解谜游戏《大菠萝马戏团》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890093.html)
 
++ [高通越来越依赖三星？已占其2023Q4收入的40%](https://www.3dmgame.com/news/202403/3890099.html)
+

@@ -53,3 +53,7 @@
 
 + [苹果 iOS“地震预警”App 发布 2024.1.1 更新：体积大幅缩减至 474.4MB](https://m.ithome.com/html/754536.htm)
 
++ [“地震预警”苹果 iOS 版 App 发布 2024.1.1 更新：体积大幅缩减至 474.4MB](https://m.ithome.com/html/754536.htm)
+
++ [花见花开一道来：苹果上海第八家直营店“Apple 静安店”即将开幕](https://m.ithome.com/html/754394.htm)
+

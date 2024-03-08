@@ -181,3 +181,11 @@
 
 + [【计网】TCP协议安全与风险：深入探讨网络通信的基石](https://blog.csdn.net/AliceNo/article/details/136556569)
 
++ [【SpringBoot】多环境切换的灵活配置](https://blog.csdn.net/Qingai521/article/details/136567477)
+
++ [Vue.js+SpringBoot开发海南旅游景点推荐系统](https://blog.csdn.net/customer08/article/details/136538626)
+
++ [SpringBoot+Ajax+redis实现隐藏重要接口地址](https://blog.csdn.net/weixin_62951900/article/details/136559425)
+
++ [如何有效的构建和落地内部审计数字化？](https://blog.csdn.net/qq_25749749/article/details/136555816)
+
