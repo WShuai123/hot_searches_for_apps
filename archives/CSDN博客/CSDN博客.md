@@ -131,3 +131,9 @@
 
 + [使用 Logstash 丰富你的 Elasticsearch 文档](https://blog.csdn.net/UbuntuTouch/article/details/136534114)
 
++ [【SpringBoot系列】Spring Boot 3核心技术与最佳实践](https://blog.csdn.net/jinxinxin1314/article/details/136548925)
+
++ [实操keepalived（高可用）+Nginx（四层代理+七层代理），实现高可用、负载均衡以及动静分离](https://blog.csdn.net/MCB134/article/details/136531605)
+
++ [纯css实现太极八卦图](https://blog.csdn.net/weixin_43376417/article/details/136541004)
+

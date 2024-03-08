@@ -149,3 +149,15 @@
 
 + [PS粉丝抵制《对马岛之鬼》PC版 甚至称PC玩家最垃圾](https://www.3dmgame.com/news/202403/3890037.html)
 
++ [《洛奇英雄传：反抗命运》公布新预告 3月14日开启A测](https://www.3dmgame.com/news/202403/3890051.html)
+
++ [《三角洲行动》大规模PC测试开启 显存需5GB以上](https://www.3dmgame.com/news/202403/3890052.html)
+
++ [《Dream Tactics》发售日期公布 4月15日推出](https://www.3dmgame.com/news/202403/3890053.html)
+
++ [《星露谷物语》开发者保证：1.6大型更新不会影响存档](https://www.3dmgame.com/news/202403/3890054.html)
+
++ [《妮姬》全新SSR角色登场 很大很晃让人挪不开眼](https://www.3dmgame.com/news/202403/3890055.html)
+
++ [动漫风格即时战略游戏《刃裔学院》 已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3890056.html)
+
