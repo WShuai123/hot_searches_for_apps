@@ -197,3 +197,23 @@
 
 + [休闲解谜游戏《放这里吧》Steam页面上线 支持简中](https://www.3dmgame.com/news/202403/3890070.html)
 
++ [Windows Phone彻底凉凉！微软移动通信公司正式注销](https://www.3dmgame.com/news/202403/3890083.html)
+
++ [英伟达推出生成式AI专家认证 费用135美元](https://www.3dmgame.com/news/202403/3890084.html)
+
++ [《东京迷城》系列新作公开 发售日期待定](https://www.3dmgame.com/news/202403/3890085.html)
+
++ [《祇：女神之道》游戏总监：游戏已处于最后开发阶段](https://www.3dmgame.com/news/202403/3890081.html)
+
++ [《绝地潜兵2》开发者承认高难刷怪太多：将进行调整](https://www.3dmgame.com/news/202403/3890082.html)
+
++ [京都动画制作京都府宇治市宣传片公布30秒预览 完整版即将公开](https://www.3dmgame.com/news/202403/3890079.html)
+
++ [GTAOL：当当钟农场突袭现已推出](https://www.3dmgame.com/news/202403/3890080.html)
+
++ [《美少女梦工厂2：重生》再次宣布跳票 7月11日发售](https://www.3dmgame.com/news/202403/3890076.html)
+
++ [《使命召唤：战区》反作弊更新：打击“飞车”外挂](https://www.3dmgame.com/news/202403/3890078.html)
+
++ [《沙漠大冒险》自定义摩托车预告 4月25日发售](https://www.3dmgame.com/news/202403/3890077.html)
+

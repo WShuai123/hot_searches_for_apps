@@ -107,3 +107,43 @@
 
 + [Rivian R2, R3 and R3X](https://www.producthunt.com/posts/rivian-r2-r3-and-r3x)
 
++ [Discharge - Battery Warning](https://www.producthunt.com/posts/discharge-battery-warning)
+
++ [Ocular AI](https://www.producthunt.com/posts/ocular-ai)
+
++ [Super RAG](https://www.producthunt.com/posts/super-rag)
+
++ [Card Buddy](https://www.producthunt.com/posts/card-buddy)
+
++ [Charmed AI](https://www.producthunt.com/posts/charmed-ai)
+
++ [Spatial Message - for WhatsApp](https://www.producthunt.com/posts/spatial-message-for-whatsapp)
+
++ [SaaSrefs](https://www.producthunt.com/posts/saasrefs)
+
++ [I Have Nothing To Wear](https://www.producthunt.com/posts/i-have-nothing-to-wear)
+
++ [Botal](https://www.producthunt.com/posts/botal)
+
++ [findatool](https://www.producthunt.com/posts/findatool)
+
++ [Lily CRM](https://www.producthunt.com/posts/lily-crm)
+
++ [DryMerge](https://www.producthunt.com/posts/drymerge)
+
++ [DraftAid](https://www.producthunt.com/posts/draftaid)
+
++ [Ingrain](https://www.producthunt.com/posts/ingrain)
+
++ [Distillery 2.0](https://www.producthunt.com/posts/distillery-2-0)
+
++ [1001 Record](https://www.producthunt.com/posts/1001-record)
+
++ [Tailbox](https://www.producthunt.com/posts/tailbox)
+
++ [Questflow](https://www.producthunt.com/posts/questflow-90258c5f-2e2f-4490-9012-1b7a198fe02e)
+
++ [LemonRocks](https://www.producthunt.com/posts/lemonrocks)
+
++ [Hai](https://www.producthunt.com/posts/hai-2)
+

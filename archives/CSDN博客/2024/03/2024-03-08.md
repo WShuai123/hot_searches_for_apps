@@ -161,3 +161,13 @@
 
 + [数字孪生10个技术栈：数据处理的六步骤，以获得可靠数据。](https://blog.csdn.net/2401_82881178/article/details/136547088)
 
++ [StarCoder 2：GitHub Copilot本地开源LLM替代方案](https://blog.csdn.net/m0_46510245/article/details/136555951)
+
++ [爬虫实战——巴黎圣母院新闻【内附超详细教程，你上你也行】](https://blog.csdn.net/HHX_01/article/details/136532961)
+
++ [【ICCV】AIGC时代下的SOTA人脸表征提取器TransFace，FaceChain团队出品](https://blog.csdn.net/sunbaigui/article/details/136556006)
+
++ [第107讲：Mycat实践指南：取模分片下的水平分表详解](https://blog.csdn.net/weixin_44953658/article/details/136554227)
+
++ [【Vue】VueX仓库](https://blog.csdn.net/m0_62645012/article/details/136486848)
+
