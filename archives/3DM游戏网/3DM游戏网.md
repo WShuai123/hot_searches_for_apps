@@ -161,3 +161,9 @@
 
 + [动漫风格即时战略游戏《刃裔学院》 已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3890056.html)
 
++ [Ubisoft+ 经典现已可在PlayStation上单独购买](https://www.3dmgame.com/news/202403/3890057.html)
+
++ [Xbox Series推出《辐射》真人剧主题动态主页背景](https://www.3dmgame.com/news/202403/3890058.html)
+
++ [《漫威蜘蛛侠2》更新意外开放开发菜单 首个DLC泄露](https://www.3dmgame.com/news/202403/3890059.html)
+

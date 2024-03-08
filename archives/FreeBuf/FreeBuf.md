@@ -47,3 +47,5 @@
 
 + [信息安全管理 | 数据出境合规申请路径流程](https://www.freebuf.com/articles/compliance/393141.html)
 
++ [Play 勒索软件泄露了6.5 万份瑞士政府机密文件](https://www.freebuf.com/news/393783.html)
+
