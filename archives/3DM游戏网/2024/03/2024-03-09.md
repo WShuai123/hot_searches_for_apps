@@ -101,3 +101,5 @@
 
 + [《漫威蜘蛛侠2》更新意外开放开发菜单 首个DLC泄露](https://www.3dmgame.com/news/202403/3890059.html)
 
++ [《地狱潜者2》是英国2月最畅销游戏 PS5最畅销主机](https://www.3dmgame.com/news/202403/3890108.html)
+

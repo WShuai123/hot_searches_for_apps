@@ -27,3 +27,7 @@
 
 + [2024 款苹果 MacBook Air 笔记本今日首销：M3 芯片，8999 元起](https://m.ithome.com/html/754397.htm)
 
++ [由 Here 换为国产“四维图新”，微软“Windows 地图”应用悄悄更改中国大陆提供源](https://m.ithome.com/html/754602.htm)
+
++ [小鹏汽车 CEO 何小鹏谈小米汽车：雷总压力不可能不大，优势用好就大有机会](https://m.ithome.com/html/754604.htm)
+
