@@ -147,3 +147,25 @@
 
 + [Hai](https://www.producthunt.com/posts/hai-2)
 
++ [DataDiver](https://www.producthunt.com/posts/datadiver)
+
++ [OpenAlternative](https://www.producthunt.com/posts/openalternative)
+
++ [Realm App](https://www.producthunt.com/posts/realm-app)
+
++ [FocusBeats: Pomodoro + Music](https://www.producthunt.com/posts/focusbeats-pomodoro-music)
+
++ [Drippy BETA](https://www.producthunt.com/posts/drippy-beta)
+
++ [Inboundly - Ultimate Twitter CRM](https://www.producthunt.com/posts/inboundly-ultimate-twitter-crm)
+
++ [Hustle CRM Copilot](https://www.producthunt.com/posts/hustle-crm-copilot)
+
++ [VERSE AI](https://www.producthunt.com/posts/verse-ai)
+
++ [Vital](https://www.producthunt.com/posts/vital-4)
+
++ [Outset](https://www.producthunt.com/posts/outset)
+
++ [KleverList](https://www.producthunt.com/posts/kleverlist)
+

@@ -217,3 +217,17 @@
 
 + [《沙漠大冒险》自定义摩托车预告 4月25日发售](https://www.3dmgame.com/news/202403/3890077.html)
 
++ [又有麻烦！《哈利波特》作者JK罗琳被指控歧视变性人](https://www.3dmgame.com/news/202403/3890092.html)
+
++ [中国玩家呼吁《星刃》尽快在PC上发布 官方点赞](https://www.3dmgame.com/news/202403/3890089.html)
+
++ [电池存起火风险 超5000辆奥迪E-tron召回！官方建议先锁电至80%](https://www.3dmgame.com/news/202403/3890091.html)
+
++ [八宝粥罐盖成小米14 Ultra最强配件 盖镜头严丝合缝](https://www.3dmgame.com/news/202403/3890090.html)
+
++ [外交部对漫画家鸟山明去世表示哀悼 成龙发博哀悼](https://www.3dmgame.com/news/202403/3890088.html)
+
++ [真人互动影游《哎呦！这么多美女》上架Epic 2024年Q1发售](https://www.3dmgame.com/news/202403/3890087.html)
+
++ [据报道《光环：士官长合集》支持停止：没有收入](https://www.3dmgame.com/news/202403/3890086.html)
+
