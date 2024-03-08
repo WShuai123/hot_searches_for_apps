@@ -113,3 +113,9 @@
 
 + [《魂斗罗：加鲁加行动》角色预告新老主角齐上阵](https://www.3dmgame.com/news/202403/3890030.html)
 
++ [《兄弟：双子传说重制版》XSS最低分辨率只有454P](https://www.3dmgame.com/news/202403/3890035.html)
+
++ [Capcom发布动作策略游戏《祇：女神之道》介绍视频](https://www.3dmgame.com/news/202403/3890034.html)
+
++ [3月21日正式开播 网飞版《三体》​发布最终预告](https://www.3dmgame.com/news/202403/3890033.html)
+

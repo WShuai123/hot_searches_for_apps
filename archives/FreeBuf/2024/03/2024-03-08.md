@@ -41,3 +41,7 @@
 
 + [CrowdStrike全球威胁报告：云入侵上升75%](https://www.freebuf.com/articles/paper/393157.html)
 
++ [FreeBuf 早报 | 香港私隐公署开展人工智能合规检查；Meta旗下社交媒体全球范围宕机](https://www.freebuf.com/news/393643.html)
+
++ [波及世界多地，分析不断进化的Parrot TDS恶意软件活动](https://www.freebuf.com/articles/network/393145.html)
+

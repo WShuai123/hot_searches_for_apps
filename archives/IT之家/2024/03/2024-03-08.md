@@ -27,3 +27,5 @@
 
 + [尼康官宣收购电影摄影机 RED 公司](https://m.ithome.com/html/754264.htm)
 
++ [一男子用 AI 换脸“再现”已故父亲：将父亲面部“移植”至自己脸上以安慰奶奶](https://m.ithome.com/html/754351.htm)
+
