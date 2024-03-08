@@ -167,3 +167,21 @@
 
 + [《漫威蜘蛛侠2》更新意外开放开发菜单 首个DLC泄露](https://www.3dmgame.com/news/202403/3890059.html)
 
++ [苹果严打欧版iPhone外流 离开超30天无法使用第三方商店](https://www.3dmgame.com/news/202403/3890069.html)
+
++ [壕草率！网易¥66666×16薪招的制作人，只要会用Y3编辑器就行？](https://www.3dmgame.com/news/202403/3890068.html)
+
++ [剧本杀谜案推凶！《子归》Steam商店页现已公开](https://www.3dmgame.com/news/202403/3890066.html)
+
++ [吉田透露：《最终幻想14》新种族女硌狮设计原本更可爱](https://www.3dmgame.com/news/202403/3890065.html)
+
++ [2024年BAFTA游戏大奖提名公布 获奖者4月12日揭晓](https://www.3dmgame.com/news/202403/3890062.html)
+
++ [D＆D所有者孩之宝希望与拉瑞安继续合作开发新游戏](https://www.3dmgame.com/news/202403/3890064.html)
+
++ [《龙珠》作者鸟山明因病去世 享年68岁](https://www.3dmgame.com/news/202403/3890063.html)
+
++ [《圣兽之王》今日正式上线 发售宣传片同步公开](https://www.3dmgame.com/news/202403/3890060.html)
+
++ [《绝地潜兵2》公布新战争债券通行证 超炫电弧霰弹枪](https://www.3dmgame.com/news/202403/3890061.html)
+

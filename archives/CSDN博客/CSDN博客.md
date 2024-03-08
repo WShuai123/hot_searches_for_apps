@@ -141,3 +141,9 @@
 
 + [计算机网络：网络层知识点汇总](https://blog.csdn.net/m0_57180439/article/details/136383385)
 
++ [【机器学习】包裹式特征选择之基于遗传算法的特征选择](https://blog.csdn.net/m0_74195174/article/details/136502687)
+
++ [【C++庖丁解牛】C++内存管理 | new和delete的使用以及使用原理](https://blog.csdn.net/weixin_60521256/article/details/136481902)
+
++ [pytorch（六、七）多维特征数据的输入、加载数据集的类](https://blog.csdn.net/CodePlayMe/article/details/136461789)
+
