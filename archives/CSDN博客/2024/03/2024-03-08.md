@@ -189,3 +189,7 @@
 
 + [如何有效的构建和落地内部审计数字化？](https://blog.csdn.net/qq_25749749/article/details/136555816)
 
++ [第四篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas生物信息学领域应用](https://blog.csdn.net/jackchuanqi/article/details/136508383)
+
++ [如何在Windows上使用Docker，搭建一款实用的个人IT工具箱It- Tools](https://blog.csdn.net/wtyuong/article/details/136566547)
+

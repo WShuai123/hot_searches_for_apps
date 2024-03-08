@@ -57,3 +57,7 @@
 
 + [花见花开一道来：苹果上海第八家直营店“Apple 静安店”即将开幕](https://m.ithome.com/html/754394.htm)
 
++ [小鹏汇天飞行汽车“旅航者 X2”首次飞越广州 CBD，已获特许飞行证](https://m.ithome.com/html/754477.htm)
+
++ [天猫超市开启“88VIP 会员无限包邮”活动，截止 3 月 10 日 23:59:59](https://m.ithome.com/html/754457.htm)
+
