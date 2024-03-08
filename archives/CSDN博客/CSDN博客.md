@@ -193,3 +193,7 @@
 
 + [如何在Windows上使用Docker，搭建一款实用的个人IT工具箱It- Tools](https://blog.csdn.net/wtyuong/article/details/136566547)
 
++ [【探索Linux】—— 强大的命令行工具 P.26（网络编程套接字基本概念—— socket编程接口 | socket编程接口相关函数详细介绍 ）](https://blog.csdn.net/m0_75215937/article/details/136467061)
+
++ [【人工智能课程】计算机科学博士作业三](https://blog.csdn.net/weixin_43935696/article/details/136500831)
+
