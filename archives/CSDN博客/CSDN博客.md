@@ -101,3 +101,23 @@
 
 + [【计算机网络】IO多路转接之epoll](https://blog.csdn.net/qq_67582098/article/details/136519855)
 
++ [linux系统的运维有哪些工作，需要做好哪方面的知识储备？需要学些哪方面的技术？](https://blog.csdn.net/weixin_70208651/article/details/136546931)
+
++ [基于React的低代码开发：探索应用构建的新模式](https://blog.csdn.net/Aileenvov/article/details/136518356)
+
++ [自动驾驶到底需要多少个传感器？](https://blog.csdn.net/weixin_47371464/article/details/136533779)
+
++ [【小黑嵌入式系统第十八课】结课总结（二）——软件部分（系统架构&调试&测试&运行&系统软件设计）](https://blog.csdn.net/Goforyouqp/article/details/136496045)
+
++ [阿里云和腾讯云区别价格表，云服务器费用对比2024年最新](https://blog.csdn.net/gla2018/article/details/136547497)
+
++ [GPT-4技术解析：与Claude3、Gemini、Sora的技术差异与优势对比](https://blog.csdn.net/zmjia111/article/details/136507667)
+
++ [数学建模【模糊综合评价分析】](https://blog.csdn.net/W_O_Z/article/details/136489825)
+
++ [【轮式平衡机器人】——TMS320F28069片内外设之ePWM](https://blog.csdn.net/weixin_51658186/article/details/136379565)
+
++ [FISCO BCOS区块链平台上的智能合约压力测试指南](https://blog.csdn.net/2202_75568470/article/details/136517718)
+
++ [推荐书籍《低代码平台开发实践：基于React》—— 提升开发效率，构建优质应用](https://blog.csdn.net/qq_54796785/article/details/136499259)
+

@@ -103,3 +103,15 @@
 
 + [《地狱潜者2》是英国2月最畅销游戏 PS5最畅销主机](https://www.3dmgame.com/news/202403/3890108.html)
 
++ [外媒分析《碧姬公主：表演时刻》由Good-Feel开发](https://www.3dmgame.com/news/202403/3890113.html)
+
++ [《全职猎人》新格斗游戏确认将登陆PS5/NS/PC](https://www.3dmgame.com/news/202403/3890112.html)
+
++ [PlayStation日本分公司分享新作阵容视频](https://www.3dmgame.com/news/202403/3890114.html)
+
++ [科幻类魂RPG《夜行者》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202403/3890111.html)
+
++ [香草社在《圣兽之王》开发过程中已耗尽资金](https://www.3dmgame.com/news/202403/3890110.html)
+
++ [《寂静岭2》重制版已在韩国地区进行分级](https://www.3dmgame.com/news/202403/3890109.html)
+
