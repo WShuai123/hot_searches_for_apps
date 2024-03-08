@@ -119,3 +119,33 @@
 
 + [3月21日正式开播 网飞版《三体》​发布最终预告](https://www.3dmgame.com/news/202403/3890033.html)
 
++ [《龙之信条2》现已提供全平台角色编辑＆保存工具](https://www.3dmgame.com/news/202403/3890048.html)
+
++ [《守望先锋2》总监承认DPS英雄目前太强 即将削弱](https://www.3dmgame.com/news/202403/3890049.html)
+
++ [开放世界APRG《物质世界2》正式公布 发售日期待定](https://www.3dmgame.com/news/202403/3890046.html)
+
++ [乌尔善新片《郑和下西洋》2026年上映 今年第四季度开拍](https://www.3dmgame.com/news/202403/3890047.html)
+
++ [《星际公民》新视频展示FPS战斗改进：背包装弹等](https://www.3dmgame.com/news/202403/3890045.html)
+
++ [《绝地潜兵2》开发者暴言：看玩家因削弱哭闹很愉悦](https://www.3dmgame.com/news/202403/3890044.html)
+
++ [《Amerzone-探險家的記憶傳承》Steam页面上线 暂不支持简中](https://www.3dmgame.com/news/202403/3890043.html)
+
++ [《星刃》或将推出试玩版Demo 大家想玩吗？](https://www.3dmgame.com/news/202403/3890050.html)
+
++ [Steam开启EA经典游戏特卖 《命令与征服：最终合集》推出](https://www.3dmgame.com/news/202403/3890042.html)
+
++ [《头脑特工队2》正式预告曝光 6月14日北美上映](https://www.3dmgame.com/news/202403/3890041.html)
+
++ [《守望先锋2》联动《星际牛仔》预告发布 下周上线](https://www.3dmgame.com/news/202403/3890040.html)
+
++ [露营爱好者福音 《龙之信条2》的烹饪场景为真实拍摄](https://www.3dmgame.com/news/202403/3890039.html)
+
++ [恐怖游戏《堕》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202403/3890038.html)
+
++ [日本《最终幻想7：重生》实体首发销量比《最终幻想16》低22%](https://www.3dmgame.com/news/202403/3890036.html)
+
++ [PS粉丝抵制《对马岛之鬼》PC版 甚至称PC玩家最垃圾](https://www.3dmgame.com/news/202403/3890037.html)
+
