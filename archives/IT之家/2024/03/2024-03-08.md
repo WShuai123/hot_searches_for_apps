@@ -41,3 +41,5 @@
 
 + [京东方宣布供应全新极氪 001 2.5K 柔性 OLED 中控屏：采用 Tandem 叠层 OLED 技术](https://m.ithome.com/html/754311.htm)
 
++ [极星 4 全系车型限时降价 6 万元，单电机标准续航版 23.99 万元起售、限量 100 辆](https://m.ithome.com/html/754336.htm)
+
