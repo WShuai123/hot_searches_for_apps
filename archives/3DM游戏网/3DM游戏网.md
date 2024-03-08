@@ -231,3 +231,15 @@
 
 + [据报道《光环：士官长合集》支持停止：没有收入](https://www.3dmgame.com/news/202403/3890086.html)
 
++ [全力以赴干好！雷军：为小米汽车上市做最后冲刺准备](https://www.3dmgame.com/news/202403/3890098.html)
+
++ [VR陀螺联合影核探索新平台新机遇：Vision Pro系列开发者活动•广州站圆满结束](https://www.3dmgame.com/news/202403/3890097.html)
+
++ [你支持过几块卡！英伟达将超越苹果：黄仁勋真赚大了](https://www.3dmgame.com/news/202403/3890096.html)
+
++ [Atlus新作《暗喻幻想》已在韩国通过评级 发售日期待定](https://www.3dmgame.com/news/202403/3890095.html)
+
++ [谷歌浏览器新功能：将网站作为应用“安装”至桌面](https://www.3dmgame.com/news/202403/3890094.html)
+
++ [胖布丁解谜游戏《大菠萝马戏团》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890093.html)
+

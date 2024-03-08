@@ -47,3 +47,9 @@
 
 + [致态 PRO 专业高速存储卡 1TB 版发布，首发价 849 元](https://m.ithome.com/html/754464.htm)
 
++ [华为知情人士回应 P70 系列手机延期：发布日期压根没对外公布过](https://m.ithome.com/html/754506.htm)
+
++ [荣耀 Magic6 至臻版手机设计公布，独特镜头模组形状](https://m.ithome.com/html/754468.htm)
+
++ [苹果 iOS“地震预警”App 发布 2024.1.1 更新：体积大幅缩减至 474.4MB](https://m.ithome.com/html/754536.htm)
+
