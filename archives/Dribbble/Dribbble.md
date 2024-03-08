@@ -49,3 +49,23 @@
 
 + [Hot sauce illustrations](https://dribbble.com/shots/)
 
++ [Bastards Bluff Label Design Mockup](https://dribbble.com/shots/)
+
++ [Gum Wrapper](https://dribbble.com/shots/)
+
++ [Gunslingers](https://dribbble.com/shots/)
+
++ [Wood](https://dribbble.com/shots/)
+
++ [Barking Cartel](https://dribbble.com/shots/)
+
++ [Vague Future](https://dribbble.com/shots/)
+
++ [MEZZO: Editable Illustrator Grain Textures - Now Available!](https://dribbble.com/shots/)
+
++ [Bigbun | Brand Illustrations](https://dribbble.com/shots/)
+
++ [The Monocronies 02.](https://dribbble.com/shots/)
+
++ [Interior design for Viture CGI](https://dribbble.com/shots/)
+

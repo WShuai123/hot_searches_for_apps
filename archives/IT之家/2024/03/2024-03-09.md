@@ -25,3 +25,5 @@
 
 + [一汽大众推出 ID.4 CROZZ 三周年版车型，售价 13.98 万元起](https://m.ithome.com/html/754482.htm)
 
++ [2024 款苹果 MacBook Air 笔记本今日首销：M3 芯片，8999 元起](https://m.ithome.com/html/754397.htm)
+
