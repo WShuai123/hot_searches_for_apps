@@ -39,3 +39,5 @@
 
 + [终身免费使用，极氪 001 新老车主 0 元开通完全智能辅助驾驶系统](https://m.ithome.com/html/754267.htm)
 
++ [京东方宣布供应全新极氪 001 2.5K 柔性 OLED 中控屏：采用 Tandem 叠层 OLED 技术](https://m.ithome.com/html/754311.htm)
+

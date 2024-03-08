@@ -51,3 +51,7 @@
 
 + [渗透测试 | RKE如何破解汽车](https://www.freebuf.com/articles/wireless/393040.html)
 
++ [WogRAT 恶意软件用记事本服务攻击 Windows 和 Linux 系统](https://www.freebuf.com/news/393800.html)
+
++ [Flipper Zero WiFi 网络钓鱼攻击可以解锁特斯拉汽车](https://www.freebuf.com/news/393813.html)
+

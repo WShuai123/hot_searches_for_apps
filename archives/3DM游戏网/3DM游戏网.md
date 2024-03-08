@@ -185,3 +185,15 @@
 
 + [《绝地潜兵2》公布新战争债券通行证 超炫电弧霰弹枪](https://www.3dmgame.com/news/202403/3890061.html)
 
++ [四人大逃杀派对游戏《寿司大作战》登录Steam平台](https://www.3dmgame.com/news/202403/3890075.html)
+
++ [玩家发现《赛博朋克2077》新更新彩蛋 获开发者祝贺](https://www.3dmgame.com/news/202403/3890074.html)
+
++ [《Goeland》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3890073.html)
+
++ [《勇者斗恶龙》制作人堀井雄二发文悼念鸟山明 曾参与多部作品开发](https://www.3dmgame.com/news/202403/3890072.html)
+
++ [艾泽拉斯也不接受菠萝披萨 《魔兽世界》食用菠萝披萨会有Debuff](https://www.3dmgame.com/news/202403/3890071.html)
+
++ [休闲解谜游戏《放这里吧》Steam页面上线 支持简中](https://www.3dmgame.com/news/202403/3890070.html)
+

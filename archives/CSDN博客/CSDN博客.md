@@ -147,3 +147,11 @@
 
 + [pytorch（六、七）多维特征数据的输入、加载数据集的类](https://blog.csdn.net/CodePlayMe/article/details/136461789)
 
++ [基于深度学习的交通标志检测识别系统（含UI界面、yolov8、Python代码、数据集）](https://blog.csdn.net/qq_28949847/article/details/136315716)
+
++ [计算机网络：应用层知识点汇总](https://blog.csdn.net/m0_57180439/article/details/136540806)
+
++ [【Web安全】XSS攻击与绕过](https://blog.csdn.net/likinguuu/article/details/136530759)
+
++ [猛攻生态，鸿蒙单挑安卓](https://blog.csdn.net/GZZN2019/article/details/136504550)
+
