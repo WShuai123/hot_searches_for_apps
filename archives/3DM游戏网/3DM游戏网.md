@@ -245,3 +245,7 @@
 
 + [高通越来越依赖三星？已占其2023Q4收入的40%](https://www.3dmgame.com/news/202403/3890099.html)
 
++ [传Epic春季特卖3月14日开始 比Steam早一天](https://www.3dmgame.com/news/202403/3890100.html)
+
++ [本世代最畅销的8款游戏 7款是单机游戏](https://www.3dmgame.com/news/202403/3890101.html)
+

@@ -51,3 +51,33 @@
 
 + [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
++ [emoisback / Helldivers-2-Internal-Hack-Dll-Proxy-PoC](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC)
+
++ [boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
+
++ [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+
++ [google / maxtext](https://github.com/google/maxtext)
+
++ [BeyondDimension / SteamTools](https://github.com/BeyondDimension/SteamTools)
+
++ [daytonaio / daytona](https://github.com/daytonaio/daytona)
+
++ [midudev / la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+
++ [gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [argoproj / argo-cd](https://github.com/argoproj/argo-cd)
+
++ [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [ixartz / Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+
++ [munris-vlad / airdrop-checker](https://github.com/munris-vlad/airdrop-checker)
+
++ [QuivrHQ / quivr](https://github.com/QuivrHQ/quivr)
+
++ [SDWebImage / SDWebImage](https://github.com/SDWebImage/SDWebImage)
+
