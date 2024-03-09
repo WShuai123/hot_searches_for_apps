@@ -51,3 +51,31 @@
 
 + [SDWebImage / SDWebImage](https://github.com/SDWebImage/SDWebImage)
 
++ [myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore)
+
++ [spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)
+
++ [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
+
++ [vosen / ZLUDA](https://github.com/vosen/ZLUDA)
+
++ [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+
++ [ProjectDreamland / area51](https://github.com/ProjectDreamland/area51)
+
++ [dockur / windows](https://github.com/dockur/windows)
+
++ [Whomane / Whomane](https://github.com/Whomane/Whomane)
+
++ [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules)
+
++ [FuelLabs / sway-farm](https://github.com/FuelLabs/sway-farm)
+
++ [electron / electron](https://github.com/electron/electron)
+
