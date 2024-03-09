@@ -141,3 +141,13 @@
 
 + [《DOTA2》TI13今年9月举办 花落丹麦哥本哈根](https://www.3dmgame.com/news/202403/3890115.html)
 
++ [英国2月销量榜：《绝地潜兵2》大获成功登顶](https://www.3dmgame.com/news/202403/3890131.html)
+
++ [新规后多地快递仍不告而投 快递员集体崩溃：没法干了](https://www.3dmgame.com/news/202403/3890132.html)
+
++ [《特技狂人》宣布确认引进中国内地 档期待定](https://www.3dmgame.com/news/202403/3890130.html)
+
++ [樱桃小丸子声优TARAKO去世 享年63岁](https://www.3dmgame.com/news/202403/3890129.html)
+
++ [解谜游戏《Viewfinder》被评为UKIE 2024英国年度游戏](https://www.3dmgame.com/news/202403/3890128.html)
+

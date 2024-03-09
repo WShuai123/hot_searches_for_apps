@@ -99,3 +99,13 @@
 
 + [Good Council - Type Lockup](https://dribbble.com/shots/)
 
++ [Do What You Will Tattoo](https://dribbble.com/shots/)
+
++ [Apple](https://dribbble.com/shots/)
+
++ [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
+
++ [The Dapper Dragon Logo](https://dribbble.com/shots/)
+
++ [Tarot card #12: The Hanged Woman](https://dribbble.com/shots/)
+
