@@ -171,3 +171,15 @@
 
 + [2.5D风格化的角色扮演冒险游戏《幻象游园剧》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3890142.html)
 
++ [《守望先锋2》宣布联动保时捷 公开现实D.Va联动机甲](https://www.3dmgame.com/news/202403/3890148.html)
+
++ [《最终幻想16》仍可能继续制作DLC 但短期内不会](https://www.3dmgame.com/news/202403/3890146.html)
+
++ [《杀手公寓》Steam页面上线 4月4日发售](https://www.3dmgame.com/news/202403/3890147.html)
+
++ [前《使命召唤》开发者工作室Deviation Games宣布关闭](https://www.3dmgame.com/news/202403/3890145.html)
+
++ [内地票房突破7000万！《沙丘2》豆瓣开分8.2分](https://www.3dmgame.com/news/202403/3890144.html)
+
++ [曾经的行业大佬认为：我们即将看到游戏主机的消失](https://www.3dmgame.com/news/202403/3890143.html)
+
