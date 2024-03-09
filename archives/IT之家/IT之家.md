@@ -57,3 +57,5 @@
 
 + [电影《沙丘 2》豆瓣开分 8.2 分，内地首日票房突破 6000 万](https://m.ithome.com/html/754635.htm)
 
++ [比亚迪秦 L 车型无伪装谍照曝光，预计搭载第 5 代 DM-i 混动技术](https://m.ithome.com/html/754665.htm)
+
