@@ -101,3 +101,31 @@
 
 + [如何在Linux系统部署MeterSphere服务并配置固定公网访问地址](https://blog.csdn.net/qq_73017178/article/details/136537039)
 
++ [spring boot3token拦截器链的设计与实现](https://blog.csdn.net/qq_62262918/article/details/136143401)
+
++ [【分库分表】基于mysql+shardingSphere的分库分表技术](https://blog.csdn.net/Joker_ZJN/article/details/136590974)
+
++ [【C++】关联式容器](https://blog.csdn.net/m0_74246469/article/details/136554569)
+
++ [汉服|高校汉服租赁网站|基于Springboot的高校汉服租赁网站设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136577458)
+
++ [【kubernetes】关于k8s集群中的ingress规则案例](https://blog.csdn.net/liu_xueyin/article/details/136559105)
+
++ [四元数(Quaternion)的一些性质](https://blog.csdn.net/weixin_41896770/article/details/136577683)
+
++ [基于LTE和wimax异构网络的垂直切换算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/136576045)
+
++ [【图像分割】基于matlab局本部活动轮廓图像分割【含Mtlab源码 4061期】](https://blog.csdn.net/TIQCmatlab/article/details/136589085)
+
++ [flink重温笔记（十三）： flink 高级特性和新特性（2）——ProcessFunction API 和 双流 join](https://blog.csdn.net/m0_60732994/article/details/136592634)
+
++ [2024年AI辅助研发趋势：科技革新的引擎](https://blog.csdn.net/double222222/article/details/136592509)
+
++ [【图像融合】基于多尺度形态梯度变换结合多尺度形态梯度和脉冲耦合神经网络NSST-MSMG-PCNN实现医学多模态图像融合附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/136593647)
+
++ [【图像融合】基于多尺度形态梯度变换结合多尺度形态梯度和脉冲耦合神经网络NSST-MSMG-PCNN实现医学多模态图像融合附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/136593645)
+
++ [策略模式+工厂模式实现选择多方式登录，微信登录或qq登录，如何实现登录功能，登录的实现](https://blog.csdn.net/qq_68135906/article/details/136560375)
+
++ [【李沐精读系列】GPT、GPT-2和GPT-3论文精读](https://blog.csdn.net/qq_45276194/article/details/136530979)
+
