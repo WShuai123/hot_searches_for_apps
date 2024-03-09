@@ -199,3 +199,7 @@
 
 + [OpenAI“宫斗”大结局：Altman重返董事会](https://www.3dmgame.com/news/202403/3890156.html)
 
++ [前PS总裁：独占会把2亿美元的游戏逼向绝境 呼吁更多2A游戏](https://www.3dmgame.com/news/202403/3890158.html)
+
++ [《小丑牌》现已支持简体和繁体中文](https://www.3dmgame.com/news/202403/3890157.html)
+

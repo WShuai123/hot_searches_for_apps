@@ -173,3 +173,13 @@
 
 + [YOLOv9改进 | 汇总利用YOLOv9遇到的报错以及解决办法（汇集全网报错内容，内容持续更新）](https://blog.csdn.net/java1314777/article/details/136573422)
 
++ [使用Tokeniser估算GPT和LLM服务的查询成本](https://blog.csdn.net/m0_46510245/article/details/136577625)
+
++ [YOLO-World：实时开放词汇目标检测](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/136480230)
+
++ [小白跟做江科大51单片机之AD/DA](https://blog.csdn.net/weixin_58051657/article/details/136562480)
+
++ [安卓文件管理器](https://blog.csdn.net/qq_44203816/article/details/136528673)
+
++ [ARM如何利用PMU（Performance Monitor Unit）量化L3 cache的cache eviction（估算cache eviction的概率）](https://blog.csdn.net/luolaihua2018/article/details/136462651)
+
