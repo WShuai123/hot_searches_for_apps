@@ -129,3 +129,11 @@
 
 + [【李沐精读系列】GPT、GPT-2和GPT-3论文精读](https://blog.csdn.net/qq_45276194/article/details/136530979)
 
++ [【C++庖丁解牛】C++内存管理 | new和delete的使用以及使用原理](https://blog.csdn.net/weixin_60521256/article/details/136481902)
+
++ [探讨2024年AI辅助研发的趋势](https://blog.csdn.net/tjls2008/article/details/136570632)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/136571238)
+
++ [数学建模理论与实践国防科大版](https://blog.csdn.net/Williamtym/article/details/136589222)
+
