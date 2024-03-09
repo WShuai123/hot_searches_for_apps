@@ -197,3 +197,5 @@
 
 + [育碧《看门狗》改编电影 苏菲·王尔德或将参演](https://www.3dmgame.com/news/202403/3890150.html)
 
++ [OpenAI“宫斗”大结局：Altman重返董事会](https://www.3dmgame.com/news/202403/3890156.html)
+
