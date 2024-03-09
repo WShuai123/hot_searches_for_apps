@@ -49,3 +49,7 @@
 
 + [官改车型来了：比亚迪方程豹两款豹 5 改装版亮相，突出露营、越野属性](https://m.ithome.com/html/754540.htm)
 
++ [《樱桃小丸子》声优 TARAKO 去世，享年 63 岁](https://m.ithome.com/html/754622.htm)
+
++ [领克 07 EM-P 车型亮相：“首发独创”激光雕刻纹理、可选“深海蓝 + 白 / 灰调”风格](https://m.ithome.com/html/754578.htm)
+

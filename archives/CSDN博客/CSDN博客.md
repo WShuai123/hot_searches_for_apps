@@ -157,3 +157,9 @@
 
 + [Linux系统Docker部署DbGate并结合内网穿透实现公网管理本地数据库](https://blog.csdn.net/Aileenvov/article/details/136576741)
 
++ [SpringCloud-实现基于RabbitMQ的消息队列](https://blog.csdn.net/weixin_41793160/article/details/136575113)
+
++ [2-Docker-应用-多容器部署Django+Vue项目（nginx+uwsgi+mysql）](https://blog.csdn.net/qq_45445505/article/details/136557056)
+
++ [探讨2024年AI辅助研发的趋势](https://blog.csdn.net/tjls2008/article/details/136570632)
+

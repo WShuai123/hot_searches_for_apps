@@ -137,3 +137,21 @@
 
 + [AIflixhub](https://www.producthunt.com/posts/aiflixhub)
 
++ [Visuify](https://www.producthunt.com/posts/visuify)
+
++ [SynQ](https://www.producthunt.com/posts/synq-2)
+
++ [Anagrams](https://www.producthunt.com/posts/anagrams)
+
++ [Twitter Header Maker](https://www.producthunt.com/posts/twitter-header-maker)
+
++ [Shaolin Zen](https://www.producthunt.com/posts/shaolin-zen)
+
++ [Design Spells](https://www.producthunt.com/posts/design-spells)
+
++ [DrDoGood](https://www.producthunt.com/posts/drdogood)
+
++ [FreezeKeys](https://www.producthunt.com/posts/freezekeys)
+
++ [Gemini Side Panel](https://www.producthunt.com/posts/gemini-side-panel)
+
