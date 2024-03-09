@@ -151,3 +151,15 @@
 
 + [解谜游戏《Viewfinder》被评为UKIE 2024英国年度游戏](https://www.3dmgame.com/news/202403/3890128.html)
 
++ [《绝地潜兵2》玩家解锁机甲速度太快 服务器压力山大](https://www.3dmgame.com/news/202403/3890137.html)
+
++ [国内仅次于华为！京东方专利申请数全球第五](https://www.3dmgame.com/news/202403/3890138.html)
+
++ [孩之宝有意与《博德之门3》开发商合作推出新游戏](https://www.3dmgame.com/news/202403/3890136.html)
+
++ [《辐射：新维加斯》MOD让城市还原最初概念设定](https://www.3dmgame.com/news/202403/3890135.html)
+
++ [《巫师3：次世代版》MOD修复光追反射优化问题](https://www.3dmgame.com/news/202403/3890134.html)
+
++ [Steam“先锋生存”捆绑包 《DayZ》+《腐蚀》6折](https://www.3dmgame.com/news/202403/3890133.html)
+

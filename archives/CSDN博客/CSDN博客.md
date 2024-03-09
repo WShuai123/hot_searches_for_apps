@@ -131,3 +131,15 @@
 
 + [【Linux】--- Linux编译器-gcc/g++、调试器-gdb、项目自动化构建工具-make/Makefile 使用](https://blog.csdn.net/2301_77404033/article/details/136409729)
 
++ [2024 AI 辅助研发的新纪年](https://blog.csdn.net/lmy050813/article/details/136570228)
+
++ [大语言模型系列-GPT-3.5(ChatGPT)](https://blog.csdn.net/long11350/article/details/136528355)
+
++ [MySQL 篇-快速了解事务、索引](https://blog.csdn.net/Tingfeng__/article/details/136519314)
+
++ [MacBook2024苹果免费mac电脑清理垃圾软件CleanMyMac X](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/136534632)
+
++ [【OpenGL实现 03】纹理贴图原理和实现](https://blog.csdn.net/gongdiwudu/article/details/136550493)
+
++ [手机摄影掌中艺术从实战到精通【文末送书-35】](https://blog.csdn.net/weixin_52908342/article/details/136574742)
+
