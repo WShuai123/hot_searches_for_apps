@@ -145,3 +145,9 @@
 
 + [【C++】关联式容器](https://blog.csdn.net/m0_74246469/article/details/136554569)
 
++ [挑战杯 基于深度学习的目标检测算法](https://blog.csdn.net/laafeer/article/details/136533629)
+
++ [如何在 Chrome 中使用纯 CSS 创建视差滚动效果](https://blog.csdn.net/rubys007/article/details/136487034)
+
++ [Linux运维：实现光盘开机自动挂载、配置本地yum源教程](https://blog.csdn.net/qq_41840843/article/details/136518047)
+

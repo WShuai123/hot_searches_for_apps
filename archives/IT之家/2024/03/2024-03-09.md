@@ -43,3 +43,5 @@
 
 + [苹果 iPhone 16 Pro CAD 渲染图曝光：新增拍照按钮、6.3 英寸屏幕](https://m.ithome.com/html/754619.htm)
 
++ [小米手环 9 / 9 NFC 通过无线电认证，消息称“质感更上一层楼”](https://m.ithome.com/html/754620.htm)
+
