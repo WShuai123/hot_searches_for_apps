@@ -185,3 +185,15 @@
 
 + [曝小米15起步价超过4000元 小米14是最后一次3999元](https://www.3dmgame.com/news/202403/3890149.html)
 
++ [《霍格沃茨之遗》开发商将通过免费更新回馈玩家](https://www.3dmgame.com/news/202403/3890154.html)
+
++ [《盗贼之海》将加入全新反作弊系统和免订阅模式](https://www.3dmgame.com/news/202403/3890153.html)
+
++ [《南方公园：雪假》前瞻视频 偏重Roguelike体验](https://www.3dmgame.com/news/202403/3890155.html)
+
++ [《私人订制：我的专属韩国女团》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202403/3890152.html)
+
++ [研究称：游戏重制最佳时机是原版10至20年后](https://www.3dmgame.com/news/202403/3890151.html)
+
++ [育碧《看门狗》改编电影 苏菲·王尔德或将参演](https://www.3dmgame.com/news/202403/3890150.html)
+
