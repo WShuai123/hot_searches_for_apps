@@ -49,3 +49,5 @@
 
 + [USB 设备开发：从入门到实践指南（二）](https://www.freebuf.com/articles/network/393132.html)
 
++ [EVMProxyInspect：一款功能强大的多链EVM代理检测工具](https://www.freebuf.com/sectool/391943.html)
+

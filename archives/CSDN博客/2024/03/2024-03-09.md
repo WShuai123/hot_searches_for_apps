@@ -151,3 +151,7 @@
 
 + [Linux运维：实现光盘开机自动挂载、配置本地yum源教程](https://blog.csdn.net/qq_41840843/article/details/136518047)
 
++ [重学SpringBoot3-WebMvcConfigurer接口](https://blog.csdn.net/u014390502/article/details/136578253)
+
++ [Python AI之BackgroundRemover](https://blog.csdn.net/zhouzhiwengang/article/details/136561730)
+
