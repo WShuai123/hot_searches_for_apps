@@ -47,3 +47,5 @@
 
 + [30种经典网安模型介绍（中）](https://www.freebuf.com/articles/network/393034.html)
 
++ [USB 设备开发：从入门到实践指南（二）](https://www.freebuf.com/articles/network/393132.html)
+

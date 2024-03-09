@@ -39,3 +39,7 @@
 
 + [北京现代全新索纳塔将于 3 月 26 日上市：预售 15 万元起，第 11 代车型](https://m.ithome.com/html/754609.htm)
 
++ [消息称苹果计划 2026 年推出首款折叠屏 iPhone 手机，比竞品更轻更薄](https://m.ithome.com/html/754516.htm)
+
++ [苹果 iPhone 16 Pro CAD 渲染图曝光：新增拍照按钮、6.3 英寸屏幕](https://m.ithome.com/html/754619.htm)
+

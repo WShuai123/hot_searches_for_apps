@@ -163,3 +163,5 @@
 
 + [Steam“先锋生存”捆绑包 《DayZ》+《腐蚀》6折](https://www.3dmgame.com/news/202403/3890133.html)
 
++ [《最终幻想14》宣布举办10周年14小时庆祝直播](https://www.3dmgame.com/news/202403/3890139.html)
+
