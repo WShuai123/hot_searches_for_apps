@@ -77,3 +77,11 @@
 
 + [The Dapper Dragon Logo](https://dribbble.com/shots/)
 
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
+
++ [Goodbye Toriyama](https://dribbble.com/shots/)
+
++ [Interior design for Viture CGI](https://dribbble.com/shots/)
+

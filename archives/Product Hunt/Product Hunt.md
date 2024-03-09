@@ -105,3 +105,5 @@
 
 + [LemonRocks](https://www.producthunt.com/posts/lemonrocks)
 
++ [Gemini AI Side Panel](https://www.producthunt.com/posts/gemini-ai-side-panel)
+
