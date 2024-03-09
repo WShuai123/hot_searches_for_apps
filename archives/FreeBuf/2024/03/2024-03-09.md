@@ -41,3 +41,9 @@
 
 + [针对PLC的恶意软件发布，黑客或可发起远程震网式攻击](https://www.freebuf.com/news/393495.html)
 
++ [矩阵爆破逆向之条件断点的妙用](https://www.freebuf.com/defense/393115.html)
+
++ [FreeBuf 周报 | 网络安全成两会热议“关键词”；GitHub超过10万存储库被感染](https://www.freebuf.com/news/393844.html)
+
++ [30种经典网安模型介绍（中）](https://www.freebuf.com/articles/network/393034.html)
+

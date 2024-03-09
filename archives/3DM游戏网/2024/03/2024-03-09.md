@@ -115,3 +115,29 @@
 
 + [《寂静岭2》重制版已在韩国地区进行分级](https://www.3dmgame.com/news/202403/3890109.html)
 
++ [《真人快打1》周末免费试玩 购买游戏六折优惠](https://www.3dmgame.com/news/202403/3890126.html)
+
++ [《别跑！美女在追你！》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890127.html)
+
++ [《恶意不息》超长实机演示 全面展示战斗等场景](https://www.3dmgame.com/news/202403/3890124.html)
+
++ [《战地2042》第七赛季新截图 实机预告13日放出](https://www.3dmgame.com/news/202403/3890125.html)
+
++ [合作恐怖游戏《Altarium》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890123.html)
+
++ [被欧盟调查 苹果撤回封禁Epic开发者账户决定](https://www.3dmgame.com/news/202403/3890122.html)
+
++ [《王权》系列最新巨作《王权：星途》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890121.html)
+
++ [《幽灵行动》新作爆料：回归第一人称 借鉴《使命召唤：现代战争》系列](https://www.3dmgame.com/news/202403/3890120.html)
+
++ [战术角色扮演游戏《刃裔学院》现已正式发售](https://www.3dmgame.com/news/202403/3890119.html)
+
++ [华纳兄弟正在下架Adult Swim发行的游戏](https://www.3dmgame.com/news/202403/3890118.html)
+
++ [《工人物语：新兴同盟》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890117.html)
+
++ [《星刃》体验版意外放出 Boss战和杂兵战实机](https://www.3dmgame.com/news/202403/3890116.html)
+
++ [《DOTA2》TI13今年9月举办 花落丹麦哥本哈根](https://www.3dmgame.com/news/202403/3890115.html)
+
