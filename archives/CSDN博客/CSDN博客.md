@@ -183,3 +183,15 @@
 
 + [ARM如何利用PMU（Performance Monitor Unit）量化L3 cache的cache eviction（估算cache eviction的概率）](https://blog.csdn.net/luolaihua2018/article/details/136462651)
 
++ [【计算机网络】HTTP协议](https://blog.csdn.net/m0_65465009/article/details/136542853)
+
++ [【重新定义matlab强大系列十七】Matlab深入浅出长短期记忆神经网络LSTM](https://blog.csdn.net/ywsydwsbn/article/details/136588557)
+
++ [2024年集创赛FPGA紫光同创赛道男女声，童声变声](https://blog.csdn.net/m0_69065672/article/details/136589453)
+
++ [外包干了5天，技术退步明显。。。。。](https://blog.csdn.net/u012111923/article/details/136540102)
+
++ [电力物联网系统设计](https://blog.csdn.net/wanghengwhwh/article/details/136516646)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/136571238)
+

@@ -203,3 +203,9 @@
 
 + [《小丑牌》现已支持简体和繁体中文](https://www.3dmgame.com/news/202403/3890157.html)
 
++ [苹果发布了适用于PC的新版Windows迁移助手软件](https://www.3dmgame.com/news/202403/3890161.html)
+
++ [海外传统车企对纯电汽车不再激进](https://www.3dmgame.com/news/202403/3890160.html)
+
++ [《鬼泣5》迎来发售5周年 官推发文庆祝](https://www.3dmgame.com/news/202403/3890159.html)
+
