@@ -27,3 +27,5 @@
 
 + [谍照显示多台小米 SU7 汽车疑似已在运输途中：可见海湾蓝、雅灰、橄榄绿三种配色款](https://m.ithome.com/html/754838.htm)
 
++ [奇瑞汽车完成收购东南汽车](https://m.ithome.com/html/754832.htm)
+
