@@ -25,3 +25,5 @@
 
 + [理想汽车：风光背后，寒流袭来](https://m.ithome.com/html/754765.htm)
 
++ [谍照显示多台小米 SU7 汽车疑似已在运输途中：可见海湾蓝、雅灰、橄榄绿三种配色款](https://m.ithome.com/html/754838.htm)
+
