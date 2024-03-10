@@ -161,3 +161,5 @@
 
 + [《龙之信条2》NPC会永久死亡 玩家需要严肃对待](https://www.3dmgame.com/news/202403/3890187.html)
 
++ [ChatGPT每天耗电超50万度 是美国普通家庭1.7万倍](https://www.3dmgame.com/news/202403/3890192.html)
+
