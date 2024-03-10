@@ -151,3 +151,13 @@
 
 + [微软推送Xbox手柄固件更新 解决意外断开连接问题](https://www.3dmgame.com/news/202403/3890184.html)
 
++ [《上古卷轴4：湮没》高清材质包大修所有地表纹理](https://www.3dmgame.com/news/202403/3890191.html)
+
++ [《鬼灭之刃》第四季确定5月12日开播 柱训练篇启动](https://www.3dmgame.com/news/202403/3890190.html)
+
++ [玩家请愿《霍格沃茨之遗》续作不要变成实时服务游戏](https://www.3dmgame.com/news/202403/3890189.html)
+
++ [Yuzu已停止运营 但可用60fps帧率运行《圣兽之王》](https://www.3dmgame.com/news/202403/3890188.html)
+
++ [《龙之信条2》NPC会永久死亡 玩家需要严肃对待](https://www.3dmgame.com/news/202403/3890187.html)
+
