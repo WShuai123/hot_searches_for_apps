@@ -33,3 +33,7 @@
 
 + [张勇回应“哪吒汽车南宁工厂停工停产”：今年还有出口任务](https://m.ithome.com/html/754691.htm)
 
++ [超 600 匹马力，2024 款特斯拉 Model 3 性能版汽车曝光](https://m.ithome.com/html/754683.htm)
+
++ [不升级到 512-bit，消息称英伟达 RTX 50 系列显卡位宽仍为 384-bit](https://m.ithome.com/html/754667.htm)
+

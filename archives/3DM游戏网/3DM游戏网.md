@@ -101,3 +101,19 @@
 
 + [科幻类魂RPG《夜行者》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202403/3890111.html)
 
++ [类银河战士恶魔城游戏《回响编织者》Steam页面开放](https://www.3dmgame.com/news/202403/3890166.html)
+
++ [《漫威蜘蛛侠2》热修关闭Debug菜单 不更新不能进游戏](https://www.3dmgame.com/news/202403/3890167.html)
+
++ [《1000 Cuts》序章Steam免费发布 横版动作千人斩](https://www.3dmgame.com/news/202403/3890168.html)
+
++ [《绝地潜兵2》势不可挡 销量据说超过了500万套](https://www.3dmgame.com/news/202403/3890169.html)
+
++ [粉丝请愿 希望EA复活砍掉的《曼达洛人》游戏](https://www.3dmgame.com/news/202403/3890162.html)
+
++ [Meta Quest好评VR宠物应用即将于下周停止运营](https://www.3dmgame.com/news/202403/3890163.html)
+
++ [《天穗之咲稻姬》确定制作TV动画 2024年内播出](https://www.3dmgame.com/news/202403/3890164.html)
+
++ [“碧蓝幻想Fes 2024”将于今年12月举办](https://www.3dmgame.com/news/202403/3890165.html)
+
