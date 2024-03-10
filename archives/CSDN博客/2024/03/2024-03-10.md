@@ -147,3 +147,13 @@
 
 + [鸿蒙开发-UI-动画-页面内动画](https://blog.csdn.net/u013488266/article/details/136563399)
 
++ [【RabbitMQ】RabbitMQ的交换机](https://blog.csdn.net/m0_62645012/article/details/136588644)
+
++ [2024 年 AI 辅助研发趋势](https://blog.csdn.net/2301_82214311/article/details/136557360)
+
++ [如何在Windows系统使用固定tcp公网地址ssh远程Kali系统](https://blog.csdn.net/Tiam_cr/article/details/136595227)
+
++ [基于YOLOv8深度学习的葡萄病害智能诊断与防治系统【python源码+Pyqt5界面+数据集+训练代码】深度学习实战](https://blog.csdn.net/qq_42589613/article/details/136592349)
+
++ [Yolov8模型用torch_pruning剪枝](https://blog.csdn.net/m0_67647321/article/details/136559097)
+

@@ -37,3 +37,5 @@
 
 + [不升级到 512-bit，消息称英伟达 RTX 50 系列显卡位宽仍为 384-bit](https://m.ithome.com/html/754667.htm)
 
++ [吉利杨学良呼吁网友“尽量别把自家新车与小米 SU7 关联起来”：要抱团取暖而非自相残杀](https://m.ithome.com/html/754743.htm)
+
