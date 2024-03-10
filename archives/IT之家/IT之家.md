@@ -63,3 +63,5 @@
 
 + [消息称小米 SU7 各地汽车交付中心已经上线，新车已在运送途中](https://m.ithome.com/html/754815.htm)
 
++ [爱玛，抄底了一家新势力 —— 知豆汽车](https://m.ithome.com/html/754821.htm)
+

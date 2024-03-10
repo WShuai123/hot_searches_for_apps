@@ -163,3 +163,13 @@
 
 + [ChatGPT每天耗电超50万度 是美国普通家庭1.7万倍](https://www.3dmgame.com/news/202403/3890192.html)
 
++ [亚马逊十大畅销CPU出炉 AMD占了9席、性价比优势明显](https://www.3dmgame.com/news/202403/3890196.html)
+
++ [索尼回应手机业务退出中国传闻：正在稳健运营中](https://www.3dmgame.com/news/202403/3890197.html)
+
++ [美剧《三体》烂番茄开分71% 3月21日上线Netflix](https://www.3dmgame.com/news/202403/3890195.html)
+
++ [《盗贼之海》已是美服PSN预购最多的游戏](https://www.3dmgame.com/news/202403/3890194.html)
+
++ [动作RPG《天穗之咲稻姬》销量超150万套](https://www.3dmgame.com/news/202403/3890193.html)
+
