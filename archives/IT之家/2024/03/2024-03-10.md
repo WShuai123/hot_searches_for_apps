@@ -53,3 +53,7 @@
 
 + [巴黎奥运会安保计划被偷后，网友：别冤枉小偷了](https://m.ithome.com/html/754726.htm)
 
++ [百度李彦宏：对于 ChatGPT 和文心一言“有着天壤之别”的言论并不生气](https://m.ithome.com/html/754755.htm)
+
++ [领克汽车官宣降价：含 2023 款 01/03/05/06/09 等燃油车型，指导价下调 1 万元](https://m.ithome.com/html/754776.htm)
+

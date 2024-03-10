@@ -181,3 +181,11 @@
 
 + [学习和认知的四个阶段，以及学习方法分享](https://blog.csdn.net/star1210644725/article/details/136583632)
 
++ [数学建模-动态规划&遗传算法(美赛运用)](https://blog.csdn.net/weixin_61006262/article/details/136589834)
+
++ [第十九届全国大学生智能汽车竞赛镜头组 恩智浦MicroPython赛道相关说明](https://blog.csdn.net/zhuoqingjoking97298/article/details/136596193)
+
++ [http协议简介：http各个版本的区别，http与https的区别，http与websocket的区别](https://blog.csdn.net/qq_45820271/article/details/136582458)
+
++ [【笔记】原油阳谋论](https://blog.csdn.net/food_for_thought/article/details/136588197)
+

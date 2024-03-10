@@ -133,3 +133,7 @@
 
 + [Chips](https://www.producthunt.com/posts/chips)
 
++ [Iconbuddy 2.0](https://www.producthunt.com/posts/iconbuddy-2-0)
+
++ [Pruvious](https://www.producthunt.com/posts/pruvious)
+

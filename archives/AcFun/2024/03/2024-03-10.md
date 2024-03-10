@@ -99,3 +99,7 @@
 
 + [《合奏之星》追忆系列动画 「齐聚的三位魔法师」PV公开](http://www.acfun.cn/v/ac43954132)
 
++ [看到这条视频的人都能遇到心软的财神！](http://www.acfun.cn/v/ac43978968)
+
++ [无法抗拒的good night Kiss ️晚安吻](http://www.acfun.cn/v/ac43973897)
+

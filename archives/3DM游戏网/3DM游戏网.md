@@ -145,3 +145,9 @@
 
 + [字节跳动否认暴雪前CEO收购TikTok传言：假的！](https://www.3dmgame.com/news/202403/3890179.html)
 
++ [国家疾控局谈X疾病 很难避免发生但大流行可防范应对](https://www.3dmgame.com/news/202403/3890186.html)
+
++ [《最终幻想7：重生》仅用一天即获2月PS5下载榜亚军](https://www.3dmgame.com/news/202403/3890185.html)
+
++ [微软推送Xbox手柄固件更新 解决意外断开连接问题](https://www.3dmgame.com/news/202403/3890184.html)
+
