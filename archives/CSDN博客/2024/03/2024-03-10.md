@@ -157,3 +157,7 @@
 
 + [Yolov8模型用torch_pruning剪枝](https://blog.csdn.net/m0_67647321/article/details/136559097)
 
++ [数学建模-动态规划(美赛运用)](https://blog.csdn.net/weixin_61006262/article/details/136589834)
+
++ [鸿蒙OpenHarmony HDF 驱动开发](https://blog.csdn.net/nawei87/article/details/136587935)
+
