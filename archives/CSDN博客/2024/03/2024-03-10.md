@@ -169,3 +169,13 @@
 
 + [大学生选修选课系统|基于Springboot的大学生选修选课系统设计与实现（源码+数据库+文档）](https://blog.csdn.net/2301_79206800/article/details/136583067)
 
++ [linux系统的运维有哪些工作，需要做好哪方面的知识储备？需要学些哪方面的技术？](https://blog.csdn.net/weixin_70208651/article/details/136546931)
+
++ [数据库系统概论 第一章 绪论](https://blog.csdn.net/2303_77414881/article/details/136595870)
+
++ [【优质书籍推荐】LLM分类模式驱动和软件性能测试](https://blog.csdn.net/weixin_43178406/article/details/136590264)
+
++ [Linux 文件探秘：检查Linux系统的文件大小的四种神器](https://blog.csdn.net/qq_44866828/article/details/136593243)
+
++ [【PyTorch】进阶学习：探索BCEWithLogitsLoss的正确使用---二元分类问题中的logits与标签形状问题](https://blog.csdn.net/qq_41813454/article/details/136559742)
+

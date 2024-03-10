@@ -131,3 +131,7 @@
 
 + [《Twinkle☆Guardians》登陆Steam 治愈系塔防](https://www.3dmgame.com/news/202403/3890176.html)
 
++ [《打了三百年史莱姆》第二季确定2025年播出 新艺图公开](https://www.3dmgame.com/news/202403/3890178.html)
+
++ [《金枪鱼猛男冒险》登陆Steam 猛男跑酷新游](https://www.3dmgame.com/news/202403/3890177.html)
+
