@@ -47,3 +47,5 @@
 
 + [技术实践 | TLS指纹在Bot对抗中的应用实践](https://www.freebuf.com/articles/web/393136.html)
 
++ [某资产管理系统打点过程中的免杀经历](https://www.freebuf.com/articles/network/393322.html)
+

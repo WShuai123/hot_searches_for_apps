@@ -161,3 +161,7 @@
 
 + [鸿蒙OpenHarmony HDF 驱动开发](https://blog.csdn.net/nawei87/article/details/136587935)
 
++ [爬虫实战——巴黎圣母院新闻【内附超详细教程，你上你也行】](https://blog.csdn.net/HHX_01/article/details/136532961)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136589761)
+
