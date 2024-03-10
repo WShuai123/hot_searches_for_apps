@@ -117,3 +117,7 @@
 
 + [新PS4模拟器psOff现身 可以运行少量游戏](https://www.3dmgame.com/news/202403/3890202.html)
 
++ [女反派有望登场《漫威蜘蛛侠2》后续DLC](https://www.3dmgame.com/news/202403/3890210.html)
+
++ [消息称《地狱之刃2》不会跨平台发售](https://www.3dmgame.com/news/202403/3890209.html)
+

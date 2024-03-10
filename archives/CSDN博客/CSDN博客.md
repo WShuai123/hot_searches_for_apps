@@ -111,3 +111,19 @@
 
 + [【开源】SpringBoot框架开发教学资源共享平台](https://blog.csdn.net/askf01/article/details/136588631)
 
++ [【ChatGPT：开启人机交互新时代的智慧之源】](https://blog.csdn.net/2402_82806719/article/details/136611365)
+
++ [Nomic Embed：能够复现的SOTA开源嵌入模型](https://blog.csdn.net/m0_46510245/article/details/136596717)
+
++ [Linux 性能调优之配置CPU调度策略和可调参数](https://blog.csdn.net/sanhewuyang/article/details/136550236)
+
++ [2024 年 AI 辅助研发趋势](https://blog.csdn.net/2301_82214311/article/details/136557360)
+
++ [【笔记】原油阳谋论](https://blog.csdn.net/food_for_thought/article/details/136588197)
+
++ [用 ChatGPT 帮自己修英文简历 — UI/UX 设计师篇](https://blog.csdn.net/zhaitong1991/article/details/136558315)
+
++ [ElasticSearch学习篇10_Lucene数据存储之BKD动态磁盘树](https://blog.csdn.net/qq_24654501/article/details/136609929)
+
++ [如何应对IT服务交付中的问题？](https://blog.csdn.net/u014727709/article/details/136121876)
+
