@@ -179,3 +179,5 @@
 
 + [【PyTorch】进阶学习：探索BCEWithLogitsLoss的正确使用---二元分类问题中的logits与标签形状问题](https://blog.csdn.net/qq_41813454/article/details/136559742)
 
++ [学习和认知的四个阶段，以及学习方法分享](https://blog.csdn.net/star1210644725/article/details/136583632)
+

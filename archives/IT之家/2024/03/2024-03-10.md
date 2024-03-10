@@ -45,3 +45,11 @@
 
 + [安全气囊警告灯存在问题，法拉第未来召回去年生产的所有 FF91 汽车](https://m.ithome.com/html/754745.htm)
 
++ [深圳一公司推出 SZBOX FN60G 迷你电脑：双 2.5G 网口，采用 Mac Studio 风格设计](https://m.ithome.com/html/754735.htm)
+
++ [美国发布 UFO 调查报告：未发现表明外星技术存在的证据，大多数目击事件都是乌龙](https://m.ithome.com/html/754733.htm)
+
++ [中国工程院院士朱能鸿因病逝世：享年 85 岁，曾为我国成功研制一大批尖端天文光学观测设备](https://m.ithome.com/html/754723.htm)
+
++ [巴黎奥运会安保计划被偷后，网友：别冤枉小偷了](https://m.ithome.com/html/754726.htm)
+

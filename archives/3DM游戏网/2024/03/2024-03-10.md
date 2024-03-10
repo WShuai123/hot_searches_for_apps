@@ -135,3 +135,13 @@
 
 + [《金枪鱼猛男冒险》登陆Steam 猛男跑酷新游](https://www.3dmgame.com/news/202403/3890177.html)
 
++ [Atlus否认《女神异闻录3：Reload》故意删减DLC](https://www.3dmgame.com/news/202403/3890180.html)
+
++ [《沙丘2》豆瓣涨至8.3分票房破亿 网友：史诗级科幻](https://www.3dmgame.com/news/202403/3890181.html)
+
++ [《SUMMERHOUSE》登陆Steam 小清新沙盒建设](https://www.3dmgame.com/news/202403/3890182.html)
+
++ [大饱眼福 《星刃》试玩版内含多款服装细节公布](https://www.3dmgame.com/news/202403/3890183.html)
+
++ [字节跳动否认暴雪前CEO收购TikTok传言：假的！](https://www.3dmgame.com/news/202403/3890179.html)
+
