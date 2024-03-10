@@ -27,3 +27,9 @@
 
 + [贾跃亭把丁磊告了：大骂李鬼，要伸张正义，昔日搭档反目成仇](https://m.ithome.com/html/754704.htm)
 
++ [支持关闭首页信息流，华为 Petal 花瓣地图（国际版）获推 4.2.0.201 众测更新](https://m.ithome.com/html/754678.htm)
+
++ [苹果 M3 MacBook Air 压力测试：芯片峰值温度 114℃，少个风扇性能慢 33%](https://m.ithome.com/html/754708.htm)
+
++ [张勇回应“哪吒汽车南宁工厂停工停产”：今年还有出口任务](https://m.ithome.com/html/754691.htm)
+

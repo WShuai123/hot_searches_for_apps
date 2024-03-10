@@ -137,3 +137,9 @@
 
 + [数学建模理论与实践国防科大版](https://blog.csdn.net/Williamtym/article/details/136589222)
 
++ [Spring Boot工作原理](https://blog.csdn.net/m0_74007708/article/details/136560709)
+
++ [【ChatGPT】JeecgBoot v3.6.3 AI版本发布，企业级低代码平台](https://blog.csdn.net/zhangdaiscott/article/details/136531492)
+
++ [使用Python快速提取PPT中的文本内容](https://blog.csdn.net/Eiceblue/article/details/136532235)
+

@@ -41,3 +41,7 @@
 
 + [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393842.html)
+
++ [Java agent技术的注入利用与避坑点](https://www.freebuf.com/articles/network/393535.html)
+
