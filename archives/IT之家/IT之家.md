@@ -41,3 +41,5 @@
 
 + [全国人大代表蒙媛：建议加强整治共享充电宝“刺客”](https://m.ithome.com/html/754728.htm)
 
++ [供应链消息称华为 Mate 60 系列 /Mate X5 手机销量合计已突破 1000 万台](https://m.ithome.com/html/754756.htm)
+

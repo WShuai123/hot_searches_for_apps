@@ -165,3 +165,7 @@
 
 + [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136589761)
 
++ [文献学习-16-基于MRI引导机器人平台的心导管形状跟踪和反馈控制（用于房颤消融）](https://blog.csdn.net/Metaphysicist/article/details/136596388)
+
++ [大学生选修选课系统|基于Springboot的大学生选修选课系统设计与实现（源码+数据库+文档）](https://blog.csdn.net/2301_79206800/article/details/136583067)
+
