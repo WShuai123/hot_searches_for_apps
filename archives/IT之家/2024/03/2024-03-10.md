@@ -59,3 +59,7 @@
 
 + [谁在「围堵」小米汽车？](https://m.ithome.com/html/754778.htm)
 
++ [百度李彦宏：“程序员”职业将不复存在，未来编程语言只会剩下英文和中文](https://m.ithome.com/html/754796.htm)
+
++ [消息称小米 SU7 各地汽车交付中心已经上线，新车已在运送途中](https://m.ithome.com/html/754815.htm)
+
