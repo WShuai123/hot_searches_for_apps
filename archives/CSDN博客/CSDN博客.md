@@ -163,3 +163,9 @@
 
 + [opencv人脸识别实战3：多线程和GUI界面设计（PyCharm实现）](https://blog.csdn.net/m0_73776435/article/details/136611856)
 
++ [【机器学习】进阶学习：详细解析Sklearn中的MinMaxScaler---原理、应用、源码与注意事项](https://blog.csdn.net/qq_41813454/article/details/136599197)
+
++ [Microsoft SQL Server 编写汉字转拼音函数](https://blog.csdn.net/michaelline/article/details/136534009)
+
++ [Docker进阶：深入理解 Dockerfile](https://blog.csdn.net/qq_41840843/article/details/136598881)
+

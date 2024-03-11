@@ -49,3 +49,9 @@
 
 + [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html)
 
++ [新型钓鱼活动激增，Dropbox被大规模利用](https://www.freebuf.com/news/393909.html)
+
++ [USB 设备开发：从入门到实践指南（三）](https://www.freebuf.com/articles/endpoint/393259.html)
+
++ [遭俄APT组织暴力攻击，微软部分源代码和机密信息泄露](https://www.freebuf.com/news/393940.html)
+

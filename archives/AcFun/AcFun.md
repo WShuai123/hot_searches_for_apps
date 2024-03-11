@@ -89,3 +89,7 @@
 
 + [两个老公到底怎么选？吸血鬼骑士《Bite Me》玖兰枢/优姬/锥生零COS](http://www.acfun.cn/v/ac43980764)
 
++ [4K竖屏 sexy love 小艾](http://www.acfun.cn/v/ac43982752)
+
++ [【东方/交响】组曲「东方Project」【名古屋游戏交响乐团】](http://www.acfun.cn/v/ac43974042)
+

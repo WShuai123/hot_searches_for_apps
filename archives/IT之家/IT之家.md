@@ -37,3 +37,5 @@
 
 + [拒绝隐形加班：离线休息权入法的提案已立案](https://m.ithome.com/html/754806.htm)
 
++ [【IT之家开箱】小米 14 Ultra 钛金属特别版图赏：“硬”核扎实，独树一帜](https://m.ithome.com/html/754876.htm)
+
