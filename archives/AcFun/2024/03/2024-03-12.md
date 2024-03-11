@@ -71,3 +71,5 @@
 
 + [【初投稿】女声翻唱Beyond the way/Giga 【咄咄睡觉 feat.三疯子子子】](http://www.acfun.cn/v/ac43992251)
 
++ [【小子贼疯】指纹——“旋转几轮，变成我们，深刻的指纹”](http://www.acfun.cn/v/ac43992635)
+
