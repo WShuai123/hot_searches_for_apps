@@ -57,3 +57,5 @@
 
 + [Valid8Proxy：一款功能强大的工作代理获取、验证和存储工具](https://www.freebuf.com/sectool/392024.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+

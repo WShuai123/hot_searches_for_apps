@@ -187,3 +187,13 @@
 
 + [为庆祝《咒术回战》连载6周年 少年Jump发起第4次人气角色投票](https://www.3dmgame.com/news/202403/3890240.html)
 
++ [李彦宏称“程序员”将不复存在 周鸿祎在线回怼：最有前途的职业！](https://www.3dmgame.com/news/202403/3890248.html)
+
++ [《长号冠军》Steam版即将添加中文支持 关卡编辑器正在开发中](https://www.3dmgame.com/news/202403/3890246.html)
+
++ [《It was a human》Steam页面上线 SF奇幻解谜ADV](https://www.3dmgame.com/news/202403/3890247.html)
+
++ [漫改动画《失忆投捕》放出片头片尾宣传片 4月9日播出](https://www.3dmgame.com/news/202403/3890245.html)
+
++ [《战争岛屿》登陆Steam 肉鸽元素动作冒险](https://www.3dmgame.com/news/202403/3890244.html)
+
