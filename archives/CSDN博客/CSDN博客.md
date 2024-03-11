@@ -211,3 +211,13 @@
 
 + [第五篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas在教育数据和研究数据处理领域的应用](https://blog.csdn.net/jackchuanqi/article/details/136596252)
 
++ [【实战项目】网络编程：在Linux环境下基于opencv和socket的人脸识别系统--C++实现](https://blog.csdn.net/m0_57532432/article/details/136543086)
+
++ [【粉丝福利社】Elasticsearch 通过索引阻塞实现数据保护深入解析（文末送书-进行中）](https://blog.csdn.net/aa2528877987/article/details/136623577)
+
++ [SpringCloud-基于SpringAMQP实现消息队列](https://blog.csdn.net/weixin_41793160/article/details/136607054)
+
++ [（2）(2.5) CUAV P8 Radio](https://blog.csdn.net/qq_20016593/article/details/136583808)
+
++ [b树（一篇文章带你 理解 ）](https://blog.csdn.net/2303_79387663/article/details/136612562)
+
