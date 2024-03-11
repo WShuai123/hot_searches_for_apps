@@ -69,3 +69,5 @@
 
 + [【辣椒皮蛋】没烤焦，我故意的](http://www.acfun.cn/v/ac43985737)
 
++ [【初投稿】女声翻唱Beyond the way/Giga 【咄咄睡觉 feat.三疯子子子】](http://www.acfun.cn/v/ac43992251)
+
