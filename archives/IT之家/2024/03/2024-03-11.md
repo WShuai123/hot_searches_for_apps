@@ -55,3 +55,5 @@
 
 + [华为：Mate 60 等 18 款设备开启 HarmonyOS 4 新体验版本花粉尝鲜招募](https://m.ithome.com/html/754940.htm)
 
++ [华为鸿蒙 HarmonyOS 4 新体验版更新内容曝光：任务切换、应用启动操作更丝滑](https://m.ithome.com/html/754988.htm)
+

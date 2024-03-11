@@ -221,3 +221,13 @@
 
 + [特斯拉德国超级工厂实际用水量远低于预期 环保人士被打脸](https://www.3dmgame.com/news/202403/3890260.html)
 
++ [《战地》创意总监Craig Morrison现已离开EA](https://www.3dmgame.com/news/202403/3890264.html)
+
++ [英伟达CEO黄仁勋：编程技术将可能变得不那么有价值](https://www.3dmgame.com/news/202403/3890265.html)
+
++ [Sora意义非凡 只谈对短视频行业影响是羞辱它](https://www.3dmgame.com/news/202403/3890263.html)
+
++ [EA称玩家想要更多即时服务游戏](https://www.3dmgame.com/news/202403/3890262.html)
+
++ [《绝地求生》将转用虚幻5引擎 2024更新计划发布](https://www.3dmgame.com/news/202403/3890261.html)
+
