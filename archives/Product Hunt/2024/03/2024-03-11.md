@@ -149,3 +149,13 @@
 
 + [Muse Pro](https://www.producthunt.com/posts/muse-pro)
 
++ [Mediscribe Pro](https://www.producthunt.com/posts/mediscribe-pro)
+
++ [onEco + Analytics](https://www.producthunt.com/posts/oneco-analytics)
+
++ [Window Fusion](https://www.producthunt.com/posts/window-fusion)
+
++ [Stock Market GPT for Investment Research](https://www.producthunt.com/posts/stock-market-gpt-for-investment-research)
+
++ [Bot in Bio powered by GPT](https://www.producthunt.com/posts/bot-in-bio-powered-by-gpt)
+

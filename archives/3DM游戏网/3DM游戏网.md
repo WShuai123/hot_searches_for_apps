@@ -197,3 +197,9 @@
 
 + [《战争岛屿》登陆Steam 肉鸽元素动作冒险](https://www.3dmgame.com/news/202403/3890244.html)
 
++ [黄仁勋：AMD等对手就算是免费 也无法击败英伟达！](https://www.3dmgame.com/news/202403/3890251.html)
+
++ [iPhone竞争力不断下滑 降价成苹果挽救销量绝招](https://www.3dmgame.com/news/202403/3890250.html)
+
++ [《星刃》官方确认试玩版Demo正在准备中 期待吗？](https://www.3dmgame.com/news/202403/3890249.html)
+
