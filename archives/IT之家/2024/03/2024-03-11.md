@@ -53,3 +53,5 @@
 
 + [宫崎骏《你想活出怎样的人生》官宣引进内地上映，获得第 96 届奥斯卡最佳动画长片](https://m.ithome.com/html/754851.htm)
 
++ [华为：Mate 60 等 18 款设备开启 HarmonyOS 4 新体验版本花粉尝鲜招募](https://m.ithome.com/html/754940.htm)
+
