@@ -45,3 +45,5 @@
 
 + [世界十大暗网深网论坛巡礼](https://www.freebuf.com/articles/network/393158.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+

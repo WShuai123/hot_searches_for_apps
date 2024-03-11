@@ -125,3 +125,15 @@
 
 + [再夺一冠！《DOTA2》梦幻联赛S22 Falcons 3:0 BB](https://www.3dmgame.com/news/202403/3890211.html)
 
++ [自走棋游戏《背包乱斗》发售两天销量破10万 Steam好评如潮](https://www.3dmgame.com/news/202403/3890218.html)
+
++ [宫崎骏新片《你想活出怎样的人生》确定引进 档期待定](https://www.3dmgame.com/news/202403/3890217.html)
+
++ [任天堂模拟器Pizza Emulators已从Google Play商店下架](https://www.3dmgame.com/news/202403/3890216.html)
+
++ [《龙之信条2》制作人：我们沿用了《鬼泣5》制作经验](https://www.3dmgame.com/news/202403/3890215.html)
+
++ [《上古卷轴6》仍采用《星空》引擎 网友希望能全面翻新该引擎](https://www.3dmgame.com/news/202403/3890214.html)
+
++ [《虫姬》实体版8月29日登陆Switch 经典弹幕射击](https://www.3dmgame.com/news/202403/3890213.html)
+

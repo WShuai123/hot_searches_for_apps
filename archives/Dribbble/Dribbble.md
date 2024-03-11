@@ -95,3 +95,9 @@
 
 + [Lighter Character Illustration](https://dribbble.com/shots/)
 
++ [Do What You Will Tattoo](https://dribbble.com/shots/)
+
++ [Trojan Horse](https://dribbble.com/shots/)
+
++ [Designing Adaptive Accessories](https://dribbble.com/shots/)
+

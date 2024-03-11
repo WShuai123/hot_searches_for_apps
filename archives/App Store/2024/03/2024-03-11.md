@@ -207,3 +207,5 @@
 
 + [美柚 - 经期·备孕·怀孕·育儿](https://itunes.apple.com/cn/app/id634896669?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
