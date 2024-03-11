@@ -29,3 +29,7 @@
 
 + [奇瑞汽车完成收购东南汽车](https://m.ithome.com/html/754832.htm)
 
++ [走出一条新路，华为公布“超声波指纹”相关专利](https://m.ithome.com/html/754841.htm)
+
++ [消息称华为与北汽合作打造的“享界”首款车型 6 月发布，月销目标 1 万辆](https://m.ithome.com/html/754843.htm)
+

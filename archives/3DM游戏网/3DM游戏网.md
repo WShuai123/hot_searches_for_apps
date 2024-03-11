@@ -121,3 +121,7 @@
 
 + [消息称《地狱之刃2》不会跨平台发售](https://www.3dmgame.com/news/202403/3890209.html)
 
++ [赵喜娜全裸登奥斯卡舞台 颁发最佳服装设计奖](https://www.3dmgame.com/news/202403/3890212.html)
+
++ [再夺一冠！《DOTA2》梦幻联赛S22 Falcons 3:0 BB](https://www.3dmgame.com/news/202403/3890211.html)
+
