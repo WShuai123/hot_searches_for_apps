@@ -101,3 +101,9 @@
 
 + [如何在Windows系统使用固定tcp公网地址ssh远程Kali系统](https://blog.csdn.net/Tiam_cr/article/details/136595227)
 
++ [计算机设计大赛 疲劳驾驶检测系统 python](https://blog.csdn.net/iuerfee/article/details/136584843)
+
++ [【机器学习】包裹式特征选择之基于模型的特征选择法](https://blog.csdn.net/m0_74195174/article/details/136531620)
+
++ [Solidity攻击合约：重入攻击与危害分析](https://blog.csdn.net/2202_75568470/article/details/136589379)
+

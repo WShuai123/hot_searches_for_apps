@@ -101,3 +101,7 @@
 
 + [《最终幻想7 重生》开发团队承认 按时完成工作是困难的](https://www.3dmgame.com/news/202403/3890219.html)
 
++ [任天堂Switch后续游戏机名称也许叫这个](https://www.3dmgame.com/news/202403/3890272.html)
+
++ [《超级马里奥兄弟电影2》设计图曝光新角色](https://www.3dmgame.com/news/202403/3890271.html)
+
