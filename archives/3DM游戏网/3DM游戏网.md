@@ -173,3 +173,5 @@
 
 + [小队战术角色扮演游戏《佐瑞亚：碎裂纪元》现已正式发售](https://www.3dmgame.com/news/202403/3890227.html)
 
++ [单卡功耗可达1400W 黄仁勋：下代GPU服务器必须水冷](https://www.3dmgame.com/news/202403/3890237.html)
+

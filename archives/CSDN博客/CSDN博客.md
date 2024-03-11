@@ -155,3 +155,11 @@
 
 + [【测试】构建质量保证之路：编写测试用例的艺术](https://blog.csdn.net/AliceNo/article/details/136605853)
 
++ [第108讲：Mycat实践指南：枚举分片下的水平分表详解](https://blog.csdn.net/weixin_44953658/article/details/136614368)
+
++ [【Prometheus】k8s集群部署node-exporter](https://blog.csdn.net/qq_35995514/article/details/136447177)
+
++ [MyBatisPlus](https://blog.csdn.net/mni26/article/details/136594195)
+
++ [opencv人脸识别实战3：多线程和GUI界面设计（PyCharm实现）](https://blog.csdn.net/m0_73776435/article/details/136611856)
+
