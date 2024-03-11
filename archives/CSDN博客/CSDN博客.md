@@ -199,3 +199,9 @@
 
 + [特斯拉被黑客攻击？如何保护您的Kubernetes集群并阻止黑客？](https://blog.csdn.net/guorui_java/article/details/136613569)
 
++ [HDFS的架构优势与基本操作](https://blog.csdn.net/weixin_52986315/article/details/136493254)
+
++ [PyTorch完整的神经网络模型训练（使用GPU训练）](https://blog.csdn.net/Joining667/article/details/136607781)
+
++ [计算机网络——OSI网络层次模型](https://blog.csdn.net/qq_67693066/article/details/136597950)
+
