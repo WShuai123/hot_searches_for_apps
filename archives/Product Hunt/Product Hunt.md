@@ -105,3 +105,37 @@
 
 + [Spatial Message](https://www.producthunt.com/posts/spatial-message)
 
++ [Buzzsprout for Mobile](https://www.producthunt.com/posts/buzzsprout-for-mobile)
+
++ [Travelicious (Beta)](https://www.producthunt.com/posts/travelicious-beta)
+
++ [Chatbot Whisperer](https://www.producthunt.com/posts/chatbot-whisperer)
+
++ [Inflection-2.5](https://www.producthunt.com/posts/inflection-2-5)
+
++ [MaternityPhotoshoot](https://www.producthunt.com/posts/maternityphotoshoot)
+
++ [Satellitor for Wordpress](https://www.producthunt.com/posts/satellitor-for-wordpress)
+
++ [COZY](https://www.producthunt.com/posts/cozy-4)
+
++ [Free SaaS Site Kit for Framer and Figma](https://www.producthunt.com/posts/free-saas-site-kit-for-framer-and-figma)
+
++ [Shapemate](https://www.producthunt.com/posts/shapemate)
+
++ [DianaHR](https://www.producthunt.com/posts/dianahr)
+
++ [Soundry AI](https://www.producthunt.com/posts/soundry-ai)
+
++ [Forescribe](https://www.producthunt.com/posts/forescribe)
+
++ [Algomist](https://www.producthunt.com/posts/algomist)
+
++ [Merge for Startups](https://www.producthunt.com/posts/merge-for-startups)
+
++ [AIChatbot](https://www.producthunt.com/posts/aichatbot-2)
+
++ [Picurious AI](https://www.producthunt.com/posts/picurious-ai)
+
++ [Atmosfy](https://www.producthunt.com/posts/atmosfy)
+

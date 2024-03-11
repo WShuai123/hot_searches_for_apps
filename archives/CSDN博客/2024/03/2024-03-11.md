@@ -169,3 +169,11 @@
 
 + [Docker进阶：深入理解 Dockerfile](https://blog.csdn.net/qq_41840843/article/details/136598881)
 
++ [OpenCV开发笔记（七十七）：相机标定（二）：通过棋盘标定计算相机内参矩阵矫正畸变摄像头图像](https://blog.csdn.net/qq21497936/article/details/136616551)
+
++ [GaussDB数据库的索引管理](https://blog.csdn.net/GaussDB/article/details/136614514)
+
++ [再聊对架构决策记录的一些思考](https://blog.csdn.net/jdcdev_/article/details/136615099)
+
++ [手机短信恢复 - 如何在 Android 手机上恢复删除的短信](https://blog.csdn.net/qq_23996309/article/details/136597365)
+

@@ -179,3 +179,11 @@
 
 + [动作角色扮演游戏《Thorgal》首部预告片 改编自同名漫画](https://www.3dmgame.com/news/202403/3890238.html)
 
++ [《赛马大亨10 2024》体验版3月14日上线多平台 完整版月底发售](https://www.3dmgame.com/news/202403/3890243.html)
+
++ [《龙之信条2》角色编辑工具被玩坏 真人版皮卡丘登场](https://www.3dmgame.com/news/202403/3890242.html)
+
++ [《奥日》系列销量已达1000万 如果初代游戏失败了工作室就会破产](https://www.3dmgame.com/news/202403/3890241.html)
+
++ [为庆祝《咒术回战》连载6周年 少年Jump发起第4次人气角色投票](https://www.3dmgame.com/news/202403/3890240.html)
+

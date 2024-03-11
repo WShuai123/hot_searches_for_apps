@@ -55,3 +55,5 @@
 
 + [遭俄APT组织暴力攻击，微软部分源代码和机密信息泄露](https://www.freebuf.com/news/393940.html)
 
++ [Valid8Proxy：一款功能强大的工作代理获取、验证和存储工具](https://www.freebuf.com/sectool/392024.html)
+

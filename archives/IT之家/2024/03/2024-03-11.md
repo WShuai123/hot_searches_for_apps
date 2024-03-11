@@ -39,3 +39,5 @@
 
 + [【IT之家开箱】小米 14 Ultra 钛金属特别版图赏：“硬”核扎实，独树一帜](https://m.ithome.com/html/754876.htm)
 
++ [理想 MEGA 汽车风波不断，李想发声“决定开始反击，用光明反击黑暗”](https://m.ithome.com/html/754878.htm)
+
