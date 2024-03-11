@@ -137,3 +137,15 @@
 
 + [数字时代下的内部审计蜕变：探索数字化转型的七大关键领域](https://blog.csdn.net/JHXL_/article/details/136556579)
 
++ [30天拿下Rust之字符串](https://blog.csdn.net/hope_wisdom/article/details/136610270)
+
++ [AIGC实战——GPT(Generative Pre-trained Transformer)](https://blog.csdn.net/LOVEmy134611/article/details/136613558)
+
++ [【机器学习】包裹式特征选择之基于模型的特征选择法](https://blog.csdn.net/m0_74195174/article/details/136531620)
+
++ [软件杯 图像识别-人脸识别与疲劳检测 - python opencv](https://blog.csdn.net/m0_43533/article/details/136598082)
+
++ [k8s Pod控制器详解（服务发现，Deployment,StatefulSet,DaemonSet,Job,CronJob 控制器功能及部署 示例）](https://blog.csdn.net/qq_51545656/article/details/136610885)
+
++ [线性代数 --- 特征值与特征向量（下）](https://blog.csdn.net/daduzimama/article/details/136608493)
+

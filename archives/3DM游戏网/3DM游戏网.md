@@ -137,3 +137,19 @@
 
 + [《虫姬》实体版8月29日登陆Switch 经典弹幕射击](https://www.3dmgame.com/news/202403/3890213.html)
 
++ [《星刃》Demo女主换装视频 性感身材就是要秀出来](https://www.3dmgame.com/news/202403/3890223.html)
+
++ [万代宣布限时开启第二次高达元宇宙空间 世界粉丝交流展示](https://www.3dmgame.com/news/202403/3890224.html)
+
++ [暴雪妇女节活动 请来多样性包容性委员会副主席演讲](https://www.3dmgame.com/news/202403/3890225.html)
+
++ [600名动视暴雪QA员工成立游戏行业迄今为止最大的工会](https://www.3dmgame.com/news/202403/3890226.html)
+
++ [《最终幻想7 重生》开发团队承认 按时完成工作是困难的](https://www.3dmgame.com/news/202403/3890219.html)
+
++ [《2077》设计师：地铁系统最初被设计为角色扮演一环](https://www.3dmgame.com/news/202403/3890220.html)
+
++ [《哥斯拉-1.0》斩获奥斯卡视效奖 亚洲电影首次突破](https://www.3dmgame.com/news/202403/3890221.html)
+
++ [陶德·霍华德：看《辐射》真人剧集不需要玩过游戏](https://www.3dmgame.com/news/202403/3890222.html)
+
