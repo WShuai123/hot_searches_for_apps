@@ -163,3 +163,5 @@
 
 + [onEco +Analytics](https://www.producthunt.com/posts/oneco-analytics)
 
++ [Shopify App Idea Generator](https://www.producthunt.com/posts/shopify-app-idea-generator)
+

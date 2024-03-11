@@ -53,3 +53,35 @@
 
 + [rolldown / rolldown](https://github.com/rolldown/rolldown)
 
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
++ [usebruno / bruno](https://github.com/usebruno/bruno)
+
++ [PaperMC / Paper](https://github.com/PaperMC/Paper)
+
++ [friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
+
++ [fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [ocornut / imgui](https://github.com/ocornut/imgui)
+
++ [gleam-lang / gleam](https://github.com/gleam-lang/gleam)
+
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
++ [laurent22 / joplin](https://github.com/laurent22/joplin)
+
++ [electron / electron](https://github.com/electron/electron)
+
++ [zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
+
++ [ledgerwatch / erigon](https://github.com/ledgerwatch/erigon)
+
++ [hyprwm / Hyprland](https://github.com/hyprwm/Hyprland)
+

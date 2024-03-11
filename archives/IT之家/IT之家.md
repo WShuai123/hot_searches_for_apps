@@ -51,3 +51,5 @@
 
 + [微软已悄悄允许 Win11 用户卸载 OneDrive](https://m.ithome.com/html/754844.htm)
 
++ [宫崎骏《你想活出怎样的人生》官宣引进内地上映，获得第 96 届奥斯卡最佳动画长片](https://m.ithome.com/html/754851.htm)
+

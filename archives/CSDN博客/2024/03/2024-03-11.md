@@ -205,3 +205,9 @@
 
 + [计算机网络——OSI网络层次模型](https://blog.csdn.net/qq_67693066/article/details/136597950)
 
++ [CentOS7使用Docker部署Joplin Server并结合内网穿透实现公网访问本地笔记](https://blog.csdn.net/2201_75743654/article/details/136624910)
+
++ [计算机设计大赛 疲劳驾驶检测系统 python](https://blog.csdn.net/iuerfee/article/details/136584843)
+
++ [第五篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas在教育数据和研究数据处理领域的应用](https://blog.csdn.net/jackchuanqi/article/details/136596252)
+
