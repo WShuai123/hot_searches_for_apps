@@ -43,3 +43,7 @@
 
 + [小米推出米家控温沐浴花洒 N1：纯白配色 + 无级调温，众筹价 699 元](https://m.ithome.com/html/754890.htm)
 
++ [余承东、何小鹏等人在李想朋友圈下留言支持：用光明反击黑暗](https://m.ithome.com/html/754911.htm)
+
++ [理想 MEGA 纯电 MPV 明日开启全国交付，展车试驾车已陆续到达全国零售中心](https://m.ithome.com/html/754842.htm)
+
