@@ -107,3 +107,19 @@
 
 + [Solidity攻击合约：重入攻击与危害分析](https://blog.csdn.net/2202_75568470/article/details/136589379)
 
++ [设计模式深度解析：工厂方法模式与抽象工厂模式的深度对比](https://blog.csdn.net/danci_/article/details/136551243)
+
++ [如何部署Python Flask并实现远程访问本地搭建web站点【内网穿透】](https://blog.csdn.net/qq_48652579/article/details/136625070)
+
++ [狂飙Linux平台，PostgreSQL16部署大全](https://blog.csdn.net/weixin_41645135/article/details/136637147)
+
++ [【小黑送书—第十二期】＞＞一本书讲透Elasticsearch：原理、进阶与工程实践（文末送书）](https://blog.csdn.net/Goforyouqp/article/details/136620149)
+
++ [Window部署Oracle并实现公网环境远程访问本地数据库](https://blog.csdn.net/ljq_up/article/details/136622653)
+
++ [Linux进程概念&&僵尸进程&&孤儿进程](https://blog.csdn.net/2201_76004325/article/details/136607883)
+
++ [基于YOLOV8检测和OCR识别的车牌识别](https://blog.csdn.net/qq_46345319/article/details/136575584)
+
++ [Linux系统部署火狐浏览器结合内网穿透实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/136630733)
+

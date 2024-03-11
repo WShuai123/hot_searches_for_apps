@@ -105,3 +105,13 @@
 
 + [《超级马里奥兄弟电影2》设计图曝光新角色](https://www.3dmgame.com/news/202403/3890271.html)
 
++ [《月球登陆者：超越》4/23登陆各大平台](https://www.3dmgame.com/news/202403/3890276.html)
+
++ [基于Web3技术多类型3A大逃杀游戏《OPEN》公布](https://www.3dmgame.com/news/202403/3890277.html)
+
++ [升级至虚幻5《华纳大乱斗》5月28日上线](https://www.3dmgame.com/news/202403/3890275.html)
+
++ [消息称《最终幻想9重制版》或为Switch2独占](https://www.3dmgame.com/news/202403/3890274.html)
+
++ [《守望先锋2》星际牛仔联动发布游玩预告演示](https://www.3dmgame.com/news/202403/3890273.html)
+
