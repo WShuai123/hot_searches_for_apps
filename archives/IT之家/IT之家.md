@@ -35,3 +35,5 @@
 
 + [英伟达 CEO 黄仁勋拥有 50 名直接下属，称反对信息不对称的管理文化](https://m.ithome.com/html/754820.htm)
 
++ [拒绝隐形加班：离线休息权入法的提案已立案](https://m.ithome.com/html/754806.htm)
+

@@ -47,3 +47,5 @@
 
 + [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
 
++ [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html)
+

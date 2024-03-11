@@ -153,3 +153,23 @@
 
 + [陶德·霍华德：看《辐射》真人剧集不需要玩过游戏](https://www.3dmgame.com/news/202403/3890222.html)
 
++ [《星刃》最初体量非常小 与索尼合作后才扩大规模](https://www.3dmgame.com/news/202403/3890235.html)
+
++ [完全iPhone15Pro拍摄！三池崇史导演手冢治虫名作《午夜》](https://www.3dmgame.com/news/202403/3890236.html)
+
++ [科学家警告 ChatGPT用电量堪比1.7万个美国家庭](https://www.3dmgame.com/news/202403/3890234.html)
+
++ [《奥本海默》横扫第96届奥斯卡 拿下最佳影片等奖项](https://www.3dmgame.com/news/202403/3890233.html)
+
++ [《绝地潜兵2》Steam好评数已超20万 玩家特别好评](https://www.3dmgame.com/news/202403/3890232.html)
+
++ [《最终幻想7：重生》“修复“了蒂法和爱丽丝之间的关系](https://www.3dmgame.com/news/202403/3890231.html)
+
++ [前索尼互娱CEO警告 游戏开发费用过于庞大回收成本困难](https://www.3dmgame.com/news/202403/3890230.html)
+
++ [传闻：万代偷工减料 导致与《龙珠斗士Z》开发商关系不睦](https://www.3dmgame.com/news/202403/3890229.html)
+
++ [《电锯糖心：重制版》将新增自由选择配音版本功能](https://www.3dmgame.com/news/202403/3890228.html)
+
++ [小队战术角色扮演游戏《佐瑞亚：碎裂纪元》现已正式发售](https://www.3dmgame.com/news/202403/3890227.html)
+
