@@ -265,3 +265,17 @@
 
 + [《歧路旅人：大陆的霸者》国服首曝PV 现已开启预约](https://www.3dmgame.com/news/202403/3890344.html)
 
++ [AMD MI300X这次成了！大量NVIDIA用户投奔而来](https://www.3dmgame.com/news/202403/3890353.html)
+
++ [NS《蜡笔小新 煤炭镇的小白》香港区游戏发布会圆满成功](https://www.3dmgame.com/news/202403/3890354.html)
+
++ [广播剧录制题材 BL恋爱模拟《Voice Love on Air》3月14日正式上线STEAM！](https://www.3dmgame.com/news/202403/3890355.html)
+
++ [《华彩煌煌，吾之一族 幻灯时代》预定于5月20日发售！](https://www.3dmgame.com/news/202403/3890356.html)
+
++ [欢迎来到《MAGIC CHAOS》，一款支持最多四人在线对战的弹幕派对游戏](https://www.3dmgame.com/news/202403/3890357.html)
+
++ [《辛特堡传说》公开最新中文预告片“沼泽世界”](https://www.3dmgame.com/news/202403/3890358.html)
+
++ [小伙3年留英花200万回国只找到月薪4000工作：非常后悔](https://www.3dmgame.com/news/202403/3890359.html)
+

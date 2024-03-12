@@ -161,3 +161,7 @@
 
 + [美术馆预约小程序|基于微信小程序的美术馆预约平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/136596946)
 
++ [解码人工智能的幽默：理解其背后的误解与挑战](https://blog.csdn.net/Srlua/article/details/136639541)
+
++ [人工智能迷惑行为大赏](https://blog.csdn.net/u014727709/article/details/136631082)
+
