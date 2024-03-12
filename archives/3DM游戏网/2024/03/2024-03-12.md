@@ -207,3 +207,7 @@
 
 + [《绝地求生》2023年封禁了320万个作弊账号](https://www.3dmgame.com/news/202403/3890323.html)
 
++ [《原神》角色演示-「千织：绮意千纫」](https://www.3dmgame.com/news/202403/3890324.html)
+
++ [漫改动画《胆大党》上线日期确定 2024年10月放映](https://www.3dmgame.com/news/202403/3890325.html)
+

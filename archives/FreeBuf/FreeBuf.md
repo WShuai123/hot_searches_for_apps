@@ -53,3 +53,7 @@
 
 + [企业安全 | 数据安全建设指南](https://www.freebuf.com/articles/database/393419.html)
 
++ [意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394077.html)
+
++ [起底“疯狂”作案的勒索软件 Clop](https://www.freebuf.com/articles/neopoints/392911.html)
+
