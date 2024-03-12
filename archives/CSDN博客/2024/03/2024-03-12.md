@@ -123,3 +123,11 @@
 
 + [Linux系统部署火狐浏览器结合内网穿透实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/136630733)
 
++ [【Linux杂货铺】操作系统](https://blog.csdn.net/jupangMZ/article/details/136636575)
+
++ [内部审计2.0时代：数字化工具和方法全面升级](https://blog.csdn.net/qq_32682301/article/details/136628180)
+
++ [Java高校学校招生报名咨询系统设计与实现(Idea+Springboot+mysql)](https://blog.csdn.net/u013818205/article/details/136488655)
+
++ [如何在Linux使用Docker部署Firefox并实现无公网IP访问本地浏览器](https://blog.csdn.net/fq157856469/article/details/136633515)
+

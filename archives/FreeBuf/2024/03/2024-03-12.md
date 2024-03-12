@@ -41,3 +41,7 @@
 
 + [通过蜜罐观察对容器编排服务的在野攻击](https://www.freebuf.com/articles/paper/384095.html)
 
++ [FreeBuf 早报 | 新的xStealer恶意软件首次亮相；英国政府针对勒索软件防范失职](https://www.freebuf.com/news/393993.html)
+
++ [透视 DarkGate 恶意家族的攻击动向](https://www.freebuf.com/articles/network/393159.html)
+

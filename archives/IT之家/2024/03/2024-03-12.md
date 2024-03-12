@@ -25,3 +25,9 @@
 
 + [黄仁勋：即使竞争对手的 AI 芯片免费提供，也无法击败英伟达方案](https://m.ithome.com/html/754854.htm)
 
++ [15.98 万元起，奇瑞插混新车星途瑶光 C-DM 上市：综合续航最高 1343km](https://m.ithome.com/html/754987.htm)
+
++ [荣耀 Magic6 至臻版手机开启预定，提供 512GB、1TB 大存储版本](https://m.ithome.com/html/754894.htm)
+
++ [《奥本海默》获第 96 届奥斯卡最佳影片奖，诺兰首次获得最佳导演](https://m.ithome.com/html/754879.htm)
+

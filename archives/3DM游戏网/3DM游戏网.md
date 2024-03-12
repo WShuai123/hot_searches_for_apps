@@ -115,3 +115,11 @@
 
 + [《守望先锋2》星际牛仔联动发布游玩预告演示](https://www.3dmgame.com/news/202403/3890273.html)
 
++ [卡普空《怪物猎人物语》Steam页面  6月14日推出](https://www.3dmgame.com/news/202403/3890281.html)
+
++ [《龙之信条2》可以同屏出现三个BOSS 让玩家备受折磨](https://www.3dmgame.com/news/202403/3890280.html)
+
++ [新《期待在地下城邂逅有错吗》游戏版信息公布](https://www.3dmgame.com/news/202403/3890279.html)
+
++ [《街头霸王6》公布DLC角色豪鬼 第2年内容已在开发中](https://www.3dmgame.com/news/202403/3890278.html)
+
