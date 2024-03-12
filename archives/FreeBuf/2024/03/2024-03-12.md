@@ -61,3 +61,7 @@
 
 + [红队实战小课，快来涨经验|Webshell下bypass360](https://www.freebuf.com/news/394133.html)
 
++ [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html)
+
++ [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html)
+
