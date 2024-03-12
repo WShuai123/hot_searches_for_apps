@@ -241,3 +241,27 @@
 
 + [官宣小米汽车发布3月28日！雷军回应新能源车价格战：小米做好准备](https://www.3dmgame.com/news/202403/3890338.html)
 
++ [马斯克损失惨重！遭极端环保分子纵火 特斯拉德国工厂停产已超一周](https://www.3dmgame.com/news/202403/3890349.html)
+
++ [《11F》Steam页面上线 写实场景恐怖探索新游](https://www.3dmgame.com/news/202403/3890350.html)
+
++ [Steam最新一周销量榜 《龙之信条2》上榜《绝地潜兵2》五连冠](https://www.3dmgame.com/news/202403/3890351.html)
+
++ [只为纯爱的你，《自豪！美女全攻略》现已正式上线](https://www.3dmgame.com/news/202403/3890352.html)
+
++ [AI生成的美女登上《花花公子》封面 非常逼真吸睛](https://www.3dmgame.com/news/202403/3890345.html)
+
++ [《圣兽之王》实体销售火爆导致缺货 Atlus发文致歉](https://www.3dmgame.com/news/202403/3890346.html)
+
++ [模拟经营游戏《创造神之雫》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890347.html)
+
++ [KK对战平台人气新图《烈火英雄》十大福利来袭，主播激励计划启动](https://www.3dmgame.com/news/202403/3890348.html)
+
++ [《女神异闻录3：Reload》扩展通行证发售 玩家差评怒喷：吃相难看](https://www.3dmgame.com/news/202403/3890341.html)
+
++ [乡村司机叙事模拟器《晨曦》Steam页面上线 支持中文](https://www.3dmgame.com/news/202403/3890342.html)
+
++ [微博更新热搜词条处置规则 新增投诉入口](https://www.3dmgame.com/news/202403/3890343.html)
+
++ [《歧路旅人：大陆的霸者》国服首曝PV 现已开启预约](https://www.3dmgame.com/news/202403/3890344.html)
+
