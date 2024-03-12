@@ -51,3 +51,5 @@
 
 + [网安并购 | 拟出资19亿元，控股国盾量子](https://www.freebuf.com/news/394070.html)
 
++ [企业安全 | 数据安全建设指南](https://www.freebuf.com/articles/database/393419.html)
+

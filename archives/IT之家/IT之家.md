@@ -41,3 +41,7 @@
 
 + [保时捷发布旗下最强电动汽车 Taycan Turbo GT，苹果 CEO 库克罕见出镜](https://m.ithome.com/html/755040.htm)
 
++ [雷军回应新能源汽车价格战：小米 SU7 做好了充分的各方面的准备](https://m.ithome.com/html/755120.htm)
+
++ [极石汽车回应“1 月销量为 0”：系不实信息，累计产量 2586 辆 / 销量 2357 辆](https://m.ithome.com/html/755038.htm)
+
