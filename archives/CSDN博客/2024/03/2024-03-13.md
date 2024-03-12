@@ -105,3 +105,19 @@
 
 + [【存储】ZYNQ+NVMe小型化全国产存储解决方案](https://blog.csdn.net/wuzhikaidetb/article/details/136628060)
 
++ [SpringSecurity原理简述](https://blog.csdn.net/2301_78386975/article/details/136622807)
+
++ [【机器学习】包裹式特征选择之基于模型的特征选择法](https://blog.csdn.net/m0_74195174/article/details/136531620)
+
++ [Python 基于 OpenCV 视觉图像处理实战 之 背景知识](https://blog.csdn.net/u014361280/article/details/136625118)
+
++ [【实战项目】网络编程：在Linux环境下基于opencv和socket的人脸识别系统--C++实现](https://blog.csdn.net/m0_57532432/article/details/136543086)
+
++ [第十九届全国大学生智能汽车竞赛镜头组 恩智浦MicroPython赛道相关说明](https://blog.csdn.net/zhuoqingjoking97298/article/details/136596193)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136623278)
+
++ [【猫头虎科技解码】探秘Drools语法：规则引擎在实战中的应用️](https://blog.csdn.net/qq_44866828/article/details/136647939)
+
++ [如何在Linux使用Docker部署Firefox并实现无公网IP访问本地浏览器](https://blog.csdn.net/fq157856469/article/details/136633515)
+
