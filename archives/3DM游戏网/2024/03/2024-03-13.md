@@ -105,3 +105,21 @@
 
 + [第三人称射击游戏《太阳之子》4月9日发售 支持试玩](https://www.3dmgame.com/news/202403/3890369.html)
 
++ [《街头霸王6》与《怪物猎人》20周年合作联动公布](https://www.3dmgame.com/news/202403/3890378.html)
+
++ [SIE分享《浪人崛起》新预告片“剧情插曲”](https://www.3dmgame.com/news/202403/3890377.html)
+
++ [黑色侦探冒险游戏《无人愿死》面向各大平台公布](https://www.3dmgame.com/news/202403/3890376.html)
+
++ [第一人称心理恐怖新游《九号停尸房》发布预告](https://www.3dmgame.com/news/202403/3890375.html)
+
++ [英伟达发布DX 12 Ultimate“工作图”PC技术演示](https://www.3dmgame.com/news/202403/3890374.html)
+
++ [战神3导演成立新公司开发虚幻5单人3A新游戏](https://www.3dmgame.com/news/202403/3890373.html)
+
++ [《网络奇兵：重制版》5月登陆主机平台](https://www.3dmgame.com/news/202403/3890372.html)
+
++ [《格兰蒂亚 HD合集》确定3月26日登陆PS和Xbox](https://www.3dmgame.com/news/202403/3890371.html)
+
++ [开放世界小马宝莉游戏新作5月全平台发售](https://www.3dmgame.com/news/202403/3890370.html)
+
