@@ -31,3 +31,7 @@
 
 + [《奥本海默》获第 96 届奥斯卡最佳影片奖，诺兰首次获得最佳导演](https://m.ithome.com/html/754879.htm)
 
++ [不负三年之约：小米汽车 SU7 官宣 3 月 28 日正式上市，上市即交付](https://m.ithome.com/html/755070.htm)
+
++ [互联网巨头该害怕了，「无 App」手机已经出现](https://m.ithome.com/html/755014.htm)
+

@@ -45,3 +45,5 @@
 
 + [透视 DarkGate 恶意家族的攻击动向](https://www.freebuf.com/articles/network/393159.html)
 
++ [制造业信息安全实践——企业信息安全管理规划](https://www.freebuf.com/articles/security-management/393280.html)
+

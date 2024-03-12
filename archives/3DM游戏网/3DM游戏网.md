@@ -123,3 +123,15 @@
 
 + [《街头霸王6》公布DLC角色豪鬼 第2年内容已在开发中](https://www.3dmgame.com/news/202403/3890278.html)
 
++ [国产武侠《无极群侠传：第一战》上线Steam 免费游玩](https://www.3dmgame.com/news/202403/3890287.html)
+
++ [《最终幻想7：重生》联动保时捷短片 回顾梦想实现之路](https://www.3dmgame.com/news/202403/3890284.html)
+
++ [《最终幻想7 重生》交响音乐会公开 8月10日起世界巡演](https://www.3dmgame.com/news/202403/3890286.html)
+
++ [《命运2》下周将与《捉鬼敢死队》合作推出新联动](https://www.3dmgame.com/news/202403/3890285.html)
+
++ [研究显示：青少年玩家认为游戏空间安全很重要](https://www.3dmgame.com/news/202403/3890282.html)
+
++ [《原始袭变》宣布联动《洛克人》 4月17日上线](https://www.3dmgame.com/news/202403/3890283.html)
+
