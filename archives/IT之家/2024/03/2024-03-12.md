@@ -39,3 +39,5 @@
 
 + [蔚来汽车 CEO 李斌发话，要求全体员工不得参与理想 MEGA 外形舆论](https://m.ithome.com/html/755054.htm)
 
++ [保时捷发布旗下最强电动汽车 Taycan Turbo GT，苹果 CEO 库克罕见出镜](https://m.ithome.com/html/755040.htm)
+

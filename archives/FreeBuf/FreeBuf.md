@@ -47,3 +47,7 @@
 
 + [制造业信息安全实践——企业信息安全管理规划](https://www.freebuf.com/articles/security-management/393280.html)
 
++ [法国多个政府机构遭受”猛烈“的网络攻击](https://www.freebuf.com/news/394067.html)
+
++ [网安并购 | 拟出资19亿元，控股国盾量子](https://www.freebuf.com/news/394070.html)
+
