@@ -283,3 +283,7 @@
 
 + [《龙珠战士Z》Steam新史低促销 当前仅售29.7元](https://www.3dmgame.com/news/202403/3890360.html)
 
++ [新3A游戏开发商emptyvessel成立 首个作品采用虚幻5](https://www.3dmgame.com/news/202403/3890363.html)
+
++ [《怪物猎人物语》复刻版PC配置公布 GTX 960畅玩](https://www.3dmgame.com/news/202403/3890362.html)
+
