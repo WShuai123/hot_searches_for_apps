@@ -95,3 +95,9 @@
 
 + [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
 
++ [Trailhunters - Merchandise Designs](https://dribbble.com/shots/)
+
++ [The Dead King Logo](https://dribbble.com/shots/)
+
++ [Forestry Truck on Snowy Road](https://dribbble.com/shots/)
+
