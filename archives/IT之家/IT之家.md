@@ -49,3 +49,5 @@
 
 + [8799 元，小米 14 Ultra 手机钛金属特别版 10:00 首销](https://m.ithome.com/html/755068.htm)
 
++ [骁龙 8 Gen 4 和天玑 9400 更亮眼，消息称苹果 A18 Pro 表现较“平庸”：多核性能仅提升 10%](https://m.ithome.com/html/755135.htm)
+

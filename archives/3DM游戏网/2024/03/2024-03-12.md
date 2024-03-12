@@ -235,3 +235,9 @@
 
 + [传闻：谷歌Pixel8/Pro手机将首次支持有线外接显示器](https://www.3dmgame.com/news/202403/3890337.html)
 
++ [《浪人崛起》新实机截图 展示开放世界和战斗系统](https://www.3dmgame.com/news/202403/3890340.html)
+
++ [《七龙珠》40周年纪念最新动画《龙珠 DAIMA》官宣今秋开播](https://www.3dmgame.com/news/202403/3890339.html)
+
++ [官宣小米汽车发布3月28日！雷军回应新能源车价格战：小米做好准备](https://www.3dmgame.com/news/202403/3890338.html)
+
