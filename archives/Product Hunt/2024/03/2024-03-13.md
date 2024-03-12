@@ -103,3 +103,5 @@
 
 + [Stock Market GPT for Investment Research](https://www.producthunt.com/posts/stock-market-gpt-for-investment-research)
 
++ [Devin by Cognition](https://www.producthunt.com/posts/devin-by-cognition)
+

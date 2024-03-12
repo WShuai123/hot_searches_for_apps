@@ -101,3 +101,7 @@
 
 + [赛博撸猫沙盒模拟游戏《扑猫时刻》 现已在Steam推出抢先体验](https://www.3dmgame.com/news/202403/3890319.html)
 
++ [《F1车队经理2024》今夏发售 登陆全平台](https://www.3dmgame.com/news/202403/3890368.html)
+
++ [第三人称射击游戏《太阳之子》4月9日发售 支持试玩](https://www.3dmgame.com/news/202403/3890369.html)
+
