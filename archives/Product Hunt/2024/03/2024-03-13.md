@@ -101,3 +101,5 @@
 
 + [DesignRoasts](https://www.producthunt.com/posts/designroasts)
 
++ [Stock Market GPT for Investment Research](https://www.producthunt.com/posts/stock-market-gpt-for-investment-research)
+

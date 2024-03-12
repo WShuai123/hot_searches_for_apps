@@ -89,3 +89,9 @@
 
 + [Fountain Hand tattoo](https://dribbble.com/shots/)
 
++ [Felt squirrelly, might delete later idk ????️](https://dribbble.com/shots/)
+
++ [Apple](https://dribbble.com/shots/)
+
++ [Hubbs Aviation Logo Design](https://dribbble.com/shots/)
+
