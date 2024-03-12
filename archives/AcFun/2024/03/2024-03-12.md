@@ -73,3 +73,7 @@
 
 + [【小子贼疯】指纹——“旋转几轮，变成我们，深刻的指纹”](http://www.acfun.cn/v/ac43992635)
 
++ [【东方】爵士 幻想郷と煌めく虹色の花 专辑赏析【Second Fragment】](http://www.acfun.cn/v/ac43978456)
+
++ [超级气球给大家发的报纸壳壳机甲体验Be Like:](http://www.acfun.cn/v/ac43989054)
+

@@ -35,3 +35,7 @@
 
 + [互联网巨头该害怕了，「无 App」手机已经出现](https://m.ithome.com/html/755014.htm)
 
++ [华为鸿蒙 HarmonyOS 4 新体验版现已推送：在界面、系统、安全、应用四方面实现升级](https://m.ithome.com/html/755060.htm)
+
++ [蔚来汽车 CEO 李斌发话，要求全体员工不得参与理想 MEGA 外形舆论](https://m.ithome.com/html/755054.htm)
+

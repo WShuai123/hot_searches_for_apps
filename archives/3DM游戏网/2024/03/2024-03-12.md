@@ -135,3 +135,51 @@
 
 + [《原始袭变》宣布联动《洛克人》 4月17日上线](https://www.3dmgame.com/news/202403/3890283.html)
 
++ [《明朝那些猫》登陆Steam 历史背景猫咪互动](https://www.3dmgame.com/news/202403/3890305.html)
+
++ [《狼与香辛料》新TV动画宣布将于4月2日开播](https://www.3dmgame.com/news/202403/3890306.html)
+
++ [漫改动画《彻夜之歌》确认制作第二季 PV发布](https://www.3dmgame.com/news/202403/3890304.html)
+
++ [玩家对《星刃》女主性感服装感到满意 尺度大没问题](https://www.3dmgame.com/news/202403/3890307.html)
+
++ [万代独立工作室新作《BOOMEROAD》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202403/3890308.html)
+
++ [《三角洲行动》“危险行动”模式介绍视频](https://www.3dmgame.com/news/202403/3890309.html)
+
++ [《魔兽世界》游戏中将展开《炉石传说》10周年庆典活动](https://www.3dmgame.com/news/202403/3890310.html)
+
++ [《使命召唤》战锤40K联动预告 现已正式上线](https://www.3dmgame.com/news/202403/3890288.html)
+
++ [电影《间谍过家家 代号：白》定档预告 4月30日上映](https://www.3dmgame.com/news/202403/3890311.html)
+
++ [《龙之信条2》总监：世界太有趣不需要坐骑 装备系统简化了](https://www.3dmgame.com/news/202403/3890297.html)
+
++ [《浪客剑心》新动画第二季《京都动乱》确定10月开播](https://www.3dmgame.com/news/202403/3890298.html)
+
++ [AI巨头势不可挡 英伟达2026年收入或达1300亿美元](https://www.3dmgame.com/news/202403/3890300.html)
+
++ [《沙丘2》美国内地第二周票房4600万 全球票房逼4亿美元](https://www.3dmgame.com/news/202403/3890301.html)
+
++ [《赛博朋克2077》总监：游戏已经做完了 但小更新还是会有的](https://www.3dmgame.com/news/202403/3890299.html)
+
++ [恐怖游戏《恶梦之家》上架Steam 逃离噩梦般房子](https://www.3dmgame.com/news/202403/3890302.html)
+
++ [第一人称合作打僵尸游戏《地狱缺口：维加斯》现已推出抢先体验](https://www.3dmgame.com/news/202403/3890303.html)
+
++ [《怪物猎人物语2》宣布即将登陆PS4 6月14日发售](https://www.3dmgame.com/news/202403/3890289.html)
+
++ [《原神》4.6版本新角色阿蕾奇诺立绘和介绍 姐姐踩我！](https://www.3dmgame.com/news/202403/3890291.html)
+
++ [《异星开拓者》Steam抢先体验 太空探索经营建设](https://www.3dmgame.com/news/202403/3890292.html)
+
++ [《辐射》电视剧为《辐射5》游戏让步 部分创意被否决](https://www.3dmgame.com/news/202403/3890293.html)
+
++ [《The Finals》第二赛季预告 加入全新黑客主题技能](https://www.3dmgame.com/news/202403/3890290.html)
+
++ [前PS总裁：订阅服务无法支撑3A游戏开发商](https://www.3dmgame.com/news/202403/3890294.html)
+
++ [《GTA5》多人首次 更新活动玩家终于能驾驶火车](https://www.3dmgame.com/news/202403/3890295.html)
+
++ [《最终幻想》制作人吉田直树渴望制作另一部大作](https://www.3dmgame.com/news/202403/3890296.html)
+
