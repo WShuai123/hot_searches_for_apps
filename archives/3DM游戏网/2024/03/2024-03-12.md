@@ -279,3 +279,7 @@
 
 + [小伙3年留英花200万回国只找到月薪4000工作：非常后悔](https://www.3dmgame.com/news/202403/3890359.html)
 
++ [台积电4月将面临30%的电价上涨 或最终影响芯片价格](https://www.3dmgame.com/news/202403/3890361.html)
+
++ [《龙珠战士Z》Steam新史低促销 当前仅售29.7元](https://www.3dmgame.com/news/202403/3890360.html)
+

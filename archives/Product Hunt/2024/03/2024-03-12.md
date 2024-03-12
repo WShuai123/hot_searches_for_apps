@@ -175,3 +175,13 @@
 
 + [Flowsage Beta](https://www.producthunt.com/posts/flowsage-beta)
 
++ [OpenVC Pitch Deck Template](https://www.producthunt.com/posts/openvc-pitch-deck-template)
+
++ [Planana](https://www.producthunt.com/posts/planana)
+
++ [Tavus for Developers Beta](https://www.producthunt.com/posts/tavus-for-developers-beta)
+
++ [Sofon](https://www.producthunt.com/posts/sofon)
+
++ [WayFit](https://www.producthunt.com/posts/wayfit)
+

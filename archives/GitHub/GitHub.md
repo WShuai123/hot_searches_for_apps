@@ -51,3 +51,27 @@
 
 + [hyprwm / Hyprland](https://github.com/hyprwm/Hyprland)
 
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [altsem / gitu](https://github.com/altsem/gitu)
+
++ [Deeptrain-Community / chatnio](https://github.com/Deeptrain-Community/chatnio)
+
++ [microsoft / qlib](https://github.com/microsoft/qlib)
+
++ [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [elixir-lang / elixir](https://github.com/elixir-lang/elixir)
+
++ [fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
+
++ [appwrite / appwrite](https://github.com/appwrite/appwrite)
+
++ [ScoopInstaller / Main](https://github.com/ScoopInstaller/Main)
+
++ [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
+
++ [AnswerDotAI / fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora)
+

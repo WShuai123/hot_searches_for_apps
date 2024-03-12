@@ -169,3 +169,5 @@
 
 + [如何在Linux本地搭建Tale网站并实现无公网ip远程访问](https://blog.csdn.net/zhoubancheng/article/details/136649281)
 
++ [华为OD七日集训第2期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/136640445)
+
