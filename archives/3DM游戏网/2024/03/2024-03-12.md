@@ -287,3 +287,9 @@
 
 + [《怪物猎人物语》复刻版PC配置公布 GTX 960畅玩](https://www.3dmgame.com/news/202403/3890362.html)
 
++ [《噗哟噗哟俄罗斯方块》宣布登陆IOS平台 4月4日上线](https://www.3dmgame.com/news/202403/3890366.html)
+
++ [《怪物猎人》怪物总选举 牙龙种雷狼龙夺得第一](https://www.3dmgame.com/news/202403/3890364.html)
+
++ [全球首部完全AI生成的长电影首映 引发网友关注](https://www.3dmgame.com/news/202403/3890365.html)
+

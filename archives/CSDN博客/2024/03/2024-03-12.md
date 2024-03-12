@@ -171,3 +171,5 @@
 
 + [华为OD七日集训第2期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/136640445)
 
++ [群晖部署私人聊天服务器Vocechat并结合内网穿透实现公网远程访问](https://blog.csdn.net/2301_77485708/article/details/136652851)
+

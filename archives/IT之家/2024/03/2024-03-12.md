@@ -57,3 +57,5 @@
 
 + [阿里云盘宣布个人主页动态、订阅服务预计 3 月 15 日下线，后续将推更完善功能](https://m.ithome.com/html/755031.htm)
 
++ [古尔曼：新款 iPad Pro / Air 将在“3 月底或 4 月发布”，同步推出全新妙控键盘及 Apple Pencil](https://m.ithome.com/html/755046.htm)
+
