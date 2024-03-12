@@ -201,3 +201,7 @@
 
 + [百度文库-AI专业文档总结报告资料库](https://itunes.apple.com/cn/app/id426340811?mt=8)
 
++ [猫眼-电影演唱会演出休闲玩乐购票平台](https://itunes.apple.com/cn/app/id504274740?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
