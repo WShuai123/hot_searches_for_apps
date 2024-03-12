@@ -47,3 +47,5 @@
 
 + [相当于 4 块 M2 Ultra，苹果汽车项目所用芯片细节曝光：已接近完成](https://m.ithome.com/html/755057.htm)
 
++ [8799 元，小米 14 Ultra 手机钛金属特别版 10:00 首销](https://m.ithome.com/html/755068.htm)
+

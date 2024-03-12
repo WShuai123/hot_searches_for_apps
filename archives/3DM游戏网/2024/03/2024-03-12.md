@@ -233,3 +233,5 @@
 
 + [《格兰蒂亚1&2》PS4奖杯泄露 列表独立分开发售](https://www.3dmgame.com/news/202403/3890328.html)
 
++ [传闻：谷歌Pixel8/Pro手机将首次支持有线外接显示器](https://www.3dmgame.com/news/202403/3890337.html)
+

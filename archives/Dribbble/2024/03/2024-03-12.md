@@ -103,3 +103,11 @@
 
 + [Case Study: Active Rest Mobile App](https://dribbble.com/shots/)
 
++ [Creative Desperation logo](https://dribbble.com/shots/)
+
++ [Flower on saturn logotypes](https://dribbble.com/shots/)
+
++ [Beetlejuice](https://dribbble.com/shots/)
+
++ [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
+
