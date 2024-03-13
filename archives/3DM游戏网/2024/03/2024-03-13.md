@@ -227,3 +227,7 @@
 
 + [《Bureau of Contacts》Steam上线 多人合作恐怖探索](https://www.3dmgame.com/news/202403/3890426.html)
 
++ [《惊声尖叫》初代女主演员将回归第7部电影](https://www.3dmgame.com/news/202403/3890432.html)
+
++ [网易招聘壕爽快？用Y3编辑器轻松应聘，¥66666×16薪有手就来](https://www.3dmgame.com/news/202403/3890433.html)
+

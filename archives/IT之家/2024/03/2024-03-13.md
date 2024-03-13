@@ -49,3 +49,7 @@
 
 + [8.98 万元起，比亚迪 e2 荣耀版车型上市](https://m.ithome.com/html/755319.htm)
 
++ [代号“橄榄石”，小米 Redmi Note 13 Turbo 手机曝光](https://m.ithome.com/html/755356.htm)
+
++ [北汽再牵手华为：鸿蒙智行享界 S9 申报图曝光，预计北京车展首发亮相](https://m.ithome.com/html/755323.htm)
+

@@ -59,3 +59,5 @@
 
 + [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html)
 
++ [RansomwareSim：一款功能强大的勒索软件模拟研究学习工具](https://www.freebuf.com/sectool/392028.html)
+
