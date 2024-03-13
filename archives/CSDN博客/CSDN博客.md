@@ -171,3 +171,5 @@
 
 + [探索Linux世界：基本指令（文件查看、时间相关、grep、打包压缩及相关知识）](https://blog.csdn.net/qq_74415153/article/details/136675520)
 
++ [250+可用的 AI 资源网站](https://blog.csdn.net/qq_44273429/article/details/136677453)
+

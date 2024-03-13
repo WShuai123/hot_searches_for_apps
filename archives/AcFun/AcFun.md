@@ -115,3 +115,7 @@
 
 + [官方回应燕郊发生爆炸](http://www.acfun.cn/v/ac44004360)
 
++ [CNN记者为“碰瓷”中国，蹲点南海48小时！](http://www.acfun.cn/v/ac44001943)
+
++ [不愧是紫色](http://www.acfun.cn/v/ac43973537)
+
