@@ -53,3 +53,5 @@
 
 + [北汽再牵手华为：鸿蒙智行享界 S9 申报图曝光，预计北京车展首发亮相](https://m.ithome.com/html/755323.htm)
 
++ [限制“摇一摇”广告跳转，华为鸿蒙 HarmonyOS 4.0 新体验版增加应用获取设备方向权限](https://m.ithome.com/html/755370.htm)
+
