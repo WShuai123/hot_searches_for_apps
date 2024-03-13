@@ -281,3 +281,5 @@
 
 + [《沙丘2》导演和中国影迷见面会 收到中国版香料十三香](https://www.3dmgame.com/news/202403/3890459.html)
 
++ [Netflix科幻新片《异星战境》首曝预告 5月24日上线](https://www.3dmgame.com/news/202403/3890460.html)
+

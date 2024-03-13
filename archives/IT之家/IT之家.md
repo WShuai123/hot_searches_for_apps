@@ -67,3 +67,5 @@
 
 + [消息称小米汽车 SU7 顶配版价格超 30 万](https://m.ithome.com/html/755469.htm)
 
++ [吉林一号卫星公布小米汽车工厂遥感影像，近十日内新车数量大增](https://m.ithome.com/html/755434.htm)
+
