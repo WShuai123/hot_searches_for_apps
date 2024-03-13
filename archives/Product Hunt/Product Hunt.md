@@ -175,3 +175,7 @@
 
 + [16x Prompt](https://www.producthunt.com/posts/16x-prompt)
 
++ [Free A/B Test Calculator](https://www.producthunt.com/posts/free-a-b-test-calculator)
+
++ [Story.com](https://www.producthunt.com/posts/story-com)
+

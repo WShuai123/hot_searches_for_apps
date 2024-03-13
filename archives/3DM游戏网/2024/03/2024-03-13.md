@@ -273,3 +273,9 @@
 
 + [Netflix版《三体》曝角色海报 下周四上线第一季](https://www.3dmgame.com/news/202403/3890455.html)
 
++ [《毁灭战士：永恒》Steam官方MOD即将到来](https://www.3dmgame.com/news/202403/3890457.html)
+
++ [传《女神异闻录6》开发已完成95% 将有故事DLC](https://www.3dmgame.com/news/202403/3890458.html)
+
++ [《僵尸世界大战》开发商可能已被母公司完成出售](https://www.3dmgame.com/news/202403/3890456.html)
+
