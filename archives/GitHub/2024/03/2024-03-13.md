@@ -51,3 +51,37 @@
 
 + [AnswerDotAI / fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora)
 
++ [suyu-emu / suyu](https://github.com/suyu-emu/suyu)
+
++ [deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
+
++ [tiangolo / full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
+
++ [microsoft / aici](https://github.com/microsoft/aici)
+
++ [ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts)
+
++ [teableio / teable](https://github.com/teableio/teable)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [obsidianmd / jsoncanvas](https://github.com/obsidianmd/jsoncanvas)
+
++ [laravel / framework](https://github.com/laravel/framework)
+
++ [friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
+
++ [ELLA-Diffusion / ELLA](https://github.com/ELLA-Diffusion/ELLA)
+
++ [Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)
+
++ [google / gvisor](https://github.com/google/gvisor)
+
++ [curl / curl](https://github.com/curl/curl)
+
++ [01-ai / Yi](https://github.com/01-ai/Yi)
+
++ [jacoblee93 / fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot)
+
++ [lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region)
+
