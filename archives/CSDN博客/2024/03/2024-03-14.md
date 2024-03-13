@@ -133,3 +133,9 @@
 
 + [Python 基于 OpenCV 视觉图像处理实战 之 背景知识](https://blog.csdn.net/u014361280/article/details/136625118)
 
++ [(含代码)利用TensorRT的8位PTQ将Stable Diffusion速度提高 2 倍](https://blog.csdn.net/kunhe0512/article/details/136676452)
+
++ [计算机网络（第8版）](https://blog.csdn.net/qq_73904389/article/details/136637797)
+
++ [llama factory 参数体系EvaluationArguments、DataArguments、FinetuningArguments、FreezeArguments、LoraArgument](https://blog.csdn.net/weixin_41046245/article/details/136686786)
+

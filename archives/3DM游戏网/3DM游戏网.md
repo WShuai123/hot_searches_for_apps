@@ -117,3 +117,13 @@
 
 + [玩家为《塞尔达传说：黄昏公主》开发16人联机MOD](https://www.3dmgame.com/news/202403/3890465.html)
 
++ [《波斯王子：失落的王冠》发行后内容路线图公布](https://www.3dmgame.com/news/202403/3890473.html)
+
++ [解谜冒险游戏《纸间谜迹》 5/21登陆全平台](https://www.3dmgame.com/news/202403/3890472.html)
+
++ [开发者公布《星之海》三人本地合作模式](https://www.3dmgame.com/news/202403/3890471.html)
+
++ [Geoff宣布夏日游戏节2024定于6/7举行](https://www.3dmgame.com/news/202403/3890470.html)
+
++ [《我的世界》宣布推出月费订阅服务商城通行证](https://www.3dmgame.com/news/202403/3890469.html)
+

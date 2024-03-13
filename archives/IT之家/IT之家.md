@@ -25,3 +25,5 @@
 
 + [小米进行 8 英寸小平板调研，有意开发细分市场](https://m.ithome.com/html/755471.htm)
 
++ [蔚来花式促销：买 2024 款车型送手机](https://m.ithome.com/html/755415.htm)
+
