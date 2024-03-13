@@ -203,3 +203,15 @@
 
 + [《深岩银河》开发者喊话《绝地潜兵2》：快和我联动！](https://www.3dmgame.com/news/202403/3890415.html)
 
++ [iPhone不断降价 网友：你不买我不买还能再降七八百](https://www.3dmgame.com/news/202403/3890425.html)
+
++ [《绝地潜兵2》最新更新解决痛点：降低重型敌人生成率](https://www.3dmgame.com/news/202403/3890424.html)
+
++ [治愈系平台解谜游戏《擦身而过 顺风之旅》现已正式推出](https://www.3dmgame.com/news/202403/3890420.html)
+
++ [《007黄金眼》远景神秘小岛引热议 原开发者证实是废弃设计](https://www.3dmgame.com/news/202403/3890422.html)
+
++ [Epic调整虚幻引擎收费模式 兑现承诺游戏开发者不受影响](https://www.3dmgame.com/news/202403/3890421.html)
+
++ [《黑神话：悟空》B站预约 9.9分五星好评](https://www.3dmgame.com/news/202403/3890423.html)
+

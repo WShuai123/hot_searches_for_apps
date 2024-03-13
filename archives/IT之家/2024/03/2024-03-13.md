@@ -45,3 +45,7 @@
 
 + [Android 15 新功能曝光：Windows 电脑的“粘滞键”将登陆手机](https://m.ithome.com/html/755265.htm)
 
++ [新款奔驰长轴距 C 级上市，全系增加前排中部气囊](https://m.ithome.com/html/755243.htm)
+
++ [8.98 万元起，比亚迪 e2 荣耀版车型上市](https://m.ithome.com/html/755319.htm)
+

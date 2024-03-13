@@ -147,3 +147,13 @@
 
 + [YOLOv9改进策略 | 代码逐行解析（一）| 项目目录构造分析](https://blog.csdn.net/java1314777/article/details/136615969)
 
++ [OceanBase4.2版本 Docker 体验](https://blog.csdn.net/weixin_41645135/article/details/136668596)
+
++ [【机器学习】有监督学习算法之：逻辑回归](https://blog.csdn.net/wuyoudeyuer/article/details/135895574)
+
++ [基于深度学习的番茄叶片病害检测系统（含UI界面、yolov8、Python代码、数据集）](https://blog.csdn.net/qq_28949847/article/details/136653567)
+
++ [弱结构化日志 Flink SQL 怎么写？SLS SPL 来帮忙](https://blog.csdn.net/yunqiinsight/article/details/136653474)
+
++ [【Web世界探险家】打开Web世界的大门](https://blog.csdn.net/QQ3447387928/article/details/136662099)
+
