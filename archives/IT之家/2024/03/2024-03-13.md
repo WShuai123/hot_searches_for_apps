@@ -55,3 +55,5 @@
 
 + [限制“摇一摇”广告跳转，华为鸿蒙 HarmonyOS 4.0 新体验版增加应用获取设备方向权限](https://m.ithome.com/html/755370.htm)
 
++ [小米汽车 SU7 新配置申报：宁德时代磷酸铁锂电池，220kW 单电机](https://m.ithome.com/html/755386.htm)
+

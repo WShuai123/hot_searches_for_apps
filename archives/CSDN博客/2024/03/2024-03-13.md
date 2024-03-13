@@ -167,3 +167,7 @@
 
 + [[MYSQL数据库]--表内操作（CURD）](https://blog.csdn.net/qq_61552595/article/details/136530418)
 
++ [探索HDFS读写流程、节点机制和数据完整性](https://blog.csdn.net/weixin_52986315/article/details/136574525)
+
++ [探索Linux世界：基本指令（文件查看、时间相关、grep、打包压缩及相关知识）](https://blog.csdn.net/qq_74415153/article/details/136675520)
+
