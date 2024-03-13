@@ -193,3 +193,13 @@
 
 + [暴雪国服真的要回来了！曝网易将在一个月内官宣](https://www.3dmgame.com/news/202403/3890393.html)
 
++ [全球首位AI版软件工程师问世 能自学新语言迭代并Debug](https://www.3dmgame.com/news/202403/3890419.html)
+
++ [传闻：任天堂Switch 2大部分游戏都会支持DLSS](https://www.3dmgame.com/news/202403/3890418.html)
+
++ [《飙酷车神：轰鸣盛典》发布第3赛季预告片 欢迎来到好莱坞](https://www.3dmgame.com/news/202403/3890417.html)
+
++ [世界知识产权组织：中国华为领跑国际专利体系申请](https://www.3dmgame.com/news/202403/3890416.html)
+
++ [《深岩银河》开发者喊话《绝地潜兵2》：快和我联动！](https://www.3dmgame.com/news/202403/3890415.html)
+

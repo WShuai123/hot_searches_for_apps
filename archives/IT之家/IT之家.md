@@ -41,3 +41,7 @@
 
 + [闲鱼日均商品交易总额破 10 亿，95 后用户最活跃](https://m.ithome.com/html/755204.htm)
 
++ [梅赛德斯-奔驰 CEO 呼吁欧盟降低对华电动汽车关税：保护主义“走错了路”](https://m.ithome.com/html/755199.htm)
+
++ [Android 15 新功能曝光：Windows 电脑的“粘滞键”将登陆手机](https://m.ithome.com/html/755265.htm)
+

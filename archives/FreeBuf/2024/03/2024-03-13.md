@@ -49,3 +49,7 @@
 
 + [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html)
 
++ [欧盟地区 iOS DMA 更新后，Brave浏览器安装量激增](https://www.freebuf.com/news/394645.html)
+
++ [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html)
+
