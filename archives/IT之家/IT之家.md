@@ -65,3 +65,5 @@
 
 + [华为 × 北汽：鸿蒙智行全新车型享界 S9 官图发布，定位品牌首款豪华旗舰轿车](https://m.ithome.com/html/755391.htm)
 
++ [消息称小米汽车 SU7 顶配版价格超 30 万](https://m.ithome.com/html/755469.htm)
+
