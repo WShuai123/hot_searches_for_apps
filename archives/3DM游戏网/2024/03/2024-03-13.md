@@ -123,3 +123,9 @@
 
 + [开放世界小马宝莉游戏新作5月全平台发售](https://www.3dmgame.com/news/202403/3890370.html)
 
++ [曝《最后生还者2：重制版》PC版将于4月公布 期待吗？](https://www.3dmgame.com/news/202403/3890381.html)
+
++ [《收获日2》Steam在线几乎是3代的85倍](https://www.3dmgame.com/news/202403/3890380.html)
+
++ [《暗黑破坏神4》1.3.4版更新上线 修复Bug改善视觉效果等](https://www.3dmgame.com/news/202403/3890379.html)
+

@@ -123,3 +123,5 @@
 
 + [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/136624776)
 
++ [文献学习-18-基于学习的高效相位幅度调制和混合控制，用于MRI引导的聚焦超声治疗](https://blog.csdn.net/Metaphysicist/article/details/136644643)
+

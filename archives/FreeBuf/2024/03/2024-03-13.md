@@ -41,3 +41,7 @@
 
 + [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html)
 
++ [FreeBuf 早报 | 法国多个政府机构遭遇网络攻击；意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394069.html)
+
++ [2024年AI将如何影响网络安全？听听6位顶尖技术公司CEO怎么说](https://www.freebuf.com/articles/neopoints/393629.html)
+

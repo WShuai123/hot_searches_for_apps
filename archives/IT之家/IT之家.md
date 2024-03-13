@@ -27,3 +27,13 @@
 
 + [东风首款“对赌”车型猛士 917 核心团队奖励 1600 万元，人均 15 万元](https://m.ithome.com/html/755069.htm)
 
++ [消息称暴雪国服回归将在一个月内官宣，网易雷火负责营销 / 互娱负责运营](https://m.ithome.com/html/755286.htm)
+
++ [苹果在欧盟又做出重大让步，将首次允许用户通过网页下载 iPhone 应用](https://m.ithome.com/html/755263.htm)
+
++ [（更新：开发者致歉）知名苹果 Mac 视频下载软件 Downie 4 误判用户使用盗版，弹窗“已随机删除电脑文件”](https://m.ithome.com/html/755118.htm)
+
++ [Yuzu 之后，安卓平台多个模拟器接连倒下](https://m.ithome.com/html/755254.htm)
+
++ [武汉大学联合小米成立“机器人系”](https://m.ithome.com/html/755230.htm)
+
