@@ -47,3 +47,5 @@
 
 + [浅谈企业数据安全治理与保障框架](https://www.freebuf.com/articles/es/393967.html)
 
++ [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html)
+
