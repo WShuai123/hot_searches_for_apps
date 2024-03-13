@@ -101,3 +101,11 @@
 
 + [新版《纳尼亚传奇》电影已在前期制作中 今年开拍](https://www.3dmgame.com/news/202403/3890408.html)
 
++ [官宣：《星之海》玩家数量超过500万](https://www.3dmgame.com/news/202403/3890464.html)
+
++ [《鬼屋魔影：重制版》至少要两次通关才能了解整个剧情](https://www.3dmgame.com/news/202403/3890462.html)
+
++ [反乌托邦《厄瑞班：暗影之族》4月10日发售 预告发布](https://www.3dmgame.com/news/202403/3890463.html)
+
++ [开放世界《夜族崛起》5月8日登陆PC 稍晚登陆PS5](https://www.3dmgame.com/news/202403/3890461.html)
+
