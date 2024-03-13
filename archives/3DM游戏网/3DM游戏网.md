@@ -109,3 +109,11 @@
 
 + [开放世界《夜族崛起》5月8日登陆PC 稍晚登陆PS5](https://www.3dmgame.com/news/202403/3890461.html)
 
++ [《索尼克》将与《愤怒的小鸟》展开跨界合作](https://www.3dmgame.com/news/202403/3890468.html)
+
++ [虚幻5微观世界RTS《蚂蚁帝国》发布游玩预告](https://www.3dmgame.com/news/202403/3890467.html)
+
++ [《海贼无双4》追加DLC第6弹新增传奇海贼罗杰](https://www.3dmgame.com/news/202403/3890466.html)
+
++ [玩家为《塞尔达传说：黄昏公主》开发16人联机MOD](https://www.3dmgame.com/news/202403/3890465.html)
+
