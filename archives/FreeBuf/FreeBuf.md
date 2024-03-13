@@ -45,3 +45,5 @@
 
 + [2024年AI将如何影响网络安全？听听6位顶尖技术公司CEO怎么说](https://www.freebuf.com/articles/neopoints/393629.html)
 
++ [浅谈企业数据安全治理与保障框架](https://www.freebuf.com/articles/es/393967.html)
+

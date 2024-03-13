@@ -129,3 +129,23 @@
 
 + [《暗黑破坏神4》1.3.4版更新上线 修复Bug改善视觉效果等](https://www.3dmgame.com/news/202403/3890379.html)
 
++ [《MEGACHESS》免费登陆PC 肉鸽元素迷宫战旗](https://www.3dmgame.com/news/202403/3890385.html)
+
++ [《Nobody Wants to Die》Steam页面上线 年内发售](https://www.3dmgame.com/news/202403/3890386.html)
+
++ [曝SIE正在开发多个《战神》游戏](https://www.3dmgame.com/news/202403/3890387.html)
+
++ [Fami通2月销量榜：《女神异闻录3：Reload》登顶](https://www.3dmgame.com/news/202403/3890389.html)
+
++ [《妮姬：胜利女神》宣布联动《Re：从零开始的异世界生活》 3月21日上线](https://www.3dmgame.com/news/202403/3890390.html)
+
++ [《小马宝莉：西风高地谜团》Steam页面上线 支持中文](https://www.3dmgame.com/news/202403/3890391.html)
+
++ [《毒液3》正式定名 提档至今年10月25日上映](https://www.3dmgame.com/news/202403/3890392.html)
+
++ [《黑暗之魂3》大型Mod远古王座预告 3月15日发Demo](https://www.3dmgame.com/news/202403/3890382.html)
+
++ [《收获日3》开发商换帅 前任CEO被解雇](https://www.3dmgame.com/news/202403/3890383.html)
+
++ [数据显示：去年中国占全球手游消费者支出的31%](https://www.3dmgame.com/news/202403/3890384.html)
+
