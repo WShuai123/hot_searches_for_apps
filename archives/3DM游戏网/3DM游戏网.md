@@ -231,3 +231,15 @@
 
 + [网易招聘壕爽快？用Y3编辑器轻松应聘，¥66666×16薪有手就来](https://www.3dmgame.com/news/202403/3890433.html)
 
++ [徐克动画电影《人体大战》立项 档期待定](https://www.3dmgame.com/news/202403/3890440.html)
+
++ [多个独立游戏开发团队共同发起神秘项目：“3i计划”](https://www.3dmgame.com/news/202403/3890439.html)
+
++ [8年后 《星露谷物语》修复从左向右收割更快Bug](https://www.3dmgame.com/news/202403/3890437.html)
+
++ [《瑞克和莫蒂：日漫版》再发早期预览视频 首播时间仍未公布](https://www.3dmgame.com/news/202403/3890436.html)
+
++ [《Passing By》登陆PC/Switch 热气球飞行探索](https://www.3dmgame.com/news/202403/3890435.html)
+
++ [谷歌晒漏洞悬赏计划成绩 支付1000万美元奖金](https://www.3dmgame.com/news/202403/3890434.html)
+

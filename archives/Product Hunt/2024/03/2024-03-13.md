@@ -149,3 +149,25 @@
 
 + [Hello8](https://www.producthunt.com/posts/hello8)
 
++ [AI-powered 3D Marketplace](https://www.producthunt.com/posts/ai-powered-3d-marketplace)
+
++ [Plan Quest](https://www.producthunt.com/posts/plan-quest)
+
++ [Free German Test](https://www.producthunt.com/posts/free-german-test)
+
++ [Serpgram](https://www.producthunt.com/posts/serpgram-2)
+
++ [Guided Guest Mode for Apple Vision Pro](https://www.producthunt.com/posts/guided-guest-mode-for-apple-vision-pro)
+
++ [Uniqorn Website](https://www.producthunt.com/posts/uniqorn-website)
+
++ [Lychee](https://www.producthunt.com/posts/lychee-3)
+
++ [3D AI Studio](https://www.producthunt.com/posts/3d-ai-studio)
+
++ [Server Explorer](https://www.producthunt.com/posts/server-explorer)
+
++ [Stocked Picks](https://www.producthunt.com/posts/stocked-picks)
+
++ [Dola: AI Calendar Assistant](https://www.producthunt.com/posts/dola-ai-calendar-assistant)
+

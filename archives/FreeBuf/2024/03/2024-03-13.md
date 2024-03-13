@@ -61,3 +61,7 @@
 
 + [RansomwareSim：一款功能强大的勒索软件模拟研究学习工具](https://www.freebuf.com/sectool/392028.html)
 
++ [众测SRC | 如何通过js搜索未授权接口](https://www.freebuf.com/vuls/388765.html)
+
++ [CrowdStrike业绩、股价狂飙，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html)
+
