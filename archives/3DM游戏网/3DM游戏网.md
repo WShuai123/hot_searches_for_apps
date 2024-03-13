@@ -215,3 +215,15 @@
 
 + [《黑神话：悟空》B站预约 9.9分五星好评](https://www.3dmgame.com/news/202403/3890423.html)
 
++ [电影《头号玩家》续集确认制作 斯皮尔伯格担任制片人](https://www.3dmgame.com/news/202403/3890431.html)
+
++ [《原神》拾枝杂谈-「千织：锦馨满袖」](https://www.3dmgame.com/news/202403/3890428.html)
+
++ [超人气益智系列最新作品 《魔法气泡 益智消消乐》将于4月4日上线Apple Arcade！](https://www.3dmgame.com/news/202403/3890430.html)
+
++ [“SEGA 三月精选促销”活动火热进行中！《索尼克 起源・PLUS》及《光明之响》等作品加入促销阵容](https://www.3dmgame.com/news/202403/3890429.html)
+
++ [《最终幻想7 重置版》筋肉女主系列MOD已推出完全版](https://www.3dmgame.com/news/202403/3890427.html)
+
++ [《Bureau of Contacts》Steam上线 多人合作恐怖探索](https://www.3dmgame.com/news/202403/3890426.html)
+

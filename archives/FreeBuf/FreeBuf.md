@@ -55,3 +55,7 @@
 
 + [渗透测试 | 微信小程序反编译审计漏洞(学习笔记)](https://www.freebuf.com/articles/network/393276.html)
 
++ [CrowdStrike业绩炸裂，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html)
+
++ [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html)
+

@@ -157,3 +157,5 @@
 
 + [【Web世界探险家】打开Web世界的大门](https://blog.csdn.net/QQ3447387928/article/details/136662099)
 
++ [数学建模-多目标规划算法(美赛建模)](https://blog.csdn.net/weixin_61006262/article/details/136648662)
+
