@@ -217,3 +217,7 @@
 
 + [傅立叶之美：深入研究傅里叶分析背后的原理和数学](https://blog.csdn.net/gongdiwudu/article/details/136664921)
 
++ [【AIGC】重磅消息,GPT-4.5 Turbo将在6月发布？](https://blog.csdn.net/jinxinxin1314/article/details/136706721)
+
++ [【Sql Server】通过Sql语句批量处理数据，使用变量且遍历数据进行逻辑处理](https://blog.csdn.net/lmy_520/article/details/136648637)
+

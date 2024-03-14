@@ -59,3 +59,5 @@
 
 + [小米王腾：Redmi 坚持不做“应试”调校，不搞媒体特供固件](https://m.ithome.com/html/755631.htm)
 
++ [央行发布外籍来华人员支付指南：微信 / 支付宝可绑定至少 5 种银行卡](https://m.ithome.com/html/755703.htm)
+

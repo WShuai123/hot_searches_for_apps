@@ -217,3 +217,7 @@
 
 + [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
 
++ [Lightroom 照片和视频编辑器・修图神器・滤镜](https://itunes.apple.com/cn/app/id878783582?mt=8)
+
++ [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
+
