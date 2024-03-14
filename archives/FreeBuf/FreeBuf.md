@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html)
 
++ [现已修复！微软 SmartScreen 漏洞被用于分发 DarkGate 恶意软件](https://www.freebuf.com/news/394773.html)
+

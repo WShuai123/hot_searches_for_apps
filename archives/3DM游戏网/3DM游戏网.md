@@ -191,3 +191,15 @@
 
 + [《纸间谜迹》发售日期预告 5月21日上线](https://www.3dmgame.com/news/202403/3890488.html)
 
++ [平台解谜动作冒险游戏《Copperfields》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890507.html)
+
++ [《东方咒术嘉年华》公布开场动画 6月6日发售](https://www.3dmgame.com/news/202403/3890511.html)
+
++ [新调查显示60%网友短视频刷到无法自拔 每天至少1小时](https://www.3dmgame.com/news/202403/3890510.html)
+
++ [马斯克：明年AI将比任何人都聪明 2029年超过全人类](https://www.3dmgame.com/news/202403/3890509.html)
+
++ [日本玩家玩《最终幻想7：重生》看泳装蒂法：太大了受不了](https://www.3dmgame.com/news/202403/3890508.html)
+
++ [钓鱼RPG《月光水岸》4月11日登陆PS和NS主机](https://www.3dmgame.com/news/202403/3890506.html)
+
