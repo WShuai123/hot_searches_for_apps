@@ -199,3 +199,5 @@
 
 + [万字带你了解ChatGLM](https://blog.csdn.net/devcloud/article/details/136685002)
 
++ [跟着GPT学设计模式之桥接模式](https://blog.csdn.net/sunzroad/article/details/136686696)
+

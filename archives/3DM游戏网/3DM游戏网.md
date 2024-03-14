@@ -247,3 +247,17 @@
 
 + [“特别好评”国产武侠游戏《逸剑风云决》大型免费更新「南疆风云」现已上线](https://www.3dmgame.com/news/202403/3890527.html)
 
++ [腾讯正式收编字节两个游戏项目 字节跳动“不会完全放弃游戏业务”](https://www.3dmgame.com/news/202403/3890535.html)
+
++ [《仙剑奇侠传四：重制版》动捕照 采用虚幻引擎开发](https://www.3dmgame.com/news/202403/3890536.html)
+
++ [《火星孤征》开发商为项目寻找投资 正开发5款游戏](https://www.3dmgame.com/news/202403/3890533.html)
+
++ [200 名专家报告：AI将可能对人类构成灭绝级威胁](https://www.3dmgame.com/news/202403/3890537.html)
+
++ [《德州电锯杀人狂》公布新地图 3月28日上线](https://www.3dmgame.com/news/202403/3890538.html)
+
++ [Epic老板斯威尼曾在邮件里骂V社和G胖是“混蛋”](https://www.3dmgame.com/news/202403/3890539.html)
+
++ [《英雄联盟》主持人余霜发美照 庆祝结婚纪念日](https://www.3dmgame.com/news/202403/3890540.html)
+
