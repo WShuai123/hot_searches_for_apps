@@ -145,3 +145,49 @@
 
 + [《龙之信条2》龙选者职业演示 能灵活使用所有武器](https://www.3dmgame.com/news/202403/3890474.html)
 
++ [《漫威蜘蛛侠3》经典反派“绿魔”概念艺术图曝光](https://www.3dmgame.com/news/202403/3890496.html)
+
++ [育碧竞速游戏《飙酷车神：轰鸣盛典》开启免费试玩周末](https://www.3dmgame.com/news/202403/3890497.html)
+
++ [网传《动物森友会》新作正在开发中 2026年发售](https://www.3dmgame.com/news/202403/3890498.html)
+
++ [《女神异闻录3：Reload》非完整体验原因：团队急缺人才](https://www.3dmgame.com/news/202403/3890499.html)
+
++ [《猩球崛起：新世界》确定引进 档期待定](https://www.3dmgame.com/news/202403/3890500.html)
+
++ [奥斯卡获奖二战电影《利益区域》4月5日上线Max](https://www.3dmgame.com/news/202403/3890501.html)
+
++ [《新九品芝麻官》电影定档预告 将于3月16日上映](https://www.3dmgame.com/news/202403/3890502.html)
+
++ [互动影像纪录游戏《杰夫·明特的故事》现已正式推出](https://www.3dmgame.com/news/202403/3890503.html)
+
++ [《漂流瓶盖》Steam页面上线 治愈系漂流物理模拟](https://www.3dmgame.com/news/202403/3890504.html)
+
++ [《守望先锋2》第10赛季或将延期推出 4月16日上线](https://www.3dmgame.com/news/202403/3890505.html)
+
++ [《超级马力欧兄弟大电影》公开未使用的碧姬公主概念艺术](https://www.3dmgame.com/news/202403/3890489.html)
+
++ [《星战前夜》区块链生存游戏5月开启第三阶段测试](https://www.3dmgame.com/news/202403/3890490.html)
+
++ [《SYMMETRIC;VISION》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890491.html)
+
++ [《星刃》女主角爬梯子视频 太性感让人目不转睛](https://www.3dmgame.com/news/202403/3890492.html)
+
++ [《神奇女侠》导演回归《星球大战：战机中队》电影](https://www.3dmgame.com/news/202403/3890493.html)
+
++ [人气肉鸽扑克游戏《Balatro》官方情报 将推移动版或实物化](https://www.3dmgame.com/news/202403/3890494.html)
+
++ [《你想活出怎样的人生》释出定档海报 4月3日公映](https://www.3dmgame.com/news/202403/3890495.html)
+
++ [《边缘世界》新DLC“异常”公布 1.5版本更新下月上线](https://www.3dmgame.com/news/202403/3890483.html)
+
++ [《星河舰队》演员或将与《绝地潜兵2》开发者合作](https://www.3dmgame.com/news/202403/3890484.html)
+
++ [《Memori》Steam试玩发布 像素风横版动作新游](https://www.3dmgame.com/news/202403/3890485.html)
+
++ [PS Plus三月二档、三档游戏 ： 《生化危机3：重制版》、《NBA 2K24》等](https://www.3dmgame.com/news/202403/3890486.html)
+
++ [《哥斯拉大战金刚2》新预告 冰霜系新反派現身](https://www.3dmgame.com/news/202403/3890487.html)
+
++ [《纸间谜迹》发售日期预告 5月21日上线](https://www.3dmgame.com/news/202403/3890488.html)
+

@@ -143,3 +143,17 @@
 
 + [Linux系统部署火狐浏览器结合内网穿透实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/136630733)
 
++ [【机器学习】样本、特征、标签：构建智能模型的三大基石](https://blog.csdn.net/m0_74195174/article/details/136628162)
+
++ [Spring Boot整合canal实现数据一致性解决方案解析-部署+实战](https://blog.csdn.net/qq_35716689/article/details/136692721)
+
++ [大学与中学数学衔接教程、高中大学数学衔接、从初等数学到高等数学等](https://blog.csdn.net/dllglvzhenfeng/article/details/136696883)
+
++ [某小厂java后端初面，记录一下](https://blog.csdn.net/lyj15012351173/article/details/136689461)
+
++ [云原生消息流系统 Apache RocketMQ 在腾讯云的大规模生产实践](https://blog.csdn.net/qq_36668144/article/details/136685608)
+
++ [云计算 3月13号 （OSI 七层模型:物理层、数据链路层、网络层、传输层、会话层、表示层、应用层）](https://blog.csdn.net/2301_81766386/article/details/136685978)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_80119299/article/details/136661270)
+
