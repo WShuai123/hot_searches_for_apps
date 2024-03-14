@@ -33,3 +33,7 @@
 
 + [2024 年央视“3・15”晚会准备就绪，将揭秘互联网数据造假等问题](https://m.ithome.com/html/755481.htm)
 
++ [小米应用商店：不得默认勾选自动续费、强制捆绑开通，新规 4 月 13 日生效](https://m.ithome.com/html/755487.htm)
+
++ [微信（Universal）UOS / 银河麒麟版全新升级：Linux 原生跨平台方案，现已开放下载](https://m.ithome.com/html/755450.htm)
+

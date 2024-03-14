@@ -203,3 +203,15 @@
 
 + [钓鱼RPG《月光水岸》4月11日登陆PS和NS主机](https://www.3dmgame.com/news/202403/3890506.html)
 
++ [漫威新剧集《钢铁之心》今年有望登录迪士尼＋](https://www.3dmgame.com/news/202403/3890515.html)
+
++ [英伟达弱爆！世界第一AI芯片升级4万亿晶体管 90万核心](https://www.3dmgame.com/news/202403/3890516.html)
+
++ [Saber官网移除Embracer旗下标注 或已被出售](https://www.3dmgame.com/news/202403/3890517.html)
+
++ [《逸剑风云决》新版本“南疆风云”上线 添加海量全新剧情](https://www.3dmgame.com/news/202403/3890512.html)
+
++ [《战区》手游上线后 并不会取代《使命召唤手游》](https://www.3dmgame.com/news/202403/3890513.html)
+
++ [《战纹1+2》实体版5月登陆Switch 经典战旗游戏合集](https://www.3dmgame.com/news/202403/3890514.html)
+

@@ -167,3 +167,11 @@
 
 + [SpringBoot实战项目——博客笔记项目](https://blog.csdn.net/qq_64861334/article/details/136653200)
 
++ [pytorch诗词生成3--创建模型](https://blog.csdn.net/2202_76009199/article/details/136674840)
+
++ [SpringCloud-深度理解ElasticSearch](https://blog.csdn.net/weixin_41793160/article/details/136694910)
+
++ [Elasticsearch：调整搜索速度](https://blog.csdn.net/UbuntuTouch/article/details/136675118)
+
++ [数学建模——蒙特卡洛法](https://blog.csdn.net/qq_63913621/article/details/136673656)
+

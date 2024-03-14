@@ -49,3 +49,5 @@
 
 + [现已修复！微软 SmartScreen 漏洞被用于分发 DarkGate 恶意软件](https://www.freebuf.com/news/394773.html)
 
++ [白话零信任技术架构之微隔离MSG](https://www.freebuf.com/articles/database/393785.html)
+
