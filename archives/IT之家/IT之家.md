@@ -57,3 +57,5 @@
 
 + [支付宝：明确禁止违规租赁等行为，累计已处理 4300 多个租赁小程序](https://m.ithome.com/html/755494.htm)
 
++ [小米王腾：Redmi 坚持不做“应试”调校，不搞媒体特供固件](https://m.ithome.com/html/755631.htm)
+

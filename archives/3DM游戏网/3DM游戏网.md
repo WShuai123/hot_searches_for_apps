@@ -275,3 +275,9 @@
 
 + [零售商泄露《寂静岭2：重制版》将于5月30日发售](https://www.3dmgame.com/news/202403/3890546.html)
 
++ [高通或让第四代骁龙8跳过LPDDR5T 直接支持LPDDR6](https://www.3dmgame.com/news/202403/3890550.html)
+
++ [Embrace 2.47亿美元出售旗下子公司Saber互动](https://www.3dmgame.com/news/202403/3890549.html)
+
++ [摩托竞速游戏新作《MotoGP 24》公布 5月2日发售](https://www.3dmgame.com/news/202403/3890548.html)
+
