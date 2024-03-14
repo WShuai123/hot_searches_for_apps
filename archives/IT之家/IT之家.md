@@ -43,3 +43,7 @@
 
 + [“Vision Pro”商标之争：苹果或使用“Apple Vision Pro”避让华为](https://m.ithome.com/html/755438.htm)
 
++ [长安 UNI-Z 售价公布：搭 1.5 升插电混动系统，先享价 12.79 万元起](https://m.ithome.com/html/755495.htm)
+
++ [阿里系鸿蒙原生 App 十一连发，华为官宣闲鱼、飞猪、饿了么等应用“集体上车”](https://m.ithome.com/html/755668.htm)
+

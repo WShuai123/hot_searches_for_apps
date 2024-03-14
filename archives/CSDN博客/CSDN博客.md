@@ -201,3 +201,11 @@
 
 + [跟着GPT学设计模式之桥接模式](https://blog.csdn.net/sunzroad/article/details/136686696)
 
++ [30天拿下Rust之泛型](https://blog.csdn.net/hope_wisdom/article/details/136697378)
+
++ [2024年AI辅助研发：科技创新的引擎](https://blog.csdn.net/SDFsoul/article/details/136612429)
+
++ [【python】使用代理IP爬取猫眼电影专业评分数据](https://blog.csdn.net/weixin_53197693/article/details/136702387)
+
++ [python爬虫实战——抖音](https://blog.csdn.net/hao_13/article/details/136661025)
+
