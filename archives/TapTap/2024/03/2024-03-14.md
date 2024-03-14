@@ -23,3 +23,5 @@
 
 + [战双帕弥什](https://www.taptap.cn/app/130651)
 
++ [泰拉瑞亚](https://www.taptap.cn/app/194610)
+

@@ -51,3 +51,31 @@
 
 + [lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region)
 
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024)
+
++ [dotnet / aspnetcore](https://github.com/dotnet/aspnetcore)
+
++ [withfig / autocomplete](https://github.com/withfig/autocomplete)
+
++ [BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle)
+
++ [imartinez / privateGPT](https://github.com/imartinez/privateGPT)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [laravel / laravel](https://github.com/laravel/laravel)
+
++ [openai / whisper](https://github.com/openai/whisper)
+
++ [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [redis / go-redis](https://github.com/redis/go-redis)
+
++ [ScoopInstaller / Main](https://github.com/ScoopInstaller/Main)
+
++ [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+

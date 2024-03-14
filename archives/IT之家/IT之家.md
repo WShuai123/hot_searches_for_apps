@@ -51,3 +51,9 @@
 
 + [被伪装成“比亚迪汉”，大众全新中型轿车谍照曝光：预计为中国特供](https://m.ithome.com/html/755662.htm)
 
++ [消息称高通骁龙 8 Gen 4 芯片率先支持 LPDDR6，苹果 A18 Pro 支持 LPDDR5T](https://m.ithome.com/html/755578.htm)
+
++ [微信 iOS 版 8.0.48 最新官方正式版下载发布](https://m.ithome.com/html/755582.htm)
+
++ [支付宝：明确禁止违规租赁等行为，累计已处理 4300 多个租赁小程序](https://m.ithome.com/html/755494.htm)
+
