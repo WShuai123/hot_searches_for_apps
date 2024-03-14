@@ -201,3 +201,5 @@
 
 + [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
 
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+

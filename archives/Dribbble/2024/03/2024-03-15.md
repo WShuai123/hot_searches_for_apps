@@ -49,3 +49,21 @@
 
 + [Everyday people](https://dribbble.com/shots/)
 
++ [Hummingbird Illustration](https://dribbble.com/shots/)
+
++ [Flower on Saturn - Logo Element](https://dribbble.com/shots/)
+
++ [Style](https://dribbble.com/shots/)
+
++ [Tarot card #12: The Hanged Woman](https://dribbble.com/shots/)
+
++ [Brand Concepts WIP](https://dribbble.com/shots/)
+
++ [Khraungbin Poster Illustration](https://dribbble.com/shots/)
+
++ [Fountain Hand tattoo](https://dribbble.com/shots/)
+
++ [The Dead King Logo](https://dribbble.com/shots/)
+
++ [Nike Sneaker Illustration????](https://dribbble.com/shots/)
+

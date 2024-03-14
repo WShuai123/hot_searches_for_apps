@@ -25,3 +25,5 @@
 
 + [TikTok CEO 周受资回应美众议院通过相关法案：感谢用户支持，将持续战斗](https://m.ithome.com/html/755690.htm)
 
++ [小牛 B200 动力版电动自行车上新：80km 续航，支持手机、手表靠近解锁，到手价 3799 元](https://m.ithome.com/html/755741.htm)
+
