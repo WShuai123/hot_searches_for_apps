@@ -37,3 +37,5 @@
 
 + [微信（Universal）UOS / 银河麒麟版全新升级：Linux 原生跨平台方案，现已开放下载](https://m.ithome.com/html/755450.htm)
 
++ [小米充电宝 25000mAh 探索版入网：三口设计，单口输出最大 140W](https://m.ithome.com/html/755535.htm)
+
