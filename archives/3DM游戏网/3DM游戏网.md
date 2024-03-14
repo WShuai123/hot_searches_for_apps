@@ -101,3 +101,21 @@
 
 + [日本玩家玩《最终幻想7：重生》看泳装蒂法：太大了受不了](https://www.3dmgame.com/news/202403/3890508.html)
 
++ [《暗黑破坏神4》PC版将于3/26添加光线追踪支持](https://www.3dmgame.com/news/202403/3890566.html)
+
++ [《星球大战：法外狂徒》首发将支持光追/DLSS3](https://www.3dmgame.com/news/202403/3890565.html)
+
++ [俯视射击游戏《OTXO》主机版3/28推出](https://www.3dmgame.com/news/202403/3890564.html)
+
++ [Gameloft将推出全新《龙与地下城》游戏](https://www.3dmgame.com/news/202403/3890563.html)
+
++ [《博德之门3》是过去1年Steam Deck上游玩最多游戏](https://www.3dmgame.com/news/202403/3890567.html)
+
++ [2.5D动作游戏《笠鬼》4月9日开启抢鲜体验](https://www.3dmgame.com/news/202403/3890562.html)
+
++ [《孤岛惊魂》20周年 育碧发布纪念视频并开启促销](https://www.3dmgame.com/news/202403/3890561.html)
+
++ [电影《刺猬索尼克3》杀青 金凯瑞很享受](https://www.3dmgame.com/news/202403/3890560.html)
+
++ [《生化危机》入选2024年世界游戏名人堂候选名单](https://www.3dmgame.com/news/202403/3890559.html)
+
