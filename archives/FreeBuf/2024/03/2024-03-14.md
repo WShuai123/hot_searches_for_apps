@@ -43,3 +43,7 @@
 
 + [攻击者是如何通过 YouTube 传播恶意软件的](https://www.freebuf.com/articles/network/392980.html)
 
++ [网络空间指纹：新型网络犯罪研判的关键路径](https://www.freebuf.com/articles/network/394688.html)
+
++ [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html)
+

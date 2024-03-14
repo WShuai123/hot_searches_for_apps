@@ -127,3 +127,21 @@
 
 + [《我的世界》宣布推出月费订阅服务商城通行证](https://www.3dmgame.com/news/202403/3890469.html)
 
++ [RTX 5090有望采用24GB GDDR 7显存 512位宽](https://www.3dmgame.com/news/202403/3890475.html)
+
++ [国产剧情向解谜游戏《下九泉》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890476.html)
+
++ [《雾锁王国》开发路线图公布 多种新要素公开](https://www.3dmgame.com/news/202403/3890477.html)
+
++ [《幻兽帕鲁》正在招募玩家进行封闭测试](https://www.3dmgame.com/news/202403/3890478.html)
+
++ [分析师称今年全球游戏支出“最乐观”下降2%](https://www.3dmgame.com/news/202403/3890479.html)
+
++ [ARPG《恶意不息》单人游戏内容丰富 无需全程联网](https://www.3dmgame.com/news/202403/3890480.html)
+
++ [《许愿，我要带她们回现代》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202403/3890481.html)
+
++ [《绝地潜兵2》开发商拒绝关闭友军开火 因为这太有意思了](https://www.3dmgame.com/news/202403/3890482.html)
+
++ [《龙之信条2》龙选者职业演示 能灵活使用所有武器](https://www.3dmgame.com/news/202403/3890474.html)
+

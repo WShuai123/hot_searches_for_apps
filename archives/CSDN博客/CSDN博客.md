@@ -139,3 +139,7 @@
 
 + [llama factory 参数体系EvaluationArguments、DataArguments、FinetuningArguments、FreezeArguments、LoraArgument](https://blog.csdn.net/weixin_41046245/article/details/136686786)
 
++ [01_FPGA之点亮四位数码管](https://blog.csdn.net/peng_papa/article/details/136690614)
+
++ [Linux系统部署火狐浏览器结合内网穿透实现公网访问](https://blog.csdn.net/weixin_58070962/article/details/136630733)
+
