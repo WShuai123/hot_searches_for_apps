@@ -27,3 +27,5 @@
 
 + [蔚来花式促销：买 2024 款车型送手机](https://m.ithome.com/html/755415.htm)
 
++ [R7-6800H 版仅 3468 元：小米 Book Pro 14 2022 京东百亿补贴清仓](https://m.ithome.com/html/755498.htm)
+
