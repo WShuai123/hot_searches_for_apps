@@ -67,3 +67,17 @@
 
 + [Nike Sneaker Illustration????](https://dribbble.com/shots/)
 
++ [BRU Coffee - Pt.1](https://dribbble.com/shots/)
+
++ [Geometric Woman Logo](https://dribbble.com/shots/)
+
++ [Jodar Farms](https://dribbble.com/shots/)
+
++ [Ranch Water](https://dribbble.com/shots/)
+
++ [Wood](https://dribbble.com/shots/)
+
++ [Chum on a Stick](https://dribbble.com/shots/)
+
++ [Wild Isles](https://dribbble.com/shots/)
+
