@@ -191,3 +191,11 @@
 
 + [【网络安全】【密码学】【北京航空航天大学】实验七、流密码【Python实现】](https://blog.csdn.net/weixin_43031313/article/details/136681770)
 
++ [Linux中搭建DNS 域名解析服务器（详细版）](https://blog.csdn.net/jxjdhdnd/article/details/136699043)
+
++ [（黑马出品_高级篇_03）SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式](https://blog.csdn.net/weixin_46225503/article/details/136673391)
+
++ [Wireshark使用教程](https://blog.csdn.net/AXDRXS/article/details/136684998)
+
++ [万字带你了解ChatGLM](https://blog.csdn.net/devcloud/article/details/136685002)
+

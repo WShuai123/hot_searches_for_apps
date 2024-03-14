@@ -41,3 +41,5 @@
 
 + [小米 SU7 上市在即：个别“雷军系”公司员工获优先购买权，可优先提车](https://m.ithome.com/html/755618.htm)
 
++ [“Vision Pro”商标之争：苹果或使用“Apple Vision Pro”避让华为](https://m.ithome.com/html/755438.htm)
+

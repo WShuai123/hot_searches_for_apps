@@ -231,3 +231,19 @@
 
 + [《恶魔之刃 重启版》Steam页面上线 火爆弹幕射击](https://www.3dmgame.com/news/202403/3890519.html)
 
++ [北美LOL职业队员因穿违规洞洞鞋被罚5000刀 鞋厂火速签约](https://www.3dmgame.com/news/202403/3890530.html)
+
++ [Neowiz旗下10款游戏最低打2折！包含《匹诺曹的谎言》！](https://www.3dmgame.com/news/202403/3890531.html)
+
++ [吐槽问界M9贵被炮轰 50万车大家说买就买！柯洁回归：我提了保时捷911](https://www.3dmgame.com/news/202403/3890532.html)
+
++ [《节奏地牢》4.0版本更新上线 “同步”DLC脱离抢先体验](https://www.3dmgame.com/news/202403/3890534.html)
+
++ [《洛奇英雄传：反抗命运》A测现已开启 持续到3月18日](https://www.3dmgame.com/news/202403/3890528.html)
+
++ [《绝地潜兵2》粉丝自制“解放麦拉芬蒙”预告 总监点赞](https://www.3dmgame.com/news/202403/3890529.html)
+
++ [谷歌公开全新AI系统SIMA 可以听从指示玩游戏](https://www.3dmgame.com/news/202403/3890526.html)
+
++ [“特别好评”国产武侠游戏《逸剑风云决》大型免费更新「南疆风云」现已上线](https://www.3dmgame.com/news/202403/3890527.html)
+

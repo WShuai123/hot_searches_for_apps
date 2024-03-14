@@ -53,3 +53,7 @@
 
 + [ADCSsync：基于ESC1执行DCSync技术和哈希转储的强大工具](https://www.freebuf.com/sectool/392027.html)
 
++ [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
+
++ [已发布PoC，神秘GhostRace攻击可窃取Intel、AMD等CPU数据](https://www.freebuf.com/articles/394821.html)
+
