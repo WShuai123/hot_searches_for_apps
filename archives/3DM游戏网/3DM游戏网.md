@@ -215,3 +215,19 @@
 
 + [《战纹1+2》实体版5月登陆Switch 经典战旗游戏合集](https://www.3dmgame.com/news/202403/3890514.html)
 
++ [意外之喜？《堡垒之夜》或将联动《以撒的结合》](https://www.3dmgame.com/news/202403/3890523.html)
+
++ [《赵云传:云汉腾龙》制作组解散 发行商继续运营](https://www.3dmgame.com/news/202403/3890524.html)
+
++ [总监透露 《地狱潜者2》的设计初衷就是让玩家感觉无法单独完成任务](https://www.3dmgame.com/news/202403/3890525.html)
+
++ [《赛博朋克2077》玩家发现新致敬彩蛋 获得开发者祝贺](https://www.3dmgame.com/news/202403/3890520.html)
+
++ [《超级收割天团》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3890521.html)
+
++ [《沙丘2》日本官方推出《高达 SEED FREEDOM》联名海报](https://www.3dmgame.com/news/202403/3890522.html)
+
++ [微软新专利：追踪用户目光AI算法实现高速打字](https://www.3dmgame.com/news/202403/3890518.html)
+
++ [《恶魔之刃 重启版》Steam页面上线 火爆弹幕射击](https://www.3dmgame.com/news/202403/3890519.html)
+

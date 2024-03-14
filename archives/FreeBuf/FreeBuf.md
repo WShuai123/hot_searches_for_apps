@@ -51,3 +51,5 @@
 
 + [白话零信任技术架构之微隔离MSG](https://www.freebuf.com/articles/database/393785.html)
 
++ [ADCSsync：基于ESC1执行DCSync技术和哈希转储的强大工具](https://www.freebuf.com/sectool/392027.html)
+

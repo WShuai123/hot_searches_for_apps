@@ -39,3 +39,5 @@
 
 + [小米充电宝 25000mAh 探索版入网：三口设计，单口输出最大 140W](https://m.ithome.com/html/755535.htm)
 
++ [小米 SU7 上市在即：个别“雷军系”公司员工获优先购买权，可优先提车](https://m.ithome.com/html/755618.htm)
+

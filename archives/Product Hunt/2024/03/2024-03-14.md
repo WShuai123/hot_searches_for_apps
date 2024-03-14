@@ -101,3 +101,33 @@
 
 + [Hello8](https://www.producthunt.com/posts/hello8)
 
++ [Cerebras Wafer Scale Engine (WSE-3)](https://www.producthunt.com/posts/cerebras-wafer-scale-engine-wse-3)
+
++ [Deckset iOS](https://www.producthunt.com/posts/deckset-ios)
+
++ [ProfileDiscover.com](https://www.producthunt.com/posts/profilediscover-com)
+
++ [Avatic](https://www.producthunt.com/posts/avatic)
+
++ [TravelPal](https://www.producthunt.com/posts/travelpal-2)
+
++ [FanCave](https://www.producthunt.com/posts/fancave-2)
+
++ [Fine](https://www.producthunt.com/posts/fine)
+
++ [Kazava AI Anime](https://www.producthunt.com/posts/kazava-ai-anime)
+
++ [Oliv Sales Master](https://www.producthunt.com/posts/oliv-sales-master)
+
++ [AI Insights 2.0 by Zeda.io](https://www.producthunt.com/posts/ai-insights-2-0-by-zeda-io)
+
++ [Wudpecker](https://www.producthunt.com/posts/wudpecker-2)
+
++ [kiwilaunch](https://www.producthunt.com/posts/kiwilaunch)
+
++ [CloudDevs 2.0](https://www.producthunt.com/posts/clouddevs-2-0)
+
++ [Synthflow](https://www.producthunt.com/posts/synthflow)
+
++ [Peaka](https://www.producthunt.com/posts/peaka)
+
