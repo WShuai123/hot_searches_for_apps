@@ -101,3 +101,11 @@
 
 + [跟着GPT学设计模式之桥接模式](https://blog.csdn.net/sunzroad/article/details/136686696)
 
++ [【python】使用代理IP爬取猫眼电影专业评分数据](https://blog.csdn.net/weixin_53197693/article/details/136702387)
+
++ [MySQL 篇-深入了解事务四大特性及原理](https://blog.csdn.net/Tingfeng__/article/details/136710969)
+
++ [机界先锋：Figure 01实现全面沟通与AGI通用人工智能的征途](https://blog.csdn.net/Srlua/article/details/136708329)
+
++ [（黑马出品_高级篇_03）SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式](https://blog.csdn.net/weixin_46225503/article/details/136673391)
+
