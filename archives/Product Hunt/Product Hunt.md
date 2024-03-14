@@ -181,3 +181,5 @@
 
 + [Carry](https://www.producthunt.com/posts/carry-3b09f638-bd57-4eb9-9620-ec951db1fa88)
 
++ [AI Ideal Customer Profile](https://www.producthunt.com/posts/ai-ideal-customer-profile)
+

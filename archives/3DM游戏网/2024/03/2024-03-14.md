@@ -271,3 +271,7 @@
 
 + [员工强烈不满、离职高管直言：微软已沦为OpenAI的IT部门](https://www.3dmgame.com/news/202403/3890541.html)
 
++ [国产GPU龙头景嘉微成功研发AI算力产品 适配主流CPU系统](https://www.3dmgame.com/news/202403/3890547.html)
+
++ [零售商泄露《寂静岭2：重制版》将于5月30日发售](https://www.3dmgame.com/news/202403/3890546.html)
+
