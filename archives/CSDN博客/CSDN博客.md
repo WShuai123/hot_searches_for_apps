@@ -129,3 +129,11 @@
 
 + [Python学习DAY13_图像处理](https://blog.csdn.net/qq_61979270/article/details/136656043)
 
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_80119299/article/details/136661270)
+
++ [Wireshark使用教程](https://blog.csdn.net/AXDRXS/article/details/136684998)
+
++ [如何在Linux部署Docker Registry本地镜像仓库并实现无公网IP远程连接](https://blog.csdn.net/2301_77485708/article/details/136718770)
+
++ [数学建模——蒙特卡洛法](https://blog.csdn.net/qq_63913621/article/details/136673656)
+

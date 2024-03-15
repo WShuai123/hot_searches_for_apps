@@ -131,3 +131,29 @@
 
 + [Steam春季特卖今日开启 《绝地潜兵2》《最后纪元》仍保持原价](https://www.3dmgame.com/news/202403/3890568.html)
 
++ [《艾尔登法环》一比一比例月光大剑预售开启 扛上很霸气](https://www.3dmgame.com/news/202403/3890586.html)
+
++ [《星球大战：前线 经典合集》Steam多半差评 服务器问题严重](https://www.3dmgame.com/news/202403/3890579.html)
+
++ [咋回事？《最终幻想7：重生》在日本销量下降约90%](https://www.3dmgame.com/news/202403/3890583.html)
+
++ [前EA开发者工作室Arctic7将被大型娱乐公司收购](https://www.3dmgame.com/news/202403/3890585.html)
+
++ [《沙漠大冒险》自定义车预告  4月25日发售](https://www.3dmgame.com/news/202403/3890584.html)
+
++ [《吸血鬼幸存者》已推出英区NS Online会员试玩版游戏 3月21日截止](https://www.3dmgame.com/news/202403/3890582.html)
+
++ [《弹头奇兵》同名网络电影定档于3月18日上线](https://www.3dmgame.com/news/202403/3890580.html)
+
++ [发售满一年 《卧龙：苍天陨落》全球玩家数突破500万](https://www.3dmgame.com/news/202403/3890581.html)
+
++ [Xbox推出《最终幻想14》定制XSX主机 只抽不卖](https://www.3dmgame.com/news/202403/3890577.html)
+
++ [被出售的Saber Interactive仍有许多游戏在开发中 包括《星际战士2》](https://www.3dmgame.com/news/202403/3890576.html)
+
++ [《糟糕！他们太爱我了怎么办？》Steam页面 Q2发售](https://www.3dmgame.com/news/202403/3890575.html)
+
++ [全球热门手游《大富翁GO》终身收入达到20亿美元](https://www.3dmgame.com/news/202403/3890578.html)
+
++ [云游戏服务公司Gamestream获得450万欧元投资](https://www.3dmgame.com/news/202403/3890574.html)
+

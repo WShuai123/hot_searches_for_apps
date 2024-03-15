@@ -45,3 +45,7 @@
 
 + [Proofpoint《2024年网络钓鱼状态报告》：71%的员工正在拿组织安全冒险](https://www.freebuf.com/articles/paper/393770.html)
 
++ [制造业信息安全实践--企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
+
++ [实战时代下人机结合的资产风险收敛体系 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/394763.html)
+
