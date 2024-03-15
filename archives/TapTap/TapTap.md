@@ -21,3 +21,5 @@
 
 + [光·遇](https://www.taptap.cn/app/62448)
 
++ [当神奇光芒落下](https://www.taptap.cn/app/240125)
+

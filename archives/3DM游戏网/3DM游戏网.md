@@ -119,3 +119,15 @@
 
 + [《生化危机》入选2024年世界游戏名人堂候选名单](https://www.3dmgame.com/news/202403/3890559.html)
 
++ [重生娱乐《Apex英雄》开发团队遭裁员 多名员工被解雇](https://www.3dmgame.com/news/202403/3890573.html)
+
++ [《龙之信条2》新视频 欢迎来到引人入胜的幻想世界](https://www.3dmgame.com/news/202403/3890570.html)
+
++ [《黎明杀机》开发商收购多媒体制作公司Fly Studio](https://www.3dmgame.com/news/202403/3890572.html)
+
++ [简短轻松的国风动作游戏《月白》Steam页面上线 Q1发售](https://www.3dmgame.com/news/202403/3890571.html)
+
++ [冒险游戏《水隐之城》现已登陆PC和主机 国区60元](https://www.3dmgame.com/news/202403/3890569.html)
+
++ [Steam春季特卖今日开启 《绝地潜兵2》《最后纪元》仍保持原价](https://www.3dmgame.com/news/202403/3890568.html)
+
