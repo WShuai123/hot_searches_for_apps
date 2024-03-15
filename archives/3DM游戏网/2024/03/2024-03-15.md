@@ -235,3 +235,7 @@
 
 + [《小丑牌》开发者：在自己的游戏前从没玩过牌组构建游戏](https://www.3dmgame.com/news/202403/3890620.html)
 
++ [国外大神自制《星刃》女主3D模型 性感身材一览无余](https://www.3dmgame.com/news/202403/3890626.html)
+
++ [Switch《山海旅人》DLC“夜行柳渡”上线 免费领取](https://www.3dmgame.com/news/202403/3890627.html)
+

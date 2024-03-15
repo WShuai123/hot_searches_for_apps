@@ -47,3 +47,7 @@
 
 + [马斯克发文祝贺 SpaceX 星舰达到环绕速度](https://m.ithome.com/html/755763.htm)
 
++ [美国上调“宽带”定义：下行从 25Mbps 提高到 100Mbps，上行从 3Mbps 提高到 20Mbps](https://m.ithome.com/html/755849.htm)
+
++ [雷军否认个别用户或公司享有优先购车权，并称小米汽车未开启盲订通道](https://m.ithome.com/html/755740.htm)
+

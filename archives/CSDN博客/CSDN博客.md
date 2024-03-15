@@ -157,3 +157,15 @@
 
 + [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://blog.csdn.net/m0_46510245/article/details/136735670)
 
++ [openGauss使用BenchmarkSQL进行性能测试（下）](https://blog.csdn.net/GaussDB/article/details/136738510)
+
++ [AI-逻辑回归模型](https://blog.csdn.net/qq_64685283/article/details/136727455)
+
++ [【CVPR】闻声识人FaceChain-ImagineID，从音频中想象出说话人脸，FaceChain团队出品](https://blog.csdn.net/sunbaigui/article/details/136711889)
+
++ [【探索Linux】—— 强大的命令行工具 P.27（网络编程套接字 —— UDP协议介绍 | TCP协议介绍 | UDP 和 TCP 的异同）](https://blog.csdn.net/m0_75215937/article/details/136485580)
+
++ [Linux 中搭建 主从dns域名解析服务器](https://blog.csdn.net/jxjdhdnd/article/details/136733511)
+
++ [【微服务】nacos注册中心](https://blog.csdn.net/m0_62645012/article/details/136724040)
+
