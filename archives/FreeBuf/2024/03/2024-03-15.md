@@ -59,3 +59,7 @@
 
 + [TikTok禁令引发数据安全和控制问题](https://www.freebuf.com/news/394901.html)
 
++ [如何使用CloudRecon扫描Web应用程序并从SSL证书中发现有效资产](https://www.freebuf.com/sectool/392260.html)
+
++ [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html)
+

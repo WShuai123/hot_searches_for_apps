@@ -39,3 +39,5 @@
 
 + [6299 元，英特尔酷睿 i9-14900KS 旗舰处理器国行上架开售](https://m.ithome.com/html/755778.htm)
 
++ [华为官宣：鸿蒙星河版 WPS Office 完成核心功能版本交付](https://m.ithome.com/html/755848.htm)
+
