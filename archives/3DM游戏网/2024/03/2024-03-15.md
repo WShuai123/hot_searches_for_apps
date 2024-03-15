@@ -211,3 +211,15 @@
 
 + [电影《城市猎人》前导预告公开 4月25日上映](https://www.3dmgame.com/news/202403/3890609.html)
 
++ [北京高级别自动驾驶示范区累计为29家车企发放路测牌照 推动地方立法](https://www.3dmgame.com/news/202403/3890619.html)
+
++ [国产修仙游戏《山门与幻境》4月8日发布正式版1.0版本](https://www.3dmgame.com/news/202403/3890618.html)
+
++ [《幻兽帕鲁》开发商不介意被收购 希望游戏登陆更多平台](https://www.3dmgame.com/news/202403/3890617.html)
+
++ [导演称DC目前没有兴趣制作新《神奇女侠》电影](https://www.3dmgame.com/news/202403/3890616.html)
+
++ [《碧蓝幻想: Relink》版本1.1.1上线！在超高难度任务中挑战最强之敌“路西法”！](https://www.3dmgame.com/news/202403/3890615.html)
+
++ [Steam促销活动“SEGA ATLUS Spring Sale”开跑！《人中之龙８》首促](https://www.3dmgame.com/news/202403/3890614.html)
+

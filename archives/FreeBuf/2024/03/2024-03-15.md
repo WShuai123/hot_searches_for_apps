@@ -63,3 +63,7 @@
 
 + [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html)
+

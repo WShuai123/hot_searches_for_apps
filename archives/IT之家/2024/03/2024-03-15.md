@@ -41,3 +41,7 @@
 
 + [华为官宣：鸿蒙星河版 WPS Office 完成核心功能版本交付](https://m.ithome.com/html/755848.htm)
 
++ [小米相册 AIGC 编辑功能正式上线：支持智能扩图、魔法消除 Pro](https://m.ithome.com/html/755699.htm)
+
++ [实机演示公布，《黑神话：悟空》等官宣支持全景光线追踪、英伟达 DLSS 3.5 光线重建技术](https://m.ithome.com/html/755758.htm)
+

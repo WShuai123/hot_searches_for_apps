@@ -155,3 +155,5 @@
 
 + [基于Spring Boot和Vue的甜点购物商城](https://blog.csdn.net/qq_41818882/article/details/136700996)
 
++ [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://blog.csdn.net/m0_46510245/article/details/136735670)
+
