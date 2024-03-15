@@ -101,3 +101,11 @@
 
 + [《疯狂的麦克斯：狂暴女神》新剧照 疯狂的废土世界](https://www.3dmgame.com/news/202403/3890594.html)
 
++ [恐怖探索《Rental》免费登陆Steam 获得特别好评](https://www.3dmgame.com/news/202403/3890649.html)
+
++ [《厄瑞班：暗影之族》XGP版被取消 4月登陆PC](https://www.3dmgame.com/news/202403/3890650.html)
+
++ [《Selfloss》新增主机版 扮演一名带着魔法棍的老人](https://www.3dmgame.com/news/202403/3890648.html)
+
++ [格力发布新一代空调：从此家里不用交电费](https://www.3dmgame.com/news/202403/3890647.html)
+
