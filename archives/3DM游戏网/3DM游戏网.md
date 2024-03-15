@@ -191,3 +191,7 @@
 
 + [快节奏弹幕射击游戏《一键杀必死》现已登录Steam平台](https://www.3dmgame.com/news/202403/3890598.html)
 
++ [雷军：小米SU7暂未开启预定 禁止任何渠道收取定金](https://www.3dmgame.com/news/202403/3890605.html)
+
++ [V社COO回应Epic老板怒骂邮件公开：你急啦老兄？](https://www.3dmgame.com/news/202403/3890604.html)
+

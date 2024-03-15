@@ -143,3 +143,9 @@
 
 + [Linux系统搭建DataEase并结合内网穿透实现任意设备公网查看本地数据](https://blog.csdn.net/Aileenvov/article/details/136727483)
 
++ [250+可用的 AI 资源网站](https://blog.csdn.net/qq_44273429/article/details/136677453)
+
++ [基于Java的海南旅游景点推荐系统(Vue.js+SpringBoot)](https://blog.csdn.net/yangyin1998/article/details/136700404)
+
++ [MapReduce解析：从定义到核心思想，编程规范与序列化解读](https://blog.csdn.net/weixin_52986315/article/details/136692749)
+

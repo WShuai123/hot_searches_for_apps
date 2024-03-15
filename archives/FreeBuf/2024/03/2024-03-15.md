@@ -55,3 +55,5 @@
 
 + [制造业信息安全实践——企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
 
++ [某.NET仓库管理系统——WMS_APP服务端代码审计一](https://www.freebuf.com/articles/web/393884.html)
+
