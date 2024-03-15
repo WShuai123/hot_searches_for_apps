@@ -51,3 +51,33 @@
 
 + [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
++ [lavague-ai / LaVague](https://github.com/lavague-ai/LaVague)
+
++ [Mintimate / oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+
++ [diia-open-source / ios-diia](https://github.com/diia-open-source/ios-diia)
+
++ [DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench)
+
++ [tk04 / Marker](https://github.com/tk04/Marker)
+
++ [lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region)
+
++ [gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+
++ [valinet / ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
++ [diia-open-source / android-diia](https://github.com/diia-open-source/android-diia)
+
++ [Altinity / clickhouse-operator](https://github.com/Altinity/clickhouse-operator)
+
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [marticliment / WingetUI](https://github.com/marticliment/WingetUI)
+

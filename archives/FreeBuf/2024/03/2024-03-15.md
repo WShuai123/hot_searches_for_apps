@@ -67,3 +67,5 @@
 
 + [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html)
 
++ [安全左移是责任左移吗；漏洞重复出现怎么办 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/394907.html)
+

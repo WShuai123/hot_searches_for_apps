@@ -173,3 +173,9 @@
 
 + [前端UNIAPP端webview嵌入H5使用说明文档](https://blog.csdn.net/BUG_Jia/article/details/136742664)
 
++ [1.Python数据分析—数据分析与挖掘详讲](https://blog.csdn.net/weixin_50804299/article/details/136734547)
+
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的番茄新鲜程度检测系统（深度学习+UI界面+训练数据集）](https://blog.csdn.net/qq_32892383/article/details/136511417)
+
++ [如何实现固定公网地址远程SSH连接Linux Deepin系统](https://blog.csdn.net/zhoubancheng/article/details/136737002)
+

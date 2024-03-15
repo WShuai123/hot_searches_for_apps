@@ -51,3 +51,9 @@
 
 + [雷军否认个别用户或公司享有优先购车权，并称小米汽车未开启盲订通道](https://m.ithome.com/html/755740.htm)
 
++ [超 9.1GHz，英特尔酷睿 i9-14900KS 刷新超频世界纪录](https://m.ithome.com/html/755777.htm)
+
++ [消息称上汽飞凡预计将被裁员 70% 以上，因急需降本和品牌调整](https://m.ithome.com/html/755794.htm)
+
++ [东风 eπ 007 轿车上市：15.96 万元起售，纯电 / 增程双版本可选](https://m.ithome.com/html/755755.htm)
+

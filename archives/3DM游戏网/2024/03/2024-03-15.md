@@ -265,3 +265,5 @@
 
 + [动画改编游戏《蓝精灵 乡村派对》Steam页面上线 6月6日发售](https://www.3dmgame.com/news/202403/3890640.html)
 
++ [华硕3月中旬将暂停部分型号显卡供货 涉及RTX 4060/4070产品](https://www.3dmgame.com/news/202403/3890641.html)
+
