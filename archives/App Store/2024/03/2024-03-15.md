@@ -213,3 +213,5 @@
 
 + [智慧中小学-国家中小学智慧教育平台](https://itunes.apple.com/cn/app/id1497477307?mt=8)
 
++ [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
+

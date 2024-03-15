@@ -239,3 +239,29 @@
 
 + [Switch《山海旅人》DLC“夜行柳渡”上线 免费领取](https://www.3dmgame.com/news/202403/3890627.html)
 
++ [首款鸿蒙人形机器人“管家”现身 浇花晾衣样样在行](https://www.3dmgame.com/news/202403/3890628.html)
+
++ [国产爽游《命运英雄》春促活动，今日起正式开启！](https://www.3dmgame.com/news/202403/3890629.html)
+
++ [在Steam春季促销中，体验《战国王朝》、《中世纪王朝》等游戏！](https://www.3dmgame.com/news/202403/3890630.html)
+
++ [国产侦探文字推理《双盲把戏》现已上线Steam](https://www.3dmgame.com/news/202403/3890631.html)
+
++ [《绝命毒师》屠库扮演者携手多人生存《人渣 SCUM》，亮相Steam春季促销](https://www.3dmgame.com/news/202403/3890632.html)
+
++ [回应期待《星之海》全新中文重置正式上线！春促新史低同步开启中！](https://www.3dmgame.com/news/202403/3890633.html)
+
++ [迅雷会员逼近600万人 一年暴涨100万：你在用吗？](https://www.3dmgame.com/news/202403/3890634.html)
+
++ [休闲养花模拟器《花园生涯：模拟佛系生活》现已登陆任天堂Switch平台](https://www.3dmgame.com/news/202403/3890635.html)
+
++ [免费多人MMO《宝藏世界》开启圣克贝斯利可幸运活动，丰厚奖励等你来拿](https://www.3dmgame.com/news/202403/3890636.html)
+
++ [魔性摇头鸽音律对战《Headbangers》将于4.4推出新游戏模式](https://www.3dmgame.com/news/202403/3890637.html)
+
++ [太空肉鸽卡牌《Zet Zillions》将于5月23日在PC上发布，从3月25日公开全新DEMO](https://www.3dmgame.com/news/202403/3890638.html)
+
++ [小动物肉鸽自走棋《卡多梦：超能自走棋》将于3月26日登陆Steam抢先体验](https://www.3dmgame.com/news/202403/3890639.html)
+
++ [动画改编游戏《蓝精灵 乡村派对》Steam页面上线 6月6日发售](https://www.3dmgame.com/news/202403/3890640.html)
+
