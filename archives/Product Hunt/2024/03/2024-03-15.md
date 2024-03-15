@@ -159,3 +159,7 @@
 
 + [IncludeCore](https://www.producthunt.com/posts/includecore)
 
++ [Onetab](https://www.producthunt.com/posts/onetab-3)
+
++ [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
+

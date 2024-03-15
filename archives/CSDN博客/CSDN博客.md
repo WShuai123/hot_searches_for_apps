@@ -183,3 +183,5 @@
 
 + [什么是MVC三层结构](https://blog.csdn.net/qq_73918355/article/details/136742235)
 
++ [解决ubuntu 22.04新内核6.5.0-15无法编译NVIDIA显卡驱动](https://blog.csdn.net/qq_28356373/article/details/136746520)
+
