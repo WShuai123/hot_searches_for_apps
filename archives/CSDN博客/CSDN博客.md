@@ -185,3 +185,9 @@
 
 + [解决ubuntu 22.04新内核6.5.0-15无法编译NVIDIA显卡驱动](https://blog.csdn.net/qq_28356373/article/details/136746520)
 
++ [基于YOLOv8/YOLOv7/YOLOv6/YOLOv5的商品识别系统（深度学习+UI界面+训练数据集+Python代码）](https://blog.csdn.net/qq_32892383/article/details/136534965)
+
++ [2024年AI辅助研发：技术革新引领研发新纪元](https://blog.csdn.net/a1657054242/article/details/136726808)
+
++ [鸿蒙Harmony应用开发—ArkTS声明式开发（容器组件：FormLink）](https://blog.csdn.net/m0_64420071/article/details/136717133)
+

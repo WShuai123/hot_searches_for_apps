@@ -67,3 +67,9 @@
 
 + [第三次试飞：SpaceX 星舰发射升空](https://m.ithome.com/html/755761.htm)
 
++ [梅菜扣肉原料竟是劣质槽头肉，2024 年 315 晚会曝光预制菜“淋巴腺体肉眼可见”](https://m.ithome.com/html/756011.htm)
+
++ [长城宣布多款车型已完成华为 HiCar 4.0 适配工作，车机互联兼容程度更高](https://m.ithome.com/html/755890.htm)
+
++ [荣耀 Magic6 RSR 保时捷设计真机曝光：粉紫色机身，六边形相机 Deco 设计](https://m.ithome.com/html/755871.htm)
+

@@ -275,3 +275,5 @@
 
 + [PS5 Pro将支持PSSR技术 效果超过AMD FSR 2](https://www.3dmgame.com/news/202403/3890643.html)
 
++ [《战地2042》第七赛季3月19日上线 实机宣传片发布](https://www.3dmgame.com/news/202403/3890646.html)
+
