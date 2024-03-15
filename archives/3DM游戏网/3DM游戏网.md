@@ -157,3 +157,15 @@
 
 + [云游戏服务公司Gamestream获得450万欧元投资](https://www.3dmgame.com/news/202403/3890574.html)
 
++ [《寂静岭2：重制版》Steam后台添加成就信息 发售日期或将公布](https://www.3dmgame.com/news/202403/3890588.html)
+
++ [《忍者神龟：COWABUNGA合集》数字版即将从日本下架](https://www.3dmgame.com/news/202403/3890592.html)
+
++ [《绝地潜兵2》“遥遥领先”通行证上线 高科技武器系列](https://www.3dmgame.com/news/202403/3890591.html)
+
++ [《星刃》新战斗演示视频：战衣性感 动作很酷炫](https://www.3dmgame.com/news/202403/3890590.html)
+
++ [《冰雪女王5：融冰之战》 定档预告 4月4日上映](https://www.3dmgame.com/news/202403/3890589.html)
+
++ [漫威内部人士称 漫威影业将放弃《永恒族2》、《惊奇队长3》等电影](https://www.3dmgame.com/news/202403/3890587.html)
+

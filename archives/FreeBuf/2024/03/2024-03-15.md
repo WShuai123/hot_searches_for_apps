@@ -49,3 +49,5 @@
 
 + [实战时代下人机结合的资产风险收敛体系 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/394763.html)
 
++ [《民航数据管理办法（征求意见稿）》&《民航数据共享管理办法（征求意见稿）》正式发布](https://www.freebuf.com/articles/394860.html)
+
