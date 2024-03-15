@@ -49,3 +49,27 @@
 
 + [HEB Grackle](https://dribbble.com/shots/)
 
++ [Dorado Catfish Migration Illustrated Map](https://dribbble.com/shots/)
+
++ [Chum Bucket](https://dribbble.com/shots/)
+
++ [Camera Controller Concept](https://dribbble.com/shots/)
+
++ [Medieval Tavern](https://dribbble.com/shots/)
+
++ [Y2K](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustration](https://dribbble.com/shots/)
+
++ [Fountain Hand tattoo](https://dribbble.com/shots/)
+
++ [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
+
++ [Nike Sneaker Illustration????](https://dribbble.com/shots/)
+
++ [Logo "Lol Defi"](https://dribbble.com/shots/)
+
++ [Brand Concepts WIP](https://dribbble.com/shots/)
+
++ [Geometric Woman Logo](https://dribbble.com/shots/)
+

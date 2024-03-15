@@ -61,3 +61,9 @@
 
 + [【东方】天弓天華オトハナビ MV【ビートまりお COOL&CREATE】](http://www.acfun.cn/v/ac44028605)
 
++ [爱和希望永不泯灭！](http://www.acfun.cn/v/ac44033032)
+
++ [【小子贼疯】ORION（cover：中岛美嘉 / 日剧《流星之絆》插曲）【日翻文艺复兴】](http://www.acfun.cn/v/ac44033106)
+
++ [【自我介绍】从外星球降临的萌萌小狐狸！](http://www.acfun.cn/v/ac44030962)
+
