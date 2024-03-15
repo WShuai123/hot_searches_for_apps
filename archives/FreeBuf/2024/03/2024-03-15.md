@@ -57,3 +57,5 @@
 
 + [某.NET仓库管理系统——WMS_APP服务端代码审计一](https://www.freebuf.com/articles/web/393884.html)
 
++ [TikTok禁令引发数据安全和控制问题](https://www.freebuf.com/news/394901.html)
+

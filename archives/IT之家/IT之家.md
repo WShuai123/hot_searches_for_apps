@@ -37,3 +37,5 @@
 
 + [马斯克发文谈星舰第三次试飞：星舰将使生命多行星化](https://m.ithome.com/html/755775.htm)
 
++ [6299 元，英特尔酷睿 i9-14900KS 旗舰处理器国行上架开售](https://m.ithome.com/html/755778.htm)
+

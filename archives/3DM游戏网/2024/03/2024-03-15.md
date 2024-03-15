@@ -195,3 +195,9 @@
 
 + [V社COO回应Epic老板怒骂邮件公开：你急啦老兄？](https://www.3dmgame.com/news/202403/3890604.html)
 
++ [《妮姬：胜利女神》联动《Re：从零开始的异世界生活》 公布爱蜜莉雅正面立绘](https://www.3dmgame.com/news/202403/3890608.html)
+
++ [《帝国时代2：决定版》新DLC“征服与陨落”发售 玩家差评：敷衍至极](https://www.3dmgame.com/news/202403/3890607.html)
+
++ [制片人透露动作电影《小人物》和《暴力之夜》的续集进展顺利](https://www.3dmgame.com/news/202403/3890606.html)
+

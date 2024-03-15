@@ -149,3 +149,5 @@
 
 + [MapReduce解析：从定义到核心思想，编程规范与序列化解读](https://blog.csdn.net/weixin_52986315/article/details/136692749)
 
++ [【开源-土拨鼠充电系统】鸿蒙 HarmonyOS 4.0+微信小程序+云平台](https://blog.csdn.net/weixin_71403100/article/details/136724622)
+
