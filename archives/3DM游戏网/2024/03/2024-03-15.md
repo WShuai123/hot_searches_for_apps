@@ -267,3 +267,5 @@
 
 + [华硕3月中旬将暂停部分型号显卡供货 涉及RTX 4060/4070产品](https://www.3dmgame.com/news/202403/3890641.html)
 
++ [《幻兽帕鲁》主创暗示本作将登陆索尼PS5](https://www.3dmgame.com/news/202403/3890642.html)
+

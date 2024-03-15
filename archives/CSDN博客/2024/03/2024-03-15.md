@@ -179,3 +179,7 @@
 
 + [如何实现固定公网地址远程SSH连接Linux Deepin系统](https://blog.csdn.net/zhoubancheng/article/details/136737002)
 
++ [C# 读取多条数据记录导出到 Word 标签模板](https://blog.csdn.net/michaelline/article/details/136738830)
+
++ [什么是MVC三层结构](https://blog.csdn.net/qq_73918355/article/details/136742235)
+
