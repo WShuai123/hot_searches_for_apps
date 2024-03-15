@@ -129,3 +129,5 @@
 
 + [【JS】前端分片上传大文件（支持1G以上的超大文件）](https://blog.csdn.net/weixin_43726152/article/details/136722114)
 
++ [如何在CentOS7搭建DashDot服务器仪表盘并实现远程监控](https://blog.csdn.net/YYDsis/article/details/136711887)
+
