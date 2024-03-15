@@ -169,3 +169,25 @@
 
 + [漫威内部人士称 漫威影业将放弃《永恒族2》、《惊奇队长3》等电影](https://www.3dmgame.com/news/202403/3890587.html)
 
++ [《守望先锋2》新赛季新英雄将于3月20日正式公布](https://www.3dmgame.com/news/202403/3890603.html)
+
++ [《黑镜》第七季将包含模仿《星际迷航》剧集的续集](https://www.3dmgame.com/news/202403/3890602.html)
+
++ [被取消《漫威蜘蛛侠》多人游戏或以其他作品形式出现](https://www.3dmgame.com/news/202403/3890601.html)
+
++ [专利表明苹果正探索Apple Watch更多新手势 握拳、摊掌等](https://www.3dmgame.com/news/202403/3890600.html)
+
++ [TV动画《异世界自杀小队》公布新PV 2024年7月播出](https://www.3dmgame.com/news/202403/3890599.html)
+
++ [来自彼世的呼唤《岚与山之彼端》定档3月29日发售](https://www.3dmgame.com/news/202403/3890596.html)
+
++ [《命运2》2个月系列更新“进入光能”4月9日开始](https://www.3dmgame.com/news/202403/3890595.html)
+
++ [《群星》大型扩展包“机械时代”公布 第二季度发售](https://www.3dmgame.com/news/202403/3890593.html)
+
++ [《疯狂的麦克斯：狂暴女神》新剧照 疯狂的废土世界](https://www.3dmgame.com/news/202403/3890594.html)
+
++ [《香港大屠戮》工作室新作实机 吴宇森风格](https://www.3dmgame.com/news/202403/3890597.html)
+
++ [快节奏弹幕射击游戏《一键杀必死》现已登录Steam平台](https://www.3dmgame.com/news/202403/3890598.html)
+

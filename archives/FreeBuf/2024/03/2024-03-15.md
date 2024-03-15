@@ -51,3 +51,7 @@
 
 + [《民航数据管理办法（征求意见稿）》&《民航数据共享管理办法（征求意见稿）》正式发布](https://www.freebuf.com/articles/394860.html)
 
++ [波及4300万人！法国官方就业机构数据遭窃](https://www.freebuf.com/news/394879.html)
+
++ [制造业信息安全实践——企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
+

@@ -139,3 +139,7 @@
 
 + [SQL笔记 -- 黑马程序员](https://blog.csdn.net/weixin_74814064/article/details/136719151)
 
++ [Redis 除了做缓存，还能做什么？](https://blog.csdn.net/m0_73473352/article/details/136724712)
+
++ [Linux系统搭建DataEase并结合内网穿透实现任意设备公网查看本地数据](https://blog.csdn.net/Aileenvov/article/details/136727483)
+
