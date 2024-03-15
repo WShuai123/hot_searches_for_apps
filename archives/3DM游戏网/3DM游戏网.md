@@ -223,3 +223,15 @@
 
 + [Steam促销活动“SEGA ATLUS Spring Sale”开跑！《人中之龙８》首促](https://www.3dmgame.com/news/202403/3890614.html)
 
++ [《GTA6》将是史上最重要的游戏 将为游戏业带来转机](https://www.3dmgame.com/news/202403/3890625.html)
+
++ [暴雪国服回归在即！魔兽、炉石等公众号全部复活：IP清一色浙江](https://www.3dmgame.com/news/202403/3890624.html)
+
++ [欧盟对阿里速卖通发起全面调查！剑指平台非法内容等](https://www.3dmgame.com/news/202403/3890623.html)
+
++ [三七互娱侵权崩坏3案宣判 判赔米哈游3万元](https://www.3dmgame.com/news/202403/3890622.html)
+
++ [报告称宝可梦卡牌供需比例失调 导致销量大幅下滑](https://www.3dmgame.com/news/202403/3890621.html)
+
++ [《小丑牌》开发者：在自己的游戏前从没玩过牌组构建游戏](https://www.3dmgame.com/news/202403/3890620.html)
+

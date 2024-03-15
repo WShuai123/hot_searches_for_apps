@@ -45,3 +45,5 @@
 
 + [实机演示公布，《黑神话：悟空》等官宣支持全景光线追踪、英伟达 DLSS 3.5 光线重建技术](https://m.ithome.com/html/755758.htm)
 
++ [马斯克发文祝贺 SpaceX 星舰达到环绕速度](https://m.ithome.com/html/755763.htm)
+
