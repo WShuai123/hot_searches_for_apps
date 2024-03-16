@@ -101,3 +101,7 @@
 
 + [Opencord AI 2.0](https://www.producthunt.com/posts/opencord-ai-2-0)
 
++ [Crypntox Card](https://www.producthunt.com/posts/crypntox-card)
+
++ [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
+

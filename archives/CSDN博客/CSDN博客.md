@@ -101,3 +101,7 @@
 
 + [5 个适用于 Windows 10 和 11 的最佳 PDF 转 Word 转换器](https://blog.csdn.net/Geeker55/article/details/135471681)
 
++ [LoRA及其变体概述：LoRA, DoRA, AdaLoRA, Delta-LoRA](https://blog.csdn.net/m0_46510245/article/details/136735670)
+
++ [【论文阅读笔记】Attention Is All You Need](https://blog.csdn.net/qq_46056318/article/details/136735937)
+
