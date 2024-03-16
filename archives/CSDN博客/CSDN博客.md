@@ -143,3 +143,7 @@
 
 + [【QT】TCP简易聊天框](https://blog.csdn.net/weixin_52958292/article/details/136711258)
 
++ [软件杯 深度学习 opencv python 实现中国交通标志识别_1](https://blog.csdn.net/m0_43533/article/details/136734643)
+
++ [【研发日记】Matlab/Simulink技能解锁(一)——在Simulink编辑窗口Debug](https://blog.csdn.net/CSSUST/article/details/136749228)
+

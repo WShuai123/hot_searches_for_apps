@@ -133,3 +133,23 @@
 
 + [《勇闯死人谷：最黑暗的日子》官方实机预告 发售日期待定](https://www.3dmgame.com/news/202403/3890660.html)
 
++ [《iLLANG》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890671.html)
+
++ [流媒体vs影院：三分之二美国人更喜欢在家看电影](https://www.3dmgame.com/news/202403/3890667.html)
+
++ [国外主播从沃尔玛提前购得《龙之信条2》并直播4小时](https://www.3dmgame.com/news/202403/3890672.html)
+
++ [卡通风FPS《狂野恶徒》确认将登陆主机 年内发售](https://www.3dmgame.com/news/202403/3890670.html)
+
++ [《Until Then》5月24日发售 暂不支持中文](https://www.3dmgame.com/news/202403/3890669.html)
+
++ [《星露谷物语》1.6加入蜜月期 新婚伴侣不会抑郁摆烂](https://www.3dmgame.com/news/202403/3890668.html)
+
++ [微软提醒：用Xbox应用更新《我的世界》或导致坏档](https://www.3dmgame.com/news/202403/3890666.html)
+
++ [《暗网直播者》正式预告 暂不支持简中](https://www.3dmgame.com/news/202403/3890665.html)
+
++ [搞怪游戏《持枪松鼠》今秋登陆PS5、XSX和PC](https://www.3dmgame.com/news/202403/3890664.html)
+
++ [《幻兽帕鲁》CEO不急着被收购：想再做几款小游戏](https://www.3dmgame.com/news/202403/3890663.html)
+
