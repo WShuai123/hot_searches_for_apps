@@ -101,3 +101,11 @@
 
 + [《Selfloss》新增主机版 扮演一名带着魔法棍的老人](https://www.3dmgame.com/news/202403/3890648.html)
 
++ [据报道《女神异闻录6》计划将登陆Xbox](https://www.3dmgame.com/news/202403/3890701.html)
+
++ [《时空英豪2：新起点》现已在PC/PS5/XS发售](https://www.3dmgame.com/news/202403/3890699.html)
+
++ [《终极闪光：破坏者》今年夏季推出PC抢先体验版](https://www.3dmgame.com/news/202403/3890700.html)
+
++ [Bungie经典科幻FPS《马拉松》即将登陆PC](https://www.3dmgame.com/news/202403/3890698.html)
+
