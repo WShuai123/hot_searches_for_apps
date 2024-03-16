@@ -139,3 +139,21 @@
 
 + [Stacktape](https://www.producthunt.com/posts/stacktape-2)
 
++ [AI Document Translator](https://www.producthunt.com/posts/ai-document-translator)
+
++ [Astra](https://www.producthunt.com/posts/astra-3)
+
++ [Build Lead Gen](https://www.producthunt.com/posts/build-lead-gen)
+
++ [SafeKey – Password Manager](https://www.producthunt.com/posts/safekey-password-manager)
+
++ [StoryMate](https://www.producthunt.com/posts/storymate)
+
++ [Read with Stars](https://www.producthunt.com/posts/read-with-stars)
+
++ [Similarix](https://www.producthunt.com/posts/similarix)
+
++ [AxentHost](https://www.producthunt.com/posts/axenthost)
+
++ [Sadik.AI — The First Vocal AI](https://www.producthunt.com/posts/sadik-ai-the-first-vocal-ai)
+

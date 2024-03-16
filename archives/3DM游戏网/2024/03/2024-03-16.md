@@ -165,3 +165,11 @@
 
 + [MAGES.创始人之一盛政树将于3月31日离开公司](https://www.3dmgame.com/news/202403/3890678.html)
 
++ [《EA SPORTS FC™ 24》喜迎 ULTIMATE TEAM 15 周年纪念](https://www.3dmgame.com/news/202403/3890682.html)
+
++ [《怪物猎人：世界》销量已超过系列总销量四分之一](https://www.3dmgame.com/news/202403/3890681.html)
+
++ [微信体积从457KB增至700MB：98%文件都是垃圾](https://www.3dmgame.com/news/202403/3890680.html)
+
++ [第三人称射击游戏《太阳之子》新预告 4月9日发售](https://www.3dmgame.com/news/202403/3890679.html)
+
