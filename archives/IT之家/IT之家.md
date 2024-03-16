@@ -51,3 +51,7 @@
 
 + [荣耀 MagicBook Pro 16 笔记本上架：可选 Ultra 5/7 及 RTX4060、16-24GB RAM](https://m.ithome.com/html/756030.htm)
 
++ [听花酒回应被 315 晚会点名：成立专项小组全面展开整改](https://m.ithome.com/html/756087.htm)
+
++ [华为手环 9 渲染图曝光：1.47 英寸屏幕、180mAh 电池，改善睡眠追踪](https://m.ithome.com/html/756079.htm)
+

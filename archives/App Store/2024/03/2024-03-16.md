@@ -217,3 +217,5 @@
 
 + [Dazz相机 - 复古胶片和CCD效果](https://itunes.apple.com/cn/app/id1422471180?mt=8)
 
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+
