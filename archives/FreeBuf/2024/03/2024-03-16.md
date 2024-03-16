@@ -41,3 +41,7 @@
 
 + [攻击者是如何通过 YouTube 传播恶意软件的](https://www.freebuf.com/articles/network/392980.html)
 
++ [FreeBuf 周报 | Airbnb将禁止在房源内安装监控摄像头；宏碁又遭网络袭击](https://www.freebuf.com/news/394863.html)
+
++ [开源组件安全风险及应对](https://www.freebuf.com/vuls/393325.html)
+

@@ -109,3 +109,5 @@
 
 + [格力发布新一代空调：从此家里不用交电费](https://www.3dmgame.com/news/202403/3890647.html)
 
++ [《地狱之刃2》确认有照片模式 新截图很有质感](https://www.3dmgame.com/news/202403/3890651.html)
+

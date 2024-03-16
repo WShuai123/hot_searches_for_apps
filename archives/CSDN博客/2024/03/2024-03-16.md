@@ -131,3 +131,5 @@
 
 + [如何在CentOS7搭建DashDot服务器仪表盘并实现远程监控](https://blog.csdn.net/YYDsis/article/details/136711887)
 
++ [基于SpringBoot和Echarts的全国地震可视化分析实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/136751845)
+

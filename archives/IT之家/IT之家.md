@@ -29,3 +29,7 @@
 
 + [国家市场监管总局回应 2024 年 315 晚会“槽头肉”预制菜：将开展专项整治行动](https://m.ithome.com/html/756015.htm)
 
++ [华为：年底前将开发 5000 以上 HarmonyOS NEXT 鸿蒙星河版原生应用，最终实现超 50 万原生应用](https://m.ithome.com/html/756041.htm)
+
++ [宝马集团：530Li“传动轴异响”不会影响行驶安全，将承担所有相关维修费用](https://m.ithome.com/html/756032.htm)
+
