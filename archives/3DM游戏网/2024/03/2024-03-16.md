@@ -111,3 +111,11 @@
 
 + [《地狱之刃2》确认有照片模式 新截图很有质感](https://www.3dmgame.com/news/202403/3890651.html)
 
++ [交互视觉小说游戏《圣殿THE TEMPLE》Steam页面 发售日待定](https://www.3dmgame.com/news/202403/3890655.html)
+
++ [新规后快递送家门口没！快递员崩溃扔驿站 用户抱怨](https://www.3dmgame.com/news/202403/3890654.html)
+
++ [Reef Creative收购《最终复仇》开发商70%股份](https://www.3dmgame.com/news/202403/3890653.html)
+
++ [《Lightyear Frontier》实机发售预告 3月20日发售](https://www.3dmgame.com/news/202403/3890652.html)
+

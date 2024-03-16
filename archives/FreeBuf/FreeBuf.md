@@ -45,3 +45,5 @@
 
 + [开源组件安全风险及应对](https://www.freebuf.com/vuls/393325.html)
 
++ [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html)
+
