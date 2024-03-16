@@ -161,3 +161,7 @@
 
 + [幻想风竞速《幻影火花》今夏发售 新增主机版](https://www.3dmgame.com/news/202403/3890674.html)
 
++ [用户吐槽微软Copilot Pro有偏执倾向 会单方面结束对话](https://www.3dmgame.com/news/202403/3890677.html)
+
++ [MAGES.创始人之一盛政树将于3月31日离开公司](https://www.3dmgame.com/news/202403/3890678.html)
+
