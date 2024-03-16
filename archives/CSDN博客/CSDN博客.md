@@ -151,3 +151,9 @@
 
 + [CPU、GPU、IPU、NPU、TPU、LPU、MCU、MPU、SOC、DSP、FPGA、ASIC、GPP、ECU、](https://blog.csdn.net/limengshi138392/article/details/136711316)
 
++ [AI大模型的预训练、迁移和中间件编程](https://blog.csdn.net/herosunly/article/details/136758936)
+
++ [Java基于微信小程序的电影推荐系统的实现，附源码](https://blog.csdn.net/yujun2023/article/details/136712346)
+
++ [外包干了20天，技术退步明显......](https://blog.csdn.net/m0_65111097/article/details/136682684)
+

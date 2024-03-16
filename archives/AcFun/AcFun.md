@@ -87,3 +87,5 @@
 
 + [那么爱你为什么](http://www.acfun.cn/v/ac44032654)
 
++ [不用选，都给Acer！★手机竖屏1091★](http://www.acfun.cn/v/ac44032497)
+

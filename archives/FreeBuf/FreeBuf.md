@@ -49,3 +49,5 @@
 
 + [从 VNCTF2024 的一道题学习QEMU Escape](https://www.freebuf.com/defense/394960.html)
 
++ [AntiSquat：利用人工智能技术检测误植域名和钓鱼域名的强大工具](https://www.freebuf.com/sectool/392261.html)
+
