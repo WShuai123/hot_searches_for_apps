@@ -51,3 +51,29 @@
 
 + [marticliment / WingetUI](https://github.com/marticliment/WingetUI)
 
++ [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [slint-ui / slint](https://github.com/slint-ui/slint)
+
++ [wasmerio / winterjs](https://github.com/wasmerio/winterjs)
+
++ [Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro)
+
++ [Project-DARC / DARC](https://github.com/Project-DARC/DARC)
+
++ [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern)
+
++ [said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio)
+
++ [lsc4719 / MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+
++ [facefusion / facefusion](https://github.com/facefusion/facefusion)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [pancakeswap / pancake-frontend](https://github.com/pancakeswap/pancake-frontend)
+
++ [huggingface / safetensors](https://github.com/huggingface/safetensors)
+
