@@ -119,3 +119,17 @@
 
 + [《Lightyear Frontier》实机发售预告 3月20日发售](https://www.3dmgame.com/news/202403/3890652.html)
 
++ [《绝地潜兵2》开场动画演员也是游戏粉丝 在片场即兴说唱](https://www.3dmgame.com/news/202403/3890661.html)
+
++ [《星球大战：前线 经典合集》开发商正解决服务器问题](https://www.3dmgame.com/news/202403/3890662.html)
+
++ [《绝地潜兵2》估测全球销量已经突破800万套](https://www.3dmgame.com/news/202403/3890656.html)
+
++ [前血源制作人加盟 VR开发商Thirdverse再获330万美元融资](https://www.3dmgame.com/news/202403/3890657.html)
+
++ [矮人心里乐开花 《深岩银河：幸存者》销量破百万](https://www.3dmgame.com/news/202403/3890658.html)
+
++ [CDPR深信能重现《往日之影》的成功](https://www.3dmgame.com/news/202403/3890659.html)
+
++ [《勇闯死人谷：最黑暗的日子》官方实机预告 发售日期待定](https://www.3dmgame.com/news/202403/3890660.html)
+
