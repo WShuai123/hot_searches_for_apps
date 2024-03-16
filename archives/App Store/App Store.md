@@ -211,3 +211,5 @@
 
 + [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
 
++ [斗鱼-超高清游戏直播视频娱乐平台](https://itunes.apple.com/cn/app/id863882795?mt=8)
+

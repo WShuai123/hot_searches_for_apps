@@ -153,3 +153,11 @@
 
 + [《幻兽帕鲁》CEO不急着被收购：想再做几款小游戏](https://www.3dmgame.com/news/202403/3890663.html)
 
++ [复古动作FPS《幻影狂怒》PC版将于4月24发售](https://www.3dmgame.com/news/202403/3890676.html)
+
++ [沾上扑克就是赌？《小丑牌》开发者对分级方式不满](https://www.3dmgame.com/news/202403/3890673.html)
+
++ [首批汽车官宣加入鸿蒙生态 传祺 岚图 零跑 凯翼四家](https://www.3dmgame.com/news/202403/3890675.html)
+
++ [幻想风竞速《幻影火花》今夏发售 新增主机版](https://www.3dmgame.com/news/202403/3890674.html)
+

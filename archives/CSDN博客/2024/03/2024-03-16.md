@@ -147,3 +147,7 @@
 
 + [【研发日记】Matlab/Simulink技能解锁(一)——在Simulink编辑窗口Debug](https://blog.csdn.net/CSSUST/article/details/136749228)
 
++ [亮数据，让数据亮起来](https://blog.csdn.net/JHXL_/article/details/136727478)
+
++ [CPU、GPU、IPU、NPU、TPU、LPU、MCU、MPU、SOC、DSP、FPGA、ASIC、GPP、ECU、](https://blog.csdn.net/limengshi138392/article/details/136711316)
+

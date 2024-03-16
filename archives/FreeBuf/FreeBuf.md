@@ -47,3 +47,5 @@
 
 + [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html)
 
++ [从 VNCTF2024 的一道题学习QEMU Escape](https://www.freebuf.com/defense/394960.html)
+
