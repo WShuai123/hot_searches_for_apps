@@ -49,3 +49,21 @@
 
 + [Hummingbird Illustration](https://dribbble.com/shots/)
 
++ [Opulent Life](https://dribbble.com/shots/)
+
++ [Fountain of Youth](https://dribbble.com/shots/)
+
++ [Sustainability](https://dribbble.com/shots/)
+
++ [Protect What You Love artwork for Bigfoot](https://dribbble.com/shots/)
+
++ [Toaster](https://dribbble.com/shots/)
+
++ [Capturing Timeless Essence](https://dribbble.com/shots/)
+
++ [Brand Concepts WIP](https://dribbble.com/shots/)
+
++ [Caterpillar](https://dribbble.com/shots/)
+
++ [Blazing Saddles Trail Races](https://dribbble.com/shots/)
+
