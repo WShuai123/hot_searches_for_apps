@@ -173,3 +173,15 @@
 
 + [从头手搓一台ros2复合机器人（带机械臂）](https://blog.csdn.net/qq_48152826/article/details/136583206)
 
++ [【机器学习】走进监督学习：构建智能预测模型的第一步](https://blog.csdn.net/m0_74195174/article/details/136716727)
+
++ [计算机设计大赛 题目：基于卷积神经网络的手写字符识别 - 深度学习](https://blog.csdn.net/iuerfee/article/details/136742039)
+
++ [一文解读ISO26262安全标准：如何通过计算ASIL安全等级？](https://blog.csdn.net/wss_xt/article/details/136750166)
+
++ [现代 Android 开发的第一步Kotlin](https://blog.csdn.net/suqieer/article/details/136750475)
+
++ [【计算机网络】概述](https://blog.csdn.net/GavinGroves/article/details/136650499)
+
++ [【论文阅读笔记】Attention Is All You Need](https://blog.csdn.net/qq_46056318/article/details/136735937)
+
