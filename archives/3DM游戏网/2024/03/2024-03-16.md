@@ -179,3 +179,15 @@
 
 + [《辐射》真人剧编剧讨论未来：还有很多东西想尝试](https://www.3dmgame.com/news/202403/3890683.html)
 
++ [前《战地》单机战役制作人发声：对EA没什么好话可讲](https://www.3dmgame.com/news/202403/3890691.html)
+
++ [《Phantom Spark》实机预告 不支持中文](https://www.3dmgame.com/news/202403/3890690.html)
+
++ [《绝地潜兵2》神人小游戏580万分！连打4个小时手指麻木](https://www.3dmgame.com/news/202403/3890689.html)
+
++ [《夜莺传说》工作室不满游戏当前状态 将解决掉线问题](https://www.3dmgame.com/news/202403/3890688.html)
+
++ [《龙之信条2》监督谈《浪人崛起》撞车：两款都买！](https://www.3dmgame.com/news/202403/3890687.html)
+
++ [《怪奇物语》主演透露第五季规模将会非常宏大](https://www.3dmgame.com/news/202403/3890686.html)
+
