@@ -173,3 +173,9 @@
 
 + [第三人称射击游戏《太阳之子》新预告 4月9日发售](https://www.3dmgame.com/news/202403/3890679.html)
 
++ [内存、闪存涨价25%是开始！手机存储配置可能有变](https://www.3dmgame.com/news/202403/3890685.html)
+
++ [美国大学历史课邀请亚瑟和马斯顿演员作嘉宾](https://www.3dmgame.com/news/202403/3890684.html)
+
++ [《辐射》真人剧编剧讨论未来：还有很多东西想尝试](https://www.3dmgame.com/news/202403/3890683.html)
+
