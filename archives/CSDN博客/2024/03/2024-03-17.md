@@ -127,3 +127,5 @@
 
 + [微服务技术栈SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式（五）：分布式搜索 ES-中](https://blog.csdn.net/shendaiyan/article/details/136616190)
 
++ [基于Python爬虫安徽阜阳天气预报数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136572691)
+
