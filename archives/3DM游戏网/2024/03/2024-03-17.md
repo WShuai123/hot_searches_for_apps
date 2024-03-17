@@ -163,3 +163,5 @@
 
 + [3D种田模拟游戏《梦幻谷》新增线上合作模式](https://www.3dmgame.com/news/202403/3890728.html)
 
++ [《双截龙外传》免费DLC公布 加入在线合作游戏模式](https://www.3dmgame.com/news/202403/3890729.html)
+
