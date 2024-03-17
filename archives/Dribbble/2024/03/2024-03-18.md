@@ -67,3 +67,15 @@
 
 + [Failure Fans These Flames Sticker](https://dribbble.com/shots/)
 
++ [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
+
++ [Pattern Illustrations](https://dribbble.com/shots/)
+
++ [Endangered Species Act](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustration](https://dribbble.com/shots/)
+
++ [The Monocronies 02.](https://dribbble.com/shots/)
+
++ [Hummingbird Illustration](https://dribbble.com/shots/)
+
