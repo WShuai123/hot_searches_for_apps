@@ -107,3 +107,23 @@
 
 + [外包干了28天，技术退步明显......](https://blog.csdn.net/m0_65111097/article/details/136769300)
 
++ [关机恶搞小程序](https://blog.csdn.net/weixin_58252863/article/details/136759958)
+
++ [【机器学习】走进监督学习：构建智能预测模型的第一步](https://blog.csdn.net/m0_74195174/article/details/136716727)
+
++ [基于Python爬虫浙江湖州水酒店宾馆数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136599746)
+
++ [openGauss使用BenchmarkSQL进行性能测试（下）](https://blog.csdn.net/GaussDB/article/details/136738510)
+
++ [HarmonyOS-鸿蒙系统概述](https://blog.csdn.net/Hidanchaofan/article/details/136764585)
+
++ [【Python】 Flask相关疑问](https://blog.csdn.net/HelloFif/article/details/136765615)
+
++ [SAST-数据流分析方法-理论](https://blog.csdn.net/qq_44826960/article/details/136760071)
+
++ [【Linux】从零开始认识进程 — 前篇](https://blog.csdn.net/JLX_1/article/details/136740485)
+
++ [如何实现固定公网地址远程SSH连接Linux Deepin系统](https://blog.csdn.net/zhoubancheng/article/details/136737002)
+
++ [微信小程序/公众号推送服务通知功能实现（公众号）](https://blog.csdn.net/qq_31590291/article/details/136351098)
+
