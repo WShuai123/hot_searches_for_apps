@@ -175,3 +175,5 @@
 
 + [《完美音浪》PS5版现已开启预载 容量15.5GB](https://www.3dmgame.com/news/202403/3890733.html)
 
++ [PS5 Pro可能是《GTA6》登陆PC前最好的游玩平台](https://www.3dmgame.com/news/202403/3890735.html)
+
