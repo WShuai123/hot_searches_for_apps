@@ -49,3 +49,21 @@
 
 + [The Party 365 Landing Page](https://dribbble.com/shots/)
 
++ [Flowers](https://dribbble.com/shots/)
+
++ [A guy blowing bubble gum](https://dribbble.com/shots/)
+
++ [Blossom (2024)](https://dribbble.com/shots/)
+
++ [Chum on a Stick](https://dribbble.com/shots/)
+
++ [Wild Isles](https://dribbble.com/shots/)
+
++ [Opulent Life](https://dribbble.com/shots/)
+
++ [Medieval Tavern](https://dribbble.com/shots/)
+
++ [Have patience](https://dribbble.com/shots/)
+
++ [Failure Fans These Flames Sticker](https://dribbble.com/shots/)
+

@@ -61,3 +61,7 @@
 
 + [【东方】ふらわりんぐにゃんにゃん - Flowering Nyan【ねこりす Nekorisu】](http://www.acfun.cn/v/ac44045927)
 
++ [所以你就让我看这个？](http://www.acfun.cn/v/ac43926900)
+
++ [好姐妹天天秀#194【煞笔克高手】](http://www.acfun.cn/v/ac44054998)
+
