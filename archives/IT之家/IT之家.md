@@ -33,3 +33,7 @@
 
 + [创维推出 4K + 星闪机顶盒，华为星闪技术首次应用于机顶盒领域](https://m.ithome.com/html/756176.htm)
 
++ [一周干废沦落收费的 NS 模拟器，招来 14 岁开发者带头冲塔任天堂](https://m.ithome.com/html/756153.htm)
+
++ [一汽大众 ID.7 车型限时优惠 3 万元，起售价降低至 19.77 万元](https://m.ithome.com/html/756102.htm)
+

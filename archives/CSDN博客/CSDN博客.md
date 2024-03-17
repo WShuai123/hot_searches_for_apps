@@ -145,3 +145,11 @@
 
 + [uniapp——第2篇：编写vue语法](https://blog.csdn.net/m0_73991249/article/details/136703321)
 
++ [②【Shiro】Shiro登录认证、自定义Realm](https://blog.csdn.net/ebb29bbe/article/details/136777051)
+
++ [spring boot集成redis实现共享存储session](https://blog.csdn.net/m0_68516464/article/details/136768163)
+
++ [探索设计模式的魅力：探索发布-订阅模式的深度奥秘-实现高效、解耦的系统通信](https://blog.csdn.net/danci_/article/details/136735013)
+
++ [MIT线性代数-方程组的几何解释](https://blog.csdn.net/scar2016/article/details/136659590)
+
