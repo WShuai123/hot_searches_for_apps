@@ -41,3 +41,7 @@
 
 + [ADCSsync：基于ESC1执行DCSync技术和哈希转储的强大工具](https://www.freebuf.com/sectool/392027.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/394924.html)
+
++ [攻击者常用的五个数据中转网站](https://www.freebuf.com/articles/network/394937.html)
+

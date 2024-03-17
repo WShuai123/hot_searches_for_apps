@@ -29,3 +29,5 @@
 
 + [小米修改网页描述，暗示海外版小米平板 6 无缘安卓 15](https://m.ithome.com/html/756133.htm)
 
++ [66.8 万元起，路特斯首款纯电动大型轿跑车“EMEYA 繁花”开启交付](https://m.ithome.com/html/756140.htm)
+
