@@ -127,3 +127,7 @@
 
 + [微信小程序/公众号推送服务通知功能实现（公众号）](https://blog.csdn.net/qq_31590291/article/details/136351098)
 
++ [门牌制作-蓝桥杯？-Lua 中文代码解题第3题](https://blog.csdn.net/funsion/article/details/136767784)
+
++ [外包干了10天，技术退步明显。。。。。](https://blog.csdn.net/yjt2045263063/article/details/136771413)
+
