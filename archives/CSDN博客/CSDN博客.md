@@ -167,3 +167,11 @@
 
 + [时间序列预测的零样本学习是未来还是炒作：TimeGPT和TiDE的综合比较](https://blog.csdn.net/m0_46510245/article/details/136778673)
 
++ [AI - 支持向量机算法](https://blog.csdn.net/qq_64685283/article/details/136774864)
+
++ [基于Python爬虫福建厦门天气预报数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136572520)
+
++ [ASP.NET-框架分类与详解](https://blog.csdn.net/weixin_41793160/article/details/136773053)
+
++ [【网络原理】TCP 协议中比较重要的一些特性（三）](https://blog.csdn.net/zzzzzhxxx/article/details/136597348)
+

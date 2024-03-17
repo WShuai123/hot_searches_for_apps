@@ -143,3 +143,17 @@
 
 + [《Trombone Champ》Steam更新上线 好评音乐游戏](https://www.3dmgame.com/news/202403/3890718.html)
 
++ [有人用AI“复活”明星 乔任梁父亲：这是在揭伤疤](https://www.3dmgame.com/news/202403/3890724.html)
+
++ [《立绘很奇怪姿势的恋爱冒险》免费版登陆Steam](https://www.3dmgame.com/news/202403/3890725.html)
+
++ [淡淡综合征在年轻人中盛行：网友总结7大特点](https://www.3dmgame.com/news/202403/3890722.html)
+
++ [PS5主机固件更新后 带来全新关机动画效果展示](https://www.3dmgame.com/news/202403/3890723.html)
+
++ [《东方弹幕神乐：迷失幻想曲》9月5日登陆Switch](https://www.3dmgame.com/news/202403/3890719.html)
+
++ [5月发售 恐怖生存游戏《乌鸦国度》上市日期公布](https://www.3dmgame.com/news/202403/3890720.html)
+
++ [独立游戏《小丑牌》开发者确认将推出iOS版本](https://www.3dmgame.com/news/202403/3890721.html)
+

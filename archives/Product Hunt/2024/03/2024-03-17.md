@@ -111,3 +111,39 @@
 
 + [IRS Direct File pilot](https://www.producthunt.com/posts/irs-direct-file-pilot)
 
++ [GradeAssist](https://www.producthunt.com/posts/gradeassist)
+
++ [Text To Frame It](https://www.producthunt.com/posts/text-to-frame-it)
+
++ [LeetCard: AI-powered FlashCards](https://www.producthunt.com/posts/leetcard-ai-powered-flashcards)
+
++ [Prompt Journey](https://www.producthunt.com/posts/prompt-journey)
+
++ [Homy](https://www.producthunt.com/posts/homy-2)
+
++ [Bidcliq](https://www.producthunt.com/posts/bidcliq)
+
++ [Figure](https://www.producthunt.com/posts/figure-2)
+
++ [Alertbnb](https://www.producthunt.com/posts/alertbnb)
+
++ [RASVEC from Generatebg](https://www.producthunt.com/posts/rasvec-from-generatebg)
+
++ [LLM Pricing](https://www.producthunt.com/posts/llm-pricing)
+
++ [SwiftShip](https://www.producthunt.com/posts/swiftship)
+
++ [Newusic](https://www.producthunt.com/posts/newusic)
+
++ [skipperr.io](https://www.producthunt.com/posts/skipperr-io)
+
++ [Workout Tools](https://www.producthunt.com/posts/workout-tools)
+
++ [JustShip](https://www.producthunt.com/posts/justship)
+
++ [Drumbitious](https://www.producthunt.com/posts/drumbitious)
+
++ [Neureads.com](https://www.producthunt.com/posts/neureads-com)
+
++ [Onboarding.Study](https://www.producthunt.com/posts/onboarding-study)
+
