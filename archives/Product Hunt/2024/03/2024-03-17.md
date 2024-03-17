@@ -105,3 +105,7 @@
 
 + [Warpy: Terminal Generative Shell](https://www.producthunt.com/posts/warpy-terminal-generative-shell)
 
++ [Textile](https://www.producthunt.com/posts/textile)
+
++ [Viralify AI](https://www.producthunt.com/posts/viralify-ai)
+

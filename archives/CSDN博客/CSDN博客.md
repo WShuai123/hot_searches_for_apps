@@ -153,3 +153,11 @@
 
 + [MIT线性代数-方程组的几何解释](https://blog.csdn.net/scar2016/article/details/136659590)
 
++ [基于Python和OpenCV的产品码识别与验证案例](https://blog.csdn.net/2202_75568470/article/details/136739618)
+
++ [瑞_Redis_短信登录（二）](https://blog.csdn.net/weixin_45988482/article/details/136492941)
+
++ [用 Visual Studio 调试器中查看内存中图像](https://blog.csdn.net/2301_78348935/article/details/136759248)
+
++ [【Linux】从零开始认识进程 — 前篇](https://blog.csdn.net/JLX_1/article/details/136740485)
+
