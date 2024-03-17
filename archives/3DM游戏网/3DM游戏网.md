@@ -123,3 +123,21 @@
 
 + [黑曜石《天外世界》《天外世界2》首席环境美工去世](https://www.3dmgame.com/news/202403/3890707.html)
 
++ [《铁轨快车》4月18日登陆Steam/Switch 火车建造经营](https://www.3dmgame.com/news/202403/3890717.html)
+
++ [《潜行者：异常》将经典游戏加入画面升级和互动效果](https://www.3dmgame.com/news/202403/3890713.html)
+
++ [《杀手2》RTX Remix MOD展示画面提升效果](https://www.3dmgame.com/news/202403/3890716.html)
+
++ [淘宝宣布开启新疆包邮计划 已上线专属频道](https://www.3dmgame.com/news/202403/3890715.html)
+
++ [男生患桃花癫感觉全校女生喜欢自己 医生：春季多发](https://www.3dmgame.com/news/202403/3890714.html)
+
++ [《辐射》电视剧导演直言 讨好游戏玩家是件徒劳无功之事](https://www.3dmgame.com/news/202403/3890712.html)
+
++ [《极品飞车：最高通缉》虚幻引擎5自制版新视频](https://www.3dmgame.com/news/202403/3890711.html)
+
++ [《漫威蜘蛛侠2》非官方PC移植版与PS5版本对比](https://www.3dmgame.com/news/202403/3890710.html)
+
++ [《No Plan B》4月3日Steam正式推出 战术小组策略突袭](https://www.3dmgame.com/news/202403/3890709.html)
+

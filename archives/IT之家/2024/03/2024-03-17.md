@@ -31,3 +31,5 @@
 
 + [66.8 万元起，路特斯首款纯电动大型轿跑车“EMEYA 繁花”开启交付](https://m.ithome.com/html/756140.htm)
 
++ [创维推出 4K + 星闪机顶盒，华为星闪技术首次应用于机顶盒领域](https://m.ithome.com/html/756176.htm)
+

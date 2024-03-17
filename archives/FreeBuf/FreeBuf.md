@@ -47,3 +47,5 @@
 
 + [TLS协议基本原理与Wireshark分析](https://www.freebuf.com/articles/network/392676.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
