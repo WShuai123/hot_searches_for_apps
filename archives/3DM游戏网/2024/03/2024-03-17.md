@@ -109,3 +109,13 @@
 
 + [Bungie经典科幻FPS《马拉松》即将登陆PC](https://www.3dmgame.com/news/202403/3890698.html)
 
++ [《HANGRY》Steam页面上线 异世界美食RPG](https://www.3dmgame.com/news/202403/3890704.html)
+
++ [《光环》新作将采用虚幻引擎 343正大举招募关键职位](https://www.3dmgame.com/news/202403/3890705.html)
+
++ [《黑暗之魂3》超大型MOD“远古王座”发布试玩版](https://www.3dmgame.com/news/202403/3890706.html)
+
++ [诺兰称赞《哥斯拉-1.0》是一部“了不起的”电影](https://www.3dmgame.com/news/202403/3890703.html)
+
++ [《DOTA2》精英联赛 中东赛区Nigma战队晋级](https://www.3dmgame.com/news/202403/3890702.html)
+
