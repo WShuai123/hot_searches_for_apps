@@ -175,3 +175,9 @@
 
 + [【网络原理】TCP 协议中比较重要的一些特性（三）](https://blog.csdn.net/zzzzzhxxx/article/details/136597348)
 
++ [web安全——sql注入漏洞知识点总结](https://blog.csdn.net/weixin_61967363/article/details/136767523)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/136771527)
+
++ [【计算机网络】https的工作原理以及和http的区别](https://blog.csdn.net/LikewaterwithLi/article/details/136746139)
+

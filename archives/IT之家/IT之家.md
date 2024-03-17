@@ -45,3 +45,5 @@
 
 + [全新极氪 001 车型大定突破 20000 台：全系标配 800V 平台，26.9 万元起](https://m.ithome.com/html/756200.htm)
 
++ [消息称荣耀 Magic6 RSR 保时捷设计手机屏幕手动亮度 1000nit，有望采用 4320Hz PWM 调光方案](https://m.ithome.com/html/756177.htm)
+
