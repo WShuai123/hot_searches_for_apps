@@ -119,3 +119,7 @@
 
 + [《DOTA2》精英联赛 中东赛区Nigma战队晋级](https://www.3dmgame.com/news/202403/3890702.html)
 
++ [《七日血月》Steam页面上线《七日杀》工作室全新作、](https://www.3dmgame.com/news/202403/3890708.html)
+
++ [黑曜石《天外世界》《天外世界2》首席环境美工去世](https://www.3dmgame.com/news/202403/3890707.html)
+
