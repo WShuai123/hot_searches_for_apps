@@ -165,3 +165,7 @@
 
 + [《双截龙外传》免费DLC公布 加入在线合作游戏模式](https://www.3dmgame.com/news/202403/3890729.html)
 
++ [除了Xbox版之外，爆料称《女神异闻录6》还将登陆NS2](https://www.3dmgame.com/news/202403/3890731.html)
+
++ [业界伟人鸟山明与宫崎骏 影响力如何之深远探究](https://www.3dmgame.com/news/202403/3890730.html)
+

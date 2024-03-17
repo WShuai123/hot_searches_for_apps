@@ -185,3 +185,7 @@
 
 + [【开源】SpringBoot框架开发房屋出售出租系统](https://blog.csdn.net/askf01/article/details/136771530)
 
++ [挑战杯 机器视觉的试卷批改系统 - opencv python 视觉识别](https://blog.csdn.net/laafeer/article/details/136762400)
+
++ [spring boot3登录开发-微信小程序用户登录设计与实现](https://blog.csdn.net/qq_62262918/article/details/136660347)
+
