@@ -25,3 +25,5 @@
 
 + [中国银联宣布投入 30 亿元改进支付基础设施，提供刷卡、扫码、ATM 取现等综合支付解决方案](https://m.ithome.com/html/756186.htm)
 
++ [“Apple ID”将成历史，消息称苹果将在 iOS 18 中启用“苹果账户”名称](https://m.ithome.com/html/756296.htm)
+

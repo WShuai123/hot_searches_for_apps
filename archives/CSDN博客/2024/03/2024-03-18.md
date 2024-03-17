@@ -101,3 +101,9 @@
 
 + [uniapp——第2篇：编写vue语法](https://blog.csdn.net/m0_73991249/article/details/136703321)
 
++ [大模型机器人的爆发时刻：OpenAI参与打造的Figure 01——直接口头让机器人整理桌面](https://blog.csdn.net/v_JULY_v/article/details/136773017)
+
++ [Docker 解析：使用 Dockerfile 自动构建镜像](https://blog.csdn.net/rubys007/article/details/136750840)
+
++ [外包干了28天，技术退步明显......](https://blog.csdn.net/m0_65111097/article/details/136769300)
+
