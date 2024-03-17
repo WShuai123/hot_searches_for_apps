@@ -177,3 +177,5 @@
 
 + [PS5 Pro可能是《GTA6》登陆PC前最好的游玩平台](https://www.3dmgame.com/news/202403/3890735.html)
 
++ [新《超人》电影将全程采用IMAX格式拍摄](https://www.3dmgame.com/news/202403/3890736.html)
+

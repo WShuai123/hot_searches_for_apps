@@ -61,3 +61,7 @@
 
 + [vivo X Fold3 系列折叠屏手机官图发布：高管称-30℃低温使用无压力](https://m.ithome.com/html/756218.htm)
 
++ [16G+256G 版立减 540 元：vivo X100 手机 3759 元京东新低速抢](https://m.ithome.com/html/756223.htm)
+
++ [产能暴砍 30%，日本车倍感压力](https://m.ithome.com/html/756219.htm)
+
