@@ -51,3 +51,5 @@
 
 + [钓鱼揭秘之谷歌虚假广告钓鱼](https://www.freebuf.com/articles/blockchain-articles/394602.html)
 
++ [EasyEASM：一款功能强大的外部资产与攻击面管理工具](https://www.freebuf.com/sectool/392314.html)
+
