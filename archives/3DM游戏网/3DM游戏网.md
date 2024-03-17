@@ -171,3 +171,7 @@
 
 + [美国观众在影院做出不雅行为 已被警方逮捕](https://www.3dmgame.com/news/202403/3890732.html)
 
++ [《光环：无限》将于3月19日更新 加入EAC反作弊系统](https://www.3dmgame.com/news/202403/3890734.html)
+
++ [《完美音浪》PS5版现已开启预载 容量15.5GB](https://www.3dmgame.com/news/202403/3890733.html)
+
