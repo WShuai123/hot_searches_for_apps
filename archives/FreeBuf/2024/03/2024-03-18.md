@@ -51,3 +51,7 @@
 
 + [网安攻防 | 2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
 
++ [快餐业巨头系统宕机，因第三方供应商更改失误造成](https://www.freebuf.com/news/395076.html)
+
++ [谷歌升级 Safe Browsing，为用户增强实时 URL 保护](https://www.freebuf.com/news/395061.html)
+

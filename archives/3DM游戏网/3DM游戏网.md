@@ -155,3 +155,13 @@
 
 + [《Dark and Darker》上架Epic商城 侵权纠纷仍未完结](https://www.3dmgame.com/news/202403/3890754.html)
 
++ [《地平线：西之绝境》国行版3月21日发售 售价299元](https://www.3dmgame.com/news/202403/3890770.html)
+
++ [《异形：罗穆卢斯》最新剧透曝光：新抱脸虫登场](https://www.3dmgame.com/news/202403/3890767.html)
+
++ [中科院院士称燃油车比电动车自燃率高 日常PK新闻](https://www.3dmgame.com/news/202403/3890769.html)
+
++ [Techland表示《消逝的光芒2》跨平台游戏“仍然是一个选择”](https://www.3dmgame.com/news/202403/3890768.html)
+
++ [横版卷轴解谜平台游戏《动物井》宣布5月9日发售 支持中文](https://www.3dmgame.com/news/202403/3890766.html)
+

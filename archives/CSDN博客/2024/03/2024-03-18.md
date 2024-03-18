@@ -161,3 +161,9 @@
 
 + [【计算机网络】什么是http？](https://blog.csdn.net/LikewaterwithLi/article/details/136735481)
 
++ [【全面了解自然语言处理三大特征提取器】RNN（LSTM）、transformer（注意力机制）、CNN](https://blog.csdn.net/weixin_45929355/article/details/136616516)
+
++ [如何学习一个大型分布式Java项目](https://blog.csdn.net/m0_37817220/article/details/136787613)
+
++ [数学与计算机（2）- 线性代数](https://blog.csdn.net/qq_36349997/article/details/136790332)
+
