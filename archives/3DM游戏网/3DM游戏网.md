@@ -103,3 +103,7 @@
 
 + [中世纪种田模拟《Mirthwood》新预告 年内发售](https://www.3dmgame.com/news/202403/3890806.html)
 
++ [解救慵懒散的世界《躺平了》现已正式上市](https://www.3dmgame.com/news/202403/3890808.html)
+
++ [超英策略游戏《神奇英侠》确定5月发售](https://www.3dmgame.com/news/202403/3890807.html)
+
