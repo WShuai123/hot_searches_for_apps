@@ -139,3 +139,25 @@
 
 + [解决ubuntu 22.04新内核6.5.0-15无法编译NVIDIA显卡驱动](https://blog.csdn.net/qq_28356373/article/details/136746520)
 
++ [哔哩哔哩秋招Java二面](https://blog.csdn.net/qq_51118755/article/details/136725458)
+
++ [C到C++的敲门砖-1](https://blog.csdn.net/Fy10030629/article/details/136773625)
+
++ [深度序列模型与自然语言处理：基于TensorFlow2实践](https://blog.csdn.net/m0_68111267/article/details/136758103)
+
++ [2024三掌柜赠书活动第十六期：AI时代Python金融大数据分析实战](https://blog.csdn.net/CC1991_/article/details/136742148)
+
++ [【FPGA/IC】什么是模块化设计？](https://blog.csdn.net/wuzhikaidetb/article/details/136796289)
+
++ [【prometheus】k8s集群部署prometheus server(文末送书)](https://blog.csdn.net/qq_35995514/article/details/136783153)
+
++ [【MySQL】MySQL事务](https://blog.csdn.net/qq_67582098/article/details/136789460)
+
++ [谈谈IC、ASIC、SoC、MPU、MCU、CPU、GPU、DSP、FPGA、CPLD的简介](https://blog.csdn.net/qq_39567970/article/details/136792949)
+
++ [机器视觉学习（五）—— 图像的几何](https://blog.csdn.net/qq_74375828/article/details/136793224)
+
++ [前端项目部署后，如何提示用户版本更新](https://blog.csdn.net/qq_38951259/article/details/136739490)
+
++ [【计算机网络】什么是http？](https://blog.csdn.net/LikewaterwithLi/article/details/136735481)
+

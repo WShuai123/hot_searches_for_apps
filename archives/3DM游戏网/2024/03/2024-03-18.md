@@ -125,3 +125,33 @@
 
 + [前顽皮狗开发者：《GTA6》比《最后的生还者2》好多了 PS5可以跑60FPS](https://www.3dmgame.com/news/202403/3890747.html)
 
++ [《最终幻想7：重生》3D同人图 蒂法爱丽丝尤菲太性感](https://www.3dmgame.com/news/202403/3890763.html)
+
++ [手游《女神异闻录：夜幕魅影》公测定档4月12日](https://www.3dmgame.com/news/202403/3890764.html)
+
++ [新版《神秘博士》第一季公布预告片 5月10日首播于迪士尼+](https://www.3dmgame.com/news/202403/3890762.html)
+
++ [虚拟偶像凑阿库娅专属恋爱游戏《AQUARIUM》确定制作](https://www.3dmgame.com/news/202403/3890765.html)
+
++ [《妮姬：胜利女神》谢芙蒂手办：超可爱 欧派傲人](https://www.3dmgame.com/news/202403/3890761.html)
+
++ [新作《饿狼传说：狼之城》宣布2025年初发售 平台待定](https://www.3dmgame.com/news/202403/3890760.html)
+
++ [《我的世界》公布新武器狼牙棒 将于1.21更新上线](https://www.3dmgame.com/news/202403/3890759.html)
+
++ [想疯了！玩家自制《血源》《荒野大镖客：救赎》Steam页面](https://www.3dmgame.com/news/202403/3890758.html)
+
++ [《传奇》开发商MMO新作发布三天 收入破千万美元](https://www.3dmgame.com/news/202403/3890757.html)
+
++ [还能更可怕？《最终幻想7：重生》的莫古利“入侵”《龙之信条2》](https://www.3dmgame.com/news/202403/3890756.html)
+
++ [Fami通电击游戏大奖2023获奖名单公布 《塞尔达传说：王国之泪》斩获年度最佳](https://www.3dmgame.com/news/202403/3890753.html)
+
++ [《星球大战：前线 经典合集》使用第三方MOD 但未署名作者](https://www.3dmgame.com/news/202403/3890752.html)
+
++ [《星际公民》1.0版或将来临 12年众筹到6.69亿美元](https://www.3dmgame.com/news/202403/3890751.html)
+
++ [PS5 Pro更多规格外泄：CPU、内存带宽小幅度提升](https://www.3dmgame.com/news/202403/3890755.html)
+
++ [《Dark and Darker》上架Epic商城 侵权纠纷仍未完结](https://www.3dmgame.com/news/202403/3890754.html)
+

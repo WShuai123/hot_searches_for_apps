@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 非洲海底光缆发生故障；中央网信办部署开展24年“清朗”专项行动](https://www.freebuf.com/news/394979.html)
 
++ [网安攻防 | 2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
+

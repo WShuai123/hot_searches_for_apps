@@ -33,3 +33,7 @@
 
 + [16.98 万元起，长安马自达 CX-50 行也 2.5L 畅行版 SUV 车型上市](https://m.ithome.com/html/756250.htm)
 
++ [消息称苹果 iPhone SE 4 明年推出，折叠屏手机 / iPad 及 AR 眼镜定档 2026 年后](https://m.ithome.com/html/756293.htm)
+
++ [消息称 SpaceX 正为美国情报机构建设间谍卫星网络，可全天候监控地球](https://m.ithome.com/html/756299.htm)
+
