@@ -27,3 +27,5 @@
 
 + [9999 元：荣耀 Magic6 RSR 保时捷设计手机发布，提供冰莓粉、玛瑙灰配色](https://m.ithome.com/html/756511.htm)
 
++ [小米汽车 SU7 被质疑空间小，卢伟冰发视频回应](https://m.ithome.com/html/756528.htm)
+
