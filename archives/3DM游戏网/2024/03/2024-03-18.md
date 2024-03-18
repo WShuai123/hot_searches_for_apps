@@ -227,3 +227,7 @@
 
 + [《小丑牌》发售一个月 销量超过了100万套](https://www.3dmgame.com/news/202403/3890799.html)
 
++ [功耗要超1000W！RTX 5090用的架构来了](https://www.3dmgame.com/news/202403/3890802.html)
+
++ [《百英雄传》NS实体版延期约一个月发售 5月21日](https://www.3dmgame.com/news/202403/3890803.html)
+
