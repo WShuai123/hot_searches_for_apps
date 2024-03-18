@@ -215,3 +215,5 @@
 
 + [别看不上国产！黄仁勋怕了 这就是NV将华为视为对手实力](https://www.3dmgame.com/news/202403/3890795.html)
 
++ [ASML已交付第三代EUV 可用于制造2nm芯片](https://www.3dmgame.com/news/202403/3890796.html)
+

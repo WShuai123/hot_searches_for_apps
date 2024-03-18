@@ -51,3 +51,21 @@
 
 + [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
++ [openai / grok](https://github.com/openai/grok)
+
++ [codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
+
++ [the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror)
+
++ [philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [marticliment / WingetUI](https://github.com/marticliment/WingetUI)
+
++ [KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
++ [OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
++ [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
+

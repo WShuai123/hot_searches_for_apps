@@ -199,3 +199,11 @@
 
 + [【Linux杂货铺】进程的基本概念](https://blog.csdn.net/jupangMZ/article/details/136791189)
 
++ [苹果MacOS电脑使用内网穿透轻松远程桌面本地Windows系统电脑](https://blog.csdn.net/YYDsis/article/details/136812074)
+
++ [如何在CentOS系统部署AMH主机面板并实现无公网IP远程连接](https://blog.csdn.net/qq_73017178/article/details/136811431)
+
++ [外包干了3天，技术明显进步。。。。。](https://blog.csdn.net/2301_77645573/article/details/136771706)
+
++ [Enterprise level safety function system 企业级安全功能系统快速开始 elsfs](https://blog.csdn.net/qq_37993490/article/details/136764869)
+
