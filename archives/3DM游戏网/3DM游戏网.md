@@ -107,3 +107,9 @@
 
 + [超英策略游戏《神奇英侠》确定5月发售](https://www.3dmgame.com/news/202403/3890807.html)
 
++ [美式漫画FPS《堕落王牌》发布正式游戏预告](https://www.3dmgame.com/news/202403/3890811.html)
+
++ [《浪人崛起》在日本发售18禁版本](https://www.3dmgame.com/news/202403/3890810.html)
+
++ [日式动作游戏《愚灵》发布BOSS战介绍视频](https://www.3dmgame.com/news/202403/3890809.html)
+
