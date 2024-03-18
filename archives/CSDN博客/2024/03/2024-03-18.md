@@ -167,3 +167,7 @@
 
 + [数学与计算机（2）- 线性代数](https://blog.csdn.net/qq_36349997/article/details/136790332)
 
++ [AIGC元年大模型发展现状手册](https://blog.csdn.net/sunbaigui/article/details/136799366)
+
++ [llama笔记：官方示例解析 example_chat_completion.py](https://blog.csdn.net/qq_40206371/article/details/136784994)
+

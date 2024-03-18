@@ -13,3 +13,5 @@
 
 + [当设计遇上AI——百度APP装扮体验AI创新探索](https://www.ui.cn/detail/662415.html)
 
++ [B端基础 | 全套WEB表单设计基础](https://www.ui.cn/detail/663082.html)
+

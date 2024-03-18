@@ -165,3 +165,11 @@
 
 + [横版卷轴解谜平台游戏《动物井》宣布5月9日发售 支持中文](https://www.3dmgame.com/news/202403/3890766.html)
 
++ [马斯克锐评Sweet Baby Inc：是游戏行业的邪恶祸根](https://www.3dmgame.com/news/202403/3890773.html)
+
++ [比特币上演“高台跳水” 超过16.62万投资者被爆仓](https://www.3dmgame.com/news/202403/3890774.html)
+
++ [《Apex英雄》国际大赛出现被作弊问题 官方决定延期](https://www.3dmgame.com/news/202403/3890772.html)
+
++ [3D平台动作冒险游戏《永在心间》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890771.html)
+
