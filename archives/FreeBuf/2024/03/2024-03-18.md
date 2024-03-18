@@ -57,3 +57,7 @@
 
 + [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
 
++ [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html)
+
++ [麦当劳全球数千家店宕机数小时，第三方供应商私自修改](https://www.freebuf.com/news/395076.html)
+

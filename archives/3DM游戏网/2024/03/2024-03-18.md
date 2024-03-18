@@ -173,3 +173,9 @@
 
 + [3D平台动作冒险游戏《永在心间》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890771.html)
 
++ [有违设计“常识”？《星刃》裸色服装有Debuff 无法启用护盾](https://www.3dmgame.com/news/202403/3890777.html)
+
++ [《Holo X Break》Steam页面上线 横版动作新游](https://www.3dmgame.com/news/202403/3890776.html)
+
++ [报道称因PSVR2销量下滑库存积压 索尼已暂停生产](https://www.3dmgame.com/news/202403/3890775.html)
+

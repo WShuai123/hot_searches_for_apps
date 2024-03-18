@@ -171,3 +171,13 @@
 
 + [llama笔记：官方示例解析 example_chat_completion.py](https://blog.csdn.net/qq_40206371/article/details/136784994)
 
++ [【系统性】 循序渐进学C++](https://blog.csdn.net/m0_69311549/article/details/136793335)
+
++ [Qt/C++监控推流设备推流/延迟极低/实时性极高/rtsp/rtmp推流/hls/flv/webrtc拉流/调整分辨率降低带宽](https://blog.csdn.net/feiyangqingyun/article/details/136777902)
+
++ [Python深度学习之路：TensorFlow与PyTorch对比【第140篇—Python实现】](https://blog.csdn.net/weixin_52908342/article/details/136773628)
+
++ [半导体行业中IC、ASIC、SoC、MPU、MCU、CPU、GPU、DSP、FPGA、CPLD的简介](https://blog.csdn.net/qq_39567970/article/details/136792949)
+
++ [Redis数据存储的细节](https://blog.csdn.net/sytdsqzr/article/details/136784995)
+

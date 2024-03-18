@@ -41,3 +41,7 @@
 
 + [工信部副部长：遏制新能源汽车产业盲目投资、重复建设，严打不正当竞争行为](https://m.ithome.com/html/756242.htm)
 
++ [骁龙 8s Gen 3 处理器提前曝光：3.01GHz X4 超大核，支持生成式 AI](https://m.ithome.com/html/756357.htm)
+
++ [Gurman：苹果 Apple Watch Series 10 将支持血压监测，秋季发布](https://m.ithome.com/html/756298.htm)
+
