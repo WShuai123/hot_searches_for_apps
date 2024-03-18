@@ -183,3 +183,9 @@
 
 + [计算机网络的概念](https://blog.csdn.net/hangweijie/article/details/136780288)
 
++ [RabbitMQ的幂等性、优先级队列和惰性队列](https://blog.csdn.net/m0_64074924/article/details/136804618)
+
++ [【机器学习】详细解析Sklearn中的StandardScaler---原理、应用、源码与注意事项](https://blog.csdn.net/qq_41813454/article/details/136796545)
+
++ [Java发送邮件 SpringBoot](https://blog.csdn.net/weixin_46533577/article/details/136782734)
+

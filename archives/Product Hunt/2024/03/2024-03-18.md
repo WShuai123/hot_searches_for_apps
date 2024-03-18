@@ -159,3 +159,7 @@
 
 + [Green Pony](https://www.producthunt.com/posts/green-pony)
 
++ [SubscribeWorthy](https://www.producthunt.com/posts/subscribeworthy)
+
++ [Upscale.Media Plugins Suite](https://www.producthunt.com/posts/upscale-media-plugins-suite)
+

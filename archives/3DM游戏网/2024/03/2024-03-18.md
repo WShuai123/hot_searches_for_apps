@@ -181,3 +181,15 @@
 
 + [平台冒险游戏《萝丝与洛克》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890778.html)
 
++ [赛力斯总裁：问界M9太智能了 用户投诉很多功能不会用](https://www.3dmgame.com/news/202403/3890784.html)
+
++ [KK对战平台RPG地图淘金计划震撼开启  《爆战兄弟》三大活动瓜分现金大奖](https://www.3dmgame.com/news/202403/3890783.html)
+
++ [KK对战平台人气地图推荐 热门作者再度出手，三生视界延续传奇！](https://www.3dmgame.com/news/202403/3890782.html)
+
++ [传闻：漫威新游戏《漫威1943：九头蛇崛起》泄露 二战背景黑豹加美国队长](https://www.3dmgame.com/news/202403/3890781.html)
+
++ [KK对战平台新图推荐  “源神”少女次元生存，百变英雄暴走进化！](https://www.3dmgame.com/news/202403/3890780.html)
+
++ [传说系列资深角色设计插画师去世 曾参与高达DQ作品创作](https://www.3dmgame.com/news/202403/3890779.html)
+

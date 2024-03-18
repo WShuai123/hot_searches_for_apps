@@ -67,3 +67,5 @@
 
 + [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html)
 
++ [红队——多层内网环境渗透测试（三）](https://www.freebuf.com/defense/382534.html)
+
