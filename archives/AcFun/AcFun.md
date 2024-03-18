@@ -69,3 +69,7 @@
 
 + [小短腿蹦迪！](http://www.acfun.cn/v/ac44026875)
 
++ [《动物迷惑行为大赏197》](http://www.acfun.cn/v/ac44056281)
+
++ [鱼log之我家的锅会唱歌！](http://www.acfun.cn/v/ac44056650)
+

@@ -45,3 +45,7 @@
 
 + [网安攻防之2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
 
++ [深度解读《工业领域数据安全能力提升实施方案》](https://www.freebuf.com/articles/database/393616.html)
+
++ [FreeBuf早报 | 非洲海底光缆发生故障；中央网信办部署开展24年“清朗”专项行动](https://www.freebuf.com/news/394979.html)
+

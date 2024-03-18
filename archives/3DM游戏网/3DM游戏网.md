@@ -117,3 +117,11 @@
 
 + [《战地2042》第七赛季全新地图实机截图 明天上线](https://www.3dmgame.com/news/202403/3890745.html)
 
++ [公布五年之后 开发商称《空洞骑士：丝绸之歌》仍在开发中](https://www.3dmgame.com/news/202403/3890750.html)
+
++ [索尼官推最受欢迎PS游戏票选 《血源诅咒》未进入名单](https://www.3dmgame.com/news/202403/3890749.html)
+
++ [鸟山明《沙漠大冒险》新预告公开 3月20日迪士尼+独占发布](https://www.3dmgame.com/news/202403/3890748.html)
+
++ [前顽皮狗开发者：《GTA6》比《最后的生还者2》好多了 PS5可以跑60FPS](https://www.3dmgame.com/news/202403/3890747.html)
+

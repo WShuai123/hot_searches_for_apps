@@ -31,3 +31,5 @@
 
 + [ChatGPT 参数规模被扒：只有 7B](https://m.ithome.com/html/756240.htm)
 
++ [16.98 万元起，长安马自达 CX-50 行也 2.5L 畅行版 SUV 车型上市](https://m.ithome.com/html/756250.htm)
+
