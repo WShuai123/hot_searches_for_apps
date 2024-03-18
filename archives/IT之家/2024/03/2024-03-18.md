@@ -45,3 +45,7 @@
 
 + [Gurman：苹果 Apple Watch Series 10 将支持血压监测，秋季发布](https://m.ithome.com/html/756298.htm)
 
++ [比亚迪护卫舰 07 荣耀版车型上市，售价 17.98 万元起](https://m.ithome.com/html/756323.htm)
+
++ [宁德时代：首个基于磷酸铁锂电池的滑板底盘产品将于下半年量产](https://m.ithome.com/html/756291.htm)
+

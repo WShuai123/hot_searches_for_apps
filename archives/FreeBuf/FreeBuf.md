@@ -61,3 +61,9 @@
 
 + [麦当劳全球数千家店宕机数小时，第三方供应商私自修改](https://www.freebuf.com/news/395076.html)
 
++ [如何使用Logsensor快速识别登录面板和POST表单SQLi缺陷](https://www.freebuf.com/sectool/392026.html)
+
++ [网传 AT&T 泄露 7100 万用户数据，该公司多次否认](https://www.freebuf.com/news/395109.html)
+
++ [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html)
+

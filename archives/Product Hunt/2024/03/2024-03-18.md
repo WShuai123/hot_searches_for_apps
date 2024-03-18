@@ -103,3 +103,59 @@
 
 + [Tailor](https://www.producthunt.com/posts/tailor-78fc1f19-962e-4158-808c-dce6e26f28d1)
 
++ [ChatGPT Super Prompt Generator](https://www.producthunt.com/posts/chatgpt-super-prompt-generator)
+
++ [App Lock - Apps Blocker](https://www.producthunt.com/posts/app-lock-apps-blocker)
+
++ [Grok-1](https://www.producthunt.com/posts/grok-1)
+
++ [Beesly AI](https://www.producthunt.com/posts/beesly-ai)
+
++ [FikraHub](https://www.producthunt.com/posts/fikrahub)
+
++ [Worbler AI](https://www.producthunt.com/posts/worbler-ai)
+
++ [Next Starter AI](https://www.producthunt.com/posts/next-starter-ai)
+
++ [SplitPay - Simplify Group Payments](https://www.producthunt.com/posts/splitpay-simplify-group-payments)
+
++ [Aide](https://www.producthunt.com/posts/aide)
+
++ [Blink Eye](https://www.producthunt.com/posts/blink-eye)
+
++ [Will AI replace me?](https://www.producthunt.com/posts/will-ai-replace-me)
+
++ [SmartTab](https://www.producthunt.com/posts/smarttab)
+
++ [Beyond Earth: Life Simulation](https://www.producthunt.com/posts/beyond-earth-life-simulation)
+
++ [Savemygreen](https://www.producthunt.com/posts/savemygreen)
+
++ [OptiPrice](https://www.producthunt.com/posts/optiprice)
+
++ [OddsView](https://www.producthunt.com/posts/oddsview)
+
++ [Video Dubbing](https://www.producthunt.com/posts/video-dubbing)
+
++ [OutVision](https://www.producthunt.com/posts/outvision)
+
++ [CVtoBlind](https://www.producthunt.com/posts/cvtoblind)
+
++ [Factiverse GPT](https://www.producthunt.com/posts/factiverse-gpt-2)
+
++ [Poppins](https://www.producthunt.com/posts/poppins-2)
+
++ [UNUM AI (Your Social Media Copilot)](https://www.producthunt.com/posts/unum-ai-your-social-media-copilot)
+
++ [SaaS AI](https://www.producthunt.com/posts/saas-ai)
+
++ [AI Article Writer 6.0](https://www.producthunt.com/posts/ai-article-writer-6-0-2)
+
++ [TeamCity Pipelines (beta)](https://www.producthunt.com/posts/teamcity-pipelines-beta)
+
++ [Chaturji](https://www.producthunt.com/posts/chaturji)
+
++ [Sequence](https://www.producthunt.com/posts/sequence-3)
+
++ [Green Pony](https://www.producthunt.com/posts/green-pony)
+

@@ -179,3 +179,5 @@
 
 + [报道称因PSVR2销量下滑库存积压 索尼已暂停生产](https://www.3dmgame.com/news/202403/3890775.html)
 
++ [平台冒险游戏《萝丝与洛克》现已推出试玩Demo](https://www.3dmgame.com/news/202403/3890778.html)
+
