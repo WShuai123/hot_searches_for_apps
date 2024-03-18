@@ -67,3 +67,17 @@
 
 + [The Monocronies 02.](https://dribbble.com/shots/)
 
++ [Dieselpunk USA Blimp](https://dribbble.com/shots/)
+
++ [Y2K](https://dribbble.com/shots/)
+
++ [Damn Good Interiors Brand Design](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustration](https://dribbble.com/shots/)
+
++ [Khraungbin Poster Illustration](https://dribbble.com/shots/)
+
++ [Hangar Sisters Patch Mockup](https://dribbble.com/shots/)
+
++ [Ranch Water](https://dribbble.com/shots/)
+
