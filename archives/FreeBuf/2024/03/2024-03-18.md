@@ -41,3 +41,7 @@
 
 + [制造业信息安全实践——企业信息安全运营规划](https://www.freebuf.com/articles/security-management/393411.html)
 
++ [FreeBuf 早报 | 中央网信办部署开展2024年“清朗”系列专项行动；非洲海底光缆发生故障](https://www.freebuf.com/news/394979.html)
+
++ [网安攻防之2024年社会工程学分析](https://www.freebuf.com/articles/neopoints/393869.html)
+

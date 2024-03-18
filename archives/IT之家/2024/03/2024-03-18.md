@@ -27,3 +27,7 @@
 
 + [“Apple ID”将成历史，消息称苹果将在 iOS 18 中启用“苹果账户”名称](https://m.ithome.com/html/756296.htm)
 
++ [散热底座 + 导热垫加持后，苹果 M3 MacBook Air 性能超 M3 MacBook Pro](https://m.ithome.com/html/756280.htm)
+
++ [ChatGPT 参数规模被扒：只有 7B](https://m.ithome.com/html/756240.htm)
+

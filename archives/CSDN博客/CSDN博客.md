@@ -131,3 +131,11 @@
 
 + [外包干了10天，技术退步明显。。。。。](https://blog.csdn.net/yjt2045263063/article/details/136771413)
 
++ [【机器学习-01】机器学习基本概念与建模流程](https://blog.csdn.net/qq_38614074/article/details/136731713)
+
++ [分布式与集群，二者区别是什么？](https://blog.csdn.net/CSBIGDOG/article/details/136625375)
+
++ [【Vue3】Vue3中路由规则的 props 配置](https://blog.csdn.net/null18/article/details/136749309)
+
++ [解决ubuntu 22.04新内核6.5.0-15无法编译NVIDIA显卡驱动](https://blog.csdn.net/qq_28356373/article/details/136746520)
+
