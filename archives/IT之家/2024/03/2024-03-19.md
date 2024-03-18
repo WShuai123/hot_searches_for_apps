@@ -25,3 +25,5 @@
 
 + [成龙惊喜亮相荣耀 2024 春季旗舰新品发布会](https://m.ithome.com/html/756512.htm)
 
++ [9999 元：荣耀 Magic6 RSR 保时捷设计手机发布，提供冰莓粉、玛瑙灰配色](https://m.ithome.com/html/756511.htm)
+
