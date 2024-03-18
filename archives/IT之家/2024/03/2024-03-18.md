@@ -61,3 +61,5 @@
 
 + [IT之家实拍：小米卢伟冰驾驶 SU7 Max 参加第三代骁龙 8s 发布会引围观](https://m.ithome.com/html/756433.htm)
 
++ [荣耀 Magic6 至臻版 / RSR 保时捷设计两款手机价格曝光：8999-16999 元](https://m.ithome.com/html/756353.htm)
+

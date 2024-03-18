@@ -217,3 +217,7 @@
 
 + [ASML已交付第三代EUV 可用于制造2nm芯片](https://www.3dmgame.com/news/202403/3890796.html)
 
++ [《新九品芝麻官》首日票房仅千元 新旧版对比](https://www.3dmgame.com/news/202403/3890798.html)
+
++ [《女神异闻录6》将有双面剧情 有海量自定义DLC](https://www.3dmgame.com/news/202403/3890797.html)
+
