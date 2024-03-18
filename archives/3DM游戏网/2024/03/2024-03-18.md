@@ -211,3 +211,7 @@
 
 + [《水果山》登陆Steam 仿西瓜游戏新游玩法新颖](https://www.3dmgame.com/news/202403/3890792.html)
 
++ [前《战地》总监回应离职：对EA没什么好印象 只有苦难](https://www.3dmgame.com/news/202403/3890794.html)
+
++ [别看不上国产！黄仁勋怕了 这就是NV将华为视为对手实力](https://www.3dmgame.com/news/202403/3890795.html)
+

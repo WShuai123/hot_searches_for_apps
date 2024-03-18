@@ -59,3 +59,5 @@
 
 + [苹果 2024 款 iPad Air / Pro 平板电脑有望 3 月 26 日发布，亚马逊已出现大批保护套](https://m.ithome.com/html/756324.htm)
 
++ [IT之家实拍：小米卢伟冰驾驶 SU7 Max 参加第三代骁龙 8s 发布会引围观](https://m.ithome.com/html/756433.htm)
+

@@ -195,3 +195,7 @@
 
 + [文献学习-19-基于dVRK平台的机器人柔性内窥镜的外科医生偏好引导自主器械跟踪方法](https://blog.csdn.net/Metaphysicist/article/details/136790045)
 
++ [挑战杯 机器视觉目标检测 - opencv 深度学习](https://blog.csdn.net/laafeer/article/details/136781446)
+
++ [【Linux杂货铺】进程的基本概念](https://blog.csdn.net/jupangMZ/article/details/136791189)
+
