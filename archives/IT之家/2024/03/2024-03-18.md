@@ -55,3 +55,7 @@
 
 + [千台手机同时刷流量，贵州公安机关成功打掉一“网络水军”犯罪团伙](https://m.ithome.com/html/756300.htm)
 
++ [小米 Civi 4 Pro 手机全球首发骁龙 8s Gen 3 处理器，深度融合澎湃 OS](https://m.ithome.com/html/756408.htm)
+
++ [苹果 2024 款 iPad Air / Pro 平板电脑有望 3 月 26 日发布，亚马逊已出现大批保护套](https://m.ithome.com/html/756324.htm)
+
