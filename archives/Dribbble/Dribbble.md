@@ -49,3 +49,21 @@
 
 + [Sustainability](https://dribbble.com/shots/)
 
++ [Blossom (2024)](https://dribbble.com/shots/)
+
++ [NFT Collection, Abstract Character Design, Crypto Art](https://dribbble.com/shots/)
+
++ [Wood](https://dribbble.com/shots/)
+
++ [Toaster](https://dribbble.com/shots/)
+
++ [Pattern Illustrations](https://dribbble.com/shots/)
+
++ [ilcons Chapter 7 icons](https://dribbble.com/shots/)
+
++ [Eagle Logo](https://dribbble.com/shots/)
+
++ [Brand Concepts WIP](https://dribbble.com/shots/)
+
++ [The Monocronies 02.](https://dribbble.com/shots/)
+

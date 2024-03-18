@@ -101,3 +101,5 @@
 
 + [还能更可怕？《最终幻想7：重生》的莫古利“入侵”《龙之信条2》](https://www.3dmgame.com/news/202403/3890756.html)
 
++ [中世纪种田模拟《Mirthwood》新预告 年内发售](https://www.3dmgame.com/news/202403/3890806.html)
+
