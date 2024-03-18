@@ -175,3 +175,5 @@
 
 + [AI/ML API](https://www.producthunt.com/posts/ai-ml-api)
 
++ [Will AI Replace Me?](https://www.producthunt.com/posts/will-ai-replace-me)
+
