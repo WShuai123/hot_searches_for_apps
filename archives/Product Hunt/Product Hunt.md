@@ -163,3 +163,9 @@
 
 + [Upscale.Media Plugins Suite](https://www.producthunt.com/posts/upscale-media-plugins-suite)
 
++ [Modbox - Value Proposition Generator](https://www.producthunt.com/posts/modbox-value-proposition-generator)
+
++ [OneStream Live - Version 8.0.7](https://www.producthunt.com/posts/onestream-live-version-8-0-7)
+
++ [Listen2.AI](https://www.producthunt.com/posts/listen2-ai)
+

@@ -193,3 +193,17 @@
 
 + [传说系列资深角色设计插画师去世 曾参与高达DQ作品创作](https://www.3dmgame.com/news/202403/3890779.html)
 
++ [股价1年飙涨超12倍！AI浪潮下的超微电脑比英伟达还夸张](https://www.3dmgame.com/news/202403/3890791.html)
+
++ [LOL女装大佬Sneaky新照欣赏：白丝长腿 妩媚动人](https://www.3dmgame.com/news/202403/3890790.html)
+
++ [1200家公司裁员超26万人！美国科技行业裁员数量达20多年来最高](https://www.3dmgame.com/news/202403/3890789.html)
+
++ [《星刃》女主有物理抖动效果：很自然的表现](https://www.3dmgame.com/news/202403/3890788.html)
+
++ [苹果与谷歌就AI谈合作 欲将Gemini引入iPhone](https://www.3dmgame.com/news/202403/3890787.html)
+
++ [恐怖射击游戏《量子误差》续作《量子态》公布 发售日期待定](https://www.3dmgame.com/news/202403/3890786.html)
+
++ [《健身拳击2》联动《家庭教师》新DLC曲包3月21日发布](https://www.3dmgame.com/news/202403/3890785.html)
+

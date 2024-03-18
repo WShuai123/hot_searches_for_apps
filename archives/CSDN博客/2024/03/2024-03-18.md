@@ -189,3 +189,9 @@
 
 + [Java发送邮件 SpringBoot](https://blog.csdn.net/weixin_46533577/article/details/136782734)
 
++ [【机器学习】无监督学习：解锁数据中的潜在结构与关系](https://blog.csdn.net/m0_74195174/article/details/136801526)
+
++ [【SpringBoot篇】详解Bean的管理（获取bean，bean的作用域，第三方bean）](https://blog.csdn.net/m0_72853403/article/details/136805744)
+
++ [文献学习-19-基于dVRK平台的机器人柔性内窥镜的外科医生偏好引导自主器械跟踪方法](https://blog.csdn.net/Metaphysicist/article/details/136790045)
+
