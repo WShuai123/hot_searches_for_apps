@@ -211,3 +211,7 @@
 
 + [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+

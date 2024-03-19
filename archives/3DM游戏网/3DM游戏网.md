@@ -205,3 +205,7 @@
 
 + [SK海力士全球首家量产HBM3E内存 1秒处理超1TB数据](https://www.3dmgame.com/news/202403/3890852.html)
 
++ [《博德之门3》推出22号热修补丁 跨平台存档将再次可用](https://www.3dmgame.com/news/202403/3890858.html)
+
++ [为什么很多游戏厂商都愿用迅雷：有两大原因！](https://www.3dmgame.com/news/202403/3890859.html)
+
