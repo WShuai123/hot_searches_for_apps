@@ -57,3 +57,7 @@
 
 + [小米 MIX Flip 折叠屏手机曝光，搭载高通骁龙 8 Gen 3 芯片](https://m.ithome.com/html/756704.htm)
 
++ [英伟达 CEO 黄仁勋换了件皮衣：蜥蜴压花小牛皮，售价 8990 美元](https://m.ithome.com/html/756770.htm)
+
++ [周杰伦起诉网易一审败诉，法院驳回杰威尔 205 万元索赔等全部诉讼请求](https://m.ithome.com/html/756737.htm)
+
