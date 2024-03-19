@@ -275,3 +275,5 @@
 
 + [Epic商城从今年6月停止支持Win 7、8和32位Win 10](https://www.3dmgame.com/news/202403/3890889.html)
 
++ [XGP 3月下旬游戏公开 《暗黑破坏神4》3月28日上线](https://www.3dmgame.com/news/202403/3890893.html)
+
