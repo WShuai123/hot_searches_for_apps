@@ -81,3 +81,9 @@
 
 + [DevToys-app / DevToys](https://github.com/DevToys-app/DevToys)
 
++ [PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [qdrant / qdrant](https://github.com/qdrant/qdrant)
+
++ [microsoft / playwright](https://github.com/microsoft/playwright)
+

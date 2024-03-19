@@ -183,3 +183,9 @@
 
 + [Python炒股自动化（5）：通过接口查询订单，查询账户资产](https://blog.csdn.net/sohoqq/article/details/136812940)
 
++ [SpringMVC结合设计模式：解决MyBatisPlus传递嵌套JSON数据的难题](https://blog.csdn.net/m0_72803988/article/details/136801531)
+
++ [【好书推荐2】AI提示工程实战：从零开始利用提示工程学习应用大语言模型](https://blog.csdn.net/wtyuong/article/details/136845497)
+
++ [《Alleviating Matthew Effect of Offline Reinforcement Learningin Interactive Recommendation》代码复现笔记2.0](https://blog.csdn.net/m0_67197896/article/details/136843149)
+

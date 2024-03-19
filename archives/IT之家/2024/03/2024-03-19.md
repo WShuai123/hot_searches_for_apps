@@ -49,3 +49,11 @@
 
 + [小米汽车超级工厂正式揭幕](https://m.ithome.com/html/756749.htm)
 
++ [抖音 App 运营方更名抖音科技公司](https://m.ithome.com/html/756705.htm)
+
++ [苹果宣传云存储：即便 128GB 的 iPhone 15，也有充裕空间存储海量照片](https://m.ithome.com/html/756551.htm)
+
++ [英伟达发布最强 AI 加速卡--Blackwell GB200，今年发货](https://m.ithome.com/html/756542.htm)
+
++ [小米 MIX Flip 折叠屏手机曝光，搭载高通骁龙 8 Gen 3 芯片](https://m.ithome.com/html/756704.htm)
+
