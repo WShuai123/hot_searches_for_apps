@@ -157,3 +157,9 @@
 
 + [进程的概念 | PCB | Linux下的task_struct | 父子进程和子进程](https://blog.csdn.net/2301_76895050/article/details/136607051)
 
++ [解锁编程潜能：ChatGPT如何革新软件开发](https://blog.csdn.net/wjh_2510/article/details/136835365)
+
++ [我手写的轮子开源了](https://blog.csdn.net/qq_34905631/article/details/136822698)
+
++ [MATLAB教程](https://blog.csdn.net/weixin_44567668/article/details/136820342)
+

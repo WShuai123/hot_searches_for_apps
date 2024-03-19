@@ -25,3 +25,5 @@
 
 + [假未来](https://www.taptap.cn/app/233818)
 
++ [炽焰天穹](https://www.taptap.cn/app/584238)
+
