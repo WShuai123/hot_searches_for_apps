@@ -25,3 +25,5 @@
 
 + [英伟达发布最强 AI 加速卡--Blackwell GB200，今年发货](https://m.ithome.com/html/756542.htm)
 
++ [小米集团 2023 年营收 2709.7 亿元，经调整净利润大增 126.3%](https://m.ithome.com/html/756753.htm)
+

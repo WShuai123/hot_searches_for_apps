@@ -101,3 +101,5 @@
 
 + [Fotor AI](https://www.producthunt.com/posts/fotor-ai)
 
++ [CrawlQ AI Survey-Free Audience Research](https://www.producthunt.com/posts/crawlq-ai-survey-free-audience-research)
+

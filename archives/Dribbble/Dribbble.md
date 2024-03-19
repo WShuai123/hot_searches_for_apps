@@ -49,3 +49,29 @@
 
 + [Wild Isles](https://dribbble.com/shots/)
 
++ [Pattern Illustrations](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustration](https://dribbble.com/shots/)
+
++ [Ranger Station - Badges](https://dribbble.com/shots/)
+
++ [Figure illustrations - Chapter One](https://dribbble.com/shots/)
+
++ [Brand Concepts WIP](https://dribbble.com/shots/)
+
++ [Flower on Saturn - Logo Element](https://dribbble.com/shots/)
+
++ [A guy blowing bubble gum](https://dribbble.com/shots/)
+
++ [Roofs](https://dribbble.com/shots/)
+
++ [Hummingbird Illustration](https://dribbble.com/shots/)
+
++ [Protect What You Love artwork for Bigfoot](https://dribbble.com/shots/)
+
++ [Our Mother city](https://dribbble.com/shots/)
+
++ [Opulent Life](https://dribbble.com/shots/)
+
++ [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
+
