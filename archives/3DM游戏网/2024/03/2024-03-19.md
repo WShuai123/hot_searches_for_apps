@@ -265,3 +265,5 @@
 
 + [“买大浪费”！苹果：iPhone 15的128GB存储够用了](https://www.3dmgame.com/news/202403/3890887.html)
 
++ [《楚门的世界》《怒海争锋》导演彼得·威尔宣布退休](https://www.3dmgame.com/news/202403/3890888.html)
+

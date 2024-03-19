@@ -51,3 +51,33 @@
 
 + [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
 
++ [xai-org / grok-1](https://github.com/xai-org/grok-1)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)
+
++ [ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+
++ [albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
+
++ [Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac)
+
++ [continuedev / continue](https://github.com/continuedev/continue)
+
++ [laylavish / uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+
++ [yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph)
+
++ [adrianhajdin / iphone](https://github.com/adrianhajdin/iphone)
+
++ [google / jax](https://github.com/google/jax)
+
++ [plankanban / planka](https://github.com/plankanban/planka)
+
++ [FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [DevToys-app / DevToys](https://github.com/DevToys-app/DevToys)
+

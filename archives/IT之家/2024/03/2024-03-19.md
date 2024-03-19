@@ -47,3 +47,5 @@
 
 + [直降 900 元：Redmi K60 至尊版 16G+512G 款 2089 元清仓](https://m.ithome.com/html/756503.htm)
 
++ [小米汽车超级工厂正式揭幕](https://m.ithome.com/html/756749.htm)
+

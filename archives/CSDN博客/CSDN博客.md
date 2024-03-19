@@ -181,3 +181,5 @@
 
 + [在16G的GPU上微调Mixtral-8x7B](https://blog.csdn.net/m0_46510245/article/details/136830263)
 
++ [Python炒股自动化（5）：通过接口查询订单，查询账户资产](https://blog.csdn.net/sohoqq/article/details/136812940)
+

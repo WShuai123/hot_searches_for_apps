@@ -67,3 +67,5 @@
 
 + [红队实战小课，大考前充电｜实战攻防思路之企业纵深防御体系突破](https://www.freebuf.com/consult/395296.html)
 
++ [思科宣布完成对 Splunk 的收购](https://www.freebuf.com/news/395301.html)
+
