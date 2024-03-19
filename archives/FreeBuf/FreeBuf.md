@@ -41,3 +41,5 @@
 
 + [FreeBuf 周报 | Airbnb将禁止在房源内安装监控摄像头；宏碁又遭网络袭击](https://www.freebuf.com/news/394863.html)
 
++ [企业安全实践 | 初探互联网业务风控](https://www.freebuf.com/articles/neopoints/394726.html)
+
