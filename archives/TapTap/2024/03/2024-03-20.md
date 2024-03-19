@@ -21,3 +21,5 @@
 
 + [再玩亿关](https://www.taptap.cn/app/247977)
 
++ [奇蛋生物（TapTap测试版）](https://www.taptap.cn/app/591390)
+

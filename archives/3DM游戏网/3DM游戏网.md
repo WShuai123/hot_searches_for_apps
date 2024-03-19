@@ -103,3 +103,5 @@
 
 + [《鬼屋魔影：重制版》IGN 6分：没有特色和令人难忘的时刻](https://www.3dmgame.com/news/202403/3890897.html)
 
++ [Fami通给《浪人崛起》超高评价 进入白金殿堂](https://www.3dmgame.com/news/202403/3890898.html)
+
