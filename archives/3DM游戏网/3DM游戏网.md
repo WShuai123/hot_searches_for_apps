@@ -101,3 +101,5 @@
 
 + [米哈游公布涉《原神》私服 盗版手办等多个刑事判决](https://www.3dmgame.com/news/202403/3890845.html)
 
++ [《鬼屋魔影：重制版》IGN 6分：没有特色和令人难忘的时刻](https://www.3dmgame.com/news/202403/3890897.html)
+

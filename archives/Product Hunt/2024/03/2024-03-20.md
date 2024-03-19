@@ -103,3 +103,7 @@
 
 + [CrawlQ AI Survey-Free Audience Research](https://www.producthunt.com/posts/crawlq-ai-survey-free-audience-research)
 
++ [CalorieCounter.Pro](https://www.producthunt.com/posts/caloriecounter-pro)
+
++ [AI Launchpad](https://www.producthunt.com/posts/ai-launchpad)
+
