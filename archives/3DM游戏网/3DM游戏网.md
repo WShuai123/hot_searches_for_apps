@@ -263,3 +263,5 @@
 
 + [射击游戏《开炮吧长官》试玩页面 4月上线](https://www.3dmgame.com/news/202403/3890883.html)
 
++ [“买大浪费”！苹果：iPhone 15的128GB存储够用了](https://www.3dmgame.com/news/202403/3890887.html)
+

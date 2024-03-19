@@ -179,3 +179,5 @@
 
 + [计算机网络的组成](https://blog.csdn.net/hangweijie/article/details/136805564)
 
++ [在16G的GPU上微调Mixtral-8x7B](https://blog.csdn.net/m0_46510245/article/details/136830263)
+
