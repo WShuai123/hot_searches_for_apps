@@ -129,3 +129,7 @@
 
 + [【YOLOv9】实战一：在 Windows 上使用LabVIEW OpenVINO工具包部署YOLOv9实现实时目标检测（含源码）](https://blog.csdn.net/virobotics/article/details/136562437)
 
++ [【Linux】从零开始认识进程 — 中篇](https://blog.csdn.net/JLX_1/article/details/136810082)
+
++ [尚硅谷SQL|数据库的创建，修改与删除](https://blog.csdn.net/weixin_73795426/article/details/136694990)
+

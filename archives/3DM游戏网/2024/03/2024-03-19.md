@@ -129,3 +129,33 @@
 
 + [万代南梦宫《沙漠大冒险》试玩版提供下载](https://www.3dmgame.com/news/202403/3890812.html)
 
++ [《龙之信条2》开发者等待12年 终于加入了兽人种族](https://www.3dmgame.com/news/202403/3890833.html)
+
++ [HTC Vive商店分成新规：开发者将能获得9成收入](https://www.3dmgame.com/news/202403/3890830.html)
+
++ [备受赞誉的节奏动作游戏 《Hi-Fi RUSH》现已登陆PlayStation 5](https://www.3dmgame.com/news/202403/3890834.html)
+
++ [发售半年时间 《匹诺曹的谎言》全球玩家数超700万](https://www.3dmgame.com/news/202403/3890829.html)
+
++ [《卡牌探险：雨林迷踪》Steam页面上线 Q3发售](https://www.3dmgame.com/news/202403/3890832.html)
+
++ [动作冒险游戏《拉娜星球》即将登录Switch和PlayStation平台](https://www.3dmgame.com/news/202403/3890831.html)
+
++ [《鬼屋魔影：重制版》终极配置公布 明日上线](https://www.3dmgame.com/news/202403/3890828.html)
+
++ [D加密开发商宣布推出新技术 可追查游戏文件泄露事件](https://www.3dmgame.com/news/202403/3890826.html)
+
++ [欧洲2月榜：《绝地潜兵2》领头游戏销量强劲](https://www.3dmgame.com/news/202403/3890824.html)
+
++ [《鬼屋魔影》没有采用D加密 虚幻4引擎开发](https://www.3dmgame.com/news/202403/3890823.html)
+
++ [GOG将通过Amazon Luna添加云游戏支持](https://www.3dmgame.com/news/202403/3890822.html)
+
++ [V社：隆重推出Steam家庭整合功能](https://www.3dmgame.com/news/202403/3890821.html)
+
++ [《Queen of Dark》Steam抢先体验 开放世界刀剑战斗](https://www.3dmgame.com/news/202403/3890820.html)
+
++ [《OutlawZ : Headhunter》Steam上线 末日多人生存射击](https://www.3dmgame.com/news/202403/3890827.html)
+
++ [《辐射76》第16赛季详情公布 与泽西恶魔一决高下](https://www.3dmgame.com/news/202403/3890825.html)
+

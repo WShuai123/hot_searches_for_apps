@@ -43,3 +43,5 @@
 
 + [企业安全实践 | 初探互联网业务风控](https://www.freebuf.com/articles/neopoints/394726.html)
 
++ [2024全球智能汽车网络安全法规和监管分析](https://www.freebuf.com/articles/neopoints/395045.html)
+
