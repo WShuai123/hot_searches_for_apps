@@ -113,3 +113,5 @@
 
 + [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
 
++ [Hangar Sisters Alternative Logotype](https://dribbble.com/shots/)
+

@@ -237,3 +237,21 @@
 
 + [移动数据情报行业整合 Sensor Tower收购data.ai](https://www.3dmgame.com/news/202403/3890870.html)
 
++ [索尼要翻拍《你好李焕英》！网友洛杉矶偶遇贾玲](https://www.3dmgame.com/news/202403/3890882.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》连续六周登顶](https://www.3dmgame.com/news/202403/3890881.html)
+
++ [失眠组编剧支持多样性 《漫威金刚狼》或有LGBT元素](https://www.3dmgame.com/news/202403/3890880.html)
+
++ [奥特曼自曝全新GPT-5细节 性能跃升史诗级](https://www.3dmgame.com/news/202403/3890879.html)
+
++ [类银河城动作游戏《锈苔》大型内容更新6月20日上线 同步登陆主机平台](https://www.3dmgame.com/news/202403/3890878.html)
+
++ [《星刃》有100首原声配乐 40%来自尼尔作曲家](https://www.3dmgame.com/news/202403/3890877.html)
+
++ [《守望先锋2》前开发者：剧情关卡或无法继续开发](https://www.3dmgame.com/news/202403/3890876.html)
+
++ [别慌！蜜雪冰城回应涨价1元：尚未全国推广](https://www.3dmgame.com/news/202403/3890875.html)
+
++ [《公路警察模拟器》年内登陆多平台 开放世界警察日常](https://www.3dmgame.com/news/202403/3890874.html)
+

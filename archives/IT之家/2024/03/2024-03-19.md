@@ -43,3 +43,5 @@
 
 + [小米 SU7 内饰实车图曝光，3 月 28 日上市交付](https://m.ithome.com/html/756647.htm)
 
++ [赵明：华为品牌力国内最强是荣耀榜样，初代 Magic 是所有 AI 手机鼻祖](https://m.ithome.com/html/756533.htm)
+
