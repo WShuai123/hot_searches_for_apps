@@ -33,3 +33,7 @@
 
 + [荣耀 MagicBook Pro 16 价格正式公布：首销尊享价 5999 元起](https://m.ithome.com/html/756514.htm)
 
++ [16G+256G 仅 2239 元：Redmi K70 天猫限时新低（首发 2699 元）](https://m.ithome.com/html/756517.htm)
+
++ [每天 5 秒抽一次：天猫无门槛红包倒数发 3 天，面额至高 8888 元](https://m.ithome.com/html/756459.htm)
+

@@ -49,3 +49,9 @@
 
 + [FreeBuf早报 | 麦当劳 IT 系统中断；TikTok剥离法案可能会波及微信](https://www.freebuf.com/news/395077.html)
 
++ [突发！纳斯达克交易中断超过两小时](https://www.freebuf.com/news/395193.html)
+
++ [微软：87% 的英国企业极易受到网络攻击，AI或成破局“解药”](https://www.freebuf.com/news/395194.html)
+
++ [日本科技巨头富士通遭遇网络攻击，客户数据被窃](https://www.freebuf.com/news/395198.html)
+
