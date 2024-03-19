@@ -163,3 +163,13 @@
 
 + [MATLAB教程](https://blog.csdn.net/weixin_44567668/article/details/136820342)
 
++ [实现：mysql-5.7.42 到 mysql-8.2.0 的升级（rpm方式）](https://blog.csdn.net/qq_41840843/article/details/136784478)
+
++ [【机器学习】基于机器学习的分类算法对比实验](https://blog.csdn.net/m0_57532432/article/details/136834025)
+
++ [GaussDB分区表自动新增分区](https://blog.csdn.net/GaussDB/article/details/136807633)
+
++ [Docker部署TeamCity来完成内部CI、CD流程](https://blog.csdn.net/weixin_45623111/article/details/136809817)
+
++ [Linux的背景介绍](https://blog.csdn.net/weixin_63966442/article/details/136821196)
+

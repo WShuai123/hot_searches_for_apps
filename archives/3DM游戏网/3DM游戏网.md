@@ -211,3 +211,19 @@
 
 + [《龙珠：电光火石0》明日举行发布会 将公布实机画面](https://www.3dmgame.com/news/202403/3890860.html)
 
++ [热门动漫改编ARPG游戏《我独自升级：ARISE》开启事前预约](https://www.3dmgame.com/news/202403/3890866.html)
+
++ [《壳之少女》续作《虚之少女》4月19日发售 支持中文](https://www.3dmgame.com/news/202403/3890865.html)
+
++ [动作音游名作《HiFi RUSH》登陆PS5 实体版下半年发售](https://www.3dmgame.com/news/202403/3890868.html)
+
++ [黄仁勋猛夸比亚迪：全球最大电动汽车公司](https://www.3dmgame.com/news/202403/3890867.html)
+
++ [Bungie员工透露：索尼对工作室领导层非常不满](https://www.3dmgame.com/news/202403/3890864.html)
+
++ [《饿狼传说：狼之城》新系统情报公开 战斗强化改进](https://www.3dmgame.com/news/202403/3890863.html)
+
++ [《崩坏：星穹铁道》动画短片：「永劫轮舞」](https://www.3dmgame.com/news/202403/3890862.html)
+
++ [《妮姬：胜利女神》公布《Re：零》联动爱蜜莉雅动作展示预览视频](https://www.3dmgame.com/news/202403/3890861.html)
+
