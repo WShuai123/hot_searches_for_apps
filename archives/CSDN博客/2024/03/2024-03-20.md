@@ -129,3 +129,7 @@
 
 + [基于联邦强化学习的集群机器人协同导航](https://blog.csdn.net/qq_38853759/article/details/136785824)
 
++ [高质量C/C++编程指南](https://blog.csdn.net/weixin_72852519/article/details/136673972)
+
++ [NVIDIA NIM 提供优化的推理微服务以大规模部署 AI 模型](https://blog.csdn.net/kunhe0512/article/details/136831556)
+

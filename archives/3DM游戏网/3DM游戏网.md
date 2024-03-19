@@ -105,3 +105,19 @@
 
 + [Fami通给《浪人崛起》超高评价 进入白金殿堂](https://www.3dmgame.com/news/202403/3890898.html)
 
++ [卡普空公布《龙之信条2》全球发售时间](https://www.3dmgame.com/news/202403/3890905.html)
+
++ [《彩虹棉花小魔女》重制版5/9登陆各平台](https://www.3dmgame.com/news/202403/3890906.html)
+
++ [《地平线：西之绝境》PC版预载开启 全球发售表揭晓](https://www.3dmgame.com/news/202403/3890904.html)
+
++ [索尼分享《浪人崛起》新开发者日记“齐心协力“](https://www.3dmgame.com/news/202403/3890903.html)
+
++ [《建筑模拟器4》5月登陆Switch和智能设备](https://www.3dmgame.com/news/202403/3890902.html)
+
++ [5月22日上映《疯狂的麦克斯：狂暴女神》发布全新预告](https://www.3dmgame.com/news/202403/3890901.html)
+
++ [《木卫四协议》世界观肉鸽新游戏即将上市](https://www.3dmgame.com/news/202403/3890900.html)
+
++ [GameArts重新注册《银河之星》商标或推出新作](https://www.3dmgame.com/news/202403/3890899.html)
+
