@@ -179,3 +179,25 @@
 
 + [Fotor AI](https://www.producthunt.com/posts/fotor-ai)
 
++ [CelebrateAlly AI](https://www.producthunt.com/posts/celebrateally-ai)
+
++ [Godspeed](https://www.producthunt.com/posts/godspeed-2)
+
++ [endoftext](https://www.producthunt.com/posts/endoftext)
+
++ [Zora Learning](https://www.producthunt.com/posts/zora-learning)
+
++ [Whiteboard by Frameable](https://www.producthunt.com/posts/whiteboard-by-frameable)
+
++ [Keepr](https://www.producthunt.com/posts/keepr)
+
++ [WeGoTrip On Demand](https://www.producthunt.com/posts/wegotrip-on-demand)
+
++ [HireSplit](https://www.producthunt.com/posts/hiresplit)
+
++ [Factsplat](https://www.producthunt.com/posts/factsplat)
+
++ [Audio Writer (iOS)](https://www.producthunt.com/posts/audio-writer-ios)
+
++ [VA360 :Virtual Assistant at Your Service](https://www.producthunt.com/posts/va360-virtual-assistant-at-your-service)
+

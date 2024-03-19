@@ -227,3 +227,13 @@
 
 + [《妮姬：胜利女神》公布《Re：零》联动爱蜜莉雅动作展示预览视频](https://www.3dmgame.com/news/202403/3890861.html)
 
++ [《绝地潜兵2》新阵营或即将到来 总监再次矢口否认](https://www.3dmgame.com/news/202403/3890871.html)
+
++ [500%超值豪华战令奖励！KK战令S6魔影骑士](https://www.3dmgame.com/news/202403/3890872.html)
+
++ [《星刃》与《尼尔》同货架销售 日本店铺宣传语：以女主角背影为焦点](https://www.3dmgame.com/news/202403/3890873.html)
+
++ [PS5 Pro详细规格被泄露 索尼正在调查罪魁祸首](https://www.3dmgame.com/news/202403/3890869.html)
+
++ [移动数据情报行业整合 Sensor Tower收购data.ai](https://www.3dmgame.com/news/202403/3890870.html)
+

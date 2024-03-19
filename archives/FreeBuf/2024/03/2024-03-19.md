@@ -57,3 +57,11 @@
 
 + [Stompy：一款针对时间戳的Timestomp工具](https://www.freebuf.com/sectool/392321.html)
 
++ [勒索软件为何总能“复活”？](https://www.freebuf.com/articles/395260.html)
+
++ [网络安全市场渠道格局和痛点分析](https://www.freebuf.com/articles/neopoints/382309.html)
+
++ [英国政府发布云托管监控和数据采集（ SCADA）安全指南](https://www.freebuf.com/news/395251.html)
+
++ [纳斯达克交易系统宕机2小时，RASH FIX订单无效](https://www.freebuf.com/news/395193.html)
+
