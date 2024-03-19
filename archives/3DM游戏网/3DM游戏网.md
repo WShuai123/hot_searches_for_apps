@@ -159,3 +159,29 @@
 
 + [《辐射76》第16赛季详情公布 与泽西恶魔一决高下](https://www.3dmgame.com/news/202403/3890825.html)
 
++ [《Apex》大赛黑客事件小蓝熊EAC反作弊有漏洞？官方澄清](https://www.3dmgame.com/news/202403/3890846.html)
+
++ [《城市：天际线2》“海滩资产包”即将发售 官方Mod工具同步上线](https://www.3dmgame.com/news/202403/3890847.html)
+
++ [米哈游公布涉《原神》私服 盗版手办等多个刑事判决](https://www.3dmgame.com/news/202403/3890845.html)
+
++ [奇幻策略游戏《寂静之歌》将于5月在Steam上推出抢先体验版](https://www.3dmgame.com/news/202403/3890843.html)
+
++ [《电锯糖心：重制版》新截图 性感女主拿电锯劈丧尸](https://www.3dmgame.com/news/202403/3890842.html)
+
++ [英伟达进军机器人领域 发布世界首款人形机器人通用基础模型](https://www.3dmgame.com/news/202403/3890840.html)
+
++ [《最终幻想7》蒂法为何受欢迎：温柔善良美丽动人](https://www.3dmgame.com/news/202403/3890839.html)
+
++ [《我的世界》宣布内容市场订阅服务 每月4美元](https://www.3dmgame.com/news/202403/3890835.html)
+
++ [庆祝真人剧上线 Xbox抽奖赠送《辐射》定制XSX主机](https://www.3dmgame.com/news/202403/3890838.html)
+
++ [恐怖版复仇者联盟 《小熊宇宙：怪物集结》明年上映](https://www.3dmgame.com/news/202403/3890837.html)
+
++ [《Domenation》Steam页面上线 大逃杀类战斗射击](https://www.3dmgame.com/news/202403/3890836.html)
+
++ [联想与英伟达合作 推出全新混合AI解决方案](https://www.3dmgame.com/news/202403/3890844.html)
+
++ [前国际游戏开发者协会主席成立3A工作室Muddy Robot](https://www.3dmgame.com/news/202403/3890841.html)
+

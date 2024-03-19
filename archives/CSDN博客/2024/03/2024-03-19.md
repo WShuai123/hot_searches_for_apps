@@ -133,3 +133,13 @@
 
 + [尚硅谷SQL|数据库的创建，修改与删除](https://blog.csdn.net/weixin_73795426/article/details/136694990)
 
++ [基于深度学习YOLOv8+Pyqt5的工地安全帽头盔佩戴检测识别系统（源码+跑通说明文件）](https://blog.csdn.net/m0_46653805/article/details/136821985)
+
++ [html--机器人](https://blog.csdn.net/stqer/article/details/136818576)
+
++ [如何在Linux CentOS部署宝塔面板并实现固定公网地址访问内网宝塔](https://blog.csdn.net/2301_77053417/article/details/136821540)
+
++ [二蛋赠书十八期：《一本书讲透Elasticsearch：原理、进阶与工程实践》](https://blog.csdn.net/qq_28314431/article/details/136824396)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136769012)
+

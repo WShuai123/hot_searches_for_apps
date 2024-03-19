@@ -45,3 +45,7 @@
 
 + [2024全球智能汽车网络安全法规和监管分析](https://www.freebuf.com/articles/neopoints/395045.html)
 
++ [0day之某路由器前台RCE审计](https://www.freebuf.com/articles/web/395021.html)
+
++ [FreeBuf早报 | 麦当劳 IT 系统中断；TikTok剥离法案可能会波及微信](https://www.freebuf.com/news/395077.html)
+
