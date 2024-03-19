@@ -45,3 +45,5 @@
 
 + [赵明：华为品牌力国内最强是荣耀榜样，初代 Magic 是所有 AI 手机鼻祖](https://m.ithome.com/html/756533.htm)
 
++ [直降 900 元：Redmi K60 至尊版 16G+512G 款 2089 元清仓](https://m.ithome.com/html/756503.htm)
+

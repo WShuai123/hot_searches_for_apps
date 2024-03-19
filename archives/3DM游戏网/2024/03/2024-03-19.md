@@ -255,3 +255,11 @@
 
 + [《公路警察模拟器》年内登陆多平台 开放世界警察日常](https://www.3dmgame.com/news/202403/3890874.html)
 
++ [老黄抛出2700W功耗真核弹 还有240TB显存的AI超级计算机](https://www.3dmgame.com/news/202403/3890886.html)
+
++ [《Ghost Bros》开启众筹 拟真场景合作恐怖探索](https://www.3dmgame.com/news/202403/3890885.html)
+
++ [周杰伦起诉网易一审败诉！二审下周开庭](https://www.3dmgame.com/news/202403/3890884.html)
+
++ [射击游戏《开炮吧长官》试玩页面 4月上线](https://www.3dmgame.com/news/202403/3890883.html)
+
