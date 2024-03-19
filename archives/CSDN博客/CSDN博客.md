@@ -111,3 +111,21 @@
 
 + [【prometheus】k8s集群部署prometheus server(文末送书)](https://blog.csdn.net/qq_35995514/article/details/136783153)
 
++ [Excel文件导入导出，SpringBoot整合EasyExcel批量导入导出，采用的JDBC+EasyExcel（附带整个Demo）](https://blog.csdn.net/qq_68135906/article/details/136787814)
+
++ [医疗最终会成为最大的AI垂直领域吗？](https://blog.csdn.net/Gabriel100yi/article/details/136856897)
+
++ [华为OD七日集训第3期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/136828142)
+
++ [Java微服务分布式事务框架seata](https://blog.csdn.net/s445320/article/details/136806573)
+
++ [基于Python爬虫山东济南天气预报数据可视化系统设计与实现(Django框架) 研究背景与意义、国内外研究现状](https://blog.csdn.net/u013818205/article/details/136720237)
+
++ [【Linux】自动化构建工具-make/Makefile](https://blog.csdn.net/zxctsclrjjjcph/article/details/136828923)
+
++ [【超详细图文讲解】如何利用VMware创建CentOS虚拟机(包括如何更改网络设置 + 远程访问虚拟机方法)](https://blog.csdn.net/qq_60366454/article/details/136818176)
+
++ [JetBrains全家桶激活，分享 CLion 2024 激活的方案](https://blog.csdn.net/ladymorgana/article/details/136822689)
+
++ [基于联邦强化学习的集群机器人协同导航](https://blog.csdn.net/qq_38853759/article/details/136785824)
+
