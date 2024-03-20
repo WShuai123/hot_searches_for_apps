@@ -155,3 +155,9 @@
 
 + [网络安全-护网行动1](https://blog.csdn.net/ly4983/article/details/136831237)
 
++ [【赠书第21期】游戏力：竞技游戏设计实战教程](https://blog.csdn.net/qq_20016593/article/details/136770675)
+
++ [Http 超文本传输协议基本概念学习摘录](https://blog.csdn.net/boysoft2002/article/details/136851562)
+
++ [数学建模（层次分析法 python代码 案例）](https://blog.csdn.net/qq_74156152/article/details/136857915)
+

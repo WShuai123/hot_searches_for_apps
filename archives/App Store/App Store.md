@@ -211,3 +211,7 @@
 
 + [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
 
++ [爱奇艺-追风者全网独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
+
++ [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
+

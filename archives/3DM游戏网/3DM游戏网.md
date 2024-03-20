@@ -189,3 +189,23 @@
 
 + [《战神：诸神黄昏》在最受欢迎PS游戏票选中胜出](https://www.3dmgame.com/news/202403/3890940.html)
 
++ [研发成本700亿！英伟达最新AI芯片GB200售价超22万](https://www.3dmgame.com/news/202403/3890950.html)
+
++ [玩家在13年后发现《死亡空间2》获取额外补给的新方法](https://www.3dmgame.com/news/202403/3890946.html)
+
++ [《从军》3月28日Steam EA发售 全平台互通](https://www.3dmgame.com/news/202403/3890949.html)
+
++ [Xbox版《最终幻想14》有特殊货币 需要XGP会员](https://www.3dmgame.com/news/202403/3890948.html)
+
++ [乐高新组件《龙与地下城：红龙传说》4月发售 精致设计价格不菲](https://www.3dmgame.com/news/202403/3890947.html)
+
++ [开机甲去种田 开放世界农耕游戏《光年边境》抢先体验版发售](https://www.3dmgame.com/news/202403/3890944.html)
+
++ [《龙之信条2》总监：多年过去原作已不再是小众经典](https://www.3dmgame.com/news/202403/3890943.html)
+
++ [黄仁勋：供应链全球化很难被打破](https://www.3dmgame.com/news/202403/3890945.html)
+
++ [苹果限制用户使用第三方应用商城 反垄断机构密切关注](https://www.3dmgame.com/news/202403/3890942.html)
+
++ [传闻：沙特阿拉伯计划设立400亿美元AI风投基金](https://www.3dmgame.com/news/202403/3890941.html)
+
