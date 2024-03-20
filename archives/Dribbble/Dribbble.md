@@ -49,3 +49,23 @@
 
 + [Travel Kaunas Icon](https://dribbble.com/shots/)
 
++ [Hangar Sisters Patch Mockup](https://dribbble.com/shots/)
+
++ [Logo "Lol Defi"](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+
++ [Ranger Station - Badges](https://dribbble.com/shots/)
+
++ [Red Queen Gin](https://dribbble.com/shots/)
+
++ [Wild Isles](https://dribbble.com/shots/)
+
++ [Hawaiian Surfing vibe](https://dribbble.com/shots/)
+
++ [Dorado Catfish Migration Illustrated Map](https://dribbble.com/shots/)
+
++ [A Guide to Responsible Enjoyment](https://dribbble.com/shots/)
+
++ [Blazing Saddles Trail Races](https://dribbble.com/shots/)
+
