@@ -199,3 +199,15 @@
 
 + [微信小程序 ---- 慕尚花坊 结算支付](https://blog.csdn.net/qq_63358859/article/details/136834781)
 
++ [【机器学习】TinyML的介绍以及在运动健康领域的应用](https://blog.csdn.net/g310773517/article/details/136876850)
+
++ [【Python游戏开发】超级玛丽v1.0——《跟老吕学Python编程》附录资料](https://blog.csdn.net/molangmolang/article/details/136790597)
+
++ [3D地理空间数据](https://blog.csdn.net/wanwan819/article/details/136834232)
+
++ [字节-安全研究实习生（二面）](https://blog.csdn.net/qq_59468567/article/details/136838851)
+
++ [北京机器人展2024世界机器人大会](https://blog.csdn.net/a241092/article/details/136829614)
+
++ [什么样的人适合学习网络安全？](https://blog.csdn.net/HackKong/article/details/136830836)
+

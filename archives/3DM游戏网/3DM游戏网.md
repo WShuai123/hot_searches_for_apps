@@ -275,3 +275,7 @@
 
 + [数毛社：PS5 Pro 60FPS运行《GTA6》可能性为零](https://www.3dmgame.com/news/202403/3890982.html)
 
++ [《合金装备5：原爆点》迎来发售十周年](https://www.3dmgame.com/news/202403/3890985.html)
+
++ [《战神：诸神黄昏》PC版可能于2025年Q1发售](https://www.3dmgame.com/news/202403/3890984.html)
+

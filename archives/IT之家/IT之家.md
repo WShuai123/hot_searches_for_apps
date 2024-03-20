@@ -57,3 +57,5 @@
 
 + [小米 Civi 4 Pro 手机官宣搭载徕卡光学 Summilux 镜头，使用光影猎人 800 传感器](https://m.ithome.com/html/756839.htm)
 
++ [雷军谈特斯拉涨价传闻：真心佩服特斯拉，小米汽车 SU7 标准版配置远超 Model 3](https://m.ithome.com/html/757029.htm)
+
