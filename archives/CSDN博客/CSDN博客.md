@@ -101,3 +101,29 @@
 
 + [北京机器人展2024世界机器人大会](https://blog.csdn.net/a241092/article/details/136829614)
 
++ [文献学习-21-DaFoEs：混合数据集以推广微创机器人手术中的视觉状态深度学习力估计](https://blog.csdn.net/Metaphysicist/article/details/136875102)
+
++ [NVIDIA NIM 提供优化的推理微服务以大规模部署 AI 模型](https://blog.csdn.net/kunhe0512/article/details/136831556)
+
++ [1.SQL是什么？——《跟老吕学SQL》](https://blog.csdn.net/molangmolang/article/details/136827123)
+
++ [【python】flask服务端响应与重定向处理](https://blog.csdn.net/littlefun591/article/details/136862852)
+
++ [网络原理(3)——TCP协议](https://blog.csdn.net/cool_tao6/article/details/136843088)
+
++ [【Python脚本随手笔记】 ---基于鸿蒙系统LiteOS实现差分编译脚本（上篇）](https://blog.csdn.net/csh1807266489/article/details/136848481)
+
++ [八股文三（Spring、Spring Cloud Alibaba）](https://blog.csdn.net/yanshengren520/article/details/136832479)
+
++ [通过Jenkins+Github+Docker+Nodejs+Nginx实现SpringBoot+Vue前后端项目的自动化部署](https://blog.csdn.net/xiaoqian7758258/article/details/136854739)
+
++ [Docker简介及用途，为什么要使用Docker？Docker容器和虚拟机的区别？](https://blog.csdn.net/qq_42696432/article/details/136835968)
+
++ [吴恩达深度学习环境本地化构建wsl+docker+tensorflow+cuda](https://blog.csdn.net/amuro_ray027/article/details/136735280)
+
++ [什么是物联网嵌入式硬件?有哪些特点和优势？](https://blog.csdn.net/hzdusun_com/article/details/136853581)
+
++ [MyBatis是纸老虎吗？（四）](https://blog.csdn.net/java_lover20111106/article/details/136855751)
+
++ [物联网平台建设方案](https://blog.csdn.net/BY1317880437/article/details/136840713)
+
