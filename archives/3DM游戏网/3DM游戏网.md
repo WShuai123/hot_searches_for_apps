@@ -123,3 +123,41 @@
 
 + [《星空》1.10.31版更新上线 修复500多个Bug真努力](https://www.3dmgame.com/news/202403/3890907.html)
 
++ [《龙之家族》剧集第二季6月开播 将出现5条新龙](https://www.3dmgame.com/news/202403/3890918.html)
+
++ [《星球大战：侍者》预告片正式推出 6月4日上线迪士尼＋](https://www.3dmgame.com/news/202403/3890926.html)
+
++ [《守望先锋2》新第10赛季开发细节 全部英雄可解锁使用](https://www.3dmgame.com/news/202403/3890924.html)
+
++ [Keywords工作室：AI很有用 但现在还无法取代人才](https://www.3dmgame.com/news/202403/3890925.html)
+
++ [前B社员工工作室Something Wicked几乎全员被裁](https://www.3dmgame.com/news/202403/3890922.html)
+
++ [《下一站江湖II》即将发售，新版内容曝光](https://www.3dmgame.com/news/202403/3890923.html)
+
++ [木卫四协议工作室新作《Project Birdseye》实机 发售日待定](https://www.3dmgame.com/news/202403/3890921.html)
+
++ [《星露谷物语》1.6版本更新上线 Steam在线玩家创新纪录突破14万](https://www.3dmgame.com/news/202403/3890919.html)
+
++ [网飞新片《寄生兽：灰色部队》曝正式预告](https://www.3dmgame.com/news/202403/3890920.html)
+
++ [前SIE老将跳槽EA 负责重振生软监督《恐狼》开发](https://www.3dmgame.com/news/202403/3890917.html)
+
++ [育碧探索生成式AI：让未来游戏中的NPC更加栩栩如生](https://www.3dmgame.com/news/202403/3890915.html)
+
++ [《博德之门3》PC豪华版开始发货 主机版宣布延期](https://www.3dmgame.com/news/202403/3890914.html)
+
++ [政治正确不能说？《未知9号：觉醒》Steam论坛大面积禁言](https://www.3dmgame.com/news/202403/3890911.html)
+
++ [模拟建造游戏《Interior Designer》Steam页面 支持简体中文](https://www.3dmgame.com/news/202403/3890912.html)
+
++ [《Zoomies! Cat Racing》试玩发布 猫咪竞速新游](https://www.3dmgame.com/news/202403/3890910.html)
+
++ [Flat2VR工作室成立 致力于开发平板上的VR游戏体验](https://www.3dmgame.com/news/202403/3890916.html)
+
++ [前《无畏契约》总监将领导Bungie新《马拉松》开发](https://www.3dmgame.com/news/202403/3890913.html)
+
++ [《辐射》真人剧集新片段 女主路西碰上尸鬼](https://www.3dmgame.com/news/202403/3890909.html)
+
++ [数毛社证实PS5 Pro规格为真 PSSR技术兼容PS5老游戏](https://www.3dmgame.com/news/202403/3890908.html)
+

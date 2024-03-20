@@ -45,3 +45,7 @@
 
 + [IBM X-Force 《2024年威胁情报指数报告》：AI攻击即将到来，被盗凭据成为头号风险](https://www.freebuf.com/articles/paper/393958.html)
 
++ [从0到1实施指南 | 工控系统网络安全怎么做？](https://www.freebuf.com/articles/ics-articles/394748.html)
+
++ [IBM：AI攻击即将到来，被盗凭据成为头号风险](https://www.freebuf.com/articles/paper/393958.html)
+
