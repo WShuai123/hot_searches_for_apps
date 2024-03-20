@@ -101,3 +101,9 @@
 
 + [《大力水手》新真人电影制作中 上映日期待定](https://www.3dmgame.com/news/202403/3890936.html)
 
++ [《龙之信条2》媒体评分解禁 PC版M站均分92](https://www.3dmgame.com/news/202403/3890988.html)
+
++ [VGC：《龙之信条2》是自《艾尔登法环》以来最棒RPG](https://www.3dmgame.com/news/202403/3890989.html)
+
++ [《博德之门3》22号迷你补丁上线 处理一些崩溃和严重问题](https://www.3dmgame.com/news/202403/3890990.html)
+
