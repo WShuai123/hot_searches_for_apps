@@ -279,3 +279,5 @@
 
 + [《战神：诸神黄昏》PC版可能于2025年Q1发售](https://www.3dmgame.com/news/202403/3890984.html)
 
++ [《马克思佩恩1+2重制版》预算同《心灵杀手2》相似 R星赞助](https://www.3dmgame.com/news/202403/3890986.html)
+
