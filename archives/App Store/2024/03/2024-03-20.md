@@ -207,3 +207,7 @@
 
 + [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
 
++ [腾讯视频-与凤行全网首播](https://itunes.apple.com/cn/app/id458318329?mt=8)
+
++ [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

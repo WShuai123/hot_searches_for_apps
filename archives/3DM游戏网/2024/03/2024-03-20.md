@@ -161,3 +161,21 @@
 
 + [数毛社证实PS5 Pro规格为真 PSSR技术兼容PS5老游戏](https://www.3dmgame.com/news/202403/3890908.html)
 
++ [《妮姬：胜利女神》玛丽安模型欣赏 还原度惊人](https://www.3dmgame.com/news/202403/3890934.html)
+
++ [《博德之门3》总监发文暗示 游戏将联动《吸血鬼幸存者》](https://www.3dmgame.com/news/202403/3890928.html)
+
++ [《战地风云 2042》赛季 7“转折点”现已推出](https://www.3dmgame.com/news/202403/3890935.html)
+
++ [罗布乐思3D建模AI工具公布 旨在减轻创作压力](https://www.3dmgame.com/news/202403/3890932.html)
+
++ [《碧海黑帆》联动海洋环保组织 你打怪育碧捐款](https://www.3dmgame.com/news/202403/3890933.html)
+
++ [像素风动作角色扮演游戏《岛屿之下》登录Steam平台](https://www.3dmgame.com/news/202403/3890931.html)
+
++ [9岁男孩残忍杀害父亲 警方指责是《使命召唤》带坏孩子](https://www.3dmgame.com/news/202403/3890930.html)
+
++ [《海滩俱乐部模拟器》Steam抢测 沙滩经营模拟](https://www.3dmgame.com/news/202403/3890929.html)
+
++ [《荒野大镖客2》更新 PC版加入HDR 10+和FSR 2.2](https://www.3dmgame.com/news/202403/3890927.html)
+

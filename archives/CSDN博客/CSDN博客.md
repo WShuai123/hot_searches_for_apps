@@ -141,3 +141,9 @@
 
 + [外包干了5天，技术退步明显。。。。](https://blog.csdn.net/2301_81692192/article/details/136818931)
 
++ [AI时代Python金融大数据分析实战：ChatGPT让金融大数据分析插上翅膀](https://blog.csdn.net/shi_hong_fei_hei/article/details/136763949)
+
++ [Spring Boot：筑基](https://blog.csdn.net/qq_56886142/article/details/136536576)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/136807391)
+
