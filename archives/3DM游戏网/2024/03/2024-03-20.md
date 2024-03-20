@@ -221,3 +221,25 @@
 
 + [V社分享Steam Deck OLED预告幕后：给我来一台！](https://www.3dmgame.com/news/202403/3890954.html)
 
++ [日媒锐评《FF7：重生》销量锐减 国民RPG说法该换了？](https://www.3dmgame.com/news/202403/3890967.html)
+
++ [《蓝色星原：旅谣》首曝PV＆实机演示 预约开启](https://www.3dmgame.com/news/202403/3890966.html)
+
++ [假如《生化危机》被ZZZQ入侵：肥胖主角坐轮椅](https://www.3dmgame.com/news/202403/3890965.html)
+
++ [8部电影扎堆清明档：激烈程度堪比春节档](https://www.3dmgame.com/news/202403/3890964.html)
+
++ [《博德之门3》OST黑胶唱片预购开启 2024年夏季发货](https://www.3dmgame.com/news/202403/3890963.html)
+
++ [摇钱树第三期重磅来袭，下载Y3抽劳力士！](https://www.3dmgame.com/news/202403/3890957.html)
+
++ [《FF7：核心危机重聚》配音被SE反复要求别太性感](https://www.3dmgame.com/news/202403/3890962.html)
+
++ [《QUESTER | OSAKA》登陆Steam 战斗系日式RPG](https://www.3dmgame.com/news/202403/3890961.html)
+
++ [《魔兽世界》推出“强袭风暴”模式 魔兽自己的大逃杀](https://www.3dmgame.com/news/202403/3890960.html)
+
++ [《绝区零》猫又角色PV 猫没有主人](https://www.3dmgame.com/news/202403/3890959.html)
+
++ [《邪恶冥刻》作者早期作品 《六角疑云》添加简体中文支持](https://www.3dmgame.com/news/202403/3890958.html)
+
