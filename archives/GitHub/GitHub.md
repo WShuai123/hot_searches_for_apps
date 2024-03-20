@@ -51,3 +51,33 @@
 
 + [microsoft / playwright](https://github.com/microsoft/playwright)
 
++ [discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk)
+
++ [TheMMC / In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper)
+
++ [Stability-AI / generative-models](https://github.com/Stability-AI/generative-models)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [xyflow / xyflow](https://github.com/xyflow/xyflow)
+
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
++ [nf-core / modules](https://github.com/nf-core/modules)
+
++ [zylon-ai / private-gpt](https://github.com/zylon-ai/private-gpt)
+
++ [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
+
++ [Azure-Samples / contoso-chat](https://github.com/Azure-Samples/contoso-chat)
+
++ [pola-rs / polars](https://github.com/pola-rs/polars)
+
++ [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
+
++ [luijait / DarkGPT](https://github.com/luijait/DarkGPT)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI)
+

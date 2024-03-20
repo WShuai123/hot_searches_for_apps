@@ -267,3 +267,7 @@
 
 + [光荣特库摩对《浪人崛起》寄予厚望 目标销量500万](https://www.3dmgame.com/news/202403/3890976.html)
 
++ [传英伟达投入100亿美元开发Blackwell架构平台 新产品售价在3到4万美元](https://www.3dmgame.com/news/202403/3890980.html)
+
++ [EA可能在暗示重制《死亡空间2》](https://www.3dmgame.com/news/202403/3890981.html)
+
