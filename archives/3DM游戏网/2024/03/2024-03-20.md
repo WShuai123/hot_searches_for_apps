@@ -209,3 +209,7 @@
 
 + [传闻：沙特阿拉伯计划设立400亿美元AI风投基金](https://www.3dmgame.com/news/202403/3890941.html)
 
++ [作者太肝了 《星露谷物语》1.6.1版本修复补丁即将上线](https://www.3dmgame.com/news/202403/3890951.html)
+
++ [喜剧射击游戏《High On Life》改编漫画公开封面和预览页](https://www.3dmgame.com/news/202403/3890952.html)
+

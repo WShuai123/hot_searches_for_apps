@@ -161,3 +161,7 @@
 
 + [数学建模（层次分析法 python代码 案例）](https://blog.csdn.net/qq_74156152/article/details/136857915)
 
++ [【机器学习】无监督学习算法之：高斯混合模型](https://blog.csdn.net/wuyoudeyuer/article/details/135896716)
+
++ [基于Lealfet.js展示Turf.js生成的平滑曲线实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/136853050)
+
