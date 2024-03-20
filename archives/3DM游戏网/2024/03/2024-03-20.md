@@ -213,3 +213,11 @@
 
 + [喜剧射击游戏《High On Life》改编漫画公开封面和预览页](https://www.3dmgame.com/news/202403/3890952.html)
 
++ [《声之形》导演新作《你的颜色》PV公开 新垣结衣加盟配音](https://www.3dmgame.com/news/202403/3890956.html)
+
++ [全新超合金版沙扎比4月上市 高端霸气质感绝伦](https://www.3dmgame.com/news/202403/3890953.html)
+
++ [电影《红楼梦之金玉良缘》“阴谋与爱情”预告 年内上映](https://www.3dmgame.com/news/202403/3890955.html)
+
++ [V社分享Steam Deck OLED预告幕后：给我来一台！](https://www.3dmgame.com/news/202403/3890954.html)
+

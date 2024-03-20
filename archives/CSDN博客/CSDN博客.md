@@ -165,3 +165,11 @@
 
 + [基于Lealfet.js展示Turf.js生成的平滑曲线实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/136853050)
 
++ [【机器学习】无监督学习算法之：自编码器](https://blog.csdn.net/wuyoudeyuer/article/details/135896728)
+
++ [【包邮送书】深度学习经典案例解析（基于MATLAB）](https://blog.csdn.net/qq_43471489/article/details/136840022)
+
++ [AIGC：让生成式AI成为自己的外脑](https://blog.csdn.net/m0_63947499/article/details/136868800)
+
++ [【Vue3】走进Pinia，学习Pinia，使用Pinia](https://blog.csdn.net/null18/article/details/136840690)
+
