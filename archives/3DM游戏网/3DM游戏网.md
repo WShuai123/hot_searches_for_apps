@@ -253,3 +253,9 @@
 
 + [小岛工作室快闪店即将空降上海 预计3月23日开业](https://www.3dmgame.com/news/202403/3890968.html)
 
++ [《不需要杀虫剂》登陆Steam 吸幸类型爆裂生存射击](https://www.3dmgame.com/news/202403/3890975.html)
+
++ [雷军玩得起！小米现金储备超理想和比亚迪：汽车业务做好未来超5年亏损准备](https://www.3dmgame.com/news/202403/3890974.html)
+
++ [SpaceX总裁：星舰有望在六周内再次发射](https://www.3dmgame.com/news/202403/3890973.html)
+

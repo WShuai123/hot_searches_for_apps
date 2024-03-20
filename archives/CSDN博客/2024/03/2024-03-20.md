@@ -181,3 +181,9 @@
 
 + [详谈分布式事务](https://blog.csdn.net/Joker_ZJN/article/details/136859446)
 
++ [【计算机网络篇】物理层（4）信道的极限容量，信道复用技术](https://blog.csdn.net/m0_72853403/article/details/136874560)
+
++ [设计模式深度解析：适配器模式与桥接模式-灵活应对变化的两种设计策略大比拼](https://blog.csdn.net/danci_/article/details/136862061)
+
++ [FPGA使用SPI控制FLASH](https://blog.csdn.net/m0_56222647/article/details/136777704)
+

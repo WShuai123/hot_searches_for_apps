@@ -41,3 +41,9 @@
 
 + [凯迪拉克 XT5 SUV 全系降价 10 万元：25.27 万元起，购置税减半](https://m.ithome.com/html/756872.htm)
 
++ [国产《三体》电视剧周年纪念版今晚首播：提前 Netflix 美版一天，从 30 集减少为 26 集](https://m.ithome.com/html/756858.htm)
+
++ [华为、小米、OPPO 新款充电头入网，支持 UFCS 融合快充](https://m.ithome.com/html/756851.htm)
+
++ [美国警方盲目信任苹果 Find My 错误搜查民宅，78 岁老太获赔 400 万美元](https://m.ithome.com/html/756832.htm)
+
