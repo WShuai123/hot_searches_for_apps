@@ -179,3 +179,5 @@
 
 + [linux系统------------Mysql数据库](https://blog.csdn.net/zzzxxx520369/article/details/136840162)
 
++ [详谈分布式事务](https://blog.csdn.net/Joker_ZJN/article/details/136859446)
+

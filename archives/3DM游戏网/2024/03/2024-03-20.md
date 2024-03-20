@@ -243,3 +243,13 @@
 
 + [《邪恶冥刻》作者早期作品 《六角疑云》添加简体中文支持](https://www.3dmgame.com/news/202403/3890958.html)
 
++ [消息称Meta将率先使用英伟达最新人工智能芯片](https://www.3dmgame.com/news/202403/3890971.html)
+
++ [UP主称《黑神话：悟空》心理价位199元 被网友吐槽](https://www.3dmgame.com/news/202403/3890972.html)
+
++ [北京交通新规：个人驾车违章将通报所在单位](https://www.3dmgame.com/news/202403/3890970.html)
+
++ [日本开发商Game Arts更新《露娜》游戏商标](https://www.3dmgame.com/news/202403/3890969.html)
+
++ [小岛工作室快闪店即将空降上海 预计3月23日开业](https://www.3dmgame.com/news/202403/3890968.html)
+

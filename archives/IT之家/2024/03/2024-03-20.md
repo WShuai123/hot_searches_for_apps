@@ -35,3 +35,9 @@
 
 + [小鹏汽车 CEO 何小鹏称很尊重华为，双方能力上各有长板](https://m.ithome.com/html/756802.htm)
 
++ [苹果 CEO 库克现身上海“偶遇”郑恺，静安 Apple Store 直营店明日开业](https://m.ithome.com/html/756882.htm)
+
++ [比亚迪京东自营旗舰店上线，可购买 5 款车型](https://m.ithome.com/html/756842.htm)
+
++ [凯迪拉克 XT5 SUV 全系降价 10 万元：25.27 万元起，购置税减半](https://m.ithome.com/html/756872.htm)
+
