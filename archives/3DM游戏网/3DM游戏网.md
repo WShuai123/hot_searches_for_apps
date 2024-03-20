@@ -271,3 +271,7 @@
 
 + [EA可能在暗示重制《死亡空间2》](https://www.3dmgame.com/news/202403/3890981.html)
 
++ [微软聘请AI大牛 主导Windows集成AI和必应增强](https://www.3dmgame.com/news/202403/3890983.html)
+
++ [数毛社：PS5 Pro 60FPS运行《GTA6》可能性为零](https://www.3dmgame.com/news/202403/3890982.html)
+

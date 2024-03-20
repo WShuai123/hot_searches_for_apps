@@ -55,3 +55,5 @@
 
 + [中低端机最受伤：网页动辄 21MB，加载时间 33 秒有时还无法加载](https://m.ithome.com/html/756902.htm)
 
++ [小米 Civi 4 Pro 手机官宣搭载徕卡光学 Summilux 镜头，使用光影猎人 800 传感器](https://m.ithome.com/html/756839.htm)
+
