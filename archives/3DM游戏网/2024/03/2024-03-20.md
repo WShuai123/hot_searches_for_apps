@@ -179,3 +179,13 @@
 
 + [《荒野大镖客2》更新 PC版加入HDR 10+和FSR 2.2](https://www.3dmgame.com/news/202403/3890927.html)
 
++ [《大力水手》新真人电影制作中 上映日期待定](https://www.3dmgame.com/news/202403/3890936.html)
+
++ [《珠宝加工模拟器》Steam页面上线 宝石加工教学](https://www.3dmgame.com/news/202403/3890937.html)
+
++ [《黑袍纠察队》衍生剧《V世代》第二季即将开拍](https://www.3dmgame.com/news/202403/3890938.html)
+
++ [《命运2》推出波次防守PvE玩法“猛攻”模式](https://www.3dmgame.com/news/202403/3890939.html)
+
++ [《战神：诸神黄昏》在最受欢迎PS游戏票选中胜出](https://www.3dmgame.com/news/202403/3890940.html)
+

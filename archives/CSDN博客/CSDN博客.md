@@ -147,3 +147,11 @@
 
 + [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/136807391)
 
++ [英特尔生态的深度学习科研环境配置-A770为例](https://blog.csdn.net/qq_28356373/article/details/136847978)
+
++ [MapReduce框架原理](https://blog.csdn.net/weixin_52986315/article/details/136822453)
+
++ [【web世界探险家】HTML5 探索与实践](https://blog.csdn.net/QQ3447387928/article/details/136859623)
+
++ [网络安全-护网行动1](https://blog.csdn.net/ly4983/article/details/136831237)
+

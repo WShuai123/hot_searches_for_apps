@@ -31,3 +31,7 @@
 
 + [“黑苹果”时代终结？用户称其“命不久矣”](https://m.ithome.com/html/756808.htm)
 
++ [小米 Civi 4 Pro 手机开启预约，首发第三代骁龙 8s 处理器](https://m.ithome.com/html/756752.htm)
+
++ [小鹏汽车 CEO 何小鹏称很尊重华为，双方能力上各有长板](https://m.ithome.com/html/756802.htm)
+
