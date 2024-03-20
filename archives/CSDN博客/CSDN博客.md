@@ -133,3 +133,5 @@
 
 + [NVIDIA NIM 提供优化的推理微服务以大规模部署 AI 模型](https://blog.csdn.net/kunhe0512/article/details/136831556)
 
++ [《Alleviating Matthew Effect of Offline Reinforcement Learningin Interactive Recommendation》代码复现笔记2.0](https://blog.csdn.net/m0_67197896/article/details/136843149)
+
