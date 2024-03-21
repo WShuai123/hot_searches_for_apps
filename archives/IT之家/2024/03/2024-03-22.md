@@ -27,3 +27,5 @@
 
 + [郑恺“喜提”库克签名 iPhone 手机，请求苹果继续生产 mini 系列](https://m.ithome.com/html/757327.htm)
 
++ [小米预热 Redmi 神秘新机：更好的新 8 系 / 跑分超 170 万，下月见](https://m.ithome.com/html/757318.htm)
+
