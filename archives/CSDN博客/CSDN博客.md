@@ -139,3 +139,13 @@
 
 + [【Flutter和H5数据传递问题】window.postMessage方法引起的数据问题](https://blog.csdn.net/m0_46983722/article/details/136842597)
 
++ [神经网络（深度学习，计算机视觉，得分函数，损失函数，前向传播，反向传播，激活函数）](https://blog.csdn.net/JamesSwifte/article/details/136848838)
+
++ [第二十七章 配置 Web Gateway 的默认参数 - 安全](https://blog.csdn.net/yaoxin521123/article/details/136862137)
+
++ [【数据可视化】Echarts中的其它图表](https://blog.csdn.net/zxctsclrjjjcph/article/details/136887911)
+
++ [html--机器人](https://blog.csdn.net/stqer/article/details/136818576)
+
++ [基于Spring Boot的智慧农业小程序](https://blog.csdn.net/Q1744828575/article/details/136836207)
+

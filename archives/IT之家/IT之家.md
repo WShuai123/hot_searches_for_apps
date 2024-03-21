@@ -31,3 +31,5 @@
 
 + [长安第二代 UNI-V 上市，售 10.89 万元起](https://m.ithome.com/html/757034.htm)
 
++ [全球首个万兆云宽带示范小区在上海落地，下载 90GB 文件仅需 72 秒](https://m.ithome.com/html/757051.htm)
+

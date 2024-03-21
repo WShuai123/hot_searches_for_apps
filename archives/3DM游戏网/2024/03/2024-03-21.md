@@ -157,3 +157,33 @@
 
 + [《龙之信条2》IGN评8分 发扬了优点但没解决缺点](https://www.3dmgame.com/news/202403/3891001.html)
 
++ [心理恐怖游戏《鬼屋魔影》重置版现已正式发售 获多半好评](https://www.3dmgame.com/news/202403/3891024.html)
+
++ [重生回应《Apex英雄》黑客事件：已推出首波安全更新](https://www.3dmgame.com/news/202403/3891025.html)
+
++ [《拳愿阿修罗》第2季正式预告 8月播出](https://www.3dmgame.com/news/202403/3891026.html)
+
++ [《龙之信条2》PC与主机版对比视频 主机最高40帧左右](https://www.3dmgame.com/news/202403/3891027.html)
+
++ [《街头霸王6》季票2角色名单泄露 春日野樱等回归](https://www.3dmgame.com/news/202403/3891028.html)
+
++ [育碧官方开启年度特卖 《碧海黑帆》首次75折特卖](https://www.3dmgame.com/news/202403/3891029.html)
+
++ [《LISA: The First》免费登陆Steam 另类异风RPG](https://www.3dmgame.com/news/202403/3891030.html)
+
++ [《龙之信条2》角色编辑器为何如此优秀：扫描了80张人脸](https://www.3dmgame.com/news/202403/3891016.html)
+
++ [《暗黑破坏神4》S4赛季延期到5月 大量改动来袭](https://www.3dmgame.com/news/202403/3891017.html)
+
++ [新VR游戏公司VRAL成立 团队曾参与《GTA》开发](https://www.3dmgame.com/news/202403/3891019.html)
+
++ [《乐高堡垒之夜》乐高群岛新增“猫岛探险”和“躲猫猫岛”](https://www.3dmgame.com/news/202403/3891020.html)
+
++ [Epic游戏商店宣布年底登陆移动端 包含安卓和iOS](https://www.3dmgame.com/news/202403/3891021.html)
+
++ [《罪恶装备 奋战》“A.B.A”宣传片公开 3月26日推出](https://www.3dmgame.com/news/202403/3891018.html)
+
++ [曝《暗黑4》XGP版仍需绑定暴雪账户 玩家表示失望](https://www.3dmgame.com/news/202403/3891022.html)
+
++ [传奇名作《怪医黑杰克》新日剧年内播出 高桥一生主演](https://www.3dmgame.com/news/202403/3891023.html)
+
