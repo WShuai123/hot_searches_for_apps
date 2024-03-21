@@ -103,3 +103,21 @@
 
 + [【python】flask基于cookie和session来实现会话控制](https://blog.csdn.net/littlefun591/article/details/136909045)
 
++ [计算机科技的新里程碑：超线程与多核心技术的融合与应用](https://blog.csdn.net/Aileenvov/article/details/136892348)
+
++ [spring boot3登录开发-2(2短信验证码接口实现）](https://blog.csdn.net/qq_62262918/article/details/136888851)
+
++ [历时一个月,四万字:蓝桥杯重点算法全解析](https://blog.csdn.net/lakmiy/article/details/136916128)
+
++ [【MySQL】索引与事务](https://blog.csdn.net/weixin_65837702/article/details/136609454)
+
++ [【微服务】Nacos配置管理](https://blog.csdn.net/m0_62645012/article/details/136922025)
+
++ [【爬虫实战】使用Python获取花粉俱乐部中Mate60系列的用户发帖数据](https://blog.csdn.net/m0_64336780/article/details/136348377)
+
++ [基于深度学习的面部情绪识别算法仿真与分析](https://blog.csdn.net/m0_48609250/article/details/136887673)
+
++ [【Hadoop】Hadoop 编译源码](https://blog.csdn.net/weixin_37833693/article/details/136814853)
+
++ [文献学习-21-DaFoEs：混合数据集以推广微创机器人手术中的视觉状态深度学习力估计](https://blog.csdn.net/Metaphysicist/article/details/136875102)
+
