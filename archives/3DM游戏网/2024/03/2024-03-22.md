@@ -103,3 +103,11 @@
 
 + [《闪电十一人：英雄的胜利之路》月末开启NS版公测](https://www.3dmgame.com/news/202403/3891085.html)
 
++ [科幻FPS游戏《INDUSTRIA 2》官宣登陆PC平台](https://www.3dmgame.com/news/202403/3891089.html)
+
++ [手绘2D快节奏动作游戏《Voidwrought》官宣](https://www.3dmgame.com/news/202403/3891088.html)
+
++ [开放世界《奇娅》今年夏季发售Switch版](https://www.3dmgame.com/news/202403/3891087.html)
+
++ [老鼠ARPG《铁尾传奇2》宣布登陆PC与主机全平台](https://www.3dmgame.com/news/202403/3891086.html)
+
