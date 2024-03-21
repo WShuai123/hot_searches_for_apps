@@ -39,3 +39,7 @@
 
 + [比亚迪宋 L 汽车首次 OTA 升级：新增自动泊车、自动关窗等，大量体验优化](https://m.ithome.com/html/756885.htm)
 
++ [小米牵头华为、腾讯、OPPO、荣耀联合申请制定单层 HDR 图像格式标准](https://m.ithome.com/html/757107.htm)
+
++ [Yuzu 倒下之后仍有来者，Switch 模拟器 Suyu 正式版本开放下载](https://m.ithome.com/html/757048.htm)
+

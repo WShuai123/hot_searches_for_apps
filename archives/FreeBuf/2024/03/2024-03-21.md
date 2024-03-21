@@ -51,3 +51,9 @@
 
 + [chrome v8漏洞CVE-2021-30632浅析](https://www.freebuf.com/vuls/394933.html)
 
++ [Flipper Zero 制造商回应加拿大禁令提案](https://www.freebuf.com/news/395475.html)
+
++ [因配置不当，谷歌某平台 1900 万个明文密码泄露](https://www.freebuf.com/news/395473.html)
+
++ [GitHub 推出全新 AI 功能，可自动修复代码漏洞](https://www.freebuf.com/news/395466.html)
+

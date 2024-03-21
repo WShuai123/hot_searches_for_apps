@@ -175,3 +175,11 @@
 
 + [数学建模（熵权法 python代码 例子）](https://blog.csdn.net/qq_74156152/article/details/136888871)
 
++ [亮数据代理IP轻松解决爬虫数据采集痛点](https://blog.csdn.net/yuan2019035055/article/details/136899977)
+
++ [如何使用phpStudy在Windows系统部署静态站点并实现无公网IP远程访问](https://blog.csdn.net/zhoubancheng/article/details/136837938)
+
++ [国产化系统中遇到的视频花屏、卡顿以及延迟问题的记录与总结](https://blog.csdn.net/chenlycly/article/details/136895893)
+
++ [K8S核心原理](https://blog.csdn.net/qq_38548730/article/details/136887679)
+
