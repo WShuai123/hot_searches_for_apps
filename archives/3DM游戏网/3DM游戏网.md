@@ -263,3 +263,7 @@
 
 + [万代推出等比例《游戏王》千年智慧轮 定价11000日元](https://www.3dmgame.com/news/202403/3891054.html)
 
++ [雷军感叹只有特斯拉敢宣布涨价：暗示小米SU7定价](https://www.3dmgame.com/news/202403/3891070.html)
+
++ [《超级肌肉猫》登陆Steam 爆笑2D横版动作新游](https://www.3dmgame.com/news/202403/3891069.html)
+

@@ -175,3 +175,9 @@
 
 + [Butterflye](https://www.producthunt.com/posts/butterflye-3)
 
++ [Wepost 2.0](https://www.producthunt.com/posts/wepost-2-0)
+
++ [Managr](https://www.producthunt.com/posts/managr)
+
++ [QA Sphere](https://www.producthunt.com/posts/qa-sphere)
+

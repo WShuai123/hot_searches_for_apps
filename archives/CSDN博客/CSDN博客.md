@@ -205,3 +205,7 @@
 
 + [网络安全（黑客技术）—2024自学笔记](https://blog.csdn.net/dexi113/article/details/136879541)
 
++ [Python实现2024春晚刘谦魔术](https://blog.csdn.net/xiaobai178/article/details/136863970)
+
++ [【马斯克开源GROK-1模型】意味着什么？](https://blog.csdn.net/qq_38308388/article/details/136812387)
+
