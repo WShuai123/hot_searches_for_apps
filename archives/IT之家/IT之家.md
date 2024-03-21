@@ -63,3 +63,5 @@
 
 + [英特尔：AI PC 提升内存容量需求，32GB 将成为入门级标配](https://m.ithome.com/html/757060.htm)
 
++ [一加 Ace 3V 手机发布：全球首发第三代骁龙 7 + 处理器，1999 元起](https://m.ithome.com/html/757308.htm)
+

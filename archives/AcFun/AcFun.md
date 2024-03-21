@@ -137,3 +137,9 @@
 
 + [【自翻】Chiikawa第148话「睡衣派对5」ちいかわ](http://www.acfun.cn/v/ac44107577)
 
++ [“人生如逆旅，僵尸亦行人”2.0](http://www.acfun.cn/v/ac44112424)
+
++ [与恶魔有约OST翻唱｜战歌起即是宿命感｜YOARI《TRUE》](http://www.acfun.cn/v/ac44107337)
+
++ [哎呦哥们就喜欢看这个](http://www.acfun.cn/v/ac44012735)
+

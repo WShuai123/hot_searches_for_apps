@@ -277,3 +277,13 @@
 
 + [心理恐怖游戏《洛蕾塔》将于4月11日登陆主机](https://www.3dmgame.com/news/202403/3891075.html)
 
++ [《合金装备Δ：食蛇者》进展顺利 许多原作者参与制作](https://www.3dmgame.com/news/202403/3891080.html)
+
++ [一加Ace 3V正式发布 首发高通第三代骁龙7+、起售价1999元](https://www.3dmgame.com/news/202403/3891078.html)
+
++ [Fami通新一周销量榜 《圣兽之王》二连冠](https://www.3dmgame.com/news/202403/3891079.html)
+
++ [起薪每年10万美元 SpaceX开高薪导致NASA难招人才](https://www.3dmgame.com/news/202403/3891077.html)
+
++ [《浪人崛起》IGN 7分 战斗出色但系统冗杂](https://www.3dmgame.com/news/202403/3891076.html)
+
