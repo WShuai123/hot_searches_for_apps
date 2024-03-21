@@ -201,3 +201,7 @@
 
 + [基于SpringBoot和Vue的网上订餐系统的设计与实现](https://blog.csdn.net/li12412414/article/details/136891717)
 
++ [数学建模综合评价模型与决策方法](https://blog.csdn.net/bai_lan_ya/article/details/136869400)
+
++ [网络安全（黑客技术）—2024自学笔记](https://blog.csdn.net/dexi113/article/details/136879541)
+

@@ -63,3 +63,5 @@
 
 + [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
 
++ [Flipper Zero 在加拿大要被禁用了](https://www.freebuf.com/news/395475.html)
+

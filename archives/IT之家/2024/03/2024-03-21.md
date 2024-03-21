@@ -45,3 +45,5 @@
 
 + [消息称智界 S7 汽车 4 月 8 日再度上市发布，华为 x 奇瑞联合打造](https://m.ithome.com/html/757112.htm)
 
++ [2999 元起，小米 Civi 4 Pro 手机正式发布：全球首发高通骁龙 8s Gen3](https://m.ithome.com/html/757221.htm)
+
