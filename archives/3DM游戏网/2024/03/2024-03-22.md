@@ -101,3 +101,5 @@
 
 + [超休闲电子宠物RPG《勇者蛋生》预告  4月30日Steam发售](https://www.3dmgame.com/news/202403/3891031.html)
 
++ [《闪电十一人：英雄的胜利之路》月末开启NS版公测](https://www.3dmgame.com/news/202403/3891085.html)
+

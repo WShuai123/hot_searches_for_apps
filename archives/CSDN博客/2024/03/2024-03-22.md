@@ -121,3 +121,5 @@
 
 + [文献学习-21-DaFoEs：混合数据集以推广微创机器人手术中的视觉状态深度学习力估计](https://blog.csdn.net/Metaphysicist/article/details/136875102)
 
++ [人脸表情识别系统项目完整实现详解——（三）训练MobileNet深度神经网络识别表情](https://blog.csdn.net/qq_32892383/article/details/136909419)
+
