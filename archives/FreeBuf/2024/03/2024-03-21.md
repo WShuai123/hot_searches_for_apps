@@ -47,3 +47,5 @@
 
 + [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
 
++ [GitHub 推出全新 AI 功能，可用于自动修复代码漏洞](https://www.freebuf.com/news/395466.html)
+

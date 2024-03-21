@@ -33,3 +33,7 @@
 
 + [全球首个万兆云宽带示范小区在上海落地，下载 90GB 文件仅需 72 秒](https://m.ithome.com/html/757051.htm)
 
++ [新款坦克 500 Hi4-T 上市：换全新发动机、四驱系统升级，售 33.5 万元](https://m.ithome.com/html/757041.htm)
+
++ [22.98 万-30.98 万元，一汽红旗纯电动轿车 EH7 上市](https://m.ithome.com/html/757038.htm)
+

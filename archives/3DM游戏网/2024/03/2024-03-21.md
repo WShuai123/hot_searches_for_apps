@@ -187,3 +187,25 @@
 
 + [传奇名作《怪医黑杰克》新日剧年内播出 高桥一生主演](https://www.3dmgame.com/news/202403/3891023.html)
 
++ [《绝地潜兵2》新补丁修复机甲BUG 减少“脸上刷怪”](https://www.3dmgame.com/news/202403/3891038.html)
+
++ [《罪恶装备：奋战》新角色“A.B.A”玩法入门指南](https://www.3dmgame.com/news/202403/3891033.html)
+
++ [杰克·吉伦哈尔为演好新版《威龙杀阵》而向经典西部片《不可饶恕》学习](https://www.3dmgame.com/news/202403/3891039.html)
+
++ [《超古代兵器霍莉》即将登陆PS4 迷宫探索动作新游](https://www.3dmgame.com/news/202403/3891040.html)
+
++ [微软推送Win11 26085预览版本更新：修复大量Bug](https://www.3dmgame.com/news/202403/3891041.html)
+
++ [超休闲电子宠物RPG《勇者蛋生》预告  4月30日Steam发售](https://www.3dmgame.com/news/202403/3891031.html)
+
++ [AMD公布FSR 3.1！兼容英伟达DLSS和英特尔XeSS](https://www.3dmgame.com/news/202403/3891032.html)
+
++ [马斯克旗下脑机接口实验新进展 患者可用意念下棋](https://www.3dmgame.com/news/202403/3891034.html)
+
++ [《海贼无双4》第六弹追加角色包3月28日发售 年轻雷利、卡普参战](https://www.3dmgame.com/news/202403/3891035.html)
+
++ [全民制作人有手就行 网易Y3编辑器让UGC创作再迎新热潮](https://www.3dmgame.com/news/202403/3891036.html)
+
++ [我国自主研制的首列氢能源市域列车成功达速试跑 续航可达1000公里以上](https://www.3dmgame.com/news/202403/3891037.html)
+
