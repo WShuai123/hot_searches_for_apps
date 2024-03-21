@@ -45,3 +45,5 @@
 
 + [《2024年开源安全和风险（OSSRA）报告》：84%的代码库存在漏洞风险](https://www.freebuf.com/articles/paper/393938.html)
 
++ [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
+

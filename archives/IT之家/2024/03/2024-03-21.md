@@ -25,3 +25,9 @@
 
 + [小米 Civi 4 Pro 手机官宣搭载徕卡光学 Summilux 镜头，使用光影猎人 800 传感器](https://m.ithome.com/html/756839.htm)
 
++ [迄今为止速度最快汽车无线充电技术在美国诞生，功率高达 100kW](https://m.ithome.com/html/757065.htm)
+
++ [长安第三代逸动上市，售 8.39 万元起](https://m.ithome.com/html/757040.htm)
+
++ [长安第二代 UNI-V 上市，售 10.89 万元起](https://m.ithome.com/html/757034.htm)
+

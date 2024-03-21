@@ -127,3 +127,33 @@
 
 + [次世代MMORPG《时空奥德赛》GDC24预告片](https://www.3dmgame.com/news/202403/3890996.html)
 
++ [为庆祝《孤岛惊魂》20周年 育碧发布特殊版生日快乐歌](https://www.3dmgame.com/news/202403/3891011.html)
+
++ [《模拟人生》真人电影正在制作中 《洛基》导演执导](https://www.3dmgame.com/news/202403/3891014.html)
+
++ [动作滑轮游戏《酷极轮滑》玩家突破100万人](https://www.3dmgame.com/news/202403/3891015.html)
+
++ [《勇者斗恶龙10》完全DLC打包版发售 新职业龙术士参战](https://www.3dmgame.com/news/202403/3891013.html)
+
++ [调查称：美国一半以上玩家认为需要解决游戏内骚扰问题](https://www.3dmgame.com/news/202403/3891012.html)
+
++ [《宿星的女朋友2》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3891010.html)
+
++ [次世代动作MMORPG《时空奥德赛》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3891009.html)
+
++ [《诡野西部》开发商第二款游戏将是复古科幻FPS](https://www.3dmgame.com/news/202403/3891008.html)
+
++ [Remedy 2023年财报：收入下降22.2% 《心灵杀手2》回本](https://www.3dmgame.com/news/202403/3891007.html)
+
++ [《星球大战：前线 经典合集》差评如潮后发布首个更新补丁](https://www.3dmgame.com/news/202403/3891006.html)
+
++ [《Card en ciel》预定登陆多平台 卡牌战斗RPG新游](https://www.3dmgame.com/news/202403/3891005.html)
+
++ [《真女神转生5：复仇》反向跳票一周 6月14日发售](https://www.3dmgame.com/news/202403/3891004.html)
+
++ [拳头已重启《英雄联盟》MMO项目 还要开发几年](https://www.3dmgame.com/news/202403/3891003.html)
+
++ [《异形：夺命舰》中文先导预告骇人来袭 8月16日北美上映](https://www.3dmgame.com/news/202403/3891002.html)
+
++ [《龙之信条2》IGN评8分 发扬了优点但没解决缺点](https://www.3dmgame.com/news/202403/3891001.html)
+
