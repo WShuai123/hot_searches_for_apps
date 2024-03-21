@@ -275,3 +275,5 @@
 
 + [英伟达只在部分RTX 50系列显卡选用GDDR7](https://www.3dmgame.com/news/202403/3891074.html)
 
++ [心理恐怖游戏《洛蕾塔》将于4月11日登陆主机](https://www.3dmgame.com/news/202403/3891075.html)
+

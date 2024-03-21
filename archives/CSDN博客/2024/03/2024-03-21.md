@@ -217,3 +217,7 @@
 
 + [如何在CentOS搭建docker compose ui可视化工具并无公网IP远程管理容器](https://blog.csdn.net/qyj19920704/article/details/136909730)
 
++ [【Rust】——String集合](https://blog.csdn.net/shsjssnn/article/details/136237892)
+
++ [【研发日记】Matlab/Simulink避坑指南(十)——移位溢出Bug](https://blog.csdn.net/CSSUST/article/details/136890702)
+

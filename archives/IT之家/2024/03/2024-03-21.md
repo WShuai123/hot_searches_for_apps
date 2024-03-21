@@ -57,3 +57,5 @@
 
 + [小米 14 / Pro 手机下月起获推大师人像功能，小米 13 Ultra 将在 6 月前全量推送](https://m.ithome.com/html/757229.htm)
 
++ [小米 Civi 4 Pro 手机搭载前置仿生双主摄，支持 AI 人像大模型](https://m.ithome.com/html/757090.htm)
+
