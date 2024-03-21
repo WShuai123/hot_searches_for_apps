@@ -49,3 +49,21 @@
 
 + [Dorado Catfish Migration Illustrated Map](https://dribbble.com/shots/)
 
++ [Dieselpunk USA Blimp](https://dribbble.com/shots/)
+
++ [Figure illustrations - Chapter One](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Pictorial Mark](https://dribbble.com/shots/)
+
++ [D&D Alignment Badge Illustrations](https://dribbble.com/shots/)
+
++ [Wild Isles](https://dribbble.com/shots/)
+
++ [Glyph Beer 33](https://dribbble.com/shots/)
+
++ [Capturing Timeless Essence](https://dribbble.com/shots/)
+
++ [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+

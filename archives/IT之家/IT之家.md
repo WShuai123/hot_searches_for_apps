@@ -25,3 +25,5 @@
 
 + [小米 Civi 4 Pro 手机搭载前置仿生双主摄，支持 AI 人像大模型](https://m.ithome.com/html/757090.htm)
 
++ [郑恺“喜提”库克签名 iPhone 手机，请求苹果继续生产 mini 系列](https://m.ithome.com/html/757327.htm)
+

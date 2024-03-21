@@ -61,3 +61,5 @@
 
 + [我们Acer就喜欢看美女！第十期](http://www.acfun.cn/v/ac44115847)
 
++ [【KanA】Lost One的号哭【一些教室速学速录、、](http://www.acfun.cn/v/ac44113251)
+
