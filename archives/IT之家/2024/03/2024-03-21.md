@@ -59,3 +59,7 @@
 
 + [小米 Civi 4 Pro 手机搭载前置仿生双主摄，支持 AI 人像大模型](https://m.ithome.com/html/757090.htm)
 
++ [苏姿丰亮相北京高喊 YES，AMD 展示 AI 笔记本实时简笔画生图](https://m.ithome.com/html/757240.htm)
+
++ [英特尔：AI PC 提升内存容量需求，32GB 将成为入门级标配](https://m.ithome.com/html/757060.htm)
+

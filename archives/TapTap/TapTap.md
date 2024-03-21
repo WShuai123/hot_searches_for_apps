@@ -29,3 +29,5 @@
 
 + [三国云梦录](https://www.taptap.cn/app/471232)
 
++ [野蛮人大作战2](https://www.taptap.cn/app/237277)
+
