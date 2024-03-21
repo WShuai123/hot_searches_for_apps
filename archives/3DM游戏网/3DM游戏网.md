@@ -117,3 +117,13 @@
 
 + [《波斯王子：失落的王冠》勇士之路免费更新上线](https://www.3dmgame.com/news/202403/3890992.html)
 
++ [《龙之信条2》PC版性能表现不佳 卡普空表示会尽快改进](https://www.3dmgame.com/news/202403/3891000.html)
+
++ [Paradox新模拟游戏《FOUNDRY》5/2推出EA版](https://www.3dmgame.com/news/202403/3890999.html)
+
++ [《秋之回忆9：星穹之下》欧美版推出 登陆Steam](https://www.3dmgame.com/news/202403/3890998.html)
+
++ [黑曜石经典《阿尔法协议》PC版通过GOG重新上架](https://www.3dmgame.com/news/202403/3890997.html)
+
++ [次世代MMORPG《时空奥德赛》GDC24预告片](https://www.3dmgame.com/news/202403/3890996.html)
+
