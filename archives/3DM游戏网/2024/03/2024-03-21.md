@@ -267,3 +267,7 @@
 
 + [《超级肌肉猫》登陆Steam 爆笑2D横版动作新游](https://www.3dmgame.com/news/202403/3891069.html)
 
++ [《轩辕剑7》Switch版宣布5月30日发售 限定版内容公开](https://www.3dmgame.com/news/202403/3891071.html)
+
++ [专家解答到底每天睡多久才算睡够了：7到9小时最健康](https://www.3dmgame.com/news/202403/3891072.html)
+

@@ -65,3 +65,5 @@
 
 + [Flipper Zero 在加拿大要被禁用了](https://www.freebuf.com/news/395475.html)
 
++ [大模型赋能安全运营实践 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/395470.html)
+

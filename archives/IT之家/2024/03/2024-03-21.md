@@ -47,3 +47,5 @@
 
 + [2999 元起，小米 Civi 4 Pro 手机正式发布：全球首发高通骁龙 8s Gen3](https://m.ithome.com/html/757221.htm)
 
++ [1 米 81 大高个的雷军亲测小米汽车 SU7 后排，称“空间是足够的”](https://m.ithome.com/html/757233.htm)
+
