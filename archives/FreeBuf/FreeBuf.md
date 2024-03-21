@@ -61,3 +61,5 @@
 
 + [谷歌Firebase泄露1900万明文密码，2.2亿条数据记录](https://www.freebuf.com/news/395473.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+

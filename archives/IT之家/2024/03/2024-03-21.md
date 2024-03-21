@@ -43,3 +43,5 @@
 
 + [Yuzu 倒下之后仍有来者，Switch 模拟器 Suyu 正式版本开放下载](https://m.ithome.com/html/757048.htm)
 
++ [消息称智界 S7 汽车 4 月 8 日再度上市发布，华为 x 奇瑞联合打造](https://m.ithome.com/html/757112.htm)
+

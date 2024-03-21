@@ -153,3 +153,25 @@
 
 + [ScreenDust](https://www.producthunt.com/posts/screendust)
 
++ [Podwise AI](https://www.producthunt.com/posts/podwise-ai)
+
++ [Reelit](https://www.producthunt.com/posts/reelit)
+
++ [html.to.design 3.0](https://www.producthunt.com/posts/html-to-design-3-0)
+
++ [gena](https://www.producthunt.com/posts/gena)
+
++ [Subjects Grade Calculator](https://www.producthunt.com/posts/subjects-grade-calculator)
+
++ [Pulse AI](https://www.producthunt.com/posts/pulse-ai)
+
++ [Replai](https://www.producthunt.com/posts/replai-0eaad485-ccdb-4323-be3a-d9288e87d2d5)
+
++ [UpSkill Safety Coach for Kids](https://www.producthunt.com/posts/upskill-safety-coach-for-kids)
+
++ [Infography](https://www.producthunt.com/posts/infography)
+
++ [SheetSavvy AI](https://www.producthunt.com/posts/sheetsavvy-ai)
+
++ [Butterflye](https://www.producthunt.com/posts/butterflye-3)
+
