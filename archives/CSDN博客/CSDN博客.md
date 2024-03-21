@@ -183,3 +183,11 @@
 
 + [K8S核心原理](https://blog.csdn.net/qq_38548730/article/details/136887679)
 
++ [【赠书】从深度学习到图神经网络：模型与实践](https://blog.csdn.net/m0_63834988/article/details/136808230)
+
++ [成为高效Java工程师的干货笔记](https://blog.csdn.net/qq_44273429/article/details/136901469)
+
++ [const，static深度总结——c++穿透式分析](https://blog.csdn.net/strive_mianyang/article/details/136662820)
+
++ [http/https协议](https://blog.csdn.net/qq_35639854/article/details/136838829)
+

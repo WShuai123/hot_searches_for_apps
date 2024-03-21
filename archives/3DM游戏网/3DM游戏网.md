@@ -209,3 +209,27 @@
 
 + [我国自主研制的首列氢能源市域列车成功达速试跑 续航可达1000公里以上](https://www.3dmgame.com/news/202403/3891037.html)
 
++ [《解限机》新增内容PV 线下试玩招募中](https://www.3dmgame.com/news/202403/3891050.html)
+
++ [《KEMCO RPG精选集6》登陆Switch 收录4部经典游戏](https://www.3dmgame.com/news/202403/3891051.html)
+
++ [《子弹列车》男星回应饰演007传闻：不想定死未来](https://www.3dmgame.com/news/202403/3891052.html)
+
++ [剧场版动画《怪化猫：唐伞》发布第二弹PV 7月26日上映](https://www.3dmgame.com/news/202403/3891053.html)
+
++ [澳大利亚亿万富翁欲复制泰坦尼克号 预计2027年首航](https://www.3dmgame.com/news/202403/3891046.html)
+
++ [《守望先锋2》现任总监也不确定只靠卖皮肤能否维持游戏运营](https://www.3dmgame.com/news/202403/3891047.html)
+
++ [走着玩儿的回合肉鸽！《异界失控》4月12日正式发售](https://www.3dmgame.com/news/202403/3891048.html)
+
++ [《最终幻想7：重生》1.02修复补丁上线 改善帧率和画质](https://www.3dmgame.com/news/202403/3891049.html)
+
++ [Figma可动人偶推出《王国之泪》版林克套装 含多种武器和道具](https://www.3dmgame.com/news/202403/3891042.html)
+
++ [2024年GDC游戏开发者选择奖获奖名单公布 《博德之门3》年度最佳](https://www.3dmgame.com/news/202403/3891043.html)
+
++ [《The Darkness Below》Steam抢测 复古3D迷宫探索](https://www.3dmgame.com/news/202403/3891044.html)
+
++ [《星球大战 侍者》主创：编剧不懂原作但这是好事](https://www.3dmgame.com/news/202403/3891045.html)
+

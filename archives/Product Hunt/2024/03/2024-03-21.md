@@ -103,3 +103,53 @@
 
 + [Wireshape Vision AI](https://www.producthunt.com/posts/wireshape-vision-ai)
 
++ [Velja 2.0](https://www.producthunt.com/posts/velja-2-0)
+
++ [ZoomShift Team Communication](https://www.producthunt.com/posts/zoomshift-team-communication)
+
++ [Thingy](https://www.producthunt.com/posts/thingy)
+
++ [Sonauto](https://www.producthunt.com/posts/sonauto)
+
++ [Flirt Like Pro](https://www.producthunt.com/posts/flirt-like-pro)
+
++ [Synapsy Write](https://www.producthunt.com/posts/synapsy-write)
+
++ [BetterPic](https://www.producthunt.com/posts/betterpic-2)
+
++ [Shoutouts by Product Hunt](https://www.producthunt.com/posts/shoutouts-by-product-hunt)
+
++ [Niuco](https://www.producthunt.com/posts/niuco)
+
++ [Gandalf](https://www.producthunt.com/posts/gandalf-2)
+
++ [LookAway](https://www.producthunt.com/posts/lookaway)
+
++ [Orca Scan](https://www.producthunt.com/posts/orca-scan)
+
++ [Albert AI](https://www.producthunt.com/posts/albert-ai)
+
++ [X Beast (Beta)](https://www.producthunt.com/posts/x-beast-beta)
+
++ [Vapi](https://www.producthunt.com/posts/vapi)
+
++ [Examly.ai](https://www.producthunt.com/posts/examly-ai)
+
++ [Velt: Fullstack Comments SDK](https://www.producthunt.com/posts/velt-fullstack-comments-sdk)
+
++ [Polaris](https://www.producthunt.com/posts/polaris-2)
+
++ [Dub.co](https://www.producthunt.com/posts/dub)
+
++ [Kitemaker](https://www.producthunt.com/posts/kitemaker-3)
+
++ [actiTIME Time Management Assistant](https://www.producthunt.com/posts/actitime-time-management-assistant)
+
++ [TofuPilot](https://www.producthunt.com/posts/tofupilot)
+
++ [Spiral Social](https://www.producthunt.com/posts/spiral-social)
+
++ [RevealStack](https://www.producthunt.com/posts/revealstack)
+
++ [ScreenDust](https://www.producthunt.com/posts/screendust)
+

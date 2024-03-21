@@ -57,3 +57,7 @@
 
 + [GitHub 推出全新 AI 功能，可自动修复代码漏洞](https://www.freebuf.com/news/395466.html)
 
++ [Uscrapper：一款功能强大的网络资源爬取工具](https://www.freebuf.com/sectool/392494.html)
+
++ [谷歌Firebase泄露1900万明文密码，2.2亿条数据记录](https://www.freebuf.com/news/395473.html)
+
