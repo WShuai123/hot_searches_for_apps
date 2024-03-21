@@ -37,3 +37,5 @@
 
 + [22.98 万-30.98 万元，一汽红旗纯电动轿车 EH7 上市](https://m.ithome.com/html/757038.htm)
 
++ [比亚迪宋 L 汽车首次 OTA 升级：新增自动泊车、自动关窗等，大量体验优化](https://m.ithome.com/html/756885.htm)
+

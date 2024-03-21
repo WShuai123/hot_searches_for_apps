@@ -49,3 +49,5 @@
 
 + [GitHub 推出全新 AI 功能，可用于自动修复代码漏洞](https://www.freebuf.com/news/395466.html)
 
++ [chrome v8漏洞CVE-2021-30632浅析](https://www.freebuf.com/vuls/394933.html)
+

@@ -159,3 +159,19 @@
 
 + [Docker-镜像仓库](https://blog.csdn.net/m0_74365243/article/details/136081433)
 
++ [【机器学习】无监督学习算法之：高斯混合模型](https://blog.csdn.net/wuyoudeyuer/article/details/135896716)
+
++ [QGIS开发笔记（一）：QGIS介绍、软件下载和加载shp地图数据Demo](https://blog.csdn.net/qq21497936/article/details/136888334)
+
++ [Python利用pygame实现飞机大战游戏](https://blog.csdn.net/liu17234050/article/details/136892139)
+
++ [RabbitMQ的幂等性、优先级队列和惰性队列](https://blog.csdn.net/m0_64074924/article/details/136804618)
+
++ [第八篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读使用Python库清洗处理从PDF文件提取的文本](https://blog.csdn.net/jackchuanqi/article/details/136900458)
+
++ [微信小程序的配置文件使用说明：](https://blog.csdn.net/tianlei_/article/details/136810937)
+
++ [​HTTP与HTTPS：网络通信的安全卫士](https://blog.csdn.net/2201_75809246/article/details/136888188)
+
++ [数学建模（熵权法 python代码 例子）](https://blog.csdn.net/qq_74156152/article/details/136888871)
+
