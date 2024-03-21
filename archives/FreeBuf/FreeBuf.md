@@ -67,3 +67,5 @@
 
 + [大模型赋能安全运营实践 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/395470.html)
 
++ [CRSF、JSONP劫持、CORS配置不当中的cookie跨域问题](https://www.freebuf.com/articles/web/395006.html)
+

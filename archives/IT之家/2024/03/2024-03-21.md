@@ -49,3 +49,11 @@
 
 + [1 米 81 大高个的雷军亲测小米汽车 SU7 后排，称“空间是足够的”](https://m.ithome.com/html/757233.htm)
 
++ [力度堪比双 11：速领京东全品类通用 20 元平台补贴（连发 11 天）](https://m.ithome.com/html/757135.htm)
+
++ [李想发全员信：理想 MEGA 汽车存在节奏问题，且公司过分关注销量](https://m.ithome.com/html/757201.htm)
+
++ [苹果 OLED iPad Pro 2024 屏幕边框数据曝光：12.9 英寸机型仅 7.08mm](https://m.ithome.com/html/757072.htm)
+
++ [小米 14 / Pro 手机下月起获推大师人像功能，小米 13 Ultra 将在 6 月前全量推送](https://m.ithome.com/html/757229.htm)
+

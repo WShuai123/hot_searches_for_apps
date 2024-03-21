@@ -271,3 +271,7 @@
 
 + [专家解答到底每天睡多久才算睡够了：7到9小时最健康](https://www.3dmgame.com/news/202403/3891072.html)
 
++ [英伟达：不到十年 AI就能即时生成游戏的每个像素](https://www.3dmgame.com/news/202403/3891073.html)
+
++ [英伟达只在部分RTX 50系列显卡选用GDDR7](https://www.3dmgame.com/news/202403/3891074.html)
+

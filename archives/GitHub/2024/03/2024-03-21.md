@@ -51,3 +51,19 @@
 
 + [hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
++ [microsoft / garnet](https://github.com/microsoft/garnet)
+
++ [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+
++ [ynqa / jnv](https://github.com/ynqa/jnv)
+
++ [microsoft / retina](https://github.com/microsoft/retina)
+
++ [CISOfy / lynis](https://github.com/CISOfy/lynis)
+
++ [dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents)
+
++ [yesmore / vmail](https://github.com/yesmore/vmail)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
