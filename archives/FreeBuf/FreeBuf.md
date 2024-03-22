@@ -45,3 +45,7 @@
 
 + [对大型语言模型的安全性能进行基准测试，谁更胜一筹？](https://www.freebuf.com/articles/paper/395370.html)
 
++ [黑客可通过Unsaflok 漏洞获取数百万家酒店房门“万能钥匙”](https://www.freebuf.com/news/395588.html)
+
++ [联合国通过首个全球人工智能决议草案](https://www.freebuf.com/news/395599.html)
+

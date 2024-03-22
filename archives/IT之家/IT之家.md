@@ -35,3 +35,5 @@
 
 + [1799 元起，小米 Redmi K70E 手机限时优惠 200 元：天玑 8300-Ultra 处理器 / 5500mAh 电池](https://m.ithome.com/html/757246.htm)
 
++ [苹果上海静安 Apple Store 零售店正式开业，库克亲临现场揭幕](https://m.ithome.com/html/757304.htm)
+
