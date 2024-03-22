@@ -131,3 +131,15 @@
 
 + [Docker 笔记（八）--Dockerfile](https://blog.csdn.net/shijin741231/article/details/136708884)
 
++ [【视频异常检测 Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly...论文阅读](https://blog.csdn.net/weixin_44609958/article/details/136873005)
+
++ [OpenAI Sora文生视频模型技术报告中英全文](https://blog.csdn.net/starzhou/article/details/136910696)
+
++ [外包干了20天，技术退步明显.......](https://blog.csdn.net/2301_78843735/article/details/136918284)
+
++ [低代码开发与物联网应用：重塑未来技术生态](https://blog.csdn.net/kfashfasf/article/details/136914294)
+
++ [GPT实战系列-构建本地知识库RAG的LLM Agent](https://blog.csdn.net/Alex_StarSky/article/details/136923054)
+
++ [如何在Linux系统部署Dupal CMS结合内网穿透实现无公网IP访问web界面](https://blog.csdn.net/bushibrnxiaohaij/article/details/136924944)
+

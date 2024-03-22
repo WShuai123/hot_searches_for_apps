@@ -31,3 +31,5 @@
 
 + [零跑汽车奖励爱心车主一辆零跑 C10：因礼让救护车意外“卡路里”](https://m.ithome.com/html/757579.htm)
 
++ [华为知情人士：Mate60 系列手机没有停产，欢迎继续选购](https://m.ithome.com/html/757602.htm)
+
