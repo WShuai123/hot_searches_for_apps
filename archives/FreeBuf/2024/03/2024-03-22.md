@@ -51,3 +51,5 @@
 
 + [企业安全测试 | 云网OA代码审计](https://www.freebuf.com/articles/web/394772.html)
 
++ [ Sign1 恶意软件感染了 3.9 万个 WordPress 网站](https://www.freebuf.com/news/395610.html)
+
