@@ -189,3 +189,13 @@
 
 + [【ACL 2023-NER注入到PLM】数据集+实验解读：基于上下文学习的命名实体识别 Learning In-context Learning for Named Entity Recognitio](https://blog.csdn.net/wtyuong/article/details/136918575)
 
++ [‍Java OCR技术全面解析：六大解决方案比较](https://blog.csdn.net/qq_44866828/article/details/136906322)
+
++ [GaussDB WDR分析之集群报告篇](https://blog.csdn.net/GaussDB/article/details/136940209)
+
++ [3D高斯泼溅的崛起](https://blog.csdn.net/wanwan819/article/details/136903314)
+
++ [微服务网关介绍](https://blog.csdn.net/weixin_57763462/article/details/136923915)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/136918054)
+

@@ -113,3 +113,17 @@
 
 + [这几年吃的最贵的一顿烤肉，好饿【茗魂vlog】](http://www.acfun.cn/v/ac44122770)
 
++ [【九人合唱】Blessing ～感谢奇迹般汇聚在这里的我们](http://www.acfun.cn/v/ac44121812)
+
++ [价值一万元的玻璃杯有什么特别之处？](http://www.acfun.cn/v/ac44119292)
+
++ [生儿育女【今天有什么好笑的 #1498】](http://www.acfun.cn/v/ac44122077)
+
++ [军转民23作训自热食品，糖水梨和菌菇炒饭味道不错](http://www.acfun.cn/v/ac44117467)
+
++ [天天登dua身体棒](http://www.acfun.cn/v/ac44123711)
+
++ [【猫meme】真实事例改编：关于我在校园被霸凌的往事](http://www.acfun.cn/v/ac44116875)
+
++ [我将六把剃须刀改造成了一只会动的蜘蛛，使用效果到底怎么样？](http://www.acfun.cn/v/ac44115829)
+

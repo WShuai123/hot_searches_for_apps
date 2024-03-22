@@ -263,3 +263,5 @@
 
 + [中国首部！AI全流程微短剧《中国神话》发布](https://www.3dmgame.com/news/202403/3891159.html)
 
++ [英伟达将更新部分RTX 40系列显卡 RTX 4070和4060系列将使用新芯片](https://www.3dmgame.com/news/202403/3891166.html)
+
