@@ -49,3 +49,17 @@
 
 + [Panda Logo](https://dribbble.com/shots/)
 
++ [Glyph Beer 33](https://dribbble.com/shots/)
+
++ [Blazing Saddles Trail Races](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Pictorial Mark](https://dribbble.com/shots/)
+
++ [Medieval Tavern](https://dribbble.com/shots/)
+
++ [Music laboratory 4](https://dribbble.com/shots/)
+
++ [Canada Goose](https://dribbble.com/shots/)
+
++ [Our Mother city](https://dribbble.com/shots/)
+

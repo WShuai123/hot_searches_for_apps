@@ -101,3 +101,11 @@
 
 + [克系城市建造游戏《克苏鲁信徒》公布 2024年发售](https://www.3dmgame.com/news/202403/3891122.html)
 
++ [传闻：《生化危机9》建立在《龙之信条2》开放世界基础上](https://www.3dmgame.com/news/202403/3891174.html)
+
++ [GOG喜加一：《恶魔之书》免费领取](https://www.3dmgame.com/news/202403/3891172.html)
+
++ [外媒评15款开放式黑帮题材游戏 《GTA3》等](https://www.3dmgame.com/news/202403/3891173.html)
+
++ [今天是《只狼》发售五周年 众多玩家表示纪念](https://www.3dmgame.com/news/202403/3891171.html)
+

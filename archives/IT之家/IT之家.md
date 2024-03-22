@@ -25,3 +25,5 @@
 
 + [消息称苹果在中国与百度就 iOS 18 生成式 AI 合作进行谈判](https://m.ithome.com/html/757586.htm)
 
++ [世界首例猪肾成功移植到活人体内](https://m.ithome.com/html/757400.htm)
+
