@@ -39,3 +39,9 @@
 
 + [雷军公布第二批小米汽车交付中心城市候选名单，投票选出 10 个城市](https://m.ithome.com/html/757398.htm)
 
++ [苹果首次确认：曾试图为安卓手机开发 Apple Watch，耗时三年后因技术限制而放弃](https://m.ithome.com/html/757354.htm)
+
++ [9888 元起，微软 Surface Pro 10 商用版发布：搭载酷睿 Ultra 处理器、防眩光屏幕，支持 5G](https://m.ithome.com/html/757344.htm)
+
++ [游族网络投毒案后续：被告人许垚一审被判处死刑](https://m.ithome.com/html/757407.htm)
+

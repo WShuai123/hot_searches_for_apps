@@ -213,3 +213,7 @@
 
 + [《伊苏10》Steam版品控翻车下架停售 官方接受玩家退款](https://www.3dmgame.com/news/202403/3891134.html)
 
++ [漫改动画《暗杀女仆冥土小姐》宣传PV公开 2024年10月播出](https://www.3dmgame.com/news/202403/3891141.html)
+
++ [拉瑞安老板：发行商别总是想着赚钱 要关心开发者](https://www.3dmgame.com/news/202403/3891142.html)
+

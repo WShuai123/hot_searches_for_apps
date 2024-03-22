@@ -159,3 +159,15 @@
 
 + [Java微服务分布式事务框架seata的TCC模式](https://blog.csdn.net/s445320/article/details/136928879)
 
++ [Spark-Scala语言实战（3）](https://blog.csdn.net/qq_49513817/article/details/136839079)
+
++ [机器学习----交叉熵(Cross Entropy)如何做损失函数](https://blog.csdn.net/lmy050813/article/details/136927204)
+
++ [ElasticSearch使用（一）](https://blog.csdn.net/qq_43456605/article/details/136863050)
+
++ [【网络原理】详解HTTPS协议加密过程](https://blog.csdn.net/m0_65941010/article/details/136922181)
+
++ [第113讲：Mycat实践指南：按照单位为天的日期实现水平分表](https://blog.csdn.net/weixin_44953658/article/details/136929548)
+
++ [HTTPS 协议原理](https://blog.csdn.net/gtyyky/article/details/136451949)
+
