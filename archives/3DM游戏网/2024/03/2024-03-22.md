@@ -241,3 +241,11 @@
 
 + [《猩球崛起：新世界》定档海报及预告 5月10日上映](https://www.3dmgame.com/news/202403/3891143.html)
 
++ [《尼尔：机械纪元Ver1.1a》动画第二季发布首个PV预告 新视觉海报公开](https://www.3dmgame.com/news/202403/3891158.html)
+
++ [ETHxCAT：猫爱好者的终极区块链GameFi冒险](https://www.3dmgame.com/news/202403/3891156.html)
+
++ [《艾诺提亚：失落之歌》预定于2024年8月22日发售！](https://www.3dmgame.com/news/202403/3891157.html)
+
++ [《超级猴子球 香蕉大乱斗》游戏模式及关卡介绍 丰富多彩的关卡](https://www.3dmgame.com/news/202403/3891155.html)
+

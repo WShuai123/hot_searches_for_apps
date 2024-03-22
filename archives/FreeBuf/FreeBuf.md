@@ -57,3 +57,5 @@
 
 + [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
 
++ [AWS曝一键式漏洞，攻击者可接管Apache Airflow服务](https://www.freebuf.com/news/395687.html)
+
