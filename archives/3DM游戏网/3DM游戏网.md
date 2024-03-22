@@ -119,3 +119,37 @@
 
 + [单人剧情驱动冒险游戏《尘路之旅》8/20发行](https://www.3dmgame.com/news/202403/3891090.html)
 
++ [中世纪农奴模拟游戏《桎梏之下》Steam版3月28日发售](https://www.3dmgame.com/news/202403/3891110.html)
+
++ [《流放之路2》BETA延期 游侠职业14分钟实机、1代资料片“亡灵联盟”公布](https://www.3dmgame.com/news/202403/3891108.html)
+
++ [《自杀小队：消灭正义联盟》第一赛季实机 3月28日上线](https://www.3dmgame.com/news/202403/3891109.html)
+
++ [微软等公司纷纷支持Epic 指责苹果无视法院裁决](https://www.3dmgame.com/news/202403/3891107.html)
+
++ [《方舟》动画剧集第一季已正式上线北美 将在4月登录其他地区](https://www.3dmgame.com/news/202403/3891106.html)
+
++ [索尼中国之星计划《觉醒异刃》宣布2024年第三季度发售](https://www.3dmgame.com/news/202403/3891105.html)
+
++ [《刺客信条：RED》新情报泄露 跑酷将更加出色](https://www.3dmgame.com/news/202403/3891103.html)
+
++ [《恩诺提利亚：终曲》实机预告 8月21日发售](https://www.3dmgame.com/news/202403/3891104.html)
+
++ [《饥荒：联机版》预告“拾荒斗士”更新 下周上线](https://www.3dmgame.com/news/202403/3891101.html)
+
++ [《恶意不息》概述预告 4月18日EA发售](https://www.3dmgame.com/news/202403/3891100.html)
+
++ [P社抢先体验的《群星 Nexus》正式更名为《Nexus 5X》](https://www.3dmgame.com/news/202403/3891099.html)
+
++ [三上真司又成立新工作室“神威/カムイ”](https://www.3dmgame.com/news/202403/3891098.html)
+
++ [Media Molecule裁员完成 《梦境》持续支持即将停止](https://www.3dmgame.com/news/202403/3891102.html)
+
++ [《地平线：西之绝境》Steam特别好评 玩家称赞优化相当给力](https://www.3dmgame.com/news/202403/3891097.html)
+
++ [《死亡岛2》第二个故事DLC“SoLA”4月17日上线](https://www.3dmgame.com/news/202403/3891096.html)
+
++ [拉瑞安不打算制作《博德之门3》DLC或《博德之门4》](https://www.3dmgame.com/news/202403/3891095.html)
+
++ [索尼在巴西工厂新开设产品线 为拉美玩家生产PS5光盘](https://www.3dmgame.com/news/202403/3891094.html)
+
