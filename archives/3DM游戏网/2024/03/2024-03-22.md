@@ -271,3 +271,5 @@
 
 + [《龙之信条2》Steam峰值超18万 几乎是初代游戏7倍](https://www.3dmgame.com/news/202403/3891167.html)
 
++ [全球首个万兆宽带落户上海一小区：下载90GB文件72秒](https://www.3dmgame.com/news/202403/3891170.html)
+

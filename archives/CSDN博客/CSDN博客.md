@@ -203,3 +203,5 @@
 
 + [【YOLOv8性能对比试验】YOLOv8n/s/m/l/x不同模型尺寸大小的实验结果对比及结论参考](https://blog.csdn.net/qq_42589613/article/details/136905677)
 
++ [【鸿蒙HarmonyOS开发笔记】通知模块之发布进度条类型通知](https://blog.csdn.net/qq_53270554/article/details/136891908)
+
