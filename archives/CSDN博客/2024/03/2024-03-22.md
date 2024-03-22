@@ -171,3 +171,7 @@
 
 + [HTTPS 协议原理](https://blog.csdn.net/gtyyky/article/details/136451949)
 
++ [【深度学习】最强算法之：深度神经网络（DNN）](https://blog.csdn.net/wuyoudeyuer/article/details/136619677)
+
++ [基于Matlab的视频人体动作识别，Matlab实现](https://blog.csdn.net/Matlab_ImagePro/article/details/136889650)
+

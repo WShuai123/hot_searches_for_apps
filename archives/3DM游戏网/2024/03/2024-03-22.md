@@ -217,3 +217,27 @@
 
 + [拉瑞安老板：发行商别总是想着赚钱 要关心开发者](https://www.3dmgame.com/news/202403/3891142.html)
 
++ [我国网民规模达10.92亿人：互联网普及率77.5%！](https://www.3dmgame.com/news/202403/3891154.html)
+
++ [淘金计划专访：明星创作者七殺黑手，游戏热爱让我们相聚！](https://www.3dmgame.com/news/202403/3891153.html)
+
++ [《GTA6》新截图疑似泄露 展示了游戏的技术状态](https://www.3dmgame.com/news/202403/3891152.html)
+
++ [暴雪前总裁：索尼有PC移植工作室 真是明智之举](https://www.3dmgame.com/news/202403/3891151.html)
+
++ [靠骂人成名，低俗主播缘何成了圈粉“网红”？](https://www.3dmgame.com/news/202403/3891150.html)
+
++ [《龙之信条2》怪物会互相战斗 会不小心摔倒变桥梁](https://www.3dmgame.com/news/202403/3891149.html)
+
++ [澳洲银屏公司出资一百万美元 支持本国独立游戏开发](https://www.3dmgame.com/news/202403/3891148.html)
+
++ [“AI教父”辛顿最新预言：AI将操控人类](https://www.3dmgame.com/news/202403/3891147.html)
+
++ [农场模拟游戏《妖精农场》春季更新上线 新扩展包开发中](https://www.3dmgame.com/news/202403/3891146.html)
+
++ [重捏脸要花钱？《龙之信条2》大量功能微交易引争议](https://www.3dmgame.com/news/202403/3891145.html)
+
++ [《葬送的芙莉莲》二创引发连锁反应 芙莉莲登多部游戏封面](https://www.3dmgame.com/news/202403/3891144.html)
+
++ [《猩球崛起：新世界》定档海报及预告 5月10日上映](https://www.3dmgame.com/news/202403/3891143.html)
+
