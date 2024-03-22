@@ -29,3 +29,5 @@
 
 + [小米预热 Redmi 神秘新机：更好的新 8 系 / 跑分超 170 万，下月见](https://m.ithome.com/html/757318.htm)
 
++ [【IT之家开箱】小米 Civi 4 Pro 图赏：全球首发高通骁龙 8s Gen3，重量仅 179.3g](https://m.ithome.com/html/757311.htm)
+

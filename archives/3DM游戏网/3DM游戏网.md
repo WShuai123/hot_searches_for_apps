@@ -111,3 +111,11 @@
 
 + [老鼠ARPG《铁尾传奇2》宣布登陆PC与主机全平台](https://www.3dmgame.com/news/202403/3891086.html)
 
++ [网传《刺客信条：侠隐》推迟至2025年发售](https://www.3dmgame.com/news/202403/3891093.html)
+
++ [万代南梦宫《沙漠大冒险》“森林地区”预告片](https://www.3dmgame.com/news/202403/3891092.html)
+
++ [策略卡牌游戏《狭小空间中的骑士》面向PC公布](https://www.3dmgame.com/news/202403/3891091.html)
+
++ [单人剧情驱动冒险游戏《尘路之旅》8/20发行](https://www.3dmgame.com/news/202403/3891090.html)
+

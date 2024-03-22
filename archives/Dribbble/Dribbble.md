@@ -95,3 +95,5 @@
 
 + [Hangar Sisters Patch Mockup](https://dribbble.com/shots/)
 
++ [Panda Logo](https://dribbble.com/shots/)
+
