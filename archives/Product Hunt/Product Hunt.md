@@ -103,3 +103,7 @@
 
 + [SheetSavvy AI](https://www.producthunt.com/posts/sheetsavvy-ai)
 
++ [Vapi](https://www.producthunt.com/posts/vapi)
+
++ [QA Sphere](https://www.producthunt.com/posts/qa-sphere)
+

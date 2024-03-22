@@ -101,3 +101,9 @@
 
 + [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/136857779)
 
++ [【深度学习】最强算法之：深度神经网络（DNN）](https://blog.csdn.net/wuyoudeyuer/article/details/136619677)
+
++ [微信小程序的配置文件使用说明：](https://blog.csdn.net/tianlei_/article/details/136810937)
+
++ [外包干了6天，技术明显进步。。。](https://blog.csdn.net/2301_79535544/article/details/136920985)
+
