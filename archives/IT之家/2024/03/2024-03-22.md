@@ -33,3 +33,5 @@
 
 + [苹果 iOS / iPadOS 17.4.1 正式版发布：修复错误、提高安全性](https://m.ithome.com/html/757348.htm)
 
++ [1799 元起，小米 Redmi K70E 手机限时优惠 200 元：天玑 8300-Ultra 处理器 / 5500mAh 电池](https://m.ithome.com/html/757246.htm)
+

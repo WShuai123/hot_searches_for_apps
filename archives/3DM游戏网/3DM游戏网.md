@@ -153,3 +153,15 @@
 
 + [索尼在巴西工厂新开设产品线 为拉美玩家生产PS5光盘](https://www.3dmgame.com/news/202403/3891094.html)
 
++ [美国二月销量榜：收入上涨2% 《绝地潜兵2》登顶](https://www.3dmgame.com/news/202403/3891115.html)
+
++ [《阴间大法师2》首发前导预告 9月6日北美上映](https://www.3dmgame.com/news/202403/3891114.html)
+
++ [心理恐怖游戏《Still Wakes the Deep》发行日公布 6月18日推出](https://www.3dmgame.com/news/202403/3891117.html)
+
++ [冒险游戏《印蒂卡》发售日预告 5月8日上线](https://www.3dmgame.com/news/202403/3891113.html)
+
++ [入侵《Apex 英雄》北美决赛预选战的黑客解释动机：只是闹着玩](https://www.3dmgame.com/news/202403/3891112.html)
+
++ [国产游戏《重装前哨》公布新预告 标准版首发88元](https://www.3dmgame.com/news/202403/3891111.html)
+
