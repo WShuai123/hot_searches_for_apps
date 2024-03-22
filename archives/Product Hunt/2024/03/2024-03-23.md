@@ -107,3 +107,7 @@
 
 + [QA Sphere](https://www.producthunt.com/posts/qa-sphere)
 
++ [Pulse AI](https://www.producthunt.com/posts/pulse-ai)
+
++ [Polaris](https://www.producthunt.com/posts/polaris-2)
+
