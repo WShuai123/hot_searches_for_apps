@@ -67,3 +67,5 @@
 
 + [要买耳机的Acer看过来啦！！！](http://www.acfun.cn/v/ac44123301)
 
++ [咩咩生快！~【hjm鹅鸭杀】纪念你我永远怀念的时光](http://www.acfun.cn/v/ac44107908)
+
