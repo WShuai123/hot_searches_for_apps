@@ -249,3 +249,17 @@
 
 + [《超级猴子球 香蕉大乱斗》游戏模式及关卡介绍 丰富多彩的关卡](https://www.3dmgame.com/news/202403/3891155.html)
 
++ [《一起开火车2：汽笛重鸣》预告片公开](https://www.3dmgame.com/news/202403/3891164.html)
+
++ [员工泄露小米汽车SU7内饰照片 汽车之家回应：已开除](https://www.3dmgame.com/news/202403/3891160.html)
+
++ [《奇娅 Tchia》周年庆：现已登陆Steam](https://www.3dmgame.com/news/202403/3891165.html)
+
++ [投入载具战争的混乱战场，赚取双倍 GTAOL游戏币和声望值](https://www.3dmgame.com/news/202403/3891163.html)
+
++ [GYAAR Studio首届独立游戏比赛获奖佳作《弹飞噩梦》今日起正式开启发行！](https://www.3dmgame.com/news/202403/3891162.html)
+
++ [GSE首次举办蜡笔小新主题Cafe将于4月惊喜登场！](https://www.3dmgame.com/news/202403/3891161.html)
+
++ [中国首部！AI全流程微短剧《中国神话》发布](https://www.3dmgame.com/news/202403/3891159.html)
+

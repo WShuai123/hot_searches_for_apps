@@ -183,3 +183,9 @@
 
 + [数据可视化-ECharts Html项目实战（4）](https://blog.csdn.net/qq_49513817/article/details/136918036)
 
++ [文生图的基石CLIP模型的发展综述](https://blog.csdn.net/m0_46510245/article/details/136935525)
+
++ [实体框架EF（Entity Framework）简介](https://blog.csdn.net/songjianlong/article/details/136927845)
+
++ [【ACL 2023-NER注入到PLM】数据集+实验解读：基于上下文学习的命名实体识别 Learning In-context Learning for Named Entity Recognitio](https://blog.csdn.net/wtyuong/article/details/136918575)
+
