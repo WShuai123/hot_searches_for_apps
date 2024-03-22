@@ -199,3 +199,7 @@
 
 + [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/136918054)
 
++ [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_79535544/article/details/136857779)
+
++ [【YOLOv8性能对比试验】YOLOv8n/s/m/l/x不同模型尺寸大小的实验结果对比及结论参考](https://blog.csdn.net/qq_42589613/article/details/136905677)
+

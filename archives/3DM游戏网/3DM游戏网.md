@@ -265,3 +265,9 @@
 
 + [英伟达将更新部分RTX 40系列显卡 RTX 4070和4060系列将使用新芯片](https://www.3dmgame.com/news/202403/3891166.html)
 
++ [RTX 3050 6GB整体销售良好 英伟达要求显卡厂商执行涨价](https://www.3dmgame.com/news/202403/3891169.html)
+
++ [沙特将建世界首个《龙珠》主题公园 以孙悟空为中心](https://www.3dmgame.com/news/202403/3891168.html)
+
++ [《龙之信条2》Steam峰值超18万 几乎是初代游戏7倍](https://www.3dmgame.com/news/202403/3891167.html)
+
