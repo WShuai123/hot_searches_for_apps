@@ -141,3 +141,5 @@
 
 + [Linux 磁盘的一生](https://blog.csdn.net/ygy2405757153/article/details/136870367)
 
++ [使用Docker搭建YesPlayMusic网易云音乐播放器并发布至公网访问](https://blog.csdn.net/m0_68662723/article/details/136924161)
+
