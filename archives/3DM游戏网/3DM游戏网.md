@@ -199,3 +199,17 @@
 
 + [黄仁勋：完全由AI生成的游戏在未来五到十年内就会面世](https://www.3dmgame.com/news/202403/3891133.html)
 
++ [《伊苏回忆录：菲尔迦纳的誓约》中文版5月23日发售 登陆PS5/PS4](https://www.3dmgame.com/news/202403/3891140.html)
+
++ [沟渠引水，烹饪制药！联机生存建造游戏《无径之林》将于4月3日发售](https://www.3dmgame.com/news/202403/3891137.html)
+
++ [《面包房少女》发布11周年纪念作——《逆向坍塌：面包房行动》正式发售](https://www.3dmgame.com/news/202403/3891139.html)
+
++ [玩家提出《龙之信条2》游戏优化方案：NPC清除计划](https://www.3dmgame.com/news/202403/3891138.html)
+
++ [希里安·墨菲确认参演《浴血黑帮》电影 9月开拍](https://www.3dmgame.com/news/202403/3891136.html)
+
++ [《崩坏：星穹铁道》千星纪游PV：「虚谭•浮世三千一刀缭断」](https://www.3dmgame.com/news/202403/3891135.html)
+
++ [《伊苏10》Steam版品控翻车下架停售 官方接受玩家退款](https://www.3dmgame.com/news/202403/3891134.html)
+

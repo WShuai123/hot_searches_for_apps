@@ -37,3 +37,5 @@
 
 + [苹果上海静安 Apple Store 零售店正式开业，库克亲临现场揭幕](https://m.ithome.com/html/757304.htm)
 
++ [雷军公布第二批小米汽车交付中心城市候选名单，投票选出 10 个城市](https://m.ithome.com/html/757398.htm)
+
