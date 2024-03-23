@@ -179,3 +179,9 @@
 
 + [肉鸽《Shape of Dream》Steam页面上线 明年发售](https://www.3dmgame.com/news/202403/3891209.html)
 
++ [《星球大战：法外狂徒》韩国获19+评级：因含赌博小游戏](https://www.3dmgame.com/news/202403/3891211.html)
+
++ [欢乐大乱斗 在线对战游戏新作《Rumble Club》公布](https://www.3dmgame.com/news/202403/3891212.html)
+
++ [心理恐怖新作《Holstin》发布春季未来游戏展预告片](https://www.3dmgame.com/news/202403/3891210.html)
+

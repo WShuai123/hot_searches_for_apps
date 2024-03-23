@@ -187,3 +187,7 @@
 
 + [TCP与UDP：网络协议的技术原理与要点](https://blog.csdn.net/mba16c35/article/details/136953040)
 
++ [1.6 学Python能干什么，Python的应用领域有哪些](https://blog.csdn.net/qwy715229258163/article/details/136954632)
+
++ [如何让MySQL 和 Redis 数据保持一致](https://blog.csdn.net/sunyingboaini/article/details/136941459)
+
