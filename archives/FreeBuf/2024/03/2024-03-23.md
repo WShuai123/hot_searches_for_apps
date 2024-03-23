@@ -51,3 +51,5 @@
 
 + [漏洞分析 | WordPress Bricks Builder远程代码执行漏洞(CVE-2024-25600)](https://www.freebuf.com/vuls/394832.html)
 
++ [如何使用gssapi-abuse检测活动目录网络内存在GSSAPI滥用风险的主机](https://www.freebuf.com/sectool/392508.html)
+

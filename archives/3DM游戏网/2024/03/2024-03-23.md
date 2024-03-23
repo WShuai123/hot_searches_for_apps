@@ -161,3 +161,13 @@
 
 + [Insomniac险些移除《漫威蜘蛛侠2》快速旅行选项](https://www.3dmgame.com/news/202403/3891200.html)
 
++ [城市建设新作《Worshippers of Cthulhu》预告公布](https://www.3dmgame.com/news/202403/3891204.html)
+
++ [苹果可能在国内设备使用百度AI技术 集成于iOS 18](https://www.3dmgame.com/news/202403/3891205.html)
+
++ [360 AI浏览器APP即将上线：500万字长文本处理功能](https://www.3dmgame.com/news/202403/3891203.html)
+
++ [TH：Kotaku关于《GTA6》延期的报道纯粹是搅浑水](https://www.3dmgame.com/news/202403/3891202.html)
+
++ [脑机接口首位受试者用意念在X上发帖！马斯克转发回应](https://www.3dmgame.com/news/202403/3891201.html)
+
