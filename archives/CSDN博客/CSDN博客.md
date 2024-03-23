@@ -125,3 +125,5 @@
 
 + [马斯克开源Grok-1](https://blog.csdn.net/nbspzs/article/details/136897912)
 
++ [2核4G服务器多少钱？阿里云价格30元起](https://blog.csdn.net/tengxunyun/article/details/136953904)
+
