@@ -191,3 +191,7 @@
 
 + [如何让MySQL 和 Redis 数据保持一致](https://blog.csdn.net/sunyingboaini/article/details/136941459)
 
++ [Mysql学习--深入探究索引和事务的重点要点与考点](https://blog.csdn.net/xiaoxie8023/article/details/136942482)
+
++ [计算机网络——数据链路层（数据链路层功能概述）](https://blog.csdn.net/qq_67693066/article/details/136928748)
+

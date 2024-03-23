@@ -185,3 +185,5 @@
 
 + [心理恐怖新作《Holstin》发布春季未来游戏展预告片](https://www.3dmgame.com/news/202403/3891210.html)
 
++ [3D幸存者游戏《Hordes of Hunger》公布最新预告片](https://www.3dmgame.com/news/202403/3891213.html)
+
