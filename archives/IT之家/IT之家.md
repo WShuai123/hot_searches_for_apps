@@ -47,3 +47,5 @@
 
 + [商务部部长王文涛会见苹果公司 CEO 库克](https://m.ithome.com/html/757636.htm)
 
++ [雷军发布自驾小米 SU7 路测视频，北京到上海全程高速 NOA](https://m.ithome.com/html/757649.htm)
+

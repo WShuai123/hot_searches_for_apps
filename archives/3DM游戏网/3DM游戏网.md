@@ -171,3 +171,11 @@
 
 + [脑机接口首位受试者用意念在X上发帖！马斯克转发回应](https://www.3dmgame.com/news/202403/3891201.html)
 
++ [《球胜大本营》开发者：停止服务前请发布私服版本](https://www.3dmgame.com/news/202403/3891206.html)
+
++ [《恩诺提利亚：终曲》首发不登陆Xbox主机 官方致歉](https://www.3dmgame.com/news/202403/3891207.html)
+
++ [雷军：小米SU7测试车成本相当昂贵 最早每辆200多万](https://www.3dmgame.com/news/202403/3891208.html)
+
++ [肉鸽《Shape of Dream》Steam页面上线 明年发售](https://www.3dmgame.com/news/202403/3891209.html)
+

@@ -213,3 +213,5 @@
 
 + [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
 
++ [美映-AI写真&图片特效](https://itunes.apple.com/cn/app/id6475135046?mt=8)
+

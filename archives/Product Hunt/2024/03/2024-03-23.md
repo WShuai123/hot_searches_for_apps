@@ -155,3 +155,11 @@
 
 + [re:tune](https://www.producthunt.com/posts/re-tune-2)
 
++ [Shopifinity Engine™](https://www.producthunt.com/posts/shopifinity-engine)
+
++ [Stocknear](https://www.producthunt.com/posts/stocknear-2)
+
++ [Artadum](https://www.producthunt.com/posts/artadum)
+
++ [Procreate Match](https://www.producthunt.com/posts/procreate-match)
+
