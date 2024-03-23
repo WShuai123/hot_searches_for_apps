@@ -49,3 +49,19 @@
 
 + [Music laboratory 4](https://dribbble.com/shots/)
 
++ [City Quanzhou](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Pictorial Mark](https://dribbble.com/shots/)
+
++ [Travel Kaunas Icon](https://dribbble.com/shots/)
+
++ [Bob's Bagels Branding](https://dribbble.com/shots/)
+
++ [Protect What You Love artwork for Bigfoot](https://dribbble.com/shots/)
+
++ [Camera Controller Concept (Light)](https://dribbble.com/shots/)
+
++ [Glyph Beer 33](https://dribbble.com/shots/)
+
++ [G.K. Chesterton](https://dribbble.com/shots/)
+

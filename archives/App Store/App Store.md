@@ -201,3 +201,7 @@
 
 + [轻颜 - 记录美一刻](https://itunes.apple.com/cn/app/id1375390276?mt=8)
 
++ [Colorful Widget彩虹组件-桌面主题万能壁纸图标](https://itunes.apple.com/cn/app/id1538946171?mt=8)
+
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+
