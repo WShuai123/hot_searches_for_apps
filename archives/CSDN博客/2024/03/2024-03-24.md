@@ -127,3 +127,9 @@
 
 + [2核4G服务器多少钱？阿里云价格30元起](https://blog.csdn.net/tengxunyun/article/details/136953904)
 
++ [让AI替你回复微信——大语言模型的创意调用](https://blog.csdn.net/weixin_60223645/article/details/136975787)
+
++ [docker 的八大技术架构(图解)](https://blog.csdn.net/m0_73740682/article/details/136936927)
+
++ [2024年合肥师范学院网络分布式技能赛校赛 WP](https://blog.csdn.net/m0_73649671/article/details/136953720)
+
