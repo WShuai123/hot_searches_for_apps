@@ -119,3 +119,17 @@
 
 + [凉了！《守望先锋2》开发团队本月利润分成为零](https://www.3dmgame.com/news/202403/3891176.html)
 
++ [《黑暗太阳》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3891183.html)
+
++ [《指环王：夏尔的传说》预告短片 展示艺术效果图](https://www.3dmgame.com/news/202403/3891184.html)
+
++ [苹果因阻止云游戏服务和其他垄断行为被美国官方起诉](https://www.3dmgame.com/news/202403/3891185.html)
+
++ [《新蝙蝠侠》衍生剧《企鹅人》曝首支预告](https://www.3dmgame.com/news/202403/3891186.html)
+
++ [俯视角动作Roguelite游戏《深渊之影》发售日预告 4月23日EA发售](https://www.3dmgame.com/news/202403/3891180.html)
+
++ [《地平线：西之绝境》Steam在线峰值比初代下滑了一半](https://www.3dmgame.com/news/202403/3891181.html)
+
++ [法国去年游戏支出61亿欧元创纪录 主机销售强劲](https://www.3dmgame.com/news/202403/3891182.html)
+
