@@ -45,3 +45,5 @@
 
 + [CVE-2023-49442 利用分析](https://www.freebuf.com/vuls/394051.html)
 
++ [Thales SafeNet Sentinel HASP LDK本地提权漏洞（CVE-2024-0197）分析与复现](https://www.freebuf.com/vuls/395553.html)
+

@@ -111,3 +111,11 @@
 
 + [《最终幻想16：海之恸哭》PV公开 4月18日上线](https://www.3dmgame.com/news/202403/3891175.html)
 
++ [开发商Velan工作室裁员 一款开发中游戏被取消](https://www.3dmgame.com/news/202403/3891179.html)
+
++ [Kotaku：《GTA6》很有可能延期 2025年秋季甚至是2026年](https://www.3dmgame.com/news/202403/3891178.html)
+
++ [《圣杯誓约》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3891177.html)
+
++ [凉了！《守望先锋2》开发团队本月利润分成为零](https://www.3dmgame.com/news/202403/3891176.html)
+
