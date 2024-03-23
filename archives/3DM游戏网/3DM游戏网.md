@@ -109,3 +109,5 @@
 
 + [今天是《只狼》发售五周年 众多玩家表示纪念](https://www.3dmgame.com/news/202403/3891171.html)
 
++ [《最终幻想16：海之恸哭》PV公开 4月18日上线](https://www.3dmgame.com/news/202403/3891175.html)
+

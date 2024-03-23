@@ -33,3 +33,7 @@
 
 + [华为知情人士：Mate60 系列手机没有停产，欢迎继续选购](https://m.ithome.com/html/757602.htm)
 
++ [消息称百度文心一言下月将免费开放 200 万-500 万长文本能力](https://m.ithome.com/html/757595.htm)
+
++ [百度推出华为鸿蒙 HarmonyOS NEXT 地图 SDK](https://m.ithome.com/html/757575.htm)
+
