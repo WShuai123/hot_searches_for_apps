@@ -61,3 +61,7 @@
 
 + [消息称英伟达近期升级 RTX 4060/4070 GPU 显卡](https://m.ithome.com/html/757629.htm)
 
++ [非洲老哥自称是马斯克私生子，还要众筹路费去美国认爹？](https://m.ithome.com/html/757689.htm)
+
++ [安卓版 VLC 播放器为何长时间未更新？VideoLAN 团队：谷歌阻止](https://m.ithome.com/html/757663.htm)
+

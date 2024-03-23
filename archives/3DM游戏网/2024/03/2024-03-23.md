@@ -203,3 +203,5 @@
 
 + [Disney+原创英剧《叛逆女流》发布预告 3月29日开播](https://www.3dmgame.com/news/202403/3891217.html)
 
++ [《博德之门3》销量现已超过1500万套](https://www.3dmgame.com/news/202403/3891222.html)
+
