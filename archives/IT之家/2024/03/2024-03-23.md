@@ -51,3 +51,7 @@
 
 + [WinXP“钉子户”晒帖引发热议：16GB 内存设备运行 32 位 WinXP 系统](https://m.ithome.com/html/757645.htm)
 
++ [疑似小米 SU7 汽车多款零配件现身二手平台：号称“原厂正品拆车”、涵盖方向盘踏板尾灯等](https://m.ithome.com/html/757668.htm)
+
++ [vivo X100S Pro 机型入网，升级搭载天玑 9300+ 处理器](https://m.ithome.com/html/757626.htm)
+

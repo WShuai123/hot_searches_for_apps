@@ -51,3 +51,39 @@
 
 + [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 
++ [stitionai / devika](https://github.com/stitionai/devika)
+
++ [OpenInterpreter / 01](https://github.com/OpenInterpreter/01)
+
++ [mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+
++ [Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder)
+
++ [Wilfred / difftastic](https://github.com/Wilfred/difftastic)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
++ [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
++ [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents)
+
++ [jgthms / bulma](https://github.com/jgthms/bulma)
+
++ [SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge)
+
++ [ruanyf / weekly](https://github.com/ruanyf/weekly)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
+
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+

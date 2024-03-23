@@ -197,3 +197,7 @@
 
 + [5、鸿蒙学习-ArkTs的基本组成](https://blog.csdn.net/u010257931/article/details/136938596)
 
++ [网络原理(5)——IP协议（网络层）](https://blog.csdn.net/cool_tao6/article/details/136952176)
+
++ [开源项目ChatGPT-Next-Web的容器化部署（二）-- jenkins CI构建并推送镜像](https://blog.csdn.net/zhuganlai168/article/details/136939204)
+
