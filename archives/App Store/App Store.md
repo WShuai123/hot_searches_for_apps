@@ -217,3 +217,5 @@
 
 + [网易大神-上大神轻松找玩伴](https://itunes.apple.com/cn/app/id1359055423?mt=8)
 
++ [轻颜 - 记录美一刻](https://itunes.apple.com/cn/app/id1375390276?mt=8)
+

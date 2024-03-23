@@ -129,3 +129,11 @@
 
 + [双刀老太！单手无伤！『龙之信条2』BOSS速杀合集！](http://www.acfun.cn/v/ac44128780)
 
++ [【东方】推特东方小视频选集 第175期](http://www.acfun.cn/v/ac44124449)
+
++ [兄弟你好香啊！！！欢乐八点档-868](http://www.acfun.cn/v/ac44130902)
+
++ [弯道快才是真的快！](http://www.acfun.cn/v/ac44127848)
+
++ [同学聚会？](http://www.acfun.cn/v/ac44128347)
+

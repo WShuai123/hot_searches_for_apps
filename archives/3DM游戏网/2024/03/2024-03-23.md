@@ -193,3 +193,13 @@
 
 + [蓝宝石RX 7900 GRE 16G极地版显卡上市 全白配色](https://www.3dmgame.com/news/202403/3891216.html)
 
++ [《只狼：影逝二度》迎来发售5周年](https://www.3dmgame.com/news/202403/3891221.html)
+
++ [沙盒生存游戏《泰拉科技世界》EA版正式发售](https://www.3dmgame.com/news/202403/3891219.html)
+
++ [闷声发大财 《上古卷轴OL》自发售以来已经赚了20亿美元](https://www.3dmgame.com/news/202403/3891220.html)
+
++ [Mate60停产？华为：网传消息不实 欢迎继续选购](https://www.3dmgame.com/news/202403/3891218.html)
+
++ [Disney+原创英剧《叛逆女流》发布预告 3月29日开播](https://www.3dmgame.com/news/202403/3891217.html)
+

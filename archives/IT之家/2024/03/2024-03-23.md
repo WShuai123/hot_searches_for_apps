@@ -55,3 +55,9 @@
 
 + [vivo X100S Pro 机型入网，升级搭载天玑 9300+ 处理器](https://m.ithome.com/html/757626.htm)
 
++ [被控抄袭网易《阴阳师》素材，腾讯《王者荣耀》回应称“高频碰瓷不可取”](https://m.ithome.com/html/757654.htm)
+
++ [音视频领域首个，阿里云推出华为鸿蒙 HarmonyOS NEXT 版音视频 SDK](https://m.ithome.com/html/757612.htm)
+
++ [消息称英伟达近期升级 RTX 4060/4070 GPU 显卡](https://m.ithome.com/html/757629.htm)
+
