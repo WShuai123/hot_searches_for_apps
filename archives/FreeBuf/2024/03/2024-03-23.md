@@ -47,3 +47,5 @@
 
 + [Thales SafeNet Sentinel HASP LDK本地提权漏洞（CVE-2024-0197）分析与复现](https://www.freebuf.com/vuls/395553.html)
 
++ [全国网安标委发布 GBT 43697-2024《数据安全技术 数据分类分级规则》](https://www.freebuf.com/news/395695.html)
+

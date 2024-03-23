@@ -133,3 +133,27 @@
 
 + [法国去年游戏支出61亿欧元创纪录 主机销售强劲](https://www.3dmgame.com/news/202403/3891182.html)
 
++ [动物园恐怖游戏《Zoochosis》新预告 第三季度发售](https://www.3dmgame.com/news/202403/3891198.html)
+
++ [《碧姬公主：表演时刻》正式发售 上市宣传片欣赏](https://www.3dmgame.com/news/202403/3891197.html)
+
++ [暴雪：《魔兽世界》新大逃杀模式是重构魔兽计划一部分](https://www.3dmgame.com/news/202403/3891196.html)
+
++ [传闻：OpenAI将与好莱坞电影公司会面并推荐Sora](https://www.3dmgame.com/news/202403/3891195.html)
+
++ [5月播映 迪士尼+新版《神秘博士》公布官方预告片](https://www.3dmgame.com/news/202403/3891194.html)
+
++ [《Soulframe》前期版本预告 发售日期待定](https://www.3dmgame.com/news/202403/3891193.html)
+
++ [传闻微软正在开发一款Xbox手持主机：不是云掌机](https://www.3dmgame.com/news/202403/3891192.html)
+
++ [虽然没有资料片，但《博德之门3》将迎来邪恶结局更新](https://www.3dmgame.com/news/202403/3891191.html)
+
++ [国人Mod大佬开启《龙之信条2》DLSS：可能崩溃](https://www.3dmgame.com/news/202403/3891190.html)
+
++ [童年回忆《破碎与螺旋》Steam页面上线 2024年第三季度发售](https://www.3dmgame.com/news/202403/3891189.html)
+
++ [脑机接口首位受试者用意念在X上发帖！马斯克转发](https://www.3dmgame.com/news/202403/3891188.html)
+
++ [孩之宝：拉瑞安工作室是令人难以置信的合作伙伴](https://www.3dmgame.com/news/202403/3891187.html)
+
