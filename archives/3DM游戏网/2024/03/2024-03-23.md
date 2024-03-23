@@ -187,3 +187,7 @@
 
 + [3D幸存者游戏《Hordes of Hunger》公布最新预告片](https://www.3dmgame.com/news/202403/3891213.html)
 
++ [2D横向卷轴冒险游戏《艾登的花园》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3891215.html)
+
++ [《Dystopika》未来游戏展预告 展示玩家创作多样都市](https://www.3dmgame.com/news/202403/3891214.html)
+

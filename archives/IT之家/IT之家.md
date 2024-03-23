@@ -49,3 +49,5 @@
 
 + [雷军发布自驾小米 SU7 路测视频，北京到上海全程高速 NOA](https://m.ithome.com/html/757649.htm)
 
++ [WinXP“钉子户”晒帖引发热议：16GB 内存设备运行 32 位 WinXP 系统](https://m.ithome.com/html/757645.htm)
+
