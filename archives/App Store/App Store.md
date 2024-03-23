@@ -209,3 +209,7 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+

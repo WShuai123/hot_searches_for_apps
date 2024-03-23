@@ -157,3 +157,7 @@
 
 + [孩之宝：拉瑞安工作室是令人难以置信的合作伙伴](https://www.3dmgame.com/news/202403/3891187.html)
 
++ [《子弹风暴》开发商新作或为虚幻5 PvP射击游戏](https://www.3dmgame.com/news/202403/3891199.html)
+
++ [Insomniac险些移除《漫威蜘蛛侠2》快速旅行选项](https://www.3dmgame.com/news/202403/3891200.html)
+
