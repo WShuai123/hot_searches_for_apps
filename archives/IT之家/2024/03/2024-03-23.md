@@ -41,3 +41,7 @@
 
 + [已故波音质量爆料人遭报复细节曝光](https://m.ithome.com/html/757601.htm)
 
++ [2024 款坦克 400 Hi4-T 上市：搭载米勒循环发动机，售 28.58 万元起](https://m.ithome.com/html/757584.htm)
+
++ [腾讯 QQ 更新 Windows 9.9.8、Mac 6.9.30、Linux 3.2.6 版本：新增好友备注、拖拽文件发送功能](https://m.ithome.com/html/757594.htm)
+
