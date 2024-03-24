@@ -157,3 +157,9 @@
 
 + [CRC计算流程详解和FPGA实现](https://blog.csdn.net/yindq1220/article/details/136778886)
 
++ [【深度学习】最强算法之：深度神经网络（DNN）](https://blog.csdn.net/wuyoudeyuer/article/details/136619677)
+
++ [深入解析实时数仓Doris：介绍、架构剖析、应用场景与数据划分细节](https://blog.csdn.net/qq_26664043/article/details/136951113)
+
++ [微服务之Nacos配置管理](https://blog.csdn.net/m0_64074924/article/details/136984589)
+

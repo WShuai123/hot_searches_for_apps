@@ -49,3 +49,5 @@
 
 + [S2-066漏洞分析与复现（CVE-2023-50164）](https://www.freebuf.com/vuls/395314.html)
 
++ [i-am-a-bot：一款基于多个大语言模型的验证码系统安全评估工具](https://www.freebuf.com/sectool/392514.html)
+

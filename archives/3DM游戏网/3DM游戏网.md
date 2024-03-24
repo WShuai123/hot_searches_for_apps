@@ -137,3 +137,9 @@
 
 + [《新干线0号》登陆Steam 类《8番出口》恐怖解谜](https://www.3dmgame.com/news/202403/3891240.html)
 
++ [《摇曳露营△》漫改全新手游公开 休闲解谜类型](https://www.3dmgame.com/news/202403/3891243.html)
+
++ [Nightdive工作室：复活老游戏并维护其艺术价值](https://www.3dmgame.com/news/202403/3891242.html)
+
++ [男子藏200张《双人成行》Switch卡带入境被查处](https://www.3dmgame.com/news/202403/3891241.html)
+

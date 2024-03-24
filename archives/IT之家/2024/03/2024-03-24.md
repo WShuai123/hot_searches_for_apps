@@ -41,3 +41,5 @@
 
 + [苹果 CEO 库克称将继续投资中国市场，很高兴再次回到中国](https://m.ithome.com/html/757733.htm)
 
++ [仰望 U8 交付 132 天销量达 5000 台，创中国百万级 SUV 车型销量最速达成纪录](https://m.ithome.com/html/757740.htm)
+
