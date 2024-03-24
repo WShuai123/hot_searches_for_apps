@@ -135,3 +135,5 @@
 
 + [《星际飞船模拟器》开启众筹 宇宙飞船建造探索](https://www.3dmgame.com/news/202403/3891239.html)
 
++ [《新干线0号》登陆Steam 类《8番出口》恐怖解谜](https://www.3dmgame.com/news/202403/3891240.html)
+

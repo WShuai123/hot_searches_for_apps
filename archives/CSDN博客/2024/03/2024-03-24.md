@@ -151,3 +151,9 @@
 
 + [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136951790)
 
++ [Redis 下载及配置 一条龙全教程](https://blog.csdn.net/m0_69519887/article/details/136917020)
+
++ [阿里云原生:如何熟悉一个系统](https://blog.csdn.net/xunzaosiyecao/article/details/136962242)
+
++ [CRC计算流程详解和FPGA实现](https://blog.csdn.net/yindq1220/article/details/136778886)
+
