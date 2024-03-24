@@ -43,3 +43,7 @@
 
 + [仰望 U8 交付 132 天销量达 5000 台，创中国百万级 SUV 车型销量最速达成纪录](https://m.ithome.com/html/757740.htm)
 
++ [消息称供应链公司已开始向华为 P70 系列手机批量供货](https://m.ithome.com/html/757745.htm)
+
++ [2024 款东风雪铁龙凡尔赛 C5 X 车型 4 月 1 日上市，提供多项配置升级](https://m.ithome.com/html/757687.htm)
+

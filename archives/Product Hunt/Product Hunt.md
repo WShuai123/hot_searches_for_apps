@@ -135,3 +135,17 @@
 
 + [DataMotto](https://www.producthunt.com/posts/datamotto)
 
++ [AskReferral](https://www.producthunt.com/posts/askreferral)
+
++ [Hyr.sh](https://www.producthunt.com/posts/hyr-sh)
+
++ [Dyva](https://www.producthunt.com/posts/dyva-1)
+
++ [Self Care Planner](https://www.producthunt.com/posts/self-care-planner)
+
++ [Locationscout](https://www.producthunt.com/posts/locationscout-2)
+
++ [Macaify - Make your Mac-AI-fy](https://www.producthunt.com/posts/macaify-make-your-mac-ai-fy)
+
++ [CleanClip](https://www.producthunt.com/posts/cleanclip)
+
