@@ -41,3 +41,7 @@
 
 + [Flipper Zero 在加拿大要被禁用了](https://www.freebuf.com/news/395475.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/articles/395686.html)
+
++ [执法行动高压下，勒索软件攻击仍持续增加](https://www.freebuf.com/articles/network/394962.html)
+

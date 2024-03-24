@@ -25,3 +25,5 @@
 
 + [苹果 iPhone XS-13 系列手机开放 iOS 17.3.1 签名验证通道，降级上车从速](https://m.ithome.com/html/757659.htm)
 
++ [京东云无线宝 BE6500 Wi-Fi 7 路由器上架：在线 365 天可兑 E 卡，首发价 549 元](https://m.ithome.com/html/757700.htm)
+
