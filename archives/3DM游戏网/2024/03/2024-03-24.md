@@ -155,3 +155,9 @@
 
 + [首个国产女性向3A游戏升级 《以闪亮之名》新版官宣](https://www.3dmgame.com/news/202403/3891249.html)
 
++ [CDPR总监：《赛博朋克2077》不太适合抢先体验模式](https://www.3dmgame.com/news/202403/3891251.html)
+
++ [日本警方逮捕香港游客 涉嫌违法下载游戏厅音游曲目](https://www.3dmgame.com/news/202403/3891252.html)
+
++ [拉瑞安CEO：相信威世智会尊重《博德之门3》角色](https://www.3dmgame.com/news/202403/3891250.html)
+
