@@ -47,3 +47,7 @@
 
 + [2024 款东风雪铁龙凡尔赛 C5 X 车型 4 月 1 日上市，提供多项配置升级](https://m.ithome.com/html/757687.htm)
 
++ [中国电动车，「吓坏」欧洲政客](https://m.ithome.com/html/757746.htm)
+
++ [小米电视 S75 Mini LED 上架：4K 144Hz 高刷，1200nits 峰值亮度](https://m.ithome.com/html/757744.htm)
+

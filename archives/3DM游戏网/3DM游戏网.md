@@ -147,3 +147,11 @@
 
 + [《博德之门3》MOD工具更稳定，但功能不如《神界》](https://www.3dmgame.com/news/202403/3891244.html)
 
++ [开发者：如果只有3A大作才能成功，那这个行业该死了](https://www.3dmgame.com/news/202403/3891246.html)
+
++ [前Arkane联合创始人暗示第一人称复古科幻RPG新作](https://www.3dmgame.com/news/202403/3891247.html)
+
++ [2024年买燃油车没有意义了？马斯克表示确实如此](https://www.3dmgame.com/news/202403/3891248.html)
+
++ [首个国产女性向3A游戏升级 《以闪亮之名》新版官宣](https://www.3dmgame.com/news/202403/3891249.html)
+
