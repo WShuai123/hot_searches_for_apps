@@ -127,3 +127,7 @@
 
 + [【MySQL系列】Public Key Retrieval is not allowed](https://blog.csdn.net/qyj19920704/article/details/136985691)
 
++ [【自然语言处理】统计中文分词技术（一）：1、分词与频度统计](https://blog.csdn.net/m0_63834988/article/details/136623310)
+
++ [第三十一章 配置 Web Gateway 的默认参数 - 事件记录参数](https://blog.csdn.net/yaoxin521123/article/details/136997939)
+
