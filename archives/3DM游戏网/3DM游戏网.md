@@ -163,3 +163,13 @@
 
 + [360AI浏览器APP即将上线 支持500万字长文本处理](https://www.3dmgame.com/news/202403/3891253.html)
 
++ [阿里通义千问重磅升级：免费开放1000万字长文档处理功能](https://www.3dmgame.com/news/202403/3891258.html)
+
++ [国行要来了！苹果头显Vision Pro将在今年在中国推出](https://www.3dmgame.com/news/202403/3891257.html)
+
++ [《龙之信条2》成Capcom在Steam上在线峰值最高的单机游戏](https://www.3dmgame.com/news/202403/3891256.html)
+
++ [小岛称赞网飞版《三体》 原著粉丝推荐看腾讯版](https://www.3dmgame.com/news/202403/3891255.html)
+
++ [《最终幻想14：黄金的遗产》因为《艾尔登法环》DLC而推迟了一个星期](https://www.3dmgame.com/news/202403/3891254.html)
+

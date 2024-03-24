@@ -197,3 +197,5 @@
 
 + [【Linux杂货铺】进程控制](https://blog.csdn.net/jupangMZ/article/details/136983229)
 
++ [AI大模型学习：理论基石、优化之道与应用革新](https://blog.csdn.net/Srlua/article/details/136969916)
+
