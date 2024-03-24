@@ -91,3 +91,7 @@
 
 + [Vegan Treats Pattern](https://dribbble.com/shots/)
 
++ [Ranger Station - Badges](https://dribbble.com/shots/)
+
++ [Fundex - UX/UI platform design of the crypto loan service](https://dribbble.com/shots/)
+

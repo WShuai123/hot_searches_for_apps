@@ -107,3 +107,11 @@
 
 + [库克大赞《逆水寒》画面太棒了：国外玩家玩不到馋哭](https://www.3dmgame.com/news/202403/3891259.html)
 
++ [《碧姬公主：表演时刻》已可在PC 60FPS运行](https://www.3dmgame.com/news/202403/3891265.html)
+
++ [《吸血鬼：避世血族》RTX Remix Mod截图分享](https://www.3dmgame.com/news/202403/3891264.html)
+
++ [魂类游戏《恩诺提利亚：终曲》8/21发行 新预告展示](https://www.3dmgame.com/news/202403/3891263.html)
+
++ [粉丝自制虚幻5《GTA3》重制版内容 效果出色](https://www.3dmgame.com/news/202403/3891262.html)
+
