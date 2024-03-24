@@ -31,3 +31,7 @@
 
 + [比亚迪海豹 EV、宋 Plus DM-i 冠军版车型迎来 OTA1.2 更新：新增讯飞输入法等，优化多项配置](https://m.ithome.com/html/757634.htm)
 
++ [Kimi 连续宕机打醒巨头：阿里百度 360 连夜出手长文本，大模型商业化厮杀开始了](https://m.ithome.com/html/757728.htm)
+
++ [外籍人员可持永久居住证开通支付，华为钱包 App 获推 9.0.23.381 众测版更新](https://m.ithome.com/html/757673.htm)
+

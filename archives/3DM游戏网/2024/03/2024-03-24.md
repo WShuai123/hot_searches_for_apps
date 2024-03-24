@@ -123,3 +123,13 @@
 
 + [赛博朋克枪战动作游戏《Spine》公布最新预告片](https://www.3dmgame.com/news/202403/3891225.html)
 
++ [《魔兽世界》订阅价格20年不变 高管：保持玩家群体健康](https://www.3dmgame.com/news/202403/3891236.html)
+
++ [《潜水员戴夫》游戏总监：我们这个不是独立游戏](https://www.3dmgame.com/news/202403/3891237.html)
+
++ [苹果CEO库克称将继续投资中国市场 很高兴回到中国](https://www.3dmgame.com/news/202403/3891238.html)
+
++ [《狭间格斗》开发商推出同类风格新作《狭间骑士》](https://www.3dmgame.com/news/202403/3891234.html)
+
++ [《便便不同》Steam页面上线 奇葩大便生产线监控](https://www.3dmgame.com/news/202403/3891235.html)
+
