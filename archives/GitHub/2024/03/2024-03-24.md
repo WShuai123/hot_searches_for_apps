@@ -51,3 +51,41 @@
 
 + [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
++ [face-hh / griddycode](https://github.com/face-hh/griddycode)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [microsoft / autogen](https://github.com/microsoft/autogen)
+
++ [mshumer / gpt-investor](https://github.com/mshumer/gpt-investor)
+
++ [Project-DARC / DARC](https://github.com/Project-DARC/DARC)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler)
+
++ [lichao-sun / Mora](https://github.com/lichao-sun/Mora)
+
++ [jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+
++ [ezelikman / quiet-star](https://github.com/ezelikman/quiet-star)
+
++ [ziglang / zig](https://github.com/ziglang/zig)
+
++ [jiji262 / MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new)
+
++ [MarlinFirmware / Marlin](https://github.com/MarlinFirmware/Marlin)
+
++ [Snapchat / KeyDB](https://github.com/Snapchat/KeyDB)
+
++ [SuhailTechInfo / Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
