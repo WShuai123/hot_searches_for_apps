@@ -27,3 +27,5 @@
 
 + [京东云无线宝 BE6500 Wi-Fi 7 路由器上架：在线 365 天可兑 E 卡，首发价 549 元](https://m.ithome.com/html/757700.htm)
 
++ [全新特斯拉 Model 3“Ludicrous”车型曝光](https://m.ithome.com/html/757718.htm)
+

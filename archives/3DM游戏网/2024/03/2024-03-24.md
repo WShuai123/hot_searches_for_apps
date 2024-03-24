@@ -101,3 +101,7 @@
 
 + [GOG喜加一：《恶魔之书》免费领取](https://www.3dmgame.com/news/202403/3891172.html)
 
++ [时隔12年《怒首领蜂最大往生》最难关终于被无续命通关](https://www.3dmgame.com/news/202403/3891223.html)
+
++ [《碧蓝幻想Versus: Rising》新角色Vane 4月2日上线](https://www.3dmgame.com/news/202403/3891224.html)
+

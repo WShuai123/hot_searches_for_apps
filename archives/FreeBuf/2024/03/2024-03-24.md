@@ -45,3 +45,5 @@
 
 + [执法行动高压下，勒索软件攻击仍持续增加](https://www.freebuf.com/articles/network/394962.html)
 
++ [供应链投毒预警 | 恶意Py组件tohoku-tus-iot-automation开展窃密木马投毒攻击](https://www.freebuf.com/articles/network/395136.html)
+
