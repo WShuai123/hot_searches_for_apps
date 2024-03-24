@@ -51,3 +51,7 @@
 
 + [小米电视 S75 Mini LED 上架：4K 144Hz 高刷，1200nits 峰值亮度](https://m.ithome.com/html/757744.htm)
 
++ [12G+256G 仅 3001 元：小米 13 手机京东自营立减 1590 元探底清仓](https://m.ithome.com/html/757760.htm)
+
++ [阿维塔 12 大定订单突破 40000 台，全新车色“晖金”即将登场](https://m.ithome.com/html/757735.htm)
+
