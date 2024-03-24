@@ -49,3 +49,17 @@
 
 + [Blossom (2024)](https://dribbble.com/shots/)
 
++ [Logo for Mexican restaurant](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+
++ [SS Plant Shop Logo Badge Set](https://dribbble.com/shots/)
+
++ [Bob's Bagels Branding](https://dribbble.com/shots/)
+
++ [A Guide to Responsible Enjoyment](https://dribbble.com/shots/)
+
++ [Music laboratory 4](https://dribbble.com/shots/)
+
++ [Pattern Illustrations](https://dribbble.com/shots/)
+

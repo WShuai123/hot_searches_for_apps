@@ -101,3 +101,9 @@
 
 + [《球胜大本营》开发者：停止服务前请发布私服版本](https://www.3dmgame.com/news/202403/3891206.html)
 
++ [《恩诺提利亚：终曲》配置公开 推荐2080显卡](https://www.3dmgame.com/news/202403/3891260.html)
+
++ [表现抢眼！《地平线：西之绝境》Steam在线玩家破40000人](https://www.3dmgame.com/news/202403/3891261.html)
+
++ [库克大赞《逆水寒》画面太棒了：国外玩家玩不到馋哭](https://www.3dmgame.com/news/202403/3891259.html)
+

@@ -101,3 +101,7 @@
 
 + [CleanClip](https://www.producthunt.com/posts/cleanclip)
 
++ [colone](https://www.producthunt.com/posts/colone)
+
++ [Novus: A Writer's Companion](https://www.producthunt.com/posts/novus-a-writer-s-companion)
+
