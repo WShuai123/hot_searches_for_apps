@@ -133,3 +133,5 @@
 
 + [《便便不同》Steam页面上线 奇葩大便生产线监控](https://www.3dmgame.com/news/202403/3891235.html)
 
++ [《星际飞船模拟器》开启众筹 宇宙飞船建造探索](https://www.3dmgame.com/news/202403/3891239.html)
+

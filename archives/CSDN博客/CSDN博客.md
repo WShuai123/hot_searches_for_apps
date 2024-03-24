@@ -141,3 +141,13 @@
 
 + [深入理解Redis的Sentinel机制](https://blog.csdn.net/qq_42581682/article/details/136949025)
 
++ [基于深度学习YOLOv8+PyQt5的水底海底垃圾生物探测器检测识别系统（源码+数据集+配置说明）](https://blog.csdn.net/m0_46653805/article/details/136975955)
+
++ [【机器学习-08】参数调优宝典：网格搜索与贝叶斯搜索等攻略](https://blog.csdn.net/qq_38614074/article/details/136928542)
+
++ [机器学习概念、步骤、分类和实践](https://blog.csdn.net/weidl001/article/details/136968032)
+
++ [[MAUI]集成高德地图组件至.NET MAUI Blazor项目](https://blog.csdn.net/jevonsflash/article/details/136976044)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/136951790)
+

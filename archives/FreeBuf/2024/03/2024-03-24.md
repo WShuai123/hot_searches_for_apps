@@ -47,3 +47,5 @@
 
 + [供应链投毒预警 | 恶意Py组件tohoku-tus-iot-automation开展窃密木马投毒攻击](https://www.freebuf.com/articles/network/395136.html)
 
++ [S2-066漏洞分析与复现（CVE-2023-50164）](https://www.freebuf.com/vuls/395314.html)
+
