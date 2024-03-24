@@ -105,3 +105,21 @@
 
 + [《碧蓝幻想Versus: Rising》新角色Vane 4月2日上线](https://www.3dmgame.com/news/202403/3891224.html)
 
++ [《最终幻想14》资料片“黄金的遗产”7月2日上线](https://www.3dmgame.com/news/202403/3891226.html)
+
++ [《Forest Hills: The Last Year》与恐怖片公司Troma合作](https://www.3dmgame.com/news/202403/3891232.html)
+
++ [《Gore Doctor》登陆steam 逃脱生存恐怖新游](https://www.3dmgame.com/news/202403/3891233.html)
+
++ [特斯拉上海工厂被曝减产 厂商拒绝发表回应](https://www.3dmgame.com/news/202403/3891230.html)
+
++ [为RTX 50系列铺路 传英伟达将减产RTX 40系列显卡出货](https://www.3dmgame.com/news/202403/3891231.html)
+
++ [撤离射击游戏新作《ASCENDANT.COM》公布预告片](https://www.3dmgame.com/news/202403/3891229.html)
+
++ [VR跑酷游戏《Stride：Fates》宣布登陆PSVR2](https://www.3dmgame.com/news/202403/3891228.html)
+
++ [《Bears In Space》登陆Steam 3D第一视角FPS](https://www.3dmgame.com/news/202403/3891227.html)
+
++ [赛博朋克枪战动作游戏《Spine》公布最新预告片](https://www.3dmgame.com/news/202403/3891225.html)
+
