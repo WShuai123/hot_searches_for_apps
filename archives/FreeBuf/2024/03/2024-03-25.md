@@ -53,3 +53,5 @@
 
 + [Synopsys 同意出售应用安全部门，价值 5.25 亿美元](https://www.freebuf.com/news/395765.html)
 
++ [某.NET仓库管理系统——WMS_APP服务端代码审计二](https://www.freebuf.com/vuls/395042.html)
+

@@ -169,3 +169,7 @@
 
 + [《无畏契约》新英雄“暮蝶”预告 预计第八季第二幕上线](https://www.3dmgame.com/news/202403/3891285.html)
 
++ [雷军的烦恼：担忧小米SU7卖得太好 产能跟不上](https://www.3dmgame.com/news/202403/3891293.html)
+
++ [魔法科幻视觉小说《牺牲的象征》登录Steam 5月发布第一个故事内容](https://www.3dmgame.com/news/202403/3891294.html)
+

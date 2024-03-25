@@ -83,3 +83,11 @@
 
 + [可爱的人类幼崽！第六期](http://www.acfun.cn/v/ac44137606)
 
++ [【东方】春天来啦!!【Mirae Somang 手书动画】](http://www.acfun.cn/v/ac44137176)
+
++ [佛祖除三害](http://www.acfun.cn/v/ac44141712)
+
++ [就喜欢长这样的！★手机竖屏1100★](http://www.acfun.cn/v/ac44140388)
+
++ [【叁叁】这么可爱真是抱歉（内含换装，点击即看）](http://www.acfun.cn/v/ac44133087)
+

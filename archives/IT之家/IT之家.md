@@ -47,3 +47,5 @@
 
 + [经典小车迎来换代，全新一代铃木 Swift（雨燕）亮相](https://m.ithome.com/html/757761.htm)
 
++ [比亚迪海豹荣耀版车型上市：17.98 万元起，四驱版直降 3 万](https://m.ithome.com/html/757838.htm)
+
