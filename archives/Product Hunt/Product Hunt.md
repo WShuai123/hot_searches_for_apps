@@ -159,3 +159,5 @@
 
 + [NameWith AI](https://www.producthunt.com/posts/namewith-ai)
 
++ [Compassionate AI](https://www.producthunt.com/posts/compassionate-ai)
+
