@@ -75,3 +75,11 @@
 
 + [CEL](https://dribbble.com/shots/)
 
++ [Herbs and Flowers of California Card](https://dribbble.com/shots/)
+
++ [Panda Logo](https://dribbble.com/shots/)
+
++ [Naval Captain Logo](https://dribbble.com/shots/)
+
++ [Always face the TRUTH](https://dribbble.com/shots/)
+

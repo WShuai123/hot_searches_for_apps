@@ -205,3 +205,7 @@
 
 + [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [迅雷-你的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
