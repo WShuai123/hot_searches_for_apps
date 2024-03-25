@@ -149,3 +149,17 @@
 
 + [使用pandas进行数据清洗](https://blog.csdn.net/ak2111/article/details/136990716)
 
++ [【机器学习】包裹式特征选择之序列前向选择法](https://blog.csdn.net/m0_74195174/article/details/136995197)
+
++ [MySQL高可用解决方案――从主从复制到InnoDB Cluster架构](https://blog.csdn.net/guorui_java/article/details/137001165)
+
++ [大创项目推荐 图像识别-人脸识别与疲劳检测 - python opencv](https://blog.csdn.net/laafeer/article/details/136987030)
+
++ [【Linux】nmcli命令详解](https://blog.csdn.net/qq_35995514/article/details/136988861)
+
++ [五、分布式锁-redission](https://blog.csdn.net/weixin_45284646/article/details/136998014)
+
++ [【网络安全】VPN数据安全原理与应用](https://blog.csdn.net/littlefun591/article/details/137001227)
+
++ [Docker进阶：Docker-cpmpose 实现服务弹性伸缩](https://blog.csdn.net/qq_41840843/article/details/136997370)
+

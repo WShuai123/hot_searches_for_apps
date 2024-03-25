@@ -139,3 +139,17 @@
 
 + [FromSoftware《血源诅咒》迎来发售9周年](https://www.3dmgame.com/news/202403/3891269.html)
 
++ [《龙之信条2》玩家正在为PC版开发多存档位 卡普空也在检讨相关功能](https://www.3dmgame.com/news/202403/3891283.html)
+
++ [自行车特技模拟游戏《BMX Streets》4月5日发售 登陆Steam](https://www.3dmgame.com/news/202403/3891279.html)
+
++ [上海海关查获44块二手显卡 当事人：准备翻新后出售](https://www.3dmgame.com/news/202403/3891284.html)
+
++ [《电锯糖心：重制版》将拥有独特艺术风格的新模式](https://www.3dmgame.com/news/202403/3891282.html)
+
++ [《天穗之咲稻姬》动画版新角色设定艺图公布 年内开播](https://www.3dmgame.com/news/202403/3891281.html)
+
++ [《月姬：重制版》中文版6月27日发售 登陆PS4和Switch](https://www.3dmgame.com/news/202403/3891280.html)
+
++ [《漫威1943：九头蛇崛起》与电影对比视频 细节能以假乱真](https://www.3dmgame.com/news/202403/3891278.html)
+
