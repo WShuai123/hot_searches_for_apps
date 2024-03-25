@@ -213,3 +213,9 @@
 
 + [英伟达将保留RTX 3050/60系列 以应对千元级显卡市场](https://www.3dmgame.com/news/202403/3891314.html)
 
++ [《星刃》PS5体验版3月29日上线 支持存档继承](https://www.3dmgame.com/news/202403/3891317.html)
+
++ [《龙之信条2》近期更新计划公布 提升DLSS品质](https://www.3dmgame.com/news/202403/3891315.html)
+
++ [《最终幻想16》PC版不用等一年 会有体验版](https://www.3dmgame.com/news/202403/3891316.html)
+

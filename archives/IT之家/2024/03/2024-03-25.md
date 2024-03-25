@@ -65,3 +65,5 @@
 
 + [一加 Ace 3V 手机今日首销：首发骁龙 7+ Gen 3 处理器，1999 元起](https://m.ithome.com/html/757827.htm)
 
++ [微软即将敲定 Win11 24H2 RTM 版本](https://m.ithome.com/html/757815.htm)
+
