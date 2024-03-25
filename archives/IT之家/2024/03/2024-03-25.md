@@ -67,3 +67,5 @@
 
 + [微软即将敲定 Win11 24H2 RTM 版本](https://m.ithome.com/html/757815.htm)
 
++ [李想认错，能挽回退订的 MEGA 车主吗](https://m.ithome.com/html/757999.htm)
+
