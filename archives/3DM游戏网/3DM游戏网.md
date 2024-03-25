@@ -153,3 +153,19 @@
 
 + [《漫威1943：九头蛇崛起》与电影对比视频 细节能以假乱真](https://www.3dmgame.com/news/202403/3891278.html)
 
++ [《Pogo Rogue》Steam页面上线 肉鸽横版动作新游](https://www.3dmgame.com/news/202403/3891292.html)
+
++ [玩家发现《龙之信条2》中出现“龙瘟” 会导致追随者化龙后无差别屠村](https://www.3dmgame.com/news/202403/3891291.html)
+
++ [《星露谷物语》在线人数再创纪录 超23万玩家同时种地](https://www.3dmgame.com/news/202403/3891290.html)
+
++ [乔布斯签名名片拍出131万元天价 已有41年历史](https://www.3dmgame.com/news/202403/3891289.html)
+
++ [《幻兽帕鲁》公布最受欢迎帕鲁Top10榜单 疾旋鼬第一](https://www.3dmgame.com/news/202403/3891288.html)
+
++ [动作冒险游戏《血清》现已提供试玩Demo 24年第二季度推出抢先体验](https://www.3dmgame.com/news/202403/3891287.html)
+
++ [《龙族编年史：暗之泪》Steam抢测 卡牌构建地城RPG](https://www.3dmgame.com/news/202403/3891286.html)
+
++ [《无畏契约》新英雄“暮蝶”预告 预计第八季第二幕上线](https://www.3dmgame.com/news/202403/3891285.html)
+

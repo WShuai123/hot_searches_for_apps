@@ -41,3 +41,9 @@
 
 + [1599 元 → 695 元：华为智能眼镜京东百亿补贴探底清仓](https://m.ithome.com/html/757797.htm)
 
++ [中国气象局发布大地磁暴预警，未来三天卫星导航可能误差增大](https://m.ithome.com/html/757759.htm)
+
++ [消息称苹果 iOS 18 支持更自由定制主屏幕 App 图标布局：空行、空列等](https://m.ithome.com/html/757822.htm)
+
++ [经典小车迎来换代，全新一代铃木 Swift（雨燕）亮相](https://m.ithome.com/html/757761.htm)
+

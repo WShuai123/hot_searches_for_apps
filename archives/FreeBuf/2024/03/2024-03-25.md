@@ -47,3 +47,9 @@
 
 + [以CCM4.0为核心的云安全规划实战篇](https://www.freebuf.com/consult/395457.html)
 
++ [StrelaStealer 恶意软件“浮出水面”，数百个美国和欧盟组织遭殃](https://www.freebuf.com/news/395752.html)
+
++ [同盾科技被指侵犯用户信息](https://www.freebuf.com/news/395771.html)
+
++ [Synopsys 同意出售应用安全部门，价值 5.25 亿美元](https://www.freebuf.com/news/395765.html)
+
