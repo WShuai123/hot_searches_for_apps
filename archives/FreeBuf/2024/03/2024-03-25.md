@@ -45,3 +45,5 @@
 
 + [大语言模型安全指南：如何提升LLM安全抵御Prompt Injection](https://www.freebuf.com/articles/security-management/393637.html)
 
++ [以CCM4.0为核心的云安全规划实战篇](https://www.freebuf.com/consult/395457.html)
+

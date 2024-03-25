@@ -95,3 +95,5 @@
 
 + [Fundex - UX/UI platform design of the crypto loan service](https://dribbble.com/shots/)
 
++ [Do not touch wild animals](https://dribbble.com/shots/)
+

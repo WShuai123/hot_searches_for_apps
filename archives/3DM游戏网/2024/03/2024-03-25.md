@@ -121,3 +121,21 @@
 
 + [《塞尔达传说》真人电影风格将严肃但又充满奇幻色彩](https://www.3dmgame.com/news/202403/3891266.html)
 
++ [吉田透露《最终幻想14》新资料片含有许多对《最终幻想9》的参考](https://www.3dmgame.com/news/202403/3891277.html)
+
++ [报道称《不羁联盟》开发陷入困境 育碧高层想让游戏复制COD](https://www.3dmgame.com/news/202403/3891276.html)
+
++ [《超级威利世界》PC版免费发布 米老鼠动作新游](https://www.3dmgame.com/news/202403/3891275.html)
+
++ [微软DirectSR API基于AMD FSR 2.2.2技术](https://www.3dmgame.com/news/202403/3891274.html)
+
++ [回合策略《人偶探险家》4月登陆Switch 追加新要素](https://www.3dmgame.com/news/202403/3891270.html)
+
++ [《赛博朋克2077》支线任务出色原因：设计师只选最好的](https://www.3dmgame.com/news/202403/3891273.html)
+
++ [《龙珠：电光火石0》获得ESRB评级 或在年内发售](https://www.3dmgame.com/news/202403/3891272.html)
+
++ [《小龙斯派罗》开发商已与微软达成其首款独立游戏协议](https://www.3dmgame.com/news/202403/3891271.html)
+
++ [FromSoftware《血源诅咒》迎来发售9周年](https://www.3dmgame.com/news/202403/3891269.html)
+

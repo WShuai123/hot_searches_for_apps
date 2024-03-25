@@ -31,3 +31,9 @@
 
 + [上线仅 30 秒，索尼第一方游戏《地平线：西之绝境》PC 版被迅速破解](https://m.ithome.com/html/757734.htm)
 
++ [腾讯公关总监张军回应马化腾“衰老照”：P 的太假了](https://m.ithome.com/html/757824.htm)
+
++ [新增电量显示 / 音量设置调节等功能，小米 CarWith 车机应用获推 2.2 内测版更新](https://m.ithome.com/html/757807.htm)
+
++ [下载 90GB 电影仅需 72 秒，上海电信建设我国首个基于 50G-PON 的“万兆云宽带示范小区”](https://m.ithome.com/html/757803.htm)
+
