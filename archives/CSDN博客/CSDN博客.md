@@ -103,3 +103,23 @@
 
 + [计算机网络⑦ —— 网络层协议](https://blog.csdn.net/qq_51148151/article/details/136998084)
 
++ [【SpringCloud】探索Eureka注册中心](https://blog.csdn.net/weixin_62951900/article/details/137005974)
+
++ [30天拿下Rust之并发](https://blog.csdn.net/hope_wisdom/article/details/136994988)
+
++ [如何在Ubuntu系统使用Docker搭建MongoDB结合内网穿透实现公网连接](https://blog.csdn.net/qq_48652579/article/details/137020947)
+
++ [利用Python实现网络运维自动化：实战示例](https://blog.csdn.net/qq_44273429/article/details/137020010)
+
++ [Mysql学习--深入探究索引和事务的重点要点与考点](https://blog.csdn.net/xiaoxie8023/article/details/136942482)
+
++ [【基于HTML5的网页设计及应用】——随机验证码](https://blog.csdn.net/shsjssnn/article/details/136308109)
+
++ [【计算机网络】数据链路层](https://blog.csdn.net/YoungMLet/article/details/136848813)
+
++ [Godot.NET C# 工程化开发(1):通用Nuget 导入+ 模板文件导出，包含随机数生成，日志管理，数据库连接等功能](https://blog.csdn.net/qq_44695769/article/details/136984753)
+
++ [【HarmonyOS】ArkUI - 页面路由](https://blog.csdn.net/cnwutianhao/article/details/136992777)
+
++ [鸿蒙一次开发，多端部署（十三）功能开发的一多能力介绍](https://blog.csdn.net/weixin_61845324/article/details/136973253)
+
