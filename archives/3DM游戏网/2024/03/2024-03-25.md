@@ -197,3 +197,17 @@
 
 + [日本麦当劳推出薯条穿针免费网页小游戏](https://www.3dmgame.com/news/202403/3891300.html)
 
++ [小米SU7实车比图片强 雷军：因为车身漆面 工艺非常考究](https://www.3dmgame.com/news/202403/3891313.html)
+
++ [《裂谷巫师 2》登陆Steam 奇幻肉鸽RPG名作续篇](https://www.3dmgame.com/news/202403/3891312.html)
+
++ [中国千兆宽带用户占比扩大 达1.72亿户：你用上了吗？](https://www.3dmgame.com/news/202403/3891311.html)
+
++ [沈腾票房超越吴京！与马丽成中国票房最高男女主演](https://www.3dmgame.com/news/202403/3891310.html)
+
++ [库克发博感谢中国热情接待！多次强调中国对苹果非常重要](https://www.3dmgame.com/news/202403/3891309.html)
+
++ [苹果国行iPhone16等将采用百度AI 出于合规需求](https://www.3dmgame.com/news/202403/3891308.html)
+
++ [《龙之信条2》存档不能随意删除 或被D加密封禁](https://www.3dmgame.com/news/202403/3891307.html)
+

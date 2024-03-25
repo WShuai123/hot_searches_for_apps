@@ -53,3 +53,5 @@
 
 + [小米汽车官方 App 上架，为发布 SU7 铺路](https://m.ithome.com/html/757859.htm)
 
++ [消息称苹果选择百度为国行 iPhone 16 等设备提供 AI 功能，也曾和阿里洽谈](https://m.ithome.com/html/757875.htm)
+
