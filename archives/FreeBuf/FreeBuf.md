@@ -63,3 +63,5 @@
 
 + [记某SRC站点前端JS加解密到获得漏洞报送证书](https://www.freebuf.com/vuls/384800.html)
 
++ [《银行保险机构数据安全管理办法（征求意见稿）》发布](https://www.freebuf.com/articles/395812.html)
+

@@ -139,3 +139,7 @@
 
 + [Budget Kanban](https://www.producthunt.com/posts/budget-kanban)
 
++ [Look Into The Machine's Mind](https://www.producthunt.com/posts/look-into-the-machine-s-mind)
+
++ [Mentor V1](https://www.producthunt.com/posts/mentor-v1)
+
