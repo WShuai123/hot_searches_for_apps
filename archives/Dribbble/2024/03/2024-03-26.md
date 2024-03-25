@@ -61,3 +61,15 @@
 
 + [Camera Controller Concept (Light)](https://dribbble.com/shots/)
 
++ [A Guide to Responsible Enjoyment](https://dribbble.com/shots/)
+
++ [Canada Goose](https://dribbble.com/shots/)
+
++ [Beach and Bus Ride](https://dribbble.com/shots/)
+
++ [Glyph Beer 35](https://dribbble.com/shots/)
+
++ [Bob's Bagels Branding](https://dribbble.com/shots/)
+
++ [G.K. Chesterton](https://dribbble.com/shots/)
+
