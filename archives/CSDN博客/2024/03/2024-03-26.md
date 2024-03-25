@@ -125,3 +125,5 @@
 
 + [计算机网络：物理层中的数字传输系统全景概览解析](https://blog.csdn.net/Srlua/article/details/137001600)
 
++ [深度学习第一周：MNIST手写数字识别](https://blog.csdn.net/qq1273882425/article/details/137014116)
+

@@ -101,3 +101,11 @@
 
 + [微软DirectSR API基于AMD FSR 2.2.2技术](https://www.3dmgame.com/news/202403/3891274.html)
 
++ [吉田暗示《最终幻想16》PC版推出后还会登陆XSX/S](https://www.3dmgame.com/news/202403/3891328.html)
+
++ [《职业棒球之魂2024-2025》面向PS5/PC公布](https://www.3dmgame.com/news/202403/3891326.html)
+
++ [《闪电十一人》新作Beta版也将登陆PS5/PS4/PC](https://www.3dmgame.com/news/202403/3891327.html)
+
++ [《飙酷车神：轰鸣盛典》Steam版4/18推出](https://www.3dmgame.com/news/202403/3891325.html)
+
