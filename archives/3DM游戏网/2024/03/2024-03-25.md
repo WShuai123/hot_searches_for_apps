@@ -177,3 +177,5 @@
 
 + [《神器行者》登陆Steam 3D肉鸽爬塔割草动作](https://www.3dmgame.com/news/202403/3891295.html)
 
++ [《CS2》职业比赛选手游戏崩溃 导致战队错失季后赛资格](https://www.3dmgame.com/news/202403/3891297.html)
+

@@ -51,3 +51,5 @@
 
 + [IT之家实拍：小米汽车全国首批门店正式开业，开启小米 SU7 29 城静态品鉴](https://m.ithome.com/html/757863.htm)
 
++ [小米汽车官方 App 上架，为发布 SU7 铺路](https://m.ithome.com/html/757859.htm)
+
