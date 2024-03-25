@@ -25,3 +25,9 @@
 
 + [极氪回应展车闯进比亚迪展台撞伤 5 人：管理失误，未按规定开启展车模式](https://m.ithome.com/html/757804.htm)
 
++ [古尔曼：苹果 iOS 18 将采用新的主屏幕，使 iPhone“更加可定制”](https://m.ithome.com/html/757802.htm)
+
++ [商务部部长王文涛会见 AMD 公司董事会主席兼首席执行官苏姿丰](https://m.ithome.com/html/757801.htm)
+
++ [上线仅 30 秒，索尼第一方游戏《地平线：西之绝境》PC 版被迅速破解](https://m.ithome.com/html/757734.htm)
+

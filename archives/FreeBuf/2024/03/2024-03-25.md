@@ -41,3 +41,7 @@
 
 + [FreeBuf 早报 | 温哥华Pwn2Own首日特斯拉又被黑；UDP 协议被曝漏洞](https://www.freebuf.com/news/395527.html)
 
++ [FreeBuf 早报 | API安全漏洞对企业财务的影响；Synopsys出售应用安全部门](https://www.freebuf.com/news/395663.html)
+
++ [大语言模型安全指南：如何提升LLM安全抵御Prompt Injection](https://www.freebuf.com/articles/security-management/393637.html)
+

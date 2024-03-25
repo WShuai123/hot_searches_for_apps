@@ -137,3 +137,9 @@
 
 + [文献阅读笔记（Transformer）](https://blog.csdn.net/weixin_45409613/article/details/136985063)
 
++ [球面数据的几何深度学习--球形 CNN](https://blog.csdn.net/gongdiwudu/article/details/136819534)
+
++ [基于springboot+vue+Mysql的垃圾分类网站](https://blog.csdn.net/shmp54/article/details/136963839)
+
++ [动态规划Dynamic Programming](https://blog.csdn.net/qq_75270497/article/details/136890119)
+

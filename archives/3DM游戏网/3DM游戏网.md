@@ -115,3 +115,9 @@
 
 + [粉丝自制虚幻5《GTA3》重制版内容 效果出色](https://www.3dmgame.com/news/202403/3891262.html)
 
++ [《往日不再》开发商新作或是一款3A级实时服务型游戏](https://www.3dmgame.com/news/202403/3891268.html)
+
++ [腾讯游戏副总裁：3A游戏新作应依靠知名IP 规避风险](https://www.3dmgame.com/news/202403/3891267.html)
+
++ [《塞尔达传说》真人电影风格将严肃但又充满奇幻色彩](https://www.3dmgame.com/news/202403/3891266.html)
+
