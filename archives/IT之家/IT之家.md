@@ -55,3 +55,13 @@
 
 + [消息称苹果选择百度为国行 iPhone 16 等设备提供 AI 功能，也曾和阿里洽谈](https://m.ithome.com/html/757875.htm)
 
++ [299 元限量 800 件，“雷军同款”小米汽车工厂工装夹克“揭幕限定纪念款”上架秒罄](https://m.ithome.com/html/757930.htm)
+
++ [雷军：小米 SU7 目标是 50 万以内最好看、最好开、最智能的轿车](https://m.ithome.com/html/757907.htm)
+
++ [消息称华为 P70 系列手机近期随时可能上架官网商城](https://m.ithome.com/html/757897.htm)
+
++ [我国海关又查获 5 台苹果 Vision Pro 头显](https://m.ithome.com/html/757832.htm)
+
++ [一加 Ace 3V 手机今日首销：首发骁龙 7+ Gen 3 处理器，1999 元起](https://m.ithome.com/html/757827.htm)
+

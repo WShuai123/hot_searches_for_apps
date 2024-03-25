@@ -127,3 +127,13 @@
 
 + [【紫嘉儿】[自唱跳]周杰伦《红颜如霜》](http://www.acfun.cn/v/ac44146889)
 
++ [【嘉也子】她好闪啊！！BING BING](http://www.acfun.cn/v/ac44147442)
+
++ [【王刚探店】自贡龚三夜宵，营业三十年，老板坐着把钱挣](http://www.acfun.cn/v/ac44143190)
+
++ [手机才是摄影师最好的大屏监视器，SeeMo 4K让iPhone玩出新花样](http://www.acfun.cn/v/ac44146989)
+
++ [【自翻】Chiikawa第152话「睡衣派对9」ちいかわ](http://www.acfun.cn/v/ac44141060)
+
++ [韩服最强王者菁英对决 #2416ㅣ来啦](http://www.acfun.cn/v/ac44140781)
+
