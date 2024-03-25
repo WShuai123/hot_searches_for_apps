@@ -51,3 +51,31 @@
 
 + [godotengine / godot](https://github.com/godotengine/godot)
 
++ [suyu-emu / suyu](https://github.com/suyu-emu/suyu)
+
++ [nodejs / nodejs.org](https://github.com/nodejs/nodejs.org)
+
++ [ubicloud / ubicloud](https://github.com/ubicloud/ubicloud)
+
++ [placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv)
+
++ [jesseduffield / lazygit](https://github.com/jesseduffield/lazygit)
+
++ [mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon)
+
++ [linkwarden / linkwarden](https://github.com/linkwarden/linkwarden)
+
++ [OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
++ [StevenBlack / hosts](https://github.com/StevenBlack/hosts)
+
++ [SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge)
+
++ [CleverRaven / Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+
++ [neetcode-gh / leetcode](https://github.com/neetcode-gh/leetcode)
+
++ [end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland)
+
++ [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
+

@@ -211,3 +211,5 @@
 
 + [《龙之信条2》存档不能随意删除 或被D加密封禁](https://www.3dmgame.com/news/202403/3891307.html)
 
++ [英伟达将保留RTX 3050/60系列 以应对千元级显卡市场](https://www.3dmgame.com/news/202403/3891314.html)
+
