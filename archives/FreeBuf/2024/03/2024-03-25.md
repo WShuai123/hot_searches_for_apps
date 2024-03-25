@@ -61,3 +61,5 @@
 
 + [GitLab 收购初创安全公司 Oxeye](https://www.freebuf.com/news/395784.html)
 
++ [记某SRC站点前端JS加解密到获得漏洞报送证书](https://www.freebuf.com/vuls/384800.html)
+

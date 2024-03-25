@@ -177,3 +177,19 @@
 
 + [Docker进阶：Docker-compose 实现服务弹性伸缩](https://blog.csdn.net/qq_41840843/article/details/136997370)
 
++ [使用GaLore在本地GPU进行高效的LLM调优](https://blog.csdn.net/m0_46510245/article/details/137004388)
+
++ [基于SpringBoot后端实现连接MySQL数据库并存贮数据](https://blog.csdn.net/a910247/article/details/136992722)
+
++ [2024三掌柜赠书活动第十八期：Excel高效办公：人力资源管理（AI版）](https://blog.csdn.net/CC1991_/article/details/136991227)
+
++ [【Linux】网络编程套接字一](https://blog.csdn.net/fight_p/article/details/136801085)
+
++ [GaussDB WDR分析之节点篇与点评分析](https://blog.csdn.net/GaussDB/article/details/137003955)
+
++ [信号处理--使用EEGNet进行BCI脑电信号的分类](https://blog.csdn.net/YINTENAXIONGNAIER/article/details/136990284)
+
++ [网络原理(6)——IP协议](https://blog.csdn.net/cool_tao6/article/details/136975902)
+
++ [计算机网络⑧ —— IP地址](https://blog.csdn.net/qq_51148151/article/details/136998321)
+

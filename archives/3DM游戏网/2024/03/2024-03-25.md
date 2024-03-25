@@ -179,3 +179,21 @@
 
 + [《CS2》职业比赛选手游戏崩溃 导致战队错失季后赛资格](https://www.3dmgame.com/news/202403/3891297.html)
 
++ [《Strinova》Steam页面上线 二次元第三人称战术竞技](https://www.3dmgame.com/news/202403/3891303.html)
+
++ [《别跑！美女在追你》在Steam正式发售 优惠价20元](https://www.3dmgame.com/news/202403/3891304.html)
+
++ [单店预约看车人数逾400 销售人员：小米SU7价格可参考Model 3](https://www.3dmgame.com/news/202403/3891305.html)
+
++ [CCTV6报道网飞版《三体》引发全球网友关注 小岛秀夫登上央视](https://www.3dmgame.com/news/202403/3891306.html)
+
++ [《Re：从零开始的异世界生活》第三季动画预告公布 2024年10月播出](https://www.3dmgame.com/news/202403/3891301.html)
+
++ [玩家期待度高 《黑神话：悟空》成为Steam愿望单榜第三](https://www.3dmgame.com/news/202403/3891302.html)
+
++ [沙加生父河津秋敏谈《无限沙加》重制 三大思路引玩家热议](https://www.3dmgame.com/news/202403/3891298.html)
+
++ [KK对战平台新图推荐，上九天斩妖除魔，闯三界战舞无双！](https://www.3dmgame.com/news/202403/3891299.html)
+
++ [日本麦当劳推出薯条穿针免费网页小游戏](https://www.3dmgame.com/news/202403/3891300.html)
+
