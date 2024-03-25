@@ -173,3 +173,7 @@
 
 + [魔法科幻视觉小说《牺牲的象征》登录Steam 5月发布第一个故事内容](https://www.3dmgame.com/news/202403/3891294.html)
 
++ [《刀剑神域外传 GGO》第二季新情报公布 2024年10月放映](https://www.3dmgame.com/news/202403/3891296.html)
+
++ [《神器行者》登陆Steam 3D肉鸽爬塔割草动作](https://www.3dmgame.com/news/202403/3891295.html)
+
