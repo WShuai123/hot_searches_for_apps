@@ -57,3 +57,5 @@
 
 + [“抖音商城版”App 现已上架](https://m.ithome.com/html/758117.htm)
 
++ [门店称华为 P70 / Pro 系列手机 4 月初可预订](https://m.ithome.com/html/758141.htm)
+
