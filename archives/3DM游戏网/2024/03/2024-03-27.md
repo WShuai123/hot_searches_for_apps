@@ -105,3 +105,17 @@
 
 + [《双人成行》销量破1600万 玩家人数超3000万](https://www.3dmgame.com/news/202403/3891411.html)
 
++ [Switch《纸片马里奥：千年之门》开场动画进化](https://www.3dmgame.com/news/202403/3891416.html)
+
++ [先行测试 Xbox云游戏将添加键盘鼠标支持](https://www.3dmgame.com/news/202403/3891419.html)
+
++ [漫威游戏官推表示明日会公布一款新作](https://www.3dmgame.com/news/202403/3891418.html)
+
++ [为吸引年轻玩家微软Xbox放弃游戏独占策略](https://www.3dmgame.com/news/202403/3891417.html)
+
++ [最强网球游戏《上旋高手2K25》发布游戏性介绍](https://www.3dmgame.com/news/202403/3891415.html)
+
++ [《夜族崛起》上市当天与《恶魔城》开展联动](https://www.3dmgame.com/news/202403/3891414.html)
+
++ [《南方公园：雪假》正式上市发布全新宣传片](https://www.3dmgame.com/news/202403/3891413.html)
+

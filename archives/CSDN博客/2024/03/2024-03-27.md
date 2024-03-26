@@ -133,3 +133,11 @@
 
 + [数据可视化-ECharts Html项目实战（7）](https://blog.csdn.net/qq_49513817/article/details/137024502)
 
++ [【合合TextIn】OCR身份证 / 银行卡识别功能适配鸿蒙系统](https://blog.csdn.net/INTSIG/article/details/137018913)
+
++ [【PL理论】(1) 语法与语义：归纳的定义 | 推理规则 | 推导树 | 数学归纳法证明 (MI)](https://blog.csdn.net/weixin_50502862/article/details/136845715)
+
++ [基于QEMU的完全仿真嵌入式设备IoT动态调试安全研究](https://blog.csdn.net/qq_45894840/article/details/136996727)
+
++ [开个程序员餐厅吧](https://blog.csdn.net/yanxilou/article/details/137049199)
+
