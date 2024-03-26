@@ -71,3 +71,5 @@
 
 + [小米 SU7 汽车充电桩现身 App：白色简约外观、支持扫码绑定查询订单](https://m.ithome.com/html/758242.htm)
 
++ [9.68 万元起，比亚迪元 UP 纯电 SUV 上市：301 和 401km 续航](https://m.ithome.com/html/758269.htm)
+
