@@ -47,3 +47,7 @@
 
 + [2024 款蔚来 ET7 谍照曝光：新增月灰银车色，后排配娱乐屏](https://m.ithome.com/html/758024.htm)
 
++ [用了 30 年的“临时解决方案”：Windows 格式化对话框背后的故事](https://m.ithome.com/html/758005.htm)
+
++ [吉利银河 E5 官宣，银河品牌首款纯电 SUV 车型](https://m.ithome.com/html/758068.htm)
+

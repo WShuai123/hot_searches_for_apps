@@ -51,3 +51,7 @@
 
 + [渗透测试 | 记一次qlie引擎逆向](https://www.freebuf.com/articles/database/395056.html)
 
++ [MuddyWater借助Atera向以色列员工发起钓鱼攻击](https://www.freebuf.com/news/395927.html)
+
++ [企业安全 | 数据安全建设指南](https://www.freebuf.com/articles/database/393419.html)
+
