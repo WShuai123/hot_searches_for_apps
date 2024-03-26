@@ -25,3 +25,9 @@
 
 + [一加 Ace 3V 手机今日首销：首发骁龙 7+ Gen 3 处理器，1999 元起](https://m.ithome.com/html/757827.htm)
 
++ [联合会员 2.3 折起：京东、爱奇艺、喜马拉雅、百度文库会员限时购](https://m.ithome.com/html/757844.htm)
+
++ [原海思总裁徐文伟退休：1991 年加入华为，被视为华为芯片奠基人](https://m.ithome.com/html/757909.htm)
+
++ [消息称阿里 1688 全面接入淘宝：将设立专门频道，重推严选贴牌源头厂货](https://m.ithome.com/html/757869.htm)
+

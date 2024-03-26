@@ -109,3 +109,7 @@
 
 + [《飙酷车神：轰鸣盛典》Steam版4/18推出](https://www.3dmgame.com/news/202403/3891325.html)
 
++ [《质量效应5》开发顺利 由BioWare资深人士负责把关](https://www.3dmgame.com/news/202403/3891330.html)
+
++ [B社称《上古卷轴6》早期版本已可玩 开发者试玩了很喜欢](https://www.3dmgame.com/news/202403/3891329.html)
+

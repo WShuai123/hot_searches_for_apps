@@ -127,3 +127,7 @@
 
 + [深度学习第一周：MNIST手写数字识别](https://blog.csdn.net/qq1273882425/article/details/137014116)
 
++ [实验七：交换机VLAN中继实验](https://blog.csdn.net/m0_74474725/article/details/137030065)
+
++ [HarmonyOS鸿蒙开发组件状态管理详细说明（State、Prop、Link、Provide和Consume、Watch、ObjectLink和Observed）](https://blog.csdn.net/qq_36255346/article/details/137007706)
+
