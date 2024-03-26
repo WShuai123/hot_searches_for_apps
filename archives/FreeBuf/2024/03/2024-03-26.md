@@ -49,3 +49,5 @@
 
 + [Discord 机器人平台源代码遭遇黑客“投毒”](https://www.freebuf.com/news/395869.html)
 
++ [渗透测试 | 记一次qlie引擎逆向](https://www.freebuf.com/articles/database/395056.html)
+

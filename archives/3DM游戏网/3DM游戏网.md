@@ -185,3 +185,13 @@
 
 + [Xbox老大点名批评《辐射76》不支持跨平台存档](https://www.3dmgame.com/news/202403/3891362.html)
 
++ [《绝地潜兵2》官方下场送福利？送玩家未公布装甲车](https://www.3dmgame.com/news/202403/3891367.html)
+
++ [新型历史4X游戏《MILLENNIA》发售预告 明日1点上线](https://www.3dmgame.com/news/202403/3891368.html)
+
++ [《幻兽帕鲁》开发商宣布与腾讯云合作 轻松打造多人游戏专属服务器](https://www.3dmgame.com/news/202403/3891369.html)
+
++ [《地狱潜者2》开发商CEO表示 友军伤害永远不会被取消](https://www.3dmgame.com/news/202403/3891370.html)
+
++ [斯宾塞描述他梦想中的掌机：要拥有完整Xbox体验](https://www.3dmgame.com/news/202403/3891371.html)
+

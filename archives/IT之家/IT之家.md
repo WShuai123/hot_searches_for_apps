@@ -41,3 +41,9 @@
 
 + [换代有来由，苹果官网详述理由：鼓励用户升级 iPhone 15 系列](https://m.ithome.com/html/758052.htm)
 
++ [奔驰 EQE 行驶中起火？厂家：驾驶员同时踩刹车和油门长达 18 分钟](https://m.ithome.com/html/757973.htm)
+
++ [苹果将推出“Presto”系统，零售店可为未拆封 iPhone 无线更新系统](https://m.ithome.com/html/757918.htm)
+
++ [2024 款蔚来 ET7 谍照曝光：新增月灰银车色，后排配娱乐屏](https://m.ithome.com/html/758024.htm)
+
