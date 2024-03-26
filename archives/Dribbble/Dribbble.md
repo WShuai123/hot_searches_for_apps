@@ -77,3 +77,9 @@
 
 + [you know what to do...](https://dribbble.com/shots/)
 
++ [Tarot card #13: Death](https://dribbble.com/shots/)
+
++ [Shore House](https://dribbble.com/shots/)
+
++ [Hawaiian Surfing vibe](https://dribbble.com/shots/)
+
