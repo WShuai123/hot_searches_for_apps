@@ -111,3 +111,25 @@
 
 + [PPT互动类动画游戏开发](https://blog.csdn.net/F2420477835/article/details/137022738)
 
++ [基于YOLOv8/v5和ByteTrack的多目标检测计数与跟踪系统（深度学习代码+UI界面实现+训练数据集）](https://blog.csdn.net/qq_32892383/article/details/137012297)
+
++ [【Rust】——提取函数消除重复代码和泛型](https://blog.csdn.net/shsjssnn/article/details/136340121)
+
++ [【python】flask各种版本的项目，终端命令运行方式的实现](https://blog.csdn.net/littlefun591/article/details/137021033)
+
++ [利用Python和IP技术实现智能旅游情报系统](https://blog.csdn.net/Qingai521/article/details/136942978)
+
++ [基于SpringBoot和Leaflet的行政区划地图掩膜效果实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/137055056)
+
++ [【研发日记】C/C++开发避坑秘籍(一)——CAN接收Buffer溢出Bug](https://blog.csdn.net/CSSUST/article/details/136977414)
+
++ [ASP .NET EF模型创建以及双表关系建立](https://blog.csdn.net/m0_74473137/article/details/137060501)
+
++ [【Linux】文件系统](https://blog.csdn.net/m0_73156359/article/details/137011965)
+
++ [Linux：权限相关知识详解](https://blog.csdn.net/qq_74415153/article/details/137055134)
+
++ [AIGC工具系列之——基于OpenAI的GPT大模型搭建自己的AIGC工具](https://blog.csdn.net/weixin_38251305/article/details/137047646)
+
++ [数据可视化-ECharts Html项目实战（7）](https://blog.csdn.net/qq_49513817/article/details/137024502)
+
