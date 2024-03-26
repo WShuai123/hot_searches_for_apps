@@ -161,3 +161,5 @@
 
 + [Practical UI - 2nd Edition](https://www.producthunt.com/posts/practical-ui-2nd-edition)
 
++ [DIKTATORIAL Suite](https://www.producthunt.com/posts/diktatorial-suite)
+

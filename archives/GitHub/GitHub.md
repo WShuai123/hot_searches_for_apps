@@ -51,3 +51,33 @@
 
 + [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
 
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [semanser / codel](https://github.com/semanser/codel)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [olegos2 / mobox](https://github.com/olegos2/mobox)
+
++ [IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex)
+
++ [e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
++ [HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
+
++ [FoundationVision / GLEE](https://github.com/FoundationVision/GLEE)
+
++ [developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [fdundjer / solana-sniper-bot](https://github.com/fdundjer/solana-sniper-bot)
+
