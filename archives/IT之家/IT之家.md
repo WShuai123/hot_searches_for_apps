@@ -59,3 +59,5 @@
 
 + [门店称华为 P70 / Pro 系列手机 4 月初可预订](https://m.ithome.com/html/758141.htm)
 
++ [戴尔宣布吴冬梅全面负责大中华地区业务](https://m.ithome.com/html/758084.htm)
+

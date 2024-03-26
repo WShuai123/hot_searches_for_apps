@@ -177,3 +177,17 @@
 
 + [2核4g服务器能支持多少人访问?阿里云2核4g服务器在线人数](https://blog.csdn.net/ba476/article/details/137022340)
 
++ [机器学习：数据降维主成分分析PCA](https://blog.csdn.net/qq_38614074/article/details/136947426)
+
++ [MySQL单表操作学习DDL_DML_DQL语句](https://blog.csdn.net/Zjs15630471263/article/details/137045525)
+
++ [Docker进阶：Docker Swarm（集群搭建） —实现容器编排的利器](https://blog.csdn.net/qq_41840843/article/details/137011971)
+
++ [第114讲：Mycat实践指南：按照单位为月的日期实现水平分表](https://blog.csdn.net/weixin_44953658/article/details/137033174)
+
++ [网络原理(7)——以太网数据帧和DNS协议(数据链路层和应用层)](https://blog.csdn.net/cool_tao6/article/details/137022660)
+
++ [docker--Dockerfile (三)](https://blog.csdn.net/m0_74229802/article/details/137021738)
+
++ [企业微信应用结合Cpolar内网穿透实现固定域名验证回调本地接口服务](https://blog.csdn.net/YYDsis/article/details/137043885)
+
