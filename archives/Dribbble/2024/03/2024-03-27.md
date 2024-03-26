@@ -49,3 +49,21 @@
 
 + [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
 
++ [Wild and Funky Beastie Boys Lettering](https://dribbble.com/shots/)
+
++ [Silent Computer](https://dribbble.com/shots/)
+
++ [Travel Kaunas Icon](https://dribbble.com/shots/)
+
++ [Ranger Station - Badges](https://dribbble.com/shots/)
+
++ [City Quanzhou](https://dribbble.com/shots/)
+
++ [Lekker](https://dribbble.com/shots/)
+
++ [Camera Controller Concept (Light)](https://dribbble.com/shots/)
+
++ [Wild turkey](https://dribbble.com/shots/)
+
++ [Logo for Mexican restaurant](https://dribbble.com/shots/)
+

@@ -101,3 +101,7 @@
 
 + [粉丝自制《GTA6》真人版预告 沙滩美女好多啊！](https://www.3dmgame.com/news/202403/3891356.html)
 
++ [发售期将至？《星球大战：法外狂徒》在澳大利亚获得评级](https://www.3dmgame.com/news/202403/3891412.html)
+
++ [《双人成行》销量破1600万 玩家人数超3000万](https://www.3dmgame.com/news/202403/3891411.html)
+
