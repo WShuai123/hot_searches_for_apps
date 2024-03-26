@@ -35,3 +35,5 @@
 
 + [传奇落幕：奥迪 R8 正式停产](https://m.ithome.com/html/758030.htm)
 
++ [智己 L6 预热：首个量产上车的超快充固态电池，超 1000 公里续航](https://m.ithome.com/html/757868.htm)
+

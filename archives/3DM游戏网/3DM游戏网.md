@@ -145,3 +145,33 @@
 
 + [《最终幻想15》前总监：游戏开发者应该尝试用AI创作](https://www.3dmgame.com/news/202403/3891332.html)
 
++ [人气动画剧场版《排球少年！！垃圾场决战》定档预告 6月15日内地上映](https://www.3dmgame.com/news/202403/3891361.html)
+
++ [报道称“寡姐”斯嘉丽·约翰逊将出演新《侏罗纪世界》电影 或担任主角](https://www.3dmgame.com/news/202403/3891360.html)
+
++ [传闻：苹果正准备在WWDC 24上推出AI应用商店](https://www.3dmgame.com/news/202403/3891359.html)
+
++ [《格兰蒂亚 HD合集》登陆PS/Xbox 经典好评RPG名作](https://www.3dmgame.com/news/202403/3891358.html)
+
++ [回合战略游戏《巴比伦的赏金》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3891357.html)
+
++ [粉丝自制《GTA6》真人版预告 沙滩美女好多啊！](https://www.3dmgame.com/news/202403/3891356.html)
+
++ [《哥斯拉大战金刚2：帝国崛起》发布终极预告 3月29日上映](https://www.3dmgame.com/news/202403/3891354.html)
+
++ [分析师：游戏行业裁员成趋势 公司已不用顾及形象](https://www.3dmgame.com/news/202403/3891353.html)
+
++ [自走棋战斗的大富翁《Quad Battle》Steam页面 支持简中](https://www.3dmgame.com/news/202403/3891352.html)
+
++ [Steam推出“牌组构建游戏节” 4月1日10点（PT）结束](https://www.3dmgame.com/news/202403/3891351.html)
+
++ [《魔兽世界》新资料片前 订阅玩家数量再次增加](https://www.3dmgame.com/news/202403/3891348.html)
+
++ [网飞《三体》主创团队已在筹备第二季 无惧争议！](https://www.3dmgame.com/news/202403/3891350.html)
+
++ [《地牢翻新模拟器》4月Steam抢测 哥布林的家园清扫](https://www.3dmgame.com/news/202403/3891349.html)
+
++ [微软强迫开发者不要创造“夸张身体比例”的女性角色](https://www.3dmgame.com/news/202403/3891347.html)
+
++ [《生化奇兵》之父新作 《Judas》即将公布最新进展](https://www.3dmgame.com/news/202403/3891355.html)
+
