@@ -113,3 +113,35 @@
 
 + [B社称《上古卷轴6》早期版本已可玩 开发者试玩了很喜欢](https://www.3dmgame.com/news/202403/3891329.html)
 
++ [开发商Corp Circle被关闭：员工被要求放弃遣散补偿](https://www.3dmgame.com/news/202403/3891341.html)
+
++ [卡普空公布《怪物猎人》奇怪龙手办 将于10月推出](https://www.3dmgame.com/news/202403/3891342.html)
+
++ [任天堂Switch主机18.0.0系统更新上线 添加新自动睡眠选项](https://www.3dmgame.com/news/202403/3891343.html)
+
++ [《点睛》登陆Steam 水墨画风休闲动作新游](https://www.3dmgame.com/news/202403/3891344.html)
+
++ [《城市：天际线2》“海滩资产包”DLC推出即获特别差评](https://www.3dmgame.com/news/202403/3891345.html)
+
++ [「纯爱」视觉小说《夏日事件簿》 4月29日发售](https://www.3dmgame.com/news/202403/3891346.html)
+
++ [《ENDER MAGNOLIA》登陆Steam 末世幻想动作RPG](https://www.3dmgame.com/news/202403/3891333.html)
+
++ [日本经济产业省推出“创风”独立游戏开发支持项目](https://www.3dmgame.com/news/202403/3891334.html)
+
++ [开发商暗示《无人深空》即将迎来新内容更新](https://www.3dmgame.com/news/202403/3891335.html)
+
++ [前索尼高管吉姆·瑞安退休 PlayStation推出数字版吉姆摇头公仔纪念](https://www.3dmgame.com/news/202403/3891336.html)
+
++ [《使命召唤：战区手游》推出4天内收入达140万美元](https://www.3dmgame.com/news/202403/3891337.html)
+
++ [社区模拟休闲生活MMO游戏《Palia》Steam免费推出 综合评价“褒贬不一”](https://www.3dmgame.com/news/202403/3891338.html)
+
++ [《龙之信条2》疯狂商店Mod 让玩家轻松绕过微交易](https://www.3dmgame.com/news/202403/3891339.html)
+
++ [《控制》衍生作Condor新细节 今年进入全面制作](https://www.3dmgame.com/news/202403/3891340.html)
+
++ [销量太疲软 第三方厂商开始不想支持Xbox主机](https://www.3dmgame.com/news/202403/3891331.html)
+
++ [《最终幻想15》前总监：游戏开发者应该尝试用AI创作](https://www.3dmgame.com/news/202403/3891332.html)
+

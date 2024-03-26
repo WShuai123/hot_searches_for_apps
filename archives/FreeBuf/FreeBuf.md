@@ -45,3 +45,5 @@
 
 + [分析发现勒索软件数据泄露主要依靠滥用合法软件](https://www.freebuf.com/articles/network/393874.html)
 
++ [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
+

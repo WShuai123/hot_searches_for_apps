@@ -131,3 +131,7 @@
 
 + [HarmonyOS鸿蒙开发组件状态管理详细说明（State、Prop、Link、Provide和Consume、Watch、ObjectLink和Observed）](https://blog.csdn.net/qq_36255346/article/details/137007706)
 
++ [Python 机器学习 XGBoost最优模型构建方法](https://blog.csdn.net/weixin_42098295/article/details/137027744)
+
++ [浏览器工作原理与实践--渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的](https://blog.csdn.net/echohuangshihuxue/article/details/137008176)
+

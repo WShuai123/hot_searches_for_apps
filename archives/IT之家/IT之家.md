@@ -31,3 +31,7 @@
 
 + [消息称阿里 1688 全面接入淘宝：将设立专门频道，重推严选贴牌源头厂货](https://m.ithome.com/html/757869.htm)
 
++ [硬刚“公路杀手”：吉利银河 E8 通过两台 10 吨重卡夹击碰撞测试](https://m.ithome.com/html/758048.htm)
+
++ [传奇落幕：奥迪 R8 正式停产](https://m.ithome.com/html/758030.htm)
+
