@@ -67,3 +67,5 @@
 
 + [阿里巴巴已出售其持有的全部B站股份](https://m.ithome.com/html/758240.htm)
 
++ [小米汽车 App 安卓版上架各大应用商店，为发布 SU7 车型铺路](https://m.ithome.com/html/758185.htm)
+
