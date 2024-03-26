@@ -55,3 +55,9 @@
 
 + [企业安全 | 数据安全建设指南](https://www.freebuf.com/articles/database/393419.html)
 
++ [如何使用route-detect在Web应用程序路由中扫描身份认证和授权漏洞](https://www.freebuf.com/sectool/392521.html)
+
++ [新型 ZenHammer 内存攻击影响 AMD Zen CPU](https://www.freebuf.com/news/395926.html)
+
++ [GitHub遭遇严重的供应链“投毒”攻击，影响TOP.GG平台](https://www.freebuf.com/news/395869.html)
+

@@ -197,3 +197,23 @@
 
 + [小米电视S75 Mini LED 75英寸来了 4599元杀疯！](https://www.3dmgame.com/news/202403/3891372.html)
 
++ [《终焉之莉莉：骑士寂夜》销量突破140万 Steam特别好评](https://www.3dmgame.com/news/202403/3891381.html)
+
++ [KK对战平台愚人节特别活动，神秘头像，猜猜我是谁？](https://www.3dmgame.com/news/202403/3891382.html)
+
++ [《珠宝加工模拟器》登陆Steam 打造精美宝石](https://www.3dmgame.com/news/202403/3891380.html)
+
++ [漫画《宝石之国》即将推出最终话 复刊后仅推出两话](https://www.3dmgame.com/news/202403/3891379.html)
+
++ [研究显示：大量电视电影爱好者正在转为游戏玩家](https://www.3dmgame.com/news/202403/3891378.html)
+
++ [多个消息来源证实《GTA6》仍按计划推进中 任何延期说法都是猜测](https://www.3dmgame.com/news/202403/3891377.html)
+
++ [《崩坏：星穹铁道》黄泉角色PV——「你的颜色」](https://www.3dmgame.com/news/202403/3891374.html)
+
++ [《你想活出怎样的人生》终极预告 4月3日中国内地上映](https://www.3dmgame.com/news/202403/3891376.html)
+
++ [恶搞竞速游戏《懒虫：荣耀手推车》登录Steam平台](https://www.3dmgame.com/news/202403/3891375.html)
+
++ [《俄罗斯方块》生父透露正统续作《Tetris Reversed》 已开发10年](https://www.3dmgame.com/news/202403/3891373.html)
+

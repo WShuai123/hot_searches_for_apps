@@ -51,3 +51,5 @@
 
 + [吉利银河 E5 官宣，银河品牌首款纯电 SUV 车型](https://m.ithome.com/html/758068.htm)
 
++ [小米澎湃 HyperOS 系统本周开启行程助手内测](https://m.ithome.com/html/758103.htm)
+
