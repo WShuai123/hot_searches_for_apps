@@ -53,3 +53,7 @@
 
 + [小米澎湃 HyperOS 系统本周开启行程助手内测](https://m.ithome.com/html/758103.htm)
 
++ [飞书发布全员信：适当精简规模，提供补偿方案或者转岗机会](https://m.ithome.com/html/758110.htm)
+
++ [“抖音商城版”App 现已上架](https://m.ithome.com/html/758117.htm)
+

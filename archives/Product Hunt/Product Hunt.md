@@ -141,3 +141,21 @@
 
 + [DermaQ](https://www.producthunt.com/posts/dermaq)
 
++ [Answer Lens](https://www.producthunt.com/posts/answer-lens)
+
++ [Budgets Planner](https://www.producthunt.com/posts/budgets-planner)
+
++ [LogoHub](https://www.producthunt.com/posts/logohub)
+
++ [Supercal](https://www.producthunt.com/posts/supercal)
+
++ [DeckBird.ai](https://www.producthunt.com/posts/deckbird-ai-3)
+
++ [Earnie AI](https://www.producthunt.com/posts/earnie-ai)
+
++ [MarketPlays](https://www.producthunt.com/posts/marketplays-2)
+
++ [BentoGrid.dev](https://www.producthunt.com/posts/bentogrid-dev)
+
++ [gdocweb](https://www.producthunt.com/posts/gdocweb)
+
