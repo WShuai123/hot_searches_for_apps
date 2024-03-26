@@ -257,3 +257,9 @@
 
 + [传《索尼克英雄》重制版开发中 虚幻5引擎](https://www.3dmgame.com/news/202403/3891403.html)
 
++ [《加勒比海盗》电影将重启 《最后的生还者》主创担任编剧](https://www.3dmgame.com/news/202403/3891405.html)
+
++ [炸街老Boys回归!《绝地战警4》曝光首支预告](https://www.3dmgame.com/news/202403/3891406.html)
+
++ [真的变身“终结者” 施瓦辛格接受植入了心脏起搏器](https://www.3dmgame.com/news/202403/3891404.html)
+

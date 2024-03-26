@@ -69,3 +69,5 @@
 
 + [小米汽车 App 安卓版上架各大应用商店，为发布 SU7 车型铺路](https://m.ithome.com/html/758185.htm)
 
++ [小米 SU7 汽车充电桩现身 App：白色简约外观、支持扫码绑定查询订单](https://m.ithome.com/html/758242.htm)
+

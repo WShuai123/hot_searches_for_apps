@@ -199,3 +199,7 @@
 
 + [【Docker】Docker安全与最佳实践：保护你的容器化应用程序](https://blog.csdn.net/m0_75058342/article/details/134617800)
 
++ [【python】flask各种版本的项目，终端命令运行方式的实现](https://blog.csdn.net/littlefun591/article/details/137021033)
+
++ [如何本地部署Elasticsearch+cpolar实现公网查询与管理内网数据](https://blog.csdn.net/bushibrnxiaohaij/article/details/137051397)
+
