@@ -251,3 +251,7 @@
 
 + [全年PC销量狂跌20%！戴尔宣布裁员并限制招聘](https://www.3dmgame.com/news/202403/3891398.html)
 
++ [399元支持4K！国产显卡摩尔线程MTT S30图赏](https://www.3dmgame.com/news/202403/3891401.html)
+
++ [雷军：我最痛恨品牌溢价 小米SU7努力做到50万内没对手](https://www.3dmgame.com/news/202403/3891402.html)
+

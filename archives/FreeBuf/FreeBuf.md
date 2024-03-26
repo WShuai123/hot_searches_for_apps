@@ -63,3 +63,7 @@
 
 + [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
 
++ [数据安全、AI安全与移动应用安全 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/395889.html)
+
++ [GitHub遭遇严重供应链“投毒”攻击](https://www.freebuf.com/news/395869.html)
+
