@@ -175,3 +175,13 @@
 
 + [《生化奇兵》之父新作 《Judas》即将公布最新进展](https://www.3dmgame.com/news/202403/3891355.html)
 
++ [PC Gamer长文：《暗黑4》终于变成我们想要的那个游戏](https://www.3dmgame.com/news/202403/3891363.html)
+
++ [《Sky光·遇》Steam版4月10日上线 支持中文](https://www.3dmgame.com/news/202403/3891366.html)
+
++ [抖音首次推出商城版APP 大动作对标三大电商](https://www.3dmgame.com/news/202403/3891365.html)
+
++ [《龙之信条2》玩家游戏时间30个小时后才意识到野营用具不是消耗品](https://www.3dmgame.com/news/202403/3891364.html)
+
++ [Xbox老大点名批评《辐射76》不支持跨平台存档](https://www.3dmgame.com/news/202403/3891362.html)
+

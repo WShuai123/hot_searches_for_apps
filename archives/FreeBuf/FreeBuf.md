@@ -47,3 +47,5 @@
 
 + [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
 
++ [Discord 机器人平台源代码遭遇黑客“投毒”](https://www.freebuf.com/news/395869.html)
+

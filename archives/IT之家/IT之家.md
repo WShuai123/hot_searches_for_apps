@@ -37,3 +37,7 @@
 
 + [智己 L6 预热：首个量产上车的超快充固态电池，超 1000 公里续航](https://m.ithome.com/html/757868.htm)
 
++ [消息称小红书 2023 年首次实现盈利](https://m.ithome.com/html/757876.htm)
+
++ [换代有来由，苹果官网详述理由：鼓励用户升级 iPhone 15 系列](https://m.ithome.com/html/758052.htm)
+
