@@ -65,3 +65,15 @@
 
 + [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
 
++ [Beauty](https://dribbble.com/shots/)
+
++ [Philippe II & Richard the Lionheart, BFFs!](https://dribbble.com/shots/)
+
++ [Precious Metal](https://dribbble.com/shots/)
+
++ [????](https://dribbble.com/shots/)
+
++ [Face](https://dribbble.com/shots/)
+
++ [Music & Film Logo Collection](https://dribbble.com/shots/)
+

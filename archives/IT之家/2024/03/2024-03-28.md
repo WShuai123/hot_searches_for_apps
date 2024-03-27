@@ -25,3 +25,5 @@
 
 + [小米诉海信 Vidda 商业诋毁一审判决公布，获赔 55 万元](https://m.ithome.com/html/758477.htm)
 
++ [小米 SU7 车型 CLTC 工况整合“环境及驾驶行为”，标准版广东实测续航 495 公里电耗 15kWh / 100km](https://m.ithome.com/html/758529.htm)
+
