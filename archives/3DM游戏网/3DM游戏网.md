@@ -101,3 +101,7 @@
 
 + [Switch高级会员游戏库新增GBA游戏：《F-ZERO:最高时速》](https://www.3dmgame.com/news/202403/3891450.html)
 
++ [开发者认为PS5 Pro不会拓宽市场 升级尚早](https://www.3dmgame.com/news/202403/3891505.html)
+
++ [网易《漫威争锋》实机首曝 登陆Steam/Epic](https://www.3dmgame.com/news/202403/3891504.html)
+
