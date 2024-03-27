@@ -201,3 +201,11 @@
 
 + [《龙之信条2》玩家集体抱怨游戏中的敌人缺乏多样性](https://www.3dmgame.com/news/202403/3891454.html)
 
++ [2月iPhone在中国出货量暴跌33%！还会继续下降](https://www.3dmgame.com/news/202403/3891464.html)
+
++ [游戏开发者声称GDC与会被下药 指责举办方警方不作为](https://www.3dmgame.com/news/202403/3891463.html)
+
++ [《龙之信条2》玩家开发追随者任务刷金方法 2小时能赚20万](https://www.3dmgame.com/news/202403/3891462.html)
+
++ [《武装突袭3》新DLC“Reaction Forces”上线 新兵器剧本等](https://www.3dmgame.com/news/202403/3891461.html)
+

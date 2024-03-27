@@ -53,3 +53,5 @@
 
 + [CISA 和 FBI 敦促开发人员“全力消除” SQL 注入漏洞](https://www.freebuf.com/news/396035.html)
 
++ [安全运营人员如何降低IT资产管理难度](https://www.freebuf.com/consult/395033.html)
+
