@@ -61,3 +61,5 @@
 
 + [Gartner 公布 2024 年八大网络安全预测](https://www.freebuf.com/news/396041.html)
 
++ [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
+

@@ -221,3 +221,21 @@
 
 + [万代南梦宫PlayStation Store春季特卖活动即将开始！](https://www.3dmgame.com/news/202403/3891470.html)
 
++ [如月车站神隐事件簿《岚与山之彼端》最新PV现已公开](https://www.3dmgame.com/news/202403/3891479.html)
+
++ [山崎贤人主演新片《阴阳师0》新预告 4月19日上映](https://www.3dmgame.com/news/202403/3891478.html)
+
++ [与苹果已经拉开一个特斯拉 知名投行Wedbush：微软还能再涨18%！](https://www.3dmgame.com/news/202403/3891477.html)
+
++ [KK对战平台新图推荐 糟糕！我拿到的剧本竟是帮会领袖？](https://www.3dmgame.com/news/202403/3891476.html)
+
++ [片冈智×皇琥珀AVG新作《新宿葬命》跳票 5月24日发售](https://www.3dmgame.com/news/202403/3891474.html)
+
++ [Remedy明白多人市场竞争激烈：但要冒险以扩大受众](https://www.3dmgame.com/news/202403/3891473.html)
+
++ [名场景复刻？HBO辟谣《最后的生还者》第二季乔尔还没有杀青](https://www.3dmgame.com/news/202403/3891475.html)
+
++ [《核爆RPG》开发商新作《Swordhaven》众筹 末日RPG](https://www.3dmgame.com/news/202403/3891472.html)
+
++ [《宝可梦 Go》开发商“正确”更新游戏内人物形象 引玩家不满](https://www.3dmgame.com/news/202403/3891471.html)
+

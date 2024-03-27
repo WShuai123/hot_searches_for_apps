@@ -39,3 +39,5 @@
 
 + [146.8 万-332 万元，新款梅赛德斯-迈巴赫 S 级上市](https://m.ithome.com/html/758289.htm)
 
++ [小米 Redmi 新系列手机正面曝光：骁龙 8s Gen 3 处理器、无塑料支架直屏设计](https://m.ithome.com/html/758363.htm)
+

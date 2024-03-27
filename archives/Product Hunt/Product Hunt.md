@@ -159,3 +159,13 @@
 
 + [CodenQuest](https://www.producthunt.com/posts/codenquest)
 
++ [Euforia](https://www.producthunt.com/posts/euforia)
+
++ [JobTrackerAI by Wonsulting](https://www.producthunt.com/posts/jobtrackerai-by-wonsulting)
+
++ [Talkie AI](https://www.producthunt.com/posts/talkie-ai)
+
++ [Steep](https://www.producthunt.com/posts/steep-2)
+
++ [voam](https://www.producthunt.com/posts/voam)
+
