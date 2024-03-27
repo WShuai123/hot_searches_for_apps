@@ -239,3 +239,27 @@
 
 + [《宝可梦 Go》开发商“正确”更新游戏内人物形象 引玩家不满](https://www.3dmgame.com/news/202403/3891471.html)
 
++ [专家：无人驾驶要比人类驾驶的安全性高N倍](https://www.3dmgame.com/news/202403/3891491.html)
+
++ [“翻车”的美国月球着陆器彻底死亡！只发回一张照片](https://www.3dmgame.com/news/202403/3891490.html)
+
++ [AI让好莱坞明星乱入《最终幻想》世界 画面太美！](https://www.3dmgame.com/news/202403/3891486.html)
+
++ [苹果申请新专利：设备电池可拆卸！？大概率不便宜](https://www.3dmgame.com/news/202403/3891485.html)
+
++ [网红吃播Cos《地平线：西之绝境》女主埃洛伊 太像了！](https://www.3dmgame.com/news/202403/3891484.html)
+
++ [中科院院士：脑机接口未来有可能让人拥有读心术](https://www.3dmgame.com/news/202403/3891489.html)
+
++ [Xbox“极地行动”手柄国行版4月1日发售 定价499元](https://www.3dmgame.com/news/202403/3891488.html)
+
++ [《女神异闻录３ Reload》全球销量破100万份 荣耀宣传片公开](https://www.3dmgame.com/news/202403/3891487.html)
+
++ [《对马岛之魂》Steam国区售价调整 永降16元](https://www.3dmgame.com/news/202403/3891483.html)
+
++ [漫威6v6第三人称射击《漫威：对决》泄露更多消息](https://www.3dmgame.com/news/202403/3891482.html)
+
++ [任天堂公布人才策略 自称通过娱乐带给大众快乐的公司](https://www.3dmgame.com/news/202403/3891481.html)
+
++ [腾讯发布GiiNEX AI引擎：面向AI NPC以及场景制作等](https://www.3dmgame.com/news/202403/3891480.html)
+
