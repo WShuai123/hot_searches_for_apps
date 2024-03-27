@@ -119,3 +119,21 @@
 
 + [《南方公园：雪假》正式上市发布全新宣传片](https://www.3dmgame.com/news/202403/3891413.html)
 
++ [调查显示：32%手游消费者计划2024年减少应用内支出](https://www.3dmgame.com/news/202403/3891428.html)
+
++ [动作冒险游戏《蛮之纪》4月4日发售 试玩Demo上线](https://www.3dmgame.com/news/202403/3891426.html)
+
++ [开放世界生存动作RPG《矮人先祖》15分钟实机](https://www.3dmgame.com/news/202403/3891427.html)
+
++ [《博德之门3》总监认为AI能帮助更快开发游戏 但没创造性](https://www.3dmgame.com/news/202403/3891425.html)
+
++ [《木卫四协议》更新 移除了D加密技术](https://www.3dmgame.com/news/202403/3891424.html)
+
++ [斯宾塞认为裁员是Xbox生存的必要条件：因行业增长乏力](https://www.3dmgame.com/news/202403/3891423.html)
+
++ [《暗黑破坏神4》1.3.5版更新上线 添加光追支持](https://www.3dmgame.com/news/202403/3891422.html)
+
++ [《暗黑破坏神4》PC XGP版仍需战网客户端才能游戏](https://www.3dmgame.com/news/202403/3891421.html)
+
++ [《燧石枪：黎明之围》加长版实机预告片公布](https://www.3dmgame.com/news/202403/3891420.html)
+
