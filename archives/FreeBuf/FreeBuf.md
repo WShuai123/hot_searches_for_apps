@@ -55,3 +55,5 @@
 
 + [安全运营人员如何降低IT资产管理难度](https://www.freebuf.com/consult/395033.html)
 
++ [黑客利用 Ray 框架漏洞，入侵服务器，劫持资源](https://www.freebuf.com/articles/396057.html)
+

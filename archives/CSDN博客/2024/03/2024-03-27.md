@@ -159,3 +159,7 @@
 
 + [微服务设计原则——低风险](https://blog.csdn.net/K346K346/article/details/137042729)
 
++ [初探OceanBase：一款高性能分布式（实时HTAP）关系数据库的技术剖析](https://blog.csdn.net/qq_26664043/article/details/136988055)
+
++ [【机器学习】数据驱动的未来：机器学习的原理与算法探索](https://blog.csdn.net/m0_68089732/article/details/137061130)
+
