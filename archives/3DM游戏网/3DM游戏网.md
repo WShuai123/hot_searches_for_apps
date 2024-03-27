@@ -271,3 +271,7 @@
 
 + [雷军回应小米SU7对标保时捷和特斯拉：比下来互有胜负](https://www.3dmgame.com/news/202403/3891494.html)
 
++ [《CF》《失落方舟》韩国开发商Smilegate关闭巴塞罗那工作室](https://www.3dmgame.com/news/202403/3891497.html)
+
++ [传三星正在测试Exynos 2500 性能优于第三代骁龙8](https://www.3dmgame.com/news/202403/3891496.html)
+

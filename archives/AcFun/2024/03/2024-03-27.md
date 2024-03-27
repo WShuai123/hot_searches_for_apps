@@ -119,3 +119,15 @@
 
 + [快夏天嘛～到海边必须是比基尼！！](http://www.acfun.cn/v/ac44157990)
 
++ [《关于夜晚和失眠的世界》](http://www.acfun.cn/v/ac44162334)
+
++ [俄罗斯恐袭方兴未艾，又有五名中国人在巴基斯坦遇袭身亡【岩论424期】](http://www.acfun.cn/v/ac44164210)
+
++ [萌宠集合，这才是猛男该看的！第四百五十五期](http://www.acfun.cn/v/ac44156458)
+
++ [【鼓歌】《使一颗心免于哀伤》](http://www.acfun.cn/v/ac44156936)
+
++ [好姐妹天天秀#204【致命回忆】](http://www.acfun.cn/v/ac44157023)
+
++ [Mirror](http://www.acfun.cn/v/ac44155978)
+

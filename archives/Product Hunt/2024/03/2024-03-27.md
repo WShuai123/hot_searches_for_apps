@@ -175,3 +175,9 @@
 
 + [Hoory AI](https://www.producthunt.com/posts/hoory-ai)
 
++ [EasyDaddy](https://www.producthunt.com/posts/easydaddy)
+
++ [Call an AI](https://www.producthunt.com/posts/call-an-ai)
+
++ [Superpipe](https://www.producthunt.com/posts/superpipe)
+
