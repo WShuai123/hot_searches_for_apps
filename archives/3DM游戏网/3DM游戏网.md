@@ -265,3 +265,9 @@
 
 + [三星推出更多宝可梦球造型Galaxy Buds耳机盒 售价4879日元](https://www.3dmgame.com/news/202403/3891492.html)
 
++ [诺奖得主：AI不会取代多数工作 年轻人要重新思考就业技能](https://www.3dmgame.com/news/202403/3891495.html)
+
++ [《学校怪异研究所》4月登陆Steam 校园系恐怖探索](https://www.3dmgame.com/news/202403/3891493.html)
+
++ [雷军回应小米SU7对标保时捷和特斯拉：比下来互有胜负](https://www.3dmgame.com/news/202403/3891494.html)
+

@@ -41,3 +41,9 @@
 
 + [小米 Redmi 新系列手机正面曝光：骁龙 8s Gen 3 处理器、无塑料支架直屏设计](https://m.ithome.com/html/758363.htm)
 
++ [2023 国内平板市场战报：苹果降 10%、华为增 65%、小米降 14%、荣耀增 26%、联想增 3%](https://m.ithome.com/html/758282.htm)
+
++ [苹果 iPhone 16 Pro 保护壳曝光：配件厂商提前为“拍照键”布局](https://m.ithome.com/html/758293.htm)
+
++ [45.76 万元起，全新奔驰 CLE 轿跑车上市](https://m.ithome.com/html/758292.htm)
+
