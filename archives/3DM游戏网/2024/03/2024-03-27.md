@@ -263,3 +263,5 @@
 
 + [腾讯发布GiiNEX AI引擎：面向AI NPC以及场景制作等](https://www.3dmgame.com/news/202403/3891480.html)
 
++ [三星推出更多宝可梦球造型Galaxy Buds耳机盒 售价4879日元](https://www.3dmgame.com/news/202403/3891492.html)
+
