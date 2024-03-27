@@ -275,3 +275,7 @@
 
 + [传三星正在测试Exynos 2500 性能优于第三代骁龙8](https://www.3dmgame.com/news/202403/3891496.html)
 
++ [《生化奇兵》之父新作 《Judas》首批细节公开](https://www.3dmgame.com/news/202403/3891498.html)
+
++ [《三体》开播 “收视率”Netflix周排行榜第二](https://www.3dmgame.com/news/202403/3891499.html)
+
