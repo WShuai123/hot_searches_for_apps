@@ -137,3 +137,35 @@
 
 + [《燧石枪：黎明之围》加长版实机预告片公布](https://www.3dmgame.com/news/202403/3891420.html)
 
++ [《浪人崛起》浮世绘风贺图 中国台湾画家简志刚制作](https://www.3dmgame.com/news/202403/3891444.html)
+
++ [腾讯《DNF》手游最后一次测试结束 最快下周上线](https://www.3dmgame.com/news/202403/3891439.html)
+
++ [《骷髅女孩：再次返场》DLC角色女仆玛琳现已推出](https://www.3dmgame.com/news/202403/3891441.html)
+
++ [《壮志凌云3》仍然阿汤哥主演 已经有了一个故事](https://www.3dmgame.com/news/202403/3891443.html)
+
++ [奇幻策略游戏《寂静之歌》众筹开启 1天内达成目标](https://www.3dmgame.com/news/202403/3891442.html)
+
++ [起飞重量达530吨！长征六号改运载火箭成功发射云海三号02星](https://www.3dmgame.com/news/202403/3891440.html)
+
++ [彭博社报道称腾讯正在打造两款类《幻兽帕鲁》手游](https://www.3dmgame.com/news/202403/3891438.html)
+
++ [《赛博朋克2077》续作将是电影和游戏的独特融合 更具电影沉浸感](https://www.3dmgame.com/news/202403/3891435.html)
+
++ [德国《CS》战队 电竞公司Sprout Esports宣布关闭](https://www.3dmgame.com/news/202403/3891434.html)
+
++ [《最终幻想7：重生》从原版到重制版 看多边形的运用演变](https://www.3dmgame.com/news/202403/3891433.html)
+
++ [哥特风吸血鬼生存游戏《夜族崛起》宣布将于5月8日与《恶魔城》展开联动](https://www.3dmgame.com/news/202403/3891432.html)
+
++ [PS5推出社区游戏帮助服务 由玩家上传内容](https://www.3dmgame.com/news/202403/3891431.html)
+
++ [《雾锁王国》大型更新发布 海量内容优化追加修复](https://www.3dmgame.com/news/202403/3891430.html)
+
++ [《忍者神龟4：时空大冒险》4月24日推出 不支持中文](https://www.3dmgame.com/news/202403/3891429.html)
+
++ [《星球工匠》4月10日Steam正式推出 太空生存建设](https://www.3dmgame.com/news/202403/3891437.html)
+
++ [极简主义城市建造游戏《堡垒：猎鹰战纪》 现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3891436.html)
+

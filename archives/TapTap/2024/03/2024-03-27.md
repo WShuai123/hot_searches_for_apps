@@ -21,3 +21,5 @@
 
 + [雷索纳斯](https://www.taptap.cn/app/226568)
 
++ [西游：笔绘西行](https://www.taptap.cn/app/380834)
+
