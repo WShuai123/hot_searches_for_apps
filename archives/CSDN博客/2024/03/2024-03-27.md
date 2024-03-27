@@ -147,3 +147,7 @@
 
 + [【Unity人机交互】人工智能之爬虫开章](https://blog.csdn.net/m0_64128218/article/details/137037272)
 
++ [文心一言指令词宝典之职场效率篇](https://blog.csdn.net/weixin_42250835/article/details/137062488)
+
++ [一文道破将bean注入到Spring中的几种方式](https://blog.csdn.net/qq_53847859/article/details/135157285)
+

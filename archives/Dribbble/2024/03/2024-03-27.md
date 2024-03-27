@@ -99,3 +99,7 @@
 
 + [Pixel art animated test](https://dribbble.com/shots/)
 
++ [Do not touch wild animals](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+

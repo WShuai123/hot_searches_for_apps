@@ -47,3 +47,5 @@
 
 + [TP-Link TDDP 缓冲区溢出安全漏洞解析](https://www.freebuf.com/vuls/395614.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+

@@ -169,3 +169,13 @@
 
 + [极简主义城市建造游戏《堡垒：猎鹰战纪》 现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3891436.html)
 
++ [《罪恶装备：奋战》S3最终角色预告 S4正式宣布](https://www.3dmgame.com/news/202403/3891448.html)
+
++ [玩家热议《上古卷轴5》N站MOD下载近两年暴涨四倍](https://www.3dmgame.com/news/202403/3891449.html)
+
++ [《魔兽世界》T2套装新配色出现 感觉一言难尽](https://www.3dmgame.com/news/202403/3891447.html)
+
++ [英特尔、微软联合定义“AI PC”：须配有Copilot物理按键](https://www.3dmgame.com/news/202403/3891446.html)
+
++ [《荒野大镖客》加入R星GTA+会员游戏库 免费下载畅玩](https://www.3dmgame.com/news/202403/3891445.html)
+
