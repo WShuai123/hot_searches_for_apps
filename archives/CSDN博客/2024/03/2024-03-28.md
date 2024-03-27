@@ -127,3 +127,5 @@
 
 + [Pycharm服务器配置python解释器并结合内网穿透实现公网远程开发](https://blog.csdn.net/qyj19920704/article/details/137020397)
 
++ [西安石油大学数学建模校赛培训（2）matlab的使用](https://blog.csdn.net/shaozheng0503/article/details/137026392)
+
