@@ -279,3 +279,7 @@
 
 + [《三体》开播 “收视率”Netflix周排行榜第二](https://www.3dmgame.com/news/202403/3891499.html)
 
++ [第一人称射击游戏《生化奇兵：无限》发售11周年](https://www.3dmgame.com/news/202403/3891500.html)
+
++ [前谷歌工程师创业造AI芯片 称要比英伟达好10倍](https://www.3dmgame.com/news/202403/3891501.html)
+
