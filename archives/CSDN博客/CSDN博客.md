@@ -129,3 +129,13 @@
 
 + [西安石油大学数学建模校赛培训（2）matlab的使用](https://blog.csdn.net/shaozheng0503/article/details/137026392)
 
++ [深度学习第二周：CIFAR10彩色图片识别](https://blog.csdn.net/qq1273882425/article/details/137073633)
+
++ [【码银送书第十五期】一本书掌握数字化运维方法，构建数字化运维体系](https://blog.csdn.net/weixin_53197693/article/details/137079040)
+
++ [2024全新英特尔商用客户端AIPC产品发布会——开启AIGC的新阶段](https://blog.csdn.net/Hongrui_Chang/article/details/137090534)
+
++ [红胖子创业第三年总结：保守稳定客户，技术业务认可，口碑业务增长，国内创业真相，减少外协占比，投入研发产品，寻求资本渠道，享受快乐自由](https://blog.csdn.net/qq21497936/article/details/137067698)
+
++ [SOCKS5代理、代理IP、HTTP与网络安全的深度解析](https://blog.csdn.net/jxyS5/article/details/137043804)
+

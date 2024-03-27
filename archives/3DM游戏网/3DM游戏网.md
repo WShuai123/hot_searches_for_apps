@@ -105,3 +105,13 @@
 
 + [网易《漫威争锋》实机首曝 登陆Steam/Epic](https://www.3dmgame.com/news/202403/3891504.html)
 
++ [《火影忍者：终极风暴羁绊》开启全新忍战线玩法](https://www.3dmgame.com/news/202403/3891510.html)
+
++ [《堡垒之夜》知名主播Ninja患皮肤癌呼吁关注健康](https://www.3dmgame.com/news/202403/3891509.html)
+
++ [《Apex英雄》新角色Alter泄露拥有传送能力](https://www.3dmgame.com/news/202403/3891508.html)
+
++ [消息称SEGA正重启初代《梦幻之星Online》](https://www.3dmgame.com/news/202403/3891507.html)
+
++ [整合全球研发能力美国任天堂重组游戏测试业务](https://www.3dmgame.com/news/202403/3891506.html)
+
