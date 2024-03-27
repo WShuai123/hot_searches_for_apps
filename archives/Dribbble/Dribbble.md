@@ -49,3 +49,19 @@
 
 + [System Illustration](https://dribbble.com/shots/)
 
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [FORGE](https://dribbble.com/shots/)
+
++ [Panda Logo](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Secondary Logo](https://dribbble.com/shots/)
+
++ [Damn Good Interiors Brand Design](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Summer Moon Coffee - Merchandise](https://dribbble.com/shots/)
+
++ [Work in Progress: Sticker Sheets](https://dribbble.com/shots/)
+
