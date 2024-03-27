@@ -209,3 +209,15 @@
 
 + [《武装突袭3》新DLC“Reaction Forces”上线 新兵器剧本等](https://www.3dmgame.com/news/202403/3891461.html)
 
++ [创意平台跳跃游戏《Screenbound》上线Steam页面](https://www.3dmgame.com/news/202403/3891465.html)
+
++ [日本罕见病瘫痪玩家众筹费用参战EVO 仅能靠下巴操作](https://www.3dmgame.com/news/202403/3891466.html)
+
++ [《星之海洋2：第二个故事R》1.1更新即将上线，添加新难度新Boss](https://www.3dmgame.com/news/202403/3891467.html)
+
++ [斯宾塞想要Xbox更像PC：希望Epic等商城登陆主机](https://www.3dmgame.com/news/202403/3891468.html)
+
++ [“SEGA 春季促销”火热进行中！《ENDLESS™ Dungeon》首次加入促销阵容](https://www.3dmgame.com/news/202403/3891469.html)
+
++ [万代南梦宫PlayStation Store春季特卖活动即将开始！](https://www.3dmgame.com/news/202403/3891470.html)
+

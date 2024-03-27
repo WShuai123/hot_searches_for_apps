@@ -105,3 +105,57 @@
 
 + [Pickaxe Studio](https://www.producthunt.com/posts/pickaxe-studio)
 
++ [Tab Wrangler](https://www.producthunt.com/posts/tab-wrangler-2)
+
++ [FunnyPoll](https://www.producthunt.com/posts/funnypoll)
+
++ [Stenote](https://www.producthunt.com/posts/stenote)
+
++ [AFK Journey](https://www.producthunt.com/posts/afk-journey)
+
++ [Wiser](https://www.producthunt.com/posts/wiser-3)
+
++ [ToMyDearest](https://www.producthunt.com/posts/tomydearest)
+
++ [Airtable AI](https://www.producthunt.com/posts/airtable-ai)
+
++ [Zshistory](https://www.producthunt.com/posts/zshistory)
+
++ [PathPro](https://www.producthunt.com/posts/pathpro)
+
++ [Linkpage](https://www.producthunt.com/posts/linkpage)
+
++ [Freeze](https://www.producthunt.com/posts/freeze-3)
+
++ [ScreenshotBoost](https://www.producthunt.com/posts/screenshotboost)
+
++ [Miraa](https://www.producthunt.com/posts/miraa)
+
++ [Breath Confetti](https://www.producthunt.com/posts/breath-confetti)
+
++ [Bookshelf.so](https://www.producthunt.com/posts/bookshelf-so)
+
++ [Varify.io](https://www.producthunt.com/posts/varify-io-2)
+
++ [SnapCover](https://www.producthunt.com/posts/snapcover)
+
++ [Tech Jobs NYC](https://www.producthunt.com/posts/tech-jobs-nyc)
+
++ [Tax Extension & Startup Tax Plan — $1](https://www.producthunt.com/posts/tax-extension-startup-tax-plan-1)
+
++ [Dubo](https://www.producthunt.com/posts/dubo)
+
++ [Subscrible](https://www.producthunt.com/posts/subscrible)
+
++ [Daytona](https://www.producthunt.com/posts/daytona)
+
++ [PrettyPolly](https://www.producthunt.com/posts/prettypolly)
+
++ [SigmaOS Airis (Alpha)](https://www.producthunt.com/posts/sigmaos-airis-alpha)
+
++ [GoatStack.AI - Your AI research Agent](https://www.producthunt.com/posts/goatstack-ai-your-ai-research-agent)
+
++ [Weavely](https://www.producthunt.com/posts/weavely)
+
++ [CodenQuest](https://www.producthunt.com/posts/codenquest)
+
