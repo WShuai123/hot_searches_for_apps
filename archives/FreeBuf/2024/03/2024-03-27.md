@@ -49,3 +49,7 @@
 
 + [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
 
++ [Google Play 上的免费VPN应用能将用户手机变成恶意代理](https://www.freebuf.com/news/396042.html)
+
++ [CISA 和 FBI 敦促开发人员“全力消除” SQL 注入漏洞](https://www.freebuf.com/news/396035.html)
+

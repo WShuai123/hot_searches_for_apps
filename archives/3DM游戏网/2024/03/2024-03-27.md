@@ -179,3 +179,25 @@
 
 + [《荒野大镖客》加入R星GTA+会员游戏库 免费下载畅玩](https://www.3dmgame.com/news/202403/3891445.html)
 
++ [《二重螺旋》技术性测试PV 旋转阿特拉西亚](https://www.3dmgame.com/news/202403/3891455.html)
+
++ [4X回合战略游戏《千年》正式发售后Steam收获褒贬不一评价](https://www.3dmgame.com/news/202403/3891456.html)
+
++ [部分开发者认为不需要PS5 Pro：PS5性能还未被充分利用](https://www.3dmgame.com/news/202403/3891457.html)
+
++ [谷歌发布全新Chrome浏览器 专为高通骁龙Win Arm PC设计](https://www.3dmgame.com/news/202403/3891458.html)
+
++ [拉瑞安CEO讨论工作室新作：在《博德之门3》前就有计划](https://www.3dmgame.com/news/202403/3891459.html)
+
++ [卡组构筑游戏《纵横命途》“侠盗危机”大型更新上线 Steam成就实装](https://www.3dmgame.com/news/202403/3891460.html)
+
++ [Switch高级会员游戏库新增GBA游戏：《F-ZERO:最高时速》](https://www.3dmgame.com/news/202403/3891450.html)
+
++ [CRPG游戏《公会编年史：失落的世界》8月8日发售 不支持简体中文](https://www.3dmgame.com/news/202403/3891451.html)
+
++ [重生《Apex英雄》安全更新上线 保护玩家防止黑客入侵](https://www.3dmgame.com/news/202403/3891452.html)
+
++ [MMO游戏《DC超级英雄Online》现已推出PS5版本](https://www.3dmgame.com/news/202403/3891453.html)
+
++ [《龙之信条2》玩家集体抱怨游戏中的敌人缺乏多样性](https://www.3dmgame.com/news/202403/3891454.html)
+
