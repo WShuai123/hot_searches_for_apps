@@ -53,3 +53,5 @@
 
 + [印度国防、能源部门遭遇黑客攻击，起因竟是一张虚假空军邀请函？](https://www.freebuf.com/news/396179.html)
 
++ [记一次Edusrc证书站漏洞挖掘](https://www.freebuf.com/articles/web/395731.html)
+

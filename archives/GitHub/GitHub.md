@@ -51,3 +51,37 @@
 
 + [nodejs / nodejs.org](https://github.com/nodejs/nodejs.org)
 
++ [fudan-generative-vision / champ](https://github.com/fudan-generative-vision/champ)
+
++ [dkhamsing / open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
++ [webprodigies / fuzzie-production](https://github.com/webprodigies/fuzzie-production)
+
++ [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [ubicloud / ubicloud](https://github.com/ubicloud/ubicloud)
+
++ [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [TracecatHQ / tracecat](https://github.com/TracecatHQ/tracecat)
+
++ [expressjs / express](https://github.com/expressjs/express)
+
++ [BasedHardware / Friend](https://github.com/BasedHardware/Friend)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [iawia002 / lux](https://github.com/iawia002/lux)
+
++ [matter-labs / zksync-era](https://github.com/matter-labs/zksync-era)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm)
+
++ [apache / airflow](https://github.com/apache/airflow)
+
++ [medusajs / medusa](https://github.com/medusajs/medusa)
+
