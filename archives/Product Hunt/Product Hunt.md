@@ -111,3 +111,11 @@
 
 + [SnapCover](https://www.producthunt.com/posts/snapcover)
 
++ [Tab Wrangler](https://www.producthunt.com/posts/tab-wrangler-2)
+
++ [Wiser](https://www.producthunt.com/posts/wiser-3)
+
++ [Zshistory](https://www.producthunt.com/posts/zshistory)
+
++ [GoatStack.AI](https://www.producthunt.com/posts/goatstack-ai)
+

@@ -109,3 +109,7 @@
 
 + [传闻：《怪物猎人：荒野》是卡普空迄今为止最大的项目](https://www.3dmgame.com/news/202403/3891599.html)
 
++ [《圣剑传说Visions of Mana》公布新试玩演示预告](https://www.3dmgame.com/news/202403/3891602.html)
+
++ [2D版《只狼》新游戏《九日》确定5月29日发售](https://www.3dmgame.com/news/202403/3891601.html)
+

@@ -125,3 +125,9 @@
 
 + [微信小程序的页面交互1](https://blog.csdn.net/2301_76669854/article/details/137074591)
 
++ [基于深度学习的零售柜商品识别系统（网页版+YOLOv8/v7/v6/v5代码+训练数据集）](https://blog.csdn.net/loushangfengjing/article/details/136970491)
+
++ [Elasticsearch 和 Kibana 8.13：简化 kNN 和改进查询并行化](https://blog.csdn.net/UbuntuTouch/article/details/137106500)
+
++ [Sora爆火，多模态大模型背后的存算思考](https://blog.csdn.net/dietime1943/article/details/137122414)
+
