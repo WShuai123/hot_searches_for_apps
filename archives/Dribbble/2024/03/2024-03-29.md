@@ -49,3 +49,17 @@
 
 + [Windows to the world Illustrations for Food & Wine Magazine](https://dribbble.com/shots/)
 
++ [Foxtrot: Deliver Illustrations](https://dribbble.com/shots/)
+
++ [Dieselpunk USA Blimp](https://dribbble.com/shots/)
+
++ [Do not touch wild animals](https://dribbble.com/shots/)
+
++ [Philippe II & Richard the Lionheart, BFFs!](https://dribbble.com/shots/)
+
++ [System Illustration](https://dribbble.com/shots/)
+
++ [Sticker Designs](https://dribbble.com/shots/)
+
++ [Panda Logo](https://dribbble.com/shots/)
+

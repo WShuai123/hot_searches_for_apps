@@ -101,3 +101,11 @@
 
 + [高德地图被传收费 官方回应高德导航永远免费](https://www.3dmgame.com/news/202403/3891548.html)
 
++ [航海模拟《从萨格里什起航》宣布登陆NS Steam版获特别好评](https://www.3dmgame.com/news/202403/3891600.html)
+
++ [小米汽车SU7开局即王炸：7分钟大定破2万](https://www.3dmgame.com/news/202403/3891598.html)
+
++ [Epic喜加一：《小岛》免费领取](https://www.3dmgame.com/news/202403/3891597.html)
+
++ [传闻：《怪物猎人：荒野》是卡普空迄今为止最大的项目](https://www.3dmgame.com/news/202403/3891599.html)
+
