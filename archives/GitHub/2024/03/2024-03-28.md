@@ -85,3 +85,33 @@
 
 + [medusajs / medusa](https://github.com/medusajs/medusa)
 
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [langchain-ai / langchain-extract](https://github.com/langchain-ai/langchain-extract)
+
++ [AlexanderKoch-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+
++ [txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar)
+
++ [soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin)
+
++ [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)
+
++ [lencx / Noi](https://github.com/lencx/Noi)
+
++ [cnlohr / lolra](https://github.com/cnlohr/lolra)
+
++ [antonbabenko / pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
+
++ [reactjs / react.dev](https://github.com/reactjs/react.dev)
+
++ [aws-samples / amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+
++ [myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice)
+
++ [run-llama / llama_index](https://github.com/run-llama/llama_index)
+
++ [rerun-io / rerun](https://github.com/rerun-io/rerun)
+
++ [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j)
+
