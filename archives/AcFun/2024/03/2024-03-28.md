@@ -65,3 +65,7 @@
 
 + [【红伊】Eyes on me](http://www.acfun.cn/v/ac44157829)
 
++ [竖屏 Shake It](http://www.acfun.cn/v/ac44165038)
+
++ [整个夏天，想和你环游世界~](http://www.acfun.cn/v/ac44163449)
+

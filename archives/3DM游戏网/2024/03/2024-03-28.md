@@ -115,3 +115,9 @@
 
 + [整合全球研发能力美国任天堂重组游戏测试业务](https://www.3dmgame.com/news/202403/3891506.html)
 
++ [虚幻4《哥特王朝》粉丝重制版演示 测试版本已开放](https://www.3dmgame.com/news/202403/3891513.html)
+
++ [前《龙腾世纪》主创工作室Yellow Brick Game首款游戏曝先导预告](https://www.3dmgame.com/news/202403/3891512.html)
+
++ [《星刃》没有照片模式 玩家呼声高的话会考虑加入](https://www.3dmgame.com/news/202403/3891511.html)
+

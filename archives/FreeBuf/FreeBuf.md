@@ -41,3 +41,7 @@
 
 + [GitHub遭遇严重供应链“投毒”攻击](https://www.freebuf.com/news/395869.html)
 
++ [FreeBuf 早报 | 数千家使用Ray的公司面临攻击威胁；攻击者利用人工智能生成虚假讣告](https://www.freebuf.com/news/396133.html)
+
++ [2024年AI威胁场景报告：揭示现今最大的AI安全挑战](https://www.freebuf.com/articles/paper/395277.html)
+
