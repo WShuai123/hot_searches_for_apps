@@ -121,3 +121,45 @@
 
 + [《星刃》没有照片模式 玩家呼声高的话会考虑加入](https://www.3dmgame.com/news/202403/3891511.html)
 
++ [《我和七个俏房客》在Steam正式发售 优惠价37.8元](https://www.3dmgame.com/news/202403/3891534.html)
+
++ [索尼赢下PlayStation主机5亿美元专利侵权诉讼](https://www.3dmgame.com/news/202403/3891528.html)
+
++ [《沙漠大冒险》全新实机 4月25日发售](https://www.3dmgame.com/news/202403/3891532.html)
+
++ [轻度肉鸽塔防游戏《亡灵巫师2》现已在Steam平台正式发售](https://www.3dmgame.com/news/202403/3891533.html)
+
++ [吉卜力风冒险游戏《Europa》宣布延期 2024年夏季发售](https://www.3dmgame.com/news/202403/3891531.html)
+
++ [《暗黑之门：救赎》游戏启动 前魔兽团队名作新篇](https://www.3dmgame.com/news/202403/3891530.html)
+
++ [《射雕》群侠PV“侠义回归” 展示众多经典角色](https://www.3dmgame.com/news/202403/3891529.html)
+
++ [网易X漫威携手官宣《漫威争锋》：全新超级英雄PVP团队射击游戏面世](https://www.3dmgame.com/news/202403/3891527.html)
+
++ [国产真人互动《恋恋女团》Steam版发售 优惠价38元](https://www.3dmgame.com/news/202403/3891523.html)
+
++ [《星际迷航4》仍然会有 将是重启系列最后一部](https://www.3dmgame.com/news/202403/3891522.html)
+
++ [Twitch发布更严格直播指引 成人部位即使不露长时间暗示也不可以](https://www.3dmgame.com/news/202403/3891520.html)
+
++ [微软白色数字版Xbox Series X新机造型被曝光](https://www.3dmgame.com/news/202403/3891519.html)
+
++ [任天堂裁减美国QA外包员工人数 大量转为全职](https://www.3dmgame.com/news/202403/3891518.html)
+
++ [PS Plus四月会免游戏公布 包含《我的世界：传奇》、《不朽者传奇》和《小骨：英雄杀手》](https://www.3dmgame.com/news/202403/3891526.html)
+
++ [动物园恐怖游戏《Zoochosis》实机演示 Q3发售](https://www.3dmgame.com/news/202403/3891524.html)
+
++ [《守望先锋2》新英雄“探奇”预告 3月29日开启试玩](https://www.3dmgame.com/news/202403/3891525.html)
+
++ [餐厅经营模拟《收获咖啡馆》Steam页面 支持简中](https://www.3dmgame.com/news/202403/3891517.html)
+
++ [世嘉与CWA就美国主要游戏开发商工会协议达成一致](https://www.3dmgame.com/news/202403/3891521.html)
+
++ [《战地5》将于4月3日实装EA反作弊系统](https://www.3dmgame.com/news/202403/3891516.html)
+
++ [《星刃》战斗视频 女主穿肉色紧身衣性感演示](https://www.3dmgame.com/news/202403/3891515.html)
+
++ [Team Ninja：未来游戏将以《浪人崛起》的开放世界玩法为基石](https://www.3dmgame.com/news/202403/3891514.html)
+

@@ -45,3 +45,9 @@
 
 + [2024年AI威胁场景报告：揭示现今最大的AI安全挑战](https://www.freebuf.com/articles/paper/395277.html)
 
++ [中国银行业协会发布《银行业数据资产估值指南》](https://www.freebuf.com/news/396123.html)
+
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
++ [libFuzzer漏洞挖掘总结教程](https://www.freebuf.com/articles/system/395965.html)
+

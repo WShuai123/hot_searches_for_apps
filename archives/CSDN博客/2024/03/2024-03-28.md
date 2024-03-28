@@ -145,3 +145,13 @@
 
 + [《量子计算：揭开未来科技新篇章》](https://blog.csdn.net/weixin_43497521/article/details/137058742)
 
++ [C语言内存操控的艺术探索：踏足四大秘境，铸就内存管理之巅峰传奇](https://blog.csdn.net/Miracle_86/article/details/137086464)
+
++ [【FFmpeg】ffmpeg 命令行参数 ⑥ ( 使用 FFmpeg 提取 YUV 像素格式数据 | 使用 FFmpeg 提取 RGB 像素格式数据 | RGB 与 YUV 之间的格式转换 )](https://blog.csdn.net/han1202012/article/details/137064865)
+
++ [第十篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作Excel](https://blog.csdn.net/jackchuanqi/article/details/137029254)
+
++ [2015年认证杯SPSSPRO杯数学建模B题(第一阶段)替换式密码全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/137011927)
+
++ [鸿蒙HarmonyOS应用开发——组件级配置](https://blog.csdn.net/maniuT/article/details/137057133)
+
