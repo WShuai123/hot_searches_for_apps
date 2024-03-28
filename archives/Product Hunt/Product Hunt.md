@@ -103,3 +103,27 @@
 
 + [Whenable](https://www.producthunt.com/posts/whenable)
 
++ [Sendspark Dynamic Videos](https://www.producthunt.com/posts/sendspark-dynamic-videos)
+
++ [Bezi AI](https://www.producthunt.com/posts/bezi-ai-2)
+
++ [Greater Paper](https://www.producthunt.com/posts/greater-paper)
+
++ [DBRX](https://www.producthunt.com/posts/dbrx)
+
++ [Repuxation](https://www.producthunt.com/posts/repuxation)
+
++ [Overview](https://www.producthunt.com/posts/overview-3)
+
++ [Curator Tearsheets App](https://www.producthunt.com/posts/curator-tearsheets-app)
+
++ [docTI : Custom Document Processing](https://www.producthunt.com/posts/docti-custom-document-processing)
+
++ [Automated Sprint Reports for Jira](https://www.producthunt.com/posts/automated-sprint-reports-for-jira)
+
++ [Ribbon](https://www.producthunt.com/posts/ribbon-8)
+
++ [Translucent: Spatial Web Apps](https://www.producthunt.com/posts/translucent-spatial-web-apps)
+
++ [Retexts](https://www.producthunt.com/posts/retexts)
+

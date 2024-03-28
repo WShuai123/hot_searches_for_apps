@@ -217,3 +217,17 @@
 
 + [《超时空要塞：射击洞察》登陆Steam 经典射击游戏新篇](https://www.3dmgame.com/news/202403/3891556.html)
 
++ [《同级生2：重制版》开场动画公布 6月28日发售](https://www.3dmgame.com/news/202403/3891567.html)
+
++ [《崩坏：星穹铁道》走近星穹——「加拉赫：少喝饮料多喝水」](https://www.3dmgame.com/news/202403/3891566.html)
+
++ [真正的超人 亨利·卡维尔在拍摄《绝密型战》时救下了差点溺水的演员](https://www.3dmgame.com/news/202403/3891565.html)
+
++ [《赛马大亨10 2024》多平台发售 光荣经典系列最新作](https://www.3dmgame.com/news/202403/3891564.html)
+
++ [KK对战平台《爆战兄弟》全新版本大战流放竞技场  是男人就砍50轮！](https://www.3dmgame.com/news/202403/3891563.html)
+
++ [空荡礼堂降临！《雾锁王国》首个重大内容更新现已发布](https://www.3dmgame.com/news/202403/3891562.html)
+
++ [《高难度跳蛋游戏》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3891561.html)
+
