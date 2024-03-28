@@ -175,3 +175,33 @@
 
 + [《火影忍者：终极风暴羁绊》角色DLC第二弹“大筒木一式”预告 今日发售](https://www.3dmgame.com/news/202403/3891535.html)
 
++ [《博德之门3》总监：“邪恶结局”会让玩家很满意](https://www.3dmgame.com/news/202403/3891554.html)
+
++ [开放世界生存游戏《饥荒》即将开启肉鸽生存合作类桌游众筹](https://www.3dmgame.com/news/202403/3891553.html)
+
++ [经典RPG《基因制造2》重制版登陆PC 追加更多新要素](https://www.3dmgame.com/news/202403/3891552.html)
+
++ [多家游戏公司被诉利用“成瘾机制” 律师：游戏太好玩也要告？](https://www.3dmgame.com/news/202403/3891551.html)
+
++ [《无人深空》迎来全新更新：轨道](https://www.3dmgame.com/news/202403/3891400.html)
+
++ [据称《漫威争锋》将是翻版《守望先锋》 几乎完全一致](https://www.3dmgame.com/news/202403/3891549.html)
+
++ [男子为博眼球 在网上散布“燃气泄漏引发大火”谣言被拘](https://www.3dmgame.com/news/202403/3891550.html)
+
++ [高德地图被传收费 官方回应高德导航永远免费](https://www.3dmgame.com/news/202403/3891548.html)
+
++ [光线动画首部作品电影《小倩》定档预告 4月30日上映](https://www.3dmgame.com/news/202403/3891547.html)
+
++ [好评如潮的音乐射击游戏《重金属：地狱歌手》即将推出VR版](https://www.3dmgame.com/news/202403/3891546.html)
+
++ [美国出手重挫苹果 iPhone禁止第三方维修行为违法](https://www.3dmgame.com/news/202403/3891544.html)
+
++ [《GT赛车7》1.44版本更新上线 添加三辆新车](https://www.3dmgame.com/news/202403/3891543.html)
+
++ [新策划《iii initiative》公开 《吸血鬼幸存者》开发者参与](https://www.3dmgame.com/news/202403/3891542.html)
+
++ [经营管理类游戏《妙药工坊》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3891541.html)
+
++ [BioWare商店原本能靠卖《巫师1》成为Steam：很后悔](https://www.3dmgame.com/news/202403/3891545.html)
+

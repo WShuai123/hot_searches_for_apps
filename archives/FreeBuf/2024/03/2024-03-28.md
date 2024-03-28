@@ -51,3 +51,5 @@
 
 + [libFuzzer漏洞挖掘总结教程](https://www.freebuf.com/articles/system/395965.html)
 
++ [印度国防、能源部门遭遇黑客攻击，起因竟是一张虚假空军邀请函？](https://www.freebuf.com/news/396179.html)
+
