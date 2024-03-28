@@ -63,3 +63,5 @@
 
 + [【猪肝来也】春泥『小猪生唱栏目』](http://www.acfun.cn/v/ac44170156)
 
++ [【vlog】云逛BGM桌游展！简中COC最新情报](http://www.acfun.cn/v/ac44172105)
+
