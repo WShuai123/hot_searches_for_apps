@@ -233,3 +233,41 @@
 
 + [多款PSV和PS3《传说》游戏被从欧美商店下架](https://www.3dmgame.com/news/202403/3891568.html)
 
++ [“鬼灭之刃”家用机游戏企划第二弹 《鬼灭之刃 争当最强队士！》公开最新游戏画面](https://www.3dmgame.com/news/202403/3891587.html)
+
++ [雷军：现在造车比当年造手机容易很多 对小米SU7有信心](https://www.3dmgame.com/news/202403/3891586.html)
+
++ [马斯克：人形机器人成本很低 还不到汽车的一半](https://www.3dmgame.com/news/202403/3891585.html)
+
++ [44年历史图文冒险游戏鼻祖《神秘屋》拍卖 原版软盘保存完好](https://www.3dmgame.com/news/202403/3891584.html)
+
++ [据报道《激战3》已获得NCSoft批准 或已在开发中](https://www.3dmgame.com/news/202403/3891583.html)
+
++ [高自由度武侠RPG《江湖路：缘起》公布预告 年中发售](https://www.3dmgame.com/news/202403/3891581.html)
+
++ [《星刃》全新截图欣赏 性感女主大战邪恶敌人](https://www.3dmgame.com/news/202403/3891582.html)
+
++ [世嘉裁员240人 波及欧洲分部 HARDlight及CA](https://www.3dmgame.com/news/202403/3891580.html)
+
++ [百事可乐中国公布中文标志和新包装：看到别以为山寨产品](https://www.3dmgame.com/news/202403/3891579.html)
+
++ [押上一生声誉！雷军今晚交作业：给自己很大压力 小米SU7大家轻喷](https://www.3dmgame.com/news/202403/3891578.html)
+
++ [北美游戏零售商GameStop据称又发生了一轮裁员](https://www.3dmgame.com/news/202403/3891577.html)
+
++ [《漫威争锋》高清截图欣赏 操控超级英雄组队大战](https://www.3dmgame.com/news/202403/3891576.html)
+
++ [《仙剑奇侠传7》累计销量突破百万 PC版超73万套](https://www.3dmgame.com/news/202403/3891573.html)
+
++ [打越钢太郎发布神秘信息 或是暗示《Ai：梦境档案》新作](https://www.3dmgame.com/news/202403/3891574.html)
+
++ [苹果深陷美司法部反垄断诉讼 又被美消费者集体起诉](https://www.3dmgame.com/news/202403/3891575.html)
+
++ [《百万吨级武藏W：WIRED》今日3月28日(四)PS5/PS4版开始预购](https://www.3dmgame.com/news/202403/3891572.html)
+
++ [绅士向《Bunny Garden》新系统角色情报 4月登陆Switch](https://www.3dmgame.com/news/202403/3891571.html)
+
++ [《饥荒：联机版》“拾荒斗士”更新上线 更多新内容开发中](https://www.3dmgame.com/news/202403/3891570.html)
+
++ [网易与Sandsoft Games合作 进军中东北非市场](https://www.3dmgame.com/news/202403/3891569.html)
+

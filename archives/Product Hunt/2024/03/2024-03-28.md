@@ -129,3 +129,31 @@
 
 + [trimmr.ai](https://www.producthunt.com/posts/trimmr-ai-3)
 
++ [Scribe](https://www.producthunt.com/posts/scribe-fd81d368-e6e8-42a1-bc03-a41f4e4b1d08)
+
++ [Content Creator APIs by Nexa AI](https://www.producthunt.com/posts/content-creator-apis-by-nexa-ai)
+
++ [Feeturn](https://www.producthunt.com/posts/feeturn)
+
++ [docTI Custom Document Processing](https://www.producthunt.com/posts/docti-custom-document-processing)
+
++ [Storytale 3](https://www.producthunt.com/posts/storytale-3)
+
++ [Serverless PostgreSQL Platform by Xata](https://www.producthunt.com/posts/serverless-postgresql-platform-by-xata)
+
++ [Flat Icons API](https://www.producthunt.com/posts/flat-icons-api)
+
++ [Flowfy](https://www.producthunt.com/posts/flowfy)
+
++ [Delfiny AI](https://www.producthunt.com/posts/delfiny-ai)
+
++ [Translucent Spatial Web Apps](https://www.producthunt.com/posts/translucent-spatial-web-apps)
+
++ [Redesign With AI](https://www.producthunt.com/posts/redesign-with-ai)
+
++ [FreeTTS](https://www.producthunt.com/posts/freetts)
+
++ [RAFA](https://www.producthunt.com/posts/rafa-2)
+
++ [ClearVPN](https://www.producthunt.com/posts/clearvpn-3)
+

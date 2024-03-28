@@ -31,3 +31,21 @@
 
 + [小米 SU7 车型可选三款轮毂 + 四种轮胎，Max 款续航至高 810 公里](https://m.ithome.com/html/758526.htm)
 
++ [理想汽车诉贴膜店一审胜诉，后者需改名且赔偿 2 万元](https://m.ithome.com/html/758519.htm)
+
++ [小米 Redmi Note 13 Turbo 手机曝光：骁龙 8s Gen 3 芯片、5000 万主摄](https://m.ithome.com/html/758620.htm)
+
++ [新增 Wi-Fi 7 协议支持，vivo X100 系列手机获推 Origin OS 4 14.0.17.4 更新](https://m.ithome.com/html/758520.htm)
+
++ [阿里为什么撤回菜鸟 IPO？](https://m.ithome.com/html/758532.htm)
+
++ [业内首个，央广网 App 已完成华为鸿蒙原生应用全量版本开发](https://m.ithome.com/html/758557.htm)
+
++ [宁德时代神行电池与麒麟电池全能系列亮相，预计首发落地小米汽车 SU7](https://m.ithome.com/html/758631.htm)
+
++ [智电出行就泄露小米汽车 SU7 试驾视频发布道歉声明](https://m.ithome.com/html/758730.htm)
+
++ [11.79 万元起，长安 UNI-Z 车型正式上市：搭载新蓝鲸 1.5L 插混动力](https://m.ithome.com/html/758607.htm)
+
++ [小艺大模型版本下放，华为 Mate 40 系列手机迎来首次众测更新](https://m.ithome.com/html/758495.htm)
+

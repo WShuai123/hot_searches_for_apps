@@ -67,3 +67,5 @@
 
 + [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
 
++ [印度国防部被黑客打穿，泄露8.8GB数据](https://www.freebuf.com/news/396179.html)
+
