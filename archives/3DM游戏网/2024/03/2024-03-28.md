@@ -163,3 +163,15 @@
 
 + [Team Ninja：未来游戏将以《浪人崛起》的开放世界玩法为基石](https://www.3dmgame.com/news/202403/3891514.html)
 
++ [好评如潮建造游戏《风暴之城》 Steam销量突破100万份](https://www.3dmgame.com/news/202403/3891539.html)
+
++ [《不死不幸》漫画作者是老头环铁粉：重玩等DLC只升力量](https://www.3dmgame.com/news/202403/3891538.html)
+
++ [创意掌机Playdate离奇失窃案值40万美元 找回后数台已被使用](https://www.3dmgame.com/news/202403/3891540.html)
+
++ [《木卫四协议》移除D加密后：帧数提升 卡顿减少](https://www.3dmgame.com/news/202403/3891537.html)
+
++ [索尼公布《蜘蛛侠：纵横宇宙》7分钟衍生短片](https://www.3dmgame.com/news/202403/3891536.html)
+
++ [《火影忍者：终极风暴羁绊》角色DLC第二弹“大筒木一式”预告 今日发售](https://www.3dmgame.com/news/202403/3891535.html)
+
