@@ -63,3 +63,7 @@
 
 + [坦克 700 Hi4-T 换小米 SU7：长城汽车魏建军与雷军互赠新车](https://m.ithome.com/html/758798.htm)
 
++ [投票：你如何看待小米汽车 SU7 售价 21.59 万元起，是否会购买？](https://m.ithome.com/html/758800.htm)
+
++ [小米 SU7 车型 56 英寸 HUD 至高亮度 13000 尼特，对焦距离 7.7m](https://m.ithome.com/html/758787.htm)
+

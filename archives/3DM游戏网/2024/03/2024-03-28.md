@@ -281,3 +281,11 @@
 
 + [《漫威争锋》PC配置公开 推荐RTX 2060 Super](https://www.3dmgame.com/news/202403/3891592.html)
 
++ [Fami通新一周销量榜 《碧姬公主 表演时刻！》登顶](https://www.3dmgame.com/news/202403/3891596.html)
+
++ [《地平线：西之绝境》PC版更新 过场动画支持DLSS 3帧生成](https://www.3dmgame.com/news/202403/3891594.html)
+
++ [动画电影《小倩》定档4月30日 今年五一档九部电影展开竞争](https://www.3dmgame.com/news/202403/3891595.html)
+
++ [小米汽车SU7正式发布 标准版21.59万元](https://www.3dmgame.com/news/202403/3891593.html)
+
