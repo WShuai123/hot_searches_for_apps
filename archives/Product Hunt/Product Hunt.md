@@ -159,3 +159,7 @@
 
 + [LeapLife](https://www.producthunt.com/posts/leaplife-2)
 
++ [Content Score by Quick Creator](https://www.producthunt.com/posts/content-score-by-quick-creator)
+
++ [Diamante Net](https://www.producthunt.com/posts/diamante-net)
+

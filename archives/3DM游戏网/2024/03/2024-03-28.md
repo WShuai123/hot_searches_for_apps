@@ -275,3 +275,7 @@
 
 + [轻松复古风RPG新作《泰拉往事 Terra Memoria》现已登陆PC和主机！](https://www.3dmgame.com/news/202403/3891589.html)
 
++ [英特尔透露Copilot本地运行条件 至少需要40 TOPS算力的NPU](https://www.3dmgame.com/news/202403/3891591.html)
+
++ [《星刃》体验版提前上手视频 战斗、探索、营地一览](https://www.3dmgame.com/news/202403/3891590.html)
+

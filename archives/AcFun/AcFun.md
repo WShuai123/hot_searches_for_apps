@@ -117,3 +117,11 @@
 
 + [弱音Talk that Talk](http://www.acfun.cn/v/ac44163934)
 
++ [【蟹黄鸡锅巴】研究表明文字顺序不影响阅读](http://www.acfun.cn/v/ac44168586)
+
++ [《 先 天 未 亡 人 圣 体 》 ¹⁰⁴](http://www.acfun.cn/v/ac44141702)
+
++ [【雀魂汪汪录】第276期 每一张都是妙手，看你打牌真是享受](http://www.acfun.cn/v/ac44144544)
+
++ [童年阴影名场面！暗号超有趣！这集柯南太经典了](http://www.acfun.cn/v/ac44171608)
+

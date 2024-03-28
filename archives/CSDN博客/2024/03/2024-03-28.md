@@ -197,3 +197,5 @@
 
 + [YOLOv9改进策略 | 损失函数篇 | 利用真实边界框损失之MPDIoU助力YOLOv9精度更上一层楼](https://blog.csdn.net/java1314777/article/details/137088097)
 
++ [数字化转型核心 数据治理神器Hadoop 生态介绍HDFS、Yarn以及HBase/Hive](https://blog.csdn.net/s445320/article/details/137111432)
+

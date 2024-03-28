@@ -49,3 +49,7 @@
 
 + [小艺大模型版本下放，华为 Mate 40 系列手机迎来首次众测更新](https://m.ithome.com/html/758495.htm)
 
++ [蔚小理创始人再聚首，三人共同亮相小米汽车 SU7 发布会](https://m.ithome.com/html/758782.htm)
+
++ [雷军官宣小米 SU7 车型“霞光紫”版本，号称“车漆加入特殊配方金属粉”](https://m.ithome.com/html/758756.htm)
+
