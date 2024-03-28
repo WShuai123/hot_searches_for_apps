@@ -65,3 +65,5 @@
 
 + [【vlog】云逛BGM桌游展！简中COC最新情报](http://www.acfun.cn/v/ac44172105)
 
++ [小米汽车发布会来了，SU7价格预测！车友竟说价格低了还不买？](http://www.acfun.cn/v/ac44171733)
+
