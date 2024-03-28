@@ -179,3 +179,9 @@
 
 + [网络安全：Kali Linux 进行SQL注入与XSS漏洞利用](https://blog.csdn.net/cronaldo91/article/details/137080606)
 
++ [【深度学习】最强算法模型之：潜在狄利克雷分配(LDA)](https://blog.csdn.net/wuyoudeyuer/article/details/136848567)
+
++ [亮数据——让你的IP走出去，让价值返回来](https://blog.csdn.net/xqe777/article/details/137096196)
+
++ [计算机网络：物理层 - 信道复用](https://blog.csdn.net/fsdfafsdsd/article/details/136994272)
+

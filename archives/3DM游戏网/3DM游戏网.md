@@ -207,3 +207,13 @@
 
 + [雷军流量赚麻 小米汽车今晚发！全网猜价格：入门版20W以下？](https://www.3dmgame.com/news/202403/3891555.html)
 
++ [宇通集团与宁德时代合作发布 15年150万公里长寿命电池](https://www.3dmgame.com/news/202403/3891557.html)
+
++ [停更多年的《火星异种》宣布4月4日起恢复连载](https://www.3dmgame.com/news/202403/3891559.html)
+
++ [T2宣布以4.6亿美元收购Gearbox 《无主之地》新作开发中](https://www.3dmgame.com/news/202403/3891558.html)
+
++ [《暗黑之门：伦敦》制作人成立新工作室Lunacy Games](https://www.3dmgame.com/news/202403/3891560.html)
+
++ [《超时空要塞：射击洞察》登陆Steam 经典射击游戏新篇](https://www.3dmgame.com/news/202403/3891556.html)
+

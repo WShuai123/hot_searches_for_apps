@@ -55,3 +55,9 @@
 
 + [记一次Edusrc证书站漏洞挖掘](https://www.freebuf.com/articles/web/395731.html)
 
++ [Facebook被指控曾利用用户设备监视竞品软件](https://www.freebuf.com/news/396187.html)
+
++ [iPhone 用户注意了，新型 Darcula 网络钓鱼“盯上”你们了](https://www.freebuf.com/news/396192.html)
+
++ [印度国防部等机构被黑客打穿，泄露8.8GB数据](https://www.freebuf.com/news/396179.html)
+
