@@ -113,3 +113,17 @@
 
 + [2D版《只狼》新游戏《九日》确定5月29日发售](https://www.3dmgame.com/news/202403/3891601.html)
 
++ [《怪物猎人：荒野》发行窗或定于2025年第1季度](https://www.3dmgame.com/news/202403/3891609.html)
+
++ [《蔚蓝》开发者新作《大地之刃》推迟发售](https://www.3dmgame.com/news/202403/3891608.html)
+
++ [《龙珠：超宇宙2》新DLC“未来传奇”公布](https://www.3dmgame.com/news/202403/3891607.html)
+
++ [网传《斯派罗4》自2024年1月进入积极开发阶段](https://www.3dmgame.com/news/202403/3891606.html)
+
++ [本周末Xbox玩家免费玩《2077》和《刺客信条》](https://www.3dmgame.com/news/202403/3891605.html)
+
++ [使命召唤游戏即将联动《哥斯拉大战金刚2》电影](https://www.3dmgame.com/news/202403/3891604.html)
+
++ [十月开播网飞青春动画《当哒当》发布正式预告](https://www.3dmgame.com/news/202403/3891603.html)
+
