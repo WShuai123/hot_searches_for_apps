@@ -65,3 +65,5 @@
 
 + [FB 赠书第 106 期 | 《内网安全攻防：红队之路》 助你成为红队专家](https://www.freebuf.com/news/396244.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+

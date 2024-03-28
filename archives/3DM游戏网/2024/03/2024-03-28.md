@@ -231,3 +231,5 @@
 
 + [《高难度跳蛋游戏》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3891561.html)
 
++ [多款PSV和PS3《传说》游戏被从欧美商店下架](https://www.3dmgame.com/news/202403/3891568.html)
+
