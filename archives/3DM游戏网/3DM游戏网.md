@@ -279,3 +279,5 @@
 
 + [《星刃》体验版提前上手视频 战斗、探索、营地一览](https://www.3dmgame.com/news/202403/3891590.html)
 
++ [《漫威争锋》PC配置公开 推荐RTX 2060 Super](https://www.3dmgame.com/news/202403/3891592.html)
+

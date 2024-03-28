@@ -199,3 +199,5 @@
 
 + [数字化转型核心 数据治理神器Hadoop 生态介绍HDFS、Yarn以及HBase/Hive](https://blog.csdn.net/s445320/article/details/137111432)
 
++ [深入解析《企业级数据架构》：HDFS、Yarn、Hive、HBase与Spark的核心应用](https://blog.csdn.net/JHXL_/article/details/137104968)
+
