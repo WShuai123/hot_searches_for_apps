@@ -121,3 +121,5 @@
 
 + [VScode远程服务器ssh的配置免密及搭建pytorch环境](https://blog.csdn.net/qq_60886999/article/details/137153363)
 
++ [Machine Learning机器学习之数据可视化](https://blog.csdn.net/a910247/article/details/137155130)
+
