@@ -29,3 +29,7 @@
 
 + [限量 5000 台的小米汽车 SU7 创始版已售罄，4 月 3 日交付](https://m.ithome.com/html/758819.htm)
 
++ [小米汽车 SU7 正式发放 F 码：24 小时内定购创始版，可自选专属编号](https://m.ithome.com/html/758847.htm)
+
++ [小米王化打假 SU7 车型“81 分钟大定突破 90000 台”：以官方数据为准](https://m.ithome.com/html/758840.htm)
+
