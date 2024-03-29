@@ -179,3 +179,27 @@
 
 + [《星刃》可能会推出续作 购买之人越多就越有希望](https://www.3dmgame.com/news/202403/3891630.html)
 
++ [《如龙》工作室4月1日举行直播活动 将发布重磅消息？](https://www.3dmgame.com/news/202403/3891647.html)
+
++ [马斯克xAI推出Grok-1.5大语言模型 可处理128k上下文](https://www.3dmgame.com/news/202403/3891646.html)
+
++ [《地狱潜者2》总监表示 受任天堂影响才成为开发者](https://www.3dmgame.com/news/202403/3891645.html)
+
++ [在Take-Two收购后 Gearbox宣布将进行一波裁员](https://www.3dmgame.com/news/202403/3891643.html)
+
++ [育碧EA老将新工作室脱离发行商 独立发行处女作](https://www.3dmgame.com/news/202403/3891642.html)
+
++ [牛津英语词典收录日本漫画动漫流行词：“异世界”](https://www.3dmgame.com/news/202403/3891644.html)
+
++ [多元结局，无限可能。《美女，请别影响我学习》开创真人互动恋爱模拟新篇章](https://www.3dmgame.com/news/202403/3891640.html)
+
++ [加密货币交易所FTX创始人宣判 被判25年监禁](https://www.3dmgame.com/news/202403/3891639.html)
+
++ [被世嘉出售的Relic表示将继续支持对已发售游戏的更新](https://www.3dmgame.com/news/202403/3891637.html)
+
++ [《瑞奇与叮当：时空跳转》国行版宣布4月12日发售 定价299元](https://www.3dmgame.com/news/202403/3891636.html)
+
++ [动作类合作肉鸽游戏《维勒姆》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202403/3891641.html)
+
++ [CD Projekt 2023年创下工作室史上第二高财务成绩](https://www.3dmgame.com/news/202403/3891638.html)
+

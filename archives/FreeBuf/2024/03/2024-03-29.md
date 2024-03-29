@@ -49,3 +49,5 @@
 
 + [LockBit引领勒索软件进入下个时代](https://www.freebuf.com/articles/396374.html)
 
++ [暗藏 11 年的 Linux 漏洞曝光，可用于伪造 SUDO 命令](https://www.freebuf.com/news/396355.html)
+
