@@ -279,3 +279,5 @@
 
 + [三星加速micro OLED生产 或在三年内实现量产](https://www.3dmgame.com/news/202403/3891685.html)
 
++ [成绩不佳 LGD DOTA2战队将进行阵容调整](https://www.3dmgame.com/news/202403/3891686.html)
+

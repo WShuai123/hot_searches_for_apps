@@ -35,3 +35,9 @@
 
 + [知情人士称小米有望年底发布首款 SUV 车型](https://m.ithome.com/html/758844.htm)
 
++ [定价 499 元手工打造，小米推出 SU7 车型 1:18 合金车模](https://m.ithome.com/html/758802.htm)
+
++ [小米 SU7 汽车 F 码转让价飙升：有卖家开价 3 万元，也有卖家担心风险高](https://m.ithome.com/html/758916.htm)
+
++ [苹果 iPhone 12 用户福音：升级 iOS 17.4 后可体验 15W 无线充电](https://m.ithome.com/html/758804.htm)
+
