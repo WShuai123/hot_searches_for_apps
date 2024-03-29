@@ -237,3 +237,17 @@
 
 + [今日正式发售《岚与山之彼端》揭开如月车站神隐少女之谜](https://www.3dmgame.com/news/202403/3891660.html)
 
++ [《铁拳8》DLC角色“艾迪·戈尔多”实机演示 4月4日上线](https://www.3dmgame.com/news/202403/3891671.html)
+
++ [西山居GDC演讲，《解限机》运用VG突破游戏渲染效率难题](https://www.3dmgame.com/news/202403/3891670.html)
+
++ [小米回应SU7无法退定金：消费者主动锁单就退不了](https://www.3dmgame.com/news/202403/3891669.html)
+
++ [《逆转裁判456》角色总选举最终结果公布 御剑怜侍第一](https://www.3dmgame.com/news/202403/3891668.html)
+
++ [《沙丘2》被穆斯林抱怨：不够多元 缺乏中东北非演员](https://www.3dmgame.com/news/202403/3891667.html)
+
++ [《尸体派对2：黑暗扭曲》2024年秋季登陆PS4、NS和PC](https://www.3dmgame.com/news/202403/3891666.html)
+
++ [《足球经理2024》追加J联赛以及优化定位球战术的话题之中限时33%OFF](https://www.3dmgame.com/news/202403/3891665.html)
+

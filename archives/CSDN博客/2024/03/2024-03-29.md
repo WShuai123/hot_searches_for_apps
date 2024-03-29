@@ -181,3 +181,7 @@
 
 + [2014年认证杯SPSSPRO杯数学建模B题(第二阶段)位图的处理算法全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/137102969)
 
++ [Python中的全栈开发前端与后端的完美融合【第160篇—全栈开发】](https://blog.csdn.net/weixin_52908342/article/details/137140564)
+
++ [vue前端工程化](https://blog.csdn.net/qq_31539817/article/details/136741482)
+
