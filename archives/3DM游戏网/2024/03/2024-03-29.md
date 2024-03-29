@@ -251,3 +251,27 @@
 
 + [《足球经理2024》追加J联赛以及优化定位球战术的话题之中限时33%OFF](https://www.3dmgame.com/news/202403/3891665.html)
 
++ [苹果新款iPad平板5月初发布！12.9英寸 OLED屏幕](https://www.3dmgame.com/news/202403/3891674.html)
+
++ [生存冒险解谜游戏《蛮之纪》将于4月4日同步上线Steam与NS平台](https://www.3dmgame.com/news/202403/3891675.html)
+
++ [《豪麻—黑色推理》将于今年夏天登陆任天堂Switch平台](https://www.3dmgame.com/news/202403/3891676.html)
+
++ [奇幻风探索解密RPG《幻夜图书馆》Demo，现已于Steam平台公开！](https://www.3dmgame.com/news/202403/3891677.html)
+
++ [Creepy Jar工作室带玩家走近《星际裂变》基地建筑](https://www.3dmgame.com/news/202403/3891678.html)
+
++ [Steam卡牌对战游戏《天行镖客》破茧成蝶ing，近期有折扣优惠哦！](https://www.3dmgame.com/news/202403/3891679.html)
+
++ [保护伞公司经营模拟器《医魔商道》正式确定将于5月3日推出](https://www.3dmgame.com/news/202403/3891680.html)
+
++ [《潜渊症》终于登陆Epic，同时展开发行商折扣促销，高达90%的折扣！](https://www.3dmgame.com/news/202403/3891681.html)
+
++ [科幻侦探冒险游戏《地平线之间》正式发售](https://www.3dmgame.com/news/202403/3891682.html)
+
++ [热门多人生存游戏《中世纪王朝》进入虚拟现实领域：全新独立VR体验现已上线](https://www.3dmgame.com/news/202403/3891683.html)
+
++ [《爱丽丝：疯狂回归》Steam国区售价永降 下调40元](https://www.3dmgame.com/news/202403/3891672.html)
+
++ [卖的太便宜！消费级SSD还要涨价 涨幅预计在10-15%](https://www.3dmgame.com/news/202403/3891673.html)
+
