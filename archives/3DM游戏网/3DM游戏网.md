@@ -281,3 +281,11 @@
 
 + [成绩不佳 LGD DOTA2战队将进行阵容调整](https://www.3dmgame.com/news/202403/3891686.html)
 
++ [《龙之信条2》成2024年英国首发销量最高游戏](https://www.3dmgame.com/news/202403/3891689.html)
+
++ [《星刃》总监给公司每人送了一台PS5 妻子靓照曝光](https://www.3dmgame.com/news/202403/3891690.html)
+
++ [《哥斯拉大战金刚2》国内票房已超8700万 破亿似乎没悬念](https://www.3dmgame.com/news/202403/3891687.html)
+
++ [《龙之信条2》更新现已在PC Steam和PS5平台上线](https://www.3dmgame.com/news/202403/3891688.html)
+

@@ -41,3 +41,13 @@
 
 + [苹果 iPhone 12 用户福音：升级 iOS 17.4 后可体验 15W 无线充电](https://m.ithome.com/html/758804.htm)
 
++ [暂无“应战”加码？极氪 001 免费选配车色 / ZAD 辅助驾驶终身免费等权益仍将于月末结束](https://m.ithome.com/html/758826.htm)
+
++ [现货开售，小米 SU7 车载后备箱收纳箱 / 充放电枪 / 头枕 / 遮阳伞等多款汽车配件上架官方商城](https://m.ithome.com/html/758813.htm)
+
++ [小米上架 6A USB 3.1 Gen2 数据线：适配小米汽车，售价 39 元](https://m.ithome.com/html/758834.htm)
+
++ [同行评小米 SU7：长城魏建军大赞“令人尊敬”，蔚来李斌笑称自家乐道难定价](https://m.ithome.com/html/758983.htm)
+
++ [字越少事越大：荣耀官网挂出“Hi,honor”倒计时，周日 0 点公布新消息](https://m.ithome.com/html/758879.htm)
+
