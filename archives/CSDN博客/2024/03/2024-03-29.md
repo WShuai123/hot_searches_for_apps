@@ -139,3 +139,11 @@
 
 + [如何使用Windows电脑部署Lychee私有图床网站并实现无公网IP远程管理本地图片](https://blog.csdn.net/Aileenvov/article/details/137127617)
 
++ [学透Spring Boot — [二] Spring 和 Spring Boot的比较](https://blog.csdn.net/postnull/article/details/137124480)
+
++ [【计算机网络】http协议的原理与应用，https是如何保证安全传输的](https://blog.csdn.net/littlefun591/article/details/137111099)
+
++ [Vue 04 Vue 中的 Ajax、slot 插槽](https://blog.csdn.net/yavlgloss/article/details/137128067)
+
++ [大模型prompt工程学习（一）](https://blog.csdn.net/m0_62574889/article/details/137079171)
+

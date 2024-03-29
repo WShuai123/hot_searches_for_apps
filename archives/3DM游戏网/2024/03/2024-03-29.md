@@ -167,3 +167,15 @@
 
 + [《铁血战士：狩猎场》将登陆PS5和Xbox Series X|S](https://www.3dmgame.com/news/202403/3891616.html)
 
++ [首部音乐主题剧场版《哆啦A梦：大雄的地球交响乐》奏响欢乐之旅](https://www.3dmgame.com/news/202403/3891635.html)
+
++ [英美2月游戏活跃度排行榜：《绝地潜兵2》名列前茅](https://www.3dmgame.com/news/202403/3891634.html)
+
++ [《雨世界》新扩展DLC“守望者”公布 发售日期待定](https://www.3dmgame.com/news/202403/3891633.html)
+
++ [俯视角射击肉鸽游戏《Maniac》现已在Steam平台正式推出](https://www.3dmgame.com/news/202403/3891632.html)
+
++ [《哆啦A梦：大雄的地球交响乐》确认引进内地 档期待定](https://www.3dmgame.com/news/202403/3891631.html)
+
++ [《星刃》可能会推出续作 购买之人越多就越有希望](https://www.3dmgame.com/news/202403/3891630.html)
+

@@ -47,3 +47,5 @@
 
 + [经验分享 | 如何从蓝初小白到蓝中猴子（一）](https://www.freebuf.com/articles/web/370800.html)
 
++ [LockBit引领勒索软件进入下个时代](https://www.freebuf.com/articles/396374.html)
+
