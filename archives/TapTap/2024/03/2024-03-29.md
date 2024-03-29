@@ -25,3 +25,5 @@
 
 + [心渊梦境](https://www.taptap.cn/app/220062)
 
++ [原神](https://www.taptap.cn/app/168332)
+

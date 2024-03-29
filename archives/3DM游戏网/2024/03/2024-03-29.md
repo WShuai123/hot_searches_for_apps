@@ -219,3 +219,21 @@
 
 + [《百万吨级武藏W：WIRED》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202403/3891652.html)
 
++ [拉瑞安老板斥裁员厂商是“笨蛋”：给我们白送人才](https://www.3dmgame.com/news/202403/3891662.html)
+
++ [2K Games正在开发旗下首款顶级免费完全实时服务游戏](https://www.3dmgame.com/news/202403/3891663.html)
+
++ [开不起车了！纽约成全美首个征收拥堵费城市：最少要掏108元](https://www.3dmgame.com/news/202403/3891664.html)
+
++ [国产神话动作肉鸽《宝莲灯：太子沉香》发售日预告 4月12日上线](https://www.3dmgame.com/news/202403/3891661.html)
+
++ [《龙之信条2》PS5和Steam修复补丁上线 Xbox版随后更新](https://www.3dmgame.com/news/202403/3891656.html)
+
++ [《都要!小孩子才做选择》Steam版发售 优惠价37.8元](https://www.3dmgame.com/news/202403/3891657.html)
+
++ [万代南梦宫三款由新人培养计划开发的游戏 现已在Steam免费推出](https://www.3dmgame.com/news/202403/3891658.html)
+
++ [期盼已久的《恶月十三》第4赛季正式开启!](https://www.3dmgame.com/news/202403/3891659.html)
+
++ [今日正式发售《岚与山之彼端》揭开如月车站神隐少女之谜](https://www.3dmgame.com/news/202403/3891660.html)
+

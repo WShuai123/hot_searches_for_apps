@@ -57,3 +57,5 @@
 
 + [为阻止恶意软件活动蔓延，PyPI 暂停新用户注册](https://www.freebuf.com/news/396434.html)
 
++ [浅谈企业数据安全治理与保障框架](https://www.freebuf.com/articles/es/393967.html)
+
