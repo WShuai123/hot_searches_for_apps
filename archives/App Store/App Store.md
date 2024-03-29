@@ -211,3 +211,7 @@
 
 + [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
 
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
