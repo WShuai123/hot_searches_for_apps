@@ -51,3 +51,11 @@
 
 + [字越少事越大：荣耀官网挂出“Hi,honor”倒计时，周日 0 点公布新消息](https://m.ithome.com/html/758879.htm)
 
++ [刘强东发布全员信：京东集团企业文化升级](https://m.ithome.com/html/758885.htm)
+
++ [QQ 音乐成为小米汽车首批生态合作方，提供海量版权歌曲](https://m.ithome.com/html/758837.htm)
+
++ [小米汽车 SU7 价格公布你怎么看？万人投票结果出炉，超半数认为符合预期](https://m.ithome.com/html/759013.htm)
+
++ [分析称苹果 M3 Ultra 将成为独立芯片，性能有望大幅提升](https://m.ithome.com/html/758827.htm)
+

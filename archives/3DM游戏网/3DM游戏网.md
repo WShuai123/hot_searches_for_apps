@@ -289,3 +289,7 @@
 
 + [《龙之信条2》更新现已在PC Steam和PS5平台上线](https://www.3dmgame.com/news/202403/3891688.html)
 
++ [《美女，请别影响我学习》Steam特别好评 今日发售](https://www.3dmgame.com/news/202403/3891692.html)
+
++ [GOG喜加一：《百炼成钢》 限时免费领取](https://www.3dmgame.com/news/202403/3891691.html)
+
