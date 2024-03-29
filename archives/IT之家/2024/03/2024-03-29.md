@@ -27,3 +27,5 @@
 
 + [雷军称小米汽车 SU7 顶配版原定价 35 万元，因车企降价潮而调整](https://m.ithome.com/html/758822.htm)
 
++ [限量 5000 台的小米汽车 SU7 创始版已售罄，4 月 3 日交付](https://m.ithome.com/html/758819.htm)
+

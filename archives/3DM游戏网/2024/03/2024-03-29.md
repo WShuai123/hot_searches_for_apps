@@ -127,3 +127,13 @@
 
 + [十月开播网飞青春动画《当哒当》发布正式预告](https://www.3dmgame.com/news/202403/3891603.html)
 
++ [《哥斯拉大战金刚2：新帝国》今日上映 IGN给6分](https://www.3dmgame.com/news/202403/3891614.html)
+
++ [卡普空正在征求玩家对《龙之信条2》DLC的意见](https://www.3dmgame.com/news/202403/3891613.html)
+
++ [CDPR考虑将赛博朋克或巫师IP授权给第三方做手游](https://www.3dmgame.com/news/202403/3891612.html)
+
++ [《赛博朋克2077》和《往日之影》创造了约7.5亿美元收入](https://www.3dmgame.com/news/202403/3891611.html)
+
++ [《巫师4》仍处于前期制作阶段 400多名员工参与开发](https://www.3dmgame.com/news/202403/3891610.html)
+
