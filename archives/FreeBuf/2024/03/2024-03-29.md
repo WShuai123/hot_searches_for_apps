@@ -59,3 +59,5 @@
 
 + [浅谈企业数据安全治理与保障框架](https://www.freebuf.com/articles/es/393967.html)
 
++ [大模型如何赋能企业安全；重要文件的保护措施有哪些 | FB甲方群话题讨论](https://www.freebuf.com/articles/396293.html)
+

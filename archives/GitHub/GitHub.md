@@ -51,3 +51,37 @@
 
 + [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j)
 
++ [Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
+
++ [databricks / dbrx](https://github.com/databricks/dbrx)
+
++ [valkey-io / valkey](https://github.com/valkey-io/valkey)
+
++ [developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+
++ [dkhamsing / open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
++ [modularml / mojo](https://github.com/modularml/mojo)
+
++ [gamemcu / www-genshin](https://github.com/gamemcu/www-genshin)
+
++ [Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+
++ [SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API)
+
++ [microsoft / reverse-proxy](https://github.com/microsoft/reverse-proxy)
+
++ [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
+
++ [ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager)
+
++ [midday-ai / midday](https://github.com/midday-ai/midday)
+
++ [QuivrHQ / quivr](https://github.com/QuivrHQ/quivr)
+
++ [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [istio / istio](https://github.com/istio/istio)
+
++ [gradio-app / gradio](https://github.com/gradio-app/gradio)
+
