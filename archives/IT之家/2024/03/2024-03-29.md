@@ -33,3 +33,5 @@
 
 + [小米王化打假 SU7 车型“81 分钟大定突破 90000 台”：以官方数据为准](https://m.ithome.com/html/758840.htm)
 
++ [知情人士称小米有望年底发布首款 SUV 车型](https://m.ithome.com/html/758844.htm)
+
