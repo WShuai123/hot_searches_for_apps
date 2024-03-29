@@ -137,3 +137,33 @@
 
 + [《巫师4》仍处于前期制作阶段 400多名员工参与开发](https://www.3dmgame.com/news/202403/3891610.html)
 
++ [Thunderful以50万欧元出售游戏发行商Headup](https://www.3dmgame.com/news/202403/3891628.html)
+
++ [《最终幻想16》新DLC沧海恸哭介绍 失落的利维坦登场](https://www.3dmgame.com/news/202403/3891627.html)
+
++ [《MLB The Show 24》新补丁导致球员“变脸”企鹅人](https://www.3dmgame.com/news/202403/3891626.html)
+
++ [“iii计划”线上游戏展定档4月11日 多家顶尖独游工作室参与](https://www.3dmgame.com/news/202403/3891625.html)
+
++ [魂类游戏《Void Sols》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202403/3891629.html)
+
++ [《九龙城寨之围城》定档预告 今年五一全国上映](https://www.3dmgame.com/news/202403/3891624.html)
+
++ [资源管理模拟游戏《医魔商道》实机预告 5月3日发售](https://www.3dmgame.com/news/202403/3891623.html)
+
++ [《奇异人生》开发商围绕RPG、叙事和动作冒险游戏重组](https://www.3dmgame.com/news/202403/3891622.html)
+
++ [克里斯托弗·诺兰和妻子被英国封为爵士](https://www.3dmgame.com/news/202403/3891619.html)
+
++ [爆料者辟谣《怪物猎人：荒野》细节传闻：都是假的](https://www.3dmgame.com/news/202403/3891621.html)
+
++ [牌组构建类肉鸽游戏《我们正下降》上架Steam平台](https://www.3dmgame.com/news/202403/3891620.html)
+
++ [2024年GDC游戏开发者大会与会人数近3万人次](https://www.3dmgame.com/news/202403/3891618.html)
+
++ [吉田直树：《最终幻想16》需要高配置PC机 才能流畅运行](https://www.3dmgame.com/news/202403/3891615.html)
+
++ [《东方弹幕塔防》Steam页面 支持简体中文](https://www.3dmgame.com/news/202403/3891617.html)
+
++ [《铁血战士：狩猎场》将登陆PS5和Xbox Series X|S](https://www.3dmgame.com/news/202403/3891616.html)
+
