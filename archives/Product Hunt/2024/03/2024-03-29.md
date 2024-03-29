@@ -123,3 +123,17 @@
 
 + [Miraa](https://www.producthunt.com/posts/miraa)
 
++ [Ai Regex](https://www.producthunt.com/posts/ai-regex)
+
++ [Living Images](https://www.producthunt.com/posts/living-images)
+
++ [SciPhi](https://www.producthunt.com/posts/sciphi)
+
++ [Tres Cosas](https://www.producthunt.com/posts/tres-cosas)
+
++ [MyWeb3Gift](https://www.producthunt.com/posts/myweb3gift)
+
++ [FlakyTest.dev](https://www.producthunt.com/posts/flakytest-dev)
+
++ [TweetAI.com](https://www.producthunt.com/posts/tweetai-com)
+

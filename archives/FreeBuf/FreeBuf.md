@@ -53,3 +53,7 @@
 
 + [Windows离地攻击分析](https://www.freebuf.com/articles/system/395445.html)
 
++ [WebCopilot：一款功能强大的子域名枚举和安全漏洞扫描工具](https://www.freebuf.com/sectool/392524.html)
+
++ [为阻止恶意软件活动蔓延，PyPI 暂停新用户注册](https://www.freebuf.com/news/396434.html)
+

@@ -211,3 +211,11 @@
 
 + [《饿殍：明末千里行》发售日公布 4月11日上线](https://www.3dmgame.com/news/202403/3891651.html)
 
++ [独立开发者：XGP和Epic独占“淘金潮”已经结束](https://www.3dmgame.com/news/202403/3891655.html)
+
++ [《地狱潜者2》官方无预兆更新两把新武器 号召玩家反击生化人](https://www.3dmgame.com/news/202403/3891654.html)
+
++ [ADV《对魔忍雪风》中文版宣布4月30日发售 登陆Steam](https://www.3dmgame.com/news/202403/3891653.html)
+
++ [《百万吨级武藏W：WIRED》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202403/3891652.html)
+
