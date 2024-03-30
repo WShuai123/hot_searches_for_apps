@@ -147,3 +147,5 @@
 
 + [《命运2》“进入光能”装备限时引不满 官方让步](https://www.3dmgame.com/news/202403/3891717.html)
 
++ [休闲自走棋游戏《魔物联盟自走棋》Steam页面上线  2024年4月发售](https://www.3dmgame.com/news/202403/3891718.html)
+

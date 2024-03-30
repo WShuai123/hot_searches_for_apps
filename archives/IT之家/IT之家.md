@@ -43,3 +43,7 @@
 
 + [华为：车 BU 累计研发投入超 300 亿元，研发团队规模达 7000 人](https://m.ithome.com/html/759015.htm)
 
++ [中国石油董事长戴厚良会见华为创始人任正非，参观华为计算创新实验室](https://m.ithome.com/html/759054.htm)
+
++ [消息称苹果 iPhone 16 Pro 系列手机采用全新抛光钛金属工艺](https://m.ithome.com/html/759002.htm)
+
