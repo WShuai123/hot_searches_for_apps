@@ -119,3 +119,7 @@
 
 + [2024年MathorCup数学建模思路A题B题C题D题思路分享](https://blog.csdn.net/m0_71450098/article/details/137154585)
 
++ [OpenHarmony OpenCV应用样例开发](https://blog.csdn.net/m0_64420071/article/details/137158288)
+
++ [外包干了8天，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/137121800)
+
