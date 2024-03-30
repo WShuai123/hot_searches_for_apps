@@ -107,3 +107,15 @@
 
 + [FPGA高端图像处理开发板：鲲叔4EV，寄托了未来的一块开发板](https://blog.csdn.net/qq_41667729/article/details/137108837)
 
++ [python flask生成被控服务端 开放接口 可以调用本地程序启动D盘的app.py文件，并生成一个前端文件，有一个启动按钮](https://blog.csdn.net/xukris/article/details/137131897)
+
++ [HTML网站的概念](https://blog.csdn.net/lh11223326/article/details/137149859)
+
++ [百亿大规模图在广告场景的应用](https://blog.csdn.net/MeituanTech/article/details/137128475)
+
++ [.Net 知识杂记](https://blog.csdn.net/yunxiaobaobei/article/details/137154069)
+
++ [【软件工程】需求分析](https://blog.csdn.net/Wait_Godot/article/details/137136597)
+
++ [2024年MathorCup数学建模思路A题B题C题D题思路分享](https://blog.csdn.net/m0_71450098/article/details/137154585)
+
