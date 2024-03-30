@@ -205,3 +205,9 @@
 
 + [Colorful Widget彩虹组件-桌面主题万能壁纸图标](https://itunes.apple.com/cn/app/id1538946171?mt=8)
 
++ [韩小圈-热门韩剧娱乐社区](https://itunes.apple.com/cn/app/id1588233154?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+

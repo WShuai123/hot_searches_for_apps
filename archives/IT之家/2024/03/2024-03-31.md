@@ -25,3 +25,5 @@
 
 + [Android 15 音量调节面板 UI 大改](https://m.ithome.com/html/759165.htm)
 
++ [10.99 万元起：奇瑞风云 A8 新增车型“远航版”上市，综合续航超 1400km](https://m.ithome.com/html/759161.htm)
+

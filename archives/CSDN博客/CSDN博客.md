@@ -101,3 +101,9 @@
 
 + [【计算机网络】http协议的原理与应用，https是如何保证安全传输的](https://blog.csdn.net/littlefun591/article/details/137111099)
 
++ [什么是自然语言处理（NLP）？](https://blog.csdn.net/stevensxiao/article/details/137110072)
+
++ [Python数据可视化：用Matplotlib和Seaborn绘制精美图表](https://blog.csdn.net/windowshht/article/details/136984897)
+
++ [FPGA高端图像处理开发板：鲲叔4EV，寄托了未来的一块开发板](https://blog.csdn.net/qq_41667729/article/details/137108837)
+
