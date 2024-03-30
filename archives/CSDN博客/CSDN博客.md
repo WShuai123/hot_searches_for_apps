@@ -177,3 +177,9 @@
 
 + [性能与压力测试](https://blog.csdn.net/qq_53763141/article/details/137092088)
 
++ [Spring IoC&DI(2)](https://blog.csdn.net/asdssadddd/article/details/137131016)
+
++ [【微服务】配置Nacos管理SpringBoot配置文件（附解压包）](https://blog.csdn.net/qq_61024956/article/details/137171727)
+
++ [shell的工作原理](https://blog.csdn.net/weixin_71276184/article/details/137158717)
+

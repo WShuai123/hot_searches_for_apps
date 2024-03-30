@@ -175,3 +175,5 @@
 
 + [米粉涌入竞品直播间狂刷小米SU7 女主播挂牌反击](https://www.3dmgame.com/news/202403/3891730.html)
 
++ [《星刃》是如何开发的？索尼发布Shift Up快速一览视频](https://www.3dmgame.com/news/202403/3891732.html)
+
