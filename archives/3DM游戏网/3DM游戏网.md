@@ -171,3 +171,7 @@
 
 + [《FF7：重生》文森特配音演员回忆工作意外之喜](https://www.3dmgame.com/news/202403/3891727.html)
 
++ [RTX 4090 D可媲美RTX 4090 FE 功耗解锁600W](https://www.3dmgame.com/news/202403/3891731.html)
+
++ [米粉涌入竞品直播间狂刷小米SU7 女主播挂牌反击](https://www.3dmgame.com/news/202403/3891730.html)
+

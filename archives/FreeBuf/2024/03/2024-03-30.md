@@ -51,3 +51,7 @@
 
 + [CATSploit：一款基于CATS的自动化渗透测试执行工具](https://www.freebuf.com/sectool/392534.html)
 
++ [你们就当个故事听——黑客如何10秒钟盗走4.5万美金](https://www.freebuf.com/news/396537.html)
+
++ [紧急提醒 | Xzliblzma 被植入后门程序](https://www.freebuf.com/articles/396531.html)
+

@@ -167,3 +167,7 @@
 
 + [以我国为目标的网络攻击中发现 DinodasRAT的Linux版本；黑客伪装成印度空军进行钓鱼攻击；劫持GitHub进行软件供应链攻击Top.gg](https://blog.csdn.net/weixin_55163056/article/details/137151956)
 
++ [什么是DevOps？如何使用DevOps？](https://blog.csdn.net/Zoho_Manager/article/details/137147939)
+
++ [Python数据可视化：用Matplotlib和Seaborn绘制精美图表](https://blog.csdn.net/windowshht/article/details/136984897)
+
