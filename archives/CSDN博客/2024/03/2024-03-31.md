@@ -123,3 +123,5 @@
 
 + [外包干了8天，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/137121800)
 
++ [构建ELK+Filebeat+kafka+zookeeper大数据日志分析平台](https://blog.csdn.net/weixin_45623111/article/details/137143863)
+
