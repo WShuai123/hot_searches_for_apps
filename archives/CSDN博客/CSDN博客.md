@@ -159,3 +159,11 @@
 
 + [【Vue3】vue文件中的CSS](https://blog.csdn.net/qq_43231248/article/details/137152247)
 
++ [AI赋能金融创新：ChatGPT引领量化交易新时代](https://blog.csdn.net/qq_32682301/article/details/137139204)
+
++ [（4）(4.4) Lowrance Elite Ti2 Sonar](https://blog.csdn.net/qq_20016593/article/details/137008159)
+
++ [人脸情绪识别（1）附代码](https://blog.csdn.net/PLANTTHESON/article/details/137090514)
+
++ [以我国为目标的网络攻击中发现 DinodasRAT的Linux版本；黑客伪装成印度空军进行钓鱼攻击；劫持GitHub进行软件供应链攻击Top.gg](https://blog.csdn.net/weixin_55163056/article/details/137151956)
+

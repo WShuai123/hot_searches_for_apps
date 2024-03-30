@@ -51,3 +51,33 @@
 
 + [gradio-app / gradio](https://github.com/gradio-app/gradio)
 
++ [mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
+
++ [jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+
++ [easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+
++ [TMElyralab / MuseV](https://github.com/TMElyralab/MuseV)
+
++ [agiresearch / AIOS](https://github.com/agiresearch/AIOS)
+
++ [myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice)
+
++ [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples)
+
++ [folke / trouble.nvim](https://github.com/folke/trouble.nvim)
+
++ [TencentARC / BrushNet](https://github.com/TencentARC/BrushNet)
+
++ [LLM-Red-Team / kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
+
++ [google / comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [apple / swift-syntax](https://github.com/apple/swift-syntax)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [Expensify / App](https://github.com/Expensify/App)
+
