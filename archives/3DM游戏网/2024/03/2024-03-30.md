@@ -101,3 +101,5 @@
 
 + [《地狱潜者2》总监表示 受任天堂影响才成为开发者](https://www.3dmgame.com/news/202403/3891645.html)
 
++ [Embracer重组计划迎来尾声 不会再进行出售或收购](https://www.3dmgame.com/news/202403/3891695.html)
+

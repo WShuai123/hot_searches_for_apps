@@ -127,3 +127,9 @@
 
 + [AI大模型引领金融创新变革与实践【文末送书-46】](https://blog.csdn.net/weixin_52908342/article/details/137156548)
 
++ [折叠屏手机的全民时刻，好像就在等它……](https://blog.csdn.net/cgfsj888/article/details/137107483)
+
++ [探索AI大模型学习的未来之路](https://blog.csdn.net/a1657054242/article/details/137082410)
+
++ [【探索Linux】—— 强大的命令行工具 P.31（守护进程）](https://blog.csdn.net/m0_75215937/article/details/136811080)
+

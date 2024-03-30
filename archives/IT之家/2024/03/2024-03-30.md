@@ -33,3 +33,7 @@
 
 + [禾赛科技“认领”小米 SU7 激光雷达：128 线超高清，Pro / Max 车型搭载](https://m.ithome.com/html/759032.htm)
 
++ [字越少事越大：荣耀官网挂出“Hi, honor”倒计时，周日 0 点公布新消息](https://m.ithome.com/html/758879.htm)
+
++ [罗永浩评价小米汽车 SU7：很可能重新上演良币驱逐劣币一幕](https://m.ithome.com/html/759063.htm)
+
