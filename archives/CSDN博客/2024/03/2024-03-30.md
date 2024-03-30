@@ -133,3 +133,7 @@
 
 + [【探索Linux】—— 强大的命令行工具 P.31（守护进程）](https://blog.csdn.net/m0_75215937/article/details/136811080)
 
++ [MYSQL数字函数实操宝典：场景化SQL语句一网打尽](https://blog.csdn.net/danci_/article/details/137131518)
+
++ [AIGC重塑金融 | 大模型在金融行业的应用场景和落地路径](https://blog.csdn.net/qq_35716689/article/details/137146422)
+

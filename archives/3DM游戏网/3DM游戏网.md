@@ -103,3 +103,31 @@
 
 + [Embracer重组计划迎来尾声 不会再进行出售或收购](https://www.3dmgame.com/news/202403/3891695.html)
 
++ [CDPR：单人游戏不应该加入微交易](https://www.3dmgame.com/news/202403/3891706.html)
+
++ [《啄木鸟伍迪去露营》官方预告 4月12日播出](https://www.3dmgame.com/news/202403/3891707.html)
+
++ [PS5 Pro开发者需求公开：帧率分辨率全部提高](https://www.3dmgame.com/news/202403/3891708.html)
+
++ [传闻微软携手OpenAI打造新AI超算：代号“星际之门” 投入1000亿美元](https://www.3dmgame.com/news/202403/3891709.html)
+
++ [PS5 Pro将有独占“Pro强化”游戏：4K+60FPS+光追](https://www.3dmgame.com/news/202403/3891699.html)
+
++ [索尼新专利：由玩家自行决定剧情对话的复杂程度](https://www.3dmgame.com/news/202403/3891700.html)
+
++ [零基础也能快速上手 苹果推出Swift编程语言入门课程](https://www.3dmgame.com/news/202403/3891701.html)
+
++ [多个报道《不羁联盟》开发混乱视频被育碧版权删除](https://www.3dmgame.com/news/202403/3891702.html)
+
++ [保护环境拯救地球 动作新游《最后一口气》发售](https://www.3dmgame.com/news/202403/3891703.html)
+
++ [每8.5秒就有1人提走Model Y！特斯拉第600万辆车下线](https://www.3dmgame.com/news/202403/3891704.html)
+
++ [彭博社：《GTA6》跳票担忧被过度夸大了](https://www.3dmgame.com/news/202403/3891705.html)
+
++ [《光环：无限》合作开发商Certain Affinity发生裁员](https://www.3dmgame.com/news/202403/3891696.html)
+
++ [《奇异人生》开发商还有五款尚未公布的游戏新作](https://www.3dmgame.com/news/202403/3891697.html)
+
++ [2024年2月欧洲地区XBX与XB1生涯同期销量对比](https://www.3dmgame.com/news/202403/3891698.html)
+
