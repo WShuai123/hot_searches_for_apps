@@ -125,3 +125,5 @@
 
 + [网络链路层之(2)PPP协议](https://blog.csdn.net/Once_day/article/details/137093272)
 
++ [AI大模型引领金融创新变革与实践【文末送书-46】](https://blog.csdn.net/weixin_52908342/article/details/137156548)
+

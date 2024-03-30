@@ -29,3 +29,7 @@
 
 + [小米汽车官方回应“SU7 定金不可退”：锁定配置意味锁单完成，车辆将进入生产阶段](https://m.ithome.com/html/759045.htm)
 
++ [2024 款阿维塔 12 上市：26.58 万-37.88 万元，新增晖金车色](https://m.ithome.com/html/759038.htm)
+
++ [禾赛科技“认领”小米 SU7 激光雷达：128 线超高清，Pro / Max 车型搭载](https://m.ithome.com/html/759032.htm)
+
