@@ -143,3 +143,7 @@
 
 + [24小时大定88898辆！小米店员：凌晨2点下班7点上班](https://www.3dmgame.com/news/202403/3891714.html)
 
++ [免费游戏《从军》Steam版收费 引来大量差评轰炸](https://www.3dmgame.com/news/202403/3891716.html)
+
++ [《命运2》“进入光能”装备限时引不满 官方让步](https://www.3dmgame.com/news/202403/3891717.html)
+

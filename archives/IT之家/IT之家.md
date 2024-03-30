@@ -41,3 +41,5 @@
 
 + [小米 14 Ultra 手机将升级支持 5.5G，实测下行超 5Gbps](https://m.ithome.com/html/758931.htm)
 
++ [华为：车 BU 累计研发投入超 300 亿元，研发团队规模达 7000 人](https://m.ithome.com/html/759015.htm)
+
