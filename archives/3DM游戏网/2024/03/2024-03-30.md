@@ -155,3 +155,13 @@
 
 + [欢乐搞笑打屁屁游戏《Spanky》 4月30日抢先体验 支持简繁中文](https://www.3dmgame.com/news/202403/3891719.html)
 
++ [《边缘世界》大型恐怖主题资料片“异常”上市日期公布](https://www.3dmgame.com/news/202403/3891726.html)
+
++ [比亚迪又一汽车滚装运输船开工 未来两年将达7艘](https://www.3dmgame.com/news/202403/3891725.html)
+
++ [纪念鸟山明 微软推出经典RPG《蓝龙》主题Xbox背景](https://www.3dmgame.com/news/202403/3891724.html)
+
++ [新“美队”安东尼·麦凯：改编漫威作品的限制太多](https://www.3dmgame.com/news/202403/3891723.html)
+
++ [网易游戏清明节未成年人限玩通知 共三小时](https://www.3dmgame.com/news/202403/3891722.html)
+
