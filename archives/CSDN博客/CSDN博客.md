@@ -183,3 +183,7 @@
 
 + [shell的工作原理](https://blog.csdn.net/weixin_71276184/article/details/137158717)
 
++ [数字化运维实战手册：构建高效运维体系的方法与实践](https://blog.csdn.net/2202_75623950/article/details/137142657)
+
++ [上海美食商家爬虫数据可视化分析和推荐查询系统](https://blog.csdn.net/u013818205/article/details/137111097)
+

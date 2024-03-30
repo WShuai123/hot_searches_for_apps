@@ -177,3 +177,9 @@
 
 + [《星刃》是如何开发的？索尼发布Shift Up快速一览视频](https://www.3dmgame.com/news/202403/3891732.html)
 
++ [Gearbox正在开发6款游戏 其中一个是新IP](https://www.3dmgame.com/news/202403/3891735.html)
+
++ [AMD称定制小芯片设计是未来 UCIe将创建完整生态系统](https://www.3dmgame.com/news/202403/3891734.html)
+
++ [《哥斯拉大战金刚2：帝国崛起》上映2天 总票房破2亿](https://www.3dmgame.com/news/202403/3891733.html)
+
