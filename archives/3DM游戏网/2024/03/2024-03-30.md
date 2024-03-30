@@ -131,3 +131,11 @@
 
 + [2024年2月欧洲地区XBX与XB1生涯同期销量对比](https://www.3dmgame.com/news/202403/3891698.html)
 
++ [Jim Ryan卸任之前透露PS2全球最终销量：1.6亿台](https://www.3dmgame.com/news/202403/3891710.html)
+
++ [IGN法国批评《星刃》物化女性 侮辱总监没见过女人](https://www.3dmgame.com/news/202403/3891711.html)
+
++ [今天是Jim Ryan作为PlayStation首席执行官的最后一天](https://www.3dmgame.com/news/202403/3891712.html)
+
++ [游戏厂商联合举办“3I倡议”活动 专注于独立游戏作品](https://www.3dmgame.com/news/202403/3891713.html)
+

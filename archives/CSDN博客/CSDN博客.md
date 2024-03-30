@@ -137,3 +137,5 @@
 
 + [AIGC重塑金融 | 大模型在金融行业的应用场景和落地路径](https://blog.csdn.net/qq_35716689/article/details/137146422)
 
++ [【话题】AI大模型学习：理论、技术与应用探索](https://blog.csdn.net/lmy_520/article/details/137134240)
+

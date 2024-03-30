@@ -37,3 +37,7 @@
 
 + [罗永浩评价小米汽车 SU7：很可能重新上演良币驱逐劣币一幕](https://m.ithome.com/html/759063.htm)
 
++ [极氪高管质疑第三方续航测试结果：受测车型仅 001 轮胎规格不同，工况及驾驶模式未完整公布](https://m.ithome.com/html/759051.htm)
+
++ [小米 14 Ultra 手机将升级支持 5.5G，实测下行超 5Gbps](https://m.ithome.com/html/758931.htm)
+
