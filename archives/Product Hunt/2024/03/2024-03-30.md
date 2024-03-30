@@ -119,3 +119,19 @@
 
 + [IYO AI](https://www.producthunt.com/posts/iyo-ai)
 
++ [100+ AI Side-Hustle Ideas](https://www.producthunt.com/posts/100-ai-side-hustle-ideas)
+
++ [Zaap 2.0](https://www.producthunt.com/posts/zaap-2-0)
+
++ [TinyTable - Tabletop Gameroom](https://www.producthunt.com/posts/tinytable-tabletop-gameroom)
+
++ [Intelswift](https://www.producthunt.com/posts/intelswift)
+
++ [Arbor](https://www.producthunt.com/posts/arbor-4)
+
++ [Mojo rizz - Dating App Assistant](https://www.producthunt.com/posts/mojo-rizz-dating-app-assistant)
+
++ [waitforit](https://www.producthunt.com/posts/waitforit)
+
++ [YOMO](https://www.producthunt.com/posts/yomo-3)
+

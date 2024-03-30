@@ -47,3 +47,5 @@
 
 + [消息称苹果 iPhone 16 Pro 系列手机采用全新抛光钛金属工艺](https://m.ithome.com/html/759002.htm)
 
++ [华为余承东宣布智界 S7 开启大规模交付，消息称 4 月 8 日再度上市](https://m.ithome.com/html/759091.htm)
+

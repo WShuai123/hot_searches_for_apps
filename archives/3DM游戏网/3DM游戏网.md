@@ -149,3 +149,9 @@
 
 + [休闲自走棋游戏《魔物联盟自走棋》Steam页面上线  2024年4月发售](https://www.3dmgame.com/news/202403/3891718.html)
 
++ [《家园3》基于试玩反馈对正式版五大元素进行改动](https://www.3dmgame.com/news/202403/3891721.html)
+
++ [CDPR曾尝试AI：和真人编剧之间的质量和细节差距太大](https://www.3dmgame.com/news/202403/3891720.html)
+
++ [欢乐搞笑打屁屁游戏《Spanky》 4月30日抢先体验 支持简繁中文](https://www.3dmgame.com/news/202403/3891719.html)
+
