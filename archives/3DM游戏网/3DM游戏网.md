@@ -165,3 +165,9 @@
 
 + [网易游戏清明节未成年人限玩通知 共三小时](https://www.3dmgame.com/news/202403/3891722.html)
 
++ [《不羁联盟》官宣再次延期 具体发售时间待定](https://www.3dmgame.com/news/202403/3891729.html)
+
++ [真有人买？迪士尼推出2千美元纪念米老鼠钛金属手办](https://www.3dmgame.com/news/202403/3891728.html)
+
++ [《FF7：重生》文森特配音演员回忆工作意外之喜](https://www.3dmgame.com/news/202403/3891727.html)
+
