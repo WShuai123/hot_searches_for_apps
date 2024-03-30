@@ -201,3 +201,7 @@
 
 + [luckincoffee 瑞幸咖啡](https://itunes.apple.com/cn/app/id1296749505?mt=8)
 
++ [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
+
++ [Colorful Widget彩虹组件-桌面主题万能壁纸图标](https://itunes.apple.com/cn/app/id1538946171?mt=8)
+
