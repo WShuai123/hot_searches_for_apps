@@ -161,3 +161,9 @@
 
 + [http和https的工作原理是什么？](https://blog.csdn.net/JOYSSL3000/article/details/137178473)
 
++ [堆的介绍与堆排序算法](https://blog.csdn.net/2401_83052144/article/details/137157364)
+
++ [命名空间【C++】（超详细）](https://blog.csdn.net/2301_80058734/article/details/137136028)
+
++ [神经网络 各个模块介绍（Pytorch 07）](https://blog.csdn.net/March_A/article/details/137180470)
+

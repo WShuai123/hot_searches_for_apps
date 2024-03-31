@@ -145,3 +145,11 @@
 
 + [《绝地潜兵2》总监希望本作能成为PlayStation招牌游戏](https://www.3dmgame.com/news/202403/3891757.html)
 
++ [淘宝计划试验火箭送快递 有望实现“全球小时达”](https://www.3dmgame.com/news/202403/3891760.html)
+
++ [演员表示电子游戏剧本水平已轻松超越部分影视作品](https://www.3dmgame.com/news/202403/3891761.html)
+
++ [元祖高达钢普拉Ver.2.0版8月上市 全新设计打造新高峰](https://www.3dmgame.com/news/202403/3891758.html)
+
++ [22年之后，有人开始想试试任天堂GameCube联网功能](https://www.3dmgame.com/news/202403/3891759.html)
+
