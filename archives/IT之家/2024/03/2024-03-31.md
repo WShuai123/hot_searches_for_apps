@@ -47,3 +47,7 @@
 
 + [33 万元：长城汽车坦克 330 开启交付，搭载 3.0T 双涡轮增压发动机](https://m.ithome.com/html/759184.htm)
 
++ [哪吒汽车 CEO 张勇：接受批评，“营销向雷军学习”不丢人](https://m.ithome.com/html/759243.htm)
+
++ [凯迪拉克预热新车傲歌：4 月发布，广告喊话“对不起雷神”](https://m.ithome.com/html/759238.htm)
+
