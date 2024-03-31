@@ -141,3 +141,5 @@
 
 + [InsightQ](https://www.producthunt.com/posts/insightq)
 
++ [Salieri’s Multiverse](https://www.producthunt.com/posts/salieri-s-multiverse)
+

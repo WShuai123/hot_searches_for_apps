@@ -153,3 +153,11 @@
 
 + [22年之后，有人开始想试试任天堂GameCube联网功能](https://www.3dmgame.com/news/202403/3891759.html)
 
++ [Jim Ryan表示PS5有望成为索尼历史上最成功的主机](https://www.3dmgame.com/news/202403/3891765.html)
+
++ [《VALIANT TACTICS EX》登陆Steam 免费RTS卡牌游戏](https://www.3dmgame.com/news/202403/3891764.html)
+
++ [意外之选 《FF7：重生》赤红XIII骑陆行鸟姿势由来](https://www.3dmgame.com/news/202403/3891763.html)
+
++ [玩梗玩出花：“艾伦·韦克”向《绝地潜兵2》工作室致信](https://www.3dmgame.com/news/202403/3891762.html)
+
