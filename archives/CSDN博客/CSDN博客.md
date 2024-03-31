@@ -183,3 +183,11 @@
 
 + [【话题】AI大模型学习：理论、技术与应用探索](https://blog.csdn.net/lmy_520/article/details/137134240)
 
++ [如何使用固定公网地址远程访问内网Axure RP生成的网站原型web页面](https://blog.csdn.net/Tiam_cr/article/details/137203925)
+
++ [微信小程序备案流程详细操作指南](https://blog.csdn.net/viman3344/article/details/137109535)
+
++ [HTTP/1.1 特性（计算机网络）](https://blog.csdn.net/qq_61504864/article/details/137173294)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/137174526)
+
