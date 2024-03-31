@@ -49,3 +49,5 @@
 
 + [时间线全记录 | Xzliblzma 被植入源码级后门   ](https://www.freebuf.com/articles/396531.html)
 
++ [利用卷影拷贝服务攻击域控五大绝招](https://www.freebuf.com/articles/web/395766.html)
+

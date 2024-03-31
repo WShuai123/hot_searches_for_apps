@@ -35,3 +35,7 @@
 
 + [《妈妈咪呀》主演，女星 Sara Poyzer 一夜之间被 AI 端掉饭碗？](https://m.ithome.com/html/759186.htm)
 
++ [小米汽车 App 登顶苹果 App Store 免费榜](https://m.ithome.com/html/759201.htm)
+
++ [小米汽车：SU7 暂无海外销售计划，家充桩可选 7kW / 11kW 两种规格](https://m.ithome.com/html/759177.htm)
+

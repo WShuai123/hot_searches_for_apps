@@ -145,3 +145,9 @@
 
 + [微服务系统中服务注册与发现Zookeeper的使用](https://blog.csdn.net/weixin_47792780/article/details/137153800)
 
++ [深度探索：朴素贝叶斯算法在机器学习中的原理与应用](https://blog.csdn.net/qq_51320133/article/details/137176825)
+
++ [一文读懂Reactive Feign：底层请求调用原理及实现细节](https://blog.csdn.net/weixin_46053046/article/details/137158454)
+
++ [前端工程师————HTML5学习](https://blog.csdn.net/m0_74421072/article/details/137177064)
+
