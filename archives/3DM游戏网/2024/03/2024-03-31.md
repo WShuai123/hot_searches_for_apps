@@ -169,3 +169,5 @@
 
 + [无冕之王终登王座：《荒野大镖客2》获BAFTA最佳游戏续作](https://www.3dmgame.com/news/202403/3891769.html)
 
++ [《V世代》男演员钱斯·佩尔多莫因车祸去世 年仅27岁](https://www.3dmgame.com/news/202403/3891770.html)
+
