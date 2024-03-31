@@ -101,3 +101,21 @@
 
 + [网易游戏清明节未成年人限玩通知 共三小时](https://www.3dmgame.com/news/202403/3891722.html)
 
++ [万代在日本推出两种口味马里奥经典道具软糖](https://www.3dmgame.com/news/202404/3891782.html)
+
++ [《众神陨落》开发商Counterplay遭遇裁员](https://www.3dmgame.com/news/202404/3891781.html)
+
++ [《Broken Roads》发行日公布 4/11登陆各平台](https://www.3dmgame.com/news/202404/3891780.html)
+
++ [《龙与地下城》与《Stumble Guys》展开联动](https://www.3dmgame.com/news/202404/3891779.html)
+
++ [香草社《圣兽之王》已经卖出了50万份](https://www.3dmgame.com/news/202404/3891778.html)
+
++ [《幻兽帕鲁》开发商愚人节发布18禁恋爱游戏](https://www.3dmgame.com/news/202404/3891777.html)
+
++ [iPhone SE 4将采用iPhone 14设计风格](https://www.3dmgame.com/news/202404/3891776.html)
+
++ [《超古代兵器霍莉》愚人节新作回归像素风格](https://www.3dmgame.com/news/202404/3891775.html)
+
++ [苍蓝雷霆开发商愚人节发布2D新作《精灵机弗烈利特》](https://www.3dmgame.com/news/202404/3891774.html)
+
