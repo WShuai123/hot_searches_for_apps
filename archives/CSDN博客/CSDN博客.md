@@ -107,3 +107,31 @@
 
 + [Spark-Scala语言实战（8）](https://blog.csdn.net/qq_49513817/article/details/137157697)
 
++ [Machine Learning机器学习之文本分析](https://blog.csdn.net/a910247/article/details/137209947)
+
++ [设计模式深度解析：AI如何影响装饰器模式与组合模式的选择与应用](https://blog.csdn.net/danci_/article/details/137197804)
+
++ [【Spring MVC】快速学习使用Spring MVC的注解及三层架构](https://blog.csdn.net/smile_sundays/article/details/137207581)
+
++ [【Rust】——编写自动化测试（一）](https://blog.csdn.net/shsjssnn/article/details/136488891)
+
++ [【python】深入探讨flask是如何预防CSRF攻击的](https://blog.csdn.net/littlefun591/article/details/137146956)
+
++ [AIGC重塑金融：AI大模型驱动的金融变革与实践](https://blog.csdn.net/Aileenvov/article/details/137170240)
+
++ [Spring Boot 统一数据返回格式 分析 和 处理](https://blog.csdn.net/m0_65465009/article/details/137143458)
+
++ [【全栈小5】我的创作纪念日](https://blog.csdn.net/lmy_520/article/details/137080489)
+
++ [如何搭建属于自己的Docker私有仓库](https://blog.csdn.net/huaz_md/article/details/137170097)
+
++ [神经网络与深度学习（一）](https://blog.csdn.net/baidu_41944641/article/details/137183246)
+
++ [【Entity Framework】EF中DbSet类详解](https://blog.csdn.net/songjianlong/article/details/137180061)
+
++ [文献学习-23-MRM：用于遗传学医学图像预训练的掩码关系建模](https://blog.csdn.net/Metaphysicist/article/details/137186461)
+
++ [前端工程师————HTML5学习](https://blog.csdn.net/m0_74421072/article/details/137177064)
+
++ [Vue——高德地图](https://blog.csdn.net/weixin_43551242/article/details/137136787)
+
