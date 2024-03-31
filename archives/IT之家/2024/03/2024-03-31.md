@@ -29,3 +29,5 @@
 
 + [从华为独立后新的开始，荣耀官网域名从 hihonor.com 改为 honor.com](https://m.ithome.com/html/759187.htm)
 
++ [赠碎屏险：小米 14 手机 16G+512G 京东电竞 3977 元发车](https://m.ithome.com/html/759179.htm)
+

@@ -101,3 +101,17 @@
 
 + [成绩不佳 LGD DOTA2战队将进行阵容调整](https://www.3dmgame.com/news/202403/3891686.html)
 
++ [小米汽车登顶苹果App Store 雷军建议苹果用户买SU7](https://www.3dmgame.com/news/202403/3891739.html)
+
++ [甜蜜暴击！AMD Zen 5单核性能提升最高可达40%](https://www.3dmgame.com/news/202403/3891740.html)
+
++ [《水族馆长》登陆Steam 美丽水族馆经营模拟](https://www.3dmgame.com/news/202403/3891741.html)
+
++ [CDPR：《巫师4》绝不是换皮的《巫师3》](https://www.3dmgame.com/news/202403/3891742.html)
+
++ [《八番站台》Steam页面上线 《八番出口》正统续作](https://www.3dmgame.com/news/202403/3891736.html)
+
++ [《潜行者》和《胜利之日》RTX Remix效果图欣赏](https://www.3dmgame.com/news/202403/3891737.html)
+
++ [《绝地潜兵2》击败《龙之信条2》重返Steam销量榜榜首](https://www.3dmgame.com/news/202403/3891738.html)
+
