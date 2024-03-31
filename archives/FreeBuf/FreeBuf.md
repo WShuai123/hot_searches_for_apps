@@ -51,3 +51,5 @@
 
 + [利用卷影拷贝服务攻击域控五大绝招](https://www.freebuf.com/articles/web/395766.html)
 
++ [FalconHound：一款专为蓝队设计的BloodHound增强与自动化测试工具](https://www.freebuf.com/sectool/392540.html)
+

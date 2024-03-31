@@ -131,3 +131,15 @@
 
 + [成为新一代许愿池 网友喊话雷军生产一下相机](https://www.3dmgame.com/news/202403/3891748.html)
 
++ [小米SU7试驾排至凌晨3点 雷军：一线的同学辛苦了](https://www.3dmgame.com/news/202403/3891756.html)
+
++ [光荣特库摩宣布成立新AAA工作室 专为开发大型新IP游戏](https://www.3dmgame.com/news/202403/3891755.html)
+
++ [《鬼屋魔影》首个更新档发布 减少卡顿提升游戏稳定性](https://www.3dmgame.com/news/202403/3891754.html)
+
++ [微软和OpenAI联合搞大动作！7200亿元打造AI超算](https://www.3dmgame.com/news/202403/3891753.html)
+
++ [《辐射：新维加斯》RTX Remix MOD效果演示视频](https://www.3dmgame.com/news/202403/3891752.html)
+
++ [《影廊2：雨之四葩》登陆Steam 恐怖探索名作续篇](https://www.3dmgame.com/news/202403/3891751.html)
+

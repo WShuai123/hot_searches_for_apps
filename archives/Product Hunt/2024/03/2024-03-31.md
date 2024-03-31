@@ -109,3 +109,15 @@
 
 + [ClearVPN](https://www.producthunt.com/posts/clearvpn-3)
 
++ [OpenDevin](https://www.producthunt.com/posts/opendevin)
+
++ [Handcraftd](https://www.producthunt.com/posts/handcraftd)
+
++ [VoiceHub](https://www.producthunt.com/posts/voicehub)
+
++ [Kalory](https://www.producthunt.com/posts/kalory)
+
++ [Gemi Bot](https://www.producthunt.com/posts/gemi-bot)
+
++ [Luma](https://www.producthunt.com/posts/luma-3)
+
