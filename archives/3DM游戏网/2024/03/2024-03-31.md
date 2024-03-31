@@ -115,3 +115,13 @@
 
 + [《绝地潜兵2》击败《龙之信条2》重返Steam销量榜榜首](https://www.3dmgame.com/news/202403/3891738.html)
 
++ [《宇宙战舰大和》50周年策划启动 庵野秀明策划主导](https://www.3dmgame.com/news/202403/3891747.html)
+
++ [《甘霖娘女巫》登陆Steam 奇葩恐怖驱魔新游](https://www.3dmgame.com/news/202403/3891743.html)
+
++ [《寂静岭3》游乐园入口场景UE5自制效果视频欣赏](https://www.3dmgame.com/news/202403/3891746.html)
+
++ [《星刃》女主角争议 国外玩家：谁来定义“真实女性”？](https://www.3dmgame.com/news/202403/3891745.html)
+
++ [战术撤离游戏新作《Project L33T》两小时实机演示](https://www.3dmgame.com/news/202403/3891744.html)
+

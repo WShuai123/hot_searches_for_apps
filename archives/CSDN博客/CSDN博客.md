@@ -133,3 +133,11 @@
 
 + [Python天津二手房源爬虫数据可视化分析大屏全屏系统](https://blog.csdn.net/u013818205/article/details/137109814)
 
++ [【深度学习】【机器学习】用神经网络进行入侵检测，NSL-KDD数据集，基于机器学习（深度学习）判断网络入侵](https://blog.csdn.net/x1131230123/article/details/137170933)
+
++ [【Linux实践室】Linux用户管理实战指南：用户权限切换操作详解](https://blog.csdn.net/2301_80026901/article/details/137129059)
+
++ [SpringBoot3任务处理](https://blog.csdn.net/fyr6103032003/article/details/137086554)
+
++ [【Entity Framework】EF中DbSet类详解](https://blog.csdn.net/songjianlong/article/details/137180061)
+
