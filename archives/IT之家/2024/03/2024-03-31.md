@@ -41,3 +41,7 @@
 
 + [小米汽车 SU7 上市后首个周末：门店客流近万，试驾排至凌晨 3 点](https://m.ithome.com/html/759209.htm)
 
++ [iQOO 12 系列手机更新支持全高频调光、Wi-Fi 7、通信共享，即将升级 5.5G](https://m.ithome.com/html/759169.htm)
+
++ [小米汽车 SU7 交付时间延长，订单已排到 3 个月之后、最长半年](https://m.ithome.com/html/759223.htm)
+

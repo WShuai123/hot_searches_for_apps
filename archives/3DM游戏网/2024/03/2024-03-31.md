@@ -143,3 +143,5 @@
 
 + [《影廊2：雨之四葩》登陆Steam 恐怖探索名作续篇](https://www.3dmgame.com/news/202403/3891751.html)
 
++ [《绝地潜兵2》总监希望本作能成为PlayStation招牌游戏](https://www.3dmgame.com/news/202403/3891757.html)
+
