@@ -167,3 +167,5 @@
 
 + [英特尔Arc显卡发布驱动更新 修复《星空》等问题](https://www.3dmgame.com/news/202403/3891766.html)
 
++ [无冕之王终登王座：《荒野大镖客2》获BAFTA最佳游戏续作](https://www.3dmgame.com/news/202403/3891769.html)
+

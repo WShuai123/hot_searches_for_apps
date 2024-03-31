@@ -191,3 +191,13 @@
 
 + [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/137174526)
 
++ [Python版【植物大战僵尸 +源码】](https://blog.csdn.net/m0_68089732/article/details/137202714)
+
++ [网络原理 - HTTP / HTTPS(1)——http请求](https://blog.csdn.net/cool_tao6/article/details/137091588)
+
++ [超文本传输协议HTTP](https://blog.csdn.net/dev1cce/article/details/137181665)
+
++ [BUG分析以及BUG定位](https://blog.csdn.net/qq_48811377/article/details/137173236)
+
++ [【智能算法】猎人猎物算法（HPO）原理及实现](https://blog.csdn.net/Logic_9527/article/details/137130916)
+
