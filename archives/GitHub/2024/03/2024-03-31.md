@@ -51,3 +51,35 @@
 
 + [Expensify / App](https://github.com/Expensify/App)
 
++ [midday-ai / midday](https://github.com/midday-ai/midday)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [tiangolo / typer](https://github.com/tiangolo/typer)
+
++ [DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus)
+
++ [iv-org / invidious](https://github.com/iv-org/invidious)
+
++ [adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone)
+
++ [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [btcpayserver / btcpayserver](https://github.com/btcpayserver/btcpayserver)
+
++ [Atlas-OS / Atlas](https://github.com/Atlas-OS/Atlas)
+
++ [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
+
++ [RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+
++ [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
+
++ [helix-editor / helix](https://github.com/helix-editor/helix)
+
++ [jagrosh / MusicBot](https://github.com/jagrosh/MusicBot)
+
