@@ -125,3 +125,9 @@
 
 + [构建ELK+Filebeat+kafka+zookeeper大数据日志分析平台](https://blog.csdn.net/weixin_45623111/article/details/137143863)
 
++ [Linux系统---如何理解Linux中的文件系统](https://blog.csdn.net/m0_71746526/article/details/137185321)
+
++ [用Redis+token实现接口幂等性](https://blog.csdn.net/ShiYueMemo37329/article/details/137139767)
+
++ [安卓开机动画](https://blog.csdn.net/qq_45649553/article/details/137148669)
+

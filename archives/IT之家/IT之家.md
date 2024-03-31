@@ -27,3 +27,5 @@
 
 + [10.99 万元起：奇瑞风云 A8 新增车型“远航版”上市，综合续航超 1400km](https://m.ithome.com/html/759161.htm)
 
++ [从华为独立后新的开始，荣耀官网域名从 hihonor.com 改为 honor.com](https://m.ithome.com/html/759187.htm)
+
