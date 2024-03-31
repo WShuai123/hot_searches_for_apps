@@ -39,3 +39,5 @@
 
 + [小米汽车：SU7 暂无海外销售计划，家充桩可选 7kW / 11kW 两种规格](https://m.ithome.com/html/759177.htm)
 
++ [小米汽车 SU7 上市后首个周末：门店客流近万，试驾排至凌晨 3 点](https://m.ithome.com/html/759209.htm)
+
