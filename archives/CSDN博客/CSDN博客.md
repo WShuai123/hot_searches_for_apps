@@ -119,3 +119,7 @@
 
 + [计算机网络—TCP协议详解：特性、应用（1）](https://blog.csdn.net/weixin_64038246/article/details/137248406)
 
++ [将 Elasticsearch 向量数据库引入到数据上的 Azure OpenAI 服务（预览）](https://blog.csdn.net/UbuntuTouch/article/details/137221094)
+
++ [云原生技术赋能AI绘图：Stable Diffusion在腾讯云的部署与应用新篇章](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/137056979)
+
