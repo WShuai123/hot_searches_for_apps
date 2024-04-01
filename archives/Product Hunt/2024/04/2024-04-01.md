@@ -111,3 +111,19 @@
 
 + [pipe](https://www.producthunt.com/posts/pipe-8)
 
++ [Letters](https://www.producthunt.com/posts/letters-5)
+
++ [GPT Maxx](https://www.producthunt.com/posts/gpt-maxx)
+
++ [Uppply](https://www.producthunt.com/posts/uppply)
+
++ [Alpha Insights](https://www.producthunt.com/posts/alpha-insights)
+
++ [Calcul.io](https://www.producthunt.com/posts/calcul-io)
+
++ [Petigo](https://www.producthunt.com/posts/petigo)
+
++ [moji AI wearable](https://www.producthunt.com/posts/moji-ai-wearable)
+
++ [Circle to Search](https://www.producthunt.com/posts/circle-to-search)
+

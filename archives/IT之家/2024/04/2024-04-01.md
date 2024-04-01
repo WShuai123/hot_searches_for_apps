@@ -47,3 +47,7 @@
 
 + [科技昨夜今晨 0401：华为余承东宣布智界 S7 开启大规模交付；荣耀官网更换新域名；小米汽车 App 登顶苹果 App Store 免费榜](https://m.ithome.com/html/759297.htm)
 
++ [小米 Redmi 新十年新系列首作 Turbo 3 本月发布，代号“小旋风”](https://m.ithome.com/html/759326.htm)
+
++ [极氪汽车又双叒发战报：全新 001 车型单日大定破 2500 台，再创新高](https://m.ithome.com/html/759273.htm)
+

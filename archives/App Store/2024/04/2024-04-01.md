@@ -209,3 +209,11 @@
 
 + [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
 
++ [TestFlight](https://itunes.apple.com/cn/app/id899247664?mt=8)
+
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+

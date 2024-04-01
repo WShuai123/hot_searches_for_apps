@@ -183,3 +183,7 @@
 
 + [Vue3之defineModel](https://blog.csdn.net/qq_53742640/article/details/137201324)
 
++ [亮数据Bright Data，引领高效数据采集新体验](https://blog.csdn.net/chenlycly/article/details/137222928)
+
++ [【合合TextIn】AI构建新质生产力，合合信息Embedding模型助力专业知识应用](https://blog.csdn.net/INTSIG/article/details/137148059)
+

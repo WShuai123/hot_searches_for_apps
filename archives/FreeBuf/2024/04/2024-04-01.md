@@ -59,3 +59,9 @@
 
 + [PurpleKeep：提供Azure管道以创建基础设施并执行Atomic测试](https://www.freebuf.com/sectool/392541.html)
 
++ [议题公布 | 4.10 广州站报名在即](https://www.freebuf.com/articles/396258.html)
+
++ [愚人节，微软发布 SaaS 版 Copilot for Security](https://www.freebuf.com/articles/396283.html)
+
++ [平均每月2万起，俗套的BEC攻击成为企业的“噩梦”？](https://www.freebuf.com/news/topnews/396620.html)
+

@@ -177,3 +177,7 @@
 
 + [在哪里报名？《宝可梦Sleep》愚人节举办世界睡觉锦标赛](https://www.3dmgame.com/news/202404/3891807.html)
 
++ [《Blood, Fuel, Ammo & Speed》登陆Steam 肉鸽FPS](https://www.3dmgame.com/news/202404/3891814.html)
+
++ [机甲种田游戏《光年边境》首周玩家数超70万 更新路线图制作中](https://www.3dmgame.com/news/202404/3891813.html)
+
