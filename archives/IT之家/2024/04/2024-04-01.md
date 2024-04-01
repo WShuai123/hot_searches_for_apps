@@ -39,3 +39,9 @@
 
 + [华为联合设计，问界新 M7 入门款车型降价 2 万至 22.98 万元起](https://m.ithome.com/html/759298.htm)
 
++ [（更新：高管称数字是错的）消息称小米汽车 SU7 锁单量截至 3 月 30 日下午达 2 万个](https://m.ithome.com/html/759284.htm)
+
++ [极氪 007 后驱增强版上市：配置提升，售价 20.99 万元](https://m.ithome.com/html/759322.htm)
+
++ [小米集团高管回应小米汽车 SU7 两万锁单量：数字是错的](https://m.ithome.com/html/759352.htm)
+
