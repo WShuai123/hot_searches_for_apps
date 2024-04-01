@@ -159,3 +159,7 @@
 
 + [愚人节：《妮姬：胜利女神》宣布续作《DEAD SPICY》](https://www.3dmgame.com/news/202404/3891794.html)
 
++ [消息称iOS 17.5即将登场 侧载功能将再次升级](https://www.3dmgame.com/news/202404/3891803.html)
+
++ [传闻：2K将于本周宣布FIFA新作《FIFA 2KFC》](https://www.3dmgame.com/news/202404/3891804.html)
+
