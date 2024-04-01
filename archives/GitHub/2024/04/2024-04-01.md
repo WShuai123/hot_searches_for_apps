@@ -51,3 +51,25 @@
 
 + [jagrosh / MusicBot](https://github.com/jagrosh/MusicBot)
 
++ [heyform / heyform](https://github.com/heyform/heyform)
+
++ [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+
++ [wandb / openui](https://github.com/wandb/openui)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [bannedbook / fanqiang](https://github.com/bannedbook/fanqiang)
+
++ [google / comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [2dust / v2rayN](https://github.com/2dust/v2rayN)
+
++ [MsLolita / grass](https://github.com/MsLolita/grass)
+
++ [TencentARC / BrushNet](https://github.com/TencentARC/BrushNet)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [sympy / sympy](https://github.com/sympy/sympy)
+

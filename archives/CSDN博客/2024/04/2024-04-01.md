@@ -203,3 +203,5 @@
 
 + [Docker容器与Serverless的融合：探索《2023腾讯云容器和函数计算技术实践精选集》中的云原生创新案例](https://blog.csdn.net/qq_44866828/article/details/137229410)
 
++ [【Linux】进程实践项目 —— 自主shell编写](https://blog.csdn.net/JLX_1/article/details/137201722)
+

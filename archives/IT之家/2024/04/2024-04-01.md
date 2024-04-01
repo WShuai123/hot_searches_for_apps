@@ -55,3 +55,5 @@
 
 + [小米 67W 桌面快充插座 Pro 上架：七合一接口，众筹价 185 元](https://m.ithome.com/html/759329.htm)
 
++ [雷军回应网友称晕电车：花了很大代价专门解决这个问题，小米汽车 SU7 肯定不晕](https://m.ithome.com/html/759380.htm)
+
