@@ -215,3 +215,7 @@
 
 + [Docker容器、Serverless与微服务：腾讯云云原生架构技术实践案例集解析](https://blog.csdn.net/qq_53847859/article/details/136958351)
 
++ [如何在Portainer中创建Nginx服务并搭建静态站点实现公网访问本地网站](https://blog.csdn.net/asdssadddd/article/details/137238848)
+
++ [每天学习python30分钟（第二天）](https://blog.csdn.net/2301_80284843/article/details/137165389)
+

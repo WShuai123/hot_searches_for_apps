@@ -209,3 +209,7 @@
 
 + [华硕掌机ROG Ally大降价40% 已到历史最低价：300美元](https://www.3dmgame.com/news/202404/3891826.html)
 
++ [《巫师4》开发重要保障！CDPR今年为未来游戏留了3.2亿美元](https://www.3dmgame.com/news/202404/3891829.html)
+
++ [外媒：美国科技巨头转向墨西哥制造人工智能设备](https://www.3dmgame.com/news/202404/3891830.html)
+
