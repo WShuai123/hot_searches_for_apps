@@ -219,3 +219,5 @@
 
 + [国家医保服务平台](https://itunes.apple.com/cn/app/id1490383593?mt=8)
 
++ [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

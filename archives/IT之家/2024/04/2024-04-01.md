@@ -59,3 +59,5 @@
 
 + [贾跃亭谈小米汽车：执行力与营销能力值得点赞，但山寨、走捷径等被奉为圭臬令人担忧](https://m.ithome.com/html/759400.htm)
 
++ [Epic 愚人节整活宣布正式收购 Steam，小黄油全部免费](https://m.ithome.com/html/759333.htm)
+

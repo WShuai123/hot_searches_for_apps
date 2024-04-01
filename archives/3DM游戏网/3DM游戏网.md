@@ -203,3 +203,9 @@
 
 + [愚人节新闻：CDPR发布《赛博朋克2077》软盘版 安装完毕需要两个月](https://www.3dmgame.com/news/202404/3891825.html)
 
++ [《使命召唤：战区手游》收入比COD手游下降了67%](https://www.3dmgame.com/news/202404/3891827.html)
+
++ [“反向”操作！特斯拉Model Y全系涨价5000元](https://www.3dmgame.com/news/202404/3891828.html)
+
++ [华硕掌机ROG Ally大降价40% 已到历史最低价：300美元](https://www.3dmgame.com/news/202404/3891826.html)
+
