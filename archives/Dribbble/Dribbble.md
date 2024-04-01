@@ -49,3 +49,25 @@
 
 + [Jesus Collage - book cover design](https://dribbble.com/shots/)
 
++ [System Illustration](https://dribbble.com/shots/)
+
++ [TinyTalks Socials](https://dribbble.com/shots/)
+
++ [Music & Film Logo Collection](https://dribbble.com/shots/)
+
++ [????????️](https://dribbble.com/shots/)
+
++ [Foxtrot: Deliver Illustrations](https://dribbble.com/shots/)
+
++ [Rainy days & Mondays ☔️](https://dribbble.com/shots/)
+
++ [FORGE](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [besties!](https://dribbble.com/shots/)
+
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [Scarlet Mosque](https://dribbble.com/shots/)
+

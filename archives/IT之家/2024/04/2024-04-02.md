@@ -25,3 +25,5 @@
 
 + [长城董事长魏建军组织高管和专家评审小米汽车 SU7，雷军在线求评审结果](https://m.ithome.com/html/759393.htm)
 
++ [小米汽车 SU7 创始版追加开售已售罄](https://m.ithome.com/html/759372.htm)
+

@@ -101,3 +101,5 @@
 
 + [《寂静岭2：重制版》被ESRB评为成人级 血腥暴力有性内容](https://www.3dmgame.com/news/202404/3891783.html)
 
++ [《游戏王：大师决斗》下载量突破6000万 登陆送宝石](https://www.3dmgame.com/news/202404/3891834.html)
+
