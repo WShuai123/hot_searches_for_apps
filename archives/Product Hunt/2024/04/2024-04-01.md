@@ -101,3 +101,13 @@
 
 + [YOMO](https://www.producthunt.com/posts/yomo-3)
 
++ [Rag About It](https://www.producthunt.com/posts/rag-about-it)
+
++ [FabricFlow](https://www.producthunt.com/posts/fabricflow)
+
++ [Dealwise](https://www.producthunt.com/posts/dealwise)
+
++ [CodeRabbit](https://www.producthunt.com/posts/coderabbit-2)
+
++ [pipe](https://www.producthunt.com/posts/pipe-8)
+

@@ -167,3 +167,13 @@
 
 + [世嘉宣布成立新Fave事业部 整合吸收街机娱乐业](https://www.3dmgame.com/news/202404/3891805.html)
 
++ [《碧蓝档案》宣布联动《雀魂》 4月17日开启](https://www.3dmgame.com/news/202404/3891811.html)
+
++ [《街头霸王6》联动怪猎活动开启 新服装道具陆续上线](https://www.3dmgame.com/news/202404/3891810.html)
+
++ [《模拟人生4》Steam各DLC国区售价永降 本体免费游玩](https://www.3dmgame.com/news/202404/3891809.html)
+
++ [科乐美宣布将推出新人策划 疑似新VTuber与千本樱有关](https://www.3dmgame.com/news/202404/3891808.html)
+
++ [在哪里报名？《宝可梦Sleep》愚人节举办世界睡觉锦标赛](https://www.3dmgame.com/news/202404/3891807.html)
+

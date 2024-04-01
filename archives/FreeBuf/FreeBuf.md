@@ -55,3 +55,7 @@
 
 + [俄罗斯称利用WinRAR 漏洞的攻击活动与乌克兰有关](https://www.freebuf.com/news/396604.html)
 
++ [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
+
++ [PurpleKeep：提供Azure管道以创建基础设施并执行Atomic测试](https://www.freebuf.com/sectool/392541.html)
+
