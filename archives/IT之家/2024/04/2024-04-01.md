@@ -31,3 +31,7 @@
 
 + [极氪再发战报：全新 001 车型 3 月 30 日新增大定破 2000 台](https://m.ithome.com/html/759202.htm)
 
++ [消息称小米汽车 SU7 锁单量截至 3 月 30 日下午达 2 万个](https://m.ithome.com/html/759284.htm)
+
++ [小米汽车回应 SU7 创始版再次开售相关问题：后续不再有新轮次定购](https://m.ithome.com/html/759280.htm)
+

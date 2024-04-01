@@ -139,3 +139,11 @@
 
 + [物联网学习1、什么是 MQTT？](https://blog.csdn.net/qq_28643437/article/details/137163352)
 
++ [Leaflet使用多面（MultiPolygon）进行遥感影像掩膜报错解决之道](https://blog.csdn.net/yelangkingwuzuhu/article/details/137156843)
+
++ [语音识别：基于HMM](https://blog.csdn.net/cyz_2014/article/details/137169335)
+
++ [第十一篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作PDF文件转Word文档](https://blog.csdn.net/jackchuanqi/article/details/137186780)
+
++ [手写简易操作系统(十七)--编写键盘驱动](https://blog.csdn.net/weixin_43903639/article/details/137179543)
+
