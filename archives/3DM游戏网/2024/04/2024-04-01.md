@@ -141,3 +141,21 @@
 
 + [《星刃》体验版玩家反馈极其良好 100%推荐首发](https://www.3dmgame.com/news/202404/3891789.html)
 
++ [在远方种出属于你的一片天地！治愈探索游戏《远花》现已发售！](https://www.3dmgame.com/news/202404/3891802.html)
+
++ [消息称普京同意俄罗斯开发独有游戏机以及类Steam平台](https://www.3dmgame.com/news/202404/3891800.html)
+
++ [Steam多人合作新游《奇妙大作战》火热发售！是兄弟就来砍杀吧！](https://www.3dmgame.com/news/202404/3891801.html)
+
++ [超20万人投票 《塞尔达传说：时之笛》被评为有史以来最伟大的游戏](https://www.3dmgame.com/news/202404/3891799.html)
+
++ [《尘白禁区》手游官方公告：所有男性角色都将删去](https://www.3dmgame.com/news/202404/3891798.html)
+
++ [Epic愚人节整活宣布正式收购Steam 小黄油全部免费](https://www.3dmgame.com/news/202404/3891797.html)
+
++ [原田胜宏希望《铁拳9》登陆下世代主机 也包括任天堂系](https://www.3dmgame.com/news/202404/3891796.html)
+
++ [《星刃》女主马尾辫设计难做 团队花费一年时间](https://www.3dmgame.com/news/202404/3891795.html)
+
++ [愚人节：《妮姬：胜利女神》宣布续作《DEAD SPICY》](https://www.3dmgame.com/news/202404/3891794.html)
+
