@@ -199,3 +199,5 @@
 
 + [《幸存国度》4月15日Steam抢测 开放世界僵尸生存](https://www.3dmgame.com/news/202404/3891821.html)
 
++ [宏碁掠夺者刀锋Neo全能本上架 本月8日首发](https://www.3dmgame.com/news/202404/3891824.html)
+
