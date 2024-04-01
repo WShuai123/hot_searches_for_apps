@@ -45,3 +45,5 @@
 
 + [技术详解 | 黑客如何通过PDF文件分发恶意软件](https://www.freebuf.com/articles/network/394052.html)
 
++ [常见的反沙箱反虚拟机思路](https://www.freebuf.com/articles/system/395742.html)
+

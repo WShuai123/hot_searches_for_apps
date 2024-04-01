@@ -147,3 +147,11 @@
 
 + [手写简易操作系统(十七)--编写键盘驱动](https://blog.csdn.net/weixin_43903639/article/details/137179543)
 
++ [【AIGC】大模型在金融行业的应用场景和落地路径](https://blog.csdn.net/jinxinxin1314/article/details/137160050)
+
++ [【动手学深度学习】深入浅出深度学习之利用神经网络识别螺旋状数据集](https://blog.csdn.net/m0_57532432/article/details/136841270)
+
++ [论文笔记：GEOLLM: EXTRACTING GEOSPATIALKNOWLEDGE FROM LARGE LANGUAGE MODELS](https://blog.csdn.net/qq_40206371/article/details/137207510)
+
++ [【Spring Boot 源码学习】ConditionEvaluationReport 日志记录上下文初始化器](https://blog.csdn.net/u012855229/article/details/137102579)
+

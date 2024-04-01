@@ -127,3 +127,17 @@
 
 + [愚人节整蛊！Capcom宣布进军航空业推出直升机](https://www.3dmgame.com/news/202404/3891784.html)
 
++ [《星刃》20分钟实机演示 首场Boss战斗很刺激](https://www.3dmgame.com/news/202404/3891790.html)
+
++ [《驱灵者：新伊甸的幽灵》不是3A而是2A游戏 续作开发待定](https://www.3dmgame.com/news/202404/3891791.html)
+
++ [《宝可梦：朱紫》新泰拉挑战公布 最强大竺葵参战](https://www.3dmgame.com/news/202404/3891792.html)
+
++ [Phil Spencer掌管Xbox十年 玩家评价：他毁了Xbox](https://www.3dmgame.com/news/202404/3891793.html)
+
++ [虚幻5MMORPG《传奇5》新演示视频 俊男靓女登场](https://www.3dmgame.com/news/202404/3891787.html)
+
++ [卡普空宣布设计制造直升机 因为旗下游戏99%都坠毁](https://www.3dmgame.com/news/202404/3891788.html)
+
++ [《星刃》体验版玩家反馈极其良好 100%推荐首发](https://www.3dmgame.com/news/202404/3891789.html)
+
