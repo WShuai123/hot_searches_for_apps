@@ -201,3 +201,5 @@
 
 + [宏碁掠夺者刀锋Neo全能本上架 本月8日首发](https://www.3dmgame.com/news/202404/3891824.html)
 
++ [愚人节新闻：CDPR发布《赛博朋克2077》软盘版 安装完毕需要两个月](https://www.3dmgame.com/news/202404/3891825.html)
+

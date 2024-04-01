@@ -135,3 +135,7 @@
 
 + [Snowball FATG](https://www.producthunt.com/posts/snowball-fatg)
 
++ [BooksByMood](https://www.producthunt.com/posts/booksbymood)
+
++ [SunoAI API](https://www.producthunt.com/posts/sunoai-api)
+

@@ -205,3 +205,13 @@
 
 + [【Linux】进程实践项目 —— 自主shell编写](https://blog.csdn.net/JLX_1/article/details/137201722)
 
++ [【Linux学习】Linux 的虚拟化和容器化技术](https://blog.csdn.net/xiaoxie8023/article/details/137233070)
+
++ [今天起，Windows可以一键召唤GPT-4了](https://blog.csdn.net/Vicky_Victory/article/details/137211705)
+
++ [数据库SQL语句速查手册](https://blog.csdn.net/weixin_39627083/article/details/137208200)
+
++ [深入了解Vue中slot的应用](https://blog.csdn.net/lwf3115841/article/details/137187428)
+
++ [Docker容器、Serverless与微服务：腾讯云云原生架构技术实践案例集解析](https://blog.csdn.net/qq_53847859/article/details/136958351)
+
