@@ -191,3 +191,11 @@
 
 + [网易诚招大学生入局游戏制作 100+offer！Y3高校挑战赛开启](https://www.3dmgame.com/news/202404/3891815.html)
 
++ [21.59万起售价贵吗？雷军：小米SU7我们卖一台亏一台](https://www.3dmgame.com/news/202404/3891822.html)
+
++ [国产自主14nm工艺！中国企业的AI芯片比GPU便宜90%](https://www.3dmgame.com/news/202404/3891823.html)
+
++ [已创造超40万个岗位！苹果生态链成印度就业主要推动力](https://www.3dmgame.com/news/202404/3891820.html)
+
++ [《幸存国度》4月15日Steam抢测 开放世界僵尸生存](https://www.3dmgame.com/news/202404/3891821.html)
+

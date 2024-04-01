@@ -53,3 +53,5 @@
 
 + [特斯拉 Model Y 车型全系涨价 5000 元，起售价调高至 263900 元](https://m.ithome.com/html/759295.htm)
 
++ [小米 67W 桌面快充插座 Pro 上架：七合一接口，众筹价 185 元](https://m.ithome.com/html/759329.htm)
+

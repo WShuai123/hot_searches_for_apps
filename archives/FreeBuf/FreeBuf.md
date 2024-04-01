@@ -67,3 +67,5 @@
 
 + [愚人节，微软 SaaS 版 Copilot for Security正式上线](https://www.freebuf.com/articles/396283.html)
 
++ [议题公布 | 4.10 FreeBuf企业安全俱乐部·广州站见](https://www.freebuf.com/articles/396258.html)
+
