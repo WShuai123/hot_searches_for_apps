@@ -65,3 +65,5 @@
 
 + [平均每月2万起，俗套的BEC攻击成为企业的“噩梦”？](https://www.freebuf.com/news/topnews/396620.html)
 
++ [愚人节，微软 SaaS 版 Copilot for Security正式上线](https://www.freebuf.com/articles/396283.html)
+

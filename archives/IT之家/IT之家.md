@@ -51,3 +51,5 @@
 
 + [极氪汽车又双叒发战报：全新 001 车型单日大定破 2500 台，再创新高](https://m.ithome.com/html/759273.htm)
 
++ [特斯拉 Model Y 车型全系涨价 5000 元，起售价调高至 263900 元](https://m.ithome.com/html/759295.htm)
+

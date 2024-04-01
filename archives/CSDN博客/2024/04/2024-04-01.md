@@ -187,3 +187,13 @@
 
 + [【合合TextIn】AI构建新质生产力，合合信息Embedding模型助力专业知识应用](https://blog.csdn.net/INTSIG/article/details/137148059)
 
++ [云原生技术精选：探索腾讯云容器与函数计算的最佳实践](https://blog.csdn.net/JHXL_/article/details/137228111)
+
++ [【研发日记】Matlab/Simulink开箱报告(十一)——Requirements Toolbox](https://blog.csdn.net/CSSUST/article/details/137194737)
+
++ [深入解析Hadoop生态核心组件：HDFS、MapReduce和YARN](https://blog.csdn.net/2202_75623950/article/details/137142798)
+
++ [【愚公系列】深入探索《2023腾讯云容器和函数计算技术实践精选集》：案例解析与实用建议](https://blog.csdn.net/aa2528877987/article/details/137103251)
+
++ [【MySQL】事务是什么？事务的特性又是什么？](https://blog.csdn.net/2202_75795446/article/details/137180926)
+
