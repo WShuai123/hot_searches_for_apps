@@ -103,3 +103,13 @@
 
 + [《游戏王：大师决斗》下载量突破6000万 登陆送宝石](https://www.3dmgame.com/news/202404/3891834.html)
 
++ [Capcom官方民调显示玩家们需要恐龙危机新作](https://www.3dmgame.com/news/202404/3891839.html)
+
++ [《巫师4》将采用全新设计带来全新游戏体验](https://www.3dmgame.com/news/202404/3891838.html)
+
++ [人与猿史诗对决《猩球崛起：新世界》发布iMax预告](https://www.3dmgame.com/news/202404/3891837.html)
+
++ [动作RPG《雷纳提斯》公开NS版6分钟实机视频](https://www.3dmgame.com/news/202404/3891836.html)
+
++ [SEGA招募《如龙》新作演员确定不是《极3》](https://www.3dmgame.com/news/202404/3891835.html)
+

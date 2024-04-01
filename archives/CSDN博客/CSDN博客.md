@@ -123,3 +123,5 @@
 
 + [云原生技术赋能AI绘图：Stable Diffusion在腾讯云的部署与应用新篇章](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/137056979)
 
++ [深入了解Vue中slot的应用](https://blog.csdn.net/lwf3115841/article/details/137187428)
+
