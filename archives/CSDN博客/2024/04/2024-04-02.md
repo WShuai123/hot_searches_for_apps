@@ -101,3 +101,21 @@
 
 + [SpringBoot微服务实现深度学习：构建AGI道路的基石+实战案例演示](https://blog.csdn.net/m0_72803988/article/details/137242918)
 
++ [【SpringCloud】一文详谈Nacos](https://blog.csdn.net/weixin_62951900/article/details/137238172)
+
++ [Docker容器、Serverless与微服务：腾讯云云原生架构技术实践案例集解析](https://blog.csdn.net/qq_53847859/article/details/136958351)
+
++ [【docker】Dockerfile自定义镜像](https://blog.csdn.net/m0_62645012/article/details/137234641)
+
++ [好书推荐 《AIGC重塑金融》](https://blog.csdn.net/qyj19920704/article/details/137232195)
+
++ [用vscode仿制小米官网](https://blog.csdn.net/simply_happy/article/details/137197546)
+
++ [使用 SPL 高效实现 Flink SLS Connector 下推](https://blog.csdn.net/yunqiinsight/article/details/137239705)
+
++ [【FFmpeg】ffmpeg 命令行参数 ⑧ ( 使用 ffmpeg 转换封装格式 | 音视频编解码器参数设置 | 视频 帧率 / 码率 / 分辨率 设置 | 音频 码率 / 采样率 设置 )](https://blog.csdn.net/han1202012/article/details/137217723)
+
++ [接口测试之测试原则、测试用例、测试流程......](https://blog.csdn.net/YLF123456789000/article/details/137172603)
+
++ [计算机网络—TCP协议详解：特性、应用（1）](https://blog.csdn.net/weixin_64038246/article/details/137248406)
+
