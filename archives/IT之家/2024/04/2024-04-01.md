@@ -45,3 +45,5 @@
 
 + [小米集团高管回应小米汽车 SU7 两万锁单量：数字是错的](https://m.ithome.com/html/759352.htm)
 
++ [科技昨夜今晨 0401：华为余承东宣布智界 S7 开启大规模交付；荣耀官网更换新域名；小米汽车 App 登顶苹果 App Store 免费榜](https://m.ithome.com/html/759297.htm)
+

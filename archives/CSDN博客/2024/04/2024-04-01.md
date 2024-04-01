@@ -169,3 +169,11 @@
 
 + [亮数据，可视化数据采集强大利器](https://blog.csdn.net/m0_63947499/article/details/137106450)
 
++ [第116讲：使用Mycat-eye管理Mycat数据库服务](https://blog.csdn.net/weixin_44953658/article/details/137218787)
+
++ [Generative AI 新世界 | 扩散模型原理的代码实践之采样篇](https://blog.csdn.net/m0_63947499/article/details/137174716)
+
++ [python爬取B站视频](https://blog.csdn.net/sinat_38653840/article/details/137201680)
+
++ [3. WiFi基本原理](https://blog.csdn.net/u014217137/article/details/137172740)
+
