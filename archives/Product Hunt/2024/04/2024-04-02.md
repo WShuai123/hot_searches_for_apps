@@ -155,3 +155,19 @@
 
 + [YouTube Dubbing](https://www.producthunt.com/posts/youtube-dubbing)
 
++ [Haye](https://www.producthunt.com/posts/haye)
+
++ [Colors Visualizer](https://www.producthunt.com/posts/colors-visualizer)
+
++ [bugbox](https://www.producthunt.com/posts/bugbox)
+
++ [AIxBlock](https://www.producthunt.com/posts/aixblock)
+
++ [Jessica by Queue](https://www.producthunt.com/posts/jessica-by-queue)
+
++ [Pagecord](https://www.producthunt.com/posts/pagecord)
+
++ [Snapvault](https://www.producthunt.com/posts/snapvault)
+
++ [Reffresh](https://www.producthunt.com/posts/reffresh)
+

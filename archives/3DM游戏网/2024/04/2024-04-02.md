@@ -263,3 +263,5 @@
 
 + [OpenAI放开限制 ChatGPT无需注册即可使用](https://www.3dmgame.com/news/202404/3891914.html)
 
++ [《魔兽》总监：不排除将IP授权第三方开发衍生作品](https://www.3dmgame.com/news/202404/3891915.html)
+

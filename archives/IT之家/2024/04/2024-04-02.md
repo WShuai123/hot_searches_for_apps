@@ -57,3 +57,5 @@
 
 + [雷军：明天将举办小米汽车 SU7 首批交付仪式](https://m.ithome.com/html/759643.htm)
 
++ [小米 SU7 首个圈速实测成绩出炉，雷军称果然是“50 万以内最快”的车](https://m.ithome.com/html/759711.htm)
+
