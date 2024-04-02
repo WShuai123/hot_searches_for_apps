@@ -265,3 +265,9 @@
 
 + [《魔兽》总监：不排除将IP授权第三方开发衍生作品](https://www.3dmgame.com/news/202404/3891915.html)
 
++ [RTX 3060继续霸榜Steam RTX 4060增长迅速](https://www.3dmgame.com/news/202404/3891918.html)
+
++ [《蜘蛛侠4》回归梦碎？原导演山姆·雷米：漫威可能没兴趣](https://www.3dmgame.com/news/202404/3891916.html)
+
++ [苹果开发出新款AI：能“看懂“屏幕上内容并用语音回复](https://www.3dmgame.com/news/202404/3891917.html)
+

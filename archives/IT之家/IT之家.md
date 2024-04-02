@@ -59,3 +59,5 @@
 
 + [小米 SU7 首个圈速实测成绩出炉，雷军称果然是“50 万以内最快”的车](https://m.ithome.com/html/759711.htm)
 
++ [小米 Redmi Turbo 3 手机跑分曝光：骁龙 8s Gen 3 芯片 + 16GB 内存](https://m.ithome.com/html/759622.htm)
+
