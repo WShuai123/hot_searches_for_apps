@@ -239,3 +239,7 @@
 
 + [破局AI数据中心用电荒 美政府正探索兴建核电站](https://www.3dmgame.com/news/202404/3891899.html)
 
++ [Steam一周销量榜 《绝地潜兵2》重回榜首](https://www.3dmgame.com/news/202404/3891903.html)
+
++ [著名天文学家警告马斯克 移民火星计划很危险](https://www.3dmgame.com/news/202404/3891904.html)
+

@@ -23,3 +23,5 @@
 
 + [斗破苍穹：三年之约](https://www.taptap.cn/app/383749)
 
++ [开超市模拟器](https://www.taptap.cn/app/612701)
+
