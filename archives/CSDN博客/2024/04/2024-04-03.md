@@ -105,3 +105,29 @@
 
 + [用vscode仿制小米官网](https://blog.csdn.net/simply_happy/article/details/137197546)
 
++ [深入解析实时数仓Doris：Rollup上卷表与查询](https://blog.csdn.net/qq_26664043/article/details/137211284)
+
++ [群晖NAS使用Docker部署大语言模型Llama 2结合内网穿透实现公网访问本地GPT聊天服务](https://blog.csdn.net/a1657054242/article/details/137292314)
+
++ [PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous](https://blog.csdn.net/BIT_HXZ/article/details/137281904)
+
++ [网络以太网之(2)VLAN协议](https://blog.csdn.net/Once_day/article/details/137246693)
+
++ [竞技之道-打造成功竞技游戏的实战指南【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/137248608)
+
++ [python爬取B站视频](https://blog.csdn.net/sinat_38653840/article/details/137201680)
+
++ [Linux之实现Apache服务器监控、数据库定时备份及通过使用Shell脚本发送邮件](https://blog.csdn.net/weixin_74457789/article/details/137249372)
+
++ [网络安全 | 什么是网络安全？](https://blog.csdn.net/Andya_net/article/details/137250211)
+
++ [（十）Docker的基本操作](https://blog.csdn.net/weixin_63130017/article/details/137218889)
+
++ [网络协议——HTTP协议](https://blog.csdn.net/qq_41934502/article/details/137184921)
+
++ [文献学习-25-综合学习和适应性教学：用于病理性胶质瘤分级的多模态知识蒸馏](https://blog.csdn.net/Metaphysicist/article/details/137256137)
+
++ [华为ensp中ospf多区域管理 原理及配置命令（详解）](https://blog.csdn.net/jxjdhdnd/article/details/137227559)
+
++ [sql注入详解](https://blog.csdn.net/sjt2323302003/article/details/137243099)
+

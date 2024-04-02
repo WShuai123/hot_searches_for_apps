@@ -205,3 +205,7 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
