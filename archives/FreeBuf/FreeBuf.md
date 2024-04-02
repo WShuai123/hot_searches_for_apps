@@ -49,3 +49,5 @@
 
 + [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人信息；黑客针对macOS用户投放恶意广告](https://www.freebuf.com/news/396653.html)
 
++ [自然资源部发布《自然资源领域数据安全管理办法》](https://www.freebuf.com/news/396689.html)
+

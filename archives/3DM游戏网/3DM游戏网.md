@@ -151,3 +151,29 @@
 
 + [招聘信息显示：BioWare可能在开发一个未公布的新项目](https://www.3dmgame.com/news/202404/3891854.html)
 
++ [《机动战士高达SEED FREEDOM》电影新剧照 恋人的眼泪](https://www.3dmgame.com/news/202404/3891866.html)
+
++ [《PO’ed：终极版》Steam页面上线 经典FPS重制](https://www.3dmgame.com/news/202404/3891867.html)
+
++ [知名漫画《忍者杀手》宣布游戏化 2024年夏季发售](https://www.3dmgame.com/news/202404/3891868.html)
+
++ [马斯克调侃加入迪士尼 让其电影和电视剧更加政治正确](https://www.3dmgame.com/news/202404/3891869.html)
+
++ [徐昌隆畅谈《古龙风云录》并分享新作概念图 期待吗？](https://www.3dmgame.com/news/202404/3891870.html)
+
++ [《最后的生还者》10周年纪念典藏黑胶原声集开启预购](https://www.3dmgame.com/news/202404/3891871.html)
+
++ [《雷纳提斯》全新艺术插图欣赏 画风别致非常精美](https://www.3dmgame.com/news/202404/3891860.html)
+
++ [《丝之歌》xbox页面上线 发售日期待定](https://www.3dmgame.com/news/202404/3891861.html)
+
++ [一群Mod制作者正在开发《GTA5》NS和安卓移植版](https://www.3dmgame.com/news/202404/3891859.html)
+
++ [《星刃》官方推荐电视打开“游戏模式”：减少延迟](https://www.3dmgame.com/news/202404/3891862.html)
+
++ [《流浪猫物语》合集6月27日登陆Switch 治愈系冒险](https://www.3dmgame.com/news/202404/3891863.html)
+
++ [PS英国称《星刃》准确再现英国天气 总下雨让女主更美](https://www.3dmgame.com/news/202404/3891864.html)
+
++ [《俄罗斯方块99》联动《碧姬公主：表演时刻》 4月5日上线](https://www.3dmgame.com/news/202404/3891865.html)
+

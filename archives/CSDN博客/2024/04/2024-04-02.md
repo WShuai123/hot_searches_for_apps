@@ -131,3 +131,9 @@
 
 + [linux：生产者消费者模型](https://blog.csdn.net/li209779/article/details/137166971)
 
++ [深度学习：AIGC重塑金融大模型驱动金融变革](https://blog.csdn.net/s445320/article/details/137218692)
+
++ [腾讯云函数计算技术：云原生架构下的Serverless与微服务新篇章](https://blog.csdn.net/weixin_42250835/article/details/137245963)
+
++ [【计算机网络】select/poll](https://blog.csdn.net/YoungMLet/article/details/137061230)
+
