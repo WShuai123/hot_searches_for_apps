@@ -101,3 +101,7 @@
 
 + [书籍推荐-Python数据分析教程-让工作自动化起来](https://blog.csdn.net/qq_35716689/article/details/137247073)
 
++ [探索设计模式的魅力：AI大模型如何赋能C/S模式，开创服务新纪元](https://blog.csdn.net/danci_/article/details/137255195)
+
++ [用vscode仿制小米官网](https://blog.csdn.net/simply_happy/article/details/137197546)
+
