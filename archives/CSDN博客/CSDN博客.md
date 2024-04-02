@@ -125,3 +125,7 @@
 
 + [深入了解Vue中slot的应用](https://blog.csdn.net/lwf3115841/article/details/137187428)
 
++ [如何使用potplayer在公网环境访问内网群晖NAS中储存在webdav中的影视资源](https://blog.csdn.net/Aileenvov/article/details/137249293)
+
++ [Linux系统Docker如何部署Nextcloud结合内网穿透实现公网访问本地资源？](https://blog.csdn.net/qq_25749749/article/details/137233297)
+

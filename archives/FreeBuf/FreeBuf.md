@@ -41,3 +41,7 @@
 
 + [CATSploit：一款基于CATS的自动化渗透测试执行工具](https://www.freebuf.com/sectool/392534.html)
 
++ [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人个人信息；黑客针对 macOS 用户投放恶意广告](https://www.freebuf.com/news/396653.html)
+
++ [2023年跟踪软件状态：12%的人曾在伴侣手机上安装跟踪软件](https://www.freebuf.com/articles/paper/395070.html)
+

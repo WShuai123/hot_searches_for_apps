@@ -27,3 +27,7 @@
 
 + [小米汽车 SU7 创始版追加开售已售罄](https://m.ithome.com/html/759372.htm)
 
++ [小米汽车：SU7 创始版均为新车、非库存车，车载网络服务包免费期结束后 199 元 / 年](https://m.ithome.com/html/759531.htm)
+
++ [小米王腾公布新十年 Redmi K、Turbo、Note、数字系列产品定位](https://m.ithome.com/html/759379.htm)
+
