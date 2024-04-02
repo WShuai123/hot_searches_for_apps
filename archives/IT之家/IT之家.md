@@ -45,3 +45,5 @@
 
 + [OpenAI 宣布用户无需注册账号即可使用 ChatGPT，但有部分限制](https://m.ithome.com/html/759538.htm)
 
++ [SU7 订单“火爆”，小米集团开盘大涨近 15％](https://m.ithome.com/html/759603.htm)
+
