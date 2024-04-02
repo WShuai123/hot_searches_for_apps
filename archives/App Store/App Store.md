@@ -217,3 +217,7 @@
 
 + [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
 
++ [安逸花-分期贷款信用借款快速借钱平台](https://itunes.apple.com/cn/app/id1098542282?mt=8)
+
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+

@@ -51,3 +51,27 @@
 
 + [sympy / sympy](https://github.com/sympy/sympy)
 
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [go-nunu / nunu](https://github.com/go-nunu/nunu)
+
++ [halfrost / LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+
++ [dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini)
+
++ [billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui)
+
++ [city-super / Octree-GS](https://github.com/city-super/Octree-GS)
+
++ [Atlas-OS / Atlas](https://github.com/Atlas-OS/Atlas)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+
++ [upscayl / upscayl](https://github.com/upscayl/upscayl)
+
++ [agiresearch / AIOS](https://github.com/agiresearch/AIOS)
+

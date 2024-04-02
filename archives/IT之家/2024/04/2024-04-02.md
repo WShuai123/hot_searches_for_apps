@@ -55,3 +55,5 @@
 
 + [小米 WiFi 7 路由器 BE3600 上架：四个千兆网口，预售 219 元](https://m.ithome.com/html/759609.htm)
 
++ [雷军：明天将举办小米汽车 SU7 首批交付仪式](https://m.ithome.com/html/759643.htm)
+
