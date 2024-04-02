@@ -105,3 +105,21 @@
 
 + [《潜水员戴夫》4月16日登陆PS4/5 首日加入PS+](https://www.3dmgame.com/news/202404/3891922.html)
 
++ [《星刃》15分钟地铁站及下水道关卡游玩演示](https://www.3dmgame.com/news/202404/3891931.html)
+
++ [《Keroro军曹》将推出20周年纪念全新动画作品](https://www.3dmgame.com/news/202404/3891930.html)
+
++ [任天堂员工新作《欧米茄 6：三角星域》确定发售日](https://www.3dmgame.com/news/202404/3891929.html)
+
++ [《流放者柯南》第四章上线 致命一击回归](https://www.3dmgame.com/news/202404/3891928.html)
+
++ [《机甲战士5：部落》GDC 2024 Demo预告片](https://www.3dmgame.com/news/202404/3891924.html)
+
++ [印度GTA《Project Madras》公开 探索印度文化](https://www.3dmgame.com/news/202404/3891927.html)
+
++ [奇幻动作冒险游戏《永恒之链》面向各平台公布](https://www.3dmgame.com/news/202404/3891926.html)
+
++ [《星刃》新预告片探讨女主角伊芙使命](https://www.3dmgame.com/news/202404/3891925.html)
+
++ [传言《寂静岭2：重制版》将在5月PS活动上展示](https://www.3dmgame.com/news/202404/3891923.html)
+
