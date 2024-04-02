@@ -61,3 +61,5 @@
 
 + [企业如何设计和实施有效的网络安全演练？](https://www.freebuf.com/news/396750.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+

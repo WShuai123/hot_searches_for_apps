@@ -133,3 +133,23 @@
 
 + [VenturePals](https://www.producthunt.com/posts/venturepals)
 
++ [Keywords AI](https://www.producthunt.com/posts/keywords-ai-2)
+
++ [HomeScore](https://www.producthunt.com/posts/homescore)
+
++ [DataSavvy.Chat](https://www.producthunt.com/posts/datasavvy-chat)
+
++ [Userflows 2.0](https://www.producthunt.com/posts/userflows-2-0)
+
++ [Gemini on Telegram](https://www.producthunt.com/posts/gemini-on-telegram)
+
++ [FLOW Speak Learning Pathways](https://www.producthunt.com/posts/flow-speak-learning-pathways)
+
++ [White Label AI Chatbot](https://www.producthunt.com/posts/white-label-ai-chatbot)
+
++ [Career Vault](https://www.producthunt.com/posts/career-vault)
+
++ [SnapSubscribe](https://www.producthunt.com/posts/snapsubscribe)
+
++ [Email Deliverability Booster](https://www.producthunt.com/posts/email-deliverability-booster)
+
