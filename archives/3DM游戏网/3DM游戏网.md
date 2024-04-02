@@ -177,3 +177,25 @@
 
 + [《俄罗斯方块99》联动《碧姬公主：表演时刻》 4月5日上线](https://www.3dmgame.com/news/202404/3891865.html)
 
++ [《剑与魔法与学园》周年纪念版4月26日登陆多平台](https://www.3dmgame.com/news/202404/3891880.html)
+
++ [《数码宝贝02最初的召唤》新预告及海报 4月20日上映](https://www.3dmgame.com/news/202404/3891882.html)
+
++ [《纳斯卡赛车》开发商剩余资金紧缺 系列未来成谜](https://www.3dmgame.com/news/202404/3891881.html)
+
++ [Steam Deck三月最热游戏榜 《星露谷物语》登顶](https://www.3dmgame.com/news/202404/3891879.html)
+
++ [《圣兽之王》全球销量突破50万份！公开荣誉宣传片以表庆贺](https://www.3dmgame.com/news/202404/3891878.html)
+
++ [日本玩家批评《浪人崛起》西方媒体打分太低 不了解当时的历史和文化](https://www.3dmgame.com/news/202404/3891877.html)
+
++ [华为申请飞行机器人专利 低空经济正高速发展](https://www.3dmgame.com/news/202404/3891876.html)
+
++ [《冲就完事模拟器》愚人节整活 宣布“污垢模式”](https://www.3dmgame.com/news/202404/3891875.html)
+
++ [蛮啾开放世界二游《蓝色星原：旅谣》PS5实机演示](https://www.3dmgame.com/news/202404/3891874.html)
+
++ [国风模拟经营游戏《天神镇》4月5日免费上线全新DLC“羽人国”](https://www.3dmgame.com/news/202404/3891873.html)
+
++ [阿里云全面推行AI写代码 未来20%代码由通义灵码编写](https://www.3dmgame.com/news/202404/3891872.html)
+

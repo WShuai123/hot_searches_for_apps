@@ -51,3 +51,7 @@
 
 + [自然资源部发布《自然资源领域数据安全管理办法》](https://www.freebuf.com/news/396689.html)
 
++ [Vultur 安卓银行木马“卷土重来”，新增远程控制功能](https://www.freebuf.com/news/396732.html)
+
++ [智能冰箱变身加密货币矿工，导致全球厨房崩溃](https://www.freebuf.com/news/396741.html)
+
