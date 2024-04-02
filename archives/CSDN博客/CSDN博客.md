@@ -129,3 +129,5 @@
 
 + [Linux系统Docker如何部署Nextcloud结合内网穿透实现公网访问本地资源？](https://blog.csdn.net/qq_25749749/article/details/137233297)
 
++ [linux：生产者消费者模型](https://blog.csdn.net/li209779/article/details/137166971)
+

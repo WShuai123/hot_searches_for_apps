@@ -45,3 +45,7 @@
 
 + [2023年跟踪软件状态：12%的人曾在伴侣手机上安装跟踪软件](https://www.freebuf.com/articles/paper/395070.html)
 
++ [渗透测试 | EDR绕过远程线程扫描指南](https://www.freebuf.com/articles/network/395859.html)
+
++ [FreeBuf 早报 | 攻击者利用选举窃取俄罗斯人信息；黑客针对macOS用户投放恶意广告](https://www.freebuf.com/news/396653.html)
+

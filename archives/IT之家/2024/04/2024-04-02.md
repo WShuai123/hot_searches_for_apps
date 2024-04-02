@@ -31,3 +31,9 @@
 
 + [小米王腾公布新十年 Redmi K、Turbo、Note、数字系列产品定位](https://m.ithome.com/html/759379.htm)
 
++ [国内星闪数字车钥匙标准发布，华为、比亚迪、长安、广汽、一汽等参与起草](https://m.ithome.com/html/759472.htm)
+
++ [比亚迪各车型 3 月销量明细出炉：秦、宋、元、海鸥等破 3 万辆，仰望 U8 1090 辆](https://m.ithome.com/html/759533.htm)
+
++ [华为 × 赛力斯：AITO 问界 3 月交付新车 31727 辆蝉联新势力品牌销冠，问界 M9 交付 6243 辆](https://m.ithome.com/html/759440.htm)
+
