@@ -25,3 +25,5 @@
 
 + [小米王腾回应 Redmi 为何推出新系列 Turbo：希望在中端档位开展旗舰性能普及旋风](https://m.ithome.com/html/759583.htm)
 
++ [小米 MIX Flip 折叠屏手机曝料：光影猎人 800 主摄 + 1.5K 屏幕](https://m.ithome.com/html/759668.htm)
+

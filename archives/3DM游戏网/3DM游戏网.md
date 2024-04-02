@@ -101,3 +101,7 @@
 
 + [《机动战士高达SEED FREEDOM》电影新剧照 恋人的眼泪](https://www.3dmgame.com/news/202404/3891866.html)
 
++ [农场模拟《无径之林》EA版上市预告 支持免费试玩](https://www.3dmgame.com/news/202404/3891921.html)
+
++ [《潜水员戴夫》4月16日登陆PS4/5 首日加入PS+](https://www.3dmgame.com/news/202404/3891922.html)
+
