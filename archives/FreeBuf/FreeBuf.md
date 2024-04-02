@@ -63,3 +63,5 @@
 
 + [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
 
++ [上海市财政局发布关于进一步加强本市数据资产管理的通知](https://www.freebuf.com/news/396818.html)
+

@@ -153,3 +153,7 @@
 
 + [MySQL中drop、truncate和delete的区别](https://blog.csdn.net/qq_58608526/article/details/137263253)
 
++ [大创项目推荐 深度学习 python opencv 动物识别与检测](https://blog.csdn.net/laafeer/article/details/137238130)
+
++ [Linux使用Docker部署StackEdit结合内网穿透实现公网访问本地编辑器](https://blog.csdn.net/m0_70980326/article/details/137236778)
+
