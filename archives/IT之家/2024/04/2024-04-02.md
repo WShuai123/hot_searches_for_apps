@@ -61,3 +61,7 @@
 
 + [小米 Redmi Turbo 3 手机跑分曝光：骁龙 8s Gen 3 芯片 + 16GB 内存](https://m.ithome.com/html/759622.htm)
 
++ [苹果：M3 芯片和 Wi-Fi 6E 让 2024 款 MacBook Air 成为完美旅行伴侣](https://m.ithome.com/html/759541.htm)
+
++ [绿联私有云承认更新节奏放缓：NAS 新品搭载全新操作系统，将公布老款产品支持升级计划](https://m.ithome.com/html/759607.htm)
+

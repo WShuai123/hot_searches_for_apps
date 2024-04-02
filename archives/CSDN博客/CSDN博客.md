@@ -167,3 +167,11 @@
 
 + [Docker部署Nexus Maven私服并且实现远程访问Nexus界面](https://blog.csdn.net/m0_68662723/article/details/137275527)
 
++ [爬个数据这么吃力？别慌，代理IP轻松解决跨境电商技术瓶颈](https://blog.csdn.net/guorui_java/article/details/137243963)
+
++ [【Spring】SpringBoot整合MybatisPlus的基本应用](https://blog.csdn.net/qq_61024956/article/details/137269800)
+
++ [springboot整合bboss 报 No qualifying bean of type ‘org.frameworkset.elasticsearch.boot.BBossESStarter](https://blog.csdn.net/weixin_43860634/article/details/137272309)
+
++ [《2023腾讯云容器和函数计算技术实践精选集》--在 K8s 上跑腾讯云 Serverless 函数，打破传统方式造就新变革](https://blog.csdn.net/CC1991_/article/details/137230637)
+
