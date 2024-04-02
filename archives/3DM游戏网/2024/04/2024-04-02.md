@@ -261,3 +261,5 @@
 
 + [国产仙诡MMO新游《代号：界》首爆预告 下半年开放测试](https://www.3dmgame.com/news/202404/3891905.html)
 
++ [OpenAI放开限制 ChatGPT无需注册即可使用](https://www.3dmgame.com/news/202404/3891914.html)
+

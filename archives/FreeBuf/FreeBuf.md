@@ -65,3 +65,5 @@
 
 + [上海市财政局发布关于进一步加强本市数据资产管理的通知](https://www.freebuf.com/news/396818.html)
 
++ [大模型安全的融合与挑战 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/396736.html)
+
