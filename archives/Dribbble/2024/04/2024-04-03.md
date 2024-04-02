@@ -67,3 +67,13 @@
 
 + [Foxtrot: Deliver Illustrations](https://dribbble.com/shots/)
 
++ [Love](https://dribbble.com/shots/)
+
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Rainy days & Mondays ☔️](https://dribbble.com/shots/)
+
++ [Shore House](https://dribbble.com/shots/)
+
