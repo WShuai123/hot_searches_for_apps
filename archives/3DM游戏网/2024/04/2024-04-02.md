@@ -201,3 +201,21 @@
 
 + [微软马上放弃Win10！Win11份额不升反降：你升级没？](https://www.3dmgame.com/news/202404/3891883.html)
 
++ [《Kenshi 2》升级为虚幻引擎5开发 初代游戏更新自由相机模式](https://www.3dmgame.com/news/202404/3891892.html)
+
++ [腾讯新仙剑《又见逍遥》终极预告 将于今晚开播](https://www.3dmgame.com/news/202404/3891891.html)
+
++ [《Incursion Red River》登陆Steam PvE合作战斗射击](https://www.3dmgame.com/news/202404/3891890.html)
+
++ [《铁拳8》粉丝强烈要求连锁餐厅松饼屋舞台 总监不解](https://www.3dmgame.com/news/202404/3891889.html)
+
++ [《星之后裔：吠陀骑士》Steam上线 玩家差评：换皮手游](https://www.3dmgame.com/news/202404/3891888.html)
+
++ [叙事游戏《哈罗德·哈利巴》全新实机 4月16日发售](https://www.3dmgame.com/news/202404/3891887.html)
+
++ [三位一体”少年版！《奇妙大作战》发布新中文宣传片](https://www.3dmgame.com/news/202404/3891886.html)
+
++ [拯救世界就靠种地！《远花》发布全新中文宣传片](https://www.3dmgame.com/news/202404/3891885.html)
+
++ [《生化危机2》高度疑似SFC版亮相 诡异玩法有模有样](https://www.3dmgame.com/news/202404/3891884.html)
+

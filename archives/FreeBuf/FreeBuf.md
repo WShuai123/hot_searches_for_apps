@@ -57,3 +57,7 @@
 
 + [漏洞挖掘 | 如何利用CDN升级你的XSS](https://www.freebuf.com/vuls/396433.html)
 
++ [Splunk Attack Range：一款针对Splunk安全的模拟测试环境创建工具](https://www.freebuf.com/sectool/392542.html)
+
++ [企业如何设计和实施有效的网络安全演练？](https://www.freebuf.com/news/396750.html)
+

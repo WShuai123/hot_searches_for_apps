@@ -47,3 +47,7 @@
 
 + [SU7 订单“火爆”，小米集团开盘大涨近 15％](https://m.ithome.com/html/759603.htm)
 
++ [苹果公司“过时”产品列表新增 iPhone 6 Plus 手机，iPad mini 4 平板归入“复古”行列](https://m.ithome.com/html/759525.htm)
+
++ [提车最长等待时间近 8 个月，消息称小米汽车 SU7 锁单达 4 万辆](https://m.ithome.com/html/759592.htm)
+

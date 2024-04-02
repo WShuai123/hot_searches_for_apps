@@ -143,3 +143,9 @@
 
 + [书籍推荐-Python数据分析教程-让工作自动化起来](https://blog.csdn.net/qq_35716689/article/details/137247073)
 
++ [4.机器学习-十大算法之一线性回归算法(LinearRegression)案例讲解](https://blog.csdn.net/weixin_50804299/article/details/136328878)
+
++ [【Entity Framework】EF中的增删改查](https://blog.csdn.net/songjianlong/article/details/137246013)
+
++ [（4）(4.5) Underwater Sonar (Analog)](https://blog.csdn.net/qq_20016593/article/details/137100576)
+
