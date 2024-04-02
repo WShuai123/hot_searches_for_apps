@@ -199,3 +199,5 @@
 
 + [阿里云全面推行AI写代码 未来20%代码由通义灵码编写](https://www.3dmgame.com/news/202404/3891872.html)
 
++ [微软马上放弃Win10！Win11份额不升反降：你升级没？](https://www.3dmgame.com/news/202404/3891883.html)
+

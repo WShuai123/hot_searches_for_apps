@@ -43,3 +43,5 @@
 
 + [华为余承东：问界 M9 产能爬坡，4 月有望交付 15000 台以上](https://m.ithome.com/html/759511.htm)
 
++ [OpenAI 宣布用户无需注册账号即可使用 ChatGPT，但有部分限制](https://m.ithome.com/html/759538.htm)
+

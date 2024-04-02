@@ -55,3 +55,5 @@
 
 + [智能冰箱变身加密货币矿工，导致全球厨房崩溃](https://www.freebuf.com/news/396741.html)
 
++ [漏洞挖掘 | 如何利用CDN升级你的XSS](https://www.freebuf.com/vuls/396433.html)
+
