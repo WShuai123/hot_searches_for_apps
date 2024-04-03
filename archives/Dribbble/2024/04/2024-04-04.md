@@ -49,3 +49,21 @@
 
 + [ilcons 3D](https://dribbble.com/shots/)
 
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Shore House](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [Sketch](https://dribbble.com/shots/)
+
++ [Let's burn out together!](https://dribbble.com/shots/)
+
++ [River Rocks (using AI)](https://dribbble.com/shots/)
+
++ [Valencia Design](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [besties!](https://dribbble.com/shots/)
+

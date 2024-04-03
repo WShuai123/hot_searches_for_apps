@@ -25,3 +25,7 @@
 
 + [AMD 发布锐龙 8000 系列嵌入式处理器：Zen 4 架构，集成 NPU](https://m.ithome.com/html/759758.htm)
 
++ [小米称将全力以赴提高汽车产能，充分动员供应链伙伴全力保供](https://m.ithome.com/html/759812.htm)
+
++ [24 期免息 + 赠 1 年延长保：小米 14 手机立减 300 元京东自营发车](https://m.ithome.com/html/759811.htm)
+

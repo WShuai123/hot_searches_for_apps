@@ -61,3 +61,7 @@
 
 + [【4K MMD】古灵精怪 究极奇美拉殿TETO「アイドル」SynthVカバー](http://www.acfun.cn/v/ac44213154)
 
++ [《被解救的帕鲁》](http://www.acfun.cn/v/ac44221733)
+
++ [我们这一路走来真的不容易.....(今日好笑开心视频：1403)](http://www.acfun.cn/v/ac44221450)
+
