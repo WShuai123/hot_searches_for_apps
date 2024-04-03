@@ -165,3 +165,33 @@
 
 + [《暗黑4》资料片《憎恨之躯》通过韩国评级 少儿不宜！](https://www.3dmgame.com/news/202404/3891948.html)
 
++ [恐怖解谜《班迪：机器的秘密》Steam页面上线 4月14日发售](https://www.3dmgame.com/news/202404/3891967.html)
+
++ [《厨房危机》登陆Steam 像素风厨房主题塔防](https://www.3dmgame.com/news/202404/3891966.html)
+
++ [《致命公司》推出“V50”更新测试 全新敌人和星球](https://www.3dmgame.com/news/202404/3891965.html)
+
++ [第三人称动作冒险游戏《Eternal Strands》Steam页面 发售日待定](https://www.3dmgame.com/news/202404/3891964.html)
+
++ [中式民俗恐怖冒险生存游戏《炭熄》首支预告片公布 探索阴间世界](https://www.3dmgame.com/news/202404/3891960.html)
+
++ [主机版《不朽者传奇》即将更新获得HDR和FSR 3支持](https://www.3dmgame.com/news/202404/3891963.html)
+
++ [《机甲战士5：部落》全新实机 未来登陆主机平台](https://www.3dmgame.com/news/202404/3891962.html)
+
++ [曝苹果iOS 17.5将引入新系统 可识别并禁用未知跟踪器](https://www.3dmgame.com/news/202404/3891961.html)
+
++ [《我的世界》愚人节更新引争议：比正常更新还好？](https://www.3dmgame.com/news/202404/3891959.html)
+
++ [回合制战术游戏《Dead Season》Steam页面上线 年内发售](https://www.3dmgame.com/news/202404/3891956.html)
+
++ [《Apex英雄》玩家反映出现账号重置问题 官方发布紧急更新](https://www.3dmgame.com/news/202404/3891955.html)
+
++ [《肌肉水族馆模拟器》上架Steam 看肌肉男放松心情](https://www.3dmgame.com/news/202404/3891954.html)
+
++ [首发免费送 《内容警告》Steam发布在线玩家达20万人](https://www.3dmgame.com/news/202404/3891953.html)
+
++ [Saber首次确认正开发《星球大战：旧共和国武士 重制版》：项目还活得好好的](https://www.3dmgame.com/news/202404/3891958.html)
+
++ [《上古卷轴OL》庆祝10周年 全平台免费试玩一周](https://www.3dmgame.com/news/202404/3891957.html)
+

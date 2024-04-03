@@ -137,3 +137,11 @@
 
 + [实验四 微信小程序智能手机互联网程序设计（微信程序方向）实验报告](https://blog.csdn.net/m0_64798714/article/details/137286855)
 
++ [深入云原生：解析 Docker 容器、Serverless 计算和微服务架构的实战应用](https://blog.csdn.net/dietime1943/article/details/137094957)
+
++ [最新AI智能系统ChatGPT网站源码V6.3版本，GPTs、AI绘画、AI换脸、垫图混图+（SparkAi系统搭建部署教程文档）](https://blog.csdn.net/weixin_43227851/article/details/137253437)
+
++ [【论文阅读】Transformer 论文逐段精读](https://blog.csdn.net/weixin_44606353/article/details/137251018)
+
++ [计算机网络-HTTP协议——沐雨先生](https://blog.csdn.net/qq_55376781/article/details/137225729)
+
