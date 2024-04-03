@@ -101,3 +101,5 @@
 
 + [首发免费送 《内容警告》Steam发布在线玩家达20万人](https://www.3dmgame.com/news/202404/3891953.html)
 
++ [清版射击《TriggerHeart EXELICA》4月登陆Steam 支持中文](https://www.3dmgame.com/news/202404/3892010.html)
+

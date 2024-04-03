@@ -205,3 +205,5 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [Angry Diary](https://itunes.apple.com/cn/app/id6480122683?mt=8)
+

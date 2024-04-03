@@ -101,3 +101,11 @@
 
 + [js实现websocket断线重连功能](https://blog.csdn.net/Qcg0223/article/details/137287120)
 
++ [4.机器学习-十大算法之一线性回归算法(LinearRegression)案例讲解](https://blog.csdn.net/weixin_50804299/article/details/136328878)
+
++ [Java 四大名著之一,豆瓣9.7，Java神作重磅上市](https://blog.csdn.net/shi_hong_fei_hei/article/details/137111064)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/137245427)
+
++ [网络安全（黑客）——2024自学](https://blog.csdn.net/S18374/article/details/137288375)
+
