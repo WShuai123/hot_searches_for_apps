@@ -215,3 +215,7 @@
 
 + [墨迹天气-看天气用墨迹](https://itunes.apple.com/cn/app/id434209233?mt=8)
 
++ [地震预警](https://itunes.apple.com/cn/app/id713947342?mt=8)
+
++ [地震预警-地震监测](https://itunes.apple.com/cn/app/id1632600559?mt=8)
+

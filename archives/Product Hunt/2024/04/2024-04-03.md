@@ -103,3 +103,23 @@
 
 + [Benchmark Your Org](https://www.producthunt.com/posts/benchmark-your-org)
 
++ [PunchClock](https://www.producthunt.com/posts/punchclock-2)
+
++ [Qwen 1.5 MoE](https://www.producthunt.com/posts/qwen-1-5-moe)
+
++ [Destructomath+](https://www.producthunt.com/posts/destructomath-3)
+
++ [Skillsboost](https://www.producthunt.com/posts/skillsboost)
+
++ [HS Code Scanner](https://www.producthunt.com/posts/hs-code-scanner)
+
++ [Build Social Skills with AI Voice Dates](https://www.producthunt.com/posts/build-social-skills-with-ai-voice-dates)
+
++ [College Souk](https://www.producthunt.com/posts/college-souk)
+
++ [Blinko for Figma & FigJam](https://www.producthunt.com/posts/blinko-for-figma-figjam)
+
++ [SongSens.ai](https://www.producthunt.com/posts/songsens-ai)
+
++ [Holihopper](https://www.producthunt.com/posts/holihopper)
+
