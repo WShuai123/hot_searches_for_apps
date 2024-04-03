@@ -39,3 +39,5 @@
 
 + [台湾地区发生 7.3 级地震，台积电部分厂区进行人员疏散](https://m.ithome.com/html/759781.htm)
 
++ [雷军：小米汽车 SU7 大定超 10 万辆，锁单超 4 万辆](https://m.ithome.com/html/759805.htm)
+

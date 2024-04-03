@@ -195,3 +195,7 @@
 
 + [《上古卷轴OL》庆祝10周年 全平台免费试玩一周](https://www.3dmgame.com/news/202404/3891957.html)
 
++ [《绝地潜兵2》悄悄更新两种新敌人：巨型四足机器人](https://www.3dmgame.com/news/202404/3891968.html)
+
++ [游戏显卡又要涨价了！上至RTX4060Ti 下至GTX1650](https://www.3dmgame.com/news/202404/3891969.html)
+
