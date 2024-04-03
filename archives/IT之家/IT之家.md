@@ -49,3 +49,5 @@
 
 + [（更新：首发价 599 元）华为 FreeLace Pro 2 耳机今日预售：USB-C 直连快充，续航 25 小时](https://m.ithome.com/html/759780.htm)
 
++ [小米称将全力以赴提高汽车产能，充分动员供应链伙伴全力保供](https://m.ithome.com/html/759812.htm)
+

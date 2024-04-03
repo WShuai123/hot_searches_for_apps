@@ -175,3 +175,11 @@
 
 + [（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE](https://blog.csdn.net/loki2018/article/details/137343194)
 
++ [Kubernetes（k8s）：部署、使用 metrics-server](https://blog.csdn.net/qq_41840843/article/details/137260468)
+
++ [网络安全 | 什么是DDoS攻击？](https://blog.csdn.net/Andya_net/article/details/137262818)
+
++ [网络原理 - HTTP / HTTPS(2)——http请求](https://blog.csdn.net/cool_tao6/article/details/137209490)
+
++ [IDEA无法连接虚拟机中的Redis的解决方案，无法连接Jedis，无法ping通虚拟机的解决方案](https://blog.csdn.net/m0_69519887/article/details/137239295)
+
