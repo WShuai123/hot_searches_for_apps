@@ -183,3 +183,5 @@
 
 + [IDEA无法连接虚拟机中的Redis的解决方案，无法连接Jedis，无法ping通虚拟机的解决方案](https://blog.csdn.net/m0_69519887/article/details/137239295)
 
++ [【AIGC调研系列】AIGC+Jmeter实现接口自动化测试脚本生成](https://blog.csdn.net/weixin_39648954/article/details/137278049)
+

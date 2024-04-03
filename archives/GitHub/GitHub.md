@@ -51,3 +51,31 @@
 
 + [agiresearch / AIOS](https://github.com/agiresearch/AIOS)
 
++ [amlweems / xzbot](https://github.com/amlweems/xzbot)
+
++ [AlexanderKoch-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+
++ [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [zyronon / douyin](https://github.com/zyronon/douyin)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [sympy / sympy](https://github.com/sympy/sympy)
+
++ [huggingface / cookbook](https://github.com/huggingface/cookbook)
+
++ [tiangolo / typer](https://github.com/tiangolo/typer)
+
++ [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [actions / runner-images](https://github.com/actions/runner-images)
+
++ [airbnb / javascript](https://github.com/airbnb/javascript)
+
++ [ansible / ansible](https://github.com/ansible/ansible)
+
++ [uptrace / bun](https://github.com/uptrace/bun)
+
++ [princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench)
+

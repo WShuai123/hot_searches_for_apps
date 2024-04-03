@@ -143,3 +143,7 @@
 
 + [HIPAA SmartChat Assistant](https://www.producthunt.com/posts/hipaa-smartchat-assistant)
 
++ [Kedra Live Chat & AI Chatbot](https://www.producthunt.com/posts/kedra-live-chat-ai-chatbot)
+
++ [Boost.space 3 - Two-way Data Sync](https://www.producthunt.com/posts/boost-space-3-two-way-data-sync)
+

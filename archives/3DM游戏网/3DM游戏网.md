@@ -245,3 +245,13 @@
 
 + [经典消除名作《合成大西瓜》将于4月中旬登陆安卓平台](https://www.3dmgame.com/news/202404/3891994.html)
 
++ [《赌场模拟器》Steam页面上线 第二季度发售](https://www.3dmgame.com/news/202404/3891995.html)
+
++ [女性向游戏品牌 GSE OTOME 及 YAORA 首次于4月6日在【乙女市集】登场！](https://www.3dmgame.com/news/202404/3891996.html)
+
++ [《极限竞速：地平线5》主播娱乐赛4月7日火热开赛！四位主播齐聚带你穿越侏罗纪！](https://www.3dmgame.com/news/202404/3891997.html)
+
++ [雷军称中国必有像特斯拉一样伟大公司 小米：玩命产SU7](https://www.3dmgame.com/news/202404/3891998.html)
+
++ [国内首次！阿里大文娱AI数字人“厘里”录制真人秀综艺](https://www.3dmgame.com/news/202404/3891999.html)
+
