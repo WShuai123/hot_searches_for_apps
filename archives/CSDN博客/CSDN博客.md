@@ -185,3 +185,5 @@
 
 + [【AIGC调研系列】AIGC+Jmeter实现接口自动化测试脚本生成](https://blog.csdn.net/weixin_39648954/article/details/137278049)
 
++ [【微服务框架】微服务简介](https://blog.csdn.net/m0_68089732/article/details/137204920)
+
