@@ -41,3 +41,5 @@
 
 + [雷军：小米汽车 SU7 大定超 10 万辆，锁单超 4 万辆](https://m.ithome.com/html/759805.htm)
 
++ [小米 120W 小布丁氮化镓充电器亮相，2024 年米粉节首发](https://m.ithome.com/html/759828.htm)
+

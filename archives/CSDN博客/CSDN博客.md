@@ -151,3 +151,11 @@
 
 + [菜鸟笔记-Python函数-zeros/identity/eye](https://blog.csdn.net/2202_75971130/article/details/137298077)
 
++ [【Redis】Could not connect to Redis at 127.0.0.1:6379: Connection refused not connected报错解决方案](https://blog.csdn.net/joeyoj/article/details/137204500)
+
++ [网络协议学习——HTTPS](https://blog.csdn.net/qq_41934502/article/details/137270348)
+
++ [大数据学习第十二天（hadoop概念）](https://blog.csdn.net/weixin_45787368/article/details/137276168)
+
++ [黑客（网络安全）技术自学——高效学习](https://blog.csdn.net/rjychg/article/details/137288382)
+
