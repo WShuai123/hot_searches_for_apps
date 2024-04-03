@@ -229,3 +229,15 @@
 
 + [《Rusty“s Retirement》4月26日登陆Steam 放置系种田](https://www.3dmgame.com/news/202404/3891982.html)
 
++ [国外网友吐槽《神鬼寓言4》女主为何那么丑？辣眼睛](https://www.3dmgame.com/news/202404/3891992.html)
+
++ [Xbox“丛林风暴”手柄国行版4月15日开售 定价499元](https://www.3dmgame.com/news/202404/3891991.html)
+
++ [英特尔将启动最大规模重组 目标2030年世界第二](https://www.3dmgame.com/news/202404/3891990.html)
+
++ [《落日山丘》将于今年暑期上线 登陆PC及Switch](https://www.3dmgame.com/news/202404/3891989.html)
+
++ [《星刃》总监：性感元素能增强吸引力 提高游戏销量](https://www.3dmgame.com/news/202404/3891988.html)
+
++ [本周Fami通游戏评分出炉 《龙之信条2》获32分](https://www.3dmgame.com/news/202404/3891987.html)
+

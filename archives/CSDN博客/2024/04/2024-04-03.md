@@ -171,3 +171,7 @@
 
 + [最新AI工具系统ChatGPT网站运营源码SparkAi系统V6.0版本，GPTs应用、AI绘画、AI换脸、垫图混图、Suno-v3-AI音乐生成大模型全支持](https://blog.csdn.net/2301_77931454/article/details/137290529)
 
++ [Docker、Kubernetes之间的区别](https://blog.csdn.net/weixin_44786530/article/details/137272778)
+
++ [（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE](https://blog.csdn.net/loki2018/article/details/137343194)
+

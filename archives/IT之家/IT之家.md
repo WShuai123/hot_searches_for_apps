@@ -47,3 +47,5 @@
 
 + [2024 款雷克萨斯 NX 车型上市，指导价 31.88 万元起](https://m.ithome.com/html/759719.htm)
 
++ [（更新：首发价 599 元）华为 FreeLace Pro 2 耳机今日预售：USB-C 直连快充，续航 25 小时](https://m.ithome.com/html/759780.htm)
+

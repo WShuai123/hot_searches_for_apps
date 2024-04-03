@@ -139,3 +139,7 @@
 
 + [Shopyflow](https://www.producthunt.com/posts/shopyflow)
 
++ [AITalk-AI Language Tutor](https://www.producthunt.com/posts/aitalk-ai-language-tutor)
+
++ [HIPAA SmartChat Assistant](https://www.producthunt.com/posts/hipaa-smartchat-assistant)
+
