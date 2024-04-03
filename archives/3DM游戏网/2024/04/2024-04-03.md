@@ -155,3 +155,13 @@
 
 + [《命运2》资料片“终焉之形”将在下周三展示](https://www.3dmgame.com/news/202404/3891935.html)
 
++ [《No Players Online》Steam上线 复古风格恐怖冒险](https://www.3dmgame.com/news/202404/3891951.html)
+
++ [《黑色洛城》和《恶霸鲁尼》将加入GTA+游戏库 会员免费畅玩](https://www.3dmgame.com/news/202404/3891949.html)
+
++ [特别好评《牧场模拟器》Steam销量超过100万部](https://www.3dmgame.com/news/202404/3891952.html)
+
++ [《流放之路》S25赛季“死寂亡城”4月3日重磅上线！预约降临版本还能抽取测试资格！](https://www.3dmgame.com/news/202404/3891950.html)
+
++ [《暗黑4》资料片《憎恨之躯》通过韩国评级 少儿不宜！](https://www.3dmgame.com/news/202404/3891948.html)
+
