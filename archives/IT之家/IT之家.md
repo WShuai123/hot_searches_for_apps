@@ -29,3 +29,5 @@
 
 + [24 期免息 + 赠 1 年延长保：小米 14 手机立减 300 元京东自营发车](https://m.ithome.com/html/759811.htm)
 
++ [小米 10、11 系列手机有望 4 月中旬更新澎湃 HyperOS 系统](https://m.ithome.com/html/759918.htm)
+
