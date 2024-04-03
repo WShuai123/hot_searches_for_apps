@@ -151,3 +151,15 @@
 
 + [Unofficial Product Hunt Chrome Plugin](https://www.producthunt.com/posts/unofficial-product-hunt-chrome-plugin)
 
++ [In-App Notification Center by SuprSend](https://www.producthunt.com/posts/in-app-notification-center-by-suprsend)
+
++ [Netlify Platform Primitives](https://www.producthunt.com/posts/netlify-platform-primitives)
+
++ [Openkoda](https://www.producthunt.com/posts/openkoda)
+
++ [Feehras](https://www.producthunt.com/posts/feehras)
+
++ [Rizz.AI](https://www.producthunt.com/posts/rizz-ai)
+
++ [CallStar](https://www.producthunt.com/posts/callstar)
+
