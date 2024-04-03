@@ -217,3 +217,15 @@
 
 + [《即刻离职》登陆Steam 肉鸽元素恶搞动作](https://www.3dmgame.com/news/202404/3891970.html)
 
++ [《黑神话：悟空》获2000万发行经费 国内玩家期待该作](https://www.3dmgame.com/news/202404/3891983.html)
+
++ [中国航天科工发布“谛听 S10” 工业级四足机器人](https://www.3dmgame.com/news/202404/3891984.html)
+
++ [Bungie将于4月10日公开《命运2：终焉之形》实机预告](https://www.3dmgame.com/news/202404/3891986.html)
+
++ [美剧《辐射》最新预告 4月12日正式发售](https://www.3dmgame.com/news/202404/3891979.html)
+
++ [城市建造游戏《蒸汽世界：建造》全新DLC“Mechanized”公布 4月4日发售](https://www.3dmgame.com/news/202404/3891980.html)
+
++ [《Rusty“s Retirement》4月26日登陆Steam 放置系种田](https://www.3dmgame.com/news/202404/3891982.html)
+

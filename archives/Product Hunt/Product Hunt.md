@@ -123,3 +123,19 @@
 
 + [Holihopper](https://www.producthunt.com/posts/holihopper)
 
++ [In-App Notification Center](https://www.producthunt.com/posts/in-app-notification-center)
+
++ [Storipress Prophet](https://www.producthunt.com/posts/storipress-prophet)
+
++ [2K](https://www.producthunt.com/posts/2k)
+
++ [Netlify Platform Primtives](https://www.producthunt.com/posts/netlify-platform-primtives)
+
++ [Nas.io Challenges & Competitions](https://www.producthunt.com/posts/nas-io-challenges-competitions)
+
++ [Readouts](https://www.producthunt.com/posts/readouts)
+
++ [Potion](https://www.producthunt.com/posts/potion-4)
+
++ [Shopyflow](https://www.producthunt.com/posts/shopyflow)
+
