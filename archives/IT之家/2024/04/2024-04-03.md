@@ -27,3 +27,7 @@
 
 + [小米 MIX Flip 折叠屏手机曝料：光影猎人 800 主摄 + 1.5K 屏幕](https://m.ithome.com/html/759668.htm)
 
++ [小米回应 SU7 面临退订能否加速交付：已处于爆单状态，按锁单顺序交车](https://m.ithome.com/html/759759.htm)
+
++ [OPPO Find 系列手机官方降价：X7 Ultra 直降最高 500 元、N3 直降最高 2000 元](https://m.ithome.com/html/759692.htm)
+

@@ -123,3 +123,5 @@
 
 + [传言《寂静岭2：重制版》将在5月PS活动上展示](https://www.3dmgame.com/news/202404/3891923.html)
 
++ [《艾尔登法环》DLC被ESRB评为成人级 可惜没透露新信息](https://www.3dmgame.com/news/202404/3891932.html)
+
