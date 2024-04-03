@@ -103,3 +103,5 @@
 
 + [清版射击《TriggerHeart EXELICA》4月登陆Steam 支持中文](https://www.3dmgame.com/news/202404/3892010.html)
 
++ [类塞尔达梦见岛新作《Castaway》上架Steam](https://www.3dmgame.com/news/202404/3892011.html)
+

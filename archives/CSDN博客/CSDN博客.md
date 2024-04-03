@@ -131,3 +131,5 @@
 
 + [亮数据Bright Data，引领高效数据采集新体验](https://blog.csdn.net/chenlycly/article/details/137222928)
 
++ [4.2学习总结](https://blog.csdn.net/sin1810335764/article/details/137289111)
+

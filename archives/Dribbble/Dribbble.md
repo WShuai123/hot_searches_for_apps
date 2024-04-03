@@ -85,3 +85,7 @@
 
 + [Nomint logotype design concept](https://dribbble.com/shots/)
 
++ [New moves ✍️](https://dribbble.com/shots/)
+
++ [American Sasquatch](https://dribbble.com/shots/)
+
