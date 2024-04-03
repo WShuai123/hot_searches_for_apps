@@ -257,3 +257,15 @@
 
 + [英伟达2023 Q4销售额飙升23% 成为全球最大的半导体供应商](https://www.3dmgame.com/news/202404/3892000.html)
 
++ [《Kamaeru：青蛙避难所》登陆NS和Steam 支持试玩](https://www.3dmgame.com/news/202404/3892006.html)
+
++ [老《蜘蛛侠》三部曲导演想执导《复仇者联盟6》](https://www.3dmgame.com/news/202404/3892004.html)
+
++ [美国白宫命令NASA为月球制定时间标准](https://www.3dmgame.com/news/202404/3892005.html)
+
++ [《无人深空》Steam口碑好转 总体好评率接近80%](https://www.3dmgame.com/news/202404/3892003.html)
+
++ [油腻师姐很醒目 《星刃》巨幅广告惊现中国香港街头](https://www.3dmgame.com/news/202404/3892001.html)
+
++ [高算力显卡管控力度加强 RTX 4090 D可能也要受影响](https://www.3dmgame.com/news/202404/3892002.html)
+
