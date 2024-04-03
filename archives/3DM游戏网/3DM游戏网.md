@@ -125,3 +125,33 @@
 
 + [《艾尔登法环》DLC被ESRB评为成人级 可惜没透露新信息](https://www.3dmgame.com/news/202404/3891932.html)
 
++ [《Runa》Steam页面上线 4月16日开启众筹](https://www.3dmgame.com/news/202404/3891946.html)
+
++ [《糟糕！他们太爱我了怎么办？》Steam版发售 售14.4元](https://www.3dmgame.com/news/202404/3891945.html)
+
++ [中式悬疑剧情解谜游戏 《喜丧》4月11日发售](https://www.3dmgame.com/news/202404/3891944.html)
+
++ [传闻：《波斯王子》新作年内发布 《死亡细胞》开发商制作将登陆Steam](https://www.3dmgame.com/news/202404/3891943.html)
+
++ [拳头与沐瞳就《英雄联盟》IP侵权诉讼已达成和解](https://www.3dmgame.com/news/202404/3891947.html)
+
++ [数据显示：PC和主机游戏市场2023年增长3%](https://www.3dmgame.com/news/202404/3891942.html)
+
++ [《血源卡丁车》改名《梦魇卡丁车》合法化 5月免费登陆PC](https://www.3dmgame.com/news/202404/3891941.html)
+
++ [《小丑2》新海报发布 小丑和小丑女翩翩起舞](https://www.3dmgame.com/news/202404/3891940.html)
+
++ [FTC否决将“刷脸”作为年龄验证方式：保护未成年人隐私](https://www.3dmgame.com/news/202404/3891938.html)
+
++ [《夜族崛起》定价将永涨15美元 4月5日起实施](https://www.3dmgame.com/news/202404/3891939.html)
+
++ [《Jump Ship》Steam页面上线 第一人称PVE合作FPS](https://www.3dmgame.com/news/202404/3891937.html)
+
++ [暴雪：我们没有在《魔兽世界》中使用生成式AI](https://www.3dmgame.com/news/202404/3891934.html)
+
++ [微软开发Xbox AI聊天机器人 欲全面取代人工客服](https://www.3dmgame.com/news/202404/3891933.html)
+
++ [《星刃》工作室正开发次世代新作 3A都市科幻动作RPG](https://www.3dmgame.com/news/202404/3891936.html)
+
++ [《命运2》资料片“终焉之形”将在下周三展示](https://www.3dmgame.com/news/202404/3891935.html)
+

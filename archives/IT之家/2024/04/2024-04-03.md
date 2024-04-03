@@ -31,3 +31,7 @@
 
 + [OPPO Find 系列手机官方降价：X7 Ultra 直降最高 500 元、N3 直降最高 2000 元](https://m.ithome.com/html/759692.htm)
 
++ [雷军：从今天开始小米正式成为一家车厂，将亲自交付首批 SU7](https://m.ithome.com/html/759776.htm)
+
++ [华为股东齐分 771 亿元股利，2023 年净利润 870 亿元同比增长 144.38%](https://m.ithome.com/html/759747.htm)
+
