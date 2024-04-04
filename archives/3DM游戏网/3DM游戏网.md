@@ -119,3 +119,11 @@
 
 + [育碧前瞻会2024将于6月11日举行](https://www.3dmgame.com/news/202404/3892013.html)
 
++ [iPadOS 17.5泄天机：电池健康状态将上线iPad](https://www.3dmgame.com/news/202404/3892020.html)
+
++ [樱井政博与原田胜弘和吉田直树约饭：晒出三人合影](https://www.3dmgame.com/news/202404/3892022.html)
+
++ [《杀戮空间3》Cyst怪物预告 发售日待定](https://www.3dmgame.com/news/202404/3892021.html)
+
++ [任天堂新专利曝光：NS底座线缆方向来回换](https://www.3dmgame.com/news/202404/3892019.html)
+
