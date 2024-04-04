@@ -109,3 +109,11 @@
 
 + [Fami通新一周销量排行榜 《碧姬公主 表演时刻！》二连冠](https://www.3dmgame.com/news/202404/3892058.html)
 
++ [PS5《盗贼之海》支持进度继承 专用服务器确认](https://www.3dmgame.com/news/202404/3892064.html)
+
++ [传闻《战争机器6》将于今年夏天公布](https://www.3dmgame.com/news/202404/3892065.html)
+
++ [《星刃》将在发行后更新中获得新游戏+和新服装](https://www.3dmgame.com/news/202404/3892063.html)
+
++ [雅达利获得《过山车大亨3》版权 支付700万美元](https://www.3dmgame.com/news/202404/3892062.html)
+
