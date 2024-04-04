@@ -161,3 +161,9 @@
 
 + [基于单片机电池充电智能监测系统仿真设计](https://blog.csdn.net/2201_75940997/article/details/137342711)
 
++ [【热门话题】文言一心与ChatGPT-4：一场跨时代智能对话系统的深度比较](https://blog.csdn.net/qq_44214428/article/details/137354071)
+
++ [用QT调用FFMPEG的接口](https://blog.csdn.net/duwufeng/article/details/136452691)
+
++ [文献学习-25-综合学习和适应性教学：用于病理性胶质瘤分级的多模态知识蒸馏](https://blog.csdn.net/Metaphysicist/article/details/137256137)
+

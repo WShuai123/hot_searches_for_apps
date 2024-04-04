@@ -49,3 +49,7 @@
 
 + [16G+512G 款 2239 元：Redmi K60 至尊版京东百亿补贴](https://m.ithome.com/html/760002.htm)
 
++ [苹果 iPhone 16“全家福”机模曝光：新增拍照按钮，标准版配垂直相机岛](https://m.ithome.com/html/760022.htm)
+
++ [微软 Copilot 实体按键原理曝光，按下触发左 Shift + 左 Windows 键 + F23 三键组合](https://m.ithome.com/html/759937.htm)
+

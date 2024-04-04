@@ -155,3 +155,13 @@
 
 + [任天堂调查问卷想知道玩家对《马里奥》游戏的看法](https://www.3dmgame.com/news/202404/3892036.html)
 
++ [ID@Xbox正在加大投入 全力寻找优秀独立游戏开发者](https://www.3dmgame.com/news/202404/3892041.html)
+
++ [育碧新作《星球大战：法外狂徒》在巴西获得评级](https://www.3dmgame.com/news/202404/3892040.html)
+
++ [《自杀小队：消灭正义联盟》玩家发现快速升满通行证等级技巧](https://www.3dmgame.com/news/202404/3892039.html)
+
++ [《草木人间》豆瓣开分7.3分 网友：故事割裂人设浮夸](https://www.3dmgame.com/news/202404/3892038.html)
+
++ [我国自主HH-100航空商用无人机试验成功 能飞520千米](https://www.3dmgame.com/news/202404/3892037.html)
+
