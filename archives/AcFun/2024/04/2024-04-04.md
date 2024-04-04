@@ -125,3 +125,7 @@
 
 + [[采样包编曲] 你的钢门比较……Dubstep？ [AI不使用]](http://www.acfun.cn/v/ac44218520)
 
++ [【快乐17】TD娘啊 快跟上](http://www.acfun.cn/v/ac44221843)
+
++ [日式校园青春片不一定都是纯爱，也可以如此生猛](http://www.acfun.cn/v/ac44229334)
+
