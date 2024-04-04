@@ -77,3 +77,9 @@
 
 + [糟糕，我被资本家包围了？！](http://www.acfun.cn/v/ac44221561)
 
++ [【清明雨上 ｜戏腔版】把你最爱的歌来轻轻唱](http://www.acfun.cn/v/ac44222563)
+
++ [【自翻】Chiikawa第153话「睡衣派对10」ちいかわ](http://www.acfun.cn/v/ac44221337)
+
++ [4月新游来啦~12款热门新游推荐【steam新游推荐】](http://www.acfun.cn/v/ac44221509)
+

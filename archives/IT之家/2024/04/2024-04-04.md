@@ -39,3 +39,7 @@
 
 + [特斯拉首次推出“0 利息”分期购车金融政策](https://m.ithome.com/html/759946.htm)
 
++ [台积电：地震疏散员工开始陆续回到工作岗位](https://m.ithome.com/html/759826.htm)
+
++ [小米汽车供应商纵目科技借势 IPO：主打 4D 雷达，融资 22 亿，雷军造车后同步押注](https://m.ithome.com/html/759886.htm)
+
