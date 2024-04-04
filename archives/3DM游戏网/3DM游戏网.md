@@ -151,3 +151,7 @@
 
 + [SK海力士拟投资近40亿美元 建设其首家美国芯片工厂](https://www.3dmgame.com/news/202404/3892032.html)
 
++ [家园VR游戏《Homeworld: Vast Reaches》预告 登陆Quest2、3平台](https://www.3dmgame.com/news/202404/3892035.html)
+
++ [任天堂调查问卷想知道玩家对《马里奥》游戏的看法](https://www.3dmgame.com/news/202404/3892036.html)
+

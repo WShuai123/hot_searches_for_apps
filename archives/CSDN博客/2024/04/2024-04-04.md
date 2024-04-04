@@ -157,3 +157,7 @@
 
 + [网络层IP协议和数据链路层--理解NAT/NAPT路由技术](https://blog.csdn.net/weixin_73470348/article/details/136859144)
 
++ [探索设计模式的魅力：揭秘B/S模式在AI大模型时代的蜕变与进化](https://blog.csdn.net/danci_/article/details/137368961)
+
++ [基于单片机电池充电智能监测系统仿真设计](https://blog.csdn.net/2201_75940997/article/details/137342711)
+

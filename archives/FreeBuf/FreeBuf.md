@@ -47,3 +47,5 @@
 
 + [挖矿病毒持续活跃，通过 ssh “强行” 登录](https://www.freebuf.com/articles/paper/396688.html)
 
++ [如何使用Pandora从密码管理工具中提取有效凭证](https://www.freebuf.com/sectool/392621.html)
+

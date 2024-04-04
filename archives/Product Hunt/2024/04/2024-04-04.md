@@ -105,3 +105,29 @@
 
 + [BulkApply](https://www.producthunt.com/posts/bulkapply)
 
++ [Brave Leo on iOS](https://www.producthunt.com/posts/brave-leo-on-ios)
+
++ [Journals on Retro](https://www.producthunt.com/posts/journals-on-retro)
+
++ [Stable Audio 2.0](https://www.producthunt.com/posts/stable-audio-2-0)
+
++ [Waycup](https://www.producthunt.com/posts/waycup)
+
++ [StoryGenius](https://www.producthunt.com/posts/storygenius)
+
++ [DEX](https://www.producthunt.com/posts/dex-2)
+
++ [Eververse](https://www.producthunt.com/posts/eververse)
+
++ [Metaforms AI](https://www.producthunt.com/posts/metaforms-ai)
+
++ [Sheetgo forms](https://www.producthunt.com/posts/sheetgo-forms)
+
++ [teamship](https://www.producthunt.com/posts/teamship)
+
++ [Airdrop Tracker](https://www.producthunt.com/posts/airdrop-tracker)
+
++ [Hall](https://www.producthunt.com/posts/hall-2)
+
++ [Noctie](https://www.producthunt.com/posts/noctie)
+
