@@ -133,3 +133,7 @@
 
 + [4.2学习总结](https://blog.csdn.net/sin1810335764/article/details/137289111)
 
++ [【Linux】详解动静态库的制作和使用&&动静态库在系统中的配置步骤](https://blog.csdn.net/m0_74265792/article/details/137245627)
+
++ [华为ensp中ospf多区域管理 原理及配置命令（详解）](https://blog.csdn.net/jxjdhdnd/article/details/137227559)
+

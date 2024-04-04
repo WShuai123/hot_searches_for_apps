@@ -41,3 +41,5 @@
 
 + [自然资源部发布《自然资源领域数据安全管理办法》](https://www.freebuf.com/news/396689.html)
 
++ [Konni组织针对虚拟货币行业投递AutoIt恶意软件](https://www.freebuf.com/articles/paper/395900.html)
+
