@@ -185,3 +185,5 @@
 
 + [《沙加：Emerald Beyond》新预告 4月25日发售](https://www.3dmgame.com/news/202404/3892043.html)
 
++ [近万台龙芯中科电脑进入鹤壁中小学 预装UOS操作系统](https://www.3dmgame.com/news/202404/3892052.html)
+

@@ -65,3 +65,9 @@
 
 + [蔚来 150kWh 电池包下线：计划今年 2 季度上线，续航超 1000 公里](https://m.ithome.com/html/760018.htm)
 
++ [弱智吧竟成最佳中文 AI 训练数据？中科院等：8 项测试第一，远超知乎豆瓣小红书](https://m.ithome.com/html/760036.htm)
+
++ [大疆也开卷，15 万车型标配城市 NOA！激光雷达和摄像头二合一](https://m.ithome.com/html/760033.htm)
+
++ [小米推出米家电水壶 S1：316L 食品级不锈钢，129 元](https://m.ithome.com/html/760040.htm)
+
