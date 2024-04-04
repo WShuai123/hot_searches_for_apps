@@ -167,3 +167,21 @@
 
 + [Gearbox发表声明澄清：近期裁员与游戏开发部门无关](https://www.3dmgame.com/news/202404/3892042.html)
 
++ [玩家发起活动呼吁游戏公司不要再杀死自己的作品了](https://www.3dmgame.com/news/202404/3892050.html)
+
++ [老对手回归 《泰坦之旅2》开发商介绍鱼人部队构成](https://www.3dmgame.com/news/202404/3892051.html)
+
++ [《好想告诉你》第3季正式预告 今年8月上线](https://www.3dmgame.com/news/202404/3892048.html)
+
++ [乔纳森·诺兰沉迷《辐射3》 导致《黑暗骑士崛起》被推迟](https://www.3dmgame.com/news/202404/3892049.html)
+
++ [测试服玩家称《暗黑破坏神4》第四赛季值得期待](https://www.3dmgame.com/news/202404/3892047.html)
+
++ [Steam Deck限量版外壳开裂 客服应对方案不够一致](https://www.3dmgame.com/news/202404/3892046.html)
+
++ [高玩用萨克斯无伤击败所有《艾尔登法环》主要Boss](https://www.3dmgame.com/news/202404/3892045.html)
+
++ [报告显示SSD价格飙升近30％！这趋势根本停不下来](https://www.3dmgame.com/news/202404/3892044.html)
+
++ [《沙加：Emerald Beyond》新预告 4月25日发售](https://www.3dmgame.com/news/202404/3892043.html)
+

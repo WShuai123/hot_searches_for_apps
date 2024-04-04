@@ -57,3 +57,7 @@
 
 + [TP-LINK 发布 7DR5150 Wi-Fi 7 无线路由器：内置天线设计、2.5G 网口](https://m.ithome.com/html/759940.htm)
 
++ [网友质疑地震预警 App iOS 版收费，官方称与苹果达成了相关协议](https://m.ithome.com/html/760048.htm)
+
++ [比亚迪首款皮卡“官方谍照”曝光，面向全球市场 / 年内发布](https://m.ithome.com/html/760023.htm)
+
