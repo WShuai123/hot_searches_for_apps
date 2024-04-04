@@ -53,3 +53,7 @@
 
 + [微软 Copilot 实体按键原理曝光，按下触发左 Shift + 左 Windows 键 + F23 三键组合](https://m.ithome.com/html/759937.htm)
 
++ [保时捷召回 7 辆进口 Panamera 汽车，将为用户免费更换右前车轮支架](https://m.ithome.com/html/759899.htm)
+
++ [TP-LINK 发布 7DR5150 Wi-Fi 7 无线路由器：内置天线设计、2.5G 网口](https://m.ithome.com/html/759940.htm)
+

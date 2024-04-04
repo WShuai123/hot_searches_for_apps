@@ -103,3 +103,11 @@
 
 + [Billy's Hamburger Sticker](https://dribbble.com/shots/)
 
++ [Analog Pattern](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Portraits of Hue: Illustrated Artist Tributes](https://dribbble.com/shots/)
+
++ [Bento Scape | 7 | TREES](https://dribbble.com/shots/)
+

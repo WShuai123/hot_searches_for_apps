@@ -165,3 +165,5 @@
 
 + [我国自主HH-100航空商用无人机试验成功 能飞520千米](https://www.3dmgame.com/news/202404/3892037.html)
 
++ [Gearbox发表声明澄清：近期裁员与游戏开发部门无关](https://www.3dmgame.com/news/202404/3892042.html)
+

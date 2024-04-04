@@ -167,3 +167,13 @@
 
 + [文献学习-25-综合学习和适应性教学：用于病理性胶质瘤分级的多模态知识蒸馏](https://blog.csdn.net/Metaphysicist/article/details/137256137)
 
++ [【Rust】——生命周期](https://blog.csdn.net/shsjssnn/article/details/136372569)
+
++ [【机器学习】K-近邻算法（KNN）介绍、应用及文本分类实现](https://blog.csdn.net/qq_38614074/article/details/137352174)
+
++ [文献学习-26-用于疾病诊断的低秩多模态知识的梯度调制对比蒸馏](https://blog.csdn.net/Metaphysicist/article/details/137370071)
+
++ [【预处理详解】](https://blog.csdn.net/m0_63715738/article/details/137359675)
+
++ [Raven：一款功能强大的CICD安全分析工具](https://blog.csdn.net/FreeBuf_/article/details/137354175)
+
