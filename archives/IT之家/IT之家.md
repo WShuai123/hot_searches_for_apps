@@ -31,3 +31,9 @@
 
 + [小米 10、11 系列手机有望 4 月中旬更新澎湃 HyperOS 系统](https://m.ithome.com/html/759918.htm)
 
++ [消息称台积电 N3 工厂遭结构性损坏，苹果芯片生产线受严重影响](https://m.ithome.com/html/759955.htm)
+
++ [近万台龙芯 3A5000 电脑进入鹤壁中小学课堂，预装 UOS 操作系统、WPS 办公软件](https://m.ithome.com/html/759835.htm)
+
++ [马斯克回应特斯拉 Q1 销量大跌：比亚迪也跌了，这一季对谁来说都很难](https://m.ithome.com/html/759883.htm)
+

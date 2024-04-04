@@ -107,3 +107,15 @@
 
 + [《黑客帝国》第五部电影制作中 《火星救援》编剧执导](https://www.3dmgame.com/news/202404/3892012.html)
 
++ [不用等六年？《空洞骑士：丝之歌》在韩国获得评级](https://www.3dmgame.com/news/202404/3892018.html)
+
++ [英伟达DLSS更新至3.7.0 引入新预设提升画面品质](https://www.3dmgame.com/news/202404/3892017.html)
+
++ [雅达利收购经典经营模拟游戏《过山车大亨3》发行权](https://www.3dmgame.com/news/202404/3892016.html)
+
++ [Unity停止支持Ziva支持 已将技术许可授权出售](https://www.3dmgame.com/news/202404/3892015.html)
+
++ [《铁拳》制作人：年轻人更喜欢团队游戏 输了就能甩锅](https://www.3dmgame.com/news/202404/3892014.html)
+
++ [育碧前瞻会2024将于6月11日举行](https://www.3dmgame.com/news/202404/3892013.html)
+
