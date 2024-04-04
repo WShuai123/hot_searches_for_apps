@@ -147,3 +147,9 @@
 
 + [第十二篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作Word](https://blog.csdn.net/jackchuanqi/article/details/137250134)
 
++ [Kubernetes（k8s）：如何进行 Kubernetes 集群健康检查？](https://blog.csdn.net/qq_41840843/article/details/137250961)
+
++ [神经网络与深度学习（二）](https://blog.csdn.net/baidu_41944641/article/details/137236000)
+
++ [【智能算法】蜜獾算法（HBA）原理及实现](https://blog.csdn.net/Logic_9527/article/details/137269024)
+

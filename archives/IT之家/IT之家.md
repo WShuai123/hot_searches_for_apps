@@ -43,3 +43,7 @@
 
 + [小米汽车供应商纵目科技借势 IPO：主打 4D 雷达，融资 22 亿，雷军造车后同步押注](https://m.ithome.com/html/759886.htm)
 
++ [欧洲 iPhone 安装第三方应用商店初体验：需经历十多次屏幕交互](https://m.ithome.com/html/759984.htm)
+
++ [世界首块，太蓝新能源推出车规级 720Wh/kg 体型化全固态电池](https://m.ithome.com/html/759958.htm)
+
