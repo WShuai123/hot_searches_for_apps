@@ -47,3 +47,5 @@
 
 + [世界首块，太蓝新能源推出车规级 720Wh/kg 体型化全固态电池](https://m.ithome.com/html/759958.htm)
 
++ [16G+512G 款 2239 元：Redmi K60 至尊版京东百亿补贴](https://m.ithome.com/html/760002.htm)
+

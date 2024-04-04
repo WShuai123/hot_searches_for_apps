@@ -153,3 +153,7 @@
 
 + [【智能算法】蜜獾算法（HBA）原理及实现](https://blog.csdn.net/Logic_9527/article/details/137269024)
 
++ [【研发日记】白话解读UDS协议(一)——19 04读取快照服务](https://blog.csdn.net/CSSUST/article/details/137369195)
+
++ [网络层IP协议和数据链路层--理解NAT/NAPT路由技术](https://blog.csdn.net/weixin_73470348/article/details/136859144)
+

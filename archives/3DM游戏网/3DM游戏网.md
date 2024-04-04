@@ -145,3 +145,9 @@
 
 + [合作恐怖《内容警告》更新 添加音频播放器和记者麦](https://www.3dmgame.com/news/202404/3892023.html)
 
++ [《暴走次元海王星vs巨神史莱犬》6月27日发售](https://www.3dmgame.com/news/202404/3892034.html)
+
++ [《食魂徒》将下架 《食魂徒 百花妖乱》4月18日发售](https://www.3dmgame.com/news/202404/3892033.html)
+
++ [SK海力士拟投资近40亿美元 建设其首家美国芯片工厂](https://www.3dmgame.com/news/202404/3892032.html)
+
