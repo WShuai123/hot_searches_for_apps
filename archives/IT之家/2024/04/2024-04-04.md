@@ -61,3 +61,7 @@
 
 + [比亚迪首款皮卡“官方谍照”曝光，面向全球市场 / 年内发布](https://m.ithome.com/html/760023.htm)
 
++ [TP-LINK 推出 BE3600 Wi-Fi 7 AP 面板：2.5G 网口、PoE 供电](https://m.ithome.com/html/759972.htm)
+
++ [蔚来 150kWh 电池包下线：计划今年 2 季度上线，续航超 1000 公里](https://m.ithome.com/html/760018.htm)
+

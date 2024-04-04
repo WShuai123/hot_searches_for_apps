@@ -51,3 +51,35 @@
 
 + [princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench)
 
++ [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+
++ [netease-youdao / QAnything](https://github.com/netease-youdao/QAnything)
+
++ [intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm)
+
++ [usebruno / bruno](https://github.com/usebruno/bruno)
+
++ [rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs)
+
++ [HardhatChad / ore](https://github.com/HardhatChad/ore)
+
++ [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+
++ [ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
+
++ [PKUFlyingPig / cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [atherosai / ui](https://github.com/atherosai/ui)
+
++ [gethomepage / homepage](https://github.com/gethomepage/homepage)
+
++ [OneUptime / oneuptime](https://github.com/OneUptime/oneuptime)
+
++ [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [apache / superset](https://github.com/apache/superset)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+

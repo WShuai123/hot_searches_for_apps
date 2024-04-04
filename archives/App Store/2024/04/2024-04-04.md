@@ -217,3 +217,7 @@
 
 + [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
 
++ [轻颜 - 记录美一刻](https://itunes.apple.com/cn/app/id1375390276?mt=8)
+
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+
