@@ -155,3 +155,5 @@
 
 + [Whirr](https://www.producthunt.com/posts/whirr)
 
++ [CLIP Bike](https://www.producthunt.com/posts/clip-bike)
+

@@ -75,3 +75,5 @@
 
 + [小米米家空调巨省电 Pro 1.5 匹预售：号称全年可省 361 度电，到手 2399 元](https://m.ithome.com/html/760025.htm)
 
++ [小米汽车回应 SU7 实测 AEB 刹停速度不达标：首批交付车型限制 130km/h，后续 OTA 更新支持 135km/h](https://m.ithome.com/html/760081.htm)
+
