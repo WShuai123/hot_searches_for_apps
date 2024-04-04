@@ -137,3 +137,5 @@
 
 + [（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE](https://blog.csdn.net/loki2018/article/details/137343194)
 
++ [30天拿下Rust之网络编程](https://blog.csdn.net/hope_wisdom/article/details/137201668)
+
