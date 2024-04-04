@@ -135,3 +135,5 @@
 
 + [【论文阅读笔记】SAM-Adapter: Adapting Segment Anything in Underperformed Scenes](https://blog.csdn.net/qq_46056318/article/details/137277512)
 
++ [（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE](https://blog.csdn.net/loki2018/article/details/137343194)
+
