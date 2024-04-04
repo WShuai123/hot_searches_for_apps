@@ -49,3 +49,17 @@
 
 + [KAWAII City](https://dribbble.com/shots/)
 
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+
++ [Cosmic Chaos](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
++ [Nature Workspace](https://dribbble.com/shots/)
+
++ [Skateboarding Spot Illustrations](https://dribbble.com/shots/)
+
++ [Zelky's Beach Arcade](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+

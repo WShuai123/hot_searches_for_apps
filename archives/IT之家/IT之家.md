@@ -25,3 +25,5 @@
 
 + [小米米家空调巨省电 Pro 1.5 匹预售：号称全年可省 361 度电，到手 2399 元](https://m.ithome.com/html/760025.htm)
 
++ [消息称小米 Redmi K80 手机全系 2K 护眼直屏，回归 5500mAh 电池](https://m.ithome.com/html/760083.htm)
+

@@ -201,3 +201,11 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [可颂](https://itunes.apple.com/cn/app/id6479338276?mt=8)
+
++ [乐播投屏-亿万用户必备的无线投屏助手](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [快影-创作有趣的视频](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+

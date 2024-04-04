@@ -101,3 +101,11 @@
 
 + [《死亡细胞》工作室新作《风中行者》玩法预告 年内发售](https://www.3dmgame.com/news/202404/3892007.html)
 
++ [《地狱之刃2》仅在PC上支持60帧 效果出色](https://www.3dmgame.com/news/202404/3892061.html)
+
++ [Epic喜加一：《天外世界：太空人之选》和《神偷》免费](https://www.3dmgame.com/news/202404/3892059.html)
+
++ [战术RPG《弗林特：失落的宝藏》宣布登陆主机和PC 年内发行](https://www.3dmgame.com/news/202404/3892060.html)
+
++ [Fami通新一周销量排行榜 《碧姬公主 表演时刻！》二连冠](https://www.3dmgame.com/news/202404/3892058.html)
+
