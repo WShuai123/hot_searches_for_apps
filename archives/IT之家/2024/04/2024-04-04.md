@@ -71,3 +71,5 @@
 
 + [小米推出米家电水壶 S1：316L 食品级不锈钢，129 元](https://m.ithome.com/html/760040.htm)
 
++ [小米回应 SU7 车座污损：部分门店单日来访近 1 万人，试驾强度高](https://m.ithome.com/html/760073.htm)
+

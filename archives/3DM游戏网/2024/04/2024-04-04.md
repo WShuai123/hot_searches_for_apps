@@ -187,3 +187,7 @@
 
 + [近万台龙芯中科电脑进入鹤壁中小学 预装UOS操作系统](https://www.3dmgame.com/news/202404/3892052.html)
 
++ [《地狱之刃2》Xbox Series X|S仅支持30帧](https://www.3dmgame.com/news/202404/3892054.html)
+
++ [《地狱之刃2》游戏时长只有8个小时 工作室进行解释](https://www.3dmgame.com/news/202404/3892053.html)
+
