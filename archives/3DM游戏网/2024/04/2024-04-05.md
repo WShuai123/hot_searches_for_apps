@@ -183,3 +183,13 @@
 
 + [库克套现2.4亿！苹果股东担心：iPhone缺乏足够创新](https://www.3dmgame.com/news/202404/3892098.html)
 
++ [《我们之中》改编动画剧集宣布配音演员阵容](https://www.3dmgame.com/news/202404/3892102.html)
+
++ [《DeathSprint 66》总监：小团队的创意更加自由](https://www.3dmgame.com/news/202404/3892101.html)
+
++ [注销手机号等于出卖自己！你的号码会被运营商卖给别人](https://www.3dmgame.com/news/202404/3892100.html)
+
++ [动作肉鸽音游《节奏战士》4月4日发售，享受一场酣畅淋漓的战斗！](https://www.3dmgame.com/news/202404/3891985.html)
+
++ [3D恐怖隐形动作游戏《最恐 -青鬼-》Steam页面开放 4月25日发行](https://www.3dmgame.com/news/202404/3892099.html)
+

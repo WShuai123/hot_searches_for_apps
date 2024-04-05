@@ -45,3 +45,5 @@
 
 + [微软不满用户修改主题，安装 StartAllBack 会导致无法升级 Win11](https://m.ithome.com/html/760090.htm)
 
++ [iPhone 16 Pro / Max 超窄边框技术遇量产挑战，LG、三星当前良率未达苹果预期](https://m.ithome.com/html/760101.htm)
+
