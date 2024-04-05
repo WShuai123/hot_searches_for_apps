@@ -25,3 +25,5 @@
 
 + [华为新款 MatePad 平板通过无线电认证，提供原生星闪键鼠配件](https://m.ithome.com/html/760161.htm)
 
++ [小米米家电动剃须刀 S200 今晚开售：智能感应启动，首发 189 元](https://m.ithome.com/html/760178.htm)
+

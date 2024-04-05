@@ -49,3 +49,19 @@
 
 + [Nature Workspace](https://dribbble.com/shots/)
 
++ [AI Art ????](https://dribbble.com/shots/)
+
++ [Rotundo Soft](https://dribbble.com/shots/)
+
++ [River Rocks (using AI)](https://dribbble.com/shots/)
+
++ [Vegan Treats Pattern](https://dribbble.com/shots/)
+
++ [Banana phone ????☎️](https://dribbble.com/shots/)
+
++ [Zelky's Beach Arcade](https://dribbble.com/shots/)
+
++ [Relaxing Walrus](https://dribbble.com/shots/)
+
++ [besties!](https://dribbble.com/shots/)
+
