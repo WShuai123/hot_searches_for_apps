@@ -51,3 +51,9 @@
 
 + [狂赚 300 亿，研发超特斯拉，比亚迪站着挣钱](https://m.ithome.com/html/760137.htm)
 
++ [小米 SU7 车型惠享服务包 6 月开放选购：包含电池关爱、免费基础保养等](https://m.ithome.com/html/760157.htm)
+
++ [王化回应雷军所乘小米 SU7 汽车后轮螺丝脱落：实为交付仪式物料颗粒](https://m.ithome.com/html/760175.htm)
+
++ [小米米家嵌入式洗碗机 P2 上架：16 套容量、AI 智能识污，首发 5499 元](https://m.ithome.com/html/760080.htm)
+
