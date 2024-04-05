@@ -33,3 +33,7 @@
 
 + [小米米家控温沐浴花洒 N1 预售：采用纯白配色，售价 749 元](https://m.ithome.com/html/760077.htm)
 
++ [比亚迪：预计 6 月实现大圆柱钠离子电池电动两轮车充换电综合应用场景试点](https://m.ithome.com/html/760074.htm)
+
++ [vivo X100S 手机完成工信部入网，三证齐全只待发布](https://m.ithome.com/html/760089.htm)
+
