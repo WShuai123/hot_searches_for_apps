@@ -199,3 +199,5 @@
 
 + [深入浅出 -- 系统架构之单体架构和微服务架构的区别](https://blog.csdn.net/xiaoli8748/article/details/137382654)
 
++ [【数据库】数据库的介绍、分类、作用和特点，AI人工智能数据如何存储](https://blog.csdn.net/lmy_520/article/details/137396490)
+

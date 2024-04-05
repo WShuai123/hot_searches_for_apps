@@ -57,3 +57,9 @@
 
 + [小米米家嵌入式洗碗机 P2 上架：16 套容量、AI 智能识污，首发 5499 元](https://m.ithome.com/html/760080.htm)
 
++ [7 名新能源车主“薅羊毛”被抓，利用系统漏洞免费充电](https://m.ithome.com/html/760171.htm)
+
++ [微软 Win11 24H2 LTSC 镜像偷跑，版本号 Build 26100](https://m.ithome.com/html/760127.htm)
+
++ [苹果 iOS 掌舵者构想连续互通未来：放下 iPhone，无缝切换至 Mac 操作](https://m.ithome.com/html/760106.htm)
+
