@@ -151,3 +151,11 @@
 
 + [《英雄连》开发商Relic离开世嘉旗下后受裁员影响](https://www.3dmgame.com/news/202404/3892071.html)
 
++ [《真·女神转生Ⅴ Vengeance》PV第二弹公开 6月14日发售](https://www.3dmgame.com/news/202404/3892086.html)
+
++ [5千发朋友圈代价惨！小米：锁单前定金可退 锁单不退](https://www.3dmgame.com/news/202404/3892083.html)
+
++ [《魔兽世界：怀旧服》更新无测试：保持神秘新鲜感](https://www.3dmgame.com/news/202404/3892085.html)
+
++ [《侏罗纪公园：生存》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892084.html)
+

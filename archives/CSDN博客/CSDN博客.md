@@ -153,3 +153,5 @@
 
 + [Linux系统Docker搭建Wiki.Js应用程序并结合cpolar实现公网访问内网知识库](https://blog.csdn.net/m0_69984273/article/details/137370612)
 
++ [Transformer学习： Transformer小模块学习--位置编码，多头自注意力，掩码矩阵](https://blog.csdn.net/qq_43647582/article/details/137376586)
+

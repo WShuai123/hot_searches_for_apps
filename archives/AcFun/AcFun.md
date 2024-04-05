@@ -83,3 +83,7 @@
 
 + [【东方】世界一位 PV【LostWord 徳井青空 × Alstroemeria Records】](http://www.acfun.cn/v/ac44226998)
 
++ [一个吗喽骑狗，一个狒狒挂树…摩托压弯不过如此！](http://www.acfun.cn/v/ac44230802)
+
++ [KTV都开始打歌了吗？★手机竖屏1111★](http://www.acfun.cn/v/ac44230521)
+
