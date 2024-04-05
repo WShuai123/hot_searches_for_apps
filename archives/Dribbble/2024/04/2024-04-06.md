@@ -65,3 +65,15 @@
 
 + [besties!](https://dribbble.com/shots/)
 
++ [Mainspring London Branded Graphic #2](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Regions of Canada](https://dribbble.com/shots/)
+
++ [AEC Advisors Office Mural](https://dribbble.com/shots/)
+
++ [Harry Potter Poster](https://dribbble.com/shots/)
+
++ [Let's burn out together!](https://dribbble.com/shots/)
+
