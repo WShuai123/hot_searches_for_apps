@@ -211,3 +211,7 @@
 
 + [传奇影业正在制作《沙丘3》电影](https://www.3dmgame.com/news/202404/3892109.html)
 
++ [《前线任务2：重制版》4月30日登陆PC/Xbox/PS](https://www.3dmgame.com/news/202404/3892112.html)
+
++ [OpenAI高管：2024年是AI的“应用之年”](https://www.3dmgame.com/news/202404/3892113.html)
+

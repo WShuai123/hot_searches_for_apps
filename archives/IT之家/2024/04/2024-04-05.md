@@ -67,3 +67,5 @@
 
 + [华为新款 MatePad 平板通过无线电认证，提供原生星闪键鼠配件](https://m.ithome.com/html/760161.htm)
 
++ [小米 SU7 智能驾驶城市领航功能采用轻地图方案，苹果无线车载 CarPlay 将很快 OTA 推送](https://m.ithome.com/html/760179.htm)
+
