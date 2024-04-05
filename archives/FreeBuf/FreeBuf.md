@@ -47,3 +47,5 @@
 
 + [代码审计之远程调试方法介绍](https://www.freebuf.com/vuls/396508.html)
 
++ [如何使用CsWhispers向C#项目添加DInvoke和间接系统调用方法](https://www.freebuf.com/sectool/392978.html)
+

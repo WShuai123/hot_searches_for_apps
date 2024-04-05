@@ -165,3 +165,11 @@
 
 + [《幻兽帕鲁》发布v0.2.0.6更新 新Boss“暗黑贝拉”登场](https://www.3dmgame.com/news/202404/3892088.html)
 
++ [经典街机竞速游戏复活 《NeoSprint》预告片公布](https://www.3dmgame.com/news/202404/3892093.html)
+
++ [《肯泽拉传说：扎乌》将提供英语和斯瓦西里语配音](https://www.3dmgame.com/news/202404/3892092.html)
+
++ [《矮人要塞》制作人成百万富豪 至今只买了辆本田思域](https://www.3dmgame.com/news/202404/3892091.html)
+
++ [10年培养9500万AI人才 思科牵头微软等8家公司组建新联盟](https://www.3dmgame.com/news/202404/3892090.html)
+

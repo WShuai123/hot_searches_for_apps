@@ -105,3 +105,39 @@
 
 + [Blinko for Figma & FigJam](https://www.producthunt.com/posts/blinko-for-figma-figjam)
 
++ [Quizado](https://www.producthunt.com/posts/quizado-2)
+
++ [CloudTabs](https://www.producthunt.com/posts/cloudtabs-1)
+
++ [Tailscan Devtools](https://www.producthunt.com/posts/tailscan-devtools)
+
++ [NUCA Camera](https://www.producthunt.com/posts/nuca-camera)
+
++ [Luci](https://www.producthunt.com/posts/luci-3)
+
++ [PayMeBack.lol](https://www.producthunt.com/posts/paymeback-lol)
+
++ [Talent Protocol](https://www.producthunt.com/posts/talent-protocol)
+
++ [Dippy Widget - AI Character Chat](https://www.producthunt.com/posts/dippy-widget-ai-character-chat)
+
++ [FormBuilder SDK by Tripetto](https://www.producthunt.com/posts/formbuilder-sdk-by-tripetto)
+
++ [Brain Mimic](https://www.producthunt.com/posts/brain-mimic)
+
++ [Pizi](https://www.producthunt.com/posts/pizi-2)
+
++ [Obsidian](https://www.producthunt.com/posts/obsidian-c74d2d8d-d1c1-46c9-9052-cf0f24d722a1)
+
++ [IYO AI](https://www.producthunt.com/posts/iyo-ai)
+
++ [Boolvideo with AI Playground](https://www.producthunt.com/posts/boolvideo-with-ai-playground)
+
++ [Tweeteasy](https://www.producthunt.com/posts/tweeteasy)
+
++ [Folderia](https://www.producthunt.com/posts/folderia)
+
++ [Screen Ruler - for Google Chrome](https://www.producthunt.com/posts/screen-ruler-for-google-chrome)
+
++ [Free Jira Time Tracker by Everhour](https://www.producthunt.com/posts/free-jira-time-tracker-by-everhour)
+
