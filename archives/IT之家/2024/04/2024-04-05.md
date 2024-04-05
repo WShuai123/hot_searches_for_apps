@@ -31,3 +31,5 @@
 
 + [荣耀姜海荣：Magic6 全系已支持 5.5G 网络，只是没有 5G-A 标识](https://m.ithome.com/html/760093.htm)
 
++ [小米米家控温沐浴花洒 N1 预售：采用纯白配色，售价 749 元](https://m.ithome.com/html/760077.htm)
+
