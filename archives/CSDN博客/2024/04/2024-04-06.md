@@ -109,3 +109,17 @@
 
 + [机械臂仿真：使用matlab机器人工具箱与标准DH法，实现6自由度机械臂的仿真运动](https://blog.csdn.net/m0_62688315/article/details/137338385)
 
++ [基于深度学习的交通标志识别系统（网页版+YOLOv8/v7/v6/v5代码+训练数据集）](https://blog.csdn.net/loushangfengjing/article/details/137111175)
+
++ [【MySQL】：深入解析多表查询（上）](https://blog.csdn.net/a1657054242/article/details/137407024)
+
++ [python爬虫———激发学习兴趣的案列（第十三天）](https://blog.csdn.net/2201_75809246/article/details/137381482)
+
++ [微信小程序 vue+uniapp书架小说阅读推荐系统](https://blog.csdn.net/dongyun2022/article/details/137370724)
+
++ [VUE实现下一页的功能](https://blog.csdn.net/lwf3115841/article/details/137382649)
+
++ [yolov8姿态识别与绘制](https://blog.csdn.net/u014158430/article/details/137355570)
+
++ [Python球球大作战](https://blog.csdn.net/m0_68111267/article/details/137410466)
+
