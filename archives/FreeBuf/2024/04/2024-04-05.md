@@ -45,3 +45,5 @@
 
 + [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)
 
++ [代码审计之远程调试方法介绍](https://www.freebuf.com/vuls/396508.html)
+

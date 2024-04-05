@@ -155,3 +155,9 @@
 
 + [Transformer学习： Transformer小模块学习--位置编码，多头自注意力，掩码矩阵](https://blog.csdn.net/qq_43647582/article/details/137376586)
 
++ [大创项目推荐 深度学习 python opencv 火焰检测识别](https://blog.csdn.net/laafeer/article/details/137374170)
+
++ [关于ansible的模块 ③](https://blog.csdn.net/WF_crystal/article/details/137359143)
+
++ [Golang和Java的对决：从设计理念到工具链的全面比较](https://blog.csdn.net/sxc1414749109/article/details/137294548)
+

@@ -159,3 +159,9 @@
 
 + [《侏罗纪公园：生存》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892084.html)
 
++ [庆祝5周年♥最多70连免费周年纪念穿搭抽卡！](https://www.3dmgame.com/news/202404/3892089.html)
+
++ [我国大功率氢能源机车研制获关键性突破：首次完成万吨装车](https://www.3dmgame.com/news/202404/3892087.html)
+
++ [《幻兽帕鲁》发布v0.2.0.6更新 新Boss“暗黑贝拉”登场](https://www.3dmgame.com/news/202404/3892088.html)
+
