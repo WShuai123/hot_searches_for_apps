@@ -29,3 +29,5 @@
 
 + [小米推出新款米家多功能养生壶 N1：1.5L 容量，首发 99 元](https://m.ithome.com/html/760038.htm)
 
++ [荣耀姜海荣：Magic6 全系已支持 5.5G 网络，只是没有 5G-A 标识](https://m.ithome.com/html/760093.htm)
+

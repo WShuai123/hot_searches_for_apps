@@ -43,3 +43,5 @@
 
 + [DevSecOps CICD管道中数字供应链安全的集成策略](https://www.freebuf.com/articles/network/396046.html)
 
++ [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)
+

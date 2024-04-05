@@ -121,3 +121,9 @@
 
 + [《星战》手游《星球大战：银河英雄》将移植到PC平台](https://www.3dmgame.com/news/202404/3892066.html)
 
++ [《细胞分裂：重制版》有望亮相6月育碧前瞻会活动](https://www.3dmgame.com/news/202404/3892070.html)
+
++ [《Skelethrone》发售日预告 5月7日发售](https://www.3dmgame.com/news/202404/3892069.html)
+
++ [创始人Rami Ismail出售荷兰独立开发商Vlambeer股份](https://www.3dmgame.com/news/202404/3892068.html)
+
