@@ -193,3 +193,11 @@
 
 + [3D恐怖隐形动作游戏《最恐 -青鬼-》Steam页面开放 4月25日发行](https://www.3dmgame.com/news/202404/3892099.html)
 
++ [《罗布乐思》高管：平台创作者并未被剥削而是获福利](https://www.3dmgame.com/news/202404/3892106.html)
+
++ [《深岩银河：幸存者》公开抢先体验数据：3600万矮人阵亡](https://www.3dmgame.com/news/202404/3892105.html)
+
++ [史克威尔艾尼克斯开设全新周边商店 售卖主题宠物用品](https://www.3dmgame.com/news/202404/3892104.html)
+
++ [《荒野大镖客2》玩家发现配音废案 小失误花絮集锦](https://www.3dmgame.com/news/202404/3892103.html)
+

@@ -47,3 +47,7 @@
 
 + [iPhone 16 Pro / Max 超窄边框技术遇量产挑战，LG、三星当前良率未达苹果预期](https://m.ithome.com/html/760101.htm)
 
++ [苹果 iPhone SE 4 高清渲染：刘海设计、后摄配更大传感器](https://m.ithome.com/html/760154.htm)
+
++ [狂赚 300 亿，研发超特斯拉，比亚迪站着挣钱](https://m.ithome.com/html/760137.htm)
+
