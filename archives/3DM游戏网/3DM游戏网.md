@@ -205,3 +205,9 @@
 
 + [三星将把在德克萨斯州的芯片投资增至约440亿美元](https://www.3dmgame.com/news/202404/3892108.html)
 
++ [《腐烂国度3》《战争机器6》将亮相6月Xbox发布会](https://www.3dmgame.com/news/202404/3892110.html)
+
++ [《机甲战士5》将充分利用虚幻5引擎 支持手柄操作](https://www.3dmgame.com/news/202404/3892111.html)
+
++ [传奇影业正在制作《沙丘3》电影](https://www.3dmgame.com/news/202404/3892109.html)
+

@@ -63,3 +63,7 @@
 
 + [苹果 iOS 掌舵者构想连续互通未来：放下 iPhone，无缝切换至 Mac 操作](https://m.ithome.com/html/760106.htm)
 
++ [小米手环 9 通过 IMDA 认证，距离发布更近一步](https://m.ithome.com/html/760166.htm)
+
++ [华为新款 MatePad 平板通过无线电认证，提供原生星闪键鼠配件](https://m.ithome.com/html/760161.htm)
+

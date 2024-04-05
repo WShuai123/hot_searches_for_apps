@@ -131,3 +131,15 @@
 
 + [淡水龟王的有力竞争者，与人同行过的第四纪最大淡水龟类：盾头龟](http://www.acfun.cn/v/ac44235558)
 
++ [【特惠喜+1】绿巨人邪魅一笑-四月的第一期](http://www.acfun.cn/v/ac44230737)
+
++ [Angel Beats!《My Soul,Your Beats!》【小五沉沉沉之经典动画游戏歌曲翻唱](http://www.acfun.cn/v/ac44226188)
+
++ [飞机在空中是如何知道自己的转弯速度和角度的？](http://www.acfun.cn/v/ac44237488)
+
++ [【依旧是电音】第237期](http://www.acfun.cn/v/ac44236762)
+
++ [【小毛线】《听妈妈的话》我也要参赛！！！](http://www.acfun.cn/v/ac44233100)
+
++ [萌宠集合，这才是猛男该看的！第四百六十四期](http://www.acfun.cn/v/ac44230557)
+

@@ -201,3 +201,7 @@
 
 + [【数据库】数据库的介绍、分类、作用和特点，AI人工智能数据如何存储](https://blog.csdn.net/lmy_520/article/details/137396490)
 
++ [华为OD七日集训第6期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/137324478)
+
++ [Linux集群部署项目](https://blog.csdn.net/qq_74770105/article/details/137242727)
+
