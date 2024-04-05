@@ -173,3 +173,13 @@
 
 + [10年培养9500万AI人才 思科牵头微软等8家公司组建新联盟](https://www.3dmgame.com/news/202404/3892090.html)
 
++ [《网络奇兵：重制版》4月11日更新：可选择女性主角](https://www.3dmgame.com/news/202404/3892094.html)
+
++ [《纸片马里奥：千年之门》预告短片 5月23日发售](https://www.3dmgame.com/news/202404/3892095.html)
+
++ [恐怖冒险游戏《疯狂疯人院：主播的噩梦》 4月18日发售](https://www.3dmgame.com/news/202404/3892096.html)
+
++ [Saber高管为Embracer开脱：CEO背了太多黑锅](https://www.3dmgame.com/news/202404/3892097.html)
+
++ [库克套现2.4亿！苹果股东担心：iPhone缺乏足够创新](https://www.3dmgame.com/news/202404/3892098.html)
+

@@ -215,3 +215,7 @@
 
 + [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
 
++ [腾讯地图-路线规划,导航公交打车出行](https://itunes.apple.com/cn/app/id481623196?mt=8)
+
++ [讯飞输入法-斗图表情包字体美化键盘](https://itunes.apple.com/cn/app/id1582446193?mt=8)
+
