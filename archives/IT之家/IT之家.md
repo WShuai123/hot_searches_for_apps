@@ -27,3 +27,5 @@
 
 + [消息称小米 Redmi K80 手机全系 2K 护眼直屏，回归 5500mAh 电池](https://m.ithome.com/html/760083.htm)
 
++ [小米推出新款米家多功能养生壶 N1：1.5L 容量，首发 99 元](https://m.ithome.com/html/760038.htm)
+

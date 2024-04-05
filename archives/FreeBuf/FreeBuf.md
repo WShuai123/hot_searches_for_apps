@@ -41,3 +41,5 @@
 
 + [网络安全实战演练的十一个步骤](https://www.freebuf.com/news/396750.html)
 
++ [DevSecOps CICD管道中数字供应链安全的集成策略](https://www.freebuf.com/articles/network/396046.html)
+
