@@ -51,3 +51,35 @@
 
 + [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
++ [plandex-ai / plandex](https://github.com/plandex-ai/plandex)
+
++ [HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli)
+
++ [rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react)
+
++ [nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
+
++ [mshumer / gpt-author](https://github.com/mshumer/gpt-author)
+
++ [aurora-develop / aurora](https://github.com/aurora-develop/aurora)
+
++ [availproject / availup](https://github.com/availproject/availup)
+
++ [logspace-ai / langflow](https://github.com/logspace-ai/langflow)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [AstroNvim / AstroNvim](https://github.com/AstroNvim/AstroNvim)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [astral-sh / uv](https://github.com/astral-sh/uv)
+
++ [FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
++ [actions / setup-node](https://github.com/actions/setup-node)
+
++ [oven-sh / bun](https://github.com/oven-sh/bun)
+
++ [availproject / avail](https://github.com/availproject/avail)
+

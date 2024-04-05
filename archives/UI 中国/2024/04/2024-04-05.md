@@ -13,3 +13,5 @@
 
 + [B端基础 | 全套WEB表单设计基础](https://www.ui.cn/detail/663082.html)
 
++ [AIGC在快手电商设计中的应用](https://www.ui.cn/detail/663594.html)
+
