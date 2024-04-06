@@ -49,3 +49,5 @@
 
 + [踏入IOT安全世界：DIR-815路由器多次溢出漏洞分析复现](https://www.freebuf.com/vuls/395954.html)
 
++ [SQLRecon：一款针对MSSQL的网络侦查与后渗透测试工具](https://www.freebuf.com/sectool/392981.html)
+

@@ -33,3 +33,5 @@
 
 + [新系列首作，小米王腾透露 Redmi Turbo 3 手机“下周见”](https://m.ithome.com/html/760197.htm)
 
++ [小米 14 周年 2024 年米粉节开启：手机换电池换屏 8 折、换新机享优惠](https://m.ithome.com/html/760233.htm)
+
