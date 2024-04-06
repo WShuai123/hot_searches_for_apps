@@ -205,3 +205,9 @@
 
 + [【python】python新闻内容zhua取分析词云可视化（源码）【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/137364832)
 
++ [Spring Boot 集成 RabbitMQ(二)](https://blog.csdn.net/pengyi123/article/details/137411918)
+
++ [文献学习-28-Endora: 用于内镜仿真的视频生成模型](https://blog.csdn.net/Metaphysicist/article/details/137423395)
+
++ [【论文笔记】MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://blog.csdn.net/xhyu61/article/details/137434304)
+
