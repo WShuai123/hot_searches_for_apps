@@ -163,3 +163,5 @@
 
 + [制作人：《圣兽之王》可以算《龙之皇冠》精神续作](https://www.3dmgame.com/news/202404/3892144.html)
 
++ [高通正在测试代号为“X1P”的Windows平台SoC](https://www.3dmgame.com/news/202404/3892149.html)
+

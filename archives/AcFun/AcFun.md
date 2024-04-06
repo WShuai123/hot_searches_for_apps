@@ -117,3 +117,15 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千六百六十五期](http://www.acfun.cn/v/ac44243298)
 
++ [抖 抖 抖](http://www.acfun.cn/v/ac44236849)
+
++ [萌宠集合，这才是猛男该看的！第四百六十五期](http://www.acfun.cn/v/ac44239135)
+
++ [狒狒应援idolzoo](http://www.acfun.cn/v/ac44245872)
+
++ [润人到海外还能爆CIA大米？无形大手你崛起吧！](http://www.acfun.cn/v/ac44237527)
+
++ [从神话故事论原初的智慧](http://www.acfun.cn/v/ac44238524)
+
++ [【独家】マーシャル・マキシマイザー](http://www.acfun.cn/v/ac44239672)
+

@@ -45,3 +45,5 @@
 
 + [米粉节小米泰坦合金纪念 T 恤上线：参与活动抽取 F 码，售 99 元](https://m.ithome.com/html/760239.htm)
 
++ [特斯拉 Model S / X 车型推出限时保值权益：三年后可以 45% 的开票价格回购](https://m.ithome.com/html/760181.htm)
+

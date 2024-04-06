@@ -187,3 +187,13 @@
 
 + [前端与后端协同：实现Excel导入导出功能](https://blog.csdn.net/interest_ing_/article/details/137412155)
 
++ [【Spring进阶系列丨第七篇】Spring框架新注解分类及详解](https://blog.csdn.net/m0_63947499/article/details/137402916)
+
++ [C/C++预处理过程](https://blog.csdn.net/2301_79698419/article/details/137413326)
+
++ [网络原理 - HTTP / HTTPS(5)——https协议](https://blog.csdn.net/cool_tao6/article/details/137372707)
+
++ [使用注意力机制的 LSTM 彻底改变时间序列预测](https://blog.csdn.net/gongdiwudu/article/details/137397832)
+
++ [网路原理-传输层UDP,TCP/IP(确认应答,超时重传,连接管理,三次握手,四次挥手,状态转换,流量控制,滑动窗口,拥塞控制,延时应答,捎带应答,异常情况,面向字节流)-网络层(IP协议,地址管理)](https://blog.csdn.net/cnjdd/article/details/137341936)
+
