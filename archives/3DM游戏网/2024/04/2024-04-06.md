@@ -123,3 +123,17 @@
 
 + [数毛社分析《星刃》试玩版 性能与帧率表现不错](https://www.3dmgame.com/news/202404/3892125.html)
 
++ [《绝地潜兵2》开发者确认新护甲技能：90%爆炸减伤](https://www.3dmgame.com/news/202404/3892131.html)
+
++ [《盗贼之海》支持PS  Portal游玩 但不支持PSVR2](https://www.3dmgame.com/news/202404/3892132.html)
+
++ [陶德·霍华德：《辐射》电视剧每个像素都精雕细琢](https://www.3dmgame.com/news/202404/3892133.html)
+
++ [老滚5设计师盛赞《龙之信条2》：终于找到感觉了](https://www.3dmgame.com/news/202404/3892134.html)
+
++ [动视详细解释《使命召唤》匹配机制：以延迟为主](https://www.3dmgame.com/news/202404/3892135.html)
+
++ [权游衍生剧《七国骑士：对冲骑士》主演人选确定](https://www.3dmgame.com/news/202404/3892129.html)
+
++ [Xbox首席副总裁离开公司 微软游戏部门增长计划加速](https://www.3dmgame.com/news/202404/3892130.html)
+
