@@ -55,3 +55,7 @@
 
 + [小米米家多功能养生壶 N1 / 电水壶 S1 今晚开售，首发 99 元 / 129 元](https://m.ithome.com/html/760191.htm)
 
++ [小米汽车确认 SU7 标准版不支持城市 NOA 功能，车机配备 16GB 运存](https://m.ithome.com/html/760284.htm)
+
++ [理想汽车澄清：理想 L6 采用前双叉臂后五连杆悬架结构，非麦弗逊悬架结构](https://m.ithome.com/html/760275.htm)
+

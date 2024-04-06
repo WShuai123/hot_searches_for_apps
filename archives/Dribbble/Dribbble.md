@@ -115,3 +115,7 @@
 
 + [Diversity](https://dribbble.com/shots/)
 
++ [Agua de Iquitos Label Design](https://dribbble.com/shots/)
+
++ [PU shoes logo](https://dribbble.com/shots/)
+

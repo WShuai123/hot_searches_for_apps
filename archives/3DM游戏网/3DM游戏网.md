@@ -165,3 +165,11 @@
 
 + [高通正在测试代号为“X1P”的Windows平台SoC](https://www.3dmgame.com/news/202404/3892149.html)
 
++ [马斯克：特斯拉正在AI人才争夺战中提高薪酬](https://www.3dmgame.com/news/202404/3892153.html)
+
++ [《荒野大镖客2》成功在手机上运行 尽管帧数只有6帧](https://www.3dmgame.com/news/202404/3892152.html)
+
++ [《曼达洛人和古古》电影提档至2026年5月22日上映](https://www.3dmgame.com/news/202404/3892151.html)
+
++ [尽管口碑不佳 但《使命召唤18》还是卖出了超过3000万套](https://www.3dmgame.com/news/202404/3892150.html)
+
