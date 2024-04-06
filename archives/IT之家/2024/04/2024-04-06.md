@@ -47,3 +47,11 @@
 
 + [特斯拉 Model S / X 车型推出限时保值权益：三年后可以 45% 的开票价格回购](https://m.ithome.com/html/760181.htm)
 
++ [因 Win11“硬件要求太高”，德一州政府宣布全面转向 Linux 系统使用开源 LibreOffice](https://m.ithome.com/html/760217.htm)
+
++ [高通正开发多款骁龙 X 芯片，声称优于苹果 M3、英特尔 Meteor Lake 和 AMD Phoenix 处理器](https://m.ithome.com/html/760187.htm)
+
++ [京东国际自营：iPad Pro 2021 款 11 寸苹果认证翻新款 4465 元大促](https://m.ithome.com/html/760245.htm)
+
++ [小米米家多功能养生壶 N1 / 电水壶 S1 今晚开售，首发 99 元 / 129 元](https://m.ithome.com/html/760191.htm)
+

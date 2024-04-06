@@ -197,3 +197,5 @@
 
 + [网路原理-传输层UDP,TCP/IP(确认应答,超时重传,连接管理,三次握手,四次挥手,状态转换,流量控制,滑动窗口,拥塞控制,延时应答,捎带应答,异常情况,面向字节流)-网络层(IP协议,地址管理)](https://blog.csdn.net/cnjdd/article/details/137341936)
 
++ [网络网络层之(3)IPv6地址](https://blog.csdn.net/Once_day/article/details/137433526)
+
