@@ -153,3 +153,13 @@
 
 + [传闻：《全境封锁3》设定在芝加哥 与前作相对独立](https://www.3dmgame.com/news/202404/3892143.html)
 
++ [《星刃》试玩版存在输入延迟 玩家探索临时解决方案](https://www.3dmgame.com/news/202404/3892148.html)
+
++ [《动物之森：新叶》玩家在联机关闭之前疯狂互访](https://www.3dmgame.com/news/202404/3892147.html)
+
++ [《刺客信条：起源》主角呼吁育碧把故事讲下去](https://www.3dmgame.com/news/202404/3892146.html)
+
++ [苹果放弃造车 多年来首次大规模裁员7百多人失业](https://www.3dmgame.com/news/202404/3892145.html)
+
++ [制作人：《圣兽之王》可以算《龙之皇冠》精神续作](https://www.3dmgame.com/news/202404/3892144.html)
+

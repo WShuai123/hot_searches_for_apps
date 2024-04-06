@@ -39,3 +39,7 @@
 
 + [“旅行者 1 号”胡言乱语近 5 个月原因终于锁定：3% 的内存损坏导致](https://m.ithome.com/html/760223.htm)
 
++ [小米 120W USB-C 氮化镓小布丁充电头套装上架，首发价 199 元](https://m.ithome.com/html/760228.htm)
+
++ [为未拆封 iPhone 无线更新 iOS 系统，苹果门店“Presto”运行机制细节曝光](https://m.ithome.com/html/760210.htm)
+
