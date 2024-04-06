@@ -169,3 +169,9 @@
 
 + [云原生系列（六）—在k8s部署trident对接ontap的nfs存储并创建动态存储类](https://blog.csdn.net/weixin_43419745/article/details/137400447)
 
++ [【Linux】HTTP协议](https://blog.csdn.net/fight_p/article/details/137127450)
+
++ [【APUE】网络socket编程温度采集智能存储与上报项目技术------多路复用](https://blog.csdn.net/qq_44647100/article/details/137406656)
+
++ [AI赋能写作：探索设计模式的魅力](https://blog.csdn.net/haiwenCSDN/article/details/137409877)
+

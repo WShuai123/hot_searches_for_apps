@@ -35,3 +35,5 @@
 
 + [小米 14 周年 2024 年米粉节开启：手机换电池换屏 8 折、换新机享优惠](https://m.ithome.com/html/760233.htm)
 
++ [哪吒 S 猎装车官图公布，尾标仍为“哪吒 S”](https://m.ithome.com/html/760193.htm)
+
