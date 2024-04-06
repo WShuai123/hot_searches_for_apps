@@ -137,3 +137,5 @@
 
 + [Xbox首席副总裁离开公司 微软游戏部门增长计划加速](https://www.3dmgame.com/news/202404/3892130.html)
 
++ [不满买断游戏停服无法游玩 玩家提起维权活动将上诉](https://www.3dmgame.com/news/202404/3892136.html)
+
