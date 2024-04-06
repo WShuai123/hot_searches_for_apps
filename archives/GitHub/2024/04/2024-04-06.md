@@ -51,3 +51,29 @@
 
 + [availproject / avail](https://github.com/availproject/avail)
 
++ [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [FoundationVision / VAR](https://github.com/FoundationVision/VAR)
+
++ [bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days)
+
++ [PKUFlyingPig / cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
++ [searxng / searxng](https://github.com/searxng/searxng)
+
++ [ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
++ [avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024)
+
++ [dockur / windows](https://github.com/dockur/windows)
+
++ [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
++ [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)
+
++ [HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources)
+
++ [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
