@@ -175,3 +175,7 @@
 
 + [AI赋能写作：探索设计模式的魅力](https://blog.csdn.net/haiwenCSDN/article/details/137409877)
 
++ [人脸识别的经典深度学习方法](https://blog.csdn.net/qq_45880982/article/details/137400485)
+
++ [数学建模-最优包衣厚度终点判别法(主成分分析)](https://blog.csdn.net/weixin_61006262/article/details/137410251)
+
