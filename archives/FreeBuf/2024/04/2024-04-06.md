@@ -41,3 +41,7 @@
 
 + [大模型安全的融合与挑战 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/396736.html)
 
++ [FreeBuf 周报 | Vultur 安卓银行木马“卷土重来”；黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396918.html)
+
++ [《2024年网络安全成熟度报告》：仅11%的企业达到Level 2](https://www.freebuf.com/articles/paper/395810.html)
+

@@ -103,3 +103,5 @@
 
 + [《沙加：Emerald Beyond》现已支持试玩 登陆多平台](https://www.3dmgame.com/news/202404/3892118.html)
 
++ [《星球大战：法外狂徒》故事宣传片将于4月10日首播](https://www.3dmgame.com/news/202404/3892119.html)
+

@@ -27,3 +27,7 @@
 
 + [小米米家电动剃须刀 S200 今晚开售：智能感应启动，首发 189 元](https://m.ithome.com/html/760178.htm)
 
++ [比亚迪腾势猎装车“官方谍照”首发：简洁流线型设计，年内发布](https://m.ithome.com/html/760195.htm)
+
++ [小米 3A 编织快充数据线上市：支持 60W 快充，售价 29 元](https://m.ithome.com/html/760183.htm)
+
