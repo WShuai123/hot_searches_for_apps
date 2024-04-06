@@ -69,3 +69,9 @@
 
 + [Harry Potter Poster](https://dribbble.com/shots/)
 
++ [American Sasquatch](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
