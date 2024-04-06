@@ -101,3 +101,21 @@
 
 + [史克威尔艾尼克斯开设全新周边商店 售卖主题宠物用品](https://www.3dmgame.com/news/202404/3892104.html)
 
++ [《真女神转生5：复仇》官方PV2分享 展示新内容](https://www.3dmgame.com/news/202404/3892162.html)
+
++ [英国电影和电视艺术学院宣布劳拉成最具标志性游戏角色](https://www.3dmgame.com/news/202404/3892161.html)
+
++ [全新洛夫克拉夫特风格恐怖FPS《颓废》公布](https://www.3dmgame.com/news/202404/3892160.html)
+
++ [《龙之信条2》新环境4K材质包公布 体积达8GB](https://www.3dmgame.com/news/202404/3892159.html)
+
++ [粉丝自制虚幻5引擎《雷曼3》重制版演示](https://www.3dmgame.com/news/202404/3892158.html)
+
++ [9月上市《高速公路警察模拟器》发布游戏预告](https://www.3dmgame.com/news/202404/3892157.html)
+
++ [绅士恋爱模拟游戏《兔兔秘密花园》18日登陆Switch](https://www.3dmgame.com/news/202404/3892156.html)
+
++ [《Bomb Rush Cyberfunk》续作可能是音乐游戏](https://www.3dmgame.com/news/202404/3892155.html)
+
++ [《异度神剑3》未解之谜将在后续作品公布](https://www.3dmgame.com/news/202404/3892154.html)
+
