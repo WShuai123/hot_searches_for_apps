@@ -21,3 +21,5 @@
 
 + [泰拉瑞亚](https://www.taptap.cn/app/194610)
 
++ [少女前线2：追放](https://www.taptap.cn/app/190930)
+

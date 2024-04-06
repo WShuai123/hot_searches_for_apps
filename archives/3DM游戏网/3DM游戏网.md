@@ -105,3 +105,13 @@
 
 + [《星球大战：法外狂徒》故事宣传片将于4月10日首播](https://www.3dmgame.com/news/202404/3892119.html)
 
++ [Crop Circle工作室关闭原因：开发中游戏没有竞争力](https://www.3dmgame.com/news/202404/3892124.html)
+
++ [《使命召唤：黑色行动-海湾战争》将亮相6月Xbox发表会](https://www.3dmgame.com/news/202404/3892123.html)
+
++ [暴雪开发新神秘3A游戏 目前正招募大量高级职位](https://www.3dmgame.com/news/202404/3892122.html)
+
++ [《勇者斗恶龙》系列执行制作人三宅有宣布调职](https://www.3dmgame.com/news/202404/3892121.html)
+
++ [《哥斯拉大战金刚2：帝国崛起》中国内地上映9天 票房破6亿元](https://www.3dmgame.com/news/202404/3892120.html)
+

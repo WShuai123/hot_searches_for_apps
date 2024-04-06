@@ -45,3 +45,5 @@
 
 + [《2024年网络安全成熟度报告》：仅11%的企业达到Level 2](https://www.freebuf.com/articles/paper/395810.html)
 
++ [虚拟专用网络安装包“引狼入室”：疑似金眼狗（APT-Q-27）团伙的窃密行动](https://www.freebuf.com/articles/paper/396978.html)
+

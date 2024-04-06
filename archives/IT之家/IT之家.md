@@ -31,3 +31,5 @@
 
 + [小米 3A 编织快充数据线上市：支持 60W 快充，售价 29 元](https://m.ithome.com/html/760183.htm)
 
++ [新系列首作，小米王腾透露 Redmi Turbo 3 手机“下周见”](https://m.ithome.com/html/760197.htm)
+
