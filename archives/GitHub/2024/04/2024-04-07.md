@@ -51,3 +51,31 @@
 
 + [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
 
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [aurora-develop / aurora](https://github.com/aurora-develop/aurora)
+
++ [myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [cloudflare / orange](https://github.com/cloudflare/orange)
+
++ [availproject / avail-light](https://github.com/availproject/avail-light)
+
++ [neovim / neovim](https://github.com/neovim/neovim)
+
++ [pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [refinedev / refine](https://github.com/refinedev/refine)
+
++ [jrouwe / JoltPhysics](https://github.com/jrouwe/JoltPhysics)
+
++ [logspace-ai / langflow](https://github.com/logspace-ai/langflow)
+

@@ -73,3 +73,5 @@
 
 + [「决胜护网」指南：独家攻防技巧解密](https://www.freebuf.com/consult/397117.html)
 
++ [GPT-5将在6月发布前进行「红队进攻测试」](https://www.freebuf.com/articles/397090.html)
+
