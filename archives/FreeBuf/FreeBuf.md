@@ -47,3 +47,9 @@
 
 + [大模型安全测试入门指南](https://www.freebuf.com/articles/web/395864.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+
++ [多部门联合破获虚拟货币欺诈案，涉案资金达 20 亿](https://www.freebuf.com/news/397037.html)
+
++ [FreeBuf 周报 | Vultur安卓银行木马卷土重来；黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396918.html)
+

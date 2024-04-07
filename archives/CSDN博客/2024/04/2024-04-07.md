@@ -157,3 +157,9 @@
 
 + [【鸿蒙 HarmonyOS】@ohos.promptAction (弹窗)](https://blog.csdn.net/weixin_71403100/article/details/137438482)
 
++ [基于深度学习的电动自行车头盔佩戴检测系统](https://blog.csdn.net/MuRanstr/article/details/137396723)
+
++ [【Linux实践室】Linux高级用户管理实战指南：创建与删除用户组操作详解](https://blog.csdn.net/2301_80026901/article/details/137436349)
+
++ [【Entity Framework】EF配置之代码配置详解](https://blog.csdn.net/songjianlong/article/details/137409541)
+
