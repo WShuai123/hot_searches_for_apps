@@ -53,3 +53,5 @@
 
 + [消息称日系三大汽车品牌之一将接入华为智驾系统](https://m.ithome.com/html/760392.htm)
 
++ [小米 SU7 汽车 1:18 合金车模、小米 Life 不锈钢马克杯今晚 8 点再次开售](https://m.ithome.com/html/760400.htm)
+
