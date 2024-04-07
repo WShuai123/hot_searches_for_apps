@@ -101,3 +101,7 @@
 
 + [《暗黑破坏神4》加入Game Pass后 Xbox成为玩家首选平台](https://www.3dmgame.com/news/202404/3892171.html)
 
++ [塔防游戏《六方守护者》5月2日发售PC版](https://www.3dmgame.com/news/202404/3892226.html)
+
++ [爽快美少女肉鸽《战姬拉斯蒂尔 无限的迷宫城》即将开启抢鲜体验](https://www.3dmgame.com/news/202404/3892225.html)
+
