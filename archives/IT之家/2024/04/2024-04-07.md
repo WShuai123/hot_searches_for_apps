@@ -41,3 +41,5 @@
 
 + [金山办公 WPS 365 宣布 4 月 9 日全新发布：“一站式 AI 办公”](https://m.ithome.com/html/760314.htm)
 
++ [小米 Redmi Pad Pro 平板亮相开启预约，随 Turbo 3 手机一同发布](https://m.ithome.com/html/760338.htm)
+
