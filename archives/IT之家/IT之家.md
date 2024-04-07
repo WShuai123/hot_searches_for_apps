@@ -33,3 +33,7 @@
 
 + [三天突破 8.34 亿，2024 清明档票房创我国影史新高](https://m.ithome.com/html/760297.htm)
 
++ [蔚来第二品牌“乐道”汽车官博上线，预计 5 月中上旬发布](https://m.ithome.com/html/760273.htm)
+
++ [小米 Redmi Turbo 3 手机官宣 4 月 10 日发布，新机外观亮相](https://m.ithome.com/html/760317.htm)
+

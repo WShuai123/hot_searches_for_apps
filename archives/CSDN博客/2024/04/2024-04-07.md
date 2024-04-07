@@ -163,3 +163,13 @@
 
 + [【Entity Framework】EF配置之代码配置详解](https://blog.csdn.net/songjianlong/article/details/137409541)
 
++ [【热门话题】Stable Diffusion：本地部署教程](https://blog.csdn.net/qq_44214428/article/details/137440705)
+
++ [数据库的基本知识（mysql）](https://blog.csdn.net/sjsnbwjsj/article/details/137437705)
+
++ [程序汪5万接的公交车板打车小程序，开发周期40天（发布版](https://blog.csdn.net/u011091199/article/details/137436823)
+
++ [ChatGPT 之 PPT 大师](https://blog.csdn.net/wizardforcel/article/details/137379599)
+
++ [【开源语音项目OpenVoice]（一）——实操演示](https://blog.csdn.net/weixin_46248871/article/details/137434221)
+

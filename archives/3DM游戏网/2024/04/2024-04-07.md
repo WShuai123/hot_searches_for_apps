@@ -163,3 +163,11 @@
 
 + [《SILENT BREATH》Steam抢测 禁止惊叫恐怖探索](https://www.3dmgame.com/news/202404/3892177.html)
 
++ [马斯克的信心 人类有望20年内在火星自给自足](https://www.3dmgame.com/news/202404/3892188.html)
+
++ [《战争机器6》将展示顶级视觉效果 充分发挥当前主机性能](https://www.3dmgame.com/news/202404/3892186.html)
+
++ [拉瑞安慷慨解囊 向图书馆捐赠《博德之门3》游戏](https://www.3dmgame.com/news/202404/3892187.html)
+
++ [悬疑冒险探索游戏《DESOLATIUM》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3892185.html)
+

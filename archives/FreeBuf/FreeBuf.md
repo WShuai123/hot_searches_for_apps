@@ -53,3 +53,7 @@
 
 + [FreeBuf 周报 | Vultur安卓银行木马卷土重来；黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396918.html)
 
++ [美国APT的全球流量监听系统（Turmoil监听与Turbine涡轮）讲解与分析](https://www.freebuf.com/news/397072.html)
+
++ [注意！GenAI 模型存在接管风险](https://www.freebuf.com/news/397056.html)
+
