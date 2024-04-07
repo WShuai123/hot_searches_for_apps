@@ -207,3 +207,5 @@
 
 + [Kubernetes（k8s）：精通 Pod 操作的关键命令](https://blog.csdn.net/qq_41840843/article/details/137372026)
 
++ [C# Web应用调用EXE文件的一些实践](https://blog.csdn.net/michaelline/article/details/137340881)
+

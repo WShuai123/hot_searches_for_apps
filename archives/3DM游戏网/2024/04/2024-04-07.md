@@ -205,3 +205,15 @@
 
 + [上映5天 宫崎骏电影《你想活出怎样的人生》国内票房突破5亿](https://www.3dmgame.com/news/202404/3892205.html)
 
++ [迪士尼CEO谈LGBT觉醒文化：娱乐至上 内容有趣才重要](https://www.3dmgame.com/news/202404/3892211.html)
+
++ [实物大元祖高达谢幕 技术总监希望打造真正人类乘坐的](https://www.3dmgame.com/news/202404/3892210.html)
+
++ [奥特曼表示“游戏将好得难以想象” 马斯克回应了](https://www.3dmgame.com/news/202404/3892209.html)
+
++ [谷歌AI竞赛失利：内部派系林立、项目混乱相互竞争](https://www.3dmgame.com/news/202404/3892208.html)
+
++ [特斯拉跌落神坛！销量骤降、市值腰斩、降价策略失效](https://www.3dmgame.com/news/202404/3892207.html)
+
++ [学者驳斥AI末日论 AI将创造更美好公平的世界](https://www.3dmgame.com/news/202404/3892206.html)
+

@@ -71,3 +71,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/397104.html)
 
++ [「决胜护网」指南：独家攻防技巧解密](https://www.freebuf.com/consult/397117.html)
+
