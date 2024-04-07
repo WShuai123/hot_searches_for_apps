@@ -203,3 +203,7 @@
 
 + [Spring boot微服务分布式框架Rouyi Cloud权限认证](https://blog.csdn.net/s445320/article/details/137424517)
 
++ [Linux部署sonarqube+Gogs+Jenkins（二）](https://blog.csdn.net/YZL40514131/article/details/137183581)
+
++ [Kubernetes（k8s）：精通 Pod 操作的关键命令](https://blog.csdn.net/qq_41840843/article/details/137372026)
+
