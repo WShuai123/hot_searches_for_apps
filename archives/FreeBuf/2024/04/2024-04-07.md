@@ -57,3 +57,5 @@
 
 + [注意！GenAI 模型存在接管风险](https://www.freebuf.com/news/397056.html)
 
++ [不懂js遇到前端加密该如何进行js逆向](https://www.freebuf.com/articles/web/396079.html)
+

@@ -173,3 +173,15 @@
 
 + [【开源语音项目OpenVoice]（一）——实操演示](https://blog.csdn.net/weixin_46248871/article/details/137434221)
 
++ [微信小程序——实现对话模式（调用大模型图片生成）](https://blog.csdn.net/qq_38870145/article/details/137441132)
+
++ [[机器学习]人工智能为小米智架保驾护航](https://blog.csdn.net/weixin_46277553/article/details/137401835)
+
++ [Spark-Scala语言实战（13）](https://blog.csdn.net/qq_49513817/article/details/137412258)
+
++ [uniapp:聊天消息列表（好友列表+私人单聊）支持App、H5、小程序](https://blog.csdn.net/qq_48652579/article/details/137451935)
+
++ [IDEA2023创建SpringMVC项目](https://blog.csdn.net/qq_58608526/article/details/137437847)
+
++ [Redis性能管理及主从复制、哨兵的配置与部署](https://blog.csdn.net/fantuan_sss/article/details/137327240)
+

@@ -171,3 +171,11 @@
 
 + [悬疑冒险探索游戏《DESOLATIUM》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3892185.html)
 
++ [小米最便宜Wi-Fi7路由 BE3600千兆版开售：229元](https://www.3dmgame.com/news/202404/3892192.html)
+
++ [《枯萎的房间》登陆多平台 2.5D恐怖冒险生存](https://www.3dmgame.com/news/202404/3892190.html)
+
++ [《无敌少侠》第二季结局意外联动《堡垒之夜》 玩家倍感惊喜](https://www.3dmgame.com/news/202404/3892191.html)
+
++ [《英雄传说：黎之轨迹2》日版宣布7月25日登陆Switch 定价4800日元](https://www.3dmgame.com/news/202404/3892189.html)
+
