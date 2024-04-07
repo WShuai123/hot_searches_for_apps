@@ -69,3 +69,9 @@
 
 + [Face](https://dribbble.com/shots/)
 
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
++ [ACE Year of the Dragon Badge](https://dribbble.com/shots/)
+
++ [Bandoola](https://dribbble.com/shots/)
+
