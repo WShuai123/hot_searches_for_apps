@@ -219,3 +219,13 @@
 
 + [黑人朱丽叶被网友群嘲 剧方发表声明：反对网暴](https://www.3dmgame.com/news/202404/3892212.html)
 
++ [传索尼不再发行《星球大战：旧共和国武士重制版》](https://www.3dmgame.com/news/202404/3892217.html)
+
++ [强森：当初不该支持拜登当总统 对当下美国现状感到很恼火](https://www.3dmgame.com/news/202404/3892216.html)
+
++ [《星刃》开发商Shift Up将继续开发单人游戏](https://www.3dmgame.com/news/202404/3892215.html)
+
++ [微星推出RTX4060 8G DUKE 3X暗黑龙爵显卡：纯黑外观](https://www.3dmgame.com/news/202404/3892214.html)
+
++ [小米SU7有多火：日租金2000元起赶超保时捷！](https://www.3dmgame.com/news/202404/3892213.html)
+
