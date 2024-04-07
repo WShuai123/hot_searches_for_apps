@@ -49,3 +49,23 @@
 
 + [Astronaut](https://dribbble.com/shots/)
 
++ [Dentistry 4 dummies ????????](https://dribbble.com/shots/)
+
++ [Eden](https://dribbble.com/shots/)
+
++ [DSO Visualizer Exploration (vectors)](https://dribbble.com/shots/)
+
++ [Rotundo Soft](https://dribbble.com/shots/)
+
++ [Love mid century poster](https://dribbble.com/shots/)
+
++ [Analog Pattern](https://dribbble.com/shots/)
+
++ [Memories from Kerala](https://dribbble.com/shots/)
+
++ [Jesus Collage - book cover design](https://dribbble.com/shots/)
+
++ [Work for a new real estate development in Melbourne ????](https://dribbble.com/shots/)
+
++ [Face](https://dribbble.com/shots/)
+
