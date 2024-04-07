@@ -59,3 +59,5 @@
 
 + [不懂js遇到前端加密该如何进行js逆向](https://www.freebuf.com/articles/web/396079.html)
 
++ [Facebook、Instagram将显著标记由AI生成的音视频内容](https://www.freebuf.com/news/397077.html)
+

@@ -179,3 +179,11 @@
 
 + [《英雄传说：黎之轨迹2》日版宣布7月25日登陆Switch 定价4800日元](https://www.3dmgame.com/news/202404/3892189.html)
 
++ [苹果解除iOS商店游戏模拟器限制 要求软件合法合规](https://www.3dmgame.com/news/202404/3892196.html)
+
++ [你做游戏，我出钱！Y3编辑器“创作星秀计划”正式开启！](https://www.3dmgame.com/news/202404/3892194.html)
+
++ [矮人机甲试驾！《矮人元祖》展示游戏玩法并邀请玩家进行游戏测试](https://www.3dmgame.com/news/202404/3892195.html)
+
++ [《Decadent》Steam页面上线 叙事型恐怖FPS](https://www.3dmgame.com/news/202404/3892193.html)
+

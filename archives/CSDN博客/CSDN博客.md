@@ -185,3 +185,9 @@
 
 + [Redis性能管理及主从复制、哨兵的配置与部署](https://blog.csdn.net/fantuan_sss/article/details/137327240)
 
++ [过亿级别的用户数据如何检查用户名是否存在?](https://blog.csdn.net/weixin_42794881/article/details/137454268)
+
++ [【Ambari】Ansible自动化部署大数据集群](https://blog.csdn.net/qq_35995514/article/details/137372767)
+
++ [第⑪讲：Ceph集群OSD扩容方案及实现横向和纵向扩容](https://blog.csdn.net/weixin_44953658/article/details/137450143)
+
