@@ -103,3 +103,23 @@
 
 + [AI Photo Filter by Stylar](https://www.producthunt.com/posts/ai-photo-filter-by-stylar)
 
++ [Disruptcraft](https://www.producthunt.com/posts/disruptcraft)
+
++ [Formaviva](https://www.producthunt.com/posts/formaviva)
+
++ [Boostrbot](https://www.producthunt.com/posts/boostrbot)
+
++ [SalesPopup.io](https://www.producthunt.com/posts/salespopup-io)
+
++ [PowerNote](https://www.producthunt.com/posts/powernote)
+
++ [Knock Knock Jokes for Kids](https://www.producthunt.com/posts/knock-knock-jokes-for-kids)
+
++ [Paykassma](https://www.producthunt.com/posts/paykassma)
+
++ [OpusClip Captions](https://www.producthunt.com/posts/opusclip-captions)
+
++ [Gobble Bot](https://www.producthunt.com/posts/gobble-bot)
+
++ [Picyard Screenshots](https://www.producthunt.com/posts/picyard-screenshots)
+

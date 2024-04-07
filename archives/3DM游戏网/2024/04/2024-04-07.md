@@ -199,3 +199,7 @@
 
 + [Discord“战利品箱”恶搞视频24小时播放量破《GTA 6》记录 实则乌龙事件](https://www.3dmgame.com/news/202404/3892197.html)
 
++ [《英灵殿之子》登陆PC平台 维京背景战斗经营新游](https://www.3dmgame.com/news/202404/3892204.html)
+
++ [传闻：世嘉和迪士尼正在合作开发新游戏 明年登陆移动端](https://www.3dmgame.com/news/202404/3892203.html)
+

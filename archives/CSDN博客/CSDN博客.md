@@ -195,3 +195,11 @@
 
 + [【项目实战经验】DataKit迁移MySQL到openGauss（下）](https://blog.csdn.net/GaussDB/article/details/137345997)
 
++ [Java Spring IoC&DI :探索Java Spring中控制反转和依赖注入的威力,增强灵活性和可维护性](https://blog.csdn.net/smile_sundays/article/details/137429995)
+
++ [MySQL中的sql优化](https://blog.csdn.net/qq_31016939/article/details/137436505)
+
++ [Python+Yolov8框选位置目标识别人数统计计数](https://blog.csdn.net/alicema1111/article/details/137439706)
+
++ [Spring boot微服务分布式框架Rouyi Cloud权限认证](https://blog.csdn.net/s445320/article/details/137424517)
+

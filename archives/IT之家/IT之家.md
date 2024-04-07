@@ -43,3 +43,5 @@
 
 + [小米 Redmi Pad Pro 平板亮相开启预约，随 Turbo 3 手机一同发布](https://m.ithome.com/html/760338.htm)
 
++ [消息称华为 4 月 11 日在鸿蒙春季沟通会上发布车和 PC 新品，P70 手机值得关注](https://m.ithome.com/html/760352.htm)
+
