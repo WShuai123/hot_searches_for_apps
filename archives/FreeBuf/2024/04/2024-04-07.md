@@ -45,3 +45,5 @@
 
 + [声学侧信道安全 | 通过分析用户的打字模式来推断键盘输入](https://www.freebuf.com/articles/database/395860.html)
 
++ [大模型安全测试入门指南](https://www.freebuf.com/articles/web/395864.html)
+

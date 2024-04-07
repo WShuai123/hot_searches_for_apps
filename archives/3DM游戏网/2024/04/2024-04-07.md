@@ -123,3 +123,27 @@
 
 + [《星刃》新预告片 介绍第七空降队队长塔奇](https://www.3dmgame.com/news/202404/3892163.html)
 
++ [《暗黑破坏神4》加入Game Pass后 Xbox成为玩家首选平台](https://www.3dmgame.com/news/202404/3892171.html)
+
++ [神业达成 高玩无续命干掉《怒首领蜂最大往生》最难BOSS阴蜂](https://www.3dmgame.com/news/202404/3892172.html)
+
++ [神医再世 《龙之信条2》多位玩家自制MOD应对狂龙症](https://www.3dmgame.com/news/202404/3892173.html)
+
++ [《星露谷物语》1.6版本主机端和移动端正在开发中 将尽快上线](https://www.3dmgame.com/news/202404/3892174.html)
+
++ [警企联动 闵行开展网络安全宣传进企业活动](https://www.3dmgame.com/news/202404/3892175.html)
+
++ [《赛博朋克2077：往日之影》任务受《指环王》启发](https://www.3dmgame.com/news/202404/3892176.html)
+
++ [《NeverAwake》新DLC今夏上线 追加新关卡和玩法](https://www.3dmgame.com/news/202404/3892166.html)
+
++ [CDPR调侃育碧：我们未来的游戏将是5A级](https://www.3dmgame.com/news/202404/3892167.html)
+
++ [Xbox成立新团队 致力于游戏保存和向上兼容](https://www.3dmgame.com/news/202404/3892168.html)
+
++ [传闻：《波斯王子》新作下周公布 5月14日上线Steam](https://www.3dmgame.com/news/202404/3892169.html)
+
++ [《奇异人生》开发商被指控种族主义 性别歧视等](https://www.3dmgame.com/news/202404/3892170.html)
+
++ [吉田表示想要开发新的《最终幻想：战略版》游戏](https://www.3dmgame.com/news/202404/3892165.html)
+

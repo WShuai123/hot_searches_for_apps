@@ -149,3 +149,11 @@
 
 + [关于威廉希尔中文网站平台HTTP错误代码大全](https://blog.csdn.net/cl199506/article/details/137429927)
 
++ [正排索引 vs 倒排索引 - 搜索引擎具体原理](https://blog.csdn.net/m0_75215937/article/details/137414259)
+
++ [基于SpringBoot Vue养老院管理](https://blog.csdn.net/qq_32340877/article/details/137403410)
+
++ [微信小程序的页面交互2](https://blog.csdn.net/2301_76669854/article/details/137432866)
+
++ [【鸿蒙 HarmonyOS】@ohos.promptAction (弹窗)](https://blog.csdn.net/weixin_71403100/article/details/137438482)
+
