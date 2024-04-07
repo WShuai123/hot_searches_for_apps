@@ -41,3 +41,7 @@
 
 + [黑客滥用谷歌虚假广告传播恶意软件](https://www.freebuf.com/news/396864.html)
 
++ [FreeBuf 早报 | 全球首个涉AI安全双边协议签署；Omni酒店出现全国性IT故障](https://www.freebuf.com/news/396890.html)
+
++ [声学侧信道安全 | 通过分析用户的打字模式来推断键盘输入](https://www.freebuf.com/articles/database/395860.html)
+

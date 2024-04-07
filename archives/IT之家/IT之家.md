@@ -25,3 +25,9 @@
 
 + [大众 CEO 称其电动汽车在华无法保持领先，超 10% 份额已“非常可观”](https://m.ithome.com/html/760258.htm)
 
++ [运营商回应随手注销手机号风险：将再扩大“二次号码”解绑服务覆盖范围](https://m.ithome.com/html/760296.htm)
+
++ [智己 L6 轿车 4 月 8 日发布：首搭“光年”固态电池，续航超 1000km](https://m.ithome.com/html/760293.htm)
+
++ [高通骁龙 8s Gen3 芯片尺寸 8.40 x 10.66mm，小于骁龙 8 Gen3](https://m.ithome.com/html/760290.htm)
+

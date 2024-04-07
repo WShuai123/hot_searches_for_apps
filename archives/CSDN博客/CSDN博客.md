@@ -143,3 +143,9 @@
 
 + [基于YOLOv8的铁路工人安全作业检测系统](https://blog.csdn.net/m0_63774211/article/details/137417877)
 
++ [了解自动化机器学习 AutoML](https://blog.csdn.net/fyfugoyfa/article/details/137412467)
+
++ [开源大语言模型(LLM)汇总（持续更新中）](https://blog.csdn.net/qq_32907491/article/details/137403265)
+
++ [关于威廉希尔中文网站平台HTTP错误代码大全](https://blog.csdn.net/cl199506/article/details/137429927)
+

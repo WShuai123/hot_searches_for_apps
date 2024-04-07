@@ -119,3 +119,7 @@
 
 + [《异度神剑3》未解之谜将在后续作品公布](https://www.3dmgame.com/news/202404/3892154.html)
 
++ [腾讯手游《极品飞车：集结》官宣今年暑期上线](https://www.3dmgame.com/news/202404/3892164.html)
+
++ [《星刃》新预告片 介绍第七空降队队长塔奇](https://www.3dmgame.com/news/202404/3892163.html)
+
