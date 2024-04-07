@@ -49,3 +49,5 @@
 
 + [小米 WiFi 7 路由器 BE3600 千兆版开售，首发价 229 元](https://m.ithome.com/html/760328.htm)
 
++ [小米汽车回应“车主投诉 SU7 未交付掉漆”：后续会出台政策解决此类问题](https://m.ithome.com/html/760412.htm)
+
