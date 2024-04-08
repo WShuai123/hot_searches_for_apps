@@ -119,3 +119,17 @@
 
 + [萌宠集合，这才是猛男该看的！第四百六十六期](http://www.acfun.cn/v/ac44258898)
 
++ [甲骨文的“天”字，隐藏着史前文明的秘密？ 文明从何而来？](http://www.acfun.cn/v/ac44266110)
+
++ [绝活儿【今天有什么好笑的 #1516】](http://www.acfun.cn/v/ac44268028)
+
++ [被夸可爱了/可愛いねって言われちゃた](http://www.acfun.cn/v/ac44259665)
+
++ [32元的牛肉拌面！4年前没吃到的滋味，却发现……](http://www.acfun.cn/v/ac44258380)
+
++ [【金丝牛肉饼】牛肉饼和人生的真理都不过两个字：将就](http://www.acfun.cn/v/ac44265068)
+
++ [【歌切】戴着火鸡帽唱Kiss me Kiss me](http://www.acfun.cn/v/ac44266725)
+
++ [桢姐240327](http://www.acfun.cn/v/ac44257764)
+

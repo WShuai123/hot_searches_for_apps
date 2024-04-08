@@ -231,3 +231,7 @@
 
 + [七彩虹推出首款Mini PC 搭载酷睿i5-12450H,首发1599元起](https://www.3dmgame.com/news/202404/3892289.html)
 
++ [《星刃》特别发售活动 和人气拉拉队员李多慧见面](https://www.3dmgame.com/news/202404/3892291.html)
+
++ [《哥斯拉大战金刚3》可能将引入戴斯特洛伊亚](https://www.3dmgame.com/news/202404/3892290.html)
+
