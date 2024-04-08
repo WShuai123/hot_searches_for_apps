@@ -57,3 +57,5 @@
 
 + [古尔曼：苹果 2024 年年底前发布 iPad（第 11 代）和 iPad mini（第 7 代）](https://m.ithome.com/html/760445.htm)
 
++ [4999 元，华为 WATCH 4 Pro 太空探索手表预售：支持 UWB 控车、问界 M9 迎宾](https://m.ithome.com/html/760462.htm)
+

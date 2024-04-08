@@ -173,3 +173,11 @@
 
 + [数据分析案例-牛油果价格和销量数据可视化分析与预测（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135642869)
 
++ [AI智慧医疗：探索机器学习在医疗保健中的应用与进展](https://blog.csdn.net/g310773517/article/details/137508324)
+
++ [【uniapp】个推H5号码认证一键登录（附代码）](https://blog.csdn.net/qq_35230125/article/details/137404255)
+
++ [CentOS部署Apache Superset大数据可视化BI分析工具并实现无公网IP远程访问](https://blog.csdn.net/weixin_74888502/article/details/137513081)
+
++ [uniapp中自定义tabbar无法跳转？如何解决](https://blog.csdn.net/weixin_43970743/article/details/137475747)
+
