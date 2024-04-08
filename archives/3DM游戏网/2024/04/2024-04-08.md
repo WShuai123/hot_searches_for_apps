@@ -235,3 +235,11 @@
 
 + [《哥斯拉大战金刚3》可能将引入戴斯特洛伊亚](https://www.3dmgame.com/news/202404/3892290.html)
 
++ [生存恐怖《Room 817导剪版》上架Steam 4月22日发售](https://www.3dmgame.com/news/202404/3892295.html)
+
++ [英国2024年3月销量榜Top 10：《绝地潜兵2》二连冠 《红警2》上榜](https://www.3dmgame.com/news/202404/3892293.html)
+
++ [中国家电品牌成为日本新生活主力](https://www.3dmgame.com/news/202404/3892294.html)
+
++ [周鸿祎自曝不会开车：在座都是老司机，我连驾照都没有](https://www.3dmgame.com/news/202404/3892292.html)
+
