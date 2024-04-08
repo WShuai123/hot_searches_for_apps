@@ -123,3 +123,7 @@
 
 + [外包干了5天，技术退步明显.......](https://blog.csdn.net/lzz718719/article/details/137400995)
 
++ [【MySQL探索之旅】数据库设计以及聚合查询](https://blog.csdn.net/QQ3447387928/article/details/137460590)
+
++ [【数字IC/FPGA】什么是无符号数？什么是有符号数？](https://blog.csdn.net/wuzhikaidetb/article/details/137490877)
+
