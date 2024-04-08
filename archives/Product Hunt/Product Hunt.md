@@ -103,3 +103,9 @@
 
 + [Drug Tariff Pro](https://www.producthunt.com/posts/drug-tariff-pro)
 
++ [WiseMap.ai](https://www.producthunt.com/posts/wisemap-ai)
+
++ [Keyword Catcher](https://www.producthunt.com/posts/keyword-catcher-2)
+
++ [Pyramid Solitaire](https://www.producthunt.com/posts/pyramid-solitaire-2)
+
