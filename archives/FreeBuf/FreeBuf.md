@@ -65,3 +65,7 @@
 
 + [全球网络安全产业3月投融资简报](https://www.freebuf.com/news/397214.html)
 
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+
++ [FreeBuf 全球网络安全产业投融资观察（3月）](https://www.freebuf.com/news/397214.html)
+

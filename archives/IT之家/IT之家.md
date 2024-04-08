@@ -47,3 +47,9 @@
 
 + [华为 WATCH GT 4 草木绿、华为手环 9 明日预售，4 月 12 日开售](https://m.ithome.com/html/760443.htm)
 
++ [消息称丰田将与华为、Momenta 共同推出智能驾驶方案，搭载于全球车型](https://m.ithome.com/html/760500.htm)
+
++ [华为 MatePad Pro 13.2 英寸平板新增 SIM 卡版本，12GB+512GB 定价 7499 元](https://m.ithome.com/html/760506.htm)
+
++ [媒体分享 iPhone 16 渲染图，并探讨苹果引入“拍照按钮”背后理由](https://m.ithome.com/html/760501.htm)
+

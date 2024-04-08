@@ -205,3 +205,25 @@
 
 + [G胖也爱脑机接口 创投新公司Starfish投入运营](https://www.3dmgame.com/news/202404/3892276.html)
 
++ [马斯克：如果人类成为星际物种 将可能延续数百万年](https://www.3dmgame.com/news/202404/3892287.html)
+
++ [《街头霸王6》珍贵废弃角色设定图公开 机械豪鬼酷炫](https://www.3dmgame.com/news/202404/3892286.html)
+
++ [显卡又要涨价 英伟达要对中国大陆显卡涨价：这些型号涨幅10%](https://www.3dmgame.com/news/202404/3892285.html)
+
++ [类银河恶魔城的俯视角射击游戏《小飞船大冒险》现已发售](https://www.3dmgame.com/news/202404/3892284.html)
+
++ [“卡槽管理”RPG《七键骑士》公布全新宣传片和免费试玩！](https://www.3dmgame.com/news/202404/3892283.html)
+
++ [开发商科乐美宣布全员涨薪5000日元 2025年开始实施](https://www.3dmgame.com/news/202404/3892282.html)
+
++ [10-20万新能源车保值率最新榜单：TOP10比亚迪占8款](https://www.3dmgame.com/news/202404/3892281.html)
+
++ [KK吐槽大会即将开播，4月8日看K妹暴打策划，现场直播送50万U币大奖！](https://www.3dmgame.com/news/202404/3892280.html)
+
++ [赛车漂移游戏《日本漂移大师》绿蝎崛起先导片曝光](https://www.3dmgame.com/news/202404/3892279.html)
+
++ [KK对战平台限时活动，青春回忆，经典RPG专场开启！](https://www.3dmgame.com/news/202404/3892278.html)
+
++ [迪士尼《白雪公主》真人版女主演力挺黑人朱丽叶](https://www.3dmgame.com/news/202404/3892277.html)
+
