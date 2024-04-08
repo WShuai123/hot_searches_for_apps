@@ -43,3 +43,7 @@
 
 + [16GB + 1TB 仅 1750 元：Redmi Note 12 Turbo 手机京东自营清仓](https://m.ithome.com/html/760504.htm)
 
++ [小米汽车 SU7 车险首年价格在 6000 元至 8000 元之间](https://m.ithome.com/html/760495.htm)
+
++ [华为 WATCH GT 4 草木绿、华为手环 9 明日预售，4 月 12 日开售](https://m.ithome.com/html/760443.htm)
+

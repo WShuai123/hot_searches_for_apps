@@ -155,3 +155,7 @@
 
 + [第十四届蓝桥杯c++组B组做题笔记](https://blog.csdn.net/2301_76612880/article/details/136712510)
 
++ [智能化办公时代来临：AI助你解放双手](https://blog.csdn.net/qq_32682301/article/details/137500258)
+
++ [学习周报：文献阅读+Fluent案例+水力学理论学习](https://blog.csdn.net/2301_79714145/article/details/137474203)
+
