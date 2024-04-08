@@ -35,3 +35,5 @@
 
 + [网传理想 L6 Pro 车型定价 25.98 万，官方回应：目前网上对价格的猜测都是假的](https://m.ithome.com/html/760405.htm)
 
++ [上汽大众途昂 2024 出众款 SUV 上市，指导价 24.9 万元起](https://m.ithome.com/html/760409.htm)
+

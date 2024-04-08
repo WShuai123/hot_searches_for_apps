@@ -47,3 +47,9 @@
 
 + [2024年伊始，StrelaStealer恶意软件就再掀波澜](https://www.freebuf.com/articles/database/396016.html)
 
++ [美国环境保护局遭黑客攻击，850万用户数据泄露](https://www.freebuf.com/articles/397144.html)
+
++ [Rhadamanthys 针对石油和天然气行业发起网络钓鱼攻击](https://www.freebuf.com/news/397145.html)
+
++ [StrelaStealer恶意软件2024年攻击活动分析](https://www.freebuf.com/articles/database/396016.html)
+
