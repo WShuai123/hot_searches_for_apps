@@ -205,3 +205,7 @@
 
 + [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
 
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+

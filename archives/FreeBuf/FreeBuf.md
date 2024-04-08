@@ -53,3 +53,5 @@
 
 + [StrelaStealer恶意软件2024年攻击活动分析](https://www.freebuf.com/articles/database/396016.html)
 
++ [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
+

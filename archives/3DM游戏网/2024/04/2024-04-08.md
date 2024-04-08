@@ -175,3 +175,7 @@
 
 + [男子将游戏账号出租仅一天就被封十年 索赔3万败诉](https://www.3dmgame.com/news/202404/3892258.html)
 
++ [需求飙升 产品供不应求：SSD在第二季度还要上涨25%](https://www.3dmgame.com/news/202404/3892262.html)
+
++ [《地狱潜者2》机器人种族被歼灭 东线终结族成首要目标](https://www.3dmgame.com/news/202404/3892263.html)
+

@@ -37,3 +37,5 @@
 
 + [上汽大众途昂 2024 出众款 SUV 上市，指导价 24.9 万元起](https://m.ithome.com/html/760409.htm)
 
++ [Redmi Turbo 3 手机上架并开启预约，王腾称价格不可能 2000 元以内](https://m.ithome.com/html/760455.htm)
+
