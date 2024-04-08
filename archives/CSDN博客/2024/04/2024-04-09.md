@@ -101,3 +101,29 @@
 
 + [【项目实战经验】DataKit迁移MySQL到openGauss（下）](https://blog.csdn.net/GaussDB/article/details/137345997)
 
++ [Dify开源大语言模型(LLM) 应用开发平台如何使用Docker部署与远程访问](https://blog.csdn.net/a1657054242/article/details/137525676)
+
++ [[工具使用]绕过付费-适用于谷歌/火狐/Edge浏览器](https://blog.csdn.net/m0_46363249/article/details/137520577)
+
++ [Spring Boot：数据库的整合](https://blog.csdn.net/qq_56886142/article/details/136979315)
+
++ [知识推理技术解析与实战](https://blog.csdn.net/magicyangjay111/article/details/137497612)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/dexi113/article/details/137470967)
+
++ [文献学习-30-GRAB-Net: 用于医学点云分割的图的边界感知网络](https://blog.csdn.net/Metaphysicist/article/details/137511715)
+
++ [Linux系统Docker部署Apache Superset并实现公网实时访问本地数据](https://blog.csdn.net/qiuqiushuibx/article/details/137510800)
+
++ [什么是 SD NAND？](https://blog.csdn.net/qyj19920704/article/details/137512751)
+
++ [【Entity Framework】EF配置文件设置详解](https://blog.csdn.net/songjianlong/article/details/137478574)
+
++ [鸿蒙学习记录](https://blog.csdn.net/C__Try/article/details/137435876)
+
++ [【Spring】SpringBoot整合MybatisPlusGernerator，MybatisPlus逆向工程](https://blog.csdn.net/qq_61024956/article/details/137502545)
+
++ [SpringBoot的核心特性](https://blog.csdn.net/qw12320/article/details/137481895)
+
++ [HTTP【超文本传输协议】和HTTPS【超文本传输安全协议】有什么区别？](https://blog.csdn.net/Reggie97/article/details/137479353)
+
