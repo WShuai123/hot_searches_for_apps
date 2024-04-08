@@ -211,3 +211,5 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
+
