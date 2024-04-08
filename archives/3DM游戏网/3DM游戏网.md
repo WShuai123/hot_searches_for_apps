@@ -185,3 +185,7 @@
 
 + [《便便不同》4月11日登陆Steam 大便生产线监控](https://www.3dmgame.com/news/202404/3892264.html)
 
++ [生活模拟MMO《Palia》开发商裁员 三分之一员工被裁](https://www.3dmgame.com/news/202404/3892268.html)
+
++ [玩家发现未拆封红白机游戏卡带售价惊人 高达9万美元一张](https://www.3dmgame.com/news/202404/3892267.html)
+

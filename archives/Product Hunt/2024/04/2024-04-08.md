@@ -101,3 +101,13 @@
 
 + [Free Jira Time Tracker by Everhour](https://www.producthunt.com/posts/free-jira-time-tracker-by-everhour)
 
++ [Yazero](https://www.producthunt.com/posts/yazero)
+
++ [RedCom.ai](https://www.producthunt.com/posts/redcom-ai)
+
++ [Goaly](https://www.producthunt.com/posts/goaly-3)
+
++ [Lancepilot](https://www.producthunt.com/posts/lancepilot)
+
++ [Reform](https://www.producthunt.com/posts/reform-2)
+

@@ -39,3 +39,5 @@
 
 + [Redmi Turbo 3 手机上架并开启预约，王腾称价格不可能 2000 元以内](https://m.ithome.com/html/760455.htm)
 
++ [小米首款开放式耳机亮相，4 月 10 日晚发布](https://m.ithome.com/html/760474.htm)
+

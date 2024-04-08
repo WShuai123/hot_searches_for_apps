@@ -143,3 +143,13 @@
 
 + [OpenAI 推出新网络爬虫GPTBot，为GPT-5做准备](https://blog.csdn.net/maizousidemao/article/details/137477394)
 
++ [轨迹规划 | 图解最优控制LQR算法(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/137479248)
+
++ [商业分析思维与实践：用数据分析解决商业问题](https://blog.csdn.net/qq_44273429/article/details/137493489)
+
++ [深入MyBatis的动态SQL：概念、特性与实例解析](https://blog.csdn.net/qq_53847859/article/details/137404901)
+
++ [Docker之镜像与容器的相关操作](https://blog.csdn.net/weixin_74457789/article/details/137472344)
+
++ [nginx部署前端教程](https://blog.csdn.net/niulinbiao/article/details/137475630)
+
