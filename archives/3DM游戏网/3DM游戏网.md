@@ -229,3 +229,5 @@
 
 + [2024年4月进口网络游戏版号公布 《宝可梦：走吧！伊布》过审](https://www.3dmgame.com/news/202404/3892288.html)
 
++ [七彩虹推出首款Mini PC 搭载酷睿i5-12450H,首发1599元起](https://www.3dmgame.com/news/202404/3892289.html)
+

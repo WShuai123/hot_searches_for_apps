@@ -55,3 +55,5 @@
 
 + [（更新：已修复）腾讯云崩了：控制台相关服务异常，正在紧急排查恢复](https://m.ithome.com/html/760568.htm)
 
++ [古尔曼：苹果 2024 年年底前发布 iPad（第 11 代）和 iPad mini（第 7 代）](https://m.ithome.com/html/760445.htm)
+

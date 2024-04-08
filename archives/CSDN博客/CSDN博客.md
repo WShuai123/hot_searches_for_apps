@@ -165,3 +165,11 @@
 
 + [免费分享一套微信小程序在线订餐(点餐)配送系统(SpringBoot+Vue)，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/137423213)
 
++ [Elasticsearch索引之嵌套类型：深度剖析与实战应用](https://blog.csdn.net/qq_26664043/article/details/137438939)
+
++ [数据挖掘及其近年来研究热点介绍](https://blog.csdn.net/qq_46009046/article/details/136990881)
+
++ [为什么大型语言模型都在使用 SwiGLU 作为激活函数？](https://blog.csdn.net/m0_46510245/article/details/137496904)
+
++ [数据分析案例-牛油果价格和销量数据可视化分析与预测（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135642869)
+

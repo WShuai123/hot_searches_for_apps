@@ -69,3 +69,5 @@
 
 + [FreeBuf 全球网络安全产业投融资观察（3月）](https://www.freebuf.com/news/397214.html)
 
++ [倒计时两天！| FreeBuf 企业安全俱乐部·广州站](https://www.freebuf.com/fevents/397141.html)
+
