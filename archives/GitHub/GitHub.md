@@ -51,3 +51,33 @@
 
 + [logspace-ai / langflow](https://github.com/logspace-ai/langflow)
 
++ [nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+
++ [PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT)
+
++ [netease-youdao / QAnything](https://github.com/netease-youdao/QAnything)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights)
+
++ [ZLMediaKit / ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
+
++ [conductor-oss / conductor](https://github.com/conductor-oss/conductor)
+
++ [Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [enricoros / big-AGI](https://github.com/enricoros/big-AGI)
+
++ [PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)
+
++ [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
++ [HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources)
+
