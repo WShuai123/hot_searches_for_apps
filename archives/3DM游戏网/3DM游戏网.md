@@ -105,3 +105,13 @@
 
 + [《浪人崛起》媒体赞誉宣传片 浪人武士来袭](https://www.3dmgame.com/news/202404/3892298.html)
 
++ [派拉蒙公布《纳克鲁斯》衍生剧集新预告片](https://www.3dmgame.com/news/202404/3892304.html)
+
++ [Intel XeSS 1.3发布：2倍原生性能 鬼影更少了](https://www.3dmgame.com/news/202404/3892303.html)
+
++ [《辐射》改编美剧将于4/11上线Twitch](https://www.3dmgame.com/news/202404/3892302.html)
+
++ [横版射击游戏《最终变形战机》面向NS/PC公布](https://www.3dmgame.com/news/202404/3892301.html)
+
++ [沙发合作动作游戏《赶紧送走》4/19推出](https://www.3dmgame.com/news/202404/3892300.html)
+
