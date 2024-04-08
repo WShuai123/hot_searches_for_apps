@@ -189,3 +189,15 @@
 
 + [玩家发现未拆封红白机游戏卡带售价惊人 高达9万美元一张](https://www.3dmgame.com/news/202404/3892267.html)
 
++ [小米SU7车主不是砸就是拆 雷军：百万网友亲测严选Dream car](https://www.3dmgame.com/news/202404/3892273.html)
+
++ [《深夏时光！二十世纪的暑假》中文版宣布6月20日发售 登陆Switch](https://www.3dmgame.com/news/202404/3892274.html)
+
++ [《Spirit City: Lofi Sessions》登陆Steam 专注放松工具游戏](https://www.3dmgame.com/news/202404/3892272.html)
+
++ [2024年日本游戏大赏投票开启 新增两个奖项](https://www.3dmgame.com/news/202404/3892271.html)
+
++ [《漫威蜘蛛侠 重置版》玩家自制《无敌少侠》第二季“蜘蛛特工”皮肤](https://www.3dmgame.com/news/202404/3892270.html)
+
++ [《警察局模拟器》Steam页面上线 翻新改造扩张](https://www.3dmgame.com/news/202404/3892269.html)
+

@@ -41,3 +41,5 @@
 
 + [小米首款开放式耳机亮相，4 月 10 日晚发布](https://m.ithome.com/html/760474.htm)
 
++ [16GB + 1TB 仅 1750 元：Redmi Note 12 Turbo 手机京东自营清仓](https://m.ithome.com/html/760504.htm)
+
