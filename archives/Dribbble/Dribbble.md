@@ -49,3 +49,19 @@
 
 + [KAWAII City](https://dribbble.com/shots/)
 
++ [Banana phone ????☎️](https://dribbble.com/shots/)
+
++ [Valencia Design](https://dribbble.com/shots/)
+
++ [Sketch](https://dribbble.com/shots/)
+
++ [Still no pickles!](https://dribbble.com/shots/)
+
++ [Rebels & Renegades Apparel Graphic](https://dribbble.com/shots/)
+
++ [Diversity](https://dribbble.com/shots/)
+
++ [summit ⛰︎ men](https://dribbble.com/shots/)
+
++ [Memories from Kerala](https://dribbble.com/shots/)
+

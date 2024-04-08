@@ -25,3 +25,5 @@
 
 + [4999 元，华为 WATCH 4 Pro 太空探索手表预售：支持 UWB 控车、问界 M9 迎宾](https://m.ithome.com/html/760462.htm)
 
++ [小米 Redmi Turbo 3 手机屏幕预热：1.5K 分辨率、2400nit 峰值亮度](https://m.ithome.com/html/760598.htm)
+
