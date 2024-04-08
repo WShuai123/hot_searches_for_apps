@@ -119,3 +119,7 @@
 
 + [Java流操作解析：深度剖析中间操作、终端操作与并行处理机制](https://blog.csdn.net/qq_51601665/article/details/137413873)
 
++ [神经网络是如何学习预测的？](https://blog.csdn.net/glaxy1/article/details/137468403)
+
++ [外包干了5天，技术退步明显.......](https://blog.csdn.net/lzz718719/article/details/137400995)
+

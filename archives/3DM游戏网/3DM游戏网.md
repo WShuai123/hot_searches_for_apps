@@ -119,3 +119,17 @@
 
 + [《铁拳8》在通行证引入后被Steam用户评论炮轰](https://www.3dmgame.com/news/202404/3892230.html)
 
++ [《Chaos Islands》Steam页面上线 卡牌构建+塔防](https://www.3dmgame.com/news/202404/3892237.html)
+
++ [2024 宝可梦世界锦标赛举办日期揭晓 8月16日开启](https://www.3dmgame.com/news/202404/3892238.html)
+
++ [《浪人崛起》日本实体销量已超《龙之信条2》](https://www.3dmgame.com/news/202404/3892239.html)
+
++ [《星球大战：法外狂徒》宣传物料曝光 预购即将开启](https://www.3dmgame.com/news/202404/3892240.html)
+
++ [《地狱潜者2》新补丁导致游戏崩溃 官方建议玩家休息几天](https://www.3dmgame.com/news/202404/3892234.html)
+
++ [《哥斯拉大战金刚2》全球票房超3.6亿美元 中国成海外市场最大票仓](https://www.3dmgame.com/news/202404/3892235.html)
+
++ [调查显示：2023年玩家们60%的游戏时间花在老游戏上](https://www.3dmgame.com/news/202404/3892236.html)
+
