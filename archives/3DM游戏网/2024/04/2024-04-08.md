@@ -111,3 +111,11 @@
 
 + [16人联机《一揆团结》4月18日登陆Switch](https://www.3dmgame.com/news/202404/3892227.html)
 
++ [中裕司发推指责勇者斗恶龙制作人向法庭撒谎](https://www.3dmgame.com/news/202404/3892233.html)
+
++ [Troy Baker没有为《GTA6》中杰森配音](https://www.3dmgame.com/news/202404/3892232.html)
+
++ [《辐射2》粉丝自制重制版vs原版对比视频](https://www.3dmgame.com/news/202404/3892231.html)
+
++ [《铁拳8》在通行证引入后被Steam用户评论炮轰](https://www.3dmgame.com/news/202404/3892230.html)
+
