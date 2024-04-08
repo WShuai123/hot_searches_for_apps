@@ -179,3 +179,9 @@
 
 + [《地狱潜者2》机器人种族被歼灭 东线终结族成首要目标](https://www.3dmgame.com/news/202404/3892263.html)
 
++ [医生小说家推理作品《天久鹰央的事件病历表》即将动画化](https://www.3dmgame.com/news/202404/3892265.html)
+
++ [网飞电影《城市猎人》正式预告 4月25日上线](https://www.3dmgame.com/news/202404/3892266.html)
+
++ [《便便不同》4月11日登陆Steam 大便生产线监控](https://www.3dmgame.com/news/202404/3892264.html)
+

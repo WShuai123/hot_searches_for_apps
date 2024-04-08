@@ -137,3 +137,9 @@
 
 + [HTTP【超文本传输协议】和HTTPS【超文本传输安全协议】有什么区别？](https://blog.csdn.net/Reggie97/article/details/137479353)
 
++ [Kubernetes（k8s）：Pod 的 Node Selector详解](https://blog.csdn.net/qq_41840843/article/details/137383037)
+
++ [基于无线物联网的智能配电监控系统设计应用](https://blog.csdn.net/acrelxyy/article/details/137455091)
+
++ [OpenAI 推出新网络爬虫GPTBot，为GPT-5做准备](https://blog.csdn.net/maizousidemao/article/details/137477394)
+
