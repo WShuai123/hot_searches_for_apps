@@ -59,3 +59,5 @@
 
 + [D-Link NAS 设备存在严重 RCE 漏洞，数万用户受到影响](https://www.freebuf.com/news/397297.html)
 
++ [明早9点，羊城相聚 | FreeBuf 企业安全俱乐部·广州站](https://www.freebuf.com/fevents/397258.html)
+

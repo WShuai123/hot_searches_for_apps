@@ -213,3 +213,19 @@
 
 + [动画电影《KILLTUBE》先导预告公开 预定2026年春季上映](https://www.3dmgame.com/news/202404/3892352.html)
 
++ [《星空》新MOD发布 大幅度扩展据点建设要素](https://www.3dmgame.com/news/202404/3892360.html)
+
++ [低于大部分车企：比亚迪卖一辆车净赚9000元](https://www.3dmgame.com/news/202404/3892361.html)
+
++ [一个时代结束 任天堂3DS和Wii U在线游戏服务终止](https://www.3dmgame.com/news/202404/3892359.html)
+
++ [AI剧本杀游戏《AI公寓：虚拟证言》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3892358.html)
+
++ [多人对战游戏《Tank Team》即将付费 开发者呼吁快领免费版](https://www.3dmgame.com/news/202404/3892357.html)
+
++ [策略游戏《63 Days》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892356.html)
+
++ [漫改动画《疑似后宫》公布首个宣传PV 7月正式播出](https://www.3dmgame.com/news/202404/3892355.html)
+
++ [《主播女孩重度依赖》动画正在制作中 更多细节明年公布](https://www.3dmgame.com/news/202404/3892354.html)
+

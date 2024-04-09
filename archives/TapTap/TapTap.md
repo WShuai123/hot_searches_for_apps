@@ -21,3 +21,5 @@
 
 + [蛋仔派对](https://www.taptap.cn/app/206776)
 
++ [祖宗模拟器](https://www.taptap.cn/app/238377)
+
