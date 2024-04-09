@@ -183,3 +183,7 @@
 
 + [《containerd原理剖析与实战》大模型时代下如何学习云原生](https://blog.csdn.net/JHXL_/article/details/137554786)
 
++ [Three.js--》实现2D转3D的元素周期表](https://blog.csdn.net/qq_53123067/article/details/137490859)
+
++ [openGauss 5.0 单点企业版部署_Centos7_x86（上）](https://blog.csdn.net/GaussDB/article/details/137551588)
+

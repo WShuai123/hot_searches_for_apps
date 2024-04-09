@@ -141,3 +141,7 @@
 
 + [BoilerplateHQ](https://www.producthunt.com/posts/boilerplatehq)
 
++ [Chat2DB Pro](https://www.producthunt.com/posts/chat2db-pro)
+
++ [Only The Recipe](https://www.producthunt.com/posts/only-the-recipe)
+

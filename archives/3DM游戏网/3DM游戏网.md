@@ -251,3 +251,13 @@
 
 + [台积电从《芯片法案》获得66亿美元补贴 计划在凤凰城建造第三座晶圆厂](https://www.3dmgame.com/news/202404/3892373.html)
 
++ [二战RTS游戏《63天》公布 登陆PC和主机平台](https://www.3dmgame.com/news/202404/3892378.html)
+
++ [《星球大战：法外狂徒》将于8月30日正式发售](https://www.3dmgame.com/news/202404/3892377.html)
+
++ [《GTA6》高级美工：Xbox Series S白给都不要](https://www.3dmgame.com/news/202404/3892376.html)
+
++ [《星刃》主游戏现已开发完毕 压盘送厂](https://www.3dmgame.com/news/202404/3892375.html)
+
++ [微软正全速推进下一代Xbox主机硬件的开发](https://www.3dmgame.com/news/202404/3892374.html)
+
