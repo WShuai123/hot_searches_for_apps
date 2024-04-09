@@ -187,3 +187,5 @@
 
 + [openGauss 5.0 单点企业版部署_Centos7_x86（上）](https://blog.csdn.net/GaussDB/article/details/137551588)
 
++ [【算法统治世界】动态规划 个人笔记总结](https://blog.csdn.net/m0_72803988/article/details/137384450)
+
