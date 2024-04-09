@@ -29,3 +29,5 @@
 
 + [小米 Redmi Turbo 3 手机哈利・波特版官宣，定制礼盒设计](https://m.ithome.com/html/760757.htm)
 
++ [广汽埃安昊铂“全固态”电池 4 月 12 日发布，号称 100% 固态电解质](https://m.ithome.com/html/760777.htm)
+

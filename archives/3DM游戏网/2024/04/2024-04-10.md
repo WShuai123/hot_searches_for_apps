@@ -101,3 +101,9 @@
 
 + [《遗迹2》发行商宣布更名为ARC GAMES 将继续发行游戏](https://www.3dmgame.com/news/202404/3892331.html)
 
++ [《星球大战：亡命之徒》中文预告 8月30日发售](https://www.3dmgame.com/news/202404/3892384.html)
+
++ [2.5D类魂《笠鬼》EA版今日上线 首发特惠52.2元](https://www.3dmgame.com/news/202404/3892382.html)
+
++ [《太阳之子》IGN7分 有创意、但重复显得无趣](https://www.3dmgame.com/news/202404/3892383.html)
+
