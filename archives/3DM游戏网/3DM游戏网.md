@@ -123,3 +123,17 @@
 
 + [《地狱之刃2》售前直播探讨精神病女主经历](https://www.3dmgame.com/news/202404/3892305.html)
 
++ [板卡厂商预测：RTX 5090/5080今年Q4上市](https://www.3dmgame.com/news/202404/3892315.html)
+
++ [消息称暴雪国服回归将于本周官宣 国内玩家高兴吗？](https://www.3dmgame.com/news/202404/3892314.html)
+
++ [《盗贼之海》PS5版本周开启BETA封测 需预购游戏](https://www.3dmgame.com/news/202404/3892313.html)
+
++ [日本去年有18家街机厅破产 街机没人玩了吗？](https://www.3dmgame.com/news/202404/3892312.html)
+
++ [迪士尼游戏部门领导层扩容 迎来前暴雪和育碧高管](https://www.3dmgame.com/news/202404/3892311.html)
+
++ [扎导力作《月球叛军2》新海报曝光 九大角色登场亮相](https://www.3dmgame.com/news/202404/3892310.html)
+
++ [CDPR仍然愿意为《赛博朋克2077》提供更多新内容](https://www.3dmgame.com/news/202404/3892309.html)
+

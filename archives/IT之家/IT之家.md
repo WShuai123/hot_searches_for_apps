@@ -27,3 +27,9 @@
 
 + [小米 Redmi Turbo 3 手机屏幕预热：1.5K 分辨率、2400nit 峰值亮度](https://m.ithome.com/html/760598.htm)
 
++ [（更新：智己官方致歉）小米公司发言人深夜连发三文：最后一次敦促智己立即正式道歉，否则将通过法律维权](https://m.ithome.com/html/760662.htm)
+
++ [不收 3 块 5，高德志向不在盈利](https://m.ithome.com/html/760616.htm)
+
++ [成都天府通 App 因频繁弹窗被责令整改，四川通信管理局称已发布新版本](https://m.ithome.com/html/760648.htm)
+
