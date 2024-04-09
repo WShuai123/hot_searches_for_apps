@@ -69,3 +69,13 @@
 
 + [Valencia Design](https://dribbble.com/shots/)
 
++ [KAWAII City](https://dribbble.com/shots/)
+
++ [Rotundo Soft](https://dribbble.com/shots/)
+
++ [Regions of Canada](https://dribbble.com/shots/)
+
++ [The Camel 4/17 Gig Poster](https://dribbble.com/shots/)
+
++ [Havana](https://dribbble.com/shots/)
+
