@@ -119,3 +119,9 @@
 
 + [哭泣少女乐队 - ①](http://www.acfun.cn/v/ac44273860)
 
++ [一起来感受夏天的快乐吧～](http://www.acfun.cn/v/ac44287532)
+
++ [99元一位的自助牛肉火锅，锅底另算竟要40多元？](http://www.acfun.cn/v/ac44288748)
+
++ [是灰色也是紫色~ Mr chu](http://www.acfun.cn/v/ac44255693)
+

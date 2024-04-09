@@ -53,3 +53,5 @@
 
 + [小米雷军发文预祝智界 S7 大卖：中国新能源车行业一起向前](https://m.ithome.com/html/760806.htm)
 
++ [小米 Redmi Pad Pro 平板预热：10000mAh 电池容量，支持反向充电](https://m.ithome.com/html/760649.htm)
+
