@@ -51,3 +51,5 @@
 
 + [罗永浩称自己已来不及造车，9 月将发布科技产品](https://m.ithome.com/html/760730.htm)
 
++ [小米雷军发文预祝智界 S7 大卖：中国新能源车行业一起向前](https://m.ithome.com/html/760806.htm)
+

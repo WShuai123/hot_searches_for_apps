@@ -51,3 +51,35 @@
 
 + [HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources)
 
++ [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [dockur / windows](https://github.com/dockur/windows)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
++ [nodejs / nodejs.org](https://github.com/nodejs/nodejs.org)
+
++ [agiresearch / AIOS](https://github.com/agiresearch/AIOS)
+
++ [huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference)
+
++ [InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle)
+
++ [git / git](https://github.com/git/git)
+
++ [nlohmann / json](https://github.com/nlohmann/json)
+
++ [google / googletest](https://github.com/google/googletest)
+
