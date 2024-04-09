@@ -109,3 +109,21 @@
 
 + [yolo-yolov5介绍](https://blog.csdn.net/tywwwww/article/details/137498858)
 
++ [深入探索实时音视频技术：RTC程序设计权威指南](https://blog.csdn.net/qq_44273429/article/details/137556191)
+
++ [springboot3使用自定义注解+AOP+redis优雅实现防重复提交](https://blog.csdn.net/qq_62262918/article/details/137483835)
+
++ [【深度学习】YOLO-World: Real-Time Open-Vocabulary Object Detection，目标检测](https://blog.csdn.net/x1131230123/article/details/137506449)
+
++ [数据挖掘及其近年来研究热点介绍](https://blog.csdn.net/qq_46009046/article/details/136990881)
+
++ [使用 Meltano 将数据从 Snowflake 导入到 Elasticsearch：开发者之旅](https://blog.csdn.net/UbuntuTouch/article/details/137534731)
+
++ [OpenHarmony开发-连接开发板调试应用](https://blog.csdn.net/weixin_41793160/article/details/137567835)
+
++ [咸鱼之王_手游_开服搭建架设_内购修复无bug运营版](https://blog.csdn.net/LuoZheng4698729/article/details/137527435)
+
++ [深度解析Elasticsearch索引数据量过大的优化与部署策略](https://blog.csdn.net/2201_75809246/article/details/137509649)
+
++ [k8s企业级应用系列（二）：对象管理及Pod原理](https://blog.csdn.net/qq_40214669/article/details/137522990)
+
