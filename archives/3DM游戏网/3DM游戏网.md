@@ -183,3 +183,15 @@
 
 + [网易回应暴雪国服回归：4月10日肯定官宣！](https://www.3dmgame.com/news/202404/3892338.html)
 
++ [知名游戏主播确诊中风 当事人：希望大家好好运动](https://www.3dmgame.com/news/202404/3892344.html)
+
++ [沙盒建造模拟游戏《水上乐园大亨》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892343.html)
+
++ [PSP模拟器开发者：PPSSPP计划登陆苹果商城](https://www.3dmgame.com/news/202404/3892342.html)
+
++ [《Feed》Steam页面上线 像素复古风恐怖动作射击](https://www.3dmgame.com/news/202404/3892341.html)
+
++ [北美上演罕见日全食 关键词“眼睛受伤”谷歌搜索量激增](https://www.3dmgame.com/news/202404/3892340.html)
+
++ [官方整活 《地狱潜者2》为剿灭机器人的玩家提供1分钟休息作为奖励](https://www.3dmgame.com/news/202404/3892339.html)
+

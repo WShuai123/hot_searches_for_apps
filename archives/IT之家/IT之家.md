@@ -43,3 +43,5 @@
 
 + [理想 L6 汽车 4 月 18 日发布：定位“家庭五座豪华 SUV”，首次发力 30 万元以下](https://m.ithome.com/html/760513.htm)
 
++ [全新保时捷 Panamera 车型国内调价：现售 113.8 万元起，涨幅最高达 10 万元](https://m.ithome.com/html/760592.htm)
+

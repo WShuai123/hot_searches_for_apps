@@ -51,3 +51,5 @@
 
 + [倒计时两天 | FreeBuf 企业安全俱乐部·广州站](https://www.freebuf.com/fevents/397141.html)
 
++ [企业安全 | 安全风险评估实施路径](https://www.freebuf.com/articles/paper/396827.html)
+

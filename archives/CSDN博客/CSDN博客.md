@@ -141,3 +141,5 @@
 
 + [基于单片机干湿垃圾自动分类系统](https://blog.csdn.net/QQ_2193276455/article/details/137429543)
 
++ [CasaOS玩客云部署AList+Aria2结合内网穿透实现公网离线下载文件至网盘](https://blog.csdn.net/Aileenvov/article/details/137523826)
+
