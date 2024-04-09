@@ -163,3 +163,11 @@
 
 + [（3）(3.1) 英特尔Realsense深度摄像头（一）](https://blog.csdn.net/qq_20016593/article/details/137266979)
 
++ [Docker之数据卷和Dockerfile](https://blog.csdn.net/weixin_74457789/article/details/137527793)
+
++ [K8s技术全景：架构、应用与优化](https://blog.csdn.net/dsgdauigfs/article/details/137500465)
+
++ [网络通信三要素：IP、端口和协议](https://blog.csdn.net/qq_62636650/article/details/137525905)
+
++ [本地部署WebSocket服务端结合内网穿透实现公网远程即时通讯](https://blog.csdn.net/asdssadddd/article/details/137518998)
+
