@@ -127,3 +127,7 @@
 
 + [k8s企业级应用系列（二）：对象管理及Pod原理](https://blog.csdn.net/qq_40214669/article/details/137522990)
 
++ [【PHP系统学习】——Laravel框架数据库的连接以及数据库的增删改查的详细教程](https://blog.csdn.net/2301_77628600/article/details/137483256)
+
++ [网络网络层之(7)PPPOE协议](https://blog.csdn.net/Once_day/article/details/137572822)
+
