@@ -101,3 +101,11 @@
 
 + [第十三篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作PPT](https://blog.csdn.net/jackchuanqi/article/details/137383565)
 
++ [Three.js--》实现2D转3D的元素周期表](https://blog.csdn.net/qq_53123067/article/details/137490859)
+
++ [【Linux实践室】Linux高级用户管理实战指南：创建与删除用户组操作详解](https://blog.csdn.net/2301_80026901/article/details/137436349)
+
++ [【算法统治世界】动态规划 个人笔记总结](https://blog.csdn.net/m0_72803988/article/details/137384450)
+
++ [yolo-yolov5介绍](https://blog.csdn.net/tywwwww/article/details/137498858)
+

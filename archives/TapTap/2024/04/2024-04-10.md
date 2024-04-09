@@ -21,3 +21,5 @@
 
 + [祖宗模拟器](https://www.taptap.cn/app/238377)
 
++ [泰拉瑞亚](https://www.taptap.cn/app/194610)
+
