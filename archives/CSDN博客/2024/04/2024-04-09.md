@@ -175,3 +175,11 @@
 
 + [vue3+Ts+Ant Design Vue +天地图组件封装](https://blog.csdn.net/2302_76329106/article/details/137537886)
 
++ [2014最新AI智能系统ChatGPT网站源码+Midjourney绘画网站源码+搭建部署教程文档](https://blog.csdn.net/weixin_43227851/article/details/137526126)
+
++ [数据库连接查询](https://blog.csdn.net/weixin_42795092/article/details/137504464)
+
++ [实现 jwt 鉴权- SpringBoot + 微服务](https://blog.csdn.net/weixin_62645763/article/details/137497217)
+
++ [《containerd原理剖析与实战》大模型时代下如何学习云原生](https://blog.csdn.net/JHXL_/article/details/137554786)
+

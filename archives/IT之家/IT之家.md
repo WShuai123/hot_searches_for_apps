@@ -55,3 +55,5 @@
 
 + [小米 Redmi Pad Pro 平板预热：10000mAh 电池容量，支持反向充电](https://m.ithome.com/html/760649.htm)
 
++ [2999 元起，中兴努比亚 nubia Flip 小折叠手机发布](https://m.ithome.com/html/760765.htm)
+

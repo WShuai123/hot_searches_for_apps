@@ -125,3 +125,11 @@
 
 + [是灰色也是紫色~ Mr chu](http://www.acfun.cn/v/ac44255693)
 
++ [【沙蒜豆面】丑！但很好吃！](http://www.acfun.cn/v/ac44281741)
+
++ [比印度美食更离谱 还真就啥都能往锅里加呀？](http://www.acfun.cn/v/ac44281525)
+
++ [进来被小鼓灵硬控25秒！](http://www.acfun.cn/v/ac44288545)
+
++ [炸辣椒，切记不要直接下锅炸，多加这两步，又香又脆，久放不回软](http://www.acfun.cn/v/ac44287759)
+
