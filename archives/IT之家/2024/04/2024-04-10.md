@@ -25,3 +25,7 @@
 
 + [华为鸿蒙智行官微：祝贺雷总率小米汽车实现 SU7 上市热销，开局成功](https://m.ithome.com/html/760845.htm)
 
++ [华为鸿蒙生态春季沟通会官宣 4 月 11 日举行，将推出智界 S7、MateBook 新品](https://m.ithome.com/html/760754.htm)
+
++ [小米 Redmi Turbo 3 手机哈利・波特版官宣，定制礼盒设计](https://m.ithome.com/html/760757.htm)
+
