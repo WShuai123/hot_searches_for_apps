@@ -35,3 +35,11 @@
 
 + [智己 L6 新车发布会标错小米 SU7 Max 关键参数，小米敦促智己澄清](https://m.ithome.com/html/760658.htm)
 
++ [华为 P70 或突袭上架，多家门店再回应“先锋计划”](https://m.ithome.com/html/760679.htm)
+
++ [（更新：预计明日官宣）消息称暴雪国服本周官宣回归，网易丁磊和暴雪新 CEO Faries 会面](https://m.ithome.com/html/760680.htm)
+
++ [小米汽车：SU7 支持 80-160km/h最高车速限制，车主最多可授予 7 人用车权限](https://m.ithome.com/html/760638.htm)
+
++ [理想 L6 汽车 4 月 18 日发布：定位“家庭五座豪华 SUV”，首次发力 30 万元以下](https://m.ithome.com/html/760513.htm)
+

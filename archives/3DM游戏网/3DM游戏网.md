@@ -175,3 +175,11 @@
 
 + [电子TCG开发者：已支付AI画师9万美元生成立绘](https://www.3dmgame.com/news/202404/3892327.html)
 
++ [据报道网飞Netflix宣布裁员 并重组旗下电影部门](https://www.3dmgame.com/news/202404/3892337.html)
+
++ [自主建造 “深海一号”二期最大水下生产设施完成就位](https://www.3dmgame.com/news/202404/3892336.html)
+
++ [马斯克谈AI 预测AI在明年会超越最聪明的人类](https://www.3dmgame.com/news/202404/3892335.html)
+
++ [网易回应暴雪国服回归：4月10日肯定官宣！](https://www.3dmgame.com/news/202404/3892338.html)
+
