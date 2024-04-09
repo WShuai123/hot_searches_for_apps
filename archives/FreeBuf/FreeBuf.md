@@ -45,3 +45,5 @@
 
 + [2024数据安全：超过60%组织的DLP“成熟度低”](https://www.freebuf.com/articles/paper/396114.html)
 
++ [安全编排自动化响应SOAR项目实践经验总结 | 方案篇](https://www.freebuf.com/articles/es/396714.html)
+

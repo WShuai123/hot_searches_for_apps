@@ -137,3 +137,21 @@
 
 + [CDPR仍然愿意为《赛博朋克2077》提供更多新内容](https://www.3dmgame.com/news/202404/3892309.html)
 
++ [集英社官方警告 《火影忍者》岸本齐史本人没有发布任何SNS](https://www.3dmgame.com/news/202404/3892324.html)
+
++ [MMORPG《寻路者》因更换发行商而暂时从Steam平台下架](https://www.3dmgame.com/news/202404/3892323.html)
+
++ [《无主之地》真人电影新剧照 六大主演集体亮相](https://www.3dmgame.com/news/202404/3892322.html)
+
++ [《刺客信条：幻景》1.08更新即将上线 完善现有内容](https://www.3dmgame.com/news/202404/3892321.html)
+
++ [电影《登月大计划》首支预告 7月12日正式上映](https://www.3dmgame.com/news/202404/3892320.html)
+
++ [《猩球崛起4：新世界》新预告发布 新世界谁将主宰！](https://www.3dmgame.com/news/202404/3892319.html)
+
++ [制片人表示《刺猬索尼克》电影系列向“复仇者联盟级别”看齐](https://www.3dmgame.com/news/202404/3892318.html)
+
++ [《胜利女神》新女神贝依4月11日登场 新外传故事上线](https://www.3dmgame.com/news/202404/3892317.html)
+
++ [光荣特库摩起诉游族侵犯版权 要求停止侵权赔偿损失](https://www.3dmgame.com/news/202404/3892316.html)
+

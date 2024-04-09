@@ -33,3 +33,5 @@
 
 + [成都天府通 App 因频繁弹窗被责令整改，四川通信管理局称已发布新版本](https://m.ithome.com/html/760648.htm)
 
++ [智己 L6 新车发布会标错小米 SU7 Max 关键参数，小米敦促智己澄清](https://m.ithome.com/html/760658.htm)
+
