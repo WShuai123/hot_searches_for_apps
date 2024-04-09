@@ -53,3 +53,9 @@
 
 + [企业安全 | 安全风险评估实施路径](https://www.freebuf.com/articles/paper/396827.html)
 
++ [Todesstern：一款针对注入漏洞识别的强大变异器引擎](https://www.freebuf.com/sectool/396017.html)
+
++ [卡巴斯基粉丝论坛泄露了5.7万名用户数据](https://www.freebuf.com/news/397320.html)
+
++ [D-Link NAS 设备存在严重 RCE 漏洞，数万用户受到影响](https://www.freebuf.com/news/397297.html)
+

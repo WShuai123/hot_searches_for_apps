@@ -109,3 +109,31 @@
 
 + [Pyramid Solitaire](https://www.producthunt.com/posts/pyramid-solitaire-2)
 
++ [Prelaunch AI Idea Validator](https://www.producthunt.com/posts/prelaunch-ai-idea-validator)
+
++ [OpenUI](https://www.producthunt.com/posts/openui)
+
++ [ScreenSnapAI](https://www.producthunt.com/posts/screensnapai)
+
++ [Shorebird](https://www.producthunt.com/posts/shorebird)
+
++ [Buckist](https://www.producthunt.com/posts/buckist)
+
++ [Chart Builder by TextQuery](https://www.producthunt.com/posts/chart-builder-by-textquery)
+
++ [Gully League](https://www.producthunt.com/posts/gully-league)
+
++ [hoy](https://www.producthunt.com/posts/hoy-953471f9-dc97-4c7b-9c95-76288513d19d)
+
++ [Setify](https://www.producthunt.com/posts/setify-2)
+
++ [Reflectr AI Journal & Diary](https://www.producthunt.com/posts/reflectr-ai-journal-diary)
+
++ [R’ket](https://www.producthunt.com/posts/r-ket)
+
++ [Atomize](https://www.producthunt.com/posts/atomize-2)
+
++ [Mind Studio](https://www.producthunt.com/posts/mind-studio)
+
++ [GitRoll](https://www.producthunt.com/posts/gitroll)
+

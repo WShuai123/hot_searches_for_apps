@@ -209,3 +209,7 @@
 
 + [《龙之信条2》最新更新发布 修复部分任务卡死问题](https://www.3dmgame.com/news/202404/3892345.html)
 
++ [《人狼 iLLANG》免费登陆Steam 多人推理社交狼人游戏](https://www.3dmgame.com/news/202404/3892353.html)
+
++ [动画电影《KILLTUBE》先导预告公开 预定2026年春季上映](https://www.3dmgame.com/news/202404/3892352.html)
+
