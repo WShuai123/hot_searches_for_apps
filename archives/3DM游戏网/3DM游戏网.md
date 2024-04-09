@@ -155,3 +155,23 @@
 
 + [光荣特库摩起诉游族侵犯版权 要求停止侵权赔偿损失](https://www.3dmgame.com/news/202404/3892316.html)
 
++ [《彩虹棉花小魔女》Steam页面上线 5月9日发售](https://www.3dmgame.com/news/202404/3892334.html)
+
++ [《Throne of Bone》Steam抢测 肉鸽元素自走棋新游](https://www.3dmgame.com/news/202404/3892333.html)
+
++ [LOL将推出类吸血鬼幸存者模式 或年中活动上线](https://www.3dmgame.com/news/202404/3892332.html)
+
++ [《遗迹2》发行商宣布更名为ARC GAMES 将继续发行游戏](https://www.3dmgame.com/news/202404/3892331.html)
+
++ [《Leo: The Firefighter Cat》Steam页面上线 10月发售](https://www.3dmgame.com/news/202404/3892330.html)
+
++ [类银河恶魔城游戏《希巴：新的黎明》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892329.html)
+
++ [《妖精的尾巴：百年任务》新角色艺图公布 7月开播](https://www.3dmgame.com/news/202404/3892328.html)
+
++ [继日本官网后 任天堂再次更新其欧洲官网URL地址](https://www.3dmgame.com/news/202404/3892326.html)
+
++ [《仙剑世界》“万物有灵”PV预告 三测将在5月开启](https://www.3dmgame.com/news/202404/3892325.html)
+
++ [电子TCG开发者：已支付AI画师9万美元生成立绘](https://www.3dmgame.com/news/202404/3892327.html)
+
