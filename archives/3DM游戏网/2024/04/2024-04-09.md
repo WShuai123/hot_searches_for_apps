@@ -195,3 +195,17 @@
 
 + [官方整活 《地狱潜者2》为剿灭机器人的玩家提供1分钟休息作为奖励](https://www.3dmgame.com/news/202404/3892339.html)
 
++ [首周特惠58.5元！回合制肉鸽《异界失控》4月12日发售](https://www.3dmgame.com/news/202404/3892350.html)
+
++ [《极限竞速：地平线5》穿越侏罗纪主播娱乐赛火热开赛，赛果新鲜出炉！](https://www.3dmgame.com/news/202404/3892349.html)
+
++ [遍地大神的游戏时代  从编辑器发展史看UGC进化-网易Y3编辑器](https://www.3dmgame.com/news/202404/3892351.html)
+
++ [微软新专利探索声音AI应用 可预估地震风暴等自然灾害](https://www.3dmgame.com/news/202404/3892348.html)
+
++ [国产ARPG《失落之魂》更多消息即将公布](https://www.3dmgame.com/news/202404/3892347.html)
+
++ [《龙之信条2》玩家仅招架BOSS触发隐藏过场动画](https://www.3dmgame.com/news/202404/3892346.html)
+
++ [《龙之信条2》最新更新发布 修复部分任务卡死问题](https://www.3dmgame.com/news/202404/3892345.html)
+

@@ -143,3 +143,9 @@
 
 + [CasaOS玩客云部署AList+Aria2结合内网穿透实现公网离线下载文件至网盘](https://blog.csdn.net/Aileenvov/article/details/137523826)
 
++ [【CSDN活动】人工智能：前沿科技中的创业机遇与挑战](https://blog.csdn.net/qq_44214428/article/details/137538954)
+
++ [华为ensp中PPP(点对点协议)中的PAP认证 原理和配置命令](https://blog.csdn.net/jxjdhdnd/article/details/137506291)
+
++ [如何使用群晖Synology Drive结合cpolar内网穿透实现同步Obsidian笔记文件](https://blog.csdn.net/Ceylan__/article/details/137534349)
+
