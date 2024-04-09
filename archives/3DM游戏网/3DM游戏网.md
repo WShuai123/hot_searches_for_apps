@@ -119,3 +119,9 @@
 
 + [EA将Motive工作室加入《战地》开发团队](https://www.3dmgame.com/news/202404/3892385.html)
 
++ [优衣库推出《塞尔达传说：王国之泪》联名T恤](https://www.3dmgame.com/news/202404/3892393.html)
+
++ [实体版《星球大战：法外狂徒》游戏安装需要联网](https://www.3dmgame.com/news/202404/3892392.html)
+
++ [2K发布视频介绍《上旋高手2k25》四大游戏模式](https://www.3dmgame.com/news/202404/3892391.html)
+
