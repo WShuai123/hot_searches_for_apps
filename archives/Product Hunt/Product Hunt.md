@@ -125,3 +125,7 @@
 
 + [deco.cx 2.0](https://www.producthunt.com/posts/deco-cx-2-0)
 
++ [heardeer](https://www.producthunt.com/posts/heardeer)
+
++ [Picasso](https://www.producthunt.com/posts/picasso)
+

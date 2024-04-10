@@ -231,3 +231,9 @@
 
 + [金亨泰表示《星刃》的主题故事受现实出租车司机罢工事件启发](https://www.3dmgame.com/news/202404/3892439.html)
 
++ [制片公司公开《玩具熊五夜后宫》电影续集幕后照片](https://www.3dmgame.com/news/202404/3892450.html)
+
++ [玩家质疑育碧刻意丑化《星球大战：法外狂徒》女主](https://www.3dmgame.com/news/202404/3892449.html)
+
++ [《原神》4.6版本前瞻特别节目确定 4月12日播出](https://www.3dmgame.com/news/202404/3892448.html)
+

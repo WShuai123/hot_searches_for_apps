@@ -49,3 +49,7 @@
 
 + [直接发布新款 iPad Pro / Air，消息称苹果今年不举办春季特别活动](https://m.ithome.com/html/760903.htm)
 
++ [高管实测全新极氪 001 续航：满电跑了 586 公里，续航达成率达 83%](https://m.ithome.com/html/760956.htm)
+
++ [致国服暴雪游戏玩家的信：当服务器开启时，保证账号数据被完整保留](https://m.ithome.com/html/760937.htm)
+
