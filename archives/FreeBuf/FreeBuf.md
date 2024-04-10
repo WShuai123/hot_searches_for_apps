@@ -49,3 +49,5 @@
 
 + [禁用了也没用？苹果隐私保护受到质疑](https://www.freebuf.com/news/397382.html)
 
++ [新的勒索软件团伙 "Muliaka "瞄准俄罗斯企业](https://www.freebuf.com/news/397388.html)
+

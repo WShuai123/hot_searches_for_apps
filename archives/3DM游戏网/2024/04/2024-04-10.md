@@ -183,3 +183,27 @@
 
 + [WOW致国服玩家的信 确保玩家开服时数据完整](https://www.3dmgame.com/news/202404/3892415.html)
 
++ [《挺进地牢》官方手游预告片 4月19日安卓封测](https://www.3dmgame.com/news/202404/3892433.html)
+
++ [米哈游《绝区零》PS5技术测试开启招募 限量删档不计费](https://www.3dmgame.com/news/202404/3892429.html)
+
++ [联想确认掌机Legion GO 2代：仍在等待时机成熟](https://www.3dmgame.com/news/202404/3892434.html)
+
++ [《模拟农场22》新DLC将于4月30日上线 追加大量新资材](https://www.3dmgame.com/news/202404/3892432.html)
+
++ [因任务奖励延迟发放《绝地潜兵2》开发者表示将重做奖励系统](https://www.3dmgame.com/news/202404/3892431.html)
+
++ [《地狱之刃》女主演：想借演出让痛苦转化为意义](https://www.3dmgame.com/news/202404/3892430.html)
+
++ [育碧关闭韩国分公司 仍提供发行游戏等服务](https://www.3dmgame.com/news/202404/3892428.html)
+
++ [举报人揭发拉第未来11台销量也造假 贾跃亭独断专权](https://www.3dmgame.com/news/202404/3892427.html)
+
++ [《使命召唤》80美金“金刚手套”近战武器引玩家不满](https://www.3dmgame.com/news/202404/3892426.html)
+
++ [指向点击恐怖游戏《Tales from Candleforth》发售日预告 4月30日发售](https://www.3dmgame.com/news/202404/3892425.html)
+
++ [万代南梦宫向《铁拳》Mod网站发出侵权警告 要求删除Mod](https://www.3dmgame.com/news/202404/3892424.html)
+
++ [美少女游戏老厂ALcot宣布解散 最终作《Clover Memory“s》众筹](https://www.3dmgame.com/news/202404/3892423.html)
+
