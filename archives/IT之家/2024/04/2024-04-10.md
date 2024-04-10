@@ -53,3 +53,5 @@
 
 + [致国服暴雪游戏玩家的信：当服务器开启时，保证账号数据被完整保留](https://m.ithome.com/html/760937.htm)
 
++ [余承东：全新华为 MateBook X Pro 将首次支持华为盘古大模型](https://m.ithome.com/html/760933.htm)
+
