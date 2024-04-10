@@ -51,3 +51,35 @@
 
 + [google / googletest](https://github.com/google/googletest)
 
++ [karpathy / llm.c](https://github.com/karpathy/llm.c)
+
++ [miurla / morphic](https://github.com/miurla/morphic)
+
++ [datawhalechina / self-llm](https://github.com/datawhalechina/self-llm)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten)
+
++ [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
+
++ [code100x / daily-code](https://github.com/code100x/daily-code)
+
++ [karpathy / llama2.c](https://github.com/karpathy/llama2.c)
+
++ [ZLMediaKit / ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
++ [karpathy / minGPT](https://github.com/karpathy/minGPT)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
++ [owainlewis / awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+

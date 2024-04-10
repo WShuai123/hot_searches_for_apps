@@ -63,3 +63,5 @@
 
 + [网传桌面版telegram RCE 0day](https://www.freebuf.com/articles/system/397422.html)
 
++ [颠覆大众认知，苹果“强制”收集用户数据](https://www.freebuf.com/news/397382.html)
+
