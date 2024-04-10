@@ -125,3 +125,9 @@
 
 + [Harmony鸿蒙南向驱动开发-I2C](https://blog.csdn.net/m0_64420071/article/details/137569669)
 
++ [从数据到文案：解锁AI大模型新潜力](https://blog.csdn.net/qq_32682301/article/details/137605760)
+
++ [【Machine Learning系列】带你快速学习十大机器学习算法](https://blog.csdn.net/zhangxia_/article/details/137590934)
+
++ [Vue.js3 实战探索构建企业级项目的技巧与策略【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/137572011)
+

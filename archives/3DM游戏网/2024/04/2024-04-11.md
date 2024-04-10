@@ -105,3 +105,7 @@
 
 + [20多款SNK游戏上架GOG 最高降价85%](https://www.3dmgame.com/news/202404/3892477.html)
 
++ [《杀戮尖塔2》正式公布2025年抢先体验](https://www.3dmgame.com/news/202404/3892480.html)
+
++ [死亡细胞开发商制作《波斯王子：Rogue》公布](https://www.3dmgame.com/news/202404/3892479.html)
+
