@@ -65,3 +65,5 @@
 
 + [【东方】アンノウン・マザーグース【蕾米莉亚 雪萱Ver. MMD】](http://www.acfun.cn/v/ac44288548)
 
++ [邓紫棋《句号》现场版](http://www.acfun.cn/v/ac44300489)
+

@@ -101,3 +101,27 @@
 
 + [如何使用vscode启动Flask并实现无公网IP远程访问内网服务](https://blog.csdn.net/m0_75215937/article/details/137523999)
 
++ [智能化办公时代来临：AI助你解放双手](https://blog.csdn.net/qq_32682301/article/details/137500258)
+
++ [数据挖掘实战-基于机器学习的垃圾邮件检测模型（文末送书）](https://blog.csdn.net/m0_64336780/article/details/135442027)
+
++ [【研发日记】Matlab/Simulink软件优化(一)——动态内存负荷压缩](https://blog.csdn.net/CSSUST/article/details/137526557)
+
++ [3.SpringMVC程序开发](https://blog.csdn.net/xinhang10/article/details/137591883)
+
++ [CasaOS玩客云部署AList+Aria2结合内网穿透实现公网离线下载文件至网盘](https://blog.csdn.net/Aileenvov/article/details/137523826)
+
++ [轻量级web开发框架：Flask本地部署及实现公网访问界面](https://blog.csdn.net/2303_77146628/article/details/137607549)
+
++ [BoostCompass(数据准备预处理模块)](https://blog.csdn.net/m0_75215937/article/details/137407613)
+
++ [Docker之数据卷和Dockerfile](https://blog.csdn.net/weixin_74457789/article/details/137527793)
+
++ [网络安全（黑客技术）自学—2024最新](https://blog.csdn.net/xv7676/article/details/137564979)
+
++ [vue3+Ts+Ant Design Vue +天地图组件封装](https://blog.csdn.net/2302_76329106/article/details/137537886)
+
++ [mysql运维知识总结](https://blog.csdn.net/sinat_31583645/article/details/136699950)
+
++ [Harmony鸿蒙南向驱动开发-I2C](https://blog.csdn.net/m0_64420071/article/details/137569669)
+
