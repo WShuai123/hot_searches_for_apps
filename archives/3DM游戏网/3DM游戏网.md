@@ -125,3 +125,11 @@
 
 + [2K发布视频介绍《上旋高手2k25》四大游戏模式](https://www.3dmgame.com/news/202404/3892391.html)
 
++ [《命运》主创领导新工作室Hidden Grove 用虚幻5开发原创多人竞技游戏](https://www.3dmgame.com/news/202404/3892397.html)
+
++ [曝网易已成立暴雪国服团队 去年底双方已多次接触](https://www.3dmgame.com/news/202404/3892396.html)
+
++ [Saber称70美元的游戏终将绝迹 但《星际战士2》也定价70刀](https://www.3dmgame.com/news/202404/3892395.html)
+
++ [《魔兽世界：大灾变》经典服5月21日上线](https://www.3dmgame.com/news/202404/3892394.html)
+
