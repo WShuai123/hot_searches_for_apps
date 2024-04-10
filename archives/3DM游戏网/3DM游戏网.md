@@ -155,3 +155,31 @@
 
 + [《小丑2: 双重妄想》先导预告片 小丑淋雨很沮丧](https://www.3dmgame.com/news/202404/3892398.html)
 
++ [基地建造游戏《Final Factory》现已在Steam抢先体验推出](https://www.3dmgame.com/news/202404/3892422.html)
+
++ [《权力的游戏》琼恩·雪诺独立衍生剧现已暂停制作](https://www.3dmgame.com/news/202404/3892421.html)
+
++ [《星刃》女主早期形象曝光 玩家：还是现在的好看](https://www.3dmgame.com/news/202404/3892420.html)
+
++ [《宝可梦 GO》利用日食做宣传 奈克洛兹玛将加入游戏](https://www.3dmgame.com/news/202404/3892419.html)
+
++ [《Sky光·遇》Steam版抢先体验 经典治愈系MMO名作](https://www.3dmgame.com/news/202404/3892418.html)
+
++ [物理建造游戏《围攻》全新DLC“分裂之海” 5月24日发售](https://www.3dmgame.com/news/202404/3892417.html)
+
++ [Xbox总裁成立新团队 致力于游戏保护和前向兼容性](https://www.3dmgame.com/news/202404/3892416.html)
+
++ [《绝地潜兵2》机器人种族重回游戏 赛博越战还在继续](https://www.3dmgame.com/news/202404/3892414.html)
+
++ [《刺客信条：RED》开发截图泄露 证实双主角](https://www.3dmgame.com/news/202404/3892413.html)
+
++ [饭制《辐射》改编短篇电影新预告 精细还原原作特色](https://www.3dmgame.com/news/202404/3892412.html)
+
++ [英国游戏零售商GAME也裁员 留存员工签订新合同](https://www.3dmgame.com/news/202404/3892411.html)
+
++ [恐龙主题模拟经营游戏《琥珀岛》公布 将登陆Switch和PC](https://www.3dmgame.com/news/202404/3892410.html)
+
++ [《全面战争: 战锤3》腐朽王座DLC预告 发售日期待定](https://www.3dmgame.com/news/202404/3892409.html)
+
++ [WOW致国服玩家的信 确保玩家开服时数据完整](https://www.3dmgame.com/news/202404/3892415.html)
+
