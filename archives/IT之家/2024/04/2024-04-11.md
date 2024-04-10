@@ -25,3 +25,7 @@
 
 + [高合回应车内摄像头照片泄露：本地图像数据不会上传云端](https://m.ithome.com/html/760918.htm)
 
++ [1499 元起，小米 Redmi Pad Pro 平板发布：12.1 英寸 2.5K 120Hz 屏](https://m.ithome.com/html/761078.htm)
+
++ [小米开放式耳机发布，649 元](https://m.ithome.com/html/761084.htm)
+
