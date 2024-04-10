@@ -275,3 +275,5 @@
 
 + [LG 32GS95UE显示器开启预售 OLED双模式、11999元](https://www.3dmgame.com/news/202404/3892469.html)
 
++ [《战争机器6》Xbox版似乎将支持60FPS](https://www.3dmgame.com/news/202404/3892470.html)
+
