@@ -101,3 +101,7 @@
 
 + [美少女游戏老厂ALcot宣布解散 最终作《Clover Memory“s》众筹](https://www.3dmgame.com/news/202404/3892423.html)
 
++ [《王权：星途》4月17日登陆Steam/NS 支持中文](https://www.3dmgame.com/news/202404/3892478.html)
+
++ [20多款SNK游戏上架GOG 最高降价85%](https://www.3dmgame.com/news/202404/3892477.html)
+
