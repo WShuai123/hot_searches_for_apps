@@ -45,3 +45,5 @@
 
 + [安全敏感变量和内置浏览器API克星 | DOM Clobbering技术防御详解](https://www.freebuf.com/articles/web/396018.html)
 
++ [PHP面向过程(无MVC框架类型)代码审计初尝试](https://www.freebuf.com/articles/web/396807.html)
+

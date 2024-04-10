@@ -133,3 +133,25 @@
 
 + [《魔兽世界：大灾变》经典服5月21日上线](https://www.3dmgame.com/news/202404/3892394.html)
 
++ [育碧首席投资官离开公司 曾在公司任职10年](https://www.3dmgame.com/news/202404/3892407.html)
+
++ [《命运2》新资料片“终焉之形”6月5日上线](https://www.3dmgame.com/news/202404/3892405.html)
+
++ [《沙漠大冒险》自定义战斗机甲预告 4月26日发售](https://www.3dmgame.com/news/202404/3892406.html)
+
++ [暴雪和网易官宣重新合作！国服游戏今年夏季开始回归](https://www.3dmgame.com/news/202404/3892403.html)
+
++ [《幻兽帕鲁》Xbox版本新补丁会导致多人模式进度丢失](https://www.3dmgame.com/news/202404/3892404.html)
+
++ [《的士快跑》登陆Steam 复古风箱庭动作冒险](https://www.3dmgame.com/news/202404/3892402.html)
+
++ [克系钓鱼游戏《渔帆暗涌》即将被改编成真人电影](https://www.3dmgame.com/news/202404/3892401.html)
+
++ [《燕云十六声》官方介绍傩面具 光怪陆离好吓人](https://www.3dmgame.com/news/202404/3892400.html)
+
++ [传《波斯王子：时之砂重制版》仍处于早期阶段 画质提升](https://www.3dmgame.com/news/202404/3892408.html)
+
++ [《星刃》新预告片 介绍可爱的莉莉和拾荒者亚当](https://www.3dmgame.com/news/202404/3892399.html)
+
++ [《小丑2: 双重妄想》先导预告片 小丑淋雨很沮丧](https://www.3dmgame.com/news/202404/3892398.html)
+

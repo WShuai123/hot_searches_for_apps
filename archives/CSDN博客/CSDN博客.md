@@ -131,3 +131,5 @@
 
 + [网络网络层之(7)PPPOE协议](https://blog.csdn.net/Once_day/article/details/137572822)
 
++ [【Ambari】Ansible自动化部署大数据集群](https://blog.csdn.net/qq_35995514/article/details/137372767)
+
