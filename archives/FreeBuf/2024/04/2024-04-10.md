@@ -53,3 +53,9 @@
 
 + [JAVA安全 | Spring Security框架初探索](https://www.freebuf.com/articles/web/396932.html)
 
++ [我参加了 OpenAI 红队的活动，并带来了一些笔记](https://www.freebuf.com/news/397407.html)
+
++ [安全风险攻击面管理如何提升企业网络弹性？](https://www.freebuf.com/articles/397387.html)
+
++ [XZ后门检测工具和脚本最新汇总](https://www.freebuf.com/sectool/397401.html)
+
