@@ -59,3 +59,7 @@
 
 + [1999 元起，小米 Redmi Turbo 3 手机发布：搭载高通骁龙 8s Gen 3 芯片](https://m.ithome.com/html/761077.htm)
 
++ [小米 14 / Pro 手机获得 Ultra 大师人像、AISP 计算摄影平台全面下放](https://m.ithome.com/html/761050.htm)
+
++ [高合回应车内摄像头照片泄露：本地图像数据不会上传云端](https://m.ithome.com/html/760918.htm)
+

@@ -277,3 +277,11 @@
 
 + [《战争机器6》Xbox版似乎将支持60FPS](https://www.3dmgame.com/news/202404/3892470.html)
 
++ [外媒调查：大部分玩家赞成PS5实现60FPS是必须的](https://www.3dmgame.com/news/202404/3892474.html)
+
++ [《穆赫兰道》导演大卫林奇：我构想多年的电影被Netflix拒绝](https://www.3dmgame.com/news/202404/3892471.html)
+
++ [来了！《沙丘2》将于今年4月16日上线流媒体平台](https://www.3dmgame.com/news/202404/3892472.html)
+
++ [《辐射》真人剧口碑大爆！IGN 9分 烂番茄95%好评](https://www.3dmgame.com/news/202404/3892473.html)
+
