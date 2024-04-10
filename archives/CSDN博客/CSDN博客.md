@@ -173,3 +173,7 @@
 
 + [网络协议---TCP协议分析（基于wireshark）](https://blog.csdn.net/zdsxc_/article/details/137483246)
 
++ [【C++航海王：追寻罗杰的编程之路】探寻实用的调试技巧](https://blog.csdn.net/weixin_74809706/article/details/137555770)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/137522429)
+
