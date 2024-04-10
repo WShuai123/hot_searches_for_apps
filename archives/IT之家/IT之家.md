@@ -57,3 +57,5 @@
 
 + [智己汽车官微“怒怼”网暴：强烈愤慨，如有必要将持续公布此类行为](https://m.ithome.com/html/761051.htm)
 
++ [1999 元起，小米 Redmi Turbo 3 手机发布：搭载高通骁龙 8s Gen 3 芯片](https://m.ithome.com/html/761077.htm)
+

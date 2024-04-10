@@ -27,3 +27,5 @@
 
 + [深空之眼](https://www.taptap.cn/app/213181)
 
++ [猛鬼大厦：一楼的锁匠](https://www.taptap.cn/app/534091)
+
