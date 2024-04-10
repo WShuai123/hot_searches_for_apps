@@ -213,3 +213,21 @@
 
 + [《攻壳机动队》4K修复版确认引进内地 档期待定](https://www.3dmgame.com/news/202404/3892438.html)
 
++ [KK对战平台首届“吐槽大会”完美谢幕，“暴打”策划，整蛊作者笑爆全场！](https://www.3dmgame.com/news/202404/3892447.html)
+
++ [网易《漫威争锋》还将登陆主机平台 PS5和Xbox Series X|S](https://www.3dmgame.com/news/202404/3892446.html)
+
++ [《实况力量职业棒球2024-2025》7月18日发售 系列30周年纪念](https://www.3dmgame.com/news/202404/3892445.html)
+
++ [三人团队肉鸽游戏《永恒核心英雄》登录Steam平台](https://www.3dmgame.com/news/202404/3892444.html)
+
++ [《Inkbound》登陆Steam 肉鸽元素回合制战略RPG](https://www.3dmgame.com/news/202404/3892443.html)
+
++ [《小丑牌》大型更新测试版登陆Steam 体验大提升](https://www.3dmgame.com/news/202404/3892442.html)
+
++ [英特尔预计今年出货4000万台AI PC 已出货500万颗AI PC芯片](https://www.3dmgame.com/news/202404/3892441.html)
+
++ [传闻：《GTA6》男主角配音演员疑似被发现](https://www.3dmgame.com/news/202404/3892440.html)
+
++ [金亨泰表示《星刃》的主题故事受现实出租车司机罢工事件启发](https://www.3dmgame.com/news/202404/3892439.html)
+
