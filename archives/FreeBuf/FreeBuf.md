@@ -53,3 +53,5 @@
 
 + [Spectre漏洞 v2 版本再现，影响英特尔 CPU + Linux 组合设备](https://www.freebuf.com/news/397580.html)
 
++ [攻亦是防，防亦是攻——Linux内核视角看权限维持](https://www.freebuf.com/articles/system/397481.html)
+

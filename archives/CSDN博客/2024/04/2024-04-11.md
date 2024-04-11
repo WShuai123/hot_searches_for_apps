@@ -157,3 +157,19 @@
 
 + [虚拟网络设备与网络安全：深入分析与实践应用](https://blog.csdn.net/IOT_AI/article/details/137534473)
 
++ [人工智能：更多有用的 Python 库](https://blog.csdn.net/m0_68662723/article/details/137612130)
+
++ [国内低代码哪家强？深入探讨低代码选型关键指标和评估模型](https://blog.csdn.net/newdao_code/article/details/137595399)
+
++ [深度学习架构（CNN、RNN、GAN、Transformers、编码器-解码器架构）的友好介绍。](https://blog.csdn.net/gongdiwudu/article/details/137591689)
+
++ [微信小程序备案、配置、发布要点](https://blog.csdn.net/michaelline/article/details/137536271)
+
++ [网络安全（黑客）—2024自学文档](https://blog.csdn.net/xv7676/article/details/137608369)
+
++ [IOS手机耗电量测试](https://blog.csdn.net/weixin_71807218/article/details/137594699)
+
++ [Vue3学习01 Vue3核心语法](https://blog.csdn.net/yavlgloss/article/details/137613694)
+
++ [2024认证杯数学建模A题思路模型代码](https://blog.csdn.net/2301_81596622/article/details/137607992)
+

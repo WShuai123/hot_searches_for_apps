@@ -205,3 +205,9 @@
 
 + [《mouse》Spike-D实机预告 2025年发售](https://www.3dmgame.com/news/202404/3892523.html)
 
++ [《波斯王子：Rogue》15分钟实机 5月14日发售](https://www.3dmgame.com/news/202404/3892528.html)
+
++ [女子7000元买的iPhone 维修费高达14000元：官方回应](https://www.3dmgame.com/news/202404/3892530.html)
+
++ [RNG战队CEO自曝快破产：想卖NFT做“公众战队”](https://www.3dmgame.com/news/202404/3892531.html)
+
