@@ -283,3 +283,13 @@
 
 + [华为发布全新MateBook X Pro笔电 11199元起](https://www.3dmgame.com/news/202404/3892567.html)
 
++ [Fami通新一周销量榜 《碧姬公主：表演时刻！》三连冠](https://www.3dmgame.com/news/202404/3892572.html)
+
++ [和《星空》类似 《星球大战：法外狂徒》也不支持星球之间自由旅行](https://www.3dmgame.com/news/202404/3892571.html)
+
++ [《血源》部分关卡设计是因为PS4机能太弱](https://www.3dmgame.com/news/202404/3892570.html)
+
++ [美剧《英雄》又要“重启”了 故事设定在《英雄》之后数年](https://www.3dmgame.com/news/202404/3892569.html)
+
++ [《星刃》新一期游戏角色介绍视频——百合](https://www.3dmgame.com/news/202404/3892568.html)
+
