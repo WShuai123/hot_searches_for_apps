@@ -281,3 +281,5 @@
 
 + [换号一定要解绑！老人注销手机号未解绑被转走60万](https://www.3dmgame.com/news/202404/3892566.html)
 
++ [华为发布全新MateBook X Pro笔电 11199元起](https://www.3dmgame.com/news/202404/3892567.html)
+

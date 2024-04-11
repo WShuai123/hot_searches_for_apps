@@ -49,3 +49,15 @@
 
 + [1kg 以内唯一 Ultra 9 笔记本：华为全新 MateBook X Pro 发布，11199 元起](https://m.ithome.com/html/761261.htm)
 
++ [华为多款手机、平板开放鸿蒙 HarmonyOS 4.2 系统公测](https://m.ithome.com/html/761240.htm)
+
++ [武汉大学：雷军班可 100% 具备保研资格，专项经费支持 100% 参加国外研修游学](https://m.ithome.com/html/761185.htm)
+
++ [华为余承东：AITO 问界新 M5 将于 4 月 23 日北京车展亮相](https://m.ithome.com/html/761258.htm)
+
++ [华为公布鸿蒙 HarmonyOS 4.2 升级计划：今日公测招募，4-6 月陆续升级](https://m.ithome.com/html/761266.htm)
+
++ [智己汽车发布举报信，称遭遇了有组织的网络暴力和流量霸凌](https://m.ithome.com/html/761214.htm)
+
++ [中科院取得固态电池大突破，力争 2026 年实现硫化物全固态电池批量化生产](https://m.ithome.com/html/761139.htm)
+
