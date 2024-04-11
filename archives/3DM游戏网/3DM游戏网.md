@@ -255,3 +255,27 @@
 
 + [粉丝制《最终幻想7：重制版》蒂法爱丽丝美图 春光无限好](https://www.3dmgame.com/news/202404/3892553.html)
 
++ [小米汽车：SU7车内摄像头不对外传输数据 可完全关闭](https://www.3dmgame.com/news/202404/3892565.html)
+
++ [KK官方对战平台《暴走英雄》全新“兔羊”模式开启  PVP“背刺”爽乐无限 ！](https://www.3dmgame.com/news/202404/3892563.html)
+
++ [重启青春荣耀，KK对战平台全面升级为KK官方对战平台](https://www.3dmgame.com/news/202404/3892564.html)
+
++ [《真·女神转生Ⅴ Vengeance》 公开主角的新外形、角色及新恶魔相关资讯](https://www.3dmgame.com/news/202404/3892561.html)
+
++ [《肋萨拉：顶峰王国》Steam抢先体验 王国建设经营](https://www.3dmgame.com/news/202404/3892562.html)
+
++ [《轩辕剑7》Switch版中文预告 5月30日发售](https://www.3dmgame.com/news/202404/3892559.html)
+
++ [玩过就是去过！《旅人苏菲亚》现已登陆 Steam 和 Nintendo Switch 首发 9 折](https://www.3dmgame.com/news/202404/3892560.html)
+
++ [《星刃》角色被刻意打造得理想且美丽：人类完美化身](https://www.3dmgame.com/news/202404/3892558.html)
+
++ [原神与崩坏或改编电影 档期待定](https://www.3dmgame.com/news/202404/3892557.html)
+
++ [首批小米SU7车主靠租车日赚3000元 三个月能回本的节奏](https://www.3dmgame.com/news/202404/3892556.html)
+
++ [《33 Immortals》B测实机 5月24日内测](https://www.3dmgame.com/news/202404/3892555.html)
+
++ [2024全球独角兽榜发布 OpenAI第三字节跳动登顶](https://www.3dmgame.com/news/202404/3892554.html)
+

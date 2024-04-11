@@ -45,3 +45,5 @@
 
 + [荣耀高管回应 Redmi Turbo 3 发布会标错荣耀手机参数：小事，不必道歉](https://m.ithome.com/html/761207.htm)
 
++ [24.98 万元起，华为余承东发布新版智界 S7 轿车](https://m.ithome.com/html/761257.htm)
+

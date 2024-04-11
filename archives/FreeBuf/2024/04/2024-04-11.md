@@ -61,3 +61,5 @@
 
 + [100 预算，你会怎么开展网络安全？](https://www.freebuf.com/news/397622.html)
 
++ [碰撞AI安全的火花，探索企业安全建设新路径](https://www.freebuf.com/fevents/397485.html)
+
