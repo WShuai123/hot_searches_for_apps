@@ -211,3 +211,15 @@
 
 + [RNG战队CEO自曝快破产：想卖NFT做“公众战队”](https://www.3dmgame.com/news/202404/3892531.html)
 
++ [动作冒险游戏《RKGK / Rakugaki》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892537.html)
+
++ [《最后的咒语》首个DLC“卢恩堡的矮人”4月24日发售](https://www.3dmgame.com/news/202404/3892536.html)
+
++ [《舌尖上的魔素车》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892535.html)
+
++ [《SUNSOFT is Back》登陆Switch/PC 80年代经典三部游戏合集](https://www.3dmgame.com/news/202404/3892534.html)
+
++ [沙盒生存游戏《末日地带2》公布最新游戏演示预告 2024年第三季度推出](https://www.3dmgame.com/news/202404/3892533.html)
+
++ [《夜族崛起》发布恶魔城联动DLC首个玩法预告片](https://www.3dmgame.com/news/202404/3892532.html)
+
