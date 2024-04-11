@@ -201,3 +201,9 @@
 
 + [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
 
++ [掌上无畏契约](https://itunes.apple.com/cn/app/id6474118091?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+

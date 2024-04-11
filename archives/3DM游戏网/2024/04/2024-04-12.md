@@ -101,3 +101,5 @@
 
 + [《地痞街道2》新实机演示预告 2024年年内登陆Steam](https://www.3dmgame.com/news/202404/3892524.html)
 
++ [大逃杀《吃豆人 无尽地道争豆》5月9日发行 支持64人](https://www.3dmgame.com/news/202404/3892576.html)
+
