@@ -45,3 +45,5 @@
 
 + [CoralRaider勒索组织窃取亚洲金融机构数据事件解析](https://www.freebuf.com/articles/neopoints/397365.html)
 
++ [安全合规 | 出海企业安全资质之一：SOC2 鉴证报告](https://www.freebuf.com/articles/neopoints/396859.html)
+

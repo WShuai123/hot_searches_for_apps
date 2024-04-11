@@ -119,3 +119,33 @@
 
 + [动漫风格平台动作游戏《涂鸦之城》夏季发售](https://www.3dmgame.com/news/202404/3892481.html)
 
++ [《不朽者传奇》开发商大部分剩余员工已在“休假”](https://www.3dmgame.com/news/202404/3892499.html)
+
++ [中世纪王国模拟游戏《诺兰德》 5月17日EA发售](https://www.3dmgame.com/news/202404/3892493.html)
+
++ [《土豆兄弟》新DLC以及新合作模式公开 好评肉鸽弹幕](https://www.3dmgame.com/news/202404/3892500.html)
+
++ [《沙石镇时光》跨平台联机功能宣布今夏上线](https://www.3dmgame.com/news/202404/3892497.html)
+
++ [PS Plus四月二档、三档游戏 ：《潜水员戴夫》、《飙酷车神2》等](https://www.3dmgame.com/news/202404/3892498.html)
+
++ [《最终幻想16》DLC“沧海恸哭”新截图 时之祭殿介绍](https://www.3dmgame.com/news/202404/3892496.html)
+
++ [《UnderMine 2》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892495.html)
+
++ [《学园构想家》宣布2024年夏季登陆主机 本周上线小型更新](https://www.3dmgame.com/news/202404/3892494.html)
+
++ [开放世界沙盒RPG《剑士》Steam销量超过230万份](https://www.3dmgame.com/news/202404/3892492.html)
+
++ [《夜族崛起》恶魔城DLC新预告 5月8日发售](https://www.3dmgame.com/news/202404/3892490.html)
+
++ [《暗黑地牢2》新模式“王国”预告 将于今年免费推出](https://www.3dmgame.com/news/202404/3892488.html)
+
++ [《Incursion Red River》Steam抢测 PvE合作战斗射击](https://www.3dmgame.com/news/202404/3892487.html)
+
++ [《冲就完事模拟器》开发商加入数字娱乐集团Miniclip](https://www.3dmgame.com/news/202404/3892486.html)
+
++ [《杀戮尖塔2》Steam页面上线 游戏暂不支持中文](https://www.3dmgame.com/news/202404/3892491.html)
+
++ [EA提高EA Play订阅价格 年费最高涨价20美元](https://www.3dmgame.com/news/202404/3892489.html)
+

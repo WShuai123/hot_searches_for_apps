@@ -33,3 +33,5 @@
 
 + [【IT之家开箱】Redmi Turbo3「冰钛」图赏：179g + 骁龙 8s Gen 3，轻薄小钢炮](https://m.ithome.com/html/761088.htm)
 
++ [比亚迪混动 + 华为 HiCar，赛力斯蓝电 E5 荣耀版上市：9.98 万元起](https://m.ithome.com/html/761101.htm)
+
