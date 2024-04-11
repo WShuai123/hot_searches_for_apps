@@ -151,3 +151,9 @@
 
 + [【算法统治世界】动态规划 个人笔记总结](https://blog.csdn.net/m0_72803988/article/details/137384450)
 
++ [软件杯 深度学习人脸表情识别算法 - opencv python 机器视觉](https://blog.csdn.net/m0_43533/article/details/137590159)
+
++ [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_81967703/article/details/137570187)
+
++ [虚拟网络设备与网络安全：深入分析与实践应用](https://blog.csdn.net/IOT_AI/article/details/137534473)
+

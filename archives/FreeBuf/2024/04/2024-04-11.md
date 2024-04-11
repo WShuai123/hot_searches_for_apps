@@ -49,3 +49,7 @@
 
 + [FreeBuf 观察 | 网络安全行业政策法规（3 月）](https://www.freebuf.com/articles/neopoints/396801.html)
 
++ [黑客疑似利用AI生成的恶意代码攻击德国企业](https://www.freebuf.com/news/397597.html)
+
++ [Spectre漏洞 v2 版本再现，影响英特尔 CPU + Linux 组合设备](https://www.freebuf.com/news/397580.html)
+

@@ -183,3 +183,25 @@
 
 + [索尼中国之星计划《觉醒异刃》新预告 和少女展开冒险](https://www.3dmgame.com/news/202404/3892505.html)
 
++ [《地痞街道2》新实机演示预告 2024年年内登陆Steam](https://www.3dmgame.com/news/202404/3892524.html)
+
++ [《燕云十六声》官宣公测定档7月26日 承诺绝不跳票](https://www.3dmgame.com/news/202404/3892525.html)
+
++ [“终焉之形”新职业泄密者透露《命运3》正在开发中](https://www.3dmgame.com/news/202404/3892526.html)
+
++ [主创透露《黑袍纠察队》第四季已经完成全部制作](https://www.3dmgame.com/news/202404/3892527.html)
+
++ [日本多位知名声优参演AI朗读剧活动中止 侵权舆论袭来](https://www.3dmgame.com/news/202404/3892529.html)
+
++ [动作角色扮演游戏《喵咪斗恶龙3》 开场动画公布](https://www.3dmgame.com/news/202404/3892518.html)
+
++ [《雨中冒险2》新DLC首曝细节 免费更新联动《死亡细胞》](https://www.3dmgame.com/news/202404/3892519.html)
+
++ [PS官方提醒《星刃》女主有名字：她不叫Stella](https://www.3dmgame.com/news/202404/3892520.html)
+
++ [暴雪晒1998年《暗黑破坏神1》玩家平均PC配置：看完泪奔](https://www.3dmgame.com/news/202404/3892521.html)
+
++ [德国大众CEO：中国品牌崛起太快我们跟不上节奏](https://www.3dmgame.com/news/202404/3892522.html)
+
++ [《mouse》Spike-D实机预告 2025年发售](https://www.3dmgame.com/news/202404/3892523.html)
+
