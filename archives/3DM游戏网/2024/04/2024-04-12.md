@@ -103,3 +103,15 @@
 
 + [大逃杀《吃豆人 无尽地道争豆》5月9日发行 支持64人](https://www.3dmgame.com/news/202404/3892576.html)
 
++ [网传Deep Silver《天国：拯救2》将于4/18公布](https://www.3dmgame.com/news/202404/3892582.html)
+
++ [Discord正在删除Switch模拟器开发者及其服务器](https://www.3dmgame.com/news/202404/3892581.html)
+
++ [《辐射4》获次世代更新相比原版大幅度增强](https://www.3dmgame.com/news/202404/3892580.html)
+
++ [《堡垒之夜》联动《降世神通》今晚上线](https://www.3dmgame.com/news/202404/3892579.html)
+
++ [《星刃》官方发布怪物演示视频令人毛骨悚然](https://www.3dmgame.com/news/202404/3892578.html)
+
++ [《古墓丽影三部曲合集》更新追加性感劳拉豹纹皮肤](https://www.3dmgame.com/news/202404/3892577.html)
+
