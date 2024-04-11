@@ -35,3 +35,7 @@
 
 + [比亚迪混动 + 华为 HiCar，赛力斯蓝电 E5 荣耀版上市：9.98 万元起](https://m.ithome.com/html/761101.htm)
 
++ [小米汽车：SU7 续航低于 50km 可触发“超级省电模式”，将关闭多种配置并限速 90km/h](https://m.ithome.com/html/761108.htm)
+
++ [【IT之家评测室】Redmi Turbo3 体验：榨干骁龙 8s Gen3 的性能小钢炮](https://m.ithome.com/html/761087.htm)
+

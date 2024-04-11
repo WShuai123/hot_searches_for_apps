@@ -149,3 +149,37 @@
 
 + [EA提高EA Play订阅价格 年费最高涨价20美元](https://www.3dmgame.com/news/202404/3892489.html)
 
++ [《鸦卫奇旅》“阿瓦隆的陨落”更新预告 4月22日上线](https://www.3dmgame.com/news/202404/3892516.html)
+
++ [《传说法师2》公布全新战斗预告宣传片](https://www.3dmgame.com/news/202404/3892512.html)
+
++ [腾讯游戏《剑灵2》全新PV发布 国服预约开启](https://www.3dmgame.com/news/202404/3892515.html)
+
++ [《奇娅 Tchia》6月27日登陆Switch 开放世界冒险名作](https://www.3dmgame.com/news/202404/3892517.html)
+
++ [动作解谜名作续篇《永不孤单2》公开 支持多人合作](https://www.3dmgame.com/news/202404/3892514.html)
+
++ [EA辟谣《死亡空间2：重制版》被取消：传言毫无根据](https://www.3dmgame.com/news/202404/3892510.html)
+
++ [非典型赛车游戏《WHAT THE CAR?》9月5日发售 demo上线](https://www.3dmgame.com/news/202404/3892513.html)
+
++ [《星球大战：法外狂徒》大量细节 有声望系统](https://www.3dmgame.com/news/202404/3892511.html)
+
++ [《炙热的岛国生活》Steam页面上线 支持中文](https://www.3dmgame.com/news/202404/3892508.html)
+
++ [《戴森球计划》发布载具更新预告 上线时间待定](https://www.3dmgame.com/news/202404/3892507.html)
+
++ [《全境封锁》首席关卡设计师加入IO《007》游戏开发](https://www.3dmgame.com/news/202404/3892506.html)
+
++ [城市建造游戏《肋萨拉：峰顶王国》现已在Steam平台抢先体验发售](https://www.3dmgame.com/news/202404/3892504.html)
+
++ [《星球大战：亡命之徒》于8月30发布 支持DLSS3等RTX技术 更多游戏将支持DLSS2](https://www.3dmgame.com/news/202404/3892503.html)
+
++ [EA Motive《钢铁侠》游戏开发还在继续 刚取得了一个重要里程碑](https://www.3dmgame.com/news/202404/3892502.html)
+
++ [经典塔防续作《王国保卫战5：联盟》Steam页面 7月25日推出](https://www.3dmgame.com/news/202404/3892501.html)
+
++ [《星露谷物语》下周推出1.6.4更新 新钓鱼和采矿内容](https://www.3dmgame.com/news/202404/3892509.html)
+
++ [索尼中国之星计划《觉醒异刃》新预告 和少女展开冒险](https://www.3dmgame.com/news/202404/3892505.html)
+
