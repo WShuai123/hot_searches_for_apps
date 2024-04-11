@@ -51,3 +51,29 @@
 
 + [owainlewis / awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 
++ [google / googletest](https://github.com/google/googletest)
+
++ [nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [nlohmann / json](https://github.com/nlohmann/json)
+
++ [liguodongiot / llm-action](https://github.com/liguodongiot/llm-action)
+
++ [tidwall / neco](https://github.com/tidwall/neco)
+
++ [azerothcore / azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+
++ [PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT)
+
++ [penpot / penpot](https://github.com/penpot/penpot)
+
++ [Tencent / wcdb](https://github.com/Tencent/wcdb)
+
++ [code100x / cms](https://github.com/code100x/cms)
+
++ [Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
+
++ [google / zx](https://github.com/google/zx)
+

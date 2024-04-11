@@ -47,3 +47,5 @@
 
 + [24.98 万元起，华为余承东发布新版智界 S7 轿车](https://m.ithome.com/html/761257.htm)
 
++ [1kg 以内唯一 Ultra 9 笔记本：华为全新 MateBook X Pro 发布，11199 元起](https://m.ithome.com/html/761261.htm)
+
