@@ -63,3 +63,11 @@
 
 + [Rotundo Soft](https://dribbble.com/shots/)
 
++ [Spain Collection](https://dribbble.com/shots/)
+
++ [How to beat the winter blues - Northshore Magazine](https://dribbble.com/shots/)
+
++ [H.U.M.A.N](https://dribbble.com/shots/)
+
++ [Rebels & Renegades Apparel Graphic](https://dribbble.com/shots/)
+
