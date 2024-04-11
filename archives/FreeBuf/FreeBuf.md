@@ -57,3 +57,5 @@
 
 + [Intrigue Core：一款功能强大的攻击面枚举引擎](https://www.freebuf.com/sectool/393154.html)
 
++ [信息安全管理——身份与访问管理](https://www.freebuf.com/articles/es/396012.html)
+

@@ -229,3 +229,25 @@
 
 + [《终极闪光：破坏者》公开火焰巫师小Boss战斗实机](https://www.3dmgame.com/news/202404/3892538.html)
 
++ [腾讯自研《腾讯扣叮-编程第一课》上架国行Switch 售价4元](https://www.3dmgame.com/news/202404/3892551.html)
+
++ [每年省千万美元 美国得州首用AI阅卷评分](https://www.3dmgame.com/news/202404/3892550.html)
+
++ [《巨兽战争：狂暴版》现已在PC、PS和Xbox平台上推出！](https://www.3dmgame.com/news/202404/3892549.html)
+
++ [《废墟图书馆》Switch版预购开启 剧情回合制卡牌战斗](https://www.3dmgame.com/news/202404/3892548.html)
+
++ [电视开机率暴跌、出货量创新低！创维创始人：AI将让人们回归电视](https://www.3dmgame.com/news/202404/3892547.html)
+
++ [《芭比》制片公司将拍摄桌游《大富翁》改编真人电影](https://www.3dmgame.com/news/202404/3892546.html)
+
++ [报告称上线仅两个月 SE新作《泡沫明星》玩家流失超95%](https://www.3dmgame.com/news/202404/3892545.html)
+
++ [这款国产模拟经营游戏 能让你打造最精致的水乡学园](https://www.3dmgame.com/news/202404/3892543.html)
+
++ [《方舟生存飞升》全新DLC冲上Steam热销前五，“中心岛”地图6月上线](https://www.3dmgame.com/news/202404/3892542.html)
+
++ [《沙石镇时光》近日官宣加入独游「iii计划」！   多人模式跨平台联机将于今夏正式开启！](https://www.3dmgame.com/news/202404/3892541.html)
+
++ [模拟在全球任意城市游玩！《无感染区》4月12日上线](https://www.3dmgame.com/news/202404/3892544.html)
+

@@ -125,3 +125,7 @@
 
 + [Commerce AI](https://www.producthunt.com/posts/commerce-ai)
 
++ [LangAI](https://www.producthunt.com/posts/langai-2)
+
++ [Biliki AI](https://www.producthunt.com/posts/biliki-ai)
+
