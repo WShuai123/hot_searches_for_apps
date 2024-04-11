@@ -43,3 +43,5 @@
 
 + [小米 Redmi Turbo 3、Redmi Pad Pro 哈利・波特定制版发布：2699 元 / 2299 元](https://m.ithome.com/html/761083.htm)
 
++ [荣耀高管回应 Redmi Turbo 3 发布会标错荣耀手机参数：小事，不必道歉](https://m.ithome.com/html/761207.htm)
+

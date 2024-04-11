@@ -223,3 +223,9 @@
 
 + [《夜族崛起》发布恶魔城联动DLC首个玩法预告片](https://www.3dmgame.com/news/202404/3892532.html)
 
++ [《死侍3》休·杰克曼的金刚狼完整造型遭泄露 还是印在塑料杯上的](https://www.3dmgame.com/news/202404/3892539.html)
+
++ [《星球工匠》登陆Steam 开放世界太空生存建设](https://www.3dmgame.com/news/202404/3892540.html)
+
++ [《终极闪光：破坏者》公开火焰巫师小Boss战斗实机](https://www.3dmgame.com/news/202404/3892538.html)
+

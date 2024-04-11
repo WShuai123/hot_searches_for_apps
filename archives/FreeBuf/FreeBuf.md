@@ -55,3 +55,5 @@
 
 + [攻亦是防，防亦是攻——Linux内核视角看权限维持](https://www.freebuf.com/articles/system/397481.html)
 
++ [Intrigue Core：一款功能强大的攻击面枚举引擎](https://www.freebuf.com/sectool/393154.html)
+

@@ -177,3 +177,11 @@
 
 + [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_79535733/article/details/137522429)
 
++ [​C# 微信支付接口V2版本回调开发实践](https://blog.csdn.net/michaelline/article/details/137508040)
+
++ [【鹅厂摸鱼日记(二)】(生活篇)初到深圳的人情冷暖](https://blog.csdn.net/m0_61982936/article/details/137524049)
+
++ [市场复盘总结 20240410](https://blog.csdn.net/qq_34823185/article/details/137615393)
+
++ [spring-cloud微服务openfeign](https://blog.csdn.net/qq_19891197/article/details/137568841)
+
