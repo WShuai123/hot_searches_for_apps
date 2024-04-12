@@ -25,3 +25,5 @@
 
 + [我国第三代自主超导量子计算机“本源悟空”成功装备国内首个“抗量子攻击护盾”](https://m.ithome.com/html/761339.htm)
 
++ [跨越两个大版本，多款华为老智慧屏直接从鸿蒙 2.0 升级 HarmonyOS 4.2](https://m.ithome.com/html/761529.htm)
+

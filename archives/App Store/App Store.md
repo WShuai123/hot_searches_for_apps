@@ -201,3 +201,11 @@
 
 + [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
 
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
++ [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
+
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
