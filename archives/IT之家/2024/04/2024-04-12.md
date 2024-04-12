@@ -61,3 +61,5 @@
 
 + [2988 元起，大疆发布 Avata 2 无人机：升级 1/1.3 英寸传感器](https://m.ithome.com/html/761320.htm)
 
++ [微软 Surface Pro 10、Surface Laptop 6 商用版已开售，9888/12288 元起](https://m.ithome.com/html/761308.htm)
+

@@ -51,3 +51,35 @@
 
 + [karpathy / minGPT](https://github.com/karpathy/minGPT)
 
++ [aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
+
++ [PabloMK7 / citra](https://github.com/PabloMK7/citra)
+
++ [YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM)
+
++ [datawhalechina / self-llm](https://github.com/datawhalechina/self-llm)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
+
++ [PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime)
+
++ [ZLMediaKit / ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
+
++ [grafana / alloy](https://github.com/grafana/alloy)
+
++ [barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
+
++ [vinta / awesome-python](https://github.com/vinta/awesome-python)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [BradyFU / Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
++ [IDEA-Research / GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+
