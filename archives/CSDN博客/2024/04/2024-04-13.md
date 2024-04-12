@@ -101,3 +101,21 @@
 
 + [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_81967703/article/details/137570187)
 
++ [【植物大战僵尸融合机器学习】+源码](https://blog.csdn.net/m0_68089732/article/details/137630955)
+
++ [Python 大麦抢票脚本](https://blog.csdn.net/youyouxiong/article/details/137650869)
+
++ [从数据到文案：解锁AI大模型新潜力](https://blog.csdn.net/qq_32682301/article/details/137605760)
+
++ [【灵境矩阵】零代码创建AI智能体之行业词句助手](https://blog.csdn.net/lmy_520/article/details/137679026)
+
++ [2024年认证杯数学建模C题思路＋模型+代码](https://blog.csdn.net/2301_81596622/article/details/137654433)
+
++ [Harmony鸿蒙南向驱动开发-I2C接口使用](https://blog.csdn.net/m0_64420071/article/details/137647232)
+
++ [最新ChatGPT网站系统源码Midjourney-AI绘画，GPTs，AI换脸支持](https://blog.csdn.net/weixin_43227851/article/details/137643357)
+
++ [网络协议学习——以太网协议](https://blog.csdn.net/qq_41934502/article/details/137654350)
+
++ [2024 Mathorcup高校数学建模挑战赛（B题）| 甲骨文识别 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/137675301)
+

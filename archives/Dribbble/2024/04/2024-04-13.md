@@ -67,3 +67,13 @@
 
 + [Happy Hiker](https://dribbble.com/shots/)
 
++ [Blacksmith House](https://dribbble.com/shots/)
+
++ [Dietrich Bonhoeffer (King of Spades)](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [El Tigre](https://dribbble.com/shots/)
+
++ [Zelky's Beach Arcade](https://dribbble.com/shots/)
+
