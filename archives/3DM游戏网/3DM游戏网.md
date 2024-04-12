@@ -183,3 +183,19 @@
 
 + [冰球对战派对游戏《冰球大莽斗》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892612.html)
 
++ [李彦宏首次回应为何不开源文心：闭源能赚到钱 聚集人才](https://www.3dmgame.com/news/202404/3892625.html)
+
++ [索尼圣莫尼卡工作室招聘启事可能暗示《战神》新作正在开发](https://www.3dmgame.com/news/202404/3892622.html)
+
++ [《星球大战：法外狂徒》不像育碧罐头：没有爬塔开图](https://www.3dmgame.com/news/202404/3892624.html)
+
++ [《圣剑传说 Visions of Mana》真人宣传片 夏季发售](https://www.3dmgame.com/news/202404/3892623.html)
+
++ [《黎明杀机》推出全新游戏内商城 大量外观物品降价](https://www.3dmgame.com/news/202404/3892621.html)
+
++ [《女神异闻录：夜幕魅影》今日公测 《女神异闻录5》联动同步开启](https://www.3dmgame.com/news/202404/3892620.html)
+
++ [城市建设游戏《颂钟长鸣》宣布4月23日开启Steam抢先体验](https://www.3dmgame.com/news/202404/3892618.html)
+
++ [合作游戏《内容警告》免费送后一周售出70万份](https://www.3dmgame.com/news/202404/3892619.html)
+

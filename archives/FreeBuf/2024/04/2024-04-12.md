@@ -47,3 +47,7 @@
 
 + [企业安全 | 浅谈数据安全治理主要过程](https://www.freebuf.com/articles/es/397153.html)
 
++ [CISA ：恶意软件分析平台Malware Next-Gen全新升级](https://www.freebuf.com/news/397708.html)
+
++ [机器人攻击仍然是2024年的最大威胁](https://www.freebuf.com/news/397714.html)
+
