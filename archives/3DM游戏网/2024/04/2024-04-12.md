@@ -255,3 +255,5 @@
 
 + [AMD Strix Point图形性能高于RX 6400 指RTX 3050](https://www.3dmgame.com/news/202404/3892650.html)
 
++ [OpenAI以泄密为由解雇两名研究人员 包括首席科学家盟友](https://www.3dmgame.com/news/202404/3892653.html)
+
