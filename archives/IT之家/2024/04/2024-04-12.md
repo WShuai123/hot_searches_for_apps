@@ -27,3 +27,5 @@
 
 + [realme 真我 GT Neo6 SE 手机发布：首发 6000nit 无双屏，首销价 1699 元起](https://m.ithome.com/html/761179.htm)
 
++ [小米汽车：SU7 支持手机靠近无感解锁且不限品牌，车辆断电后冰箱仍可工作](https://m.ithome.com/html/761331.htm)
+

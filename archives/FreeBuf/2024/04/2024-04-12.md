@@ -41,3 +41,7 @@
 
 + [PHP面向过程(无MVC框架类型)代码审计初尝试](https://www.freebuf.com/articles/web/396807.html)
 
++ [FreeBuf早报 | 谷歌云联合GenAI创建网络安全强国；消费电子制造商 boAt 遭攻击](https://www.freebuf.com/news/397631.html)
+
++ [网络罪犯耍阴招：回顾体育界的10起网络攻击事件](https://www.freebuf.com/news/397282.html)
+

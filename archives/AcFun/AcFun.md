@@ -71,3 +71,7 @@
 
 + [这个番太爽了！四月黑马新番：被校园霸凌的少年，竟靠一场打架走上逆袭之路！](http://www.acfun.cn/v/ac44309128)
 
++ [全明星对局！快速看完一局韩服王者斗殴局#567  knight, ON,ShowMaker](http://www.acfun.cn/v/ac44309309)
+
++ [up主：我在墓园上班，远离人烟，同事也不全是人](http://www.acfun.cn/v/ac44306659)
+
