@@ -199,3 +199,15 @@
 
 + [合作游戏《内容警告》免费送后一周售出70万份](https://www.3dmgame.com/news/202404/3892619.html)
 
++ [OpenAI新GPT-4 Turbo模型上线 可供付费ChatGPT用户使用](https://www.3dmgame.com/news/202404/3892629.html)
+
++ [卡普空官方授权《逆转裁判》主题店落户上海和武汉](https://www.3dmgame.com/news/202404/3892630.html)
+
++ [《绝地潜兵2》新通行证发布：新武器太垃圾引热议](https://www.3dmgame.com/news/202404/3892627.html)
+
++ [传统神话动作Rogue《宝莲灯：太子沉香》正式版现已发售！首周九折！](https://www.3dmgame.com/news/202404/3892370.html)
+
++ [回合制战略游戏《指挥部：二战》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3892628.html)
+
++ [《魔兽世界》公布“强袭风暴”模式统计数据 超过64万场比赛](https://www.3dmgame.com/news/202404/3892626.html)
+
