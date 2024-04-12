@@ -63,3 +63,9 @@
 
 + [微软 Surface Pro 10、Surface Laptop 6 商用版已开售，9888/12288 元起](https://m.ithome.com/html/761308.htm)
 
++ [雷军：小米 SU7 购车用户中女性占比近 30%](https://m.ithome.com/html/761478.htm)
+
++ [长安启源 A05 / Q05 真香版电混车型上市，指导价 7.89 / 9.69 万元起](https://m.ithome.com/html/761411.htm)
+
++ [微软推广 Win11 再出新招：Win10 用户反馈 PC 出现全屏提醒“明年停用”](https://m.ithome.com/html/761329.htm)
+
