@@ -211,3 +211,17 @@
 
 + [《魔兽世界》公布“强袭风暴”模式统计数据 超过64万场比赛](https://www.3dmgame.com/news/202404/3892626.html)
 
++ [《忍者神龟：最后的浪人》真人改编电影正在制作中](https://www.3dmgame.com/news/202404/3892637.html)
+
++ [《星刃》媒体评测即将开始 评分4月24日解禁](https://www.3dmgame.com/news/202404/3892636.html)
+
++ [毛茸茸拯救世界！回合制肉鸽《异界失控》现已发售](https://www.3dmgame.com/news/202404/3892635.html)
+
++ [新《布莱尔女巫》电影公布 将为系列再次重启作品](https://www.3dmgame.com/news/202404/3892634.html)
+
++ [《龙之信条2》玩家不使用武器和装备在两小时内完成速通](https://www.3dmgame.com/news/202404/3892633.html)
+
++ [《玩具熊五夜后宫2》电影正式确认 2025年秋季上映](https://www.3dmgame.com/news/202404/3892632.html)
+
++ [《碧蓝航线》启动华为鸿蒙原生应用开发 提供更佳体验](https://www.3dmgame.com/news/202404/3892631.html)
+

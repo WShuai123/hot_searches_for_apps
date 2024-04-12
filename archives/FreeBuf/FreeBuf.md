@@ -57,3 +57,7 @@
 
 + [树莓罗宾变异，现在可通过 Windows 脚本文件传播](https://www.freebuf.com/news/397709.html)
 
++ [真是炸裂！俄APT组织成功窃取美国政府通信数据和微软源代码](https://www.freebuf.com/news/397778.html)
+
++ [BST：一款功能强大的二进制字符串代码格式转换工具](https://www.freebuf.com/sectool/393155.html)
+

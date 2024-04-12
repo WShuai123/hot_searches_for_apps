@@ -37,3 +37,5 @@
 
 + [苹果 iPhone SE 4 规格曝光：6.1 英寸 60Hz 屏幕、IMX503 单摄、A16 Bionic 芯片](https://m.ithome.com/html/761361.htm)
 
++ [中兴 Axon 60 Ultra 手机发布：支持鸿宇 / 天通双卫星，6000mAh 电池](https://m.ithome.com/html/761274.htm)
+
