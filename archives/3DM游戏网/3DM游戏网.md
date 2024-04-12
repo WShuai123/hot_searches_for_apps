@@ -135,3 +135,31 @@
 
 + [《遗迹2》DLC“被遗忘的王国”4月23日推出](https://www.3dmgame.com/news/202404/3892583.html)
 
++ [《守望先锋2》发布第10赛季预告 新英雄“探奇”上线](https://www.3dmgame.com/news/202404/3892601.html)
+
++ [《下一站江湖Ⅱ》主题曲发布 多种活动惊喜上线](https://www.3dmgame.com/news/202404/3892603.html)
+
++ [《群星》Machine Age发售日预告  5月7日发售](https://www.3dmgame.com/news/202404/3892604.html)
+
++ [欧洲3月销量榜：《命令与征服》Steam降价系列霸榜](https://www.3dmgame.com/news/202404/3892605.html)
+
++ [《边缘世界》DLC“异常”正式发售 1.5免费更新同步上线](https://www.3dmgame.com/news/202404/3892606.html)
+
++ [乔纳森·诺兰起初希望谜语人成为《蝙蝠侠：黑暗骑士崛起》中的反派](https://www.3dmgame.com/news/202404/3892607.html)
+
++ [派拉蒙透露 《变形金刚》和《特种部队》的联动电影正在制作中](https://www.3dmgame.com/news/202404/3892593.html)
+
++ [《博德之门3》又赢麻：斩获2024年BAFTA五项大奖](https://www.3dmgame.com/news/202404/3892594.html)
+
++ [分析称《最终幻想7：重生》已售出至少200万份 不及前作](https://www.3dmgame.com/news/202404/3892595.html)
+
++ [《燕云十六声》定档宣传片 与众不同的五代十国之旅](https://www.3dmgame.com/news/202404/3892596.html)
+
++ [《全战：战锤3》腐朽王座DLC蛆虫之主实机 发售日待定](https://www.3dmgame.com/news/202404/3892597.html)
+
++ [《星刃》体验版日活玩家峰值69万 远超《最终幻想7：重生》](https://www.3dmgame.com/news/202404/3892598.html)
+
++ [国际游戏开发者协会呼吁工作室行动 避免非必要裁员](https://www.3dmgame.com/news/202404/3892599.html)
+
++ [4X回合战略游戏《废土帝国：人类复兴》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892600.html)
+
