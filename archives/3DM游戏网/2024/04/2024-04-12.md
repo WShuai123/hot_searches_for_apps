@@ -163,3 +163,23 @@
 
 + [4X回合战略游戏《废土帝国：人类复兴》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892600.html)
 
++ [《哆啦A梦：大雄的地球交响乐》定档5月31日 和童年经典大银幕见](https://www.3dmgame.com/news/202404/3892613.html)
+
++ [开发者坚决不用Unity 《杀戮尖塔2》使用Godot开发](https://www.3dmgame.com/news/202404/3892614.html)
+
++ [任天堂Switch会员新入库四款经典SFC游戏 现已上线](https://www.3dmgame.com/news/202404/3892615.html)
+
++ [《波斯王子：Rogue》与系列作品无关联 为全新故事和全新宇宙](https://www.3dmgame.com/news/202404/3892616.html)
+
++ [电影《小倩》“讨厌人间”版预告 4月30日全国上映](https://www.3dmgame.com/news/202404/3892617.html)
+
++ [《游戏王》活动现场气味太大熏走女玩家：太臭受不了](https://www.3dmgame.com/news/202404/3892608.html)
+
++ [《美国队长4》新剧照 罗斯将军想重组复仇者联盟](https://www.3dmgame.com/news/202404/3892609.html)
+
++ [《哆啦A梦：大雄的地球交响乐》定档预告 5月31日上映](https://www.3dmgame.com/news/202404/3892610.html)
+
++ [EA《Apex英雄》英国测试QA团队关闭 50人被裁](https://www.3dmgame.com/news/202404/3892611.html)
+
++ [冰球对战派对游戏《冰球大莽斗》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892612.html)
+
