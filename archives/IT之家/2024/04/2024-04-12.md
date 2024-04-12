@@ -45,3 +45,11 @@
 
 + [华为 HDC2024 开发者大会官宣 6 月，HarmonyOS NEXT 鸿蒙星河版开启 Beta 测试](https://m.ithome.com/html/761263.htm)
 
++ [李彦宏内部讲话曝光：大模型开源意义不大，百度绝不抢开发者饭碗](https://m.ithome.com/html/761311.htm)
+
++ [X（推特）将所有 twitter.com 网址内容替换为 X.com，意外“帮了”钓鱼网站](https://m.ithome.com/html/761271.htm)
+
++ [【视频】980g 的 Ultra9 轻薄本，华为MateBook X Pro 新品体验评测](https://m.ithome.com/html/761273.htm)
+
++ [小鹏汽车赠送爱心车主终身免费充电等权益，因其救下昏迷罐车司机](https://m.ithome.com/html/761278.htm)
+

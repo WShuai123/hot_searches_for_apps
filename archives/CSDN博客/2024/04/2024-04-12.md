@@ -169,3 +169,13 @@
 
 + [外包干了3天，技术退步明显.......](https://blog.csdn.net/YLF123456789000/article/details/137608263)
 
++ [Spring和Spring Boot的区别](https://blog.csdn.net/weixin_45248370/article/details/137558678)
+
++ [计算机网络——交换机和路由器](https://blog.csdn.net/m0_60631836/article/details/137643942)
+
++ [突破编程_C++_网络编程（Windows 套接字（处理 TCP 粘包问题））](https://blog.csdn.net/h8062651/article/details/137639454)
+
++ [2024年 MathorCup 数学建模 B 题 甲骨文智能识别中原始拓片单字自动分割与识别研究 思路代码论文](https://blog.csdn.net/m0_68036862/article/details/137670574)
+
++ [项目存放在git上，在jenkins使用docker打包并推送到Ubuntu上运行](https://blog.csdn.net/qq_27502511/article/details/137552014)
+
