@@ -53,3 +53,11 @@
 
 + [小鹏汽车赠送爱心车主终身免费充电等权益，因其救下昏迷罐车司机](https://m.ithome.com/html/761278.htm)
 
++ [高德地图苹果 Vision Pro 版上线：号称带来“更身临其境”交互方式](https://m.ithome.com/html/761312.htm)
+
++ [IT之家对话苹果高管：MacBook Air 8GB 内存、合盖外接双显、游戏和 AI…… 这些问题都得到回答](https://m.ithome.com/html/761415.htm)
+
++ [《魔兽世界》国服回归预约人数突破 200 万](https://m.ithome.com/html/761357.htm)
+
++ [2988 元起，大疆发布 Avata 2 无人机：升级 1/1.3 英寸传感器](https://m.ithome.com/html/761320.htm)
+

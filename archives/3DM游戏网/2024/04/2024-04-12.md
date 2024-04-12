@@ -243,3 +243,9 @@
 
 + [繁中版《超时空要塞：Shooting Insight》夏季发售 PS及Switch平台](https://www.3dmgame.com/news/202404/3892643.html)
 
++ [雷军称小米SU7得到百万网友认可：心里终于踏实了](https://www.3dmgame.com/news/202404/3892648.html)
+
++ [Intel最强AI加速器可以卖给中国！但挥刀砍掉一半](https://www.3dmgame.com/news/202404/3892649.html)
+
++ [《刀剑神域：异绊集结》DLC“羁绊仪式Vol.2”4月18日发售 追加全新剧情](https://www.3dmgame.com/news/202404/3892647.html)
+

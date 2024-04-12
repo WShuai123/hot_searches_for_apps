@@ -63,3 +63,5 @@
 
 + [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
 
++ [金融监管总局发布《反保险欺诈工作办法（征求意见稿）》](https://www.freebuf.com/news/397772.html)
+
