@@ -101,3 +101,5 @@
 
 + [EA《Apex英雄》英国测试QA团队关闭 50人被裁](https://www.3dmgame.com/news/202404/3892611.html)
 
++ [《杀戮尖塔2》明年在Steam开启抢先体验 前作广受好评](https://www.3dmgame.com/news/202404/3892658.html)
+
