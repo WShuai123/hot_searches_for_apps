@@ -65,3 +65,5 @@
 
 + [“成为传奇，加入绝地潜兵！”——《绝地潜兵2/地狱潜兵2》开场动画中文配音【张遥函配音】](http://www.acfun.cn/v/ac44314390)
 
++ [【莉莉子】BLACKPINK Pink Venom【双视角】](http://www.acfun.cn/v/ac44300062)
+
