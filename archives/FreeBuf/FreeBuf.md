@@ -51,3 +51,5 @@
 
 + [机器人攻击仍然是2024年的最大威胁](https://www.freebuf.com/news/397714.html)
 
++ [政策解读 | 《金融业开源软件应用管理指南》](https://www.freebuf.com/articles/neopoints/397605.html)
+
