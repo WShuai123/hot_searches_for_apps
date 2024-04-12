@@ -39,3 +39,9 @@
 
 + [中兴 Axon 60 Ultra 手机发布：支持鸿宇 / 天通双卫星，6000mAh 电池](https://m.ithome.com/html/761274.htm)
 
++ [问界新 M5 实车曝光：封闭式前脸、LOGO 黑化、华为智驾有望升级](https://m.ithome.com/html/761405.htm)
+
++ [电影《传说》即将定档，用 AI 还原了 27 岁的成龙](https://m.ithome.com/html/761386.htm)
+
++ [华为 HDC2024 开发者大会官宣 6 月，HarmonyOS NEXT 鸿蒙星河版开启 Beta 测试](https://m.ithome.com/html/761263.htm)
+

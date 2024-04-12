@@ -225,3 +225,11 @@
 
 + [《碧蓝航线》启动华为鸿蒙原生应用开发 提供更佳体验](https://www.3dmgame.com/news/202404/3892631.html)
 
++ [Steam发布FPS游戏节宣传片 4月16日凌晨开启](https://www.3dmgame.com/news/202404/3892641.html)
+
++ [消息泄露确认《女神异闻录4》重制版存在 但要等待](https://www.3dmgame.com/news/202404/3892640.html)
+
++ [微软不遗余力推广Win11：全屏提醒用户Win10将停用](https://www.3dmgame.com/news/202404/3892639.html)
+
++ [英国拟立法 禁止向16岁以下未成年人出售智能手机](https://www.3dmgame.com/news/202404/3892638.html)
+
