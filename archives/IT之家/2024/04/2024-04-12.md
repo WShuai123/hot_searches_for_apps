@@ -69,3 +69,5 @@
 
 + [微软推广 Win11 再出新招：Win10 用户反馈 PC 出现全屏提醒“明年停用”](https://m.ithome.com/html/761329.htm)
 
++ [哈啰顺风车：前 10 位认证成功的小米 SU7 车主，免费送 1000 度电](https://m.ithome.com/html/761511.htm)
+

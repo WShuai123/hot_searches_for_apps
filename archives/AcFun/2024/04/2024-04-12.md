@@ -131,3 +131,9 @@
 
 + [中华娘也跳swag](http://www.acfun.cn/v/ac44313372)
 
++ [自制左轮锂电钻](http://www.acfun.cn/v/ac44314470)
+
++ [【AC访谈录】2024年 第2期 闪光小羊——雨音咩咩](http://www.acfun.cn/v/ac44309045)
+
++ [拼凑的断音♬](http://www.acfun.cn/v/ac44314625)
+

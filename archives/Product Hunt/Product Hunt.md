@@ -151,3 +151,7 @@
 
 + [Dovetail Magic](https://www.producthunt.com/posts/dovetail-magic)
 
++ [ExplainTXT](https://www.producthunt.com/posts/explaintxt)
+
++ [SwearBy (iOS)](https://www.producthunt.com/posts/swearby-ios)
+
