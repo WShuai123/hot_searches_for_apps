@@ -51,3 +51,5 @@
 
 + [英伟达 RTX 4090 显卡烧熔问题依然严重，维修店平均每月经手 200 片](https://m.ithome.com/html/761613.htm)
 
++ [直播卖电池，宁德时代想 2C](https://m.ithome.com/html/761616.htm)
+
