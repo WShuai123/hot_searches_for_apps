@@ -43,3 +43,5 @@
 
 + [关于近期俄乌网络攻击活动追踪分析报告](https://www.freebuf.com/articles/paper/396967.html)
 
++ [窃密木马借"壁纸引擎"传播，Steam "再中招"](https://www.freebuf.com/articles/paper/397690.html)
+
