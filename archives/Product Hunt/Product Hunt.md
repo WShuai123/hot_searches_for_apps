@@ -135,3 +135,7 @@
 
 + [Notes](https://www.producthunt.com/posts/notes-6)
 
++ [StoryLine Smith](https://www.producthunt.com/posts/storyline-smith)
+
++ [ChatSlide.ai](https://www.producthunt.com/posts/chatslide-ai)
+

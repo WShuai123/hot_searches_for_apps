@@ -157,3 +157,11 @@
 
 + [手机真有读心术吗：专家称App监听的可能性几乎没有](https://www.3dmgame.com/news/202404/3892682.html)
 
++ [《网络奇兵：重制版》PC版更新 女性主角正式加入](https://www.3dmgame.com/news/202404/3892688.html)
+
++ [策略游戏《Memoriapolis》预告 不支持中文](https://www.3dmgame.com/news/202404/3892689.html)
+
++ [《沙耶之歌》女主布娃娃比发行商所有游戏收入还高](https://www.3dmgame.com/news/202404/3892686.html)
+
++ [小米应用商店新规今日生效：App不得默认自动续费](https://www.3dmgame.com/news/202404/3892687.html)
+
