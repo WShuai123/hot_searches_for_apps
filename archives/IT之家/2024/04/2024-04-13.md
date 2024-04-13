@@ -59,3 +59,7 @@
 
 + [西部数据推出 368TB “移动硬盘”，重 13-15 千克](https://m.ithome.com/html/761627.htm)
 
++ [黑鲨“魔戒”智能戒指厚度 2.2mm，续航至高 180 天](https://m.ithome.com/html/761588.htm)
+
++ [努比亚小牛 5G 手机开售：展锐 T760 + 双面玻璃机身，799 元起](https://m.ithome.com/html/761655.htm)
+

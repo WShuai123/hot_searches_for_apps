@@ -189,3 +189,7 @@
 
 + [消息称TikTok正开发AI虚拟网红 帮助商家创作广告并实现带货](https://www.3dmgame.com/news/202404/3892701.html)
 
++ [英伟达RTX 5090显卡 售价可能超2500美元](https://www.3dmgame.com/news/202404/3892703.html)
+
++ [神还原，细节拉满！粉丝用现实场景复刻《GTA6》预告片](https://www.3dmgame.com/news/202404/3892702.html)
+
