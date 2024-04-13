@@ -51,3 +51,37 @@
 
 + [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
 
++ [eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark)
+
++ [huggingface / parler-tts](https://github.com/huggingface/parler-tts)
+
++ [itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x)
+
++ [nlohmann / json](https://github.com/nlohmann/json)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+
++ [dotnet / maui](https://github.com/dotnet/maui)
+
++ [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
++ [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai)
+
++ [Azure / Copilot-For-Security](https://github.com/Azure/Copilot-For-Security)
+
++ [Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+
++ [atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop)
+
++ [saasfly / saasfly](https://github.com/saasfly/saasfly)
+
++ [tidwall / neco](https://github.com/tidwall/neco)
+
++ [karpathy / llama2.c](https://github.com/karpathy/llama2.c)
+
++ [zulip / zulip](https://github.com/zulip/zulip)
+

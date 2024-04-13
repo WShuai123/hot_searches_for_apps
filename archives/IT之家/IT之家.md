@@ -49,3 +49,5 @@
 
 + [AMD AM5 台式主机配置上新：R5-8400F + 16GB + 1TB + RX6750GRE，3999 元起](https://m.ithome.com/html/761605.htm)
 
++ [英伟达 RTX 4090 显卡烧熔问题依然严重，维修店平均每月经手 200 片](https://m.ithome.com/html/761613.htm)
+
