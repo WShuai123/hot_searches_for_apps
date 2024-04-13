@@ -165,3 +165,19 @@
 
 + [小米应用商店新规今日生效：App不得默认自动续费](https://www.3dmgame.com/news/202404/3892687.html)
 
++ [《真女神转生5：复仇》新增恶魔后院要素 提供拍照模式](https://www.3dmgame.com/news/202404/3892696.html)
+
++ [角色扮演动作游戏《银色盾牌》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3892697.html)
+
++ [Epic呼吁Play商店改变策略 谷歌称其想“白吃白嫖”](https://www.3dmgame.com/news/202404/3892695.html)
+
++ [闷声发大财 《古惑狼4：时机已到》销量突破五百万](https://www.3dmgame.com/news/202404/3892694.html)
+
++ [《幻兽帕鲁》夏季发布大型更新档 竞技场仍需等待](https://www.3dmgame.com/news/202404/3892693.html)
+
++ [3D竞技场射击游戏《1枪1杀》steam页面 支持中文](https://www.3dmgame.com/news/202404/3892692.html)
+
++ [日本丰桥市大型怪物猎人联动活动 全市遍布怪猎主题](https://www.3dmgame.com/news/202404/3892691.html)
+
++ [3I独立展暗示《丝之歌》啥都没播 玩家再变“小丑”](https://www.3dmgame.com/news/202404/3892690.html)
+

@@ -47,3 +47,5 @@
 
 + [小米应用商店今起实施新规：App 不得默认勾选自动续费、强制捆绑开通服务](https://m.ithome.com/html/761600.htm)
 
++ [AMD AM5 台式主机配置上新：R5-8400F + 16GB + 1TB + RX6750GRE，3999 元起](https://m.ithome.com/html/761605.htm)
+
