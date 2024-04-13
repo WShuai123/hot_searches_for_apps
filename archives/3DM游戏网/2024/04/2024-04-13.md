@@ -185,3 +185,7 @@
 
 + [《星刃》PS5支持三种模式 支持2K/60FPS和4K/30FPS](https://www.3dmgame.com/news/202404/3892698.html)
 
++ [谷歌Pixel 8a四种配色的渲染图流出 会有更圆润的设计](https://www.3dmgame.com/news/202404/3892699.html)
+
++ [消息称TikTok正开发AI虚拟网红 帮助商家创作广告并实现带货](https://www.3dmgame.com/news/202404/3892701.html)
+

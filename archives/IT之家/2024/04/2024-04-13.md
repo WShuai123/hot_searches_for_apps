@@ -55,3 +55,7 @@
 
 + [微软“更名部”出手，Office 家庭和学生版要精简为 Office 家庭版](https://m.ithome.com/html/761591.htm)
 
++ [倍思推出 100W 氮化镓桌面充电器：自带 Type-C 伸缩线，269 元](https://m.ithome.com/html/761649.htm)
+
++ [西部数据推出 368TB “移动硬盘”，重 13-15 千克](https://m.ithome.com/html/761627.htm)
+
