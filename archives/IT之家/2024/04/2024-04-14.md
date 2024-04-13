@@ -29,3 +29,5 @@
 
 + [打击“制造虚假信息、恶意摆拍”，微信、抖音、微博等平台封禁“猫一杯”账号](https://m.ithome.com/html/761668.htm)
 
++ [小米汽车：SU7 中控屏下方 Type-C 接口将 OTA 提供 DP 拓展，可连接 Switch 等设备](https://m.ithome.com/html/761683.htm)
+
