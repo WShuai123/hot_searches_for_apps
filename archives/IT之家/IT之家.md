@@ -27,3 +27,9 @@
 
 + [跨越两个大版本，多款华为老智慧屏直接从鸿蒙 2.0 升级 HarmonyOS 4.2](https://m.ithome.com/html/761529.htm)
 
++ [小米 SU7 全系车型标配 BSD 盲区监测：后续将 OTA 盲区影像显示](https://m.ithome.com/html/761569.htm)
+
++ [奇瑞 iCAR X25 车型亮相：独特“小方盒”设计，定位越野 MPV](https://m.ithome.com/html/761566.htm)
+
++ [网易暴雪“复婚”背后](https://m.ithome.com/html/761536.htm)
+

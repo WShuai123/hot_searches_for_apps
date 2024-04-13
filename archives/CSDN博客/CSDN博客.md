@@ -119,3 +119,29 @@
 
 + [2024 Mathorcup高校数学建模挑战赛（B题）| 甲骨文识别 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/137675301)
 
++ [计算机网络—HTTPS协议详解：工作原理、安全性及应用实践](https://blog.csdn.net/weixin_64038246/article/details/137697540)
+
++ [Spring高手之路17——动态代理的艺术与实践](https://blog.csdn.net/qq_34115899/article/details/135990524)
+
++ [【学习】Spring IoC&DI](https://blog.csdn.net/m0_65465009/article/details/137608697)
+
++ [文献学习-32-新生儿皮质表面重建的条件时间注意网络](https://blog.csdn.net/Metaphysicist/article/details/137581444)
+
++ [Python机器学习学习线路](https://blog.csdn.net/yuan2019035055/article/details/137647515)
+
++ [（3）(3.1) 英特尔Realsense深度摄像头（三）](https://blog.csdn.net/qq_20016593/article/details/137268264)
+
++ [​​​​网络编程学习探索系列之——广播原理剖析](https://blog.csdn.net/weixin_73951752/article/details/137695718)
+
++ [【Entity Framework】如何使用EF中的生成值](https://blog.csdn.net/songjianlong/article/details/137654874)
+
++ [飞机降落（蓝桥杯）](https://blog.csdn.net/m0_73841621/article/details/137639864)
+
++ [如何在CentOS本地搭建Spug平台结合内网穿透实现远程管理运维](https://blog.csdn.net/2301_77485708/article/details/137654849)
+
++ [【Linux杂货铺】文件系统](https://blog.csdn.net/jupangMZ/article/details/137689753)
+
++ [【MySQL】数据库开篇](https://blog.csdn.net/LikewaterwithLi/article/details/137649338)
+
++ [深入浅出 -- 系统架构之日均亿级吞吐量的网关架构(CDN内容分发)](https://blog.csdn.net/xiaoli8748/article/details/137652367)
+
