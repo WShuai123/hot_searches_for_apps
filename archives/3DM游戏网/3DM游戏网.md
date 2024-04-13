@@ -107,3 +107,29 @@
 
 + [《最终幻想7：重制版》第三部或于2027年发售](https://www.3dmgame.com/news/202404/3892659.html)
 
++ [《盗贼之海》封闭Beta测试启动 玩家预购游戏即可进入](https://www.3dmgame.com/news/202404/3892673.html)
+
++ [《Cosmic A Journey Among Shadows》5月6日发售 暂不支持中文](https://www.3dmgame.com/news/202404/3892672.html)
+
++ [《绝地潜兵2》新护甲推出时效果错误 之后会修复](https://www.3dmgame.com/news/202404/3892671.html)
+
++ [2016版《瑞奇与叮当》赠礼 预购奖励如今免费下载](https://www.3dmgame.com/news/202404/3892670.html)
+
++ [威猛凶悍！《食人鲨》全球销量超1400万套](https://www.3dmgame.com/news/202404/3892669.html)
+
++ [《波斯王子：Rogue》抢先体验之前将进行A测](https://www.3dmgame.com/news/202404/3892668.html)
+
++ [动作解谜游戏《Quatros Noir》Steam页面上线 Q3发售](https://www.3dmgame.com/news/202404/3892667.html)
+
++ [《正当防卫》开发商将与瑞典工会签订集体谈判协议](https://www.3dmgame.com/news/202404/3892666.html)
+
++ [《DOTA2》ESL ONE英国伯明翰站分组出炉](https://www.3dmgame.com/news/202404/3892665.html)
+
++ [R星提升GTA+订阅价格 费用上涨40%](https://www.3dmgame.com/news/202404/3892663.html)
+
++ [Prytania又关闭另一家旗下开发商Possibility Space](https://www.3dmgame.com/news/202404/3892662.html)
+
++ [《星刃》开发者日志“旅程” 4月26日发售](https://www.3dmgame.com/news/202404/3892661.html)
+
++ [13/14代酷睿i9频繁崩溃蓝屏！或因4096W功耗设定惹祸](https://www.3dmgame.com/news/202404/3892664.html)
+
