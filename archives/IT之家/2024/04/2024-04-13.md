@@ -53,3 +53,5 @@
 
 + [直播卖电池，宁德时代想 2C](https://m.ithome.com/html/761616.htm)
 
++ [微软“更名部”出手，Office 家庭和学生版要精简为 Office 家庭版](https://m.ithome.com/html/761591.htm)
+
