@@ -101,3 +101,11 @@
 
 + [《GTA6》极端粉：即便卖200美元也一定会买](https://www.3dmgame.com/news/202404/3892654.html)
 
++ [前343公司领导涉嫌“破坏”《光环：无限》战役开发](https://www.3dmgame.com/news/202404/3892707.html)
+
++ [《星球大战：法外狂徒》ESRB分级确认包含潜行元素](https://www.3dmgame.com/news/202404/3892706.html)
+
++ [粉丝自制《魔兽世界》VR Mod 已提供下载](https://www.3dmgame.com/news/202404/3892705.html)
+
++ [《星际公民》PC系统配置更新 需要100G空间](https://www.3dmgame.com/news/202404/3892704.html)
+
