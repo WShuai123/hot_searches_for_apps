@@ -145,3 +145,35 @@
 
 + [深入浅出 -- 系统架构之日均亿级吞吐量的网关架构(CDN内容分发)](https://blog.csdn.net/xiaoli8748/article/details/137652367)
 
++ [ADOP告诉您 2024年人工智能是什么？它的类型、趋势和未来？下篇](https://blog.csdn.net/qq_40689834/article/details/137517291)
+
++ [云计算：Linux 部署 OVS 集群（控制端）实现OpenFlow](https://blog.csdn.net/cronaldo91/article/details/137639500)
+
++ [本地部署开源免费文件传输工具LocalSend并实现公网快速传送文件](https://blog.csdn.net/Aileenvov/article/details/137699898)
+
++ [YOLOv8 代码逐行解析(一) 项目目录构造分析_yolov8工程目录(1)](https://blog.csdn.net/2401_84009974/article/details/137702778)
+
++ [最新PDD批发Anti-Content参数逆向分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/137697611)
+
++ [使用springboot+jpa+hibernate连接access数据库实现增删改查](https://blog.csdn.net/qq_51945020/article/details/137625207)
+
++ [【项目实战】记录一次PG数据库迁移至GaussDB测试（上）](https://blog.csdn.net/GaussDB/article/details/137710527)
+
++ [在 Elasticsearch 中扩展 ML 推理管道：如何避免问题并解决瓶颈](https://blog.csdn.net/UbuntuTouch/article/details/137598241)
+
++ [数学杂谈之四：学习数学的方法](https://blog.csdn.net/cnds123/article/details/137666648)
+
++ [React-项目构建](https://blog.csdn.net/2302_76329106/article/details/137676125)
+
++ [文献学习-34-具有可微分 ROI 网络和软 ROI 池化的胸部 X 光弱监督对象检测](https://blog.csdn.net/Metaphysicist/article/details/137689767)
+
++ [2024mathorcup数学建模A 题移动通信网络中 PCI 规划问题思路分析及参考代码](https://blog.csdn.net/matlab_dingdang/article/details/137699368)
+
++ [CSS3 平面 2D 变换+CSS3 过渡](https://blog.csdn.net/2201_75539691/article/details/137658126)
+
++ [Spark-Scala语言实战（15）](https://blog.csdn.net/qq_49513817/article/details/137658076)
+
++ [Kubernetes（k8s）：深入理解 Kubernetes 中的污点（Taints）与容忍度（Tolerations）](https://blog.csdn.net/qq_41840843/article/details/137698624)
+
++ [ElasticSearch中使用bge-large-zh-v1.5进行向量检索（一）](https://blog.csdn.net/zhujiahui622/article/details/137672280)
+

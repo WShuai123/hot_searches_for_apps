@@ -101,3 +101,37 @@
 
 + [Commerce AI](https://www.producthunt.com/posts/commerce-ai)
 
++ [Azyri](https://www.producthunt.com/posts/azyri)
+
++ [Claud Dreams](https://www.producthunt.com/posts/claud-dreams)
+
++ [Linky Notes](https://www.producthunt.com/posts/linky-notes)
+
++ [Zactor](https://www.producthunt.com/posts/zactor)
+
++ [StackifyMind](https://www.producthunt.com/posts/stackifymind)
+
++ [Frameit](https://www.producthunt.com/posts/frameit-1)
+
++ [HireHarmonyAI](https://www.producthunt.com/posts/hireharmonyai)
+
++ [Expense Badger](https://www.producthunt.com/posts/expense-badger)
+
++ [LadyLog - A period tracker](https://www.producthunt.com/posts/ladylog-a-period-tracker)
+
++ [TopoGuesser](https://www.producthunt.com/posts/topoguesser)
+
++ [Pastebin.ai](https://www.producthunt.com/posts/pastebin-ai)
+
++ [Interview with AI](https://www.producthunt.com/posts/interview-with-ai)
+
++ [Kazimir.ai](https://www.producthunt.com/posts/kazimir-ai)
+
++ [Clockwise](https://www.producthunt.com/posts/clockwise-9512f274-c827-4dc9-8c74-2bf52caf55e4)
+
++ [Voxio](https://www.producthunt.com/posts/voxio)
+
++ [Everlyn AI](https://www.producthunt.com/posts/everlyn-ai)
+
++ [Notes](https://www.producthunt.com/posts/notes-6)
+
