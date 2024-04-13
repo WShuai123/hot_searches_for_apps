@@ -133,3 +133,13 @@
 
 + [13/14代酷睿i9频繁崩溃蓝屏！或因4096W功耗设定惹祸](https://www.3dmgame.com/news/202404/3892664.html)
 
++ [《博德之门3》阿斯代伦演员有意参与更多D&D游戏](https://www.3dmgame.com/news/202404/3892676.html)
+
++ [清华团队发布AI光芯片“太极” 灵感来自周易](https://www.3dmgame.com/news/202404/3892677.html)
+
++ [《肯泽拉传说：扎乌》主线通关时长约为8-10小时](https://www.3dmgame.com/news/202404/3892678.html)
+
++ [B社设计总监确认：《辐射：新维加斯》剧情是正史](https://www.3dmgame.com/news/202404/3892674.html)
+
++ [我国海上第一深井正式投产 钻井深度9508米](https://www.3dmgame.com/news/202404/3892675.html)
+
