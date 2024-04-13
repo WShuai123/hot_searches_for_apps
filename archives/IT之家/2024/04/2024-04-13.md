@@ -41,3 +41,7 @@
 
 + [米哈游《原神》4.6 版本 4 月 24 日上线，附 300 原石兑换码](https://m.ithome.com/html/761558.htm)
 
++ [蔚来乐道 L60 无伪装谍照曝光：橙红色车身，溜背式设计](https://m.ithome.com/html/761520.htm)
+
++ [奇瑞 iCAR V23 亮相：骁龙 8155 座舱，支持高速 NOA、记忆泊车](https://m.ithome.com/html/761560.htm)
+

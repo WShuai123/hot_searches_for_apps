@@ -45,3 +45,5 @@
 
 + [窃密木马借"壁纸引擎"传播，Steam "再中招"](https://www.freebuf.com/articles/paper/397690.html)
 
++ [甲方安全建设之日志采集实操干货](https://www.freebuf.com/articles/network/397113.html)
+
