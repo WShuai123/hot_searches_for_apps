@@ -145,3 +145,5 @@
 
 + [发售过去9年 玩家又在《巫师3》中找到新彩蛋](https://www.3dmgame.com/news/202404/3892679.html)
 
++ [《心流小筑》5月2日发售 支持简体中文](https://www.3dmgame.com/news/202404/3892680.html)
+

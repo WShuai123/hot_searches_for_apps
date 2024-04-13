@@ -45,3 +45,5 @@
 
 + [奇瑞 iCAR V23 亮相：骁龙 8155 座舱，支持高速 NOA、记忆泊车](https://m.ithome.com/html/761560.htm)
 
++ [小米应用商店今起实施新规：App 不得默认勾选自动续费、强制捆绑开通服务](https://m.ithome.com/html/761600.htm)
+
