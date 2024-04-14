@@ -101,3 +101,27 @@
 
 + [Tranquil Expanse](https://www.producthunt.com/posts/tranquil-expanse)
 
++ [CalculatorNinjas](https://www.producthunt.com/posts/calculatorninjas)
+
++ [Hear it](https://www.producthunt.com/posts/hear-it)
+
++ [Evelyn](https://www.producthunt.com/posts/evelyn)
+
++ [NotesHub 3.3](https://www.producthunt.com/posts/noteshub-3-3)
+
++ [Quotely](https://www.producthunt.com/posts/quotely)
+
++ [Deblank Colors](https://www.producthunt.com/posts/deblank-colors)
+
++ [AutoRepurpose](https://www.producthunt.com/posts/autorepurpose)
+
++ [IMGPT](https://www.producthunt.com/posts/imgpt)
+
++ [YouTube Summarizer](https://www.producthunt.com/posts/youtube-summarizer)
+
++ [Feedback Rivers](https://www.producthunt.com/posts/feedback-rivers)
+
++ [TheHome.dev](https://www.producthunt.com/posts/thehome-dev)
+
++ [SiteJetAI - Customer Support Chatbot](https://www.producthunt.com/posts/sitejetai-customer-support-chatbot)
+

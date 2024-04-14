@@ -141,3 +141,19 @@
 
 + [《咒术回战 咒灵逃走》桌游5月23日发售 玩法更有趣](https://www.3dmgame.com/news/202404/3892719.html)
 
++ [解谜名作《Picross：LogiartGrimoire》登陆Switch](https://www.3dmgame.com/news/202404/3892730.html)
+
++ [特斯拉自动驾驶出租车遭受质疑！监管机构称没有许可](https://www.3dmgame.com/news/202404/3892731.html)
+
++ [前PlayStation高管加盟任天堂 负责招揽第三方游戏](https://www.3dmgame.com/news/202404/3892729.html)
+
++ [《灵魂面甲》5月1日开放B测 开放世界生存建设](https://www.3dmgame.com/news/202404/3892728.html)
+
++ [多位配音演员表态愿意回归《博德之门》系列](https://www.3dmgame.com/news/202404/3892726.html)
+
++ [拉瑞安竟是《神之亵渎》众筹项目的最大出资人](https://www.3dmgame.com/news/202404/3892727.html)
+
++ [SE《泡沫明星》新赛季开启 新角色御姐克劳艾参战](https://www.3dmgame.com/news/202404/3892724.html)
+
++ [传曝英伟达计划四季度推出RTX 5090 核心数增加50%](https://www.3dmgame.com/news/202404/3892725.html)
+

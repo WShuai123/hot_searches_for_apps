@@ -49,3 +49,5 @@
 
 + [SharkTeam：2024年第一季度Web3安全报告](https://www.freebuf.com/articles/web/397331.html)
 
++ [MASC：一款功能强大的Web恶意软件扫描工具](https://www.freebuf.com/sectool/393195.html)
+
