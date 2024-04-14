@@ -43,3 +43,13 @@
 
 + [北京大学舒幼生教授逝世，曾多次率中国队获国际物理奥赛团体第一](https://m.ithome.com/html/761686.htm)
 
++ [华为余承东谈“车载手机支架”：“美国品牌”车主称车机导航不好用，并非指小米](https://m.ithome.com/html/761743.htm)
+
++ [蔚来李斌：中国市场全球最大、最开放，别国汽车不会被针对](https://m.ithome.com/html/761713.htm)
+
++ [开源路由系统 iStoreOS 推出 NAS 版，提供 x86、ARS4 固件](https://m.ithome.com/html/761677.htm)
+
++ [基于安卓 14 ，Redmi K40S 手机现已推送小米 HyperOS 系统](https://m.ithome.com/html/761729.htm)
+
++ [极星手机 Polestar Phone 预热，4 月 16 日揭晓“新体验”](https://m.ithome.com/html/761675.htm)
+

@@ -157,3 +157,15 @@
 
 + [传曝英伟达计划四季度推出RTX 5090 核心数增加50%](https://www.3dmgame.com/news/202404/3892725.html)
 
++ [《FF7重制版》总监：三部曲虽然预定完结但仍想继续故事](https://www.3dmgame.com/news/202404/3892737.html)
+
++ [《辐射4》MOD加入电视剧版露西的麻醉枪武器](https://www.3dmgame.com/news/202404/3892736.html)
+
++ [《星刃》总监：做这游戏，很多人认为我们疯了](https://www.3dmgame.com/news/202404/3892735.html)
+
++ [传《女神异闻录》初代和二代重制版正在计划中](https://www.3dmgame.com/news/202404/3892734.html)
+
++ [消息称苹果iPhone计划今年下半年引入AI聊天机器人](https://www.3dmgame.com/news/202404/3892733.html)
+
++ [《辐射》创作者给电视剧版点赞：视觉效果太棒了](https://www.3dmgame.com/news/202404/3892732.html)
+

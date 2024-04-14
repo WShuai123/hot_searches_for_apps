@@ -101,3 +101,71 @@
 
 + [linux磁盘知识学习](https://blog.csdn.net/weixin_40539956/article/details/137653218)
 
++ [【机器学习】深入剖析贝叶斯算法原理及其广泛应用](https://blog.csdn.net/qq_38614074/article/details/137581920)
+
++ [AIGC的崛起：定义未来内容创作的新纪元](https://blog.csdn.net/2301_77509762/article/details/137695276)
+
++ [Python赋能AI数据分析开启人工智能新时代](https://blog.csdn.net/qq_32682301/article/details/137723285)
+
++ [Linux之bpfjit(2)使用分析和mini-tcpdump实现](https://blog.csdn.net/Once_day/article/details/137722254)
+
++ [【SpringBoot：详解Bean装配】](https://blog.csdn.net/qq_73918355/article/details/137742885)
+
++ [文心一言 vs GPT-4 —— 全面横向比较](https://blog.csdn.net/sxc1414749109/article/details/137670776)
+
++ [mysql锁相关知识](https://blog.csdn.net/m0_66316879/article/details/137715740)
+
++ [基于Java的XxlCrawler网络信息爬取实战-以中国地震台网为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/137726644)
+
++ [【Linux实践室】Linux高级用户管理实战指南：用户所属组变更操作详解](https://blog.csdn.net/2301_80026901/article/details/137733970)
+
++ [Cesium.js--》探秘Cesium背后的3D模型魔力—加载纽约模型](https://blog.csdn.net/qq_53123067/article/details/137722747)
+
++ [ChatGPT4.0使用教程，GPT联网模型提问，GPTs应用，Midjourney-AI绘画，AI换脸，Suno-AI音乐生成大模型](https://blog.csdn.net/weixin_43227851/article/details/137721354)
+
++ [如何在Linux部署MeterSphere并实现公网访问进行远程测试工作](https://blog.csdn.net/2201_75743654/article/details/137741629)
+
++ [【AI云原生】Kubernetes容器环境下大模型训练和推理的关键技术分析](https://blog.csdn.net/myTomorrow_better/article/details/137723551)
+
++ [文献学习-36-自主缝合的现状：系统综述](https://blog.csdn.net/Metaphysicist/article/details/137738768)
+
++ [【研发日记】Matlab/Simulink技能解锁(六)——六种Simulink模型架构](https://blog.csdn.net/CSSUST/article/details/137713868)
+
++ [轮腿机器人-五连杆正运动学解算](https://blog.csdn.net/weixin_44223883/article/details/137712455)
+
++ [SpringBoo利用 MDC 机制过滤出单次请求相关的日志](https://blog.csdn.net/qq_35716689/article/details/137717362)
+
++ [最前沿・量子退火建模方法(1) : subQUBO讲解和python实现](https://blog.csdn.net/gangshen1993/article/details/137709029)
+
++ [文心一言指令词宝典之职场效率篇](https://blog.csdn.net/weixin_42250835/article/details/137729073)
+
++ [MySQL知识整理](https://blog.csdn.net/qq_30169753/article/details/137602219)
+
++ [《高等数学》笔记](https://blog.csdn.net/qq_53043199/article/details/137735016)
+
++ [AI大模型探索之路-实战篇：基于CVP架构-企业级知识库实战落地](https://blog.csdn.net/xiaobing259/article/details/137734639)
+
++ [Python数据分析可视化之Pandas的使用](https://blog.csdn.net/lerp020321/article/details/137727291)
+
++ [通过一篇文章让你了解Linux的重要性](https://blog.csdn.net/qq_74013365/article/details/137723152)
+
++ [Linux账号和权限管理](https://blog.csdn.net/2301_82109773/article/details/137693804)
+
++ [【计算机网络】ip子网划分--超详细例题解析](https://blog.csdn.net/2302_76305195/article/details/137685072)
+
++ [微信小程序 uniapp+vue城市公交线路查询系统dtjl3](https://blog.csdn.net/yibo2022/article/details/137666008)
+
++ [物流网络分拣中心货量预测及人员排班](https://blog.csdn.net/weixin_46211269/article/details/137699667)
+
++ [springboot结合vue实现登录和注册功能](https://blog.csdn.net/abfwaaf/article/details/137651191)
+
++ [Harmony鸿蒙南向驱动开发-Watchdog接口使用](https://blog.csdn.net/m0_64420071/article/details/137687723)
+
++ [Spark-Scala语言实战（16）](https://blog.csdn.net/qq_49513817/article/details/137727287)
+
++ [​​​​网络编程探索系列 —— 洪水网络攻击](https://blog.csdn.net/weixin_73951752/article/details/137714223)
+
++ [基于vue的线上点餐系统论文](https://blog.csdn.net/QQ1694456187/article/details/137672760)
+
++ [Springboot+Vue项目-基于Java+MySQL的读书笔记共享平台系统(附源码+演示视频+LW)](https://blog.csdn.net/2301_77929081/article/details/137720990)
+

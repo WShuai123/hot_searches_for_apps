@@ -51,3 +51,33 @@
 
 + [zulip / zulip](https://github.com/zulip/zulip)
 
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [openai / simple-evals](https://github.com/openai/simple-evals)
+
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [code100x / daily-code](https://github.com/code100x/daily-code)
+
++ [modularml / mojo](https://github.com/modularml/mojo)
+
++ [GopeedLab / gopeed](https://github.com/GopeedLab/gopeed)
+
++ [datawhalechina / llm-universe](https://github.com/datawhalechina/llm-universe)
+
++ [barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
+
++ [azerothcore / azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+
++ [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
++ [PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [espressif / arduino-esp32](https://github.com/espressif/arduino-esp32)
+
++ [zrax / pycdc](https://github.com/zrax/pycdc)
+
