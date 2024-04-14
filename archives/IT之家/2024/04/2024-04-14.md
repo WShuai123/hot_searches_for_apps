@@ -53,3 +53,9 @@
 
 + [极星手机 Polestar Phone 预热，4 月 16 日揭晓“新体验”](https://m.ithome.com/html/761675.htm)
 
++ [消息称小米汽车 SU7 锁单破 6 万，大定退单率 55% 左右](https://m.ithome.com/html/761768.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 真机界面曝光，Q4 发布商用版](https://m.ithome.com/html/761777.htm)
+
++ [中国移动宣布推出“移动云盘”App 华为鸿蒙 HarmonyOS NEXT 版原生核心版本](https://m.ithome.com/html/761757.htm)
+

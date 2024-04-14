@@ -169,3 +169,15 @@
 
 + [《辐射》创作者给电视剧版点赞：视觉效果太棒了](https://www.3dmgame.com/news/202404/3892732.html)
 
++ [EA《黑豹》游戏将采用开放世界设定](https://www.3dmgame.com/news/202404/3892743.html)
+
++ [Mac营销主管：8GB内存足以满足大多数电脑用户需求](https://www.3dmgame.com/news/202404/3892742.html)
+
++ [《辐射4》次世代更新将来 开发了4年的大型MOD《辐射：伦敦》没了](https://www.3dmgame.com/news/202404/3892741.html)
+
++ [英伟达扎紧生态藩篱 国内GPU厂商加速自主生态之路](https://www.3dmgame.com/news/202404/3892740.html)
+
++ [《潜行者2》目前是Steam愿望单第六大游戏](https://www.3dmgame.com/news/202404/3892739.html)
+
++ [监管机构：尚未收到特斯拉有关自动驾驶出租车许可申请](https://www.3dmgame.com/news/202404/3892738.html)
+
