@@ -115,3 +115,19 @@
 
 + [新《神鬼寓言》开发疑似接近尾声 多个高级开发者离开](https://www.3dmgame.com/news/202404/3892708.html)
 
++ [《星球大战：法外狂徒》高级版销售策略引玩家不满](https://www.3dmgame.com/news/202404/3892713.html)
+
++ [网红猫一杯全网被封 ！央视：无底线追求流量不可取](https://www.3dmgame.com/news/202404/3892714.html)
+
++ [詹姆斯·古恩已开始制作《和平使者》第二季](https://www.3dmgame.com/news/202404/3892715.html)
+
++ [3月PS商店游戏下载榜出炉 《绝地潜兵2》仍居榜首](https://www.3dmgame.com/news/202404/3892716.html)
+
++ [《POOLS》Steam试玩推出 后室恐怖UI音乐故事全无](https://www.3dmgame.com/news/202404/3892717.html)
+
++ [《博德之门3》大满贯 成为首个拿满五项年度大奖游戏](https://www.3dmgame.com/news/202404/3892718.html)
+
++ [《我们的冒险家公会》登陆Steam 冒险家工会经营战斗](https://www.3dmgame.com/news/202404/3892711.html)
+
++ [《盗贼之海》PS5封测太火爆 服务器几近被挤爆](https://www.3dmgame.com/news/202404/3892712.html)
+

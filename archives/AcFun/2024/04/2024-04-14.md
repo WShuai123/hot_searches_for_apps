@@ -71,3 +71,13 @@
 
 + [终于轮到我在海边跳了！dinosaur【竹熊】](http://www.acfun.cn/v/ac44316418)
 
++ [军粮试吃：俄罗斯伏特加军粮在男人节来一口！](http://www.acfun.cn/v/ac44319248)
+
++ [【三分钟特摄】沙福林大人的计划是佐菲定的](http://www.acfun.cn/v/ac44317386)
+
++ [秽土转生？飞机脸重现江湖！！——▎大师精选¹⁰⁶](http://www.acfun.cn/v/ac44316036)
+
++ [老版《三国》，不像演的！！！深扒《三国》诞生幕后，彻底服了。【中国文娱01】](http://www.acfun.cn/v/ac44318739)
+
++ [Mask](http://www.acfun.cn/v/ac44317562)
+
