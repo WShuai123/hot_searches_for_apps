@@ -69,3 +69,5 @@
 
 + [[胡评]辐射,瑕不掩瑜，特别好看7.8分](http://www.acfun.cn/v/ac44320059)
 
++ [终于轮到我在海边跳了！dinosaur【竹熊】](http://www.acfun.cn/v/ac44316418)
+

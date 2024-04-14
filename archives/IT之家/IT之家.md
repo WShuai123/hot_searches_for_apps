@@ -31,3 +31,5 @@
 
 + [小米汽车：SU7 中控屏下方 Type-C 接口将 OTA 提供 DP 拓展，可连接 Switch 等设备](https://m.ithome.com/html/761683.htm)
 
++ [Redmi K40 Pro/+ 手机现已推送基于安卓 14 的小米 HyperOS 系统](https://m.ithome.com/html/761682.htm)
+

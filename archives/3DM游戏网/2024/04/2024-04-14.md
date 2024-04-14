@@ -109,3 +109,9 @@
 
 + [《星际公民》PC系统配置更新 需要100G空间](https://www.3dmgame.com/news/202404/3892704.html)
 
++ [《龙之信条2》发售不到一个月 Steam玩家流失80%](https://www.3dmgame.com/news/202404/3892710.html)
+
++ [《黄昏酒馆》登陆Steam 美少女模拟经营](https://www.3dmgame.com/news/202404/3892709.html)
+
++ [新《神鬼寓言》开发疑似接近尾声 多个高级开发者离开](https://www.3dmgame.com/news/202404/3892708.html)
+

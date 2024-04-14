@@ -41,3 +41,7 @@
 
 + [Intrigue Core：一款功能强大的攻击面枚举引擎](https://www.freebuf.com/sectool/393154.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/397807.html)
+
++ [工控设备数据安全研究](https://www.freebuf.com/articles/paper/396959.html)
+
