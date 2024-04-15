@@ -37,3 +37,5 @@
 
 + [保时捷中国总裁首度提及小米 SU7 汽车：或许好的设计总是心有灵犀](https://m.ithome.com/html/761818.htm)
 
++ [华为 Pura 70 系列手机官宣，确认采用三角形相机岛设计](https://m.ithome.com/html/761841.htm)
+
