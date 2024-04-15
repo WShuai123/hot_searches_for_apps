@@ -121,3 +121,13 @@
 
 + [Stampede Social](https://www.producthunt.com/posts/stampede-social)
 
++ [20+ Free Tailwind CSS & React Blocks](https://www.producthunt.com/posts/20-free-tailwind-css-react-blocks)
+
++ [Packify.ai](https://www.producthunt.com/posts/packify-ai)
+
++ [IndieLogs](https://www.producthunt.com/posts/indielogs)
+
++ [Macula](https://www.producthunt.com/posts/macula)
+
++ [Collectif.ai](https://www.producthunt.com/posts/collectif-ai)
+

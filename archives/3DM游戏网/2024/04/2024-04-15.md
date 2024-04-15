@@ -177,3 +177,13 @@
 
 + [《宝可梦 Sleep》新活动“百花嘉年华” 即将在4月22日开启](https://www.3dmgame.com/news/202404/3892783.html)
 
++ [KK官方对战平台500%超值豪华战令奖励！KK战令S7逍遥游](https://www.3dmgame.com/news/202404/3892787.html)
+
++ [《绝地潜兵2》玩家发现隐藏更新 新兵绝对不知道的历史](https://www.3dmgame.com/news/202404/3892788.html)
+
++ [《幻兽帕鲁》v0.2.2.0版本更新发布 修复错误Bug](https://www.3dmgame.com/news/202404/3892789.html)
+
++ [据称Atlus新作《暗喻幻想》不会延期 会在年内发售](https://www.3dmgame.com/news/202404/3892785.html)
+
++ [《东京卍复仇者》作者新作《愿望的星辰》公布官方宣传PV](https://www.3dmgame.com/news/202404/3892786.html)
+

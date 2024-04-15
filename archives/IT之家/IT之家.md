@@ -41,3 +41,7 @@
 
 + [花旗：预估小米每卖一辆 SU7 亏 68000 元，今年至多交付 7 万台](https://m.ithome.com/html/761834.htm)
 
++ [消息称华为 Pura 70 系列手机测试 4 种型号，拥有“超大杯”Ultra 版](https://m.ithome.com/html/761828.htm)
+
++ [门店称华为 Pura 70 系列手机有望月底前到货，有可能为 4 月 18 日](https://m.ithome.com/html/761865.htm)
+

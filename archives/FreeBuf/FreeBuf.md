@@ -59,3 +59,5 @@
 
 + [ipv4Bypass：一款基于IPv6实现的IPv4安全绕过与渗透测试工具](https://www.freebuf.com/sectool/393196.html)
 
++ [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
+
