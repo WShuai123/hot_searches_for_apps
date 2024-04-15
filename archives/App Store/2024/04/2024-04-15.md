@@ -223,3 +223,7 @@
 
 + [唯品会](https://itunes.apple.com/cn/app/id417200582?mt=8)
 
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
+
