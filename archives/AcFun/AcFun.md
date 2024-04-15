@@ -61,3 +61,7 @@
 
 + [很标准，很正确，说说兴戈EA500LM](http://www.acfun.cn/v/ac44331187)
 
++ [“我在5:20睡觉，13:14喂僵尸”](http://www.acfun.cn/v/ac44331255)
+
++ [不严谨但是超好用，fosi audio SK02及N3](http://www.acfun.cn/v/ac44331703)
+

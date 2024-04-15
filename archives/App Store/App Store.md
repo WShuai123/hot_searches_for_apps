@@ -201,3 +201,9 @@
 
 + [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
 
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+

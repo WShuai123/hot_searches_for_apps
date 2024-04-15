@@ -101,3 +101,5 @@
 
 + [《居住在乐园的男人》PC免费发布 视觉恐怖探索](https://www.3dmgame.com/news/202404/3892757.html)
 
++ [《沙漠大冒险》“沙尘暴”预告 现已支持免费试玩](https://www.3dmgame.com/news/202404/3892808.html)
+
