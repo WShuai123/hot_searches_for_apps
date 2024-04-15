@@ -111,3 +111,13 @@
 
 + [粉丝自制虚幻5《上古卷轴5》佛克瑞斯城场景](https://www.3dmgame.com/news/202404/3892809.html)
 
++ [官方宝可梦卡牌会所即将营业 单间1小时387元](https://www.3dmgame.com/news/202404/3892817.html)
+
++ [虚幻5引擎再次惊艳还原《小丑》经典桥段](https://www.3dmgame.com/news/202404/3892816.html)
+
++ [《圣战士丹拜因》新作动画下月正式公布](https://www.3dmgame.com/news/202404/3892815.html)
+
++ [基努里维斯加盟电影《刺猬索尼克3》为反派配音](https://www.3dmgame.com/news/202404/3892814.html)
+
++ [《禁闭求生》完全版登陆任天堂Switch](https://www.3dmgame.com/news/202404/3892813.html)
+
