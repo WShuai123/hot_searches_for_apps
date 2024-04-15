@@ -101,3 +101,85 @@
 
 + [如何本地搭建开源导航页配置服务Dashy并发布到公网分享好友使用](https://blog.csdn.net/bushibrnxiaohaij/article/details/137645898)
 
++ [Elasticsearch中父子文档的关联：利用Join类型赋予文档的层级关系](https://blog.csdn.net/qq_26664043/article/details/137753146)
+
++ [机器学习在安全领域的应用：从大数据中识别潜在安全威胁](https://blog.csdn.net/g310773517/article/details/137754082)
+
++ [免费的 ChatGPT 网站(六个)](https://blog.csdn.net/hsjsiwkwm/article/details/137745636)
+
++ [jenkins+docker集成harbor实现可持续集成](https://blog.csdn.net/zhangcongyi420/article/details/137742483)
+
++ [Spark-机器学习（1）什么是机器学习与MLlib算法库的认识](https://blog.csdn.net/qq_49513817/article/details/137754753)
+
++ [SpringBoot基于RabbitMQ实现消息延迟队列方案](https://blog.csdn.net/w17870107034/article/details/137772708)
+
++ [CSS3 立体 3D 变换](https://blog.csdn.net/2201_75539691/article/details/137716872)
+
++ [探索设计模式的魅力：深度挖掘响应式模式的潜力，从而精准优化AI与机器学习项目的运行效能，引领技术革新潮流](https://blog.csdn.net/danci_/article/details/137747186)
+
++ [【Spring进阶系列丨第九篇】基于XML的面向切面编程(AOP)详解](https://blog.csdn.net/m0_63947499/article/details/137751919)
+
++ [Windows本地部署Ollama+qwen本地大语言模型Web交互界面并实现公网访问](https://blog.csdn.net/a1657054242/article/details/137780469)
+
++ [【Rust】——采用发布配置自定义构建](https://blog.csdn.net/shsjssnn/article/details/136820118)
+
++ [第⑭讲：Ceph集群管理：守护进程管理、日志管理和端口号配置](https://blog.csdn.net/weixin_44953658/article/details/137767755)
+
++ [Docker容器中的OpenCV：轻松构建可移植的计算机视觉环境](https://blog.csdn.net/m0_68662723/article/details/137786425)
+
++ [时空图神经网络ST-GNN的概念以及Pytorch实现](https://blog.csdn.net/m0_46510245/article/details/137769276)
+
++ [C# 关于进程回收管理的一款工具设计与分享](https://blog.csdn.net/michaelline/article/details/137771169)
+
++ [Linux系统搭建FastDFS文件服务结合内网穿透实现公网访问本地文件](https://blog.csdn.net/qyj19920704/article/details/137779929)
+
++ [【优质书籍推荐】RTC程序设计：实时音视频权威指南](https://blog.csdn.net/weixin_43178406/article/details/137758242)
+
++ [html--自动烟花](https://blog.csdn.net/stqer/article/details/137685226)
+
++ [【Spring Boot】深入解密Spring Boot日志：最佳实践与策略解析](https://blog.csdn.net/smile_sundays/article/details/137738847)
+
++ [华为ensp中nat地址转换(静态nat 动态nat NAPT 和Easy IP)配置命令](https://blog.csdn.net/jxjdhdnd/article/details/137772025)
+
++ [第十五篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python 自动化处理图像在各行各业的应用场景](https://blog.csdn.net/jackchuanqi/article/details/137654205)
+
++ [腾讯EdgeOne产品测评体验——多重攻击实战验证安全壁垒：DDoS攻击|CC压测|Web漏洞扫描|SQL注入](https://blog.csdn.net/wtyuong/article/details/137783869)
+
++ [（二十八）Flask之wtforms库【上手使用篇】](https://blog.csdn.net/qq_44907926/article/details/137773944)
+
++ [ChatGPT 和 Elasticsearch：使用 Elastic 数据创建自定义 GPT](https://blog.csdn.net/UbuntuTouch/article/details/137752858)
+
++ [解读《算者生存：商业分析的方法与实践》：构建企业经营分析框架的必备指南](https://blog.csdn.net/qq_44273429/article/details/137777815)
+
++ [Docker之自定义镜像上传至阿里云](https://blog.csdn.net/weixin_74457789/article/details/137728207)
+
++ [每帧纵享丝滑——ToDesk云电脑、网易云游戏、无影云评测分析及ComfyUI部署](https://blog.csdn.net/air__Heaven/article/details/137777123)
+
++ [Kafka消费者](https://blog.csdn.net/weixin_46628668/article/details/137741520)
+
++ [解放双手，批量绕过403](https://blog.csdn.net/weixin_46239998/article/details/137756169)
+
++ [家居网购项目（购物车功能）](https://blog.csdn.net/m0_64637029/article/details/137757735)
+
++ [Linux网络配置和操作命令](https://blog.csdn.net/boysoft2002/article/details/137755620)
+
++ [《经典论文阅读1》YouTubeDNN—基于深度学习的搜推系统开山之作](https://blog.csdn.net/liu16659/article/details/137738460)
+
++ [【网络编程】高性能并发服务器源码剖析](https://blog.csdn.net/weixin_73951752/article/details/137745899)
+
++ [【C++软件调试技术】C++软件开发维护过程中典型调试问题的解答与总结](https://blog.csdn.net/chenlycly/article/details/137780587)
+
++ [发布 Chrome/Edge浏览器extension扩展到应用商店](https://blog.csdn.net/weixin_44786530/article/details/137751914)
+
++ [计算机领域职业简介](https://blog.csdn.net/2401_84304834/article/details/137747433)
+
++ [微信小程序实现预约生成二维码](https://blog.csdn.net/jsl123x/article/details/137757443)
+
++ [不再写满屏import导入](https://blog.csdn.net/why_1639946449/article/details/137757513)
+
++ [CentOS7使用Docker搭建Joplin Server并实现多端同步与公网使用本地笔记](https://blog.csdn.net/qiuqiushuibx/article/details/137781965)
+
++ [【计算机网络】（一）计算机网络概述](https://blog.csdn.net/qq_62094479/article/details/137747779)
+
++ [计算机网络——ARP协议](https://blog.csdn.net/m0_60631836/article/details/137743943)
+
