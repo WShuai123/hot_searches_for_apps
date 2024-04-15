@@ -207,3 +207,5 @@
 
 + [雷军盛赞小米SU7贴心功能：再不怕遗忘手机！](https://www.3dmgame.com/news/202404/3892798.html)
 
++ [华硕ROG冰刃X 2024升级配置 10L主机14999元起](https://www.3dmgame.com/news/202404/3892800.html)
+

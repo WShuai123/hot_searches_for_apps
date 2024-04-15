@@ -49,3 +49,9 @@
 
 + [Redmi Turbo 3 手机首销目标达成，王腾抽送小米 SU7 一年使用权](https://m.ithome.com/html/761858.htm)
 
++ [理想汽车回应网传车内摄像头拍摄色情图片：不法分子移花接木造谣抹黑，已报案](https://m.ithome.com/html/761849.htm)
+
++ [韩国“人造太阳”打破纪录：1 亿摄氏度下持续运行 48 秒](https://m.ithome.com/html/761797.htm)
+
++ [小米高管回应花旗关于 SU7 汽车的相关预测：信息偏差较大](https://m.ithome.com/html/761861.htm)
+
