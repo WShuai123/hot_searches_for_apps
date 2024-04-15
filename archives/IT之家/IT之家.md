@@ -35,3 +35,5 @@
 
 + [情况有变？黑鲨删除“魔戒”智能指环明日上市消息](https://m.ithome.com/html/761789.htm)
 
++ [保时捷中国总裁首度提及小米 SU7 汽车：或许好的设计总是心有灵犀](https://m.ithome.com/html/761818.htm)
+

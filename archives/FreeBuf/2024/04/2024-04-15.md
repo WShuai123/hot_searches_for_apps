@@ -49,3 +49,5 @@
 
 + [FreeBuf 周报 | “暗网版微信”准备上市；D-Link NAS设备存严重RCE漏洞](https://www.freebuf.com/news/397781.html)
 
++ [CISA 就 Sisense 数据泄露事件发出警告](https://www.freebuf.com/news/397912.html)
+

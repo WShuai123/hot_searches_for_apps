@@ -155,3 +155,15 @@
 
 + [《星球大战：法外狂徒》声誉系统将影响开放世界动态事件](https://www.3dmgame.com/news/202404/3892752.html)
 
++ [海信联动《黑神话：悟空》预告 重走西游俺老孙来也](https://www.3dmgame.com/news/202404/3892776.html)
+
++ [雷军没说谎 小米SU7全年交付最高7万辆：卖一辆亏6800元](https://www.3dmgame.com/news/202404/3892777.html)
+
++ [《绝地潜兵2》开发者考虑过地下场景的地图 但制作难度过大](https://www.3dmgame.com/news/202404/3892779.html)
+
++ [《Airsoft Online》Steam页面上线 空气枪生存射击新游](https://www.3dmgame.com/news/202404/3892778.html)
+
++ [我国自研世界最快高铁年内下线 时速可达400公里](https://www.3dmgame.com/news/202404/3892774.html)
+
++ [《绝地潜兵2》开发商CEO：游戏不会有装备幻化功能](https://www.3dmgame.com/news/202404/3892775.html)
+
