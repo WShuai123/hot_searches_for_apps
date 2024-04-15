@@ -209,3 +209,7 @@
 
 + [华硕ROG冰刃X 2024升级配置 10L主机14999元起](https://www.3dmgame.com/news/202404/3892800.html)
 
++ [马斯克发全员信：特斯拉将裁员10% 波及逾14000人](https://www.3dmgame.com/news/202404/3892802.html)
+
++ [传闻：《命运3》不是2代DLC，也不是2代的改版](https://www.3dmgame.com/news/202404/3892801.html)
+
