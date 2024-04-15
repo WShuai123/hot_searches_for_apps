@@ -101,3 +101,13 @@
 
 + [角色扮演动作游戏《银色盾牌》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3892697.html)
 
++ [暴雪前总裁希望70美元游戏有打赏功能：玩家给小费支持](https://www.3dmgame.com/news/202404/3892751.html)
+
++ [Steam即将开启FPS游戏节促销活动](https://www.3dmgame.com/news/202404/3892750.html)
+
++ [双人合作射击《僵尸小镇：生存危机》强化登陆Switch](https://www.3dmgame.com/news/202404/3892749.html)
+
++ [任天堂再次免费提供Switch网络会员7日体验券](https://www.3dmgame.com/news/202404/3892748.html)
+
++ [初代《光环》创造者似乎将回归系列开发团队](https://www.3dmgame.com/news/202404/3892747.html)
+

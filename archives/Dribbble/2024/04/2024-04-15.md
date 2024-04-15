@@ -49,3 +49,19 @@
 
 + [H.U.M.A.N](https://dribbble.com/shots/)
 
++ [THE WAR](https://dribbble.com/shots/)
+
++ [Agumbe bus ride](https://dribbble.com/shots/)
+
++ [Rebels & Renegades Merch Design](https://dribbble.com/shots/)
+
++ [Work for a new real estate development in Melbourne ????](https://dribbble.com/shots/)
+
++ [Blacksmith House](https://dribbble.com/shots/)
+
++ [Rebel Sound ????⚡](https://dribbble.com/shots/)
+
++ [SAG Awards](https://dribbble.com/shots/)
+
++ [NIGHTLIFE BREWING CO](https://dribbble.com/shots/)
+

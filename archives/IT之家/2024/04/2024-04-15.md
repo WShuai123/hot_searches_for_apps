@@ -25,3 +25,7 @@
 
 + [东风猛士 917 在瑞士上市，约合人民币 118 万元](https://m.ithome.com/html/761732.htm)
 
++ [运营时速提升至 400 公里，世界最快高铁动车组 CR450 年内下线](https://m.ithome.com/html/761741.htm)
+
++ [“磁盘粉碎者”可在 90 秒内让机械硬盘寿终正寝，并实现环保回收](https://m.ithome.com/html/761698.htm)
+
