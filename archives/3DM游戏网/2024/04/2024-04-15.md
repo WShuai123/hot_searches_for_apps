@@ -111,3 +111,47 @@
 
 + [初代《光环》创造者似乎将回归系列开发团队](https://www.3dmgame.com/news/202404/3892747.html)
 
++ [《MechNest》登陆Steam 3D机甲战斗射击](https://www.3dmgame.com/news/202404/3892771.html)
+
++ [《浪人崛起》总监承认团队“过于痴迷”对猫咪的动画制作](https://www.3dmgame.com/news/202404/3892770.html)
+
++ [恐怖冒险ADV《妄想凶疗院》新预告 4月26日发售](https://www.3dmgame.com/news/202404/3892773.html)
+
++ [仿复古动作射击游戏《幻影狂怒》发布游戏玩法展示视频](https://www.3dmgame.com/news/202404/3892772.html)
+
++ [首部电影《沙丘》内地再次重映 4月19日重返大银幕](https://www.3dmgame.com/news/202404/3892769.html)
+
++ [《April 24th》PC试玩发布 第一人称恐怖探索新游](https://www.3dmgame.com/news/202404/3892768.html)
+
++ [《电锯糖心：重制版》战斗体验提升 允许自动射击](https://www.3dmgame.com/news/202404/3892767.html)
+
++ [《最终幻想14》官方推出资料片“黄金的遗产”基准测试工具](https://www.3dmgame.com/news/202404/3892765.html)
+
++ [《Fate/Samurai Remnant》第二弹DLC公布新截图和剧情简介 4月18日上线](https://www.3dmgame.com/news/202404/3892764.html)
+
++ [B社设计师曝光《辐射4》隐秘设定 男主内特曾在一代当过刽子手](https://www.3dmgame.com/news/202404/3892763.html)
+
++ [《星刃》金亨泰夫妇与吉田修平合影 公司女员工多](https://www.3dmgame.com/news/202404/3892762.html)
+
++ [真人剧大火 《辐射76》Steam同时在线玩家人数创新纪录](https://www.3dmgame.com/news/202404/3892761.html)
+
++ [《星球大战：法外狂徒》声望太低就会被追杀](https://www.3dmgame.com/news/202404/3892760.html)
+
++ [《星球大战：法外狂徒》四大派系介绍 新截图](https://www.3dmgame.com/news/202404/3892766.html)
+
++ [《居住在乐园的男人》PC免费发布 视觉恐怖探索](https://www.3dmgame.com/news/202404/3892757.html)
+
++ [育碧关闭《飙酷车神》服务器后还将游戏从库中移除 并禁止玩家访问](https://www.3dmgame.com/news/202404/3892759.html)
+
++ [《传送门》RTX版DLSS 3.5截图 光照效果更逼真](https://www.3dmgame.com/news/202404/3892758.html)
+
++ [《绝地潜兵2》同时登顶PS商城北美和欧洲3月下载榜](https://www.3dmgame.com/news/202404/3892756.html)
+
++ [《GTA6》的期待值很高 但其不能满足所有玩家的需求](https://www.3dmgame.com/news/202404/3892755.html)
+
++ [《铁拳8》小更新16日上线 带来微调和新皮肤](https://www.3dmgame.com/news/202404/3892754.html)
+
++ [《DOTA2》精英联赛 中国战队XG让一追三夺冠](https://www.3dmgame.com/news/202404/3892753.html)
+
++ [《星球大战：法外狂徒》声誉系统将影响开放世界动态事件](https://www.3dmgame.com/news/202404/3892752.html)
+

@@ -41,3 +41,11 @@
 
 + [FreeBuf早报 | 谷歌云联合GenAI创建网络安全强国；消费电子制造商 boAt 遭攻击](https://www.freebuf.com/news/397631.html)
 
++ [ISO27001安全管理体系内审、外审、拿证](https://www.freebuf.com/articles/security-management/397617.html)
+
++ [FreeBuf早报 | 菲律宾科技部服务器遭黑客入侵；光学巨头 Hoya 遭勒索 1000 万美元](https://www.freebuf.com/news/397717.html)
+
++ [Fake-SMS恶意软件混淆分析——低代码的时代来了](https://www.freebuf.com/articles/network/396343.html)
+
++ [FreeBuf 周报 | “暗网版微信”准备上市；D-Link NAS设备存严重RCE漏洞](https://www.freebuf.com/news/397781.html)
+

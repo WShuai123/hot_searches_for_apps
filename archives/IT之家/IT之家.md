@@ -29,3 +29,9 @@
 
 + [“磁盘粉碎者”可在 90 秒内让机械硬盘寿终正寝，并实现环保回收](https://m.ithome.com/html/761698.htm)
 
++ [华为 P 系列手机官宣升级为 Pura 系列](https://m.ithome.com/html/761806.htm)
+
++ [smart 精灵#1 / 精灵#3 新车型上市，售价 15.49 万元起](https://m.ithome.com/html/761783.htm)
+
++ [情况有变？黑鲨删除“魔戒”智能指环明日上市消息](https://m.ithome.com/html/761789.htm)
+
