@@ -39,3 +39,5 @@
 
 + [华为 Pura 70 系列手机官宣，确认采用三角形相机岛设计](https://m.ithome.com/html/761841.htm)
 
++ [花旗：预估小米每卖一辆 SU7 亏 68000 元，今年至多交付 7 万台](https://m.ithome.com/html/761834.htm)
+

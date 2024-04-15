@@ -167,3 +167,9 @@
 
 + [《绝地潜兵2》开发商CEO：游戏不会有装备幻化功能](https://www.3dmgame.com/news/202404/3892775.html)
 
++ [角色扮演Rougelite游戏《百剑讨妖传绮谭》发布新预告 年内发售](https://www.3dmgame.com/news/202404/3892782.html)
+
++ [集英社与Netflix合作举办动漫创作大赛 优胜者已出炉 将被改编成动漫剧集](https://www.3dmgame.com/news/202404/3892781.html)
+
++ [《食魂徒 ～百花妖乱～》确定登陆Switch 弹幕射击名作](https://www.3dmgame.com/news/202404/3892780.html)
+
