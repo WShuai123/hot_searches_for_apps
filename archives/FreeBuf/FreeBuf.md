@@ -61,3 +61,5 @@
 
 + [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
 
++ [受国家支持的黑客正积极利用Palo Alto Networks 防火墙零日漏洞](https://www.freebuf.com/news/397973.html)
+

@@ -45,3 +45,5 @@
 
 + [门店称华为 Pura 70 系列手机有望月底前到货，有可能为 4 月 18 日](https://m.ithome.com/html/761865.htm)
 
++ [比亚迪新车秦 L 即将亮相，号称“引领中级轿车新趋势”](https://m.ithome.com/html/761816.htm)
+

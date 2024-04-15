@@ -187,3 +187,13 @@
 
 + [《东京卍复仇者》作者新作《愿望的星辰》公布官方宣传PV](https://www.3dmgame.com/news/202404/3892786.html)
 
++ [JK罗琳：不会原谅艾玛沃特森和丹尼尔支持跨性别者](https://www.3dmgame.com/news/202404/3892793.html)
+
++ [科技公司推真正硬盘终结者 8秒钟让它粉身碎骨](https://www.3dmgame.com/news/202404/3892794.html)
+
++ [山东一大学课堂禁止使用电子产品 包括电脑引热议](https://www.3dmgame.com/news/202404/3892792.html)
+
++ [华为Pura 70系列正式官宣：确认三角形镜头 辨识度拉满](https://www.3dmgame.com/news/202404/3892791.html)
+
++ [《PERISH》主机版发售 古神话背景肉鸽战斗射击](https://www.3dmgame.com/news/202404/3892790.html)
+
