@@ -219,3 +219,7 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [唯品会](https://itunes.apple.com/cn/app/id417200582?mt=8)
+

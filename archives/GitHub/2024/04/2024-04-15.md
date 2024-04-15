@@ -51,3 +51,37 @@
 
 + [zrax / pycdc](https://github.com/zrax/pycdc)
 
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+
++ [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+
++ [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
+
++ [tonyke-bot / ore-miner](https://github.com/tonyke-bot/ore-miner)
+
++ [jina-ai / reader](https://github.com/jina-ai/reader)
+
++ [atherosai / ui](https://github.com/atherosai/ui)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+
++ [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
++ [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [RPCS3 / rpcs3](https://github.com/RPCS3/rpcs3)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [hydralauncher / hydra](https://github.com/hydralauncher/hydra)
+
++ [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+

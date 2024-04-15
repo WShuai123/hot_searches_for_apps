@@ -47,3 +47,5 @@
 
 + [比亚迪新车秦 L 即将亮相，号称“引领中级轿车新趋势”](https://m.ithome.com/html/761816.htm)
 
++ [Redmi Turbo 3 手机首销目标达成，王腾抽送小米 SU7 一年使用权](https://m.ithome.com/html/761858.htm)
+

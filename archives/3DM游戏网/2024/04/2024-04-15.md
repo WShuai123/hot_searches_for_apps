@@ -203,3 +203,7 @@
 
 + [天玑之王预定！Redmi K70至尊版回归天玑平台：天玑9300+加持](https://www.3dmgame.com/news/202404/3892795.html)
 
++ [李彦宏称大模型开源意义不大 周鸿祎：别被忽悠了](https://www.3dmgame.com/news/202404/3892799.html)
+
++ [雷军盛赞小米SU7贴心功能：再不怕遗忘手机！](https://www.3dmgame.com/news/202404/3892798.html)
+

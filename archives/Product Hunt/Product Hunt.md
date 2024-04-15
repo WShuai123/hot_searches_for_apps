@@ -131,3 +131,5 @@
 
 + [Collectif.ai](https://www.producthunt.com/posts/collectif-ai)
 
++ [FastBots](https://www.producthunt.com/posts/fastbots)
+
