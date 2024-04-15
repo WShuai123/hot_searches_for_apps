@@ -173,3 +173,7 @@
 
 + [《食魂徒 ～百花妖乱～》确定登陆Switch 弹幕射击名作](https://www.3dmgame.com/news/202404/3892780.html)
 
++ [《房车露营模拟器》Steam页面上线 野外生存冒险](https://www.3dmgame.com/news/202404/3892784.html)
+
++ [《宝可梦 Sleep》新活动“百花嘉年华” 即将在4月22日开启](https://www.3dmgame.com/news/202404/3892783.html)
+

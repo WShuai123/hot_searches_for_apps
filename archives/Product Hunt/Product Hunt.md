@@ -103,3 +103,21 @@
 
 + [API Patrol](https://www.producthunt.com/posts/api-patrol)
 
++ [Breezemail](https://www.producthunt.com/posts/breezemail)
+
++ [Cal.com Platform](https://www.producthunt.com/posts/cal-com-platform)
+
++ [Clickly](https://www.producthunt.com/posts/clickly-2)
+
++ [Supabase](https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2)
+
++ [Airchat](https://www.producthunt.com/posts/airchat-6)
+
++ [Unlogged](https://www.producthunt.com/posts/unlogged)
+
++ [BrandBay](https://www.producthunt.com/posts/brandbay)
+
++ [IXORD AI: Document Mastery&Multitasking](https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking)
+
++ [Stampede Social](https://www.producthunt.com/posts/stampede-social)
+
