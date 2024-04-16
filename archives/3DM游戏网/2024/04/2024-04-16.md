@@ -217,3 +217,19 @@
 
 + [《私人订制：我的专属韩国女团》发售日预告 4月17日发售](https://www.3dmgame.com/news/202404/3892861.html)
 
++ [《数码宝贝02最初的召唤》发布终极预告 4月20日上映](https://www.3dmgame.com/news/202404/3892873.html)
+
++ [科幻美剧《羊毛战记》女主分享新消息：两季连拍](https://www.3dmgame.com/news/202404/3892872.html)
+
++ [克苏鲁式俯视角动作冒险游戏《死寂之旅》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892871.html)
+
++ [蜗牛游戏公布游戏 《颂钟长鸣》抢先体验版本发布日期](https://www.3dmgame.com/news/202404/3892870.html)
+
++ [休闲独立游戏《大家一起观颜察色。》系列销量突破100万](https://www.3dmgame.com/news/202404/3892867.html)
+
++ [复古RPG《Dream Tactics》登陆Steam 稍后登陆Switch](https://www.3dmgame.com/news/202404/3892869.html)
+
++ [百度发布新一代智能计算操作系统 定名万源](https://www.3dmgame.com/news/202404/3892868.html)
+
++ [尼古拉斯·凯奇主演的恐怖片《世外桃源》 其怪物形象源自迪士尼经典角色](https://www.3dmgame.com/news/202404/3892866.html)
+

@@ -103,3 +103,21 @@
 
 + [Neon](https://www.producthunt.com/posts/neon-8)
 
++ [Poe 3.0](https://www.producthunt.com/posts/poe-3-0)
+
++ [YourGPT](https://www.producthunt.com/posts/yourgpt-2)
+
++ [Goptimise Beta](https://www.producthunt.com/posts/goptimise-beta)
+
++ [AltTunes](https://www.producthunt.com/posts/alttunes)
+
++ [Draftboard](https://www.producthunt.com/posts/draftboard)
+
++ [Muzaic API](https://www.producthunt.com/posts/muzaic-api)
+
++ [Ramen.Tools](https://www.producthunt.com/posts/ramen-tools)
+
++ [Vidyard AI Avatars](https://www.producthunt.com/posts/vidyard-ai-avatars)
+
++ [Soju](https://www.producthunt.com/posts/soju)
+

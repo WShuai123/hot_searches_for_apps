@@ -57,3 +57,7 @@
 
 + [荷兰芯片制造商 Nexperia 遭受勒索软件攻击](https://www.freebuf.com/news/398080.html)
 
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
++ [如何使用Git-Secrets防止将敏感信息意外上传至Git库](https://www.freebuf.com/sectool/393277.html)
+
