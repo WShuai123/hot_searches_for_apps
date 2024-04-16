@@ -41,3 +41,9 @@
 
 + [华为 × 奇瑞，鸿蒙智行轿车智界 S7 上周末两天大定超 2000 台](https://m.ithome.com/html/761896.htm)
 
++ [安卓 15 原生卫星通信 UI 曝光，需将手机指向具体信号方向](https://m.ithome.com/html/762022.htm)
+
++ [Bose 睡眠产品悄然退出大陆：高价耳机一夜间变电子垃圾？](https://m.ithome.com/html/762044.htm)
+
++ [值得升级吗？苹果 iPhone 16 Pro / Max 前瞻，比前代有 30 项改进 / 优化](https://m.ithome.com/html/762026.htm)
+
