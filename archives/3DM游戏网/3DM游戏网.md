@@ -247,3 +247,17 @@
 
 + [《掼个蛋蛋》Steam页面上线 4月月内正式发售](https://www.3dmgame.com/news/202404/3892874.html)
 
++ [《侠探杰克》主演：感觉像“美版007” 角色有些过时](https://www.3dmgame.com/news/202404/3892887.html)
+
++ [消息称奔驰停止增程式电动汽车试验 专注纯电路线](https://www.3dmgame.com/news/202404/3892881.html)
+
++ [暴雪国服已确定回归 网易开启大规模招兵买马](https://www.3dmgame.com/news/202404/3892886.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》三连冠](https://www.3dmgame.com/news/202404/3892885.html)
+
++ [限时周促来袭！ 《底特律》等多款游戏史低特惠](https://www.3dmgame.com/news/202404/3892884.html)
+
++ [KK官方对战平台新图推荐 爆战西游再历八十一难，一夫当关成一方霸主！](https://www.3dmgame.com/news/202404/3892883.html)
+
++ [《星刃》公开日语版特别预告 4月26日发售](https://www.3dmgame.com/news/202404/3892882.html)
+

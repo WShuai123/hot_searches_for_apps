@@ -53,3 +53,7 @@
 
 + [太空垃圾砸中佛罗里达州民宅，NASA 确认其来自国际空间站](https://m.ithome.com/html/762030.htm)
 
++ [华为 Pura 70 系列手机首销版本曝光，Pro 机型乐臻版缺席](https://m.ithome.com/html/762129.htm)
+
++ [消息称苹果 iPhone 16 Pro 机型起步存储升至 256GB](https://m.ithome.com/html/762083.htm)
+
