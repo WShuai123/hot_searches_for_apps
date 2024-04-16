@@ -109,3 +109,21 @@
 
 + [被禁售的NVIDIA GPU卡惊现中国！从未见过的96GB内存](https://www.3dmgame.com/news/202404/3892903.html)
 
++ [PC Gamer宣布PC游戏展将于6/9举行](https://www.3dmgame.com/news/202404/3892915.html)
+
++ [总监确认《TopSpin 2K25》发售时不支持在线双打](https://www.3dmgame.com/news/202404/3892914.html)
+
++ [Atlus新作《暗喻幻想》展示会时长约30分钟](https://www.3dmgame.com/news/202404/3892913.html)
+
++ [《黑帝斯2》技术测试注册现已开放](https://www.3dmgame.com/news/202404/3892912.html)
+
++ [藤子F不二雄作品《时光特警》发布第一季预告](https://www.3dmgame.com/news/202404/3892911.html)
+
++ [任天堂发布魔性游戏音效歌曲宣传Switch畅销游戏](https://www.3dmgame.com/news/202404/3892910.html)
+
++ [叙事游戏《千年抵抗》5月9日登陆PC和Switch](https://www.3dmgame.com/news/202404/3892909.html)
+
++ [Switch《长号冠军》更新追加两首新歌及直播模式](https://www.3dmgame.com/news/202404/3892908.html)
+
++ [《我的世界》与《功夫熊猫》联动DLC震撼登场](https://www.3dmgame.com/news/202404/3892907.html)
+
