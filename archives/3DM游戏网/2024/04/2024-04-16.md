@@ -131,3 +131,19 @@
 
 + [《冰汽时代2》测试已开启 新视频探讨玩家面临的挑战](https://www.3dmgame.com/news/202404/3892818.html)
 
++ [《GTA6》开发进入最后阶段 R星所有员工返回办公室上班](https://www.3dmgame.com/news/202404/3892831.html)
+
++ [Fami通日本3月榜：《最终幻想7：重生》登顶](https://www.3dmgame.com/news/202404/3892829.html)
+
++ [横尾太郎：《星刃》比《尼尔：机械纪元》好多了](https://www.3dmgame.com/news/202404/3892828.html)
+
++ [多人合作的实体猎杀游戏《Exorkízein》steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892827.html)
+
++ [《Home Renovator》Steam页面上线 房间装修模拟器](https://www.3dmgame.com/news/202404/3892826.html)
+
++ [Atlus宣布《暗喻幻想》特别节目 4月23日播出](https://www.3dmgame.com/news/202404/3892825.html)
+
++ [The Verge：PS5 Pro是真的 开发商正为其做好准备](https://www.3dmgame.com/news/202404/3892824.html)
+
++ [前《暗黑3》开发者后悔反对更复杂技能系统：或能更好](https://www.3dmgame.com/news/202404/3892823.html)
+
