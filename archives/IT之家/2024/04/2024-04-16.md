@@ -47,3 +47,5 @@
 
 + [值得升级吗？苹果 iPhone 16 Pro / Max 前瞻，比前代有 30 项改进 / 优化](https://m.ithome.com/html/762026.htm)
 
++ [特斯拉大裁员：部分员工抵达工厂才发现自己被解雇](https://m.ithome.com/html/762092.htm)
+

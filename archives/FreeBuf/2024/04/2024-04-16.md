@@ -55,3 +55,5 @@
 
 + [一个人的信息安全部（3）——数据防泄露【附有DLP选型对比表】](https://www.freebuf.com/articles/security-management/397806.html)
 
++ [荷兰芯片制造商 Nexperia 遭受勒索软件攻击](https://www.freebuf.com/news/398080.html)
+

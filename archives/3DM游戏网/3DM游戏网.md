@@ -207,3 +207,13 @@
 
 + [罚款翻了超3倍！日本将出台新规严管苹果谷歌等巨头](https://www.3dmgame.com/news/202404/3892860.html)
 
++ [《绝地潜兵2》开发者承诺将修改火焰伤害：现在太离谱](https://www.3dmgame.com/news/202404/3892865.html)
+
++ [《崩坏：星穹铁道》砂金角色PV——「金手指」](https://www.3dmgame.com/news/202404/3892864.html)
+
++ [《星刃》玩家试玩版游戏时长达114小时 让官方震惊](https://www.3dmgame.com/news/202404/3892863.html)
+
++ [时隔25年高玩发现N64版《恶魔城》秘技 开局即可解锁全角色](https://www.3dmgame.com/news/202404/3892862.html)
+
++ [《私人订制：我的专属韩国女团》发售日预告 4月17日发售](https://www.3dmgame.com/news/202404/3892861.html)
+
