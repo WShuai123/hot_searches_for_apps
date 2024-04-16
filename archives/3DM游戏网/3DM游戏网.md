@@ -121,3 +121,13 @@
 
 + [《禁闭求生》完全版登陆任天堂Switch](https://www.3dmgame.com/news/202404/3892813.html)
 
++ [《星球大战：法外狂徒》有独家任务 为高级版独占](https://www.3dmgame.com/news/202404/3892822.html)
+
++ [《原神》4.6版介绍 阿蕾奇诺和深海的失落王国](https://www.3dmgame.com/news/202404/3892821.html)
+
++ [《星球大战：法外狂徒》太空区域有丰富内容 充满了乐趣](https://www.3dmgame.com/news/202404/3892820.html)
+
++ [SE称《最终幻想16》成功吸引年轻玩家 实现最初目标之一](https://www.3dmgame.com/news/202404/3892819.html)
+
++ [《冰汽时代2》测试已开启 新视频探讨玩家面临的挑战](https://www.3dmgame.com/news/202404/3892818.html)
+
