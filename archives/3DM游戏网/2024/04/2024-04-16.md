@@ -279,3 +279,11 @@
 
 + [《冰汽时代2》PC配置公开 推荐2060 Super](https://www.3dmgame.com/news/202404/3892895.html)
 
++ [《巫师3》官方MOD编辑器REDkit现已开放抢先体验](https://www.3dmgame.com/news/202404/3892900.html)
+
++ [DeepMind CEO：谷歌将在AI上投入超过1000亿美元](https://www.3dmgame.com/news/202404/3892898.html)
+
++ [任天堂将于4月17日晚10点举行独立游戏发布会](https://www.3dmgame.com/news/202404/3892899.html)
+
++ [消息称部分特斯拉员工到达工厂才知道自己被解雇](https://www.3dmgame.com/news/202404/3892897.html)
+
