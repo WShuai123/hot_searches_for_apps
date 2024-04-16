@@ -49,3 +49,7 @@
 
 + [特斯拉大裁员：部分员工抵达工厂才发现自己被解雇](https://m.ithome.com/html/762092.htm)
 
++ [比亚迪元 UP 集体交车，王传福亲自为车主交付钥匙、送上鲜花](https://m.ithome.com/html/762084.htm)
+
++ [太空垃圾砸中佛罗里达州民宅，NASA 确认其来自国际空间站](https://m.ithome.com/html/762030.htm)
+
