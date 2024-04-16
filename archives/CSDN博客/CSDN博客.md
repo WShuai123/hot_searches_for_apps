@@ -207,3 +207,33 @@
 
 + [如何在Linux系统部署Joplin笔记并结合内网穿透实现无公网IP远程访问](https://blog.csdn.net/asdssadddd/article/details/137781953)
 
++ [【热门话题】PyTorch：深度学习领域的强大工具](https://blog.csdn.net/qq_44214428/article/details/137796852)
+
++ [NLP vs. LLMs: 理解它们之间的区别](https://blog.csdn.net/UbuntuTouch/article/details/137797791)
+
++ [【项目实战】记录一次PG数据库迁移至GaussDB测试（下）](https://blog.csdn.net/GaussDB/article/details/137809475)
+
++ [“智能医疗新纪元：机器学习在医疗健康领域的创新应用“](https://blog.csdn.net/m0_68089732/article/details/137795774)
+
++ [【Unity 实用工具篇】 | UIEffect 实现一系列UGUI特效，灰度、负片、像素化特效](https://blog.csdn.net/zhangay1998/article/details/137808998)
+
++ [AIGC重塑金融：AI大模型驱动的金融变革与实践](https://blog.csdn.net/2202_75623950/article/details/137808628)
+
++ [React-生命周期](https://blog.csdn.net/2302_76329106/article/details/137715238)
+
++ [# RAG | Langchain # Langchain RAG：打造Markdown文件的结构化分割解决方案](https://blog.csdn.net/weixin_45312236/article/details/137788957)
+
++ [【自媒体创作利器】AI白日梦+ChatGPT 三分钟生成爆款短视频](https://blog.csdn.net/m0_73367097/article/details/137741147)
+
++ [网络协议安全：SSL/TLS协议详解，SSL协议执行原理、报文格式解析，Wireshark抓包分析SSL协议](https://blog.csdn.net/wangyuxiang946/article/details/137369297)
+
++ [图灵奖2023：Avi Wigderson的开创性贡献揭示计算中的随机性和伪随机性](https://blog.csdn.net/u014727709/article/details/137806629)
+
++ [如何在CentOS本地部署FastDFS文件系统并实现无公网IP远程上传下载内网文件](https://blog.csdn.net/m0_70980326/article/details/137783456)
+
++ [代码学习第43天---动态规划](https://blog.csdn.net/qq_45296815/article/details/137788424)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/Dasdwer/article/details/137779559)
+
++ [《经典论文阅读2》基于随机游走的节点表示学习—Deepwalk算法](https://blog.csdn.net/liu16659/article/details/137751541)
+

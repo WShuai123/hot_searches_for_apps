@@ -61,3 +61,5 @@
 
 + [如何使用Git-Secrets防止将敏感信息意外上传至Git库](https://www.freebuf.com/sectool/393277.html)
 
++ [企业安全 | 浅谈数据安全治理主要过程](https://www.freebuf.com/articles/es/397153.html)
+

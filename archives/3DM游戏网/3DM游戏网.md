@@ -261,3 +261,17 @@
 
 + [《星刃》公开日语版特别预告 4月26日发售](https://www.3dmgame.com/news/202404/3892882.html)
 
++ [“ATLUS Exclusive《暗喻幻想：ReFantazio》”特别节目4月23日直播！](https://www.3dmgame.com/news/202404/3892892.html)
+
++ [百度三大AI开发神器亮相 李彦宏：会说话就能成开发者](https://www.3dmgame.com/news/202404/3892893.html)
+
++ [《真·女神转生Ⅴ Vengeance》 介绍新舞台“达识：新宿区”](https://www.3dmgame.com/news/202404/3892894.html)
+
++ [小米把100英寸电视杀到8999元！98英寸都不香了](https://www.3dmgame.com/news/202404/3892891.html)
+
++ [《世界海龟》登陆Steam 巨大龟背建设经营](https://www.3dmgame.com/news/202404/3892890.html)
+
++ [金山WPS被曝无限套娃式收费！客服回应：会记录 可以留意后续优化](https://www.3dmgame.com/news/202404/3892889.html)
+
++ [余承东回应华为Pura 70何时开售 被网友发现秘密：4月18日P系列12周年](https://www.3dmgame.com/news/202404/3892888.html)
+

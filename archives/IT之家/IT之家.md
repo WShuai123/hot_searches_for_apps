@@ -57,3 +57,5 @@
 
 + [消息称苹果 iPhone 16 Pro 机型起步存储升至 256GB](https://m.ithome.com/html/762083.htm)
 
++ [华为余承东回应 Pura 70 系列手机何时开售：再过两天将有好消息](https://m.ithome.com/html/762143.htm)
+
