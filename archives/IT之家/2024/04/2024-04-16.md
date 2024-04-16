@@ -63,3 +63,7 @@
 
 + [极越汽车：自称“买小米 SU7 被辞”员工实际以个人身份为竞品宣发且旷工](https://m.ithome.com/html/762222.htm)
 
++ [问界新款 M7 在工信部申报，车头可选“小嘴”前保险杠](https://m.ithome.com/html/762194.htm)
+
++ [比亚迪方程豹敞篷跑车“SUPER 9”亮相：采用剪刀门设计](https://m.ithome.com/html/762253.htm)
+
