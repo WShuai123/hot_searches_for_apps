@@ -49,3 +49,21 @@
 
 + [El Tigre](https://dribbble.com/shots/)
 
++ [ACE Year of the Dragon Badge](https://dribbble.com/shots/)
+
++ [Abducted By Aliens](https://dribbble.com/shots/)
+
++ [Parthean](https://dribbble.com/shots/)
+
++ [3D Analytics Illustration](https://dribbble.com/shots/)
+
++ [La Gazette | May 2023](https://dribbble.com/shots/)
+
++ [O for Occult](https://dribbble.com/shots/)
+
++ [How to beat the winter blues - Northshore Magazine](https://dribbble.com/shots/)
+
++ [Growing Pains](https://dribbble.com/shots/)
+
++ [Doodle Flash](https://dribbble.com/shots/)
+

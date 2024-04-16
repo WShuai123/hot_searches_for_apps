@@ -25,3 +25,5 @@
 
 + [比亚迪方程豹敞篷跑车“SUPER 9”亮相：采用剪刀门设计](https://m.ithome.com/html/762253.htm)
 
++ [小米 11 / Pro / Ultra 手机推送基于安卓 14 的澎湃 HyperOS 正式版内测](https://m.ithome.com/html/762053.htm)
+
