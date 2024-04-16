@@ -275,3 +275,7 @@
 
 + [余承东回应华为Pura 70何时开售 被网友发现秘密：4月18日P系列12周年](https://www.3dmgame.com/news/202404/3892888.html)
 
++ [《变形金刚：起源》电影 “锤哥”将为擎天柱配音](https://www.3dmgame.com/news/202404/3892896.html)
+
++ [《冰汽时代2》PC配置公开 推荐2060 Super](https://www.3dmgame.com/news/202404/3892895.html)
+
