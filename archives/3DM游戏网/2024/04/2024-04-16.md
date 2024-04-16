@@ -147,3 +147,31 @@
 
 + [前《暗黑3》开发者后悔反对更复杂技能系统：或能更好](https://www.3dmgame.com/news/202404/3892823.html)
 
++ [传闻：《鬼灭之刃：火神血风谭》续作正在开发中](https://www.3dmgame.com/news/202404/3892842.html)
+
++ [《药店模拟器》Steam页面上线 2024年第二季度发售](https://www.3dmgame.com/news/202404/3892843.html)
+
++ [回合制战术游戏《神奇英侠》将于5月29日正式推出 现已提供试玩Demo](https://www.3dmgame.com/news/202404/3892840.html)
+
++ [《Ghost Hand》Steam页面上线 瑰丽幻想画风银恶城冒险](https://www.3dmgame.com/news/202404/3892841.html)
+
++ [《辐射》尸鬼化妆要5个小时 鼻子采用CG技术移除](https://www.3dmgame.com/news/202404/3892839.html)
+
++ [英国2023年游戏市场增长4.4%达78.2亿英镑 主机销量强劲](https://www.3dmgame.com/news/202404/3892838.html)
+
++ [《辐射 避难所》联动美剧更新 几位主角S.P.E.C.I.A.L.能力值公开](https://www.3dmgame.com/news/202404/3892837.html)
+
++ [《罗布乐思》更新市场卖家要求：不再需提交申请](https://www.3dmgame.com/news/202404/3892844.html)
+
++ [报告称育碧《不羁联盟》本周末举行新测试 暂定今夏发售](https://www.3dmgame.com/news/202404/3892836.html)
+
++ [《魔兽世界》11.0“地心之战”已开放测试资格申请](https://www.3dmgame.com/news/202404/3892835.html)
+
++ [宜家公布专为玩家设计的系列家具 柜式空间等](https://www.3dmgame.com/news/202404/3892834.html)
+
++ [合作恐怖新宠《内容警告》销量超过100万份](https://www.3dmgame.com/news/202404/3892833.html)
+
++ [《双人成行》开发商庆祝成立10周年 或将于年末公布新作](https://www.3dmgame.com/news/202404/3892832.html)
+
++ [前《盗贼之海》开发人员用Playdate掌机为女友定制游戏 并求婚成功](https://www.3dmgame.com/news/202404/3892830.html)
+
