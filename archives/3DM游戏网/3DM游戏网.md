@@ -101,3 +101,11 @@
 
 + [动画剧集《T・P BON》新宣传片 5月2日开播](https://www.3dmgame.com/news/202404/3892857.html)
 
++ [《猛兽派对》更新延迟至4月25日 官方致歉](https://www.3dmgame.com/news/202404/3892905.html)
+
++ [《刺客信条：幻景》试玩开启 免费领全新艾沃尔装扮](https://www.3dmgame.com/news/202404/3892906.html)
+
++ [传闻：《黑手党4》或将很快公布 三至四周](https://www.3dmgame.com/news/202404/3892904.html)
+
++ [被禁售的NVIDIA GPU卡惊现中国！从未见过的96GB内存](https://www.3dmgame.com/news/202404/3892903.html)
+

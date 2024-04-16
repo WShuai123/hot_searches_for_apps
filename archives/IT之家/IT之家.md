@@ -27,3 +27,5 @@
 
 + [小米 11 / Pro / Ultra 手机推送基于安卓 14 的澎湃 HyperOS 正式版内测](https://m.ithome.com/html/762053.htm)
 
++ [华为 Pura 70 Ultra 手机部分配置曝光：超一英寸 RYYB 镜头，真皮后壳](https://m.ithome.com/html/762267.htm)
+
