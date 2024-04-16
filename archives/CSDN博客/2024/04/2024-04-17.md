@@ -101,3 +101,23 @@
 
 + [《经典论文阅读2》基于随机游走的节点表示学习—Deepwalk算法](https://blog.csdn.net/liu16659/article/details/137751541)
 
++ [【机器学习】数据变换---小波变换特征提取及应用案列介绍](https://blog.csdn.net/qq_38614074/article/details/137827304)
+
++ [前端从零到一搭建脚手架并发布到npm](https://blog.csdn.net/u012570307/article/details/137786725)
+
++ [计算机网络—TCP协议详解：协议构成、深度解析（1）](https://blog.csdn.net/weixin_64038246/article/details/137825506)
+
++ [Linux系统部署可视化数据多维表格APITable并实现无公网IP远程协同办公](https://blog.csdn.net/Aileenvov/article/details/137825554)
+
++ [Redis实现延迟任务的几种方案](https://blog.csdn.net/qq_35716689/article/details/137791943)
+
++ [【Linux实践室】Linux高级用户管理实战指南：用户所属组变更操作详解](https://blog.csdn.net/2301_80026901/article/details/137733970)
+
++ [【Spring Boot】深入解密Spring Boot日志：最佳实践与策略解析](https://blog.csdn.net/smile_sundays/article/details/137738847)
+
++ [SpringAI 她来了，真的来了](https://blog.csdn.net/rong0913/article/details/137763854)
+
++ [最新AI创作系统ChatGPT网站源码AI绘画系统（SparkAi v6系统），附详细搭建部署教程](https://blog.csdn.net/weixin_43227851/article/details/137760801)
+
++ [负载均衡(理解/解析)](https://blog.csdn.net/weixin_59383491/article/details/137783509)
+
