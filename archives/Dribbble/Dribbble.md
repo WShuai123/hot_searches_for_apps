@@ -81,3 +81,11 @@
 
 + [AEC Advisors Office Mural](https://dribbble.com/shots/)
 
++ [Rebels & Renegades Merch Design](https://dribbble.com/shots/)
+
++ [Spring Card](https://dribbble.com/shots/)
+
++ [Horse](https://dribbble.com/shots/)
+
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
