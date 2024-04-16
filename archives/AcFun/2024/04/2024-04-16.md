@@ -77,3 +77,9 @@
 
 + [趴在搓衣板上做饭，这道印度菜真的太伤身体了](http://www.acfun.cn/v/ac44284290)
 
++ [服从安排，我们Acer不挑！★手机竖屏1122★](http://www.acfun.cn/v/ac44331505)
+
++ [骑行Vlog｜被acer拉爆的一天！！！？？？](http://www.acfun.cn/v/ac44333929)
+
++ [杠 精 问 题 百 科66.0（为什么麦当劳的餐品没人偷？）](http://www.acfun.cn/v/ac44330629)
+

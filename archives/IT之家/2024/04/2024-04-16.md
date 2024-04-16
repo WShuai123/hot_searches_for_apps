@@ -33,3 +33,11 @@
 
 + [刘强东 AI 数字人“采销东哥”明日开启京东直播首秀](https://m.ithome.com/html/761966.htm)
 
++ [华为 P50、nova 12 系列手机开启鸿蒙 HarmonyOS 4.2 公测](https://m.ithome.com/html/761927.htm)
+
++ [马斯克发布全员信，特斯拉将在全球范围内裁员超 10%](https://m.ithome.com/html/761925.htm)
+
++ [智己汽车：从未与“猫一杯”有任何官方代言合作](https://m.ithome.com/html/761903.htm)
+
++ [华为 × 奇瑞，鸿蒙智行轿车智界 S7 上周末两天大定超 2000 台](https://m.ithome.com/html/761896.htm)
+

@@ -175,3 +175,31 @@
 
 + [前《盗贼之海》开发人员用Playdate掌机为女友定制游戏 并求婚成功](https://www.3dmgame.com/news/202404/3892830.html)
 
++ [动画剧集《T・P BON》新宣传片 5月2日开播](https://www.3dmgame.com/news/202404/3892857.html)
+
++ [《星球大战：法外狂徒》创意总监透露 客串角色会让新老粉丝都满意](https://www.3dmgame.com/news/202404/3892858.html)
+
++ [真正意义的PSP 高玩将PS游戏机魔改成可玩掌机大小](https://www.3dmgame.com/news/202404/3892856.html)
+
++ [《庄园领主》Steam愿望单突破250万 超越《黑帝斯2》成为榜一](https://www.3dmgame.com/news/202404/3892855.html)
+
++ [《绝地潜兵2》数据挖掘内容未来仅有部分会加入游戏](https://www.3dmgame.com/news/202404/3892854.html)
+
++ [肉鸽游戏《PROJECT TACHYON》Steam页面 今年发售](https://www.3dmgame.com/news/202404/3892853.html)
+
++ [《消逝的光芒2》噩梦模式即将上线 高难度游戏体验](https://www.3dmgame.com/news/202404/3892852.html)
+
++ [《神之浩劫2》创始者版现已开启预购 国区108元起](https://www.3dmgame.com/news/202404/3892850.html)
+
++ [《神秘博士》新一季海报 整个宇宙将在你指尖](https://www.3dmgame.com/news/202404/3892847.html)
+
++ [文心一言用户数突破2亿 中文领域已超ChatGPT4.0](https://www.3dmgame.com/news/202404/3892851.html)
+
++ [猫猫动作冒险游戏《流浪猫》现已登录Steam平台 2024年第三季度推出](https://www.3dmgame.com/news/202404/3892849.html)
+
++ [育碧回应《星球大战：法外狂徒》高级版限定任务争议](https://www.3dmgame.com/news/202404/3892848.html)
+
++ [《死亡之夜》更新上线 追加角色捏体以及新丧尸等](https://www.3dmgame.com/news/202404/3892845.html)
+
++ [前《龙腾世纪》首席编剧认为 《龙腾世纪》改编电视剧是糟糕的主意](https://www.3dmgame.com/news/202404/3892846.html)
+

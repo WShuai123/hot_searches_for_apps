@@ -49,3 +49,7 @@
 
 + [有手就会？记一次绕过防重放的漏洞挖掘](https://www.freebuf.com/vuls/397142.html)
 
++ [号外！号外！唯品会招人啦](https://www.freebuf.com/jobs/398087.html)
+
++ [针对全球 320 个组织，新型隐写术攻击曝光](https://www.freebuf.com/news/398051.html)
+
