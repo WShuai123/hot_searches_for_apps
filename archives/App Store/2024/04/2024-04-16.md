@@ -219,3 +219,7 @@
 
 + [智行火车票-高铁抢票、机票酒店汽车票预订平台](https://itunes.apple.com/cn/app/id651323845?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [智联招聘—招聘找工作求职招人软件](https://itunes.apple.com/cn/app/id488033535?mt=8)
+

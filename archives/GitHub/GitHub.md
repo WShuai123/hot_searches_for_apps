@@ -51,3 +51,25 @@
 
 + [zulip / zulip](https://github.com/zulip/zulip)
 
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
+
++ [GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite)
+
++ [itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x)
+
++ [skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose)
+
++ [goharbor / harbor](https://github.com/goharbor/harbor)
+
++ [FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [bitnami / containers](https://github.com/bitnami/containers)
+

@@ -59,3 +59,5 @@
 
 + [华为余承东回应 Pura 70 系列手机何时开售：再过两天将有好消息](https://m.ithome.com/html/762143.htm)
 
++ [吉利银河 E8 龙腾版车型上市，售价 16.58 万元起](https://m.ithome.com/html/761989.htm)
+
