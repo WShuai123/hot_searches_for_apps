@@ -101,3 +101,27 @@
 
 + [Stampede Social](https://www.producthunt.com/posts/stampede-social)
 
++ [Devinstock](https://www.producthunt.com/posts/devinstock)
+
++ [Validated - Taglines](https://www.producthunt.com/posts/validated-taglines)
+
++ [CompliantChatGPT](https://www.producthunt.com/posts/compliantchatgpt)
+
++ [Zoom Workplace](https://www.producthunt.com/posts/zoom-workplace)
+
++ [Tempo](https://www.producthunt.com/posts/tempo-12)
+
++ [Mural](https://www.producthunt.com/posts/mural-42b0b8a3-1078-4d8e-abe3-a68b9b037789)
+
++ [Onwardwith.me](https://www.producthunt.com/posts/onwardwith-me)
+
++ [Healax](https://www.producthunt.com/posts/healax)
+
++ [superwhisper for iOS](https://www.producthunt.com/posts/superwhisper-for-ios)
+
++ [Dagster+](https://www.producthunt.com/posts/dagster)
+
++ [Reflex](https://www.producthunt.com/posts/reflex-6)
+
++ [Insight7 3.0](https://www.producthunt.com/posts/insight7-3-0)
+

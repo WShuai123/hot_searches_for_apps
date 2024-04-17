@@ -57,3 +57,7 @@
 
 + [不用担心！人工智能技术是辅助工具，不是“竞争者”](https://www.freebuf.com/news/398199.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+
++ [AWS Key disabler：AWS IAM用户访问密钥安全保护工具](https://www.freebuf.com/sectool/393284.html)
+

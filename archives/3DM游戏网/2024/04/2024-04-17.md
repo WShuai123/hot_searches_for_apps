@@ -203,3 +203,39 @@
 
 + [短剧热潮刮到日本 中国公司提供原创故事](https://www.3dmgame.com/news/202404/3892949.html)
 
++ [KK官方对战平台首期淘金计划圆满结束，投稿淘金赚万元现金！](https://www.3dmgame.com/news/202404/3892971.html)
+
++ [玩家晒惨被爱犬摧残Steam Deck引共鸣 洗澡时被偷袭很无奈](https://www.3dmgame.com/news/202404/3892970.html)
+
++ [发售近一年依旧有惊喜 玩家发现《塞尔达传说：王国之泪》隐藏洞穴](https://www.3dmgame.com/news/202404/3892969.html)
+
++ [刷宝肉鸽《数字魅影:极限竞赛》计划4月25日EA发售](https://www.3dmgame.com/news/202404/3892968.html)
+
++ [《最终幻想7：重生》清理小游戏太无聊 原本更麻烦](https://www.3dmgame.com/news/202404/3892967.html)
+
++ [《崩坏：星穹铁道》走近星穹 「砂金：硬币到底在哪只手里？」](https://www.3dmgame.com/news/202404/3892966.html)
+
++ [本周Fami通游戏评分出炉 《百英雄传》获33分](https://www.3dmgame.com/news/202404/3892965.html)
+
++ [亨利·卡维尔对扮演詹姆斯·邦德的相关问题表示并未弃权](https://www.3dmgame.com/news/202404/3892964.html)
+
++ [NHK小岛秀夫特别广播节目第二期5月18日播出 对话导演山崎贵](https://www.3dmgame.com/news/202404/3892963.html)
+
++ [《Memora Wanderer》Steam页面上线 低像素3DRPG](https://www.3dmgame.com/news/202404/3892961.html)
+
++ [《暗黑破坏神 不朽》《仙剑》联动 定档4月24日](https://www.3dmgame.com/news/202404/3892962.html)
+
++ [藤本树短篇漫画改编剧场版《蓦然回首》公布预告 6月28日上映](https://www.3dmgame.com/news/202404/3892960.html)
+
++ [苹果折叠屏iPhone新专利获批：内嵌弹簧层 屏幕不怕摔](https://www.3dmgame.com/news/202404/3892957.html)
+
++ [索尼2006年E3展车7万美元挂价 卖家不懂价值](https://www.3dmgame.com/news/202404/3892958.html)
+
++ [开放世界生存制作游戏《造作海岛》现已推出免费序章](https://www.3dmgame.com/news/202404/3892959.html)
+
++ [《Dragon Ruins》Steam页面上线 经典3D迷宫探索](https://www.3dmgame.com/news/202404/3892956.html)
+
++ [模拟经营游戏《地毯清洁模拟器》Steam页面上线 支持简中](https://www.3dmgame.com/news/202404/3892955.html)
+
++ [动作肉鸽游戏《数字魅影：极限竞赛》抢先体验4月25日上线 定价68元](https://www.3dmgame.com/news/202404/3892954.html)
+
