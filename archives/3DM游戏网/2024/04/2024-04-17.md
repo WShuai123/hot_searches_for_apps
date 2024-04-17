@@ -167,3 +167,29 @@
 
 + [《星刃》早期动捕视频欣赏 果然还是男人更懂女人](https://www.3dmgame.com/news/202404/3892921.html)
 
++ [《心门守卫》发售日预告 5月10日发售](https://www.3dmgame.com/news/202404/3892942.html)
+
++ [《ELEMASTA 》Steam页面上线 像素风开放世界RPG](https://www.3dmgame.com/news/202404/3892946.html)
+
++ [港服PS+三档会员新增试玩游戏：《最后的生还者2：复刻版》](https://www.3dmgame.com/news/202404/3892947.html)
+
++ [调查显示：70%的游戏开发者对实时服务可持续性表示担忧](https://www.3dmgame.com/news/202404/3892944.html)
+
++ [类银河恶魔城游戏《生物枪》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202404/3892945.html)
+
++ [叠纸《无限暖暖》4月18日举行特别直播 将公布实机演示](https://www.3dmgame.com/news/202404/3892943.html)
+
++ [中式怪核恐怖悬疑解谜游戏《杀青》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3892948.html)
+
++ [Pocketpair社长不开心 明年有大量类《幻兽帕鲁》手游推出](https://www.3dmgame.com/news/202404/3892936.html)
+
++ [《火箭联盟》铭牌更新内容受玩家称赞 但名称变化被吐槽毫无意义](https://www.3dmgame.com/news/202404/3892941.html)
+
++ [《惊天魔盗团3》卡司公布 小缇娜女演员加盟](https://www.3dmgame.com/news/202404/3892940.html)
+
++ [Rovio芬兰现代童话《姆明》手游将于今年7月停服](https://www.3dmgame.com/news/202404/3892939.html)
+
++ [《Livingmare Cold Calls》PC试玩发布 面部识别应用恐怖探索](https://www.3dmgame.com/news/202404/3892938.html)
+
++ [PS5 Pro规格爆料或为真 相关视频被索尼投诉下架](https://www.3dmgame.com/news/202404/3892937.html)
+
