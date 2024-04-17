@@ -239,3 +239,13 @@
 
 + [动作肉鸽游戏《数字魅影：极限竞赛》抢先体验4月25日上线 定价68元](https://www.3dmgame.com/news/202404/3892954.html)
 
++ [首款骁龙8 Gen4小屏旗舰！曝小米15系列进入内测阶段](https://www.3dmgame.com/news/202404/3892976.html)
+
++ [《邪夜将至》Steam页面上线 经典学园主角RPG重制](https://www.3dmgame.com/news/202404/3892975.html)
+
++ [《辐射》真人剧第二季有望看到经典怪物死亡爪加入](https://www.3dmgame.com/news/202404/3892974.html)
+
++ [《吃豆人无尽地道争豆 暴食没有极限》防御篇 5月9日发售](https://www.3dmgame.com/news/202404/3892973.html)
+
++ [《尘白禁区》发文宣布：将禁止未成年人注册游戏](https://www.3dmgame.com/news/202404/3892972.html)
+
