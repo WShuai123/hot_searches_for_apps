@@ -85,3 +85,11 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千六百七十八期](http://www.acfun.cn/v/ac44337720)
 
++ [Yasisi](http://www.acfun.cn/v/ac44337284)
+
++ [想不通印度人为啥爱吃这个](http://www.acfun.cn/v/ac44284611)
+
++ [牛公子的一生真是大起大落！](http://www.acfun.cn/v/ac44338175)
+
++ [只有玩过的才知道小孩姐有多牛…](http://www.acfun.cn/v/ac44336658)
+

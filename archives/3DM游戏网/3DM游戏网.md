@@ -249,3 +249,21 @@
 
 + [《尘白禁区》发文宣布：将禁止未成年人注册游戏](https://www.3dmgame.com/news/202404/3892972.html)
 
++ [《守望先锋》聊天带脏字封号被质疑：过滤意义何在？](https://www.3dmgame.com/news/202404/3892984.html)
+
++ [《金庸武侠世界》神雕侠侣篇曝光 谁来演杨过小龙女](https://www.3dmgame.com/news/202404/3892981.html)
+
++ [侦探冒险游戏《There is NO PLAN B》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892985.html)
+
++ [混动车开山鼻祖！日本丰田申请召回13.5万辆普锐斯：防水性能不足](https://www.3dmgame.com/news/202404/3892983.html)
+
++ [美国本土外首个！特斯拉上海储能超级工厂下月开工](https://www.3dmgame.com/news/202404/3892982.html)
+
++ [被踢出群状告管理员要求恢复？法院表示管不了](https://www.3dmgame.com/news/202404/3892980.html)
+
++ [NASA承认：上个月坠落在佛罗里达的太空碎片来自国际空间站](https://www.3dmgame.com/news/202404/3892979.html)
+
++ [卡普空也要搞正确？通过本地化翻译让游戏充满包容性多元化](https://www.3dmgame.com/news/202404/3892978.html)
+
++ [斯坦福大学最新AI报告出炉 中国AI专利全球第一](https://www.3dmgame.com/news/202404/3892977.html)
+

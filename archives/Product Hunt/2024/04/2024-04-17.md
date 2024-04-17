@@ -125,3 +125,7 @@
 
 + [Insight7 3.0](https://www.producthunt.com/posts/insight7-3-0)
 
++ [Collato AI Notetaker](https://www.producthunt.com/posts/collato-ai-notetaker)
+
++ [SpeedLegal](https://www.producthunt.com/posts/speedlegal)
+

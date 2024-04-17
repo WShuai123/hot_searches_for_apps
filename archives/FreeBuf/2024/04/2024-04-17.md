@@ -61,3 +61,7 @@
 
 + [AWS Key disabler：AWS IAM用户访问密钥安全保护工具](https://www.freebuf.com/sectool/393284.html)
 
++ [脆弱的海底光缆——当下网络基础设施安全缩影](https://www.freebuf.com/articles/neopoints/398263.html)
+
++ [思科警告：全球出现大规模针对 VPN 服务的暴力破解攻击事件](https://www.freebuf.com/news/398193.html)
+
