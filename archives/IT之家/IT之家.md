@@ -53,3 +53,5 @@
 
 + [“违背祖宗的决定”，消息称三星 Galaxy S24 FE 手机屏幕物料为 6.7 英寸](https://m.ithome.com/html/762271.htm)
 
++ [只欠东风：经销商称华为 Pura 70 系列手机已到货，门店盲订可选三款机型](https://m.ithome.com/html/762467.htm)
+

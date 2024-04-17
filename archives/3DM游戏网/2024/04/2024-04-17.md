@@ -277,3 +277,5 @@
 
 + [联想小新Pro 16 2024独显版上市 首发价7999元](https://www.3dmgame.com/news/202404/3892990.html)
 
++ [70%开发者认为服务型游戏不可持续](https://www.3dmgame.com/news/202404/3892991.html)
+
