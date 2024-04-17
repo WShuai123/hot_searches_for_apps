@@ -121,3 +121,37 @@
 
 + [负载均衡(理解/解析)](https://blog.csdn.net/weixin_59383491/article/details/137783509)
 
++ [【AIGC】AIGC在虚拟数字人中的应用：塑造未来互动体验的革新力量](https://blog.csdn.net/2301_77509762/article/details/137764342)
+
++ [AIGC实战——VQ-GAN(Vector Quantized Generative Adversarial Network)](https://blog.csdn.net/LOVEmy134611/article/details/137853624)
+
++ [【python】flask结合SQLAlchemy，在视图函数中实现对数据库的增删改查](https://blog.csdn.net/littlefun591/article/details/137833428)
+
++ [微信小程序全局配置](https://blog.csdn.net/weixin_45534587/article/details/137824693)
+
++ [Flink设计&运行原理 | 大数据技术](https://blog.csdn.net/m0_46833224/article/details/137777629)
+
++ [【面经】操作系统/Linux](https://blog.csdn.net/eyas3/article/details/137793354)
+
++ [『FPGA通信接口』串行通信接口-SPI](https://blog.csdn.net/weixin_40615338/article/details/137817978)
+
++ [Spring IoC和DI](https://blog.csdn.net/2302_76339343/article/details/137199169)
+
++ [腾讯EdgeOne产品测评体验——开启安全防护，保障数据无忧](https://blog.csdn.net/qq_53123067/article/details/137797377)
+
++ [竞技游戏新纪元：如何打造满足现代玩家需求的极致体验？](https://blog.csdn.net/qq_32682301/article/details/137811918)
+
++ [【Flutter学习】通过MethodChannel调用本地库和安卓库](https://blog.csdn.net/quantanhu3813/article/details/137835233)
+
++ [腾讯EdgeOne产品测评体验—Web安全的攻与防：云端防护一体化](https://blog.csdn.net/qq_35230125/article/details/137821070)
+
++ [配置OSPF](https://blog.csdn.net/2401_83251575/article/details/137834969)
+
++ [适用于 Windows 的 10 个顶级 PDF 编辑器 [免费和付费]](https://blog.csdn.net/qq_23996309/article/details/137809174)
+
++ [C# .NET 中的反应式系统](https://blog.csdn.net/2401_82584055/article/details/137818286)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_81967703/article/details/137796095)
+
++ [计算机网络——DNS协议](https://blog.csdn.net/m0_60631836/article/details/137798488)
+

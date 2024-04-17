@@ -41,3 +41,5 @@
 
 + [比亚迪方程豹“豹 8”发布：定位大型 SUV 车型，下半年正式上市](https://m.ithome.com/html/762257.htm)
 
++ [第五代 DM-i 混动技术加持，比亚迪秦 L 官图公布](https://m.ithome.com/html/762311.htm)
+
