@@ -101,3 +101,5 @@
 
 + [Stampede Social](https://www.producthunt.com/posts/stampede-social)
 
++ [YouTube Summarizer](https://www.producthunt.com/posts/youtube-summarizer)
+
