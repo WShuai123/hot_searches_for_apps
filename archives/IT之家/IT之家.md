@@ -51,3 +51,5 @@
 
 + [华为：问界新 M5 预订通道现已开启，4 月 23 日发布](https://m.ithome.com/html/762313.htm)
 
++ [“违背祖宗的决定”，消息称三星 Galaxy S24 FE 手机屏幕物料为 6.7 英寸](https://m.ithome.com/html/762271.htm)
+

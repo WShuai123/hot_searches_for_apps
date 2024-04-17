@@ -275,3 +275,5 @@
 
 + [物理益智游戏《黏黏世界2》跳票至8月2日发售 登陆PC和Switch](https://www.3dmgame.com/news/202404/3892986.html)
 
++ [联想小新Pro 16 2024独显版上市 首发价7999元](https://www.3dmgame.com/news/202404/3892990.html)
+
