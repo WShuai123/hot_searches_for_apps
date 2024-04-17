@@ -103,3 +103,9 @@
 
 + [任天堂独立游戏汇总 《猫咪斗恶龙3》8月8日发售](https://www.3dmgame.com/news/202404/3892999.html)
 
++ [《艾尔登法环》黄金树之影DLC收藏版送超大手办](https://www.3dmgame.com/news/202404/3893002.html)
+
++ [《龙珠：电光火石0》新角色公布比鲁斯维斯等参战](https://www.3dmgame.com/news/202404/3893001.html)
+
++ [直播热门游戏《8号出口》正式登陆Switch](https://www.3dmgame.com/news/202404/3893000.html)
+
