@@ -51,3 +51,29 @@
 
 + [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
 
++ [dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini)
+
++ [BenjaSOL / ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu)
+
++ [Dhravya / supermemory](https://github.com/Dhravya/supermemory)
+
++ [atherosai / ui](https://github.com/atherosai/ui)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
++ [elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [airbnb / lottie-ios](https://github.com/airbnb/lottie-ios)
+
++ [Unstructured-IO / unstructured](https://github.com/Unstructured-IO/unstructured)
+
++ [nalgeon / redka](https://github.com/nalgeon/redka)
+
++ [recharts / recharts](https://github.com/recharts/recharts)
+
++ [honojs / hono](https://github.com/honojs/hono)
+
