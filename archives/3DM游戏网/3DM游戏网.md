@@ -285,3 +285,5 @@
 
 + [英伟达携手合作伙伴打造小型游戏PC新生态 RTX 4060系列率先支持](https://www.3dmgame.com/news/202404/3892992.html)
 
++ [电影《杀破狼3》《新纵横四海》立项](https://www.3dmgame.com/news/202404/3892995.html)
+
