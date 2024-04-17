@@ -267,3 +267,11 @@
 
 + [斯坦福大学最新AI报告出炉 中国AI专利全球第一](https://www.3dmgame.com/news/202404/3892977.html)
 
++ [雷军赔本卖！还是特斯拉牛 每卖掉一辆车赚43300元](https://www.3dmgame.com/news/202404/3892989.html)
+
++ [AI行业公开的秘密：许多公司都在抄作业](https://www.3dmgame.com/news/202404/3892988.html)
+
++ [《魂斗罗：加鲁加行动》实体版将于9月5日登陆PS5/NS](https://www.3dmgame.com/news/202404/3892987.html)
+
++ [物理益智游戏《黏黏世界2》跳票至8月2日发售 登陆PC和Switch](https://www.3dmgame.com/news/202404/3892986.html)
+
