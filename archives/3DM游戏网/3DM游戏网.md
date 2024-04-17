@@ -193,3 +193,13 @@
 
 + [PS5 Pro规格爆料或为真 相关视频被索尼投诉下架](https://www.3dmgame.com/news/202404/3892937.html)
 
++ [《无主之地》真人电影中小缇娜演员的扮演灵感 源自玛格丽特版哈莉·奎茵](https://www.3dmgame.com/news/202404/3892953.html)
+
++ [《特技狂人》内地档期推迟 5月17日上映](https://www.3dmgame.com/news/202404/3892950.html)
+
++ [《庄园领主》以及更多游戏支持DLSS，全新Game Ready驱动发布](https://www.3dmgame.com/news/202404/3892952.html)
+
++ [《绝地潜兵2》玩家要修复不要通行证 开发者：没那么简单](https://www.3dmgame.com/news/202404/3892951.html)
+
++ [短剧热潮刮到日本 中国公司提供原创故事](https://www.3dmgame.com/news/202404/3892949.html)
+

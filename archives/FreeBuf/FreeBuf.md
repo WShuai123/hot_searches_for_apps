@@ -49,3 +49,7 @@
 
 + [网安标委发布《网络安全技术 网络安全运维实施指南（征求意见稿）》等三项国家标准](https://www.freebuf.com/news/398156.html)
 
++ [思科警告称：全球出现大规模针对 VPN 服务的暴力破解攻击事件](https://www.freebuf.com/news/398193.html)
+
++ [研究表明，全球互联网流量竟有一半来自机器人](https://www.freebuf.com/news/398215.html)
+
