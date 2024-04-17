@@ -55,3 +55,5 @@
 
 + [企业安全 | 从ATT&CK学习攻击者攻击路线](https://www.freebuf.com/articles/es/397509.html)
 
++ [不用担心！人工智能技术是辅助工具，不是“竞争者”](https://www.freebuf.com/news/398199.html)
+
