@@ -133,3 +133,37 @@
 
 + [沙特电竞世界杯总奖金超6000万美元 刷新电竞奖金纪录](https://www.3dmgame.com/news/202404/3892916.html)
 
++ [生活模拟游戏《Rolling Hills》6月4日发售 支持简中](https://www.3dmgame.com/news/202404/3892929.html)
+
++ [《辐射5》不会很快到来 可能需要8年时间](https://www.3dmgame.com/news/202404/3892930.html)
+
++ [《Kill It With Fire 2》Steam抢测 合作战斗消灭蜘蛛](https://www.3dmgame.com/news/202404/3892932.html)
+
++ [复古游戏主机厂商Evercade推出新R系列主机和掌机](https://www.3dmgame.com/news/202404/3892931.html)
+
++ [《万智牌》与《暗杀神》设计师合作卡牌游《SolForge Fusion》已抢先体验推出](https://www.3dmgame.com/news/202404/3892933.html)
+
++ [顽皮狗工作室艾莉雕像展示：很逼真 脸上雀斑都还原了](https://www.3dmgame.com/news/202404/3892934.html)
+
++ [Krafton投资英国工作室Red Rover 开发末世PvP游戏](https://www.3dmgame.com/news/202404/3892935.html)
+
++ [《命运2》“进入光能”更新 Steam在线峰值超13万](https://www.3dmgame.com/news/202404/3892922.html)
+
++ [《新叶：回忆》Steam抢先体验 开放世界温馨农场经营](https://www.3dmgame.com/news/202404/3892923.html)
+
++ [苹果应用商店下架iGBA模拟器：并非因盗版侵权](https://www.3dmgame.com/news/202404/3892924.html)
+
++ [威世智正在与合作伙伴探讨下一个《博德之门》作品](https://www.3dmgame.com/news/202404/3892925.html)
+
++ [《黑神话：悟空》现已上架PS商店 8月20日发售](https://www.3dmgame.com/news/202404/3892926.html)
+
++ [育碧FPS《不羁联盟》宣布新一轮测试 4月20日凌晨开启](https://www.3dmgame.com/news/202404/3892927.html)
+
++ [真人剧播出后 《辐射避难所》日收入飙升至8万美元](https://www.3dmgame.com/news/202404/3892928.html)
+
++ [太空大作《家园3》全新预告 带你了解本作宇宙历史](https://www.3dmgame.com/news/202404/3892919.html)
+
++ [《浪人崛起》销量低于预期 光荣下调财年营收](https://www.3dmgame.com/news/202404/3892920.html)
+
++ [《星刃》早期动捕视频欣赏 果然还是男人更懂女人](https://www.3dmgame.com/news/202404/3892921.html)
+
