@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 菲律宾科技部服务器遭黑客入侵；光学巨头 Hoya 遭勒索 1000 万美元](https://www.freebuf.com/news/397717.html)
 
++ [FreeBuf早报 | 第二届全球人工智能安全峰会将举办；乌克兰黑客入侵俄无人机开发商](https://www.freebuf.com/news/398063.html)
+
++ [eXotic Visit间谍活动：追踪“虚拟入侵者”（Virtual Invaders）的足迹](https://www.freebuf.com/articles/network/397873.html)
+

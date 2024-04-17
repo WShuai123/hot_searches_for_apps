@@ -127,3 +127,9 @@
 
 + [《我的世界》与《功夫熊猫》联动DLC震撼登场](https://www.3dmgame.com/news/202404/3892907.html)
 
++ [《GTA6》发行商Take-Two将裁员5% 并取消部分游戏](https://www.3dmgame.com/news/202404/3892918.html)
+
++ [《冰汽时代2》正式发售时将支持DLSS和XeSS](https://www.3dmgame.com/news/202404/3892917.html)
+
++ [沙特电竞世界杯总奖金超6000万美元 刷新电竞奖金纪录](https://www.3dmgame.com/news/202404/3892916.html)
+

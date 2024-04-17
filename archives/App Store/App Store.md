@@ -201,3 +201,9 @@
 
 + [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
 
++ [剧刷刷](https://itunes.apple.com/cn/app/id6447504780?mt=8)
+
++ [河马剧场-全网热门短剧无限看](https://itunes.apple.com/cn/app/id6451242037?mt=8)
+
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
