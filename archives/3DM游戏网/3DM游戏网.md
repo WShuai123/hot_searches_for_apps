@@ -109,3 +109,11 @@
 
 + [直播热门游戏《8号出口》正式登陆Switch](https://www.3dmgame.com/news/202404/3893000.html)
 
++ [海信成为《黑神话：悟空》合作伙伴 联动新预告公布](https://www.3dmgame.com/news/202404/3893006.html)
+
++ [《时空幻境》周年版宣布新增关卡延期半个月发售](https://www.3dmgame.com/news/202404/3893005.html)
+
++ [B社移除《幽灵线：东京》D加密 想提高游戏销量？](https://www.3dmgame.com/news/202404/3893004.html)
+
++ [像素科幻动作游戏《月球武士》发布众筹预告](https://www.3dmgame.com/news/202404/3893003.html)
+

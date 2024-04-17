@@ -25,3 +25,5 @@
 
 + [我国首款自主研制洲际客机，国产大飞机 C929 项目启动联合攻关](https://m.ithome.com/html/762379.htm)
 
++ [华为联合设计，AITO 问界新 M5 车型预售 12 小时订单破万](https://m.ithome.com/html/762500.htm)
+
