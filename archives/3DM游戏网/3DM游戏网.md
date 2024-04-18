@@ -219,3 +219,7 @@
 
 + [《垃圾回收中心模拟器》Steam页面上线 支持中文](https://www.3dmgame.com/news/202404/3893052.html)
 
++ [这也能联动！《黎明杀机》宣布将联动《元梦之星》](https://www.3dmgame.com/news/202404/3893058.html)
+
++ [《宝可梦 GO》新捏人系统已在全球上线 放弃性别选项遭吐槽](https://www.3dmgame.com/news/202404/3893059.html)
+

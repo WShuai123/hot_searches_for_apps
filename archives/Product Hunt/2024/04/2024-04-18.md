@@ -103,3 +103,45 @@
 
 + [YouTube Summarizer](https://www.producthunt.com/posts/youtube-summarizer)
 
++ [Delta](https://www.producthunt.com/posts/delta-2)
+
++ [OptimateAI](https://www.producthunt.com/posts/optimateai)
+
++ [Latitude](https://www.producthunt.com/posts/latitude-6)
+
++ [Bricksoft.ai](https://www.producthunt.com/posts/bricksoft-ai)
+
++ [TikTok Notes](https://www.producthunt.com/posts/tiktok-notes)
+
++ [Claude to Notion](https://www.producthunt.com/posts/claude-to-notion)
+
++ [Math Solver GPT](https://www.producthunt.com/posts/math-solver-gpt)
+
++ [Design Engineer](https://www.producthunt.com/posts/design-engineer)
+
++ [AskBetter - Validate with AI.](https://www.producthunt.com/posts/askbetter-validate-with-ai)
+
++ [Explainit](https://www.producthunt.com/posts/explainit)
+
++ [RecurseChat](https://www.producthunt.com/posts/recursechat)
+
++ [Brave Search](https://www.producthunt.com/posts/brave-search)
+
++ [SpeakLine 5](https://www.producthunt.com/posts/speakline-5)
+
++ [FlyCode Payments](https://www.producthunt.com/posts/flycode-payments)
+
++ [LingQuiz](https://www.producthunt.com/posts/lingquiz)
+
++ [Tabula](https://www.producthunt.com/posts/tabula-4)
+
++ [Sweego](https://www.producthunt.com/posts/sweego)
+
++ [ShiftX AI](https://www.producthunt.com/posts/shiftx-ai)
+
++ [Pullpo.io](https://www.producthunt.com/posts/pullpo-io-2)
+
++ [ioPartners](https://www.producthunt.com/posts/iopartners)
+
++ [Insights by Ayraa](https://www.producthunt.com/posts/insights-by-ayraa-2)
+
