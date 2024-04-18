@@ -145,3 +145,7 @@
 
 + [Insights by Ayraa](https://www.producthunt.com/posts/insights-by-ayraa-2)
 
++ [FitMachine: Legends of Fitness](https://www.producthunt.com/posts/fitmachine-legends-of-fitness)
+
++ [Collabwriting for Teams](https://www.producthunt.com/posts/collabwriting-for-teams)
+

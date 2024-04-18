@@ -61,3 +61,11 @@
 
 + [构建网络防御体系，情报共享至关重要](https://www.freebuf.com/articles/398320.html)
 
++ [为什么企业安全预算总是不够花？](https://www.freebuf.com/articles/neopoints/398394.html)
+
++ [企业安全 | API安全体系建设](https://www.freebuf.com/articles/es/377992.html)
+
++ [请先理解了云原生再谈容器安全](https://www.freebuf.com/articles/container/377477.html)
+
++ [什么时候才能真正实现威胁情报共享？](https://www.freebuf.com/articles/398320.html)
+

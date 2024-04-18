@@ -101,3 +101,73 @@
 
 + [计算机网络——DNS协议](https://blog.csdn.net/m0_60631836/article/details/137798488)
 
++ [探索设计模式的魅力：融合AI大模型与函数式编程、开启智能编程新纪元](https://blog.csdn.net/danci_/article/details/137853452)
+
++ [SpringBoot之JWT令牌校验](https://blog.csdn.net/qq_73918355/article/details/137875608)
+
++ [SpringBoot整合MOTT动态读取数据库连接信息并连接MQTT服务端](https://blog.csdn.net/IridescentYYY/article/details/137873282)
+
++ [机器学习引领金融革命：重塑金融服务领域新格局，开启智能化新篇章](https://blog.csdn.net/g310773517/article/details/137882711)
+
++ [【Spring进阶系列丨第十篇】基于注解的面向切面编程(AOP)详解](https://blog.csdn.net/m0_63947499/article/details/137752045)
+
++ [前端的未来已然到来](https://blog.csdn.net/yuxingwu9872/article/details/137825464)
+
++ [【机器学习】探究Q-Learning通过学习最优策略来解决AI序列决策问题](https://blog.csdn.net/xiaoxie8023/article/details/137786883)
+
++ [使用SpringBoot将中国地震台网数据保存PostGIS数据库实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/137884458)
+
++ [Spring Boot：Web应用开发之登录与退出的实现](https://blog.csdn.net/qq_56886142/article/details/137043267)
+
++ [新兴存内计算芯片架构、大型语言模型、多位存内计算架构——存内计算架构的性能仿真与对比分析探讨](https://blog.csdn.net/weixin_52908342/article/details/137867867)
+
++ [【Linux】服务器时区 [ CST | UTC | GMT | RTC ]](https://blog.csdn.net/qq_35995514/article/details/137872959)
+
++ [go语言并发实战——日志收集系统(三) 利用sarama包连接KafKa实现消息的生产与消费](https://blog.csdn.net/qq_73924465/article/details/137845196)
+
++ [AI大模型探索之路-应用篇15：GLM大模型-ChatGLM3-6B私有化本地部署](https://blog.csdn.net/xiaobing259/article/details/137880597)
+
++ [区块链与数字货币](https://blog.csdn.net/m0_68868181/article/details/137874483)
+
++ [【python】flask中ORM工具SQLAIchemy，各种数据查询操作详细解析](https://blog.csdn.net/littlefun591/article/details/137874674)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/137886992)
+
++ [华为ensp中静态路由和默认路由的原理及配置](https://blog.csdn.net/jxjdhdnd/article/details/137880374)
+
++ [AIGC时代重塑数字安全风控体系](https://blog.csdn.net/herosunly/article/details/137889210)
+
++ [DevOps转型的意义](https://blog.csdn.net/m0_72437195/article/details/137869947)
+
++ [【活动】《图灵奖视角下的Avi Wigderson：2023年荣誉背后的数学与计算思维》](https://blog.csdn.net/qq_44214428/article/details/137893715)
+
++ [GaussDB数据库SQL系列-聚合函数](https://blog.csdn.net/GaussDB/article/details/137905515)
+
++ [第⑮讲：Ceph集群管理与监控操作指南](https://blog.csdn.net/weixin_44953658/article/details/137855872)
+
++ [【K8s】：在 Kubernetes 集群中部署 MySQL8.0 高可用集群（1主2从）](https://blog.csdn.net/qq_41840843/article/details/137773805)
+
++ [如何在 Ubuntu 14.04 上配置 Consul 在生产环境中](https://blog.csdn.net/rubys007/article/details/137722812)
+
++ [【网络编程】web服务器shttpd源码剖析——命令行和文件配置解析](https://blog.csdn.net/weixin_73951752/article/details/137889473)
+
++ [Python爬取猫眼电影票房 + 数据可视化](https://blog.csdn.net/m0_53054984/article/details/137481903)
+
++ [冯诺依曼与进程【Linux】](https://blog.csdn.net/qq_73478334/article/details/134165408)
+
++ [免费在线OCR识别工具TextIn Tools，开启智能学习新时代](https://blog.csdn.net/INTSIG/article/details/137832878)
+
++ [什么是Cookies？请求Cookies和响应 Cookies的关系](https://blog.csdn.net/benshu_001/article/details/137879551)
+
++ [密码学 | 承诺：Pedersen Commitment](https://blog.csdn.net/m0_64140451/article/details/137889359)
+
++ [Linux——操作系统与进程基本概念](https://blog.csdn.net/Tlzns/article/details/137883850)
+
++ [赚钱游戏 2.0.2 版](https://blog.csdn.net/C5408C/article/details/137868755)
+
++ [数据可视化-ECharts Html项目实战（13）](https://blog.csdn.net/qq_49513817/article/details/137893581)
+
++ [Windows本地部署Ollama+qwen本地大语言模型Web交互界面并实现公网访问](https://blog.csdn.net/a1657054242/article/details/137780469)
+
++ [React-Redux（二）](https://blog.csdn.net/2302_76329106/article/details/137715542)
+

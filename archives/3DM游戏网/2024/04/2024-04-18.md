@@ -223,3 +223,17 @@
 
 + [《宝可梦 GO》新捏人系统已在全球上线 放弃性别选项遭吐槽](https://www.3dmgame.com/news/202404/3893059.html)
 
++ [《巫师4》是CDPR首要任务 他们正在紧锣密鼓开发中](https://www.3dmgame.com/news/202404/3893066.html)
+
++ [开发商LEVEL-5宣布4月游戏展示活动“LEVEL-5 Vision 2024”延期 具体时间待定](https://www.3dmgame.com/news/202404/3893064.html)
+
++ [《赛博朋克2077》续作目标将保留第一部“完整DNA”](https://www.3dmgame.com/news/202404/3893065.html)
+
++ [《雷曼》改编桌游正在制作中 预计2024年第三季度推出](https://www.3dmgame.com/news/202404/3893063.html)
+
++ [我国首款自研九谱段高清相机传回首张卫星图：图像清晰](https://www.3dmgame.com/news/202404/3893061.html)
+
++ [种田+冒险《老家奇妙日记》发售日预告 4月25日发售](https://www.3dmgame.com/news/202404/3893062.html)
+
++ [JRPG名作《幻想国物语2》上架Steam 今后将有更多策划](https://www.3dmgame.com/news/202404/3893060.html)
+
