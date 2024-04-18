@@ -53,3 +53,7 @@
 
 + [被裁女总经理再曝阿里职场性骚扰](https://m.ithome.com/html/762616.htm)
 
++ [明日 10:08 再开售：华为 Pura 70 Pro / Ultra 手机京东手慢无](https://m.ithome.com/html/762560.htm)
+
++ [【一图知】一图看懂华为 Pura 70 系列手机](https://m.ithome.com/html/762688.htm)
+
