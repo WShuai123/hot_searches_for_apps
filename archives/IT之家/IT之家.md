@@ -45,3 +45,5 @@
 
 + [华为 Pura 70 Pro / Pro + 手机上架，6499 元起](https://m.ithome.com/html/762570.htm)
 
++ [华为 Pura 70 系列手机不到 1 分钟售罄，分析人士预计其年内销量破千万台](https://m.ithome.com/html/762626.htm)
+

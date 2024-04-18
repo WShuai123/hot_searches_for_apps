@@ -237,3 +237,29 @@
 
 + [JRPG名作《幻想国物语2》上架Steam 今后将有更多策划](https://www.3dmgame.com/news/202404/3893060.html)
 
++ [传奇桌面游戏联手宝可梦！艾赐魔袋中国宣布推出宝可梦版璀璨宝石](https://www.3dmgame.com/news/202404/3893079.html)
+
++ [真理财产品！华为Pura 70突然开售：现已有加价转卖 最高加3000元](https://www.3dmgame.com/news/202404/3893078.html)
+
++ [英特尔打造全球最大神经拟态系统 比人脑快200倍](https://www.3dmgame.com/news/202404/3893076.html)
+
++ [日本黑人武士弥助真人电影筹备中 要大杀四方了！](https://www.3dmgame.com/news/202404/3893075.html)
+
++ [《使命召唤20》玩家零杀满级挑战：耗费半年才完成](https://www.3dmgame.com/news/202404/3893074.html)
+
++ [《山海旅人2》或将上线 新消息4月30日公布](https://www.3dmgame.com/news/202404/3893073.html)
+
++ [美国多给字节180天出售TikTok期限：不卖就禁](https://www.3dmgame.com/news/202404/3893077.html)
+
++ [曝索尼Xperia 1 VI将于5月17日发布：“电老虎”4K带鱼屏终于被砍！](https://www.3dmgame.com/news/202404/3893072.html)
+
++ [万代旗下纵读漫画品牌《万代漫画》创刊 首批作品发布](https://www.3dmgame.com/news/202404/3893071.html)
+
++ [从工厂辞职后，这个男人靠讲故事就成了tap榜一](https://www.3dmgame.com/news/202404/3893070.html)
+
++ [《法外枭雄：滚石城》迎来重大更新 新任务新装备等你体验](https://www.3dmgame.com/news/202404/3893069.html)
+
++ [KK官方对战平台对抗地图《斗将》4月18日摆开擂台，单挑激斗角逐三国最强](https://www.3dmgame.com/news/202404/3893068.html)
+
++ [穿越乡鬼迷雾，单人剧本杀游戏《子归》现已开启免费试玩！](https://www.3dmgame.com/news/202404/3893067.html)
+
