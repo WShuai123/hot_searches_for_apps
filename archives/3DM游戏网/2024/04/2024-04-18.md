@@ -169,3 +169,33 @@
 
 + [回合战斗游戏《蒸汽世界：劫掠 2》Steam页面 8月8日发售](https://www.3dmgame.com/news/202404/3893027.html)
 
++ [新作《天国：拯救2》意外泄露 2024年发售登陆主机和PC](https://www.3dmgame.com/news/202404/3893045.html)
+
++ [《艾尔登法环》“一键”通关？玩家用莫斯代码挑战成功](https://www.3dmgame.com/news/202404/3893046.html)
+
++ [《死亡搁浅》登场倒三轮摩托全新拼模公开 精致酷炫](https://www.3dmgame.com/news/202404/3893047.html)
+
++ [《罗蕾莱和雷射眼》发售日预告 5月17日发售](https://www.3dmgame.com/news/202404/3893040.html)
+
++ [多人乱斗游戏《暴怒：格斗节》现已推出试玩Demo](https://www.3dmgame.com/news/202404/3893041.html)
+
++ [苹果已在中国兴建了超1千兆瓦风光项目 每年发电24亿度](https://www.3dmgame.com/news/202404/3893042.html)
+
++ [《Fate/Samurai Remnant》DLC“断章・柳生秘剑帖”新预告 现已解锁发售](https://www.3dmgame.com/news/202404/3893043.html)
+
++ [《奇异恩典》4月26日Steam发售 支持中文](https://www.3dmgame.com/news/202404/3893044.html)
+
++ [《熔炉密林》4月25日发售 售价36元](https://www.3dmgame.com/news/202404/3893034.html)
+
++ [2D动作RPG《失落史诗》实体版将于8月8日发售](https://www.3dmgame.com/news/202404/3893033.html)
+
++ [《星刃》与韩国女歌手BIBI联动先导MV 太美艳了](https://www.3dmgame.com/news/202404/3893035.html)
+
++ [《家园3》第一年更新路线图公布 PC配置要求降低](https://www.3dmgame.com/news/202404/3893036.html)
+
++ [《Vigor》Steam页面上线 经典战斗经营FPS](https://www.3dmgame.com/news/202404/3893037.html)
+
++ [《绝地潜兵2》开发者知道付费货币能速刷：暂时没管](https://www.3dmgame.com/news/202404/3893038.html)
+
++ [《魔兽世界》执行制作人不排除对移植主机平台的可能性](https://www.3dmgame.com/news/202404/3893039.html)
+

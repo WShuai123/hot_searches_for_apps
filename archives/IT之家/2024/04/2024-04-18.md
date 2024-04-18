@@ -35,3 +35,9 @@
 
 + [华为 Pura 70 Ultra / Pro 手机今日先锋开售，Pro+/标准版 4 月 22 日开售](https://m.ithome.com/html/762553.htm)
 
++ [麒麟 9010？华为 Pura 70 系列手机被曝搭载全新处理器](https://m.ithome.com/html/762567.htm)
+
++ [9999 元起，华为 Pura 70 Ultra 手机上架：业界首创超聚光伸缩摄像头、北斗卫星图片消息](https://m.ithome.com/html/762559.htm)
+
++ [华为 Pura 70 Pro / Ultra 手机京东 16:08 再开售，6499/9999 元起](https://m.ithome.com/html/762560.htm)
+

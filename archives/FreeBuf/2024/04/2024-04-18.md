@@ -47,3 +47,9 @@
 
 + [针对加密货币矿池的路由攻击](https://www.freebuf.com/vuls/398172.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [美国最大的医疗服务提供商因网络攻击损失 8.72 亿美元](https://www.freebuf.com/news/398310.html)
+
++ [Meta 审查不力，亲俄宣传广告席卷欧盟](https://www.freebuf.com/news/398315.html)
+
