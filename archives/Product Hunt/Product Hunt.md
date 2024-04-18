@@ -101,3 +101,9 @@
 
 + [Insight7 3.0](https://www.producthunt.com/posts/insight7-3-0)
 
++ [Meta Llama 3](https://www.producthunt.com/posts/meta-llama-3)
+
++ [Meta AI](https://www.producthunt.com/posts/meta-ai)
+
++ [Swiftgum](https://www.producthunt.com/posts/swiftgum)
+

@@ -49,3 +49,21 @@
 
 + [Bridgetown](https://dribbble.com/shots/)
 
++ [No Risk](https://dribbble.com/shots/)
+
++ [Mascotte design](https://dribbble.com/shots/)
+
++ [Barnhaus](https://dribbble.com/shots/)
+
++ [Tuxedo](https://dribbble.com/shots/)
+
++ [Smokey the Bear](https://dribbble.com/shots/)
+
++ [Virginia Beach](https://dribbble.com/shots/)
+
++ [Spring Card](https://dribbble.com/shots/)
+
++ [WOW](https://dribbble.com/shots/)
+
++ [Happy Hiker](https://dribbble.com/shots/)
+
