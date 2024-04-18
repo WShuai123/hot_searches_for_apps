@@ -291,3 +291,9 @@
 
 + [《人类：一败涂地2》跳票 2026年发售](https://www.3dmgame.com/news/202404/3893091.html)
 
++ [Fami通新一周销量榜 《双人成行》入榜](https://www.3dmgame.com/news/202404/3893096.html)
+
++ [《变形金刚 起源》中字预告 年内上映](https://www.3dmgame.com/news/202404/3893097.html)
+
++ [微软在收购后选择“让暴雪继续做暴雪”](https://www.3dmgame.com/news/202404/3893095.html)
+
