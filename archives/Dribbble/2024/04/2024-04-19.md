@@ -83,3 +83,9 @@
 
 + [Spring Selfie](https://dribbble.com/shots/)
 
++ [Tattoo Series](https://dribbble.com/shots/)
+
++ [Doodle Flash](https://dribbble.com/shots/)
+
++ [Howdy Hill Visual Exploration](https://dribbble.com/shots/)
+
