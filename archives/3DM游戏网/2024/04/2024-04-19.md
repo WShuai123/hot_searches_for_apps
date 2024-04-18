@@ -101,3 +101,21 @@
 
 + [南京杭州开讲啦！网易Y3高校游戏制作人大赛宣讲会如约而至，易起点燃游戏梦](https://www.3dmgame.com/news/202404/3893048.html)
 
++ [开发商表示《天国：拯救2》规模是原作“两倍”](https://www.3dmgame.com/news/202404/3893108.html)
+
++ [《星球大战：法外狂徒》内置卡牌游戏沙巴克](https://www.3dmgame.com/news/202404/3893109.html)
+
++ [30人潜水探索游戏《永恒蔚蓝 流光》发布介绍视频](https://www.3dmgame.com/news/202404/3893107.html)
+
++ [PS5/PS4版《暗黑地牢2》将于7/15推出](https://www.3dmgame.com/news/202404/3893106.html)
+
++ [《夜族崛起》“莫蒂姆废墟”实机预告片分享](https://www.3dmgame.com/news/202404/3893105.html)
+
++ [《迪士尼竞速风暴》第7赛季新增无敌破坏王赛道](https://www.3dmgame.com/news/202404/3893104.html)
+
++ [《遗迹2》被遗忘的王国DLC新增召唤师职业](https://www.3dmgame.com/news/202404/3893103.html)
+
++ [《刺客信条》艾吉奥月末加入《荣耀战魂》](https://www.3dmgame.com/news/202404/3893102.html)
+
++ [主视角冷兵器RPG《天国：拯救2》年内发售](https://www.3dmgame.com/news/202404/3893101.html)
+
