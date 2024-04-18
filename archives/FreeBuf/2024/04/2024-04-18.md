@@ -55,3 +55,5 @@
 
 + [信息安全管理——企业业务信息安全管理](https://www.freebuf.com/articles/security-management/397363.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+

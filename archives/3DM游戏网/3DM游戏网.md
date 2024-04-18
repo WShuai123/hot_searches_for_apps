@@ -207,3 +207,15 @@
 
 + [独立游戏《恶魔轮盘》发售仅一周多便卖出超过100万份](https://www.3dmgame.com/news/202404/3893051.html)
 
++ [《绝命毒师》小粉演员或将加入《辐射》美剧第二季](https://www.3dmgame.com/news/202404/3893057.html)
+
++ [《小缇娜的奇幻之地》改编漫画即将推出 2024年夏季上架](https://www.3dmgame.com/news/202404/3893056.html)
+
++ [《风暴英雄》发布新修复补丁 现已上线PTR测试服](https://www.3dmgame.com/news/202404/3893055.html)
+
++ [绅士向《Bunny Garden》登陆Switch 稍后登陆Steam](https://www.3dmgame.com/news/202404/3893054.html)
+
++ [《原神》阿蕾奇诺角色PV——「安然入睡」](https://www.3dmgame.com/news/202404/3893053.html)
+
++ [《垃圾回收中心模拟器》Steam页面上线 支持中文](https://www.3dmgame.com/news/202404/3893052.html)
+
