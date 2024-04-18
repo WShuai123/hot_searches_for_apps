@@ -51,3 +51,35 @@
 
 + [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
 
++ [valkey-io / valkey](https://github.com/valkey-io/valkey)
+
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [Julien-cpsn / ATAC](https://github.com/Julien-cpsn/ATAC)
+
++ [goharbor / harbor](https://github.com/goharbor/harbor)
+
++ [kevinbentley / Descent3](https://github.com/kevinbentley/Descent3)
+
++ [figma / code-connect](https://github.com/figma/code-connect)
+
++ [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [quilljs / quill](https://github.com/quilljs/quill)
+
++ [skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose)
+
++ [apache / paimon](https://github.com/apache/paimon)
+
++ [qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload)
+
++ [OpenTalker / SadTalker](https://github.com/OpenTalker/SadTalker)
+
++ [esphome / esphome](https://github.com/esphome/esphome)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite)
+

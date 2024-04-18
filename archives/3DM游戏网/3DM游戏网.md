@@ -275,3 +275,9 @@
 
 + [雷军：今年年底小米汽车交付中心将覆盖40座城市](https://www.3dmgame.com/news/202404/3893080.html)
 
++ [大神改造3dfx Voodoo显卡 甚至配备了VGA和DVI接口](https://www.3dmgame.com/news/202404/3893086.html)
+
++ [《绿色地狱》免费更新#20“食蚁兽”喔～你的鼻子真长啊！](https://www.3dmgame.com/news/202404/3893088.html)
+
++ [印度又搞动作！一加将被停售 小米子品牌Poco也被查](https://www.3dmgame.com/news/202404/3893089.html)
+
