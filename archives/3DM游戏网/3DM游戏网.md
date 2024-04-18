@@ -199,3 +199,11 @@
 
 + [《魔兽世界》执行制作人不排除对移植主机平台的可能性](https://www.3dmgame.com/news/202404/3893039.html)
 
++ [南京杭州开讲啦！网易Y3高校游戏制作人大赛宣讲会如约而至，易起点燃游戏梦](https://www.3dmgame.com/news/202404/3893048.html)
+
++ [日本游戏发行商Level-5 2024年展会宣布延期](https://www.3dmgame.com/news/202404/3893049.html)
+
++ [前用户体验主管吐槽微软：Windows11优化的真不行](https://www.3dmgame.com/news/202404/3893050.html)
+
++ [独立游戏《恶魔轮盘》发售仅一周多便卖出超过100万份](https://www.3dmgame.com/news/202404/3893051.html)
+

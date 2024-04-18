@@ -41,3 +41,7 @@
 
 + [华为 Pura 70 Pro / Ultra 手机京东 16:08 再开售，6499/9999 元起](https://m.ithome.com/html/762560.htm)
 
++ [5499 元起，华为  Pura 70 标准版手机发布：四款配色，IP68 防尘防水](https://m.ithome.com/html/762571.htm)
+
++ [华为 Pura 70 Pro / Pro + 手机上架，6499 元起](https://m.ithome.com/html/762570.htm)
+

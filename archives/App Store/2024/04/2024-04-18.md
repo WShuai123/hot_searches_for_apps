@@ -211,3 +211,7 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [票星球](https://itunes.apple.com/cn/app/id1493894094?mt=8)
+
++ [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
+
