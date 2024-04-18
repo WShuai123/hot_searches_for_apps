@@ -263,3 +263,15 @@
 
 + [穿越乡鬼迷雾，单人剧本杀游戏《子归》现已开启免费试玩！](https://www.3dmgame.com/news/202404/3893067.html)
 
++ [《暧昧梦：AImAIm》免费发布 AI参与制作诡异恐怖新游](https://www.3dmgame.com/news/202404/3893085.html)
+
++ [《歧路旅人》重新上架Switch美服商店 恢复正常售卖](https://www.3dmgame.com/news/202404/3893084.html)
+
++ [猫猫模拟器《小猫咪大城市》将于5月9日上线！](https://www.3dmgame.com/news/202404/3893083.html)
+
++ [《猫咪斗恶龙3》将于2024年8月8日发售](https://www.3dmgame.com/news/202404/3893082.html)
+
++ [量大管饱！战斗爽！割草肉鸽打僵尸游戏《黎明前夜》今日发售！](https://www.3dmgame.com/news/202404/3893081.html)
+
++ [雷军：今年年底小米汽车交付中心将覆盖40座城市](https://www.3dmgame.com/news/202404/3893080.html)
+

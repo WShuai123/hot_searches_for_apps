@@ -23,3 +23,5 @@
 
 + [尘白禁区](https://www.taptap.cn/app/222089)
 
++ [野兽领主：新世界](https://www.taptap.cn/app/532667)
+

@@ -47,3 +47,9 @@
 
 + [华为 Pura 70 系列手机不到 1 分钟售罄，分析人士预计其年内销量破千万台](https://m.ithome.com/html/762626.htm)
 
++ [18:08 再开售：华为 Pura 70 Pro / Ultra 手机京东手慢无](https://m.ithome.com/html/762560.htm)
+
++ [华为 Pura 70 / Pro / Pro+/Ultra 系列手机信息一文汇总，你抢到了吗？](https://m.ithome.com/html/762641.htm)
+
++ [被裁女总经理再曝阿里职场性骚扰](https://m.ithome.com/html/762616.htm)
+
