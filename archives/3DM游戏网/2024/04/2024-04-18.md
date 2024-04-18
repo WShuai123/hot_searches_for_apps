@@ -125,3 +125,35 @@
 
 + [传《星空》PS5版曾开发四年之久 B社被微软收购后便放弃](https://www.3dmgame.com/news/202404/3893007.html)
 
++ [经典FPS游戏《天旋地转3》开发者已免费公开源代码](https://www.3dmgame.com/news/202404/3893024.html)
+
++ [威世智和孩之宝总裁宣布离职 继任者正在寻找中](https://www.3dmgame.com/news/202404/3893025.html)
+
++ [《蟹蟹寻宝奇遇》4月25日登陆Switch 寄居蟹类魂动作冒险](https://www.3dmgame.com/news/202404/3893023.html)
+
++ [《星刃》玩家认为女店员比女主漂亮 总监想让她成为新作女主](https://www.3dmgame.com/news/202404/3893021.html)
+
++ [网飞小说改编剧集《百年孤独》预告 年内上线](https://www.3dmgame.com/news/202404/3893016.html)
+
++ [世嘉1989年出品的街机格斗游戏《战斧》将被改编成动画剧集](https://www.3dmgame.com/news/202404/3893026.html)
+
++ [《星刃》媒体评分将于4月24日晚10点解禁](https://www.3dmgame.com/news/202404/3893022.html)
+
++ [独立武侠单机游戏《下一站江湖Ⅱ》今日发售](https://www.3dmgame.com/news/202404/3893019.html)
+
++ [模拟游戏《矮人要塞》现已推出冒险模式测试版](https://www.3dmgame.com/news/202404/3893015.html)
+
++ [《对马岛之鬼》PC版包含新PS覆盖界面和奖杯支持](https://www.3dmgame.com/news/202404/3893020.html)
+
++ [《全面战争：战锤3》DLC“腐朽王座”宣布4月30日发售](https://www.3dmgame.com/news/202404/3893018.html)
+
++ [《Yars Rising》Steam页面上线 横版动作射击](https://www.3dmgame.com/news/202404/3893017.html)
+
++ [《严阵以待》开发者被黑客攻击 游戏源代码遭盗取](https://www.3dmgame.com/news/202404/3893014.html)
+
++ [《盗贼之海》玩家超4000万 月底还登陆PS5](https://www.3dmgame.com/news/202404/3893012.html)
+
++ [《死亡岛2》第二个付费DLC现已上线 Epic国区50元](https://www.3dmgame.com/news/202404/3893013.html)
+
++ [《生化危机》官方整活：请玩家选出没有坠毁的直升机](https://www.3dmgame.com/news/202404/3893011.html)
+

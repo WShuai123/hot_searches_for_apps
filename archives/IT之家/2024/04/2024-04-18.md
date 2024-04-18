@@ -31,3 +31,5 @@
 
 + [小米推出 Redmi 智能电视 2025 款：50 英寸 1399 元，65 英寸 2199 元](https://m.ithome.com/html/762505.htm)
 
++ [小米汽车：SU7 标准版代客泊车功能需待后续 OTA 推送，Pro / Max 交付后即可用](https://m.ithome.com/html/762504.htm)
+
