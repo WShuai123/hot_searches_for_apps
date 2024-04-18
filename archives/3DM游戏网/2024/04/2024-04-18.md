@@ -157,3 +157,15 @@
 
 + [《生化危机》官方整活：请玩家选出没有坠毁的直升机](https://www.3dmgame.com/news/202404/3893011.html)
 
++ [《最终幻想16》收费DLC沧海恸哭上线 追加大量新内容](https://www.3dmgame.com/news/202404/3893032.html)
+
++ [《星空》游戏总监托德·霍华德：“大更新”即将到来](https://www.3dmgame.com/news/202404/3893028.html)
+
++ [像素风角色扮演游戏《国王之墓》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893031.html)
+
++ [真人互动影视游戏《天哪！是心动的感觉！》Steam页面上线 Q2发售](https://www.3dmgame.com/news/202404/3893030.html)
+
++ [英国官方向22家“新星”游戏开发商拨款3百万英镑](https://www.3dmgame.com/news/202404/3893029.html)
+
++ [回合战斗游戏《蒸汽世界：劫掠 2》Steam页面 8月8日发售](https://www.3dmgame.com/news/202404/3893027.html)
+

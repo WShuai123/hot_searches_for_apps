@@ -13,3 +13,5 @@
 
 + [来百度玩转亚运：如何打造好玩有趣的活动矩阵](https://www.ui.cn/detail/663300.html)
 
++ [简单几招搞定金属质感HMI仪表](https://www.ui.cn/detail/662155.html)
+

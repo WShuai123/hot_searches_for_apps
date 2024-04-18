@@ -33,3 +33,5 @@
 
 + [小米汽车：SU7 标准版代客泊车功能需待后续 OTA 推送，Pro / Max 交付后即可用](https://m.ithome.com/html/762504.htm)
 
++ [华为 Pura 70 Ultra / Pro 手机今日先锋开售，Pro+/标准版 4 月 22 日开售](https://m.ithome.com/html/762553.htm)
+
