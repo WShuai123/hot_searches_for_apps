@@ -183,3 +183,17 @@
 
 + [IP地址和IP子网划分](https://blog.csdn.net/2301_81439715/article/details/137836493)
 
++ [开源事件通知库libevent及网络连接管理模块bufferevent详解](https://blog.csdn.net/chenlycly/article/details/137924030)
+
++ [什么是神经网络和机器学习？【云驻共创】](https://blog.csdn.net/weixin_52908342/article/details/137867504)
+
++ [遇事不决 量子力学？](https://blog.csdn.net/Luluucy/article/details/137917995)
+
++ [MySql运维篇](https://blog.csdn.net/a17783481239/article/details/136490183)
+
++ [通过k8s实现bisheng部署](https://blog.csdn.net/zxp_6031/article/details/137679290)
+
++ [遇见Hystrix：你的微服务稳定运行不能少了它](https://blog.csdn.net/heihaozi/article/details/137856763)
+
++ [【Python小游戏】植物大战僵尸的实现与源码分享](https://blog.csdn.net/weixin_46277553/article/details/137912235)
+

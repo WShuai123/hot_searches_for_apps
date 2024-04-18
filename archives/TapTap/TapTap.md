@@ -25,3 +25,5 @@
 
 + [野兽领主：新世界](https://www.taptap.cn/app/532667)
 
++ [蔚蓝档案](https://www.taptap.cn/app/316964)
+

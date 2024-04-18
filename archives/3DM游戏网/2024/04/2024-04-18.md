@@ -281,3 +281,5 @@
 
 + [印度又搞动作！一加将被停售 小米子品牌Poco也被查](https://www.3dmgame.com/news/202404/3893089.html)
 
++ [AMD减少RDNA 2架构高端GPU供应](https://www.3dmgame.com/news/202404/3893090.html)
+
