@@ -57,3 +57,5 @@
 
 + [【一图知】一图看懂华为 Pura 70 系列手机](https://m.ithome.com/html/762688.htm)
 
++ [华为轮值董事长徐直军：期望今年 Mate 70 系列手机能带着 “纯血鸿蒙”上市](https://m.ithome.com/html/762744.htm)
+

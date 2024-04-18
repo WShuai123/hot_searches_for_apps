@@ -283,3 +283,11 @@
 
 + [AMD减少RDNA 2架构高端GPU供应](https://www.3dmgame.com/news/202404/3893090.html)
 
++ [延迟退休！昆汀已放弃最后一部电影《影评人》](https://www.3dmgame.com/news/202404/3893094.html)
+
++ [《辐射4》Steam同时在线峰值超过了9万](https://www.3dmgame.com/news/202404/3893093.html)
+
++ [《辐射4》登顶欧洲上周游戏销量榜 销量猛涨了75倍](https://www.3dmgame.com/news/202404/3893092.html)
+
++ [《人类：一败涂地2》跳票 2026年发售](https://www.3dmgame.com/news/202404/3893091.html)
+
