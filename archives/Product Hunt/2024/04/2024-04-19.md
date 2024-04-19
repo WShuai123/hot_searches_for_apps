@@ -125,3 +125,11 @@
 
 + [FamHive - Family chore planner](https://www.producthunt.com/posts/famhive-family-chore-planner)
 
++ [Nothing Ear and Ear a](https://www.producthunt.com/posts/nothing-ear-and-ear-a)
+
++ [Magic Shortcut](https://www.producthunt.com/posts/magic-shortcut)
+
++ [urth by trst](https://www.producthunt.com/posts/urth-by-trst)
+
++ [Ugly Duckling](https://www.producthunt.com/posts/ugly-duckling-2)
+

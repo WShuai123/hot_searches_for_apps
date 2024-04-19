@@ -211,3 +211,19 @@
 
 + [《哎呦！这么多美女呀！》Steam页面上线 年内发售](https://www.3dmgame.com/news/202404/3893156.html)
 
++ [《方块方舟》六周年庆典：解锁独特皮肤，庆祝方块世界新篇章](https://www.3dmgame.com/news/202404/3893160.html)
+
++ [你想弥补那遗憾的年少时光吗？青春游戏《那年夏末》6月14日正式发售](https://www.3dmgame.com/news/202404/3893161.html)
+
++ [VR头显Meta Quest 2永久降价 多款配件全部半价](https://www.3dmgame.com/news/202404/3893162.html)
+
++ [智能AI勇闯地狱 肉鸽地牢策略游戏《亡者之地》公布](https://www.3dmgame.com/news/202404/3893153.html)
+
++ [不发游戏改做音乐？Gamera Games发布六周年特别单曲《闹！闹！NOW!》](https://www.3dmgame.com/news/202404/3893154.html)
+
++ [开局一座岛！沙盒经营建造游戏《岛与工厂》现已发售](https://www.3dmgame.com/news/202404/3893152.html)
+
++ [SNK经典IP回归 Gamera Games将发行《合金弹头：战略版》](https://www.3dmgame.com/news/202404/3893150.html)
+
++ [Gamera将发行美少女航海RPG《海天猫猫船 BUCCANYAR》 中文更新后价格将永降](https://www.3dmgame.com/news/202404/3893155.html)
+
