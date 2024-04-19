@@ -45,3 +45,5 @@
 
 + [盗梦攻击：虚拟现实系统中的沉浸式劫持](https://www.freebuf.com/articles/network/397880.html)
 
++ [安全编排自动化响应SOAR项目实践经验总结 | 安全运营优化篇](https://www.freebuf.com/articles/es/398296.html)
+
