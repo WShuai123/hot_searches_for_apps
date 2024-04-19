@@ -25,3 +25,7 @@
 
 + [渠道商消息称华为 Pura 70 系列手机货量比 Mate 60 系列“要多一些”](https://m.ithome.com/html/762707.htm)
 
++ [【一图知】一图立懂华为 Pura 70 系列手机](https://m.ithome.com/html/762688.htm)
+
++ [华为 Pura 70 系列手机首发鸿蒙 HarmonyOS 4.2 控制中心实时模糊动效](https://m.ithome.com/html/762776.htm)
+

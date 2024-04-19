@@ -119,3 +119,11 @@
 
 + [主视角冷兵器RPG《天国：拯救2》年内发售](https://www.3dmgame.com/news/202404/3893101.html)
 
++ [《消逝的光芒2》开发商称赞腾讯：了不起的合作伙伴](https://www.3dmgame.com/news/202404/3893113.html)
+
++ [亚马逊正式续订《辐射》第二季 三人一狗回归](https://www.3dmgame.com/news/202404/3893112.html)
+
++ [横尾太郎称《尼尔》非媚宅游戏 日本开发商无法跟上西方技术](https://www.3dmgame.com/news/202404/3893111.html)
+
++ [《恶意不息》Steam褒贬不一 优化差、设计有缺陷](https://www.3dmgame.com/news/202404/3893110.html)
+
