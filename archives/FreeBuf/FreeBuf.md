@@ -47,3 +47,7 @@
 
 + [安全编排自动化响应SOAR项目实践经验总结 | 安全运营优化篇](https://www.freebuf.com/articles/es/398296.html)
 
++ [市场监管总局印发《市场监督管理行政执法电子数据取证暂行规定》](https://www.freebuf.com/news/398462.html)
+
++ [黑客组织利用 Carbanak 后门“瞄准”美国汽车行业](https://www.freebuf.com/news/398441.html)
+

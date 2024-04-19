@@ -101,3 +101,43 @@
 
 + [【Python小游戏】植物大战僵尸的实现与源码分享](https://blog.csdn.net/weixin_46277553/article/details/137912235)
 
++ [【AIGC】深入探索AIGC技术在文本生成与音频生成领域的应用](https://blog.csdn.net/2301_77509762/article/details/137837533)
+
++ [5.机器学习-十大算法之一岭回归（Ridge）算法原理讲解](https://blog.csdn.net/weixin_50804299/article/details/137921710)
+
++ [【论文阅读-问答】人工智能生成内容增强的甲状腺结节计算机辅助诊断模型:CHATGPT风格的助手](https://blog.csdn.net/wtyuong/article/details/137824216)
+
++ [计算机网络—TCP协议详解：协议构成、深度解析（2）](https://blog.csdn.net/weixin_64038246/article/details/137948940)
+
++ [【Spring Security系列】Spring Security 过滤器详解与基于JDBC的认证实现](https://blog.csdn.net/qq_53847859/article/details/137653689)
+
++ [【优质书籍推荐】《Effective Java》是人工智能的基石](https://blog.csdn.net/weixin_43178406/article/details/137922379)
+
++ [C# 给图片添加文字水印](https://blog.csdn.net/michaelline/article/details/137915203)
+
++ [【感受C++的魅力】：用C++演奏歌曲《起风了》——含完整源码](https://blog.csdn.net/dh45498/article/details/137933624)
+
++ [从三大层次学习企业架构框架TOGAF](https://blog.csdn.net/qq_35716689/article/details/137909456)
+
++ [网络运输层之(3)GRE协议](https://blog.csdn.net/Once_day/article/details/137935794)
+
++ [【Unity 实用工具篇】 | UIEffect 实现一系列UGUI特效，UI溶解特效](https://blog.csdn.net/zhangay1998/article/details/137789277)
+
++ [Qt 系统相关](https://blog.csdn.net/qq_68006585/article/details/137744620)
+
++ [Elasticsearch：简化 KNN 搜索](https://blog.csdn.net/UbuntuTouch/article/details/137901648)
+
++ [【Docker】Linux开放2735端口实现远程访问Docker](https://blog.csdn.net/joeyoj/article/details/137555414)
+
++ [七月论文审稿GPT第4.5版：通过15K条paper-review数据微调Llama2 70B(含各种坑)](https://blog.csdn.net/v_JULY_v/article/details/137916099)
+
++ [风险解码：数字技术如何重塑风控游戏规则](https://blog.csdn.net/qq_44273429/article/details/137904781)
+
++ [HTML5+JavaScript实现本地视频/音频播放器](https://blog.csdn.net/cnds123/article/details/137808746)
+
++ [竞技游戏新纪元：如何打造满足现代玩家需求的极致体验？](https://blog.csdn.net/qq_32682301/article/details/137811918)
+
++ [Leo赠书活动-24期 【三大层次学习企业架构框架TOGAF】文末送书](https://blog.csdn.net/qq_58608526/article/details/137937521)
+
++ [（十四）C++自制植物大战僵尸游戏windows平台视频播放实现](https://blog.csdn.net/qq_40630246/article/details/137875928)
+
