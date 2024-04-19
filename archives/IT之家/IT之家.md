@@ -39,3 +39,7 @@
 
 + [周鸿祎欲卖豪车迈巴赫入手国产新能源：车厂“排队送”，小鹏连夜开至 360 楼下](https://m.ithome.com/html/762825.htm)
 
++ [华为 Pura 70 标准版手机不支持星闪（NearLink）技术](https://m.ithome.com/html/762853.htm)
+
++ [长城汽车董事长魏建军动态测试小米 SU7，称“值得我们研究学习”](https://m.ithome.com/html/762720.htm)
+

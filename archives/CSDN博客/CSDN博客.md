@@ -141,3 +141,23 @@
 
 + [（十四）C++自制植物大战僵尸游戏windows平台视频播放实现](https://blog.csdn.net/qq_40630246/article/details/137875928)
 
++ [第一篇【传奇开心果系列】我和AI面对面聊编程：深度比较PyQt5和tkinter.ttk](https://blog.csdn.net/jackchuanqi/article/details/137798335)
+
++ [【MySQL探索之旅】多表查询](https://blog.csdn.net/QQ3447387928/article/details/137942608)
+
++ [Qt/C++音视频开发70-无感切换通道/无缝切换播放视频/多通道流畅切换/不同视频打开无缝切换](https://blog.csdn.net/feiyangqingyun/article/details/137906373)
+
++ [Spring AOP的实现方式与原理](https://blog.csdn.net/paperjie/article/details/137910904)
+
++ [【kubernetes组件合集】深入解析Kubernetes组件之三：client-go](https://blog.csdn.net/myTomorrow_better/article/details/137937348)
+
++ [Android 水滴屏、全屏适配](https://blog.csdn.net/fromVillageCoolBoy/article/details/137922998)
+
++ [Docker构建Java镜像并部署Java项目](https://blog.csdn.net/w708955424/article/details/137926990)
+
++ [Zynq7000系列中的CPU时钟使用](https://blog.csdn.net/u011565038/article/details/137815189)
+
++ [Spring Boot后端+Vue前端：打造高效二手车交易系统](https://blog.csdn.net/Yaml4/article/details/137903251)
+
++ [【docker】之linux配置定时任务--设置shell脚本定时执行（可定时备份、删除数据库）](https://blog.csdn.net/m0_48904153/article/details/137651839)
+
