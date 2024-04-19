@@ -49,3 +49,9 @@
 
 + [美团王兴罕见点评理想：MEGA 是给李想造的车，L6 才是给员工造的](https://m.ithome.com/html/762867.htm)
 
++ [报告预计 Pura 70 系列手机出货量年内超千万，华为将重夺中国市场榜首](https://m.ithome.com/html/762879.htm)
+
++ [比亚迪秦 L 内饰官图发布：“山水画境”座舱，定位“中级轿车”](https://m.ithome.com/html/762823.htm)
+
++ [华为 Pura 70 系列手机维修备件价格公布：新屏优惠价 1579 元起，主板 2499 元起](https://m.ithome.com/html/762774.htm)
+

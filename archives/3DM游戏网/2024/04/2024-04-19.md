@@ -233,3 +233,17 @@
 
 + [《江湖录》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893163.html)
 
++ [《碧蓝幻想：Relink》1.2版本4月26日上线 添加新角色](https://www.3dmgame.com/news/202404/3893171.html)
+
++ [索尼Bravia 9 mini-LED电视发布 顶配卖32999元](https://www.3dmgame.com/news/202404/3893172.html)
+
++ [《暗区突围：无限》国际版Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3893166.html)
+
++ [外媒发文称《星刃》过于迎合“男性凝视” 这不正确](https://www.3dmgame.com/news/202404/3893167.html)
+
++ [中国显示器线上TOP10出炉：小米第三 第一无可撼动](https://www.3dmgame.com/news/202404/3893168.html)
+
++ [淘宝大动作！推出无限次退货免运费：单笔最高达25元](https://www.3dmgame.com/news/202404/3893169.html)
+
++ [《星刃》性感女主人偶欣赏 部分身体部位可替换](https://www.3dmgame.com/news/202404/3893170.html)
+
