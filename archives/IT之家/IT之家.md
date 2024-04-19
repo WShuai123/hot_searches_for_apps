@@ -61,3 +61,5 @@
 
 + [小米汽车：SU7 智驾中低阶方案“采用三方竞标”方式纯属谣言](https://m.ithome.com/html/762775.htm)
 
++ [小米 14 系列手机开启 AI 百宝箱功能内测，支持惊喜壁纸功能](https://m.ithome.com/html/762856.htm)
+

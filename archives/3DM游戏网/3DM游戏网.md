@@ -271,3 +271,9 @@
 
 + [Win11 AI资源管理器或只支持骁龙X Elite 不支持Intel或AMD处理器](https://www.3dmgame.com/news/202404/3893183.html)
 
++ [领先半年时间 英特尔率先组装ASML新一代光刻机](https://www.3dmgame.com/news/202404/3893187.html)
+
++ [《城市：天际线2》主机版跳票 不再今春发售](https://www.3dmgame.com/news/202404/3893186.html)
+
++ [马斯克加强对特斯拉控制 至少35位高管直接向他汇报工作](https://www.3dmgame.com/news/202404/3893185.html)
+
