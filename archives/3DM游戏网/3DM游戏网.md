@@ -187,3 +187,17 @@
 
 + [育碧《全境封锁：中心地带》并没有被取消 但经历了重大变化](https://www.3dmgame.com/news/202404/3893139.html)
 
++ [奇怪的联动又增加 《名侦探柯南》和《哥斯拉大战金刚2》联动宣传片公开](https://www.3dmgame.com/news/202404/3893147.html)
+
++ [雷军：小米汽车销量比预计高3-5倍 我很头疼！](https://www.3dmgame.com/news/202404/3893148.html)
+
++ [托德确认《辐射》电视剧是正史：在《新维加斯》后](https://www.3dmgame.com/news/202404/3893149.html)
+
++ [扎导曾希望莱昂纳多在《蝙蝠侠大战超人：正义黎明》中扮演反派卢瑟](https://www.3dmgame.com/news/202404/3893143.html)
+
++ [未来游戏2024夏季展将于6月8日举办 包含40多款新作](https://www.3dmgame.com/news/202404/3893144.html)
+
++ [前《英雄联盟》副总新工作室首部游戏 网易、Nexon合作发行](https://www.3dmgame.com/news/202404/3893145.html)
+
++ [国产开放世界动作游戏《绝晓》新实机演示 确定登陆PS5](https://www.3dmgame.com/news/202404/3893146.html)
+
