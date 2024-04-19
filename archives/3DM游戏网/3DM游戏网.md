@@ -101,3 +101,7 @@
 
 + [育碧《全境封锁：中心地带》并没有被取消 但经历了重大变化](https://www.3dmgame.com/news/202404/3893139.html)
 
++ [外媒评最令人失望的30款游戏 《浪人崛起》上榜](https://www.3dmgame.com/news/202404/3893191.html)
+
++ [EA《肯泽拉传说：扎乌》上市预告 现已正式发售](https://www.3dmgame.com/news/202404/3893192.html)
+
