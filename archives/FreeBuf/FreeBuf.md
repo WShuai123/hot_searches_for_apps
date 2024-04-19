@@ -53,3 +53,5 @@
 
 + [企业安全 | 数据安全规划实践](https://www.freebuf.com/articles/398273.html)
 
++ [ProbeManager：一款功能强大的入侵检测系统集中化管理工具](https://www.freebuf.com/sectool/393288.html)
+

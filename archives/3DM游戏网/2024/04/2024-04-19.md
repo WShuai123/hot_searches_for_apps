@@ -203,3 +203,11 @@
 
 + [化身哲学家挑战电车难题 《哲学梗模拟器》试玩版上架](https://www.3dmgame.com/news/202404/3893151.html)
 
++ [《与狼同行2》新游戏截图公布 发售日期待定](https://www.3dmgame.com/news/202404/3893158.html)
+
++ [《使命召唤》旧作现身Xbox云游戏 或即将登陆XGP](https://www.3dmgame.com/news/202404/3893159.html)
+
++ [iPhone 16劲敌！华为Pura 70系列预计2024年出货量超千万：重夺中国市场第一](https://www.3dmgame.com/news/202404/3893157.html)
+
++ [《哎呦！这么多美女呀！》Steam页面上线 年内发售](https://www.3dmgame.com/news/202404/3893156.html)
+

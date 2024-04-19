@@ -107,3 +107,21 @@
 
 + [Swiftgum](https://www.producthunt.com/posts/swiftgum)
 
++ [Linify](https://www.producthunt.com/posts/linify-2)
+
++ [HuggingChat](https://www.producthunt.com/posts/huggingchat)
+
++ [AiApply Website Builder](https://www.producthunt.com/posts/aiapply-website-builder)
+
++ [AI Flash.Cards](https://www.producthunt.com/posts/ai-flash-cards)
+
++ [Bridge](https://www.producthunt.com/posts/bridge-d84f5d97-9c9f-4155-8534-b588c3bb1060)
+
++ [Urth by trst](https://www.producthunt.com/posts/urth-by-trst)
+
++ [CalendarHunter](https://www.producthunt.com/posts/calendarhunter)
+
++ [AI Product Design by Pietra](https://www.producthunt.com/posts/ai-product-design-by-pietra)
+
++ [FamHive - Family chore planner](https://www.producthunt.com/posts/famhive-family-chore-planner)
+
