@@ -63,3 +63,11 @@
 
 + [小米 14 系列手机开启 AI 百宝箱功能内测，支持惊喜壁纸功能](https://m.ithome.com/html/762856.htm)
 
++ [网友提议智界 S7 车型增加华为 Pura 70 手机同款配色，余承东回应“可以安排”](https://m.ithome.com/html/762937.htm)
+
++ [华为路由器 AX3 / Pro 推送鸿蒙 4.2 系统更新，开启 IPv6 功能](https://m.ithome.com/html/762936.htm)
+
++ [微信 iOS 版 8.0.49 最新官方正式版下载发布](https://m.ithome.com/html/762831.htm)
+
++ [华为 MateBook X Pro 电脑首销破万，推出极速达服务最快 13 分钟送达](https://m.ithome.com/html/762979.htm)
+
