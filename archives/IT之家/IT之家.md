@@ -59,3 +59,5 @@
 
 + [华为公布鸿蒙 HarmonyOS 4.2 主要亮点，全新小艺支持 AI 消除](https://m.ithome.com/html/762911.htm)
 
++ [小米汽车：SU7 智驾中低阶方案“采用三方竞标”方式纯属谣言](https://m.ithome.com/html/762775.htm)
+

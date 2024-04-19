@@ -161,3 +161,23 @@
 
 + [【docker】之linux配置定时任务--设置shell脚本定时执行（可定时备份、删除数据库）](https://blog.csdn.net/m0_48904153/article/details/137651839)
 
++ [Seal^_^【送书活动第一期】——《Vue.js+Node.js全栈开发实战（第2版）》](https://blog.csdn.net/qq_41840843/article/details/137952937)
+
++ [项目实战：Qt获取CTP量化交易接口测试数据工具 v1.0.0（获取深度行情数据、订阅取消订阅）](https://blog.csdn.net/qq21497936/article/details/137937666)
+
++ [2024华中杯数学建模挑战赛C题思路代码论文更新](https://blog.csdn.net/qq_45857113/article/details/137961149)
+
++ [【Rust】——项目实例：——命令行实例（一）](https://blog.csdn.net/shsjssnn/article/details/136565822)
+
++ [计算机网络八股](https://blog.csdn.net/m0_58118986/article/details/137926859)
+
++ [BoostCompass( http_server 模块 | 项目前端代码 )](https://blog.csdn.net/m0_75215937/article/details/137485298)
+
++ [《架构师启示录》三大层次学习企业架构框架TOGAF](https://blog.csdn.net/JHXL_/article/details/137905720)
+
++ [React-css-in-js技术](https://blog.csdn.net/2302_76329106/article/details/137715812)
+
++ [【CDN产品测评-笔记】探索云服务中的安全和性能增强功能](https://blog.csdn.net/wtyuong/article/details/136965438)
+
++ [ownips数据获取工具全面测评](https://blog.csdn.net/m0_73367097/article/details/137956087)
+

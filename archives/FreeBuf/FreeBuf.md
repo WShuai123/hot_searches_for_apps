@@ -61,3 +61,7 @@
 
 + [花钱来免广告追踪？Meta的这项措施恐在欧盟碰壁](https://www.freebuf.com/news/398558.html)
 
++ [AD域不安全了吗；LDAP验证如何确保应用安全 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/398475.html)
+
++ [一个人的信息安全部（3）——数据防泄露【附有DLP选型对比表】](https://www.freebuf.com/articles/security-management/397806.html)
+
