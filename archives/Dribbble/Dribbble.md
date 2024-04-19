@@ -75,3 +75,13 @@
 
 + [GeoShapes icon set](https://dribbble.com/shots/)
 
++ [Bat Shit Crazy](https://dribbble.com/shots/)
+
++ [Playful doggos](https://dribbble.com/shots/)
+
++ [O for Occult](https://dribbble.com/shots/)
+
++ [Barnhaus](https://dribbble.com/shots/)
+
++ [Olympic Season](https://dribbble.com/shots/)
+
