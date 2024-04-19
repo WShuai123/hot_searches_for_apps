@@ -29,3 +29,11 @@
 
 + [华为 Pura 70 系列手机首发鸿蒙 HarmonyOS 4.2 控制中心实时模糊动效](https://m.ithome.com/html/762776.htm)
 
++ [2024 QS 世界大学学科排名发布：计算机 MIT 霸榜，清华 11，北大 15](https://m.ithome.com/html/762610.htm)
+
++ [雷军透露小米自研电机 V8s 年底上车，27200rpm 转速业内第一](https://m.ithome.com/html/762715.htm)
+
++ [到手就更新，华为 Pura 70 系列手机推送鸿蒙 HarmonyOS 4.2.0.137 版本](https://m.ithome.com/html/762632.htm)
+
++ [4000 多个 Top5000 应用明确鸿蒙迁移计划，华为徐直军称打造鸿蒙原生应用生态是 2024 年关键](https://m.ithome.com/html/762658.htm)
+
