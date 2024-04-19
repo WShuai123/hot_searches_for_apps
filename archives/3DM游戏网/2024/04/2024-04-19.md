@@ -247,3 +247,23 @@
 
 + [《星刃》性感女主人偶欣赏 部分身体部位可替换](https://www.3dmgame.com/news/202404/3893170.html)
 
++ [高尔夫也能竞速？《友尽高尔夫》推出了全新的“极速高尔夫”模式](https://www.3dmgame.com/news/202404/3893174.html)
+
++ [近2w好评的欢乐联机沙盒物理模拟游戏《晃晃人生》开启Steam八折优惠！](https://www.3dmgame.com/news/202404/3893182.html)
+
++ [《恶意不息》现已开启抢先体验](https://www.3dmgame.com/news/202404/3893180.html)
+
++ [多人合作生存游戏《人渣》推出最新宣传片](https://www.3dmgame.com/news/202404/3893181.html)
+
++ [《天狱乱鬪 -strayside-》亚洲中文独家加强限定版内容公开](https://www.3dmgame.com/news/202404/3893178.html)
+
++ [INDIE Live Expo 2024.5.25 正式发表节目详情！](https://www.3dmgame.com/news/202404/3893179.html)
+
++ [《波与月夜之青莲》亚洲版预定于7月18日登陆NS及PS5！](https://www.3dmgame.com/news/202404/3893177.html)
+
++ [《终远的威尔修-EpiC:lycoris-》繁体中文版预定于2024年7月25日发售！](https://www.3dmgame.com/news/202404/3893176.html)
+
++ [动作肉鸽游戏《失落城堡2》开展第二次限时免费测试，更多新内容等你体验！](https://www.3dmgame.com/news/202404/3893175.html)
+
++ [小米SU7性价比不够吗！雷军：巨亏行业不谈性价比](https://www.3dmgame.com/news/202404/3893173.html)
+

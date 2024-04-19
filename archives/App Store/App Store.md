@@ -211,3 +211,7 @@
 
 + [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
+

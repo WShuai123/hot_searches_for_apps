@@ -51,3 +51,35 @@
 
 + [GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite)
 
++ [pytorch / torchtune](https://github.com/pytorch/torchtune)
+
++ [rileytestut / Delta](https://github.com/rileytestut/Delta)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama)
+
++ [WINSDK / bite](https://github.com/WINSDK/bite)
+
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [amalshaji / portr](https://github.com/amalshaji/portr)
+
++ [meta-llama / codellama](https://github.com/meta-llama/codellama)
+
++ [recharts / recharts](https://github.com/recharts/recharts)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [typst / typst](https://github.com/typst/typst)
+
++ [MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [facebookresearch / llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool)
+
++ [boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
+

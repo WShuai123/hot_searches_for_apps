@@ -55,3 +55,7 @@
 
 + [华为 Pura 70 系列手机维修备件价格公布：新屏优惠价 1579 元起，主板 2499 元起](https://m.ithome.com/html/762774.htm)
 
++ [“宝宝巴士”MIX 首发 / 009 光辉首秀，极氪公布北京车展阵容](https://m.ithome.com/html/762770.htm)
+
++ [华为公布鸿蒙 HarmonyOS 4.2 主要亮点，全新小艺支持 AI 消除](https://m.ithome.com/html/762911.htm)
+
