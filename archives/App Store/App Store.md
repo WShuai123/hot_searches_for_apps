@@ -215,3 +215,7 @@
 
 + [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
 
++ [支出易管家](https://itunes.apple.com/cn/app/id6479736181?mt=8)
+
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+

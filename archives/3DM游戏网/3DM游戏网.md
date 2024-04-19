@@ -267,3 +267,7 @@
 
 + [小米SU7性价比不够吗！雷军：巨亏行业不谈性价比](https://www.3dmgame.com/news/202404/3893173.html)
 
++ [《天国：拯救2》更多细节：开发6年  NPC记住玩家行为](https://www.3dmgame.com/news/202404/3893184.html)
+
++ [Win11 AI资源管理器或只支持骁龙X Elite 不支持Intel或AMD处理器](https://www.3dmgame.com/news/202404/3893183.html)
+

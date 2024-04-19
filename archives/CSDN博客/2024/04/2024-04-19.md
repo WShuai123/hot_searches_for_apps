@@ -181,3 +181,13 @@
 
 + [ownips数据获取工具全面测评](https://blog.csdn.net/m0_73367097/article/details/137956087)
 
++ [免费的 ChatGPT、GPTs、AI绘画（国内版）](https://blog.csdn.net/weixin_43227851/article/details/137849432)
+
++ [Python山西太原二手房源爬虫数据可视化系统设计与实现](https://blog.csdn.net/u013818205/article/details/137877191)
+
++ [深入解析Nacos配置中心的动态配置更新技术](https://blog.csdn.net/qq_26664043/article/details/137935994)
+
++ [RAG 2.0架构详解：构建端到端检索增强生成系统](https://blog.csdn.net/m0_46510245/article/details/137959765)
+
++ [YOLOv9改进策略 | 损失函数篇 | EIoU、SIoU、WIoU、DIoU、FocusIoU等二十余种损失函数](https://blog.csdn.net/java1314777/article/details/137894326)
+
