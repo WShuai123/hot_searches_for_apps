@@ -103,3 +103,9 @@
 
 + [2K赢得詹姆斯纹身师提起的侵权诉讼](https://www.3dmgame.com/news/202404/3893239.html)
 
++ [任天堂Switch 2或采用三星第5代V-NAND](https://www.3dmgame.com/news/202404/3893242.html)
+
++ [2D日式武士对战游戏《Sclash》主机版5/2推出](https://www.3dmgame.com/news/202404/3893241.html)
+
++ [《星际争霸2》原设计师预告新RTS 夏季游戏节揭晓](https://www.3dmgame.com/news/202404/3893240.html)
+
