@@ -25,3 +25,5 @@
 
 + [微信 iOS 版 8.0.49 最新官方正式版下载发布](https://m.ithome.com/html/762831.htm)
 
++ [华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收](https://m.ithome.com/html/763018.htm)
+

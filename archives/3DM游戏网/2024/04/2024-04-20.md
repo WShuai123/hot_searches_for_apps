@@ -105,3 +105,7 @@
 
 + [EA《肯泽拉传说：扎乌》上市预告 现已正式发售](https://www.3dmgame.com/news/202404/3893192.html)
 
++ [《堕落之主》大卖 帮助CI Games实现6000万美元创纪录营收](https://www.3dmgame.com/news/202404/3893194.html)
+
++ [拉瑞安CEO谈成功之道 善待玩家、口碑制胜](https://www.3dmgame.com/news/202404/3893193.html)
+
