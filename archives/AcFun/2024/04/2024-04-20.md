@@ -101,3 +101,9 @@
 
 + [【不是梗百科】415沪厂引天雷到底是什么节奏？](http://www.acfun.cn/v/ac44358661)
 
++ [「太聪明」| 陈绮贞 (cover)](http://www.acfun.cn/v/ac44357703)
+
++ [完了这下彻底迷信了](http://www.acfun.cn/v/ac44361126)
+
++ [敢问老板，可是姓曹？](http://www.acfun.cn/v/ac44361128)
+

@@ -179,3 +179,11 @@
 
 + [暴雪前总裁盛赞《恶意不息》 融合ARPG和类魂](https://www.3dmgame.com/news/202404/3893226.html)
 
++ [科学家开发工具计算《马里奥赛车8》最佳赛车配置](https://www.3dmgame.com/news/202404/3893233.html)
+
++ [《辐射》电视剧动力装甲设计幕后：B社完全放权](https://www.3dmgame.com/news/202404/3893231.html)
+
++ [《冰汽时代2》测试版荣誉预告片 7月26日发售](https://www.3dmgame.com/news/202404/3893232.html)
+
++ [《绝地潜兵2》一周消灭20亿虫子任务仅用12小时完成](https://www.3dmgame.com/news/202404/3893230.html)
+

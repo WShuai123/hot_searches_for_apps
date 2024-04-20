@@ -47,3 +47,5 @@
 
 + [华为 Watch Fit 3 手表渲染图曝光：屏幕更方正、配有旋转表冠](https://m.ithome.com/html/763027.htm)
 
++ [我国成功掌握“次临界刻棒技术”，并成功实现工程应用](https://m.ithome.com/html/763007.htm)
+
