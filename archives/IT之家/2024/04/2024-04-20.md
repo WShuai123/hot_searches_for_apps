@@ -53,3 +53,7 @@
 
 + [腾讯游戏《暗区突围：无限》PC 国际版上架 Steam，支持繁体中文](https://m.ithome.com/html/763012.htm)
 
++ [我国实现碳-14 生产全面国产化，此前几乎全部依赖进口](https://m.ithome.com/html/763103.htm)
+
++ [谷歌 Pixel 9 Pro 真机图片曝光：Tensor G4 芯片 + 16GB 内存](https://m.ithome.com/html/763051.htm)
+

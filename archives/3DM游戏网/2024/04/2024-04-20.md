@@ -193,3 +193,7 @@
 
 + [利好PS5 Pro 《GTA6》将非常注重光追表现](https://www.3dmgame.com/news/202404/3893235.html)
 
++ [《英雄联盟》2024 LPL春季赛 BLG 3-1 TES夺冠](https://www.3dmgame.com/news/202404/3893238.html)
+
++ [《战神4》迎来发售6周年](https://www.3dmgame.com/news/202404/3893237.html)
+
