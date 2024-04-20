@@ -29,3 +29,5 @@
 
 + [小米汽车：SU7 点烟器的最大输出功率 240W，将推出新颜色车模](https://m.ithome.com/html/763131.htm)
 
++ [全新梅赛德斯-AMG C 63 / S 63 车型上市，售价 119.18 万元起](https://m.ithome.com/html/763127.htm)
+
