@@ -31,3 +31,11 @@
 
 + [消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”](https://m.ithome.com/html/763006.htm)
 
++ [值得升级吗？苹果 iPhone 16 / Plus 曝料汇总：调整后摄布局、引入操作 / 拍照按钮、A18 芯片支持本地 AI](https://m.ithome.com/html/763024.htm)
+
++ [九号智能电动车 F2z 110 上市：支持切歌、导航等，售价 5399 元](https://m.ithome.com/html/762983.htm)
+
++ [小米首款法式冰箱：米家 439L 法式冰箱上架，首发 3499 元](https://m.ithome.com/html/762996.htm)
+
++ [小米 SU7 后续 OTA 升级锥桶工况处理能力，车主账号暂不支持管理权转移](https://m.ithome.com/html/763014.htm)
+

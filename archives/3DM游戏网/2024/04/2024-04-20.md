@@ -143,3 +143,15 @@
 
 + [《绝地潜兵2》开发商目标：运营最好的实时服务游戏](https://www.3dmgame.com/news/202404/3893204.html)
 
++ [《辐射4》开发者：已尽可能减少受次世代更新影响的Mod数量](https://www.3dmgame.com/news/202404/3893217.html)
+
++ [欢乐的同屏派对游戏《间谍大作战》Steam页面 支持简中](https://www.3dmgame.com/news/202404/3893216.html)
+
++ [《恶意不息》建议玩家降低分辨率 将加入即时GPU设置](https://www.3dmgame.com/news/202404/3893215.html)
+
++ [全球首届AI选美大赛拉开帷幕：冠军将获得13000美元奖金](https://www.3dmgame.com/news/202404/3893214.html)
+
++ [《最终幻想14》跑分工具将更新 只因原版人物双眼无神](https://www.3dmgame.com/news/202404/3893213.html)
+
++ [《龙之信条2》月末推出更新减弱狂龙症：更容易发现](https://www.3dmgame.com/news/202404/3893212.html)
+
