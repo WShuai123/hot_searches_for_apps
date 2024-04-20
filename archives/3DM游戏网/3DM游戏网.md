@@ -171,3 +171,11 @@
 
 + [流媒体平台网飞订阅用户数激增至2.7亿 超出公司预期](https://www.3dmgame.com/news/202404/3893221.html)
 
++ [《毁灭战士2》速通者打破26年纪录：第一关仅用4秒](https://www.3dmgame.com/news/202404/3893229.html)
+
++ [《星刃》发布新预告片 展示伊芙各种强力Beta技能](https://www.3dmgame.com/news/202404/3893227.html)
+
++ [等待四年之后 腾讯手游《地下城与勇士》终于来了](https://www.3dmgame.com/news/202404/3893228.html)
+
++ [暴雪前总裁盛赞《恶意不息》 融合ARPG和类魂](https://www.3dmgame.com/news/202404/3893226.html)
+

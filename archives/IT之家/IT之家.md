@@ -45,3 +45,5 @@
 
 + [小米手环 9 通过多家机构认证，即将上市发布](https://m.ithome.com/html/763053.htm)
 
++ [华为 Watch Fit 3 手表渲染图曝光：屏幕更方正、配有旋转表冠](https://m.ithome.com/html/763027.htm)
+

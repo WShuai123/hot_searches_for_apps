@@ -129,3 +129,37 @@
 
 + [预处理详解](https://blog.csdn.net/2301_80802299/article/details/137935469)
 
++ [数据分析案例-中国黄金股票市场的EDA与价格预测](https://blog.csdn.net/m0_64336780/article/details/135743347)
+
++ [【大数据】bigtable，分布式数据库的鼻祖](https://blog.csdn.net/Joker_ZJN/article/details/137988452)
+
++ [AI：162-如何使用Python进行图像识别与处理深度学习与卷积神经网络的应用](https://blog.csdn.net/weixin_52908342/article/details/137964649)
+
++ [最新版的GPT-4.5-Turbo有多强](https://blog.csdn.net/xixiaoyaoww/article/details/137976874)
+
++ [Docker 部署 WordPress 并完成建站](https://blog.csdn.net/m0_73096566/article/details/137934203)
+
++ [MySQL用户管理](https://blog.csdn.net/weixin_61766635/article/details/137978421)
+
++ [hive搭建完整教学](https://blog.csdn.net/weixin_74865657/article/details/137961026)
+
++ [Redis: 在项目中的应用](https://blog.csdn.net/yuming226/article/details/137918160)
+
++ [sql知识总结二（接上）](https://blog.csdn.net/2401_82760239/article/details/137935280)
+
++ [TCP的一些功能详述](https://blog.csdn.net/HarryQUQ/article/details/137841804)
+
++ [Linux学习（嵌入式硬件知识）](https://blog.csdn.net/weixin_47273943/article/details/137975951)
+
++ [3.Python实战小项目—用Python将PDF文件转存为图片](https://blog.csdn.net/weixin_50804299/article/details/137994829)
+
++ [Python爬虫杭州天气预报数据可视化分析系统设计与实现](https://blog.csdn.net/u013818205/article/details/137875771)
+
++ [linux对网络的监控操作学习--端口、流量、IP](https://blog.csdn.net/weixin_40539956/article/details/137938104)
+
++ [如何安全、高速、有效地利用IP代理爬取数据](https://blog.csdn.net/weixin_47343544/article/details/137978100)
+
++ [华为ensp中Hybrid接口原理和配置命令](https://blog.csdn.net/jxjdhdnd/article/details/137962588)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/S18374/article/details/137870588)
+
