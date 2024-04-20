@@ -39,3 +39,5 @@
 
 + [小米 SU7 后续 OTA 升级锥桶工况处理能力，车主账号暂不支持管理权转移](https://m.ithome.com/html/763014.htm)
 
++ [淘宝 88VIP 无限次退货包运费权益升级中，最高可抵扣 25 元邮费](https://m.ithome.com/html/762921.htm)
+
