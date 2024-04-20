@@ -127,3 +127,19 @@
 
 + [《寂静岭2：重制版》男主外貌微调 看起来更年轻了](https://www.3dmgame.com/news/202404/3893198.html)
 
++ [暴雪老板称《暗黑破坏神》改编真人剧“主意不错”](https://www.3dmgame.com/news/202404/3893211.html)
+
++ [回合制太空炮兵《Gravitee Wars》Steam页面 支持简中](https://www.3dmgame.com/news/202404/3893210.html)
+
++ [《天国：拯救2》实体光盘预购 售价69.99美元](https://www.3dmgame.com/news/202404/3893209.html)
+
++ [招聘信息显示《GTA 6》更加重视光追技术效果](https://www.3dmgame.com/news/202404/3893208.html)
+
++ [《小小大星球3》服务器永久关闭 玩家创作无法访问](https://www.3dmgame.com/news/202404/3893207.html)
+
++ [传《骷髅骑士2：重制版》开发中 且即将正式发售](https://www.3dmgame.com/news/202404/3893206.html)
+
++ [《Zombie Police～圣诞节与僵尸共舞～》Steam页面 支持简体中文](https://www.3dmgame.com/news/202404/3893205.html)
+
++ [《绝地潜兵2》开发商目标：运营最好的实时服务游戏](https://www.3dmgame.com/news/202404/3893204.html)
+

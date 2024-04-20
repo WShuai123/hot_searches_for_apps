@@ -29,3 +29,5 @@
 
 + [78.9 万元起，极氪 009 光辉版上市：四座豪华纯电 MPV、800V 平台](https://m.ithome.com/html/762999.htm)
 
++ [消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”](https://m.ithome.com/html/763006.htm)
+

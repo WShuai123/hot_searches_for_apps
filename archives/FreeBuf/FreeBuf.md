@@ -47,3 +47,5 @@
 
 + [通过GitHub传播窃密木马的攻击活动分析](https://www.freebuf.com/articles/network/395369.html)
 
++ [攻防演练 | 浅谈蜜罐(hfish)的攻与防](https://www.freebuf.com/defense/376919.html)
+
