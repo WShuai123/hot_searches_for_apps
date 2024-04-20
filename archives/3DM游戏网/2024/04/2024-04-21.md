@@ -101,3 +101,5 @@
 
 + [4G确实够用！中国工程院院士：5G网速比4G快7倍 没啥用](https://www.3dmgame.com/news/202404/3893189.html)
 
++ [2K赢得詹姆斯纹身师提起的侵权诉讼](https://www.3dmgame.com/news/202404/3893239.html)
+
