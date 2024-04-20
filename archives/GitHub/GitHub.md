@@ -49,3 +49,33 @@
 
 + [boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
 
++ [meta-llama / llama3](https://github.com/meta-llama/llama3)
+
++ [code100x / chess](https://github.com/code100x/chess)
+
++ [ordinals / ord](https://github.com/ordinals/ord)
+
++ [meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes)
+
++ [sugarforever / chat-ollama](https://github.com/sugarforever/chat-ollama)
+
++ [meta-llama / llama](https://github.com/meta-llama/llama)
+
++ [timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [nasa / openmct](https://github.com/nasa/openmct)
+
++ [harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search)
+
++ [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
