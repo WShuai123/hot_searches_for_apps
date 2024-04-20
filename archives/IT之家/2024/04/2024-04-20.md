@@ -27,3 +27,5 @@
 
 + [华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收](https://m.ithome.com/html/763018.htm)
 
++ [78.9 万元起，极氪 009 光辉版上市：四座豪华纯电 MPV、800V 平台](https://m.ithome.com/html/762999.htm)
+
