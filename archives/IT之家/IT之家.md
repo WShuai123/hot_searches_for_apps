@@ -27,3 +27,5 @@
 
 + [车载动力电池的终极形态 —— 固态电池](https://m.ithome.com/html/763110.htm)
 
++ [小米汽车：SU7 点烟器的最大输出功率 240W，将推出新颜色车模](https://m.ithome.com/html/763131.htm)
+
