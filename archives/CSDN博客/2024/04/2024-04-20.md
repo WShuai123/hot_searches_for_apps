@@ -163,3 +163,27 @@
 
 + [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/S18374/article/details/137870588)
 
++ [贪吃蛇项目实战——学习详解](https://blog.csdn.net/strive_mianyang/article/details/137963046)
+
++ [云原生的基石：containerd引领未来容器发展趋势](https://blog.csdn.net/qq_32682301/article/details/138002634)
+
++ [Scala 04 —— 函数式编程底层逻辑](https://blog.csdn.net/m0_74120525/article/details/137978562)
+
++ [如何在CentOS本地搭建DataEase数据分析服务并实现远程查看数据分析](https://blog.csdn.net/2201_75743654/article/details/137996652)
+
++ [【热门话题】探索与心得：深入体验Microsoft Edge浏览器](https://blog.csdn.net/qq_44214428/article/details/137996022)
+
++ [Flask中的JWT认证构建安全的用户身份验证系统](https://blog.csdn.net/weixin_52908342/article/details/137982799)
+
++ [本地部署和运行大型语言模型（Large Language Models, LLMs）的工具Ollama](https://blog.csdn.net/inthat/article/details/137977512)
+
++ [AI大模型探索之路-应用篇17：GLM大模型-大数据自助查询平台架构实践](https://blog.csdn.net/xiaobing259/article/details/137969860)
+
++ [Python江苏南京二手房源爬虫数据可视化系统设计与实现](https://blog.csdn.net/u013818205/article/details/137876999)
+
++ [【K8S系列】深入解析K8S中PV 和PVC](https://blog.csdn.net/weixin_36755535/article/details/138003564)
+
++ [Python实现本地视频/音频播放器](https://blog.csdn.net/cnds123/article/details/137874107)
+
++ [7、docker 集群](https://blog.csdn.net/weixin_44986037/article/details/137710685)
+

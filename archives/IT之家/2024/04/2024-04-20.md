@@ -49,3 +49,7 @@
 
 + [我国成功掌握“次临界刻棒技术”，并成功实现工程应用](https://m.ithome.com/html/763007.htm)
 
++ [比亚迪的电、华为的「魂」，外资车企找到卖车「新姿势」](https://m.ithome.com/html/763077.htm)
+
++ [腾讯游戏《暗区突围：无限》PC 国际版上架 Steam，支持繁体中文](https://m.ithome.com/html/763012.htm)
+
