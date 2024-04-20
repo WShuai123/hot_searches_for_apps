@@ -101,3 +101,5 @@
 
 + [WebCurate](https://www.producthunt.com/posts/webcurate)
 
++ [Brave Search](https://www.producthunt.com/posts/brave-search)
+

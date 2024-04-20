@@ -25,3 +25,5 @@
 
 + [小鹏汽车宣布推出限时 5 亿元补贴，G9、G6、P7i、P5 四款车型可参与](https://m.ithome.com/html/763105.htm)
 
++ [车载动力电池的终极形态 —— 固态电池](https://m.ithome.com/html/763110.htm)
+
