@@ -159,3 +159,15 @@
 
 + [《疯狂麦克斯：狂暴女神》15分钟动作戏拍摄耗时78天](https://www.3dmgame.com/news/202404/3893218.html)
 
++ [《辐射》元老制作人Tim Cain再谈争议：B社就是官方](https://www.3dmgame.com/news/202404/3893225.html)
+
++ [育碧确认《彩虹六号：围攻》声望系统错误标记无辜玩家](https://www.3dmgame.com/news/202404/3893224.html)
+
++ [《F1 24》将于下月底正式发售 多版本预购信息公布](https://www.3dmgame.com/news/202404/3893223.html)
+
++ [裁员外加库存上升：特斯拉Model Y美国全系降价](https://www.3dmgame.com/news/202404/3893220.html)
+
++ [《变形金刚 起源》角色海报公布 年内上线](https://www.3dmgame.com/news/202404/3893222.html)
+
++ [流媒体平台网飞订阅用户数激增至2.7亿 超出公司预期](https://www.3dmgame.com/news/202404/3893221.html)
+
