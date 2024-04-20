@@ -155,3 +155,7 @@
 
 + [《龙之信条2》月末推出更新减弱狂龙症：更容易发现](https://www.3dmgame.com/news/202404/3893212.html)
 
++ [谷歌整合Research和 DeepMind 全力发展AI](https://www.3dmgame.com/news/202404/3893219.html)
+
++ [《疯狂麦克斯：狂暴女神》15分钟动作戏拍摄耗时78天](https://www.3dmgame.com/news/202404/3893218.html)
+

@@ -105,3 +105,25 @@
 
 + [Tabula](https://www.producthunt.com/posts/tabula-4)
 
++ [KickRender](https://www.producthunt.com/posts/kickrender)
+
++ [travelAide](https://www.producthunt.com/posts/travelaide)
+
++ [Trombonest](https://www.producthunt.com/posts/trombonest)
+
++ [PhotoPal](https://www.producthunt.com/posts/photopal)
+
++ [The Official MTA App](https://www.producthunt.com/posts/the-official-mta-app)
+
++ [Social Tooling](https://www.producthunt.com/posts/social-tooling)
+
++ [Parny](https://www.producthunt.com/posts/parny)
+
++ [Vidnoz AI 2.8](https://www.producthunt.com/posts/vidnoz-ai-2-8)
+
++ [Album Cleaner: SwipeClea](https://www.producthunt.com/posts/album-cleaner-swipeclea)
+
++ [Sphēra: Emotion Tracker](https://www.producthunt.com/posts/sphera-emotion-tracker)
+
++ [Grimo AI (Alpha)](https://www.producthunt.com/posts/grimo-ai-alpha)
+
