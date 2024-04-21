@@ -167,3 +167,13 @@
 
 + [YOLOv9改进策略 | 添加注意力篇 | 挤压和激励单元SENetV2助力YOLOv9细节涨点（全网独家首发）](https://blog.csdn.net/java1314777/article/details/138014204)
 
++ [AI：162-如何使用Python进行图像识别与处理深度学习与卷积神经网络的应用](https://blog.csdn.net/weixin_52908342/article/details/137964649)
+
++ [Spark-机器学习（3）回归学习之线性回归](https://blog.csdn.net/qq_49513817/article/details/138014891)
+
++ [Vue【路由】](https://blog.csdn.net/m0_64550837/article/details/135825287)
+
++ [Docker的使用](https://blog.csdn.net/GJ_863/article/details/137999418)
+
++ [UE5 Prediction 预测](https://blog.csdn.net/qq_30100043/article/details/137962362)
+

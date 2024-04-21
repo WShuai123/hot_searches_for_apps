@@ -55,3 +55,5 @@
 
 + [【IT之家开箱】华为 Pura 70 Pro+「光织银」图赏：光织格纹，全新风向标设计](https://m.ithome.com/html/763165.htm)
 
++ [开售 6 天直降 100 元：小米 Redmi Turbo 3 手机 1899 元起新低](https://m.ithome.com/html/763231.htm)
+

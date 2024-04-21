@@ -177,3 +177,7 @@
 
 + [《碧海黑帆》发售仅两个月 已在半价促销](https://www.3dmgame.com/news/202404/3893275.html)
 
++ [原舅舅：基利安·墨菲不会出现在《孤岛惊魂7》中](https://www.3dmgame.com/news/202404/3893277.html)
+
++ [吴彦祖、吴慷仁、刘俊谦加盟《寒战》前传](https://www.3dmgame.com/news/202404/3893278.html)
+
