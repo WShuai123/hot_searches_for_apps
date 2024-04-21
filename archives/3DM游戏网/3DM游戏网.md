@@ -121,3 +121,17 @@
 
 + [11年测试终于完结《七日杀》官方宣布6月推出正式版](https://www.3dmgame.com/news/202404/3893245.html)
 
++ [《Under Canopies》Steam页面上线 森林隐居模拟器](https://www.3dmgame.com/news/202404/3893255.html)
+
++ [沙发合作新作《赶紧送走》发售 登陆PC与主机平台](https://www.3dmgame.com/news/202404/3893254.html)
+
++ [银河恶魔城新作《Winds of Arcana: Ruination》试玩发布](https://www.3dmgame.com/news/202404/3893253.html)
+
++ [中国接入互联网30周年纪念！马化腾、雷军、周鸿祎聚首](https://www.3dmgame.com/news/202404/3893252.html)
+
++ [数毛社对比《盗贼之海》PS5和Xbox Series X版本差异](https://www.3dmgame.com/news/202404/3893251.html)
+
++ [《Subside》Steam试玩发布 VR版潜水模拟](https://www.3dmgame.com/news/202404/3893250.html)
+
++ [连年亏损！《英雄联盟》PCS赛区BYG战队宣布解散](https://www.3dmgame.com/news/202404/3893249.html)
+
