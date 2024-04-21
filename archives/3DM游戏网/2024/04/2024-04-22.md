@@ -107,3 +107,15 @@
 
 + [《鬼屋魔影：重制版》媒体赞誉宣传 90年代经典恐怖](https://www.3dmgame.com/news/202404/3893280.html)
 
++ [《星刃》官方宣布全球各版本内容统一无删减](https://www.3dmgame.com/news/202404/3893287.html)
+
++ [《宝可梦：大集结》本周新增宝可梦列阵兵](https://www.3dmgame.com/news/202404/3893286.html)
+
++ [所有NVIDIA/AMD显卡都已破发 美国有一例外](https://www.3dmgame.com/news/202404/3893285.html)
+
++ [《绝地潜兵2》开发商正在“调查”其进度跟踪问题](https://www.3dmgame.com/news/202404/3893284.html)
+
++ [《辐射76》发售数年后终于打破同时在线玩家纪录](https://www.3dmgame.com/news/202404/3893283.html)
+
++ [虚幻5打造《星球大战》概念视频展示 效果出色](https://www.3dmgame.com/news/202404/3893282.html)
+
