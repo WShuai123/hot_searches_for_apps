@@ -201,3 +201,7 @@
 
 + [东郊到家-同城预约上门按摩服务平台](https://itunes.apple.com/cn/app/id6444152990?mt=8)
 
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [快对-作业标准答案&错题本去手写&拍照翻译](https://itunes.apple.com/cn/app/id1330927814?mt=8)
+

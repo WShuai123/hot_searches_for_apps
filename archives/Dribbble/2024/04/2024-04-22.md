@@ -49,3 +49,21 @@
 
 + [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
 
++ [Fallout](https://dribbble.com/shots/)
+
++ [Spring Selfie](https://dribbble.com/shots/)
+
++ [No Risk](https://dribbble.com/shots/)
+
++ [Candy pattern for client](https://dribbble.com/shots/)
+
++ [WOW](https://dribbble.com/shots/)
+
++ [Foodie pin pal](https://dribbble.com/shots/)
+
++ [Growing Pains](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging](https://dribbble.com/shots/)
+
++ [Vilnius and Nida Travel Icons](https://dribbble.com/shots/)
+
