@@ -53,3 +53,5 @@
 
 + [Repokid：一款针对AWS的分布式最小权限高速部署工具](https://www.freebuf.com/sectool/393404.html)
 
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
