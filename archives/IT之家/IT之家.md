@@ -49,3 +49,5 @@
 
 + [魅族新机通过 3C 认证：66W 有线快充，预计为魅族 21X](https://m.ithome.com/html/763119.htm)
 
++ [2024 款奥迪 SQ5 / Sportback 车型上市：3.0 升发动机，售 59.88 万元起](https://m.ithome.com/html/763138.htm)
+
