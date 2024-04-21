@@ -51,3 +51,37 @@
 
 + [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [mudler / LocalAI](https://github.com/mudler/LocalAI)
+
++ [moest-np / center-randomize](https://github.com/moest-np/center-randomize)
+
++ [ziglang / zig](https://github.com/ziglang/zig)
+
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [twentyhq / twenty](https://github.com/twentyhq/twenty)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [langchain-ai / langgraph](https://github.com/langchain-ai/langgraph)
+
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)
+
++ [sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table)
+
++ [nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
++ [libccy / noname](https://github.com/libccy/noname)
+
++ [LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
+

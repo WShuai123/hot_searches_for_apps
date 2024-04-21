@@ -47,3 +47,5 @@
 
 + [华为 × 赛力斯，问界新 M5 官宣新车色“大溪地灰”](https://m.ithome.com/html/763166.htm)
 
++ [魅族新机通过 3C 认证：66W 有线快充，预计为魅族 21X](https://m.ithome.com/html/763119.htm)
+

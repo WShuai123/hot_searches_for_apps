@@ -167,3 +167,5 @@
 
 + [《Volt Recharge》Steam页面上线 遥控四驱赛车](https://www.3dmgame.com/news/202404/3893271.html)
 
++ [《辐射》电视剧制作设计师谈取景：在纽约和非洲完成](https://www.3dmgame.com/news/202404/3893272.html)
+
