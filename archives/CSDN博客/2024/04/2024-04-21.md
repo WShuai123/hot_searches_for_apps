@@ -101,3 +101,69 @@
 
 + [遇事不决 量子力学？](https://blog.csdn.net/Luluucy/article/details/137917995)
 
++ [现代农业AI智能化升级之路：机器学习在现代农业领域的现状与未来发展](https://blog.csdn.net/g310773517/article/details/138009826)
+
++ [探索设计模式的魅力：开启智慧之旅，AI与机器学习驱动的微服务设计模式探索](https://blog.csdn.net/danci_/article/details/137948440)
+
++ [深度解析 Spring 源码：三级缓存机制探究](https://blog.csdn.net/qq_51601665/article/details/138006834)
+
++ [【微服务】spring读取配置文件多种方式深入详解](https://blog.csdn.net/zhangcongyi420/article/details/138036907)
+
++ [Pytorch-自动微分模块](https://blog.csdn.net/qq_64685283/article/details/137831972)
+
++ [探索异常传播：深入剖析Python中的错误处理机制](https://blog.csdn.net/lph159/article/details/137976071)
+
++ [华为ensp中rip和ospf路由重分发 原理及配置命令](https://blog.csdn.net/jxjdhdnd/article/details/138009187)
+
++ [Python| 水文 |批量读取NC文件降水数据并导出为Excel相应格式](https://blog.csdn.net/weixin_67437706/article/details/137889163)
+
++ [【kubernetes组件合集】深入解析Kubernetes组件之三：client-go](https://blog.csdn.net/myTomorrow_better/article/details/137937348)
+
++ [【C++】飞机大战项目记录](https://blog.csdn.net/JLX_1/article/details/138013439)
+
++ [【优质书籍推荐】Vue.js+Node.js全栈开发实战](https://blog.csdn.net/weixin_43178406/article/details/138012314)
+
++ [车轮上的智能：探索机器学习在汽车行业的应用前景](https://blog.csdn.net/m0_68089732/article/details/138027682)
+
++ [深入OceanBase内部机制：资源隔离实现的方式总结](https://blog.csdn.net/qq_26664043/article/details/138004713)
+
++ [Elastic 网络爬虫：为你的网站添加搜索功能](https://blog.csdn.net/UbuntuTouch/article/details/138000540)
+
++ [8.网络爬虫—深入理解Ajax请求与SSL证书验证](https://blog.csdn.net/weixin_63740705/article/details/137993603)
+
++ [【Linux】对system V本地通信的内核级理解](https://blog.csdn.net/m0_74265792/article/details/138014144)
+
++ [Three.js--》探秘虚拟现实VR展厅的视觉盛宴](https://blog.csdn.net/qq_53123067/article/details/137997932)
+
++ [完成学校官网页面制作](https://blog.csdn.net/2301_81013892/article/details/137964754)
+
++ [见证历史，今天比特币减半丨PrismNET棱镜协议](https://blog.csdn.net/PrismNET/article/details/138012917)
+
++ [【计算机网络】面经](https://blog.csdn.net/qq_63231615/article/details/138001624)
+
++ [如何配置 Nginx 作为 Jenkins 的反向代理并启用 SSL 加密](https://blog.csdn.net/rubys007/article/details/137978703)
+
++ [使用pagemap工具查看某个进程虚拟地址实际映射的物理内存大小](https://blog.csdn.net/qq_41573572/article/details/137994074)
+
++ [计算机网络 -- 多人聊天室](https://blog.csdn.net/sushhsishdgsusk/article/details/137990775)
+
++ [【Hadoop】-HDFS的存储原理[4]](https://blog.csdn.net/weixin_63106307/article/details/137998385)
+
++ [一文速览Llama 3：含8B和70B、长度8K、15T训练数据、组合PPO和DPO等方法](https://blog.csdn.net/v_JULY_v/article/details/137955982)
+
++ [屏幕状态自动检测+鼠标自动操作](https://blog.csdn.net/zsllsz2022/article/details/137685260)
+
++ [外包干了6天，技术明显退步。。。](https://blog.csdn.net/yjt2045263063/article/details/137970221)
+
++ [DevOps（八）Jenkins的Maven和Git插件](https://blog.csdn.net/benshu_001/article/details/137932630)
+
++ [Python机器学习项目开发实战：可视化数据](https://blog.csdn.net/yingcai111/article/details/137948868)
+
++ [xilinx 7系列FPGA时钟布线资源](https://blog.csdn.net/u011565038/article/details/137919076)
+
++ [外包干了3天，技术退步明显.......](https://blog.csdn.net/YLF123456789000/article/details/137975430)
+
++ [Hadoop学习总结（Hive的远程服务、数据模型操作、数据操作）](https://blog.csdn.net/2202_75688394/article/details/134971542)
+
++ [YOLOv9改进策略 | 添加注意力篇 | 挤压和激励单元SENetV2助力YOLOv9细节涨点（全网独家首发）](https://blog.csdn.net/java1314777/article/details/138014204)
+

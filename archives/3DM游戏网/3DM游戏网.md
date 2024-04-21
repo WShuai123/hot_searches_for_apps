@@ -169,3 +169,7 @@
 
 + [《辐射》电视剧制作设计师谈取景：在纽约和非洲完成](https://www.3dmgame.com/news/202404/3893272.html)
 
++ [《天国：拯救2》战斗更容易上手 官方解释为何继续用CE引擎](https://www.3dmgame.com/news/202404/3893274.html)
+
++ [天玑6300移动平台悄然上架 主供入门款机型使用](https://www.3dmgame.com/news/202404/3893273.html)
+
