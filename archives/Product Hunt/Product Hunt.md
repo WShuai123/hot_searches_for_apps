@@ -105,3 +105,7 @@
 
 + [RecurseChat](https://www.producthunt.com/posts/recursechat)
 
++ [Sonnet](https://www.producthunt.com/posts/sonnet-4)
+
++ [Notion Headers](https://www.producthunt.com/posts/notion-headers-2)
+

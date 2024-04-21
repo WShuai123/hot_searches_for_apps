@@ -51,3 +51,5 @@
 
 + [XZ后门故事：初始分析](https://www.freebuf.com/articles/network/398177.html)
 
++ [Repokid：一款针对AWS的分布式最小权限高速部署工具](https://www.freebuf.com/sectool/393404.html)
+
