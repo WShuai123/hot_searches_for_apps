@@ -109,3 +109,7 @@
 
 + [《星际争霸2》原设计师预告新RTS 夏季游戏节揭晓](https://www.3dmgame.com/news/202404/3893240.html)
 
++ [《辐射76》Steam同时在线峰值已超过6万人](https://www.3dmgame.com/news/202404/3893243.html)
+
++ [基利安·墨菲可能将在《孤岛惊魂7》中饰演大反派](https://www.3dmgame.com/news/202404/3893244.html)
+
