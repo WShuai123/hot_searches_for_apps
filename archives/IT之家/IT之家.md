@@ -33,3 +33,5 @@
 
 + [3Q 大战 14 年弹指一挥间，周鸿祎、马化腾相逢一笑再握手](https://m.ithome.com/html/763140.htm)
 
++ [特斯拉全系车型在华降价，Model 3 / Y 当前 23.19 万 / 24.99 万元起售](https://m.ithome.com/html/763159.htm)
+
