@@ -21,3 +21,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [海底大猎杀](https://www.taptap.cn/app/256328)
+

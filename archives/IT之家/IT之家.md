@@ -43,3 +43,7 @@
 
 + [马斯克公开反对美国禁止 TikTok](https://m.ithome.com/html/763164.htm)
 
++ [清华教授扔出量子密码学重磅炸弹引起业界轰动，但算法被发现 Bug](https://m.ithome.com/html/763143.htm)
+
++ [华为 × 赛力斯，问界新 M5 官宣新车色“大溪地灰”](https://m.ithome.com/html/763166.htm)
+
