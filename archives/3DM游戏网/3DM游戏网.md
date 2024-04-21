@@ -135,3 +135,11 @@
 
 + [连年亏损！《英雄联盟》PCS赛区BYG战队宣布解散](https://www.3dmgame.com/news/202404/3893249.html)
 
++ [恐怖新作《The Tower on the Borderland》下月发售](https://www.3dmgame.com/news/202404/3893256.html)
+
++ [马斯克：即将把X推特应用程序集成到特斯拉汽车中](https://www.3dmgame.com/news/202404/3893257.html)
+
++ [《天国：拯救2》将创造拥有更加多元化种族的世界](https://www.3dmgame.com/news/202404/3893258.html)
+
++ [《Witching Stone》PC试玩发布 肉鸽解谜战斗迷宫](https://www.3dmgame.com/news/202404/3893259.html)
+

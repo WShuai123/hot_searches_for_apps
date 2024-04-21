@@ -39,3 +39,5 @@
 
 + [世界首套！我国为月球绘制高清地质“写真集”](https://m.ithome.com/html/763146.htm)
 
++ [北汽 × 华为：鸿蒙智行“第三界”享界 S9 中大型轿车实车曝光](https://m.ithome.com/html/763153.htm)
+
