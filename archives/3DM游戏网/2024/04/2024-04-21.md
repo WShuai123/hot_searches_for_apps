@@ -173,3 +173,7 @@
 
 + [天玑6300移动平台悄然上架 主供入门款机型使用](https://www.3dmgame.com/news/202404/3893273.html)
 
++ [维伦纽瓦：我已开始写《沙丘3》剧本](https://www.3dmgame.com/news/202404/3893276.html)
+
++ [《碧海黑帆》发售仅两个月 已在半价促销](https://www.3dmgame.com/news/202404/3893275.html)
+

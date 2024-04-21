@@ -53,3 +53,5 @@
 
 + [30 年前向 Windows 添加 ZIP 文件支持，“任务管理器之父”差点被开除](https://m.ithome.com/html/763156.htm)
 
++ [【IT之家开箱】华为 Pura 70 Pro+「光织银」图赏：光织格纹，全新风向标设计](https://m.ithome.com/html/763165.htm)
+
