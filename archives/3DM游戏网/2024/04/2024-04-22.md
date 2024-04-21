@@ -101,3 +101,9 @@
 
 + [暴雪前总裁盛赞《恶意不息》 融合ARPG和类魂](https://www.3dmgame.com/news/202404/3893226.html)
 
++ [《火山的女儿》Steam史低促销 97%好评如潮](https://www.3dmgame.com/news/202404/3893281.html)
+
++ [Windows 30年前支持ZIP格式：任务管理器之父差点被炒鱿鱼](https://www.3dmgame.com/news/202404/3893279.html)
+
++ [《鬼屋魔影：重制版》媒体赞誉宣传 90年代经典恐怖](https://www.3dmgame.com/news/202404/3893280.html)
+
