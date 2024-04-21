@@ -119,3 +119,9 @@
 
 + [虚幻5打造《星球大战》概念视频展示 效果出色](https://www.3dmgame.com/news/202404/3893282.html)
 
++ [彭博社记者称《百英雄传》杂乱断裂素质堪忧](https://www.3dmgame.com/news/202404/3893290.html)
+
++ [电影《死侍3》为最新预告片发布预告](https://www.3dmgame.com/news/202404/3893288.html)
+
++ [《星刃》公开爆发技能预告助力华丽战斗](https://www.3dmgame.com/news/202404/3893289.html)
+
