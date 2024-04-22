@@ -51,3 +51,27 @@
 
 + [LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
 
++ [open-webui / open-webui](https://github.com/open-webui/open-webui)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [unslothai / unsloth](https://github.com/unslothai/unsloth)
+
++ [alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce)
+
