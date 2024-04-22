@@ -213,3 +213,19 @@
 
 + [《星刃》女主游泳视频展示：在水里动作流畅自然](https://www.3dmgame.com/news/202404/3893330.html)
 
++ [《NBA 2K24》19.9秒杀；《极限国度》史低39](https://www.3dmgame.com/news/202404/3893342.html)
+
++ [女生报警称遭男同学脑电波窃取隐私 让人哭笑不得](https://www.3dmgame.com/news/202404/3893341.html)
+
++ [KK官方对战平台《爆战兄弟》全新PVP开战 多维策略畅快激斗](https://www.3dmgame.com/news/202404/3893340.html)
+
++ [KK官方对战平台 KKB48招募计划开启，地图宝贝由你决定！](https://www.3dmgame.com/news/202404/3893339.html)
+
++ [坠入神秘世界 解谜游戏游书《四十九把钥匙》现已开启Steam商店页面](https://www.3dmgame.com/news/202404/3893338.html)
+
++ [外媒披露肮脏秘密 苹果报废二手iPhone被销往中国](https://www.3dmgame.com/news/202404/3893337.html)
+
++ [高玩打造扑克牌大小wii游戏机 声称还能做的更小](https://www.3dmgame.com/news/202404/3893336.html)
+
++ [港服Switch会员新试玩同乐会游戏：《小骨：英雄杀手》](https://www.3dmgame.com/news/202404/3893335.html)
+

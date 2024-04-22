@@ -51,3 +51,7 @@
 
 + [华为 Mate 70 系列、Pura 80 系列手机物料采购信息曝光，超大底主摄](https://m.ithome.com/html/763335.htm)
 
++ [小米雷军：若着急购车，智界 S7 / 蔚来 ET5 / 小鹏 P7 等国内新能源车都不错](https://m.ithome.com/html/763373.htm)
+
++ [荣耀姜海荣回应华为李小龙 Magic6 与 Pura70 系列手机抓拍功能对比：见贤思齐，共同进步](https://m.ithome.com/html/763318.htm)
+
