@@ -139,3 +139,33 @@
 
 + [《索尼克X暗影世代》现已在韩国完成了分级 离发售不远了](https://www.3dmgame.com/news/202404/3893291.html)
 
++ [《巫师3》《赛博朋克2077》等源代码被公开 Mod作者狂喜](https://www.3dmgame.com/news/202404/3893308.html)
+
++ [知名演员孙艺洲真的Cos吕布了 网友：这造型绝了](https://www.3dmgame.com/news/202404/3893310.html)
+
++ [粉丝从新专辑推断泰勒·斯威夫特将出演《死侍3》中的炫音](https://www.3dmgame.com/news/202404/3893309.html)
+
++ [《百英雄传》媒体评分出炉 IGN 7分：值得一玩](https://www.3dmgame.com/news/202404/3893307.html)
+
++ [《夜莺传说》新更新0.2情报公开 下周正式上线](https://www.3dmgame.com/news/202404/3893312.html)
+
++ [手游新作《魔法少女小圆：Magia Exedra》官宣 年内上线](https://www.3dmgame.com/news/202404/3893311.html)
+
++ [《Crossing The Sands》登陆Steam 复古3D迷宫RPG](https://www.3dmgame.com/news/202404/3893306.html)
+
++ [《星刃》与女歌手BIBI联动MV幕后 妆扮造型大赞](https://www.3dmgame.com/news/202404/3893304.html)
+
++ [奇幻剧情冒险游戏《往昔童话》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893305.html)
+
++ [《死侍3》新海报公布 死侍和金刚狼难分难舍](https://www.3dmgame.com/news/202404/3893303.html)
+
++ [TGA创始人杰夫·吉斯利曝光《我们身边的狼2》新截图](https://www.3dmgame.com/news/202404/3893301.html)
+
++ [《星刃》所有国家版本都是未和谐版 国外玩家激动不已](https://www.3dmgame.com/news/202404/3893300.html)
+
++ [《燕云十六声》新特色介绍：燕云运动会 易容乔装](https://www.3dmgame.com/news/202404/3893299.html)
+
++ [手游《地下城与勇士：起源》官宣定档 5月21日上线](https://www.3dmgame.com/news/202404/3893302.html)
+
++ [《You Donut Get It》PC版免费发布 甜甜圈跑酷](https://www.3dmgame.com/news/202404/3893298.html)
+
