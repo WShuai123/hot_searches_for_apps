@@ -177,3 +177,15 @@
 
 + [12306强调 从未授权第三方平台发售火车票](https://www.3dmgame.com/news/202404/3893315.html)
 
++ [梦枕貘原作小说改编动画《饿狼传：孤狼之道》官方预告公布](https://www.3dmgame.com/news/202404/3893322.html)
+
++ [零售商泄露：《生化危机2》等游戏或将推出PS5实体版](https://www.3dmgame.com/news/202404/3893321.html)
+
++ [《Lunarium》Steam页面上线 奇幻动作冒险RPG](https://www.3dmgame.com/news/202404/3893320.html)
+
++ [微软推出新型AI工具VASA-1：可将照片转化为视频](https://www.3dmgame.com/news/202404/3893319.html)
+
++ [《最终幻想7 重生》透露 杰西原计划要请克劳德吃含有爱情魔药配方的披萨](https://www.3dmgame.com/news/202404/3893318.html)
+
++ [传闻：《索尼克：未知边境2》正在开发中](https://www.3dmgame.com/news/202404/3893317.html)
+
