@@ -239,3 +239,5 @@
 
 + [特斯拉谈第一批中国车主数人成今日对手：由衷感到开心](https://www.3dmgame.com/news/202404/3893346.html)
 
++ [AMD为RDNA 3+架构GPU准备大量固件文件 为Strix Point发布做好准备](https://www.3dmgame.com/news/202404/3893348.html)
+
