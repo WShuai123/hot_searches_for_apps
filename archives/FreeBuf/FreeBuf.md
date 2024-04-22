@@ -69,3 +69,5 @@
 
 + [立即更新！思科发布 IMC 高危漏洞 PoC](https://www.freebuf.com/news/398701.html)
 
++ [信息支援部队是一支怎样的力量？国防部解答](https://www.freebuf.com/news/398811.html)
+

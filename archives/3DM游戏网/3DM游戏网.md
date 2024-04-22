@@ -203,3 +203,13 @@
 
 + [Embracer Group宣布拆分重组 分为三家独立上市公司](https://www.3dmgame.com/news/202404/3893325.html)
 
++ [曝悉尼妹在《蜘蛛侠4》中饰演黑猫 和荷兰弟谈恋爱](https://www.3dmgame.com/news/202404/3893333.html)
+
++ [苹果四面受敌销量骤减 推出一款1800元的iPhone才是出路](https://www.3dmgame.com/news/202404/3893334.html)
+
++ [黄仁勋谈未来 人形机器人一定是主流成本也没那么高](https://www.3dmgame.com/news/202404/3893332.html)
+
++ [TikTok“不卖就禁”新法案通过 官方发声：践踏言论自由](https://www.3dmgame.com/news/202404/3893331.html)
+
++ [《星刃》女主游泳视频展示：在水里动作流畅自然](https://www.3dmgame.com/news/202404/3893330.html)
+
