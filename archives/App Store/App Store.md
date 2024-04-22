@@ -213,3 +213,7 @@
 
 + [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
 
++ [Dazz相机 - 复古胶片和CCD效果](https://itunes.apple.com/cn/app/id1422471180?mt=8)
+
++ [知乎](https://itunes.apple.com/cn/app/id432274380?mt=8)
+

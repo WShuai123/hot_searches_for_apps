@@ -57,3 +57,5 @@
 
 + [Palo Alto Networks披露PAN-OS防火墙“满分”漏洞细节](https://www.freebuf.com/news/398643.html)
 
++ [从Goby Poc标题反推金和OA 1day漏洞](https://www.freebuf.com/vuls/397702.html)
+
