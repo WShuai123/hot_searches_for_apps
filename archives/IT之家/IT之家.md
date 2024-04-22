@@ -63,3 +63,5 @@
 
 + [智界、小鹏汽车发文感谢小米雷军推荐](https://m.ithome.com/html/763418.htm)
 
++ [比亚迪：仰望 U8 满员状态下应急浮水功能仍然可用，遇内涝时不能当船开](https://m.ithome.com/html/763264.htm)
+
