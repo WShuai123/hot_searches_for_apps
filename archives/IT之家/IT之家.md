@@ -33,3 +33,5 @@
 
 + [小米 Redmi MAX 100 英寸电视 2025 款开售：4K 144Hz，售价 8999 元](https://m.ithome.com/html/763223.htm)
 
++ [华为 Pura 70 / Pro + 手机今日开售：5499 元起](https://m.ithome.com/html/763250.htm)
+

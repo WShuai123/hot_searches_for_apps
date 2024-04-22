@@ -45,3 +45,9 @@
 
 + [学术派分析：大语言模型（LLM）的长文本之罪，AI模型无一幸免](https://www.freebuf.com/articles/paper/398416.html)
 
++ [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
+
++ [安全编排自动化响应SOAR项目实践经验总结 | 实施篇](https://www.freebuf.com/articles/es/397140.html)
+
++ [大语言模型（LLM）漏洞爆发，AI模型无一幸免](https://www.freebuf.com/articles/paper/398416.html)
+

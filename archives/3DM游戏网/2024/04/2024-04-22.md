@@ -125,3 +125,17 @@
 
 + [《星刃》公开爆发技能预告助力华丽战斗](https://www.3dmgame.com/news/202404/3893289.html)
 
++ [传闻：育碧《看门狗》系列已被雪藏 所有项目都被取消](https://www.3dmgame.com/news/202404/3893297.html)
+
++ [结束抢先体验后 主机玩家需再次购买《七日杀》正式版](https://www.3dmgame.com/news/202404/3893295.html)
+
++ [《Darwake》Steam试玩上线 恶梦解谜动作新游](https://www.3dmgame.com/news/202404/3893296.html)
+
++ [《星刃》可在沙特阿拉伯发售 现已通过年龄分级](https://www.3dmgame.com/news/202404/3893294.html)
+
++ [《赛博朋克2077》新路径追踪Mod演示 画面太逼真](https://www.3dmgame.com/news/202404/3893293.html)
+
++ [《DOTA2》TI双冠王Team Spirit现已入驻微博](https://www.3dmgame.com/news/202404/3893292.html)
+
++ [《索尼克X暗影世代》现已在韩国完成了分级 离发售不远了](https://www.3dmgame.com/news/202404/3893291.html)
+

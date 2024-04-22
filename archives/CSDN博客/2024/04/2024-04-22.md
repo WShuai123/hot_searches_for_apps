@@ -101,3 +101,35 @@
 
 + [UE5 Prediction 预测](https://blog.csdn.net/qq_30100043/article/details/137962362)
 
++ [Pytorch实现线性回归模型](https://blog.csdn.net/qq_64685283/article/details/137979851)
+
++ [【Linux】系统安全及应用](https://blog.csdn.net/weixin_68840588/article/details/138040179)
+
++ [K8s RBAC认证授权深度解析](https://blog.csdn.net/weixin_53269650/article/details/137961468)
+
++ [基于卷积神经网络的垃圾图像分类系统研究与实现](https://blog.csdn.net/weixin_40651515/article/details/138016522)
+
++ [【Spring Boot】掌握Spring Boot：深入解析配置文件的使用与管理](https://blog.csdn.net/smile_sundays/article/details/137992366)
+
++ [prompt提示工程](https://blog.csdn.net/qq_36372352/article/details/138027055)
+
++ [DateTimeFormat 和 JsonFormat 应用场景详解](https://blog.csdn.net/qq_44866828/article/details/137833104)
+
++ [什么是0-day漏洞，怎么防护0-day漏洞攻击](https://blog.csdn.net/dexunyun/article/details/138031359)
+
++ [【FFmpeg】视频与图片互相转换 ( 视频与 JPG 静态图片互相转换 | 视频与 GIF 动态图片互相转换 )](https://blog.csdn.net/han1202012/article/details/138043134)
+
++ [Elasticsearch 开放 inference API 增加了对 OpenAI chat completions 的支持](https://blog.csdn.net/UbuntuTouch/article/details/138035618)
+
++ [浏览器原理 之 浏览器安全](https://blog.csdn.net/sinat_37168842/article/details/138002146)
+
++ [【亲测有效】Tuxera ntfs 2023破解版|激活码|注册码分享 破解教程 Tuxera ntfs 2023百度云下载](https://blog.csdn.net/2301_81704405/article/details/137999200)
+
++ [【数学建模】优劣解距离法Topsis模型（含MATLAB代码）](https://blog.csdn.net/2401_83283514/article/details/138010536)
+
++ [【第34天】SQL进阶-SQL高级技巧-Window Funtion（SQL 小虚竹)](https://blog.csdn.net/shi_hong_fei_hei/article/details/138015157)
+
++ [【Linux系统化学习】线程控制](https://blog.csdn.net/qq_55119554/article/details/138015107)
+
++ [Vue3+TS版本Uniapp：项目前置操作](https://blog.csdn.net/weixin_44001222/article/details/138025280)
+
