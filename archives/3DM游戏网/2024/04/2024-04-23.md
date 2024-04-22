@@ -101,3 +101,5 @@
 
 + [《You Donut Get It》PC版免费发布 甜甜圈跑酷](https://www.3dmgame.com/news/202404/3893298.html)
 
++ [新一期Xbox发布会4月30日举行 介绍独立游戏情报](https://www.3dmgame.com/news/202404/3893352.html)
+
