@@ -111,3 +111,7 @@
 
 + [《指环王：夏尔传说》公布 秋季登陆各大平台](https://www.3dmgame.com/news/202404/3893353.html)
 
++ [因任天堂要求独占萨姆斯未能加入《堡垒之夜》](https://www.3dmgame.com/news/202404/3893358.html)
+
++ [《暗喻幻想》第3波预告曝光10月11日发售](https://www.3dmgame.com/news/202404/3893357.html)
+
