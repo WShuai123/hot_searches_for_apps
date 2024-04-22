@@ -49,3 +49,5 @@
 
 + [最高降 3 万元，理想 L7 / L8 / L9 / MEGA 全线产品降价](https://m.ithome.com/html/763268.htm)
 
++ [华为 Mate 70 系列、Pura 80 系列手机物料采购信息曝光，超大底主摄](https://m.ithome.com/html/763335.htm)
+

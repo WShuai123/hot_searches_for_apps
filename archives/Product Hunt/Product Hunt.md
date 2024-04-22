@@ -115,3 +115,11 @@
 
 + [Climatize](https://www.producthunt.com/posts/climatize)
 
++ [Radar By Paved](https://www.producthunt.com/posts/radar-by-paved)
+
++ [Chat with Meta Llama 3](https://www.producthunt.com/posts/chat-with-meta-llama-3)
+
++ [mood.camera](https://www.producthunt.com/posts/mood-camera)
+
++ [ServBay](https://www.producthunt.com/posts/servbay-2)
+

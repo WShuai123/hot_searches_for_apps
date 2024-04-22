@@ -65,3 +65,7 @@
 
 + [帮会激励计划：更新笔记，赚流量与现金补助](https://www.freebuf.com/fevents/398718.html)
 
++ [攻防演练|记一次对xx教育局攻防总结](https://www.freebuf.com/articles/web/373268.html)
+
++ [立即更新！思科发布 IMC 高危漏洞 PoC](https://www.freebuf.com/news/398701.html)
+
