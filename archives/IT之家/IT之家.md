@@ -55,3 +55,7 @@
 
 + [荣耀姜海荣回应华为李小龙 Magic6 与 Pura70 系列手机抓拍功能对比：见贤思齐，共同进步](https://m.ithome.com/html/763318.htm)
 
++ [受屏幕绿线困扰，三星印度公司为 Galaxy S21 / S22 手机用户免费换屏](https://m.ithome.com/html/763241.htm)
+
++ [国铁集团：从未授权任何第三方平台发售火车票](https://m.ithome.com/html/763317.htm)
+
