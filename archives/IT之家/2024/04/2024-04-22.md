@@ -31,3 +31,5 @@
 
 + [理想 L6 车型 72 小时定单突破 10000 辆，小象灰车漆最受欢迎](https://m.ithome.com/html/763246.htm)
 
++ [小米 Redmi MAX 100 英寸电视 2025 款开售：4K 144Hz，售价 8999 元](https://m.ithome.com/html/763223.htm)
+
