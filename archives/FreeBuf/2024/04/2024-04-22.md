@@ -59,3 +59,9 @@
 
 + [从Goby Poc标题反推金和OA 1day漏洞](https://www.freebuf.com/vuls/397702.html)
 
++ [macSubstrate：一款针对macOS的代码注入和打桩测试工具](https://www.freebuf.com/sectool/394642.html)
+
++ [立即更新！思科针对 IMC 漏洞发布 PoC 漏洞利用程序](https://www.freebuf.com/news/398701.html)
+
++ [帮会激励计划：更新笔记，赚流量与现金补助](https://www.freebuf.com/fevents/398718.html)
+

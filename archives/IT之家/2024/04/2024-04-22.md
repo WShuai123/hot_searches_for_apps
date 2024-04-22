@@ -45,3 +45,7 @@
 
 + [小米汽车明日开始公布 2024 北京车展相关安排，雷军将到现场交流](https://m.ithome.com/html/763244.htm)
 
++ [开售 6 天直降 100 元：小米 Redmi Turbo 3 手机 1899 元起新低（已结束）](https://m.ithome.com/html/763231.htm)
+
++ [最高降 3 万元，理想 L7 / L8 / L9 / MEGA 全线产品降价](https://m.ithome.com/html/763268.htm)
+
