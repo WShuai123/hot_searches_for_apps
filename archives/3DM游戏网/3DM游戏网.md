@@ -229,3 +229,9 @@
 
 + [港服Switch会员新试玩同乐会游戏：《小骨：英雄杀手》](https://www.3dmgame.com/news/202404/3893335.html)
 
++ [《鬼泣5》维吉尔战斗曲《Bury the Light》播放量过亿](https://www.3dmgame.com/news/202404/3893345.html)
+
++ [《绝地潜兵2》或登陆Xbox 索尼已进行早期谈判](https://www.3dmgame.com/news/202404/3893344.html)
+
++ [AI产业带动大容量HDD需求 希捷跟进西部数据涨价](https://www.3dmgame.com/news/202404/3893343.html)
+

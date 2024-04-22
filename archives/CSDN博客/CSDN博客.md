@@ -133,3 +133,57 @@
 
 + [Vue3+TS版本Uniapp：项目前置操作](https://blog.csdn.net/weixin_44001222/article/details/138025280)
 
++ [【Spring Cloud】服务容错中间件Sentinel进阶——五大规则](https://blog.csdn.net/Qingai521/article/details/137552440)
+
++ [SpringCloud-搭建XXL-JOB任务调度平台教程](https://blog.csdn.net/weixin_41793160/article/details/138048939)
+
++ [【Rust】——通过Deref trait将智能指针当作常规引用处理](https://blog.csdn.net/shsjssnn/article/details/136822256)
+
++ [【机器学习】特征筛选：提升模型性能的关键步骤](https://blog.csdn.net/qq_38614074/article/details/138078097)
+
++ [AI大模型探索之路-实战篇3：基于私有模型GLM-企业级知识库开发实战](https://blog.csdn.net/xiaobing259/article/details/138021649)
+
++ [大模型改变了NLP的游戏规则了吗](https://blog.csdn.net/m0_68111267/article/details/137977752)
+
++ [【机器学习】各大模型原理简介](https://blog.csdn.net/m0_68662723/article/details/138082359)
+
++ [.Net4.0 Web.config 配置实践](https://blog.csdn.net/michaelline/article/details/138065042)
+
++ [【prometheus】k8s集群部署AlertManager实现邮件和钉钉告警](https://blog.csdn.net/qq_35995514/article/details/138046738)
+
++ [从头开始构建自己的 GPT 大型语言模型](https://blog.csdn.net/gongdiwudu/article/details/138034471)
+
++ [spring boot3单模块项目工程搭建-上（个人开发模板）](https://blog.csdn.net/qq_62262918/article/details/138050959)
+
++ [AIGC时代动手学自然语言处理的不二之作](https://blog.csdn.net/herosunly/article/details/137980791)
+
++ [芋道SpringBoot配置Maven、创建SpringBoot项目、创建Web接口、读取配置信息](https://blog.csdn.net/s445320/article/details/138043303)
+
++ [7.机器学习-十大算法之一拉索回归（Lasso）算法原理讲解](https://blog.csdn.net/weixin_50804299/article/details/137924219)
+
++ [计算机网络—TCP协议详解：协议构成、深度解析（3）](https://blog.csdn.net/weixin_64038246/article/details/138071755)
+
++ [PostgreSQL大版本如何升级？](https://blog.csdn.net/weixin_41645135/article/details/138055980)
+
++ [文本嵌入新方案：合合信息acge模型荣登C-MTEB榜首](https://blog.csdn.net/FRIGIDWINTER/article/details/137926842)
+
++ [第一篇【传奇开心果系列】Python的游戏库pygame技术点案例示例：深度解读实战开发飞机大战经典游戏案例](https://blog.csdn.net/jackchuanqi/article/details/138056959)
+
++ [Redis系列5：深入分析Cluster 集群模式](https://blog.csdn.net/Ly768768/article/details/138026858)
+
++ [【NumPy】一文向您详细介绍 np.log10](https://blog.csdn.net/qq_41813454/article/details/138049466)
+
++ [经典机器学习算法——决策树](https://blog.csdn.net/zhengzhaoyang122/article/details/138007987)
+
++ [Python 实现视频去抖动技术](https://blog.csdn.net/weixin_52908342/article/details/138033649)
+
++ [SpringBootWeb请求](https://blog.csdn.net/weixin_51768441/article/details/137987988)
+
++ [【Spring Security系列】Spring Security整合JWT：构建安全的Web应用](https://blog.csdn.net/qq_53847859/article/details/137940106)
+
++ [冯唐成事心法笔记](https://blog.csdn.net/Liuqz2009/article/details/138076735)
+
++ [解析 IP（IPv4）地址](https://blog.csdn.net/m0_74037729/article/details/138030942)
+
++ [【Linux】在centos快速搭建K8S1.18集群](https://blog.csdn.net/2302_76195174/article/details/138040694)
+

@@ -59,3 +59,7 @@
 
 + [国铁集团：从未授权任何第三方平台发售火车票](https://m.ithome.com/html/763317.htm)
 
++ [18:08 补货速抢：华为 Pura 70 / Pro + 手机京东再开售手慢无](https://m.ithome.com/html/763281.htm)
+
++ [智界、小鹏汽车发文感谢小米雷军推荐](https://m.ithome.com/html/763418.htm)
+
