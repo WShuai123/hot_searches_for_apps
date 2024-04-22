@@ -51,3 +51,9 @@
 
 + [大语言模型（LLM）漏洞爆发，AI模型无一幸免](https://www.freebuf.com/articles/paper/398416.html)
 
++ [Akira 勒索软件肆虐，250 多家机构惨遭毒手](https://www.freebuf.com/news/398648.html)
+
++ [GPT-4 会自己发起漏洞攻击，成功率高达87%](https://www.freebuf.com/news/398651.html)
+
++ [Palo Alto Networks披露PAN-OS防火墙“满分”漏洞细节](https://www.freebuf.com/news/398643.html)
+

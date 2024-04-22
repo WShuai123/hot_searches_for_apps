@@ -169,3 +169,7 @@
 
 + [《You Donut Get It》PC版免费发布 甜甜圈跑酷](https://www.3dmgame.com/news/202404/3893298.html)
 
++ [多人派对游戏《猛兽派对》即将推出全新模式：猛兽大乱斗](https://www.3dmgame.com/news/202404/3893314.html)
+
++ [像素动作类肉鸽游戏《蚁眼还眼》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893313.html)
+
