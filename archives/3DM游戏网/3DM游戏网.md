@@ -103,3 +103,11 @@
 
 + [新一期Xbox发布会4月30日举行 介绍独立游戏情报](https://www.3dmgame.com/news/202404/3893352.html)
 
++ [《最终幻想7：重制版》第三部将为新角色谢幕](https://www.3dmgame.com/news/202404/3893356.html)
+
++ [《英灵神殿》“灰烬之地”全新升级已开启公测](https://www.3dmgame.com/news/202404/3893355.html)
+
++ [真女神转生系列设计师金子一马从ATLUS离职](https://www.3dmgame.com/news/202404/3893354.html)
+
++ [《指环王：夏尔传说》公布 秋季登陆各大平台](https://www.3dmgame.com/news/202404/3893353.html)
+
