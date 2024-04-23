@@ -209,3 +209,27 @@
 
 + [Atlus首次大型粉丝活动“Atlus Fes”6月8日开启 提供现场试玩](https://www.3dmgame.com/news/202404/3893405.html)
 
++ [《风之岛》2025年登陆多平台 开放世界探索冒险](https://www.3dmgame.com/news/202404/3893414.html)
+
++ [KK官方对战平台RPG地图淘金计划二期席卷而来 再次踏上淘金之路！](https://www.3dmgame.com/news/202404/3893417.html)
+
++ [重组后 Embracer首席执行官至少将任职至2041年](https://www.3dmgame.com/news/202404/3893416.html)
+
++ [《使命召唤 手游》MG42神话皮肤泄露 枪皮含有动态二战战场](https://www.3dmgame.com/news/202404/3893415.html)
+
++ [免费游玩！《小骨：英雄杀手》加入港服NS试玩同乐会](https://www.3dmgame.com/news/202404/3893413.html)
+
++ [《原神》角色演示-「阿蕾奇诺：摇篮曲」](https://www.3dmgame.com/news/202404/3893412.html)
+
++ [Krafton收购独立游戏《永恒天空》开发商少数股权](https://www.3dmgame.com/news/202404/3893411.html)
+
++ [肉鸽动作游戏《深渊之影》抢先体验版发售 添加全新内容](https://www.3dmgame.com/news/202404/3893410.html)
+
++ [肉鸽游戏《灾变Z计划》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3893409.html)
+
++ [《怪物猎人 Now》累计下载量突破1500万 官方送限定礼物](https://www.3dmgame.com/news/202404/3893408.html)
+
++ [任天堂Switch黄金周促销活动开启 多款游戏最大75%优惠](https://www.3dmgame.com/news/202404/3893407.html)
+
++ [日本朝日电视台票选动漫歌曲排行 外国人最爱《残酷天使的行动纲领》](https://www.3dmgame.com/news/202404/3893406.html)
+

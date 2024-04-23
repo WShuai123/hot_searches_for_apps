@@ -103,3 +103,33 @@
 
 + [ASTRID by Prezent](https://www.producthunt.com/posts/astrid-by-prezent)
 
++ [bentolingo](https://www.producthunt.com/posts/bentolingo-2)
+
++ [Paybcn](https://www.producthunt.com/posts/paybcn)
+
++ [Wealth Beacon](https://www.producthunt.com/posts/wealth-beacon)
+
++ [Kreatli](https://www.producthunt.com/posts/kreatli)
+
++ [Teddy Party](https://www.producthunt.com/posts/teddy-party)
+
++ [HylaSnap](https://www.producthunt.com/posts/hylasnap)
+
++ [Psychpedia](https://www.producthunt.com/posts/psychpedia)
+
++ [NeoPaths](https://www.producthunt.com/posts/neopaths)
+
++ [Light Meter Ultra](https://www.producthunt.com/posts/light-meter-ultra)
+
++ [GA Widgets](https://www.producthunt.com/posts/ga-widgets)
+
++ [Fellow Aiden Precision Coffee Maker](https://www.producthunt.com/posts/fellow-aiden-precision-coffee-maker)
+
++ [HAY's DX Platform](https://www.producthunt.com/posts/hay-devex)
+
++ [SecBrain AI](https://www.producthunt.com/posts/secbrain-ai)
+
++ [Insights by Ayraa](https://www.producthunt.com/posts/insights-by-ayraa-2)
+
++ [ArDrive](https://www.producthunt.com/posts/ardrive-2)
+
