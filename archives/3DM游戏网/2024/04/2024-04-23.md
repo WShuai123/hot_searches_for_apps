@@ -183,3 +183,19 @@
 
 + [《命运2：终焉之形》“进入旅行者”中配预告发布](https://www.3dmgame.com/news/202404/3893380.html)
 
++ [英特尔与美国国防部深化合作 采用18A工艺生产芯片](https://www.3dmgame.com/news/202404/3893398.html)
+
++ [《死亡之夜》7月Steam正式推出 5月大型更新上线](https://www.3dmgame.com/news/202404/3893399.html)
+
++ [《辐射》剧集炒热B社游戏 Mod下载大增N站压力大](https://www.3dmgame.com/news/202404/3893400.html)
+
++ [《时空幻境》周年版Steam页面上线 5月14日发售](https://www.3dmgame.com/news/202404/3893393.html)
+
++ [悬疑推理游戏《揭开铁证》现已上架Steam平台 2024年第二季度推出](https://www.3dmgame.com/news/202404/3893394.html)
+
++ [玩家《星刃》试玩版耗时60小时 升满女主角所有技能](https://www.3dmgame.com/news/202404/3893395.html)
+
++ [特斯拉Cybertruck儿童车开售 万元价格能跑19公里](https://www.3dmgame.com/news/202404/3893396.html)
+
++ [《黑神话：悟空》港服PS商店页面上线 暂时无法购买](https://www.3dmgame.com/news/202404/3893397.html)
+
