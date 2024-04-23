@@ -199,3 +199,11 @@
 
 + [《黑神话：悟空》港服PS商店页面上线 暂时无法购买](https://www.3dmgame.com/news/202404/3893397.html)
 
++ [微软招揽前Meta高管 增强其人工智能超级计算团队实力](https://www.3dmgame.com/news/202404/3893401.html)
+
++ [《魔兽世界》总监表示 “地心之战”将为龙希尔解锁更多职业](https://www.3dmgame.com/news/202404/3893402.html)
+
++ [《绝地潜兵2》新任务太难引不满 开发者：不能怪我们](https://www.3dmgame.com/news/202404/3893403.html)
+
++ [提车三天特斯拉中国突然降价一万四 车主：太疼了](https://www.3dmgame.com/news/202404/3893404.html)
+
