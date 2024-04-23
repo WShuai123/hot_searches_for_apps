@@ -253,3 +253,21 @@
 
 + [《星刃》官方Web动态漫画公开 讲述伊芙降临地球前外传故事](https://www.3dmgame.com/news/202404/3893420.html)
 
++ [余承东：问界新M5外号陆地小坦克 实战没输过！](https://www.3dmgame.com/news/202404/3893435.html)
+
++ [网易未成年人劳动节假期限玩通知 共9小时](https://www.3dmgame.com/news/202404/3893436.html)
+
++ [警校携手 开展打击网络谣言，反对网络暴力及抵制校园欺凌主题活动](https://www.3dmgame.com/news/202404/3893431.html)
+
++ [格斗游戏《饿狼传说：狼之城》将在EVO日本2024上提供试玩](https://www.3dmgame.com/news/202404/3893432.html)
+
++ [国风剧情冒险RPG《命定奇谭》4月23日正式发售](https://www.3dmgame.com/news/202404/3893433.html)
+
++ [《乐高堡垒之夜》新更新农场伙伴上线 增加动物村民上限](https://www.3dmgame.com/news/202404/3893434.html)
+
++ [抖音最受欢迎10大名著排行：《西游记》排第三](https://www.3dmgame.com/news/202404/3893428.html)
+
++ [斗鱼大批头部主播停播 市值已蒸发超90%](https://www.3dmgame.com/news/202404/3893429.html)
+
++ [国民级重磅应用！铁路12306完成华为鸿蒙原生应用核心版本开发](https://www.3dmgame.com/news/202404/3893430.html)
+

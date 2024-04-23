@@ -49,3 +49,7 @@
 
 + [24.98 万元起，AITO 问界新 M5 正式发布：全系标配华为高阶智驾](https://m.ithome.com/html/763652.htm)
 
++ [雷军公布今年小米汽车 SU7 交付目标：超过 10 万台](https://m.ithome.com/html/763554.htm)
+
++ [16G+512G 仅 2199 元：Redmi K60 至尊版手机京东百亿补贴新低](https://m.ithome.com/html/763525.htm)
+
