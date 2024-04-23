@@ -131,3 +131,39 @@
 
 + [亚马逊---设计安全架构](https://blog.csdn.net/weixin_74923758/article/details/137961768)
 
++ [【圆桌论坛】个人作为嘉宾参与问答环节的总结，Create 2024百度AI开发者大会之AI智能体开发与应用论坛](https://blog.csdn.net/lmy_520/article/details/138015978)
+
++ [智能时代 | 合合信息Embedding模型荣获C-MTEB榜单第一](https://blog.csdn.net/m0_61933976/article/details/137937085)
+
++ [操作系统安全：Windows与Linux的安全标识符，身份鉴别和访问控制](https://blog.csdn.net/wangyuxiang946/article/details/137705290)
+
++ [【MySQL】SQL优化](https://blog.csdn.net/m0_72406127/article/details/138087366)
+
++ [合合信息Embedding模型：引领中文文本向量化技术新高度](https://blog.csdn.net/qq_57421630/article/details/137960421)
+
++ [第⑯讲：Ceph集群Pool资源池管理以及PG的数据分布的核心技术要点](https://blog.csdn.net/weixin_44953658/article/details/138107928)
+
++ [【Linux】权限（shell运行原理、概念，Linux权限）](https://blog.csdn.net/qinjh_/article/details/137149038)
+
++ [Barnes-Hut t-SNE:大规模数据的高效降维算法](https://blog.csdn.net/m0_46510245/article/details/138113744)
+
++ [Spark-机器学习（4）回归学习之逻辑回归](https://blog.csdn.net/qq_49513817/article/details/138049507)
+
++ [基于K-means和FCM算法的合成纹理图像及SAR图像的分割](https://blog.csdn.net/qq_46009046/article/details/136990090)
+
++ [Linux使用Docker部署DashDot访问本地服务器面板](https://blog.csdn.net/Tiam_cr/article/details/138095986)
+
++ [项目大集成](https://blog.csdn.net/MCB134/article/details/137977266)
+
++ [Elasticsearch：崭新的打分机制 - Learning To Rank (LTR)](https://blog.csdn.net/UbuntuTouch/article/details/138066503)
+
++ [【数据库系列】NebulaGraph部署与使用](https://blog.csdn.net/qyj19920704/article/details/138096509)
+
++ [从零开始精通RTSP之深入理解RTCP协议](https://blog.csdn.net/hope_wisdom/article/details/138040672)
+
++ [【黑马头条】-day12项目部署和发布-jenkins](https://blog.csdn.net/qq_45400167/article/details/138073498)
+
++ [数学分析复习：洛必达法则、泰勒公式](https://blog.csdn.net/2301_76884115/article/details/138067727)
+
++ [Linux系统安全及应用](https://blog.csdn.net/2301_82109773/article/details/138017878)
+

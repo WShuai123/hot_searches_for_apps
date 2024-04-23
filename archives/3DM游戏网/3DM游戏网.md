@@ -279,3 +279,5 @@
 
 + [传RX 8000系列显存继续使用GDDR6 而非GDDR7](https://www.3dmgame.com/news/202404/3893439.html)
 
++ [特斯拉砍掉美国营销团队 马斯克直言广告没特色](https://www.3dmgame.com/news/202404/3893441.html)
+
