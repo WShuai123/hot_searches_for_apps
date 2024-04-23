@@ -41,3 +41,7 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/398526.html)
 
++ [FreeBuf早报 | Akira团伙勒索4200万美元；美国政府成功举办第九次网络风暴演习](https://www.freebuf.com/news/398658.html)
+
++ [一次收获颇丰的Google漏洞挖掘旅程](https://www.freebuf.com/articles/paper/398295.html)
+
