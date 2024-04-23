@@ -27,3 +27,11 @@
 
 + [铁路 12306：不存在纵容“买长乘短”的情况](https://m.ithome.com/html/763459.htm)
 
++ [水月雨首款手机外观公布：提供 3.5mm、4.4mm 耳机孔，4 月 25 日上市](https://m.ithome.com/html/763475.htm)
+
++ [小米汽车回应 SU7 车机 App 卸载、安全气囊等相关问题](https://m.ithome.com/html/763484.htm)
+
++ [小米 10 Pro / Ultra 手机推送基于安卓 13 的澎湃 HyperOS 正式版更新](https://m.ithome.com/html/763340.htm)
+
++ [百度地图 V20 即将登陆特斯拉、华为智能座舱、极越，号称“成为 3 亿车的标配”](https://m.ithome.com/html/763429.htm)
+

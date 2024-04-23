@@ -209,3 +209,5 @@
 
 + [星芽短剧-热门全网短剧随意看](https://itunes.apple.com/cn/app/id6460586819?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+

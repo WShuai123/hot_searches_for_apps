@@ -123,3 +123,37 @@
 
 + [支持4人对战《高尔夫之家2》今夏登陆多平台](https://www.3dmgame.com/news/202404/3893360.html)
 
++ [Meta面向第三方硬件开放Quest VR头显操作系统](https://www.3dmgame.com/news/202404/3893370.html)
+
++ [《星露谷物语》新中文翻译引玩家不满 作者致歉承诺恢复](https://www.3dmgame.com/news/202404/3893371.html)
+
++ [《星刃》与《血源》下梯子动画对比 女孩优雅得体](https://www.3dmgame.com/news/202404/3893372.html)
+
++ [《七日杀》2.5折开启 正式版涨价前的最后优惠](https://www.3dmgame.com/news/202404/3893373.html)
+
++ [多人策略合作游戏《众神的奇思妙想》现已登录Steam平台](https://www.3dmgame.com/news/202404/3893374.html)
+
++ [《绝区零》“喧响测试”已开启 本作7月4日上线](https://www.3dmgame.com/news/202404/3893378.html)
+
++ [纹身艺术家起诉Take-Two案判决：游戏詹姆斯纹身未侵权](https://www.3dmgame.com/news/202404/3893375.html)
+
++ [《怪物猎人：崛起》开发原画 怪物和武器设定图赏](https://www.3dmgame.com/news/202404/3893376.html)
+
++ [《暗喻幻想》实体典藏版内容揭晓 售价150美元](https://www.3dmgame.com/news/202404/3893377.html)
+
++ [《铁拳8》微交易惹众怒 Steam评价降为多半差评](https://www.3dmgame.com/news/202404/3893379.html)
+
++ [超自然射击游戏《埃尔帕索，身在他处》将改编真人作品](https://www.3dmgame.com/news/202404/3893366.html)
+
++ [《CONVRGENCE》Steam抢先体验 VRFPS探索](https://www.3dmgame.com/news/202404/3893367.html)
+
++ [未售先火！《庄园领主》Steam愿望单超300万](https://www.3dmgame.com/news/202404/3893368.html)
+
++ [城市建造策略模拟游戏《铁路先驱》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893369.html)
+
++ [暴雪在世界地球日捐赠三千万只蛆 以拯救鸟类](https://www.3dmgame.com/news/202404/3893363.html)
+
++ [《死亡岛2》PC结束Epic独占 现已登陆了Steam](https://www.3dmgame.com/news/202404/3893364.html)
+
++ [索尼申请“自动游戏”功能专利：让AI代跑图或练级](https://www.3dmgame.com/news/202404/3893365.html)
+

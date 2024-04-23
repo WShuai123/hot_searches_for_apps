@@ -45,3 +45,5 @@
 
 + [一次收获颇丰的Google漏洞挖掘旅程](https://www.freebuf.com/articles/paper/398295.html)
 
++ [不太常见的Windows本地提权方法一览](https://www.freebuf.com/defense/397357.html)
+
