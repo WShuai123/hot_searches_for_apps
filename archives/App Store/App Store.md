@@ -219,3 +219,5 @@
 
 + [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
 
++ [数字人民币（试点版）](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+

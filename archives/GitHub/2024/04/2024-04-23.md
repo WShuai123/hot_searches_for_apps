@@ -51,3 +51,31 @@
 
 + [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
++ [ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
++ [LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
+
++ [CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)
+
++ [mishushakov / llm-scraper](https://github.com/mishushakov/llm-scraper)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [HqWu-HITCS / Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+
++ [bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)
+
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [ziglang / zig](https://github.com/ziglang/zig)
+
++ [InternLM / xtuner](https://github.com/InternLM/xtuner)
+
++ [mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent)
+
++ [LLM-Red-Team / kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
+
++ [jxnl / instructor](https://github.com/jxnl/instructor)
+

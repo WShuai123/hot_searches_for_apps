@@ -53,3 +53,5 @@
 
 + [16G+512G 仅 2199 元：Redmi K60 至尊版手机京东百亿补贴新低](https://m.ithome.com/html/763525.htm)
 
++ [鸿蒙智行第三界“享界”官宣：首款行政级豪华旗舰轿车 S9 北京车展亮相，7-8 月上市](https://m.ithome.com/html/763659.htm)
+

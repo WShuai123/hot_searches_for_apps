@@ -55,3 +55,7 @@
 
 + [拒绝支付！ 2024 年第一季度勒索赎金支付比例降至历史新低](https://www.freebuf.com/news/398976.html)
 
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+
++ [差点让谷歌赔50亿，“无痕模式”真的无痕？](https://www.freebuf.com/articles/neopoints/399058.html)
+
