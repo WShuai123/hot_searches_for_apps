@@ -281,3 +281,13 @@
 
 + [特斯拉砍掉美国营销团队 马斯克直言广告没特色](https://www.3dmgame.com/news/202404/3893441.html)
 
++ [第一人称冒险《塔拉萨：深渊边缘》6月18日发售 以海底为舞台](https://www.3dmgame.com/news/202404/3893446.html)
+
++ [视觉小说游戏《GINKA》宣布9月19日登陆NS 获特别好评](https://www.3dmgame.com/news/202404/3893443.html)
+
++ [类魂《病态：艾尔之王》5月17日发售 支持免费试玩](https://www.3dmgame.com/news/202404/3893444.html)
+
++ [动作片《特技狂人》曝IMAX海报 5月17日内地上映](https://www.3dmgame.com/news/202404/3893445.html)
+
++ [《幻想地球》PS4/PS5和Switch版5月9日发售](https://www.3dmgame.com/news/202404/3893442.html)
+

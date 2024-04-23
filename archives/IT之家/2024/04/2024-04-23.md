@@ -63,3 +63,7 @@
 
 + [微信安卓版 8.0.49 最新官方正式版下载发布](https://m.ithome.com/html/763483.htm)
 
++ [雷军预计小米 SU7 车型毛利率在 5~10% 之间，未来三年内完全聚焦国内市场](https://m.ithome.com/html/763694.htm)
+
++ [小米米家台灯 2/2 Lite 上架，首发到手 199/79 元](https://m.ithome.com/html/763571.htm)
+
