@@ -157,3 +157,29 @@
 
 + [索尼申请“自动游戏”功能专利：让AI代跑图或练级](https://www.3dmgame.com/news/202404/3893365.html)
 
++ [育碧三款《纪元》历史版游戏上线Steam 不支持中文](https://www.3dmgame.com/news/202404/3893391.html)
+
++ [《堡垒之夜》联动比莉·艾利什 活动今日上线](https://www.3dmgame.com/news/202404/3893390.html)
+
++ [《Blood Typers》Steam试玩发布 3D迷宫恐怖冒险](https://www.3dmgame.com/news/202404/3893392.html)
+
++ [策略模拟游戏《螃蟹之神》现已登录Steam平台 6月20日正式推出](https://www.3dmgame.com/news/202404/3893389.html)
+
++ [《死亡岛2》Steam获褒贬不一：强制连Epic服务器](https://www.3dmgame.com/news/202404/3893388.html)
+
++ [《死侍3》新曝光9张极清新剧照 X教授妹妹登场](https://www.3dmgame.com/news/202404/3893387.html)
+
++ [《火影忍者》制作公司小丑社总裁表示 审查制度会扼杀动漫的全球吸引力](https://www.3dmgame.com/news/202404/3893381.html)
+
++ [《四十九把钥匙》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893385.html)
+
++ [《星刃》女主伊芙手办新截图赏 身形绝美吸睛](https://www.3dmgame.com/news/202404/3893386.html)
+
++ [《返杀》Steam页面上线 动态影像枪战动作冒险](https://www.3dmgame.com/news/202404/3893384.html)
+
++ [任天堂发布Switch系统18.0.1更新 修复错误改善稳定性](https://www.3dmgame.com/news/202404/3893382.html)
+
++ [《斯普拉遁》世界锦标赛亚军转行当牛郎 已成为头牌](https://www.3dmgame.com/news/202404/3893383.html)
+
++ [《命运2：终焉之形》“进入旅行者”中配预告发布](https://www.3dmgame.com/news/202404/3893380.html)
+
