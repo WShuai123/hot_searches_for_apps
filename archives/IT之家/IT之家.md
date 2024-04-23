@@ -55,3 +55,5 @@
 
 + [鸿蒙智行第三界“享界”官宣：首款行政级豪华旗舰轿车 S9 北京车展亮相，7-8 月上市](https://m.ithome.com/html/763659.htm)
 
++ [中国铁路 12306 完成华为鸿蒙 HarmonyOS NEXT 原生应用核心版本开发](https://m.ithome.com/html/763674.htm)
+
