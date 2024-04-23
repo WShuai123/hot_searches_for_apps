@@ -47,3 +47,5 @@
 
 + [雷军：截至 4 月 20 日，小米汽车 SU7 锁单量已超 7 万台](https://m.ithome.com/html/763545.htm)
 
++ [24.98 万元起，AITO 问界新 M5 正式发布：全系标配华为高阶智驾](https://m.ithome.com/html/763652.htm)
+

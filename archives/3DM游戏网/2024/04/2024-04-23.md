@@ -237,3 +237,19 @@
 
 + [《罪孽的遗产：不祥之兆》Steam页面 9月4日发售](https://www.3dmgame.com/news/202404/3893418.html)
 
++ [科幻风模拟经营游戏《lower？higher！》Steam页面上线 Q4发售](https://www.3dmgame.com/news/202404/3893427.html)
+
++ [Steam最新一周销量榜 Steam Deck反超《绝地潜兵2》](https://www.3dmgame.com/news/202404/3893426.html)
+
++ [卡维尔新片《绝密型战》预告出现错误：现代咖啡杯](https://www.3dmgame.com/news/202404/3893425.html)
+
++ [《古墓丽影三部曲》劳拉性感海报被官方删了：必须正确](https://www.3dmgame.com/news/202404/3893424.html)
+
++ [娄艺潇打游戏穿汉服Cos武则天 真的非常惊艳！](https://www.3dmgame.com/news/202404/3893421.html)
+
++ [“刺猬索尼克”新周边登场！线上预定现已开启](https://www.3dmgame.com/news/202404/3893423.html)
+
++ [AI生成录音：韩国一女子被假冒马斯克诈骗7千万](https://www.3dmgame.com/news/202404/3893422.html)
+
++ [《星刃》官方Web动态漫画公开 讲述伊芙降临地球前外传故事](https://www.3dmgame.com/news/202404/3893420.html)
+
