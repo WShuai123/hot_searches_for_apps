@@ -43,3 +43,7 @@
 
 + [魅族 21 Note 手机曝光：骁龙 8 Gen 2 芯片 + 5500mAh 电池 + 66W 快充](https://m.ithome.com/html/763493.htm)
 
++ [又一友商来“截胡”？蔚来渠道人士称已下定小米 SU7 消费者可享 5000 元补贴](https://m.ithome.com/html/763593.htm)
+
++ [雷军：截至 4 月 20 日，小米汽车 SU7 锁单量已超 7 万台](https://m.ithome.com/html/763545.htm)
+

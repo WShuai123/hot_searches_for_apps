@@ -233,3 +233,7 @@
 
 + [日本朝日电视台票选动漫歌曲排行 外国人最爱《残酷天使的行动纲领》](https://www.3dmgame.com/news/202404/3893406.html)
 
++ [《英雄联盟：双城之战》第二季新海报 将参加6月安纳西动画电影节](https://www.3dmgame.com/news/202404/3893419.html)
+
++ [《罪孽的遗产：不祥之兆》Steam页面 9月4日发售](https://www.3dmgame.com/news/202404/3893418.html)
+

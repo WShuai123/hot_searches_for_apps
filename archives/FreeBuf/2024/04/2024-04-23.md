@@ -53,3 +53,5 @@
 
 + [如何使用trackerjacker映射和跟踪分析WiFi网络设备](https://www.freebuf.com/sectool/393414.html)
 
++ [拒绝支付！ 2024 年第一季度勒索赎金支付比例降至历史新低](https://www.freebuf.com/news/398976.html)
+
