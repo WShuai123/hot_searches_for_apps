@@ -275,3 +275,7 @@
 
 + [《帝国时代4》将非常注重中国玩家们的需求](https://www.3dmgame.com/news/202404/3893438.html)
 
++ [《阿凡达：潘多拉边境》更新 PC支持XeSS、主机支持40帧模式](https://www.3dmgame.com/news/202404/3893440.html)
+
++ [传RX 8000系列显存继续使用GDDR6 而非GDDR7](https://www.3dmgame.com/news/202404/3893439.html)
+
