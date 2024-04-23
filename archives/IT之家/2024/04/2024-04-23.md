@@ -39,3 +39,7 @@
 
 + [小米 11 Pro / Ultra 手机推送澎湃 HyperOS 正式版更新](https://m.ithome.com/html/763393.htm)
 
++ [26.98 万元起，长城坦克 300Hi4-T 车型上市](https://m.ithome.com/html/763474.htm)
+
++ [魅族 21 Note 手机曝光：骁龙 8 Gen 2 芯片 + 5500mAh 电池 + 66W 快充](https://m.ithome.com/html/763493.htm)
+
