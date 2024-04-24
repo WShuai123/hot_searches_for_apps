@@ -93,3 +93,7 @@
 
 + [【快乐17】《若喊你》祝福AcFun 17周年快乐！](http://www.acfun.cn/v/ac44384721)
 
++ [客官来一只可爱的蟹蟹吧](http://www.acfun.cn/v/ac44385569)
+
++ [这将颠覆你们对魔术的认知](http://www.acfun.cn/v/ac44386680)
+

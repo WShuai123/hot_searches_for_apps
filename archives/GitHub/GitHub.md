@@ -51,3 +51,31 @@
 
 + [immich-app / immich](https://github.com/immich-app/immich)
 
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [byoungd / English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [open-webui / open-webui](https://github.com/open-webui/open-webui)
+
++ [PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [mztacat / Base](https://github.com/mztacat/Base)
+
++ [pytorch / executorch](https://github.com/pytorch/executorch)
+
++ [continuedev / continue](https://github.com/continuedev/continue)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [moest-np / center-randomize](https://github.com/moest-np/center-randomize)
+

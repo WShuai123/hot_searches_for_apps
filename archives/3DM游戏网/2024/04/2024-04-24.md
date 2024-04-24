@@ -267,3 +267,7 @@
 
 + [全国首例“AI声音侵权案”宣判 原声原告获赔25万](https://www.3dmgame.com/news/202404/3893521.html)
 
++ [华为回应Pura70一键消除衣服：自研大模型漏洞 后续会优化](https://www.3dmgame.com/news/202404/3893533.html)
+
++ [《黑暗世界：因与果》坠入黑暗预告 Wired Productions发行](https://www.3dmgame.com/news/202404/3893532.html)
+
