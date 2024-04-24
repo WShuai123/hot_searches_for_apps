@@ -163,3 +163,17 @@
 
 + [科幻片《异星战境》新预告 詹妮弗洛佩兹刘思慕主演](https://www.3dmgame.com/news/202404/3893463.html)
 
++ [回合制战略游戏《征服之歌》即将结束抢先体验 5月20日正式发售](https://www.3dmgame.com/news/202404/3893484.html)
+
++ [CDPR庆祝Mod编辑器上线：可以和三姐妹谈恋爱了](https://www.3dmgame.com/news/202404/3893485.html)
+
++ [第三人称射击游戏《Trench Tales》Steam页面上线 暂不支持简体中文](https://www.3dmgame.com/news/202404/3893483.html)
+
++ [Switch在线追加新游上线 N64《爆破开路队》复归](https://www.3dmgame.com/news/202404/3893482.html)
+
++ [JRPG《百英雄传》现已在Steam平台正式发售 获多半好评](https://www.3dmgame.com/news/202404/3893481.html)
+
++ [冒险游戏《铁山奇谭》Steam页面 年内发售](https://www.3dmgame.com/news/202404/3893480.html)
+
++ [《鬼屋魔影：重制版》发布后 开发商Pieces宣布裁员](https://www.3dmgame.com/news/202404/3893479.html)
+

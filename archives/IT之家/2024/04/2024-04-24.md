@@ -35,3 +35,5 @@
 
 + [苹果宣布 5 月 7 日举行“放飞吧”特别活动，预计将推出 2024 款 iPad Pro / Air 及配件](https://m.ithome.com/html/763753.htm)
 
++ [极星手机 Polestar Phone 发布：主打“AI + 车联”，7388 元](https://m.ithome.com/html/763733.htm)
+
