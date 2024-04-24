@@ -241,3 +241,9 @@
 
 + [KK官方对战平台新图推荐 希尔瓦娜斯领衔，重新定义随机进化新玩法！](https://www.3dmgame.com/news/202404/3893512.html)
 
++ [家园衍生VR策略游戏《Homeworld：Vast Reaches》5月2日发售 稍后登陆Steam](https://www.3dmgame.com/news/202404/3893519.html)
+
++ [浙江大学脑机接口重大突破 高位截瘫患者意念写汉字](https://www.3dmgame.com/news/202404/3893520.html)
+
++ [众女主播观看《星刃》开场动画 惊呼女性角色惊艳！](https://www.3dmgame.com/news/202404/3893518.html)
+

@@ -61,3 +61,5 @@
 
 + [勒索软件运营模式发生重大变化，2024年第一季度增幅55%](https://www.freebuf.com/news/399118.html)
 
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+

@@ -47,3 +47,5 @@
 
 + [全球首发，中国亮相：消息称特斯拉明日发布全新 Model 3 高性能版车型](https://m.ithome.com/html/763760.htm)
 
++ [地震预警 App 安卓版获 v9.0.0 更新：加入订阅功能、10 元 / 年](https://m.ithome.com/html/763723.htm)
+
