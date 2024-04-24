@@ -61,3 +61,5 @@
 
 + [华为 Pura 70 Ultra 手机 AI 消除衣服 BUG 修复](https://m.ithome.com/html/763965.htm)
 
++ [1999 元起，iQOO Z9 / Turbo 系列手机发布：搭载高通骁龙 7Gen3/8s Gen3](https://m.ithome.com/html/763976.htm)
+

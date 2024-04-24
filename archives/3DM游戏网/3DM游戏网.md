@@ -275,3 +275,7 @@
 
 + [瑞昱宣布其WiFi 7芯片下半年出货 预计年内WiFi 7渗透率达5%](https://www.3dmgame.com/news/202404/3893534.html)
 
++ [特斯拉：裁员10%将带来逾3.5亿美元的成本](https://www.3dmgame.com/news/202404/3893536.html)
+
++ [可口可乐向微软投资11亿美元 利用其生成式AI](https://www.3dmgame.com/news/202404/3893537.html)
+
