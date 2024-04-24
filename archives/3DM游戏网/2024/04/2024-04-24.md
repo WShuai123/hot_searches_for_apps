@@ -131,3 +131,35 @@
 
 + [《刺客信条：猎巫》早期细节曝光 将有巫术超能力、线性玩法](https://www.3dmgame.com/news/202404/3893461.html)
 
++ [拳头免费2v2格斗游戏《2XKO》俄洛伊实机 明年发售](https://www.3dmgame.com/news/202404/3893475.html)
+
++ [PS Plus三档会员新增四款试玩游戏：《原始袭变》等](https://www.3dmgame.com/news/202404/3893477.html)
+
++ [回合制卡牌策略游戏《铁烙印》现已上架Steam平台 并提供试玩Demo](https://www.3dmgame.com/news/202404/3893476.html)
+
++ [Twitch关闭韩国业务 AfreecaTV和CHZZK成直播新欢](https://www.3dmgame.com/news/202404/3893474.html)
+
++ [《塔拉萨号》6月19日登陆Steam 海底沉船神秘探索](https://www.3dmgame.com/news/202404/3893473.html)
+
++ [恐怖游戏《逃离食人族一家》上架Steam 帮少女逃脱](https://www.3dmgame.com/news/202404/3893478.html)
+
++ [腾讯游戏《剑灵2》新视频 国服首测招募开启](https://www.3dmgame.com/news/202404/3893470.html)
+
++ [《幽港迷城》电子版开发商的新项目因资金和裁员问题被迫在宣布时搁置](https://www.3dmgame.com/news/202404/3893469.html)
+
++ [《漫威争锋》洛基实机 5月10日封闭A测](https://www.3dmgame.com/news/202404/3893468.html)
+
++ [雅达利复活英宝格品牌 收购游戏《可靠快递》IP](https://www.3dmgame.com/news/202404/3893467.html)
+
++ [崔佛演员回忆《GTA5》曾收录语音 疑似被废弃的特工故事](https://www.3dmgame.com/news/202404/3893466.html)
+
++ [取代E3？IGN Live线下展会公开首批细节6月7日举办](https://www.3dmgame.com/news/202404/3893472.html)
+
++ [《真女神转生5：复仇》拥有全新故事路线 时长超75个小时](https://www.3dmgame.com/news/202404/3893471.html)
+
++ [《哥特王朝：重制版》新截图 游戏发售日或将公布](https://www.3dmgame.com/news/202404/3893464.html)
+
++ [《星刃》女主韩语配音演员曝光：美女朴莉娜 曾为原神配音](https://www.3dmgame.com/news/202404/3893465.html)
+
++ [科幻片《异星战境》新预告 詹妮弗洛佩兹刘思慕主演](https://www.3dmgame.com/news/202404/3893463.html)
+

@@ -29,3 +29,9 @@
 
 + [小米回应“SU7 Max 提车两天前保险杠掉漆”视频：存在失实内容](https://m.ithome.com/html/763729.htm)
 
++ [《蛋仔派对》回应“歧视老年人”：强制 70 岁以上用户人脸识别，防止未成年人冒用老人身份证注册游戏](https://m.ithome.com/html/763761.htm)
+
++ [澳总理炮轰马斯克：傲慢的亿万富翁，凌驾法律之上](https://m.ithome.com/html/763595.htm)
+
++ [苹果宣布 5 月 7 日举行“放飞吧”特别活动，预计将推出 2024 款 iPad Pro / Air 及配件](https://m.ithome.com/html/763753.htm)
+
