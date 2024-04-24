@@ -247,3 +247,23 @@
 
 + [众女主播观看《星刃》开场动画 惊呼女性角色惊艳！](https://www.3dmgame.com/news/202404/3893518.html)
 
++ [雷军称还投入1/3精力在手机业务：小米安身立命之本](https://www.3dmgame.com/news/202404/3893531.html)
+
++ [NEOWIZ的《匹诺曹的谎言》荣获Webby奖项三项大奖](https://www.3dmgame.com/news/202404/3893530.html)
+
++ [《王冠之心OL》Steam抢先体验 经典卡游新篇](https://www.3dmgame.com/news/202404/3893529.html)
+
++ [Key社视觉小说《Harmonia：高清版》Steam发售 支持中文](https://www.3dmgame.com/news/202404/3893528.html)
+
++ [魏建军：我玩了40年摩托 长城摩托技术会在车展亮相](https://www.3dmgame.com/news/202404/3893526.html)
+
++ [《勇者之书2：重生》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893525.html)
+
++ [新品节全球第四的中世纪沙盒游戏《颂钟长鸣》现已推出抢先体验](https://www.3dmgame.com/news/202404/3893524.html)
+
++ [《英雄无敌7：烈火试炼》D加密被Delusional攻破了](https://www.3dmgame.com/news/202404/3893523.html)
+
++ [今日头条诉“今日油条”案败诉！法院判定不构成商标侵权](https://www.3dmgame.com/news/202404/3893522.html)
+
++ [全国首例“AI声音侵权案”宣判 原声原告获赔25万](https://www.3dmgame.com/news/202404/3893521.html)
+

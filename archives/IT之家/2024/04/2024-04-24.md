@@ -49,3 +49,5 @@
 
 + [地震预警 App 安卓版获 v9.0.0 更新：加入订阅功能、10 元 / 年](https://m.ithome.com/html/763723.htm)
 
++ [华为发布全球首款五合一车控模组](https://m.ithome.com/html/763844.htm)
+
