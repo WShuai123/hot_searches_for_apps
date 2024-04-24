@@ -67,3 +67,7 @@
 
 + [哈哈哈最后一句把搞笑推向了高潮](http://www.acfun.cn/v/ac44386726)
 
++ [【诸葛】胡说八道：具有特色的汉江奇迹](http://www.acfun.cn/v/ac44387239)
+
++ [So crazy](http://www.acfun.cn/v/ac44387478)
+

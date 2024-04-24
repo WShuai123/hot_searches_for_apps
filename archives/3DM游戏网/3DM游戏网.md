@@ -125,3 +125,9 @@
 
 + [《堡垒之夜》加入多首碧丽艾莉许热门歌曲](https://www.3dmgame.com/news/202404/3893454.html)
 
++ [《星刃》总监家太穷上大学才买PS1 《FF》激发他做游戏](https://www.3dmgame.com/news/202404/3893462.html)
+
++ [真人剧开播后 《辐射》全系列单日玩家达到了500万](https://www.3dmgame.com/news/202404/3893460.html)
+
++ [《刺客信条：猎巫》早期细节曝光 将有巫术超能力、线性玩法](https://www.3dmgame.com/news/202404/3893461.html)
+

@@ -101,3 +101,43 @@
 
 + [Linux系统安全及应用](https://blog.csdn.net/2301_82109773/article/details/138017878)
 
++ [探索设计模式的魅力：主从模式与AI大模型的结合-开启机器学习新纪元](https://blog.csdn.net/danci_/article/details/138105741)
+
++ [概率图模型在机器学习中的应用：贝叶斯网络与马尔可夫随机场](https://blog.csdn.net/g310773517/article/details/138136614)
+
++ [【好书推荐7】《机器学习平台架构实战》](https://blog.csdn.net/wtyuong/article/details/138135927)
+
++ [python自动生成SQL语句自动化](https://blog.csdn.net/weixin_52908342/article/details/138129084)
+
++ [C/C++八股文操作系统篇（1）](https://blog.csdn.net/qq_43580729/article/details/138099278)
+
++ [Kafka源码分析(四) - Server端-请求处理框架](https://blog.csdn.net/hao2244/article/details/138031222)
+
++ [深入解析YOLOv2](https://blog.csdn.net/festaw/article/details/138125259)
+
++ [DBA搞钱之路](https://blog.csdn.net/ZengMuAnSha/article/details/138064473)
+
++ [Xilinx 7系列FPGA的时钟管理](https://blog.csdn.net/u011565038/article/details/138074828)
+
++ [【数学建模】优劣解距离法Topsis模型（含MATLAB代码）](https://blog.csdn.net/2401_83283514/article/details/138010536)
+
++ [鸿蒙 harmonyos 线程 并发 总结 async promise Taskpool woker（三）多线程并发 Worker](https://blog.csdn.net/qq_28641891/article/details/138091839)
+
++ [YOLOv9训练结果分析-＞mAP、Precision、Recall、FPS、Confienc、混淆矩阵分析](https://blog.csdn.net/java1314777/article/details/138128762)
+
++ [【Linux网络编程】IP协议](https://blog.csdn.net/fight_p/article/details/137999203)
+
++ [CountDownLatch倒计时器源码解读与使用](https://blog.csdn.net/qq_35716689/article/details/138087743)
+
++ [YOLO8实战：行人跌倒检测系统](https://blog.csdn.net/qq_42681787/article/details/138130135)
+
++ [卸载微软的浏览器： Edge](https://blog.csdn.net/yellow_hill/article/details/138068042)
+
++ [谈谈 vue 生命周期](https://blog.csdn.net/m0_73531461/article/details/138081150)
+
++ [文本向量化模型新突破——acge_text_embedding勇夺C-MTEB榜首](https://blog.csdn.net/air__Heaven/article/details/138015602)
+
++ [亚马逊---设计安全架构](https://blog.csdn.net/weixin_74923758/article/details/137961768)
+
++ [Python可视化](https://blog.csdn.net/youyouxiong/article/details/138088980)
+
