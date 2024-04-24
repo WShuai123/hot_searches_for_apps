@@ -47,3 +47,5 @@
 
 + [等保2.0测评 — 容器安全扩展要求（安全计算环境）](https://www.freebuf.com/articles/container/398239.html)
 
++ [CoralRaider 利用 CDN 缓存传播恶意软件](https://www.freebuf.com/news/399090.html)
+
