@@ -113,3 +113,23 @@
 
 + [《星刃》战斗灵感来自于《战神》《只狼》《鬼泣》等游戏](https://www.3dmgame.com/news/202404/3893538.html)
 
++ [《刺客信条：幻景》总监有意扩展巴辛姆剧情](https://www.3dmgame.com/news/202404/3893552.html)
+
++ [为核电站料理后事《切尔诺贝利清算人》6月6日发售](https://www.3dmgame.com/news/202404/3893548.html)
+
++ [玩家希望《黑手党4》发售日能避开《GTA6》](https://www.3dmgame.com/news/202404/3893553.html)
+
++ [《遗迹2》通过更新现已支持DLSS 3.7和XeSS 1.3](https://www.3dmgame.com/news/202404/3893551.html)
+
++ [JD Fenix演员暗示《战争机器6》或于6月公布](https://www.3dmgame.com/news/202404/3893550.html)
+
++ [即将推出 《沙漠大冒险》上市预告片分享](https://www.3dmgame.com/news/202404/3893549.html)
+
++ [日本27岁男子因威胁任天堂遭起诉或面临5年刑罚](https://www.3dmgame.com/news/202404/3893547.html)
+
++ [任天堂要求《盖瑞的模组》删除任天堂相关Mod](https://www.3dmgame.com/news/202404/3893546.html)
+
++ [死亡结局超过100种《死亡终局》衍生游戏9月上市](https://www.3dmgame.com/news/202404/3893545.html)
+
++ [Fami通为《沙漠大冒险》给出35分高评价](https://www.3dmgame.com/news/202404/3893544.html)
+
