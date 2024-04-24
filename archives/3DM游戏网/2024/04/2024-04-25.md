@@ -101,3 +101,15 @@
 
 + [德国希望本国开发商也能做出《博德之门3》量级游戏](https://www.3dmgame.com/news/202404/3893486.html)
 
++ [国产基地建设《什么鸟都》上架Steam 年内发售](https://www.3dmgame.com/news/202404/3893543.html)
+
++ [均价破万！AI让PC快成了奢侈品](https://www.3dmgame.com/news/202404/3893542.html)
+
++ [《孤山难越》现已登陆主机平台 在逆境中成长](https://www.3dmgame.com/news/202404/3893541.html)
+
++ [外媒评10款让玩家爱不释手的沙盒游戏 《艾尔登法环》等](https://www.3dmgame.com/news/202404/3893540.html)
+
++ [《星刃》IGN 7分：动作出色、剧情角色欠佳](https://www.3dmgame.com/news/202404/3893539.html)
+
++ [《星刃》战斗灵感来自于《战神》《只狼》《鬼泣》等游戏](https://www.3dmgame.com/news/202404/3893538.html)
+
