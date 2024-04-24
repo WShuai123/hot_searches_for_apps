@@ -59,3 +59,5 @@
 
 + [挑战“50 万以内最速量产车”，小米汽车明日公布 SU7 浙赛成绩](https://m.ithome.com/html/763841.htm)
 
++ [华为 Pura 70 Ultra 手机 AI 消除衣服 BUG 修复](https://m.ithome.com/html/763965.htm)
+

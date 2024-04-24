@@ -151,3 +151,5 @@
 
 + [LangWatch](https://www.producthunt.com/posts/langwatch)
 
++ [FLYDESK Team](https://www.producthunt.com/posts/flydesk-team)
+

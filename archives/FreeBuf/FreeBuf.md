@@ -65,3 +65,5 @@
 
 + [SolarWinds 漏洞四周年，供应链攻击已成企业“大麻烦”](https://www.freebuf.com/articles/neopoints/398325.html)
 
++ [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
+

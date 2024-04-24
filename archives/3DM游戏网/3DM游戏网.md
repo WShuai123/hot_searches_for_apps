@@ -271,3 +271,7 @@
 
 + [《黑暗世界：因与果》坠入黑暗预告 Wired Productions发行](https://www.3dmgame.com/news/202404/3893532.html)
 
++ [《堕落之主》1.5更新上线 引入游戏修改器系统](https://www.3dmgame.com/news/202404/3893535.html)
+
++ [瑞昱宣布其WiFi 7芯片下半年出货 预计年内WiFi 7渗透率达5%](https://www.3dmgame.com/news/202404/3893534.html)
+
