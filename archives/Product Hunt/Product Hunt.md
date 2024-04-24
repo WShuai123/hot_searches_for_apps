@@ -149,3 +149,5 @@
 
 + [Synece](https://www.producthunt.com/posts/synece)
 
++ [LangWatch](https://www.producthunt.com/posts/langwatch)
+

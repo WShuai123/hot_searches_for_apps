@@ -51,3 +51,11 @@
 
 + [华为发布全球首款五合一车控模组](https://m.ithome.com/html/763844.htm)
 
++ [华为乾崑智能汽车解决方案发布，ADS 3.0 等十大新品亮相](https://m.ithome.com/html/763820.htm)
+
++ [特斯拉全球裁员：国内应届生 offer 被毁，美国裁员超 6000 人](https://m.ithome.com/html/763815.htm)
+
++ [小米 SU7 计划明日起陆续向车主推送部分 OTA 小功能更新，涉及优化充电逻辑等](https://m.ithome.com/html/763759.htm)
+
++ [挑战“50 万以内最速量产车”，小米汽车明日公布 SU7 浙赛成绩](https://m.ithome.com/html/763841.htm)
+
