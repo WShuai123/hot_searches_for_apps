@@ -25,3 +25,7 @@
 
 + [2499 元，水月雨 MIAD 01 全网通 5G HiFi 手机发布](https://m.ithome.com/html/763971.htm)
 
++ [原生鸿蒙版微信正在路上：腾讯 MMKV 组件现已提供华为 HarmonyOS NEXT 官方支持](https://m.ithome.com/html/763997.htm)
+
++ [周鸿祎发布仰望 U8 和问界 M9 汽车体验视频，喊话贾跃亭“送车”](https://m.ithome.com/html/763983.htm)
+
