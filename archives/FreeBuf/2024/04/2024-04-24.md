@@ -51,3 +51,5 @@
 
 + [常见场景的业务逻辑漏洞以及安全设计](https://www.freebuf.com/articles/web/398127.html)
 
++ [涉及不计其数的患者数据，美国医疗巨头向勒索软件支付了赎金](https://www.freebuf.com/news/399113.html)
+

@@ -141,3 +141,37 @@
 
 + [Python可视化](https://blog.csdn.net/youyouxiong/article/details/138088980)
 
++ [蓝桥杯：日期问题（我的绝望题）](https://blog.csdn.net/djdjiejsn/article/details/138142795)
+
++ [深入探究音视频开源库WebRTC中NetEQ音频抗网络延时与抗丢包的实现机制](https://blog.csdn.net/chenlycly/article/details/138144499)
+
++ [Xilinx 7系列FPGA局部时钟资源](https://blog.csdn.net/u011565038/article/details/138065780)
+
++ [Spring Boot：Web应用开发之增删改查的实现](https://blog.csdn.net/qq_56886142/article/details/137061754)
+
++ [AIGC实战——基于Transformer实现音乐生成](https://blog.csdn.net/LOVEmy134611/article/details/138142967)
+
++ [计算机网络相关知识总结](https://blog.csdn.net/weixin_43837869/article/details/138138933)
+
++ [Nginx七层负载均衡](https://blog.csdn.net/weixin_72583321/article/details/138123617)
+
++ [【深度学习】YOLOv5，烟雾和火焰，目标检测，防火检测，森林火焰检测](https://blog.csdn.net/x1131230123/article/details/138097481)
+
++ [【大模型】大模型时代的语音合成：音频的离散化表示](https://blog.csdn.net/2301_77509762/article/details/138134698)
+
++ [FPGA秋招-笔记整理（2）](https://blog.csdn.net/sqzjiayou/article/details/138136481)
+
++ [【FFmpeg】音视频录制 ① ( 查询系统中 ffmpeg 可录制的音视频输入设备 | 使用 ffmpeg 命令录制音视频数据 | 录制视频数据命令 |录制音频数据| 同时录制音频和视频数据命令 )](https://blog.csdn.net/han1202012/article/details/138066869)
+
++ [2024年深圳杯&东三省数学建模联赛赛题浅析](https://blog.csdn.net/qq_33690821/article/details/138102597)
+
++ [CSS响应式布局（网页如何根据不同尺寸调整状态）](https://blog.csdn.net/m0_73916603/article/details/138133083)
+
++ [【优质书籍推荐】详解SQL查询、索引、事务、存储过程、视图](https://blog.csdn.net/weixin_43178406/article/details/138117887)
+
++ [前端科举面经-HTML篇](https://blog.csdn.net/qq_38280242/article/details/138094988)
+
++ [【Linux】深入理解Linux文件系统与日志分析](https://blog.csdn.net/weixin_68840588/article/details/138129596)
+
++ [iOS - 多线程的安全隐患](https://blog.csdn.net/sharp521/article/details/138123170)
+
