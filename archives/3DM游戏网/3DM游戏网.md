@@ -229,3 +229,15 @@
 
 + [《星海乐章》Steam页面上线 开放世界ARPG](https://www.3dmgame.com/news/202404/3893502.html)
 
++ [苹果中国频频降价：iPhone15渠道价7个月降25％ 用户称买早了](https://www.3dmgame.com/news/202404/3893517.html)
+
++ [《我的世界》最新更新上线 新野生动物犰狳登场](https://www.3dmgame.com/news/202404/3893516.html)
+
++ [经营游戏《山河行者》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3893515.html)
+
++ [《西部世界》女星确认参演《星期三》第二季](https://www.3dmgame.com/news/202404/3893514.html)
+
++ [《小小大星球》开发商Media Molecule招聘员工 正在开发全新IP](https://www.3dmgame.com/news/202404/3893513.html)
+
++ [KK官方对战平台新图推荐 希尔瓦娜斯领衔，重新定义随机进化新玩法！](https://www.3dmgame.com/news/202404/3893512.html)
+

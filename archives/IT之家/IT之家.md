@@ -43,3 +43,7 @@
 
 + [历史性突破：iPad 问世 14 年，消息称苹果终于考虑为其带来原生计算器应用](https://m.ithome.com/html/763769.htm)
 
++ [新增几何派对主题等，华为 Mate 60 Pro 手机获推鸿蒙 OS 4.2.0.120 版更新](https://m.ithome.com/html/763755.htm)
+
++ [全球首发，中国亮相：消息称特斯拉明日发布全新 Model 3 高性能版车型](https://m.ithome.com/html/763760.htm)
+
