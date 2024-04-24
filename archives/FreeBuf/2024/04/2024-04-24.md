@@ -53,3 +53,7 @@
 
 + [涉及不计其数的患者数据，美国医疗巨头向勒索软件支付了赎金](https://www.freebuf.com/news/399113.html)
 
++ [web-traffic-generator：一款功能强大的HTTP和HTTPs流量混淆工具](https://www.freebuf.com/sectool/393416.html)
+
++ [勒索软件团伙的运营模式正在发生变化](https://www.freebuf.com/news/399118.html)
+

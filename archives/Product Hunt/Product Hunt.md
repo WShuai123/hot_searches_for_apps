@@ -107,3 +107,45 @@
 
 + [Voxal.AI](https://www.producthunt.com/posts/voxal-ai)
 
++ [Wizad](https://www.producthunt.com/posts/wizad)
+
++ [Candle](https://www.producthunt.com/posts/candle-3)
+
++ [Amazon Maestro](https://www.producthunt.com/posts/amazon-maestro)
+
++ [Podor](https://www.producthunt.com/posts/podor)
+
++ [Yesterday For Old Reddit](https://www.producthunt.com/posts/yesterday-for-old-reddit)
+
++ [UpClimbr](https://www.producthunt.com/posts/upclimbr)
+
++ [Does it Scale?](https://www.producthunt.com/posts/does-it-scale)
+
++ [Dart](https://www.producthunt.com/posts/dart-4)
+
++ [SimplePDFReader](https://www.producthunt.com/posts/simplepdfreader)
+
++ [Inboxly AI](https://www.producthunt.com/posts/inboxly-ai)
+
++ [Userscom](https://www.producthunt.com/posts/userscom)
+
++ [CoffeeSpace](https://www.producthunt.com/posts/coffeespace)
+
++ [Boom](https://www.producthunt.com/posts/boom-6)
+
++ [Trackify for Spotify](https://www.producthunt.com/posts/trackify-for-spotify-2)
+
++ [MarketerGrad by Pangea](https://www.producthunt.com/posts/marketergrad-by-pangea)
+
++ [Glasskube](https://www.producthunt.com/posts/glasskube)
+
++ [Neurelo](https://www.producthunt.com/posts/neurelo)
+
++ [Thinker](https://www.producthunt.com/posts/thinker)
+
++ [NewSub](https://www.producthunt.com/posts/newsub)
+
++ [BreezeDoc](https://www.producthunt.com/posts/breezedoc)
+
++ [Synece](https://www.producthunt.com/posts/synece)
+

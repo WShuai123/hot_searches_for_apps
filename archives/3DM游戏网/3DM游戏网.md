@@ -209,3 +209,23 @@
 
 + [雷军宣布：小米SU7 2024年交付目标超过10万辆](https://www.3dmgame.com/news/202404/3893500.html)
 
++ [参与多部新海诚电影的动画师个人导演新作公布 2025年上映](https://www.3dmgame.com/news/202404/3893511.html)
+
++ [《勇拳冲锋》4月26日开放B测 3v3团战VR动作](https://www.3dmgame.com/news/202404/3893509.html)
+
++ [《暗黑4》开发者害怕测试服会“减少新赛季兴奋点”](https://www.3dmgame.com/news/202404/3893510.html)
+
++ [逆转裁判授权主题店上海店5月1日开业 需预约入场](https://www.3dmgame.com/news/202404/3893508.html)
+
++ [《奇星协力》发售日公布 5月21日发售](https://www.3dmgame.com/news/202404/3893507.html)
+
++ [策略塔防三消游戏《喵喵大战邪物》现已登录Steam平台 2024年夏季推出](https://www.3dmgame.com/news/202404/3893506.html)
+
++ [爱奇艺宣布经典喜剧《食神》动画化 周星驰幽默晒邀请函](https://www.3dmgame.com/news/202404/3893505.html)
+
++ [《恶意不息》创意总监发文向中国玩家征求反馈 目标好评如潮](https://www.3dmgame.com/news/202404/3893504.html)
+
++ [《原神》拾枝杂谈-「阿蕾奇诺：厄影余辉」](https://www.3dmgame.com/news/202404/3893503.html)
+
++ [《星海乐章》Steam页面上线 开放世界ARPG](https://www.3dmgame.com/news/202404/3893502.html)
+

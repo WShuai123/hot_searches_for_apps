@@ -41,3 +41,5 @@
 
 + [小米 10S 手机获推澎湃 HyperOS 正式版更新，附带谷歌 2 月安全补丁](https://m.ithome.com/html/763749.htm)
 
++ [历史性突破：iPad 问世 14 年，消息称苹果终于考虑为其带来原生计算器应用](https://m.ithome.com/html/763769.htm)
+
