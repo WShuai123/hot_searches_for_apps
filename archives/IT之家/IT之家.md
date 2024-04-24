@@ -63,3 +63,7 @@
 
 + [1999 元起，iQOO Z9 / Turbo 系列手机发布：搭载高通骁龙 7Gen3/8s Gen3](https://m.ithome.com/html/763976.htm)
 
++ [1799 元起，OPPO K12 手机发布：充电五分钟通话十小时](https://m.ithome.com/html/763912.htm)
+
++ [消息称出于“安全”考虑，韩国军方将禁用苹果 iPhone 手机](https://m.ithome.com/html/763895.htm)
+
