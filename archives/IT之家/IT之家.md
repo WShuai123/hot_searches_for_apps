@@ -37,3 +37,7 @@
 
 + [极星手机 Polestar Phone 发布：主打“AI + 车联”，7388 元](https://m.ithome.com/html/763733.htm)
 
++ [特斯拉中国上架新款 Model 3 高性能全轮驱动版：3.1 秒破百，售价 33.59 万元](https://m.ithome.com/html/763779.htm)
+
++ [小米 10S 手机获推澎湃 HyperOS 正式版更新，附带谷歌 2 月安全补丁](https://m.ithome.com/html/763749.htm)
+

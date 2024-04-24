@@ -49,3 +49,5 @@
 
 + [CoralRaider 利用 CDN 缓存传播恶意软件](https://www.freebuf.com/news/399090.html)
 
++ [常见场景的业务逻辑漏洞以及安全设计](https://www.freebuf.com/articles/web/398127.html)
+

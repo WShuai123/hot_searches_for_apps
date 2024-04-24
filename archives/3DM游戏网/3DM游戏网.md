@@ -205,3 +205,7 @@
 
 + [Steam更新退款政策 EA累计时间计入退款时间](https://www.3dmgame.com/news/202404/3893491.html)
 
++ [Wii U服务器关闭15天后 部分玩家仍在线上“坚守”](https://www.3dmgame.com/news/202404/3893501.html)
+
++ [雷军宣布：小米SU7 2024年交付目标超过10万辆](https://www.3dmgame.com/news/202404/3893500.html)
+
