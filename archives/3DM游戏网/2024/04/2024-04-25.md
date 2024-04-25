@@ -297,3 +297,5 @@
 
 + [全球首块英伟达H200交付：黄仁勋给OpenAI送货上门](https://www.3dmgame.com/news/202404/3893624.html)
 
++ [亚洲首个小猪佩奇户外主题乐园落户上海 2027年开业](https://www.3dmgame.com/news/202404/3893636.html)
+

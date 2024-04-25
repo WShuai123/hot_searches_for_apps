@@ -55,3 +55,11 @@
 
 + [小米平板 6 系列全量推送 PC 级 WPS Office](https://m.ithome.com/html/764215.htm)
 
++ [（更新：完整配置表）比亚迪方程豹豹 5 汽车新增云辇豪华版，定价 32.98 万元](https://m.ithome.com/html/764118.htm)
+
++ [比亚迪仰望 U7 亮相：首搭“革命性技术”云辇-Z，下半年上市](https://m.ithome.com/html/764090.htm)
+
++ [小米汽车 SU7 广告横幅占领 2024 北京车展大门](https://m.ithome.com/html/764047.htm)
+
++ [极氪 MIX“宝宝巴士”首秀：首发浩瀚-M 架构，号称全球空间最大的五座纯电](https://m.ithome.com/html/764105.htm)
+
