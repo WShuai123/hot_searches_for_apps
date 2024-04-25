@@ -101,3 +101,11 @@
 
 + [《人类一败涂地》宣布登陆国行Switch 定价78元](https://www.3dmgame.com/news/202404/3893594.html)
 
++ [售价超3千《艾尔登法环》女武神手臂开放预购](https://www.3dmgame.com/news/202404/3893649.html)
+
++ [Cygames发布《碧蓝幻想：Relink》内容更新预告](https://www.3dmgame.com/news/202404/3893648.html)
+
++ [ARPG《关于我转生变成史莱姆这档事》8月8日发售](https://www.3dmgame.com/news/202404/3893647.html)
+
++ [全职猎人格斗游戏首曝13分钟对战实机演示](https://www.3dmgame.com/news/202404/3893646.html)
+
