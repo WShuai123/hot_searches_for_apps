@@ -123,3 +123,11 @@
 
 + [AI Clips: Viral shorts from long videos](https://www.producthunt.com/posts/ai-clips-viral-shorts-from-long-videos)
 
++ [Palette](https://www.producthunt.com/posts/palette-d406e418-0c40-4e58-aed9-52936d9845b4)
+
++ [Langtail Public Beta](https://www.producthunt.com/posts/langtail-public-beta)
+
++ [Summie](https://www.producthunt.com/posts/summie)
+
++ [AI Clips by Exemplary](https://www.producthunt.com/posts/ai-clips-by-exemplary)
+
