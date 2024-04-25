@@ -143,3 +143,29 @@
 
 + [苹果Vision Pro销量未达预期 导致产量削减](https://www.3dmgame.com/news/202404/3893555.html)
 
++ [《星刃》数毛社技术分析：游戏表现极其完美 令人吃惊](https://www.3dmgame.com/news/202404/3893570.html)
+
++ [《怪物猎人物语》steam预购开启 国区148元](https://www.3dmgame.com/news/202404/3893571.html)
+
++ [俯视角动作冒险游戏《深渊印记》现已登录Steam平台 并开放测试申请](https://www.3dmgame.com/news/202404/3893569.html)
+
++ [PS5发布24.03-09.20.00系统更新 添加社区游戏帮助功能](https://www.3dmgame.com/news/202404/3893567.html)
+
++ [《V.A Proxy》Steam试玩发布 开放世界高速战斗](https://www.3dmgame.com/news/202404/3893568.html)
+
++ [《全战：战锤3》马拉凯·马凯森实机 4月30日发售](https://www.3dmgame.com/news/202404/3893564.html)
+
++ [Embracer老板：拆分是为了公司商业上的整体利益](https://www.3dmgame.com/news/202404/3893566.html)
+
++ [《GT赛车7》四月更新上线 添加三辆新车](https://www.3dmgame.com/news/202404/3893565.html)
+
++ [Niantic承认《宝可梦 GO》捏人更新存在问题：正在严肃处理](https://www.3dmgame.com/news/202404/3893563.html)
+
++ [微软确认B社法国分部裁员 为收购后大裁员一部分](https://www.3dmgame.com/news/202404/3893562.html)
+
++ [《火花奇遇记》Steam抢先体验 奇趣创意制作工坊](https://www.3dmgame.com/news/202404/3893561.html)
+
++ [《暗黑不朽》x《仙剑》联动开启 化身李逍遥决战锁妖塔](https://www.3dmgame.com/news/202404/3893560.html)
+
++ [《庄园领主》发行商感谢中国玩家 CEO中文说的这么好](https://www.3dmgame.com/news/202404/3893559.html)
+

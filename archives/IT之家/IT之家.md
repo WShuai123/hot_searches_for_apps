@@ -35,3 +35,5 @@
 
 + [103.8 万元，新款保时捷 Taycan 4 跑车上市：针对中国市场打造](https://m.ithome.com/html/764001.htm)
 
++ [高通发布骁龙 X Plus 处理器：4 纳米工艺，10 核 Oryon CPU](https://m.ithome.com/html/763988.htm)
+

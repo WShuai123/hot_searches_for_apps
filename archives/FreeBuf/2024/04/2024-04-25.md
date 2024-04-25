@@ -45,3 +45,5 @@
 
 + [《2024年网络弹性风险指数报告》：92%的组织并未准备好应对AI安全挑战](https://www.freebuf.com/articles/paper/398612.html)
 
++ [如何用ChatGPT开发一个安全工具](https://www.freebuf.com/sectool/398605.html)
+
