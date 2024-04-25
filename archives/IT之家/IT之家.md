@@ -31,3 +31,7 @@
 
 + [小米回应“SU7 翼子板脱落”事件：目前仅个别案例，且问题车辆均有高速涉水行驶](https://m.ithome.com/html/763993.htm)
 
++ [29.99 万元起，丰田全新一代皇冠 Sedan 轿车发布](https://m.ithome.com/html/763978.htm)
+
++ [103.8 万元，新款保时捷 Taycan 4 跑车上市：针对中国市场打造](https://m.ithome.com/html/764001.htm)
+

@@ -133,3 +133,13 @@
 
 + [Fami通为《沙漠大冒险》给出35分高评价](https://www.3dmgame.com/news/202404/3893544.html)
 
++ [《星刃》每张地图有三个Boss 单机游戏玩家最喜欢](https://www.3dmgame.com/news/202404/3893558.html)
+
++ [肉鸽登山游戏《孤山难越》现已登陆了主机平台](https://www.3dmgame.com/news/202404/3893556.html)
+
++ [《星刃》竟然有歧视黑人的涂鸦？索尼表示将删除](https://www.3dmgame.com/news/202404/3893557.html)
+
++ [暴雪正在为一个未公布的新作招募6个总监](https://www.3dmgame.com/news/202404/3893554.html)
+
++ [苹果Vision Pro销量未达预期 导致产量削减](https://www.3dmgame.com/news/202404/3893555.html)
+

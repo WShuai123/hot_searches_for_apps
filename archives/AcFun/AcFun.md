@@ -73,3 +73,5 @@
 
 + [病名为菜！AI怪叫版](http://www.acfun.cn/v/ac44394544)
 
++ [《初听不识曲中意，再听已是树上猴》](http://www.acfun.cn/v/ac44393815)
+

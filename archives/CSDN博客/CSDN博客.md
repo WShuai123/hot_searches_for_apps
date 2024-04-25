@@ -101,3 +101,39 @@
 
 + [YOLOv8改进项目汇总-超全改进-ultralyticsPro介绍:订阅了《芒果YOLOv8原创改进专栏》的读者免费赠送，包括很多稀有改进](https://blog.csdn.net/qq_38668236/article/details/138140518)
 
++ [卓越体验的秘密武器：评测ToDesk云电脑、青椒云、天翼云的稳定性和流畅度](https://blog.csdn.net/qq_44866828/article/details/138159170)
+
++ [Spark-机器学习（4）回归学习之逻辑回归](https://blog.csdn.net/qq_49513817/article/details/138049507)
+
++ [【Linux】使用Jenkins + svn + springboot自动构建jar包并自动打包在服务器上运行](https://blog.csdn.net/liu_chen_yang/article/details/134415668)
+
++ [合合信息：acge_text_embedding 文本向量化模型登顶 C-MTEB 中文榜单](https://blog.csdn.net/qq_44273429/article/details/138077122)
+
++ [【Linux】详解信号的分类&&如何自定义信号的作用](https://blog.csdn.net/m0_74265792/article/details/138039586)
+
++ [Spring Boot 中的监视器是什么？有哪些功能和作用？](https://blog.csdn.net/guorui_java/article/details/138144127)
+
++ [多维度拆解分析方法](https://blog.csdn.net/ak2111/article/details/138096114)
+
++ [‍ 太空网络攻击](https://blog.csdn.net/ptsecurity/article/details/138171466)
+
++ [深入Doris实时数仓：导入本地数据](https://blog.csdn.net/qq_26664043/article/details/137979739)
+
++ [【prometheus】k8s集群部署AlertManager实现邮件和钉钉告警](https://blog.csdn.net/qq_35995514/article/details/138046738)
+
++ [【ElasticSearch】DSL查询文档](https://blog.csdn.net/m0_62645012/article/details/138155192)
+
++ [程序员英语之Spring篇](https://blog.csdn.net/weixin_51250404/article/details/138128835)
+
++ [《统计学习方法》——第5章 决策树](https://blog.csdn.net/weixin_46034279/article/details/138123509)
+
++ [【热门话题】AI作画算法原理解析](https://blog.csdn.net/qq_44214428/article/details/138167924)
+
++ [【项目实战】基于高并发服务器的搜索引擎](https://blog.csdn.net/m0_74215144/article/details/138157231)
+
++ [FastGPT 调用本地Whisper模型进行语音转文字](https://blog.csdn.net/yixiuquan/article/details/138164116)
+
++ [4.26日学习记录](https://blog.csdn.net/weixin_74020633/article/details/138167592)
+
++ [YOLOv8 训练自己的数据集（20240423）](https://blog.csdn.net/nangongyanya/article/details/138121946)
+
