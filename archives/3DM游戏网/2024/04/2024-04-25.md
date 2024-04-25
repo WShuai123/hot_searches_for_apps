@@ -213,3 +213,15 @@
 
 + [《蟹蟹寻宝奇遇》开发者被好评震撼：不敢相信是真的](https://www.3dmgame.com/news/202404/3893589.html)
 
++ [《人类一败涂地》宣布登陆国行Switch 定价78元](https://www.3dmgame.com/news/202404/3893594.html)
+
++ [类《8号出口》游戏《女优! 离不开那个泳池了！》即将在4月推出](https://www.3dmgame.com/news/202404/3893596.html)
+
++ [国际月球科研站建设时间表公布 2035年前基本配套建成](https://www.3dmgame.com/news/202404/3893597.html)
+
++ [《星刃》首日补丁添加“新游戏+”模式 升级全继承](https://www.3dmgame.com/news/202404/3893598.html)
+
++ [Studio Colorido原创动画电影《我的鬼女孩》正式预告公开 5月24日上映](https://www.3dmgame.com/news/202404/3893599.html)
+
++ [《April 24th》登陆Steam 第一人称恐怖探索](https://www.3dmgame.com/news/202404/3893595.html)
+
