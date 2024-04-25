@@ -121,3 +121,5 @@
 
 + [Assista AI](https://www.producthunt.com/posts/assista-ai)
 
++ [AI Clips: Viral shorts from long videos](https://www.producthunt.com/posts/ai-clips-viral-shorts-from-long-videos)
+

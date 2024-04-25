@@ -233,3 +233,19 @@
 
 + [任天堂公布《纸片马里奥：千年之门》介绍影片 5月23日发售](https://www.3dmgame.com/news/202404/3893601.html)
 
++ [维塔士员工资料显示 《上古卷轴4》虚幻5重制版开发中](https://www.3dmgame.com/news/202404/3893608.html)
+
++ [荣耀华为并列第一！Q1中国智能手机市场排名出炉](https://www.3dmgame.com/news/202404/3893611.html)
+
++ [KK官方对战平台全网招募地图代言人，引荐转发抽小米手机！](https://www.3dmgame.com/news/202404/3893610.html)
+
++ [策略RPG游戏 《绯红的神约Echocalypse》Steam页面上线 5月发售](https://www.3dmgame.com/news/202404/3893609.html)
+
++ [《热血硬派国夫君外传》新DLC透露 《双截龙2》兄弟参战](https://www.3dmgame.com/news/202404/3893607.html)
+
++ [科雷娱乐新作《熔炉密林》Steam开启抢先体验 首发九折优惠](https://www.3dmgame.com/news/202404/3893606.html)
+
++ [《最终幻想16》后吉田直树想从黑暗幻想中休息一下](https://www.3dmgame.com/news/202404/3893605.html)
+
++ [《辐射》电视剧观众希望能在《辐射5》中保留马特·贝瑞配音版的巧手先生](https://www.3dmgame.com/news/202404/3893604.html)
+
