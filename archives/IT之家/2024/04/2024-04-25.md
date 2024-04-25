@@ -43,3 +43,13 @@
 
 + [小鹏汽车公布全新品牌 MONA，何小鹏豪言“预计比小米 SU7 销量更好”](https://m.ithome.com/html/764096.htm)
 
++ [比亚迪秦 L DM-i 北京车展全球首发亮相，或售 12 万元起](https://m.ithome.com/html/764131.htm)
+
++ [IDC：第一季度中国手机市场荣耀第一，华为、OPPO、苹果、vivo 紧随其后](https://m.ithome.com/html/764115.htm)
+
++ [小米汽车 SU7 Max 浙赛成绩揭晓，搭配原厂轮胎跑出 1 分 42 秒 163](https://m.ithome.com/html/764057.htm)
+
++ [一汽丰田全新一代普拉多发布：提供 5/6 座车型，45.98 万-54.98 万元](https://m.ithome.com/html/763987.htm)
+
++ [雷军现身北京车展比亚迪展台：称对方是小米手机 / 汽车重要伙伴，大赞方程豹“一定是爆款”](https://m.ithome.com/html/764184.htm)
+

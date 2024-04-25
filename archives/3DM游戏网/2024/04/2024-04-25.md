@@ -269,3 +269,31 @@
 
 + [德普狠批好莱坞砸钱拍无新意烂片：观众们早已厌倦](https://www.3dmgame.com/news/202404/3893612.html)
 
++ [微软要求CPU必须支持SSE 4.2 否则Windows 11 24H2无法启动](https://www.3dmgame.com/news/202404/3893634.html)
+
++ [《冰汽时代》销量超500万套 平均游玩时长24小时](https://www.3dmgame.com/news/202404/3893635.html)
+
++ [贾跃亭：已偿还100多亿美元债务 替乐视还的！](https://www.3dmgame.com/news/202404/3893625.html)
+
++ [《蟹蟹寻宝奇遇》IGN&PC Gamer 双8分](https://www.3dmgame.com/news/202404/3893626.html)
+
++ [EA重生国风肉鸽--《海山：昆仑镜》开放DEMO](https://www.3dmgame.com/news/202404/3893627.html)
+
++ [大型偶像企划「B-PROJECT」首部主机游戏《B-PROJECT 流星*幻想曲》预定于2024年发](https://www.3dmgame.com/news/202404/3893628.html)
+
++ [B站2024高能电玩节高能来袭！世嘉，育碧等厂商参展](https://www.3dmgame.com/news/202404/3893629.html)
+
++ [魔女与人类的校园恋爱物语 —— 乙女游戏《MAJESTIC☆MAJOLICAL》亚洲繁中版本日发售！](https://www.3dmgame.com/news/202404/3893630.html)
+
++ [深海第一人称解谜游戏《Thalassa: Edge of the Abyss》将于6.19推出](https://www.3dmgame.com/news/202404/3893631.html)
+
++ [乡村模拟+沙雕冒险《老家奇妙日记》现已发售Steam](https://www.3dmgame.com/news/202404/3893632.html)
+
++ [《百万吨级武藏W：WIRED》今日4月25日（周四） 发售！](https://www.3dmgame.com/news/202404/3893633.html)
+
++ [国产修仙种田游戏《一方灵田》销量破10万 新内容更新上线](https://www.3dmgame.com/news/202404/3893622.html)
+
++ [《潜渊症》血色危机更新上线 追加新怪物新战役](https://www.3dmgame.com/news/202404/3893623.html)
+
++ [全球首块英伟达H200交付：黄仁勋给OpenAI送货上门](https://www.3dmgame.com/news/202404/3893624.html)
+
