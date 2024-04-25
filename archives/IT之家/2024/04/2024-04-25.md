@@ -39,3 +39,7 @@
 
 + [小米集团华东总部将于 5 月初启用，将成为除北京总部外全国最大研发中心](https://m.ithome.com/html/763969.htm)
 
++ [1999 元起，iQOO Z9 / Turbo 系列手机发布：搭载高通骁龙 7 Gen3/8s Gen3](https://m.ithome.com/html/763976.htm)
+
++ [小鹏汽车公布全新品牌 MONA，何小鹏豪言“预计比小米 SU7 销量更好”](https://m.ithome.com/html/764096.htm)
+

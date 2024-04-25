@@ -225,3 +225,11 @@
 
 + [《April 24th》登陆Steam 第一人称恐怖探索](https://www.3dmgame.com/news/202404/3893595.html)
 
++ [《百英雄传》近日更新修复问题 部分NPC名字为众筹支援者并非BUG](https://www.3dmgame.com/news/202404/3893602.html)
+
++ [台积电1.6nm技术A16首次公开 2026年开始量产](https://www.3dmgame.com/news/202404/3893603.html)
+
++ [隐私窥探狂欢！剧情向解谜游戏《全网公敌2新世界》5月10日发售，首发特惠52.2元！](https://www.3dmgame.com/news/202404/3893600.html)
+
++ [任天堂公布《纸片马里奥：千年之门》介绍影片 5月23日发售](https://www.3dmgame.com/news/202404/3893601.html)
+

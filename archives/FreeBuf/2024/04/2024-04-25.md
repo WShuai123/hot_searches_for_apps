@@ -59,3 +59,13 @@
 
 + [搜狗、百度...多个输入法曝出重大安全漏洞，影响近十亿用户](https://www.freebuf.com/news/399237.html)
 
++ [GitHub 被曝安全漏洞，可被黑客利用伪装成“微软”分发恶意软件](https://www.freebuf.com/news/399336.html)
+
++ [企业安全之SDL体系初步探索](https://www.freebuf.com/articles/es/373784.html)
+
++ [cli4bofs：一款功能强大的BOF文件运行命令行接口工具](https://www.freebuf.com/sectool/393442.html)
+
++ [数亿条 Discord 用户的个人信息正被出售](https://www.freebuf.com/news/399310.html)
+
++ [输入法重大漏洞曝光，仅华为幸免，近10亿用户受影响](https://www.freebuf.com/news/399237.html)
+
