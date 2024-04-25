@@ -37,3 +37,5 @@
 
 + [高通发布骁龙 X Plus 处理器：4 纳米工艺，10 核 Oryon CPU](https://m.ithome.com/html/763988.htm)
 
++ [小米集团华东总部将于 5 月初启用，将成为除北京总部外全国最大研发中心](https://m.ithome.com/html/763969.htm)
+

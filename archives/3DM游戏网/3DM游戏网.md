@@ -169,3 +169,27 @@
 
 + [《庄园领主》发行商感谢中国玩家 CEO中文说的这么好](https://www.3dmgame.com/news/202404/3893559.html)
 
++ [沉浸式模拟游戏《校园生活》现已登录Steam平台 6月推出试玩版](https://www.3dmgame.com/news/202404/3893580.html)
+
++ [古装互动游戏《许愿，我要带她们回现代》限时折扣价37.8元](https://www.3dmgame.com/news/202404/3893583.html)
+
++ [《龙之信条2》最新更新上线 调整修复多处问题](https://www.3dmgame.com/news/202404/3893582.html)
+
++ [《沙漠大冒险》媒体评分解禁 IGN和GS双6分](https://www.3dmgame.com/news/202404/3893581.html)
+
++ [《绝地求生》原版地图即将回归 5月14日登陆PC版](https://www.3dmgame.com/news/202404/3893579.html)
+
++ [多人知识与策略游戏《Knowledge Domination》Steam页面上线 支持简中](https://www.3dmgame.com/news/202404/3893577.html)
+
++ [Steam版《逆转裁判：逆转合集》将于下个月底下架](https://www.3dmgame.com/news/202404/3893575.html)
+
++ [《最后的咒语》首个DLC“卢恩堡的矮人”正式发售 免费更新同步上线](https://www.3dmgame.com/news/202404/3893574.html)
+
++ [《恶意不息》总监：更多游戏应该推出抢先体验](https://www.3dmgame.com/news/202404/3893573.html)
+
++ [《遮天》电视剧阵容官宣：尹正饰叶凡 祝绪丹饰姬紫月](https://www.3dmgame.com/news/202404/3893572.html)
+
++ [《星刃》女主手办新图和视频 伊芙完美身材展现](https://www.3dmgame.com/news/202404/3893578.html)
+
++ [《无职转生》Steam页面上线 3D迷宫探索RPG](https://www.3dmgame.com/news/202404/3893576.html)
+
