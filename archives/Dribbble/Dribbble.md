@@ -67,3 +67,13 @@
 
 + [Stay Weird](https://dribbble.com/shots/)
 
++ [Owl City Cover Art](https://dribbble.com/shots/)
+
++ [Brookfield Properties (Illustration Branding)](https://dribbble.com/shots/)
+
++ [Petra & Danilovgrad](https://dribbble.com/shots/)
+
++ [SUBCLUB LA – Visual Identity](https://dribbble.com/shots/)
+
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
