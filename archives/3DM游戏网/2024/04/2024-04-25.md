@@ -299,3 +299,11 @@
 
 + [亚洲首个小猪佩奇户外主题乐园落户上海 2027年开业](https://www.3dmgame.com/news/202404/3893636.html)
 
++ [Fami通新一周销量榜 《马里奥赛车8》归来第一](https://www.3dmgame.com/news/202404/3893640.html)
+
++ [RTX4060 Ti下半月供应吃紧：多品牌工厂供货量大幅减少](https://www.3dmgame.com/news/202404/3893639.html)
+
++ [微软宣布Windows 10更新补丁体积将开始变小](https://www.3dmgame.com/news/202404/3893638.html)
+
++ [首届电竞世界杯将于今年7月3日举办 奖金超6000万美元](https://www.3dmgame.com/news/202404/3893637.html)
+

@@ -63,3 +63,5 @@
 
 + [极氪 MIX“宝宝巴士”首秀：首发浩瀚-M 架构，号称全球空间最大的五座纯电](https://m.ithome.com/html/764105.htm)
 
++ [华为鸿蒙智行首款行政级旗舰轿车，享界 S9 北京车展首发亮相](https://m.ithome.com/html/764218.htm)
+
