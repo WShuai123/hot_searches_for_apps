@@ -47,3 +47,5 @@
 
 + [如何用ChatGPT开发一个安全工具](https://www.freebuf.com/sectool/398605.html)
 
++ [立即修补！Flowmon最严重的漏洞已有公开利用程序](https://www.freebuf.com/news/399264.html)
+
