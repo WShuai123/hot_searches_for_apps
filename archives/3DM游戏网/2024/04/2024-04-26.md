@@ -207,3 +207,27 @@
 
 + [《最终幻想7：永恒危机》蒂法羽毛风格服装 清纯可爱动人](https://www.3dmgame.com/news/202404/3893719.html)
 
++ [NS《喧哗番长 乙女 Double Pack》角色介绍&发售日公开！7月25日重返高中生活](https://www.3dmgame.com/news/202404/3893740.html)
+
++ [NS《深夏时光！二十世纪的暑假》：介绍本作舞台「艾草町」](https://www.3dmgame.com/news/202404/3893741.html)
+
++ [《关于我转生变成史莱姆这档事 坦派斯特开拓谭》将于2024年8月8日登场！](https://www.3dmgame.com/news/202404/3893730.html)
+
++ [《铁拳8》首次加入特卖行列！PlayStation Store及STEAM特卖活动同步展开！](https://www.3dmgame.com/news/202404/3893731.html)
+
++ [《侦探死神向你招手》5月25日登陆Steam 推理冒险新游](https://www.3dmgame.com/news/202404/3893732.html)
+
++ [丝袜“美女”偷电动车 警方抓捕后发现是壮汉男扮女装](https://www.3dmgame.com/news/202404/3893728.html)
+
++ [Adobe公布革命性新AI技术 视频清晰度可提升8倍](https://www.3dmgame.com/news/202404/3893729.html)
+
++ [Steam“Golden Week Sale”开跑！《女神异闻录３ Reload》加入Steam促销](https://www.3dmgame.com/news/202404/3893722.html)
+
++ [电影《转生成为了只有乙女游戏破灭结局的邪恶大小姐》将首登银幕](https://www.3dmgame.com/news/202404/3893723.html)
+
++ [KK官方对战平台两大赛事嗨翻五一，海量现金道具等你来拿！](https://www.3dmgame.com/news/202404/3893724.html)
+
++ [AMD下代显卡躺平!没有旗舰 也没有GDDR7显存](https://www.3dmgame.com/news/202404/3893725.html)
+
++ [《碧蓝幻想：Relink》版本更新ver 1.2.1上线 新角色新任务](https://www.3dmgame.com/news/202404/3893727.html)
+

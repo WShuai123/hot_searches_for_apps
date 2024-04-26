@@ -55,3 +55,7 @@
 
 + [暴雪宣布取消 2024 年暴雪嘉年华活动](https://m.ithome.com/html/764303.htm)
 
++ [华为高级工程师回应“Pura 70 Ultra 手机 AI 消除衣服”争议：模型根据肉色人体背景自动补全](https://m.ithome.com/html/764445.htm)
+
++ [15.98 万元起，五菱 E5 纯电动轿车上市：五菱星光网约车版本](https://m.ithome.com/html/764402.htm)
+
