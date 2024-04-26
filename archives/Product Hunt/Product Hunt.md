@@ -137,3 +137,5 @@
 
 + [Gems](https://www.producthunt.com/posts/gems-3)
 
++ [Langfuse 2.0 - LLM Engineering Platform](https://www.producthunt.com/posts/langfuse-2-0-llm-engineering-platform)
+
