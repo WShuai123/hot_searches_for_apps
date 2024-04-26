@@ -109,3 +109,9 @@
 
 + [全职猎人格斗游戏首曝13分钟对战实机演示](https://www.3dmgame.com/news/202404/3893646.html)
 
++ [《辐射4》次世代更新现已上线](https://www.3dmgame.com/news/202404/3893652.html)
+
++ [暴雪嘉年华2024被暴雪取消了 将在未来几年内回归](https://www.3dmgame.com/news/202404/3893651.html)
+
++ [沙盒游戏《灵魂面甲》发布游戏特性介绍视频](https://www.3dmgame.com/news/202404/3893650.html)
+
