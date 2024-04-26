@@ -109,3 +109,21 @@
 
 + [Psychpedia](https://www.producthunt.com/posts/psychpedia)
 
++ [Hyra](https://www.producthunt.com/posts/hyra)
+
++ [ALIagents.ai](https://www.producthunt.com/posts/aliagents-ai)
+
++ [Zombie.io: Potato Shooting](https://www.producthunt.com/posts/zombie-io-potato-shooting)
+
++ [AI Blog Articles](https://www.producthunt.com/posts/ai-blog-articles)
+
++ [Resume Photo AI](https://www.producthunt.com/posts/resume-photo-ai)
+
++ [CopyCopter](https://www.producthunt.com/posts/copycopter)
+
++ [Meeting Muse by beams](https://www.producthunt.com/posts/meeting-muse-by-beams)
+
++ [Moodset](https://www.producthunt.com/posts/moodset)
+
++ [Langfuse 2.0: LLM Engineering Platform](https://www.producthunt.com/posts/langfuse-2-0-llm-engineering-platform)
+
