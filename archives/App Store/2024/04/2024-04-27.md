@@ -209,3 +209,5 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+

@@ -25,3 +25,5 @@
 
 + [电子社保卡 App 启动华为 HarmonyOS 鸿蒙原生应用开发](https://m.ithome.com/html/764446.htm)
 
++ [零跑 C16 车型预售 24 小时订单突破 11950 单，预计满配售价 20 万元以内](https://m.ithome.com/html/764497.htm)
+
