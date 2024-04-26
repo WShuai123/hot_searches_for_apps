@@ -49,3 +49,9 @@
 
 + [比亚迪腾势 Z9 GT 亮相北京车展：搭载“易三方”，近千匹马力 / 零百 2 秒级](https://m.ithome.com/html/764258.htm)
 
++ [小米米家夜灯 3 上架：光敏 + 人体双传感器、内置锂电池至高 8 个月续航，售 59 元](https://m.ithome.com/html/764370.htm)
+
++ [字节跳动：“公司探索出售 TikTok”消息不实，无任何相关计划](https://m.ithome.com/html/764291.htm)
+
++ [暴雪宣布取消 2024 年暴雪嘉年华活动](https://m.ithome.com/html/764303.htm)
+

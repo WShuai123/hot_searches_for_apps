@@ -63,3 +63,5 @@
 
 + [如何使用bof-launcher在CC++Zig应用程序中执行Beacon对象文件（BOF）](https://www.freebuf.com/sectool/393148.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
