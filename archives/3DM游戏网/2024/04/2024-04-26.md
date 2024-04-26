@@ -173,3 +173,23 @@
 
 + [百度：AI专利申请量、授权量国内第一](https://www.3dmgame.com/news/202404/3893681.html)
 
++ [雷军透露惊人数据：苹果用户被小米SU7征服了 占比51.9%](https://www.3dmgame.com/news/202404/3893690.html)
+
++ [《绝地潜兵2》官方梗图暗示即将推出新的战略装备](https://www.3dmgame.com/news/202404/3893691.html)
+
++ [《庄园领主》没提前公开售价原因：不想让玩家被骗](https://www.3dmgame.com/news/202404/3893686.html)
+
++ [《虚拟无限计划》登陆Steam 2D横板像素风动作新游](https://www.3dmgame.com/news/202404/3893687.html)
+
++ [时隔四年 惊悚电影《隐形人》主演透露 系列续集仍在制作中](https://www.3dmgame.com/news/202404/3893688.html)
+
++ [首发折扣88元！海底类魂游戏《蟹蟹寻宝奇遇》已正式发售](https://www.3dmgame.com/news/202404/3893689.html)
+
++ [讯飞星火大模型V3.5春季上新 V4.0 6月27日发布](https://www.3dmgame.com/news/202404/3893683.html)
+
++ [拉瑞安发行总监：营销已死 真诚与玩家交流最有效](https://www.3dmgame.com/news/202404/3893682.html)
+
++ [世界最大3D打印机FoF1.0问世 80小时可造出单层住宅](https://www.3dmgame.com/news/202404/3893684.html)
+
++ [恋爱动作游戏《Eternights》销量突破15万 开发商新作制作中](https://www.3dmgame.com/news/202404/3893685.html)
+

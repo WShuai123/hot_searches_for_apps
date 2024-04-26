@@ -51,3 +51,5 @@
 
 + [WP Automatic WordPress 插件遭遇数百万次 SQL 注入攻击](https://www.freebuf.com/news/399427.html)
 
++ [app小程序攻防-外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
+

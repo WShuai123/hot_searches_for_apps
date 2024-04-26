@@ -35,3 +35,9 @@
 
 + [华为 Pocket 2 / Mate 60 系列等 11 款机型开放鸿蒙 HarmonyOS 4.2 正式版不限量升级](https://m.ithome.com/html/764211.htm)
 
++ [2024 北京车展首日一文汇总，国产新能源霸屏](https://m.ithome.com/html/764276.htm)
+
++ [何小鹏谈雷军：雷总营销能力比自己强，小鹏技术能力要做到比他强](https://m.ithome.com/html/764192.htm)
+
++ [大部分已修复，9 家厂商输入法被发现漏洞：影响 10 亿用户](https://m.ithome.com/html/764189.htm)
+
