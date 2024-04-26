@@ -111,3 +111,15 @@
 
 + [【1900】魔改民调，首相的直播首秀！《是，首相YPM》精讲10](http://www.acfun.cn/v/ac44407380)
 
++ [【涨点芝士】为什么说人类对屁屁的迷恋是刻进DNA的？| 辣个芝士](http://www.acfun.cn/v/ac44406925)
+
++ [住院一周后速胖20斤？！关于我离开了工作六年的公司后的故事（10）](http://www.acfun.cn/v/ac44406061)
+
++ [是你喜欢的类型吗 ~ celebrity](http://www.acfun.cn/v/ac44406747)
+
++ [好久不见大伙~](http://www.acfun.cn/v/ac44401663)
+
++ [【玖桑实况】《   Cocoon（茧）》初见通关全流程](http://www.acfun.cn/v/ac44406104)
+
++ [大长腿！秒杀擎天柱！能自动变形的威震天来啦-刘哥模玩](http://www.acfun.cn/v/ac44403108)
+

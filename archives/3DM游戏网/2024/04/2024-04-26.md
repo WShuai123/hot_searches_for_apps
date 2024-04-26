@@ -245,3 +245,7 @@
 
 + [精彩5月好物不断！全新训练家收藏礼盒以及更多宝可梦卡牌新品即将发售！](https://www.3dmgame.com/news/202404/3893733.html)
 
++ [三星Galaxy C55开启预售 搭载第一代骁龙7移动平台](https://www.3dmgame.com/news/202404/3893742.html)
+
++ [《活侠传》将于6月19日发售](https://www.3dmgame.com/news/202404/3893707.html)
+
