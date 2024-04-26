@@ -65,3 +65,7 @@
 
 + [OPPO Find X7 手机确定将推出纯白配色](https://m.ithome.com/html/764282.htm)
 
++ [吉利银河 L7 / L6 混动系列限时至高立减 2.5 万元，现价 9.98 万起](https://m.ithome.com/html/764425.htm)
+
++ [荣耀 Magic6 系列手机推送 MagicOS 8.0.0.130 版本更新，灵动胶囊功能可关闭](https://m.ithome.com/html/764289.htm)
+
