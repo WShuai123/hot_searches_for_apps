@@ -101,3 +101,7 @@
 
 + [4月国产网络游戏版号公布 《大侠立志传》手游等过审](https://www.3dmgame.com/news/202404/3893714.html)
 
++ [《潜行者2》新预告和截图发布 一窥剧情和氛围](https://www.3dmgame.com/news/202404/3893750.html)
+
++ [《庄园领主》Steam特别好评 首发112元](https://www.3dmgame.com/news/202404/3893751.html)
+
