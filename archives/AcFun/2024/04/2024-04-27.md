@@ -61,3 +61,5 @@
 
 + [【玖桑实况】《   Cocoon（茧）》初见通关全流程](http://www.acfun.cn/v/ac44406104)
 
++ [PS5独占的《浪人崛起》，真的值得买吗？](http://www.acfun.cn/v/ac44408781)
+

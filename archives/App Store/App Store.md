@@ -201,3 +201,11 @@
 
 + [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
 
++ [王者营地](https://itunes.apple.com/cn/app/id1102305688?mt=8)
+
++ [倒数日 · Days Matter](https://itunes.apple.com/cn/app/id406170251?mt=8)
+
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

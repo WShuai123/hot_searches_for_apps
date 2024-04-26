@@ -101,3 +101,5 @@
 
 + [AI Clips by Exemplary](https://www.producthunt.com/posts/ai-clips-by-exemplary)
 
++ [AI or Not](https://www.producthunt.com/posts/ai-or-not)
+

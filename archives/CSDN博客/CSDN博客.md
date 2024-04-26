@@ -101,3 +101,25 @@
 
 + [Yolov5 export.py实现onnx模型的导出](https://blog.csdn.net/m0_74137224/article/details/138158069)
 
++ [自动化机器学习流水线：基于Spring Boot与AI机器学习技术的融合探索](https://blog.csdn.net/g310773517/article/details/138227339)
+
++ [【Linux】详解信号产生的方式](https://blog.csdn.net/m0_74265792/article/details/138047341)
+
++ [【大数据】分布式数据库HBase](https://blog.csdn.net/Joker_ZJN/article/details/138218730)
+
++ [【树莓派】yolov5 Lite，目标检测，行人检测入侵报警，摄像头绑定](https://blog.csdn.net/x1131230123/article/details/138201461)
+
++ [零售业：机器学习赋能零售业：预测需求、个性化推荐与智能化供应链管理](https://blog.csdn.net/myTomorrow_better/article/details/138163918)
+
++ [自动驾驶-感知技术-车道线检测量产经验分享](https://blog.csdn.net/liuphahaha/article/details/138198451)
+
++ [用了十年以上的破旧电脑还能干啥？Ubuntu 24.04](https://blog.csdn.net/ZhangRelay/article/details/138225733)
+
++ [低成本异地组网平台对比推荐](https://blog.csdn.net/q1216050191/article/details/138161333)
+
++ [外包干了9天，技术退步明显。。。。。](https://blog.csdn.net/2301_80119299/article/details/138201245)
+
++ [网络安全（黑客）—2024自学](https://blog.csdn.net/dexi113/article/details/138197979)
+
++ [进程的概念（2）](https://blog.csdn.net/lin_95/article/details/138166551)
+

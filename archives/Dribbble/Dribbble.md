@@ -49,3 +49,25 @@
 
 + [Sword Tiger ????️](https://dribbble.com/shots/)
 
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
++ [Bridgetown](https://dribbble.com/shots/)
+
++ [Madly Backwards Gig Poster](https://dribbble.com/shots/)
+
++ [✍️✍️✍️](https://dribbble.com/shots/)
+
++ [Pure Sport](https://dribbble.com/shots/)
+
++ [Easter Island Moai](https://dribbble.com/shots/)
+
++ [Game break](https://dribbble.com/shots/)
+
++ [Candy pattern for client](https://dribbble.com/shots/)
+
++ [Brookfield Properties (Illustration Branding)](https://dribbble.com/shots/)
+
++ [Tattoo Series](https://dribbble.com/shots/)
+
++ [hopefully ????](https://dribbble.com/shots/)
+
