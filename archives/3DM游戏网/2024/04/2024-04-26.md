@@ -133,3 +133,33 @@
 
 + [《哥特王朝：重制版》典藏版预告 售价199.99美元](https://www.3dmgame.com/news/202404/3893653.html)
 
++ [俄罗斯方块与贪吃蛇玩法《K-Bot》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893670.html)
+
++ [孩之宝：《辐射》主题万智牌成表现最佳指挥官套牌](https://www.3dmgame.com/news/202404/3893671.html)
+
++ [反乌托邦剧情游戏《全网公敌2 新世界》新预告发布 将于5月10日推出](https://www.3dmgame.com/news/202404/3893672.html)
+
++ [多人派对游戏《猛兽派对》更新上线 追加多种挑战玩法](https://www.3dmgame.com/news/202404/3893673.html)
+
++ [第三人称刷宝射击游戏《第一后裔》宣布举行最终技术测试 5月25日开启](https://www.3dmgame.com/news/202404/3893674.html)
+
++ [《星刃》全服装展示视频 服装太性感让人大饱眼福](https://www.3dmgame.com/news/202404/3893675.html)
+
++ [《关于我转生变成史莱姆这档事 坦派斯特开拓谭》Steam页面上线 8月8日发售](https://www.3dmgame.com/news/202404/3893676.html)
+
++ [前V社开发者：Steam上至少有1000款游戏使用生成式AI](https://www.3dmgame.com/news/202404/3893663.html)
+
++ [《星刃》已正式发售 首日补丁修复输入延迟问题](https://www.3dmgame.com/news/202404/3893662.html)
+
++ [《最恐 -青鬼-》登陆Steam八折优惠 3D恐怖探索](https://www.3dmgame.com/news/202404/3893664.html)
+
++ [微软Q3财报：《使命召唤》助力游戏收入大涨51% 但Xbox销量下滑严重](https://www.3dmgame.com/news/202404/3893665.html)
+
++ [《验尸模拟器》发行日期延期  6月7日发售](https://www.3dmgame.com/news/202404/3893666.html)
+
++ [开放世界动作冒险游戏《卡库远古封印》新预告放出 5月4日推出正式版](https://www.3dmgame.com/news/202404/3893667.html)
+
++ [恐怖片《小美人鱼》预告片 颠覆经典童话故事！](https://www.3dmgame.com/news/202404/3893668.html)
+
++ [《电锯甜心RePOP》正式发布准备中 定档今年夏季发售](https://www.3dmgame.com/news/202404/3893669.html)
+
