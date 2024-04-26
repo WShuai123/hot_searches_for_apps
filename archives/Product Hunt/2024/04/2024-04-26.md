@@ -107,3 +107,5 @@
 
 + [SecBrain AI](https://www.producthunt.com/posts/secbrain-ai)
 
++ [Psychpedia](https://www.producthunt.com/posts/psychpedia)
+

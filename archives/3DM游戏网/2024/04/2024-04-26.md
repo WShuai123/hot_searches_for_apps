@@ -115,3 +115,21 @@
 
 + [沙盒游戏《灵魂面甲》发布游戏特性介绍视频](https://www.3dmgame.com/news/202404/3893650.html)
 
++ [《街头霸王6》和《龙之信条2》销量良好 卡普空上调预期利润](https://www.3dmgame.com/news/202404/3893661.html)
+
++ [韦恩斯坦强奸罪被纽约州最高法院推翻](https://www.3dmgame.com/news/202404/3893657.html)
+
++ [《NIGHTMARE OPERATOR》Steam上线 生化风恐怖射击](https://www.3dmgame.com/news/202404/3893660.html)
+
++ [《史莱姆牧场2》宣布将登陆PS5 6月11日发售](https://www.3dmgame.com/news/202404/3893659.html)
+
++ [Meta财报：虚拟/混合现实业务又损失了38亿美元](https://www.3dmgame.com/news/202404/3893658.html)
+
++ [网传《王国之心》改编作品正在制作中 迪士尼打造](https://www.3dmgame.com/news/202404/3893656.html)
+
++ [《子弹风暴》开发商取消了一款3A合作动作RPG](https://www.3dmgame.com/news/202404/3893655.html)
+
++ [PS Plus版《辐射4》次世代升级需等待 没有必要购买PS5版本](https://www.3dmgame.com/news/202404/3893654.html)
+
++ [《哥特王朝：重制版》典藏版预告 售价199.99美元](https://www.3dmgame.com/news/202404/3893653.html)
+
