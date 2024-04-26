@@ -249,3 +249,51 @@
 
 + [《活侠传》将于6月19日发售](https://www.3dmgame.com/news/202404/3893707.html)
 
++ [《KAGE～Shadow of the Ninja 绝影战士》亮相高能电玩节 双人通关视频首次公开](https://www.3dmgame.com/news/202404/3893718.html)
+
++ [探索型2D和风动作《波与月夜之青莲》亮相高能电玩节 全新中文预告](https://www.3dmgame.com/news/202404/3893720.html)
+
++ [沉浸式叙事推理游戏《接线疑云》（The Operator）亮相Bilibili高能电玩节](https://www.3dmgame.com/news/202404/3893716.html)
+
++ [《因狄斯的谎言》系列续作首曝：战棋+肉鸽卡牌 奇怪的组合增加了！](https://www.3dmgame.com/news/202404/3893698.html)
+
++ [Switch 2新细节：Joy-Con手柄采用磁力吸附](https://www.3dmgame.com/news/202404/3893745.html)
+
++ [国产单机独立游戏《彼方的她》Steam正式发售](https://www.3dmgame.com/news/202404/3893710.html)
+
++ [学生创业团队派对游戏《萌宠拆拆乐》欢乐亮相高能电玩节！DEMO开放](https://www.3dmgame.com/news/202404/3893706.html)
+
++ [ATLUS两部新作《暗喻幻想》及《真·女神转生Ⅴ》携独家内容亮相Bilibili高能电玩节](https://www.3dmgame.com/news/202404/3893711.html)
+
++ [怪奇卡牌RPG《万手一体》将于2024年内发售 坠入无相无念的万手噩梦！](https://www.3dmgame.com/news/202404/3893702.html)
+
++ [《小猫咪大城市》5月9日上线 登陆Steam/NS/Xbox](https://www.3dmgame.com/news/202404/3893705.html)
+
++ [武侠游戏《活侠传》发布新PV 预计将于2024年6月19日发售](https://www.3dmgame.com/news/202404/3893701.html)
+
++ [谍战叙事解谜游戏《谍影迷踪》高能电玩节实机首曝！](https://www.3dmgame.com/news/202404/3893700.html)
+
++ [高能电玩节：《波斯王子：Rogue》Boss战演示释出 制作组讲述游戏设计灵感](https://www.3dmgame.com/news/202404/3893699.html)
+
++ [《青岚物语》全新节日盛典及更新揭幕 邀您共踏奇幻之旅](https://www.3dmgame.com/news/202404/3893721.html)
+
++ [打破第四面墙！ 全手绘类银河恶魔城游戏《魔骨》正式公开](https://www.3dmgame.com/news/202404/3893708.html)
+
++ [满屏弹珠无限连击！ 《弹珠地狱洛坎塔》体验版今日上线](https://www.3dmgame.com/news/202404/3893726.html)
+
++ [真实心理恐怖叙事游戏《Luto》正式公开 免费体验版今日登陆Steam](https://www.3dmgame.com/news/202404/3893709.html)
+
++ [《寂静岭2：重制版》发售日和登陆平台将“很快”公布](https://www.3dmgame.com/news/202404/3893744.html)
+
++ [动作肉鸽游戏《失落城堡2》亮相Bilibili高能电玩节，全新内容曝光！](https://www.3dmgame.com/news/202404/3893717.html)
+
++ [《冒牌猫谜》亮相高能电玩节  一场猫咪的寻家之旅](https://www.3dmgame.com/news/202404/3893697.html)
+
++ [汉尘·腐草为萤，带你体验真实的“三国”生活](https://www.3dmgame.com/news/202404/3893694.html)
+
++ [全新像素动作肉鸽 《护林猿神》正式公开](https://www.3dmgame.com/news/202404/3893692.html)
+
++ [恋爱养成+模拟经营游戏《中国式相亲》 2024年11月11日发售](https://www.3dmgame.com/news/202404/3893693.html)
+
++ [传《生化危机9》内部跳票 不再瞄准2025年发售](https://www.3dmgame.com/news/202404/3893743.html)
+
