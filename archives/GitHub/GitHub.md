@@ -51,3 +51,33 @@
 
 + [academic / awesome-datascience](https://github.com/academic/awesome-datascience)
 
++ [apple / corenet](https://github.com/apple/corenet)
+
++ [SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)
+
++ [cohere-ai / cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT)
+
++ [zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js)
+
++ [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [zyronon / douyin](https://github.com/zyronon/douyin)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [apache / seatunnel](https://github.com/apache/seatunnel)
+
++ [github-copilot-resources / copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
+
++ [xelis-project / xelis-blockchain](https://github.com/xelis-project/xelis-blockchain)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [yisol / IDM-VTON](https://github.com/yisol/IDM-VTON)
+
