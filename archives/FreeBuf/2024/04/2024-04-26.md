@@ -53,3 +53,11 @@
 
 + [app小程序攻防-外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
 
++ [重生之我在知识大陆直播撕开网安行业内幕](https://www.freebuf.com/fevents/399423.html)
+
++ [新型 Brokewell 恶意软件控制安卓设备，窃取大量数据信息](https://www.freebuf.com/news/399434.html)
+
++ [PlugX又有新变种，感染250万个服务器](https://www.freebuf.com/news/399440.html)
+
++ [app小程序攻防 | 外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
+

@@ -193,3 +193,5 @@
 
 + [恋爱动作游戏《Eternights》销量突破15万 开发商新作制作中](https://www.3dmgame.com/news/202404/3893685.html)
 
++ [《战姬拉斯蒂尔》Steam抢测 美少女肉鸽动作新游](https://www.3dmgame.com/news/202404/3893696.html)
+
