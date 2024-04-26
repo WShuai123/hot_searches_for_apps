@@ -43,3 +43,9 @@
 
 + [第四次太空会师：神舟十八号 3 名航天员顺利进驻中国空间站](https://m.ithome.com/html/764302.htm)
 
++ [雷军和周鸿祎，谁才是 2024 北京车展顶流？](https://m.ithome.com/html/764334.htm)
+
++ [2499 元，水月雨 MIAD 01 全网通 5G HiFi 手机开售](https://m.ithome.com/html/764234.htm)
+
++ [比亚迪腾势 Z9 GT 亮相北京车展：搭载“易三方”，近千匹马力 / 零百 2 秒级](https://m.ithome.com/html/764258.htm)
+
