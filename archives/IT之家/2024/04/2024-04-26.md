@@ -31,3 +31,7 @@
 
 + [雷军：被叫作“雷厂长”很自豪，小米汽车 3 年后启动国际市场](https://m.ithome.com/html/764298.htm)
 
++ [小米汽车：适配 SU7 的高性能运动套件正准备上架，超级电机 V8s 明年上车](https://m.ithome.com/html/764278.htm)
+
++ [华为 Pocket 2 / Mate 60 系列等 11 款机型开放鸿蒙 HarmonyOS 4.2 正式版不限量升级](https://m.ithome.com/html/764211.htm)
+

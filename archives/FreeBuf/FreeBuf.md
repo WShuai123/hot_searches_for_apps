@@ -47,3 +47,7 @@
 
 + [生成式人工智能系统的蠕虫病毒风险](https://www.freebuf.com/articles/paper/398032.html)
 
++ [从10到1000，“教父”系列银行木马变种近两年内疯狂激增](https://www.freebuf.com/news/399446.html)
+
++ [WP Automatic WordPress 插件遭遇数百万次 SQL 注入攻击](https://www.freebuf.com/news/399427.html)
+

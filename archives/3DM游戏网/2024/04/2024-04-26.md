@@ -163,3 +163,13 @@
 
 + [《电锯甜心RePOP》正式发布准备中 定档今年夏季发售](https://www.3dmgame.com/news/202404/3893669.html)
 
++ [《命运2》取消退环境：所有“日落”装备全部回归](https://www.3dmgame.com/news/202404/3893677.html)
+
++ [《宝可梦 Sleep》将开展“炎帝研究”活动 预计5月底推出](https://www.3dmgame.com/news/202404/3893678.html)
+
++ [《Project BS》Steam页面上线 龙人美少女3D动作](https://www.3dmgame.com/news/202404/3893679.html)
+
++ [类魂APRG《死亡约束》宣布登陆主机平台 2024年发售](https://www.3dmgame.com/news/202404/3893680.html)
+
++ [百度：AI专利申请量、授权量国内第一](https://www.3dmgame.com/news/202404/3893681.html)
+
