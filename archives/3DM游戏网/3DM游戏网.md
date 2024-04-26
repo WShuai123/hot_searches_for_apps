@@ -105,3 +105,11 @@
 
 + [《庄园领主》Steam特别好评 首发112元](https://www.3dmgame.com/news/202404/3893751.html)
 
++ [《赤影战士》重制版《绝影战士》8/29推出](https://www.3dmgame.com/news/202404/3893755.html)
+
++ [《魔法使之夜》复刻版出货量和数字销量突破20万](https://www.3dmgame.com/news/202404/3893754.html)
+
++ [卡普空将于下个月在Steam上下架三款游戏](https://www.3dmgame.com/news/202404/3893753.html)
+
++ [恐怖动作新作《异形：盗贼入侵》面向VR平台公布](https://www.3dmgame.com/news/202404/3893752.html)
+
