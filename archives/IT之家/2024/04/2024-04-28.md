@@ -25,3 +25,5 @@
 
 + [小米米家 3 匹新风立式空调上架：双出风口，一级能效](https://m.ithome.com/html/764637.htm)
 
++ [消息称魅族 21 Note 手机配备黑 / 白窄边直屏，采用金属中框](https://m.ithome.com/html/764659.htm)
+
