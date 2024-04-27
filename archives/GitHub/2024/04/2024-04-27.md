@@ -53,3 +53,31 @@
 
 + [TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio)
 
++ [myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice)
+
++ [adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu)
+
++ [microsoft / MS-DOS](https://github.com/microsoft/MS-DOS)
+
++ [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
+
++ [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+
++ [EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+
++ [academic / awesome-datascience](https://github.com/academic/awesome-datascience)
+
++ [KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [langfuse / langfuse](https://github.com/langfuse/langfuse)
+
++ [TheCod3rYouTube / PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier)
+
++ [cloudflare / pingora](https://github.com/cloudflare/pingora)
+

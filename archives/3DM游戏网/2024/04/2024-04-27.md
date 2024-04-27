@@ -151,3 +151,5 @@
 
 + [EA宣布《FIFA 22》服务器将于今年年内关闭](https://www.3dmgame.com/news/202404/3893773.html)
 
++ [抖森分享签约MCU趣闻：签下两个角色的扮演合同](https://www.3dmgame.com/news/202404/3893775.html)
+

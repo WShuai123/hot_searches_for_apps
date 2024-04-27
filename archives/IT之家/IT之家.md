@@ -51,3 +51,5 @@
 
 + [特斯拉 Model Y 长续航版车型“加速提升包”国内降价：14100 元 → 7050 元](https://m.ithome.com/html/764597.htm)
 
++ [雷军回应武汉大学设“雷军班”：深感荣幸、无比珍惜](https://m.ithome.com/html/764586.htm)
+
