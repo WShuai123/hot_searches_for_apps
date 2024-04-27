@@ -125,3 +125,9 @@
 
 + [精美的新衣回宣传视频](http://www.acfun.cn/v/ac44409265)
 
++ [第一次给高达做物理特效，帮我看看帅不帅](http://www.acfun.cn/v/ac44409045)
+
++ [广州拳头大的鲜虾云吞面，配上招牌牛杂，39元的至尊享受](http://www.acfun.cn/v/ac44414191)
+
++ [【HB to Kirin】天使にふれたよ!（相遇天使）【抹恰qiia】](http://www.acfun.cn/v/ac44413360)
+
