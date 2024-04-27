@@ -101,3 +101,5 @@
 
 + [高能电玩节：《波斯王子：Rogue》Boss战演示释出 制作组讲述游戏设计灵感](https://www.3dmgame.com/news/202404/3893699.html)
 
++ [全职猎人格斗游戏首曝预告片亮相EVO Japan 2024](https://www.3dmgame.com/news/202404/3893782.html)
+
