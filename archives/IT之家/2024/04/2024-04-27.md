@@ -31,3 +31,5 @@
 
 + [小米自带线充电宝 20000mAh 上架：支持 33W 功率，售价 159 元](https://m.ithome.com/html/764544.htm)
 
++ [华为家庭存储测试微信备份功能，需搭配鸿蒙 HarmonyOS 4.2 及以上版本手机平板使用](https://m.ithome.com/html/764539.htm)
+

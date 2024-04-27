@@ -113,3 +113,5 @@
 
 + [恐怖动作新作《异形：盗贼入侵》面向VR平台公布](https://www.3dmgame.com/news/202404/3893752.html)
 
++ [《生化危机》之父三上真司希望拜托生存恐怖游戏类型](https://www.3dmgame.com/news/202404/3893756.html)
+
