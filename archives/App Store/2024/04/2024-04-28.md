@@ -203,3 +203,13 @@
 
 + [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
++ [Delta - Game Emulator](https://itunes.apple.com/cn/app/id1048524688?mt=8)
+
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+
++ [猫眼-电影演唱会演出休闲玩乐购票平台](https://itunes.apple.com/cn/app/id504274740?mt=8)
+
++ [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
+
