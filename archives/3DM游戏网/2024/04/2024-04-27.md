@@ -137,3 +137,9 @@
 
 + [小米SU7铝线替代铜线惹争议 博主：以后还会降成本](https://www.3dmgame.com/news/202404/3893767.html)
 
++ [《庄园领主》取材于真实历史 但并不追逐历史准确性](https://www.3dmgame.com/news/202404/3893770.html)
+
++ [AMD痛失重要伙伴：微星全力做英伟达RTX系显卡](https://www.3dmgame.com/news/202404/3893769.html)
+
++ [《黑帝斯2》技术测试即将结束 EA版随时可能推出](https://www.3dmgame.com/news/202404/3893768.html)
+

@@ -41,3 +41,7 @@
 
 + [微信官方解答客户端“消息撤回时限”：常规消息 2 分钟、文件类 3 小时](https://m.ithome.com/html/764574.htm)
 
++ [小米公布 SU7 车型 5 月购车权益：下定全系即赠 Nappa 真皮座椅 / 增强智驾功能](https://m.ithome.com/html/764588.htm)
+
++ [拒绝卡脖子，消息称华为组建联盟开发 HBM2：计划 2026 年量产](https://m.ithome.com/html/764578.htm)
+
