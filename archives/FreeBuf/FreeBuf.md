@@ -47,3 +47,5 @@
 
 + [鉴源实验室丨智能网联汽车协议模糊测试技术概述](https://www.freebuf.com/articles/network/398229.html)
 
++ [OWASP 发布十大开源软件风险清单（详解版）](https://www.freebuf.com/news/398276.html)
+

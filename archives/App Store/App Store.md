@@ -213,3 +213,7 @@
 
 + [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
 
++ [网易云音乐-泰勒全新专辑上线](https://itunes.apple.com/cn/app/id590338362?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
