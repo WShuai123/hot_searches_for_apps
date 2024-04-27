@@ -145,3 +145,9 @@
 
 + [《辐射》电视剧连获佳绩 成为亚马逊平台开局最佳剧集](https://www.3dmgame.com/news/202404/3893771.html)
 
++ [《最终幻想16》二周目出现严重BUG 克莱夫同伴没了](https://www.3dmgame.com/news/202404/3893774.html)
+
++ [《复仇者联盟4》导演：并不存在所谓的超英审美疲劳](https://www.3dmgame.com/news/202404/3893772.html)
+
++ [EA宣布《FIFA 22》服务器将于今年年内关闭](https://www.3dmgame.com/news/202404/3893773.html)
+

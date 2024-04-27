@@ -47,3 +47,7 @@
 
 + [神舟推出 15.6 英寸轻薄本优雅 X5：搭载 i9-12900H，2999 元](https://m.ithome.com/html/764519.htm)
 
++ [小米高管否认雷军被李想锁车里：两位老板相谈甚欢](https://m.ithome.com/html/764625.htm)
+
++ [特斯拉 Model Y 长续航版车型“加速提升包”国内降价：14100 元 → 7050 元](https://m.ithome.com/html/764597.htm)
+
