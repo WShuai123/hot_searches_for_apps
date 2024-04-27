@@ -53,3 +53,7 @@
 
 + [雷军回应武汉大学设“雷军班”：深感荣幸、无比珍惜](https://m.ithome.com/html/764586.htm)
 
++ [消息称淘宝、京东今年均取消 618 预售，5 月下旬现货开售](https://m.ithome.com/html/764657.htm)
+
++ [比亚迪宋 L 智驾款亮相 2024 北京车展，计划 6 月上市](https://m.ithome.com/html/764633.htm)
+

@@ -153,3 +153,7 @@
 
 + [抖森分享签约MCU趣闻：签下两个角色的扮演合同](https://www.3dmgame.com/news/202404/3893775.html)
 
++ [《反恐精英2》更新发布 添加左手瞄准选项](https://www.3dmgame.com/news/202404/3893777.html)
+
++ [美光在《芯片法案》获得61.4亿美元补贴 未来约40%的DRAM芯片生产转移到本土](https://www.3dmgame.com/news/202404/3893776.html)
+
