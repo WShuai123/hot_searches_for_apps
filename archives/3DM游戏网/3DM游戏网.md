@@ -115,3 +115,11 @@
 
 + [《生化危机》之父三上真司希望拜托生存恐怖游戏类型](https://www.3dmgame.com/news/202404/3893756.html)
 
++ [微星将专注于英伟达显卡 疑似不再生产AMD显卡](https://www.3dmgame.com/news/202404/3893759.html)
+
++ [《奈米使徒计划》试玩版登陆Steam平台 新预告发布](https://www.3dmgame.com/news/202404/3893760.html)
+
++ [《深岩银河》直播介绍第五赛季内容及多个新项目](https://www.3dmgame.com/news/202404/3893757.html)
+
++ [微信官方回应消息撤回限制：常规消息2分钟、文件3小时](https://www.3dmgame.com/news/202404/3893758.html)
+
