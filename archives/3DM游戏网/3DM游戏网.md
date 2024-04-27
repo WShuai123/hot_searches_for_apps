@@ -157,3 +157,11 @@
 
 + [美光在《芯片法案》获得61.4亿美元补贴 未来约40%的DRAM芯片生产转移到本土](https://www.3dmgame.com/news/202404/3893776.html)
 
++ [OPPO暂停XR业务 重点将转向AI领域](https://www.3dmgame.com/news/202404/3893780.html)
+
++ [《星刃》首日补丁性感服装遭和谐 玩家强烈不满](https://www.3dmgame.com/news/202404/3893781.html)
+
++ [苹果或与OpenAI合作 将ChatGPT引入iPhone](https://www.3dmgame.com/news/202404/3893778.html)
+
++ [传《辐射5》由其他工作室开发 2030年前发售](https://www.3dmgame.com/news/202404/3893779.html)
+
