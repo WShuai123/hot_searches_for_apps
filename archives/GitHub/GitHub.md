@@ -51,3 +51,5 @@
 
 + [yisol / IDM-VTON](https://github.com/yisol/IDM-VTON)
 
++ [TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio)
+

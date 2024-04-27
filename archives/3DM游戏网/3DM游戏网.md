@@ -135,3 +135,5 @@
 
 + [格斗新体验 免费游戏《超级龙拳力3》现已上市](https://www.3dmgame.com/news/202404/3893762.html)
 
++ [小米SU7铝线替代铜线惹争议 博主：以后还会降成本](https://www.3dmgame.com/news/202404/3893767.html)
+
