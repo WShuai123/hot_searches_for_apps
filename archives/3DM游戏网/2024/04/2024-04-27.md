@@ -143,3 +143,5 @@
 
 + [《黑帝斯2》技术测试即将结束 EA版随时可能推出](https://www.3dmgame.com/news/202404/3893768.html)
 
++ [《辐射》电视剧连获佳绩 成为亚马逊平台开局最佳剧集](https://www.3dmgame.com/news/202404/3893771.html)
+

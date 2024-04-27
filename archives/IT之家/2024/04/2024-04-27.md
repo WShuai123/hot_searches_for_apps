@@ -45,3 +45,5 @@
 
 + [拒绝卡脖子，消息称华为组建联盟开发 HBM2：计划 2026 年量产](https://m.ithome.com/html/764578.htm)
 
++ [神舟推出 15.6 英寸轻薄本优雅 X5：搭载 i9-12900H，2999 元](https://m.ithome.com/html/764519.htm)
+
