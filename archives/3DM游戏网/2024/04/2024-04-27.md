@@ -123,3 +123,15 @@
 
 + [微信官方回应消息撤回限制：常规消息2分钟、文件3小时](https://www.3dmgame.com/news/202404/3893758.html)
 
++ [在观看《死侍与金刚狼》之前不需要复习任何电影](https://www.3dmgame.com/news/202404/3893766.html)
+
++ [《星刃》首发表现强势 24小时销量可能超过了100万](https://www.3dmgame.com/news/202404/3893763.html)
+
++ [通过Steam Deck验证的《辐射4》表现似乎更差了](https://www.3dmgame.com/news/202404/3893764.html)
+
++ [《艾尔登法环：黄金树之影》新视觉图公开](https://www.3dmgame.com/news/202404/3893765.html)
+
++ [《庄园领主》Steam在线峰值接近16万](https://www.3dmgame.com/news/202404/3893761.html)
+
++ [格斗新体验 免费游戏《超级龙拳力3》现已上市](https://www.3dmgame.com/news/202404/3893762.html)
+
