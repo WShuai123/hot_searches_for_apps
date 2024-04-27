@@ -103,3 +103,21 @@
 
 + [AI or Not](https://www.producthunt.com/posts/ai-or-not)
 
++ [Animated Statistics Maker](https://www.producthunt.com/posts/animated-statistics-maker)
+
++ [Assistena](https://www.producthunt.com/posts/assistena)
+
++ [ViZBL](https://www.producthunt.com/posts/vizbl)
+
++ [Digital Business Cards](https://www.producthunt.com/posts/digital-business-cards-3)
+
++ [Acryl](https://www.producthunt.com/posts/acryl)
+
++ [Usage-based Spaghetti](https://www.producthunt.com/posts/usage-based-spaghetti)
+
++ [Eatlicious](https://www.producthunt.com/posts/eatlicious)
+
++ [Invoice Generator](https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119)
+
++ [Wonderplan.ai 2.0](https://www.producthunt.com/posts/wonderplan-ai-2-0)
+
