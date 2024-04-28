@@ -209,3 +209,21 @@
 
 + [伊藤润二《富江》女主手办欣赏 制作精良非常还原](https://www.3dmgame.com/news/202404/3893836.html)
 
++ [问界回应：事故车辆非智驾版本 将为家属提供一切可能的支持](https://www.3dmgame.com/news/202404/3893844.html)
+
++ [充满创意的平台游戏《史莱姆糯米》Steam页面上线 Q2发售](https://www.3dmgame.com/news/202404/3893845.html)
+
++ [所有出口都要批准！日本将对半导体等实施出口管制](https://www.3dmgame.com/news/202404/3893842.html)
+
++ [苹果Vision Pro发布不到3周就有买家近半价拍卖](https://www.3dmgame.com/news/202404/3893843.html)
+
++ [《Primal Survival Wars》Steam页面上线 支持简中](https://www.3dmgame.com/news/202404/3893838.html)
+
++ [索尼第一方游戏数字下载量和收入数据泄露 《漫威蜘蛛侠》第一](https://www.3dmgame.com/news/202404/3893839.html)
+
++ [微信消息撤回仍有提示、没有已读功能：腾讯正式回应](https://www.3dmgame.com/news/202404/3893840.html)
+
++ [美国交通局：特斯拉自动驾驶导致已数百起碰撞事故](https://www.3dmgame.com/news/202404/3893841.html)
+
++ [《星刃》总监金亨泰：我们公司的DNA可能是屁股](https://www.3dmgame.com/news/202404/3893837.html)
+

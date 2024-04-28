@@ -43,3 +43,7 @@
 
 + [苹果警告用户：iPhone 充电时切勿放在枕头或毯子下面](https://m.ithome.com/html/764690.htm)
 
++ [2021 款比亚迪宋 PLUS DM-i 车型推送 OTA 升级：新增讯飞输入法、雷达显距功能](https://m.ithome.com/html/764646.htm)
+
++ [微软 Win11 开始菜单视图调整：支持显示文件夹、按首字母分组](https://m.ithome.com/html/764660.htm)
+
