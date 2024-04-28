@@ -35,3 +35,7 @@
 
 + [问界 M7 追尾养护车起火致 3 人遇难，车企回应：已成立专项小组，正配合调查](https://m.ithome.com/html/764723.htm)
 
++ [AITO 汽车回应问界 M7 Plus 事故：安全气囊正常打开，动力电池包特性均正常](https://m.ithome.com/html/764742.htm)
+
++ [理想汽车 CEO 李想发文感谢雷军：必须送对方一辆理想 L6 Max](https://m.ithome.com/html/764730.htm)
+

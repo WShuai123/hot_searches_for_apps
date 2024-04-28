@@ -51,3 +51,9 @@
 
 + [渗透测试 | 通读审计之HadSky](https://www.freebuf.com/vuls/398535.html)
 
++ [为遏制网络诈骗，日本警方在便利店投放虚假支付卡](https://www.freebuf.com/news/399593.html)
+
++ [Okta遭遇凭证填充攻击，部分客户受影响](https://www.freebuf.com/news/399586.html)
+
++ [SpaceX 泄露近150GB数据，以及三千份图纸](https://www.freebuf.com/news/399567.html)
+
