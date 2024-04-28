@@ -103,3 +103,19 @@
 
 + [全职猎人格斗游戏首曝预告片亮相EVO Japan 2024](https://www.3dmgame.com/news/202404/3893782.html)
 
++ [NS2或为“保守硬件进化” 提供向后兼容/1080p屏幕](https://www.3dmgame.com/news/202404/3893790.html)
+
++ [Bloober Team与Take-Two合作开发基于新IP游戏](https://www.3dmgame.com/news/202404/3893789.html)
+
++ [《星刃》总监回应和谐服装问题 表示正在内部讨论](https://www.3dmgame.com/news/202404/3893788.html)
+
++ [网传《王国之心4》将于2025年发售](https://www.3dmgame.com/news/202404/3893787.html)
+
++ [粉丝为《星露谷物语》制作MOD打造博德村](https://www.3dmgame.com/news/202404/3893786.html)
+
++ [《雷纳提斯》曝光新预告 新预告5月9日发布](https://www.3dmgame.com/news/202404/3893785.html)
+
++ [机娘恋爱《Qualia约定的轨迹》5月登陆Switch](https://www.3dmgame.com/news/202404/3893784.html)
+
++ [《五等分的花嫁 五等消除故事2》正式公开年内发售](https://www.3dmgame.com/news/202404/3893783.html)
+

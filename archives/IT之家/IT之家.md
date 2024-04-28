@@ -27,3 +27,5 @@
 
 + [消息称魅族 21 Note 手机配备黑 / 白窄边直屏，采用金属中框](https://m.ithome.com/html/764659.htm)
 
++ [北京车展小米 SU7 手车交互出现卡顿，官方回应：网络环境不佳](https://m.ithome.com/html/764674.htm)
+

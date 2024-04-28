@@ -41,3 +41,9 @@
 
 + [cli4bofs：一款功能强大的BOF文件运行命令行接口工具](https://www.freebuf.com/sectool/393442.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/399532.html)
+
++ [FreeBuf早报 | 朝鲜黑客组织攻击数十家韩国国防公司；美国国会通过法案禁止TikTok](https://www.freebuf.com/news/399397.html)
+
++ [Junk gun勒索软件：“豌豆射手”同样可以重拳出击](https://www.freebuf.com/articles/paper/398522.html)
+

@@ -69,3 +69,7 @@
 
 + [steam新史低来啦~国产游戏走向世界舞台【东方游戏文化周】](http://www.acfun.cn/v/ac44414881)
 
++ [窒息一分钟](http://www.acfun.cn/v/ac44415070)
+
++ [【东方】三つ目のタンゴ【晓Records PV Stack】](http://www.acfun.cn/v/ac44409608)
+
