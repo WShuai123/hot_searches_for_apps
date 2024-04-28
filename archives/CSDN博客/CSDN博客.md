@@ -135,3 +135,21 @@
 
 + [35 信号处理](https://blog.csdn.net/qq_43422358/article/details/138192798)
 
++ [ChatGPT4.0知识问答、DALL-E生成AI图片、Code Copilot辅助编程，打开新世界的大门](https://blog.csdn.net/guorui_java/article/details/138046426)
+
++ [PyTorch深度学习实战（41）——循环神经网络与长短期记忆网络](https://blog.csdn.net/LOVEmy134611/article/details/138256181)
+
++ [网络安全与密码学](https://blog.csdn.net/weixin_61074128/article/details/138246944)
+
++ [【Linux实践室】Linux文件打包和解压缩实战指南：tar打包命令操作详解（文末送书）](https://blog.csdn.net/2301_80026901/article/details/138265785)
+
++ [Blender笔记之基本操作](https://blog.csdn.net/weixin_43297891/article/details/138260839)
+
++ [java钉钉微信qq扫码登录](https://blog.csdn.net/qiaodaima0/article/details/138210432)
+
++ [Zynq 7000 系列中成功执行BootROM的条件](https://blog.csdn.net/u011565038/article/details/138248747)
+
++ [第十五届蓝桥杯大赛软件赛—网络安全选拔赛WP](https://blog.csdn.net/Aluxian_/article/details/138271179)
+
++ [Python数据分析实验二：Python数据预处理](https://blog.csdn.net/Morse_Chen/article/details/138247369)
+

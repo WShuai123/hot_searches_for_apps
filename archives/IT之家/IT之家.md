@@ -39,3 +39,7 @@
 
 + [理想汽车 CEO 李想发文感谢雷军：必须送对方一辆理想 L6 Max](https://m.ithome.com/html/764730.htm)
 
++ [比亚迪高管：华为、小米等手机大部分由比亚迪生产，公司为目前中国最大电子代工厂](https://m.ithome.com/html/764727.htm)
+
++ [苹果警告用户：iPhone 充电时切勿放在枕头或毯子下面](https://m.ithome.com/html/764690.htm)
+

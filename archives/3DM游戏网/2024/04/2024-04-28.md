@@ -201,3 +201,11 @@
 
 + [《绝地潜兵2》新任务将由玩家决定之后更新的战备武器内容](https://www.3dmgame.com/news/202404/3893831.html)
 
++ [日本销量周榜：《方舟：生存飞升》首发排名第9位](https://www.3dmgame.com/news/202404/3893835.html)
+
++ [啦啦队美女李多慧现身《星刃》活动 Cos女主好性感](https://www.3dmgame.com/news/202404/3893834.html)
+
++ [类塔科夫游戏《灰区战争》抢先体验版即将发布 售价35美元起](https://www.3dmgame.com/news/202404/3893833.html)
+
++ [伊藤润二《富江》女主手办欣赏 制作精良非常还原](https://www.3dmgame.com/news/202404/3893836.html)
+
