@@ -145,3 +145,15 @@
 
 + [《庄园领主》销量破100万份 Steam在线峰值超17万](https://www.3dmgame.com/news/202404/3893792.html)
 
++ [治愈系解谜游戏《告诉我你的故事》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893808.html)
+
++ [《庄园领主》独立开发者以《巫师3》梗作为工作室名字](https://www.3dmgame.com/news/202404/3893809.html)
+
++ [《星球大战绝地：幸存者》迎来发售一周年](https://www.3dmgame.com/news/202404/3893807.html)
+
++ [《猎人克莱文》北美改档 12月13日上映](https://www.3dmgame.com/news/202404/3893806.html)
+
++ [《仙剑世界》三测定档5月31日：首次付费删档测试](https://www.3dmgame.com/news/202404/3893805.html)
+
++ [开发商对《寂静岭2：重制版》有信心：我们感到兴奋](https://www.3dmgame.com/news/202404/3893810.html)
+

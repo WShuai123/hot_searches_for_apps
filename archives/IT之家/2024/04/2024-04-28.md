@@ -31,3 +31,5 @@
 
 + [华为联合设计，AITO 问界新 M5 车型单日大定 1250 台](https://m.ithome.com/html/764675.htm)
 
++ [理想汽车高管回应降价：对市场走势产生了错误的判断](https://m.ithome.com/html/764670.htm)
+
