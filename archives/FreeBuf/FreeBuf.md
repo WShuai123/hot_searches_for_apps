@@ -49,3 +49,5 @@
 
 + [一篇文章搞懂零信任网络](https://www.freebuf.com/articles/network/397878.html)
 
++ [渗透测试 | 通读审计之HadSky](https://www.freebuf.com/vuls/398535.html)
+

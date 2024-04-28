@@ -183,3 +183,9 @@
 
 + [发行商Slitherine现已获得《战锤40K：战区》游戏引擎所有权](https://www.3dmgame.com/news/202404/3893816.html)
 
++ [显卡又要涨价！RTX40系供应紧缺 英伟达要涨价10%](https://www.3dmgame.com/news/202404/3893826.html)
+
++ [《逃离塔科夫》PvE模式将向所有玩家开放 6个月](https://www.3dmgame.com/news/202404/3893825.html)
+
++ [《上古卷轴5：天际》VR版玩家购入痛感装置来提高真实的游戏体验](https://www.3dmgame.com/news/202404/3893824.html)
+
