@@ -51,3 +51,25 @@
 
 + [yisol / IDM-VTON](https://github.com/yisol/IDM-VTON)
 
++ [TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio)
+
++ [hydralauncher / hydra](https://github.com/hydralauncher/hydra)
+
++ [lxfater / inpaint-web](https://github.com/lxfater/inpaint-web)
+
++ [pytorch / torchtitan](https://github.com/pytorch/torchtitan)
+
++ [plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite)
+
++ [stitionai / devika](https://github.com/stitionai/devika)
+
++ [dcharatan / flowmap](https://github.com/dcharatan/flowmap)
+
++ [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+
++ [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube)
+
++ [lapce / lapce](https://github.com/lapce/lapce)
+
++ [digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+

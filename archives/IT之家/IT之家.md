@@ -47,3 +47,7 @@
 
 + [微软 Win11 开始菜单视图调整：支持显示文件夹、按首字母分组](https://m.ithome.com/html/764660.htm)
 
++ [（官方已否认）消息称小米汽车已布局 7 款车型，增程 SUV 对标理想 L 系列](https://m.ithome.com/html/764813.htm)
+
++ [朱华荣：要培养长安汽车的“雷布斯”“余大嘴”，车市面临机遇远大于挑战](https://m.ithome.com/html/764684.htm)
+
