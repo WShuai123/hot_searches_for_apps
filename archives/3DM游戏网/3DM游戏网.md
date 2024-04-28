@@ -157,3 +157,29 @@
 
 + [开发商对《寂静岭2：重制版》有信心：我们感到兴奋](https://www.3dmgame.com/news/202404/3893810.html)
 
++ [农场模拟游戏《锈崽的退休生活》现已在Steam正式推出 获好评如潮](https://www.3dmgame.com/news/202404/3893823.html)
+
++ [《Farm Together 2》5月8日发售 支持简中](https://www.3dmgame.com/news/202404/3893819.html)
+
++ [《怪物猎人物语》PS4版下载大小公布 6月12日开启预载](https://www.3dmgame.com/news/202404/3893818.html)
+
++ [全面走向“人工智能＋” 国内首个汽车大模型标准发布](https://www.3dmgame.com/news/202404/3893820.html)
+
++ [鹰角网络宣布将与华为合作 开发鸿蒙原生应用](https://www.3dmgame.com/news/202404/3893821.html)
+
++ [《庄园领主》将登陆Xbox主机 PS5版本暂未确认](https://www.3dmgame.com/news/202404/3893822.html)
+
++ [乐高星球大战发布25周年庆祝视频 或推出《星球大战绝地》乐高小人](https://www.3dmgame.com/news/202404/3893811.html)
+
++ [《猩球崛起4：新世界》新海报 人猿新冒险之旅](https://www.3dmgame.com/news/202404/3893812.html)
+
++ [《星露谷物语》1.6.6版本更新上线 恢复原版中文翻译](https://www.3dmgame.com/news/202404/3893813.html)
+
++ [育碧日本经理暗示《刺客信条：RED》今年发售](https://www.3dmgame.com/news/202404/3893814.html)
+
++ [《魔兽世界》国服开启测试招募报名 玩家快来参与！](https://www.3dmgame.com/news/202404/3893815.html)
+
++ [《星际战甲》“Jade之影”大型剧情扩展6月推出](https://www.3dmgame.com/news/202404/3893817.html)
+
++ [发行商Slitherine现已获得《战锤40K：战区》游戏引擎所有权](https://www.3dmgame.com/news/202404/3893816.html)
+
