@@ -13,3 +13,5 @@
 
 + [简单几招搞定金属质感HMI仪表](https://www.ui.cn/detail/662155.html)
 
++ [新中式与AI的融合碰撞—百度二十四节气卡设计升级](https://www.ui.cn/detail/664207.html)
+
