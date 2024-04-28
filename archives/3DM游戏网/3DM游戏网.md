@@ -227,3 +227,7 @@
 
 + [《星刃》总监金亨泰：我们公司的DNA可能是屁股](https://www.3dmgame.com/news/202404/3893837.html)
 
++ [KK官方对战平台知名主播秋日领衔主播天团，激斗角逐斗将巅峰擂台赛！](https://www.3dmgame.com/news/202404/3893846.html)
+
++ [蕴藏于谜面的谜底 《With My Past往事伴我》定档5月7日上线](https://www.3dmgame.com/news/202404/3893847.html)
+
