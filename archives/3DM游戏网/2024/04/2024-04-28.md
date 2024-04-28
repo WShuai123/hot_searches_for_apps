@@ -119,3 +119,29 @@
 
 + [《五等分的花嫁 五等消除故事2》正式公开年内发售](https://www.3dmgame.com/news/202404/3893783.html)
 
++ [后末世开放世界游戏《水上纪元》抢先体验发布后遭差评](https://www.3dmgame.com/news/202404/3893804.html)
+
++ [Thunderful陷入困境 1月裁员后现剥离北欧分销商](https://www.3dmgame.com/news/202404/3893802.html)
+
++ [《明日方舟》宣布将联动《迷宫饭》 上线时间待定](https://www.3dmgame.com/news/202404/3893803.html)
+
++ [《赛博朋克2077》新高清材质包 让所有树木更逼真](https://www.3dmgame.com/news/202404/3893801.html)
+
++ [《逃离塔科夫》将PVE模式加入付费特别版中引玩家不满](https://www.3dmgame.com/news/202404/3893800.html)
+
++ [《古墓丽影三部曲重制版》劳拉性感海报是意外删除 下次更新恢复](https://www.3dmgame.com/news/202404/3893799.html)
+
++ [叙事解密冒险游戏《EQQO》Steam页面 5月17日发售](https://www.3dmgame.com/news/202404/3893798.html)
+
++ [B社：《辐射4》XSX版所有模式都支持4K/60FPS](https://www.3dmgame.com/news/202404/3893797.html)
+
++ [《控制》总监跻身Remedy核心管理团队 担任创意总监](https://www.3dmgame.com/news/202404/3893796.html)
+
++ [好评如潮！类魂独立《蟹蟹寻宝奇遇》首日售出3万份](https://www.3dmgame.com/news/202404/3893794.html)
+
++ [《哥斯拉大战金刚2》国内票房超9亿元 全球票房破5亿美元](https://www.3dmgame.com/news/202404/3893793.html)
+
++ [《星刃》实体版可玩到未和谐版本：需断网再安装游戏](https://www.3dmgame.com/news/202404/3893791.html)
+
++ [《庄园领主》销量破100万份 Steam在线峰值超17万](https://www.3dmgame.com/news/202404/3893792.html)
+

@@ -47,3 +47,5 @@
 
 + [Junk gun勒索软件：“豌豆射手”同样可以重拳出击](https://www.freebuf.com/articles/paper/398522.html)
 
++ [一篇文章搞懂零信任网络](https://www.freebuf.com/articles/network/397878.html)
+

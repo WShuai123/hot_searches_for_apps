@@ -29,3 +29,5 @@
 
 + [北京车展小米 SU7 手车交互出现卡顿，官方回应：网络环境不佳](https://m.ithome.com/html/764674.htm)
 
++ [华为联合设计，AITO 问界新 M5 车型单日大定 1250 台](https://m.ithome.com/html/764675.htm)
+
