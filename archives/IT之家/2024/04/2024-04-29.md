@@ -51,3 +51,5 @@
 
 + [有望为鸿蒙星河版铺路：“华为开发者联盟”官方 B 站账号更名为“HarmonyOS 开发者”](https://m.ithome.com/html/764874.htm)
 
++ [消息称现阶段华为 HarmonyOS NEXT 系统流畅度追平当前鸿蒙](https://m.ithome.com/html/765079.htm)
+

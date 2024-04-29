@@ -215,3 +215,13 @@
 
 + [2024 Q1全球笔记本电脑出货量同比增长7% 联想继续领跑市场](https://www.3dmgame.com/news/202404/3893924.html)
 
++ [意外！《星刃》被IGN法国打了8分 比IGN美国评分还高](https://www.3dmgame.com/news/202404/3893929.html)
+
++ [《狮子王》前传《狮子王：木法沙传奇》首曝预告](https://www.3dmgame.com/news/202404/3893927.html)
+
++ [《功夫熊猫4》全球票房现已突破5亿美元](https://www.3dmgame.com/news/202404/3893928.html)
+
++ [《铁拳8》S1赛季宣传片 免费更新详情一览](https://www.3dmgame.com/news/202404/3893926.html)
+
++ [《街头霸王6》DLC角色豪鬼实机 5月22日参战](https://www.3dmgame.com/news/202404/3893925.html)
+
