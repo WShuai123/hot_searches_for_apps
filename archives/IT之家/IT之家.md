@@ -53,3 +53,9 @@
 
 + [消息称现阶段华为 HarmonyOS NEXT 系统流畅度追平当前鸿蒙](https://m.ithome.com/html/765079.htm)
 
++ [古尔曼：苹果 OLED iPad Pro 有“较大几率”首发搭载 M4 芯片](https://m.ithome.com/html/764888.htm)
+
++ [OPPO Pad 3 平板电脑搭载 3K 分辨率面板，配骁龙 8 Gen 3 + 16GB RAM](https://m.ithome.com/html/764885.htm)
+
++ [消息称特斯拉已获批在中国大陆境内上线 FSD 自动驾驶功能](https://m.ithome.com/html/765064.htm)
+
