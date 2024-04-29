@@ -101,3 +101,59 @@
 
 + [《Farm Together 2》5月8日发售 支持简中](https://www.3dmgame.com/news/202404/3893819.html)
 
++ [《王国之心2》的玩家时隔9年才注意到结局动画中的怪异建模问题](https://www.3dmgame.com/news/202404/3893893.html)
+
++ [《上古卷轴OL》DLC“黄金大道”上线测试服 免费体验](https://www.3dmgame.com/news/202404/3893894.html)
+
++ [《Goodnight Universe》Steam页面 不支持简中](https://www.3dmgame.com/news/202404/3893895.html)
+
++ [美国一牧师因盗用教会资金充值《糖果缤纷乐》而被捕](https://www.3dmgame.com/news/202404/3893890.html)
+
++ [特斯拉今年将投100亿美元加码AI 马斯克：否则无法参与竞争](https://www.3dmgame.com/news/202404/3893891.html)
+
++ [iOS模拟器Delta即将原生支持iPad：变身超大DS](https://www.3dmgame.com/news/202404/3893892.html)
+
++ [暴雪澄清2024年暴雪嘉年华取消与微软无关 是自己做的决定](https://www.3dmgame.com/news/202404/3893884.html)
+
++ [《辐射》Mod制作者正试图标记系列完整避难所地图](https://www.3dmgame.com/news/202404/3893885.html)
+
++ [印度科幻大片《毗湿奴降临》预告 6月27日上映](https://www.3dmgame.com/news/202404/3893886.html)
+
++ [多人即时战略游戏《前沿》免费上线 登陆VKplay](https://www.3dmgame.com/news/202404/3893887.html)
+
++ [《绝地潜兵2》杀队友神器空爆火箭已实装 官方预告将对24种武器做调整](https://www.3dmgame.com/news/202404/3893888.html)
+
++ [《暗区突围：无限》嘲讽《塔科夫》：不要250免费玩](https://www.3dmgame.com/news/202404/3893889.html)
+
++ [《海贼王》25周年纪念音乐会2024年7月巡演至加州](https://www.3dmgame.com/news/202404/3893880.html)
+
++ [横版动作冒险游戏《S.O.L搜寻光明》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893882.html)
+
++ [《恶意不息》CEO再次用中文表示歉意 希望大家给好评](https://www.3dmgame.com/news/202404/3893881.html)
+
++ [《妮姬：胜利女神》改编舞台剧6月6日公演 都是性感美女](https://www.3dmgame.com/news/202404/3893883.html)
+
++ [《庄园领主》弓箭手太弱：发布前被大削 平衡需时间](https://www.3dmgame.com/news/202404/3893871.html)
+
++ [《五等分的花嫁》新作动画确定制作 原作者春场葱监修](https://www.3dmgame.com/news/202404/3893872.html)
+
++ [《刺猬索尼克》电影衍生剧集《纳克鲁斯》现已上线并推出实体版](https://www.3dmgame.com/news/202404/3893873.html)
+
++ [网易暴雪游戏运营团队辟谣：国服数据丢失等均为谣言](https://www.3dmgame.com/news/202404/3893874.html)
+
++ [锤哥《惊天营救3》电影正有序推进中](https://www.3dmgame.com/news/202404/3893875.html)
+
++ [《猩球崛起4：新世界》全新预告 多么美好的一天！](https://www.3dmgame.com/news/202404/3893876.html)
+
++ [前《全境封锁》总监对类塔科夫新作《Exoborne》很自信](https://www.3dmgame.com/news/202404/3893877.html)
+
++ [《幻兽帕鲁》发售满百天 玩家游玩时长总计超13亿小时](https://www.3dmgame.com/news/202404/3893878.html)
+
++ [冒险游戏《Kingdom, Dungeon, and Hero》发售日 7月2日发行](https://www.3dmgame.com/news/202404/3893879.html)
+
++ [《F1 24》游戏玩法深度介绍视频 改进空气动力学模型等多个细节](https://www.3dmgame.com/news/202404/3893868.html)
+
++ [《逃离塔科夫》就PVE模式引发的不满向玩家致歉](https://www.3dmgame.com/news/202404/3893869.html)
+
++ [传《JOJO的奇妙冒险：飙马野郎》即将迎来动画化](https://www.3dmgame.com/news/202404/3893870.html)
+

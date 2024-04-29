@@ -201,3 +201,7 @@
 
 + [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
 
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
