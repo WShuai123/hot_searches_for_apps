@@ -51,3 +51,5 @@
 
 + [渗透新思路 | 仿真环境下内存转储分析和模糊测试的全记录](https://www.freebuf.com/articles/system/398343.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+

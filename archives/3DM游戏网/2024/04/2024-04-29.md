@@ -157,3 +157,7 @@
 
 + [传《JOJO的奇妙冒险：飙马野郎》即将迎来动画化](https://www.3dmgame.com/news/202404/3893870.html)
 
++ [2026年多人FPS新作《Breakthrough》提前泄露](https://www.3dmgame.com/news/202404/3893896.html)
+
++ [RTX4090焊点频频脱落 完全没法修！暴力包装运输惹的祸](https://www.3dmgame.com/news/202404/3893897.html)
+

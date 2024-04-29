@@ -205,3 +205,11 @@
 
 + [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
 
++ [腾讯视频-开始推理吧第2季探索真相](https://itunes.apple.com/cn/app/id458318329?mt=8)
+
++ [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+

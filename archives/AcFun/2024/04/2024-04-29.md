@@ -71,3 +71,7 @@
 
 + [东京EVO2024Day1Day2现场集锦](http://www.acfun.cn/v/ac44423276)
 
++ [圆神讲故事【明明是我先】——就当他出去练技术了](http://www.acfun.cn/v/ac44423231)
+
++ [真ikun就应该选择这样的玩具！又搜罗了十几款鸡哥周边产品](http://www.acfun.cn/v/ac44417630)
+

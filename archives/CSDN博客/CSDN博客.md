@@ -101,3 +101,55 @@
 
 + [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/S18374/article/details/138256644)
 
++ [【机器学习】集成学习---Bagging之随机森林（RF）](https://blog.csdn.net/qq_38614074/article/details/138250264)
+
++ [C#实现 IDbConnection / IDbCommand 等相关通用数据接口](https://blog.csdn.net/michaelline/article/details/138268833)
+
++ [spring boot3多模块项目工程搭建-上（团队开发模板）](https://blog.csdn.net/qq_62262918/article/details/138279618)
+
++ [机器学习在医疗行业的应用：颠覆传统诊疗模式，开启智慧医疗新时代](https://blog.csdn.net/a1657054242/article/details/138300342)
+
++ [什么是域名解析？域名解析的完整流程是什么？如何清理DNS缓存？（附源码）](https://blog.csdn.net/chenlycly/article/details/138245881)
+
++ [【python】利用 GridSearchCV 和 SVM 进行学生成绩预测](https://blog.csdn.net/weixin_53197693/article/details/138275238)
+
++ [【赠书第23期】需求可视化：22个需求模型及其应用场景](https://blog.csdn.net/qq_20016593/article/details/138164728)
+
++ [第一篇【AI与传奇开心果系列】Python的AI相关库技术点案例示例:详解AI作画原理](https://blog.csdn.net/jackchuanqi/article/details/138221847)
+
++ [基于FPGA的数字信号处理（5）--Signed的本质和作用](https://blog.csdn.net/wuzhikaidetb/article/details/138273116)
+
++ [最新官方破解版会声会影2024永久序列号和激活码](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/138255217)
+
++ [AI大模型探索之路-训练篇7：大语言模型Transformer库之HuggingFace介绍](https://blog.csdn.net/xiaobing259/article/details/138294519)
+
++ [Jenkins持续化集成](https://blog.csdn.net/zhengzhaoyang122/article/details/138201978)
+
++ [SpringMVC进阶（自定义拦截器以及异常处理）](https://blog.csdn.net/m0_64637029/article/details/138292103)
+
++ [Springboot + MySQL + html 实现文件的上传、存储、下载、删除](https://blog.csdn.net/xuezhe5212/article/details/138290923)
+
++ [将mysql转为oracle](https://blog.csdn.net/qq_55410341/article/details/138287752)
+
++ [Spark-机器学习（5）分类学习之朴素贝叶斯算法](https://blog.csdn.net/qq_49513817/article/details/138233224)
+
++ [【Linux】文件系统](https://blog.csdn.net/JLX_1/article/details/138039970)
+
++ [内容为王，推广为后：技术博客文章推广全攻略](https://blog.csdn.net/coder_heweilai/article/details/138290036)
+
++ [Android 学习 鸿蒙HarmonyOS 4.0 第二天（项目结构认识）](https://blog.csdn.net/qq_43670077/article/details/138282853)
+
++ [.2700勒索病毒，网络安全面临的新威胁](https://blog.csdn.net/safe130/article/details/138282457)
+
++ [Baidu comate智能编程助手评测](https://blog.csdn.net/weixin_59383576/article/details/138222326)
+
++ [ElasticSearch自动补全](https://blog.csdn.net/weixin_53676834/article/details/138281085)
+
++ [一种基于YOLOv8改进的高精度红外小目标检测算法 （原创自研）](https://blog.csdn.net/m0_63774211/article/details/138300252)
+
++ [MyBatis（一）](https://blog.csdn.net/2301_76161469/article/details/138190729)
+
++ [使用动态ip上网稳定吗？](https://blog.csdn.net/EVA_Proxy/article/details/138281874)
+
++ [【上岗认证】错题整理记录](https://blog.csdn.net/m0_57532432/article/details/138206644)
+
