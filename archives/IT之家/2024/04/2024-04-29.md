@@ -47,3 +47,7 @@
 
 + [雷军谈个人微博运营：起床先想好三五条，每条内容自己编写、发送](https://m.ithome.com/html/764906.htm)
 
++ [消息称马斯克已离开中国，此次访华时间不足 24 小时](https://m.ithome.com/html/764992.htm)
+
++ [有望为鸿蒙星河版铺路：“华为开发者联盟”官方 B 站账号更名为“HarmonyOS 开发者”](https://m.ithome.com/html/764874.htm)
+
