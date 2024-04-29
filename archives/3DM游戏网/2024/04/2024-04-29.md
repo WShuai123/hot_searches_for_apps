@@ -169,3 +169,9 @@
 
 + [乐高即将推出两款全新《动物森友会》联名玩具套装](https://www.3dmgame.com/news/202404/3893898.html)
 
++ [《赛马娘 Pretty Derby 热血喧闹大感谢祭！》2024年8月30日发售！最新预告片同步公开](https://www.3dmgame.com/news/202404/3893904.html)
+
++ [《罪恶装备：STRIVE》新DLC角色“Slayer”公布 5月30日上线](https://www.3dmgame.com/news/202404/3893903.html)
+
++ [游戏王TGC比赛参赛达到7443人 破世界纪录](https://www.3dmgame.com/news/202404/3893902.html)
+
