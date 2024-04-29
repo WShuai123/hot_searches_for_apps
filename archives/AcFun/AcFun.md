@@ -75,3 +75,5 @@
 
 + [真ikun就应该选择这样的玩具！又搜罗了十几款鸡哥周边产品](http://www.acfun.cn/v/ac44417630)
 
++ [我看咖咖也是风韵犹存【Abracadabra】](http://www.acfun.cn/v/ac44422998)
+

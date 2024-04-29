@@ -53,3 +53,7 @@
 
 + [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
 
++ [监控无边界，英国将通过《调查权法案》修正案](https://www.freebuf.com/articles/399704.html)
+
++ [内含“政府首脑、毒枭”等人物的详细信息，World-Check 数据库遭泄露](https://www.freebuf.com/news/399706.html)
+

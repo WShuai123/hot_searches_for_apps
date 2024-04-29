@@ -161,3 +161,11 @@
 
 + [RTX4090焊点频频脱落 完全没法修！暴力包装运输惹的祸](https://www.3dmgame.com/news/202404/3893897.html)
 
++ [《使命召唤》开发组Treyarch正在招募负责优化AI生成内容的员工](https://www.3dmgame.com/news/202404/3893901.html)
+
++ [《绝地潜兵2》官方暗嘲《塔科夫》250美元捆绑包](https://www.3dmgame.com/news/202404/3893900.html)
+
++ [《碧蓝幻想：Relink》将推出《赛马娘》联动舞蹈动作 5月上线](https://www.3dmgame.com/news/202404/3893899.html)
+
++ [乐高即将推出两款全新《动物森友会》联名玩具套装](https://www.3dmgame.com/news/202404/3893898.html)
+

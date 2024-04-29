@@ -21,3 +21,5 @@
 
 + [仙山小农](https://www.taptap.cn/app/213502)
 
++ [少年西游记2](https://www.taptap.cn/app/247432)
+
