@@ -67,3 +67,5 @@
 
 + [今晚这场关于网安人升职加薪的直播，你也可以不来](https://www.freebuf.com/fevents/399802.html)
 
++ [网络安全是智能汽车下一个要卷的方向？](https://www.freebuf.com/articles/399788.html)
+

@@ -45,3 +45,5 @@
 
 + [小米 Redmi 显示器 G27Q 2025 款上架，预售价 899 元](https://m.ithome.com/html/764878.htm)
 
++ [雷军谈个人微博运营：起床先想好三五条，每条内容自己编写、发送](https://m.ithome.com/html/764906.htm)
+
