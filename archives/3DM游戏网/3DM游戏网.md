@@ -199,3 +199,15 @@
 
 + [《铁拳8》于EVO Japan活动中公开今后更新时程！同步公开全新角色Lidia Sobieska](https://www.3dmgame.com/news/202404/3893914.html)
 
++ [悬疑解谜RPG游戏『买个可乐饼吧！』，现已在Steam免费发布！](https://www.3dmgame.com/news/202404/3893922.html)
+
++ [WIRED PRODUCTIONS 发布多款新游戏并公布发售日期及玩法初展示](https://www.3dmgame.com/news/202404/3893921.html)
+
++ [黄仁勋辣评“AI抢饭碗”：人类的工作不会消失！](https://www.3dmgame.com/news/202404/3893920.html)
+
++ [《蓝精灵：梦》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202404/3893919.html)
+
++ [国产大飞机新里程碑！C919将于6月1日开启首次境外商业飞行](https://www.3dmgame.com/news/202404/3893918.html)
+
++ [解谜和探索游戏《The Trials 2》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202404/3893917.html)
+
