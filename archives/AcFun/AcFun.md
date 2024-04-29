@@ -85,3 +85,7 @@
 
 + [经典三选一~少女时代《The Boys》](http://www.acfun.cn/v/ac44421678)
 
++ [【柯基】《又见炊烟》邓丽君](http://www.acfun.cn/v/ac44424233)
+
++ [取材大胆，差点不能上映！38年前轰动香港的电影！《癫佬正传》](http://www.acfun.cn/v/ac44420856)
+

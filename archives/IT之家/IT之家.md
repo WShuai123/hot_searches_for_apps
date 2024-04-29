@@ -39,3 +39,5 @@
 
 + [拆解显示：华为 Pura 70 手机零部件国产化率超 90%](https://m.ithome.com/html/764945.htm)
 
++ [特斯拉 CEO 马斯克来华：将继续深耕中国，加速清洁能源与自动驾驶技术落地](https://m.ithome.com/html/764877.htm)
+

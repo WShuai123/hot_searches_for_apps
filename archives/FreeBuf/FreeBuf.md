@@ -61,3 +61,7 @@
 
 + [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
 
++ [伦敦证券旗下数据库被窃取，泄露超500万条敏感信息](https://www.freebuf.com/news/399706.html)
+
++ [73% 中小企业安全人员容易错过或忽略关键安全警报](https://www.freebuf.com/news/399601.html)
+

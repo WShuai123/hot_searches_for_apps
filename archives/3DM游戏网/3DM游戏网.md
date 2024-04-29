@@ -189,3 +189,13 @@
 
 + [我国自主研制 世界最大直径高铁盾构机“领航号”始发](https://www.3dmgame.com/news/202404/3893905.html)
 
++ [网友吐槽索尼审查双标：《最后生还者2》画面比《星刃》更露骨](https://www.3dmgame.com/news/202404/3893915.html)
+
++ [《星战绝地》演员讨论新《创》电影：视觉将很震撼](https://www.3dmgame.com/news/202404/3893916.html)
+
++ [电影《神偷奶爸4》确定引进内地 档期待定](https://www.3dmgame.com/news/202404/3893912.html)
+
++ [2024年夏季游戏速通大会将于6月30日举行 持续一周](https://www.3dmgame.com/news/202404/3893913.html)
+
++ [《铁拳8》于EVO Japan活动中公开今后更新时程！同步公开全新角色Lidia Sobieska](https://www.3dmgame.com/news/202404/3893914.html)
+
