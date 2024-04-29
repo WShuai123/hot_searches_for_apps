@@ -41,3 +41,7 @@
 
 + [特斯拉 CEO 马斯克来华：将继续深耕中国，加速清洁能源与自动驾驶技术落地](https://m.ithome.com/html/764877.htm)
 
++ [雷军：小米汽车 SU7 发布后 32 天，第 10000 辆量产整车正式下线](https://m.ithome.com/html/764926.htm)
+
++ [小米 Redmi 显示器 G27Q 2025 款上架，预售价 899 元](https://m.ithome.com/html/764878.htm)
+

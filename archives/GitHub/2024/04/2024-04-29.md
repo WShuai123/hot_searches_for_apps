@@ -51,3 +51,23 @@
 
 + [digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 
++ [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+
++ [xelis-project / xelis-blockchain](https://github.com/xelis-project/xelis-blockchain)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [truefoundry / cognita](https://github.com/truefoundry/cognita)
+
++ [WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+
++ [LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production)
+

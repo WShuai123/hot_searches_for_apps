@@ -65,3 +65,5 @@
 
 + [73% 中小企业安全人员容易错过或忽略关键安全警报](https://www.freebuf.com/news/399601.html)
 
++ [今晚这场关于网安人升职加薪的直播，你也可以不来](https://www.freebuf.com/fevents/399802.html)
+

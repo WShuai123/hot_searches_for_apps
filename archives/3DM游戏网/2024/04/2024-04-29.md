@@ -211,3 +211,5 @@
 
 + [解谜和探索游戏《The Trials 2》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202404/3893917.html)
 
++ [麦当劳退款原因竟写顾客是傻X 已与顾客达成谅解](https://www.3dmgame.com/news/202404/3893923.html)
+
