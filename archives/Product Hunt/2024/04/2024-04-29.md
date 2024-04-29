@@ -113,3 +113,11 @@
 
 + [ProfessorAI](https://www.producthunt.com/posts/professorai-2)
 
++ [SaaSykit](https://www.producthunt.com/posts/saasykit)
+
++ [Intellecta](https://www.producthunt.com/posts/intellecta-2)
+
++ [My-legacy.ai](https://www.producthunt.com/posts/my-legacy-ai)
+
++ [Clubistry](https://www.producthunt.com/posts/clubistry)
+

@@ -175,3 +175,17 @@
 
 + [游戏王TGC比赛参赛达到7443人 破世界纪录](https://www.3dmgame.com/news/202404/3893902.html)
 
++ [完结纪念 尼尔手游《NieR Re[in]carnation》资料集8月28日发售](https://www.3dmgame.com/news/202404/3893911.html)
+
++ [特斯拉回应FSD入华：目前没有时间表](https://www.3dmgame.com/news/202404/3893910.html)
+
++ [《铁拳8》第1季宣传视频 新关卡更新等](https://www.3dmgame.com/news/202404/3893909.html)
+
++ [《星空》玩家在游戏中发现经典《魂斗罗》秘籍彩蛋](https://www.3dmgame.com/news/202404/3893908.html)
+
++ [KK首届钓鱼大赛火爆开启，玩RPG赢ipad、严选卡和海量平台道具！](https://www.3dmgame.com/news/202404/3893907.html)
+
++ [免费送Switch、500元京东卡！每日登录赢大奖](https://www.3dmgame.com/news/202404/3893906.html)
+
++ [我国自主研制 世界最大直径高铁盾构机“领航号”始发](https://www.3dmgame.com/news/202404/3893905.html)
+
