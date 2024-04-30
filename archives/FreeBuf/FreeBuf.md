@@ -47,3 +47,7 @@
 
 + [攻防研究 | AI在“攻”的一些探索](https://www.freebuf.com/articles/web/399553.html)
 
++ [如何使用MultCheck从静态分析结果中识别恶意字节数据](https://www.freebuf.com/sectool/393748.html)
+
++ [人工智能技术或将成为威胁攻击者的新“助力”](https://www.freebuf.com/news/399865.html)
+
