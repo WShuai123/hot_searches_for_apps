@@ -25,3 +25,5 @@
 
 + [小米 SU7 汽车开启 OTA 先锋版体验招募：提前体验城市领航辅助驾驶功能，仅限 100 人](https://m.ithome.com/html/765206.htm)
 
++ [消息称余承东卸任华为终端 BG CEO，终端 COO 何刚接任](https://m.ithome.com/html/765410.htm)
+
