@@ -101,3 +101,13 @@
 
 + [未达宣传N95标准 雷蛇RPG口罩罚款超110万美元](https://www.3dmgame.com/news/202404/3893957.html)
 
++ [《灰区战争》配置需求公布 流畅运行需RTX 3070 Ti显卡](https://www.3dmgame.com/news/202404/3894012.html)
+
++ [华为官宣：5月7日在迪拜举行全球创新产品发布会](https://www.3dmgame.com/news/202404/3894011.html)
+
++ [肉鸽地牢《亡者之地》5月13日发售 支持试玩](https://www.3dmgame.com/news/202404/3894010.html)
+
++ [XGP五月上旬新增游戏阵容 《古墓丽影9：终极版》等](https://www.3dmgame.com/news/202404/3894009.html)
+
++ [Xbox直面会将于6月10日举行 B社、暴雪游戏情报](https://www.3dmgame.com/news/202404/3894008.html)
+
