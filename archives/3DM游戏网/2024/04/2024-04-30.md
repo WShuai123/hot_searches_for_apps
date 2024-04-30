@@ -201,3 +201,9 @@
 
 + [光荣：《浪人崛起》首发销量超过了《仁王》](https://www.3dmgame.com/news/202404/3894003.html)
 
++ [调查发现英国一半玩家不会《GTA6》 部分玩家担心审查](https://www.3dmgame.com/news/202404/3894006.html)
+
++ [SE已取消多个游戏 开发资源分配将更精挑细选](https://www.3dmgame.com/news/202404/3894004.html)
+
++ [特斯拉股价飙涨15% 马斯克中国行大获成功](https://www.3dmgame.com/news/202404/3894005.html)
+
