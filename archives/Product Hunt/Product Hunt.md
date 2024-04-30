@@ -121,3 +121,7 @@
 
 + [Meeting Recorder for Product Teams](https://www.producthunt.com/posts/meeting-recorder-for-product-teams)
 
++ [VidGenesis](https://www.producthunt.com/posts/vidgenesis)
+
++ [Reply AI Chat](https://www.producthunt.com/posts/reply-ai-chat)
+

@@ -51,3 +51,35 @@
 
 + [LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production)
 
++ [hydralauncher / hydra](https://github.com/hydralauncher/hydra)
+
++ [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
+
++ [Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips)
+
++ [zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python)
+
++ [xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld)
+
++ [obhq / jailbreak-11](https://github.com/obhq/jailbreak-11)
+
++ [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+
++ [rejunity / z80-open-silicon](https://github.com/rejunity/z80-open-silicon)
+
++ [JackAILab / ConsistentID](https://github.com/JackAILab/ConsistentID)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [Innei / Shiro](https://github.com/Innei/Shiro)
+
++ [module-federation / core](https://github.com/module-federation/core)
+
++ [lxfater / inpaint-web](https://github.com/lxfater/inpaint-web)
+
++ [chat2db / Chat2DB](https://github.com/chat2db/Chat2DB)
+
