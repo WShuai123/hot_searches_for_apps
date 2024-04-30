@@ -167,3 +167,29 @@
 
 + [托德：《博德之门3》并非“爆款” 拉瑞安前作都很棒](https://www.3dmgame.com/news/202404/3893986.html)
 
++ [《超级猴子球 香蕉大乱斗》宣传片 带来欢乐大乱斗的派对娱乐体验](https://www.3dmgame.com/news/202404/3893999.html)
+
++ [《Venture to the Vile》延期上市公告](https://www.3dmgame.com/news/202404/3893998.html)
+
++ [小米一季度出货量大涨33%：稳坐全球第三 无限逼近苹果](https://www.3dmgame.com/news/202404/3893997.html)
+
++ [《星刃》能获得年度最佳？网友：打不过《最终幻想7：重生》](https://www.3dmgame.com/news/202404/3893996.html)
+
++ [机构预估 2027年AI笔记本销量占比达到75%](https://www.3dmgame.com/news/202404/3893994.html)
+
++ [三星Q1营业利润暴涨近10倍！半导体业务2022年来首次盈利](https://www.3dmgame.com/news/202404/3893995.html)
+
++ [《辐射》故事无缘他国 托德确认系列不会离开美国](https://www.3dmgame.com/news/202404/3893993.html)
+
++ [《盟军敢死队：起源》实机演示 夏季封闭测试](https://www.3dmgame.com/news/202404/3893987.html)
+
++ [《星刃》女主泳装美图欣赏：性感热辣 物理效果好](https://www.3dmgame.com/news/202404/3893992.html)
+
++ [KK官方对战平台 wow月卡重磅上线，开通立享三大超值权益！](https://www.3dmgame.com/news/202404/3893991.html)
+
++ [知名主播秋日做客KK官方对战平台抖音直播间，放狠话：“是男人就来单挑”！](https://www.3dmgame.com/news/202404/3893990.html)
+
++ [太空射击游戏《永恒空间2》“入侵”更新上线 升级至虚幻引擎5](https://www.3dmgame.com/news/202404/3893989.html)
+
++ [我国汽车销量首次突破3000万辆 乘联会：一年6000万辆不是梦](https://www.3dmgame.com/news/202404/3893988.html)
+
