@@ -143,3 +143,15 @@
 
 + [特斯拉FSD中国版售价曝光：这价格中国厂商怎么看](https://www.3dmgame.com/news/202404/3893974.html)
 
++ [大湾区低空短途运输航线今日开通：999元20分钟从深圳飞到珠海](https://www.3dmgame.com/news/202404/3893977.html)
+
++ [发售仅四天 类魂游戏《蟹蟹寻宝奇遇》销量已超10万](https://www.3dmgame.com/news/202404/3893978.html)
+
++ [志怪冒险游戏《山海旅人2》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202404/3893979.html)
+
++ [《蜘蛛侠：纵横宇宙》将于秋季举办英美巡回音乐会](https://www.3dmgame.com/news/202404/3893980.html)
+
++ [首款开放阴间题材SOC游戏《炭熄》现已登录Steam](https://www.3dmgame.com/news/202404/3893975.html)
+
++ [动森玩家耗时1410个小时打造《辐射》废土风格岛屿](https://www.3dmgame.com/news/202404/3893976.html)
+
