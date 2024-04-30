@@ -25,3 +25,5 @@
 
 + [小米 MIX 4 手机获推澎湃 HyperOS 正式版更新](https://m.ithome.com/html/765110.htm)
 
++ [小米 Redmi 显示器 G27Q 2025 款参数公布：2K+180Hz 刷新率，售价 899 元](https://m.ithome.com/html/765140.htm)
+

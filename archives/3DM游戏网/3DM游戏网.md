@@ -101,3 +101,17 @@
 
 + [游戏王TGC比赛参赛达到7443人 破世界纪录](https://www.3dmgame.com/news/202404/3893902.html)
 
++ [多人大逃杀赛车游戏《狂奔：皇家赛车》发布抢先体验预告](https://www.3dmgame.com/news/202404/3893955.html)
+
++ [《最终幻想7：重制版》天使蒂法Mod将上线 太美了](https://www.3dmgame.com/news/202404/3893956.html)
+
++ [休闲农场模拟游戏《梅树林的回响》现已在Steam平台正式推出](https://www.3dmgame.com/news/202404/3893960.html)
+
++ [《吸血鬼幸存者》1.10版本更新上线 魂斗罗DLC五月发售](https://www.3dmgame.com/news/202404/3893958.html)
+
++ [传索尼影业正在开发新的《黑衣人》电影](https://www.3dmgame.com/news/202404/3893959.html)
+
++ [韩国模拟游戏《inZOI》新视频 比《模拟人生》更棒](https://www.3dmgame.com/news/202404/3893954.html)
+
++ [未达宣传N95标准 雷蛇RPG口罩罚款超110万美元](https://www.3dmgame.com/news/202404/3893957.html)
+

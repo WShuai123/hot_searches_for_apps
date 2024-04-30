@@ -41,3 +41,5 @@
 
 + [73% 中小企业安全人员容易错过或忽略关键安全警报](https://www.freebuf.com/news/399601.html)
 
++ [美国邮政服务（USPS）被冒名，用于网络钓鱼攻击](https://www.freebuf.com/news/399846.html)
+
