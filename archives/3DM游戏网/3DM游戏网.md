@@ -111,3 +111,11 @@
 
 + [Xbox直面会将于6月10日举行 B社、暴雪游戏情报](https://www.3dmgame.com/news/202404/3894008.html)
 
++ [NS游戏《前线任务2：重制版》现已登陆其他平台](https://www.3dmgame.com/news/202405/3894015.html)
+
++ [《真女神转生5：复仇》预告片展示新创毘形态](https://www.3dmgame.com/news/202405/3894014.html)
+
++ [网传《夺宝奇兵：古老之圈》将于12月推出](https://www.3dmgame.com/news/202405/3894016.html)
+
++ [《地狱之刃2：塞娜的传奇》公布PC最低配置需求](https://www.3dmgame.com/news/202405/3894013.html)
+
