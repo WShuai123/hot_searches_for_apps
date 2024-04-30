@@ -199,3 +199,5 @@
 
 + [微星掌机更新BIOS和驱动 部分游戏性能提升150%](https://www.3dmgame.com/news/202404/3894002.html)
 
++ [光荣：《浪人崛起》首发销量超过了《仁王》](https://www.3dmgame.com/news/202404/3894003.html)
+
