@@ -125,3 +125,7 @@
 
 + [Reply AI Chat](https://www.producthunt.com/posts/reply-ai-chat)
 
++ [Linckr](https://www.producthunt.com/posts/linckr)
+
++ [Bigma](https://www.producthunt.com/posts/bigma)
+

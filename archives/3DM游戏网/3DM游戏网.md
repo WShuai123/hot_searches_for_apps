@@ -197,3 +197,5 @@
 
 + [雷军自曝如何释放压力：刷刷短视频 看看爽文](https://www.3dmgame.com/news/202404/3894001.html)
 
++ [微星掌机更新BIOS和驱动 部分游戏性能提升150%](https://www.3dmgame.com/news/202404/3894002.html)
+
