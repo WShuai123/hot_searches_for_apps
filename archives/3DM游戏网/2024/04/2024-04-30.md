@@ -115,3 +115,27 @@
 
 + [未达宣传N95标准 雷蛇RPG口罩罚款超110万美元](https://www.3dmgame.com/news/202404/3893957.html)
 
++ [第三人称复古射击游戏《舍伍德极限》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893972.html)
+
++ [《The Finals》新“终端突击”限时活动5月2日开启](https://www.3dmgame.com/news/202404/3893971.html)
+
++ [《绝地潜兵2》更新后 蛋盾护罩中使用能量武器会反弹致自身](https://www.3dmgame.com/news/202404/3893970.html)
+
++ [《勇者斗恶龙10离线版》中文试玩版上线 存档进度可继承](https://www.3dmgame.com/news/202404/3893969.html)
+
++ [Remedy Q1财报：《控制》衍生“秃鹫”进入全面制作阶段](https://www.3dmgame.com/news/202404/3893968.html)
+
++ [经营管理游戏《咖啡大篷车》发售日公布 5月20日发售](https://www.3dmgame.com/news/202404/3893967.html)
+
++ [类蔑视游戏《Necrophosis》全新预告 暂不支持中文](https://www.3dmgame.com/news/202404/3893961.html)
+
++ [网易射击游戏《漫威争锋》新地图预告：东京2099](https://www.3dmgame.com/news/202404/3893966.html)
+
++ [《铁拳8》主播只用一键操作艾迪对战 胜率却高达42.8%](https://www.3dmgame.com/news/202404/3893965.html)
+
++ [《美女,应接不暇》steam页面上线 5月15日发售](https://www.3dmgame.com/news/202404/3893964.html)
+
++ [托德确认《星空》主机Mod支持和新创作套件即将推出](https://www.3dmgame.com/news/202404/3893963.html)
+
++ [《星刃》与《尼尔》对比视频 两个大美女争芳斗艳](https://www.3dmgame.com/news/202404/3893962.html)
+

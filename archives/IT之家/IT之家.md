@@ -27,3 +27,7 @@
 
 + [小米 Redmi 显示器 G27Q 2025 款参数公布：2K+180Hz 刷新率，售价 899 元](https://m.ithome.com/html/765140.htm)
 
++ [撞车苹果，华为宣布 5 月 7 日在迪拜举行全球创新产品发布会](https://m.ithome.com/html/765150.htm)
+
++ [华为公布五一活动：手机免费贴膜，设备维修免人工费](https://m.ithome.com/html/765081.htm)
+
