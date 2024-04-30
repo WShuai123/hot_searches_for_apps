@@ -139,3 +139,7 @@
 
 + [《星刃》与《尼尔》对比视频 两个大美女争芳斗艳](https://www.3dmgame.com/news/202404/3893962.html)
 
++ [《创：战神》将延续经典 系列初代主角演员再次回归](https://www.3dmgame.com/news/202404/3893973.html)
+
++ [特斯拉FSD中国版售价曝光：这价格中国厂商怎么看](https://www.3dmgame.com/news/202404/3893974.html)
+
