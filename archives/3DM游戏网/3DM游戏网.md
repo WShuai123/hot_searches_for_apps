@@ -163,3 +163,7 @@
 
 + [推理解谜游戏《52赫兹》Steam页面 发行日期待定](https://www.3dmgame.com/news/202404/3893982.html)
 
++ [《完美音浪》Switch版已通过PEGI评级 或即将公布](https://www.3dmgame.com/news/202404/3893985.html)
+
++ [托德：《博德之门3》并非“爆款” 拉瑞安前作都很棒](https://www.3dmgame.com/news/202404/3893986.html)
+
