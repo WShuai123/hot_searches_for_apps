@@ -101,3 +101,87 @@
 
 + [【上岗认证】错题整理记录](https://blog.csdn.net/m0_57532432/article/details/138206644)
 
++ [机器学习：驱动现代交通运输革命的AI智慧引擎](https://blog.csdn.net/g310773517/article/details/138326199)
+
++ [基于随机森林和Xgboost对肥胖风险的多类别预测](https://blog.csdn.net/AOAIYI/article/details/138336200)
+
++ [【Python的魅力】：利用Pygame实现游戏坦克大战——含完整源码](https://blog.csdn.net/dh45498/article/details/138316423)
+
++ [【优质书籍推荐】AIGC时代的PyTorch 深度学习与企业级项目实战](https://blog.csdn.net/herosunly/article/details/138254154)
+
++ [路径规划 | 详解混合A*算法Hybrid A*(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/138270476)
+
++ [数据分析案例-全球表面温度数据可视化与统计分析](https://blog.csdn.net/m0_64336780/article/details/136022411)
+
++ [【Spring】Spring中AOP的简介和基本使用，SpringBoot使用AOP](https://blog.csdn.net/qq_61024956/article/details/138333607)
+
++ [基于SpringBoot和PostGIS的各省与地级市空间距离分析](https://blog.csdn.net/yelangkingwuzuhu/article/details/138294031)
+
++ [【SpringBoot】数据脱敏](https://blog.csdn.net/Qingai521/article/details/138074699)
+
++ [【redis】初始redis和分布式系统的基本知识](https://blog.csdn.net/xiaoxie8023/article/details/138260759)
+
++ [[详解]Spring AOP](https://blog.csdn.net/m0_65465009/article/details/138318716)
+
++ [揭开UI设计的神秘面纱：如何打造一款让用户爱不释手的移动APP](https://blog.csdn.net/qq_32682301/article/details/138319589)
+
++ [【活动】AIGC 技术的发展现状与未来趋势](https://blog.csdn.net/qq_44214428/article/details/138339785)
+
++ [国内各种免费AI聊天机器人(ChatGPT)推荐(上)](https://blog.csdn.net/jxjdhdnd/article/details/138244659)
+
++ [Zynq 7000 系列之启动模式—NOR启动](https://blog.csdn.net/u011565038/article/details/138277947)
+
++ [使用 GitHub Actions 实现项目的持续集成(CI)](https://blog.csdn.net/weixin_59624686/article/details/138330218)
+
++ [深入Rust标准库：必备的Rust语言高级指南](https://blog.csdn.net/qq_44273429/article/details/138344658)
+
++ [贝叶斯推理导论：如何在‘任何试验之前绝对一无所知’的情况下计算概率](https://blog.csdn.net/m0_46510245/article/details/138340799)
+
++ [【c++】深入剖析与动手实践：C++中Stack与Queue的艺术](https://blog.csdn.net/arf_dog/article/details/138255973)
+
++ [人脸识别系统架构](https://blog.csdn.net/mickey2007/article/details/138218319)
+
++ [【前端热门框架【vue框架】】——条件渲染和列表渲染的学习的秒杀方式](https://blog.csdn.net/2301_77628600/article/details/138255461)
+
++ [GaussDB数据库事务管理](https://blog.csdn.net/GaussDB/article/details/138317408)
+
++ [PyTorch与NLP：自然语言处理的深度学习实践](https://blog.csdn.net/myTomorrow_better/article/details/138302323)
+
++ [公考学习|基于SprinBoot+vue的公考学习平台(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/138340245)
+
++ [操作系统安全：安全审计，Windows系统日志详解，Windows事件ID汇总](https://blog.csdn.net/wangyuxiang946/article/details/137889330)
+
++ [【Linux】对信号产生的内核级理解](https://blog.csdn.net/m0_74265792/article/details/138139642)
+
++ [深入OceanBase分布式数据库：MySQL 模式下的 SQL 基本操作](https://blog.csdn.net/qq_26664043/article/details/138009621)
+
++ [VPN的基本概念](https://blog.csdn.net/weixin_43972437/article/details/138285373)
+
++ [Spring IoC 源码分析 (基于注解) （二） 之 包扫描](https://blog.csdn.net/2301_76348242/article/details/138343591)
+
++ [Spark-机器学习（8）分类学习之随机森林](https://blog.csdn.net/qq_49513817/article/details/138328835)
+
++ [【DevOps】Docker简介和发展趋势](https://blog.csdn.net/benshu_001/article/details/138286629)
+
++ [【统计推断】-01 抽样原理之（三）](https://blog.csdn.net/gongdiwudu/article/details/138304235)
+
++ [四种网络IO模型](https://blog.csdn.net/m0_62645012/article/details/138336548)
+
++ [基于FPGA的数字信号处理（6）--如何确定Verilog表达式的符号](https://blog.csdn.net/wuzhikaidetb/article/details/138300810)
+
++ [【Python网络爬虫】python爬虫用正则表达式进行数据清洗与处理](https://blog.csdn.net/ywsydwsbn/article/details/138198916)
+
++ [使用Matplotlib创建漂亮的数据可视化图表](https://blog.csdn.net/weixin_52908342/article/details/138310579)
+
++ [数学建模中的K-means++算法](https://blog.csdn.net/chinakenhank/article/details/138279625)
+
++ [商超物联网方案-人员和资产管理配置指南~配置人员和资产管理示例](https://blog.csdn.net/weixin_59383576/article/details/138318107)
+
++ [数字办公新纪元 ：ONLYOFFICE 2.5重磅来袭](https://blog.csdn.net/JHXL_/article/details/138310068)
+
++ [第8章 软件工程](https://blog.csdn.net/weixin_43499846/article/details/138243643)
+
++ [【Linux】开始认识软硬链接](https://blog.csdn.net/JLX_1/article/details/138292045)
+
++ [如何在 Ubuntu 16.04 上使用 Node-RED 连接你的物联网设备](https://blog.csdn.net/rubys007/article/details/138215356)
+

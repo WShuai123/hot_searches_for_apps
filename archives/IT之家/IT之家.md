@@ -39,3 +39,7 @@
 
 + [非官方授权渠道维修保养影响质保，小米 SU7 车型“答网友问”第三十二集公布](https://m.ithome.com/html/765123.htm)
 
++ [消息称华为 5 月将发布 6 大新品，涵盖手表、手机、平板、电脑](https://m.ithome.com/html/765207.htm)
+
++ [网友从头开始“手搓” GPU，坦言项目难度要比预期更高](https://m.ithome.com/html/765193.htm)
+
