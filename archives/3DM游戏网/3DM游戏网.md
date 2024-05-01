@@ -101,3 +101,11 @@
 
 + [《地狱之刃2：塞娜的传奇》公布PC最低配置需求](https://www.3dmgame.com/news/202405/3894013.html)
 
++ [《坎巴拉太空计划2》工作室被关闭 为节省成本](https://www.3dmgame.com/news/202405/3894066.html)
+
++ [《绝地潜兵2》成索尼在美发行销售额排第七的游戏](https://www.3dmgame.com/news/202405/3894067.html)
+
++ [VR游戏《蝙蝠侠：阿卡姆之影》公布 年内登陆MetaQuest](https://www.3dmgame.com/news/202405/3894064.html)
+
++ [《太阳帝国的原罪2》今年Q3发售 新预告发布](https://www.3dmgame.com/news/202405/3894065.html)
+
