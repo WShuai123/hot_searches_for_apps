@@ -169,3 +169,15 @@
 
 + [据称Atlus和世嘉的所有重制版作品都将登陆Switch2](https://www.3dmgame.com/news/202405/3894039.html)
 
++ [调查问卷显示微软似乎正在进行Xbox掌机开发计划](https://www.3dmgame.com/news/202405/3894047.html)
+
++ [《失落的记录：绽放与愤怒》对话系统将更具互动性](https://www.3dmgame.com/news/202405/3894042.html)
+
++ [孩之宝讨论《博德之门3》：高质量D&D游戏很受欢迎](https://www.3dmgame.com/news/202405/3894046.html)
+
++ [iOS 17.5正式版中旬推送：支持网页侧载应用 看齐安卓](https://www.3dmgame.com/news/202405/3894045.html)
+
++ [《星刃》DLC内容暂未确定 Boss连战模式开发中](https://www.3dmgame.com/news/202405/3894044.html)
+
++ [实验性探索游戏《POOLS》现已发售 登陆Steam平台](https://www.3dmgame.com/news/202405/3894043.html)
+
