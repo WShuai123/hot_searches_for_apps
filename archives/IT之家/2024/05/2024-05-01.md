@@ -47,3 +47,5 @@
 
 + [小米汽车带火的一体化压铸，能使生产效率提高 79 倍？](https://m.ithome.com/html/765436.htm)
 
++ [小米海外推出 Redmi Note 13 Pro+ 世界冠军版手机：阿根廷足协联名，34999 印度卢比](https://m.ithome.com/html/765405.htm)
+
