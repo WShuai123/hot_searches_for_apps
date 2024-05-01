@@ -229,3 +229,11 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
+
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+
++ [Dazz相机 - 复古胶片和CCD效果](https://itunes.apple.com/cn/app/id1422471180?mt=8)
+
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+

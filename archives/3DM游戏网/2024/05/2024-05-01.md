@@ -203,3 +203,11 @@
 
 + [主机游戏需求低迷 AMD游戏业务重创：收入利润双降，主机销量下滑](https://www.3dmgame.com/news/202405/3894059.html)
 
++ [光荣成立AAA工作室 负责稳定推出大作](https://www.3dmgame.com/news/202405/3894061.html)
+
++ [《星刃》总监暗示游戏将获得一个刷Boss模式](https://www.3dmgame.com/news/202405/3894062.html)
+
++ [强森被爆料在片场耍大牌 迟到8小时是家常便饭](https://www.3dmgame.com/news/202405/3894063.html)
+
++ [美银预测：2030年特斯拉FSD在中国的盈利可能超过20亿美元](https://www.3dmgame.com/news/202405/3894060.html)
+

@@ -53,3 +53,5 @@
 
 + [高通骁龙 8 Gen 4 工程样机跑分测试，中低频性能超越 8 Gen2 峰值性能](https://m.ithome.com/html/765459.htm)
 
++ [TikTok 因绕过苹果 App Store 应用内购系统引起争议](https://m.ithome.com/html/765429.htm)
+
