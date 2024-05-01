@@ -129,3 +129,21 @@
 
 + [《灰区战争》Steam中文评价特别差评 在线峰值6.7万人](https://www.3dmgame.com/news/202405/3894020.html)
 
++ [《死亡回归》衍生图画小说正式公布 10月正式发售](https://www.3dmgame.com/news/202405/3894030.html)
+
++ [《七大罪：光与暗之战》再次联动《盾之勇者成名录》](https://www.3dmgame.com/news/202405/3894029.html)
+
++ [Nexon签得韩漫《装备我最强》改编MMORPG发行权](https://www.3dmgame.com/news/202405/3894027.html)
+
++ [Steam最新一周销量榜 《庄园领主》强势登顶](https://www.3dmgame.com/news/202405/3894028.html)
+
++ [《火星孤征》开发商寻求投资失败 开发团队全员被裁](https://www.3dmgame.com/news/202405/3894026.html)
+
++ [免费游戏《星球大战：银河猎手》6月4日发售 登陆Switch和移动端](https://www.3dmgame.com/news/202405/3894024.html)
+
++ [存在卡油门隐患 厂商宣布召回17500辆马里奥卡丁车](https://www.3dmgame.com/news/202405/3894025.html)
+
++ [暂时不想碰 黑曜石当前无意开发《辐射：新维加斯2》](https://www.3dmgame.com/news/202405/3894023.html)
+
++ [《命运2：进入光能》“万神殿”Boss挑战模式现已上线](https://www.3dmgame.com/news/202405/3894022.html)
+

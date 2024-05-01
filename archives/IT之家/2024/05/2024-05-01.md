@@ -35,3 +35,5 @@
 
 + [北京大学宣布将开发鸿蒙 HarmonyOS 校园服务 App，参与学生有机会前往华为实习](https://m.ithome.com/html/765369.htm)
 
++ [神十七航天员带回 31.5kg 太空特产：中国空间站第六批空间科学实验样品顺利返回，有助于疾病预防](https://m.ithome.com/html/765418.htm)
+
