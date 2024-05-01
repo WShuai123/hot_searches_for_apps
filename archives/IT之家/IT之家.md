@@ -55,3 +55,11 @@
 
 + [TikTok 因绕过苹果 App Store 应用内购系统引起争议](https://m.ithome.com/html/765429.htm)
 
++ [媒体：余承东仍是华为终端 BG 一把手，卸任 CEO 是把重心放在汽车业务的信号](https://m.ithome.com/html/765484.htm)
+
++ [vivo 韩伯啸暗示新旗舰 X100 Ultra 五一后发布，相机长焦 & 夜景比 Pro 更强](https://m.ithome.com/html/765448.htm)
+
++ [华为绘画软件“天生会画”App 偷跑，自带多种笔刷及素材包](https://m.ithome.com/html/765464.htm)
+
++ [鸿蒙智行 4 月交付 29632 辆蝉联中国新势力月销冠，问界 M9 超 13000 辆](https://m.ithome.com/html/765477.htm)
+

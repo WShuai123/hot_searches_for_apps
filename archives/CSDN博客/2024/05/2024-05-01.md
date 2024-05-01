@@ -131,3 +131,59 @@
 
 + [西瓜书学习——决策树形状、熵和决策树的本质](https://blog.csdn.net/Uperrr/article/details/138328923)
 
++ [【MySQL精炼宝库】深度解析索引 | 事务](https://blog.csdn.net/2301_80035594/article/details/138301191)
+
++ [2024五一杯数学建模C题思路分享 - 煤矿深部开采冲击地压危险预测](https://blog.csdn.net/dc_sinor/article/details/138367836)
+
++ [【MyBatis】 MyBatis框架下的高效数据操作：深入理解增删查改（CRUD）](https://blog.csdn.net/smile_sundays/article/details/138325612)
+
++ [神经网络反向传播算法](https://blog.csdn.net/qq_64685283/article/details/138293285)
+
++ [python安卓自动化pyaibote实践------学习通自动刷课](https://blog.csdn.net/2302_79590880/article/details/138360025)
+
++ [洞察Agent AI智能体的未来：机遇与挑战并存](https://blog.csdn.net/Easonmax/article/details/138325113)
+
++ [2024五一杯数学建模ABC题（附历年优秀论文+写作模板）参考论文+完整代码数据集](https://blog.csdn.net/2301_77933700/article/details/138311143)
+
++ [Golang错误处理机制](https://blog.csdn.net/chenlong_cxy/article/details/138130393)
+
++ [AI家居设备的未来：智能家庭的下一个大步](https://blog.csdn.net/qq_61024956/article/details/138376230)
+
++ [10个使用NumPy就可以进行的图像处理步骤](https://blog.csdn.net/m0_46510245/article/details/138367649)
+
++ [Springboot+Vue项目-基于Java+MySQL的入校申报审批系统(附源码+演示视频+LW)](https://blog.csdn.net/2301_77929081/article/details/138358294)
+
++ [2024年五一数学建模联赛B题具有无人机的物流配送问题](https://blog.csdn.net/TIQCmatlab/article/details/138367106)
+
++ [用HTML5实现播放gif文件](https://blog.csdn.net/cnds123/article/details/137992473)
+
++ [[高质量]2024五一数学建模A题保奖思路+代码（后续会更新）](https://blog.csdn.net/qq_50593822/article/details/138370520)
+
++ [1天搞定uniApp+Vue3+vite+Element UI或者Element Plus开发学习，使用vite构建管理项目,HBuilderX做为开发者工具](https://blog.csdn.net/qiushi_1990/article/details/138348944)
+
++ [【Numpy】一文向您详细介绍利用 np.linalg.norm() 求范数](https://blog.csdn.net/qq_41813454/article/details/138344667)
+
++ [大数据中的项目数据采集](https://blog.csdn.net/m0_62008384/article/details/138300827)
+
++ [2024五一数学建模B题思路代码与论文分析](https://blog.csdn.net/qq_45857113/article/details/138368586)
+
++ [使用 LlamaIndex 和 Llama 2-Chat 构建知识驱动的对话应用程序](https://blog.csdn.net/xianyu120/article/details/138337058)
+
++ [自学Java要到什么程度才足够能力去实习和就业?](https://blog.csdn.net/m0_63947499/article/details/137279074)
+
++ [大模型公开课-大模型的语言解码游戏学习总结](https://blog.csdn.net/weixin_52908342/article/details/138361438)
+
++ [2024 五一杯高校数学建模邀请赛（A题）|钢板最优切割路径问题|建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/138368053)
+
++ [在k8s中部署Prometheus并实现对k8s集群的监控](https://blog.csdn.net/weixin_53269650/article/details/138317950)
+
++ [『FPGA通信接口』DDR(3)DDR3颗粒读写测试](https://blog.csdn.net/weixin_40615338/article/details/138343094)
+
++ [织梦云端：网络信号原理的艺术解码](https://blog.csdn.net/weixin_73951752/article/details/138303007)
+
++ [C#应用程序实现多屏显示](https://blog.csdn.net/anlog/article/details/138171215)
+
++ [网络安全是智能汽车下一个要卷的方向？](https://blog.csdn.net/FreeBuf_/article/details/138337868)
+
++ [数据链路层](https://blog.csdn.net/m0_62229058/article/details/138225602)
+
