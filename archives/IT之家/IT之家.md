@@ -25,3 +25,5 @@
 
 + [6299 元百亿补贴：三星 S23 Ultra 12G 手机京东自营再降新低](https://m.ithome.com/html/765472.htm)
 
++ [美国政府退役超级计算机正在拍卖，起拍价仅 2500 美元](https://m.ithome.com/html/765474.htm)
+

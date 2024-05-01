@@ -201,3 +201,7 @@
 
 + [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
 
++ [乐播投屏](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
