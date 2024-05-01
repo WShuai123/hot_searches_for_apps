@@ -147,3 +147,13 @@
 
 + [《命运2：进入光能》“万神殿”Boss挑战模式现已上线](https://www.3dmgame.com/news/202405/3894022.html)
 
++ [微软商店007电影合集误设折扣价 5美元集齐25部电影](https://www.3dmgame.com/news/202405/3894033.html)
+
++ [AMD 2024Q1净利润暴涨188％！两项业务大赚特赚](https://www.3dmgame.com/news/202405/3894034.html)
+
++ [NPD分析师暗示《最终幻想7：重生》在美销量不佳](https://www.3dmgame.com/news/202405/3894035.html)
+
++ [卡牌肉鸽游戏《高殿战记》现已登陆PS主机](https://www.3dmgame.com/news/202405/3894031.html)
+
++ [B社发布《辐射76》大型修复补丁 主机版更新20GB](https://www.3dmgame.com/news/202405/3894032.html)
+
