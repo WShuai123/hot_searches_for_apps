@@ -51,3 +51,37 @@
 
 + [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
 
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [felipemotarocha / fullstackweek-foods](https://github.com/felipemotarocha/fullstackweek-foods)
+
++ [Brackeys / first-game-in-godot](https://github.com/Brackeys/first-game-in-godot)
+
++ [lapce / lapce](https://github.com/lapce/lapce)
+
++ [project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation)
+
++ [Orange-OpenSource / hurl](https://github.com/Orange-OpenSource/hurl)
+
++ [plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite)
+
++ [mlabonne / llm-datasets](https://github.com/mlabonne/llm-datasets)
+
++ [ymcui / Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [kubernetes / community](https://github.com/kubernetes/community)
+
++ [lm-sys / FastChat](https://github.com/lm-sys/FastChat)
+
++ [TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust)
+
++ [houbb / sensitive-word](https://github.com/houbb/sensitive-word)
+
++ [nrwl / nx](https://github.com/nrwl/nx)
+
++ [OpenGVLab / InternVL](https://github.com/OpenGVLab/InternVL)
+
++ [microsoft / vcpkg](https://github.com/microsoft/vcpkg)
+
