@@ -51,3 +51,5 @@
 
 + [奇瑞 2024 款瑞虎 3x 惠民版车型上市：提供 1.5L 动力，售 4.99 万元起](https://m.ithome.com/html/765403.htm)
 
++ [高通骁龙 8 Gen 4 工程样机跑分测试，中低频性能超越 8 Gen2 峰值性能](https://m.ithome.com/html/765459.htm)
+

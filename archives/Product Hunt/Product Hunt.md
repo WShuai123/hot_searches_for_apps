@@ -135,3 +135,9 @@
 
 + [Channels by Dovetail](https://www.producthunt.com/posts/channels-by-dovetail)
 
++ [Talevideo](https://www.producthunt.com/posts/talevideo-2)
+
++ [Loom AI Workflows](https://www.producthunt.com/posts/loom-ai-workflows)
+
++ [Mano](https://www.producthunt.com/posts/mano)
+

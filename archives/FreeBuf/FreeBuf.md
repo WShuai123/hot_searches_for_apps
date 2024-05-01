@@ -49,3 +49,5 @@
 
 + [Noisy：一款功能强大的DNS和HTTPS网络流量噪声生成工具](https://www.freebuf.com/sectool/393281.html)
 
++ [《网络安全技术 网络安全众测服务要求》发布](https://www.freebuf.com/news/399931.html)
+
