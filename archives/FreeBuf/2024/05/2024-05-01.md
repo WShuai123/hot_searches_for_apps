@@ -47,3 +47,5 @@
 
 + [揭秘QuasarRAT：一款开源工具，如何一步步成为黑客利器？](https://www.freebuf.com/articles/network/399086.html)
 
++ [Noisy：一款功能强大的DNS和HTTPS网络流量噪声生成工具](https://www.freebuf.com/sectool/393281.html)
+

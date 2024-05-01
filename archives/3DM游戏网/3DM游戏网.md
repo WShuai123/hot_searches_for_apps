@@ -163,3 +163,9 @@
 
 + [托德或无意间透露B社正在开发两款新《辐射》项目](https://www.3dmgame.com/news/202405/3894037.html)
 
++ [《铁拳8》平衡补丁即将发布 5月8日上午正式上线](https://www.3dmgame.com/news/202405/3894041.html)
+
++ [《龙珠：电光火石0》发布新预告 展示10位新角色](https://www.3dmgame.com/news/202405/3894040.html)
+
++ [据称Atlus和世嘉的所有重制版作品都将登陆Switch2](https://www.3dmgame.com/news/202405/3894039.html)
+
