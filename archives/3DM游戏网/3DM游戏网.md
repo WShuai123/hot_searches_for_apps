@@ -109,3 +109,7 @@
 
 + [《太阳帝国的原罪2》今年Q3发售 新预告发布](https://www.3dmgame.com/news/202405/3894065.html)
 
++ [PlayStation玩家现在可通过二维码加入派对](https://www.3dmgame.com/news/202405/3894069.html)
+
++ [《全职猎人》新游戏将加入甘舒作为可玩角色](https://www.3dmgame.com/news/202405/3894068.html)
+
