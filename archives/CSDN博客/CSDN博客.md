@@ -101,3 +101,33 @@
 
 + [如何在 Ubuntu 16.04 上使用 Node-RED 连接你的物联网设备](https://blog.csdn.net/rubys007/article/details/138215356)
 
++ [【Netty系列】Linux下的5种IO模型大揭秘](https://blog.csdn.net/weixin_40909461/article/details/138346274)
+
++ [【Linux实践室】Linux文件打包和解压缩实战指南：tar打包命令操作详解（文末送书）](https://blog.csdn.net/2301_80026901/article/details/138265785)
+
++ [MySQL-----多表查询（二）](https://blog.csdn.net/2302_79862386/article/details/138307833)
+
++ [AI大模型探索之路-训练篇8：大语言模型Transformer库-预训练流程编码体验](https://blog.csdn.net/xiaobing259/article/details/138348834)
+
++ [深度解析 Spring 源码：从BeanDefinition源码探索Bean的本质](https://blog.csdn.net/qq_51601665/article/details/138353506)
+
++ [第一篇【AI与传奇开心果系列】Python的AI相关库技术点案例示例:详解AI作画原理](https://blog.csdn.net/jackchuanqi/article/details/138221847)
+
++ [Kubernetes学习-核心概念篇(三) 核心概念和专业术语](https://blog.csdn.net/qq_35716689/article/details/138248373)
+
++ [使 Elasticsearch 和 Lucene 成为最佳向量数据库：速度提高 8 倍，效率提高 32 倍](https://blog.csdn.net/UbuntuTouch/article/details/138333893)
+
++ [【探索Linux】P.33（HTTP协议）](https://blog.csdn.net/m0_75215937/article/details/137491197)
+
++ [docker](https://blog.csdn.net/m0_63803244/article/details/138215571)
+
++ [【千帆平台】AppBuilder工作流编排新功能体验之创建自定义组件](https://blog.csdn.net/lmy_520/article/details/138276419)
+
++ [linux 搭建知识库文档系统 mm-wiki](https://blog.csdn.net/congge_study/article/details/138356557)
+
++ [一种基于YOLOv8改进的高精度红外小目标检测算法 （原创自研）](https://blog.csdn.net/m0_63774211/article/details/138300252)
+
++ [Arcade 小地图](https://blog.csdn.net/weixin_32759777/article/details/136653473)
+
++ [西瓜书学习——决策树形状、熵和决策树的本质](https://blog.csdn.net/Uperrr/article/details/138328923)
+

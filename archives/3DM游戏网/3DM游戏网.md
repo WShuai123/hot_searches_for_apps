@@ -119,3 +119,9 @@
 
 + [《地狱之刃2：塞娜的传奇》公布PC最低配置需求](https://www.3dmgame.com/news/202405/3894013.html)
 
++ [《刺客信条：幻景》iOS版6月6日推出 售价50美元](https://www.3dmgame.com/news/202405/3894019.html)
+
++ [《模拟人生》竞品《你的人生》6月登陆抢先体验](https://www.3dmgame.com/news/202405/3894018.html)
+
++ [《暗黑破坏神4》第四赛季定名寻宝重生 5月15日凌晨1点上线](https://www.3dmgame.com/news/202405/3894017.html)
+

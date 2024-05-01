@@ -27,3 +27,9 @@
 
 + [消息称余承东卸任华为终端 BG CEO，终端 COO 何刚接任](https://m.ithome.com/html/765410.htm)
 
++ [消息称余承东担任华为终端 BG 董事长，何刚接任终端 BG CEO](https://m.ithome.com/html/765410.htm)
+
++ [Arc 浏览器 Windows 版正式发布：无需加入等待列表即可使用](https://m.ithome.com/html/765408.htm)
+
++ [联合特斯拉，5 月 1 日起百度地图 App 可体验特斯拉车道级导航](https://m.ithome.com/html/765394.htm)
+
