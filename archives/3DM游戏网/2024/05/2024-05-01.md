@@ -181,3 +181,13 @@
 
 + [实验性探索游戏《POOLS》现已发售 登陆Steam平台](https://www.3dmgame.com/news/202405/3894043.html)
 
++ [《复仇者联盟4》作曲家暗示自己或将重返MCU](https://www.3dmgame.com/news/202405/3894052.html)
+
++ [时隔8年重返中国！《英雄联盟》2024 MSI今日开打](https://www.3dmgame.com/news/202405/3894049.html)
+
++ [独立农场游戏因讨论“乳摇物理”在社交媒体被围攻](https://www.3dmgame.com/news/202405/3894051.html)
+
++ [15岁少年接连打破FC版《俄罗斯方块》世界纪录](https://www.3dmgame.com/news/202405/3894050.html)
+
++ [《地球防卫军6》Steam版7月25日发售 支持中文](https://www.3dmgame.com/news/202405/3894048.html)
+
