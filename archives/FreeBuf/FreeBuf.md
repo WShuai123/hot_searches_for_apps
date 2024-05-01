@@ -43,3 +43,5 @@
 
 + [RSAC 2024创新沙盒｜ANTIMATTER：全方位数据安全管理利器](https://www.freebuf.com/articles/neopoints/399758.html)
 
++ [探秘 Zyxel 设备：固件提取分析](https://www.freebuf.com/articles/endpoint/396129.html)
+

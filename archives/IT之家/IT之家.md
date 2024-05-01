@@ -33,3 +33,5 @@
 
 + [联合特斯拉，5 月 1 日起百度地图 App 可体验特斯拉车道级导航](https://m.ithome.com/html/765394.htm)
 
++ [北京大学宣布将开发鸿蒙 HarmonyOS 校园服务 App，参与学生有机会前往华为实习](https://m.ithome.com/html/765369.htm)
+

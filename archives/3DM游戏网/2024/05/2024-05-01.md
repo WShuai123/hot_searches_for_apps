@@ -125,3 +125,7 @@
 
 + [《暗黑破坏神4》第四赛季定名寻宝重生 5月15日凌晨1点上线](https://www.3dmgame.com/news/202405/3894017.html)
 
++ [Xbox六月展示会内容曝光：新《使命召唤》新《战争机器》](https://www.3dmgame.com/news/202405/3894021.html)
+
++ [《灰区战争》Steam中文评价特别差评 在线峰值6.7万人](https://www.3dmgame.com/news/202405/3894020.html)
+
