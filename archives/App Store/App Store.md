@@ -205,3 +205,7 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [可颂](https://itunes.apple.com/cn/app/id6479338276?mt=8)
+
++ [韩剧TV-热门韩剧综艺大全](https://itunes.apple.com/cn/app/id6479643727?mt=8)
+
