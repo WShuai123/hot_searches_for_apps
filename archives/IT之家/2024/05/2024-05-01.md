@@ -49,3 +49,5 @@
 
 + [小米海外推出 Redmi Note 13 Pro+ 世界冠军版手机：阿根廷足协联名，34999 印度卢比](https://m.ithome.com/html/765405.htm)
 
++ [奇瑞 2024 款瑞虎 3x 惠民版车型上市：提供 1.5L 动力，售 4.99 万元起](https://m.ithome.com/html/765403.htm)
+
