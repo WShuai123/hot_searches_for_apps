@@ -41,3 +41,5 @@
 
 + [我国第三艘航母，中国海军福建舰今天上午出海开展首次航行试验](https://m.ithome.com/html/765421.htm)
 
++ [部分用户反映 iPhone 闹钟不响，苹果称正在修复](https://m.ithome.com/html/765407.htm)
+

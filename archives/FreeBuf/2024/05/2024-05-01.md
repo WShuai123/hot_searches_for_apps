@@ -45,3 +45,5 @@
 
 + [探秘 Zyxel 设备：固件提取分析](https://www.freebuf.com/articles/endpoint/396129.html)
 
++ [揭秘QuasarRAT：一款开源工具，如何一步步成为黑客利器？](https://www.freebuf.com/articles/network/399086.html)
+

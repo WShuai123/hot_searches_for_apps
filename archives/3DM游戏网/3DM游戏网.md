@@ -157,3 +157,9 @@
 
 + [B社发布《辐射76》大型修复补丁 主机版更新20GB](https://www.3dmgame.com/news/202405/3894032.html)
 
++ [《沙丘：觉醒》大量截图泄露：角色创建和技能树等](https://www.3dmgame.com/news/202405/3894038.html)
+
++ [皮克斯《头脑特工队2》内地定档预告 6月21日正式上映](https://www.3dmgame.com/news/202405/3894036.html)
+
++ [托德或无意间透露B社正在开发两款新《辐射》项目](https://www.3dmgame.com/news/202405/3894037.html)
+
