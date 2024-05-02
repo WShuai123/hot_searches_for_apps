@@ -145,3 +145,7 @@
 
 + [微信小程序 && 手机号授权登录](https://blog.csdn.net/qq_52602294/article/details/138346490)
 
++ [经典机器学习法---感知模型机](https://blog.csdn.net/zhengzhaoyang122/article/details/138203142)
+
++ [从MySQL+MyCAT架构升级为分布式数据库，百丽应用OceanBase 4.2的感受分享](https://blog.csdn.net/OceanBaseGFBK/article/details/137656009)
+

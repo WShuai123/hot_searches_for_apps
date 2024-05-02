@@ -43,3 +43,7 @@
 
 + [华为 Pura 70 系列手机登陆国际市场：搭载海思麒麟 9010/9000S1 芯片，预装 EMUI 14.2 系统](https://m.ithome.com/html/765533.htm)
 
++ [鸿蒙智行 5 月 1 日全系车型大定破 2700 台：问界新 M5 952 台，新 M7 865 台](https://m.ithome.com/html/765514.htm)
+
++ [华为公布乾崑智慧屏显功能细节：可将 720P 视频升级 2K 超高清画面](https://m.ithome.com/html/765511.htm)
+

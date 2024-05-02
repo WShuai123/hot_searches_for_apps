@@ -127,3 +127,11 @@
 
 + [Vitae](https://www.producthunt.com/posts/vitae)
 
++ [1Flow](https://www.producthunt.com/posts/1flow)
+
++ [Playbook x GPT](https://www.producthunt.com/posts/playbook-x-gpt)
+
++ [QueryPal](https://www.producthunt.com/posts/querypal-2)
+
++ [BlockSurvey](https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys)
+

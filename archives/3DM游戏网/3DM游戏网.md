@@ -167,3 +167,15 @@
 
 + [科幻机甲单人FPS《第二循环》公布 今年Q4推出](https://www.3dmgame.com/news/202405/3894096.html)
 
++ [《地平线：零之曙光》5月21日离开会员游戏库 引发复刻版猜测](https://www.3dmgame.com/news/202405/3894099.html)
+
++ [《上旋高手2K25》服务器问题引爆单机玩家怒火](https://www.3dmgame.com/news/202405/3894100.html)
+
++ [万智牌“黑莲花”拍出300万美元天价 引众多玩家质疑](https://www.3dmgame.com/news/202405/3894101.html)
+
++ [《博德之门3》世界构建总监透露：初次得知项目时压力山大](https://www.3dmgame.com/news/202405/3894102.html)
+
++ [RTX 4090离奇烧毁：16针接口两端都烧掉了！](https://www.3dmgame.com/news/202405/3894097.html)
+
++ [跳过次世代更新 《辐射4》降级MOD下载量激增](https://www.3dmgame.com/news/202405/3894098.html)
+
