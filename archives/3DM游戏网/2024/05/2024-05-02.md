@@ -153,3 +153,13 @@
 
 + [苹果将发第二财季财报！供应链暗示iPhone销量不乐观](https://www.3dmgame.com/news/202405/3894080.html)
 
++ [Take-Two确认：西雅图裁员不会影响《坎巴拉太空计划2》](https://www.3dmgame.com/news/202405/3894094.html)
+
++ [Steam Deck四月热玩榜公布 《星露谷物语》登顶](https://www.3dmgame.com/news/202405/3894093.html)
+
++ [索尼工作室Firesprite裁员 《地平线》VR总监遭裁](https://www.3dmgame.com/news/202405/3894092.html)
+
++ [《狮子王：木法沙传奇》导演回击社交媒体批评言论](https://www.3dmgame.com/news/202405/3894091.html)
+
++ [《最终幻想7：重生》是今年美国销量排名第四的游戏](https://www.3dmgame.com/news/202405/3894090.html)
+
