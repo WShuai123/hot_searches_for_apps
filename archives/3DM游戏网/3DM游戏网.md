@@ -179,3 +179,15 @@
 
 + [跳过次世代更新 《辐射4》降级MOD下载量激增](https://www.3dmgame.com/news/202405/3894098.html)
 
++ [2D卷轴游戏《九魂的久远》发布主题曲预告 5月30日发售](https://www.3dmgame.com/news/202405/3894108.html)
+
++ [导演乔治·米勒已经在筹划《疯狂的麦克斯》下一部](https://www.3dmgame.com/news/202405/3894107.html)
+
++ [马斯克裁员风波再起：波及美国实习生 突然撤掉offer](https://www.3dmgame.com/news/202405/3894106.html)
+
++ [陶德表示自己很清楚为何《星空》口碑两极分化](https://www.3dmgame.com/news/202405/3894105.html)
+
++ [美国天主教神父挪用教会资金玩手机游戏遭警方指控](https://www.3dmgame.com/news/202405/3894104.html)
+
++ [导演表示《塞尔达传说》电影版将会注重写实风格](https://www.3dmgame.com/news/202405/3894103.html)
+
