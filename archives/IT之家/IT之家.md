@@ -55,3 +55,5 @@
 
 + [华为 HDC2024 开发者大会正价票正式开售：学生票 88 元，VIP 票 5298 元](https://m.ithome.com/html/765522.htm)
 
++ [公牛快充插座“小电仓”发布：20W 快充、五口合一](https://m.ithome.com/html/765518.htm)
+
