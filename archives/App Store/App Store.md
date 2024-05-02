@@ -219,3 +219,5 @@
 
 + [色感自检](https://itunes.apple.com/cn/app/id6499460369?mt=8)
 
++ [IGXE-自动发货10秒入库](https://itunes.apple.com/cn/app/id1436257357?mt=8)
+

@@ -61,3 +61,5 @@
 
 + [华为新款 MatePad 平板电脑预热：采用新一代柔光屏，5 月 7 日发布](https://m.ithome.com/html/765535.htm)
 
++ [消息称华为 5 月发布 PC 新品擎云 W515x，首发麒麟 9000C 处理器](https://m.ithome.com/html/765561.htm)
+
