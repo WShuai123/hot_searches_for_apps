@@ -57,3 +57,7 @@
 
 + [公牛快充插座“小电仓”发布：20W 快充、五口合一](https://m.ithome.com/html/765518.htm)
 
++ [极星 Polestar Phone 手机成功刷入魅族 Flyme 系统，功能运行正常](https://m.ithome.com/html/765553.htm)
+
++ [华为新款 MatePad 平板电脑预热：采用新一代柔光屏，5 月 7 日发布](https://m.ithome.com/html/765535.htm)
+

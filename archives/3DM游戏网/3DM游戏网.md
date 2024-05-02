@@ -197,3 +197,9 @@
 
 + [陶德再赞《辐射》电视剧片场细节：每份文件都还原](https://www.3dmgame.com/news/202405/3894111.html)
 
++ [传AMD RDNA 4架构GPU光追性能将有重大提升](https://www.3dmgame.com/news/202405/3894113.html)
+
++ [高通第二财季营收93.89亿美元 净利润同比增长37%](https://www.3dmgame.com/news/202405/3894114.html)
+
++ [三星目标2025年量产2nm工艺 期待获得显著的性能和效率提升](https://www.3dmgame.com/news/202405/3894112.html)
+
