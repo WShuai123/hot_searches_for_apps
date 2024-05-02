@@ -21,3 +21,5 @@
 
 + [少年西游记2](https://www.taptap.cn/app/247432)
 
++ [蛋仔派对](https://www.taptap.cn/app/206776)
+

@@ -47,3 +47,5 @@
 
 + [xz-utils 后门代码分析](https://www.freebuf.com/vuls/399750.html)
 
++ [海莲花（APT-Q-31）组织数字武器Rust加载器技术分析](https://www.freebuf.com/articles/paper/399007.html)
+
