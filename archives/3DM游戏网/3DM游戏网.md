@@ -113,3 +113,7 @@
 
 + [《全职猎人》新游戏将加入甘舒作为可玩角色](https://www.3dmgame.com/news/202405/3894068.html)
 
++ [NS2主机模式算力可能达4TF 掌机模式差距很大](https://www.3dmgame.com/news/202405/3894071.html)
+
++ [《星空》未来将加入登陆车 快速探索星球](https://www.3dmgame.com/news/202405/3894070.html)
+

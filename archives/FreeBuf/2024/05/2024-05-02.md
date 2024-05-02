@@ -41,3 +41,5 @@
 
 + [伦敦证券旗下数据库被窃取，泄露超500万条敏感信息](https://www.freebuf.com/news/399706.html)
 
++ [RSAC 2024创新沙盒｜BEDROCK SECURITY:无缝衔接的高效数据安全解决方案](https://www.freebuf.com/articles/neopoints/399757.html)
+
