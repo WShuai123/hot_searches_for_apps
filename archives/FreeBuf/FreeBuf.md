@@ -43,3 +43,7 @@
 
 + [RSAC 2024创新沙盒｜BEDROCK SECURITY:无缝衔接的高效数据安全解决方案](https://www.freebuf.com/articles/neopoints/399757.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [xz-utils 后门代码分析](https://www.freebuf.com/vuls/399750.html)
+

@@ -31,3 +31,7 @@
 
 + [比亚迪 4 月各车型销量明细公布：仰望交付 952 辆，方程豹 2110 辆](https://m.ithome.com/html/765495.htm)
 
++ [高通骁龙 8 Gen 4 工程样机跑分测试，中低频性能超越 8 Gen 2 峰值性能](https://m.ithome.com/html/765459.htm)
+
++ [郭明錤：苹果 Apple Watch Ultra 3 今年发布，“几乎没有”硬件升级](https://m.ithome.com/html/765499.htm)
+

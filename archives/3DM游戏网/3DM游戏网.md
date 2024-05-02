@@ -117,3 +117,13 @@
 
 + [《星空》未来将加入登陆车 快速探索星球](https://www.3dmgame.com/news/202405/3894070.html)
 
++ [欧美服PS Plus五月会免公布：《命运2：光陨之秋》等](https://www.3dmgame.com/news/202405/3894073.html)
+
++ [《星刃》大获成功后 韩国政府将押注3A主机游戏](https://www.3dmgame.com/news/202405/3894074.html)
+
++ [《蝙蝠侠：阿卡姆疯人院》主创将打造《特种部队》3A游戏](https://www.3dmgame.com/news/202405/3894075.html)
+
++ [2024年第一季度全球游戏行业投资总额达22亿美元](https://www.3dmgame.com/news/202405/3894076.html)
+
++ [《星空》下轮更新5月15日上线 XSX将加入60帧模式](https://www.3dmgame.com/news/202405/3894072.html)
+
