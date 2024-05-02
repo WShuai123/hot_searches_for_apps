@@ -53,3 +53,5 @@
 
 + [消息称任天堂 Switch 2 在底座模式下性能比预期更强，可提供 4 TFLOPS 图形处理能力](https://m.ithome.com/html/765523.htm)
 
++ [华为 HDC2024 开发者大会正价票正式开售：学生票 88 元，VIP 票 5298 元](https://m.ithome.com/html/765522.htm)
+

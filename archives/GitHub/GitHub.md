@@ -51,3 +51,43 @@
 
 + [microsoft / vcpkg](https://github.com/microsoft/vcpkg)
 
++ [dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS)
+
++ [TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
++ [TracecatHQ / tracecat](https://github.com/TracecatHQ/tracecat)
+
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
++ [dylanaraps / neofetch](https://github.com/dylanaraps/neofetch)
+
++ [pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue)
+
++ [penpot / penpot](https://github.com/penpot/penpot)
+
++ [Dokploy / dokploy](https://github.com/Dokploy/dokploy)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [pytorch / executorch](https://github.com/pytorch/executorch)
+
++ [kelseyhightower / kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
++ [MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
+
++ [aptos-labs / aptos-core](https://github.com/aptos-labs/aptos-core)
+
++ [idk10-a / aviator](https://github.com/idk10-a/aviator)
+
++ [FRRouting / frr](https://github.com/FRRouting/frr)
+
++ [mdn / content](https://github.com/mdn/content)
+
