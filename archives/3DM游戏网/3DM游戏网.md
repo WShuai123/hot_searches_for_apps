@@ -207,3 +207,7 @@
 
 + [英伟达ChatRTX迎0.3版本更新 新增照片搜索、AI语音识别等功能](https://www.3dmgame.com/news/202405/3894115.html)
 
++ [省钱新招！传特斯拉已放弃下代“一体化压铸”工艺](https://www.3dmgame.com/news/202405/3894117.html)
+
++ [THQ数字游戏展将于8月3日举行 会有惊喜](https://www.3dmgame.com/news/202405/3894118.html)
+
