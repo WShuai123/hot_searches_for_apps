@@ -127,3 +127,29 @@
 
 + [《星空》下轮更新5月15日上线 XSX将加入60帧模式](https://www.3dmgame.com/news/202405/3894072.html)
 
++ [公司大战？职场平台领英现已推出三款免费游戏](https://www.3dmgame.com/news/202405/3894086.html)
+
++ [乔什·布洛林很遗憾自己没能回归《死侍与金刚狼》](https://www.3dmgame.com/news/202405/3894087.html)
+
++ [发售仅两天 类塔科夫游戏《灰区战争》销量已突破40万](https://www.3dmgame.com/news/202405/3894088.html)
+
++ [美国3月销量榜：《龙之信条2》登顶 多款新作前十](https://www.3dmgame.com/news/202405/3894089.html)
+
++ [《Apex英雄》新传奇“变幻”宣传片 预计下赛季上线](https://www.3dmgame.com/news/202405/3894081.html)
+
++ [R星母公司Take-Two据报道将关闭其西雅图办事处](https://www.3dmgame.com/news/202405/3894082.html)
+
++ [真人版导演希望把《塞尔达传说》做成系列电影](https://www.3dmgame.com/news/202405/3894083.html)
+
++ [经典游戏《黑色洛城》加入GTA+游戏库 会免免费畅玩](https://www.3dmgame.com/news/202405/3894084.html)
+
++ [Take-Two正在关闭两家工作室 《奥力奥力》系列终结](https://www.3dmgame.com/news/202405/3894085.html)
+
++ [Unity宣布任命新首席执行官 又是一位EA前高管](https://www.3dmgame.com/news/202405/3894077.html)
+
++ [《疯狂的麦克斯》新电影制作中 设定在《疯狂的麦克斯4：狂暴之路》一年前](https://www.3dmgame.com/news/202405/3894078.html)
+
++ [美国3月游玩时长榜：Steam上《绝地潜兵2》最热门](https://www.3dmgame.com/news/202405/3894079.html)
+
++ [苹果将发第二财季财报！供应链暗示iPhone销量不乐观](https://www.3dmgame.com/news/202405/3894080.html)
+
