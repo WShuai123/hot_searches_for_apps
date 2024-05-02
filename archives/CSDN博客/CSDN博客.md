@@ -101,3 +101,47 @@
 
 + [数据链路层](https://blog.csdn.net/m0_62229058/article/details/138225602)
 
++ [数据可视化宝典：Matplotlib图形实战](https://blog.csdn.net/qq_38614074/article/details/138249188)
+
++ [[高质量]2024五一数学建模A题后续成品论文+保奖思路+代码（后续会更新）](https://blog.csdn.net/qq_50593822/article/details/138370520)
+
++ [2024五一数学建模A题思路代码与论文分析](https://blog.csdn.net/qq_45857113/article/details/138368528)
+
++ [2024五一杯：煤矿深部开采冲击地压危险预测 （详细完整思路，已修改）](https://blog.csdn.net/weixin_46211269/article/details/138374668)
+
++ [神经网络参数初始化](https://blog.csdn.net/qq_64685283/article/details/138239320)
+
++ [2024年第二十一届 五一杯 （A题）大学生数学建模挑战赛|数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/138368029)
+
++ [MySQL 高级 - 第五章 | 逻辑架构](https://blog.csdn.net/xhmico/article/details/138251073)
+
++ [Spring：SpringBoot项目中忽略某属性返回给前端](https://blog.csdn.net/yuming226/article/details/138350550)
+
++ [【源码解析】深入Pandas的心脏DataFrame 含十大功能、源码实现与编程知识点](https://blog.csdn.net/CCIEHL/article/details/138356637)
+
++ [【Python的魅力】：利用Pygame实现游戏坦克大战——含完整源码](https://blog.csdn.net/dh45498/article/details/138316423)
+
++ [SLAMCraft：自主导航机器人DIY(二)快来从零设计你的机器人控制板](https://blog.csdn.net/qq_45290757/article/details/138379248)
+
++ [【智能助手体验】分享一款超好用的AI工具：Kimi](https://blog.csdn.net/myTomorrow_better/article/details/138371547)
+
++ [Mybatis进阶（动态SQL）](https://blog.csdn.net/m0_64637029/article/details/138357511)
+
++ [使用 GitHub Actions 实现项目的持续集成(CI)](https://blog.csdn.net/weixin_59624686/article/details/138330218)
+
++ [基于ssm+vue+Mysql的房屋租赁系统求租合同](https://blog.csdn.net/shmp54/article/details/138347592)
+
++ [网盘—下载文件](https://blog.csdn.net/wjl990316fddwjl/article/details/138212006)
+
++ [day15 学一下Tailwindcss（java转ts全栈/3r教室）](https://blog.csdn.net/qq_31707969/article/details/138357537)
+
++ [计算机网络-概述](https://blog.csdn.net/fffffall/article/details/138198788)
+
++ [基于uniapp vue3.0 uView 做一个点单页面（包括加入购物车动画和左右联动）](https://blog.csdn.net/m0_49083276/article/details/138346318)
+
++ [TCP重传，滑动窗口，流量控制，拥塞控制](https://blog.csdn.net/qq_74136205/article/details/138358588)
+
++ [Springboot+vue+小程序+基于微信小程序的在线学习平台](https://blog.csdn.net/Mas1461261388/article/details/138371210)
+
++ [微信小程序 && 手机号授权登录](https://blog.csdn.net/qq_52602294/article/details/138346490)
+

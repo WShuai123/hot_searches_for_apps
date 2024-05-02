@@ -165,3 +165,5 @@
 
 + [《地下城与勇士：决斗》新DLC角色“气功师”公布 今夏上线](https://www.3dmgame.com/news/202405/3894095.html)
 
++ [科幻机甲单人FPS《第二循环》公布 今年Q4推出](https://www.3dmgame.com/news/202405/3894096.html)
+

@@ -101,3 +101,29 @@
 
 + [Otterly.ai](https://www.producthunt.com/posts/otterly-ai)
 
++ [Autopilot for Slack](https://www.producthunt.com/posts/autopilot-for-slack)
+
++ [Airbnb Icons](https://www.producthunt.com/posts/airbnb-icons)
+
++ [NextCommit](https://www.producthunt.com/posts/nextcommit)
+
++ [AaRead](https://www.producthunt.com/posts/aaread)
+
++ [FeaturePanel](https://www.producthunt.com/posts/featurepanel)
+
++ [fullwindcss](https://www.producthunt.com/posts/fullwindcss)
+
++ [Job Boardly](https://www.producthunt.com/posts/job-boardly)
+
++ [WIZPR RING](https://www.producthunt.com/posts/wizpr-ring)
+
++ [Monterey AI 2.0](https://www.producthunt.com/posts/monterey-ai-2-0)
+
++ [Mockey AI Pro](https://www.producthunt.com/posts/mockey-ai-pro)
+
++ [Waxwing](https://www.producthunt.com/posts/waxwing)
+
++ [Y.GY](https://www.producthunt.com/posts/y-gy)
+
++ [Vitae](https://www.producthunt.com/posts/vitae)
+
