@@ -153,3 +153,11 @@
 
 + [微信小程序个人中心、我的界面（示例四）](https://blog.csdn.net/weixin_45465881/article/details/138346883)
 
++ [RNN 及其变体的数学理解](https://blog.csdn.net/gongdiwudu/article/details/138350401)
+
++ [MySQL连表查询](https://blog.csdn.net/new_light123/article/details/138347648)
+
++ [外包干了3天，技术就明显退步了。。。。。](https://blog.csdn.net/u012111923/article/details/138348203)
+
++ [【Flutter】极光推送配置流程(小米厂商通道) 章二](https://blog.csdn.net/sheng_er_sheng/article/details/138324017)
+

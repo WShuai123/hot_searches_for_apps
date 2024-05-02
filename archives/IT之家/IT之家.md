@@ -47,3 +47,9 @@
 
 + [华为公布乾崑智慧屏显功能细节：可将 720P 视频升级 2K 超高清画面](https://m.ithome.com/html/765511.htm)
 
++ [马斯克一个响指，特斯拉暴涨 4000 亿](https://m.ithome.com/html/765527.htm)
+
++ [姗姗来迟：Claude 推出苹果 iOS 版 App，最新模型号称超越 GPT-4](https://m.ithome.com/html/765506.htm)
+
++ [消息称任天堂 Switch 2 在底座模式下性能比预期更强，可提供 4 TFLOPS 图形处理能力](https://m.ithome.com/html/765523.htm)
+
