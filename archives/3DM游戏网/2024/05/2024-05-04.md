@@ -103,3 +103,11 @@
 
 + [《异能缉凶》现已支持中文 Steam好评如潮](https://www.3dmgame.com/news/202405/3894166.html)
 
++ [NS2或支持60FPS+游戏和40 FPS 120Hz模式](https://www.3dmgame.com/news/202405/3894170.html)
+
++ [《蒸汽世界：劫掠2》深度解析预告片分享](https://www.3dmgame.com/news/202405/3894169.html)
+
++ [《终结者：幸存者》基于UE5打造 只有PvE内容](https://www.3dmgame.com/news/202405/3894168.html)
+
++ [《地狱之刃2》PC版详细系统配置需求公布](https://www.3dmgame.com/news/202405/3894167.html)
+
