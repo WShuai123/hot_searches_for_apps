@@ -13,3 +13,5 @@
 
 + [B端基础 | 表格基础设计浅谈02](https://www.ui.cn/detail/663978.html)
 
++ [B端的10个设计方法](https://www.ui.cn/detail/664200.html)
+
