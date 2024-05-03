@@ -181,3 +181,9 @@
 
 + [悉尼妹《只想爱你》成2023年好莱坞最赚钱小片](https://www.3dmgame.com/news/202405/3894158.html)
 
++ [《艾尔登法环》不排除有续作 黄金树之影是唯一DLC](https://www.3dmgame.com/news/202405/3894161.html)
+
++ [Steam Deck 2024年4月最热游戏 《辐射4》第二](https://www.3dmgame.com/news/202405/3894160.html)
+
++ [传《生化危机9》将很快公布 系列以来最具野心一作](https://www.3dmgame.com/news/202405/3894159.html)
+

@@ -51,3 +51,7 @@
 
 + [比亚迪王朝推出至高 8000 元置换补贴，可叠加 1 万元国家补贴](https://m.ithome.com/html/765637.htm)
 
++ [小米新品充电器通过 3C 认证，支持 68W 快充](https://m.ithome.com/html/765609.htm)
+
++ [5 月 17 日发布，索尼 Xperia 1 VI 手机曝光：配骁龙 8 Gen 3 芯片，优化拍照体验](https://m.ithome.com/html/765618.htm)
+
