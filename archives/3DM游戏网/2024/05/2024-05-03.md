@@ -175,3 +175,7 @@
 
 + [超现实解谜游戏《印蒂卡》正式发售 收获特别好评](https://www.3dmgame.com/news/202405/3894151.html)
 
++ [AMD公布2024 Q1财报 利润崩塌](https://www.3dmgame.com/news/202405/3894157.html)
+
++ [首发特惠仅需49.5元！水墨风动作Rogue游戏《墨境》将于5月17日发售](https://www.3dmgame.com/news/202405/3894156.html)
+

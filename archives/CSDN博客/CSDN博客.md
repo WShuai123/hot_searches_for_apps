@@ -149,3 +149,15 @@
 
 + [Spring Cloud——OpenFeign](https://blog.csdn.net/weixin_65032328/article/details/138389012)
 
++ [深度学习：基于Keras，使用长短期记忆人工神经网络模型(LSTM)对股票市场进行预测分析](https://blog.csdn.net/m0_63287589/article/details/138391698)
+
++ [调教AI给我写了一个KD树的算法](https://blog.csdn.net/songhuangong123/article/details/138395365)
+
++ [SQL Server安防十剑：从密码策略到TDE，你的数据安然无恙了吗？](https://blog.csdn.net/z_344791576/article/details/138267117)
+
++ [Vue 组件的三大组成部分](https://blog.csdn.net/weixin_73042028/article/details/138401879)
+
++ [java基于springboot的电影推荐评分系统设计与实现大屏可视化](https://blog.csdn.net/QQ58850198/article/details/138359485)
+
++ [2 Spring IoC](https://blog.csdn.net/qq_24907431/article/details/138358417)
+
