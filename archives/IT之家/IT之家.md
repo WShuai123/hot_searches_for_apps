@@ -43,3 +43,7 @@
 
 + [苹果 CEO 库克称中国为“全球竞争最激烈的市场”，仍看好 iPhone 未来发展](https://m.ithome.com/html/765600.htm)
 
++ [法拉利 12Cilindri GT 跑车亮相：819 马力、6.5 升 V12 自然吸气发动机](https://m.ithome.com/html/765615.htm)
+
++ [消息称骁龙 8 Gen 4 首发机型暂定 10 月中旬发布，理论性能提升较大](https://m.ithome.com/html/765642.htm)
+
