@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 黑客正利用WordPress插件高危漏洞；多个 QNAP漏洞能让黑客劫持NAS](https://www.freebuf.com/news/399759.html)
 
++ [RSAC 2024创新沙盒｜未来防线：HARMONIC SECURITY在AI时代的数据守护](https://www.freebuf.com/articles/neopoints/399756.html)
+
