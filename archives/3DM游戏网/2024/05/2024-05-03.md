@@ -133,3 +133,17 @@
 
 + [索尼和阿波罗联合出资260亿美元 想要全现金收购派拉蒙](https://www.3dmgame.com/news/202405/3894133.html)
 
++ [《血百合轮回》9月登陆Steam 克苏鲁主题恐怖冒险](https://www.3dmgame.com/news/202405/3894141.html)
+
++ [法官在谷歌反垄断结案陈词中质疑：没人挑战谷歌](https://www.3dmgame.com/news/202405/3894139.html)
+
++ [工作室关闭之后《坎巴拉太空计划2》遭遇差评轰炸](https://www.3dmgame.com/news/202405/3894138.html)
+
++ [合作游戏《Abiotic Factor》登陆抢先体验 收获特别好评](https://www.3dmgame.com/news/202405/3894137.html)
+
++ [小米平板7曝光：全系适配小米SU7车载 即插即用](https://www.3dmgame.com/news/202405/3894136.html)
+
++ [自动化基地建设新游《铸造厂》登陆抢先体验获特别好评](https://www.3dmgame.com/news/202405/3894140.html)
+
++ [任天堂全新主题乐园Universal Epic Universe将于2025年落户奥兰多](https://www.3dmgame.com/news/202405/3894135.html)
+
