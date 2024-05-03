@@ -37,3 +37,5 @@
 
 + [越来越多游戏本也焊死内存，惠普高管解释背后原因](https://m.ithome.com/html/765601.htm)
 
++ [“放飞吧”新品发布会临近，消息称苹果 CEO 库克将同时预告全新 AI 功能](https://m.ithome.com/html/765585.htm)
+

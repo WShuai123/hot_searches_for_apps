@@ -47,3 +47,5 @@
 
 + [恶意软件活动试图滥用防御程序二进制文件](https://www.freebuf.com/news/399901.html)
 
++ [Netfilter漏洞提权利用（CVE-2023-35001）](https://www.freebuf.com/vuls/399249.html)
+
