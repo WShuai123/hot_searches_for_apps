@@ -113,3 +113,9 @@
 
 + [Condens](https://www.producthunt.com/posts/condens)
 
++ [EchoDuck](https://www.producthunt.com/posts/echoduck)
+
++ [Office Slacker](https://www.producthunt.com/posts/office-slacker)
+
++ [Rompolo](https://www.producthunt.com/posts/rompolo-2)
+

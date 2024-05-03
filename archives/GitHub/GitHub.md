@@ -51,3 +51,31 @@
 
 + [mdn / content](https://github.com/mdn/content)
 
++ [KindXiaoming / pykan](https://github.com/KindXiaoming/pykan)
+
++ [espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN)
+
++ [cpacker / MemGPT](https://github.com/cpacker/MemGPT)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
++ [a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant)
+
++ [remix-run / remix](https://github.com/remix-run/remix)
+
++ [fcori47 / basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag)
+
++ [ymcui / Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3)
+
++ [typeorm / typeorm](https://github.com/typeorm/typeorm)
+
++ [rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy)
+
++ [bazelbuild / bazel](https://github.com/bazelbuild/bazel)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
