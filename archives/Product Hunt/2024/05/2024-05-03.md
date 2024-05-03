@@ -101,3 +101,9 @@
 
 + [BlockSurvey](https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys)
 
++ [Expressive AI Avatars by Synthesia](https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia)
+
++ [GitHub Copilot Workspace](https://www.producthunt.com/posts/github-copilot-workspace)
+
++ [Wizardshot](https://www.producthunt.com/posts/wizardshot)
+

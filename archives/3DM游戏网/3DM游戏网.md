@@ -147,3 +147,9 @@
 
 + [任天堂全新主题乐园Universal Epic Universe将于2025年落户奥兰多](https://www.3dmgame.com/news/202405/3894135.html)
 
++ [微软马上放弃Win10！Win 11份额不升反降至25%](https://www.3dmgame.com/news/202405/3894144.html)
+
++ [模拟经营新作《医魔商道》正式发售 收获“多半差评”](https://www.3dmgame.com/news/202405/3894143.html)
+
++ [《Arctic Eggs》Steam页面上线 诡异煎蛋游戏](https://www.3dmgame.com/news/202405/3894142.html)
+

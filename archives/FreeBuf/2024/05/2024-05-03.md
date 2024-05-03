@@ -49,3 +49,7 @@
 
 + [Netfilter漏洞提权利用（CVE-2023-35001）](https://www.freebuf.com/vuls/399249.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [badKarma：一款功能强大的网络侦查GUI工具](https://www.freebuf.com/sectool/393764.html)
+
