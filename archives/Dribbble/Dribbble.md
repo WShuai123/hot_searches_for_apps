@@ -49,3 +49,29 @@
 
 + [American Herbarium - Overall Preview](https://dribbble.com/shots/)
 
++ [Inside out (PSE '24)](https://dribbble.com/shots/)
+
++ [Below the water ????](https://dribbble.com/shots/)
+
++ [Flower pattern exploration](https://dribbble.com/shots/)
+
++ [✍️✍️✍️](https://dribbble.com/shots/)
+
++ [Lock Cards](https://dribbble.com/shots/)
+
++ [Jaws - Vice Press](https://dribbble.com/shots/)
+
++ [Passenger - Go Forage](https://dribbble.com/shots/)
+
++ [American Burger](https://dribbble.com/shots/)
+
++ [Playball!](https://dribbble.com/shots/)
+
++ [Naboo's Theed Galactic Park](https://dribbble.com/shots/)
+
++ [Poodle Society](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+
++ [Irene](https://dribbble.com/shots/)
+
