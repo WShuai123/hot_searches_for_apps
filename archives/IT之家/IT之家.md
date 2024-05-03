@@ -55,3 +55,5 @@
 
 + [5 月 17 日发布，索尼 Xperia 1 VI 手机曝光：配骁龙 8 Gen 3 芯片，优化拍照体验](https://m.ithome.com/html/765618.htm)
 
++ [索尼 Xperia 1 VI 手机渲染图曝光，弃用 4K 21:9 屏幕设计](https://m.ithome.com/html/765666.htm)
+

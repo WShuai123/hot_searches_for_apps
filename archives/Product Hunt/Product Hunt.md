@@ -131,3 +131,5 @@
 
 + [HoshAI](https://www.producthunt.com/posts/hoshai)
 
++ [AaRead (Bionic)](https://www.producthunt.com/posts/aaread-bionic)
+
