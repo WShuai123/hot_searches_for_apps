@@ -25,3 +25,5 @@
 
 + [索尼 Xperia 1 VI 手机渲染图曝光，弃用 4K 21:9 屏幕设计](https://m.ithome.com/html/765666.htm)
 
++ [任天堂继续打击 Switch 模拟器，GitHub 删除 8535 个 Yuzu 的克隆存储库](https://m.ithome.com/html/765670.htm)
+
