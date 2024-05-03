@@ -119,3 +119,13 @@
 
 + [《地狱之刃2》PC版超宽屏截图 最低配置GTX 1070](https://www.3dmgame.com/news/202405/3894126.html)
 
++ [《暗黑4》S4赛季新视频 暴雪希望每个职业都能玩爽](https://www.3dmgame.com/news/202405/3894129.html)
+
++ [凯文·费奇曾建议休·杰克曼不要再次扮演金刚狼](https://www.3dmgame.com/news/202405/3894130.html)
+
++ [《原子之心》美艳机器双子雕像预购开启 精致华丽](https://www.3dmgame.com/news/202405/3894131.html)
+
++ [《太阳帝国的原罪2》厂商解释为何没有大规模宣传](https://www.3dmgame.com/news/202405/3894132.html)
+
++ [《Dread Delusion》5月登陆Steam 中世纪开放世界RPG](https://www.3dmgame.com/news/202405/3894128.html)
+

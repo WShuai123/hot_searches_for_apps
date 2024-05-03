@@ -43,3 +43,7 @@
 
 + [RSAC 2024创新沙盒｜未来防线：HARMONIC SECURITY在AI时代的数据守护](https://www.freebuf.com/articles/neopoints/399756.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+
++ [恶意软件活动试图滥用防御程序二进制文件](https://www.freebuf.com/news/399901.html)
+
