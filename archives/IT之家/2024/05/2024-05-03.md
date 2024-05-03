@@ -31,3 +31,9 @@
 
 + [降本增效新举措：消息称特斯拉放弃下一代“一体化压铸”制造工艺](https://m.ithome.com/html/765543.htm)
 
++ [小米公司发言人：有人故意混淆超级大压铸系统和冲压线概念](https://m.ithome.com/html/765602.htm)
+
++ [小米神秘新机入网，支持天通卫星通信](https://m.ithome.com/html/765607.htm)
+
++ [越来越多游戏本也焊死内存，惠普高管解释背后原因](https://m.ithome.com/html/765601.htm)
+

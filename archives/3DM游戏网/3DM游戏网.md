@@ -129,3 +129,7 @@
 
 + [《Dread Delusion》5月登陆Steam 中世纪开放世界RPG](https://www.3dmgame.com/news/202405/3894128.html)
 
++ [《辐射4》大型MOD《Vault 13》今夏发布试玩 初代3D重现](https://www.3dmgame.com/news/202405/3894134.html)
+
++ [索尼和阿波罗联合出资260亿美元 想要全现金收购派拉蒙](https://www.3dmgame.com/news/202405/3894133.html)
+
