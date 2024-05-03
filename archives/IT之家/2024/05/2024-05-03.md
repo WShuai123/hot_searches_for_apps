@@ -47,3 +47,5 @@
 
 + [消息称骁龙 8 Gen 4 首发机型暂定 10 月中旬发布，理论性能提升较大](https://m.ithome.com/html/765642.htm)
 
++ [荣耀 200 系列新机三证齐全，预计 5 月中下旬发布](https://m.ithome.com/html/765617.htm)
+

@@ -165,3 +165,13 @@
 
 + [中国智能音箱创3年来最大跌幅 小米市场份额居首位](https://www.3dmgame.com/news/202405/3894148.html)
 
++ [《水星潮》登陆Steam 卡牌玩法肉鸽RPG](https://www.3dmgame.com/news/202405/3894155.html)
+
++ [“雷神”谈《疯狂的麦克斯》前传：终于摆脱超英规则](https://www.3dmgame.com/news/202405/3894154.html)
+
++ [Q1全球手机排名 三星第一苹果均价最高](https://www.3dmgame.com/news/202405/3894153.html)
+
++ [《星空》5月更新之后 终于可以不用看NPC对话大脸了](https://www.3dmgame.com/news/202405/3894152.html)
+
++ [超现实解谜游戏《印蒂卡》正式发售 收获特别好评](https://www.3dmgame.com/news/202405/3894151.html)
+

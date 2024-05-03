@@ -101,3 +101,51 @@
 
 + [四种网络IO模型](https://blog.csdn.net/m0_62645012/article/details/138336548)
 
++ [Agent AI智能体：如何借助机器学习引领科技新潮流](https://blog.csdn.net/a1657054242/article/details/138380917)
+
++ [多模态大模型是新一代人工智能技术范式](https://blog.csdn.net/weixin_43178406/article/details/138387066)
+
++ [基于语音识别的智能电子病历（一）](https://blog.csdn.net/withcsharp2/article/details/137879416)
+
++ [C++奇迹之旅：C++内存管理的机制（进阶篇）](https://blog.csdn.net/a_hong_sen/article/details/138403178)
+
++ [C++必修：类与对象(二)](https://blog.csdn.net/Bettysweetyaaa/article/details/138360762)
+
++ [2024年第二十一届 五一杯 （A题）大学生数学建模挑战赛 | 多目标优化问题，深度学习分析 | 数学建模完整代码解析](https://blog.csdn.net/math_bearrr/article/details/138377651)
+
++ [是机遇？是未来？拥抱 AI Agent ，拥抱 AI 2.0时代～](https://blog.csdn.net/weixin_42250835/article/details/138382730)
+
++ [智能家居|基于SprinBoot+vue的智能家居系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/138388226)
+
++ [Elasticsearch：理解近似最近邻 (ANN) 算法](https://blog.csdn.net/UbuntuTouch/article/details/138368674)
+
++ [【青青我的素学】五一杯数学建模论文格式和注意事项](https://blog.csdn.net/m0_73589720/article/details/138326626)
+
++ [Scala应用 —— JDBC的创建](https://blog.csdn.net/m0_74120525/article/details/138389803)
+
++ [SQL中为什么不要使用1=1？](https://blog.csdn.net/dulgao/article/details/138367965)
+
++ [【前端篇】微信小程序ActionSheet封装 -- 封装特性，开发只需要关注功能](https://blog.csdn.net/weixin_44778151/article/details/138399873)
+
++ [K8S中基于NFS-Subdir-External-Provisioner存储组件实现的StorageClass](https://blog.csdn.net/weixin_45648912/article/details/138395467)
+
++ [Web安全研究（七）](https://blog.csdn.net/AcSuccess/article/details/138387698)
+
++ [6.k8s中的secrets资源](https://blog.csdn.net/qq_22321199/article/details/138372827)
+
++ [深信服超融合部署Ubuntu22.04 LTS](https://blog.csdn.net/henrry818/article/details/138399511)
+
++ [区块链论文总结速读--CCF B会议 ICDCS 2023 共8篇](https://blog.csdn.net/u013288190/article/details/138368338)
+
++ [使用FPGA实现串-并型乘法器](https://blog.csdn.net/CL1983088202/article/details/138357702)
+
++ [使用Pandas和Matplotlib实现数据探索性可视化](https://blog.csdn.net/weixin_52908342/article/details/138360380)
+
++ [【探索Linux】P.33（HTTP协议）](https://blog.csdn.net/m0_75215937/article/details/137491197)
+
++ [WebAuthn 无密码身份认证](https://blog.csdn.net/jichencsdn/article/details/138334001)
+
++ [医疗大模型华佗GPT-2：医学问答超越GPT-4，通过2023年国家执业药师考试](https://blog.csdn.net/nulifancuoAI/article/details/138359470)
+
++ [Spring Cloud——OpenFeign](https://blog.csdn.net/weixin_65032328/article/details/138389012)
+
