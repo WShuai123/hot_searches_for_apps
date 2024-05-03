@@ -101,3 +101,5 @@
 
 + [英伟达ChatRTX迎0.3版本更新 新增照片搜索、AI语音识别等功能](https://www.3dmgame.com/news/202405/3894115.html)
 
++ [《异能缉凶》现已支持中文 Steam好评如潮](https://www.3dmgame.com/news/202405/3894166.html)
+
