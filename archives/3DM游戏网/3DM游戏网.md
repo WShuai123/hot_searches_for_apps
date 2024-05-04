@@ -141,3 +141,5 @@
 
 + [五一出游AI陪伴 文心一言APP旅游智能体用户首日暴增12倍](https://www.3dmgame.com/news/202405/3894184.html)
 
++ [《七日杀》正式版最新宣传片公开 6月正式推出](https://www.3dmgame.com/news/202405/3894186.html)
+
