@@ -61,3 +61,7 @@
 
 + [武广高铁、沪杭客专等 4 条铁路票价 6 月 15 日开涨，涨幅 19-20%](https://m.ithome.com/html/765739.htm)
 
++ [新款春风 800NK 摩托上市：支持苹果 CarPlay、搭载博世 TC 系统，售 44980 元起](https://m.ithome.com/html/765721.htm)
+
++ [特斯拉董事长敦促股东重新批准马斯克天价薪酬方案，价值 550 亿美元](https://m.ithome.com/html/765712.htm)
+
