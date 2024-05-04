@@ -111,3 +111,11 @@
 
 + [《地狱之刃2》PC版详细系统配置需求公布](https://www.3dmgame.com/news/202405/3894167.html)
 
++ [《Rocket Rumble》本月脱离抢先体验 发布正式版](https://www.3dmgame.com/news/202405/3894174.html)
+
++ [2024年Q1最赚钱的PC和主机端游戏 《龙之信条2》上榜](https://www.3dmgame.com/news/202405/3894173.html)
+
++ [《超时空方舟》登陆Steam 卡牌构筑肉鸽元素RPG](https://www.3dmgame.com/news/202405/3894172.html)
+
++ [《DEVIL BLADE REBOOT》Steam上架 纵版弹幕射击](https://www.3dmgame.com/news/202405/3894171.html)
+

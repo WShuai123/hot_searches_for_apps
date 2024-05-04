@@ -43,3 +43,7 @@
 
 + [RSAC 2024创新沙盒｜P0 Security的云访问治理平台](https://www.freebuf.com/articles/neopoints/399755.html)
 
++ [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
+
++ [EDR的梦魇：Storm-0978使用新型内核注入技术“Step Bear”](https://www.freebuf.com/articles/paper/399038.html)
+

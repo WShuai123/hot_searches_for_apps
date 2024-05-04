@@ -101,3 +101,35 @@
 
 + [【研发管理】产品经理知识体系-产品创新流程](https://blog.csdn.net/weixin_43800786/article/details/138395198)
 
++ [神经网络反向传播算法](https://blog.csdn.net/qq_64685283/article/details/138293285)
+
++ [利用大语言模型（KIMI）构建智能产品的控制信息模型](https://blog.csdn.net/yaojiawan/article/details/138366270)
+
++ [调教AI给我写了一个KD树的算法](https://blog.csdn.net/songhuangong123/article/details/138395365)
+
++ [【DevOps】Dockerfile详解，做自己的docker镜像](https://blog.csdn.net/benshu_001/article/details/138377033)
+
++ [一种单线性约束下的生成随机数修正方法](https://blog.csdn.net/qq_37336839/article/details/138403285)
+
++ [【高质量】2024五一数学建模C题保奖思路+代码（后续会更新）](https://blog.csdn.net/qq_50593822/article/details/138371187)
+
++ [基于alpha shapes的边缘点提取（matlab）](https://blog.csdn.net/qq_32867925/article/details/138379944)
+
++ [Zigbee 网络多路HDMI切换器](https://blog.csdn.net/zhuoqingjoking97298/article/details/138376275)
+
++ [观察者模式实战：解密最热门的设计模式之一](https://blog.csdn.net/qq_41107231/article/details/138408730)
+
++ [【数学建模】矩阵微分方程](https://blog.csdn.net/gongdiwudu/article/details/138428150)
+
++ [springboot 自动配置源码解读](https://blog.csdn.net/weixin_46591962/article/details/138349149)
+
++ [认识Hadoop](https://blog.csdn.net/TS194919892003/article/details/138422143)
+
++ [【云原生】Docker 实践（五）：搭建私有镜像 Harbor](https://blog.csdn.net/be_racle/article/details/138399966)
+
++ [uni-app 从vue3项目创建到Pinia管理数据全局使用 持久化存储数据 详细教程](https://blog.csdn.net/qq_52602294/article/details/138390564)
+
++ [【EXCEL_VBA_实战经验】利用VBA批量解除工作表保护，并调整页面设置](https://blog.csdn.net/jimmy33777/article/details/138367234)
+
++ [论文研读｜针对文生图模型的AIGC检测](https://blog.csdn.net/qq_36332660/article/details/138415768)
+
