@@ -27,3 +27,13 @@
 
 + [任天堂继续打击 Switch 模拟器，GitHub 删除 8535 个 Yuzu 的克隆存储库](https://m.ithome.com/html/765670.htm)
 
++ [小米汽车：SU7 车机暂未适配 WPS 蓝牙鼠标或键盘，运动声浪模拟需与 25 扬声器匹配](https://m.ithome.com/html/765691.htm)
+
++ [索尼 Xperia 10 VI 手机渲染图曝光：后置双摄、21:9 屏幕、3.5mm 耳机孔](https://m.ithome.com/html/765668.htm)
+
++ [我国嫦娥六号探测器发射升空！人类首次开展月球背面取样](https://m.ithome.com/html/765672.htm)
+
++ [第 1 季度全球手机报告：TOP5 中苹果平均价格最高、三星出货量最大、小米增长最快](https://m.ithome.com/html/765654.htm)
+
++ [我国嫦娥六号探测器发射任务圆满成功！奔向月球，太阳能帆板成功展开](https://m.ithome.com/html/765677.htm)
+

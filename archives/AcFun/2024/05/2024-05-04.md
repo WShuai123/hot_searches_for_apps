@@ -63,3 +63,7 @@
 
 + [疑心暗鬼 「仆人 ✦ 阿蕾奇诺」](http://www.acfun.cn/v/ac44451347)
 
++ [第一次跟乐队演出！非常开心！](http://www.acfun.cn/v/ac44456131)
+
++ [这首“异国小曲”何其熟悉](http://www.acfun.cn/v/ac44452260)
+
