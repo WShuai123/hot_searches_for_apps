@@ -171,3 +171,5 @@
 
 + [华尔街日报：苹果手机在中国正失去高端吸引力](https://www.3dmgame.com/news/202405/3894197.html)
 
++ [《死侍3》曝全新剧照 7月26日上映](https://www.3dmgame.com/news/202405/3894201.html)
+
