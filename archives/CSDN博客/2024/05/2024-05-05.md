@@ -101,3 +101,37 @@
 
 + [很牛的东西PaddleKAN（Paddle kolmogorov arnold network）](https://blog.csdn.net/skywalk8163/article/details/138412961)
 
++ [基于免疫粒子群算法的考虑负荷需求相应的热电联供系统优化调度（MATLAB实现）](https://blog.csdn.net/qq_42912425/article/details/138388468)
+
++ [SQL注入漏洞扫描---sqlmap](https://blog.csdn.net/weixin_60885144/article/details/138410466)
+
++ [[嵌入式AI从0开始到入土]17_Ascend C算子开发](https://blog.csdn.net/weixin_44354614/article/details/138424102)
+
++ [Baumer工业相机堡盟工业相机如何通过NEOAPISDK获取相机的Statistics图像传输统计信息（C#）](https://blog.csdn.net/xianzuzhicai/article/details/138403421)
+
++ [【Hadoop】--基于hadoop和hive实现聊天数据统计分析，构建聊天数据分析报表[17]](https://blog.csdn.net/weixin_63106307/article/details/138383050)
+
++ [2024.5.5 机器学习周报](https://blog.csdn.net/lijiaweitt/article/details/138345755)
+
++ [（四）双写一致性：ES与MySQL数据同步的直接同步与异步解决方案](https://blog.csdn.net/weixin_59736343/article/details/138428787)
+
++ [VMware虚拟机中ubuntu使用记录（6）—— 如何标定单目相机的内参（张正友标定法）](https://blog.csdn.net/2401_82458959/article/details/138378173)
+
++ [Redis---------实现更改数据业务，包括缓存更新，缓存穿透雪崩击穿的处理](https://blog.csdn.net/qq_62366797/article/details/138356079)
+
++ [docker搭建redis集群三主三从](https://blog.csdn.net/qq_21561833/article/details/138417015)
+
++ [使用docker-compose编排Lnmp(dockerfile) 完成Wordpress](https://blog.csdn.net/zzzxxx520369/article/details/138425248)
+
++ [YOLOv5手势物体识别(附代码)](https://blog.csdn.net/z240626191s/article/details/138427264)
+
++ [UDP编程流程（UDP客户端、服务器互发消息流程）](https://blog.csdn.net/BEIFEN13/article/details/138424120)
+
++ [【Python可视化】pyecharts](https://blog.csdn.net/qq_45951891/article/details/138416727)
+
++ [Electron使用 SQLite](https://blog.csdn.net/hawk2014bj/article/details/138399387)
+
++ [【论文阅读】Tutorial on Diffusion Models for Imaging and Vision](https://blog.csdn.net/qq_33673253/article/details/138404804)
+
++ [Vue 组件通信](https://blog.csdn.net/weixin_73042028/article/details/138420979)
+

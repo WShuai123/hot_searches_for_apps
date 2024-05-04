@@ -105,3 +105,5 @@
 
 + [Journable](https://www.producthunt.com/posts/journable)
 
++ [Channels by Dovetail](https://www.producthunt.com/posts/channels-by-dovetail)
+
