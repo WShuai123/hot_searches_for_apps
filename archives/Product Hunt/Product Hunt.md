@@ -101,3 +101,7 @@
 
 + [Pressmaster.ai](https://www.producthunt.com/posts/pressmaster-ai)
 
++ [Arc for Windows](https://www.producthunt.com/posts/arc-for-windows)
+
++ [Journable](https://www.producthunt.com/posts/journable)
+
