@@ -43,3 +43,5 @@
 
 + [斯蒂芬・埃洛普，被嫌弃的诺基亚末代 CEO 的一生](https://m.ithome.com/html/765649.htm)
 
++ [2024 款诺基亚 3210 4G 手机配置泄露：2.4 英寸 IPS 屏幕、紫光展锐 T107](https://m.ithome.com/html/765658.htm)
+

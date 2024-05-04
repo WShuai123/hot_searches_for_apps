@@ -119,3 +119,17 @@
 
 + [《DEVIL BLADE REBOOT》Steam上架 纵版弹幕射击](https://www.3dmgame.com/news/202405/3894171.html)
 
++ [《永恒蔚蓝流光》登陆Switch发售 美丽海洋探索](https://www.3dmgame.com/news/202405/3894181.html)
+
++ [《地平线：西之绝境》PC版1.4更新上线 改进UI和修复多个Bug](https://www.3dmgame.com/news/202405/3894175.html)
+
++ [传闻：《古墓丽影》新作完全开放世界 设定在印度](https://www.3dmgame.com/news/202405/3894180.html)
+
++ [好评合作恐怖射击游戏《斯盖尔仪式》公布路线图](https://www.3dmgame.com/news/202405/3894179.html)
+
++ [《绝地潜兵2》Steam强制绑定PSN账户 导致差评轰炸](https://www.3dmgame.com/news/202405/3894178.html)
+
++ [《变种人橄榄球联盟2》5月底进入抢先体验阶段](https://www.3dmgame.com/news/202405/3894177.html)
+
++ [《When the Light Dies》登陆steam 仿吸幸生存射击](https://www.3dmgame.com/news/202405/3894176.html)
+
