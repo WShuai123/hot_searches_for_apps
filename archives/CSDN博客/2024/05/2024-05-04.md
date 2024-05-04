@@ -133,3 +133,17 @@
 
 + [论文研读｜针对文生图模型的AIGC检测](https://blog.csdn.net/qq_36332660/article/details/138415768)
 
++ [2024五一赛数学建模A题B题C题完整思路+数据代码+参考论文](https://blog.csdn.net/2301_77933700/article/details/138370213)
+
++ [如何快速搭建nginx服务](https://blog.csdn.net/huaz_md/article/details/138370829)
+
++ [vue3与js的router基本使用方式](https://blog.csdn.net/qq_55097440/article/details/138368276)
+
++ [身份证号对应地区信息-MySQL](https://blog.csdn.net/tangcv/article/details/138389106)
+
++ [SpringBoot之文件操作记录存储服务](https://blog.csdn.net/qq_34020761/article/details/138373445)
+
++ [《架构即未来》读后感](https://blog.csdn.net/ChailangCompany/article/details/138387058)
+
++ [【软件工程】需求分析](https://blog.csdn.net/qq_72680384/article/details/138240042)
+

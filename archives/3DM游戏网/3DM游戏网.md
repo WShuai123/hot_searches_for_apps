@@ -133,3 +133,11 @@
 
 + [《When the Light Dies》登陆steam 仿吸幸生存射击](https://www.3dmgame.com/news/202405/3894176.html)
 
++ [日本艺人直播游玩假冒《西瓜游戏》被举报 向公众致歉](https://www.3dmgame.com/news/202405/3894185.html)
+
++ [我国多条高铁线路宣布涨价20% 近年来幅度最大](https://www.3dmgame.com/news/202405/3894182.html)
+
++ [任天堂NS新游评级曝光 或为经典FC游戏挑战合集](https://www.3dmgame.com/news/202405/3894183.html)
+
++ [五一出游AI陪伴 文心一言APP旅游智能体用户首日暴增12倍](https://www.3dmgame.com/news/202405/3894184.html)
+
