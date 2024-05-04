@@ -163,3 +163,11 @@
 
 + [《英雄联盟》反作弊补丁让电脑无法启动？拳头澄清](https://www.3dmgame.com/news/202405/3894195.html)
 
++ [《Exoborne》招募测试玩家 末日背景生存撤离射击](https://www.3dmgame.com/news/202405/3894200.html)
+
++ [《最远的边陲》厂商认为《庄园领主》并非一人完成](https://www.3dmgame.com/news/202405/3894199.html)
+
++ [选错阵营可从头再来 《灰区战争》加入注销角色选项](https://www.3dmgame.com/news/202405/3894198.html)
+
++ [华尔街日报：苹果手机在中国正失去高端吸引力](https://www.3dmgame.com/news/202405/3894197.html)
+

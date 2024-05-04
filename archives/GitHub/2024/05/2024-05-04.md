@@ -51,3 +51,27 @@
 
 + [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
 
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
++ [adobe / react-spectrum](https://github.com/adobe/react-spectrum)
+
++ [adrianhajdin / banking](https://github.com/adrianhajdin/banking)
+
++ [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV)
+
++ [verlab / accelerated_features](https://github.com/verlab/accelerated_features)
+
++ [pytorch / executorch](https://github.com/pytorch/executorch)
+
++ [novuhq / novu](https://github.com/novuhq/novu)
+
++ [TanStack / query](https://github.com/TanStack/query)
+
++ [reorproject / reor](https://github.com/reorproject/reor)
+
++ [aws-samples / bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat)
+
++ [mantinedev / mantine](https://github.com/mantinedev/mantine)
+

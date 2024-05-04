@@ -71,3 +71,7 @@
 
 + [TCL 雷鸟 2024 款 65 英寸鹤 6 Pro 电视开售：4K 144Hz Mini-LED + 512 分区，3699 元](https://m.ithome.com/html/765745.htm)
 
++ [苹果 iPhone 16 / Pro 系列机模再曝光，MagSafe 环变薄](https://m.ithome.com/html/765764.htm)
+
++ [智界全新 SUV 车型谍照曝光：纯电、增程双版本，家族式前脸设计](https://m.ithome.com/html/765767.htm)
+
