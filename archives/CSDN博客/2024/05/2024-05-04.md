@@ -147,3 +147,21 @@
 
 + [【软件工程】需求分析](https://blog.csdn.net/qq_72680384/article/details/138240042)
 
++ [Oracle23ai来了，23爱，全能、超级巨兽...](https://blog.csdn.net/weixin_41645135/article/details/138434287)
+
++ [【目标检测】DEtection TRansformer (DETR)](https://blog.csdn.net/beginner1207/article/details/138366995)
+
++ [Universal Thresholdizer：将多种密码学原语门限化](https://blog.csdn.net/weixin_44885334/article/details/138418171)
+
++ [年纪大了学不动？学习方法告诉你](https://blog.csdn.net/sinat_40546227/article/details/138425518)
+
++ [API安全](https://blog.csdn.net/2301_76717406/article/details/138244138)
+
++ [十四、网络编程](https://blog.csdn.net/hc1285653662/article/details/138411242)
+
++ [领域驱动设计（DDD）笔记（二）代码组织原则](https://blog.csdn.net/ysf465639310/article/details/138415419)
+
++ [PDF中伪代码、原理示意图等导出为矢量图](https://blog.csdn.net/tugepaopaoo/article/details/138392011)
+
++ [很牛的东西PaddleKAN（Paddle kolmogorov arnold network）](https://blog.csdn.net/skywalk8163/article/details/138412961)
+

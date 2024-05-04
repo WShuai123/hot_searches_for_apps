@@ -47,3 +47,5 @@
 
 + [EDR的梦魇：Storm-0978使用新型内核注入技术“Step Bear”](https://www.freebuf.com/articles/paper/399038.html)
 
++ [LNK攻击测试浅析（一）](https://www.freebuf.com/articles/web/397007.html)
+

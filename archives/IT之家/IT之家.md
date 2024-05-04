@@ -45,3 +45,5 @@
 
 + [2024 款诺基亚 3210 4G 手机配置泄露：2.4 英寸 IPS 屏幕、紫光展锐 T107](https://m.ithome.com/html/765658.htm)
 
++ [机械革命无界 15 Pro 笔记本预售：R7-8845HS 处理器，售价 4299 元](https://m.ithome.com/html/765645.htm)
+
