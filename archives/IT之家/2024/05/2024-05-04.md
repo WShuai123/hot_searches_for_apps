@@ -79,3 +79,5 @@
 
 + [理想 L6 车型上市 16 天累计定单突破 3 万台](https://m.ithome.com/html/765781.htm)
 
++ [官方回应问界新 M7 夜间行车时大灯突然熄灭：车主操作失误，问题已解决](https://m.ithome.com/html/765801.htm)
+

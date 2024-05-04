@@ -181,3 +181,5 @@
 
 + [《古墓丽影》新作首批细节曝光 劳拉可以招募团队和盟友](https://www.3dmgame.com/news/202405/3894204.html)
 
++ [这够用了吗！SK海力士突然宣布300TB容量SSD](https://www.3dmgame.com/news/202405/3894206.html)
+
