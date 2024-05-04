@@ -65,3 +65,9 @@
 
 + [特斯拉董事长敦促股东重新批准马斯克天价薪酬方案，价值 550 亿美元](https://m.ithome.com/html/765712.htm)
 
++ [消息称 vivo X100 Ultra 手机搭载 2 亿像素 1/1.4 英寸“行业最大底长焦”](https://m.ithome.com/html/765769.htm)
+
++ [一汽解放奖励梅大高速塌方灾害见义勇为司机，联合颁发奖金 1 万元](https://m.ithome.com/html/765757.htm)
+
++ [TCL 雷鸟 2024 款 65 英寸鹤 6 Pro 电视开售：4K 144Hz Mini-LED + 512 分区，3699 元](https://m.ithome.com/html/765745.htm)
+
