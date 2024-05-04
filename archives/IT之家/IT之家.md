@@ -49,3 +49,7 @@
 
 + [获利超 700 万元，一程序员开发网络视频“非法搬运”软件被判 3 年有期徒刑](https://m.ithome.com/html/765725.htm)
 
++ [荣耀 Magic6 RSR 保时捷设计手机海外开售，售价达 1599.99 英镑](https://m.ithome.com/html/765655.htm)
+
++ [AMD 庆祝成立 55 周年，用 Ryzen AI 修复旧图片和视频：黄仁勋出镜](https://m.ithome.com/html/765661.htm)
+

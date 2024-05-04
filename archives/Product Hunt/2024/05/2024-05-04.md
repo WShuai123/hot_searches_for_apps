@@ -101,3 +101,17 @@
 
 + [BlockSurvey](https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys)
 
++ [Nanito - Minimalist Launcher](https://www.producthunt.com/posts/nanito-minimalist-launcher)
+
++ [Meaning](https://www.producthunt.com/posts/meaning)
+
++ [Logoit](https://www.producthunt.com/posts/logoit)
+
++ [CallBud AI](https://www.producthunt.com/posts/callbud-ai)
+
++ [oss.gallery](https://www.producthunt.com/posts/oss-gallery)
+
++ [Today in History](https://www.producthunt.com/posts/today-in-history)
+
++ [Inforida](https://www.producthunt.com/posts/inforida)
+

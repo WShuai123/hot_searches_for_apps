@@ -49,3 +49,7 @@
 
 + [LNK攻击测试浅析（一）](https://www.freebuf.com/articles/web/397007.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
++ [Cangibrina：一款功能强大且高效的管理员面板扫描与发现工具](https://www.freebuf.com/sectool/393765.html)
+
