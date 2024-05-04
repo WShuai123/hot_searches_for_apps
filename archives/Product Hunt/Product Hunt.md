@@ -115,3 +115,7 @@
 
 + [Inforida](https://www.producthunt.com/posts/inforida)
 
++ [Creatoor AI](https://www.producthunt.com/posts/creatoor-ai)
+
++ [Pressmaster.ai](https://www.producthunt.com/posts/pressmaster-ai)
+

@@ -53,3 +53,11 @@
 
 + [AMD 庆祝成立 55 周年，用 Ryzen AI 修复旧图片和视频：黄仁勋出镜](https://m.ithome.com/html/765661.htm)
 
++ [马斯克：特斯拉 Model Y “260 英里”版可解锁更多续航里程](https://m.ithome.com/html/765746.htm)
+
++ [小米 Redmi Note 11T Pro 手机获推澎湃 HyperOS 正式版更新，附带谷歌 4 月安全补丁](https://m.ithome.com/html/765716.htm)
+
++ [鸿蒙智行 5 月 1 日-3 日全系车型大定突破 6600 台](https://m.ithome.com/html/765733.htm)
+
++ [武广高铁、沪杭客专等 4 条铁路票价 6 月 15 日开涨，涨幅 19-20%](https://m.ithome.com/html/765739.htm)
+

@@ -145,3 +145,13 @@
 
 + [《内容警告》发布首个大型更新档 加入全新地图和怪物](https://www.3dmgame.com/news/202405/3894187.html)
 
++ [花钱解锁！马斯克：Model Y实际拥有更多续航里程](https://www.3dmgame.com/news/202405/3894192.html)
+
++ [Take-Two发行部门Private Division也有大量员工被裁](https://www.3dmgame.com/news/202405/3894189.html)
+
++ [索尼克衍生剧《纳克鲁斯》创下Paramount+收视纪录](https://www.3dmgame.com/news/202405/3894191.html)
+
++ [《Kimekawa》Steam页面上线 美少女节奏新游](https://www.3dmgame.com/news/202405/3894190.html)
+
++ [一年之后《红霞岛》当初承诺的DLC仍然没有推出](https://www.3dmgame.com/news/202405/3894188.html)
+
