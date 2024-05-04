@@ -173,3 +173,7 @@
 
 + [《死侍3》曝全新剧照 7月26日上映](https://www.3dmgame.com/news/202405/3894201.html)
 
++ [《对马岛之鬼》PC版单人游戏不需要PSN账户](https://www.3dmgame.com/news/202405/3894202.html)
+
++ [2023年好莱坞最赔钱榜单：前5名中迪士尼占4席](https://www.3dmgame.com/news/202405/3894203.html)
+

@@ -77,3 +77,5 @@
 
 + [安卓和 iOS 系统谁更安全？手机出厂设置后安装应用商城前 100 款 App 实测](https://m.ithome.com/html/765773.htm)
 
++ [理想 L6 车型上市 16 天累计定单突破 3 万台](https://m.ithome.com/html/765781.htm)
+
