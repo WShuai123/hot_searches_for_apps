@@ -121,3 +121,15 @@
 
 + [虚幻5.4引擎技术DEMO RTX 4080也无法4K/60FPS](https://www.3dmgame.com/news/202405/3894214.html)
 
++ [《五年的回忆》Steam试玩发布 温馨童年回忆冒险](https://www.3dmgame.com/news/202405/3894222.html)
+
++ [拉瑞安CEO说服员工在《博德之门3》中加入浪漫场景](https://www.3dmgame.com/news/202405/3894219.html)
+
++ [美国政府退役超级计算机“夏延”拍卖 成交价346万元](https://www.3dmgame.com/news/202405/3894220.html)
+
++ [Atlus爆料人透露公司当前正在开发神秘新项目](https://www.3dmgame.com/news/202405/3894221.html)
+
++ [《荣耀战场：王国》Steam页面上线 中世纪战略新作](https://www.3dmgame.com/news/202405/3894217.html)
+
++ [《生化危机》近来每年一款大作的趋势似乎要中断](https://www.3dmgame.com/news/202405/3894218.html)
+
