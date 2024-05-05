@@ -101,3 +101,17 @@
 
 + [AMD公布2024 Q1财报 利润崩塌](https://www.3dmgame.com/news/202405/3894157.html)
 
++ [宝可梦卡游新牌组6月7日发售 零之秘宝新宝可梦收录](https://www.3dmgame.com/news/202405/3894213.html)
+
++ [北京车展闭幕：小米SU7展台累计接待超过15万人](https://www.3dmgame.com/news/202405/3894212.html)
+
++ [Rebel Wolves创始人：要吸取以前在CDPR时的教训](https://www.3dmgame.com/news/202405/3894211.html)
+
++ [《恶意不息》推出抢先体验补丁 降低PC配置需求](https://www.3dmgame.com/news/202405/3894210.html)
+
++ [《绝地潜兵2》Steam差评数量超过了24.1万](https://www.3dmgame.com/news/202405/3894209.html)
+
++ [《绝地潜兵2》厂商：我们站在玩家这边 正在与索尼讨论](https://www.3dmgame.com/news/202405/3894208.html)
+
++ [《林间小世界》5月30日发布试玩 治愈系建设经营](https://www.3dmgame.com/news/202405/3894207.html)
+
