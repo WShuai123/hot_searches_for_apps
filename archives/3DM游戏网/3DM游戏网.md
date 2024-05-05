@@ -143,3 +143,13 @@
 
 + [《排水模拟器》Steam页面上线 应对洪水冒险](https://www.3dmgame.com/news/202405/3894224.html)
 
++ [发行商表示《庄园领主》首发大获成功 超出预期](https://www.3dmgame.com/news/202405/3894232.html)
+
++ [《怪兽8号》动画新卡司公开 杉田智和确定参演](https://www.3dmgame.com/news/202405/3894230.html)
+
++ [《电锯甜心RePOP》将在全球范围发行实体版和数字版](https://www.3dmgame.com/news/202405/3894231.html)
+
++ [《绝地潜兵2》Steam大量国家和地区停售 已开启退款](https://www.3dmgame.com/news/202405/3894228.html)
+
++ [携程发布五一数据报告：国内十大最热门旅游城市出炉](https://www.3dmgame.com/news/202405/3894229.html)
+
