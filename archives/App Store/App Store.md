@@ -209,3 +209,5 @@
 
 + [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
 
++ [快对-作业标准答案&错题本去手写&拍照翻译](https://itunes.apple.com/cn/app/id1330927814?mt=8)
+

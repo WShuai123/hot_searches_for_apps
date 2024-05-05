@@ -135,3 +135,59 @@
 
 + [Vue 组件通信](https://blog.csdn.net/weixin_73042028/article/details/138420979)
 
++ [国内各种免费AI聊天机器人(ChatGPT)推荐(中)](https://blog.csdn.net/jxjdhdnd/article/details/138311955)
+
++ [OpenCV（二）—— 车牌定位](https://blog.csdn.net/tmacfrank/article/details/138391552)
+
++ [如何配置X86应用程序启用大地址模式（将用户态虚拟内存从2GB扩充到3GB），以解决用户态虚拟内存不够用问题？（项目实战案例解析）](https://blog.csdn.net/chenlycly/article/details/138460583)
+
++ [Stable Diffusion AI绘画](https://blog.csdn.net/qq_64685283/article/details/138421033)
+
++ [【UnityRPG游戏制作】NPC交互逻辑、动玩法](https://blog.csdn.net/m0_64128218/article/details/138426686)
+
++ [【二等奖水平论文】2024五一数学建模C题22页保奖论文+22页matlab和13页python完整建模代码、可视图表+分解结果等（后续会更新）](https://blog.csdn.net/qq_50593822/article/details/138392296)
+
++ [【网络编程下】五种网络IO模型](https://blog.csdn.net/Atcxr/article/details/138443986)
+
++ [目标跟踪—卡尔曼滤波](https://blog.csdn.net/weixin_46167190/article/details/138435267)
+
++ [如何快速学懂数学分析](https://blog.csdn.net/dllglvzhenfeng/article/details/138435818)
+
++ [利用大语言模型（KIMI）构建智能产品的信息模型](https://blog.csdn.net/yaojiawan/article/details/138366270)
+
++ [linux系统——系统安全及应用](https://blog.csdn.net/henanxiaoman/article/details/138341447)
+
++ [数据仓库实验三：分类规则挖掘实验](https://blog.csdn.net/Morse_Chen/article/details/138434813)
+
++ [OpenCV图像处理之LUT](https://blog.csdn.net/qq_44816992/article/details/138446895)
+
++ [论文阅读：Development of a Navigation Solution for an Image Aided Automatic Landing System](https://blog.csdn.net/yjy420/article/details/138455111)
+
++ [Redis---------实现商品秒杀业务，包括唯一ID，超卖问题，分布式锁](https://blog.csdn.net/qq_62366797/article/details/138374015)
+
++ [页面嵌套、蓝图连线，在WEB组态大屏和前端界面开发上的应用——UIOTOS前端零代码设计理念](https://blog.csdn.net/IOTOS/article/details/138448676)
+
++ [现代循环神经网络(GRU、LSTM)（Pytorch 14）](https://blog.csdn.net/March_A/article/details/138448801)
+
++ [【uniapp】H5+、APP模拟浏览器环境内部打开网页](https://blog.csdn.net/qq_35230125/article/details/138454958)
+
++ [RabbitMQ（Docker 单机部署）](https://blog.csdn.net/LearnerDL/article/details/138453579)
+
++ [API自动化架构及分层](https://blog.csdn.net/m0_45334833/article/details/138450362)
+
++ [农作物害虫检测数据集VOC+YOLO格式18975张97类别](https://blog.csdn.net/FL1623863129/article/details/138444584)
+
++ [手撸Mybatis（三）——收敛SQL操作到SqlSession](https://blog.csdn.net/weixin_55850954/article/details/138418694)
+
++ [第11章 软件工程](https://blog.csdn.net/2301_80248379/article/details/138415900)
+
++ [spring框架学习记录(1)](https://blog.csdn.net/shyYukino/article/details/138426167)
+
++ [《网络安全---frida应用实践---某付费视频应用一举拿下》](https://blog.csdn.net/w695050167/article/details/138421496)
+
++ [使用Python实现MapReduce](https://blog.csdn.net/m0_73848096/article/details/138452578)
+
++ [第五篇：通信脉络：探索计算机外设与总线体系的精髓](https://blog.csdn.net/fanjianglin/article/details/138446983)
+
++ [OSEK的设计哲学与架构](https://blog.csdn.net/m0_47462420/article/details/138453315)
+

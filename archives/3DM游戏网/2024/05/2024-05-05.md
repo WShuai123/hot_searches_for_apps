@@ -135,3 +135,11 @@
 
 + [D加密宕机导致《女神异闻录5：皇家版》无法运行](https://www.3dmgame.com/news/202405/3894223.html)
 
++ [《Seablip》Steam5月17日抢测 像素风海盗动作冒险](https://www.3dmgame.com/news/202405/3894226.html)
+
++ [《塞尔达传说》真人版电影导演保证要让系列粉丝满意](https://www.3dmgame.com/news/202405/3894227.html)
+
++ [豆瓣6.3分口碑倒数！杨幂新电影《没有一顿火锅解决不了的事》官宣撤档](https://www.3dmgame.com/news/202405/3894225.html)
+
++ [《排水模拟器》Steam页面上线 应对洪水冒险](https://www.3dmgame.com/news/202405/3894224.html)
+
