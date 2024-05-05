@@ -51,3 +51,39 @@
 
 + [pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue)
 
++ [xM4ddy / OFGB](https://github.com/xM4ddy/OFGB)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [karpathy / llm.c](https://github.com/karpathy/llm.c)
+
++ [Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan)
+
++ [lmstudio-ai / lms](https://github.com/lmstudio-ai/lms)
+
++ [solana-labs / solana](https://github.com/solana-labs/solana)
+
++ [pydantic / logfire](https://github.com/pydantic/logfire)
+
++ [wandb / openui](https://github.com/wandb/openui)
+
++ [systemdesign42 / system-design](https://github.com/systemdesign42/system-design)
+
++ [HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)
+
++ [mlc-ai / web-llm](https://github.com/mlc-ai/web-llm)
+
++ [huggingface / candle](https://github.com/huggingface/candle)
+
++ [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+
++ [Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [cpacker / MemGPT](https://github.com/cpacker/MemGPT)
+
++ [Universidade-Livre / ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+
++ [tokio-rs / axum](https://github.com/tokio-rs/axum)
+
