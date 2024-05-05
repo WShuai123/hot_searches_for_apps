@@ -21,3 +21,5 @@
 
 + [明日方舟](https://www.taptap.cn/app/70253)
 
++ [少女前线2：追放](https://www.taptap.cn/app/190930)
+

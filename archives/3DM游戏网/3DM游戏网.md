@@ -115,3 +115,9 @@
 
 + [《林间小世界》5月30日发布试玩 治愈系建设经营](https://www.3dmgame.com/news/202405/3894207.html)
 
++ [《Rock Paper Death》PC版发布 猜拳恐怖探索](https://www.3dmgame.com/news/202405/3894216.html)
+
++ [樱井政博谈游戏难度设计：应该把握微妙平衡](https://www.3dmgame.com/news/202405/3894215.html)
+
++ [虚幻5.4引擎技术DEMO RTX 4080也无法4K/60FPS](https://www.3dmgame.com/news/202405/3894214.html)
+
