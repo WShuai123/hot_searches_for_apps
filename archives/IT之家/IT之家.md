@@ -45,3 +45,5 @@
 
 + [信号穿越 600 公里，未来主流蓝牙设备可连接在轨卫星](https://m.ithome.com/html/765818.htm)
 
++ [支持调用车机真实分辨率，小米 CarWith 车联应用获推 2.2.2 版更新](https://m.ithome.com/html/765828.htm)
+

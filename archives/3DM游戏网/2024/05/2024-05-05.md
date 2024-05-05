@@ -153,3 +153,11 @@
 
 + [携程发布五一数据报告：国内十大最热门旅游城市出炉](https://www.3dmgame.com/news/202405/3894229.html)
 
++ [坚持五天了 富坚义博更新 《全职猎人》405话14页之多](https://www.3dmgame.com/news/202405/3894236.html)
+
++ [《庄园领主》下一版补丁将修复动物尸体占位BUG](https://www.3dmgame.com/news/202405/3894235.html)
+
++ [《Good Job》开发商Paladin工作室倒闭 遣散45名员工](https://www.3dmgame.com/news/202405/3894234.html)
+
++ [iPhone 16全系机型最新机模曝光 标准版后摄大变](https://www.3dmgame.com/news/202405/3894233.html)
+
