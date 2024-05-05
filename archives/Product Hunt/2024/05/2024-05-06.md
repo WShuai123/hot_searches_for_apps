@@ -101,3 +101,7 @@
 
 + [Pressmaster.ai](https://www.producthunt.com/posts/pressmaster-ai)
 
++ [WIZPR RING](https://www.producthunt.com/posts/wizpr-ring)
+
++ [Y.GY](https://www.producthunt.com/posts/y-gy)
+
