@@ -47,3 +47,5 @@
 
 + [记一次奇妙的某个edu渗透测试](https://www.freebuf.com/vuls/398169.html)
 
++ [攻防演练中如何利用Hook绕过EDR的内存保护](https://www.freebuf.com/articles/system/398738.html)
+

@@ -33,3 +33,5 @@
 
 + [雷军回应“不应给年轻人太多建议”：每代人都有自己独特的想法](https://m.ithome.com/html/765824.htm)
 
++ [消息称苹果 iPhone 16 手机全系电池壳将换成不锈钢，由中国供应商提供](https://m.ithome.com/html/765847.htm)
+
