@@ -29,3 +29,5 @@
 
 + [M2 / M4 芯片加持，古尔曼称新款苹果 iPad Air / Pro 有望开启 iPad 新时代](https://m.ithome.com/html/765912.htm)
 
++ [小米汽车：将 OTA 增加制动盘主动除锈开关](https://m.ithome.com/html/765916.htm)
+

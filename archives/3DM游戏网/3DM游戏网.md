@@ -107,3 +107,9 @@
 
 + [韩媒：韩系车在华大溃败 已经不是之前认识的中国了](https://www.3dmgame.com/news/202405/3894244.html)
 
++ [Switch版《路易鬼屋2HD》曝光精彩开场动画](https://www.3dmgame.com/news/202405/3894249.html)
+
++ [开局先喝奶《真人快打1》发布祖国人游戏预告](https://www.3dmgame.com/news/202405/3894246.html)
+
++ [《光环》粉丝自制大型战役模式MOD重塑经典](https://www.3dmgame.com/news/202405/3894247.html)
+
