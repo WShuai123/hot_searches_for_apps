@@ -165,3 +165,11 @@
 
 + [《星战》剧集《星球大战：侍者》曝光正式预告](https://www.3dmgame.com/news/202405/3894238.html)
 
++ [《速度与激情11》2026年上映 明年年初开拍](https://www.3dmgame.com/news/202405/3894242.html)
+
++ [《星刃》将和《妮姬：胜利女神》联动 照片模式考虑中](https://www.3dmgame.com/news/202405/3894241.html)
+
++ [住5000元一晚的酒店 “薅走”35瓶洗发水能回本吗？](https://www.3dmgame.com/news/202405/3894240.html)
+
++ [《绝地潜兵2》目前已在177个国家和地区无法购买](https://www.3dmgame.com/news/202405/3894239.html)
+

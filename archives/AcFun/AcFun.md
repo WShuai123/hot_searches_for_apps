@@ -147,3 +147,9 @@
 
 + [【东方】Help me, ERINNNNNN!!【ビートまりお 新版MV】](http://www.acfun.cn/v/ac44467846)
 
++ [抱歉长官，目标又跟丢了！欢乐八点档-911](http://www.acfun.cn/v/ac44464272)
+
++ [小人物的“衣食住行”](http://www.acfun.cn/v/ac44380664)
+
++ [如何在庄园领主内用怀旧服收复失地](http://www.acfun.cn/v/ac44466693)
+

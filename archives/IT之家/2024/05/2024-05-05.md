@@ -57,3 +57,5 @@
 
 + [蔚来旗下乐道 L60 伪装车充电实拍，与特斯拉 Model Y 同框](https://m.ithome.com/html/765829.htm)
 
++ [消息称苹果屏下 Face ID 再次推迟，iPhone 18 Pro 才会用上](https://m.ithome.com/html/765876.htm)
+
