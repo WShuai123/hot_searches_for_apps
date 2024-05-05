@@ -41,3 +41,5 @@
 
 + [Noisy：一款功能强大的DNS和HTTPS网络流量噪声生成工具](https://www.freebuf.com/sectool/393281.html)
 
++ [RSAC 2024创新沙盒｜RAD Security 云原生异常行为检测和响应新方案](https://www.freebuf.com/articles/neopoints/399517.html)
+
