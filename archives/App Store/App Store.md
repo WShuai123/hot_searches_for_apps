@@ -211,3 +211,7 @@
 
 + [快对-作业标准答案&错题本去手写&拍照翻译](https://itunes.apple.com/cn/app/id1330927814?mt=8)
 
++ [麦当劳McDonald's - 到店取餐 麦咖啡 麦乐送](https://itunes.apple.com/cn/app/id1054598922?mt=8)
+
++ [头条搜索极速版-原今日头条极速版](https://itunes.apple.com/cn/app/id1410120498?mt=8)
+
