@@ -49,3 +49,5 @@
 
 + [攻防演练中如何利用Hook绕过EDR的内存保护](https://www.freebuf.com/articles/system/398738.html)
 
++ [如何使用StegCracker发现恶意文件中的隐藏数据](https://www.freebuf.com/articles/database/393766.html)
+

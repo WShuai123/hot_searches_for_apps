@@ -35,3 +35,5 @@
 
 + [消息称苹果 iPhone 16 手机全系电池壳将换成不锈钢，由中国供应商提供](https://m.ithome.com/html/765847.htm)
 
++ [HTC U24 Pro 手机曝光：12GB 内存、骁龙 7 Gen 3 芯片、安卓 14 系统](https://m.ithome.com/html/765814.htm)
+

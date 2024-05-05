@@ -113,3 +113,11 @@
 
 + [Idea Spark](https://www.producthunt.com/posts/idea-spark-4)
 
++ [Copilot Workspace Raycast Extension](https://www.producthunt.com/posts/copilot-workspace-raycast-extension)
+
++ [AgentCrew](https://www.producthunt.com/posts/agentcrew)
+
++ [MicroAssets](https://www.producthunt.com/posts/microassets)
+
++ [Facta](https://www.producthunt.com/posts/facta)
+
