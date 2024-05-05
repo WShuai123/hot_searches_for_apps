@@ -161,3 +161,5 @@
 
 + [iPhone 16全系机型最新机模曝光 标准版后摄大变](https://www.3dmgame.com/news/202405/3894233.html)
 
++ [黄仁勋谈英伟达胜出秘诀：以独特视角观察世界 无知是一种超能力](https://www.3dmgame.com/news/202405/3894237.html)
+
