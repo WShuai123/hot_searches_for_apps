@@ -25,3 +25,7 @@
 
 + [蔚来李斌称希望中国品牌新车早日在美国销售，赴美与黄仁勋探讨 AI 发展](https://m.ithome.com/html/765893.htm)
 
++ [金华一对夫妻驾驶特斯拉冲下山路不幸身亡，家属质疑事发时间段行车记录仪数据消失](https://m.ithome.com/html/765919.htm)
+
++ [M2 / M4 芯片加持，古尔曼称新款苹果 iPad Air / Pro 有望开启 iPad 新时代](https://m.ithome.com/html/765912.htm)
+

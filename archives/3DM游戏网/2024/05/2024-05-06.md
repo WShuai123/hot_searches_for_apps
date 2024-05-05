@@ -101,3 +101,9 @@
 
 + [如同千万大军攻打匈奴 五一假期连沙漠里都堵人了](https://www.3dmgame.com/news/202405/3894193.html)
 
++ [外媒评选期待已久的15款游戏 《老滚6》在哪？](https://www.3dmgame.com/news/202405/3894245.html)
+
++ [一代神作！《植物大战僵尸》发售15周年](https://www.3dmgame.com/news/202405/3894243.html)
+
++ [韩媒：韩系车在华大溃败 已经不是之前认识的中国了](https://www.3dmgame.com/news/202405/3894244.html)
+

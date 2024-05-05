@@ -49,3 +49,21 @@
 
 + [Lock Cards](https://dribbble.com/shots/)
 
++ [Vanstock Poster Design](https://dribbble.com/shots/)
+
++ [St. John the Beloved Master Logo](https://dribbble.com/shots/)
+
++ [Sour Ale](https://dribbble.com/shots/)
+
++ [Sketchbook Dump 2](https://dribbble.com/shots/)
+
++ [American Burger](https://dribbble.com/shots/)
+
++ [SUBCLUB LA – Visual Identity](https://dribbble.com/shots/)
+
++ [Knicks!](https://dribbble.com/shots/)
+
++ [Poodle Society](https://dribbble.com/shots/)
+
++ [Dulwich Bakery Ingredients Illustration](https://dribbble.com/shots/)
+
