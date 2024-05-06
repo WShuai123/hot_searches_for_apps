@@ -101,3 +101,5 @@
 
 + [Pressmaster.ai](https://www.producthunt.com/posts/pressmaster-ai)
 
++ [Playbook x GPT](https://www.producthunt.com/posts/playbook-x-gpt)
+
