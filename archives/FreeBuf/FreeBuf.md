@@ -45,3 +45,5 @@
 
 + [RSAC 2024创新沙盒｜VULNCHECK：漏洞优先级挑战的解决方案](https://www.freebuf.com/articles/neopoints/399775.html)
 
++ [渗透测试 | HTTP请求走私](https://www.freebuf.com/articles/web/399056.html)
+

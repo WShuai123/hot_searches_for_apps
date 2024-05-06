@@ -35,3 +35,7 @@
 
 + [吉利银河 E5 官宣明日亮相，品牌首款纯电紧凑 SUV 车型](https://m.ithome.com/html/765902.htm)
 
++ [华为智选车鸿蒙智行 5 月 1 日-5 日全系车型大定突破 11000 台](https://m.ithome.com/html/765918.htm)
+
++ [喜欢噪音大的车？研究称或与施虐和精神变态倾向有关](https://m.ithome.com/html/765905.htm)
+
