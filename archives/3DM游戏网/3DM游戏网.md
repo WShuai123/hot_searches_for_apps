@@ -213,3 +213,5 @@
 
 + [《DOTA2》屠夫成路人最受欢迎英雄 使用场次超过10亿](https://www.3dmgame.com/news/202405/3894298.html)
 
++ [《绝地潜兵2》玩家跑到《三国杀》求助 希望诚信互刷](https://www.3dmgame.com/news/202405/3894299.html)
+

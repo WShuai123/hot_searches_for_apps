@@ -55,3 +55,9 @@
 
 + [阿维塔 15“官方谍照”放出：首发增程、SUV 车型、车顶行李架](https://m.ithome.com/html/765972.htm)
 
++ [雷军称逛了 2024 北京车展感觉“绝望”，车企做产品“全靠蒙”“同质化”](https://m.ithome.com/html/766045.htm)
+
++ [“淘宝免单 Bug”登上微博热搜，消息称今日中午多人收到“51 元红包短信”](https://m.ithome.com/html/766006.htm)
+
++ [魅族 20 Classic 手机闪存规格由 UFS 4.0 调整为 UFS 3.1](https://m.ithome.com/html/765949.htm)
+
