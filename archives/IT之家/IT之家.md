@@ -43,3 +43,5 @@
 
 + [vivo X100s / X100 Ultra 手机官方渲染图曝光：提供黑、钛、白等配色](https://m.ithome.com/html/765955.htm)
 
++ [消息称小米 15 Pro 手机采用 2K 新基材全等深微曲屏，50Mp 超大底三摄方案](https://m.ithome.com/html/765947.htm)
+

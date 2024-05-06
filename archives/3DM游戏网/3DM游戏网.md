@@ -157,3 +157,9 @@
 
 + [特斯拉人形机器人再获升级 走路速度提升超30%](https://www.3dmgame.com/news/202405/3894266.html)
 
++ [《猫咪警探》Steam免费发布 神秘事件解谜冒险](https://www.3dmgame.com/news/202405/3894273.html)
+
++ [刷差评有奇效 索尼宣布放弃强制《绝地潜兵2》绑定PSN账号的更新](https://www.3dmgame.com/news/202405/3894272.html)
+
++ [谷歌面临史上最大威胁 曝OpenAI将发布搜索引擎](https://www.3dmgame.com/news/202405/3894271.html)
+
