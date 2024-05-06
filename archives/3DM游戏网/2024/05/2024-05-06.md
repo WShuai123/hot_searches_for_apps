@@ -113,3 +113,9 @@
 
 + [《光环》粉丝自制大型战役模式MOD重塑经典](https://www.3dmgame.com/news/202405/3894247.html)
 
++ [黄金树之影仍然是多结局 但没有本体游戏那么多](https://www.3dmgame.com/news/202405/3894251.html)
+
++ [游戏爱好者用虚幻5引擎开发印尼版本《师父》](https://www.3dmgame.com/news/202405/3894250.html)
+
++ [消息称动视暴雪旗下工作室曾开发大金刚新作](https://www.3dmgame.com/news/202405/3894248.html)
+

@@ -41,3 +41,7 @@
 
 + [DataTrove：一款针对大规模文本数据的处理、过滤和消除重复数据工具](https://www.freebuf.com/sectool/393762.html)
 
++ [FreeBuf早报 | 英国禁止物联网设备默认使用弱密码；谷歌重拳打击恶意软件](https://www.freebuf.com/news/399869.html)
+
++ [RSAC 2024创新沙盒｜VULNCHECK：漏洞优先级挑战的解决方案](https://www.freebuf.com/articles/neopoints/399775.html)
+

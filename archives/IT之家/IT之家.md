@@ -31,3 +31,7 @@
 
 + [小米汽车：将 OTA 增加制动盘主动除锈开关](https://m.ithome.com/html/765916.htm)
 
++ [赛力斯集团董事长张兴海现身成都 AITO 问界用户中心，向用户交车](https://m.ithome.com/html/765911.htm)
+
++ [吉利银河 E5 官宣明日亮相，品牌首款纯电紧凑 SUV 车型](https://m.ithome.com/html/765902.htm)
+
