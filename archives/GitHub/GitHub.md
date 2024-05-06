@@ -51,3 +51,27 @@
 
 + [tokio-rs / axum](https://github.com/tokio-rs/axum)
 
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [dev-xo / remix-saas](https://github.com/dev-xo/remix-saas)
+
++ [abi / secret-llama](https://github.com/abi/secret-llama)
+
++ [bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
++ [lencx / ChatGPT](https://github.com/lencx/ChatGPT)
+
++ [dockur / windows](https://github.com/dockur/windows)
+
++ [novuhq / novu](https://github.com/novuhq/novu)
+
++ [VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
+
++ [plandex-ai / plandex](https://github.com/plandex-ai/plandex)
+
++ [pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue)
+
++ [suyu-emu / suyu](https://github.com/suyu-emu/suyu)
+

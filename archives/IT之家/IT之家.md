@@ -49,3 +49,7 @@
 
 + [AITO 问界汽车发布山西交通事故涉事车辆相关技术问题说明](https://m.ithome.com/html/766038.htm)
 
++ [雷军：逛了 2024 北京车展感觉很绝望，车企做产品“全靠蒙”“同质化”](https://m.ithome.com/html/766045.htm)
+
++ [消息称阿里重启淘宝网页版，618 取消预售](https://m.ithome.com/html/766065.htm)
+

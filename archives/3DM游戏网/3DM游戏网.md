@@ -199,3 +199,13 @@
 
 + [《庆余年》第二季新海报公布 即将于本月开播](https://www.3dmgame.com/news/202405/3894287.html)
 
++ [今年只有RTX 5090一根独苗！我们肯定买不到](https://www.3dmgame.com/news/202405/3894295.html)
+
++ [周鸿祎自称还算是年轻人 花了5个月时间学做网红](https://www.3dmgame.com/news/202405/3894296.html)
+
++ [《CYBORG-PROTOTYPE》Steam上线 3D肉鸽战斗](https://www.3dmgame.com/news/202405/3894292.html)
+
++ [英特尔去年获爱尔兰3000万欧补贴 抵消电价上涨](https://www.3dmgame.com/news/202405/3894293.html)
+
++ [二次元美少女策略冒险游戏《转生为领主开始冒险吧》正式定档5月10日](https://www.3dmgame.com/news/202405/3894294.html)
+
