@@ -111,3 +111,5 @@
 
 + [《GTA：圣安地列斯》RTX Remix路追Mod截图展示](https://www.3dmgame.com/news/202405/3894309.html)
 
++ [动视旗下工作室曾一度开发3D《大金刚》游戏](https://www.3dmgame.com/news/202405/3894310.html)
+
