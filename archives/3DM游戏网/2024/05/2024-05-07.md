@@ -105,3 +105,9 @@
 
 + [《堕落之主》、《狙击手：幽灵战士2》将加入XGP 或于5月下旬](https://www.3dmgame.com/news/202405/3894305.html)
 
++ [经典肉鸽IP《黑帝斯2》现已推出抢先体验版](https://www.3dmgame.com/news/202405/3894307.html)
+
++ [《荒野枪巫》即将更新 增加四人合作模式](https://www.3dmgame.com/news/202405/3894308.html)
+
++ [《GTA：圣安地列斯》RTX Remix路追Mod截图展示](https://www.3dmgame.com/news/202405/3894309.html)
+
