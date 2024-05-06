@@ -53,3 +53,5 @@
 
 + [消息称阿里重启淘宝网页版，618 取消预售](https://m.ithome.com/html/766065.htm)
 
++ [阿维塔 15“官方谍照”放出：首发增程、SUV 车型、车顶行李架](https://m.ithome.com/html/765972.htm)
+

@@ -101,3 +101,71 @@
 
 + [PDF中伪代码、原理示意图等导出为矢量图](https://blog.csdn.net/tugepaopaoo/article/details/138392011)
 
++ [智慧生活：AI工具如何改变我们的工作与生活](https://blog.csdn.net/a1657054242/article/details/138464690)
+
++ [数学遇上人工智能，深度学习架构迎来最强挑战者 KAN，MLP 的时代结束了？](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/138428688)
+
++ [神经网络中的算法优化（皮毛讲解）](https://blog.csdn.net/Luluucy/article/details/138476638)
+
++ [AI大模型应用与实践指南](https://blog.csdn.net/weixin_43178406/article/details/138461822)
+
++ [探索设计模式的魅力：分布式模式让业务更高效、更安全、更稳定](https://blog.csdn.net/danci_/article/details/138470055)
+
++ [游戏AI的智能化：机器学习在虚拟生命中的应用](https://blog.csdn.net/m0_68089732/article/details/138468139)
+
++ [【DevOps】Jenkins 集成Docker](https://blog.csdn.net/benshu_001/article/details/138462234)
+
++ [【FFmpeg】使用 ffmpeg 命令实现直播推拉流 ( 推流和拉流简介 | 流媒体服务器搭建 | 使用 ffmpeg 命令进行推流操作 | 使用 ffmpeg/ffplay 命令进行拉流操作 )](https://blog.csdn.net/han1202012/article/details/138271912)
+
++ [【SSM进阶学习系列丨分页篇】PageHelper 分页插件集成实践](https://blog.csdn.net/m0_63947499/article/details/137752449)
+
++ [matlab例题大全](https://blog.csdn.net/L1834056458/article/details/137838925)
+
++ [【MyBatis】深入解析MyBatis：高效操作数据库技术详解](https://blog.csdn.net/smile_sundays/article/details/138353364)
+
++ [机器学习-K近邻算法(KNN)](https://blog.csdn.net/knoci/article/details/138475094)
+
++ [CNN实现卫星图像分类(tensorflow)](https://blog.csdn.net/weixin_40566713/article/details/138476014)
+
++ [web攻击](https://blog.csdn.net/daima3/article/details/138474050)
+
++ [Agent AI智能体的未来](https://blog.csdn.net/u014727709/article/details/138481102)
+
++ [[MATLAB]直线旋转体的绘制——突破寻常思维的另类绘图方法](https://blog.csdn.net/Zachary_zzz/article/details/138468769)
+
++ [45. UE5 RPG 增加角色受击反馈](https://blog.csdn.net/qq_30100043/article/details/138472005)
+
++ [基于FPGA的数字信号处理（9）--定点数据的两种溢出处理模式：饱和（Saturate）和绕回（Wrap）](https://blog.csdn.net/wuzhikaidetb/article/details/138487746)
+
++ [【Linux系统编程】第十三弹---项目自动化构建工具-make/Makefile](https://blog.csdn.net/2201_75584283/article/details/137250739)
+
++ [nginx--反向代理](https://blog.csdn.net/m0_65342309/article/details/138474104)
+
++ [基于docker-compose与dockerfile的ruoyi框架搭建](https://blog.csdn.net/TT_4419/article/details/138449531)
+
++ [Elasticsearch：如何使用 Java 对索引进行 ES|QL 的查询](https://blog.csdn.net/UbuntuTouch/article/details/138459357)
+
++ [深入探索图数据技术的应用与实践](https://blog.csdn.net/qq_44273429/article/details/138491647)
+
++ [微信小程序进阶之路：项目管理与分包加载实战指南](https://blog.csdn.net/black_cat7/article/details/138463761)
+
++ [ollama+open-webui，本地部署自己的大模型](https://blog.csdn.net/spiderwower/article/details/138463635)
+
++ [如何处理微服务之间的通信和数据一致性？](https://blog.csdn.net/2201_75809246/article/details/138453842)
+
++ [flink sql 优化](https://blog.csdn.net/qq_27627985/article/details/138467198)
+
++ [新版yolov5项目报错 ImportError: cannot import name ‘xx‘ from ‘xx‘](https://blog.csdn.net/m0_52440127/article/details/138467804)
+
++ [libcity 笔记：基本使用方法](https://blog.csdn.net/qq_40206371/article/details/138452471)
+
++ [FIFO Generate IP核使用——AXI接口信号详解](https://blog.csdn.net/u011565038/article/details/138397996)
+
++ [为什么说虚拟化技术是现代网络安全的重要组成部分？](https://blog.csdn.net/dexunjiaqiang/article/details/138476260)
+
++ [【Delphi 爬虫库 3】使用封装好的 HTML 解析库对 HTML 数据进行解析](https://blog.csdn.net/gust2013/article/details/137799688)
+
++ [基于TL431的线性可调恒压恒流电源的Multisim电路仿真设计](https://blog.csdn.net/wqsdqw/article/details/138476297)
+
++ [Moveit + Gazebo实现联合仿真：ABB yumi双臂机器人（ 二、双臂协同运动实现 ）](https://blog.csdn.net/2201_75624690/article/details/138362267)
+

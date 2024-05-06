@@ -209,3 +209,5 @@
 
 + [二次元美少女策略冒险游戏《转生为领主开始冒险吧》正式定档5月10日](https://www.3dmgame.com/news/202405/3894294.html)
 
++ [2024年4月Steam硬件调查报告 RTX 3060继续霸榜](https://www.3dmgame.com/news/202405/3894297.html)
+
