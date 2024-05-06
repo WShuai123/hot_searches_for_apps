@@ -215,3 +215,9 @@
 
 + [《绝地潜兵2》玩家跑到《三国杀》求助 希望诚信互刷](https://www.3dmgame.com/news/202405/3894299.html)
 
++ [父亲没钱给女儿买苹果手机自责跪地上热搜](https://www.3dmgame.com/news/202405/3894302.html)
+
++ [麦当娜在巴西海滩举办免费演唱会 超160万人参加](https://www.3dmgame.com/news/202405/3894300.html)
+
++ [天猫618取消官方预售 将在5月20日直接开卖](https://www.3dmgame.com/news/202405/3894301.html)
+
