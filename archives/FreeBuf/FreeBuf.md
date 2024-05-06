@@ -47,3 +47,9 @@
 
 + [渗透测试 | HTTP请求走私](https://www.freebuf.com/articles/web/399056.html)
 
++ [CTF实战分享 | RWZIP](https://www.freebuf.com/articles/web/398960.html)
+
++ [3.5倍！组织修补CISA KEV列表中的漏洞比其他漏洞要快](https://www.freebuf.com/news/399968.html)
+
++ [威胁预警！黑客正在滥用微软 Graph API 与C&C“隐蔽通信”](https://www.freebuf.com/news/399970.html)
+

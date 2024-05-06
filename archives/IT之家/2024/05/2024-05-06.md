@@ -41,3 +41,5 @@
 
 + [小米双出风立式空调 3 匹预售：1710 m³/h 风量，首发价 5799 元](https://m.ithome.com/html/765854.htm)
 
++ [vivo X100s / X100 Ultra 手机官方渲染图曝光：提供黑、钛、白等配色](https://m.ithome.com/html/765955.htm)
+
