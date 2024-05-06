@@ -183,3 +183,9 @@
 
 + [《物语系列：愚物语&抚物语》全新PV公布 7月6日起播出](https://www.3dmgame.com/news/202405/3894275.html)
 
++ [《指环王》“希优顿王”演员伯纳德去世 享年79岁](https://www.3dmgame.com/news/202405/3894284.html)
+
++ [玩家晒6年前丢失Switch失而复得引热议 网友惊叹那么久远](https://www.3dmgame.com/news/202405/3894285.html)
+
++ [《特技狂人》北美票房首周疲弱 5月17日国内上映](https://www.3dmgame.com/news/202405/3894286.html)
+

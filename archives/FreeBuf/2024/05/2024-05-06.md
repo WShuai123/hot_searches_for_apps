@@ -61,3 +61,5 @@
 
 + [安卓应用程序爆出漏洞，小米、WPS Office 等受到影响](https://www.freebuf.com/news/400004.html)
 
++ [微软披露严重安全漏洞，受影响App安装量超40亿](https://www.freebuf.com/news/400004.html)
+
