@@ -165,3 +165,21 @@
 
 + [中国第三代自主超导量子计算机 “本源悟空”成功实现四算合一](https://www.3dmgame.com/news/202405/3894274.html)
 
++ [苹果在中国已成Others！iPhone出货量跌出前五](https://www.3dmgame.com/news/202405/3894283.html)
+
++ [《守望先锋》国服开启测试招募报名 坐等今夏回归](https://www.3dmgame.com/news/202405/3894282.html)
+
++ [《如龙》桐生声优被警察盘问：你有犯罪前科吗？](https://www.3dmgame.com/news/202405/3894281.html)
+
++ [《Byte Survivor》Steam页面上线 肉鸽吸幸类型射击](https://www.3dmgame.com/news/202405/3894280.html)
+
++ [《绝命毒师》反派“炸鸡叔”演员加盟漫威宇宙 并非饰演X教授](https://www.3dmgame.com/news/202405/3894279.html)
+
++ [《星砂岛物语》Steam页面上线 2025年正式发售](https://www.3dmgame.com/news/202405/3894278.html)
+
++ [5月15日 steam发售《美女，应接不暇》：情感交互与AI完美结合](https://www.3dmgame.com/news/202405/3894277.html)
+
++ [KK官方对战平台新图推荐，道派修行突破界限，花样养成做《满级大佬》！](https://www.3dmgame.com/news/202405/3894276.html)
+
++ [《物语系列：愚物语&抚物语》全新PV公布 7月6日起播出](https://www.3dmgame.com/news/202405/3894275.html)
+

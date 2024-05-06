@@ -55,3 +55,9 @@
 
 + [如何使用resource-counter统计跨Amazon区域的不同类型资源数量](https://www.freebuf.com/sectool/393799.html)
 
++ [RSAC 2024 今日开幕 | 全球640家顶级安全厂商齐聚，亮点产品抢先看！](https://www.freebuf.com/news/400013.html)
+
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [安卓应用程序爆出漏洞，小米、WPS Office 等受到影响](https://www.freebuf.com/news/400004.html)
+

@@ -111,3 +111,15 @@
 
 + [Eraser AI](https://www.producthunt.com/posts/eraser-ai)
 
++ [Touch AI](https://www.producthunt.com/posts/touch-ai)
+
++ [Branding Archtypes Generator](https://www.producthunt.com/posts/branding-archtypes-generator)
+
++ [Timeframe](https://www.producthunt.com/posts/timeframe-2)
+
++ [BreadCrumbs](https://www.producthunt.com/posts/breadcrumbs-3)
+
++ [Hexn.io](https://www.producthunt.com/posts/hexn-io)
+
++ [Snaplet Seed](https://www.producthunt.com/posts/snaplet-seed)
+
