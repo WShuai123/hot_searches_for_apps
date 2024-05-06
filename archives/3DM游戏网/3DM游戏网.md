@@ -211,3 +211,5 @@
 
 + [2024年4月Steam硬件调查报告 RTX 3060继续霸榜](https://www.3dmgame.com/news/202405/3894297.html)
 
++ [《DOTA2》屠夫成路人最受欢迎英雄 使用场次超过10亿](https://www.3dmgame.com/news/202405/3894298.html)
+
