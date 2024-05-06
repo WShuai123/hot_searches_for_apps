@@ -189,3 +189,13 @@
 
 + [《特技狂人》北美票房首周疲弱 5月17日国内上映](https://www.3dmgame.com/news/202405/3894286.html)
 
++ [库克很自信：苹果AI将超越竞争对手 引领行业标准](https://www.3dmgame.com/news/202405/3894291.html)
+
++ [广电总局新举措 开通治理电视套娃收费和操作复杂投诉渠道](https://www.3dmgame.com/news/202405/3894290.html)
+
++ [比亚迪汽车保险要来了！比亚迪财险获批使用交强险条款和基础保险费率](https://www.3dmgame.com/news/202405/3894289.html)
+
++ [传记片《迈克尔》新片场照 还原胜利巡演发布会](https://www.3dmgame.com/news/202405/3894288.html)
+
++ [《庆余年》第二季新海报公布 即将于本月开播](https://www.3dmgame.com/news/202405/3894287.html)
+

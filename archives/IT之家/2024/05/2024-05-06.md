@@ -47,3 +47,5 @@
 
 + [消息称苹果将推 iPhone 17 Slim 取代 Plus 产品线、Pro Max 机型灵动岛更小](https://m.ithome.com/html/765950.htm)
 
++ [AITO 问界汽车发布山西交通事故涉事车辆相关技术问题说明](https://m.ithome.com/html/766038.htm)
+
