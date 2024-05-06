@@ -163,3 +163,5 @@
 
 + [谷歌面临史上最大威胁 曝OpenAI将发布搜索引擎](https://www.3dmgame.com/news/202405/3894271.html)
 
++ [中国第三代自主超导量子计算机 “本源悟空”成功实现四算合一](https://www.3dmgame.com/news/202405/3894274.html)
+

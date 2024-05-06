@@ -53,3 +53,5 @@
 
 + [威胁预警！黑客正在滥用微软 Graph API 与C&C“隐蔽通信”](https://www.freebuf.com/news/399970.html)
 
++ [如何使用resource-counter统计跨Amazon区域的不同类型资源数量](https://www.freebuf.com/sectool/393799.html)
+

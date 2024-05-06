@@ -45,3 +45,5 @@
 
 + [消息称小米 15 Pro 手机采用 2K 新基材全等深微曲屏，50Mp 超大底三摄方案](https://m.ithome.com/html/765947.htm)
 
++ [消息称苹果将推 iPhone 17 Slim 取代 Plus 产品线、Pro Max 机型灵动岛更小](https://m.ithome.com/html/765950.htm)
+

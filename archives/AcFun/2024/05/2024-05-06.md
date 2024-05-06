@@ -95,3 +95,7 @@
 
 + [Help me, ERINNNNNN!! / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO](http://www.acfun.cn/v/ac44467923)
 
++ [1307期：家长注意，停车场看娃，一刻都不能松懈](http://www.acfun.cn/v/ac44467140)
+
++ [无意间救下两只小喜鹊，养了半个月，发现它们真的很憨](http://www.acfun.cn/v/ac44466811)
+

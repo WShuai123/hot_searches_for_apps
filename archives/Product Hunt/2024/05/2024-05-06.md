@@ -105,3 +105,9 @@
 
 + [Y.GY](https://www.producthunt.com/posts/y-gy)
 
++ [Amazon Q Developer](https://www.producthunt.com/posts/amazon-q-developer)
+
++ [Logome](https://www.producthunt.com/posts/logome)
+
++ [Eraser AI](https://www.producthunt.com/posts/eraser-ai)
+
