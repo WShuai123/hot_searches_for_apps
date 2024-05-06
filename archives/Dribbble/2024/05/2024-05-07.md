@@ -71,3 +71,15 @@
 
 + [Dulwich Bakery Ingredients Illustration](https://dribbble.com/shots/)
 
++ [3D Illustration - Stock Portfolio](https://dribbble.com/shots/)
+
++ [HHC Living Monogram Logo](https://dribbble.com/shots/)
+
++ [Animal Kingdom (Personal Illustration Series)](https://dribbble.com/shots/)
+
++ [Musical Buddies](https://dribbble.com/shots/)
+
++ [Below the water ????](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+

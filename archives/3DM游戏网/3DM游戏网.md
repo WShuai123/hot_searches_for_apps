@@ -101,3 +101,7 @@
 
 + [传华硕公布掌机ROG Ally 2024 小幅度升级](https://www.3dmgame.com/news/202405/3894253.html)
 
++ [《仙剑客栈2》7月登陆主机 PS5版预购5月开启](https://www.3dmgame.com/news/202405/3894306.html)
+
++ [《堕落之主》、《狙击手：幽灵战士2》将加入XGP 或于5月下旬](https://www.3dmgame.com/news/202405/3894305.html)
+
