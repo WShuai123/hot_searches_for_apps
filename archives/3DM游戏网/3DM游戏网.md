@@ -127,3 +127,23 @@
 
 + [《家园3》首发不支持DLSS 3 支持FSR 2和DLSS 2](https://www.3dmgame.com/news/202405/3894252.html)
 
++ [RTS游戏《星际金属十字军》现已上架Steam平台 2024年第三季度推出](https://www.3dmgame.com/news/202405/3894265.html)
+
++ [手绘风横版平台跳跃游戏《变色龙童绘历险》 5月30日发行](https://www.3dmgame.com/news/202405/3894264.html)
+
++ [《When You See It》Steam上线 寻找异常恐怖探索](https://www.3dmgame.com/news/202405/3894263.html)
+
++ [类吸血鬼幸存者游戏《无畏勇者》因内购内容造大量差评](https://www.3dmgame.com/news/202405/3894262.html)
+
++ [《大都会》首支预告公布 5月17日戛纳电影节首映](https://www.3dmgame.com/news/202405/3894261.html)
+
++ [箭头CEO在《绝地潜兵2》发售之前6个月就已知晓将强制绑定PSN账号](https://www.3dmgame.com/news/202405/3894260.html)
+
++ [《功德木鱼》Steam上线 哲理系精神恢复模拟器](https://www.3dmgame.com/news/202405/3894259.html)
+
++ [《战锤40K：星际战士2》艺术集泄露 PVP模式确定](https://www.3dmgame.com/news/202405/3894257.html)
+
++ [Switch《龙最强王图鉴》新情报 7月4日发售](https://www.3dmgame.com/news/202405/3894258.html)
+
++ [日本大阪动漫展 小岛秀夫和弩哥、拔叔同登台](https://www.3dmgame.com/news/202405/3894256.html)
+
