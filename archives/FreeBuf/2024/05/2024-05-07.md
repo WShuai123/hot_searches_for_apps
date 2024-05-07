@@ -41,3 +41,7 @@
 
 + [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
 
++ [FreeBuf早报 | 微软推出零信任DNS；阿联酋遭遇史上最大规模的网络攻击](https://www.freebuf.com/news/399995.html)
+
++ [AI伦理和安全风险管理终极指南](https://www.freebuf.com/articles/paper/400036.html)
+

@@ -25,3 +25,5 @@
 
 + [“伊朗首款智能手机”Daria Bond 发布：天玑 7050 + 8GB RAM + 256GB 存储空间](https://m.ithome.com/html/765924.htm)
 
++ [苹果 iPad 发布会新品提前曝光：官网代码出现“Apple Pencil Pro”字样](https://m.ithome.com/html/766143.htm)
+

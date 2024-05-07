@@ -101,3 +101,55 @@
 
 + [Moveit + Gazebo实现联合仿真：ABB yumi双臂机器人（ 二、双臂协同运动实现 ）](https://blog.csdn.net/2201_75624690/article/details/138362267)
 
++ [Spring Boot与OpenCV：融合机器学习的智能图像与视频处理平台](https://blog.csdn.net/g310773517/article/details/138450084)
+
++ [OceanBase 轻量级数仓关键技术解读](https://blog.csdn.net/qq_26664043/article/details/138464245)
+
++ [深度解析 Spring 源码：探寻Bean的生命周期](https://blog.csdn.net/qq_51601665/article/details/138441702)
+
++ [都上3D数字孪生了，2D的WEB组态和大屏可视化未来的发展在哪里？趋势是基于页面嵌套、蓝图连线等新技术，与功能业务应用融合](https://blog.csdn.net/IOTOS/article/details/138449731)
+
++ [docker原理](https://blog.csdn.net/lisus2007/article/details/138435420)
+
++ [深度主动学习（Deep Active Learning）——基于pytorch和ALipy工具包实现双向GRU模型](https://blog.csdn.net/weixin_45978839/article/details/138500689)
+
++ [HTML5实现酷炫个人产品推广、工具推广、信息推广、个人主页、个人介绍、酷炫官网、门户网站模板源码](https://blog.csdn.net/weixin_43151418/article/details/138462610)
+
++ [【计算机网络】第二章——物理层](https://blog.csdn.net/m0_74352571/article/details/138470317)
+
++ [张大哥笔记：卖盗版网课，获利 100 万被抓](https://blog.csdn.net/qq1369153265/article/details/138490118)
+
++ [Leaflet在WGS84 Web墨卡托投影与WGS84经纬度投影下空间信息变形问题及修正-以圆为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/138434150)
+
++ [（12）配置Notch滤波器（一）](https://blog.csdn.net/qq_20016593/article/details/138310485)
+
++ [超级好用的C++实用库之动态库加载器](https://blog.csdn.net/hope_wisdom/article/details/138481764)
+
++ [linux网路相关2](https://blog.csdn.net/qq_29788741/article/details/138486358)
+
++ [【统计推断】-01 抽样原理之（六）：三个示例](https://blog.csdn.net/gongdiwudu/article/details/138395306)
+
++ [5月4（信息差）](https://blog.csdn.net/eqwaak0/article/details/138450990)
+
++ [Spring 原理](https://blog.csdn.net/m0_65465009/article/details/138465152)
+
++ [LLM2Vec介绍和将Llama 3转换为嵌入模型代码示例](https://blog.csdn.net/m0_46510245/article/details/138463515)
+
++ [Redis（Jedis和SpringBoot整合Redis）](https://blog.csdn.net/m0_64637029/article/details/138475024)
+
++ [LLMAgentOS的分布式部署:扩展性与高可用性](https://blog.csdn.net/universsky2015/article/details/138479100)
+
++ [银行ETL-监管报送](https://blog.csdn.net/qq_16570607/article/details/138442637)
+
++ [libcity 笔记：支持的模型](https://blog.csdn.net/qq_40206371/article/details/138455015)
+
++ [【论文阅读】Sparse is Enough in Scaling Transformers](https://blog.csdn.net/qq_42957563/article/details/138446841)
+
++ [TCP可靠传输：](https://blog.csdn.net/wu137789/article/details/138476938)
+
++ [.OpenNJet应用引擎实践——从 0-1 体验感受](https://blog.csdn.net/m0_58847451/article/details/138493878)
+
++ [Educoder动态路由RIP与OSPF配置](https://blog.csdn.net/G_030620/article/details/138474948)
+
++ [鸿蒙UI复用](https://blog.csdn.net/lvsonghai/article/details/138463596)
+
