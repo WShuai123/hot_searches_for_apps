@@ -67,3 +67,5 @@
 
 + [4K【東方 3D】Eternal Night - part 2【魂魄妖梦 VS 十六夜咲夜】](http://www.acfun.cn/v/ac44480802)
 
++ [称霸秋名！极速的AE86《头文字D第五期》](http://www.acfun.cn/v/ac44478713)
+
