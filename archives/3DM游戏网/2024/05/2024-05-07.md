@@ -255,3 +255,5 @@
 
 + [科乐美公布《舞蹈革命机：世界》新一代街机版 经典娱乐神器](https://www.3dmgame.com/news/202405/3894378.html)
 
++ [苹果或为iPhone 17 Pro系列配备12GB内存 以提升多任务、游戏和AI性能](https://www.3dmgame.com/news/202405/3894382.html)
+

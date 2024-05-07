@@ -205,3 +205,29 @@
 
 + [OpenNJet评测，探寻云原生之美](https://blog.csdn.net/qq_21484461/article/details/138508847)
 
++ [华为ensp中USG6000V防火墙双机热备VRRP+HRP原理及配置](https://blog.csdn.net/jxjdhdnd/article/details/138497953)
+
++ [数据挖掘实战-基于深度学习RNN+CNN的能源价格预测模型](https://blog.csdn.net/m0_64336780/article/details/135950818)
+
++ [【信息安全】密码学](https://blog.csdn.net/David_Hzy/article/details/137497511)
+
++ [当AI遇见现实：数智化时代的人类社会新图景](https://blog.csdn.net/qq_32682301/article/details/138531366)
+
++ [【前端】HTML实现个人简历信息展示页面](https://blog.csdn.net/2303_80341387/article/details/138504141)
+
++ [Linux —— 信号（2）](https://blog.csdn.net/qq_67693066/article/details/138491941)
+
++ [商超物联网~配置学生健康与安全](https://blog.csdn.net/weixin_59383576/article/details/138521040)
+
++ [《亲密关系》阅读笔记](https://blog.csdn.net/m0_62780794/article/details/138507350)
+
++ [IP路由：构建高效网络的基石](https://blog.csdn.net/JAZJD/article/details/138427212)
+
++ [密码学《图解密码技术》 记录学习 第十四章](https://blog.csdn.net/weixin_67944207/article/details/138497054)
+
++ [计算机网络【应用层】邮件和DNS](https://blog.csdn.net/LeonNo11/article/details/138512102)
+
++ [【软件工程】测试](https://blog.csdn.net/qq_72680384/article/details/138474590)
+
++ [无人机+数据链：无线通信技术原理概述](https://blog.csdn.net/dong2010hong/article/details/138482694)
+
