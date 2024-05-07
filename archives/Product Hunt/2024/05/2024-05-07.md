@@ -127,3 +127,5 @@
 
 + [QAing](https://www.producthunt.com/posts/qaing)
 
++ [Fundraising Field Guide v3](https://www.producthunt.com/posts/fundraising-field-guide-v3)
+

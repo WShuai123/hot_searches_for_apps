@@ -233,3 +233,13 @@
 
 + [《星刃》女主早期概念设计图 伊芙长相非常甜美](https://www.3dmgame.com/news/202405/3894362.html)
 
++ [Remedy取消多人游戏项目“Kestrel” 与腾讯合作](https://www.3dmgame.com/news/202405/3894375.html)
+
++ [影核引领VR社交推理游戏新潮流，首款派对狼人杀游戏《驼崽派对》欢乐上线！](https://www.3dmgame.com/news/202405/3894371.html)
+
++ [等等党这次输了 智能电视均价暴涨500元](https://www.3dmgame.com/news/202405/3894374.html)
+
++ [Steam最新一周销量榜 《灰区战争》成功登顶](https://www.3dmgame.com/news/202405/3894373.html)
+
++ [曝苹果与某造车新势力接触 或重拾造车之路](https://www.3dmgame.com/news/202405/3894372.html)
+

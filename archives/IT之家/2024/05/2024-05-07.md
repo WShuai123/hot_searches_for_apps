@@ -45,3 +45,9 @@
 
 + [苹果仍傲视群雄，iPhone 15 Pro Max 坐上 24Q1 全球最畅销手机宝座](https://m.ithome.com/html/766145.htm)
 
++ [阿里巴巴杭州全球总部 5 月 10 日投入使用](https://m.ithome.com/html/766174.htm)
+
++ [广州地铁回应“车辆段被雷电击中”：出现短时跳闸，未影响正常运营](https://m.ithome.com/html/766156.htm)
+
++ [大量索尼 Xperia 1 VI 手机官方宣传图曝光：骁龙 8 Gen 3、5000mAh 电池](https://m.ithome.com/html/766115.htm)
+
