@@ -101,3 +101,9 @@
 
 + [保罗·沃尔特·豪泽加盟漫威新版《神奇四侠》电影 将饰演神秘角色](https://www.3dmgame.com/news/202405/3894338.html)
 
++ [《黑帝斯》Steam史低促销 仅售31元](https://www.3dmgame.com/news/202405/3894391.html)
+
++ [视觉小说《Celestia：命运之链》公布 登陆Steam和NS](https://www.3dmgame.com/news/202405/3894390.html)
+
++ [苹果全新iPad Air 6发布：11/13英寸可选 4799元起！](https://www.3dmgame.com/news/202405/3894389.html)
+

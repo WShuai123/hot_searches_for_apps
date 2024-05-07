@@ -65,3 +65,5 @@
 
 + [【御姐音|营业】淸淸大小姐的日语小课堂](http://www.acfun.cn/v/ac44480508)
 
++ [4K【東方 3D】Eternal Night - part 2【魂魄妖梦 VS 十六夜咲夜】](http://www.acfun.cn/v/ac44480802)
+
