@@ -27,3 +27,11 @@
 
 + [苹果 iPad 发布会新品提前曝光：官网代码出现“Apple Pencil Pro”字样](https://m.ithome.com/html/766143.htm)
 
++ [法国财政部长：若比亚迪决定在法设厂，将非常欢迎](https://m.ithome.com/html/766099.htm)
+
++ [奇瑞星途星纪元 ET 从 31.9 米高空扔下：A 柱未变形，车门可正常打开](https://m.ithome.com/html/766140.htm)
+
++ [英飞凌与小米汽车达成协议，向 SU7 供应碳化硅功率模块及芯片至 2027 年](https://m.ithome.com/html/766089.htm)
+
++ [华为 nova 12 系列手机推送鸿蒙 HarmonyOS 4.2 正式版：Pro / Ultra 新增全屏 AOD 互动主题](https://m.ithome.com/html/766070.htm)
+

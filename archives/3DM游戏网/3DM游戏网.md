@@ -133,3 +133,25 @@
 
 + [《GTA6》或于2025年秋季推出 有双持和肢解功能](https://www.3dmgame.com/news/202405/3894316.html)
 
++ [GS超低价卖《魔咒之地》：9.99美元 带预购特典](https://www.3dmgame.com/news/202405/3894330.html)
+
++ [《Apex英雄》第21赛季“踏入虚空”预告 5月8日上线](https://www.3dmgame.com/news/202405/3894331.html)
+
++ [动作塔防游戏《教训：伊丽莎白狂热》现已在Steam平台推出免费序章](https://www.3dmgame.com/news/202405/3894329.html)
+
++ [恐怖游戏《HORROR TALES: The Beggar》 6月17日发售](https://www.3dmgame.com/news/202405/3894328.html)
+
++ [《暗黑地牢2》添加官方Mod支持 6月底之前上线](https://www.3dmgame.com/news/202405/3894325.html)
+
++ [《猩球崛起4：新世界》7分钟加长版片段曝光](https://www.3dmgame.com/news/202405/3894327.html)
+
++ [《Eluminage ORIGINAL》Steam上线 经典DRPG名作复归](https://www.3dmgame.com/news/202405/3894326.html)
+
++ [美国网红播客意外泄露索尼PlayStation发布会可能于下周举行](https://www.3dmgame.com/news/202405/3894324.html)
+
++ [LGD入选！沙特电竞世界杯基金会俱乐部支持计划公布](https://www.3dmgame.com/news/202405/3894323.html)
+
++ [《最终幻想7：重制版》幼年爱丽丝早期设定图 很可爱！](https://www.3dmgame.com/news/202405/3894322.html)
+
++ [《Sonar Shock》Steam页面上线 恐怖迷宫探索](https://www.3dmgame.com/news/202405/3894321.html)
+

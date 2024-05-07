@@ -45,3 +45,5 @@
 
 + [AI伦理和安全风险管理终极指南](https://www.freebuf.com/articles/paper/400036.html)
 
++ [记一次EDU运气加成的高危漏洞挖掘](https://www.freebuf.com/vuls/399938.html)
+
