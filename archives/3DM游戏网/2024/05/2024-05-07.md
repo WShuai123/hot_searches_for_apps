@@ -203,3 +203,15 @@
 
 + [《黑帝斯2》IGN打出9分高评价：不输前作的优秀续作](https://www.3dmgame.com/news/202405/3894355.html)
 
++ [足球动画《蓝色监狱》第二季将于2024年10月开播](https://www.3dmgame.com/news/202405/3894361.html)
+
++ [任天堂确定本财年内公布Switch继任者 6月举行新直面会](https://www.3dmgame.com/news/202405/3894360.html)
+
++ [《最终幻想14》服务器遭受大规模DDoS攻击 新DLC更新准备](https://www.3dmgame.com/news/202405/3894359.html)
+
++ [波音“星际客机”飞船首次载人试飞被取消 氧气安全阀出现问题](https://www.3dmgame.com/news/202405/3894358.html)
+
++ [动作肉鸽游戏《冥界契约》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3894357.html)
+
++ [种田摸鱼游戏《锈崽的退休生活》大受好评 5天售出10万份](https://www.3dmgame.com/news/202405/3894356.html)
+

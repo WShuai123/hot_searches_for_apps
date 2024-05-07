@@ -41,3 +41,5 @@
 
 + [贾跃亭将开启个人 IP 商业化，赚钱还债并补贴法拉第未来造车](https://m.ithome.com/html/766206.htm)
 
++ [联发科天玑 9300+ 旗舰处理器发布，vivo X100S、iQOO Neo9S Pro 手机搭载](https://m.ithome.com/html/766181.htm)
+
