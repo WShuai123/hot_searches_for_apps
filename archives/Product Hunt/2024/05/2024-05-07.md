@@ -133,3 +133,5 @@
 
 + [Champly](https://www.producthunt.com/posts/champly)
 
++ [The new SONOS app](https://www.producthunt.com/posts/the-new-sonos-app)
+

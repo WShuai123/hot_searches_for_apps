@@ -257,3 +257,5 @@
 
 + [苹果或为iPhone 17 Pro系列配备12GB内存 以提升多任务、游戏和AI性能](https://www.3dmgame.com/news/202405/3894382.html)
 
++ [传英伟达今年率先推出RTX 5080显卡 而非5090](https://www.3dmgame.com/news/202405/3894383.html)
+

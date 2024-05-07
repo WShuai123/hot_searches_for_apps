@@ -57,3 +57,7 @@
 
 + [小米汽车：SU7 智能泊车具备机械库位泊入能力，后续将通过 OTA 推送](https://m.ithome.com/html/766128.htm)
 
++ [法拉第未来发声明：董事会并未考虑任命贾跃亭为联席 CEO](https://m.ithome.com/html/766292.htm)
+
++ [拼多多将进军快递驿站，已获多地驿站经营许可证](https://m.ithome.com/html/766216.htm)
+
