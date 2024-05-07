@@ -167,3 +167,27 @@
 
 + [梦工厂动画将打造根据电子游戏改编的电影和剧集](https://www.3dmgame.com/news/202405/3894332.html)
 
++ [联发科发布天玑AI开发套件 终端生成式AI应用开发一站式解决方案](https://www.3dmgame.com/news/202405/3894347.html)
+
++ [《魔物学园4》Steam页面上线 经典恋爱冒险新篇](https://www.3dmgame.com/news/202405/3894348.html)
+
++ [《真女神转生5：复仇》特别节目5月10日播出 时长15分钟](https://www.3dmgame.com/news/202405/3894349.html)
+
++ [任天堂SNES原型机上架拍卖网站 出价已超一百万日元](https://www.3dmgame.com/news/202405/3894343.html)
+
++ [《美国内战》确认引进中国内地 发布先导海报](https://www.3dmgame.com/news/202405/3894344.html)
+
++ [《绝地潜兵2》开发商CEO称赞玩家社区：令人印象深刻](https://www.3dmgame.com/news/202405/3894345.html)
+
++ [英伟达黄仁勋不想退休 因为除了工作别无他求](https://www.3dmgame.com/news/202405/3894346.html)
+
++ [保罗·沃尔特·豪泽加盟漫威新版《神奇四侠》电影 将饰演神秘角色](https://www.3dmgame.com/news/202405/3894338.html)
+
++ [《星际传奇4》8月27日开拍 范·迪塞尔回归主演](https://www.3dmgame.com/news/202405/3894339.html)
+
++ [《天国：拯救2》部分游戏画面曝光 确定支持DLSS和FSR](https://www.3dmgame.com/news/202405/3894340.html)
+
++ [《海贼王》25周年官方原创纪念周边公开 泪水友情战斗主题](https://www.3dmgame.com/news/202405/3894341.html)
+
++ [《All You Need is Help》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3894342.html)
+

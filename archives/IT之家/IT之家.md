@@ -35,3 +35,5 @@
 
 + [华为 nova 12 系列手机推送鸿蒙 HarmonyOS 4.2 正式版：Pro / Ultra 新增全屏 AOD 互动主题](https://m.ithome.com/html/766070.htm)
 
++ [小米米家 8KG 滚筒洗衣机上架预约：95℃高温煮洗，首发到手 999 元](https://m.ithome.com/html/766074.htm)
+
