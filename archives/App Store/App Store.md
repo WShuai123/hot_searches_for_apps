@@ -217,3 +217,7 @@
 
 + [Lovekey键盘](https://itunes.apple.com/cn/app/id6478108100?mt=8)
 
++ [HelloTalk - 和全球语伴无门槛练外语](https://itunes.apple.com/cn/app/id557130558?mt=8)
+
++ [文心一言](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+

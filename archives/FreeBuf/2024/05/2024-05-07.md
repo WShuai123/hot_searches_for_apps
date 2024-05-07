@@ -55,3 +55,5 @@
 
 + [如何利用开源工具探测恶意（C2）服务器](https://www.freebuf.com/articles/security-management/399909.html)
 
++ [Portforge：一款功能强大的轻量级端口混淆工具](https://www.freebuf.com/sectool/394632.html)
+

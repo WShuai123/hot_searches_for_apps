@@ -39,3 +39,5 @@
 
 + [统信 UOS 桌面操作系统 V20 专业版（1070）发布，外观 / AI / 协同等迎升级](https://m.ithome.com/html/766135.htm)
 
++ [贾跃亭将开启个人 IP 商业化，赚钱还债并补贴法拉第未来造车](https://m.ithome.com/html/766206.htm)
+

@@ -103,3 +103,25 @@
 
 + [Playbook x GPT](https://www.producthunt.com/posts/playbook-x-gpt)
 
++ [Flownote](https://www.producthunt.com/posts/flownote-4)
+
++ [Regression Games](https://www.producthunt.com/posts/regression-games)
+
++ [Studio Neiro AI x Adobe Express](https://www.producthunt.com/posts/studio-neiro-ai-x-adobe-express)
+
++ [PushBeacon](https://www.producthunt.com/posts/pushbeacon)
+
++ [Guardey](https://www.producthunt.com/posts/guardey)
+
++ [Bardar](https://www.producthunt.com/posts/bardar)
+
++ [Bloombeaver](https://www.producthunt.com/posts/bloombeaver)
+
++ [Alpaca Options API](https://www.producthunt.com/posts/alpaca-options-api)
+
++ [AFFiNE AI](https://www.producthunt.com/posts/affine-ai)
+
++ [The new Sonos app](https://www.producthunt.com/posts/the-new-sonos-app)
+
++ [Storyville](https://www.producthunt.com/posts/storyville)
+

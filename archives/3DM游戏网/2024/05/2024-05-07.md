@@ -195,3 +195,11 @@
 
 + [弹幕射击动作类肉鸽游戏《蜂巢跳跃2：幸存者》即将在5月底抢先体验推出](https://www.3dmgame.com/news/202405/3894351.html)
 
++ [争议性话题 玩家发起不要移植PS游戏到PC联名投票](https://www.3dmgame.com/news/202405/3894352.html)
+
++ [《绝地潜兵2》Steam评价回暖 CEO有意制作差评披风 实物疑似已被玩家发掘](https://www.3dmgame.com/news/202405/3894353.html)
+
++ [《崩坏：星穹铁道》知更鸟角色PV——「孤独摇摆」](https://www.3dmgame.com/news/202405/3894354.html)
+
++ [《黑帝斯2》IGN打出9分高评价：不输前作的优秀续作](https://www.3dmgame.com/news/202405/3894355.html)
+
