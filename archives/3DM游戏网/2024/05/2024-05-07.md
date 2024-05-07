@@ -155,3 +155,15 @@
 
 + [《Sonar Shock》Steam页面上线 恐怖迷宫探索](https://www.3dmgame.com/news/202405/3894321.html)
 
++ [《超级马里奥兄弟大电影》是2023年最赚钱的电影 净利润超5亿美元](https://www.3dmgame.com/news/202405/3894336.html)
+
++ [《13Z》Steam页面上线 高速肉鸽3D动作新游](https://www.3dmgame.com/news/202405/3894335.html)
+
++ [苹果：禁止在Vision Pro发布带有真实枪械模型游戏](https://www.3dmgame.com/news/202405/3894337.html)
+
++ [《植物大战僵尸》疯狂戴夫竟有原型 曾头顶铁锅参加活动](https://www.3dmgame.com/news/202405/3894334.html)
+
++ [策略模拟游戏《成为统治者：大不列颠》免费序章已在Steam平台推出](https://www.3dmgame.com/news/202405/3894333.html)
+
++ [梦工厂动画将打造根据电子游戏改编的电影和剧集](https://www.3dmgame.com/news/202405/3894332.html)
+

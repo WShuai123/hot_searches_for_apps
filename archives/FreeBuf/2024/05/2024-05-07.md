@@ -47,3 +47,7 @@
 
 + [记一次EDU运气加成的高危漏洞挖掘](https://www.freebuf.com/vuls/399938.html)
 
++ [观点 | 数据分类分级，是中国网安集体编织的“皇帝新衣”](https://www.freebuf.com/news/400129.html)
+
++ [Reality Defender 夺冠，RSAC 2024 创新沙盒大赛结果出炉](https://www.freebuf.com/news/400051.html)
+
