@@ -107,3 +107,19 @@
 
 + [苹果全新iPad Air 6发布：11/13英寸可选 4799元起！](https://www.3dmgame.com/news/202405/3894389.html)
 
++ [小小大星球工作室新作更偏重游戏性而非创意工具](https://www.3dmgame.com/news/202405/3894399.html)
+
++ [国内定档7月12日《神偷奶爸4》发新预告](https://www.3dmgame.com/news/202405/3894396.html)
+
++ [《摇滚史密斯+》登陆育碧商店后还将登陆Steam](https://www.3dmgame.com/news/202405/3894398.html)
+
++ [《开拓者：正义之怒》最终DLC将于六月推出](https://www.3dmgame.com/news/202405/3894397.html)
+
++ [体育运动合集《34项世界体育大赛》6月28日登陆多平台](https://www.3dmgame.com/news/202405/3894395.html)
+
++ [经营外星医院《Galacticare》确定5月23日发售](https://www.3dmgame.com/news/202405/3894394.html)
+
++ [复古动作《火箭骑士历险记:重闪合集》6月11日发售](https://www.3dmgame.com/news/202405/3894393.html)
+
++ [任天堂社长确认新主机就是Switch后续机型](https://www.3dmgame.com/news/202405/3894392.html)
+

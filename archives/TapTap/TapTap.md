@@ -21,3 +21,5 @@
 
 + [祖宗模拟器：传承](https://www.taptap.cn/app/384185)
 
++ [代号：英雄](https://www.taptap.cn/app/383924)
+
