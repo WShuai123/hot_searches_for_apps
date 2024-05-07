@@ -53,3 +53,5 @@
 
 + [Tinyproxy 曝出严重漏洞，影响全球52000 台主机](https://www.freebuf.com/news/400126.html)
 
++ [如何利用开源工具探测恶意（C2）服务器](https://www.freebuf.com/articles/security-management/399909.html)
+
