@@ -43,3 +43,5 @@
 
 + [联发科天玑 9300+ 旗舰处理器发布，vivo X100S、iQOO Neo9S Pro 手机搭载](https://m.ithome.com/html/766181.htm)
 
++ [苹果仍傲视群雄，iPhone 15 Pro Max 坐上 24Q1 全球最畅销手机宝座](https://m.ithome.com/html/766145.htm)
+

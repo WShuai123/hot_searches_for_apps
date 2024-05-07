@@ -215,3 +215,21 @@
 
 + [种田摸鱼游戏《锈崽的退休生活》大受好评 5天售出10万份](https://www.3dmgame.com/news/202405/3894356.html)
 
++ [《黑神话：悟空》主美杨奇发推文称：游戏已进入最后阶段](https://www.3dmgame.com/news/202405/3894367.html)
+
++ [《星刃》太火爆了！在东京多家商店销售一空](https://www.3dmgame.com/news/202405/3894370.html)
+
++ [​薛之谦现场夸长得漂亮的女生，竟是《美女，应接不暇》的女主！](https://www.3dmgame.com/news/202405/3894369.html)
+
++ [任天堂新财报 销售额利润均超预期 Switch销量达1.41亿](https://www.3dmgame.com/news/202405/3894368.html)
+
++ [潮流智驾，跨界出圈！2024 ChinaJoy智能出行展区，Z 世代的购车指南！](https://www.3dmgame.com/news/202405/3894366.html)
+
++ [微软会玩！Windows 11 24H2细节曝光：对数据默认加密、影响SSD性能](https://www.3dmgame.com/news/202405/3894365.html)
+
++ [《沙加：Emerald Beyond》PS版白金奖杯玩家诞生 制作人祝贺](https://www.3dmgame.com/news/202405/3894364.html)
+
++ [Aptoide公司将在2024 ChinaJoy BTOB商务洽谈馆再续精彩！](https://www.3dmgame.com/news/202405/3894363.html)
+
++ [《星刃》女主早期概念设计图 伊芙长相非常甜美](https://www.3dmgame.com/news/202405/3894362.html)
+
