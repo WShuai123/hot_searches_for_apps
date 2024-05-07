@@ -25,3 +25,9 @@
 
 + [法拉第未来发声明：董事会并未考虑任命贾跃亭为联席 CEO](https://m.ithome.com/html/766292.htm)
 
++ [（更新：国行 2999 元起）苹果 iPad 10 平板电脑降至 349 美元起售](https://m.ithome.com/html/766373.htm)
+
++ [4799 元起，2024 款苹果 iPad Air 11/13 英寸国行价格公布](https://m.ithome.com/html/766374.htm)
+
++ [等级森严：2024 款 iPad Pro 低配搭载 9 核苹果 M4 芯片，内存砍半](https://m.ithome.com/html/766377.htm)
+
