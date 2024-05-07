@@ -259,3 +259,11 @@
 
 + [传英伟达今年率先推出RTX 5080显卡 而非5090](https://www.3dmgame.com/news/202405/3894383.html)
 
++ [《巫师3》官方MOD编辑器5月21日全面上线](https://www.3dmgame.com/news/202405/3894387.html)
+
++ [《红霞岛》《恶灵附身》等三家工作室被微软关闭](https://www.3dmgame.com/news/202405/3894386.html)
+
++ [英特尔联合14家日企推动半导体组装自动化 目标2028年实现商业化](https://www.3dmgame.com/news/202405/3894385.html)
+
++ [《生化危机》系列超一半的销量是在7代之后](https://www.3dmgame.com/news/202405/3894384.html)
+
