@@ -153,3 +153,55 @@
 
 + [鸿蒙UI复用](https://blog.csdn.net/lvsonghai/article/details/138463596)
 
++ [【数据可视化-02】Seaborn图形实战宝典](https://blog.csdn.net/qq_38614074/article/details/138251530)
+
++ [Linux环境下的事件驱动力量：探索Libevent的高性能I/O架构](https://blog.csdn.net/weixin_73951752/article/details/138509767)
+
++ [【Rust】——引用循环与内存泄漏](https://blog.csdn.net/shsjssnn/article/details/136823545)
+
++ [【MySQL数据库】详解数据库审核工具SQLE的部署及接口调用](https://blog.csdn.net/m0_63947499/article/details/138500631)
+
++ [我希望未来10年，人工智能可以帮我解决这4件小事](https://blog.csdn.net/xingyu_qie/article/details/138486211)
+
++ [车牌号识别系统：PyQT5+QT Designe+crnn/PaddleOCR+YOLO+OpenCV矫正算法。](https://blog.csdn.net/weixin_46221106/article/details/138474263)
+
++ [华为鸿蒙系统（Huawei HarmonyOS）](https://blog.csdn.net/s_sos0/article/details/138450604)
+
++ [神经网络中的归一化](https://blog.csdn.net/qq_64685283/article/details/138510461)
+
++ [Spring与AI结合-spring boot3整合AI组件](https://blog.csdn.net/qq_62262918/article/details/138514491)
+
++ [OpenNJet应用引擎——云原生时代的Web服务新选择](https://blog.csdn.net/m0_68089732/article/details/138507689)
+
++ [【第37天】SQL进阶-SQL高级技巧-MVCC（SQL 小虚竹)](https://blog.csdn.net/shi_hong_fei_hei/article/details/138049474)
+
++ [【Linux】基于 Jenkins+shell 实现更新服务所需文件 --＞两种方式：ssh/Ansible](https://blog.csdn.net/liu_chen_yang/article/details/134290644)
+
++ [访问gitee.io 报错 Gateway Timeout The gateway did not receive a timely response from the upstream serve](https://blog.csdn.net/qq_44866828/article/details/138484988)
+
++ [图像识别——玩转YOLO网络](https://blog.csdn.net/weixin_60223645/article/details/138330902)
+
++ [GaussDB数据库SQL系列-复合查询](https://blog.csdn.net/GaussDB/article/details/138482495)
+
++ [Elasticsearch：理解人工智能相似性搜索](https://blog.csdn.net/UbuntuTouch/article/details/138482163)
+
++ [如何在CentOS部署青龙面板并实现无公网IP远程访问本地面板](https://blog.csdn.net/qyj19920704/article/details/138512862)
+
++ [Kafka源码分析(五) - Server端 - 基于时间轮的延时组件](https://blog.csdn.net/hao2244/article/details/138489659)
+
++ [Mybatis逆向工程笔记小结](https://blog.csdn.net/qq_35716689/article/details/138506540)
+
++ [FIFO Generate IP核使用——异步复位](https://blog.csdn.net/u011565038/article/details/138484465)
+
++ [本地部署开源白板工具Excalidraw并结合内网穿透远程绘制流程图](https://blog.csdn.net/m0_70980326/article/details/138495437)
+
++ [免费分享一套微信小程序商城系统(电商系统)(SpringBoot+Vue3)【至尊版】，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/138465062)
+
++ [CNN笔记详解](https://blog.csdn.net/2303_79620604/article/details/138509539)
+
++ [虚幻引擎5 Gameplay框架（二）](https://blog.csdn.net/qq_44924388/article/details/138171035)
+
++ [网络安全（黑客）—-2024自学手册](https://blog.csdn.net/xv7676/article/details/138507120)
+
++ [OpenNJet评测，探寻云原生之美](https://blog.csdn.net/qq_21484461/article/details/138508847)
+

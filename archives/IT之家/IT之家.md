@@ -37,3 +37,5 @@
 
 + [小米米家 8KG 滚筒洗衣机上架预约：95℃高温煮洗，首发到手 999 元](https://m.ithome.com/html/766074.htm)
 
++ [统信 UOS 桌面操作系统 V20 专业版（1070）发布，外观 / AI / 协同等迎升级](https://m.ithome.com/html/766135.htm)
+
