@@ -51,3 +51,9 @@
 
 + [大量索尼 Xperia 1 VI 手机官方宣传图曝光：骁龙 8 Gen 3、5000mAh 电池](https://m.ithome.com/html/766115.htm)
 
++ [淘宝网页版宣布完成重要升级，“淘江湖”论坛重启](https://m.ithome.com/html/766233.htm)
+
++ [红旗、比亚迪、吉利、问界等 10 家车企参与“国车致敬国门”活动](https://m.ithome.com/html/766235.htm)
+
++ [小米汽车：SU7 智能泊车具备机械库位泊入能力，后续将通过 OTA 推送](https://m.ithome.com/html/766128.htm)
+

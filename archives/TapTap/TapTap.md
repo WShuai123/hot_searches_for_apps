@@ -23,3 +23,5 @@
 
 + [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
 
++ [祖宗模拟器：传承](https://www.taptap.cn/app/384185)
+

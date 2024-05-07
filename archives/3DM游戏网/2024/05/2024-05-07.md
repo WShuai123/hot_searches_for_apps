@@ -243,3 +243,15 @@
 
 + [曝苹果与某造车新势力接触 或重拾造车之路](https://www.3dmgame.com/news/202405/3894372.html)
 
++ [《全面战争：战锤3》全新DLC《Thrones of Decay》现已上线](https://www.3dmgame.com/news/202405/3894379.html)
+
++ [未来两年最好A卡揭开神秘面纱！7899元四插槽巨物](https://www.3dmgame.com/news/202405/3894380.html)
+
++ [贾跃亭：FF若真的退市 将是全球汽车产业的很大损失](https://www.3dmgame.com/news/202405/3894381.html)
+
++ [《超侦探事件簿：雾雨谜宫Plus》正式公布 7月登陆Steam和主机平台](https://www.3dmgame.com/news/202405/3894376.html)
+
++ [模拟经营探索游戏《雾方福地》预计2024年夏季发布](https://www.3dmgame.com/news/202405/3894377.html)
+
++ [科乐美公布《舞蹈革命机：世界》新一代街机版 经典娱乐神器](https://www.3dmgame.com/news/202405/3894378.html)
+

@@ -51,3 +51,31 @@
 
 + [suyu-emu / suyu](https://github.com/suyu-emu/suyu)
 
++ [Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan)
+
++ [AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage)
+
++ [assafelovic / gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time)
+
++ [pydantic / logfire](https://github.com/pydantic/logfire)
+
++ [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler)
+
++ [ca110us / epeius](https://github.com/ca110us/epeius)
+
++ [commaai / openpilot](https://github.com/commaai/openpilot)
+
++ [renovatebot / renovate](https://github.com/renovatebot/renovate)
+
++ [DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [airbnb / lottie-ios](https://github.com/airbnb/lottie-ios)
+
++ [StarRocks / starrocks](https://github.com/StarRocks/starrocks)
+
