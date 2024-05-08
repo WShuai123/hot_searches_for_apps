@@ -279,3 +279,9 @@
 
 + [上海付费马桶圈充值1000元用13.8万次引热议 官方辟谣](https://www.3dmgame.com/news/202405/3894472.html)
 
++ [英伟达下一代AI芯片R系列/R100将在明年四季度量产](https://www.3dmgame.com/news/202405/3894480.html)
+
++ [第一人称生存游戏《血清》推出全新CGI预告片](https://www.3dmgame.com/news/202405/3894479.html)
+
++ [我国网民超10亿：2023年人均每天刷视频等约3小时](https://www.3dmgame.com/news/202405/3894478.html)
+

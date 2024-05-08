@@ -51,3 +51,35 @@
 
 + [StarRocks / starrocks](https://github.com/StarRocks/starrocks)
 
++ [huggingface / lerobot](https://github.com/huggingface/lerobot)
+
++ [ejoy / ant](https://github.com/ejoy/ant)
+
++ [hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern)
+
++ [IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob)
+
++ [gabime / spdlog](https://github.com/gabime/spdlog)
+
++ [DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
++ [FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [reorproject / reor](https://github.com/reorproject/reor)
+
++ [songquanpeng / one-api](https://github.com/songquanpeng/one-api)
+
++ [OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
++ [cloudwu / skynet](https://github.com/cloudwu/skynet)
+
++ [Sh4yy / personal-ai](https://github.com/Sh4yy/personal-ai)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
