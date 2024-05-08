@@ -61,3 +61,5 @@
 
 + [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
 
++ [UBoat：一款功能强大的HTTP Botnet学习与研究工具](https://www.freebuf.com/sectool/394625.html)
+

@@ -223,3 +223,7 @@
 
 + [苹果新iPad Pro正式发布：8999元起 3nm工艺M4芯片](https://www.3dmgame.com/news/202405/3894448.html)
 
++ [《Fall Words》登陆Steam 物理规则益智解谜](https://www.3dmgame.com/news/202405/3894450.html)
+
++ [在被微软关闭之前 《红霞岛》离线模式和DLC曾积极开发中](https://www.3dmgame.com/news/202405/3894451.html)
+

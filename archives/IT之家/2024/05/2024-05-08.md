@@ -39,3 +39,5 @@
 
 + [苹果 2024 款 iPad Pro“硬件降级”取消后置双摄，仅提供一枚 12MP 广角主摄](https://m.ithome.com/html/766413.htm)
 
++ [苹果 Apple Pencil Pro 手写笔发布：支持“轻捏”，999 元](https://m.ithome.com/html/766368.htm)
+
