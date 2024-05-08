@@ -101,3 +101,5 @@
 
 + [Creatoor AI](https://www.producthunt.com/posts/creatoor-ai)
 
++ [LaunchBrightly](https://www.producthunt.com/posts/launchbrightly)
+

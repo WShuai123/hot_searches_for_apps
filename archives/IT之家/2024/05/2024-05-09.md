@@ -29,3 +29,5 @@
 
 + [华为夏季全场景新品发布会官宣 5 月 15 日举行](https://m.ithome.com/html/766417.htm)
 
++ [2024 款苹果 iPad Pro / Air 电池容量调整，但续航时间仍为 10 小时](https://m.ithome.com/html/766392.htm)
+

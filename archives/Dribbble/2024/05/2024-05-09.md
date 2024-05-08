@@ -73,3 +73,11 @@
 
 + [MS-06 ZAKU - maintenance](https://dribbble.com/shots/)
 
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+
++ [Naboo's Theed Galactic Park](https://dribbble.com/shots/)
+
++ [Caring - Mid-Century Illustrated Poster Design](https://dribbble.com/shots/)
+
++ [American Herbarium - Overall Preview](https://dribbble.com/shots/)
+
