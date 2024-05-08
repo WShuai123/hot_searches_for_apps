@@ -135,3 +135,55 @@
 
 + [Al Agent：开启智能化未来的关键角色，让机器更智能的为我们服务](https://blog.csdn.net/2301_77509762/article/details/138540181)
 
++ [机器学习：人工智能中实现自动化决策与精细优化的核心驱动力](https://blog.csdn.net/Easonmax/article/details/138563361)
+
++ [【数学建模】天然肠衣搭配问题](https://blog.csdn.net/weixin_72899100/article/details/138522865)
+
++ [基于大数据+Hadoop的豆瓣电子图书推荐系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/138556031)
+
++ [AI大模型探索之路-训练篇17：大语言模型预训练-微调技术之QLoRA](https://blog.csdn.net/xiaobing259/article/details/138555530)
+
++ [深度解析 Spring 源码：揭秘 AbstractAutowireCapableBeanFactory 的 Bean 生命周期处理](https://blog.csdn.net/qq_51601665/article/details/138578197)
+
++ [【计算机网络原理】初始网络原理和一些名词解释​​](https://blog.csdn.net/xiaoxie8023/article/details/138042779)
+
++ [AIGC实战——多模态模型DALL.E 2](https://blog.csdn.net/LOVEmy134611/article/details/138557850)
+
++ [MySQL 多表查询](https://blog.csdn.net/s445320/article/details/138534650)
+
++ [【mysql】mysql单表查询、多表查询、分组查询、子查询等案例详细解析](https://blog.csdn.net/littlefun591/article/details/138557639)
+
++ [淘宝数据分析——Python爬虫模式♥](https://blog.csdn.net/weixin_60094281/article/details/138348771)
+
++ [大历史下的 tcp：一个松弛的传输协议](https://blog.csdn.net/dog250/article/details/138541574)
+
++ [Elasticsearch：使用 MongoDB connector 同步数据到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/138128003)
+
++ [从零开始精通RTSP之传输AAC音频流](https://blog.csdn.net/hope_wisdom/article/details/138556413)
+
++ [微信小程序03: 获取不限制的小程序二维码](https://blog.csdn.net/pingzhuyan/article/details/138520306)
+
++ [【服务治理中间件】consul介绍和基本原理](https://blog.csdn.net/qq_35995514/article/details/138538427)
+
++ [【Vue】Vue初体验](https://blog.csdn.net/weixin_37833693/article/details/138526955)
+
++ [全面解析：Spring Gateway如何优雅处理微服务的路由转发？](https://blog.csdn.net/heihaozi/article/details/138532713)
+
++ [集成逻辑分析器（ ILA）IP核用法详解](https://blog.csdn.net/u011565038/article/details/138534699)
+
++ [数据挖掘算法原理与实践：决策树](https://blog.csdn.net/weixin_65633498/article/details/138539288)
+
++ [访问gitee.io 报错 Gateway Timeout The gateway did not receive a timely response from the upstream serve](https://blog.csdn.net/qq_44866828/article/details/138484988)
+
++ [探索OpenNJet—开源项目测评NGINX云原生功能增强有感](https://blog.csdn.net/weixin_52908342/article/details/138528769)
+
++ [47. UE5 RPG 实现角色死亡效果](https://blog.csdn.net/qq_30100043/article/details/138488725)
+
++ [ChatGPT4 Turbo 如何升级体验？官网如何使用最新版GPT-4 Turbo？](https://blog.csdn.net/Yrongrong/article/details/138486368)
+
++ [HarmonyOS开发案例：【计算器】](https://blog.csdn.net/m0_70748845/article/details/138534044)
+
++ [Python运维-文本处理、系统和文件信息监控、外部命令](https://blog.csdn.net/lerp020321/article/details/138531073)
+
++ [云原生时代的日志监控利器，ELK技术栈解析](https://blog.csdn.net/weixin_53269650/article/details/138528651)
+

@@ -287,3 +287,13 @@
 
 + [罗技ZONE 300头戴式耳机开卖 蓝牙无线连接、售价599元](https://www.3dmgame.com/news/202405/3894481.html)
 
++ [笑死！玩家将斯宾塞P成《匹诺曹的谎言》封面主角](https://www.3dmgame.com/news/202405/3894486.html)
+
++ [《高达创坏者4》将于8月29日发售](https://www.3dmgame.com/news/202405/3894483.html)
+
++ [《GTA6》新截图、新消息很快将到来](https://www.3dmgame.com/news/202405/3894484.html)
+
++ [《黑帝斯2》Steam在线峰值超10万 几乎是初代3倍](https://www.3dmgame.com/news/202405/3894485.html)
+
++ [EA CEO：生成式AI将彻底改变游戏开发 目标五年内构建更大、更沉浸式世界](https://www.3dmgame.com/news/202405/3894482.html)
+
