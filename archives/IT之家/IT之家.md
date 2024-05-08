@@ -47,3 +47,7 @@
 
 + [雷军宣布小米两名员工晋升高管：许斐、张剑慧升任集团副总裁](https://m.ithome.com/html/766563.htm)
 
++ [福建一小米 SU7 新车被曝开了 39 公里出故障，门店称已退车](https://m.ithome.com/html/766578.htm)
+
++ [我国第三艘航母，中国海军福建舰顺利完成首次航行试验](https://m.ithome.com/html/766501.htm)
+
