@@ -31,3 +31,7 @@
 
 + [等级森严：2024 款 iPad Pro 低配搭载 9 核苹果 M4 芯片，内存砍半](https://m.ithome.com/html/766377.htm)
 
++ [2024 款苹果 iPad Pro / Air 告别实体 SIM 卡，全面转向 eSIM](https://m.ithome.com/html/766378.htm)
+
++ [苹果“放飞吧”特别活动一文汇总：M4 芯片加持史上最强 iPad Pro](https://m.ithome.com/html/766391.htm)
+

@@ -123,3 +123,9 @@
 
 + [任天堂社长确认新主机就是Switch后续机型](https://www.3dmgame.com/news/202405/3894392.html)
 
++ [Arkane老大批评Xbox关闭工作室的决定：太糟糕了](https://www.3dmgame.com/news/202405/3894402.html)
+
++ [《死亡之旅：让它去死》重开发将吸取旧作更多元素](https://www.3dmgame.com/news/202405/3894400.html)
+
++ [致敬魔界村Neo Geo新作《GladMort》启动众筹](https://www.3dmgame.com/news/202405/3894401.html)
+

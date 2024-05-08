@@ -41,3 +41,5 @@
 
 + [RSAC 2024创新沙盒｜VULNCHECK：漏洞优先级挑战的解决方案](https://www.freebuf.com/articles/neopoints/399775.html)
 
++ [一次简单的SRC漏洞挖掘](https://www.freebuf.com/vuls/399665.html)
+
