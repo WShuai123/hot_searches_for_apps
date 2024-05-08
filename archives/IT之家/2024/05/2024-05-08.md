@@ -35,3 +35,5 @@
 
 + [苹果“放飞吧”特别活动一文汇总：M4 芯片加持史上最强 iPad Pro](https://m.ithome.com/html/766391.htm)
 
++ [2024 款苹果 iPad Pro / Air 平板电脑不支持第二代 Apple Pencil](https://m.ithome.com/html/766379.htm)
+

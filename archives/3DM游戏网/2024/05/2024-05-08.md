@@ -153,3 +153,41 @@
 
 + [《太空医院》最新预告 游戏将于5月23日发售](https://www.3dmgame.com/news/202405/3894404.html)
 
++ [青山刚昌漫画《剑勇传说》宣布将动画化 青山刚昌担任监督](https://www.3dmgame.com/news/202405/3894431.html)
+
++ [《猎魔人》剧集希里演员为杰洛特新演员“锤弟”感到担忧](https://www.3dmgame.com/news/202405/3894433.html)
+
++ [Atlus《暗喻幻想》新情报 妖精眼战斗系统公开](https://www.3dmgame.com/news/202405/3894432.html)
+
++ [万代开启《艾尔登法环》视频征集活动 为DLC预热](https://www.3dmgame.com/news/202405/3894430.html)
+
++ [传闻：微软《完美黑暗》重启项目仍然非常粗糙 可能会被取消](https://www.3dmgame.com/news/202405/3894426.html)
+
++ [玩家开始报复微软：抵制Game Pass、不再续订](https://www.3dmgame.com/news/202405/3894425.html)
+
++ [《灵魂面甲Soulmask》EA发售日预告 6月18日发售](https://www.3dmgame.com/news/202405/3894424.html)
+
++ [《夜族崛起》1.0完整版今日上线，并与恶魔城联动](https://www.3dmgame.com/news/202405/3894423.html)
+
++ [P社4X战略游戏《群星》DLC《机械纪元》现已正式推出](https://www.3dmgame.com/news/202405/3894422.html)
+
++ [《我的博物馆》Steam页面上线 博物馆经营模拟](https://www.3dmgame.com/news/202405/3894421.html)
+
++ [《命运2》扩展限时向所有玩家开放 持续至6月4日](https://www.3dmgame.com/news/202405/3894420.html)
+
++ [传《生化危机》新电影制作中：大制作 高预算](https://www.3dmgame.com/news/202405/3894419.html)
+
++ [《星刃》游戏摄影美图欣赏：女性角色性感妩媚惊艳](https://www.3dmgame.com/news/202405/3894427.html)
+
++ [回合制策略基地建设游戏《Don“t Kill Them All》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3894429.html)
+
++ [类Rogue视觉小说游戏《西部公路》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3894428.html)
+
++ [《Xenomon》开启众筹 开放世界即时战斗怪兽收集](https://www.3dmgame.com/news/202405/3894418.html)
+
++ [《黑神话：悟空》成为Steam愿望单榜第一 国产之光！](https://www.3dmgame.com/news/202405/3894417.html)
+
++ [《红霞岛》开发已正式结束 服务器仍将保持在线](https://www.3dmgame.com/news/202405/3894416.html)
+
++ [Swtich《古墓丽影：劳拉合集》将推出实体典藏版](https://www.3dmgame.com/news/202405/3894415.html)
+
