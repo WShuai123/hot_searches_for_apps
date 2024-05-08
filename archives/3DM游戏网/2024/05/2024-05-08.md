@@ -267,3 +267,15 @@
 
 + [《命运2》扩展开放权限月现在开始](https://www.3dmgame.com/news/202405/3894462.html)
 
++ [《超级滑刃战士》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3894477.html)
+
++ [《赌场模拟器》Steam页面上线 打造娱乐帝国](https://www.3dmgame.com/news/202405/3894476.html)
+
++ [IGN更新《星露谷物语》1.6版本评分 打出10分满分评价](https://www.3dmgame.com/news/202405/3894475.html)
+
++ [官方发布耀斑黄色预警：未来3天仍有可能爆发M/X级以上耀斑](https://www.3dmgame.com/news/202405/3894474.html)
+
++ [专家提醒半夜醒了别看时间 会影响睡眠质量](https://www.3dmgame.com/news/202405/3894473.html)
+
++ [上海付费马桶圈充值1000元用13.8万次引热议 官方辟谣](https://www.3dmgame.com/news/202405/3894472.html)
+

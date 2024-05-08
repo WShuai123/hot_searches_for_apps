@@ -65,3 +65,5 @@
 
 + [RSAC 2024 现场速览，20 款网络安全产品陆续亮相](https://www.freebuf.com/news/400234.html)
 
++ [RSAC 2024 大会最酷的20 款网络安全产品](https://www.freebuf.com/news/400234.html)
+
