@@ -109,3 +109,13 @@
 
 + [今年值得期待的合作游戏 《小小梦魇3》等](https://www.3dmgame.com/news/202405/3894488.html)
 
++ [操作暴脾气清扫工《狼人保洁》PC版现已发售](https://www.3dmgame.com/news/202405/3894495.html)
+
++ [暑期档灾难冒险大片《龙卷风》曝全新预告](https://www.3dmgame.com/news/202405/3894494.html)
+
++ [日升动画研究所推出《圣战士丹拜因》新开场动画](https://www.3dmgame.com/news/202405/3894493.html)
+
++ [光环小说新作《The Third Life》揭秘背叛者的故事](https://www.3dmgame.com/news/202405/3894492.html)
+
++ [家庭电竞趴《任天堂世界锦标赛FC世界大会》正式官宣](https://www.3dmgame.com/news/202405/3894491.html)
+
