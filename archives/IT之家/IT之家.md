@@ -43,3 +43,5 @@
 
 + [【一图知】苹果“放飞吧”发布会 2024 款 iPad Pro / Air 平板电脑](https://m.ithome.com/html/766384.htm)
 
++ [合众汽车 CEO 张勇谈“哪吒改名”：本人不想改名，投票结果显示有 29% 的人也不希望改](https://m.ithome.com/html/766474.htm)
+

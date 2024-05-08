@@ -235,3 +235,35 @@
 
 + [《Plushie from the Sky》登陆Steam 美少女魂系动作](https://www.3dmgame.com/news/202405/3894455.html)
 
++ [赚麻了！Switch世代总利润已超任天堂此前35年利润总和](https://www.3dmgame.com/news/202405/3894467.html)
+
++ [奇幻爱情类视觉小说《塞莱斯蒂亚：命运之链》Steam页面 支持中文](https://www.3dmgame.com/news/202405/3894468.html)
+
++ [TRPG新作《Baladins》登陆Steam 稍后登陆主机平台](https://www.3dmgame.com/news/202405/3894469.html)
+
++ [漫威总裁：我们确实在短时间内推出太多电影了](https://www.3dmgame.com/news/202405/3894470.html)
+
++ [国产山寨《赛马娘》引发日本网友热议：明目张胆模仿](https://www.3dmgame.com/news/202405/3894471.html)
+
++ [全国首例“AI外挂”案公开宣判 男子非法获利600多万](https://www.3dmgame.com/news/202405/3894463.html)
+
++ [中国音数协：批复筹备成立游戏产业研究专家委员会](https://www.3dmgame.com/news/202405/3894464.html)
+
++ [中国用户量最多的APP TOP50赛道出炉：微信唯一破10亿人](https://www.3dmgame.com/news/202405/3894465.html)
+
++ [玩家找到解锁《星刃》新游戏+未和谐服装的方法](https://www.3dmgame.com/news/202405/3894466.html)
+
++ [战术肉鸽类游戏《食之恶魔》登录Steam平台 2025年第四季度推出](https://www.3dmgame.com/news/202405/3894456.html)
+
++ [杨紫琼将主演亚马逊《银翼杀手2049》续集电视剧](https://www.3dmgame.com/news/202405/3894457.html)
+
++ [本周Fami通游戏评分出炉 《星刃》35分白金殿堂](https://www.3dmgame.com/news/202405/3894458.html)
+
++ [脑洞大开 改写未来 《巴别号漫游指南》Steam新史低促销开启](https://www.3dmgame.com/news/202405/3894459.html)
+
++ [KK官方对战平台游戏女神直播海选！640wU币、精美外设福利掉不停！](https://www.3dmgame.com/news/202405/3894460.html)
+
++ [职场情感题材崛起，5月15日steam上架《美女，应接不暇》引领互动剧新趋势](https://www.3dmgame.com/news/202405/3894461.html)
+
++ [《命运2》扩展开放权限月现在开始](https://www.3dmgame.com/news/202405/3894462.html)
+

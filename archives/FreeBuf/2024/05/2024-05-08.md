@@ -63,3 +63,5 @@
 
 + [UBoat：一款功能强大的HTTP Botnet学习与研究工具](https://www.freebuf.com/sectool/394625.html)
 
++ [RSAC 2024 现场速览，20 款网络安全产品陆续亮相](https://www.freebuf.com/news/400234.html)
+
