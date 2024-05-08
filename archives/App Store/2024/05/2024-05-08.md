@@ -211,3 +211,9 @@
 
 + [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
 
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+
++ [保密观](https://itunes.apple.com/cn/app/id1521593929?mt=8)
+
++ [悬浮时钟-抢购秒杀助手](https://itunes.apple.com/cn/app/id1546947240?mt=8)
+

@@ -57,3 +57,7 @@
 
 + [悬赏1000万美元，英美执法机构揭露LockBit勒索软件头目](https://www.freebuf.com/news/400211.html)
 
++ [攻防演练 | 安全编排自动化响应SOAR项目记录](https://www.freebuf.com/articles/es/399232.html)
+
++ [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
+

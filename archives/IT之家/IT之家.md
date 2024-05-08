@@ -37,3 +37,5 @@
 
 + [2024 款苹果 iPad Pro / Air 平板电脑不支持第二代 Apple Pencil](https://m.ithome.com/html/766379.htm)
 
++ [苹果 2024 款 iPad Pro“硬件降级”取消后置双摄，仅提供一枚 12MP 广角主摄](https://m.ithome.com/html/766413.htm)
+

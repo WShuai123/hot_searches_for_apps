@@ -217,3 +217,9 @@
 
 + [马斯克警告生物智能比例逐渐递减 终被人工智能超越](https://www.3dmgame.com/news/202405/3894438.html)
 
++ [《拳愿阿修罗》画师达露没恩吐槽官方英文翻译太烂 准备请盗版翻译组拯救销量](https://www.3dmgame.com/news/202405/3894449.html)
+
++ [玩家指责微软说话不算数 曾承诺将继续支持Arkane](https://www.3dmgame.com/news/202405/3894447.html)
+
++ [苹果新iPad Pro正式发布：8999元起 3nm工艺M4芯片](https://www.3dmgame.com/news/202405/3894448.html)
+
