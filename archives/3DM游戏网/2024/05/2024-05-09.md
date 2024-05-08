@@ -101,3 +101,11 @@
 
 + [《Apex Legends：扭转乾坤》现已推出 +“踏入虚空”预告片](https://www.3dmgame.com/news/202405/3894434.html)
 
++ [《杀戮者X：杀手的复仇》本月登陆主机 Steam好评如潮](https://www.3dmgame.com/news/202405/3894490.html)
+
++ [平台动作冒险《机器双雄》公布 年内发售](https://www.3dmgame.com/news/202405/3894487.html)
+
++ [《驾驶拉力赛》今秋开启抢先体验 支持免费试玩](https://www.3dmgame.com/news/202405/3894489.html)
+
++ [今年值得期待的合作游戏 《小小梦魇3》等](https://www.3dmgame.com/news/202405/3894488.html)
+
