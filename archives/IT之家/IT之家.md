@@ -41,3 +41,5 @@
 
 + [苹果 Apple Pencil Pro 手写笔发布：支持“轻捏”，999 元](https://m.ithome.com/html/766368.htm)
 
++ [【一图知】苹果“放飞吧”发布会 2024 款 iPad Pro / Air 平板电脑](https://m.ithome.com/html/766384.htm)
+

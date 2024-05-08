@@ -227,3 +227,11 @@
 
 + [在被微软关闭之前 《红霞岛》离线模式和DLC曾积极开发中](https://www.3dmgame.com/news/202405/3894451.html)
 
++ [EA财报透露《龙腾世纪：恐狼》将在明年3月前推出](https://www.3dmgame.com/news/202405/3894452.html)
+
++ [奇幻漫画《桃源暗鬼》宣布动画化 PV放出 2025年播出](https://www.3dmgame.com/news/202405/3894453.html)
+
++ [《女鬼桥二 释魂路》主机版预告片 10月登陆主机平台](https://www.3dmgame.com/news/202405/3894454.html)
+
++ [《Plushie from the Sky》登陆Steam 美少女魂系动作](https://www.3dmgame.com/news/202405/3894455.html)
+
