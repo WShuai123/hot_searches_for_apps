@@ -31,3 +31,5 @@
 
 + [2024 款苹果 iPad Pro / Air 电池容量调整，但续航时间仍为 10 小时](https://m.ithome.com/html/766392.htm)
 
++ [遵从鸿蒙 5.0 规范：华为商城 App 众测升级，多端适配调整](https://m.ithome.com/html/766550.htm)
+
