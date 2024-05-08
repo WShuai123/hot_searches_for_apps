@@ -43,3 +43,7 @@
 
 + [一次简单的SRC漏洞挖掘](https://www.freebuf.com/vuls/399665.html)
 
++ [自动化安全运营实操案例:Wazuh X 雷池WAF X 飞书](https://www.freebuf.com/articles/es/399740.html)
+
++ [FreeBuf早报 | 德国因网络攻击召回驻俄罗斯大使；伊朗黑客冒充记者推送后门恶意软件](https://www.freebuf.com/news/400158.html)
+

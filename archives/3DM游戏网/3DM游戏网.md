@@ -129,3 +129,27 @@
 
 + [致敬魔界村Neo Geo新作《GladMort》启动众筹](https://www.3dmgame.com/news/202405/3894401.html)
 
++ [动视暴雪侵权他人专利？赔偿超过2000万美元！](https://www.3dmgame.com/news/202405/3894406.html)
+
++ [《诅咒录像带》登陆Steam 拟真场景恐怖探险](https://www.3dmgame.com/news/202405/3894407.html)
+
++ [EA 2025财年将推出两个未公布的新作 没有《战地》](https://www.3dmgame.com/news/202405/3894408.html)
+
++ [小偷模拟器开发商新作《犯罪模拟器》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3894410.html)
+
++ [报告称《刺客信条：RED》6月正式公布 媒体预览同时解禁](https://www.3dmgame.com/news/202405/3894411.html)
+
++ [Tango被关闭让玩家愤怒：好工作室也关 Xbox有眼无珠](https://www.3dmgame.com/news/202405/3894409.html)
+
++ [《原始袭变》《星空》合作开发商新开动捕工作室](https://www.3dmgame.com/news/202405/3894412.html)
+
++ [下一个《战地》由史上最大团队开发 又是即时服务游戏](https://www.3dmgame.com/news/202405/3894413.html)
+
++ [微软关闭Tango等工作室遭玩家谴责 暴雪前CEO为斯宾塞站台](https://www.3dmgame.com/news/202405/3894414.html)
+
++ [EA 2024财年Q4财报发布 《EA Sports FC》《Madden》驱动利润增长](https://www.3dmgame.com/news/202405/3894405.html)
+
++ [《死侍3》全新剧照曝光 死侍狗让人无法忽视](https://www.3dmgame.com/news/202405/3894403.html)
+
++ [《太空医院》最新预告 游戏将于5月23日发售](https://www.3dmgame.com/news/202405/3894404.html)
+
