@@ -191,3 +191,29 @@
 
 + [Swtich《古墓丽影：劳拉合集》将推出实体典藏版](https://www.3dmgame.com/news/202405/3894415.html)
 
++ [《暗区突围：无限》13分钟实机演示 海外测试开启](https://www.3dmgame.com/news/202405/3894439.html)
+
++ [《绝地潜兵2》社区经理因鼓励玩家给差评后已被开除](https://www.3dmgame.com/news/202405/3894440.html)
+
++ [嫦娥六号顺利进入环月轨道：成功实施近月制动](https://www.3dmgame.com/news/202405/3894441.html)
+
++ [《恶意不息》开发商CEO谈微软关闭工作室：这就是被收购的结局](https://www.3dmgame.com/news/202405/3894442.html)
+
++ [Kotaku炮轰Xbox负责人斯宾塞：是时候滚蛋了](https://www.3dmgame.com/news/202405/3894443.html)
+
++ [小高和刚祝贺《超侦探事件簿》增强版 曾断言NS独占](https://www.3dmgame.com/news/202405/3894444.html)
+
++ [推箱子《海天岛传说》发售日预告 5月22日发售](https://www.3dmgame.com/news/202405/3894445.html)
+
++ [基地建造RTS游戏《地下蚁国》将于6月结束抢先体验并推出1.0正式版](https://www.3dmgame.com/news/202405/3894446.html)
+
++ [《Apex Legends：扭转乾坤》现已推出 +“踏入虚空”预告片](https://www.3dmgame.com/news/202405/3894434.html)
+
++ [清版弹幕射击游戏《赛博脉冲》即将于5月在Steam平台推出](https://www.3dmgame.com/news/202405/3894435.html)
+
++ [《掠食》连续七年每天更新粉丝账号终于迎来终结](https://www.3dmgame.com/news/202405/3894436.html)
+
++ [传闻：Switch继任者最早今年9月官宣 明年3月发售](https://www.3dmgame.com/news/202405/3894437.html)
+
++ [马斯克警告生物智能比例逐渐递减 终被人工智能超越](https://www.3dmgame.com/news/202405/3894438.html)
+

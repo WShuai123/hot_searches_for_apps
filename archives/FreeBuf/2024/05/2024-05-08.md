@@ -53,3 +53,7 @@
 
 + [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
 
++ [新加坡批准《网络安全法》修正案，以保护关键基础设施](https://www.freebuf.com/news/400205.html)
+
++ [悬赏1000万美元，英美执法机构揭露LockBit勒索软件头目](https://www.freebuf.com/news/400211.html)
+
