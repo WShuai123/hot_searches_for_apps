@@ -211,3 +211,9 @@
 
 + [2万元也有大把人买 预估今年iPad Pro出货量500万台](https://www.3dmgame.com/news/202405/3894541.html)
 
++ [《勇者斗恶龙10》新更新内容公开 新地城装备登场](https://www.3dmgame.com/news/202405/3894544.html)
+
++ [《美女，应接不暇》：5月15日Steam新上架，职场恋爱影游的创新之作](https://www.3dmgame.com/news/202405/3894543.html)
+
++ [轻小说改编动画《为何我的世界被遗忘了？》首个宣传预告放出 7月开播](https://www.3dmgame.com/news/202405/3894542.html)
+

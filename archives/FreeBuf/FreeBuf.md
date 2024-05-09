@@ -55,3 +55,5 @@
 
 + [渗透测试 | 如何利用MSF绕过安全设备检测](https://www.freebuf.com/defense/399976.html)
 
++ [等保能力验证2022—MySQL数据库](https://www.freebuf.com/articles/system/379875.html)
+
