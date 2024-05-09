@@ -289,3 +289,9 @@
 
 + [《指环王》新真人版电影制作中 彼得‧杰克逊担任制作人](https://www.3dmgame.com/news/202405/3894580.html)
 
++ [Fami通新一期销量排行榜 《星刃》登顶](https://www.3dmgame.com/news/202405/3894583.html)
+
++ [去年冻结之后 微软计划今年重启加薪计划](https://www.3dmgame.com/news/202405/3894582.html)
+
++ [Rocksteady危？华纳游戏称业绩不佳主因是《自杀小队》](https://www.3dmgame.com/news/202405/3894581.html)
+
