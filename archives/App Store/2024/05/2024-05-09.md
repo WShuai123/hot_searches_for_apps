@@ -211,3 +211,7 @@
 
 + [和家亲-让连接更便捷](https://itunes.apple.com/cn/app/id1147452377?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [今日水印相机-时间地点经纬度打卡拍照](https://itunes.apple.com/cn/app/id1319071502?mt=8)
+

@@ -279,3 +279,7 @@
 
 + [金亨泰对《星刃》M站评分很满意：这是很好的激励](https://www.3dmgame.com/news/202405/3894563.html)
 
++ [美不让华为用高通英特尔芯片：余承东早预见 麒麟有大招](https://www.3dmgame.com/news/202405/3894577.html)
+
++ [一帆风顺！解谜动作游戏《沉船遗礼》扬帆起航！](https://www.3dmgame.com/news/202405/3894576.html)
+
