@@ -45,3 +45,5 @@
 
 + [《2024年AI安全报告》：AIML工具使用量飙升594.82%](https://www.freebuf.com/articles/paper/400185.html)
 
++ [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
+

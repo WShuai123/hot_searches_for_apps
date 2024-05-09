@@ -101,3 +101,27 @@
 
 + [ChatGPT4 Turbo 如何升级体验？官网如何使用最新版GPT-4 Turbo？](https://blog.csdn.net/Yrongrong/article/details/138486368)
 
++ [第41天：WEB攻防-ASP应用&HTTP.SYS&短文件&文件解析&Access注入&数据库泄漏](https://blog.csdn.net/weixin_48613011/article/details/138552128)
+
++ [GOSIM 2024 欧洲站圆满落幕，RustNL 2024 精彩接踵而至](https://blog.csdn.net/GOSIM2023/article/details/138537619)
+
++ [【千帆平台】AIGC人工智能应用，使用AppBuilder零代码创建应用，Excel表格数据转为Markdown格式文本](https://blog.csdn.net/lmy_520/article/details/138564617)
+
++ [神经网络案例实战](https://blog.csdn.net/qq_64685283/article/details/138588948)
+
++ [推荐5个免费的国内平替版GPT](https://blog.csdn.net/chataigc/article/details/138531047)
+
++ [HarmonyOS开发案例：【计算器】](https://blog.csdn.net/m0_70748845/article/details/138534044)
+
++ [探索设计模式的魅力：权力集中，效率提升，中心化模式的优势与挑战](https://blog.csdn.net/danci_/article/details/138581962)
+
++ [【仪酷LabVIEW AI工具包案例】使用LabVIEW AI工具包+YOLOv5结合Dobot机械臂实现智能垃圾分类](https://blog.csdn.net/virobotics/article/details/138155194)
+
++ [SpringBoot整合Redis（文末送书）](https://blog.csdn.net/qq_35427589/article/details/138557847)
+
++ [Redis（主从复制搭建）](https://blog.csdn.net/m0_64637029/article/details/138588828)
+
++ [解密某游戏的数据加密](https://blog.csdn.net/qq_35230125/article/details/138528281)
+
++ [IP规划案例](https://blog.csdn.net/weixin_74227828/article/details/138534327)
+

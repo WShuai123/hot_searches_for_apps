@@ -41,3 +41,5 @@
 
 + [“Air”不再代表轻薄？2024 款苹果 iPad Air 竟比 iPad Pro 更重](https://m.ithome.com/html/766571.htm)
 
++ [免 Root 运行的类 Xposed 框架“太极”永久停止更新、维护](https://m.ithome.com/html/766614.htm)
+

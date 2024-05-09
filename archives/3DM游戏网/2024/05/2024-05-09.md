@@ -123,3 +123,41 @@
 
 + [EA认为生成式AI将帮助他们 带来更具沉浸感的游戏](https://www.3dmgame.com/news/202405/3894497.html)
 
++ [对于《使命召唤》新作首发是否加入Game Pass 微软高层一直讨论了好几个月](https://www.3dmgame.com/news/202405/3894515.html)
+
++ [类肉鸽迷宫探索游戏《逃离疯狂帝国》现已上架Steam平台](https://www.3dmgame.com/news/202405/3894516.html)
+
++ [《Rock Paper Scissors》原型版免费发布 合理互殴游戏](https://www.3dmgame.com/news/202405/3894514.html)
+
++ [任天堂宣布Switch停止支持推特 6月10日起生效](https://www.3dmgame.com/news/202405/3894513.html)
+
++ [《泰坦之旅2》新截图 神话生物狮鹫和海马霸气](https://www.3dmgame.com/news/202405/3894512.html)
+
++ [4X大战略游戏《欧陆风云4》最新DLC《变革之风》现已正式推出](https://www.3dmgame.com/news/202405/3894511.html)
+
++ [巴西官方推出新法案 推动促进本国游戏开发商成长](https://www.3dmgame.com/news/202405/3894510.html)
+
++ [世嘉公布索尼克类糖豆人新作《索尼克大乱斗》 支持32人对战](https://www.3dmgame.com/news/202405/3894508.html)
+
++ [刚关闭Tango一天 微软又称需要《完美音浪》这样的小型游戏](https://www.3dmgame.com/news/202405/3894507.html)
+
++ [Krafton Q1财报：《绝地求生》转免费以来销量新高](https://www.3dmgame.com/news/202405/3894506.html)
+
++ [《Dawn of Defiance》Steam上线 开放世界战斗生存](https://www.3dmgame.com/news/202405/3894505.html)
+
++ [《超侦探事件簿 雾雨谜宫 Plus》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3894504.html)
+
++ [还有8000年？《空洞骑士：丝绸之歌》商店页面显示将于9998年发售](https://www.3dmgame.com/news/202405/3894509.html)
+
++ [陶德不想退休：我在B社干得很开心 不想停下来](https://www.3dmgame.com/news/202405/3894503.html)
+
++ [游戏订阅停滞不前 今年3月仅比去年4月增长了1%](https://www.3dmgame.com/news/202405/3894502.html)
+
++ [Arkane奥斯汀被关闭前曾在开发一个沉浸模拟游戏](https://www.3dmgame.com/news/202405/3894501.html)
+
++ [《暗黑破坏神：不朽》全新职业“雾刃”首曝 定档5月23日](https://www.3dmgame.com/news/202405/3894500.html)
+
++ [最新报告称微软Xbox裁员还没结束 更多员工将被裁掉](https://www.3dmgame.com/news/202405/3894499.html)
+
++ [《三角洲行动》黑鹰坠落登陆UE5 战役实机首曝](https://www.3dmgame.com/news/202405/3894498.html)
+
