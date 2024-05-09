@@ -63,3 +63,19 @@
 
 + [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
 
++ [Restaurants Logo Collection](https://dribbble.com/shots/)
+
++ [Champagne for Champayne ????](https://dribbble.com/shots/)
+
++ [Hamm's Beer](https://dribbble.com/shots/)
+
++ [Lasers](https://dribbble.com/shots/)
+
++ [Shape Studies: 054](https://dribbble.com/shots/)
+
++ [Owl City Boom Box](https://dribbble.com/shots/)
+
++ [Fallout](https://dribbble.com/shots/)
+
++ [Insurance spots](https://dribbble.com/shots/)
+
