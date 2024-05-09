@@ -207,3 +207,9 @@
 
 + [悬浮时钟-抢购秒杀助手](https://itunes.apple.com/cn/app/id1546947240?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+

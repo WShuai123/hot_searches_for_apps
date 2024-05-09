@@ -21,3 +21,5 @@
 
 + [崩坏3](https://www.taptap.cn/app/10056)
 
++ [原神](https://www.taptap.cn/app/168332)
+
