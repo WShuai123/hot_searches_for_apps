@@ -285,3 +285,7 @@
 
 + [2023年全球十大IC设计公司营收榜 英伟达首度夺冠](https://www.3dmgame.com/news/202405/3894578.html)
 
++ [菲尔·斯宾塞在《辐射76》中被玩家投了核弹](https://www.3dmgame.com/news/202405/3894579.html)
+
++ [《指环王》新真人版电影制作中 彼得‧杰克逊担任制作人](https://www.3dmgame.com/news/202405/3894580.html)
+
