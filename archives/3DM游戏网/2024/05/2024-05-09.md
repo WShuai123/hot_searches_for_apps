@@ -283,3 +283,5 @@
 
 + [一帆风顺！解谜动作游戏《沉船遗礼》扬帆起航！](https://www.3dmgame.com/news/202405/3894576.html)
 
++ [2023年全球十大IC设计公司营收榜 英伟达首度夺冠](https://www.3dmgame.com/news/202405/3894578.html)
+

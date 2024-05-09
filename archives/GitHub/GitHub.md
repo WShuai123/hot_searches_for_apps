@@ -51,3 +51,29 @@
 
 + [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV)
+
++ [pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue)
+
++ [tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time)
+
++ [phenaproxima / starshot-prototype](https://github.com/phenaproxima/starshot-prototype)
+
++ [HqWu-HITCS / Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+
++ [FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin)
+
++ [AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt)
+
++ [deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)
+
++ [commaai / openpilot](https://github.com/commaai/openpilot)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)
+
++ [NielsRogge / Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+
