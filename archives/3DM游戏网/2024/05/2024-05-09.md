@@ -253,3 +253,29 @@
 
 + [《漫威争锋》内测大量英雄技能游戏内演示视频](https://www.3dmgame.com/news/202405/3894556.html)
 
++ [《点老救世记 - dotAGE》现已支持简体中文](https://www.3dmgame.com/news/202405/3894574.html)
+
++ [《终远的威尔修-EpiC:lycoris-》主要登场人物及可攻略角色介绍](https://www.3dmgame.com/news/202405/3894573.html)
+
++ [《GUNDAM 创坏者4》将于2024年8月29日登场！同步公开最新宣传视频](https://www.3dmgame.com/news/202405/3894572.html)
+
++ [任天堂原OL会员专享红白机版Switch手柄解禁 7月18日发售](https://www.3dmgame.com/news/202405/3894571.html)
+
++ [《Den of Wolves》携手艺术家Issa Salliander，打造游戏内独特面具](https://www.3dmgame.com/news/202405/3894575.html)
+
++ [卡普空营收连续第十一年增长 《龙之信条2》销量达260万](https://www.3dmgame.com/news/202405/3894570.html)
+
++ [百度副总裁璩静回应被开除：买我们年卡我告诉你](https://www.3dmgame.com/news/202405/3894569.html)
+
++ [2年创下17个世界纪录 《我的世界》速通高手宣布暂休](https://www.3dmgame.com/news/202405/3894568.html)
+
++ [再涨最多20％！内存、SSD价格控制不住了](https://www.3dmgame.com/news/202405/3894567.html)
+
++ [马云20年前旧帖公开 用户应该是电商最大受益者](https://www.3dmgame.com/news/202405/3894566.html)
+
++ [经典美剧《办公室》宇宙新剧决定制作 播出时间待定](https://www.3dmgame.com/news/202405/3894565.html)
+
++ [为了环保？苹果也对iPad下手 新款开始不附赠充电器](https://www.3dmgame.com/news/202405/3894564.html)
+
++ [金亨泰对《星刃》M站评分很满意：这是很好的激励](https://www.3dmgame.com/news/202405/3894563.html)
+

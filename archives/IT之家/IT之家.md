@@ -53,3 +53,11 @@
 
 + [万事达人民币银行卡要来啦，我国第二家合资银行卡清算机构万事网联正式开业](https://m.ithome.com/html/766714.htm)
 
++ [微信电脑端效率工具“小微助手”偷跑：快捷搜索、闪念胶囊](https://m.ithome.com/html/766594.htm)
+
++ [小米路由器 BE5000 Wi-Fi 7 上架，预售价 279 元](https://m.ithome.com/html/766680.htm)
+
++ [小米宣布澎湃 Hyper OS 系统版本模式调整：开发版 8 月停止发布，Beta 版 Q4 启动招募](https://m.ithome.com/html/766733.htm)
+
++ [苹果 iPad Pro 新宣传视频遭负面评价，艺术圈名人纷纷吐槽](https://m.ithome.com/html/766670.htm)
+
