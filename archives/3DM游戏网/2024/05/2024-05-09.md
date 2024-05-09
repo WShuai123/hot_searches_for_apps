@@ -209,3 +209,5 @@
 
 + [真人互动小说《失业了，我获得了亿万游戏财产！》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3894535.html)
 
++ [2万元也有大把人买 预估今年iPad Pro出货量500万台](https://www.3dmgame.com/news/202405/3894541.html)
+

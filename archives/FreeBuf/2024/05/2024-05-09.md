@@ -53,3 +53,5 @@
 
 + [F5管理器现漏洞，能让攻击者开设账户并长期潜伏](https://www.freebuf.com/news/400364.html)
 
++ [渗透测试 | 如何利用MSF绕过安全设备检测](https://www.freebuf.com/defense/399976.html)
+
