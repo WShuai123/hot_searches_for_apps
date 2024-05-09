@@ -49,3 +49,17 @@
 
 + [Marketers over Artists?](https://dribbble.com/shots/)
 
++ [Bootsy Collins Lettering](https://dribbble.com/shots/)
+
++ [Grrz](https://dribbble.com/shots/)
+
++ [Hold shift to run – t-shrit print](https://dribbble.com/shots/)
+
++ [Nobody Love New York Like New York Print](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+
++ [Enter the pin (PSE '24)](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+

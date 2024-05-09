@@ -101,3 +101,5 @@
 
 + [谷歌革命性AI模型登上Nature 成功预测有生命分子结构和相互作用！](https://www.3dmgame.com/news/202405/3894536.html)
 
++ [《驱灵者:新伊甸的幽灵》试玩版现已登陆PC、PS5和XSX](https://www.3dmgame.com/news/202405/3894586.html)
+
