@@ -27,3 +27,5 @@
 
 + [尘埃落定？工作软件显示百度副总裁璩静确已离职](https://m.ithome.com/html/766835.htm)
 
++ [2024 款 iPad Pro 成苹果史上最薄设备，怀旧广告致敬 iPod nano](https://m.ithome.com/html/766750.htm)
+

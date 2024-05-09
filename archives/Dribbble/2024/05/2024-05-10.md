@@ -87,3 +87,9 @@
 
 + [Blockchain Wallet Landing Page](https://dribbble.com/shots/)
 
++ [Chase your fears. Not your dreams.](https://dribbble.com/shots/)
+
++ [St. John the Beloved Tertiary Logo](https://dribbble.com/shots/)
+
++ [big plant](https://dribbble.com/shots/)
+

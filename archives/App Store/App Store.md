@@ -213,3 +213,5 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
