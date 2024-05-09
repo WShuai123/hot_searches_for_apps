@@ -217,3 +217,11 @@
 
 + [轻小说改编动画《为何我的世界被遗忘了？》首个宣传预告放出 7月开播](https://www.3dmgame.com/news/202405/3894542.html)
 
++ [消息人士暗示《凯瑟琳：Full Body》PC版或即将到来](https://www.3dmgame.com/news/202405/3894548.html)
+
++ [巨人航空再现 《庄园领主》的新BUG能让角色飞入天际](https://www.3dmgame.com/news/202405/3894547.html)
+
++ [2D动作游戏《九魂的久远》试玩Demo上线 5月30日正式发售](https://www.3dmgame.com/news/202405/3894546.html)
+
++ [恐怖游戏《愿》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202405/3894545.html)
+

@@ -105,3 +105,31 @@
 
 + [Ahromm](https://www.producthunt.com/posts/ahromm)
 
++ [Voice Director by Replica Studios](https://www.producthunt.com/posts/voice-director-by-replica-studios)
+
++ [small.store](https://www.producthunt.com/posts/small-store)
+
++ [AlphaFold 3](https://www.producthunt.com/posts/alphafold-3)
+
++ [Wingleap](https://www.producthunt.com/posts/wingleap)
+
++ [RateMyJD by Dover](https://www.producthunt.com/posts/ratemyjd-by-dover)
+
++ [fwd2cal](https://www.producthunt.com/posts/fwd2cal)
+
++ [Subsvideo](https://www.producthunt.com/posts/subsvideo)
+
++ [Decibel Meter Ultra](https://www.producthunt.com/posts/decibel-meter-ultra)
+
++ [Business Model Patterns Card Deck](https://www.producthunt.com/posts/business-model-patterns-card-deck)
+
++ [TalentAgent](https://www.producthunt.com/posts/talentagent-2)
+
++ [Hello, Dot](https://www.producthunt.com/posts/hello-dot)
+
++ [Commented: Public Commenting](https://www.producthunt.com/posts/commented-public-commenting)
+
++ [Bubbl Widget](https://www.producthunt.com/posts/bubbl-widget)
+
++ [WeeBlok](https://www.producthunt.com/posts/weeblok)
+
