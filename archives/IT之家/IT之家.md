@@ -37,3 +37,7 @@
 
 + [vivo X100 Ultra 手机前摄搭载 JN1 传感器，4K 60 帧拍摄、自动对焦](https://m.ithome.com/html/766537.htm)
 
++ [排名第 1，华为 Pura 70 Ultra 手机 DXOMARK 影像测试总分 163](https://m.ithome.com/html/766619.htm)
+
++ [“Air”不再代表轻薄？2024 款苹果 iPad Air 竟比 iPad Pro 更重](https://m.ithome.com/html/766571.htm)
+

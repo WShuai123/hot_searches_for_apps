@@ -119,3 +119,7 @@
 
 + [家庭电竞趴《任天堂世界锦标赛FC世界大会》正式官宣](https://www.3dmgame.com/news/202405/3894491.html)
 
++ [《死亡岛2》玩家人数已超700万 官方计划推出新更新](https://www.3dmgame.com/news/202405/3894496.html)
+
++ [EA认为生成式AI将帮助他们 带来更具沉浸感的游戏](https://www.3dmgame.com/news/202405/3894497.html)
+
