@@ -161,3 +161,31 @@
 
 + [《三角洲行动》黑鹰坠落登陆UE5 战役实机首曝](https://www.3dmgame.com/news/202405/3894498.html)
 
++ [圆谷问了问X的AI喜欢什么奥特曼 赛罗奥特曼当选](https://www.3dmgame.com/news/202405/3894529.html)
+
++ [《疯狂麦克斯：狂暴女神》全新预告 5月24日上映](https://www.3dmgame.com/news/202405/3894528.html)
+
++ [《绝地潜兵2》总监同意玩家：平衡削弱有些过头了](https://www.3dmgame.com/news/202405/3894527.html)
+
++ [城市建造类肉鸽卡牌游戏《技托邦》 现已登录Steam平台](https://www.3dmgame.com/news/202405/3894526.html)
+
++ [《魔女之泉R》宣布8月29日登陆主机平台 支持中文](https://www.3dmgame.com/news/202405/3894525.html)
+
++ [《超时空方舟》累计销量已达30万 更多内容更新开发中](https://www.3dmgame.com/news/202405/3894530.html)
+
++ [多个大V批评《地狱之刃2》宣传太随意：一句话+一张图](https://www.3dmgame.com/news/202405/3894524.html)
+
++ [太空模拟《精英危险》因卖现金船引大量Steam差评](https://www.3dmgame.com/news/202405/3894523.html)
+
++ [《漫威争锋》新英雄“海拉”预告 5月10日开启封闭A测](https://www.3dmgame.com/news/202405/3894520.html)
+
++ [马克·哈米尔为《华纳大乱斗》中的小丑惊喜献声](https://www.3dmgame.com/news/202405/3894521.html)
+
++ [网传三上真司离职时带走大量员工 玩家们认为传言不可信](https://www.3dmgame.com/news/202405/3894519.html)
+
++ [《女神转生》画师金子一马主创新游《project MASK》公开](https://www.3dmgame.com/news/202405/3894522.html)
+
++ [《骰号玩家》Steam页面上线 2024年第三季度发售](https://www.3dmgame.com/news/202405/3894517.html)
+
++ [罗素兄弟公司AGBO成立新技术部门 前Epic老将加盟](https://www.3dmgame.com/news/202405/3894518.html)
+
