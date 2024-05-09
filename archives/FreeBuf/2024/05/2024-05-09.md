@@ -49,3 +49,7 @@
 
 + [专访赵军利 | 困难级开局，如何从0到1建设安全体系](https://www.freebuf.com/articles/people/399681.html)
 
++ [TunnelVision安全漏洞曝光，几乎可监听所有VPN](https://www.freebuf.com/news/400347.html)
+
++ [F5管理器现漏洞，能让攻击者开设账户并长期潜伏](https://www.freebuf.com/news/400364.html)
+

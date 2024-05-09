@@ -189,3 +189,23 @@
 
 + [罗素兄弟公司AGBO成立新技术部门 前Epic老将加盟](https://www.3dmgame.com/news/202405/3894518.html)
 
++ [谷歌革命性AI模型登上Nature 成功预测有生命分子结构和相互作用！](https://www.3dmgame.com/news/202405/3894536.html)
+
++ [豆瓣评分9.5 电影《坂本龙一：杰作》国内定档5月31日](https://www.3dmgame.com/news/202405/3894537.html)
+
++ [《Adventure Bar Story》登陆Steam 复古酒吧经营](https://www.3dmgame.com/news/202405/3894538.html)
+
++ [《堡垒之夜》尤达背包BUG导致崩溃 已暂时禁用](https://www.3dmgame.com/news/202405/3894539.html)
+
++ [箭头CEO知错就改 《绝地潜兵2》新债券将投票确定何时推出](https://www.3dmgame.com/news/202405/3894540.html)
+
++ [《亚路塔》抢先体验发售日公布 5月16日EA发售](https://www.3dmgame.com/news/202405/3894531.html)
+
++ [思路清奇 90后男生新房全是毛坯唯卧室精装电竞房](https://www.3dmgame.com/news/202405/3894532.html)
+
++ [EA正考虑游戏内加入广告 将采取“深思熟虑”的方式](https://www.3dmgame.com/news/202405/3894533.html)
+
++ [黑色风格推理冒险游戏《死后侦查》现已登录Steam平台](https://www.3dmgame.com/news/202405/3894534.html)
+
++ [真人互动小说《失业了，我获得了亿万游戏财产！》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3894535.html)
+

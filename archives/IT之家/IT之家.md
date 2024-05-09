@@ -43,3 +43,7 @@
 
 + [免 Root 运行的类 Xposed 框架“太极”永久停止更新、维护](https://m.ithome.com/html/766614.htm)
 
++ [苹果 M4 款 iPad Pro 跑分出炉：Geekbench 6 单多核相比 M2 提升 48.37% 及 52.44%](https://m.ithome.com/html/766623.htm)
+
++ [百度副总裁璩静深夜致歉：发布短视频未征求公司意见，不代表公司立场](https://m.ithome.com/html/766630.htm)
+
