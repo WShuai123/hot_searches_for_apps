@@ -225,3 +225,19 @@
 
 + [恐怖游戏《愿》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202405/3894545.html)
 
++ [《星刃》中文赞誉宣传片：伊芙超吸睛 必玩之作！](https://www.3dmgame.com/news/202405/3894557.html)
+
++ [目标是成为第十三位生肖！肉鸽动作游戏《13Z》公开Steam商店页](https://www.3dmgame.com/news/202405/3894549.html)
+
++ [经典好评2D冒险名作《兔子之夜》登陆Switch](https://www.3dmgame.com/news/202405/3894554.html)
+
++ [《蟹蟹寻宝奇遇》全平台销量突破15万 会定期发布更新](https://www.3dmgame.com/news/202405/3894555.html)
+
++ [KK官方对战平台新图推荐，僵尸围城危机四伏，一人一狗艰难求生](https://www.3dmgame.com/news/202405/3894552.html)
+
++ [《方舟：生存飞升》引入高人气生物附加模组，角龙概念图曝光](https://www.3dmgame.com/news/202405/3894551.html)
+
++ [《人类一败涂地》Switch国行首发创佳绩 登顶e商店排行榜首](https://www.3dmgame.com/news/202405/3894550.html)
+
++ [《书恋与君：美少女教我追系花》Steam页面 年内发售](https://www.3dmgame.com/news/202405/3894553.html)
+
