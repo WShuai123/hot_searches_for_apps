@@ -65,3 +65,5 @@
 
 + [2099 元起，realme 真我 GT Neo6 手机发布：搭载高通骁龙 8s Gen3 处理器](https://m.ithome.com/html/766738.htm)
 
++ [消息称小米将不再以 Redmi 品牌发布路由器](https://m.ithome.com/html/766813.htm)
+
