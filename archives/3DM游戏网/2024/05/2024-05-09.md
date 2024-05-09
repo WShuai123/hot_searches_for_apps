@@ -241,3 +241,15 @@
 
 + [《书恋与君：美少女教我追系花》Steam页面 年内发售](https://www.3dmgame.com/news/202405/3894553.html)
 
++ [华纳兄弟探索公司或又将裁员 流媒体订阅即将涨价](https://www.3dmgame.com/news/202405/3894562.html)
+
++ [阿里云发布通义千问2.5 全面赶超GPT-4 Turbo](https://www.3dmgame.com/news/202405/3894561.html)
+
++ [《Project Asteroids》Steam上线 太空探索生存](https://www.3dmgame.com/news/202405/3894560.html)
+
++ [《七日杀》开发商新作 《七日血月》新实机演示公布](https://www.3dmgame.com/news/202405/3894559.html)
+
++ [未开售就破发千元！苹果新iPad Pro上线拼多多百亿补贴：7999元起](https://www.3dmgame.com/news/202405/3894558.html)
+
++ [《漫威争锋》内测大量英雄技能游戏内演示视频](https://www.3dmgame.com/news/202405/3894556.html)
+
