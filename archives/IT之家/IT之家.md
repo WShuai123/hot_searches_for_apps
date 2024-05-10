@@ -39,3 +39,7 @@
 
 + [秒批？工作软件显示百度副总裁璩静确已离职](https://m.ithome.com/html/766835.htm)
 
++ [华为官网更新管理层信息：余承东由终端 BG CEO 变更为终端 BG 董事长](https://m.ithome.com/html/766892.htm)
+
++ [科大讯飞董事长刘庆峰谈购买蔚来第 50 万辆车：快得超过自己的迈巴赫](https://m.ithome.com/html/766754.htm)
+

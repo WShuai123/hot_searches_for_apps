@@ -53,3 +53,5 @@
 
 + [保护人工智能，网络安全专业人士责无旁贷](https://www.freebuf.com/news/400461.html)
 
++ [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
+

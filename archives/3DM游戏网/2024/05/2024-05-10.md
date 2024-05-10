@@ -207,3 +207,7 @@
 
 + [《生化危机2》新MOD让26年前的愚人节玩笑成为现实](https://www.3dmgame.com/news/202405/3894626.html)
 
++ [《熊家餐馆》第三季首个预告片放出 6月27日上线Hulu](https://www.3dmgame.com/news/202405/3894639.html)
+
++ [5月15日，《美女，应接不暇》互动游戏，让你成为情感世界的大牛！](https://www.3dmgame.com/news/202405/3894640.html)
+
