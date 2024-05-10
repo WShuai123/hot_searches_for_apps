@@ -55,3 +55,5 @@
 
 + [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
 
++ [RSAC 2024：AI安全已经刻不容缓](https://www.freebuf.com/news/400461.html)
+
