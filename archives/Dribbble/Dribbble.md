@@ -49,3 +49,23 @@
 
 + [Data & Compute - Spot Illustrations](https://dribbble.com/shots/)
 
++ [Grrz](https://dribbble.com/shots/)
+
++ [Fallout](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+
++ [Caring - Mid-Century Illustrated Poster Design](https://dribbble.com/shots/)
+
++ [Tree of Life](https://dribbble.com/shots/)
+
++ [St. John the Beloved Tertiary Logo](https://dribbble.com/shots/)
+
++ [Vanstock Poster Design](https://dribbble.com/shots/)
+
++ [Interconnected world](https://dribbble.com/shots/)
+
++ [がんばれ 父ちゃん (Ganbare Tozzang)](https://dribbble.com/shots/)
+
++ [Marketers over Artists?](https://dribbble.com/shots/)
+
