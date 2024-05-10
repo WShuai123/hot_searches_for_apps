@@ -43,3 +43,7 @@
 
 + [科大讯飞董事长刘庆峰谈购买蔚来第 50 万辆车：快得超过自己的迈巴赫](https://m.ithome.com/html/766754.htm)
 
++ [史上首次！中芯国际成全球第二大纯晶圆代工厂，营收仅次于台积电](https://m.ithome.com/html/766983.htm)
+
++ [哪吒 L 明日首批交付，CEO 张勇称将鞠躬 90 度为车主开车门](https://m.ithome.com/html/766849.htm)
+

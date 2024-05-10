@@ -101,3 +101,21 @@
 
 + [Weeblok](https://www.producthunt.com/posts/weeblok)
 
++ [Photo Tape](https://www.producthunt.com/posts/photo-tape)
+
++ [ManyExcel](https://www.producthunt.com/posts/manyexcel)
+
++ [HyperURLs](https://www.producthunt.com/posts/hyperurls)
+
++ [504 English Vocabulary Dictionary](https://www.producthunt.com/posts/504-english-vocabulary-dictionary)
+
++ [Balance](https://www.producthunt.com/posts/balance-3698d76d-dd09-46ee-83eb-9153e61e8bb2)
+
++ [Meeting Reminders](https://www.producthunt.com/posts/meeting-reminders)
+
++ [Upp.Vote](https://www.producthunt.com/posts/upp-vote)
+
++ [Otto - your personal biographer](https://www.producthunt.com/posts/otto-your-personal-biographer)
+
++ [Clipwing](https://www.producthunt.com/posts/clipwing)
+

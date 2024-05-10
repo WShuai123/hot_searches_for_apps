@@ -215,3 +215,15 @@
 
 + [人死后聊天记录会被怎样处理 专家：所有权归腾讯公司所有](https://www.3dmgame.com/news/202405/3894641.html)
 
++ [Devolver Digital创始人：Switch机主更亲近独立游戏](https://www.3dmgame.com/news/202405/3894644.html)
+
++ [传闻：《生化危机9》可能有多位主角 48岁的里昂是其中之一](https://www.3dmgame.com/news/202405/3894645.html)
+
++ [《寂静之地：入侵日》新预告 6月28日北美上映](https://www.3dmgame.com/news/202405/3894646.html)
+
++ [不止恋爱！可玩性，游戏性更强的真人互动游戏惊现steam商店页](https://www.3dmgame.com/news/202405/3894647.html)
+
++ [Y3高校大赛《七裔》团队专访：大胆热爱，拥抱无限可能_Y3编辑器](https://www.3dmgame.com/news/202405/3894648.html)
+
++ [硬核种田实至名归 《天穗之咲稻姬》宣布与日本农业协同组合合作](https://www.3dmgame.com/news/202405/3894643.html)
+
