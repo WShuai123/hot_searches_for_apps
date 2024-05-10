@@ -67,3 +67,9 @@
 
 + [比亚迪 SHARK（鲨鱼）皮卡官图亮相：方程豹豹 5 同平台，5 月 14 日发布](https://m.ithome.com/html/766858.htm)
 
++ [新款奔驰 C 级车型上市：33.48 万元起，260 行车记录仪由标配变选装](https://m.ithome.com/html/766967.htm)
+
++ [消息称高通骁龙 8 Gen 4 机型理论性能亮眼：支持原生 1080P 分辨率《原神》](https://m.ithome.com/html/767057.htm)
+
++ [未达宣传预期目标，苹果致歉并撤回 iPad 宣传视频《Crush》](https://m.ithome.com/html/766870.htm)
+
