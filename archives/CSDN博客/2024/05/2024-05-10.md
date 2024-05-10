@@ -159,3 +159,11 @@
 
 + [iPhone 数据恢复软件 – 恢复丢失的 iPhone 数据](https://blog.csdn.net/qq_23996309/article/details/138557900)
 
++ [AI时代：人工智能大模型引领科技创造新时代](https://blog.csdn.net/smile_sundays/article/details/138487520)
+
++ [AI智能化逐渐趋于成熟后，预测今后最吃香的开发职业](https://blog.csdn.net/xingyu_qie/article/details/138604878)
+
++ [2.外卖点餐系统（Java项目 springboot）](https://blog.csdn.net/qq_24907431/article/details/138320681)
+
++ [用手势掌控PPT，玩转演示新姿势](https://blog.csdn.net/chinagaobo/article/details/138608730)
+

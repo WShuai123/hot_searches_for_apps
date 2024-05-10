@@ -141,3 +141,41 @@
 
 + [微软前高管：收购动视暴雪花费巨大 微软被迫裁员关闭工作室](https://www.3dmgame.com/news/202405/3894600.html)
 
++ [《异度神剑3》弥央手办欣赏 黑丝妹太诱人了](https://www.3dmgame.com/news/202405/3894623.html)
+
++ [《黑帝斯2》抢先体验版突然发布 让其他小工作室不满](https://www.3dmgame.com/news/202405/3894616.html)
+
++ [纸嫁衣团队作品《黑暗笔录》，5月24日上线Steam。](https://www.3dmgame.com/news/202405/3894622.html)
+
++ [《DayZ》大型更新《霜线》公开  冰雪群岛登场](https://www.3dmgame.com/news/202405/3894621.html)
+
++ [《Sliding Hero》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202405/3894619.html)
+
++ [生存游戏《DayZ》全新DLC《寒霜线》上架Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202405/3894618.html)
+
++ [越南被突然封禁Steam 幕后推手或为本国游戏公司](https://www.3dmgame.com/news/202405/3894624.html)
+
++ [《小猫咪大城市》正式发售！首发限时折扣仅需59元](https://www.3dmgame.com/news/202405/3894620.html)
+
++ [《电锯甜心RePOP》将添加新服装和新发色 实体版计划中](https://www.3dmgame.com/news/202405/3894615.html)
+
++ [任天堂：Switch 2发布时间还没讨论 大概率不在本财年内](https://www.3dmgame.com/news/202405/3894617.html)
+
++ [视觉小说角色扮演游戏《玻璃鱼缸》现已推出试玩Demo](https://www.3dmgame.com/news/202405/3894613.html)
+
++ [《Cryptmaster》登陆PC平台 全语音操控地下城探索](https://www.3dmgame.com/news/202405/3894612.html)
+
++ [2024年世界电子游戏名人堂名单公布：《生化危机》等](https://www.3dmgame.com/news/202405/3894611.html)
+
++ [《服装店模拟》Steam页面上线 6月发售](https://www.3dmgame.com/news/202405/3894610.html)
+
++ [华硕公开新掌上游戏电脑ROG Ally X 6月2日全面亮相](https://www.3dmgame.com/news/202405/3894608.html)
+
++ [《街霸6》追加角色“豪鬼”实机 5月22日参战](https://www.3dmgame.com/news/202405/3894607.html)
+
++ [跑团动画《机械之声传奇》第三季将于秋季开始放送](https://www.3dmgame.com/news/202405/3894606.html)
+
++ [《消逝的光芒》 标准版重新上架 10元入手好评如潮经典丧尸游戏](https://www.3dmgame.com/news/202405/3894614.html)
+
++ [吉田直树：《最终幻想16》开发成本给我留下深刻印象](https://www.3dmgame.com/news/202405/3894609.html)
+

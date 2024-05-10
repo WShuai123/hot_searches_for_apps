@@ -33,3 +33,7 @@
 
 + [2024 年中国品牌价值 500 强发布，抖音升至第一](https://m.ithome.com/html/766824.htm)
 
++ [增程版 18.98 万元 / 纯电版 22.98 万元起：奇瑞星途星纪元 ET 正式上市](https://m.ithome.com/html/766839.htm)
+
++ [张朝阳：自己两次错过腾讯，QQ 面对搜狐收购曾报价 9000 万美元](https://m.ithome.com/html/766821.htm)
+

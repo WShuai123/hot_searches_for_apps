@@ -47,3 +47,7 @@
 
 + [等保2.0 | 物联网安全扩展要求](https://www.freebuf.com/articles/network/400199.html)
 
++ [FreeBuf 观察 | 网络安全行业政策法规（4 月）](https://www.freebuf.com/articles/neopoints/399313.html)
+
++ [影响4900万客户！戴尔数据遭泄露，涉及姓名、住址等信息](https://www.freebuf.com/news/400446.html)
+
