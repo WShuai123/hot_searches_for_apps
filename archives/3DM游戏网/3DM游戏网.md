@@ -179,3 +179,31 @@
 
 + [吉田直树：《最终幻想16》开发成本给我留下深刻印象](https://www.3dmgame.com/news/202405/3894609.html)
 
++ [《绝地潜兵2》的“平衡”：新枪所有数值低于初始武器](https://www.3dmgame.com/news/202405/3894636.html)
+
++ [《艾尔登法环》“黄金树幽影”预购宣传片 6月21日上线](https://www.3dmgame.com/news/202405/3894638.html)
+
++ [《兔子与钢铁》登陆Steam 肉鸽动作射击](https://www.3dmgame.com/news/202405/3894637.html)
+
++ [传闻：卡普空《虚实万象》是一款动作叙事游戏 故事大纲泄露](https://www.3dmgame.com/news/202405/3894635.html)
+
++ [创维汽车创始人再称其车能“缓解高血压”多方回应](https://www.3dmgame.com/news/202405/3894634.html)
+
++ [由真实事件改编！剧情向解谜游戏《全网公敌2 新世界》现已发售！](https://www.3dmgame.com/news/202405/3894633.html)
+
++ [波音公司去年43GB数据泄露 拒向黑客支付2亿美元赎金](https://www.3dmgame.com/news/202405/3894632.html)
+
++ [前暴雪Epic员工工作室Lightforge几乎解散 开发暂停](https://www.3dmgame.com/news/202405/3894631.html)
+
++ [恶搞向点击冒险游戏《埃隆》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3894630.html)
+
++ [《宝可梦：大集结》国服宣布付费删档测试 6月中旬开启](https://www.3dmgame.com/news/202405/3894629.html)
+
++ [CWA工会批评微软关闭工作室：看不到尊重和共情](https://www.3dmgame.com/news/202405/3894627.html)
+
++ [微软将于7月推出移动游戏商店 与谷歌和苹果竞争](https://www.3dmgame.com/news/202405/3894625.html)
+
++ [好评如潮《动物井》登陆多平台 2D横版动作解谜](https://www.3dmgame.com/news/202405/3894628.html)
+
++ [《生化危机2》新MOD让26年前的愚人节玩笑成为现实](https://www.3dmgame.com/news/202405/3894626.html)
+

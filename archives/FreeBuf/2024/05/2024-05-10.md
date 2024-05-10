@@ -51,3 +51,5 @@
 
 + [影响4900万客户！戴尔数据遭泄露，涉及姓名、住址等信息](https://www.freebuf.com/news/400446.html)
 
++ [保护人工智能，网络安全专业人士责无旁贷](https://www.freebuf.com/news/400461.html)
+

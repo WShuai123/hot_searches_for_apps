@@ -37,3 +37,5 @@
 
 + [张朝阳：自己两次错过腾讯，QQ 面对搜狐收购曾报价 9000 万美元](https://m.ithome.com/html/766821.htm)
 
++ [秒批？工作软件显示百度副总裁璩静确已离职](https://m.ithome.com/html/766835.htm)
+
