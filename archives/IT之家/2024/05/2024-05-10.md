@@ -55,3 +55,5 @@
 
 + [华为 P60、Mate50 系列手机推送鸿蒙 HarmonyOS 4.2.0.120 Beta 版：新增 AOD 互动主题](https://m.ithome.com/html/766843.htm)
 
++ [史上最薄苹果设备！IT之家现场实拍上手 2024 款 iPad Pro、iPad Air 系列新品](https://m.ithome.com/html/766946.htm)
+
