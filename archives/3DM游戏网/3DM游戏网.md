@@ -227,3 +227,15 @@
 
 + [硬核种田实至名归 《天穗之咲稻姬》宣布与日本农业协同组合合作](https://www.3dmgame.com/news/202405/3894643.html)
 
++ [今日正式发售《转生为领主开始冒险吧》异世界征程一触即发！](https://www.3dmgame.com/news/202405/3894653.html)
+
++ [程序员代码过于复杂 致使《最终幻想3》时隔16年才进行移植](https://www.3dmgame.com/news/202405/3894654.html)
+
++ [预告的预告 《魔兽世界》国服回归详情6月6日公布](https://www.3dmgame.com/news/202405/3894649.html)
+
++ [少女青春群像剧漫画作品《淡岛百景》宣布动画化](https://www.3dmgame.com/news/202405/3894650.html)
+
++ [《暗黑4》内部测试是“诅咒”：要测试就得放弃人生](https://www.3dmgame.com/news/202405/3894651.html)
+
++ [《梦魇卡丁车》Steam页面上线 致敬血源诅咒衍生](https://www.3dmgame.com/news/202405/3894652.html)
+
