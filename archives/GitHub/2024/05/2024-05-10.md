@@ -51,3 +51,31 @@
 
 + [HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)
 
++ [lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light)
+
++ [sophiajt / june](https://github.com/sophiajt/june)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+
++ [a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant)
+
++ [CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
+
++ [KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+
++ [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [ClickHouse / ClickHouse](https://github.com/ClickHouse/ClickHouse)
+
++ [CesiumGS / cesium](https://github.com/CesiumGS/cesium)
+

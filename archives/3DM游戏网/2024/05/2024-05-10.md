@@ -283,3 +283,11 @@
 
 + [澳门又要全民发钱 永居每人1万非永居6000](https://www.3dmgame.com/news/202405/3894666.html)
 
++ [张朝阳：两次错过腾讯 QQ面对搜狐收购曾报价9000万美元](https://www.3dmgame.com/news/202405/3894680.html)
+
++ [《真·女神转生Ⅴ Vengeance》最新资讯：新恶魔、新迷宫、强化主角等内容](https://www.3dmgame.com/news/202405/3894678.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》公开本作的战斗系统及最新相关资讯](https://www.3dmgame.com/news/202405/3894679.html)
+
++ [《全面战争：法老》将更新免费战役地图 用全新的文明、部队与机制称霸青铜时代](https://www.3dmgame.com/news/202405/3894677.html)
+
