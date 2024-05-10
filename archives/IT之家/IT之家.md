@@ -61,3 +61,9 @@
 
 + [消息称小米 15 样机配备 1.5K 新基材极窄直屏，正在测超声波指纹](https://m.ithome.com/html/766906.htm)
 
++ [哪吒 L 汽车首批交付现场：CEO 张勇深鞠躬，亲自给车主开门](https://m.ithome.com/html/766952.htm)
+
++ [vivo X100s 手机外观照公布：7.8mm 厚度，首发“四季人像”功能](https://m.ithome.com/html/766978.htm)
+
++ [比亚迪 SHARK（鲨鱼）皮卡官图亮相：方程豹豹 5 同平台，5 月 14 日发布](https://m.ithome.com/html/766858.htm)
+
