@@ -239,3 +239,19 @@
 
 + [《梦魇卡丁车》Steam页面上线 致敬血源诅咒衍生](https://www.3dmgame.com/news/202405/3894652.html)
 
++ [《塞尔达传说：王国之泪》原声大碟公布 限定内容丰富](https://www.3dmgame.com/news/202405/3894658.html)
+
++ [《巫师》剧集第四季现场照 杰洛特新服装太现代化](https://www.3dmgame.com/news/202405/3894659.html)
+
++ [魏建军：长城灵魂摩托不止有V8发动机 还有DCT变速器](https://www.3dmgame.com/news/202405/3894660.html)
+
++ [横尾太郎收到金亨泰赠送的《星刃》 想玩却担心晕3D](https://www.3dmgame.com/news/202405/3894661.html)
+
++ [漫威《神奇四侠》电影反派行星吞噬者演员确认](https://www.3dmgame.com/news/202405/3894662.html)
+
++ [铁路生存模拟游戏 《西伯利亚铁路模拟器》5月30日EA发售](https://www.3dmgame.com/news/202405/3894655.html)
+
++ [世嘉计划将《如龙》《索尼克》《女神异闻录》变“年货”](https://www.3dmgame.com/news/202405/3894656.html)
+
++ [《符文工房》开发商Marvelous本财年将发售两款未公布新作 登陆主机和PC](https://www.3dmgame.com/news/202405/3894657.html)
+

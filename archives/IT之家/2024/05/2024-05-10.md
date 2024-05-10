@@ -51,3 +51,5 @@
 
 + [李彦宏内部点评璩静事件：优秀员工才代表真实的百度](https://m.ithome.com/html/766911.htm)
 
++ [WPS 被指套娃式收费，内部人士称“会员使用 AI 功能福利期已到”](https://m.ithome.com/html/766942.htm)
+
