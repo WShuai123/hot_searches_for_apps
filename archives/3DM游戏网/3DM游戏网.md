@@ -293,3 +293,5 @@
 
 + [苹果或采用了Armv9架构 从而让M4有更强的单核和多核性能](https://www.3dmgame.com/news/202405/3894681.html)
 
++ [坤哥：《战神：诸神黄昏》将移植登陆到PC平台 即将官宣](https://www.3dmgame.com/news/202405/3894682.html)
+

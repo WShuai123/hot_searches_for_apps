@@ -167,3 +167,53 @@
 
 + [用手势掌控PPT，玩转演示新姿势](https://blog.csdn.net/chinagaobo/article/details/138608730)
 
++ [JavaScript 进阶征途：解锁Function奥秘，深掘Object方法精髓](https://blog.csdn.net/2201_75539691/article/details/138636593)
+
++ [【mysql】mysql导入导出数据详解](https://blog.csdn.net/littlefun591/article/details/138653804)
+
++ [C#进阶-OleDb操作Excel和数据库](https://blog.csdn.net/weixin_41793160/article/details/138632771)
+
++ [【MySQL数据库】丨一文详解 JdbcTemplate(Spring中的CRUD)](https://blog.csdn.net/m0_63947499/article/details/138355071)
+
++ [回顾苹果 AI 布局：迟到的王，迎接关键一战](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/138639108)
+
++ [第二篇【AI与传奇开心果系列】Python的AI技术点库案例示例:详解AI工业应用算法原理](https://blog.csdn.net/jackchuanqi/article/details/138385980)
+
++ [（13）配置飞行中的FFT（一）](https://blog.csdn.net/qq_20016593/article/details/138491883)
+
++ [JS执行原理大揭秘：事件循环Event Loop与宏任务、微任务](https://blog.csdn.net/weixin_43288600/article/details/138663619)
+
++ [Go 使用 MongoDB](https://blog.csdn.net/rubys007/article/details/138654737)
+
++ [【DevOps】Ubuntu防火墙配置：如何封禁黑客攻击源IP](https://blog.csdn.net/benshu_001/article/details/138578144)
+
++ [【GaussDB(for MySQL)】 Big IN查询优化](https://blog.csdn.net/devcloud/article/details/138617892)
+
++ [计算机网络-网络层](https://blog.csdn.net/fffffall/article/details/138626802)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/dexi113/article/details/138663859)
+
++ [Elasticsearch 索引、类型、文档、分片与副本等核心概念介绍](https://blog.csdn.net/weixin_53269650/article/details/138609908)
+
++ [【千帆平台】使用AppBuilder零代码创建应用，然后通过OpenAPI方式调用应用](https://blog.csdn.net/lmy_520/article/details/138617759)
+
++ [Redis（无中心化集群搭建）](https://blog.csdn.net/m0_64637029/article/details/138631930)
+
++ [2024数维杯数学建模A题B题C题思路+模型+代码（开赛后第一时间更新）](https://blog.csdn.net/qq_52590045/article/details/138608864)
+
++ [【MySQL基本查询（上）】](https://blog.csdn.net/w2915w/article/details/138585901)
+
++ [云南区块链商户平台：抓包技术自制开票工具(一)](https://blog.csdn.net/qq_35230125/article/details/138656754)
+
++ [【Linux】项目自动化构建工具make/makefile](https://blog.csdn.net/m0_68617301/article/details/138618059)
+
++ [Blazor/Hybird 触屏下单程序调优笔记](https://blog.csdn.net/alex_zoucn/article/details/138645101)
+
++ [测试项目实战——安享理财1（测试用例）](https://blog.csdn.net/qq_48584557/article/details/138586705)
+
++ [缓存相关问题：雪崩、穿透、预热、更新、降级的深度解析](https://blog.csdn.net/2201_75809246/article/details/138636741)
+
++ [AJAX知识点(前后端交互技术)](https://blog.csdn.net/guai_guai_guai/article/details/138510476)
+
++ [YOLOv5改进 | 独家创新篇 | 利用MobileNetV4的UIB模块二次创新C3（全网独家首发）](https://blog.csdn.net/java1314777/article/details/138634397)
+

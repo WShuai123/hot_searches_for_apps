@@ -57,3 +57,7 @@
 
 + [史上最薄苹果设备！IT之家现场实拍上手 2024 款 iPad Pro、iPad Air 系列新品](https://m.ithome.com/html/766946.htm)
 
++ [路由器聚焦 Xiaomi 品牌，小米高管回应不再发布 Redmi 路由器言论](https://m.ithome.com/html/767020.htm)
+
++ [消息称小米 15 样机配备 1.5K 新基材极窄直屏，正在测超声波指纹](https://m.ithome.com/html/766906.htm)
+
