@@ -109,3 +109,11 @@
 
 + [仅需349元！诺基亚复古备机回归：已彻底退出智能机市场](https://www.3dmgame.com/news/202405/3894690.html)
 
++ [37岁打工猫的日常《猫妖小杏》预告片曝光](https://www.3dmgame.com/news/202405/3894695.html)
+
++ [《午夜杀生重制版》曝光吸血鬼猎人克里斯托夫预告](https://www.3dmgame.com/news/202405/3894694.html)
+
++ [苏打绿与孩子们共享任天堂Switch游戏乐趣](https://www.3dmgame.com/news/202405/3894693.html)
+
++ [任天堂社长称游戏开发资源持续扩充 加强外部合作](https://www.3dmgame.com/news/202405/3894692.html)
+
