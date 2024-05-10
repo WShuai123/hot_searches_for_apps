@@ -29,3 +29,7 @@
 
 + [2024 款 iPad Pro 成苹果史上最薄设备，怀旧广告致敬 iPod nano](https://m.ithome.com/html/766750.htm)
 
++ [199900 日元，小米 14 Ultra 手机登陆日本市场](https://m.ithome.com/html/766842.htm)
+
++ [2024 年中国品牌价值 500 强发布，抖音升至第一](https://m.ithome.com/html/766824.htm)
+

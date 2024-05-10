@@ -117,3 +117,15 @@
 
 + [任天堂新主机曝光配备12G内存及256G高速闪存](https://www.3dmgame.com/news/202405/3894587.html)
 
++ [科乐美财报：利润比上年创纪录地增长了70%](https://www.3dmgame.com/news/202405/3894599.html)
+
++ [英伟达：GTX10系列显卡游玩《铁拳8》可能随机崩溃](https://www.3dmgame.com/news/202405/3894598.html)
+
++ [《吸血鬼幸存者》联动《魂斗罗》DLC已推出 售11.25元](https://www.3dmgame.com/news/202405/3894597.html)
+
++ [《自杀小队》的失败 让华纳兄弟损失了2亿美元收入](https://www.3dmgame.com/news/202405/3894596.html)
+
++ [《美国卡车模拟》新DLC“内布拉斯加”发行日公布](https://www.3dmgame.com/news/202405/3894595.html)
+
++ [《黎明杀机》与《龙与地下城》联动公布](https://www.3dmgame.com/news/202405/3894594.html)
+
