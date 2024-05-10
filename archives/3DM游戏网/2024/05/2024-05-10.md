@@ -255,3 +255,31 @@
 
 + [《符文工房》开发商Marvelous本财年将发售两款未公布新作 登陆主机和PC](https://www.3dmgame.com/news/202405/3894657.html)
 
++ [在超级游艇人生任务中勇闯公海，获得双倍GTAOL游戏币和声望值](https://www.3dmgame.com/news/202405/3894676.html)
+
++ [《塞尔达传说：王国之泪》新周边 官方设定集和大师之剑3D模型公布](https://www.3dmgame.com/news/202405/3894672.html)
+
++ [《幻想地球（Imagine Earth）》今日正式登陆苹果macOS平台](https://www.3dmgame.com/news/202405/3894675.html)
+
++ [献祭人民，妖怪治国？《我的可爱妻子》续作《我的可爱皇后》亮相叙事游戏节](https://www.3dmgame.com/news/202405/3894674.html)
+
++ [《鬼灭之刃 争当最强队士！》  7月17日登陆PC等平台](https://www.3dmgame.com/news/202405/3894673.html)
+
++ [《Rewrite 收获祭》Steam上线 Key社恋爱名作](https://www.3dmgame.com/news/202405/3894671.html)
+
++ [苹果在中国1年收400亿苹果税：抽佣率为全球最高标准](https://www.3dmgame.com/news/202405/3894670.html)
+
++ [探索冒险游戏《界》steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202405/3894669.html)
+
++ [KK官方对战平台 游戏美女天团齐聚KK，“竞聘”上岗代言RPG新图](https://www.3dmgame.com/news/202405/3894668.html)
+
++ [安卓旗舰越来越贵！高通骁龙8历代芯片价格曝光 10年翻了近5倍](https://www.3dmgame.com/news/202405/3894667.html)
+
++ [马斯克：特斯拉今年将斥资超5亿美元扩大超充网络 新建数千座充电站](https://www.3dmgame.com/news/202405/3894665.html)
+
++ [微信严打公众号网络辱骂行为：一经发现将封号等处罚](https://www.3dmgame.com/news/202405/3894664.html)
+
++ [OPUS 游戏系列宣布与电影《错过你的那些年》特别联动！](https://www.3dmgame.com/news/202405/3894663.html)
+
++ [澳门又要全民发钱 永居每人1万非永居6000](https://www.3dmgame.com/news/202405/3894666.html)
+
