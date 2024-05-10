@@ -101,3 +101,61 @@
 
 + [OpenNJet应用引擎——云原生时代的Web服务新选择](https://blog.csdn.net/m0_68089732/article/details/138507689)
 
++ [【数据可视化-03】Pandas图形实战宝典](https://blog.csdn.net/qq_38614074/article/details/138611688)
+
++ [制造业的智慧进化：机器学习与人工智能的全方位渗透](https://blog.csdn.net/g310773517/article/details/138604424)
+
++ [大模型的不足与解决方案](https://blog.csdn.net/weixin_42250835/article/details/138589832)
+
++ [【GaussTech速递】数据库技术解读之细粒度资源管控](https://blog.csdn.net/GaussDB/article/details/138604815)
+
++ [【前端热门框架【vue框架】】——对组件进行更加简洁合理的处理和解释（一）](https://blog.csdn.net/2301_77628600/article/details/138588555)
+
++ [2024 Flutter 一季度热门 issue/roadmap 进展和个人感触闲聊](https://blog.csdn.net/ZuoYueLiang/article/details/138561394)
+
++ [AI大模型探索之路-训练篇18：大语言模型预训练-微调技术之Prompt Tuning](https://blog.csdn.net/xiaobing259/article/details/138595171)
+
++ [C++进阶之路：深入理解编程范式，从面向过程到面向对象（类与对象_上篇）](https://blog.csdn.net/Srlua/article/details/138497858)
+
++ [JavaScript 垃圾回收机制深度解析：内存管理的艺术](https://blog.csdn.net/m0_52827996/article/details/138585144)
+
++ [Python| 水文 |基于动态规划的单水库调度最大削峰+案例验证](https://blog.csdn.net/weixin_67437706/article/details/138586416)
+
++ [本地搭建springboot服务并实现公网远程调试本地接口](https://blog.csdn.net/qyj19920704/article/details/138626260)
+
++ [如何在 Ubuntu 12.04 VPS 上使用 MongoDB 创建分片集群](https://blog.csdn.net/rubys007/article/details/138411017)
+
++ [【网络协议】----IPv6协议报文、地址分类](https://blog.csdn.net/weixin_45059947/article/details/138585746)
+
++ [[Linux][网络][TCP][四][流量控制][拥塞控制]详细讲解](https://blog.csdn.net/qq_37281656/article/details/138549682)
+
++ [Spring Boot 配置文件](https://blog.csdn.net/cool_tao6/article/details/138557352)
+
++ [Stable Diffusion Ai绘画模型推荐：二次元Coriander_Mix v1大模型推荐](https://blog.csdn.net/A13531922961/article/details/138563844)
+
++ [如何在树莓派 Raspberry Pi中本地部署一个web站点并实现无公网IP远程访问](https://blog.csdn.net/xinhang10/article/details/138623936)
+
++ [SpringBootWeb案例](https://blog.csdn.net/kussm_/article/details/138585015)
+
++ [Ansible剧本playbook之--------Templates 模块、roles角色详细解读](https://blog.csdn.net/zzzxxx520369/article/details/138570139)
+
++ [【MySQL】连接查询（JOIN 关键字）—— 图文详解：内连接(INNER JOIN)、外连接（OUTER JOIN）、左连接（LEFT JOIN）、左外连接、右连接、右外连接、全连接、全外连接](https://blog.csdn.net/m0_50513629/article/details/138345063)
+
++ [【PyTorch实战演练】使用CelebA数据集训练DCGAN（深度卷积生成对抗网络）并生成人脸（附完整代码）](https://blog.csdn.net/m0_49963403/article/details/137906665)
+
++ [Pycharm结合内网穿透实现在家远程开发并与公司服务器资源同步](https://blog.csdn.net/2301_77485708/article/details/138629104)
+
++ [Linux-信号执行](https://blog.csdn.net/bananawolf/article/details/138629640)
+
++ [IP协议，网络层](https://blog.csdn.net/m0_74876421/article/details/138572513)
+
++ [NSSCTF中的web](https://blog.csdn.net/2401_82388450/article/details/138518366)
+
++ [使用jupyter实现医疗文本分析](https://blog.csdn.net/m0_72526865/article/details/138549906)
+
++ [【生信技能树】拿到表达矩阵之后，如何使用ggplot2绘图系统绘制箱线图？](https://blog.csdn.net/2301_76771985/article/details/138630328)
+
++ [网络安全与信息安全](https://blog.csdn.net/2301_79527080/article/details/138557192)
+
++ [iPhone 数据恢复软件 – 恢复丢失的 iPhone 数据](https://blog.csdn.net/qq_23996309/article/details/138557900)
+

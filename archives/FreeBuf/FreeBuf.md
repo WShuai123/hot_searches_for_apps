@@ -45,3 +45,5 @@
 
 + [恶意软件正劫持安全软件更新进行分发](https://www.freebuf.com/articles/network/400194.html)
 
++ [等保2.0 | 物联网安全扩展要求](https://www.freebuf.com/articles/network/400199.html)
+

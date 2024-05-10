@@ -129,3 +129,15 @@
 
 + [《黎明杀机》与《龙与地下城》联动公布](https://www.3dmgame.com/news/202405/3894594.html)
 
++ [传OpenAI最快下周一公布自家搜索引擎 ChatGPT驱动](https://www.3dmgame.com/news/202405/3894605.html)
+
++ [《篝火邂逅》6月登陆Steam 手绘风治愈系旅行冒险](https://www.3dmgame.com/news/202405/3894602.html)
+
++ [罗布乐思公司Q1财报：收入增长至8.01亿美元](https://www.3dmgame.com/news/202405/3894604.html)
+
++ [《生化危机9》？Capcom 2025财年将推多个大作](https://www.3dmgame.com/news/202405/3894603.html)
+
++ [《燕云十六声》将于本月终测 玩家参与可获赠精美时装](https://www.3dmgame.com/news/202405/3894601.html)
+
++ [微软前高管：收购动视暴雪花费巨大 微软被迫裁员关闭工作室](https://www.3dmgame.com/news/202405/3894600.html)
+
