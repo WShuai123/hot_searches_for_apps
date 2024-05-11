@@ -181,3 +181,5 @@
 
 + [回合战术类肉鸽游戏《挺进超时空》现已登录Steam平台](https://www.3dmgame.com/news/202405/3894727.html)
 
++ [RTX5090/5080显卡肩并肩走来！测试功耗高达600W](https://www.3dmgame.com/news/202405/3894728.html)
+

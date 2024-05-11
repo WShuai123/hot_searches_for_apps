@@ -101,3 +101,59 @@
 
 + [第41天：WEB攻防-ASP应用&HTTP.SYS&短文件&文件解析&Access注入&数据库泄漏](https://blog.csdn.net/weixin_48613011/article/details/138552128)
 
++ [字节携港大南大升级 LLaVA-NeXT：借 LLaMA-3 和 Qwen-1.5 脱胎换骨，轻松追平 GPT-4V](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/138694418)
+
++ [Vue2中子组件调用父组件的方法，父组件调用子组件的方法，父子组件互相传值和方法调用](https://blog.csdn.net/2301_78542842/article/details/138624845)
+
++ [【2024亚马逊云科技峰会】Amazon Bedrock + Llama3 生成式AI实践](https://blog.csdn.net/air__Heaven/article/details/138704138)
+
++ [【机器学习】 人工智能和机器学习辅助决策在空战中的未来选择](https://blog.csdn.net/2301_77509762/article/details/138697313)
+
++ [基于SpringBoot的全国风景区WebGIS按省展示实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/138635755)
+
++ [【SpringBoot篇】基于Redis分布式锁的 误删问题 和 原子性问题](https://blog.csdn.net/m0_72853403/article/details/138668797)
+
++ [2024C题生物质和煤共热解问题的研究 详细思路](https://blog.csdn.net/weixin_46211269/article/details/138680346)
+
++ [使用PyTorch实现L1, L2和Elastic Net正则化](https://blog.csdn.net/m0_46510245/article/details/138652748)
+
++ [【Pandas】一文向您详细介绍 pd.to_excel()](https://blog.csdn.net/qq_41813454/article/details/138587551)
+
++ [智能创作时代：AI引领下的内容生产革命与效率提升](https://blog.csdn.net/Srlua/article/details/138667029)
+
++ [RabbitMQ实现保证消息可靠性](https://blog.csdn.net/qq_37741426/article/details/138596128)
+
++ [让GPT们成为我们的小助手：使用ChatGPT来生成测试用数据](https://blog.csdn.net/u011278722/article/details/138671137)
+
++ [数据库调优-SQL语句优化](https://blog.csdn.net/2401_83060956/article/details/138623805)
+
++ [目标检测算法YOLOv7简介](https://blog.csdn.net/fengbingchun/article/details/138661758)
+
++ [[Kubernetes] 云原生 Istio 介绍](https://blog.csdn.net/qq_43141726/article/details/138633361)
+
++ [京东手势验证码-YOLO姿态识别+Bézier curve轨迹拟合](https://blog.csdn.net/qq_26079939/article/details/138662551)
+
++ [电子工程师提升计划-第2章 单片机硬件原理【1.4】](https://blog.csdn.net/qq_43416206/article/details/138682188)
+
++ [WebRtc 视频通话,语音通话实现方案](https://blog.csdn.net/qq_60839348/article/details/138604226)
+
++ [2024 年 数维杯（B题）大学生数学建模挑战赛 | 生物质和煤共热解 | 数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/138661212)
+
++ [SSH：安全远程访问的基石](https://blog.csdn.net/windowshht/article/details/138518805)
+
++ [分享四种免费获取SSL的方式](https://blog.csdn.net/2402_83162493/article/details/138636601)
+
++ [【数学建模】天然肠衣搭配问题衍生问题/线性规划限制条件建立问题](https://blog.csdn.net/weixin_72899100/article/details/138638556)
+
++ [外包干了6天，技术明显进步](https://blog.csdn.net/2301_79535544/article/details/138684457)
+
++ [FPGA火在哪里？（从商业和专业角度分析）](https://blog.csdn.net/Janice01/article/details/138672042)
+
++ [无人机+光电吊舱：四光（可见光+红外热成像+广角+激光测距）吊舱设计技术详解](https://blog.csdn.net/dong2010hong/article/details/138618161)
+
++ [从零开始学习MySQL 事务处理](https://blog.csdn.net/hummhumm/article/details/138674956)
+
++ [HTTPS 原理和 TLS 握手机制](https://blog.csdn.net/java2508/article/details/138662767)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_80119299/article/details/138684491)
+

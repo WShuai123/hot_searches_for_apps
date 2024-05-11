@@ -41,3 +41,5 @@
 
 + [中国造车新势力上市最快纪录诞生，极氪登陆纽约证券交易所](https://m.ithome.com/html/767130.htm)
 
++ [华为 MatePad 11.5 系列平板价格区间曝光：覆盖 1500 元-3500 元价位段](https://m.ithome.com/html/767043.htm)
+

@@ -57,3 +57,7 @@
 
 + [实战经验分享：Web应用逻辑漏洞挖掘技巧与案例分析](https://www.freebuf.com/articles/web/400377.html)
 
++ [播放莫斯科胜利日阅兵式，疑似俄罗斯黑客入侵拉脱维亚电视台](https://www.freebuf.com/news/400597.html)
+
++ [恶意安卓应用程序假冒谷歌、Instagram、WhatsApp 窃取用户凭证](https://www.freebuf.com/news/400593.html)
+
