@@ -229,3 +229,7 @@
 
 + [LG加速出售广州LCD工厂 韩国面板制造商全面转向OLED](https://www.3dmgame.com/news/202405/3894751.html)
 
++ [首款可折叠iPhone可能使用三星的屏幕](https://www.3dmgame.com/news/202405/3894753.html)
+
++ [《腐烂国度3》开发进展非常非常顺利](https://www.3dmgame.com/news/202405/3894752.html)
+

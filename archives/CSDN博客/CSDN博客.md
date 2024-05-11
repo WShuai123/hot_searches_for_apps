@@ -157,3 +157,35 @@
 
 + [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/2301_80119299/article/details/138684491)
 
++ [【c++】全面理解C++多态：虚函数表深度剖析与实践应用](https://blog.csdn.net/arf_dog/article/details/138666480)
+
++ [Golang面向对象编程（一）](https://blog.csdn.net/chenlong_cxy/article/details/138228375)
+
++ [【Linux系统编程】第十六弹---冯诺依曼体系结构与操作系统](https://blog.csdn.net/2201_75584283/article/details/137437070)
+
++ [2024年人工智能数据报告](https://blog.csdn.net/weixin_43178406/article/details/138722682)
+
++ [SpringBootWeb 篇-深入了解请求响应（服务端接收不同类型的请求参数的方式）](https://blog.csdn.net/Tingfeng__/article/details/138709336)
+
++ [【MySQL】——课程平台的创建设计](https://blog.csdn.net/shsjssnn/article/details/138588230)
+
++ [这款PDF解析工具，精准触达大模型问答应用的需要](https://blog.csdn.net/INTSIG/article/details/138674597)
+
++ [DDD在大众点评交易系统演进中的应用](https://blog.csdn.net/MeituanTech/article/details/138639471)
+
++ [邀您一起编写《架构演进之路》](https://blog.csdn.net/qq_36083245/article/details/138710498)
+
++ [斯图尔特科普书籍](https://blog.csdn.net/dllglvzhenfeng/article/details/138653586)
+
++ [HTML5 + CSS3实现卖茶女与水果男的巅峰微信聊天对决，看完后笑一整天](https://blog.csdn.net/xingyu_qie/article/details/138710625)
+
++ [IT项目管理 选择/判断 【太原理工大学】](https://blog.csdn.net/goldfish8848/article/details/138563040)
+
++ [vue3.0(五) reactive全家桶](https://blog.csdn.net/chengcheng9876/article/details/138302067)
+
++ [[Linux][网络][网络层][IP协议]详细讲解](https://blog.csdn.net/qq_37281656/article/details/138635727)
+
++ [提升工作效率，用ONLYOFFICE打造高效团队协作环境](https://blog.csdn.net/qq_44907926/article/details/138546882)
+
++ [Spring框架学习-详细](https://blog.csdn.net/weixin_43136158/article/details/123893405)
+

@@ -73,3 +73,5 @@
 
 + [谷歌云「误删」甲方私有云帐户：整整瘫痪了 7 天](https://www.freebuf.com/news/400707.html)
 
++ [前所未有的错误配置，谷歌“误删”甲方私有云账户](https://www.freebuf.com/news/400707.html)
+

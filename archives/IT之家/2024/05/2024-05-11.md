@@ -57,3 +57,7 @@
 
 + [上市 136 天，鸿蒙智行问界 M9 车型累计大定突破 80000 台](https://m.ithome.com/html/767192.htm)
 
++ [华为 Mate 50 系列等 9 款机型不限量升级鸿蒙 Harmony OS 4.2 正式版](https://m.ithome.com/html/767275.htm)
+
++ [开卖两天后，2024 款诺基亚 3210 功能机国行版销售一空显示“无货”状态](https://m.ithome.com/html/767169.htm)
+
