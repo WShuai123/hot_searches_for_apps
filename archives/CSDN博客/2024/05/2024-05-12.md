@@ -101,3 +101,17 @@
 
 + [Spring框架学习-详细](https://blog.csdn.net/weixin_43136158/article/details/123893405)
 
++ [字节携港大南大升级 LLaVA-NeXT：借 LLaMA-3 和 Qwen-1.5 脱胎换骨，轻松追平 GPT-4V](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/138694418)
+
++ [深入解析RedisSearch：全文搜索的新维度](https://blog.csdn.net/qq_26664043/article/details/138033085)
+
++ [【研发日记】Matlab/Simulink避坑指南(十二)——Initialize Function执行Bug](https://blog.csdn.net/CSSUST/article/details/138686350)
+
++ [突破编程界限：探索AI编程新境界](https://blog.csdn.net/qq_51601665/article/details/138725397)
+
++ [Android 几种系统升级方式详解](https://blog.csdn.net/rjdeng/article/details/138719593)
+
++ [使用PyTorch实现L1, L2和Elastic Net正则化](https://blog.csdn.net/m0_46510245/article/details/138652748)
+
++ [2024数维杯数学建模竞赛A题完整思路代码论文分析](https://blog.csdn.net/qq_45857113/article/details/138649227)
+
