@@ -61,3 +61,7 @@
 
 + [开卖两天后，2024 款诺基亚 3210 功能机国行版销售一空显示“无货”状态](https://m.ithome.com/html/767169.htm)
 
++ [小米首款竖向折叠手机 MIX Flip 入网，67W 快充](https://m.ithome.com/html/767165.htm)
+
++ [因未明确披露“无限流量”套餐达峰降速，美三大运营商遭罚 1022 万美元](https://m.ithome.com/html/767148.htm)
+
