@@ -129,3 +129,15 @@
 
 + [解谜游戏《艾瑞克与破碎王国》6月30日发售](https://www.3dmgame.com/news/202405/3894696.html)
 
++ [Xbox移动端商店将与今年夏季上线 推动跨平台](https://www.3dmgame.com/news/202405/3894702.html)
+
++ [《战争之人2》要求始终在线连接 离线模式还在开发中](https://www.3dmgame.com/news/202405/3894704.html)
+
++ [《辐射4》最新更新将于下周推送 新增图形和性能选项](https://www.3dmgame.com/news/202405/3894703.html)
+
++ [你再在路上玩手机，当心我把你腿给踹断](https://www.3dmgame.com/news/202405/3894705.html)
+
++ [Unity Q1财报：重组导致亏损加深至2.91亿美元](https://www.3dmgame.com/news/202405/3894706.html)
+
++ [继改编书籍之后 第一人称恐怖游戏《波比的游戏时间》将改编成电影](https://www.3dmgame.com/news/202405/3894707.html)
+

@@ -27,3 +27,7 @@
 
 + [vivo X100 Ultra 手机用户手册曝光：6.78 英寸 2K 屏、非短焦指纹、厚 9.23mm](https://m.ithome.com/html/767131.htm)
 
++ [布加迪公布新款 V16 发动机细节：无涡轮 / 长近 1 米，将组成插混系统](https://m.ithome.com/html/767143.htm)
+
++ [苹果调整 2024 款 iPad Pro 蜂窝网络规格，不再支持毫米波 5G 频段](https://m.ithome.com/html/767072.htm)
+

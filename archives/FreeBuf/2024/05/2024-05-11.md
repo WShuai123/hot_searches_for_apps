@@ -45,3 +45,7 @@
 
 + [反了！美国假冒邮政服务钓鱼网站访问量竟然超过正规官网](https://www.freebuf.com/articles/network/400195.html)
 
++ [货拉拉信息安全资产库建设实践](https://www.freebuf.com/articles/security-management/400323.html)
+
++ [FreeBuf 周报 | 英美执法机构揭露 LockBit 勒索软件头目；AI 安全已经刻不容缓](https://www.freebuf.com/news/400534.html)
+
