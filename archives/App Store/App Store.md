@@ -213,3 +213,5 @@
 
 + [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
 
++ [蛋花小说-经典出版小说](https://itunes.apple.com/cn/app/id6464457748?mt=8)
+

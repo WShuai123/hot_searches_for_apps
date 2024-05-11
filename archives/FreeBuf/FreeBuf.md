@@ -55,3 +55,5 @@
 
 + [RSAC 2024：网安“思维转变”，集成才是更优的选择？](https://www.freebuf.com/news/400604.html)
 
++ [实战经验分享：Web应用逻辑漏洞挖掘技巧与案例分析](https://www.freebuf.com/articles/web/400377.html)
+

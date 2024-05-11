@@ -177,3 +177,7 @@
 
 + [RGG宣布“港区女孩试镜” 为如龙系列新作招募女演员](https://www.3dmgame.com/news/202405/3894722.html)
 
++ [在富岳超算上训练大模型 日本联合研究团队发布Fugaku-LLM](https://www.3dmgame.com/news/202405/3894726.html)
+
++ [回合战术类肉鸽游戏《挺进超时空》现已登录Steam平台](https://www.3dmgame.com/news/202405/3894727.html)
+

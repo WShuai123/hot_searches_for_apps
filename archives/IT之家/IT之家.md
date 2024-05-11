@@ -39,3 +39,5 @@
 
 + [比亚迪发布 e 平台 3.0 Evo：首创 CTB 整车安全架构、集成 23000rpm 转速电机](https://m.ithome.com/html/767102.htm)
 
++ [中国造车新势力上市最快纪录诞生，极氪登陆纽约证券交易所](https://m.ithome.com/html/767130.htm)
+
