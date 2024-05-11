@@ -61,3 +61,5 @@
 
 + [恶意安卓应用程序假冒谷歌、Instagram、WhatsApp 窃取用户凭证](https://www.freebuf.com/news/400593.html)
 
++ [如何使用CertCrunchy从SSL证书中发现和识别潜在的主机名称](https://www.freebuf.com/sectool/393780.html)
+
