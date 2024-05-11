@@ -101,3 +101,11 @@
 
 + [Xbox移动端商店将与今年夏季上线 推动跨平台](https://www.3dmgame.com/news/202405/3894702.html)
 
++ [《家园3》提前高级体验已上线 新预告片展示](https://www.3dmgame.com/news/202405/3894757.html)
+
++ [玩家支持Tango工作室 《完美音浪》获大量好评](https://www.3dmgame.com/news/202405/3894758.html)
+
++ [《塞尔达传说：魔吉拉的面具》PC移植版展示](https://www.3dmgame.com/news/202405/3894759.html)
+
++ [95年老游戏复刻版《PO“ed：终极版》5/16推出](https://www.3dmgame.com/news/202405/3894760.html)
+
