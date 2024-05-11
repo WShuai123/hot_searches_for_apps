@@ -141,3 +141,31 @@
 
 + [继改编书籍之后 第一人称恐怖游戏《波比的游戏时间》将改编成电影](https://www.3dmgame.com/news/202405/3894707.html)
 
++ [以色列厂商Playtika领导层重组 两位高管被裁](https://www.3dmgame.com/news/202405/3894721.html)
+
++ [华纳放弃从Steam下架Adult Swim Games发行的游戏的计划](https://www.3dmgame.com/news/202405/3894720.html)
+
++ [玩家并未战胜索尼！PC版游戏继续移除不支持PSN地区](https://www.3dmgame.com/news/202405/3894718.html)
+
++ [《哥斯拉大战金刚3》正式制作中 《尚气》编剧加盟](https://www.3dmgame.com/news/202405/3894719.html)
+
++ [《家园3》IGN评测：单人战役和多人模式都8分](https://www.3dmgame.com/news/202405/3894717.html)
+
++ [《最后生还者》剧集蒂娜演员：第二季名场面将引起热议](https://www.3dmgame.com/news/202405/3894715.html)
+
++ [自动化城市建造游戏《梦幻引擎：游牧城市》现已在Steam平台正式推出 获多半好评](https://www.3dmgame.com/news/202405/3894716.html)
+
++ [世嘉全年财报：《女神异闻录》和《如龙》推动销量增长](https://www.3dmgame.com/news/202405/3894714.html)
+
++ [好评如潮《冒险家阿曼达》续作Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3894713.html)
+
++ [英国4月榜：《绝地潜兵2》热度不减《星刃》未进前十](https://www.3dmgame.com/news/202405/3894709.html)
+
++ [《星刃》发布会剪辑视频：感谢玩家与女主度过美好时光](https://www.3dmgame.com/news/202405/3894708.html)
+
++ [《漫游者：命运碎片》官宣跳票 9月13日发行](https://www.3dmgame.com/news/202405/3894712.html)
+
++ [《莎木4》尚在概念阶段 舞台设定在中国](https://www.3dmgame.com/news/202405/3894711.html)
+
++ [互动式剧情游戏《迷失神祇》DLC“俄耳甫斯”上架Steam平台 6月27日推出](https://www.3dmgame.com/news/202405/3894710.html)
+
