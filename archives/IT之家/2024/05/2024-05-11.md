@@ -43,3 +43,5 @@
 
 + [华为 MatePad 11.5 系列平板价格区间曝光：覆盖 1500 元-3500 元价位段](https://m.ithome.com/html/767043.htm)
 
++ [全新 13 英寸苹果 iPad Air 亮度可达 600 尼特，比 11 英寸型号高 20%](https://m.ithome.com/html/767140.htm)
+

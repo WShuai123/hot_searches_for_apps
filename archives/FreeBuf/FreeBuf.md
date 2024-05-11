@@ -63,3 +63,5 @@
 
 + [如何使用CertCrunchy从SSL证书中发现和识别潜在的主机名称](https://www.freebuf.com/sectool/393780.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
