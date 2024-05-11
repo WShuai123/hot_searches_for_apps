@@ -29,3 +29,5 @@
 
 + [科技昨夜今晨 0511：18.98 万元起，比亚迪海狮 07 EV 上市；小米高管回应不再发布 Redmi 路由器言论；WPS 被指套娃式收费，内部人士称“会员使用 AI 功能福利期已到”](https://m.ithome.com/html/767154.htm)
 
++ [新款 iPad Pro 散热性能提高 20% 背后，创新使用铜制苹果 LOGO](https://m.ithome.com/html/767328.htm)
+
