@@ -169,3 +169,11 @@
 
 + [互动式剧情游戏《迷失神祇》DLC“俄耳甫斯”上架Steam平台 6月27日推出](https://www.3dmgame.com/news/202405/3894710.html)
 
++ [《电动小丑斯帕克3》将登陆Switch平台 发售日期待定](https://www.3dmgame.com/news/202405/3894725.html)
+
++ [《恐怖黎明》开发商CEO：RTS游戏冷门和好玩不可兼得](https://www.3dmgame.com/news/202405/3894724.html)
+
++ [《庄园领主》将允许养猪 但开发者尚未决定圈养方式](https://www.3dmgame.com/news/202405/3894723.html)
+
++ [RGG宣布“港区女孩试镜” 为如龙系列新作招募女演员](https://www.3dmgame.com/news/202405/3894722.html)
+

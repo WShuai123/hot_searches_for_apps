@@ -53,3 +53,5 @@
 
 + [财政部、国家网信办发布《会计师事务所数据安全管理暂行办法》](https://www.freebuf.com/news/400561.html)
 
++ [RSAC 2024：网安“思维转变”，集成才是更优的选择？](https://www.freebuf.com/news/400604.html)
+

@@ -31,3 +31,11 @@
 
 + [苹果调整 2024 款 iPad Pro 蜂窝网络规格，不再支持毫米波 5G 频段](https://m.ithome.com/html/767072.htm)
 
++ [小米手环 8 Pro 推送澎湃 HyperOS 1.4.109 版本：新增快捷手势、焦点通知](https://m.ithome.com/html/767110.htm)
+
++ [苹果 M4 款 iPad Pro 2024 安兔兔 V10 跑分出炉：超 274 万分，较前代 M2 版提升约 28.7%](https://m.ithome.com/html/767101.htm)
+
++ [问界 M9 新车交付时座椅调节按钮遇“故障”？工作人员称严格来说不算故障](https://m.ithome.com/html/767098.htm)
+
++ [比亚迪发布 e 平台 3.0 Evo：首创 CTB 整车安全架构、集成 23000rpm 转速电机](https://m.ithome.com/html/767102.htm)
+
