@@ -45,3 +45,7 @@
 
 + [全新 13 英寸苹果 iPad Air 亮度可达 600 尼特，比 11 英寸型号高 20%](https://m.ithome.com/html/767140.htm)
 
++ [6499 元 → 4299 元：小米 13 Ultra 手机 512G 版京东自营清仓](https://m.ithome.com/html/767239.htm)
+
++ [官方回应“理想 L9 误将广告识别成真车致追尾”热议：后续会改进软件系统](https://m.ithome.com/html/767246.htm)
+

@@ -217,3 +217,11 @@
 
 + [模拟经营游戏《工厂直销模拟器》Steam页面 支持简体中文](https://www.3dmgame.com/news/202405/3894738.html)
 
++ [韩国用户吐槽：正常安装使用下4090也烧熔 经销商还拒保](https://www.3dmgame.com/news/202405/3894749.html)
+
++ [制作人独家揭秘：《美女，应接不暇》5月15日上线Steam，打造理想女性形象](https://www.3dmgame.com/news/202405/3894748.html)
+
++ [绝美画风动作RPG《辛特堡传说》现可在Steam加入Playtest免费开玩！](https://www.3dmgame.com/news/202405/3894747.html)
+
++ [任天堂泄露者暗示一款以塞尔达公主为主角的游戏](https://www.3dmgame.com/news/202405/3894746.html)
+
