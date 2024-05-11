@@ -49,3 +49,5 @@
 
 + [官方回应“理想 L9 误将广告识别成真车致追尾”热议：后续会改进软件系统](https://m.ithome.com/html/767246.htm)
 
++ [iPhone AI 大升级：消息称苹果即将与 OpenAI 达成协议，iOS 18 用上 ChatGPT](https://m.ithome.com/html/767212.htm)
+

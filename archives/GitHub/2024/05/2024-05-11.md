@@ -51,3 +51,37 @@
 
 + [HqWu-HITCS / Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 
++ [hydralauncher / hydra](https://github.com/hydralauncher/hydra)
+
++ [SOS-RS / backend](https://github.com/SOS-RS/backend)
+
++ [LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending)
+
++ [SOS-RS / frontend](https://github.com/SOS-RS/frontend)
+
++ [w3laba / DexScreener-Trending](https://github.com/w3laba/DexScreener-Trending)
+
++ [kyegomez / AlphaFold3](https://github.com/kyegomez/AlphaFold3)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [stooged / PI-Pwn](https://github.com/stooged/PI-Pwn)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [glanceapp / glance](https://github.com/glanceapp/glance)
+
++ [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
++ [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
+
++ [mintisan / awesome-kan](https://github.com/mintisan/awesome-kan)
+
++ [cisagov / vulnrichment](https://github.com/cisagov/vulnrichment)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [assafelovic / gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+

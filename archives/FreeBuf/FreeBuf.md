@@ -69,3 +69,5 @@
 
 + [如何应对专线攻击；总部与分支机构的安全责任划分 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/400591.html)
 
++ [网安江湖，谁可一战？知识大陆APP 首个小游戏上线](https://www.freebuf.com/fevents/400702.html)
+
