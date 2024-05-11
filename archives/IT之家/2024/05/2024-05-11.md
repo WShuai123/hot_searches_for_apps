@@ -25,3 +25,5 @@
 
 + [消息称高通骁龙 8 Gen 4 机型理论性能亮眼：支持原生 1080P 分辨率《原神》](https://m.ithome.com/html/767057.htm)
 
++ [vivo X100 Ultra 手机用户手册曝光：6.78 英寸 2K 屏、非短焦指纹、厚 9.23mm](https://m.ithome.com/html/767131.htm)
+

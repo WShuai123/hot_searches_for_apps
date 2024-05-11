@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 可监听几乎所有VPN的黑客技术曝光； 英国立法禁止弱密码](https://www.freebuf.com/news/400298.html)
 
++ [FreeBuf早报 | 2023年中国网安上市公司平均薪酬发布；波音拒支付2亿美元赎金](https://www.freebuf.com/news/400514.html)
+
++ [反了！美国假冒邮政服务钓鱼网站访问量竟然超过正规官网](https://www.freebuf.com/articles/network/400195.html)
+

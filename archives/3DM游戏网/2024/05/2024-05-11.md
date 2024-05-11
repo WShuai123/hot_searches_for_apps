@@ -117,3 +117,15 @@
 
 + [任天堂社长称游戏开发资源持续扩充 加强外部合作](https://www.3dmgame.com/news/202405/3894692.html)
 
++ [《马拉松》三部曲即将登陆Steam 初代已免费](https://www.3dmgame.com/news/202405/3894701.html)
+
++ [《赛博朋克2077》Steam30天评价为好评如潮 开发者激动万分](https://www.3dmgame.com/news/202405/3894699.html)
+
++ [《堕落之主》发行商再次裁员：确保团队实现最高效率](https://www.3dmgame.com/news/202405/3894700.html)
+
++ [Xbox总裁：关闭工作室 是为了保证旗下游戏质量](https://www.3dmgame.com/news/202405/3894698.html)
+
++ [《对马岛之鬼导剪版》Steam版在180个国家被禁止购买](https://www.3dmgame.com/news/202405/3894697.html)
+
++ [解谜游戏《艾瑞克与破碎王国》6月30日发售](https://www.3dmgame.com/news/202405/3894696.html)
+
