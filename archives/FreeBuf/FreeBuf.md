@@ -71,3 +71,5 @@
 
 + [网安江湖，谁可一战？知识大陆APP 首个小游戏上线](https://www.freebuf.com/fevents/400702.html)
 
++ [谷歌云「误删」甲方私有云帐户：整整瘫痪了 7 天](https://www.freebuf.com/news/400707.html)
+

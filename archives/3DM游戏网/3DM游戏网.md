@@ -227,3 +227,5 @@
 
 + [李彦宏：坚信技术改变世界 要让用户和开发者从中获益](https://www.3dmgame.com/news/202405/3894750.html)
 
++ [LG加速出售广州LCD工厂 韩国面板制造商全面转向OLED](https://www.3dmgame.com/news/202405/3894751.html)
+
