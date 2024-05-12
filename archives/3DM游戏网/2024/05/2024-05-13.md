@@ -105,3 +105,11 @@
 
 + [《塞尔达传说：王国之泪》发售一周年 你印象最深刻是什么](https://www.3dmgame.com/news/202405/3894799.html)
 
++ [微软将在Windows 11更新中推出Game Pass广告](https://www.3dmgame.com/news/202405/3894803.html)
+
++ [《完美黑暗》可能会亮相Xbox游戏展示会](https://www.3dmgame.com/news/202405/3894802.html)
+
++ [《绝地潜兵2》开发者认为平衡性调整有些过头了](https://www.3dmgame.com/news/202405/3894801.html)
+
++ [索尼成立由前Deviation开发者组成的新工作室](https://www.3dmgame.com/news/202405/3894800.html)
+
