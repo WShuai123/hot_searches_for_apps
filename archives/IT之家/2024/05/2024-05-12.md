@@ -65,3 +65,5 @@
 
 + [7000 元苹果 iPhone 维修费达 14000 元，涉事店铺被罚 10 万元](https://m.ithome.com/html/767391.htm)
 
++ [龙芯 7A2000 芯片持续获得驱动更新，GPU 性能提升超 2022 年发布时两倍](https://m.ithome.com/html/767365.htm)
+
