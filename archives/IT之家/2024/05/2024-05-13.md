@@ -25,3 +25,5 @@
 
 + [移动电信选购需注意，2024 款 iPad Pro / Air 平板电脑国行仅支持中国联通 eSIM 蜂窝网络](https://m.ithome.com/html/767395.htm)
 
++ [何小鹏兑现“打骨折”承诺，亲自向蔚来李斌交付小鹏 X9](https://m.ithome.com/html/767458.htm)
+

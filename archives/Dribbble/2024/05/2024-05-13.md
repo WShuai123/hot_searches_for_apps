@@ -65,3 +65,13 @@
 
 + [Lasers](https://dribbble.com/shots/)
 
++ [HHC Living Tertiary Logo](https://dribbble.com/shots/)
+
++ [Shape Studies: 054](https://dribbble.com/shots/)
+
++ [Couple walking](https://dribbble.com/shots/)
+
++ [Share You space / shell (PSE '24)](https://dribbble.com/shots/)
+
++ [Dubai Mall](https://dribbble.com/shots/)
+
