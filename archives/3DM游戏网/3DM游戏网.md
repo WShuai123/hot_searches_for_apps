@@ -125,3 +125,9 @@
 
 + [《NEKOTO》登陆Steam 治愈系猫咪生活日常](https://www.3dmgame.com/news/202405/3894763.html)
 
++ [《8番站台》预定5月中旬登陆Steam 系列正统续作](https://www.3dmgame.com/news/202405/3894769.html)
+
++ [前BioWare老兵抨击EA：只有高管热衷于AI开发](https://www.3dmgame.com/news/202405/3894770.html)
+
++ [《英雄联盟》2024 MSI今日中韩焦点战：BLG迎击T1](https://www.3dmgame.com/news/202405/3894771.html)
+

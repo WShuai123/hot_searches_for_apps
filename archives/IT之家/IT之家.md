@@ -37,3 +37,7 @@
 
 + [开源鸿蒙新版本即将上线，OpenHarmony 开发者大会 2024 定于 5 月 25 日举行](https://m.ithome.com/html/767301.htm)
 
++ [vivo X100s 手机完整规格参数曝光：V2 影像芯片、蔡司 T * 镀膜，至高 16GB + 1TB 配置](https://m.ithome.com/html/767247.htm)
+
++ [华为合作打造：东风岚图全新纯电 SUV 车型“知音”申报图曝光，下半年发布](https://m.ithome.com/html/767329.htm)
+
