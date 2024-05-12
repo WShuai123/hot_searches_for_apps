@@ -137,3 +137,5 @@
 
 + [《群星》官方解释新DLC的AI使用 非常重视伦理性](https://www.3dmgame.com/news/202405/3894772.html)
 
++ [玩家为让《辐射》豪斯先生登上赌城巨球1天众筹 希望很渺茫](https://www.3dmgame.com/news/202405/3894775.html)
+

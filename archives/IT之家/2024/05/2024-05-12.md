@@ -43,3 +43,7 @@
 
 + [荣耀姜海荣回应“荣耀 200 外观曝光”：假的，真机肯定比这更好看](https://m.ithome.com/html/767218.htm)
 
++ [消息称京东即时零售品牌“小时达”将升级为“秒送”](https://m.ithome.com/html/767353.htm)
+
++ [新增 5G-A 网络能力，小米 14 / Pro 手机推送澎湃 HyperOS 1.0.38/41 版内测更新](https://m.ithome.com/html/767350.htm)
+
