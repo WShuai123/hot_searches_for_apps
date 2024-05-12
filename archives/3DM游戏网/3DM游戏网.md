@@ -113,3 +113,15 @@
 
 + [AMD RDNA5有望采用从零设计的全新架构](https://www.3dmgame.com/news/202405/3894762.html)
 
++ [传言称《刺客信条：无限》将包含一项月度订阅服务](https://www.3dmgame.com/news/202405/3894767.html)
+
++ [《荒野左轮：法外之徒》Steam免费发布 西部枪战冒险](https://www.3dmgame.com/news/202405/3894768.html)
+
++ [万代南梦宫财报：销售额史上最高 但利润率同比下降](https://www.3dmgame.com/news/202405/3894766.html)
+
++ [SIE成立了新工作室 前Deviation Games员工组建](https://www.3dmgame.com/news/202405/3894765.html)
+
++ [前传电影《疯狂的麦克斯：狂暴女神》首曝片段](https://www.3dmgame.com/news/202405/3894764.html)
+
++ [《NEKOTO》登陆Steam 治愈系猫咪生活日常](https://www.3dmgame.com/news/202405/3894763.html)
+

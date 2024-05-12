@@ -33,3 +33,7 @@
 
 + [直板机配备副屏，OPPO Find 产品负责人周意保晒 5 年前被砍方案](https://m.ithome.com/html/767222.htm)
 
++ [“为世界工业软件提供第二选择”：OGG 1.0 正式发布，华为牵头贡献开源代码](https://m.ithome.com/html/767237.htm)
+
++ [开源鸿蒙新版本即将上线，OpenHarmony 开发者大会 2024 定于 5 月 25 日举行](https://m.ithome.com/html/767301.htm)
+

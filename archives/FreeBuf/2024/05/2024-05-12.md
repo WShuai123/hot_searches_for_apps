@@ -45,3 +45,5 @@
 
 + [针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://www.freebuf.com/articles/paper/400513.html)
 
++ [供应链投毒预警：恶意Py包伪装HTTP组件开展CStealer窃密后门攻击](https://www.freebuf.com/news/400487.html)
+
