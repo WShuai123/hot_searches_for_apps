@@ -115,3 +115,25 @@
 
 + [2024数维杯数学建模竞赛A题完整思路代码论文分析](https://blog.csdn.net/qq_45857113/article/details/138649227)
 
++ [【python】基于岭回归算法对学生成绩进行预测](https://blog.csdn.net/weixin_53197693/article/details/138510672)
+
++ [神经网络的偏见](https://blog.csdn.net/weixin_43790276/article/details/138243680)
+
++ [vite + vue + typscript + pinia + axios + vue-router + elementPlus](https://blog.csdn.net/HeMister/article/details/138225254)
+
++ [C++11：并发新纪元 —— 深入理解异步编程的力量（1）](https://blog.csdn.net/weixin_73951752/article/details/138729481)
+
++ [Yolov8目标检测——在Android上部署Yolov8 tflite模型](https://blog.csdn.net/matt45m/article/details/138654903)
+
++ [SSH：安全远程访问的基石](https://blog.csdn.net/windowshht/article/details/138518805)
+
++ [Xilinx 千兆以太网TEMAC IP核简介](https://blog.csdn.net/u011565038/article/details/138671082)
+
++ [FPGA火在哪里？（从商业和专业角度分析）](https://blog.csdn.net/Janice01/article/details/138672042)
+
++ [ElasticSearch的python api以及dev tool方式的基本操作](https://blog.csdn.net/weixin_36893273/article/details/138720573)
+
++ [短剧奔向小程序，流量生意如何开启？](https://blog.csdn.net/YesPMP/article/details/138646835)
+
++ [【数学建模】天然肠衣搭配问题衍生问题/线性规划限制条件建立问题](https://blog.csdn.net/weixin_72899100/article/details/138638556)
+

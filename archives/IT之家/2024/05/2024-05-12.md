@@ -31,3 +31,5 @@
 
 + [新款 iPad Pro 散热性能提高 20% 背后，创新使用铜制苹果 LOGO](https://m.ithome.com/html/767328.htm)
 
++ [直板机配备副屏，OPPO Find 产品负责人周意保晒 5 年前被砍方案](https://m.ithome.com/html/767222.htm)
+

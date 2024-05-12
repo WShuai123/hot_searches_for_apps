@@ -109,3 +109,7 @@
 
 + [95年老游戏复刻版《PO“ed：终极版》5/16推出](https://www.3dmgame.com/news/202405/3894760.html)
 
++ [新《毁灭战士》或在6月Xbox发布会上公布](https://www.3dmgame.com/news/202405/3894761.html)
+
++ [AMD RDNA5有望采用从零设计的全新架构](https://www.3dmgame.com/news/202405/3894762.html)
+

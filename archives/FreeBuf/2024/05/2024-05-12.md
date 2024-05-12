@@ -41,3 +41,7 @@
 
 + [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/400595.html)
+
++ [针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://www.freebuf.com/articles/paper/400513.html)
+
