@@ -139,3 +139,5 @@
 
 + [玩家为让《辐射》豪斯先生登上赌城巨球1天众筹 希望很渺茫](https://www.3dmgame.com/news/202405/3894775.html)
 
++ [《Old School Rally》Steam上线 复古风拉力赛车](https://www.3dmgame.com/news/202405/3894776.html)
+

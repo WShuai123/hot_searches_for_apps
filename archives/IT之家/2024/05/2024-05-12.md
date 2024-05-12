@@ -47,3 +47,5 @@
 
 + [新增 5G-A 网络能力，小米 14 / Pro 手机推送澎湃 HyperOS 1.0.38/41 版内测更新](https://m.ithome.com/html/767350.htm)
 
++ [迅雷浏览器 iOS 版本发布：主打简洁纯净，支持多种视频文件链接一键云播](https://m.ithome.com/html/767317.htm)
+
