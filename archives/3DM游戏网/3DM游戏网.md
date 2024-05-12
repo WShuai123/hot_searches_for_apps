@@ -169,3 +169,5 @@
 
 + [前微软资深PR认为想要让XGP增长除非拿下GTA6](https://www.3dmgame.com/news/202405/3894788.html)
 
++ [Dell搭载骁龙X Elite的新款笔电渲染图曝光](https://www.3dmgame.com/news/202405/3894791.html)
+
