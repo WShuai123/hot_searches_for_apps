@@ -113,3 +113,9 @@
 
 + [索尼成立由前Deviation开发者组成的新工作室](https://www.3dmgame.com/news/202405/3894800.html)
 
++ [彭博社记者称《对马岛之鬼2》仍在开发中](https://www.3dmgame.com/news/202405/3894806.html)
+
++ [PS5独占游戏《星刃》发售活动引爆首尔商场](https://www.3dmgame.com/news/202405/3894805.html)
+
++ [任天堂为Switch带来重制版《塞尔达传说：旷野之息》](https://www.3dmgame.com/news/202405/3894804.html)
+
