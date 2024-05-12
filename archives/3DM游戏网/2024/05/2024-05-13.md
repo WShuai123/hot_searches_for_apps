@@ -101,3 +101,7 @@
 
 + [韩国用户吐槽：正常安装使用下4090也烧熔 经销商还拒保](https://www.3dmgame.com/news/202405/3894749.html)
 
++ [《小猫咪大城市》发售48小时销量破10万 Steam特别好评](https://www.3dmgame.com/news/202405/3894798.html)
+
++ [《塞尔达传说：王国之泪》发售一周年 你印象最深刻是什么](https://www.3dmgame.com/news/202405/3894799.html)
+
