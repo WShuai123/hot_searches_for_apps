@@ -171,3 +171,13 @@
 
 + [Dell搭载骁龙X Elite的新款笔电渲染图曝光](https://www.3dmgame.com/news/202405/3894791.html)
 
++ [传《GTA6》男女主各自脸模被找到](https://www.3dmgame.com/news/202405/3894795.html)
+
++ [美国B级片大师罗杰·科曼去世 享年98岁](https://www.3dmgame.com/news/202405/3894796.html)
+
++ [ARM计划2025年推出首批AI芯片 孙正义已投入640亿美元](https://www.3dmgame.com/news/202405/3894794.html)
+
++ [PlayStation发表会或于5月下旬举办](https://www.3dmgame.com/news/202405/3894793.html)
+
++ [《对马岛之鬼》Steam下架后 未能入围销量榜Top 10](https://www.3dmgame.com/news/202405/3894792.html)
+

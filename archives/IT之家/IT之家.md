@@ -71,3 +71,5 @@
 
 + [“史上最丑”AI 生图 Remini 一夜爆火！又一款妙鸭级爆品来了？](https://m.ithome.com/html/767416.htm)
 
++ [世界首例猪肾移植患者手术近两个月后去世，死因未公布](https://m.ithome.com/html/767430.htm)
+
