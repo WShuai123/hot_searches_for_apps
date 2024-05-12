@@ -69,3 +69,5 @@
 
 + [Steam 在越南被封禁](https://m.ithome.com/html/767421.htm)
 
++ [“史上最丑”AI 生图 Remini 一夜爆火！又一款妙鸭级爆品来了？](https://m.ithome.com/html/767416.htm)
+
