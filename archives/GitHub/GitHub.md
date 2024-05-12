@@ -51,3 +51,31 @@
 
 + [HqWu-HITCS / Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 
++ [jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [mustafaaljadery / gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M)
+
++ [atherosai / ui](https://github.com/atherosai/ui)
+
++ [open-webui / open-webui](https://github.com/open-webui/open-webui)
+
++ [vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
+
++ [nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
++ [txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar)
+
++ [google-research / timesfm](https://github.com/google-research/timesfm)
+
++ [Cry1ngMan / 1](https://github.com/Cry1ngMan/1)
+
++ [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
++ [xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp)
+

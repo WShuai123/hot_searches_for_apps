@@ -67,3 +67,5 @@
 
 + [龙芯 7A2000 芯片持续获得驱动更新，GPU 性能提升超 2022 年发布时两倍](https://m.ithome.com/html/767365.htm)
 
++ [Steam 在越南被封禁](https://m.ithome.com/html/767421.htm)
+
