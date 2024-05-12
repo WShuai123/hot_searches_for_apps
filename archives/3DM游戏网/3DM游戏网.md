@@ -155,3 +155,9 @@
 
 + [特斯拉德国工厂被指污染水源 近千人抗议扩建](https://www.3dmgame.com/news/202405/3894780.html)
 
++ [Xbox联合创始人：如今的Xbox其实只是微软游戏部](https://www.3dmgame.com/news/202405/3894786.html)
+
++ [《冷漠》恐怖新作《Apathy 小学恐怖故事》登陆Steam](https://www.3dmgame.com/news/202405/3894784.html)
+
++ [《塞尔达传说：王国之泪》新设定集承诺整理时间线](https://www.3dmgame.com/news/202405/3894785.html)
+
