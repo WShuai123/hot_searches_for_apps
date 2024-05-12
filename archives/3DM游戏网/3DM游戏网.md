@@ -143,3 +143,15 @@
 
 + [《全面战争：法老》更新后地图将大幅扩张 玩家非常期待](https://www.3dmgame.com/news/202405/3894777.html)
 
++ [《毁灭工具》登陆Steam 建筑破坏动作](https://www.3dmgame.com/news/202405/3894781.html)
+
++ [MCU交叉骨跳槽DCEU 将扮演瑞克·弗莱格二世](https://www.3dmgame.com/news/202405/3894782.html)
+
++ [ChatGPT之父认为iPhone是最伟大的技术产品](https://www.3dmgame.com/news/202405/3894783.html)
+
++ [小岛秀夫赞《疯狂的麦克斯：狂暴女神》导演是他的神](https://www.3dmgame.com/news/202405/3894778.html)
+
++ [前暴雪总裁建议Xbox：能做出伟大游戏是一切前提](https://www.3dmgame.com/news/202405/3894779.html)
+
++ [特斯拉德国工厂被指污染水源 近千人抗议扩建](https://www.3dmgame.com/news/202405/3894780.html)
+

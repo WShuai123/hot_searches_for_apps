@@ -103,3 +103,15 @@
 
 + [flatx.](https://www.producthunt.com/posts/flatx)
 
++ [Marvin](https://www.producthunt.com/posts/marvin-2cd8781e-020b-4847-9569-62498d071e2a)
+
++ [TimeStamper](https://www.producthunt.com/posts/timestamper)
+
++ [RedotPay](https://www.producthunt.com/posts/redotpay)
+
++ [Habitually 2.0 - Now with Extra SaaS!](https://www.producthunt.com/posts/habitually-2-0-now-with-extra-saas)
+
++ [AI Logo Design by Stylar](https://www.producthunt.com/posts/ai-logo-design-by-stylar)
+
++ [Smartrazor](https://www.producthunt.com/posts/smartrazor)
+

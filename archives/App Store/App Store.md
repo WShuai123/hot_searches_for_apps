@@ -213,3 +213,7 @@
 
 + [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
 
++ [淘小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id1228995359?mt=8)
+
++ [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
+
