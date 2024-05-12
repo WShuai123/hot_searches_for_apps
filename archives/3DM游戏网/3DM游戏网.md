@@ -131,3 +131,9 @@
 
 + [《英雄联盟》2024 MSI今日中韩焦点战：BLG迎击T1](https://www.3dmgame.com/news/202405/3894771.html)
 
++ [PSN事件后《绝地潜兵2》在多个地区仍处于下架状态](https://www.3dmgame.com/news/202405/3894773.html)
+
++ [湖北鼓励省内自研运载火箭 成功发射每发奖100万](https://www.3dmgame.com/news/202405/3894774.html)
+
++ [《群星》官方解释新DLC的AI使用 非常重视伦理性](https://www.3dmgame.com/news/202405/3894772.html)
+
