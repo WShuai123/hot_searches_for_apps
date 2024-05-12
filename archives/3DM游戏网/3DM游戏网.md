@@ -141,3 +141,5 @@
 
 + [《Old School Rally》Steam上线 复古风拉力赛车](https://www.3dmgame.com/news/202405/3894776.html)
 
++ [《全面战争：法老》更新后地图将大幅扩张 玩家非常期待](https://www.3dmgame.com/news/202405/3894777.html)
+
