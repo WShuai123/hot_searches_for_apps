@@ -55,3 +55,9 @@
 
 + [利用非传统路径，攻击者会如何入侵一家企业](https://www.freebuf.com/articles/es/400405.html)
 
++ [98%！汽车贷款行业合成身份欺诈案激增](https://www.freebuf.com/news/400750.html)
+
++ [黑客组织 FIN7 借用 Google Ads 传播恶意软件](https://www.freebuf.com/news/400742.html)
+
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

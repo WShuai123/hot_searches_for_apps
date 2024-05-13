@@ -35,3 +35,7 @@
 
 + [消息称高通骁龙 8 Gen 4 芯片正进行重新设计以迎战苹果，目标频率 4.26GHz](https://m.ithome.com/html/767470.htm)
 
++ [入住酒店无需再“刷脸”，大量设备遭 1 折抛售](https://m.ithome.com/html/767497.htm)
+
++ [腾讯 QQ / 微信上线地震预警功能，首批支持四川省及周边 50 公里内地区](https://m.ithome.com/html/767463.htm)
+
