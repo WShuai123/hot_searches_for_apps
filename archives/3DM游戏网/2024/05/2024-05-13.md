@@ -209,3 +209,13 @@
 
 + [独立游戏盛会《东京SANDBOX 2024》确定6月22日举行](https://www.3dmgame.com/news/202405/3894848.html)
 
++ [SE宣布新中期商业计划：转向多平台战略 重建海外业务部门](https://www.3dmgame.com/news/202405/3894856.html)
+
++ [合资、豪华全面溃败 4月中国汽车市场自主品牌占比已近6成](https://www.3dmgame.com/news/202405/3894855.html)
+
++ [《消费者之夜》Steam页面上线 侍候超市疯狂顾客](https://www.3dmgame.com/news/202405/3894854.html)
+
++ [WeGame“游戏之夜”5月19日开启 数十款新作上线](https://www.3dmgame.com/news/202405/3894853.html)
+
++ [《巫师4》动捕照曝光 游戏预告或于6月份公布](https://www.3dmgame.com/news/202405/3894852.html)
+

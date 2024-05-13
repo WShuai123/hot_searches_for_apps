@@ -41,3 +41,7 @@
 
 + [vivo X100 Ultra 手机参数汇总：2K E7 显示屏 + 骁龙 8 Gen 3 处理器，今晚发布](https://m.ithome.com/html/767521.htm)
 
++ [消息称小米 15 Pro 工程机采用圆套方设计新模组，50Mp 超大底主摄](https://m.ithome.com/html/767488.htm)
+
++ [华为将发布全屋智能“未来之家”：消息称可移动、面积 37.95m²](https://m.ithome.com/html/767507.htm)
+
