@@ -45,3 +45,5 @@
 
 + [华为将发布全屋智能“未来之家”：消息称可移动、面积 37.95m²](https://m.ithome.com/html/767507.htm)
 
++ [（更新：官网删除信息）魅族旗下首款车型命名“魅族 MX”，搭载 Flyme Auto 全案智能车机系统](https://m.ithome.com/html/767511.htm)
+

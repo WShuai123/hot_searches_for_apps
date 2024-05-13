@@ -169,3 +169,59 @@
 
 + [鸿蒙内核源码分析(Shell解析篇) | 应用窥视内核的窗口](https://blog.csdn.net/maniuT/article/details/138717738)
 
++ [Spring高手之路18——从XML配置角度理解Spring AOP](https://blog.csdn.net/qq_34115899/article/details/136041753)
+
++ [Python深度学习基于Tensorflow（9）注意力机制](https://blog.csdn.net/m0_72947390/article/details/138770116)
+
++ [遨游 JavaScript 对象星际：探索面向对象编程的深邃世界](https://blog.csdn.net/2201_75539691/article/details/138772515)
+
++ [轨迹规划 | 图解纯追踪算法Pure Pursuit(附ROS C++/Python/Matlab仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/138769194)
+
++ [杠上Google I/O？OpenAI抢先一天直播，ChatGPT或将具备通话功能](https://blog.csdn.net/HyperAI/article/details/138797961)
+
++ [vue3父子组件相互调用方法详解](https://blog.csdn.net/2301_78542842/article/details/138625923)
+
++ [【C#】.net core 6.0 ApiController，API控制器方法，API接口以实体类作为接收参数应该注意的点](https://blog.csdn.net/lmy_520/article/details/138801114)
+
++ [图神经网络实战（10）——归纳学习](https://blog.csdn.net/LOVEmy134611/article/details/138783193)
+
++ [Web安全：SQL注入之布尔盲注原理+步骤+实战操作](https://blog.csdn.net/wangyuxiang946/article/details/138220943)
+
++ [数据挖掘实战-基于决策树算法构建银行贷款审批预测模型](https://blog.csdn.net/m0_64336780/article/details/136188475)
+
++ [华为ensp中路由器IPSec VPN原理及配置命令(超详解)](https://blog.csdn.net/jxjdhdnd/article/details/138794781)
+
++ [AI大模型探索之路-训练篇22： ChatGLM3微调实战-从原理到应用的LoRA技术全解](https://blog.csdn.net/xiaobing259/article/details/138792983)
+
++ [【Linux 网络】网络编程套接字 -- 详解](https://blog.csdn.net/weixin_74531333/article/details/138470033)
+
++ [机器学习（五） ----------决策树算法](https://blog.csdn.net/2301_77539454/article/details/138764412)
+
++ [HTML5实现简洁好看的个人主页，个人小站(多种风格附源码)](https://blog.csdn.net/weixin_43151418/article/details/138708540)
+
++ [母亲节祝福html源码示例](https://blog.csdn.net/Dalao_zzl/article/details/138750973)
+
++ [Maven 自动化构建](https://blog.csdn.net/zhengzhaoyang122/article/details/138475108)
+
++ [Python实战开发及案例分析（18）—— 逻辑回归](https://blog.csdn.net/qq_42912425/article/details/138748758)
+
++ [基于JAVA的微信小程序二手车交易平台（源码）](https://blog.csdn.net/albert_xjf/article/details/138756925)
+
++ [SpringBoot:SpringBoot原理](https://blog.csdn.net/qq_55630615/article/details/138754496)
+
++ [博客互动革命：如何打造活跃读者社区并提升参与度](https://blog.csdn.net/coder_heweilai/article/details/138769713)
+
++ [MYSQL数据库-SQL语句](https://blog.csdn.net/2302_77099705/article/details/138750088)
+
++ [【Linux】信号](https://blog.csdn.net/2301_77112634/article/details/137998946)
+
++ [python随机显示四级词汇](https://blog.csdn.net/qq_28821897/article/details/138753151)
+
++ [Redis—图文详解高可用原因](https://blog.csdn.net/heyuxuan78/article/details/138769013)
+
++ [2024年盘古石杯服务器取证wp](https://blog.csdn.net/qq_51233573/article/details/138754433)
+
++ [（13）配置飞行中的FFT（二）](https://blog.csdn.net/qq_20016593/article/details/138492388)
+
++ [python爬虫（四）之九章智算汽车文章爬虫](https://blog.csdn.net/weixin_46294086/article/details/138772247)
+

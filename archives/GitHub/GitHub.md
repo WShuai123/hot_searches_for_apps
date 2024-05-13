@@ -51,3 +51,33 @@
 
 + [xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp)
 
++ [Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp)
+
++ [Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)
+
++ [rt64 / rt64](https://github.com/rt64/rt64)
+
++ [invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI)
+
++ [Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X)
+
++ [linyiLYi / bilibot](https://github.com/linyiLYi/bilibot)
+
++ [X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker)
+
++ [Mega-Gorilla / Index_PDF_Translation](https://github.com/Mega-Gorilla/Index_PDF_Translation)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [modelscope / agentscope](https://github.com/modelscope/agentscope)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
++ [stooged / PI-Pwn](https://github.com/stooged/PI-Pwn)
+
++ [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
+

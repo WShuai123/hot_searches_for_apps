@@ -65,3 +65,7 @@
 
 + [泄露500G数据，澳大利亚最大非银机构Firstmac遭勒索攻击](https://www.freebuf.com/news/400745.html)
 
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+
++ [市场监管总局发布《网络反不正当竞争暂行规定》](https://www.freebuf.com/news/400798.html)
+

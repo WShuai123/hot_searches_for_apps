@@ -231,3 +231,11 @@
 
 + [消息称苹果iOS 18将推广告屏蔽功能 媒体对其不满](https://www.3dmgame.com/news/202405/3894857.html)
 
++ [传苹果接近与OpenAI达成协议 将ChatGPT技术引入到iPhone](https://www.3dmgame.com/news/202405/3894866.html)
+
++ [女子入住酒店在空调出风口发现摄像头 真防不胜防！](https://www.3dmgame.com/news/202405/3894865.html)
+
++ [爆料人Dusk Golem澄清《生化危机9》部分传闻：已经过时 并不准确](https://www.3dmgame.com/news/202405/3894863.html)
+
++ [希捷将推酷玩530R系列SSD：最高4TB 读取速度7400MB/s](https://www.3dmgame.com/news/202405/3894864.html)
+
