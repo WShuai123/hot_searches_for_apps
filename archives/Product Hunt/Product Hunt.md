@@ -105,3 +105,9 @@
 
 + [Backdrop](https://www.producthunt.com/posts/backdrop-07b8de05-3a01-4d73-bcde-6b6f5555d14a)
 
++ [SimplifiedIQ](https://www.producthunt.com/posts/simplifiediq)
+
++ [Voicenotes](https://www.producthunt.com/posts/voicenotes-2)
+
++ [Supa Screenshot](https://www.producthunt.com/posts/supa-screenshot)
+

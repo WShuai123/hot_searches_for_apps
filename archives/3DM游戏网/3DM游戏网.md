@@ -199,3 +199,13 @@
 
 + [《One-inch Tactics》5月20日发售 暂不支持中文](https://www.3dmgame.com/news/202405/3894846.html)
 
++ [《星刃》“伊芙”肤质战衣1/4雕像公布 售价485欧元](https://www.3dmgame.com/news/202405/3894849.html)
+
++ [KK官方对战平台 冰霜之息席卷山谷，“冰霜幼龙”限时兑换开启！](https://www.3dmgame.com/news/202405/3894850.html)
+
++ [网易游戏520发布会 B站、抖音等平台上线](https://www.3dmgame.com/news/202405/3894851.html)
+
++ [玩家发掘《漫威争锋》数据 表明游戏或将推出MCU皮肤](https://www.3dmgame.com/news/202405/3894847.html)
+
++ [独立游戏盛会《东京SANDBOX 2024》确定6月22日举行](https://www.3dmgame.com/news/202405/3894848.html)
+

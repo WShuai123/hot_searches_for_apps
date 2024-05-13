@@ -39,3 +39,5 @@
 
 + [腾讯 QQ / 微信上线地震预警功能，首批支持四川省及周边 50 公里内地区](https://m.ithome.com/html/767463.htm)
 
++ [vivo X100 Ultra 手机参数汇总：2K E7 显示屏 + 骁龙 8 Gen 3 处理器，今晚发布](https://m.ithome.com/html/767521.htm)
+
