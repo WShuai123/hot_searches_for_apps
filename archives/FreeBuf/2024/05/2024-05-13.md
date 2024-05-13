@@ -45,3 +45,7 @@
 
 + [论从乙方转到甲方开始搞信息安全建设](https://www.freebuf.com/articles/neopoints/400444.html)
 
++ [【年中直播】NGINX直播揭秘，应用安全防护的「杀手锏」](https://www.freebuf.com/news/400734.html)
+
++ [渗透实训 | 记一次后台多处对文件上传的WAF绕过](https://www.freebuf.com/articles/web/399569.html)
+

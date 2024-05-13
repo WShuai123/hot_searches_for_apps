@@ -211,3 +211,5 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [喜马拉雅「听书社区」电台有声小说相声评书](https://itunes.apple.com/cn/app/id876336838?mt=8)
+

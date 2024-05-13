@@ -33,3 +33,5 @@
 
 + [二十年以来最强地磁暴来袭，我国多地可见极光](https://m.ithome.com/html/767448.htm)
 
++ [消息称高通骁龙 8 Gen 4 芯片正进行重新设计以迎战苹果，目标频率 4.26GHz](https://m.ithome.com/html/767470.htm)
+

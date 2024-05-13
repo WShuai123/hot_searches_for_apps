@@ -129,3 +129,21 @@
 
 + [骁龙8 Gen4瞄准A18性能攀升至4.26GHz](https://www.3dmgame.com/news/202405/3894807.html)
 
++ [《真女神转生5：复仇》恶魔克丽奥佩脱拉视频欣赏](https://www.3dmgame.com/news/202405/3894819.html)
+
++ [love live！视觉小说新作定名 发售日待定](https://www.3dmgame.com/news/202405/3894818.html)
+
++ [《鬼灭之刃 争当最强队士！》夏季更新 新角色参战](https://www.3dmgame.com/news/202405/3894816.html)
+
++ [小岛秀夫Xbox新作《OD》细节内容泄露：有两种游戏玩法](https://www.3dmgame.com/news/202405/3894817.html)
+
++ [《龙腾世纪：恐狼》品质将有保证 Bioware所有员工都非常满意](https://www.3dmgame.com/news/202405/3894820.html)
+
++ [复古街机游戏《闹鬼街机》现已在Steam平台免费推出抢先体验版](https://www.3dmgame.com/news/202405/3894815.html)
+
++ [前魔兽设计师鬼蟹：AI能帮助完成乏味工作 但不能编写任务](https://www.3dmgame.com/news/202405/3894814.html)
+
++ [《漫威争锋》测试服条款禁止玩家发表负面评论 官方已致歉并正在修改](https://www.3dmgame.com/news/202405/3894813.html)
+
++ [《快餐店模拟器》Steam页面上线 模拟经营开店指南](https://www.3dmgame.com/news/202405/3894812.html)
+
