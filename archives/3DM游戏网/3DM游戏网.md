@@ -243,3 +243,9 @@
 
 + [传《生化危机》RE引擎重制版开发中 2026年发售](https://www.3dmgame.com/news/202405/3894867.html)
 
++ [EA出手了 《战地》游戏进行了大规模封号](https://www.3dmgame.com/news/202405/3894871.html)
+
++ [电竞世界杯：CS2、星际争霸2、Apex英雄、街霸6奖金公布](https://www.3dmgame.com/news/202405/3894870.html)
+
++ [AMD下一代Strix Halo APU现身 至少配32GB板载内存](https://www.3dmgame.com/news/202405/3894869.html)
+

@@ -225,3 +225,13 @@
 
 + [python爬虫（四）之九章智算汽车文章爬虫](https://blog.csdn.net/weixin_46294086/article/details/138772247)
 
++ [【DevOps】详细解析：SSH 协议的工作原理、安全配置及实用技巧](https://blog.csdn.net/benshu_001/article/details/138762728)
+
++ [【SpringBoot篇】详解Bean的管理（获取bean，bean的作用域，第三方bean）](https://blog.csdn.net/m0_72853403/article/details/138805769)
+
++ [Android 系统省电软件分析](https://blog.csdn.net/rjdeng/article/details/138784784)
+
++ [Linux本地部署Nightingale夜莺监控并实现远程访问提高运维效率](https://blog.csdn.net/qyj19920704/article/details/138809744)
+
++ [Java进阶-SpringCloud设计模式-工厂模式的设计与详解](https://blog.csdn.net/weixin_41793160/article/details/138687397)
+
