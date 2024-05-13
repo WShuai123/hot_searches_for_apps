@@ -173,3 +173,13 @@
 
 + [《毁灭战士》新作再添新证据 在美国注册游戏商标](https://www.3dmgame.com/news/202405/3894827.html)
 
++ [《Necrophosis》Steam试玩发布 异世界风格恐怖探索](https://www.3dmgame.com/news/202405/3894838.html)
+
++ [《宝可梦：朱/紫》新配信宝可梦 2023世锦赛“暴鲤龙”](https://www.3dmgame.com/news/202405/3894837.html)
+
++ [研究人员推出xLSTM神经网络AI架构 并行化处理Token](https://www.3dmgame.com/news/202405/3894836.html)
+
++ [《绝地潜兵2》前首席编剧表示为了完美展现游戏的实时内容而筋疲力尽](https://www.3dmgame.com/news/202405/3894835.html)
+
++ [外媒揭秘比尔·盖茨怎么花钱 坐拥上万亿元财富](https://www.3dmgame.com/news/202405/3894834.html)
+

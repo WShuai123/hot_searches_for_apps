@@ -51,3 +51,5 @@
 
 + [澳大利亚最大的非银行贷款机构泄露超500G数据](https://www.freebuf.com/news/400745.html)
 
++ [Black Basta 勒索软件入侵全球 500 多个组织](https://www.freebuf.com/news/400733.html)
+
