@@ -119,3 +119,15 @@
 
 + [网传史克威尔将裁减美国和欧洲分公司员工](https://www.3dmgame.com/news/202405/3894877.html)
 
++ [《刺客信条：影》情报泄露：游戏季票售价为40美元](https://www.3dmgame.com/news/202405/3894886.html)
+
++ [《马里奥大电影》大成功 任天堂将拓展游戏IP影视化](https://www.3dmgame.com/news/202405/3894885.html)
+
++ [《波斯王子：Rogue》确定5月27日开启抢鲜体验](https://www.3dmgame.com/news/202405/3894884.html)
+
++ [超萌骑士闯关冒险 《大头盔英雄》年内发售](https://www.3dmgame.com/news/202405/3894883.html)
+
++ [SE宣布多平台发行策略 今后3A游戏将覆盖全平台](https://www.3dmgame.com/news/202405/3894882.html)
+
++ [《刺客信条：影》首部预告5月16日公开 11月15日发售](https://www.3dmgame.com/news/202405/3894881.html)
+
