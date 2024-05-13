@@ -49,3 +49,5 @@
 
 + [渗透实训 | 记一次后台多处对文件上传的WAF绕过](https://www.freebuf.com/articles/web/399569.html)
 
++ [澳大利亚最大的非银行贷款机构泄露超500G数据](https://www.freebuf.com/news/400745.html)
+
