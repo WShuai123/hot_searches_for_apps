@@ -219,3 +219,15 @@
 
 + [《巫师4》动捕照曝光 游戏预告或于6月份公布](https://www.3dmgame.com/news/202405/3894852.html)
 
++ [《狂想异星》登陆Steam 3D空间肉鸽动作射击](https://www.3dmgame.com/news/202405/3894862.html)
+
++ [三星也扛不住了！继苹果后终止自动驾驶汽车研发](https://www.3dmgame.com/news/202405/3894861.html)
+
++ [《黑神话：悟空》已在QQ开启预约 或将登陆Wegame](https://www.3dmgame.com/news/202405/3894860.html)
+
++ [马斯克：SpaceX星舰将进行第4次试飞 预计6月上旬](https://www.3dmgame.com/news/202405/3894859.html)
+
++ [谷歌I/O大会官宣：Android 15来了](https://www.3dmgame.com/news/202405/3894858.html)
+
++ [消息称苹果iOS 18将推广告屏蔽功能 媒体对其不满](https://www.3dmgame.com/news/202405/3894857.html)
+
