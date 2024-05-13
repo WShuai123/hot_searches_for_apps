@@ -111,3 +111,11 @@
 
 + [《夜族崛起》正式版近期上线 峰值破13万](https://www.3dmgame.com/news/202405/3894872.html)
 
++ [R星游戏启动器文件中提及《荒野大镖客1》PC版](https://www.3dmgame.com/news/202405/3894880.html)
+
++ [《华纳大乱斗》新预告展示小丑实机玩法和外观](https://www.3dmgame.com/news/202405/3894879.html)
+
++ [《星球大战：法外狂徒》新视频详细介绍了声望系统](https://www.3dmgame.com/news/202405/3894878.html)
+
++ [网传史克威尔将裁减美国和欧洲分公司员工](https://www.3dmgame.com/news/202405/3894877.html)
+
