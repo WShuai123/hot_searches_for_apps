@@ -101,3 +101,13 @@
 
 + [动作角色扮演游戏《野蛮人：终极BOSS战》现已推出试玩Demo 正式版6月6日推出](https://www.3dmgame.com/news/202405/3894826.html)
 
++ [最强天玑旗舰 vivo X100s Pro发布：4999元起](https://www.3dmgame.com/news/202405/3894876.html)
+
++ [《艾尔登法环》“黄金树幽影”新截图 悲剧的遗弃者](https://www.3dmgame.com/news/202405/3894875.html)
+
++ [外媒评选14款PS主机值得探索的游戏 《战神》等](https://www.3dmgame.com/news/202405/3894874.html)
+
++ [剧情驱动《印蒂卡》5月17日登陆主机 Steam特别好评](https://www.3dmgame.com/news/202405/3894873.html)
+
++ [《夜族崛起》正式版近期上线 峰值破13万](https://www.3dmgame.com/news/202405/3894872.html)
+
