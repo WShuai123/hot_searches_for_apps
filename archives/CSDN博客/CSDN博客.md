@@ -101,3 +101,71 @@
 
 + [基于Vant UI的微信小程序开发（随时更新的写手）](https://blog.csdn.net/weixin_48053866/article/details/138669414)
 
++ [【机器学习数据可视化-04】Pyecharts数据可视化宝典](https://blog.csdn.net/qq_38614074/article/details/138525727)
+
++ [【微服务】spring aop实现接口参数变更前后对比和日志记录](https://blog.csdn.net/zhangcongyi420/article/details/138748857)
+
++ [SpringBoot 轻松实现发送邮箱验证码+Redis缓存（附带HTML模板）](https://blog.csdn.net/weixin_73588491/article/details/138715668)
+
++ [You Only Cache Once:YOCO 基于Decoder-Decoder 的一个新的大语言模型架构](https://blog.csdn.net/m0_46510245/article/details/138749845)
+
++ [【DevOps】Linux 安全：iptables 组成、命令及应用场景详解](https://blog.csdn.net/benshu_001/article/details/138730375)
+
++ [十个最适合论文写作的GPTs及其应用](https://blog.csdn.net/xianyu120/article/details/138755056)
+
++ [MySQL性能优化（提升数据库性能的措施）](https://blog.csdn.net/xiangxi1204/article/details/138713155)
+
++ [机器学习-监督学习](https://blog.csdn.net/L6666688888/article/details/138730268)
+
++ [从关键概念到应用：深入了解大规模语言模型（LLM）](https://blog.csdn.net/universsky2015/article/details/138714411)
+
++ [机器学习周报第41周](https://blog.csdn.net/2301_78609379/article/details/138620343)
+
++ [JavaScript 防抖与节流——以游戏智慧解锁实战奥秘](https://blog.csdn.net/m0_52827996/article/details/138721410)
+
++ [vue2响应式原理，数据劫持，数据代理，Object.defineProperty()方法](https://blog.csdn.net/weixin_54049256/article/details/138708151)
+
++ [[机器学习-03] Scikit-Learn机器学习工具包学习指南：主要功能与用法解析](https://blog.csdn.net/m0_59951855/article/details/138670398)
+
++ [如何利用AI提高内容生产效率](https://blog.csdn.net/ak2111/article/details/138564574)
+
++ [最新巨量X-Bogus、_signature参数逆向分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/138661790)
+
++ [[Linux][网络][数据链路层][一][以太网][局域网原理]详细讲解](https://blog.csdn.net/qq_37281656/article/details/138686116)
+
++ [【.NET Core】你真的了解HttpRuntime类吗](https://blog.csdn.net/songjianlong/article/details/138732526)
+
++ [AI大模型探索之路-训练篇21：Llama2微调实战-LoRA技术微调步骤详解](https://blog.csdn.net/xiaobing259/article/details/138763708)
+
++ [LVDS 接口标准和规范](https://blog.csdn.net/u011565038/article/details/138696654)
+
++ [# 电脑突然连接不上网络了，怎么办？](https://blog.csdn.net/qfyh_djh/article/details/138715472)
+
++ [【网络】为什么TCP需要四次挥手？](https://blog.csdn.net/weixin_63050691/article/details/138733712)
+
++ [【计算机网络】数据链路层的功能](https://blog.csdn.net/2302_76305195/article/details/138723981)
+
++ [【pkuseg】由于网络策略组织下载请求，因此直接在github中下载细分领域模型medicine](https://blog.csdn.net/wtyuong/article/details/138712919)
+
++ [2024数维杯数学建模竞赛A题完整代码和思路论文解析](https://blog.csdn.net/qq_45857113/article/details/138682800)
+
++ [如何在 Ubuntu 上创建一个 SSH CA 以验证主机和客户端](https://blog.csdn.net/rubys007/article/details/138678637)
+
++ [Hadoop+Spark大数据技术 第6次作业 Spark简介与RDD编程](https://blog.csdn.net/qq_64684039/article/details/138730446)
+
++ [Vue3知识总结-2](https://blog.csdn.net/z3551906947/article/details/138733253)
+
++ [Linux 第二十八章](https://blog.csdn.net/m0_67846057/article/details/138708642)
+
++ [Spring框架全面解析：解锁Java开发的5大核心利器，构建高效企业应用](https://blog.csdn.net/z_344791576/article/details/138744866)
+
++ [微信小程序中的图像奥秘：图片与Base64的华丽变身记](https://blog.csdn.net/black_cat7/article/details/138712205)
+
++ [flask+layui显示监控视频](https://blog.csdn.net/weixin_40837318/article/details/138707616)
+
++ [外包干了3天，技术退步明显.......](https://blog.csdn.net/2301_78843735/article/details/138727613)
+
++ [云南区块链商户平台：抓包技术自制开票工具(三)](https://blog.csdn.net/qq_35230125/article/details/138718841)
+
++ [鸿蒙内核源码分析(Shell解析篇) | 应用窥视内核的窗口](https://blog.csdn.net/maniuT/article/details/138717738)
+

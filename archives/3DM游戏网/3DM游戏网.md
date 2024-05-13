@@ -119,3 +119,13 @@
 
 + [任天堂为Switch带来重制版《塞尔达传说：旷野之息》](https://www.3dmgame.com/news/202405/3894804.html)
 
++ [《猩球崛起4》全球开画1.29亿美元 系列开局最高](https://www.3dmgame.com/news/202405/3894810.html)
+
++ [Steam官方：限制《地狱潜者2》上架国家的是索尼 不是Steam](https://www.3dmgame.com/news/202405/3894811.html)
+
++ [《绝地潜兵2》星球大战MOD出现 毫无违和感](https://www.3dmgame.com/news/202405/3894809.html)
+
++ [杀意波动之鬼《街头霸王6》豪鬼第二套服装曝光](https://www.3dmgame.com/news/202405/3894808.html)
+
++ [骁龙8 Gen4瞄准A18性能攀升至4.26GHz](https://www.3dmgame.com/news/202405/3894807.html)
+
