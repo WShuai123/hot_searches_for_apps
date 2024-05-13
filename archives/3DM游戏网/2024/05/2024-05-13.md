@@ -193,3 +193,9 @@
 
 + [斩草除根 任天堂再次提出删除破解密码工具Lockpick](https://www.3dmgame.com/news/202405/3894843.html)
 
++ [塔防Roguelike游戏《鸡械绿洲》2024年更新路线图公布 包含大量内容更新](https://www.3dmgame.com/news/202405/3894845.html)
+
++ [《无职转生》第二季 “转移迷宫篇”预告放出 5月26号开播](https://www.3dmgame.com/news/202405/3894844.html)
+
++ [《One-inch Tactics》5月20日发售 暂不支持中文](https://www.3dmgame.com/news/202405/3894846.html)
+

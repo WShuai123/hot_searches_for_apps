@@ -61,3 +61,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [如何使用Shortemall自动扫描URL短链接中的隐藏内容](https://www.freebuf.com/sectool/400552.html)
+

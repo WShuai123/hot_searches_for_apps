@@ -101,3 +101,7 @@
 
 + [Weeblok](https://www.producthunt.com/posts/weeblok)
 
++ [Copilot Chat in GitHub Mobile](https://www.producthunt.com/posts/copilot-chat-in-github-mobile)
+
++ [Backdrop](https://www.producthunt.com/posts/backdrop-07b8de05-3a01-4d73-bcde-6b6f5555d14a)
+
