@@ -49,3 +49,31 @@
 
 + [big plant](https://dribbble.com/shots/)
 
++ [Data & Compute - Spot Illustrations](https://dribbble.com/shots/)
+
++ [Irene](https://dribbble.com/shots/)
+
++ [Smart Stack Concept 2](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+
++ [Hamm's Beer](https://dribbble.com/shots/)
+
++ [Marketers over Artists?](https://dribbble.com/shots/)
+
++ [Glyph Beer 43](https://dribbble.com/shots/)
+
++ [Naboo's Theed Galactic Park](https://dribbble.com/shots/)
+
++ [Chromatic Box - Photoshop Bundle](https://dribbble.com/shots/)
+
++ [Cocktails](https://dribbble.com/shots/)
+
++ [Flatley Whiskey](https://dribbble.com/shots/)
+
++ [Meenakshi ????](https://dribbble.com/shots/)
+
++ [The Original Trilogy](https://dribbble.com/shots/)
+
++ [Time to work](https://dribbble.com/shots/)
+

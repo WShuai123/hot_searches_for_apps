@@ -25,3 +25,7 @@
 
 + [小米米家无线洗车机 2 上架：无线锂电设计，众筹价 279 元](https://m.ithome.com/html/767505.htm)
 
++ [vivo X100s / Pro、X100 Ultra 京东开售，全系 24 期免息](https://m.ithome.com/html/767664.htm)
+
++ [vivo X100s / Pro 手机发布：首发联发科天玑 9300+，售价 3999 元起](https://m.ithome.com/html/767653.htm)
+
