@@ -123,3 +123,5 @@
 
 + [BoodleBox](https://www.producthunt.com/posts/boodlebox)
 
++ [AI Email Template Creator by Mailmodo](https://www.producthunt.com/posts/ai-email-template-creator-by-mailmodo)
+

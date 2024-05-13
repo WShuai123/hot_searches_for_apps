@@ -47,3 +47,5 @@
 
 + [（更新：官网删除信息）魅族旗下首款车型命名“魅族 MX”，搭载 Flyme Auto 全案智能车机系统](https://m.ithome.com/html/767511.htm)
 
++ [王化回应小米 SU7 刹车故障：确为软件误识别，已修复该“小概率”事件](https://m.ithome.com/html/767614.htm)
+

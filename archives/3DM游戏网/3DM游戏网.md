@@ -239,3 +239,7 @@
 
 + [希捷将推酷玩530R系列SSD：最高4TB 读取速度7400MB/s](https://www.3dmgame.com/news/202405/3894864.html)
 
++ [《使命召唤》2025、2026和2027三款新作细节泄露](https://www.3dmgame.com/news/202405/3894868.html)
+
++ [传《生化危机》RE引擎重制版开发中 2026年发售](https://www.3dmgame.com/news/202405/3894867.html)
+
