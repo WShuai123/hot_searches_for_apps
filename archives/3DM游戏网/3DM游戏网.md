@@ -183,3 +183,9 @@
 
 + [外媒揭秘比尔·盖茨怎么花钱 坐拥上万亿元财富](https://www.3dmgame.com/news/202405/3894834.html)
 
++ [《辐射》沙荫市设计师不满真人剧中对沙荫市的剧情设定](https://www.3dmgame.com/news/202405/3894839.html)
+
++ [《五金圣剑模拟器》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3894840.html)
+
++ [雷军怒赞小米SU7电动尾翼 路上跑起来真的特别帅](https://www.3dmgame.com/news/202405/3894841.html)
+
