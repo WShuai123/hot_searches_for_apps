@@ -121,3 +121,15 @@
 
 + [《暗黑破坏神4》第四赛季“寻宝重生“现已正式上线](https://www.3dmgame.com/news/202405/3894974.html)
 
++ [《刺客信条：影》短视频和艺术图泄露 男女主角登场](https://www.3dmgame.com/news/202405/3894987.html)
+
++ [PlayStation未来3年中期计划 旗下游戏将继续登陆PC](https://www.3dmgame.com/news/202405/3894985.html)
+
++ [恶搞游戏《世界上最糟糕的维修工》序章免费上线](https://www.3dmgame.com/news/202405/3894984.html)
+
++ [《黎明杀机》公开2V8玩法 联动《恶魔城》](https://www.3dmgame.com/news/202405/3894983.html)
+
++ [ChatGPT Windows版客户端将于今年晚些时候发布 Mac版客户端现已推出](https://www.3dmgame.com/news/202405/3894982.html)
+
++ [消息称任天堂将于9月推出塞尔达传说乐高积木](https://www.3dmgame.com/news/202405/3894981.html)
+

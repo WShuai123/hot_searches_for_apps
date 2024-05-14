@@ -209,3 +209,5 @@
 
 + [韩小圈-热门韩剧娱乐社区](https://itunes.apple.com/cn/app/id1588233154?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
