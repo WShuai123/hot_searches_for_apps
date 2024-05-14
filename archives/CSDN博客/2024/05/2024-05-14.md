@@ -101,3 +101,59 @@
 
 + [HTML5](https://blog.csdn.net/qq_39236499/article/details/138767972)
 
++ [【机器学习】人力资源管理的新篇章：AI驱动的高效与智能化](https://blog.csdn.net/g310773517/article/details/138808235)
+
++ [【机器学习】机器学习与人工智能融合新篇章：自适应智能代理在多元化复杂环境中的创新应用与演进趋势](https://blog.csdn.net/Easonmax/article/details/138800713)
+
++ [计算机Java项目｜Springboot房产销售系统](https://blog.csdn.net/whirlwind526/article/details/138823376)
+
++ [【Jenkins】Pipeline流水线语法解析全集 -- 声明式流水线](https://blog.csdn.net/liu_chen_yang/article/details/136528857)
+
++ [【MySQL】sql表设计的注意事项](https://blog.csdn.net/jinxinxin1314/article/details/138826248)
+
++ [HTML炫酷的相册](https://blog.csdn.net/m0_68111267/article/details/138788909)
+
++ [【Spring Boot】 深入理解Spring Boot拦截器：自定义设计与实现全攻略](https://blog.csdn.net/smile_sundays/article/details/138484724)
+
++ [VALSE 2024合合信息 | 文档解析与向量化技术加速多模态大模型训练与应用](https://blog.csdn.net/chenlycly/article/details/138861401)
+
++ [【MySQL数据库】丨高可用之MHA集群部署](https://blog.csdn.net/m0_63947499/article/details/138682395)
+
++ [深度剖析深度神经网络（DNN）：原理、实现与应用](https://blog.csdn.net/myTomorrow_better/article/details/138817202)
+
++ [数据库——SQL SERVER（先学删库跑路）](https://blog.csdn.net/m0_74012211/article/details/138727524)
+
++ [基于FPGA的数字信号处理（12）--定点数的舍入模式（3）收敛取整convergent](https://blog.csdn.net/wuzhikaidetb/article/details/138787556)
+
++ [spring boot3多模块项目工程搭建-下（团队开发模板）](https://blog.csdn.net/qq_62262918/article/details/138497072)
+
++ [RabbitMQ--死信队列](https://blog.csdn.net/DreamDlee/article/details/138804813)
+
++ [[vue2/vue3] -- 深入剖析v-model的原理、父子组件双向绑定的多种写法](https://blog.csdn.net/2301_78542842/article/details/138619710)
+
++ [Spring Boot日志](https://blog.csdn.net/cool_tao6/article/details/138760263)
+
++ [如何在创建之前检测 Elasticsearch 将使用哪个索引模板](https://blog.csdn.net/UbuntuTouch/article/details/138795427)
+
++ [网络网络层之(5)IPv6协议](https://blog.csdn.net/Once_day/article/details/138824976)
+
++ [springboot+vue+mybatis生活废品回收系统+PPT+论文+讲解+售后](https://blog.csdn.net/boke1314/article/details/138819414)
+
++ [如何创建 Ansible Playbooks 来自动化 Ubuntu 系统配置](https://blog.csdn.net/rubys007/article/details/138678737)
+
++ [YOLOV8实战-和平精英敌我检测](https://blog.csdn.net/m0_49710816/article/details/138799270)
+
++ [Python实战开发及案例分析（21）—— 广度优先](https://blog.csdn.net/qq_42912425/article/details/138789579)
+
++ [(done) 什么是马尔可夫链？Markov Chain](https://blog.csdn.net/shimly123456/article/details/138823665)
+
++ [苍穹外卖项目---------收获以及改进(9-12)](https://blog.csdn.net/qq_62366797/article/details/138671173)
+
++ [树莓派点亮FPGA小灯](https://blog.csdn.net/LX567567/article/details/138758494)
+
++ [软件2班20240513](https://blog.csdn.net/2301_80189168/article/details/138803546)
+
++ [基于Python的电影数据可视化分析系统的设计与实现](https://blog.csdn.net/No_Name_Cao_Ni_Mei/article/details/138806963)
+
++ [外包干了8天，技术退步明显。。。。。](https://blog.csdn.net/yjt2045263063/article/details/138821021)
+

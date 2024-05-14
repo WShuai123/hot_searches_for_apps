@@ -53,3 +53,11 @@
 
 + [华为余承东：问界 M9 汽车推出新 21 英寸多辐星辉轮毂，配静音轮胎](https://m.ithome.com/html/767790.htm)
 
++ [12+256G 京东 2799 元：小米 13 手机百亿补贴 6 期免息](https://m.ithome.com/html/767886.htm)
+
++ [苹果 iOS 16.7.8 正式版发布](https://m.ithome.com/html/767703.htm)
+
++ [苹果声称 2024 款 iPad Pro 不易变弯，散热金属板可充当平板电脑“中央肋骨”](https://m.ithome.com/html/767736.htm)
+
++ [苹果 Vision Pro 国行现已通过 3C 认证，有望 WWDC24 后发售](https://m.ithome.com/html/767793.htm)
+
