@@ -61,3 +61,5 @@
 
 + [苹果 Vision Pro 国行现已通过 3C 认证，有望 WWDC24 后发售](https://m.ithome.com/html/767793.htm)
 
++ [供不应求，消息称小米汽车 SU7 零部件加单约 80%，现锁单最久需等待 36 周](https://m.ithome.com/html/767893.htm)
+
