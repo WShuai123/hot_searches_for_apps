@@ -131,3 +131,13 @@
 
 + [《刺客信条：影》首部预告5月16日公开 11月15日发售](https://www.3dmgame.com/news/202405/3894881.html)
 
++ [《辐射4》次世代版本第二轮更新现已上线](https://www.3dmgame.com/news/202405/3894891.html)
+
++ [《星际公民》3.23更新上线 支持英伟达DLSS和AMD FSR](https://www.3dmgame.com/news/202405/3894888.html)
+
++ [索尼任命两名PlayStation CEO以接替Jim Ryan](https://www.3dmgame.com/news/202405/3894889.html)
+
++ [《暗黑破坏神4》户外广告喷绘获最佳国际活动金奖](https://www.3dmgame.com/news/202405/3894890.html)
+
++ [《守望先锋2》保时捷联动D.Va法老之鹰造型上线](https://www.3dmgame.com/news/202405/3894887.html)
+

@@ -29,3 +29,5 @@
 
 + [vivo X100s / Pro 手机发布：首发联发科天玑 9300+，售价 3999 元起](https://m.ithome.com/html/767653.htm)
 
++ [旗下第一款“相机”，vivo X100 Ultra 手机亮相](https://m.ithome.com/html/767648.htm)
+

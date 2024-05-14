@@ -71,3 +71,7 @@
 
 + [到底是谁在卧龙杯雀魂比赛做四暗刻？](http://www.acfun.cn/v/ac44533633)
 
++ [【诸葛】奇葩战舰设计大赏02](http://www.acfun.cn/v/ac44533387)
+
++ [Bunny Style](http://www.acfun.cn/v/ac44531074)
+
