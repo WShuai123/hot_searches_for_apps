@@ -29,3 +29,5 @@
 
 + [问界新 M5 明日开始交付：全系车型标配激光雷达，24.98 万元起](https://m.ithome.com/html/767833.htm)
 
++ [流畅操作，安卓手机运行 ChromeOS 首个实机演示曝光](https://m.ithome.com/html/767834.htm)
+
