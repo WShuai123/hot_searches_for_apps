@@ -281,3 +281,9 @@
 
 + [软银清仓阿里巴巴！资产价值比例从48%降至“几乎为零”](https://www.3dmgame.com/news/202405/3894958.html)
 
++ [华硕ROG Ally X定价799美元 仅提供Ryzen Z1 Extreme版本](https://www.3dmgame.com/news/202405/3894965.html)
+
++ [《尘白禁区》健康系统升级 禁止未成年游玩](https://www.3dmgame.com/news/202405/3894962.html)
+
++ [印度博主中国旅游后发感慨：卫生基建设施远超印度](https://www.3dmgame.com/news/202405/3894963.html)
+

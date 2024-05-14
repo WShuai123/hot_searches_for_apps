@@ -49,3 +49,7 @@
 
 + [小米 15 系列手机三款机型曝料：含卫星通信版，有望 10 月发布](https://m.ithome.com/html/767789.htm)
 
++ [汇顶科技“认领”vivo X100 Ultra 手机屏下超声波指纹：油 / 湿手也能用](https://m.ithome.com/html/767685.htm)
+
++ [华为余承东：问界 M9 汽车推出新 21 英寸多辐星辉轮毂，配静音轮胎](https://m.ithome.com/html/767790.htm)
+
