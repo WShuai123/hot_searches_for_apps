@@ -141,3 +141,31 @@
 
 + [《守望先锋2》保时捷联动D.Va法老之鹰造型上线](https://www.3dmgame.com/news/202405/3894887.html)
 
++ [任天堂完胜 Switch“Joy-Con手柄漂移”集体诉讼全被驳回](https://www.3dmgame.com/news/202405/3894904.html)
+
++ [工厂自动化游戏《巧克力工厂》steam页面上线 6月发售](https://www.3dmgame.com/news/202405/3894905.html)
+
++ [近期《使命召唤》后续新作泄露消息均不属实](https://www.3dmgame.com/news/202405/3894903.html)
+
++ [Steam《无限重玩》游戏节开幕 肉鸽类高度耐玩游戏集结](https://www.3dmgame.com/news/202405/3894902.html)
+
++ [《艾尔登法环》玩家进不去游戏 官方送DLC以表歉意](https://www.3dmgame.com/news/202405/3894901.html)
+
++ [沙盒建造游戏《太空工程师》发布“信号”更新宣传片](https://www.3dmgame.com/news/202405/3894900.html)
+
++ [第一人称汽车恐怖游戏《Last mile》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3894899.html)
+
++ [《刺客信条：影》将不会登陆上世代Xbox One和PS4主机](https://www.3dmgame.com/news/202405/3894898.html)
+
++ [《刺客信条：影》由《刺客信条：奥德赛》团队育碧魁北克打造](https://www.3dmgame.com/news/202405/3894897.html)
+
++ [《黑帝斯2》首个补丁本月上线 大型内容更新计划中](https://www.3dmgame.com/news/202405/3894896.html)
+
++ [Paradox宣布《监狱建筑师2》开发商在合作9年后离开](https://www.3dmgame.com/news/202405/3894895.html)
+
++ [《生化危机9》角色年龄推测 里昂48岁艾达王51岁](https://www.3dmgame.com/news/202405/3894894.html)
+
++ [《Cookard》Steam免费发布 小动物顾客餐馆经营](https://www.3dmgame.com/news/202405/3894893.html)
+
++ [RPG《温迪尔：谎言瘟疫》5月30日发行 支持简中](https://www.3dmgame.com/news/202405/3894892.html)
+
