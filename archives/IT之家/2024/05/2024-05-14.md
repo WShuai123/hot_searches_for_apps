@@ -37,3 +37,11 @@
 
 + [淘宝 App 首页改版：“淘宝好价、淘宝买菜”频道变为“百亿补贴”、图标栏入口缩为一栏](https://m.ithome.com/html/767543.htm)
 
++ [【IT之家开箱】vivo X100s「钛色」图赏：7.80mm 超薄直屏，首发搭载天玑 9300+](https://m.ithome.com/html/767655.htm)
+
++ [苹果 iOS / iPadOS 17.5 正式版发布，欧盟用户可直接从网站下载应用](https://m.ithome.com/html/767695.htm)
+
++ [小米汽车：SU7 Pro / Max 已升级为更先进的端到端代客泊车](https://m.ithome.com/html/767681.htm)
+
++ [消息称小米最早明年开始生产和销售 SUV，对标特斯拉 Model Y](https://m.ithome.com/html/767639.htm)
+

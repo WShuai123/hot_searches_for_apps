@@ -49,3 +49,5 @@
 
 + [RSA 会议 2024 – 公告摘要（第二天）](https://www.freebuf.com/news/400849.html)
 
++ [黑客利用DNS隧道技术扫描漏洞并实施攻击](https://www.freebuf.com/news/400844.html)
+

@@ -195,3 +195,23 @@
 
 + [卡牌对战游戏《电影剧本 CCG》 现已在Steam平台免费推出抢先体验版](https://www.3dmgame.com/news/202405/3894907.html)
 
++ [《美女，应接不暇》：角色扮演与AI技术结合，明日Steam见](https://www.3dmgame.com/news/202405/3894928.html)
+
++ [《宝可梦 Sleep》总监回应网络猜测 绝没参考过二次创作](https://www.3dmgame.com/news/202405/3894927.html)
+
++ [Vision Pro已过国家3C认证 有望WWDC24后发售](https://www.3dmgame.com/news/202405/3894926.html)
+
++ [玩家总给游戏错误标签 《堡垒：猎鹰战纪》被迫改名](https://www.3dmgame.com/news/202405/3894925.html)
+
++ [类《8号出口》心理恐怖游戏《7层台阶》即将于Steam平台推出](https://www.3dmgame.com/news/202405/3894924.html)
+
++ [《燕云十六声》仲吕测试定档5月31日 名额限量10万](https://www.3dmgame.com/news/202405/3894923.html)
+
++ [GPT-4o不用注册完全免费！o意指包罗万象](https://www.3dmgame.com/news/202405/3894922.html)
+
++ [Square Enix即将在美国和欧洲工作室进行裁员](https://www.3dmgame.com/news/202405/3894921.html)
+
++ [动视的招聘清单显示其正在开发新IP 或是实时服务游戏](https://www.3dmgame.com/news/202405/3894919.html)
+
++ [《大头盔英雄》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3894920.html)
+
