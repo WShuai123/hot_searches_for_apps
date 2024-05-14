@@ -101,3 +101,7 @@
 
 + [【东方】CHEESE FACTORY 专辑赏析【Surreacheese】](http://www.acfun.cn/v/ac44529020)
 
++ [【观史君】印度追到加拿大都要斩尽杀绝的锡克人](http://www.acfun.cn/v/ac44540469)
+
++ [年度黑马级新游登场！顶级关卡设计的极致享受【一周动力】5月第二周](http://www.acfun.cn/v/ac44535449)
+

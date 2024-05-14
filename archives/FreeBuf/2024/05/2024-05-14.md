@@ -67,3 +67,5 @@
 
 + [新漏洞太多让美国NVD面临崩溃，还可能引发供应链风险](https://www.freebuf.com/news/400889.html)
 
++ [hvv 前网安人必读的漏洞清单(2023年）](https://www.freebuf.com/news/400417.html)
+
