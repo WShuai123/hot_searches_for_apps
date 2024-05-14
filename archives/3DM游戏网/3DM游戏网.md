@@ -215,3 +215,7 @@
 
 + [《大头盔英雄》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3894920.html)
 
++ [《绝地潜兵2》总监：仍希望游戏能够在所有地区可玩](https://www.3dmgame.com/news/202405/3894930.html)
+
++ [《华纳大乱斗》小丑新实机预告泄露飞天小女警可能将加入游戏](https://www.3dmgame.com/news/202405/3894929.html)
+

@@ -51,3 +51,5 @@
 
 + [黑客利用DNS隧道技术扫描漏洞并实施攻击](https://www.freebuf.com/news/400844.html)
 
++ [攻防演练 | 红队的我要如何拿分](https://www.freebuf.com/articles/web/400440.html)
+
