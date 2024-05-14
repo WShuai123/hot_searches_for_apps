@@ -59,3 +59,11 @@
 
 + [越来越的漏洞正在让NVD面临崩溃！](https://www.freebuf.com/news/400889.html)
 
++ [清空回收站根本没用，黑客竟然可以“秒恢复”](https://www.freebuf.com/articles/neopoints/400816.html)
+
++ [MITRE 发布 EMB3D ：针对嵌入式设备的威胁模型框架](https://www.freebuf.com/news/400906.html)
+
++ [2023 年安全漏洞全集：hvv 前必读漏洞清单](https://www.freebuf.com/news/400417.html)
+
++ [新漏洞太多让美国NVD面临崩溃，还可能引发供应链风险](https://www.freebuf.com/news/400889.html)
+

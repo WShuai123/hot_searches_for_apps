@@ -141,3 +141,15 @@
 
 + [Neurture](https://www.producthunt.com/posts/neurture)
 
++ [Happyfolks](https://www.producthunt.com/posts/happyfolks)
+
++ [Canny Autopilot](https://www.producthunt.com/posts/canny-autopilot)
+
++ [ShortlistIQ](https://www.producthunt.com/posts/shortlistiq)
+
++ [EmailMe](https://www.producthunt.com/posts/emailme-2)
+
++ [SaveDay](https://www.producthunt.com/posts/saveday-2)
+
++ [AIWatchfulCompanion](https://www.producthunt.com/posts/aiwatchfulcompanion-2)
+

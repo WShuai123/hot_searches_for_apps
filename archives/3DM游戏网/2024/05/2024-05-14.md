@@ -243,3 +243,13 @@
 
 + [《大都市》发布正式预告 年内上线影院](https://www.3dmgame.com/news/202405/3894935.html)
 
++ [《最终幻想8：重制版》AI概念预告片 太棒让人印象深刻](https://www.3dmgame.com/news/202405/3894947.html)
+
++ [《疯狂的麦克斯：狂暴女神》引进国内 档期待定](https://www.3dmgame.com/news/202405/3894946.html)
+
++ [《怪物猎人物语2》新版本更新 Switch现支持全区中文](https://www.3dmgame.com/news/202405/3894945.html)
+
++ [《塞尔达传说》玩家使用近1万5千块乐高积木 搭建出海拉鲁地图](https://www.3dmgame.com/news/202405/3894944.html)
+
++ [《幻兽帕鲁》最新更新上线 调整平衡性修复问题](https://www.3dmgame.com/news/202405/3894943.html)
+
