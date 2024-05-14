@@ -51,3 +51,27 @@
 
 + [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
 
++ [DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [microsoft / MS-DOS](https://github.com/microsoft/MS-DOS)
+
++ [nocobase / nocobase](https://github.com/nocobase/nocobase)
+
++ [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
+
++ [alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip)
+
++ [SOS-RS / frontend](https://github.com/SOS-RS/frontend)
+
++ [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45)
+
++ [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
