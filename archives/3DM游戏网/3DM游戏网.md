@@ -107,3 +107,17 @@
 
 + [治愈像素游戏《魔法餐作室》新预告 今年Q3发售](https://www.3dmgame.com/news/202405/3894972.html)
 
++ [奇特冒险游戏《小小冒险家》5/30推出](https://www.3dmgame.com/news/202405/3894979.html)
+
++ [全新建造RPG游戏《神箱》 8月29日发售](https://www.3dmgame.com/news/202405/3894978.html)
+
++ [黎明杀机开发商新作《弗兰克斯通的阴影》信息](https://www.3dmgame.com/news/202405/3894977.html)
+
++ [《时空幻境：周年版》已在PC/主机平台推出](https://www.3dmgame.com/news/202405/3894976.html)
+
++ [前幽浮和模拟人生开发成员成立仲夏工作室](https://www.3dmgame.com/news/202405/3894980.html)
+
++ [2024年Q1：PS5出货量几乎是Xbox Series的5倍](https://www.3dmgame.com/news/202405/3894975.html)
+
++ [《暗黑破坏神4》第四赛季“寻宝重生“现已正式上线](https://www.3dmgame.com/news/202405/3894974.html)
+
