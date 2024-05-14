@@ -253,3 +253,23 @@
 
 + [《幻兽帕鲁》最新更新上线 调整平衡性修复问题](https://www.3dmgame.com/news/202405/3894943.html)
 
++ [TikTok太猛！全球下载量超49.2亿次 月活用户超15.82亿](https://www.3dmgame.com/news/202405/3894954.html)
+
++ [苹果Vision Pro头显或即将面向美国以外地区销售](https://www.3dmgame.com/news/202405/3894955.html)
+
++ [消息称腾讯、阿里等科技公司被要求少买英伟达芯片：转投国产替代](https://www.3dmgame.com/news/202405/3894956.html)
+
++ [多位百亿富豪个人信息遭泄露 980元包年可查](https://www.3dmgame.com/news/202405/3894957.html)
+
++ [丧心病狂！美国全力阻止进口中国电动汽车：欲将关税提高至102.5%](https://www.3dmgame.com/news/202405/3894948.html)
+
++ [《Captain Carnage》Steam页面上线 超英动作冒险](https://www.3dmgame.com/news/202405/3894949.html)
+
++ [Steam最新一周销量榜 《黑帝斯2》成功登顶](https://www.3dmgame.com/news/202405/3894950.html)
+
++ [首个中文原生DiT架构 腾讯混元文生图大模型宣布全面开源](https://www.3dmgame.com/news/202405/3894951.html)
+
++ [新技术让N64游戏轻松移植原生PC 不再需要模拟器](https://www.3dmgame.com/news/202405/3894952.html)
+
++ [荷兰弟舞台剧《罗密欧与朱丽叶》剧照 黑人朱丽叶亮相](https://www.3dmgame.com/news/202405/3894953.html)
+
