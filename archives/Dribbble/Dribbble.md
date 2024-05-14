@@ -73,3 +73,15 @@
 
 + [Electric house icons](https://dribbble.com/shots/)
 
++ [Fallout](https://dribbble.com/shots/)
+
++ [Flatley Whiskey](https://dribbble.com/shots/)
+
++ [Smart Stack Concept 2](https://dribbble.com/shots/)
+
++ [Naboo's Theed Galactic Park](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #7](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+

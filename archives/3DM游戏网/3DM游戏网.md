@@ -101,3 +101,9 @@
 
 + [GPT-4o不用注册完全免费！o意指包罗万象](https://www.3dmgame.com/news/202405/3894922.html)
 
++ [《龙之家族》第二季正式预告 6月16日播映](https://www.3dmgame.com/news/202405/3894973.html)
+
++ [XGP五月下旬新增游戏阵容 《地狱之刃2》《堕落之主》等](https://www.3dmgame.com/news/202405/3894971.html)
+
++ [治愈像素游戏《魔法餐作室》新预告 今年Q3发售](https://www.3dmgame.com/news/202405/3894972.html)
+

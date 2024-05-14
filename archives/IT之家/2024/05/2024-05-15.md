@@ -25,3 +25,7 @@
 
 + [华为 nova 12 Ultra 星耀版手机 5 月 17 日开售](https://m.ithome.com/html/767826.htm)
 
++ [漫步者 N300 有源桌面音箱开售：双 Hi-Res 认证、66W 功率，售 749 元](https://m.ithome.com/html/767796.htm)
+
++ [问界新 M5 明日开始交付：全系车型标配激光雷达，24.98 万元起](https://m.ithome.com/html/767833.htm)
+
