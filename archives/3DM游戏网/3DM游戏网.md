@@ -219,3 +219,7 @@
 
 + [《华纳大乱斗》小丑新实机预告泄露飞天小女警可能将加入游戏](https://www.3dmgame.com/news/202405/3894929.html)
 
++ [《深夜拉面》7月登陆Steam 哲理系叙事对话游戏](https://www.3dmgame.com/news/202405/3894932.html)
+
++ [小米15系列来了！Pro版用上钛金属+卫星通信 10月发布](https://www.3dmgame.com/news/202405/3894931.html)
+

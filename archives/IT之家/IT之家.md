@@ -45,3 +45,5 @@
 
 + [消息称小米最早明年开始生产和销售 SUV，对标特斯拉 Model Y](https://m.ithome.com/html/767639.htm)
 
++ [消息称小米 15 系列手机难守原价位，依然有大杯钛金属卫星通信版](https://m.ithome.com/html/767746.htm)
+
