@@ -35,3 +35,5 @@
 
 + [OpenAI 发布全新旗舰生成式 AI 模型 GPT-4o：语音对话更流畅，免费提供](https://m.ithome.com/html/767693.htm)
 
++ [淘宝 App 首页改版：“淘宝好价、淘宝买菜”频道变为“百亿补贴”、图标栏入口缩为一栏](https://m.ithome.com/html/767543.htm)
+

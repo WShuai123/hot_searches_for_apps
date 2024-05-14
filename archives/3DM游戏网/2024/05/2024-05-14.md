@@ -169,3 +169,29 @@
 
 + [RPG《温迪尔：谎言瘟疫》5月30日发行 支持简中](https://www.3dmgame.com/news/202405/3894892.html)
 
++ [Square Enix年度财报：游戏销量未达预期 利润下滑70%](https://www.3dmgame.com/news/202405/3894917.html)
+
++ [类肉鸽策略游戏《亡者之地》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3894918.html)
+
++ [《Pool of Madness》试玩发布 克苏鲁风肉鸽台球游戏](https://www.3dmgame.com/news/202405/3894916.html)
+
++ [《天国：拯救2》官方透露 主角演员已录制508个小时 127场对话内容](https://www.3dmgame.com/news/202405/3894915.html)
+
++ [《家园3》正式发售 Steam综合评价“褒贬不一”](https://www.3dmgame.com/news/202405/3894914.html)
+
++ [《无可争议》开发商获千万英镑融资 准备游戏正式发布](https://www.3dmgame.com/news/202405/3894913.html)
+
++ [迪拜推出“长期游戏签证” 吸引开发者和其他行业人士](https://www.3dmgame.com/news/202405/3894906.html)
+
++ [《怪物猎人》系列销量突破1亿 《怪物猎人：崛起》销量突破1500万](https://www.3dmgame.com/news/202405/3894911.html)
+
++ [《StarCrawlers Chimera》登陆Steam 3D探索RPG](https://www.3dmgame.com/news/202405/3894912.html)
+
++ [《战国无双4 DX》Steam发售 国区售价¥299](https://www.3dmgame.com/news/202405/3894910.html)
+
++ [索尼暗示5月PlayStation发布会即将到来](https://www.3dmgame.com/news/202405/3894909.html)
+
++ [《巫师》剧集希里演员希望粉丝给利亚姆机会：别攻击他](https://www.3dmgame.com/news/202405/3894908.html)
+
++ [卡牌对战游戏《电影剧本 CCG》 现已在Steam平台免费推出抢先体验版](https://www.3dmgame.com/news/202405/3894907.html)
+
