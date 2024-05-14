@@ -223,3 +223,23 @@
 
 + [小米15系列来了！Pro版用上钛金属+卫星通信 10月发布](https://www.3dmgame.com/news/202405/3894931.html)
 
++ [《沉默的蟋蟀》推出“虫季代打”功能，游戏流程更精简！](https://www.3dmgame.com/news/202405/3894936.html)
+
++ [直面恶魔 终局挑战！类魂肉鸽游戏《死亡教堂》正式版5月28日上线Steam和Epic](https://www.3dmgame.com/news/202405/3894937.html)
+
++ [真人互动游戏《失业了，我获得了亿万游戏财产》靠什么杀出重围](https://www.3dmgame.com/news/202405/3894938.html)
+
++ [KK官方对战平台500%超值豪华战令奖励，KK战令S8“狙击”你的心！](https://www.3dmgame.com/news/202405/3894939.html)
+
++ [《庄园领主》开发者：如果用了Mod请不要上报BUG](https://www.3dmgame.com/news/202405/3894940.html)
+
++ [《真·女神转生Ⅴ 复仇》及《超级猴子球 香蕉大乱斗》亮相核聚变广州站 提供线下试玩](https://www.3dmgame.com/news/202405/3894941.html)
+
++ [索尼公布新财报 PS5总销量达到5930万](https://www.3dmgame.com/news/202405/3894942.html)
+
++ [SE多款PS5独占游戏未能达到预期：《最终幻想16》、《最终幻想7：重生》等](https://www.3dmgame.com/news/202405/3894933.html)
+
++ [点击解谜游戏《异星装置：博物馆》开启Steam限时免费活动](https://www.3dmgame.com/news/202405/3894934.html)
+
++ [《大都市》发布正式预告 年内上线影院](https://www.3dmgame.com/news/202405/3894935.html)
+

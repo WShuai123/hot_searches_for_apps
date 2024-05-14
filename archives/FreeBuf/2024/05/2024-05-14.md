@@ -55,3 +55,7 @@
 
 + [蕴藏危机，Cinterion 蜂窝调制解调器存在高危安全漏洞](https://www.freebuf.com/news/400875.html)
 
++ [如何使用AzurEnum快速枚举Microsoft Entra ID（Azure AD）](https://www.freebuf.com/sectool/400553.html)
+
++ [越来越的漏洞正在让NVD面临崩溃！](https://www.freebuf.com/news/400889.html)
+
