@@ -119,3 +119,13 @@
 
 + [育碧官方确认《全境封锁：中心地带》已取消](https://www.3dmgame.com/news/202405/3895066.html)
 
++ [《刺客信条：影》各版本对比 终极版包含后续2个DLC](https://www.3dmgame.com/news/202405/3895074.html)
+
++ [消息称宝可梦第10世代新作或推迟至2026年推出](https://www.3dmgame.com/news/202405/3895073.html)
+
++ [《陀螺战士》新作公开 11月登陆任天堂Switch](https://www.3dmgame.com/news/202405/3895072.html)
+
++ [《暗黑破坏神4》第4季寻宝重生装备强化玩法升级](https://www.3dmgame.com/news/202405/3895071.html)
+
++ [育碧主创介绍《刺客信条：影》男女双主角](https://www.3dmgame.com/news/202405/3895070.html)
+
