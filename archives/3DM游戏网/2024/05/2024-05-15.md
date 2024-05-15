@@ -269,3 +269,7 @@
 
 + [《Fight Life: Vanguard》Steam上线 中世幻想风战棋](https://www.3dmgame.com/news/202405/3895051.html)
 
++ [三星和SK海力士将停产DDR3 或带动价格上涨最高20%](https://www.3dmgame.com/news/202405/3895055.html)
+
++ [2022年重启版《黑道圣徒》销量可能是系列最低的](https://www.3dmgame.com/news/202405/3895056.html)
+

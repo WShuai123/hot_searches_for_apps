@@ -59,3 +59,5 @@
 
 + [4799 元起，华为 nova12 Ultra 星耀版手机售价公布](https://m.ithome.com/html/768151.htm)
 
++ [微软中国员工回应“打包赴美”：确实收到调动机会，不影响国内运营](https://m.ithome.com/html/768171.htm)
+
