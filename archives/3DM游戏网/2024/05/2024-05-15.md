@@ -141,3 +141,27 @@
 
 + [谷歌浏览器将内置AI助手Gemini Nano](https://www.3dmgame.com/news/202405/3894986.html)
 
++ [《EA Sports大学橄榄球25》或将仅登陆主机 没有PC版](https://www.3dmgame.com/news/202405/3894998.html)
+
++ [《ISO-CORE》Steam页面上线 斜视角生活建设模拟](https://www.3dmgame.com/news/202405/3894999.html)
+
++ [《黎明杀机》开发商惊喜推出衍生游戏《What the Fog》](https://www.3dmgame.com/news/202405/3895000.html)
+
++ [水晶动力将与亚马逊合作 推出更多《古墓丽影》影视作品](https://www.3dmgame.com/news/202405/3895001.html)
+
++ [Switch Online会员游戏库更新 新增4款GB游戏](https://www.3dmgame.com/news/202405/3895002.html)
+
++ [《历史的完结》Steam页面上线 中世纪风战略RPG](https://www.3dmgame.com/news/202405/3894992.html)
+
++ [开放世界生存游戏《漫漫长夜》将新增一头美洲狮追击玩家](https://www.3dmgame.com/news/202405/3894993.html)
+
++ [育碧《不羁联盟》休闲模式将没有SBMM匹配机制](https://www.3dmgame.com/news/202405/3894994.html)
+
++ [黎明杀机世界观 合作PVE射击游戏《Project T》正式公布](https://www.3dmgame.com/news/202405/3894995.html)
+
++ [《最后生还者》剧集第2季新片场照 完美还原游戏场景](https://www.3dmgame.com/news/202405/3894996.html)
+
++ [PC版《对马岛之魂：导演剪辑版》全球解锁时间 支持SteamDeck](https://www.3dmgame.com/news/202405/3894997.html)
+
++ [《英雄联盟》骄傲月贺图：与LGBT群体一起庆祝](https://www.3dmgame.com/news/202405/3894991.html)
+

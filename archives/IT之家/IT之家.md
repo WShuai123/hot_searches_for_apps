@@ -33,3 +33,7 @@
 
 + [小米首超三星、华为进入前五，Canalys 称 2024 年一季度全球 TWS 耳机出货量增长 6%](https://m.ithome.com/html/767832.htm)
 
++ [VMware 虚拟机个人免费：Fusion Pro 及 Workstation Pro 即日起可用](https://m.ithome.com/html/767979.htm)
+
++ [上汽名爵 MG5 限时优惠 1.2 万元，5.59 万元起售](https://m.ithome.com/html/767919.htm)
+
