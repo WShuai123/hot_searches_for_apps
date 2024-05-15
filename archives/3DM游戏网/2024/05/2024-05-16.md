@@ -111,3 +111,11 @@
 
 + [《最后的生还者》剧集第2季剧照 明年播映](https://www.3dmgame.com/news/202405/3895061.html)
 
++ [微软正式为部分Xbox云游戏添加PC键鼠支持](https://www.3dmgame.com/news/202405/3895069.html)
+
++ [齐藤阳介与横尾太郎及冈部启一合作开发新项目](https://www.3dmgame.com/news/202405/3895068.html)
+
++ [《死灵法师之剑：复活》将于夏末推出](https://www.3dmgame.com/news/202405/3895067.html)
+
++ [育碧官方确认《全境封锁：中心地带》已取消](https://www.3dmgame.com/news/202405/3895066.html)
+
