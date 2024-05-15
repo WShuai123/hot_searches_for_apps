@@ -45,3 +45,7 @@
 
 + [小米 Redmi K70 Ultra 手机通过 3C 认证：天玑 9300 + 芯片，120W 快充 + 大电池](https://m.ithome.com/html/767994.htm)
 
++ [厂商秋野地回应“长城炮车主被卡脖身亡”：电动帐篷上升过程中用户进入帐篷内发生意外](https://m.ithome.com/html/768031.htm)
+
++ [小米完成 10000 辆 SU7 汽车交付，用时 43 天](https://m.ithome.com/html/768017.htm)
+
