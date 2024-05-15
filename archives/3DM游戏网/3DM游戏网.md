@@ -259,3 +259,13 @@
 
 + [退居幕后不存在 余承东职务调整后仍掌舵华为终端业务](https://www.3dmgame.com/news/202405/3895046.html)
 
++ [苹果挤爆牙膏！iPhone升级路线图：12G内存 折叠屏来了](https://www.3dmgame.com/news/202405/3895054.html)
+
++ [华为Vision智慧屏4发布：5499元起 玩手机一样玩电视](https://www.3dmgame.com/news/202405/3895053.html)
+
++ [日媒评价美国对中国电动汽车加征4倍关税：依据并不明确](https://www.3dmgame.com/news/202405/3895052.html)
+
++ [《九魂的久远》限定版介绍视频 5月30日发售](https://www.3dmgame.com/news/202405/3895050.html)
+
++ [《Fight Life: Vanguard》Steam上线 中世幻想风战棋](https://www.3dmgame.com/news/202405/3895051.html)
+

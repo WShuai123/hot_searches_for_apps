@@ -57,3 +57,5 @@
 
 + [小米 6A USB4 编织高速数据线上市：1 米长度、支持 240W 快充，99 元](https://m.ithome.com/html/768049.htm)
 
++ [4799 元起，华为 nova12 Ultra 星耀版手机售价公布](https://m.ithome.com/html/768151.htm)
+

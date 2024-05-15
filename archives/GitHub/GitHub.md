@@ -51,3 +51,31 @@
 
 + [jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+
++ [HazyResearch / ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
+
++ [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
+
++ [taikoxyz / taiko-mono](https://github.com/taikoxyz/taiko-mono)
+
++ [BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass)
+
++ [dependabot / dependabot-core](https://github.com/dependabot/dependabot-core)
+
++ [pipecat-ai / pipecat](https://github.com/pipecat-ai/pipecat)
+
++ [lencx / ChatGPT](https://github.com/lencx/ChatGPT)
+
++ [CapSoftware / Cap](https://github.com/CapSoftware/Cap)
+
++ [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
++ [openai / tiktoken](https://github.com/openai/tiktoken)
+
++ [apache / superset](https://github.com/apache/superset)
+
++ [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
+
