@@ -85,3 +85,15 @@
 
 + [Irene](https://dribbble.com/shots/)
 
++ [The Walrus - Bacteriophages](https://dribbble.com/shots/)
+
++ [Sketchbook Stuff](https://dribbble.com/shots/)
+
++ [Marketers over Artists?](https://dribbble.com/shots/)
+
++ [Playola logo design](https://dribbble.com/shots/)
+
++ [Pictoplasma](https://dribbble.com/shots/)
+
++ [Choose Yourself](https://dribbble.com/shots/)
+
