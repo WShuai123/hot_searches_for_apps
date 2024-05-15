@@ -241,3 +241,13 @@
 
 + [《对马岛之鬼：导剪版》Steam Deck 不能玩多人模式](https://www.3dmgame.com/news/202405/3895032.html)
 
++ [在华销量低迷！本田已开启缩减生产队伍：已有1700名员工同意离职](https://www.3dmgame.com/news/202405/3895045.html)
+
++ [《The Final》表现没有达到预期 发行商正在寻找原因](https://www.3dmgame.com/news/202405/3895044.html)
+
++ [玩家修正《黑帝斯》爱神面容使其变美 正确人士狂怒](https://www.3dmgame.com/news/202405/3895043.html)
+
++ [动画电影《机器人之梦》确认引进国内 国内档期待定](https://www.3dmgame.com/news/202405/3895042.html)
+
++ [《波斯王子：Rouge》开发者：就怕《丝之歌》突然发布](https://www.3dmgame.com/news/202405/3895041.html)
+
