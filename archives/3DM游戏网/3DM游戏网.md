@@ -165,3 +165,23 @@
 
 + [《英雄联盟》骄傲月贺图：与LGBT群体一起庆祝](https://www.3dmgame.com/news/202405/3894991.html)
 
++ [《旺达幻视》衍生剧《阿加莎》预告 9月18日开播](https://www.3dmgame.com/news/202405/3895012.html)
+
++ [尼古拉斯·凯奇主演的《暗影蜘蛛侠》真人电视剧正在制作中](https://www.3dmgame.com/news/202405/3895009.html)
+
++ [《地狱之刃2》全球解锁时间公布 预加载已开启](https://www.3dmgame.com/news/202405/3895011.html)
+
++ [《Phantom Line》Steam上线 开放世界第一人称FPS](https://www.3dmgame.com/news/202405/3895010.html)
+
++ [Unity首席产品和技术官将离职 曾任职Xbox和亚马逊](https://www.3dmgame.com/news/202405/3895008.html)
+
++ [漫威剧集《钢铁之心》和《夜魔侠：重生》确定2025年上映](https://www.3dmgame.com/news/202405/3895007.html)
+
++ [《制作便当》PC平台免费发布 设计精致便当模拟器](https://www.3dmgame.com/news/202405/3895006.html)
+
++ [Epic违反欧盟消费者法 在荷兰被罚款110万欧元](https://www.3dmgame.com/news/202405/3895005.html)
+
++ [节奏射击肉鸽游戏《机械节奏》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895004.html)
+
++ [卡牌游戏《Deathless. Tales of Old Rus》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895003.html)
+

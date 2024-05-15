@@ -21,3 +21,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [西游：笔绘西行](https://www.taptap.cn/app/225807)
+

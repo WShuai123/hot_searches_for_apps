@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 23年中国IT安全软件市场同比增长4.7%；新漏洞太多让NVD面临崩溃](https://www.freebuf.com/news/400915.html)
 
++ [Ebury 僵尸网络自 2009 年起已感染 40 万台 Linux 服务器](https://www.freebuf.com/news/400974.html)
+
++ [知名企业家个人信息遭大规模泄露，涉多个品牌，平均约2分钱一条！卖家称数据上亿](https://www.freebuf.com/news/400979.html)
+
