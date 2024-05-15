@@ -133,3 +133,11 @@
 
 + [消息称任天堂将于9月推出塞尔达传说乐高积木](https://www.3dmgame.com/news/202405/3894981.html)
 
++ [《地狱之刃2》团队与专家合作了解精神病 更好描绘角色](https://www.3dmgame.com/news/202405/3894990.html)
+
++ [《星刃》总监称服装和谐不是索尼要求：时尚至上而非性感至上](https://www.3dmgame.com/news/202405/3894989.html)
+
++ [CDPR招募高级游戏设计师 负责创建《巫师4》先进角色AI](https://www.3dmgame.com/news/202405/3894988.html)
+
++ [谷歌浏览器将内置AI助手Gemini Nano](https://www.3dmgame.com/news/202405/3894986.html)
+

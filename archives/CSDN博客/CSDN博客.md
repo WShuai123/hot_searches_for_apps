@@ -101,3 +101,37 @@
 
 + [外包干了8天，技术退步明显。。。。。](https://blog.csdn.net/yjt2045263063/article/details/138821021)
 
++ [Spring Cloud系列—Spring Cloud Gateway服务网关的部署与使用指南](https://blog.csdn.net/weixin_73588491/article/details/138864485)
+
++ [VALSE 2024 计算机视觉与机器学习 | 文档解析与向量化技术加速多模态大模型训练与应用](https://blog.csdn.net/chenlycly/article/details/138861401)
+
++ [深入解析RedisJSON：在Redis中直接处理JSON数据](https://blog.csdn.net/qq_26664043/article/details/138028229)
+
++ [【DevOps】Docker 最佳实践指南（绝对干货）](https://blog.csdn.net/benshu_001/article/details/138820381)
+
++ [使用 Gin-Docs 自动生成 API 文档](https://blog.csdn.net/z497896143/article/details/138863282)
+
++ [AI大模型探索之路-训练篇21：Llama2微调实战-LoRA技术微调步骤详解](https://blog.csdn.net/xiaobing259/article/details/138763708)
+
++ [遨游 JavaScript 对象星际：探索面向对象编程的深邃世界](https://blog.csdn.net/2201_75539691/article/details/138772515)
+
++ [MATLAB科技绘图与数据分析](https://blog.csdn.net/weixin_43178406/article/details/138857740)
+
++ [基于Vue3+ElementPlus项目，复制文字到剪贴板功能实践指南，揭秘使用js-tool-big-box工具库的核心优势](https://blog.csdn.net/xingyu_qie/article/details/138852865)
+
++ [【FFmpeg】Filter 过滤器 ④ ( 图片水印 - movie 过滤器 / overlay 过滤器 | movie 过滤器内置参数值简介 | 图片水印示例 )](https://blog.csdn.net/han1202012/article/details/138838407)
+
++ [python从零开始学习深度学习01——神经网络反向传播的链式求导](https://blog.csdn.net/qq_31600443/article/details/138803650)
+
++ [Seal^_^【送书活动第4期】——《Web渗透测试技术》](https://blog.csdn.net/qq_41840843/article/details/138867349)
+
++ [【热门话题】Vue.js：现代前端开发的轻量级框架之旅](https://blog.csdn.net/qq_44214428/article/details/138857319)
+
++ [广东省网络安全竞赛部分web，misc wp](https://blog.csdn.net/oyf3085227433/article/details/138782642)
+
++ [企业网站HTTP网站业务被慢连接攻击了该怎么办](https://blog.csdn.net/m0_66326520/article/details/138824170)
+
++ [试衣不再有界：Tunnel Try-on开启视频试衣应用新纪元](https://blog.csdn.net/sunbaigui/article/details/138706402)
+
++ [一篇文章拿下Redis 通用命令](https://blog.csdn.net/aliyunyyds/article/details/138836480)
+

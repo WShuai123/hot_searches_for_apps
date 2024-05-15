@@ -41,3 +41,7 @@
 
 + [Black Basta 勒索软件入侵全球 500 多个组织](https://www.freebuf.com/news/400733.html)
 
++ [FreeBuf早报 | 23年中国IT安全软件市场同比增长4.7%；新漏洞太多让美国NVD面临崩溃](https://www.freebuf.com/news/400915.html)
+
++ [蓝队技术 | 使用Sysmon日志识别和分析Windows恶意活动](https://www.freebuf.com/articles/system/400776.html)
+

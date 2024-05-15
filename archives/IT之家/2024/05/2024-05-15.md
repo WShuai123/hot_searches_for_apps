@@ -31,3 +31,5 @@
 
 + [流畅操作，安卓手机运行 ChromeOS 首个实机演示曝光](https://m.ithome.com/html/767834.htm)
 
++ [小米首超三星、华为进入前五，Canalys 称 2024 年一季度全球 TWS 耳机出货量增长 6%](https://m.ithome.com/html/767832.htm)
+
