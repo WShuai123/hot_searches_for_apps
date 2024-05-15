@@ -123,3 +123,13 @@
 
 + [Receipt-AI](https://www.producthunt.com/posts/receipt-ai-1)
 
++ [Gemini 1.5 Flash](https://www.producthunt.com/posts/gemini-1-5-flash)
+
++ [Equals 24](https://www.producthunt.com/posts/equals-24)
+
++ [Veo](https://www.producthunt.com/posts/veo-3)
+
++ [Open Source Productivity Intelligence](https://www.producthunt.com/posts/open-source-productivity-intelligence)
+
++ [ThriveStack v0.1](https://www.producthunt.com/posts/thrivestack-v0-1)
+

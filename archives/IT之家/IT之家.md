@@ -53,3 +53,5 @@
 
 + [荣耀 Magic 6 / 6 Pro 手机 618 限时降价，优惠 300 元](https://m.ithome.com/html/767841.htm)
 
++ [小米 45W GaN 小布丁充电器套装上架：USB-C，首发价 59 元](https://m.ithome.com/html/768044.htm)
+

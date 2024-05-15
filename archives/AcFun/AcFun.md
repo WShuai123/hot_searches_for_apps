@@ -87,3 +87,9 @@
 
 + [【中文解说】速看2024 MSI英雄联盟季中冠军赛 正赛 Day7 TES vs G2](http://www.acfun.cn/v/ac44541968)
 
++ [【千璃Senri】天下的乌鸦一般黑](http://www.acfun.cn/v/ac44546824)
+
++ [染上你的颜色【在海边】](http://www.acfun.cn/v/ac44541463)
+
++ [【柯基】影视金曲｜1980版《上海滩》主题曲](http://www.acfun.cn/v/ac44544210)
+

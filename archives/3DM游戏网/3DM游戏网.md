@@ -223,3 +223,21 @@
 
 + [第八届战锤颅骨节5月24日回归 “星际战士2”将公布全新情报](https://www.3dmgame.com/news/202405/3895028.html)
 
++ [2024年腾讯游戏发布会官宣定档：5月28日](https://www.3dmgame.com/news/202405/3895039.html)
+
++ [《街头霸王6》四大角色新Outfit3衣装公开 各有特色](https://www.3dmgame.com/news/202405/3895040.html)
+
++ [重回7元时代！今晚油价将迎年内最大降幅：加满一箱少花8元](https://www.3dmgame.com/news/202405/3895038.html)
+
++ [《绝地潜兵2》新补丁引入PSN账号绑定功能 但非强制而是可选项](https://www.3dmgame.com/news/202405/3895036.html)
+
++ [KK官方对战平台《爆战兄弟》88擂台赛圆满落幕，是兄弟就来抢金条！](https://www.3dmgame.com/news/202405/3895035.html)
+
++ [3D日式角色扮演游戏《ALZARA Radiant Echoes》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3895034.html)
+
++ [《尼尔》主创正在探讨新项目 或将是《尼尔》系列新作](https://www.3dmgame.com/news/202405/3895037.html)
+
++ [《Lootun》登陆Steam 放置系迷宫探索RPG](https://www.3dmgame.com/news/202405/3895033.html)
+
++ [《对马岛之鬼：导剪版》Steam Deck 不能玩多人模式](https://www.3dmgame.com/news/202405/3895032.html)
+
