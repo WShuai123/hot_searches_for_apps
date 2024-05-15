@@ -43,3 +43,5 @@
 
 + [比亚迪发布首款新能源皮卡 SHARK：NEDC 续航 840KM，899980 比索起售](https://m.ithome.com/html/767970.htm)
 
++ [小米 Redmi K70 Ultra 手机通过 3C 认证：天玑 9300 + 芯片，120W 快充 + 大电池](https://m.ithome.com/html/767994.htm)
+
