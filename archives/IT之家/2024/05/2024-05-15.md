@@ -55,3 +55,5 @@
 
 + [小米 45W GaN 小布丁充电器套装上架：USB-C，首发价 59 元](https://m.ithome.com/html/768044.htm)
 
++ [小米 6A USB4 编织高速数据线上市：1 米长度、支持 240W 快充，99 元](https://m.ithome.com/html/768049.htm)
+

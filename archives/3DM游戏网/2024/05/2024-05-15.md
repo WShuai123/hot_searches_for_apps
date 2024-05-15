@@ -251,3 +251,11 @@
 
 + [《波斯王子：Rouge》开发者：就怕《丝之歌》突然发布](https://www.3dmgame.com/news/202405/3895041.html)
 
++ [动画《死亡细胞：不朽》新视觉图 周五发布新预告](https://www.3dmgame.com/news/202405/3895049.html)
+
++ [特斯拉自动驾驶团队再遭重创 顶尖AI工程师离职另起炉灶](https://www.3dmgame.com/news/202405/3895047.html)
+
++ [TH：《刺客信条：影》将包括3个迷你战斗通行证](https://www.3dmgame.com/news/202405/3895048.html)
+
++ [退居幕后不存在 余承东职务调整后仍掌舵华为终端业务](https://www.3dmgame.com/news/202405/3895046.html)
+
