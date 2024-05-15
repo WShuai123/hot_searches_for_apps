@@ -101,3 +101,13 @@
 
 + [Unity首席产品和技术官将离职 曾任职Xbox和亚马逊](https://www.3dmgame.com/news/202405/3895008.html)
 
++ [《刺客信条：影》首支预告 走进全新刺客时代](https://www.3dmgame.com/news/202405/3895065.html)
+
++ [避开《黑神话：悟空》？ 类魂《恩诺提利亚：终曲》再次延期](https://www.3dmgame.com/news/202405/3895064.html)
+
++ [《F1车队经理2024》7月23日发售 登陆全平台](https://www.3dmgame.com/news/202405/3895063.html)
+
++ [2099元起 真我GT Neo6首销：骁龙8s Gen3质价比之王](https://www.3dmgame.com/news/202405/3895062.html)
+
++ [《最后的生还者》剧集第2季剧照 明年播映](https://www.3dmgame.com/news/202405/3895061.html)
+

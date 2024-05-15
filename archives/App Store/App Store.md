@@ -201,3 +201,7 @@
 
 + [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
 
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+
++ [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
+
