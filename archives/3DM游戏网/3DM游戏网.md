@@ -273,3 +273,7 @@
 
 + [2022年重启版《黑道圣徒》销量可能是系列最低的](https://www.3dmgame.com/news/202405/3895056.html)
 
++ [索尼：PS5销量将逐年下滑 PS商业模式自PS4以来已经发生重大转变](https://www.3dmgame.com/news/202405/3895058.html)
+
++ [联发科携手英伟达开发Arm处理器 计划2025年发布](https://www.3dmgame.com/news/202405/3895057.html)
+

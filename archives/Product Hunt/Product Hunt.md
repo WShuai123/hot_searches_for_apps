@@ -145,3 +145,9 @@
 
 + [Stockle 2.0](https://www.producthunt.com/posts/stockle-2-0)
 
++ [Adnosaur](https://www.producthunt.com/posts/adnosaur)
+
++ [Sponsorship.so](https://www.producthunt.com/posts/sponsorship-so)
+
++ [VideoToPage](https://www.producthunt.com/posts/videotopage)
+
