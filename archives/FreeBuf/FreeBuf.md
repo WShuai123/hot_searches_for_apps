@@ -65,3 +65,5 @@
 
 + [hvv 前网安人必读的漏洞清单(2022年）](https://www.freebuf.com/news/400618.html)
 
++ [Reverst：基于QUIC协议和HTTP3的反向隧道工具](https://www.freebuf.com/sectool/400555.html)
+

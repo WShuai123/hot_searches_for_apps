@@ -85,3 +85,5 @@
 
 + [【热辣喵九】你只活一次，对吗？](http://www.acfun.cn/v/ac44543179)
 
++ [【中文解说】速看2024 MSI英雄联盟季中冠军赛 正赛 Day7 TES vs G2](http://www.acfun.cn/v/ac44541968)
+

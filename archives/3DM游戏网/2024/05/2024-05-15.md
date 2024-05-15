@@ -215,3 +215,11 @@
 
 + [任天堂3DS和Wii U仍旧有4名在线玩家 3DS玩家仅剩一人](https://www.3dmgame.com/news/202405/3895024.html)
 
++ [《黑神话：悟空》在B站上线投稿活动 国外宣传也开启](https://www.3dmgame.com/news/202405/3895029.html)
+
++ [恋爱喜剧漫画《我的可爱对黑岩目高不管用》宣布动画化 首个PV放出](https://www.3dmgame.com/news/202405/3895031.html)
+
++ [《真人快打2》宣布定档 2025年10月24日上映](https://www.3dmgame.com/news/202405/3895030.html)
+
++ [第八届战锤颅骨节5月24日回归 “星际战士2”将公布全新情报](https://www.3dmgame.com/news/202405/3895028.html)
+

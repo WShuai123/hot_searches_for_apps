@@ -49,3 +49,7 @@
 
 + [小米完成 10000 辆 SU7 汽车交付，用时 43 天](https://m.ithome.com/html/768017.htm)
 
++ [OPPO、vivo、荣耀、小米、三星、华硕、字节跳动成立智能终端大模型联盟](https://m.ithome.com/html/768053.htm)
+
++ [荣耀 Magic 6 / 6 Pro 手机 618 限时降价，优惠 300 元](https://m.ithome.com/html/767841.htm)
+

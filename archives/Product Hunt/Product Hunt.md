@@ -103,3 +103,23 @@
 
 + [Overboard](https://www.producthunt.com/posts/overboard-2)
 
++ [Ghostly Chat](https://www.producthunt.com/posts/ghostly-chat)
+
++ [Oom](https://www.producthunt.com/posts/oom)
+
++ [Jovu (by Amplication)](https://www.producthunt.com/posts/jovu-by-amplication)
+
++ [Blocks](https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1)
+
++ [Middleware Open Source](https://www.producthunt.com/posts/middleware-open-source)
+
++ [TapScanner - The Everything Scanner](https://www.producthunt.com/posts/tapscanner-the-everything-scanner)
+
++ [TopicRanker](https://www.producthunt.com/posts/topicranker)
+
++ [Warmy.io](https://www.producthunt.com/posts/warmy-io-2)
+
++ [Glitter AI](https://www.producthunt.com/posts/glitter-ai)
+
++ [Receipt-AI](https://www.producthunt.com/posts/receipt-ai-1)
+
