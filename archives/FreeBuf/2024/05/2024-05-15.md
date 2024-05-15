@@ -53,3 +53,7 @@
 
 + [知名企业家个人信息遭大规模泄露，涉多个品牌，平均约2分钱一条！卖家称数据上亿](https://www.freebuf.com/news/400979.html)
 
++ [2022年勒索漏洞清单一览，另附缓解措施](https://www.freebuf.com/news/400618.html)
+
++ [向未授权设备说“不”，苹果和谷歌联合推出防追踪新功能](https://www.freebuf.com/news/400993.html)
+

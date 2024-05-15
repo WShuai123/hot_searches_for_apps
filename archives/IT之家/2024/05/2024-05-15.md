@@ -39,3 +39,7 @@
 
 + [“长城炮车主被车顶电动帐篷卡脖身亡”登顶热搜，销售称未按说明书流程操作](https://m.ithome.com/html/767998.htm)
 
++ [苹果产品路线图曝光：iPhone 16 / Plus 采用 8GB 内存、2026 年折叠 iPhone 登场](https://m.ithome.com/html/767972.htm)
+
++ [比亚迪发布首款新能源皮卡 SHARK：NEDC 续航 840KM，899980 比索起售](https://m.ithome.com/html/767970.htm)
+

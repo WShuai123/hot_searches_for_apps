@@ -185,3 +185,25 @@
 
 + [卡牌游戏《Deathless. Tales of Old Rus》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895003.html)
 
++ [百公斤级车载液氢系统发布 氢能重卡续航突破1000公里](https://www.3dmgame.com/news/202405/3895019.html)
+
++ [《漫威暗夜之子》总监担忧游戏不火是因为卡牌战斗玩法](https://www.3dmgame.com/news/202405/3895021.html)
+
++ [《面具之塔》Steam试玩发布 即时战斗迷宫探索](https://www.3dmgame.com/news/202405/3895020.html)
+
++ [AI产品卖爆了！英伟达CEO黄仁勋年薪大涨60%](https://www.3dmgame.com/news/202405/3895022.html)
+
++ [开放世界动作扮演游戏《VOIN》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3895023.html)
+
++ [《腐朽默示》Steam页面上线 明年发售](https://www.3dmgame.com/news/202405/3895013.html)
+
++ [复古JRPG风格冒险游戏《雅典狂想曲》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3895014.html)
+
++ [知名投资者归来 游戏零售商GameStop股价应声飙升](https://www.3dmgame.com/news/202405/3895015.html)
+
++ [《仙剑》赵灵儿梦蛇收藏级雕像太好看了 5月16日发售](https://www.3dmgame.com/news/202405/3895016.html)
+
++ [《龙珠：电光火石0》在新加坡通过评级 显示游戏2024年发售](https://www.3dmgame.com/news/202405/3895017.html)
+
++ [太阳爆发十余年来最强耀斑 但不会对地球太大影响](https://www.3dmgame.com/news/202405/3895018.html)
+

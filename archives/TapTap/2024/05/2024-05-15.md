@@ -23,3 +23,5 @@
 
 + [西游：笔绘西行](https://www.taptap.cn/app/225807)
 
++ [歧路旅人：大陆的霸者](https://www.taptap.cn/app/548892)
+
