@@ -39,3 +39,7 @@
 
 + [【一图知】华为夏季全场景新品发布会 2024 新品汇总](https://m.ithome.com/html/768205.htm)
 
++ [2599 元起，华为 MatePad 11.5 英寸 S 平板电脑发布：首发全新云晰柔光屏](https://m.ithome.com/html/768120.htm)
+
++ [IT之家，十三岁！](https://m.ithome.com/html/768119.htm)
+

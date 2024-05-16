@@ -181,3 +181,35 @@
 
 + [索尼为未来收购划拨115亿美元巨额预算 谁将被收购？](https://www.3dmgame.com/news/202405/3895096.html)
 
++ [电影《美国内战》国内定档 6月7日上映](https://www.3dmgame.com/news/202405/3895105.html)
+
++ [《我的世界》庆祝15周年 系列游戏全平台优惠促销](https://www.3dmgame.com/news/202405/3895113.html)
+
++ [英国回应玩家“停止杀死老游戏”请愿：没违法管不了](https://www.3dmgame.com/news/202405/3895116.html)
+
++ [三上真司超好评名作《完美音浪》迎来最终更新 官方致谢](https://www.3dmgame.com/news/202405/3895115.html)
+
++ [三消肉鸽游戏《霓虹乡》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3895114.html)
+
++ [《凡人修仙传》剧版新海报 杨洋版韩立踏山而来](https://www.3dmgame.com/news/202405/3895112.html)
+
++ [垄断反竞争？波兰监管机构对PS商店和Steam开展调查](https://www.3dmgame.com/news/202405/3895111.html)
+
++ [曝特斯拉超充负责人顶嘴马斯克 部门全员500人被裁](https://www.3dmgame.com/news/202405/3895110.html)
+
++ [《疾速追杀4》新衍生电影2025年香港开拍 甄子丹主演](https://www.3dmgame.com/news/202405/3895109.html)
+
++ [我国超级显微镜升级 上海光源线站工程通过国家验收](https://www.3dmgame.com/news/202405/3895108.html)
+
++ [回合制生存策略游戏《远古人类》现已登录Steam平台 6月5日抢先体验推出](https://www.3dmgame.com/news/202405/3895107.html)
+
++ [《完美音浪》最后一次更新即将发布 实体版仍按计划推出](https://www.3dmgame.com/news/202405/3895094.html)
+
++ [《最终幻想14》TTRPG尚未推出但已售罄 第二版印刷计划已启动](https://www.3dmgame.com/news/202405/3895104.html)
+
++ [《Baladins》登陆Steam 温馨画风TRPG新作](https://www.3dmgame.com/news/202405/3895103.html)
+
++ [欧洲4月销量榜：没有新作大作 PC和主机游戏销量放缓](https://www.3dmgame.com/news/202405/3895106.html)
+
++ [《英雄传说：黎之轨迹2》Switch中文版宣布 8月29日发售](https://www.3dmgame.com/news/202405/3895102.html)
+
