@@ -69,3 +69,5 @@
 
 + [前脸“大嘴”变“小嘴”，华为余承东称问界新 M7 新版本很快发布](https://m.ithome.com/html/768442.htm)
 
++ [小米 SU7 Pro 本周六将首次公开亮相，届时雷军将直播](https://m.ithome.com/html/768511.htm)
+
