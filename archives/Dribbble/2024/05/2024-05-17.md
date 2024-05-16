@@ -49,3 +49,25 @@
 
 + [Blue Like Jay](https://dribbble.com/shots/)
 
++ [Soda Can Design - Beverage Packaging????](https://dribbble.com/shots/)
+
++ [Mouse in the boat](https://dribbble.com/shots/)
+
++ [Framework](https://dribbble.com/shots/)
+
++ [Bitesized Mascots](https://dribbble.com/shots/)
+
++ [Embracing our Interconnected World](https://dribbble.com/shots/)
+
++ [Apex Legends S12 - Case Study](https://dribbble.com/shots/)
+
++ [☀️☀️☀️](https://dribbble.com/shots/)
+
++ [Paris City Guide Web Design](https://dribbble.com/shots/)
+
++ [Flatley Whiskey](https://dribbble.com/shots/)
+
++ [Charming alcohol ????](https://dribbble.com/shots/)
+
++ [HHC Living Tertiary Logo](https://dribbble.com/shots/)
+
