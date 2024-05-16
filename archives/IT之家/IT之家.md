@@ -61,3 +61,9 @@
 
 + [华为 MatePad11.5"S 灵动版搭载海思麒麟 9000WM 芯片，弱于柔光版 9000WL](https://m.ithome.com/html/768389.htm)
 
++ [李佳琦谈 2024 年 618：今年大促难但要逼自己一把](https://m.ithome.com/html/768461.htm)
+
++ [反向虚标？华为 MatePad 11.5''S 柔光版平板官宣 22.5W 快充，实际 66W](https://m.ithome.com/html/768352.htm)
+
++ [苹果 iPhone 16 Pro Max 机模曝光，对比显示机身尺寸增加](https://m.ithome.com/html/768275.htm)
+
