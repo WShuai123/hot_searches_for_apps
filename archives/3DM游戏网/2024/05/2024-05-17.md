@@ -101,3 +101,5 @@
 
 + [电影《美国内战》国内定档 6月7日上映](https://www.3dmgame.com/news/202405/3895105.html)
 
++ [《对马岛之魂：导剪版》现已解锁 支持超宽屏](https://www.3dmgame.com/news/202405/3895161.html)
+
