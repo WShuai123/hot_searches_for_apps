@@ -43,3 +43,5 @@
 
 + [IT之家，十三岁！](https://m.ithome.com/html/768119.htm)
 
++ [（更新：麒麟 9000WM）首款 2K 档麒麟 9000WL，消息称华为 MatePad 11.5"S 灵动款平板处理器与柔光版一致](https://m.ithome.com/html/768252.htm)
+
