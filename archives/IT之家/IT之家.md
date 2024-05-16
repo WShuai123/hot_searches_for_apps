@@ -37,3 +37,5 @@
 
 + [用户反映苹果 iOS 17.5 存 Bug，数年前已删除照片竟“复活”](https://m.ithome.com/html/768235.htm)
 
++ [【一图知】华为夏季全场景新品发布会 2024 新品汇总](https://m.ithome.com/html/768205.htm)
+

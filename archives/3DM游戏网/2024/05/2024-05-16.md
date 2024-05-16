@@ -169,3 +169,15 @@
 
 + [系列首次！《刺客信条：影》或将需要全程联网才能游玩](https://www.3dmgame.com/news/202405/3895087.html)
 
++ [《世界岛：宅急送》Steam页面 年内发售](https://www.3dmgame.com/news/202405/3895101.html)
+
++ [《收获日》系列开发商Starbreeze任命新临时CEO](https://www.3dmgame.com/news/202405/3895100.html)
+
++ [角色扮演沙盒式生存游戏《筑巢之地》现已上架Steam平台](https://www.3dmgame.com/news/202405/3895099.html)
+
++ [育碧2023年财报：刺客、彩六推动 预订量创下历史新高](https://www.3dmgame.com/news/202405/3895098.html)
+
++ [《疯狂的麦克斯：狂暴女神》联动原哲夫 亲绘女主霸气女王范](https://www.3dmgame.com/news/202405/3895097.html)
+
++ [索尼为未来收购划拨115亿美元巨额预算 谁将被收购？](https://www.3dmgame.com/news/202405/3895096.html)
+
