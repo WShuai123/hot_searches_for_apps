@@ -229,3 +229,27 @@
 
 + [2024年东京电玩展主视觉图公布 9月26日开幕](https://www.3dmgame.com/news/202405/3895124.html)
 
++ [佛罗里达一男子盗窃宝可梦卡牌 被两位综合格斗教练制服](https://www.3dmgame.com/news/202405/3895136.html)
+
++ [《星刃》早期版本Bug视频让人大笑：马尾辫成螺旋桨](https://www.3dmgame.com/news/202405/3895134.html)
+
++ [《DNF》手游将于5月21日正式上线 迪丽热巴代言](https://www.3dmgame.com/news/202405/3895135.html)
+
++ [多结局冒险+做菜游戏《克家菜》Steam页面 2024年第四季度发售](https://www.3dmgame.com/news/202405/3895133.html)
+
++ [日本玩家不满《刺客信条：影》黑人男主：这游戏想卖谁？](https://www.3dmgame.com/news/202405/3895132.html)
+
++ [知名模拟器PPSSPP登陆苹果App Store 可畅玩PSP游戏](https://www.3dmgame.com/news/202405/3895131.html)
+
++ [《神无迷宫》登陆Steam 科幻悬疑文字冒险](https://www.3dmgame.com/news/202405/3895130.html)
+
++ [《阿凡达2》特效团队操刀 电影《猩球崛起：新世界》票房破亿](https://www.3dmgame.com/news/202405/3895129.html)
+
++ [KK官方对战平台开放世界大冒险，采集掠夺打造命运神兵！](https://www.3dmgame.com/news/202405/3895128.html)
+
++ [《Mecha Force》开启众筹 目标打造最棒机器人游戏](https://www.3dmgame.com/news/202405/3895127.html)
+
++ [打破封锁！量子计算机“本源悟空”核心部件高密度微波互连模组实现完全国产化](https://www.3dmgame.com/news/202405/3895126.html)
+
++ [玩家妻子帮忙预载《暗黑破坏神4》新赛季 官方盛赞“真爱烈过地狱火”](https://www.3dmgame.com/news/202405/3895125.html)
+

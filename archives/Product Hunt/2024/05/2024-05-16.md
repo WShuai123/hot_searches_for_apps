@@ -119,3 +119,7 @@
 
 + [Oliv - AI Copilot for Account Execs](https://www.producthunt.com/posts/oliv-ai-copilot-for-account-execs)
 
++ [Tapflow 1.0](https://www.producthunt.com/posts/tapflow-1-0)
+
++ [AI Link Manager by Scalenut](https://www.producthunt.com/posts/ai-link-manager-by-scalenut)
+
