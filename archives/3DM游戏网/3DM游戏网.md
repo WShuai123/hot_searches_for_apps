@@ -129,3 +129,17 @@
 
 + [育碧主创介绍《刺客信条：影》男女双主角](https://www.3dmgame.com/news/202405/3895070.html)
 
++ [《刺客信条：影》规模与《起源》相似 体验极佳](https://www.3dmgame.com/news/202405/3895081.html)
+
++ [《刺客信条：影》概念图和截图 女主可使用抓钩](https://www.3dmgame.com/news/202405/3895080.html)
+
++ [R星联合创始人正开发开放世界动作冒险游戏](https://www.3dmgame.com/news/202405/3895079.html)
+
++ [《刺客信条：影》实体版需要联网才能安装](https://www.3dmgame.com/news/202405/3895078.html)
+
++ [华纳已移除《喋血复仇》D加密技术 真是令人惊喜](https://www.3dmgame.com/news/202405/3895077.html)
+
++ [《星空》新更新上线：调整大量功能 修复诸多Bug](https://www.3dmgame.com/news/202405/3895076.html)
+
++ [《刺客信条：影》新截图 PC版国区售价348元](https://www.3dmgame.com/news/202405/3895075.html)
+

@@ -101,3 +101,9 @@
 
 + [Cutie Patootie](https://dribbble.com/shots/)
 
++ [Gazing Through the Gale](https://dribbble.com/shots/)
+
++ [Chum Bucket pattern](https://dribbble.com/shots/)
+
++ [Soda Can Design - Beverage Packaging????](https://dribbble.com/shots/)
+

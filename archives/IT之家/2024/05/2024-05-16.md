@@ -31,3 +31,7 @@
 
 + [华为夏季全场景新品发布会 2024 一文汇总：Pura 70 打头阵，电脑平板手表齐登场](https://m.ithome.com/html/768218.htm)
 
++ [首款 2K 档麒麟 9000WL，消息称华为 MatePad 11.5"S 灵动款平板处理器与柔光版一致](https://m.ithome.com/html/768252.htm)
+
++ [苹果高管：“平板电脑很烂，但 iPad 除外”](https://m.ithome.com/html/768251.htm)
+
