@@ -115,3 +115,9 @@
 
 + [Take-Two官宣《GTA6》将于2025年秋季推出](https://www.3dmgame.com/news/202405/3895162.html)
 
++ [游戏收藏达人樱井政博分享全方位游戏收纳秘籍](https://www.3dmgame.com/news/202405/3895170.html)
+
++ [《奥特曼：崛起》正式预告 宇宙超人当上怪兽奶爸](https://www.3dmgame.com/news/202405/3895169.html)
+
++ [《对马岛之鬼导演剪辑版》现已强势登陆PC平台](https://www.3dmgame.com/news/202405/3895168.html)
+
