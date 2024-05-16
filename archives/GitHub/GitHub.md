@@ -51,3 +51,31 @@
 
 + [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
 
++ [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
+
++ [controlpaths / hackbat](https://github.com/controlpaths/hackbat)
+
++ [andydunstall / piko](https://github.com/andydunstall/piko)
+
++ [Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT)
+
++ [android / kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples)
+
++ [facebook / react](https://github.com/facebook/react)
+
++ [OpenGVLab / InternVL](https://github.com/OpenGVLab/InternVL)
+
++ [zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
++ [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS)
+
++ [X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker)
+
++ [odoo / odoo](https://github.com/odoo/odoo)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+

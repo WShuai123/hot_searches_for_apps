@@ -263,3 +263,21 @@
 
 + [降价换量挽回颜面 特斯拉销量重回纯电第一](https://www.3dmgame.com/news/202405/3895137.html)
 
++ [《超级猴子球 香蕉大乱斗》关卡介绍： “机器人破坏者”等联机对战关卡](https://www.3dmgame.com/news/202405/3895149.html)
+
++ [《魔法坏女巫》正式预告公布 11月27日北美上映](https://www.3dmgame.com/news/202405/3895145.html)
+
++ [任天堂Switch版ADV《祭品小镇》发售日及预约开放](https://www.3dmgame.com/news/202405/3895150.html)
+
++ [外媒痛批微软太短视掉进钱眼：Win11全是广告 葬送WP](https://www.3dmgame.com/news/202405/3895148.html)
+
++ [Apple Arcade版《魔法气泡 益智消消乐》5月16日迎来第二次版本更新](https://www.3dmgame.com/news/202405/3895147.html)
+
++ [世嘉与Rovio合作推出的全球化手游第一弹 《Sonic Rumble》将于今年冬季发布](https://www.3dmgame.com/news/202405/3895146.html)
+
++ [坤哥爆料Epic大促今晚上线 首个免费游戏将是《龙腾世纪：审判》](https://www.3dmgame.com/news/202405/3895144.html)
+
++ [东方Project二创游戏《不思议的幻想乡 -FORESIGHT-》Steam版正式开始发售！](https://www.3dmgame.com/news/202405/3895143.html)
+
++ [《圣斗士星矢ND：冥王神话》连载再开 进入最终系列](https://www.3dmgame.com/news/202405/3895142.html)
+

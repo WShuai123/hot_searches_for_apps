@@ -123,3 +123,5 @@
 
 + [AI Link Manager by Scalenut](https://www.producthunt.com/posts/ai-link-manager-by-scalenut)
 
++ [Glato AI (Beta)](https://www.producthunt.com/posts/glato-ai-beta)
+
