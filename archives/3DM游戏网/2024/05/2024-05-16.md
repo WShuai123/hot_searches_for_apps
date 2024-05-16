@@ -215,3 +215,13 @@
 
 + [苹果公司：除了我们的iPad 其余平板产品烂到不行](https://www.3dmgame.com/news/202405/3895117.html)
 
++ [《超自然》Steam页面上线 拟真场景恐怖探索](https://www.3dmgame.com/news/202405/3895119.html)
+
++ [《刺客信条：影》爬塔不再展示关键地点 需玩家手动标记](https://www.3dmgame.com/news/202405/3895122.html)
+
++ [《沙丘》前传《沙丘：预言》预告 秋季播出](https://www.3dmgame.com/news/202405/3895121.html)
+
++ [电影《神话》续篇《传说》定档7月12日 成龙主演](https://www.3dmgame.com/news/202405/3895120.html)
+
++ [一项调查指出 《宝可梦GO》是2024年BUG最多的热门手游](https://www.3dmgame.com/news/202405/3895118.html)
+

@@ -67,3 +67,5 @@
 
 + [警惕，Foxit PDF 阅读器存在设计”缺陷“](https://www.freebuf.com/news/401073.html)
 
++ [BobTheSmuggler：基于HTML Smuggling技术创建包含嵌入式压缩文档的HTML文件](https://www.freebuf.com/sectool/400557.html)
+
