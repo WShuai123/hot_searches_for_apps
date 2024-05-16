@@ -217,3 +217,5 @@
 
 + [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
 
++ [中国电信-全国统一官方服务平台](https://itunes.apple.com/cn/app/id513836029?mt=8)
+
