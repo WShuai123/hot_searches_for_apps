@@ -225,3 +225,7 @@
 
 + [一项调查指出 《宝可梦GO》是2024年BUG最多的热门手游](https://www.3dmgame.com/news/202405/3895118.html)
 
++ [横版卷轴动作冒险游戏《亚路塔：狐狸狐途的面包冒险》现已抢先体验推出](https://www.3dmgame.com/news/202405/3895123.html)
+
++ [2024年东京电玩展主视觉图公布 9月26日开幕](https://www.3dmgame.com/news/202405/3895124.html)
+
