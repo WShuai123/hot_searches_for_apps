@@ -213,3 +213,5 @@
 
 + [《英雄传说：黎之轨迹2》Switch中文版宣布 8月29日发售](https://www.3dmgame.com/news/202405/3895102.html)
 
++ [苹果公司：除了我们的iPad 其余平板产品烂到不行](https://www.3dmgame.com/news/202405/3895117.html)
+

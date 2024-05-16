@@ -59,3 +59,5 @@
 
 + [《湖南省工业和信息化领域网络安全和数据安全管理支撑服务工作管理办法》发布](https://www.freebuf.com/news/401053.html)
 
++ [安全测试 | 探索windows游戏扫雷](https://www.freebuf.com/consult/399353.html)
+
