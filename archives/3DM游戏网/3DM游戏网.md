@@ -143,3 +143,29 @@
 
 + [《刺客信条：影》新截图 PC版国区售价348元](https://www.3dmgame.com/news/202405/3895075.html)
 
++ [包括育碧上海成都 《刺客信条：影》工作室多达16家](https://www.3dmgame.com/news/202405/3895088.html)
+
++ [光谱资讯经典游戏《梦幻四驱车》Steam页面上线 5月30日发售](https://www.3dmgame.com/news/202405/3895089.html)
+
++ [二战背景RTS游戏《战争之人2》正式推出 Steam评价褒贬不一](https://www.3dmgame.com/news/202405/3895091.html)
+
++ [《MULLET MADJACK》登陆Steam 动画渲染快节奏FPS](https://www.3dmgame.com/news/202405/3895090.html)
+
++ [《刺客信条：影》可让玩家打造自己的间谍网](https://www.3dmgame.com/news/202405/3895092.html)
+
++ [Steam限时优惠：《美女，应接不暇》AI女友等你来探索](https://www.3dmgame.com/news/202405/3895093.html)
+
++ [真人恋爱互动游戏《怦然心动的她们》Steam页面上线 游戏发售日期待定](https://www.3dmgame.com/news/202405/3895095.html)
+
++ [ARPG《寻路者》Steam重新上架 不再需要全程联网](https://www.3dmgame.com/news/202405/3895082.html)
+
++ [《古惑狼》开发商暗示新作 也有可能是《小龙斯派罗》](https://www.3dmgame.com/news/202405/3895083.html)
+
++ [PS Plus五月二档、三档游戏：《荒野大镖客2》、《法外枭雄：滚石城》等](https://www.3dmgame.com/news/202405/3895084.html)
+
++ [《鬼灭之刃 争当最强队士！》Steam预购开启 国区售价218元](https://www.3dmgame.com/news/202405/3895086.html)
+
++ [育碧希望重返开放世界游戏领导地位：我们已重回正轨](https://www.3dmgame.com/news/202405/3895085.html)
+
++ [系列首次！《刺客信条：影》或将需要全程联网才能游玩](https://www.3dmgame.com/news/202405/3895087.html)
+

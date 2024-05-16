@@ -35,3 +35,5 @@
 
 + [苹果高管：“平板电脑很烂，但 iPad 除外”](https://m.ithome.com/html/768251.htm)
 
++ [用户反映苹果 iOS 17.5 存 Bug，数年前已删除照片竟“复活”](https://m.ithome.com/html/768235.htm)
+
