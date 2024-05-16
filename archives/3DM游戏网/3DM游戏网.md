@@ -103,3 +103,15 @@
 
 + [《对马岛之魂：导剪版》现已解锁 支持超宽屏](https://www.3dmgame.com/news/202405/3895161.html)
 
++ [5月24日前限时免费领取Steam《无尽帝国》](https://www.3dmgame.com/news/202405/3895167.html)
+
++ [游戏历史第三 《GTA5》全球销量突破2亿大关](https://www.3dmgame.com/news/202405/3895166.html)
+
++ [《贪婪之秋2：濒死世界》新预告片公布实机内容](https://www.3dmgame.com/news/202405/3895165.html)
+
++ [前Bungie CTO 现任PlayStation技术创意服务主管](https://www.3dmgame.com/news/202405/3895164.html)
+
++ [《地狱之刃2：塞娜的传说》新预告片 回顾系列剧情](https://www.3dmgame.com/news/202405/3895163.html)
+
++ [Take-Two官宣《GTA6》将于2025年秋季推出](https://www.3dmgame.com/news/202405/3895162.html)
+
