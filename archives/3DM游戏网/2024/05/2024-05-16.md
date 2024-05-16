@@ -253,3 +253,13 @@
 
 + [玩家妻子帮忙预载《暗黑破坏神4》新赛季 官方盛赞“真爱烈过地狱火”](https://www.3dmgame.com/news/202405/3895125.html)
 
++ [《我的世界：基岩版》或即将登陆Steam商店！？](https://www.3dmgame.com/news/202405/3895138.html)
+
++ [华硕内地成立联硕电脑 重点研发国产CPU系统电脑](https://www.3dmgame.com/news/202405/3895141.html)
+
++ [越来越多产品涨价！康师傅方便面即将全线涨价 多方回应](https://www.3dmgame.com/news/202405/3895140.html)
+
++ [童年经典《快乐星球》将拍电影 档期待定](https://www.3dmgame.com/news/202405/3895139.html)
+
++ [降价换量挽回颜面 特斯拉销量重回纯电第一](https://www.3dmgame.com/news/202405/3895137.html)
+

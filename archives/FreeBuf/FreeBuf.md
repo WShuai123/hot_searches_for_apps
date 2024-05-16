@@ -73,3 +73,5 @@
 
 + [如何基于HTML Smuggling技术创建包含嵌入式文档的HTML文件](https://www.freebuf.com/sectool/400557.html)
 
++ [曝iOS 17.5自动恢复已删数年的照片，苹果回应](https://www.freebuf.com/news/401156.html)
+

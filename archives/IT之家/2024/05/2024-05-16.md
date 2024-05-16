@@ -53,3 +53,11 @@
 
 + [昇腾社区回应发布会演示造假：现场图片为实时生成，展示均为真实代码](https://m.ithome.com/html/768396.htm)
 
++ [魅族 21 Note 手机发布：搭载第二代骁龙 8，售价 2599 元起](https://m.ithome.com/html/768460.htm)
+
++ [QQ 大一统 NT 架构，腾讯开发者介绍技术架构升级变迁史](https://m.ithome.com/html/768378.htm)
+
++ [龙芯中科：已有整机企业前来协商，希望为龙芯 3A6000 + 鸿蒙的桌面计算机提供支持](https://m.ithome.com/html/768216.htm)
+
++ [华为 MatePad11.5"S 灵动版搭载海思麒麟 9000WM 芯片，弱于柔光版 9000WL](https://m.ithome.com/html/768389.htm)
+
