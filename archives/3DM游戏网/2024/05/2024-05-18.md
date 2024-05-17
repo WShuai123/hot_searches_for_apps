@@ -101,3 +101,5 @@
 
 + [《碧蓝幻想Versus：Rising》新DLC角色“贝雅特丽丝”预告 5月23日上线](https://www.3dmgame.com/news/202405/3895197.html)
 
++ [热度爆表 口碑翻车！会员也忍不了《庆余年2》广告量](https://www.3dmgame.com/news/202405/3895248.html)
+

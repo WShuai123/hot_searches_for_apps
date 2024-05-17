@@ -25,3 +25,5 @@
 
 + [华为深度合作，长安深蓝 L07 车型官图公布](https://m.ithome.com/html/768622.htm)
 
++ [16.98 万元起：领克 07 EM-P 轿车上市，满油满电综合续航 1400 公里](https://m.ithome.com/html/768838.htm)
+
