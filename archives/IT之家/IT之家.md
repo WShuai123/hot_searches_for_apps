@@ -35,3 +35,7 @@
 
 + [比亚迪福州闽侯展厅发生火灾，官方称排除车辆引发的可能](https://m.ithome.com/html/768517.htm)
 
++ [百度李彦宏：小米、OPPO、vivo、三星、荣耀、联想、蔚来均已接入文心大模型](https://m.ithome.com/html/768527.htm)
+
++ [3788 元 / 2099 元起，华为 P60 / nova11 官方翻新机开售](https://m.ithome.com/html/768504.htm)
+
