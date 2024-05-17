@@ -21,3 +21,5 @@
 
 + [卡通农场](https://www.taptap.cn/app/208)
 
++ [火影忍者](https://www.taptap.cn/app/2247)
+

@@ -121,3 +121,11 @@
 
 + [《对马岛之鬼导演剪辑版》现已强势登陆PC平台](https://www.3dmgame.com/news/202405/3895168.html)
 
++ [《刺客信条：影》被贴上“觉醒文化 无礼”标签 众人抵制](https://www.3dmgame.com/news/202405/3895174.html)
+
++ [《对马岛之鬼》Steam特别好评 在线峰值接近6万](https://www.3dmgame.com/news/202405/3895172.html)
+
++ [《重返寂静岭》电影首张剧照公布 三角头霸气登场](https://www.3dmgame.com/news/202405/3895173.html)
+
++ [动视暴雪成立新工作室：打造全新的叙事类3A游戏大作](https://www.3dmgame.com/news/202405/3895171.html)
+

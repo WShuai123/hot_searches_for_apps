@@ -41,3 +41,7 @@
 
 + [向未授权设备说“不”，苹果和谷歌联合推出防追踪新功能](https://www.freebuf.com/news/400993.html)
 
++ [FreeBuf早报 | 超百亿元投资与网络安全相关；Foxit PDF 阅读器存在设计“缺陷”](https://www.freebuf.com/news/401146.html)
+
++ [2024年Q1 APT趋势报告](https://www.freebuf.com/articles/paper/400775.html)
+
