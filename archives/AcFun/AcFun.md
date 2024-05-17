@@ -61,3 +61,5 @@
 
 + [碧苍 （与凤行ost）cover：李佳薇](http://www.acfun.cn/v/ac44564634)
 
++ [《你的马枪略胜我一筹》](http://www.acfun.cn/v/ac44571113)
+
