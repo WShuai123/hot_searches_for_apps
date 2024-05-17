@@ -235,3 +235,11 @@
 
 + [“Key社”启航点《Kanon》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3895214.html)
 
++ [周鸿祎：留给谷歌的时间不多了 建议所有产品开源](https://www.3dmgame.com/news/202405/3895232.html)
+
++ [《超级猴子球 香蕉大乱斗》6月28日举办线上发售特别纪念活动](https://www.3dmgame.com/news/202405/3895231.html)
+
++ [《小马宝莉：西风高地谜团》发售预告 支持中文](https://www.3dmgame.com/news/202405/3895230.html)
+
++ [李彦宏：百度11%的搜索结果都由AI生成](https://www.3dmgame.com/news/202405/3895229.html)
+

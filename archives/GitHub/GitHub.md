@@ -51,3 +51,35 @@
 
 + [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
 
++ [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
+
++ [likejazz / llama3.np](https://github.com/likejazz/llama3.np)
+
++ [Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
+
++ [remix-run / react-router](https://github.com/remix-run/react-router)
+
++ [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
+
++ [type-challenges / type-challenges](https://github.com/type-challenges/type-challenges)
+
++ [neovim / neovim](https://github.com/neovim/neovim)
+
++ [novuhq / novu](https://github.com/novuhq/novu)
+
++ [google / project-gameface](https://github.com/google/project-gameface)
+
++ [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
++ [bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
+
++ [bepass-org / oblivion](https://github.com/bepass-org/oblivion)
+
++ [remix-run / remix](https://github.com/remix-run/remix)
+
++ [langchain-ai / langchain](https://github.com/langchain-ai/langchain)
+
++ [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [0xsongsu / dailytask](https://github.com/0xsongsu/dailytask)
+
