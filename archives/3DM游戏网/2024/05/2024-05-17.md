@@ -129,3 +129,27 @@
 
 + [动视暴雪成立新工作室：打造全新的叙事类3A游戏大作](https://www.3dmgame.com/news/202405/3895171.html)
 
++ [育碧股价暴跌15% 新财年开局不利](https://www.3dmgame.com/news/202405/3895186.html)
+
++ [沙盒经营模拟游戏《制片人》Steam页面上线 支持简中](https://www.3dmgame.com/news/202405/3895185.html)
+
++ [《刺客信条：影》有季节变化 每个季节的玩法各不相同](https://www.3dmgame.com/news/202405/3895184.html)
+
++ [《碧海黑帆》第二赛季计划公开：将有新的PvE和单人模式](https://www.3dmgame.com/news/202405/3895183.html)
+
++ [《地心护核者》正式版8月27日发售 登陆PC和主机](https://www.3dmgame.com/news/202405/3895182.html)
+
++ [育碧公布《不羁联盟》PC配置需求及全新宣传片 最低要求GTX 1050Ti](https://www.3dmgame.com/news/202405/3895181.html)
+
++ [《暗区突围：无限》反作弊更新 2千多个账号被封10年](https://www.3dmgame.com/news/202405/3895179.html)
+
++ [《庄园领主》销量现已超过200万套](https://www.3dmgame.com/news/202405/3895178.html)
+
++ [《玩具熊的五夜后宫2》定档 明年12月5日北美上映](https://www.3dmgame.com/news/202405/3895180.html)
+
++ [2024年夏日游戏节参展厂商公布 包含腾讯、网易、米哈游等](https://www.3dmgame.com/news/202405/3895177.html)
+
++ [夏日游戏节官方透露 2K将在展会中宣布其最大、最受欢迎系列之一的新作](https://www.3dmgame.com/news/202405/3895176.html)
+
++ [传微软强迫Xbox更多游戏登陆对手平台 不设红线](https://www.3dmgame.com/news/202405/3895175.html)
+

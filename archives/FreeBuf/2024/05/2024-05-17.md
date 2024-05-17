@@ -45,3 +45,5 @@
 
 + [2024年Q1 APT趋势报告](https://www.freebuf.com/articles/paper/400775.html)
 
++ [信息安全管 | 企业端点与主机安全](https://www.freebuf.com/articles/endpoint/400836.html)
+
