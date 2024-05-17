@@ -243,3 +243,15 @@
 
 + [李彦宏：百度11%的搜索结果都由AI生成](https://www.3dmgame.com/news/202405/3895229.html)
 
++ [不说遥遥领先后！余承东换新词：华为领先一大截](https://www.3dmgame.com/news/202405/3895238.html)
+
++ [《碧蓝幻想》开发商Cygames在新加坡成立子公司 扩展海外业务](https://www.3dmgame.com/news/202405/3895233.html)
+
++ [禅意方块搭建游戏《灵魂桥接》5月23日同步上线PC与主机平台](https://www.3dmgame.com/news/202405/3895234.html)
+
++ [特别好评放置游戏《梅尔沃放置》最新DLC“步入深渊”将于6月13日发布](https://www.3dmgame.com/news/202405/3895235.html)
+
++ [种田种不停！《农夫王朝2》可试玩Demo将于6月Steam 新品节上线](https://www.3dmgame.com/news/202405/3895236.html)
+
++ [PlayStation 618嗨玩特惠开启 多款产品惊喜价加赠限量好礼](https://www.3dmgame.com/news/202405/3895237.html)
+

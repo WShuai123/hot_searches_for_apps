@@ -119,3 +119,9 @@
 
 + [TestSprite Beta](https://www.producthunt.com/posts/testsprite-beta)
 
++ [EngageWith Suggestion Box](https://www.producthunt.com/posts/engagewith-suggestion-box)
+
++ [WeFIRE](https://www.producthunt.com/posts/wefire)
+
++ [Narafy](https://www.producthunt.com/posts/narafy)
+

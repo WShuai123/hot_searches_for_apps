@@ -53,3 +53,5 @@
 
 + [1499 元起，小米 Redmi Pad Pro 平板“浅湾蓝”配色上线](https://m.ithome.com/html/768629.htm)
 
++ [长城灵魂 8 缸摩托车首发亮相：“全球唯一”动力总成，完全沿用高端乘用车研发标准](https://m.ithome.com/html/768658.htm)
+
