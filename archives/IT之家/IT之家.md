@@ -55,3 +55,9 @@
 
 + [长城灵魂 8 缸摩托车首发亮相：“全球唯一”动力总成，完全沿用高端乘用车研发标准](https://m.ithome.com/html/768658.htm)
 
++ [苹果 iPhone 16 Pro Max 电池曝料：提升能量密度、首用不锈钢外壳，信维通信主供](https://m.ithome.com/html/768703.htm)
+
++ [问界商品车高速公路遇火灾，赛力斯回应称运载车刹车抱死致车轮起火并蔓延](https://m.ithome.com/html/768787.htm)
+
++ [4799 元起，华为 nova12 Ultra 星耀版手机开售](https://m.ithome.com/html/768599.htm)
+

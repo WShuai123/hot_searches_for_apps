@@ -255,3 +255,7 @@
 
 + [PlayStation 618嗨玩特惠开启 多款产品惊喜价加赠限量好礼](https://www.3dmgame.com/news/202405/3895237.html)
 
++ [华硕ROG NUC迷你游戏PC上架 首发11999元起](https://www.3dmgame.com/news/202405/3895239.html)
+
++ [育碧计划使用AI 打造更有活力和更丰富的游戏](https://www.3dmgame.com/news/202405/3895240.html)
+
