@@ -47,3 +47,7 @@
 
 + [信息安全管 | 企业端点与主机安全](https://www.freebuf.com/articles/endpoint/400836.html)
 
++ [悬赏 500 万美元，美国征集涉及就业欺诈的朝鲜 IT 员工信息](https://www.freebuf.com/news/401209.html)
+
++ [新的 Wi-Fi 漏洞通过降级攻击进行网络窃听](https://www.freebuf.com/news/401222.html)
+

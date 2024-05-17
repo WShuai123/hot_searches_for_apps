@@ -179,3 +179,17 @@
 
 + [大宇董事长回应出售仙剑和轩辕剑IP：卖了有好处](https://www.3dmgame.com/news/202405/3895193.html)
 
++ [《匹诺曹的谎言》DLC扩展包将在今年下半年发售](https://www.3dmgame.com/news/202405/3895204.html)
+
++ [大佬为Switch安装Win 11系统 操作一次卡顿10秒](https://www.3dmgame.com/news/202405/3895206.html)
+
++ [《星之卡比：新星同盟》国行版5月23日发售 定价249元](https://www.3dmgame.com/news/202405/3895205.html)
+
++ [Phoenix Labs取消距离抢先体验发布“仅剩几周”新作](https://www.3dmgame.com/news/202405/3895203.html)
+
++ [日本三大汽车厂商联手 丰田、日产和本田开发汽车软件](https://www.3dmgame.com/news/202405/3895202.html)
+
++ [定格动画风格探索游戏《温馨马车》 现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202405/3895201.html)
+
++ [《机械恋心》Steam页面上线 5月发售](https://www.3dmgame.com/news/202405/3895200.html)
+
