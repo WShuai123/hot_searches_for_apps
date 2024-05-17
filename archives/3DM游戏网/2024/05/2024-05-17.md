@@ -263,3 +263,9 @@
 
 + [《九龙城寨之围城》将拍三部曲 《龙头》《终章》海报曝光](https://www.3dmgame.com/news/202405/3895242.html)
 
++ [电竞世界杯：《DOTA2》项目总奖金500万美元](https://www.3dmgame.com/news/202405/3895244.html)
+
++ [非官方数据：《铁拳8》在PC上拥有最多的玩家](https://www.3dmgame.com/news/202405/3895245.html)
+
++ [传闻：CA正在开发一个《星球大战》版《全面战争》游戏](https://www.3dmgame.com/news/202405/3895243.html)
+
