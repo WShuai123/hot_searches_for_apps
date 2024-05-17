@@ -153,3 +153,29 @@
 
 + [传微软强迫Xbox更多游戏登陆对手平台 不设红线](https://www.3dmgame.com/news/202405/3895175.html)
 
++ [EA将《不朽者传奇》100%未来收入全部转给开发商](https://www.3dmgame.com/news/202405/3895199.html)
+
++ [《美国队长4》主要演员表示 漫威电影将是一部基于现实的超级英雄电影](https://www.3dmgame.com/news/202405/3895198.html)
+
++ [《碧蓝幻想Versus：Rising》新DLC角色“贝雅特丽丝”预告 5月23日上线](https://www.3dmgame.com/news/202405/3895197.html)
+
++ [互动剧神作？AI+真人互动影游《美女，应接不暇》口碑爆棚，这代入感实在太强了！](https://www.3dmgame.com/news/202405/3895196.html)
+
++ [《一钉能赢》Steam页面 游戏支持简繁体中文](https://www.3dmgame.com/news/202405/3895195.html)
+
++ [娱乐软件协会统计：6成美国人每周至少玩1个小时游戏](https://www.3dmgame.com/news/202405/3895194.html)
+
++ [一击必杀剑术格斗游戏《命悬一刃》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895192.html)
+
++ [《潜水员戴夫》哥斯拉免费DLC将于5月23日上线 限时提供](https://www.3dmgame.com/news/202405/3895191.html)
+
++ [《巫师》剧集第四季片场照 杰洛特与维格弗兹激烈打斗](https://www.3dmgame.com/news/202405/3895189.html)
+
++ [中世纪沙盒游戏《颂钟长鸣》销量现已超过20万份](https://www.3dmgame.com/news/202405/3895188.html)
+
++ [特别好评动漫风类大富翁游戏《100%鲜橙汁》现已在Steam开启限时免费活动](https://www.3dmgame.com/news/202405/3895187.html)
+
++ [《麦登橄榄球25》预购开启 本体售价348元](https://www.3dmgame.com/news/202405/3895190.html)
+
++ [大宇董事长回应出售仙剑和轩辕剑IP：卖了有好处](https://www.3dmgame.com/news/202405/3895193.html)
+

@@ -29,3 +29,5 @@
 
 + [消息称荣耀研发管理部总裁邓斌因违纪违反商业行为准则被除名](https://m.ithome.com/html/768551.htm)
 
++ [联想 moto X50 Ultra AI 手机发布：搭载骁龙 8s Gen 3，售价 3999 元起](https://m.ithome.com/html/768524.htm)
+
