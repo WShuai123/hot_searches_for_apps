@@ -79,3 +79,9 @@
 
 + [El Gran Cinco de Mayo](https://dribbble.com/shots/)
 
++ [Caffè Rosso | Brand Illustrations 2](https://dribbble.com/shots/)
+
++ [Bagel Friends](https://dribbble.com/shots/)
+
++ [THGT merch design](https://dribbble.com/shots/)
+
