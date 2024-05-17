@@ -119,3 +119,7 @@
 
 + [Paris City Guide Mobile Website](https://dribbble.com/shots/)
 
++ [Wake Love – lettering for a poster and stickers](https://dribbble.com/shots/)
+
++ [Hidden Heroes Packaging: The Brain Wizard](https://dribbble.com/shots/)
+

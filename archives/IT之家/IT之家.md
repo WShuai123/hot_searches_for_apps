@@ -47,3 +47,5 @@
 
 + [腾讯视频《庆余年 2》上线首日正片播放量超 2900 万，创今年新高](https://m.ithome.com/html/768631.htm)
 
++ [马王堆汉墓考古 AI 修复，“东方睡美人”辛追重现](https://m.ithome.com/html/768675.htm)
+
