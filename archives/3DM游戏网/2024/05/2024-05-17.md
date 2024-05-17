@@ -259,3 +259,7 @@
 
 + [育碧计划使用AI 打造更有活力和更丰富的游戏](https://www.3dmgame.com/news/202405/3895240.html)
 
++ [《地狱之刃2》直到2020年才真正全力开发](https://www.3dmgame.com/news/202405/3895241.html)
+
++ [《九龙城寨之围城》将拍三部曲 《龙头》《终章》海报曝光](https://www.3dmgame.com/news/202405/3895242.html)
+

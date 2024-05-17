@@ -61,3 +61,5 @@
 
 + [4799 元起，华为 nova12 Ultra 星耀版手机开售](https://m.ithome.com/html/768599.htm)
 
++ [苹果 M4 iPad Pro《原神》帧率实测可达 113.6 FPS，高分辨率下表现远超 M2、A17 Pro 芯片](https://m.ithome.com/html/768811.htm)
+
