@@ -193,3 +193,9 @@
 
 + [《机械恋心》Steam页面上线 5月发售](https://www.3dmgame.com/news/202405/3895200.html)
 
++ [Remedy首席财务官离开公司 寻找新的机遇](https://www.3dmgame.com/news/202405/3895207.html)
+
++ [《疯狂的麦克斯：狂暴女神》中国内地定档预告 6月7日上映](https://www.3dmgame.com/news/202405/3895208.html)
+
++ [迅雷最新会员数公布 一年暴增19% 成迅雷最赚钱业务](https://www.3dmgame.com/news/202405/3895209.html)
+
