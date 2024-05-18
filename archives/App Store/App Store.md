@@ -201,3 +201,11 @@
 
 + [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [乐播投屏](https://itunes.apple.com/cn/app/id1116038378?mt=8)
+
++ [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
+

@@ -61,3 +61,11 @@
 
 + [【初体验】我去佛山看陶喆演唱会啦 | Soul Power II 佛山站vlog](http://www.acfun.cn/v/ac44574137)
 
++ [【王刚探店】成都李四哥饭店，不点菜，老板炒啥就吃啥](http://www.acfun.cn/v/ac44574439)
+
++ [新娘：终于到手了......(今日开心视频：1445)](http://www.acfun.cn/v/ac44579226)
+
++ [『Judgement Syndrome』・霧雨](http://www.acfun.cn/v/ac44572253)
+
++ [大厨教你辣子鸡翅的家常做法，外酥里嫩，麻辣鲜香，吃一口就上瘾](http://www.acfun.cn/v/ac44577393)
+

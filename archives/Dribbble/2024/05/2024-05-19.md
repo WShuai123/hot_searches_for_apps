@@ -49,3 +49,25 @@
 
 + [Wake Love – lettering for a poster and stickers](https://dribbble.com/shots/)
 
++ [Bitesized Mascots](https://dribbble.com/shots/)
+
++ [Bison Puzzle](https://dribbble.com/shots/)
+
++ [Mouse in the boat](https://dribbble.com/shots/)
+
++ [The Avery • Kitchen & Bar](https://dribbble.com/shots/)
+
++ [SCB 2025](https://dribbble.com/shots/)
+
++ [THGT merch design](https://dribbble.com/shots/)
+
++ [Blue Like Jay](https://dribbble.com/shots/)
+
++ [Fallout](https://dribbble.com/shots/)
+
++ [St. John the Beloved Tertiary Logo](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [The Walrus - Bacteriophages](https://dribbble.com/shots/)
+
