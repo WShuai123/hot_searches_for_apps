@@ -49,3 +49,7 @@
 
 + [比亚迪越降价越赚钱？](https://m.ithome.com/html/768903.htm)
 
++ [加拿大农田惊现“太空垃圾”，疑似 SpaceX 龙飞船残骸](https://m.ithome.com/html/768849.htm)
+
++ [福特喊话供应商：电车“滞销”帮帮我们，一起降本让消费者买得起](https://m.ithome.com/html/768860.htm)
+

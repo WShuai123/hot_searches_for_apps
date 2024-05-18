@@ -51,3 +51,41 @@
 
 + [zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 
++ [HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM)
+
++ [HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend)
+
++ [expo / react-conf-app](https://github.com/expo/react-conf-app)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [apple / swift-log](https://github.com/apple/swift-log)
+
++ [ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot)
+
++ [plankanban / planka](https://github.com/plankanban/planka)
+
++ [Azure-Samples / chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+
++ [felangel / data_class](https://github.com/felangel/data_class)
+
++ [LayerZero-Labs / sybil-report](https://github.com/LayerZero-Labs/sybil-report)
+
++ [Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA)
+
++ [lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry)
+
++ [SeleniumHQ / docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+
++ [mintisan / awesome-kan](https://github.com/mintisan/awesome-kan)
+
++ [tjdevries / config.nvim](https://github.com/tjdevries/config.nvim)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [scalar / scalar](https://github.com/scalar/scalar)
+
