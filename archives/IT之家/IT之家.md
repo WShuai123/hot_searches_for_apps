@@ -41,3 +41,5 @@
 
 + [2024 款 iPad Pro 拆解：铜质苹果 Logo 助力散热](https://m.ithome.com/html/768864.htm)
 
++ [雷军回应 SU7 智驾方案与第三方合作：从头到尾全小米自研，每年成本超 20 亿元](https://m.ithome.com/html/768887.htm)
+
