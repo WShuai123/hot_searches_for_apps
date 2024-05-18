@@ -75,3 +75,5 @@
 
 + [StarsWar11星际争霸2Day1盛况速览](http://www.acfun.cn/v/ac44580132)
 
++ [选择你的游戏姬！](http://www.acfun.cn/v/ac44581169)
+

@@ -27,3 +27,5 @@
 
 + [小米 Redmi 显示器 G24 IPS 版预售：支持 180Hz 刷新率，首发价 579 元](https://m.ithome.com/html/768993.htm)
 
++ [LPL 战队 BLG 3:2 战胜 T1，挺进《英雄联盟》MSI 总决赛](https://m.ithome.com/html/768995.htm)
+
