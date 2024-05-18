@@ -43,3 +43,5 @@
 
 + [雷军回应 SU7 智驾方案与第三方合作：从头到尾全小米自研，每年成本超 20 亿元](https://m.ithome.com/html/768887.htm)
 
++ [雷军宣布小米 SU7 Pro 今天下午开启交付，比原计划提前 12 天](https://m.ithome.com/html/768911.htm)
+

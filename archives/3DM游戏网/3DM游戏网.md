@@ -143,3 +143,5 @@
 
 + [趁热打铁 《辐射》钢铁兄弟会即将加入《堡垒之夜》联动](https://www.3dmgame.com/news/202405/3895267.html)
 
++ [索尼最新招聘广告或暗示下一代主机将采用ARM架构](https://www.3dmgame.com/news/202405/3895268.html)
+

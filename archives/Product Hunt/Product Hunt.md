@@ -101,3 +101,21 @@
 
 + [AI Link Manager by Scalenut](https://www.producthunt.com/posts/ai-link-manager-by-scalenut)
 
++ [Interviews Chat](https://www.producthunt.com/posts/interviews-chat)
+
++ [Flexibility](https://www.producthunt.com/posts/flexibility)
+
++ [LevrFit](https://www.producthunt.com/posts/levrfit)
+
++ [Eklipse: AI-Edit](https://www.producthunt.com/posts/eklipse-ai-edit)
+
++ [Drone Buddy](https://www.producthunt.com/posts/drone-buddy-1)
+
++ [Sixelf](https://www.producthunt.com/posts/sixelf)
+
++ [Walking Games: Explora](https://www.producthunt.com/posts/walking-games-explora)
+
++ [AppStor](https://www.producthunt.com/posts/appstor)
+
++ [Buffup.AI](https://www.producthunt.com/posts/buffup-ai-3)
+
