@@ -25,3 +25,5 @@
 
 + [OPPO Find X7 Ultra 手机获推 628 版更新：新增 2500 万像素模式、支持 Ultra HDR 格式照片的拍摄与查看](https://m.ithome.com/html/768938.htm)
 
++ [小米 Redmi 显示器 G24 IPS 版预售：支持 180Hz 刷新率，首发价 579 元](https://m.ithome.com/html/768993.htm)
+
