@@ -141,3 +141,5 @@
 
 + [在强绑PSN事件之后《对马岛之魂》PC版仍获成功](https://www.3dmgame.com/news/202405/3895258.html)
 
++ [趁热打铁 《辐射》钢铁兄弟会即将加入《堡垒之夜》联动](https://www.3dmgame.com/news/202405/3895267.html)
+

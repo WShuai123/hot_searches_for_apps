@@ -37,3 +37,7 @@
 
 + [35 亿欧元，西门子出售电机和大型传动业务](https://m.ithome.com/html/768783.htm)
 
++ [长江存储推出首款 QLC 商用消费级固态硬盘 PC41Q：双尺寸、最高 2TB](https://m.ithome.com/html/768782.htm)
+
++ [2024 款 iPad Pro 拆解：铜质苹果 Logo 助力散热](https://m.ithome.com/html/768864.htm)
+
