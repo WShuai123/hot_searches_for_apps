@@ -167,3 +167,7 @@
 
 + [长江存储推出商用消费级QLC SSD 最大2TB](https://www.3dmgame.com/news/202405/3895279.html)
 
++ [全新《笑傲江湖》电影官宣 王晶监制](https://www.3dmgame.com/news/202405/3895281.html)
+
++ [《暗黑4》Steam评价好转 现已是“多半好评”](https://www.3dmgame.com/news/202405/3895280.html)
+
