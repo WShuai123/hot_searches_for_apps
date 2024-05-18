@@ -53,3 +53,5 @@
 
 + [福特喊话供应商：电车“滞销”帮帮我们，一起降本让消费者买得起](https://m.ithome.com/html/768860.htm)
 
++ [部分用户反馈苹果 M4 iPad Pro 屏幕颗粒感问题](https://m.ithome.com/html/768897.htm)
+
