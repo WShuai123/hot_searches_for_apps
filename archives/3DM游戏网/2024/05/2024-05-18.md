@@ -153,3 +153,13 @@
 
 + [《艾尔登法环》制作人公开DLC新地点截图 神似《血源》](https://www.3dmgame.com/news/202405/3895269.html)
 
++ [游戏模拟器Delta遭Adobe公司警告：LOGO太相似](https://www.3dmgame.com/news/202405/3895277.html)
+
++ [《星际公民》最新舰队周开启 持续至5月29日免费试玩](https://www.3dmgame.com/news/202405/3895276.html)
+
++ [《黑帝斯2》抢先体验阶段至少要持续到今年年底](https://www.3dmgame.com/news/202405/3895275.html)
+
++ [《妖精农场》开发商宣布裁员 并取消正在开发的项目](https://www.3dmgame.com/news/202405/3895274.html)
+
++ [雷军在杭州亲自交付小米SU7：握手鞠躬感谢车主](https://www.3dmgame.com/news/202405/3895273.html)
+
