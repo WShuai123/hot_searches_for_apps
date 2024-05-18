@@ -171,3 +171,9 @@
 
 + [《暗黑4》Steam评价好转 现已是“多半好评”](https://www.3dmgame.com/news/202405/3895280.html)
 
++ [消息称特斯拉寻求在华建立数据中心，用于 FSD 完全自动驾驶](https://www.3dmgame.com/news/202405/3895284.html)
+
++ [《生化危机1：重制版》首批细节 节奏将比2代更慢](https://www.3dmgame.com/news/202405/3895283.html)
+
++ [索尼影业CEO：《毒液3》将是系列最后一部电影](https://www.3dmgame.com/news/202405/3895282.html)
+

@@ -61,3 +61,9 @@
 
 + [截图称苹果 iOS 系统将移除小丑表情符号，机构核实其为假新闻](https://m.ithome.com/html/768852.htm)
 
++ [雷军：小米汽车 SU7 智能驾驶开启交付 44 天， 激活率达 82.39%](https://m.ithome.com/html/768934.htm)
+
++ [被 Adobe 威胁后，苹果 iOS 版游戏模拟器“Delta”宣布更新应用图标](https://m.ithome.com/html/768878.htm)
+
++ [6999 元 → 5599 元：三星 Galaxy S24+ 手机 256G 版京东百亿补贴](https://m.ithome.com/html/768923.htm)
+
