@@ -163,3 +163,5 @@
 
 + [雷军在杭州亲自交付小米SU7：握手鞠躬感谢车主](https://www.3dmgame.com/news/202405/3895273.html)
 
++ [《星露谷物语》开发者：我一旦开始投入就很难停下来](https://www.3dmgame.com/news/202405/3895278.html)
+

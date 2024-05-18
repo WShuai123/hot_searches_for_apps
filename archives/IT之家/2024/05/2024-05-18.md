@@ -47,3 +47,5 @@
 
 + [海底捞、哪吒汽车、中通快递等 30 多款应用启动华为鸿蒙原生应用开发](https://m.ithome.com/html/768836.htm)
 
++ [比亚迪越降价越赚钱？](https://m.ithome.com/html/768903.htm)
+
