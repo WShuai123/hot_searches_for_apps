@@ -45,3 +45,5 @@
 
 + [雷军宣布小米 SU7 Pro 今天下午开启交付，比原计划提前 12 天](https://m.ithome.com/html/768911.htm)
 
++ [海底捞、哪吒汽车、中通快递等 30 多款应用启动华为鸿蒙原生应用开发](https://m.ithome.com/html/768836.htm)
+
