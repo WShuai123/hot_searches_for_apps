@@ -33,3 +33,7 @@
 
 + [苹果 iPhone 17“至尊版”曝料：6.5 英寸、后摄居中、厚度变薄、定位高于 Pro Max](https://m.ithome.com/html/768872.htm)
 
++ [网易 UU 加速棒发布：Type-C、独立 Wi-Fi 发射，首发价 98 元](https://m.ithome.com/html/768835.htm)
+
++ [35 亿欧元，西门子出售电机和大型传动业务](https://m.ithome.com/html/768783.htm)
+

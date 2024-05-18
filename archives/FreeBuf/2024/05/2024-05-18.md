@@ -47,3 +47,5 @@
 
 + [Apache Zeppelin命令执行漏洞深入分析及1Day PoC放漏](https://www.freebuf.com/vuls/399695.html)
 
++ [企业暴露面收敛管理](https://www.freebuf.com/sectool/392639.html)
+
