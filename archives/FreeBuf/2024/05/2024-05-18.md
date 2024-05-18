@@ -45,3 +45,5 @@
 
 + [高可用隔离原则实践经验探讨](https://www.freebuf.com/news/399175.html)
 
++ [Apache Zeppelin命令执行漏洞深入分析及1Day PoC放漏](https://www.freebuf.com/vuls/399695.html)
+

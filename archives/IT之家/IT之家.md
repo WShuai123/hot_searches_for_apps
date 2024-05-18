@@ -29,3 +29,7 @@
 
 + [直播拍到女主播裙底，涉事捷途汽车门店抖音账号被封](https://m.ithome.com/html/768862.htm)
 
++ [华为鸿蒙 HarmonyOS 系统可通过描述文件安装“企业内部应用”](https://m.ithome.com/html/768843.htm)
+
++ [苹果 iPhone 17“至尊版”曝料：6.5 英寸、后摄居中、厚度变薄、定位高于 Pro Max](https://m.ithome.com/html/768872.htm)
+
