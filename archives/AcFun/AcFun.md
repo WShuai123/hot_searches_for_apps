@@ -79,3 +79,7 @@
 
 + [【画师修炼】大妖精哒哟~](http://www.acfun.cn/v/ac44567677)
 
++ [【ACFUN声唱云参赛2024】轻快乡村小调~Coffee And Cigarettes【栗七浔】](http://www.acfun.cn/v/ac44572297)
+
++ [找个Acer一起出来爬山！★手机竖屏1154★](http://www.acfun.cn/v/ac44571404)
+

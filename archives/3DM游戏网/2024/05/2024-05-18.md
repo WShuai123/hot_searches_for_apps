@@ -113,3 +113,31 @@
 
 + [《逃离塔科夫》封禁3万作弊账号 解决痛点亡羊补牢？](https://www.3dmgame.com/news/202405/3895251.html)
 
++ [英特尔Arc显卡无法正常运行《对马岛之鬼：导剪版》PC版](https://www.3dmgame.com/news/202405/3895266.html)
+
++ [GameStop第一季度初步业绩销售额下降至少28%](https://www.3dmgame.com/news/202405/3895261.html)
+
++ [女子建议车厢厕所改成女播音员：听到男声不舒服](https://www.3dmgame.com/news/202405/3895262.html)
+
++ [爆料称索尼正在开发类似PSV的新掌机 可运行PS4游戏](https://www.3dmgame.com/news/202405/3895263.html)
+
++ [爆料称又有一批Xbox独占游戏将在圣诞档期登陆PS5](https://www.3dmgame.com/news/202405/3895264.html)
+
++ [PlayStation月活用户仍有一半驻扎在老主机平台](https://www.3dmgame.com/news/202405/3895265.html)
+
++ [《艾尔登法环：黄金树幽影》新敌人视觉图](https://www.3dmgame.com/news/202405/3895259.html)
+
++ [《心灵杀手2》荣获2024年芬兰游戏奖年度游戏荣誉](https://www.3dmgame.com/news/202405/3895260.html)
+
++ [土肥圆！《刺客信条：影》首席女编剧被国外网友找到](https://www.3dmgame.com/news/202405/3895254.html)
+
++ [《星刃》开发者发布神秘信息 暗示下周将会有新消息](https://www.3dmgame.com/news/202405/3895255.html)
+
++ [打得痛快 刷得过瘾《英勇之地》国服端游定档6月19日上线](https://www.3dmgame.com/news/202405/3895222.html)
+
++ [据称微软将专门为《使命召唤》加入调整XGP订阅分级](https://www.3dmgame.com/news/202405/3895256.html)
+
++ [《自杀小队：消灭正义联盟》小丑将于5月23日上线](https://www.3dmgame.com/news/202405/3895257.html)
+
++ [在强绑PSN事件之后《对马岛之魂》PC版仍获成功](https://www.3dmgame.com/news/202405/3895258.html)
+
