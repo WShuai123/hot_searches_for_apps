@@ -149,3 +149,13 @@
 
 + [《对马岛之魂》PC玩家数量持续上涨：索尼历史第三](https://www.3dmgame.com/news/202405/3895304.html)
 
++ [复旦大学复活冷冻18个月人脑 网友惊叹三体成真](https://www.3dmgame.com/news/202405/3895313.html)
+
++ [两款日式RPG游戏开启众筹并获得成功 解锁延伸目标](https://www.3dmgame.com/news/202405/3895312.html)
+
++ [独立游戏新作《病态：艾尔之王》现已正式发售](https://www.3dmgame.com/news/202405/3895311.html)
+
++ [《英雄联盟》2024 MSI决赛今日中韩大战再次开启！](https://www.3dmgame.com/news/202405/3895310.html)
+
++ [《动物之井》单人开发者：曾制作了很多废弃的房间](https://www.3dmgame.com/news/202405/3895309.html)
+
