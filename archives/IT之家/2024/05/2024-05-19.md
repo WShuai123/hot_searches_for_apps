@@ -35,3 +35,5 @@
 
 + [消息称 OPPO Reno 12 实况照片功能媲美苹果 iPhone，即将官宣](https://m.ithome.com/html/768999.htm)
 
++ [vivo X100 Ultra 手机备件价格公布：显示屏优惠价 1420 元，主板 2850 元起](https://m.ithome.com/html/768965.htm)
+

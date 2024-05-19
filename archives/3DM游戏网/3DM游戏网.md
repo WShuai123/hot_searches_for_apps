@@ -119,3 +119,15 @@
 
 + [《辐射：伦敦》团队希望尽快解决难题从而正式发布](https://www.3dmgame.com/news/202405/3895293.html)
 
++ [类魂ARPG《艾诺提亚：失落之歌》5月22日发布试玩](https://www.3dmgame.com/news/202405/3895299.html)
+
++ [上市八年的老游戏《杀戮空间2》本周末人气飙升](https://www.3dmgame.com/news/202405/3895296.html)
+
++ [《绝地潜兵2》开始在部分地区Steam平台恢复上架](https://www.3dmgame.com/news/202405/3895297.html)
+
++ [经典诺基亚Lumia“复活”曝HMD正计划复刻](https://www.3dmgame.com/news/202405/3895298.html)
+
++ [《椅子》登陆PC平台 奇葩主角异次元动作游戏](https://www.3dmgame.com/news/202405/3895294.html)
+
++ [爆料显示育碧新作《刺客信条：影》预购势头强劲](https://www.3dmgame.com/news/202405/3895295.html)
+
