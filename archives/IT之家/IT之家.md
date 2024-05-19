@@ -39,3 +39,5 @@
 
 + [雷鸟推出“青鸟”系列真壁纸电视：4K 144Hz 高刷，4199 元起](https://m.ithome.com/html/768996.htm)
 
++ [京东苹果 618：iPhone 15 系列至高直降 2300 元，实付 4599 元起](https://m.ithome.com/html/769037.htm)
+
