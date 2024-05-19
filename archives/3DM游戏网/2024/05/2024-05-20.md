@@ -113,3 +113,13 @@
 
 + [《地平线：零之曙光》WeGame版预告 5月31日上线](https://www.3dmgame.com/news/202405/3895328.html)
 
++ [经典街机《午夜杀生》公开功夫少女赵红华预告](https://www.3dmgame.com/news/202405/3895333.html)
+
++ [《三角洲行动》新实机预告 6月新测试招募开启](https://www.3dmgame.com/news/202405/3895332.html)
+
++ [好评游戏《时之刃》登陆Switch 女神赐你穿越神力](https://www.3dmgame.com/news/202405/3895331.html)
+
++ [《流放之路》新实机预告 降临版本即将登陆WeGame](https://www.3dmgame.com/news/202405/3895330.html)
+
++ [《渡神纪》预告 即将登陆Wegame包含全DLC](https://www.3dmgame.com/news/202405/3895329.html)
+
