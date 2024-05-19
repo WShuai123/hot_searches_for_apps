@@ -111,3 +111,5 @@
 
 + [EA《大学橄榄球25》实机玩法视频展示游戏细节](https://www.3dmgame.com/news/202405/3895324.html)
 
++ [《地平线：零之曙光》WeGame版预告 5月31日上线](https://www.3dmgame.com/news/202405/3895328.html)
+
