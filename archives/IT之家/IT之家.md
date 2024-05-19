@@ -55,3 +55,5 @@
 
 + [《黑神话：悟空》售价揭晓：简体中文 PC 标准版 268 元](https://m.ithome.com/html/769106.htm)
 
++ [小米集团华东总部暨南京科技园启用，北京以外最大研发中心](https://m.ithome.com/html/769031.htm)
+

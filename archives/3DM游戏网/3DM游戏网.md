@@ -169,3 +169,7 @@
 
 + [动视新工作室Elsewhere 75%的员工来自CDPR](https://www.3dmgame.com/news/202405/3895318.html)
 
++ [《黑神话：悟空》上线WeGame商城 全新宣传片发布](https://www.3dmgame.com/news/202405/3895320.html)
+
++ [《英雄联盟》2024 MSI决赛 GEN 3-1 BLG夺冠](https://www.3dmgame.com/news/202405/3895319.html)
+
