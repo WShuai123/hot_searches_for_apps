@@ -53,3 +53,5 @@
 
 + [拆解信息显示 8GB 内存版 2024 款苹果 iPad Pro 疑似搭载两颗 6GB 内存颗粒](https://m.ithome.com/html/769096.htm)
 
++ [《黑神话：悟空》售价揭晓：简体中文 PC 标准版 268 元](https://m.ithome.com/html/769106.htm)
+

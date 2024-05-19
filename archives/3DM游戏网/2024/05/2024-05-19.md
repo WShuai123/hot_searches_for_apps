@@ -165,3 +165,7 @@
 
 + [《顶点》定档！60岁帅老头布拉德·皮特演F1车手](https://www.3dmgame.com/news/202405/3895315.html)
 
++ [《黑神话：悟空》定价268元，8月20日同步上线WeGame！WeGame游戏之夜回顾](https://www.3dmgame.com/news/202405/3895317.html)
+
++ [动视新工作室Elsewhere 75%的员工来自CDPR](https://www.3dmgame.com/news/202405/3895318.html)
+
