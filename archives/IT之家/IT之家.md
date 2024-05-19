@@ -29,3 +29,5 @@
 
 + [LPL 战队 BLG 3:2 战胜 T1，挺进《英雄联盟》MSI 总决赛](https://m.ithome.com/html/768995.htm)
 
++ [“舔卡带”需谨慎，男子鞋内藏匿 120 张游戏卡入境被海关查获](https://m.ithome.com/html/769001.htm)
+

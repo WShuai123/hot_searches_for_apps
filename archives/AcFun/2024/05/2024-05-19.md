@@ -77,3 +77,7 @@
 
 + [选择你的游戏姬！](http://www.acfun.cn/v/ac44581169)
 
++ [qyq锐评冠军泰坦（TT）](http://www.acfun.cn/v/ac44580534)
+
++ [【求弹幕求回复】今日份搞笑沙雕弹弹乐视频 #1082](http://www.acfun.cn/v/ac44574294)
+

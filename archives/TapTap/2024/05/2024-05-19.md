@@ -21,3 +21,5 @@
 
 + [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
 
++ [少女前线2：追放](https://www.taptap.cn/app/190930)
+
