@@ -101,3 +101,13 @@
 
 + [禅意方块搭建游戏《灵魂桥接》5月23日同步上线PC与主机平台](https://www.3dmgame.com/news/202405/3895234.html)
 
++ [《荒野大镖客：救赎》将上Game Pass和PS Premium](https://www.3dmgame.com/news/202405/3895286.html)
+
++ [《魔兽世界：大灾变》经典服开场动画4K重制版释出](https://www.3dmgame.com/news/202405/3895287.html)
+
++ [新车主反映 特斯拉已经不再支持Steam了](https://www.3dmgame.com/news/202405/3895288.html)
+
++ [依旧震撼！《质量效应5》概念图分享](https://www.3dmgame.com/news/202405/3895289.html)
+
++ [《汉堡》免费登陆Steam 美味汉堡制作模拟](https://www.3dmgame.com/news/202405/3895285.html)
+
