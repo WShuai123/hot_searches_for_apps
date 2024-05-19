@@ -67,3 +67,5 @@
 
 + [[黑神话:悟空]WeGame预告 2024.8.20同步发售](http://www.acfun.cn/v/ac44587877)
 
++ [随便唱唱First Love](http://www.acfun.cn/v/ac44589075)
+
