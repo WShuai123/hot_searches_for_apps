@@ -101,3 +101,5 @@
 
 + [雷军在杭州亲自交付小米SU7：握手鞠躬感谢车主](https://www.3dmgame.com/news/202405/3895273.html)
 
++ [《黑神话：悟空》属性删除D加密 支持退款](https://www.3dmgame.com/news/202405/3895323.html)
+
