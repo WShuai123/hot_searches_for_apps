@@ -101,3 +101,7 @@
 
 + [Features.Vote](https://www.producthunt.com/posts/features-vote)
 
++ [Clicks.so](https://www.producthunt.com/posts/clicks-so)
+
++ [Magicam](https://www.producthunt.com/posts/magicam-2)
+

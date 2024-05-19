@@ -41,3 +41,5 @@
 
 + [京东苹果 618：iPhone 15 系列至高直降 2300 元，实付 4599 元起](https://m.ithome.com/html/769037.htm)
 
++ [消息称华为 nova 12 Ultra 星耀版手机搭载麒麟 9010L 处理器](https://m.ithome.com/html/769029.htm)
+
