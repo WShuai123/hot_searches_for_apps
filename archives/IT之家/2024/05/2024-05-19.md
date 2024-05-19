@@ -37,3 +37,5 @@
 
 + [vivo X100 Ultra 手机备件价格公布：显示屏优惠价 1420 元，主板 2850 元起](https://m.ithome.com/html/768965.htm)
 
++ [雷鸟推出“青鸟”系列真壁纸电视：4K 144Hz 高刷，4199 元起](https://m.ithome.com/html/768996.htm)
+

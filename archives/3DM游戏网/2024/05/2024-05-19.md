@@ -131,3 +131,5 @@
 
 + [爆料显示育碧新作《刺客信条：影》预购势头强劲](https://www.3dmgame.com/news/202405/3895295.html)
 
++ [世嘉相关爆料人发帖推测任天堂NS2主机开发代号](https://www.3dmgame.com/news/202405/3895300.html)
+
