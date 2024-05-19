@@ -103,3 +103,11 @@
 
 + [《黑神话：悟空》属性删除D加密 支持退款](https://www.3dmgame.com/news/202405/3895323.html)
 
++ [TCL华星打造全球首款7.85英寸三折叠屏](https://www.3dmgame.com/news/202405/3895327.html)
+
++ [网传《乐高地平线大冒险》正在开发中 即将公布](https://www.3dmgame.com/news/202405/3895326.html)
+
++ [育碧已取消《全境封锁：中心地带》实机视频泄露](https://www.3dmgame.com/news/202405/3895325.html)
+
++ [EA《大学橄榄球25》实机玩法视频展示游戏细节](https://www.3dmgame.com/news/202405/3895324.html)
+
