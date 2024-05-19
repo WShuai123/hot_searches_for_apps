@@ -45,3 +45,5 @@
 
 + [华为 PC 新品擎云 W515x / 585x 规格公布，首发搭载麒麟 9000C 处理器](https://m.ithome.com/html/769033.htm)
 
++ [小米 Redmi Pad Pro 平板 8GB+128GB 版本限时优惠价 1499 元，已购用户差价全补](https://m.ithome.com/html/769028.htm)
+
