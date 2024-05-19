@@ -63,3 +63,7 @@
 
 + [【颜音】风过谢桃花（明日方舟同人PV）](http://www.acfun.cn/v/ac44588541)
 
++ [背刺的艺术《是，首相YPM》精讲13](http://www.acfun.cn/v/ac44587829)
+
++ [[黑神话:悟空]WeGame预告 2024.8.20同步发售](http://www.acfun.cn/v/ac44587877)
+
