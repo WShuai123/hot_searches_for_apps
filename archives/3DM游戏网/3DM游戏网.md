@@ -161,3 +161,7 @@
 
 + [《妖精的尾巴》人气角色妖精女王新手办 幽绝之铠美艳酷炫](https://www.3dmgame.com/news/202405/3895314.html)
 
++ [今天是CDPR《巫师3：狂猎》发售九周年](https://www.3dmgame.com/news/202405/3895316.html)
+
++ [《顶点》定档！60岁帅老头布拉德·皮特演F1车手](https://www.3dmgame.com/news/202405/3895315.html)
+

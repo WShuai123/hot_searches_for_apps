@@ -51,3 +51,5 @@
 
 + [魏建军，什么都知道](https://m.ithome.com/html/769039.htm)
 
++ [拆解信息显示 8GB 内存版 2024 款苹果 iPad Pro 疑似搭载两颗 6GB 内存颗粒](https://m.ithome.com/html/769096.htm)
+
