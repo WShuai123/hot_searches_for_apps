@@ -51,3 +51,35 @@
 
 + [scalar / scalar](https://github.com/scalar/scalar)
 
++ [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
+
++ [adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio)
+
++ [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
++ [TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn)
+
++ [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
+
++ [mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+
++ [extrawurst / gitui](https://github.com/extrawurst/gitui)
+
++ [rashadphz / farfalle](https://github.com/rashadphz/farfalle)
+
++ [bepass-org / oblivion](https://github.com/bepass-org/oblivion)
+
++ [lencx / Noi](https://github.com/lencx/Noi)
+
++ [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
++ [joye61 / pic-smaller](https://github.com/joye61/pic-smaller)
+
++ [bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
+
++ [TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [weaviate / Verba](https://github.com/weaviate/Verba)
+

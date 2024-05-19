@@ -47,3 +47,7 @@
 
 + [小米 Redmi Pad Pro 平板 8GB+128GB 版本限时优惠价 1499 元，已购用户差价全补](https://m.ithome.com/html/769028.htm)
 
++ [“标配即顶配”悄然幻灭](https://m.ithome.com/html/769056.htm)
+
++ [魏建军，什么都知道](https://m.ithome.com/html/769039.htm)
+
