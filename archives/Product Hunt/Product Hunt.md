@@ -105,3 +105,21 @@
 
 + [Magicam](https://www.producthunt.com/posts/magicam-2)
 
++ [ChatPlayground AI](https://www.producthunt.com/posts/chatplayground-ai)
+
++ [User Evaluation AI](https://www.producthunt.com/posts/user-evaluation-ai)
+
++ [Free Resume Review!](https://www.producthunt.com/posts/free-resume-review)
+
++ [PodPrep](https://www.producthunt.com/posts/podprep)
+
++ [Extra Blu](https://www.producthunt.com/posts/extra-blu)
+
++ [Hepl](https://www.producthunt.com/posts/hepl)
+
++ [Magic Bookshelf - AI Stories](https://www.producthunt.com/posts/magic-bookshelf-ai-stories)
+
++ [BlissCompass](https://www.producthunt.com/posts/blisscompass)
+
++ [ANDRE](https://www.producthunt.com/posts/andre)
+

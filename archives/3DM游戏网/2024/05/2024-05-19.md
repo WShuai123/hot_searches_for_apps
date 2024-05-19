@@ -139,3 +139,13 @@
 
 + [《Dino Dino》登陆Steam 恐龙知识科普游戏](https://www.3dmgame.com/news/202405/3895302.html)
 
++ [经典PC《PasocomMini PC-8801》迷你版公开 手掌大小](https://www.3dmgame.com/news/202405/3895308.html)
+
++ [WeGame预告今夜开场就是好戏！《黑神话：悟空》或当仁不让](https://www.3dmgame.com/news/202405/3895305.html)
+
++ [《荒野枪巫》四人合作更新发布 周末限时免费试玩](https://www.3dmgame.com/news/202405/3895306.html)
+
++ [《博德之门3》史低价格销售 八五折优惠还剩四天](https://www.3dmgame.com/news/202405/3895307.html)
+
++ [《对马岛之魂》PC玩家数量持续上涨：索尼历史第三](https://www.3dmgame.com/news/202405/3895304.html)
+

@@ -43,3 +43,5 @@
 
 + [消息称华为 nova 12 Ultra 星耀版手机搭载麒麟 9010L 处理器](https://m.ithome.com/html/769029.htm)
 
++ [华为 PC 新品擎云 W515x / 585x 规格公布，首发搭载麒麟 9000C 处理器](https://m.ithome.com/html/769033.htm)
+
