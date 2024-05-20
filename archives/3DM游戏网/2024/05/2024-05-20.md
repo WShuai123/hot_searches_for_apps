@@ -157,3 +157,23 @@
 
 + [IGN发文力挺《刺客信条：影》 亚裔不应只满足当武士](https://www.3dmgame.com/news/202405/3895344.html)
 
++ [《Astera》Steam页面上线 暗黑类型动作RPG新游](https://www.3dmgame.com/news/202405/3895359.html)
+
++ [BB卡牌新作《漫威终极逆转》国区Steam页面上线 网易发行](https://www.3dmgame.com/news/202405/3895360.html)
+
++ [《使命召唤：现代战争3》将联动“高达” 第四赛季上线](https://www.3dmgame.com/news/202405/3895357.html)
+
++ [《星露谷物语》食谱上架 含50款来自游戏内的美食](https://www.3dmgame.com/news/202405/3895358.html)
+
++ [《蒸汽世界：劫掠2》故事概述预告 8月8日发售](https://www.3dmgame.com/news/202405/3895356.html)
+
++ [《到处都是卡牌》免费登陆PC 创意扑克独特玩法](https://www.3dmgame.com/news/202405/3895355.html)
+
++ [《地狱之刃2》全新截图：人物栩栩如生 风景更美](https://www.3dmgame.com/news/202405/3895352.html)
+
++ [报道称《最后的生还者》HBO第二季将于2025年上半年播出](https://www.3dmgame.com/news/202405/3895353.html)
+
++ [经典美漫改编游戏《Lady Death Demonicron》Steam页面上线 2026年发售](https://www.3dmgame.com/news/202405/3895354.html)
+
++ [极简风格生存建造游戏《鲁尔和昏暗定居者》现已推出试玩Demo](https://www.3dmgame.com/news/202405/3895351.html)
+

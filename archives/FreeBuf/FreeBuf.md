@@ -47,3 +47,5 @@
 
 + [深度解析 | 大模型原生安全](https://www.freebuf.com/articles/network/400726.html)
 
++ [安全AI未来 C3安全大会·2024盛大召开——数据驱动 AI原生](https://www.freebuf.com/news/401348.html)
+
