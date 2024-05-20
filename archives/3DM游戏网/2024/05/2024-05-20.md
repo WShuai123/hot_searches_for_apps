@@ -215,3 +215,9 @@
 
 + [女性向虚拟互动恋爱游戏《嘶哈！这个男人有点帅》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3895374.html)
 
++ [《星刃》服装模特MyBoo幕后照：身材火辣不输体模](https://www.3dmgame.com/news/202405/3895382.html)
+
++ [明天开服！腾讯《地下城与勇士》手游开放创角抢ID](https://www.3dmgame.com/news/202405/3895381.html)
+
++ [经典《巫术：疯狂领主的试验场》3D重制版将推实体版](https://www.3dmgame.com/news/202405/3895380.html)
+
