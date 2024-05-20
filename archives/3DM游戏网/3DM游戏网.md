@@ -123,3 +123,15 @@
 
 + [《渡神纪》预告 即将登陆Wegame包含全DLC](https://www.3dmgame.com/news/202405/3895329.html)
 
++ [《DOTA2》PGL瓦拉几亚S1 Spirit 3-2 XG夺冠](https://www.3dmgame.com/news/202405/3895338.html)
+
++ [《对马岛之鬼》超《战神4》成Steam首发最高的索尼单机游戏](https://www.3dmgame.com/news/202405/3895339.html)
+
++ [粉丝为《胆小狗英雄》制作改编游戏效果不错](https://www.3dmgame.com/news/202405/3895337.html)
+
++ [韩国新作《Raven 2》全新角色创建系统演示视频](https://www.3dmgame.com/news/202405/3895336.html)
+
++ [经典游戏合集《TAITO精选集3》今年冬季发售](https://www.3dmgame.com/news/202405/3895335.html)
+
++ [《仙剑世界》WeGame版预告 付费删档测试5月31日开启](https://www.3dmgame.com/news/202405/3895334.html)
+

@@ -25,3 +25,5 @@
 
 + [新款吉利博越 L 车型上市：可选 NOA 高阶智驾系统、8155 芯片，售 11.57 万元起](https://m.ithome.com/html/769092.htm)
 
++ [20.08 万元起：国产沃尔沃 EX30 小型纯电 SUV 上市，最高续航 590 公里](https://m.ithome.com/html/769116.htm)
+
