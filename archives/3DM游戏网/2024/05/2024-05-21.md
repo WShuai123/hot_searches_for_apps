@@ -101,3 +101,7 @@
 
 + [极简风格生存建造游戏《鲁尔和昏暗定居者》现已推出试玩Demo](https://www.3dmgame.com/news/202405/3895351.html)
 
++ [《怪物猎人：物语》新预告 6月14日发售](https://www.3dmgame.com/news/202405/3895404.html)
+
++ [烹饪管理《咖啡大篷车》正式发售 首发特惠38.4元](https://www.3dmgame.com/news/202405/3895403.html)
+
