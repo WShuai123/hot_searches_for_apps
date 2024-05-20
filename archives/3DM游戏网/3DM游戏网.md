@@ -105,3 +105,11 @@
 
 + [烹饪管理《咖啡大篷车》正式发售 首发特惠38.4元](https://www.3dmgame.com/news/202405/3895403.html)
 
++ [《波斯王子：失落的王冠》发布Boss来袭更新预告](https://www.3dmgame.com/news/202405/3895408.html)
+
++ [NBA街机游戏《NBA超级明星》今年夏季正式推出](https://www.3dmgame.com/news/202405/3895407.html)
+
++ [《我的世界》15周年纪念免费更新博物馆地图](https://www.3dmgame.com/news/202405/3895406.html)
+
++ [《星刃》开发商新作对标《原神》瞄准2027年发售](https://www.3dmgame.com/news/202405/3895405.html)
+
