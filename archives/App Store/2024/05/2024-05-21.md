@@ -201,3 +201,9 @@
 
 + [驾考宝典-2024驾校学车考驾照](https://itunes.apple.com/cn/app/id491024740?mt=8)
 
++ [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
+
++ [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
