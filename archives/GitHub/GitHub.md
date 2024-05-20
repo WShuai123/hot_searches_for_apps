@@ -51,3 +51,27 @@
 
 + [weaviate / Verba](https://github.com/weaviate/Verba)
 
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [initia-labs / initia](https://github.com/initia-labs/initia)
+
++ [KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
+
++ [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [arendst / Tasmota](https://github.com/arendst/Tasmota)
+
++ [xbmc / xbmc](https://github.com/xbmc/xbmc)
+
++ [folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+
++ [neovim / nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+
++ [entropy-research / Devon](https://github.com/entropy-research/Devon)
+
++ [mukel / llama3.java](https://github.com/mukel/llama3.java)
+
++ [tiann / KernelSU](https://github.com/tiann/KernelSU)
+

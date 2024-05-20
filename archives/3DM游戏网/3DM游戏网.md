@@ -237,3 +237,9 @@
 
 + [德国对华为5G设备的禁令步步逼近：运营商喊话做好没网准备](https://www.3dmgame.com/news/202405/3895384.html)
 
++ [KK官方对战平台KKB48斗图大赛甜蜜来袭，守护女神赢600万U币！](https://www.3dmgame.com/news/202405/3895393.html)
+
++ [报告老板，现在就加班！《职场浮生记》抢先体验版现已上线](https://www.3dmgame.com/news/202405/3895392.html)
+
++ [骂归骂买归买 《刺客信条：影》在日本亚马逊PS5游戏畅销榜登顶](https://www.3dmgame.com/news/202405/3895391.html)
+

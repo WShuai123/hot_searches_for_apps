@@ -45,3 +45,7 @@
 
 + [小米 Redmi Turbo 3“镜瓷白”真机亮相：正面白色面板视效](https://m.ithome.com/html/769226.htm)
 
++ [小米 Redmi Turbo 3 手机全系降价 100 元，已购用户保价](https://m.ithome.com/html/769188.htm)
+
++ [组台电脑成本越来越高：除 CPU / GPU 之外，内存和固态硬盘价格也疯涨](https://m.ithome.com/html/769150.htm)
+
