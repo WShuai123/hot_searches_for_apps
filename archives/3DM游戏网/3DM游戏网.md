@@ -177,3 +177,17 @@
 
 + [极简风格生存建造游戏《鲁尔和昏暗定居者》现已推出试玩Demo](https://www.3dmgame.com/news/202405/3895351.html)
 
++ [3D平台解谜游戏《阿卡里和废墟王国》现已推出试玩Demo 6月20日发售](https://www.3dmgame.com/news/202405/3895367.html)
+
++ [《幻耀的羽毛》Steam试玩发布 纵深卷轴3D射击](https://www.3dmgame.com/news/202405/3895366.html)
+
++ [贝索斯旗下蓝色起源火箭发射升空 成功将6名乘客送上太空](https://www.3dmgame.com/news/202405/3895365.html)
+
++ [类Rogue动作游戏《兔子与钢铁》首周销量突破10万 将推出更多游戏内容](https://www.3dmgame.com/news/202405/3895364.html)
+
++ [玩家测试WinXP/2000无保护上网 瞬间中了几十种病毒](https://www.3dmgame.com/news/202405/3895362.html)
+
++ [传闻苹果首席运营官威廉姆斯访问台积电 探讨AI芯片开发](https://www.3dmgame.com/news/202405/3895363.html)
+
++ [开放世界冒险游戏《海上闪光》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202405/3895361.html)
+

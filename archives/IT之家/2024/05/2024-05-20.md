@@ -31,3 +31,11 @@
 
 + [滴滴董事长兼 CEO 程维：升任柳青为永久合伙人，公司未来不再设总裁岗位](https://m.ithome.com/html/769087.htm)
 
++ [第二款高定车要来了，阿维塔 012 全球联名限量版官宣](https://m.ithome.com/html/769118.htm)
+
++ [古尔曼：苹果在 AI 时代需要进化，错误地区分了 iPad 与 Mac 产品，Vision Pro 将仰仗亚洲市场表现](https://m.ithome.com/html/769121.htm)
+
++ [消息称微软即将推出 Windows 11 新默认壁纸，采用 Copilot 配色](https://m.ithome.com/html/769104.htm)
+
++ [1.5 匹 1432 元：小米巨省电空调京东官方发车（新一级能效）](https://m.ithome.com/html/769045.htm)
+
