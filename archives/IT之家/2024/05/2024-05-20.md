@@ -41,3 +41,5 @@
 
 + [今年抢手颜色，郭明錤预测苹果 iPhone 16 Pro / Max：玫瑰色替代蓝色](https://m.ithome.com/html/769128.htm)
 
++ [相机垂直排列，苹果 iPhone 16 渲染图 / 机模曝光](https://m.ithome.com/html/769227.htm)
+

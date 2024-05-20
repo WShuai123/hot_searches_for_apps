@@ -199,3 +199,7 @@
 
 + [《不时轻声地以俄语遮羞的邻座艾莉同学》新预告放出 7月开播](https://www.3dmgame.com/news/202405/3895371.html)
 
++ [开发商Remedy暗示《心灵杀手2》DLC或将在夏日游戏节公布](https://www.3dmgame.com/news/202405/3895372.html)
+
++ [玩家制作《宝可梦 金/银/水晶》BGM排名视频 因大奶罐形象色情被TikTok下架](https://www.3dmgame.com/news/202405/3895373.html)
+

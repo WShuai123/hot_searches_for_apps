@@ -53,3 +53,7 @@
 
 + [身份扫描应用程序如何防止欺诈行为？](https://www.freebuf.com/news/401357.html)
 
++ [如何使用Stegseek解密并提取隐写工具Steghide隐藏的内容](https://www.freebuf.com/sectool/400605.html)
+
++ [Grandoreiro 木马重浮水面，全球 1500 多家组织遭殃](https://www.freebuf.com/news/401362.html)
+
