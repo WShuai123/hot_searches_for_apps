@@ -49,3 +49,5 @@
 
 + [安全AI未来 C3安全大会·2024盛大召开——数据驱动 AI原生](https://www.freebuf.com/news/401348.html)
 
++ [MacOS 离地攻击分析](https://www.freebuf.com/articles/system/400721.html)
+

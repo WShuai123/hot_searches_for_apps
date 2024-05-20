@@ -39,3 +39,5 @@
 
 + [1.5 匹 1432 元：小米巨省电空调京东官方发车（新一级能效）](https://m.ithome.com/html/769045.htm)
 
++ [今年抢手颜色，郭明錤预测苹果 iPhone 16 Pro / Max：玫瑰色替代蓝色](https://m.ithome.com/html/769128.htm)
+
