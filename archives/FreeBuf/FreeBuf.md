@@ -51,3 +51,5 @@
 
 + [MacOS 离地攻击分析](https://www.freebuf.com/articles/system/400721.html)
 
++ [身份扫描应用程序如何防止欺诈行为？](https://www.freebuf.com/news/401357.html)
+

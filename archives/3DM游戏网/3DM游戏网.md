@@ -193,3 +193,9 @@
 
 + [雷军：小米对手是苹果三星 如果不行早被打成渣了](https://www.3dmgame.com/news/202405/3895368.html)
 
++ [动画《死亡细胞：不朽》预告 6月19日播出](https://www.3dmgame.com/news/202405/3895369.html)
+
++ [卡内基梅隆大学宣布将开新课程 研究《火焰纹章》游戏设计](https://www.3dmgame.com/news/202405/3895370.html)
+
++ [《不时轻声地以俄语遮羞的邻座艾莉同学》新预告放出 7月开播](https://www.3dmgame.com/news/202405/3895371.html)
+
