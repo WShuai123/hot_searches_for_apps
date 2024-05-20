@@ -25,3 +25,5 @@
 
 + [迷雾大陆](https://www.taptap.cn/app/635596)
 
++ [蔚蓝档案](https://www.taptap.cn/app/316964)
+

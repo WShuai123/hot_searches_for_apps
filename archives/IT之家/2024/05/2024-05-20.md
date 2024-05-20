@@ -55,3 +55,9 @@
 
 + [消息称华为鸿蒙 HarmonyOS NEXT 系统内部排期 9 月，全场景新品将至](https://m.ithome.com/html/769293.htm)
 
++ [小鱼到太空后游泳都找不着北了，中国空间站 4 条斑马鱼状态良好](https://m.ithome.com/html/769154.htm)
+
++ [限时 4 小时百亿补贴：Redmi K70 手机 12G 版 1999 元大促（减 500 元）](https://m.ithome.com/html/769159.htm)
+
++ [长城董事长魏建军痛批哈弗 H6 营销：完全没有用户思维，不知用户关注什么](https://m.ithome.com/html/769366.htm)
+
