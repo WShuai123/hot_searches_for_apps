@@ -51,3 +51,7 @@
 
 + [京东小时达官宣升级为“秒送”，号称“最快 9 分钟”送达](https://m.ithome.com/html/769156.htm)
 
++ [魅族 21 Note 手机今日开售：骁龙 8 Gen 2 处理器，售价 2599 元起](https://m.ithome.com/html/769133.htm)
+
++ [消息称华为鸿蒙 HarmonyOS NEXT 系统内部排期 9 月，全场景新品将至](https://m.ithome.com/html/769293.htm)
+
