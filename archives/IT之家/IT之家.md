@@ -43,3 +43,5 @@
 
 + [相机垂直排列，苹果 iPhone 16 渲染图 / 机模曝光](https://m.ithome.com/html/769227.htm)
 
++ [小米 Redmi Turbo 3“镜瓷白”真机亮相：正面白色面板视效](https://m.ithome.com/html/769226.htm)
+

@@ -203,3 +203,15 @@
 
 + [玩家制作《宝可梦 金/银/水晶》BGM排名视频 因大奶罐形象色情被TikTok下架](https://www.3dmgame.com/news/202405/3895373.html)
 
++ [《燕云十六声》用买断级品质 做最好的免费游戏](https://www.3dmgame.com/news/202405/3895378.html)
+
++ [小岛秀夫透露《死亡搁浅2》开发进度 演员拍摄和配音已经完成](https://www.3dmgame.com/news/202405/3895379.html)
+
++ [《艾尔登法环》翻译人员认为游戏的完整世界观仅存在宫崎英高的脑中](https://www.3dmgame.com/news/202405/3895377.html)
+
++ [《闪电十一人：英雄的胜利之路》B测“故事模式”今日上线](https://www.3dmgame.com/news/202405/3895376.html)
+
++ [《变脸公寓》Steam页面上线 第一人称潜行恐怖游戏](https://www.3dmgame.com/news/202405/3895375.html)
+
++ [女性向虚拟互动恋爱游戏《嘶哈！这个男人有点帅》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3895374.html)
+
