@@ -45,3 +45,5 @@
 
 + [国际货币基金组织警告：网络攻击影响全球金融稳定](https://www.freebuf.com/articles/paper/401299.html)
 
++ [深度解析 | 大模型原生安全](https://www.freebuf.com/articles/network/400726.html)
+

@@ -135,3 +135,25 @@
 
 + [《仙剑世界》WeGame版预告 付费删档测试5月31日开启](https://www.3dmgame.com/news/202405/3895334.html)
 
++ [从批评到支持！CDPR开发者被迫改变对《刺客信条：影》的立场](https://www.3dmgame.com/news/202405/3895350.html)
+
++ [《幻兽帕鲁》将参加夏日游戏节 公布令人兴奋的事情](https://www.3dmgame.com/news/202405/3895349.html)
+
++ [《Indigo Park：第一章》Steam免费发布 废弃游乐场探索](https://www.3dmgame.com/news/202405/3895348.html)
+
++ [卡牌战斗游戏《夺牌狂飙》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202405/3895347.html)
+
++ [网友强推的AI+真人互动影游《美女，应接不暇》，当我去玩了两小时之后....](https://www.3dmgame.com/news/202405/3895346.html)
+
++ [休闲海战射击游戏《瓶盖战舰》Steam页面 支持简体中文](https://www.3dmgame.com/news/202405/3895345.html)
+
++ [数据挖掘显示《龙珠：电光火石0》或将10月1日发售](https://www.3dmgame.com/news/202405/3895343.html)
+
++ [《黑神话：悟空》主创谈心路历程：迎难而上不惧困难](https://www.3dmgame.com/news/202405/3895342.html)
+
++ [索尼电影集团董事长：《塞尔达传说》电影对我们意义重大](https://www.3dmgame.com/news/202405/3895341.html)
+
++ [玩家发现《原神》有趣BUG 神里绫人变成超辉光女神](https://www.3dmgame.com/news/202405/3895340.html)
+
++ [IGN发文力挺《刺客信条：影》 亚裔不应只满足当武士](https://www.3dmgame.com/news/202405/3895344.html)
+
