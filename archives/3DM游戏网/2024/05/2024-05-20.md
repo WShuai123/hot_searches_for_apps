@@ -255,3 +255,5 @@
 
 + [《地狱之刃2》发售宣传片发布 5月21日推出](https://www.3dmgame.com/news/202405/3895399.html)
 
++ [《夜族崛起》PS5版6月11日发售 目前已开启预购](https://www.3dmgame.com/news/202405/3895400.html)
+
