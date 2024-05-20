@@ -25,3 +25,5 @@
 
 + [限时 4 小时百亿补贴：Redmi K70 手机 12G 版 1999 元大促（减 500 元）](https://m.ithome.com/html/769159.htm)
 
++ [小米 Redmi 京东狂促 4 小时：K70 百亿补贴 1999 元，小米 14 3659 元](https://m.ithome.com/html/769388.htm)
+
