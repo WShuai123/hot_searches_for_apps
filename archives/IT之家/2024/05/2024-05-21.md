@@ -27,3 +27,9 @@
 
 + [小米 Redmi 京东狂促 4 小时：K70 百亿补贴 1999 元，小米 14 3659 元](https://m.ithome.com/html/769388.htm)
 
++ [何小鹏回应小米竞争：现在卖得好不代表能力强，汽车行业是长线竞争](https://m.ithome.com/html/769393.htm)
+
++ [苹果 iOS 17.5.1 正式版发布：修复已删除照片“复活”问题](https://m.ithome.com/html/769417.htm)
+
++ [和 iPad Pro 掰手腕，微软新 Surface Pro 登场：性能提升 90%，首搭 OLED 屏幕](https://m.ithome.com/html/769420.htm)
+

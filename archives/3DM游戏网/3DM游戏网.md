@@ -115,3 +115,19 @@
 
 + [可爱寻物游戏《失物认领有限公司》6月更新简中](https://www.3dmgame.com/news/202405/3895409.html)
 
++ [P社《你的人生》第三次跳票 这次官方连发售日也不敢承诺了](https://www.3dmgame.com/news/202405/3895416.html)
+
++ [网易《九畿：岐风之旅》实机预告 辰极纪测试即将开启](https://www.3dmgame.com/news/202405/3895417.html)
+
++ [《暗黑：不朽》新职业“雾刃”背后秘密：为守护而生](https://www.3dmgame.com/news/202405/3895413.html)
+
++ [《霍格沃茨之遗》NS版开发商Shiver即将被任天堂收购](https://www.3dmgame.com/news/202405/3895414.html)
+
++ [暴雪总裁称赞《暗黑4》新赛季：重新点燃游戏魔力](https://www.3dmgame.com/news/202405/3895415.html)
+
++ [《星刃》销量超出预期 PC版和续作正在考虑中](https://www.3dmgame.com/news/202405/3895411.html)
+
++ [英伟达介绍《黑神话》特性：支持全景光追DLSS 3.5](https://www.3dmgame.com/news/202405/3895412.html)
+
++ [T2对《GTA6》有信心：游戏将提供前所未有的新体验](https://www.3dmgame.com/news/202405/3895410.html)
+

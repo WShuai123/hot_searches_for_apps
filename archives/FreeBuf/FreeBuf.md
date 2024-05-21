@@ -41,3 +41,7 @@
 
 + [FreeBuf 周报 | 曝iOS 17.5自动恢复已删数年的照片；安卓将推数据保护新功能](https://www.freebuf.com/news/401265.html)
 
++ [FreeBuf早报 | 国内3万余条新生儿信息被倒卖；澳电子处方公司遭遇大规模勒索软件攻击](https://www.freebuf.com/news/401407.html)
+
++ [2024 年第一季度勒索软件态势](https://www.freebuf.com/articles/network/400339.html)
+
