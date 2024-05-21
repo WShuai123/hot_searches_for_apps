@@ -271,3 +271,7 @@
 
 + [《星空》60FPS更新后 Xbox玩家提升了72%](https://www.3dmgame.com/news/202405/3895484.html)
 
++ [两部《加勒比海盗》电影制作中：重启+衍生作，没有德普](https://www.3dmgame.com/news/202405/3895489.html)
+
++ [《地狱之刃2》Steam特别好评 虚幻5画面确实能打](https://www.3dmgame.com/news/202405/3895488.html)
+
