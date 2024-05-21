@@ -53,3 +53,7 @@
 
 + [56 家出版单位联合抵制京东 618 图书大促：无底线打折伤害全行业](https://m.ithome.com/html/769618.htm)
 
++ [《英雄联盟》免费改名活动上线，召唤师 ID 系统升级完成](https://m.ithome.com/html/769550.htm)
+
++ [华为 P60、Mate 50、Mate X3 系列等机型开启鸿蒙 HarmonyOS 4.2 正式版升级](https://m.ithome.com/html/769467.htm)
+
