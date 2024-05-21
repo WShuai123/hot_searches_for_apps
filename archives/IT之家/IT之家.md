@@ -51,3 +51,5 @@
 
 + [微软全新 Surface Pro 国行预售：骁龙 X Elite / Plus 芯片，8688 元起](https://m.ithome.com/html/769532.htm)
 
++ [56 家出版单位联合抵制京东 618 图书大促：无底线打折伤害全行业](https://m.ithome.com/html/769618.htm)
+

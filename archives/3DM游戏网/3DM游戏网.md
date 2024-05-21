@@ -259,3 +259,7 @@
 
 + [摸摸党退掉十几部手机后被京东制裁 结局舒适](https://www.3dmgame.com/news/202405/3895472.html)
 
++ [周鸿祎：大模型不会摧毁每一个行业 将打造大模型工厂](https://www.3dmgame.com/news/202405/3895483.html)
+
++ [欧美巨头建6G小组 封锁技术！6G关键技术：网速1TB/s](https://www.3dmgame.com/news/202405/3895482.html)
+
