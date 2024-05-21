@@ -263,3 +263,5 @@
 
 + [欧美巨头建6G小组 封锁技术！6G关键技术：网速1TB/s](https://www.3dmgame.com/news/202405/3895482.html)
 
++ [OpenAI下架类似斯嘉丽·约翰逊声音 斯嘉丽曾拒绝对方的配音邀约](https://www.3dmgame.com/news/202405/3895485.html)
+
