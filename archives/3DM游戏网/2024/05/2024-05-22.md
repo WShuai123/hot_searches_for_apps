@@ -115,3 +115,9 @@
 
 + [运输模拟管理游戏《火车山谷：世界》8/8推出](https://www.3dmgame.com/news/202405/3895495.html)
 
++ [经典RPG《纸片马里奥：千年之门》即将登陆Switch](https://www.3dmgame.com/news/202405/3895501.html)
+
++ [传《王国之心4》将登陆任天堂下代主机Switch 2](https://www.3dmgame.com/news/202405/3895500.html)
+
++ [《任天堂明星大乱斗特别版》角色胜率接近平衡](https://www.3dmgame.com/news/202405/3895499.html)
+
