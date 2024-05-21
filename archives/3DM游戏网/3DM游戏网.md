@@ -101,3 +101,9 @@
 
 + [育碧承诺《不羁联盟》没有任何花钱买赢内容：非常重视](https://www.3dmgame.com/news/202405/3895442.html)
 
++ [《纸片马里奥：千年之门》IGN 9分 令人难忘的体验](https://www.3dmgame.com/news/202405/3895494.html)
+
++ [《艾尔登法环：黄金树幽影》中字剧情预告 前往幽影之地](https://www.3dmgame.com/news/202405/3895492.html)
+
++ [传闻：《最终幻想9：RE》正在开发 《FF10：RE》不存在](https://www.3dmgame.com/news/202405/3895493.html)
+
