@@ -201,3 +201,7 @@
 
 + [懂车帝-选买新车二手车](https://itunes.apple.com/cn/app/id1232131998?mt=8)
 
++ [心悦俱乐部-和平精英王者荣耀礼包领取平台](https://itunes.apple.com/cn/app/id1156439976?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
