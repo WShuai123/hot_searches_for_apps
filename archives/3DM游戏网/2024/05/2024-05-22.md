@@ -121,3 +121,7 @@
 
 + [《任天堂明星大乱斗特别版》角色胜率接近平衡](https://www.3dmgame.com/news/202405/3895499.html)
 
++ [12名专业电影人参与《天国：拯救2》宣传片制作花絮](https://www.3dmgame.com/news/202405/3895503.html)
+
++ [女玩家原味洗澡水9万美元销售款被PayPal拦截5年](https://www.3dmgame.com/news/202405/3895502.html)
+
