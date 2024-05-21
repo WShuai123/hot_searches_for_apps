@@ -57,3 +57,5 @@
 
 + [Fluent Bit 曝出严重漏洞，影响所有云提供商](https://www.freebuf.com/news/401435.html)
 
++ [CNVD漏洞代码审计 | 危险代码与漏洞成因分析](https://www.freebuf.com/vuls/401042.html)
+

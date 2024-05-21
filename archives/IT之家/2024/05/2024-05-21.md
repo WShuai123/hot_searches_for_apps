@@ -41,3 +41,7 @@
 
 + [华为余承东自称不善言辞：小米雷军入局带来了强大流量，传统车企根本干不过](https://m.ithome.com/html/769487.htm)
 
++ [苹果“i”背后的男人 Ken Segall：是时候放弃这个前缀了，已经毫无意义](https://m.ithome.com/html/769414.htm)
+
++ [微软最强 Surface Laptop 登场：性能快 86%、13.8/15 英寸可选、配骁龙 X Elite / Plus 芯片](https://m.ithome.com/html/769419.htm)
+
