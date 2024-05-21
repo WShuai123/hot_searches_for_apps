@@ -45,3 +45,7 @@
 
 + [2024 年第一季度勒索软件态势](https://www.freebuf.com/articles/network/400339.html)
 
++ [应用安全设计方法——ASTRIDE威胁建模详解](https://www.freebuf.com/articles/system/401043.html)
+
++ [FreeBuf资讯 | 数据违规后需在30天内披露；澳电子处方公司遭遇大规模勒索攻击](https://www.freebuf.com/news/401407.html)
+

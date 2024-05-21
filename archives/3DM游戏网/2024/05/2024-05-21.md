@@ -131,3 +131,23 @@
 
 + [T2对《GTA6》有信心：游戏将提供前所未有的新体验](https://www.3dmgame.com/news/202405/3895410.html)
 
++ [《刺客信条：影》多元化团队曝光 从叙事总监到首席编剧再到关卡设计师](https://www.3dmgame.com/news/202405/3895426.html)
+
++ [庆祝成立10周年 《心跳文学部》开发商免费推出互动剧情游戏《热爱生活》](https://www.3dmgame.com/news/202405/3895425.html)
+
++ [Newzoo：PC游戏市场去年增长远大于主机游戏](https://www.3dmgame.com/news/202405/3895427.html)
+
++ [《王国之心》全系列宣布登陆Steam 6月13日发售](https://www.3dmgame.com/news/202405/3895424.html)
+
++ [著名支持开发商Keywords工作室或将被私募股权公司收购](https://www.3dmgame.com/news/202405/3895423.html)
+
++ [《街头霸王6》将追加全新机能 支持角色BGM定制](https://www.3dmgame.com/news/202405/3895422.html)
+
++ [尼古拉斯·凯奇恐怖片《长脚怪》发正式预告](https://www.3dmgame.com/news/202405/3895419.html)
+
++ [微软将人工智能融入游戏中：展示《我的世界》AI功能](https://www.3dmgame.com/news/202405/3895421.html)
+
++ [《地狱之刃2》开发商Ninja Theory的新项目已获Xbox批准](https://www.3dmgame.com/news/202405/3895420.html)
+
++ [《Risimon》Steam页面上线 仿宝可梦冒险RPG](https://www.3dmgame.com/news/202405/3895418.html)
+
