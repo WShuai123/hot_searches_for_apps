@@ -105,3 +105,7 @@
 
 + [【小子贼疯×余若_】椰子船（cover：裘德/王OK）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44599816)
 
++ [大型纪录片：王婆说媒湖北站，武汉巅峰赛，no姐，本科姐，反悔姐](http://www.acfun.cn/v/ac44590201)
+
++ [【小子贼疯】迷宫 (cover: step.jad依加) 【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44596013)
+

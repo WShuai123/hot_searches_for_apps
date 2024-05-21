@@ -45,3 +45,7 @@
 
 + [微软最强 Surface Laptop 登场：性能快 86%、13.8/15 英寸可选、配骁龙 X Elite / Plus 芯片](https://m.ithome.com/html/769419.htm)
 
++ [iQOO Pad2 / Pro 平板电脑发布，后者搭载天玑 9300 + 处理器](https://m.ithome.com/html/769380.htm)
+
++ [小米汽车：SU7 未来或将根据用户需求推出其他衍生版本](https://m.ithome.com/html/769411.htm)
+

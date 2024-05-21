@@ -65,3 +65,5 @@
 
 + [超火爆的Fluent Bit 曝关键漏洞，影响几乎所有云服务商](https://www.freebuf.com/news/401435.html)
 
++ [520爱要火力全开：「梦想趴狂欢节」冲刺进行中](https://www.freebuf.com/fevents/401508.html)
+

@@ -221,3 +221,21 @@
 
 + [香草社招聘开发者 准备开发奇幻动作角色扮演新作](https://www.3dmgame.com/news/202405/3895459.html)
 
++ [抖音、微信等公布微短剧备案细则：须获得备案号后才能播出](https://www.3dmgame.com/news/202405/3895471.html)
+
++ [手游《闪光传说》7月23日停服 结束七年运营](https://www.3dmgame.com/news/202405/3895470.html)
+
++ [Steam最新一周销量榜 《对马岛之魂》成功登顶](https://www.3dmgame.com/news/202405/3895469.html)
+
++ [据称下一代AMD游戏APU将在8月底前推出](https://www.3dmgame.com/news/202405/3895468.html)
+
++ [《壮士水族馆》登陆Steam 奇葩肌肉男培养模拟](https://www.3dmgame.com/news/202405/3895467.html)
+
++ [《仙剑》官方武器模型上架：698元 有十一件经典武器](https://www.3dmgame.com/news/202405/3895466.html)
+
++ [《小猫咪大城市》XGP玩家数突破百万 首周销量破20万](https://www.3dmgame.com/news/202405/3895465.html)
+
++ [网友称小米SU7全生命周期最多只有20万公里：官方回应](https://www.3dmgame.com/news/202405/3895464.html)
+
++ [大模型进入免费时代 百度文心大模型两大模型免费用](https://www.3dmgame.com/news/202405/3895463.html)
+
