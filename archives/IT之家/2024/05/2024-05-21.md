@@ -37,3 +37,5 @@
 
 + [iQOO Neo9S Pro 手机发布：搭载天玑 9300+，限时优惠价 2699 元起](https://m.ithome.com/html/769371.htm)
 
++ [京东支付可扫微信收款码了，行业首家同时打通微信个人码和商家码的第三方支付机构](https://m.ithome.com/html/769223.htm)
+

@@ -49,3 +49,9 @@
 
 + [FreeBuf资讯 | 数据违规后需在30天内披露；澳电子处方公司遭遇大规模勒索攻击](https://www.freebuf.com/news/401407.html)
 
++ [网安培训太卷了，18.8就能学ChatGPT安全工具开发高阶课......](https://www.freebuf.com/fevents/401451.html)
+
++ [英特尔AI 模型压缩器现满分漏洞，可导致任意代码执行](https://www.freebuf.com/news/401448.html)
+
++ [企业信息安全管理工作的“ATT&CK”——十个痛点和应对之四十招](https://www.freebuf.com/articles/401446.html)
+
