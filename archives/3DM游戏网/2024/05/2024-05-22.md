@@ -107,3 +107,11 @@
 
 + [传闻：《最终幻想9：RE》正在开发 《FF10：RE》不存在](https://www.3dmgame.com/news/202405/3895493.html)
 
++ [中世纪穿越风格射击游戏《Kingmakers》新预告片](https://www.3dmgame.com/news/202405/3895498.html)
+
++ [亚马逊游戏开设新工作室 由前育碧高管领导](https://www.3dmgame.com/news/202405/3895497.html)
+
++ [策略挖矿游戏《钻芯》面向PC公布 Q4推出](https://www.3dmgame.com/news/202405/3895496.html)
+
++ [运输模拟管理游戏《火车山谷：世界》8/8推出](https://www.3dmgame.com/news/202405/3895495.html)
+
