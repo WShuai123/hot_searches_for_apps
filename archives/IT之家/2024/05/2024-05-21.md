@@ -49,3 +49,5 @@
 
 + [小米汽车：SU7 未来或将根据用户需求推出其他衍生版本](https://m.ithome.com/html/769411.htm)
 
++ [微软全新 Surface Pro 国行预售：骁龙 X Elite / Plus 芯片，8688 元起](https://m.ithome.com/html/769532.htm)
+

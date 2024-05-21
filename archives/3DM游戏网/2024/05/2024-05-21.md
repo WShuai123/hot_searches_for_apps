@@ -239,3 +239,23 @@
 
 + [大模型进入免费时代 百度文心大模型两大模型免费用](https://www.3dmgame.com/news/202405/3895463.html)
 
++ [KK官方对战平台新图推荐，踏上江湖巅峰，掌控武林命运](https://www.3dmgame.com/news/202405/3895475.html)
+
++ [《边境之塔》登陆Steam 复古风恐怖生存冒险](https://www.3dmgame.com/news/202405/3895481.html)
+
++ [像素风生活模拟《月光石岛》：全新DLC“魔法DLC”即将上线](https://www.3dmgame.com/news/202405/3895479.html)
+
++ [勇魅出击，众星云集：宝可梦卡牌“剑&盾”系列第五弹补充包震撼发布](https://www.3dmgame.com/news/202405/3895480.html)
+
++ [拟真二战RTS《战争之人2》发售，首周购买享免费升级](https://www.3dmgame.com/news/202405/3895478.html)
+
++ [经典再出！《王国 两位君主：奥林匹斯的召唤》 全新DLC 将于今年在全平台上发布](https://www.3dmgame.com/news/202405/3895477.html)
+
++ [像素风生物收集《磁带妖怪》支持多人模式！呼朋唤友打怪！](https://www.3dmgame.com/news/202405/3895476.html)
+
++ [《地狱之刃2》M站均分81 IGN打出8分GS打出6分](https://www.3dmgame.com/news/202405/3895474.html)
+
++ [微软推出新款AI电脑 CEO纳德拉：Windows与Mac真正的对决](https://www.3dmgame.com/news/202405/3895473.html)
+
++ [摸摸党退掉十几部手机后被京东制裁 结局舒适](https://www.3dmgame.com/news/202405/3895472.html)
+
