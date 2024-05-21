@@ -57,3 +57,7 @@
 
 + [华为 P60、Mate 50、Mate X3 系列等机型开启鸿蒙 HarmonyOS 4.2 正式版升级](https://m.ithome.com/html/769467.htm)
 
++ [《黑神话：悟空》WeGame 游戏属性界面移除“Denuvo 防盗版”标签](https://m.ithome.com/html/769649.htm)
+
++ [开售一个多月立减 300 元：小米 Redmi Turbo 3 手机 1669 元起免息新低](https://m.ithome.com/html/769518.htm)
+
