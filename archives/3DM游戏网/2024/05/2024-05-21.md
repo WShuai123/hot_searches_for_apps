@@ -203,3 +203,9 @@
 
 + [《睡魔》第二季预告短视频发布 无尽家族悉数亮相](https://www.3dmgame.com/news/202405/3895450.html)
 
++ [像素肉鸽游戏《UnderMine 2》全新实机 发售日待定](https://www.3dmgame.com/news/202405/3895456.html)
+
++ [Take-Two不排除R星下一款游戏价格上涨的可能性](https://www.3dmgame.com/news/202405/3895455.html)
+
++ [《第一后裔》最终技术测试周末上线 提前一天开启预载](https://www.3dmgame.com/news/202405/3895454.html)
+

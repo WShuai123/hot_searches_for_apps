@@ -61,3 +61,5 @@
 
 + [超火爆的Fluent Bit 曝重大安全漏洞，影响几乎所有云服务商](https://www.freebuf.com/news/401435.html)
 
++ [如何使用DotNet-MetaData识别.NET恶意软件源码文件元数据](https://www.freebuf.com/sectool/400764.html)
+
