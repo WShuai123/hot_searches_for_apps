@@ -163,3 +163,35 @@
 
 + [微软想要让《使命召唤》称为XGP的核心组成部分](https://www.3dmgame.com/news/202405/3895428.html)
 
++ [中车四方所联合研发 全球首台耐低温自动加氢机器人完成系统调试](https://www.3dmgame.com/news/202405/3895446.html)
+
++ [《心跳回忆》系列迎来30周年纪念 新情报敬请期待](https://www.3dmgame.com/news/202405/3895448.html)
+
++ [《逃离塔科夫》退款方式再引不满：50美元代金券](https://www.3dmgame.com/news/202405/3895449.html)
+
++ [《征服之歌》登陆Steam 类魔法门英雄无敌回合策略](https://www.3dmgame.com/news/202405/3895447.html)
+
++ [大脚车竞速游戏《大脚车对决》发布新预告 8月29日正式推出](https://www.3dmgame.com/news/202405/3895445.html)
+
++ [《对马岛之鬼》摄影截图欣赏：风景绝美 意境感拉满](https://www.3dmgame.com/news/202405/3895441.html)
+
++ [《王国：两位君主》DLC”奥林匹斯的召唤”Steam页面 发售待定](https://www.3dmgame.com/news/202405/3895444.html)
+
++ [中国第一条高速磁悬浮呼之欲出 时速可达600公里以上](https://www.3dmgame.com/news/202405/3895443.html)
+
++ [育碧承诺《不羁联盟》没有任何花钱买赢内容：非常重视](https://www.3dmgame.com/news/202405/3895442.html)
+
++ [《怪物猎人物语》重制版开发者访谈 6月14日发售](https://www.3dmgame.com/news/202405/3895439.html)
+
++ [独立游戏发行商tinyBuild即将举办发布会 Steam开启促销](https://www.3dmgame.com/news/202405/3895437.html)
+
++ [回合制策略游戏《一寸战术》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895436.html)
+
++ [《华纳大乱斗》官方新预告 特工史密斯和杰森·沃赫斯加入游戏](https://www.3dmgame.com/news/202405/3895435.html)
+
++ [《使命召唤：现代战争3》“高达”联动公布：风灵高达等三款皮肤](https://www.3dmgame.com/news/202405/3895434.html)
+
++ [《真女神转生5：复仇》PS版下载大小公布 6月12日开启预载](https://www.3dmgame.com/news/202405/3895440.html)
+
++ [格斗游戏《Diesel Legacy》Ruby角色预告 年内发售](https://www.3dmgame.com/news/202405/3895438.html)
+

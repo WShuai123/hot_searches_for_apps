@@ -55,3 +55,5 @@
 
 + [企业信息安全管理工作的“ATT&CK”——十个痛点和应对之四十招](https://www.freebuf.com/articles/401446.html)
 
++ [Fluent Bit 曝出严重漏洞，影响所有云提供商](https://www.freebuf.com/news/401435.html)
+
