@@ -67,3 +67,7 @@
 
 + [用我三生烟火，换你一世迷离](http://www.acfun.cn/v/ac44604663)
 
++ [《放课后女高中生之雷霆行动》](http://www.acfun.cn/v/ac44604277)
+
++ [游戏王gx.h265](http://www.acfun.cn/v/ac44603482)
+
