@@ -209,3 +209,15 @@
 
 + [《第一后裔》最终技术测试周末上线 提前一天开启预载](https://www.3dmgame.com/news/202405/3895454.html)
 
++ [《绝地潜兵2》开发者表示 需要更多时间开发武器平衡补丁](https://www.3dmgame.com/news/202405/3895460.html)
+
++ [《刃牙》漫画累计发行突破1亿 连载33年格斗名作](https://www.3dmgame.com/news/202405/3895461.html)
+
++ [SE请来第三方开发商 确保《王国之心》Steam Deck兼容性](https://www.3dmgame.com/news/202405/3895462.html)
+
++ [2011年《现代战争3》被删除职员表后彩蛋公开 还有阴谋！](https://www.3dmgame.com/news/202405/3895457.html)
+
++ [电影《神秘友友》国内定档 6月15日上映](https://www.3dmgame.com/news/202405/3895458.html)
+
++ [香草社招聘开发者 准备开发奇幻动作角色扮演新作](https://www.3dmgame.com/news/202405/3895459.html)
+
