@@ -125,3 +125,15 @@
 
 + [女玩家原味洗澡水9万美元销售款被PayPal拦截5年](https://www.3dmgame.com/news/202405/3895502.html)
 
++ [虚幻5恐怖游戏《Still Wakes the Deep》PC配置公布](https://www.3dmgame.com/news/202405/3895509.html)
+
++ [CDPR新作《Hadar》设计师：开发原创新IP很有意义](https://www.3dmgame.com/news/202405/3895507.html)
+
++ [《猎杀：对决》8月迎来次世代更新 不再支持旧主机](https://www.3dmgame.com/news/202405/3895508.html)
+
++ [万代预测《艾尔登法环》DLC销量非常高：预购量惊人](https://www.3dmgame.com/news/202405/3895505.html)
+
++ [《法外枭雄：滚石城》新预告 Steam版和DLC于6月18日发售](https://www.3dmgame.com/news/202405/3895506.html)
+
++ [IGN收购Eurogamer GamesIndustry和VG247等五家媒体](https://www.3dmgame.com/news/202405/3895504.html)
+
