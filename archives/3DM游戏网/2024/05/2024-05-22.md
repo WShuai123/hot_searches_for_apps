@@ -237,3 +237,13 @@
 
 + [《勇者斗恶龙10离线版》DLC“沉睡的勇者与引导的盟友”宣传片 跟随本篇同步推出](https://www.3dmgame.com/news/202405/3895553.html)
 
++ [看什么都要会员无奈！电视开机率下降到不足三成引热议：广电总局公布数据](https://www.3dmgame.com/news/202405/3895560.html)
+
++ [《DUCKSIDE》6月6日Steam公开测试 开放世界PvPvE射击](https://www.3dmgame.com/news/202405/3895561.html)
+
++ [KK官方对战平台“推广员联盟”正式上线，轻松实现零门槛赚钱！](https://www.3dmgame.com/news/202405/3895562.html)
+
++ [《星刃》女性角色人偶实物图赏：身材出众吸睛](https://www.3dmgame.com/news/202405/3895563.html)
+
++ [多人联机恐怖解谜 《人魅》宣布6月3日登陆Steam](https://www.3dmgame.com/news/202405/3895564.html)
+
