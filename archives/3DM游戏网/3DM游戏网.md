@@ -107,3 +107,11 @@
 
 + [《艾尔登法环：黄金树幽影》支持15种字幕 新增阿拉伯语](https://www.3dmgame.com/news/202405/3895585.html)
 
++ [《第一后裔》新预告片深度剖析故事情节](https://www.3dmgame.com/news/202405/3895591.html)
+
++ [卡普空官宣《街头霸王6》销量突破330万套](https://www.3dmgame.com/news/202405/3895588.html)
+
++ [《暗喻幻想：ReFantazio》确认亮相夏日游戏节](https://www.3dmgame.com/news/202405/3895589.html)
+
++ [Arrowhead希望保持独立并获得类似暴雪的地位](https://www.3dmgame.com/news/202405/3895590.html)
+
