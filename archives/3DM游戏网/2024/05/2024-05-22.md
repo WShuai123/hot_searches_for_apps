@@ -209,3 +209,9 @@
 
 + [开放世界生存建造游戏《求生岛：不老泉传说》 现已推出1.0正式版](https://www.3dmgame.com/news/202405/3895540.html)
 
++ [“漫画大赏2022”获奖漫画《达尔文事变》宣布动画化 主视觉图公开](https://www.3dmgame.com/news/202405/3895546.html)
+
++ [《异度之刃编年史X》WiiU最后玩家断线 服务彻底关闭](https://www.3dmgame.com/news/202405/3895547.html)
+
++ [小米平板6S Pro新版发布：限时优惠200元 到手2799元](https://www.3dmgame.com/news/202405/3895548.html)
+

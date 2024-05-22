@@ -45,3 +45,5 @@
 
 + [索尼 Xperia Pro-C 手机配置曝光：搭载第三代骁龙 8，四季度发布](https://m.ithome.com/html/769674.htm)
 
++ [京东员工回应多家出版社抵制 618：只是想卖更便宜的图书](https://m.ithome.com/html/769762.htm)
+

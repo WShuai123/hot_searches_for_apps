@@ -209,3 +209,7 @@
 
 + [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
 
++ [Kimi 智能助手](https://itunes.apple.com/cn/app/id6474233312?mt=8)
+
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+
