@@ -279,3 +279,7 @@
 
 + [美媒体验微软新款AI PC 这些功能让Windows再次令人兴奋](https://www.3dmgame.com/news/202405/3895579.html)
 
++ [PSN调整了PS5游玩时间追踪器 但问题依然存在](https://www.3dmgame.com/news/202405/3895581.html)
+
++ [漫威筹备新《X战警》 《饥饿游戏》编剧或将加盟](https://www.3dmgame.com/news/202405/3895582.html)
+

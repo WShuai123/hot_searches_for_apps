@@ -65,3 +65,5 @@
 
 + [问界 M7 Max 焕新版汽车底盘升级：CDC 连续可变阻尼减振器、华为智能化控制](https://m.ithome.com/html/769790.htm)
 
++ [微软展示 Windows on ARM 应用生态系统：QQ、酷狗音乐、剪映、搜狗输入法等在列](https://m.ithome.com/html/769910.htm)
+
