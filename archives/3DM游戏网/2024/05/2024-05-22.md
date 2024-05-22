@@ -247,3 +247,23 @@
 
 + [多人联机恐怖解谜 《人魅》宣布6月3日登陆Steam](https://www.3dmgame.com/news/202405/3895564.html)
 
++ [《原神》预告4.7版本前瞻特别节目 5月24日播出](https://www.3dmgame.com/news/202405/3895573.html)
+
++ [《奇星协力》Steam抢先体验开启 求生城市建造](https://www.3dmgame.com/news/202405/3895574.html)
+
++ [业内人士：《黑神话》销量要达到500万份 才符合国产3A预期](https://www.3dmgame.com/news/202405/3895572.html)
+
++ [《不予播出》时间循环DLC预告 年内发售](https://www.3dmgame.com/news/202405/3895571.html)
+
++ [《使命召唤：现代战争3》将于下周开启免费试玩周末](https://www.3dmgame.com/news/202405/3895570.html)
+
++ [通用汽车申请防路怒症专利 必要时接管车辆自动驾驶](https://www.3dmgame.com/news/202405/3895569.html)
+
++ [数字化更迭 研究显示过去十年有1/4的网页已彻底消失](https://www.3dmgame.com/news/202405/3895568.html)
+
++ [TikTok计划本周开启大规模裁员！还要解散运营团队](https://www.3dmgame.com/news/202405/3895567.html)
+
++ [《死侍和金刚狼》在美国是今年首日预售票最多的电影](https://www.3dmgame.com/news/202405/3895566.html)
+
++ [大湾区首个大规模全液冷智算中心完工 可提供1.5万P算力](https://www.3dmgame.com/news/202405/3895565.html)
+
