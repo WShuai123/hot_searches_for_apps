@@ -49,3 +49,25 @@
 
 + [3D Illustrations For Somnia](https://dribbble.com/shots/)
 
++ [Paris City Guide Mobile Website](https://dribbble.com/shots/)
+
++ [Glyph Beer 44](https://dribbble.com/shots/)
+
++ [Mid-Century Inspired Cocktail Illustrations](https://dribbble.com/shots/)
+
++ [Big A](https://dribbble.com/shots/)
+
++ [AFJS logo](https://dribbble.com/shots/)
+
++ [El Gran Cinco de Mayo](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Believe...](https://dribbble.com/shots/)
+
++ [McQueen Racing Merch](https://dribbble.com/shots/)
+
++ [SCB 2025](https://dribbble.com/shots/)
+
++ [Bison Puzzle](https://dribbble.com/shots/)
+
