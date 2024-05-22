@@ -115,3 +115,5 @@
 
 + [Arrowhead希望保持独立并获得类似暴雪的地位](https://www.3dmgame.com/news/202405/3895590.html)
 
++ [《街头霸王6》开启限时活动挑战巨型豪鬼](https://www.3dmgame.com/news/202405/3895592.html)
+
