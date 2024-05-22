@@ -117,3 +117,11 @@
 
 + [《街头霸王6》开启限时活动挑战巨型豪鬼](https://www.3dmgame.com/news/202405/3895592.html)
 
++ [秀色可餐《星刃》推出联动限定版主题汉堡](https://www.3dmgame.com/news/202405/3895596.html)
+
++ [《龙珠：超宇宙2》“未来传奇“DLC第一章上线 全新凶暴敌人登场](https://www.3dmgame.com/news/202405/3895593.html)
+
++ [《巫师》第四季预告曝光 新杰洛特能否满足粉丝？](https://www.3dmgame.com/news/202405/3895595.html)
+
++ [《绘图方块Namco传奇版》即将登陆Switch平台](https://www.3dmgame.com/news/202405/3895594.html)
+
