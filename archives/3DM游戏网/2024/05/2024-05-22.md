@@ -137,3 +137,31 @@
 
 + [IGN收购Eurogamer GamesIndustry和VG247等五家媒体](https://www.3dmgame.com/news/202405/3895504.html)
 
++ [策略游戏《Drill Core》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202405/3895517.html)
+
++ [《古墓丽影三部曲重制版合集》全平台实体版正式公布](https://www.3dmgame.com/news/202405/3895518.html)
+
++ [育碧多人射击游戏《不羁联盟》部分玩家遭遇无法加入游戏问题](https://www.3dmgame.com/news/202405/3895519.html)
+
++ [《Echoes Of Despair》登陆Steam 恐怖冒险新游](https://www.3dmgame.com/news/202405/3895520.html)
+
++ [《燕云十六声》绝美舞蹈幕后揭秘 舞蹈大师助力呈现](https://www.3dmgame.com/news/202405/3895521.html)
+
++ [档期冲突 《哥斯拉大战金刚》导演亚当·温加德将不再执导续集](https://www.3dmgame.com/news/202405/3895522.html)
+
++ [探索解谜游戏《纸间谜迹》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3895523.html)
+
++ [索尼PlayStation伦敦工作室正式关闭并发布告别宣言](https://www.3dmgame.com/news/202405/3895510.html)
+
++ [《Margin of the Strange》众筹开启 神秘世界冒险](https://www.3dmgame.com/news/202405/3895511.html)
+
++ [V社6v6射击游戏《Deadlock》更多细节泄露：更类似Dota](https://www.3dmgame.com/news/202405/3895512.html)
+
++ [硬件杀手？Xbox Series X|S无法稳定30帧运行《地狱之刃2》](https://www.3dmgame.com/news/202405/3895513.html)
+
++ [Xbox展示《地狱之刃2》定制Xbox Series X主机 只送不卖](https://www.3dmgame.com/news/202405/3895514.html)
+
++ [《刺客信条：影》新视频宣传日本文化 网友们疯狂嘲讽](https://www.3dmgame.com/news/202405/3895515.html)
+
++ [像素游戏《策划模拟器》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895516.html)
+

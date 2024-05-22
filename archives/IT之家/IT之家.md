@@ -39,3 +39,5 @@
 
 + [售 12.99 万元起，奇瑞风云 T9 中型插混 SUV 上市](https://m.ithome.com/html/769695.htm)
 
++ [消息称下一代 DDR6 内存速率可达 17.6Gbps、LPDDR6 内存速率可达 14.4Gbps](https://m.ithome.com/html/769704.htm)
+
