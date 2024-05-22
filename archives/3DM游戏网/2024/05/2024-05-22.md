@@ -215,3 +215,5 @@
 
 + [小米平板6S Pro新版发布：限时优惠200元 到手2799元](https://www.3dmgame.com/news/202405/3895548.html)
 
++ [《Sand》预定今夏B测 构建行走机甲基地PvPvE战斗](https://www.3dmgame.com/news/202405/3895549.html)
+
