@@ -27,3 +27,5 @@
 
 + [拼多多盘前涨超 7%，总市值超越阿里巴巴](https://m.ithome.com/html/769957.htm)
 
++ [B站取消用视频播放时长代替播放次数：犯了一个错误，过于理想化](https://m.ithome.com/html/769977.htm)
+
