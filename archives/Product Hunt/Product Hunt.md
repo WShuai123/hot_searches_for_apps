@@ -101,3 +101,17 @@
 
 + [Features.Vote](https://www.producthunt.com/posts/features-vote)
 
++ [Visible AI Inbox](https://www.producthunt.com/posts/visible-ai-inbox)
+
++ [Findr 2.0](https://www.producthunt.com/posts/findr-2-0)
+
++ [Nowadays](https://www.producthunt.com/posts/nowadays)
+
++ [Statsig Session Replay](https://www.producthunt.com/posts/statsig-session-replay)
+
++ [Tactiq Spaces](https://www.producthunt.com/posts/tactiq-spaces)
+
++ [Unify](https://www.producthunt.com/posts/unify-6)
+
++ [CANVID for Windows](https://www.producthunt.com/posts/canvid-for-windows)
+

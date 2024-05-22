@@ -217,3 +217,9 @@
 
 + [《Sand》预定今夏B测 构建行走机甲基地PvPvE战斗](https://www.3dmgame.com/news/202405/3895549.html)
 
++ [Fami通最新评分：《纸片马里奥：千年之门》荣登白金殿堂](https://www.3dmgame.com/news/202405/3895552.html)
+
++ [《英雄传说：界之轨迹》日版9月26日发售 登陆PS5和PS4](https://www.3dmgame.com/news/202405/3895550.html)
+
++ [卡通风格生存游戏《我是未来》发布“太阳能”更新宣传片](https://www.3dmgame.com/news/202405/3895551.html)
+
