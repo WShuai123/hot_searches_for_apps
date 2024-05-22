@@ -51,3 +51,41 @@
 
 + [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
++ [it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books)
+
++ [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
++ [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
++ [amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce)
+
++ [WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent)
+
++ [mlc-ai / web-llm](https://github.com/mlc-ai/web-llm)
+
++ [THUDM / CogVLM2](https://github.com/THUDM/CogVLM2)
+
++ [hudy9x / namviek](https://github.com/hudy9x/namviek)
+
++ [gothinkster / realworld](https://github.com/gothinkster/realworld)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [activepieces / activepieces](https://github.com/activepieces/activepieces)
+
++ [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
+
++ [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [OpenAccess-AI-Collective / axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
+
++ [weaviate / Verba](https://github.com/weaviate/Verba)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+

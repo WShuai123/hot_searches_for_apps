@@ -57,3 +57,7 @@
 
 + [小米“致敬复刻”苹果 iPad Pro 液压机《Crush》争议广告，暗示将在印度推出 Civi 系列手机](https://m.ithome.com/html/769812.htm)
 
++ [华为“第四界”即将亮相：工厂设备安装接近尾声、“傲界”商标已归属华为](https://m.ithome.com/html/769915.htm)
+
++ [王化回应小米上海退地：市政规划用地发生改变，政府有需求收储](https://m.ithome.com/html/769885.htm)
+

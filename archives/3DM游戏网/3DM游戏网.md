@@ -267,3 +267,11 @@
 
 + [大湾区首个大规模全液冷智算中心完工 可提供1.5万P算力](https://www.3dmgame.com/news/202405/3895565.html)
 
++ [华硕ROG XG27AQDMG开售 2K 240Hz OLED](https://www.3dmgame.com/news/202405/3895577.html)
+
++ [《上古卷轴OL》开发者：过去十年提供内容超10个单机游戏](https://www.3dmgame.com/news/202405/3895578.html)
+
++ [平台整治炫富拜金 全身没8位数不出门网红王红权星被封](https://www.3dmgame.com/news/202405/3895576.html)
+
++ [iPhone16Pro Max首发新窄边框技术 屏占比创苹果新高](https://www.3dmgame.com/news/202405/3895575.html)
+
