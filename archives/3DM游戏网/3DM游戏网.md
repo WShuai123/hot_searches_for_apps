@@ -165,3 +165,25 @@
 
 + [像素游戏《策划模拟器》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895516.html)
 
++ [圆谷宣布将推出多款休闲类奥特曼游戏 2025年发布](https://www.3dmgame.com/news/202405/3895533.html)
+
++ [《绝地潜兵2》工作室正在考虑降低更新频率以放慢游戏节奏](https://www.3dmgame.com/news/202405/3895534.html)
+
++ [爱尔兰设立新独立游戏基金 开发者可获高达1.5万英镑资助](https://www.3dmgame.com/news/202405/3895531.html)
+
++ [《怪医黑杰克》新日剧女主角公开 皮诺可正式亮相](https://www.3dmgame.com/news/202405/3895529.html)
+
++ [机甲迷宫探索游戏《机械工程师》现已推出1.0正式版](https://www.3dmgame.com/news/202405/3895528.html)
+
++ [《黑神话：悟空》80个Boss辟谣：是国内玩家推测的](https://www.3dmgame.com/news/202405/3895527.html)
+
++ [《地狱之刃2》Steam在线峰值不到4000 跻身全球销量榜第四名](https://www.3dmgame.com/news/202405/3895525.html)
+
++ [寒冬生存游戏《永冻纪元》Steam页面 发售日待定](https://www.3dmgame.com/news/202405/3895526.html)
+
++ [调查显示：近一半玩家将游戏作为自我表达的一种形式](https://www.3dmgame.com/news/202405/3895524.html)
+
++ [冒险游戏《义侠罗宾汉》Steam页面 支持简中](https://www.3dmgame.com/news/202405/3895532.html)
+
++ [《王国之心》系列Steam页面上线 仅三代支持中文](https://www.3dmgame.com/news/202405/3895530.html)
+

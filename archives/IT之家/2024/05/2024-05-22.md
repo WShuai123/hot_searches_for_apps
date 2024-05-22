@@ -41,3 +41,5 @@
 
 + [消息称下一代 DDR6 内存速率可达 17.6Gbps、LPDDR6 内存速率可达 14.4Gbps](https://m.ithome.com/html/769704.htm)
 
++ [因车身贴纸像意大利国旗，意大利扣押菲亚特 Topolino 电动汽车](https://m.ithome.com/html/769666.htm)
+
