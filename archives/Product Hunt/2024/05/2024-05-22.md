@@ -125,3 +125,5 @@
 
 + [must.fm for Spotify Stats](https://www.producthunt.com/posts/must-fm-for-spotify-stats)
 
++ [Granola](https://www.producthunt.com/posts/granola)
+
