@@ -187,3 +187,25 @@
 
 + [《王国之心》系列Steam页面上线 仅三代支持中文](https://www.3dmgame.com/news/202405/3895530.html)
 
++ [《街头霸王》真人电影首张海报曝光 传奇影业卡普空合作打造](https://www.3dmgame.com/news/202405/3895541.html)
+
++ [谷歌：为人工智能“搜索总结内容”加入广告](https://www.3dmgame.com/news/202405/3895542.html)
+
++ [《RAWMEN：餐桌大乱斗》Steam上线 多人竞技射击](https://www.3dmgame.com/news/202405/3895543.html)
+
++ [小心！《地狱之刃2》开始新游戏会无警告删除已有存档](https://www.3dmgame.com/news/202405/3895544.html)
+
++ [V社未公开6v6新作 《Deadlock》全角色列表泄露](https://www.3dmgame.com/news/202405/3895545.html)
+
++ [招聘信息显示索尼正在开发PlayStation移动游戏平台](https://www.3dmgame.com/news/202405/3895536.html)
+
++ [沙盒游戏《kingmakers》全新宣传片 年内发售](https://www.3dmgame.com/news/202405/3895535.html)
+
++ [预约抽30克金条和RTX4090显卡 《英勇之地》这次下大手笔了](https://www.3dmgame.com/news/202405/3895537.html)
+
++ [《猎杀：对决》夏季更新是“重启”：将游戏提升至全新水平](https://www.3dmgame.com/news/202405/3895538.html)
+
++ [微软CEO评GPT-4o 不要将AI拟人化它只是工具](https://www.3dmgame.com/news/202405/3895539.html)
+
++ [开放世界生存建造游戏《求生岛：不老泉传说》 现已推出1.0正式版](https://www.3dmgame.com/news/202405/3895540.html)
+

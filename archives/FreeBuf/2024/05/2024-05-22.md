@@ -47,3 +47,9 @@
 
 + [密评 | IPSec流量包分析以及对各个消息的手工解析](https://www.freebuf.com/articles/database/401329.html)
 
++ [可绕过身份验证，GitHub企业服务器曝满分漏洞，附PoC](https://www.freebuf.com/news/401583.html)
+
++ [美国国土安全局四年采集超 150 万移民 DNA 数据](https://www.freebuf.com/news/401557.html)
+
++ [25位专家联合警告：人工智能安全研究“严重缺乏”](https://www.freebuf.com/news/401573.html)
+

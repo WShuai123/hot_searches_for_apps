@@ -43,3 +43,5 @@
 
 + [因车身贴纸像意大利国旗，意大利扣押菲亚特 Topolino 电动汽车](https://m.ithome.com/html/769666.htm)
 
++ [索尼 Xperia Pro-C 手机配置曝光：搭载第三代骁龙 8，四季度发布](https://m.ithome.com/html/769674.htm)
+
