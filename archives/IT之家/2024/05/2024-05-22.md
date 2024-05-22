@@ -63,3 +63,5 @@
 
 + [【IT之家评测室】影像灭霸正式登场！vivo X100 Ultra 深度体验](https://m.ithome.com/html/769768.htm)
 
++ [问界 M7 Max 焕新版汽车底盘升级：CDC 连续可变阻尼减振器、华为智能化控制](https://m.ithome.com/html/769790.htm)
+

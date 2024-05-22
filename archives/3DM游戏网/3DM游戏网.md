@@ -275,3 +275,7 @@
 
 + [iPhone16Pro Max首发新窄边框技术 屏占比创苹果新高](https://www.3dmgame.com/news/202405/3895575.html)
 
++ [戴尔和英伟达CEO暗示：英伟达AI PC芯片明年到来](https://www.3dmgame.com/news/202405/3895580.html)
+
++ [美媒体验微软新款AI PC 这些功能让Windows再次令人兴奋](https://www.3dmgame.com/news/202405/3895579.html)
+
