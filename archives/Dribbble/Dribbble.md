@@ -83,3 +83,9 @@
 
 + [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Mexico City Vibes](https://dribbble.com/shots/)
+
++ [Wishing that all your days are good hair days!](https://dribbble.com/shots/)
+

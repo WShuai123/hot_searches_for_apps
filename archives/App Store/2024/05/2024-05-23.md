@@ -205,3 +205,5 @@
 
 + [去哪儿旅行-预订特价酒店机票平台火车票](https://itunes.apple.com/cn/app/id395096736?mt=8)
 
++ [心悦俱乐部-和平精英王者荣耀礼包领取平台](https://itunes.apple.com/cn/app/id1156439976?mt=8)
+
