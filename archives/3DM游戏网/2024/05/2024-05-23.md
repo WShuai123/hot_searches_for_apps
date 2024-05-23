@@ -125,3 +125,9 @@
 
 + [《绘图方块Namco传奇版》即将登陆Switch平台](https://www.3dmgame.com/news/202405/3895594.html)
 
++ [《浪人崛起》本周将迎来更新 添加盟友任务和新功能](https://www.3dmgame.com/news/202405/3895599.html)
+
++ [《暗黑4》新赛季Steam在线峰值超2.9万 创造新纪录](https://www.3dmgame.com/news/202405/3895598.html)
+
++ [《地狱潜者2》开发商想保持独立 并成为下一个暴雪或FS社](https://www.3dmgame.com/news/202405/3895597.html)
+

@@ -41,3 +41,5 @@
 
 + [身份扫描应用程序如何防止欺诈行为？](https://www.freebuf.com/news/401357.html)
 
++ [如何用一个气球“杀死”智能驾驶？](https://www.freebuf.com/articles/neopoints/400554.html)
+
