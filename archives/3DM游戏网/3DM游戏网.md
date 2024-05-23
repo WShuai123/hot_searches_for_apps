@@ -171,3 +171,37 @@
 
 + [《EMPTY SHELL: THE LOOP》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3895612.html)
 
++ [《EYE TO ME》Steam页面上线 单眼少女陪同冒险](https://www.3dmgame.com/news/202405/3895636.html)
+
++ [心理恐怖剧情游戏《缄默祸运》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3895633.html)
+
++ [仅推出4个月 《守望先锋2》将砍掉仅存PvE模式之一](https://www.3dmgame.com/news/202405/3895635.html)
+
++ [索尼确认多个游戏IP将进行真人改编：《地平线》、《战神》等](https://www.3dmgame.com/news/202405/3895634.html)
+
++ [腾讯“碳寻计划” 三年内提供2亿元碳捕集利用和封存](https://www.3dmgame.com/news/202405/3895632.html)
+
++ [DDR6内存标准将初步敲定 最高速率提升至21Gbps](https://www.3dmgame.com/news/202405/3895631.html)
+
++ [《猫神公司》6月19日EA发售 支持简中](https://www.3dmgame.com/news/202405/3895630.html)
+
++ [《伊苏回忆录：菲尔迦纳的誓约》中文版登陆PS 定价407港币](https://www.3dmgame.com/news/202405/3895629.html)
+
++ [Faker成为首个进入《英雄联盟》“传奇殿堂”的选手](https://www.3dmgame.com/news/202405/3895628.html)
+
++ [经典漫画《外道之歌》确定制作日剧 今冬发布](https://www.3dmgame.com/news/202405/3895626.html)
+
++ [殖民模拟和塔防元素游戏《卡戎方舟》 7月9日EA发售](https://www.3dmgame.com/news/202405/3895624.html)
+
++ [育碧称《刺客信条：影》弥助很浪漫 网友：LGBTQ+武士？](https://www.3dmgame.com/news/202405/3895623.html)
+
++ [爆衣地牢探索游戏 《地下城追踪者》开启惊喜测试](https://www.3dmgame.com/news/202405/3895622.html)
+
++ [世嘉《审判》系列演员中尾彬去世 享年81岁](https://www.3dmgame.com/news/202405/3895621.html)
+
++ [非对称合作对抗游戏《庇护所》现已登陆Steam平台 2025年第二季度推出](https://www.3dmgame.com/news/202405/3895620.html)
+
++ [《华纳大乱斗》开发商表示 测试版玩家将免费获得第一赛季高级通行证](https://www.3dmgame.com/news/202405/3895627.html)
+
++ [直播平台Twitch 4月数据：没有新游戏加持观看量下滑](https://www.3dmgame.com/news/202405/3895625.html)
+

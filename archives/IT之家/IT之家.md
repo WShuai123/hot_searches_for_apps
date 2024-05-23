@@ -33,3 +33,5 @@
 
 + [到店免费加装：联想 2T 原厂固态硬盘 899 元发车（5500MB/s）](https://m.ithome.com/html/769969.htm)
 
++ [Win11 24H2 蓄势待发，微软发布 RP 26100.712 预览版：支持 Wi-Fi 7，原生创建 7-zip 压缩文件等](https://m.ithome.com/html/769982.htm)
+
