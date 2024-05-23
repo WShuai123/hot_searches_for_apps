@@ -25,3 +25,5 @@
 
 + [预售价 21.99 万元起，蔚来旗下乐道 L60 黑色款实车曝光](https://m.ithome.com/html/769998.htm)
 
++ [比亚迪周？全新王朝 MPV 车型谍照曝光，长度超 5 米、轴距超 3 米](https://m.ithome.com/html/770153.htm)
+
