@@ -101,3 +101,5 @@
 
 + [DDR6内存标准将初步敲定 最高速率提升至21Gbps](https://www.3dmgame.com/news/202405/3895631.html)
 
++ [《狗钩：宇宙狗狗》8月15日发售 登陆XSX/PC/NS](https://www.3dmgame.com/news/202405/3895678.html)
+
