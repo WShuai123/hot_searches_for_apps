@@ -35,3 +35,9 @@
 
 + [Win11 24H2 蓄势待发，微软发布 RP 26100.712 预览版：支持 Wi-Fi 7，原生创建 7-zip 压缩文件等](https://m.ithome.com/html/769982.htm)
 
++ [恒大汽车深夜公告：被要求退回奖励补贴约 19 亿元](https://m.ithome.com/html/770016.htm)
+
++ [苹果在 iPad 广告上失策的另一个原因](https://m.ithome.com/html/769959.htm)
+
++ [消息称 TikTok 计划本周大幅裁员，解散全球用户运营团队](https://m.ithome.com/html/769905.htm)
+

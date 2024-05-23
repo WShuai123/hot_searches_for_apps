@@ -205,3 +205,9 @@
 
 + [直播平台Twitch 4月数据：没有新游戏加持观看量下滑](https://www.3dmgame.com/news/202405/3895625.html)
 
++ [《猎人克莱文》制片人解释推迟上映缘由 利用好圣诞节假期](https://www.3dmgame.com/news/202405/3895638.html)
+
++ [360软件弹窗广告被指关不完 客服：未提供一键关闭选项](https://www.3dmgame.com/news/202405/3895639.html)
+
++ [《堡垒之夜x辐射》联动正式公布 T60动力装甲加入大逃杀](https://www.3dmgame.com/news/202405/3895637.html)
+
