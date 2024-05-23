@@ -101,3 +101,9 @@
 
 + [前端开发工程师——数据可视化](https://blog.csdn.net/m0_74421072/article/details/139087003)
 
++ [【Linux网络编程】IO多种转接之Reactor](https://blog.csdn.net/fight_p/article/details/138470244)
+
++ [物体检测算法-R-CNN，SSD，YOLO](https://blog.csdn.net/qq_41286360/article/details/139106479)
+
++ [2024年中国电机工程学会杯数学建模思路 - 案例：异常检测](https://blog.csdn.net/math_assistant/article/details/139128298)
+

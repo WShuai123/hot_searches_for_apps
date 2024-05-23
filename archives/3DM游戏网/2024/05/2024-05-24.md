@@ -103,3 +103,15 @@
 
 + [《狗钩：宇宙狗狗》8月15日发售 登陆XSX/PC/NS](https://www.3dmgame.com/news/202405/3895678.html)
 
++ [独立游戏发行商Devolver确定6月7日举行直面会](https://www.3dmgame.com/news/202405/3895684.html)
+
++ [PS5《星刃》更新Boss挑战模式追加新服装](https://www.3dmgame.com/news/202405/3895683.html)
+
++ [《战锤40K：星际战士2》两段新预告片](https://www.3dmgame.com/news/202405/3895682.html)
+
++ [《华纳大乱斗》面具杰森魔实机预告片分享](https://www.3dmgame.com/news/202405/3895681.html)
+
++ [《战锤40K：机械神教2》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202405/3895680.html)
+
++ [Embracer表示《死亡岛2》销量已超过300万套](https://www.3dmgame.com/news/202405/3895679.html)
+
