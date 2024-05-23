@@ -43,3 +43,5 @@
 
 + [AITO 问界新 M7 Max 焕新版实车照曝光：华为联合设计，5 月 31 日上市](https://m.ithome.com/html/770060.htm)
 
++ [小米汽车迎来智驾大牛，消息称前图森未来中国 CTO 王乃岩加盟](https://m.ithome.com/html/770009.htm)
+

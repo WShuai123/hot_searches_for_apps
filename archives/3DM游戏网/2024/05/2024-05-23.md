@@ -215,3 +215,27 @@
 
 + [高玩全程不按A键通关《超级马里奥64》耗时约87小时](https://www.3dmgame.com/news/202405/3895640.html)
 
++ [《艾尔登法环》DLC“黄金树幽影”宣传图 破败阴森城市](https://www.3dmgame.com/news/202405/3895652.html)
+
++ [《潜水员戴夫》“哥斯拉”联动DLC上线 限时免费领取](https://www.3dmgame.com/news/202405/3895651.html)
+
++ [百合视觉小说《永日的凝视》Steam页面上线 12月发售](https://www.3dmgame.com/news/202405/3895653.html)
+
++ [《英雄传说：界之轨迹》发布官方预告 限定版内容公布](https://www.3dmgame.com/news/202405/3895650.html)
+
++ [《星球大战：侍者》放出全新预览视频 薛和梅的师徒之战](https://www.3dmgame.com/news/202405/3895649.html)
+
++ [《幻兽帕鲁》老板回忆：一开始办公室曾部分出租做仓库](https://www.3dmgame.com/news/202405/3895648.html)
+
++ [《丧尸比萨》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3895647.html)
+
++ [《Lost in Tropics》登陆Steam 热带岛屿生存冒险](https://www.3dmgame.com/news/202405/3895646.html)
+
++ [《恶意不息》抢先体验第二个补丁上线 新增洗点系统](https://www.3dmgame.com/news/202405/3895644.html)
+
++ [KK官方对战平台新图火爆上线，魔幻世界刷宝，守护你的《神域之光》！](https://www.3dmgame.com/news/202405/3895642.html)
+
++ [《绝地潜兵2》总监：游戏火了以后收到很多威胁很可怕](https://www.3dmgame.com/news/202405/3895645.html)
+
++ [生存沙盒游戏《Honeycomb: The World Beyond》故事预告 年内发售](https://www.3dmgame.com/news/202405/3895643.html)
+
