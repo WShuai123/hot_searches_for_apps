@@ -101,3 +101,11 @@
 
 + [CANVID for Windows](https://www.producthunt.com/posts/canvid-for-windows)
 
++ [Arrange](https://www.producthunt.com/posts/arrange-3)
+
++ [Muse for Setapp - canvas for ideas](https://www.producthunt.com/posts/muse-for-setapp-canvas-for-ideas)
+
++ [Opinion Stage AI](https://www.producthunt.com/posts/opinion-stage-ai)
+
++ [DataGems](https://www.producthunt.com/posts/datagems)
+

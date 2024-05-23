@@ -211,3 +211,7 @@
 
 + [《堡垒之夜x辐射》联动正式公布 T60动力装甲加入大逃杀](https://www.3dmgame.com/news/202405/3895637.html)
 
++ [国产4人联机肉鸽游戏《无尽爱丽丝》现已在Steam平台提供试玩Demo](https://www.3dmgame.com/news/202405/3895641.html)
+
++ [高玩全程不按A键通关《超级马里奥64》耗时约87小时](https://www.3dmgame.com/news/202405/3895640.html)
+
