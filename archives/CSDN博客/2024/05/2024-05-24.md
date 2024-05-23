@@ -107,3 +107,27 @@
 
 + [2024年中国电机工程学会杯数学建模思路 - 案例：异常检测](https://blog.csdn.net/math_assistant/article/details/139128298)
 
++ [LangChain带你轻松玩转ChatGPT等大模型开发](https://blog.csdn.net/herosunly/article/details/139152490)
+
++ [matlab如何实现LDLT分解（改进的平方根法）](https://blog.csdn.net/apple_74057836/article/details/139159338)
+
++ [【XSS & CSRF 】泄露cookie——以DVWA-High为例](https://blog.csdn.net/Mr_Fmnwon/article/details/139129120)
+
++ [【好书分享第十一期】深入Rust标准库（文末送书）](https://blog.csdn.net/a1657054242/article/details/139118017)
+
++ [高通 Android 12/13冻结屏幕](https://blog.csdn.net/qq_15950325/article/details/139152836)
+
++ [【DevOps】深入理解 Nginx Location 块：配置示例与应用场景详解](https://blog.csdn.net/benshu_001/article/details/139104657)
+
++ [Linux——进程信号(一)](https://blog.csdn.net/m0_74515566/article/details/139123089)
+
++ [web学习](https://blog.csdn.net/s2933921910/article/details/139135599)
+
++ [[Algorithm][动态规划][路径问题][不同路径][不同路径Ⅱ][珠宝的最高价值]详细讲解](https://blog.csdn.net/qq_37281656/article/details/139159935)
+
++ [网络协议——FTP（简介、搭建FTP服务端）](https://blog.csdn.net/weixin_45100742/article/details/139106927)
+
++ [FPGA实现多路并行dds](https://blog.csdn.net/weixin_42553916/article/details/139130598)
+
++ [【Unitydemo制作】音游制作—JSON数据存储](https://blog.csdn.net/m0_64128218/article/details/139150430)
+

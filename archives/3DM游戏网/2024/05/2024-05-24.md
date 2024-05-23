@@ -115,3 +115,9 @@
 
 + [Embracer表示《死亡岛2》销量已超过300万套](https://www.3dmgame.com/news/202405/3895679.html)
 
++ [任天堂Switch在日本超越NDS成为最畅销游戏主机](https://www.3dmgame.com/news/202405/3895685.html)
+
++ [FC经典《北海道连锁杀人案》重制版9月发售](https://www.3dmgame.com/news/202405/3895687.html)
+
++ [《火影博人传：新忍出击》第40弹DLC继续追加新角色](https://www.3dmgame.com/news/202405/3895686.html)
+
