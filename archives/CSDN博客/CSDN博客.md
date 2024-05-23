@@ -211,3 +211,5 @@
 
 + [2024年中国电机工程学会杯数学建模思路 - 案例：异常检测](https://blog.csdn.net/math_assistant/article/details/139128298)
 
++ [Windows电脑搭建自己的Plex流媒体服务并远程播放本地视频](https://blog.csdn.net/2301_77485708/article/details/139154485)
+
