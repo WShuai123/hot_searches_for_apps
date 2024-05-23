@@ -59,3 +59,5 @@
 
 + [市值再超阿里巴巴，拼多多董事长陈磊称“欢迎同行良性竞争”](https://m.ithome.com/html/770081.htm)
 
++ [开服三天道歉三天：DNF 手游再出组队 Bug，将停服修复](https://m.ithome.com/html/770190.htm)
+

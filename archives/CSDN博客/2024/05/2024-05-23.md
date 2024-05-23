@@ -201,3 +201,13 @@
 
 + [开源大模型与闭源大模型](https://blog.csdn.net/ak2111/article/details/139123479)
 
++ [得物小程序逆向+qt可视化（不含sku）](https://blog.csdn.net/weixin_54573778/article/details/139105500)
+
++ [前端开发工程师——数据可视化](https://blog.csdn.net/m0_74421072/article/details/139087003)
+
++ [单元测试:保证重构不出错的有效手段](https://blog.csdn.net/haokan123456789/article/details/139104930)
+
++ [计算机网络-运输层](https://blog.csdn.net/m0_73280507/article/details/139127393)
+
++ [2024年中国电机工程学会杯数学建模思路 - 案例：异常检测](https://blog.csdn.net/math_assistant/article/details/139128298)
+
