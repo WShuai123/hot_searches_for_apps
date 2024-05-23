@@ -131,3 +131,19 @@
 
 + [《地狱潜者2》开发商想保持独立 并成为下一个暴雪或FS社](https://www.3dmgame.com/news/202405/3895597.html)
 
++ [第三人称射击游戏《巴尔德的命运》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895603.html)
+
++ [《Dice “n Goblins》Steam页面上线 手绘风迷宫探索](https://www.3dmgame.com/news/202405/3895604.html)
+
++ [科幻恐怖电影《异形：夺命舰》新剧照曝光 8月16日上映](https://www.3dmgame.com/news/202405/3895605.html)
+
++ [坤哥爆料：PS年中大促“Days of Play”5月29日开启](https://www.3dmgame.com/news/202405/3895606.html)
+
++ [知名玩具动画改编《爱心小熊：救援行动》Steam页面 年内发售](https://www.3dmgame.com/news/202405/3895607.html)
+
++ [传重生开发《泰坦陨落》精神续作 正为其招募人才](https://www.3dmgame.com/news/202405/3895600.html)
+
++ [《地狱潜者2》老大讨厌极端玩家的威胁和粗鲁行为](https://www.3dmgame.com/news/202405/3895601.html)
+
++ [《刺客信条：影》的双主角似乎都是LGBTQ+](https://www.3dmgame.com/news/202405/3895602.html)
+

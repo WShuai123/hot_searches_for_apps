@@ -43,3 +43,7 @@
 
 + [如何用一个气球“杀死”智能驾驶？](https://www.freebuf.com/articles/neopoints/400554.html)
 
++ [“内卷旋涡”之下，网安企业出海会成为新出路吗？](https://www.freebuf.com/articles/401648.html)
+
++ [AI安全前沿：模型攻击与防御策略](https://www.freebuf.com/articles/network/401339.html)
+
