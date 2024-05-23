@@ -259,3 +259,11 @@
 
 + [温子仁掌勺经典恐怖喜剧电影《芒斯特一家》黑暗重启](https://www.3dmgame.com/news/202405/3895658.html)
 
++ [网友在南京小米门店苦等5个小时 只为见雷军一面！](https://www.3dmgame.com/news/202405/3895667.html)
+
++ [李彦宏称自己是AI长期信仰者：十多年前就开始投入研发](https://www.3dmgame.com/news/202405/3895666.html)
+
++ [Meta人工智能主管杨立昆 大语言模型不会达到人类智能水平](https://www.3dmgame.com/news/202405/3895664.html)
+
++ [《Unclogged》Steam页面上线 马桶主题恐怖逃脱解谜](https://www.3dmgame.com/news/202405/3895665.html)
+

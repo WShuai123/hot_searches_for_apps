@@ -51,3 +51,31 @@
 
 + [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 
++ [JetBrains / kotlin](https://github.com/JetBrains/kotlin)
+
++ [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
+
++ [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
++ [wy876 / POC](https://github.com/wy876/POC)
+
++ [psf / requests](https://github.com/psf/requests)
+
++ [microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+
++ [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
++ [folke / ts-comments.nvim](https://github.com/folke/ts-comments.nvim)
+
++ [triton-lang / triton](https://github.com/triton-lang/triton)
+
++ [rashadphz / farfalle](https://github.com/rashadphz/farfalle)
+
++ [solidjs / solid-start](https://github.com/solidjs/solid-start)
+
++ [usebruno / bruno](https://github.com/usebruno/bruno)
+
