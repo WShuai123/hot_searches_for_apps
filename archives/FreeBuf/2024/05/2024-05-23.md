@@ -47,3 +47,5 @@
 
 + [AI安全前沿：模型攻击与防御策略](https://www.freebuf.com/articles/network/401339.html)
 
++ [如何用一个红色气球“杀死”智能驾驶？](https://www.freebuf.com/articles/neopoints/400554.html)
+

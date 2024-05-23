@@ -147,3 +147,27 @@
 
 + [《刺客信条：影》的双主角似乎都是LGBTQ+](https://www.3dmgame.com/news/202405/3895602.html)
 
++ [《GTA6》售价或将破70美元 T2老板称涨价是正确决定](https://www.3dmgame.com/news/202405/3895618.html)
+
++ [《英雄连》开发商Relic与投资公司合作 正式转为独立](https://www.3dmgame.com/news/202405/3895619.html)
+
++ [《Rubedo: The Occult Dawn》Steam上线 开放世界回合制RPG](https://www.3dmgame.com/news/202405/3895617.html)
+
++ [调查显示：策略类游戏销量稳定 但玩家兴趣下滑](https://www.3dmgame.com/news/202405/3895616.html)
+
++ [类银河恶魔城开放世界游戏《向邪恶进军》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895615.html)
+
++ [《制服女友まよいごエンゲージ》新情报 黑丝妹可爱](https://www.3dmgame.com/news/202405/3895610.html)
+
++ [《锚点：封锁区》登陆Steam 克苏鲁2D生存射击](https://www.3dmgame.com/news/202405/3895609.html)
+
++ [首张2024年《使命召唤：黑色行动》新作模面图泄露](https://www.3dmgame.com/news/202405/3895608.html)
+
++ [《夜莺传说》新版本更新添加离线模式 未来将支持Steam Deck](https://www.3dmgame.com/news/202405/3895614.html)
+
++ [《DOTA2》7.36大更新来了 隆重推出先天技能和英雄命石](https://www.3dmgame.com/news/202405/3895613.html)
+
++ [保罗·贝坦尼将回归出演漫威的《旺达与幻视》衍生剧](https://www.3dmgame.com/news/202405/3895611.html)
+
++ [《EMPTY SHELL: THE LOOP》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3895612.html)
+
