@@ -267,3 +267,9 @@
 
 + [《Unclogged》Steam页面上线 马桶主题恐怖逃脱解谜](https://www.3dmgame.com/news/202405/3895665.html)
 
++ [顽皮狗尼尔：下一款作品将重新定义主流游戏观](https://www.3dmgame.com/news/202405/3895670.html)
+
++ [传下一代Xbox主机将支持Steam 甚至能玩索尼PC游戏](https://www.3dmgame.com/news/202405/3895669.html)
+
++ [《死侍与金刚狼》北美预售年度最高 或打破R级片预售纪录](https://www.3dmgame.com/news/202405/3895668.html)
+
