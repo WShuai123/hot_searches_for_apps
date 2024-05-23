@@ -239,3 +239,7 @@
 
 + [生存沙盒游戏《Honeycomb: The World Beyond》故事预告 年内发售](https://www.3dmgame.com/news/202405/3895643.html)
 
++ [魏建军痛批H6不会营销！哈弗总经理：这个我们承认 但还有个原因](https://www.3dmgame.com/news/202405/3895655.html)
+
++ [《巫术：疯狂领主的试验场》3D重制版发售 实体版亮相](https://www.3dmgame.com/news/202405/3895654.html)
+
