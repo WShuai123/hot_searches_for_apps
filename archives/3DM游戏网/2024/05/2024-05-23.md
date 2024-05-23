@@ -243,3 +243,19 @@
 
 + [《巫术：疯狂领主的试验场》3D重制版发售 实体版亮相](https://www.3dmgame.com/news/202405/3895654.html)
 
++ [《间谍少女组：电子任务》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3895661.html)
+
++ [iPhone 16 Pro Max新增拍照按钮：影像质变](https://www.3dmgame.com/news/202405/3895659.html)
+
++ [英伟达统治AI地位 堪比当年PC时代的英特尔](https://www.3dmgame.com/news/202405/3895660.html)
+
++ [《黑神话：悟空》特色机制总结：金箍棒变身分身定身](https://www.3dmgame.com/news/202405/3895662.html)
+
++ [《地下城与勇士：决斗》新DLC角色“气功师”预告 6月13日上线](https://www.3dmgame.com/news/202405/3895663.html)
+
++ [单人烹饪经营游戏《奇妙烘焙店》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895656.html)
+
++ [英伟达第一财季营收260.44亿美元超预期：净利润同比大增628%](https://www.3dmgame.com/news/202405/3895657.html)
+
++ [温子仁掌勺经典恐怖喜剧电影《芒斯特一家》黑暗重启](https://www.3dmgame.com/news/202405/3895658.html)
+
