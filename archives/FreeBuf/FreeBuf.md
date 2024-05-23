@@ -51,3 +51,7 @@
 
 + [关于thinkphp框架的代码审计](https://www.freebuf.com/vuls/401212.html)
 
++ [安全漏洞再现，逾 20 万个 Confluence 数据中心实例面临暴露风险](https://www.freebuf.com/news/401663.html)
+
++ [微软计划于 2024 年下半年逐步弃用 VBScript](https://www.freebuf.com/news/401655.html)
+
