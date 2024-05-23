@@ -61,3 +61,7 @@
 
 + [【千璃Senri】使一颗心免于哀伤【日语填词】](http://www.acfun.cn/v/ac44620191)
 
++ [轻装上阵，依旧老辣，HIFIMAN Svanar Wireless Jr](http://www.acfun.cn/v/ac44625087)
+
++ [姐夫今天摊事了，腿好悬没干折了，买回一堆硬货，看看到底啥情况](http://www.acfun.cn/v/ac44625686)
+
