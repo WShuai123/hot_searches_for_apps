@@ -235,3 +235,9 @@
 
 + [英伟达特批更多GPU给国内市场 以支持618大促销](https://www.3dmgame.com/news/202405/3895744.html)
 
++ [《皇牌空战8》可能是万代的下一个大型游戏](https://www.3dmgame.com/news/202405/3895748.html)
+
++ [吴京将主演《镖人》真人漫改电影 透露将有重量级前辈加盟](https://www.3dmgame.com/news/202405/3895747.html)
+
++ [传《使命召唤21》单人战役任务将有2001年911事件](https://www.3dmgame.com/news/202405/3895746.html)
+
