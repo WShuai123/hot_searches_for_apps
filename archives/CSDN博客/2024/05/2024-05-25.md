@@ -101,3 +101,31 @@
 
 + [基于MetaGPT构建LLM多智能体](https://blog.csdn.net/qq_45590504/article/details/139101098)
 
++ [深入探索Kafka：了解其不可或缺的核心组件](https://blog.csdn.net/weixin_53269650/article/details/139145701)
+
++ [K8s-yaml文件](https://blog.csdn.net/m0_75067030/article/details/139118843)
+
++ [好的架构是进化来的，不是设计来的](https://blog.csdn.net/m0_67544708/article/details/139154154)
+
++ [基于springboot实现的校园博客系统](https://blog.csdn.net/DC5621/article/details/139156448)
+
++ [Python 全栈体系【四阶】（五十）](https://blog.csdn.net/sgsgkxkx/article/details/139131363)
+
++ [漫画|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/139148351)
+
++ [使用 Spring Boot 实现邮件发送功能](https://blog.csdn.net/liyananweb/article/details/139150145)
+
++ [C++ RPC ORM 高速解析](https://blog.csdn.net/qq_30220519/article/details/139146932)
+
++ [Spring事务](https://blog.csdn.net/2301_76161469/article/details/139026273)
+
++ [【名词解释】Unity生命周期](https://blog.csdn.net/Richard_shen/article/details/139117511)
+
++ [K-means聚类模型](https://blog.csdn.net/ak2111/article/details/139127049)
+
++ [从零开始傅里叶变换](https://blog.csdn.net/anniewwy/article/details/139155195)
+
++ [3D工业视觉](https://blog.csdn.net/qq_41204464/article/details/139069500)
+
++ [Windows电脑搭建自己的Plex流媒体服务并远程播放本地视频](https://blog.csdn.net/2301_77485708/article/details/139154485)
+

@@ -113,3 +113,7 @@
 
 + [《战锤40K：星际战士2》没有微交易系统](https://www.3dmgame.com/news/202405/3895754.html)
 
++ [《毁灭战士：黑暗时代》可能也会登陆索尼PS5](https://www.3dmgame.com/news/202405/3895759.html)
+
++ [传雪崩新作《Contraband》开发遇到困难](https://www.3dmgame.com/news/202405/3895758.html)
+
