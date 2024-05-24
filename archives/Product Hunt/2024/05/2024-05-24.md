@@ -155,3 +155,9 @@
 
 + [Mahou](https://www.producthunt.com/posts/mahou)
 
++ [LegalLint](https://www.producthunt.com/posts/legallint)
+
++ [Speech To Note](https://www.producthunt.com/posts/speech-to-note)
+
++ [TailorLinx](https://www.producthunt.com/posts/tailorlinx)
+

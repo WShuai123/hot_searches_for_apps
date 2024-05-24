@@ -231,3 +231,7 @@
 
 + [Meta宣布成立AI委员会：全白人男性阵容引争议](https://www.3dmgame.com/news/202405/3895742.html)
 
++ [《疯狂的麦克斯》导演希望小岛能开发电影改编游戏](https://www.3dmgame.com/news/202405/3895745.html)
+
++ [英伟达特批更多GPU给国内市场 以支持618大促销](https://www.3dmgame.com/news/202405/3895744.html)
+
