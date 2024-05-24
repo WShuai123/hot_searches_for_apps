@@ -177,3 +177,7 @@
 
 + [《艾尔登法环：黄金树幽影》新截图泄露 绝美风景让人沉醉](https://www.3dmgame.com/news/202405/3895698.html)
 
++ [EA成立《模拟人生4》专项组 每2个月更新改进游戏核心体验](https://www.3dmgame.com/news/202405/3895717.html)
+
++ [《战锤40K：Speed Freeks》新预告 夏季发售](https://www.3dmgame.com/news/202405/3895716.html)
+

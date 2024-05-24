@@ -51,3 +51,7 @@
 
 + [网安标委印发《网络安全技术 生成式人工智能服务安全基本要求（征求意见稿）》](https://www.freebuf.com/news/401732.html)
 
++ [黑客利用 VMware ESXi 漏洞进行勒索软件攻击](https://www.freebuf.com/news/401744.html)
+
++ [新型网络钓鱼方式，黑客利用云存储进行短信钓鱼](https://www.freebuf.com/news/401751.html)
+

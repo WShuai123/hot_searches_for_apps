@@ -151,3 +151,7 @@
 
 + [【制作100个unity游戏之27】使用unity复刻经典游戏《植物大战僵尸》，制作属于自己的植物大战僵尸随机版和杂交版1（附带项目源码）](https://blog.csdn.net/qq_36303853/article/details/139125944)
 
++ [【测试SQLite】测试SQLite支持的SQL语句分类](https://blog.csdn.net/m0_57532432/article/details/139094633)
+
++ [【云原生】kubernetes中的service原理、应用实战案例解析](https://blog.csdn.net/littlefun591/article/details/139147828)
+
