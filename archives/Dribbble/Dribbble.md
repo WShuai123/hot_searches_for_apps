@@ -79,3 +79,9 @@
 
 + [El Gran Cinco de Mayo](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Glyph Beer 45](https://dribbble.com/shots/)
+
++ [California Roots Fest - Scraf](https://dribbble.com/shots/)
+
