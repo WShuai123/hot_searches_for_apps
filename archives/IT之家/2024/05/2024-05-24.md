@@ -31,3 +31,7 @@
 
 + [OPPO Reno12 / Pro 手机发布：采用四曲柔边直屏，售价 2699 元起](https://m.ithome.com/html/770166.htm)
 
++ [雷军：小米汽车今年内至少交付 10 万台，冲刺 12 万台](https://m.ithome.com/html/770212.htm)
+
++ [首发 OpenHarmony 设备统一互联技术标准！开源鸿蒙开发者大会 2024 本周六举行，华为余承东将致辞](https://m.ithome.com/html/770108.htm)
+

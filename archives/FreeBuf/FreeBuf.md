@@ -43,3 +43,7 @@
 
 + [Dispossessor 勒索软件是否会成为 LockBit 的接班者](https://www.freebuf.com/articles/network/401596.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+
++ [安全随笔——安全到底是什么？](https://www.freebuf.com/articles/neopoints/401134.html)
+

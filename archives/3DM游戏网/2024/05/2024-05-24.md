@@ -125,3 +125,19 @@
 
 + [《法外枭雄：滚石城》Steam版没有D加密 真是好消息](https://www.3dmgame.com/news/202405/3895689.html)
 
++ [《战锤40K：爆矢枪》颅骨节DLC新预告 6月18日推出](https://www.3dmgame.com/news/202405/3895697.html)
+
++ [Embracer过去一年里裁员4500名员工 取消80个项目](https://www.3dmgame.com/news/202405/3895696.html)
+
++ [索尼集团战略会议2024总结 次世代概念手柄惊艳亮相](https://www.3dmgame.com/news/202405/3895695.html)
+
++ [选择驱动型RPG惊悚游戏《狼人：启示录 — 炼狱》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895694.html)
+
++ [《无主之地》真人电影新剧照 主演们集体亮相](https://www.3dmgame.com/news/202405/3895693.html)
+
++ [育碧确认参加今年的德国科隆游戏展](https://www.3dmgame.com/news/202405/3895692.html)
+
++ [《碧海黑帆》第二赛季剧情宣传片 5月28日正式推出](https://www.3dmgame.com/news/202405/3895691.html)
+
++ [《鬼屋魔影》重启版销量疲软 未达公司预期](https://www.3dmgame.com/news/202405/3895690.html)
+

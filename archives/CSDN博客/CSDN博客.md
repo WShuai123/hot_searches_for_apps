@@ -137,3 +137,7 @@
 
 + [从零开始傅里叶变换](https://blog.csdn.net/anniewwy/article/details/139155195)
 
++ [2024电工杯杯数学建模AB题（附历年优秀论文+写作模板）参考论文+完整代码数据集](https://blog.csdn.net/2301_77933700/article/details/139087343)
+
++ [2024电工杯数学建模A题思路+模型+代码](https://blog.csdn.net/weixin_45499067/article/details/139156443)
+
