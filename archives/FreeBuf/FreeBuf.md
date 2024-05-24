@@ -47,3 +47,7 @@
 
 + [安全随笔——安全到底是什么？](https://www.freebuf.com/articles/neopoints/401134.html)
 
++ [又一诈骗方式，威胁行为者利用云存储进行短信钓鱼](https://www.freebuf.com/news/401751.html)
+
++ [网安标委印发《网络安全技术 生成式人工智能服务安全基本要求（征求意见稿）》](https://www.freebuf.com/news/401732.html)
+

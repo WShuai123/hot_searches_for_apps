@@ -141,3 +141,39 @@
 
 + [《鬼屋魔影》重启版销量疲软 未达公司预期](https://www.3dmgame.com/news/202405/3895690.html)
 
++ [探索冒险游戏《幽灵霍迪》现已在Steam平台正式推出 并收获好评](https://www.3dmgame.com/news/202405/3895714.html)
+
++ [雅达利进一步扩张 收购Intellivision和200多款游戏](https://www.3dmgame.com/news/202405/3895711.html)
+
++ [英国新法案 强制大型科技公司与第三方商店良好合作](https://www.3dmgame.com/news/202405/3895715.html)
+
++ [《全民街篮》Steam抢先体验5月31日免费开启！小黑子们，是时候上才艺了！](https://www.3dmgame.com/news/202405/3895713.html)
+
++ [《阴间大法师2》正式预告 9月6日上映](https://www.3dmgame.com/news/202405/3895712.html)
+
++ [育碧：《刺客信条：影》将是系列中画面最精致的游戏](https://www.3dmgame.com/news/202405/3895709.html)
+
++ [Steam“战锤颅骨节”活动 限时免费送出回合策略游戏《战锤40K：格雷迪厄斯》](https://www.3dmgame.com/news/202405/3895710.html)
+
++ [《战锤40K：行商浪人》DLC“虚空之影”预告 8月8日发售](https://www.3dmgame.com/news/202405/3895708.html)
+
++ [前DICE开发者瑞典工作室Fall Damage宣布破产](https://www.3dmgame.com/news/202405/3895707.html)
+
++ [《对马岛之鬼》制作人：本作与《刺客信条：影》比较没意义](https://www.3dmgame.com/news/202405/3895705.html)
+
++ [《全面战争：战锤3》免费英雄地狱犬预告 上线日期待定](https://www.3dmgame.com/news/202405/3895704.html)
+
++ [GOG平台“战锤颅骨节”活动进行中 免费赠送数字礼包](https://www.3dmgame.com/news/202405/3895706.html)
+
++ [PlayStation高管：未来十年游戏开发重点将从视觉画面转向沉浸式叙事](https://www.3dmgame.com/news/202405/3895702.html)
+
++ [节奏动作类肉鸽《节奏魔女 舞动的骷髅》已登录Steam平台 24年11月推出](https://www.3dmgame.com/news/202405/3895701.html)
+
++ [口碑逆转 预约突破50W 《英勇之地》端游究竟有何魅力](https://www.3dmgame.com/news/202405/3895699.html)
+
++ [《不羁联盟》发布后2个半小时内收获100万独立玩家](https://www.3dmgame.com/news/202405/3895700.html)
+
++ [《使命召唤：黑色行动6》开发者：已经2年前就可玩](https://www.3dmgame.com/news/202405/3895703.html)
+
++ [《艾尔登法环：黄金树幽影》新截图泄露 绝美风景让人沉醉](https://www.3dmgame.com/news/202405/3895698.html)
+

@@ -35,3 +35,5 @@
 
 + [首发 OpenHarmony 设备统一互联技术标准！开源鸿蒙开发者大会 2024 本周六举行，华为余承东将致辞](https://m.ithome.com/html/770108.htm)
 
++ [沈阳一奥迪车主称被续费弹窗骚扰，无法自行永久关闭](https://m.ithome.com/html/770271.htm)
+

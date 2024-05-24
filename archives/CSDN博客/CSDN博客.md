@@ -141,3 +141,13 @@
 
 + [2024电工杯数学建模A题思路+模型+代码](https://blog.csdn.net/weixin_45499067/article/details/139156443)
 
++ [使用TextIn文档解析工具为RAG开发提供更多可能性](https://blog.csdn.net/JHXL_/article/details/139060609)
+
++ [15 VUE学习：插槽slot](https://blog.csdn.net/sixpp/article/details/139141500)
+
++ [docker 网络模式](https://blog.csdn.net/qq_42152032/article/details/139158707)
+
++ [2024年高考考务人员网上培训参考答案](https://blog.csdn.net/xcntime/article/details/139137363)
+
++ [【制作100个unity游戏之27】使用unity复刻经典游戏《植物大战僵尸》，制作属于自己的植物大战僵尸随机版和杂交版1（附带项目源码）](https://blog.csdn.net/qq_36303853/article/details/139125944)
+
