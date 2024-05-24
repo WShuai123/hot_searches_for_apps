@@ -27,3 +27,7 @@
 
 + [比亚迪周？全新王朝 MPV 车型谍照曝光，长度超 5 米、轴距超 3 米](https://m.ithome.com/html/770153.htm)
 
++ [卢伟冰：新车型确实在开发，目前精力主要集中于小米 SU7 交付](https://m.ithome.com/html/770236.htm)
+
++ [OPPO Reno12 / Pro 手机发布：采用四曲柔边直屏，售价 2699 元起](https://m.ithome.com/html/770166.htm)
+

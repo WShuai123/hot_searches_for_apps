@@ -131,3 +131,9 @@
 
 + [【Unitydemo制作】音游制作—JSON数据存储](https://blog.csdn.net/m0_64128218/article/details/139150430)
 
++ [【机器学习】—机器学习和NLP预训练模型探索之旅](https://blog.csdn.net/2303_77720864/article/details/139159367)
+
++ [AI代码提示工具可用于教学功能示例——MySQL](https://blog.csdn.net/feng8403000/article/details/139158883)
+
++ [从零开始傅里叶变换](https://blog.csdn.net/anniewwy/article/details/139155195)
+

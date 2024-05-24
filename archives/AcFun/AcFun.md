@@ -69,3 +69,5 @@
 
 + [获得了催眠手机，看我怎么对付经常欺负你的女同学](http://www.acfun.cn/v/ac44621067)
 
++ [Smart](http://www.acfun.cn/v/ac44622249)
+

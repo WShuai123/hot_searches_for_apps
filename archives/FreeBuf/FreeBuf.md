@@ -41,3 +41,5 @@
 
 + [网安培训太卷了，18.8就能学ChatGPT安全工具开发高阶课......](https://www.freebuf.com/fevents/401451.html)
 
++ [Dispossessor 勒索软件是否会成为 LockBit 的接班者](https://www.freebuf.com/articles/network/401596.html)
+

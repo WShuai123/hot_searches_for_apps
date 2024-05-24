@@ -121,3 +121,7 @@
 
 + [《火影博人传：新忍出击》第40弹DLC继续追加新角色](https://www.3dmgame.com/news/202405/3895686.html)
 
++ [顽皮狗尼尔：AI将推动故事创作发展 但是存在道德问题](https://www.3dmgame.com/news/202405/3895688.html)
+
++ [《法外枭雄：滚石城》Steam版没有D加密 真是好消息](https://www.3dmgame.com/news/202405/3895689.html)
+
