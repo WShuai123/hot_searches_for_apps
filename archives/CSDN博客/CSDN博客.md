@@ -155,3 +155,5 @@
 
 + [【云原生】kubernetes中的service原理、应用实战案例解析](https://blog.csdn.net/littlefun591/article/details/139147828)
 
++ [Elasticsearch 开放 inference API 增加了对 Azure OpenAI 嵌入的支持](https://blog.csdn.net/UbuntuTouch/article/details/139155568)
+

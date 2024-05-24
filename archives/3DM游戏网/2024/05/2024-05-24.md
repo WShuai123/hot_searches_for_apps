@@ -181,3 +181,11 @@
 
 + [《战锤40K：Speed Freeks》新预告 夏季发售](https://www.3dmgame.com/news/202405/3895716.html)
 
++ [《反转21克》定档5月30日，7位红颜等你开启赛博科幻之旅！](https://www.3dmgame.com/news/202405/3895718.html)
+
++ [“城市建设”×“贸易”模拟游戏《罗塔岛航海贸易记》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3895720.html)
+
++ [R星前技术总监透露 《GTA 3》曾有多人模式 工作量太大是项目取消主因](https://www.3dmgame.com/news/202405/3895719.html)
+
++ [《命运2：终焉之形》将对19件异域护甲进行重做](https://www.3dmgame.com/news/202405/3895721.html)
+
