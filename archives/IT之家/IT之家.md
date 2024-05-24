@@ -45,3 +45,5 @@
 
 + [又一国产硬盘入局！紫光集团发布“紫光闪存”固态硬盘产品系列](https://m.ithome.com/html/770273.htm)
 
++ [全球知名“神烦狗 Doge”表情包原型柴犬 Kabosu 离世](https://m.ithome.com/html/770427.htm)
+

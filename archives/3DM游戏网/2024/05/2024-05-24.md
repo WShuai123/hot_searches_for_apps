@@ -205,3 +205,13 @@
 
 + [Fami通采访透露《星刃》拍照模式正在全力制作中](https://www.3dmgame.com/news/202405/3895724.html)
 
++ [马斯克反对美对中电动车加征关税 称此举“扭曲市场”](https://www.3dmgame.com/news/202405/3895733.html)
+
++ [CDPR喊话《巫师3》Mod作者：快弄些最奇怪大胆的Mod出来](https://www.3dmgame.com/news/202405/3895735.html)
+
++ [冒险游戏《Sheep Sweep》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895731.html)
+
++ [传《女神异闻录6》内部代号XRD768 早已开始开发](https://www.3dmgame.com/news/202405/3895730.html)
+
++ [有望实现三连降！国内油价将于5月29日迎来调整](https://www.3dmgame.com/news/202405/3895732.html)
+
