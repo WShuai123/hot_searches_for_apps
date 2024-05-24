@@ -47,3 +47,5 @@
 
 + [全球知名“神烦狗 Doge”表情包原型柴犬 Kabosu 离世](https://m.ithome.com/html/770427.htm)
 
++ [童年回来了，《铁甲小宝》高清重制版 5 月 29 日开播](https://m.ithome.com/html/770303.htm)
+

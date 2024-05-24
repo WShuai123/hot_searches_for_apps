@@ -171,3 +171,7 @@
 
 + [基于Hadoop的港口物流大数据应用研究](https://blog.csdn.net/No_Name_Cao_Ni_Mei/article/details/139149653)
 
++ [Ansible自动化运维中的Setup收集模块应用详解](https://blog.csdn.net/jxjdhdnd/article/details/138958985)
+
++ [DDD领域驱动设计理论｜得物技术](https://blog.csdn.net/SmartCodeTech/article/details/139127162)
+

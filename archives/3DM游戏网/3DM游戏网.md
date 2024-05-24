@@ -215,3 +215,15 @@
 
 + [有望实现三连降！国内油价将于5月29日迎来调整](https://www.3dmgame.com/news/202405/3895732.html)
 
++ [《黑神话》增加动态模糊设置 不用再忍受模糊画面了](https://www.3dmgame.com/news/202405/3895738.html)
+
++ [马斯克称自己是外星人：但没有人相信我](https://www.3dmgame.com/news/202405/3895739.html)
+
++ [《崩坏：星穹铁道》波提欧角色PV——「牛仔很忙」](https://www.3dmgame.com/news/202405/3895740.html)
+
++ [贾跃亭：快播真不是我们举报的 乐视被冤枉了！](https://www.3dmgame.com/news/202405/3895741.html)
+
++ [V社新作《Deadlock》主界面和两首游戏内配乐泄露](https://www.3dmgame.com/news/202405/3895736.html)
+
++ [《激战2》重磅版本「午夜国王」全球同步开启!](https://www.3dmgame.com/news/202405/3895737.html)
+
