@@ -175,3 +175,5 @@
 
 + [DDD领域驱动设计理论｜得物技术](https://blog.csdn.net/SmartCodeTech/article/details/139127162)
 
++ [Xed编辑器开发第三期:使用Rust从0到1写一个文本编辑器](https://blog.csdn.net/2302_76401343/article/details/139100918)
+

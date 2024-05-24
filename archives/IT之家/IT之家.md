@@ -49,3 +49,7 @@
 
 + [童年回来了，《铁甲小宝》高清重制版 5 月 29 日开播](https://m.ithome.com/html/770303.htm)
 
++ [比亚迪秦 L 官宣 5 月 28 日上市：“工业奇迹，大秦启航”](https://m.ithome.com/html/770444.htm)
+
++ [Epic 喜加一：《模拟农场 22》免费领取](https://m.ithome.com/html/770241.htm)
+

@@ -227,3 +227,7 @@
 
 + [《激战2》重磅版本「午夜国王」全球同步开启!](https://www.3dmgame.com/news/202405/3895737.html)
 
++ [轩辕剑之父蔡明宏31日离职 陈瑶恬接任新总经理](https://www.3dmgame.com/news/202405/3895743.html)
+
++ [Meta宣布成立AI委员会：全白人男性阵容引争议](https://www.3dmgame.com/news/202405/3895742.html)
+

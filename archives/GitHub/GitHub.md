@@ -51,3 +51,35 @@
 
 + [usebruno / bruno](https://github.com/usebruno/bruno)
 
++ [Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber)
+
++ [gothinkster / realworld](https://github.com/gothinkster/realworld)
+
++ [angular / angular](https://github.com/angular/angular)
+
++ [nucleuscloud / neosync](https://github.com/nucleuscloud/neosync)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
++ [vulhub / vulhub](https://github.com/vulhub/vulhub)
+
++ [foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing)
+
++ [CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium)
+
++ [6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui)
+
++ [modelscope / swift](https://github.com/modelscope/swift)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [searxng / searxng](https://github.com/searxng/searxng)
+
++ [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
++ [TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio)
+
++ [astral-sh / ruff](https://github.com/astral-sh/ruff)
+
