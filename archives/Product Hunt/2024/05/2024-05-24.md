@@ -145,3 +145,13 @@
 
 + [CooolSpace](https://www.producthunt.com/posts/cooolspace)
 
++ [Chirpley](https://www.producthunt.com/posts/chirpley)
+
++ [AI Manga Translator](https://www.producthunt.com/posts/ai-manga-translator)
+
++ [tagstack.io](https://www.producthunt.com/posts/tagstack-io)
+
++ [Hacker Search](https://www.producthunt.com/posts/hacker-search)
+
++ [Mahou](https://www.producthunt.com/posts/mahou)
+

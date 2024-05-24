@@ -61,3 +61,9 @@
 
 + [EFuzz：基于程序环境的通用模糊测试工具](https://www.freebuf.com/sectool/401465.html)
 
++ [工业和信息化部印发《工业和信息化领域数据安全风险评估实施细则（试行）》](https://www.freebuf.com/news/401842.html)
+
++ [月神：也许真的会开启一个安全测试新时代](https://www.freebuf.com/news/401857.html)
+
++ [HVV期间的VPN安全策略；如何管理远程桌面软件 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/401782.html)
+
