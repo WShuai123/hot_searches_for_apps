@@ -101,3 +101,7 @@
 
 + [《艾尔登法环：黄金树幽影》新截图泄露 绝美风景让人沉醉](https://www.3dmgame.com/news/202405/3895698.html)
 
++ [外媒评有史以来15款最佳重制版游戏 《生化2》成标杆](https://www.3dmgame.com/news/202405/3895752.html)
+
++ [传闻：《Avowed》和《夺宝奇兵：古老之圈》6月10日发布细节](https://www.3dmgame.com/news/202405/3895753.html)
+

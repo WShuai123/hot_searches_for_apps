@@ -101,3 +101,7 @@
 
 + [Scoopika](https://www.producthunt.com/posts/scoopika)
 
++ [StockPe](https://www.producthunt.com/posts/stockpe)
+
++ [Botsheets DB](https://www.producthunt.com/posts/botsheets-db)
+
