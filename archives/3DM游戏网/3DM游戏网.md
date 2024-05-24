@@ -189,3 +189,7 @@
 
 + [《命运2：终焉之形》将对19件异域护甲进行重做](https://www.3dmgame.com/news/202405/3895721.html)
 
++ [克系生存建造游戏《末夜部落》现已在Steam平台正式推出 获多半好评](https://www.3dmgame.com/news/202405/3895723.html)
+
++ [RTX5090太残暴！16颗GDDR7密密麻麻 前所未有三层PCB](https://www.3dmgame.com/news/202405/3895722.html)
+

@@ -57,3 +57,5 @@
 
 + [对某厂商演示系统（EDU）一次奇妙的漏洞挖掘](https://www.freebuf.com/vuls/401313.html)
 
++ [GitLab 爆出安全漏洞，允许黑客接管账户](https://www.freebuf.com/news/401772.html)
+

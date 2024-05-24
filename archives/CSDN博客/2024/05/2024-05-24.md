@@ -157,3 +157,9 @@
 
 + [Elasticsearch 开放 inference API 增加了对 Azure OpenAI 嵌入的支持](https://blog.csdn.net/UbuntuTouch/article/details/139155568)
 
++ [linux系统安全加固](https://blog.csdn.net/qq_56104175/article/details/139135581)
+
++ [网络安全之BGP详解](https://blog.csdn.net/m0_65858385/article/details/139115343)
+
++ [【2024】高校网络安全管理运维赛](https://blog.csdn.net/qq_66013948/article/details/139150159)
+
