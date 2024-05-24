@@ -105,3 +105,11 @@
 
 + [传闻：《Avowed》和《夺宝奇兵：古老之圈》6月10日发布细节](https://www.3dmgame.com/news/202405/3895753.html)
 
++ [据传《使命召唤21：黑色行动6》也将登陆PS4/XB1](https://www.3dmgame.com/news/202405/3895757.html)
+
++ [肉鸽恐怖新作《深四目朝生-阴阳之巫女-》公布](https://www.3dmgame.com/news/202405/3895756.html)
+
++ [《毁灭战士：黑暗时代》将在Xbox展示会上公布](https://www.3dmgame.com/news/202405/3895755.html)
+
++ [《战锤40K：星际战士2》没有微交易系统](https://www.3dmgame.com/news/202405/3895754.html)
+
