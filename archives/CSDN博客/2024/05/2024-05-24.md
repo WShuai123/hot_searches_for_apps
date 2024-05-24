@@ -163,3 +163,9 @@
 
 + [【2024】高校网络安全管理运维赛](https://blog.csdn.net/qq_66013948/article/details/139150159)
 
++ [如何完美解决 Redis 错误：Couldn‘t set client name. NOAUTH Authentication required](https://blog.csdn.net/qq_44866828/article/details/139099319)
+
++ [我使用缓存，踩过的7个坑](https://blog.csdn.net/m0_69632475/article/details/139145702)
+
++ [MyBatis系统学习篇 - MyBatis的缓存](https://blog.csdn.net/qq_45922256/article/details/139149277)
+

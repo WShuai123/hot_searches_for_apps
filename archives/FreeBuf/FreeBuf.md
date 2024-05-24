@@ -59,3 +59,5 @@
 
 + [GitLab 爆出安全漏洞，允许黑客接管账户](https://www.freebuf.com/news/401772.html)
 
++ [EFuzz：基于程序环境的通用模糊测试工具](https://www.freebuf.com/sectool/401465.html)
+

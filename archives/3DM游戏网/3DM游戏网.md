@@ -193,3 +193,15 @@
 
 + [RTX5090太残暴！16颗GDDR7密密麻麻 前所未有三层PCB](https://www.3dmgame.com/news/202405/3895722.html)
 
++ [游戏只能玩一辈子？客服确认Steam账号及游戏库存无法作为遗产被继承](https://www.3dmgame.com/news/202405/3895728.html)
+
++ [《命运2：终焉之形》6月5日上线，Bungie提前发布全新视频记录](https://www.3dmgame.com/news/202405/3895729.html)
+
++ [惊喜联动来袭!《极限竞速：地平线5》和《我的世界》强强联合，推出限量版联动头饰!从5月23日起，为庆](https://www.3dmgame.com/news/202405/3895727.html)
+
++ [百度：正考虑和特斯拉在Robotaxi项目上开展合作](https://www.3dmgame.com/news/202405/3895726.html)
+
++ [很忠诚！Secretlab与GW合作推出《战锤40K》主题电竞椅](https://www.3dmgame.com/news/202405/3895725.html)
+
++ [Fami通采访透露《星刃》拍照模式正在全力制作中](https://www.3dmgame.com/news/202405/3895724.html)
+
