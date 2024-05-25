@@ -157,3 +157,21 @@
 
 + [多结局解谜冒险ADV《残音系少年少女》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895778.html)
 
++ [《庆余年2》热度值创历史最高纪录 今晚加更两集连播](https://www.3dmgame.com/news/202405/3895787.html)
+
++ [《星刃》在日本市场实体销量已经超过《龙之信条2》](https://www.3dmgame.com/news/202405/3895786.html)
+
++ [消息称谷歌和Meta为训练AI 砸钱向好莱坞电影公司购买内容](https://www.3dmgame.com/news/202405/3895785.html)
+
++ [开发者表示XGP导致玩家行为转变 使Xbox游戏销量下跌](https://www.3dmgame.com/news/202405/3895784.html)
+
++ [《碧蓝幻想：Relink》月底发布大型更新 加入新可玩角色](https://www.3dmgame.com/news/202405/3895783.html)
+
++ [《罗马帝国战争》明年9月15日发售 支持中文](https://www.3dmgame.com/news/202405/3895782.html)
+
++ [旗下开发工作室宣布破产 Fragbite首席执行官离职](https://www.3dmgame.com/news/202405/3895780.html)
+
++ [QQ的大哥宣布告别：ICQ下月底即将正式结束运营](https://www.3dmgame.com/news/202405/3895779.html)
+
++ [《华纳大乱斗》游戏总监：数据挖掘者正在伤害玩家](https://www.3dmgame.com/news/202405/3895781.html)
+
