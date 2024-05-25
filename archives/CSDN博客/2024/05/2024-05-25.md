@@ -221,3 +221,9 @@
 
 + [Windows+Ubuntu24.04双系统及升级Ubuntu Pro教程](https://blog.csdn.net/qingxuly/article/details/139155827)
 
++ [线性回归模型](https://blog.csdn.net/ak2111/article/details/139127210)
+
++ [Scala 的流程控制语句](https://blog.csdn.net/weixin_44480009/article/details/139155301)
+
++ [OpenCL异构计算——OpenCL设备架构](https://blog.csdn.net/weixin_50998219/article/details/139151817)
+

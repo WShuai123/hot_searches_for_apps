@@ -199,3 +199,9 @@
 
 + [现有Win11设备也能用记忆AI功能 只是速度慢](https://www.3dmgame.com/news/202405/3895799.html)
 
++ [传英伟达下一代“AI PC”SoC规格 Blackwell架构GPU](https://www.3dmgame.com/news/202405/3895802.html)
+
++ [网友吐槽《刺客信条：影》 马斯克：多元化杀死了艺术](https://www.3dmgame.com/news/202405/3895801.html)
+
++ [《星刃》被和谐的服装被解封 推主庆祝：这是玩家的胜利](https://www.3dmgame.com/news/202405/3895800.html)
+
