@@ -45,3 +45,7 @@
 
 + [比亚迪海豹 06 DM-i 官宣 5 月 28 日上市，搭载第五代 DM 技术](https://m.ithome.com/html/770555.htm)
 
++ [马斯克又裁到大动脉了：特斯拉急招自动驾驶 / 机器人工程师](https://m.ithome.com/html/770531.htm)
+
++ [6000M 无线速率：小米 Redmi AX6000 路由器 294 元京东发车](https://m.ithome.com/html/770486.htm)
+

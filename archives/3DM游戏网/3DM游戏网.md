@@ -187,3 +187,11 @@
 
 + [《不朽者传奇》发布更新档 全平台版本加入FSR3支持](https://www.3dmgame.com/news/202405/3895788.html)
 
++ [奥斯卡提名纪录片《大号的我》导演去世 年仅53岁](https://www.3dmgame.com/news/202405/3895795.html)
+
++ [《灵魂面甲》反向跳票 5月31日EA发售](https://www.3dmgame.com/news/202405/3895797.html)
+
++ [《纸片马里奥》玩家预购订单被取消后仍然发货](https://www.3dmgame.com/news/202405/3895796.html)
+
++ [动作潜行恐怖游戏《Venatrix》现已登陆Steam平台](https://www.3dmgame.com/news/202405/3895794.html)
+

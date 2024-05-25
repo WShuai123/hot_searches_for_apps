@@ -191,3 +191,11 @@
 
 + [ubuntu_概念](https://blog.csdn.net/weixin_41303851/article/details/139107269)
 
++ [【机器学习】基于核的机器学习算法（Kernel-based Algorithms）：原理，应用与优化](https://blog.csdn.net/2301_77509762/article/details/139128227)
+
++ [Linux 磁盘管理命令 mdadm:RAID设置工具](https://blog.csdn.net/u014096024/article/details/139158953)
+
++ [yaml文件格式详解 及 k8s实战演示](https://blog.csdn.net/wyq2070857323/article/details/139120212)
+
++ [vue使用webscoket](https://blog.csdn.net/m0_61601708/article/details/139145837)
+
