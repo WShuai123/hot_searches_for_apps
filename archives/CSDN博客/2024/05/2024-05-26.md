@@ -105,3 +105,31 @@
 
 + [C++ RPC ORM 高速解析](https://blog.csdn.net/qq_30220519/article/details/139146932)
 
++ [wireshark使用](https://blog.csdn.net/weixin_45440497/article/details/139157208)
+
++ [Linux 进程相关概念](https://blog.csdn.net/qq_61391875/article/details/139136054)
+
++ [【rCore】用rust从零开始写一个操作系统 开源操作系统训练营：ch2 批处理系统](https://blog.csdn.net/qq_61908212/article/details/139096115)
+
++ [【LLM多模态】LLava模型结构和训练过程 | CLIP模型](https://blog.csdn.net/qq_35812205/article/details/136586853)
+
++ [【AI大数据计算原理与代码实例讲解】机器学习](https://blog.csdn.net/universsky2015/article/details/139133055)
+
++ [【机器学习】————在金融市场分析方面的应用](https://blog.csdn.net/LZX521314ok/article/details/139148367)
+
++ [浅玩websocket](https://blog.csdn.net/hometowna/article/details/139158586)
+
++ [SpringBoot-02-整合Mybatis完成CRUD以及源码探究](https://blog.csdn.net/m0_74353020/article/details/139126707)
+
++ [02.爬虫---HTTP基本原理](https://blog.csdn.net/hsadfdsahfdsgfds/article/details/139113180)
+
++ [【第16章】MyBatis-Spring之SqlSession](https://blog.csdn.net/qq_44824164/article/details/138765338)
+
++ [【2024】高校网络安全管理运维赛](https://blog.csdn.net/qq_66013948/article/details/139150159)
+
++ [大屏echarts甘特图表](https://blog.csdn.net/m0_75230853/article/details/139153705)
+
++ [vue使用webscoket](https://blog.csdn.net/m0_61601708/article/details/139145837)
+
++ [五步定位性能瓶颈](https://blog.csdn.net/qq_38420688/article/details/139157882)
+
