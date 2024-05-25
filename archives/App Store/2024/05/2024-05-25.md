@@ -217,3 +217,7 @@
 
 + [悟空浏览器](https://itunes.apple.com/cn/app/id6473782436?mt=8)
 
++ [肯德基KFC(官方版)-宅急送外卖无接触配送](https://itunes.apple.com/cn/app/id587238847?mt=8)
+
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+

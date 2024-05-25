@@ -197,3 +197,5 @@
 
 + [实时RPG《Scars of Mars》6月20日登陆PC Steam](https://www.3dmgame.com/news/202405/3895798.html)
 
++ [现有Win11设备也能用记忆AI功能 只是速度慢](https://www.3dmgame.com/news/202405/3895799.html)
+

@@ -63,3 +63,5 @@
 
 + [余承东：已有 2000 多名华为开发者支持 OpenHarmony，累计贡献超 6200 万行核心代码](https://m.ithome.com/html/770661.htm)
 
++ [俄罗斯首台光刻机制造完成：可生产 350 纳米工艺芯片](https://m.ithome.com/html/770689.htm)
+

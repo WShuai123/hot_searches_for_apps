@@ -211,3 +211,13 @@
 
 + [无人机监测系统：天空之眼，精准掌握地球脉动](https://blog.csdn.net/weixin_45520289/article/details/138142486)
 
++ [.NET Multi-platform App UI (.NET MAUI) 页面类型以及跳转方法](https://blog.csdn.net/cfqabc123/article/details/139147292)
+
++ [在VMware上用Windows server 2012 R2搭建网站](https://blog.csdn.net/wangtao_4/article/details/139033167)
+
++ [k8s——Pod详解](https://blog.csdn.net/sea_bunch/article/details/139151685)
+
++ [springboot vue 开源 会员收银系统 (5) 分类及商品模块开发](https://blog.csdn.net/qq_35238367/article/details/139119520)
+
++ [Windows+Ubuntu24.04双系统及升级Ubuntu Pro教程](https://blog.csdn.net/qingxuly/article/details/139155827)
+
