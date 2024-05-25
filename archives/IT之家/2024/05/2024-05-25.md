@@ -59,3 +59,7 @@
 
 + [翻新 iPhone 14 系列机型美国上架，购买苹果官方版 14 Pro / Max 的唯一方式](https://m.ithome.com/html/770533.htm)
 
++ [小米在海外发布小型太阳能电池板：最大输出功率 5W，可用于户外摄像头](https://m.ithome.com/html/770657.htm)
+
++ [余承东：已有 2000 多名华为开发者支持 OpenHarmony，累计贡献超 6200 万行核心代码](https://m.ithome.com/html/770661.htm)
+
