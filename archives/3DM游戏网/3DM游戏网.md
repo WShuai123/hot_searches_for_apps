@@ -175,3 +175,15 @@
 
 + [《华纳大乱斗》游戏总监：数据挖掘者正在伤害玩家](https://www.3dmgame.com/news/202405/3895781.html)
 
++ [《Moonless Moon》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895792.html)
+
++ [北美PS5光碟生产遇阻 《博德之门3》实体豪华版延期](https://www.3dmgame.com/news/202405/3895793.html)
+
++ [《Drunken Rogue》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202405/3895791.html)
+
++ [提升很明显 《地狱之刃2》正式版与宣传片对比视频](https://www.3dmgame.com/news/202405/3895790.html)
+
++ [V社《Deadlock》更多泄露：将包含全角色视觉小说](https://www.3dmgame.com/news/202405/3895789.html)
+
++ [《不朽者传奇》发布更新档 全平台版本加入FSR3支持](https://www.3dmgame.com/news/202405/3895788.html)
+

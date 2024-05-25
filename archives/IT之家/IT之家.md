@@ -39,3 +39,9 @@
 
 + [QQ 的“老大哥”，ICQ 聊天软件官宣 6 月 26 日关闭：上线运营近 28 年](https://m.ithome.com/html/770569.htm)
 
++ [酷似“全面屏”版 1520，HMD“复刻版诺基亚 Lumia 手机”新海报流出](https://m.ithome.com/html/770571.htm)
+
++ [胖猫事件引发关注：微信呼吁网友客观理性表达观点、尊重他人隐私，共同抵制网络暴力](https://m.ithome.com/html/770492.htm)
+
++ [比亚迪海豹 06 DM-i 官宣 5 月 28 日上市，搭载第五代 DM 技术](https://m.ithome.com/html/770555.htm)
+

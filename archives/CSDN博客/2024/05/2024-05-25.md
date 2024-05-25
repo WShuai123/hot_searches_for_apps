@@ -183,3 +183,11 @@
 
 + [【Flutter】图片组件Image&图标组件Icon](https://blog.csdn.net/weixin_62511863/article/details/139159974)
 
++ [Spring AI 抢先体验，5 分钟玩转 Java AI 应用开发](https://blog.csdn.net/yunqiinsight/article/details/139147000)
+
++ [【情感大师智能体】：定制专属情感支持](https://blog.csdn.net/a1657054242/article/details/139153035)
+
++ [SpringBoot（九）之整合mybatis](https://blog.csdn.net/aoxiaojun/article/details/139142481)
+
++ [ubuntu_概念](https://blog.csdn.net/weixin_41303851/article/details/139107269)
+
