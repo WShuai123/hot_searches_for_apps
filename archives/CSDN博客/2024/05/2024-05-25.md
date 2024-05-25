@@ -129,3 +129,9 @@
 
 + [Windows电脑搭建自己的Plex流媒体服务并远程播放本地视频](https://blog.csdn.net/2301_77485708/article/details/139154485)
 
++ [如何将手机中的音乐转移到 SD 卡上？轻松传输音乐](https://blog.csdn.net/Coolmuster/article/details/139149700)
+
++ [嵌入式学习——3——TCP-UDP 数据交互，握手，挥手](https://blog.csdn.net/qq_37193153/article/details/139156660)
+
++ [六.逼格拉满-Prometheus+Grafana微服务监控告警](https://blog.csdn.net/u014494148/article/details/139116063)
+

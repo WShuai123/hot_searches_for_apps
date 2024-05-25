@@ -117,3 +117,13 @@
 
 + [传雪崩新作《Contraband》开发遇到困难](https://www.3dmgame.com/news/202405/3895758.html)
 
++ [Steam沙盒建造《围攻Besiege》全新DLC“分裂之海”现已来袭！](https://www.3dmgame.com/news/202405/3895734.html)
+
++ [育碧FPS《不羁联盟》首个双倍经验周末现已开启](https://www.3dmgame.com/news/202405/3895761.html)
+
++ [《原神》纳塔前瞻短片——龙的漫游](https://www.3dmgame.com/news/202405/3895762.html)
+
++ [《魔兽世界》玩家凌晨收到改密短信！官方致歉：恢复战网时误触发](https://www.3dmgame.com/news/202405/3895763.html)
+
++ [《宇宙机器人》新作开发中 未来15天内正式公布](https://www.3dmgame.com/news/202405/3895760.html)
+
