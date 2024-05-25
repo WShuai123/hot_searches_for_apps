@@ -77,3 +77,11 @@
 
 + [【何止】豆瓣8.6，影史最经典的悬疑片之一，二刷后深深爱上《尼罗河上的惨案》](http://www.acfun.cn/v/ac44634180)
 
++ [86爆缸！老师傅京一虐萌新《头文字D第七期》](http://www.acfun.cn/v/ac44627371)
+
++ [Bunny Style](http://www.acfun.cn/v/ac44633097)
+
++ [一部没有鬼的恐怖片，却成为了无数人童年的阴影《恶魔的艺术3鬼影随行》](http://www.acfun.cn/v/ac44632894)
+
++ [Bubble Pop](http://www.acfun.cn/v/ac44632896)
+

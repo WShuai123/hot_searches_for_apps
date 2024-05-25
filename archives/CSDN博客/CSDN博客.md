@@ -143,3 +143,9 @@
 
 + [【制作100个unity游戏之27】使用unity复刻经典游戏《植物大战僵尸》，制作属于自己的植物大战僵尸随机版和杂交版1（附带项目源码）](https://blog.csdn.net/qq_36303853/article/details/139125944)
 
++ [2024电工杯数学建模 - 案例：最短时间生产计划安排](https://blog.csdn.net/m0_71450098/article/details/139156614)
+
++ [工业制造企业为什么要进行数字化转型](https://blog.csdn.net/weixin_52213728/article/details/139113742)
+
++ [Ros2_学习梳理_2_服务通信（赵虚左老师）](https://blog.csdn.net/m0_51759289/article/details/139129856)
+

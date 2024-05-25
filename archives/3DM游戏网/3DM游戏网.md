@@ -129,3 +129,27 @@
 
 + [游戏又“中枪” 动视被起诉要为校园枪击案“负责”](https://www.3dmgame.com/news/202405/3895764.html)
 
++ [独立动作策略游戏《BURGGUIST》今秋登陆Steam](https://www.3dmgame.com/news/202405/3895776.html)
+
++ [《利刃出鞘3》正式定名 克雷格回归、2025年上线](https://www.3dmgame.com/news/202405/3895775.html)
+
++ [《龙珠：超宇宙2》发布免费PS5版升级 但有一条件](https://www.3dmgame.com/news/202405/3895774.html)
+
++ [我国自主第三代核电 广西防城港核电站“华龙一号”4号机组今天投产发电](https://www.3dmgame.com/news/202405/3895773.html)
+
++ [育碧《碧海黑帆》宣布免费体验周 助力第二赛季发布](https://www.3dmgame.com/news/202405/3895772.html)
+
++ [《绝地潜兵2》总监最初构思：玩家扮演邪恶势力小兵](https://www.3dmgame.com/news/202405/3895770.html)
+
++ [《自动贩卖机生意模拟》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3895771.html)
+
++ [《最后的生还者2》艾萨克演员将加盟剧版再次扮演](https://www.3dmgame.com/news/202405/3895767.html)
+
++ [编程也要“正确”化？虚幻引擎编程标准离大谱！](https://www.3dmgame.com/news/202405/3895768.html)
+
++ [宫崎英高非常重视《装甲核心》系列：不想就此止步](https://www.3dmgame.com/news/202405/3895769.html)
+
++ [《猫咖时间到！》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895766.html)
+
++ [索尼在《漫威蜘蛛侠2》中使用了AI来同步对话字幕](https://www.3dmgame.com/news/202405/3895765.html)
+
