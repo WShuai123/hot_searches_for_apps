@@ -51,3 +51,5 @@
 
 + [amdc6766团伙来袭，供应链投毒攻击再升级](https://www.freebuf.com/articles/network/401262.html)
 
++ [MemProcFS：在虚拟文件系统中以文件形式查看物理内存](https://www.freebuf.com/sectool/401541.html)
+

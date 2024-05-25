@@ -37,3 +37,5 @@
 
 + [全球第一辆插电混动汽车诞生地立牌，比亚迪第五代 DM 技术 5 月 28 日发布](https://m.ithome.com/html/770392.htm)
 
++ [QQ 的“老大哥”，ICQ 聊天软件官宣 6 月 26 日关闭：上线运营近 28 年](https://m.ithome.com/html/770569.htm)
+

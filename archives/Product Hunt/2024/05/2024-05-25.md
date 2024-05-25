@@ -105,3 +105,19 @@
 
 + [Botsheets DB](https://www.producthunt.com/posts/botsheets-db)
 
++ [Cinefind](https://www.producthunt.com/posts/cinefind)
+
++ [PackBuddy](https://www.producthunt.com/posts/packbuddy)
+
++ [AutoChat®](https://www.producthunt.com/posts/autochat)
+
++ [Human-Generated Contents](https://www.producthunt.com/posts/human-generated-contents)
+
++ [TrainingMeetups](https://www.producthunt.com/posts/trainingmeetups)
+
++ [TrackerJam](https://www.producthunt.com/posts/trackerjam)
+
++ [OutyPlay](https://www.producthunt.com/posts/outyplay)
+
++ [Stacks - Your search co-pilot](https://www.producthunt.com/posts/stacks-your-search-co-pilot)
+
