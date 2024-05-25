@@ -159,3 +159,13 @@
 
 + [Nacos 微服务管理](https://blog.csdn.net/weixin_48053866/article/details/139149129)
 
++ [图神经网络实战（11）——Weisfeiler-Leman测试](https://blog.csdn.net/LOVEmy134611/article/details/139134435)
+
++ [MyBatis系统学习篇 - MyBatis的缓存](https://blog.csdn.net/qq_45922256/article/details/139149277)
+
++ [从菜鸟到大厨：MySQL数据库的美味指南](https://blog.csdn.net/tulingtuling/article/details/139127596)
+
++ [鸿蒙OS开发：【一次开发，多端部署】（典型布局场景）](https://blog.csdn.net/m0_70748845/article/details/139157347)
+
++ [FFmpeg操作命令 - 精简版](https://blog.csdn.net/Rickest_man/article/details/139145058)
+
