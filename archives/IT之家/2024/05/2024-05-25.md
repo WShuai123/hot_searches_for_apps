@@ -55,3 +55,7 @@
 
 + [酷态科电能块充电宝（自带线）发布：20000mAh 容量，预售 129 元](https://m.ithome.com/html/770572.htm)
 
++ [OPPO ColorOS 更新：新增支持相册 UHDR 格式照片编辑及臻彩视界效果](https://m.ithome.com/html/770508.htm)
+
++ [翻新 iPhone 14 系列机型美国上架，购买苹果官方版 14 Pro / Max 的唯一方式](https://m.ithome.com/html/770533.htm)
+

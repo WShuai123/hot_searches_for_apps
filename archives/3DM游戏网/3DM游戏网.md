@@ -195,3 +195,5 @@
 
 + [动作潜行恐怖游戏《Venatrix》现已登陆Steam平台](https://www.3dmgame.com/news/202405/3895794.html)
 
++ [实时RPG《Scars of Mars》6月20日登陆PC Steam](https://www.3dmgame.com/news/202405/3895798.html)
+
