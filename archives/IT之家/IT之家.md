@@ -49,3 +49,9 @@
 
 + [6000M 无线速率：小米 Redmi AX6000 路由器 294 元京东发车](https://m.ithome.com/html/770486.htm)
 
++ [我国部分城市陆续解禁摩托车，西安 / 廊坊 / 济南 / 青岛等地已率先执行](https://m.ithome.com/html/770623.htm)
+
++ [消息称三星显示正为苹果 iPad mini 开发 OLED 面板，预计 2025 年下半年开始量产](https://m.ithome.com/html/770502.htm)
+
++ [酷态科电能块充电宝（自带线）发布：20000mAh 容量，预售 129 元](https://m.ithome.com/html/770572.htm)
+

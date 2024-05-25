@@ -51,3 +51,35 @@
 
 + [astral-sh / ruff](https://github.com/astral-sh/ruff)
 
++ [dream-num / univer](https://github.com/dream-num/univer)
+
++ [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [solidjs / solid-start](https://github.com/solidjs/solid-start)
+
++ [wy876 / POC](https://github.com/wy876/POC)
+
++ [lvgl / lvgl](https://github.com/lvgl/lvgl)
+
++ [apache / flink-cdc](https://github.com/apache/flink-cdc)
+
++ [chiteroman / PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+
++ [Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App)
+
++ [W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE)
+
++ [ragapp / ragapp](https://github.com/ragapp/ragapp)
+
++ [ente-io / ente](https://github.com/ente-io/ente)
+
++ [dotnet / aspire](https://github.com/dotnet/aspire)
+
++ [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
