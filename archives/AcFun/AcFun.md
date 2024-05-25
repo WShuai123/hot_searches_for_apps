@@ -85,3 +85,7 @@
 
 + [Bubble Pop](http://www.acfun.cn/v/ac44632896)
 
++ [小小Acer，轻松拿下！★手机竖屏1161★](http://www.acfun.cn/v/ac44633654)
+
++ [【剑风372话】格里菲斯东征！！！](http://www.acfun.cn/v/ac44626805)
+
