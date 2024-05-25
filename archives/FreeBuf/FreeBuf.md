@@ -47,3 +47,5 @@
 
 + [UTG-Q-010:针对AI和游戏行业的定向攻击活动](https://www.freebuf.com/articles/paper/401522.html)
 
++ [自然资源部发布《智能网联汽车时空数据安全处理基本要求（征求意见稿）》](https://www.freebuf.com/news/401871.html)
+
