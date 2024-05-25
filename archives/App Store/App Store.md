@@ -205,3 +205,7 @@
 
 + [去哪儿旅行-预订特价酒店机票平台火车票](https://itunes.apple.com/cn/app/id395096736?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
