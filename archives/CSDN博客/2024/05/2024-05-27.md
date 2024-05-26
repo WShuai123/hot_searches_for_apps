@@ -135,3 +135,45 @@
 
 + [猫头虎 解析：为什么AIGC在国内适合做TOB，在国外适合做TOC？](https://blog.csdn.net/qq_44866828/article/details/139205661)
 
++ [ISCC——AI](https://blog.csdn.net/wcj126/article/details/138981041)
+
++ [mysql-索引、存储引擎、事务、锁机制和优化](https://blog.csdn.net/mo_chen1025/article/details/139144625)
+
++ [柏拉图式表征：人工智能深度网络模型是否趋于一致？](https://blog.csdn.net/ivandoo/article/details/139154901)
+
++ [深入JVM和MySQL，美团优选事业群一面你准备好了吗？](https://blog.csdn.net/ll15982534415/article/details/139134285)
+
++ [YOLOv5/v7 引入 RepVGG 重参数化模块](https://blog.csdn.net/weixin_39818775/article/details/139159489)
+
++ [【Linux】生产者消费者模型](https://blog.csdn.net/2301_77112634/article/details/139038188)
+
++ [云WAF：企业网络安全的新标杆](https://blog.csdn.net/gmqqcsdn/article/details/139134947)
+
++ [Cookie 和 Session概念及相关API](https://blog.csdn.net/Romised/article/details/139150534)
+
++ [网络应用层之(1)DHCPv6协议](https://blog.csdn.net/Once_day/article/details/139218691)
+
++ [『哈哥赠书 - 53期』-『深入浅出 Spring Boot 3.x』](https://blog.csdn.net/weixin_42250835/article/details/139186837)
+
++ [现代 C++ 使用教程](https://blog.csdn.net/qq_30220519/article/details/139183985)
+
++ [GPU集合通信库在B站的应用和改进](https://blog.csdn.net/bilibili_TC/article/details/139144091)
+
++ [【机器学习-23】关联规则（Apriori）算法：介绍、应用与实现](https://blog.csdn.net/qq_38614074/article/details/139218019)
+
++ [读人工智能时代与人类未来笔记12_安全与世界秩序](https://blog.csdn.net/lyingSeven/article/details/139159728)
+
++ [数据采集与AI分析，亮数据+通义千问助力跨境电商前行](https://blog.csdn.net/Qingai521/article/details/139175413)
+
++ [【机器学习与大模型】驱动下的应用图像识别与处理](https://blog.csdn.net/2302_81249757/article/details/139209646)
+
++ [数据赋能（99）——概念：数据服务、数据产品](https://blog.csdn.net/lh1793/article/details/138770249)
+
++ [部署一套完整的架构系统有哪些步骤](https://blog.csdn.net/weixin_53391173/article/details/139144916)
+
++ [AI大模型探索之路-实战篇4：深入DB-GPT数据应用开发框架调研](https://blog.csdn.net/xiaobing259/article/details/139169884)
+
++ [探索Nginx的3大魔法：如何让微服务发现与服务网格并驾齐驱？](https://blog.csdn.net/z_344791576/article/details/139043198)
+
++ [用AI比赛助手降维打击数学建模，比赛过程详细介绍，这保研不就稳了吗](https://blog.csdn.net/weixin_39032019/article/details/139213384)
+

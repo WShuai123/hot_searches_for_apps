@@ -117,3 +117,11 @@
 
 + [《波斯王子：Rouge》新视频解释其叙事和时空旅行](https://www.3dmgame.com/news/202405/3895845.html)
 
++ [任天堂将于2025年在旧金山开设官方实体店](https://www.3dmgame.com/news/202405/3895850.html)
+
++ [手绘风格肉鸽RPG街机新作《混乱斗士2》明年发售](https://www.3dmgame.com/news/202405/3895848.html)
+
++ [尼尔否定索尼官方说辞 称游戏不必成为电影](https://www.3dmgame.com/news/202405/3895849.html)
+
++ [《彩虹六号：围攻》新鲜血液赛季更新大量内容](https://www.3dmgame.com/news/202405/3895847.html)
+
