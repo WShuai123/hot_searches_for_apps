@@ -151,3 +151,11 @@
 
 + [《终极闪光：破坏者》厂商很焦虑：发行商换3次了](https://www.3dmgame.com/news/202405/3895827.html)
 
++ [PS主机名作《攻壳机动队》原声大碟公开 经典复归](https://www.3dmgame.com/news/202405/3895831.html)
+
++ [Bungie再胜一场 《命运2》作弊站点需赔偿6万多美元](https://www.3dmgame.com/news/202405/3895830.html)
+
++ [创新工场CEO李开复:三年后AI取代50%的工作](https://www.3dmgame.com/news/202405/3895829.html)
+
++ [华纳勒令一位《真人快打1》MOD视频作者删除所有内容](https://www.3dmgame.com/news/202405/3895828.html)
+

@@ -187,3 +187,13 @@
 
 + [Spring Boot Web 开发：MyBatis、数据库连接池、环境配置与 Lombok 全面解析](https://blog.csdn.net/liyananweb/article/details/139149519)
 
++ [卷积神经网络（CNN）详细介绍及其原理详解](https://blog.csdn.net/weixin_42132035/article/details/139114632)
+
++ [Centos服务器上搭建nginx负载均衡的过程及php使用sys_getloadavg获取服务器负载、检查客户端连接状态函数connection_status的应用](https://blog.csdn.net/weixin_47792780/article/details/139079222)
+
++ [MT3042 这项目我小码哥投了](https://blog.csdn.net/l141930402/article/details/139144588)
+
++ [R实验 参数检验（二）](https://blog.csdn.net/Jiangxia13/article/details/139115260)
+
++ [Kali Linux-网络安全之-XSS 跨站脚本攻击原理及 DVWA 靶机的搭建](https://blog.csdn.net/2401_84208172/article/details/139135474)
+

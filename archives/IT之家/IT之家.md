@@ -49,3 +49,5 @@
 
 + [博主展示鸿蒙 HarmonyOS NEXT 系统截图，6 月 21 日华为开发者大会 HDC.2024 正式揭晓](https://m.ithome.com/html/770778.htm)
 
++ [极氪 001 车主称被困车内 10 分钟打不开门，客服回应：正在跟进处理](https://m.ithome.com/html/770779.htm)
+
