@@ -53,3 +53,5 @@
 
 + [车还没造，大众先让小鹏赚走好几个亿](https://m.ithome.com/html/770761.htm)
 
++ [国内首次，西工大挖出 RISC-V SonicBOOM 处理器中危漏洞](https://m.ithome.com/html/770705.htm)
+

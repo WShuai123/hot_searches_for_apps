@@ -163,3 +163,7 @@
 
 + [飞利浦27寸QD-OLED显示器上架 首发低至5099元](https://www.3dmgame.com/news/202405/3895833.html)
 
++ [资深开发者：3A游戏当前处于一种尴尬的中间地带](https://www.3dmgame.com/news/202405/3895834.html)
+
++ [宫崎骏又在准备新片了 可能是怀旧冒险活剧风格](https://www.3dmgame.com/news/202405/3895835.html)
+
