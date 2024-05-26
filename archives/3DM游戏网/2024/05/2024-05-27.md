@@ -113,3 +113,7 @@
 
 + [提升画质 《黑暗之魂：重制版》重制Mod推出](https://www.3dmgame.com/news/202405/3895842.html)
 
++ [2.5D动作游戏《巴塞罗那旅馆》Steam页面开放](https://www.3dmgame.com/news/202405/3895846.html)
+
++ [《波斯王子：Rouge》新视频解释其叙事和时空旅行](https://www.3dmgame.com/news/202405/3895845.html)
+

@@ -101,3 +101,37 @@
 
 + [使用Java和XxlCrawler获取各城市月度天气情况实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/139210022)
 
++ [人工智能应用-实验6-卷积神经网络分类minst手写数据集](https://blog.csdn.net/luohaojia123/article/details/139159382)
+
++ [Kotlin 变量](https://blog.csdn.net/weixin_67575670/article/details/139156724)
+
++ [深度学习500问——Chapter09：图像分割（5）](https://blog.csdn.net/leonardotu/article/details/139149521)
+
++ [【Linux学习】深入探索进程等待与进程退出码和退出信号](https://blog.csdn.net/2301_77509762/article/details/138801026)
+
++ [Linux系统的数据库mysql启动时报错 Starting MySQL...[ERROR] The server quit without updating PID file的解决思路和方法](https://blog.csdn.net/weixin_70208651/article/details/139159665)
+
++ [听说部门来了个00后测试开发，一顿操作给我整麻了](https://blog.csdn.net/cs888zsy/article/details/139198832)
+
++ [【Linux初探】：解锁开源世界的神秘钥匙](https://blog.csdn.net/dh45498/article/details/139201115)
+
++ [基于python的k-means聚类分析算法，对文本、数据等进行聚类，有轮廓系数和手肘法检验](https://blog.csdn.net/weixin_49081159/article/details/139160246)
+
++ [机器学习大模型驱动：未来的趋势与应用](https://blog.csdn.net/a1657054242/article/details/139207634)
+
++ [Defog发布Llama-3-SQLCoder-8B，文本转SQL模型，性能比肩GPT-4，准确率超90%，消费级硬件可运行](https://blog.csdn.net/nulifancuoAI/article/details/139159342)
+
++ [数据挖掘实战-基于内容协同过滤算法的电影推荐系统](https://blog.csdn.net/m0_64336780/article/details/137437770)
+
++ [部门来了个测试开发，听说是00后，上来一顿操作给我看蒙了...](https://blog.csdn.net/zhangsiyuan1998/article/details/139199938)
+
++ [Java项目-基于springboot+vue的简历系统(源码+数据库+文档)​](https://blog.csdn.net/2401_84986890/article/details/139136825)
+
++ [分布式任务调度内的 MySQL 分页查询优化](https://blog.csdn.net/vivo_tech/article/details/139154700)
+
++ [25.zabbix升级版本4.0-5.0](https://blog.csdn.net/weixin_46253249/article/details/139126437)
+
++ [认识NXP新型微处理器：MCX工业和物联网微控制器](https://blog.csdn.net/mftang/article/details/139117840)
+
++ [猫头虎 解析：为什么AIGC在国内适合做TOB，在国外适合做TOC？](https://blog.csdn.net/qq_44866828/article/details/139205661)
+
