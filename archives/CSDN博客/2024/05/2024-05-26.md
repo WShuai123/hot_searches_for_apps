@@ -143,3 +143,5 @@
 
 + [Linux中Socket的实现（/linux-2.6.34/net/socket.c阅读笔记）](https://blog.csdn.net/weixin_72132778/article/details/139075182)
 
++ [2024年中国电机工程学会杯数学建模思路 - 案例：最短时间生产计划安排](https://blog.csdn.net/math_assistant/article/details/139155305)
+

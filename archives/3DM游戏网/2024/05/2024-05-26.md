@@ -101,3 +101,13 @@
 
 + [《战锤40K：星际战士2》没有微交易系统](https://www.3dmgame.com/news/202405/3895754.html)
 
++ [Epic游戏商城下一款免费赠送游戏似乎已提前泄露](https://www.3dmgame.com/news/202405/3895807.html)
+
++ [《攻壳机动队》将推全新动画剧集 2026年播出](https://www.3dmgame.com/news/202405/3895806.html)
+
++ [《心跳AI审讯游戏》登陆Steam AI精炼审讯模拟](https://www.3dmgame.com/news/202405/3895805.html)
+
++ [顽皮狗总监表示索尼近期采访节选扭曲了他的本意](https://www.3dmgame.com/news/202405/3895804.html)
+
++ [《水烟水雾》7月登陆PC/Switch 浪漫恋爱冒险](https://www.3dmgame.com/news/202405/3895803.html)
+

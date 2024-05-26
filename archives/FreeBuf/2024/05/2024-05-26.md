@@ -45,3 +45,5 @@
 
 + [《2024年DDoS趋势报告》：DDoS攻击规模飙升233.33%](https://www.freebuf.com/articles/401204.html)
 
++ [大模型与软件供应链安全的融合探索](https://www.freebuf.com/articles/neopoints/400852.html)
+
