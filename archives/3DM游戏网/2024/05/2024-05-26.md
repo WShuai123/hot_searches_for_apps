@@ -147,3 +147,7 @@
 
 + [《DRINKRIME》PC试玩发布 推理侦探冒险](https://www.3dmgame.com/news/202405/3895824.html)
 
++ [《围攻与沙狐》登陆Steam 银河恶魔城2D动作冒险](https://www.3dmgame.com/news/202405/3895826.html)
+
++ [《终极闪光：破坏者》厂商很焦虑：发行商换3次了](https://www.3dmgame.com/news/202405/3895827.html)
+

@@ -45,3 +45,7 @@
 
 + [华为 Pura 70 系列手机推送鸿蒙 4.2.0.162 更新：优化相机拍摄、提升触屏流畅性](https://m.ithome.com/html/770726.htm)
 
++ [刘强东回应京东严抓考勤：无法继续让大量员工“躺着睡大觉”](https://m.ithome.com/html/770789.htm)
+
++ [博主展示鸿蒙 HarmonyOS NEXT 系统截图，6 月 21 日华为开发者大会 HDC.2024 正式揭晓](https://m.ithome.com/html/770778.htm)
+
