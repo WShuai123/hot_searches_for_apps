@@ -143,3 +143,7 @@
 
 + [微软宣布告别Cortana、写字板：Win11 24H2彻底移除](https://www.3dmgame.com/news/202405/3895822.html)
 
++ [沉浸式电影感体验 《地狱之刃2》非官方VR mod发布](https://www.3dmgame.com/news/202405/3895825.html)
+
++ [《DRINKRIME》PC试玩发布 推理侦探冒险](https://www.3dmgame.com/news/202405/3895824.html)
+
