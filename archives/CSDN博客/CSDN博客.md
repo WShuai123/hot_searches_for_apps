@@ -253,3 +253,25 @@
 
 + [如何制作西班牙培训小程序，小程序培训小程序搭建全攻略教程](https://blog.csdn.net/cs57456376/article/details/139157544)
 
++ [开源大模型与闭源大模型：技术哲学的较量](https://blog.csdn.net/xiaobing259/article/details/139157032)
+
++ [【微服务】springboot 构建镜像多种模式使用详解](https://blog.csdn.net/zhangcongyi420/article/details/139188382)
+
++ [第三节 mybatis-spring-boot-starter 案例分析](https://blog.csdn.net/qq_31156277/article/details/139159842)
+
++ [.NET漏洞分析 | 绕过某和OA全局权限验证](https://blog.csdn.net/ahhacker86/article/details/139137097)
+
++ [.NET 通过 OpenTelemetry Traces 对应用程序进行追踪](https://blog.csdn.net/qq_39360549/article/details/139149248)
+
++ [spring set注入专题](https://blog.csdn.net/Lllllfffffbbbbb/article/details/139158738)
+
++ [Kubernetes——Pod详解](https://blog.csdn.net/G_D0120/article/details/139150106)
+
++ [AI大模型学习之白话笔记（四）-- Prompt Engineering](https://blog.csdn.net/Langchain/article/details/139143012)
+
++ [金丝雀发布（灰度发布）介绍 及 声明式管理方法简介](https://blog.csdn.net/wyq2070857323/article/details/139129843)
+
++ [在内存中的数据存储](https://blog.csdn.net/2301_81236551/article/details/138977723)
+
++ [如何制作软件编程培训小程序，python培训小程序应该这样做](https://blog.csdn.net/cs57456376/article/details/139157738)
+

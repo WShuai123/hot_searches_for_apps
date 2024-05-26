@@ -119,3 +119,5 @@
 
 + [Lil foodies Enamel pins](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
