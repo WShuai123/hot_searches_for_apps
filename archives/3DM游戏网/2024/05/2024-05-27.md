@@ -107,3 +107,9 @@
 
 + [AMD显卡品牌迪兰恒进彻底死亡！官网过期关闭](https://www.3dmgame.com/news/202405/3895839.html)
 
++ [开发商预告明年会有《ToHeart》《传颂之物》新作](https://www.3dmgame.com/news/202405/3895844.html)
+
++ [爱好者将《生化危机：逃出生天File2》逆向工程化](https://www.3dmgame.com/news/202405/3895843.html)
+
++ [提升画质 《黑暗之魂：重制版》重制Mod推出](https://www.3dmgame.com/news/202405/3895842.html)
+
