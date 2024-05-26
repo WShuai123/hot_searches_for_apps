@@ -145,3 +145,9 @@
 
 + [2024年中国电机工程学会杯数学建模思路 - 案例：最短时间生产计划安排](https://blog.csdn.net/math_assistant/article/details/139155305)
 
++ [【DevOps】深入浅出：Jenkins 性能监控全解析](https://blog.csdn.net/benshu_001/article/details/139130506)
+
++ [【Spring Boot】使用 Redis + Cafeine 实现二级缓存](https://blog.csdn.net/hui_zai_/article/details/139114489)
+
++ [二开可商业化的 AI Web 应用：邀请与代理分销模式，轻松赚取丰厚佣金](https://blog.csdn.net/xianyu120/article/details/139140249)
+

@@ -111,3 +111,19 @@
 
 + [《水烟水雾》7月登陆PC/Switch 浪漫恋爱冒险](https://www.3dmgame.com/news/202405/3895803.html)
 
++ [《DOTA2》国内30岁玩家 成功从统帅冲到了冠绝](https://www.3dmgame.com/news/202405/3895813.html)
+
++ [《Weyrdlets》Steam试玩发布 休闲桌面宠物育成](https://www.3dmgame.com/news/202405/3895815.html)
+
++ [消息称微软将允许第三方厂商生产属于自己的Xbox主机](https://www.3dmgame.com/news/202405/3895814.html)
+
++ [爆料称微软计划让《使命召唤21》登陆任天堂新主机](https://www.3dmgame.com/news/202405/3895812.html)
+
++ [《比佛利山超级警探4》首曝官方中字预告 7月3日首播](https://www.3dmgame.com/news/202405/3895811.html)
+
++ [小修小改！《暗黑破坏神4》1.4.1补丁5月28日发布](https://www.3dmgame.com/news/202405/3895810.html)
+
++ [麦当劳对讲机玩具爆火：太多人抢导致App一度崩溃](https://www.3dmgame.com/news/202405/3895809.html)
+
++ [《深渊绝赌：千王处刑》Steam页面上线 推理冒险新游](https://www.3dmgame.com/news/202405/3895808.html)
+
