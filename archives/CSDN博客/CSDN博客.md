@@ -163,3 +163,9 @@
 
 + [Elasticsearch集群和Logstash、Kibana部署](https://blog.csdn.net/weixin_45814478/article/details/139158004)
 
++ [[自动驾驶技术]-5 Tesla自动驾驶方案之算法（AI Day 2021）](https://blog.csdn.net/wendywm0496/article/details/139151886)
+
++ [Windows电脑搭建自己的Plex流媒体服务并远程播放本地视频](https://blog.csdn.net/2301_77485708/article/details/139154485)
+
++ [SaToken+SpringBoot+Redis前后端分离登录认证](https://blog.csdn.net/m0_50281408/article/details/139147077)
+
