@@ -133,3 +133,13 @@
 
 + [五步定位性能瓶颈](https://blog.csdn.net/qq_38420688/article/details/139157882)
 
++ [AI智能体研发之路-模型篇（二）：DeepSeek-V2-Chat 训练与推理实战](https://blog.csdn.net/weixin_48007632/article/details/139131558)
+
++ [一文教你基于LangChain和ChatGLM3搭建本地知识库问答](https://blog.csdn.net/devcloud/article/details/139139445)
+
++ [03. Spring 事务管理](https://blog.csdn.net/weixin_45594025/article/details/139120822)
+
++ [数据库之增删改查基本查询语句](https://blog.csdn.net/weixin_40390585/article/details/139143817)
+
++ [Linux中Socket的实现（/linux-2.6.34/net/socket.c阅读笔记）](https://blog.csdn.net/weixin_72132778/article/details/139075182)
+

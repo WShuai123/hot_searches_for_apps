@@ -27,3 +27,7 @@
 
 + [9.69 万元起：吉利 ICON 玲珑上市，新增發灰、财粉两款车身配色](https://m.ithome.com/html/770682.htm)
 
++ [小米汽车：SU7 Pro 选装电动尾翼后第四个按键为 360 全景影像，后续 OTA 带来物理按键自定义](https://m.ithome.com/html/770706.htm)
+
++ [估值飙至 138 亿美元，27 岁天才少年再获融资：数据标注会是下一个风口？](https://m.ithome.com/html/770704.htm)
+

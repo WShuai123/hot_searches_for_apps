@@ -41,3 +41,7 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/401809.html)
+
++ [《2024年DDoS趋势报告》：DDoS攻击规模飙升233.33%](https://www.freebuf.com/articles/401204.html)
+
