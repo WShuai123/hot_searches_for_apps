@@ -49,3 +49,25 @@
 
 + [St. John the Beloved Secondary Logo](https://dribbble.com/shots/)
 
++ [Recent lettering works vol. 9](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Glug](https://dribbble.com/shots/)
+
++ [Special Edition](https://dribbble.com/shots/)
+
++ [Glenkenny Whiskey Label rendered by Steven Noble](https://dribbble.com/shots/)
+
++ [Folk Music](https://dribbble.com/shots/)
+
++ [Wishing that all your days are good hair days!](https://dribbble.com/shots/)
+
++ [Zeke's Village Market: Seasonal Apparel](https://dribbble.com/shots/)
+
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [save](https://dribbble.com/shots/)
+
++ [Pedro](https://dribbble.com/shots/)
+

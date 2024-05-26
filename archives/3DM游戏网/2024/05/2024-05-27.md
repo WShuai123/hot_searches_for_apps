@@ -101,3 +101,9 @@
 
 + [《不朽者传奇》发布更新档 全平台版本加入FSR3支持](https://www.3dmgame.com/news/202405/3895788.html)
 
++ [索尼或在PS游戏发布会公布的信息 《生化9》等](https://www.3dmgame.com/news/202405/3895841.html)
+
++ [《主播女孩重度依赖》开发商新作《少年的终结》9月发售](https://www.3dmgame.com/news/202405/3895840.html)
+
++ [AMD显卡品牌迪兰恒进彻底死亡！官网过期关闭](https://www.3dmgame.com/news/202405/3895839.html)
+

@@ -25,3 +25,5 @@
 
 + [迪兰官网现已无法访问：最后的产品为 RX 6650 XT X 战将、RX 6750 XT X 战神显卡](https://m.ithome.com/html/770840.htm)
 
++ [德国太阳能发电过剩，电价跌至负值](https://m.ithome.com/html/770854.htm)
+
