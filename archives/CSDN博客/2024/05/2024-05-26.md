@@ -237,3 +237,19 @@
 
 + [【python】python社交交友平台系统设计与实现（源码+数据库）【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/139158954)
 
++ [【MyBatis】参数处理](https://blog.csdn.net/2201_75743716/article/details/139159535)
+
++ [使用TensorFlow Lite Micro流程记录(带源码)](https://blog.csdn.net/ZhaoDongyu_AK47/article/details/139148425)
+
++ [构建Python中的分布式爬虫系统Scrapy与分布式任务队列的结合](https://blog.csdn.net/weixin_52908342/article/details/139180504)
+
++ [C++小游戏 合集](https://blog.csdn.net/huaxuanwu1111/article/details/136219734)
+
++ [2024电工杯数学建模 - 案例：最短时间生产计划安排](https://blog.csdn.net/m0_71450098/article/details/139156614)
+
++ [Android 应用开发阶段性学习成果总结](https://blog.csdn.net/weixin_57605043/article/details/139151097)
+
++ [2024电工杯B题：大学生平衡膳食食谱的优化设计及评价](https://blog.csdn.net/weixin_46211269/article/details/139176283)
+
++ [如何制作西班牙培训小程序，小程序培训小程序搭建全攻略教程](https://blog.csdn.net/cs57456376/article/details/139157544)
+

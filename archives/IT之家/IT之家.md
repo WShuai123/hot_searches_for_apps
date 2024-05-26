@@ -55,3 +55,5 @@
 
 + [国内首次，西工大挖出 RISC-V SonicBOOM 处理器中危漏洞](https://m.ithome.com/html/770705.htm)
 
++ [华为李小龙：EMUI9.1.1 及 HarmonyOS 手机均支持室内定位](https://m.ithome.com/html/770799.htm)
+
