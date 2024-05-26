@@ -47,3 +47,5 @@
 
 + [大模型与软件供应链安全的融合探索](https://www.freebuf.com/articles/neopoints/400852.html)
 
++ [漏洞分析 | kkFileView远程代码执行漏洞](https://www.freebuf.com/vuls/401307.html)
+
