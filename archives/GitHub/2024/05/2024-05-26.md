@@ -51,3 +51,35 @@
 
 + [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 
++ [THU-MIG / yolov10](https://github.com/THU-MIG/yolov10)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [Dataherald / dataherald](https://github.com/Dataherald/dataherald)
+
++ [mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune)
+
++ [lavague-ai / LaVague](https://github.com/lavague-ai/LaVague)
+
++ [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
++ [HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs)
+
++ [vulhub / vulhub](https://github.com/vulhub/vulhub)
+
++ [dataelement / bisheng](https://github.com/dataelement/bisheng)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [es3n1n / no-defender](https://github.com/es3n1n/no-defender)
+
++ [maitrix-org / Pandora](https://github.com/maitrix-org/Pandora)
+
++ [termux / termux-packages](https://github.com/termux/termux-packages)
+
++ [continuedev / continue](https://github.com/continuedev/continue)
+

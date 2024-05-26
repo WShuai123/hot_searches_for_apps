@@ -133,3 +133,5 @@
 
 + [“神说要有光”](http://www.acfun.cn/v/ac44648484)
 
++ [【辣椒酱】来唱一下越南语歌《Xin Đừng Nhấc Máy 》](http://www.acfun.cn/v/ac44648981)
+

@@ -159,3 +159,5 @@
 
 + [华纳勒令一位《真人快打1》MOD视频作者删除所有内容](https://www.3dmgame.com/news/202405/3895828.html)
 
++ [AMD还有一款新显卡RX 7650M XT：首次外置专用](https://www.3dmgame.com/news/202405/3895832.html)
+
