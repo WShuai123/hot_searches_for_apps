@@ -115,3 +115,11 @@
 
 + [香港动作电影对动作游戏的影响有多大？【老弦乱弹】第06季第03集（街机厅往事之三）](http://www.acfun.cn/v/ac44644283)
 
++ [英雄救美，传递正能量](http://www.acfun.cn/v/ac44644432)
+
++ [【AC独家】是AcFun让你变成这样的吗？](http://www.acfun.cn/v/ac44646353)
+
++ [姐夫皮肤挺黑啊](http://www.acfun.cn/v/ac44644441)
+
++ [这就是速度与激情](http://www.acfun.cn/v/ac44644404)
+

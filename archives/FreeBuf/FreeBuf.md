@@ -49,3 +49,5 @@
 
 + [漏洞分析 | kkFileView远程代码执行漏洞](https://www.freebuf.com/vuls/401307.html)
 
++ [如何使用Burpscript向Burp Suite添加动态脚本功能](https://www.freebuf.com/sectool/401565.html)
+

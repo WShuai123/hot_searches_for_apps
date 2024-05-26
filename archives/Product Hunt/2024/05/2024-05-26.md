@@ -101,3 +101,7 @@
 
 + [Stacks - Your search co-pilot](https://www.producthunt.com/posts/stacks-your-search-co-pilot)
 
++ [The Twelve Expectations](https://www.producthunt.com/posts/the-twelve-expectations)
+
++ [Forloop.ai](https://www.producthunt.com/posts/forloop-ai)
+

@@ -41,3 +41,7 @@
 
 + [比亚迪 M6 无伪装实车曝光，预计为宋 MAX 换标](https://m.ithome.com/html/770735.htm)
 
++ [美国公司拆解比亚迪海鸥车型，直言这个价格“美国造不出来”](https://m.ithome.com/html/770769.htm)
+
++ [华为 Pura 70 系列手机推送鸿蒙 4.2.0.162 更新：优化相机拍摄、提升触屏流畅性](https://m.ithome.com/html/770726.htm)
+

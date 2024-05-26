@@ -169,3 +169,7 @@
 
 + [SaToken+SpringBoot+Redis前后端分离登录认证](https://blog.csdn.net/m0_50281408/article/details/139147077)
 
++ [Django中的社交登录集成：OAuth与第三方认证的实践](https://blog.csdn.net/weixin_52908342/article/details/139148867)
+
++ [创建vue工程、Vue项目的目录结构、Vue项目-启动、API风格](https://blog.csdn.net/qq_30353203/article/details/138328530)
+

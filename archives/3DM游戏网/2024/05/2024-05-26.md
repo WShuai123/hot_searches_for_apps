@@ -139,3 +139,7 @@
 
 + [《城市：天际线2》将优化游戏经济系统 但有一些代价](https://www.3dmgame.com/news/202405/3895820.html)
 
++ [拉瑞安：尊重每一位玩家，包括跳过对话和不愿学机制的](https://www.3dmgame.com/news/202405/3895823.html)
+
++ [微软宣布告别Cortana、写字板：Win11 24H2彻底移除](https://www.3dmgame.com/news/202405/3895822.html)
+
