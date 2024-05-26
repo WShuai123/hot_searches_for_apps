@@ -161,3 +161,5 @@
 
 + [AMD还有一款新显卡RX 7650M XT：首次外置专用](https://www.3dmgame.com/news/202405/3895832.html)
 
++ [飞利浦27寸QD-OLED显示器上架 首发低至5099元](https://www.3dmgame.com/news/202405/3895833.html)
+

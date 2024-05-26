@@ -203,3 +203,37 @@
 
 + [docker三种自定义网络(虚拟网络) & overlay实现原理](https://blog.csdn.net/qq_42152032/article/details/139158796)
 
++ [【LLM多模态】LLava模型架构和训练过程 | CLIP模型](https://blog.csdn.net/qq_35812205/article/details/136586853)
+
++ [指纹识别概念解析](https://blog.csdn.net/mickey2007/article/details/138695045)
+
++ [[自动驾驶技术]-6 Tesla自动驾驶方案之硬件（AI Day 2021）](https://blog.csdn.net/wendywm0496/article/details/139157048)
+
++ [数据仓库实验四：聚类分析实验](https://blog.csdn.net/Morse_Chen/article/details/139152128)
+
++ [大创项目推荐 深度学习手势识别 - yolo python opencv cnn 机器视觉](https://blog.csdn.net/laafeer/article/details/139156621)
+
++ [K-means聚类模型教程（个人总结版）](https://blog.csdn.net/qq_16064553/article/details/139159414)
+
++ [2024年5月大语言模型论文推荐：模型优化、缩放到推理、基准测试和增强性能](https://blog.csdn.net/m0_46510245/article/details/139211565)
+
++ [智能车竞赛指南：从零到一，驶向自动驾驶的未来](https://blog.csdn.net/black_cat7/article/details/139011312)
+
++ [深入探索时间序列预测之谜，从RNN挑战到LSTM、GRU的革新路径（附matlab代码实现）](https://blog.csdn.net/2302_81053261/article/details/139159093)
+
++ [一起学习大模型 - 从底层了解Token Embeddings的原理（2）](https://blog.csdn.net/kljyrx/article/details/139146920)
+
++ [Springboot项目——网页版本五子棋](https://blog.csdn.net/2201_75456895/article/details/139129303)
+
++ [自定义 Spring AOP 切面实战（鉴权、记录日志）](https://blog.csdn.net/weixin_42118323/article/details/139155404)
+
++ [OFDM 802.11a的FPGA实现（二十一）发射主控模块MCU（含代码）](https://blog.csdn.net/xxqlover/article/details/139155642)
+
++ [混合现实技术文档：关键技术 (4)](https://blog.csdn.net/yyyyyy3802/article/details/139155245)
+
++ [3D工业视觉](https://blog.csdn.net/qq_41204464/article/details/139069500)
+
++ [详解ArcGIS 水文分析模型构建](https://blog.csdn.net/weixin_42984235/article/details/139155381)
+
++ [【python】python社交交友平台系统设计与实现（源码+数据库）【独一无二】](https://blog.csdn.net/weixin_44244190/article/details/139158954)
+
