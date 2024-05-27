@@ -341,3 +341,31 @@
 
 + [【UE5.4】猫猫都能看懂的Android打包新版攻略](https://blog.csdn.net/qq_35587645/article/details/139207695)
 
++ [数据挖掘实战-基于余弦相似度的印度美食推荐系统](https://blog.csdn.net/m0_64336780/article/details/137450506)
+
++ [语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(一)音频数据编码与预处理](https://blog.csdn.net/master_hunter/article/details/139242246)
+
++ [spring suite gitlab使用手册](https://blog.csdn.net/dongjing991/article/details/139237877)
+
++ [【Fiddler抓包工具】第五节.安卓、IOS抓包+fildder插件](https://blog.csdn.net/qq_64861334/article/details/139240924)
+
++ [使用 Elasticsearch 作为 Azure OpenAI On Your Data 的向量数据库](https://blog.csdn.net/UbuntuTouch/article/details/139234265)
+
++ [【机器学习300问】100、怎么理解卷积神经网络CNN中的池化操作？](https://blog.csdn.net/qq_39780701/article/details/139220829)
+
++ [YOLOv10：全面的效率-准确性驱动模型设计](https://blog.csdn.net/qq_41739364/article/details/139237740)
+
++ [【SpringCloud】负载均衡](https://blog.csdn.net/weixin_37833693/article/details/139234715)
+
++ [云原生Kubernetes: 云主机部署K8S 1.30版本 单Master架构](https://blog.csdn.net/cronaldo91/article/details/139235168)
+
++ [【Spring Cloud】Feign整合服务容错中间件Sentinel](https://blog.csdn.net/Qingai521/article/details/139024263)
+
++ [从零自制docker-15-【实现 mydocker run -d 支持后台运行容器】](https://blog.csdn.net/llovewuzhengzi/article/details/139237660)
+
++ [Windows 10 IoT Enterprise 2019 LTSC High End OEM Software 详细介绍](https://blog.csdn.net/Pearflower_/article/details/139239354)
+
++ [超融合架构下，虚拟机高可用机制如何构建？](https://blog.csdn.net/weixin_43696211/article/details/139238293)
+
++ [.net core 8 配置中心热部署以及集成Consul实现微服务式调用](https://blog.csdn.net/weixin_63568353/article/details/139243277)
+

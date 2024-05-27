@@ -51,3 +51,7 @@
 
 + [古尔曼：苹果 iOS 18 将提供更多主屏幕定制功能，支持更改 App 图标颜色](https://m.ithome.com/html/770848.htm)
 
++ [消息称保时捷三家中国经销商联合抗议，要求对亏损卖车提供补贴](https://m.ithome.com/html/770939.htm)
+
++ [360 行车记录仪 V9 上架：支持行车运动双模式 / 4K 画质，预售 499 元](https://m.ithome.com/html/770856.htm)
+
