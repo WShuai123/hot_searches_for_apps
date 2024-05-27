@@ -71,3 +71,13 @@
 
 + [Plant Shop Logo Concept](https://dribbble.com/shots/)
 
++ [Wild Wild West (PSE '24)](https://dribbble.com/shots/)
+
++ [r.e.m. beauty: Hypernova Hotel](https://dribbble.com/shots/)
+
++ [Print is Not Dead](https://dribbble.com/shots/)
+
++ [Sketch](https://dribbble.com/shots/)
+
++ [Storytelling with Typography](https://dribbble.com/shots/)
+
