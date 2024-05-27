@@ -151,3 +151,11 @@
 
 + [《星球大战：法外狂徒》新截图 死亡士兵登场亮相](https://www.3dmgame.com/news/202405/3895854.html)
 
++ [《真女神转生5：复仇》恶魔皮克希介绍 可爱妖精！](https://www.3dmgame.com/news/202405/3895867.html)
+
++ [《刺客信条：影》新概念图欣赏 展示真实的武士时代](https://www.3dmgame.com/news/202405/3895864.html)
+
++ [平台解密游戏《CATO 黄油猫》推出最新试玩Demo 包含24个关卡](https://www.3dmgame.com/news/202405/3895866.html)
+
++ [《死亡之夜》5月31日Steam正式推出 好评末日生存](https://www.3dmgame.com/news/202405/3895865.html)
+

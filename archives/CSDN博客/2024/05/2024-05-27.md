@@ -195,3 +195,17 @@
 
 + [C从零开始实现贪吃蛇大作战](https://blog.csdn.net/CNDS_lili/article/details/139023215)
 
++ [指纹识别系统架构](https://blog.csdn.net/mickey2007/article/details/138696904)
+
++ [智慧之选：开源与闭源大模型的未来探索](https://blog.csdn.net/Srlua/article/details/139154191)
+
++ [【Linux系列】软链接使用](https://blog.csdn.net/qyj19920704/article/details/139130132)
+
++ [【微服务】springboot 构建docker镜像多模式使用详解](https://blog.csdn.net/zhangcongyi420/article/details/139188382)
+
++ [【赠书第24期】Java项目开发实战（微视频版）](https://blog.csdn.net/qq_20016593/article/details/139186287)
+
++ [PyTorch深度学习实战（44）——基于 DETR 的目标检测模型](https://blog.csdn.net/LOVEmy134611/article/details/139225191)
+
++ [AI重塑保险业未来：机器学习在风险评估、欺诈检测与客户服务中的深度应用](https://blog.csdn.net/g310773517/article/details/139217990)
+
