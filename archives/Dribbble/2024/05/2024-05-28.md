@@ -81,3 +81,11 @@
 
 + [Storytelling with Typography](https://dribbble.com/shots/)
 
++ [Recent lettering works vol. 9](https://dribbble.com/shots/)
+
++ [Vampire Logo](https://dribbble.com/shots/)
+
++ [Productivity Spot Illustrations Part 2](https://dribbble.com/shots/)
+
++ [Lost in translation](https://dribbble.com/shots/)
+

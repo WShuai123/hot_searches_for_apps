@@ -101,3 +101,7 @@
 
 + [拉瑞安称开发《博德之门3》时 有时确实需要加班](https://www.3dmgame.com/news/202405/3895857.html)
 
++ [《上古卷轴5：特别版》Steam特惠促销 仅售33元](https://www.3dmgame.com/news/202405/3895908.html)
+
++ [《波斯王子：Rogue》EA版上线 发售预告发布](https://www.3dmgame.com/news/202405/3895907.html)
+
