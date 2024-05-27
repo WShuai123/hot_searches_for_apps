@@ -187,3 +187,13 @@
 
 + [传闻：FIFA授权2K开发足球游戏 预计今年年内发售](https://www.3dmgame.com/news/202405/3895881.html)
 
++ [《宝可梦：朱紫》新泰拉挑战5月31日启动 最强巨沼怪参战](https://www.3dmgame.com/news/202405/3895884.html)
+
++ [《不法之徒》制作人认为游戏失败的主因是《守望先锋》的推出](https://www.3dmgame.com/news/202405/3895885.html)
+
++ [《使命召唤：黑色行动6》真人预告即将发布 或以海湾战争为背景](https://www.3dmgame.com/news/202405/3895886.html)
+
++ [《熊家餐馆》第三季新预告放出 6月27日开播 新餐馆混乱依旧](https://www.3dmgame.com/news/202405/3895882.html)
+
++ [电影《加菲猫家族》新预告 宣布国内定档6月1日](https://www.3dmgame.com/news/202405/3895883.html)
+

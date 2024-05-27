@@ -63,3 +63,7 @@
 
 + [多达 500 GB，印度军方和警方生物识别数据泄露](https://www.freebuf.com/news/401925.html)
 
++ [企业安全 | 浅谈安全团队建设](https://www.freebuf.com/articles/es/386257.html)
+
++ [美国医疗系统大事件：约三分之一的公民信息泄露](https://www.freebuf.com/news/401951.html)
+

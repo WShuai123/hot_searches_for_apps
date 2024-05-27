@@ -263,3 +263,25 @@
 
 + [yolov8+PyQt5实现车辆实时追踪，车速测量。](https://blog.csdn.net/qq_36426741/article/details/139231082)
 
++ [宝宝计划-软件app历史数据分析篇章二](https://blog.csdn.net/ly273329124/article/details/139234817)
+
++ [【Qt】PDF报告设计、预览和打印](https://blog.csdn.net/qq_37183287/article/details/139229281)
+
++ [SwiftUI 5.0（iOS 17）进一步定制 TipKit 外观让撸码如虎添翼](https://blog.csdn.net/mydo/article/details/139227594)
+
++ [遗留和现代数据库中的向量搜索](https://blog.csdn.net/wang_x_f911/article/details/139235439)
+
++ [AI+算力：科技新时代的创新引擎](https://blog.csdn.net/mzl_18353516147/article/details/139235754)
+
++ [Yolov5——训练目标检测模型详解（含完整源码）](https://blog.csdn.net/qq_46137895/article/details/139236067)
+
++ [SUPRA：无须额外训练，将Transformer变为高效RNN，推理速度倍增](https://blog.csdn.net/m0_46510245/article/details/139233557)
+
++ [Citrix+XenServer+XenDesktop云桌面部署教程](https://blog.csdn.net/Sakatain/article/details/139007595)
+
++ [Monocular Model-Based 3D Tracking of Rigid Objects：2005年综述](https://blog.csdn.net/weixin_45834800/article/details/139168331)
+
++ [K8S-pod资源 探针](https://blog.csdn.net/m0_75067030/article/details/139199545)
+
++ [Alertmanager接入钉钉和飞书告警](https://blog.csdn.net/Real_cTo/article/details/139179597)
+

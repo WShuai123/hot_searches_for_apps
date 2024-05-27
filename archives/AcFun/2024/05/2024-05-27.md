@@ -99,3 +99,7 @@
 
 + [《Whataya Want From Me》降维打击《歌手》亚当：我还没出力你们就倒下了 ？？！！！](http://www.acfun.cn/v/ac44649887)
 
++ [一生只拍了一部电影，还被禁止上映！中国最倒霉的导演！《我是你爸爸》](http://www.acfun.cn/v/ac44649759)
+
++ [一把琵琶，浪迹天涯](http://www.acfun.cn/v/ac44651471)
+
