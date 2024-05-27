@@ -319,3 +319,19 @@
 
 + [在Ant Design Vue 的Popconfirm组件中使用TransitionGroup 的 bug 和解决方案](https://blog.csdn.net/weixin_43938253/article/details/139235036)
 
++ [【机器学习】Python中的决策树算法探索](https://blog.csdn.net/qq_44214428/article/details/139237359)
+
++ [文心智能体之情感领航员：你的智能情感导师](https://blog.csdn.net/qq_35427589/article/details/139236665)
+
++ [汇编原理（二）寄存器——CPU工作原理](https://blog.csdn.net/xxlyss/article/details/139222542)
+
++ [Redis 主从复制](https://blog.csdn.net/q322359/article/details/139196409)
+
++ [fpga系列 HDL: 05 阻塞赋值(=)与非阻塞赋值(＜=)](https://blog.csdn.net/ResumeProject/article/details/139202480)
+
++ [ArcGIS提取流域边界以及绘制土地利用类型](https://blog.csdn.net/Fedol/article/details/138222235)
+
++ [基于微信小程序+ JAVA后端实现的【医院挂号预约系统】 设计与实现 （内附设计LW + PPT+ 源码+ 演示视频 下载）](https://blog.csdn.net/Zuourple/article/details/139236475)
+
++ [基于SqlSugar的开发框架循序渐进介绍（20）-- 在基于UniApp+Vue的移动端实现多条件查询的处理](https://blog.csdn.net/aaa123aaasqw/article/details/139237090)
+

@@ -207,3 +207,13 @@
 
 + [《勇者斗恶龙3 HD-2D重制版》先导预告 将登陆主机和PC](https://www.3dmgame.com/news/202405/3895889.html)
 
++ [科乐美称如果重制版获得成功 就可能会有《合金装备》新作](https://www.3dmgame.com/news/202405/3895896.html)
+
++ [《3番线》6月登陆Steam 类8番出口恐怖解谜新游](https://www.3dmgame.com/news/202405/3895895.html)
+
++ [大宇舍3A制作转向精致单机作品 新任总经理展望未来](https://www.3dmgame.com/news/202405/3895894.html)
+
++ [马斯克AI公司完成60亿美元融资 估值已达180亿美元](https://www.3dmgame.com/news/202405/3895893.html)
+
++ [AMD Zen5处理器又又改名了！变着花样领先Intel一代](https://www.3dmgame.com/news/202405/3895892.html)
+
