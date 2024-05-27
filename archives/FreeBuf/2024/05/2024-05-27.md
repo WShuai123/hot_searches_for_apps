@@ -49,3 +49,13 @@
 
 + [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
 
++ [新型恶意软件 Gipy 出现，针对人工智能语音生成器应用程序](https://www.freebuf.com/news/401931.html)
+
++ [研究称苹果的定位系统能够泄露用户行踪](https://www.freebuf.com/news/401917.html)
+
++ [amdc6766组织来袭，供应链投毒攻击再升级](https://www.freebuf.com/articles/network/401262.html)
+
++ [转发 | 自然资源部发布《智能网联汽车时空数据安全处理基本要求（征求意见稿）》](https://www.freebuf.com/news/401871.html)
+
++ [转发 | 工业和信息化部印发《工业和信息化领域数据安全风险评估实施细则（试行）》](https://www.freebuf.com/news/401842.html)
+

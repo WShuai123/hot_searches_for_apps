@@ -39,3 +39,5 @@
 
 + [消息称小米 Redmi K80 Pro 手机配骁龙 8 Gen 4 + 2K 屏，搭 5500 mAh 电池支持 120W 充电](https://m.ithome.com/html/770889.htm)
 
++ [华为余承东：问界新 M7 Max 焕新版将带来百万豪车都不具备的移动“音乐厅”](https://m.ithome.com/html/770887.htm)
+
