@@ -49,3 +49,25 @@
 
 + [Purple Mecha](https://dribbble.com/shots/)
 
++ [1950's vibe road trip scene](https://dribbble.com/shots/)
+
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [Jake's Carribean Rum](https://dribbble.com/shots/)
+
++ [Mexico City Vibes](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Bubble Bliss](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [Iabet](https://dribbble.com/shots/)
+
++ [Zeke's Village Market: Seasonal Apparel](https://dribbble.com/shots/)
+
++ [SCB 2025](https://dribbble.com/shots/)
+
++ [Plant Shop Logo Concept](https://dribbble.com/shots/)
+
