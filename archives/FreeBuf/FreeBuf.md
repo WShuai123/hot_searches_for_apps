@@ -41,3 +41,7 @@
 
 + [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
 
++ [FreeBuf早报 | 苹果解释已删除照片“复活”问题；微软必应宕机事件波及多项服务](https://www.freebuf.com/news/401830.html)
+
++ [APP抓包渗透测试首尝试](https://www.freebuf.com/articles/web/401654.html)
+

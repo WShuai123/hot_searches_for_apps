@@ -125,3 +125,9 @@
 
 + [《彩虹六号：围攻》新鲜血液赛季更新大量内容](https://www.3dmgame.com/news/202405/3895847.html)
 
++ [画面会有提升吗？《宣誓》已转向虚幻5.3引擎开发](https://www.3dmgame.com/news/202405/3895853.html)
+
++ [索尼与土耳其工作室合作开发新动作游戏 基于突厥神话](https://www.3dmgame.com/news/202405/3895852.html)
+
++ [新版本继续称王！《DOTA2》梦幻联赛S23 Falcons 3:0 GG夺冠](https://www.3dmgame.com/news/202405/3895851.html)
+

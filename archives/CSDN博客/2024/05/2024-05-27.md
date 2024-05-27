@@ -177,3 +177,15 @@
 
 + [用AI比赛助手降维打击数学建模，比赛过程详细介绍，这保研不就稳了吗](https://blog.csdn.net/weixin_39032019/article/details/139213384)
 
++ [深度神经网络详解](https://blog.csdn.net/weixin_42132035/article/details/139157612)
+
++ [【AI前沿洞察】大模型降价](https://blog.csdn.net/AI_Gump/article/details/139157250)
+
++ [数据赋能（100）——概念：数据赋能业务、数据应用](https://blog.csdn.net/lh1793/article/details/138770271)
+
++ [虚拟设备和物理平台之间的资源分配](https://blog.csdn.net/weixin_40539956/article/details/139155513)
+
++ [Spring Cloud应用框架](https://blog.csdn.net/qq_41256535/article/details/139144429)
+
++ [在Linux系统上使用Nginx](https://blog.csdn.net/weixin_61468920/article/details/139137252)
+
