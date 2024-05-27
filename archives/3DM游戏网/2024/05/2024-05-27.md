@@ -179,3 +179,5 @@
 
 + [玩家推测《勇者斗恶龙12》被砍 SE并未明确回应](https://www.3dmgame.com/news/202405/3895871.html)
 
++ [英伟达将提前导入FOPLP封装技术：2025年应用于GB200](https://www.3dmgame.com/news/202405/3895878.html)
+

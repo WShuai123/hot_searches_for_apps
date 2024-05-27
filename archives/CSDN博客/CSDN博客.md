@@ -215,3 +215,15 @@
 
 + [【Linux】LAMP集群分布式安全方案](https://blog.csdn.net/2302_76195174/article/details/139147518)
 
++ [Golang单元测试](https://blog.csdn.net/chenlong_cxy/article/details/137794336)
+
++ [【ML Olympiad】预测地震破坏——根据建筑物位置和施工情况预测地震对建筑物造成的破坏程度](https://blog.csdn.net/pdsu_Zhe/article/details/139215733)
+
++ [【网络协议】应用层协议--HTTP](https://blog.csdn.net/2202_75795446/article/details/139128676)
+
++ [python基于深度学习的聊天机器人设计](https://blog.csdn.net/liudefang/article/details/139222478)
+
++ [计算机系统概论](https://blog.csdn.net/JAZJD/article/details/139222748)
+
++ [【机器学习结合AI绘画工具】——开启艺术创作的新纪元](https://blog.csdn.net/2303_77720864/article/details/139161930)
+

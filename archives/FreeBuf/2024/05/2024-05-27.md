@@ -47,3 +47,5 @@
 
 + [探索dumplsass的加密免杀](https://www.freebuf.com/articles/system/401740.html)
 
++ [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
+
