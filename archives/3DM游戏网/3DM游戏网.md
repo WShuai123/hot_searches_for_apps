@@ -197,3 +197,13 @@
 
 + [电影《加菲猫家族》新预告 宣布国内定档6月1日](https://www.3dmgame.com/news/202405/3895883.html)
 
++ [CDPR总监：工作室最优秀开发者中很多都是Mod作者](https://www.3dmgame.com/news/202405/3895890.html)
+
++ [知乎最新变动：PC网页端非登录用户已无法查看回答全文](https://www.3dmgame.com/news/202405/3895891.html)
+
++ [堀井雄二回应玩家担心 明确《勇者斗恶龙12》仍在开发](https://www.3dmgame.com/news/202405/3895887.html)
+
++ [吉利李书福曾呼吁：国内部分城市陆续解禁摩托车](https://www.3dmgame.com/news/202405/3895888.html)
+
++ [《勇者斗恶龙3 HD-2D重制版》先导预告 将登陆主机和PC](https://www.3dmgame.com/news/202405/3895889.html)
+

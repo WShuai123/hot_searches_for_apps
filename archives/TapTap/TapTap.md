@@ -23,3 +23,5 @@
 
 + [地下城与勇士：起源](https://www.taptap.cn/app/151294)
 
++ [西游：笔绘西行](https://www.taptap.cn/app/225807)
+

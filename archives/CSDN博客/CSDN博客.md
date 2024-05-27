@@ -285,3 +285,37 @@
 
 + [Alertmanager接入钉钉和飞书告警](https://blog.csdn.net/Real_cTo/article/details/139179597)
 
++ [爬山算法介绍](https://blog.csdn.net/ak2111/article/details/139225633)
+
++ [golang、php，laravel框架对接stripe海外支付接口的总结和流程（通俗易懂）](https://blog.csdn.net/qq_41672878/article/details/139235497)
+
++ [安卓开发日志采集和分析面面谈](https://blog.csdn.net/chivalrousman/article/details/139181560)
+
++ [Linux网络编程：应用层协议|HTTPS](https://blog.csdn.net/weixin_73234157/article/details/139205264)
+
++ [数据挖掘案例-航空公司客户价值分析](https://blog.csdn.net/weixin_61587867/article/details/139237499)
+
++ [【iOS】Block总结](https://blog.csdn.net/weixin_72437555/article/details/139223836)
+
++ [深度解析：从概念到变革——Transformer大模型的前世今生以及大模型预备知识讲解[知存科技]](https://blog.csdn.net/sinat_39620217/article/details/139232205)
+
++ [c++中如何以服务器为消息转发跳板实现客户之间的TCP通讯](https://blog.csdn.net/weixin_43461403/article/details/139156622)
+
++ [7 Series FPGAs Integrated Block for PCI Express IP核中基于64位事务层接口的AXI4-Stream接口设计（二）](https://blog.csdn.net/u011565038/article/details/139235717)
+
++ [java中利用Redis整合Lua脚本](https://blog.csdn.net/m0_73598900/article/details/139235006)
+
++ [操作系统MIT6.S081：第二章操作系统架构](https://blog.csdn.net/weixin_50002674/article/details/139219465)
+
++ [CSS中2D属性、3D属性的学习以及实现立方体](https://blog.csdn.net/weixin_53598426/article/details/139183511)
+
++ [新书速览|Excel财务数据分析与可视化：视频教学版](https://blog.csdn.net/quanzhankaifaqua/article/details/139235534)
+
++ [YOLOv8 更换主干网络之 EfficientNet 详解](https://blog.csdn.net/feng1790291543/article/details/138685337)
+
++ [微信小程序实现录音及播放功能](https://blog.csdn.net/wcy0112/article/details/139235986)
+
++ [HTTP 状态码 && 网络协议详细介绍(太干，带耳机听吧)](https://blog.csdn.net/wx17343624830/article/details/139203768)
+
++ [在Ant Design Vue 的Popconfirm组件中使用TransitionGroup 的 bug 和解决方案](https://blog.csdn.net/weixin_43938253/article/details/139235036)
+
