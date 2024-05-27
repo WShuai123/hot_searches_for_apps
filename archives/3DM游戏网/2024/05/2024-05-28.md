@@ -105,3 +105,11 @@
 
 + [《波斯王子：Rogue》EA版上线 发售预告发布](https://www.3dmgame.com/news/202405/3895907.html)
 
++ [又一款《塞尔达传说：魔吉拉的面具》PC移植版推出](https://www.3dmgame.com/news/202405/3895909.html)
+
++ [《古墓丽影三部曲重制版》为Embracer带来商业成功](https://www.3dmgame.com/news/202405/3895910.html)
+
++ [休闲治愈风格ASMR新作《兽耳红茶馆》今秋上市](https://www.3dmgame.com/news/202405/3895911.html)
+
++ [微软公布自动超分辨率 使用条件相当苛刻](https://www.3dmgame.com/news/202405/3895912.html)
+
