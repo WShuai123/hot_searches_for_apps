@@ -211,3 +211,9 @@
 
 + [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
 
++ [百度文库- 一站式AI内容创作&文档资料平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [天猫](https://itunes.apple.com/cn/app/id518966501?mt=8)
+

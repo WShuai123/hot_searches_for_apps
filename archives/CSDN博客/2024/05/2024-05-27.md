@@ -209,3 +209,9 @@
 
 + [AI重塑保险业未来：机器学习在风险评估、欺诈检测与客户服务中的深度应用](https://blog.csdn.net/g310773517/article/details/139217990)
 
++ [matlab使用教程(80)—修改图形对象的透明度](https://blog.csdn.net/weixin_44209907/article/details/139119034)
+
++ [【C++课程学习】：命名空间的理解（图文详解）](https://blog.csdn.net/djdjiejsn/article/details/139219394)
+
++ [【Linux】LAMP集群分布式安全方案](https://blog.csdn.net/2302_76195174/article/details/139147518)
+

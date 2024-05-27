@@ -37,3 +37,5 @@
 
 + [刘强东“狼性训话”后，京东采销年薪从 16 薪涨至 20 薪、业绩激励上不封顶](https://m.ithome.com/html/770890.htm)
 
++ [消息称小米 Redmi K80 Pro 手机配骁龙 8 Gen 4 + 2K 屏，搭 5500 mAh 电池支持 120W 充电](https://m.ithome.com/html/770889.htm)
+
