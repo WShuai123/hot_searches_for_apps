@@ -59,3 +59,7 @@
 
 + [转发 | 工业和信息化部印发《工业和信息化领域数据安全风险评估实施细则（试行）》](https://www.freebuf.com/news/401842.html)
 
++ [SqliSniper：针对HTTP Header的基于时间SQL盲注模糊测试工具](https://www.freebuf.com/sectool/401704.html)
+
++ [多达 500 GB，印度军方和警方生物识别数据泄露](https://www.freebuf.com/news/401925.html)
+

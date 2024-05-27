@@ -239,3 +239,27 @@
 
 + [开发心电疾病分类的深度学习模型并部署运行于ARM虚拟硬件平台（AVH）](https://blog.csdn.net/heda3/article/details/139219693)
 
++ [【wiki知识库】02.wiki知识库SpringBoot后端的准备](https://blog.csdn.net/qq_61024956/article/details/139224794)
+
++ [springboot发送短信验证码,结合redis 实现限制，验证码有效期2分钟，有效期内禁止再次发送，一天内发送超3次限制](https://blog.csdn.net/qq_41157588/article/details/139226539)
+
++ [使用 Ollama框架 下载和使用 Llama3 AI大模型的完整指南](https://blog.csdn.net/jxjdhdnd/article/details/139184347)
+
++ [Kafka 集群部署（CentOS 单机模拟版）](https://blog.csdn.net/gllll_yu/article/details/139183016)
+
++ [基于谐波状态空间理论（HSS）的MMC多谐波耦合特性解析、动态建模及文献复现（Matlab&PSCAD）](https://blog.csdn.net/2401_82983656/article/details/136160644)
+
++ [【AI】知识库，Chain，Agent，提示词工程](https://blog.csdn.net/weixin_41971340/article/details/139234766)
+
++ [ubuntu22部署Docker私有仓库Harbor （http & https方式）](https://blog.csdn.net/qq_42152032/article/details/139161095)
+
++ [条款8：了解各种不同意义的new和delete](https://blog.csdn.net/2301_80224556/article/details/139234718)
+
++ [【张量乘法】pytorch中的mul、dot、mm、matmul](https://blog.csdn.net/leviopku/article/details/139216947)
+
++ [AI学习指南数学工具篇-凸优化之对偶性与拉格朗日对偶](https://blog.csdn.net/zhaopeng_yu/article/details/138924215)
+
++ [乒乓球比赛规则](https://blog.csdn.net/2401_84503731/article/details/139233972)
+
++ [yolov8+PyQt5实现车辆实时追踪，车速测量。](https://blog.csdn.net/qq_36426741/article/details/139231082)
+
