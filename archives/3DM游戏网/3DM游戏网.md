@@ -117,3 +117,9 @@
 
 + [操作美味寿司玩漂移《寿司赛车》现已发售](https://www.3dmgame.com/news/202405/3895913.html)
 
++ [《蓝色时期》真人电影正式预告定档8月9日上映](https://www.3dmgame.com/news/202405/3895917.html)
+
++ [印度宝莱坞风格RPG游戏《Aikyam》正式公布](https://www.3dmgame.com/news/202405/3895915.html)
+
++ [《天穗之咲稻姬》动画版正式预告发布 7月开播](https://www.3dmgame.com/news/202405/3895916.html)
+

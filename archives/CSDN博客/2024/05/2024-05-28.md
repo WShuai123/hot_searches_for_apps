@@ -153,3 +153,9 @@
 
 + [Yolov5——训练目标检测模型详解（含完整源码）](https://blog.csdn.net/qq_46137895/article/details/139236067)
 
++ [Python爬虫实战：利用代理IP获取电商数据](https://blog.csdn.net/yuan2019035055/article/details/139221930)
+
++ [linux（Centos）等级保护测评2.0指标](https://blog.csdn.net/2302_76378481/article/details/139231528)
+
++ [Hack The Box-BoardLight](https://blog.csdn.net/m0_52742680/article/details/139233464)
+
