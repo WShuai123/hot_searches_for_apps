@@ -207,3 +207,7 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
+
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+

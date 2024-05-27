@@ -189,3 +189,9 @@
 
 + [在Linux系统上使用Nginx](https://blog.csdn.net/weixin_61468920/article/details/139137252)
 
++ [VMware ESXi 7.0U3q macOS Unlocker & OEM BIOS 集成网卡驱动和 NVMe 驱动 (集成驱动版)](https://blog.csdn.net/netgc/article/details/139141685)
+
++ [FFmpeg开发笔记（三十）解析H.264码流中的SPS帧和PPS帧](https://blog.csdn.net/aqi00/article/details/139135600)
+
++ [C从零开始实现贪吃蛇大作战](https://blog.csdn.net/CNDS_lili/article/details/139023215)
+

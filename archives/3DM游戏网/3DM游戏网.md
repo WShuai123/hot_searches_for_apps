@@ -131,3 +131,23 @@
 
 + [新版本继续称王！《DOTA2》梦幻联赛S23 Falcons 3:0 GG夺冠](https://www.3dmgame.com/news/202405/3895851.html)
 
++ [创造类竞速游戏《螺丝起子》现已推出试玩Demo 抢先体验版即将推出](https://www.3dmgame.com/news/202405/3895862.html)
+
++ [《心跳回忆》发布30周年贺图 更多内容正在计划中](https://www.3dmgame.com/news/202405/3895863.html)
+
++ [《战锤40K：星际战士2》新截图 星际战士大战虫族](https://www.3dmgame.com/news/202405/3895861.html)
+
++ [《Drunken Rogue》Steam上线 肉鸽牌组构建迷宫探索](https://www.3dmgame.com/news/202405/3895860.html)
+
++ [传闻：Switch将持续获得支持 还会有两款复刻版游戏](https://www.3dmgame.com/news/202405/3895859.html)
+
++ [箭头正在研究《绝地潜兵2》部分玩家在即将完成任务时被房主踢出的问题](https://www.3dmgame.com/news/202405/3895858.html)
+
++ [拉瑞安称开发《博德之门3》时 有时确实需要加班](https://www.3dmgame.com/news/202405/3895857.html)
+
++ [《百合太刀降魔传》登陆Steam 横版动作射击](https://www.3dmgame.com/news/202405/3895856.html)
+
++ [传《奇异博士3》2025年开拍 查理兹·塞隆有望回归](https://www.3dmgame.com/news/202405/3895855.html)
+
++ [《星球大战：法外狂徒》新截图 死亡士兵登场亮相](https://www.3dmgame.com/news/202405/3895854.html)
+

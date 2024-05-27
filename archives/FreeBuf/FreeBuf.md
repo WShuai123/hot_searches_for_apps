@@ -45,3 +45,5 @@
 
 + [APP抓包渗透测试首尝试](https://www.freebuf.com/articles/web/401654.html)
 
++ [探索dumplsass的加密免杀](https://www.freebuf.com/articles/system/401740.html)
+
