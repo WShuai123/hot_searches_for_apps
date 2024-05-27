@@ -369,3 +369,13 @@
 
 + [.net core 8 配置中心热部署以及集成Consul实现微服务式调用](https://blog.csdn.net/weixin_63568353/article/details/139243277)
 
++ [使用稀疏约束水平集算法对MR图像中的脑肿瘤进行分割| 文献速递-深度学习肿瘤自动分割](https://blog.csdn.net/weixin_38594676/article/details/139243291)
+
++ [CDC 数据实时同步入湖的技术、架构和方案（截至2024年5月的现状调研）](https://blog.csdn.net/bluishglc/article/details/139175943)
+
++ [开源大模型与闭源大模型，你更看好哪一方？](https://blog.csdn.net/Morse_Chen/article/details/139245143)
+
++ [鸿蒙系统的自定义手势密码功能实现](https://blog.csdn.net/caojie7928/article/details/139235273)
+
++ [智慧树下做游戏](https://blog.csdn.net/chestnut_orenge/article/details/139236523)
+

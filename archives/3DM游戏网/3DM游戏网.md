@@ -227,3 +227,5 @@
 
 + [育碧《看门狗》迎来发售十周年](https://www.3dmgame.com/news/202405/3895901.html)
 
++ [冒险游戏《亚森·罗宾：昔日大盗》公布 登陆PC和主机](https://www.3dmgame.com/news/202405/3895902.html)
+
