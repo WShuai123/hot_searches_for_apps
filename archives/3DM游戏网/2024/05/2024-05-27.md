@@ -229,3 +229,9 @@
 
 + [冒险游戏《亚森·罗宾：昔日大盗》公布 登陆PC和主机](https://www.3dmgame.com/news/202405/3895902.html)
 
++ [动画电影《加菲猫家族》国内定档6月1日](https://www.3dmgame.com/news/202405/3895904.html)
+
++ [荣耀最强标准版！荣耀200发布：2699元起](https://www.3dmgame.com/news/202405/3895905.html)
+
++ [传《生化危机：代号维罗妮卡》和《生化危机0》重制中 《生化危机1》重制是假消息](https://www.3dmgame.com/news/202405/3895903.html)
+
