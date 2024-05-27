@@ -47,3 +47,7 @@
 
 + [荣耀 200 / Pro 手机部分配置曝光：5000 万雅顾光影主摄、2.5 倍光学变焦，今晚发布](https://m.ithome.com/html/770892.htm)
 
++ [苹果发布 iPhone 紧急更新通知：可协助 FaceTime 通话反欺诈](https://m.ithome.com/html/770909.htm)
+
++ [古尔曼：苹果 iOS 18 将提供更多主屏幕定制功能，支持更改 App 图标颜色](https://m.ithome.com/html/770848.htm)
+

@@ -51,3 +51,27 @@
 
 + [continuedev / continue](https://github.com/continuedev/continue)
 
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
++ [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram)
+
++ [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+
++ [shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot)
+
++ [ccbikai / Sink](https://github.com/ccbikai/Sink)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
