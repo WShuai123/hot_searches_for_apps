@@ -113,3 +113,7 @@
 
 + [微软公布自动超分辨率 使用条件相当苛刻](https://www.3dmgame.com/news/202405/3895912.html)
 
++ [《咒术回战：双华乱舞》5月末更新DLC加入新角色](https://www.3dmgame.com/news/202405/3895914.html)
+
++ [操作美味寿司玩漂移《寿司赛车》现已发售](https://www.3dmgame.com/news/202405/3895913.html)
+
