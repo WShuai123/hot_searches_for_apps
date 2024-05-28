@@ -229,3 +229,9 @@
 
 + [学习100个Unity Shader (18) --- 几何着色器(Geometry Shader)](https://blog.csdn.net/weixin_43975743/article/details/139141757)
 
++ [Stable Diffusion AI绘画：从提示词到模型出图的全景指南](https://blog.csdn.net/qq_44273429/article/details/139253840)
+
++ [十四天学会Vue——Vue核心（理论+实战）中篇（第二天）](https://blog.csdn.net/qq_46642600/article/details/139132113)
+
++ [如何从 Android 恢复已删除的相机照片？（7 种行之有效的方法）](https://blog.csdn.net/Geeker55/article/details/139253250)
+
