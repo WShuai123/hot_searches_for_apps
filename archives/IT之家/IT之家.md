@@ -43,3 +43,7 @@
 
 + [索尼中国召回 2320 台高解析度音乐播放器](https://m.ithome.com/html/770935.htm)
 
++ [小米千兆 / 万兆交换机发布：无风扇散热设计、即插即用，129 元起](https://m.ithome.com/html/771177.htm)
+
++ [华为 P50 Pro 手机推送鸿蒙 HarmonyOS 4.2 正式版，新增互动主题](https://m.ithome.com/html/771070.htm)
+

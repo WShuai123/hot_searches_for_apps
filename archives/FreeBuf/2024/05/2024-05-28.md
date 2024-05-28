@@ -49,3 +49,5 @@
 
 + [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
 
++ [攻防演练 | 从0开始实现一次完整的网络钓鱼（二）](https://www.freebuf.com/sectool/400954.html)
+

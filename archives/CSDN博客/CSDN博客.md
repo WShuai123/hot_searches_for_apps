@@ -225,3 +225,7 @@
 
 + [小程序内使用路由](https://blog.csdn.net/qq_61990666/article/details/139239187)
 
++ [LangChain技术解密：构建大模型应用的全景指南](https://blog.csdn.net/qq_44273429/article/details/139253016)
+
++ [学习100个Unity Shader (18) --- 几何着色器(Geometry Shader)](https://blog.csdn.net/weixin_43975743/article/details/139141757)
+
