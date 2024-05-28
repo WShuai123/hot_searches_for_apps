@@ -137,3 +137,9 @@
 
 + [StartKit.AI](https://www.producthunt.com/posts/startkit-ai)
 
++ [Squire AI](https://www.producthunt.com/posts/squire-ai)
+
++ [Just Polls](https://www.producthunt.com/posts/just-polls)
+
++ [Outtloud](https://www.producthunt.com/posts/outtloud)
+

@@ -247,3 +247,27 @@
 
 + [Win11手机同步更新：在电脑端提取照片内文本](https://www.3dmgame.com/news/202405/3895978.html)
 
++ [丰田展示适用于多种燃料的紧凑型发动机 多元化动力总成战略](https://www.3dmgame.com/news/202405/3895989.html)
+
++ [央美毕业展作品被吐槽废纸壳 专家：专业人士向外行网民致歉可笑](https://www.3dmgame.com/news/202405/3895991.html)
+
++ [《ABYSSAL》PC试玩发布 深海恐怖探索](https://www.3dmgame.com/news/202405/3895990.html)
+
++ [苹果始终不用NVIDIA芯片内幕曝光 源于一段旧仇](https://www.3dmgame.com/news/202405/3895981.html)
+
++ [2025年全球电子竞技运动会将于在秘鲁利马举办](https://www.3dmgame.com/news/202405/3895982.html)
+
++ [摩托罗拉总裁：3年成为中国市场外的全球前三](https://www.3dmgame.com/news/202405/3895983.html)
+
++ [Steam最新一周销量榜 Steam Deck重回榜顶](https://www.3dmgame.com/news/202405/3895979.html)
+
++ [大宇董事长回应出售《仙剑奇侠传》《轩辕剑》两大经典IP](https://www.3dmgame.com/news/202405/3895984.html)
+
++ [动画《尼尔：自动人形Ver1.1a》第二季新预告 2024年7月开播](https://www.3dmgame.com/news/202405/3895985.html)
+
++ [中世纪类魂肉鸽《死亡教堂》1.0正式版现已推出 特惠32.4元](https://www.3dmgame.com/news/202405/3895986.html)
+
++ [真“壕”！KK官方对战平台幸运玩家喜提劳力士！](https://www.3dmgame.com/news/202405/3895987.html)
+
++ [全网最会打游戏的颜值女神都在这了！上KK官方对战平台瓜分大奖！](https://www.3dmgame.com/news/202405/3895988.html)
+
