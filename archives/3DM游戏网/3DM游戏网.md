@@ -285,3 +285,9 @@
 
 + [美光计划在日本建造新的DRAM工厂 预计2027年末投入运营](https://www.3dmgame.com/news/202405/3895997.html)
 
++ [PS+欧美服6月会免游戏阵容：《怒之铁拳4》等](https://www.3dmgame.com/news/202405/3896001.html)
+
++ [IGN证实：《生化危机0》和《代号维罗妮卡》正在重制](https://www.3dmgame.com/news/202405/3896000.html)
+
++ [《使命召唤21》正式预告公布 首发加入XGP](https://www.3dmgame.com/news/202405/3895999.html)
+

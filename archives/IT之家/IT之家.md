@@ -67,3 +67,5 @@
 
 + [9.98 万-13.98 万元，比亚迪海豹 06 DM-i 上市：百公里油耗实测最低 1.79 升](https://m.ithome.com/html/771369.htm)
 
++ [售 9.98-13.98 万元，比亚迪秦 L DM-i 上市：搭载第五代 DM 技术](https://m.ithome.com/html/771368.htm)
+

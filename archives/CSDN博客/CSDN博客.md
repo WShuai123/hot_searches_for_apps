@@ -271,3 +271,5 @@
 
 + [【机器学习】利用机器学习优化陆军战术决策与战场态势感知](https://blog.csdn.net/Easonmax/article/details/139225359)
 
++ [书籍学习|基于SprinBoot+vue的书籍学习平台(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/139262031)
+
