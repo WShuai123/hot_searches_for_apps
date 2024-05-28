@@ -171,3 +171,29 @@
 
 + [YOLOv10介绍与推理--图片和视频演示（附源码）](https://blog.csdn.net/stq054188/article/details/139248118)
 
++ [10.SpringBoot 统一处理功能](https://blog.csdn.net/xinhang10/article/details/139249741)
+
++ [听说部门来了个00后测试开发，一顿操作给我整麻了](https://blog.csdn.net/cs888zsy/article/details/139198832)
+
++ [5月26（信息差）](https://blog.csdn.net/eqwaak0/article/details/139212332)
+
++ [图像处理之计算物体的方向（C++）](https://blog.csdn.net/qq_45045175/article/details/139243169)
+
++ [基于SVm和随机森林算法模型的中国黄金价格预测分析与研究](https://blog.csdn.net/weixin_49081159/article/details/139249789)
+
++ [部门来了个测试开发，听说是00后，上来一顿操作给我看蒙了...](https://blog.csdn.net/zhangsiyuan1998/article/details/139199938)
+
++ [X-CSV-Reader:一个使用Rust实现CSV命令行读取器](https://blog.csdn.net/2302_76401343/article/details/139225222)
+
++ [移动云：连接未来的智慧之旅](https://blog.csdn.net/qq_46906413/article/details/139188972)
+
++ [【Linux】生产者消费者模型](https://blog.csdn.net/2301_77112634/article/details/139038188)
+
++ [【Docker学习】详细讲解docker ps](https://blog.csdn.net/weixin_42206314/article/details/139250034)
+
++ [【uniapp】uniapp基本介绍](https://blog.csdn.net/weixin_37833693/article/details/139242754)
+
++ [typescript 配置精讲 | moduleResolution](https://blog.csdn.net/m0_55635384/article/details/139225069)
+
++ [yolov8+ROS+ubuntu18.04——学习记录](https://blog.csdn.net/m0_51060098/article/details/139247962)
+

@@ -43,3 +43,5 @@
 
 + [Dispossessor 勒索软件是否会成为 LockBit 的接班者](https://www.freebuf.com/articles/network/401595.html)
 
++ [实战案例 | 绕过计算型验证码](https://www.freebuf.com/articles/web/401619.html)
+
