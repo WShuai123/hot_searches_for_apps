@@ -215,3 +215,9 @@
 
 + [点击类模拟游戏《来自地狱的女友》现已在Steam平台正式发售 收获好评](https://www.3dmgame.com/news/202405/3895963.html)
 
++ [Combo Breaker 2024参赛选手提前庆祝 误触手柄中断连招惨遭对手反杀](https://www.3dmgame.com/news/202405/3895966.html)
+
++ [高玩挑战1级干翻《艾尔登法环》8周目全BOSS 耗时269小时](https://www.3dmgame.com/news/202405/3895965.html)
+
++ [米哈游《绝区零》官宣7月4日全平台公测 PS5同步](https://www.3dmgame.com/news/202405/3895964.html)
+
