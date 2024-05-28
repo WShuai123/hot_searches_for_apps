@@ -275,3 +275,7 @@
 
 + [360全面升级：首创一键无痕卸载 不再弹出挽留窗口](https://www.3dmgame.com/news/202405/3895992.html)
 
++ [希捷BarraCuda 530系列SSD上市 1TB首发499元，读取速度7400MB/s](https://www.3dmgame.com/news/202405/3895995.html)
+
++ [《龙之信条2》全平台销量现已超300万套](https://www.3dmgame.com/news/202405/3895994.html)
+

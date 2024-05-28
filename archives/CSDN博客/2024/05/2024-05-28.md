@@ -263,3 +263,7 @@
 
 + [学习信号和槽（1）](https://blog.csdn.net/plj521/article/details/138686970)
 
++ [不怕YOLOv10高歌猛进，我有YOLOv8稳扎稳打](https://blog.csdn.net/weixin_43694096/article/details/139266687)
+
++ [【赠书第24期】Java项目开发实战（微视频版）](https://blog.csdn.net/qq_20016593/article/details/139186287)
+

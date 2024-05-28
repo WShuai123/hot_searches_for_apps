@@ -143,3 +143,9 @@
 
 + [Outtloud](https://www.producthunt.com/posts/outtloud)
 
++ [Tonic Textual](https://www.producthunt.com/posts/tonic-textual)
+
++ [VIVA](https://www.producthunt.com/posts/viva)
+
++ [ChainClarity](https://www.producthunt.com/posts/chainclarity)
+

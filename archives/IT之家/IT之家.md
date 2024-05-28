@@ -55,3 +55,5 @@
 
 + [6499 元起，vivo X100 Ultra 正式开售：升级蔡司 2 亿 APO 超级长焦、一英寸云台级主摄](https://m.ithome.com/html/771127.htm)
 
++ [华为“享界”商标转让给北汽，双方联合设计享界 S9 车型](https://m.ithome.com/html/771185.htm)
+
