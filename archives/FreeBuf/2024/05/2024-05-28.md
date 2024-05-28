@@ -41,3 +41,5 @@
 
 + [HVV期间的VPN安全策略；如何管理远程桌面软件 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/401782.html)
 
++ [Dispossessor 勒索软件是否会成为 LockBit 的接班者](https://www.freebuf.com/articles/network/401595.html)
+

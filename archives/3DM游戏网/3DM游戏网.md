@@ -123,3 +123,7 @@
 
 + [《天穗之咲稻姬》动画版正式预告发布 7月开播](https://www.3dmgame.com/news/202405/3895916.html)
 
++ [传今年的PlayStation发布会延期到了9月](https://www.3dmgame.com/news/202405/3895919.html)
+
++ [《黑神话：悟空》目前已登顶Steam愿望单榜首](https://www.3dmgame.com/news/202405/3895918.html)
+

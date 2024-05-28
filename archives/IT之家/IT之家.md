@@ -25,3 +25,5 @@
 
 + [会员 618 狂促补新券：爱优腾B站年卡 88 元起，WPS 超级会员 6.3 元 / 月](https://m.ithome.com/html/770891.htm)
 
++ [比亚迪高管确认：第五代 DM 混动技术将开创油耗“2 时代”](https://m.ithome.com/html/771097.htm)
+

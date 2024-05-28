@@ -69,3 +69,7 @@
 
 + [AOA-短发](http://www.acfun.cn/v/ac44659765)
 
++ [请接收我的爱心光波baam!baam!](http://www.acfun.cn/v/ac44659135)
+
++ [因为菊花不松弛，所以痔疮有点挤](http://www.acfun.cn/v/ac44658303)
+
