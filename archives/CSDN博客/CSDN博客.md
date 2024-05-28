@@ -257,3 +257,9 @@
 
 + [计算机网络学习](https://blog.csdn.net/qq_61109509/article/details/139212444)
 
++ [【机器学习】深入探索机器学习：线性回归算法的原理与应用](https://blog.csdn.net/EterNity_TiMe_/article/details/139262691)
+
++ [李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行](https://blog.csdn.net/leyang0910/article/details/139185169)
+
++ [学习信号和槽（1）](https://blog.csdn.net/plj521/article/details/138686970)
+

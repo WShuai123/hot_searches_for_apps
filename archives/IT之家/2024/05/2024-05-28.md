@@ -53,3 +53,5 @@
 
 + [小米 67W 快充插线板上架：6 位电源插孔 + 2C + 1A，售 99 元](https://m.ithome.com/html/771203.htm)
 
++ [6499 元起，vivo X100 Ultra 正式开售：升级蔡司 2 亿 APO 超级长焦、一英寸云台级主摄](https://m.ithome.com/html/771127.htm)
+

@@ -57,3 +57,5 @@
 
 + [近八成CSO认为，人为”错误“是最致命的“漏洞”](https://www.freebuf.com/news/402039.html)
 
++ [近八成CSO认为，人为“错误”是最致命的“漏洞”](https://www.freebuf.com/news/402039.html)
+

@@ -51,3 +51,33 @@
 
 + [es3n1n / no-defender](https://github.com/es3n1n/no-defender)
 
++ [didi / xiaoju-survey](https://github.com/didi/xiaoju-survey)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [iyaja / llama-fs](https://github.com/iyaja/llama-fs)
+
++ [xai-org / grok-1](https://github.com/xai-org/grok-1)
+
++ [lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+
++ [phidatahq / phidata](https://github.com/phidatahq/phidata)
+
++ [jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+
++ [dream-num / univer](https://github.com/dream-num/univer)
+
++ [darrenburns / elia](https://github.com/darrenburns/elia)
+
++ [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+
++ [kdn251 / interviews](https://github.com/kdn251/interviews)
+
++ [dotnet / maui](https://github.com/dotnet/maui)
+
++ [mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune)
+
++ [uptrace / bun](https://github.com/uptrace/bun)
+
++ [langchain-ai / langgraph](https://github.com/langchain-ai/langgraph)
+
