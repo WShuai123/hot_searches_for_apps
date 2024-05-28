@@ -269,3 +269,5 @@
 
 + [HTML大雪纷飞](https://blog.csdn.net/m0_68111267/article/details/139136829)
 
++ [【机器学习】利用机器学习优化陆军战术决策与战场态势感知](https://blog.csdn.net/Easonmax/article/details/139225359)
+

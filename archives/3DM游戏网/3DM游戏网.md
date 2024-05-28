@@ -281,3 +281,7 @@
 
 + [《刺客信条：影》公布后 大量玩家回流老游戏](https://www.3dmgame.com/news/202405/3895996.html)
 
++ [AMD FSR3大显身手 《不朽者传奇》XSX性能提升72%](https://www.3dmgame.com/news/202405/3895998.html)
+
++ [美光计划在日本建造新的DRAM工厂 预计2027年末投入运营](https://www.3dmgame.com/news/202405/3895997.html)
+
