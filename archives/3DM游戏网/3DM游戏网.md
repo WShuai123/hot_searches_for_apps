@@ -113,3 +113,5 @@
 
 + [一战生存恐怖游戏《CONSCRIPT》年内登陆各平台](https://www.3dmgame.com/news/202405/3896004.html)
 
++ [Switch《艾兰岛》6月20日发售 改为一次性买断制](https://www.3dmgame.com/news/202405/3896010.html)
+
