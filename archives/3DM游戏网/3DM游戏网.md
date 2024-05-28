@@ -101,3 +101,15 @@
 
 + [传闻：索尼计划邀请托比和加菲回归蜘蛛侠 打造各自独特的电影宇宙](https://www.3dmgame.com/news/202405/3895948.html)
 
++ [任天堂联手乐高推出首个《塞尔达传说》主题套装](https://www.3dmgame.com/news/202405/3896009.html)
+
++ [《死神：勇敢的灵魂》今年夏季登陆任天堂Switch](https://www.3dmgame.com/news/202405/3896008.html)
+
++ [《星刃》开发者透露更多外观和更新并讨论续作](https://www.3dmgame.com/news/202405/3896007.html)
+
++ [Xbox与前Rocksteady创始人创建的新工作室合作](https://www.3dmgame.com/news/202405/3896006.html)
+
++ [CDPR表示希望更频繁地推出大型游戏](https://www.3dmgame.com/news/202405/3896005.html)
+
++ [一战生存恐怖游戏《CONSCRIPT》年内登陆各平台](https://www.3dmgame.com/news/202405/3896004.html)
+
