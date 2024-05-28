@@ -77,3 +77,7 @@
 
 + [小米手环，质量代言！](http://www.acfun.cn/v/ac44659874)
 
++ [不要再拽头发了！★手机竖屏1164★](http://www.acfun.cn/v/ac44659190)
+
++ [这野史也太野了](http://www.acfun.cn/v/ac44657214)
+

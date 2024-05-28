@@ -213,3 +213,15 @@
 
 + [fpga系列 HDL: 05 阻塞赋值(=)与非阻塞赋值(＜=)](https://blog.csdn.net/ResumeProject/article/details/139202480)
 
++ [AI大模型探索之路-实战篇9：探究Agent智能数据分析平台的架构与功能](https://blog.csdn.net/xiaobing259/article/details/139205615)
+
++ [数学建模--LaTeX的基本使用](https://blog.csdn.net/binhyun/article/details/139246898)
+
++ [SQL 语言：完整性约束](https://blog.csdn.net/weixin_50357986/article/details/139247028)
+
++ [【计算机网络】第三章——回退N帧协议](https://blog.csdn.net/m0_74352571/article/details/139191538)
+
++ [node.js学习P3-P10](https://blog.csdn.net/dundundunsis/article/details/138962787)
+
++ [小程序内使用路由](https://blog.csdn.net/qq_61990666/article/details/139239187)
+
