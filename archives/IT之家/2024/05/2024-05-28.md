@@ -57,3 +57,9 @@
 
 + [华为“享界”商标转让给北汽，双方联合设计享界 S9 车型](https://m.ithome.com/html/771185.htm)
 
++ [小程序可反向生成华为鸿蒙 App，凡泰极客 FinClip 3.0 发布](https://m.ithome.com/html/771145.htm)
+
++ [8+10 核 M3：苹果 2024 款 MacBook Air 上市两月京东立减 1200 元](https://m.ithome.com/html/771283.htm)
+
++ [小米否认将推“万兆 NAS”产品：仅作白模示意，目前没有规划](https://m.ithome.com/html/771337.htm)
+

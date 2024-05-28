@@ -279,3 +279,5 @@
 
 + [《龙之信条2》全平台销量现已超300万套](https://www.3dmgame.com/news/202405/3895994.html)
 
++ [《刺客信条：影》公布后 大量玩家回流老游戏](https://www.3dmgame.com/news/202405/3895996.html)
+
