@@ -221,3 +221,17 @@
 
 + [米哈游《绝区零》官宣7月4日全平台公测 PS5同步](https://www.3dmgame.com/news/202405/3895964.html)
 
++ [独立冒险《最后的火柴小女孩》公布 Steam页面上线](https://www.3dmgame.com/news/202405/3895973.html)
+
++ [《夜蒲女子图鉴》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202405/3895972.html)
+
++ [XGP推送讯息：《使命召唤：黑色行动6》将首发入库](https://www.3dmgame.com/news/202405/3895971.html)
+
++ [《血与梦想地下城》登陆Steam 肉鸽地下城探索](https://www.3dmgame.com/news/202405/3895970.html)
+
++ [动作漫画《坂本日常》宣布动画化 预告片放出 2025年1月播出](https://www.3dmgame.com/news/202405/3895969.html)
+
++ [《异度之刃X》速通玩家在联网服务关闭前创下新记录](https://www.3dmgame.com/news/202405/3895968.html)
+
++ [《崛起力量: 测试英雄》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895967.html)
+
