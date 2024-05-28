@@ -101,3 +101,9 @@
 
 + [Android：使用Kotlin搭建MVI架构模式](https://blog.csdn.net/ChinaDragon10/article/details/139248511)
 
++ [Stable Diffusion AI绘画：从提示词到模型出图的全景指南](https://blog.csdn.net/qq_44273429/article/details/139253840)
+
++ [async函数和await函数](https://blog.csdn.net/m0_56685529/article/details/139236831)
+
++ [书籍学习|基于SprinBoot+vue的书籍学习平台(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/139262031)
+
