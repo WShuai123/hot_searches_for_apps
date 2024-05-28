@@ -51,3 +51,5 @@
 
 + [小鹏子品牌 MONA 首车尾部谍照曝光，有望命名为“想往 03”](https://m.ithome.com/html/771057.htm)
 
++ [小米 67W 快充插线板上架：6 位电源插孔 + 2C + 1A，售 99 元](https://m.ithome.com/html/771203.htm)
+

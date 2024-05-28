@@ -235,3 +235,15 @@
 
 + [《崛起力量: 测试英雄》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895967.html)
 
++ [《冰汽时代2》将为玩家带来更黑暗 更人性的体验](https://www.3dmgame.com/news/202405/3895980.html)
+
++ [《ENDLOOP》登陆Steam 破解循环恐怖探索](https://www.3dmgame.com/news/202405/3895977.html)
+
++ [英伟达18个月内恐暴跌20%！华尔街分析师拉响警报](https://www.3dmgame.com/news/202405/3895976.html)
+
++ [《绝地战警：生死与共》引进中国内地 档期待定](https://www.3dmgame.com/news/202405/3895975.html)
+
++ [剧情驱动RPG游戏《魔女之泉R》Steam销量破10万套 8月29日发售](https://www.3dmgame.com/news/202405/3895974.html)
+
++ [Win11手机同步更新：在电脑端提取照片内文本](https://www.3dmgame.com/news/202405/3895978.html)
+
