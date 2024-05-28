@@ -61,3 +61,9 @@
 
 + [【ACFUN声唱云参赛2024】好字唯之---忘川集邮录1](http://www.acfun.cn/v/ac44660084)
 
++ [欧盟的造反宣言，郑国渠、建国渠、马朔渠【岩论434期】](http://www.acfun.cn/v/ac44669526)
+
++ [【东方】Super Rabbit【全风格 Arrange / ぱらどっと】](http://www.acfun.cn/v/ac44665283)
+
++ [5台法拉利，4台保时捷，大佬的车库到底有多壕？](http://www.acfun.cn/v/ac44665647)
+

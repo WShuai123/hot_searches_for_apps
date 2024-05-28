@@ -25,3 +25,5 @@
 
 + [8+10 核 M3：苹果 2024 款 MacBook Air 上市两月京东立减 1200 元](https://m.ithome.com/html/771283.htm)
 
++ [消息称苹果批准 iPhone 16 Pro 显示屏量产，边框更窄](https://m.ithome.com/html/771353.htm)
+
