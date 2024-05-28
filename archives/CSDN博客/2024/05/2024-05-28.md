@@ -197,3 +197,19 @@
 
 + [yolov8+ROS+ubuntu18.04——学习记录](https://blog.csdn.net/m0_51060098/article/details/139247962)
 
++ [AI大模型在测试中的深度应用与实践案例](https://blog.csdn.net/rjdeng/article/details/139246321)
+
++ [基于形态学滤波的心电信号ECG处理（MATLAB 2021B）](https://blog.csdn.net/weixin_39402231/article/details/139244368)
+
++ [Web安全：文件上传漏洞详解，文件上传漏洞原理、绕过方式和防御方案。](https://blog.csdn.net/wangyuxiang946/article/details/129465042)
+
++ [苹果iOS18将引入ChatGPT；美国AI禁令再升级；微软首发Phi-3多模态模型 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139252050)
+
++ [计算机组成原理易混淆知识点总结(持续更新)](https://blog.csdn.net/weixin_69884785/article/details/139237180)
+
++ [计算机网络——TCP / IP 网络模型](https://blog.csdn.net/2302_79789602/article/details/139236481)
+
++ [云计算-高级云架构 (Advanced Cloud Architecture)](https://blog.csdn.net/qq_54813250/article/details/139250853)
+
++ [fpga系列 HDL: 05 阻塞赋值(=)与非阻塞赋值(＜=)](https://blog.csdn.net/ResumeProject/article/details/139202480)
+
