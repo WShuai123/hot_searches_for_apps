@@ -189,3 +189,11 @@
 
 + [光辉已逝 手游公司Gameloft裁员超百人关闭工作室](https://www.3dmgame.com/news/202405/3896044.html)
 
++ [Switch版《路易鬼屋2HD》官网上线 6月27日正式发售](https://www.3dmgame.com/news/202405/3896050.html)
+
++ [全端销量300w！好评动作肉鸽《暖雪》DLC终业6月6日登陆移动端](https://www.3dmgame.com/news/202405/3896051.html)
+
++ [《巫师4》已有400多人参与开发 但仍处于早期开发阶段](https://www.3dmgame.com/news/202405/3896049.html)
+
++ [《不羁联盟》制作人点赞“遇不到菜B对手是因为你自己菜”](https://www.3dmgame.com/news/202405/3896048.html)
+

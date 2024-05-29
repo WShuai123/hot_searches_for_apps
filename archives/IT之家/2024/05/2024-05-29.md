@@ -37,3 +37,5 @@
 
 + [蔡磊回应被造谣装病：希望时间用在渐冻症肌肉时空组学的科研新成果及应用](https://m.ithome.com/html/771362.htm)
 
++ [法拉第未来称可能永远无法盈利，FF 91 Futurist 汽车去年交付 4 辆、租赁 6 辆](https://m.ithome.com/html/771407.htm)
+

@@ -147,3 +147,13 @@
 
 + [【鸿蒙 HarmonyOS】Windows 平台搭建 DevEco Studio 开发环境 ③ ( 华为 Mate30 真机运行鸿蒙应用 | hdc 命令行工具使用 )](https://blog.csdn.net/han1202012/article/details/139264821)
 
++ [【机器学习】K-近邻算法（KNN）全面解析](https://blog.csdn.net/qq_44214428/article/details/139275924)
+
++ [软件工程作业8](https://blog.csdn.net/2402_83501061/article/details/139234839)
+
++ [python-数据可视化(总)](https://blog.csdn.net/m0_57852920/article/details/139272508)
+
++ [基于 IP 的 DDOS 攻击实验](https://blog.csdn.net/2302_82189125/article/details/139235501)
+
++ [EasyExcel实现导入导出](https://blog.csdn.net/XueBaiBaiBai/article/details/139263344)
+
