@@ -101,3 +101,5 @@
 
 + [Bash](https://www.producthunt.com/posts/bash-4)
 
++ [Learn More Faster](https://www.producthunt.com/posts/learn-more-faster)
+
