@@ -43,3 +43,5 @@
 
 + [勒索软件统计数据揭示了网络勒索的惊人速度](https://www.freebuf.com/articles/paper/401645.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+

@@ -31,3 +31,5 @@
 
 + [保时捷首款混合动力 911 全球首秀：3.6T 水平对置 T-Hybrid 混动系统、398kW、610Nm](https://m.ithome.com/html/771375.htm)
 
++ [腾讯应用宝与微软 Microsoft Store 达成合作，Windows 可直接运行移动应用](https://m.ithome.com/html/771346.htm)
+
