@@ -141,3 +141,9 @@
 
 + [小熊家务帮day5 客户管理模块1 （小程序认证，手机验证码认证等）](https://blog.csdn.net/lihao1875699404/article/details/139274388)
 
++ [【机器学习】解锁AI密码：神经网络算法详解与前沿探索](https://blog.csdn.net/2301_77509762/article/details/139278781)
+
++ [Qt Creator（2）【如何在Qt Creator中创建新工程】](https://blog.csdn.net/m0_75215937/article/details/138255915)
+
++ [【鸿蒙 HarmonyOS】Windows 平台搭建 DevEco Studio 开发环境 ③ ( 华为 Mate30 真机运行鸿蒙应用 | hdc 命令行工具使用 )](https://blog.csdn.net/han1202012/article/details/139264821)
+

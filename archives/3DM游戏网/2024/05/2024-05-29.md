@@ -181,3 +181,11 @@
 
 + [《CHEFWARE》PC免费发布 精品迷你游戏合集](https://www.3dmgame.com/news/202405/3896020.html)
 
++ [多个百万级炫富网红账号被封 官媒定性毒瘤早就该拔](https://www.3dmgame.com/news/202405/3896046.html)
+
++ [《波斯王子：Rogue》更新计划公布 更新游戏内容筹备中](https://www.3dmgame.com/news/202405/3896047.html)
+
++ [《头脑特工队2》中文配音预告片 6月21日上映](https://www.3dmgame.com/news/202405/3896045.html)
+
++ [光辉已逝 手游公司Gameloft裁员超百人关闭工作室](https://www.3dmgame.com/news/202405/3896044.html)
+

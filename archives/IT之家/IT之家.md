@@ -35,3 +35,5 @@
 
 + [高通公布骁龙 X Elite 处理器官方 NPU 跑分成绩：2.6 倍 M3 能效、5.4 倍 Ultra 7 能效](https://m.ithome.com/html/771389.htm)
 
++ [蔡磊回应被造谣装病：希望时间用在渐冻症肌肉时空组学的科研新成果及应用](https://m.ithome.com/html/771362.htm)
+
