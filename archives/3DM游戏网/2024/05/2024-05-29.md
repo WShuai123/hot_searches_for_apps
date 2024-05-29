@@ -275,3 +275,5 @@
 
 + [SteamDB创始人: V社正在开发Steam录制剪辑功能](https://www.3dmgame.com/news/202405/3896082.html)
 
++ [传RTX 5090 FE为双槽厚度 配备双风扇散热设计](https://www.3dmgame.com/news/202405/3896091.html)
+
