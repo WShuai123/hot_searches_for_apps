@@ -41,3 +41,5 @@
 
 + [转发 | 自然资源部发布《智能网联汽车时空数据安全处理基本要求（征求意见稿）》](https://www.freebuf.com/news/401871.html)
 
++ [勒索软件统计数据揭示了网络勒索的惊人速度](https://www.freebuf.com/articles/paper/401645.html)
+

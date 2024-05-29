@@ -115,3 +115,21 @@
 
 + [Switch《艾兰岛》6月20日发售 改为一次性买断制](https://www.3dmgame.com/news/202405/3896010.html)
 
++ [《黑神话：悟空》新片段发布 国产之光玩家很期待](https://www.3dmgame.com/news/202405/3896018.html)
+
++ [Tango Gameworks被关前曾在开发两款游戏](https://www.3dmgame.com/news/202405/3896019.html)
+
++ [《黑色沙漠》国服由腾讯代理 全新实机预告发布](https://www.3dmgame.com/news/202405/3896015.html)
+
++ [《剑灵2》全新实机预告发布 经典IP双端“重生”](https://www.3dmgame.com/news/202405/3896016.html)
+
++ [《不羁联盟》发挥亮眼 首发一周玩家数量达800万](https://www.3dmgame.com/news/202405/3896017.html)
+
++ [腾讯文明IP手游《世界启元》新预告 乐趣无穷！](https://www.3dmgame.com/news/202405/3896013.html)
+
++ [腾讯《极品飞车：集结》新预告 开放世界赛车手游](https://www.3dmgame.com/news/202405/3896014.html)
+
++ [组装赛车游戏《Screw Drivers》将开启抢先体验](https://www.3dmgame.com/news/202405/3896011.html)
+
++ [《赛博朋克2077》开发团队已全面转向新项目](https://www.3dmgame.com/news/202405/3896012.html)
+

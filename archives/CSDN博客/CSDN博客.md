@@ -129,3 +129,9 @@
 
 + [网络工程师：网络可靠性技术](https://blog.csdn.net/limengshi138392/article/details/139277664)
 
++ [SpringCloud之SSO单点登录-基于Gateway和OAuth2的跨系统统一认证和鉴权详解](https://blog.csdn.net/weixin_41793160/article/details/139278486)
+
++ [如何使用 Connector API 将数据提取到 Elasticsearch Serverless 中](https://blog.csdn.net/UbuntuTouch/article/details/139263777)
+
++ [Redis解决缓存一致性问题](https://blog.csdn.net/aliyunyyds/article/details/139225398)
+
