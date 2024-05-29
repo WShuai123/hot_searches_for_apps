@@ -197,3 +197,11 @@
 
 + [《不羁联盟》制作人点赞“遇不到菜B对手是因为你自己菜”](https://www.3dmgame.com/news/202405/3896048.html)
 
++ [iPhone降价中国销量激增52% 多数国人愿意花4千+买手机](https://www.3dmgame.com/news/202405/3896055.html)
+
++ [《转生成史莱姆 坦派斯特开拓谭》预购  国区售价248元](https://www.3dmgame.com/news/202405/3896053.html)
+
++ [CD Projekt讨论拉瑞安华沙建新工作室：热烈欢迎](https://www.3dmgame.com/news/202405/3896054.html)
+
++ [奇幻模拟经营游戏《酒馆老板》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202405/3896052.html)
+

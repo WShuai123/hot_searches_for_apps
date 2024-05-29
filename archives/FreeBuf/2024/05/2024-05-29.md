@@ -53,3 +53,11 @@
 
 + [一文了解ld_preload库文件劫持](https://www.freebuf.com/articles/system/401404.html)
 
++ [影响之前所有版本，TP-Link 路由器曝出满分漏洞](https://www.freebuf.com/news/402141.html)
+
++ [渗透测试 | 一文了解ld_preload库文件劫持](https://www.freebuf.com/articles/system/401404.html)
+
++ [炸裂！俄罗斯攻破了星链，乌克兰面临严重挑战](https://www.freebuf.com/news/402143.html)
+
++ [利用80多个漏洞，安全专家揭露新型DoS攻击技术](https://www.freebuf.com/news/402138.html)
+
