@@ -135,3 +135,15 @@
 
 + [Coverse.one](https://www.producthunt.com/posts/coverse-one)
 
++ [Biofy.io](https://www.producthunt.com/posts/biofy-io)
+
++ [Tipsme](https://www.producthunt.com/posts/tipsme)
+
++ [HeroKit](https://www.producthunt.com/posts/herokit)
+
++ [Anecdote](https://www.producthunt.com/posts/anecdote-3)
+
++ [Bash](https://www.producthunt.com/posts/bash-4)
+
++ [Every Bookkeeping & Taxes](https://www.producthunt.com/posts/every-bookkeeping-taxes)
+

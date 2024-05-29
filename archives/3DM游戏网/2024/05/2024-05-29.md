@@ -213,3 +213,27 @@
 
 + [《胜利女神：妮姬》推出亚克力板对战游戏 8月23日发售](https://www.3dmgame.com/news/202405/3896056.html)
 
++ [搞笑漫改《鹿乃子乃子虎视眈眈》第2部宣传PV放出 7月7日开播](https://www.3dmgame.com/news/202405/3896068.html)
+
++ [OpenAI CEO 阿尔特曼“捐赠誓言” 承诺未来捐出大部分财富](https://www.3dmgame.com/news/202405/3896069.html)
+
++ [一步之遥！英伟达股价暴涨近7%：市值距苹果只差1000亿美元](https://www.3dmgame.com/news/202405/3896070.html)
+
++ [钓鱼拯救世界 APRG《海洋幻想》试玩版5月30日上线](https://www.3dmgame.com/news/202405/3896071.html)
+
++ [游戏秘闻科查考 世嘉土星主机背后的神秘扩展坞](https://www.3dmgame.com/news/202405/3896066.html)
+
++ [《狂暴女神》票房缓慢 真人《塞尔达》导演：无需担心](https://www.3dmgame.com/news/202405/3896067.html)
+
++ [中世纪背景现代战车对决游戏《车轮战争》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3896060.html)
+
++ [战术轻度Rogue角色扮演游戏《Forgotten Mines》发售日预告 7月23日发售](https://www.3dmgame.com/news/202405/3896063.html)
+
++ [Bungie推出《命运2：终焉之形》发布预告片](https://www.3dmgame.com/news/202405/3896061.html)
+
++ [PlayStation嗨玩季DAYS OF PLAY正式启动，邀玩家共享沉浸式主机娱乐](https://www.3dmgame.com/news/202405/3896062.html)
+
++ [Xbox已可预载！？《龙腾世纪：恐狼》或发布在即](https://www.3dmgame.com/news/202405/3896064.html)
+
++ [传闻：《异度神剑》开发商正在开发代号为“Legacy”的新项目](https://www.3dmgame.com/news/202405/3896065.html)
+
