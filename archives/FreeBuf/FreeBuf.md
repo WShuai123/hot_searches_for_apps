@@ -63,3 +63,5 @@
 
 + [NTLM Relay Gat：自动化NTLM中继安全检测工具](https://www.freebuf.com/sectool/401703.html)
 
++ [威胁就在身边，盘点五大令人意想不到的数据泄露方式](https://www.freebuf.com/articles/database/402183.html)
+

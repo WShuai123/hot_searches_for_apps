@@ -237,3 +237,21 @@
 
 + [传闻：《异度神剑》开发商正在开发代号为“Legacy”的新项目](https://www.3dmgame.com/news/202405/3896065.html)
 
++ [腾讯游戏升级防沉迷家长管理工具 管理孩子游戏行为更便捷](https://www.3dmgame.com/news/202405/3896076.html)
+
++ [中国移动：无人机咖啡配送首次落地试飞成功](https://www.3dmgame.com/news/202405/3896077.html)
+
++ [《真女神转生5：复仇》恶魔猫妖介绍视频 性感又智慧](https://www.3dmgame.com/news/202405/3896078.html)
+
++ [钟薛高创始人直播卖红薯还债：42.9元5斤被指红薯刺客](https://www.3dmgame.com/news/202405/3896079.html)
+
++ [比亚迪新车百公里2.9L改写全球汽车油耗史 股价暴涨超8%](https://www.3dmgame.com/news/202405/3896080.html)
+
++ [复古赛车《旧日飞车》Steam心愿单突破三万 今夏抢测](https://www.3dmgame.com/news/202405/3896072.html)
+
++ [乔治·卢卡斯：《星球大战》卖迪士尼后很多理念都丢了](https://www.3dmgame.com/news/202405/3896073.html)
+
++ [文字冒险《我在异界攒功德》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3896074.html)
+
++ [《刺客信条：影》某故事时刻 玩家能选择男主或女主发言/行动](https://www.3dmgame.com/news/202405/3896075.html)
+
