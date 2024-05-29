@@ -185,3 +185,11 @@
 
 + [如何评价GPT-4o](https://blog.csdn.net/ak2111/article/details/139285839)
 
++ [AI新时代——【深度学习】驱动的【AIGC大模型】与【机器学习】的创新融合](https://blog.csdn.net/2303_77720864/article/details/139293119)
+
++ [【Paddle】稀疏计算的使用指南 & 稀疏ResNet的学习心得 (2) + Paddle3D应用实例稀疏 ResNet代码解读 （1.6w字超详细）](https://blog.csdn.net/wtyuong/article/details/139292822)
+
++ [【网络原理】HTTPS详解](https://blog.csdn.net/m0_74105656/article/details/139243171)
+
++ [前端API: IntersectionObserver的那一二三件事](https://blog.csdn.net/qq_38588845/article/details/139272562)
+
