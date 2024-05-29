@@ -211,3 +211,7 @@
 
 + [SpringBoot实现接口防抖的几种方案，杜绝重复提交](https://blog.csdn.net/kangbin825/article/details/139260550)
 
++ [文心智能体平台 | 想象即现实](https://blog.csdn.net/weixin_42794881/article/details/139260714)
+
++ [使用 retrievers 在 Elasticsearch 中进行语义重新排序](https://blog.csdn.net/UbuntuTouch/article/details/139296204)
+

@@ -49,3 +49,9 @@
 
 + [一代传奇落幕，再见了迈锐宝](https://m.ithome.com/html/771577.htm)
 
++ [国务院：逐步取消各地新能源汽车购买限制](https://m.ithome.com/html/771607.htm)
+
++ [奇瑞 x 华为首车智界 S7 开启大规模交付，奇瑞董事长尹同跃亲自交车](https://m.ithome.com/html/771450.htm)
+
++ [大招码上来，苹果公布 WWDC 2024 全球开发者大会日程安排](https://m.ithome.com/html/771393.htm)
+

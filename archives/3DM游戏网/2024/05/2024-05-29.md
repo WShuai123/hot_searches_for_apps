@@ -283,3 +283,5 @@
 
 + [《使命召唤21：黑色行动6》官方简体中文预告](https://www.3dmgame.com/news/202405/3896092.html)
 
++ [怀旧的味道！还记得2010年的Steam什么样吗](https://www.3dmgame.com/news/202405/3896095.html)
+
