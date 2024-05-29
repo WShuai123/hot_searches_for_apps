@@ -285,3 +285,5 @@
 
 + [怀旧的味道！还记得2010年的Steam什么样吗](https://www.3dmgame.com/news/202405/3896095.html)
 
++ [《使命召唤21》将登录所有层级Game Pass 包含PC版](https://www.3dmgame.com/news/202405/3896096.html)
+

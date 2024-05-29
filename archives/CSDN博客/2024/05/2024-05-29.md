@@ -215,3 +215,7 @@
 
 + [使用 retrievers 在 Elasticsearch 中进行语义重新排序](https://blog.csdn.net/UbuntuTouch/article/details/139296204)
 
++ [Android 项目Gradle文件讲解（Groovy和Kotlin）](https://blog.csdn.net/qq_38436214/article/details/135018581)
+
++ [Prompt工程与实践](https://blog.csdn.net/m0_74120525/article/details/139304005)
+

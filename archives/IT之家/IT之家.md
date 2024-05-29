@@ -55,3 +55,7 @@
 
 + [大招码上来，苹果公布 WWDC 2024 全球开发者大会日程安排](https://m.ithome.com/html/771393.htm)
 
++ [5.99 万元起，2024 款奇瑞艾瑞泽 5 惠民版汽车上市](https://m.ithome.com/html/771557.htm)
+
++ [华为鸿蒙智行首款行政级豪华旗舰轿车，享界 S9 官宣 5 月 31 日揭秘](https://m.ithome.com/html/771423.htm)
+
