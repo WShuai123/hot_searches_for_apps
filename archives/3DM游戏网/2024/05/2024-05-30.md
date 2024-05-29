@@ -101,3 +101,7 @@
 
 + [《不羁联盟》制作人点赞“遇不到菜B对手是因为你自己菜”](https://www.3dmgame.com/news/202405/3896048.html)
 
++ [《高尔夫之家2》7月25日发售 登陆PC和主机](https://www.3dmgame.com/news/202405/3896100.html)
+
++ [《真人快打1》祖国人新预告 6月4日上线](https://www.3dmgame.com/news/202405/3896099.html)
+
