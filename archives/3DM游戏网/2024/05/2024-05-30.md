@@ -113,3 +113,13 @@
 
 + [《怪物猎人：荒野》新预告片将在10天内发布](https://www.3dmgame.com/news/202405/3896101.html)
 
++ [《火影忍者:终极风暴 羁绊》新增医疗忍者夕日红](https://www.3dmgame.com/news/202405/3896109.html)
+
++ [全平台《无人深空》即将推出Adrift大型更新](https://www.3dmgame.com/news/202405/3896108.html)
+
++ [2D像素游戏《日薄西山》6月6日登陆Switch](https://www.3dmgame.com/news/202405/3896107.html)
+
++ [万代南梦宫宣布所有《高达创坏者4》预购用户免费升级](https://www.3dmgame.com/news/202405/3896106.html)
+
++ [牧场物语系列发行商将于月末举行游戏发布会](https://www.3dmgame.com/news/202405/3896105.html)
+
