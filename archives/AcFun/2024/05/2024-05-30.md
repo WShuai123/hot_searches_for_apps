@@ -67,3 +67,7 @@
 
 + [比亚迪秦L满油满电跑2400公里，详细测试过程来了，服不服？](http://www.acfun.cn/v/ac44676060)
 
++ [世界末日机械姬丨Armageddon➻](http://www.acfun.cn/v/ac44676099)
+
++ [妄语人间【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44678783)
+

@@ -69,3 +69,19 @@
 
 + [Glyph Beer 45](https://dribbble.com/shots/)
 
++ [Fall Down](https://dribbble.com/shots/)
+
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Web design for SAS Design Studio](https://dribbble.com/shots/)
+
++ [Traveller Chair](https://dribbble.com/shots/)
+
++ [Foo Fighters Graphic](https://dribbble.com/shots/)
+
++ [Security](https://dribbble.com/shots/)
+
++ [Lion Logomark Illustrated by Steven Noble](https://dribbble.com/shots/)
+
++ [Storytelling with Typography](https://dribbble.com/shots/)
+
