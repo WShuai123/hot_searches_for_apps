@@ -277,3 +277,9 @@
 
 + [传RTX 5090 FE为双槽厚度 配备双风扇散热设计](https://www.3dmgame.com/news/202405/3896091.html)
 
++ [迪士尼年度巨制《海洋奇缘2》首支预告重磅来袭](https://www.3dmgame.com/news/202405/3896094.html)
+
++ [《使命召唤》外挂公司被判赔偿动视1400万美元 并上交其域名](https://www.3dmgame.com/news/202405/3896093.html)
+
++ [《使命召唤21：黑色行动6》官方简体中文预告](https://www.3dmgame.com/news/202405/3896092.html)
+

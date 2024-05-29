@@ -45,3 +45,7 @@
 
 + [吉利汽车：雷神发动机最高热效率 46.1%，全球最高事实说了算](https://m.ithome.com/html/771545.htm)
 
++ [vivo X100 Ultra 手机开售 1 小时销售额突破 5 亿元](https://m.ithome.com/html/771420.htm)
+
++ [一代传奇落幕，再见了迈锐宝](https://m.ithome.com/html/771577.htm)
+

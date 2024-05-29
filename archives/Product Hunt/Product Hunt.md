@@ -147,3 +147,21 @@
 
 + [Every Bookkeeping & Taxes](https://www.producthunt.com/posts/every-bookkeeping-taxes)
 
++ [Bear Habit Tracker](https://www.producthunt.com/posts/bear-habit-tracker)
+
++ [Pantry](https://www.producthunt.com/posts/pantry-2)
+
++ [Rupt](https://www.producthunt.com/posts/rupt-3)
+
++ [SoloDataHub](https://www.producthunt.com/posts/solodatahub)
+
++ [No-Code Scraper](https://www.producthunt.com/posts/no-code-scraper)
+
++ [MarsCode](https://www.producthunt.com/posts/marscode)
+
++ [Justinmind User Flows](https://www.producthunt.com/posts/justinmind-user-flows)
+
++ [Devinstock](https://www.producthunt.com/posts/devinstock)
+
++ [Closely 2.0](https://www.producthunt.com/posts/closely-2-0)
+
