@@ -105,3 +105,11 @@
 
 + [《真人快打1》祖国人新预告 6月4日上线](https://www.3dmgame.com/news/202405/3896099.html)
 
++ [由于歪曲言论 索尼已删除顽皮狗老板访谈内容](https://www.3dmgame.com/news/202405/3896104.html)
+
++ [健康探索游戏《漫漫长路：沙巫之旅》公布](https://www.3dmgame.com/news/202405/3896103.html)
+
++ [Steam版《双人成行》不再需要EA启动器](https://www.3dmgame.com/news/202405/3896102.html)
+
++ [《怪物猎人：荒野》新预告片将在10天内发布](https://www.3dmgame.com/news/202405/3896101.html)
+

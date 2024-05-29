@@ -107,3 +107,21 @@
 
 + [前端加密的方式汇总](https://blog.csdn.net/sinat_36728518/article/details/139258871)
 
++ [【机器学习】K-近邻算法（KNN）全面解析](https://blog.csdn.net/qq_44214428/article/details/139275924)
+
++ [Ownips+Coze海外社媒数据分析实战指南](https://blog.csdn.net/air__Heaven/article/details/139259227)
+
++ [【机器学习】深入探索机器学习：线性回归算法的原理与应用](https://blog.csdn.net/EterNity_TiMe_/article/details/139262691)
+
++ [SpringBootWeb 篇-深入了解会话技术与会话跟踪三种技术（Cookie 会话跟踪、Session 会话跟踪与 JWT 令牌会话跟踪）](https://blog.csdn.net/Tingfeng__/article/details/139303079)
+
++ [Android 项目Gradle文件讲解（Groovy和Kotlin）](https://blog.csdn.net/qq_38436214/article/details/135018581)
+
++ [SpringBoot——数据访问](https://blog.csdn.net/zhengzhaoyang122/article/details/139022030)
+
++ [我的创作纪念日——我与CSDN一起走过的128天](https://blog.csdn.net/2301_80220607/article/details/139236782)
+
++ [智慧冶金：TSINGSEE青犀AI+视频技术助力打造高效、安全的生产环境](https://blog.csdn.net/TsingSee/article/details/139273289)
+
++ [《TCP/IP网络编程》（第十二章）I/O复用（1）](https://blog.csdn.net/m0_53115174/article/details/139278620)
+

@@ -25,3 +25,5 @@
 
 + [微软更新 Win11 OOBE 装机体验，启用全新用户界面](https://m.ithome.com/html/771408.htm)
 
++ [京东旗下京喜品牌升级：推出全托管模式，更名为“京喜自营”](https://m.ithome.com/html/771575.htm)
+
