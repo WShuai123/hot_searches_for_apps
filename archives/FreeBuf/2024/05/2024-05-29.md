@@ -65,3 +65,7 @@
 
 + [威胁就在身边，盘点五大令人意想不到的数据泄露方式](https://www.freebuf.com/articles/database/402183.html)
 
++ [35+程序员，就要站在职场的废墟上了吗？](https://www.freebuf.com/articles/others-articles/402211.html)
+
++ [星链被俄罗斯网络攻破，乌军面临严重挑战](https://www.freebuf.com/news/402143.html)
+

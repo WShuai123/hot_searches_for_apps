@@ -193,3 +193,13 @@
 
 + [前端API: IntersectionObserver的那一二三件事](https://blog.csdn.net/qq_38588845/article/details/139272562)
 
++ [【大数据】Hadoop 2.X和1.X升级优化对比](https://blog.csdn.net/Joker_ZJN/article/details/139288574)
+
++ [【赠书第25期】C#项目开发实战（微视频版）](https://blog.csdn.net/qq_20016593/article/details/139186554)
+
++ [数据库中的六大锁](https://blog.csdn.net/m0_59679869/article/details/139263765)
+
++ [网络侦察技术](https://blog.csdn.net/yang2330648064/article/details/139262202)
+
++ [性能测试（一）—— 性能测试理论+jmeter的使用](https://blog.csdn.net/2401_83060956/article/details/139273088)
+

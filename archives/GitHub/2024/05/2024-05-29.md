@@ -51,3 +51,39 @@
 
 + [langchain-ai / langgraph](https://github.com/langchain-ai/langgraph)
 
++ [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+
++ [truefoundry / cognita](https://github.com/truefoundry/cognita)
+
++ [RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
++ [Kong / kong](https://github.com/Kong/kong)
+
++ [cameron314 / concurrentqueue](https://github.com/cameron314/concurrentqueue)
+
++ [vladmandic / automatic](https://github.com/vladmandic/automatic)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [goauthentik / authentik](https://github.com/goauthentik/authentik)
+
++ [quickwit-oss / tantivy](https://github.com/quickwit-oss/tantivy)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [cilium / cilium](https://github.com/cilium/cilium)
+
++ [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi)
+
++ [swagger-api / swagger-ui](https://github.com/swagger-api/swagger-ui)
+
++ [bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
+

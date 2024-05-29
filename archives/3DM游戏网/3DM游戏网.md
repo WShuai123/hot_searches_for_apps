@@ -257,3 +257,21 @@
 
 + [全球研发投入前十企业排行 中企仅华为一家上榜](https://www.3dmgame.com/news/202405/3896081.html)
 
++ [女子把婚车换成小米SU7感觉如女明星 感谢雷军造出完美车](https://www.3dmgame.com/news/202405/3896090.html)
+
++ [周鸿祎说巴黎奥运会徽撞脸陈鲁豫引围观：真越看越上头](https://www.3dmgame.com/news/202405/3896089.html)
+
++ [“SEGA初夏促销”火热进行中！《人中之龙８》及《女神异闻录５ 战略版》参与促销](https://www.3dmgame.com/news/202405/3896088.html)
+
++ [《恶魔鉴定守则》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3896087.html)
+
++ [《地下城与勇士：决斗》新DLC角色“气功师”实机演示 6月13日上线](https://www.3dmgame.com/news/202405/3896086.html)
+
++ [富坚义博意外发布小杰彩色插画 粉丝惊叹初见必须收藏](https://www.3dmgame.com/news/202405/3896085.html)
+
++ [《雾锁王国》史低价78元促销中，第二个大型更新即将上线](https://www.3dmgame.com/news/202405/3896084.html)
+
++ [KK官方对战平台赏金赛火热开启，与美女激战忍村爽赢网费！](https://www.3dmgame.com/news/202405/3896083.html)
+
++ [SteamDB创始人: V社正在开发Steam录制剪辑功能](https://www.3dmgame.com/news/202405/3896082.html)
+
