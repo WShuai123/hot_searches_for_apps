@@ -205,3 +205,11 @@
 
 + [奇幻模拟经营游戏《酒馆老板》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202405/3896052.html)
 
++ [《DayZ》更新1.25发布 更多新内容DLCLivonia免费化](https://www.3dmgame.com/news/202405/3896057.html)
+
++ [《华纳大乱斗》重启大获成功 Steam玩家多达11万人](https://www.3dmgame.com/news/202405/3896059.html)
+
++ [《海洋奇缘2》首张宣传海报公布 明天发布新预告](https://www.3dmgame.com/news/202405/3896058.html)
+
++ [《胜利女神：妮姬》推出亚克力板对战游戏 8月23日发售](https://www.3dmgame.com/news/202405/3896056.html)
+

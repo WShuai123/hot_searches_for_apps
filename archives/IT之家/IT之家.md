@@ -39,3 +39,5 @@
 
 + [法拉第未来称可能永远无法盈利，FF 91 Futurist 汽车去年交付 4 辆、租赁 6 辆](https://m.ithome.com/html/771407.htm)
 
++ [12+256G 京东 2799 元：小米 13 手机限时百亿补贴 6 期免息](https://m.ithome.com/html/771434.htm)
+

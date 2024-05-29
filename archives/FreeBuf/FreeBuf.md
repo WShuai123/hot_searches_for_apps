@@ -61,3 +61,5 @@
 
 + [利用80多个漏洞，安全专家揭露新型DoS攻击技术](https://www.freebuf.com/news/402138.html)
 
++ [NTLM Relay Gat：自动化NTLM中继安全检测工具](https://www.freebuf.com/sectool/401703.html)
+

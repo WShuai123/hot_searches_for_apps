@@ -101,3 +101,37 @@
 
 + [CoinPays Payment Gateway](https://www.producthunt.com/posts/coinpays-payment-gateway)
 
++ [Hex](https://www.producthunt.com/posts/hex)
+
++ [The Weekendest iOS App](https://www.producthunt.com/posts/the-weekendest-ios-app)
+
++ [AI-Powered Sleep Stories](https://www.producthunt.com/posts/ai-powered-sleep-stories)
+
++ [Guider](https://www.producthunt.com/posts/guider)
+
++ [Fryderyk](https://www.producthunt.com/posts/fryderyk)
+
++ [timeOS 2.0](https://www.producthunt.com/posts/timeos-2-0-1)
+
++ [SvelteShip](https://www.producthunt.com/posts/svelteship)
+
++ [Visme Forms](https://www.producthunt.com/posts/visme-forms)
+
++ [Qaiz](https://www.producthunt.com/posts/qaiz)
+
++ [Wellpin](https://www.producthunt.com/posts/wellpin)
+
++ [Trip Tunes](https://www.producthunt.com/posts/trip-tunes)
+
++ [Backseat AI by Tyler1](https://www.producthunt.com/posts/backseat-ai-by-tyler1)
+
++ [CrestGPT](https://www.producthunt.com/posts/crestgpt-2)
+
++ [Command Stick™️ for Android](https://www.producthunt.com/posts/command-stick-for-android)
+
++ [Closely](https://www.producthunt.com/posts/closely-2)
+
++ [Syllaby V2.0](https://www.producthunt.com/posts/syllaby-v2-0)
+
++ [Coverse.one](https://www.producthunt.com/posts/coverse-one)
+
