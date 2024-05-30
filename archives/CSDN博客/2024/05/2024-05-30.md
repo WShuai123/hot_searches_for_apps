@@ -159,3 +159,5 @@
 
 + [手摸手教你uniapp原生插件开发](https://blog.csdn.net/liudao7994/article/details/139250089)
 
++ [【云原生】kubernetes中pod的生命周期、探测钩子的实战应用案例解析](https://blog.csdn.net/littlefun591/article/details/139310755)
+

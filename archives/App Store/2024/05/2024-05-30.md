@@ -205,3 +205,5 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [悟空浏览器-看短剧小说影视](https://itunes.apple.com/cn/app/id6473782436?mt=8)
+

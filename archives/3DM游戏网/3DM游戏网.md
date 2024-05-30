@@ -221,3 +221,25 @@
 
 + [《绝地求生》被疑抽奖概率造假 遭到韩国公正委员会调查](https://www.3dmgame.com/news/202405/3896158.html)
 
++ [《建筑师生活: 房屋设计模拟》Steam页面 明年发售](https://www.3dmgame.com/news/202405/3896169.html)
+
++ [什么样的玩家使用游戏订阅服务？多为中高收入男性](https://www.3dmgame.com/news/202405/3896168.html)
+
++ [鬼蟹谈MMORPG的战斗设计问题：无数的增益和减益图标](https://www.3dmgame.com/news/202405/3896167.html)
+
++ [冲进Steam热销TOP10！二次元吃鸡MOBA《永恒轮回》S4泳装赛季清凉开启](https://www.3dmgame.com/news/202405/3896166.html)
+
++ [赏金猎人保卫比萨店 多人合作射击游戏《比萨强盗》开启封闭A测](https://www.3dmgame.com/news/202405/3896163.html)
+
++ [KK官方对战平台新图推荐 登天路，战歌行，畅享你的修仙之旅！](https://www.3dmgame.com/news/202405/3896165.html)
+
++ [KK官方对战平台童心未泯，老男孩们一起玩转六一！](https://www.3dmgame.com/news/202405/3896164.html)
+
++ [《Urban Jungle》新试玩发布 房间布置装修模拟器](https://www.3dmgame.com/news/202405/3896162.html)
+
++ [历史奇幻恋爱游戏《明治东京恋语》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3896161.html)
+
++ [漫改动画《这个世界漏洞百出》第2弹PV放出 7月5日开播](https://www.3dmgame.com/news/202405/3896160.html)
+
++ [《模拟人生4》将推每日登陆活动 奖励长期玩家](https://www.3dmgame.com/news/202405/3896159.html)
+
