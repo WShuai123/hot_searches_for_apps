@@ -161,3 +161,29 @@
 
 + [ARPG《Kristala》抢先体验版6月7日推出 化身猫战士](https://www.3dmgame.com/news/202405/3896113.html)
 
++ [原Epic独占《指环王：重返莫瑞亚》Steam页面 发售日期待定](https://www.3dmgame.com/news/202405/3896141.html)
+
++ [《华纳大乱斗》重启获热度 但需要付费解锁英雄引玩家不满](https://www.3dmgame.com/news/202405/3896137.html)
+
++ [《工房库：噩梦历险记》 登陆Switch 经典奇幻名作](https://www.3dmgame.com/news/202405/3896140.html)
+
++ [据报道《正当防卫》改编电影正在制作中 由《蓝甲虫》导演执导](https://www.3dmgame.com/news/202405/3896139.html)
+
++ [《双人成行》新更新导致云存档丢失 EA分享通关存档](https://www.3dmgame.com/news/202405/3896138.html)
+
++ [《燕云十六声》伞武器情报：出招变化莫测 势入千钧](https://www.3dmgame.com/news/202405/3896136.html)
+
++ [《辐射》系列游戏席卷美国4月玩家游玩时长排行榜](https://www.3dmgame.com/news/202405/3896134.html)
+
++ [《地下城与勇士》手游上市首周收入1.4亿美元 吸金怪兽！](https://www.3dmgame.com/news/202405/3896132.html)
+
++ [像素风地下城建造游戏《地牢大师》现已在Steam推出抢先体验版](https://www.3dmgame.com/news/202405/3896131.html)
+
++ [《真女神转生5：复仇》新宣传PV公布 6月14日发售](https://www.3dmgame.com/news/202405/3896130.html)
+
++ [《绝地战警：生死与共》国内定档 6月22日上映](https://www.3dmgame.com/news/202405/3896129.html)
+
++ [经营游戏《原地起啡》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202405/3896135.html)
+
++ [总有几个好评的 日媒评选动慢真人改编排行《死亡笔记》第三](https://www.3dmgame.com/news/202405/3896133.html)
+

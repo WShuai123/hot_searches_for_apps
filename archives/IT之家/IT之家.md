@@ -37,3 +37,5 @@
 
 + [部分地区 1786 元：京东 iPad 2021 款限时清仓新低（日常 2599 元）](https://m.ithome.com/html/771472.htm)
 
++ [自定义 GPT 等 GPT-4o 新功能现已向 ChatGPT 全体用户免费开放](https://m.ithome.com/html/771647.htm)
+

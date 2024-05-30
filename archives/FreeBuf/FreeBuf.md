@@ -45,3 +45,5 @@
 
 + [登录账户密码字典暴力破解攻击——hydra 工具详细使用教程](https://www.freebuf.com/articles/web/402017.html)
 
++ [漏洞盒子 × 去哪儿SRC | 漏洞盒子「企业SRC」新住客](https://www.freebuf.com/articles/402231.html)
+
