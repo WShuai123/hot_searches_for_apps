@@ -45,3 +45,9 @@
 
 + [极氪 007 以 1 分 41 秒 740 成绩刷新浙赛圈速纪录](https://m.ithome.com/html/771740.htm)
 
++ [首批比亚迪秦 L 交付，王传福亲自为车主交车](https://m.ithome.com/html/771825.htm)
+
++ [小米移动客服热线“4009223838”停止服务，升级为“10046”](https://m.ithome.com/html/771775.htm)
+
++ [腾讯《地下城与勇士》手游被爆首周收入超 1.4 亿美元，登顶中国区苹果 App Store 免费游戏榜](https://m.ithome.com/html/771720.htm)
+

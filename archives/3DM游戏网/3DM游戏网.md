@@ -255,3 +255,31 @@
 
 + [《大侦探福尔摩斯》导演盖·里奇将执导《少年夏洛克》剧集](https://www.3dmgame.com/news/202405/3896174.html)
 
++ [《DEBUG女友》登陆Steam 与可爱女友的游戏创作之旅](https://www.3dmgame.com/news/202405/3896188.html)
+
++ [《死亡搁浅》等游戏获得苹果2024年设计大奖提名](https://www.3dmgame.com/news/202405/3896189.html)
+
++ [Shiravune初夏特卖开启！最低2折起！](https://www.3dmgame.com/news/202405/3896185.html)
+
++ [挖掘记忆里不为人知的秘密 -- 潜力解密独游《晨海星澜》初玩印象](https://www.3dmgame.com/news/202405/3896184.html)
+
++ [狗好，人也好！《过木不汪》5月30日登陆NS，首发9折优惠，支持简体中文](https://www.3dmgame.com/news/202405/3896183.html)
+
++ [迈克尔道格拉斯：现代电影对亲密性爱戏控制过多](https://www.3dmgame.com/news/202405/3896182.html)
+
++ [《龙珠：电光火石0》将在7月Jump嘉年华展台提供试玩](https://www.3dmgame.com/news/202405/3896181.html)
+
++ [《机动战士高达 激战任务2》新机体「ν高达[ＨＷＳ装备] 」登场 １周年记念活动开始](https://www.3dmgame.com/news/202405/3896180.html)
+
++ [特斯拉上海车展事件组织者败诉 被判道歉并赔偿25万元](https://www.3dmgame.com/news/202405/3896179.html)
+
++ [武侠单机《江湖路：缘起》正式定名《刀剑江湖路》 即将参加Steam新品节](https://www.3dmgame.com/news/202405/3896178.html)
+
++ [传小米欲收购恒大汽车 小米回应：没听说这回事](https://www.3dmgame.com/news/202405/3896177.html)
+
++ [化身鲁滨孙流落荒岛，《求生岛》1.0版推出Steam特别好评](https://www.3dmgame.com/news/202405/3896187.html)
+
++ [腾讯正式发布AI助手App“腾讯元宝”：提供口语陪练特色应用](https://www.3dmgame.com/news/202405/3896186.html)
+
++ [可口可乐国内悄然涨价：消息称提价幅度16%](https://www.3dmgame.com/news/202405/3896176.html)
+
