@@ -53,3 +53,7 @@
 
 + [华为 MatePad 11.5 英寸 S 平板今日开售：提供灵动、柔光双版本，首发 1899 元起](https://m.ithome.com/html/771704.htm)
 
++ [特斯拉“车顶维权”当事女车主被判公开致歉、赔偿 17 万元](https://m.ithome.com/html/771874.htm)
+
++ [中国联通 6 月 12 日起停止在线上办理 5G 通信壳业务，曾让华为 4G 手机外挂 5G](https://m.ithome.com/html/771829.htm)
+
