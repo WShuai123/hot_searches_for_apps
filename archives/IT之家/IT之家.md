@@ -39,3 +39,5 @@
 
 + [自定义 GPT 等 GPT-4o 新功能现已向 ChatGPT 全体用户免费开放](https://m.ithome.com/html/771647.htm)
 
++ [华为畅享 70S 手机今日首销：6000 mAh 电池 + 骁龙 680 处理器，1199 元起](https://m.ithome.com/html/771655.htm)
+

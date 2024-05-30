@@ -187,3 +187,15 @@
 
 + [总有几个好评的 日媒评选动慢真人改编排行《死亡笔记》第三](https://www.3dmgame.com/news/202405/3896133.html)
 
++ [多人射击游戏《牛仔3030》现已在Steam平台推出抢先体验版 已获好评](https://www.3dmgame.com/news/202405/3896142.html)
+
++ [深度牧场生活模拟游戏《Rancher: A new life》Steam页面 明年发行](https://www.3dmgame.com/news/202405/3896143.html)
+
++ [ 《反转21克》今日上线，与七位红颜一起揭开电影级科幻的谜团！](https://www.3dmgame.com/news/202405/3896144.html)
+
++ [拉瑞安老板：《巫师4》《GTA6》会让《博德3》相形见绌](https://www.3dmgame.com/news/202405/3896145.html)
+
++ [为梦想真的窒息了 贾跃亭承认法拉第可能永远无法盈利](https://www.3dmgame.com/news/202405/3896146.html)
+
++ [《霍格沃茨之遗》本周公布新消息 PS独占任务将登陆其他平台](https://www.3dmgame.com/news/202405/3896147.html)
+

@@ -141,3 +141,7 @@
 
 + [云计算-高级云架构 (Advanced Cloud Architecture)](https://blog.csdn.net/qq_54813250/article/details/139250853)
 
++ [学业辅导导师：文心一言智能体详细介绍和开发](https://blog.csdn.net/weixin_51390582/article/details/139195412)
+
++ [分布式锁的设计与实现：基于Redis的方案](https://blog.csdn.net/shippingxing/article/details/139253133)
+

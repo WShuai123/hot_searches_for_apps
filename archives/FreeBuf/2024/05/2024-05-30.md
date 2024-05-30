@@ -47,3 +47,7 @@
 
 + [漏洞盒子 × 去哪儿SRC | 漏洞盒子「企业SRC」新住客](https://www.freebuf.com/articles/402231.html)
 
++ [Fortinet 曝一严重漏洞 POC，可获得 SIEM 根访问权限](https://www.freebuf.com/news/402244.html)
+
++ [网络犯罪分子利用 StackOverflow 推广恶意 Python 软件包](https://www.freebuf.com/news/402227.html)
+
