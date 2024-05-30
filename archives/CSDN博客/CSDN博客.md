@@ -147,3 +147,7 @@
 
 + [redis 集群 底层原理以及实操](https://blog.csdn.net/qiuqiushuibx/article/details/139305404)
 
++ [基于python flask的旅游数据大屏实现，有爬虫有数据库](https://blog.csdn.net/weixin_49081159/article/details/139307889)
+
++ [计算机网络导论](https://blog.csdn.net/new_light123/article/details/139250748)
+
