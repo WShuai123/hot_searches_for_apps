@@ -289,3 +289,7 @@
 
 + [华为谈我国芯片技术：3/5nm肯定得不到 解决7nm就非常好](https://www.3dmgame.com/news/202405/3896191.html)
 
++ [类魂游戏《堕落之主》现已加入Game Pass](https://www.3dmgame.com/news/202405/3896194.html)
+
++ [《荒野大镖客：救赎》PC版可能在开发中 但不会很快到来](https://www.3dmgame.com/news/202405/3896192.html)
+

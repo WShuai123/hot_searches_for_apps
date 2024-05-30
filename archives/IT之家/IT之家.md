@@ -59,3 +59,5 @@
 
 + [禁止汽车单踏板完全刹停，制动系统新国标征求意见稿发布](https://m.ithome.com/html/771870.htm)
 
++ [WPS Office 开启 Windows 64 位版本内测：性能提升、支持触屏](https://m.ithome.com/html/771846.htm)
+
