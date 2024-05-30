@@ -51,3 +51,37 @@
 
 + [bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
 
++ [2noise / ChatTTS](https://github.com/2noise/ChatTTS)
+
++ [karpathy / llm.c](https://github.com/karpathy/llm.c)
+
++ [tencent-ailab / V-Express](https://github.com/tencent-ailab/V-Express)
+
++ [googleapis / elixir-google-api](https://github.com/googleapis/elixir-google-api)
+
++ [webprodigies / corinna-ai](https://github.com/webprodigies/corinna-ai)
+
++ [TMElyralab / MusePose](https://github.com/TMElyralab/MusePose)
+
++ [lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [PrefectHQ / prefect](https://github.com/PrefectHQ/prefect)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [neondatabase / neon](https://github.com/neondatabase/neon)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [AI4Finance-Foundation / FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+
++ [microsoft / MS-DOS](https://github.com/microsoft/MS-DOS)
+
++ [hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)
+
++ [Jeff-LiangF / streamv2v](https://github.com/Jeff-LiangF/streamv2v)
+
++ [google / googletest](https://github.com/google/googletest)
+

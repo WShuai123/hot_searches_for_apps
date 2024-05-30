@@ -51,3 +51,5 @@
 
 + [腾讯《地下城与勇士》手游被爆首周收入超 1.4 亿美元，登顶中国区苹果 App Store 免费游戏榜](https://m.ithome.com/html/771720.htm)
 
++ [华为 MatePad 11.5 英寸 S 平板今日开售：提供灵动、柔光双版本，首发 1899 元起](https://m.ithome.com/html/771704.htm)
+

@@ -145,3 +145,5 @@
 
 + [Kino](https://www.producthunt.com/posts/kino-2)
 
++ [Private Company Database 2.0](https://www.producthunt.com/posts/private-company-database-2-0)
+
