@@ -123,3 +123,7 @@
 
 + [牧场物语系列发行商将于月末举行游戏发布会](https://www.3dmgame.com/news/202405/3896105.html)
 
++ [腾讯《硅基宇宙》实机演示 开放宇宙没有读条加载](https://www.3dmgame.com/news/202405/3896111.html)
+
++ [CDPR将为《赛博朋克2077》提供FSR3支持 尽管没专门团队](https://www.3dmgame.com/news/202405/3896110.html)
+

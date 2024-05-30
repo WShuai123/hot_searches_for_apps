@@ -27,3 +27,9 @@
 
 + [京东旗下京喜品牌升级：推出全托管模式，更名为“京喜自营”](https://m.ithome.com/html/771575.htm)
 
++ [手机性能再上新台阶：Arm 发布 Cortex-X925 CPU 和 Immortalis G925 GPU](https://m.ithome.com/html/771640.htm)
+
++ [中国消费者诉苹果反垄断案一审宣判：苹果有市场支配地位，但未滥用](https://m.ithome.com/html/771617.htm)
+
++ [萝卜快跑被投诉严重影响交通，公司回应：与事实严重不符，已报案](https://m.ithome.com/html/771637.htm)
+

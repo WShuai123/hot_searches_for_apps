@@ -41,3 +41,5 @@
 
 + [SqliSniper：针对HTTP Header的基于时间SQL盲注模糊测试工具](https://www.freebuf.com/sectool/401704.html)
 
++ [Android安全 | SoumniBot恶意软件非常规分析和检测规避方法](https://www.freebuf.com/articles/mobile/400880.html)
+
