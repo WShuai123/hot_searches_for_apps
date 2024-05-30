@@ -177,3 +177,5 @@
 
 + [社区供稿丨GPT-4o 对实时互动与 RTC 的影响](https://blog.csdn.net/agora_cloud/article/details/139299316)
 
++ [【好书推荐-第十九期】《云原生测试实战》](https://blog.csdn.net/weixin_51484460/article/details/139332700)
+

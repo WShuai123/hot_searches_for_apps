@@ -293,3 +293,11 @@
 
 + [《荒野大镖客：救赎》PC版可能在开发中 但不会很快到来](https://www.3dmgame.com/news/202405/3896192.html)
 
++ [Fami通新一周销量榜 《纸片马里奥：千里之门》登顶](https://www.3dmgame.com/news/202405/3896198.html)
+
++ [《霍格沃茨之遗》夏季免费更新6月6日上线 将加入拍照模式](https://www.3dmgame.com/news/202405/3896195.html)
+
++ [SIE：对未来发布的手游作品感到兴奋](https://www.3dmgame.com/news/202405/3896196.html)
+
++ [《无限试驾：太阳王冠》发售日确定 9月12日推出](https://www.3dmgame.com/news/202405/3896197.html)
+
