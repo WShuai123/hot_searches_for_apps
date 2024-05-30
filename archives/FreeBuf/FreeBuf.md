@@ -53,3 +53,7 @@
 
 + [Linux应急响应思路和技巧：进程分析篇](https://www.freebuf.com/articles/system/401918.html)
 
++ [jsmug：一个针对JSON Smuggling技术的测试PoC环境](https://www.freebuf.com/sectool/401923.html)
+
++ [50 万客户受影响，拍卖行佳士得遭遇网络攻击](https://www.freebuf.com/news/402249.html)
+

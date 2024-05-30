@@ -105,3 +105,13 @@
 
 + [Biofy.io 2.0](https://www.producthunt.com/posts/biofy-io-2-0)
 
++ [Meme Depot](https://www.producthunt.com/posts/meme-depot)
+
++ [Dailies](https://www.producthunt.com/posts/dailies)
+
++ [Hyperswitch - Control Centre](https://www.producthunt.com/posts/hyperswitch-control-centre)
+
++ [SukuPay](https://www.producthunt.com/posts/sukupay)
+
++ [Ezy-Newz](https://www.producthunt.com/posts/ezy-newz)
+
