@@ -43,3 +43,5 @@
 
 + [Android安全 | SoumniBot恶意软件非常规分析和检测规避方法](https://www.freebuf.com/articles/mobile/400880.html)
 
++ [登录账户密码字典暴力破解攻击——hydra 工具详细使用教程](https://www.freebuf.com/articles/web/402017.html)
+

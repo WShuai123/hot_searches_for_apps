@@ -127,3 +127,37 @@
 
 + [CDPR将为《赛博朋克2077》提供FSR3支持 尽管没专门团队](https://www.3dmgame.com/news/202405/3896110.html)
 
++ [PlayStation VR2尚未公布的PC适配器在韩国通过审批](https://www.3dmgame.com/news/202405/3896121.html)
+
++ [《Battledroid》开启众筹 自动化战斗现代战争模拟器](https://www.3dmgame.com/news/202405/3896122.html)
+
++ [《GT赛车7》五月更新上线 新增汽车品牌沃尔沃](https://www.3dmgame.com/news/202405/3896123.html)
+
++ [《使命召唤：黑色行动6》金库版官方主要艺术图泄露](https://www.3dmgame.com/news/202405/3896124.html)
+
++ [《双狼》正式预告 布拉德·皮特×乔治·克鲁尼再次同台飙戏](https://www.3dmgame.com/news/202405/3896125.html)
+
++ [太空冒险模拟游戏《追星流浪者》现已在Steam平台正式发售 获特别好评](https://www.3dmgame.com/news/202405/3896126.html)
+
++ [《指环王：力量之戒》第二季新剧照 汤姆庞巴迪现身](https://www.3dmgame.com/news/202405/3896127.html)
+
++ [《使命召唤：黑色行动 6》Steam页面上线 支持中文](https://www.3dmgame.com/news/202405/3896128.html)
+
++ [《使命召唤21》还将登陆PS4和Xbox One 高级版曝光](https://www.3dmgame.com/news/202405/3896114.html)
+
++ [《女神异闻录6》灵感来源于横滨大富翁 真没想到！](https://www.3dmgame.com/news/202405/3896115.html)
+
++ [索尼计划每年推出一部以上新IP游戏迎接年末商战 另推革新性游戏](https://www.3dmgame.com/news/202405/3896116.html)
+
++ [亚马逊将发行3A叙事驱动开放世界驾驶游戏](https://www.3dmgame.com/news/202405/3896117.html)
+
++ [《漫威蜘蛛侠2》全球销量已超1100万套](https://www.3dmgame.com/news/202405/3896118.html)
+
++ [《使命召唤》x《辐射》联动“放逐者”捆绑包泄露](https://www.3dmgame.com/news/202405/3896119.html)
+
++ [Remedy预热《心灵杀手2》首个DLC 或将亮相夏日游戏节](https://www.3dmgame.com/news/202405/3896120.html)
+
++ [SIE：PS4仍然很重要 主机月活一半是PS4玩家](https://www.3dmgame.com/news/202405/3896112.html)
+
++ [ARPG《Kristala》抢先体验版6月7日推出 化身猫战士](https://www.3dmgame.com/news/202405/3896113.html)
+
