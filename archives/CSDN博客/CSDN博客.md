@@ -161,3 +161,5 @@
 
 + [【云原生】kubernetes中pod的生命周期、探测钩子的实战应用案例解析](https://blog.csdn.net/littlefun591/article/details/139310755)
 
++ [【SPSS】基于因子分析法对水果茶调查问卷进行分析](https://blog.csdn.net/m0_64336780/article/details/138445737)
+

@@ -243,3 +243,15 @@
 
 + [《模拟人生4》将推每日登陆活动 奖励长期玩家](https://www.3dmgame.com/news/202405/3896159.html)
 
++ [RTS《要塞》系列新商标曝光：《要塞：黑暗时代》](https://www.3dmgame.com/news/202405/3896171.html)
+
++ [《黑袍纠察队》第四季新剧照 阿祖的迷人微笑](https://www.3dmgame.com/news/202405/3896173.html)
+
++ [抖音官宣：周星驰首部微短剧《金猪玉叶》6月2日上线 共24集](https://www.3dmgame.com/news/202405/3896172.html)
+
++ [《Quest Master》Steam抢先体验 复古塞尔达风动作RPG](https://www.3dmgame.com/news/202405/3896170.html)
+
++ [NEOWIZ与《追逐末日之光》开发商JINO Games 签订游戏发行合同](https://www.3dmgame.com/news/202405/3896175.html)
+
++ [《大侦探福尔摩斯》导演盖·里奇将执导《少年夏洛克》剧集](https://www.3dmgame.com/news/202405/3896174.html)
+
