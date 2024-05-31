@@ -79,3 +79,9 @@
 
 + [With Love from Minsk](https://dribbble.com/shots/)
 
++ [Foo Fighters Graphic](https://dribbble.com/shots/)
+
++ [Jake's Details](https://dribbble.com/shots/)
+
++ [Summer Vibe](https://dribbble.com/shots/)
+
