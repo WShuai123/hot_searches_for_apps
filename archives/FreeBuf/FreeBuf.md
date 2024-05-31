@@ -65,3 +65,7 @@
 
 + [黑客将“触手”伸向了政府部门和公职人员](https://www.freebuf.com/articles/neopoints/401461.html)
 
++ [网络犯罪分子利用 StackOverflow 推广恶意 Python 软件包](https://www.freebuf.com/news/402227.html)
+
++ [全球黑客攻击政府、领导人加剧，干扰选举，窃取特殊权限](https://www.freebuf.com/articles/neopoints/401461.html)
+

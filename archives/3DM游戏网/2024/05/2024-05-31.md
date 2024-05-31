@@ -259,3 +259,17 @@
 
 + [《辐射76》玩家数已超2000万 官方发视频感谢玩家](https://www.3dmgame.com/news/202405/3896266.html)
 
++ [AI引爆半导体市场：韩国4月芯片库存创十年来最大降幅！](https://www.3dmgame.com/news/202405/3896279.html)
+
++ [传任天堂两款游戏开发中 代号为“爱德华”和“安娜”](https://www.3dmgame.com/news/202405/3896283.html)
+
++ [《无人深空》团队新作？——关于《无火之光》你需要知道的7件事](https://www.3dmgame.com/news/202405/3896284.html)
+
++ [奇幻生存制作游戏——《无火之光》将把整个世界放在你的手中](https://www.3dmgame.com/news/202405/3896282.html)
+
++ [《超级星探》Demo已上线，欢迎大家抢先体验](https://www.3dmgame.com/news/202405/3896281.html)
+
++ [《真三国无双：起源》新截图：原创主角登场 战斗刺激](https://www.3dmgame.com/news/202405/3896280.html)
+
++ [坤哥：Epic下周免费游戏为《漫威暗夜之子》](https://www.3dmgame.com/news/202405/3896278.html)
+
