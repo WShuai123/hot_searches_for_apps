@@ -35,3 +35,5 @@
 
 + [小米 Redmi Note 13R 手机开售：骁龙 4 Gen2 领先版、澎湃 HyperOS，1399 元起](https://m.ithome.com/html/771896.htm)
 
++ [HarmonyOS NEXT Beta 招募入口现身华为 HDC2024 开发者大会官网](https://m.ithome.com/html/771865.htm)
+

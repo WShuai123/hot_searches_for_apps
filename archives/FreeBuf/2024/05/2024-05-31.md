@@ -45,3 +45,7 @@
 
 + [SSRF漏洞：URL绕过方法以及原理案例详细讲解](https://www.freebuf.com/articles/web/401882.html)
 
++ [新型 Meterpreter 后门能够在图片中隐藏恶意代码](https://www.freebuf.com/news/402324.html)
+
++ [LightSpy 间谍软件工具 macOS 版曝光，可用于窃取各类隐私数据](https://www.freebuf.com/news/402317.html)
+

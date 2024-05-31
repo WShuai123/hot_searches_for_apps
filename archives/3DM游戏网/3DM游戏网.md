@@ -183,3 +183,27 @@
 
 + [用热爱谱写故事！同人模拟经营游戏《太太！我喜欢你！》Steam页面上线！](https://www.3dmgame.com/news/202405/3896231.html)
 
++ [零售商列表曝光多款游戏：《生化危机9》《代号维罗妮卡》等](https://www.3dmgame.com/news/202405/3896250.html)
+
++ [《美少女梦工厂2 韶华再续》Steam页面上线 7月10日发售](https://www.3dmgame.com/news/202405/3896248.html)
+
++ [瑞安·雷诺兹发布《死侍与金刚狼》爆米花桶宣传视频 恶搞《沙丘2》爆米花桶](https://www.3dmgame.com/news/202405/3896251.html)
+
++ [“鹰眼”演员杰瑞米·雷纳确认参演《利刃出鞘3》](https://www.3dmgame.com/news/202405/3896249.html)
+
++ [《史莱姆牧场2》推出内容更新 添加游戏内“超市”](https://www.3dmgame.com/news/202405/3896246.html)
+
++ [奇幻动作冒险游戏《星之旅》Steam页面上线 支持简中](https://www.3dmgame.com/news/202405/3896247.html)
+
++ [《全民街篮》抢先体验，Steam&蒸汽平台现已同步开启！史上最强街篮版本！](https://www.3dmgame.com/news/202405/3896244.html)
+
++ [《命运2》x《龙与地下城》联动宣布 6月5日上线](https://www.3dmgame.com/news/202405/3896242.html)
+
++ [安吉拉变丑了？《寂静岭2：重制版》引起粉丝热议](https://www.3dmgame.com/news/202405/3896241.html)
+
++ [RPG新作《FARMAGIA》正式公布 《妖精的尾巴》作者真岛浩参与制作](https://www.3dmgame.com/news/202405/3896240.html)
+
++ [民营火箭最短发射间隔 谷神星一号仅隔一天成功发射一箭5星](https://www.3dmgame.com/news/202405/3896245.html)
+
++ [开放世界复古JRPG游戏《无限魔力》现已在Steam平台推出](https://www.3dmgame.com/news/202405/3896243.html)
+
