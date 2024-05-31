@@ -121,3 +121,17 @@
 
 + [Wellpin](https://www.producthunt.com/posts/wellpin)
 
++ [Stackpointer](https://www.producthunt.com/posts/stackpointer)
+
++ [Fairytrail Travel App](https://www.producthunt.com/posts/fairytrail-travel-app)
+
++ [Stretch & Yoga: planq](https://www.producthunt.com/posts/stretch-yoga-planq)
+
++ [Buglab AI](https://www.producthunt.com/posts/buglab-ai)
+
++ [Zest - Longevity App](https://www.producthunt.com/posts/zest-longevity-app-ae51d6e1-b0fb-43ce-be60-11470d28078c)
+
++ [Eve: Workplace Stress AI Coach](https://www.producthunt.com/posts/eve-workplace-stress-ai-coach)
+
++ [MaxFocus: Link Preview](https://www.producthunt.com/posts/maxfocus-link-preview)
+

@@ -157,3 +157,13 @@
 
 + [在 Kubesphere 中开启新一代云原生数仓 Databend](https://blog.csdn.net/Databend/article/details/139314586)
 
++ [马斯克xAI融资60亿遭LeCun怒喷；中国AI辅导应用席卷美国市场 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139281903)
+
++ [【码银送书第二十期】《游戏运营与出海实战：策略、方法与技巧》](https://blog.csdn.net/weixin_53197693/article/details/139339817)
+
++ [GPT-4o：重塑人机交互的未来](https://blog.csdn.net/weixin_41809117/article/details/139301588)
+
++ [VB6 MQTT为什么在物联网应用中使用 MQTT 而不是 HTTP？](https://blog.csdn.net/xiaoyao961/article/details/139332512)
+
++ [使用Python爬取华为市场游戏类APP应用](https://blog.csdn.net/qiulin_wu/article/details/139299990)
+
