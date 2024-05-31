@@ -33,3 +33,5 @@
 
 + [23.68 万元起：上汽大众途观 L PRO 上市，号称“最聪明”的燃油车](https://m.ithome.com/html/771891.htm)
 
++ [小米 Redmi Note 13R 手机开售：骁龙 4 Gen2 领先版、澎湃 HyperOS，1399 元起](https://m.ithome.com/html/771896.htm)
+

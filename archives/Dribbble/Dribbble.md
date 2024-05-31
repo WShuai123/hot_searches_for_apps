@@ -75,3 +75,13 @@
 
 + [Converse Warsaw](https://dribbble.com/shots/)
 
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Brooklyn Nets Illustrations](https://dribbble.com/shots/)
+
++ [Recent lettering works vol. 9](https://dribbble.com/shots/)
+
++ [Spirit of the forest](https://dribbble.com/shots/)
+

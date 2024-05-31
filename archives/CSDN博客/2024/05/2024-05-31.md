@@ -125,3 +125,13 @@
 
 + [微信小程序代码构成-第一讲](https://blog.csdn.net/Zwgsnm/article/details/139299920)
 
++ [【AI大模型】如何让大模型变得更聪明？基于时代背景的思考](https://blog.csdn.net/Skrrapper/article/details/139298377)
+
++ [CCIG 2024：合合信息文档解析技术突破与应用前景](https://blog.csdn.net/qq_44273429/article/details/139335465)
+
++ [探索文档解析技术，推动大模型训练与应用](https://blog.csdn.net/LOVEmy134611/article/details/139281495)
+
++ [未来已来：Flutter引领的安卓与跨平台开发奇幻之旅](https://blog.csdn.net/xieluoxixi/article/details/139304684)
+
++ [第八篇【传奇开心果系列】Python数据分析数据挖掘库技术点案例示例:深度解读Pandas在交通数据处理领域应用](https://blog.csdn.net/jackchuanqi/article/details/139141190)
+

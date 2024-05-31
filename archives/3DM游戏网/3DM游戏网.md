@@ -161,3 +161,25 @@
 
 + [《寂静岭2：重制版》幕后卡司和开发团队专访视频](https://www.3dmgame.com/news/202405/3896223.html)
 
++ [索尼5月发布会整合：《战神5》PC版和大量新作消息](https://www.3dmgame.com/news/202405/3896238.html)
+
++ [索尼称PS5是迄今为止最赚钱的一代主机 营收超100亿美元](https://www.3dmgame.com/news/202405/3896239.html)
+
++ [《符文工厂：龙之国》新预告 男女双主角可选](https://www.3dmgame.com/news/202405/3896237.html)
+
++ [《怪物猎人：荒野》官网更新 人物和新怪物情报等](https://www.3dmgame.com/news/202405/3896236.html)
+
++ [《战神：诸神黄昏》PC版新截图 PC特性详细介绍](https://www.3dmgame.com/news/202405/3896235.html)
+
++ [动作冒险游戏《阿斯特：巨碑之刃》现已在Steam平台正式发售](https://www.3dmgame.com/news/202405/3896234.html)
+
++ [《寂静岭2：重制版》新截图 预购开启！标准版466港币](https://www.3dmgame.com/news/202405/3896230.html)
+
++ [《怪物猎人：荒野》参加夏日游戏节 将公布更多游戏画面](https://www.3dmgame.com/news/202405/3896229.html)
+
++ [《第一后裔》发售日预热预告 6月8日正式公布](https://www.3dmgame.com/news/202405/3896233.html)
+
++ [陶德表示《辐射》系列翻红是他职业生涯从未见过的“奇观”](https://www.3dmgame.com/news/202405/3896232.html)
+
++ [用热爱谱写故事！同人模拟经营游戏《太太！我喜欢你！》Steam页面上线！](https://www.3dmgame.com/news/202405/3896231.html)
+
