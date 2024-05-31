@@ -235,3 +235,27 @@
 
 + [【方块方舟】欢乐像素世界，童趣无限，儿童节版本开启！](https://www.3dmgame.com/news/202405/3896264.html)
 
++ [武汉大学雷军班首次招生：招30人 100%保研](https://www.3dmgame.com/news/202405/3896276.html)
+
++ [CDPR对虚幻5引擎赞不绝口：让《巫师4》开发变得更容易](https://www.3dmgame.com/news/202405/3896277.html)
+
++ [《天呐！找不到真爱就扑街！》上线Steam：國王互娱邀你浪漫之旅，首发限时优惠！](https://www.3dmgame.com/news/202405/3896274.html)
+
++ [DND视觉小说《魔饮心语》发售日预告 6月20日发售](https://www.3dmgame.com/news/202405/3896275.html)
+
++ [细腻又有高级感的末日旅途故事，韩国独立游戏的又一次发力](https://www.3dmgame.com/news/202405/3896273.html)
+
++ [《沙石镇时光》V1.3版本免费更新内容和“怪兽萌宠”DLC已于近日上线！](https://www.3dmgame.com/news/202405/3896272.html)
+
++ [KK官方对战平台怀旧专区正式上线！重返洛丹伦，回到RPG黄金年代！](https://www.3dmgame.com/news/202405/3896271.html)
+
++ [《命运2》与《龙与地下城》6月5日联动上线](https://www.3dmgame.com/news/202405/3896270.html)
+
++ [国产ARPG新作《万物契约》新截图 游戏具体介绍公布](https://www.3dmgame.com/news/202405/3896269.html)
+
++ [拉瑞安下一款作品代号为“湖中剑” 暂时只有构思](https://www.3dmgame.com/news/202405/3896268.html)
+
++ [网友吐槽高铁座椅不卫生引热议！国铁集团：高铁椅套180天换洗一次](https://www.3dmgame.com/news/202405/3896267.html)
+
++ [《辐射76》玩家数已超2000万 官方发视频感谢玩家](https://www.3dmgame.com/news/202405/3896266.html)
+

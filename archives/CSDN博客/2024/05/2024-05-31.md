@@ -173,3 +173,9 @@
 
 + [JavaScript、Kotlin、Flutter可以开发鸿蒙APP吗？](https://blog.csdn.net/finogeeks/article/details/139320001)
 
++ [Whisper-AT：抗噪语音识别模型（Whisper）实现通用音频事件标记（Audio Tagger）](https://blog.csdn.net/xw555666/article/details/139320799)
+
++ [前端vue搭建](https://blog.csdn.net/2402_84062759/article/details/139337129)
+
++ [【软件测试】软件测试概念 | 测试用例 | BUG | 开发模型 | 测试模型 | 生命周期](https://blog.csdn.net/m0_64003319/article/details/139332508)
+
