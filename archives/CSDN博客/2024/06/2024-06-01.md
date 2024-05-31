@@ -107,3 +107,25 @@
 
 + [【YOLO系列】YOLOv10模型结构详解与推理部署实现](https://blog.csdn.net/jia20003/article/details/139296608)
 
++ [Ownips+Coze海外社媒数据分析实战指南](https://blog.csdn.net/air__Heaven/article/details/139259227)
+
++ [【微信小程序开发】微信小程序界面弹窗，数据存储相关操作代码逻辑实现](https://blog.csdn.net/littlefun591/article/details/139327802)
+
++ [HTTPS 原理技术](https://blog.csdn.net/Silent_Paladin/article/details/139335564)
+
++ [长序列中Transformers的高级注意力机制总结](https://blog.csdn.net/m0_46510245/article/details/139345085)
+
++ [玩转示波器——显示任意图片和特定视频](https://blog.csdn.net/weixin_68190597/article/details/139363193)
+
++ [Java项目对接redis，客户端是选Redisson、Lettuce还是Jedis？](https://blog.csdn.net/u011709538/article/details/139351828)
+
++ [留言板——增添功能(持久化存储数据，使用MyBatis)](https://blog.csdn.net/cool_tao6/article/details/139333752)
+
++ [【码银送书第二十期】《游戏运营与出海实战：策略、方法与技巧》](https://blog.csdn.net/weixin_53197693/article/details/139339817)
+
++ [Spring boot集成通义千问大模型实现智能问答](https://blog.csdn.net/qq_36268452/article/details/139335287)
+
++ [【软件测试】软件测试概念 | 测试用例 | BUG | 开发模型 | 测试模型 | 生命周期](https://blog.csdn.net/m0_64003319/article/details/139332508)
+
++ [Linux 系统安全及应用](https://blog.csdn.net/XH722DF/article/details/139323915)
+
