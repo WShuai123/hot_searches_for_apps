@@ -101,3 +101,7 @@
 
 + [DocentPro](https://www.producthunt.com/posts/docentpro-08da3558-30f2-4b9b-b5f7-5839902563e7)
 
++ [GOAT Slider](https://www.producthunt.com/posts/goat-slider)
+
++ [Cartesia Sonic](https://www.producthunt.com/posts/cartesia-sonic)
+
