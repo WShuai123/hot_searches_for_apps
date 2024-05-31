@@ -49,3 +49,5 @@
 
 + [LightSpy 间谍软件工具 macOS 版曝光，可用于窃取各类隐私数据](https://www.freebuf.com/news/402317.html)
 
++ [应急响应实战录：结合真实案例剖析挖矿木马应对之道](https://www.freebuf.com/articles/network/402176.html)
+

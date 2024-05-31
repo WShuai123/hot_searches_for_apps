@@ -207,3 +207,5 @@
 
 + [开放世界复古JRPG游戏《无限魔力》现已在Steam平台推出](https://www.3dmgame.com/news/202405/3896243.html)
 
++ [《刀锋战士》主演正在洽谈加入《侏罗纪世界》新片](https://www.3dmgame.com/news/202405/3896252.html)
+
