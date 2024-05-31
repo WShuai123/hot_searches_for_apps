@@ -187,3 +187,7 @@
 
 + [【计算机网络】——概述（图文并茂）](https://blog.csdn.net/2203_76003626/article/details/139335241)
 
++ [借助AI大模型，三分钟原创一部儿童故事短视频（附完整操作步骤）](https://blog.csdn.net/obullxl/article/details/139352755)
+
++ [【机器学习】探索未来科技的前沿：人工智能、机器学习与大模型](https://blog.csdn.net/Easonmax/article/details/139344512)
+

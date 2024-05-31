@@ -53,3 +53,11 @@
 
 + [苹果 iPhone 16 / Pro 系列手机壳首曝！果然多个洞，全新拍照按键？](https://m.ithome.com/html/772089.htm)
 
++ [消息称小米 15 系列手机“两款杯型”均配定制豪威主摄，全系标配 50MP 1/1.3 英寸方案](https://m.ithome.com/html/772007.htm)
+
++ [上市 2499 元：摩尔线程 MTT S70 国产显卡 876 元送鼠标垫](https://m.ithome.com/html/772016.htm)
+
++ [泰勒斯威夫特开个演唱会，端掉了美国最大“黑票务网站”Live Nation](https://m.ithome.com/html/771985.htm)
+
++ [吉利汽车发布银河 Flyme Auto 智能座舱与 Flyme Sound 无界之声音响系统，将搭载于银河 E5](https://m.ithome.com/html/771907.htm)
+
