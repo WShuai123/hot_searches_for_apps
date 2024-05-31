@@ -49,3 +49,23 @@
 
 + [Create Something](https://dribbble.com/shots/)
 
++ [The Grainmaker Brush Set (Now available for Adobe Illustrator)](https://dribbble.com/shots/)
+
++ [Traveller Chair](https://dribbble.com/shots/)
+
++ [Shawn Kemp](https://dribbble.com/shots/)
+
++ [Special Edition](https://dribbble.com/shots/)
+
++ [Music Lovers 1/3](https://dribbble.com/shots/)
+
++ [Bubble Bliss](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Web design for SAS Design Studio](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [ilcons Around the world icons](https://dribbble.com/shots/)
+

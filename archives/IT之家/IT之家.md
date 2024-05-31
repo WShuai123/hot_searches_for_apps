@@ -27,3 +27,9 @@
 
 + [“极有可能诞生下一个雷军”：武汉大学“雷军班”今年首次招生，集结全校最优秀资源](https://m.ithome.com/html/771881.htm)
 
++ [比亚迪高级副总裁谈“2.9L 油耗”：NEDC 工况更接近国内实际情况](https://m.ithome.com/html/771893.htm)
+
++ [2499 元起，vivo S19 系列手机发布：Pro 版全球首发索尼 IMX921](https://m.ithome.com/html/771888.htm)
+
++ [23.68 万元起：上汽大众途观 L PRO 上市，号称“最聪明”的燃油车](https://m.ithome.com/html/771891.htm)
+

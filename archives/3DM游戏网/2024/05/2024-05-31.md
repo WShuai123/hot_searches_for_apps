@@ -101,3 +101,51 @@
 
 + [《绝地潜兵2》开发商新CEO承认游戏里武器没有想象中的有趣](https://www.3dmgame.com/news/202405/3896152.html)
 
++ [《机甲战魔：Titanic Scion》全新预告 大战将至！](https://www.3dmgame.com/news/202405/3896222.html)
+
++ [VR游戏《异形：凶猛入侵》首曝实机预告](https://www.3dmgame.com/news/202405/3896221.html)
+
++ [《直到黎明》重制版新预告 将于今年秋季发售](https://www.3dmgame.com/news/202405/3896220.html)
+
++ [《战神：诸神黄昏》PC版仍强制绑定PSN账户](https://www.3dmgame.com/news/202405/3896219.html)
+
++ [《寂静岭2：重制版》13分钟加长版实机](https://www.3dmgame.com/news/202405/3896218.html)
+
++ [开放世界换装游戏《无限暖暖》预告 今年第三季度开测](https://www.3dmgame.com/news/202405/3896217.html)
+
++ [国产武侠《燕云十六声》新预告 PS5版开发中](https://www.3dmgame.com/news/202405/3896216.html)
+
++ [黑暗幻想ARPG《万物契约》预告 2025年免费推出](https://www.3dmgame.com/news/202405/3896215.html)
+
++ [《流放之路2》新预告 2024年底开启抢先体验](https://www.3dmgame.com/news/202405/3896214.html)
+
++ [玩法进化《怪物猎人：荒野》发布最新游戏预告片](https://www.3dmgame.com/news/202405/3896213.html)
+
++ [牧场物语系列全新游戏曝光 可使用滑翔翼](https://www.3dmgame.com/news/202405/3896212.html)
+
++ [新预告片曝光《寂静岭2》重制版10月8日发售](https://www.3dmgame.com/news/202405/3896211.html)
+
++ [三国无双新作《真三国无双：起源》将于2025年发售](https://www.3dmgame.com/news/202405/3896210.html)
+
++ [5V5团队FPS游戏《Concord》发布全新剧情预告](https://www.3dmgame.com/news/202405/3896208.html)
+
++ [索尼确认PC版《战神：诸神黄昏》9月19日发售](https://www.3dmgame.com/news/202405/3896209.html)
+
++ [网飞与微软联手打造《我的世界》动画剧集](https://www.3dmgame.com/news/202405/3896207.html)
+
++ [解谜冒险游戏《瓜约塔》面向PC/NS公布](https://www.3dmgame.com/news/202405/3896206.html)
+
++ [《龙珠：电光火石0》新预告片展示各合体角色](https://www.3dmgame.com/news/202405/3896205.html)
+
++ [育碧Forward展示会将于6/11 3:00举行](https://www.3dmgame.com/news/202405/3896204.html)
+
++ [《红霞岛》最终更新已推出 新增离线游戏](https://www.3dmgame.com/news/202405/3896203.html)
+
++ [续航灭霸！vivo S19发布：2499元起](https://www.3dmgame.com/news/202405/3896202.html)
+
++ [二战策略游戏《Grit and Valor - 1949》公布 明年发售](https://www.3dmgame.com/news/202405/3896201.html)
+
++ [Epic喜加一：《骑士精神2》免费领、下周神秘游戏](https://www.3dmgame.com/news/202405/3896199.html)
+
++ [传闻：《寂静岭》专场发布会时长42分钟](https://www.3dmgame.com/news/202405/3896200.html)
+

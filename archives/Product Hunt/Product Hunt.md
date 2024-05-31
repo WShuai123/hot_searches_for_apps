@@ -101,3 +101,17 @@
 
 + [Bash](https://www.producthunt.com/posts/bash-4)
 
++ [Stripe fee calculator](https://www.producthunt.com/posts/stripe-fee-calculator)
+
++ [Rupt](https://www.producthunt.com/posts/rupt-3)
+
++ [Guider](https://www.producthunt.com/posts/guider)
+
++ [SvelteShip](https://www.producthunt.com/posts/svelteship)
+
++ [Qaiz](https://www.producthunt.com/posts/qaiz)
+
++ [No-Code Scraper](https://www.producthunt.com/posts/no-code-scraper)
+
++ [Backseat AI by Tyler1](https://www.producthunt.com/posts/backseat-ai-by-tyler1)
+

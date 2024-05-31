@@ -101,3 +101,25 @@
 
 + [西储大学数据集学习](https://blog.csdn.net/xfsong2012/article/details/139273824)
 
++ [【好书分享第十三期】AI数据处理实战108招：ChatGPT+Excel+VBA](https://blog.csdn.net/a1657054242/article/details/139296096)
+
++ [“提升人工智能大模型智能：策略与挑战“](https://blog.csdn.net/u014727709/article/details/139252478)
+
++ [Stable Diffusion AI绘画：从提示词到模型出图的全景指南](https://blog.csdn.net/qq_44273429/article/details/139253840)
+
++ [城市之旅：使用 LLM 和 Elasticsearch 简化地理空间搜索](https://blog.csdn.net/UbuntuTouch/article/details/139320972)
+
++ [spring session+redis存储session，实现用户登录功能，并在拦截器里面判断用户session是否过期，过期就跳转到登录页面](https://blog.csdn.net/lixiaolin77/article/details/139307242)
+
++ [【4th chapter】信息安全技术—安全技术、安全架构、安全策略、安全管理、软件的脆弱性](https://blog.csdn.net/qq_29025955/article/details/139262517)
+
++ [Docker简介](https://blog.csdn.net/weixin_53314015/article/details/139307637)
+
++ [【设计模式】JAVA Design Patterns——Dependency Injection（依赖注入模式）](https://blog.csdn.net/CSBIGDOG/article/details/139283494)
+
++ [大模型时代，产品经理的转型与创新之路](https://blog.csdn.net/2401_85325397/article/details/139279189)
+
++ [YOLO-10更快、更强](https://blog.csdn.net/d8dongdong/article/details/139279974)
+
++ [应用层协议HTTP与HTTPS](https://blog.csdn.net/C_Rio/article/details/139219562)
+
