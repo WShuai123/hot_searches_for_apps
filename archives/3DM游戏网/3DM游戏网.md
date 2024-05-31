@@ -149,3 +149,15 @@
 
 + [传闻：《寂静岭》专场发布会时长42分钟](https://www.3dmgame.com/news/202405/3896200.html)
 
++ [《战神：诸神黄昏》Steam预购开启 国区售价398元](https://www.3dmgame.com/news/202405/3896228.html)
+
++ [《女神异闻录3：Reload》扩展包第二波预告 5月31日上线](https://www.3dmgame.com/news/202405/3896224.html)
+
++ [狩猎巨兽！VR游戏《Skydance“s Behemoth》首曝实机预告](https://www.3dmgame.com/news/202405/3896227.html)
+
++ [《漫威争锋》宣布将登陆主机 PS5封闭测试7月开启](https://www.3dmgame.com/news/202405/3896225.html)
+
++ [PS5《宇宙机器人》新作宣布 宣传预告放出 2024年9月6日推出](https://www.3dmgame.com/news/202405/3896226.html)
+
++ [《寂静岭2：重制版》幕后卡司和开发团队专访视频](https://www.3dmgame.com/news/202405/3896223.html)
+
