@@ -69,3 +69,5 @@
 
 + [全球黑客攻击政府、领导人加剧，干扰选举，窃取特殊权限](https://www.freebuf.com/articles/neopoints/401461.html)
 
++ [FreeBuf 全球网络安全产业投融资观察（4月）](https://www.freebuf.com/news/401952.html)
+

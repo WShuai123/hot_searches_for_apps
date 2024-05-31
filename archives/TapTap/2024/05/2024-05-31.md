@@ -23,3 +23,5 @@
 
 + [奥拉星2](https://www.taptap.cn/app/241985)
 
++ [原神](https://www.taptap.cn/app/168332)
+
