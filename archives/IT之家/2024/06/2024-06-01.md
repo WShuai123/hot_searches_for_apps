@@ -25,3 +25,5 @@
 
 + [小米 / Redmi 京东 618 一文汇总：小米 14 Ultra 直降 24 期免息，路由 、家电年内新低](https://m.ithome.com/html/772193.htm)
 
++ [问界新 M7 Ultra 汽车 28.98 万元起：上市即交付，华为智驾、底盘大提升](https://m.ithome.com/html/772262.htm)
+
