@@ -63,3 +63,5 @@
 
 + [【灯盏糕】油帮我多控一控，我减肥！](http://www.acfun.cn/v/ac44695448)
 
++ [雷军：“我要用freestyle赢他！”](http://www.acfun.cn/v/ac44699639)
+

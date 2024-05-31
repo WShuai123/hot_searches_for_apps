@@ -65,3 +65,15 @@
 
 + [Flamingo Flag & Anthem](https://dribbble.com/shots/)
 
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Mcneese University x Crust Pizza - Pattern Illustration](https://dribbble.com/shots/)
+
++ [Folk Music](https://dribbble.com/shots/)
+
++ [Create Something](https://dribbble.com/shots/)
+
++ [Glyph Beer 46](https://dribbble.com/shots/)
+
