@@ -153,3 +153,7 @@
 
 + [建议大家少用点儿网站测速工具](https://blog.csdn.net/cpublic/article/details/139306376)
 
++ [启智CV机器人，ROS, ubuntu 18.04](https://blog.csdn.net/x1131230123/article/details/139282580)
+
++ [在 Kubesphere 中开启新一代云原生数仓 Databend](https://blog.csdn.net/Databend/article/details/139314586)
+

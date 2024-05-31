@@ -37,3 +37,5 @@
 
 + [HarmonyOS NEXT Beta 招募入口现身华为 HDC2024 开发者大会官网](https://m.ithome.com/html/771865.htm)
 
++ [全网会员 618 合集：京东 PLUS 联合会员 3 折起，爱优腾网盘 WPS 年内新低](https://m.ithome.com/html/771918.htm)
+

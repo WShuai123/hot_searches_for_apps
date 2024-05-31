@@ -209,3 +209,7 @@
 
 + [《刀锋战士》主演正在洽谈加入《侏罗纪世界》新片](https://www.3dmgame.com/news/202405/3896252.html)
 
++ [策略建造游戏《好莱坞动物》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202405/3896254.html)
+
++ [入手最佳时机！iPhone顶配首次降到8000元以内](https://www.3dmgame.com/news/202405/3896253.html)
+

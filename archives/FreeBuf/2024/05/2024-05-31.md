@@ -51,3 +51,9 @@
 
 + [应急响应实战录：结合真实案例剖析挖矿木马应对之道](https://www.freebuf.com/articles/network/402176.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [Proofpoint：警惕“钢琴主题”电子邮件诈骗](https://www.freebuf.com/news/402361.html)
+
++ [Gartner：生成式人工智能对基础设施和运营的影响显著增加](https://www.freebuf.com/news/402340.html)
+
