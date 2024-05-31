@@ -273,3 +273,17 @@
 
 + [坤哥：Epic下周免费游戏为《漫威暗夜之子》](https://www.3dmgame.com/news/202405/3896278.html)
 
++ [iPhone16镜头膜曝光：确认竖排双摄 重回iPhoneX时代](https://www.3dmgame.com/news/202405/3896290.html)
+
++ [致态与《黑神话》官宣合作：TiPlus 7100固态369元起](https://www.3dmgame.com/news/202405/3896291.html)
+
++ [《Granblue Fantasy: Relink》版本更新 新增可操控角色及功能](https://www.3dmgame.com/news/202405/3896289.html)
+
++ [《女神异闻录３ Reload》DLC“扩展通行证”第二弹发布！宣传预告和预览视频公开](https://www.3dmgame.com/news/202405/3896288.html)
+
++ [系列首次 《怪物猎人：荒野》主角拥有完整配音](https://www.3dmgame.com/news/202405/3896287.html)
+
++ [《赛博朋克2077》改编电影积极制作中 大家期待吗？](https://www.3dmgame.com/news/202405/3896286.html)
+
++ [武侠RPG《活侠传》反向跳票 6月14日发售](https://www.3dmgame.com/news/202405/3896285.html)
+

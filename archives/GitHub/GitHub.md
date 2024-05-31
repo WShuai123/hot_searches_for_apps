@@ -51,3 +51,35 @@
 
 + [google / googletest](https://github.com/google/googletest)
 
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [mlflow / mlflow](https://github.com/mlflow/mlflow)
+
++ [redpanda-data / connect](https://github.com/redpanda-data/connect)
+
++ [amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce)
+
++ [alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD)
+
++ [truefoundry / cognita](https://github.com/truefoundry/cognita)
+
++ [apple / swift](https://github.com/apple/swift)
+
++ [primefaces / primeng](https://github.com/primefaces/primeng)
+
++ [pdm-project / pdm](https://github.com/pdm-project/pdm)
+
++ [Hillobar / Rope](https://github.com/Hillobar/Rope)
+
++ [microsoft / autogen](https://github.com/microsoft/autogen)
+
++ [GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)
+
++ [mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v)
+
++ [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire)
+
++ [duckdb / duckdb](https://github.com/duckdb/duckdb)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+

@@ -49,3 +49,7 @@
 
 + [王化否认“小米逼供应商买车”传闻：法务部又有新收获](https://m.ithome.com/html/772001.htm)
 
++ [买不买都省：两分钟速读 618 20:00 巅峰四小时攻略，iPhone 15 系列立减 2200 元，小米 13 系列直降 2500 元](https://m.ithome.com/html/772090.htm)
+
++ [苹果 iPhone 16 / Pro 系列手机壳首曝！果然多个洞，全新拍照按键？](https://m.ithome.com/html/772089.htm)
+
