@@ -167,3 +167,9 @@
 
 + [使用Python爬取华为市场游戏类APP应用](https://blog.csdn.net/qiulin_wu/article/details/139299990)
 
++ [儿童节变身小小音乐家，用ModelArts制作一张AIGC音乐专辑](https://blog.csdn.net/devcloud/article/details/139340822)
+
++ [【深度揭秘GPT-4o】：全面解析新一代AI技术的突破与优势](https://blog.csdn.net/2303_77720864/article/details/139328385)
+
++ [JavaScript、Kotlin、Flutter可以开发鸿蒙APP吗？](https://blog.csdn.net/finogeeks/article/details/139320001)
+
