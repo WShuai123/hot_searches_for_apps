@@ -53,3 +53,5 @@
 
 + [小米磁吸充电宝 5000mAh 7.5W 上架： 适配苹果 iPhone 12 及后续机型，129 元](https://m.ithome.com/html/772302.htm)
 
++ [周鸿祎称余承东“大嘴”外号已过时应叫“余大炮”，对方回复“你才是大炮”](https://m.ithome.com/html/772414.htm)
+

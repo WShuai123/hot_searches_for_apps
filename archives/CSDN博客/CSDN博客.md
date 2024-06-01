@@ -191,3 +191,9 @@
 
 + [网络分层与各层网络协议介绍](https://blog.csdn.net/xieliru/article/details/139360738)
 
++ [注意力机制详解](https://blog.csdn.net/qq_64685283/article/details/139249731)
+
++ [k8s的ci/cd实践之旅](https://blog.csdn.net/u012440725/article/details/139333364)
+
++ [HTTP/超文本传输协议（Hypertext Transfer Protocol）及HTTP协议通信步骤介绍和请求、响应阶段详解；](https://blog.csdn.net/weixin_74457789/article/details/139348530)
+

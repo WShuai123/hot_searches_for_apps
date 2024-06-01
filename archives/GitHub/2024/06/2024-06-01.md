@@ -51,3 +51,41 @@
 
 + [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
 
++ [jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
+
++ [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches)
+
++ [didi / xiaoju-survey](https://github.com/didi/xiaoju-survey)
+
++ [StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock)
+
++ [ToonCrafter / ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)
+
++ [digital-go-jp / design-system-example-components](https://github.com/digital-go-jp/design-system-example-components)
+
++ [bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder)
+
++ [novitalabs / AnimateAnyone](https://github.com/novitalabs/AnimateAnyone)
+
++ [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [apple / swift-migration-guide](https://github.com/apple/swift-migration-guide)
+
++ [PostHog / posthog](https://github.com/PostHog/posthog)
+
++ [soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin)
+
++ [microsoft / typespec](https://github.com/microsoft/typespec)
+
++ [openjdk / jdk](https://github.com/openjdk/jdk)
+
++ [tspeterkim / insta-chat](https://github.com/tspeterkim/insta-chat)
+
++ [ReaVNaiL / New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
+
++ [redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+
