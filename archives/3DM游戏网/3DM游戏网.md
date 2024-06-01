@@ -147,3 +147,27 @@
 
 + [和《血源》无关！PS1复古《梦魇卡丁车》正式推出](https://www.3dmgame.com/news/202406/3896323.html)
 
++ [谷歌高管：AI不准确的原因是用户提的某些问题太愚蠢](https://www.3dmgame.com/news/202406/3896335.html)
+
++ [2024年5月电影票房榜出炉：《末路狂花钱》夺冠](https://www.3dmgame.com/news/202406/3896333.html)
+
++ [阿里巴巴与世卫组织合作 全球推广AI癌症筛查技术](https://www.3dmgame.com/news/202406/3896334.html)
+
++ [《寂静岭2：重制版》战斗系统和解谜都有一定改动](https://www.3dmgame.com/news/202406/3896332.html)
+
++ [电影《重返寂静岭》首曝预告 上映日期待定](https://www.3dmgame.com/news/202406/3896331.html)
+
++ [《8号出口》正式续作《8号站台》现已登陆Steam](https://www.3dmgame.com/news/202406/3896330.html)
+
++ [消息称英伟达新一代GPU流片！RTX 5090性能恐怖](https://www.3dmgame.com/news/202406/3896329.html)
+
++ [复古射击游戏《Selaco》登陆抢先体验 收获特别好评](https://www.3dmgame.com/news/202406/3896328.html)
+
++ [《女神全部锁定我》Steam页面上线 年内发售](https://www.3dmgame.com/news/202406/3896327.html)
+
++ [《命运2：终焉之形》服务器维护25小时 更新需近300G](https://www.3dmgame.com/news/202406/3896326.html)
+
++ [传《疯狂出租车》和《街头涂鸦》重启项目大幅延期](https://www.3dmgame.com/news/202406/3896325.html)
+
++ [《世上英雄》正式定档6月14日发售 原价29元](https://www.3dmgame.com/news/202406/3896324.html)
+

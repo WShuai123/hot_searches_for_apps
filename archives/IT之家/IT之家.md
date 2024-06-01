@@ -41,3 +41,9 @@
 
 + [鸿蒙智行：问界新 M7 Ultra 上市 1 小时大定突破 6000 台](https://m.ithome.com/html/772281.htm)
 
++ [雷军：小米 SU7 车型 5 月交付 8630 辆，6 月确保单月交付 1 万辆](https://m.ithome.com/html/772355.htm)
+
++ [闲鱼 App 上线“小刀”功能，号称“砍价区间可控、不用担心买家屠龙刀”](https://m.ithome.com/html/772346.htm)
+
++ [华为麒麟 5G 新机入网，消息称 nova 13 Ultra 卫通版价格继续上探](https://m.ithome.com/html/772343.htm)
+

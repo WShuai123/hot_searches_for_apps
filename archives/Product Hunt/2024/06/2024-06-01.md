@@ -107,3 +107,49 @@
 
 + [DocentPro — Explore the world](https://www.producthunt.com/posts/docentpro-explore-the-world)
 
++ [Parking Sign Scanner - Park Here](https://www.producthunt.com/posts/parking-sign-scanner-park-here)
+
++ [Dyence](https://www.producthunt.com/posts/dyence)
+
++ [JobCopilot](https://www.producthunt.com/posts/jobcopilot)
+
++ [thumbsss](https://www.producthunt.com/posts/thumbsss)
+
++ [Base](https://www.producthunt.com/posts/base-10)
+
++ [Veggie AI](https://www.producthunt.com/posts/veggie-ai)
+
++ [Supalogs](https://www.producthunt.com/posts/supalogs)
+
++ [Farspeak](https://www.producthunt.com/posts/farspeak)
+
++ [Friday Win](https://www.producthunt.com/posts/friday-win)
+
++ [Read Fast](https://www.producthunt.com/posts/read-fast)
+
++ [LinkedCRM AI](https://www.producthunt.com/posts/linkedcrm-ai)
+
++ [Bolty](https://www.producthunt.com/posts/bolty-2)
+
++ [Releem](https://www.producthunt.com/posts/releem)
+
++ [Quanty](https://www.producthunt.com/posts/quanty)
+
++ [Indie Affiliates](https://www.producthunt.com/posts/indie-affiliates)
+
++ [Rich AI](https://www.producthunt.com/posts/rich-ai)
+
++ [Domain Copilot](https://www.producthunt.com/posts/domain-copilot)
+
++ [Relayer](https://www.producthunt.com/posts/relayer)
+
++ [SkillZilla](https://www.producthunt.com/posts/skillzilla)
+
++ [Daygraph: Simple Daily Log](https://www.producthunt.com/posts/daygraph-simple-daily-log-2)
+
++ [PouncerAI](https://www.producthunt.com/posts/pouncerai-2)
+
++ [MyGainplan](https://www.producthunt.com/posts/mygainplan)
+
++ [Ghostsnote](https://www.producthunt.com/posts/ghostsnote)
+
