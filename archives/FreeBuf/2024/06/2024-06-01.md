@@ -45,3 +45,5 @@
 
 + [ViperSoftX 启用基于深度学习的 OCR 引擎进行窃密](https://www.freebuf.com/articles/network/401601.html)
 
++ [记录一次cnvd事件型证书漏洞挖掘](https://www.freebuf.com/vuls/402033.html)
+

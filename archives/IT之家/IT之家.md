@@ -29,3 +29,7 @@
 
 + [问界新 M7 Ultra & 享界 S9 发布会一文汇总：“大嘴变小嘴”，余承东还是没说遥遥领先](https://m.ithome.com/html/772287.htm)
 
++ [首次支持 Windows on Arm，腾讯 QQ 更新 Windows 9.9.11、macOS 6.9.36、Linux 3.2.9](https://m.ithome.com/html/772140.htm)
+
++ [余承东再放豪言：特斯拉 FSD 入华后，华为智驾有信心干翻对手](https://m.ithome.com/html/772259.htm)
+
