@@ -57,3 +57,7 @@
 
 + [华为余承东：享界 S9 价格是迈巴赫十分之一，但比迈巴赫更豪华](https://m.ithome.com/html/772412.htm)
 
++ [京东苹果 618 加码：iPhone 15 Pro 5896 元破冰新低，AirPods 3 984 元探底](https://m.ithome.com/html/772422.htm)
+
++ [华为余承东：鸿蒙智行今年销量已达 13.4 万辆，内部正讨论是否打造硬派越野车型](https://m.ithome.com/html/772370.htm)
+

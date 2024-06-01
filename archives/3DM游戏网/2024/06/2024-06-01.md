@@ -181,3 +181,15 @@
 
 + [Embracer探讨单机游戏大作涨价超过70美元的可能性](https://www.3dmgame.com/news/202406/3896340.html)
 
++ [受XSS内存限制 《天国：拯救2》仅比前作大25%](https://www.3dmgame.com/news/202406/3896346.html)
+
++ [AMD锐龙9000系列CPU将在7月上市](https://www.3dmgame.com/news/202406/3896345.html)
+
++ [《斯巴达300勇士》将拍前传剧集 扎导有望回归](https://www.3dmgame.com/news/202406/3896344.html)
+
++ [放弃四年后，OpenAI重启机器人项目](https://www.3dmgame.com/news/202406/3896343.html)
+
++ [要亮家底了？传Xbox发布会将展示40款游戏](https://www.3dmgame.com/news/202406/3896342.html)
+
++ [AMD将为锐龙9000推出800系主板 X870E/X870标配USB4](https://www.3dmgame.com/news/202406/3896341.html)
+
