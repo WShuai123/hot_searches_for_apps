@@ -123,3 +123,7 @@
 
 + [Flink实现实时异常登陆监控（两秒内多次登陆失败进行异常行为标记）](https://blog.csdn.net/lhyandlwl/article/details/139357920)
 
++ [“开源与闭源：AI大模型发展的未来之路“](https://blog.csdn.net/u014727709/article/details/139282471)
+
++ [【活动】GPT-4O：AI语言生成技术的新里程碑](https://blog.csdn.net/qq_44214428/article/details/139371880)
+
