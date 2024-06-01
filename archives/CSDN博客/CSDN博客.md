@@ -215,3 +215,15 @@
 
 + [Unity和Cocos引擎在游戏开发中的比较](https://blog.csdn.net/inyiu/article/details/139359182)
 
++ [【六一儿童节】的科技奇幻旅程——【机器学习】与【人工智能】的无限创意](https://blog.csdn.net/2303_77720864/article/details/139377948)
+
++ [从0开始制作微信小程序](https://blog.csdn.net/2302_79791164/article/details/139377719)
+
++ [【好书推荐-第十九期】《云原生测试实战》](https://blog.csdn.net/weixin_51484460/article/details/139332700)
+
++ [MySQL：CRUD进阶(七千五百字)](https://blog.csdn.net/qrwitu142857/article/details/139246354)
+
++ [大模型管理工具Ollama搭建及整合springboot](https://blog.csdn.net/congge_study/article/details/139378731)
+
++ [【Linux】权限的概念](https://blog.csdn.net/2301_80224556/article/details/139329600)
+
