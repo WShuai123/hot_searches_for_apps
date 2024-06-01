@@ -197,3 +197,15 @@
 
 + [HTTP/超文本传输协议（Hypertext Transfer Protocol）及HTTP协议通信步骤介绍和请求、响应阶段详解；](https://blog.csdn.net/weixin_74457789/article/details/139348530)
 
++ [【机器学习】让大模型变得更聪明](https://blog.csdn.net/a1657054242/article/details/139372957)
+
++ [【Linux】 深入讲解自动化构建工具](https://blog.csdn.net/2301_81874719/article/details/139303227)
+
++ [SpringBootWeb 篇-深入了解 Filter 过滤器与 Interceptor 拦截器（实现登录校验 Filter + Interceptor + JWT 令牌）](https://blog.csdn.net/Tingfeng__/article/details/139318876)
+
++ [MVC、MVP 和 MVVM 架构总结](https://blog.csdn.net/leizhengshenglzs/article/details/139361491)
+
++ [Flink实现实时异常登陆监控（两秒内多次登陆失败进行异常行为标记）](https://blog.csdn.net/lhyandlwl/article/details/139357920)
+
++ [18.Redis之哨兵](https://blog.csdn.net/m0_47017197/article/details/139330770)
+
