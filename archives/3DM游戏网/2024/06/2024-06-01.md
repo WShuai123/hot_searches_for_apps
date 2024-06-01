@@ -175,3 +175,9 @@
 
 + [Take-Two老板：AI会导致失业是我听过最蠢的事情](https://www.3dmgame.com/news/202406/3896337.html)
 
++ [绕月私人飞行项目夭折 日本亿万富翁前泽友作取消“亲爱的月球”任务](https://www.3dmgame.com/news/202406/3896338.html)
+
++ [PS1经典复刻《我是东巴：特别版》PS5版发售日期公布](https://www.3dmgame.com/news/202406/3896339.html)
+
++ [Embracer探讨单机游戏大作涨价超过70美元的可能性](https://www.3dmgame.com/news/202406/3896340.html)
+

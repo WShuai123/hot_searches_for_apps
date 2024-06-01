@@ -49,3 +49,7 @@
 
 + [又见“刀法”？古尔曼称苹果 iOS 18 端侧 AI 功能至少需 iPhone 15 Pro 手机、M1 芯片 iPad / Mac](https://m.ithome.com/html/772195.htm)
 
++ [李斌：蔚来不是要与小米和华为抢手机市场，而是要做车手互联体验，即将发布第二代手机](https://m.ithome.com/html/772352.htm)
+
++ [小米磁吸充电宝 5000mAh 7.5W 上架： 适配苹果 iPhone 12 及后续机型，129 元](https://m.ithome.com/html/772302.htm)
+
