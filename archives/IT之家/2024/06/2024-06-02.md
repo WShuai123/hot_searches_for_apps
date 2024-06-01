@@ -25,3 +25,5 @@
 
 + [酷似“全面屏”版 Lumia 1520，消息称 HMD 7 月发布 Skyline 手机：售 520 欧元](https://m.ithome.com/html/772376.htm)
 
++ [10 核变 9 核 GPU 版 M2 芯片，2024 款苹果 iPad Air 官网技术规格更新](https://m.ithome.com/html/772470.htm)
+
