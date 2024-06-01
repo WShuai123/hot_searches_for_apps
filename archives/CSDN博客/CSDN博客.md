@@ -145,3 +145,11 @@
 
 + [Linux：系统安全及应用](https://blog.csdn.net/2401_83784927/article/details/139284770)
 
++ [数据分析案例-在线食品订单数据可视化分析与建模分类](https://blog.csdn.net/m0_64336780/article/details/137738296)
+
++ [SQL 语言：对象关系数据模型](https://blog.csdn.net/weixin_50357986/article/details/139320782)
+
++ [基于 Apache Doris 的实时/离线一体化架构，赋能中国联通 5G 全连接工厂解决方案](https://blog.csdn.net/SelectDB_Fly/article/details/139359581)
+
++ [【网络原理】HTTP|认识请求“报头“|Host|Content-Length|Content-Type|UA|Referer|Cookie](https://blog.csdn.net/qq_73017178/article/details/139320963)
+

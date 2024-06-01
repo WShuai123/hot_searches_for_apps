@@ -129,3 +129,17 @@
 
 + [微软劳工中立协议现包含ZeniMax：不准干涉工会](https://www.3dmgame.com/news/202406/3896311.html)
 
++ [Gearbox宣布取消热门肉鸽游戏《雨中冒险》手游](https://www.3dmgame.com/news/202406/3896320.html)
+
++ [《庆余年2》大结局超前点映 网友：庆帝叶轻眉 道不同不相为谋](https://www.3dmgame.com/news/202406/3896321.html)
+
++ [天命玄鸟工作室游戏新作《代号：骤影》4分钟实机 发售日待定](https://www.3dmgame.com/news/202406/3896319.html)
+
++ [《方块战记》Steam页面上线 10月2日发售](https://www.3dmgame.com/news/202406/3896318.html)
+
++ [V社新作确认属实 已为《Deadlock》申请商标](https://www.3dmgame.com/news/202406/3896317.html)
+
++ [俯视角冒险游戏《The Sacred Acorn》发售日 7月17日上线](https://www.3dmgame.com/news/202406/3896316.html)
+
++ [《破坏领主》将于9月关闭多人游戏和停止未来开发](https://www.3dmgame.com/news/202406/3896315.html)
+
