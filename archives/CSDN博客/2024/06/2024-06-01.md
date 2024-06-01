@@ -157,3 +157,11 @@
 
 + [低代码能砸掉程序员的饭碗吗？](https://blog.csdn.net/fefdfg/article/details/139352107)
 
++ [城市之旅：使用 LLM 和 Elasticsearch 简化地理空间搜索（二）](https://blog.csdn.net/UbuntuTouch/article/details/139345309)
+
++ [Linux 深入讲解自动化构建工具](https://blog.csdn.net/2301_81874719/article/details/139303227)
+
++ [【Springboot】——项目的创建与请求参数应用](https://blog.csdn.net/shsjssnn/article/details/139102688)
+
++ [html--太阳系](https://blog.csdn.net/stqer/article/details/139350544)
+
