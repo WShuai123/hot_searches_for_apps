@@ -119,3 +119,13 @@
 
 + [《真三国无双：起源》Steam商店页公开 支持中文配音](https://www.3dmgame.com/news/202406/3896302.html)
 
++ [传言称国际足联《FIFA》新作将拥有大量联赛和球队授权](https://www.3dmgame.com/news/202406/3896314.html)
+
++ [战略城市建造游戏《黄金国：黄金城建设者》发售日公布 6月17日发售](https://www.3dmgame.com/news/202406/3896310.html)
+
++ [索尼为《往日不再》开发商新IP投入2.5亿美元支持](https://www.3dmgame.com/news/202406/3896313.html)
+
++ [年货赛车再度启航 EA旗下《F1 24》现已正式发售](https://www.3dmgame.com/news/202406/3896312.html)
+
++ [微软劳工中立协议现包含ZeniMax：不准干涉工会](https://www.3dmgame.com/news/202406/3896311.html)
+

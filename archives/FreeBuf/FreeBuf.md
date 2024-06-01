@@ -47,3 +47,5 @@
 
 + [记录一次cnvd事件型证书漏洞挖掘](https://www.freebuf.com/vuls/402033.html)
 
++ [网安标委印发《网络安全技术 关键信息基础设施边界确定方法（征求意见稿）》](https://www.freebuf.com/news/402434.html)
+
