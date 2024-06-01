@@ -67,3 +67,7 @@
 
 + [为我推翻 所有孤单](http://www.acfun.cn/v/ac44698931)
 
++ [【AC独家】给acer跳个宝可梦之舞](http://www.acfun.cn/v/ac44690954)
+
++ [μ s绚濑绘里勇闯kpop！batter up-babymonster](http://www.acfun.cn/v/ac44700557)
+

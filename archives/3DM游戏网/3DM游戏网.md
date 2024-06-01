@@ -101,3 +101,5 @@
 
 + [奇幻动作冒险游戏《星之旅》Steam页面上线 支持简中](https://www.3dmgame.com/news/202405/3896247.html)
 
++ [《宇宙机器人》最受玩家欢迎 《Concord》预告好评率仅18%](https://www.3dmgame.com/news/202406/3896301.html)
+
