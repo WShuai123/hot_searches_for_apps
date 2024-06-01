@@ -39,3 +39,5 @@
 
 + [小米 SU7 车型 6 月限时购车权益：同 5 月保持不变，送 Nappa 真皮座椅、增强智驾终身免费](https://m.ithome.com/html/772110.htm)
 
++ [鸿蒙智行：问界新 M7 Ultra 上市 1 小时大定突破 6000 台](https://m.ithome.com/html/772281.htm)
+

@@ -143,3 +143,7 @@
 
 + [《破坏领主》将于9月关闭多人游戏和停止未来开发](https://www.3dmgame.com/news/202406/3896315.html)
 
++ [《美少女梦工厂2：韶华再续》PS5版因内容审查跳票](https://www.3dmgame.com/news/202406/3896322.html)
+
++ [和《血源》无关！PS1复古《梦魇卡丁车》正式推出](https://www.3dmgame.com/news/202406/3896323.html)
+
