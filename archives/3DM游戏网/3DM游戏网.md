@@ -171,3 +171,7 @@
 
 + [《世上英雄》正式定档6月14日发售 原价29元](https://www.3dmgame.com/news/202406/3896324.html)
 
++ [《寂静岭2：重制版》对话相比原版会略微有所调整](https://www.3dmgame.com/news/202406/3896336.html)
+
++ [Take-Two老板：AI会导致失业是我听过最蠢的事情](https://www.3dmgame.com/news/202406/3896337.html)
+

@@ -47,3 +47,5 @@
 
 + [华为麒麟 5G 新机入网，消息称 nova 13 Ultra 卫通版价格继续上探](https://m.ithome.com/html/772343.htm)
 
++ [又见“刀法”？古尔曼称苹果 iOS 18 端侧 AI 功能至少需 iPhone 15 Pro 手机、M1 芯片 iPad / Mac](https://m.ithome.com/html/772195.htm)
+
