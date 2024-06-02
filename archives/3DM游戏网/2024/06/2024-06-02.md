@@ -141,3 +141,9 @@
 
 + [《马戏团没有幽灵》Steam上线 手绘风冒险解谜](https://www.3dmgame.com/news/202406/3896364.html)
 
++ [实体玩家太亏 《寂静岭2：重制版》预购模式引不满](https://www.3dmgame.com/news/202406/3896369.html)
+
++ [印度气温一路飙到52.9°C：气象部门怀疑设备故障](https://www.3dmgame.com/news/202406/3896367.html)
+
++ [《Midsummer Leg“s Dream》免费登陆Steam 踩踏解压游戏](https://www.3dmgame.com/news/202406/3896368.html)
+

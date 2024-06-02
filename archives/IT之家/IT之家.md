@@ -39,3 +39,5 @@
 
 + [苹果官网下架 OtterBox 全部配件，消息称国内代理商“不做了”](https://m.ithome.com/html/772503.htm)
 
++ [华为余承东称自己是“i 人”：骨子里是内向的，外向表达是行业所迫](https://m.ithome.com/html/772514.htm)
+

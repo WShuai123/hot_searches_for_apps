@@ -109,3 +109,17 @@
 
 + [Ginix](https://www.producthunt.com/posts/ginix)
 
++ [GradFlow](https://www.producthunt.com/posts/gradflow)
+
++ [LearnerOn](https://www.producthunt.com/posts/learneron)
+
++ [Rated](https://www.producthunt.com/posts/rated-1)
+
++ [ZapCap](https://www.producthunt.com/posts/zapcap)
+
++ [Vagabond - AI Trip Planner](https://www.producthunt.com/posts/vagabond-ai-trip-planner)
+
++ [OpenNotas](https://www.producthunt.com/posts/opennotas)
+
++ [Validea](https://www.producthunt.com/posts/validea-2)
+
