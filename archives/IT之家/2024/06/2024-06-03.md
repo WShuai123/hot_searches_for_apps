@@ -25,3 +25,5 @@
 
 + [保时捷破局，需要换个姿势拥抱中国](https://m.ithome.com/html/772603.htm)
 
++ [3873 元 + 24 期免息：小米 14 手机 16G+512G 京东自营新低](https://m.ithome.com/html/772622.htm)
+

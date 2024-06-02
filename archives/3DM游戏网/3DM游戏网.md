@@ -105,3 +105,11 @@
 
 + [今天是《模拟人生3》发布15周年 玩家发文庆贺](https://www.3dmgame.com/news/202406/3896383.html)
 
++ [NVIDIA官宣全新Rubin GPU/Vera CPU](https://www.3dmgame.com/news/202406/3896388.html)
+
++ [据报道Take-Two计划关闭或出售其独立游戏品牌](https://www.3dmgame.com/news/202406/3896387.html)
+
++ [《星空》幕后有大动作 或为大型升级或DLC](https://www.3dmgame.com/news/202406/3896386.html)
+
++ [《符文工厂4》是 6月退出XGP的五款游戏之一](https://www.3dmgame.com/news/202406/3896385.html)
+

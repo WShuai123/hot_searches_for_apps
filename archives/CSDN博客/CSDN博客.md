@@ -101,3 +101,9 @@
 
 + [ARM32开发——LED驱动开发](https://blog.csdn.net/qiuyeyyy/article/details/139370152)
 
++ [【机器学习】基于OpenCV和TensorFlow的MobileNetV2模型的物种识别与个体相似度分析](https://blog.csdn.net/weixin_41793160/article/details/139396627)
+
++ [【活动】GPT-4O：AI语言生成技术的新里程碑](https://blog.csdn.net/qq_44214428/article/details/139371880)
+
++ [【MySQL数据库】索引与事务](https://blog.csdn.net/2302_79806056/article/details/139326340)
+
