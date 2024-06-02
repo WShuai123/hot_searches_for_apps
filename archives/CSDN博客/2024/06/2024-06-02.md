@@ -185,3 +185,9 @@
 
 + [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/u012111923/article/details/139380267)
 
++ [OpenAI已全面开放自定义GPT以及文件上传等功能](https://blog.csdn.net/qq_31329349/article/details/139340250)
+
++ [中继器、集线器、网桥、交换机、路由器和网关](https://blog.csdn.net/pyc68/article/details/139374649)
+
++ [Vue插槽与作用域插槽](https://blog.csdn.net/qq_42210428/article/details/139379966)
+

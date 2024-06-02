@@ -49,3 +49,5 @@
 
 + [华为推出折叠机柔性屏主体更换活动，Mate X5 仅换屏 1999 元](https://m.ithome.com/html/772476.htm)
 
++ [人类首次月背采样返回将实施！嫦娥六号成功着陆月背南极-艾特肯盆地](https://m.ithome.com/html/772485.htm)
+

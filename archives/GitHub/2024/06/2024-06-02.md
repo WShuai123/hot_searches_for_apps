@@ -51,3 +51,37 @@
 
 + [redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
 
++ [lllyasviel / Omost](https://github.com/lllyasviel/Omost)
+
++ [face-hh / webx](https://github.com/face-hh/webx)
+
++ [lanqian528 / chat2api](https://github.com/lanqian528/chat2api)
+
++ [ishaan1013 / sandbox](https://github.com/ishaan1013/sandbox)
+
++ [tiann / KernelSU](https://github.com/tiann/KernelSU)
+
++ [raysan5 / raylib](https://github.com/raysan5/raylib)
+
++ [VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [anthropics / courses](https://github.com/anthropics/courses)
+
++ [kholia / OSX-KVM](https://github.com/kholia/OSX-KVM)
+
++ [xmrig / xmrig](https://github.com/xmrig/xmrig)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [warpstreamlabs / bento](https://github.com/warpstreamlabs/bento)
+
++ [flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [VikParuchuri / marker](https://github.com/VikParuchuri/marker)
+
++ [leanprover-community / mathlib4](https://github.com/leanprover-community/mathlib4)
+
