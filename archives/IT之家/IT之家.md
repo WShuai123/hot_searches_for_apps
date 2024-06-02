@@ -35,3 +35,7 @@
 
 + [6 月 2 日 618 省钱攻略：京东 iPhone 15 Pro 5896 元破冰新低，小米 1.5 匹空调 1626 元发车](https://m.ithome.com/html/772479.htm)
 
++ [小米 14 手机推送澎湃 OS 1.0.38 版本升级：新增 5G-A、拍照模式支持超级长焦](https://m.ithome.com/html/772499.htm)
+
++ [苹果官网下架 OtterBox 全部配件，消息称国内代理商“不做了”](https://m.ithome.com/html/772503.htm)
+

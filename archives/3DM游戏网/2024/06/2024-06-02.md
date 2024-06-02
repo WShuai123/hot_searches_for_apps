@@ -133,3 +133,5 @@
 
 + [《Tell Me Why》6月限定免费 经典超能力剧情冒险](https://www.3dmgame.com/news/202406/3896358.html)
 
++ [《宇宙机器人》将会有超过150个PlayStation角色登场](https://www.3dmgame.com/news/202406/3896363.html)
+
