@@ -135,3 +135,9 @@
 
 + [《宇宙机器人》将会有超过150个PlayStation角色登场](https://www.3dmgame.com/news/202406/3896363.html)
 
++ [《华纳大乱斗》确认测试版多项移除功能将尽快回归](https://www.3dmgame.com/news/202406/3896366.html)
+
++ [亚马逊公告：Kindle中国电子书店将于6月30日停止服务](https://www.3dmgame.com/news/202406/3896365.html)
+
++ [《马戏团没有幽灵》Steam上线 手绘风冒险解谜](https://www.3dmgame.com/news/202406/3896364.html)
+

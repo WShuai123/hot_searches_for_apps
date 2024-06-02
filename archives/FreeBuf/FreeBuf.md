@@ -49,3 +49,5 @@
 
 + [Atlassian Confluence 远程代码执行漏洞(CVE-2024-21683)深入分析](https://www.freebuf.com/vuls/402197.html)
 
++ [Secbutler：专为渗透测试和漏洞奖励计划设计的多功能工具箱](https://www.freebuf.com/sectool/402306.html)
+

@@ -163,3 +163,5 @@
 
 + [华为设备配置静态路由和默认路由](https://blog.csdn.net/sdszoe4922/article/details/139380649)
 
++ [自学黑客（网络安全）](https://blog.csdn.net/2401_85169223/article/details/139378984)
+
