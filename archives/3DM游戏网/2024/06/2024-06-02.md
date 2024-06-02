@@ -161,3 +161,7 @@
 
 + [《STRANGE SHADOW》Steam上线 8番出口作者恐怖逃生新游](https://www.3dmgame.com/news/202406/3896370.html)
 
++ [开放世界生存制作游戏《灵魂面甲》首日销量超10万](https://www.3dmgame.com/news/202406/3896378.html)
+
++ [新款Model 3高性能版实测：0-400米加速耗时10.92秒](https://www.3dmgame.com/news/202406/3896377.html)
+
