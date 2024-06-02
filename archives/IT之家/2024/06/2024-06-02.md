@@ -55,3 +55,7 @@
 
 + [智界 S7 推出香颂绿、罗曼尼红改色膜，前者系华为 Pura 70 Ultra 手机同款配色](https://m.ithome.com/html/772467.htm)
 
++ [消息称“部分”骁龙 8 Gen 3 手机 / 平板电脑提至“6 月底 - 7 月初”发布](https://m.ithome.com/html/772555.htm)
+
++ [牛犊子成交超 10 头、47 秒完成“寝室自提”交易，闲鱼公布“618 开卖 24 小时战报”](https://m.ithome.com/html/772533.htm)
+
