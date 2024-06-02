@@ -127,3 +127,13 @@
 
 + [【活动】GPT-4O：AI语言生成技术的新里程碑](https://blog.csdn.net/qq_44214428/article/details/139371880)
 
++ [开源与闭源 AI 模型：发展路径的比较与前瞻](https://blog.csdn.net/qyj19920704/article/details/139319610)
+
++ [纯Java实现Google地图的KMZ和KML文件的解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/139375604)
+
++ [YOLOv8 segment介绍](https://blog.csdn.net/fengbingchun/article/details/139377787)
+
++ [前端Vue小兔鲜儿电商项目实战Day04](https://blog.csdn.net/ltt159264/article/details/139326042)
+
++ [18.Redis之哨兵](https://blog.csdn.net/m0_47017197/article/details/139330770)
+

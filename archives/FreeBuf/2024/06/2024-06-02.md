@@ -41,3 +41,7 @@
 
 + [LightSpy 间谍软件工具 macOS 版曝光，可用于窃取各类隐私数据](https://www.freebuf.com/news/402317.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/402387.html)
+
++ [Android安全 | SoumniBot恶意软件非常规分析和检测规避方法](https://www.freebuf.com/articles/mobile/400880.html)
+
