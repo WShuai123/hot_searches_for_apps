@@ -151,3 +151,9 @@
 
 + [基于深度学习YOLOv8YOLOv5的花卉识别鲜花识别检测分类系统设计](https://blog.csdn.net/m0_46653805/article/details/139378800)
 
++ [爬虫-uiautomator2获取拼多多APP端商品数据](https://blog.csdn.net/Orangeyezzer/article/details/139359257)
+
++ [SpringBoot实用开发篇第六章（整合第三方技术,ActiveMQ,RabbitMQ,RocketMQ,Kafka）](https://blog.csdn.net/Du_XiaoNan/article/details/139339799)
+
++ [基于Chisel的FPGA流水灯设计](https://blog.csdn.net/Morzart/article/details/139365137)
+
