@@ -85,3 +85,9 @@
 
 + [Special Edition](https://dribbble.com/shots/)
 
++ [Pedro](https://dribbble.com/shots/)
+
++ [Chris Rea Lettering](https://dribbble.com/shots/)
+
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
