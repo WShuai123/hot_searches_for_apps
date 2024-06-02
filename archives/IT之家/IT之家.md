@@ -53,3 +53,5 @@
 
 + [小米汽车：6 月 5 日起，SU7 大定锁单“犹豫期”将从 7 天缩短至 3 天](https://m.ithome.com/html/772591.htm)
 
++ [智界 S7 推出香颂绿、罗曼尼红改色膜，前者系华为 Pura 70 Ultra 手机同款配色](https://m.ithome.com/html/772467.htm)
+

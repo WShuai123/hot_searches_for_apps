@@ -197,3 +197,7 @@
 
 + [植物大战僵尸杂交版破解C++实现](https://blog.csdn.net/2301_81290340/article/details/139332111)
 
++ [【Centos7】解决 CentOS 7 中出现 “xx: command not found“ 错误的全面指南](https://blog.csdn.net/joeyoj/article/details/139370930)
+
++ [Linux综合实践(Ubuntu)](https://blog.csdn.net/qq_60243891/article/details/139363145)
+
