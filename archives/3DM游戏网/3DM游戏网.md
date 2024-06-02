@@ -101,3 +101,7 @@
 
 + [阿里巴巴与世卫组织合作 全球推广AI癌症筛查技术](https://www.3dmgame.com/news/202406/3896334.html)
 
++ [《星球大战：亡命之徒》支持DLSS 3.5 明显增强视效](https://www.3dmgame.com/news/202406/3896384.html)
+
++ [今天是《模拟人生3》发布15周年 玩家发文庆贺](https://www.3dmgame.com/news/202406/3896383.html)
+
