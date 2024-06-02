@@ -181,3 +181,7 @@
 
 + [Amazon云计算AWS（三）](https://blog.csdn.net/Morse_Chen/article/details/139356807)
 
++ [【深入学习Redis丨第二篇】Redis集群部署详解](https://blog.csdn.net/m0_63947499/article/details/139287652)
+
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/u012111923/article/details/139380267)
+

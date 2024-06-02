@@ -47,3 +47,5 @@
 
 + [空芯光纤，为什么这么火？](https://m.ithome.com/html/772446.htm)
 
++ [华为推出折叠机柔性屏主体更换活动，Mate X5 仅换屏 1999 元](https://m.ithome.com/html/772476.htm)
+

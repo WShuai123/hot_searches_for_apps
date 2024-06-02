@@ -147,3 +147,17 @@
 
 + [《Midsummer Leg“s Dream》免费登陆Steam 踩踏解压游戏](https://www.3dmgame.com/news/202406/3896368.html)
 
++ [《男子矿山》Steam页面上线 矿山健身生存冒险](https://www.3dmgame.com/news/202406/3896376.html)
+
++ [传言称《塞尔达传说：黄昏公主》将推出NS重制版](https://www.3dmgame.com/news/202406/3896375.html)
+
++ [《最终幻想7：重生》爱丽丝音乐盒开启预购 价格近千美元](https://www.3dmgame.com/news/202406/3896374.html)
+
++ [嫦娥六号成功登月！月球背面到底藏了什么？](https://www.3dmgame.com/news/202406/3896373.html)
+
++ [《无畏契约》严厉打击网络喷子：实施硬件封禁措施](https://www.3dmgame.com/news/202406/3896372.html)
+
++ [Take-Two：等《GTA6》这12年里并非什么都没做](https://www.3dmgame.com/news/202406/3896371.html)
+
++ [《STRANGE SHADOW》Steam上线 8番出口作者恐怖逃生新游](https://www.3dmgame.com/news/202406/3896370.html)
+
