@@ -117,3 +117,9 @@
 
 + [《50 Floors》免费登陆Steam 类《8番出口》惊悚解谜](https://www.3dmgame.com/news/202406/3896349.html)
 
++ [回合制战术新作《神奇英侠》发售 Steam评价褒贬不一](https://www.3dmgame.com/news/202406/3896357.html)
+
++ [《观察与报告》登陆Steam 终极监控模拟游戏](https://www.3dmgame.com/news/202406/3896356.html)
+
++ [《星球大战：银河猎手》登陆NS 上市宣传片欣赏](https://www.3dmgame.com/news/202406/3896355.html)
+

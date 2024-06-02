@@ -137,3 +137,17 @@
 
 + [18.Redis之哨兵](https://blog.csdn.net/m0_47017197/article/details/139330770)
 
++ [BrainGPT1，一个帮你b站点歌放视频的多模态多轮对话模型](https://blog.csdn.net/a1920993165/article/details/139376397)
+
++ [攻防世界-WEB-filemanager](https://blog.csdn.net/m0_52061428/article/details/139375677)
+
++ [阿里云部署nodejs](https://blog.csdn.net/qq_63358859/article/details/139320702)
+
++ [Three.js——tween动画、光线投射拾取、加载.obj/.mtl外部文件、使用相机控制器](https://blog.csdn.net/qq_45902692/article/details/139370251)
+
++ [4K高刷显示器 - 蚂蚁电竞ANT27VU](https://blog.csdn.net/yybcp9/article/details/139380859)
+
++ [机器人抓取检测（Robot Grasping Detection）](https://blog.csdn.net/weixin_47151388/article/details/139353774)
+
++ [基于深度学习YOLOv8YOLOv5的花卉识别鲜花识别检测分类系统设计](https://blog.csdn.net/m0_46653805/article/details/139378800)
+

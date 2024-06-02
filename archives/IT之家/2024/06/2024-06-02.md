@@ -27,3 +27,5 @@
 
 + [10 核变 9 核 GPU 版 M2 芯片，2024 款苹果 iPad Air 官网技术规格更新](https://m.ithome.com/html/772470.htm)
 
++ [华为联合设计，鸿蒙智行问界新 M7 Ultra 车型上市首日大定破 12000 台](https://m.ithome.com/html/772464.htm)
+
