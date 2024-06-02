@@ -45,3 +45,5 @@
 
 + [Android安全 | SoumniBot恶意软件非常规分析和检测规避方法](https://www.freebuf.com/articles/mobile/400880.html)
 
++ [实战案例 | 绕过计算型验证码](https://www.freebuf.com/articles/web/401619.html)
+
