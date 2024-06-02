@@ -157,3 +157,5 @@
 
 + [基于Chisel的FPGA流水灯设计](https://blog.csdn.net/Morzart/article/details/139365137)
 
++ [密文域可逆信息隐藏安全性研究-从图像到视频](https://blog.csdn.net/q15516221118/article/details/139387106)
+

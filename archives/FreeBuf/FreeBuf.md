@@ -47,3 +47,5 @@
 
 + [实战案例 | 绕过计算型验证码](https://www.freebuf.com/articles/web/401619.html)
 
++ [Atlassian Confluence 远程代码执行漏洞(CVE-2024-21683)深入分析](https://www.freebuf.com/vuls/402197.html)
+
