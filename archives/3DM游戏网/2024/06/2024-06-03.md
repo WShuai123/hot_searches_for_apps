@@ -113,3 +113,11 @@
 
 + [《符文工厂4》是 6月退出XGP的五款游戏之一](https://www.3dmgame.com/news/202406/3896385.html)
 
++ [任天堂曾担心无双化会影响塞尔达传说IP名声](https://www.3dmgame.com/news/202406/3896392.html)
+
++ [《使命召唤》联动《高达》曝光新预告](https://www.3dmgame.com/news/202406/3896391.html)
+
++ [任天堂将经典3DS游戏重制版交给Switch 2首发](https://www.3dmgame.com/news/202406/3896390.html)
+
++ [消息称《对马岛之鬼》续作正式投入开发](https://www.3dmgame.com/news/202406/3896389.html)
+

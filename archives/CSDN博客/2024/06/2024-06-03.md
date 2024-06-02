@@ -107,3 +107,21 @@
 
 + [【MySQL数据库】索引与事务](https://blog.csdn.net/2302_79806056/article/details/139326340)
 
++ [【LLM】两篇多模态LLM综述MultiModal Large Language Models](https://blog.csdn.net/qq_35812205/article/details/139218988)
+
++ [数据在内存中的存储](https://blog.csdn.net/braveact/article/details/139372461)
+
++ [密文域可逆信息隐藏安全性研究-从图像到视频](https://blog.csdn.net/q15516221118/article/details/139387106)
+
++ [Spring Boot配置MySQL数据库连接数](https://blog.csdn.net/m0_72958694/article/details/139393548)
+
++ [Spring高手之路19——Spring AOP注解指南](https://blog.csdn.net/qq_34115899/article/details/136203216)
+
++ [10.0：EVO HTML 到 PDF 转换器（Java 版）](https://blog.csdn.net/john_dwh/article/details/139379665)
+
++ [SpringBoot实用开发篇第六章（整合第三方技术,ActiveMQ,RabbitMQ,RocketMQ,Kafka）](https://blog.csdn.net/Du_XiaoNan/article/details/139339799)
+
++ [最新h5st(4.7.2)参数分析与纯算法还原（含算法源码）](https://blog.csdn.net/qiulin_wu/article/details/139387809)
+
++ [网络原理———TCP/IP—网络层IP协议](https://blog.csdn.net/m0_60963435/article/details/139375894)
+
