@@ -57,3 +57,9 @@
 
 + [会员 618 合集更新：B站大会员年卡 88 元补贴购，夸克 9 元离线下载 100 次](https://m.ithome.com/html/772619.htm)
 
++ [6 月 3 日 618 开门红倒数 3 小时攻略：京东 PLUS 补贴 / 天猫消费券 24 点失效，小米 14 京东新低 24 期免息](https://m.ithome.com/html/772625.htm)
+
++ [消息称高通骁龙 8 Gen 4 芯片超大核频率 4.2GHz，GeekBench6 单核三千多核破万](https://m.ithome.com/html/772849.htm)
+
++ [安卓子系统在国内复活：腾讯移动应用引擎采用 WSA 原生方案，支持桌面图标打开 App](https://m.ithome.com/html/772847.htm)
+

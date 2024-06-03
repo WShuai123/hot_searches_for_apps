@@ -227,3 +227,9 @@
 
 + [2024年5月Steam硬件调查报告 32GB内存成为趋势](https://www.3dmgame.com/news/202406/3896443.html)
 
++ [无敌了？T2暗示《GTA6》再无任何竞争对手](https://www.3dmgame.com/news/202406/3896447.html)
+
++ [《毒液3》全球首支预告和海报 10月25日上映](https://www.3dmgame.com/news/202406/3896448.html)
+
++ [虽然《GTA6》还没出 但T2刚刚首次提到了《GTA7》](https://www.3dmgame.com/news/202406/3896446.html)
+

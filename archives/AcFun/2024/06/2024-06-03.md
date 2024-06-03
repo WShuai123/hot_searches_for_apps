@@ -141,3 +141,7 @@
 
 + [迪昂泰·维尔德 vs 张志磊](http://www.acfun.cn/v/ac44720183)
 
++ [“我在考前苦苦求了几千年”](http://www.acfun.cn/v/ac44720822)
+
++ [这个水平骗不到Acer进厂啊！欢乐八点档-939](http://www.acfun.cn/v/ac44721416)
+
