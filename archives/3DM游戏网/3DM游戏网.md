@@ -183,3 +183,9 @@
 
 + [《ContractVille》Steam抢先体验 开放世界城市建设](https://www.3dmgame.com/news/202406/3896423.html)
 
++ [KK官方对战平台”推广员计划“发布！简单三步，地图福利周周领！](https://www.3dmgame.com/news/202406/3896426.html)
+
++ [英伟达显卡玩家获赠3个月PC版XGP 6月4日起开领](https://www.3dmgame.com/news/202406/3896424.html)
+
++ [《海贼王》漫画衍生插图小说公布 聚焦于女性角色](https://www.3dmgame.com/news/202406/3896425.html)
+

@@ -43,3 +43,5 @@
 
 + [6 月 3 日 618 省钱攻略：开门红倒数 24 小时，小米 14 京东新低 24 期免息，追觅扫拖机器人 518 元手慢无](https://m.ithome.com/html/772625.htm)
 
++ [英伟达 GeForce Rewards 将为 GTX 10 系及更新显卡玩家免费提供 3 个月 PC Game Pass 订阅](https://m.ithome.com/html/772633.htm)
+

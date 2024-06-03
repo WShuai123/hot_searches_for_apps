@@ -55,3 +55,7 @@
 
 + [从目录浏览漏洞到某融合通信调度系统的getshell](https://www.freebuf.com/defense/402101.html)
 
++ [AzSubEnum：针对Azure服务的子域名枚举查询工具](https://www.freebuf.com/sectool/402335.html)
+
++ [59% 公共部门的应用程序长期存在安全漏洞](https://www.freebuf.com/news/402484.html)
+

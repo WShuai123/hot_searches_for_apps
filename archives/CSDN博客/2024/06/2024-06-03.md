@@ -185,3 +185,7 @@
 
 + [网络编程介绍（IP）（一）](https://blog.csdn.net/2301_81718046/article/details/139389719)
 
++ [第24讲：Ceph集群RGW对象存储高可用集群部署与测试](https://blog.csdn.net/weixin_44953658/article/details/139402573)
+
++ [Xxl-Job分布式定时任务](https://blog.csdn.net/m0_51607909/article/details/139391197)
+

@@ -109,3 +109,17 @@
 
 + [Buglab AI](https://www.producthunt.com/posts/buglab-ai)
 
++ [Atlas.co](https://www.producthunt.com/posts/atlas-co-1)
+
++ [Linkz.ai 3.0](https://www.producthunt.com/posts/linkz-ai-3-0)
+
++ [human.software](https://www.producthunt.com/posts/human-software)
+
++ [Gojiberry for Shopify](https://www.producthunt.com/posts/gojiberry-for-shopify)
+
++ [Deepshot 2.0](https://www.producthunt.com/posts/deepshot-2-0)
+
++ [Marevo](https://www.producthunt.com/posts/marevo)
+
++ [Advomate](https://www.producthunt.com/posts/advomate)
+
