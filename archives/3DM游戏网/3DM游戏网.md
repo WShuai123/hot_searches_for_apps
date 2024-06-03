@@ -145,3 +145,21 @@
 
 + [日本男星真田广之或参演《对马岛之鬼》电影](https://www.3dmgame.com/news/202406/3896396.html)
 
++ [斯坦福大学研究 儿时沉迷宝可梦玩家会有宝可梦特定脑活动](https://www.3dmgame.com/news/202406/3896413.html)
+
++ [复古风科幻生存恐怖游戏《零号协议》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896409.html)
+
++ [小岛秀夫安利韩剧《超异能族》 最后三集哭着看完](https://www.3dmgame.com/news/202406/3896412.html)
+
++ [GOG已确认：如果用户有遗嘱 那就可以继承账户](https://www.3dmgame.com/news/202406/3896411.html)
+
++ [《致命公司》公布V55更新 6月25日上线](https://www.3dmgame.com/news/202406/3896410.html)
+
++ [《冰汽时代2》并非抑郁模拟器：不是为了让人感到痛苦](https://www.3dmgame.com/news/202406/3896408.html)
+
++ [《我的世界》更新1.21发布 修复不少问题](https://www.3dmgame.com/news/202406/3896407.html)
+
++ [动作对战游戏《时光迷失》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896406.html)
+
++ [传闻：任天堂正在开发《斯普拉遁》新作 代号“Spiral”](https://www.3dmgame.com/news/202406/3896405.html)
+

@@ -35,3 +35,5 @@
 
 + [379 元，HMD 宣布诺基亚 3210 功能机国行 6 月 6 日再次开售](https://m.ithome.com/html/772610.htm)
 
++ [北大人民医院成功应用苹果 Vision Pro 头显完成肺癌根治术](https://m.ithome.com/html/772640.htm)
+

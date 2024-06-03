@@ -47,3 +47,7 @@
 
 + [企业安全建设 | 一份有价值的汇报方案](https://www.freebuf.com/consult/402218.html)
 
++ [卡巴斯基发布可扫描Linux已知威胁的免费工具](https://www.freebuf.com/news/402471.html)
+
++ [盗版Office软件“打包”多款恶意程序入侵用户系统](https://www.freebuf.com/news/402477.html)
+
