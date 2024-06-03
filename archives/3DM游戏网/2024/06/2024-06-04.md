@@ -101,3 +101,13 @@
 
 + [格斗游戏《香肠传奇：竞技场》上架Steam 2025年发售](https://www.3dmgame.com/news/202406/3896404.html)
 
++ [《挖或死》6月5日登陆主机 Steam特别好评](https://www.3dmgame.com/news/202406/3896453.html)
+
++ [《凯娜：精神之桥》Xbox版8月15日发售 预告发布](https://www.3dmgame.com/news/202406/3896451.html)
+
++ [育碧多伦多工作室现已加入《波斯王子：时之沙》开发](https://www.3dmgame.com/news/202406/3896452.html)
+
++ [《合金弹头：战略版》新预告 今秋发售](https://www.3dmgame.com/news/202406/3896449.html)
+
++ [AMD Zen5锐龙9000发布：同频性能飙升16％！](https://www.3dmgame.com/news/202406/3896450.html)
+

@@ -65,3 +65,7 @@
 
 + [舰长专属 Sistar-Alone](http://www.acfun.cn/v/ac44725167)
 
++ [此生遗憾没有进过厂......(今日开心视频：1459)](http://www.acfun.cn/v/ac44725973)
+
++ [【小松雪奈】《ビュンビュン逃飛行》雯籽编舞](http://www.acfun.cn/v/ac44721735)
+

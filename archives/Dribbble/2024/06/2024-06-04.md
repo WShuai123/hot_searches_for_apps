@@ -71,3 +71,17 @@
 
 + [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
 
++ [Sundog Healing Wordmark](https://dribbble.com/shots/)
+
++ [Grocery Warmup Sketch](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Converse Warsaw](https://dribbble.com/shots/)
+
++ [Snake Rum](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Hero illustrations Future Tech](https://dribbble.com/shots/)
+
