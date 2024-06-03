@@ -181,3 +181,5 @@
 
 + [复古策略探索游戏《SKALD：攻打黑修院》现已正式推出 Steam获特别好评](https://www.3dmgame.com/news/202406/3896418.html)
 
++ [《ContractVille》Steam抢先体验 开放世界城市建设](https://www.3dmgame.com/news/202406/3896423.html)
+

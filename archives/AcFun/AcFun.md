@@ -97,3 +97,5 @@
 
 + [【兔兔搬运】被小熊猫可爱晕了](http://www.acfun.cn/v/ac44718145)
 
++ [初音未来2024演唱会应援视频【iii】MMD](http://www.acfun.cn/v/ac44713253)
+
