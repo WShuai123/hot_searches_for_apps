@@ -45,3 +45,5 @@
 
 + [数据安全——数据分类分级落地实践](https://www.freebuf.com/articles/database/401637.html)
 
++ [企业安全建设 | 一份有价值的汇报方案](https://www.freebuf.com/consult/402218.html)
+

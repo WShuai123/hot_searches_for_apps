@@ -129,3 +129,13 @@
 
 + [华为设备配置静态路由和默认路由](https://blog.csdn.net/sdszoe4922/article/details/139380649)
 
++ [【人工智能】第一部分：ChatGPT的基本概念和技术背景](https://blog.csdn.net/double222222/article/details/139388107)
+
++ [Maven：构建高效开发的过程](https://blog.csdn.net/ymr1843762281/article/details/139207652)
+
++ [留言板——增添功能(持久化存储数据，使用MyBatis)](https://blog.csdn.net/cool_tao6/article/details/139333752)
+
++ [C++ 20新特性之Concepts](https://blog.csdn.net/hope_wisdom/article/details/139401509)
+
++ [Vue中的计算属性和侦听器：提升响应式编程的艺术](https://blog.csdn.net/shippingxing/article/details/139375650)
+

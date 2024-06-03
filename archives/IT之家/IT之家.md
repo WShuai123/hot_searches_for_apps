@@ -31,3 +31,7 @@
 
 + [一整面都是外屏？荣耀首款“小折叠”新机曝光](https://m.ithome.com/html/772620.htm)
 
++ [英伟达预告下一代 Rubin GPU 架构：HBM4 显存、Vera CPU，2026 年推出](https://m.ithome.com/html/772615.htm)
+
++ [379 元，HMD 宣布诺基亚 3210 功能机国行 6 月 6 日再次开售](https://m.ithome.com/html/772610.htm)
+

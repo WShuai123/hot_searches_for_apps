@@ -127,3 +127,21 @@
 
 + [《学园构想家》Switch版确定7月16日上市](https://www.3dmgame.com/news/202406/3896393.html)
 
++ [格斗游戏《香肠传奇：竞技场》上架Steam 2025年发售](https://www.3dmgame.com/news/202406/3896404.html)
+
++ [《毁灭战士》生父约翰·罗梅洛的自传小说正在被改编成纪录片](https://www.3dmgame.com/news/202406/3896400.html)
+
++ [顽皮狗总裁：我们不会变成只开发《最后的生还者》的工作室 多个项目制作中](https://www.3dmgame.com/news/202406/3896401.html)
+
++ [类塔科夫FPS游戏《灰区战争》宣布抢先体验首月销量超90万份](https://www.3dmgame.com/news/202406/3896403.html)
+
++ [《街头霸王6》发售一周年  官方致谢并宣布多项纪念活动](https://www.3dmgame.com/news/202406/3896402.html)
+
++ [《寂静岭2：重制版》将扩展世界 取消固定视角带来新元素](https://www.3dmgame.com/news/202406/3896399.html)
+
++ [《宝可梦：大集结》新宝可梦“苍炎刃鬼”公布 6月13日上线](https://www.3dmgame.com/news/202406/3896398.html)
+
++ [《鸣蟇村》Steam页面上线 日式恐怖探险新游](https://www.3dmgame.com/news/202406/3896397.html)
+
++ [日本男星真田广之或参演《对马岛之鬼》电影](https://www.3dmgame.com/news/202406/3896396.html)
+
