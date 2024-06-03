@@ -189,3 +189,11 @@
 
 + [Xxl-Job分布式定时任务](https://blog.csdn.net/m0_51607909/article/details/139391197)
 
++ [AI大模型在穿戴设备健康中的心率深度融合与案例分析](https://blog.csdn.net/rjdeng/article/details/139296012)
+
++ [【机器学习】机器学习与AI大数据的融合：开启智能新时代](https://blog.csdn.net/EterNity_TiMe_/article/details/139396198)
+
++ [Vue3项目炫酷实战，检测密码强度值](https://blog.csdn.net/xingyu_qie/article/details/139406699)
+
++ [django基于大数据+Spring的新冠肺炎疫情实时监控系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/139371491)
+
