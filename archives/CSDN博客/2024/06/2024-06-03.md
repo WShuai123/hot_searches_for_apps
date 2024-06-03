@@ -155,3 +155,13 @@
 
 + [SpringBootWeb登录认证](https://blog.csdn.net/weixin_74521994/article/details/139399358)
 
++ [GaussDB数据库如何创建修改数据库和数据表](https://blog.csdn.net/GaussDB/article/details/139402659)
+
++ [未来已来：Spring Boot引领数据库智能化革命](https://blog.csdn.net/weixin_40715916/article/details/139398241)
+
++ [开源VS闭源：大模型发展路径之争，你站哪一派？](https://blog.csdn.net/m290345792/article/details/139389220)
+
++ [Love-Yi情侣网站3.0存在SQL注入漏洞](https://blog.csdn.net/weixin_72543266/article/details/139398956)
+
++ [渗透测试之Web安全系列教程（二）](https://blog.csdn.net/fearhacker/article/details/139389063)
+

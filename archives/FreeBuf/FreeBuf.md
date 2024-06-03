@@ -51,3 +51,5 @@
 
 + [盗版Office软件“打包”多款恶意程序入侵用户系统](https://www.freebuf.com/news/402477.html)
 
++ [“神秘网络攻击事件”导致美国 60 万台路由器瘫痪](https://www.freebuf.com/news/402472.html)
+

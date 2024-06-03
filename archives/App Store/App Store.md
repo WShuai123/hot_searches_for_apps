@@ -207,3 +207,9 @@
 
 + [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [百度文库- 一站式AI内容获取和创作平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

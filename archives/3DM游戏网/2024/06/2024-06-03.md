@@ -163,3 +163,11 @@
 
 + [传闻：任天堂正在开发《斯普拉遁》新作 代号“Spiral”](https://www.3dmgame.com/news/202406/3896405.html)
 
++ [暴雪前CEO：索尼难以如愿吸引PC玩家转向PS5平台](https://www.3dmgame.com/news/202406/3896417.html)
+
++ [黄仁勋官宣NVIDIA下代AI芯片Rubin 2026年首发](https://www.3dmgame.com/news/202406/3896416.html)
+
++ [沙特电竞世界杯《守望先锋》项目中国直邀队伍确定：OnceAgain战队](https://www.3dmgame.com/news/202406/3896415.html)
+
++ [《博德之门3》首席编剧表示 游戏的成功正在为其他RPG开发商提供商业谈判的筹码](https://www.3dmgame.com/news/202406/3896414.html)
+
