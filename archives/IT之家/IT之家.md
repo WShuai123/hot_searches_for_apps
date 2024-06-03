@@ -63,3 +63,9 @@
 
 + [安卓子系统在国内复活：腾讯移动应用引擎采用 WSA 原生方案，支持桌面图标打开 App](https://m.ithome.com/html/772847.htm)
 
++ [小米 Redmi 蓝牙音箱 6 月 14 日开售：IP67 防尘防水，预约到手价 99 元](https://m.ithome.com/html/772695.htm)
+
++ [黄仁勋一口气解密三代 GPU，量产英伟达 Blackwell 解决 ChatGPT 全球耗电难题](https://m.ithome.com/html/772668.htm)
+
++ [消息称小米 Redmi K80 Pro 手机有望搭载 3X 长焦和超声波指纹](https://m.ithome.com/html/772653.htm)
+
