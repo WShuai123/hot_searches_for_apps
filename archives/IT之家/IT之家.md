@@ -51,3 +51,7 @@
 
 + [AMD 锐龙 9000 系列桌面处理器官宣 7 月上市：首搭 Zen5 架构，最高 16 核 32 线程](https://m.ithome.com/html/772684.htm)
 
++ [6 月 3 日 618 开门红倒数 4 小时攻略：京东 PLUS 补贴 / 天猫消费券 24 点失效，小米 14 京东新低 24 期免息](https://m.ithome.com/html/772625.htm)
+
++ [AMD Ryzen AI 300 系列 APU 发布：移动端最强 NPU，Zen5 CPU + RDNA 3.5 GPU](https://m.ithome.com/html/772696.htm)
+

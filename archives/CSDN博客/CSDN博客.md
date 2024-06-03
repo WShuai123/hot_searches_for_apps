@@ -201,3 +201,9 @@
 
 + [DexCap——斯坦福李飞飞团队泡茶机器人：更好数据收集系统的原理解析、源码剖析](https://blog.csdn.net/v_JULY_v/article/details/139410045)
 
++ [卷积网络迁移学习：实现思想与TensorFlow实践](https://blog.csdn.net/Luluucy/article/details/139362164)
+
++ [Windows系统电脑本地部署AI音乐创作工具并实现无公网IP远程使用](https://blog.csdn.net/sixpp/article/details/139417669)
+
++ [关于IDEA创建Maven一直爆红无法下载的问题](https://blog.csdn.net/2301_76926204/article/details/139395903)
+
