@@ -51,3 +51,29 @@
 
 + [leanprover-community / mathlib4](https://github.com/leanprover-community/mathlib4)
 
++ [onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant)
+
++ [StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock)
+
++ [folke / lazy.nvim](https://github.com/folke/lazy.nvim)
+
++ [adrianhajdin / podcastr](https://github.com/adrianhajdin/podcastr)
+
++ [aaedmusa / Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive)
+
++ [syncthing / syncthing](https://github.com/syncthing/syncthing)
+
++ [fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit)
+
++ [blackmatrix7 / ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+
++ [Gktwo / wuwa-mod](https://github.com/Gktwo/wuwa-mod)
+
++ [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [isaac-sim / IsaacLab](https://github.com/isaac-sim/IsaacLab)
+
++ [ocornut / imgui](https://github.com/ocornut/imgui)
+

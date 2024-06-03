@@ -59,3 +59,5 @@
 
 + [59% 公共部门的应用程序长期存在安全漏洞](https://www.freebuf.com/news/402484.html)
 
++ [专访刘奇 | 19岁成为“传奇黑客”，27岁当上电信首席专家，这位95后开了挂？](https://www.freebuf.com/articles/people/402277.html)
+
