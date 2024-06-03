@@ -171,3 +171,13 @@
 
 + [《博德之门3》首席编剧表示 游戏的成功正在为其他RPG开发商提供商业谈判的筹码](https://www.3dmgame.com/news/202406/3896414.html)
 
++ [微软全屏弹窗提醒升级Win11：不支持设备也有提醒](https://www.3dmgame.com/news/202406/3896422.html)
+
++ [《全境封锁2》继续获得支持 第六年更新细节6月11日公布](https://www.3dmgame.com/news/202406/3896420.html)
+
++ [《系统故障》Steam页面上线 第一人称视角恐怖探索](https://www.3dmgame.com/news/202406/3896419.html)
+
++ [《忍者蝙蝠侠》续作电影确认 将由神风动画制作 山寺宏一回归饰演蝙蝠侠](https://www.3dmgame.com/news/202406/3896421.html)
+
++ [复古策略探索游戏《SKALD：攻打黑修院》现已正式推出 Steam获特别好评](https://www.3dmgame.com/news/202406/3896418.html)
+

@@ -37,3 +37,5 @@
 
 + [北大人民医院成功应用苹果 Vision Pro 头显完成肺癌根治术](https://m.ithome.com/html/772640.htm)
 
++ [小米 SU7 车机现身安兔兔：骁龙 8295 加持，流畅度位于第一梯队](https://m.ithome.com/html/772688.htm)
+
