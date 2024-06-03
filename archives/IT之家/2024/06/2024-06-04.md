@@ -27,3 +27,5 @@
 
 + [华为张平安：3/5nm 肯定得不到，能解决 7nm 就非常好](https://m.ithome.com/html/772897.htm)
 
++ [来自月球的微博：嫦娥六号官微首次发文“现在我正在月球挖土”](https://m.ithome.com/html/772865.htm)
+
