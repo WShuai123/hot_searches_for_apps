@@ -221,3 +221,9 @@
 
 + [《Sinderfury》登陆Steam 魂系迷宫动作RPG](https://www.3dmgame.com/news/202406/3896440.html)
 
++ [《蜘蛛侠：平行宇宙》系列永远不会使用AI](https://www.3dmgame.com/news/202406/3896445.html)
+
++ [《宇宙机器人》世界规模是前作4倍大 没有微交易](https://www.3dmgame.com/news/202406/3896444.html)
+
++ [2024年5月Steam硬件调查报告 32GB内存成为趋势](https://www.3dmgame.com/news/202406/3896443.html)
+

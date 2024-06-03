@@ -55,3 +55,5 @@
 
 + [AMD Ryzen AI 300 系列 APU 发布：移动端最强 NPU，Zen5 CPU + RDNA 3.5 GPU](https://m.ithome.com/html/772696.htm)
 
++ [会员 618 合集更新：B站大会员年卡 88 元补贴购，夸克 9 元离线下载 100 次](https://m.ithome.com/html/772619.htm)
+

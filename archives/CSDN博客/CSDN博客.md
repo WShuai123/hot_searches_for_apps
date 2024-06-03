@@ -207,3 +207,7 @@
 
 + [关于IDEA创建Maven一直爆红无法下载的问题](https://blog.csdn.net/2301_76926204/article/details/139395903)
 
++ [【机器学习】逻辑回归：原理、应用与实践](https://blog.csdn.net/qq_44214428/article/details/139411527)
+
++ [HR青睐的数据库热门考题——事务](https://blog.csdn.net/mgzdwm/article/details/139374468)
+
