@@ -115,3 +115,9 @@
 
 + [《合金弹头：战略版》Steam页面公布配置需求](https://www.3dmgame.com/news/202406/3896454.html)
 
++ [索尼官宣400块PC转接器 挽救PSVR2颓势](https://www.3dmgame.com/news/202406/3896458.html)
+
++ [消息称NGC《星际火狐：突击》将登陆Switch 2](https://www.3dmgame.com/news/202406/3896457.html)
+
++ [谷歌员工泄露游戏机密 却被定性为无心之举](https://www.3dmgame.com/news/202406/3896456.html)
+
