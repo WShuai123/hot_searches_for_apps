@@ -25,3 +25,5 @@
 
 + [字节豆包推出桌面客户端：支持 Windows / macOS，快捷启动、AI 划词、 AI 搜索](https://m.ithome.com/html/772795.htm)
 
++ [华为张平安：3/5nm 肯定得不到，能解决 7nm 就非常好](https://m.ithome.com/html/772897.htm)
+
