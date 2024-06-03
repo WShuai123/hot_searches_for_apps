@@ -45,3 +45,5 @@
 
 + [英伟达 GeForce Rewards 将为 GTX 10 系及更新显卡玩家免费提供 3 个月 PC Game Pass 订阅](https://m.ithome.com/html/772633.htm)
 
++ [斯坦福团队被曝抄袭清华系大模型，已删库跑路，创始人回应：也算国际认可](https://m.ithome.com/html/772790.htm)
+

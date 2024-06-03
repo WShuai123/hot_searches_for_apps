@@ -197,3 +197,5 @@
 
 + [django基于大数据+Spring的新冠肺炎疫情实时监控系统设计和实现](https://blog.csdn.net/weixin_39709134/article/details/139371491)
 
++ [前端Vue小兔鲜儿电商项目实战Day07](https://blog.csdn.net/ltt159264/article/details/139383651)
+
