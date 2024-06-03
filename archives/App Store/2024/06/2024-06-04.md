@@ -201,3 +201,7 @@
 
 + [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
 
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+

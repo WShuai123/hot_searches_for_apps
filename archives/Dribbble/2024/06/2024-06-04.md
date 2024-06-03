@@ -49,3 +49,25 @@
 
 + [Create Something](https://dribbble.com/shots/)
 
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [Offical Creative Pain Pattern](https://dribbble.com/shots/)
+
++ [Phantom Islands](https://dribbble.com/shots/)
+
++ [Like-Wha?](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Seek the Positive](https://dribbble.com/shots/)
+
++ [Boots in the Park 2023](https://dribbble.com/shots/)
+
++ [Career and Job landing](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+

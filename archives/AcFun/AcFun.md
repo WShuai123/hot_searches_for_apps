@@ -61,3 +61,7 @@
 
 + [【小毛线】实锤！25号选手亲口承认60号选手更好听！！！](http://www.acfun.cn/v/ac44719697)
 
++ [德米特里·比沃尔 vs 马利克·齐纳德](http://www.acfun.cn/v/ac44720200)
+
++ [舰长专属 Sistar-Alone](http://www.acfun.cn/v/ac44725167)
+
