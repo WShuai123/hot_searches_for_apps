@@ -27,3 +27,7 @@
 
 + [3873 元 + 24 期免息：小米 14 手机 16G+512G 京东自营新低](https://m.ithome.com/html/772622.htm)
 
++ [华为花瓣剪辑欲推全新 PC 端，官方发布用户需求问卷调查](https://m.ithome.com/html/772582.htm)
+
++ [一整面都是外屏？荣耀首款“小折叠”新机曝光](https://m.ithome.com/html/772620.htm)
+

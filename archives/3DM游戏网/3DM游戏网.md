@@ -121,3 +121,9 @@
 
 + [消息称《对马岛之鬼》续作正式投入开发](https://www.3dmgame.com/news/202406/3896389.html)
 
++ [泰国武侠新作《燃烧之剑：死亡之日》上架Steam 暂不支持中文](https://www.3dmgame.com/news/202406/3896395.html)
+
++ [夏季游戏节2024本周六早上5点直播 宣传片发布](https://www.3dmgame.com/news/202406/3896394.html)
+
++ [《学园构想家》Switch版确定7月16日上市](https://www.3dmgame.com/news/202406/3896393.html)
+

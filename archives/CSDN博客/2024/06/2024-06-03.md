@@ -125,3 +125,7 @@
 
 + [网络原理———TCP/IP—网络层IP协议](https://blog.csdn.net/m0_60963435/article/details/139375894)
 
++ [Amazon云计算AWS（三）](https://blog.csdn.net/Morse_Chen/article/details/139356807)
+
++ [华为设备配置静态路由和默认路由](https://blog.csdn.net/sdszoe4922/article/details/139380649)
+
