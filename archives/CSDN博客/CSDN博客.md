@@ -101,3 +101,9 @@
 
 + [HR青睐的数据库热门考题——事务](https://blog.csdn.net/mgzdwm/article/details/139374468)
 
++ [DexCap——斯坦福李飞飞团队泡茶机器人：更好数据收集系统的原理解析、源码剖析](https://blog.csdn.net/v_JULY_v/article/details/139410045)
+
++ [中间件&模版引擎](https://blog.csdn.net/HBR666_/article/details/139398840)
+
++ [免费分享一套微信小程序图书借阅(图书管理)系统(SpringBoot后端)](https://blog.csdn.net/caoli201314/article/details/139321112)
+

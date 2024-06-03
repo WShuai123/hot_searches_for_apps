@@ -111,3 +111,7 @@
 
 + [AMD Zen5锐龙9000发布：同频性能飙升16％！](https://www.3dmgame.com/news/202406/3896450.html)
 
++ [消息称网易开发的《圣剑传说》新作登陆Switch 2](https://www.3dmgame.com/news/202406/3896455.html)
+
++ [《合金弹头：战略版》Steam页面公布配置需求](https://www.3dmgame.com/news/202406/3896454.html)
+
