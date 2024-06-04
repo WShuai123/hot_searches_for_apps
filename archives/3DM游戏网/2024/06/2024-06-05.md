@@ -101,3 +101,9 @@
 
 + [亚马逊官宣《如龙》改编真人剧集 10月25日播出](https://www.3dmgame.com/news/202406/3896496.html)
 
++ [《艾尔登法环：黄金树幽影》新增10+BOSS 100多种](https://www.3dmgame.com/news/202406/3896542.html)
+
++ [《14种扫雷变体2》6月14日发售 Steam支持试玩](https://www.3dmgame.com/news/202406/3896543.html)
+
++ [台积电：华为根本不可能追上我们](https://www.3dmgame.com/news/202406/3896544.html)
+
