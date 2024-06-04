@@ -53,3 +53,7 @@
 
 + [乘虚而入：渗透实战中的组合利用【菜花宝典】](https://www.freebuf.com/articles/web/402273.html)
 
++ [电信巨头 Frontier 疑遭到网络攻击，200 多万数据泄露](https://www.freebuf.com/news/402610.html)
+
++ [Cox 存在API 身份验证绕过漏洞，影响数百万台调制解调器](https://www.freebuf.com/news/402577.html)
+

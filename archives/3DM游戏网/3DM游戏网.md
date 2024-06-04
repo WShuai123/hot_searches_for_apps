@@ -209,3 +209,13 @@
 
 + [城市建造游戏《凯撒朋克》现已推出试玩Demo 2024年第三季度发行](https://www.3dmgame.com/news/202406/3896493.html)
 
++ [《Meowstro》Steam页面上线 MIDI音乐设计猫咪演奏](https://www.3dmgame.com/news/202406/3896504.html)
+
++ [亚洲最大机库开工建设 可同时容纳9架宽体机维修](https://www.3dmgame.com/news/202406/3896506.html)
+
++ [传闻：《最终幻想9：重制版》开发进展顺利 将登陆多平台](https://www.3dmgame.com/news/202406/3896505.html)
+
++ [P.A.WORKS原创动画《真夜中PUNCH》新宣传片公布 7月8日开播](https://www.3dmgame.com/news/202406/3896507.html)
+
++ [灭霸演员乔什·布洛林也将加入《利刃出鞘3》](https://www.3dmgame.com/news/202406/3896503.html)
+
