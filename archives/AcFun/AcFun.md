@@ -159,3 +159,7 @@
 
 + [蝴蝶步不难啊，也就腿打结](http://www.acfun.cn/v/ac44735456)
 
++ [六一不FUN假，选手分组抽签直播录播【ACFUN声唱2024】](http://www.acfun.cn/v/ac44735210)
+
++ [双马尾小巫女  白金disco//](http://www.acfun.cn/v/ac44728291)
+

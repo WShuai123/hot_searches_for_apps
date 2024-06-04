@@ -281,3 +281,5 @@
 
 + [挑战英伟达！AMD公布新款AI芯片 也要一年一更新](https://www.3dmgame.com/news/202406/3896538.html)
 
++ [地图很大！《艾尔登法环：黄金树幽影》7分钟试玩](https://www.3dmgame.com/news/202406/3896539.html)
+

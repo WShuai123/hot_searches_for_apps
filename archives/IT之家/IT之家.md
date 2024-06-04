@@ -57,3 +57,7 @@
 
 + [广汽丰田凯美瑞宣布降价 3~3.2 万元：现价 13.98 万元起，车机系统由华为合作开发](https://m.ithome.com/html/773118.htm)
 
++ [我国首次在月背展示“石头版”国旗大揭秘：玄武岩纤维织成、仅 11.3 克](https://m.ithome.com/html/773067.htm)
+
++ [曾号称“可让用户手机变身 POS 机”，华为钱包 App 下线 POS 业务](https://m.ithome.com/html/772925.htm)
+

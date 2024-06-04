@@ -215,3 +215,5 @@
 
 + [Linux 网络配置 01](https://blog.csdn.net/ibertine_P/article/details/139418967)
 
++ [移动设备上的深度学习：利用TensorFlow Lite、ML Kit和Flutter的高效开发实践【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/139452072)
+
