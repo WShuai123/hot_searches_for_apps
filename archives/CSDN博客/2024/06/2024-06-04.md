@@ -151,3 +151,17 @@
 
 + [【51单片机】智能百叶窗项目](https://blog.csdn.net/hdz_wiz_csdn/article/details/139378791)
 
++ [MySQL之查询性能优化(二)](https://blog.csdn.net/Cover_sky/article/details/139425544)
+
++ [Linux的网络配置](https://blog.csdn.net/Hai990218/article/details/139417166)
+
++ [前端科举八股文-VUE篇](https://blog.csdn.net/qq_38280242/article/details/138823536)
+
++ [Amazon云计算AWS（四）](https://blog.csdn.net/Morse_Chen/article/details/139418886)
+
++ [第一篇 逻辑门（与门、或门、非门、异或门）](https://blog.csdn.net/weixin_47841246/article/details/139419943)
+
++ [数据库与低代码开发：技术革新与应用实践](https://blog.csdn.net/dsgdauigfs/article/details/139416463)
+
++ [网络原理——HTTP/HTTPS ---- HTTPS](https://blog.csdn.net/m0_60963435/article/details/139415091)
+

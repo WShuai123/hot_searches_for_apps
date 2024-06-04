@@ -175,3 +175,15 @@
 
 + [模拟经营类奇幻游戏《魔法客栈》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202406/3896479.html)
 
++ [PS解释为何新CEO有两位：分管两个不同的业务集团](https://www.3dmgame.com/news/202406/3896492.html)
+
++ [《军团要塞2》作弊问题严重 玩家发起请愿要求V社作为](https://www.3dmgame.com/news/202406/3896488.html)
+
++ [《高达SEED》新电影版黑骑士钢普拉公开 酷炫极致10月推出](https://www.3dmgame.com/news/202406/3896491.html)
+
++ [《燕云十六声》全新截图公布 游戏玩法详细介绍](https://www.3dmgame.com/news/202406/3896490.html)
+
++ [《艾尔登法环》玩家争论龙徽护符上的图案到底是隐藏地图还是龙的形象](https://www.3dmgame.com/news/202406/3896489.html)
+
++ [《Lost Mastery》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3896487.html)
+

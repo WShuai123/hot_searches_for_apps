@@ -47,3 +47,7 @@
 
 + [用Camille工具搭建隐私合规检测平台](https://www.freebuf.com/sectool/401903.html)
 
++ [Telegram 上泄露的 3.61 亿个账户已被添加到 HIBP 中](https://www.freebuf.com/news/402579.html)
+
++ [黑客利用 API 身份验证绕过漏洞可操控数百万台 Cox 设备](https://www.freebuf.com/news/402577.html)
+
