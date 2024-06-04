@@ -51,3 +51,5 @@
 
 + [黑客利用 API 身份验证绕过漏洞可操控数百万台 Cox 设备](https://www.freebuf.com/news/402577.html)
 
++ [乘虚而入：渗透实战中的组合利用【菜花宝典】](https://www.freebuf.com/articles/web/402273.html)
+

@@ -79,3 +79,13 @@
 
 + [【歌回录像】泻药刚下飞机，人在新西兰 2024-04-10](http://www.acfun.cn/v/ac44721016)
 
++ [这就是深圳omakase吗](http://www.acfun.cn/v/ac44727788)
+
++ [17岁，梦想成为物理魔法使](http://www.acfun.cn/v/ac44730375)
+
++ [舰长专属 Red](http://www.acfun.cn/v/ac44725109)
+
++ [特厨探店 |两个人急头白脸吃牛肉是什么体验？！—北京戈拿旺巴西烤肉](http://www.acfun.cn/v/ac44707087)
+
++ [翠鸟吃鱼，一口吞下一条大活鱼](http://www.acfun.cn/v/ac44726588)
+

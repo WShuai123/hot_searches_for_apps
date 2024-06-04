@@ -165,3 +165,11 @@
 
 + [网络原理——HTTP/HTTPS ---- HTTPS](https://blog.csdn.net/m0_60963435/article/details/139415091)
 
++ [探索大模型技术及其前沿应用——TextIn文档解析技术](https://blog.csdn.net/m0_73367097/article/details/139436191)
+
++ [揭秘大数据时代的数据库存储引擎：关系型、NoSQL与NewSQL如何选择？](https://blog.csdn.net/qq_32682301/article/details/139422801)
+
++ [第一周：计算机网络概述（上）](https://blog.csdn.net/Vincent_Zhang233/article/details/139407868)
+
++ [驱动开发之设备树语法](https://blog.csdn.net/m0_46392035/article/details/139360761)
+

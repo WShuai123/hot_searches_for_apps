@@ -187,3 +187,25 @@
 
 + [《Lost Mastery》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3896487.html)
 
++ [历史一刻！英伟达市值创纪录新高：22个Intel 11个AMD](https://www.3dmgame.com/news/202406/3896502.html)
+
++ [索尼正在不支持PSN的Steam地区售卖不包含本体的《战神：诸神黄昏》豪华版游戏](https://www.3dmgame.com/news/202406/3896501.html)
+
++ [欧莱雅3D打印“类人皮肤” 未来有望真正拥有“感觉”](https://www.3dmgame.com/news/202406/3896500.html)
+
++ [《Fields of Mistria》6月5日发布试玩 小清新像素种田](https://www.3dmgame.com/news/202406/3896499.html)
+
++ [卡通B级片风格动作打僵尸游戏《热血》 现已推出试玩Demo](https://www.3dmgame.com/news/202406/3896497.html)
+
++ [《光环：无限》即将为游戏添加自定义匹配功能](https://www.3dmgame.com/news/202406/3896498.html)
+
++ [《Rusty Rabbit》剧情宣传影片 9月24日发售](https://www.3dmgame.com/news/202406/3896486.html)
+
++ [亚马逊官宣《如龙》改编真人剧集 10月25日播出](https://www.3dmgame.com/news/202406/3896496.html)
+
++ [《星露谷物语》开发者表示未来将继续为游戏更新](https://www.3dmgame.com/news/202406/3896495.html)
+
++ [嫦娥六号拍摄月背影像图公布 彩色全景拉开神秘面纱](https://www.3dmgame.com/news/202406/3896494.html)
+
++ [城市建造游戏《凯撒朋克》现已推出试玩Demo 2024年第三季度发行](https://www.3dmgame.com/news/202406/3896493.html)
+
