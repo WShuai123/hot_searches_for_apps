@@ -273,3 +273,5 @@
 
 + [《最终幻想7：重生》更新1.040补丁 提高整体游戏稳定性](https://www.3dmgame.com/news/202406/3896531.html)
 
++ [ARM放豪言 2029年Arm芯片将占50%的PC市场](https://www.3dmgame.com/news/202406/3896535.html)
+

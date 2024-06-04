@@ -53,3 +53,5 @@
 
 + [比 M1 仍提速近 50%，苹果回应 M2 iPad Air 图形芯片 10 核变 9 核：性能参数正确](https://m.ithome.com/html/772903.htm)
 
++ [IT之家公告：关于今日上午全线服务突发故障的说明](https://m.ithome.com/html/773040.htm)
+

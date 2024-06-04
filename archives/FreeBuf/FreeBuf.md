@@ -63,3 +63,5 @@
 
 + [Telegram 上泄露的 3.61 亿条记录被挂在暗网上了](https://www.freebuf.com/news/402579.html)
 
++ [SpeedyTest：一款基于纯Python的网络连接质量检测和OSINT工具](https://www.freebuf.com/sectool/402401.html)
+
