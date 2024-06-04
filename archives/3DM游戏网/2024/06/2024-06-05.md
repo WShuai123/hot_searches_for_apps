@@ -107,3 +107,7 @@
 
 + [台积电：华为根本不可能追上我们](https://www.3dmgame.com/news/202406/3896544.html)
 
++ [《Flock》7月16日正式发售 首发登陆XGP](https://www.3dmgame.com/news/202406/3896546.html)
+
++ [经典HD2DRPG《歧路旅人》将登陆PS主机平台](https://www.3dmgame.com/news/202406/3896545.html)
+
