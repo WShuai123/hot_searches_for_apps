@@ -257,3 +257,11 @@
 
 + [消息人士：《龙腾世纪：恐狼》本周或发布新消息](https://www.3dmgame.com/news/202406/3896517.html)
 
++ [国产《叛逆神魂》开启众筹 剧情向视觉系RPG](https://www.3dmgame.com/news/202406/3896530.html)
+
++ [Windows装机很难再创建本地账号！微软Win11 24H2封堵邮件绕过方案](https://www.3dmgame.com/news/202406/3896528.html)
+
++ [微星推出Claw 8 AI+掌机 配备英特尔Lunar Lake](https://www.3dmgame.com/news/202406/3896529.html)
+
++ [Steam最新一周销量榜 Steam Deck再次登顶](https://www.3dmgame.com/news/202406/3896527.html)
+

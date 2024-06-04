@@ -213,3 +213,7 @@
 
 + [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
 
++ [疯狂刷刷乐-热门精彩短剧随时看](https://itunes.apple.com/cn/app/id6475750590?mt=8)
+
++ [可颂](https://itunes.apple.com/cn/app/id6479338276?mt=8)
+
