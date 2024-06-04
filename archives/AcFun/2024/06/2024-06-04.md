@@ -149,3 +149,13 @@
 
 + [【昔呀KIKO】这粉丝怎么喜欢被骂呀！](http://www.acfun.cn/v/ac44728003)
 
++ [这才是Acer爱看的闯关节目！欢乐八点档-940](http://www.acfun.cn/v/ac44733106)
+
++ [男朋友找不到，麻烦@ 一下......(今日开心视频：1460)](http://www.acfun.cn/v/ac44734835)
+
++ [【特惠喜+1】人无法一边吐舌头一边眼睛向上看](http://www.acfun.cn/v/ac44735597)
+
++ [教你如何避坑](http://www.acfun.cn/v/ac44727954)
+
++ [蝴蝶步不难啊，也就腿打结](http://www.acfun.cn/v/ac44735456)
+

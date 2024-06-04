@@ -277,3 +277,7 @@
 
 + [传Xbox 6月发布会有第一方游戏 公布即发售](https://www.3dmgame.com/news/202406/3896536.html)
 
++ [《魔法餐作室》发售日公布 新增Switch版本](https://www.3dmgame.com/news/202406/3896537.html)
+
++ [挑战英伟达！AMD公布新款AI芯片 也要一年一更新](https://www.3dmgame.com/news/202406/3896538.html)
+
