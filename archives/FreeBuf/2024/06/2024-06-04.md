@@ -57,3 +57,9 @@
 
 + [Cox 存在API 身份验证绕过漏洞，影响数百万台调制解调器](https://www.freebuf.com/news/402577.html)
 
++ [SploitScan：一款多功能实用型安全漏洞管理平台](https://www.freebuf.com/sectool/402358.html)
+
++ [巴菲特股票暴跌99%？纽交所IT系统出现重大技术故障](https://www.freebuf.com/news/402624.html)
+
++ [Telegram 上泄露的 3.61 亿条记录被挂在暗网上了](https://www.freebuf.com/news/402579.html)
+
