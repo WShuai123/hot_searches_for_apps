@@ -151,3 +151,7 @@
 
 + [Crewting - Coffee-Break App for Slack](https://www.producthunt.com/posts/crewting-coffee-break-app-for-slack)
 
++ [Kroolo](https://www.producthunt.com/posts/kroolo)
+
++ [OAM AI](https://www.producthunt.com/posts/oam-ai)
+

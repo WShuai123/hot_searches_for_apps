@@ -39,3 +39,7 @@
 
 + [纽交所突发技术故障：巴菲特旗下公司股价暴跌 99.97%、多只美股闪崩近 100%](https://m.ithome.com/html/772904.htm)
 
++ [首次集成 16/32GB 内存、“绝对击败高通”，英特尔 Lunar Lake 笔记本芯片正式发布](https://m.ithome.com/html/772998.htm)
+
++ [预定“全球最窄边框手机”，消息称苹果 iPhone 16 Pro 将打破三星 Galaxy S24 纪录](https://m.ithome.com/html/772958.htm)
+
