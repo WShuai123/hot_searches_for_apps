@@ -131,3 +131,33 @@
 
 + [《博德之门3》官方Mod工具将于9月推出 延续游戏生命力](https://www.3dmgame.com/news/202406/3896459.html)
 
++ [《黎明杀机：龙与地下城》联动上线 新地图杀手幸存者登场](https://www.3dmgame.com/news/202406/3896478.html)
+
++ [《神秘岛》续作重置版《Riven》发售日公布 计划于6月26日推出](https://www.3dmgame.com/news/202406/3896472.html)
+
++ [今年夏日游戏节不会发布重大公告 将重点专注现有游戏](https://www.3dmgame.com/news/202406/3896473.html)
+
++ [益智游戏《Unbox the Room》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896477.html)
+
++ [整活软件《流氓软件》上架Steam平台 Demo已上线](https://www.3dmgame.com/news/202406/3896476.html)
+
++ [《铁血战士》新电影有望是艾丽·范宁主演](https://www.3dmgame.com/news/202406/3896474.html)
+
++ [英国最大游戏零售商每况愈下 停止订阅会员积分服务](https://www.3dmgame.com/news/202406/3896475.html)
+
++ [《黑神话》或将在夏日游戏节发布新预告 并开启预购](https://www.3dmgame.com/news/202406/3896471.html)
+
++ [合作恐怖游戏《Haunted Paws》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896469.html)
+
++ [传闻：《歧路旅人2》将在本月登陆Xbox和XGP](https://www.3dmgame.com/news/202406/3896466.html)
+
++ [《辐射》系列热度不减 玩家将其移植到3DS上进行体验 适配性极佳](https://www.3dmgame.com/news/202406/3896467.html)
+
++ [《流放之路2》主机版开发者日志 支持双人同屏游玩](https://www.3dmgame.com/news/202406/3896465.html)
+
++ [《HAELE 3D》登陆Steam 专业手部造型设计模拟器](https://www.3dmgame.com/news/202406/3896464.html)
+
++ [没有《GTA6》新预告！主持人公布夏季游戏节不会出现的内容](https://www.3dmgame.com/news/202406/3896470.html)
+
++ [《内容警告》售出220万份 2个月内获得880万名玩家](https://www.3dmgame.com/news/202406/3896468.html)
+

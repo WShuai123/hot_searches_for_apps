@@ -33,3 +33,5 @@
 
 + [1859 元 + 3 期免息：小米 Redmi K70 手机京东再降新低](https://m.ithome.com/html/772891.htm)
 
++ [汽车专属车联网“手机卡”亮相：买车直接预装、实名登记，无需单独开套餐](https://m.ithome.com/html/772832.htm)
+
