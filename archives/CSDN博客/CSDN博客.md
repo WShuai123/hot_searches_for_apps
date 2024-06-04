@@ -143,3 +143,11 @@
 
 + [指纹采集技术](https://blog.csdn.net/mickey2007/article/details/139295288)
 
++ [【机器学习】Qwen1.5-14B-Chat大模型训练与推理实战](https://blog.csdn.net/weixin_48007632/article/details/139422184)
+
++ [【云原生】kubernetes中secret原理详解与应用实战](https://blog.csdn.net/littlefun591/article/details/139412226)
+
++ [Java开发：Spring Boot 实战教程](https://blog.csdn.net/android157/article/details/139355902)
+
++ [【51单片机】智能百叶窗项目](https://blog.csdn.net/hdz_wiz_csdn/article/details/139378791)
+

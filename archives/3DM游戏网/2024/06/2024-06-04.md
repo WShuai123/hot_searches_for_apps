@@ -161,3 +161,17 @@
 
 + [《内容警告》售出220万份 2个月内获得880万名玩家](https://www.3dmgame.com/news/202406/3896468.html)
 
++ [《上古卷轴OL：黄金大道》现已登陆PC与Mac平台](https://www.3dmgame.com/news/202406/3896484.html)
+
++ [《十字军之王3》 DLC“权力之路”中配预告 9月24日上市](https://www.3dmgame.com/news/202406/3896480.html)
+
++ [Steam夏日游戏节活动页面上线 展示列表更新中](https://www.3dmgame.com/news/202406/3896485.html)
+
++ [《Letter Bunny》Steam页面上线 治愈系兔子邮递员](https://www.3dmgame.com/news/202406/3896483.html)
+
++ [英国周榜：《纸片马里奥》《霍格沃茨》榜首竞争激烈](https://www.3dmgame.com/news/202406/3896482.html)
+
++ [《夜蒲女子图鉴》从Steam平台下架 或是因为尺度太大](https://www.3dmgame.com/news/202406/3896481.html)
+
++ [模拟经营类奇幻游戏《魔法客栈》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202406/3896479.html)
+
