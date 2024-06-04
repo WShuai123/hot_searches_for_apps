@@ -25,3 +25,7 @@
 
 + [曾号称“可让用户手机变身 POS 机”，华为钱包 App 下线 POS 业务](https://m.ithome.com/html/772925.htm)
 
++ [哪吒汽车 CEO 张勇：哪吒 L 车型成功，周鸿祎有一半功劳](https://m.ithome.com/html/773116.htm)
+
++ [Apple TV+ 入华？消息称苹果正与中国移动磋商，为 Vision Pro 内容铺路](https://m.ithome.com/html/773139.htm)
+

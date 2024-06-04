@@ -111,3 +111,17 @@
 
 + [经典HD2DRPG《歧路旅人》将登陆PS主机平台](https://www.3dmgame.com/news/202406/3896545.html)
 
++ [《纸片马里奥》重制版赞誉宣传片公布 好评如潮](https://www.3dmgame.com/news/202406/3896553.html)
+
++ [开发者暗示《塔洛斯的法则2》DLC即将推出](https://www.3dmgame.com/news/202406/3896552.html)
+
++ [《蒸汽世界：劫掠2》13分钟加长预告片展示战斗等](https://www.3dmgame.com/news/202406/3896551.html)
+
++ [《Pax Dei》抢先体验版发行日期揭晓](https://www.3dmgame.com/news/202406/3896550.html)
+
++ [制作人不确定是否会有《英雄不再》续作](https://www.3dmgame.com/news/202406/3896549.html)
+
++ [烹饪模拟游戏《为爱烹调》年内登陆Steam和Switch](https://www.3dmgame.com/news/202406/3896548.html)
+
++ [6月14日发售《真女神转生5：复仇》公布上市宣传片](https://www.3dmgame.com/news/202406/3896547.html)
+

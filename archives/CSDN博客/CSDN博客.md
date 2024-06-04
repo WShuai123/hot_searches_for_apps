@@ -101,3 +101,33 @@
 
 + [C++ 20新特性之结构化绑定](https://blog.csdn.net/hope_wisdom/article/details/139428396)
 
++ [探索大模型技术及其前沿应用——TextIn文档解析技术](https://blog.csdn.net/m0_73367097/article/details/139436191)
+
++ [基于 Amazon EC2 快速部署 Stable Diffusion WebUI + chilloutmax 模型](https://blog.csdn.net/air__Heaven/article/details/139421143)
+
++ [pdb文件名称被修改导致pdb文件加载失败的实战排查案例分享](https://blog.csdn.net/chenlycly/article/details/139393894)
+
++ [【机器学习】机器学习与AI大数据的融合：开启智能新时代](https://blog.csdn.net/EterNity_TiMe_/article/details/139396198)
+
++ [QT 音乐播放器【二】 歌词同步+滚动+特效](https://blog.csdn.net/weixin_49065061/article/details/139410091)
+
++ [MySQL Hints：控制查询优化器的选择](https://blog.csdn.net/qq_26664043/article/details/139397366)
+
++ [为什么你的RAG不起作用？失败的主要原因和解决方案](https://blog.csdn.net/m0_46510245/article/details/139438317)
+
++ [Spring Cloud系列——使用Sentinel进行微服务保护](https://blog.csdn.net/weixin_73588491/article/details/139452685)
+
++ [都2024年了，还不用Jenkins自动化部署？](https://blog.csdn.net/NHB456789/article/details/139416585)
+
++ [【HarmonyOS】应用振动效果实现](https://blog.csdn.net/u010949451/article/details/139450935)
+
++ [项目资源管理](https://blog.csdn.net/ak2111/article/details/139373049)
+
++ [HTML、HTML5一览](https://blog.csdn.net/2202_75345049/article/details/139444322)
+
++ [MyBatis3.4全集笔记](https://blog.csdn.net/weixin_64646820/article/details/139427307)
+
++ [密码学基本概念](https://blog.csdn.net/m0_62207482/article/details/139419143)
+
++ [python数据可视化](https://blog.csdn.net/SQL__Learning/article/details/139355072)
+
