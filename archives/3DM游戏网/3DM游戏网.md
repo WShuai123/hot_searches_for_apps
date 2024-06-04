@@ -237,3 +237,23 @@
 
 + [《黑暗之魂：救赎》衍生漫画发售 女主角挑战暗黑界](https://www.3dmgame.com/news/202406/3896514.html)
 
++ [育碧公布《刺客信条：影》Cosplay指南：不用模仿肤色](https://www.3dmgame.com/news/202406/3896526.html)
+
++ [女生1年内花上万元改造工位被围观 网友热评想干到退休](https://www.3dmgame.com/news/202406/3896525.html)
+
++ [第一人称恐怖游戏《BrokenLore: LOW》Steam页面 支持中文](https://www.3dmgame.com/news/202406/3896524.html)
+
++ [马头社《Subverse》正式版将于2024年第四季度推出](https://www.3dmgame.com/news/202406/3896523.html)
+
++ [IGN前主持人：Monolith《神奇女侠》开发陷入困境](https://www.3dmgame.com/news/202406/3896522.html)
+
++ [其他游戏公司都在裁员 任天堂全球员工实现大幅增长](https://www.3dmgame.com/news/202406/3896521.html)
+
++ [苹果iPhone 15系列降价至历史新低：市场竞争加剧](https://www.3dmgame.com/news/202406/3896520.html)
+
++ [短篇恐怖游戏《Below, Rusted Gods》Steam页面 2024年发行](https://www.3dmgame.com/news/202406/3896519.html)
+
++ [《足球小将 旭日》最终第20卷发售 系列彻底完结](https://www.3dmgame.com/news/202406/3896518.html)
+
++ [消息人士：《龙腾世纪：恐狼》本周或发布新消息](https://www.3dmgame.com/news/202406/3896517.html)
+

@@ -43,3 +43,5 @@
 
 + [预定“全球最窄边框手机”，消息称苹果 iPhone 16 Pro 将打破三星 Galaxy S24 纪录](https://m.ithome.com/html/772958.htm)
 
++ [“来自月球”的微博：嫦娥六号官微首次发文“现在我正在月球挖土”](https://m.ithome.com/html/772865.htm)
+
