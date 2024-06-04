@@ -275,3 +275,5 @@
 
 + [ARM放豪言 2029年Arm芯片将占50%的PC市场](https://www.3dmgame.com/news/202406/3896535.html)
 
++ [传Xbox 6月发布会有第一方游戏 公布即发售](https://www.3dmgame.com/news/202406/3896536.html)
+
