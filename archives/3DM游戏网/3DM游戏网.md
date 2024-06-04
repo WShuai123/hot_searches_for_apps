@@ -265,3 +265,11 @@
 
 + [Steam最新一周销量榜 Steam Deck再次登顶](https://www.3dmgame.com/news/202406/3896527.html)
 
++ [小米SU7拿下北京深圳等十城销量第一 表现遥遥领先](https://www.3dmgame.com/news/202406/3896534.html)
+
++ [显卡被NV越卖越贵！英特尔CEO炮轰黄仁勋：摩尔定律不死](https://www.3dmgame.com/news/202406/3896533.html)
+
++ [《黑神话：悟空》PS5商店页可添加心愿单 8月20日上午10点发售](https://www.3dmgame.com/news/202406/3896532.html)
+
++ [《最终幻想7：重生》更新1.040补丁 提高整体游戏稳定性](https://www.3dmgame.com/news/202406/3896531.html)
+

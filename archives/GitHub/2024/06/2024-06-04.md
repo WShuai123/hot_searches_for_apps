@@ -51,3 +51,35 @@
 
 + [ocornut / imgui](https://github.com/ocornut/imgui)
 
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
++ [TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
+
++ [SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+
++ [warpstreamlabs / bento](https://github.com/warpstreamlabs/bento)
+
++ [renovatebot / renovate](https://github.com/renovatebot/renovate)
+
++ [projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei)
+
++ [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
+
