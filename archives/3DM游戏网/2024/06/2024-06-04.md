@@ -121,3 +121,13 @@
 
 + [谷歌员工泄露游戏机密 却被定性为无心之举](https://www.3dmgame.com/news/202406/3896456.html)
 
++ [马斯克的X现在正式允许出现成人内容 只要双方是自愿](https://www.3dmgame.com/news/202406/3896463.html)
+
++ [《天国：拯救2》主机版锁30帧 只有PC版支持60帧](https://www.3dmgame.com/news/202406/3896462.html)
+
++ [《正当防卫》开发商雪崩工作室裁员50人 关闭两处工作室](https://www.3dmgame.com/news/202406/3896461.html)
+
++ [《异形：夺命舰》新海报公开 被抱脸虫骑脸](https://www.3dmgame.com/news/202406/3896460.html)
+
++ [《博德之门3》官方Mod工具将于9月推出 延续游戏生命力](https://www.3dmgame.com/news/202406/3896459.html)
+
