@@ -101,3 +101,9 @@
 
 + [英伟达黄仁勋：下一波浪潮是物理AI 机器人时代已到来！](https://www.3dmgame.com/news/202406/3896595.html)
 
++ [《法外枭雄：滚石城》登陆Steam 发行商推出特惠价格](https://www.3dmgame.com/news/202406/3896647.html)
+
++ [建造生存游戏 《多重人生》免费试玩版即将推出](https://www.3dmgame.com/news/202406/3896646.html)
+
++ [《赤痕：夜之仪式》下周还将推出全新DLC](https://www.3dmgame.com/news/202406/3896645.html)
+

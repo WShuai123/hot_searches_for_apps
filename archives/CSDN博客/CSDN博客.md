@@ -105,3 +105,23 @@
 
 + [SpringCloud整合OpenFeign实现微服务间的通信](https://blog.csdn.net/m0_74749208/article/details/139453467)
 
++ [【动手学深度学习】多层感知机之暂退法研究详情](https://blog.csdn.net/m0_57532432/article/details/139427765)
+
++ [PDF批量加水印 与 去除水印实践](https://blog.csdn.net/as604049322/article/details/139483535)
+
++ [云计算中网络虚拟化的核心组件——NFV、NFVO、VIM与VNF](https://blog.csdn.net/m0_71660867/article/details/139471130)
+
++ [【Linux】信号](https://blog.csdn.net/2301_77868664/article/details/139395271)
+
++ [ARM的工作模式](https://blog.csdn.net/a1547998353/article/details/139479625)
+
++ [详解MyBatis（三）](https://blog.csdn.net/Romised/article/details/139439543)
+
++ [Vite + Vue 3 前端项目实战](https://blog.csdn.net/ZSZ1805355272/article/details/139438381)
+
++ [CCIG 2024：大模型技术及其前沿应用论坛深度解析](https://blog.csdn.net/weixin_36755535/article/details/139454339)
+
++ [iCloud如何被高效利用？](https://blog.csdn.net/Direct_Yang/article/details/139453750)
+
++ [AB测试实战](https://blog.csdn.net/qq_64685283/article/details/139471584)
+
