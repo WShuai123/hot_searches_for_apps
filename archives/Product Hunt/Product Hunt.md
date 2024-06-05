@@ -137,3 +137,7 @@
 
 + [Steer](https://www.producthunt.com/posts/steer-6)
 
++ [Dailycrowds](https://www.producthunt.com/posts/dailycrowds)
+
++ [Taloflow 2.0](https://www.producthunt.com/posts/taloflow-2-0)
+

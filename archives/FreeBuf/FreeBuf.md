@@ -61,3 +61,5 @@
 
 + [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
 
++ [TikTok 零日漏洞被利用，可一键劫持高级账户](https://www.freebuf.com/news/402783.html)
+

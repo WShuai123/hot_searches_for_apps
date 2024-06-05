@@ -47,3 +47,9 @@
 
 + [小米机器人公司正式迁入北京亦庄小米汽车工厂](https://m.ithome.com/html/773144.htm)
 
++ [暴雪国服战网重新开放登录，玩家交易数据确认保留](https://m.ithome.com/html/773263.htm)
+
++ [宝马 1 系迎来中期改款：新外观更运动，取消柴油版及手动变速箱](https://m.ithome.com/html/773157.htm)
+
++ [屏幕黑边 1.15mm“全球最窄”，苹果 iPhone 16 Pro Max 玻璃盖板数据首曝](https://m.ithome.com/html/773212.htm)
+
