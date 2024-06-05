@@ -165,3 +165,9 @@
 
 + [【人工智能】第四部分：ChatGPT的技术实现](https://blog.csdn.net/double222222/article/details/139442454)
 
++ [使用Ollama+OpenWebUI本地部署Gemma谷歌AI开放大模型完整指南](https://blog.csdn.net/jxjdhdnd/article/details/139429610)
+
++ [【微信小程序开发】小程序中的上滑加载更多，下拉刷新是如何实现的？](https://blog.csdn.net/littlefun591/article/details/139429926)
+
++ [linux配置IP、子网掩码、网关](https://blog.csdn.net/weixin_55946455/article/details/139438263)
+

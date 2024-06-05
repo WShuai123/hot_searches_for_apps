@@ -55,3 +55,7 @@
 
 + [PostgreSQL(ArteryBase3.6.2)数据库等级保护测评指南](https://www.freebuf.com/articles/database/402323.html)
 
++ [LeakSearch：针对网络公开凭证的安全扫描与检测工具](https://www.freebuf.com/sectool/402611.html)
+
++ [保护关键业务资产的四个步骤](https://www.freebuf.com/articles/402701.html)
+

@@ -211,3 +211,13 @@
 
 + [索尼修改PS5主机零售包装 移除“支持8K”标识](https://www.3dmgame.com/news/202406/3896596.html)
 
++ [“黄金树幽影”中的光柱“米凯拉的脚步”将是控制《艾尔登法环》DLC难度的关键](https://www.3dmgame.com/news/202406/3896597.html)
+
++ [《方舟：生存飞升》新DLC发布 追加新地图火焰猫科生物](https://www.3dmgame.com/news/202406/3896598.html)
+
++ [《原神》拾枝杂谈-「克洛琳德：逐影而猎」](https://www.3dmgame.com/news/202406/3896599.html)
+
++ [本周Fami通游戏评分出炉 《真女神转生5：复仇》36分白金殿堂](https://www.3dmgame.com/news/202406/3896600.html)
+
++ [暴雪国服战网正式重启：玩家数据保留 回归消息明天公布](https://www.3dmgame.com/news/202406/3896601.html)
+
