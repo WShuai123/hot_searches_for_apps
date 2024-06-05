@@ -57,3 +57,7 @@
 
 + [国产大飞机 C919 加“地沟油”首飞，我国生物航空燃料技术实现新突破](https://m.ithome.com/html/773271.htm)
 
++ [理想 L9 出事故司机质疑 LCC，产品经理回应车祸前驾驶员已手动接管](https://m.ithome.com/html/773311.htm)
+
++ [联发科宣布加入 Arm 全面设计](https://m.ithome.com/html/773186.htm)
+

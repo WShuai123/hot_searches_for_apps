@@ -299,3 +299,5 @@
 
 + [《星球大战：侍者》IGN评分6分 整体氛围不对劲](https://www.3dmgame.com/news/202406/3896637.html)
 
++ [著名推特主：PS5《艾尔登法环》DLC大小16.5G](https://www.3dmgame.com/news/202406/3896641.html)
+

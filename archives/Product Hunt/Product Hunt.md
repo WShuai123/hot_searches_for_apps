@@ -147,3 +147,5 @@
 
 + [Penal](https://www.producthunt.com/posts/penal)
 
++ [Snowflake Native Amplitude](https://www.producthunt.com/posts/snowflake-native-amplitude)
+
