@@ -53,3 +53,7 @@
 
 + [屏幕黑边 1.15mm“全球最窄”，苹果 iPhone 16 Pro Max 玻璃盖板数据首曝](https://m.ithome.com/html/773212.htm)
 
++ [剑指比亚迪等中国品牌：2024 款大众 ID.3 提供 3 款配置车型，价格下探至 3.69 万欧元](https://m.ithome.com/html/773265.htm)
+
++ [国产大飞机 C919 加“地沟油”首飞，我国生物航空燃料技术实现新突破](https://m.ithome.com/html/773271.htm)
+
