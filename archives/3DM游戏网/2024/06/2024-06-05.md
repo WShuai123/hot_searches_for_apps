@@ -135,3 +135,25 @@
 
 + [《艾尔登法环：黄金树幽影》新截图 DLC时长30-40小时](https://www.3dmgame.com/news/202406/3896554.html)
 
++ [知名恐怖制片公司布伦屋或将在夏日游戏节上公布首款新游戏](https://www.3dmgame.com/news/202406/3896569.html)
+
++ [《冥舞之约》Steam试玩发布 节奏迷宫探索](https://www.3dmgame.com/news/202406/3896568.html)
+
++ [《堕落之主》开发商聘前索尼腾讯高管监督项目开发](https://www.3dmgame.com/news/202406/3896567.html)
+
++ [策略射击游戏《Wild Bastards》将于9月12日发售](https://www.3dmgame.com/news/202406/3896566.html)
+
++ [电影改编恐怖对战游戏《外太空杀人小丑》现已正式推出 Steam获多半好评](https://www.3dmgame.com/news/202406/3896565.html)
+
++ [坤哥：《龙珠：电光火石0》终极版售价110美元](https://www.3dmgame.com/news/202406/3896564.html)
+
++ [冒险/室内设计游戏《Cozy Dungeons》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896563.html)
+
++ [《使命召唤》或亮相电竞世界杯 奖金池近300万美元](https://www.3dmgame.com/news/202406/3896562.html)
+
++ [《杀手3》VR版将独占登录Meta Quest 3平台 宣传预告放出](https://www.3dmgame.com/news/202406/3896561.html)
+
++ [《黎明杀机》开发商今年再次裁员 这次高达95人](https://www.3dmgame.com/news/202406/3896560.html)
+
++ [《沙行者》序章免费发布 复古风策略RPG新游](https://www.3dmgame.com/news/202406/3896559.html)
+
