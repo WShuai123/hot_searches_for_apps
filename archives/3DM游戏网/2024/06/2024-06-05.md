@@ -291,3 +291,11 @@
 
 + [小米机器人公司迁入小米汽车工厂：已研发出铁大铁蛋等](https://www.3dmgame.com/news/202406/3896634.html)
 
++ [《人皮客栈》将改编成电视剧 电影版编剧回归](https://www.3dmgame.com/news/202406/3896639.html)
+
++ [《命运2：终焉之形》上线后 Steam同时在线超31万](https://www.3dmgame.com/news/202406/3896640.html)
+
++ [爆料称《最后的生还者2》PC版早已开发完毕 至今已超半年](https://www.3dmgame.com/news/202406/3896638.html)
+
++ [《星球大战：侍者》IGN评分6分 整体氛围不对劲](https://www.3dmgame.com/news/202406/3896637.html)
+
