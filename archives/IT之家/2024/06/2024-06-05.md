@@ -29,3 +29,7 @@
 
 + [Apple TV+ 入华？消息称苹果正与中国移动磋商，为 Vision Pro 内容铺路](https://m.ithome.com/html/773139.htm)
 
++ [日产停止研发燃油发动机：我们的未来是电动汽车](https://m.ithome.com/html/773026.htm)
+
++ [消息称小米 Redmi K80 Pro 手机采用“50MP 3.x 直立长焦”方案，搭载 2K 纯直屏](https://m.ithome.com/html/772949.htm)
+

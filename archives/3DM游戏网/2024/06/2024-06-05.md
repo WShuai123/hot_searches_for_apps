@@ -125,3 +125,13 @@
 
 + [6月14日发售《真女神转生5：复仇》公布上市宣传片](https://www.3dmgame.com/news/202406/3896547.html)
 
++ [宫崎英高：《艾尔登法环》DLC地图非常大 玩家会再次惊奇](https://www.3dmgame.com/news/202406/3896558.html)
+
++ [《艾尔登法环：黄金树幽影》IGN日本前瞻 11分钟实机](https://www.3dmgame.com/news/202406/3896557.html)
+
++ [科幻恐怖电影《异形：夺命舰》新预告 与异形狭路相逢](https://www.3dmgame.com/news/202406/3896556.html)
+
++ [育碧称《波斯王子：时之沙》重制版开发顺利 值得期待！](https://www.3dmgame.com/news/202406/3896555.html)
+
++ [《艾尔登法环：黄金树幽影》新截图 DLC时长30-40小时](https://www.3dmgame.com/news/202406/3896554.html)
+

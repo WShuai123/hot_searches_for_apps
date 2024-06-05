@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 普华永道海量内部文件曝光；英国BBC员工数据泄露](https://www.freebuf.com/news/402336.html)
 
++ [FreeBuf早报 | 纽交所IT系统出现重大技术故障；微软Copilot+新功能存在严重安全隐患](https://www.freebuf.com/news/402665.html)
+
++ [大模型供应链安全 | 加载数据集或模型可能就中毒](https://www.freebuf.com/articles/web/402217.html)
+

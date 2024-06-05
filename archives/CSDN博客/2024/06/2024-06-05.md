@@ -131,3 +131,9 @@
 
 + [python数据可视化](https://blog.csdn.net/SQL__Learning/article/details/139355072)
 
++ [使用wheelnav.js构建酷炫的动态导航菜单](https://blog.csdn.net/yelangkingwuzuhu/article/details/139452569)
+
++ [怎么用微信小程序实现远程控制空调](https://blog.csdn.net/tyanzhiqi/article/details/139437594)
+
++ [性能测试学习-基本使用-元件组件介绍(二）](https://blog.csdn.net/danchejikafo/article/details/139279661)
+
