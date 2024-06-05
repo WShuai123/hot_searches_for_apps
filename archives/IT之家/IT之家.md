@@ -43,3 +43,7 @@
 
 + [日本政府突击检查雅马哈发动机总部，车辆性能测试存在造假行为](https://m.ithome.com/html/773205.htm)
 
++ [华为全能充新品充电器入网：三口设计、单口最大 100W](https://m.ithome.com/html/773109.htm)
+
++ [小米机器人公司正式迁入北京亦庄小米汽车工厂](https://m.ithome.com/html/773144.htm)
+

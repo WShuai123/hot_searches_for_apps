@@ -221,3 +221,23 @@
 
 + [暴雪国服战网正式重启：玩家数据保留 回归消息明天公布](https://www.3dmgame.com/news/202406/3896601.html)
 
++ [夏日游戏节索尼还有新作？多家媒体已预约体验](https://www.3dmgame.com/news/202406/3896610.html)
+
++ [《飙酷车神：轰鸣盛典》第4赛季预览公布 大轮车和跳跳车7月3日登场](https://www.3dmgame.com/news/202406/3896611.html)
+
++ [《命运2：终焉之形》全球发布](https://www.3dmgame.com/news/202406/3896609.html)
+
++ [KK官方对战平台 怀旧浪潮来袭，共赴RPG经典地图梦幻之旅！](https://www.3dmgame.com/news/202406/3896608.html)
+
++ [像素风动作平台游戏《Pipsqueak!》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202406/3896607.html)
+
++ [3DS模拟器Folium收费登陆苹果商店 任天堂暂未回应](https://www.3dmgame.com/news/202406/3896606.html)
+
++ [《黑帝斯2》抢先体验2号补丁上线 游戏平衡性大改动](https://www.3dmgame.com/news/202406/3896605.html)
+
++ [喜剧电影《摇滚校园》导演和主演正在呼吁拍摄续集](https://www.3dmgame.com/news/202406/3896604.html)
+
++ [《圣剑传说Visions of Mana》PS4版发布将延期](https://www.3dmgame.com/news/202406/3896603.html)
+
++ [战略游戏《海盗：加勒比海战》预告 年内发售](https://www.3dmgame.com/news/202406/3896602.html)
+

@@ -129,3 +129,11 @@
 
 + [OrgaNice](https://www.producthunt.com/posts/organice)
 
++ [Fliki](https://www.producthunt.com/posts/fliki-2)
+
++ [Mokibo Fusion Keyboard 2.0](https://www.producthunt.com/posts/mokibo-fusion-keyboard-2-0)
+
++ [BiRead](https://www.producthunt.com/posts/biread)
+
++ [Steer](https://www.producthunt.com/posts/steer-6)
+
