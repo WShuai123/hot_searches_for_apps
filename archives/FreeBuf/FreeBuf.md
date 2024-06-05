@@ -53,3 +53,5 @@
 
 + [GDPR罚单开到爽，这家公司贡献了大头](https://www.freebuf.com/news/402700.html)
 
++ [PostgreSQL(ArteryBase3.6.2)数据库等级保护测评指南](https://www.freebuf.com/articles/database/402323.html)
+
