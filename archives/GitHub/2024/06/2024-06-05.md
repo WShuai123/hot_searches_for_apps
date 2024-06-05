@@ -51,3 +51,33 @@
 
 + [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
 
++ [LadybirdWebBrowser / ladybird](https://github.com/LadybirdWebBrowser/ladybird)
+
++ [state-spaces / mamba](https://github.com/state-spaces/mamba)
+
++ [6drf21e / ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+
++ [TheRealJoelmatic / RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
+
++ [oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+
++ [Gktwo / wuwa-mod](https://github.com/Gktwo/wuwa-mod)
+
++ [eosphoros-ai / DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
+
++ [jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+
++ [Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt)
+
++ [nnanhuang / S3Gaussian](https://github.com/nnanhuang/S3Gaussian)
+
