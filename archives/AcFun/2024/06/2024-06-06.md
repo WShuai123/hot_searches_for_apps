@@ -65,3 +65,7 @@
 
 + [【猪肝来也】 『 All of Me 』cover by John Legend](http://www.acfun.cn/v/ac44745322)
 
++ [学习，是个矛盾的主题](http://www.acfun.cn/v/ac44745759)
+
++ [【黄旭东】祝2024考生高考失利](http://www.acfun.cn/v/ac44744898)
+
