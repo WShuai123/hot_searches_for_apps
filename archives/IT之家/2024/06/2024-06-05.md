@@ -37,3 +37,5 @@
 
 + [让钢化膜厂商头疼，消息称苹果 iPhone 16 Pro Max 屏幕黑边 1.153 毫米](https://m.ithome.com/html/773168.htm)
 
++ [李想也吃“后悔药”？消息称理想汽车正召回部分关键岗位被裁员工](https://m.ithome.com/html/773179.htm)
+

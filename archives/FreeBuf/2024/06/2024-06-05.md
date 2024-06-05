@@ -49,3 +49,7 @@
 
 + [渗透测试 | 看我如何还原黑客真实通信](https://www.freebuf.com/articles/endpoint/402469.html)
 
++ [新型 V3B 网络钓鱼工具包曝光，曾针对 54 家欧洲银行发起攻击](https://www.freebuf.com/news/402697.html)
+
++ [GDPR罚单开到爽，这家公司贡献了大头](https://www.freebuf.com/news/402700.html)
+
