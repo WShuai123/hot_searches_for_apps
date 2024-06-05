@@ -143,3 +143,15 @@
 
 + [如何用结构化写好GPT的Prompt提示词](https://blog.csdn.net/a807862470a/article/details/139439080)
 
++ [SpringBootWeb 篇-深入了解 Bean 的管理与 SpringBoot 起步依赖、SpringBoot 自动配置原理（源码追踪：jar 包配置类如何加载到 IOC 容器中？）](https://blog.csdn.net/Tingfeng__/article/details/139443536)
+
++ [TCP 建链（三次握手）和断链（四次握手）](https://blog.csdn.net/Silent_Paladin/article/details/139426088)
+
++ [“GPT-4o深度解析：技术演进、能力评估与个人体验综述“](https://blog.csdn.net/u014727709/article/details/139458009)
+
++ [Qt6 播放音视频](https://blog.csdn.net/m0_74091159/article/details/139447473)
+
++ [SpringCloud整合OpenFeign实现微服务间的通信](https://blog.csdn.net/m0_74749208/article/details/139453467)
+
++ [【C#】延时关闭电脑、取消关闭电脑](https://blog.csdn.net/wangnaisheng/article/details/139178021)
+

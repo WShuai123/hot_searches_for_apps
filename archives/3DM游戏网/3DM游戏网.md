@@ -157,3 +157,21 @@
 
 + [《沙行者》序章免费发布 复古风策略RPG新游](https://www.3dmgame.com/news/202406/3896559.html)
 
++ [卡牌爬塔游戏《Pyrene》现已在Steam平台推出试玩Demo 2024年年内推出](https://www.3dmgame.com/news/202406/3896577.html)
+
++ [《耶稣模拟器》Steam抢先体验版推出 在罪恶都市拯救人类](https://www.3dmgame.com/news/202406/3896578.html)
+
++ [C罗投资四千万美元 免费足球游戏《UFL》即将开启Beta测试](https://www.3dmgame.com/news/202406/3896575.html)
+
++ [key社25周年网站上线 新游策划活动6月14日公开](https://www.3dmgame.com/news/202406/3896576.html)
+
++ [《超级冲锋：开箱》登陆Xbox四天 销量达4万份](https://www.3dmgame.com/news/202406/3896574.html)
+
++ [合作恐怖游戏《Haunted Paws》公布 扮演狗狗拯救人类](https://www.3dmgame.com/news/202406/3896573.html)
+
++ [《Ultrakill》开发者：玩家没钱买我的游戏可以玩盗版 用推荐来支持](https://www.3dmgame.com/news/202406/3896572.html)
+
++ [宜家正在为《罗布乐思》上的虚拟店招聘员工 会支付薪酬](https://www.3dmgame.com/news/202406/3896571.html)
+
++ [皮克斯新片《头脑特工队2》终极预告公布 6月21日上映](https://www.3dmgame.com/news/202406/3896570.html)
+
