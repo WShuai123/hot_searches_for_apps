@@ -61,3 +61,7 @@
 
 + [快 乐 小 呼 咪](http://www.acfun.cn/v/ac44735380)
 
++ [【东方】怪物【蕾米莉亚 kaoruVer. MMD】](http://www.acfun.cn/v/ac44735242)
+
++ [【猪肝来也】 『 All of Me 』cover by John Legend](http://www.acfun.cn/v/ac44745322)
+

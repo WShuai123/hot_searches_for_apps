@@ -49,3 +49,27 @@
 
 + [Hero illustrations Future Tech](https://dribbble.com/shots/)
 
++ [Out for a rip ????](https://dribbble.com/shots/)
+
++ [Spirit of the forest](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Austin FC Matchday Posters](https://dribbble.com/shots/)
+
++ [untitled (Madder Spirit)](https://dribbble.com/shots/)
+
++ [Jake's Details](https://dribbble.com/shots/)
+
++ [Swedish Columbia Bus](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Doodling with music lyrics](https://dribbble.com/shots/)
+
