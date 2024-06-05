@@ -209,3 +209,5 @@
 
 + [英伟达黄仁勋：下一波浪潮是物理AI 机器人时代已到来！](https://www.3dmgame.com/news/202406/3896595.html)
 
++ [索尼修改PS5主机零售包装 移除“支持8K”标识](https://www.3dmgame.com/news/202406/3896596.html)
+
