@@ -197,3 +197,5 @@
 
 + [传闻：索尼将在夏日游戏节上公布《乐高地平线大冒险》](https://www.3dmgame.com/news/202406/3896688.html)
 
++ [《处罚》Steam页面上线 忍者主题动作新游](https://www.3dmgame.com/news/202406/3896693.html)
+

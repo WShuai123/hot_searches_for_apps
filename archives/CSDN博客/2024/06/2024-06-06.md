@@ -167,3 +167,11 @@
 
 + [【网络编程开发】4.socket套接字及TCP的实现框架 5.TCP多进程并发](https://blog.csdn.net/2201_75563094/article/details/139481954)
 
++ [图神经网络实战（12）——图同构网络(Graph Isomorphism Network, GIN)](https://blog.csdn.net/LOVEmy134611/article/details/139487511)
+
++ [03--nginx架构实战](https://blog.csdn.net/qq_43387908/article/details/139361988)
+
++ [爬山算法的详细介绍](https://blog.csdn.net/2301_79262050/article/details/139469122)
+
++ [生命在于学习——Python人工智能原理（3.2）](https://blog.csdn.net/qq_15131581/article/details/139390654)
+

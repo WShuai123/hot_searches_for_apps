@@ -39,3 +39,9 @@
 
 + [苹果 iOS 18 控制中心被曝将迎 7 年来最大更新，iPhone 用户可定制布局](https://m.ithome.com/html/773426.htm)
 
++ [《魔兽世界》官宣 6 月 11 日开启国服删档技术测试，不限号免费玩](https://m.ithome.com/html/773460.htm)
+
++ [全国首个！长江大学 800 间寝室百兆网升级全光纤万兆，中国移动 + 华为打造](https://m.ithome.com/html/773440.htm)
+
++ [鸿蒙智行轿跑 SUV 新车预告图曝光，或对标特斯拉 Model X](https://m.ithome.com/html/773452.htm)
+
