@@ -265,3 +265,9 @@
 
 + [《Concord》英文PS商店透露：未来更新内容全免费](https://www.3dmgame.com/news/202406/3896722.html)
 
++ [黄仁勋在美女胸前签名引热议 网友：和英伟达股票一样疯狂](https://www.3dmgame.com/news/202406/3896729.html)
+
++ [中国版NV！摩尔线程GPU千卡集群化解AI算力国产化难题](https://www.3dmgame.com/news/202406/3896727.html)
+
++ [《命运2：终焉之形》火爆上线！多款经典DLC限时特惠同步来袭！](https://www.3dmgame.com/news/202406/3896728.html)
+

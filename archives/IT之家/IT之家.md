@@ -51,3 +51,5 @@
 
 + [边框预定“全球最窄”，苹果 iPhone 16 Pro Max 尺寸曝光：四边等宽](https://m.ithome.com/html/773441.htm)
 
++ [苹果承诺为 iPhone 15 系列提供 5 年安全更新，实际情况更乐观](https://m.ithome.com/html/773431.htm)
+

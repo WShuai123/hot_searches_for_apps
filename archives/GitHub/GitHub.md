@@ -51,3 +51,15 @@
 
 + [VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
 
++ [duckdb / duckdb](https://github.com/duckdb/duckdb)
+
++ [directus / directus](https://github.com/directus/directus)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [openssl / openssl](https://github.com/openssl/openssl)
+
