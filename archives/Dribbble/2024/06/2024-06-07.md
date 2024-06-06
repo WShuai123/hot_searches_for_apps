@@ -49,3 +49,23 @@
 
 + [Brooklyn Nets Poster](https://dribbble.com/shots/)
 
++ [Luncheonette Food Packaging Branding](https://dribbble.com/shots/)
+
++ [Birdie Houses](https://dribbble.com/shots/)
+
++ [Summer Slasher Sale - G.A.R.M. Co.](https://dribbble.com/shots/)
+
++ [Hero illustrations Future Tech](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [Snake Rum](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Women's Basketball Merch Concept](https://dribbble.com/shots/)
+
