@@ -69,3 +69,19 @@
 
 + [Women's Basketball Merch Concept](https://dribbble.com/shots/)
 
++ [Cat Robot](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Hortulus Bier](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Traveller](https://dribbble.com/shots/)
+
++ [Hats](https://dribbble.com/shots/)
+
++ [This weeks draggin' ????](https://dribbble.com/shots/)
+
++ [Lighthouse](https://dribbble.com/shots/)
+

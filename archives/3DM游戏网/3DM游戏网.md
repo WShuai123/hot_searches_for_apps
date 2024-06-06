@@ -101,3 +101,5 @@
 
 + [十周年！PC游戏展6月10日举办 超过70款游戏参展](https://www.3dmgame.com/news/202406/3896690.html)
 
++ [《龙腾世纪：恐狼》更名 6月11日放出预告](https://www.3dmgame.com/news/202406/3896739.html)
+
