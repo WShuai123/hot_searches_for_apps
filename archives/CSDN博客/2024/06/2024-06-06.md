@@ -157,3 +157,13 @@
 
 + [【Python数据类型的奥秘】：构建程序基石，驾驭信息之海](https://blog.csdn.net/dh45498/article/details/139482837)
 
++ [【栈】736. Lisp 语法解析](https://blog.csdn.net/he_zhidan/article/details/139172905)
+
++ [【微信小程序开发】小程序更新、页面生命周期、用户信息获取应用实战](https://blog.csdn.net/littlefun591/article/details/139478272)
+
++ [云原生时代：从 Jenkins 到 Argo Workflows，构建高效 CI Pipeline](https://blog.csdn.net/alisystemsoftware/article/details/139479449)
+
++ [计算机网络ppt和课后题总结（上）](https://blog.csdn.net/shaozheng0503/article/details/139451784)
+
++ [【网络编程开发】4.socket套接字及TCP的实现框架 5.TCP多进程并发](https://blog.csdn.net/2201_75563094/article/details/139481954)
+

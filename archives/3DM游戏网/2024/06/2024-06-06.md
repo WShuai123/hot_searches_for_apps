@@ -185,3 +185,15 @@
 
 + [类“冲就完事”游戏《泳池清洁模拟器》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3896683.html)
 
++ [379元的4G功能机遭疯抢！诺基亚3210今日再次开售](https://www.3dmgame.com/news/202406/3896692.html)
+
++ [富士康英伟达建立尖端计算中心 电动汽车等领域](https://www.3dmgame.com/news/202406/3896687.html)
+
++ [ESA研究发现 有近三分之二的美国人玩电子游戏](https://www.3dmgame.com/news/202406/3896691.html)
+
++ [知名舅舅党曝料 Xbox 6月发布会或公布新型掌机](https://www.3dmgame.com/news/202406/3896689.html)
+
++ [十周年！PC游戏展6月10日举办 超过70款游戏参展](https://www.3dmgame.com/news/202406/3896690.html)
+
++ [传闻：索尼将在夏日游戏节上公布《乐高地平线大冒险》](https://www.3dmgame.com/news/202406/3896688.html)
+
