@@ -107,3 +107,5 @@
 
 + [ClosingDealz](https://www.producthunt.com/posts/closingdealz)
 
++ [Clixie AI](https://www.producthunt.com/posts/clixie-ai)
+

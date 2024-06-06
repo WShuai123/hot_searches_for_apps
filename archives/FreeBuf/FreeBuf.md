@@ -41,3 +41,11 @@
 
 + [FreeBuf早报 | 网络僵尸病毒迎“末日倒计时”；暗网现大量欧洲政客信息](https://www.freebuf.com/news/402535.html)
 
++ [企业安全建设 | 安全度量](https://www.freebuf.com/articles/es/389168.html)
+
++ [技术转销售，你成功了么？](https://www.freebuf.com/articles/neopoints/402633.html)
+
++ [Ticketmaster 5.6 亿用户信息泄露案结果出炉，Snowflake 或是泄密源头](https://www.freebuf.com/news/402774.html)
+
++ [FreeBuf早报 | 澳大利亚矿业公司披露数据泄露事件；谷歌意外泄露内部文档](https://www.freebuf.com/news/402788.html)
+

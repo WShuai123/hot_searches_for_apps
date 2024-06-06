@@ -117,3 +117,35 @@
 
 + [城市建造游戏《Dystopika》发布游戏特色预告](https://www.3dmgame.com/news/202406/3896648.html)
 
++ [像素风模拟经营《Chef RPG》9月12日发售 暂不支持中文](https://www.3dmgame.com/news/202406/3896661.html)
+
++ [《无畏契约》因“日程冲突”或将不参加电竞世界杯](https://www.3dmgame.com/news/202406/3896662.html)
+
++ [《漫威争锋》Steam愿望单数量突破百万 封测7月推出](https://www.3dmgame.com/news/202406/3896663.html)
+
++ [《巫师3》HD重制Mod次世代版新视频 今年秋季正式发布](https://www.3dmgame.com/news/202406/3896664.html)
+
++ [开放世界生存游戏《崩溃大陆2》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896665.html)
+
++ [在《Concord》大失所望后 粉丝呼吁SIE复活《抵抗》和《杀戮地带》系列](https://www.3dmgame.com/news/202406/3896666.html)
+
++ [生死一线×动作RPG《夜街酷斗》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3896667.html)
+
++ [《８番出口VR》7月12日发售 更具临场感的惊悚解谜](https://www.3dmgame.com/news/202406/3896668.html)
+
++ [经典日恐名作《钟楼复刻版》Steam上线 今年登陆全平台](https://www.3dmgame.com/news/202406/3896656.html)
+
++ [《GTA6》对主机市场很重要 让玩家有购买新机的欲望](https://www.3dmgame.com/news/202406/3896655.html)
+
++ [《天国：拯救2》将在夏季游戏节上公布新预告](https://www.3dmgame.com/news/202406/3896657.html)
+
++ [索尼多人科幻射击游戏《Concord》售价曝光 标准版308港币](https://www.3dmgame.com/news/202406/3896658.html)
+
++ [《Concord》PC端将强制要求绑定PSN账号](https://www.3dmgame.com/news/202406/3896660.html)
+
++ [《歧路旅人》登陆PS 《歧路旅人2》登陆Xbox加入XGP](https://www.3dmgame.com/news/202406/3896659.html)
+
++ [恐怖游戏爱好者福音 夏季游戏节上将展示多个恐怖游戏](https://www.3dmgame.com/news/202406/3896653.html)
+
++ [超越苹果！英伟达市值首次超过3万亿美元](https://www.3dmgame.com/news/202406/3896654.html)
+

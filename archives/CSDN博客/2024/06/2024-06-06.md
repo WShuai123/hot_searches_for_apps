@@ -135,3 +135,5 @@
 
 + [LangChain学习记录（四）Agent](https://blog.csdn.net/qq_43384376/article/details/139465753)
 
++ [linux配置IP、子网掩码、网关](https://blog.csdn.net/weixin_55946455/article/details/139438263)
+
