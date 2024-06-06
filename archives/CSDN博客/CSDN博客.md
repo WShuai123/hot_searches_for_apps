@@ -137,3 +137,13 @@
 
 + [linux配置IP、子网掩码、网关](https://blog.csdn.net/weixin_55946455/article/details/139438263)
 
++ [Web安全：Web体系架构存在的安全问题和解决方案](https://blog.csdn.net/wangyuxiang946/article/details/138160675)
+
++ [spring boot3登录开发-2(3邮件验证码接口实现)](https://blog.csdn.net/qq_62262918/article/details/139485591)
+
++ [软件三班20240605](https://blog.csdn.net/2301_80189168/article/details/139458282)
+
++ [【Linux】信号（一）](https://blog.csdn.net/2301_78636079/article/details/139454820)
+
++ [Windows 宿主机访问 VirtualBox 虚拟机中创建的 docker 容器中的 mysql8.0 的数据](https://blog.csdn.net/longchanghua_enshi/article/details/139450135)
+

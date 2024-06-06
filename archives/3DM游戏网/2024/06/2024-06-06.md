@@ -149,3 +149,31 @@
 
 + [超越苹果！英伟达市值首次超过3万亿美元](https://www.3dmgame.com/news/202406/3896654.html)
 
++ [前《全境封锁》开发商高管成立新巴塞罗那工作室](https://www.3dmgame.com/news/202406/3896681.html)
+
++ [史上最贵手办诞生 1979年版《星战》波巴·费特拍出52万美元](https://www.3dmgame.com/news/202406/3896682.html)
+
++ [电影《寂静之地：入侵日》定档6月28日 同步北美](https://www.3dmgame.com/news/202406/3896680.html)
+
++ [《看门狗》改编电影演员确认 汤姆·布莱斯和苏菲·王尔德加盟](https://www.3dmgame.com/news/202406/3896679.html)
+
++ [《刺客信条：影》新概念艺术图 游戏场景壮观绝美](https://www.3dmgame.com/news/202406/3896678.html)
+
++ [卡牌游戏《The Bazaar》预告 10月开启封测](https://www.3dmgame.com/news/202406/3896677.html)
+
++ [《铲子骑士》10周年庆典直播6月14日开启 将有惊喜内容公布](https://www.3dmgame.com/news/202406/3896676.html)
+
++ [《反恐精英》超稀有皮肤被以超100万美元售出](https://www.3dmgame.com/news/202406/3896674.html)
+
++ [《阿卡迪亚的陨落2》众筹半天目标达成 2025年登陆多平台](https://www.3dmgame.com/news/202406/3896673.html)
+
++ [《魔兽世界》国服回归技术测试宣布定档：6月11日](https://www.3dmgame.com/news/202406/3896672.html)
+
++ [中文互联网梗大杂烩恶搞游戏《超级键盘侠》现已推出试玩Demo](https://www.3dmgame.com/news/202406/3896671.html)
+
++ [《不羁联盟》即将在第一赛季期间推出夺旗模式](https://www.3dmgame.com/news/202406/3896670.html)
+
++ [《白蛇：浮生》新预告发布 一念缘起一世缘续](https://www.3dmgame.com/news/202406/3896669.html)
+
++ [《艾尔登法环》DLC新宣传图和截图 老人枯瘦狰狞](https://www.3dmgame.com/news/202406/3896675.html)
+

@@ -35,3 +35,7 @@
 
 + [8499 元：联想 YOGA Air 14 新增“在桃公主”配色，6 月 8 日开售](https://m.ithome.com/html/773398.htm)
 
++ [比亚迪高管谈余承东“价格战”言论：消费者乐见“好价值”，华为降价也挺狠](https://m.ithome.com/html/773433.htm)
+
++ [苹果 iOS 18 控制中心被曝将迎 7 年来最大更新，iPhone 用户可定制布局](https://m.ithome.com/html/773426.htm)
+
