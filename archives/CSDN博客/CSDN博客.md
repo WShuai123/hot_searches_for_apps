@@ -181,3 +181,7 @@
 
 + [【杂谈】AIGC之ChatGPT-与智能对话机器人的奇妙对话之旅](https://blog.csdn.net/weixin_45568812/article/details/139467502)
 
++ [【Python数据挖掘实战案例】机器学习LightGBM算法原理、特点、应用---基于鸢尾花iris数据集分类实战](https://blog.csdn.net/qq_38614074/article/details/139471651)
+
++ [Spring Boot整合Jasypt 库实现配置文件和数据库字段敏感数据的加解密](https://blog.csdn.net/lhmyy521125/article/details/139475216)
+
