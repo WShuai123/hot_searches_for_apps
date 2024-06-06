@@ -55,3 +55,7 @@
 
 + [苹果 iPhone 17 Pro 系列全新升级长焦镜头四棱镜首曝，Max 版有望独占](https://m.ithome.com/html/773448.htm)
 
++ [预计为小米平板 7 / Pro 国际版，两台小米新品平板通过 EEC 认证](https://m.ithome.com/html/773408.htm)
+
++ [长安汽车董事长朱华荣：汽车行业卷出中国品牌新高度，卷出了四个老汉](https://m.ithome.com/html/773512.htm)
+

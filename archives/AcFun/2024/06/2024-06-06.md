@@ -129,3 +129,15 @@
 
 + [妈妈看孩子，爸爸看老师！欢乐八点档-942](http://www.acfun.cn/v/ac44750305)
 
++ [Genie宠粉版【竖屏】](http://www.acfun.cn/v/ac44754838)
+
++ [“这是一场属于鬼畜的火力全开！”](http://www.acfun.cn/v/ac44753690)
+
++ [“祝你好运，亲爱的。”](http://www.acfun.cn/v/ac44754949)
+
++ [谁说鲸鱼不会飞，谁说大树不会说悄悄话，只是我们感知世界的方式不一样](http://www.acfun.cn/v/ac44751972)
+
++ [别在这里发癫](http://www.acfun.cn/v/ac44690110)
+
++ [你就说离不离谱吧……](http://www.acfun.cn/v/ac44751964)
+
