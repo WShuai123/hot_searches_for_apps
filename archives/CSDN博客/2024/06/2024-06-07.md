@@ -101,3 +101,7 @@
 
 + [【iOS】UI学习（二）](https://blog.csdn.net/2301_80467753/article/details/139332767)
 
++ [【机器学习】Qwen1.5-14B-Chat大模型训练与推理实战](https://blog.csdn.net/weixin_48007632/article/details/139422184)
+
++ [Spring Cloud系列——使用Sentinel进行微服务保护](https://blog.csdn.net/weixin_73588491/article/details/139452685)
+
