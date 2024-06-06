@@ -53,3 +53,5 @@
 
 + [NSA：建议用户每周重新启动一次手机](https://www.freebuf.com/news/402825.html)
 
++ [易泄露用户数据，微软新AI工具 Recall 被白帽锤了？](https://www.freebuf.com/news/402814.html)
+

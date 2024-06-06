@@ -175,3 +175,9 @@
 
 + [生命在于学习——Python人工智能原理（3.2）](https://blog.csdn.net/qq_15131581/article/details/139390654)
 
++ [甜蜜约会网页制作html](https://blog.csdn.net/youyouxiong/article/details/139482264)
+
++ [运维开发介绍](https://blog.csdn.net/ak2111/article/details/139392388)
+
++ [【杂谈】AIGC之ChatGPT-与智能对话机器人的奇妙对话之旅](https://blog.csdn.net/weixin_45568812/article/details/139467502)
+

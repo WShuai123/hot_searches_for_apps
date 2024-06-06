@@ -199,3 +199,11 @@
 
 + [《处罚》Steam页面上线 忍者主题动作新游](https://www.3dmgame.com/news/202406/3896693.html)
 
++ [《原神》拾枝杂谈-「赛索斯：至贤的遗赐」](https://www.3dmgame.com/news/202406/3896697.html)
+
++ [GOG商店将于8月开始删除体积过大的云存档](https://www.3dmgame.com/news/202406/3896696.html)
+
++ [索尼Steam发行部门再次更名：PlayStation Publishing LLC](https://www.3dmgame.com/news/202406/3896695.html)
+
++ [《龙之信条2》玩家已升到900级 但仍未达满级](https://www.3dmgame.com/news/202406/3896694.html)
+

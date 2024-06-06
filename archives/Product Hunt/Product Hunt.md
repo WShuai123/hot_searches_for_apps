@@ -109,3 +109,49 @@
 
 + [Clixie AI](https://www.producthunt.com/posts/clixie-ai)
 
++ [Monk Mode](https://www.producthunt.com/posts/monk-mode-4)
+
++ [Go Eliza](https://www.producthunt.com/posts/go-eliza)
+
++ [RocketMail](https://www.producthunt.com/posts/rocketmail)
+
++ [BeeDone](https://www.producthunt.com/posts/beedone-2)
+
++ [Wealthfolio](https://www.producthunt.com/posts/wealthfolio)
+
++ [Zines Forever](https://www.producthunt.com/posts/zines-forever)
+
++ [Offline Currency Converter](https://www.producthunt.com/posts/offline-currency-converter)
+
++ [Ventur](https://www.producthunt.com/posts/ventur)
+
++ [Detail 4](https://www.producthunt.com/posts/detail-4-1)
+
++ [MT31](https://www.producthunt.com/posts/mt31)
+
++ [AI Summary Helper](https://www.producthunt.com/posts/ai-summary-helper)
+
++ [SEOpital](https://www.producthunt.com/posts/seopital)
+
++ [Uimagine.io](https://www.producthunt.com/posts/uimagine-io)
+
++ [Syfly](https://www.producthunt.com/posts/syfly-2)
+
++ [Riffo](https://www.producthunt.com/posts/riffo)
+
++ [Perfect Wiki](https://www.producthunt.com/posts/perfect-wiki-2)
+
++ [Uniquery](https://www.producthunt.com/posts/uniquery)
+
++ [FlowMapp 3.0](https://www.producthunt.com/posts/flowmapp-3-0)
+
++ [Zendesk AI alternative](https://www.producthunt.com/posts/zendesk-ai-alternative)
+
++ [Feedback Navigator](https://www.producthunt.com/posts/feedback-navigator)
+
++ [Databutton](https://www.producthunt.com/posts/databutton)
+
++ [Kai](https://www.producthunt.com/posts/kai-5)
+
++ [Falcon AI](https://www.producthunt.com/posts/falcon-ai)
+
