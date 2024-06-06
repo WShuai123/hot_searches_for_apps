@@ -199,3 +199,9 @@
 
 + [基于Android14 Mtk平台移植系统应用Settings到AS中编译](https://blog.csdn.net/Only_Studio/article/details/139498762)
 
++ [【CentOS 7】挑战探索：在CentOS 7上实现Python 3.9的完美部署指南](https://blog.csdn.net/joeyoj/article/details/138250663)
+
++ [使用 Node.js 和 Azure Function App 自动更新 Elasticsearch 索引](https://blog.csdn.net/UbuntuTouch/article/details/139469184)
+
++ [Web安全渗透攻防技术](https://blog.csdn.net/weixin_45793745/article/details/139505687)
+

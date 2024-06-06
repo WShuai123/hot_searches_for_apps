@@ -273,3 +273,7 @@
 
 + [台积电迈向High-NA EUV时代 ASML证实年内将交付新设备](https://www.3dmgame.com/news/202406/3896730.html)
 
++ [科乐美：《寂静岭2：重制版》非常忠于原版游戏 这要感谢Bloober Team](https://www.3dmgame.com/news/202406/3896732.html)
+
++ [《霍格沃茨之遗》导演剪辑版曝光 Rocksteady回归单人游戏](https://www.3dmgame.com/news/202406/3896731.html)
+
