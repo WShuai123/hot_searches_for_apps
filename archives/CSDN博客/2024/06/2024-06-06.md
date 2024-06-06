@@ -193,3 +193,9 @@
 
 + [计算机网络 —— 数据链路层（局域网）](https://blog.csdn.net/qq_67693066/article/details/139461932)
 
++ [自学黑客（网络安全）](https://blog.csdn.net/2401_85185266/article/details/139480990)
+
++ [【乐吾乐2D可视化组态编辑器】Web组态、SCADA、数据可视化](https://blog.csdn.net/le5le_iot/article/details/139498241)
+
++ [基于Android14 Mtk平台移植系统应用Settings到AS中编译](https://blog.csdn.net/Only_Studio/article/details/139498762)
+

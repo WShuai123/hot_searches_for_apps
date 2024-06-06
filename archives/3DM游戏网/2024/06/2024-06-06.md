@@ -271,3 +271,5 @@
 
 + [《命运2：终焉之形》火爆上线！多款经典DLC限时特惠同步来袭！](https://www.3dmgame.com/news/202406/3896728.html)
 
++ [台积电迈向High-NA EUV时代 ASML证实年内将交付新设备](https://www.3dmgame.com/news/202406/3896730.html)
+

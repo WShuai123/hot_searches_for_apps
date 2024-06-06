@@ -53,3 +53,5 @@
 
 + [苹果承诺为 iPhone 15 系列提供 5 年安全更新，实际情况更乐观](https://m.ithome.com/html/773431.htm)
 
++ [苹果 iPhone 17 Pro 系列全新升级长焦镜头四棱镜首曝，Max 版有望独占](https://m.ithome.com/html/773448.htm)
+
