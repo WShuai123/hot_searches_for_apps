@@ -107,3 +107,13 @@
 
 + [《赤痕：夜之仪式》下周还将推出全新DLC](https://www.3dmgame.com/news/202406/3896645.html)
 
++ [《博德之门3》Steam平均游玩时长超100小时 难以置信](https://www.3dmgame.com/news/202406/3896652.html)
+
++ [传2K将在夏季游戏节上公布《无主之地4》](https://www.3dmgame.com/news/202406/3896651.html)
+
++ [《最后生还者》剧集第二季有7集 第三季的规模更大](https://www.3dmgame.com/news/202406/3896650.html)
+
++ [《辐射》电视剧第二季正加速推进制作](https://www.3dmgame.com/news/202406/3896649.html)
+
++ [城市建造游戏《Dystopika》发布游戏特色预告](https://www.3dmgame.com/news/202406/3896648.html)
+

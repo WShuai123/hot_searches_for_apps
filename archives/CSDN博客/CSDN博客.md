@@ -125,3 +125,13 @@
 
 + [AB测试实战](https://blog.csdn.net/qq_64685283/article/details/139471584)
 
++ [【wiki知识库】05.分类管理模块--后端SpringBoot模块](https://blog.csdn.net/qq_61024956/article/details/139470653)
+
++ [AIGC简介：如何利用人工智能进行内容生成](https://blog.csdn.net/xiaobing259/article/details/139458349)
+
++ [大模型Prompt-Tuning技术进阶](https://blog.csdn.net/qq_64685283/article/details/139483789)
+
++ [浏览器工作原理](https://blog.csdn.net/qq_57104988/article/details/139459508)
+
++ [LangChain学习记录（四）Agent](https://blog.csdn.net/qq_43384376/article/details/139465753)
+
