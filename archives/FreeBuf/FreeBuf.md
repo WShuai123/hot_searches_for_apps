@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 澳大利亚矿业公司披露数据泄露事件；谷歌意外泄露内部文档](https://www.freebuf.com/news/402788.html)
 
++ [专家警告：恶意软件能够窃取 Windows Recall 工具收集的数据](https://www.freebuf.com/news/402814.html)
+
++ [NSA：建议用户每周重新启动一次手机](https://www.freebuf.com/news/402825.html)
+

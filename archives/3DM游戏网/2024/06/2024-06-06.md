@@ -177,3 +177,11 @@
 
 + [《艾尔登法环》DLC新宣传图和截图 老人枯瘦狰狞](https://www.3dmgame.com/news/202406/3896675.html)
 
++ [《寂静之地：入侵日》定档6月28日 怪物入侵地球开启末日极限逃杀](https://www.3dmgame.com/news/202406/3896686.html)
+
++ [2023年手游收入达904亿美元 占全球游戏收入近一半](https://www.3dmgame.com/news/202406/3896684.html)
+
++ [iPhone16 ProMax外观曝光 1.15mm全球最窄边框](https://www.3dmgame.com/news/202406/3896685.html)
+
++ [类“冲就完事”游戏《泳池清洁模拟器》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3896683.html)
+

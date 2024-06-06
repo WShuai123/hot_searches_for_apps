@@ -147,3 +147,13 @@
 
 + [Windows 宿主机访问 VirtualBox 虚拟机中创建的 docker 容器中的 mysql8.0 的数据](https://blog.csdn.net/longchanghua_enshi/article/details/139450135)
 
++ [Spring自带定时任务@Scheduled注解](https://blog.csdn.net/weixin_43024834/article/details/139427509)
+
++ [GaussDB技术解读——GaussDB架构介绍（一）](https://blog.csdn.net/GaussDB/article/details/139472700)
+
++ [【DevOps】网络安全进阶之路：打造更安全、更可靠的网站](https://blog.csdn.net/benshu_001/article/details/139484098)
+
++ [【iOS】UI学习（二）](https://blog.csdn.net/2301_80467753/article/details/139332767)
+
++ [【Python数据类型的奥秘】：构建程序基石，驾驭信息之海](https://blog.csdn.net/dh45498/article/details/139482837)
+
