@@ -49,3 +49,5 @@
 
 + [华为鸿蒙智行轿跑 SUV 新车预告图曝光，或对标特斯拉 Model X](https://m.ithome.com/html/773452.htm)
 
++ [边框预定“全球最窄”，苹果 iPhone 16 Pro Max 尺寸曝光：四边等宽](https://m.ithome.com/html/773441.htm)
+

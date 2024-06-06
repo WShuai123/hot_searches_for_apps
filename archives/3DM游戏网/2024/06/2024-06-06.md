@@ -245,3 +245,23 @@
 
 + [《怪物猎人：荒野》新角色铁匠杰玛引热议 Steam页面已添加恋爱模拟标签](https://www.3dmgame.com/news/202406/3896708.html)
 
++ [“SEGA六月精选促销”活动火热进行中！《人中之龙８》等作品加入](https://www.3dmgame.com/news/202406/3896724.html)
+
++ [与＂FOCUS ON＂进行合作！《太鼓之达人 咚咚雷音祭》11首合作乐曲正式登场！](https://www.3dmgame.com/news/202406/3896723.html)
+
++ [《雾锁王国》大型更新泥沼旋律上线 新区域玩法登场](https://www.3dmgame.com/news/202406/3896725.html)
+
++ [《超级猴子球 香蕉大乱斗》最新资讯公开：来自“刺猬索尼克”系列的角色将于DLC中登场！](https://www.3dmgame.com/news/202406/3896726.html)
+
++ [张雪峰称五百强企业说不看学历都是假话：有时候学历比经验更重要](https://www.3dmgame.com/news/202406/3896717.html)
+
++ [高通预测Wi-Fi 7发展 2025年下半年将成为主流](https://www.3dmgame.com/news/202406/3896718.html)
+
++ [张雪峰：游戏最重要不是画面 而是剧情和吸引人氪金](https://www.3dmgame.com/news/202406/3896719.html)
+
++ [传闻：《自杀小队：战胜正义联盟》开发商Rocksteady或将被华纳兄弟关闭](https://www.3dmgame.com/news/202406/3896720.html)
+
++ [开放世界生存制作游戏《千锤百炼》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3896721.html)
+
++ [《Concord》英文PS商店透露：未来更新内容全免费](https://www.3dmgame.com/news/202406/3896722.html)
+
