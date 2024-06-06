@@ -227,3 +227,21 @@
 
 + [动作类肉鸽游戏《奥术冲击》现已推出试玩Demo 2024年第三季度发售](https://www.3dmgame.com/news/202406/3896698.html)
 
++ [尾号6666666手机号起拍价113万：评估价值超过160万](https://www.3dmgame.com/news/202406/3896716.html)
+
++ [《最终幻想16》1.33补丁更新上线 优化自定义手柄配置](https://www.3dmgame.com/news/202406/3896712.html)
+
++ [《无限试驾：太阳王冠》解锁豪车玩家需花上百小时](https://www.3dmgame.com/news/202406/3896715.html)
+
++ [《小美人魚》动画版导演批评真人版：讲好故事 比ZZZQ重要](https://www.3dmgame.com/news/202406/3896714.html)
+
++ [2024端午档新片预售票房破亿 《谈判专家》暂居第一](https://www.3dmgame.com/news/202406/3896713.html)
+
++ [《Carbon》Steam页面上线 赛朋风格俯视角ARPG](https://www.3dmgame.com/news/202406/3896711.html)
+
++ [来3DM游戏APP，i7+4070Ti主机、百款游戏兑换码免费送！](https://www.3dmgame.com/news/202406/3896710.html)
+
++ [外观更轻薄 Meta首席技术官疑似泄露Quest 3S头显](https://www.3dmgame.com/news/202406/3896709.html)
+
++ [《怪物猎人：荒野》新角色铁匠杰玛引热议 Steam页面已添加恋爱模拟标签](https://www.3dmgame.com/news/202406/3896708.html)
+

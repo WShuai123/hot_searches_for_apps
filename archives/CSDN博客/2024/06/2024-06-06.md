@@ -185,3 +185,7 @@
 
 + [Spring Boot整合Jasypt 库实现配置文件和数据库字段敏感数据的加解密](https://blog.csdn.net/lhmyy521125/article/details/139475216)
 
++ [【ABAP】实现EXCEL动态文件导入功能](https://blog.csdn.net/weixin_42798952/article/details/139493042)
+
++ [笔记 | 软件工程03：软件过程和软件开发方法](https://blog.csdn.net/qq_42769760/article/details/139471319)
+
