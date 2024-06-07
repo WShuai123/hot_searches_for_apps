@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 纽交所IT系统出现重大技术故障；微软Copilot+新功能存在严重安全隐患](https://www.freebuf.com/news/402665.html)
 
++ [FreeBuf早报 | 伊朗朝觐组织涉嫌数据泄露；俄罗斯政府机构遭遇木马攻击](https://www.freebuf.com/news/402797.html)
+
++ [Windows取证分析 | 如何最大程度提升分析效率](https://www.freebuf.com/articles/system/401354.html)
+

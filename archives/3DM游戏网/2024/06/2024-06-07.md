@@ -111,3 +111,9 @@
 
 + [少女版《空洞骑士》《康斯坦丝》明年年末发售](https://www.3dmgame.com/news/202406/3896740.html)
 
++ [《寂静岭2》原版开发者希望重制版有更多改动 但未能如愿](https://www.3dmgame.com/news/202406/3896746.html)
+
++ [《龙腾世纪》新作将在6月11日晚11点发布15分钟实机](https://www.3dmgame.com/news/202406/3896745.html)
+
++ [致敬世嘉DC经典JRPG的空贼RPG新作公布游戏预告](https://www.3dmgame.com/news/202406/3896744.html)
+

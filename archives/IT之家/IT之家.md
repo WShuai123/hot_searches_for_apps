@@ -27,3 +27,13 @@
 
 + [曝苹果 iPhone 16 / Pro 系列 OLED 屏再次由三星、LG 显示包揽，今年订单量达 1.3 亿块](https://m.ithome.com/html/773637.htm)
 
++ [四试告捷，SpaceX 星舰史上首次完成试飞任务](https://m.ithome.com/html/773658.htm)
+
++ [贾跃亭透露法拉第未来完成第 12 台车的零部件采购，去年售出 4 台、租赁 6 台](https://m.ithome.com/html/773641.htm)
+
++ [苹果 iPhone 16 四款机型“身材”参数曝光：Pro Max 边框预定“全球最窄”](https://m.ithome.com/html/773530.htm)
+
++ [小米米家商务双肩包上架：分层收纳、可放 15.6 英寸笔记本，249 元](https://m.ithome.com/html/773683.htm)
+
++ [长安汽车董事长朱华荣：汽车行业卷出中国品牌新高度，卷出了四个老汉](https://m.ithome.com/html/773512.htm)
+

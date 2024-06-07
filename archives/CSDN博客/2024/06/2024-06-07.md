@@ -125,3 +125,5 @@
 
 + [龙芯下如何进行.NET Core程序开发部署](https://blog.csdn.net/alan200995/article/details/139401416)
 
++ [【机器学习】GLM4-9B-Chat大模型/GLM-4V-9B多模态大模型概述、原理及推理实战](https://blog.csdn.net/weixin_48007632/article/details/139497336)
+
