@@ -209,3 +209,21 @@
 
 + [黏土动画《超级无敌掌门狗》新作公布 羽毛先生麦格罗回归](https://www.3dmgame.com/news/202406/3896779.html)
 
++ [CDPR总监：扭转《赛博朋克2077》口碑是公司最大成就](https://www.3dmgame.com/news/202406/3896796.html)
+
++ [《新世纪福音战士》动画制作公司GAINAX破产 khara接手继续运营](https://www.3dmgame.com/news/202406/3896801.html)
+
++ [武侠RPG《活侠传》发布终极版PV 游戏定价68元](https://www.3dmgame.com/news/202406/3896797.html)
+
++ [在新地图中弹弹琴！《雾锁王国》第二个重大内容更新“泥沼的旋律”发布](https://www.3dmgame.com/news/202406/3896798.html)
+
++ [成就统计：9成Xbox玩家未通关《地狱之刃2》主线](https://www.3dmgame.com/news/202406/3896799.html)
+
++ [《酒店经营模拟器》Steam版发售 迷人女仆上门服务](https://www.3dmgame.com/news/202406/3896800.html)
+
++ [专注力工具《Virtual Cottage 2》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3896793.html)
+
++ [传闻：《赤痕：夜之仪式2》将于2025年发售 登陆Switch 2](https://www.3dmgame.com/news/202406/3896794.html)
+
++ [摩尔线程、羽人科技完成70亿参数大模型训练测试：稳定性极佳](https://www.3dmgame.com/news/202406/3896795.html)
+
