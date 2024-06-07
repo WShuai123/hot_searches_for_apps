@@ -195,3 +195,5 @@
 
 + [【Redis】解决 Redis 运行在 Protected Mode 下的 DENIED 错误：消除 Redis 受保护模式的完美方案](https://blog.csdn.net/joeyoj/article/details/139436505)
 
++ [分享一个 .Net core Console 项目使用 SqlSugar 的详细例子](https://blog.csdn.net/yangshuquan/article/details/139511426)
+
