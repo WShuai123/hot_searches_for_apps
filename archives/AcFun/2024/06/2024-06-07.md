@@ -159,3 +159,11 @@
 
 + [小长假前最后一天！跟着亚洲寡姐去看车展](http://www.acfun.cn/v/ac44762766)
 
++ [【东方】ピチカートドロップス【十六夜咲夜 Ver. MMD】](http://www.acfun.cn/v/ac44761321)
+
++ [【ACFUN声唱云参赛2024】啥啊](http://www.acfun.cn/v/ac44765210)
+
++ [翠鸟也知道追人？原来它不是白眼狼](http://www.acfun.cn/v/ac44765647)
+
++ [不做人的对决！光之波动最后一战！游戏王GX骚气回顾第十期](http://www.acfun.cn/v/ac44764930)
+

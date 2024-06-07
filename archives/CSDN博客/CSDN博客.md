@@ -197,3 +197,7 @@
 
 + [分享一个 .Net core Console 项目使用 SqlSugar 的详细例子](https://blog.csdn.net/yangshuquan/article/details/139511426)
 
++ [CNN依旧能战：nnU-Net团队新研究揭示医学图像分割的验证误区，设定先进的验证标准与基线模型](https://blog.csdn.net/m0_46510245/article/details/139521473)
+
++ [【Linux取经路】网络套接字编程——UDP篇](https://blog.csdn.net/weixin_63115236/article/details/139510739)
+

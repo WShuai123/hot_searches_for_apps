@@ -263,3 +263,11 @@
 
 + [《无限试驾：太阳王冠》Steam国区138元 4K推荐RTX 4090](https://www.3dmgame.com/news/202406/3896816.html)
 
++ [《野狗子》实机预告 11月8日登陆PC/XSX/PS5/PS4](https://www.3dmgame.com/news/202406/3896823.html)
+
++ [《崩坏：星穹铁道》2.3版本PV公布 6月19日上线](https://www.3dmgame.com/news/202406/3896822.html)
+
++ [明早将有新的宣布？玩家在洛杉矶碰到宫崎英高](https://www.3dmgame.com/news/202406/3896821.html)
+
++ [《文明7》即将官宣？2K官网短暂出现宣传图](https://www.3dmgame.com/news/202406/3896820.html)
+

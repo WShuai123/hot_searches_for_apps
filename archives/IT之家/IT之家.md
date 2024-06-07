@@ -65,3 +65,7 @@
 
 + [采用“骁龙 8 Gen 4 芯片 + 16G + 1T”配置，realme 真我“神秘新机”规格曝光](https://m.ithome.com/html/773838.htm)
 
++ [《英雄联盟》史上最贵，Faker 名人堂皮肤国服售价最高 3286.5 元](https://m.ithome.com/html/773712.htm)
+
++ [2024 高考第一天，抖音公告“禁止户外直播干扰考场秩序”](https://m.ithome.com/html/773719.htm)
+
