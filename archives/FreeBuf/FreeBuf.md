@@ -59,3 +59,5 @@
 
 + [阿里云2025届实习生招聘开启](https://www.freebuf.com/jobs/403009.html)
 
++ [HVV 在即，盘点极具威胁的勒索软件组织 TOP 8](https://www.freebuf.com/articles/neopoints/402620.html)
+
