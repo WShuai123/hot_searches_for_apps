@@ -101,3 +101,9 @@
 
 + [基于Android14 Mtk平台移植系统应用Settings到AS中编译](https://blog.csdn.net/Only_Studio/article/details/139498762)
 
++ [【wiki知识库】05.分类管理模块--后端SpringBoot模块](https://blog.csdn.net/qq_61024956/article/details/139470653)
+
++ [mysql optimizer_switch : 查询优化器优化策略深入解析](https://blog.csdn.net/qq_26664043/article/details/139398056)
+
++ [【FFmpeg】SDL 音视频开发 ① ( SDL 窗口绘制 | SDL 视频显示函数 | SDL_Window 窗口 | SDL_Renderer 渲染器 | SDL_Texture 纹理 )](https://blog.csdn.net/han1202012/article/details/139528565)
+
