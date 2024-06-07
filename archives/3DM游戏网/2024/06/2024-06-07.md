@@ -243,3 +243,15 @@
 
 + [传音与腾讯合作 手机将搭载GVoice游戏语音技术](https://www.3dmgame.com/news/202406/3896809.html)
 
++ [酷冷至尊展示57英寸双4K mini LED游戏显示器](https://www.3dmgame.com/news/202406/3896815.html)
+
++ [温馨植物爱好者模拟器《Urban Jungle 我的小绿屋》将于今年晚些时候登陆PC](https://www.3dmgame.com/news/202406/3896810.html)
+
++ [解锁死者的秘密，医疗恐怖模拟游戏《验尸模拟器》现已登陆PC](https://www.3dmgame.com/news/202406/3896811.html)
+
++ [微星龙主题RTX 40系列显卡亮相：龙形外观太吸睛！](https://www.3dmgame.com/news/202406/3896813.html)
+
++ [J3工作室现正火热招聘中，一起来做最好的枪战游戏吧！](https://www.3dmgame.com/news/202406/3896812.html)
+
++ [携程创始人建议女随母姓：随父姓是男女不平等的陋习](https://www.3dmgame.com/news/202406/3896814.html)
+

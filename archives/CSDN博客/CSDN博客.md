@@ -191,3 +191,5 @@
 
 + [解密Spring Boot：揭秘自动装配背后的原理与机制](https://blog.csdn.net/qq_51601665/article/details/139529526)
 
++ [【机器学习】GPT-4中的机器学习如何塑造人类与AI的新对话](https://blog.csdn.net/2301_77509762/article/details/139515212)
+
