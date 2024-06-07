@@ -127,3 +127,9 @@
 
 + [【机器学习】GLM4-9B-Chat大模型/GLM-4V-9B多模态大模型概述、原理及推理实战](https://blog.csdn.net/weixin_48007632/article/details/139497336)
 
++ [【大数据】计算引擎：Spark核心概念](https://blog.csdn.net/Joker_ZJN/article/details/139479788)
+
++ [DockerCompose中部署Jenkins（Docker Desktop在windows上数据卷映射）](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/139491855)
+
++ [【MySQL调优】如何进行MySQL调优？从参数、数据建模、索引、SQL语句等方向，三万字详细解读MySQL的性能优化方案（2024版）](https://blog.csdn.net/qq_40991313/article/details/139088747)
+

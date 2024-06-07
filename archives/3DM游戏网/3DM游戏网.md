@@ -117,3 +117,13 @@
 
 + [致敬世嘉DC经典JRPG的空贼RPG新作公布游戏预告](https://www.3dmgame.com/news/202406/3896744.html)
 
++ [《最终幻想14》吉田直树：我们有两款新作即将公布](https://www.3dmgame.com/news/202406/3896751.html)
+
++ [3DO平台经典射击游戏《Killing Time》将推出重置版](https://www.3dmgame.com/news/202406/3896750.html)
+
++ [《龙腾世纪：影障守护者》前瞻 战斗将采用能力轮盘](https://www.3dmgame.com/news/202406/3896749.html)
+
++ [经典系列新作《刺客信条：幻境》现已登陆iOS设备](https://www.3dmgame.com/news/202406/3896748.html)
+
++ [《龙腾世纪：影障守护者》是单人游戏 以故事为重点](https://www.3dmgame.com/news/202406/3896747.html)
+

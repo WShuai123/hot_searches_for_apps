@@ -45,3 +45,5 @@
 
 + [Windows取证分析 | 如何最大程度提升分析效率](https://www.freebuf.com/articles/system/401354.html)
 
++ [渗透测试 | 如何通过git clone CVE-2024-32002 实现RCE](https://www.freebuf.com/vuls/401434.html)
+
