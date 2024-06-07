@@ -143,3 +143,15 @@
 
 + [Linux系统安全](https://blog.csdn.net/weixin_44774550/article/details/139418937)
 
++ [【机器学习】Python与深度学习的完美结合——深度学习在医学影像诊断中的惊人表现](https://blog.csdn.net/m0_52827996/article/details/139508497)
+
++ [[消息队列 Kafka] Kafka 架构组件及其特性（一）](https://blog.csdn.net/harryptter/article/details/139506705)
+
++ [LangChain实战：Prompt提示词调优](https://blog.csdn.net/Watermaleon/article/details/139467625)
+
++ [【Linux】ip命令详解](https://blog.csdn.net/qq_35995514/article/details/139486688)
+
++ [K8s：无状态](https://blog.csdn.net/weixin_44507495/article/details/139510846)
+
++ [如何搭建一台永久运行的个人服务器？](https://blog.csdn.net/2303_78436387/article/details/139502330)
+
