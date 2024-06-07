@@ -187,3 +187,7 @@
 
 + [操作系统教材第6版——个人笔记6](https://blog.csdn.net/weixin_53314015/article/details/139512424)
 
++ [八股文系列Redis](https://blog.csdn.net/qq_42456324/article/details/139475089)
+
++ [解密Spring Boot：揭秘自动装配背后的原理与机制](https://blog.csdn.net/qq_51601665/article/details/139529526)
+

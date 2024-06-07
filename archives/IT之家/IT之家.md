@@ -55,3 +55,5 @@
 
 + [iPhone“联名”徕卡、还有专属水印，徕卡推出 Leica LUX 手机拍照 App](https://m.ithome.com/html/773716.htm)
 
++ [《黑神话：悟空》PC 实体豪华版和收藏版重磅曝光：电脑配置要求、包装盒精美绘图、模型、首饰](https://m.ithome.com/html/773839.htm)
+

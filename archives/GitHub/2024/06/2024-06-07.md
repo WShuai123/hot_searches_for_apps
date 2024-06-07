@@ -23,3 +23,21 @@
 
 + [openssl / openssl](https://github.com/openssl/openssl)
 
++ [jordanbaird / Ice](https://github.com/jordanbaird/Ice)
+
++ [Stability-AI / stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools)
+
++ [hcengineering / platform](https://github.com/hcengineering/platform)
+
++ [KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
+
++ [livekit / livekit](https://github.com/livekit/livekit)
+
++ [google / mesop](https://github.com/google/mesop)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [microsoft / vscode](https://github.com/microsoft/vscode)
+
++ [delta-io / delta](https://github.com/delta-io/delta)
+

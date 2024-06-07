@@ -241,3 +241,5 @@
 
 + [《黑神话：悟空》实体豪华典藏版版泄露 820元起限量三万套](https://www.3dmgame.com/news/202406/3896802.html)
 
++ [传音与腾讯合作 手机将搭载GVoice游戏语音技术](https://www.3dmgame.com/news/202406/3896809.html)
+
