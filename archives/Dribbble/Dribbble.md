@@ -69,3 +69,13 @@
 
 + [Woodland Critter](https://dribbble.com/shots/)
 
++ [Summer Slasher Sale - G.A.R.M. Co.](https://dribbble.com/shots/)
+
++ [Haven House Master Logo](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Blue Loon](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
