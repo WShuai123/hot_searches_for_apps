@@ -127,3 +127,29 @@
 
 + [《龙腾世纪：影障守护者》是单人游戏 以故事为重点](https://www.3dmgame.com/news/202406/3896747.html)
 
++ [《使命召唤：黑色行动6》首发将包括“剧院”功能](https://www.3dmgame.com/news/202406/3896760.html)
+
++ [《寂静岭2：重制版》新细节：游戏多样化 怪物更恐怖](https://www.3dmgame.com/news/202406/3896761.html)
+
++ [体育类模拟经营游戏《职业自行车队2024》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3896762.html)
+
++ [VR游戏《蝙蝠侠：阿卡姆之影》在北美获ESRB评级](https://www.3dmgame.com/news/202406/3896763.html)
+
++ [今夜格曼加入飙车 《梦魇卡丁车》全平台下载量已达13万次](https://www.3dmgame.com/news/202406/3896764.html)
+
++ [像素风恐怖游戏《玩具熊的午夜后宫 走进深渊》Steam页面上线 支持中文](https://www.3dmgame.com/news/202406/3896752.html)
+
++ [《战神：诸神黄昏》PC版与PS5版对比视频 快来找差别](https://www.3dmgame.com/news/202406/3896753.html)
+
++ [传闻：夏日游戏节播预告每分钟价格高达25万美元](https://www.3dmgame.com/news/202406/3896754.html)
+
++ [《自杀小队：杀死正义联盟》为何不及预期？开发幕后揭秘](https://www.3dmgame.com/news/202406/3896755.html)
+
++ [坤哥：《索尼克×夏特 世代重启》将于10月25日发售 售价50美元](https://www.3dmgame.com/news/202406/3896756.html)
+
++ [“公鸡神探”系列策略游戏《WILD Tactics》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3896757.html)
+
++ [报道称《光环：战斗进化》正在重置中 将登录PlayStation平台](https://www.3dmgame.com/news/202406/3896758.html)
+
++ [暴雪官宣《暗黑破坏神》系列累计玩家已超1亿](https://www.3dmgame.com/news/202406/3896759.html)
+

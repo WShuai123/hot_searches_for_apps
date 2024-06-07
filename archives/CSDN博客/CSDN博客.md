@@ -133,3 +133,7 @@
 
 + [【MySQL调优】如何进行MySQL调优？从参数、数据建模、索引、SQL语句等方向，三万字详细解读MySQL的性能优化方案（2024版）](https://blog.csdn.net/qq_40991313/article/details/139088747)
 
++ [【研发日记】Matlab/Simulink软件优化(二)——通信负载柔性均衡算法](https://blog.csdn.net/CSSUST/article/details/139508651)
+
++ [在k8s中部署Kafka高可用集群超详细讲解](https://blog.csdn.net/weixin_53269650/article/details/139469452)
+

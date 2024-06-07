@@ -41,3 +41,5 @@
 
 + [小米胡馨心宣布调整 Civi 4 Pro 手机新品发布时间，预计为迪士尼联名版](https://m.ithome.com/html/773649.htm)
 
++ [小米 6A 亲肤硅胶数据线 2m 上架：USB-A 转 C、120W 快充，首发 49 元](https://m.ithome.com/html/773642.htm)
+
