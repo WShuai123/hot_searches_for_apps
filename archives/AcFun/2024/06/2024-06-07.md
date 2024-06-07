@@ -139,3 +139,13 @@
 
 + [绝世好身材 《Nice Body》](http://www.acfun.cn/v/ac44755247)
 
++ [硬核的技术下放，HIFIMAN迷你香格里拉](http://www.acfun.cn/v/ac44765351)
+
++ [【香酥鸡】为了吃这炸鸡，隔壁把我墙砸了【物理】](http://www.acfun.cn/v/ac44761877)
+
++ [开在北京胡同中的米其林餐厅什么样？](http://www.acfun.cn/v/ac44760176)
+
++ [把投五蕉的Acer关进这个房间！欢乐八点档-943](http://www.acfun.cn/v/ac44763206)
+
++ [爷青回！全金属狂潮《tomorrow》【小五沉沉沉之经典动画游戏歌曲翻唱98号弹】](http://www.acfun.cn/v/ac44753253)
+

@@ -193,3 +193,5 @@
 
 + [【机器学习】GPT-4中的机器学习如何塑造人类与AI的新对话](https://blog.csdn.net/2301_77509762/article/details/139515212)
 
++ [【Redis】解决 Redis 运行在 Protected Mode 下的 DENIED 错误：消除 Redis 受保护模式的完美方案](https://blog.csdn.net/joeyoj/article/details/139436505)
+

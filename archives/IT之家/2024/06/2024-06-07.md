@@ -63,3 +63,5 @@
 
 + [微信回应登上 2024 年高考语文作文：点赞太容易，当面夸太难](https://m.ithome.com/html/773792.htm)
 
++ [采用“骁龙 8 Gen 4 芯片 + 16G + 1T”配置，realme 真我“神秘新机”规格曝光](https://m.ithome.com/html/773838.htm)
+
