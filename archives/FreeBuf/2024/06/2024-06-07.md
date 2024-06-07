@@ -47,3 +47,7 @@
 
 + [渗透测试 | 如何通过git clone CVE-2024-32002 实现RCE](https://www.freebuf.com/vuls/401434.html)
 
++ [报告：78% 的中小企业担心网络攻击会导致其业务中断](https://www.freebuf.com/news/402964.html)
+
++ [黑客利用 Gitloker 账号对 GitHub 存储库发起攻击](https://www.freebuf.com/news/402963.html)
+

@@ -153,3 +153,29 @@
 
 + [暴雪官宣《暗黑破坏神》系列累计玩家已超1亿](https://www.3dmgame.com/news/202406/3896759.html)
 
++ [《命运2：终焉之形》“救赎的边缘”突袭明天上线](https://www.3dmgame.com/news/202406/3896777.html)
+
++ [《绝地潜兵2》新债券“毒蛇突击兵”公布 首次提供皮肤配色](https://www.3dmgame.com/news/202406/3896776.html)
+
++ [波音“星际客机”首次载人试飞 成功与国际空间站对接](https://www.3dmgame.com/news/202406/3896775.html)
+
++ [《宇宙机器人》港服预购开启 标准版定价468港币](https://www.3dmgame.com/news/202406/3896774.html)
+
++ [游戏改编电影《愤怒的小鸟》第三部前导预告 上映日期待定](https://www.3dmgame.com/news/202406/3896773.html)
+
++ [新世代主机版发售 《歧路旅人》系列销量突破400万](https://www.3dmgame.com/news/202406/3896772.html)
+
++ [《电锯甜心RePOP》预热首个预告 6月14日正式公布](https://www.3dmgame.com/news/202406/3896770.html)
+
++ [视觉小说《Geminism》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3896769.html)
+
++ [亚洲中东北非游戏市场预计2028年规模达近千亿美元](https://www.3dmgame.com/news/202406/3896768.html)
+
++ [卡牌构筑类回合制游戏《星之侵略者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896767.html)
+
++ [《胜利女神》真人舞台剧公演开始 性感妹带妆造型曝光](https://www.3dmgame.com/news/202406/3896765.html)
+
++ [5v5 FPS游戏《Concord》Steam页面上线 国区售价276元](https://www.3dmgame.com/news/202406/3896766.html)
+
++ [《泰坦之旅2》新截图公布 游戏世界栩栩如生吸引人](https://www.3dmgame.com/news/202406/3896771.html)
+

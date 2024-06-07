@@ -21,3 +21,5 @@
 
 + [野兽领主：新世界](https://www.taptap.cn/app/532667)
 
++ [Phigros](https://www.taptap.cn/app/165287)
+

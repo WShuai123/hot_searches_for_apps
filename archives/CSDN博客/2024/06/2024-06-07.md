@@ -137,3 +137,9 @@
 
 + [在k8s中部署Kafka高可用集群超详细讲解](https://blog.csdn.net/weixin_53269650/article/details/139469452)
 
++ [Python | C# | MATLAB 库卡机器人微分运动学 | 欧拉-拉格朗日动力学 | 混合动力控制](https://blog.csdn.net/jiyotin/article/details/139507229)
+
++ [Windows11下Docker使用记录（五）](https://blog.csdn.net/weixin_45654152/article/details/139471542)
+
++ [Linux系统安全](https://blog.csdn.net/weixin_44774550/article/details/139418937)
+

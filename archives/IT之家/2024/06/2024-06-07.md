@@ -43,3 +43,5 @@
 
 + [小米 6A 亲肤硅胶数据线 2m 上架：USB-A 转 C、120W 快充，首发 49 元](https://m.ithome.com/html/773642.htm)
 
++ [小米汽车为保交付紧急招工：月薪最高 1 万元年底 13 薪，每天工作至少 10 小时](https://m.ithome.com/html/773722.htm)
+
