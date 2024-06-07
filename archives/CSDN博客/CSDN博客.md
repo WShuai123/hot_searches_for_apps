@@ -107,3 +107,23 @@
 
 + [【FFmpeg】SDL 音视频开发 ① ( SDL 窗口绘制 | SDL 视频显示函数 | SDL_Window 窗口 | SDL_Renderer 渲染器 | SDL_Texture 纹理 )](https://blog.csdn.net/han1202012/article/details/139528565)
 
++ [【Rust】——【面向对象语言的特征】](https://blog.csdn.net/shsjssnn/article/details/136854032)
+
++ [自动驾驶仿真（高速道路）LaneKeeping](https://blog.csdn.net/qq_45191106/article/details/139505405)
+
++ [【02数据库与小模型篇】0到1打造基于文心大模型和飞桨小模型的智能在线编辑器](https://blog.csdn.net/weixin_38898884/article/details/139520644)
+
++ [数据挖掘实战-基于Catboost算法的艾滋病数据可视化与建模分析](https://blog.csdn.net/m0_64336780/article/details/138401019)
+
++ [SpringBootWeb 篇-深入了解 AOP 面向切面编程与 AOP 记录操作日志案例](https://blog.csdn.net/Tingfeng__/article/details/139392655)
+
++ [Mysql间隙锁死锁避免最佳实践](https://blog.csdn.net/weixin_65728526/article/details/139471124)
+
++ [Kafka的分区副本机制](https://blog.csdn.net/m0_62645012/article/details/139529163)
+
++ [CCIG 2024：大模型技术及其前沿应用论坛深度解析](https://blog.csdn.net/weixin_36755535/article/details/139454339)
+
++ [自学黑客（网络安全）](https://blog.csdn.net/2401_85185266/article/details/139480990)
+
++ [【重磅开源】MapleBoot权限控制使用介绍（菜单权限、按钮权限、数据权限）](https://blog.csdn.net/qq_34988304/article/details/139515319)
+

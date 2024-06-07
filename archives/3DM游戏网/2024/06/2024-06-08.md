@@ -101,3 +101,45 @@
 
 + [波音“星际客机”首次载人试飞 成功与国际空间站对接](https://www.3dmgame.com/news/202406/3896775.html)
 
++ [卡普空新作《祇：女神之道》预告片 7月19日发售](https://www.3dmgame.com/news/202406/3896847.html)
+
++ [科幻机甲《解限机》新预告 8月开启封闭Beta测试](https://www.3dmgame.com/news/202406/3896843.html)
+
++ [《战锤40K：星际战士2》全新预告 肆意杀戮泰伦虫族](https://www.3dmgame.com/news/202406/3896846.html)
+
++ [《野狗子：裂头怪》游戏截图与实机预告片公布](https://www.3dmgame.com/news/202406/3896845.html)
+
++ [恐怖电影公司Blumhouse进军游戏业 公布六款作品](https://www.3dmgame.com/news/202406/3896844.html)
+
++ [永久死亡的刺激感！《地狱已满2》官宣年内发售](https://www.3dmgame.com/news/202406/3896840.html)
+
++ [《黑神话：悟空》Steam预购已开启 豪华版328元](https://www.3dmgame.com/news/202406/3896839.html)
+
++ [《天国：拯救2》新预告片展示了战斗/角色等内容](https://www.3dmgame.com/news/202406/3896838.html)
+
++ [《饿狼传说：狼之城》预告片展示新老两名角色](https://www.3dmgame.com/news/202406/3896837.html)
+
++ [10月11日金秋相会 《龙珠：电光火石0》上市日期公布](https://www.3dmgame.com/news/202406/3896836.html)
+
++ [《暗喻幻想：ReFantasio》新预告 展示多种游戏要素](https://www.3dmgame.com/news/202406/3896835.html)
+
++ [夏日游戏节：《星球大战：亡命之徒》预告短片](https://www.3dmgame.com/news/202406/3896834.html)
+
++ [时光倒流！2D横版复古作品《恐龙战队：丽塔回溯》公布](https://www.3dmgame.com/news/202406/3896842.html)
+
++ [《阿凡达：潘多拉边境》本月推出Steam版](https://www.3dmgame.com/news/202406/3896841.html)
+
++ [《蝙蝠侠：阿卡姆之影》新剧情预告片 秋季发行](https://www.3dmgame.com/news/202406/3896832.html)
+
++ [“拳皇”乱入！特里和不知火舞即将加入《街头霸王6》](https://www.3dmgame.com/news/202406/3896833.html)
+
++ [夏日游戏节：《黑神话：悟空》新预告 8月20日发售](https://www.3dmgame.com/news/202406/3896830.html)
+
++ [《GRIS》开发者新作《Neva》全新实机视频](https://www.3dmgame.com/news/202406/3896831.html)
+
++ [《哈利波特：魁地奇冠军》9/3登陆各大平台](https://www.3dmgame.com/news/202406/3896829.html)
+
++ [《乐高地平线大冒险》正式面向PS5/PC/NS公布](https://www.3dmgame.com/news/202406/3896827.html)
+
++ [2K Games正式宣布《文明7》 2025年推出](https://www.3dmgame.com/news/202406/3896828.html)
+
