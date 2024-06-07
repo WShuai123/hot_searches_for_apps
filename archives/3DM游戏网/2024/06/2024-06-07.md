@@ -181,3 +181,31 @@
 
 + [福兮祸所伏！英伟达市值超苹果之日 美国将反垄断调查](https://www.3dmgame.com/news/202406/3896778.html)
 
++ [内部人士透露 Xbox 6月发布会时长2小时 包含30款游戏](https://www.3dmgame.com/news/202406/3896788.html)
+
++ [KK推广员联盟启航！邀请推荐赚千万U币，一夜暴富不是梦！](https://www.3dmgame.com/news/202406/3896789.html)
+
++ [KK官方对战平台全民申办赛通道启动，雨神领衔再掀RPG赛事浪潮！](https://www.3dmgame.com/news/202406/3896790.html)
+
++ [Steam首届Furry游戏节，这款国产射击游戏脱颖而出](https://www.3dmgame.com/news/202406/3896791.html)
+
++ [敬请关注《命运2：终焉之形》新突袭“救赎的边缘”世界首通赛](https://www.3dmgame.com/news/202406/3896792.html)
+
++ [据报道《釜山行》导演延相昊正在拍摄新恐怖片《35街》](https://www.3dmgame.com/news/202406/3896786.html)
+
++ [《匹诺曹的谎言》荣获苹果最佳游戏视觉和画面设计奖](https://www.3dmgame.com/news/202406/3896787.html)
+
++ [《Re：从零开始的异世界生活》第三季新预告放出 首集时长90分钟](https://www.3dmgame.com/news/202406/3896781.html)
+
++ [《真·女神转生Ⅴ Vengeance》最新宣传片公开！](https://www.3dmgame.com/news/202406/3896784.html)
+
++ [清版动作类肉鸽游戏《虐杀熔炉》现已登录Steam平台](https://www.3dmgame.com/news/202406/3896785.html)
+
++ [Switch Online会员游戏库新增5款GB游戏：《洛克人世界》系列](https://www.3dmgame.com/news/202406/3896780.html)
+
++ [肉鸽卡牌游戏《致命多巴胺》Steam页面上线 明年发售](https://www.3dmgame.com/news/202406/3896782.html)
+
++ [《华纳大乱斗》战役续命要花钱？开发者：是BUG](https://www.3dmgame.com/news/202406/3896783.html)
+
++ [黏土动画《超级无敌掌门狗》新作公布 羽毛先生麦格罗回归](https://www.3dmgame.com/news/202406/3896779.html)
+

@@ -155,3 +155,17 @@
 
 + [如何搭建一台永久运行的个人服务器？](https://blog.csdn.net/2303_78436387/article/details/139502330)
 
++ [使用Ollama+OpenWebUI部署和使用Phi-3微软AI大模型完整指南](https://blog.csdn.net/jxjdhdnd/article/details/139440829)
+
++ [【Python】实现极致：克服PyInstaller打包挑战，解决libpython3.10.so.1.0库丢失难题](https://blog.csdn.net/joeyoj/article/details/138749035)
+
++ [【Spring Cloud】Gateway 服务网关核心架构的执行流程和断言](https://blog.csdn.net/Qingai521/article/details/139064228)
+
++ [基于SpringBoot3+Vue3+原生小程序的设计与实现](https://blog.csdn.net/mengchuan6666/article/details/139521261)
+
++ [重邮计算机网络803-（2）物理层](https://blog.csdn.net/zhang_si_hang/article/details/139496619)
+
++ [MySQL之查询性能优化(八)](https://blog.csdn.net/Cover_sky/article/details/139510754)
+
++ [前端三大主流框架：React、Vue、Angular](https://blog.csdn.net/xuaner8786/article/details/139514596)
+

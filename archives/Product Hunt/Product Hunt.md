@@ -101,3 +101,39 @@
 
 + [Touring](https://www.producthunt.com/posts/touring-1)
 
++ [ZapCardz](https://www.producthunt.com/posts/zapcardz)
+
++ [Storeez.app](https://www.producthunt.com/posts/storeez-app-2)
+
++ [Fydback](https://www.producthunt.com/posts/fydback)
+
++ [IntrvuAI](https://www.producthunt.com/posts/intrvuai)
+
++ [Tori](https://www.producthunt.com/posts/tori-2)
+
++ [Finance Budget Expense Tracker](https://www.producthunt.com/posts/finance-budget-expense-tracker)
+
++ [Standup](https://www.producthunt.com/posts/standup-2)
+
++ [Text to Calendar](https://www.producthunt.com/posts/text-to-calendar)
+
++ [rubricpro.ai](https://www.producthunt.com/posts/rubricpro-ai)
+
++ [Calculator 1984](https://www.producthunt.com/posts/calculator-1984)
+
++ [Mamouth](https://www.producthunt.com/posts/mamouth)
+
++ [Tyms](https://www.producthunt.com/posts/tyms)
+
++ [Worthless](https://www.producthunt.com/posts/worthless)
+
++ [Kapan Ya?](https://www.producthunt.com/posts/kapan-ya)
+
++ [Peek](https://www.producthunt.com/posts/peek-3e0827ec-7ae5-44dd-9d2d-f1ad41bbfad2)
+
++ [BodyMax AI](https://www.producthunt.com/posts/bodymax-ai)
+
++ [OpinioAI](https://www.producthunt.com/posts/opinioai)
+
++ [KaraboAI](https://www.producthunt.com/posts/karaboai)
+

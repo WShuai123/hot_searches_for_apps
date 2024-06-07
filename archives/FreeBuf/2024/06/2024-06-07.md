@@ -53,3 +53,9 @@
 
 + [渗透实战 | 记一次bc常规打点dbshell](https://www.freebuf.com/articles/web/402429.html)
 
++ [企业安全建设 | 体系规划思路](https://www.freebuf.com/articles/security-management/389597.html)
+
++ [swaggerHole：针对swaggerHub的公共API安全扫描工具](https://www.freebuf.com/sectool/402555.html)
+
++ [阿里云2025届实习生招聘开启](https://www.freebuf.com/jobs/403009.html)
+
