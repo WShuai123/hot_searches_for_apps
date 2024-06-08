@@ -187,3 +187,7 @@
 
 + [物联网实战--平台篇之(十三)物模型设备端](https://blog.csdn.net/ypp240124016/article/details/139533360)
 
++ [LabVIEW阀性能试验台测控系统](https://blog.csdn.net/bjcyck/article/details/139536582)
+
++ [前端 | 燃尽图绘制](https://blog.csdn.net/m0_63398413/article/details/139523450)
+

@@ -139,3 +139,5 @@
 
 + [Trending Stocks](https://www.producthunt.com/posts/trending-stocks)
 
++ [Chat with Youtube Videos by ChatWithPDF](https://www.producthunt.com/posts/chat-with-youtube-videos-by-chatwithpdf)
+
