@@ -45,3 +45,7 @@
 
 + [怀旧风潮再起：古尔曼称苹果 iOS 18 和 macOS 15 将包含复古壁纸和图标](https://m.ithome.com/html/773893.htm)
 
++ [《黑神话：悟空》国区售价全球最低，开启预购火速登顶 Steam 热销榜](https://m.ithome.com/html/773967.htm)
+
++ [小米 MIX Fold 4 折叠屏手机通过工信部入网审核，支持天通卫星通信](https://m.ithome.com/html/773907.htm)
+

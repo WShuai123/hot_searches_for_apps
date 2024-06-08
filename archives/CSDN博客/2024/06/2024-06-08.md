@@ -155,3 +155,7 @@
 
 + [【云原生】Kubernetes----RBAC用户资源权限](https://blog.csdn.net/hy199707/article/details/139466752)
 
++ [【Rust】——面向对象设计模式的实现](https://blog.csdn.net/shsjssnn/article/details/136854747)
+
++ [Elastic Platform 8.14：ES|QL 正式发布、静态加密和向量搜索优化](https://blog.csdn.net/UbuntuTouch/article/details/139502650)
+
