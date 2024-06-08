@@ -101,3 +101,9 @@
 
 + [【Linux】进程2——管理概念，进程概念](https://blog.csdn.net/2301_80224556/article/details/139530790)
 
++ [语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(三)音频去噪算法大全+Python源码应用](https://blog.csdn.net/master_hunter/article/details/139494543)
+
++ [day40--Redis（二）实战篇](https://blog.csdn.net/ZHUSHANGLIN/article/details/139530088)
+
++ [【大数据】计算引擎：Spark核心概念](https://blog.csdn.net/Joker_ZJN/article/details/139479788)
+
