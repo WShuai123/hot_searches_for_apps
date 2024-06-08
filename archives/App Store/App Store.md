@@ -201,3 +201,9 @@
 
 + [乐播投屏](https://itunes.apple.com/cn/app/id1116038378?mt=8)
 
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+
++ [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+

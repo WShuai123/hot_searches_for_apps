@@ -49,3 +49,27 @@
 
 + [Fitonist - Brand assets for the fitness application](https://dribbble.com/shots/)
 
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Phoenix](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Swedish Columbia Bus](https://dribbble.com/shots/)
+
++ [Kiss](https://dribbble.com/shots/)
+
++ [Flamingo Flag & Anthem](https://dribbble.com/shots/)
+
++ [Mcneese University x Crust Pizza - Pattern Illustration](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [Woodland Critter](https://dribbble.com/shots/)
+
++ [Chris Rea Lettering](https://dribbble.com/shots/)
+
++ [Pegasus](https://dribbble.com/shots/)
+
++ [Summer Vibe](https://dribbble.com/shots/)
+
