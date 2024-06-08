@@ -169,3 +169,7 @@
 
 + [Vue Router 4与路由管理实战](https://blog.csdn.net/qq_42210428/article/details/139533707)
 
++ [语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(三)音频去噪算法大全+Python源码应用](https://blog.csdn.net/master_hunter/article/details/139494543)
+
++ [【Linux】进程2——管理概念，进程概念](https://blog.csdn.net/2301_80224556/article/details/139530790)
+

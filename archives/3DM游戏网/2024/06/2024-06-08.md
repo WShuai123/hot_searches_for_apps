@@ -227,3 +227,15 @@
 
 + [《七龙珠 电光炸裂！ZERO》预购 国区售价298元](https://www.3dmgame.com/news/202406/3896887.html)
 
++ [《黑神话：悟空》WeGame预购开启 可获专属纪念卡](https://www.3dmgame.com/news/202406/3896895.html)
+
++ [《猛兽派对》夏日游戏节新宣传片 将推出卡丁车模式](https://www.3dmgame.com/news/202406/3896894.html)
+
++ [《寂静岭2：重制版》主打心理恐怖 战斗并不是很重要](https://www.3dmgame.com/news/202406/3896892.html)
+
++ [《Petal Runner》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202406/3896893.html)
+
++ [《96 号公路》制作者新作《Tides of Tomorrow》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202406/3896890.html)
+
++ [《心灵杀手2：夜泉镇》DLC多支实机 3个角色命运交错](https://www.3dmgame.com/news/202406/3896891.html)
+
