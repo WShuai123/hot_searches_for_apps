@@ -241,3 +241,9 @@
 
 + [夏日游戏节开场白力挺开发者：请游戏大厂善待他们](https://www.3dmgame.com/news/202406/3896896.html)
 
++ [《Dark and Darker》登陆Steam平台 以免费形式发布](https://www.3dmgame.com/news/202406/3896898.html)
+
++ [《丝之歌》粉丝又要失望：大概率不会亮相Xbox发布会](https://www.3dmgame.com/news/202406/3896899.html)
+
++ [美国纽约州通过新法案：禁止社交平台向儿童提供“成瘾性”推荐算法](https://www.3dmgame.com/news/202406/3896897.html)
+

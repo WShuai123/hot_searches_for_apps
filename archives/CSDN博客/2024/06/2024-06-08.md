@@ -175,3 +175,11 @@
 
 + [GaussDB技术解读——GaussDB架构介绍（一）](https://blog.csdn.net/GaussDB/article/details/139472700)
 
++ [【机器学习】与【数据挖掘】技术下【C++】驱动的【嵌入式】智能系统优化](https://blog.csdn.net/2303_77720864/article/details/139515798)
+
++ [【SpringBoot】SpringBoot整合RabbitMQ消息中间件，实现延迟队列和死信队列](https://blog.csdn.net/qq_61024956/article/details/139545178)
+
++ [day40--Redis（二）实战篇](https://blog.csdn.net/ZHUSHANGLIN/article/details/139530088)
+
++ [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（二十九）- 微服务(9)](https://blog.csdn.net/qq_64663346/article/details/139526499)
+

@@ -57,3 +57,5 @@
 
 + [古尔曼：苹果 iOS 18 喜提“Apple Intelligence”，多项 AI 服务将于 WWDC 2024 重磅登场](https://m.ithome.com/html/773887.htm)
 
++ [国内首个：开放麒麟 Android 移动生态兼容运行环境正式开源](https://m.ithome.com/html/773882.htm)
+
