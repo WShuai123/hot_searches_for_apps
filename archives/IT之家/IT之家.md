@@ -31,3 +31,9 @@
 
 + [支付宝重磅推出 NFC 碰一碰支付！超过 1000 元需二次确认](https://m.ithome.com/html/773906.htm)
 
++ [曾在抖音坐拥超 500 万粉丝，汽车自媒体“小牛说车”账号被封](https://m.ithome.com/html/773928.htm)
+
++ [标准版 268 元、豪华版 328 元，《黑神话：悟空》游戏开启预购：8 月 20 日上线 PS5 / PC](https://m.ithome.com/html/773922.htm)
+
++ [到底是豪华品牌不行了，还是豪华车市场不行了？](https://m.ithome.com/html/773881.htm)
+

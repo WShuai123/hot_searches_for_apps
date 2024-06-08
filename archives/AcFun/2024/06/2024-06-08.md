@@ -73,3 +73,5 @@
 
 + [《吸猫只有零次和无数次》](http://www.acfun.cn/v/ac44766394)
 
++ [【红伊】Make me wanna die【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44700956)
+

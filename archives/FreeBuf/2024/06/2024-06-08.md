@@ -45,3 +45,5 @@
 
 + [如何高效的手工检测是否存在SQL注入？](https://www.freebuf.com/sectool/401750.html)
 
++ [秘鲁军方勒索事件及相关勒索组织深度分析](https://www.freebuf.com/articles/paper/401976.html)
+

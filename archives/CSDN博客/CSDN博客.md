@@ -133,3 +133,9 @@
 
 + [【微信小程序】连接蓝牙设备](https://blog.csdn.net/m0_46613429/article/details/137496388)
 
++ [大模型参加高考，同写2024年高考作文，及格分（通义千问、Kimi、智谱清言、Gemini Advanced、Claude-3-Sonnet、GPT-4o）](https://blog.csdn.net/jpld/article/details/139535500)
+
++ [ROS云课三分钟外传之CoppeliaSim_Edu_V4_1_0_Ubuntu16_04](https://blog.csdn.net/ZhangRelay/article/details/139533135)
+
++ [【Python字符串攻略】：玩转文字，编织程序的叙事艺术](https://blog.csdn.net/dh45498/article/details/139485116)
+
