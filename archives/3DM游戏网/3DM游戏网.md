@@ -251,3 +251,7 @@
 
 + [贾玲《热辣滚烫》日本定档7月5日 日文片名为《YOLO 百元の恋》](https://www.3dmgame.com/news/202406/3896901.html)
 
++ [PS5主机架构师：打造主机 目标并不是成为低配PC](https://www.3dmgame.com/news/202406/3896903.html)
+
++ [《DOTA2》TI13现场门票开启预售 主赛事9月举办](https://www.3dmgame.com/news/202406/3896902.html)
+

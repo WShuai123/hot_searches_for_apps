@@ -65,3 +65,5 @@
 
 + [英伟达送《黑神话：悟空》游戏兑换码，需购买 RTX 4070 及以上 GPU 或搭载上述 GPU 的笔记本或台式机](https://m.ithome.com/html/773996.htm)
 
++ [300W！Redmi 后又一家，realme 真我欲“卷”出手机快充新高度](https://m.ithome.com/html/774007.htm)
+
