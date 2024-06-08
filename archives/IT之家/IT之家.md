@@ -67,3 +67,7 @@
 
 + [300W！Redmi 后又一家，realme 真我欲“卷”出手机快充新高度](https://m.ithome.com/html/774007.htm)
 
++ [乔布斯好不容易取消的物理键盘，又被这家公司加回来了](https://m.ithome.com/html/774048.htm)
+
++ [华为、北汽联合设计，享界 S9 内饰谍照曝光：大尺寸中控屏吸睛](https://m.ithome.com/html/774033.htm)
+

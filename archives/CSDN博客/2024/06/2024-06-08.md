@@ -191,3 +191,5 @@
 
 + [前端 | 燃尽图绘制](https://blog.csdn.net/m0_63398413/article/details/139523450)
 
++ [尝试用 GPT-4o 写 2024高考语文作文](https://blog.csdn.net/qq_46302361/article/details/139533638)
+

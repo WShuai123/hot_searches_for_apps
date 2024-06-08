@@ -255,3 +255,7 @@
 
 + [《DOTA2》TI13现场门票开启预售 主赛事9月举办](https://www.3dmgame.com/news/202406/3896902.html)
 
++ [十款AI大模型高考作文成绩出炉 ChatGPT高居榜首](https://www.3dmgame.com/news/202406/3896904.html)
+
++ [《刺客信条》早期UI被粉丝怀念 呼吁育碧加入科幻元素](https://www.3dmgame.com/news/202406/3896905.html)
+
