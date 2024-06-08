@@ -75,3 +75,5 @@
 
 + [【红伊】Make me wanna die【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44700956)
 
++ [20240607“专解明朝疑难杂症”的直播](http://www.acfun.cn/v/ac44767203)
+

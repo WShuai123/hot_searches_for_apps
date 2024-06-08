@@ -191,3 +191,5 @@
 
 + [《席德·梅尔的文明®VII》将于2025年初推出](https://www.3dmgame.com/news/202406/3896865.html)
 
++ [《Unknown 9: Awakening》故事预告 2024年秋季发售](https://www.3dmgame.com/news/202406/3896872.html)
+

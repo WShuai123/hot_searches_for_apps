@@ -37,3 +37,5 @@
 
 + [到底是豪华品牌不行了，还是豪华车市场不行了？](https://m.ithome.com/html/773881.htm)
 
++ [（更新价格）R9-7845HX + RTX 4070 首发 6499 元，七彩虹 COLORFIRE MEOW R16 笔记本配置上新](https://m.ithome.com/html/773759.htm)
+
