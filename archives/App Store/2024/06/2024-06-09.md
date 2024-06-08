@@ -207,3 +207,7 @@
 
 + [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
 
++ [腾讯新闻](https://itunes.apple.com/cn/app/id399363156?mt=8)
+
++ [三四学话](https://itunes.apple.com/cn/app/id6499516662?mt=8)
+
