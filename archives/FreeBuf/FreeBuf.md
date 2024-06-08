@@ -47,3 +47,7 @@
 
 + [秘鲁军方勒索事件及相关勒索组织深度分析](https://www.freebuf.com/articles/paper/401976.html)
 
++ [记一次攻防演练中的若依（thymeleaf 模板注入）getshell](https://www.freebuf.com/vuls/401958.html)
+
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+

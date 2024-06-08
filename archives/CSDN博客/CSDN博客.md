@@ -147,3 +147,11 @@
 
 + [DevOps 安全集成：从开发到部署，全生命周期安全守护](https://blog.csdn.net/benshu_001/article/details/139536673)
 
++ [[线程与网络] 网络编程与通信原理(六):深入理解应用层http与https协议(网络编程与通信原理完结)](https://blog.csdn.net/2301_80050796/article/details/139480272)
+
++ [九大微服务监控工具详解](https://blog.csdn.net/LinkSLA/article/details/139504348)
+
++ [2024全国高考作文题解读（Chat GPT 4.0版本）](https://blog.csdn.net/cainiao080605/article/details/139536223)
+
++ [【云原生】Kubernetes----RBAC用户资源权限](https://blog.csdn.net/hy199707/article/details/139466752)
+

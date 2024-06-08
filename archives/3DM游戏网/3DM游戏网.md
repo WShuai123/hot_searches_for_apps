@@ -215,3 +215,9 @@
 
 + [夏日游戏节：俯视角PvP《诸神大乱斗》6月27日抢先体验](https://www.3dmgame.com/news/202406/3896873.html)
 
++ [《艾诺提亚：失落之歌》社区竞赛活动 送定制PS5](https://www.3dmgame.com/news/202406/3896884.html)
+
++ [快节奏roguelike游戏《天术》预告 发售日待定](https://www.3dmgame.com/news/202406/3896885.html)
+
++ [《我们之中》开发商成立游戏基金 支持其他独立开发者](https://www.3dmgame.com/news/202406/3896886.html)
+

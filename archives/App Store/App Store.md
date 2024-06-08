@@ -207,3 +207,7 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+
