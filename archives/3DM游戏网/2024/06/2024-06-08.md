@@ -221,3 +221,9 @@
 
 + [《我们之中》开发商成立游戏基金 支持其他独立开发者](https://www.3dmgame.com/news/202406/3896886.html)
 
++ [《塔罗斯的法则2》DLC“极乐世界之路”公布 下周上市](https://www.3dmgame.com/news/202406/3896888.html)
+
++ [《咩咩启示录》再次进化 双人合作模式8月免费更新](https://www.3dmgame.com/news/202406/3896889.html)
+
++ [《七龙珠 电光炸裂！ZERO》预购 国区售价298元](https://www.3dmgame.com/news/202406/3896887.html)
+

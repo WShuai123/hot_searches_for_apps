@@ -159,3 +159,13 @@
 
 + [Elastic Platform 8.14：ES|QL 正式发布、静态加密和向量搜索优化](https://blog.csdn.net/UbuntuTouch/article/details/139502650)
 
++ [【java】速度搭建一个springboot项目](https://blog.csdn.net/qq_49400568/article/details/139534003)
+
++ [【计算机网络】对应用层协议中HTTPS协议的总结](https://blog.csdn.net/xiaoxie8023/article/details/139351977)
+
++ [【Redis】Redis主从复制（一）————主从搭建](https://blog.csdn.net/weixin_37833693/article/details/139527927)
+
++ [使用亮数据代理IP爬取PubMed文章链接和邮箱地址](https://blog.csdn.net/qq_44273429/article/details/139060126)
+
++ [Vue Router 4与路由管理实战](https://blog.csdn.net/qq_42210428/article/details/139533707)
+

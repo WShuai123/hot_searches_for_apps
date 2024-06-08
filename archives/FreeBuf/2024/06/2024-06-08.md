@@ -51,3 +51,5 @@
 
 + [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
 
++ [如何使用Melee检测你的MySQL实例是否感染了恶意软件](https://www.freebuf.com/sectool/402559.html)
+
