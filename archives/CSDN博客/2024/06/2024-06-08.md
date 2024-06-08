@@ -193,3 +193,5 @@
 
 + [尝试用 GPT-4o 写 2024高考语文作文](https://blog.csdn.net/qq_46302361/article/details/139533638)
 
++ [Plotly : 超好用的Python可视化工具](https://blog.csdn.net/sxc1414749109/article/details/139516309)
+
