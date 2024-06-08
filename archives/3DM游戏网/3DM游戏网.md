@@ -193,3 +193,25 @@
 
 + [《Unknown 9: Awakening》故事预告 2024年秋季发售](https://www.3dmgame.com/news/202406/3896872.html)
 
++ [《哈利·波特：魁地奇锦标赛》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3896883.html)
+
++ [《愤怒的大脚》公布最新预告片 7月11日正式发售](https://www.3dmgame.com/news/202406/3896882.html)
+
++ [夏日游戏节：治愈冒险经营模拟《漫游驿站》首曝预告](https://www.3dmgame.com/news/202406/3896881.html)
+
++ [《饿狼传说：狼之城》Steam页面上线 明年发售](https://www.3dmgame.com/news/202406/3896880.html)
+
++ [《暗喻幻想：ReFantazio》 Steam预购 售价298元](https://www.3dmgame.com/news/202406/3896879.html)
+
++ [《恩诺提利亚：终曲》新预告 避开老头环9月正式发售](https://www.3dmgame.com/news/202406/3896877.html)
+
++ [夏日游戏节：治愈系冒险《鹿与男孩》公布首支预告](https://www.3dmgame.com/news/202406/3896878.html)
+
++ [杀手咖啡豆《Killer Bean》预告 今夏开启抢先体验](https://www.3dmgame.com/news/202406/3896876.html)
+
++ [《刺客信条：影》四张新概念图 更多玩法细节曝光](https://www.3dmgame.com/news/202406/3896875.html)
+
++ [《Hyper Light Breaker》EA发售日期预告 深夏发售](https://www.3dmgame.com/news/202406/3896874.html)
+
++ [夏日游戏节：俯视角PvP《诸神大乱斗》6月27日抢先体验](https://www.3dmgame.com/news/202406/3896873.html)
+

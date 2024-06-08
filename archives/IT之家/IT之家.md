@@ -39,3 +39,5 @@
 
 + [（更新价格）R9-7845HX + RTX 4070 首发 6499 元，七彩虹 COLORFIRE MEOW R16 笔记本配置上新](https://m.ithome.com/html/773759.htm)
 
++ [比亚迪王传福：“卷”是自然规律，积极拥抱才能从竞争中走出来](https://m.ithome.com/html/773783.htm)
+
