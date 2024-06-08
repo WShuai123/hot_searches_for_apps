@@ -101,3 +101,11 @@
 
 + [《怪物猎人：荒野》第二支故事预告发布 中字](https://www.3dmgame.com/news/202406/3896853.html)
 
++ [科幻双摇杆纵向射击游戏《CYGNI》8/6发行](https://www.3dmgame.com/news/202406/3896909.html)
+
++ [潜行策略游戏《埃里克斯霍姆：被偷走的梦》公布](https://www.3dmgame.com/news/202406/3896908.html)
+
++ [合作动作冒险游戏《逃离木乃伊》今秋登陆PS5/PC](https://www.3dmgame.com/news/202406/3896907.html)
+
++ [奇幻动作冒险游戏《永恒之链》新预告/截图](https://www.3dmgame.com/news/202406/3896906.html)
+
