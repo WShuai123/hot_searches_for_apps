@@ -239,3 +239,5 @@
 
 + [《心灵杀手2：夜泉镇》DLC多支实机 3个角色命运交错](https://www.3dmgame.com/news/202406/3896891.html)
 
++ [夏日游戏节开场白力挺开发者：请游戏大厂善待他们](https://www.3dmgame.com/news/202406/3896896.html)
+

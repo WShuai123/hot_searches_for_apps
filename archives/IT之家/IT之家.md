@@ -53,3 +53,7 @@
 
 + [小米 SU7 冲出停车场致一死三伤，海口交警通报：系驾驶员操作不当导致](https://m.ithome.com/html/773988.htm)
 
++ [时隔近四年再访高校：华为创始人任正非访问四川大学，余承东陪同](https://m.ithome.com/html/773947.htm)
+
++ [古尔曼：苹果 iOS 18 喜提“Apple Intelligence”，多项 AI 服务将于 WWDC 2024 重磅登场](https://m.ithome.com/html/773887.htm)
+

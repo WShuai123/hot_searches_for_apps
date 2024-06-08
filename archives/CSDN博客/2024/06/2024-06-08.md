@@ -173,3 +173,5 @@
 
 + [【Linux】进程2——管理概念，进程概念](https://blog.csdn.net/2301_80224556/article/details/139530790)
 
++ [GaussDB技术解读——GaussDB架构介绍（一）](https://blog.csdn.net/GaussDB/article/details/139472700)
+
