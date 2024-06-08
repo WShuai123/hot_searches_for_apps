@@ -183,3 +183,7 @@
 
 + [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（二十九）- 微服务(9)](https://blog.csdn.net/qq_64663346/article/details/139526499)
 
++ [【数据集划分】oracle数据集划分（总结版）](https://blog.csdn.net/wtyuong/article/details/139506588)
+
++ [物联网实战--平台篇之(十三)物模型设备端](https://blog.csdn.net/ypp240124016/article/details/139533360)
+

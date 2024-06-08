@@ -59,3 +59,5 @@
 
 + [国内首个：开放麒麟 Android 移动生态兼容运行环境正式开源](https://m.ithome.com/html/773882.htm)
 
++ [比亚迪李云飞：原材料降价不在车价中体现，是对消费者的不道德](https://m.ithome.com/html/773960.htm)
+
