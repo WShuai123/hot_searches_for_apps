@@ -143,3 +143,37 @@
 
 + [2K Games正式宣布《文明7》 2025年推出](https://www.3dmgame.com/news/202406/3896828.html)
 
++ [《怪物猎人：荒野》支持跨平台联机 大量全新截图](https://www.3dmgame.com/news/202406/3896863.html)
+
++ [《黑神话：悟空》Xbox Series版跳票 尚需优化](https://www.3dmgame.com/news/202406/3896864.html)
+
++ [《第一后裔》官宣7月2日正式发售 游戏预告片欣赏](https://www.3dmgame.com/news/202406/3896862.html)
+
++ [《幻兽帕鲁》樱岛更新预告片 6月27日正式发布](https://www.3dmgame.com/news/202406/3896861.html)
+
++ [《心灵杀手2》首个DLC发售日宣传片 6月8日上线](https://www.3dmgame.com/news/202406/3896860.html)
+
++ [《滑板》公布最新预告片 试玩版秋季登陆主机平台](https://www.3dmgame.com/news/202406/3896859.html)
+
++ [《沙丘：觉醒》最新预告片 展示平行世界扭曲节点](https://www.3dmgame.com/news/202406/3896858.html)
+
++ [《The Finals》第三赛季预告片 锁定日本战国主题](https://www.3dmgame.com/news/202406/3896857.html)
+
++ [征服高山峻岭 登山游戏《Cairn》公布最新预告片](https://www.3dmgame.com/news/202406/3896856.html)
+
++ [夏日游戏节：《影之刃零》实机预告片压轴登场](https://www.3dmgame.com/news/202406/3896854.html)
+
++ [越狱大冒险 只有一人开发的《Cuffbust》公布预告片](https://www.3dmgame.com/news/202406/3896855.html)
+
++ [《怪物猎人：荒野》第二支故事预告发布 中字](https://www.3dmgame.com/news/202406/3896853.html)
+
++ [《索尼克×夏特 世代重启》预告片 10月25日登陆全平台](https://www.3dmgame.com/news/202406/3896850.html)
+
++ [《文明7》Steam商店页上线 全新功能8月揭晓](https://www.3dmgame.com/news/202406/3896849.html)
+
++ [前《星际争霸2》设计师公布RTS新作《Battle Aces》](https://www.3dmgame.com/news/202406/3896848.html)
+
++ [《无畏契约》即将登陆主机平台 6月14日开始封测](https://www.3dmgame.com/news/202406/3896852.html)
+
++ [《黑神话：悟空》采用D加密技术 PC配置需求公布](https://www.3dmgame.com/news/202406/3896851.html)
+

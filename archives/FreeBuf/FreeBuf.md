@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 澳大利亚矿业公司披露数据泄露事件；谷歌意外泄露内部文档](https://www.freebuf.com/news/402788.html)
 
++ [FreeBuf 周报 | Telegram泄露3.61亿条记录；纽交所IT系统出现重大技术故障](https://www.freebuf.com/articles/403092.html)
+
++ [如何高效的手工检测是否存在SQL注入？](https://www.freebuf.com/sectool/401750.html)
+

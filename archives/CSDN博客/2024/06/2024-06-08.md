@@ -127,3 +127,9 @@
 
 + [【重磅开源】MapleBoot权限控制使用介绍（菜单权限、按钮权限、数据权限）](https://blog.csdn.net/qq_34988304/article/details/139515319)
 
++ [Javascript系统学习（三）](https://blog.csdn.net/m0_55049655/article/details/139490856)
+
++ [七月份大理站、ACM独立出版、高录用稳检索，2024年云计算与大数据国际学术会议（ICCBD 2024)](https://blog.csdn.net/2301_78893928/article/details/139503477)
+
++ [【微信小程序】连接蓝牙设备](https://blog.csdn.net/m0_46613429/article/details/137496388)
+

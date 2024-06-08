@@ -29,3 +29,5 @@
 
 + [吉利星瑞新增“龙腾版”车型：专属采青配色，9.97 万元](https://m.ithome.com/html/773731.htm)
 
++ [支付宝重磅推出 NFC 碰一碰支付！超过 1000 元需二次确认](https://m.ithome.com/html/773906.htm)
+
