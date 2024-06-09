@@ -45,3 +45,9 @@
 
 + [小米发布问卷调查，澎湃 HyperOS 后台卡片有望推出“堆叠排布”样式](https://m.ithome.com/html/774108.htm)
 
++ [诺基亚 Lumia 920“复活”，聚碳酸酯黄色版 HMD SkyLine 手机海报曝光](https://m.ithome.com/html/774141.htm)
+
++ [年内无望？消息称 AMD、英特尔下一代 GPU 均定于 2025 年初面世，英伟达 RTX 50 系列显卡最快年底官宣](https://m.ithome.com/html/774079.htm)
+
++ [399.99 米长！全球最大集装箱船在江苏南通完成出坞](https://m.ithome.com/html/774112.htm)
+

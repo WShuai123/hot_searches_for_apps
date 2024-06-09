@@ -147,3 +147,7 @@
 
 + [2D太空模拟沙盒新作《Among the Stars》公布](https://www.3dmgame.com/news/202406/3896925.html)
 
++ [《Funko Fusion》发布新预告 20款影视作品齐聚一堂](https://www.3dmgame.com/news/202406/3896930.html)
+
++ [《模拟山羊3》DLC“胡闹多元宇宙”本月正式发售](https://www.3dmgame.com/news/202406/3896929.html)
+
