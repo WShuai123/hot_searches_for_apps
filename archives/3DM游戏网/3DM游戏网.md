@@ -137,3 +137,5 @@
 
 + [NVIDIA桌面GPU市占率飙升至88% Intel已被忽略不计](https://www.3dmgame.com/news/202406/3896923.html)
 
++ [《死侍与金刚狼》好友日新预告 女死侍或将登场](https://www.3dmgame.com/news/202406/3896924.html)
+

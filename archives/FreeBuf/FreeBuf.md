@@ -49,3 +49,5 @@
 
 + [sonarqube使用指北（二）——如何启动一次完整的本地扫描](https://www.freebuf.com/sectool/401576.html)
 
++ [Argus：针对GitHub Actions工作流的安全分析与增强工具](https://www.freebuf.com/sectool/402609.html)
+
