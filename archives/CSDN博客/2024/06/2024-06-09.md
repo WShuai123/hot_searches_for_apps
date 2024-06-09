@@ -183,3 +183,9 @@
 
 + [【机器学习】机器学习引领AI：重塑人类社会的新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/139552471)
 
++ [分享一个用python写的本地WIFI密码查看器](https://blog.csdn.net/qq_19309473/article/details/139551590)
+
++ [Linux——信号](https://blog.csdn.net/2302_78794424/article/details/139388084)
+
++ [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（三十）- 微服务(10)](https://blog.csdn.net/qq_64663346/article/details/139545235)
+

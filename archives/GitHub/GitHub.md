@@ -29,3 +29,29 @@
 
 + [openssl / openssl](https://github.com/openssl/openssl)
 
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
+
++ [nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat)
+
++ [JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+
++ [libretro / RetroArch](https://github.com/libretro/RetroArch)
+
++ [alist-org / alist](https://github.com/alist-org/alist)
+
++ [hcengineering / platform](https://github.com/hcengineering/platform)
+
++ [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [jackyzha0 / quartz](https://github.com/jackyzha0/quartz)
+
++ [FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin)
+
++ [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+

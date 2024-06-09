@@ -51,3 +51,9 @@
 
 + [399.99 米长！全球最大集装箱船在江苏南通完成出坞](https://m.ithome.com/html/774112.htm)
 
++ [中国白富美不爱保时捷了](https://m.ithome.com/html/774138.htm)
+
++ [应用图标也会变色，消息称苹果 iOS 18 深色模式将扩展至主屏幕](https://m.ithome.com/html/774126.htm)
+
++ [“iPhone 显示无可用 SIM 卡”登微博热搜，苹果回应“可手动插拔卡 / 更新运营商配置文件”](https://m.ithome.com/html/774152.htm)
+
