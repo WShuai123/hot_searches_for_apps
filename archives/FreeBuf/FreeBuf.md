@@ -47,3 +47,5 @@
 
 + [乌克兰卫星电视系统攻击事件安全分析](https://www.freebuf.com/articles/paper/402167.html)
 
++ [sonarqube使用指北（二）——如何启动一次完整的本地扫描](https://www.freebuf.com/sectool/401576.html)
+
