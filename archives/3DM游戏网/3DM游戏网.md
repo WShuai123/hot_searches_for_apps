@@ -139,3 +139,11 @@
 
 + [《死侍与金刚狼》好友日新预告 女死侍或将登场](https://www.3dmgame.com/news/202406/3896924.html)
 
++ [致敬经典美式警匪电影 《警区》发布最新预告片](https://www.3dmgame.com/news/202406/3896928.html)
+
++ [《星河战队：灭绝》10月脱离抢先体验 推出正式版本](https://www.3dmgame.com/news/202406/3896926.html)
+
++ [2D平台动作新游《Mariachi Legends》公布预告片](https://www.3dmgame.com/news/202406/3896927.html)
+
++ [2D太空模拟沙盒新作《Among the Stars》公布](https://www.3dmgame.com/news/202406/3896925.html)
+
