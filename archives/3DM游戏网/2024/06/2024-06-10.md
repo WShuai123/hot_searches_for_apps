@@ -101,3 +101,21 @@
 
 + [《96 号公路》制作者新作《Tides of Tomorrow》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202406/3896890.html)
 
++ [《魔兽世界：地心之战》新预告 上市日期公布](https://www.3dmgame.com/news/202406/3896949.html)
+
++ [《辐射76》地图资料片“天际谷”新预告 本周上线](https://www.3dmgame.com/news/202406/3896948.html)
+
++ [《午夜之南》实机预告片 展示主角和她的新伙伴鲶鱼](https://www.3dmgame.com/news/202406/3896946.html)
+
++ [《光与影：33号远征队》公布 2025/10推出](https://www.3dmgame.com/news/202406/3896945.html)
+
++ [《星空》DLC“破碎空间”首发预告片/细节/截图](https://www.3dmgame.com/news/202406/3896944.html)
+
++ [《龙腾世纪4：影障守护者》今秋推出 首发预告](https://www.3dmgame.com/news/202406/3896943.html)
+
++ [《腐烂国度3》Xbox游戏展示会2024预告片](https://www.3dmgame.com/news/202406/3896942.html)
+
++ [《毁灭战士：黑暗时代》面向PS5/XS/PC公布](https://www.3dmgame.com/news/202406/3896941.html)
+
++ [《使命召唤：黑色行动6》10/25发行 新实机展示](https://www.3dmgame.com/news/202406/3896940.html)
+
