@@ -49,3 +49,23 @@
 
 + [This weeks draggin' ????](https://dribbble.com/shots/)
 
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #1](https://dribbble.com/shots/)
+
++ [untitled (Madder Spirit)](https://dribbble.com/shots/)
+
++ [Commission work for Sellou App](https://dribbble.com/shots/)
+
++ [Camerimage Torun](https://dribbble.com/shots/)
+
++ [Hootenanny Illustration](https://dribbble.com/shots/)
+
++ [Summer Slasher Sale - G.A.R.M. Co.](https://dribbble.com/shots/)
+
++ [Dale Brisby - Radiator Rest Stop](https://dribbble.com/shots/)
+
++ [Cat Robot](https://dribbble.com/shots/)
+
