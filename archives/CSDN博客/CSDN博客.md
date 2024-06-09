@@ -163,3 +163,11 @@
 
 + [计网仿真综合实验 实验十二](https://blog.csdn.net/AClerk/article/details/139513212)
 
++ [Spring AI教程（二十二）：更多模型支持与图像、音频处理](https://blog.csdn.net/qq_19749625/article/details/139522845)
+
++ [Docker——容器技术的发展](https://blog.csdn.net/qq_33093885/article/details/139548270)
+
++ [实习记录2](https://blog.csdn.net/qq_44013675/article/details/139498313)
+
++ [五分钟上手IoT小程序](https://blog.csdn.net/csdn565973850/article/details/139548335)
+
