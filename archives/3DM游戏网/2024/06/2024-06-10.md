@@ -119,3 +119,29 @@
 
 + [《使命召唤：黑色行动6》10/25发行 新实机展示](https://www.3dmgame.com/news/202406/3896940.html)
 
++ [网易免费射击新作《FragPunk》公布 加入卡牌设计](https://www.3dmgame.com/news/202406/3896961.html)
+
++ [《刺客信条：影》首个实机演示 男女主角大开杀戒](https://www.3dmgame.com/news/202406/3896962.html)
+
++ [《奇异人生：双重曝光》预告片 10月29日发售](https://www.3dmgame.com/news/202406/3896960.html)
+
++ [黑曜石新作《宣誓》剧情预告片 仍计划在年内发售](https://www.3dmgame.com/news/202406/3896958.html)
+
++ [国产类魂《明末：渊虚之羽》新预告 2025年发售](https://www.3dmgame.com/news/202406/3896959.html)
+
++ [微软公布纯数字版Xbox Series X主机 圣诞档期发售](https://www.3dmgame.com/news/202406/3896957.html)
+
++ [《夺宝奇兵：古老之圈》新预告 将于年内发售](https://www.3dmgame.com/news/202406/3896956.html)
+
++ [《神鬼寓言4》预告片 两家工作室携手开发新作](https://www.3dmgame.com/news/202406/3896954.html)
+
++ [《神话时代：重述版》9/4推出 全新实机演示](https://www.3dmgame.com/news/202406/3896953.html)
+
++ [《完美黑暗》实机预告片公布 正式发售或尚需时日](https://www.3dmgame.com/news/202406/3896952.html)
+
++ [《合金装备Δ：食蛇者》剧情预告片 展示战斗画面](https://www.3dmgame.com/news/202406/3896951.html)
+
++ [《燧石枪：黎明之围》发行日预告片 7/18推出](https://www.3dmgame.com/news/202406/3896950.html)
+
++ [《微软飞行模拟2024》新预告 11月19日正式发售](https://www.3dmgame.com/news/202406/3896955.html)
+

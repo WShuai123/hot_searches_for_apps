@@ -101,3 +101,23 @@
 
 + [【重磅开源】MapleBoot权限控制使用介绍（菜单权限、按钮权限、数据权限）](https://blog.csdn.net/qq_34988304/article/details/139515319)
 
++ [Docker：技术架构演进](https://blog.csdn.net/qq_73899585/article/details/139521196)
+
++ [【深度学习】深度学习之巅：在 CentOS 7 上打造完美Python 3.10 与 PyTorch 2.3.0 环境](https://blog.csdn.net/joeyoj/article/details/138723084)
+
++ [kafka如何保证消息不丢失](https://blog.csdn.net/m0_62645012/article/details/139565489)
+
++ [Docker——容器技术的发展](https://blog.csdn.net/qq_33093885/article/details/139548270)
+
++ [计算机网络 ——网络层（IPv4地址）](https://blog.csdn.net/qq_67693066/article/details/139544024)
+
++ [Docker 管理 | 代理配置、内网共享和 Harbor 部署](https://blog.csdn.net/qq_39517117/article/details/139538771)
+
++ [实习记录2](https://blog.csdn.net/qq_44013675/article/details/139498313)
+
++ [Hadoop笔记](https://blog.csdn.net/HuDie340/article/details/139546024)
+
++ [MySQL之查询性能优化(十一)](https://blog.csdn.net/Cover_sky/article/details/139539538)
+
++ [【AIGC】基于大模型+知识库的Code Review实践](https://blog.csdn.net/luomao2012/article/details/139547328)
+
