@@ -137,3 +137,7 @@
 
 + [【ACFUN声唱云参赛2024】令人心安的 - Nico【栗七浔】](http://www.acfun.cn/v/ac44774687)
 
++ [买一送一【今天有什么好笑的 #1588】](http://www.acfun.cn/v/ac44781614)
+
++ [《Civilization》](http://www.acfun.cn/v/ac44777178)
+

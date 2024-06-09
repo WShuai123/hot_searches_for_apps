@@ -189,3 +189,9 @@
 
 + [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（三十）- 微服务(10)](https://blog.csdn.net/qq_64663346/article/details/139545235)
 
++ [C++中的一些困惑（长期更新中）](https://blog.csdn.net/weixin_40929607/article/details/139552879)
+
++ [Elasticsearch之写入原理以及调优](https://blog.csdn.net/jbjmh/article/details/139551306)
+
++ [计算机组成原理复习笔记](https://blog.csdn.net/Annaaaaa1/article/details/139550575)
+
