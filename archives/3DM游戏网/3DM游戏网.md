@@ -151,3 +151,13 @@
 
 + [《模拟山羊3》DLC“胡闹多元宇宙”本月正式发售](https://www.3dmgame.com/news/202406/3896929.html)
 
++ [今天是《虐杀原形》发售15周年](https://www.3dmgame.com/news/202406/3896935.html)
+
++ [横版魂系动作游戏《曼德拉》玩法介绍视频](https://www.3dmgame.com/news/202406/3896934.html)
+
++ [《龙腾世纪》前创意总监新作《永恒之线》新实机预告](https://www.3dmgame.com/news/202406/3896933.html)
+
++ [《星球大战：亡命之徒》将有GTA那样的通缉机制](https://www.3dmgame.com/news/202406/3896932.html)
+
++ [RTX 50系列移动GPU曝光：最高16GB GDDR7显存](https://www.3dmgame.com/news/202406/3896931.html)
+
