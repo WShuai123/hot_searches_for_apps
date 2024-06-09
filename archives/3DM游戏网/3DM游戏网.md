@@ -109,3 +109,5 @@
 
 + [奇幻动作冒险游戏《永恒之链》新预告/截图](https://www.3dmgame.com/news/202406/3896906.html)
 
++ [《机甲战士5：部落》10月3日发售 PC配置公布](https://www.3dmgame.com/news/202406/3896910.html)
+

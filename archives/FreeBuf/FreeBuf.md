@@ -41,3 +41,7 @@
 
 + [WEB-Wordlist-Generator：为扫描后的Web应用生成相关联的字典](https://www.freebuf.com/sectool/402489.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/403029.html)
+
++ [Dispossessor 勒索软件是否会成为 LockBit 的接班者](https://www.freebuf.com/articles/network/401595.html)
+
