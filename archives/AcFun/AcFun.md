@@ -151,3 +151,7 @@
 
 + [【HJM每周秀】VS【HXD每周秀】](http://www.acfun.cn/v/ac44782303)
 
++ [只有北野武才能拍出的「本能寺之变」，万字详解《首》！](http://www.acfun.cn/v/ac44781067)
+
++ [慵懒女声 寄り酔い 酩酊中与你相依【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44780766)
+

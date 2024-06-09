@@ -195,3 +195,7 @@
 
 + [计算机组成原理复习笔记](https://blog.csdn.net/Annaaaaa1/article/details/139550575)
 
++ [从零入手人工智能（2）——搭建开发环境](https://blog.csdn.net/li_man_man_man/article/details/139537404)
+
++ [计算机网络 —— 网络层（IP数据报）](https://blog.csdn.net/qq_67693066/article/details/139543343)
+
