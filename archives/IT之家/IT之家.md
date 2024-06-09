@@ -31,3 +31,7 @@
 
 + [超过戴尔创始人，英伟达黄仁勋净资产超 1060 亿美元成为世界第 13 大富豪](https://m.ithome.com/html/774029.htm)
 
++ [英伟达 RTX 50 系列移动 GPU 曝光：最高 16GB GDDR7 显存，6 款型号明年强势登场](https://m.ithome.com/html/774084.htm)
+
++ [东方甄选“321 上链接”，俞敏洪痛批：乱七八糟](https://m.ithome.com/html/774013.htm)
+

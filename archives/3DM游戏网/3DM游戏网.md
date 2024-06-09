@@ -129,3 +129,9 @@
 
 + [《渔帆暗涌》第二款DLC“铁岛深渊”8月15日上线](https://www.3dmgame.com/news/202406/3896917.html)
 
++ [IGN法国嘲讽《黑神话》金箍棒：放耳朵里太危险了](https://www.3dmgame.com/news/202406/3896922.html)
+
++ [烧脑大作战 解谜游戏新作《N.O.D.E.》发布新预告](https://www.3dmgame.com/news/202406/3896921.html)
+
++ [国产FPS《三角洲行动》新预告 介绍Alpha测试情报](https://www.3dmgame.com/news/202406/3896920.html)
+
