@@ -69,3 +69,15 @@
 
 + [Cat Robot](https://dribbble.com/shots/)
 
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
++ [Touch of Inspiration](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Swedish Columbia Bus](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
