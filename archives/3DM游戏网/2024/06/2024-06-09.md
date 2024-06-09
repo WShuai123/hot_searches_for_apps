@@ -123,3 +123,9 @@
 
 + [《没人想死》7月17日发售 新实机预告发布](https://www.3dmgame.com/news/202406/3896911.html)
 
++ [《贪婪之秋2：濒死世界》公布12分钟实机演示视频](https://www.3dmgame.com/news/202406/3896918.html)
+
++ [《影之刃零》24分钟现场实机展示战斗系统和多种技巧](https://www.3dmgame.com/news/202406/3896919.html)
+
++ [《渔帆暗涌》第二款DLC“铁岛深渊”8月15日上线](https://www.3dmgame.com/news/202406/3896917.html)
+

@@ -143,3 +143,9 @@
 
 + [【AIGC】基于大模型+知识库的Code Review实践](https://blog.csdn.net/luomao2012/article/details/139547328)
 
++ [AI 写高考作文：10 款大模型，实力水平如何？](https://blog.csdn.net/m0_63947499/article/details/139544614)
+
++ [MySQL与PostgreSQL关键对比一（整体篇）](https://blog.csdn.net/lgbingyu00/article/details/139495826)
+
++ [【栈】2751. 机器人碰撞](https://blog.csdn.net/he_zhidan/article/details/139479009)
+
