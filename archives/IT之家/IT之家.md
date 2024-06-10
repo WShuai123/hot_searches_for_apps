@@ -27,3 +27,5 @@
 
 + [820/1998 元的《黑神话：悟空》PC 实体豪华 / 收藏版今晚 8 点全款预售：附赠 WeGame 游戏兑换码](https://m.ithome.com/html/774292.htm)
 
++ [并未放弃英特尔芯片，苹果 macOS 15 系统硬件要求曝光](https://m.ithome.com/html/774303.htm)
+
