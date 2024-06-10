@@ -49,3 +49,5 @@
 
 + [4K 144Hz 75 英寸：雷鸟鹏 7 Pro 电视 3521 元 6 期免息](https://m.ithome.com/html/774192.htm)
 
++ [6499 元 + 24 期免息：vivo X Fold3 折叠屏手机京东新低](https://m.ithome.com/html/774237.htm)
+

@@ -233,3 +233,5 @@
 
 + [Xbox不会放弃《战争机器4》《战争机器5》的时间线](https://www.3dmgame.com/news/202406/3897005.html)
 
++ [iOS 18蓄势待发细节曝光 应用图标支持深色模式](https://www.3dmgame.com/news/202406/3897007.html)
+
