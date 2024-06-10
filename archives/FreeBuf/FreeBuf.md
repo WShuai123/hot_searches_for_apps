@@ -43,3 +43,5 @@
 
 + [AI助力密码安全：利用机器学习提升密码安全性](https://www.freebuf.com/articles/network/401063.html)
 
++ [对Log4j活动及其XMRig恶意软件的发现](https://www.freebuf.com/articles/network/401548.html)
+
