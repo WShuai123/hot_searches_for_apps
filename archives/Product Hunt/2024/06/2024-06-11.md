@@ -101,3 +101,5 @@
 
 + [Rivit](https://www.producthunt.com/posts/rivit)
 
++ [Elai.io - AI video generation platform](https://www.producthunt.com/posts/elai-io-ai-video-generation-platform)
+
