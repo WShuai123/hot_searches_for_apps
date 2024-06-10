@@ -101,3 +101,29 @@
 
 + [图像处理方向信息](https://blog.csdn.net/kuailebeihun/article/details/139568004)
 
++ [MySQL普通表转换为分区表实战指南](https://blog.csdn.net/qq_26664043/article/details/138453985)
+
++ [Python数据分析与机器学习在电子商务推荐系统中的应用](https://blog.csdn.net/a1657054242/article/details/139580808)
+
++ [【ProjectTitan笔记】Houdini+UE5电缆工具](https://blog.csdn.net/m0_55041773/article/details/139566227)
+
++ [Linux——信号](https://blog.csdn.net/2302_78794424/article/details/139388084)
+
++ [Nginx之正向代理配置示例和说明](https://blog.csdn.net/carefree2005/article/details/138670607)
+
++ [【Linux】匿名管道的应用场景 --- 进程池](https://blog.csdn.net/Weraphael/article/details/139553229)
+
++ [Elasticsearch：Open Crawler 发布技术预览版](https://blog.csdn.net/UbuntuTouch/article/details/139574075)
+
++ [LabVIEW 与组态软件在自动化系统中的应用比较与选择](https://blog.csdn.net/bjcyck/article/details/139564992)
+
++ [量子计算的奥秘与魅力：开启未来科技的钥匙（详解）](https://blog.csdn.net/2303_80856850/article/details/139577417)
+
++ [前端怎么实现跨域请求？](https://blog.csdn.net/m0_54007573/article/details/139553784)
+
++ [AI作画工具介绍](https://blog.csdn.net/ak2111/article/details/139583230)
+
++ [Linux网络命令——tcpdump](https://blog.csdn.net/wang1664178416/article/details/139575191)
+
++ [vue-router全部搞定（附源码）](https://blog.csdn.net/weixin_39570751/article/details/139574286)
+

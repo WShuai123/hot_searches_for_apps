@@ -29,3 +29,5 @@
 
 + [并未放弃英特尔芯片，苹果 macOS 15 系统硬件要求曝光](https://m.ithome.com/html/774303.htm)
 
++ [苹果 iOS 18 正式发布：主屏幕自定义，控制中心改版，卫星短信等重磅功能来袭](https://m.ithome.com/html/774320.htm)
+
