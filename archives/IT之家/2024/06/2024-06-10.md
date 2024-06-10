@@ -35,3 +35,5 @@
 
 + [“PC 不属于游戏机分类”，苹果 iOS 平台 App Store 拒绝 UTM 模拟器上架申请](https://m.ithome.com/html/774198.htm)
 
++ [郭明錤：iOS 18 发布后，苹果将不再被视为 AI 行业的落后者](https://m.ithome.com/html/774219.htm)
+

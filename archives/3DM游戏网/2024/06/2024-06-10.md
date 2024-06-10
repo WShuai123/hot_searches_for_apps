@@ -217,3 +217,5 @@
 
 + [美媒锐评苹果进军AI真实目的 并不是为了用户](https://www.3dmgame.com/news/202406/3896997.html)
 
++ [《使命召唤：黑色行动6》所有模式均需全程联网游戏](https://www.3dmgame.com/news/202406/3896999.html)
+
