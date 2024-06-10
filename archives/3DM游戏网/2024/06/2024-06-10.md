@@ -249,3 +249,7 @@
 
 + [《龙腾世纪：影障守护者》全新游戏截图发布](https://www.3dmgame.com/news/202406/3897014.html)
 
++ [《合金装备Delta：食蛇者》和原版游戏画面对比](https://www.3dmgame.com/news/202406/3897016.html)
+
++ [RTS游戏《蚂蚁帝国》11月7日发售 推荐RTX 3080显卡](https://www.3dmgame.com/news/202406/3897015.html)
+

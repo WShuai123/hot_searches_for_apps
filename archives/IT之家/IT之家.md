@@ -59,3 +59,11 @@
 
 + [体态僵硬，男子藏 50 台手机入境被海关查获](https://m.ithome.com/html/774275.htm)
 
++ [消息称苹果 iOS 18 依然兼容 iPhone XR / XS / XS Max 机型](https://m.ithome.com/html/774290.htm)
+
++ [支持 Type-C 充电宝供电：小米直流变频落地扇 1X 升级版 249 元发车](https://m.ithome.com/html/774287.htm)
+
++ [华为回应“投资柔宇”：未有此计划，也未提出投资要求](https://m.ithome.com/html/774286.htm)
+
++ [超百万人预约，《黑神话：悟空》PC 实体豪华 / 收藏版首批预售“秒罄”](https://m.ithome.com/html/774298.htm)
+
