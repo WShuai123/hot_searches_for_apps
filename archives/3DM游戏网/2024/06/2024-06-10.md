@@ -241,3 +241,9 @@
 
 + [《暗黑4：憎恨之躯》中文官网上线 全新职业、全新地区、更多剧情](https://www.3dmgame.com/news/202406/3897010.html)
 
++ [迪士尼收购了BioWare？《龙腾世纪：影障守护者》首个预告遭差评轰炸](https://www.3dmgame.com/news/202406/3897012.html)
+
++ [硬盘还吃得住吗？《使命召唤21》主机版需309GB](https://www.3dmgame.com/news/202406/3897013.html)
+
++ [《使命召唤21》故事背景和战役模式剧情概要发布](https://www.3dmgame.com/news/202406/3897011.html)
+
