@@ -87,3 +87,11 @@
 
 + [Summer Slasher Sale - G.A.R.M. Co.](https://dribbble.com/shots/)
 
++ [Haven House Master Logo](https://dribbble.com/shots/)
+
++ [Woodland Critter](https://dribbble.com/shots/)
+
++ [Snake Rum - Taipan](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
