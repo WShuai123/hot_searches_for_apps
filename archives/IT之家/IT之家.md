@@ -41,3 +41,7 @@
 
 + [搭载 HarmonyOS 2 + 麒麟 710A 处理器，华为海外推出 MatePad SE 11" 平板电脑](https://m.ithome.com/html/774158.htm)
 
++ [挪威公司称发现欧洲最大稀土矿，总储量高达 880 万吨](https://m.ithome.com/html/774226.htm)
+
++ [先马推出“小坚果”M-ATX 台式机箱：黑白双色、自带提手，售 59.9 元](https://m.ithome.com/html/774201.htm)
+

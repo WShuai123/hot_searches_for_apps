@@ -219,3 +219,13 @@
 
 + [《使命召唤：黑色行动6》所有模式均需全程联网游戏](https://www.3dmgame.com/news/202406/3896999.html)
 
++ [《Canyons》Steam页面上线 第三人称射击生存](https://www.3dmgame.com/news/202406/3897004.html)
+
++ [《Reka》确定8月Steam抢测 女巫成长传说冒险](https://www.3dmgame.com/news/202406/3897003.html)
+
++ [《毁灭战士：黑暗时代》登陆PS5只因系列历来如此](https://www.3dmgame.com/news/202406/3897002.html)
+
++ [菲尔·斯宾塞谈旗下工作室关闭：必须有人做这个决定](https://www.3dmgame.com/news/202406/3897001.html)
+
++ [《last Moon》试玩演示公开 复古风动作RPG新游](https://www.3dmgame.com/news/202406/3897000.html)
+

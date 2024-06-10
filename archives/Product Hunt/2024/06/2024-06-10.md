@@ -109,3 +109,15 @@
 
 + [Afforai](https://www.producthunt.com/posts/afforai-3)
 
++ [Luna Ring](https://www.producthunt.com/posts/luna-ring)
+
++ [GitKraken's DevEx Platform](https://www.producthunt.com/posts/gitkraken-s-devex-platform)
+
++ [PhotoCaption](https://www.producthunt.com/posts/photocaption)
+
++ [Acalytica](https://www.producthunt.com/posts/acalytica)
+
++ [tak.chat for Shopify](https://www.producthunt.com/posts/tak-chat-for-shopify)
+
++ [Elai](https://www.producthunt.com/posts/elai)
+
