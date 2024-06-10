@@ -145,3 +145,43 @@
 
 + [《微软飞行模拟2024》新预告 11月19日正式发售](https://www.3dmgame.com/news/202406/3896955.html)
 
++ [《星际卡车司机》新增Xbox Series版本 9月发售](https://www.3dmgame.com/news/202406/3896982.html)
+
++ [青少年主题冒险游戏《混音带》公布 2025年发售](https://www.3dmgame.com/news/202406/3896981.html)
+
++ [《完美黑暗》首批截图公开 真正的秘密特工幻想](https://www.3dmgame.com/news/202406/3896980.html)
+
++ [足球大亨新作《Copa City》公布 管理大型赛事后勤](https://www.3dmgame.com/news/202406/3896979.html)
+
++ [《暗黑破坏神4：憎恨之躯》Steam预购开启 标准版278元](https://www.3dmgame.com/news/202406/3896973.html)
+
++ [《战争机器：E-Day》首批截图公布 虚幻5打造](https://www.3dmgame.com/news/202406/3896977.html)
+
++ [体验百味人生 《Streets of Fortuna》公布预告片](https://www.3dmgame.com/news/202406/3896978.html)
+
++ [《神鬼寓言4》Steam商店页上线 新截图公开](https://www.3dmgame.com/news/202406/3896976.html)
+
++ [恐怖FPS游戏《杀戮间3》公布 2025年初发售](https://www.3dmgame.com/news/202406/3896975.html)
+
++ [《风暴之门》预告片 抢先体验版8月13日上线](https://www.3dmgame.com/news/202406/3896974.html)
+
++ [《神话时代：重述版》Steam国区148元 支持跨平台联机](https://www.3dmgame.com/news/202406/3896972.html)
+
++ [四人合作科幻射击游戏《Polaris》公布 登陆PC Steam](https://www.3dmgame.com/news/202406/3896967.html)
+
++ [《战争机器：E-Day》首部预告 系列前传虚幻5打造](https://www.3dmgame.com/news/202406/3896966.html)
+
++ [《地痞街区2》预告片 抢先体验版上市日期公布！](https://www.3dmgame.com/news/202406/3896969.html)
+
++ [《使命召唤21：黑色行动6》Steam开启预购 标准版488元](https://www.3dmgame.com/news/202406/3896968.html)
+
++ [《钢铁之种》新预告介绍故事情节和不同战斗画面](https://www.3dmgame.com/news/202406/3896971.html)
+
++ [《腐烂国度3》Steam商店页上线 支持简体中文、首批截图](https://www.3dmgame.com/news/202406/3896970.html)
+
++ [《潜行者2》新中文实机演示 探索异常区大战危险敌人](https://www.3dmgame.com/news/202406/3896965.html)
+
++ [《暗黑破坏神4》DLC憎恨之躯全新预告 10月8日上线](https://www.3dmgame.com/news/202406/3896964.html)
+
++ [国产机甲游戏《解限机》新预告 8月面向Xbox开测](https://www.3dmgame.com/news/202406/3896963.html)
+

@@ -121,3 +121,19 @@
 
 + [【AIGC】基于大模型+知识库的Code Review实践](https://blog.csdn.net/luomao2012/article/details/139547328)
 
++ [【02数据库与小模型篇】0到1打造基于文心大模型和飞桨小模型的智能在线编辑器](https://blog.csdn.net/weixin_38898884/article/details/139520644)
+
++ [Python进阶-部署Flask项目(以TensorFlow图像识别项目WSGI方式启动为例)](https://blog.csdn.net/weixin_41793160/article/details/139565374)
+
++ [【PL理论】(14) 形式化语义： ↦ 符号 | PL 符号教学 | 命令式的编程语言 C- | 上下文无关语法 (CFG) | 从 Lambda 表达式的 λ 演算聊聊 Maplet 符号存在的意义](https://blog.csdn.net/weixin_50502862/article/details/139563698)
+
++ [【Linux】匿名管道的应用场景 --- 进程池](https://blog.csdn.net/Weraphael/article/details/139553229)
+
++ [网络学了点socket,写个聊天室,还得改进](https://blog.csdn.net/2303_78660611/article/details/139559965)
+
++ [SpringBootWeb 篇-深入了解 AOP 面向切面编程与 AOP 记录操作日志案例](https://blog.csdn.net/Tingfeng__/article/details/139392655)
+
++ [【适配鸿蒙next】Flutter 新一代混合栈管理框架](https://blog.csdn.net/m0_71506521/article/details/139529808)
+
++ [高考分数查询结果自动推送至微信（卷Ⅰ）](https://blog.csdn.net/chinagaobo/article/details/139537778)
+

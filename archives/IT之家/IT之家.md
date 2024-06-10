@@ -25,3 +25,7 @@
 
 + [399.99 米长！全球最大集装箱船在江苏南通完成出坞](https://m.ithome.com/html/774112.htm)
 
++ [小米 15 Pro 手机影像规格曝光：后置 50MP 三摄，主摄采用豪威 OV50K](https://m.ithome.com/html/774187.htm)
+
++ [男子 3.7 万元法拍 8888 手机靓号又悔拍，自称没看清公告内容](https://m.ithome.com/html/774186.htm)
+
