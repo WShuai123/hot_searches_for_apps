@@ -229,3 +229,7 @@
 
 + [《last Moon》试玩演示公开 复古风动作RPG新游](https://www.3dmgame.com/news/202406/3897000.html)
 
++ [《勇闯死人谷：暗黑之日》新预告 试玩版10月发布](https://www.3dmgame.com/news/202406/3897006.html)
+
++ [Xbox不会放弃《战争机器4》《战争机器5》的时间线](https://www.3dmgame.com/news/202406/3897005.html)
+
