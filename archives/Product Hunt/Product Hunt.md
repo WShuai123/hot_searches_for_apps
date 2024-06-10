@@ -103,3 +103,5 @@
 
 + [Elai.io - AI video generation platform](https://www.producthunt.com/posts/elai-io-ai-video-generation-platform)
 
++ [Apple Intelligence](https://www.producthunt.com/posts/apple-intelligence)
+
