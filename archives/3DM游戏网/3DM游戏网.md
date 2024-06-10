@@ -109,3 +109,11 @@
 
 + [黄仁勋不淡定！华为这款AI芯片已成功超越英伟达](https://www.3dmgame.com/news/202406/3897018.html)
 
++ [《波斯王子：失落的王冠》剧情DLC“黑暗面具”9月推出](https://www.3dmgame.com/news/202406/3897024.html)
+
++ [《星球大战：亡命之徒》两段新视频公布](https://www.3dmgame.com/news/202406/3897023.html)
+
++ [《波斯王子：时之砂》重制版现已定于2026年发行](https://www.3dmgame.com/news/202406/3897022.html)
+
++ [育碧分享13分钟时长《刺客信条：影》加长版实机演示](https://www.3dmgame.com/news/202406/3897021.html)
+
