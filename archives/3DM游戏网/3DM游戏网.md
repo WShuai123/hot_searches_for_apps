@@ -235,3 +235,7 @@
 
 + [iOS 18蓄势待发细节曝光 应用图标支持深色模式](https://www.3dmgame.com/news/202406/3897007.html)
 
++ [《尼尔：机械纪元》2B最新手办公开 精致酷炫可摘眼罩](https://www.3dmgame.com/news/202406/3897009.html)
+
++ [斯宾塞谈传闻中的Xbox掌机：要有本地运行游戏的能力](https://www.3dmgame.com/news/202406/3897008.html)
+

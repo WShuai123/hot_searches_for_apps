@@ -37,3 +37,31 @@
 
 + [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [google / mesop](https://github.com/google/mesop)
+
++ [DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+
++ [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [mahdibland / V2RayAggregator](https://github.com/mahdibland/V2RayAggregator)
+
++ [microsoft / winget-pkgs](https://github.com/microsoft/winget-pkgs)
+
++ [roboflow / notebooks](https://github.com/roboflow/notebooks)
+
++ [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [karpathy / nanoGPT](https://github.com/karpathy/nanoGPT)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [huggingface / lerobot](https://github.com/huggingface/lerobot)
+

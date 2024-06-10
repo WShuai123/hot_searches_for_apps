@@ -193,3 +193,11 @@
 
 + [HTML做成一个端午节炫酷页面](https://blog.csdn.net/qq_33851668/article/details/139564435)
 
++ [Pytorch 实现目标检测一（Pytorch 23）](https://blog.csdn.net/March_A/article/details/139563478)
+
++ [【微服务】springcloud-alibaba 配置多环境管理使用详解](https://blog.csdn.net/zhangcongyi420/article/details/139561927)
+
++ [【RabbitMQ】RabbitMQ配置与交换机学习](https://blog.csdn.net/weixin_73588491/article/details/139574795)
+
++ [System Verilog实现流水灯](https://blog.csdn.net/wakeup_high/article/details/139536882)
+

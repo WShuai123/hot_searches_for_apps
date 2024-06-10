@@ -51,3 +51,5 @@
 
 + [6499 元 + 24 期免息：vivo X Fold3 折叠屏手机京东新低](https://m.ithome.com/html/774237.htm)
 
++ [（更新：华为已否认）柔宇前独董刘姝威：创始人刘自鸿曾拒绝华为投资，错失拯救公司的机会](https://m.ithome.com/html/774279.htm)
+
