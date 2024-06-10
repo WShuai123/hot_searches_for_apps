@@ -201,3 +201,9 @@
 
 + [System Verilog实现流水灯](https://blog.csdn.net/wakeup_high/article/details/139536882)
 
++ [Nginx之正向代理配置示例和说明](https://blog.csdn.net/carefree2005/article/details/138670607)
+
++ [网络网络层之(6)ICMPv6协议](https://blog.csdn.net/Once_day/article/details/139576663)
+
++ [计算机网络：数据链路层 - 扩展的以太网](https://blog.csdn.net/fsdfafsdsd/article/details/137205303)
+
