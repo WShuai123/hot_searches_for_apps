@@ -169,3 +169,15 @@
 
 + [VUE + nodejs实战](https://blog.csdn.net/qq_30220519/article/details/139567313)
 
++ [Pytorch 实现目标检测二（Pytorch 24）](https://blog.csdn.net/March_A/article/details/139565452)
+
++ [【清华大学】《自然语言处理》（刘知远）课程笔记 ——NLP Basics](https://blog.csdn.net/zkkzpp258/article/details/139560618)
+
++ [预处理详解](https://blog.csdn.net/Mr_Xuhhh/article/details/139558682)
+
++ [html5实现个人网站源码](https://blog.csdn.net/weixin_43151418/article/details/139564407)
+
++ [高速USB转串口芯片CH343](https://blog.csdn.net/USALCD/article/details/139565441)
+
++ [燃料电池汽车践行者](https://blog.csdn.net/CSSUST/article/details/139548502)
+

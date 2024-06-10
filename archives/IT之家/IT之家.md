@@ -37,3 +37,7 @@
 
 + [郭明錤：iOS 18 发布后，苹果将不再被视为 AI 行业的落后者](https://m.ithome.com/html/774219.htm)
 
++ [秦 L 同款前脸，比亚迪宋 L DM-i 伪装实车曝光](https://m.ithome.com/html/774233.htm)
+
++ [搭载 HarmonyOS 2 + 麒麟 710A 处理器，华为海外推出 MatePad SE 11" 平板电脑](https://m.ithome.com/html/774158.htm)
+

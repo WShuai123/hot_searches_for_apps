@@ -47,3 +47,5 @@
 
 + [警惕GitHub恶意病毒项目，持续活跃释放远控木马](https://www.freebuf.com/articles/paper/402108.html)
 
++ [BounceBack：一款针对红队操作的安全性增强重定向工具](https://www.freebuf.com/sectool/403011.html)
+

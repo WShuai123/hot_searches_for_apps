@@ -103,3 +103,9 @@
 
 + [Standup](https://www.producthunt.com/posts/standup-2)
 
++ [Alva AI - Sidebar Chrome extension](https://www.producthunt.com/posts/alva-ai-sidebar-chrome-extension)
+
++ [Active Recall](https://www.producthunt.com/posts/active-recall)
+
++ [Afforai](https://www.producthunt.com/posts/afforai-3)
+
