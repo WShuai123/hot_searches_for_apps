@@ -57,3 +57,5 @@
 
 + [小米智能摄像机 C500 双摄版发布：AI 双摄联动，众筹价 319 元](https://m.ithome.com/html/774239.htm)
 
++ [体态僵硬，男子藏 50 台手机入境被海关查获](https://m.ithome.com/html/774275.htm)
+

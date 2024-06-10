@@ -207,3 +207,9 @@
 
 + [计算机网络：数据链路层 - 扩展的以太网](https://blog.csdn.net/fsdfafsdsd/article/details/137205303)
 
++ [【微信小程序开发（从零到一）】——个人中心页面的实战项目（二）](https://blog.csdn.net/2301_77628600/article/details/139523982)
+
++ [探索国内大模型AIGC产品](https://blog.csdn.net/double222222/article/details/139566487)
+
++ [计网总结☞应用层](https://blog.csdn.net/weixin_73223235/article/details/139371718)
+
