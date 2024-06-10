@@ -33,3 +33,5 @@
 
 + [消息称小米 Redmi K80 系列手机正全系测试 2K 纯直屏，拥有联名款机型](https://m.ithome.com/html/774157.htm)
 
++ [“PC 不属于游戏机分类”，苹果 iOS 平台 App Store 拒绝 UTM 模拟器上架申请](https://m.ithome.com/html/774198.htm)
+

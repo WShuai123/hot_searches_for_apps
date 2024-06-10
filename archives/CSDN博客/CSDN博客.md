@@ -149,3 +149,13 @@
 
 + [适用于电脑的 5 大嗨格式数据恢复替代方案](https://blog.csdn.net/qq_23996309/article/details/139559907)
 
++ [【机器学习】Qwen2大模型原理、训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/139564359)
+
++ [【DevOps】VyOS：功能强大的开源网络操作系统和实战](https://blog.csdn.net/benshu_001/article/details/139566502)
+
++ [MySQL周内训参照1、ER实体关系图与数据库模型图绘制](https://blog.csdn.net/feng8403000/article/details/139563543)
+
++ [【Web世界探险家】3. CSS美学（二）文本样式](https://blog.csdn.net/QQ3447387928/article/details/139574607)
+
++ [【线性代数】【一】1.3 消元法的矩阵表示与初等变换](https://blog.csdn.net/liuyider/article/details/139364420)
+

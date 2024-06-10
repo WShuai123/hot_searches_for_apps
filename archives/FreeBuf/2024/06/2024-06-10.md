@@ -45,3 +45,5 @@
 
 + [对Log4j活动及其XMRig恶意软件的发现](https://www.freebuf.com/articles/network/401548.html)
 
++ [警惕GitHub恶意病毒项目，持续活跃释放远控木马](https://www.freebuf.com/articles/paper/402108.html)
+
