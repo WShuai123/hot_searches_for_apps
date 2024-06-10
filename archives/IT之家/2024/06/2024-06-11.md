@@ -25,3 +25,5 @@
 
 + [体态僵硬，男子藏 50 台手机入境被海关查获](https://m.ithome.com/html/774275.htm)
 
++ [820/1998 元的《黑神话：悟空》PC 实体豪华 / 收藏版今晚 8 点全款预售：附赠 WeGame 游戏兑换码](https://m.ithome.com/html/774292.htm)
+

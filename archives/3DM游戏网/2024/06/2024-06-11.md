@@ -101,3 +101,11 @@
 
 + [《战争机器：E-Day》首部预告 系列前传虚幻5打造](https://www.3dmgame.com/news/202406/3896966.html)
 
++ [《生化7》7月2日登陆IOS 《生化2：RE》IOS版正在开发](https://www.3dmgame.com/news/202406/3897019.html)
+
++ [《合金弹头：战略版》6分钟演示 今秋发售](https://www.3dmgame.com/news/202406/3897020.html)
+
++ [没抢到不要急！《黑神话：悟空》第二波预购明日开启](https://www.3dmgame.com/news/202406/3897017.html)
+
++ [黄仁勋不淡定！华为这款AI芯片已成功超越英伟达](https://www.3dmgame.com/news/202406/3897018.html)
+
