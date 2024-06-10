@@ -31,3 +31,5 @@
 
 + [“考后喜提新机”话题登微博热搜，你高考后第一部手机是什么？](https://m.ithome.com/html/774193.htm)
 
++ [消息称小米 Redmi K80 系列手机正全系测试 2K 纯直屏，拥有联名款机型](https://m.ithome.com/html/774157.htm)
+

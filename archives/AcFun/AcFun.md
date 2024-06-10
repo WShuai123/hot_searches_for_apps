@@ -67,3 +67,15 @@
 
 + [【东方】千年幻想乡 ～ History of the Moo【NyxTheShield Remix】](http://www.acfun.cn/v/ac44773966)
 
++ [朕要做昏君！！！★手机竖屏1177★](http://www.acfun.cn/v/ac44784449)
+
++ [【粤语翻唱】听说那个《遇见》和《言叶之庭》很配的？【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44785433)
+
++ [【风筝误｜祖瑜兄】听雨声 数几声 风回来？](http://www.acfun.cn/v/ac44780150)
+
++ [翠鸟大口吃肉，太可爱了](http://www.acfun.cn/v/ac44780494)
+
++ [【开箱】铂金专辑](http://www.acfun.cn/v/ac44785028)
+
++ [盛夏的Chocolate Love！](http://www.acfun.cn/v/ac44784558)
+

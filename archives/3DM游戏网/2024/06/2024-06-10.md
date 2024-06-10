@@ -211,3 +211,9 @@
 
 + [《ALOFT》公布多人联机宣传片 合作沙盒生存](https://www.3dmgame.com/news/202406/3896994.html)
 
++ [《千锤百炼》公布新宣传片 开放世界生存制作](https://www.3dmgame.com/news/202406/3896998.html)
+
++ [Xbox游戏发布会消息汇总 多款重磅大作展示](https://www.3dmgame.com/news/202406/3896996.html)
+
++ [美媒锐评苹果进军AI真实目的 并不是为了用户](https://www.3dmgame.com/news/202406/3896997.html)
+
