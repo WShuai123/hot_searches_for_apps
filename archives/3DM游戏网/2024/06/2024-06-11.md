@@ -179,3 +179,15 @@
 
 + [《异变交叉点：涩谷》Steam页面上线 惊悚解谜](https://www.3dmgame.com/news/202406/3897051.html)
 
++ [玩家对《奇异人生：双重曝光》终极版可提前游玩的做法表达不满](https://www.3dmgame.com/news/202406/3897061.html)
+
++ [苹果终于放出AI大招！但中国iPhone用户今年用不上](https://www.3dmgame.com/news/202406/3897060.html)
+
++ [人气名作《神之水滴》漫改新游《创造神之水滴》Steam上线](https://www.3dmgame.com/news/202406/3897059.html)
+
++ [《合金弹头：战略版》试玩版上线Steam 限时体验](https://www.3dmgame.com/news/202406/3897058.html)
+
++ [《英雄传说：界之轨迹》中文官网上线 2024年年内发售](https://www.3dmgame.com/news/202406/3897056.html)
+
++ [iOS18集成ChatGPT还不够 苹果还希望集成谷歌AI](https://www.3dmgame.com/news/202406/3897057.html)
+

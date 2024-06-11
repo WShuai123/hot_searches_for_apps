@@ -47,3 +47,9 @@
 
 + [2024HW | 常见红队使用工具](https://www.freebuf.com/sectool/402023.html)
 
++ [云存储提供商 Snowflake 数据泄露，165 家组织受影响](https://www.freebuf.com/news/403193.html)
+
++ [Forescout报告显示：物联网漏洞激增，成为黑客攻击的关键切入点](https://www.freebuf.com/news/403145.html)
+
++ [《纽约时报》泄露270G数据，包含内部源代码](https://www.freebuf.com/news/403176.html)
+
