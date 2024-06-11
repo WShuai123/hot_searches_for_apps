@@ -41,3 +41,5 @@
 
 + [苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://m.ithome.com/html/774317.htm)
 
++ [有史以来最大更新，苹果 iOS 18 照片应用 UI 大改、引入背景元素清除 AI 工具](https://m.ithome.com/html/774344.htm)
+

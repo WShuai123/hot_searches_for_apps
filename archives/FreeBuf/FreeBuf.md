@@ -45,3 +45,5 @@
 
 + [GitHub Actions不当操作导致的隐私泄露](https://www.freebuf.com/articles/es/402937.html)
 
++ [2024HW | 常见红队使用工具](https://www.freebuf.com/sectool/402023.html)
+
