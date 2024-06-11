@@ -57,3 +57,5 @@
 
 + [大选开始之际，欧盟各政党遭受 DDoS 攻击](https://www.freebuf.com/news/403170.html)
 
++ [VirtFuzz：一款基于VirtIO的Linux内核模糊测试工具](https://www.freebuf.com/sectool/402957.html)
+

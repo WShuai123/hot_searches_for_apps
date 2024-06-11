@@ -105,3 +105,43 @@
 
 + [Apple Intelligence](https://www.producthunt.com/posts/apple-intelligence)
 
++ [MacOS Sequoia](https://www.producthunt.com/posts/macos-sequoia)
+
++ [iOS 18](https://www.producthunt.com/posts/ios-18)
+
++ [FuryPage](https://www.producthunt.com/posts/furypage-1)
+
++ [Solo AI Website Creator](https://www.producthunt.com/posts/solo-ai-website-creator)
+
++ [Sparlit](https://www.producthunt.com/posts/sparlit)
+
++ [Adderpad](https://www.producthunt.com/posts/adderpad)
+
++ [WhereThings](https://www.producthunt.com/posts/wherethings)
+
++ [Music News](https://www.producthunt.com/posts/music-news)
+
++ [LalaPass](https://www.producthunt.com/posts/lalapass)
+
++ [Dila](https://www.producthunt.com/posts/dila)
+
++ [thinl.ink](https://www.producthunt.com/posts/thinl-ink)
+
++ [Invisibility](https://www.producthunt.com/posts/invisibility)
+
++ [Quick Note](https://www.producthunt.com/posts/quick-note-2)
+
++ [NO BROWSE FOR YOU!](https://www.producthunt.com/posts/no-browse-for-you)
+
++ [TeamCreate: Multi-function AI workers](https://www.producthunt.com/posts/teamcreate-multi-function-ai-workers)
+
++ [Lettre.app](https://www.producthunt.com/posts/lettre-app-2)
+
++ [Socially](https://www.producthunt.com/posts/socially-4)
+
++ [Onboard](https://www.producthunt.com/posts/onboard-8)
+
++ [Mapify (formerly Chatmind)](https://www.producthunt.com/posts/mapify-formerly-chatmind)
+
++ [JustBackend](https://www.producthunt.com/posts/justbackend)
+

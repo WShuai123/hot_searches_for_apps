@@ -159,3 +159,17 @@
 
 + [自动驾驶跟驰仿真](https://blog.csdn.net/qq_45191106/article/details/139579158)
 
++ [路径规划 | 图解遗传(GA)算法(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/139582483)
+
++ [GaussDB技术解读——GaussDB架构介绍（二）](https://blog.csdn.net/GaussDB/article/details/139503890)
+
++ [【机器学习】机器学习引领AI：重塑人类社会的新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/139552471)
+
++ [Python酷库之旅-开启库房之门](https://blog.csdn.net/ygb_1024/article/details/139582527)
+
++ [哈喽GPT-4o——对GPT-4o Prompt的思考与看法](https://blog.csdn.net/guorui_java/article/details/139587105)
+
++ [第26讲：Ceph集群OSD扩缩容中Reblanceing数据重分布](https://blog.csdn.net/weixin_44953658/article/details/139586835)
+
++ [Linux操作系统学习：day01](https://blog.csdn.net/qq_45545681/article/details/139583390)
+

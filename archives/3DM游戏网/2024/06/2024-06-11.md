@@ -195,3 +195,11 @@
 
 + [Atlus官宣《暗喻幻想》撤换声优古谷彻 疑因出轨丑闻](https://www.3dmgame.com/news/202406/3897062.html)
 
++ [《冴子：女巨人约会模拟》试玩发布 奇葩题材恋爱冒险](https://www.3dmgame.com/news/202406/3897067.html)
+
++ [动画《异世界自杀小队》6月27日开播 首日更新三集](https://www.3dmgame.com/news/202406/3897064.html)
+
++ [卡普空的定价哲学：首发定价60美元 5年后降至10美元 最终降为5美元](https://www.3dmgame.com/news/202406/3897065.html)
+
++ [手绘风治愈系解谜游戏《阿蛋等什么》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897066.html)
+
