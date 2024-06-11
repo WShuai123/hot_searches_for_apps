@@ -237,3 +237,11 @@
 
 + [欧美流行“笨手机” 功能有限有效减少看屏幕欲望](https://www.3dmgame.com/news/202406/3897084.html)
 
++ [美国前总统太真实了：我将永远不会封禁TikTok！](https://www.3dmgame.com/news/202406/3897088.html)
+
++ [玩家福利：购铭瑄指定RTX40系可获赠《黑神话：悟空》](https://www.3dmgame.com/news/202406/3897087.html)
+
++ [苹果、英伟达等大厂包下台积电3纳米产能：订单排到2026年](https://www.3dmgame.com/news/202406/3897086.html)
+
++ [日本一首部游戏《拼图世界》上架Steam 30年PS名作](https://www.3dmgame.com/news/202406/3897085.html)
+

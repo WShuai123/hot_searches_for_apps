@@ -39,3 +39,27 @@
 
 + [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
 
++ [piku / piku](https://github.com/piku/piku)
+
++ [openai / gpt-2](https://github.com/openai/gpt-2)
+
++ [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
+
++ [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
+
++ [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
++ [jackyzha0 / quartz](https://github.com/jackyzha0/quartz)
+
++ [aws / amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
+
++ [litestar-org / litestar](https://github.com/litestar-org/litestar)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [python-poetry / poetry](https://github.com/python-poetry/poetry)
+
++ [tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
++ [EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+

@@ -193,3 +193,9 @@
 
 + [2024年高考作文考人工智能，人工智能写作文能否得高分](https://blog.csdn.net/BROKEN__Y/article/details/139577877)
 
++ [【pytorch】深度学习模型在迁移学习、模型微调和模型部署时函数加载 torch.load()](https://blog.csdn.net/qq_38614074/article/details/139595230)
+
++ [移动端浏览器的扫描二维码实现（vue-qrcode-reader与jsQR方式）](https://blog.csdn.net/qq_52395343/article/details/139525514)
+
++ [快准稳的文档解析工具，帮助构建性能优越的金融领域知识库问答产品](https://blog.csdn.net/INTSIG/article/details/139592352)
+

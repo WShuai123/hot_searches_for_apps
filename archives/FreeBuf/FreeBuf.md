@@ -69,3 +69,5 @@
 
 + [耗资上亿购买零日漏洞，全球商业间谍软件正在野蛮生长](https://www.freebuf.com/articles/neopoints/403223.html)
 
++ [苹果AI的选择，“有人味”的GPT-4o，会像三体人一样学会欺骗吗？](https://www.freebuf.com/articles/403253.html)
+
