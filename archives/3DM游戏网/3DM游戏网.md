@@ -203,3 +203,15 @@
 
 + [手绘风治愈系解谜游戏《阿蛋等什么》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897066.html)
 
++ [《魔兽世界》国服开启删档技术测试 玩家太热情服务器被挤爆](https://www.3dmgame.com/news/202406/3897073.html)
+
++ [KK官方对战平台超爽新图上线 一起来《轮回小队》快乐割草吧！](https://www.3dmgame.com/news/202406/3897069.html)
+
++ [夏日狂欢来袭，《极限竞速：地平线5》享五折！](https://www.3dmgame.com/news/202406/3897072.html)
+
++ [细思极恐！单人剧本杀推凶游戏《子归》试玩今日上线！](https://www.3dmgame.com/news/202406/3897071.html)
+
++ [KK官方对战平台S9震撼来袭 500%超值豪华战令奖励等你来拿！](https://www.3dmgame.com/news/202406/3897070.html)
+
++ [更多3A游戏即将登陆苹果设备：《幻兽帕鲁》等](https://www.3dmgame.com/news/202406/3897068.html)
+
