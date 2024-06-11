@@ -29,3 +29,9 @@
 
 + [首发第五代 DM 技术，消息称比亚迪秦 L + 海豹 06 汽车累计新增订单已破 8 万](https://m.ithome.com/html/774503.htm)
 
++ [苹果 iOS 18 更新细节内容一览：App 隐藏名称、手电筒光照宽度可调节](https://m.ithome.com/html/774530.htm)
+
++ [消息称小米 15 标准版手机延续小直屏设计：1.5K LTPO、5000 万像素 1/1.3 英寸主摄](https://m.ithome.com/html/774394.htm)
+
++ [苹果“Apple ID”将成历史，新名称“Apple 账户”已实装 iOS / iPadOS 18 开发者预览版](https://m.ithome.com/html/774458.htm)
+
