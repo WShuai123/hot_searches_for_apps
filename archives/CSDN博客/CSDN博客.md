@@ -123,3 +123,13 @@
 
 + [CA证书及PKI](https://blog.csdn.net/Dean_xiu/article/details/139585362)
 
++ [MySQL周内训参照1、ER实体关系图与数据库模型图绘制](https://blog.csdn.net/feng8403000/article/details/139563543)
+
++ [网络协议四](https://blog.csdn.net/qq_41834780/article/details/139589473)
+
++ [鸿蒙原生开发——轻内核A核源码分析系列三 物理内存（2）](https://blog.csdn.net/maniuT/article/details/139604027)
+
++ [5分钟在阿里云上部署了超级玛丽小游戏，是一种什么样的体验？](https://blog.csdn.net/caoli201314/article/details/139592637)
+
++ [linux 网桥学习](https://blog.csdn.net/qq_50247813/article/details/139548231)
+

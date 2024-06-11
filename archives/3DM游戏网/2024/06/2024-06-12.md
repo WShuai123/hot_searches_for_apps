@@ -119,3 +119,11 @@
 
 + [一战生存恐怖游戏《CONSCRIPT》7/23推出](https://www.3dmgame.com/news/202406/3897100.html)
 
++ [《如果德川家康成为总理大臣》真人电影曝光预告](https://www.3dmgame.com/news/202406/3897107.html)
+
++ [《仓鼠游乐场》正式版即将登场 7月11日全平台发售](https://www.3dmgame.com/news/202406/3897106.html)
+
++ [《赤痕:夜之仪式》推出全新DLC多米尼克的诅咒](https://www.3dmgame.com/news/202406/3897105.html)
+
++ [任天堂直面会即将召开 预计将于下周举行](https://www.3dmgame.com/news/202406/3897104.html)
+

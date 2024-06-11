@@ -37,3 +37,7 @@
 
 + [鸿蒙智行首款轿跑 SUV：智界 R7 官图公布，华为与奇瑞联手打造](https://m.ithome.com/html/774370.htm)
 
++ [周鸿祎遭 AI 创作者“10 倍索赔”，360 副总裁梁志辉回应称“愿诉诸法律”](https://m.ithome.com/html/774551.htm)
+
++ [《黑神话：悟空》预购首周全球登顶，Steam 最新一周销量榜公布](https://m.ithome.com/html/774507.htm)
+
