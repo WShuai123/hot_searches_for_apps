@@ -101,3 +101,25 @@
 
 + [MySQL之查询性能优化(十三)](https://blog.csdn.net/Cover_sky/article/details/139570856)
 
++ [博客赚钱全攻略：从新手到专家的变现之路](https://blog.csdn.net/coder_heweilai/article/details/139566996)
+
++ [【机器学习】机器学习引领AI：重塑人类社会的新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/139552471)
+
++ [【FFmpeg】SDL 音视频开发 ② ( SDL 视频显示函数 | 设置渲染器目标纹理 | 设置渲染器颜色 | 清除渲染器 | 渲染器绘制矩形 | 纹理拷贝 | 窗口中显示渲染纹理 )](https://blog.csdn.net/han1202012/article/details/139592113)
+
++ [MySQL高性能（MySQL锁）](https://blog.csdn.net/chenjiap/article/details/131626639)
+
++ [【MySQL】复合查询+表的内外连接](https://blog.csdn.net/fight_p/article/details/139197431)
+
++ [「网络原理」三次握手&四次挥手](https://blog.csdn.net/Ice_Sugar_7/article/details/139582623)
+
++ [Hadoop 2.0：主流开源云架构（一）](https://blog.csdn.net/Morse_Chen/article/details/139574023)
+
++ [OSI七层网络参考模型](https://blog.csdn.net/g841805/article/details/139471661)
+
++ [MigratoryData是如何解决C10M问题的:单个商品服务器上的1000万个并发连接](https://blog.csdn.net/shumeizwb/article/details/139566908)
+
++ [XSS(跨站脚本攻击)](https://blog.csdn.net/weixin_58189050/article/details/139553470)
+
++ [CA证书及PKI](https://blog.csdn.net/Dean_xiu/article/details/139585362)
+

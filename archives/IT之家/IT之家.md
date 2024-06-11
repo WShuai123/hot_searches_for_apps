@@ -35,3 +35,5 @@
 
 + [苹果“Apple ID”将成历史，新名称“Apple 账户”已实装 iOS / iPadOS 18 开发者预览版](https://m.ithome.com/html/774458.htm)
 
++ [鸿蒙智行首款轿跑 SUV：智界 R7 官图公布，华为与奇瑞联手打造](https://m.ithome.com/html/774370.htm)
+
