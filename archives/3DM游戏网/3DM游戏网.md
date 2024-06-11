@@ -131,3 +131,17 @@
 
 + [《纪元117：罗马和平》明年登陆主机和PC平台](https://www.3dmgame.com/news/202406/3897027.html)
 
++ [《星球大战：亡命之徒》新截图：画面绝美 对战激烈](https://www.3dmgame.com/news/202406/3897038.html)
+
++ [由于剧集大获成功 《辐射5》发售时间可能会提前](https://www.3dmgame.com/news/202406/3897037.html)
+
++ [《刺客信条：影》全新截图 黑人武士和美女忍者亮相](https://www.3dmgame.com/news/202406/3897036.html)
+
++ [《生化危机7》7月登陆iPhone 《生化危机2：重制版》也在开发中](https://www.3dmgame.com/news/202406/3897035.html)
+
++ [《龙腾世纪：影障守护者》起源机制回归 有六个派系](https://www.3dmgame.com/news/202406/3897034.html)
+
++ [《不羁联盟》第一赛季预告公布 将于7月2日上线](https://www.3dmgame.com/news/202406/3897032.html)
+
++ [动视澄清：《使命召唤21：黑色行动6》容量没有300GB](https://www.3dmgame.com/news/202406/3897033.html)
+

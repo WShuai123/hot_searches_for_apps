@@ -31,3 +31,13 @@
 
 + [苹果 iOS 18 正式发布：主屏幕自定义，控制中心改版，卫星短信等重磅功能来袭](https://m.ithome.com/html/774320.htm)
 
++ [苹果 WWDC24 开发者大会一文汇总：iOS 18 重磅更新，苹果牌“AI”惊喜登场](https://m.ithome.com/html/774355.htm)
+
++ [苹果 iOS 18 终于为 iPhone 带来电话 T9 拨号功能](https://m.ithome.com/html/774357.htm)
+
++ [iPhone 终于自带通话录音：苹果 iOS 18 全新 AI 功能秋季上线，还能转录文字摘要](https://m.ithome.com/html/774354.htm)
+
++ [iPhone 15 / Pro 系列独占，苹果 iOS 18 引入 85%、90%、95% 充电限制选项](https://m.ithome.com/html/774349.htm)
+
++ [苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://m.ithome.com/html/774317.htm)
+
