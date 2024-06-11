@@ -101,3 +101,13 @@
 
 + [首个内容更新 《波斯王子：Rogue》“火之神殿”更新上线](https://www.3dmgame.com/news/202406/3897044.html)
 
++ [《龙腾世纪：影障守护者》20分钟实机 一次看个够](https://www.3dmgame.com/news/202406/3897099.html)
+
++ [安田文彦：《浪人崛起》是光荣特库摩最畅销游戏](https://www.3dmgame.com/news/202406/3897098.html)
+
++ [外星探索冒险《天外来客》6月27日登陆PS4/5 Steam获特别好评](https://www.3dmgame.com/news/202406/3897097.html)
+
++ [《英雄联盟：双城之战》第二季首支预告 今冬上线](https://www.3dmgame.com/news/202406/3897096.html)
+
++ [种田游戏《世蛙桃源》上市预告 登陆PC/NS/Xbox](https://www.3dmgame.com/news/202406/3897095.html)
+
