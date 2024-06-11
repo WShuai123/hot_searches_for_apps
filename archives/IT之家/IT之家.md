@@ -47,3 +47,7 @@
 
 + [名字中含“小米汽车”，小米起诉疑似碰瓷小米汽车的公司](https://m.ithome.com/html/774400.htm)
 
++ [比亚迪宋 L DM-i 汽车官宣，口号“大宋来了”](https://m.ithome.com/html/774471.htm)
+
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 发布，依然支持 iPhone XR / XS / XS Max](https://m.ithome.com/html/774338.htm)
+

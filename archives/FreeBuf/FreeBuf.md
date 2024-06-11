@@ -71,3 +71,5 @@
 
 + [苹果AI的选择，“有人味”的GPT-4o，会像三体人一样学会欺骗吗？](https://www.freebuf.com/articles/403253.html)
 
++ [苹果AI的新选择，越来越像人的GPT-4o会欺骗人类吗？](https://www.freebuf.com/articles/403253.html)
+
