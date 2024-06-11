@@ -249,3 +249,9 @@
 
 + [台积电3nm工艺需求旺盛 主要客户已将产能分配到2026年](https://www.3dmgame.com/news/202406/3897089.html)
 
++ [XGP只能游玩《使命召唤21》单人战役 无法游玩多人和僵尸模式](https://www.3dmgame.com/news/202406/3897093.html)
+
++ [《龙腾世纪：影障守护者》实机片花和新截图发布](https://www.3dmgame.com/news/202406/3897092.html)
+
++ [《完美黑暗》中文版实机宣传片 新旧版女主对比](https://www.3dmgame.com/news/202406/3897091.html)
+
