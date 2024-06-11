@@ -61,3 +61,7 @@
 
 + [攻防演练 | 一次对某市级单位演习的总结学习](https://www.freebuf.com/defense/374008.html)
 
++ [售价800万欧元起，全球商业间谍软件市场正野蛮生长！](https://www.freebuf.com/articles/neopoints/403223.html)
+
++ [AI与密码安全：利用机器学习提升密码安全性](https://www.freebuf.com/articles/network/401063.html)
+

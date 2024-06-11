@@ -215,3 +215,21 @@
 
 + [更多3A游戏即将登陆苹果设备：《幻兽帕鲁》等](https://www.3dmgame.com/news/202406/3897068.html)
 
++ [《收获日3》公布前瞻PV，6月27日敬请期待](https://www.3dmgame.com/news/202406/3897082.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》成功登顶](https://www.3dmgame.com/news/202406/3897081.html)
+
++ [动漫名作 《工作细胞》真人电影新预告 确定12月上映](https://www.3dmgame.com/news/202406/3897080.html)
+
++ [《金庸武侠世界》定档预告 6月17日开播 陈都灵等主演](https://www.3dmgame.com/news/202406/3897077.html)
+
++ [系列最快 《生化危机：村庄》全球销量突破一千万](https://www.3dmgame.com/news/202406/3897076.html)
+
++ [KRAFTON将在Steam新品节上发布两款新游戏](https://www.3dmgame.com/news/202406/3897075.html)
+
++ [国产妖精收集RPG《妖之乡》Demo现已上线Steam新品节](https://www.3dmgame.com/news/202406/3897074.html)
+
++ [历史性一刻！苹果iPhone终于支持通话录音了](https://www.3dmgame.com/news/202406/3897079.html)
+
++ [《命运2》公布“终焉之形”之后计划 并非新游戏《命运3》](https://www.3dmgame.com/news/202406/3897078.html)
+

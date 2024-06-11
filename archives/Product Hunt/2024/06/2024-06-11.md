@@ -147,3 +147,7 @@
 
 + [Zeacon](https://www.producthunt.com/posts/zeacon)
 
++ [iPad Calculator](https://www.producthunt.com/posts/ipad-calculator)
+
++ [NoBrowseForYou](https://www.producthunt.com/posts/nobrowseforyou)
+
