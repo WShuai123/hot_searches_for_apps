@@ -43,3 +43,5 @@
 
 + [有史以来最大更新，苹果 iOS 18 照片应用 UI 大改、引入背景元素清除 AI 工具](https://m.ithome.com/html/774344.htm)
 
++ [【一图知】苹果 WWDC24 开发者大会：iOS 18、Apple Intelligence、Vision Pro 国行发布](https://m.ithome.com/html/774359.htm)
+
