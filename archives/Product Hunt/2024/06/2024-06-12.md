@@ -101,3 +101,5 @@
 
 + [Zeacon](https://www.producthunt.com/posts/zeacon)
 
++ [Light Phone 3](https://www.producthunt.com/posts/light-phone-3)
+

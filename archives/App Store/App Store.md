@@ -201,3 +201,9 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [央视影音-新闻体育人文影视高清平台](https://itunes.apple.com/cn/app/id331259725?mt=8)
+
++ [咪咕视频-看中超足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
++ [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
+

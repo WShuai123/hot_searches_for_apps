@@ -61,3 +61,5 @@
 
 + [扎马步唱法](http://www.acfun.cn/v/ac44795290)
 
++ [《星空剪影》cover蓝心羽 【AcFun声唱云参赛2024】](http://www.acfun.cn/v/ac44802681)
+
