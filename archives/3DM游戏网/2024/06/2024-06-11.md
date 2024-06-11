@@ -191,3 +191,7 @@
 
 + [iOS18集成ChatGPT还不够 苹果还希望集成谷歌AI](https://www.3dmgame.com/news/202406/3897057.html)
 
++ [免费试玩《辛特堡传说》Steam新品节Demo！](https://www.3dmgame.com/news/202406/3897063.html)
+
++ [Atlus官宣《暗喻幻想》撤换声优古谷彻 疑因出轨丑闻](https://www.3dmgame.com/news/202406/3897062.html)
+
