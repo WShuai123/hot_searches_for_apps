@@ -245,3 +245,7 @@
 
 + [日本一首部游戏《拼图世界》上架Steam 30年PS名作](https://www.3dmgame.com/news/202406/3897085.html)
 
++ [《绝地战警4》全球首周末票房破亿 北美开画超出预期](https://www.3dmgame.com/news/202406/3897090.html)
+
++ [台积电3nm工艺需求旺盛 主要客户已将产能分配到2026年](https://www.3dmgame.com/news/202406/3897089.html)
+
