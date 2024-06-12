@@ -187,3 +187,7 @@
 
 + [【wiki知识库】06.文档管理接口的实现--SpringBoot后端部分](https://blog.csdn.net/qq_61024956/article/details/139606331)
 
++ [腾讯元宝 APP 上线与大模型 AIGC 产品的未来趋势](https://blog.csdn.net/qyj19920704/article/details/139474414)
+
++ [外包干了3天，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/139606835)
+

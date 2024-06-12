@@ -289,3 +289,5 @@
 
 + [国行iPhone也有希望！苹果正努力将AI大模型引入中国](https://www.3dmgame.com/news/202406/3897186.html)
 
++ [和IBM合作 日本将研发2nm芯片Chiplet先进封装技术](https://www.3dmgame.com/news/202406/3897189.html)
+
