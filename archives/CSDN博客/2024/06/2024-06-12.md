@@ -151,3 +151,11 @@
 
 + [B站画质补完计划（3）：智能修复让宝藏视频重焕新生](https://blog.csdn.net/bilibili_TC/article/details/139595133)
 
++ [精通AI虚拟数字人制作与应用](https://blog.csdn.net/qq_44273429/article/details/139613433)
+
++ [spring boot3登录开发-邮箱登录/注册接口实现](https://blog.csdn.net/qq_62262918/article/details/139612336)
+
++ [使用spark基于出租车GPS数据实现车辆数量统计以及北京每个城区的车辆位置点数分析](https://blog.csdn.net/lhyandlwl/article/details/139593399)
+
++ [高考后的抉择：计算机相关专业的未来发展与前景探讨](https://blog.csdn.net/double222222/article/details/139611510)
+

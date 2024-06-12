@@ -51,3 +51,5 @@
 
 + [国家能源局印发《电力网络安全事件应急预案》](https://www.freebuf.com/news/403231.html)
 
++ [重大更新！苹果将正式推出“私有云计算”](https://www.freebuf.com/news/403299.html)
+

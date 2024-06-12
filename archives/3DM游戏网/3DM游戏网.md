@@ -201,3 +201,21 @@
 
 + [零售商GameStop澄清《合金装备3：重制版》发售日期：是错误信息](https://www.3dmgame.com/news/202406/3897136.html)
 
++ [我国首条零碳沙漠公路生产绿电突破500万度 治沙环保两不误](https://www.3dmgame.com/news/202406/3897149.html)
+
++ [小伙32万元卖掉7年手游账号买房 不建议新手玩家靠此挣钱](https://www.3dmgame.com/news/202406/3897150.html)
+
++ [赶紧打！大多数玩家未能击败《艾尔登法环》“黄金树幽影”前置Boss](https://www.3dmgame.com/news/202406/3897153.html)
+
++ [《绝地潜兵2》大更新将至 可视化补给线刷怪频率回滚](https://www.3dmgame.com/news/202406/3897152.html)
+
++ [主创确认《黑袍纠察队》第五季将是最后一季 是“一直以来”的计划](https://www.3dmgame.com/news/202406/3897151.html)
+
++ [传闻OpenAI阿尔特曼和三星李在镕会面 合作AI芯片](https://www.3dmgame.com/news/202406/3897148.html)
+
++ [亚马逊创始人贝索斯重回世界首富 马斯克跌至第三](https://www.3dmgame.com/news/202406/3897147.html)
+
++ [《龙腾世纪4：影障守护者》确定首发将拥有照片模式](https://www.3dmgame.com/news/202406/3897146.html)
+
++ [好评休闲游戏《史莱姆牧场2》现已正式登录PS5平台](https://www.3dmgame.com/news/202406/3897145.html)
+
