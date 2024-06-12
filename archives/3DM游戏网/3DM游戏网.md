@@ -253,3 +253,19 @@
 
 + [动画《尼尔：自动人形Ver1.1a》第二季宣布7月5日开播 主视觉图公开](https://www.3dmgame.com/news/202406/3897167.html)
 
++ [创作者质疑360AI发布会盗图 360回应可以法庭见](https://www.3dmgame.com/news/202406/3897178.html)
+
++ [《神鬼寓言4》女主形象让玩家不满：希望能自定义角色](https://www.3dmgame.com/news/202406/3897177.html)
+
++ [《夜族崛起》现已登陆PS5！](https://www.3dmgame.com/news/202406/3897176.html)
+
++ [DC《和平使者》剧集第二季卡司新增《办公室》演员](https://www.3dmgame.com/news/202406/3897175.html)
+
++ [《诸神黄昏：英雄时代》Steam上线 开放世界生存建设](https://www.3dmgame.com/news/202406/3897174.html)
+
++ [传闻：《使命召唤：黑色行动6》测试版将于8月底向预购玩家开放](https://www.3dmgame.com/news/202406/3897173.html)
+
++ [开罗游戏《前进！！英雄战队物语 DX》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202406/3897172.html)
+
++ [《彩虹六号：围攻》订阅会员宣传片受到大量差评](https://www.3dmgame.com/news/202406/3897171.html)
+

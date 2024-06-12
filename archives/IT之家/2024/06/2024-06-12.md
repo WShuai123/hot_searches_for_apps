@@ -55,3 +55,9 @@
 
 + [开始“刷圈”模式？小米 SU7 测试车现身纽博格林北环赛道](https://m.ithome.com/html/774580.htm)
 
++ [“摇一摇”跳转广告屡禁不止，上海一女子称为开启小区单元门得连开多个 App](https://m.ithome.com/html/774661.htm)
+
++ [消息称苹果 iPhone 16 Pro 所有物理按键改为电容按键，位置不变依旧突起](https://m.ithome.com/html/774646.htm)
+
++ [苹果高管：正努力将“Apple Intelligence”引入中国市场](https://m.ithome.com/html/774579.htm)
+
