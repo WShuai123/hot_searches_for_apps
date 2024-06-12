@@ -173,3 +173,31 @@
 
 + [《战争机器：事变日》是完全线性游戏 与《战争机器5》不同](https://www.3dmgame.com/news/202406/3897116.html)
 
++ [一战背景生存恐怖游戏《战壕惊魂》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897144.html)
+
++ [任天堂再挥大棒制裁Mod 多款大乱斗塞尔达MOD被下架](https://www.3dmgame.com/news/202406/3897142.html)
+
++ [数据网站EpicDB上线 大量未公布项目泄露：《最终幻想9：重制版》等](https://www.3dmgame.com/news/202406/3897143.html)
+
++ [《刺客信条：影》地图面积与《起源》差不多大](https://www.3dmgame.com/news/202406/3897141.html)
+
++ [《毁灭战士：黑暗时代》登场电锯盾牌已被制成初代游戏Mod](https://www.3dmgame.com/news/202406/3897140.html)
+
++ [《多重人生》开启试玩预告 试玩时长约两个小时](https://www.3dmgame.com/news/202406/3897139.html)
+
++ [《肯泽拉传说：扎乌》推出免费试玩 折扣即将开启](https://www.3dmgame.com/news/202406/3897138.html)
+
++ [动作冒险游戏《空中骑士·永不屈服》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897137.html)
+
++ [《影之刃零》制作人：本作非类魂 非PS独占会登陆PC](https://www.3dmgame.com/news/202406/3897134.html)
+
++ [《火星孤征》开发商为新作《归家孤征》开启众筹](https://www.3dmgame.com/news/202406/3897133.html)
+
++ [ARPG《寻路者》现已重新开放抢先体验版 并推出新款基础创始人礼包](https://www.3dmgame.com/news/202406/3897132.html)
+
++ [《心灵杀手 2》(Alan Wake 2)DLC发布，支持全景光线追踪和DLSS 3.5](https://www.3dmgame.com/news/202406/3897131.html)
+
++ [《生灵之境：亚娃》实机演示 年内发售](https://www.3dmgame.com/news/202406/3897135.html)
+
++ [零售商GameStop澄清《合金装备3：重制版》发售日期：是错误信息](https://www.3dmgame.com/news/202406/3897136.html)
+

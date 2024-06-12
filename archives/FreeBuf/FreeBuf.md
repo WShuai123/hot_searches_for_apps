@@ -47,3 +47,7 @@
 
 + [企业安全 | 浅谈企业安全培训](https://www.freebuf.com/articles/es/403022.html)
 
++ [白帽报告苹果Vision Pro 特有漏洞，或可导致空间计算黑客攻击](https://www.freebuf.com/news/403303.html)
+
++ [国家能源局印发《电力网络安全事件应急预案》](https://www.freebuf.com/news/403231.html)
+

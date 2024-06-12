@@ -141,3 +141,13 @@
 
 + [pycharm爬取BOSS直聘岗位信息](https://blog.csdn.net/qq_52368602/article/details/139595614)
 
++ [利用【C++】和【预训练模型】实现【机器学习】中的【图像分类】的完整指南](https://blog.csdn.net/2303_77720864/article/details/139611176)
+
++ [Vue--》打造细腻颗粒感 —— 细分组件颗粒图](https://blog.csdn.net/qq_53123067/article/details/139611184)
+
++ [“探索AIGC市场：腾讯元宝APP加入竞争，大模型产品的未来走向与个人选择“](https://blog.csdn.net/u014727709/article/details/139612891)
+
++ [【DevOps】 什么是容器 - 一种全新的软件部署方式](https://blog.csdn.net/benshu_001/article/details/139594422)
+
++ [B站画质补完计划（3）：智能修复让宝藏视频重焕新生](https://blog.csdn.net/bilibili_TC/article/details/139595133)
+

@@ -47,3 +47,7 @@
 
 + [苹果 iPadOS 18 细节功能一览：新增原生计算器、新版悬浮栏](https://m.ithome.com/html/774575.htm)
 
++ [20:00 限量 200 台：罗技 MX Master 3S 旗舰鼠标京东 299 元补贴购](https://m.ithome.com/html/774491.htm)
+
++ [性能提升但依然难敌 X3D，AMD 锐龙 9000 系列 CPU 游戏性能初见端倪](https://m.ithome.com/html/774565.htm)
+
