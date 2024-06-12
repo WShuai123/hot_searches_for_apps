@@ -195,3 +195,7 @@
 
 + [Oracle 最终会淘汰 MySQL 吗？](https://blog.csdn.net/breeze915/article/details/139622924)
 
++ [AIGC简介](https://blog.csdn.net/ak2111/article/details/139612351)
+
++ [讲透计算机网络知识(实战篇)01——计算机网络和协议](https://blog.csdn.net/qq_41708993/article/details/139503090)
+

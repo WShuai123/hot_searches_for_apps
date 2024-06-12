@@ -295,3 +295,5 @@
 
 + [《流放之路2》新职业女巫实机演示 操控不死大军](https://www.3dmgame.com/news/202406/3897190.html)
 
++ [《圣剑传说》发售日公布 Steam版8月30日发售](https://www.3dmgame.com/news/202406/3897192.html)
+

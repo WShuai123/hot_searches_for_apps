@@ -71,3 +71,7 @@
 
 + [恒大汽车深陷困境：须 15 天内退回 19 亿元补贴，天津子公司被责令停产停售新能源乘用车并进行整改](https://m.ithome.com/html/774558.htm)
 
++ [小米、OPPO、vivo、联想要求 App 开发者 8 月 31 日前完成适配安卓 15](https://m.ithome.com/html/774745.htm)
+
++ [华为 Mate 40、nova 11 / 10 / 9 系列等 16 款机型获推鸿蒙 HarmonyOS 4.2 正式版：新增摇一摇权限管理、互动主题](https://m.ithome.com/html/774694.htm)
+
