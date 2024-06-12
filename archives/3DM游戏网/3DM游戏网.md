@@ -219,3 +219,9 @@
 
 + [好评休闲游戏《史莱姆牧场2》现已正式登录PS5平台](https://www.3dmgame.com/news/202406/3897145.html)
 
++ [《明末：渊虚之羽》中配预告 明年发售](https://www.3dmgame.com/news/202406/3897156.html)
+
++ [战术角色扮演游戏《纷争终结者》玩家请愿添加约会系统 制作者表示团队没有经验](https://www.3dmgame.com/news/202406/3897155.html)
+
++ [曝苹果可折叠iPhone采用外折设计：神似Mate Xs 2](https://www.3dmgame.com/news/202406/3897154.html)
+

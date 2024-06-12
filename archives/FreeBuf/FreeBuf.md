@@ -55,3 +55,7 @@
 
 + [代码审计：必须要知道的注入型漏洞风险参数来源](https://www.freebuf.com/articles/web/402219.html)
 
++ [试与国内安全监管商榷二三事（2024版）](https://www.freebuf.com/articles/security-management/403329.html)
+
++ [无法修复，Netgear WNR614 N300 路由器曝出安全漏洞](https://www.freebuf.com/news/403304.html)
+
