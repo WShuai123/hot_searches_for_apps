@@ -61,3 +61,7 @@
 
 + [苹果高管：正努力将“Apple Intelligence”引入中国市场](https://m.ithome.com/html/774579.htm)
 
++ [为 iPhone 16 Pro 系列固态按键铺路？苹果 iOS 18 修改音量键和电源键按压动画](https://m.ithome.com/html/774624.htm)
+
++ [骑手实名举报队长吃拿卡要？顺丰同城回应：投诉经核查与事实不符](https://m.ithome.com/html/774539.htm)
+
