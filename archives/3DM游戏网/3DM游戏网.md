@@ -101,3 +101,7 @@
 
 + [好评休闲游戏《史莱姆牧场2》现已正式登录PS5平台](https://www.3dmgame.com/news/202406/3897145.html)
 
++ [留了一手！传微软将在科隆展上展示更多游戏](https://www.3dmgame.com/news/202406/3897199.html)
+
++ [雷军上班自带早餐引热议 网友：我居然和千亿富翁一样](https://www.3dmgame.com/news/202406/3897198.html)
+
