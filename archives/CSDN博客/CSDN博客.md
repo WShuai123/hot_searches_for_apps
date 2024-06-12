@@ -199,3 +199,7 @@
 
 + [讲透计算机网络知识(实战篇)01——计算机网络和协议](https://blog.csdn.net/qq_41708993/article/details/139503090)
 
++ [【机器学习】：【C++】和【预训练模型】实现【图像分类】的终极指南](https://blog.csdn.net/2303_77720864/article/details/139611176)
+
++ [【机器学习】GANs网络在图像和视频技术中的应用前景](https://blog.csdn.net/qq_61024956/article/details/139634397)
+

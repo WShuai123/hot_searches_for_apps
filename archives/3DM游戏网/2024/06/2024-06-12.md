@@ -297,3 +297,9 @@
 
 + [《圣剑传说》发售日公布 Steam版8月30日发售](https://www.3dmgame.com/news/202406/3897192.html)
 
++ [《艾尔登法环》销量破2500万 肩负荣耀前往幽影之地！](https://www.3dmgame.com/news/202406/3897195.html)
+
++ [风评太差 《龙腾世纪：影障守护者》变性人女总监删掉了旗帜和BLM](https://www.3dmgame.com/news/202406/3897194.html)
+
++ [《腐烂国度3》更多细节披露 武器有更深入的自定义](https://www.3dmgame.com/news/202406/3897193.html)
+
