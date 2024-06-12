@@ -291,3 +291,7 @@
 
 + [和IBM合作 日本将研发2nm芯片Chiplet先进封装技术](https://www.3dmgame.com/news/202406/3897189.html)
 
++ [《龙腾世纪：影障守护者》某些亲密场景将有裸露](https://www.3dmgame.com/news/202406/3897191.html)
+
++ [《流放之路2》新职业女巫实机演示 操控不死大军](https://www.3dmgame.com/news/202406/3897190.html)
+

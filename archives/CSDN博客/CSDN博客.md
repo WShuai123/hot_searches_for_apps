@@ -191,3 +191,7 @@
 
 + [外包干了3天，技术退步明显.......](https://blog.csdn.net/NHB456789/article/details/139606835)
 
++ [使用PyTorch Profiler进行模型性能分析，改善并加速PyTorch训练](https://blog.csdn.net/m0_46510245/article/details/139622843)
+
++ [Oracle 最终会淘汰 MySQL 吗？](https://blog.csdn.net/breeze915/article/details/139622924)
+
