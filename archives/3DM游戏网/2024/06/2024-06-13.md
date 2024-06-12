@@ -105,3 +105,11 @@
 
 + [雷军上班自带早餐引热议 网友：我居然和千亿富翁一样](https://www.3dmgame.com/news/202406/3897198.html)
 
++ [《星球大战：亡命之徒》27分钟超长实机演示](https://www.3dmgame.com/news/202406/3897203.html)
+
++ [回合制策略《Ara：不为人知的历史》9/24发行](https://www.3dmgame.com/news/202406/3897202.html)
+
++ [《乐高地平线大冒险》提供本地和在线合作模式](https://www.3dmgame.com/news/202406/3897201.html)
+
++ [原PC游戏《荒芜月球》主机版将于7/9推出](https://www.3dmgame.com/news/202406/3897200.html)
+

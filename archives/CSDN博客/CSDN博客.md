@@ -107,3 +107,27 @@
 
 + [图神经网络实战（13）——经典链接预测算法](https://blog.csdn.net/LOVEmy134611/article/details/139586182)
 
++ [Java与机器学习：深入理解循环神经网络（RNNs）](https://blog.csdn.net/qq_19749625/article/details/139575846)
+
++ [Elasticsearch 为时间序列数据带来存储优势](https://blog.csdn.net/UbuntuTouch/article/details/139591306)
+
++ [【机器学习】基于CNN-RNN模型的验证码图片识别](https://blog.csdn.net/MUKAMO/article/details/139613456)
+
++ [RawChat：优化AI对话体验，全面兼容GPT功能平台](https://blog.csdn.net/a1657054242/article/details/139614983)
+
++ [机器学习-监督学习6大核心算法技术精讲与代码实战](https://blog.csdn.net/magicyangjay111/article/details/139605783)
+
++ [大型语言模型（LLMs）在AIGC中的核心地位](https://blog.csdn.net/weixin_52908342/article/details/139625891)
+
++ [网络数据包抓取与分析工具wireshark的安及使用](https://blog.csdn.net/qq_39241682/article/details/139593151)
+
++ [Web 播放 RTSP(Webrtc方案)](https://blog.csdn.net/qq_39782968/article/details/139636296)
+
++ [网络网络层之(6)ICMPv6协议](https://blog.csdn.net/Once_day/article/details/139576663)
+
++ [开源大模型之辩：真假开源](https://blog.csdn.net/CC1991_/article/details/139637704)
+
++ [快准稳的文档解析工具，帮助构建性能优越的金融领域知识库问答产品](https://blog.csdn.net/INTSIG/article/details/139592352)
+
++ [BGP路由优选实验(包含as策略,Community属性等)](https://blog.csdn.net/weixin_56548356/article/details/139639465)
+
