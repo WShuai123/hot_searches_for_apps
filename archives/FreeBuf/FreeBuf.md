@@ -45,3 +45,5 @@
 
 + [威胁预警 | Anatsa 银行木马被下载超过数万次](https://www.freebuf.com/articles/network/402453.html)
 
++ [企业安全 | 浅谈企业安全培训](https://www.freebuf.com/articles/es/403022.html)
+

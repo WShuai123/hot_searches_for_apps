@@ -45,3 +45,5 @@
 
 + [苹果独创，iOS 18 手电筒新增滑块：可调整光线强度和半径](https://m.ithome.com/html/774501.htm)
 
++ [苹果 iPadOS 18 细节功能一览：新增原生计算器、新版悬浮栏](https://m.ithome.com/html/774575.htm)
+

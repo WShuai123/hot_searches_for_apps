@@ -135,3 +135,9 @@
 
 + [csrf与xss差别 别在弄乱了 直接靶场实操pikachu的csrf题 token绕过可以吗？？？](https://blog.csdn.net/helloKittywz/article/details/139566569)
 
++ [Linux之进程信号详解【上】](https://blog.csdn.net/qq_73708736/article/details/139378228)
+
++ [kafka如何保证消息不丢失](https://blog.csdn.net/m0_62645012/article/details/139565489)
+
++ [pycharm爬取BOSS直聘岗位信息](https://blog.csdn.net/qq_52368602/article/details/139595614)
+

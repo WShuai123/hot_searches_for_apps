@@ -143,3 +143,33 @@
 
 + [梦工厂全新动画电影《荒野机器人》公布预告片](https://www.3dmgame.com/news/202406/3897108.html)
 
++ [《原子之心》新补丁上线 PC版添加光线追踪支持](https://www.3dmgame.com/news/202406/3897128.html)
+
++ [《野狗子》通关需15小时 主机版最高以4k/60帧运行](https://www.3dmgame.com/news/202406/3897129.html)
+
++ [动视暴雪外包公司涉嫌侵犯员工权利 被工会正式起诉](https://www.3dmgame.com/news/202406/3897127.html)
+
++ [《Before Exit：超市》Steam上线 超市关张大吉模拟器](https://www.3dmgame.com/news/202406/3897126.html)
+
++ [《乐高堡垒之夜》将推出休闲模式和专家模式 预计6月13日发布](https://www.3dmgame.com/news/202406/3897125.html)
+
++ [R级动画剧集《香肠派对: Foodtopia》正式预告 7月11日发售](https://www.3dmgame.com/news/202406/3897130.html)
+
++ [苹果推出新开发工具 更多3A大作将登陆Mac设备](https://www.3dmgame.com/news/202406/3897124.html)
+
++ [悟空收藏版和豪华版首轮秒售罄！《黑神话：悟空》实体版开启第二轮预约](https://www.3dmgame.com/news/202406/3897123.html)
+
++ [AI赋能《守护与智友》虚拟宠物即将上线，引领数字陪伴新潮流](https://www.3dmgame.com/news/202406/3897121.html)
+
++ [互动影游《我为情狂》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3897122.html)
+
++ [《质量效应》中的冲刺和《龙腾世纪：审判》冲刺一样也是假象 并非改变了移动速度](https://www.3dmgame.com/news/202406/3897119.html)
+
++ [《漫威蜘蛛侠2》将推出8款新战衣 6月18日上线](https://www.3dmgame.com/news/202406/3897120.html)
+
++ [《Screw Drivers》免费登陆Steam 物理规则竞速战斗](https://www.3dmgame.com/news/202406/3897117.html)
+
++ [《德州电锯杀人狂》开发商大幅裁员 人数高达250](https://www.3dmgame.com/news/202406/3897118.html)
+
++ [《战争机器：事变日》是完全线性游戏 与《战争机器5》不同](https://www.3dmgame.com/news/202406/3897116.html)
+

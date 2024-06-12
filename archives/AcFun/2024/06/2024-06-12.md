@@ -71,3 +71,5 @@
 
 + [【猪肝来也】『tired』cover by Vietra](http://www.acfun.cn/v/ac44802873)
 
++ [【AC独家】发视频折磨acer](http://www.acfun.cn/v/ac44803581)
+
