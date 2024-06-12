@@ -103,3 +103,27 @@
 
 + [Light Phone 3](https://www.producthunt.com/posts/light-phone-3)
 
++ [MotherDuck](https://www.producthunt.com/posts/motherduck)
+
++ [Code Finder](https://www.producthunt.com/posts/code-finder)
+
++ [Omi](https://www.producthunt.com/posts/omi)
+
++ [Snapshare Widget](https://www.producthunt.com/posts/snapshare-widget)
+
++ [Mistly](https://www.producthunt.com/posts/mistly)
+
++ [Carpal Tunnel Exercise](https://www.producthunt.com/posts/carpal-tunnel-exercise)
+
++ [RemindMe](https://www.producthunt.com/posts/remindme-2)
+
++ [Subdivide](https://www.producthunt.com/posts/subdivide)
+
++ [portfolo](https://www.producthunt.com/posts/portfolo)
+
++ [Dad Can't Draw](https://www.producthunt.com/posts/dad-can-t-draw)
+
++ [Namify AI](https://www.producthunt.com/posts/namify-ai)
+
++ [Slideoo 1.0](https://www.producthunt.com/posts/slideoo-1-0)
+

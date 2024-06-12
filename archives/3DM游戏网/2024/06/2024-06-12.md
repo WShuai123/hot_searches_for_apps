@@ -225,3 +225,11 @@
 
 + [曝苹果可折叠iPhone采用外折设计：神似Mate Xs 2](https://www.3dmgame.com/news/202406/3897154.html)
 
++ [宫崎英高知道玩家会查攻略 但设计以独自通关为主](https://www.3dmgame.com/news/202406/3897158.html)
+
++ [日媒玩家游戏电脑调查 联想位列品牌认可度第三](https://www.3dmgame.com/news/202406/3897160.html)
+
++ [创意总监称：《星球大战：亡命之徒》30小时内可通关](https://www.3dmgame.com/news/202406/3897159.html)
+
++ [支持千人同玩的扫雷游戏《一起来扫雷》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897157.html)
+

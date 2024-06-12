@@ -51,3 +51,7 @@
 
 + [性能提升但依然难敌 X3D，AMD 锐龙 9000 系列 CPU 游戏性能初见端倪](https://m.ithome.com/html/774565.htm)
 
++ [苹果 iOS 18 新功能：可检测是否使用了慢速充电器为 iPhone 充电](https://m.ithome.com/html/774577.htm)
+
++ [开始“刷圈”模式？小米 SU7 测试车现身纽博格林北环赛道](https://m.ithome.com/html/774580.htm)
+
