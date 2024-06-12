@@ -37,3 +37,25 @@
 
 + [EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 
++ [huggingface / lerobot](https://github.com/huggingface/lerobot)
+
++ [DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+
++ [idootop / mi-gpt](https://github.com/idootop/mi-gpt)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [apple / swift-testing](https://github.com/apple/swift-testing)
+
++ [apple / axlearn](https://github.com/apple/axlearn)
+
++ [coqui-ai / TTS](https://github.com/coqui-ai/TTS)
+
++ [3b1b / manim](https://github.com/3b1b/manim)
+
++ [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+
++ [AvaloniaUI / Avalonia](https://github.com/AvaloniaUI/Avalonia)
+

@@ -279,3 +279,13 @@
 
 + [绝了！在《守护与智友》定制的AI虚拟宠物，比真宠还懂你心？](https://www.3dmgame.com/news/202406/3897179.html)
 
++ [SSD和HDD持续涨价中！今年都不可能降价了](https://www.3dmgame.com/news/202406/3897187.html)
+
++ [RTX 50系显卡五大核心集体偷跑：居然有两个缩水了](https://www.3dmgame.com/news/202406/3897188.html)
+
++ [派拉蒙影业与Skydance传闻中的合并现已被搁置](https://www.3dmgame.com/news/202406/3897184.html)
+
++ [《HAELE 3D：肖像工作室》Steam试玩 专业脸部造型设计](https://www.3dmgame.com/news/202406/3897185.html)
+
++ [国行iPhone也有希望！苹果正努力将AI大模型引入中国](https://www.3dmgame.com/news/202406/3897186.html)
+

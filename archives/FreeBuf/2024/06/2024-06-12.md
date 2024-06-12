@@ -67,3 +67,5 @@
 
 + [FreeBuf 赠书第 107 期 | 这本书讲透了 NOA 智驾！](https://www.freebuf.com/fevents/403307.html)
 
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+
