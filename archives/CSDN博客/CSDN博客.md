@@ -165,3 +165,11 @@
 
 + [鸿蒙开发：应用组件跨设备交互（流转）【跨端迁移】](https://blog.csdn.net/m0_70748845/article/details/139603122)
 
++ [用人工智能写2024年高考作文](https://blog.csdn.net/beautifulmemory/article/details/139583518)
+
++ [Python网络爬虫4-实战爬取pdf](https://blog.csdn.net/qq_45584615/article/details/139607177)
+
++ [shell脚本](https://blog.csdn.net/cycjok/article/details/139600676)
+
++ [游戏心理学Day11](https://blog.csdn.net/youmupu/article/details/139609737)
+

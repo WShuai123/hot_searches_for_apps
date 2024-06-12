@@ -233,3 +233,23 @@
 
 + [支持千人同玩的扫雷游戏《一起来扫雷》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897157.html)
 
++ [神山健治执导动画电影《指环王：洛希尔人的战争》剧照曝光](https://www.3dmgame.com/news/202406/3897168.html)
+
++ [《模拟城市4》坚持20年玩家伟业达成 5000万人巨城建成](https://www.3dmgame.com/news/202406/3897169.html)
+
++ [《猫咪斗恶龙III》PC试玩版现已推出  全新预告片揭晓炫酷装备与武器](https://www.3dmgame.com/news/202406/3897170.html)
+
++ [炉石一哥变游戏策划？当年的爆牌贼秋日的“另一张牌”是...Y3编辑器](https://www.3dmgame.com/news/202406/3897161.html)
+
++ [KK官方对战平台新图预热 来《肉鸽塔牢》，十八层挑战不在话下！](https://www.3dmgame.com/news/202406/3897162.html)
+
++ [KK官方对战平台三国雪争霸赛圆满落幕 赛事桂冠花落谁家？](https://www.3dmgame.com/news/202406/3897163.html)
+
++ [开启试玩！《辛特堡传说》制作人登顶雪山中文问好！](https://www.3dmgame.com/news/202406/3897164.html)
+
++ [真心找个小姐姐那么难吗，《心动满屋》全新恋综互动影游即将上线](https://www.3dmgame.com/news/202406/3897165.html)
+
++ [微悬疑百合虐心视觉小说《花恋月依》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897166.html)
+
++ [动画《尼尔：自动人形Ver1.1a》第二季宣布7月5日开播 主视觉图公开](https://www.3dmgame.com/news/202406/3897167.html)
+

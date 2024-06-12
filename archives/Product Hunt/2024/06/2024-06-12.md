@@ -127,3 +127,5 @@
 
 + [Slideoo 1.0](https://www.producthunt.com/posts/slideoo-1-0)
 
++ [Autodesigner 2.0](https://www.producthunt.com/posts/autodesigner-2-0)
+
