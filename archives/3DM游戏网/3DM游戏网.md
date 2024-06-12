@@ -127,3 +127,19 @@
 
 + [任天堂直面会即将召开 预计将于下周举行](https://www.3dmgame.com/news/202406/3897104.html)
 
++ [《合金装备3：重制版》新细节 Snake受伤会留永久性伤痕](https://www.3dmgame.com/news/202406/3897115.html)
+
++ [《龙腾世纪：影障守护者》是任务型游戏而非开放世界游戏](https://www.3dmgame.com/news/202406/3897114.html)
+
++ [《暗黑破坏神4》DLC将带来新体验 新职业灵巫来了](https://www.3dmgame.com/news/202406/3897113.html)
+
++ [《龙腾世纪：影障守护者》捏人时将有更好的头发 捏人有代词、非二元角色](https://www.3dmgame.com/news/202406/3897112.html)
+
++ [《龙腾世纪：影障守护者》主机版有性能和画质模式](https://www.3dmgame.com/news/202406/3897111.html)
+
++ [冒险游戏《Amerzone：探险家的记忆传承》故事预告 今年10月发售](https://www.3dmgame.com/news/202406/3897110.html)
+
++ [《龙腾世纪：影障守护者》大量细节和截图公开 共有三种兵种](https://www.3dmgame.com/news/202406/3897109.html)
+
++ [梦工厂全新动画电影《荒野机器人》公布预告片](https://www.3dmgame.com/news/202406/3897108.html)
+

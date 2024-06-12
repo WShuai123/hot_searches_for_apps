@@ -133,3 +133,5 @@
 
 + [linux 网桥学习](https://blog.csdn.net/qq_50247813/article/details/139548231)
 
++ [csrf与xss差别 别在弄乱了 直接靶场实操pikachu的csrf题 token绕过可以吗？？？](https://blog.csdn.net/helloKittywz/article/details/139566569)
+

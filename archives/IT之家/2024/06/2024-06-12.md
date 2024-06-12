@@ -41,3 +41,7 @@
 
 + [《黑神话：悟空》预购首周全球登顶，Steam 最新一周销量榜公布](https://m.ithome.com/html/774507.htm)
 
++ [HMD 最后一台诺基亚品牌智能机，消息称“Lumia 复刻手机”将印有“Nokia”Logo](https://m.ithome.com/html/774504.htm)
+
++ [苹果独创，iOS 18 手电筒新增滑块：可调整光线强度和半径](https://m.ithome.com/html/774501.htm)
+
