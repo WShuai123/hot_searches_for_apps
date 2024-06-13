@@ -195,3 +195,7 @@
 
 + [《宇宙机器人》发售之后将获得免费DLC 添加更多关卡](https://www.3dmgame.com/news/202406/3897234.html)
 
++ [《刺客信条：影》总监表示将在正式发布前修改预告片中的历史错误](https://www.3dmgame.com/news/202406/3897245.html)
+
++ [iPhone16和RTX5090等都要涨价 直奔2万元大关](https://www.3dmgame.com/news/202406/3897246.html)
+

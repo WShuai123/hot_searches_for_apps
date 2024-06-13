@@ -51,3 +51,5 @@
 
 + [人工智能大模型再次曝出漏洞，Google 邮件 EmailGPT 扩展成为"受害者"](https://www.freebuf.com/news/403414.html)
 
++ [深入探索Web API安全测试：策略、实践与案例分析](https://www.freebuf.com/articles/web/403234.html)
+

@@ -155,3 +155,5 @@
 
 + [Mac电脑-后端开发通用配置](https://blog.csdn.net/weixin_41824063/article/details/139543800)
 
++ [kubernetes（k8s）集群部署（2）](https://blog.csdn.net/weixin_72819498/article/details/139579175)
+
