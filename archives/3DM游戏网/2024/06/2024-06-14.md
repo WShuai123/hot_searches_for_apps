@@ -111,3 +111,9 @@
 
 + [《使命召唤：黑色行动6》本地合作仅面向新平台](https://www.3dmgame.com/news/202406/3897286.html)
 
++ [《燧石枪：黎明之围》新演示视频曝光开场部分细节](https://www.3dmgame.com/news/202406/3897292.html)
+
++ [《铁道公司2》预告片曝光 打造20世纪铁路帝国](https://www.3dmgame.com/news/202406/3897291.html)
+
++ [索尼方面愿意把地平线主角艾洛依给任天堂大乱斗用](https://www.3dmgame.com/news/202406/3897290.html)
+
