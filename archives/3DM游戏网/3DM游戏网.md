@@ -129,3 +129,25 @@
 
 + [须田刚一表态将支持任天堂Switch 2](https://www.3dmgame.com/news/202406/3897204.html)
 
++ [《刺客信条：影》采用全局光追 系列首款仅登次世代游戏](https://www.3dmgame.com/news/202406/3897222.html)
+
++ [清版动作肉鸽游戏《怪兽快跑》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897221.html)
+
++ [Gearbox员工称：公司“数不清”的人受到裁员影响](https://www.3dmgame.com/news/202406/3897219.html)
+
++ [巨人网络狼人杀手游《Super Sus》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897220.html)
+
++ [欧美服PS PLus二档三档会员6月新入库游戏：《怪物猎人：崛起》等](https://www.3dmgame.com/news/202406/3897217.html)
+
++ [Valve因涉嫌操纵Steam市场在英国被起诉 索赔金额高达6.56亿英镑](https://www.3dmgame.com/news/202406/3897218.html)
+
++ [《星球大战：侍者》引众怒 同性恋女巫用原力怀孕](https://www.3dmgame.com/news/202406/3897216.html)
+
++ [Rebellion工作室新作《Atomfall》Steam页面上线 明年发售](https://www.3dmgame.com/news/202406/3897215.html)
+
++ [PS5主机架构师：PC游戏不会对主机行业造成威胁](https://www.3dmgame.com/news/202406/3897214.html)
+
++ [Take-Two收购Gearbox交易现已正式完成](https://www.3dmgame.com/news/202406/3897213.html)
+
++ [《刺客信条：影》不强迫玩家用黑人武士 一直用女忍没问题](https://www.3dmgame.com/news/202406/3897211.html)
+

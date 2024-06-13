@@ -33,3 +33,5 @@
 
 + [为啥高考完，学了三年的东西立马忘干净了](https://m.ithome.com/html/774732.htm)
 
++ [领克首款纯电轿车 Z10 发布：充电 15 分钟续航 573km、吉利 SEA 浩瀚架构](https://m.ithome.com/html/774771.htm)
+

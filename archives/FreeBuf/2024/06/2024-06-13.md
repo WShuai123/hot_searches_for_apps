@@ -45,3 +45,5 @@
 
 + [生成式人工智能是DevSecOps的福音还是噩梦？](https://www.freebuf.com/articles/security-management/401921.html)
 
++ [智能汽车网络安全的那些事 | 身份和密钥中心](https://www.freebuf.com/articles/database/403138.html)
+
