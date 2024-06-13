@@ -101,3 +101,5 @@
 
 + [《怪物猎人：荒野》大量游戏细节公布：地图全程无缝切换](https://www.3dmgame.com/news/202406/3897233.html)
 
++ [CPU 2.0时代即将到来！CPU性能提升100倍](https://www.3dmgame.com/news/202406/3897285.html)
+

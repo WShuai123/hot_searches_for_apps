@@ -49,3 +49,21 @@
 
 + [Hats](https://dribbble.com/shots/)
 
++ [Doodling with music lyrics](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Snake Rum](https://dribbble.com/shots/)
+
++ [Swedish Columbia Bus](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
++ [pose!](https://dribbble.com/shots/)
+
++ [Camerimage Torun](https://dribbble.com/shots/)
+
++ [Bank](https://dribbble.com/shots/)
+
