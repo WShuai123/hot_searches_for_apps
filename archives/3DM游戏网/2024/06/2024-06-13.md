@@ -219,3 +219,25 @@
 
 + [骨头社将制作同名漫改动画《GACHI AKUTA》 首部预告放出 预计2025年放映](https://www.3dmgame.com/news/202406/3897255.html)
 
++ [卡普空调查显示：玩家喜欢美女角色和沉浸式玩法](https://www.3dmgame.com/news/202406/3897267.html)
+
++ [特斯拉大规模裁员后重启招聘 AI机器人工程师等职位](https://www.3dmgame.com/news/202406/3897266.html)
+
++ [《战争机器：事变日》剧情将涵盖兽族入侵的前后数天](https://www.3dmgame.com/news/202406/3897265.html)
+
++ [《黑神话》实体收藏版人偶厂商发文 感谢游戏科学](https://www.3dmgame.com/news/202406/3897264.html)
+
++ [《纪元117：罗马和平》游戏画面泄露 出现对角线道路](https://www.3dmgame.com/news/202406/3897263.html)
+
++ [《影之刃零》惊喜亮相夏日游戏节后 在海外广受游戏媒体和玩家的赞誉](https://www.3dmgame.com/news/202406/3897261.html)
+
++ [电子行驶证年底前全国全面推广：但纸质版千万不能扔](https://www.3dmgame.com/news/202406/3897262.html)
+
++ [灾难片《龙卷风》确认引进中国内地 档期待定](https://www.3dmgame.com/news/202406/3897260.html)
+
++ [KK官方对战平台 组团开荒，重铸战法牧荣光！](https://www.3dmgame.com/news/202406/3897259.html)
+
++ [KK官方对战平台怀旧专区又双叒叕上新图 快来重温经典RPG游戏！](https://www.3dmgame.com/news/202406/3897258.html)
+
++ [预约突破200W 《英勇之地》端游即将开启公测](https://www.3dmgame.com/news/202406/3897257.html)
+

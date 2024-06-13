@@ -61,3 +61,9 @@
 
 + [Dorkish：一款针对OSINT和网络侦查任务的Chrome扩展](https://www.freebuf.com/sectool/403386.html)
 
++ [头部旅游类App乱象：未经允许收集数据，索取手机权限](https://www.freebuf.com/news/403449.html)
+
++ [被黑客大规模攻击，边缘服务和基础安全设备脆弱性曝光](https://www.freebuf.com/news/403455.html)
+
++ [建议立即删除！谷歌 EmailGPT 曝零日漏洞](https://www.freebuf.com/news/403414.html)
+

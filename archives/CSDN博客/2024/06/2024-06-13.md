@@ -163,3 +163,13 @@
 
 + [ARM32开发--RTC内置实时时钟](https://blog.csdn.net/xuewenyu_/article/details/139628529)
 
++ [一篇文章看懂Redission原理](https://blog.csdn.net/aliyunyyds/article/details/139640938)
+
++ [【机器学习】通用大模型VS垂直大模型，你更加青睐哪一方？](https://blog.csdn.net/lmy_520/article/details/139650031)
+
++ [技术速递｜Microsoft Build 2024 中的 .NET 公告和更新](https://blog.csdn.net/MicrosoftReactor/article/details/139638550)
+
++ [网络安全（补充）](https://blog.csdn.net/m0_62207482/article/details/139601921)
+
++ [【云原生| K8S系列】Kubernetes Daemonset，全面指南](https://blog.csdn.net/sinat_28521487/article/details/139615833)
+
