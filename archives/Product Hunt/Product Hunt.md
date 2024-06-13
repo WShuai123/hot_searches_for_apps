@@ -105,3 +105,37 @@
 
 + [Active Recall](https://www.producthunt.com/posts/active-recall)
 
++ [Dream Machine by Luma AI](https://www.producthunt.com/posts/dream-machine-by-luma-ai)
+
++ [ClipSnag](https://www.producthunt.com/posts/clipsnag)
+
++ [Train: Connect the Tiles!](https://www.producthunt.com/posts/train-connect-the-tiles)
+
++ [Math Encrypt](https://www.producthunt.com/posts/math-encrypt)
+
++ [Amplitude Experiment + Contentful](https://www.producthunt.com/posts/amplitude-experiment-contentful)
+
++ [Promptchains](https://www.producthunt.com/posts/promptchains)
+
++ [Sanctuary](https://www.producthunt.com/posts/sanctuary)
+
++ [Liveblocks 2.0](https://www.producthunt.com/posts/liveblocks-2-0)
+
++ [OTTO SEO by Search Atlas](https://www.producthunt.com/posts/otto-seo-by-search-atlas)
+
++ [Refero 3.0](https://www.producthunt.com/posts/refero-3-0)
+
++ [Captain](https://www.producthunt.com/posts/captain-4)
+
++ [Surface Labs](https://www.producthunt.com/posts/surface-labs)
+
++ [TwoShot](https://www.producthunt.com/posts/twoshot)
+
++ [Mapify (formerly Chatmind)](https://www.producthunt.com/posts/mapify-formerly-chatmind)
+
++ [PyjamaHR](https://www.producthunt.com/posts/pyjamahr-2)
+
++ [Billfy](https://www.producthunt.com/posts/billfy)
+
++ [Illustration Generator by Icons8](https://www.producthunt.com/posts/illustration-generator-by-icons8)
+

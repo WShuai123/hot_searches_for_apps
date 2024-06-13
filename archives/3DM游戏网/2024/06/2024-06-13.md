@@ -207,3 +207,7 @@
 
 + [休闲种田游戏《舒舒服服小岛时光》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897247.html)
 
++ [《拳皇15》确定将开发新DLC 细节将在2024年EVO上公布](https://www.3dmgame.com/news/202406/3897252.html)
+
++ [新功能“Creations”上线 一个任务卖7刀 《星空》再遭差评轰炸](https://www.3dmgame.com/news/202406/3897251.html)
+

@@ -41,3 +41,5 @@
 
 + [比亚迪海豹 06 GT 实车谍照曝光，预计今年三季度上市](https://m.ithome.com/html/774747.htm)
 
++ [骁龙 8 Gen 4 旗舰处理器要来了！高通骁龙峰会 2024 定档 10 月 21~23 日](https://m.ithome.com/html/774867.htm)
+
