@@ -71,3 +71,5 @@
 
 + [【猪肝来也】『词不达意』cover by 林忆莲](http://www.acfun.cn/v/ac44821747)
 
++ [《当》AI秋哥演唱歌曲](http://www.acfun.cn/v/ac44822741)
+
