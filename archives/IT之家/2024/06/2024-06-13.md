@@ -57,3 +57,5 @@
 
 + [苹果 iOS 18 新功能：iPhone 15 系列手机电量耗尽后仍能显示时间](https://m.ithome.com/html/774789.htm)
 
++ [小米 SU7 销量连续下跌，王化回应：交付压力极大，6 月有信心破万](https://m.ithome.com/html/775004.htm)
+
