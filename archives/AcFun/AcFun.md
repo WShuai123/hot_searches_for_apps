@@ -75,3 +75,9 @@
 
 + [【东方】Fortunate Kitten - remix【Electro Swing】](http://www.acfun.cn/v/ac44784420)
 
++ [这个俯卧撑艺术成分很高啊！★手机竖屏1180★](http://www.acfun.cn/v/ac44812085)
+
++ [excuse me](http://www.acfun.cn/v/ac44812465)
+
++ [Li lucky shake it](http://www.acfun.cn/v/ac44810802)
+

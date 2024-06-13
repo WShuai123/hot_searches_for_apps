@@ -35,3 +35,5 @@
 
 + [领克首款纯电轿车 Z10 发布：充电 15 分钟续航 573km、吉利 SEA 浩瀚架构](https://m.ithome.com/html/774771.htm)
 
++ [官方下场最可怕，苹果 iOS 18 今年又要“逼死”一批第三方应用](https://m.ithome.com/html/774804.htm)
+

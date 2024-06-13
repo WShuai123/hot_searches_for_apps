@@ -49,3 +49,5 @@
 
 + [FreeBuf 观察 | 网络安全行业政策法规（5 月）](https://www.freebuf.com/news/402846.html)
 
++ [人工智能大模型再次曝出漏洞，Google 邮件 EmailGPT 扩展成为"受害者"](https://www.freebuf.com/news/403414.html)
+

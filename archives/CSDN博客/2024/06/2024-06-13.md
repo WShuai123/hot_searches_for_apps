@@ -153,3 +153,5 @@
 
 + [Solr 日志系统7.4.0部署和迁移到本地，Core Admin 添加新的core报错](https://blog.csdn.net/weixin_45652150/article/details/139631574)
 
++ [Mac电脑-后端开发通用配置](https://blog.csdn.net/weixin_41824063/article/details/139543800)
+

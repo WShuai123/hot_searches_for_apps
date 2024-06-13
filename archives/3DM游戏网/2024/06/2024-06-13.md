@@ -167,3 +167,31 @@
 
 + [游骑兵解释《乐高地平线大冒险》为何登陆Switch：游戏适合所有人](https://www.3dmgame.com/news/202406/3897223.html)
 
++ [《英雄传说：界之轨迹》中文版9月26日发售 与日版同步](https://www.3dmgame.com/news/202406/3897243.html)
+
++ [华纳确认《自杀小队》游戏将完成年一开发路线图](https://www.3dmgame.com/news/202406/3897244.html)
+
++ [电影《伞少女》定档7月6日！绝美二维国风动画邀你共赴治愈之旅](https://www.3dmgame.com/news/202406/3897242.html)
+
++ [《真女神转生5：复仇》媒体评分解禁：M站均分87](https://www.3dmgame.com/news/202406/3897241.html)
+
++ [TGA主持人称新《战争机器》预告为CG 引Xbox粉众怒](https://www.3dmgame.com/news/202406/3897240.html)
+
++ [弹幕射击轻肉鸽游戏《咒语旅团》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897239.html)
+
++ [《匹诺曹的谎言》将推出艺术设定集，现已开启全球预购！](https://www.3dmgame.com/news/202406/3897238.html)
+
++ [华为智能光风储发电机大突破 解决电网世界级难题](https://www.3dmgame.com/news/202406/3897236.html)
+
++ [《阿门罗》、《地狱王座》开发商League of Geeks宣布暂时停摆](https://www.3dmgame.com/news/202406/3897235.html)
+
++ [《怪物猎人：荒野》大量游戏细节公布：地图全程无缝切换](https://www.3dmgame.com/news/202406/3897233.html)
+
++ [《合金装备3：重制版》大获成功的话 将决定系列未来发展](https://www.3dmgame.com/news/202406/3897232.html)
+
++ [《城市：天际线2》房租太贵 官方直接把房东给删了](https://www.3dmgame.com/news/202406/3897231.html)
+
++ [《龙腾世纪：影障守护者》新截图 画面太美让人沉迷](https://www.3dmgame.com/news/202406/3897237.html)
+
++ [《宇宙机器人》发售之后将获得免费DLC 添加更多关卡](https://www.3dmgame.com/news/202406/3897234.html)
+
