@@ -207,3 +207,11 @@
 
 + [【云计算】Docker部署Nextcloud网盘并实现随地公网远程访问](https://blog.csdn.net/weixin_46022776/article/details/139596988)
 
++ [用【R语言】揭示大学生恋爱心理：【机器学习】与【深度学习】的案例深度解析](https://blog.csdn.net/2303_77720864/article/details/139654187)
+
++ [Spring Boot + Mybatis Plus实现登录注册](https://blog.csdn.net/qq_45993474/article/details/139634578)
+
++ [【Windows下Segment Any 3D Gaussians（SAGA）的配置及使用 --- 详细版】](https://blog.csdn.net/m0_64982248/article/details/139662126)
+
++ [[Shell编程学习路线]——深入理解Shell编程中的变量(理论与实例)](https://blog.csdn.net/jxjdhdnd/article/details/139620725)
+

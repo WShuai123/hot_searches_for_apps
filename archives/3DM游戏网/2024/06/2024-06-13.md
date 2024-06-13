@@ -265,3 +265,5 @@
 
 + [《海洋奇缘》真人电影女主敲定 2026年7月上映](https://www.3dmgame.com/news/202406/3897277.html)
 
++ [SK海力士GDDR7显存将于今年Q4量产](https://www.3dmgame.com/news/202406/3897280.html)
+
