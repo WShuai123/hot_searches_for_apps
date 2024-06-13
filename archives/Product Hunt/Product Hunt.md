@@ -105,3 +105,5 @@
 
 + [Adderpad](https://www.producthunt.com/posts/adderpad)
 
++ [Music News](https://www.producthunt.com/posts/music-news)
+

@@ -103,3 +103,11 @@
 
 + [CPU 2.0时代即将到来！CPU性能提升100倍](https://www.3dmgame.com/news/202406/3897285.html)
 
++ [《波斯王子：失落的王冠》Steam版8/8推出](https://www.3dmgame.com/news/202406/3897288.html)
+
++ [《龙珠：电光火石0》游戏模式展示/支持分屏多人](https://www.3dmgame.com/news/202406/3897289.html)
+
++ [《奇异人生：双重曝光》加长版实机游戏视频](https://www.3dmgame.com/news/202406/3897287.html)
+
++ [《使命召唤：黑色行动6》本地合作仅面向新平台](https://www.3dmgame.com/news/202406/3897286.html)
+

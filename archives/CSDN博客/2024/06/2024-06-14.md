@@ -101,3 +101,33 @@
 
 + [【ARM Coresight Debug 系列 -- ARMv8/v9 Watchpoint 软件实现地址监控详细介绍】](https://blog.csdn.net/sinat_32960911/article/details/139631908)
 
++ [MySQL Online DDL原理解读](https://blog.csdn.net/qq_26664043/article/details/139666138)
+
++ [博客赚钱全攻略：从新手到专家的变现之路](https://blog.csdn.net/coder_heweilai/article/details/139566996)
+
++ [图神经网络实战（13）——经典链接预测算法](https://blog.csdn.net/LOVEmy134611/article/details/139586182)
+
++ [【MySQL】复合查询+表的内外连接](https://blog.csdn.net/fight_p/article/details/139197431)
+
++ [使用 Elasticsearch 设计大规模向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/139645211)
+
++ [从零开始使用 Elasticsearch（8.14.0）搭建全文搜索引擎](https://blog.csdn.net/wenbingy/article/details/139617671)
+
++ [探索Edge](https://blog.csdn.net/ak2111/article/details/139640294)
+
++ [Vue3.0：前端开发的新纪元，核心特性全览](https://blog.csdn.net/wjs0406/article/details/139630224)
+
++ [【云计算】Docker部署Nextcloud网盘并实现随地公网远程访问](https://blog.csdn.net/weixin_46022776/article/details/139596988)
+
++ [[Shell编程学习路线]——深入理解Shell编程中的变量(理论与实例)](https://blog.csdn.net/jxjdhdnd/article/details/139620725)
+
++ [vue 生命周期 钩子函数 keep-alive activated deactivated](https://blog.csdn.net/u011149152/article/details/139658147)
+
++ [一站到底-Vue移动端从零到一构建高效应用](https://blog.csdn.net/2302_76329106/article/details/139597639)
+
++ [web安全-前端层面](https://blog.csdn.net/qq_40588441/article/details/139606912)
+
++ [YOLOv9改进策略 | 损失函数篇 | 利用SlideLoss助力YOLOv9有效涨点（附代码 + 完整修改方式）](https://blog.csdn.net/java1314777/article/details/139663549)
+
++ [山东大学软件学院项目实训-创新实训-基于大模型的旅游平台（三十二）- 微服务(12)](https://blog.csdn.net/qq_64663346/article/details/139630574)
+

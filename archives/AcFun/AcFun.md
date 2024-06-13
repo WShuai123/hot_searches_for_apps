@@ -73,3 +73,5 @@
 
 + [《当》AI秋哥演唱歌曲](http://www.acfun.cn/v/ac44822741)
 
++ [夏天就该去泳池！还有粉嫩比基尼](http://www.acfun.cn/v/ac44818728)
+
