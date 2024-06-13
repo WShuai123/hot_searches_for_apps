@@ -67,3 +67,5 @@
 
 + [建议立即删除！谷歌 EmailGPT 曝零日漏洞](https://www.freebuf.com/news/403414.html)
 
++ [国内白帽子的海外第一单，750刀](https://www.freebuf.com/news/403509.html)
+

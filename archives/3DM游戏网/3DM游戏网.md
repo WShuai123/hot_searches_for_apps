@@ -249,3 +249,9 @@
 
 + [高通骁龙峰会2024定档10月！小米15有望首发骁龙8 Gen4](https://www.3dmgame.com/news/202406/3897268.html)
 
++ [苹果库克：Apple智能很强 终于能让我们少刷手机了](https://www.3dmgame.com/news/202406/3897274.html)
+
++ [第12辆FF91完成交付！贾跃亭：正考虑推出第二品牌](https://www.3dmgame.com/news/202406/3897273.html)
+
++ [黑暗奇幻漫画《废渊战鬼》宣布将TV动画化 2025年开播](https://www.3dmgame.com/news/202406/3897272.html)
+

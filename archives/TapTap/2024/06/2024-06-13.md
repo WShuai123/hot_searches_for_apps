@@ -23,3 +23,5 @@
 
 + [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
 
++ [新月同行](https://www.taptap.cn/app/242626)
+

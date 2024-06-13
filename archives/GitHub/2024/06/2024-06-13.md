@@ -33,3 +33,27 @@
 
 + [AvaloniaUI / Avalonia](https://github.com/AvaloniaUI/Avalonia)
 
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+
++ [gchq / CyberChef](https://github.com/gchq/CyberChef)
+
++ [huggingface / diffusers](https://github.com/huggingface/diffusers)
+
++ [fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI)
+
++ [warpdotdev / Warp](https://github.com/warpdotdev/Warp)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [datastrato / gravitino](https://github.com/datastrato/gravitino)
+
++ [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
+
++ [solana-labs / solana-program-library](https://github.com/solana-labs/solana-program-library)
+
++ [IDEA-Research / GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+
++ [microsoft / playwright](https://github.com/microsoft/playwright)
+
