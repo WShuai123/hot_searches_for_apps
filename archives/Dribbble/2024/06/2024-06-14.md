@@ -67,3 +67,15 @@
 
 + [Bank](https://dribbble.com/shots/)
 
++ [Hatch Branding](https://dribbble.com/shots/)
+
++ [Commission work for Sellou App](https://dribbble.com/shots/)
+
++ [Case Study: Travel Tracker Service Website](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #2](https://dribbble.com/shots/)
+
++ [Believe in the Creative Process](https://dribbble.com/shots/)
+
++ [Nike icons from my archive](https://dribbble.com/shots/)
+
