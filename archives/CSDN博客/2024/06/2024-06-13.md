@@ -147,3 +147,9 @@
 
 + [【网络编程】基于TCP的服务器端/客户端](https://blog.csdn.net/2301_79867980/article/details/139631117)
 
++ [在k8s中部署Elasticsearch高可用集群详细教程](https://blog.csdn.net/weixin_53269650/article/details/139632433)
+
++ [Docker大学生看了都会系列（九、Docker使用Buildx构建不同CPU架构镜像）](https://blog.csdn.net/donkor_/article/details/139545961)
+
++ [Solr 日志系统7.4.0部署和迁移到本地，Core Admin 添加新的core报错](https://blog.csdn.net/weixin_45652150/article/details/139631574)
+

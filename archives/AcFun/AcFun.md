@@ -73,3 +73,5 @@
 
 + [人间魅魔套装：乳胶衣！简直犯规了啊～](http://www.acfun.cn/v/ac44780683)
 
++ [【东方】Fortunate Kitten - remix【Electro Swing】](http://www.acfun.cn/v/ac44784420)
+

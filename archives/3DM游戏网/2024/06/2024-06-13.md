@@ -151,3 +151,19 @@
 
 + [《刺客信条：影》不强迫玩家用黑人武士 一直用女忍没问题](https://www.3dmgame.com/news/202406/3897211.html)
 
++ [PC Gamer痛批《龙腾世纪：影障守护者》：一点也不像《龙腾世纪》](https://www.3dmgame.com/news/202406/3897228.html)
+
++ [《战争机器：事变日》画面超棒 光追和画面技术介绍](https://www.3dmgame.com/news/202406/3897229.html)
+
++ [太空生存建造游戏《世代流亡》现已登录Steam平台 预计2025年推出](https://www.3dmgame.com/news/202406/3897227.html)
+
++ [夏季展会举办期间全球游戏热度排名 《黑神话》上榜](https://www.3dmgame.com/news/202406/3897226.html)
+
++ [国产精品单机《心渊梦境》今日登陆Nintendo e商店，限时七折优惠](https://www.3dmgame.com/news/202406/3897225.html)
+
++ [沉浸式恋爱游戏《爱上变身情人》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3897230.html)
+
++ [《帕丁顿熊在秘鲁》预告及海报公布 11月8日英国上映](https://www.3dmgame.com/news/202406/3897224.html)
+
++ [游骑兵解释《乐高地平线大冒险》为何登陆Switch：游戏适合所有人](https://www.3dmgame.com/news/202406/3897223.html)
+
