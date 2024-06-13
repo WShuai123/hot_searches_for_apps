@@ -255,3 +255,7 @@
 
 + [黑暗奇幻漫画《废渊战鬼》宣布将TV动画化 2025年开播](https://www.3dmgame.com/news/202406/3897272.html)
 
++ [《DOTA2》TI13中国区预选赛 Team Zero携手iG出线](https://www.3dmgame.com/news/202406/3897275.html)
+
++ [ASML瞄准下一代Hyper-NA EUV技术 2030年左右提供新的光刻设备](https://www.3dmgame.com/news/202406/3897276.html)
+

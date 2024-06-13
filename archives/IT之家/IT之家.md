@@ -53,3 +53,7 @@
 
 + [《黑神话：悟空》主创杨奇试戴实体豪华版紧箍，黄铜材质 1:1 还原](https://m.ithome.com/html/774819.htm)
 
++ [考古修复“辛追夫人”3D 数字人被质疑是复原专家自己，官方人员否认](https://m.ithome.com/html/774956.htm)
+
++ [苹果 iOS 18 新功能：iPhone 15 系列手机电量耗尽后仍能显示时间](https://m.ithome.com/html/774789.htm)
+

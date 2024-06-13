@@ -187,3 +187,17 @@
 
 + [YOLOv8模型训练参数详细解析](https://blog.csdn.net/qq_42589613/article/details/139644909)
 
++ [第 4 章：从 Spring Framework 到 Spring Boot](https://blog.csdn.net/weixin_43793859/article/details/139639219)
+
++ [【配置教程】Linux在企业端为何如此重要](https://blog.csdn.net/2301_80171004/article/details/139637106)
+
++ [Docker：认识Docker Managed Volumes管理卷](https://blog.csdn.net/qq_73899585/article/details/139566270)
+
++ [软件安全技术【太原理工大学】](https://blog.csdn.net/goldfish8848/article/details/139578740)
+
++ [【ARM Coresight Debug 系列 -- ARMv8/v9 Watchpoint 软件实现地址监控详细介绍】](https://blog.csdn.net/sinat_32960911/article/details/139631908)
+
++ [与设备无关的I/O软件](https://blog.csdn.net/JAZJD/article/details/139639185)
+
++ [网络安全等级保护基本要求 第1部分：安全通用要求](https://blog.csdn.net/2403_84237550/article/details/139613836)
+
