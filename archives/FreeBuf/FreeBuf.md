@@ -53,3 +53,9 @@
 
 + [深入探索Web API安全测试：策略、实践与案例分析](https://www.freebuf.com/articles/web/403234.html)
 
++ [众多顶级旅游App存在索取用户敏感权限等行为](https://www.freebuf.com/news/403449.html)
+
++ [我在甲方安全岗带薪摸鱼，竟被领导夸奖……](https://www.freebuf.com/fevents/403458.html)
+
++ [WithSecure：边缘软件和基础设施设备被大规模利用](https://www.freebuf.com/news/403455.html)
+

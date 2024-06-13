@@ -199,3 +199,11 @@
 
 + [iPhone16和RTX5090等都要涨价 直奔2万元大关](https://www.3dmgame.com/news/202406/3897246.html)
 
++ [模拟经营游戏《Train Simulator》Steam页面上线 第四季度发售](https://www.3dmgame.com/news/202406/3897250.html)
+
++ [3DM已参加《黑神话：悟空》闭门体验 更多消息敬请期待](https://www.3dmgame.com/news/202406/3897249.html)
+
++ [一个人太累 《绝地潜兵2》正招聘新的“战局主持人”](https://www.3dmgame.com/news/202406/3897248.html)
+
++ [休闲种田游戏《舒舒服服小岛时光》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897247.html)
+
