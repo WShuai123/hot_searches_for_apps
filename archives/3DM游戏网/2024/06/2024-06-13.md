@@ -211,3 +211,11 @@
 
 + [新功能“Creations”上线 一个任务卖7刀 《星空》再遭差评轰炸](https://www.3dmgame.com/news/202406/3897251.html)
 
++ [《黑神话：悟空》登顶Steam国区周销榜 国区定价契合玩家的预期](https://www.3dmgame.com/news/202406/3897254.html)
+
++ [《英雄联盟》总监：阿狸高价皮肤主要面向用户是土豪](https://www.3dmgame.com/news/202406/3897253.html)
+
++ [《守望先锋2》第11赛季6月20日上线：“奥特守望”](https://www.3dmgame.com/news/202406/3897256.html)
+
++ [骨头社将制作同名漫改动画《GACHI AKUTA》 首部预告放出 预计2025年放映](https://www.3dmgame.com/news/202406/3897255.html)
+
