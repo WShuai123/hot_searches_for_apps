@@ -201,3 +201,9 @@
 
 + [网络安全等级保护基本要求 第1部分：安全通用要求](https://blog.csdn.net/2403_84237550/article/details/139613836)
 
++ [【机器学习】QLoRA：基于PEFT亲手微调你的第一个AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139626801)
+
++ [通过语言大模型来学习tensorflow框架训练模型（三）](https://blog.csdn.net/dongjing991/article/details/139656863)
+
++ [【云计算】Docker部署Nextcloud网盘并实现随地公网远程访问](https://blog.csdn.net/weixin_46022776/article/details/139596988)
+

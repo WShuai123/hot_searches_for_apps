@@ -259,3 +259,9 @@
 
 + [ASML瞄准下一代Hyper-NA EUV技术 2030年左右提供新的光刻设备](https://www.3dmgame.com/news/202406/3897276.html)
 
++ [《太空房地产》今夏发售 登陆Steam抢先体验](https://www.3dmgame.com/news/202406/3897279.html)
+
++ [传OpenAI年化营收半年翻倍 增至34亿美元](https://www.3dmgame.com/news/202406/3897278.html)
+
++ [《海洋奇缘》真人电影女主敲定 2026年7月上映](https://www.3dmgame.com/news/202406/3897277.html)
+
