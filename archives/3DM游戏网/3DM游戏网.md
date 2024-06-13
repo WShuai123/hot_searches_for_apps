@@ -113,3 +113,19 @@
 
 + [原PC游戏《荒芜月球》主机版将于7/9推出](https://www.3dmgame.com/news/202406/3897200.html)
 
++ [漫威电影《刀锋战士》再度失去导演 目前制作尚未开始](https://www.3dmgame.com/news/202406/3897212.html)
+
++ [夏季游戏节将于2025年6月回归 也会有现场发布会活动](https://www.3dmgame.com/news/202406/3897210.html)
+
++ [《波斯王子：时之砂》重制版将重塑女主法拉 让其更伟大](https://www.3dmgame.com/news/202406/3897209.html)
+
++ [《堡垒之夜》音乐节震撼来袭 Metallica跨界加盟](https://www.3dmgame.com/news/202406/3897208.html)
+
++ [冰封世界末日生存游戏《Polaris》公布](https://www.3dmgame.com/news/202406/3897207.html)
+
++ [《有氧拳击 feat. 初音未来》将于7月12日推出中文版](https://www.3dmgame.com/news/202406/3897206.html)
+
++ [Limited Run Games将于下周举办LRG3 2024发布会](https://www.3dmgame.com/news/202406/3897205.html)
+
++ [须田刚一表态将支持任天堂Switch 2](https://www.3dmgame.com/news/202406/3897204.html)
+

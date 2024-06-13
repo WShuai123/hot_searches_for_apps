@@ -41,3 +41,7 @@
 
 + [Gophish钓鱼测试平台(二)——链接下载文件功能添加](https://www.freebuf.com/sectool/402459.html)
 
++ [FreeBuf早报 | 大数据赋能打击保险欺诈；微软计划“隐藏”Windows回忆功能](https://www.freebuf.com/news/403369.html)
+
++ [生成式人工智能是DevSecOps的福音还是噩梦？](https://www.freebuf.com/articles/security-management/401921.html)
+

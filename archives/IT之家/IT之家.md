@@ -27,3 +27,9 @@
 
 + [领克公布首款纯电轿车 ZERO 官图、内饰设计，今晚 8 点全球首发](https://m.ithome.com/html/774623.htm)
 
++ [欧盟拟对中国电动汽车加征最高 38.1% 关税：上汽、吉利、比亚迪被点名，宝马大众奔驰公开反对](https://m.ithome.com/html/774767.htm)
+
++ [华为余承东盛赞：AITO 问界新 M7 Ultra 上市首周交付 4349 辆新车创纪录](https://m.ithome.com/html/774737.htm)
+
++ [为啥高考完，学了三年的东西立马忘干净了](https://m.ithome.com/html/774732.htm)
+
