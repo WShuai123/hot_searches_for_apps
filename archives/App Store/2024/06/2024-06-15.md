@@ -205,3 +205,7 @@
 
 + [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
 
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+

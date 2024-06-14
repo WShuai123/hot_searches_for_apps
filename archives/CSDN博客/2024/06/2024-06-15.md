@@ -129,3 +129,5 @@
 
 + [【FPGA项目】bin文件ram存取回环测试](https://blog.csdn.net/m0_56262476/article/details/139649658)
 
++ [了解AIGC：让AI创造内容，改变未来](https://blog.csdn.net/double222222/article/details/139653135)
+
