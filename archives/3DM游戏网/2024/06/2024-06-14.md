@@ -243,3 +243,25 @@
 
 + [《黑神话》实体收藏版1998元被疯抢 有人炒至3万元](https://www.3dmgame.com/news/202406/3897348.html)
 
++ [AMD苏妈回忆IBM工作经历 曾参与PS3 Cell处理器开发](https://www.3dmgame.com/news/202406/3897366.html)
+
++ [小米SU7销量连续下跌 王化回应：交付压力大 6月会破万](https://www.3dmgame.com/news/202406/3897364.html)
+
++ [一年收400亿：苹果因“苹果税”向中国用户发难 数字商品被下架](https://www.3dmgame.com/news/202406/3897365.html)
+
++ [《吸血鬼王朝》：转生成为吸血鬼：手把手教你建造自己的城堡，试玩免费开放中](https://www.3dmgame.com/news/202406/3897362.html)
+
++ [青春？惊悚？追忆？-- Steam新品节好游推荐之《晨海星澜》](https://www.3dmgame.com/news/202406/3897360.html)
+
++ [《中国式网游》新品节试玩demo正式开启！](https://www.3dmgame.com/news/202406/3897359.html)
+
++ [感受热带微风，免费多人沙盒游戏《宝藏世界》灿烂夏日活动回归](https://www.3dmgame.com/news/202406/3897358.html)
+
++ [GSE Otome及YAORA Rainbow Gala 31香港同人志即卖会首日现场！](https://www.3dmgame.com/news/202406/3897357.html)
+
++ [《真·女神转生Ⅴ Vengeance》今日全平台发售！发售纪念微博抽奖活动进行中](https://www.3dmgame.com/news/202406/3897356.html)
+
++ [探索《农夫王朝2》必做的五件事：一窥你的农场冒险之旅](https://www.3dmgame.com/news/202406/3897363.html)
+
++ [探索更深的冒险世界：必玩放置神作《梅尔沃放置》全新DLC《步入深渊》今日上线](https://www.3dmgame.com/news/202406/3897361.html)
+

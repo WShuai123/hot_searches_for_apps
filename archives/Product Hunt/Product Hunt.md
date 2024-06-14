@@ -145,3 +145,7 @@
 
 + [Start List - Startup Idea Tester](https://www.producthunt.com/posts/start-list-startup-idea-tester)
 
++ [Chatty Bots](https://www.producthunt.com/posts/chatty-bots)
+
++ [NewRA.ai](https://www.producthunt.com/posts/newra-ai)
+

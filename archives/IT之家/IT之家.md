@@ -53,3 +53,7 @@
 
 + [华为余承东：有大车企想合作推出智选车，但我们目前没有资源、人手有限](https://m.ithome.com/html/775113.htm)
 
++ [用键盘模拟器假装积极工作，富国银行解雇十余名“高科技摸鱼”员工](https://m.ithome.com/html/775141.htm)
+
++ [极简手机 Light Phone III 发布：时隔 6 年回归，电池可更换、实体拍照键，首发享半价 399 美元](https://m.ithome.com/html/775143.htm)
+

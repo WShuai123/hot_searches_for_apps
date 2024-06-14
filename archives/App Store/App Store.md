@@ -215,3 +215,5 @@
 
 + [58本地](https://itunes.apple.com/cn/app/id1370819508?mt=8)
 
++ [文心一言-你的随身智能助手](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
