@@ -123,3 +123,33 @@
 
 + [《我的世界》更新上线 带来全新地下试炼内容](https://www.3dmgame.com/news/202406/3897293.html)
 
++ [魔兽总经理John Hight宣布离职 已在暴雪任职12年](https://www.3dmgame.com/news/202406/3897308.html)
+
++ [《刺客信条：影》官方实机解析视频 战斗潜行系统革新](https://www.3dmgame.com/news/202406/3897309.html)
+
++ [《英雄立志传：三国志》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897307.html)
+
++ [《流放之路2》PS5 25分钟沙发合作实机 打击感强烈](https://www.3dmgame.com/news/202406/3897306.html)
+
++ [《绝地潜兵2》武器和支援主要平衡性补丁现已推出](https://www.3dmgame.com/news/202406/3897305.html)
+
++ [沙盒生存建造游戏《ASKA》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897304.html)
+
++ [《电锯甜心RePOP》宣布9月25日发售 登陆多平台支持中文](https://www.3dmgame.com/news/202406/3897301.html)
+
++ [《盗贼之海》登陆PS主机后 称霸欧美5月下载榜](https://www.3dmgame.com/news/202406/3897310.html)
+
++ [《神鬼寓言4》计划于2025年底发售 大家期待吗？](https://www.3dmgame.com/news/202406/3897302.html)
+
++ [《奇异人生：双重曝光》开发者确认 玩家能够保留前作中麦克斯选择的结局](https://www.3dmgame.com/news/202406/3897300.html)
+
++ [《龙腾世纪4》技能树很庞大 游戏等级上限为50级](https://www.3dmgame.com/news/202406/3897299.html)
+
++ [TV动画《迷宫饭》第2季制作决定 新视觉图](https://www.3dmgame.com/news/202406/3897298.html)
+
++ [《国足勇夺世界杯》Steam页面 发售日期待定](https://www.3dmgame.com/news/202406/3897303.html)
+
++ [《刺客信条：影》主创回应马斯克负面评论 解释男主为何是黑人](https://www.3dmgame.com/news/202406/3897297.html)
+
++ [《龙腾世纪：影障守护者》没有微交易 不会强制Steam用户绑定EA账户](https://www.3dmgame.com/news/202406/3897296.html)
+

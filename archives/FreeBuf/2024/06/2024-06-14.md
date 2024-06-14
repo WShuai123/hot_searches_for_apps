@@ -45,3 +45,5 @@
 
 + [深度解析 | “透明部落（APT36）”持续攻击印度政府、国防部门](https://www.freebuf.com/articles/neopoints/403289.html)
 
++ [白盒代码审计：关于VsCode中CodeQL的应用](https://www.freebuf.com/articles/web/402726.html)
+
