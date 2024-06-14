@@ -117,3 +117,9 @@
 
 + [索尼方面愿意把地平线主角艾洛依给任天堂大乱斗用](https://www.3dmgame.com/news/202406/3897290.html)
 
++ [宫崎英高希望看到《血源》PC版 但这取决于索尼](https://www.3dmgame.com/news/202406/3897295.html)
+
++ [PSN曝光《超越善恶》20周年纪念版即将发布](https://www.3dmgame.com/news/202406/3897294.html)
+
++ [《我的世界》更新上线 带来全新地下试炼内容](https://www.3dmgame.com/news/202406/3897293.html)
+

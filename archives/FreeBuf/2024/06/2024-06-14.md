@@ -41,3 +41,7 @@
 
 + [白帽报告苹果Vision Pro 特有漏洞，或可导致空间计算黑客攻击](https://www.freebuf.com/news/403303.html)
 
++ [FreeBuf早报 | 黑客疑似已掌握黑莓公司34万亿文件；纽约时报发生重大数据泄露事故](https://www.freebuf.com/news/403416.html)
+
++ [深度解析 | “透明部落（APT36）”持续攻击印度政府、国防部门](https://www.freebuf.com/articles/neopoints/403289.html)
+

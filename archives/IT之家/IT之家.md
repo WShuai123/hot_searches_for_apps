@@ -25,3 +25,7 @@
 
 + [小米 Redmi K70 Ultra 手机参数曝光，继续搭载“光影猎人 800”主摄](https://m.ithome.com/html/775009.htm)
 
++ [4999 元起，荣耀首款小折叠手机 Magic V Flip 正式发布：全面外屏 + 高通骁龙 8+ Gen1](https://m.ithome.com/html/775017.htm)
+
++ [消息称小红书两年工龄就是“活化石”，高薪难掩高强度工作与组织动荡](https://m.ithome.com/html/774892.htm)
+
