@@ -75,3 +75,13 @@
 
 + [Characters in Transit - 1](https://dribbble.com/shots/)
 
++ [Case Study: Travel Tracker Service Website](https://dribbble.com/shots/)
+
++ [Pocahontas](https://dribbble.com/shots/)
+
++ [Night Bazaar Spook: Poster Illustration](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+
++ [Commission work for Sellou App](https://dribbble.com/shots/)
+
