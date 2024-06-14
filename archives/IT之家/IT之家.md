@@ -35,3 +35,5 @@
 
 + [比亚迪宋 L DM-i 完成申报，采用全新设计，预计搭载第五代 DM 混动技术](https://m.ithome.com/html/774984.htm)
 
++ [一汽奥迪 A3 家族新车完成申报：外观调整，换装 1.5T 发动机](https://m.ithome.com/html/775040.htm)
+

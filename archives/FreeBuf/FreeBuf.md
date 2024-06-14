@@ -49,3 +49,5 @@
 
 + [数据收集和分析公司 Rawdamental 错误配置，多家公司受影响](https://www.freebuf.com/news/403553.html)
 
++ [模拟全球化勒索病毒——应急响应和取证分析案例](https://www.freebuf.com/articles/web/403095.html)
+
