@@ -101,3 +101,9 @@
 
 + [【云计算】Docker部署Nextcloud网盘并实现随地公网远程访问](https://blog.csdn.net/weixin_46022776/article/details/139596988)
 
++ [写了6年SQL，推荐快速上手MySQL 的SQL语句](https://blog.csdn.net/u012955829/article/details/139662786)
+
++ [【云原生| K8S系列】Kubernetes Daemonset，全面指南](https://blog.csdn.net/sinat_28521487/article/details/139615833)
+
++ [矩阵的掩膜操作](https://blog.csdn.net/weixin_45591821/article/details/139603500)
+
