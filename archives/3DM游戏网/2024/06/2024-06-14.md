@@ -271,3 +271,7 @@
 
 + [3A科幻动作冒险游戏《EXODUS》世界观视频“绿色世界”发布](https://www.3dmgame.com/news/202406/3897368.html)
 
++ [女子特战队动作电影《绝密任务》官宣撤档 新档期待定](https://www.3dmgame.com/news/202406/3897371.html)
+
++ [EA招募退伍军人重塑下一代《战地》游戏](https://www.3dmgame.com/news/202406/3897370.html)
+
