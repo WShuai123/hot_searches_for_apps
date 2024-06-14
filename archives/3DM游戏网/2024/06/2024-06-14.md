@@ -227,3 +227,19 @@
 
 + [Xbox斯宾塞回忆收购动视监管受阻“拖累了团队”](https://www.3dmgame.com/news/202406/3897345.html)
 
++ [造谣公司用AI一天写谣言7000篇 每天收入1万元以上](https://www.3dmgame.com/news/202406/3897355.html)
+
++ [《罪恶装备》系列宣布将被改编为TV动画 主视觉图公布](https://www.3dmgame.com/news/202406/3897349.html)
+
++ [武侠RPG《活侠传》现已发售 综合评价“好评”](https://www.3dmgame.com/news/202406/3897354.html)
+
++ [《CRAZY TAXI》角色AXEL将在《超级猴子球 香蕉大乱斗》DLC“世嘉通行证”中登场！](https://www.3dmgame.com/news/202406/3897353.html)
+
++ [苹果陷性别歧视风波：被指控男女同工不同酬](https://www.3dmgame.com/news/202406/3897352.html)
+
++ [《波斯王子：时之沙》重制版将重新设计关卡和战斗](https://www.3dmgame.com/news/202406/3897351.html)
+
++ [演员简历泄露大量未公布新作 包括《皇牌空战8》](https://www.3dmgame.com/news/202406/3897350.html)
+
++ [《黑神话》实体收藏版1998元被疯抢 有人炒至3万元](https://www.3dmgame.com/news/202406/3897348.html)
+
