@@ -59,3 +59,9 @@
 
 + [如何使用NoMore403在网络安全评估中绕过HTTP 40X错误](https://www.freebuf.com/sectool/403400.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [知名汽车公司被曝使用大量用户数据训练AI大模型，造成个人数据泄露](https://www.freebuf.com/news/403553.html)
+
++ [无法修复立即删除！谷歌 EmailGPT 曝零日漏洞](https://www.freebuf.com/news/403414.html)
+

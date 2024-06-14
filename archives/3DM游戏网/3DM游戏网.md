@@ -205,3 +205,19 @@
 
 + [恐怖游戏《翌日 -波奇狗的历险记-》Steam页面上线 支持简中](https://www.3dmgame.com/news/202406/3897332.html)
 
++ [滚导确认新DC宇宙首部作品《生物突击队》将于2024年12月开播](https://www.3dmgame.com/news/202406/3897344.html)
+
++ [《小妖怪的夏天：从前有座浪浪山》发布海报 2025年暑期上映](https://www.3dmgame.com/news/202406/3897343.html)
+
++ [《生化危机9》更多细节内容泄露 主角确定为里昂和吉尔](https://www.3dmgame.com/news/202406/3897342.html)
+
++ [KK官方对战平台新图上线 修仙之旅燃情启航，割草激战畅享无尽狂欢！](https://www.3dmgame.com/news/202406/3897341.html)
+
++ [KK官方对战平台在线招募“精神股东”，万元奖金等你来瓜分！](https://www.3dmgame.com/news/202406/3897340.html)
+
++ [KK官方对战平台618大促开启，天降豪礼等你来拿！](https://www.3dmgame.com/news/202406/3897339.html)
+
++ [卡普空调查显示：玩家最期待《恐龙危机》新作 最爱但丁](https://www.3dmgame.com/news/202406/3897338.html)
+
++ [国产大飞机C919第四条航线今日开通 获民航最高礼仪过水门](https://www.3dmgame.com/news/202406/3897337.html)
+

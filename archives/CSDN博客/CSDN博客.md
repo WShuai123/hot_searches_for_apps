@@ -183,3 +183,9 @@
 
 + [Spring Boot集成 Spring Retry 实现容错重试机制并附源码](https://blog.csdn.net/lhmyy521125/article/details/139661753)
 
++ [【机器学习】机器学习赋能医疗健康：从诊断到治疗的智能化革命](https://blog.csdn.net/EterNity_TiMe_/article/details/139663451)
+
++ [Go Module详解](https://blog.csdn.net/chenlong_cxy/article/details/139607878)
+
++ [精通AI虚拟数字人制作与应用](https://blog.csdn.net/qq_44273429/article/details/139613433)
+
