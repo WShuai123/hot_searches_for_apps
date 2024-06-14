@@ -47,3 +47,5 @@
 
 + [白盒代码审计：关于VsCode中CodeQL的应用](https://www.freebuf.com/articles/web/402726.html)
 
++ [数据收集和分析公司 Rawdamental 错误配置，多家公司受影响](https://www.freebuf.com/news/403553.html)
+

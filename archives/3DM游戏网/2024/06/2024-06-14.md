@@ -165,3 +165,29 @@
 
 + [克苏鲁风格生存恐怖游戏《理智边缘》 现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897316.html)
 
++ [特斯拉要量产Optimus人形机器人：超200亿个 比人类还多](https://www.3dmgame.com/news/202406/3897329.html)
+
++ [动画电影《守望者 第一章》预告 年内上映](https://www.3dmgame.com/news/202406/3897326.html)
+
++ [《中世纪王朝》合作模式6月27日登陆主机 支持跨平台联机](https://www.3dmgame.com/news/202406/3897327.html)
+
++ [苹果Vision Pro头显国行版试用预约：可体验30分钟左右](https://www.3dmgame.com/news/202406/3897328.html)
+
++ [聊天空间《VRChat》开发商招人过度 宣布裁员30%](https://www.3dmgame.com/news/202406/3897325.html)
+
++ [第二季还未首播 HBO宣布续订《龙之家族》第三季](https://www.3dmgame.com/news/202406/3897324.html)
+
++ [《燕云十六声》精美截图 画面唯美让人沉醉其中](https://www.3dmgame.com/news/202406/3897322.html)
+
++ [恋爱系经营模拟游戏《芙哇芙哇女仆咖啡厅》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897321.html)
+
++ [《王国之心》系列Steam正式发售 合集售价496.8元](https://www.3dmgame.com/news/202406/3897320.html)
+
++ [《铁拳8》总监原田胜弘回应联动《死或生》：可能性很小](https://www.3dmgame.com/news/202406/3897319.html)
+
++ [《流放之路2》不会追随暗黑4脚步 开放世界不适合ARPG](https://www.3dmgame.com/news/202406/3897318.html)
+
++ [英国销量5月榜：《夜族崛起》正式推出跃居榜首](https://www.3dmgame.com/news/202406/3897317.html)
+
++ [美国演员工会：若游戏发行商不同意AI协议就会罢工](https://www.3dmgame.com/news/202406/3897323.html)
+

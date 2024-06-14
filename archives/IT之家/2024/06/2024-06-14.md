@@ -31,3 +31,7 @@
 
 + [售价 17.59 万元起，长安深蓝 G318 车型上市一小时订单突破 3000 辆](https://m.ithome.com/html/775028.htm)
 
++ [京东因 2024 央视春晚超额大奖被罚 5 万元](https://m.ithome.com/html/775064.htm)
+
++ [比亚迪宋 L DM-i 完成申报，采用全新设计，预计搭载第五代 DM 混动技术](https://m.ithome.com/html/774984.htm)
+
