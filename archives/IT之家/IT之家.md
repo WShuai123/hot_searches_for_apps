@@ -41,3 +41,7 @@
 
 + [【IT之家开箱】荣耀 Magic V Flip 手机图赏：拉高小折叠屏颜值上限](https://m.ithome.com/html/775020.htm)
 
++ [网传“华为是国内最大的牛肉进口商”，官方回应：无稽之谈，勿传勿信](https://m.ithome.com/html/775125.htm)
+
++ [华为余承东：暂时不考虑推出 20 万元以下汽车，鸿蒙智行 30 万元以下的基本都亏损](https://m.ithome.com/html/775115.htm)
+

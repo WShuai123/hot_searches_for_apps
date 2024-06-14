@@ -57,3 +57,5 @@
 
 + [细思极恐，知名汽车经销商使用用户数据训练AI大模型](https://www.freebuf.com/news/403553.html)
 
++ [如何使用NoMore403在网络安全评估中绕过HTTP 40X错误](https://www.freebuf.com/sectool/403400.html)
+

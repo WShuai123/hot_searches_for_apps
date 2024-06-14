@@ -195,3 +195,13 @@
 
 + [《寄生兽》作者岩明均漫画《七夕之国》改编同名电视剧发布宣传预告](https://www.3dmgame.com/news/202406/3897330.html)
 
++ [《漫威争锋》新角色“潘妮·帕克”预告 驾驶蜘蛛机甲](https://www.3dmgame.com/news/202406/3897336.html)
+
++ [《怪物猎人：荒野》总监：我做的怪猎都会注重生态环境](https://www.3dmgame.com/news/202406/3897335.html)
+
++ [赛博朋克风类银河恶魔城游戏《幻刃奇美拉》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897334.html)
+
++ [《博德之门3》Xbox实体豪华版玩家能获得两份游戏 拉瑞安允许玩家保留](https://www.3dmgame.com/news/202406/3897333.html)
+
++ [恐怖游戏《翌日 -波奇狗的历险记-》Steam页面上线 支持简中](https://www.3dmgame.com/news/202406/3897332.html)
+
