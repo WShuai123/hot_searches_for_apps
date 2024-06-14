@@ -221,3 +221,9 @@
 
 + [国产大飞机C919第四条航线今日开通 获民航最高礼仪过水门](https://www.3dmgame.com/news/202406/3897337.html)
 
++ [暂只能合作4家！余承东：华为智选车30万以下都亏损 不为降成本降低产品质量](https://www.3dmgame.com/news/202406/3897347.html)
+
++ [《死亡之屋2：重制版》在欧洲获得评级 尚未正式公布](https://www.3dmgame.com/news/202406/3897346.html)
+
++ [Xbox斯宾塞回忆收购动视监管受阻“拖累了团队”](https://www.3dmgame.com/news/202406/3897345.html)
+

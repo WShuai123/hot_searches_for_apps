@@ -65,3 +65,7 @@
 
 + [无法修复立即删除！谷歌 EmailGPT 曝零日漏洞](https://www.freebuf.com/news/403414.html)
 
++ [几十块就能“开盒”，还能查祖上三代？](https://www.freebuf.com/articles/neopoints/403605.html)
+
++ [个人数据被公开！大量车辆与驾驶数据被用来训练AI大模型](https://www.freebuf.com/news/403553.html)
+

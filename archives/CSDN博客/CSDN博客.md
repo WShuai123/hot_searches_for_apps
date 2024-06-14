@@ -189,3 +189,7 @@
 
 + [精通AI虚拟数字人制作与应用](https://blog.csdn.net/qq_44273429/article/details/139613433)
 
++ [【开发环境】PX4无人机实物使用视觉或运动捕捉系统进行位置估计](https://blog.csdn.net/weixin_45031928/article/details/139656406)
+
++ [体验亚马逊AIGC——Amazon Bedrock](https://blog.csdn.net/m0_73367097/article/details/139678880)
+
