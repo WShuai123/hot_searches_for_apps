@@ -101,3 +101,11 @@
 
 + [英国销量5月榜：《夜族崛起》正式推出跃居榜首](https://www.3dmgame.com/news/202406/3897317.html)
 
++ [《活侠传》Steam多半差评 存档有问题](https://www.3dmgame.com/news/202406/3897375.html)
+
++ [传闻：《战争机器：事变日》或在2025年发售](https://www.3dmgame.com/news/202406/3897373.html)
+
++ [《艾尔登法环：黄金树幽影》解锁时间发布 配置需求公开](https://www.3dmgame.com/news/202406/3897374.html)
+
++ [国产GPU达到国际水准！摩尔线程已媲美RTX 4090、A100](https://www.3dmgame.com/news/202406/3897372.html)
+

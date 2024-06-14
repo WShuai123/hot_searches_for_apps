@@ -201,3 +201,7 @@
 
 + [西瓜视频-看短剧](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
++ [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
+

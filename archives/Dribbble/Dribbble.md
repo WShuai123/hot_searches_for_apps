@@ -49,3 +49,29 @@
 
 + [Jodar Farms Logo Design](https://dribbble.com/shots/)
 
++ [Brewery Lettering](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #2](https://dribbble.com/shots/)
+
++ [Pattern for Swedish Columbia](https://dribbble.com/shots/)
+
++ [????️ ???? ????️](https://dribbble.com/shots/)
+
++ [Avocado Hugs](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Grayscale Textured Wave](https://dribbble.com/shots/)
+
++ [???? NY Rats](https://dribbble.com/shots/)
+
++ [Traveller](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
++ [Camerimage Torun](https://dribbble.com/shots/)
+
++ [This weeks draggin' ????](https://dribbble.com/shots/)
+
++ [Characters in Transit - 1](https://dribbble.com/shots/)
+
