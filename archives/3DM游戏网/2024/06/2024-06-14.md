@@ -267,3 +267,7 @@
 
 + [官方澄清：《战争机器：事变日》首支预告并非即时渲染](https://www.3dmgame.com/news/202406/3897367.html)
 
++ [传《黑神话：悟空》被ZZZQ公司SBI勒索700万美元](https://www.3dmgame.com/news/202406/3897369.html)
+
++ [3A科幻动作冒险游戏《EXODUS》世界观视频“绿色世界”发布](https://www.3dmgame.com/news/202406/3897368.html)
+

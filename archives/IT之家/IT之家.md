@@ -59,3 +59,7 @@
 
 + [小米 MIX Fold 4 手机通过 3C 入网认证：支持天通卫星通信，三证齐全只待发布](https://m.ithome.com/html/775043.htm)
 
++ [5.68 万元起，五菱缤果 2024 款纯电汽车上市](https://m.ithome.com/html/775140.htm)
+
++ [（已结束）6983.9 元：华为 Pura 70 Pro 512G 手机京东自营百亿补贴](https://m.ithome.com/html/775075.htm)
+
