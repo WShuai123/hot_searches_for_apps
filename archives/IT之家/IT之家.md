@@ -37,3 +37,7 @@
 
 + [一汽奥迪 A3 家族新车完成申报：外观调整，换装 1.5T 发动机](https://m.ithome.com/html/775040.htm)
 
++ [长安深蓝 G318 硬派 SUV 发布：1.5T 增程动力、WLTC 纯电续航最高 146 公里，17.59 万元起](https://m.ithome.com/html/775015.htm)
+
++ [【IT之家开箱】荣耀 Magic V Flip 手机图赏：拉高小折叠屏颜值上限](https://m.ithome.com/html/775020.htm)
+

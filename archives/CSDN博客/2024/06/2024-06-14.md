@@ -175,3 +175,5 @@
 
 + [YOLOv8模型训练参数详细解析](https://blog.csdn.net/qq_42589613/article/details/139644909)
 
++ [基于MATLAB仿真的BCC卷积码维特比译码算法](https://blog.csdn.net/m0_73019469/article/details/139646143)
+

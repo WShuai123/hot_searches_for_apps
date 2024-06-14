@@ -51,3 +51,9 @@
 
 + [模拟全球化勒索病毒——应急响应和取证分析案例](https://www.freebuf.com/articles/web/403095.html)
 
++ [FreeBuf 赠书第 108 期 | 九本书渗透”宝典“在等你！](https://www.freebuf.com/fevents/403499.html)
+
++ [尽快更新，Pixel 设备曝出零日漏洞](https://www.freebuf.com/news/403559.html)
+
++ [细思极恐，知名汽车经销商使用用户数据训练AI大模型](https://www.freebuf.com/news/403553.html)
+
