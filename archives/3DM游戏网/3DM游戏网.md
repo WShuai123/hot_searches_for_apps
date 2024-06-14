@@ -109,3 +109,11 @@
 
 + [国产GPU达到国际水准！摩尔线程已媲美RTX 4090、A100](https://www.3dmgame.com/news/202406/3897372.html)
 
++ [《宇宙机器人》创意总监表示联动《血源》没有深意](https://www.3dmgame.com/news/202406/3897379.html)
+
++ [新的《铲子骑士》主线游戏正在开发中](https://www.3dmgame.com/news/202406/3897378.html)
+
++ [《麦登橄榄球25》PC版将基于本世代平台制作](https://www.3dmgame.com/news/202406/3897377.html)
+
++ [《铲子骑士：希望之铲DX》面向PC平台公布](https://www.3dmgame.com/news/202406/3897376.html)
+

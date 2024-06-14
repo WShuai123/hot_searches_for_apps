@@ -107,3 +107,25 @@
 
 + [矩阵的掩膜操作](https://blog.csdn.net/weixin_45591821/article/details/139603500)
 
++ [人脸匹配——OpenCV](https://blog.csdn.net/2301_76794217/article/details/139655984)
+
++ [OpenCV单词轮廓检测](https://blog.csdn.net/LOVEmy134611/article/details/139669756)
+
++ [【AI 大模型】AI 发展和业务分类 ( 人工智能发展阶段 | AI 业务分类 | ChatGPT 分析 | ChatGPT 可以解决的问题 | ChatGPT 不能解决的问题 )](https://blog.csdn.net/han1202012/article/details/139632983)
+
++ [Rabbit MQ和Kafka的区别](https://blog.csdn.net/qq_40694145/article/details/139647683)
+
++ [SpringBoot之请求映射原理](https://blog.csdn.net/qq_38257958/article/details/139597696)
+
++ [Stable Diffusion 如何写出更优雅的 Prompt](https://blog.csdn.net/Everly_/article/details/139620286)
+
++ [华为鸿蒙HarmonyOS应用开发者高级认证题库](https://blog.csdn.net/jiangsuya/article/details/139630599)
+
++ [设计通用灵活的LabVIEW自动测试系统](https://blog.csdn.net/bjcyck/article/details/139664822)
+
++ [【区块链】记账的千年演化：从泥板到区块链](https://blog.csdn.net/qq_44214428/article/details/139603328)
+
++ [基于Verilog表达的FSM状态机](https://blog.csdn.net/li_kin/article/details/139662213)
+
++ [【FPGA项目】bin文件ram存取回环测试](https://blog.csdn.net/m0_56262476/article/details/139649658)
+
