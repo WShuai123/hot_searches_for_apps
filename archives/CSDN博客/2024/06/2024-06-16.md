@@ -101,3 +101,9 @@
 
 + [五、Nginx配置文件-server模块](https://blog.csdn.net/weixin_42171272/article/details/139670216)
 
++ [使用Ollama下载的模型文件(Model)默认存放在哪里？](https://blog.csdn.net/jxjdhdnd/article/details/139663240)
+
++ [【计算机网络】TCP报文详解](https://blog.csdn.net/Lin5200000/article/details/139640732)
+
++ [《站在2024年的十字路口：计算机专业是否仍是高考生的明智之选？》](https://blog.csdn.net/u014727709/article/details/139693391)
+
