@@ -29,3 +29,11 @@
 
 + [吉利诉威马技术侵权案终审获赔 6.4 亿元，创我国知识产权侵权诉讼判赔数额历史新高](https://m.ithome.com/html/775303.htm)
 
++ [小米室外摄像机太阳能板国内发布：5W 功率、IP66 防尘防水，售价 199 元](https://m.ithome.com/html/775249.htm)
+
++ [17.98 万元起，2024 款一汽红旗 H6 上市：定位 B+ 级豪华风尚轿车](https://m.ithome.com/html/775286.htm)
+
++ [一加手机 Ace 系列全新 LOGO 揭幕：性能猛兽，下周见](https://m.ithome.com/html/775301.htm)
+
++ [何小鹏否认王凤英辞职](https://m.ithome.com/html/775308.htm)
+

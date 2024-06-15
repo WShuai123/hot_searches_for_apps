@@ -149,3 +149,15 @@
 
 + [《铲子骑士：挖掘》免费DLC公布 加入全新任务](https://www.3dmgame.com/news/202406/3897388.html)
 
++ [开放世界动作冒险探索RPG《Scribe RPG》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202406/3897401.html)
+
++ [《神偷奶爸4》中文版配音演员公布 大鹏及庄达菲配音](https://www.3dmgame.com/news/202406/3897399.html)
+
++ [《绝地潜兵2》开发商回应玩家游戏内选择 为慈善捐款](https://www.3dmgame.com/news/202406/3897400.html)
+
++ [《法外枭雄：滚石城》下周发售 本周末最终测试](https://www.3dmgame.com/news/202406/3897398.html)
+
++ [免费积木赛车《螺丝起子》下周进入抢先体验阶段](https://www.3dmgame.com/news/202406/3897397.html)
+
++ [《最终幻想14：黄金的遗产》7.0版本发布宣传片](https://www.3dmgame.com/news/202406/3897395.html)
+

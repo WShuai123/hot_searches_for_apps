@@ -151,3 +151,9 @@
 
 + [ChatGPT等大模型可以代替搜索引擎吗？](https://blog.csdn.net/2401_84495872/article/details/139673831)
 
++ [Leaflet集成wheelnav在WebGIS中的应用](https://blog.csdn.net/yelangkingwuzuhu/article/details/139693310)
+
++ [ARM32开发--IIC原理](https://blog.csdn.net/xuewenyu_/article/details/139641206)
+
++ [通用大模型VS垂直大模型，你更青睐哪一方？](https://blog.csdn.net/2301_79969994/article/details/139678972)
+
