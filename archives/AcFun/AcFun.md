@@ -73,3 +73,5 @@
 
 + [Bubble pop](http://www.acfun.cn/v/ac44825925)
 
++ [【AC娘本体x1001Project】星河徜徉·云端漫步 新西兰旅行vlog](http://www.acfun.cn/v/ac44833002)
+

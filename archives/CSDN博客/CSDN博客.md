@@ -135,3 +135,11 @@
 
 + [热门开源项目OpenHarmony](https://blog.csdn.net/ak2111/article/details/139650876)
 
++ [06 SpringBoot 配置文件详解-application.yaml](https://blog.csdn.net/zhr2376494700/article/details/139664354)
+
++ [2024年的AI服务器，相当于2018年的新能源车](https://blog.csdn.net/Gabriel100yi/article/details/139683030)
+
++ [视频监控汇聚平台：接入不同品牌的监控视频，同时把所有的监控视频接到不同的上级视频监控平台(第三方平台)](https://blog.csdn.net/weixin_70208651/article/details/139661769)
+
++ [Sklearn中逻辑回归建模](https://blog.csdn.net/qq_64685283/article/details/139644991)
+

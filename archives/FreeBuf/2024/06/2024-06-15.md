@@ -45,3 +45,5 @@
 
 + [ThinkPHP 的老漏洞仍然被攻击者钟情](https://www.freebuf.com/articles/network/403034.html)
 
++ [组件风险分析与修复指引：Spring Web5.2.23.RELEASE](https://www.freebuf.com/articles/web/402506.html)
+
