@@ -89,3 +89,5 @@
 
 + [Chicago Red Stars Illustration and close up](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+

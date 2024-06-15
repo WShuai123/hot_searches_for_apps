@@ -107,3 +107,19 @@
 
 + [《站在2024年的十字路口：计算机专业是否仍是高考生的明智之选？》](https://blog.csdn.net/u014727709/article/details/139693391)
 
++ [【数据分析】推断统计学及Python实现](https://blog.csdn.net/2301_81874719/article/details/139700556)
+
++ [开源大模型的新星：ChatGPT-Next-Web 项目解析与推荐](https://blog.csdn.net/qyj19920704/article/details/139667652)
+
++ [Oracle的这些BUG你要遇到,说明你是一个DBA老鸟...](https://blog.csdn.net/weixin_41645135/article/details/139709065)
+
++ [“探索机器学习的多面世界：从理论到应用与未来展望“](https://blog.csdn.net/Xxy_1008/article/details/139672696)
+
++ [【机器学习】通用大模型VS垂直大模型，你更加青睐哪一方？](https://blog.csdn.net/lmy_520/article/details/139650031)
+
++ [Navicat和SQLynx产品功能比较一（整体比较）](https://blog.csdn.net/lgbingyu00/article/details/139674146)
+
++ [VUE 查询条件重置之后， 子组件数据未置空](https://blog.csdn.net/mqiqe/article/details/139670815)
+
++ [【文档智能 & RAG】RAG增强之路-智能文档解析关键技术难点及PDF解析工具PDFlux](https://blog.csdn.net/yjh_SE007/article/details/139702697)
+

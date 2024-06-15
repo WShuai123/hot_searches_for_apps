@@ -211,3 +211,5 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [懂球帝-欧洲杯看球聊球社区](https://itunes.apple.com/cn/app/id766695512?mt=8)
+
