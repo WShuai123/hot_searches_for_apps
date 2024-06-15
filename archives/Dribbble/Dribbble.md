@@ -49,3 +49,17 @@
 
 + [???? NY Rats](https://dribbble.com/shots/)
 
++ [Hootenanny Gravel Ride](https://dribbble.com/shots/)
+
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [This weeks draggin' ????](https://dribbble.com/shots/)
+
++ [Shiner Bock - Ram Illustration](https://dribbble.com/shots/)
+
++ [Aspen](https://dribbble.com/shots/)
+
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
++ [Hats](https://dribbble.com/shots/)
+

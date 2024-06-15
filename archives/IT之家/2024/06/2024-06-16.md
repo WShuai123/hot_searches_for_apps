@@ -25,3 +25,5 @@
 
 + [会员 618 再补券：京东 PLUS + 芒果 TV / 爱奇艺 / 腾讯视频联合年卡 98~158 元发车](https://m.ithome.com/html/775341.htm)
 
++ [小米手环 8 京东自营再降新低：标准版 169 元、NFC 版 218 元限时购](https://m.ithome.com/html/775390.htm)
+

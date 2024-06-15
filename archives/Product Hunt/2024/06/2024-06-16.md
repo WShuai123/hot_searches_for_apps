@@ -101,3 +101,9 @@
 
 + [Libretto.fm](https://www.producthunt.com/posts/libretto-fm)
 
++ [AI drafts by Help Scout](https://www.producthunt.com/posts/ai-drafts-by-help-scout)
+
++ [Dream Machine by Luma AI](https://www.producthunt.com/posts/dream-machine-by-luma-ai)
+
++ [Billfy](https://www.producthunt.com/posts/billfy)
+
