@@ -75,3 +75,9 @@
 
 + [Characters + pattern I Client: Fiverr](https://dribbble.com/shots/)
 
++ [Case Study: Travel Tracker Service Website](https://dribbble.com/shots/)
+
++ [Glyph Beer 48](https://dribbble.com/shots/)
+
++ [Nike icons from my archive](https://dribbble.com/shots/)
+
