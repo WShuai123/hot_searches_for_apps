@@ -41,3 +41,23 @@
 
 + [google / googletest](https://github.com/google/googletest)
 
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [puppeteer / puppeteer](https://github.com/puppeteer/puppeteer)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [lepoco / wpfui](https://github.com/lepoco/wpfui)
+
++ [hashicorp / terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+
++ [StevenBlack / hosts](https://github.com/StevenBlack/hosts)
+
++ [fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI)
+
++ [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+

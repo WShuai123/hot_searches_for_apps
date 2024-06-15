@@ -191,3 +191,7 @@
 
 + [《eFootball》第七赛季更新加入欧洲杯和美洲杯赛事](https://www.3dmgame.com/news/202406/3897415.html)
 
++ [四川霸气上新“陆地航母” 西南最大动车所](https://www.3dmgame.com/news/202406/3897417.html)
+
++ [《赛博朋克2077》被取消DLC泄露：登月&第二次企业大战](https://www.3dmgame.com/news/202406/3897418.html)
+
