@@ -143,3 +143,11 @@
 
 + [Sklearn中逻辑回归建模](https://blog.csdn.net/qq_64685283/article/details/139644991)
 
++ [如何在3天内开发一个鸿蒙app](https://blog.csdn.net/speedoooo/article/details/139655061)
+
++ [03 SpringBoot 的工作原理](https://blog.csdn.net/zhr2376494700/article/details/139664288)
+
++ [计算机网络 —— 应用层（DNS域名系统）](https://blog.csdn.net/qq_67693066/article/details/139666529)
+
++ [ChatGPT等大模型可以代替搜索引擎吗？](https://blog.csdn.net/2401_84495872/article/details/139673831)
+

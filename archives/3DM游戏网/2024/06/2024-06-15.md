@@ -133,3 +133,19 @@
 
 + [《荒野枪巫》开发商Galvanic Games倒闭 销量后劲不足](https://www.3dmgame.com/news/202406/3897380.html)
 
++ [密室逃脱游戏《The Neighbor》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897396.html)
+
++ [《冰汽时代2》继续启用初代作曲 曾为《巫师3》配乐](https://www.3dmgame.com/news/202406/3897394.html)
+
++ [SRPG游戏《RED DAWN》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897393.html)
+
++ [Intel 13/14代i9不稳定的根源找到了！并非主板原因](https://www.3dmgame.com/news/202406/3897392.html)
+
++ [ZeniMax工会为全体员工成功争取到六月独立日假期](https://www.3dmgame.com/news/202406/3897391.html)
+
++ [科幻合作射击游戏《Polaris》即将进入beta测试阶段](https://www.3dmgame.com/news/202406/3897390.html)
+
++ [《刺客信条：影》封建日本前瞻预告 现已开启预购](https://www.3dmgame.com/news/202406/3897389.html)
+
++ [《铲子骑士：挖掘》免费DLC公布 加入全新任务](https://www.3dmgame.com/news/202406/3897388.html)
+
