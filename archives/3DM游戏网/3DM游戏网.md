@@ -187,3 +187,7 @@
 
 + [《最终幻想战略版：重制版》开发传闻再获力挺](https://www.3dmgame.com/news/202406/3897412.html)
 
++ [《天国：拯救2》开发商介绍MOD工具和DLC规划](https://www.3dmgame.com/news/202406/3897416.html)
+
++ [《eFootball》第七赛季更新加入欧洲杯和美洲杯赛事](https://www.3dmgame.com/news/202406/3897415.html)
+

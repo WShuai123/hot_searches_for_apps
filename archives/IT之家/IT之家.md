@@ -51,3 +51,5 @@
 
 + [抖音与央视总台达成合作，成为 2024 巴黎奥运会持权转播商](https://m.ithome.com/html/775290.htm)
 
++ [3 年冷饭再炒，高通确认骁龙 6s Gen 3 芯片为增强版 695：提升 CPU、GPU 和 AI 性能](https://m.ithome.com/html/775349.htm)
+

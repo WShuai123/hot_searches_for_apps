@@ -179,3 +179,9 @@
 
 + [大型医院手术麻醉系统源码，前端采用Vue，Ant-Design开发，稳定成熟](https://blog.csdn.net/m0_67098612/article/details/139677505)
 
++ [【机器学习】LightGBM: 优化机器学习的高效梯度提升决策树](https://blog.csdn.net/qq_44214428/article/details/139700139)
+
++ [第27讲：Ceph存储集群高可用性与性能压测实战](https://blog.csdn.net/weixin_44953658/article/details/139647485)
+
++ [项目实战--文档搜索引擎](https://blog.csdn.net/2303_78892316/article/details/139423451)
+
