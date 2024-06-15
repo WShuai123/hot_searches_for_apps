@@ -131,3 +131,7 @@
 
 + [了解AIGC：让AI创造内容，改变未来](https://blog.csdn.net/double222222/article/details/139653135)
 
++ [开源大模型的新星：ChatGPT-Next-Web 项目解析与推荐](https://blog.csdn.net/qyj19920704/article/details/139667652)
+
++ [热门开源项目OpenHarmony](https://blog.csdn.net/ak2111/article/details/139650876)
+

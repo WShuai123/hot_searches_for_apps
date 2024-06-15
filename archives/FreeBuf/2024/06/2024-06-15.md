@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 大数据赋能打击保险欺诈；微软计划“隐藏”Windows回忆功能](https://www.freebuf.com/news/403369.html)
 
++ [FreeBuf 周报 | 白帽报告苹果Vision Pro特有漏洞；欧盟各政党遭受 DDoS 攻击](https://www.freebuf.com/news/403591.html)
+
++ [ThinkPHP 的老漏洞仍然被攻击者钟情](https://www.freebuf.com/articles/network/403034.html)
+
