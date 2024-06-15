@@ -163,3 +163,7 @@
 
 + [索尼公开《直到黎明》游戏改编真人电影卡司](https://www.3dmgame.com/news/202406/3897402.html)
 
++ [马斯克资源分配“偏爱”xAI 遭特斯拉投资者起诉](https://www.3dmgame.com/news/202406/3897403.html)
+
++ [“NFT”骗局还是游戏？《香蕉》同时在线“人”数超50万](https://www.3dmgame.com/news/202406/3897404.html)
+
