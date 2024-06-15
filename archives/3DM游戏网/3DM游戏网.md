@@ -199,3 +199,11 @@
 
 + [OpenAI董事会再添新人！美国前国安局局长重磅加入](https://www.3dmgame.com/news/202406/3897420.html)
 
++ [传华纳将关闭《自杀小队》开发商Rocksteady](https://www.3dmgame.com/news/202406/3897423.html)
+
++ [《战神》之父：索尼应该收购育碧 弥补PS5第一方游戏不足](https://www.3dmgame.com/news/202406/3897424.html)
+
++ [《暗黑破坏神4》1.4.3更新日志 全职业大幅度加强](https://www.3dmgame.com/news/202406/3897422.html)
+
++ [腾讯手游《极品飞车：集结》7月11日上线](https://www.3dmgame.com/news/202406/3897421.html)
+

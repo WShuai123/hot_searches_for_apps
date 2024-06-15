@@ -63,3 +63,5 @@
 
 + [小米新款 eSIM 智能手表“证件照”出炉：配备旋转表冠、586mAh 电池](https://m.ithome.com/html/775431.htm)
 
++ [今晚 20:00 全网 618 加码再放水：两分钟速读高潮秒杀攻略，iPhone 15 系列立减 2200 元](https://m.ithome.com/html/775415.htm)
+
