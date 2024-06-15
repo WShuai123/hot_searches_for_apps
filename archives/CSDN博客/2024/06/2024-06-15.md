@@ -157,3 +157,9 @@
 
 + [通用大模型VS垂直大模型，你更青睐哪一方？](https://blog.csdn.net/2301_79969994/article/details/139678972)
 
++ [【linux网络(三)】HTTP协议详解](https://blog.csdn.net/m0_61982936/article/details/139577030)
+
++ [微服务 | Springboot整合Dubbo+Nacos实现RPC调用](https://blog.csdn.net/m0_60500421/article/details/139632609)
+
++ [PaddleTS的时序预测模型模块模块](https://blog.csdn.net/weixin_41046245/article/details/139677214)
+

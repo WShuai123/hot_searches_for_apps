@@ -47,3 +47,5 @@
 
 + [组件风险分析与修复指引：Spring Web5.2.23.RELEASE](https://www.freebuf.com/articles/web/402506.html)
 
++ [Chrome 恶意扩展盗取百万美金解惑](https://www.freebuf.com/articles/blockchain-articles/402749.html)
+

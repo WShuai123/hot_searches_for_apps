@@ -37,3 +37,7 @@
 
 + [何小鹏否认王凤英辞职](https://m.ithome.com/html/775308.htm)
 
++ [腾讯视频 visionOS 端今日上线苹果 App Store，提供逾 600 部作品](https://m.ithome.com/html/775283.htm)
+
++ [消息称 iQOO 13 手机电池容量有望超过 6000mAh，配备 2K 直屏 + 超声波指纹解锁](https://m.ithome.com/html/775181.htm)
+
