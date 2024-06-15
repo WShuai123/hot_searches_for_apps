@@ -45,3 +45,7 @@
 
 + [中兴 Axon 60 Ultra 手机上架官网：骁龙 8 Gen 2 处理器 + 6000mAh 电池，售价 6999 元起](https://m.ithome.com/html/775213.htm)
 
++ [国家气候中心称厄尔尼诺事件已于 5 月结束：持续 12 个月、强度为中等](https://m.ithome.com/html/775316.htm)
+
++ [2TB 仅 858 元：致态 TiPlus 7100 固态硬盘近期新低（7000 MB/s读取）](https://m.ithome.com/html/775346.htm)
+
