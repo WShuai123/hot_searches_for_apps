@@ -57,3 +57,9 @@
 
 + [消息称“某直板旗舰手机”将采用侧边电容指纹技术](https://m.ithome.com/html/775417.htm)
 
++ [消息称华为 Mate X6 “大折叠”手机已在路上，采用侧边电容式指纹方案](https://m.ithome.com/html/775392.htm)
+
++ [492 元起，华为开启限时 8.8 折手机内存升级活动](https://m.ithome.com/html/775405.htm)
+
++ [小米新款 eSIM 智能手表“证件照”出炉：配备旋转表冠、586mAh 电池](https://m.ithome.com/html/775431.htm)
+

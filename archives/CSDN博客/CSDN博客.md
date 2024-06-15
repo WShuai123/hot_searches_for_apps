@@ -191,3 +191,11 @@
 
 + [【机器学习】机器学习与物流科技在智能配送中的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/139390550)
 
++ [【机器学习】集成学习方法：Bagging与Boosting的应用与优势](https://blog.csdn.net/m0_52827996/article/details/139703887)
+
++ [【微信小程序开发实战项目】——如何去申请腾讯地图账号和在微信公众平台，配置request路径和添加地图插件](https://blog.csdn.net/2301_77628600/article/details/139703319)
+
++ [SpringBoot集成websocket](https://blog.csdn.net/weixin_44635157/article/details/139675020)
+
++ [SOFTS: 时间序列预测的最新模型以及Python使用示例](https://blog.csdn.net/m0_46510245/article/details/139698118)
+
