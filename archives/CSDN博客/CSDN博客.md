@@ -173,3 +173,9 @@
 
 + [Blender骨骼创建](https://blog.csdn.net/qq_42720695/article/details/139651705)
 
++ [LabVIEW软件开发任务的工作量估算方法](https://blog.csdn.net/bjcyck/article/details/139694204)
+
++ [智能合约与身份验证：区块链技术的创新应用](https://blog.csdn.net/2303_80856850/article/details/139701203)
+
++ [大型医院手术麻醉系统源码，前端采用Vue，Ant-Design开发，稳定成熟](https://blog.csdn.net/m0_67098612/article/details/139677505)
+

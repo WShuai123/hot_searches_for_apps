@@ -49,3 +49,5 @@
 
 + [2TB 仅 858 元：致态 TiPlus 7100 固态硬盘近期新低（7000 MB/s读取）](https://m.ithome.com/html/775346.htm)
 
++ [抖音与央视总台达成合作，成为 2024 巴黎奥运会持权转播商](https://m.ithome.com/html/775290.htm)
+
