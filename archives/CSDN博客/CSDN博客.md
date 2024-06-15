@@ -163,3 +163,5 @@
 
 + [PaddleTS的时序预测模型模块模块](https://blog.csdn.net/weixin_41046245/article/details/139677214)
 
++ [KafkaFlink整合原理与代码实例讲解](https://blog.csdn.net/universsky2015/article/details/139692746)
+
