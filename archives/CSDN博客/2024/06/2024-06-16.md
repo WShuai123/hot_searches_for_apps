@@ -143,3 +143,13 @@
 
 + [【VR线下大空间】元宇宙行业的集大成者(LBE)](https://blog.csdn.net/weixin_47359879/article/details/139643061)
 
++ [SpringBoot使用jasypt实现数据库信息的脱敏，以此来保护数据库的用户名username和密码password（容易上手，详细）](https://blog.csdn.net/m0_63553261/article/details/139702049)
+
++ [预处理详解](https://blog.csdn.net/soi55gshig/article/details/139689392)
+
++ [鸿蒙轻内核M核源码分析系列二一 03 文件系统LittleFS](https://blog.csdn.net/maniuT/article/details/139710474)
+
++ [阿里新发布的UniAnimate现高效人像动画生成；在ComfyUI中使用Stable 3模型；音频版的gpt2o；将 PDF 文档转换为音频播客](https://blog.csdn.net/weixin_40425640/article/details/139699370)
+
++ [论文阅读笔记：DepGraph: Towards Any Structural Pruning](https://blog.csdn.net/Z960515/article/details/139699238)
+
