@@ -105,3 +105,25 @@
 
 + [《方舟：生存飞升》PS5和XSX运行分辨率大部分时候仅720P](https://www.3dmgame.com/news/202406/3897426.html)
 
++ [《太空漫游》PC平台上线 宇宙飞船管理探索](https://www.3dmgame.com/news/202406/3897437.html)
+
++ [《艾尔登法环：黄金树幽影》大量试玩视频公开](https://www.3dmgame.com/news/202406/3897436.html)
+
++ [回暖！《绝地潜兵2》更新之后PC玩家数量飙升86%](https://www.3dmgame.com/news/202406/3897435.html)
+
++ [iOS 18隐藏功能曝光 任何文本框中都可进行数学计算](https://www.3dmgame.com/news/202406/3897434.html)
+
++ [宫崎英高：《艾尔登法环》还不是理想RPG，但已很接近](https://www.3dmgame.com/news/202406/3897433.html)
+
++ [《星球大战：亡命之徒》媒体前瞻 玩法太像《神秘海域》](https://www.3dmgame.com/news/202406/3897432.html)
+
++ [《Dark and Darker》跨平台系统实装 已登陆Steam/Epic](https://www.3dmgame.com/news/202406/3897431.html)
+
++ [《龙腾世纪：影障守护者》偏向任务驱动而非开放世界](https://www.3dmgame.com/news/202406/3897430.html)
+
++ [《绝地潜兵2》工作室CEO表示本作不会开发剧情模式](https://www.3dmgame.com/news/202406/3897429.html)
+
++ [《Fallen Aces》Steam抢先体验 漫画风格FPS新游](https://www.3dmgame.com/news/202406/3897428.html)
+
++ [《潜行者2》外媒上手前瞻：狩猎开始了，潜行者们！](https://www.3dmgame.com/news/202406/3897427.html)
+
