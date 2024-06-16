@@ -53,3 +53,5 @@
 
 + [256G 款五折清仓：小米 Redmi Note 12 标准版 5G 手机 799 元新低](https://m.ithome.com/html/775512.htm)
 
++ [iOS 18 终于支持 RCS 标准，苹果被指表现冷淡](https://m.ithome.com/html/775529.htm)
+
