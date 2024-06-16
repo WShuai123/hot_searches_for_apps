@@ -45,3 +45,5 @@
 
 + [CISA网络安全事件应急手册](https://www.freebuf.com/sectool/403142.html)
 
++ [CVE-2024-2961 漏洞分析](https://www.freebuf.com/articles/web/403508.html)
+
