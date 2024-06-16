@@ -161,3 +161,11 @@
 
 + [分布式微服务: springboot底层机制实现](https://blog.csdn.net/qq_18817831/article/details/139141678)
 
++ [【机器学习】人工智能与气候变化：利用深度学习与机器学习算法预测和缓解环境影响](https://blog.csdn.net/qq_61024956/article/details/139707031)
+
++ [Nginx负载均衡之长连接负载均衡](https://blog.csdn.net/qq_37278522/article/details/139675196)
+
++ [FPGA中复位电路的设计](https://blog.csdn.net/u011565038/article/details/139690846)
+
++ [卡尔曼滤波原理及应用（一）](https://blog.csdn.net/qq_67958647/article/details/139599050)
+

@@ -135,3 +135,5 @@
 
 + [华为纯血鸿蒙完全独立于安卓iOS 采用纯国产微内核](https://www.3dmgame.com/news/202406/3897438.html)
 
++ [玩家血祭《上古卷轴5》NPC已达1千次！直到六代问世](https://www.3dmgame.com/news/202406/3897442.html)
+

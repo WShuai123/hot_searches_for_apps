@@ -49,3 +49,5 @@
 
 + [WinAFL 实战：探索闭源软件Fuzzing技术](https://www.freebuf.com/articles/endpoint/403627.html)
 
++ [Moukthar：一款针对Android平台的远程安全监控和管理工具](https://www.freebuf.com/sectool/403403.html)
+
