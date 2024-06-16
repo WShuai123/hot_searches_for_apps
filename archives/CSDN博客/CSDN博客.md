@@ -111,3 +111,25 @@
 
 + [开源医疗大模型Llama3-Aloe-8B-Alpha，性能超越 MedAlpaca 和 PMC-LLaMA](https://blog.csdn.net/nulifancuoAI/article/details/139697731)
 
++ [Spring高手之路20——深入理解@EnableAspectJAutoProxy的力量](https://blog.csdn.net/qq_34115899/article/details/138038078)
+
++ [对大数据的批量导入MySQL数据库](https://blog.csdn.net/qq_40280043/article/details/139693421)
+
++ [苹果发布云AI系统；谷歌警告0day漏洞被利用；微软紧急推迟 AI 召回功能；劫持活动瞄准 K8s 集群 | 网安周报0614](https://blog.csdn.net/weixin_55163056/article/details/139709533)
+
++ [苹果电脑装虚拟机和双系统的区别 苹果笔记本虚拟机和双系统哪个好 虚拟机能装MacOS吗 虚拟机类似的软件](https://blog.csdn.net/2301_81704405/article/details/139699276)
+
++ [数据泄露揭露汽车巨头和其他公司收集用户数据来训练人工智能模型](https://blog.csdn.net/qq_29607687/article/details/139711002)
+
++ [使用Python在VMware虚拟机中模拟Ubuntu服务器搭建网站](https://blog.csdn.net/m0_73500130/article/details/139679460)
+
++ [基于System-Verilog点亮LED灯](https://blog.csdn.net/qq_62848601/article/details/139708384)
+
++ [关于HTTP劫持，该如何理解、防范和应对](https://blog.csdn.net/dexunyun/article/details/139720323)
+
++ [智能合约与身份验证：区块链技术的创新应用](https://blog.csdn.net/2303_80856850/article/details/139701203)
+
++ [计算机网络：网络层 - 路由选择协议](https://blog.csdn.net/fsdfafsdsd/article/details/139718646)
+
++ [体验亚马逊AIGC——Amazon Bedrock](https://blog.csdn.net/m0_73367097/article/details/139678880)
+

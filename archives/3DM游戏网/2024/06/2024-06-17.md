@@ -113,3 +113,7 @@
 
 + [《龙腾世纪：影障守护者》总监强调可进行离线游戏](https://www.3dmgame.com/news/202406/3897465.html)
 
++ [DF认为《刺客信条：影》在细节上还有待优化](https://www.3dmgame.com/news/202406/3897470.html)
+
++ [同名动漫改编游戏《怪兽8号》公开首支预告片](https://www.3dmgame.com/news/202406/3897469.html)
+
