@@ -163,3 +163,11 @@
 
 + [电影版《三体》将由张艺谋执导 目前在筹备阶段](https://www.3dmgame.com/news/202406/3897455.html)
 
++ [《黑神话：悟空》媒体前瞻泄露 不是类魂游戏](https://www.3dmgame.com/news/202406/3897459.html)
+
++ [旅行者1号满血复活 NASA修复人类最遥远探测器](https://www.3dmgame.com/news/202406/3897457.html)
+
++ [苹果：任何支持富文本的地方都可以支持Genmoji](https://www.3dmgame.com/news/202406/3897458.html)
+
++ [《死亡空间：重制版》Steam三折新史低促销 74.4元](https://www.3dmgame.com/news/202406/3897456.html)
+

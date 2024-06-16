@@ -55,3 +55,5 @@
 
 + [iOS 18 终于支持 RCS 标准，苹果被指表现冷淡](https://m.ithome.com/html/775529.htm)
 
++ [广州拟规定中小学可禁止学生带手机，经允许带入的应统一管理](https://m.ithome.com/html/775586.htm)
+
