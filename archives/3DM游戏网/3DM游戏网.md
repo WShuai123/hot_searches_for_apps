@@ -153,3 +153,7 @@
 
 + [《深岩银河》限期免费游玩开启 多人合作第一人称射击](https://www.3dmgame.com/news/202406/3897446.html)
 
++ [《龙腾世纪：影障守护者》技能树深受两款FF游戏影响](https://www.3dmgame.com/news/202406/3897451.html)
+
++ [《电锯甜心RePOP》重制版与原版画面效果对比视频](https://www.3dmgame.com/news/202406/3897452.html)
+

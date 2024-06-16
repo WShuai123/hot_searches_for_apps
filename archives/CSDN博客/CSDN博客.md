@@ -179,3 +179,9 @@
 
 + [基于微信小程序的童书购买系统的设计与实现](https://blog.csdn.net/m0_66309026/article/details/139708879)
 
++ [AI大模型探索之路-实战篇：智能化IT领域搜索引擎之知乎网站数据获取（函数封装）](https://blog.csdn.net/xiaobing259/article/details/139693535)
+
++ [ARM32开发--电源管理单元](https://blog.csdn.net/xuewenyu_/article/details/139704861)
+
++ [Python实现电脑自动关机](https://blog.csdn.net/MissYuanxi/article/details/139662886)
+

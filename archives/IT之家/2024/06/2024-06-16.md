@@ -45,3 +45,7 @@
 
 + [R7-7840HS 准系统 + 30 天试玩：零刻 SER7 迷你主机 1973 元再降价](https://m.ithome.com/html/775491.htm)
 
++ [光线传媒董事长王长田：电影《三体》由张艺谋导演](https://m.ithome.com/html/775524.htm)
+
++ [理想车友聚会发生多车追尾，智驾负责人韩龄回应：碰撞前已触发预警和 AEB](https://m.ithome.com/html/775558.htm)
+
