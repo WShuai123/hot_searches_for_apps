@@ -213,3 +213,5 @@
 
 + [懂球帝-欧洲杯看球聊球社区](https://itunes.apple.com/cn/app/id766695512?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

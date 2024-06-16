@@ -47,3 +47,5 @@
 
 + [CVE-2024-2961 漏洞分析](https://www.freebuf.com/articles/web/403508.html)
 
++ [WinAFL 实战：探索闭源软件Fuzzing技术](https://www.freebuf.com/articles/endpoint/403627.html)
+

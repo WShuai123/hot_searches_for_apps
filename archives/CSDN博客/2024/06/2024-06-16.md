@@ -153,3 +153,7 @@
 
 + [论文阅读笔记：DepGraph: Towards Any Structural Pruning](https://blog.csdn.net/Z960515/article/details/139699238)
 
++ [持续集成jenkins+gitee](https://blog.csdn.net/qq_20878673/article/details/139707267)
+
++ [基于物联网的智能晾衣架研发](https://blog.csdn.net/runweipa/article/details/139700352)
+
