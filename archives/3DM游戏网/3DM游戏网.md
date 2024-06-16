@@ -143,3 +143,13 @@
 
 + [《CUBEN》Steam页面上线 方块解谜战斗](https://www.3dmgame.com/news/202406/3897445.html)
 
++ [鸭子当主角的生存游戏 《鸭界争锋》发布试玩版](https://www.3dmgame.com/news/202406/3897450.html)
+
++ [小鹏飞行汽车京津冀首飞 像大号无人机超拉风](https://www.3dmgame.com/news/202406/3897449.html)
+
++ [涉嫌隐瞒巨额亏损！英特尔公司正在面临集体诉讼](https://www.3dmgame.com/news/202406/3897448.html)
+
++ [会谈恋爱的房子 《Building Relationships》发布试玩版](https://www.3dmgame.com/news/202406/3897447.html)
+
++ [《深岩银河》限期免费游玩开启 多人合作第一人称射击](https://www.3dmgame.com/news/202406/3897446.html)
+

@@ -43,3 +43,5 @@
 
 + [Type-C 接口 + 支持充电宝供电：小米直流变频落地扇 1X 升级版 196 元百亿补贴](https://m.ithome.com/html/775483.htm)
 
++ [R7-7840HS 准系统 + 30 天试玩：零刻 SER7 迷你主机 1973 元再降价](https://m.ithome.com/html/775491.htm)
+
