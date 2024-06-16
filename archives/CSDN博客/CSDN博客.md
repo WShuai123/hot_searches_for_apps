@@ -123,3 +123,7 @@
 
 + [【文档智能 & RAG】RAG增强之路-智能文档解析关键技术难点及PDF解析工具PDFlux](https://blog.csdn.net/yjh_SE007/article/details/139702697)
 
++ [微信小程序04: 获取openId和unionId](https://blog.csdn.net/pingzhuyan/article/details/139291769)
+
++ [SringBoot 如何使用HTTPS请求及Nginx配置Https](https://blog.csdn.net/xuxiannian/article/details/139474599)
+

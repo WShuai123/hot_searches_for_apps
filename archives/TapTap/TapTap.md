@@ -21,3 +21,5 @@
 
 + [塔瑞斯世界](https://www.taptap.cn/app/262196)
 
++ [摄影师模拟](https://www.taptap.cn/app/243523)
+
