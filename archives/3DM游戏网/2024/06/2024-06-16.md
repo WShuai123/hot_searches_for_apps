@@ -171,3 +171,9 @@
 
 + [《死亡空间：重制版》Steam三折新史低促销 74.4元](https://www.3dmgame.com/news/202406/3897456.html)
 
++ [国产怀旧游戏《世上英雄》Steam特别好评 特惠26.1元](https://www.3dmgame.com/news/202406/3897462.html)
+
++ [《加菲猫家族》全球票房已破2亿美元](https://www.3dmgame.com/news/202406/3897460.html)
+
++ [USB4 v2还得等一年多！160Gbps带宽四倍于USB4](https://www.3dmgame.com/news/202406/3897461.html)
+

@@ -57,3 +57,7 @@
 
 + [广州拟规定中小学可禁止学生带手机，经允许带入的应统一管理](https://m.ithome.com/html/775586.htm)
 
++ [比亚迪海豹 07 动力曝光：纯电续航 55/100km，最低馈电油耗 4.2 升](https://m.ithome.com/html/775579.htm)
+
++ [哪吒 CEO 张勇再回应名称争议：今年下半年将重新发布哪吒品牌](https://m.ithome.com/html/775574.htm)
+
