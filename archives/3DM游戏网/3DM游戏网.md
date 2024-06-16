@@ -105,3 +105,11 @@
 
 + [《地狱之刃》Steam史低促销 仅售8.8元](https://www.3dmgame.com/news/202406/3897464.html)
 
++ [《贪婪之秋2：濒死世界》抢先体验发行日期窗确认](https://www.3dmgame.com/news/202406/3897468.html)
+
++ [《乐高地平线大冒险》PS5版提供画质/性能模式](https://www.3dmgame.com/news/202406/3897467.html)
+
++ [《怪物猎人：荒野》衣装回归 隐身偷袭伤害高](https://www.3dmgame.com/news/202406/3897466.html)
+
++ [《龙腾世纪：影障守护者》总监强调可进行离线游戏](https://www.3dmgame.com/news/202406/3897465.html)
+

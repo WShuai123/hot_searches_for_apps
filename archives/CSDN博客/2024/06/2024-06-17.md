@@ -103,3 +103,11 @@
 
 + [HumanPlus——斯坦福ALOHA团队开源的人形机器人：融合影子学习技术、RL、模仿学习](https://blog.csdn.net/v_JULY_v/article/details/139702814)
 
++ [ChatGPT关联技术](https://blog.csdn.net/ljzology/article/details/139612889)
+
++ [热门开源项目ChatTTS: 国内语音技术突破，实现弯道超车](https://blog.csdn.net/Srlua/article/details/139709912)
+
++ [【探索Linux】P.34（HTTPS协议）](https://blog.csdn.net/m0_75215937/article/details/139707681)
+
++ [开源医疗大模型Llama3-Aloe-8B-Alpha，性能超越 MedAlpaca 和 PMC-LLaMA](https://blog.csdn.net/nulifancuoAI/article/details/139697731)
+
