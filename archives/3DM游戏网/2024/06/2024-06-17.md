@@ -101,3 +101,7 @@
 
 + [《命运2：终焉之形》成今年M站评分并列第一作品](https://www.3dmgame.com/news/202406/3897414.html)
 
++ [视觉小说《宝石少女 1st.cut》9月12日发售 支持中文](https://www.3dmgame.com/news/202406/3897463.html)
+
++ [《地狱之刃》Steam史低促销 仅售8.8元](https://www.3dmgame.com/news/202406/3897464.html)
+

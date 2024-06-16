@@ -49,3 +49,19 @@
 
 + [Night Bazaar Spook: Poster Illustration](https://dribbble.com/shots/)
 
++ [Weird chess game](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
++ [Pocahontas](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [Women's Basketball Merch Concept](https://dribbble.com/shots/)
+
++ [Dennis Rodman](https://dribbble.com/shots/)
+
++ [Pattern for Swedish Columbia](https://dribbble.com/shots/)
+
++ [Hatch Branding](https://dribbble.com/shots/)
+
