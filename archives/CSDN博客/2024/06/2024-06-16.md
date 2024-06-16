@@ -189,3 +189,13 @@
 
 + [微服务feign组件学习](https://blog.csdn.net/liushangzaibeijing/article/details/139708414)
 
++ [Pixel Transformer：用像素代替补丁可以提升图像分类精度](https://blog.csdn.net/m0_46510245/article/details/139715892)
+
++ [Jmeter多个请求按照比例并发压测的几种方式](https://blog.csdn.net/cs888zsy/article/details/139705207)
+
++ [Python 学习 第二册 第11章 文件](https://blog.csdn.net/weixin_38135241/article/details/139641795)
+
++ [计算机网络(9) TCP超时重传以及滑动窗口流量控制](https://blog.csdn.net/qq_42761215/article/details/139704791)
+
++ [图论（一）之概念介绍与图形#matlab](https://blog.csdn.net/m0_56619132/article/details/139701940)
+

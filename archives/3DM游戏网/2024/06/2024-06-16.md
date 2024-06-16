@@ -161,3 +161,5 @@
 
 + [《迷你空管》Steam试玩发布 机场空管体验模拟器](https://www.3dmgame.com/news/202406/3897454.html)
 
++ [电影版《三体》将由张艺谋执导 目前在筹备阶段](https://www.3dmgame.com/news/202406/3897455.html)
+

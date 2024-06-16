@@ -51,3 +51,5 @@
 
 + [华为最强智驾：乾崑 ADS 2.0 升级到 ADS 3.0 无需更换硬件](https://m.ithome.com/html/775511.htm)
 
++ [256G 款五折清仓：小米 Redmi Note 12 标准版 5G 手机 799 元新低](https://m.ithome.com/html/775512.htm)
+
