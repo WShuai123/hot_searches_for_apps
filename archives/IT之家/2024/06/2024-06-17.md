@@ -25,3 +25,5 @@
 
 + [引入激光雷达，疑似新款比亚迪汉谍照曝光](https://m.ithome.com/html/775548.htm)
 
++ [iPad Pro 只是开始？消息称苹果计划为 iPhone 17 系列开发一款更薄的机型](https://m.ithome.com/html/775608.htm)
+
