@@ -29,3 +29,31 @@
 
 + [langgenius / dify](https://github.com/langgenius/dify)
 
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [Anjok07 / ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
+
++ [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT)
+
++ [PaperMC / Paper](https://github.com/PaperMC/Paper)
+
++ [ml-explore / mlx](https://github.com/ml-explore/mlx)
+
++ [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [mlc-ai / web-llm](https://github.com/mlc-ai/web-llm)
+
++ [odin-lang / Odin](https://github.com/odin-lang/Odin)
+
++ [pymc-devs / pymc](https://github.com/pymc-devs/pymc)
+
++ [NVIDIA / warp](https://github.com/NVIDIA/warp)
+
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+

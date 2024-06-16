@@ -157,3 +157,7 @@
 
 + [《电锯甜心RePOP》重制版与原版画面效果对比视频](https://www.3dmgame.com/news/202406/3897452.html)
 
++ [《夺宝奇兵：古老之圈》拥有多个关卡场景与新老角色](https://www.3dmgame.com/news/202406/3897453.html)
+
++ [《迷你空管》Steam试玩发布 机场空管体验模拟器](https://www.3dmgame.com/news/202406/3897454.html)
+

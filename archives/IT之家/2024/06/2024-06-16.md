@@ -49,3 +49,5 @@
 
 + [理想车友聚会发生多车追尾，智驾负责人韩龄回应：碰撞前已触发预警和 AEB](https://m.ithome.com/html/775558.htm)
 
++ [华为最强智驾：乾崑 ADS 2.0 升级到 ADS 3.0 无需更换硬件](https://m.ithome.com/html/775511.htm)
+
