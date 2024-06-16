@@ -137,3 +137,9 @@
 
 + [玩家血祭《上古卷轴5》NPC已达1千次！直到六代问世](https://www.3dmgame.com/news/202406/3897442.html)
 
++ [《怪物猎人物语》复刻版发布 登陆PC、PS4与NS平台](https://www.3dmgame.com/news/202406/3897443.html)
+
++ [小鹏飞行汽车京津冀首飞：无人驾驶 引众人拍照围观](https://www.3dmgame.com/news/202406/3897444.html)
+
++ [《CUBEN》Steam页面上线 方块解谜战斗](https://www.3dmgame.com/news/202406/3897445.html)
+
