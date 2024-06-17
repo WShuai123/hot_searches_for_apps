@@ -129,3 +129,23 @@
 
 + [且看且珍惜樱井政博即将结束视频创作生涯](https://www.3dmgame.com/news/202406/3897473.html)
 
++ [外太空模拟建造游戏《地壳》发售预告公布 7月15日抢先体验推出](https://www.3dmgame.com/news/202406/3897485.html)
+
++ [《Fate/Samurai Remnant》DLC第三弹“断章・白龙红鬼演义”公布 6月20日上线](https://www.3dmgame.com/news/202406/3897482.html)
+
++ [《影之诗：Worlds Beyond》延期 预定2025年春发售](https://www.3dmgame.com/news/202406/3897484.html)
+
++ [《刺客信条：影》弥助头盔收藏品亮相 玩家：他不是武士](https://www.3dmgame.com/news/202406/3897483.html)
+
++ [土耳其神话《夜痕：被遗忘之神》预告 对抗冥界大军](https://www.3dmgame.com/news/202406/3897486.html)
+
++ [陶德：B社没有计划移植或重制初代《辐射》游戏](https://www.3dmgame.com/news/202406/3897481.html)
+
++ [《黑神话：悟空》8分钟上手视频 IGN上手前瞻](https://www.3dmgame.com/news/202406/3897480.html)
+
++ [《龙腾世纪：影障守护者》故事发生在《龙腾世纪：审判》10年后 队友被削减至两人](https://www.3dmgame.com/news/202406/3897479.html)
+
++ [2023年全球游戏市场收入达1840亿美元 46%来自亚太地区](https://www.3dmgame.com/news/202406/3897478.html)
+
++ [经典日恐名作《死印》新DLC《无归游乐园》8月1日上线](https://www.3dmgame.com/news/202406/3897477.html)
+

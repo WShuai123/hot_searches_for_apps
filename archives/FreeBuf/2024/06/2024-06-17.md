@@ -45,3 +45,5 @@
 
 + [越南数据保护要求](https://www.freebuf.com/articles/database/402690.html)
 
++ [企业安全 | 浅谈企业风险评估](https://www.freebuf.com/articles/es/403346.html)
+
