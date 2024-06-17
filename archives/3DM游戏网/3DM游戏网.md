@@ -203,3 +203,7 @@
 
 + [治愈系沙盒建造游戏《林间小世界》推出Steam新品节试玩Demo 愿望单已达1百万](https://www.3dmgame.com/news/202406/3897507.html)
 
++ [曝苹果正研发超薄手机：明年发布 命名iPhone 17 Slim](https://www.3dmgame.com/news/202406/3897515.html)
+
++ [港服PS Plus三档会员新增试玩游戏：《星刃》](https://www.3dmgame.com/news/202406/3897514.html)
+

@@ -131,3 +131,5 @@
 
 + [iShowU V6](https://www.producthunt.com/posts/ishowu-v6)
 
++ [Helix Free User Persona Generator](https://www.producthunt.com/posts/helix-free-user-persona-generator)
+
