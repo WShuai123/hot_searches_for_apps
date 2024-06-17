@@ -173,3 +173,11 @@
 
 + [IGN记者坚称《黑神话：悟空》开发者辱女 抱怨试玩版没女性角色](https://www.3dmgame.com/news/202406/3897491.html)
 
++ [奇幻风城市建造模拟游戏《繁星之海》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897501.html)
+
++ [黄仁勋：英伟达遵守法规 但会尽力为中国客户提供服务](https://www.3dmgame.com/news/202406/3897502.html)
+
++ [粉丝自制《迷宫饭》森西“福利”鼠标垫 被欧洲粉丝求购买链接](https://www.3dmgame.com/news/202406/3897499.html)
+
++ [《跨过俺的尸体》发售25周年 重制版已经登陆PS5](https://www.3dmgame.com/news/202406/3897500.html)
+

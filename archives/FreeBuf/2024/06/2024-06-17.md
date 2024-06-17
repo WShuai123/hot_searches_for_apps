@@ -51,3 +51,5 @@
 
 + [新型 TIKTAG 攻击曝光，专门针对谷歌浏览器和 Linux 系统](https://www.freebuf.com/news/403690.html)
 
++ [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
+
