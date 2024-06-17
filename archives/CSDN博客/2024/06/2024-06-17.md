@@ -203,3 +203,5 @@
 
 + [【机器学习】图神经网络：深度解析图神经网络的基本构成和原理以及关键技术](https://blog.csdn.net/m0_52827996/article/details/139732057)
 
++ [工厂方法模式实战之某商场一次促销活动](https://blog.csdn.net/qq_16851599/article/details/137059668)
+

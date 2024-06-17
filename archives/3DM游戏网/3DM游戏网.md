@@ -207,3 +207,15 @@
 
 + [港服PS Plus三档会员新增试玩游戏：《星刃》](https://www.3dmgame.com/news/202406/3897514.html)
 
++ [马斯克预言未来将不再有手机 安个脑机接口就好](https://www.3dmgame.com/news/202406/3897519.html)
+
++ [科技厂抢占AI先机 专家担心AI成财富转至少数人的工具](https://www.3dmgame.com/news/202406/3897520.html)
+
++ [印度程序员为泄愤删除前东家180台服务器！被判刑超两年半](https://www.3dmgame.com/news/202406/3897521.html)
+
++ [3D实景剧本杀？推理解谜游戏 《超空间》正式发售](https://www.3dmgame.com/news/202406/3897516.html)
+
++ [《黑神话》预售3天预售额超亿元 实体版第2波抢购今晚开启](https://www.3dmgame.com/news/202406/3897517.html)
+
++ [机身断裂首尾分离！俄客机成功迫降北极！机上41人全部生还](https://www.3dmgame.com/news/202406/3897518.html)
+
