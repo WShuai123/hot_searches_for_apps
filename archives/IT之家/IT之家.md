@@ -29,3 +29,7 @@
 
 + [抖音支付来了，中国人民银行批准合众易宝更名](https://m.ithome.com/html/775611.htm)
 
++ [广州一酒店 Wi-Fi 费“一天 110 元”引热议，你能接受住店网络单独收费吗](https://m.ithome.com/html/775610.htm)
+
++ [骁龙 680 处理器：Redmi Pad SE 11 英寸平板 128G 版 686 元限时新低](https://m.ithome.com/html/775595.htm)
+
