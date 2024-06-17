@@ -179,3 +179,17 @@
 
 + [学习记录：VS2019+OpenCV3.4.1实现SURF库函数的调用](https://blog.csdn.net/weixin_42532989/article/details/139716219)
 
++ [MLOps模型部署的三种策略：批处理、实时、边缘计算](https://blog.csdn.net/m0_46510245/article/details/139736390)
+
++ [第28讲：Ceph集群使用RBD块存储与K8S Volumes集成](https://blog.csdn.net/weixin_44953658/article/details/139731529)
+
++ [基于FPGA的VGA协议实现](https://blog.csdn.net/weixin_52345779/article/details/139717723)
+
++ [开源低代码平台，JeecgBoot v3.7.0 里程碑版本发布](https://blog.csdn.net/zhangdaiscott/article/details/139732278)
+
++ [大众点评_token,mtgsig](https://blog.csdn.net/weixin_54573778/article/details/139725964)
+
++ [电路笔记 :LM3481MM/NOPB升压模块，升压电路原理](https://blog.csdn.net/ResumeProject/article/details/139721070)
+
++ [30 天 52% 回报：GPT-4o 量化交易机器人](https://blog.csdn.net/yuff100/article/details/139718086)
+

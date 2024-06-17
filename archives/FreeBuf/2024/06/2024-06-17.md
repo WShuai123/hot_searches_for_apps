@@ -53,3 +53,5 @@
 
 + [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
 
++ [华硕曝出高危漏洞，影响 7 款路由器](https://www.freebuf.com/news/403718.html)
+
