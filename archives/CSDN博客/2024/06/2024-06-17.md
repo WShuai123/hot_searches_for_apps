@@ -219,3 +219,7 @@
 
 + [Linux 系统监控与性能调优](https://blog.csdn.net/muxiuyulin871/article/details/139728516)
 
++ [【大语言模型】本地快速部署Ollama运行大语言模型详细流程](https://blog.csdn.net/qyj19920704/article/details/139749783)
+
++ [【Unity实战篇】| 快速制作一个简易时钟，包括2D和3D时钟](https://blog.csdn.net/zhangay1998/article/details/139731584)
+
