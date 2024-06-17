@@ -107,3 +107,7 @@
 
 + [LayerOps](https://www.producthunt.com/posts/layerops)
 
++ [Humanize AI Text](https://www.producthunt.com/posts/humanize-ai-text-4)
+
++ [MARS5 TTS](https://www.producthunt.com/posts/mars5-tts)
+
