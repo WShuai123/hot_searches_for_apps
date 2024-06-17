@@ -25,3 +25,5 @@
 
 + [哪吒 L 被渣土车正面撞击，车主称安然无恙](https://m.ithome.com/html/775694.htm)
 
++ [618 倒数 24 小时：2 分钟速读好价攻略，小米 1.5 匹空调 1400 元，Mini LED 电视 2259 元双重补贴](https://m.ithome.com/html/775704.htm)
+
