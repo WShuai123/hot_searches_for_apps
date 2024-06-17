@@ -111,3 +111,9 @@
 
 + [消失多年的海盗动作游戏《铁血船长》再次回归](https://www.3dmgame.com/news/202406/3897536.html)
 
++ [经典JRPG游戏《拔天海拓史》两部重制版登陆Steam](https://www.3dmgame.com/news/202406/3897539.html)
+
++ [《糖豆人》推出《复仇者联盟》联动造型](https://www.3dmgame.com/news/202406/3897538.html)
+
++ [《心灵杀手2》推出拍照模式大赛 一等奖4090显卡](https://www.3dmgame.com/news/202406/3897537.html)
+

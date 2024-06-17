@@ -101,3 +101,27 @@
 
 + [SwiftUI 6.0（iOS 18）新容器视图修改器漫谈](https://blog.csdn.net/mydo/article/details/139719052)
 
++ [Stable Diffusion初体验——基于机器学习通过神经网络的强大AI平台](https://blog.csdn.net/Why_does_it_work/article/details/139729842)
+
++ [Python数据分析与机器学习在金融风控中的应用](https://blog.csdn.net/a1657054242/article/details/139738720)
+
++ [【机器学习】大模型环境下的应用：计算机视觉的探索与实践](https://blog.csdn.net/2302_81249757/article/details/139727654)
+
++ [【机器学习】LightGBM: 优化机器学习的高效梯度提升决策树](https://blog.csdn.net/qq_44214428/article/details/139700139)
+
++ [【C++进阶学习】第二弹——继承（下）——挖掘继承深处的奥秘](https://blog.csdn.net/2301_80220607/article/details/139750818)
+
++ [基于Java的度分秒坐标转纯经纬度坐标的漂亮国基地信息管理](https://blog.csdn.net/yelangkingwuzuhu/article/details/139752490)
+
++ [内网穿透的原理：实现远程访问的技术揭秘](https://blog.csdn.net/qq_41791705/article/details/139751366)
+
++ [Linux 系统监控与性能调优](https://blog.csdn.net/muxiuyulin871/article/details/139728516)
+
++ [图解 Twitter 架构图](https://blog.csdn.net/weixin_45304503/article/details/139721948)
+
++ [Hack The Box-Editorial](https://blog.csdn.net/m0_52742680/article/details/139736568)
+
++ [VUE3脚手架工具cli配置搭建及创建VUE工程](https://blog.csdn.net/tangshiyilang/article/details/139679949)
+
++ [「网络原理」IP 协议](https://blog.csdn.net/Ice_Sugar_7/article/details/139693981)
+
