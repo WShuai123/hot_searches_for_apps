@@ -211,3 +211,11 @@
 
 + [LabVIEW软件开发中的代码重构如何帮助维护代码质量？](https://blog.csdn.net/bjcyck/article/details/139731053)
 
++ [图神经网络实战（14）——基于节点嵌入预测链接](https://blog.csdn.net/LOVEmy134611/article/details/139737872)
+
++ [实战 | 基于YOLOv10的车辆追踪与测速实战【附源码+步骤详解】](https://blog.csdn.net/qq_42589613/article/details/139710732)
+
++ [Windows电脑部署Jellyfin服务端并进行远程访问配置详细教程](https://blog.csdn.net/weixin_63115236/article/details/139749488)
+
++ [Linux 系统监控与性能调优](https://blog.csdn.net/muxiuyulin871/article/details/139728516)
+

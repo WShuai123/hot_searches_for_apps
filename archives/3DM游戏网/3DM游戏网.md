@@ -219,3 +219,11 @@
 
 + [机身断裂首尾分离！俄客机成功迫降北极！机上41人全部生还](https://www.3dmgame.com/news/202406/3897518.html)
 
++ [Windows 11预览版遭遇新bug 或导致CPU占用率过高](https://www.3dmgame.com/news/202406/3897525.html)
+
++ [印度又耍流氓！Vivo和Oppo子公司可能会被迫出售](https://www.3dmgame.com/news/202406/3897524.html)
+
++ [《最终幻想7》重制三部曲总监鸟山求：承诺在第三部解开所有谜团](https://www.3dmgame.com/news/202406/3897523.html)
+
++ [宝可梦卡牌价格暴跌 5000万日元喷火龙卡跌成半价](https://www.3dmgame.com/news/202406/3897522.html)
+

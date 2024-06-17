@@ -117,3 +117,15 @@
 
 + [28位星女郎全盘点：朱茵刚进前十，张敏屈居榜二](http://www.acfun.cn/v/ac44848581)
 
++ [女人闪婚路人，没想到对方竟然是个隐形富豪](http://www.acfun.cn/v/ac44857351)
+
++ [【开原唱了？】我不在雨里，就在往雨中的路上](http://www.acfun.cn/v/ac44858132)
+
++ [【独家】(Not) A Devil](http://www.acfun.cn/v/ac44848230)
+
++ [大型纪录片：王婆说媒，江苏奇葩局，100万彩礼，入赘哥，45岁激动大叔](http://www.acfun.cn/v/ac44848712)
+
++ [【小子贼疯】双黄蛋（cover：周菲戈）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44852863)
+
++ [【小六】寂寞先生—FUN声唱参赛歌曲](http://www.acfun.cn/v/ac44852260)
+
