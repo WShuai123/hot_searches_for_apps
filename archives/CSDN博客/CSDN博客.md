@@ -205,3 +205,9 @@
 
 + [工厂方法模式实战之某商场一次促销活动](https://blog.csdn.net/qq_16851599/article/details/137059668)
 
++ [Django中间件探索：揭秘中间件在Web应用中的守护角色与实战应用](https://blog.csdn.net/m0_48173416/article/details/139724020)
+
++ [GaussDB技术解读——GaussDB架构介绍（四）](https://blog.csdn.net/GaussDB/article/details/139681085)
+
++ [LabVIEW软件开发中的代码重构如何帮助维护代码质量？](https://blog.csdn.net/bjcyck/article/details/139731053)
+

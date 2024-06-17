@@ -35,3 +35,21 @@
 
 + [fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI)
 
++ [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [2dust / v2rayN](https://github.com/2dust/v2rayN)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+

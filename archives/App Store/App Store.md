@@ -217,3 +217,7 @@
 
 + [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
 
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [文心一言-你的随身智能助手](https://itunes.apple.com/cn/app/id6446882473?mt=8)
+
