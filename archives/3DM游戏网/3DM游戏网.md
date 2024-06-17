@@ -107,3 +107,7 @@
 
 + [《寂静之地：前方之路》年内发售 登陆主机和PC](https://www.3dmgame.com/news/202406/3897532.html)
 
++ [《寻宝英雄：力量手套》四季度登陆任天堂Switch](https://www.3dmgame.com/news/202406/3897535.html)
+
++ [消失多年的海盗动作游戏《铁血船长》再次回归](https://www.3dmgame.com/news/202406/3897536.html)
+
