@@ -181,3 +181,11 @@
 
 + [《跨过俺的尸体》发售25周年 重制版已经登陆PS5](https://www.3dmgame.com/news/202406/3897500.html)
 
++ [亚马逊MMO《新世界》重新发布引PC玩家不满 在Steam上遭到差评轰炸](https://www.3dmgame.com/news/202406/3897506.html)
+
++ [Take-Two在欧美注册新商标 或与FIFA新作有关](https://www.3dmgame.com/news/202406/3897505.html)
+
++ [陶德称《星空》玩家数超1400万 未来将推出更多DLC](https://www.3dmgame.com/news/202406/3897504.html)
+
++ [《勇者斗恶龙10》7.1版更新内容 誓约之园新冒险](https://www.3dmgame.com/news/202406/3897503.html)
+

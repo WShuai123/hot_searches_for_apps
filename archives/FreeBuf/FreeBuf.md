@@ -55,3 +55,5 @@
 
 + [华硕曝出高危漏洞，影响 7 款路由器](https://www.freebuf.com/news/403718.html)
 
++ [cloud_enum：一款针对不同平台云环境安全的OSINT工具](https://www.freebuf.com/sectool/403421.html)
+
