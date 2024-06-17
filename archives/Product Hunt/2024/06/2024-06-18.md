@@ -101,3 +101,9 @@
 
 + [Unicorns Club](https://www.producthunt.com/posts/unicorns-club)
 
++ [Agent Mode in Warp AI](https://www.producthunt.com/posts/agent-mode-in-warp-ai)
+
++ [HostDispute](https://www.producthunt.com/posts/hostdispute)
+
++ [LayerOps](https://www.producthunt.com/posts/layerops)
+
