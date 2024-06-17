@@ -111,3 +111,5 @@
 
 + [MARS5 TTS](https://www.producthunt.com/posts/mars5-tts)
 
++ [Magic Publish](https://www.producthunt.com/posts/magic-publish)
+
