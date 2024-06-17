@@ -205,3 +205,11 @@
 
 + [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
 
++ [网上国网](https://itunes.apple.com/cn/app/id1438998315?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [WPS Office - 智能AI办公助手](https://itunes.apple.com/cn/app/id599852710?mt=8)
+
++ [百度文库- 一站式AI内容获取和创作平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

@@ -153,3 +153,21 @@
 
 + [为何云原生是未来？企业IT架构的颠覆与重构（上）](https://blog.csdn.net/weixin_53269650/article/details/139697426)
 
++ [elasticsearch过滤器filter：原理及使用](https://blog.csdn.net/qq_26664043/article/details/139701377)
+
++ [AI大模型在运动项目的深度融合和在穿戴设备的实践及未来运动健康技术发展](https://blog.csdn.net/rjdeng/article/details/139669113)
+
++ [哈喽GPT-4o——对GPT-4o 文本创作的思考与看法](https://blog.csdn.net/guorui_java/article/details/139730560)
+
++ [植物大战僵尸杂交版全新版v2.1解决全屏问题](https://blog.csdn.net/dh45498/article/details/139721255)
+
++ [实战项目: 负载均衡](https://blog.csdn.net/LYC_462857656/article/details/139312642)
+
++ [jenkins docker配置方法](https://blog.csdn.net/Snow_760/article/details/139728729)
+
++ [VUE3脚手架工具cli配置搭建及创建VUE工程](https://blog.csdn.net/tangshiyilang/article/details/139679949)
+
++ [贪心算法学习五](https://blog.csdn.net/2301_79881188/article/details/139708443)
+
++ [ChatGPT等大模型可以代替搜索引擎吗？](https://blog.csdn.net/2401_84495872/article/details/139673831)
+

@@ -149,3 +149,27 @@
 
 + [经典日恐名作《死印》新DLC《无归游乐园》8月1日上线](https://www.3dmgame.com/news/202406/3897477.html)
 
++ [《卡库远古封印》宣布7月12日发售正式版 主机平台稍后上线](https://www.3dmgame.com/news/202406/3897495.html)
+
++ [国服预约突破300W 《英勇之地》端游预下载开启](https://www.3dmgame.com/news/202406/3897496.html)
+
++ [IBM研发下一代量子计算机 目标现今最高75倍](https://www.3dmgame.com/news/202406/3897497.html)
+
++ [电影《死侍与金刚狼》国内定档7月26日 与北美同步](https://www.3dmgame.com/news/202406/3897498.html)
+
++ [苹果陷入性别歧视风波 被指控男女同工不同酬](https://www.3dmgame.com/news/202406/3897492.html)
+
++ [《星际公民》开发商封禁600多名利用漏洞影响游戏内经济的玩家](https://www.3dmgame.com/news/202406/3897494.html)
+
++ [《爬行实验室》登陆Steam 生存逃生战斗射击](https://www.3dmgame.com/news/202406/3897493.html)
+
++ [《东京复仇者》TV动画续篇确定制作 新艺图公开](https://www.3dmgame.com/news/202406/3897487.html)
+
++ [动作类肉鸽游戏《传说法师2》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897488.html)
+
++ [暴雪举办骄傲月庆祝活动！现场气氛非常热烈](https://www.3dmgame.com/news/202406/3897489.html)
+
++ [灾难电影《龙旋风》宣布国内定档：7月19日](https://www.3dmgame.com/news/202406/3897490.html)
+
++ [IGN记者坚称《黑神话：悟空》开发者辱女 抱怨试玩版没女性角色](https://www.3dmgame.com/news/202406/3897491.html)
+

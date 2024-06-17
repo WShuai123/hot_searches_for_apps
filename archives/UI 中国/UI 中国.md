@@ -13,3 +13,5 @@
 
 + [用户研究大数据分析助手：KNIME介绍及实践](https://www.ui.cn/detail/664700.html)
 
++ [AI动漫视频工具1.0—探索全新内容创作设计理念与实现策略](https://www.ui.cn/detail/665445.html)
+
