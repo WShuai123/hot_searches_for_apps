@@ -61,3 +61,9 @@
 
 + [热搜第一：“优酷开了 VIP 还要开 SVIP”引微博热议，你能接受套娃视频会员吗](https://m.ithome.com/html/775796.htm)
 
++ [倒数 1 小时：2 分钟速读 618 20:00~24:00 攻略，小米 1.5 匹空调 1400 元，Mini LED 电视 2259 元双重补贴](https://m.ithome.com/html/775704.htm)
+
++ [消息称华为麒麟芯片持续放量，将推北斗卫星消息 / 星闪协议“大平板”及两波“5G 迭代新机”](https://m.ithome.com/html/775778.htm)
+
++ [realme 首批真我 GT6 手机运往西班牙途中被盗，官方发文致歉](https://m.ithome.com/html/775738.htm)
+

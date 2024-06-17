@@ -229,3 +229,11 @@
 
 + [《艾尔登法环：黄金树幽影》发售在即 官方提醒玩家小心剧透](https://www.3dmgame.com/news/202406/3897526.html)
 
++ [拳头：《英雄联盟》用户群正在变老 很少有新玩家加入](https://www.3dmgame.com/news/202406/3897530.html)
+
++ [《鬼屋魔影》重启版开发商Pieces Interactive被关闭](https://www.3dmgame.com/news/202406/3897529.html)
+
++ [《死侍与金刚狼》新剧照 死侍、金刚狼、死侍狗同框](https://www.3dmgame.com/news/202406/3897528.html)
+
++ [谷歌将从服务器端加载广告 绕过拦截器侦测机制](https://www.3dmgame.com/news/202406/3897527.html)
+
