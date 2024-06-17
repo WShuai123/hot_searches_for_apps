@@ -101,3 +101,9 @@
 
 + [《黑神话：悟空》8分钟上手视频 IGN上手前瞻](https://www.3dmgame.com/news/202406/3897480.html)
 
++ [《上古卷轴6》预告发布了六年 陶德感叹！](https://www.3dmgame.com/news/202406/3897534.html)
+
++ [今后再无全网最低价！直播电商将迎大整顿](https://www.3dmgame.com/news/202406/3897533.html)
+
++ [《寂静之地：前方之路》年内发售 登陆主机和PC](https://www.3dmgame.com/news/202406/3897532.html)
+
