@@ -33,3 +33,29 @@
 
 + [Anjok07 / ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
 
++ [NVIDIA / warp](https://github.com/NVIDIA/warp)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [amplication / amplication](https://github.com/amplication/amplication)
+
++ [grpc / grpc-go](https://github.com/grpc/grpc-go)
+
++ [projectdiscovery / katana](https://github.com/projectdiscovery/katana)
+
++ [omnivore-app / omnivore](https://github.com/omnivore-app/omnivore)
+
++ [netdata / netdata](https://github.com/netdata/netdata)
+
++ [gin-gonic / gin](https://github.com/gin-gonic/gin)
+
++ [vanna-ai / vanna](https://github.com/vanna-ai/vanna)
+
++ [datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
+
++ [bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
++ [kubernetes / autoscaler](https://github.com/kubernetes/autoscaler)
+

@@ -53,3 +53,5 @@
 
 + [B站第 200 亿条弹幕诞生：哈哈哈哈哈](https://m.ithome.com/html/775967.htm)
 
++ [国家广播电视总局：确保本月实现酒店电视开机看直播](https://m.ithome.com/html/775962.htm)
+

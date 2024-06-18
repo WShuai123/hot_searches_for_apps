@@ -241,3 +241,29 @@
 
 + [B社不想为《上古卷轴6》更换新引擎 将重蹈《星空》覆辙？](https://www.3dmgame.com/news/202406/3897601.html)
 
++ [为何国人越来越不爱看好莱坞电影：文化自信暴增等！](https://www.3dmgame.com/news/202406/3897614.html)
+
++ [米哈游投资人造太阳项目启动 人造太阳新技术路线](https://www.3dmgame.com/news/202406/3897612.html)
+
++ [《战锤40K: 爆矢枪》“腐蚀熔炉” DLC现已推出，并为所有玩家提供免费的生存模式](https://www.3dmgame.com/news/202406/3897613.html)
+
++ [第一款国产游戏显卡！摩尔线程S80降价只需1299元](https://www.3dmgame.com/news/202406/3897611.html)
+
++ [德国游戏产业协会：去年60岁以上老龄玩家数量猛增](https://www.3dmgame.com/news/202406/3897609.html)
+
++ [《碧蓝幻想Versus》制作人承认新角色设计问题 更新调整](https://www.3dmgame.com/news/202406/3897610.html)
+
++ [第一人称射击游戏《除邪》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897608.html)
+
++ [严打数字人直播带货！腾讯视频号拟推出新规 违者处罚](https://www.3dmgame.com/news/202406/3897607.html)
+
++ [《暗黑地牢2》主机版巴西获评级 任天堂直面会或露面](https://www.3dmgame.com/news/202406/3897606.html)
+
++ [5月国产车型销量榜：前十比亚迪强势霸榜七席](https://www.3dmgame.com/news/202406/3897605.html)
+
++ [中国男性使用最多手机TOP10：8款iPhone2款华为](https://www.3dmgame.com/news/202406/3897604.html)
+
++ [日系车集体造假事件持续发酵 有二手车商家销售额暴跌50%](https://www.3dmgame.com/news/202406/3897603.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》再次登顶](https://www.3dmgame.com/news/202406/3897602.html)
+
