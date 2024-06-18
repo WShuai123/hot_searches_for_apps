@@ -193,3 +193,11 @@
 
 + [Mysql启动报错：本地计算机上的mysql服务启动后停止,某些服务在未由其他服务或程序使用时将自动停止](https://blog.csdn.net/m0_62420605/article/details/139743556)
 
++ [【机器学习】CART决策树算法的核心思想及其大数据时代银行贷款参考案例——机器认知外界的重要算法](https://blog.csdn.net/2301_79796701/article/details/139766416)
+
++ [【区块链】POS（Proof of Stake）权益证明算法深度解析](https://blog.csdn.net/qq_44214428/article/details/139775965)
+
++ [【数据分析】线性及逻辑回归模型和Python实现](https://blog.csdn.net/2301_81874719/article/details/139723267)
+
++ [HarmonyOS 页面路由(Router)](https://blog.csdn.net/qq_36158551/article/details/139767796)
+

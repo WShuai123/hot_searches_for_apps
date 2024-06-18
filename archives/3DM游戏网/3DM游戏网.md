@@ -267,3 +267,5 @@
 
 + [Steam最新一周销量榜 《黑神话：悟空》再次登顶](https://www.3dmgame.com/news/202406/3897602.html)
 
++ [锐龙9000可能会在7月31日上市 锐龙9 9950X的上市价会比上代低](https://www.3dmgame.com/news/202406/3897616.html)
+
