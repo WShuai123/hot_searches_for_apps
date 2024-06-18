@@ -207,3 +207,9 @@
 
 + [全球第一款RTX4070 ITX迷你卡诞生！单风扇无压力](https://www.3dmgame.com/news/202406/3897584.html)
 
++ [《死侍与金刚狼》导演直言想拍死侍和蜘蛛侠合作的电影](https://www.3dmgame.com/news/202406/3897587.html)
+
++ [《REPUNK》登陆Steam 火星探索冒险新游](https://www.3dmgame.com/news/202406/3897585.html)
+
++ [《庄园领主》多数玩家反对修改游戏内“不和谐”人名](https://www.3dmgame.com/news/202406/3897586.html)
+
