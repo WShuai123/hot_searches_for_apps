@@ -201,3 +201,5 @@
 
 + [HarmonyOS 页面路由(Router)](https://blog.csdn.net/qq_36158551/article/details/139767796)
 
++ [Multi-Head RAG:多头注意力的激活层作为嵌入进行文档检索](https://blog.csdn.net/m0_46510245/article/details/139765768)
+

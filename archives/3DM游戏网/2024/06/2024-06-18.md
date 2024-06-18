@@ -279,3 +279,5 @@
 
 + [玩家使用MOD 让《星空》在XSS上成功实现120帧](https://www.3dmgame.com/news/202406/3897618.html)
 
++ [《艾尔登法环：黄金树幽影》M站均分95分 IGN满分](https://www.3dmgame.com/news/202406/3897621.html)
+
