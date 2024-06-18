@@ -183,3 +183,25 @@
 
 + [Xbox营销主管跳槽罗布乐思 团队即将进行精简化](https://www.3dmgame.com/news/202406/3897564.html)
 
++ [德国机器人产业面临中国厂商激烈竞争 销售前景承压](https://www.3dmgame.com/news/202406/3897578.html)
+
++ [托德回应《星空》Mod收费争议：听到了玩家的反馈](https://www.3dmgame.com/news/202406/3897582.html)
+
++ [《黑神话》实体版第二轮抢购秒售罄 玩家抱怨抢不到](https://www.3dmgame.com/news/202406/3897583.html)
+
++ [《绝地潜兵2》玩家发现 使用治疗剂会打断所有角色的冲刺](https://www.3dmgame.com/news/202406/3897581.html)
+
++ [《Nomad Drive》Steam页面上线 房车旅行模拟](https://www.3dmgame.com/news/202406/3897580.html)
+
++ [《全面战争：战锤3》新DLC将聚焦恐虐食人魔和绿皮兽人](https://www.3dmgame.com/news/202406/3897579.html)
+
++ [《教父》导演科波拉新片 电影《大都会》9月27日在北美上映](https://www.3dmgame.com/news/202406/3897577.html)
+
++ [iPhone 16尺寸图曝光 Pro版明显增大屏幕黑边史上最窄](https://www.3dmgame.com/news/202406/3897576.html)
+
++ [《星空》新DLC地图完全是手工制作 不是用程序生成的](https://www.3dmgame.com/news/202406/3897575.html)
+
++ [海盗主题动作游戏《Captain Blood》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897574.html)
+
++ [前贝赛微软老将成立支持开发商 专注虚幻引擎协助](https://www.3dmgame.com/news/202406/3897573.html)
+

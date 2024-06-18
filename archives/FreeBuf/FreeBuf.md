@@ -49,3 +49,5 @@
 
 + [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
 
++ [黑客竟能用表情符号控制恶意软件？](https://www.freebuf.com/news/403792.html)
+
