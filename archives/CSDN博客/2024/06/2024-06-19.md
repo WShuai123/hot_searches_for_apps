@@ -101,3 +101,9 @@
 
 + [《Cloud Native Data Center Networking》（云原生数据中心网络设计）读书笔记 -- 02 Clos拓扑](https://blog.csdn.net/qq_39610915/article/details/139756201)
 
++ [使用Ollama+OpenWebUI本地部署阿里通义千问Qwen2 AI大模型](https://blog.csdn.net/jxjdhdnd/article/details/139755600)
+
++ [C/C++李峋同款跳动的爱心代码](https://blog.csdn.net/m0_68111267/article/details/139722249)
+
++ [制造业为什么需要ERP企业管理软件？](https://blog.csdn.net/BeWorkingMan/article/details/139779048)
+

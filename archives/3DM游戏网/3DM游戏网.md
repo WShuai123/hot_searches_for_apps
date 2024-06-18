@@ -103,3 +103,5 @@
 
 + [任天堂直面会汇总 《塞尔达传说：智慧的再现》今年发售](https://www.3dmgame.com/news/202406/3897625.html)
 
++ [网易游戏《蛋仔派对》即将登陆任天堂Switch](https://www.3dmgame.com/news/202406/3897626.html)
+
