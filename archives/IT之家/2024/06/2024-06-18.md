@@ -31,3 +31,5 @@
 
 + [苹果 iPhone 16 系列手机全尺寸图首曝：Pro / Max 版加大，厚度不变](https://m.ithome.com/html/775866.htm)
 
++ [小米平板 5 / 6 系列升级网易云音乐大屏版本：全新 UI 界面适配、横竖屏自由切换](https://m.ithome.com/html/775724.htm)
+

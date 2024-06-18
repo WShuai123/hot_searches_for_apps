@@ -127,3 +127,35 @@
 
 + [类模拟人生游戏《Life by You》被Paradox取消](https://www.3dmgame.com/news/202406/3897540.html)
 
++ [V社现已停止《传送门2》等自家游戏的Mac原生支持](https://www.3dmgame.com/news/202406/3897560.html)
+
++ [动作类肉鸽游戏《护焰者》现已在Steam平台正式推出 获多半好评](https://www.3dmgame.com/news/202406/3897554.html)
+
++ [《守望先锋2》第11赛季“奥特先锋”预告 将联动变形金刚](https://www.3dmgame.com/news/202406/3897558.html)
+
++ [视觉小说剧情游戏《BURN》现已在Steam平台推出试玩Demo 计划于8月9日发行](https://www.3dmgame.com/news/202406/3897559.html)
+
++ [宫本茂：《超级马里奥大电影》新作2026年4月上映](https://www.3dmgame.com/news/202406/3897557.html)
+
++ [《Supernatural》七月登陆Steam 禁止尖叫类恐怖探索](https://www.3dmgame.com/news/202406/3897556.html)
+
++ [宫崎英高讨论行业现状：不计代价不想裁员任何一人](https://www.3dmgame.com/news/202406/3897555.html)
+
++ [舒适钓鱼RPG游戏《Sea Sniffers》Steam页面 发行日期待定](https://www.3dmgame.com/news/202406/3897553.html)
+
++ [Netflix平台上的《GTA》三部曲下载量已突破3000万次](https://www.3dmgame.com/news/202406/3897550.html)
+
++ [由于档期冲突 传奇影业《街头霸王》真人电影将更换导演](https://www.3dmgame.com/news/202406/3897549.html)
+
++ [《博德之门3》Mod支持可能将是游戏最终主要更新](https://www.3dmgame.com/news/202406/3897548.html)
+
++ [《恐怖历险》登陆Steam SF超能力恐怖探索](https://www.3dmgame.com/news/202406/3897547.html)
+
++ [EA公开2024财年高管薪酬：CEO最多 2560万美元](https://www.3dmgame.com/news/202406/3897552.html)
+
++ [宫崎英高不介意《艾尔登法环》无缝联机Mod 未来会完善合作玩法](https://www.3dmgame.com/news/202406/3897551.html)
+
++ [虚幻5恐怖游戏《Still Wakes the Deep》IGN 6分](https://www.3dmgame.com/news/202406/3897546.html)
+
++ [《漫威金刚狼》PC版实机演示泄露 罗根疯狂打斗](https://www.3dmgame.com/news/202406/3897545.html)
+

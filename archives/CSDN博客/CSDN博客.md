@@ -133,3 +133,11 @@
 
 + [Hadoop 2.0：主流开源云架构（四）](https://blog.csdn.net/Morse_Chen/article/details/139706690)
 
++ [Nginx网站服务](https://blog.csdn.net/m0_64000472/article/details/139743390)
+
++ [vue3的基本使用方法](https://blog.csdn.net/m0_58310590/article/details/139753909)
+
++ [Redis命令](https://blog.csdn.net/qq_55342245/article/details/139671083)
+
++ [Python自动化办公（一） —— 根据PDF文件批量创建Word文档](https://blog.csdn.net/weixin_56595425/article/details/139703298)
+

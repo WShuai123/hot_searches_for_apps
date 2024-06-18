@@ -45,3 +45,7 @@
 
 + [OneNote 作为恶意软件分发新渠道持续增长](https://www.freebuf.com/articles/network/402076.html)
 
++ [企业安全 | 某用户商用密码实战](https://www.freebuf.com/articles/403745.html)
+
++ [超详细分享 | 你真的懂大语言模型么？](https://www.freebuf.com/articles/database/398617.html)
+
