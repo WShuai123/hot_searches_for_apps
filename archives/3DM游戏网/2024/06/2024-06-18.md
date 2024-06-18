@@ -237,3 +237,7 @@
 
 + [《小丑牌》主机实体版开启预购 包括10张实体卡牌](https://www.3dmgame.com/news/202406/3897590.html)
 
++ [电影《镖人》7月新疆开机拍摄 吴京及谢霆锋参演](https://www.3dmgame.com/news/202406/3897600.html)
+
++ [B社不想为《上古卷轴6》更换新引擎 将重蹈《星空》覆辙？](https://www.3dmgame.com/news/202406/3897601.html)
+
