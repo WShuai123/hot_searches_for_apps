@@ -159,3 +159,27 @@
 
 + [《漫威金刚狼》PC版实机演示泄露 罗根疯狂打斗](https://www.3dmgame.com/news/202406/3897545.html)
 
++ [怪物收集RPG冒险游戏《妖之乡》 7月16日正式发售](https://www.3dmgame.com/news/202406/3897568.html)
+
++ [《电锯甜心RePOP》提供30套原创服装 女主更性感](https://www.3dmgame.com/news/202406/3897572.html)
+
++ [《黑执事》漫画将长期停载 作者休整酝酿故事最高潮](https://www.3dmgame.com/news/202406/3897571.html)
+
++ [《魔兽世界》怀旧服6月27日重启 直面会同步举行](https://www.3dmgame.com/news/202406/3897569.html)
+
++ [第三人称恐怖合作射击游戏《永恒冬日》现已登录Steam平台](https://www.3dmgame.com/news/202406/3897570.html)
+
++ [Xbox Live程序总监加入Unity 担任社区主管](https://www.3dmgame.com/news/202406/3897567.html)
+
++ [《夺宝奇兵：古老之圈》总监表示 曾花费无数小时重温系列电影](https://www.3dmgame.com/news/202406/3897565.html)
+
++ [《双城之战》第二季不是终点 更多英雄联盟故事即将推出](https://www.3dmgame.com/news/202406/3897563.html)
+
++ [Xbox营销主管离职 微软将重组Xbox营销团队](https://www.3dmgame.com/news/202406/3897562.html)
+
++ [《阿凡达：潘多拉边境》Steam版发售 限时六折优惠](https://www.3dmgame.com/news/202406/3897561.html)
+
++ [陶德：很后悔没为老滚5等添加更多内容 未来会改变](https://www.3dmgame.com/news/202406/3897566.html)
+
++ [Xbox营销主管跳槽罗布乐思 团队即将进行精简化](https://www.3dmgame.com/news/202406/3897564.html)
+

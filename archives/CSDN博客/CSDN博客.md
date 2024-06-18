@@ -141,3 +141,11 @@
 
 + [Python自动化办公（一） —— 根据PDF文件批量创建Word文档](https://blog.csdn.net/weixin_56595425/article/details/139703298)
 
++ [网络协议安全：TCP/IP协议栈的安全问题和解决方案](https://blog.csdn.net/wangyuxiang946/article/details/136632947)
+
++ [如何应对 CentOS 的停更？](https://blog.csdn.net/weixin_74144099/article/details/139753464)
+
++ [基于Java+SpringBoot+Mysql在线众筹系统设计与实现](https://blog.csdn.net/jinku7662_/article/details/139702011)
+
++ [算法分析与设计（持续更新……）](https://blog.csdn.net/lt6666678/article/details/139711946)
+
