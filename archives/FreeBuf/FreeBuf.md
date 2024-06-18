@@ -41,3 +41,7 @@
 
 + [Chrome 恶意扩展盗取百万美金解惑](https://www.freebuf.com/articles/blockchain-articles/402749.html)
 
++ [FreeBuf早报 | 日本立法强制苹果开放第三方应用商店；新型 TIKTAG 攻击曝光](https://www.freebuf.com/news/403702.html)
+
++ [OneNote 作为恶意软件分发新渠道持续增长](https://www.freebuf.com/articles/network/402076.html)
+

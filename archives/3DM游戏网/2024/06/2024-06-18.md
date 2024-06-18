@@ -117,3 +117,13 @@
 
 + [《心灵杀手2》推出拍照模式大赛 一等奖4090显卡](https://www.3dmgame.com/news/202406/3897537.html)
 
++ [陶德：不会急忙推出《辐射5》 需要花时间做好](https://www.3dmgame.com/news/202406/3897544.html)
+
++ [SE将把坂口博信RPG《Fantasian》引入主机平台](https://www.3dmgame.com/news/202406/3897543.html)
+
++ [索尼确认下一部《神秘海域》电影正在制作中](https://www.3dmgame.com/news/202406/3897542.html)
+
++ [《夺宝奇兵：古老之圈》新短片展示潜行机制](https://www.3dmgame.com/news/202406/3897541.html)
+
++ [类模拟人生游戏《Life by You》被Paradox取消](https://www.3dmgame.com/news/202406/3897540.html)
+

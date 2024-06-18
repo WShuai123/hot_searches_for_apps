@@ -125,3 +125,11 @@
 
 + [「网络原理」IP 协议](https://blog.csdn.net/Ice_Sugar_7/article/details/139693981)
 
++ [【机器学习】Qwen-VL：基于FastAPI私有化部署你的第一个AI多模态大模型](https://blog.csdn.net/weixin_48007632/article/details/139757328)
+
++ [【MySQL】事务一](https://blog.csdn.net/fight_p/article/details/139373912)
+
++ [Hadoop+Spark大数据技术（微课版）总复习](https://blog.csdn.net/qq_64684039/article/details/139722425)
+
++ [Hadoop 2.0：主流开源云架构（四）](https://blog.csdn.net/Morse_Chen/article/details/139706690)
+
