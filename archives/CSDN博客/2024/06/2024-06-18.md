@@ -157,3 +157,7 @@
 
 + [【电脑小白】装机从认识电脑部件开始](https://blog.csdn.net/YoungSoulwt/article/details/139741959)
 
++ [图神经网络实战（14）——基于节点嵌入预测链接](https://blog.csdn.net/LOVEmy134611/article/details/139737872)
+
++ [基于C#、Visual Studio 2017以及.NET Framework 4.5的Log4Net使用教程](https://blog.csdn.net/martian665/article/details/139749813)
+

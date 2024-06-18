@@ -37,3 +37,5 @@
 
 + [大疆面临美国全面禁售风险：众议院通过“无人机法案”，只待参议院和总统批准](https://m.ithome.com/html/775816.htm)
 
++ [提高 25%！苹果 iOS 18 助力 iPhone 15 Pro Max 迈上 AI 新台阶，神经引擎推理得分暴涨至 7816](https://m.ithome.com/html/775880.htm)
+

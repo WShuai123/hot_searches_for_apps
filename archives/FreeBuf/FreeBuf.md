@@ -51,3 +51,5 @@
 
 + [黑客竟能用表情符号控制恶意软件？](https://www.freebuf.com/news/403792.html)
 
++ [从红队视角剖析实战案例](https://www.freebuf.com/defense/403783.html)
+

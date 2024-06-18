@@ -205,3 +205,5 @@
 
 + [前贝赛微软老将成立支持开发商 专注虚幻引擎协助](https://www.3dmgame.com/news/202406/3897573.html)
 
++ [全球第一款RTX4070 ITX迷你卡诞生！单风扇无压力](https://www.3dmgame.com/news/202406/3897584.html)
+
