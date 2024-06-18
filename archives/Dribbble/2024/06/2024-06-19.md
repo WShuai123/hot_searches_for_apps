@@ -49,3 +49,23 @@
 
 + [pose!](https://dribbble.com/shots/)
 
++ [The Gryphon](https://dribbble.com/shots/)
+
++ [Characters + pattern I Client: Fiverr](https://dribbble.com/shots/)
+
++ [Lofi pattern for music label](https://dribbble.com/shots/)
+
++ [Jetboil and Bound for Nowhere Collaboration](https://dribbble.com/shots/)
+
++ [Rolling Fun](https://dribbble.com/shots/)
+
++ [Shows I Wish I Went To #8](https://dribbble.com/shots/)
+
++ [doom floppy](https://dribbble.com/shots/)
+
++ [Buckeye Illustration](https://dribbble.com/shots/)
+
++ [Weird chess game](https://dribbble.com/shots/)
+
++ [Lahore Travel Poster](https://dribbble.com/shots/)
+
