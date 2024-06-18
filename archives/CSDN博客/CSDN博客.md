@@ -167,3 +167,11 @@
 
 + [大数据技术与实践学习](https://blog.csdn.net/ZTBztb123456/article/details/139757259)
 
++ [【机器学习】智能创意工厂：机器学习驱动的AIGC，打造未来内容新生态](https://blog.csdn.net/2301_77509762/article/details/139760553)
+
++ [【MySQL】——概念、逻辑、物理结构设计](https://blog.csdn.net/shsjssnn/article/details/136693740)
+
++ [【Linux】Jenkins Pipeline流水线详解及基于Jenkins流水线实现自动更新项目（实战）](https://blog.csdn.net/liu_chen_yang/article/details/136656568)
+
++ [【Sa-Token|2】Sa-Token在微服务中的使用](https://blog.csdn.net/weixin_36755535/article/details/139768518)
+

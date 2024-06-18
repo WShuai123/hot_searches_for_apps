@@ -107,3 +107,5 @@
 
 + [Murals for Pack Animals, San Francisco](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+

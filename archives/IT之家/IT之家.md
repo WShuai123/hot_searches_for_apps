@@ -41,3 +41,5 @@
 
 + [网传虾皮 Shopee 研发中心员工猝死，内网声明曝光](https://m.ithome.com/html/775948.htm)
 
++ [B站+优酷+迅雷+微博+王者：QQ SVIP 联合年卡 198 元（总价值 2194 元）](https://m.ithome.com/html/775811.htm)
+

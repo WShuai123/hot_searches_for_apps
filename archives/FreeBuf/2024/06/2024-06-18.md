@@ -53,3 +53,9 @@
 
 + [从红队视角剖析实战案例](https://www.freebuf.com/defense/403783.html)
 
++ [GTFOcli：一款基于二进制搜索命令的错误配置系统评估工具](https://www.freebuf.com/sectool/403450.html)
+
++ [纽约州和密歇根州部分地区遭受网络攻击，市政府被迫关闭](https://www.freebuf.com/news/403795.html)
+
++ [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
+
