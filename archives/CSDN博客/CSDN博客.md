@@ -181,3 +181,11 @@
 
 + [【机器学习】——【线性回归模型】——详细【学习路线】](https://blog.csdn.net/2303_77720864/article/details/139770030)
 
++ [云上战场：ToDesk云电脑、青椒云、顺网云全面对决](https://blog.csdn.net/m0_73367097/article/details/139774721)
+
++ [使用Ollama+OpenWebUI本地部署阿里通义千问Qwen2 AI大模型](https://blog.csdn.net/jxjdhdnd/article/details/139755600)
+
++ [《珊瑚岛》是一款什么类型的游戏 苹果电脑如何玩到《珊瑚岛》](https://blog.csdn.net/2301_81704405/article/details/139748514)
+
++ [路由控制和策略路由](https://blog.csdn.net/qq_47592482/article/details/139746146)
+
