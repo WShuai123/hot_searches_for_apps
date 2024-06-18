@@ -217,3 +217,23 @@
 
 + [小说改编动画《转生为第七王子》宣布第二季制作计划 第一季已完结并发行蓝光版](https://www.3dmgame.com/news/202406/3897589.html)
 
++ [《方舟：生存飞升》新更新 强化社交功能Club ARK上线](https://www.3dmgame.com/news/202406/3897598.html)
+
++ [我国电视开机率断崖式下跌背后：视频会员干的好事 开了VIP还要SVIP被吐槽](https://www.3dmgame.com/news/202406/3897599.html)
+
++ [《魔兽世界》“巫妖王之怒”国服开设新服务器 名称投票开启](https://www.3dmgame.com/news/202406/3897596.html)
+
++ [赛博朋克风格《指环王》视频 展示未来中土世界模样](https://www.3dmgame.com/news/202406/3897597.html)
+
++ [P5总监：并不反感《暗喻幻想》被归类为JRPG](https://www.3dmgame.com/news/202406/3897595.html)
+
++ [万代宣布7月2日举行直播 公布《高达破坏者4》最新情报](https://www.3dmgame.com/news/202406/3897594.html)
+
++ [《刺客信条：影》将一改系列传统 取消“融入人群”机制](https://www.3dmgame.com/news/202406/3897593.html)
+
++ [《深夜拉面》7月24日登陆Steam 哲理系叙事游戏](https://www.3dmgame.com/news/202406/3897592.html)
+
++ [VG Insights：索尼已在Steam赚超8亿美元收入](https://www.3dmgame.com/news/202406/3897591.html)
+
++ [《小丑牌》主机实体版开启预购 包括10张实体卡牌](https://www.3dmgame.com/news/202406/3897590.html)
+

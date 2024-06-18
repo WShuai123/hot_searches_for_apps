@@ -43,3 +43,11 @@
 
 + [B站+优酷+迅雷+微博+王者：QQ SVIP 联合年卡 198 元（总价值 2194 元）](https://m.ithome.com/html/775811.htm)
 
++ [小米米家吸管杯上架有品众筹：316L 不锈钢内胆、1L 容量，99 元](https://m.ithome.com/html/775858.htm)
+
++ [京东自营百亿补贴：华为 Mate 60 Pro 手机 512G 版 6808 元赠碎屏险](https://m.ithome.com/html/775934.htm)
+
++ [1400 元新低：小米 1.5 匹巨省电 N1A1 空调官方直降（一级能效）](https://m.ithome.com/html/775845.htm)
+
++ [宁德时代施行 896 工作制？公司回应：网传消息为曲解造谣](https://m.ithome.com/html/775885.htm)
+

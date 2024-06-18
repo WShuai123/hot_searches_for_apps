@@ -59,3 +59,9 @@
 
 + [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
 
++ [网安人必备！开源网络安全工具TOP 10（附下载地址）](https://www.freebuf.com/sectool/403842.html)
+
++ [虚假的谷歌浏览器错误正诱导用户运行恶意PowerShell脚本](https://www.freebuf.com/news/403837.html)
+
++ [攻防演练 | 从红队视角剖析实战案例](https://www.freebuf.com/defense/403783.html)
+
