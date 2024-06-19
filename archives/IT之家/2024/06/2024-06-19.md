@@ -55,3 +55,5 @@
 
 + [华为 MatePad 11.5"S 12GB 柔光版平板搭载麒麟 9000WE 处理器](https://m.ithome.com/html/776341.htm)
 
++ [微信支付收款码接入银联网络，与云闪付实现“互联互通”](https://m.ithome.com/html/776300.htm)
+
