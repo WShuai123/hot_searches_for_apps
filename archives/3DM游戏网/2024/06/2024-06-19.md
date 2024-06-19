@@ -279,3 +279,5 @@
 
 + [Redmi K70 618卖爆 卢伟冰：K70至尊版会更强](https://www.3dmgame.com/news/202406/3897703.html)
 
++ [顶配iPhone16售价有望破2万元 博主直言大家该买还是买](https://www.3dmgame.com/news/202406/3897714.html)
+

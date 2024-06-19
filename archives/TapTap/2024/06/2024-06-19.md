@@ -25,3 +25,5 @@
 
 + [命运圣契](https://www.taptap.cn/app/235273)
 
++ [吟游战记](https://www.taptap.cn/app/496018)
+

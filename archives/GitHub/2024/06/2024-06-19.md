@@ -37,3 +37,25 @@
 
 + [kubernetes / autoscaler](https://github.com/kubernetes/autoscaler)
 
++ [landing-ai / vision-agent](https://github.com/landing-ai/vision-agent)
+
++ [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [baptisteArno / typebot.io](https://github.com/baptisteArno/typebot.io)
+
++ [argilla-io / argilla](https://github.com/argilla-io/argilla)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic)
+
++ [serverless / serverless](https://github.com/serverless/serverless)
+
