@@ -161,3 +161,7 @@
 
 + [数据可视化实验三：Matplotlib绘图](https://blog.csdn.net/m0_64198455/article/details/139760298)
 
++ [R语言做图](https://blog.csdn.net/weixin_53456019/article/details/139544216)
+
++ [作为应用级开发者，如何更好的拥抱AI2.0时代～](https://blog.csdn.net/weixin_42250835/article/details/139786548)
+

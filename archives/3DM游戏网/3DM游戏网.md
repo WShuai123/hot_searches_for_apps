@@ -237,3 +237,23 @@
 
 + [《艾尔登法环》衍生漫画临时停载 作者也要玩黄金书幽影](https://www.3dmgame.com/news/202406/3897692.html)
 
++ [英特尔正式回应1314代酷睿K系列不稳定 根本原因待定](https://www.3dmgame.com/news/202406/3897702.html)
+
++ [桥野桂：《真女神转生3》是我做过难度最高的游戏](https://www.3dmgame.com/news/202406/3897701.html)
+
++ [《赛博朋克2077》大卖 CDPR将向股东支付2500万美元股利](https://www.3dmgame.com/news/202406/3897700.html)
+
++ [HBO《龙之家族》第二季首播收视率下降22% 不及第一季](https://www.3dmgame.com/news/202406/3897699.html)
+
++ [《无主之地》电影太像《银河护卫队》？导演回应](https://www.3dmgame.com/news/202406/3897698.html)
+
++ [《妖精的尾巴2》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897697.html)
+
++ [KLab社联合北京互爱互动 推新手游《JOJO的奇妙冒险：黄金赞歌》](https://www.3dmgame.com/news/202406/3897696.html)
+
++ [鞠躬道歉不影响：丰田章男再当选丰田汽车会长](https://www.3dmgame.com/news/202406/3897695.html)
+
++ [《英雄联盟》负责人：用户生成内容模式并不适合我们](https://www.3dmgame.com/news/202406/3897694.html)
+
++ [山田尚子执导动画电影《你的颜色》确定引入 档期待定](https://www.3dmgame.com/news/202406/3897693.html)
+
