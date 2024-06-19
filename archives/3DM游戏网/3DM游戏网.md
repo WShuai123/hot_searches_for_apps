@@ -105,3 +105,31 @@
 
 + [网易游戏《蛋仔派对》即将登陆任天堂Switch](https://www.3dmgame.com/news/202406/3897626.html)
 
++ [育碧封杀日本历史学家 因其大骂《刺客信条：影》弥助](https://www.3dmgame.com/news/202406/3897638.html)
+
++ [免费韩游《王权与自由》国际服9月17日推出 Steam锁国区](https://www.3dmgame.com/news/202406/3897639.html)
+
++ [《银河战士Prime 4》新截图 萨姆斯再次踏上冒险旅途](https://www.3dmgame.com/news/202406/3897640.html)
+
++ [传苹果暂停开发Vision Pro 2 专注于廉价版本](https://www.3dmgame.com/news/202406/3897637.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》Steam国区348元](https://www.3dmgame.com/news/202406/3897635.html)
+
++ [《你的人生》开发商Tectonic将被P社关闭](https://www.3dmgame.com/news/202406/3897636.html)
+
++ [《银河战士Prime 4：超越》正式公布 实机内容分享](https://www.3dmgame.com/news/202406/3897632.html)
+
++ [《逆转检事合集》9月推出 御剑怜侍挑大梁](https://www.3dmgame.com/news/202406/3897633.html)
+
++ [万代南梦宫夏季展示会7/5亮相Anime Expo 2024](https://www.3dmgame.com/news/202406/3897634.html)
+
++ [牧场物语系列制作团队推出新作《魔农传记》](https://www.3dmgame.com/news/202406/3897627.html)
+
++ [经典RPG《浪漫沙加2重制版》正式公布10月24日发售](https://www.3dmgame.com/news/202406/3897628.html)
+
++ [《黄金树幽影》IGN10分 单机标杆无需多言](https://www.3dmgame.com/news/202406/3897629.html)
+
++ [塔防玩法《合金弹头：进攻》强化登陆PC和主机平台](https://www.3dmgame.com/news/202406/3897630.html)
+
++ [使命召唤与辐射联动内容地下室逃亡者现已上线](https://www.3dmgame.com/news/202406/3897631.html)
+

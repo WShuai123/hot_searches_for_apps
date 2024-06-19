@@ -107,3 +107,15 @@
 
 + [制造业为什么需要ERP企业管理软件？](https://blog.csdn.net/BeWorkingMan/article/details/139779048)
 
++ [Datakit管理openGauss6.0集群，监控运维超方便](https://blog.csdn.net/weixin_41645135/article/details/139784931)
+
++ [什么是隐马尔可夫模型？](https://blog.csdn.net/gongdiwudu/article/details/139651437)
+
++ [《珊瑚岛》是一款什么类型的游戏 苹果电脑如何玩到《珊瑚岛》](https://blog.csdn.net/2301_81704405/article/details/139748514)
+
++ [【03编辑器与大模型篇】0到1打造基于文心大模型和飞桨小模型的智能在线编辑器](https://blog.csdn.net/weixin_38898884/article/details/139782222)
+
++ [web系统数据库敏感数据处理](https://blog.csdn.net/dongjing991/article/details/139768680)
+
++ [【前端项目笔记】2 主页布局](https://blog.csdn.net/C_greenbird/article/details/139656242)
+
