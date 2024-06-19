@@ -45,3 +45,5 @@
 
 + [Keytap3 | 敲键盘的声音，也能出卖你](https://www.freebuf.com/articles/mobile/403631.html)
 
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+

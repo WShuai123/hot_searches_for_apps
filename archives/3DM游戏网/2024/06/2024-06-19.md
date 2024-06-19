@@ -133,3 +133,27 @@
 
 + [使命召唤与辐射联动内容地下室逃亡者现已上线](https://www.3dmgame.com/news/202406/3897631.html)
 
++ [《深夏时光！二十世纪的暑假》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897645.html)
+
++ [重燃90年代热血FPS《法外枭雄：滚石城》正式登陆 Steam](https://www.3dmgame.com/news/202406/3897646.html)
+
++ [《马力欧＆路易吉RPG 兄弟齐航！》11月7日登录Switch 系列首次全3D化](https://www.3dmgame.com/news/202406/3897647.html)
+
++ [中式民俗多人生存建造冒险《炭熄》6月24日steam正式发布](https://www.3dmgame.com/news/202406/3897648.html)
+
++ [暴雪：《守望先锋》玩家数突破1亿 达到新的里程碑](https://www.3dmgame.com/news/202406/3897649.html)
+
++ [《Ultimate Hunting》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202406/3897650.html)
+
++ [《星刃》新更新补丁上线 添加两套新服装](https://www.3dmgame.com/news/202406/3897651.html)
+
++ [开发者谈《勇者斗恶龙3 重制版》实际已经开发3年多](https://www.3dmgame.com/news/202406/3897652.html)
+
++ [创意游戏《键盘猫祸》免费登陆PC 打字不能疏于抚猫](https://www.3dmgame.com/news/202406/3897641.html)
+
++ [点击游戏《香蕉》成Steam平台最受欢迎游戏记录第9名 《博德之门3》跌出前10](https://www.3dmgame.com/news/202406/3897642.html)
+
++ [打得痛快 刷得过瘾《英勇之地》端游今日正式公测](https://www.3dmgame.com/news/202406/3897644.html)
+
++ [《勇者斗恶龙1&2 HD-2D 重制版》Steam商店页面上线 2025年发售支持中文](https://www.3dmgame.com/news/202406/3897643.html)
+

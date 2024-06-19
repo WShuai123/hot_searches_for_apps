@@ -119,3 +119,11 @@
 
 + [【前端项目笔记】2 主页布局](https://blog.csdn.net/C_greenbird/article/details/139656242)
 
++ [【C++修行之道】C/C++内存管理](https://blog.csdn.net/2301_79558858/article/details/139779057)
+
++ [记录Vue3+TS 定义接口interface、ref、reactive的使用场景以及使用泛型的原因](https://blog.csdn.net/qq_37803607/article/details/139742853)
+
++ [【DevOps】Elasticsearch 数据跨集群同步方案](https://blog.csdn.net/benshu_001/article/details/139727321)
+
++ [聊聊系统架构之负载均衡优化实践](https://blog.csdn.net/shuaisunny/article/details/139785207)
+
