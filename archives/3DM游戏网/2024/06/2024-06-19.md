@@ -231,3 +231,9 @@
 
 + [前索尼全球工作室主席：游戏公司急着裁员毫无耐心](https://www.3dmgame.com/news/202406/3897685.html)
 
++ [「妖精尾巴」、最终之战即将揭幕～主机游戏『FAIRY TAIL 2』决定于今年冬季发售！](https://www.3dmgame.com/news/202406/3897690.html)
+
++ [《原神》希格雯角色PV——「日常问候」](https://www.3dmgame.com/news/202406/3897691.html)
+
++ [《艾尔登法环》衍生漫画临时停载 作者也要玩黄金书幽影](https://www.3dmgame.com/news/202406/3897692.html)
+

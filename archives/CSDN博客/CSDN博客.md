@@ -155,3 +155,9 @@
 
 + [hdfs高可用文件系统架构](https://blog.csdn.net/m0_38003171/article/details/139777131)
 
++ [yolo目标追踪](https://blog.csdn.net/2202_75530902/article/details/139721099)
+
++ [VUE 项目用 Docker+Nginx进行打包部署](https://blog.csdn.net/weixin_44834981/article/details/139775714)
+
++ [数据可视化实验三：Matplotlib绘图](https://blog.csdn.net/m0_64198455/article/details/139760298)
+
