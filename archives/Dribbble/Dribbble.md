@@ -49,3 +49,23 @@
 
 + [Lofi pattern for music label](https://dribbble.com/shots/)
 
++ [Memento Mori](https://dribbble.com/shots/)
+
++ [Brewery Lettering](https://dribbble.com/shots/)
+
++ [Hurdles](https://dribbble.com/shots/)
+
++ [Hats](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
++ [Dennis Rodman](https://dribbble.com/shots/)
+
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
++ [Jetboil and Bound for Nowhere Collaboration](https://dribbble.com/shots/)
+
++ [Pocahontas](https://dribbble.com/shots/)
+
++ [Alien Romulus](https://dribbble.com/shots/)
+
