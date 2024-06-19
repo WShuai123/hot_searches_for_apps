@@ -165,3 +165,11 @@
 
 + [作为应用级开发者，如何更好的拥抱AI2.0时代～](https://blog.csdn.net/weixin_42250835/article/details/139786548)
 
++ [goldfish loss：减少训练数据泄漏，提高大语言模型输出的多样性](https://blog.csdn.net/m0_46510245/article/details/139796054)
+
++ [ChatTTS语音生成模型：突破开源语音天花板的新星](https://blog.csdn.net/xiaobing259/article/details/139782159)
+
++ [DS1302实时时钟芯片完整使用介绍(配合51单片机)](https://blog.csdn.net/xiaolong1126626497/article/details/139734614)
+
++ [立创开源学习篇（一）](https://blog.csdn.net/zjb6668/article/details/139780241)
+

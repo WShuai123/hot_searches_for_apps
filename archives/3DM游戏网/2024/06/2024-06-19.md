@@ -257,3 +257,25 @@
 
 + [山田尚子执导动画电影《你的颜色》确定引入 档期待定](https://www.3dmgame.com/news/202406/3897693.html)
 
++ [《ENDLESS™ DUNGEON》迎来社区共创的全新英雄及大型游戏更新](https://www.3dmgame.com/news/202406/3897709.html)
+
++ [人气漫改《忍者杀手》动作游戏7月24日登陆Switch](https://www.3dmgame.com/news/202406/3897713.html)
+
++ [《艾诺提亚：失落之歌》最新资讯公开：意大利类魂动作游戏的制作团队](https://www.3dmgame.com/news/202406/3897712.html)
+
++ [由真岛浩×Marvelous 《魔农传记 FARMAGIA》将于11月1日发售！实体版预购开启](https://www.3dmgame.com/news/202406/3897710.html)
+
++ [KK官方对战平台重磅新图《重返战法牧》6月20日即将上线，原汁原味铁三角开荒！](https://www.3dmgame.com/news/202406/3897711.html)
+
++ [“SEGA年中大促”将于7月3日（周三）截止！《如龙８》等加入促销！](https://www.3dmgame.com/news/202406/3897708.html)
+
++ [经典FPS《时空分裂者》在台通过PS4和PS5评级](https://www.3dmgame.com/news/202406/3897707.html)
+
++ [《逆转检察官1&2 御剑精选集》Steam预购开启 国区定价198元](https://www.3dmgame.com/news/202406/3897706.html)
+
++ [Runway推出视频生成模型Gen-3 Alpha 能生成细节逼真视频](https://www.3dmgame.com/news/202406/3897705.html)
+
++ [文件显示被马斯克收购后 X平台2023上半年收入同比暴跌40%](https://www.3dmgame.com/news/202406/3897704.html)
+
++ [Redmi K70 618卖爆 卢伟冰：K70至尊版会更强](https://www.3dmgame.com/news/202406/3897703.html)
+
