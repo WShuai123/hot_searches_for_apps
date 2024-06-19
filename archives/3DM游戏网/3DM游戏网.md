@@ -215,3 +215,19 @@
 
 + [《马力欧派对：空前盛会》将是迄今最大的马趴作品](https://www.3dmgame.com/news/202406/3897678.html)
 
++ [治愈系探索冒险游戏《雾方福地》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202406/3897686.html)
+
++ [《方舟生存飞升》全新社交玩法“方舟俱乐部”开启](https://www.3dmgame.com/news/202406/3897687.html)
+
++ [《蜘蛛侠2》《宇宙机器人》成PS Portal最热门游戏](https://www.3dmgame.com/news/202406/3897688.html)
+
++ [发售近三年 《怪物猎人物语2》累计销量突破200万](https://www.3dmgame.com/news/202406/3897689.html)
+
++ [《街头霸王6》维加角色指南 6月26日参战](https://www.3dmgame.com/news/202406/3897682.html)
+
++ [宫崎英高透露个人最喜欢游戏：《黑暗之魂》和《血源诅咒》](https://www.3dmgame.com/news/202406/3897683.html)
+
++ [《绝地潜兵2》差评披风真实存在并已完成制作 Arrowhead正在寻找发布时机](https://www.3dmgame.com/news/202406/3897684.html)
+
++ [前索尼全球工作室主席：游戏公司急着裁员毫无耐心](https://www.3dmgame.com/news/202406/3897685.html)
+

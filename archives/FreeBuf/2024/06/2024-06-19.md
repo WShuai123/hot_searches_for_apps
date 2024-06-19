@@ -57,3 +57,5 @@
 
 + [生成式人工智能技术的快速应用，引发企业内部担忧](https://www.freebuf.com/news/403906.html)
 
++ [Pentest Muse：一款专为网络安全人员设计的AI助手](https://www.freebuf.com/sectool/403576.html)
+
