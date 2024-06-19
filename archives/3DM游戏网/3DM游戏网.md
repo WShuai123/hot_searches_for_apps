@@ -175,3 +175,33 @@
 
 + [《龙腾世纪：影障守护者》新截图 女精灵同伴很凶悍](https://www.3dmgame.com/news/202406/3897653.html)
 
++ [搞笑合作游戏《Purrrifiers》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897676.html)
+
++ [《英灵神殿》确定推出桌上游戏 探索战斗要素不缺](https://www.3dmgame.com/news/202406/3897675.html)
+
++ [《权力的游戏》衍生剧《七王国的骑士》正式开拍 首张剧照曝光](https://www.3dmgame.com/news/202406/3897674.html)
+
++ [上千自媒体无底线博流量 一个多月生产近4万垃圾文](https://www.3dmgame.com/news/202406/3897673.html)
+
++ [电影《危笑》续集《夺命微笑2》预告 10月18日北美上映](https://www.3dmgame.com/news/202406/3897672.html)
+
++ [动作类肉鸽游戏《失落城堡2》计划于2024年7月25日推出抢先体验版](https://www.3dmgame.com/news/202406/3897671.html)
+
++ [新王登基！英伟达超越微软苹果 首次成全球市值最高公司](https://www.3dmgame.com/news/202406/3897670.html)
+
++ [宫崎英高称《只狼》是FS社转折点 未来游戏更快更流畅](https://www.3dmgame.com/news/202406/3897669.html)
+
++ [国产潜行游戏《演灭》宣布9月13日发售 登陆PS5和PC](https://www.3dmgame.com/news/202406/3897668.html)
+
++ [航海王系列口碑最佳电影《航海王：强者天下》定档8.23热血开战](https://www.3dmgame.com/news/202406/3897666.html)
+
++ [《Stickers for You》登陆Steam 城市探索收集贴纸](https://www.3dmgame.com/news/202406/3897665.html)
+
++ [《神奇女侠》游戏将有程序生成的敌人/盟友 战斗流畅](https://www.3dmgame.com/news/202406/3897663.html)
+
++ [《漫威 vs. 卡普空 动作收藏街机经典》Steam页面 支持中文](https://www.3dmgame.com/news/202406/3897662.html)
+
++ [《大金刚国度 归来 HD》明年1月登录Switch 包含80个关卡](https://www.3dmgame.com/news/202406/3897667.html)
+
++ [《百日战纪-最终防卫学园-》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897664.html)
+

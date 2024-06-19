@@ -47,3 +47,7 @@
 
 + [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
 
++ [Barracuda最新报告显示：有 92% 的企业曾遭遇社工攻击](https://www.freebuf.com/news/403895.html)
+
++ [AMD多项内部数据被黑客挂到暗网出售](https://www.freebuf.com/news/403901.html)
+
