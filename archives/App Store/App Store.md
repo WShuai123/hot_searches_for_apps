@@ -205,3 +205,7 @@
 
 + [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+

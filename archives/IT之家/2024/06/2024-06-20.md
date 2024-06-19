@@ -27,3 +27,5 @@
 
 + [新买特斯拉半年突然着火，车主：要获得补偿得签保密协议](https://m.ithome.com/html/776253.htm)
 
++ [要想体验 Apple Intelligence 必须买 iPhone 15 Pro？苹果：完全是出于速度考虑而非营销套路](https://m.ithome.com/html/776372.htm)
+
