@@ -23,3 +23,5 @@
 
 + [鸣潮](https://www.taptap.cn/app/234280)
 
++ [命运圣契](https://www.taptap.cn/app/235273)
+

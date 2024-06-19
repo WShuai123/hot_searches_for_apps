@@ -41,3 +41,5 @@
 
 + [华为 Wi-Fi 7 新品推介会 6 月 19 日举行](https://m.ithome.com/html/776137.htm)
 
++ [倒数 10 分钟：小米 67W 氮化镓 2C1A 插板 75 元京东新低（官方 99 元）](https://m.ithome.com/html/776140.htm)
+

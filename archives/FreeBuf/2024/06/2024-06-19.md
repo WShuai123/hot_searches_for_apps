@@ -51,3 +51,5 @@
 
 + [AMD多项内部数据被黑客挂到暗网出售](https://www.freebuf.com/news/403901.html)
 
++ [渗透测试 | Web安全中的XSS攻击详细教学（附通关教程）](https://www.freebuf.com/articles/web/403527.html)
+

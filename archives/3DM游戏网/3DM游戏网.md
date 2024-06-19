@@ -205,3 +205,5 @@
 
 + [《百日战纪-最终防卫学园-》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3897664.html)
 
++ [漫改游戏《妖精的尾巴2》公布预告 将于2024年冬季推出](https://www.3dmgame.com/news/202406/3897677.html)
+
