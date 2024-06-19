@@ -53,3 +53,5 @@
 
 + [袁婷婷“跳槽”至小鹏汽车，曾任阿里达摩院自动驾驶运营负责人](https://m.ithome.com/html/776198.htm)
 
++ [华为 MatePad 11.5"S 12GB 柔光版平板搭载麒麟 9000WE 处理器](https://m.ithome.com/html/776341.htm)
+

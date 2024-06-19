@@ -161,3 +161,5 @@
 
 + [Flowriver](https://www.producthunt.com/posts/flowriver)
 
++ [AI Messaging App for Product Teams](https://www.producthunt.com/posts/ai-messaging-app-for-product-teams)
+

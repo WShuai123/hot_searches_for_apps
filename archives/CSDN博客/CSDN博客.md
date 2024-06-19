@@ -173,3 +173,21 @@
 
 + [立创开源学习篇（一）](https://blog.csdn.net/zjb6668/article/details/139780241)
 
++ [【自动驾驶技术】自动驾驶汽车AI芯片汇总——TESLA篇（FSD介绍）](https://blog.csdn.net/m0_49963403/article/details/139703987)
+
++ [访问0xdddddddd内存地址引发软件崩溃的实战问题排查](https://blog.csdn.net/chenlycly/article/details/139800126)
+
++ [硬盘格式化NTFS好还是exFAT好 U盘存储文件用哪个格式好? 硬盘用exfat还是ntfs mac不能读取移动硬盘怎么解决](https://blog.csdn.net/2301_81704405/article/details/139790833)
+
++ [HTML星空特效](https://blog.csdn.net/m0_68111267/article/details/139799620)
+
++ [HarmonyOS 角落里的知识 —— 状态管理](https://blog.csdn.net/m0_64422261/article/details/139775333)
+
++ [【宠粉赠书】科研绘图神器：MATLAB科技绘图与数据分析](https://blog.csdn.net/weixin_41793160/article/details/139725354)
+
++ [学习信号和槽（2）](https://blog.csdn.net/plj521/article/details/139024619)
+
++ [Mybatis中 #{} 和 ${} 的区别](https://blog.csdn.net/ningbaidexia/article/details/139748197)
+
++ [Dockerfile 自定义镜像](https://blog.csdn.net/m0_53117341/article/details/139726930)
+

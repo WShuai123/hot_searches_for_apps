@@ -59,3 +59,5 @@
 
 + [Pentest Muse：一款专为网络安全人员设计的AI助手](https://www.freebuf.com/sectool/403576.html)
 
++ [马上报名 | 红蓝军攻防与数据安全主题研讨会·北京站启动](https://www.freebuf.com/fevents/403953.html)
+

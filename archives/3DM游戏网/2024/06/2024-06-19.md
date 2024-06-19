@@ -281,3 +281,7 @@
 
 + [顶配iPhone16售价有望破2万元 博主直言大家该买还是买](https://www.3dmgame.com/news/202406/3897714.html)
 
++ [Nintendo Switch™版《空战奇兵7 未知天际 豪华版》已于今日展开数字预购！](https://www.3dmgame.com/news/202406/3897716.html)
+
++ [男生收到4070TiS礼物后大哭 女生：显卡威力这么大？](https://www.3dmgame.com/news/202406/3897715.html)
+
