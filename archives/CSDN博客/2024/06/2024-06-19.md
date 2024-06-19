@@ -197,3 +197,11 @@
 
 + [EtherCAT笔记（二） —— EtherCAT状态机](https://blog.csdn.net/m0_37763336/article/details/139795155)
 
++ [【机器学习】机器学习重要方法——无监督学习：理论、算法与实践](https://blog.csdn.net/Easonmax/article/details/139469285)
+
++ [HTML李峋同款跳动的爱心代码（双爱心版）](https://blog.csdn.net/m0_68111267/article/details/139799806)
+
++ [GaussDB技术解读——GaussDB架构介绍（五）](https://blog.csdn.net/GaussDB/article/details/139765512)
+
++ [数据库系统](https://blog.csdn.net/xixixixixixixi21/article/details/139800237)
+

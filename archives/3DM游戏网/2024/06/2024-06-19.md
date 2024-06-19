@@ -285,3 +285,13 @@
 
 + [男生收到4070TiS礼物后大哭 女生：显卡威力这么大？](https://www.3dmgame.com/news/202406/3897715.html)
 
++ [腾讯《合金弹头：觉醒》现已登陆Steam 7月18日发售](https://www.3dmgame.com/news/202406/3897721.html)
+
++ [《猎人：荒野的呼唤》DLC上线 追踪13种野生动物](https://www.3dmgame.com/news/202406/3897719.html)
+
++ [“航海王”第10部剧场版《航海王：强者天下》定档](https://www.3dmgame.com/news/202406/3897720.html)
+
++ [《七日杀》1.0正式版将于6月25日推出](https://www.3dmgame.com/news/202406/3897718.html)
+
++ [三星推迟美国德州晶圆厂的设备订单 工艺或从4nm升级至2nm](https://www.3dmgame.com/news/202406/3897717.html)
+

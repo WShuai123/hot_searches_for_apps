@@ -57,3 +57,5 @@
 
 + [微信支付收款码接入银联网络，与云闪付实现“互联互通”](https://m.ithome.com/html/776300.htm)
 
++ [Android 15 系统将重新定义“快速充电”标准：从 7.5W 提高到 20W](https://m.ithome.com/html/776187.htm)
+
