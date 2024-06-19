@@ -207,3 +207,11 @@
 
 + [漫改游戏《妖精的尾巴2》公布预告 将于2024年冬季推出](https://www.3dmgame.com/news/202406/3897677.html)
 
++ [《Go-Go Town！》Steam抢先体验 合作城镇建设](https://www.3dmgame.com/news/202406/3897680.html)
+
++ [年度游戏提名《迷失》将于圣诞假期登陆Switch！](https://www.3dmgame.com/news/202406/3897679.html)
+
++ [《夺命微笑2》曝首支预告 惊悚“危”笑高能归来 笑里藏刀最为致命](https://www.3dmgame.com/news/202406/3897681.html)
+
++ [《马力欧派对：空前盛会》将是迄今最大的马趴作品](https://www.3dmgame.com/news/202406/3897678.html)
+

@@ -143,3 +143,13 @@
 
 + [docker使用](https://blog.csdn.net/qq_48736646/article/details/139761247)
 
++ [AI大模型在运动项目的深度融合和在穿戴设备的实践及未来运动健康技术发展](https://blog.csdn.net/rjdeng/article/details/139669113)
+
++ [第29讲：Ceph集群使用RBD块存储设备与K8S的PV集成](https://blog.csdn.net/weixin_44953658/article/details/139790009)
+
++ [基于文本挖掘的卡塔尔世界杯赛事网络舆情演变与趋势预测](https://blog.csdn.net/m0_64336780/article/details/138444975)
+
++ [pygame游戏开发](https://blog.csdn.net/lxl_15139204961/article/details/137260342)
+
++ [前端可观测性系统建设](https://blog.csdn.net/bilibili_TC/article/details/139751335)
+

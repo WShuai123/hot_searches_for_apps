@@ -53,3 +53,7 @@
 
 + [渗透测试 | Web安全中的XSS攻击详细教学（附通关教程）](https://www.freebuf.com/articles/web/403527.html)
 
++ [VMware 关键漏洞修复程序已发布，请立即更新](https://www.freebuf.com/news/403897.html)
+
++ [生成式人工智能技术的快速应用，引发企业内部担忧](https://www.freebuf.com/news/403906.html)
+
