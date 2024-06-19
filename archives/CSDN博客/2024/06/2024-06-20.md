@@ -103,3 +103,21 @@
 
 + [React是什么？](https://blog.csdn.net/weixin_45215308/article/details/139786471)
 
++ [【区块链】以太坊白皮书深度解读：构建智能合约的分布式平台](https://blog.csdn.net/qq_44214428/article/details/139776817)
+
++ [Elasticsearch中的post_filter后置过滤器技术](https://blog.csdn.net/qq_26664043/article/details/139702007)
+
++ [提取人脸——OpenCV](https://blog.csdn.net/2301_76794217/article/details/139781063)
+
++ [前端工程化：基于Vue.js 3.0的设计与实践](https://blog.csdn.net/qq_44273429/article/details/139795274)
+
++ [使用 Elasticsearch 中的地理语义搜索增强推荐功能](https://blog.csdn.net/UbuntuTouch/article/details/139788920)
+
++ [大数据大作业：（scrapy框架）使用uid爬取哔哩哔哩up主主页视频信息并进行数据可视化分析](https://blog.csdn.net/shxhdj/article/details/139726294)
+
++ [Dockerfile封装制作pytorch（tensorflow）深度学习框架 + jupyterlab服务 + ssh服务镜像](https://blog.csdn.net/qq_41905051/article/details/139738402)
+
++ [【linux】内核从tcp层调用IP层摸索中](https://blog.csdn.net/r77683962/article/details/139788876)
+
++ [《活侠传》修改器实战指南：风灵月影版全面教程](https://blog.csdn.net/uknow_guiya/article/details/139745869)
+

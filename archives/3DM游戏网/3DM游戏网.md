@@ -103,3 +103,23 @@
 
 + [《艾尔登法环：黄金树幽影》是M站评分最高的DLC 超越《巫师3：血与酒》](https://www.3dmgame.com/news/202406/3897725.html)
 
++ [《星球大战绝地：幸存者》旧主机版本完成分级 发售临近](https://www.3dmgame.com/news/202406/3897735.html)
+
++ [《永劫无间》联动高达设计师全新角色造型惊艳亮相](https://www.3dmgame.com/news/202406/3897734.html)
+
++ [20周年纪念版要来 《超越善恶》原版游戏下架停售](https://www.3dmgame.com/news/202406/3897733.html)
+
++ [Bluepoint在开发原创新作而非只专注重制游戏](https://www.3dmgame.com/news/202406/3897732.html)
+
++ [法国牧羊人步行模拟器《Transhumance》公开](https://www.3dmgame.com/news/202406/3897731.html)
+
++ [索尼不会参加科隆游戏展Gamescom 2024](https://www.3dmgame.com/news/202406/3897730.html)
+
++ [第三人称枪斗动作游戏《SPINE》新截图](https://www.3dmgame.com/news/202406/3897729.html)
+
++ [传闻《腐烂国度3》可能会在2025年发行](https://www.3dmgame.com/news/202406/3897728.html)
+
++ [NS版《大金刚国度 归来HD》由死亡之屋开发商移植](https://www.3dmgame.com/news/202406/3897727.html)
+
++ [《勇者斗恶龙3HD》新亮点揭晓 开发商已经更换](https://www.3dmgame.com/news/202406/3897726.html)
+
