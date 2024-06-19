@@ -157,3 +157,21 @@
 
 + [《勇者斗恶龙1&2 HD-2D 重制版》Steam商店页面上线 2025年发售支持中文](https://www.3dmgame.com/news/202406/3897643.html)
 
++ [《龙腾世纪：影障守护者》深度前瞻：战斗、能力、技能树](https://www.3dmgame.com/news/202406/3897660.html)
+
++ [《超越善恶》20周年纪念版更多消息将于6月21日发布](https://www.3dmgame.com/news/202406/3897658.html)
+
++ [《巧克力工厂》登陆Steam 美味点心工厂自动化运营](https://www.3dmgame.com/news/202406/3897659.html)
+
++ [《法外枭雄：滚石城》在Steam上发售 没有D加密](https://www.3dmgame.com/news/202406/3897657.html)
+
++ [《乐高地平线大冒险》Steam页面 年内推出](https://www.3dmgame.com/news/202406/3897656.html)
+
++ [篮球项目将作为免费更新加入《任天堂Switch运动》](https://www.3dmgame.com/news/202406/3897655.html)
+
++ [平台冒险游戏《蛙枪再战》下周推出 现已在Steam平台提供试玩Demo](https://www.3dmgame.com/news/202406/3897661.html)
+
++ [类银河恶魔城冒险游戏《MIO: Memories in Orbit》Steam页面 明年发售](https://www.3dmgame.com/news/202406/3897654.html)
+
++ [《龙腾世纪：影障守护者》新截图 女精灵同伴很凶悍](https://www.3dmgame.com/news/202406/3897653.html)
+
