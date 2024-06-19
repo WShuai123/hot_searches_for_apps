@@ -25,3 +25,5 @@
 
 + [华为 nova / 畅享系列 7 款机型宣布不限量开放鸿蒙 HarmonyOS 4.2 正式版升级](https://m.ithome.com/html/776335.htm)
 
++ [新买特斯拉半年突然着火，车主：要获得补偿得签保密协议](https://m.ithome.com/html/776253.htm)
+
