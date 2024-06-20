@@ -65,3 +65,5 @@
 
 + [军迷用无人机拍高清新型军舰获刑，国家安全部曝光三起案例](https://m.ithome.com/html/776435.htm)
 
++ [完成国产化替代，基于龙芯处理器的储迹 NAS 落地某公安局](https://m.ithome.com/html/776477.htm)
+

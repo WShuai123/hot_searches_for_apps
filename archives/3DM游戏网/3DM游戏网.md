@@ -255,3 +255,9 @@
 
 + [NVIDIA都成世界第一了：黄仁勋为何仍在担心](https://www.3dmgame.com/news/202406/3897793.html)
 
++ [《艾尔登法环》新补丁1.12现已上线 PvP、PvE平衡性改动](https://www.3dmgame.com/news/202406/3897803.html)
+
++ [虚幻5恐怖《仍然唤醒深海》Steam获特别好评](https://www.3dmgame.com/news/202406/3897801.html)
+
++ [2024年5月中国大陆显卡出货量 微星重新进入前三](https://www.3dmgame.com/news/202406/3897804.html)
+
