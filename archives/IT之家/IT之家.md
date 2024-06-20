@@ -27,3 +27,5 @@
 
 + [更流畅、更安全，iOS / 安卓版开源密码管理器 Bitwarden 焕新登场](https://m.ithome.com/html/776405.htm)
 
++ [全球首只“全真大熊猫”发布，国家林业和草原局、总台央视、腾讯联合打造](https://m.ithome.com/html/776570.htm)
+
