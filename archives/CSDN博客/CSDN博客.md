@@ -185,3 +185,7 @@
 
 + [SpringCloud之Nacos](https://blog.csdn.net/jbjmh/article/details/139755843)
 
++ [【机器学习】使用Python实现图神经网络（GNN）：图结构数据的分析与应用](https://blog.csdn.net/m0_52827996/article/details/139819326)
+
++ [【Spring Cloud】Gateway 服务网关限流](https://blog.csdn.net/Qingai521/article/details/139148571)
+

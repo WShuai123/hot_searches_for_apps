@@ -207,3 +207,7 @@
 
 + [上海烛龙《白荆回廊》Steam页面公布 上线日期待定](https://www.3dmgame.com/news/202406/3897771.html)
 
++ [《百日战纪》原发行商放弃发行 开发商负债开发](https://www.3dmgame.com/news/202406/3897779.html)
+
++ [FPS游戏《EVE Vanguard》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202406/3897778.html)
+
