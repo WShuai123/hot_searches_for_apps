@@ -207,3 +207,5 @@
 
 + [从零开始精通Onvif之录像存储](https://blog.csdn.net/hope_wisdom/article/details/139818218)
 
++ [【机器学习】音乐大模型的深入探讨——当机器有了创意，是机遇还是灾难？](https://blog.csdn.net/2301_79796701/article/details/139834600)
+
