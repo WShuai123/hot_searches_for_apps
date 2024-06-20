@@ -101,3 +101,25 @@
 
 + [Spark SQL函数详解：案例解析(第8天)](https://blog.csdn.net/syhiiu/article/details/139755888)
 
++ [使用Ollama+OpenWebUI本地部署阿里通义千问Qwen2 AI大模型](https://blog.csdn.net/jxjdhdnd/article/details/139755600)
+
++ [【C++修行之道】C/C++内存管理](https://blog.csdn.net/2301_79558858/article/details/139779057)
+
++ [【MySQL】——概念、逻辑、物理结构设计](https://blog.csdn.net/shsjssnn/article/details/136693740)
+
++ [使用深度强化学习预测股票：DQN 、Double DQN和Dueling Double DQN对比和代码示例](https://blog.csdn.net/m0_46510245/article/details/139826245)
+
++ [ChatTTS语音生成模型：突破开源语音天花板的新星](https://blog.csdn.net/xiaobing259/article/details/139782159)
+
++ [第四届人工智能、机器人和通信国际会议（ICAIRC 2024）](https://blog.csdn.net/qq_57563030/article/details/139833452)
+
++ [数据可视化实验三：Matplotlib绘图](https://blog.csdn.net/m0_64198455/article/details/139760298)
+
++ [鸿蒙HarmonyOS服务卡片实战](https://blog.csdn.net/nanxuan521/article/details/139839503)
+
++ [阿一网络安全学院干货科普篇之应急响应【下】](https://blog.csdn.net/qq_69775412/article/details/139778021)
+
++ [服务器负载均衡](https://blog.csdn.net/xq123joes/article/details/139798496)
+
++ [微信小程序学习（七）：自定义组件和通信](https://blog.csdn.net/john1516/article/details/139814106)
+

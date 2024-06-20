@@ -103,3 +103,19 @@
 
 + [赛博朋克风《尼瓦利斯》延期至2025年 505 Games发行](https://www.3dmgame.com/news/202406/3897810.html)
 
++ [《忍者神龟：斯普林特的命运》7月17日登陆Switch](https://www.3dmgame.com/news/202406/3897818.html)
+
++ [经典3D动作游戏《格斗力量》合集即将发售](https://www.3dmgame.com/news/202406/3897816.html)
+
++ [经典游戏现代演绎 《雪人兄弟：仙境》实机视频](https://www.3dmgame.com/news/202406/3897817.html)
+
++ [《超越善恶》20周年纪念版6/25推出 登陆各大平台](https://www.3dmgame.com/news/202406/3897815.html)
+
++ [《战锤40K：星际战士2》6分钟概览 英雄萨姆既视感](https://www.3dmgame.com/news/202406/3897814.html)
+
++ [最强FC音质游戏《吉米克》续作正式公布](https://www.3dmgame.com/news/202406/3897813.html)
+
++ [受《孤岛危机》启发 FPS《猛兽岛》新实机视频分享](https://www.3dmgame.com/news/202406/3897812.html)
+
++ [经典PS游戏《恐惧反应》回归现代游戏平台](https://www.3dmgame.com/news/202406/3897811.html)
+
