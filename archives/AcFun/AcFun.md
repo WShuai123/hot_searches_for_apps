@@ -75,3 +75,7 @@
 
 + [【独家】RE：从零开始的唐门生活，重生！这一世，定要守护心爱之人的笑容！（上）](http://www.acfun.cn/v/ac44879429)
 
++ [《疯狂动物园》](http://www.acfun.cn/v/ac44877588)
+
++ [油腻的世界在拉琴！星刃ost Dear. R 小提琴版](http://www.acfun.cn/v/ac44873918)
+

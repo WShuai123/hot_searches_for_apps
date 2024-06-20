@@ -123,3 +123,9 @@
 
 + [《勇者斗恶龙3HD》新亮点揭晓 开发商已经更换](https://www.3dmgame.com/news/202406/3897726.html)
 
++ [鸟类策略卡牌游戏《展翅翱翔》将登陆PS4和PS5](https://www.3dmgame.com/news/202406/3897738.html)
+
++ [《龙腾世纪：影障守护者》等级上限50级 技能树分三种](https://www.3dmgame.com/news/202406/3897737.html)
+
++ [宫崎英高还将进一步打磨提升魂类游戏战斗体验](https://www.3dmgame.com/news/202406/3897736.html)
+
