@@ -175,3 +175,17 @@
 
 + [《漫威vs卡普空合集》不登陆Xbox原因：无移植渠道](https://www.3dmgame.com/news/202406/3897749.html)
 
++ [宫崎英高讨论游戏成功后生活变化：总是被粉丝认出](https://www.3dmgame.com/news/202406/3897766.html)
+
++ [《Mekkablood》Steam页面上线 复古风巨大机甲战斗](https://www.3dmgame.com/news/202406/3897767.html)
+
++ [流浪地球游戏新作招募中 瀚海星穹公布“领航员计划”](https://www.3dmgame.com/news/202406/3897768.html)
+
++ [P社员工甘冒法律风险 驳斥《Life by You》不完善官方说法](https://www.3dmgame.com/news/202406/3897762.html)
+
++ [《怪形：重制版》新截图展示可怕怪物 今年年底前发售](https://www.3dmgame.com/news/202406/3897763.html)
+
++ [最容易被人工智能取代的职业 银行业首当其冲](https://www.3dmgame.com/news/202406/3897764.html)
+
++ [PS香港宣传《黑神话》：不是中美合拍 而是国人自研！](https://www.3dmgame.com/news/202406/3897765.html)
+

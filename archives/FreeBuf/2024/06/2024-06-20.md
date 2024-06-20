@@ -47,3 +47,7 @@
 
 + [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
 
++ [CDK Global 遭遇攻击导致系统中断，影响数千家美国汽车经销商](https://www.freebuf.com/news/403975.html)
+
++ [苹果公司遭黑客入侵，部分工具源代码被盗](https://www.freebuf.com/news/403976.html)
+
