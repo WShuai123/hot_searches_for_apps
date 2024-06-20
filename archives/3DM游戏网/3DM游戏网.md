@@ -193,3 +193,17 @@
 
 + [诺奖得主：AI并没有提高工作质量 只让富人更富有](https://www.3dmgame.com/news/202406/3897770.html)
 
++ [回合制战术策略游戏《改名师》登录Steam平台 预计10月推出](https://www.3dmgame.com/news/202406/3897776.html)
+
++ [《海盗共和国》登陆Steam 海盗王国建设经营](https://www.3dmgame.com/news/202406/3897777.html)
+
++ [我国AI企业数量超4000家 去年产业规模达5784亿元](https://www.3dmgame.com/news/202406/3897775.html)
+
++ [主播复健《艾尔登法环》 死一次喝一口酒 陪饮80口仍未打过拉达冈](https://www.3dmgame.com/news/202406/3897774.html)
+
++ [血源粉丝作《梦魇卡丁车》成Steam最受好评作品之一](https://www.3dmgame.com/news/202406/3897773.html)
+
++ [BD Games旗下多款Steam游戏被BAN 或因刷好评送游戏](https://www.3dmgame.com/news/202406/3897772.html)
+
++ [上海烛龙《白荆回廊》Steam页面公布 上线日期待定](https://www.3dmgame.com/news/202406/3897771.html)
+

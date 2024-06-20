@@ -55,3 +55,5 @@
 
 + [全球正运用的Microsoft SQL Server有近五分之一为过时版本](https://www.freebuf.com/news/403991.html)
 
++ [r2frida：基于Frida的远程进程安全检测和通信工具](https://www.freebuf.com/sectool/403577.html)
+
