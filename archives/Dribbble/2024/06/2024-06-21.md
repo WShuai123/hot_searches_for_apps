@@ -49,3 +49,27 @@
 
 + [Regal Eagle](https://dribbble.com/shots/)
 
++ [Murals for Pack Animals, San Francisco](https://dribbble.com/shots/)
+
++ [Accelerate ESG](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
++ [Pattern for Swedish Columbia](https://dribbble.com/shots/)
+
++ [Be brave](https://dribbble.com/shots/)
+
++ [Hurdles](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Characters + pattern I Client: Fiverr](https://dribbble.com/shots/)
+
++ [Alien Romulus](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [San Juan Island Half Marathon Race Swag](https://dribbble.com/shots/)
+
++ [I know what you did last shandy](https://dribbble.com/shots/)
+

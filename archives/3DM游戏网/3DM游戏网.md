@@ -101,3 +101,5 @@
 
 + [《真·女神转生5：复仇》三日内销量超过50万份](https://www.3dmgame.com/news/202406/3897756.html)
 
++ [赛博朋克风《尼瓦利斯》延期至2025年 505 Games发行](https://www.3dmgame.com/news/202406/3897810.html)
+
