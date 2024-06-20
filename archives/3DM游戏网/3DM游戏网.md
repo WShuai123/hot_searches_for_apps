@@ -139,3 +139,39 @@
 
 + [《孤岛惊魂7》或能在第一人称与第三人称视角之间切换](https://www.3dmgame.com/news/202406/3897739.html)
 
++ [Meta虚拟现实部门硬件和元宇宙拆分 部分员工被裁](https://www.3dmgame.com/news/202406/3897755.html)
+
++ [《真·女神转生5：复仇》三日内销量超过50万份](https://www.3dmgame.com/news/202406/3897756.html)
+
++ [手绘风动作生存类探索RPG《圣物深渊》Steam页面 发行日期待定](https://www.3dmgame.com/news/202406/3897758.html)
+
++ [马特·达蒙和本·阿弗莱克第十次合作 秋季开拍惊悚片《RIP》](https://www.3dmgame.com/news/202406/3897757.html)
+
++ [宫崎英高承认《艾尔登法环》毒沼泽过头 DLC更多死法等着你](https://www.3dmgame.com/news/202406/3897759.html)
+
++ [恐怖惊悚片《不能说的邪恶》确认引进中国内地院线 档期待定](https://www.3dmgame.com/news/202406/3897760.html)
+
++ [回合制策略肉鸽游戏《沙行者》现已在Steam平台抢先体验推出 获多半好评](https://www.3dmgame.com/news/202406/3897761.html)
+
++ [开放世界生存冒险游戏《核心诞生》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3897750.html)
+
++ [岩明均原作《七夕之国》奇幻日剧新预告 7月4日迪士尼+发布](https://www.3dmgame.com/news/202406/3897751.html)
+
++ [苹果被欧盟指控未遵守新法规 或被按天罚款每日10亿美元](https://www.3dmgame.com/news/202406/3897752.html)
+
++ [《蓝精灵：梦》实机预告 10月24日正式发售](https://www.3dmgame.com/news/202406/3897753.html)
+
++ [《塞尔达传说：智慧的再现》新截图 公主拯救林克](https://www.3dmgame.com/news/202406/3897754.html)
+
++ [《刺客信条：影》发起玩家配音比赛 被批让粉丝打白工](https://www.3dmgame.com/news/202406/3897744.html)
+
++ [领导我要请假 万代分享《艾尔登法环》DLC请假条模板](https://www.3dmgame.com/news/202406/3897745.html)
+
++ [合作潜水恐怖游戏《暗黑潜水员》现已在Steam平台抢先体验推出 获特别好评](https://www.3dmgame.com/news/202406/3897747.html)
+
++ [《Bureau of Contacts》Steam抢测 合作恐怖探索](https://www.3dmgame.com/news/202406/3897746.html)
+
++ [柳叶刀工作室称《边境》即将停服 是发行商单方面决定](https://www.3dmgame.com/news/202406/3897748.html)
+
++ [《漫威vs卡普空合集》不登陆Xbox原因：无移植渠道](https://www.3dmgame.com/news/202406/3897749.html)
+

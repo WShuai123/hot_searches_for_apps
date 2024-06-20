@@ -37,3 +37,7 @@
 
 + [中文广告属于国内特供：欧洲杯首次引入虚拟实时广告技术](https://m.ithome.com/html/776378.htm)
 
++ [华为 Mate 60 系列手机获推鸿蒙 HarmonyOS 4.2.0.130，Pro+/RS 非凡大师机型新增智感扫码](https://m.ithome.com/html/776402.htm)
+
++ [预售 21.99 万元起，蔚来乐道 L60 车型被曝 9 月 10 日发布上市](https://m.ithome.com/html/776343.htm)
+

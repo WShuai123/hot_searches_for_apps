@@ -79,3 +79,9 @@
 
 + [油腻的世界在拉琴！星刃ost Dear. R 小提琴版](http://www.acfun.cn/v/ac44873918)
 
++ [加藤惠，还是你的笑容最可爱](http://www.acfun.cn/v/ac44880114)
+
++ [【红伊】粒子们【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44880057)
+
++ [【Alien Stage】『铁线莲』【翻唱/佐莉&椿焰】](http://www.acfun.cn/v/ac44879172)
+
