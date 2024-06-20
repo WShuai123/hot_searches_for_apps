@@ -193,3 +193,7 @@
 
 + [Google推出开源代码大模型CodeGemma：AI编程新纪元，代码自动完成和生成技术再升级](https://blog.csdn.net/huake6/article/details/139785217)
 
++ [【AI 大模型】提示工程 ① ( 通用人工智能 和 专用人工智能 | 掌握 提示工程 的优势 | 提示工程目的 | 提示词组成、迭代、调优及示例 | 思维链 | 启用思维链的指令 | 思维链原理 )](https://blog.csdn.net/han1202012/article/details/139794185)
+
++ [【Android】构建 Android Automotive OS：适合初学者的指南](https://blog.csdn.net/double222222/article/details/139573274)
+
