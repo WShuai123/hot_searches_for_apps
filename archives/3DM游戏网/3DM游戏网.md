@@ -129,3 +129,13 @@
 
 + [宫崎英高还将进一步打磨提升魂类游戏战斗体验](https://www.3dmgame.com/news/202406/3897736.html)
 
++ [爆火点击游戏《香蕉》开发商称 该作品并不是骗局](https://www.3dmgame.com/news/202406/3897742.html)
+
++ [休闲挖矿游戏《Super Mining Mechs》Steam页面 年内发售](https://www.3dmgame.com/news/202406/3897743.html)
+
++ [《塞尔达传说》新作引发玩家热议 真正标题主角终于担正](https://www.3dmgame.com/news/202406/3897740.html)
+
++ [DLC体量Mod《辐射4：新墨西哥》主创离开被搁置](https://www.3dmgame.com/news/202406/3897741.html)
+
++ [《孤岛惊魂7》或能在第一人称与第三人称视角之间切换](https://www.3dmgame.com/news/202406/3897739.html)
+

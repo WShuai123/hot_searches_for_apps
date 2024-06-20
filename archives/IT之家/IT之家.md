@@ -33,3 +33,7 @@
 
 + [一加 6100mAh“冰川电池”厚度曝光：5.51mm，薄过普通 5000mAh 电池](https://m.ithome.com/html/776276.htm)
 
++ [11.79 万元起，新一代哈弗 H6 车型正式上市：1.5T 与 2.0T 动力可选](https://m.ithome.com/html/776379.htm)
+
++ [中文广告属于国内特供：欧洲杯首次引入虚拟实时广告技术](https://m.ithome.com/html/776378.htm)
+

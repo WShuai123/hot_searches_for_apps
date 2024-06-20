@@ -45,3 +45,5 @@
 
 + [精华版 | 2024 Q1全球威胁报告一览](https://www.freebuf.com/articles/neopoints/403760.html)
 
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
