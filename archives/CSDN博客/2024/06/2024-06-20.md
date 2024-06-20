@@ -169,3 +169,13 @@
 
 + [什么是无限铸币攻击？它是如何运作的？](https://blog.csdn.net/BlockOne11/article/details/139813431)
 
++ [【一起学Rust】Rust学习方法及学习路线汇总（赠书：《Rust游戏开发实战》）](https://blog.csdn.net/weixin_47754149/article/details/139715995)
+
++ [全面升级，票据识别新纪元：合合信息TextIn多票识别2.0](https://blog.csdn.net/INTSIG/article/details/139823466)
+
++ [智能化升级 —— 巧妙运用AI工具，提升职场与学习中的个人竞争力](https://blog.csdn.net/qq_32682301/article/details/139825865)
+
++ [【Python机器学习实战】 | 基于K近邻算法和一般线性回归算法对电视剧播放数据进行回归预测](https://blog.csdn.net/m0_59951855/article/details/139743145)
+
++ [【linux网络(五)】传输层协议详解(下)](https://blog.csdn.net/m0_61982936/article/details/139721955)
+

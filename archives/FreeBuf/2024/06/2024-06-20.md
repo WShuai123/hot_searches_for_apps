@@ -53,3 +53,5 @@
 
 + [配置C2 profile规避流量检测](https://www.freebuf.com/defense/403525.html)
 
++ [全球正运用的Microsoft SQL Server有近五分之一为过时版本](https://www.freebuf.com/news/403991.html)
+
