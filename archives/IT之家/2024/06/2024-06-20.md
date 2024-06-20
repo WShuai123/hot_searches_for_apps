@@ -67,3 +67,9 @@
 
 + [完成国产化替代，基于龙芯处理器的储迹 NAS 落地某公安局](https://m.ithome.com/html/776477.htm)
 
++ [一加冰川电池发布：行业第一 6100mAh 配 100W 闪充，Ace 3 Pro 手机首发搭载](https://m.ithome.com/html/776513.htm)
+
++ [问界新 M7 Ultra 车型上市 18 天交付破万刷新纪录，华为 AITO 联合打造](https://m.ithome.com/html/776562.htm)
+
++ [更流畅、更安全，iOS / 安卓版开源密码管理器 Bitwarden 焕新登场](https://m.ithome.com/html/776405.htm)
+

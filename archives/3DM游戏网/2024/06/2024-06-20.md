@@ -261,3 +261,7 @@
 
 + [2024年5月中国大陆显卡出货量 微星重新进入前三](https://www.3dmgame.com/news/202406/3897804.html)
 
++ [Fami通新一周销量榜 《真女神转生5：复仇》登顶](https://www.3dmgame.com/news/202406/3897806.html)
+
++ [《飞向月球》Switch版将于7月16日推出](https://www.3dmgame.com/news/202406/3897805.html)
+
