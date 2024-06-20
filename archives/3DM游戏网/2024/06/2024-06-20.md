@@ -189,3 +189,7 @@
 
 + [PS香港宣传《黑神话》：不是中美合拍 而是国人自研！](https://www.3dmgame.com/news/202406/3897765.html)
 
++ [前《星际争霸2》开发者新作《Battle Aces》将于下周开启测试](https://www.3dmgame.com/news/202406/3897769.html)
+
++ [诺奖得主：AI并没有提高工作质量 只让富人更富有](https://www.3dmgame.com/news/202406/3897770.html)
+

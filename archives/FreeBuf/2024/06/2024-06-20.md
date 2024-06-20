@@ -51,3 +51,5 @@
 
 + [苹果公司遭黑客入侵，部分工具源代码被盗](https://www.freebuf.com/news/403976.html)
 
++ [配置C2 profile规避流量检测](https://www.freebuf.com/defense/403525.html)
+
