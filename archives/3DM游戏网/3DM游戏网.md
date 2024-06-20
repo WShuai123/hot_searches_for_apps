@@ -211,3 +211,9 @@
 
 + [FPS游戏《EVE Vanguard》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202406/3897778.html)
 
++ [KK官方对战平台新图《重返战法牧》今日上线，重磅福利拿到手软！](https://www.3dmgame.com/news/202406/3897782.html)
+
++ [KK官方对战平台策划面对面 经典老图大返场，新图福利拿不停！](https://www.3dmgame.com/news/202406/3897781.html)
+
++ [微软将向《红霞岛》“Bite Back版”玩家开放退款 传言实体版同样可退款](https://www.3dmgame.com/news/202406/3897780.html)
+

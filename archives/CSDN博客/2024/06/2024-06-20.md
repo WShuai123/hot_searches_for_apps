@@ -189,3 +189,7 @@
 
 + [【Spring Cloud】Gateway 服务网关限流](https://blog.csdn.net/Qingai521/article/details/139148571)
 
++ [【数学建模】解析几何与方程模型](https://blog.csdn.net/weixin_42914989/article/details/139786741)
+
++ [Google推出开源代码大模型CodeGemma：AI编程新纪元，代码自动完成和生成技术再升级](https://blog.csdn.net/huake6/article/details/139785217)
+

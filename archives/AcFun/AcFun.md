@@ -97,3 +97,7 @@
 
 + [明天给你打电话记得接一下喔(｡･ω･｡)](http://www.acfun.cn/v/ac44880792)
 
++ [街霸肯化身未来战士拯救宇宙！这款难度极高的FC游戏让我彻底疯狂【受难日12】](http://www.acfun.cn/v/ac44883225)
+
++ [赤脚女囚莉莉大战豹头典狱长【铁拳8】莉莉vs豹王【TEKKEN8】Lili vs King](http://www.acfun.cn/v/ac44877012)
+
