@@ -39,3 +39,15 @@
 
 + [serverless / serverless](https://github.com/serverless/serverless)
 
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [pytorch / pytorch](https://github.com/pytorch/pytorch)
+
++ [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [ckeditor / ckeditor5](https://github.com/ckeditor/ckeditor5)
+
