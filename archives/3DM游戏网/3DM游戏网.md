@@ -237,3 +237,21 @@
 
 + [《仙剑奇侠传》阿奴手办899元 少女长腿玉足真诱人](https://www.3dmgame.com/news/202406/3897790.html)
 
++ [微星将带来首款AI游戏显示器 定价1700美元](https://www.3dmgame.com/news/202406/3897802.html)
+
++ [《Fate/Samurai Remnant》第3部DLC「断章・白龙红鬼演义」开放下载！](https://www.3dmgame.com/news/202406/3897799.html)
+
++ [法国一女子起诉公司只发工资不让工作 长达20年致自己抑郁](https://www.3dmgame.com/news/202406/3897800.html)
+
++ [《魔农传记 FARMAGIA》最新游戏预告片公布！](https://www.3dmgame.com/news/202406/3897798.html)
+
++ [《丰登之日》：温馨农场建设与管理游戏即将迎来1.0版本及主机版发布](https://www.3dmgame.com/news/202406/3897794.html)
+
++ [免费多人沙盒游戏《宝藏世界》推出更新“潮起潮落”，带来全新克苏鲁风冒险](https://www.3dmgame.com/news/202406/3897797.html)
+
++ [晨海星澜：追逐在时间涟漪中绽放的微光](https://www.3dmgame.com/news/202406/3897796.html)
+
++ [像素风生活模拟《月光石岛》登陆NS平台，随时随地开启炼金术士生活！](https://www.3dmgame.com/news/202406/3897795.html)
+
++ [NVIDIA都成世界第一了：黄仁勋为何仍在担心](https://www.3dmgame.com/news/202406/3897793.html)
+

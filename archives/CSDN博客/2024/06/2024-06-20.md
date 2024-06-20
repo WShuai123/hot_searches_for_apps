@@ -199,3 +199,11 @@
 
 + [【MySQL】事务二](https://blog.csdn.net/fight_p/article/details/139415834)
 
++ [【机器学习】Transformer框架理论详解和代码实现](https://blog.csdn.net/MUKAMO/article/details/139832742)
+
++ [群晖NAS本地部署并运行一个基于大语言模型Llama2的个人本地聊天机器人](https://blog.csdn.net/qyj19920704/article/details/139838713)
+
++ [爬虫学习。。。。](https://blog.csdn.net/2303_77961060/article/details/139802960)
+
++ [从零开始精通Onvif之录像存储](https://blog.csdn.net/hope_wisdom/article/details/139818218)
+
