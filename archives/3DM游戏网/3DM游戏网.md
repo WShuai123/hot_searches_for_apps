@@ -203,3 +203,13 @@
 
 + [减少电子垃圾产生 希捷在官方eBay店铺出售重新认证机械硬盘](https://www.3dmgame.com/news/202406/3897854.html)
 
++ [不许使用！美国：正式对俄罗斯软件公司卡巴斯基封杀](https://www.3dmgame.com/news/202406/3897865.html)
+
++ [蒙古帝国刺客信条？育碧为项目“Project Hero”招聘蒙古语演员](https://www.3dmgame.com/news/202406/3897861.html)
+
++ [索尼奖励系统将于7月21日后停用 年底全面下线](https://www.3dmgame.com/news/202406/3897863.html)
+
++ [《无人深空》玩家发现趣味BUG 利用沙发弹射进太空中畅游](https://www.3dmgame.com/news/202406/3897862.html)
+
++ [战术生存游戏《Space Prison》7月19日发售 Demo已上线](https://www.3dmgame.com/news/202406/3897864.html)
+

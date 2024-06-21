@@ -189,3 +189,15 @@
 
 + [调教NewspaceGPT之GPT4o实战](https://blog.csdn.net/sixpp/article/details/139818057)
 
++ [HUSKY:一个优化大语言模型多步推理的新代理框架](https://blog.csdn.net/m0_46510245/article/details/139854605)
+
++ [Python代码整洁之道](https://blog.csdn.net/yuan2019035055/article/details/139808924)
+
++ [【PHP项目实战训练】——使用thinkphp框架对数据进行增删改查功能](https://blog.csdn.net/2301_77628600/article/details/139848361)
+
++ [Matlab数学建模实战应用：案例1 - 股票价格预测](https://blog.csdn.net/weidl001/article/details/139839970)
+
++ [Linux的命令写一篇文章](https://blog.csdn.net/2301_79527080/article/details/139848676)
+
++ [【BES2500x系列 -- RTX5操作系统】CMSIS-RTOS RTX -- 实时操作系统的核心，为嵌入式系统注入活力 --（一）](https://blog.csdn.net/csh1807266489/article/details/139068411)
+
