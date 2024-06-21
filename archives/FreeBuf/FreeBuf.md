@@ -53,3 +53,5 @@
 
 + [出于安全考虑，拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404079.html)
 
++ [相同Tomcat servlet引发的漏洞——用友时空KSOA & 金和JC6系统](https://www.freebuf.com/vuls/403687.html)
+

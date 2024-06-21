@@ -171,3 +171,21 @@
 
 + [RPG式动作游戏《Skateboard Knight》Steam页面 支持简中](https://www.3dmgame.com/news/202406/3897840.html)
 
++ [AMD重启多显卡支持！最多四块 192GB显存](https://www.3dmgame.com/news/202406/3897853.html)
+
++ [进入幽影之地，走向歧途！大型资料片《艾尔登法环 黄金树幽影》现已上市！](https://www.3dmgame.com/news/202406/3897850.html)
+
++ [《巴别塔圣歌》开发商Rundisc与Focus再建合作关系](https://www.3dmgame.com/news/202406/3897852.html)
+
++ [沙盒策略模拟游戏《工人与资源：苏维埃共和国》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202406/3897851.html)
+
++ [《古惑疯狂三部曲》销量现已超过2000万部](https://www.3dmgame.com/news/202406/3897849.html)
+
++ [《漫威金刚狼》琴格雷长相变丑 又是ZZZQ公司的手笔](https://www.3dmgame.com/news/202406/3897847.html)
+
++ [《饥荒：联机版》下周上线“保持不沉没”更新 添加新技能树](https://www.3dmgame.com/news/202406/3897848.html)
+
++ [养马模拟游戏《风暴：深厚友谊的开始 重置版》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3897846.html)
+
++ [文字叙事游戏《栖云代号：遗忘之境》Steam页面 支持简体中文](https://www.3dmgame.com/news/202406/3897845.html)
+

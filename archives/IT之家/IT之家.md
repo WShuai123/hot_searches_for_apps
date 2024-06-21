@@ -41,3 +41,7 @@
 
 + [小鹏 MONA M03 预热：风阻系数 Cd 0.194，号称量产纯电掀背轿车全球最低](https://m.ithome.com/html/776485.htm)
 
++ [微软建议用户升级至 Win11 24H2 版本以体验 Wi-Fi 7 网络，Win10 不支持 6GHz 频段](https://m.ithome.com/html/776627.htm)
+
++ [2024 阿里巴巴全球数学竞赛官宣明日决赛](https://m.ithome.com/html/776710.htm)
+
