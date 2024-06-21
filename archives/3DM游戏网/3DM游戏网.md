@@ -257,3 +257,7 @@
 
 + [摩尔线程显卡终于支持Win11系统！性能暴涨125%](https://www.3dmgame.com/news/202406/3897886.html)
 
++ [Xbox高管暗示Tango被关 可能和三上离开有关](https://www.3dmgame.com/news/202406/3897889.html)
+
++ [宫崎英高：降低我们游戏的难度会破坏游戏本身](https://www.3dmgame.com/news/202406/3897888.html)
+
