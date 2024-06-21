@@ -59,3 +59,5 @@
 
 + [SSLyze：一款快速高效的SSLTLS扫描工具](https://www.freebuf.com/sectool/403808.html)
 
++ [跨小程序请求伪造攻击与检测](https://www.freebuf.com/vuls/371978.html)
+

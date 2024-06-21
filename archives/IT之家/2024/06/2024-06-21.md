@@ -49,3 +49,7 @@
 
 + [余承东预告华为开发者大会 2024：将揭晓鸿蒙生态、HarmonyOS NEXT 鸿蒙星河版最新进展](https://m.ithome.com/html/776708.htm)
 
++ [余承东宣布华为 HarmonyOS NEXT 纯血鸿蒙开启开发者 Beta 测试，将于四季度正式投入商用](https://m.ithome.com/html/776768.htm)
+
++ [出于“国家安全”目的，美国宣布将禁止企业、民众使用卡巴斯基产品](https://m.ithome.com/html/776660.htm)
+

@@ -201,3 +201,7 @@
 
 + [【BES2500x系列 -- RTX5操作系统】CMSIS-RTOS RTX -- 实时操作系统的核心，为嵌入式系统注入活力 --（一）](https://blog.csdn.net/csh1807266489/article/details/139068411)
 
++ [2024广东省职业技能大赛云计算赛项实战——Ansible部署Zabbix](https://blog.csdn.net/kuuuugua/article/details/139782761)
+
++ [[贪心算法]忍者道具](https://blog.csdn.net/StudyingPanda/article/details/139836648)
+
