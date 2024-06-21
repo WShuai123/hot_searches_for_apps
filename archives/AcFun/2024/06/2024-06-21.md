@@ -113,3 +113,17 @@
 
 + [爱意随风起。【今日好笑视频 #553】](http://www.acfun.cn/v/ac44887470)
 
++ [【ACFUN声唱2024】第一轮第二期：道傍过者问Acer，黄金树下歌者谁！](http://www.acfun.cn/v/ac44888642)
+
++ [一日男友视角~「爱笑的雪一」](http://www.acfun.cn/v/ac44893276)
+
++ [紫萍妹妹～仙品腿！](http://www.acfun.cn/v/ac44889215)
+
++ [【GC电台】任天堂发布会，但任天堂没给钱](http://www.acfun.cn/v/ac44888797)
+
++ [想要守护的第114514个女孩【今天有什么好笑的 #1600】](http://www.acfun.cn/v/ac44892372)
+
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千八百零四期](http://www.acfun.cn/v/ac44889507)
+
++ [呆呆劫 秋哥](http://www.acfun.cn/v/ac44889276)
+

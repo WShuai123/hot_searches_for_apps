@@ -251,3 +251,9 @@
 
 + [复旦教授严锋预购了《黑神话》：我也是游戏玩家](https://www.3dmgame.com/news/202406/3897879.html)
 
++ [微软：Copilot+ PC在游戏方面会越来越好](https://www.3dmgame.com/news/202406/3897887.html)
+
++ [华为：鸿蒙内核已超越Linux内核 不再被欧美垄断](https://www.3dmgame.com/news/202406/3897885.html)
+
++ [摩尔线程显卡终于支持Win11系统！性能暴涨125%](https://www.3dmgame.com/news/202406/3897886.html)
+

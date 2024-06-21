@@ -31,3 +31,23 @@
 
 + [ckeditor / ckeditor5](https://github.com/ckeditor/ckeditor5)
 
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
+
++ [StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS)
+
++ [4ian / GDevelop](https://github.com/4ian/GDevelop)
+
++ [argilla-io / argilla](https://github.com/argilla-io/argilla)
+
++ [MrKai77 / Loop](https://github.com/MrKai77/Loop)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [meilisearch / meilisearch](https://github.com/meilisearch/meilisearch)
+
++ [gitleaks / gitleaks](https://github.com/gitleaks/gitleaks)
+
++ [google / flatbuffers](https://github.com/google/flatbuffers)
+

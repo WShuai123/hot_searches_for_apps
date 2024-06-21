@@ -61,3 +61,5 @@
 
 + [跨小程序请求伪造攻击与检测](https://www.freebuf.com/vuls/371978.html)
 
++ [如何评估MSS服务可靠性；高危漏洞需要全部处置吗 | FB甲方群话题讨论](https://www.freebuf.com/articles/404157.html)
+
