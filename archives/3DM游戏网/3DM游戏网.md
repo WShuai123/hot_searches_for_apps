@@ -159,3 +159,15 @@
 
 + [《艾尔登法环：黄金树幽影》难度之大 将再次挑战玩家极限](https://www.3dmgame.com/news/202406/3897826.html)
 
++ [村田雄介作画的《一拳超人》漫画宣布停刊两个月](https://www.3dmgame.com/news/202406/3897842.html)
+
++ [万代南梦宫：《黄金树幽影》是我们野心最大的资料片](https://www.3dmgame.com/news/202406/3897839.html)
+
++ [Embracer希望通过新的AI政策 大幅提升游戏开发水平](https://www.3dmgame.com/news/202406/3897844.html)
+
++ [《Apex英雄》发布双重击收集活动预告 将推出四排模式](https://www.3dmgame.com/news/202406/3897843.html)
+
++ [原创武侠游戏《天命奇御二》PS5版即将正式发售！](https://www.3dmgame.com/news/202406/3897841.html)
+
++ [RPG式动作游戏《Skateboard Knight》Steam页面 支持简中](https://www.3dmgame.com/news/202406/3897840.html)
+

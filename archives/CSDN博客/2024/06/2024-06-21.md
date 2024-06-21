@@ -151,3 +151,13 @@
 
 + [Springboot基于ElasticSearch全文搜索引擎策略实现](https://blog.csdn.net/LQzhang_11/article/details/139827479)
 
++ [【机器学习】机器学习重要方法—— 半监督学习：理论、算法与实践](https://blog.csdn.net/Easonmax/article/details/139469536)
+
++ [Oracle最终还是杀死了MySQL](https://blog.csdn.net/Gabriel100yi/article/details/139847670)
+
++ [本地部署Whisper Web结合内网穿透实现远程访问本地语音转文本模型](https://blog.csdn.net/g310773517/article/details/139850357)
+
++ [DNS部署与安全](https://blog.csdn.net/2302_80097039/article/details/139753155)
+
++ [SwiftUI 6.0（iOS/iPadOS 18）中全新的 Tab 以及 Sidebar+悬浮 TabView 样式](https://blog.csdn.net/mydo/article/details/139820345)
+

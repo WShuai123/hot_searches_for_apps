@@ -47,3 +47,9 @@
 
 + [渗透测试 | 记一次Cobalt Strike的上线学习](https://www.freebuf.com/articles/network/403618.html)
 
++ [Phoenix UEFI 固件曝出严重漏洞，数百款英特尔 PC受影响](https://www.freebuf.com/news/404073.html)
+
++ [CrowdStrike市值将破千亿美元，美国网络安全巨头正成为市场支柱](https://www.freebuf.com/news/404098.html)
+
++ [出于安全考虑，拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404079.html)
+
