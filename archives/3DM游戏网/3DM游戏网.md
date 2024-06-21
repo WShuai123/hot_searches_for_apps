@@ -133,3 +133,29 @@
 
 + [FromSoftware提醒玩家 《艾尔登法环》1.12更新会导致Steam Deck无响应](https://www.3dmgame.com/news/202406/3897823.html)
 
++ [生存游戏《绿色地狱》总销量破600万份 你在玩吗？](https://www.3dmgame.com/news/202406/3897834.html)
+
++ [虚幻5打猎新作《终极狩猎》公布 推荐RTX 3070显卡](https://www.3dmgame.com/news/202406/3897838.html)
+
++ [《超越善恶》20周年纪念版将新增奖励内容 与《超越善恶2》有关](https://www.3dmgame.com/news/202406/3897837.html)
+
++ [玩家别担心 《艾尔登法环：黄金树幽影》不会淘汰旧武器](https://www.3dmgame.com/news/202406/3897836.html)
+
++ [《PVKK: 行星防御炮指挥官》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3897835.html)
+
++ [游戏集团Embracer终于向贷款方偿还了3亿美元](https://www.3dmgame.com/news/202406/3897833.html)
+
++ [回合制卡牌战术游戏《出牌吧！魂之勇者》现已在Steam平台推出抢先体验版](https://www.3dmgame.com/news/202406/3897832.html)
+
++ [《梅根》将推情色惊悚衍生片 2026年上映](https://www.3dmgame.com/news/202406/3897831.html)
+
++ [宫崎英高希望制作一款传统JRPG游戏 不会重启FS社老IP](https://www.3dmgame.com/news/202406/3897830.html)
+
++ [经典作品重制《超级杰克龙三部曲》今秋开放预购](https://www.3dmgame.com/news/202406/3897827.html)
+
++ [恐怖推理解谜游戏《放逐大师》已在Steam平台提供测试申请 计划2025年推出](https://www.3dmgame.com/news/202406/3897829.html)
+
++ [《牧场物语＆符文工厂》开发团队新作《离亚世界》Steam页面 8月22日发售](https://www.3dmgame.com/news/202406/3897828.html)
+
++ [《艾尔登法环：黄金树幽影》难度之大 将再次挑战玩家极限](https://www.3dmgame.com/news/202406/3897826.html)
+
