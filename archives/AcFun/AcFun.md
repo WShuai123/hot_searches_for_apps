@@ -61,3 +61,9 @@
 
 + [流萤加入自用收藏夹](http://www.acfun.cn/v/ac44893425)
 
++ [爷青回！最游记《FOR REAL》【小五沉沉沉之经典动画游戏歌曲翻唱99号弹】](http://www.acfun.cn/v/ac44887948)
+
++ [70元！肯德基疯狂星期四，越来越敷衍了？](http://www.acfun.cn/v/ac44889059)
+
++ [清冷风还是神仙风啊](http://www.acfun.cn/v/ac44893150)
+

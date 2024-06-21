@@ -101,3 +101,7 @@
 
 + [RPG式动作游戏《Skateboard Knight》Steam页面 支持简中](https://www.3dmgame.com/news/202406/3897840.html)
 
++ [CDRP发布贺图：《黄金树幽影》成M站最佳DLC](https://www.3dmgame.com/news/202406/3897895.html)
+
++ [GOG喜加一：《暗影：觉醒》限时领取](https://www.3dmgame.com/news/202406/3897894.html)
+
