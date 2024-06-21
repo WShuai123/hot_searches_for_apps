@@ -55,3 +55,5 @@
 
 + [相同Tomcat servlet引发的漏洞——用友时空KSOA & 金和JC6系统](https://www.freebuf.com/vuls/403687.html)
 
++ [报告：45% 的密码在一分钟内被破解](https://www.freebuf.com/news/404091.html)
+

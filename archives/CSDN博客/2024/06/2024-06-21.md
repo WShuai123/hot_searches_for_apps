@@ -163,3 +163,19 @@
 
 + [OpenCV 车道检测](https://blog.csdn.net/LOVEmy134611/article/details/139819124)
 
++ [【机器学习】深度学习赋能：基于 LSTM 的智能日志异常检测](https://blog.csdn.net/benshu_001/article/details/139727984)
+
++ [如何使用ChatGPT辅助设计工作](https://blog.csdn.net/xianyu120/article/details/139841400)
+
++ [【计算机网络】第四章.网络层 网络层重点知识总结(2)](https://blog.csdn.net/kiku20231213/article/details/139835670)
+
++ [通过Socket通信实现局域网下Amov无人机连接与数据传输](https://blog.csdn.net/weixin_70874886/article/details/139728666)
+
++ [改进YOLOv7 | 在 ELAN 模块中添加【Triplet】【SpatialGroupEnhance】【NAM】【S2】注意力机制 | 附详细结构图](https://blog.csdn.net/weixin_39818775/article/details/139843214)
+
++ [Lucene重要特性及应用案例](https://blog.csdn.net/qqrrjj2011/article/details/139824039)
+
++ [计算机网络-第2章物理层](https://blog.csdn.net/2302_78218660/article/details/139794756)
+
++ [2024-06-19 高等数学（统计学和概率论-高等工科数学）](https://blog.csdn.net/2303_77434440/article/details/139814212)
+
