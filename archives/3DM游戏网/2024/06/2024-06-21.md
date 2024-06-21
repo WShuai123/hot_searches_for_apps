@@ -119,3 +119,11 @@
 
 + [经典PS游戏《恐惧反应》回归现代游戏平台](https://www.3dmgame.com/news/202406/3897811.html)
 
++ [《战争机器：事变日》公布后 系列老游戏在线回暖](https://www.3dmgame.com/news/202406/3897822.html)
+
++ [《艾尔登法环：黄金树幽影》Steam好评如潮 有史以来最强DLC](https://www.3dmgame.com/news/202406/3897821.html)
+
++ [Xbox制定计划 避免多个大作和《GTA6》撞车](https://www.3dmgame.com/news/202406/3897820.html)
+
++ [经典PS动作游戏《我是东巴2》将登陆现代平台](https://www.3dmgame.com/news/202406/3897819.html)
+

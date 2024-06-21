@@ -123,3 +123,13 @@
 
 + [微信小程序学习（七）：自定义组件和通信](https://blog.csdn.net/john1516/article/details/139814106)
 
++ [【机器学习】智能创意工厂：机器学习驱动的AIGC，打造未来内容新生态](https://blog.csdn.net/2301_77509762/article/details/139760553)
+
++ [房地产市场的三个背离 & 欧美市场混动占优，丰田押注小发动机](https://blog.csdn.net/Gabriel100yi/article/details/139844037)
+
++ [利用Python爬取天气数据并实现数据可视化，一个完整的Python项目案例讲解](https://blog.csdn.net/2301_78150559/article/details/139800658)
+
++ [5分钟了解单元测试](https://blog.csdn.net/huace3740/article/details/139814113)
+
++ [HarmonyOS模拟器(phone-x86-api9)一直卡顿的解决方法](https://blog.csdn.net/userhu2012/article/details/139832979)
+
