@@ -261,3 +261,7 @@
 
 + [宫崎英高：降低我们游戏的难度会破坏游戏本身](https://www.3dmgame.com/news/202406/3897888.html)
 
++ [余承东：鸿蒙生态设备超9亿台 纯血鸿蒙性能提升30%](https://www.3dmgame.com/news/202406/3897891.html)
+
++ [《头脑特工队2》上映两周 全球票房有望超6亿美元](https://www.3dmgame.com/news/202406/3897890.html)
+
