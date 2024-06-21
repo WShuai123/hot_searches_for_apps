@@ -109,3 +109,5 @@
 
 + [Sol](https://www.producthunt.com/posts/sol-3)
 
++ [TrustLoop](https://www.producthunt.com/posts/trustloop-2)
+

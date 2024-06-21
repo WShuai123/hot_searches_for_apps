@@ -107,3 +107,23 @@
 
 + [手机天线都去哪里了？](https://blog.csdn.net/WaxberryLee/article/details/139833707)
 
++ [【机器学习】机器学习重要方法—— 半监督学习：理论、算法与实践](https://blog.csdn.net/Easonmax/article/details/139469536)
+
++ [GaussDB技术解读——GaussDB架构介绍（五）](https://blog.csdn.net/GaussDB/article/details/139765512)
+
++ [【计算机网络】第四章.网络层 网络层重点知识总结(2)](https://blog.csdn.net/kiku20231213/article/details/139835670)
+
++ [[ElasticSearch]分析京东商城商品搜索实现|聚合|全文查找|搜索引擎|ES Java High Level Rest Client|ES Java API Client](https://blog.csdn.net/qq_28727015/article/details/139872125)
+
++ [【PL理论 · 深化】(1) MI 归纳法：集合的归纳性定义 | 推理规则：前提 / 结论 | 证明规则和证明树 | CFG 上下文无关文法：G = (V, Σ, R, S) | 归纳定义的例子](https://blog.csdn.net/weixin_50502862/article/details/139724879)
+
++ [docker 配置与使用](https://blog.csdn.net/hxyzs/article/details/139806679)
+
++ [k8s知识点](https://blog.csdn.net/m0_65621281/article/details/139825608)
+
++ [【尚庭公寓SpringBoot + Vue 项目实战】移动端登录管理（二十）](https://blog.csdn.net/weixin_53961667/article/details/139842260)
+
++ [数据链路层知识分享【计算机网络】【以太网帧 | MTU的影响 | ARP技术】](https://blog.csdn.net/qq_72112924/article/details/139763908)
+
++ [【linux网络(五)】传输层协议详解(下)](https://blog.csdn.net/m0_61982936/article/details/139721955)
+
