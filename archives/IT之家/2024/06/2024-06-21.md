@@ -33,3 +33,11 @@
 
 + [中国国航宣布斥资约 108 亿美元购置 100 架 C919 增程型国产大飞机](https://m.ithome.com/html/776569.htm)
 
++ [华为 BRE-AL00a 新机证件照公布：双曲面 OLED 屏，预计为畅享 70X](https://m.ithome.com/html/776590.htm)
+
++ [何小鹏亲赴美国体验特斯拉 FSD 智驾功能，马斯克回应：中国车企最具竞争力](https://m.ithome.com/html/776622.htm)
+
++ [中国香港海关查获 596 颗 CPU 走私，总价值约 1200 万港元](https://m.ithome.com/html/776557.htm)
+
++ [小鹏 MONA M03 预热：风阻系数 Cd 0.194，号称量产纯电掀背轿车全球最低](https://m.ithome.com/html/776485.htm)
+

@@ -45,3 +45,5 @@
 
 + [RedTail 僵尸网络积极利用新漏洞发起攻击](https://www.freebuf.com/articles/network/402454.html)
 
++ [渗透测试 | 记一次Cobalt Strike的上线学习](https://www.freebuf.com/articles/network/403618.html)
+

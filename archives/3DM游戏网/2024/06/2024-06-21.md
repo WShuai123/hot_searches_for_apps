@@ -127,3 +127,9 @@
 
 + [经典PS动作游戏《我是东巴2》将登陆现代平台](https://www.3dmgame.com/news/202406/3897819.html)
 
++ [《缺氧》新DLC“寒霜行星包”公布 Steam页面上线](https://www.3dmgame.com/news/202406/3897824.html)
+
++ [《超越善恶HD》和20周年版画面对比视频](https://www.3dmgame.com/news/202406/3897825.html)
+
++ [FromSoftware提醒玩家 《艾尔登法环》1.12更新会导致Steam Deck无响应](https://www.3dmgame.com/news/202406/3897823.html)
+

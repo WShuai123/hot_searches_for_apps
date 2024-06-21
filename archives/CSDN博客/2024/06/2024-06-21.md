@@ -133,3 +133,9 @@
 
 + [HarmonyOS模拟器(phone-x86-api9)一直卡顿的解决方法](https://blog.csdn.net/userhu2012/article/details/139832979)
 
++ [Linux--视频推流及问题](https://blog.csdn.net/qq_47258284/article/details/139766573)
+
++ [【PL理论】(34) 类型系统：不完备性 | 为什么推导树推导失败？ | 实现类型系统 | 调整到类型系统 | 思考：强制程序员写类型还是自动推断类型？](https://blog.csdn.net/weixin_50502862/article/details/139729809)
+
++ [硬盘格式化NTFS好还是exFAT好 U盘存储文件用哪个格式好? 硬盘用exfat还是ntfs mac不能读取移动硬盘怎么解决](https://blog.csdn.net/2301_81704405/article/details/139790833)
+
