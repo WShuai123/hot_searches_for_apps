@@ -21,3 +21,5 @@
 
 + [蛋仔派对](https://www.taptap.cn/app/206776)
 
++ [和平精英](https://www.taptap.cn/app/70056)
+
