@@ -101,3 +101,9 @@
 
 + [高效学习方法笔记](https://blog.csdn.net/crazy123456789/article/details/139857849)
 
++ [【码银送书第二十一期】《大数据智能风控：模型、平台与业务实践》](https://blog.csdn.net/weixin_53197693/article/details/139857860)
+
++ [计算生物学习——Code_ESM-2输出蛋白质的特征表示_解决无法用代码线上加载模型（06.20-06.21）](https://blog.csdn.net/weixin_43213559/article/details/139810734)
+
++ [手机天线都去哪里了？](https://blog.csdn.net/WaxberryLee/article/details/139833707)
+

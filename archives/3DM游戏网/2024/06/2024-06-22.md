@@ -105,3 +105,11 @@
 
 + [GOG喜加一：《暗影：觉醒》限时领取](https://www.3dmgame.com/news/202406/3897894.html)
 
++ [Nvidia CEO黄仁勋暗示DLSS 4的可能性](https://www.3dmgame.com/news/202406/3897899.html)
+
++ [虚幻5剧情FPS《INDUSTRIA2》新实机展示](https://www.3dmgame.com/news/202406/3897898.html)
+
++ [黑曜石表示《宣誓》将与《天外世界》一样长](https://www.3dmgame.com/news/202406/3897897.html)
+
++ [尽管担任社长 宫崎英高95%时间还是在做游戏](https://www.3dmgame.com/news/202406/3897896.html)
+
