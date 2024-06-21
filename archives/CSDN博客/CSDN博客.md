@@ -205,3 +205,15 @@
 
 + [[贪心算法]忍者道具](https://blog.csdn.net/StudyingPanda/article/details/139836648)
 
++ [【数学建模】—【新手小白到国奖选手】—【学习路线】](https://blog.csdn.net/2303_77720864/article/details/139838988)
+
++ [Elasticsearch中的Term_Filter过滤器技术](https://blog.csdn.net/a1657054242/article/details/139859375)
+
++ [鸿蒙ArkTS声明式组件：【Button】](https://blog.csdn.net/2401_82772199/article/details/139812293)
+
++ [揭示数据库内核的奥秘--手写数据库toadb开源项目](https://blog.csdn.net/senllang/article/details/139848199)
+
++ [Linux:用户账号和权限管理的命令](https://blog.csdn.net/pangdongqiqi/article/details/139830485)
+
++ [从WebM到MP3：利用Python和wxPython提取音乐的魔法](https://blog.csdn.net/winniezhang/article/details/139857477)
+

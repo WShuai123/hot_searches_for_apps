@@ -53,3 +53,9 @@
 
 + [出于“国家安全”目的，美国宣布将禁止企业、民众使用卡巴斯基产品](https://m.ithome.com/html/776660.htm)
 
++ [华为：鸿蒙内核已超越 Linux 内核，操作系统软件不再被欧美垄断](https://m.ithome.com/html/776791.htm)
+
++ [余承东：华为 Mate 70 系列手机第四季度发布，首发搭载鸿蒙 HarmonyOS NEXT 正式版](https://m.ithome.com/html/776789.htm)
+
++ [微信鸿蒙版即将发布？消息称腾讯多款产品正适配华为 HarmonyOS 系统](https://m.ithome.com/html/776790.htm)
+
