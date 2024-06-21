@@ -179,3 +179,13 @@
 
 + [2024-06-19 高等数学（统计学和概率论-高等工科数学）](https://blog.csdn.net/2303_77434440/article/details/139814212)
 
++ [MacOS设备远程登录配置结合内网穿透实现异地ssh远程连接](https://blog.csdn.net/qq_73017178/article/details/139850742)
+
++ [【数学建模】——【新手小白到国奖选手】——【学习路线】](https://blog.csdn.net/2303_77720864/article/details/139838988)
+
++ [OpenAI 灵魂人物 Ilya 官宣创业，All in 安全超级智能](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139848906)
+
++ [浙江保融科技2025实习生校招校招笔试分享](https://blog.csdn.net/m0_69519887/article/details/139762856)
+
++ [调教NewspaceGPT之GPT4o实战](https://blog.csdn.net/sixpp/article/details/139818057)
+

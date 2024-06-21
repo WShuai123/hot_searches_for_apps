@@ -57,3 +57,5 @@
 
 + [报告：45% 的密码在一分钟内被破解](https://www.freebuf.com/news/404091.html)
 
++ [SSLyze：一款快速高效的SSLTLS扫描工具](https://www.freebuf.com/sectool/403808.html)
+

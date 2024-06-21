@@ -47,3 +47,5 @@
 
 + [起早贪黑净收入 6-8K，北京司机“跑网约车 16 小时净收入 300 元”登微博热搜](https://m.ithome.com/html/776676.htm)
 
++ [余承东预告华为开发者大会 2024：将揭晓鸿蒙生态、HarmonyOS NEXT 鸿蒙星河版最新进展](https://m.ithome.com/html/776708.htm)
+

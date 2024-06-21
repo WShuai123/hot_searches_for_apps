@@ -189,3 +189,17 @@
 
 + [文字叙事游戏《栖云代号：遗忘之境》Steam页面 支持简体中文](https://www.3dmgame.com/news/202406/3897845.html)
 
++ [《向邪恶进军》开发商Cut to Bit解雇了大部分员工](https://www.3dmgame.com/news/202406/3897857.html)
+
++ [卡普空股东大会透露 94年版《街头霸王》电影每年仍有千万日元收入](https://www.3dmgame.com/news/202406/3897860.html)
+
++ [《桑塔 Advance：危险的旋转》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202406/3897859.html)
+
++ [《X4：基石》DLC“时间线”发售 7.00版本更新同步上线](https://www.3dmgame.com/news/202406/3897858.html)
+
++ [孙正义：新一轮投资将致力于打造“超级人工智能”](https://www.3dmgame.com/news/202406/3897856.html)
+
++ [同名漫画改编动画《妻子变成小学生。》宣传PV放出 10月开播](https://www.3dmgame.com/news/202406/3897855.html)
+
++ [减少电子垃圾产生 希捷在官方eBay店铺出售重新认证机械硬盘](https://www.3dmgame.com/news/202406/3897854.html)
+
