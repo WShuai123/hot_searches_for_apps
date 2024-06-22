@@ -171,3 +171,21 @@
 
 + [《超级肌肉猫》将登陆主机平台 发售日待定](https://www.3dmgame.com/news/202406/3897923.html)
 
++ [暴雪：《暗黑破坏神4》第五赛季新波次生存模式“炼狱大军”很适合刷金刷材料](https://www.3dmgame.com/news/202406/3897937.html)
+
++ [传闻：NetherRealm正考虑开发《不义联盟》或《真人快打》衍生游戏](https://www.3dmgame.com/news/202406/3897935.html)
+
++ [《古惑狼三部曲》再破销量里程碑 制作团队发文庆祝](https://www.3dmgame.com/news/202406/3897936.html)
+
++ [《GTA：圣安地列斯》制作过程有现实帮派成员参与](https://www.3dmgame.com/news/202406/3897934.html)
+
++ [《美国卡车模拟》宣布艾奥瓦州将成为DLC制作目标](https://www.3dmgame.com/news/202406/3897933.html)
+
++ [《怪形：重制版》将会使用现代技术弥补当年缺憾](https://www.3dmgame.com/news/202406/3897932.html)
+
++ [2024年ChinaJoy官宣：国内外重磅游戏集体亮相](https://www.3dmgame.com/news/202406/3897931.html)
+
++ [外媒：《刺客信条：影》双主角意义不明 男主像附属](https://www.3dmgame.com/news/202406/3897930.html)
+
++ [生成式AI“上车” 帕萨特等海外版车型支持ChatGPT](https://www.3dmgame.com/news/202406/3897929.html)
+

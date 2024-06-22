@@ -161,3 +161,11 @@
 
 + [VPN的概述](https://blog.csdn.net/m0_61858762/article/details/139856509)
 
++ [Kafka第一篇——内部组件概念架构启动服务器zookeeper选举以及底层原理](https://blog.csdn.net/m0_74106420/article/details/137249443)
+
++ [视觉理解与图片问答，学习如何使用 GPT-4o (GPT-4 Omni) 来理解图像](https://blog.csdn.net/fyfugoyfa/article/details/138427025)
+
++ [数学建模系列（3/4）：典型建模方法](https://blog.csdn.net/weidl001/article/details/139851374)
+
++ [HTML静态网页成品作业(HTML+CSS+JS)——动漫斗罗大陆介绍网页(3个页面)](https://blog.csdn.net/weixin_42283461/article/details/139879050)
+
