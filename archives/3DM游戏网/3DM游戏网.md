@@ -151,3 +151,5 @@
 
 + [宫崎英高：FS社不会妄自菲薄 保守预期并给失败留空间](https://www.3dmgame.com/news/202406/3897918.html)
 
++ [iOS 18 Beta 2下周发布 将推iPhone镜像、屏幕共享功能](https://www.3dmgame.com/news/202406/3897919.html)
+

@@ -149,3 +149,5 @@
 
 + [IDEA集成Docker实现快捷部署](https://blog.csdn.net/weixin_45490198/article/details/139864092)
 
++ [拒绝零散碎片， 一文理清MySQL的各种锁](https://blog.csdn.net/u011709538/article/details/139680308)
+
