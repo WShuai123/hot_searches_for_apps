@@ -101,3 +101,11 @@
 
 + [虚幻5剧情FPS《INDUSTRIA2》新实机展示](https://www.3dmgame.com/news/202406/3897898.html)
 
++ [任天堂不会透露《马里奥与路易吉》新开发者](https://www.3dmgame.com/news/202406/3897952.html)
+
++ [泉达也离开“日本一”软件 成为自由职业者](https://www.3dmgame.com/news/202406/3897950.html)
+
++ [《吸血鬼：避世血族》RTX Remix Mod新截图](https://www.3dmgame.com/news/202406/3897951.html)
+
++ [前《光环》开发人员开发免费UE5《光环》游戏](https://www.3dmgame.com/news/202406/3897949.html)
+

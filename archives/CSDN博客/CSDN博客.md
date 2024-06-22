@@ -109,3 +109,31 @@
 
 + [kafka进阶核心原理详解：案例解析(第11天)](https://blog.csdn.net/syhiiu/article/details/139868979)
 
++ [【机器学习】在【R语言】中的应用：结合【PostgreSQL数据库】的【金融行业信用评分模型】构建](https://blog.csdn.net/2303_77720864/article/details/139727977)
+
++ [elasticsearch PipelineI详解：原理与使用](https://blog.csdn.net/qq_26664043/article/details/139885547)
+
++ [动手学自然语言处理：解读大模型背后的核心技术](https://blog.csdn.net/weixin_51390582/article/details/139832933)
+
++ [深入解析 Flink CDC：实时数据捕获与处理的强大工具](https://blog.csdn.net/qq_38411796/article/details/139826143)
+
++ [网络安全-如何设计一个安全的API（安全角度）](https://blog.csdn.net/lady_killer9/article/details/139220388)
+
++ [【PL理论深化】(2) 语法分析 (Syntax) | 编程语言的语法结构：文法 | 语义结构 (Sematics)](https://blog.csdn.net/weixin_50502862/article/details/139868711)
+
++ [SwiftUI 6.0（iOS 18）ScrollView 全新的滚动位置（ScrollPosition）揭秘](https://blog.csdn.net/mydo/article/details/139859096)
+
++ [机械原理课程设计，机械原理大作业，matlab解析法，机构运动学动力学分析](https://blog.csdn.net/m0_74307014/article/details/139869768)
+
++ [聊聊JSON](https://blog.csdn.net/a3098448071/article/details/139871054)
+
++ [前端新手小白的Vue3入坑指南](https://blog.csdn.net/xingyu_qie/article/details/139861211)
+
++ [Open WebUI – 本地化部署大模型仿照 ChatGPT用户界面](https://blog.csdn.net/weixin_42458975/article/details/139845902)
+
++ [域名反查IP多种方式](https://blog.csdn.net/lupai/article/details/139865439)
+
++ [python项目（课设）——飞机大战小游戏项目源码（pygame）](https://blog.csdn.net/2301_80269840/article/details/139862605)
+
++ [【2024.6.22】今日科技时事：科技前沿大事件](https://blog.csdn.net/double222222/article/details/139876088)
+
