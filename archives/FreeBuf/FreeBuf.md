@@ -49,3 +49,5 @@
 
 + [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
 
++ [CVE-2024-4577 PHP CGI 远程代码执行漏洞分析](https://www.freebuf.com/vuls/403688.html)
+

@@ -145,3 +145,7 @@
 
 + [ES全文检索支持繁简和IK分词检索](https://blog.csdn.net/qq_29864051/article/details/139861589)
 
++ [逻辑回归（Logistic Regression）及其在机器学习中的应用](https://blog.csdn.net/2301_77509762/article/details/139869620)
+
++ [IDEA集成Docker实现快捷部署](https://blog.csdn.net/weixin_45490198/article/details/139864092)
+

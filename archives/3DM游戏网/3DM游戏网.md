@@ -149,3 +149,5 @@
 
 + [《暗黑4》S5 PTR 6月26日开启 加入全新终局玩法炼狱大军](https://www.3dmgame.com/news/202406/3897917.html)
 
++ [宫崎英高：FS社不会妄自菲薄 保守预期并给失败留空间](https://www.3dmgame.com/news/202406/3897918.html)
+
