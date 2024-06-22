@@ -191,3 +191,13 @@
 
 + [太“难”了 《艾尔登法环》黄金树幽影综合评价“褒贬不一”](https://www.3dmgame.com/news/202406/3897938.html)
 
++ [《暗黑4》是XGP发行成绩最好游戏 Xbox独占游戏不会消失](https://www.3dmgame.com/news/202406/3897940.html)
+
++ [《绝区零》使用生成式AI技术 让开发工作更流畅](https://www.3dmgame.com/news/202406/3897941.html)
+
++ [《潜行者2：切尔诺贝利之心》新截图 游戏画面太震撼](https://www.3dmgame.com/news/202406/3897942.html)
+
++ [国外一位新高手出现 正致力于攻破《索尼克：起源》](https://www.3dmgame.com/news/202406/3897943.html)
+
++ [索尼为PlayStation新作寻找演员：跨性别黑女 刀具专家](https://www.3dmgame.com/news/202406/3897939.html)
+

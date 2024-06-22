@@ -61,3 +61,9 @@
 
 + [一加 Ace 3 Pro 手机新配色“钛空镜银”公布：首创液态金属玻璃工艺、银色亮面设计](https://m.ithome.com/html/776910.htm)
 
++ [华为余承东发布其第一条原生鸿蒙微博，与微博 CEO 王高飞合影](https://m.ithome.com/html/776969.htm)
+
++ [马斯克第 12 个孩子曝光：母亲是脑机接口 Neuralink 公司女下属](https://m.ithome.com/html/776962.htm)
+
++ [华为与汉仪联合推出 HarmonyOS Symbol 字体：超 1500 个矢量图标、粗细可变、分层定义](https://m.ithome.com/html/776957.htm)
+
