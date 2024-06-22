@@ -201,3 +201,11 @@
 
 + [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
 
++ [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
++ [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
+
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [Dazz相机 - 复古胶片和CCD效果](https://itunes.apple.com/cn/app/id1422471180?mt=8)
+

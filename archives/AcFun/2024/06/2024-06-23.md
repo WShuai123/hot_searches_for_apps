@@ -61,3 +61,7 @@
 
 + [黄金树幽影](http://www.acfun.cn/v/ac44896604)
 
++ [【ACFUN声唱2024】掉了【欹欹】](http://www.acfun.cn/v/ac44872488)
+
++ [哥哥，你拿什么抵抗？【今日好笑视频 #554】](http://www.acfun.cn/v/ac44897454)
+
