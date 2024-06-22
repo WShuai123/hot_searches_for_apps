@@ -141,3 +141,7 @@
 
 + [【Linux必备工具】自动化构建工具makefile的使用详解](https://blog.csdn.net/2301_80171004/article/details/139856443)
 
++ [华为仓颉语言介绍](https://blog.csdn.net/2303_82176667/article/details/139870691)
+
++ [ES全文检索支持繁简和IK分词检索](https://blog.csdn.net/qq_29864051/article/details/139861589)
+

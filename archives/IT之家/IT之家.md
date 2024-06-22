@@ -31,3 +31,7 @@
 
 + [华为 HDC 2024 开发者大会首日一文汇总：纯血鸿蒙开发者 Beta 测试、仓颉编程语言、盘古大模型 5.0 登场](https://m.ithome.com/html/776854.htm)
 
++ [《黑神话：悟空》延期上线 Xbox Series S|X，微软回应：正与游戏科学合作将其带到自家平台上](https://m.ithome.com/html/776870.htm)
+
++ [鸿蒙星河，IT之家，亮](https://m.ithome.com/html/776871.htm)
+

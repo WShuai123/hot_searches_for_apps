@@ -145,3 +145,7 @@
 
 + [《微软飞行模拟》免费更新 拉斯维加斯正式加入游戏](https://www.3dmgame.com/news/202406/3897905.html)
 
++ [有望发力搜索领域 OpenAI收购数据库分析公司Rockset](https://www.3dmgame.com/news/202406/3897916.html)
+
++ [《暗黑4》S5 PTR 6月26日开启 加入全新终局玩法炼狱大军](https://www.3dmgame.com/news/202406/3897917.html)
+
