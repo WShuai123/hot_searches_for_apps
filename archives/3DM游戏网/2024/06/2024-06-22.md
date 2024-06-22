@@ -123,3 +123,25 @@
 
 + [微软回应《黑神话：悟空》Xbox Series X/S版延期](https://www.3dmgame.com/news/202406/3897900.html)
 
++ [《红霞岛》最终更新受好玩家评 前总监：让我颇受鼓舞](https://www.3dmgame.com/news/202406/3897915.html)
+
++ [华为自研新一代编程语言！历经5年大量投入研发](https://www.3dmgame.com/news/202406/3897914.html)
+
++ [Xbox高管：今年秋季和明年春季 Xbox都有强大的游戏阵容](https://www.3dmgame.com/news/202406/3897913.html)
+
++ [生存恐怖游戏《盗日求生》8月6日EA发行 支持简中](https://www.3dmgame.com/news/202406/3897912.html)
+
++ [《冲就完事模拟器》“爱丽丝仙境特别包”DLC 7月发售](https://www.3dmgame.com/news/202406/3897910.html)
+
++ [经典复活 《恐惧效应》即将登陆本世代主机和PC平台](https://www.3dmgame.com/news/202406/3897911.html)
+
++ [《星球大战：前线 经典合集》补丁提升稳定性 修复BUG](https://www.3dmgame.com/news/202406/3897909.html)
+
++ [《空洞骑士：丝之歌》测试员保证本作并未陷入开发困境](https://www.3dmgame.com/news/202406/3897908.html)
+
++ [视觉小说《Roll of Fate》Steam页面 发行日期待定](https://www.3dmgame.com/news/202406/3897907.html)
+
++ [卷福暗示奇异博士将回归《复仇者联盟5》电影](https://www.3dmgame.com/news/202406/3897906.html)
+
++ [《微软飞行模拟》免费更新 拉斯维加斯正式加入游戏](https://www.3dmgame.com/news/202406/3897905.html)
+

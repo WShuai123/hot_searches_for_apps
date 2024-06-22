@@ -47,3 +47,5 @@
 
 + [代码审计中XSS挖掘一些体会](https://www.freebuf.com/vuls/403863.html)
 
++ [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
+

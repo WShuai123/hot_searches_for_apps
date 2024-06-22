@@ -133,3 +133,11 @@
 
 + [量子计算：1 从薛定谔的猫开始](https://blog.csdn.net/Janexjy/article/details/139871391)
 
++ [GaussDB关键技术原理：高性能（一）](https://blog.csdn.net/GaussDB/article/details/139747861)
+
++ [关于http协议中的各种请求头、请求类型的作用以及用途](https://blog.csdn.net/qq_43158726/article/details/139870076)
+
++ [【python数据可视化】利用Python爬取天气数据并实现数据可视化，绘制天气轮播图](https://blog.csdn.net/m0_65482549/article/details/139829862)
+
++ [【Linux必备工具】自动化构建工具makefile的使用详解](https://blog.csdn.net/2301_80171004/article/details/139856443)
+
