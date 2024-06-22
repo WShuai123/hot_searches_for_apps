@@ -101,3 +101,11 @@
 
 + [IDEA集成Docker实现快捷部署](https://blog.csdn.net/weixin_45490198/article/details/139864092)
 
++ [AI与音乐：共创未来乐章还是终结艺术的颂歌？](https://blog.csdn.net/m0_73596070/article/details/139879877)
+
++ [人工智能--搭建人工神经网络](https://blog.csdn.net/2302_76516899/article/details/139868184)
+
++ [Kafka第一篇——内部组件概念架构启动服务器zookeeper选举以及底层原理](https://blog.csdn.net/m0_74106420/article/details/137249443)
+
++ [kafka进阶核心原理详解：案例解析(第11天)](https://blog.csdn.net/syhiiu/article/details/139868979)
+
