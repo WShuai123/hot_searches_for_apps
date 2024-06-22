@@ -37,3 +37,21 @@
 
 + [google / flatbuffers](https://github.com/google/flatbuffers)
 
++ [niedev / RTranslator](https://github.com/niedev/RTranslator)
+
++ [karpathy / micrograd](https://github.com/karpathy/micrograd)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [dataease / dataease](https://github.com/dataease/dataease)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust)
+
++ [janhq / jan](https://github.com/janhq/jan)
+
++ [influxdata / telegraf](https://github.com/influxdata/telegraf)
+

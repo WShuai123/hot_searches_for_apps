@@ -189,3 +189,5 @@
 
 + [生成式AI“上车” 帕萨特等海外版车型支持ChatGPT](https://www.3dmgame.com/news/202406/3897929.html)
 
++ [太“难”了 《艾尔登法环》黄金树幽影综合评价“褒贬不一”](https://www.3dmgame.com/news/202406/3897938.html)
+

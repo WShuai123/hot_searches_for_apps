@@ -57,3 +57,7 @@
 
 + [【一图知】华为 HDC 2024 开发者大会：纯血鸿蒙开发者 Beta 测试、仓颉编程语言与盘古大模型 5.0 登场](https://m.ithome.com/html/776852.htm)
 
++ [下周一见，苹果预告 iOS / iPadOS 18 Beta 2 更新：引入 iPhone 镜像和 SharePlay 屏幕共享](https://m.ithome.com/html/776886.htm)
+
++ [一加 Ace 3 Pro 手机新配色“钛空镜银”公布：首创液态金属玻璃工艺、银色亮面设计](https://m.ithome.com/html/776910.htm)
+

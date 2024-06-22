@@ -169,3 +169,7 @@
 
 + [HTML静态网页成品作业(HTML+CSS+JS)——动漫斗罗大陆介绍网页(3个页面)](https://blog.csdn.net/weixin_42283461/article/details/139879050)
 
++ [【机器学习】音乐大模型的深入探讨——当机器有了创意，是机遇还是灾难？](https://blog.csdn.net/2301_79796701/article/details/139834600)
+
++ [【分布式系列】分布式锁timeout了怎么办?](https://blog.csdn.net/qyj19920704/article/details/139711744)
+
