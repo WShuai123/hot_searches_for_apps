@@ -157,3 +157,7 @@
 
 + [域名反查IP多种方式](https://blog.csdn.net/lupai/article/details/139865439)
 
++ [基于组件的架构：现代软件开发的基石](https://blog.csdn.net/cooldream2009/article/details/139870003)
+
++ [VPN的概述](https://blog.csdn.net/m0_61858762/article/details/139856509)
+

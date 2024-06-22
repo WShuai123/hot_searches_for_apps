@@ -37,3 +37,15 @@
 
 + [微信鸿蒙版即将发布？腾讯多款产品正适配华为 HarmonyOS 系统](https://m.ithome.com/html/776790.htm)
 
++ [延迟推送半个月后，小米 SU7 系列迎来澎湃 OS 1.2.2 版本升级](https://m.ithome.com/html/776869.htm)
+
++ [OPPO、vivo、小米、联想应用商店 64 位适配率已达 98.9% 以上，32 位逐步清理](https://m.ithome.com/html/776839.htm)
+
++ [2025 款吉利帝豪官图公布：换装银色车标，现款 6.99 万元起](https://m.ithome.com/html/776822.htm)
+
++ [一加 Ace 3 Pro 超跑瓷典藏版细节公布：独家三段式开关、Ace Performance 专属标识](https://m.ithome.com/html/776801.htm)
+
++ [华为云盘古大模型 5.0 正式发布：升级多模态能力，可提供十亿到万亿级不同参数](https://m.ithome.com/html/776805.htm)
+
++ [钉钉总裁叶军吐槽百度：搜出来前 10 条结果都是差不多的广告](https://m.ithome.com/html/776929.htm)
+
