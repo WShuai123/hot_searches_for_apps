@@ -35,3 +35,5 @@
 
 + [鸿蒙星河，IT之家，亮](https://m.ithome.com/html/776871.htm)
 
++ [微信鸿蒙版即将发布？腾讯多款产品正适配华为 HarmonyOS 系统](https://m.ithome.com/html/776790.htm)
+

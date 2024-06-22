@@ -153,3 +153,9 @@
 
 + [iOS 18 Beta 2下周发布 将推iPhone镜像、屏幕共享功能](https://www.3dmgame.com/news/202406/3897919.html)
 
++ [总监解释为何《真女神转生5》难度高：有挑战才有乐趣](https://www.3dmgame.com/news/202406/3897922.html)
+
++ [《宇宙机器人》开发历时三年 60名开发人员参与](https://www.3dmgame.com/news/202406/3897921.html)
+
++ [SpaceX推出紧凑型卫星天线Starlink Mini 售价599美元](https://www.3dmgame.com/news/202406/3897920.html)
+

@@ -51,3 +51,5 @@
 
 + [CVE-2024-4577 PHP CGI 远程代码执行漏洞分析](https://www.freebuf.com/vuls/403688.html)
 
++ [DroidLysis：针对Android应用程序的安全检测预分析工具](https://www.freebuf.com/sectool/403832.html)
+
