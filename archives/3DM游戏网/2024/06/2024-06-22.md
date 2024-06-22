@@ -113,3 +113,13 @@
 
 + [尽管担任社长 宫崎英高95%时间还是在做游戏](https://www.3dmgame.com/news/202406/3897896.html)
 
++ [微软确认将参加2024年科隆国际游戏展](https://www.3dmgame.com/news/202406/3897904.html)
+
++ [男子网上骂人博流量构成侮辱罪：被判处8个月刑期](https://www.3dmgame.com/news/202406/3897903.html)
+
++ [建造类沙盒游戏《Dystopika》发售 综合评价“特别好评”](https://www.3dmgame.com/news/202406/3897902.html)
+
++ [Embracer曾于2023年取消了一款《红色派系》新作](https://www.3dmgame.com/news/202406/3897901.html)
+
++ [微软回应《黑神话：悟空》Xbox Series X/S版延期](https://www.3dmgame.com/news/202406/3897900.html)
+
