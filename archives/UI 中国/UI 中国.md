@@ -13,3 +13,7 @@
 
 + [电商AI数字人直播体验设计](https://www.ui.cn/detail/664884.html)
 
++ [B端弹窗设计中的11个法则](https://www.ui.cn/detail/665232.html)
+
++ [我用AI复刻了《狮子王》电影 | 手把手教学](https://www.ui.cn/detail/664495.html)
+

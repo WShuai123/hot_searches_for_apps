@@ -41,3 +41,7 @@
 
 + [马上报名 | 红蓝军攻防与数据安全主题研讨会·北京站启动](https://www.freebuf.com/fevents/403953.html)
 
++ [FreeBuf 周报 | 有 92% 的企业曾遭遇社工攻击；拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404097.html)
+
++ [谣言粉碎机 | 人体内安装窃听器的五种可能](https://www.freebuf.com/articles/neopoints/403551.html)
+
