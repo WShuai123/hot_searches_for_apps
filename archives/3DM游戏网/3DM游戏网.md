@@ -201,3 +201,7 @@
 
 + [索尼为PlayStation新作寻找演员：跨性别黑女 刀具专家](https://www.3dmgame.com/news/202406/3897939.html)
 
++ [苹果寻求与中国本土企业合作 为iPhone提供AI服务](https://www.3dmgame.com/news/202406/3897944.html)
+
++ [《龙腾世纪》系列Steam新史低特卖 《审判》仅19.8元](https://www.3dmgame.com/news/202406/3897945.html)
+
