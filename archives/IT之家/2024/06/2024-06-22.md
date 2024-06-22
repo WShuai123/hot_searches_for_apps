@@ -67,3 +67,7 @@
 
 + [华为与汉仪联合推出 HarmonyOS Symbol 字体：超 1500 个矢量图标、粗细可变、分层定义](https://m.ithome.com/html/776957.htm)
 
++ [小米更新澎湃 OS 适配机型名单，扩充多款智能电视、手表、音箱等](https://m.ithome.com/html/777012.htm)
+
++ [腾讯客服确认：微信正与华为进行原生鸿蒙操作系统的开发适配](https://m.ithome.com/html/777021.htm)
+

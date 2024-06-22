@@ -183,3 +183,7 @@
 
 + [作物检测：YOLOv8+SwanLab](https://blog.csdn.net/weixin_44813538/article/details/139860520)
 
++ [【机器学习】机器学习赋能交通出行：智能化实践与创新应用探索](https://blog.csdn.net/EterNity_TiMe_/article/details/139872858)
+
++ [使用MyBatis的动态SQL注解实现实体的CRUD操作](https://blog.csdn.net/qq_29864051/article/details/139866241)
+
