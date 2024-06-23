@@ -139,3 +139,7 @@
 
 + [动作肉鸽《Champion Shift》登陆Steam 限时六折优惠](https://www.3dmgame.com/news/202406/3897964.html)
 
++ [《八剑传》10月24日登陆Switch 八剑士冒险新游](https://www.3dmgame.com/news/202406/3897968.html)
+
++ [辱骂马斯克！数十辆特斯拉Cybertruck遭遇恶意涂鸦](https://www.3dmgame.com/news/202406/3897969.html)
+

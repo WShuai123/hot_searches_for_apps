@@ -49,3 +49,5 @@
 
 + [疑似Kimsuky（APT-Q-2）以军工招聘为饵攻击欧洲](https://www.freebuf.com/articles/paper/404047.html)
 
++ [如何使用Gau针对任意指定域名执行URL收集任务](https://www.freebuf.com/sectool/403848.html)
+
