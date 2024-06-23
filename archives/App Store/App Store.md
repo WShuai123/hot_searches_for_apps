@@ -201,3 +201,7 @@
 
 + [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+
