@@ -29,3 +29,7 @@
 
 + [拼多多“自动跟价”被曝调整，平台可对商家所有商品进行改价](https://m.ithome.com/html/777047.htm)
 
++ [首批小米笔记本停止维修服务，共有 7 款](https://m.ithome.com/html/777040.htm)
+
++ [广汽本田裁员名额为何被抢空](https://m.ithome.com/html/776979.htm)
+

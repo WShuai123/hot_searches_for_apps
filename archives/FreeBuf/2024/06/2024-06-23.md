@@ -41,3 +41,7 @@
 
 + [全球正运用的Microsoft SQL Server有近五分之一为过时版本](https://www.freebuf.com/news/403991.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/404188.html)
+
++ [Mitmproxy 数据包解密实战篇](https://www.freebuf.com/articles/web/403793.html)
+

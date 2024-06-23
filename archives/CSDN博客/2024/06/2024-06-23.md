@@ -137,3 +137,11 @@
 
 + [【2024.6.22】今日科技时事：科技前沿大事件](https://blog.csdn.net/double222222/article/details/139876088)
 
++ [【机器学习】Lasso回归：稀疏建模与特征选择的艺术](https://blog.csdn.net/qq_44214428/article/details/139840817)
+
++ [MySQL 高级(进阶) SQL 语句](https://blog.csdn.net/Vince15dvd/article/details/139837082)
+
++ [Elasticsearch 数据提取 - 最适合这项工作的工具是什么？](https://blog.csdn.net/UbuntuTouch/article/details/139880845)
+
++ [LabVIEW机器视觉在质量控制中的应用](https://blog.csdn.net/bjcyck/article/details/139874026)
+
