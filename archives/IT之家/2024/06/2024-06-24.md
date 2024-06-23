@@ -25,3 +25,5 @@
 
 + [华为鸿蒙生态伙伴 SDK 市场发布：覆盖 18 个领域，驱动 HarmonyOS NEXT 原生应用开发](https://m.ithome.com/html/777100.htm)
 
++ [华为仓颉编程语言全量开发首个示例，力扣 App 鸿蒙原生版亮相](https://m.ithome.com/html/777167.htm)
+
