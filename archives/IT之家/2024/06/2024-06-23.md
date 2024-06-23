@@ -33,3 +33,5 @@
 
 + [广汽本田裁员名额为何被抢空](https://m.ithome.com/html/776979.htm)
 
++ [山西通报 2024 中考英语听力事故：部分考区重新组织考试，启用备用试题](https://m.ithome.com/html/776986.htm)
+
