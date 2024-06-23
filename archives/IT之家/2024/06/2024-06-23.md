@@ -55,3 +55,5 @@
 
 + [限时 14.99 万元起，上汽大众途观 L 2024 出众款汽车上市](https://m.ithome.com/html/777109.htm)
 
++ [投产不足 4 年，日产汽车宣布关闭中国常州工厂](https://m.ithome.com/html/777120.htm)
+

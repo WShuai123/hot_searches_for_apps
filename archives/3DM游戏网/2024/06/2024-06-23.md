@@ -171,3 +171,7 @@
 
 + [传英特尔推迟Lunar Lake发货时间 从6月延后至9月](https://www.3dmgame.com/news/202406/3897983.html)
 
++ [《饿殍：明末千里行》销量超40万 可能将上移动端](https://www.3dmgame.com/news/202406/3897984.html)
+
++ [马斯克迎来第12个孩子 母亲是脑机接口公司高管](https://www.3dmgame.com/news/202406/3897985.html)
+

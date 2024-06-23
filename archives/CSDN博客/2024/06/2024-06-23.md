@@ -193,3 +193,13 @@
 
 + [Flutter-实现头像叠加动画效果](https://blog.csdn.net/u014741977/article/details/139886984)
 
++ [AI智能时代：ChatGPT如何在金融市场发挥策略分析与预测能力？](https://blog.csdn.net/qq_32682301/article/details/139900433)
+
++ [数学建模系列（1/4）：数学建模简介](https://blog.csdn.net/weidl001/article/details/139848886)
+
++ [mediasoup专栏介绍](https://blog.csdn.net/LittleBoy_IT/article/details/139897221)
+
++ [前端vite+vue3——利用环境变量和路由区分h5、pc模块打包（从0到1）](https://blog.csdn.net/qq_38870145/article/details/139887091)
+
++ [Linux驱动开发笔记（十三）Sysfs文件系统](https://blog.csdn.net/sincerelover/article/details/139882450)
+
