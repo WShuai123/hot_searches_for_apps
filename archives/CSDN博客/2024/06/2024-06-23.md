@@ -149,3 +149,13 @@
 
 + [HarmonyOS NEXT Beta 版开发者及先锋用户招募（第一期）报名答题题库（持续更新中，仅供学习分享使用）](https://blog.csdn.net/qq_45875242/article/details/139878781)
 
++ [群晖NAS本地部署并运行一个基于大语言模型Llama2的个人本地聊天机器人](https://blog.csdn.net/qyj19920704/article/details/139838713)
+
++ [【线性代数】【一】1.6 矩阵的可逆性与线性方程组的解](https://blog.csdn.net/liuyider/article/details/139873112)
+
++ [58-DOS与DDOS分析（正常TCP会话与SYN Flood攻击、ICMP Flood 攻击、SNMP放大攻击等）](https://blog.csdn.net/qq_42321190/article/details/139835832)
+
++ [【Linux】信号的保存](https://blog.csdn.net/JLX_1/article/details/139878711)
+
++ [软件测试笔记](https://blog.csdn.net/qq_52048052/article/details/139877782)
+
