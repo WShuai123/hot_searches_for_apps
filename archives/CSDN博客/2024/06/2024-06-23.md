@@ -173,3 +173,7 @@
 
 + [聊聊Vue中的Router（路由）](https://blog.csdn.net/weixin_56440777/article/details/139881984)
 
++ [vue 中监听生命周期事件](https://blog.csdn.net/JackZhouMine/article/details/139888658)
+
++ [挑战Midjourney，融合近百个SD大模型的通用模型AlbedoBase XL](https://blog.csdn.net/maiya_yayaya/article/details/139855027)
+

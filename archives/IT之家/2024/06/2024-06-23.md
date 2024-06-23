@@ -39,3 +39,9 @@
 
 + [小米 Redmi Note 14 系列手机现身 IMEI 数据库，型号显示 9 月发布](https://m.ithome.com/html/777034.htm)
 
++ [《艾尔登法环：黄金树幽影》Steam 评价跌至“褒贬不一”，中文评价“多半差评”](https://m.ithome.com/html/777025.htm)
+
++ [标准版也能“向上捅破天”，华为 Pura 70 北斗卫星消息版手机现身官网](https://m.ithome.com/html/777093.htm)
+
++ [广汽本田型格联名限定版 7 月 16 日全球首发，现款售价 12.99 万元起](https://m.ithome.com/html/777043.htm)
+
