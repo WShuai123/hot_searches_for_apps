@@ -155,3 +155,17 @@
 
 + [数毛社：《合金装备3：重制版》以原生4K分辨率运行](https://www.3dmgame.com/news/202406/3897971.html)
 
++ [都是出轨为何古谷彻后果更惨？外媒分析原因](https://www.3dmgame.com/news/202406/3897982.html)
+
++ [Faker将《LOL》抖音带货首秀 网友：第五冠销冠](https://www.3dmgame.com/news/202406/3897979.html)
+
++ [任天堂爆料人火速闭麦跑路 只因信息源渠道遭曝光](https://www.3dmgame.com/news/202406/3897980.html)
+
++ [《使命召唤：黑色行动6》或将重新加入抓钩枪功能](https://www.3dmgame.com/news/202406/3897981.html)
+
++ [《收获日3》即将发布更新档 加入大量付费和免费内容](https://www.3dmgame.com/news/202406/3897976.html)
+
++ [联手马丁尝到甜头 宫崎英高还想跟著名作家合作](https://www.3dmgame.com/news/202406/3897977.html)
+
++ [《艾尔登法环：黄金树幽影》太难？官方给Tips强化角色](https://www.3dmgame.com/news/202406/3897978.html)
+

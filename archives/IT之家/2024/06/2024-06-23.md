@@ -45,3 +45,9 @@
 
 + [广汽本田型格联名限定版 7 月 16 日全球首发，现款售价 12.99 万元起](https://m.ithome.com/html/777043.htm)
 
++ [前脸更霸气，新款梅赛德斯-奔驰 S 级效果图出炉](https://m.ithome.com/html/777077.htm)
+
++ [亿图脑图 App 适配华为鸿蒙 HarmonyOS NEXT 系统：支持一键生成思维导图、实时保存 / 多端协同](https://m.ithome.com/html/777080.htm)
+
++ [达摩院公布 2024 阿里巴巴全球数学竞赛决赛试题：五个赛道、8 月出成绩](https://m.ithome.com/html/777091.htm)
+

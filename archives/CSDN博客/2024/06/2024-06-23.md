@@ -177,3 +177,5 @@
 
 + [挑战Midjourney，融合近百个SD大模型的通用模型AlbedoBase XL](https://blog.csdn.net/maiya_yayaya/article/details/139855027)
 
++ [【Sa-Token|4】Sa-Token微服务项目应用](https://blog.csdn.net/weixin_36755535/article/details/139860543)
+
