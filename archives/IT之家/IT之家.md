@@ -51,3 +51,5 @@
 
 + [达摩院公布 2024 阿里巴巴全球数学竞赛决赛试题：五个赛道、8 月出成绩](https://m.ithome.com/html/777091.htm)
 
++ [支持发布 / 观看，微博适配华为鸿蒙 HarmonyOS NEXT 系统动态照片](https://m.ithome.com/html/777092.htm)
+
