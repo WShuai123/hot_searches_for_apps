@@ -103,3 +103,11 @@
 
 + [《喋血复仇》Steam史低促销 仅售29.8元](https://www.3dmgame.com/news/202406/3897990.html)
 
++ [《龙珠：电光火石0》试玩12分钟视频曝光丰富内容](https://www.3dmgame.com/news/202406/3897994.html)
+
++ [三角恋动画《恋爱无法用双子除尽》公开第二部预告](https://www.3dmgame.com/news/202406/3897993.html)
+
++ [支持跨平台联机《狂野飙车：传奇集结》全平台上市](https://www.3dmgame.com/news/202406/3897992.html)
+
++ [《塞尔达传说：智慧的再现》容量比《梦见岛》还小](https://www.3dmgame.com/news/202406/3897991.html)
+

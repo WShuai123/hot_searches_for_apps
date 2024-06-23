@@ -101,3 +101,7 @@
 
 + [探索Linux的奇妙世界:第二关---Linux的基本指令1](https://blog.csdn.net/2401_84006021/article/details/139883069)
 
++ [Vue3+TypeScript项目实战——打造雨雪交加的智慧城市](https://blog.csdn.net/qq_45902692/article/details/139896248)
+
++ [如何看待鸿蒙HarmonyOS？](https://blog.csdn.net/weixin_42738504/article/details/136900391)
+
