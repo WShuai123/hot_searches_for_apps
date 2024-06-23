@@ -49,3 +49,29 @@
 
 + [???? NY Rats](https://dribbble.com/shots/)
 
++ [Accelerate ESG](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [Simms Fishing Products](https://dribbble.com/shots/)
+
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
++ [Smoke city](https://dribbble.com/shots/)
+
++ [Apple no.5](https://dribbble.com/shots/)
+
++ [Avocado Hugs](https://dribbble.com/shots/)
+
++ [Black & White | 04 | Dune](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [Buckeye Illustration](https://dribbble.com/shots/)
+
++ [Murals for Pack Animals, San Francisco](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+

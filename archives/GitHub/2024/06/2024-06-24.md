@@ -33,3 +33,5 @@
 
 + [TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust)
 
++ [SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+
