@@ -203,3 +203,7 @@
 
 + [Linux驱动开发笔记（十三）Sysfs文件系统](https://blog.csdn.net/sincerelover/article/details/139882450)
 
++ [基于SpringBoot+大数据城市景观画像可视化设计和实现](https://blog.csdn.net/kkkkkfffd/article/details/139880364)
+
++ [文心智能体平台介绍和应用：制作你的智能体(运维小帮手)](https://blog.csdn.net/jxjdhdnd/article/details/139902347)
+
