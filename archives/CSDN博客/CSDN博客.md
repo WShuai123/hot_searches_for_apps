@@ -185,3 +185,11 @@
 
 + [前端核心框架Vue指令详解](https://blog.csdn.net/2301_79263365/article/details/139874074)
 
++ [【云原生】Docker可视化工具Portainer使用详解](https://blog.csdn.net/zhangcongyi420/article/details/139874107)
+
++ [【机器学习】大模型驱动下的医疗诊断应用](https://blog.csdn.net/2302_81249757/article/details/139873774)
+
++ [探索Linux的奇妙世界:第二关---Linux的基本指令1](https://blog.csdn.net/2401_84006021/article/details/139883069)
+
++ [Flutter-实现头像叠加动画效果](https://blog.csdn.net/u014741977/article/details/139886984)
+

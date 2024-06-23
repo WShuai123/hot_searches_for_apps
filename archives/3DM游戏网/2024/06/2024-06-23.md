@@ -169,3 +169,5 @@
 
 + [《艾尔登法环：黄金树幽影》太难？官方给Tips强化角色](https://www.3dmgame.com/news/202406/3897978.html)
 
++ [传英特尔推迟Lunar Lake发货时间 从6月延后至9月](https://www.3dmgame.com/news/202406/3897983.html)
+
