@@ -47,3 +47,5 @@
 
 + [安卓远控威胁探索：SpyNote初步接触到伪装加密钱包样本分析](https://www.freebuf.com/articles/blockchain-articles/403771.html)
 
++ [疑似Kimsuky（APT-Q-2）以军工招聘为饵攻击欧洲](https://www.freebuf.com/articles/paper/404047.html)
+
