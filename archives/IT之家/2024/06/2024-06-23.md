@@ -35,3 +35,7 @@
 
 + [山西通报 2024 中考英语听力事故：部分考区重新组织考试，启用备用试题](https://m.ithome.com/html/776986.htm)
 
++ [英伟达市值两日蒸发超 2000 亿美元，只坐了一天“全球第一股”宝座](https://m.ithome.com/html/777074.htm)
+
++ [小米 Redmi Note 14 系列手机现身 IMEI 数据库，型号显示 9 月发布](https://m.ithome.com/html/777034.htm)
+

@@ -105,3 +105,7 @@
 
 + [悟空：当年我没敢做的事，全叫你做了](http://www.acfun.cn/v/ac44901928)
 
++ [肾上腺素让你站起来了，一会疼的要命](http://www.acfun.cn/v/ac44901918)
+
++ [我梦见你梦见我丨林宥嘉（Cover by KiraCola）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44871674)
+

@@ -105,3 +105,21 @@
 
 + [Sherloq](https://www.producthunt.com/posts/sherloq)
 
++ [BloxGPT](https://www.producthunt.com/posts/bloxgpt)
+
++ [Porosheets](https://www.producthunt.com/posts/porosheets)
+
++ [review.legal](https://www.producthunt.com/posts/review-legal)
+
++ [dataxreports.com](https://www.producthunt.com/posts/dataxreports-com)
+
++ [InnerWallet](https://www.producthunt.com/posts/innerwallet)
+
++ [What Font for Safari](https://www.producthunt.com/posts/what-font-for-safari)
+
++ [Wallow: Slack for Makers](https://www.producthunt.com/posts/wallow-slack-for-makers)
+
++ [Sunny Days Ahead](https://www.producthunt.com/posts/sunny-days-ahead)
+
++ [Intentional](https://www.producthunt.com/posts/intentional)
+

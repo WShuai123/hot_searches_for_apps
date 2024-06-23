@@ -143,3 +143,15 @@
 
 + [辱骂马斯克！数十辆特斯拉Cybertruck遭遇恶意涂鸦](https://www.3dmgame.com/news/202406/3897969.html)
 
++ [阿里全球数赛决赛收官！姜萍最终成绩引全网关注](https://www.3dmgame.com/news/202406/3897975.html)
+
++ [《圣斗士星矢》春丽声优回忆当年配音片酬 低到不如打工](https://www.3dmgame.com/news/202406/3897972.html)
+
++ [《Palia》即将发布夏季更新档 加入多种物品内容](https://www.3dmgame.com/news/202406/3897973.html)
+
++ [《NBA 2K25》暗示塔图姆或将成为新一代封面球星](https://www.3dmgame.com/news/202406/3897974.html)
+
++ [《赛博朋克2077》安装300个MOD之后是这样的](https://www.3dmgame.com/news/202406/3897970.html)
+
++ [数毛社：《合金装备3：重制版》以原生4K分辨率运行](https://www.3dmgame.com/news/202406/3897971.html)
+
