@@ -207,3 +207,7 @@
 
 + [文心智能体平台介绍和应用：制作你的智能体(运维小帮手)](https://blog.csdn.net/jxjdhdnd/article/details/139902347)
 
++ [计算机网络（物理层）](https://blog.csdn.net/weixin_46906696/article/details/139884059)
+
++ [计算机组成原理笔记-第1章 计算机系统概论](https://blog.csdn.net/qq_46396470/article/details/139878742)
+

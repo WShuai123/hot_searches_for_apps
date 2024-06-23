@@ -59,3 +59,5 @@
 
 + [为什么说你的 iPhone 用不上「苹果 AI」](https://m.ithome.com/html/777086.htm)
 
++ [零跑 C16 将于 6 月 28 日上市，董事长朱江明：顶配车型价格“1 开头”](https://m.ithome.com/html/777112.htm)
+

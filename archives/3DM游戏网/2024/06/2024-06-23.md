@@ -175,3 +175,7 @@
 
 + [马斯克迎来第12个孩子 母亲是脑机接口公司高管](https://www.3dmgame.com/news/202406/3897985.html)
 
++ [《腐烂国度》开发商将玩家死去的父亲加入到游戏中](https://www.3dmgame.com/news/202406/3897987.html)
+
++ [《生化危机》将拍前传电影和新Netflix剧集 扩展《生化危机》宇宙](https://www.3dmgame.com/news/202406/3897986.html)
+
