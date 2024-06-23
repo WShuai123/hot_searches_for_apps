@@ -101,3 +101,5 @@
 
 + [国外一位新高手出现 正致力于攻破《索尼克：起源》](https://www.3dmgame.com/news/202406/3897943.html)
 
++ [《喋血复仇》Steam史低促销 仅售29.8元](https://www.3dmgame.com/news/202406/3897990.html)
+
