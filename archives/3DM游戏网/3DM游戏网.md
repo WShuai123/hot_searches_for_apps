@@ -145,3 +145,29 @@
 
 + [《命运2》玩家利用漏洞刷物品后 Bungie已禁用私人熔炉竞技场比赛奖励](https://www.3dmgame.com/news/202406/3898011.html)
 
++ [科乐美《伊甸星原》漫改主机游戏仍在开发中 开放世界游戏](https://www.3dmgame.com/news/202406/3898024.html)
+
++ [《使命召唤》联动高达主艺图公布 多款COD游戏参战](https://www.3dmgame.com/news/202406/3898023.html)
+
++ [合作冒险游戏《链在一起》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202406/3898022.html)
+
++ [多次鼓吹8GB内存够用等于别人16G 苹果悄悄改变了](https://www.3dmgame.com/news/202406/3898021.html)
+
++ [黄仁勋：未来或能用AI生成游戏纹理 物体以及角色](https://www.3dmgame.com/news/202406/3898020.html)
+
++ [DVA在《守望先锋》中已年满21岁 形象经过数次迭代](https://www.3dmgame.com/news/202406/3898019.html)
+
++ [索尼发放社区挑战奖励：宇宙机器人头像 限时兑换](https://www.3dmgame.com/news/202406/3898018.html)
+
++ [《寂静之地：入侵日》预售开启 提前购票锁定今夏透心凉惊悚大片](https://www.3dmgame.com/news/202406/3898017.html)
+
++ [第五届非官方CR杯《街头霸王6》大赛6月30日举行](https://www.3dmgame.com/news/202406/3898016.html)
+
++ [游戏总监桥野桂：《暗喻幻想》比《女神异闻录》难度更高](https://www.3dmgame.com/news/202406/3898015.html)
+
++ [前PS负责人希望主机战争结束 统一为单一平台](https://www.3dmgame.com/news/202406/3898012.html)
+
++ [恐怖新作《Jorogumo络新妇》发售 面对蜘蛛精玩家吓尿](https://www.3dmgame.com/news/202406/3898014.html)
+
++ [卡牌类肉鸽游戏《百万怪物民兵》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202406/3898013.html)
+

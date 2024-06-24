@@ -31,3 +31,5 @@
 
 + [苹果承认 8GB 不够用？Xcode 16 新功能最少需 16GB 内存](https://m.ithome.com/html/777182.htm)
 
++ [少赚 1500 亿美元，软银创始人孙正义称“很后悔卖掉英伟达股票”](https://m.ithome.com/html/777162.htm)
+
