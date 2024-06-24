@@ -103,3 +103,11 @@
 
 + [5月欧洲游戏销量榜 《EA Sports FC 24》登顶](https://www.3dmgame.com/news/202406/3898058.html)
 
++ [最高可罚款营业额10% 欧盟指控苹果违反新规则](https://www.3dmgame.com/news/202406/3898062.html)
+
++ [《幻兽帕鲁》NS版可能因技术原因难以推出](https://www.3dmgame.com/news/202406/3898061.html)
+
++ [育碧再次保证《超越善恶2》“仍在开发中”](https://www.3dmgame.com/news/202406/3898060.html)
+
++ [《马里奥与路易吉：兄弟》文件体积为10GB](https://www.3dmgame.com/news/202406/3898059.html)
+
