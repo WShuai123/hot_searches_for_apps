@@ -47,3 +47,5 @@
 
 + [乐视新机入网并公布证件照：2.05GHz 处理器，带有“AI”标识](https://m.ithome.com/html/777165.htm)
 
++ [最高级别，中央气象台发布今年首个暴雨红色预警](https://m.ithome.com/html/777254.htm)
+
