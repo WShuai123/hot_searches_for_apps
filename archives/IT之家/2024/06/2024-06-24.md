@@ -35,3 +35,9 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 实况窗功能新增“沉浸态”，提供锁屏大卡片信息展示](https://m.ithome.com/html/777177.htm)
 
++ [小鹏 MONA M03 实车曝光：掀背造型 + T 字形尾灯，预计 Q3 上市](https://m.ithome.com/html/777169.htm)
+
++ [保时捷被曝“跌下神坛”：多地门店最高打 7 折、发放近 10 万元优惠券](https://m.ithome.com/html/777208.htm)
+
++ [马斯克承认与 Neuralink 公司女下属生下第 3 孩：不是什么秘密](https://m.ithome.com/html/777229.htm)
+

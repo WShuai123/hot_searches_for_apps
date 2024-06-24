@@ -55,3 +55,7 @@
 
 + [深入解析与实战：Apache Commons SCXML远程代码执行漏洞分析及POCEXP构建](https://www.freebuf.com/articles/web/403888.html)
 
++ [新质•真能力 | 第四届数字安全大会正式召开](https://www.freebuf.com/news/404310.html)
+
++ [美国第二大公立学校系统泄露了上百万条学生数据](https://www.freebuf.com/news/404300.html)
+
