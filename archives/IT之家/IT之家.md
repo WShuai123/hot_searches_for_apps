@@ -25,3 +25,5 @@
 
 + [WPS Office 鸿蒙原生版完成开发：支持平板和手机端，打通云账号、多端协调](https://m.ithome.com/html/777175.htm)
 
++ [华为天气 App 14.0.10.202 众测：“分钟级”降水预报上线桌面卡片](https://m.ithome.com/html/777383.htm)
+
