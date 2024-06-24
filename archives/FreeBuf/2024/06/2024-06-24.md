@@ -61,3 +61,5 @@
 
 + [如何使用mapXplore将SQLMap数据转储到关系型数据库中](https://www.freebuf.com/sectool/404276.html)
 
++ [又一虚假广告软件曝光，可自动获取用户屏幕截图](https://www.freebuf.com/news/404302.html)
+

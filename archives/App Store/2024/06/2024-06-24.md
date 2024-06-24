@@ -213,3 +213,9 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [QQ阅读--看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id487608658?mt=8)
+
++ [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [百度文库- 一站式AI内容获取和创作平台](https://itunes.apple.com/cn/app/id426340811?mt=8)
+

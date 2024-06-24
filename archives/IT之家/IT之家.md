@@ -41,3 +41,7 @@
 
 + [马斯克承认与 Neuralink 公司女下属生下第 3 孩：不是什么秘密](https://m.ithome.com/html/777229.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 游戏渠道服与官服体验一致，老玩家账号资产连续](https://m.ithome.com/html/777234.htm)
+
++ [奇瑞 iCAR V23 白色实车曝光：“方盒子”纯电 SUV，预计年内上市](https://m.ithome.com/html/777174.htm)
+
