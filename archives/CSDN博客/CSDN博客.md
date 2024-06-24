@@ -105,3 +105,27 @@
 
 + [如何看待鸿蒙HarmonyOS？](https://blog.csdn.net/weixin_42738504/article/details/136900391)
 
++ [能理解你的意图的自动化采集工具——AI和爬虫相结合](https://blog.csdn.net/qq_37457202/article/details/139903127)
+
++ [轻松上手MYSQL：MYSQL事务隔离级别的奇幻之旅](https://blog.csdn.net/danci_/article/details/139905994)
+
++ [基于大数据的农村产权交易与数据可视化平台设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/139848458)
+
++ [Redis预备知识](https://blog.csdn.net/zyh20050430/article/details/139892594)
+
++ [Spring Bean 的作用域](https://blog.csdn.net/FireFox1997/article/details/139823777)
+
++ [Spring Boot 实现微信、QQ 绑定登录](https://blog.csdn.net/qq_43546721/article/details/139905454)
+
++ [CocosCreator2.4.x以下版本，原生平台(Android&IOS)的热更方案的底层源码最彻底的分析，并开源更好的学习Demo](https://blog.csdn.net/mynamefshunj/article/details/139908130)
+
++ [HCIA--考试测试实验总结](https://blog.csdn.net/2302_81635282/article/details/139888892)
+
++ [主流中间件--Redis](https://blog.csdn.net/qq_56438516/article/details/139887629)
+
++ [深入研究源码：Android10](https://blog.csdn.net/2401_85610714/article/details/139897532)
+
++ [《计算机英语》 Unit 3 Software Engineering 软件工程](https://blog.csdn.net/qq_64684039/article/details/139880231)
+
++ [【CSS】深入解释CSS 2D变换](https://blog.csdn.net/xuelian3015/article/details/139885737)
+

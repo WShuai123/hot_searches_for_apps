@@ -111,3 +111,9 @@
 
 + [《塞尔达传说：智慧的再现》容量比《梦见岛》还小](https://www.3dmgame.com/news/202406/3897991.html)
 
++ [彭博社：苹果仍在研发Vision Pro 2 还有AR眼睛](https://www.3dmgame.com/news/202406/3897997.html)
+
++ [《最终幻想16》登陆PC后 可能还会登陆Xbox Series](https://www.3dmgame.com/news/202406/3897996.html)
+
++ [粉丝用塞尔达风格重现经典《高飞奇遇记》游戏](https://www.3dmgame.com/news/202406/3897995.html)
+
