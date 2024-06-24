@@ -45,3 +45,7 @@
 
 + [使用JSRPC实现前端加密破解，自动化加密](https://www.freebuf.com/articles/web/403647.html)
 
++ [某用户混合办公网络下SASE安全解决方案落地](https://www.freebuf.com/articles/es/403635.html)
+
++ [FreeBuf早报 | Kimsuky以军工招聘为饵攻击欧洲；美军向电子类武器植入病毒的方法](https://www.freebuf.com/news/404129.html)
+
