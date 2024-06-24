@@ -33,3 +33,5 @@
 
 + [少赚 1500 亿美元，软银创始人孙正义称“很后悔卖掉英伟达股票”](https://m.ithome.com/html/777162.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 实况窗功能新增“沉浸态”，提供锁屏大卡片信息展示](https://m.ithome.com/html/777177.htm)
+

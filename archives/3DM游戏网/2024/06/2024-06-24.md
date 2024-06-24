@@ -171,3 +171,7 @@
 
 + [卡牌类肉鸽游戏《百万怪物民兵》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202406/3898013.html)
 
++ [技嘉发布巨型RTX4070Ti SUPER：供电接口“消失”](https://www.3dmgame.com/news/202406/3898026.html)
+
++ [暴雪宣布重返2024科隆游戏展 与保时捷合作展出1:1大小D.Va雕像](https://www.3dmgame.com/news/202406/3898025.html)
+

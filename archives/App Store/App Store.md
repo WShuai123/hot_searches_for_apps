@@ -207,3 +207,9 @@
 
 + [知乎](https://itunes.apple.com/cn/app/id432274380?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [WPS Office - 智能AI办公助手](https://itunes.apple.com/cn/app/id599852710?mt=8)
+
++ [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
+
