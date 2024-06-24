@@ -101,3 +101,5 @@
 
 + [《节奏地牢》衍生作《节奏裂隙》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3898006.html)
 
++ [5月欧洲游戏销量榜 《EA Sports FC 24》登顶](https://www.3dmgame.com/news/202406/3898058.html)
+
