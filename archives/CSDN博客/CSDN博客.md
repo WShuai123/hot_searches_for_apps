@@ -225,3 +225,11 @@
 
 + [Docker 多阶段构建](https://blog.csdn.net/qcpm1983/article/details/139907140)
 
++ [【机器学习】机器学习重要方法——深度学习：理论、算法与实践](https://blog.csdn.net/Easonmax/article/details/139469859)
+
++ [【PyTorch单点知识】神经元网络模型剪枝prune模块介绍（上，非结构化剪枝）](https://blog.csdn.net/m0_49963403/article/details/139896440)
+
++ [MySQL 数据库管理](https://blog.csdn.net/Fan394778945/article/details/139921874)
+
++ [【CentOS 7】深入指南：使用LVM和扩展文件系统增加root分区存储容量](https://blog.csdn.net/joeyoj/article/details/139883819)
+

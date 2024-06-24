@@ -227,3 +227,11 @@
 
 + [逃脱解谜冒险游戏《黄昏旅店》TV动画化决定](https://www.3dmgame.com/news/202406/3898052.html)
 
++ [都2024年了：这家公司竟然出了台支持DOS和Win95的笔记本](https://www.3dmgame.com/news/202406/3898055.html)
+
++ [《百英雄传》7月底发布补丁 修复加载和稳定性](https://www.3dmgame.com/news/202406/3898056.html)
+
++ [字节跳动联合博通开发专用芯片？官方回应来了](https://www.3dmgame.com/news/202406/3898054.html)
+
++ [PC喜剧动作游戏《我是兼职工》6月26日登陆Steam](https://www.3dmgame.com/news/202406/3898053.html)
+
