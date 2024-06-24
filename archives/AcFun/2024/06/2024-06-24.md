@@ -97,3 +97,5 @@
 
 + [一周年噜](http://www.acfun.cn/v/ac44905379)
 
++ [直播蹭投稿隔空合唱Dark Paradise](http://www.acfun.cn/v/ac44905036)
+

@@ -101,3 +101,67 @@
 
 + [Intentional](https://www.producthunt.com/posts/intentional)
 
++ [Bright](https://www.producthunt.com/posts/bright-51100347-8b81-41db-a2ec-e839017e00cd)
+
++ [SEO Stats](https://www.producthunt.com/posts/seo-stats)
+
++ [UpTrackr](https://www.producthunt.com/posts/uptrackr)
+
++ [TestViper](https://www.producthunt.com/posts/testviper)
+
++ [Chap](https://www.producthunt.com/posts/chap)
+
++ [Portfolio2me | Build Stunning Portfolios](https://www.producthunt.com/posts/portfolio2me-build-stunning-portfolios)
+
++ [LeadsOnTrees](https://www.producthunt.com/posts/leadsontrees)
+
++ [EasyClips](https://www.producthunt.com/posts/easyclips)
+
++ [Highlight & Summarize: PDF Companion](https://www.producthunt.com/posts/highlight-summarize-pdf-companion)
+
++ [RegEx Helper](https://www.producthunt.com/posts/regex-helper)
+
++ [Nocket](https://www.producthunt.com/posts/nocket)
+
++ [Acronymaker](https://www.producthunt.com/posts/acronymaker)
+
++ [Image to prompts](https://www.producthunt.com/posts/image-to-prompts)
+
++ [NestLinker](https://www.producthunt.com/posts/nestlinker)
+
++ [Pygma](https://www.producthunt.com/posts/pygma)
+
++ [Wendy](https://www.producthunt.com/posts/wendy)
+
++ [Unacademy Languages App](https://www.producthunt.com/posts/unacademy-languages-app)
+
++ [Claude 3.5 Sonnet](https://www.producthunt.com/posts/claude-3-5-sonnet)
+
++ [Ad Intel](https://www.producthunt.com/posts/ad-intel)
+
++ [Mock Maker](https://www.producthunt.com/posts/mock-maker)
+
++ [Sets Workout App](https://www.producthunt.com/posts/sets-workout-app)
+
++ [Brags Space](https://www.producthunt.com/posts/brags-space)
+
++ [revid.ai](https://www.producthunt.com/posts/revid-ai)
+
++ [MyLens.ai](https://www.producthunt.com/posts/mylens-ai-2)
+
++ [Featherless LLM](https://www.producthunt.com/posts/featherless-llm)
+
++ [Devv.AI](https://www.producthunt.com/posts/devv-ai)
+
++ [promptpanda](https://www.producthunt.com/posts/promptpanda)
+
++ [Doxify](https://www.producthunt.com/posts/doxify)
+
++ [Insights Hub](https://www.producthunt.com/posts/insights-hub)
+
++ [Mapster](https://www.producthunt.com/posts/mapster)
+
++ [City Chase](https://www.producthunt.com/posts/city-chase)
+
++ [Carchain: all-in-one car app](https://www.producthunt.com/posts/carchain-all-in-one-car-app)
+

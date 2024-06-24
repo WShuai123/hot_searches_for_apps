@@ -59,3 +59,5 @@
 
 + [美国第二大公立学校系统泄露了上百万条学生数据](https://www.freebuf.com/news/404300.html)
 
++ [如何使用mapXplore将SQLMap数据转储到关系型数据库中](https://www.freebuf.com/sectool/404276.html)
+

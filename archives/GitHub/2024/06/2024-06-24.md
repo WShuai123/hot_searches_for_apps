@@ -35,3 +35,5 @@
 
 + [SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
 
++ [mayneyao / eidos](https://github.com/mayneyao/eidos)
+
