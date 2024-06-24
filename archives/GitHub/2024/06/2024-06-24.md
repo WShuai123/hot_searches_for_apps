@@ -37,3 +37,21 @@
 
 + [mayneyao / eidos](https://github.com/mayneyao/eidos)
 
++ [modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
++ [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
++ [Lissy93 / web-check](https://github.com/Lissy93/web-check)
+
++ [uutils / coreutils](https://github.com/uutils/coreutils)
+
++ [searxng / searxng](https://github.com/searxng/searxng)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [sxyazi / yazi](https://github.com/sxyazi/yazi)
+
++ [ExpressLRS / ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+

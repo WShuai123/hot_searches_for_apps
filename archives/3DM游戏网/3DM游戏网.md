@@ -207,3 +207,11 @@
 
 + [KK官方对战平台赛事申报指南公布 手把手教你成为赛事经理人！](https://www.3dmgame.com/news/202406/3898033.html)
 
++ [专家也不如AI了：GPT-4o道德推理能力已比专家更强](https://www.3dmgame.com/news/202406/3898044.html)
+
++ [城市建设游戏《工人与资源》进入1.0正式版](https://www.3dmgame.com/news/202406/3898045.html)
+
++ [增加4K重置版，猎奇养成《我的可爱》系列三部曲更新！](https://www.3dmgame.com/news/202406/3898046.html)
+
++ [高手在民间 粉丝玩家打造精美《黄金树幽影》巨大插画](https://www.3dmgame.com/news/202406/3898043.html)
+
