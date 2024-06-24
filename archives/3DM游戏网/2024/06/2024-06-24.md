@@ -141,3 +141,7 @@
 
 + [《DOTA2》TI13全部参赛队伍出炉 中国战队三支](https://www.3dmgame.com/news/202406/3897998.html)
 
++ [人气《咒术回战》漫画确定7月8日连载重开 作者病愈](https://www.3dmgame.com/news/202406/3898010.html)
+
++ [《命运2》玩家利用漏洞刷物品后 Bungie已禁用私人熔炉竞技场比赛奖励](https://www.3dmgame.com/news/202406/3898011.html)
+

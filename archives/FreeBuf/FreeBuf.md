@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | Kimsuky以军工招聘为饵攻击欧洲；美军向电子类武器植入病毒的方法](https://www.freebuf.com/news/404129.html)
 
++ [ARM 防止内存损坏的安全功能可被绕过，成功率近 100%](https://www.freebuf.com/articles/404279.html)
+
++ [Rafel RAT 恶意软件盯上了”过时“安卓手机](https://www.freebuf.com/news/404243.html)
+
