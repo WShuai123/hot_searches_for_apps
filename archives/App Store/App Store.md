@@ -209,3 +209,5 @@
 
 + [可颂](https://itunes.apple.com/cn/app/id6479338276?mt=8)
 
++ [Google Chrome](https://itunes.apple.com/cn/app/id535886823?mt=8)
+

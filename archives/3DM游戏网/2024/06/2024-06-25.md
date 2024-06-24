@@ -111,3 +111,9 @@
 
 + [《马里奥与路易吉：兄弟》文件体积为10GB](https://www.3dmgame.com/news/202406/3898059.html)
 
++ [《我决定和班上最讨厌的女生结婚了》确定动画化](https://www.3dmgame.com/news/202406/3898065.html)
+
++ [《机动战士高达：激战任务2》迎来独角兽高达武装强化型](https://www.3dmgame.com/news/202406/3898064.html)
+
++ [五十岚孝司称《血污：夜之仪式》续作正式立项](https://www.3dmgame.com/news/202406/3898063.html)
+
