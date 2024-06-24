@@ -45,3 +45,5 @@
 
 + [奇瑞 iCAR V23 白色实车曝光：“方盒子”纯电 SUV，预计年内上市](https://m.ithome.com/html/777174.htm)
 
++ [乐视新机入网并公布证件照：2.05GHz 处理器，带有“AI”标识](https://m.ithome.com/html/777165.htm)
+

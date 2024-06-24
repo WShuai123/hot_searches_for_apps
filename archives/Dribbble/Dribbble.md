@@ -107,3 +107,11 @@
 
 + [Strength Over Temptation](https://dribbble.com/shots/)
 
++ [Portrait 006](https://dribbble.com/shots/)
+
++ [PoopBagz | Logo and packaging design](https://dribbble.com/shots/)
+
++ [Beige 'The Explorer'](https://dribbble.com/shots/)
+
++ [Jackson Offshore Safety Poster](https://dribbble.com/shots/)
+
