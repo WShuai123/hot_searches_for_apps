@@ -33,3 +33,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 系统音 / 视频播控组件升级：多入口切换、统一控件操作](https://m.ithome.com/html/777390.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 新增扫码直达功能：系统级常驻、扫后直接进入应用](https://m.ithome.com/html/777402.htm)
+
