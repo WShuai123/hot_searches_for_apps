@@ -279,3 +279,7 @@
 
 + [科幻悬疑主题游戏《沉没意志》7月31日发售](https://www.3dmgame.com/news/202406/3898147.html)
 
++ [IGN调查：超一半玩家认为“黄金树幽影”难度刚好](https://www.3dmgame.com/news/202406/3898149.html)
+
++ [《战地》新作的单人战役或是女主角 招募信息曝光](https://www.3dmgame.com/news/202406/3898148.html)
+

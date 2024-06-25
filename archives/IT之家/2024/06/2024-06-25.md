@@ -57,3 +57,7 @@
 
 + [消息称 iQOO 13 手机首批搭载骁龙 8 Gen 4，延续 iQOO 12 外观设计](https://m.ithome.com/html/777391.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统输入能力升级：支持剪切板识别、智能关联输入信息](https://m.ithome.com/html/777400.htm)
+
++ [2023 年度国家科学技术奖励公布：共评出 250 个项目，华为、比亚迪、科大讯飞等公司获奖](https://m.ithome.com/html/777399.htm)
+
