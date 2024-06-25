@@ -267,3 +267,11 @@
 
 + [《超级猴子球 香蕉大乱斗》今日正式上线！“世嘉通行证”内容预告片及15种装扮配件](https://www.3dmgame.com/news/202406/3898141.html)
 
++ [滚导新版《超人》电影曝光大量片场照](https://www.3dmgame.com/news/202406/3898144.html)
+
++ [英伟达明确通知各品牌 40系列GPU供应量将会减少](https://www.3dmgame.com/news/202406/3898145.html)
+
++ [你上下行速度多少！我国家庭户均带宽速度公布：又快了](https://www.3dmgame.com/news/202406/3898142.html)
+
++ [玩家99元抽显卡盲盒想要RTX4090 结果收到上古显卡](https://www.3dmgame.com/news/202406/3898143.html)
+

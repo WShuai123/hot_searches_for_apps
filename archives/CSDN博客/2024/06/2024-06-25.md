@@ -175,3 +175,15 @@
 
 + [Spring循环依赖问题——从源码画流程图](https://blog.csdn.net/qq_44027353/article/details/139938719)
 
++ [2024年6月上半月30篇大语言模型的论文推荐](https://blog.csdn.net/m0_46510245/article/details/139955439)
+
++ [ONLYOFFICE 8.1版本评测：功能更强大，用户体验更佳](https://blog.csdn.net/SDFsoul/article/details/139961646)
+
++ [Docker最新镜像加速地址及本地搭建镜像仓库全流程](https://blog.csdn.net/weixin_44858074/article/details/139931421)
+
++ [9 个实用 Shell 脚本](https://blog.csdn.net/lxy1290439047/article/details/139652290)
+
++ [Linux 动态监控系统](https://blog.csdn.net/qq_64544475/article/details/139928275)
+
++ [【系统架构设计师】五、计算机网络(概念|通信技术|网络技术)](https://blog.csdn.net/g984160547/article/details/139932749)
+

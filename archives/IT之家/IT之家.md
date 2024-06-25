@@ -51,3 +51,5 @@
 
 + [Qt 与华为合作，跨平台快速开发开源鸿蒙 OpenHarmony 应用](https://m.ithome.com/html/777488.htm)
 
++ [赛力斯股价跌停，内部人士回应：市场的正常波动和表现](https://m.ithome.com/html/777590.htm)
+
