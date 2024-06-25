@@ -215,3 +215,9 @@
 
 + [Final Cut Camera](https://itunes.apple.com/cn/app/id6469552837?mt=8)
 
++ [阿柴记账-你的首席财务官](https://itunes.apple.com/cn/app/id1593607634?mt=8)
+
++ [优志愿-高考志愿填报助手](https://itunes.apple.com/cn/app/id997631494?mt=8)
+
++ [阳光高考志愿填报](https://itunes.apple.com/cn/app/id6449398566?mt=8)
+

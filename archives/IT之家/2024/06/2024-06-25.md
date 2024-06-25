@@ -41,3 +41,9 @@
 
 + [英伟达市值跌破 3 万亿美元，“全球第一股”仅当一天](https://m.ithome.com/html/777397.htm)
 
++ [华为 Mate 60、Mate X5 手机通过开源鸿蒙兼容性测评，支持 OpenHarmony 4.1 Release](https://m.ithome.com/html/777493.htm)
+
++ [消息称 vivo X200 Pro 手机有望采用等深微曲直屏，配备百瓦快充 6000 毫安时电池](https://m.ithome.com/html/777335.htm)
+
++ [苹果对 iOS 上的 PC 模拟器说不](https://m.ithome.com/html/777422.htm)
+

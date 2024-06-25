@@ -157,3 +157,11 @@
 
 + [深度学习训练基于Pod和RDMA](https://blog.csdn.net/myTomorrow_better/article/details/139948587)
 
++ [量子计算的崛起：开启计算新纪元](https://blog.csdn.net/double222222/article/details/139919935)
+
++ [Spring Boot整合Druid：轻松实现SQL监控和数据库密码加密](https://blog.csdn.net/weixin_73588491/article/details/139947478)
+
++ [【工具测评】ONLYOFFICE——你的下一款桌面编辑器](https://blog.csdn.net/weixin_63115236/article/details/139951679)
+
++ [XSS 安全漏洞介绍及修复方案](https://blog.csdn.net/footless_bird/article/details/139951261)
+

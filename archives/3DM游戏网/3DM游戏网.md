@@ -215,3 +215,7 @@
 
 + [业内人士Jeff Grubb透露 索尼正在打造PS3模拟器](https://www.3dmgame.com/news/202406/3898115.html)
 
++ [赛车动画《极速星舞》完播 改编视觉小说游戏宣布 聚焦赛车手的日常和幕后](https://www.3dmgame.com/news/202406/3898116.html)
+
++ [《最终幻想14：黄金的遗产》国际服抢先体验本周开启 SE：请别剧透](https://www.3dmgame.com/news/202406/3898117.html)
+
