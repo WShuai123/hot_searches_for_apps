@@ -31,3 +31,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 系统账号功能升级：支持文件加密分享、应用重装登录保留](https://m.ithome.com/html/777365.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统音 / 视频播控组件升级：多入口切换、统一控件操作](https://m.ithome.com/html/777390.htm)
+

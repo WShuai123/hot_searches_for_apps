@@ -129,3 +129,29 @@
 
 + [《无主之地》电影剧照精彩还原潘多拉星球景观](https://www.3dmgame.com/news/202406/3898067.html)
 
++ [开放世界生存制作《尼莫伊德-生存沙盒》现已登录Steam平台 10月推出抢先体验版](https://www.3dmgame.com/news/202406/3898084.html)
+
++ [《战锤40K：星际战士2》Kadaku星介绍 9月9日发售](https://www.3dmgame.com/news/202406/3898085.html)
+
++ [亚克系统为新《双截龙》游戏注册商标 或是初代完全重制](https://www.3dmgame.com/news/202406/3898083.html)
+
++ [《新蝙蝠侠2》2025年初开拍 导演和男主均回归](https://www.3dmgame.com/news/202406/3898082.html)
+
++ [英国零售商GAME否认将停止线下销售实体游戏报道](https://www.3dmgame.com/news/202406/3898081.html)
+
++ [2D多人策略游戏《蘑菇围城》现已登录Steam平台 预计8月6日推出试玩版](https://www.3dmgame.com/news/202406/3898080.html)
+
++ [《Dungeon World》Steam抢测 像素风肉鸽沙盒生存](https://www.3dmgame.com/news/202406/3898079.html)
+
++ [《蓝色协议》开发商万代南梦宫在线已破产 全球发行或泡汤](https://www.3dmgame.com/news/202406/3898077.html)
+
++ [《街头涂鸦》重制版游戏实机截图泄露：画风更写实](https://www.3dmgame.com/news/202406/3898076.html)
+
++ [《战争雷霆》开发商Gaijin就使用挑战者号遇难图像问题而致歉](https://www.3dmgame.com/news/202406/3898075.html)
+
++ [《往日不再》编剧曾为续作积极准备 包括剧本地图概念图](https://www.3dmgame.com/news/202406/3898074.html)
+
++ [《灾厄堡垒》Steam愿望单突破20万 即时战略塔防](https://www.3dmgame.com/news/202406/3898073.html)
+
++ [像素轻肉鸽生存游戏《Karate Survivor》Steam页面 支持简体中文](https://www.3dmgame.com/news/202406/3898078.html)
+
