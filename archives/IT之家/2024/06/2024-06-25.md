@@ -55,3 +55,5 @@
 
 + [富士康停产风波让苹果一头扎进 iPhone 生产自动化：组装工锐减 50%、全面替代仍存挑战](https://m.ithome.com/html/777409.htm)
 
++ [消息称 iQOO 13 手机首批搭载骁龙 8 Gen 4，延续 iQOO 12 外观设计](https://m.ithome.com/html/777391.htm)
+

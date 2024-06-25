@@ -277,3 +277,5 @@
 
 + [《模拟农场25》公布 11月12日发售、登陆PC和主机](https://www.3dmgame.com/news/202406/3898146.html)
 
++ [科幻悬疑主题游戏《沉没意志》7月31日发售](https://www.3dmgame.com/news/202406/3898147.html)
+

@@ -187,3 +187,9 @@
 
 + [【系统架构设计师】五、计算机网络(概念|通信技术|网络技术)](https://blog.csdn.net/g984160547/article/details/139932749)
 
++ [【新版本来袭】ONLYOFFICE桌面编辑器8.1 —— 重塑办公效率与体验](https://blog.csdn.net/qq_32682301/article/details/139948528)
+
++ [华为仓颉编程语言观感](https://blog.csdn.net/HelloMagina/article/details/139963936)
+
++ [【GPT-5 一年半后发布？对此你有何期待？】GPT-5：AI技术的新纪元](https://blog.csdn.net/Morse_Chen/article/details/139955656)
+
