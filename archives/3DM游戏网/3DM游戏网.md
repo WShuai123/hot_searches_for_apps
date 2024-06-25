@@ -219,3 +219,37 @@
 
 + [《最终幻想14：黄金的遗产》国际服抢先体验本周开启 SE：请别剧透](https://www.3dmgame.com/news/202406/3898117.html)
 
++ [《斗罗大陆2》电视剧全阵容剧照 李小冉饰演比比东](https://www.3dmgame.com/news/202406/3898130.html)
+
++ [《地球防卫军6》Steam开启预购 国区原价398元](https://www.3dmgame.com/news/202406/3898131.html)
+
++ [联动白雪公主！小米Civi 4 Pro迪士尼公主限定版宣布6月27日发布](https://www.3dmgame.com/news/202406/3898134.html)
+
++ [微软调整用户账号规则 用Win11必须先注册登录账号](https://www.3dmgame.com/news/202406/3898133.html)
+
++ [谷歌：满足Epic开放第三方商店要求需耗资超6千万美金](https://www.3dmgame.com/news/202406/3898132.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》登顶](https://www.3dmgame.com/news/202406/3898129.html)
+
++ [《红霞岛》总监：会等5到10年才会再玩自己做的游戏](https://www.3dmgame.com/news/202406/3898128.html)
+
++ [知名网红主播吃鸡老爹涉丑闻 被合伙人游戏工作室断绝关系](https://www.3dmgame.com/news/202406/3898127.html)
+
++ [能加油才没焦虑 插混车今年销量暴增70% 增速是纯电车4倍](https://www.3dmgame.com/news/202406/3898126.html)
+
++ [加入《Ai Vpet/守护与智友》测试服，探索个性化AI虚拟宠物的世界](https://www.3dmgame.com/news/202406/3898125.html)
+
++ [《方舟生存飞升》“恐龙战队”联名MOD销量超60W套](https://www.3dmgame.com/news/202406/3898122.html)
+
++ [《逸剑风云决》大更新秋季免费上线，夏促将有史低价！](https://www.3dmgame.com/news/202406/3898121.html)
+
++ [KK官方对战平台“钻石”推广员专访：日常玩游戏竟能月入上千？](https://www.3dmgame.com/news/202406/3898124.html)
+
++ [Steam夏日特卖宣传片公布 活动本周五上线](https://www.3dmgame.com/news/202406/3898123.html)
+
++ [《城市：天际线2》1.1.5f1补丁更新上线 经济系统大改](https://www.3dmgame.com/news/202406/3898120.html)
+
++ [《终极僵尸防御2》7月26日发售 支持简繁体中文](https://www.3dmgame.com/news/202406/3898119.html)
+
++ [《地牢与餐桌》Steam页面上线 地下城探索收集冒险](https://www.3dmgame.com/news/202406/3898118.html)
+
