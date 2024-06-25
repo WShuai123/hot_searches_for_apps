@@ -55,3 +55,5 @@
 
 + [网安标委印发《数据安全技术 数据安全和个人信息保护社会责任指南》等2项标准](https://www.freebuf.com/news/404398.html)
 
++ [不一样的SRC挖洞思路: HTTP请求拆分漏洞实战](https://www.freebuf.com/articles/web/404034.html)
+

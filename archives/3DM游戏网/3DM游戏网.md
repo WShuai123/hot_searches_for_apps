@@ -191,3 +191,19 @@
 
 + [《艾尔登法环：黄金树幽影》超酷截图 享受绝美风景](https://www.3dmgame.com/news/202406/3898099.html)
 
++ [《头脑特工队2》超越《沙丘2》成为今年票房最高电影](https://www.3dmgame.com/news/202406/3898111.html)
+
++ [黄仁勋套现6.9亿元NV股票 其他CEO也在抛售自家股票](https://www.3dmgame.com/news/202406/3898110.html)
+
++ [艾迪·墨菲爆料 《怪物史瑞克5》和衍生电影《贫嘴驴》正在制作中](https://www.3dmgame.com/news/202406/3898109.html)
+
++ [《七龙珠：破界斗士》第六赛季6月26日上线 添加新侵略者](https://www.3dmgame.com/news/202406/3898108.html)
+
++ [《Riviera：约定之地》7月登陆Steam 经典RPG重制](https://www.3dmgame.com/news/202406/3898107.html)
+
++ [动漫TPS《第二浪潮》一个月关服 开发商拖欠工资负债24亿韩元倒闭](https://www.3dmgame.com/news/202406/3898106.html)
+
++ [浴巾抽魅魔？像素风动作游戏《亡者桑拿》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202406/3898105.html)
+
++ [消息称因隐私问题 苹果拒绝将Meta AI带入iOS 18](https://www.3dmgame.com/news/202406/3898104.html)
+
