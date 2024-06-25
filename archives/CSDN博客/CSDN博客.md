@@ -153,3 +153,7 @@
 
 + [MySQL中结构化系统变量介绍](https://blog.csdn.net/u011565038/article/details/139925389)
 
++ [病毒防护：恶意代码检测技术，病毒分类、传播方式，恶意代码的清除与防护](https://blog.csdn.net/wangyuxiang946/article/details/138130592)
+
++ [深度学习训练基于Pod和RDMA](https://blog.csdn.net/myTomorrow_better/article/details/139948587)
+

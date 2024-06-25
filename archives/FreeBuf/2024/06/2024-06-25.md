@@ -61,3 +61,7 @@
 
 + [IDC：奇安信、深信服、安恒、绿盟、斗象组成了中国NDR市场的主要玩家](https://www.freebuf.com/news/404432.html)
 
++ [DarkGPT：基于GPT-4-200k设计的人工智能OSINT助手](https://www.freebuf.com/sectool/404301.html)
+
++ [LockBit宣称成功入侵美联储，窃取了33TB数据](https://www.freebuf.com/news/404410.html)
+
