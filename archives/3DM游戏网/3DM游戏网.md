@@ -275,3 +275,5 @@
 
 + [玩家99元抽显卡盲盒想要RTX4090 结果收到上古显卡](https://www.3dmgame.com/news/202406/3898143.html)
 
++ [《模拟农场25》公布 11月12日发售、登陆PC和主机](https://www.3dmgame.com/news/202406/3898146.html)
+
