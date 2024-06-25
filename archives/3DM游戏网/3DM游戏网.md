@@ -117,3 +117,15 @@
 
 + [五十岚孝司称《血污：夜之仪式》续作正式立项](https://www.3dmgame.com/news/202406/3898063.html)
 
++ [显卡杀手？虚幻5打造的《生化奇兵》概念视频来了](https://www.3dmgame.com/news/202406/3898072.html)
+
++ [《魔兽世界》新服务器名称确定：吉安娜与死亡猎手](https://www.3dmgame.com/news/202406/3898071.html)
+
++ [传《黎明杀机》将与《古墓丽影》联动 劳拉7月上线](https://www.3dmgame.com/news/202406/3898070.html)
+
++ [黑曜石：若不是Xbox收购 《宣誓》就不会是单人RPG](https://www.3dmgame.com/news/202406/3898069.html)
+
++ [传Xbox计划在2024年再收购一个大型发行商](https://www.3dmgame.com/news/202406/3898068.html)
+
++ [《无主之地》电影剧照精彩还原潘多拉星球景观](https://www.3dmgame.com/news/202406/3898067.html)
+

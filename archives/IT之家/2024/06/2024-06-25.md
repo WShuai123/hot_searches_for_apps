@@ -27,3 +27,7 @@
 
 + [华为天气 App 14.0.10.202 众测：“分钟级”降水预报上线桌面卡片](https://m.ithome.com/html/777383.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 整合通知服务：智能聚合信息、丰富实况窗交互](https://m.ithome.com/html/777395.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 系统账号功能升级：支持文件加密分享、应用重装登录保留](https://m.ithome.com/html/777365.htm)
+
