@@ -39,3 +39,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 系统意图框架公布：感知用户操作，主动推荐服务](https://m.ithome.com/html/777378.htm)
 
++ [英伟达市值跌破 3 万亿美元，“全球第一股”仅当一天](https://m.ithome.com/html/777397.htm)
+

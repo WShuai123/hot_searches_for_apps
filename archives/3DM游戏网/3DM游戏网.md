@@ -207,3 +207,7 @@
 
 + [消息称因隐私问题 苹果拒绝将Meta AI带入iOS 18](https://www.3dmgame.com/news/202406/3898104.html)
 
++ [经典《终末的女武神》新篇《众神默示录》正式开启连载](https://www.3dmgame.com/news/202406/3898113.html)
+
++ [《超越善恶 20周年版》Steam发售 国区售价98元](https://www.3dmgame.com/news/202406/3898112.html)
+

@@ -57,3 +57,7 @@
 
 + [不一样的SRC挖洞思路: HTTP请求拆分漏洞实战](https://www.freebuf.com/articles/web/404034.html)
 
++ [LockBit宣称攻击了美联储，窃取了33TB数据](https://www.freebuf.com/news/404410.html)
+
++ [IDC：奇安信、深信服、安恒、绿盟、斗象组成了中国NDR市场的主要玩家](https://www.freebuf.com/news/404432.html)
+
