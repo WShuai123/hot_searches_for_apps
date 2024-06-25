@@ -47,3 +47,5 @@
 
 + [苹果对 iOS 上的 PC 模拟器说不](https://m.ithome.com/html/777422.htm)
 
++ [《完蛋！我被美女包围了！》手机版官宣，6 月 28 日限量免费试玩](https://m.ithome.com/html/777542.htm)
+

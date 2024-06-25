@@ -253,3 +253,13 @@
 
 + [《地牢与餐桌》Steam页面上线 地下城探索收集冒险](https://www.3dmgame.com/news/202406/3898118.html)
 
++ [6月国产网络游戏版号 《洛克王国：世界》等过审](https://www.3dmgame.com/news/202406/3898138.html)
+
++ [小岛秀夫分享尬事 飞机上发现《死亡搁浅》山寨电影](https://www.3dmgame.com/news/202406/3898139.html)
+
++ [iOS 18 新Beta测试上线 开发者已可尝试iPhone镜像](https://www.3dmgame.com/news/202406/3898137.html)
+
++ [宝可梦卡牌插画大赛有选手涉嫌使用AI 被取消参赛资格](https://www.3dmgame.com/news/202406/3898136.html)
+
++ [《黑神话：悟空》Steam超400万人想买 近七成来自中国](https://www.3dmgame.com/news/202406/3898135.html)
+
