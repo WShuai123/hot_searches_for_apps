@@ -263,3 +263,7 @@
 
 + [《黑神话：悟空》Steam超400万人想买 近七成来自中国](https://www.3dmgame.com/news/202406/3898135.html)
 
++ [《星刃》销量已突破100万 PC版筹备中 未来将推出DLC和续作](https://www.3dmgame.com/news/202406/3898140.html)
+
++ [《超级猴子球 香蕉大乱斗》今日正式上线！“世嘉通行证”内容预告片及15种装扮配件](https://www.3dmgame.com/news/202406/3898141.html)
+

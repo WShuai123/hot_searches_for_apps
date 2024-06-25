@@ -33,3 +33,15 @@
 
 + [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
 
++ [jart / cosmopolitan](https://github.com/jart/cosmopolitan)
+
++ [mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
+
++ [typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+
