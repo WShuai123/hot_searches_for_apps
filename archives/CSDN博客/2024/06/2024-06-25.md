@@ -125,3 +125,17 @@
 
 + [课程设计——基于FPGA的共享单车计费器设计（含源码）](https://blog.csdn.net/BROKEN__Y/article/details/139922904)
 
++ [【机器学习】自然语言处理（NLP）领域革命性突破的模型——Transformer](https://blog.csdn.net/2301_79796701/article/details/139939731)
+
++ [【机器学习】ChatTTS：开源文本转语音（text-to-speech）大模型天花板](https://blog.csdn.net/weixin_48007632/article/details/139929395)
+
++ [C/C++黑客帝国同款字母雨（完整代码）](https://blog.csdn.net/m0_68111267/article/details/139923742)
+
++ [SwiftUI 6.0（iOS 18/macOS 15）关于颜色 Color 的新玩法](https://blog.csdn.net/mydo/article/details/139893237)
+
++ [SpringCloud分布式微服务链路追踪方案：Zipkin](https://blog.csdn.net/weixin_44863237/article/details/139863914)
+
++ [pygame 绘制一个大黑脸](https://blog.csdn.net/weixin_32759777/article/details/139934132)
+
++ [测评：【ONLYOFFICE】版本更迭与AI加持下的最新ONLYOFFICE桌面编辑器8.1](https://blog.csdn.net/Skrrapper/article/details/139935625)
+

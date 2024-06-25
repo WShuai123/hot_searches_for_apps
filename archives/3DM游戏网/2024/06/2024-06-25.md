@@ -181,3 +181,13 @@
 
 + [《泰拉瑞亚》开发者随性“收编”MOD开发人员 来就给钱](https://www.3dmgame.com/news/202406/3898091.html)
 
++ [北大教授建议年轻人不要躺平 继续卷才能成功](https://www.3dmgame.com/news/202406/3898103.html)
+
++ [英伟达总市值三天蒸发4万亿元 曾一度成为市值最高公司](https://www.3dmgame.com/news/202406/3898100.html)
+
++ [清库存了！Steam Deck掌机LCD型号开启8.5折特卖](https://www.3dmgame.com/news/202406/3898102.html)
+
++ [半数以上开发者认为游戏行业现状糟糕：投资方和管理层的锅](https://www.3dmgame.com/news/202406/3898101.html)
+
++ [《艾尔登法环：黄金树幽影》超酷截图 享受绝美风景](https://www.3dmgame.com/news/202406/3898099.html)
+

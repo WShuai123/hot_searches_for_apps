@@ -35,3 +35,7 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 新增扫码直达功能：系统级常驻、扫后直接进入应用](https://m.ithome.com/html/777402.htm)
 
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 2 发布：引入 iPhone 镜像、初步支持 RCS 等](https://m.ithome.com/html/777403.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 系统意图框架公布：感知用户操作，主动推荐服务](https://m.ithome.com/html/777378.htm)
+
