@@ -251,3 +251,23 @@
 
 + [《龙腾世纪》开发者指名批评《上古卷轴6》：宣布太早](https://www.3dmgame.com/news/202406/3898224.html)
 
++ [纪念《圣剑传说》推出33周年 SE于6月28日举行新情报活动](https://www.3dmgame.com/news/202406/3898233.html)
+
++ [1996年原版《生化危机》游戏登陆GOG平台 售价10美元](https://www.3dmgame.com/news/202406/3898234.html)
+
++ [原田胜弘解释为何《灵魂能力》陷入困境：该系列会回归](https://www.3dmgame.com/news/202406/3898232.html)
+
++ [风骚律师疾速追杀《小人物2》主演回归 导演已确认](https://www.3dmgame.com/news/202406/3898231.html)
+
++ [股东担心SE与ZZZQ公司合作：对旗下游戏有影响](https://www.3dmgame.com/news/202406/3898230.html)
+
++ [像素策略游戏《恐龙部落》Steam页面上线 年内发售](https://www.3dmgame.com/news/202406/3898229.html)
+
++ [希腊推一周工作6天 给近50%加班费：被批对工人侮辱](https://www.3dmgame.com/news/202406/3898228.html)
+
++ [京东淘宝拼多多主力用户对比 京东一线城市领先太多](https://www.3dmgame.com/news/202406/3898227.html)
+
++ [两栋大厦几乎搬空 完美世界回应大规模裁员](https://www.3dmgame.com/news/202406/3898226.html)
+
++ [嫦娥六号返回器安全着陆 实现世界首次月球背面采样返回](https://www.3dmgame.com/news/202406/3898225.html)
+
