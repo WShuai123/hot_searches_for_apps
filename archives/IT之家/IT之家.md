@@ -55,3 +55,9 @@
 
 + [苹果 AirPods 耳机全家桶迎来固件更新](https://m.ithome.com/html/777667.htm)
 
++ [AI 算力每秒将超 38 万亿次，苹果 iPhone 16 系列 A18 神经网络引擎被曝比 M4 芯片更强](https://m.ithome.com/html/777782.htm)
+
++ [国产版现已下线，2024 款大众速腾轿车海外发布售 2.2 万美元起](https://m.ithome.com/html/777648.htm)
+
++ [华为 × 赛力斯最高端车型，问界 M9 上市 6 个月累计大定突破 10 万辆、稳居 50 万以上销量冠军](https://m.ithome.com/html/777714.htm)
+
