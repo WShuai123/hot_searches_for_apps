@@ -101,3 +101,7 @@
 
 + [行业资深人士创建实验性网页游戏工作室 目标是快速推出小型游戏](https://www.3dmgame.com/news/202406/3898194.html)
 
++ [PS+欧美服7月会免游戏阵容：《无主之地3》等](https://www.3dmgame.com/news/202406/3898249.html)
+
++ [卡普空官宣：《丧尸围城：复刻版》开发中](https://www.3dmgame.com/news/202406/3898248.html)
+
