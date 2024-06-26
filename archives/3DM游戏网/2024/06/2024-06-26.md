@@ -189,3 +189,21 @@
 
 + [《最终幻想14》7.0补丁将为主机版添加120帧支持](https://www.3dmgame.com/news/202406/3898171.html)
 
++ [《博德之门3》获得年度最佳LGBTQ+奖 影心获最佳角色奖](https://www.3dmgame.com/news/202406/3898200.html)
+
++ [《城市公交经理》登陆Steam 体验巴士经营管理](https://www.3dmgame.com/news/202406/3898199.html)
+
++ [小队大逃杀游戏《SUPERVIVE》宣传片公布 6月27日开测](https://www.3dmgame.com/news/202406/3898201.html)
+
++ [缉毒题材互动影像作品《晨昏线》PV首曝：双重视角、还原真实卷宗](https://www.3dmgame.com/news/202406/3898202.html)
+
++ [行业资深人士创建实验性网页游戏工作室 目标是快速推出小型游戏](https://www.3dmgame.com/news/202406/3898194.html)
+
++ [《最后的生还者》剧集第二季乔尔还是会死：避不开的](https://www.3dmgame.com/news/202406/3898195.html)
+
++ [OpenAI与美国制药巨头合作 利用AI开发新型抗菌药物](https://www.3dmgame.com/news/202406/3898196.html)
+
++ [《战锤40K：暗嘲》免费更新“机神的秘密”现已推出](https://www.3dmgame.com/news/202406/3898198.html)
+
++ [手机里最大应用占多少空间 微信遥遥领先](https://www.3dmgame.com/news/202406/3898197.html)
+

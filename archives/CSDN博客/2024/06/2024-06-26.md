@@ -147,3 +147,7 @@
 
 + [GPT-5时代的曙光：AI技术引领未来工作与生活的新篇章](https://blog.csdn.net/2303_80856850/article/details/139972551)
 
++ [计算机必背单词——操作系统](https://blog.csdn.net/hebtu666/article/details/139704877)
+
++ [vite+vue3+ts项目搭建流程 (pnpm, eslint, prettier, stylint, husky,commitlint )](https://blog.csdn.net/yavlgloss/article/details/139972200)
+

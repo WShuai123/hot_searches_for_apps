@@ -35,3 +35,7 @@
 
 + [时隔 3 年，腾讯《王者荣耀》手游再次开放 iPad Pro 机型极高帧率](https://m.ithome.com/html/777661.htm)
 
++ [网购手表被放在快递驿站后丢失，法院判决卖家承担违约责任](https://m.ithome.com/html/777639.htm)
+
++ [哪吒 L 纯电版车型 6 月 28 日正式上市，预售 14 万元起](https://m.ithome.com/html/777625.htm)
+
