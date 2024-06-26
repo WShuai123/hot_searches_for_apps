@@ -63,3 +63,5 @@
 
 + [我国“复兴号”动车组家族谱系图公布](https://m.ithome.com/html/777746.htm)
 
++ [比亚迪仰望 U7 预热：4.85 米转弯半径、双向 20° 后轮转向](https://m.ithome.com/html/777885.htm)
+

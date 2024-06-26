@@ -289,3 +289,11 @@
 
 + [网飞《海贼王》真人剧第二季又曝三位新卡司](https://www.3dmgame.com/news/202406/3898243.html)
 
++ [中世纪动作冒险《炼金之境》公布 登陆PC和主机](https://www.3dmgame.com/news/202406/3898246.html)
+
++ [突破美国禁令！NVIDIA坚持把AI GPU卖到中东](https://www.3dmgame.com/news/202406/3898247.html)
+
++ [《艾尔登法环：黄金树幽影》1.12.2版完整更新日志发布](https://www.3dmgame.com/news/202406/3898245.html)
+
++ [英伟达三连跌后大幅反弹 市值重回3万亿美元之上](https://www.3dmgame.com/news/202406/3898244.html)
+
