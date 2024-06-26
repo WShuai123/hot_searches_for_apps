@@ -49,3 +49,31 @@
 
 + [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
 
++ [Alien Romulus](https://dribbble.com/shots/)
+
++ [Etheros](https://dribbble.com/shots/)
+
++ [Be brave](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [Configuration](https://dribbble.com/shots/)
+
++ [Mad Cats!](https://dribbble.com/shots/)
+
++ [Gentry Brand: Full Preview](https://dribbble.com/shots/)
+
++ [Gorilla Surf](https://dribbble.com/shots/)
+
++ [soccer](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
++ [Berries](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Harry Sardini](https://dribbble.com/shots/)
+

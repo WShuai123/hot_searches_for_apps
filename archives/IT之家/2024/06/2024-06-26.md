@@ -25,3 +25,13 @@
 
 + [Telegram 自称仅有 30 名工程师，专家视其为“安全噩梦”](https://m.ithome.com/html/777640.htm)
 
++ [37.99 万元起，吉利“陆地空客”MPV 翼真 L380 正式上市](https://m.ithome.com/html/777638.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 升级 HiCar：类车机 UI 布局、应用 / 通知无缝流转](https://m.ithome.com/html/777652.htm)
+
++ [小米 Redmi Note 14 Pro 手机有望采用 1.5K 居中单孔双微曲屏，50MP 大底“居中类椭圆镜头”](https://m.ithome.com/html/777593.htm)
+
++ [比亚迪仰望 U8 登月保障车队，现身嫦娥六号月球探测器返回着陆现场](https://m.ithome.com/html/777472.htm)
+
++ [时隔 3 年，腾讯《王者荣耀》手游再次开放 iPad Pro 机型极高帧率](https://m.ithome.com/html/777661.htm)
+

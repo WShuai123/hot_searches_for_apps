@@ -201,3 +201,9 @@
 
 + [懂车帝-选买新车二手车](https://itunes.apple.com/cn/app/id1232131998?mt=8)
 
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+

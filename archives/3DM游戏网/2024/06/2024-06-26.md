@@ -101,3 +101,37 @@
 
 + [清库存了！Steam Deck掌机LCD型号开启8.5折特卖](https://www.3dmgame.com/news/202406/3898102.html)
 
++ [《真人快打1》Year 2 DLC角色泄露 鬼脸、T1000](https://www.3dmgame.com/news/202406/3898166.html)
+
++ [Steam玩家买后不玩的游戏总价为190亿美元 给G胖做贡献](https://www.3dmgame.com/news/202406/3898165.html)
+
++ [强森、美队联合出击 《红色一号》首曝中文预告 圣诞老人被绑架](https://www.3dmgame.com/news/202406/3898164.html)
+
++ [《雅达利50：周年纪念扩展版》面向各大平台公布](https://www.3dmgame.com/news/202406/3898163.html)
+
++ [《吸血鬼幸存者》解释为何未公布PS版发售日](https://www.3dmgame.com/news/202406/3898162.html)
+
++ [微软《极限竞速：地平线4》将于12月下架](https://www.3dmgame.com/news/202406/3898161.html)
+
++ [《迪士尼传奇米奇：Rebrushed》9/24发售](https://www.3dmgame.com/news/202406/3898160.html)
+
++ [尽管被致敬但任天堂并未对《幻兽帕鲁》发出投诉](https://www.3dmgame.com/news/202406/3898159.html)
+
++ [虚幻5恐怖游戏《无家可归》公布 探索惊悚地铁站](https://www.3dmgame.com/news/202406/3898158.html)
+
++ [《路易吉洋馆2HD》画面大幅提升 全程稳定30帧](https://www.3dmgame.com/news/202406/3898157.html)
+
++ [劳拉确认将于7月16日加入《黎明杀机》](https://www.3dmgame.com/news/202406/3898156.html)
+
++ [Switch版《路易吉洋馆2HD》全新预告片曝光](https://www.3dmgame.com/news/202406/3898155.html)
+
++ [《传奇米老鼠：重制版》9月24日发售 登陆全平台](https://www.3dmgame.com/news/202406/3898154.html)
+
++ [模拟建造游戏《学园构想家》7月16日登陆主机 PC获特别好评](https://www.3dmgame.com/news/202406/3898152.html)
+
++ [《路易吉洋楼2HD》由开发《黄昏公主HD》的工作室制作](https://www.3dmgame.com/news/202406/3898153.html)
+
++ [男生复读分数从383涨到603：不敢信](https://www.3dmgame.com/news/202406/3898151.html)
+
++ [黑暗奇幻风格《德罗斯》新增NS版 7月12日上线](https://www.3dmgame.com/news/202406/3898150.html)
+

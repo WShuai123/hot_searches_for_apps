@@ -101,3 +101,9 @@
 
 + [Relay.app](https://www.producthunt.com/posts/relay-app-2)
 
++ [Acronymaker](https://www.producthunt.com/posts/acronymaker)
+
++ [Insights Hub](https://www.producthunt.com/posts/insights-hub)
+
++ [City Chase](https://www.producthunt.com/posts/city-chase)
+
