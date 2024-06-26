@@ -201,3 +201,7 @@
 
 + [网上国网](https://itunes.apple.com/cn/app/id1438998315?mt=8)
 
++ [QQ阅读--看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id487608658?mt=8)
+
++ [知乎](https://itunes.apple.com/cn/app/id432274380?mt=8)
+
