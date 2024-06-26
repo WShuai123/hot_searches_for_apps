@@ -115,3 +115,7 @@
 
 + [今天开始我要自己冲厕所！](http://www.acfun.cn/v/ac44916270)
 
++ [【AcFun音乐月刊】2024年 第5期](http://www.acfun.cn/v/ac44921929)
+
++ [《刺客信条 影》中文预告 【张遥函翻配】](http://www.acfun.cn/v/ac44918762)
+

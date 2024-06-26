@@ -65,3 +65,5 @@
 
 + [数据安全实践与探索 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/404487.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+

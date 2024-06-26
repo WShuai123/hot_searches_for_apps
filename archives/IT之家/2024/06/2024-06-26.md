@@ -53,3 +53,5 @@
 
 + [12G+512G 仅 6579 元：华为 Mate 60 Pro 手机京东新低 + 送原装充电器](https://m.ithome.com/html/777837.htm)
 
++ [苹果 AirPods 耳机全家桶迎来固件更新](https://m.ithome.com/html/777667.htm)
+
