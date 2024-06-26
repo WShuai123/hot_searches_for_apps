@@ -107,3 +107,13 @@
 
 + [Q版美少女动作游戏《幻象破坏者：战场终极版》2月发售](https://www.3dmgame.com/news/202406/3898250.html)
 
++ [万代南梦宫似乎在暗示下一款《传说》系列游戏](https://www.3dmgame.com/news/202406/3898255.html)
+
++ [STEAM游戏录像功能公测 开启主机级录播体验](https://www.3dmgame.com/news/202406/3898254.html)
+
++ [游戏爱好者将《超级马里奥64》移植到GBA掌机](https://www.3dmgame.com/news/202406/3898253.html)
+
++ [维京时代回合制策略游戏《北境传奇》公布](https://www.3dmgame.com/news/202406/3898252.html)
+
++ [动画《机动战士高达：银灰幻影》将推出VR游戏](https://www.3dmgame.com/news/202406/3898251.html)
+
