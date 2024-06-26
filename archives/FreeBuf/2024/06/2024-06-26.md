@@ -57,3 +57,5 @@
 
 + [Fortinet领航平台时代，十城巡展绘就网络安全新纪元](https://www.freebuf.com/news/404519.html)
 
++ [如何使用sr2t将你的安全扫描报告转换为表格格式](https://www.freebuf.com/sectool/404315.html)
+

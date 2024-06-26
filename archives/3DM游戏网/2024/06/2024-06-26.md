@@ -215,3 +215,9 @@
 
 + [《Pomberito》登陆Steam 南美洲民间恐怖冒险](https://www.3dmgame.com/news/202406/3898206.html)
 
++ [壶头哥重返交界地 设立新目标 帮助玩家击杀“黄金树幽影”BOSS梅瑟莫](https://www.3dmgame.com/news/202406/3898207.html)
+
++ [钉钉将对所有AI大模型厂商开放 首批7家接入](https://www.3dmgame.com/news/202406/3898208.html)
+
++ [《最后纪元》发布首个赛季更新前瞻 7月10日上线](https://www.3dmgame.com/news/202406/3898209.html)
+

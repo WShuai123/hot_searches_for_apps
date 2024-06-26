@@ -107,3 +107,51 @@
 
 + [City Chase](https://www.producthunt.com/posts/city-chase)
 
++ [Spoken AI](https://www.producthunt.com/posts/spoken-ai)
+
++ [Weekly Github](https://www.producthunt.com/posts/weekly-github)
+
++ [Superhuman 2.0](https://www.producthunt.com/posts/superhuman-2-0)
+
++ [June 4.0](https://www.producthunt.com/posts/june-4-0)
+
++ [refern](https://www.producthunt.com/posts/refern-2)
+
++ [Lazy AI - Create software the fun way](https://www.producthunt.com/posts/lazy-ai-create-software-the-fun-way)
+
++ [eHammurabi](https://www.producthunt.com/posts/ehammurabi)
+
++ [ElevenLabs Reader](https://www.producthunt.com/posts/elevenlabs-reader)
+
++ [Kosily](https://www.producthunt.com/posts/kosily)
+
++ [Private Notes for Google Calendar](https://www.producthunt.com/posts/private-notes-for-google-calendar)
+
++ [PressProxy](https://www.producthunt.com/posts/pressproxy)
+
++ [WidgetStrike](https://www.producthunt.com/posts/widgetstrike)
+
++ [Wakeup Mothaf$$%r](https://www.producthunt.com/posts/wakeup-mothaf-r)
+
++ [Skyvern](https://www.producthunt.com/posts/skyvern)
+
++ [MRR.Live](https://www.producthunt.com/posts/mrr-live)
+
++ [MakeTheDocs](https://www.producthunt.com/posts/makethedocs)
+
++ [Ubestory](https://www.producthunt.com/posts/ubestory)
+
++ [The Fittest](https://www.producthunt.com/posts/the-fittest)
+
++ [Flox](https://www.producthunt.com/posts/flox-2)
+
++ [Replyhub](https://www.producthunt.com/posts/replyhub)
+
++ [Lifestack](https://www.producthunt.com/posts/lifestack)
+
++ [Midday](https://www.producthunt.com/posts/midday-2)
+
++ [AiTerm](https://www.producthunt.com/posts/aiterm)
+
++ [Dingo Dive](https://www.producthunt.com/posts/dingo-dive)
+

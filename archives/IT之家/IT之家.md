@@ -41,3 +41,7 @@
 
 + [杀入“两田”老家：比亚迪电动轿车海豹登陆日本市场，528 万日元起](https://m.ithome.com/html/777678.htm)
 
++ [华为坤灵 eKitStor Xtreme 200 M.2 闪存条（固态硬盘）上线官网，2TB 建议零售价 1887.6 元](https://m.ithome.com/html/777751.htm)
+
++ [爆料称荣耀新款笔记本将突破行业轻薄记录](https://m.ithome.com/html/777623.htm)
+
