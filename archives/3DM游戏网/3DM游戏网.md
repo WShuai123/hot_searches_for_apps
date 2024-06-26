@@ -207,3 +207,9 @@
 
 + [手机里最大应用占多少空间 微信遥遥领先](https://www.3dmgame.com/news/202406/3898197.html)
 
++ [策略模拟游戏《领主与村民》最新DLC“豪门望族”现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3898203.html)
+
++ [《死侍与金刚狼》新故事细节：死侍金盆洗手女友分手](https://www.3dmgame.com/news/202406/3898204.html)
+
++ [涨价前兆！PC和手机DRAM内存将出现供应短缺](https://www.3dmgame.com/news/202406/3898205.html)
+
