@@ -135,3 +135,11 @@
 
 + [黑暗奇幻风格《德罗斯》新增NS版 7月12日上线](https://www.3dmgame.com/news/202406/3898150.html)
 
++ [《辐射》真人剧制作人确认《辐射：新维加斯》角色将出现在第二季](https://www.3dmgame.com/news/202406/3898170.html)
+
++ [《我的博物馆：寻宝猎人》登陆Steam 搜集展示经营](https://www.3dmgame.com/news/202406/3898169.html)
+
++ [龙腾4顾问：《上古卷轴6》等大作过早公布 会误导玩家](https://www.3dmgame.com/news/202406/3898168.html)
+
++ [网飞真人版《海贼王》第二季新增卡司公布](https://www.3dmgame.com/news/202406/3898167.html)
+

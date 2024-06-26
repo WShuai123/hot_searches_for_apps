@@ -77,3 +77,15 @@
 
 + [Harry Sardini](https://dribbble.com/shots/)
 
++ [Strength Over Temptation](https://dribbble.com/shots/)
+
++ [The Archer](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #3](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Jackson Offshore Safety Poster](https://dribbble.com/shots/)
+
++ [LIFE](https://dribbble.com/shots/)
+
