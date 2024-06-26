@@ -203,3 +203,5 @@
 
 + [【GPT-5 一年半后发布？对此你有何期待？】GPT-5：AI技术的新里程碑与我们的未来](https://blog.csdn.net/2302_78391795/article/details/139973309)
 
++ [MySQL实训--原神数据库](https://blog.csdn.net/weixin_46729014/article/details/139990864)
+

@@ -285,3 +285,7 @@
 
 + [罗技推出G515 LIGHTSPEED TKL无线游戏键盘 超薄紧凑设计](https://www.3dmgame.com/news/202406/3898241.html)
 
++ [《疯狂的麦克斯：狂暴女神》头10分钟视频放出](https://www.3dmgame.com/news/202406/3898242.html)
+
++ [网飞《海贼王》真人剧第二季又曝三位新卡司](https://www.3dmgame.com/news/202406/3898243.html)
+
