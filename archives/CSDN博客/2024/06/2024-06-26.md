@@ -179,3 +179,15 @@
 
 + [嵌入式学习——硬件（ARM体系架构）——day51](https://blog.csdn.net/qq_47798402/article/details/139934710)
 
++ [AI智能时代：ChatGPT如何在金融市场发挥策略分析与预测能力？](https://blog.csdn.net/qq_32682301/article/details/139900433)
+
++ [探索ONLYOFFICE桌面编辑器8.1：更强大的办公软件（新功能全新详解）](https://blog.csdn.net/LT15171009269/article/details/139963848)
+
++ [【SPSS】基于RFM+Kmeans的电商客户价值聚类分析](https://blog.csdn.net/m0_64336780/article/details/138446539)
+
++ [2024运维人该何去何从？](https://blog.csdn.net/qq_52494169/article/details/139974606)
+
++ [（9）农作物喷雾器](https://blog.csdn.net/qq_20016593/article/details/139912515)
+
++ [【InternVL 1.5】最强开源多模态大模型（性能比肩GPT-4V）](https://blog.csdn.net/xiaobing259/article/details/139936800)
+

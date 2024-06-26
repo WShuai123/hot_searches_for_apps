@@ -45,3 +45,5 @@
 
 + [爆料称荣耀新款笔记本将突破行业轻薄记录](https://m.ithome.com/html/777623.htm)
 
++ [贵 100 元，华为 Pura70 北斗卫星消息版手机售价曝光：12+512GB 售价 6099 元](https://m.ithome.com/html/777742.htm)
+

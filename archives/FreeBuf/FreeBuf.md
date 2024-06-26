@@ -59,3 +59,7 @@
 
 + [如何使用sr2t将你的安全扫描报告转换为表格格式](https://www.freebuf.com/sectool/404315.html)
 
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+
++ [在过去 3 年中，有 2.8 亿人安装了危险的 Chrome 浏览器扩展程序](https://www.freebuf.com/news/404547.html)
+
