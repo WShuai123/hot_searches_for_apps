@@ -95,3 +95,9 @@
 
 + [Gentry Brand - Branding](https://dribbble.com/shots/)
 
++ [Lotus Flower](https://dribbble.com/shots/)
+
++ [The Gryphon](https://dribbble.com/shots/)
+
++ [HHC Living Brand Pattern](https://dribbble.com/shots/)
+

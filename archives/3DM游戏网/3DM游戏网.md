@@ -213,3 +213,5 @@
 
 + [涨价前兆！PC和手机DRAM内存将出现供应短缺](https://www.3dmgame.com/news/202406/3898205.html)
 
++ [《Pomberito》登陆Steam 南美洲民间恐怖冒险](https://www.3dmgame.com/news/202406/3898206.html)
+

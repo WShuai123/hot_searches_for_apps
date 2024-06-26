@@ -55,3 +55,5 @@
 
 + [VM虚拟机保护技术详解&俩道CTFvm逆向实战分析](https://www.freebuf.com/articles/system/404233.html)
 
++ [Fortinet领航平台时代，十城巡展绘就网络安全新纪元](https://www.freebuf.com/news/404519.html)
+

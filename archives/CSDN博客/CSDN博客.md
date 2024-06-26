@@ -159,3 +159,21 @@
 
 + [【云计算】阿里云、腾讯云、华为云平台数据库对比](https://blog.csdn.net/qq_37822090/article/details/139960052)
 
++ [还不到6个月，GPTs黄了](https://blog.csdn.net/Gabriel100yi/article/details/139966846)
+
++ [ONLYOFFICE 桌面编辑器 8.1全新发布，更强大的编辑工具](https://blog.csdn.net/ks_wyf/article/details/139951373)
+
++ [【前端】Vue项目和微信小程序生成二维码和条形码](https://blog.csdn.net/2301_78542842/article/details/139971006)
+
++ [解锁高效办公:ONLYOFFICE版本8.1新功能揭秘与个人使用体验](https://blog.csdn.net/2201_75539691/article/details/139922773)
+
++ [Elasticsearch：使用 semantic_text 简化语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/139957669)
+
++ [【Linux】Wmware Esxi磁盘扩容](https://blog.csdn.net/qq_35995514/article/details/139983762)
+
++ [猫头虎分享：K8S优雅关机怎么实现？配置一下server.shutdown.graceful?](https://blog.csdn.net/qq_44866828/article/details/139948994)
+
++ [东南亚本地化游戏](https://blog.csdn.net/2401_82856454/article/details/139961452)
+
++ [数据集的未来：如何利用亮数据浏览器提升数据采集效率](https://blog.csdn.net/guorui_java/article/details/139881440)
+
