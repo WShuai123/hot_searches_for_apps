@@ -191,3 +191,9 @@
 
 + [【InternVL 1.5】最强开源多模态大模型（性能比肩GPT-4V）](https://blog.csdn.net/xiaobing259/article/details/139936800)
 
++ [畅谈GPT-5](https://blog.csdn.net/2302_79376097/article/details/139986116)
+
++ [基于SpringBoot+大数据爬虫+hive的旅游景点数据分析平台设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/139984807)
+
++ [ONLYOFFICE8.1版本桌面编辑器测评](https://blog.csdn.net/u014727709/article/details/139982927)
+

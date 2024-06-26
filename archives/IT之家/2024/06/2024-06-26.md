@@ -47,3 +47,5 @@
 
 + [贵 100 元，华为 Pura70 北斗卫星消息版手机售价曝光：12+512GB 售价 6099 元](https://m.ithome.com/html/777742.htm)
 
++ [东风本田猎光 e:NS2 轿跑上市：续航 545 公里、配 BOSE 音响系统，18.98 万元起](https://m.ithome.com/html/777643.htm)
+
