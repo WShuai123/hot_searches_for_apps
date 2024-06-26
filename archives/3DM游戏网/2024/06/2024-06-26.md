@@ -143,3 +143,49 @@
 
 + [网飞真人版《海贼王》第二季新增卡司公布](https://www.3dmgame.com/news/202406/3898167.html)
 
++ [日厂推出新型SFC互换掌机 直接插SFC卡带游玩](https://www.3dmgame.com/news/202406/3898192.html)
+
++ [《A Furry Tale - A night in Havena》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202406/3898191.html)
+
++ [《永劫无间》宣布联动多个游戏IP：《巫师3》、《古墓丽影》等](https://www.3dmgame.com/news/202406/3898190.html)
+
++ [《完蛋我被美女包围》手机版将上线 完美移植Steam本体](https://www.3dmgame.com/news/202406/3898189.html)
+
++ [HBO《绿灯侠》剧集确定开拍 类似《真探》长达8集](https://www.3dmgame.com/news/202406/3898193.html)
+
++ [前《命运》制作人：实时服务比全价游戏对玩家更好](https://www.3dmgame.com/news/202406/3898188.html)
+
++ [《暗黑破坏神4》或即将加入武器“霜之哀伤” 第五赛季上线](https://www.3dmgame.com/news/202406/3898187.html)
+
++ [《炼金术商店模拟器》Steam上线 体验炼金术师生活](https://www.3dmgame.com/news/202406/3898184.html)
+
++ [《最终幻想7：重制版》凯莉早期概念图 很撩人哟](https://www.3dmgame.com/news/202406/3898183.html)
+
++ [腾讯游戏暑期未成年人限玩日历 共23小时](https://www.3dmgame.com/news/202406/3898185.html)
+
++ [2D平台赛车游戏《霓虹骑士 经典》现已在Steam平台正式推出](https://www.3dmgame.com/news/202406/3898182.html)
+
++ [Mayla与《尼尔》动画联名推出高跟鞋 设计绝美！](https://www.3dmgame.com/news/202406/3898186.html)
+
++ [恐怖游戏《Super Dark Deception》Steam页面上线 7月12日发售](https://www.3dmgame.com/news/202406/3898181.html)
+
++ [《无尽的任务2》创意总监：现代MMO不再有社区凝聚力](https://www.3dmgame.com/news/202406/3898180.html)
+
++ [氪金模拟器《中国式网游》正式定档 7月19日发售](https://www.3dmgame.com/news/202406/3898172.html)
+
++ [微星RTX40《黑神话》联名款显卡曝光 印有帅气猴哥](https://www.3dmgame.com/news/202406/3898179.html)
+
++ [《刺客信条》《生化危机》手机移植版均以失败告终](https://www.3dmgame.com/news/202406/3898178.html)
+
++ [休闲游戏《爆炸猫2》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202406/3898177.html)
+
++ [《乱马1/2》宣布将制作完全新作动画 7月17日公布详情](https://www.3dmgame.com/news/202406/3898176.html)
+
++ [《潜行者：区域传奇 三部曲》更新 支持主机玩家使用MOD](https://www.3dmgame.com/news/202406/3898175.html)
+
++ [像素风格互动小说游戏《直到那时》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898174.html)
+
++ [北爱尔兰议会呼吁该国增江对游戏内赌博内容监管](https://www.3dmgame.com/news/202406/3898173.html)
+
++ [《最终幻想14》7.0补丁将为主机版添加120帧支持](https://www.3dmgame.com/news/202406/3898171.html)
+
