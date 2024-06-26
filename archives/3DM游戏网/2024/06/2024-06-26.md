@@ -271,3 +271,13 @@
 
 + [嫦娥六号返回器安全着陆 实现世界首次月球背面采样返回](https://www.3dmgame.com/news/202406/3898225.html)
 
++ [《Granblue Fantasy Versus: Rising》即将出展“Evo 2024”](https://www.3dmgame.com/news/202406/3898238.html)
+
++ [RTX40系列第四款 没想到它也变“心”：功耗增加10W](https://www.3dmgame.com/news/202406/3898239.html)
+
++ [复兴母校！《学园构想家》7月16日登陆主机平台！](https://www.3dmgame.com/news/202406/3898237.html)
+
++ [探索型 2D 和风动作游戏《波与月夜之青莲》NS数字版预约正式开始！](https://www.3dmgame.com/news/202406/3898236.html)
+
++ [开VIP还有SVIP 大结局再收费：视频平台吃相难看](https://www.3dmgame.com/news/202406/3898235.html)
+

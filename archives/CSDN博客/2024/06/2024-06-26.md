@@ -201,3 +201,5 @@
 
 + [数据处理神器Elasticsearch_Pipeline：原理、配置与实战指南](https://blog.csdn.net/a1657054242/article/details/139987285)
 
++ [【GPT-5 一年半后发布？对此你有何期待？】GPT-5：AI技术的新里程碑与我们的未来](https://blog.csdn.net/2302_78391795/article/details/139973309)
+

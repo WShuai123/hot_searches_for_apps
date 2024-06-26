@@ -63,3 +63,5 @@
 
 + [在过去 3 年中，有 2.8 亿人安装了危险的 Chrome 浏览器扩展程序](https://www.freebuf.com/news/404547.html)
 
++ [数据安全实践与探索 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/404487.html)
+
