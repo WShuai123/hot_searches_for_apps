@@ -41,3 +41,7 @@
 
 + [网安标委印发《数据安全技术 数据安全和个人信息保护社会责任指南》等2项标准](https://www.freebuf.com/news/404398.html)
 
++ [FreeBuf早报 | AI工具恶意应用榜单出炉；新加坡公民身份被盗的暗网活动激增230%](https://www.freebuf.com/news/404551.html)
+
++ [隐秘而又复杂的恶意软件：SSLoad](https://www.freebuf.com/articles/network/403682.html)
+

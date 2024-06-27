@@ -125,3 +125,9 @@
 
 + [对于GPT-5的些许期待](https://blog.csdn.net/ak2111/article/details/139934524)
 
++ [【AI 大模型】提示工程 ② ( 语言选择 - 英文更准确 | 自洽性 | 思维树 | 提示词正常输出 -＞ 思维链 -＞ 自洽性 -＞ 思维树 进化过程 | 提示词使用技巧 )](https://blog.csdn.net/han1202012/article/details/139808932)
+
++ [python数据可视化](https://blog.csdn.net/weixin_44774550/article/details/139966904)
+
++ [生命在于学习——Python人工智能原理（2.3.3）](https://blog.csdn.net/qq_15131581/article/details/139949863)
+

@@ -27,3 +27,9 @@
 
 + [2025 款宝马 M5 发布：搭载插电混动系统动力暴增，但零百加速略输上代](https://m.ithome.com/html/777673.htm)
 
++ [苹果：iPhone 保值率超出安卓手机至少 40% 且随时间不断增长](https://m.ithome.com/html/777926.htm)
+
++ [红魔首款游戏本 16 Pro 亮相 MWC24 上海展：一体金属工艺、RGB 灯效 LOGO](https://m.ithome.com/html/777825.htm)
+
++ [小米米家迪士尼公主限定吹风机官图亮相，明晚发布](https://m.ithome.com/html/777909.htm)
+
