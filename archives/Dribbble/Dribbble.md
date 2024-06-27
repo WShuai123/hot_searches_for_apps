@@ -49,3 +49,19 @@
 
 + [The Archer](https://dribbble.com/shots/)
 
++ [Heart of Africa](https://dribbble.com/shots/)
+
++ [Simms Fishing Products - Artist Series](https://dribbble.com/shots/)
+
++ [soccer](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [A Greek moment ????????](https://dribbble.com/shots/)
+
++ [Illustration [ work in progress ]](https://dribbble.com/shots/)
+
++ [Apple no.5](https://dribbble.com/shots/)
+
