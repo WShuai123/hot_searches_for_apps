@@ -177,3 +177,7 @@
 
 + [Fastly Free Accounts](https://www.producthunt.com/posts/fastly-free-accounts)
 
++ [ChatScreen: Sider 2.0 for iOS](https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios)
+
++ [ApyHub Fusion: The Modern API Client](https://www.producthunt.com/posts/apyhub-fusion-the-modern-api-client)
+

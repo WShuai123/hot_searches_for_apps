@@ -61,3 +61,5 @@
 
 + [MOVEit 又曝出高危漏洞，又要来一次供应链大事件？](https://www.freebuf.com/news/404635.html)
 
++ [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
+

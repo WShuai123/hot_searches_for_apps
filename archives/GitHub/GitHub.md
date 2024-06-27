@@ -25,3 +25,11 @@
 
 + [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
++ [snipe / snipe-it](https://github.com/snipe/snipe-it)
+
++ [leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton)
+
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
