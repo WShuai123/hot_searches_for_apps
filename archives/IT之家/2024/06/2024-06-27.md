@@ -45,3 +45,5 @@
 
 + [华为常务董事汪涛：今年将有 30 多款手机、CPE 全面支持 5G-A](https://m.ithome.com/html/777840.htm)
 
++ [中国广电内部人士：明年实现手机免流量看电视，兼容另三家运营商](https://m.ithome.com/html/778038.htm)
+

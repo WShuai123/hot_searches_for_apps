@@ -219,3 +219,13 @@
 
 + [第一人称恐怖对抗游戏《午夜凶杀俱乐部》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202406/3898285.html)
 
++ [《塞尔达传说：智慧的再现》成今年夏天加入愿望单最多的游戏](https://www.3dmgame.com/news/202406/3898311.html)
+
++ [中国广电内部人士：明年实现手机免流量看电视](https://www.3dmgame.com/news/202406/3898310.html)
+
++ [《龙之信条2》新补丁上线 增加及调整仓库功能](https://www.3dmgame.com/news/202406/3898308.html)
+
++ [《幻兽帕鲁》首个大型更新樱岛上线 新区域系统等级上限等](https://www.3dmgame.com/news/202406/3898309.html)
+
++ [粉丝不信邪故意留差评 却导致游戏错失“好评如潮”](https://www.3dmgame.com/news/202406/3898307.html)
+

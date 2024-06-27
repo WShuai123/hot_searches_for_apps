@@ -55,3 +55,7 @@
 
 + [现已修复！AirPods 最新固件曝出蓝牙漏洞，可能导致设备被窃听](https://www.freebuf.com/news/404605.html)
 
++ [SherlockChain：基于高级AI实现的智能合约安全分析框架](https://www.freebuf.com/sectool/404351.html)
+
++ [又曝出高危漏洞，MOVEit 紧急发补丁](https://www.freebuf.com/news/404635.html)
+

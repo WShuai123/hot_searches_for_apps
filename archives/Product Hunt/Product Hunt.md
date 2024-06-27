@@ -103,3 +103,57 @@
 
 + [Splice Create - Create w/ your own loop](https://www.producthunt.com/posts/splice-create-create-w-your-own-loop)
 
++ [Notionfy Landing Page Builder](https://www.producthunt.com/posts/notionfy-landing-page-builder)
+
++ [One Million Checkboxes](https://www.producthunt.com/posts/one-million-checkboxes)
+
++ [SeoRocket.ai](https://www.producthunt.com/posts/seorocket-ai)
+
++ [Figma Slides](https://www.producthunt.com/posts/figma-slides)
+
++ [Figma AI](https://www.producthunt.com/posts/figma-ai-2)
+
++ [thisorthis.ai](https://www.producthunt.com/posts/thisorthis-ai)
+
++ [Aire](https://www.producthunt.com/posts/aire-4)
+
++ [Puppy Platoon](https://www.producthunt.com/posts/puppy-platoon)
+
++ [ChatGPT For Mac](https://www.producthunt.com/posts/chatgpt-for-mac)
+
++ [Iago](https://www.producthunt.com/posts/iago-2)
+
++ [30characters](https://www.producthunt.com/posts/30characters)
+
++ [Knowledge Hub](https://www.producthunt.com/posts/knowledge-hub)
+
++ [BudCoder | WordPress Plugin Builder](https://www.producthunt.com/posts/budcoder-wordpress-plugin-builder)
+
++ [Glasp: Seamless Key Highlights to Notion](https://www.producthunt.com/posts/glasp-seamless-key-highlights-to-notion)
+
++ [Matcha: Matching Programs](https://www.producthunt.com/posts/matcha-matching-programs)
+
++ [Animated Auto Subtitles by Vmaker AI](https://www.producthunt.com/posts/animated-auto-subtitles-by-vmaker-ai)
+
++ [FlexRem 2.0 | Jobs](https://www.producthunt.com/posts/flexrem-2-0-jobs)
+
++ [Sheet Shifter](https://www.producthunt.com/posts/sheet-shifter)
+
++ [Siram](https://www.producthunt.com/posts/siram)
+
++ [Question Base](https://www.producthunt.com/posts/question-base-2)
+
++ [Semflow](https://www.producthunt.com/posts/semflow)
+
++ [MOFT Snap Note Stand](https://www.producthunt.com/posts/moft-snap-note-stand)
+
++ [ScoreMyDeck.Com](https://www.producthunt.com/posts/scoremydeck-com)
+
++ [Vizzu](https://www.producthunt.com/posts/vizzu-2)
+
++ [Dappier 2.0](https://www.producthunt.com/posts/dappier-2-0)
+
++ [Sider for iOS 2.0](https://www.producthunt.com/posts/sider-for-ios-2-0)
+
++ [ApyHub Fusion: A Notion-like API Client](https://www.producthunt.com/posts/apyhub-fusion-a-notion-like-api-client)
+
