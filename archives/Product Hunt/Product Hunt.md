@@ -157,3 +157,19 @@
 
 + [ApyHub Fusion: A Notion-like API Client](https://www.producthunt.com/posts/apyhub-fusion-a-notion-like-api-client)
 
++ [Memo - Confirm Read for Slack](https://www.producthunt.com/posts/memo-confirm-read-for-slack)
+
++ [Digipi 1.1](https://www.producthunt.com/posts/digipi-1-1)
+
++ [SheetsDB: Google Sheets to JSON API](https://www.producthunt.com/posts/sheetsdb-google-sheets-to-json-api)
+
++ [Study with GPT](https://www.producthunt.com/posts/study-with-gpt)
+
++ [Doc2Link](https://www.producthunt.com/posts/doc2link)
+
++ [Linguist Translate](https://www.producthunt.com/posts/linguist-translate)
+
++ [FAQ Generator for Your Website (Free)](https://www.producthunt.com/posts/faq-generator-for-your-website-free)
+
++ [ChatScreen: Sider for iOS 2.0](https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0)
+

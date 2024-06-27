@@ -229,3 +229,21 @@
 
 + [粉丝不信邪故意留差评 却导致游戏错失“好评如潮”](https://www.3dmgame.com/news/202406/3898307.html)
 
++ [美网红身陷恋童丑闻 2K删除《NBA 2K24》相关联动](https://www.3dmgame.com/news/202406/3898320.html)
+
++ [主播为挑战直播通关“黄金树之影”请来心理辅导加油打气](https://www.3dmgame.com/news/202406/3898319.html)
+
++ [《收获日3》将获得离线模式但仍需联网：仅为临时方案](https://www.3dmgame.com/news/202406/3898318.html)
+
++ [《龙珠：电光火石0》新角色预告 自在极意孙悟空登场](https://www.3dmgame.com/news/202406/3898316.html)
+
++ [《方块方舟》冰魔蝎登场，开启夏日狂欢，Steam夏季史低促销！](https://www.3dmgame.com/news/202406/3898317.html)
+
++ [《SUIKAWA LEAD》Steam上线 创意声控动作解谜](https://www.3dmgame.com/news/202406/3898315.html)
+
++ [《艾尔登法环：黄金树幽影》吸引近8成本体发布时玩家峰值](https://www.3dmgame.com/news/202406/3898314.html)
+
++ [卡牌游戏《Sigils of Nightfall》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3898313.html)
+
++ [汤姆·汉克斯和罗宾·怀特主演剧情电影《这里》首曝预告](https://www.3dmgame.com/news/202406/3898312.html)
+
