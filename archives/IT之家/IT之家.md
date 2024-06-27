@@ -63,3 +63,5 @@
 
 + [小米米家冷水壶上架：1.6L 容量、支持横放不漏水，79 元](https://m.ithome.com/html/778120.htm)
 
++ [华为 P40 / Mate 30、荣耀 30 / V30 系列等超 30 款设备获推鸿蒙 HarmonyOS 4.2 正式版：新增摇一摇权限管理、互动主题](https://m.ithome.com/html/778137.htm)
+
