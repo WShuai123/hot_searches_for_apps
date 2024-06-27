@@ -41,3 +41,5 @@
 
 + [vivo 和 iQOO 向 2024 巴黎奥运会中国国家队捐赠上千套手机、平板、手表、耳机等产品](https://m.ithome.com/html/777887.htm)
 
++ [iPad 保护壳价格设错损失一百多万，闪魔宣布正常发货：公司承担，不涉及运营个人](https://m.ithome.com/html/777983.htm)
+

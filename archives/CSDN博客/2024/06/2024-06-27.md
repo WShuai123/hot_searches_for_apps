@@ -145,3 +145,11 @@
 
 + [数学建模 —— MATLAB中的矩阵（下）](https://blog.csdn.net/fen_0108/article/details/139986260)
 
++ [列顺序占用存储大小的影响 in Oracle、MySQL、PostGreSQL](https://blog.csdn.net/weixin_tank88921/article/details/139968656)
+
++ [【机器学习】K-means++: 一种改进的聚类算法详解](https://blog.csdn.net/qq_44214428/article/details/140001968)
+
++ [Linux[高级管理]——Squid代理服务器的部署和应用(传统模式详解)](https://blog.csdn.net/jxjdhdnd/article/details/139917754)
+
++ [深度解析Elasticsearch索引数据量过大的优化与部署策略](https://blog.csdn.net/2201_75809246/article/details/139998146)
+
