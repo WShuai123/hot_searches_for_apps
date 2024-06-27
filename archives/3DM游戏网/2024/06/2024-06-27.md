@@ -175,3 +175,47 @@
 
 + [DNF手游国服iOS端赚2.7亿美元：怀旧情怀起作用](https://www.3dmgame.com/news/202406/3898276.html)
 
++ [官方澄清《蒸汽世界：劫掠2》首发不会加入XGP](https://www.3dmgame.com/news/202406/3898305.html)
+
++ [第一人称黑暗风格叙事游戏《CLICKOLDING》发售日宣布 7月16日推出](https://www.3dmgame.com/news/202406/3898301.html)
+
++ [回合制要素肉鸽地牢游戏《微小地牢》登录Steam平台 预计7月推出](https://www.3dmgame.com/news/202406/3898306.html)
+
++ [格斗游戏大会EVO 2024电竞史上规模最大 参赛选手破万](https://www.3dmgame.com/news/202406/3898304.html)
+
++ [《VR的女友》Steam页面上线 前I社资深员工开发](https://www.3dmgame.com/news/202406/3898302.html)
+
++ [黄仁勋：重工业在下一波AI浪潮中自动化时机成熟](https://www.3dmgame.com/news/202406/3898303.html)
+
++ [模拟游戏《泰西斯之潮》Steam页面上线 年内发售](https://www.3dmgame.com/news/202406/3898300.html)
+
++ [欧美5月参与度和收入榜：育碧《不羁联盟》热度大增](https://www.3dmgame.com/news/202406/3898298.html)
+
++ [哈佛公开新研究 外星人可能已生活在地球上](https://www.3dmgame.com/news/202406/3898297.html)
+
++ [V社公布Steam手柄使用统计数据：Xbox手柄最受欢迎](https://www.3dmgame.com/news/202406/3898295.html)
+
++ [《魔兽世界》正式服8月1日上线 “地心之战”8月27日全球同步上线](https://www.3dmgame.com/news/202406/3898294.html)
+
++ [小岛秀夫在寿司店拉弩哥入伙《死亡搁浅》时还未完成剧本](https://www.3dmgame.com/news/202406/3898293.html)
+
++ [华为坤灵M.2固态硬盘上线 512GB版本售价608元](https://www.3dmgame.com/news/202406/3898299.html)
+
++ [卡普空NEXT-Summer2024直播预告 7月2日6点开启](https://www.3dmgame.com/news/202406/3898296.html)
+
++ [《宝可梦GO》遭SBI毒手？更新后玩家外观被改 白人变黑人](https://www.3dmgame.com/news/202406/3898291.html)
+
++ [前R星首席编剧：从不能理解《GTA》为何要改编成电影](https://www.3dmgame.com/news/202406/3898292.html)
+
++ [古谷彻化身”阿姆罗“何去何从 万代表示慎重考虑中](https://www.3dmgame.com/news/202406/3898290.html)
+
++ [HBO《哈利波特》剧集主创和导演确定 2026年播出](https://www.3dmgame.com/news/202406/3898289.html)
+
++ [《黑帝斯2》抢先体验3号补丁上线 大量祝福效果改进](https://www.3dmgame.com/news/202406/3898287.html)
+
++ [《战锤40K：星际战士2》新截图 展示角色自定义界面](https://www.3dmgame.com/news/202406/3898286.html)
+
++ [《妮姬胜利女神》×《潜水员戴夫》双向联动宣传片 7月4日上线](https://www.3dmgame.com/news/202406/3898288.html)
+
++ [第一人称恐怖对抗游戏《午夜凶杀俱乐部》现已登录Steam平台 2024年第四季度推出](https://www.3dmgame.com/news/202406/3898285.html)
+

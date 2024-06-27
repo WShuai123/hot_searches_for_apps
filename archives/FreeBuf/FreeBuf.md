@@ -49,3 +49,9 @@
 
 + [渗透测试 | 黑白盒测试配合实战经验分享](https://www.freebuf.com/articles/web/404226.html)
 
++ [LockBit造谣，美联储数据并未遭窃](https://www.freebuf.com/news/404624.html)
+
++ [售价 15 万美元，影响 Linux 内核的 UAF 零日漏洞在暗网出售](https://www.freebuf.com/news/404615.html)
+
++ [现已修复！AirPods 最新固件曝出蓝牙漏洞，可能导致设备被窃听](https://www.freebuf.com/news/404605.html)
+

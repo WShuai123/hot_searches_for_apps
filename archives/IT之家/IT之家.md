@@ -35,3 +35,9 @@
 
 + [维修更自由：苹果宣布将增强 iPhone 对第三方显示屏和电池的支持](https://m.ithome.com/html/777934.htm)
 
++ [家长反映初中地理试卷出现多个涉华为题目，常州市教育局回应正调查](https://m.ithome.com/html/778024.htm)
+
++ [华为仓颉编程语言首批合作企业亮相：中国工商银行、中国移动、科蓝软件等在列](https://m.ithome.com/html/777894.htm)
+
++ [vivo 和 iQOO 向 2024 巴黎奥运会中国国家队捐赠上千套手机、平板、手表、耳机等产品](https://m.ithome.com/html/777887.htm)
+
