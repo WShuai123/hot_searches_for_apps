@@ -43,3 +43,5 @@
 
 + [iPad 保护壳价格设错损失一百多万，闪魔宣布正常发货：公司承担，不涉及运营个人](https://m.ithome.com/html/777983.htm)
 
++ [华为常务董事汪涛：今年将有 30 多款手机、CPE 全面支持 5G-A](https://m.ithome.com/html/777840.htm)
+
