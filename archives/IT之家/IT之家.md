@@ -33,3 +33,5 @@
 
 + [小米米家迪士尼公主限定吹风机官图亮相，明晚发布](https://m.ithome.com/html/777909.htm)
 
++ [维修更自由：苹果宣布将增强 iPhone 对第三方显示屏和电池的支持](https://m.ithome.com/html/777934.htm)
+

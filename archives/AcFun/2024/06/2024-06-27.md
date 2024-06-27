@@ -77,3 +77,5 @@
 
 + [電脳眠眠猫 / Riria【Cover】](http://www.acfun.cn/v/ac44923912)
 
++ [“几句台词放现在 真是遥遥领先”](http://www.acfun.cn/v/ac44923342)
+

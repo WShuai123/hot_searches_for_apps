@@ -145,3 +145,33 @@
 
 + [非公立未成年保护网游管理平台k-ID再获4500万美元融资](https://www.3dmgame.com/news/202406/3898265.html)
 
++ [BSx《极限竞速：Motorsport》携手共创，新一轮速度与激情的终极竞技之旅](https://www.3dmgame.com/news/202406/3898277.html)
+
++ [雅达利旗下Infogrames收购《外科模拟》系列IP](https://www.3dmgame.com/news/202406/3898279.html)
+
++ [《文艺复兴王国战争》7月15日EA发售 支持简体中文](https://www.3dmgame.com/news/202406/3898280.html)
+
++ [《重金属：地狱歌手 VR版》现已推出试玩Demo 2024年秋季发售](https://www.3dmgame.com/news/202406/3898278.html)
+
++ [《原神》雷电将军充能套装礼盒推出 售价369元](https://www.3dmgame.com/news/202406/3898281.html)
+
++ [宫崎英高：我们对《艾尔登法环》改编电影很感兴趣](https://www.3dmgame.com/news/202406/3898282.html)
+
++ [《The Adventurers》Steam页面上线 黑暗幻想风TRPG](https://www.3dmgame.com/news/202406/3898283.html)
+
++ [索尼新手柄专利文件公开：自定义布局使用电子墨水](https://www.3dmgame.com/news/202406/3898284.html)
+
++ [Xbox被取消云串流主机专利及外观设计遭曝光](https://www.3dmgame.com/news/202406/3898270.html)
+
++ [《潜水员戴夫》一周年庆，全新内容更新！](https://www.3dmgame.com/news/202406/3898271.html)
+
++ [《双子星传奇》新作上架Steam 30年经典回归](https://www.3dmgame.com/news/202406/3898272.html)
+
++ [《第一狂战士：卡赞》参加科隆展 提供线下试玩](https://www.3dmgame.com/news/202406/3898273.html)
+
++ [《辐射》创始人：想让我回归系列新作必须不无聊](https://www.3dmgame.com/news/202406/3898274.html)
+
++ [《漫威争锋》封闭B测7月24日开启 支持跨平台联机](https://www.3dmgame.com/news/202406/3898275.html)
+
++ [DNF手游国服iOS端赚2.7亿美元：怀旧情怀起作用](https://www.3dmgame.com/news/202406/3898276.html)
+

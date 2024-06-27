@@ -135,3 +135,7 @@
 
 + [Docker系列之安全](https://blog.csdn.net/J56793/article/details/139818061)
 
++ [工程化视角的 Kotlin Multiplatform核心解读及优化](https://blog.csdn.net/bilibili_TC/article/details/139938324)
+
++ [【InternVL 1.5】最强开源多模态大模型（性能比肩GPT-4V）](https://blog.csdn.net/xiaobing259/article/details/139936800)
+
