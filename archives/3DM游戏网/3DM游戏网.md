@@ -259,3 +259,17 @@
 
 + [《暗喻幻想：ReFantazio》特别节目ATLUS Exclusive预定于7月6日发布！](https://www.3dmgame.com/news/202406/3898321.html)
 
++ [《英雄传说：黎之轨迹2》Switch中文版反向跳票 8月16日发售](https://www.3dmgame.com/news/202406/3898330.html)
+
++ [《SPY×FAMILY 间谍过家家 日记大作战》今日上市！](https://www.3dmgame.com/news/202406/3898331.html)
+
++ [PS平台「机动战士高达 激战任务2 」「6周年前月祭」活动开始！](https://www.3dmgame.com/news/202406/3898332.html)
+
++ [《哈利波特》第一部封面拍卖成功 高达190万美元刷新预期](https://www.3dmgame.com/news/202406/3898333.html)
+
++ [正在远离游戏玩家 黄仁勋表示主业由游戏转至AI](https://www.3dmgame.com/news/202406/3898327.html)
+
++ [比5G快10倍！中国移动：年内将在300个城市实现5G-A商用部署](https://www.3dmgame.com/news/202406/3898328.html)
+
++ [美国担心玉兔轧了阿姆斯特朗的脚印 网友支招：再去一趟放个保护罩](https://www.3dmgame.com/news/202406/3898329.html)
+

@@ -59,3 +59,5 @@
 
 + [又曝出高危漏洞，MOVEit 紧急发补丁](https://www.freebuf.com/news/404635.html)
 
++ [MOVEit 又曝出高危漏洞，又要来一次供应链大事件？](https://www.freebuf.com/news/404635.html)
+

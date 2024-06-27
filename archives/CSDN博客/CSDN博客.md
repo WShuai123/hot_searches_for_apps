@@ -175,3 +175,7 @@
 
 + [【SpringBoot】SpringBoot使用mail实现登录邮箱验证](https://blog.csdn.net/qq_61024956/article/details/140011294)
 
++ [计算机必背单词——网络和安全](https://blog.csdn.net/hebtu666/article/details/139704966)
+
++ [玄机——第五章 linux实战-挖矿 wp](https://blog.csdn.net/administratorlws/article/details/139995863)
+

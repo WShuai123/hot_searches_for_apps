@@ -53,3 +53,7 @@
 
 + [领克 LYNK OS N 系统“答网友问”：01 / 03 / 05 / 06 车型预计 8 月推送 Flyme Link](https://m.ithome.com/html/777895.htm)
 
++ [小米 Redmi K70 至尊版手机预热：暑期档唯一支持 IP68 的旗舰](https://m.ithome.com/html/778075.htm)
+
++ [小米汽车预热“车载多彩氛围灯”新单品，明日上午 10 点上线](https://m.ithome.com/html/778040.htm)
+

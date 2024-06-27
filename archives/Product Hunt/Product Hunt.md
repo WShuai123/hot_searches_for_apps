@@ -173,3 +173,5 @@
 
 + [ChatScreen: Sider for iOS 2.0](https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0)
 
++ [Fin AI Copilot](https://www.producthunt.com/posts/fin-ai-copilot)
+
