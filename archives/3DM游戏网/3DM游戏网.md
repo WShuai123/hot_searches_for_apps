@@ -101,3 +101,9 @@
 
 + [小岛秀夫在寿司店拉弩哥入伙《死亡搁浅》时还未完成剧本](https://www.3dmgame.com/news/202406/3898293.html)
 
++ [模拟探索《米卡与魔女之山》8月21日发售 登陆PC/NS](https://www.3dmgame.com/news/202406/3898351.html)
+
++ [Epic喜加一：哥特恐怖RPG《无光之空》免费领取](https://www.3dmgame.com/news/202406/3898348.html)
+
++ [《路易吉洋馆2HD》模拟器版支持60帧 体验更佳](https://www.3dmgame.com/news/202406/3898350.html)
+

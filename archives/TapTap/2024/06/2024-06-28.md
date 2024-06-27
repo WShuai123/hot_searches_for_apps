@@ -21,3 +21,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [最后的勇者](https://www.taptap.cn/app/541603)
+
