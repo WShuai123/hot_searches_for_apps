@@ -107,3 +107,9 @@
 
 + [《路易吉洋馆2HD》模拟器版支持60帧 体验更佳](https://www.3dmgame.com/news/202406/3898350.html)
 
++ [《英雄传说：界之轨迹》预告释出 全新旅程即将开启](https://www.3dmgame.com/news/202406/3898354.html)
+
++ [Q版和风剑戟游戏《鬼谭》将于7月登陆主机平台](https://www.3dmgame.com/news/202406/3898353.html)
+
++ [育碧老总宣布计划重制多款经典刺客信条游戏](https://www.3dmgame.com/news/202406/3898352.html)
+
