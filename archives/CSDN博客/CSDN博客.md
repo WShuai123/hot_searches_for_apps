@@ -171,3 +171,7 @@
 
 + [【前端】实现时钟网页](https://blog.csdn.net/m0_74120525/article/details/139996971)
 
++ [Theta方法：一种时间序列分解与预测的简化方法](https://blog.csdn.net/m0_46510245/article/details/140005952)
+
++ [【SpringBoot】SpringBoot使用mail实现登录邮箱验证](https://blog.csdn.net/qq_61024956/article/details/140011294)
+

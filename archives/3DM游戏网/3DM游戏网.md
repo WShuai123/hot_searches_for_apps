@@ -247,3 +247,15 @@
 
 + [汤姆·汉克斯和罗宾·怀特主演剧情电影《这里》首曝预告](https://www.3dmgame.com/news/202406/3898312.html)
 
++ [今晚油价将迎年内第六涨：92号汽油可能重返8元时代](https://www.3dmgame.com/news/202406/3898325.html)
+
++ [维京背景回合TRPG《Norse》上架Steam 预定登陆多平台](https://www.3dmgame.com/news/202406/3898324.html)
+
++ [KK官方对战平台 怀旧专区福利送不停，快和老友一起重回洛丹伦的夏天！](https://www.3dmgame.com/news/202406/3898326.html)
+
++ [《月姬：重制版》PS4和Switch中文版正式发售 定价398港币](https://www.3dmgame.com/news/202406/3898323.html)
+
++ [Apple Arcade版《魔法气泡 益智消消乐》6月27日迎来第三次版本更新](https://www.3dmgame.com/news/202406/3898322.html)
+
++ [《暗喻幻想：ReFantazio》特别节目ATLUS Exclusive预定于7月6日发布！](https://www.3dmgame.com/news/202406/3898321.html)
+
