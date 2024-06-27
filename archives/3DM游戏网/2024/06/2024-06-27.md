@@ -273,3 +273,15 @@
 
 + [美国担心玉兔轧了阿姆斯特朗的脚印 网友支招：再去一趟放个保护罩](https://www.3dmgame.com/news/202406/3898329.html)
 
++ [Steam国产“类8番”游戏《永恒逃脱：暗影城堡》现已上架 ，将于7月12日发售](https://www.3dmgame.com/news/202406/3898338.html)
+
++ [百度网盘自研“短剧AI看“功能：1分钟轻松看50集](https://www.3dmgame.com/news/202406/3898339.html)
+
++ [童年回忆回归，《工业大亨4.0》——商业模拟游戏的新时代，将于2024年登陆PC！](https://www.3dmgame.com/news/202406/3898334.html)
+
++ [“好评如潮”可爱治愈贴纸DIY游戏《小小贴纸铺》推出免费内容更新](https://www.3dmgame.com/news/202406/3898335.html)
+
++ [末日生存城市建造游戏《末日地带2》新游戏预告片展示严峻世界](https://www.3dmgame.com/news/202406/3898336.html)
+
++ [《AILIMIT无限机兵》开发者日志：打造别具一格的后启示录废土世界](https://www.3dmgame.com/news/202406/3898337.html)
+

@@ -175,3 +175,5 @@
 
 + [Fin AI Copilot](https://www.producthunt.com/posts/fin-ai-copilot)
 
++ [Fastly Free Accounts](https://www.producthunt.com/posts/fastly-free-accounts)
+

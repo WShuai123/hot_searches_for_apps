@@ -57,3 +57,7 @@
 
 + [小米汽车预热“车载多彩氛围灯”新单品，明日上午 10 点上线](https://m.ithome.com/html/778040.htm)
 
++ [小米 15 Pro 手机亮点曝光：超大硅负极电池、单点超声波屏下指纹等](https://m.ithome.com/html/778094.htm)
+
++ [特斯拉中国被曝返聘部分被裁员工 ，收回 N+3 赔偿](https://m.ithome.com/html/778123.htm)
+
