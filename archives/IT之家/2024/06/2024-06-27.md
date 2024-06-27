@@ -65,3 +65,7 @@
 
 + [华为 P40 / Mate 30、荣耀 30 / V30 系列等超 30 款设备获推鸿蒙 HarmonyOS 4.2 正式版：新增摇一摇权限管理、互动主题](https://m.ithome.com/html/778137.htm)
 
++ [3199 元起，一加 Ace 3 Pro 手机发布：骁龙 8 Gen 3 处理器 + 6100mAh 冰川电池](https://m.ithome.com/html/778185.htm)
+
++ [2799 元起，一加平板 Pro 发布：骁龙 8 Gen 3 处理器 + 12.1 英寸 3K 屏](https://m.ithome.com/html/778170.htm)
+
