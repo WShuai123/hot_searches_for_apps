@@ -45,3 +45,7 @@
 
 + [隐秘而又复杂的恶意软件：SSLoad](https://www.freebuf.com/articles/network/403682.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
++ [渗透测试 | 黑白盒测试配合实战经验分享](https://www.freebuf.com/articles/web/404226.html)
+

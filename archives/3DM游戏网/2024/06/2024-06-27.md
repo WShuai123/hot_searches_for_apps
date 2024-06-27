@@ -135,3 +135,13 @@
 
 + [《暗喻幻想》地下城有多个难度 玩家可自由选择](https://www.3dmgame.com/news/202406/3898256.html)
 
++ [《极限竞速：地平线4》宣布将下架 玩家人数创历史新高](https://www.3dmgame.com/news/202406/3898269.html)
+
++ [Steam喜加一！益智游戏《真知之岛》免费领 原价110元](https://www.3dmgame.com/news/202406/3898266.html)
+
++ [《街头霸王》真人电影定档2026年3月20日 导演仍然待定](https://www.3dmgame.com/news/202406/3898268.html)
+
++ [《夜痕：被遗忘之神》新预告 土耳其版《魔法门黑暗弥塞亚》](https://www.3dmgame.com/news/202406/3898267.html)
+
++ [非公立未成年保护网游管理平台k-ID再获4500万美元融资](https://www.3dmgame.com/news/202406/3898265.html)
+

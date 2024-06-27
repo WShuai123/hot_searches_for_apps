@@ -75,3 +75,5 @@
 
 + [《本来当狗就烦...》](http://www.acfun.cn/v/ac44922717)
 
++ [電脳眠眠猫 / Riria【Cover】](http://www.acfun.cn/v/ac44923912)
+
