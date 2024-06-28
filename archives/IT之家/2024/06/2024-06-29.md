@@ -25,3 +25,5 @@
 
 + [开售两个多月立减 930 元：华为 Pura 70 Pro + 手机 512G 版 7069 元百亿补贴](https://m.ithome.com/html/778245.htm)
 
++ [美版手机解锁更轻松：FCC 规定运营商须在激活后 60 天内解锁，无论是苹果 iPhone 还是安卓](https://m.ithome.com/html/778450.htm)
+
