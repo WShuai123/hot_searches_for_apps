@@ -55,3 +55,5 @@
 
 + [stthjpv：一款针对JWT Payload的安全保护工具](https://www.freebuf.com/sectool/404385.html)
 
++ [网安标委发布《网络安全标准实践指南——大型互联网平台网络安全评估指南》](https://www.freebuf.com/news/404815.html)
+

@@ -51,3 +51,5 @@
 
 + [一加 100W 闪充移动电源发布：12000mAh 容量 + 45W 自充，首发 269 元](https://m.ithome.com/html/778189.htm)
 
++ [小米汽车：向锁单 SU7 等待 3 个月以上用户不定期赠送礼品](https://m.ithome.com/html/778357.htm)
+

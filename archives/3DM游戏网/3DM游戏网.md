@@ -271,3 +271,17 @@
 
 + [《生化危机》艾达王新手办赏 黑丝红裙性感诱人](https://www.3dmgame.com/news/202406/3898423.html)
 
++ [《三国志8 Remake》宣布参与BilibiliWorld 2024～](https://www.3dmgame.com/news/202406/3898439.html)
+
++ [PS5／PS4游戏《英雄传说界之轨迹-告别塞姆利亚-》最新游戏情报！](https://www.3dmgame.com/news/202406/3898435.html)
+
++ [BW 2024高能电玩节7月12日中午开启舞台直播](https://www.3dmgame.com/news/202406/3898440.html)
+
++ [NS《Love Live! 虹咲学园校园偶像同好会 心动闪耀的未来蓝图》亚洲中文版发售决定！](https://www.3dmgame.com/news/202406/3898438.html)
+
++ [《即刻离职》STEAM夏特期间限定8折优惠！同时公开两篇真人宣传影片](https://www.3dmgame.com/news/202406/3898437.html)
+
++ [杰仕登宣布《Hookah Haze》NS亚洲实体版将推出！周边商品于漫画博览会抢先贩售！](https://www.3dmgame.com/news/202406/3898436.html)
+
++ [《Rugby 25》Steam页面上线 国区售价233元](https://www.3dmgame.com/news/202406/3898434.html)
+

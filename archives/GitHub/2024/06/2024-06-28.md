@@ -25,3 +25,23 @@
 
 + [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
 
++ [microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [sampotts / plyr](https://github.com/sampotts/plyr)
+
++ [nlohmann / json](https://github.com/nlohmann/json)
+
++ [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [astral-sh / uv](https://github.com/astral-sh/uv)
+
++ [stacks-network / stacks-core](https://github.com/stacks-network/stacks-core)
+
++ [NVIDIA / NeMo](https://github.com/NVIDIA/NeMo)
+
++ [langfuse / langfuse](https://github.com/langfuse/langfuse)
+
