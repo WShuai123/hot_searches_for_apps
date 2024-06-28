@@ -25,3 +25,5 @@
 
 + [荣耀 CMO 姜海荣否认采用华为麒麟芯片：纯属胡扯！](https://m.ithome.com/html/778095.htm)
 
++ [1799 元，一加手表 2 正式发布：骁龙 W5 Gen 1 处理器 + 独立 eSIM](https://m.ithome.com/html/778173.htm)
+

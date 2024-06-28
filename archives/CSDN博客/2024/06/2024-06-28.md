@@ -121,3 +121,9 @@
 
 + [探索网络爬虫技术：原理、实践与挑战](https://blog.csdn.net/Jernnifer_mao/article/details/139989013)
 
++ [AI从业者怎么做Science？清华大学AIR周浩：从文本生成到蛋白质设计的跨界探索](https://blog.csdn.net/HyperAI/article/details/140009904)
+
++ [【RAG检索增强生成】深入探索检索增强生成（RAG）技术](https://blog.csdn.net/xiaobing259/article/details/139905208)
+
++ [Python爬虫实战之爬取京东商品数据](https://blog.csdn.net/zhou6343178/article/details/140023294)
+
