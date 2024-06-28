@@ -207,3 +207,5 @@
 
 + [《飙酷车神》在线MOD作者表示 要警惕厂商关闭老游戏服务器的趋势](https://www.3dmgame.com/news/202406/3898391.html)
 
++ [雅达利经典竞速游戏复活作《NeoSprint》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898402.html)
+
