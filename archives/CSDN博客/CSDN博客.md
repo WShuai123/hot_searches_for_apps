@@ -185,3 +185,9 @@
 
 + [网易游戏如何基于 Apache Doris 构建全新湖仓一体架构](https://blog.csdn.net/SelectDB_Fly/article/details/140045350)
 
++ [从@Param注解开始，深入了解 MyBatis 参数映射的原理](https://blog.csdn.net/u011709538/article/details/139993788)
+
++ [高考分数有限，专业与学校的抉择：你该怎么选？](https://blog.csdn.net/2301_79339087/article/details/140021278)
+
++ [Velero将aws集群迁移到更高版本](https://blog.csdn.net/a15849147618/article/details/140048469)
+

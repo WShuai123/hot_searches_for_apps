@@ -293,3 +293,5 @@
 
 + [蜜雪冰城回应新品被吐槽有脚臭味：独特气味 糯米清香](https://www.3dmgame.com/news/202406/3898443.html)
 
++ [FS：《艾尔登法环》PC版帧率问题和鼠标控制软件有关](https://www.3dmgame.com/news/202406/3898445.html)
+
