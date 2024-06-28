@@ -285,3 +285,11 @@
 
 + [《Rugby 25》Steam页面上线 国区售价233元](https://www.3dmgame.com/news/202406/3898434.html)
 
++ [苹果头显国行版开售：预约火爆但销量难评](https://www.3dmgame.com/news/202406/3898444.html)
+
++ [我国网购用户规模超9亿人：90后和00后成消费主力军](https://www.3dmgame.com/news/202406/3898442.html)
+
++ [《暗喻幻想：ReFantazio》参展Bilibili World 提供中国首次游戏试玩](https://www.3dmgame.com/news/202406/3898441.html)
+
++ [蜜雪冰城回应新品被吐槽有脚臭味：独特气味 糯米清香](https://www.3dmgame.com/news/202406/3898443.html)
+

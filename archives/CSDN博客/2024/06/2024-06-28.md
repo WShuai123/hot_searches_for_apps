@@ -181,3 +181,7 @@
 
 + [生命在于学习——Python人工智能原理（2.5.1）](https://blog.csdn.net/qq_15131581/article/details/140003841)
 
++ [深入探索Java开发世界：Redis~类型分析大揭秘](https://blog.csdn.net/qq_51601665/article/details/140045691)
+
++ [网易游戏如何基于 Apache Doris 构建全新湖仓一体架构](https://blog.csdn.net/SelectDB_Fly/article/details/140045350)
+
