@@ -141,3 +141,7 @@
 
 + [好帅的雾子！](http://www.acfun.cn/v/ac44932494)
 
++ [中国大陆知名爱国网红拍摄日本，人设崩塌，向公众道歉！](http://www.acfun.cn/v/ac44928802)
+
++ [June](http://www.acfun.cn/v/ac44934701)
+

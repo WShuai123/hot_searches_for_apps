@@ -191,3 +191,11 @@
 
 + [Velero将aws集群迁移到更高版本](https://blog.csdn.net/a15849147618/article/details/140048469)
 
++ [不止是只有维度建模，数据仓库还有Data Vault建模](https://blog.csdn.net/u012955829/article/details/140026097)
+
++ [笔记 - shell脚本](https://blog.csdn.net/STM32TSZ/article/details/140024335)
+
++ [HTML5与HTML：不仅仅是标签的革新](https://blog.csdn.net/weixin_68127493/article/details/140013506)
+
++ [如何避免爬取网站时IP被封？](https://blog.csdn.net/ygsqj/article/details/140024079)
+

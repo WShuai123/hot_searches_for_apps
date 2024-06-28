@@ -59,3 +59,5 @@
 
 + [华为 Pura 70 北斗卫星消息版手机采用麒麟 9010E 处理器](https://m.ithome.com/html/778427.htm)
 
++ [小米 14 / Pro / Ultra、Redmi K60 至尊版宣布开启澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/778440.htm)
+

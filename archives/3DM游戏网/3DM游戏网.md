@@ -295,3 +295,9 @@
 
 + [FS：《艾尔登法环》PC版帧率问题和鼠标控制软件有关](https://www.3dmgame.com/news/202406/3898445.html)
 
++ [莎拉·米歇尔·盖拉加盟《嗜血法医》前传《原罪》](https://www.3dmgame.com/news/202406/3898447.html)
+
++ [百度：文心一言用户规模已达3亿 单日最高调用5亿次](https://www.3dmgame.com/news/202406/3898448.html)
+
++ [《合金装备3：重制版》主创希望和小岛再次合作 将有4种不同的画风滤镜](https://www.3dmgame.com/news/202406/3898446.html)
+
