@@ -101,3 +101,9 @@
 
 + [Linux网络编程：套接字编程](https://blog.csdn.net/weixin_73234157/article/details/139325103)
 
++ [【AI落地应用实战】如何让扫描工具更会思考——智能高清滤镜2.0实战测评](https://blog.csdn.net/air__Heaven/article/details/140021905)
+
++ [使用QGIS进行研究区域制图实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/140025433)
+
++ [GPT-5的即将登场](https://blog.csdn.net/2401_85655948/article/details/139985867)
+
