@@ -169,3 +169,11 @@
 
 + [【数据采集】亮数据浏览器、亮网络解锁器实战指南](https://blog.csdn.net/Qingai521/article/details/140033562)
 
++ [Oracle新特性速递：未来数据库技术的无限可能](https://blog.csdn.net/qq_32682301/article/details/140039708)
+
++ [MySQL 高级SQL语句](https://blog.csdn.net/lxplxplike/article/details/139819745)
+
++ [什么是 Azure OpenAI?](https://blog.csdn.net/gongdiwudu/article/details/139908651)
+
++ [只会Vue的我，一入职就让用React，用了这个工具库，我依然高效](https://blog.csdn.net/xingyu_qie/article/details/140038213)
+

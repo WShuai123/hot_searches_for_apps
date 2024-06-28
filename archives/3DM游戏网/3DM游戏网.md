@@ -233,3 +233,19 @@
 
 + [未来游戏展8月21日科隆展期间举行新一期发布会](https://www.3dmgame.com/news/202406/3898405.html)
 
++ [东风本田怒喷国产新能源车 安全差质量以次充好割韭菜背后：中国销量暴跌](https://www.3dmgame.com/news/202406/3898421.html)
+
++ [《龙之信条2》开启首次折扣 本体可免费试玩2小时](https://www.3dmgame.com/news/202406/3898422.html)
+
++ [CDPR与宝马合作打造《巫师3》摩托 杰洛特新坐骑超酷](https://www.3dmgame.com/news/202406/3898420.html)
+
++ [黑客潜入游戏《演灭》 国区Steam售价98元 9月13日发售](https://www.3dmgame.com/news/202406/3898419.html)
+
++ [这款国产模拟经营游戏 能打造最二次元的奇幻古堡](https://www.3dmgame.com/news/202406/3898418.html)
+
++ [KK官方对战平台 老兵集结令，来测测你的魔兽本命英雄！](https://www.3dmgame.com/news/202406/3898417.html)
+
++ [“狼叔”主演吸血鬼电影《范海辛》上映20年后将推出改编剧集](https://www.3dmgame.com/news/202406/3898416.html)
+
++ [宫崎英高：《艾尔登法环》可能已经是FS社的极限了](https://www.3dmgame.com/news/202406/3898415.html)
+
