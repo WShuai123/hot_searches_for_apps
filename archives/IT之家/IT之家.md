@@ -45,3 +45,9 @@
 
 + [小米 MIX 5 手机有望采用全域高分屏下前摄，配备 Unibody 全陶瓷机身](https://m.ithome.com/html/778300.htm)
 
++ [29999 元起，苹果 Vision Pro 头显国行今日 8 时正式首销](https://m.ithome.com/html/778217.htm)
+
++ [字节跳动剪映推出 SVIP 超级会员：连续包年 499 元，提供多种 AI 功能](https://m.ithome.com/html/778162.htm)
+
++ [一加 100W 闪充移动电源发布：12000mAh 容量 + 45W 自充，首发 269 元](https://m.ithome.com/html/778189.htm)
+

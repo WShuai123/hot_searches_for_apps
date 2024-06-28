@@ -249,3 +249,25 @@
 
 + [宫崎英高：《艾尔登法环》可能已经是FS社的极限了](https://www.3dmgame.com/news/202406/3898415.html)
 
++ [《失眠的羊与孤独的狼》与《失眠的羊与孤独的狼《外传》》中文版将于2024年正式发售！](https://www.3dmgame.com/news/202406/3898433.html)
+
++ [Shiravune夏日特卖6月28日开启！最低2折起！](https://www.3dmgame.com/news/202406/3898431.html)
+
++ [由mirai制作的角色扮演游戏《宿星的女朋友3》中文版正式发售](https://www.3dmgame.com/news/202406/3898432.html)
+
++ [生存模拟《中世纪王朝》新多人合作模式和地图现已登陆主机平台](https://www.3dmgame.com/news/202406/3898430.html)
+
++ [《灾难乐队》推出PC版更新，并将于2024年7月11日登陆主机平台](https://www.3dmgame.com/news/202406/3898429.html)
+
++ [独立发行商Toplitz Productions宣布参加年度大促Steam夏季特卖，生存游戏打包狂甩](https://www.3dmgame.com/news/202406/3898428.html)
+
++ [微恐向青春校园解密独游《晨海星澜-追忆篇》-- 今日正式发售！](https://www.3dmgame.com/news/202406/3898427.html)
+
++ [马斯克SpaceX获美国宇航局61亿重任！牵引国际空间站“坠”入太平洋](https://www.3dmgame.com/news/202406/3898426.html)
+
++ [《黑神话》WeGame兑换码在闲鱼仅售100多元 价格崩了？](https://www.3dmgame.com/news/202406/3898425.html)
+
++ [TP-Link首款Wi-Fi 7游戏路由器发售 售价600美元](https://www.3dmgame.com/news/202406/3898424.html)
+
++ [《生化危机》艾达王新手办赏 黑丝红裙性感诱人](https://www.3dmgame.com/news/202406/3898423.html)
+
