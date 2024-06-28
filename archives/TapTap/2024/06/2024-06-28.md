@@ -23,3 +23,5 @@
 
 + [最后的勇者](https://www.taptap.cn/app/541603)
 
++ [鸣潮](https://www.taptap.cn/app/234280)
+
