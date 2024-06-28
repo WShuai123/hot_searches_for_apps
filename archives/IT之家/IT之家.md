@@ -27,3 +27,9 @@
 
 + [1799 元，一加手表 2 正式发布：骁龙 W5 Gen 1 处理器 + 独立 eSIM](https://m.ithome.com/html/778173.htm)
 
++ [吉利新博越 SUV 上市：1.5TD 四缸发动机、标配全景影像，限时 8.78 万元起](https://m.ithome.com/html/778191.htm)
+
++ [华为 120Hz 高刷千元平板：MatePad SE 新品曝光，骁龙 685、7700mAh 电池](https://m.ithome.com/html/778139.htm)
+
++ [今晚国内油价上调，加满一箱 92 号汽油多花 8 元](https://m.ithome.com/html/778141.htm)
+
