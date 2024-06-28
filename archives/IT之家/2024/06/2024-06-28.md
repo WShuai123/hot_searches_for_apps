@@ -33,3 +33,5 @@
 
 + [今晚国内油价上调，加满一箱 92 号汽油多花 8 元](https://m.ithome.com/html/778141.htm)
 
++ [小米汽车推出 SU7 智能底盘氛围灯：驻车 / P 挡时可点亮 6 色灯效，999 元](https://m.ithome.com/html/778237.htm)
+

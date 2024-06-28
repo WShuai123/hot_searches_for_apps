@@ -151,3 +151,15 @@
 
 + [CSS的媒体查询：响应式布局的利器](https://blog.csdn.net/fox9916/article/details/140020434)
 
++ [【AI落地应用实战】如何让扫描工具更会思考——智能高清滤镜2.0实战测评](https://blog.csdn.net/air__Heaven/article/details/140021905)
+
++ [【机器学习】高斯混合模型（Gaussian Mixture Models, GMM）深度解析](https://blog.csdn.net/qq_44214428/article/details/140001995)
+
++ [万物皆可爬——亮数据代理IP+Python爬虫批量下载百度图片助力AI训练](https://blog.csdn.net/qq_44273429/article/details/140033339)
+
++ [【云计算】阿里云、腾讯云、华为云RocketMQ、Kafka、RabbitMq消息队列对比](https://blog.csdn.net/qq_37822090/article/details/140013051)
+
++ [linux的安全技术和防火墙](https://blog.csdn.net/Alone8046/article/details/139976054)
+
++ [微软Edge浏览器全解析](https://blog.csdn.net/weixin_48579910/article/details/140009476)
+

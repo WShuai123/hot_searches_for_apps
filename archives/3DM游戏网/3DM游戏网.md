@@ -209,3 +209,7 @@
 
 + [雅达利经典竞速游戏复活作《NeoSprint》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898402.html)
 
++ [《合金装备》今晚举行直播 开发者亲自公布系列最新情报](https://www.3dmgame.com/news/202406/3898403.html)
+
++ [热血动漫改编同名动画《防风铃》第二季预告片放出 2025年播出](https://www.3dmgame.com/news/202406/3898404.html)
+

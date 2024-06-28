@@ -105,3 +105,33 @@
 
 + [AiTerm](https://www.producthunt.com/posts/aiterm)
 
++ [Profile Picture Resizer](https://www.producthunt.com/posts/profile-picture-resizer)
+
++ [Where Money](https://www.producthunt.com/posts/where-money)
+
++ [GPUDeploy](https://www.producthunt.com/posts/gpudeploy)
+
++ [Dinners App](https://www.producthunt.com/posts/dinners-app)
+
++ [SmartGrip](https://www.producthunt.com/posts/smartgrip)
+
++ [AutoJobs](https://www.producthunt.com/posts/autojobs-2)
+
++ [TestDataHub](https://www.producthunt.com/posts/testdatahub)
+
++ [Blockchain Links and Solana Actions](https://www.producthunt.com/posts/blockchain-links-and-solana-actions)
+
++ [Scoopika Platform](https://www.producthunt.com/posts/scoopika-platform-2)
+
++ [Calen](https://www.producthunt.com/posts/calen)
+
++ [X Model](https://www.producthunt.com/posts/x-model)
+
++ [Claude Projects](https://www.producthunt.com/posts/claude-projects)
+
++ [Briefy](https://www.producthunt.com/posts/briefy-2)
+
++ [Snapceipt](https://www.producthunt.com/posts/snapceipt)
+
++ [Hi.Events](https://www.producthunt.com/posts/hi-events)
+
