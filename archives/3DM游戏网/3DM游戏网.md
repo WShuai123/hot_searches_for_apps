@@ -101,3 +101,5 @@
 
 + [雅达利经典竞速游戏复活作《NeoSprint》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898402.html)
 
++ [《恩诺提利亚：终曲》实体版由Fireshine Games发行](https://www.3dmgame.com/news/202406/3898452.html)
+

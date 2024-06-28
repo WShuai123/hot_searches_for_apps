@@ -49,3 +49,29 @@
 
 + [Illustration [ work in progress ]](https://dribbble.com/shots/)
 
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [腐った](https://dribbble.com/shots/)
+
++ [Dave Matthews Band 2024 US Summer Tour Poster](https://dribbble.com/shots/)
+
++ [Gentry Brand - Branding](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [Logo concept for "Nashe Mesto"](https://dribbble.com/shots/)
+
++ [I know what you did last shandy](https://dribbble.com/shots/)
+
++ [Give me the money!](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [LIFE](https://dribbble.com/shots/)
+
++ [Blue Ribbon Beer Branding Design](https://dribbble.com/shots/)
+
++ [Accelerate ESG](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
