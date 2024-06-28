@@ -145,3 +145,15 @@
 
 + [June](http://www.acfun.cn/v/ac44934701)
 
++ [【挑战征集令】2:37 速通 【双月骑士·蕾菈娜】](http://www.acfun.cn/v/ac44935190)
+
++ [将自热军粮做成米其林餐厅那种吃不起的样子](http://www.acfun.cn/v/ac44933103)
+
++ [Acer们来开盲盒啦！！！欢乐八点档-964](http://www.acfun.cn/v/ac44933177)
+
++ [【东方/考古】南无三的超人筋肉革命【MMD 动画再现】](http://www.acfun.cn/v/ac44926703)
+
++ [单曲循环了很久的歌！打上花火](http://www.acfun.cn/v/ac44934747)
+
++ [【奥雷】这部台湾大杂烩电影实在太搞了！我无法用言语表达！《三头魔王》](http://www.acfun.cn/v/ac44934593)
+

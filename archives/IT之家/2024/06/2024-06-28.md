@@ -61,3 +61,9 @@
 
 + [小米 14 / Pro / Ultra、Redmi K60 至尊版宣布开启澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/778440.htm)
 
++ [华为 Pura 70 北斗卫星消息版来袭：售价 5599 元起](https://m.ithome.com/html/778269.htm)
+
++ [开售两个多月立减 930 元：华为 Pura 70 Pro + 手机 512G 版 7069 元百亿补贴](https://m.ithome.com/html/778245.htm)
+
++ [消息称小米 SU7 汽车本月交付量首次破万，全年将冲刺 12 万台](https://m.ithome.com/html/778324.htm)
+

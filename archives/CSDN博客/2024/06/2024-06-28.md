@@ -199,3 +199,9 @@
 
 + [如何避免爬取网站时IP被封？](https://blog.csdn.net/ygsqj/article/details/140024079)
 
++ [【AI 大模型】大模型应用架构 ( 业务架构 - AI Embedded、AI Copilot、AI Agent | 技术架构 - 提示词、代理 + 函数调用、RAG、Fine-tuning )](https://blog.csdn.net/han1202012/article/details/140043933)
+
++ [3D立体卡片动效（附源码）](https://blog.csdn.net/qq_41115965/article/details/140034704)
+
++ [深入剖析 Android 网络开源库 Retrofit 的源码详解](https://blog.csdn.net/u010347226/article/details/139829558)
+
