@@ -139,3 +139,11 @@
 
 + [计算机必背单词——数据库性能相关](https://blog.csdn.net/hebtu666/article/details/139705068)
 
++ [Google 深夜突袭，Gemma 2 狂卷 Llama 3](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140032632)
+
++ [【Matlab】-- 飞蛾扑火优化算法](https://blog.csdn.net/wangshuqian1314/article/details/140054242)
+
++ [只会Vue的我，一入职就让用React，用了这个工具库，我依然高效](https://blog.csdn.net/xingyu_qie/article/details/140038213)
+
++ [【Linux】Wmware Esxi磁盘扩容](https://blog.csdn.net/qq_35995514/article/details/139983762)
+

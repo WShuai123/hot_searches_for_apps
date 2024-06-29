@@ -31,3 +31,5 @@
 
 + [【IT之家评测室】120 满帧的性能巨兽：一加 Ace 3 Pro 手机上手](https://m.ithome.com/html/778419.htm)
 
++ [中国信通院：华为 HarmonyOS NEXT 推动提升终端侧隐私和生态管控能力，进一步加强用户个人信息保护](https://m.ithome.com/html/778420.htm)
+
