@@ -187,3 +187,15 @@
 
 + [Xbox主机或即将添加英伟达GeForce Now云游戏功能](https://www.3dmgame.com/news/202406/3898493.html)
 
++ [《艾尔登法环》小壶迷你手办欣赏 11月下旬起发售](https://www.3dmgame.com/news/202406/3898495.html)
+
++ [Insomniac公开回应称无意推出《日落过载》PS5版](https://www.3dmgame.com/news/202406/3898496.html)
+
++ [亚马逊：《古墓丽影》游戏新作和真人剧集无关](https://www.3dmgame.com/news/202406/3898497.html)
+
++ [《指环王：力量之戒》第二季新剧照 索隆化身为精灵安纳塔](https://www.3dmgame.com/news/202406/3898498.html)
+
++ [《WWE 2K24》新升级补丁导致游戏问题频发](https://www.3dmgame.com/news/202406/3898499.html)
+
++ [《艾尔登法环》梅瑟莫建模视频 大蛇穿透身体很恐怖](https://www.3dmgame.com/news/202406/3898500.html)
+
