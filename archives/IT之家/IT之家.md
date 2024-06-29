@@ -25,3 +25,5 @@
 
 + [欧盟委员会竞争专员：对苹果不将 Apple Intelligence 引入欧盟的决定感到震惊](https://m.ithome.com/html/778481.htm)
 
++ [中国品牌强势崛起，丰田汽车全球产量已连续四个月下滑](https://m.ithome.com/html/778575.htm)
+

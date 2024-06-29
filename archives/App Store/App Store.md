@@ -201,3 +201,9 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+
++ [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
