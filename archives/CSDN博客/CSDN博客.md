@@ -157,3 +157,15 @@
 
 + [竞赛选题 python区块链实现 - proof of work工作量证明共识算法](https://blog.csdn.net/m0_43533/article/details/140009316)
 
++ [【MySQL】用户管理](https://blog.csdn.net/fight_p/article/details/139508138)
+
++ [扫描全能王智能高清滤镜2.0全新来袭，更会思考、更会处理](https://blog.csdn.net/weixin_50843918/article/details/140060255)
+
++ [Ownips 静态IP代理：跨境电商的最佳伙伴](https://blog.csdn.net/xqe777/article/details/140051575)
+
++ [k8s架构设计思想](https://blog.csdn.net/m0_51586984/article/details/139996571)
+
++ [前端vue使用onlyoffice控件实现word在线编辑、预览（仅列出前端部分需要做的工作，不包含后端部分）](https://blog.csdn.net/qq_42611074/article/details/140048077)
+
++ [计算机网络 —— 路由协议：RIP、OSPF、BGP、MPLS](https://blog.csdn.net/apr15/article/details/139900408)
+

@@ -39,3 +39,5 @@
 
 + [百度地图 V20 上线比亚迪应用商店：支持手车互联、新车道级导航等](https://m.ithome.com/html/778459.htm)
 
++ [华为 MatePad 11.5''S 灵动版平板获推鸿蒙 HarmonyOS 4.2.0.130：新增多设备任务中心](https://m.ithome.com/html/778442.htm)
+

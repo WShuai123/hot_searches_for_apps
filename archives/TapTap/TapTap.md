@@ -23,3 +23,5 @@
 
 + [蛋仔派对](https://www.taptap.cn/app/206776)
 
++ [原神](https://www.taptap.cn/app/168332)
+
