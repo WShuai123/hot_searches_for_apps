@@ -205,3 +205,11 @@
 
 + [YOLO 在OPENCV QT上如何使用？](https://blog.csdn.net/eydj2008/article/details/140033103)
 
++ [卷积神经网络](https://blog.csdn.net/2302_76516899/article/details/140053828)
+
++ [计算机网络知识整理笔记](https://blog.csdn.net/weixin_44187963/article/details/140046322)
+
++ [C++——探索智能指针的设计原理](https://blog.csdn.net/strive_mianyang/article/details/140025424)
+
++ [Python数据分析案例47——笔记本电脑价格影响因素分析](https://blog.csdn.net/weixin_46277779/article/details/140060836)
+

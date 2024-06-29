@@ -211,3 +211,5 @@
 
 + [世嘉因重组欧洲业务和取消游戏 亏损4100万美元](https://www.3dmgame.com/news/202406/3898501.html)
 
++ [苹果正在为廉价版Vision Pro寻找屏幕 已向LG和三星发送信息请求](https://www.3dmgame.com/news/202406/3898507.html)
+

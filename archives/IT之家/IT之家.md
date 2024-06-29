@@ -53,3 +53,11 @@
 
 + [丰田汽车酝酿“4 天工作制”：薪资水平不变、影响 3.8 万名员工，最快年内推行](https://m.ithome.com/html/778489.htm)
 
++ [华为余承东参加母校毕业典礼，“西北工业大学是我一生最正确的选择”](https://m.ithome.com/html/778579.htm)
+
++ [腾讯课堂 8 月 1 日起停止所有在线课程访问服务，10 月 1 日停止运营](https://m.ithome.com/html/778533.htm)
+
++ [消息称 OPPO Find X8 手机采用 6.5 英寸 1.5K LTPO 直屏，50Mp 索尼大底三摄](https://m.ithome.com/html/778449.htm)
+
++ [起诉杨永信的周齐，停在谷底](https://m.ithome.com/html/778520.htm)
+
