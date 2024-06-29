@@ -179,3 +179,11 @@
 
 + [《绝区零》×《街霸6》制作人对谈 《绝区零》7月4日公测](https://www.3dmgame.com/news/202406/3898482.html)
 
++ [鬼谷新作《上古河图》明年Q1发售 第二次测试7月19日开启](https://www.3dmgame.com/news/202406/3898494.html)
+
++ [《极限竞速：Motorsport》更新档悄然进行画质升级](https://www.3dmgame.com/news/202406/3898491.html)
+
++ [《橄榄球24》跳票太久所以直接改名《橄榄球25》](https://www.3dmgame.com/news/202406/3898492.html)
+
++ [Xbox主机或即将添加英伟达GeForce Now云游戏功能](https://www.3dmgame.com/news/202406/3898493.html)
+

@@ -189,3 +189,7 @@
 
 + [一个去掉PDF背景水印的思路](https://blog.csdn.net/waitdeng/article/details/140003003)
 
++ [BLACKBOX.AI：解锁编程学习新纪元，加速开发的AI得力助手](https://blog.csdn.net/2201_75539691/article/details/140051801)
+
++ [Transformer 能代替图神经网络吗?](https://blog.csdn.net/m0_46510245/article/details/140059614)
+
