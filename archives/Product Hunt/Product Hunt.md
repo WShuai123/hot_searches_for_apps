@@ -109,3 +109,21 @@
 
 + [FlexRem 2.0](https://www.producthunt.com/posts/flexrem-2-0)
 
++ [InlineGPT](https://www.producthunt.com/posts/inlinegpt)
+
++ [Chrono Piano](https://www.producthunt.com/posts/chrono-piano)
+
++ [Bequeath.app](https://www.producthunt.com/posts/bequeath-app)
+
++ [Sappelin](https://www.producthunt.com/posts/sappelin)
+
++ [Quizive](https://www.producthunt.com/posts/quizive)
+
++ [NotchNook](https://www.producthunt.com/posts/notchnook)
+
++ [DepsAudit](https://www.producthunt.com/posts/depsaudit)
+
++ [novelistAI 2.5](https://www.producthunt.com/posts/novelistai-2-5)
+
++ [Teache](https://www.producthunt.com/posts/teache)
+

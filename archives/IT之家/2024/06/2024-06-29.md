@@ -41,3 +41,7 @@
 
 + [华为 MatePad 11.5''S 灵动版平板获推鸿蒙 HarmonyOS 4.2.0.130：新增多设备任务中心](https://m.ithome.com/html/778442.htm)
 
++ [美版手机解锁更轻松：FCC 规定运营商须在激活 60 天内解锁，无论是苹果 iPhone 还是安卓](https://m.ithome.com/html/778450.htm)
+
++ [小米汽车 App 更新 1.4.0 版本：新增地图展示手机方位](https://m.ithome.com/html/778441.htm)
+
