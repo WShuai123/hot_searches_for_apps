@@ -105,3 +105,21 @@
 
 + [Jenkins - Python 虚拟环境](https://blog.csdn.net/wumingxiaoyao/article/details/140064934)
 
++ [【Python系列】Python 中循环依赖问题及其解决方案](https://blog.csdn.net/qyj19920704/article/details/140029408)
+
++ [计算机Java项目｜基于SpringBoot的学院班级回忆录](https://blog.csdn.net/whirlwind526/article/details/140060438)
+
++ [Spring Boot中如何实现邮件发送功能](https://blog.csdn.net/qq836869520/article/details/140008745)
+
++ [【专业英语 背诵】3](https://blog.csdn.net/m0_69194031/article/details/140052492)
+
++ [添加用户页面（Flask+前端+MySQL整合）](https://blog.csdn.net/m0_47002684/article/details/140053894)
+
++ [SpringBoot 3.3.1 + Minio 实现极速上传和预览模式](https://blog.csdn.net/weimeilayer/article/details/140042474)
+
++ [css 流动边框](https://blog.csdn.net/Pure_White520/article/details/140041492)
+
++ [Linux 的启动流程](https://blog.csdn.net/qq_55914897/article/details/140037224)
+
++ [【网络架构】keepalive](https://blog.csdn.net/qq_56950352/article/details/140040173)
+
