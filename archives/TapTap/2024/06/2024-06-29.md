@@ -27,3 +27,5 @@
 
 + [小小仙王](https://www.taptap.cn/app/649461)
 
++ [摄影师模拟](https://www.taptap.cn/app/243523)
+

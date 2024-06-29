@@ -161,3 +161,21 @@
 
 + [《死神：勇敢的灵魂》Switch版确认7月11日发售](https://www.3dmgame.com/news/202406/3898481.html)
 
++ [新作《Alkahest》预告引争议：《浩劫前夕》2.0？](https://www.3dmgame.com/news/202406/3898489.html)
+
++ [45亿年历史陨石打造 欧空局3D打印出乐高太空积木](https://www.3dmgame.com/news/202406/3898490.html)
+
++ [美国Q1销量最好PC品牌排名出炉：与中国市场很不一样](https://www.3dmgame.com/news/202406/3898488.html)
+
++ [《博德之门3》夏促史低价格销售 八折入手年度最佳游戏](https://www.3dmgame.com/news/202406/3898487.html)
+
++ [开发者乱填配置不慎传到商店：需两千个仓鼠大脑显卡](https://www.3dmgame.com/news/202406/3898486.html)
+
++ [《Concord》强绑PSN账号：为了让玩家聚在一起](https://www.3dmgame.com/news/202406/3898485.html)
+
++ [腾讯又一业务宣布停运 安卓、苹果商店已无法搜到](https://www.3dmgame.com/news/202406/3898484.html)
+
++ [《合金装备3：重制版》迷彩伪装效果切换菜单公布](https://www.3dmgame.com/news/202406/3898483.html)
+
++ [《绝区零》×《街霸6》制作人对谈 《绝区零》7月4日公测](https://www.3dmgame.com/news/202406/3898482.html)
+

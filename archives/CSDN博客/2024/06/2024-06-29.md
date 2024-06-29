@@ -181,3 +181,11 @@
 
 + [k8s集群node节点加入失败](https://blog.csdn.net/weixin_45309589/article/details/140025245)
 
++ [完全离线的本地问答模型LocalGPT如何实现无公网IP远程连接提问](https://blog.csdn.net/2301_79558858/article/details/140060812)
+
++ [探索区块链：颠覆性技术的崛起](https://blog.csdn.net/2301_79181030/article/details/140054035)
+
++ [【高考志愿】计算机](https://blog.csdn.net/xiaoyingxixi1989/article/details/139994901)
+
++ [一个去掉PDF背景水印的思路](https://blog.csdn.net/waitdeng/article/details/140003003)
+
