@@ -213,3 +213,9 @@
 
 + [Python数据分析案例47——笔记本电脑价格影响因素分析](https://blog.csdn.net/weixin_46277779/article/details/140060836)
 
++ [MySQL 主从复制集群高可用](https://blog.csdn.net/Vince15dvd/article/details/140017937)
+
++ [C会区块链论文速读-TrustCom 2023（5/6）大语言模型和区块链如何结合？](https://blog.csdn.net/u013288190/article/details/140053260)
+
++ [linux 系统引导过程](https://blog.csdn.net/xw2441176267/article/details/140033415)
+

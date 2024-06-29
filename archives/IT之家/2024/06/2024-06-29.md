@@ -63,3 +63,5 @@
 
 + [首发麒麟 9010E 处理器，华为 Pura 70 北斗卫星消息版现身 Geekbench 6](https://m.ithome.com/html/778566.htm)
 
++ [小米米家胶囊咖啡机 N1 上架：一键萃取、杯量记忆，首发 379 元](https://m.ithome.com/html/778517.htm)
+
