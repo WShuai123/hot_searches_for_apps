@@ -125,3 +125,7 @@
 
 + [琳妮特 Forgive Me](http://www.acfun.cn/v/ac44934948)
 
++ [重庆巫山美食，山顶老火锅，红油大桥鸡，阿星坐船游小三峡](http://www.acfun.cn/v/ac44938128)
+
++ [全文：特朗普vs拜登 2024年首场电视辩论 (完整无删节)](http://www.acfun.cn/v/ac44935232)
+

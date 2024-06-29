@@ -61,3 +61,5 @@
 
 + [起诉杨永信的周齐，停在谷底](https://m.ithome.com/html/778520.htm)
 
++ [首发麒麟 9010E 处理器，华为 Pura 70 北斗卫星消息版现身 Geekbench 6](https://m.ithome.com/html/778566.htm)
+
