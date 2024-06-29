@@ -41,3 +41,7 @@
 
 + [数据安全实践与探索 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/404487.html)
 
++ [FreeBuf 周报 | 近3亿人安装了危险的Chrome扩展；MOVEit又曝出高危漏洞](https://www.freebuf.com/news/404764.html)
+
++ [记某次攻防演练：大战UEditor并突破](https://www.freebuf.com/defense/404800.html)
+

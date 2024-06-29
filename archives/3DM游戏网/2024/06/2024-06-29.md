@@ -103,3 +103,13 @@
 
 + [《恩诺提利亚：终曲》实体版由Fireshine Games发行](https://www.3dmgame.com/news/202406/3898452.html)
 
++ [《艾尔登法环：黄金树幽影》Steam评价转为多半好评](https://www.3dmgame.com/news/202406/3898457.html)
+
++ [《细胞分裂》重制不受影响 育碧多伦多裁员33人](https://www.3dmgame.com/news/202406/3898456.html)
+
++ [《双人成行》开发商或将于科隆游戏展公布新作](https://www.3dmgame.com/news/202406/3898455.html)
+
++ [《战锤40K：星际战士2》幕后预告片展示泰伦虫群](https://www.3dmgame.com/news/202406/3898454.html)
+
++ [赛博朋克银恶游戏《天空之尘》面向PC公布](https://www.3dmgame.com/news/202406/3898453.html)
+
