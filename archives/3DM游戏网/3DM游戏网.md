@@ -113,3 +113,19 @@
 
 + [赛博朋克银恶游戏《天空之尘》面向PC公布](https://www.3dmgame.com/news/202406/3898453.html)
 
++ [动作FPS《Neon White》Xbox版成就泄露 或即将发售](https://www.3dmgame.com/news/202406/3898462.html)
+
++ [避免与《奇异人生》新作撞车 《Lost Records》跳票](https://www.3dmgame.com/news/202406/3898466.html)
+
++ [《哥斯拉大战金刚3》北美定档2027年3月26日](https://www.3dmgame.com/news/202406/3898464.html)
+
++ [《赛博朋克2077》续作将加强社会批判和反乌托邦主题](https://www.3dmgame.com/news/202406/3898463.html)
+
++ [《海贼王》真人剧第二季 斯摩格、达斯琪演员公开](https://www.3dmgame.com/news/202406/3898461.html)
+
++ [赛博朋克动作冒险游戏《Sky Dust》Steam页面 发行日期待定](https://www.3dmgame.com/news/202406/3898460.html)
+
++ [威胁任天堂导致活动取消日本男子认罪：因输掉比赛不满](https://www.3dmgame.com/news/202406/3898459.html)
+
++ [《合金装备3：重制版》和原版有两大区别：画面、操作](https://www.3dmgame.com/news/202406/3898458.html)
+

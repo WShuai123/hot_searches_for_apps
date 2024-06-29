@@ -137,3 +137,5 @@
 
 + [2. jenkins发布java项目](https://blog.csdn.net/u010198709/article/details/140007258)
 
++ [计算机必背单词——数据库性能相关](https://blog.csdn.net/hebtu666/article/details/139705068)
+
