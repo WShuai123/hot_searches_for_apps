@@ -101,3 +101,7 @@
 
 + [VUE大屏的开发过程（纯前端）](https://blog.csdn.net/aZHANGJIANZHENa/article/details/139926277)
 
++ [从深度学习到音乐创作：AI如何重新定义音乐行业](https://blog.csdn.net/a1657054242/article/details/140059756)
+
++ [Jenkins - Python 虚拟环境](https://blog.csdn.net/wumingxiaoyao/article/details/140064934)
+
