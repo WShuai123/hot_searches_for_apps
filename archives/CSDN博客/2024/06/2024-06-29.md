@@ -147,3 +147,7 @@
 
 + [【Linux】Wmware Esxi磁盘扩容](https://blog.csdn.net/qq_35995514/article/details/139983762)
 
++ [【专业英语 背诵】3](https://blog.csdn.net/m0_69194031/article/details/140052492)
+
++ [如何知道docker谁占用的显卡的显存？](https://blog.csdn.net/x1131230123/article/details/140048874)
+

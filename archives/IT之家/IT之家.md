@@ -33,3 +33,7 @@
 
 + [中国信通院：华为 HarmonyOS NEXT 推动提升终端侧隐私和生态管控能力，进一步加强用户个人信息保护](https://m.ithome.com/html/778420.htm)
 
++ [华为 7 月新品曝光：含 Sound Joy2 便携音箱、MatePad SE 平板等](https://m.ithome.com/html/778464.htm)
+
++ [用外挂抢购电商平台 3 万余瓶飞天茅台：获利 2000 余万元，14 人被抓](https://m.ithome.com/html/778295.htm)
+
