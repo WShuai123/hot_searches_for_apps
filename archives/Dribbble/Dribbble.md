@@ -65,3 +65,15 @@
 
 + [???? Procreate Brush ????](https://dribbble.com/shots/)
 
++ [Eat It All!](https://dribbble.com/shots/)
+
++ [Happy Walkcycle](https://dribbble.com/shots/)
+
++ [St. John the Beloved Signage Design](https://dribbble.com/shots/)
+
++ [Gentry Brand: Full Preview](https://dribbble.com/shots/)
+
++ [Heart of Africa](https://dribbble.com/shots/)
+
++ [Regal Eagle](https://dribbble.com/shots/)
+
