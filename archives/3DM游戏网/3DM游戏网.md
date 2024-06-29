@@ -199,3 +199,15 @@
 
 + [《艾尔登法环》梅瑟莫建模视频 大蛇穿透身体很恐怖](https://www.3dmgame.com/news/202406/3898500.html)
 
++ [《星刃》性感女主私密部位细节逼真 让玩家感到惊讶](https://www.3dmgame.com/news/202406/3898506.html)
+
++ [《小生活-海岛物语》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202406/3898505.html)
+
++ [《艾尔登法环：黄金树幽影》游戏摄影美图 震撼人心！](https://www.3dmgame.com/news/202406/3898504.html)
+
++ [资深动画师：《神鬼寓言4》画面和动画让人印象深刻](https://www.3dmgame.com/news/202406/3898503.html)
+
++ [《丧尸围城：豪华复刻版》新截图 游戏画面更美](https://www.3dmgame.com/news/202406/3898502.html)
+
++ [世嘉因重组欧洲业务和取消游戏 亏损4100万美元](https://www.3dmgame.com/news/202406/3898501.html)
+

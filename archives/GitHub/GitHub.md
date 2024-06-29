@@ -31,3 +31,25 @@
 
 + [langfuse / langfuse](https://github.com/langfuse/langfuse)
 
++ [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
++ [cuixueshe / earthworm](https://github.com/cuixueshe/earthworm)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [BlackINT3 / OpenArk](https://github.com/BlackINT3/OpenArk)
+
++ [YimMenu / YimMenu](https://github.com/YimMenu/YimMenu)
+
++ [snakers4 / silero-vad](https://github.com/snakers4/silero-vad)
+
++ [microsoft / sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
+
++ [VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
+
++ [ray-project / kuberay](https://github.com/ray-project/kuberay)
+
++ [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [goatcorp / FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)
+
