@@ -219,3 +219,9 @@
 
 + [linux 系统引导过程](https://blog.csdn.net/xw2441176267/article/details/140033415)
 
++ [【机器学习】大模型训练的深入探讨——Fine-tuning技术阐述与Dify平台介绍](https://blog.csdn.net/2301_79796701/article/details/140066351)
+
++ [【Python系列】Python 中循环依赖问题及其解决方案](https://blog.csdn.net/qyj19920704/article/details/140029408)
+
++ [工业路由器与家用路由器的区别](https://blog.csdn.net/NetCloudWorld/article/details/140033329)
+

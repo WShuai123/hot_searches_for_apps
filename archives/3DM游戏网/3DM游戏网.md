@@ -213,3 +213,11 @@
 
 + [苹果正在为廉价版Vision Pro寻找屏幕 已向LG和三星发送信息请求](https://www.3dmgame.com/news/202406/3898507.html)
 
++ [《头脑特工队2》票房势不可挡 将破10亿美元大关](https://www.3dmgame.com/news/202406/3898511.html)
+
++ [电竞世界杯奖杯图泄露 看起来就像那啥](https://www.3dmgame.com/news/202406/3898509.html)
+
++ [《沙丘3》将是维伦纽瓦下一部电影 2026年圣诞上映](https://www.3dmgame.com/news/202406/3898510.html)
+
++ [专家预测《魔兽世界》国服玩家数将缩水九成？](https://www.3dmgame.com/news/202406/3898508.html)
+
