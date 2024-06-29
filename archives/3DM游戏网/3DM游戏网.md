@@ -159,3 +159,5 @@
 
 + [历史文件曝光大金刚潜在命名 差点改名叫Kong Dong](https://www.3dmgame.com/news/202406/3898471.html)
 
++ [《死神：勇敢的灵魂》Switch版确认7月11日发售](https://www.3dmgame.com/news/202406/3898481.html)
+

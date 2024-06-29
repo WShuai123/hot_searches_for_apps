@@ -151,3 +151,9 @@
 
 + [如何知道docker谁占用的显卡的显存？](https://blog.csdn.net/x1131230123/article/details/140048874)
 
++ [Spring Boot中 CommandLineRunner 与 ApplicationRunner作用、区别](https://blog.csdn.net/weixin_44029753/article/details/140055059)
+
++ [HarmonyOS(40) 悬浮框实现](https://blog.csdn.net/chunqiuwei/article/details/140012720)
+
++ [竞赛选题 python区块链实现 - proof of work工作量证明共识算法](https://blog.csdn.net/m0_43533/article/details/140009316)
+

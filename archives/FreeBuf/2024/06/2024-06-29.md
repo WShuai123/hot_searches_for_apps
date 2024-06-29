@@ -47,3 +47,5 @@
 
 + [攻击者建立虚假奥运会票务网站进行钓鱼](https://www.freebuf.com/articles/network/404003.html)
 
++ [终端对抗——反虚拟环境指南](https://www.freebuf.com/defense/404013.html)
+
