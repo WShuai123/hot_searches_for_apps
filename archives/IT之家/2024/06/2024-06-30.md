@@ -33,3 +33,5 @@
 
 + [夏普推出 5.7 英寸 LCD 小屏手机 Simple Sumaho 7：搭载高通骁龙 695](https://m.ithome.com/html/778624.htm)
 
++ [《完蛋！我被美女包围了！》手机版第三季度发售，神秘 DLC 年末登场](https://m.ithome.com/html/778614.htm)
+

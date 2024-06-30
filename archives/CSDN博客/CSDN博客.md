@@ -127,3 +127,11 @@
 
 + [基于Spring Boot与Vue的智能房产匹配平台+文档](https://blog.csdn.net/qq_31293575/article/details/140026245)
 
++ [【愚公系列】（HDC.Cloud）2024 华为开发者大会游记](https://blog.csdn.net/aa2528877987/article/details/140069914)
+
++ [Spring Boot 启动流程源码分析（2）](https://blog.csdn.net/weixin_42118323/article/details/139958553)
+
++ [IntelliJ IDE 插件开发 | （十一）解析 Mybatis 的控制台 SQL 日志](https://blog.csdn.net/qq_41698074/article/details/140063648)
+
++ [Spring Security实战：构建安全的RESTful API](https://blog.csdn.net/z_344791576/article/details/140067577)
+
