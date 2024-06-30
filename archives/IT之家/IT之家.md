@@ -35,3 +35,5 @@
 
 + [《完蛋！我被美女包围了！》手机版第三季度发售，神秘 DLC 年末登场](https://m.ithome.com/html/778614.htm)
 
++ [鸿蒙生态手机新品：WIKO 唯科 5G 新机通过无线电核准认证](https://m.ithome.com/html/778610.htm)
+
