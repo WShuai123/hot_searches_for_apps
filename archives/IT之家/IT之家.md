@@ -45,3 +45,9 @@
 
 + [NASA 和波音否认星际客机机组人员“被困”：“我们并不急于回家”](https://m.ithome.com/html/778632.htm)
 
++ [惊喜不断：AMD 锐龙 9000X3D 系列处理器被曝将全面支持超频](https://m.ithome.com/html/778627.htm)
+
++ [高通骁龙 X Elite 处理器笔记本被指游戏性能不佳，兼容性问题严重](https://m.ithome.com/html/778637.htm)
+
++ [AMD 锐龙 9000 系列 Zen 5 处理器欧洲定价曝光：9600X 售 309.9 欧元、9950X 售 659.9 欧元](https://m.ithome.com/html/778630.htm)
+

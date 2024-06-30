@@ -161,3 +161,11 @@
 
 + [《模拟人生4》在系列中首次加入多角恋爱关系支持](https://www.3dmgame.com/news/202406/3898540.html)
 
++ [《妖精的尾巴：百年任务》最新剧照公开 7月7日开播](https://www.3dmgame.com/news/202406/3898545.html)
+
++ [微软谷歌等八巨头联合对抗NVIDIA 三星也欲加入](https://www.3dmgame.com/news/202406/3898542.html)
+
++ [任天堂想要每3到5年推出一款三千万级别第一方大作](https://www.3dmgame.com/news/202406/3898543.html)
+
++ [爆料人驳斥《生化危机5：重制版》因歧视而遭叫停传言](https://www.3dmgame.com/news/202406/3898544.html)
+
