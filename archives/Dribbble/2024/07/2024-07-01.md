@@ -49,3 +49,19 @@
 
 + [Sours & Cobblers](https://dribbble.com/shots/)
 
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [J.W.Lees - Pub Signs](https://dribbble.com/shots/)
+
++ [Create](https://dribbble.com/shots/)
+
++ [Illustration [ work in progress ]](https://dribbble.com/shots/)
+
++ [Flor de Maguey](https://dribbble.com/shots/)
+
++ [Give me the money!](https://dribbble.com/shots/)
+
++ [Etheros](https://dribbble.com/shots/)
+
++ [Blue Ribbon Beer Branding Design](https://dribbble.com/shots/)
+
