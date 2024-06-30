@@ -105,3 +105,11 @@
 
 + [开发人员谈《全职猎人》格斗游戏采用3v3的原因](https://www.3dmgame.com/news/202407/3898556.html)
 
++ [乔治·R·R·马丁暗示《艾尔登法环》推出影视改编作品](https://www.3dmgame.com/news/202407/3898560.html)
+
++ [像素回合制忍者游戏《岚外传》现已上架Steam](https://www.3dmgame.com/news/202407/3898559.html)
+
++ [剧场版《鬼灭之刃》无限城篇三部曲正式公布](https://www.3dmgame.com/news/202407/3898558.html)
+
++ [备受好评像素RPG游戏《星之海》推出艺术画集](https://www.3dmgame.com/news/202407/3898557.html)
+

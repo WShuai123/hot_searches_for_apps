@@ -101,3 +101,25 @@
 
 + [【无标题】c# WEBAPI 读写表到Redis](https://blog.csdn.net/xiaowengang/article/details/140058870)
 
++ [【自动驾驶汽车通讯协议】深入理解PCI Express（PCIe）技术](https://blog.csdn.net/m0_49963403/article/details/140034961)
+
++ [【机器学习】机器学习的重要方法——强化学习：理论，方法与实践](https://blog.csdn.net/2301_79181030/article/details/140084053)
+
++ [C#进阶-ASP.NET WebForms调用ASMX的WebService接口](https://blog.csdn.net/weixin_41793160/article/details/140087928)
+
++ [【C++深度探索】继承机制详解（一）](https://blog.csdn.net/Renswc/article/details/140080707)
+
++ [GPT-5的预测](https://blog.csdn.net/lwxvgdv/article/details/140072571)
+
++ [Jenkins - Python 虚拟环境](https://blog.csdn.net/wumingxiaoyao/article/details/140064934)
+
++ [nginx和CDN应用](https://blog.csdn.net/2402_83805984/article/details/140059480)
+
++ [Shell脚本](https://blog.csdn.net/l25803691121/article/details/140065945)
+
++ [MySQL触发器](https://blog.csdn.net/qq_38984332/article/details/140064033)
+
++ [Spring Boot淘客返利App架构设计](https://blog.csdn.net/u010405836/article/details/140061655)
+
++ [【数据采集】亮数据浏览器、亮网络解锁器实战指南](https://blog.csdn.net/Qingai521/article/details/140033562)
+
