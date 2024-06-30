@@ -141,3 +141,7 @@
 
 + [Linux 生产消费者模型](https://blog.csdn.net/2301_77934192/article/details/139583476)
 
++ [【Rust】——所有的模式语法](https://blog.csdn.net/shsjssnn/article/details/136856051)
+
++ [第十九届全国大学生智能汽车竞赛线上比赛细则](https://blog.csdn.net/zhuoqingjoking97298/article/details/140005823)
+

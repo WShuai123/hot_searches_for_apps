@@ -141,3 +141,5 @@
 
 + [羁绊爱时隔2年重新活动 Me in the dream发布](https://www.3dmgame.com/news/202406/3898526.html)
 
++ [博物馆展览展出《荒野大镖客2》未曾公开的概念图](https://www.3dmgame.com/news/202406/3898532.html)
+
