@@ -45,3 +45,7 @@
 
 + [供应链投毒预警 | utilitytool系列Py包开展XenoRAT远控木马投毒](https://www.freebuf.com/news/404197.html)
 
++ [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
+
++ [pgAdmin后台命令执行漏洞（CVE-2023-5002）](https://www.freebuf.com/vuls/404237.html)
+

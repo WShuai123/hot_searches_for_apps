@@ -13,3 +13,5 @@
 
 + [MEUX 「五月」 AI设计观察](https://www.ui.cn/detail/665297.html)
 
++ [百度APP AI发布器春节玩法](https://www.ui.cn/detail/665688.html)
+
