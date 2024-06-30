@@ -169,3 +169,9 @@
 
 + [爆料人驳斥《生化危机5：重制版》因歧视而遭叫停传言](https://www.3dmgame.com/news/202406/3898544.html)
 
++ [托比·马奎尔迎来49岁生日 晒出自己两个孩子](https://www.3dmgame.com/news/202406/3898548.html)
+
++ [《死亡回归》开发商打造3A动作游戏 使用虚幻引擎](https://www.3dmgame.com/news/202406/3898547.html)
+
++ [Netflix同性爱情日剧《灵魂伴侣》曝光首张剧照](https://www.3dmgame.com/news/202406/3898546.html)
+
