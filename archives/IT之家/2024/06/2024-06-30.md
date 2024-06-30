@@ -57,3 +57,11 @@
 
 + [骁龙 870 + 主摄 6400 万像素：中兴天机 A41 手机京东自营 999 元](https://m.ithome.com/html/778672.htm)
 
++ [【已结束】6509 元：华为 Mate 60 Pro 手机 12+512G 京东再降价](https://m.ithome.com/html/778723.htm)
+
++ [无缘高分屏下前摄 + Unibody 全陶瓷机身？消息称小米 MIX 实验室方案搁置](https://m.ithome.com/html/778698.htm)
+
++ [天兵科技回应“火箭坠落起火”：天龙三号试车过程中，一子级火箭脱离发射台](https://m.ithome.com/html/778722.htm)
+
++ [消息称华为 MatePadSE 标准版平板支持 120Hz 高刷，预装“无阉割”鸿蒙 HarmonyOS 4 系统](https://m.ithome.com/html/778695.htm)
+
