@@ -149,3 +149,9 @@
 
 + [冒险游戏《Sunset Hills》开启众筹 8月陆续登陆多平台](https://www.3dmgame.com/news/202406/3898533.html)
 
++ [《真女神转生5：复仇》登上Steam日式RPG好评榜单](https://www.3dmgame.com/news/202406/3898538.html)
+
++ [遭董明珠“开怼”的小米空调年出货已达440万台](https://www.3dmgame.com/news/202406/3898537.html)
+
++ [《Fate/stay night》重制版主艺图公开 年内登陆 Switch/Steam](https://www.3dmgame.com/news/202406/3898536.html)
+

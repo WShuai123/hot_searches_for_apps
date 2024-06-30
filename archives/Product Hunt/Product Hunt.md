@@ -151,3 +151,9 @@
 
 + [Videofyles](https://www.producthunt.com/posts/videofyles)
 
++ [Plus AI PowerPoint Maker](https://www.producthunt.com/posts/plus-ai-powerpoint-maker)
+
++ [Testimonify](https://www.producthunt.com/posts/testimonify)
+
++ [Respired.io](https://www.producthunt.com/posts/respired-io)
+

@@ -41,3 +41,5 @@
 
 + [机械革命 imini S710 迷你主机开售：R7-8845H + 16GB + 1TB 售 2999 元](https://m.ithome.com/html/778573.htm)
 
++ [真假悟空？苹果国区 App Store 上线《黑神话手游》：号称“官方正版，端游同步”](https://m.ithome.com/html/778667.htm)
+
