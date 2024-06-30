@@ -129,3 +129,15 @@
 
 + [Konami回应《合金装备3：重制版》差评：将认真对待](https://www.3dmgame.com/news/202406/3898523.html)
 
++ [《Sprout Valley》PC版免费发布 猫咪岛屿生活模拟](https://www.3dmgame.com/news/202406/3898531.html)
+
++ [《夜族崛起》正在酝酿1.1大更新 尚未确定内容和规模](https://www.3dmgame.com/news/202406/3898529.html)
+
++ [备受诟病的自动续费有大变化 消费新规即将施行](https://www.3dmgame.com/news/202406/3898530.html)
+
++ [奇幻新作《燧石枪：黎明之围》PC版配置需求公布](https://www.3dmgame.com/news/202406/3898528.html)
+
++ [史克威尔艾尼克斯仍将投入小型作品和独立游戏](https://www.3dmgame.com/news/202406/3898527.html)
+
++ [羁绊爱时隔2年重新活动 Me in the dream发布](https://www.3dmgame.com/news/202406/3898526.html)
+

@@ -77,3 +77,11 @@
 
 + [此刻Memories 绝美紫阳花～](http://www.acfun.cn/v/ac44939343)
 
++ [【猪肝来也】『中国姑娘』cover by金志文 送给妈妈](http://www.acfun.cn/v/ac44941859)
+
++ [Vega就是所有混账中的大混账？【街霸6】Vega故事模式，警察重生降服蛛俐](http://www.acfun.cn/v/ac44940644)
+
++ [阿蕾奇诺](http://www.acfun.cn/v/ac44940934)
+
++ [我知道，这你们一定喜欢！](http://www.acfun.cn/v/ac44942514)
+
