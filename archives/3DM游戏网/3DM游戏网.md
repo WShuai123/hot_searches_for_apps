@@ -103,3 +103,5 @@
 
 + [外媒精选PS5上支持4K/60帧游戏 《生化4RE》等](https://www.3dmgame.com/news/202406/3898555.html)
 
++ [开发人员谈《全职猎人》格斗游戏采用3v3的原因](https://www.3dmgame.com/news/202407/3898556.html)
+
