@@ -79,3 +79,9 @@
 
 + [Post-humanity](https://dribbble.com/shots/)
 
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
++ [Strawberry mood](https://dribbble.com/shots/)
+
++ [Moon Shine - The Cowboy & The Coyote](https://dribbble.com/shots/)
+
