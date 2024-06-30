@@ -155,3 +155,9 @@
 
 + [《Fate/stay night》重制版主艺图公开 年内登陆 Switch/Steam](https://www.3dmgame.com/news/202406/3898536.html)
 
++ [《合金装备3：重制版》将提供原版滤镜 供怀旧玩家使用](https://www.3dmgame.com/news/202406/3898541.html)
+
++ [长崎动物园发浣熊惊悚图片 生化危机官方惊呼太像了](https://www.3dmgame.com/news/202406/3898539.html)
+
++ [《模拟人生4》在系列中首次加入多角恋爱关系支持](https://www.3dmgame.com/news/202406/3898540.html)
+

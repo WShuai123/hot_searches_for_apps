@@ -43,3 +43,5 @@
 
 + [真假悟空？苹果国区 App Store 上线《黑神话手游》：号称“官方正版，端游同步”](https://m.ithome.com/html/778667.htm)
 
++ [NASA 和波音否认星际客机机组人员“被困”：“我们并不急于回家”](https://m.ithome.com/html/778632.htm)
+
