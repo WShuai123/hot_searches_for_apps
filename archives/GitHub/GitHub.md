@@ -41,3 +41,35 @@
 
 + [goatcorp / FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)
 
++ [tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+
++ [ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)
+
++ [starship / starship](https://github.com/starship/starship)
+
++ [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+
++ [mrdbourke / pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+
++ [google / leveldb](https://github.com/google/leveldb)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [neovim / neovim](https://github.com/neovim/neovim)
+
++ [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [wolfpld / tracy](https://github.com/wolfpld/tracy)
+
++ [goatcorp / Dalamud](https://github.com/goatcorp/Dalamud)
+
++ [ocornut / imgui](https://github.com/ocornut/imgui)
+
++ [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+
++ [Koenkk / zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+
++ [ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle)
+

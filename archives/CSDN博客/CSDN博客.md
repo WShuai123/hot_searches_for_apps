@@ -165,3 +165,21 @@
 
 + [鸿蒙系统——强大的分布式系统](https://blog.csdn.net/m0_68038853/article/details/140059040)
 
++ [【深度学习】扫描全能王的AI驱动创新与智能高清滤镜技术解析](https://blog.csdn.net/s445320/article/details/140080340)
+
++ [【机器学习】在【Pycharm】中的应用：【线性回归模型】进行【房价预测】](https://blog.csdn.net/2303_77720864/article/details/140055251)
+
++ [机器学习引领教育革命：智能教育的新时代](https://blog.csdn.net/EterNity_TiMe_/article/details/140001932)
+
++ [【机器学习案列分析】逻辑回归预测银行客户是否会开设定期存款账户](https://blog.csdn.net/qq_38614074/article/details/136841656)
+
++ [深入解析三大跨平台开发框架：Flutter、React Native 和 uniapp](https://blog.csdn.net/weixin_37600397/article/details/140050205)
+
++ [【Spring Boot】认识 JPA 的接口](https://blog.csdn.net/be_racle/article/details/140078199)
+
++ [Vue.js 和 Node.js 全栈项目的运行与部署指南](https://blog.csdn.net/m0_74277350/article/details/140069569)
+
++ [在本地windows中利用wsl2部署docker应用](https://blog.csdn.net/m0_62177801/article/details/140082679)
+
++ [湖科大《软件工程》考点总结2024](https://blog.csdn.net/m0_75240394/article/details/139962981)
+
