@@ -65,3 +65,7 @@
 
 + [汉服对镜拍一下](http://www.acfun.cn/v/ac44945709)
 
++ [第一次穿lolita ！(ﾉ∇︎〃 )](http://www.acfun.cn/v/ac44945771)
+
++ [当年火遍大街小巷，如今却“刷不到”的神曲！](http://www.acfun.cn/v/ac44942835)
+

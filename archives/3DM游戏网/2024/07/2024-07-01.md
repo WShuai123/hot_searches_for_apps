@@ -101,3 +101,5 @@
 
 + [《小生活-海岛物语》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202406/3898505.html)
 
++ [外媒精选PS5上支持4K/60帧游戏 《生化4RE》等](https://www.3dmgame.com/news/202406/3898555.html)
+
