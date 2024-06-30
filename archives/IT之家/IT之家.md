@@ -39,3 +39,5 @@
 
 + [百度地图时光机上线苹果 Vision Pro 头显：360° 全景地图、可查看时间地点](https://m.ithome.com/html/778592.htm)
 
++ [机械革命 imini S710 迷你主机开售：R7-8845H + 16GB + 1TB 售 2999 元](https://m.ithome.com/html/778573.htm)
+

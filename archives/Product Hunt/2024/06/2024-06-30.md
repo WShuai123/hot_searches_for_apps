@@ -127,3 +127,27 @@
 
 + [ApyHub Fusion](https://www.producthunt.com/posts/apyhub-fusion)
 
++ [Online Compass](https://www.producthunt.com/posts/online-compass)
+
++ [FarHouse](https://www.producthunt.com/posts/farhouse)
+
++ [CSS Gradient Generator](https://www.producthunt.com/posts/css-gradient-generator)
+
++ [Ball](https://www.producthunt.com/posts/ball-2)
+
++ [SurfPal](https://www.producthunt.com/posts/surfpal)
+
++ [Pastelog](https://www.producthunt.com/posts/pastelog)
+
++ [Tab Slayer](https://www.producthunt.com/posts/tab-slayer)
+
++ [Wave Generator](https://www.producthunt.com/posts/wave-generator)
+
++ [Arc 3.0](https://www.producthunt.com/posts/arc-3-0)
+
++ [CheckinBee](https://www.producthunt.com/posts/checkinbee-2)
+
++ [pdf2map.com](https://www.producthunt.com/posts/pdf2map-com)
+
++ [Videofyles](https://www.producthunt.com/posts/videofyles)
+

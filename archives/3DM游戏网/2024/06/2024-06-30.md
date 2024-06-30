@@ -143,3 +143,9 @@
 
 + [博物馆展览展出《荒野大镖客2》未曾公开的概念图](https://www.3dmgame.com/news/202406/3898532.html)
 
++ [《合金装备3：重制版》将最大程度保留原版配音](https://www.3dmgame.com/news/202406/3898535.html)
+
++ [AI三年内将改变80%工作 招聘对AI技能要求暴增21倍](https://www.3dmgame.com/news/202406/3898534.html)
+
++ [冒险游戏《Sunset Hills》开启众筹 8月陆续登陆多平台](https://www.3dmgame.com/news/202406/3898533.html)
+
