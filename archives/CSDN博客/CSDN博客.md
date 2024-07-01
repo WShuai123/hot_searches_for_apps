@@ -183,3 +183,9 @@
 
 + [DeepMind的新论文，长上下文的大语言模型能否取代RAG或者SQL这样的传统技术呢?](https://blog.csdn.net/m0_46510245/article/details/140093674)
 
++ [【AI大模型】跌倒监控与健康：技术实践及如何改变未来](https://blog.csdn.net/rjdeng/article/details/139694569)
+
++ [Linux[高级管理]——Squid代理服务器的部署和应用(反向代理详解)](https://blog.csdn.net/jxjdhdnd/article/details/139954016)
+
++ [基于HarmonyOS NEXT开发智能提醒助手](https://blog.csdn.net/CC1991_/article/details/140084848)
+

@@ -59,3 +59,5 @@
 
 + [影响大量路由器，Juniper Networks曝最严重的“身份验证”漏洞](https://www.freebuf.com/news/404900.html)
 
++ [Kimsuky 组织利用 TRANSLATEXT Chrome 扩展程序窃取敏感数据信息](https://www.freebuf.com/news/404872.html)
+

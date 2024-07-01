@@ -193,3 +193,15 @@
 
 + [专家称清华北大可能正在制造蠢才：不应该把文凭等同于人才](https://www.3dmgame.com/news/202407/3898598.html)
 
++ [卡普空收购动画工作室迷你马 曾参与《龙之信条2》制作](https://www.3dmgame.com/news/202407/3898605.html)
+
++ [《尘埃之谜》Steam抢先体验 美少女塔防RPG](https://www.3dmgame.com/news/202407/3898606.html)
+
++ [美国NASA无法研究中国宝贵月球样品！原因极其愚蠢](https://www.3dmgame.com/news/202407/3898603.html)
+
++ [韩国釜山人口萎缩进入消失阶段 网友惊叹不可思议](https://www.3dmgame.com/news/202407/3898604.html)
+
++ [迪士尼《白雪公主》真人电影终于拍完 黑雪公主自豪](https://www.3dmgame.com/news/202407/3898601.html)
+
++ [天兵科技回应火箭起火爆炸：推力820吨！连接结构失效 一子级脱离发射台](https://www.3dmgame.com/news/202407/3898602.html)
+
