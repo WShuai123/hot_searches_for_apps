@@ -215,3 +215,9 @@
 
 + [Qt WPS(有源码)](https://blog.csdn.net/qq_71286244/article/details/140066317)
 
++ [【孙子兵法】始计篇 - 原文注解笔记 ① ( 五事 - 道、天、地、将、法 )](https://blog.csdn.net/han1202012/article/details/140077886)
+
++ [第32讲：K8S集群与Cephfs文件系统集成](https://blog.csdn.net/weixin_44953658/article/details/140091886)
+
++ [海康视频播放，包含h5和web插件](https://blog.csdn.net/weixin_43896125/article/details/140100170)
+
