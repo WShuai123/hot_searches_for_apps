@@ -131,3 +131,13 @@
 
 + [chrome-base源码分析(1)macros模块](https://blog.csdn.net/Once_day/article/details/140087973)
 
++ [【愚公系列】《短视频生成与剪辑实战》005-使用 Midjourney 进行 Al 绘图](https://blog.csdn.net/aa2528877987/article/details/140086775)
+
++ [Java单体架构项目_云霄外卖-特殊点](https://blog.csdn.net/wsxcjg/article/details/139521169)
+
++ [C++(Python)肥皂泡沫普拉托边界膜曲面模型算法](https://blog.csdn.net/jiyotin/article/details/140087268)
+
++ [GPU算力是什么，哪些行业需要用到GPU算力？](https://blog.csdn.net/weixin_42994439/article/details/140047024)
+
++ [机器之心：自动化与机器人技术详解](https://blog.csdn.net/2303_80856850/article/details/140090887)
+

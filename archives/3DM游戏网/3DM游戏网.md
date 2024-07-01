@@ -127,3 +127,25 @@
 
 + [育碧确认《星球大战：亡命之徒》发售时不会有微交易](https://www.3dmgame.com/news/202407/3898564.html)
 
++ [令和骑士第六作《假面骑士GAVV》公布 预计9月开播](https://www.3dmgame.com/news/202407/3898574.html)
+
++ [赛车竞技游戏《超级战斗晶体车》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202407/3898575.html)
+
++ [特斯拉再放大招！7月31日前下单 享受5年免息](https://www.3dmgame.com/news/202407/3898576.html)
+
++ [《幸福工厂》正式版年内提价推出 限时半价优惠中](https://www.3dmgame.com/news/202407/3898577.html)
+
++ [苹果商店国区上线《黑神话》山寨手游 号称是官方正版](https://www.3dmgame.com/news/202407/3898578.html)
+
++ [科幻生存游戏《多重人生》42分钟游戏实机](https://www.3dmgame.com/news/202407/3898568.html)
+
++ [旺达幻视衍生剧《阿加莎》新剧照 9月18日开播](https://www.3dmgame.com/news/202407/3898569.html)
+
++ [索尼为向后兼容技术申请专利 或与PS5兼容PS3游戏有关](https://www.3dmgame.com/news/202407/3898570.html)
+
++ [叙事模拟游戏《标准模型》现已登录Steam平台 预计2025年推出](https://www.3dmgame.com/news/202407/3898571.html)
+
++ [《STREAM STRATOS》Steam页面上线 3D空间战斗](https://www.3dmgame.com/news/202407/3898572.html)
+
++ [《怪物猎人：荒野》新视频 介绍新舞台“封禁之地”](https://www.3dmgame.com/news/202407/3898573.html)
+

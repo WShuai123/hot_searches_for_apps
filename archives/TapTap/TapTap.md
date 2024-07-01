@@ -21,3 +21,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
+
