@@ -119,3 +119,11 @@
 
 + [《心灵杀手2》“湖边小屋”DLC今年10月上线](https://www.3dmgame.com/news/202407/3898562.html)
 
++ [《球胜大本营》开发商新游戏公告中提及续作的可能性](https://www.3dmgame.com/news/202407/3898567.html)
+
++ [《魔兽世界》血吼雕塑重铸完成 7月4日在上海展出](https://www.3dmgame.com/news/202407/3898566.html)
+
++ [RTA日本游戏速通大会8月9日开幕 《8番出口》等确定参战](https://www.3dmgame.com/news/202407/3898565.html)
+
++ [育碧确认《星球大战：亡命之徒》发售时不会有微交易](https://www.3dmgame.com/news/202407/3898564.html)
+

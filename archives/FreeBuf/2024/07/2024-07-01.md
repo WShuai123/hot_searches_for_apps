@@ -45,3 +45,5 @@
 
 + [新勒索软件 Shinra 与 Limpopo 浮出水面](https://www.freebuf.com/articles/network/404049.html)
 
++ [深度好文 | 从零开始构建大模型安全测试基准](https://www.freebuf.com/articles/es/404287.html)
+
