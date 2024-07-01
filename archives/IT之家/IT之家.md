@@ -25,3 +25,5 @@
 
 + [RAM 不够 AI 模型用：古尔曼称苹果 Apple Intelligence 将登 Vision Pro，但不会引入 HomePod](https://m.ithome.com/html/778748.htm)
 
++ [《黑神话：悟空》新实机公布，隐藏 BOSS 赤髯龙战斗画面细节公开](https://m.ithome.com/html/778905.htm)
+
