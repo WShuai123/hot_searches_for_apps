@@ -55,3 +55,5 @@
 
 + [CrimsonEDR：一款恶意软件模式识别与EDR策略评估工具](https://www.freebuf.com/sectool/404792.html)
 
++ [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
+

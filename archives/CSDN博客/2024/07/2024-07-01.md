@@ -171,3 +171,13 @@
 
 + [改机软件有哪些？实现一键新机、改串号、改IMEI和手机参数的需求 硬改手机软件，新机环境模拟 设备伪装，一键改机，一键复原](https://blog.csdn.net/z920981023/article/details/140064792)
 
++ [基于SpringBoot+数据可视化+协同过滤算法的非遗推荐系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140092304)
+
++ [【Linux】部署NFS服务实现数据共享](https://blog.csdn.net/liu_chen_yang/article/details/138860283)
+
++ [GaussDB关键技术原理：高性能（三）](https://blog.csdn.net/GaussDB/article/details/139861036)
+
++ [【C++笔记整理—第1期】](https://blog.csdn.net/weixin_45697036/article/details/140077301)
+
++ [基于springboot+vue+uniapp的语言课学习系统小程序](https://blog.csdn.net/shmp54/article/details/140086672)
+
