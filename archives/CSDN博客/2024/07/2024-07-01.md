@@ -199,3 +199,11 @@
 
 + [计算机网络-第3章数据链路层](https://blog.csdn.net/2302_78218660/article/details/140051676)
 
++ [Windows电脑自建我的世界MC服务器并与好友远程联机游戏教程](https://blog.csdn.net/qyj19920704/article/details/140105882)
+
++ [【PL理论深化】(15) 推理规则：变量的规则 E-Val, E-Let | 条件表达式定义 E-If-T, E-If-F, E-Zero-T | 运算环境 ρ = {x↦1, y↦2} 的程序](https://blog.csdn.net/weixin_50502862/article/details/140089308)
+
++ [IT专业高考假期预习指南](https://blog.csdn.net/ak2111/article/details/140100633)
+
++ [数学建模比赛介绍与写作建议](https://blog.csdn.net/qq_41938259/article/details/140080702)
+
