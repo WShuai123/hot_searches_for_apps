@@ -113,3 +113,9 @@
 
 + [备受好评像素RPG游戏《星之海》推出艺术画集](https://www.3dmgame.com/news/202407/3898557.html)
 
++ [《第一后裔》现已开启预载 7月2日下午3点解锁发售](https://www.3dmgame.com/news/202407/3898563.html)
+
++ [《纸嫁衣7卿不负》全新预告 游戏将于暑期上线](https://www.3dmgame.com/news/202407/3898561.html)
+
++ [《心灵杀手2》“湖边小屋”DLC今年10月上线](https://www.3dmgame.com/news/202407/3898562.html)
+

@@ -73,3 +73,5 @@
 
 + [我也给新番配音了](http://www.acfun.cn/v/ac44947283)
 
++ [决战神之门，《黄金树幽影》最终BOSS战](http://www.acfun.cn/v/ac44943420)
+
