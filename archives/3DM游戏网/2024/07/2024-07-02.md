@@ -103,3 +103,11 @@
 
 + [外媒：觉得《黄金树幽影》太难 《悟空》可能不适合你](https://www.3dmgame.com/news/202407/3898620.html)
 
++ [《全职猎人》新游戏角色预告片：玛奇和窝金](https://www.3dmgame.com/news/202407/3898624.html)
+
++ [粉丝自制《生化危机》微电影 根据饲养员日记改编](https://www.3dmgame.com/news/202407/3898622.html)
+
++ [《暗黑地牢2》Xbox版也将于7月15日推出](https://www.3dmgame.com/news/202407/3898623.html)
+
++ [《黑神话：悟空》7分钟高清实机视频分享](https://www.3dmgame.com/news/202407/3898621.html)
+
