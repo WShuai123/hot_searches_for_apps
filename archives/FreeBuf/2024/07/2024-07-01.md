@@ -57,3 +57,5 @@
 
 + [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
 
++ [影响大量路由器，Juniper Networks曝最严重的“身份验证”漏洞](https://www.freebuf.com/news/404900.html)
+

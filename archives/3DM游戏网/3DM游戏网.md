@@ -187,3 +187,9 @@
 
 + [塔防轻肉鸽游戏《余烬守卫》现已在Steam平台抢先体验推出 已获特别好评](https://www.3dmgame.com/news/202407/3898593.html)
 
++ [《宣誓》同伴会对故事战斗和道德决策产生重要影响](https://www.3dmgame.com/news/202407/3898600.html)
+
++ [索尼承认可录制蓝光光碟即将停产 技术也没打算转让](https://www.3dmgame.com/news/202407/3898599.html)
+
++ [专家称清华北大可能正在制造蠢才：不应该把文凭等同于人才](https://www.3dmgame.com/news/202407/3898598.html)
+
