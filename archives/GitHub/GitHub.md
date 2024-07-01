@@ -41,3 +41,21 @@
 
 + [ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle)
 
++ [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
+
++ [YaLTeR / niri](https://github.com/YaLTeR/niri)
+
++ [overleaf / overleaf](https://github.com/overleaf/overleaf)
+
++ [VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)
+
++ [EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [cuixueshe / earthworm](https://github.com/cuixueshe/earthworm)
+
++ [XingangPan / DragGAN](https://github.com/XingangPan/DragGAN)
+
++ [hajimehoshi / ebiten](https://github.com/hajimehoshi/ebiten)
+

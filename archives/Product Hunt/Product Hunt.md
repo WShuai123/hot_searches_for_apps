@@ -131,3 +131,7 @@
 
 + [Shoutout](https://www.producthunt.com/posts/shoutout-cf47469d-0660-4cbc-9f4f-0f77619aa7e8)
 
++ [Weekly Calendar in Todoist](https://www.producthunt.com/posts/weekly-calendar-in-todoist)
+
++ [✱ QR Code AI → 2.0](https://www.producthunt.com/posts/qr-code-ai-2-0)
+
