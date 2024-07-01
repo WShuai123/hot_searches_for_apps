@@ -101,3 +101,27 @@
 
 + [低代码表单配置平台替代普通表单配置平台，前端部分重构的设计和思路](https://blog.csdn.net/EasonMu/article/details/140084588)
 
++ [【机器学习】FFmpeg+Whisper：二阶段法视频理解（video-to-text）大模型实战](https://blog.csdn.net/weixin_48007632/article/details/140106912)
+
++ [Qt源码分析：窗体绘制与响应](https://blog.csdn.net/qq_26221775/article/details/140062609)
+
++ [【机器学习】基于层次的聚类方法：理论与实践](https://blog.csdn.net/qq_44214428/article/details/140002038)
+
++ [【MySQL】用户管理](https://blog.csdn.net/fight_p/article/details/139508138)
+
++ [第32讲：K8S集群与Cephfs文件系统集成](https://blog.csdn.net/weixin_44953658/article/details/140091886)
+
++ [第二十站：Java未来光谱——量子计算与新兴技术的展望（第二篇）](https://blog.csdn.net/hummhumm/article/details/140062384)
+
++ [微服务-网关Gateway](https://blog.csdn.net/qq_54429126/article/details/140064099)
+
++ [HarmonyOS--路由管理--组件导航 (Navigation)](https://blog.csdn.net/weixin_47808575/article/details/140063022)
+
++ [硬件开发笔记（二十三）：贴片电阻的类别、封装介绍，AD21导入贴片电阻原理图封装库3D模型](https://blog.csdn.net/qq21497936/article/details/140110514)
+
++ [区块链中的一笔交易是如何从发起到确认的？](https://blog.csdn.net/weixin_47485810/article/details/140073005)
+
++ [nuxt3搭建和部署](https://blog.csdn.net/dan_seek/article/details/140079231)
+
++ [邑大校园网络安全建设及加固报告](https://blog.csdn.net/linlianxin123258/article/details/140067696)
+

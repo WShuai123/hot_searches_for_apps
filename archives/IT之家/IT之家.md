@@ -27,3 +27,5 @@
 
 + [《黑神话：悟空》新实机公布，隐藏 BOSS 赤髯龙战斗画面细节公开](https://m.ithome.com/html/778905.htm)
 
++ [“爱奇艺限制投屏案”一审落槌，原告获 41 天黄金会员 VIP 时长补偿](https://m.ithome.com/html/778986.htm)
+
