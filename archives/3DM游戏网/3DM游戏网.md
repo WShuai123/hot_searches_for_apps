@@ -169,3 +169,11 @@
 
 + [董明珠怼小米空调销量第一：全靠代工 没有技术](https://www.3dmgame.com/news/202407/3898588.html)
 
++ [《街霸6》联动《pop子》 经典台词印章背景登场](https://www.3dmgame.com/news/202407/3898590.html)
+
++ [MOD作者发现《巫师3》隐藏剧情线 来自叶奈法的背叛](https://www.3dmgame.com/news/202407/3898592.html)
+
++ [《极限竞速：地平线5》夏日音乐特辑：与音乐同行的竞速之旅！](https://www.3dmgame.com/news/202407/3898591.html)
+
++ [Steam同时在线玩家数量再破记录 超3692万人同时在线](https://www.3dmgame.com/news/202407/3898589.html)
+

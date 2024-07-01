@@ -169,3 +169,5 @@
 
 + [大家都在跳槽，我需要跳槽吗？](https://blog.csdn.net/cao1315020626/article/details/140083474)
 
++ [改机软件有哪些？实现一键新机、改串号、改IMEI和手机参数的需求 硬改手机软件，新机环境模拟 设备伪装，一键改机，一键复原](https://blog.csdn.net/z920981023/article/details/140064792)
+

@@ -103,3 +103,29 @@
 
 + [AI VisionBoard](https://www.producthunt.com/posts/ai-visionboard)
 
++ [WebSim](https://www.producthunt.com/posts/websim)
+
++ [moimoi](https://www.producthunt.com/posts/moimoi)
+
++ [Therapartners](https://www.producthunt.com/posts/therapartners)
+
++ [Merge-X](https://www.producthunt.com/posts/merge-x)
+
++ [SoonCall](https://www.producthunt.com/posts/sooncall)
+
++ [Cooked.wiki](https://www.producthunt.com/posts/cooked-wiki)
+
++ [BrainyAI](https://www.producthunt.com/posts/brainyai)
+
++ [prompteasy.ai](https://www.producthunt.com/posts/prompteasy-ai)
+
++ [Hostel Hop](https://www.producthunt.com/posts/hostel-hop)
+
++ [ScienHub](https://www.producthunt.com/posts/scienhub)
+
++ [Summer](https://www.producthunt.com/posts/summer-3)
+
++ [beyobie](https://www.producthunt.com/posts/beyobie)
+
++ [Motiff](https://www.producthunt.com/posts/motiff)
+

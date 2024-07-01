@@ -53,3 +53,5 @@
 
 + [威胁探索 | APT在野利用MSC文件的初始访问和逃避方法](https://www.freebuf.com/articles/system/404458.html)
 
++ [CrimsonEDR：一款恶意软件模式识别与EDR策略评估工具](https://www.freebuf.com/sectool/404792.html)
+
