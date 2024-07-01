@@ -137,3 +137,11 @@
 
 + [GlobalSeo](https://www.producthunt.com/posts/globalseo)
 
++ [Full width for StackOverflow](https://www.producthunt.com/posts/full-width-for-stackoverflow)
+
++ [QR Code AI 2.0](https://www.producthunt.com/posts/qr-code-ai-2-0)
+
++ [tabOS](https://www.producthunt.com/posts/tabos)
+
++ [WaterFlow Diary](https://www.producthunt.com/posts/waterflow-diary)
+
