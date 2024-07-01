@@ -159,3 +159,13 @@
 
 + [静态时序分析：ideal_clock、propagated_clock以及generated_clock的关系及其延迟计算规则（二）](https://blog.csdn.net/weixin_45791458/article/details/140070290)
 
++ [基于大数据+爬虫颈椎病预防交流与数据可视化分析平台设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140092465)
+
++ [【Elasticsearch】Elasticsearch索引创建与管理详解](https://blog.csdn.net/a1657054242/article/details/140093634)
+
++ [【python爬虫】豆瓣爬虫学习](https://blog.csdn.net/LongL_GuYu/article/details/140072604)
+
++ [nuxt3搭建和部署](https://blog.csdn.net/dan_seek/article/details/140079231)
+
++ [大家都在跳槽，我需要跳槽吗？](https://blog.csdn.net/cao1315020626/article/details/140083474)
+
