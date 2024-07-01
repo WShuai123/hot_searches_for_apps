@@ -135,3 +135,5 @@
 
 + [✱ QR Code AI → 2.0](https://www.producthunt.com/posts/qr-code-ai-2-0)
 
++ [GlobalSeo](https://www.producthunt.com/posts/globalseo)
+

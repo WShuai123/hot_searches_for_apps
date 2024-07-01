@@ -215,3 +215,5 @@
 
 + [《黑神话：悟空》隐藏Boss“赤髯龙”战斗演示](https://www.3dmgame.com/news/202407/3898609.html)
 
++ [《战意》即将登陆腾讯WeGame平台 7月10日开启抢号不删档测试](https://www.3dmgame.com/news/202407/3898612.html)
+
