@@ -205,3 +205,13 @@
 
 + [英伟达老员工实现财富自由集体躺平！黄仁勋暗示卷起来](https://www.3dmgame.com/news/202407/3898670.html)
 
++ [射击游戏《第一后裔》Gley预告 今日正式解锁](https://www.3dmgame.com/news/202407/3898674.html)
+
++ [《GTA OL》更新添加了《GTA6》的物品：泳装女主的项链](https://www.3dmgame.com/news/202407/3898675.html)
+
++ [开发商公开征求新游戏名称 结合《FIFA 98》和《寂静岭》的生存恐怖足球游戏](https://www.3dmgame.com/news/202407/3898676.html)
+
++ [格斗游戏开发商Arc System Works欧洲分部宣布开业](https://www.3dmgame.com/news/202407/3898672.html)
+
++ [《Realtor》Steam页面上线 复古风3D恐怖探索](https://www.3dmgame.com/news/202407/3898673.html)
+
