@@ -101,3 +101,9 @@
 
 + [chrome-base源码分析(1)macros模块](https://blog.csdn.net/Once_day/article/details/140087973)
 
++ [从人工到自动化到AIOps再到ChatOps：大模型在运维领域的应用](https://blog.csdn.net/jdcdev_/article/details/140105517)
+
++ [安卓实现微信聊天气泡](https://blog.csdn.net/WenZhengshi/article/details/140112660)
+
++ [【实战】EasyExcel实现百万级数据导入导出](https://blog.csdn.net/weixin_39970883/article/details/140127982)
+

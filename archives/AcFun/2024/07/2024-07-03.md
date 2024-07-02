@@ -75,3 +75,5 @@
 
 + [抢先播三集，但争议真不小！这七月番开局王炸！超鬼妹妹看傻观众！](http://www.acfun.cn/v/ac44958402)
 
++ [【独家】STAR-T-RAIN](http://www.acfun.cn/v/ac44959676)
+
