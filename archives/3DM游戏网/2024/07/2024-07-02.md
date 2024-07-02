@@ -265,3 +265,9 @@
 
 + [老外爱上中国手机支付 直呼在中国工作和生活太方便](https://www.3dmgame.com/news/202407/3898701.html)
 
++ [《丧尸围城》原版男主配音演员：Capcom没邀请我回归](https://www.3dmgame.com/news/202407/3898704.html)
+
++ [以色列AR笔记本电脑开发商裁员三分之一](https://www.3dmgame.com/news/202407/3898703.html)
+
++ [《死侍与金刚狼》中国版预告片 狼叔空降上海和粉丝见面](https://www.3dmgame.com/news/202407/3898702.html)
+
