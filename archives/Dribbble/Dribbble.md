@@ -49,3 +49,25 @@
 
 + [Gorilla Surf](https://dribbble.com/shots/)
 
++ [Los Angeles Rams](https://dribbble.com/shots/)
+
++ [Weather](https://dribbble.com/shots/)
+
++ [Moon Shine - The Cowboy & The Coyote](https://dribbble.com/shots/)
+
++ [First Notion • Sleek Traditional Apparel Collection](https://dribbble.com/shots/)
+
++ [Give me the money!](https://dribbble.com/shots/)
+
++ [???? Procreate Brush ????](https://dribbble.com/shots/)
+
++ [❤️](https://dribbble.com/shots/)
+
++ [Quell Wordmark Logo Concepts](https://dribbble.com/shots/)
+
++ [Sours & Cobblers](https://dribbble.com/shots/)
+
++ [Handle with Care](https://dribbble.com/shots/)
+
++ [Blue Ribbon Beer Branding Design](https://dribbble.com/shots/)
+

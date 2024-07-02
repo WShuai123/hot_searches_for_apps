@@ -25,3 +25,5 @@
 
 + [微信 iOS 版 8.0.50 最新官方正式版下载发布](https://m.ithome.com/html/779057.htm)
 
++ [华为拟将问界等系列商标和专利转让给赛力斯，转让价 25 亿元](https://m.ithome.com/html/779238.htm)
+
