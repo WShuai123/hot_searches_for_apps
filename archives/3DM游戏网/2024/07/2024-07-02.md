@@ -167,3 +167,37 @@
 
 + [世嘉确认《疯狂出租车》新作是开放世界多人游戏](https://www.3dmgame.com/news/202407/3898649.html)
 
++ [《最终幻想7：重生》7月日历壁纸 萨菲罗斯好帅气](https://www.3dmgame.com/news/202407/3898665.html)
+
++ [萨克斯大神回归！成功击败《黄金树幽影》最终Boss](https://www.3dmgame.com/news/202407/3898669.html)
+
++ [《丧尸围城：豪华复刻版》主角原版配音并未参与游戏开发：卡普空没有邀请](https://www.3dmgame.com/news/202407/3898668.html)
+
++ [《怪物猎人》白电龙被命名广西新发现生物引热议](https://www.3dmgame.com/news/202407/3898667.html)
+
++ [金亨泰：《星刃》开发成本只有普通3A游戏的1/3](https://www.3dmgame.com/news/202407/3898666.html)
+
++ [复古风类银河恶魔城游戏《阿鲁纳》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898664.html)
+
++ [国产FPS《三角洲行动》α测试将于7月18日开启](https://www.3dmgame.com/news/202407/3898662.html)
+
++ [独立游戏发行商Mystic Forge获得200万欧元融资](https://www.3dmgame.com/news/202407/3898663.html)
+
++ [漫画《凡尔赛玫瑰》将制作新剧场版 2025年上映](https://www.3dmgame.com/news/202407/3898661.html)
+
++ [工信部发布脑机接口三大新方案 加速脑机接口研究](https://www.3dmgame.com/news/202407/3898660.html)
+
++ [本源量子与中国联通签署战略合作协议 将量子算力应用到通信中](https://www.3dmgame.com/news/202407/3898659.html)
+
++ [《O2Jam Remix》免费登陆PC 支持在线游玩节奏新游](https://www.3dmgame.com/news/202407/3898658.html)
+
++ [心理恐怖游戏《修复师：起源》7月13日发售 支持中文](https://www.3dmgame.com/news/202407/3898655.html)
+
++ [《龙之家族》导演确认第二季中出现了《权利的游戏》的彩蛋](https://www.3dmgame.com/news/202407/3898654.html)
+
++ [EVO 2024各游戏项目参赛人数公布 《街头霸王6》位居榜首](https://www.3dmgame.com/news/202407/3898647.html)
+
++ [轻肉鸽科幻射击游戏《轮回的瓦尔基里》现已在Steam平台推出试玩版](https://www.3dmgame.com/news/202407/3898656.html)
+
++ [尼基塔应对《逃离塔科夫》外挂：玩家举报可获奖励](https://www.3dmgame.com/news/202407/3898657.html)
+

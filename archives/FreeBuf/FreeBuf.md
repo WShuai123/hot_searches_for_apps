@@ -47,3 +47,7 @@
 
 + [渗透测试 | 黑白盒测试配合实战经验分享（第二篇）](https://www.freebuf.com/articles/web/404763.html)
 
++ [OpenSSH漏洞预警：无需用户交互，可提权至 root](https://www.freebuf.com/news/404977.html)
+
++ [澳大利亚男子炮制虚假航空公司WIFI骗取乘客账户凭证](https://www.freebuf.com/news/404964.html)
+

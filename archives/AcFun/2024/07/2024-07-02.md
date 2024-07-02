@@ -79,3 +79,5 @@
 
 + [AEW/NJPW Forbidden Door 2024.06.30](http://www.acfun.cn/v/ac44949199)
 
++ [深挖：第六个登上月球的人，不记得月球上的事情？同样的情况也出现在登月第二人、第三人身上](http://www.acfun.cn/v/ac44950645)
+
