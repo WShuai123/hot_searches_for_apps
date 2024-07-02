@@ -53,3 +53,7 @@
 
 + [Palo Alto Networks（CVE-2024-3400 ）命令注入漏洞攻击后利用UPSTYLE后门分析](https://www.freebuf.com/articles/endpoint/404235.html)
 
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+
++ [Palo Alto Networks命令注入漏洞攻击后利用UPSTYLE后门分析](https://www.freebuf.com/articles/endpoint/404235.html)
+
