@@ -31,3 +31,7 @@
 
 + [小米米家运动杯 1L 上架：支持一键弹盖、独立茶仓，众筹价 79 元](https://m.ithome.com/html/778981.htm)
 
++ [7 岁中国小女孩报告特斯拉汽车 BUG，马斯克明确回应会修复](https://m.ithome.com/html/779007.htm)
+
++ [2025 款极氪 X 紧凑型 SUV 上市，限时权益价 17.9 万元起](https://m.ithome.com/html/778958.htm)
+

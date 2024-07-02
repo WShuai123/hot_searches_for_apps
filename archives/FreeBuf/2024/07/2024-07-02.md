@@ -45,3 +45,5 @@
 
 + [强对抗的 SquidLoader 针对中国企业发起攻击](https://www.freebuf.com/articles/network/404478.html)
 
++ [渗透测试 | 黑白盒测试配合实战经验分享（第二篇）](https://www.freebuf.com/articles/web/404763.html)
+
