@@ -71,3 +71,17 @@
 
 + [Blue Ribbon Beer Branding Design](https://dribbble.com/shots/)
 
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [Lotus Flower](https://dribbble.com/shots/)
+
++ [The Archer](https://dribbble.com/shots/)
+
++ [Create, imagine exist](https://dribbble.com/shots/)
+
++ [HHC Living Brand Pattern](https://dribbble.com/shots/)
+
++ [Stargate badge](https://dribbble.com/shots/)
+
++ [Rumble Golf Brand Identity](https://dribbble.com/shots/)
+

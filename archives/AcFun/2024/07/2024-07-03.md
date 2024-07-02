@@ -67,3 +67,7 @@
 
 + [【林小C】林娜琏《ABCD》辣妹来也](http://www.acfun.cn/v/ac44958447)
 
++ [Gambare Gambare Senpai](http://www.acfun.cn/v/ac44958932)
+
++ [小小扭一哈【LIVE2D】](http://www.acfun.cn/v/ac44956852)
+
