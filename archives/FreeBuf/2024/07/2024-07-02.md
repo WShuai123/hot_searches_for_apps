@@ -41,3 +41,7 @@
 
 + [URL Status Checker：一款基于纯Python的URL状态检测工具](https://www.freebuf.com/sectool/404397.html)
 
++ [FreeBuf早报 | 个别网民正为间谍卫星“指路”；全球警方抓捕近4000网诈犯](https://www.freebuf.com/news/404890.html)
+
++ [强对抗的 SquidLoader 针对中国企业发起攻击](https://www.freebuf.com/articles/network/404478.html)
+

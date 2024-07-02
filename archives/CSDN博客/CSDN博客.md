@@ -125,3 +125,21 @@
 
 + [邑大校园网络安全建设及加固报告](https://blog.csdn.net/linlianxin123258/article/details/140067696)
 
++ [AI音乐革命：创新的门槛降低与产业未来的挑战](https://blog.csdn.net/u014727709/article/details/140092594)
+
++ [【Spring】异步请求知识点与使用姿势小结](https://blog.csdn.net/qq_21383435/article/details/130375971)
+
++ [Elasticsearch：Painless scripting 语言（二）](https://blog.csdn.net/UbuntuTouch/article/details/140100046)
+
++ [数学建模比赛介绍与写作建议](https://blog.csdn.net/qq_41938259/article/details/140080702)
+
++ [阿里云服务器数据库迁云: 数据从传统到云端的安全之旅（WordPress个人博客实战教学）](https://blog.csdn.net/qq_57761637/article/details/139940280)
+
++ [GPT-4o文科成绩超一本线，理科为何表现不佳？](https://blog.csdn.net/ElevenSakura/article/details/140111964)
+
++ [改机软件有哪些？实现一键新机、改串号、改IMEI和手机参数的需求 硬改手机软件，新机环境模拟 设备伪装，一键改机，一键复原](https://blog.csdn.net/z920981023/article/details/140064792)
+
++ [算法学习路线总结: 算法工程师的修炼手册](https://blog.csdn.net/qq_26664043/article/details/140073461)
+
++ [计算机网络八股文](https://blog.csdn.net/qq_45276167/article/details/137485321)
+
