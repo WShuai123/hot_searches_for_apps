@@ -231,3 +231,19 @@
 
 + [日本厂商推出《艾尔登法环》可爱战士壶形象马克杯](https://www.3dmgame.com/news/202407/3898677.html)
 
++ [《漫威蜘蛛侠2》游戏摄影美图欣赏 双蛛帅气姿势展示](https://www.3dmgame.com/news/202407/3898690.html)
+
++ [《最终幻想14》7.0版本BUG太多 吉田总监亲自道歉](https://www.3dmgame.com/news/202407/3898692.html)
+
++ [28000人不给钱就不上班！三星遭成立55年来第一次总罢工](https://www.3dmgame.com/news/202407/3898691.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》再登顶](https://www.3dmgame.com/news/202407/3898689.html)
+
++ [厂商继续价格战没跑！多家车企年度销售目标完成率不足40% 你换新车没](https://www.3dmgame.com/news/202407/3898688.html)
+
++ [《Dark Legacies》即将登陆GBC掌机 复古魂斗罗风新游](https://www.3dmgame.com/news/202407/3898687.html)
+
++ [《艾尔登法环》无缝联机Mod现已支持《黄金树幽影》](https://www.3dmgame.com/news/202407/3898686.html)
+
++ [SE宣布将于在东京涉谷开设新办事处 10月开始营业](https://www.3dmgame.com/news/202407/3898685.html)
+

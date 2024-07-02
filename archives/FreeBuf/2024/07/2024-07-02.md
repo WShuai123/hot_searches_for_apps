@@ -61,3 +61,5 @@
 
 + [尽快修复！思科又被曝出安全漏洞](https://www.freebuf.com/news/404980.html)
 
++ [可获root权限，思科NX-OS 零日漏洞修复已发布](https://www.freebuf.com/news/404980.html)
+

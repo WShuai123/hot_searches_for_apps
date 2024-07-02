@@ -49,3 +49,5 @@
 
 + [阿里云：上海可用区 N 网络访问异常，现已恢复](https://m.ithome.com/html/779071.htm)
 
++ [比亚迪 6 月新能源车销量 34.17 万辆，同比增长 35.02%](https://m.ithome.com/html/778944.htm)
+
