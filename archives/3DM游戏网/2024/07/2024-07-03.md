@@ -109,3 +109,13 @@
 
 + [EA《大学橄榄球25》深度预告片介绍王朝模式](https://www.3dmgame.com/news/202407/3898714.html)
 
++ [《进击的巨人VR》7月23日率先登陆Quest VR平台](https://www.3dmgame.com/news/202407/3898719.html)
+
++ [任天堂起诉Switch烧录卡和盗版游戏下载商店](https://www.3dmgame.com/news/202407/3898718.html)
+
++ [全新变形金刚游戏《变形金刚：银河试炼》11月发售](https://www.3dmgame.com/news/202407/3898717.html)
+
++ [《尼克儿童频道全明星大乱斗2》迎来忍者神龟反派角色](https://www.3dmgame.com/news/202407/3898716.html)
+
++ [《高达创坏者4》公开最新情报 即将开启公测](https://www.3dmgame.com/news/202407/3898715.html)
+
