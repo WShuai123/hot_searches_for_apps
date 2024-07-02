@@ -263,3 +263,5 @@
 
 + [NEXON团队刷宝射击游戏“第一后裔”今日全球发售](https://www.3dmgame.com/news/202407/3898700.html)
 
++ [老外爱上中国手机支付 直呼在中国工作和生活太方便](https://www.3dmgame.com/news/202407/3898701.html)
+
