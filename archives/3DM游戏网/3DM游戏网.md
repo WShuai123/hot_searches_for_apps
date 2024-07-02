@@ -155,3 +155,15 @@
 
 + [免费动作游戏《猎人竞技场：革命》公布 7月18日开启CBT测试](https://www.3dmgame.com/news/202407/3898638.html)
 
++ [Funko公仔衍生游戏《Funko Fusion》宣布联动《军团要塞2》 发售时免费推出](https://www.3dmgame.com/news/202407/3898648.html)
+
++ [全球首例：法国反垄断机构准备对英伟达出手](https://www.3dmgame.com/news/202407/3898650.html)
+
++ [亚马逊透露《刀剑神域：碎梦边境》将于10月3日发售](https://www.3dmgame.com/news/202407/3898651.html)
+
++ [《塔京Clanpool》将复归登陆Steam/Switch 经典美少女DRPG](https://www.3dmgame.com/news/202407/3898652.html)
+
++ [《星际公民》开发商要求残疾员工返回办公室 被告歧视要求赔偿2.7万英镑](https://www.3dmgame.com/news/202407/3898653.html)
+
++ [世嘉确认《疯狂出租车》新作是开放世界多人游戏](https://www.3dmgame.com/news/202407/3898649.html)
+

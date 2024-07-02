@@ -145,3 +145,11 @@
 
 + [pdf如何转成图片（不带水印）](https://blog.csdn.net/Daylighte/article/details/140111081)
 
++ [【AI 大模型】提示工程 ③ ( 提示词用法 | 提示词 Prompt 构成 | 提示词位置对权重的影响 | 提示词 Prompt 调优 | OpenAI 的 API 类型 | 提示词重要参数说明 )](https://blog.csdn.net/han1202012/article/details/140103610)
+
++ [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
+
++ [【Kaggle】Telco Customer Churn 电信用户流失预测案例](https://blog.csdn.net/qq_64685283/article/details/140104092)
+
++ [Webpack: 深入理解图像加载原理与最佳实践](https://blog.csdn.net/Tyro_java/article/details/140059638)
+
