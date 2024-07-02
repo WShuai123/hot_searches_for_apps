@@ -109,3 +109,9 @@
 
 + [Weather](https://dribbble.com/shots/)
 
++ [Quell Wordmark Logo Concepts](https://dribbble.com/shots/)
+
++ [Stargate badge](https://dribbble.com/shots/)
+
++ [Elusive Fire Logo System](https://dribbble.com/shots/)
+

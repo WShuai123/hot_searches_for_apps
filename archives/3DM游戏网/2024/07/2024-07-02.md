@@ -271,3 +271,9 @@
 
 + [《死侍与金刚狼》中国版预告片 狼叔空降上海和粉丝见面](https://www.3dmgame.com/news/202407/3898702.html)
 
++ [Xbox Game Pass 7月上旬新增游戏公布](https://www.3dmgame.com/news/202407/3898707.html)
+
++ [太空城市建造游戏《伊克西翁》将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202407/3898706.html)
+
++ [恐怖游戏《寂静之地：前方之路》首个故事宣传片](https://www.3dmgame.com/news/202407/3898705.html)
+
