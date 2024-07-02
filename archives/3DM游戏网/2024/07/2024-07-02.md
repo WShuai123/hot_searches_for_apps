@@ -215,3 +215,19 @@
 
 + [《Realtor》Steam页面上线 复古风3D恐怖探索](https://www.3dmgame.com/news/202407/3898673.html)
 
++ [壶头哥也需要帮助 自爆曾使用召唤物来攻克神兽舞狮等BOSS](https://www.3dmgame.com/news/202407/3898683.html)
+
++ [游乐园建造模拟《Parkitect》主机版预告 7月3日上线](https://www.3dmgame.com/news/202407/3898680.html)
+
++ [卡普空官方推出最新怪猎炎妃龙手办 精致华丽霸气](https://www.3dmgame.com/news/202407/3898682.html)
+
++ [宝可梦官方玩梗：IGN因为游戏里“水太多了”给差评](https://www.3dmgame.com/news/202407/3898681.html)
+
++ [《索尼克×夏特 世代重启》收藏版介绍 10月25日发售](https://www.3dmgame.com/news/202407/3898684.html)
+
++ [吸血鬼生存游戏《夜族崛起》Steam迎来史低价，75.6元即可入手！](https://www.3dmgame.com/news/202407/3898679.html)
+
++ [奇幻生存动作游戏《雾锁王国》Steam夏促史低价78.4元](https://www.3dmgame.com/news/202407/3898678.html)
+
++ [日本厂商推出《艾尔登法环》可爱战士壶形象马克杯](https://www.3dmgame.com/news/202407/3898677.html)
+

@@ -59,3 +59,5 @@
 
 + [APKDeepLens：一款针对Android应用程序的安全扫描工具](https://www.freebuf.com/sectool/404813.html)
 
++ [尽快修复！思科又被曝出安全漏洞](https://www.freebuf.com/news/404980.html)
+
