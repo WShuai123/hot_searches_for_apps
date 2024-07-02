@@ -103,3 +103,9 @@
 
 + [《刀剑神域：碎梦边境》新预告 确认将于10月3日发售](https://www.3dmgame.com/news/202407/3898711.html)
 
++ [《光屁屁拳击》正式版8/1登陆PC/Switch](https://www.3dmgame.com/news/202407/3898712.html)
+
++ [钓鱼游戏系列新作《神眼钓手：夏日》10/28发行](https://www.3dmgame.com/news/202407/3898713.html)
+
++ [EA《大学橄榄球25》深度预告片介绍王朝模式](https://www.3dmgame.com/news/202407/3898714.html)
+
