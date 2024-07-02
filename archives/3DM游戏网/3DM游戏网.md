@@ -247,3 +247,17 @@
 
 + [SE宣布将于在东京涉谷开设新办事处 10月开始营业](https://www.3dmgame.com/news/202407/3898685.html)
 
++ [游戏科学：《黑神话：悟空》发售后将推出DLC](https://www.3dmgame.com/news/202407/3898696.html)
+
++ [《罪恶装备：STRIVE》玩家数量已超过300万 更多游戏内容筹备中](https://www.3dmgame.com/news/202407/3898697.html)
+
++ [经典名作30周年新篇《恐怖惊魂夜×3》预购开启 9月登陆多平台](https://www.3dmgame.com/news/202407/3898698.html)
+
++ [探访完美世界总部：近千员工集体“毕业” 一整栋楼都空了](https://www.3dmgame.com/news/202407/3898699.html)
+
++ [微信iOS 8.0.50正式版发布 视频支持倍速播放了](https://www.3dmgame.com/news/202407/3898693.html)
+
++ [《妮姬：胜利女神》泳装拉毗手办 泳衣要包不住了](https://www.3dmgame.com/news/202407/3898694.html)
+
++ [黄仁勋：未来职场会更卷 AI可以充当“员工”](https://www.3dmgame.com/news/202407/3898695.html)
+

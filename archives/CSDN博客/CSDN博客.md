@@ -183,3 +183,7 @@
 
 + [大数据开发中如何计算用户留存及SQL示例](https://blog.csdn.net/u012955829/article/details/140088651)
 
++ [Redis 典型应用——缓存（缓存预热，穿透，雪崩，击穿）](https://blog.csdn.net/2201_75456895/article/details/140080819)
+
++ [【高考志愿】建筑学](https://blog.csdn.net/xiaoyingxixi1989/article/details/140110011)
+
