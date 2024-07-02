@@ -39,3 +39,23 @@
 
 + [hajimehoshi / ebiten](https://github.com/hajimehoshi/ebiten)
 
++ [ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)
+
++ [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
++ [actualbudget / actual-server](https://github.com/actualbudget/actual-server)
+
++ [moby / moby](https://github.com/moby/moby)
+
++ [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [restic / restic](https://github.com/restic/restic)
+
++ [NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator)
+

@@ -261,3 +261,5 @@
 
 + [黄仁勋：未来职场会更卷 AI可以充当“员工”](https://www.3dmgame.com/news/202407/3898695.html)
 
++ [NEXON团队刷宝射击游戏“第一后裔”今日全球发售](https://www.3dmgame.com/news/202407/3898700.html)
+
