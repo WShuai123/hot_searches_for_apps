@@ -51,3 +51,5 @@
 
 + [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
 
++ [渗透测试 | 攻击者如何欺骗 POWERSHELL 安全日志并绕过 AMSI](https://www.freebuf.com/articles/system/404222.html)
+

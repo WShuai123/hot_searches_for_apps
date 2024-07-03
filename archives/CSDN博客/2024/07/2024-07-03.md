@@ -145,3 +145,7 @@
 
 + [Docker 一篇到位](https://blog.csdn.net/weixin_62700590/article/details/140043021)
 
++ [基于YOLOv10深度学习的CT扫描图像肾结石智能检测系统【python源码+Pyqt5界面+数据集+训练代码】深度学习实战、目标检测](https://blog.csdn.net/qq_42589613/article/details/140123058)
+
++ [探索IT世界的第一步：高考后的暑期学习指南](https://blog.csdn.net/cooldream2009/article/details/140116887)
+
