@@ -31,3 +31,5 @@
 
 + [闲鱼“简历”功能上线：展示 2024 十大副业风口，00 后搞钱意识遥遥领先](https://m.ithome.com/html/779239.htm)
 
++ [消息称苹果上调 A18 芯片订单，预计 iPhone 16 / Pro 系列需求强劲](https://m.ithome.com/html/779212.htm)
+

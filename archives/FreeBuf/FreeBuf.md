@@ -45,3 +45,5 @@
 
 + [2024年迄今最热门的10款网络安全工具和产品](https://www.freebuf.com/sectool/404943.html)
 
++ [网络安全&密码学—python中的各种加密算法](https://www.freebuf.com/articles/web/404947.html)
+
