@@ -101,3 +101,33 @@
 
 + [Widgera](https://www.producthunt.com/posts/widgera)
 
++ [Hotsuto](https://www.producthunt.com/posts/hotsuto)
+
++ [Defer](https://www.producthunt.com/posts/defer)
+
++ [Clouds](https://www.producthunt.com/posts/clouds)
+
++ [Calypso](https://www.producthunt.com/posts/calypso)
+
++ [CustomJS](https://www.producthunt.com/posts/customjs)
+
++ [Archivist: AI Search for Code](https://www.producthunt.com/posts/archivist-ai-search-for-code)
+
++ [Suno](https://www.producthunt.com/posts/suno-2)
+
++ [Bashnode](https://www.producthunt.com/posts/bashnode)
+
++ [Skott](https://www.producthunt.com/posts/skott)
+
++ [CatSync](https://www.producthunt.com/posts/catsync)
+
++ [Git2Log](https://www.producthunt.com/posts/git2log)
+
++ [BuilderKit](https://www.producthunt.com/posts/builderkit)
+
++ [Slack community sites with Hall](https://www.producthunt.com/posts/slack-community-sites-with-hall)
+
++ [Investor Profile by Roundtable](https://www.producthunt.com/posts/investor-profile-by-roundtable)
+
++ [WebInsights](https://www.producthunt.com/posts/webinsights)
+
