@@ -63,3 +63,5 @@
 
 + [公开处刑！aespa-Hot Mess~业余和专业的区别……](http://www.acfun.cn/v/ac44966034)
 
++ [【ACFUN声唱2024】伥鬼 - 双怡](http://www.acfun.cn/v/ac44965974)
+
