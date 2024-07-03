@@ -181,3 +181,9 @@
 
 + [基于springboot+vue+uniapp的大学生党务学习平台](https://blog.csdn.net/shmp54/article/details/140137944)
 
++ [使用CiteSpace软件对知网文献进行关键词共现/聚类/突现分析](https://blog.csdn.net/m0_64336780/article/details/139992063)
+
++ [外挂级OCR神器：免费文档解析、表格识别、手写识别、古籍识别、PDF转Word](https://blog.csdn.net/INTSIG/article/details/140125765)
+
++ [计算机网络概述--自我学习用](https://blog.csdn.net/longer_net/article/details/140129620)
+
