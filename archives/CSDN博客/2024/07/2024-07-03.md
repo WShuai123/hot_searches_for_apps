@@ -175,3 +175,9 @@
 
 + [前端接入chatgpt,实现流式文字的显示](https://blog.csdn.net/qq_40830369/article/details/140123245)
 
++ [【机器学习】在【Pycharm】中的实践教程：使用【逻辑回归模型】进行【乳腺癌检测】](https://blog.csdn.net/2303_77720864/article/details/140111420)
+
++ [使用 PyTorch 创建的多步时间序列预测的 Encoder-Decoder 模型](https://blog.csdn.net/m0_46510245/article/details/140148732)
+
++ [基于springboot+vue+uniapp的大学生党务学习平台](https://blog.csdn.net/shmp54/article/details/140137944)
+
