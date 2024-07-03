@@ -47,3 +47,5 @@
 
 + [影响 39 亿台安卓设备，Rafel 木马肆虐网络：中国是重灾区之一](https://m.ithome.com/html/779262.htm)
 
++ [9.98 万元起的比亚迪秦 L DM-i 汽车 6 月销量超 2 万辆，占秦家族总销量的近 30%](https://m.ithome.com/html/779339.htm)
+

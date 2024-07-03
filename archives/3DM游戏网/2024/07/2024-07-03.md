@@ -227,3 +227,27 @@
 
 + [感恩回馈！《三国群英传》单机系列现金返利，8代史低折扣](https://www.3dmgame.com/news/202407/3898769.html)
 
++ [不能落后中美！印度：我们要很快实现载人登陆月球](https://www.3dmgame.com/news/202407/3898785.html)
+
++ [扎克伯格反感闭源AI：不应私藏 要把工具交到更多人手中](https://www.3dmgame.com/news/202407/3898784.html)
+
++ [《魅魔》新DLC《Elysian Fields》公开 追加肉鸽元素玩法](https://www.3dmgame.com/news/202407/3898783.html)
+
++ [JK罗琳怒斥LGBT人士：虚伪至极 喜欢攻击别人](https://www.3dmgame.com/news/202407/3898782.html)
+
++ [《刀剑神域 碎梦边境》将于2024年10月3日上市！公开最新宣传视频及版本情报](https://www.3dmgame.com/news/202407/3898781.html)
+
++ [《索尼克×夏特 世代重启》最新资讯 介绍本作故事情节以及冒险舞台](https://www.3dmgame.com/news/202407/3898780.html)
+
++ [《GUNDAM 创坏者4》即将举行公开网络测试！](https://www.3dmgame.com/news/202407/3898779.html)
+
++ [据报道苹果高管菲利普·席勒将加入OpenAI董事会](https://www.3dmgame.com/news/202407/3898778.html)
+
++ [“SEGA七月精选促销 ”火热进行中！《索尼克狂欢》等加入促销行列](https://www.3dmgame.com/news/202407/3898777.html)
+
++ [游戏科学谈《黑神话：悟空》动作设计 逼真画面的制作](https://www.3dmgame.com/news/202407/3898776.html)
+
++ [赛力斯用25亿元：买下了华为价值超102亿的问界商标](https://www.3dmgame.com/news/202407/3898775.html)
+
++ [迅网成时代眼泪 00后已不用电脑 下载成小众行为](https://www.3dmgame.com/news/202407/3898774.html)
+

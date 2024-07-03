@@ -35,3 +35,21 @@
 
 + [NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator)
 
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+
++ [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+
++ [BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+
++ [folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+
++ [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
+
++ [jeremylong / DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+
++ [ydb-platform / ydb](https://github.com/ydb-platform/ydb)
+

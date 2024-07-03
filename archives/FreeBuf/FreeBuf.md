@@ -59,3 +59,5 @@
 
 + [AttackGen：一款基于LLM的网络安全事件响应测试工具](https://www.freebuf.com/sectool/405042.html)
 
++ [AIGC在安全领域的应用 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/405073.html)
+
