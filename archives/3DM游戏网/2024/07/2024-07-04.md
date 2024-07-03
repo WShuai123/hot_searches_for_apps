@@ -101,3 +101,13 @@
 
 + [Xbox Live遇到严重问题无法登录 微软：修复要更多时间](https://www.3dmgame.com/news/202407/3898736.html)
 
++ [《魔法餐作室》延期至8月15日 治愈像素风](https://www.3dmgame.com/news/202407/3898796.html)
+
++ [《机械战警：暴戾都市》开发商正制作一款动作RPG游戏](https://www.3dmgame.com/news/202407/3898795.html)
+
++ [黄仁勋连续抛售NVIDIA股票！套现超13亿元](https://www.3dmgame.com/news/202407/3898792.html)
+
++ [表现强劲！《第一后裔》登顶Steam销量榜](https://www.3dmgame.com/news/202407/3898793.html)
+
++ [外媒评选PS5平台15款难白金游戏 《老头环》在列](https://www.3dmgame.com/news/202407/3898794.html)
+

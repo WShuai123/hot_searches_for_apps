@@ -49,3 +49,51 @@
 
 + [Summer Aesthetic Illustrations](https://dribbble.com/shots/)
 
++ [Power Tool Characters](https://dribbble.com/shots/)
+
++ [Sailing](https://dribbble.com/shots/)
+
++ [Tarot card #17 - The Star - Daily Vector Art](https://dribbble.com/shots/)
+
++ [50k Followers on Dribbble!](https://dribbble.com/shots/)
+
++ [Vet App Mobile Design](https://dribbble.com/shots/)
+
++ [Optia - finance tracker elements](https://dribbble.com/shots/)
+
++ [Studying Abroad](https://dribbble.com/shots/)
+
++ [F Lettermark](https://dribbble.com/shots/)
+
++ [3D Animation For Woodsmenland.com](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks](https://dribbble.com/shots/)
+
++ [Focus Lab is hiring! ????](https://dribbble.com/shots/)
+
++ [Cosmic - Subscription Page](https://dribbble.com/shots/)
+
++ [Alone in the Bubble](https://dribbble.com/shots/)
+
++ [Webots Website](https://dribbble.com/shots/)
+
++ [The Art of the Series ????](https://dribbble.com/shots/)
+
++ [Marketplace Website](https://dribbble.com/shots/)
+
++ [Qubicus - Fan Token Meme mem](https://dribbble.com/shots/)
+
++ [Odradek — AI Powered Smart Home](https://dribbble.com/shots/)
+
++ [Sicky Mag - Luxury Style Fashion Ecommerce Website - Home Page](https://dribbble.com/shots/)
+
++ [Landed Logo](https://dribbble.com/shots/)
+
++ [Geometric Lion Logo](https://dribbble.com/shots/)
+
++ [Brand Design](https://dribbble.com/shots/)
+
++ [Geomap](https://dribbble.com/shots/)
+
++ [Your program for Viva](https://dribbble.com/shots/)
+
