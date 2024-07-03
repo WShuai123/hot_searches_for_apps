@@ -55,3 +55,9 @@
 
 + [“OK 手势”排第一，2024 全球 Emoji “失宠”榜单公布](https://m.ithome.com/html/779268.htm)
 
++ [小鹏 MONA M03 实车全球首秀，20 万元以内国内首台“A 级智能纯电掀背轿跑”](https://m.ithome.com/html/779366.htm)
+
++ [苹果今秋推出，iOS / iPadOS 18 等新系统专栏页面上线：全方位介绍新功能 / 新特性](https://m.ithome.com/html/779252.htm)
+
++ [因生成的设计太像苹果天气 App，Figma AI 设计工具被迫下线](https://m.ithome.com/html/779417.htm)
+
