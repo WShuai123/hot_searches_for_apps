@@ -149,3 +149,43 @@
 
 + [《Peppermint-Tinted Pyrade》PC免费发布 动作解谜](https://www.3dmgame.com/news/202407/3898724.html)
 
++ [三消桌面策略游戏《跨越：主动出击》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898752.html)
+
++ [《刀剑神域 碎梦边境》Steam预购 国区售价298元](https://www.3dmgame.com/news/202407/3898754.html)
+
++ [眼镜社官宣正式加入万代南梦宫 继续开发《超机战》等名作](https://www.3dmgame.com/news/202407/3898753.html)
+
++ [《致命公司》迎来重大更新 添加新怪物和首辆载具](https://www.3dmgame.com/news/202407/3898751.html)
+
++ [谷歌碳排放量因AI能源需求激增近50% 零排放目标遇阻](https://www.3dmgame.com/news/202407/3898750.html)
+
++ [《生化危机9》导演愿景：要把玩家吓得魂不附体 屁滚尿流](https://www.3dmgame.com/news/202407/3898749.html)
+
++ [《北海道连续杀人事件 消失在鄂霍次克》Steam页面 9月12日发售](https://www.3dmgame.com/news/202407/3898746.html)
+
++ [万代推出全新设计电子宠物机 三款新生物饲育](https://www.3dmgame.com/news/202407/3898745.html)
+
++ [《燕云十六声》墨门遗孤容鸢介绍 武侠与科技结合](https://www.3dmgame.com/news/202407/3898744.html)
+
++ [梵蒂冈封圣首位游戏玩家 一位热爱《光环》的15岁孩子](https://www.3dmgame.com/news/202407/3898748.html)
+
++ [《龙与地下城》5R规则首席设计师透露 部分改动受到《博德之门3》游玩感受影响](https://www.3dmgame.com/news/202407/3898747.html)
+
++ [网易游戏发布暑期限玩通知 总计时长不超过24小时](https://www.3dmgame.com/news/202407/3898742.html)
+
++ [《燧石枪:黎明之围》新预告 7月18日正式发售](https://www.3dmgame.com/news/202407/3898740.html)
+
++ [《街头霸王6》嘉米新手办推出：身材完美 表情还原](https://www.3dmgame.com/news/202407/3898741.html)
+
++ [《祇：女神之道》9分钟实机 动作和战略兼具](https://www.3dmgame.com/news/202407/3898739.html)
+
++ [迪士尼游戏官方发布持剑米老鼠预告 近期公布新游戏](https://www.3dmgame.com/news/202407/3898738.html)
+
++ [N站推出新Mod应用测试版 现仅支持《星露谷物语》](https://www.3dmgame.com/news/202407/3898743.html)
+
++ [Xbox Live遇到严重问题无法登录 微软：修复要更多时间](https://www.3dmgame.com/news/202407/3898736.html)
+
++ [电影质感 当《星球大战绝地：幸存者》打上多个MOD](https://www.3dmgame.com/news/202407/3898729.html)
+
++ [雷导新作《角斗士2》新剧照曝光 11月15日上映](https://www.3dmgame.com/news/202407/3898737.html)
+

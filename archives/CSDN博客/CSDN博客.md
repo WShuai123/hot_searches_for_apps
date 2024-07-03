@@ -127,3 +127,21 @@
 
 + [系统安全及应用（命令）](https://blog.csdn.net/qq_63994746/article/details/140041812)
 
++ [【机器学习】机器学习的重要方法——线性回归算法深度探索与未来展望](https://blog.csdn.net/2301_79181030/article/details/140122935)
+
++ [Spring之spring的单例bean是线程安全的吗](https://blog.csdn.net/weixin_45764765/article/details/140131827)
+
++ [【python】PyQt5事件机制、定时器原理分析和实战演练](https://blog.csdn.net/littlefun591/article/details/140130461)
+
++ [axios的底层ajax，XMLHttpRequest原理解释及使用方法](https://blog.csdn.net/Zwwxd666/article/details/140132301)
+
++ [前端工程化09-webpack静态的模块化打包工具(未完结)](https://blog.csdn.net/qq_45052183/article/details/140088665)
+
++ [基于低代码开发技术的管理会计体系架构研究](https://blog.csdn.net/sdgfafg_25/article/details/140128482)
+
++ [Redis哨兵和集群模式](https://blog.csdn.net/qq_64519337/article/details/140119090)
+
++ [STM32智能家居掌上屏实战：从WiFi连接到MQTT通信，打造你的家庭物联网网关](https://blog.csdn.net/qq_40431685/article/details/140133851)
+
++ [Docker 一篇到位](https://blog.csdn.net/weixin_62700590/article/details/140043021)
+

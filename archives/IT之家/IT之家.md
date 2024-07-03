@@ -33,3 +33,9 @@
 
 + [消息称苹果上调 A18 芯片订单，预计 iPhone 16 / Pro 系列需求强劲](https://m.ithome.com/html/779212.htm)
 
++ [国家网信办：“王悟空说车”等账号发布虚假不实信息被关闭](https://m.ithome.com/html/779197.htm)
+
++ [全系 A18 芯片：代码显示苹果 iPhone 16 / Pro 四款机型采用同类标识符](https://m.ithome.com/html/779253.htm)
+
++ [小米 MIX Fold 4 折叠屏手机背面渲染图曝光](https://m.ithome.com/html/779259.htm)
+

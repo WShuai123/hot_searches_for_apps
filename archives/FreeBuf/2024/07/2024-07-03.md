@@ -47,3 +47,7 @@
 
 + [网络安全&密码学—python中的各种加密算法](https://www.freebuf.com/articles/web/404947.html)
 
++ [Xbox 全球瘫痪，多个平台用户受影响](https://www.freebuf.com/news/405076.html)
+
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
