@@ -253,3 +253,7 @@
 
 + [微软前CEO鲍尔默财富超过创始人比尔·盖茨](https://www.3dmgame.com/news/202407/3898786.html)
 
++ [Capcom收购中国台湾动画公司 仅仅花了2.7万美元](https://www.3dmgame.com/news/202407/3898788.html)
+
++ [任天堂称未来第一方游戏不会使用生成式AI](https://www.3dmgame.com/news/202407/3898787.html)
+
