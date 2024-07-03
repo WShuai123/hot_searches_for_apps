@@ -41,3 +41,7 @@
 
 + [CSAF：一款结构化的网络安全意识框架](https://www.freebuf.com/sectool/404443.html)
 
++ [FreeBuf早报 | OpenSSH 遭遇新威胁；日本动漫游戏巨头 Kadokawa 承认数据泄露](https://www.freebuf.com/news/404997.html)
+
++ [2024年迄今最热门的10款网络安全工具和产品](https://www.freebuf.com/sectool/404943.html)
+

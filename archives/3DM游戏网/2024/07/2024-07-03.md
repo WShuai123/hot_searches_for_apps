@@ -119,3 +119,9 @@
 
 + [《高达创坏者4》公开最新情报 即将开启公测](https://www.3dmgame.com/news/202407/3898715.html)
 
++ [卡普空：《丧尸围城：豪华复刻版》更像重制版而非复刻版](https://www.3dmgame.com/news/202407/3898722.html)
+
++ [《祇：女神之道》主线时长将超过20个小时](https://www.3dmgame.com/news/202407/3898721.html)
+
++ [《第一后裔》Steam在线峰值超21万 评价却褒贬不一](https://www.3dmgame.com/news/202407/3898720.html)
+

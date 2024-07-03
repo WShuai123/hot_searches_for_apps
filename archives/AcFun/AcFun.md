@@ -77,3 +77,7 @@
 
 + [【独家】STAR-T-RAIN](http://www.acfun.cn/v/ac44959676)
 
++ [爵士翻唱Promise-所以我打破诺言【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44960409)
+
++ [Super Shy](http://www.acfun.cn/v/ac44958922)
+
