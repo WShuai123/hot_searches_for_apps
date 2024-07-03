@@ -111,3 +111,7 @@
 
 + [外媒评选PS5平台15款难白金游戏 《老头环》在列](https://www.3dmgame.com/news/202407/3898794.html)
 
++ [致敬合金装备美少女主角 潜行新游戏《水滴间谍》公布](https://www.3dmgame.com/news/202407/3898798.html)
+
++ [英国游戏粉因携带《塞尔达传说》大师剑仿制品被判刑](https://www.3dmgame.com/news/202407/3898797.html)
+
