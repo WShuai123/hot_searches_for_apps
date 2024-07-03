@@ -115,3 +115,17 @@
 
 + [英国游戏粉因携带《塞尔达传说》大师剑仿制品被判刑](https://www.3dmgame.com/news/202407/3898797.html)
 
++ [又一款PS4模拟器现身 能运行少量3D游戏](https://www.3dmgame.com/news/202407/3898805.html)
+
++ [《看门狗》电影开始拍摄 苏菲王尔德/汤姆布莱斯主演](https://www.3dmgame.com/news/202407/3898804.html)
+
++ [卡普空暂无推出《祇：女神之道》DLC的计划](https://www.3dmgame.com/news/202407/3898803.html)
+
++ [《星球大战：亡命之徒》开发完毕 开始送厂压盘](https://www.3dmgame.com/news/202407/3898802.html)
+
++ [港片吸血鬼幸存者 新游《Karate Survivor》预告曝光](https://www.3dmgame.com/news/202407/3898801.html)
+
++ [真人版《工作细胞》定档12月13日上映 公布新预告](https://www.3dmgame.com/news/202407/3898800.html)
+
++ [1小时达成众筹目标《小小花园》将登陆PC和Switch](https://www.3dmgame.com/news/202407/3898799.html)
+

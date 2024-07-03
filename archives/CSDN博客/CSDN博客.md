@@ -101,3 +101,25 @@
 
 + [计算机网络概述--自我学习用](https://blog.csdn.net/longer_net/article/details/140129620)
 
++ [人工智能--目标检测](https://blog.csdn.net/2302_76516899/article/details/140111951)
+
++ [AI音乐革命：创新的门槛降低与产业未来的挑战](https://blog.csdn.net/u014727709/article/details/140092594)
+
++ [【系统架构设计师】计算机组成与体系结构 ⑥ ( 磁盘管理 | 磁盘基本结构 | “ 磁盘 “ 的 立体结构 | “ 盘面 “ 的 结构 | 磁盘运行机制 | “ 磁头 “ 的 读取机制 )](https://blog.csdn.net/han1202012/article/details/140127802)
+
++ [【MySQL】数据库——主从复制和读写分离](https://blog.csdn.net/2401_83330816/article/details/139989597)
+
++ [Flink实战 - 搭建HA高可用集群](https://blog.csdn.net/weixin_43145550/article/details/140139013)
+
++ [Python中的爬虫实战：猫眼电影爬虫](https://blog.csdn.net/tbprice/article/details/140100123)
+
++ [iOS 视图实现渐变色背景](https://blog.csdn.net/hzgisme/article/details/139044290)
+
++ [阿里云 facechanin 人像写真大模型 API 实践](https://blog.csdn.net/qq_42586468/article/details/140091711)
+
++ [5G(NR) NTN 卫星组网架构](https://blog.csdn.net/baidu_41616132/article/details/140121714)
+
++ [Monorepo（单体仓库）与 MultiRepo（多仓库）: Monorepo 单体仓库开发策略与实践指南](https://blog.csdn.net/m0_52827996/article/details/140148043)
+
++ [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
+
