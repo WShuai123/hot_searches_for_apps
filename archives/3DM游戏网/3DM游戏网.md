@@ -257,3 +257,7 @@
 
 + [任天堂称未来第一方游戏不会使用生成式AI](https://www.3dmgame.com/news/202407/3898787.html)
 
++ [三星发布旗下首款3nm芯片 用于可穿戴设备](https://www.3dmgame.com/news/202407/3898789.html)
+
++ [GOG喜加一：《第一圣殿骑士》特别版免费领取](https://www.3dmgame.com/news/202407/3898790.html)
+

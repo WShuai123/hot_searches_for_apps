@@ -53,3 +53,5 @@
 
 + [【IT之家首发开箱】荣耀 MagicBook Art 14 图赏：荣耀首款旗舰超轻薄本](https://m.ithome.com/html/779236.htm)
 
++ [“OK 手势”排第一，2024 全球 Emoji “失宠”榜单公布](https://m.ithome.com/html/779268.htm)
+

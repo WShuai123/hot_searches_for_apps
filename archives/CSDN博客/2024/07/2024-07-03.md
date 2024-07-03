@@ -187,3 +187,7 @@
 
 + [计算机网络概述--自我学习用](https://blog.csdn.net/longer_net/article/details/140129620)
 
++ [Java 7新特性深度解析：提升效率与功能](https://blog.csdn.net/qq_51601665/article/details/140155554)
+
++ [第十九届全国大学生智能汽车竞赛竞速赛裁判员手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/140141397)
+
