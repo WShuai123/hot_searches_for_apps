@@ -29,3 +29,17 @@
 
 + [ydb-platform / ydb](https://github.com/ydb-platform/ydb)
 
++ [joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [laravel / laravel](https://github.com/laravel/laravel)
+
++ [restic / restic](https://github.com/restic/restic)
+
++ [vercel / next.js](https://github.com/vercel/next.js)
+

@@ -53,3 +53,5 @@
 
 + [“抢”UID，米哈游新作《绝区零》开服提前：登录即送 30 抽奖励](https://m.ithome.com/html/779547.htm)
 
++ [赛力斯：每卖出一台车，华为方面都会收获一笔销售服务费](https://m.ithome.com/html/779634.htm)
+

@@ -185,3 +185,19 @@
 
 + [【人工智能】GPT-5的即将到来：从高中生进化到,,,博士生？](https://blog.csdn.net/Skrrapper/article/details/140176380)
 
++ [Stable Diffusion图像的脸部细节控制——采样器全解析](https://blog.csdn.net/Why_does_it_work/article/details/140070421)
+
++ [【机器学习】机器学习与图像识别的融合应用与性能优化新探索](https://blog.csdn.net/qq_61024956/article/details/140173551)
+
++ [人工智能--循环神经网络](https://blog.csdn.net/2302_76516899/article/details/140164034)
+
++ [Linux—KVM虚拟化中使用基本命令管理虚拟机(纯实例)](https://blog.csdn.net/jxjdhdnd/article/details/140122756)
+
++ [利用Python破解隔壁家的WiFi密码](https://blog.csdn.net/qq_37263429/article/details/140152343)
+
++ [基于大数据+爬虫+数据可视化的的亚健康人群数据可视化设计和实现(源码+LW+部署讲解)设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140118084)
+
++ [【项目日记（四）】搜索引擎-Web模块](https://blog.csdn.net/weixin_69049913/article/details/140099617)
+
++ [ELFK简介](https://blog.csdn.net/liu_chen_yang/article/details/139653744)
+

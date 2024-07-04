@@ -269,3 +269,13 @@
 
 + [《黑神话：悟空》配音演员公布：蜘蛛精二姐配音现身](https://www.3dmgame.com/news/202407/3898873.html)
 
++ [《最终幻想14》画面升级后 著名低模葡萄毫发无损](https://www.3dmgame.com/news/202407/3898880.html)
+
++ [千卡暴增至万卡GPU集群！摩尔线程AI旗舰产品夸娥重磅升级](https://www.3dmgame.com/news/202407/3898879.html)
+
++ [李彦宏：AI不是人类的竞争对手 工作机会正大量诞生](https://www.3dmgame.com/news/202407/3898878.html)
+
++ [《神偷奶爸4》终极预告公布 电影票预售开启](https://www.3dmgame.com/news/202407/3898877.html)
+
++ [《River Tails》登陆Switch 猫与鱼的动作冒险](https://www.3dmgame.com/news/202407/3898876.html)
+
