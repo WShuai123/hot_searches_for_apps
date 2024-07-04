@@ -51,3 +51,5 @@
 
 + [国际行动关闭了 593 台恶意 Cobalt Strike 服务器](https://www.freebuf.com/news/405155.html)
 
++ [渗透实战 | 一次代码审计拿下目标站点](https://www.freebuf.com/vuls/404481.html)
+

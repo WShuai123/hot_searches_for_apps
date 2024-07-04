@@ -151,3 +151,13 @@
 
 + [自学黑客（网络安全）](https://blog.csdn.net/xv7676/article/details/140154401)
 
++ [K8S学习教程(二):在 PetaExpress KubeSphere容器平台部署高可用 Redis 集群](https://blog.csdn.net/petaexpress/article/details/140151614)
+
++ [springboot 整合 mybatis-plus](https://blog.csdn.net/jike920203/article/details/139981337)
+
++ [【数学建模】 数据处理与拟合模型](https://blog.csdn.net/weixin_42914989/article/details/140102061)
+
++ [关于华为Y.1731的介绍配置实例以及故障案例分析-(值得收藏学习)](https://blog.csdn.net/zhengyukong/article/details/140163985)
+
++ [计算机网络部分知识点整理](https://blog.csdn.net/m0_73528660/article/details/140161195)
+

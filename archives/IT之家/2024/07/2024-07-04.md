@@ -37,3 +37,7 @@
 
 + [售价 4799 元起，红魔 9S Pro/+ AI 游戏手机发布：首发第三代骁龙 8 领先版](https://m.ithome.com/html/779478.htm)
 
++ [全国首例，特斯拉 Model Y 入围江苏省政府用车采购目录](https://m.ithome.com/html/779538.htm)
+
++ [米哈游新作《绝区零》今日 10 点全平台公测，登录即送 30 抽奖励](https://m.ithome.com/html/779518.htm)
+
