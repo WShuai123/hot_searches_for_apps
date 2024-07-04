@@ -223,3 +223,25 @@
 
 + [《艾尔登法环》全新衍生漫画《遥远的间隙之地物语》启动](https://www.3dmgame.com/news/202407/3898852.html)
 
++ [任天堂宣布Wii U维修售后服务关闭 所有备件用完](https://www.3dmgame.com/news/202407/3898860.html)
+
++ [V社或正在将安卓模拟器功能集成至Steam当中](https://www.3dmgame.com/news/202407/3898863.html)
+
++ [用寿司打麻将 另类棋牌休闲游戏《寿司王》上线Steam商店页面](https://www.3dmgame.com/news/202407/3898862.html)
+
++ [亚马逊将停产商用安保机器人Astro 仅发售不到8个月](https://www.3dmgame.com/news/202407/3898861.html)
+
++ [2024年东京电玩展官网上线 参展厂商公布规模历史之最](https://www.3dmgame.com/news/202407/3898859.html)
+
++ [【直播预告】”银狼“Q酱带你玩转绝区零！观看直播赢绝区零周边](https://www.3dmgame.com/news/202407/3898858.html)
+
++ [《死侍与金刚狼》新剧照泄露客串角色 导演暗示还会有“大量”客串](https://www.3dmgame.com/news/202407/3898857.html)
+
++ [真人互动游戏《导演模拟器》Steam页面 发售日期待定](https://www.3dmgame.com/news/202407/3898856.html)
+
++ [《绝区零》M站媒体均分81 获IGN 8分GS 7分评价](https://www.3dmgame.com/news/202407/3898853.html)
+
++ [坂口博信没有兴趣回归《最终幻想》系列：只想当玩家](https://www.3dmgame.com/news/202407/3898855.html)
+
++ [《塞尔达传说：王国之泪》玩家打造“莱尼尔杀器” 全程硬控人马](https://www.3dmgame.com/news/202407/3898854.html)
+

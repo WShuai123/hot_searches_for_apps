@@ -43,3 +43,7 @@
 
 + [小米之家全国 2000 家门店免费送 20 万支雪糕，本周末和下周末可领](https://m.ithome.com/html/779574.htm)
 
++ [不再支持中文等，博通 VMware ESXi 后续版本仅保留英、日、法和西班牙 4 种语言](https://m.ithome.com/html/779513.htm)
+
++ [支付宝大楼现已更换新 Logo，仅保留一个“支”字](https://m.ithome.com/html/779608.htm)
+

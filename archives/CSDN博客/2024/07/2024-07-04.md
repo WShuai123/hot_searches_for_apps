@@ -171,3 +171,7 @@
 
 + [网络爬虫详解](https://blog.csdn.net/m0_46566693/article/details/140160629)
 
++ [如何系列 如何确保Kafka消息可靠性/防止消息丢失](https://blog.csdn.net/abu935009066/article/details/140157860)
+
++ [2024 年江西省研究生数学建模竞赛题目 B题投标中的竞争策略问题--完整思路、代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140113461)
+

@@ -55,3 +55,5 @@
 
 + [SiCat：一款多功能漏洞利用管理与搜索工具](https://www.freebuf.com/sectool/404816.html)
 
++ [黑客滥用 API 端点验证了数百万个Authy MFA 电话号码](https://www.freebuf.com/news/405195.html)
+
