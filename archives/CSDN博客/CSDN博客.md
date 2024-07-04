@@ -101,3 +101,7 @@
 
 + [计算机网络——数据链路层（点对点协议PPP）](https://blog.csdn.net/2303_80204192/article/details/140157452)
 
++ [人工智能--循环神经网络](https://blog.csdn.net/2302_76516899/article/details/140164034)
+
++ [ELFK简介](https://blog.csdn.net/liu_chen_yang/article/details/139653744)
+

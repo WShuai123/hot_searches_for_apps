@@ -101,3 +101,7 @@
 
 + [国风动画电影《伞少女》发布终极预告 7月6日上映](https://www.3dmgame.com/news/202407/3898833.html)
 
++ [格斗游戏《罪恶装备：STRIVE》改编动画明年播出](https://www.3dmgame.com/news/202407/3898891.html)
+
++ [《多卡邦！怒之铁剑》8月1日登陆NS 新预告发布](https://www.3dmgame.com/news/202407/3898890.html)
+
