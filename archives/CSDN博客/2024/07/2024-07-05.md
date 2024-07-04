@@ -105,3 +105,23 @@
 
 + [ELFK简介](https://blog.csdn.net/liu_chen_yang/article/details/139653744)
 
++ [使用CiteSpace软件对知网文献进行关键词共现/聚类/突现分析](https://blog.csdn.net/m0_64336780/article/details/139992063)
+
++ [第十九届全国大学生智能汽车竞赛竞速赛裁判员手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/140141397)
+
++ [一文通透力证Transformer are SSM的mamba2：从SSM、半可分矩阵、SSD到mamba2](https://blog.csdn.net/v_JULY_v/article/details/140131413)
+
++ [qt6 通过http查询天气的实现](https://blog.csdn.net/wh_xia_jun/article/details/140160251)
+
++ [停车场车牌识别计费系统，用Python如何实现？](https://blog.csdn.net/2301_78150559/article/details/140120009)
+
++ [FlinkSQL 开发经验分享](https://blog.csdn.net/AlibabaTech1024/article/details/140143465)
+
++ [提升Android Studio开发体验：使用Kelp插件实现颜色和图标预览](https://blog.csdn.net/u011897062/article/details/140142398)
+
++ [编译原理 第六章&编译原理必考大题: 语义分析及中间代码生成&必考大题语句翻译](https://blog.csdn.net/weixin_62613321/article/details/140119240)
+
++ [单元测试总结，一文全通](https://blog.csdn.net/cs888zsy/article/details/140153998)
+
++ [【CSS】深入浅出弹性布局](https://blog.csdn.net/xuelian3015/article/details/140163413)
+

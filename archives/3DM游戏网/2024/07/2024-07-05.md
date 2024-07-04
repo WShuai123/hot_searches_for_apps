@@ -105,3 +105,11 @@
 
 + [《多卡邦！怒之铁剑》8月1日登陆NS 新预告发布](https://www.3dmgame.com/news/202407/3898890.html)
 
++ [Switch二次元射击游戏新作《天使狙击》12月发售](https://www.3dmgame.com/news/202407/3898895.html)
+
++ [沙特宣布正式开发全球首个《龙珠》主题公园](https://www.3dmgame.com/news/202407/3898894.html)
+
++ [《绝区零》PS5主机独占半年 未来或登陆更多平台](https://www.3dmgame.com/news/202407/3898893.html)
+
++ [3D动作肉鸽游戏《灰烬之城》公布游戏演示](https://www.3dmgame.com/news/202407/3898892.html)
+
