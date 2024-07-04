@@ -279,3 +279,7 @@
 
 + [《River Tails》登陆Switch 猫与鱼的动作冒险](https://www.3dmgame.com/news/202407/3898876.html)
 
++ [IGN调查：你最希望谁推出新掌机 V社得票最低](https://www.3dmgame.com/news/202407/3898882.html)
+
++ [三星放缓汽车半导体项目开发 未来将以人工智能芯片为战略核心](https://www.3dmgame.com/news/202407/3898881.html)
+

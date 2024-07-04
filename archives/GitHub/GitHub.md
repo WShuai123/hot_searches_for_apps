@@ -43,3 +43,5 @@
 
 + [vercel / next.js](https://github.com/vercel/next.js)
 
++ [microsoft / graphrag](https://github.com/microsoft/graphrag)
+
