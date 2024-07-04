@@ -49,3 +49,7 @@
 
 + [“真的很你”，苹果 iOS 18 简体中文宣传语被吐槽](https://m.ithome.com/html/779640.htm)
 
++ [消息称小米 15 Pro 手机电池容量 5400mAh，支持百瓦级有线 / 无线充电](https://m.ithome.com/html/779596.htm)
+
++ [“抢”UID，米哈游新作《绝区零》开服提前：登录即送 30 抽奖励](https://m.ithome.com/html/779547.htm)
+

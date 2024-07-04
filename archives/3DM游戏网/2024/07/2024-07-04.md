@@ -263,3 +263,9 @@
 
 + [解谜游戏《Hogtie》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3898864.html)
 
++ [《艾尔登法环》发布v1.12.3更新补丁 再次调整游戏平衡](https://www.3dmgame.com/news/202407/3898875.html)
+
++ [圆周率创新纪录202万亿位 用了接近1.5PB的SSD](https://www.3dmgame.com/news/202407/3898874.html)
+
++ [《黑神话：悟空》配音演员公布：蜘蛛精二姐配音现身](https://www.3dmgame.com/news/202407/3898873.html)
+

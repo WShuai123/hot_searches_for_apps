@@ -193,3 +193,13 @@
 
 + [Artwork Website Design](https://dribbble.com/shots/)
 
++ [Tasker - Landing Page for management and productivity platform](https://dribbble.com/shots/)
+
++ [Website design for Architecture and design Studio](https://dribbble.com/shots/)
+
++ [Tips & Tricks: Case Knives PT.1](https://dribbble.com/shots/)
+
++ [Happy Independence Day USA](https://dribbble.com/shots/)
+
++ [Trading Platform Web Design](https://dribbble.com/shots/)
+

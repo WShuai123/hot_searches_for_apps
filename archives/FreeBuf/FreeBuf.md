@@ -59,3 +59,5 @@
 
 + [上海AI Lab主任、首席科学家周伯文亮相WAIC，人工智能45°平衡律主张首次曝光](https://www.freebuf.com/articles/405218.html)
 
++ [WAIC 2024开幕，上海AI Lab主任、首席科学家周伯文首次阐述“人工智能45°平衡律”](https://www.freebuf.com/news/405218.html)
+

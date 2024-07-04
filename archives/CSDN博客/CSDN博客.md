@@ -183,3 +183,5 @@
 
 + [[Linux安全运维] Linux命令相关](https://blog.csdn.net/Da1NtY/article/details/140147597)
 
++ [【人工智能】GPT-5的即将到来：从高中生进化到,,,博士生？](https://blog.csdn.net/Skrrapper/article/details/140176380)
+
