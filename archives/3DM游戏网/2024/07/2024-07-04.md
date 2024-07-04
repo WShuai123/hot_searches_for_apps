@@ -131,3 +131,37 @@
 
 + [卡普空资深开发者：抵制《刺客信条：影》毫无意义](https://www.3dmgame.com/news/202407/3898806.html)
 
++ [滑板游戏《Session》玩家人数突破200万 新DLC公布](https://www.3dmgame.com/news/202407/3898822.html)
+
++ [滚导《超人》电影曝大量片场照 星爵男星想加入DCU](https://www.3dmgame.com/news/202407/3898820.html)
+
++ [复古平台跳跃游戏《Kiopioke!》发售日公布 7月18日正式推出](https://www.3dmgame.com/news/202407/3898821.html)
+
++ [卡牌游戏《忘却前夜》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202407/3898819.html)
+
++ [《战锤40K：星际战士2》「链锯剑」宣传片 9月9日发售](https://www.3dmgame.com/news/202407/3898815.html)
+
++ [真人互动影游《我为情狂》三上悠亚宣传片 7月13日推出](https://www.3dmgame.com/news/202407/3898818.html)
+
++ [《龙珠：电光火石0》拥有两种控制选项：标准和经典](https://www.3dmgame.com/news/202407/3898824.html)
+
++ [Nexon给出解决《第一后裔》帧数问题方案：删除重装](https://www.3dmgame.com/news/202407/3898817.html)
+
++ [类吸血鬼幸存者轻肉鸽游戏《绝境使者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898816.html)
+
++ [EA宣布本月底从旧世代主机下架三款《战地》系列游戏 并于11月关闭服务器](https://www.3dmgame.com/news/202407/3898812.html)
+
++ [《最终幻想7：重生》成为M站2024年上半年评分最高的游戏](https://www.3dmgame.com/news/202407/3898814.html)
+
++ [除《使命召唤》外 其他动视游戏或将于8月登陆XGP](https://www.3dmgame.com/news/202407/3898813.html)
+
++ [《AXIAL NULL》Steam页面上线 肉鸽战略战斗](https://www.3dmgame.com/news/202407/3898811.html)
+
++ [Capcom确认《祇：女神之道》在发售后没有DLC](https://www.3dmgame.com/news/202407/3898809.html)
+
++ [《战地2042》即将在下周和《死亡空间》展开联动](https://www.3dmgame.com/news/202407/3898808.html)
+
++ [外媒称Xbox又开始新一轮裁员 更多员工将被裁掉](https://www.3dmgame.com/news/202407/3898810.html)
+
++ [CDPR：没有《2077》最初失败 往日之影就不会如此出色](https://www.3dmgame.com/news/202407/3898807.html)
+

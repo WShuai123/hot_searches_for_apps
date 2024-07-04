@@ -33,3 +33,7 @@
 
 + [消息称苹果寻求中国法院修改判决书措辞，删除关于“支配地位”的表述](https://m.ithome.com/html/779470.htm)
 
++ [不再支持简体中文等，博通 VMware ESXi 后续版本仅保留英、日、法和西班牙 4 种语言](https://m.ithome.com/html/779513.htm)
+
++ [售价 4799 元起，红魔 9S Pro/+ AI 游戏手机发布：首发第三代骁龙 8 领先版](https://m.ithome.com/html/779478.htm)
+
