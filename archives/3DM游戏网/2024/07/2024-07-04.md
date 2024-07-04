@@ -217,3 +217,7 @@
 
 + [动视申请新专利：奖励向他人推广游戏的玩家](https://www.3dmgame.com/news/202407/3898841.html)
 
++ [手工打造全球唯一4090SUPER：3090Ti身子 性能飙升40%](https://www.3dmgame.com/news/202407/3898850.html)
+
++ [开发商Keywords被瑞典投资商EQT以22亿英镑收购](https://www.3dmgame.com/news/202407/3898851.html)
+
