@@ -41,3 +41,7 @@
 
 + [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
 
++ [FreeBuf早报 | Xbox 在全球范围内关闭；国家漏洞库CNNVD通报OpenSSH漏洞](https://www.freebuf.com/news/405054.html)
+
++ [详解 RisePro 信息窃密木马](https://www.freebuf.com/articles/network/405109.html)
+

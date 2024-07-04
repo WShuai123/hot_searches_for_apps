@@ -129,3 +129,5 @@
 
 + [1小时达成众筹目标《小小花园》将登陆PC和Switch](https://www.3dmgame.com/news/202407/3898799.html)
 
++ [卡普空资深开发者：抵制《刺客信条：影》毫无意义](https://www.3dmgame.com/news/202407/3898806.html)
+

@@ -123,3 +123,7 @@
 
 + [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
 
++ [从人工到自动化到AIOps再到ChatOps：大模型在运维领域的应用](https://blog.csdn.net/jdcdev_/article/details/140105517)
+
++ [docker liunx的底层逻辑是什么，docker 的原理是什么？怎么部署及应用，Docker的来龙去脉](https://blog.csdn.net/zhang9880000/article/details/140138724)
+
