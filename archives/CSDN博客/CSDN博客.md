@@ -133,3 +133,15 @@
 
 + [计算机网络——数据链路层（点对点协议PPP）](https://blog.csdn.net/2303_80204192/article/details/140157452)
 
++ [【机器学习】机器学习与电商推荐系统的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/140097593)
+
++ [探索迁移学习：通过实例深入理解机器学习的强大方法](https://blog.csdn.net/2202_76097976/article/details/140162318)
+
++ [大语言模型系列-Transformer(二)](https://blog.csdn.net/wangbo_angel/article/details/140142421)
+
++ [MySQL之备份与恢复(二)](https://blog.csdn.net/Cover_sky/article/details/140163471)
+
++ [【Elasticsearch】Elasticsearch动态映射与静态映射详解](https://blog.csdn.net/a1657054242/article/details/140168913)
+
++ [第十九届全国大学生智能汽车竞赛竞速赛裁判员手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/140141397)
+

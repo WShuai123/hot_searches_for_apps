@@ -165,3 +165,37 @@
 
 + [CDPR：没有《2077》最初失败 往日之影就不会如此出色](https://www.3dmgame.com/news/202407/3898807.html)
 
++ [史上首次私人太空行走 “北极星黎明号”7月31日发射](https://www.3dmgame.com/news/202407/3898840.html)
+
++ [《辐射76》未经许可使用了粉丝的艺术作品 B社官方道歉](https://www.3dmgame.com/news/202407/3898831.html)
+
++ [《不羁联盟》蜘蛛机器人技能太强 制作人回应玩家担忧](https://www.3dmgame.com/news/202407/3898838.html)
+
++ [桌面角色扮演游戏《咏叹世界》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898839.html)
+
++ [电影《红楼梦之金玉良缘》新海报 刘姥姥进大观园](https://www.3dmgame.com/news/202407/3898836.html)
+
++ [《Stars Reach》Steam上线 科幻沙盒探索经营](https://www.3dmgame.com/news/202407/3898837.html)
+
++ [快节奏的2D银河恶魔城类游戏《离火长明2》Steam页面 2025年发售](https://www.3dmgame.com/news/202407/3898835.html)
+
++ [点击游戏《香蕉》在线人数峰值跻身Steam前三 抗衡《艾尔登法环》](https://www.3dmgame.com/news/202407/3898834.html)
+
++ [《赛博朋克2077》总监：游戏首发糟糕 是我个人的失败](https://www.3dmgame.com/news/202407/3898832.html)
+
++ [国风动画电影《伞少女》发布终极预告 7月6日上映](https://www.3dmgame.com/news/202407/3898833.html)
+
++ [恐怖电影《致命AI》首支预告公布 8月30日北美上映](https://www.3dmgame.com/news/202407/3898829.html)
+
++ [《黎明杀机》公布7月更新路线图 包括古墓丽影联动](https://www.3dmgame.com/news/202407/3898828.html)
+
++ [华硕将于7月17日正式发布AMD AI笔记本电脑](https://www.3dmgame.com/news/202407/3898827.html)
+
++ [《怪物猎人：荒野》新视频 猎人近身大战巨型辟兽](https://www.3dmgame.com/news/202407/3898825.html)
+
++ [《Ancient Sacrifice》登陆Steam AI活用卡牌构筑](https://www.3dmgame.com/news/202407/3898823.html)
+
++ [Switch在线追加新游上线 FC经典名作7部](https://www.3dmgame.com/news/202407/3898830.html)
+
++ [《漫威争锋》“蜘蛛侠”角色预告片 7月24日封测开启](https://www.3dmgame.com/news/202407/3898826.html)
+
