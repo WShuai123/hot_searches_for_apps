@@ -145,3 +145,9 @@
 
 + [第十九届全国大学生智能汽车竞赛竞速赛裁判员手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/140141397)
 
++ [Redis理解【精细】【快速上手】](https://blog.csdn.net/qq_69581907/article/details/139250798)
+
++ [提升Android Studio开发体验：使用Kelp插件实现颜色和图标预览](https://blog.csdn.net/u011897062/article/details/140142398)
+
++ [自学黑客（网络安全）](https://blog.csdn.net/xv7676/article/details/140154401)
+

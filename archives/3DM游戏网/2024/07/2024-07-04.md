@@ -199,3 +199,21 @@
 
 + [《漫威争锋》“蜘蛛侠”角色预告片 7月24日封测开启](https://www.3dmgame.com/news/202407/3898826.html)
 
++ [《MyLittlePool》Steam页面上线 放置泳池休闲模拟](https://www.3dmgame.com/news/202407/3898849.html)
+
++ [新报告显示：2023年Steam合作游戏表现创造新记录](https://www.3dmgame.com/news/202407/3898845.html)
+
++ [中国玩家超6成去年支出增长 近8成主要平台是PC](https://www.3dmgame.com/news/202407/3898848.html)
+
++ [电影《伞少女》国风首映礼惊艳观众 十万帧绝美二维动画点燃盛夏](https://www.3dmgame.com/news/202407/3898847.html)
+
++ [3D心理恐怖游戏《Serial Victims》Steam页面开放 明年发售](https://www.3dmgame.com/news/202407/3898846.html)
+
++ [日漫风格第三人称动作游戏《炎姬》现已登陆Steam平台](https://www.3dmgame.com/news/202407/3898844.html)
+
++ [类塔科夫《灰区战争》大型“2号补丁”现已上线](https://www.3dmgame.com/news/202407/3898843.html)
+
++ [上海迪士尼暑期门票飙至719元 官方回应还没到顶](https://www.3dmgame.com/news/202407/3898842.html)
+
++ [动视申请新专利：奖励向他人推广游戏的玩家](https://www.3dmgame.com/news/202407/3898841.html)
+

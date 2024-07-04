@@ -47,3 +47,7 @@
 
 + [企业安全 | 数据安全风险分析](https://www.freebuf.com/articles/405032.html)
 
++ [已发布补丁！微软披露 Rockwell PanelView Plus 两大漏洞](https://www.freebuf.com/news/405173.html)
+
++ [国际行动关闭了 593 台恶意 Cobalt Strike 服务器](https://www.freebuf.com/news/405155.html)
+
