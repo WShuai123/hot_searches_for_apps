@@ -45,3 +45,5 @@
 
 + [microsoft / graphrag](https://github.com/microsoft/graphrag)
 
++ [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
+

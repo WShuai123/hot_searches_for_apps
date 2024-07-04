@@ -283,3 +283,13 @@
 
 + [三星放缓汽车半导体项目开发 未来将以人工智能芯片为战略核心](https://www.3dmgame.com/news/202407/3898881.html)
 
++ [《龙珠Z：卡卡罗特》销量突破800万 历时4年半](https://www.3dmgame.com/news/202407/3898887.html)
+
++ [AMD高管：索尼PS4成功避免了AMD破产](https://www.3dmgame.com/news/202407/3898885.html)
+
++ [Fami通新一周销量榜 《路易吉洋馆2 HD》登顶](https://www.3dmgame.com/news/202407/3898886.html)
+
++ [特斯拉Q2交付量超预期 卖空者2天损失35亿美元](https://www.3dmgame.com/news/202407/3898883.html)
+
++ [国产武侠单机《天命奇御二》PS5版现已发售](https://www.3dmgame.com/news/202407/3898884.html)
+

@@ -59,3 +59,5 @@
 
 + [特斯拉 Model 3 上线全新车漆“快银”，可花费 1.2 万元选配](https://m.ithome.com/html/779534.htm)
 
++ [特斯拉入选江苏省政府采购用车，工作人员：是国产车，不属于进口](https://m.ithome.com/html/779735.htm)
+
