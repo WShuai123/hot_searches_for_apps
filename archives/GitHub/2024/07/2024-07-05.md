@@ -29,3 +29,5 @@
 
 + [BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
 
++ [Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
+

@@ -25,3 +25,5 @@
 
 + [特斯拉 Model 3 上线全新车漆“快银”，可花费 1.2 万元选配](https://m.ithome.com/html/779534.htm)
 
++ [消息称小红书高层对人效比不满将开启新一轮裁员，绩效 3.5 以下成重灾区](https://m.ithome.com/html/779745.htm)
+

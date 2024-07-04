@@ -115,3 +115,15 @@
 
 + [Travel Brand Logo](https://dribbble.com/shots/)
 
++ [First Notion • Sleek Traditional Apparel Collection](https://dribbble.com/shots/)
+
++ [Houses_3](https://dribbble.com/shots/)
+
++ [Sebastopol Fruit](https://dribbble.com/shots/)
+
++ [Stargate badge](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [Tarot card #17 - The Star - Daily Vector Art](https://dribbble.com/shots/)
+
