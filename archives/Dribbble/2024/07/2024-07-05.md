@@ -127,3 +127,7 @@
 
 + [Tarot card #17 - The Star - Daily Vector Art](https://dribbble.com/shots/)
 
++ [Doctor’s Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Plans & billing settings — Untitled UI](https://dribbble.com/shots/)
+

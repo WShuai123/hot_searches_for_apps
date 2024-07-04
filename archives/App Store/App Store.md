@@ -207,3 +207,7 @@
 
 + [夸克-AI搜索升级](https://itunes.apple.com/cn/app/id1160172628?mt=8)
 
++ [万能遥控器-手机万能遥控器](https://itunes.apple.com/cn/app/id6503327514?mt=8)
+
++ [西瓜视频-看短剧](https://itunes.apple.com/cn/app/id1134496215?mt=8)
+
