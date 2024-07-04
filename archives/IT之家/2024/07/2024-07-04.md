@@ -47,3 +47,5 @@
 
 + [支付宝大楼现已更换新 Logo，仅保留一个“支”字](https://m.ithome.com/html/779608.htm)
 
++ [“真的很你”，苹果 iOS 18 简体中文宣传语被吐槽](https://m.ithome.com/html/779640.htm)
+

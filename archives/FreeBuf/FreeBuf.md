@@ -57,3 +57,5 @@
 
 + [黑客滥用 API 端点验证了数百万个Authy MFA 电话号码](https://www.freebuf.com/news/405195.html)
 
++ [上海AI Lab主任、首席科学家周伯文亮相WAIC，人工智能45°平衡律主张首次曝光](https://www.freebuf.com/articles/405218.html)
+

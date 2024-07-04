@@ -175,3 +175,11 @@
 
 + [2024 年江西省研究生数学建模竞赛题目 B题投标中的竞争策略问题--完整思路、代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140113461)
 
++ [Qt/C++编写地图应用/离线地图下载/路径规划/轨迹回放/海量点/坐标转换](https://blog.csdn.net/feiyangqingyun/article/details/140142134)
+
++ [【TS】TypeScript 中的 any 与 unknown：理解与实践](https://blog.csdn.net/qq_44214428/article/details/140123305)
+
++ [AI+若依框架（低代码开发）](https://blog.csdn.net/qq_64225133/article/details/140160781)
+
++ [[Linux安全运维] Linux命令相关](https://blog.csdn.net/Da1NtY/article/details/140147597)
+
