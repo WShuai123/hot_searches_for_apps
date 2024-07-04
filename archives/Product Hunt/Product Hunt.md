@@ -101,3 +101,41 @@
 
 + [Widgera](https://www.producthunt.com/posts/widgera)
 
++ [SPF Record Checker](https://www.producthunt.com/posts/spf-record-checker)
+
++ [Avatars - A Figma Plugin](https://www.producthunt.com/posts/avatars-a-figma-plugin)
+
++ [Diffr](https://www.producthunt.com/posts/diffr-2)
+
++ [The Pattern 5.0](https://www.producthunt.com/posts/the-pattern-5-0)
+
++ [noplace](https://www.producthunt.com/posts/noplace-2)
+
++ [Yenny](https://www.producthunt.com/posts/yenny)
+
++ [Typelets](https://www.producthunt.com/posts/typelets)
+
++ [BeyondPDF](https://www.producthunt.com/posts/beyondpdf)
+
++ [noplace](https://www.producthunt.com/posts/noplace)
+
++ [Ailsa Blair](https://www.producthunt.com/posts/ailsa-blair)
+
++ [Equimake](https://www.producthunt.com/posts/equimake)
+
++ [SnippetEase](https://www.producthunt.com/posts/snippetease)
+
++ [B2B SaaS Valuation Calculator](https://www.producthunt.com/posts/b2b-saas-valuation-calculator)
+
++ [BotsLikeYou](https://www.producthunt.com/posts/botslikeyou)
+
++ [AstroWP](https://www.producthunt.com/posts/astrowp)
+
++ [Oasis of Ideas](https://www.producthunt.com/posts/oasis-of-ideas)
+
++ [Status Butler](https://www.producthunt.com/posts/status-butler)
+
++ [Airclap](https://www.producthunt.com/posts/airclap)
+
++ [Fewsats](https://www.producthunt.com/posts/fewsats)
+

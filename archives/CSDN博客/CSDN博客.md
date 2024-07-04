@@ -165,3 +165,9 @@
 
 + [计算机网络之局域网](https://blog.csdn.net/m0_73804764/article/details/140148424)
 
++ [【机器学习】FFmpeg+Whisper：二阶段法视频理解（video-to-text）大模型实战](https://blog.csdn.net/weixin_48007632/article/details/140106912)
+
++ [实战大数据：分布式大数据分析处理系统的开发与应用](https://blog.csdn.net/qq_44273429/article/details/140169993)
+
++ [网络爬虫详解](https://blog.csdn.net/m0_46566693/article/details/140160629)
+

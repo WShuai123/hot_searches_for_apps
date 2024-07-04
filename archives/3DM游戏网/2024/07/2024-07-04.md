@@ -221,3 +221,5 @@
 
 + [开发商Keywords被瑞典投资商EQT以22亿英镑收购](https://www.3dmgame.com/news/202407/3898851.html)
 
++ [《艾尔登法环》全新衍生漫画《遥远的间隙之地物语》启动](https://www.3dmgame.com/news/202407/3898852.html)
+
