@@ -205,3 +205,5 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [夸克-AI搜索升级](https://itunes.apple.com/cn/app/id1160172628?mt=8)
+

@@ -67,3 +67,51 @@
 
 + [Happy Walkcycle](https://dribbble.com/shots/)
 
++ [Code Yeti - logo design](https://dribbble.com/shots/)
+
++ [Tasker - Landing Page for management and productivity platform](https://dribbble.com/shots/)
+
++ [Little movers branding](https://dribbble.com/shots/)
+
++ [Finance Mobile App Component](https://dribbble.com/shots/)
+
++ [Blockchain Explorer](https://dribbble.com/shots/)
+
++ [Task](https://dribbble.com/shots/)
+
++ [UI UX Dashboard Web Design for SaaS Project](https://dribbble.com/shots/)
+
++ [Happy Independence Day USA](https://dribbble.com/shots/)
+
++ [Mascot for "Nashe Mesto"](https://dribbble.com/shots/)
+
++ [Millennium Falcon badge](https://dribbble.com/shots/)
+
++ [NexusCoin Cryptocurrency - Landing Page Concept](https://dribbble.com/shots/)
+
++ [Reverse Magazine - Boston Special.](https://dribbble.com/shots/)
+
++ [Corporate Website for Oil Company](https://dribbble.com/shots/)
+
++ [Pufferfish / Blowfish](https://dribbble.com/shots/)
+
++ [Slow but sure](https://dribbble.com/shots/)
+
++ [Articles Mobile App](https://dribbble.com/shots/)
+
++ [Trading Platform Web Design](https://dribbble.com/shots/)
+
++ [SmartVate Branding and Visual](https://dribbble.com/shots/)
+
++ [Visualboard - Ecommerce Dashboard](https://dribbble.com/shots/)
+
++ [Home Care App Interactions](https://dribbble.com/shots/)
+
++ [GigGrove - Notifications](https://dribbble.com/shots/)
+
++ [Tips & Tricks: Case Knives PT.1](https://dribbble.com/shots/)
+
++ [Trading Crypto Mobile App UI UX Design](https://dribbble.com/shots/)
+
++ [Travel Brand Logo](https://dribbble.com/shots/)
+

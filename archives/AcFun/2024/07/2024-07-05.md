@@ -67,3 +67,7 @@
 
 + [“为啥要让人民知道真相？知道结果不就行了”这电影太讽刺了！《疯狂的小镇》](http://www.acfun.cn/v/ac44971465)
 
++ [Senorita OL制服 充电专属](http://www.acfun.cn/v/ac44973035)
+
++ [买了一堆紫色的假面骑士，一个比一个能打！](http://www.acfun.cn/v/ac44970943)
+
