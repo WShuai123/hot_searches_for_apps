@@ -157,3 +157,7 @@
 
 + [Python28-7.1 降维算法之PCA主成分分析](https://blog.csdn.net/Argulo/article/details/140142662)
 
++ [TensorFlow与PyTorch的对比与选择（Python深度学习）](https://blog.csdn.net/weixin_43856625/article/details/140180638)
+
++ [数据库组成及原理](https://blog.csdn.net/m0_61636632/article/details/140162000)
+

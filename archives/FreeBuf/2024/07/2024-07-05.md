@@ -53,3 +53,5 @@
 
 + [CocoaPods 曝关键漏洞，数百万 macOS 和 iOS 应用程序面临供应链攻击风险](https://www.freebuf.com/news/405257.html)
 
++ [详解OpenCart 支付插件Divido payment SQL注入漏洞](https://www.freebuf.com/vuls/404382.html)
+

@@ -181,3 +181,17 @@
 
 + [用上盘古大模型 国内首款开源鸿蒙人形机器人夸父亮相WAIC](https://www.3dmgame.com/news/202407/3898927.html)
 
++ [真正的真人互动影像“游戏”？国产新游《失业了，我获得了亿万游戏财产！》值得各位绅士细品~](https://www.3dmgame.com/news/202407/3898934.html)
+
++ [日本老牌外包工作室东星软件面临财务困境 受大厂项目取消影响](https://www.3dmgame.com/news/202407/3898935.html)
+
++ [坂口博信沉迷FF14：同事需要上线提醒他开会](https://www.3dmgame.com/news/202407/3898936.html)
+
++ [盖茨谈当前AI市场 准入门槛低吸引海量资本涌入](https://www.3dmgame.com/news/202407/3898930.html)
+
++ [《第一后裔》再次遇到服务器问题：由于网络压力](https://www.3dmgame.com/news/202407/3898931.html)
+
++ [免费肉鸽射击游戏《披萨英雄》已在Steam平台正式推出 已获好评](https://www.3dmgame.com/news/202407/3898932.html)
+
++ [为了规避索尼监管 PS5开发机被以“披萨套件”的名义售出](https://www.3dmgame.com/news/202407/3898933.html)
+
