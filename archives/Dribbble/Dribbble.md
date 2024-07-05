@@ -117,3 +117,13 @@
 
 + [Heyo Summer](https://dribbble.com/shots/)
 
++ [St. John Wayfinding Signage](https://dribbble.com/shots/)
+
++ [Hermit Hermes](https://dribbble.com/shots/)
+
++ [Elusive Fire Logo System](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [Los Angeles Rams](https://dribbble.com/shots/)
+

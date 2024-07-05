@@ -205,3 +205,7 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
