@@ -185,3 +185,11 @@
 
 + [数据库之SQL（一）](https://blog.csdn.net/L_peanut/article/details/140183260)
 
++ [[k8s生产系列]：k8s集群故障恢复，etcd数据不一致，kubernetes集群异常](https://blog.csdn.net/stange1/article/details/140180290)
+
++ [【探索Linux】P.37（传输层 —— TCP协议通信机制 | 确认应答(ACK)机制 | 超时重传机制）](https://blog.csdn.net/m0_75215937/article/details/139942392)
+
++ [【TS】TypeScript 联合类型详解：解锁更灵活的类型系统](https://blog.csdn.net/qq_44214428/article/details/140123377)
+
++ [【网络安全的神秘世界】SQL注入（下）](https://blog.csdn.net/weixin_54750312/article/details/140167705)
+
