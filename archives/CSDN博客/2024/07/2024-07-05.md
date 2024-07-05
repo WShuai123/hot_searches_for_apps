@@ -143,3 +143,17 @@
 
 + [智能家居的四种无线技术](https://blog.csdn.net/lucy15302751079/article/details/140175199)
 
++ [QT+OpenCV在Android上实现人脸实时检测与目标检测](https://blog.csdn.net/xiaolong1126626497/article/details/140171096)
+
++ [GaussDB关键技术原理：高性能（四）](https://blog.csdn.net/GaussDB/article/details/139861088)
+
++ [Elasticsearch：Ingest architectures - 摄取架构](https://blog.csdn.net/UbuntuTouch/article/details/140173422)
+
++ [Linux 文件系统以及日志管理](https://blog.csdn.net/Jin_0612_/article/details/140177637)
+
++ [香橙派AIpro开发板评测：部署yolov5模型实现图像和视频中物体的识别](https://blog.csdn.net/weixin_41793160/article/details/140195003)
+
++ [【高性能服务器】多进程并发模型](https://blog.csdn.net/Coldreams/article/details/140120333)
+
++ [Python28-7.1 降维算法之PCA主成分分析](https://blog.csdn.net/Argulo/article/details/140142662)
+

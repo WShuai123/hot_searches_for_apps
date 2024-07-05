@@ -175,3 +175,9 @@
 
 + [黑暗风格的策略游戏《Anoxia Station》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202407/3898903.html)
 
++ [游戏科学公司门口被人恶意涂鸦 抗议歧视女性？](https://www.3dmgame.com/news/202407/3898929.html)
+
++ [超现实FPS《Bodycam》更新删除新纳粹涂鸦：意外添加](https://www.3dmgame.com/news/202407/3898928.html)
+
++ [用上盘古大模型 国内首款开源鸿蒙人形机器人夸父亮相WAIC](https://www.3dmgame.com/news/202407/3898927.html)
+

@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | Chrome 不再信任 Entrust 证书；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
 
++ [100 亿条密码汇编集合 RockYou2024 泄露，酿成史上最大密码泄露事件](https://www.freebuf.com/news/405256.html)
+
++ [CocoaPods 曝关键漏洞，数百万 macOS 和 iOS 应用程序面临供应链攻击风险](https://www.freebuf.com/news/405257.html)
+
