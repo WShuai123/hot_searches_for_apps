@@ -105,3 +105,29 @@
 
 + [cre[ai]tion lite](https://www.producthunt.com/posts/cre-ai-tion-lite)
 
++ [PipeRiv](https://www.producthunt.com/posts/piperiv)
+
++ [VCCGenerator](https://www.producthunt.com/posts/vccgenerator)
+
++ [Apple Search Ads Extension](https://www.producthunt.com/posts/apple-search-ads-extension)
+
++ [Launchdeck](https://www.producthunt.com/posts/launchdeck-2)
+
++ [Impulse.](https://www.producthunt.com/posts/impulse-6)
+
++ [Voice Isolator by ElevenLabs](https://www.producthunt.com/posts/voice-isolator-by-elevenlabs)
+
++ [LEO](https://www.producthunt.com/posts/leo-a682e4fb-1a98-4d18-b1fa-97cb5077f093)
+
++ [Rain Screen](https://www.producthunt.com/posts/rain-screen)
+
++ [Junior OK](https://www.producthunt.com/posts/junior-ok)
+
++ [Curtains](https://www.producthunt.com/posts/curtains-2)
+
++ [SiteScarf](https://www.producthunt.com/posts/sitescarf)
+
++ [Llama 3 on Telegram](https://www.producthunt.com/posts/llama-3-on-telegram)
+
++ [ResumeMuser](https://www.producthunt.com/posts/resumemuser)
+

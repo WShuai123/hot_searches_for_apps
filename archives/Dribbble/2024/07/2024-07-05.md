@@ -171,3 +171,9 @@
 
 + [CryptoCove - Crypto Website](https://dribbble.com/shots/)
 
++ [Pipedrive CRM - Deal Management Dashboard](https://dribbble.com/shots/)
+
++ [Travel app design](https://dribbble.com/shots/)
+
++ [Unmuted - Webinar Platform Landing Page](https://dribbble.com/shots/)
+

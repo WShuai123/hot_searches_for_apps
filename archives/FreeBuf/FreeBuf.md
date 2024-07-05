@@ -55,3 +55,5 @@
 
 + [详解OpenCart 支付插件Divido payment SQL注入漏洞](https://www.freebuf.com/vuls/404382.html)
 
++ [Chiasmodon：一款针对域名安全的公开资源情报OSINT工具](https://www.freebuf.com/sectool/404824.html)
+

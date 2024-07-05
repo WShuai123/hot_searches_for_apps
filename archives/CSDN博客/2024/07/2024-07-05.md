@@ -167,3 +167,11 @@
 
 + [【数学建模】生产企业原材料的订购与运输](https://blog.csdn.net/weixin_72899100/article/details/140183731)
 
++ [基于SpringBoot+大数据+爬虫+数据可视化的的媒体社交与可视化平台设计和实现(源码+LW+部署讲解)设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140198699)
+
++ [RouteLLM：高效LLM路由框架，可以动态选择优化成本与响应质量的平衡](https://blog.csdn.net/m0_46510245/article/details/140201990)
+
++ [Linux系统部署MongoDB开源文档型数据库并实现无公网IP远程访问](https://blog.csdn.net/qq_73017178/article/details/140203885)
+
++ [【机器学习】Google开源大模型Gemma2：原理、微调训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/140188530)
+

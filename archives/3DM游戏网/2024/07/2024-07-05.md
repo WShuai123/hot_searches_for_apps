@@ -197,3 +197,13 @@
 
 + [小米14 Ultra推送最新澎湃OS：应用启动更快 相机增强](https://www.3dmgame.com/news/202407/3898937.html)
 
++ [传统恐怖游戏《青鬼》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3898942.html)
+
++ [《电锯甜心RePOP》主角新配音为田村由香里 支持更换旧版配音](https://www.3dmgame.com/news/202407/3898938.html)
+
++ [《虹吸战士》开发者：《合金装备》的发布让我很绝望](https://www.3dmgame.com/news/202407/3898941.html)
+
++ [这才8岁？自闭症儿童初见就击败《艾尔登法环》BOSS“碎星拉塔恩”](https://www.3dmgame.com/news/202407/3898940.html)
+
++ [《HUNTER×HUNTER NEN×IMPACT》Steam页面上线 年内推出](https://www.3dmgame.com/news/202407/3898939.html)
+
