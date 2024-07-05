@@ -41,3 +41,7 @@
 
 + [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
 
++ [FreeBuf早报 | 上海启动未成年人网络环境整治专项行动；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
+
++ [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
+

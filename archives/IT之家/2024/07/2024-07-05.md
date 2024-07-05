@@ -29,3 +29,5 @@
 
 + [5999 元起，小米 14 Ultra 手机明日 0 时起全版本限时官降 500 元](https://m.ithome.com/html/779758.htm)
 
++ [取消“对联”日志，小米 14 Ultra 手机获推澎湃 HyperOS 1.0.15.0：出行助手、相机主摄默认焦段可调](https://m.ithome.com/html/779680.htm)
+
