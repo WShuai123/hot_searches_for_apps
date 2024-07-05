@@ -165,3 +165,9 @@
 
 + [IoT App Mobile IOS Design Concept](https://dribbble.com/shots/)
 
++ [Four Stars / Seven Stripes ✦ USA Hat](https://dribbble.com/shots/)
+
++ [LeafUp - Brand Guidelines](https://dribbble.com/shots/)
+
++ [CryptoCove - Crypto Website](https://dribbble.com/shots/)
+

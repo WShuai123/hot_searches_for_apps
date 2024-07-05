@@ -195,3 +195,5 @@
 
 + [为了规避索尼监管 PS5开发机被以“披萨套件”的名义售出](https://www.3dmgame.com/news/202407/3898933.html)
 
++ [小米14 Ultra推送最新澎湃OS：应用启动更快 相机增强](https://www.3dmgame.com/news/202407/3898937.html)
+

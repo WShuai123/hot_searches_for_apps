@@ -161,3 +161,9 @@
 
 + [数据库组成及原理](https://blog.csdn.net/m0_61636632/article/details/140162000)
 
++ [【linux高级IO(一)】理解五种IO模型](https://blog.csdn.net/m0_61982936/article/details/140084930)
+
++ [【Python系列】发送post请求](https://blog.csdn.net/qyj19920704/article/details/140077087)
+
++ [【数学建模】生产企业原材料的订购与运输](https://blog.csdn.net/weixin_72899100/article/details/140183731)
+
