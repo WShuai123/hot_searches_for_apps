@@ -215,3 +215,13 @@
 
 + [《死侍和金刚狼》首映周末票房预计将破R分级纪录](https://www.3dmgame.com/news/202407/3898946.html)
 
++ [超多大作骨折新史低！steam夏促收尾，错过这次再等半年！](https://www.3dmgame.com/news/202407/3898951.html)
+
++ [Steam夏促最后一周 古怪加速器免费助你畅玩](https://www.3dmgame.com/news/202407/3898950.html)
+
++ [《红楼梦之金玉良缘》电影特辑 蜕变成长不负韶华](https://www.3dmgame.com/news/202407/3898949.html)
+
++ [小米SU7一键隐私模式有多强：只需轻轻一按全车休眠](https://www.3dmgame.com/news/202407/3898948.html)
+
++ [《腐蚀》7月更新预告 添加新载具摩托车和自行车](https://www.3dmgame.com/news/202407/3898947.html)
+

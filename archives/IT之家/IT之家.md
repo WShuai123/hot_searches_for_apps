@@ -45,3 +45,7 @@
 
 + [满级防水防尘，小米 15 系列手机被曝达到 IP69 级别](https://m.ithome.com/html/779856.htm)
 
++ [华为 Mate 70 系列手机被曝将采用新一代自研 5G SoC + 50Mp 国产超大底 CIS](https://m.ithome.com/html/779897.htm)
+
++ [网约车座椅被乘客污损反遭降级，滴滴致歉：一定吸取教训努力整改，不让司机师傅们受委屈](https://m.ithome.com/html/779853.htm)
+

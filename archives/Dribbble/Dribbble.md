@@ -183,3 +183,11 @@
 
 + [ValStream procurement analytics SaaS logo design: V data stream](https://dribbble.com/shots/)
 
++ [Logofolio](https://dribbble.com/shots/)
+
++ [Contact - Subscription page design for public speaking training](https://dribbble.com/shots/)
+
++ [Kavian - Branding Exploration](https://dribbble.com/shots/)
+
++ [It's just a matter of time](https://dribbble.com/shots/)
+
