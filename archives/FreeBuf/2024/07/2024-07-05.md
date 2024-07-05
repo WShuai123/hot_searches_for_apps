@@ -57,3 +57,5 @@
 
 + [Chiasmodon：一款针对域名安全的公开资源情报OSINT工具](https://www.freebuf.com/sectool/404824.html)
 
++ [内存马如何查杀；项目中如何施行安全三同步 | FB甲方群话题讨论（文末电台有惊喜）](https://www.freebuf.com/articles/neopoints/405265.html)
+
