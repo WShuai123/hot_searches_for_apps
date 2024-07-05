@@ -143,3 +143,7 @@
 
 + [夏天就要甜甜的！](http://www.acfun.cn/v/ac44978499)
 
++ [新人驾到！统统闪开！《TAKE ME HAND》](http://www.acfun.cn/v/ac44979740)
+
++ [老乡鸡贵吗？让爸妈随便点，花了多少钱？](http://www.acfun.cn/v/ac44975766)
+

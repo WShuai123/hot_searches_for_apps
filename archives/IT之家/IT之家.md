@@ -61,3 +61,11 @@
 
 + [科技昨夜今晨 0705：赛力斯称每卖出一台车，华为都会收获一笔销售服务费；美国国防部称离不开华为设备；苹果 iOS 18 简体中文宣传语被吐槽](https://m.ithome.com/html/779784.htm)
 
++ [荣耀发布行业首款 10% 硅含量电池：Magic V3 将首发](https://m.ithome.com/html/779920.htm)
+
++ [【IT之家首发图赏】荣耀 Magic V3 实拍！打破 Magic V2 9.9mm 轻薄纪录](https://m.ithome.com/html/779978.htm)
+
++ [最新入门低配款，特斯拉推出 Model 3 汽车 110 kW 后轮驱动版：零百加速 8.6 秒、6.93 万新加坡元](https://m.ithome.com/html/779783.htm)
+
++ [9988 元起，宗申小熊 Mini 摩托车上市：小巧可爱造型，149 排量发动机](https://m.ithome.com/html/779802.htm)
+
