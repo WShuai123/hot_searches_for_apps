@@ -133,3 +133,13 @@
 
 + [HandlerMethodArgumentResolver ：深入spring mvc参数解析机制](https://blog.csdn.net/qq_26664043/article/details/140088884)
 
++ [Linux—文件内系统与日志分析](https://blog.csdn.net/A6985HG/article/details/140131419)
+
++ [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
+
++ [低代码开发的终局：数字化应用创新智能平台](https://blog.csdn.net/sdgfafg_25/article/details/140180120)
+
++ [关于5G和卫星](https://blog.csdn.net/zjjyliuweijie/article/details/140148019)
+
++ [智能家居的四种无线技术](https://blog.csdn.net/lucy15302751079/article/details/140175199)
+

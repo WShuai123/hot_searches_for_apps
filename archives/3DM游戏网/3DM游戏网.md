@@ -127,3 +127,51 @@
 
 + [《索尼克×夏特世代重启》暗示第四名可玩角色](https://www.3dmgame.com/news/202407/3898896.html)
 
++ [外媒称真人版《白雪公主》内部试映口碑良好 你期待吗？](https://www.3dmgame.com/news/202407/3898925.html)
+
++ [选手质疑沙特电竞世界杯歧视LGBT 负责人：我们欢迎所有人 但你们得入乡随俗](https://www.3dmgame.com/news/202407/3898923.html)
+
++ [极简风格策略建造游戏《翰墨尼斯：手工王国》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898924.html)
+
++ [中国公司开始大量订购英伟达H20芯片 老黄赚嗨了](https://www.3dmgame.com/news/202407/3898921.html)
+
++ [激爽复古像素拉力赛车《旧日飞车》发售日预告 7月19日EA发售](https://www.3dmgame.com/news/202407/3898922.html)
+
++ [《铁拳》总监：所有角色都像我的孩子 没有最喜欢的](https://www.3dmgame.com/news/202407/3898920.html)
+
++ [《自杀小队：消灭正义联盟》第二季路线图 新角色急冻人](https://www.3dmgame.com/news/202407/3898926.html)
+
++ [《艾尔登法环》开发人员建议修复PS5帧率问题 但数据挖掘者表示不会有效果](https://www.3dmgame.com/news/202407/3898919.html)
+
++ [火炬无限SS5赛季新在哪？“玩偶俱乐部”携手“PC公测”正式上线！](https://www.3dmgame.com/news/202407/3898918.html)
+
++ [《第一后裔》更新路线图公布 将有新后裔新皮肤新武器等](https://www.3dmgame.com/news/202407/3898916.html)
+
++ [《丧尸围城：豪华复刻版》豪华版奖励曝光：17套服装](https://www.3dmgame.com/news/202407/3898915.html)
+
++ [《灌篮高手》重映定档海报及预告 8月3日重映](https://www.3dmgame.com/news/202407/3898917.html)
+
++ [动漫风格剧情推理游戏《回忆倒带》Steam页面上线](https://www.3dmgame.com/news/202407/3898913.html)
+
++ [育碧与日本公司合作 仍试图在游戏中加入NFT技术](https://www.3dmgame.com/news/202407/3898914.html)
+
++ [Adult Swim发行再次下架4款游戏 开发者无法自发行](https://www.3dmgame.com/news/202407/3898911.html)
+
++ [《宣誓》玩家无法与同伴谈恋爱 ：确保所有关系正确](https://www.3dmgame.com/news/202407/3898909.html)
+
++ [《天国：拯救2》新截图 游戏中有各种技能的马儿](https://www.3dmgame.com/news/202407/3898912.html)
+
++ [黑暗风格恐怖解谜游戏《超越黑暗》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3898910.html)
+
++ [动画《新吊带袜天使》主视觉图 制作人员名单公布](https://www.3dmgame.com/news/202407/3898907.html)
+
++ [射击刷宝游戏《Cosminers》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3898908.html)
+
++ [《逃离塔科夫》更新上线：PvE可离线进行但限制重重](https://www.3dmgame.com/news/202407/3898906.html)
+
++ [《龙腾世纪：影障守护者》发售前 粉丝玩家正在制作全系列相关内容档案](https://www.3dmgame.com/news/202407/3898905.html)
+
++ [《生化奇兵4》还在开发 2K Cloud Chamber正大量招募人手](https://www.3dmgame.com/news/202407/3898904.html)
+
++ [黑暗风格的策略游戏《Anoxia Station》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202407/3898903.html)
+
