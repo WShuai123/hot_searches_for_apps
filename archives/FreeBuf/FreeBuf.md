@@ -45,3 +45,7 @@
 
 + [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
 
++ [PowerShell 技术在网络安全测试中的应用](https://www.freebuf.com/articles/web/404542.html)
+
++ [FreeBuf早报 | Chrome 不再信任 Entrust 证书；美国第二大人寿保险公司遭入侵](https://www.freebuf.com/news/405146.html)
+

@@ -31,3 +31,7 @@
 
 + [取消“对联”日志，小米 14 Ultra 手机获推澎湃 HyperOS 1.0.15.0：出行助手、相机主摄默认焦段可调](https://m.ithome.com/html/779680.htm)
 
++ [又双叒有合资车降价：雪佛兰科鲁泽优惠 3.5 万元，限时 5.99 万元起售](https://m.ithome.com/html/779759.htm)
+
++ [14nm 桌面处理器时代落幕：英特尔停产酷睿 i9-12900KS 和十代酷睿处理器](https://m.ithome.com/html/779756.htm)
+
