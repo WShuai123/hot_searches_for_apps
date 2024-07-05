@@ -31,3 +31,23 @@
 
 + [Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [aome510 / spotify-player](https://github.com/aome510/spotify-player)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [supabase / supabase](https://github.com/supabase/supabase)
+
++ [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days)
+
++ [zeromicro / go-zero](https://github.com/zeromicro/go-zero)
+
++ [jumpserver / jumpserver](https://github.com/jumpserver/jumpserver)
+
