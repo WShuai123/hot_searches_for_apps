@@ -57,3 +57,7 @@
 
 + [天猫魔盒 8 Air 电视机顶盒发布：32GB 存储，首发价 159 元](https://m.ithome.com/html/779751.htm)
 
++ [AMD 高管：索尼 PS4 的成功拯救了 AMD](https://m.ithome.com/html/779760.htm)
+
++ [科技昨夜今晨 0705：赛力斯称每卖出一台车，华为都会收获一笔销售服务费；美国国防部称离不开华为设备；苹果 iOS 18 简体中文宣传语被吐槽](https://m.ithome.com/html/779784.htm)
+

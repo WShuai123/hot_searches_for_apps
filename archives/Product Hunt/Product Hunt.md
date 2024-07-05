@@ -141,3 +141,5 @@
 
 + [QuickPods](https://www.producthunt.com/posts/quickpods)
 
++ [Duel Duck](https://www.producthunt.com/posts/duel-duck)
+
