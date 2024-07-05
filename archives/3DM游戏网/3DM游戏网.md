@@ -207,3 +207,11 @@
 
 + [《HUNTER×HUNTER NEN×IMPACT》Steam页面上线 年内推出](https://www.3dmgame.com/news/202407/3898939.html)
 
++ [《动物狂想曲》最终季发布新主视觉图 第一部分年底首播](https://www.3dmgame.com/news/202407/3898943.html)
+
++ [玩家吐槽《七龙珠 电光炸裂！ZERO》人物定制界面与《堡垒之夜》完全一致](https://www.3dmgame.com/news/202407/3898944.html)
+
++ [恋爱游戏《风物恋歌》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3898945.html)
+
++ [《死侍和金刚狼》首映周末票房预计将破R分级纪录](https://www.3dmgame.com/news/202407/3898946.html)
+

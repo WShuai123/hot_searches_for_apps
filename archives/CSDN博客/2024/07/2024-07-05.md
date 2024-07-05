@@ -175,3 +175,9 @@
 
 + [【机器学习】Google开源大模型Gemma2：原理、微调训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/140188530)
 
++ [基于MCU和FPGA的DDS信号发生器——MCU与FPGA通信部分](https://blog.csdn.net/m0_74180999/article/details/140186071)
+
++ [无服务器【Serverless】架构的深度剖析：组件介绍、优缺点与适用场景](https://blog.csdn.net/weixin_53269650/article/details/140126490)
+
++ [Java中的服务化架构设计与实现](https://blog.csdn.net/weixin_44627014/article/details/140180417)
+

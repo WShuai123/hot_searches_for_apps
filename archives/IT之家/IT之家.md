@@ -41,3 +41,7 @@
 
 + [俄航天局局长称美国登月为真：月壤样本是关键证据](https://m.ithome.com/html/779694.htm)
 
++ [吉祥航空被曝不开空调致乘客中暑，官方致歉并通报情况](https://m.ithome.com/html/779851.htm)
+
++ [满级防水防尘，小米 15 系列手机被曝达到 IP69 级别](https://m.ithome.com/html/779856.htm)
+
