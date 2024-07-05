@@ -201,3 +201,7 @@
 
 + [河马剧场-全网热门短剧无限看](https://itunes.apple.com/cn/app/id6451242037?mt=8)
 
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+
++ [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
+
