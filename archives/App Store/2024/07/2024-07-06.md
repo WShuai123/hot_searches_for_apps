@@ -213,3 +213,7 @@
 
 + [QQ阅读--看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id487608658?mt=8)
 
++ [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
+
++ [美颜相机](https://itunes.apple.com/cn/app/id592331499?mt=8)
+

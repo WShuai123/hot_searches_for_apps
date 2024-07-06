@@ -133,3 +133,13 @@
 
 + [我以为会被水泼，结果是贼，服了](http://www.acfun.cn/v/ac44985552)
 
++ [【东方】推特东方小视频选集 第188期](http://www.acfun.cn/v/ac44987394)
+
++ [夏天就应该配吊带热裤️](http://www.acfun.cn/v/ac44990027)
+
++ [黑色分身 | HOT PINK- EXID](http://www.acfun.cn/v/ac44970815)
+
++ [想我了就call我♡](http://www.acfun.cn/v/ac44986919)
+
++ [好想和姐姐们一起爬山啊！欢乐八点档-972](http://www.acfun.cn/v/ac44988034)
+
