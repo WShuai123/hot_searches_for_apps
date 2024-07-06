@@ -49,3 +49,7 @@
 
 + [华为张平安：中国 AI 发展离不开算力基础设施的创新，必须摒弃“没有最先进芯片就无法发展”的观念](https://m.ithome.com/html/780006.htm)
 
++ [比亚迪宋 L DM-i 车型官图公布：溜背造型设计、搭第五代 DM 混动系统](https://m.ithome.com/html/780089.htm)
+
++ [消息称苹果 iPhone 16 Pro 将配 15 Pro Max 同款 5 倍光学变焦 12MP 四棱镜潜望镜头，模组已开始生产](https://m.ithome.com/html/780022.htm)
+

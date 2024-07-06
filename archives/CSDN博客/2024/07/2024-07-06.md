@@ -187,3 +187,19 @@
 
 + [【线性代数的本质】矩阵与线性变换](https://blog.csdn.net/qq_54714089/article/details/140217703)
 
++ [【机器学习】基于密度的聚类算法：DBSCAN详解](https://blog.csdn.net/qq_44214428/article/details/140228957)
+
++ [C++ 视觉开发 六.特征值匹配](https://blog.csdn.net/weixin_59409001/article/details/140204532)
+
++ [【React】React18 Hooks之useState](https://blog.csdn.net/qq_38951259/article/details/140144674)
+
++ [记一次漏洞挖掘【网络安全】](https://blog.csdn.net/wlaq_juju/article/details/140212989)
+
++ [图书馆数据仓库](https://blog.csdn.net/m0_74934794/article/details/140211721)
+
++ [【DevOps】运维过程中经常遇到的Http错误码问题分析（一）](https://blog.csdn.net/benshu_001/article/details/140224179)
+
++ [芯片基识 | 掰开揉碎讲 FIFO（同步FIFO和异步FIFO）](https://blog.csdn.net/weixin_45264425/article/details/140202530)
+
++ [2024年江苏省研究生数学建模竞赛B题人造革性能优化设计研究论文和代码](https://blog.csdn.net/qq_45857113/article/details/140227772)
+
