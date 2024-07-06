@@ -29,3 +29,5 @@
 
 + [9988 元起，宗申小熊 Mini 摩托车上市：小巧可爱造型，149 排量发动机](https://m.ithome.com/html/779802.htm)
 
++ [上海临港新片区多家国企率先采购特斯拉 Model Y 汽车](https://m.ithome.com/html/779952.htm)
+

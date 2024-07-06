@@ -135,3 +135,7 @@
 
 + [群体优化算法---猫群算法介绍，物流配送路径规划(包含3-opt,贪心算法)](https://blog.csdn.net/u013531166/article/details/140221002)
 
++ [【研究】腾讯大幅削减业务方向，优化结构](https://blog.csdn.net/Gabriel100yi/article/details/140216658)
+
++ [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
+
