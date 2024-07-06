@@ -159,3 +159,11 @@
 
 + [【项目实践】贪吃蛇](https://blog.csdn.net/2301_80258336/article/details/140156171)
 
++ [【python】PyQt5可视化开发，如何设计鼠标显示的形状？](https://blog.csdn.net/littlefun591/article/details/140210511)
+
++ [智能家居的四种无线技术](https://blog.csdn.net/lucy15302751079/article/details/140175199)
+
++ [精通Conda代理设置：加速Linux中的科学计算环境配置](https://blog.csdn.net/2401_85812053/article/details/140196273)
+
++ [Springweb详解](https://blog.csdn.net/qq_45576281/article/details/140217443)
+

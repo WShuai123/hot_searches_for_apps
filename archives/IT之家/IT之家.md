@@ -41,3 +41,5 @@
 
 + [8GB 内存 + Ubuntu 系统，爆改任天堂 Switch 可流畅运行 PC 游戏](https://m.ithome.com/html/779989.htm)
 
++ [消息称高通骁龙 8 Gen 4 处理器价格相比 8G3 上涨 25-30%，预计定价 220-240 美元](https://m.ithome.com/html/780030.htm)
+
