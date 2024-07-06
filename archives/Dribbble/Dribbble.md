@@ -175,3 +175,11 @@
 
 + [Art Deco Portrait Illustrations](https://dribbble.com/shots/)
 
++ [Asset Management & Investment Platform Dashboard](https://dribbble.com/shots/)
+
++ [Music Mobile App](https://dribbble.com/shots/)
+
++ [modern logo folio, minimalist logo, logo  mark](https://dribbble.com/shots/)
+
++ [Refert logo](https://dribbble.com/shots/)
+
