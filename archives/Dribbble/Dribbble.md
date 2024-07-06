@@ -189,3 +189,17 @@
 
 + [Crypto wallet Market Maker](https://dribbble.com/shots/)
 
++ [Blockchain website](https://dribbble.com/shots/)
+
++ [Work in Progress- Explainer Video](https://dribbble.com/shots/)
+
++ [Eyewear Website Design](https://dribbble.com/shots/)
+
++ [Progress, Growth, Marketing, Saas, Business Leading Logomark](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Front Label Design](https://dribbble.com/shots/)
+
++ [cyber security  website logo](https://dribbble.com/shots/)
+
++ [Bitcoin quiz](https://dribbble.com/shots/)
+

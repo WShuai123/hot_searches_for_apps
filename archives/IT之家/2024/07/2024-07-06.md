@@ -53,3 +53,9 @@
 
 + [消息称苹果 iPhone 16 Pro 将配 15 Pro Max 同款 5 倍光学变焦 12MP 四棱镜潜望镜头，模组已开始生产](https://m.ithome.com/html/780022.htm)
 
++ [售 23.19 万元起，特斯拉中国 Model 3 / Y 车型交付日期缩至 1-4 周](https://m.ithome.com/html/780054.htm)
+
++ [米哈游《原神》4.8 版本 7 月 17 日上线，宣布与法国娇兰进行联动](https://m.ithome.com/html/779998.htm)
+
++ [富士康印度子公司“冰火两重天”：生产 iPhone 高歌猛进，生产安卓手机因小米订单锐减遭遇巨大挑战](https://m.ithome.com/html/780023.htm)
+
