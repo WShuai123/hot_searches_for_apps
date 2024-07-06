@@ -127,3 +127,11 @@
 
 + [什么是文件共享](https://blog.csdn.net/la1466128339/article/details/140220370)
 
++ [【机器学习】连续字段的特征变换](https://blog.csdn.net/qq_64685283/article/details/140117979)
+
++ [【MySQL】SQL注入的介绍](https://blog.csdn.net/tr6666/article/details/140170859)
+
++ [2024亚太杯数学建模竞赛（B题）的全面解析](https://blog.csdn.net/qq_52590045/article/details/140203894)
+
++ [群体优化算法---猫群算法介绍，物流配送路径规划(包含3-opt,贪心算法)](https://blog.csdn.net/u013531166/article/details/140221002)
+
