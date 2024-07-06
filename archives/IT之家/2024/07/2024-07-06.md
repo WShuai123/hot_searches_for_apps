@@ -31,3 +31,7 @@
 
 + [上海临港新片区多家国企率先采购特斯拉 Model Y 汽车](https://m.ithome.com/html/779952.htm)
 
++ [首届沙特电竞世界杯《英雄联盟》TES 2:0 送 Gen.G 回家](https://m.ithome.com/html/780016.htm)
+
++ [12.3 万元起，吉利银河 E5 纯电 SUV 开启预售](https://m.ithome.com/html/779991.htm)
+

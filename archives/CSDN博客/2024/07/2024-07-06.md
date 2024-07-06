@@ -139,3 +139,5 @@
 
 + [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
 
++ [人工智能系列-numpy（三）](https://blog.csdn.net/in_seattle/article/details/140218921)
+
