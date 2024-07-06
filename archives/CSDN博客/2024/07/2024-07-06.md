@@ -149,3 +149,13 @@
 
 + [【Linux进阶】文件系统2——MBR和GPT](https://blog.csdn.net/2301_80224556/article/details/140211253)
 
++ [【机器学习】机器学习与自然语言处理的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/140138175)
+
++ [Spring Boot 2到3升级体验：解锁新特性与优势](https://blog.csdn.net/qq_33851668/article/details/140170132)
+
++ [Java增加线程后kafka仍然消费很慢](https://blog.csdn.net/paulwang040/article/details/140172669)
+
++ [【读点论文】基于二维伽马函数的光照不均匀图像自适应校正算法](https://blog.csdn.net/weixin_43424450/article/details/140215442)
+
++ [【项目实践】贪吃蛇](https://blog.csdn.net/2301_80258336/article/details/140156171)
+
