@@ -183,3 +183,7 @@
 
 + [（大数据时代的力量）深入探索MapReduce并行算法的设计与优化](https://blog.csdn.net/weixin_52908342/article/details/140228872)
 
++ [图像处理中的二维傅里叶变换](https://blog.csdn.net/weixin_54729407/article/details/140217228)
+
++ [【线性代数的本质】矩阵与线性变换](https://blog.csdn.net/qq_54714089/article/details/140217703)
+

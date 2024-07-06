@@ -47,3 +47,5 @@
 
 + [消息称 OPPO ColorOS 15 发力深度互联和 UX 动效，大量机型适配实况照片](https://m.ithome.com/html/780064.htm)
 
++ [华为张平安：中国 AI 发展离不开算力基础设施的创新，必须摒弃“没有最先进芯片就无法发展”的观念](https://m.ithome.com/html/780006.htm)
+
