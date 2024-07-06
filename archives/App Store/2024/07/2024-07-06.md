@@ -209,3 +209,7 @@
 
 + [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
 
++ [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
+
++ [QQ阅读--看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id487608658?mt=8)
+
