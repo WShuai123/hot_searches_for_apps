@@ -205,3 +205,5 @@
 
 + [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
 
++ [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
