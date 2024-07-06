@@ -35,3 +35,9 @@
 
 + [12.3 万元起，吉利银河 E5 纯电 SUV 开启预售](https://m.ithome.com/html/779991.htm)
 
++ [张兴海：华为有对终端用户的理解，赛力斯一直在人们看不起、看不懂当中成长](https://m.ithome.com/html/780003.htm)
+
++ [发售仅一个月就“跳水”：松下 LUMIX S9 全画幅相机降至 8399 元](https://m.ithome.com/html/780011.htm)
+
++ [8GB 内存 + Ubuntu 系统，爆改任天堂 Switch 可流畅运行 PC 游戏](https://m.ithome.com/html/779989.htm)
+

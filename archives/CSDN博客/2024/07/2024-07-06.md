@@ -141,3 +141,11 @@
 
 + [人工智能系列-numpy（三）](https://blog.csdn.net/in_seattle/article/details/140218921)
 
++ [【AI 大模型】提示工程 ④ ( 自然语言处理 NLG | 自然语言理解 NLU | 自然语言生成 NLG | 使用 提示词 + 大模型 实现 NLU | 使用 提示词 + 大模型 实现 NLG )](https://blog.csdn.net/han1202012/article/details/140162945)
+
++ [交易积累-比特币](https://blog.csdn.net/hebtu666/article/details/140083106)
+
++ [LVS-DR负载均衡](https://blog.csdn.net/Q7758521adc/article/details/140186093)
+
++ [【Linux进阶】文件系统2——MBR和GPT](https://blog.csdn.net/2301_80224556/article/details/140211253)
+
