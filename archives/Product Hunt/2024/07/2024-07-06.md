@@ -103,3 +103,39 @@
 
 + [Skott](https://www.producthunt.com/posts/skott)
 
++ [Shazam Events](https://www.producthunt.com/posts/shazam-events)
+
++ [Receptive AI](https://www.producthunt.com/posts/receptive-ai)
+
++ [Tilvo](https://www.producthunt.com/posts/tilvo)
+
++ [VueJS Tour](https://www.producthunt.com/posts/vuejs-tour)
+
++ [Rapid Currency Converter](https://www.producthunt.com/posts/rapid-currency-converter)
+
++ [Swift Share](https://www.producthunt.com/posts/swift-share)
+
++ [Masteriyo LMS](https://www.producthunt.com/posts/masteriyo-lms)
+
++ [Rakun Card - Special Needs Travel](https://www.producthunt.com/posts/rakun-card-special-needs-travel)
+
++ [Flag Match](https://www.producthunt.com/posts/flag-match)
+
++ [MyNewLook](https://www.producthunt.com/posts/mynewlook)
+
++ [Vocaldo AI](https://www.producthunt.com/posts/vocaldo-ai)
+
++ [FreePhotoAI](https://www.producthunt.com/posts/freephotoai)
+
++ [Vocabs](https://www.producthunt.com/posts/vocabs)
+
++ [lingotheory](https://www.producthunt.com/posts/lingotheory)
+
++ [Potato: Shopping List](https://www.producthunt.com/posts/potato-shopping-list)
+
++ [TTSynth.com](https://www.producthunt.com/posts/ttsynth-com)
+
++ [Experimenters Circuits](https://www.producthunt.com/posts/experimenters-circuits)
+
++ [Chat with AI](https://www.producthunt.com/posts/chat-with-ai)
+

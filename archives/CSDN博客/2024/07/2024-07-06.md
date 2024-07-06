@@ -167,3 +167,9 @@
 
 + [Springweb详解](https://blog.csdn.net/qq_45576281/article/details/140217443)
 
++ [2024年6月后2周重要的大语言模型论文总结：LLM进展、微调、推理和对齐](https://blog.csdn.net/m0_46510245/article/details/140226616)
+
++ [【Nginx】docker运行Nginx及配置](https://blog.csdn.net/weixin_52418790/article/details/140209914)
+
++ [【网络安全】第6讲 黑客与网络攻击（笔记）](https://blog.csdn.net/weixin_74531333/article/details/140023039)
+
