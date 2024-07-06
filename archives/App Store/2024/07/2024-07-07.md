@@ -207,3 +207,5 @@
 
 + [咪咕视频-看欧洲杯足球直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+

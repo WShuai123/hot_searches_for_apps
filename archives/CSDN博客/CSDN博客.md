@@ -101,3 +101,9 @@
 
 + [【项目日记（四）】搜索引擎-Web模块](https://blog.csdn.net/weixin_69049913/article/details/140099617)
 
++ [Websocket通信实战项目(js)(图片互传应用)（下）客户端H5+css+js实现](https://blog.csdn.net/m0_75192474/article/details/140152251)
+
++ [人工智能系列-numpy（三）](https://blog.csdn.net/in_seattle/article/details/140218921)
+
++ [【Elasticsearch】Elasticsearch动态映射与静态映射详解](https://blog.csdn.net/a1657054242/article/details/140168913)
+
