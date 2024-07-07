@@ -169,3 +169,9 @@
 
 + [Postman深度解析：打造高效接口测试自动化流程](https://blog.csdn.net/jkoij23/article/details/140237908)
 
++ [GPT-5的飞跃：从高中生到博士生，人工智能将如何重塑我们的未来？](https://blog.csdn.net/u014727709/article/details/140181899)
+
++ [2024年江苏省研究生数学建模竞赛A题人造革性能优化设计研究论文和代码](https://blog.csdn.net/qq_45857113/article/details/140227772)
+
++ [【Hbase】Hbase TableInputFormat、TableOutputFormat](https://blog.csdn.net/qq_21383435/article/details/140179787)
+
