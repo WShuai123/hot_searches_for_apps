@@ -195,3 +195,9 @@
 
 + [Crown Bee Logo Design](https://dribbble.com/shots/)
 
++ [AltLayer](https://dribbble.com/shots/)
+
++ [Modern v letter logo for Venalis, Blockchain, Futuristic](https://dribbble.com/shots/)
+
++ [DevNest - Logo & Logo Design](https://dribbble.com/shots/)
+
