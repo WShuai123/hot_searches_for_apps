@@ -209,3 +209,9 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [常读小说-热门全本小说](https://itunes.apple.com/cn/app/id6463710883?mt=8)
+
++ [QQ阅读--看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id487608658?mt=8)
+
++ [万能遥控器-手机万能遥控器](https://itunes.apple.com/cn/app/id6503327514?mt=8)
+
