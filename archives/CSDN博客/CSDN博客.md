@@ -147,3 +147,9 @@
 
 + [WPS+Python爬取百度之星排名](https://blog.csdn.net/m0_49303993/article/details/140238951)
 
++ [为企业知识库选模型？全球AI大模型知识库RAG场景基准测试排名](https://blog.csdn.net/m0_66628975/article/details/140237186)
+
++ [图神经网络实战（16）——经典图生成算法](https://blog.csdn.net/LOVEmy134611/article/details/140242879)
+
++ [硬件开发笔记（二十四）：贴片电容的类别、封装介绍，AD21导入贴片电容、原理图和封装库3D模型](https://blog.csdn.net/qq21497936/article/details/140241817)
+

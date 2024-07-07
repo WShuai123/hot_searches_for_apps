@@ -103,3 +103,9 @@
 
 + [SnippetEase](https://www.producthunt.com/posts/snippetease)
 
++ [Moocat chatgpt input method](https://www.producthunt.com/posts/moocat-chatgpt-input-method)
+
++ [OHMNI](https://www.producthunt.com/posts/ohmni)
+
++ [Invoicebundle](https://www.producthunt.com/posts/invoicebundle)
+

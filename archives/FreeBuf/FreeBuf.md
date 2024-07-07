@@ -49,3 +49,5 @@
 
 + [漏洞分析 | PHP CGI Windows平台远程代码执行漏洞（CVE-2024-4577）](https://www.freebuf.com/vuls/405295.html)
 
++ [Indetectables Toolkit：一款多功能恶意软件分析和逆向工程工具包](https://www.freebuf.com/sectool/404976.html)
+
