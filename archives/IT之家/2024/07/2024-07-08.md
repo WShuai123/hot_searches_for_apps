@@ -25,3 +25,5 @@
 
 + [合资降价潮：东风日产逍客・经典舒适版 SUV 限时优惠 2.91 万售 9.68 万元起](https://m.ithome.com/html/780182.htm)
 
++ [中国市场表现低迷，消息称保时捷 Taycan 因销量下滑而减产](https://m.ithome.com/html/780243.htm)
+
