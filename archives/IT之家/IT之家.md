@@ -57,3 +57,5 @@
 
 + [首届沙特电竞世界杯《英雄联盟》TES 2:0 复仇 G2 杀入决赛](https://m.ithome.com/html/780166.htm)
 
++ [小米 14 系列手机获推澎湃 HyperOS 1.0.42.0：新增出行助手、优化锁屏编辑触发策略](https://m.ithome.com/html/780219.htm)
+
