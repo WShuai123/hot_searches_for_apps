@@ -27,3 +27,11 @@
 
 + [25 亿元转让商标后，华为、赛力斯年内将共同推出多款“问界”新品](https://m.ithome.com/html/780149.htm)
 
++ [中兴小鲜 60 手机曝光：搭载紫光展锐 T760 国产芯，内置 5000mAh 电池](https://m.ithome.com/html/780162.htm)
+
++ [18.98 万元起：纯电 MINI COOPER 上市，光束汽车国产 / 续航 456km](https://m.ithome.com/html/780148.htm)
+
++ [支持音视频通话与移动端互相转接，腾讯 QQ 更新 Windows 9.9.12、macOS 6.9.39、Linux 3.2.10 版本](https://m.ithome.com/html/780134.htm)
+
++ [显卡市场水太深：未撕膜 RTX 4090 用 RTX 3080 Ti GPU 核心](https://m.ithome.com/html/780082.htm)
+

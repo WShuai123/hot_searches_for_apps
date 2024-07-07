@@ -101,3 +101,5 @@
 
 + [Chat with AI](https://www.producthunt.com/posts/chat-with-ai)
 
++ [SnippetEase](https://www.producthunt.com/posts/snippetease)
+

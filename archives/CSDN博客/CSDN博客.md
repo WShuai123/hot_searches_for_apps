@@ -107,3 +107,21 @@
 
 + [【Elasticsearch】Elasticsearch动态映射与静态映射详解](https://blog.csdn.net/a1657054242/article/details/140168913)
 
++ [草履虫都能学会—武大遥感计算机视觉课间实习（jsp）](https://blog.csdn.net/m0_74085155/article/details/138910429)
+
++ [大模型AIGC转行记录（一）](https://blog.csdn.net/JimDu_dwj/article/details/140220538)
+
++ [Linux 防火墙配置指南：firewalld 端口管理应用案例(二十个实列)](https://blog.csdn.net/jxjdhdnd/article/details/140200392)
+
++ [【音视频 | RTSP】RTSP协议详解 及 抓包例子解析（详细而不赘述）](https://blog.csdn.net/wkd_007/article/details/140218724)
+
++ [基于PI控制的电动车建模与性能分析matlab仿真](https://blog.csdn.net/ccsss22/article/details/140228433)
+
++ [关于P2P-文件共享软件的一些思考](https://blog.csdn.net/kkylove/article/details/140230052)
+
++ [空闲时间写个收货地址静态页面，用到时直接拿来用，需要的道友一键复制即可。](https://blog.csdn.net/weixin_64537406/article/details/140225021)
+
++ [【机器学习】Google开源大模型Gemma2：原理、微调训练及推理部署实战](https://blog.csdn.net/weixin_48007632/article/details/140188530)
+
++ [利用 STM32 实现多协议物联网网关：Modbus/Zigbee 到以太网/Wi-Fi 的数据桥接](https://blog.csdn.net/qq_40431685/article/details/140199307)
+
