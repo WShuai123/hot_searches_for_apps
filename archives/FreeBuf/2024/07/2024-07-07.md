@@ -47,3 +47,5 @@
 
 + [TETRA攻击 | 全球关键基础设施&执法机构面临重大威胁](https://www.freebuf.com/articles/neopoints/404597.html)
 
++ [漏洞分析 | PHP CGI Windows平台远程代码执行漏洞（CVE-2024-4577）](https://www.freebuf.com/vuls/405295.html)
+
