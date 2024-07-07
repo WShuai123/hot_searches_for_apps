@@ -109,3 +109,19 @@
 
 + [Invoicebundle](https://www.producthunt.com/posts/invoicebundle)
 
++ [Onyxium AI](https://www.producthunt.com/posts/onyxium-ai-2)
+
++ [Tubie](https://www.producthunt.com/posts/tubie)
+
++ [Validator](https://www.producthunt.com/posts/validator-2)
+
++ [Moocat ChatGPT input method](https://www.producthunt.com/posts/moocat-chatgpt-input-method)
+
++ [Narrify AI](https://www.producthunt.com/posts/narrify-ai)
+
++ [Find Song Name & Artist in 1 Click](https://www.producthunt.com/posts/find-song-name-artist-in-1-click)
+
++ [MindPal](https://www.producthunt.com/posts/mindpal-3)
+
++ [Content Studio AI](https://www.producthunt.com/posts/content-studio-ai)
+
