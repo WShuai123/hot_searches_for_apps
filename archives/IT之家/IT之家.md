@@ -51,3 +51,9 @@
 
 + [苹果 iOS / iPadOS 播放器 Infuse 通过工信部 ICP 备案：Pro 订阅年费限时 18 元、国区 App Store 持续更新](https://m.ithome.com/html/780224.htm)
 
++ [科大讯飞“讯飞晓医”App 获升级，号称无广告、无混杂消息](https://m.ithome.com/html/780150.htm)
+
++ [豆瓣均分 9.7 纪录片，BBC《地球脉动》系列首部大电影国内定档 7 月 27 日](https://m.ithome.com/html/780183.htm)
+
++ [首届沙特电竞世界杯《英雄联盟》TES 2:0 复仇 G2 杀入决赛](https://m.ithome.com/html/780166.htm)
+
