@@ -125,3 +125,7 @@
 
 + [利用 STM32 实现多协议物联网网关：Modbus/Zigbee 到以太网/Wi-Fi 的数据桥接](https://blog.csdn.net/qq_40431685/article/details/140199307)
 
++ [【宠粉赠书】Linux C与C++一线开发实践](https://blog.csdn.net/weixin_41793160/article/details/140216991)
+
++ [云计算渲染时代：选择Blender或KeyShot进行高效渲染](https://blog.csdn.net/weixin_44087394/article/details/140216091)
+
