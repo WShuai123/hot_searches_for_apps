@@ -59,3 +59,7 @@
 
 + [小米 14 系列手机获推澎湃 HyperOS 1.0.42.0：新增出行助手、优化锁屏编辑触发策略](https://m.ithome.com/html/780219.htm)
 
++ [华为 7 月新品曝光：含华为路由 BE 7、FreeBuds 6i 无线耳机](https://m.ithome.com/html/780227.htm)
+
++ [58 亿美元售卖篮网，蔡崇信狠赚了一笔](https://m.ithome.com/html/780225.htm)
+

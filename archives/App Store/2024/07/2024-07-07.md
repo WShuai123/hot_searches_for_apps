@@ -215,3 +215,7 @@
 
 + [万能遥控器-手机万能遥控器](https://itunes.apple.com/cn/app/id6503327514?mt=8)
 
++ [腾讯新闻](https://itunes.apple.com/cn/app/id399363156?mt=8)
+
++ [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
+
