@@ -35,3 +35,19 @@
 
 + [bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days)
 
++ [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [ente-io / ente](https://github.com/ente-io/ente)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [Grasscutters / Grasscutter](https://github.com/Grasscutters/Grasscutter)
+
++ [alex-shpak / hugo-book](https://github.com/alex-shpak/hugo-book)
+

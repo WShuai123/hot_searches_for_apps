@@ -49,3 +49,5 @@
 
 + [比亚迪赵长江：用户“年前就能开上”腾势 Z9 三厢轿车版](https://m.ithome.com/html/780158.htm)
 
++ [苹果 iOS / iPadOS 播放器 Infuse 通过工信部 ICP 备案：Pro 订阅年费限时 18 元、国区 App Store 持续更新](https://m.ithome.com/html/780224.htm)
+
