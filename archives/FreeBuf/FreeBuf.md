@@ -63,3 +63,5 @@
 
 + [GDBFuzz：基于硬件断点的嵌入式系统模糊测试工具](https://www.freebuf.com/sectool/405047.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
