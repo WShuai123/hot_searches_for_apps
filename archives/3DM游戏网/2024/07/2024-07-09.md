@@ -101,3 +101,7 @@
 
 + [芯原创始人直言百模大战就是“群模乱舞”：是在浪费电](https://www.3dmgame.com/news/202407/3899099.html)
 
++ [WeGame夏日单机促销 《绝地潜兵》与《地平线 零之曙光》优惠](https://www.3dmgame.com/news/202407/3899131.html)
+
++ [《埃尔帕索，身在他处》将登陆PS5 获得特别好评](https://www.3dmgame.com/news/202407/3899130.html)
+
