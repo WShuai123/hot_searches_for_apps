@@ -51,3 +51,7 @@
 
 + [DDoS 攻击再破记录，欧洲最大云服务商OVHcloud甩锅Mikrotik](https://www.freebuf.com/articles/405229.html)
 
++ [绿联NAS存在严重安全问题？官方回应来了](https://www.freebuf.com/articles/405425.html)
+
++ [南非国家医疗实验室遭遇勒索软件攻击，可能间接导致死亡率增加](https://www.freebuf.com/news/405387.html)
+
