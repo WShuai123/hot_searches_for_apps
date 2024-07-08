@@ -147,3 +147,19 @@
 
 + [小说改编动画《香格里拉边境》第二季预告片放出 10月13日播出](https://www.3dmgame.com/news/202407/3899102.html)
 
++ [《仙剑奇侠传四：重制版》新游戏画面 展示地图“石沉溪洞”](https://www.3dmgame.com/news/202407/3899110.html)
+
++ [成都躺平老哥飞升顿悟，细说如何靠做游戏小赚600W_Y3编辑器](https://www.3dmgame.com/news/202407/3899108.html)
+
++ [KK官方对战平台战令S10清凉一夏，解锁500%超值豪华战令奖励！](https://www.3dmgame.com/news/202407/3899107.html)
+
++ [世界最大游戏速通大会SGDQ圆满闭幕 募捐金额超250万美元](https://www.3dmgame.com/news/202407/3899106.html)
+
++ [《塞尔达传说：王国之泪》玩家又整新花样 诱导莫力布林参加“海拉鲁篮球联赛”](https://www.3dmgame.com/news/202407/3899109.html)
+
++ [漫改动画《炎炎消防队》第三季预告放出 最终章将制作成两季内容](https://www.3dmgame.com/news/202407/3899105.html)
+
++ [任天堂宣布参加BitSummit Drift独立游戏展 展示12款游戏](https://www.3dmgame.com/news/202407/3899103.html)
+
++ [《魔兽世界》光铸血吼展览落幕 多位圈内知名人士出镜](https://www.3dmgame.com/news/202407/3899104.html)
+

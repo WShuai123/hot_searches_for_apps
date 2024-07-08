@@ -207,3 +207,9 @@
 
 + [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
 
++ [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [驾校一点通-2024驾校学车考驾照](https://itunes.apple.com/cn/app/id620262310?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
