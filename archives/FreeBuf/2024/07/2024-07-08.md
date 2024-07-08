@@ -67,3 +67,5 @@
 
 + [招兼职](https://www.freebuf.com/fevents/405485.html)
 
++ [USRC暑假放肆嗨 | 点燃夏日激情，挖洞没你不行](https://www.freebuf.com/fevents/405492.html)
+

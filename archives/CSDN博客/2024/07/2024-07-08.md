@@ -195,3 +195,17 @@
 
 + [RabbitMQ（集群相关部署）](https://blog.csdn.net/yanshengren520/article/details/140247959)
 
++ [LLM推理引擎怎么选？TensorRT vs vLLM vs LMDeploy vs MLC-LLM](https://blog.csdn.net/m0_46510245/article/details/140261476)
+
++ [大模型驱动软件开发的一些误区和思考](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140238272)
+
++ [Springboot实战：AI大模型+亮数据代理助力短视频时代](https://blog.csdn.net/s445320/article/details/140266401)
+
++ [【人工智能】-- 智能家居](https://blog.csdn.net/2302_76516899/article/details/140254221)
+
++ [绝区肆--2024 年AI安全状况](https://blog.csdn.net/RamendeusStudio/article/details/140249107)
+
++ [《基于 defineProperty 实现前端运行时变量检测》](https://blog.csdn.net/syb513812/article/details/140225496)
+
++ [安全防御（防火墙）](https://blog.csdn.net/weixin_63264424/article/details/140254680)
+

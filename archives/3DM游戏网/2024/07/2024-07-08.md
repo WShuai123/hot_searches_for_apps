@@ -183,3 +183,5 @@
 
 + [冻结所有高管年薪！韩国电池巨头SK On称公司已到绝境](https://www.3dmgame.com/news/202407/3899116.html)
 
++ [微软要求中国员工工作时只能用iPhone](https://www.3dmgame.com/news/202407/3899121.html)
+

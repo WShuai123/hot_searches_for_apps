@@ -131,3 +131,13 @@
 
 + [我有ユ！ユ！症](http://www.acfun.cn/v/ac45007828)
 
++ [【超の大制作】艾尔登法环：黄金树幽影DLC全CG中文翻配](http://www.acfun.cn/v/ac45013025)
+
++ [追捕本·拉登人间蒸发：美国如何耗时10年，将他从茫茫人海中揪出，最后一击又将如何抓捕拉登](http://www.acfun.cn/v/ac44994878)
+
++ [沙特电竞世界杯 决赛 T1 vs TES](http://www.acfun.cn/v/ac45003892)
+
++ [第一次当小女仆好紧张](http://www.acfun.cn/v/ac45008670)
+
++ [【4K MMD】温婉可人 旗袍×吊带袜 御姐LUKA「I m ill」](http://www.acfun.cn/v/ac44998877)
+
