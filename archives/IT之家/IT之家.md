@@ -31,3 +31,5 @@
 
 + [央视评 App 自动续费：“进坑”容易“出坑”难](https://m.ithome.com/html/780246.htm)
 
++ [消息称华为 MatePad Pro 12.2 英寸平板预计 8 月发布，支持北斗卫星消息、星闪](https://m.ithome.com/html/780200.htm)
+

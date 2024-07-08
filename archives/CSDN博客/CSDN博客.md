@@ -129,3 +129,7 @@
 
 + [鸿蒙NEXT不再支持安卓这条路真的走的通吗?](https://blog.csdn.net/m0_68271787/article/details/140251053)
 
++ [图像处理调试软件推荐](https://blog.csdn.net/bjcyck/article/details/140226395)
+
++ [迎接AI新时代：GPT-5即将登场的巨大变革与应用前瞻](https://blog.csdn.net/2202_76097976/article/details/140231265)
+
