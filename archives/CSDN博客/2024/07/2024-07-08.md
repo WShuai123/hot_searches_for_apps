@@ -103,3 +103,29 @@
 
 + [FPGA目前热议课题及技术瓶颈](https://blog.csdn.net/RadLU/article/details/140246066)
 
++ [【机器学习】基于密度的聚类算法：DBSCAN详解](https://blog.csdn.net/qq_44214428/article/details/140228957)
+
++ [免杀笔记 ----＞ DLL注入](https://blog.csdn.net/huohaowen/article/details/140218309)
+
++ [【Linux】信号的处理](https://blog.csdn.net/JLX_1/article/details/139883359)
+
++ [【宠粉赠书】Linux C与C++一线开发实践](https://blog.csdn.net/weixin_41793160/article/details/140216991)
+
++ [SwiftUI 6.0（iOS 18.0）滚动视图新增的滚动阶段（Scroll Phase）监听功能趣谈](https://blog.csdn.net/mydo/article/details/140224022)
+
++ [Tabu Search — 温和介绍](https://blog.csdn.net/gongdiwudu/article/details/140208335)
+
++ [ElasticSearch 如何计算得分及一个不太成熟的使用](https://blog.csdn.net/x123453316/article/details/140234078)
+
++ [WPS+Python爬取百度之星排名](https://blog.csdn.net/m0_49303993/article/details/140238951)
+
++ [【研究】债务周期看地产，大拐点来了吗？](https://blog.csdn.net/Gabriel100yi/article/details/140250859)
+
++ [Kafka第四篇——生产数据总体概括，源码解析分区策略，数据收集器，Sender发送线程，key值](https://blog.csdn.net/m0_74106420/article/details/139889232)
+
++ [文件管理下：文件函数的学习](https://blog.csdn.net/2302_79964175/article/details/140243124)
+
++ [KafKa学习](https://blog.csdn.net/jdaiwlsd/article/details/140233053)
+
++ [鸿蒙NEXT不再支持安卓这条路真的走的通吗?](https://blog.csdn.net/m0_68271787/article/details/140251053)
+

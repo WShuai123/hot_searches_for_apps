@@ -27,3 +27,7 @@
 
 + [中国市场表现低迷，消息称保时捷 Taycan 因销量下滑而减产](https://m.ithome.com/html/780243.htm)
 
++ [小米米家空调自然风 Pro 1.5 匹将推简白新配色：超一级能效、7 月 25 日预售](https://m.ithome.com/html/780261.htm)
+
++ [央视评 App 自动续费：“进坑”容易“出坑”难](https://m.ithome.com/html/780246.htm)
+

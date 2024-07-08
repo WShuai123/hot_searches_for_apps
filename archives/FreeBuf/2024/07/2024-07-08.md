@@ -41,3 +41,7 @@
 
 + [ESET：2024年H1威胁报告](https://www.freebuf.com/articles/405187.html)
 
++ [FreeBuf早报 | 《人工智能全球治理上海宣言》发布；以太坊邮件列表泄露](https://www.freebuf.com/news/405347.html)
+
++ [揭秘AI万能钥匙，可实现批量越狱](https://www.freebuf.com/vuls/404946.html)
+
