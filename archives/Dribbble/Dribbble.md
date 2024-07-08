@@ -235,3 +235,21 @@
 
 + [New York poster](https://dribbble.com/shots/)
 
++ [CBD E-commerce Mobile App](https://dribbble.com/shots/)
+
++ [Meme Coin - Landing Page????](https://dribbble.com/shots/)
+
++ [Monday and Friday](https://dribbble.com/shots/)
+
++ [Personal AI assistant brand: visual identity](https://dribbble.com/shots/)
+
++ [Degen Pepe Inu Fan Token Meme Mem](https://dribbble.com/shots/)
+
++ [Cyborg Husky](https://dribbble.com/shots/)
+
++ [Rtt-01 music plugin](https://dribbble.com/shots/)
+
++ [Book](https://dribbble.com/shots/)
+
++ [Spark Logo Design and Animation](https://dribbble.com/shots/)
+
