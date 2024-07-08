@@ -47,3 +47,7 @@
 
 + [企业安全 | 密网的部署](https://www.freebuf.com/articles/es/405102.html)
 
++ [韩国 ERP 供应商遭黑客攻击，被悄悄安上后门](https://www.freebuf.com/news/405396.html)
+
++ [DDoS 攻击再破记录，欧洲最大云服务商OVHcloud甩锅Mikrotik](https://www.freebuf.com/articles/405229.html)
+
