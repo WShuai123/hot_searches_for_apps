@@ -105,3 +105,11 @@
 
 + [《埃尔帕索，身在他处》将登陆PS5 获得特别好评](https://www.3dmgame.com/news/202407/3899130.html)
 
++ [《守望先锋2》x《变形金刚》联动预告公开](https://www.3dmgame.com/news/202407/3899135.html)
+
++ [神谷英树再谈《大神》：团队软弱销量失败](https://www.3dmgame.com/news/202407/3899134.html)
+
++ [《任天堂Switch运动》7月9日新增多人对战篮球模式](https://www.3dmgame.com/news/202407/3899133.html)
+
++ [北京西城警方抓获5名侵权游戏机犯罪团伙](https://www.3dmgame.com/news/202407/3899132.html)
+
