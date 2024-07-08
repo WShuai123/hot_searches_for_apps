@@ -185,3 +185,13 @@
 
 + [微软要求中国员工工作时只能用iPhone](https://www.3dmgame.com/news/202407/3899121.html)
 
++ [迪士尼公布免费手游《迪士尼像素RPG》 目前仅限日本玩家注册](https://www.3dmgame.com/news/202407/3899126.html)
+
++ [《城市：天际线2》主机版再次延期 10月发售无望](https://www.3dmgame.com/news/202407/3899125.html)
+
++ [传英特尔下一代GPU将采用台积电4纳米工艺](https://www.3dmgame.com/news/202407/3899124.html)
+
++ [《寂静岭2：重制版》PS5实体盒曝光](https://www.3dmgame.com/news/202407/3899123.html)
+
++ [《哥特王朝》系列开发商Piranha Bytes已经倒闭](https://www.3dmgame.com/news/202407/3899122.html)
+

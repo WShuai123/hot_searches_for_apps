@@ -211,3 +211,7 @@
 
 + [LDAP技术解析：打造安全、高效的企业数据架构](https://blog.csdn.net/qq_51447436/article/details/140244302)
 
++ [微服务的分布式事务解决方案](https://blog.csdn.net/weixin_41922349/article/details/140251876)
+
++ [金蝶云星空二开-客户对账单二开添加字段](https://blog.csdn.net/heweilx/article/details/140231025)
+
