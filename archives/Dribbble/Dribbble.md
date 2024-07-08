@@ -75,3 +75,49 @@
 
 + [First Notion • Sleek Traditional Apparel Collection](https://dribbble.com/shots/)
 
++ [Bestest Brand®](https://dribbble.com/shots/)
+
++ [Olympic Torch Relay](https://dribbble.com/shots/)
+
++ [Finance - Wall Street Journal](https://dribbble.com/shots/)
+
++ [Enode – Training](https://dribbble.com/shots/)
+
++ [Cyborg Husky](https://dribbble.com/shots/)
+
++ [Exchange Modal](https://dribbble.com/shots/)
+
++ [Bit boost](https://dribbble.com/shots/)
+
++ [Salesloft Rebrand](https://dribbble.com/shots/)
+
++ [Gaia branding for children e-commerce website](https://dribbble.com/shots/)
+
++ [apro - web design](https://dribbble.com/shots/)
+
++ [CBD E-commerce Mobile App](https://dribbble.com/shots/)
+
++ [Spark Logo Design and Animation](https://dribbble.com/shots/)
+
++ [Personal AI assistant brand: visual identity](https://dribbble.com/shots/)
+
++ [Believe](https://dribbble.com/shots/)
+
++ [HeyHouse Website](https://dribbble.com/shots/)
+
++ [Dashboard Dark theme](https://dribbble.com/shots/)
+
++ [Cyclops - Influencer Marketing Branding](https://dribbble.com/shots/)
+
++ [Snow Clouds animation by Milkinside](https://dribbble.com/shots/)
+
++ [Glyph Beer icons 39-50](https://dribbble.com/shots/)
+
++ [Monday and Friday](https://dribbble.com/shots/)
+
++ [Meme Coin - Landing Page????](https://dribbble.com/shots/)
+
++ [High-End Chauffeur Service App](https://dribbble.com/shots/)
+
++ [Book](https://dribbble.com/shots/)
+
