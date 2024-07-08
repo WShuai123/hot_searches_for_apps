@@ -113,3 +113,7 @@
 
 + [北京西城警方抓获5名侵权游戏机犯罪团伙](https://www.3dmgame.com/news/202407/3899132.html)
 
++ [GBA经典游戏《西格玛星际传说》25年登陆现代平台](https://www.3dmgame.com/news/202407/3899137.html)
+
++ [动漫改编真人电影《夏目新的结婚》发布正式预告](https://www.3dmgame.com/news/202407/3899136.html)
+

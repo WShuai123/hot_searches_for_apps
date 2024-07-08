@@ -121,3 +121,11 @@
 
 + [Nacos2.X源码分析：服务注册、服务发现流程](https://blog.csdn.net/qq_44027353/article/details/140251367)
 
++ [rip环境下的MGRE实验](https://blog.csdn.net/Girrzy/article/details/140238793)
+
++ [Http介绍](https://blog.csdn.net/qq_48114126/article/details/140254601)
+
++ [项目推荐—文本标注 poplar-annotation用法及相关问题解决](https://blog.csdn.net/weixin_56048772/article/details/140276745)
+
++ [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）ADAU1452的第一个例程](https://blog.csdn.net/ADI_OP/article/details/140276952)
+
