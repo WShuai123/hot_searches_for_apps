@@ -187,3 +187,11 @@
 
 + [计算机网络之无线局域网](https://blog.csdn.net/m0_73804764/article/details/140252005)
 
++ [新时代【机器学习】与【Pycharm】：【随机数据生成】与智能【股票市场分析】](https://blog.csdn.net/2303_77720864/article/details/140267188)
+
++ [人脸检测（Python）](https://blog.csdn.net/qq_74156152/article/details/140254339)
+
++ [基于大数据技术Hadoop的气象分析可视化大屏设计和实现](https://blog.csdn.net/mr_lili_111/article/details/140223375)
+
++ [RabbitMQ（集群相关部署）](https://blog.csdn.net/yanshengren520/article/details/140247959)
+

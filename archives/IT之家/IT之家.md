@@ -49,3 +49,5 @@
 
 + [小米官宣 MIX Fold 4 / MIX Flip 折叠屏手机本月发布，新一代智能工厂正式全面量产](https://m.ithome.com/html/780298.htm)
 
++ [福耀玻璃回应小米 SU7 汽车前风挡玻璃信号问题：预留接收窗口，不影响传输](https://m.ithome.com/html/780348.htm)
+
