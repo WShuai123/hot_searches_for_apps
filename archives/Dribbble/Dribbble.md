@@ -179,3 +179,11 @@
 
 + [UnifiedHR → Add Employee](https://dribbble.com/shots/)
 
++ [Etheros](https://dribbble.com/shots/)
+
++ [TypeQuest : Personality Test - Character Design](https://dribbble.com/shots/)
+
++ [KVARASCALEIE - AI Landing Page](https://dribbble.com/shots/)
+
++ [Camp Buddy - Child Monitor Mobile App UI/UX and Branding ????](https://dribbble.com/shots/)
+

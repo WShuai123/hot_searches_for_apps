@@ -55,3 +55,5 @@
 
 + [南非国家医疗实验室遭遇勒索软件攻击，可能间接导致死亡率增加](https://www.freebuf.com/news/405387.html)
 
++ [实战分享 | Wordpress Hash Form 文件上传致RCE漏洞0day](https://www.freebuf.com/vuls/405239.html)
+

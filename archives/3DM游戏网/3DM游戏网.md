@@ -101,3 +101,41 @@
 
 + [《龙腾世纪：影障守护者》职业和角色将有定制的盔甲和装备](https://www.3dmgame.com/news/202407/3898900.html)
 
++ [《只狼》玩家无移动、跳跃和完美弹反击败苇名一心引发讨论](https://www.3dmgame.com/news/202407/3899092.html)
+
++ [韩国模拟游戏《InZoi》新视频 比模拟人生还好玩](https://www.3dmgame.com/news/202407/3899090.html)
+
++ [EA日本总裁呼吁玩家举报违规 或因异性暧昧陪玩行为](https://www.3dmgame.com/news/202407/3899091.html)
+
++ [生存建造策略游戏《黎明之人》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3899088.html)
+
++ [轮盘赌游戏《恶魔轮盘》销量已突破200万 多人模式开发中](https://www.3dmgame.com/news/202407/3899089.html)
+
++ [玩家恢复《巫师3》被删内容 赛船小游戏得以重见光明](https://www.3dmgame.com/news/202407/3899086.html)
+
++ [《冒险森林：兔子故事》Steam上线 开放世界冒险](https://www.3dmgame.com/news/202407/3899087.html)
+
++ [时隔11年 TV动画《南家三姐妹》宣布将制作新作动画](https://www.3dmgame.com/news/202407/3899085.html)
+
++ [牌组构建类肉鸽游戏《永恒字形传说》现已登录Steam页面](https://www.3dmgame.com/news/202407/3899083.html)
+
++ [招聘信息暗示：《巫师》多人游戏将采用基于职业的游戏模式](https://www.3dmgame.com/news/202407/3899082.html)
+
++ [《守望先锋2》联动《变形金刚》 预计7月10日上线](https://www.3dmgame.com/news/202407/3899094.html)
+
++ [前《暗黑2》制作人炮轰育碧：别买他家游戏 过于正确](https://www.3dmgame.com/news/202407/3899093.html)
+
++ [感谢《艾尔登法环》DLC 《血源》玩家上涨57%](https://www.3dmgame.com/news/202407/3899080.html)
+
++ [芯原创始人直言百模大战就是“群模乱舞”：是在浪费电](https://www.3dmgame.com/news/202407/3899099.html)
+
++ [《庄园领主》发行商表示 游戏开发者不应该被迫长线更新游戏](https://www.3dmgame.com/news/202407/3899081.html)
+
++ [农场模拟游戏《动物与作物》发售日公布 7月22日正式推出](https://www.3dmgame.com/news/202407/3899098.html)
+
++ [《古币推币机朋友3》登陆Steam 合作肉鸽元素](https://www.3dmgame.com/news/202407/3899097.html)
+
++ [小清新风格休闲游戏《溢出》现已在Steam平台推出升级版试玩Demo](https://www.3dmgame.com/news/202407/3899096.html)
+
++ [动漫盗版站Animflix突然下线 月访问达数千万](https://www.3dmgame.com/news/202407/3899095.html)
+

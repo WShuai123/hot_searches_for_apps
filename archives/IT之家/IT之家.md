@@ -39,3 +39,5 @@
 
 + [明年 1 月开测，iOS 18.4 正式上线：古尔曼称 Apple Intelligence“加持版”全新 Siri 今年不会推出](https://m.ithome.com/html/780264.htm)
 
++ [9.98 万元起，2025 款比亚迪海豚纯电小车上市](https://m.ithome.com/html/780290.htm)
+

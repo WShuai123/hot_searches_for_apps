@@ -139,3 +139,15 @@
 
 + [SpringMVC源码解析(一)：web容器启动流程](https://blog.csdn.net/qq_35512802/article/details/134139936)
 
++ [【linux服务器】大语言模型实战教程：LLMS大模型快速部署到个人服务器](https://blog.csdn.net/qq_57761637/article/details/140258130)
+
++ [AI集成工具平台一站式体验，零门槛使用国内外主流大模型](https://blog.csdn.net/FRIGIDWINTER/article/details/140121224)
+
++ [Elasticsearch：Node.js ECS 日志记录 - Pino](https://blog.csdn.net/UbuntuTouch/article/details/140258495)
+
++ [kafka底层原理性能优化详解：大案例解析(第29天)](https://blog.csdn.net/syhiiu/article/details/140251185)
+
++ [基于微信小程序+SpringBoot+Vue+数据可视化的小区门户系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140242562)
+
++ [实习手记（2）：前端菜鸟的摸鱼与成长](https://blog.csdn.net/m0_73560798/article/details/140232370)
+
