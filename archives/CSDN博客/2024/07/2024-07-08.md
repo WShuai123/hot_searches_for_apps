@@ -209,3 +209,5 @@
 
 + [安全防御（防火墙）](https://blog.csdn.net/weixin_63264424/article/details/140254680)
 
++ [LDAP技术解析：打造安全、高效的企业数据架构](https://blog.csdn.net/qq_51447436/article/details/140244302)
+
