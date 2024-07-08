@@ -145,3 +145,5 @@
 
 + [《Dawnmaker》登陆Steam 卡牌构建城镇建设](https://www.3dmgame.com/news/202407/3899084.html)
 
++ [小说改编动画《香格里拉边境》第二季预告片放出 10月13日播出](https://www.3dmgame.com/news/202407/3899102.html)
+

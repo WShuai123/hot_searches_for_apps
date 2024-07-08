@@ -61,3 +61,5 @@
 
 + [南非国家医疗实验室遭勒索软件攻击，所有备份被清空](https://www.freebuf.com/news/405387.html)
 
++ [GDBFuzz：基于硬件断点的嵌入式系统模糊测试工具](https://www.freebuf.com/sectool/405047.html)
+
