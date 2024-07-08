@@ -205,3 +205,7 @@
 
 + [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
 
++ [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
