@@ -151,3 +151,15 @@
 
 + [实习手记（2）：前端菜鸟的摸鱼与成长](https://blog.csdn.net/m0_73560798/article/details/140232370)
 
++ [（19）夹钳(用于送货)](https://blog.csdn.net/qq_20016593/article/details/140094407)
+
++ [架构设计，如何找到正确的架构目标](https://blog.csdn.net/weixin_44485280/article/details/140229726)
+
++ [基于springboot+vue+uniapp的贵工程寝室快修小程序](https://blog.csdn.net/shmp54/article/details/140250199)
+
++ [【Python】搭建属于自己 AI 机器人](https://blog.csdn.net/2201_75791084/article/details/140244230)
+
++ [鸿蒙开发管理：【@ohos.account.distributedAccount (分布式帐号管理)】](https://blog.csdn.net/2301_76813281/article/details/140251959)
+
++ [Facebook数据仓库的变迁与启示](https://blog.csdn.net/qq_26664043/article/details/138449323)
+

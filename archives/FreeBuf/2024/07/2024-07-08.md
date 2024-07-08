@@ -57,3 +57,7 @@
 
 + [实战分享 | Wordpress Hash Form 文件上传致RCE漏洞0day](https://www.freebuf.com/vuls/405239.html)
 
++ [polyfill.io 供应链攻击，超 38 万台主机受影响](https://www.freebuf.com/news/405435.html)
+
++ [南非国家医疗实验室遭勒索软件攻击，所有备份被清空](https://www.freebuf.com/news/405387.html)
+
