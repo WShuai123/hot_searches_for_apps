@@ -29,3 +29,17 @@
 
 + [alex-shpak / hugo-book](https://github.com/alex-shpak/hugo-book)
 
++ [bevyengine / bevy](https://github.com/bevyengine/bevy)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [brunodev85 / winlator](https://github.com/brunodev85/winlator)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+

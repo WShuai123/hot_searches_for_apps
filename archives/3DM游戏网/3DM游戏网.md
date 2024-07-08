@@ -169,3 +169,17 @@
 
 + [BBA骨折促销 日系车销量崩盘：中国汽车市场下半年可能不降价了 这是原因](https://www.3dmgame.com/news/202407/3899111.html)
 
++ [1年收400亿税被国人怒告垄断 苹果：在中国未垄断 公平定价](https://www.3dmgame.com/news/202407/3899119.html)
+
++ [小米线上空调市场份额紧追格力电器！明年有望反超](https://www.3dmgame.com/news/202407/3899120.html)
+
++ [Skydance宣布与派拉蒙合并 将成立价值280亿美元的“新派拉蒙”](https://www.3dmgame.com/news/202407/3899117.html)
+
++ [《Run, Vivian Run》Steam上线 少女幻想世界动作冒险](https://www.3dmgame.com/news/202407/3899118.html)
+
++ [粉丝自制《黑神话》蜘蛛精四妹建模 自带高贵气场](https://www.3dmgame.com/news/202407/3899114.html)
+
++ [29岁程序员熬夜看球后突然瘫了 严重还会猝死](https://www.3dmgame.com/news/202407/3899115.html)
+
++ [冻结所有高管年薪！韩国电池巨头SK On称公司已到绝境](https://www.3dmgame.com/news/202407/3899116.html)
+

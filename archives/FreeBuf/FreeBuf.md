@@ -65,3 +65,5 @@
 
 + [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
 
++ [招兼职](https://www.freebuf.com/fevents/405485.html)
+
