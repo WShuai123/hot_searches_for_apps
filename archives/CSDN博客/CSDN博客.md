@@ -199,3 +199,7 @@
 
 + [【微信小程序开发实战项目】——个人中心页面的制作](https://blog.csdn.net/2301_77628600/article/details/140299757)
 
++ [elasticsearch SQL：在Elasticsearch中启用和使用SQL功能](https://blog.csdn.net/qq_26664043/article/details/140250316)
+
++ [【AI 大模型】函数调用 Function Calling ① ( 人机交互接口 与 应用程序编程接口 | 语言界面接口 | AI 大模型缺陷与补救措施 | 函数调用为大模型赋能 真逻辑 )](https://blog.csdn.net/han1202012/article/details/140285843)
+

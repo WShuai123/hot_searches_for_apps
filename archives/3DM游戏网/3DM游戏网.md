@@ -237,3 +237,5 @@
 
 + [追随英伟达！AMD将变成一家以开发软件为主的公司](https://www.3dmgame.com/news/202407/3899214.html)
 
++ [PS Portal是2024年美国最畅销的电子配件 超出预期](https://www.3dmgame.com/news/202407/3899217.html)
+
