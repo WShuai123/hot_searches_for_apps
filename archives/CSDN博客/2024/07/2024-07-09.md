@@ -131,3 +131,11 @@
 
 + [GPT-5 一年半后发布？对此你有何期待?](https://blog.csdn.net/2301_79969994/article/details/140252537)
 
++ [世界商用飞机机型大全-使用Java抓取FlightAware后的答案](https://blog.csdn.net/yelangkingwuzuhu/article/details/140277655)
+
++ [【python】PyQt5可视化开发，如何设计鼠标显示的形状？](https://blog.csdn.net/littlefun591/article/details/140210511)
+
++ [【AI大模型】赋能儿童安全：楼层与室内定位实践与未来发展](https://blog.csdn.net/rjdeng/article/details/140259033)
+
++ [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）两颗DSP的逻辑讲解](https://blog.csdn.net/ADI_OP/article/details/140276952)
+

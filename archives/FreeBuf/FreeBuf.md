@@ -45,3 +45,7 @@
 
 + [2024年10起最重大的网络攻击和数据泄露事件](https://www.freebuf.com/news/405374.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
++ [大模型安全风险前沿：基于图像语义越狱多模态大模型](https://www.freebuf.com/articles/es/404715.html)
+
