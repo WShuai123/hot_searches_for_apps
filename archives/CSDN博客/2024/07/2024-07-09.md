@@ -159,3 +159,15 @@
 
 + [玄机——第五章 linux实战-黑链 wp](https://blog.csdn.net/administratorlws/article/details/140276946)
 
++ [大数据下的用户研究：深度洞察与精准决策的引擎](https://blog.csdn.net/qq_32682301/article/details/140287090)
+
++ [探秘大语言模型：技术前沿与应用实践](https://blog.csdn.net/lenovo_E520/article/details/140274427)
+
++ [2024最新版若依-RuoYi-Vue3-PostgreSQL前后端分离项目部署手册教程](https://blog.csdn.net/qq_44866828/article/details/140273821)
+
++ [哈喽GPT-4o，程序员如何通过GPT-4o提高工作效率](https://blog.csdn.net/guorui_java/article/details/140257889)
+
++ [【SpringBoot】随机盐值+双重SHA256加密实战](https://blog.csdn.net/k123456kah/article/details/140281460)
+
++ [第33讲：K8S集群StorageClass使用Ceph CSI供应商与Cephfs文件系统集成](https://blog.csdn.net/weixin_44953658/article/details/140285939)
+

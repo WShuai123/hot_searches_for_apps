@@ -45,3 +45,7 @@
 
 + [深蓝 S07 汽车官宣：SUV 车型、搭载华为乾崑 ADS SE + 深蓝超级增程](https://m.ithome.com/html/780395.htm)
 
++ [车评人“蔡老板”登报向特斯拉道歉：得出错误的“刹车失灵”结论，恶意诋毁、贬损名誉](https://m.ithome.com/html/780569.htm)
+
++ [小米生态链总经理陈波就“NAS”开启用户调研](https://m.ithome.com/html/780564.htm)
+
