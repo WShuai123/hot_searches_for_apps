@@ -27,3 +27,7 @@
 
 + [享界 S9 汽车今日起亮相华为门店，余承东官宣开启 Ultra / Max 版本预订](https://m.ithome.com/html/780316.htm)
 
++ [消息称小米第三款车型是增程 SUV：主打家用，2026 年上市](https://m.ithome.com/html/780453.htm)
+
++ [腾讯视频官方调研“高端版”：需付费，无广告、视觉升级](https://m.ithome.com/html/780406.htm)
+

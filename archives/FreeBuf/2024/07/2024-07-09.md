@@ -41,3 +41,7 @@
 
 + [横扫全球:Grandoreiro银行木马活动](https://www.freebuf.com/articles/system/404856.html)
 
++ [FreeBuf早报 | 揭露美炮制“伏特台风”内幕；泰勒演唱会16万张门票泄露](https://www.freebuf.com/news/405445.html)
+
++ [2024年10起最重大的网络攻击和数据泄露事件](https://www.freebuf.com/news/405374.html)
+

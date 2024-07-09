@@ -129,3 +129,5 @@
 
 + [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）ADAU1452的第一个例程](https://blog.csdn.net/ADI_OP/article/details/140276952)
 
++ [GPT-5 一年半后发布？对此你有何期待?](https://blog.csdn.net/2301_79969994/article/details/140252537)
+

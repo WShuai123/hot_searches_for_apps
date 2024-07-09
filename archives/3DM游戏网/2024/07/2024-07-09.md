@@ -117,3 +117,15 @@
 
 + [动漫改编真人电影《夏目新的结婚》发布正式预告](https://www.3dmgame.com/news/202407/3899136.html)
 
++ [《龙腾世纪：影障守护者》新细节 浪漫和人际关系介绍](https://www.3dmgame.com/news/202407/3899143.html)
+
++ [漫威剧集《一直都是阿加莎》首曝预告 踏上女巫之路](https://www.3dmgame.com/news/202407/3899142.html)
+
++ [《第一后裔》涉嫌抄袭《命运2》图标 究极缝合怪！](https://www.3dmgame.com/news/202407/3899141.html)
+
++ [《仙剑奇侠传三》动画官宣2025年开播：概念图放出](https://www.3dmgame.com/news/202407/3899140.html)
+
++ [《Concord》Beta测试PC配置公布 低配需1660](https://www.3dmgame.com/news/202407/3899139.html)
+
++ [《奇异人生：双重曝光》预告片重点介绍萨菲](https://www.3dmgame.com/news/202407/3899138.html)
+

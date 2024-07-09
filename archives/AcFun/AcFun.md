@@ -67,3 +67,9 @@
 
 + [沙特电竞世界杯 决赛 T1 vs TES](http://www.acfun.cn/v/ac45003892)
 
++ [【vlog】我也学会金环旋转了！索尼克！](http://www.acfun.cn/v/ac45014323)
+
++ [公厕边救下它的时候骨瘦如柴，养了一个月长漂亮了](http://www.acfun.cn/v/ac45013365)
+
++ [大雷黑丝小狐狸~](http://www.acfun.cn/v/ac44933990)
+
