@@ -113,3 +113,5 @@
 
 + [制作人坦言退休前想要开发索尼克RPG游戏](https://www.3dmgame.com/news/202407/3899221.html)
 
++ [布隆确定加入拳头2v2格斗游戏《2XKO》](https://www.3dmgame.com/news/202407/3899225.html)
+
