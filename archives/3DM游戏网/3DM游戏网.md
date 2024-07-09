@@ -197,3 +197,19 @@
 
 + [鬼压床体验游戏《在睡梦中》现已登录Steam商店页面](https://www.3dmgame.com/news/202407/3899193.html)
 
++ [12306回应某平台火车票全网免费退 误导营销炒作](https://www.3dmgame.com/news/202407/3899204.html)
+
++ [Steam最新一周销量榜 《艾尔登法环》三连冠](https://www.3dmgame.com/news/202407/3899203.html)
+
++ [《巫师3》新Mod 允许玩家定制自己的角色体验游戏](https://www.3dmgame.com/news/202407/3899202.html)
+
++ [《ColdRidge》Steam页面上线 西部世界回合制探索](https://www.3dmgame.com/news/202407/3899201.html)
+
++ [《第一后裔》微交易让玩家不满：连皮肤颜色都要付费](https://www.3dmgame.com/news/202407/3899199.html)
+
++ [国产肉鸽《七度荒域：混沌之树》Steam页面 发售日待定](https://www.3dmgame.com/news/202407/3899200.html)
+
++ [《丧尸围城：豪华复刻版》原版授权音乐将得到保留](https://www.3dmgame.com/news/202407/3899198.html)
+
++ [增程阵营+1！小米新车曝光：是辆SUV、售价会有大惊喜](https://www.3dmgame.com/news/202407/3899197.html)
+

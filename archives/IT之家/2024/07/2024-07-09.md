@@ -53,3 +53,5 @@
 
 + [被顶格征收 37.6% 关税，消息称宝马寻求降低中国产电动 MINI COOPER 进口税率](https://m.ithome.com/html/780472.htm)
 
++ [6 月结束，华为 Mate 60 系列手机被曝全版本销量已过千万台](https://m.ithome.com/html/780604.htm)
+
