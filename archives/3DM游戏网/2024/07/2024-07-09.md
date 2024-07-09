@@ -189,3 +189,11 @@
 
 + [《崩坏：星穹铁道》翡翠角色PV——「欲望收藏」](https://www.3dmgame.com/news/202407/3899186.html)
 
++ [沙盒建造《围攻》DLC“分裂之海”确认会有后续更新](https://www.3dmgame.com/news/202407/3899196.html)
+
++ [《Ai Vpet / 守护与智友》：测试服现已开启，体验AI聊天与互动](https://www.3dmgame.com/news/202407/3899195.html)
+
++ [《XX Delicto》Steam页面上线 3D美少女动作冒险](https://www.3dmgame.com/news/202407/3899194.html)
+
++ [鬼压床体验游戏《在睡梦中》现已登录Steam商店页面](https://www.3dmgame.com/news/202407/3899193.html)
+

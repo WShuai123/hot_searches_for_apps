@@ -49,3 +49,7 @@
 
 + [小米生态链总经理陈波就“NAS”开启用户调研](https://m.ithome.com/html/780564.htm)
 
++ [一私家车起火多次复燃：消防“围车造池”为电池降温，网友称是保时捷 Taycan](https://m.ithome.com/html/780588.htm)
+
++ [被顶格征收 37.6% 关税，消息称宝马寻求降低中国产电动 MINI COOPER 进口税率](https://m.ithome.com/html/780472.htm)
+
