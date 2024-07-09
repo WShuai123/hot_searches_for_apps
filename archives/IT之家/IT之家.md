@@ -25,3 +25,5 @@
 
 + [平衡充电时间，消息称苹果 iPhone 16 系列手机将支持 40W 快充](https://m.ithome.com/html/780712.htm)
 
++ [售 17.99 万元起，全新一代一汽-大众迈腾上市：搭载大疆智驾](https://m.ithome.com/html/780716.htm)
+

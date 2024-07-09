@@ -101,3 +101,35 @@
 
 + [硬件开发笔记（二十四）：贴片电容的类别、封装介绍，AD21导入贴片电容、原理图和封装库3D模型](https://blog.csdn.net/qq21497936/article/details/140241817)
 
++ [时间处理的未来：Java 8全新日期与时间API完全解析](https://blog.csdn.net/qq_51601665/article/details/140242786)
+
++ [Spring Boot的无缝衔接：深入解析与实践](https://blog.csdn.net/2301_79181030/article/details/140193143)
+
++ [快速上手：前后端分离开发（Vue+Element+Spring Boot+MyBatis+MySQL）](https://blog.csdn.net/qq_43546721/article/details/140267108)
+
++ [MySQL篇五：基本查询](https://blog.csdn.net/qq_62321047/article/details/140206411)
+
++ [【React】React18 Hooks 之 useContext](https://blog.csdn.net/qq_38951259/article/details/140242950)
+
++ [柳永，市井生活的吟游者](https://blog.csdn.net/hope_wisdom/article/details/140284186)
+
++ [在亚马逊云科技AWS上利用SageMaker机器学习模型平台搭建生成式AI应用（附Llama大模型部署和测试代码）](https://blog.csdn.net/m0_66628975/article/details/140308881)
+
++ [外包干了3天，技术退步明显.......](https://blog.csdn.net/lzz718719/article/details/140276834)
+
++ [SpringBoot拦截器](https://blog.csdn.net/cool_tao6/article/details/140224602)
+
++ [基于FPGA的图像边缘检测（OV5640）](https://blog.csdn.net/weixin_56481118/article/details/140263852)
+
++ [【Sql Server】sql server 2019设置远程访问，外网服务器需要设置好安全组入方向规则](https://blog.csdn.net/lmy_520/article/details/140292053)
+
++ [【云原生】Prometheus监控Docker指标并接入Grafana](https://blog.csdn.net/congge_study/article/details/140247637)
+
++ [项目推荐—文本标注 poplar-annotation用法及相关问题解决](https://blog.csdn.net/weixin_56048772/article/details/140276745)
+
++ [珍藏多年的计算机内核结构大全笔记，掌握计算机工作原理真不难](https://blog.csdn.net/mgzdwm/article/details/140247568)
+
++ [【数学建模】2005建模A题:长江水质综合评价与预测](https://blog.csdn.net/shaozheng0503/article/details/140286255)
+
++ [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）两颗DSP的逻辑讲解](https://blog.csdn.net/ADI_OP/article/details/140276952)
+

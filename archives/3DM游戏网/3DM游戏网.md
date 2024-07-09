@@ -101,3 +101,7 @@
 
 + [华为Mate 70细节曝光 影像性能近乎拉满](https://www.3dmgame.com/news/202407/3899176.html)
 
++ [《黑神话：悟空》登上西班牙杂志《GTM》封面 国外备受关注](https://www.3dmgame.com/news/202407/3899220.html)
+
++ [《机场：模拟地勤》8月1日登陆XSX 新预告发布](https://www.3dmgame.com/news/202407/3899219.html)
+
