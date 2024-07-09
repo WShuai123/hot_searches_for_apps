@@ -101,3 +101,47 @@
 
 + [Chat with AI](https://www.producthunt.com/posts/chat-with-ai)
 
++ [Moshi](https://www.producthunt.com/posts/moshi-2)
+
++ [GCX](https://www.producthunt.com/posts/gcx)
+
++ [Banhaten design system](https://www.producthunt.com/posts/banhaten-design-system)
+
++ [Parallel DOM](https://www.producthunt.com/posts/parallel-dom)
+
++ [Pressure Match](https://www.producthunt.com/posts/pressure-match)
+
++ [brb](https://www.producthunt.com/posts/brb-2)
+
++ [Fluidworks](https://www.producthunt.com/posts/fluidworks)
+
++ [Roots](https://www.producthunt.com/posts/roots-4)
+
++ [OOO](https://www.producthunt.com/posts/ooo-4)
+
++ [Vibely](https://www.producthunt.com/posts/vibely-5)
+
++ [Cassiopeia](https://www.producthunt.com/posts/cassiopeia)
+
++ [Nucelo](https://www.producthunt.com/posts/nucelo)
+
++ [Enflow](https://www.producthunt.com/posts/enflow)
+
++ [Enso](https://www.producthunt.com/posts/enso-8)
+
++ [StudioForm Pro Library](https://www.producthunt.com/posts/studioform-pro-library)
+
++ [AI Agents by Threado](https://www.producthunt.com/posts/ai-agents-by-threado)
+
++ [Crawlee for Python](https://www.producthunt.com/posts/crawlee-for-python)
+
++ [MailSlurp](https://www.producthunt.com/posts/mailslurp-2)
+
++ [Shram](https://www.producthunt.com/posts/shram)
+
++ [Krut AI](https://www.producthunt.com/posts/krut-ai)
+
++ [Keatext](https://www.producthunt.com/posts/keatext-2)
+
++ [Airbook 2.0](https://www.producthunt.com/posts/airbook-2-0)
+

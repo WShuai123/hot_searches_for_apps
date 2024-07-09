@@ -175,3 +175,17 @@
 
 + [《重生边缘》终止运营通知 9月9日11点停服](https://www.3dmgame.com/news/202407/3899183.html)
 
++ [《泰坦尼克号》制片人去世 享年63岁卡梅隆悼念](https://www.3dmgame.com/news/202407/3899192.html)
+
++ [《卡戎方舟》抢先体验版发售 Steam国区定价75元](https://www.3dmgame.com/news/202407/3899191.html)
+
++ [首次！我国深海重载作业采矿车海试水深突破4000米](https://www.3dmgame.com/news/202407/3899190.html)
+
++ [Xbox版《最终幻想14》问题仍未解决 SE赠送8天游戏时间作为补偿](https://www.3dmgame.com/news/202407/3899189.html)
+
++ [粉丝抗议万代新版电子宠物机被炒价格翻五倍 万代回应](https://www.3dmgame.com/news/202407/3899188.html)
+
++ [预热新作 《宇宙机器人无线控制器使用指南》添加四个新机器人](https://www.3dmgame.com/news/202407/3899187.html)
+
++ [《崩坏：星穹铁道》翡翠角色PV——「欲望收藏」](https://www.3dmgame.com/news/202407/3899186.html)
+
