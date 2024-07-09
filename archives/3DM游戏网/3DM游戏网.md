@@ -129,3 +129,43 @@
 
 + [《奇异人生：双重曝光》预告片重点介绍萨菲](https://www.3dmgame.com/news/202407/3899138.html)
 
++ [轻度类Rogue策略游戏《方块公国》Steam页面 2024年第四季度发售](https://www.3dmgame.com/news/202407/3899163.html)
+
++ [诺曼·瑞杜斯：想继续出演《行尸走肉》至少六七年](https://www.3dmgame.com/news/202407/3899164.html)
+
++ [《穿普拉达的女王》续集制作中 直面纸媒的衰落](https://www.3dmgame.com/news/202407/3899165.html)
+
++ [《Apex英雄》系统革新 重生将赛季通行证价格翻了一倍](https://www.3dmgame.com/news/202407/3899166.html)
+
++ [《勇者斗恶龙3 重制版》特典或暗示SE有意重制天空三部曲](https://www.3dmgame.com/news/202407/3899167.html)
+
++ [传闻：动作冒险RPG《尘封大陆》即将加入XGP](https://www.3dmgame.com/news/202407/3899168.html)
+
++ [卡牌类肉鸽游戏《空间维度》登录Steam平台 已开放测试申请](https://www.3dmgame.com/news/202407/3899170.html)
+
++ [《刺客信条：Hexe》概念图疑似泄露 画面阴森恐怖](https://www.3dmgame.com/news/202407/3899169.html)
+
++ [英国游戏行业调查显示：男女从业者年薪相差8千英镑](https://www.3dmgame.com/news/202407/3899171.html)
+
++ [重振日本芯片产业 八家日企计划到2029年投资5万亿日元](https://www.3dmgame.com/news/202407/3899172.html)
+
++ [《不死者之王：Imagine stories》全新卡牌游戏9月发售](https://www.3dmgame.com/news/202407/3899173.html)
+
++ [粉丝自制《艾尔登法环》动画短片首曝预告 质量颇高堪比官方](https://www.3dmgame.com/news/202407/3899174.html)
+
++ [《如龙》新作“港区女子”入围名单公布 7月16日公布获胜者](https://www.3dmgame.com/news/202407/3899175.html)
+
++ [华为Mate 70细节曝光 影像性能近乎拉满](https://www.3dmgame.com/news/202407/3899176.html)
+
++ [电影《传说》官宣提档7月10日上映 成龙宣传曲MV公布](https://www.3dmgame.com/news/202407/3899177.html)
+
++ [战略塔防肉鸽游戏《以太站的陷落》已推出试玩Demo 7月25日正式推出](https://www.3dmgame.com/news/202407/3899178.html)
+
++ [伊苏和轨迹系列开发商Falcom正在开发一款重制作品 预计年内公布细节](https://www.3dmgame.com/news/202407/3899179.html)
+
++ [《辐射76》数据挖掘显示：宠物系统或即将加入游戏](https://www.3dmgame.com/news/202407/3899181.html)
+
++ [经典游戏《超兄贵》官方忽然开推 称新策划很快将至](https://www.3dmgame.com/news/202407/3899180.html)
+
++ [大型Mod《辐射：伦敦》推出近在眼前：将有独立安装器](https://www.3dmgame.com/news/202407/3899182.html)
+

@@ -51,3 +51,7 @@
 
 + [微软强制中国员工使用iPhone进行安全验证](https://www.freebuf.com/articles/405506.html)
 
++ [苹果Wi-Fi定位可被用于监控全球各地数亿台设备](https://www.freebuf.com/news/405505.html)
+
++ [新型APT组织CloudSorcerer瞄准俄罗斯政府](https://www.freebuf.com/news/405508.html)
+

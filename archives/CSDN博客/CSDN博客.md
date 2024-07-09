@@ -145,3 +145,11 @@
 
 + [珍藏多年的计算机内核结构大全笔记，掌握计算机工作原理真不难](https://blog.csdn.net/mgzdwm/article/details/140247568)
 
++ [基于FPGA的数字信号处理（15）--定点数的舍入模式（6）向0取整fix](https://blog.csdn.net/wuzhikaidetb/article/details/140286844)
+
++ [初学SpringMVC之执行原理](https://blog.csdn.net/m0_58838332/article/details/140267664)
+
++ [搭建discuz论坛（lvs+nginx+http+mysql+nfs）8台服务器](https://blog.csdn.net/weixin_48089507/article/details/140244496)
+
++ [Python自动化与系统安全](https://blog.csdn.net/itxuchuanlong/article/details/140261432)
+
