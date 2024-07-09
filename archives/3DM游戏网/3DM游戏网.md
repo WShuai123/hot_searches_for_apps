@@ -229,3 +229,11 @@
 
 + [上万块钱买了一块RTX4090显卡 结果竟然是RTX3080](https://www.3dmgame.com/news/202407/3899210.html)
 
++ [华硕正式发布NUC 14 Pro+迷你PC 至高酷睿Ultra 9](https://www.3dmgame.com/news/202407/3899215.html)
+
++ [雷德利·斯科特《角斗士2》首曝预告 11月22日上映](https://www.3dmgame.com/news/202407/3899216.html)
+
++ [高通聘请了前AMD光追专家 以提升Adreno GPU游戏性能和兼容性](https://www.3dmgame.com/news/202407/3899213.html)
+
++ [追随英伟达！AMD将变成一家以开发软件为主的公司](https://www.3dmgame.com/news/202407/3899214.html)
+
