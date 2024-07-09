@@ -223,3 +223,9 @@
 
 + [日本正规和尚直播玩《超级马里奥》引热议 条件是不得杀生](https://www.3dmgame.com/news/202407/3899208.html)
 
++ [类魂动作RPG《艾诺提亚：失落之歌》面具动作系统介绍](https://www.3dmgame.com/news/202407/3899212.html)
+
++ [上海迪士尼挤爆而中国本土主题公园冷清 游客忠诚度低](https://www.3dmgame.com/news/202407/3899211.html)
+
++ [上万块钱买了一块RTX4090显卡 结果竟然是RTX3080](https://www.3dmgame.com/news/202407/3899210.html)
+
