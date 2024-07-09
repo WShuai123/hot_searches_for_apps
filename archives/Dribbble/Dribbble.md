@@ -101,3 +101,19 @@
 
 + [21/32 – Minnesota Chippers](https://dribbble.com/shots/)
 
++ [Sebastopol Fruit](https://dribbble.com/shots/)
+
++ [Summer Patio](https://dribbble.com/shots/)
+
++ [Nuclear Blast Records](https://dribbble.com/shots/)
+
++ [Blue Loon BW](https://dribbble.com/shots/)
+
++ [Stirred & Spirit Forward](https://dribbble.com/shots/)
+
++ [Heads](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Front Label Design](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
