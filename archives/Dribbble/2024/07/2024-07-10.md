@@ -125,3 +125,15 @@
 
 + [AI Landing Page Animation](https://dribbble.com/shots/)
 
++ [Millennium Falcon badge](https://dribbble.com/shots/)
+
++ [Etheros](https://dribbble.com/shots/)
+
++ [Believe](https://dribbble.com/shots/)
+
++ [Just about McF***in' had it ????????](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [Give me the money!](https://dribbble.com/shots/)
+

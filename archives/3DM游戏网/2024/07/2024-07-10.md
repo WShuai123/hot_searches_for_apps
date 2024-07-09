@@ -105,3 +105,11 @@
 
 + [《机场：模拟地勤》8月1日登陆XSX 新预告发布](https://www.3dmgame.com/news/202407/3899219.html)
 
++ [《守望先锋2》与《变形金刚》联动活动实机预告](https://www.3dmgame.com/news/202407/3899223.html)
+
++ [海绵宝宝衍生动画电影《珊迪大电影》正式预告](https://www.3dmgame.com/news/202407/3899224.html)
+
++ [PS会免游戏7月更新《FF7危机核心》等多款大作加入](https://www.3dmgame.com/news/202407/3899222.html)
+
++ [制作人坦言退休前想要开发索尼克RPG游戏](https://www.3dmgame.com/news/202407/3899221.html)
+
