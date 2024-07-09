@@ -35,3 +35,9 @@
 
 + [小米 Redmi Note 13 系列手机被曝增加区域检测：无法运行国际版系统](https://m.ithome.com/html/780373.htm)
 
++ [被宝马 X5 电吸门夹断拇指，美国一车主获赔 190 万美元](https://m.ithome.com/html/780428.htm)
+
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 3 发布：增强主界面深色图标、引入新壁纸等](https://m.ithome.com/html/780487.htm)
+
++ [昔日“销冠”也降价：东风日产轩逸悦享版 9.98 万元起，轩逸・经典舒适版 6.98 万元起](https://m.ithome.com/html/780476.htm)
+

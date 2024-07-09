@@ -139,3 +139,9 @@
 
 + [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）两颗DSP的逻辑讲解](https://blog.csdn.net/ADI_OP/article/details/140276952)
 
++ [高考后的IT专业启航：暑期预习指南与学习路线图](https://blog.csdn.net/u014727709/article/details/140278093)
+
++ [柳永，市井生活的吟游者](https://blog.csdn.net/hope_wisdom/article/details/140284186)
+
++ [珍藏多年的计算机内核结构大全笔记，掌握计算机工作原理真不难](https://blog.csdn.net/mgzdwm/article/details/140247568)
+

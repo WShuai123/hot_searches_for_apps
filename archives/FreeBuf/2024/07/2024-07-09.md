@@ -49,3 +49,5 @@
 
 + [大模型安全风险前沿：基于图像语义越狱多模态大模型](https://www.freebuf.com/articles/es/404715.html)
 
++ [微软强制中国员工使用iPhone进行安全验证](https://www.freebuf.com/articles/405506.html)
+
