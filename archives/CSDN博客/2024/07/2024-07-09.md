@@ -183,3 +183,7 @@
 
 + [【JS逆向补环境】最新mtgsig参数分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/140237429)
 
++ [C++ Qt 自制开源科学计算器](https://blog.csdn.net/m0_51510934/article/details/140273742)
+
++ [基于springboot+vue+uniapp的机电公司管理信息系统](https://blog.csdn.net/shmp54/article/details/140279567)
+

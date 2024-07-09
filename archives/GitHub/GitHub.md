@@ -27,3 +27,23 @@
 
 + [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
 
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [techschool / simplebank](https://github.com/techschool/simplebank)
+
++ [vllm-project / vllm](https://github.com/vllm-project/vllm)
+
++ [vanna-ai / vanna](https://github.com/vanna-ai/vanna)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [pi-hole / pi-hole](https://github.com/pi-hole/pi-hole)
+
++ [grpc / grpc-go](https://github.com/grpc/grpc-go)
+
++ [ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism)
+
++ [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
