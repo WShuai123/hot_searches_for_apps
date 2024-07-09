@@ -133,3 +133,5 @@
 
 + [A2B汽车音频总线：Master板作为独立的DSP开发板做开发（二）两颗DSP的逻辑讲解](https://blog.csdn.net/ADI_OP/article/details/140276952)
 
++ [Xilinx FPGA DDR4 接口的 PCB 准则](https://blog.csdn.net/DongDong314/article/details/140212275)
+
