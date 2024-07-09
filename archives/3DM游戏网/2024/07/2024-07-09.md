@@ -169,3 +169,9 @@
 
 + [大型Mod《辐射：伦敦》推出近在眼前：将有独立安装器](https://www.3dmgame.com/news/202407/3899182.html)
 
++ [韩国网络小说改编动画《全知读者视角》公布首个宣传片](https://www.3dmgame.com/news/202407/3899185.html)
+
++ [AMD差点收购NVIDIA 可惜黄了！黄仁勋坚持当CEO](https://www.3dmgame.com/news/202407/3899184.html)
+
++ [《重生边缘》终止运营通知 9月9日11点停服](https://www.3dmgame.com/news/202407/3899183.html)
+

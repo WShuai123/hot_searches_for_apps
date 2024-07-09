@@ -43,3 +43,5 @@
 
 + [上海临港 “莫比乌斯环”主体结构建设完成，公园年底前竣工](https://m.ithome.com/html/780320.htm)
 
++ [深蓝 S07 汽车官宣：SUV 车型、搭载华为乾崑 ADS SE + 深蓝超级增程](https://m.ithome.com/html/780395.htm)
+

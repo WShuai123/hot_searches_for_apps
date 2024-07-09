@@ -153,3 +153,9 @@
 
 + [Python自动化与系统安全](https://blog.csdn.net/itxuchuanlong/article/details/140261432)
 
++ [探展2024世界人工智能大会之合合信息扫描黑科技～](https://blog.csdn.net/weixin_42250835/article/details/140281879)
+
++ [【C++深度探索】继承机制详解（二）](https://blog.csdn.net/Renswc/article/details/140278143)
+
++ [玄机——第五章 linux实战-黑链 wp](https://blog.csdn.net/administratorlws/article/details/140276946)
+
