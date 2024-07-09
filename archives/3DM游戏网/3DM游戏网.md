@@ -213,3 +213,9 @@
 
 + [增程阵营+1！小米新车曝光：是辆SUV、售价会有大惊喜](https://www.3dmgame.com/news/202407/3899197.html)
 
++ [《刺客信条》粉丝希望该系列进入冷战或二战时代](https://www.3dmgame.com/news/202407/3899205.html)
+
++ [美国死亡谷56度高温已致1人死亡：但仍有大批民众前往探险](https://www.3dmgame.com/news/202407/3899206.html)
+
++ [导航中弹出大幅广告影响行车！曝谷歌地图正进行弹出式广告测试](https://www.3dmgame.com/news/202407/3899207.html)
+

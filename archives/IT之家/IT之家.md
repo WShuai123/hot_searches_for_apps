@@ -55,3 +55,7 @@
 
 + [6 月结束，华为 Mate 60 系列手机被曝全版本销量已过千万台](https://m.ithome.com/html/780604.htm)
 
++ [2799 元起，realme 真我 GT6 手机发布：第三代骁龙 8、首发 6000 尼特电竞无双直屏](https://m.ithome.com/html/780625.htm)
+
++ [“萝卜快跑”无人驾驶出租车武汉街头撞倒行人？百度回应：与一名闯红灯人员发生轻微接触](https://m.ithome.com/html/780602.htm)
+

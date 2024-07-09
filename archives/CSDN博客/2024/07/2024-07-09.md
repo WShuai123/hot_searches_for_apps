@@ -181,3 +181,5 @@
 
 + [[Spring] SpringBoot基本配置与快速上手](https://blog.csdn.net/2301_80050796/article/details/140278757)
 
++ [【JS逆向补环境】最新mtgsig参数分析与算法还原](https://blog.csdn.net/qiulin_wu/article/details/140237429)
+
