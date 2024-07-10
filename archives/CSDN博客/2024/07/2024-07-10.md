@@ -143,3 +143,7 @@
 
 + [哈喽GPT-4o，程序员如何通过GPT-4o提高工作效率](https://blog.csdn.net/guorui_java/article/details/140257889)
 
++ [【微服务】Spring Cloud中如何使用Eureka](https://blog.csdn.net/jinxinxin1314/article/details/140310061)
+
++ [【HarmonyOS NEXT】鸿蒙线程安全容器集collections.TypedArray](https://blog.csdn.net/wu1004019946/article/details/140271320)
+
