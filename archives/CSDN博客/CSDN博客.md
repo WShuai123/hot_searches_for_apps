@@ -129,3 +129,5 @@
 
 + [Java如何自定义注解及在SpringBoot中的应用](https://blog.csdn.net/u010581811/article/details/140306185)
 
++ [探秘大语言模型：技术前沿与应用实践](https://blog.csdn.net/lenovo_E520/article/details/140274427)
+
