@@ -49,3 +49,5 @@
 
 + [Atomic Red Team 模拟 Akira 勒索软件攻击](https://www.freebuf.com/articles/system/405375.html)
 
++ [微软或将为子公司违规行为支付85亿美元罚款](https://www.freebuf.com/news/405594.html)
+

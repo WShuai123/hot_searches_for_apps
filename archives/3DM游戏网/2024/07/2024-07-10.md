@@ -173,3 +173,15 @@
 
 + [《极限竞速Motorsport》更新#10将分为两个阶段推出](https://www.3dmgame.com/news/202407/3899243.html)
 
++ [苹果成世界首家市值超3.5万亿美元公司 15年来峰顶](https://www.3dmgame.com/news/202407/3899261.html)
+
++ [三星电子最大工会将举行无限期罢工 要求涨薪、改善福利待遇](https://www.3dmgame.com/news/202407/3899257.html)
+
++ [英国6月榜：《艾尔登法环》DLC发售销量狂飙467%](https://www.3dmgame.com/news/202407/3899260.html)
+
++ [《Apex英雄》战斗通行证要改 Steam上遭差评轰炸](https://www.3dmgame.com/news/202407/3899259.html)
+
++ [虚拟桌面扮演游戏《寓言传说》已在Steam平台推出试玩Demo 7月23日抢先体验推出](https://www.3dmgame.com/news/202407/3899258.html)
+
++ [《巫师3》任务设计师揭秘游戏任务吸引人的秘诀！](https://www.3dmgame.com/news/202407/3899256.html)
+

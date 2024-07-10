@@ -33,3 +33,5 @@
 
 + [（更新：小米官方回应）获赔 185 万元，格力诉小米米家电风扇侵权一案胜诉](https://m.ithome.com/html/780735.htm)
 
++ [iPhone 15 Pro Max 原型机上手，初探被苹果取消的触觉音量 / 电源按钮](https://m.ithome.com/html/780749.htm)
+
