@@ -243,3 +243,11 @@
 
 + [SteamDB浏览器插件新功能：跳过探索队列直接领奖励](https://www.3dmgame.com/news/202407/3899282.html)
 
++ [重磅！传台积电下周开始试产2nm芯片](https://www.3dmgame.com/news/202407/3899293.html)
+
++ [格力称米家风扇侵权判赔185万 小米：未收到任何诉讼](https://www.3dmgame.com/news/202407/3899291.html)
+
++ [曝RTX5090基础频率大幅提升至2.9GHz 远超当前旗舰](https://www.3dmgame.com/news/202407/3899292.html)
+
++ [NS时尚换装＆社交游戏《时尚造梦》免费更新第八弹将于7月11日上线](https://www.3dmgame.com/news/202407/3899290.html)
+
