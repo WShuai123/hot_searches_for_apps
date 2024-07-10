@@ -189,3 +189,15 @@
 
 + [Night Sun](https://dribbble.com/shots/)
 
++ [Glossy Play App Icon](https://dribbble.com/shots/)
+
++ [Web Design](https://dribbble.com/shots/)
+
++ [Office & teamwork illustration pack ????????‍????](https://dribbble.com/shots/)
+
++ [Guardia home insurance logo design: umbrella + house](https://dribbble.com/shots/)
+
++ [Fastic](https://dribbble.com/shots/)
+
++ [Productivity Dashboard](https://dribbble.com/shots/)
+

@@ -81,3 +81,7 @@
 
 + [韩服最强王者菁英对决 #2514](http://www.acfun.cn/v/ac45022057)
 
++ [「从今天开始做小恶龙！嗷呜嗷呜～」｜小井小一小剧场](http://www.acfun.cn/v/ac45182548)
+
++ [【余若】夜奔（Cover 黄诗扶）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac45044183)
+

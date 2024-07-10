@@ -203,3 +203,23 @@
 
 + [国产游戏《女巫之路》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3899269.html)
 
++ [《命运2》未来章节内容同时发布 让玩家按自己节奏游玩](https://www.3dmgame.com/news/202407/3899277.html)
+
++ [App Magic：《绝区零》手游端收入已超2500万美元](https://www.3dmgame.com/news/202407/3899278.html)
+
++ [《严阵以待》DLC「Home Invasion」Steam页面 发售日期待定](https://www.3dmgame.com/news/202407/3899279.html)
+
++ [KK官方对战平台爆图《重返战法牧》新职业上线 掌控战场节奏，萨满祭司降临！](https://www.3dmgame.com/news/202407/3899276.html)
+
++ [《Nyaz》Steam页面上线 猫咪组团3D迷宫探索](https://www.3dmgame.com/news/202407/3899274.html)
+
++ [《波西亚时光》手游正式上线 首发特惠18元](https://www.3dmgame.com/news/202407/3899275.html)
+
++ [《绝地潜兵2》玩家发现使用表情可减免坠落伤害 请求官方不要修复](https://www.3dmgame.com/news/202407/3899273.html)
+
++ [星穹铁道同人游戏《黑塔的棋局》Steam页面 发售日期待定](https://www.3dmgame.com/news/202407/3899272.html)
+
++ [瑞典游戏贸易组织希望电子游戏能被视为国家文化经典](https://www.3dmgame.com/news/202407/3899271.html)
+
++ [《星球大战：亡命之徒》角色无需升级来获取技能 与NPC任务相关](https://www.3dmgame.com/news/202407/3899270.html)
+

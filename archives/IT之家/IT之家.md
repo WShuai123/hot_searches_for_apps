@@ -47,3 +47,5 @@
 
 + [英伟达海外送《黑神话：悟空》：需购买 RTX 4070 及以上显卡 / 对应配置电脑](https://m.ithome.com/html/780814.htm)
 
++ [比亚迪宋 L DM-i 高清宣传视频公布，搭载第五代 DM 混动系统](https://m.ithome.com/html/780829.htm)
+
