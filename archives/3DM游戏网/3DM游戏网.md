@@ -149,3 +149,27 @@
 
 + [《战地2042》和《死亡空间》联动活动现已上线](https://www.3dmgame.com/news/202407/3899232.html)
 
++ [《怪物猎人物语2》官方贺图 庆祝3周年及超2百万销量](https://www.3dmgame.com/news/202407/3899255.html)
+
++ [卢卡斯影业负责人表示能制作《星球大战：亡命之徒》开放世界规模的游戏公司屈指可数](https://www.3dmgame.com/news/202407/3899252.html)
+
++ [俄航天集团：俄罗斯将在2026年流水线生产卫星](https://www.3dmgame.com/news/202407/3899254.html)
+
++ [《Golel》Steam试玩发布 支持VR肉鸽迷宫探索](https://www.3dmgame.com/news/202407/3899253.html)
+
++ [《七日世界》“永恒之地”独特机制：玩家的个人宇宙](https://www.3dmgame.com/news/202407/3899251.html)
+
++ [《我为情狂》三上悠亚采访视频：为演绎角色下大功夫](https://www.3dmgame.com/news/202407/3899250.html)
+
++ [全新发布会VR游戏展将于8月15日举行 阿卡姆VR或亮相](https://www.3dmgame.com/news/202407/3899249.html)
+
++ [复古风格策略战术游戏《异度游骑兵》现已登录Steam平台](https://www.3dmgame.com/news/202407/3899247.html)
+
++ [《Space for Sale》Steam试玩发布 外星世界探索经营](https://www.3dmgame.com/news/202407/3899246.html)
+
++ [招魂系列完结篇《招魂4》电影定档2025年9月5日](https://www.3dmgame.com/news/202407/3899245.html)
+
++ [英伟达海外新活动：买40系显卡送《黑神话：悟空》](https://www.3dmgame.com/news/202407/3899244.html)
+
++ [《极限竞速Motorsport》更新#10将分为两个阶段推出](https://www.3dmgame.com/news/202407/3899243.html)
+

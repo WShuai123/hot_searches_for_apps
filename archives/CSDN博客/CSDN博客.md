@@ -147,3 +147,5 @@
 
 + [【HarmonyOS NEXT】鸿蒙线程安全容器集collections.TypedArray](https://blog.csdn.net/wu1004019946/article/details/140271320)
 
++ [[C++]——同步异步日志系统（3）](https://blog.csdn.net/plj521/article/details/140186425)
+
