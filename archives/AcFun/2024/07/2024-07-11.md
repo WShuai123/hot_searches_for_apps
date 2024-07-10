@@ -69,3 +69,5 @@
 
 + [【歌回录像】试试新弹幕姬~（终于马上要补完啦！！） 2024-06-26](http://www.acfun.cn/v/ac45188571)
 
++ [姐姐太会了！无法抗拒的Good night kiss](http://www.acfun.cn/v/ac45201040)
+
