@@ -101,3 +101,7 @@
 
 + [Airbook 2.0](https://www.producthunt.com/posts/airbook-2-0)
 
++ [Parallel DOM](https://www.producthunt.com/posts/parallel-dom)
+
++ [Krut AI](https://www.producthunt.com/posts/krut-ai)
+

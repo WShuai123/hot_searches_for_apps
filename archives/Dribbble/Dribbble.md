@@ -49,3 +49,23 @@
 
 + [Alien on vacation illustration](https://dribbble.com/shots/)
 
++ [Just about McF***in' had it ????????](https://dribbble.com/shots/)
+
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [Sorry](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Glyph Beer 50](https://dribbble.com/shots/)
+
++ [Etheros](https://dribbble.com/shots/)
+
++ [Off to work ????](https://dribbble.com/shots/)
+
++ [Noseride](https://dribbble.com/shots/)
+
++ [Bento Scape Series | Bento Grid Landscapes](https://dribbble.com/shots/)
+
++ [T-Shirt](https://dribbble.com/shots/)
+
