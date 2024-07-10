@@ -187,3 +187,7 @@
 
 + [消息称台积电下周开始试产 2nm 芯片，有望率先用于苹果 iPhone 17](https://blog.csdn.net/qq_44866828/article/details/140318897)
 
++ [自学黑客（网络安全）](https://blog.csdn.net/xv7676/article/details/140297249)
+
++ [微软开源GraphRAG的使用教程-使用自定义数据测试GraphRAG](https://blog.csdn.net/luxinfeng666/article/details/140253451)
+

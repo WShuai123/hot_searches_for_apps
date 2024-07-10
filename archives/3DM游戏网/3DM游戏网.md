@@ -223,3 +223,23 @@
 
 + [《星球大战：亡命之徒》角色无需升级来获取技能 与NPC任务相关](https://www.3dmgame.com/news/202407/3899270.html)
 
++ [《孤独的美食家》电影化 2025年1月10日登陆日本院线](https://www.3dmgame.com/news/202407/3899286.html)
+
++ [《永劫无间》多款外挂源作者落网 22人被送去踩缝纫机](https://www.3dmgame.com/news/202407/3899287.html)
+
++ [厄瓜多尔银行推出前卫游戏贷服务 游戏账号可贷款](https://www.3dmgame.com/news/202407/3899288.html)
+
++ [《赛博朋克2077》摄影美图欣赏 绝美游戏画面让人沉醉](https://www.3dmgame.com/news/202407/3899289.html)
+
++ [网约车出租车杀手！萝卜快跑已在11个城市开放载人测试运营服务：全面铺开](https://www.3dmgame.com/news/202407/3899283.html)
+
++ [仰望U8入驻《和平精英》 可原地掉头但不能下水](https://www.3dmgame.com/news/202407/3899284.html)
+
++ [《星球大战：法外狂徒》部分星球并不大 横穿仅需4分钟](https://www.3dmgame.com/news/202407/3899285.html)
+
++ [周鸿祎：免费杀毒、QQ等让国人生活实现了数字化改变](https://www.3dmgame.com/news/202407/3899280.html)
+
++ [《绝境使者》Steam抢先体验 肉鸽幸存动作射击](https://www.3dmgame.com/news/202407/3899281.html)
+
++ [SteamDB浏览器插件新功能：跳过探索队列直接领奖励](https://www.3dmgame.com/news/202407/3899282.html)
+

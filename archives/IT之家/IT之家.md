@@ -49,3 +49,7 @@
 
 + [比亚迪宋 L DM-i 高清宣传视频公布，搭载第五代 DM 混动系统](https://m.ithome.com/html/780829.htm)
 
++ [小米 Redmi K70 至尊版手机官宣本月发布，支持《原神 / 星铁》自研超帧超分](https://m.ithome.com/html/780781.htm)
+
++ [极氪首款家用 SUV 车型命名为“7X”，拥有 2925mm 超长轴距](https://m.ithome.com/html/780823.htm)
+

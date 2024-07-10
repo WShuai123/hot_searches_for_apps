@@ -87,3 +87,13 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千八百四十一期](http://www.acfun.cn/v/ac45024732)
 
++ [走！干票大的！很刑的射击游戏](http://www.acfun.cn/v/ac45024089)
+
++ [李卫的进阶之路，从一个小叫花到两江总督](http://www.acfun.cn/v/ac45022345)
+
++ [钱要花在刀刃上【今天有什么好笑的 #1619】](http://www.acfun.cn/v/ac45188116)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.3](http://www.acfun.cn/v/ac45149693)
+
++ [玩烟卡，玩到报警了](http://www.acfun.cn/v/ac45022361)
+
