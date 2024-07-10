@@ -105,3 +105,5 @@
 
 + [Krut AI](https://www.producthunt.com/posts/krut-ai)
 
++ [Live Video Agent from Fluidworks](https://www.producthunt.com/posts/live-video-agent-from-fluidworks)
+

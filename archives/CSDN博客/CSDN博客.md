@@ -123,3 +123,9 @@
 
 + [[Spring] SpringBoot基本配置与快速上手](https://blog.csdn.net/2301_80050796/article/details/140278757)
 
++ [生成式人工智能：助攻开发者还是取代开发者？](https://blog.csdn.net/weixin_36755535/article/details/140303217)
+
++ [Spark SQL](https://blog.csdn.net/m0_74120525/article/details/140335034)
+
++ [Java如何自定义注解及在SpringBoot中的应用](https://blog.csdn.net/u010581811/article/details/140306185)
+

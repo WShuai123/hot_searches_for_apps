@@ -117,3 +117,15 @@
 
 + [Banking Website: animation](https://dribbble.com/shots/)
 
++ [Straight Bourbon](https://dribbble.com/shots/)
+
++ [Hank's Logotype](https://dribbble.com/shots/)
+
++ [Finance - Wall Street Journal](https://dribbble.com/shots/)
+
++ [Weather](https://dribbble.com/shots/)
+
++ [Studying Abroad](https://dribbble.com/shots/)
+
++ [Shape Studies: 056](https://dribbble.com/shots/)
+
