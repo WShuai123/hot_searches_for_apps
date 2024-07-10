@@ -101,3 +101,25 @@
 
 + [Pandas在生物信息学中的应用详解](https://blog.csdn.net/eclipsercp/article/details/140309065)
 
++ [【人工智能】Transformers之Pipeline（概述）：30w+大模型极简应用](https://blog.csdn.net/weixin_48007632/article/details/140319929)
+
++ [探展2024世界人工智能大会之合合信息扫描黑科技～](https://blog.csdn.net/weixin_42250835/article/details/140281879)
+
++ [【AI 大模型】函数调用 Function Calling ① ( 人机交互接口 与 应用程序编程接口 | 语言界面接口 | AI 大模型缺陷与补救措施 | 函数调用为大模型赋能 真逻辑 )](https://blog.csdn.net/han1202012/article/details/140285843)
+
++ [位运算在数据库中的运用实践-以MySQL和PG为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/140306538)
+
++ [ENSP实现防火墙区域策略与用户管理](https://blog.csdn.net/qq_69294474/article/details/140332676)
+
++ [（19）夹钳(用于送货)](https://blog.csdn.net/qq_20016593/article/details/140094407)
+
++ [SpringMVC源码解析(一)：web容器启动流程](https://blog.csdn.net/qq_35512802/article/details/134139936)
+
++ [Elasticsearch 缓存策略详解：优化你的搜索体验](https://blog.csdn.net/benshu_001/article/details/140309663)
+
++ [《mysql篇》--索引事务](https://blog.csdn.net/hyldzbg/article/details/140190203)
+
++ [项目推荐—文本标注 poplar-annotation用法及相关问题解决](https://blog.csdn.net/weixin_56048772/article/details/140276745)
+
++ [[Spring] SpringBoot基本配置与快速上手](https://blog.csdn.net/2301_80050796/article/details/140278757)
+
