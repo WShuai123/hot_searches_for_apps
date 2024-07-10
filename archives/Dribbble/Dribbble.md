@@ -221,3 +221,23 @@
 
 + [Slow but sure](https://dribbble.com/shots/)
 
++ [Ticket Service](https://dribbble.com/shots/)
+
++ [neg fox revamped](https://dribbble.com/shots/)
+
++ [Lattice - HR Management Landing Page](https://dribbble.com/shots/)
+
++ [Vimeo Rebrand Concept](https://dribbble.com/shots/)
+
++ [Most – watch face](https://dribbble.com/shots/)
+
++ [Crypto Exchange Marketplace](https://dribbble.com/shots/)
+
++ [FFTC Brand Guidelines](https://dribbble.com/shots/)
+
++ [Online Bank — Mobile App UI Design](https://dribbble.com/shots/)
+
++ [Landing Page Design Exploration - Home Finder](https://dribbble.com/shots/)
+
++ [Lamb Logo](https://dribbble.com/shots/)
+

@@ -57,3 +57,5 @@
 
 + [五菱星光 S 内饰细节公布：15.6 英寸中控屏，主副驾电动调节、加热、通风](https://m.ithome.com/html/780807.htm)
 
++ [超 238 万分，小米 Redmi K70 至尊版手机号称综合性能跑分安卓第一](https://m.ithome.com/html/780885.htm)
+
