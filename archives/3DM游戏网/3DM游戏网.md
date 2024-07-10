@@ -259,3 +259,7 @@
 
 + [CDPR危？ZZZQ女拳加盟 担任高级编剧](https://www.3dmgame.com/news/202407/3899294.html)
 
++ [模拟游戏《拉近距离》公布 8月2日发售](https://www.3dmgame.com/news/202407/3899299.html)
+
++ [《NBA 2K25》9月6日发售 杰森·塔图姆作为封面人物](https://www.3dmgame.com/news/202407/3899298.html)
+
