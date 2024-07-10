@@ -139,3 +139,7 @@
 
 + [微服务 | Springboot整合Seata+Nacos实现分布式事务](https://blog.csdn.net/m0_60500421/article/details/140269549)
 
++ [【MySQL】MySQL连接池原理与简易网站数据流动是如何进行](https://blog.csdn.net/fight_p/article/details/139605694)
+
++ [哈喽GPT-4o，程序员如何通过GPT-4o提高工作效率](https://blog.csdn.net/guorui_java/article/details/140257889)
+

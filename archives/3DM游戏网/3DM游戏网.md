@@ -115,3 +115,13 @@
 
 + [布隆确定加入拳头2v2格斗游戏《2XKO》](https://www.3dmgame.com/news/202407/3899225.html)
 
++ [《地狱之刃2》游戏发售后销量惨淡 叫好不叫座？](https://www.3dmgame.com/news/202407/3899230.html)
+
++ [救护动作游戏《新港救援队》面向PS5/PS4/PC公布](https://www.3dmgame.com/news/202407/3899229.html)
+
++ [XGP基础档将被XGP标准版取代 不包括首日游戏](https://www.3dmgame.com/news/202407/3899228.html)
+
++ [《战锤40K：星际战士2》已开发完毕 开始送厂压盘](https://www.3dmgame.com/news/202407/3899227.html)
+
++ [《自杀小队：消灭正义联盟》第二季推迟至7/25上线](https://www.3dmgame.com/news/202407/3899226.html)
+
