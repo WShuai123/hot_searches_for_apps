@@ -159,3 +159,9 @@
 
 + [Pandas在生物信息学中的应用详解](https://blog.csdn.net/eclipsercp/article/details/140309065)
 
++ [案例分享：Qt modbusTcp调试工具(读写Byte、Int、DInt、Real、DReal)（当前v1.0.0）](https://blog.csdn.net/qq21497936/article/details/140313789)
+
++ [hdfs大规模数据存储底层原理详解（第31天）](https://blog.csdn.net/syhiiu/article/details/140278019)
+
++ [【uni-app+Vue3】 API请求封装：让接口调用更便捷](https://blog.csdn.net/2301_78542842/article/details/140261946)
+

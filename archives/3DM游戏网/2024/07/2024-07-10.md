@@ -197,3 +197,5 @@
 
 + [《宝可梦睡眠》首年收入达1亿美元 下载量超980万次](https://www.3dmgame.com/news/202407/3899262.html)
 
++ [《Tactics Greed》登陆Steam 卡牌构建动作RTS](https://www.3dmgame.com/news/202407/3899268.html)
+
