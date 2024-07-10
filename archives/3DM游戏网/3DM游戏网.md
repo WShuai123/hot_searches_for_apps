@@ -103,3 +103,13 @@
 
 + [电影《传说》今天上映：AI复原27岁成龙 评论两极分化](https://www.3dmgame.com/news/202407/3899303.html)
 
++ [科幻建造生存游戏《Planetaries》8月开启抢鲜体验](https://www.3dmgame.com/news/202407/3899308.html)
+
++ [《笑脸男》可能由《寂静岭2重制版》开发商制作](https://www.3dmgame.com/news/202407/3899307.html)
+
++ [《拳击俱乐部2》铁拳DLC确定7月22日上市](https://www.3dmgame.com/news/202407/3899306.html)
+
++ [《忍者神龟：斯普林特的命运》支持4人本地合作模式](https://www.3dmgame.com/news/202407/3899305.html)
+
++ [罪恶工具开发商3D新作《双截龙：复兴》即将登场](https://www.3dmgame.com/news/202407/3899304.html)
+
