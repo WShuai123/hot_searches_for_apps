@@ -61,3 +61,5 @@
 
 + [RADIUS身份验证协议惊现三十年的漏洞，CERT呼吁紧急关注](https://www.freebuf.com/news/405650.html)
 
++ [数据保护与企业人员安全风险治理 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/articles/neopoints/405601.html)
+

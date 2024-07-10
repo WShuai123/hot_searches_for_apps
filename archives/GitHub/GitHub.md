@@ -31,3 +31,15 @@
 
 + [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
++ [huggingface / transformers](https://github.com/huggingface/transformers)
+
++ [microsoft / pyright](https://github.com/microsoft/pyright)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [helm / helm](https://github.com/helm/helm)
+
++ [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
+
++ [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert)
+
