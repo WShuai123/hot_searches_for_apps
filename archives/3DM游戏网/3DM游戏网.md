@@ -251,3 +251,11 @@
 
 + [NS时尚换装＆社交游戏《时尚造梦》免费更新第八弹将于7月11日上线](https://www.3dmgame.com/news/202407/3899290.html)
 
++ [《七日世界》Steam首发褒贬不一 网易回应收集个人数据担忧](https://www.3dmgame.com/news/202407/3899296.html)
+
++ [恐怖游戏？任天堂公开新游宣传片：笑み男](https://www.3dmgame.com/news/202407/3899297.html)
+
++ [传《使命召唤20：现代战争3》即将登陆Xbox Game Pass](https://www.3dmgame.com/news/202407/3899295.html)
+
++ [CDPR危？ZZZQ女拳加盟 担任高级编剧](https://www.3dmgame.com/news/202407/3899294.html)
+
