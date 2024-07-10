@@ -165,3 +165,15 @@
 
 + [【uni-app+Vue3】 API请求封装：让接口调用更便捷](https://blog.csdn.net/2301_78542842/article/details/140261946)
 
++ [【机器学习】主成分分析（PCA）：数据降维的艺术](https://blog.csdn.net/qq_44214428/article/details/140234554)
+
++ [《基于 LatentFactor + Redis + ES 实现动态药房分配方法》](https://blog.csdn.net/syb513812/article/details/140319892)
+
++ [揭秘IP：从虚拟地址到现实世界的精准定位](https://blog.csdn.net/qq_51447436/article/details/140247657)
+
++ [什么是RPC？有哪些RPC框架？](https://blog.csdn.net/yuiezt/article/details/140190124)
+
++ [LLAma-Factory框架详细使用方法-0.8.3版本](https://blog.csdn.net/2301_76361504/article/details/140222953)
+
++ [前端使用Vue和Element实现可拖动弹框效果，且不影响底层元素操作（可拖拽的视频实时播放弹框，底层元素可以正常操作）](https://blog.csdn.net/weixin_65793170/article/details/140274477)
+

@@ -43,3 +43,7 @@
 
 + [小米公司：未收到任何环境电器相关诉讼](https://m.ithome.com/html/780789.htm)
 
++ [小鹏 P7+ 汽车官图首次亮相：尺寸超 5 米，号称“开启智驾新时代”](https://m.ithome.com/html/780777.htm)
+
++ [英伟达海外送《黑神话：悟空》：需购买 RTX 4070 及以上显卡 / 对应配置电脑](https://m.ithome.com/html/780814.htm)
+

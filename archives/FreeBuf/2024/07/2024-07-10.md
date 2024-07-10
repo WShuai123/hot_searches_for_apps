@@ -53,3 +53,5 @@
 
 + [攻防演练工具 | Oracle数据库getshell的另一种思路](https://www.freebuf.com/defense/405383.html)
 
++ [如何使用Vger对已经过身份验证的Jupyter实例进行安全检测](https://www.freebuf.com/sectool/405523.html)
+

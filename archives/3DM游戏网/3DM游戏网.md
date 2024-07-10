@@ -199,3 +199,7 @@
 
 + [《Tactics Greed》登陆Steam 卡牌构建动作RTS](https://www.3dmgame.com/news/202407/3899268.html)
 
++ [万智牌《斑隆洛》系列卡组动画预告 7月26日发售](https://www.3dmgame.com/news/202407/3899248.html)
+
++ [国产游戏《女巫之路》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3899269.html)
+

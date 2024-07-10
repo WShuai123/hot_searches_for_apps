@@ -177,3 +177,15 @@
 
 + [Lyft](https://dribbble.com/shots/)
 
++ [Clean Break | Mobile App Design](https://dribbble.com/shots/)
+
++ [Bluepen : Web Hosting - Visual Identity](https://dribbble.com/shots/)
+
++ [Brushstroke - Art Portfolio Header](https://dribbble.com/shots/)
+
++ [Zendenta - List of Doctor Staff - A SaaS for Dental Clinics](https://dribbble.com/shots/)
+
++ [Poly AI Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Night Sun](https://dribbble.com/shots/)
+
