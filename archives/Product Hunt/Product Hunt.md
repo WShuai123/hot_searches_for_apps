@@ -167,3 +167,5 @@
 
 + [Raijin.ai](https://www.producthunt.com/posts/raijin-ai)
 
++ [FranzAI](https://www.producthunt.com/posts/franzai)
+

@@ -185,3 +185,5 @@
 
 + [【探索Linux】P.38（传输层 —— TCP协议通信连接管理机制简介 | TCP连接状态转换）](https://blog.csdn.net/m0_75215937/article/details/139942919)
 
++ [消息称台积电下周开始试产 2nm 芯片，有望率先用于苹果 iPhone 17](https://blog.csdn.net/qq_44866828/article/details/140318897)
+
