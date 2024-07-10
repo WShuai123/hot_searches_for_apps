@@ -51,3 +51,5 @@
 
 + [微软或将为子公司违规行为支付85亿美元罚款](https://www.freebuf.com/news/405594.html)
 
++ [攻防演练工具 | Oracle数据库getshell的另一种思路](https://www.freebuf.com/defense/405383.html)
+

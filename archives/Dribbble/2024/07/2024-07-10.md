@@ -167,3 +167,11 @@
 
 + [World Props](https://dribbble.com/shots/)
 
++ [Landing Page for AI SaaS Marketing Tool - Animation ✨](https://dribbble.com/shots/)
+
++ [Electric - Renewable Energy Website](https://dribbble.com/shots/)
+
++ [Noah - Crypto & Web3 Mobile App](https://dribbble.com/shots/)
+
++ [Residents of the coral reef](https://dribbble.com/shots/)
+
