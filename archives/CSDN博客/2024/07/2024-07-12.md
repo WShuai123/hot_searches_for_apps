@@ -107,3 +107,13 @@
 
 + [软件供应链安全：如何防范潜在的攻击？](https://blog.csdn.net/weixin_55163056/article/details/140351805)
 
++ [【机器学习】朴素贝叶斯算法详解与实战扩展](https://blog.csdn.net/2301_79181030/article/details/140348443)
+
++ [Spring Boot 项目中如何实现服务发现与负载均衡？请结合Eureka 或 Consul 以及 Ribbon 或 Spring Cloud LoadBalancer进行说明？](https://blog.csdn.net/liangzai215/article/details/140309408)
+
++ [一文1500字从0到1搭建 Jenkins 自动化测试平台](https://blog.csdn.net/lzz718719/article/details/140322432)
+
++ [各种音频处理器](https://blog.csdn.net/2402_85006673/article/details/140328003)
+
++ [springboot中通过jwt令牌校验以及前端token请求头进行登录拦截实战](https://blog.csdn.net/weixin_73355042/article/details/140323370)
+
