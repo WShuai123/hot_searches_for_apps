@@ -101,3 +101,43 @@
 
 + [特别好评类吸血鬼幸存者游戏《披萨英雄》即将由免费转为付费游戏](https://www.3dmgame.com/news/202407/3899266.html)
 
++ [科隆亚洲展10月在新加坡举行 Capcom参加](https://www.3dmgame.com/news/202407/3899395.html)
+
++ [谁抢谁饭碗 网友吵翻！无人驾驶/人类网约车成本对比](https://www.3dmgame.com/news/202407/3899394.html)
+
++ [AI热潮不断推高市值 台积电进入万亿美元俱乐部](https://www.3dmgame.com/news/202407/3899396.html)
+
++ [灵异题材乙女游戏《9 R.I.P.》中文化！繁中版预定于2024年12月12日发售](https://www.3dmgame.com/news/202407/3899392.html)
+
++ [索尼三星夏普飞利浦电视在中国市场衰败 快没人买了](https://www.3dmgame.com/news/202407/3899393.html)
+
++ [新增桌面游戏！“好游善行”游戏征集启动！](https://www.3dmgame.com/news/202407/3899390.html)
+
++ [侧重角色内心描写的冒险剧《水烟水雾》Steam®／Nintendo Switch™版今日发售！](https://www.3dmgame.com/news/202407/3899391.html)
+
++ [《东方 New World》扩充内容《梦幻轮回的变奏曲》今日起正式上线！](https://www.3dmgame.com/news/202407/3899389.html)
+
++ [《千变的迷宫 风来的希炼6 蛇蜷岛探险谭》第二波免费更新档开放下载！](https://www.3dmgame.com/news/202407/3899388.html)
+
++ [知错才改 索尼互娱宣布启动《FF7：重生》印刷错误光盘替换](https://www.3dmgame.com/news/202407/3899387.html)
+
++ [包含裸露！《龙腾世纪：影障守护者》将有系列最火辣的浪漫场景](https://www.3dmgame.com/news/202407/3899397.html)
+
++ [三星发布Galaxy Z Flip 6/Fold 6折叠屏手机 国行8999元起](https://www.3dmgame.com/news/202407/3899398.html)
+
++ [Nintendo Switch™版《皇牌空战7 未知天际 豪华版》今日上市！同步公开宣传视频](https://www.3dmgame.com/news/202407/3899386.html)
+
++ [《贪婪之秋2》EA版9月24日发售 新预告发布](https://www.3dmgame.com/news/202407/3899403.html)
+
++ [《全面战争：法老》免费扩展包《DYNASTIES》7月25日上线 新增地图等丰富内容](https://www.3dmgame.com/news/202407/3899385.html)
+
++ [中国工程院院士：国内百/千兆宽带、5G上行都太慢](https://www.3dmgame.com/news/202407/3899404.html)
+
++ [《忍者神龟：斯普林特的命运》官方宣传片 10月18日发售](https://www.3dmgame.com/news/202407/3899402.html)
+
++ [Epic喜加一：《软盘骑士》免费领取](https://www.3dmgame.com/news/202407/3899401.html)
+
++ [《过山车之星2》公布 今秋登陆PC和主机](https://www.3dmgame.com/news/202407/3899400.html)
+
++ [Fami通新一周销量榜 《路易吉洋馆2 HD》二连冠](https://www.3dmgame.com/news/202407/3899399.html)
+
