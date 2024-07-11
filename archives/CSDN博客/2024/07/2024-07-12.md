@@ -119,3 +119,7 @@
 
 + [《mysql篇》--索引事务](https://blog.csdn.net/hyldzbg/article/details/140190203)
 
++ [sqlmap确定目标/实操](https://blog.csdn.net/ting_liang/article/details/140347352)
+
++ [MQTT是什么，物联网](https://blog.csdn.net/weixin_45024453/article/details/140316603)
+

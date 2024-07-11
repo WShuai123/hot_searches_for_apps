@@ -105,3 +105,7 @@
 
 + [Turf](https://www.producthunt.com/posts/turf-5)
 
++ [Market Genius](https://www.producthunt.com/posts/market-genius)
+
++ [Leo](https://www.producthunt.com/posts/leo-2b243728-08b9-41f9-840c-12191363b4af)
+
