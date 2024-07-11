@@ -155,3 +155,7 @@
 
 + [Daminik](https://www.producthunt.com/posts/daminik)
 
++ [StudioGigs.co](https://www.producthunt.com/posts/studiogigs-co)
+
++ [FluentPal](https://www.producthunt.com/posts/fluentpal)
+

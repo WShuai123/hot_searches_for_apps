@@ -59,3 +59,5 @@
 
 + [小米 Redmi K70 至尊版手机三款配色公布：冰璃、墨羽、晴雪](https://m.ithome.com/html/781097.htm)
 
++ [小米 Redmi K70 至尊版手机正面公布：超窄视觉四等边、下边框约 1.9mm](https://m.ithome.com/html/781203.htm)
+

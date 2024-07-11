@@ -209,3 +209,27 @@
 
 + [Firefly badge](https://dribbble.com/shots/)
 
++ [RevdUp Branding and Product Icon Design](https://dribbble.com/shots/)
+
++ [Gradients Logo Designs Part 2](https://dribbble.com/shots/)
+
++ [Cyberday Logo Design](https://dribbble.com/shots/)
+
++ [Alien's Sweet Summer Joy](https://dribbble.com/shots/)
+
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [Dancing Badger Logo](https://dribbble.com/shots/)
+
++ [CreditProtect logo concept (unused)](https://dribbble.com/shots/)
+
++ [GoTofu](https://dribbble.com/shots/)
+
++ [Alarm Lite](https://dribbble.com/shots/)
+
++ [Versus Tennis Branding](https://dribbble.com/shots/)
+
++ [Bird Bound Business Card Mockup](https://dribbble.com/shots/)
+
++ [Omnitech - Brand Design for Medical Web App Platform](https://dribbble.com/shots/)
+
