@@ -49,3 +49,9 @@
 
 + [苹果教育商店开启 2024 返校季活动：入手指定款 Mac / iPad 可选 AirPod 或 Apple Pencil](https://m.ithome.com/html/781037.htm)
 
++ [不只有松山湖，华为全球最大研发中心“练秋湖”在上海全部建成](https://m.ithome.com/html/781086.htm)
+
++ [多退少不补：三星 Galaxy Z Fold6 / Watch7 / Buds 3 等新品京东开售](https://m.ithome.com/html/780964.htm)
+
++ [三星 Galaxy Ring 智能戒指发布：提供强大健康监测功能，售价 3099 元](https://m.ithome.com/html/780949.htm)
+
