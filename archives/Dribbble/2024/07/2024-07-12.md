@@ -133,3 +133,9 @@
 
 + [Viking game icons](https://dribbble.com/shots/)
 
++ [Sprezza Package Design Animation W/ Fede Cook](https://dribbble.com/shots/)
+
++ [Label Design for Roys Natural Skincare](https://dribbble.com/shots/)
+
++ [Marks & Symbols](https://dribbble.com/shots/)
+
