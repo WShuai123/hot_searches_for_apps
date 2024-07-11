@@ -41,3 +41,7 @@
 
 + [Redmi K70 开放小米澎湃 OS 正式版内测尝鲜，获推 1.0.17.0 更新](https://m.ithome.com/html/780849.htm)
 
++ [小米 Redmi K70 至尊版手机「冰璃」官图公布：四曲等深玻璃后盖](https://m.ithome.com/html/781005.htm)
+
++ [“宝宝巴士”极氪 MIX 纯电 MPV 白色版谍照曝光，配备半隐藏式门把手](https://m.ithome.com/html/780932.htm)
+
