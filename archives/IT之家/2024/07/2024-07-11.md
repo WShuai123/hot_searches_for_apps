@@ -27,3 +27,5 @@
 
 + [上汽大众又一车型加入“价格战”：帕萨特 2024 出众款限时 15.99 万元起](https://m.ithome.com/html/780888.htm)
 
++ [国行 14999 元起，三星 Galaxy Z Fold6 折叠屏手机发布：更薄更耐用，骁龙 8 Gen 3 加持](https://m.ithome.com/html/780946.htm)
+

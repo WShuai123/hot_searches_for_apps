@@ -131,3 +131,9 @@
 
 + [探秘大语言模型：技术前沿与应用实践](https://blog.csdn.net/lenovo_E520/article/details/140274427)
 
++ [Spring Boot 项目中如何实现服务发现与负载均衡？请结合Eureka 或 Consul 以及 Ribbon 或 Spring Cloud LoadBalancer进行说明？](https://blog.csdn.net/liangzai215/article/details/140309408)
+
++ [新时代【机器学习】与【Pycharm】：【随机数据生成】与智能【股票市场分析】](https://blog.csdn.net/2303_77720864/article/details/140267188)
+
++ [机器人三定律及伦理分析](https://blog.csdn.net/sixpp/article/details/140311164)
+
