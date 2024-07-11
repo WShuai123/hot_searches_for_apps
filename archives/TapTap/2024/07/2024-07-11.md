@@ -29,3 +29,5 @@
 
 + [智游斗地主](https://www.taptap.cn/app/679025)
 
++ [战双帕弥什](https://www.taptap.cn/app/130651)
+
