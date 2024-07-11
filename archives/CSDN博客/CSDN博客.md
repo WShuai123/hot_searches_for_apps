@@ -143,3 +143,13 @@
 
 + [智能微服务调度：Eureka中的区域感知性配置指南](https://blog.csdn.net/2401_85439108/article/details/140302504)
 
++ [【DevOps】在云原生时代的角色与重要性探索](https://blog.csdn.net/weixin_53269650/article/details/140278338)
+
++ [2023年辽宁省数学建模大赛A题思路代码](https://blog.csdn.net/qq_52590045/article/details/140288650)
+
++ [1.DMZ区内的服务器，办公区仅能在办公时间内(9:00-18:00)可以访问，生产区的设备全天可以访问2.生产区不允许访问互联网，办公区和游客区允许访问互联网3.办公区设备10.0.2.10不允](https://blog.csdn.net/myrouya/article/details/140309961)
+
++ [linux_进程概念——理解冯诺依曼体系结构](https://blog.csdn.net/strive_mianyang/article/details/140332533)
+
++ [Spark SQL中的正则表达式应用](https://blog.csdn.net/u012955829/article/details/140308250)
+

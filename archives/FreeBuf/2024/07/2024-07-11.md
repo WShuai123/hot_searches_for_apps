@@ -47,3 +47,5 @@
 
 + [渗透测试 | SQL注入中的WAF绕过](https://www.freebuf.com/articles/web/404845.html)
 
++ [替代传统物理密钥，谷歌高级保护计划迎来重大更新！](https://www.freebuf.com/news/405698.html)
+
