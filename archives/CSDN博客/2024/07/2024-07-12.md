@@ -101,3 +101,9 @@
 
 + [对controller层进行深入学习](https://blog.csdn.net/m0_62600503/article/details/140333767)
 
++ [【机器学习】独立成分分析（ICA）：解锁信号的隐秘面纱](https://blog.csdn.net/qq_44214428/article/details/140234750)
+
++ [FPGA bit 文件直接烧录flash](https://blog.csdn.net/old_stone/article/details/140298470)
+
++ [软件供应链安全：如何防范潜在的攻击？](https://blog.csdn.net/weixin_55163056/article/details/140351805)
+
