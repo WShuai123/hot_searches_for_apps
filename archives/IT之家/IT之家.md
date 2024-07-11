@@ -61,3 +61,5 @@
 
 + [小米 Redmi K70 至尊版手机正面公布：超窄视觉四等边、下边框约 1.9mm](https://m.ithome.com/html/781203.htm)
 
++ [深中通道暂时关闭海底隧道投光灯：部分驾驶员特意降低车速缓行观看和拍照](https://m.ithome.com/html/781156.htm)
+
