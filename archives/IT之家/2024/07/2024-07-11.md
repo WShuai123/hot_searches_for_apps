@@ -69,3 +69,5 @@
 
 + [Momenta 创始人曹旭东：中国范围内，端到端高阶智驾第一梯队和最在意的对手是华为](https://m.ithome.com/html/780956.htm)
 
++ [限时 2899 元起，iQOO Neo9S Pro + 手机发布：搭载自研电竞芯片 Q1、第三代骁龙 8](https://m.ithome.com/html/781214.htm)
+

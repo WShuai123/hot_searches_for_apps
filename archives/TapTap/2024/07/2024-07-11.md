@@ -31,3 +31,5 @@
 
 + [战双帕弥什](https://www.taptap.cn/app/130651)
 
++ [我的勇者](https://www.taptap.cn/app/77796)
+

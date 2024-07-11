@@ -207,3 +207,11 @@
 
 + [对controller层进行深入学习](https://blog.csdn.net/m0_62600503/article/details/140333767)
 
++ [自动驾驶技术的原理](https://blog.csdn.net/zhumin726/article/details/140286771)
+
++ [基于YOLOv8深度学习的CT扫描图像肾结石智能检测系统【python源码+Pyqt5界面+数据集+训练代码】深度学习实战、目标检测](https://blog.csdn.net/qq_42589613/article/details/140312309)
+
++ [SpringBoot项目架构实战之“网关zuul搭建“](https://blog.csdn.net/qq_19952029/article/details/124285479)
+
++ [【C++深度探索】全面解析多态性机制(一)](https://blog.csdn.net/Renswc/article/details/140295196)
+
