@@ -45,3 +45,5 @@
 
 + [“宝宝巴士”极氪 MIX 纯电 MPV 白色版谍照曝光，配备半隐藏式门把手](https://m.ithome.com/html/780932.htm)
 
++ [雷军重回手机发布会，小米 MIX Fold 4 和 MIX Flip 折叠屏新品本月见](https://m.ithome.com/html/781019.htm)
+

@@ -53,3 +53,5 @@
 
 + [记一次Chatgpt挖掘任意用户登录漏洞](https://www.freebuf.com/articles/web/404896.html)
 
++ [官方强烈建议升级，GitLab又曝严重的账户接管漏洞](https://www.freebuf.com/news/405728.html)
+
