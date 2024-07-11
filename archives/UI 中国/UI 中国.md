@@ -13,3 +13,5 @@
 
 + [AI动漫视频工具1.0—探索全新内容创作设计理念与实现策略](https://www.ui.cn/detail/665445.html)
 
++ [万字长文 - 新手设计师的成长之路！](https://www.ui.cn/detail/665918.html)
+

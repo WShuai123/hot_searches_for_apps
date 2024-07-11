@@ -153,3 +153,7 @@
 
 + [Spark SQL中的正则表达式应用](https://blog.csdn.net/u012955829/article/details/140308250)
 
++ [AIGC时代程序员的跃迁——编程高手的密码武器](https://blog.csdn.net/herosunly/article/details/140267103)
+
++ [2024年7月1日，公布的OpenSSH的漏洞【CVE-2024-6387】](https://blog.csdn.net/sxzlc/article/details/140308379)
+

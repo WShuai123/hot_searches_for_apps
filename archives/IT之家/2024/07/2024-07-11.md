@@ -37,3 +37,7 @@
 
 + [三星 Galaxy Watch7 / Ultra 智能手表发布：3nm 处理器、升级 BioActive 生物传感器，国行 1999 元起](https://m.ithome.com/html/780950.htm)
 
++ [阿里巴巴再次减持网易云音乐，持股比例从 7.0% 降至 5.19%](https://m.ithome.com/html/780922.htm)
+
++ [Redmi K70 开放小米澎湃 OS 正式版内测尝鲜，获推 1.0.17.0 更新](https://m.ithome.com/html/780849.htm)
+

@@ -77,3 +77,7 @@
 
 + [THE LOST](http://www.acfun.cn/v/ac45195932)
 
++ [【歌回录像】欸嘿嘿，欸嘿嘿。。。2024-07-03](http://www.acfun.cn/v/ac45189654)
+
++ [【游戏杂谈】索尼克冷门游戏——索尼克拳击](http://www.acfun.cn/v/ac45189268)
+
