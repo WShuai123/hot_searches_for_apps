@@ -45,3 +45,5 @@
 
 + [警惕：与ChatGPT共享业务数据可能十分危险](https://www.freebuf.com/news/405377.html)
 
++ [渗透测试 | SQL注入中的WAF绕过](https://www.freebuf.com/articles/web/404845.html)
+

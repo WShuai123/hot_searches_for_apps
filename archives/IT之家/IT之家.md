@@ -29,3 +29,9 @@
 
 + [国行 14999 元起，三星 Galaxy Z Fold6 折叠屏手机发布：更薄更耐用，骁龙 8 Gen 3 加持](https://m.ithome.com/html/780946.htm)
 
++ [格力再谈米家风扇侵权案件：小米控股公司持有侵权公司股份](https://m.ithome.com/html/780895.htm)
+
++ [小牛 NX Play 电摩发布：2600W 峰值功率、72V 35Ah 电池，6299 元起](https://m.ithome.com/html/780937.htm)
+
++ [OPPO、一加用户福利：ColorOS 15 被曝将支持苹果 iOS 实况照片等功能](https://m.ithome.com/html/780835.htm)
+

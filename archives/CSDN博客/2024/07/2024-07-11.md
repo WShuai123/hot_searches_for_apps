@@ -137,3 +137,9 @@
 
 + [机器人三定律及伦理分析](https://blog.csdn.net/sixpp/article/details/140311164)
 
++ [利用【Python】【线性规划】优化工厂生产：实现智能资源配置与利润最大化的现代解决方案](https://blog.csdn.net/2303_77720864/article/details/140337134)
+
++ [【微服务】第31节：Redis的哨兵模式](https://blog.csdn.net/m0_46013789/article/details/140321454)
+
++ [智能微服务调度：Eureka中的区域感知性配置指南](https://blog.csdn.net/2401_85439108/article/details/140302504)
+
