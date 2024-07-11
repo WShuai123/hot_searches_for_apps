@@ -31,3 +31,21 @@
 
 + [techschool / simplebank](https://github.com/techschool/simplebank)
 
++ [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube)
+
++ [swiftlang / swift](https://github.com/swiftlang/swift)
+
++ [RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+
++ [Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
++ [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
+
++ [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+

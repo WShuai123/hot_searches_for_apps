@@ -57,3 +57,5 @@
 
 + [中国电信直连卫星业务免费体验 1 整年：华为、荣耀、小米、OPPO、vivo 旗舰手机用户均可订购](https://m.ithome.com/html/781105.htm)
 
++ [小米 Redmi K70 至尊版手机三款配色公布：冰璃、墨羽、晴雪](https://m.ithome.com/html/781097.htm)
+
