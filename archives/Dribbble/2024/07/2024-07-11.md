@@ -167,3 +167,27 @@
 
 + [Believe](https://dribbble.com/shots/)
 
++ [Dauernd - Creative Design Agency Responsive Page Website](https://dribbble.com/shots/)
+
++ [Community Mobile App](https://dribbble.com/shots/)
+
++ [Cluster DeFi design](https://dribbble.com/shots/)
+
++ [Zendenta - Calendar Reservations for a SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Propwise: Property Management Web App - Calendar Page ????](https://dribbble.com/shots/)
+
++ [Bluepen : Web Hosting - Landing Page Website](https://dribbble.com/shots/)
+
++ [Camp Buddy - Child Monitoring Mobile App Landing Page ????](https://dribbble.com/shots/)
+
++ [InGuru](https://dribbble.com/shots/)
+
++ [Wish](https://dribbble.com/shots/)
+
++ [Pivien - Pricing Page](https://dribbble.com/shots/)
+
++ [Edulite - Design Exploration for Education Platform for Children](https://dribbble.com/shots/)
+
++ [City of Lights](https://dribbble.com/shots/)
+

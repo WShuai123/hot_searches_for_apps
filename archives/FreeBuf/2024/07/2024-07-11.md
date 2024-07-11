@@ -55,3 +55,5 @@
 
 + [官方强烈建议升级，GitLab又曝严重的账户接管漏洞](https://www.freebuf.com/news/405728.html)
 
++ [headerpwn：一款针对服务器响应与HTTP Header的模糊测试工具](https://www.freebuf.com/sectool/405532.html)
+
