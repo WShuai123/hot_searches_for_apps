@@ -47,3 +47,5 @@
 
 + [雷军重回手机发布会，小米 MIX Fold 4 和 MIX Flip 折叠屏新品本月见](https://m.ithome.com/html/781019.htm)
 
++ [苹果教育商店开启 2024 返校季活动：入手指定款 Mac / iPad 可选 AirPod 或 Apple Pencil](https://m.ithome.com/html/781037.htm)
+

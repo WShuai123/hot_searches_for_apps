@@ -169,3 +169,7 @@
 
 + [MapReduce底层原理详解：大案例解析（第32天）](https://blog.csdn.net/syhiiu/article/details/140337070)
 
++ [LLM代理应用实战：构建Plotly数据可视化代理](https://blog.csdn.net/m0_46510245/article/details/140345339)
+
++ [【VUE实战项目】使用typescript重构项目](https://blog.csdn.net/Joker_ZJN/article/details/140336697)
+

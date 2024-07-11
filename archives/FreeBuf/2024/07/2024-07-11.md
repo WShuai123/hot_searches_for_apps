@@ -57,3 +57,5 @@
 
 + [headerpwn：一款针对服务器响应与HTTP Header的模糊测试工具](https://www.freebuf.com/sectool/405532.html)
 
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+
