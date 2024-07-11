@@ -141,3 +141,13 @@
 
 + [Fami通新一周销量榜 《路易吉洋馆2 HD》二连冠](https://www.3dmgame.com/news/202407/3899399.html)
 
++ [真岛浩操刀角色设计《魔农传记》公开开场动画](https://www.3dmgame.com/news/202407/3899409.html)
+
++ [《租借女友》改编游戏宣布年内登陆PS和Switch](https://www.3dmgame.com/news/202407/3899408.html)
+
++ [挑战极限《任天堂世界锦标赛FC世界大会》玩法介绍视频](https://www.3dmgame.com/news/202407/3899407.html)
+
++ [开发商公布《美少女梦工厂2韶华再续》上市宣传片](https://www.3dmgame.com/news/202407/3899406.html)
+
++ [First 4 Figures将推出《动物森友会》狸克模型](https://www.3dmgame.com/news/202407/3899405.html)
+

@@ -27,3 +27,5 @@
 
 + [警惕 iPhone 被间谍软件控制，苹果向全球 98 国用户发出警告](https://m.ithome.com/html/781218.htm)
 
++ [发货帮回应 App 下架油罐车轨迹查询功能：货车定位功能正全线升级](https://m.ithome.com/html/781241.htm)
+
