@@ -169,3 +169,13 @@
 
 + [FPGA上板项目（一）——点灯熟悉完整开发流程、ILA在线调试](https://blog.csdn.net/weixin_45926435/article/details/140035427)
 
++ [生成式人工智能（AIGC）：开发者的得力助手还是职业威胁？](https://blog.csdn.net/qq_57761637/article/details/140371294)
+
++ [Redis 配置与优化](https://blog.csdn.net/zheshijiuyue/article/details/140329940)
+
++ [【RAG检索增强生成】RAG技术革新数据库：Vanna框架的高效SQL生成策略](https://blog.csdn.net/xiaobing259/article/details/140346512)
+
++ [一个vue页面复用方案](https://blog.csdn.net/m0_68271787/article/details/140368620)
+
++ [AIGC各个应用场景下的模型选择](https://blog.csdn.net/weixin_41704972/article/details/140362345)
+

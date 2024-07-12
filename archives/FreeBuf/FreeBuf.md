@@ -59,3 +59,5 @@
 
 + [谷歌发力争夺漏洞资源，漏洞赏金再提高5倍](https://www.freebuf.com/news/405804.html)
 
++ [LDAPWordlistHarvester：基于LDAP数据的字典生成工具](https://www.freebuf.com/sectool/405543.html)
+

@@ -41,3 +41,7 @@
 
 + [红旗 HS7 PHEV 开启预售：定位超级混动智慧旗舰 SUV，先享价 25.98 万元起](https://m.ithome.com/html/781248.htm)
 
++ [比亚迪宋 L DM-i 外观细节公布：搭载龙魂悦目大灯、流光瑞结尾灯](https://m.ithome.com/html/781328.htm)
+
++ [红旗 HS7 PHEV 开启预售：定位超级混动智慧旗舰 SUV，前 2777 名订购先享价 25.98 万元起](https://m.ithome.com/html/781248.htm)
+

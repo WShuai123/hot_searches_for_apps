@@ -233,3 +233,17 @@
 
 + [《鬼灭之刃 争当最强队士！》全新预告 7月17日上线Steam平台](https://www.3dmgame.com/news/202407/3899435.html)
 
++ [奇幻RPG游戏《辛特堡传说》参展BW 2024 公布全新宣传预告](https://www.3dmgame.com/news/202407/3899455.html)
+
++ [《重装前哨》重大更新预告 将于本月底更新](https://www.3dmgame.com/news/202407/3899456.html)
+
++ [《三国志8重制版》BW新预告 10月24日正式发售](https://www.3dmgame.com/news/202407/3899457.html)
+
++ [《Ai Vpet / 守护与智友》：创意工坊开放，与AI伙伴共同成长](https://www.3dmgame.com/news/202407/3899452.html)
+
++ [《暗喻幻想：Refantazio》公布故事、系统和团队中文宣传片](https://www.3dmgame.com/news/202407/3899453.html)
+
++ [《影之刃零》DEMO实机录屏集锦 上海BW试玩开启！](https://www.3dmgame.com/news/202407/3899454.html)
+
++ [《真三国无双：起源》中文配音预告 2025年发售](https://www.3dmgame.com/news/202407/3899451.html)
+
