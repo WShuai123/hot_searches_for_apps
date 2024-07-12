@@ -207,3 +207,13 @@
 
 + [40个高阶ChatGPT学术论文指令集（附GPT使用链接）](https://blog.csdn.net/weixin_43101349/article/details/140360344)
 
++ [引领未来：在【PyCharm】中利用【机器学习】与【支持向量机】实现高效【图像识别】](https://blog.csdn.net/2303_77720864/article/details/140380279)
+
++ [笔记：在Entity Framework Core中使用乐观并发控制来处理数据更新的冲突](https://blog.csdn.net/u010975589/article/details/140357905)
+
++ [Lookback Lens：用注意力图检测和减轻llm的幻觉](https://blog.csdn.net/m0_46510245/article/details/140374176)
+
++ [亚马逊云科技 Amazon Bedrock 构建 AI 应用体验](https://blog.csdn.net/qq_38951259/article/details/140173143)
+
++ [【人工智能】-- 受限玻尔兹曼机](https://blog.csdn.net/2302_76516899/article/details/140363690)
+

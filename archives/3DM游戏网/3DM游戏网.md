@@ -299,3 +299,9 @@
 
 + [罗马尼亚一女孩被熊扔下120米悬崖：气绝身亡](https://www.3dmgame.com/news/202407/3899480.html)
 
++ [特斯拉德国工厂丢了65000个马克杯 工厂经理说受够了](https://www.3dmgame.com/news/202407/3899486.html)
+
++ [电影《流浪地球3》2025年开拍 2027年上映](https://www.3dmgame.com/news/202407/3899484.html)
+
++ [在被指控抄袭后 《第一后裔》承诺将更改游戏内图标](https://www.3dmgame.com/news/202407/3899485.html)
+

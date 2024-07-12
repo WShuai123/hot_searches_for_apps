@@ -55,3 +55,7 @@
 
 + [小米汽车获独立生产资质：不再“借用”北汽，SU7 尾标去掉“北京”](https://m.ithome.com/html/781444.htm)
 
++ [荣耀 Magic V3 / Vs3 折叠屏手机发布：9.2mm“内折轻薄新纪录”，8999/6999 元起](https://m.ithome.com/html/781406.htm)
+
++ [华为 Mate 60、X5 系列及 MatePad Pro 13.2 等机型开启鸿蒙 HarmonyOS NEXT Beta 第二期测试招募](https://m.ithome.com/html/781395.htm)
+
