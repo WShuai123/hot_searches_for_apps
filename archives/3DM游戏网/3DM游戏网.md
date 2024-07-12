@@ -169,3 +169,27 @@
 
 + [《Neon White》Xbox版已推出 完成全平台成就](https://www.3dmgame.com/news/202407/3899410.html)
 
++ [《闪客快跑3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3899425.html)
+
++ [《Apex英雄》新地图艺术泄露：霓虹灯下的夜景街区](https://www.3dmgame.com/news/202407/3899426.html)
+
++ [新版《超人》正式Logo公布 整整一年后上映](https://www.3dmgame.com/news/202407/3899427.html)
+
++ [快节奏动作射击游戏《愤怒的大脚》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202407/3899428.html)
+
++ [青桔推出《黑神话：悟空》联名车 属于天命人的单车](https://www.3dmgame.com/news/202407/3899429.html)
+
++ [Switch现已成为任天堂寿命最长的主机 超过了红白机](https://www.3dmgame.com/news/202407/3899430.html)
+
++ [《双截龙再临》全新预告和截图 画面精美人物细致！](https://www.3dmgame.com/news/202407/3899419.html)
+
++ [Splash Damage工作室发生裁员 正在开发《变形金刚》新作](https://www.3dmgame.com/news/202407/3899422.html)
+
++ [前《博德之门3》编剧谈“人熊战”创意：原本只是一句玩笑话](https://www.3dmgame.com/news/202407/3899420.html)
+
++ [经典恐怖电影《闪灵》女主角谢莉·杜瓦尔去世 享年75岁](https://www.3dmgame.com/news/202407/3899421.html)
+
++ [冰汽时代2《执政官101》第1集 9月20日发售](https://www.3dmgame.com/news/202407/3899423.html)
+
++ [《真人快打1》7月27日公布第二年更新内容 或联动终结者](https://www.3dmgame.com/news/202407/3899424.html)
+

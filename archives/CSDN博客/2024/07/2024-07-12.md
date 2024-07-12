@@ -133,3 +133,5 @@
 
 + [实现前端用户密码重置功能（有源码）](https://blog.csdn.net/qq_63170044/article/details/140359113)
 
++ [前端使用Vue和Element实现可拖动弹框效果，且不影响底层元素操作，Cesium作为底图（可拖拽的视频实时播放弹框，底层元素可以正常操作）](https://blog.csdn.net/weixin_65793170/article/details/140274477)
+
