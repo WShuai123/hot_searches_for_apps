@@ -247,3 +247,23 @@
 
 + [《真三国无双：起源》中文配音预告 2025年发售](https://www.3dmgame.com/news/202407/3899451.html)
 
++ [《原神》引燃PV——「以燔燎铸名」](https://www.3dmgame.com/news/202407/3899461.html)
+
++ [《索尼克×夏特 世代重启》参展BW 2024 公布制作人独家介绍！](https://www.3dmgame.com/news/202407/3899462.html)
+
++ [虚渊玄新作《锈兔异途（Rusty Rabbit）》登陆AnimeExpo2024 即将9月发售](https://www.3dmgame.com/news/202407/3899463.html)
+
++ [首发到手26.4元！单人剧本杀推凶游戏《子归》将于7月19日发售！](https://www.3dmgame.com/news/202407/3899464.html)
+
++ [《方块方舟》夏日运动节！挥洒汗水，点燃夏日激情！](https://www.3dmgame.com/news/202407/3899465.html)
+
++ [《铁拳8》新DLC角色“Lidia”宣布7月26日上线 季票玩家提前体验](https://www.3dmgame.com/news/202407/3899466.html)
+
++ [致大人物！热门《赛博浪客》动画联动日清方便面](https://www.3dmgame.com/news/202407/3899467.html)
+
++ [盛夏和相亲在BW等你《中国式相亲》发布玩法预告](https://www.3dmgame.com/news/202407/3899458.html)
+
++ [《魔农传记 FARMAGIA》首次公开魔物农场视觉图！](https://www.3dmgame.com/news/202407/3899459.html)
+
++ [类魂动作RPG《艾诺提亚：失落之歌》介绍预告 9月19日发售](https://www.3dmgame.com/news/202407/3899460.html)
+
