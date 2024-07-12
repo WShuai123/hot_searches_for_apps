@@ -305,3 +305,5 @@
 
 + [在被指控抄袭后 《第一后裔》承诺将更改游戏内图标](https://www.3dmgame.com/news/202407/3899485.html)
 
++ [分析称Game Pass未来还会涨价](https://www.3dmgame.com/news/202407/3899487.html)
+

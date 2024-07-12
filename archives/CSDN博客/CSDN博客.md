@@ -217,3 +217,7 @@
 
 + [【人工智能】-- 受限玻尔兹曼机](https://blog.csdn.net/2302_76516899/article/details/140363690)
 
++ [逆变-TI视频课笔记](https://blog.csdn.net/weixin_45875994/article/details/140330207)
+
++ [Linux--生产消费模型](https://blog.csdn.net/m0_74068921/article/details/140370076)
+
