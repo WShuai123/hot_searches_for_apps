@@ -187,3 +187,11 @@
 
 + [如何做好漏洞扫描工作提高网络安全](https://blog.csdn.net/dexunyun/article/details/140357101)
 
++ [《第二章、DevEco Studio的使用》02 - 构建ArkTS应用](https://blog.csdn.net/qq_35163541/article/details/140376485)
+
++ [基于微信小程序+SpringBoot+Vue的易物小店交换系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140378635)
+
++ [Yolo的离线运行](https://blog.csdn.net/qq_40821260/article/details/140323633)
+
++ [用虚拟机，可以在x86的电脑上虚拟出arm的电脑吗](https://blog.csdn.net/xie__jin__cheng/article/details/140341328)
+

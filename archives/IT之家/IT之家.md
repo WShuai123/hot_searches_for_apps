@@ -45,3 +45,5 @@
 
 + [红旗 HS7 PHEV 开启预售：定位超级混动智慧旗舰 SUV，前 2777 名订购先享价 25.98 万元起](https://m.ithome.com/html/781248.htm)
 
++ [为小米 MIX Flip 小折叠手机铺路，雷军发文询问“还有人在用苹果 iPhone mini 吗？”](https://m.ithome.com/html/781300.htm)
+

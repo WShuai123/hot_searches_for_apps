@@ -165,3 +165,7 @@
 
 + [DocsCube 2.0](https://www.producthunt.com/posts/docscube-2-0)
 
++ [Sensible Inventory Forecasting](https://www.producthunt.com/posts/sensible-inventory-forecasting)
+
++ [Feedback Wizard AI](https://www.producthunt.com/posts/feedback-wizard-ai)
+
