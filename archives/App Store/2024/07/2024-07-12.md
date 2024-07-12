@@ -211,3 +211,5 @@
 
 + [优酷视频-少年白马醉春风](https://itunes.apple.com/cn/app/id336141475?mt=8)
 
++ [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
+

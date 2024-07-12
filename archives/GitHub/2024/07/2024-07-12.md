@@ -29,3 +29,19 @@
 
 + [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [TabbyML / tabby](https://github.com/TabbyML/tabby)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor)
+
++ [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb)
+
++ [apify / crawlee-python](https://github.com/apify/crawlee-python)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
