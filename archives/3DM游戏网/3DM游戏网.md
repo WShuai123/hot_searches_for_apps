@@ -193,3 +193,39 @@
 
 + [《真人快打1》7月27日公布第二年更新内容 或联动终结者](https://www.3dmgame.com/news/202407/3899424.html)
 
++ [裁员卖工作室见成效 Embracer获新6亿欧元周转信贷](https://www.3dmgame.com/news/202407/3899449.html)
+
++ [历史回合制军事战术游戏《钢铁之歌：伊伯利亚半岛》现已在Steam平台正式推出](https://www.3dmgame.com/news/202407/3899445.html)
+
++ [《僵尸世界大战》发布免费更新 上线一张新地图](https://www.3dmgame.com/news/202407/3899448.html)
+
++ [百度：萝卜快跑安全水平接近C919飞机](https://www.3dmgame.com/news/202407/3899447.html)
+
++ [《博德之门3》《心灵杀手2》获2024英国开发之星多项大奖](https://www.3dmgame.com/news/202407/3899446.html)
+
++ [OpenAI提出通用人工智能五级标准 尚未达到第二级](https://www.3dmgame.com/news/202407/3899442.html)
+
++ [Intel新世代 Arrow Lake-S CPU已确认 包括6个SKU](https://www.3dmgame.com/news/202407/3899441.html)
+
++ [《狼人：启示录 — 炼狱》发售日公布 7月23日发行](https://www.3dmgame.com/news/202407/3899440.html)
+
++ [《电锯甜心RePOP》邀请艾什莉体模担任游戏宣传大使](https://www.3dmgame.com/news/202407/3899444.html)
+
++ [恋爱模拟视觉小说游戏《水烟水雾》已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202407/3899443.html)
+
++ [《狂野星球之旅》续作《狂野星球复仇》可能正在开发 代号为“Lodestar”](https://www.3dmgame.com/news/202407/3899437.html)
+
++ [英国零售商GAME 8月起停止提供线下实体游戏预购服务](https://www.3dmgame.com/news/202407/3899438.html)
+
++ [英国皇家邮政推出《龙与地下城》联动邮票 庆祝50周年](https://www.3dmgame.com/news/202407/3899439.html)
+
++ [《辐射：伦敦》Mod必须回滚至次世代更新前才能游玩](https://www.3dmgame.com/news/202407/3899434.html)
+
++ [《忍者神龟：变种释放》预告片发布 预计2024年10月18日推出](https://www.3dmgame.com/news/202407/3899433.html)
+
++ [科幻恐怖电影《异形：夺命舰》新预告 无名恐怖静候](https://www.3dmgame.com/news/202407/3899432.html)
+
++ [《EA Sports FC 25》封面人物为英国选手祖德·贝林厄姆](https://www.3dmgame.com/news/202407/3899431.html)
+
++ [4090运行《上古卷轴5》3100个Mod+光追 画面炸裂](https://www.3dmgame.com/news/202407/3899436.html)
+

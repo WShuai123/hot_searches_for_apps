@@ -149,3 +149,13 @@
 
 + [Journey logo](https://dribbble.com/shots/)
 
++ [Hank's Logo Exploration](https://dribbble.com/shots/)
+
++ [slappin da bass ????](https://dribbble.com/shots/)
+
++ [Go Hawaii Sticker](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Creative Meats](https://dribbble.com/shots/)
+
