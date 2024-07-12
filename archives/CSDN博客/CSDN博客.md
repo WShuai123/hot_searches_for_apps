@@ -205,3 +205,5 @@
 
 + [YOLOv10改进 | 特殊场景检测篇 | 低照度图像增强网络SCINet改进黑暗目标检测（全网独家首发）](https://blog.csdn.net/java1314777/article/details/140164413)
 
++ [40个高阶ChatGPT学术论文指令集（附GPT使用链接）](https://blog.csdn.net/weixin_43101349/article/details/140360344)
+

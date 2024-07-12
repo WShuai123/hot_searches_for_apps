@@ -279,3 +279,23 @@
 
 + [动作冒险游戏《卡库远古封印》正式版，现已发售！](https://www.3dmgame.com/news/202407/3899468.html)
 
++ [5G智能手机芯片2024Q1出货量 联发科超越高通登顶](https://www.3dmgame.com/news/202407/3899483.html)
+
++ [萝卜快跑抢出租车司机饭碗引热议 周鸿祎：司机把无人车买下来 可实现三赢](https://www.3dmgame.com/news/202407/3899475.html)
+
++ [开发工具《动作游戏制作大师》Steam页面上线 支持简中](https://www.3dmgame.com/news/202407/3899477.html)
+
++ [HORROR美少女贞子手办欣赏 2025年3月发售](https://www.3dmgame.com/news/202407/3899476.html)
+
++ [《艾尔登法环》Mod让菈妮趴玩家背上：和她一起战斗](https://www.3dmgame.com/news/202407/3899474.html)
+
++ [《最终幻想7》蒂法和爱丽丝新3D美图 大美女太火辣](https://www.3dmgame.com/news/202407/3899479.html)
+
++ [日本参议院议员关注《刺客信条：影》涉嫌篡改日本历史 发文寻求意见](https://www.3dmgame.com/news/202407/3899478.html)
+
++ [仅退款被玩坏 卖家被逼疯：建议建立商家申诉处理机制](https://www.3dmgame.com/news/202407/3899482.html)
+
++ [焕然一新！百度网盘获国际顶尖设计双奖](https://www.3dmgame.com/news/202407/3899481.html)
+
++ [罗马尼亚一女孩被熊扔下120米悬崖：气绝身亡](https://www.3dmgame.com/news/202407/3899480.html)
+
