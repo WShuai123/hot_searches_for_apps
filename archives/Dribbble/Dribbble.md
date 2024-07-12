@@ -69,3 +69,15 @@
 
 + [Tarot card #19 - The Sun - Daily Vector Art](https://dribbble.com/shots/)
 
++ [Abstract flower character - passiflora. Variation of color.](https://dribbble.com/shots/)
+
++ [slappin da bass ????](https://dribbble.com/shots/)
+
++ [Cat & Mouse House](https://dribbble.com/shots/)
+
++ [J.W.Lees - Pub Signs](https://dribbble.com/shots/)
+
++ [Heads](https://dribbble.com/shots/)
+
++ [Noseride](https://dribbble.com/shots/)
+

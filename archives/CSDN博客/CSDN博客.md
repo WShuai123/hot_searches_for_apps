@@ -101,3 +101,23 @@
 
 + [Java 8革新：现代编程的全新标准与挑战](https://blog.csdn.net/qq_51601665/article/details/140322977)
 
++ [Java Spring 事物处理](https://blog.csdn.net/laiyucannian/article/details/140342520)
+
++ [嵌入式Qt开发C++核心编程知识万字总结](https://blog.csdn.net/weixin_73497355/article/details/140353961)
+
++ [基于EMQX+Flask+InfluxDB+Grafana打造多协议物联网云平台：MQTT/HTTP设备接入与数据可视化流程（附代码示例）](https://blog.csdn.net/qq_40431685/article/details/140349637)
+
++ [无需构建工具，快速上手Vue2 + ElementUI](https://blog.csdn.net/qq_36463299/article/details/140355207)
+
++ [[Flask笔记]一个完整的Flask程序](https://blog.csdn.net/jayhgq/article/details/140349947)
+
++ [jmeter分布式（四）](https://blog.csdn.net/m0_45283400/article/details/140351058)
+
++ [从0到1开发一个Vue3的新手引导组件(附带遇到的问题以及解决方式)](https://blog.csdn.net/weixin_62328265/article/details/140351189)
+
++ [linux_进程周边知识——理解冯诺依曼体系结构](https://blog.csdn.net/strive_mianyang/article/details/140332533)
+
++ [Spring-Aop源码解析](https://blog.csdn.net/qq_37200262/article/details/140108930)
+
++ [[C++]——同步异步日志系统（4）](https://blog.csdn.net/plj521/article/details/140292986)
+
