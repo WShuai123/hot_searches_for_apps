@@ -193,3 +193,29 @@
 
 + [New boot goofin' ????](https://dribbble.com/shots/)
 
++ [S star](https://dribbble.com/shots/)
+
++ [NetSheet, real estate reports logo: N from folded sheet + houses](https://dribbble.com/shots/)
+
++ [Prosperty - Architecture Website](https://dribbble.com/shots/)
+
++ [Charity App Design](https://dribbble.com/shots/)
+
++ [Real Estate Website](https://dribbble.com/shots/)
+
++ [Banner for crypto Launchpad platform](https://dribbble.com/shots/)
+
++ [DisputeFox Mobile App - Credit Score Dashboard](https://dribbble.com/shots/)
+
++ [Betty Whitefish](https://dribbble.com/shots/)
+
++ [Spatial Sticky Notes (Intro)](https://dribbble.com/shots/)
+
++ [Landscape Collage Series Textures](https://dribbble.com/shots/)
+
++ [Gorillas](https://dribbble.com/shots/)
+
++ [Life bird logo design](https://dribbble.com/shots/)
+
++ [Bull Gym - Landing Page](https://dribbble.com/shots/)
+

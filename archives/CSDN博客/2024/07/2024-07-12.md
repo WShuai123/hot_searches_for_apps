@@ -195,3 +195,7 @@
 
 + [用虚拟机，可以在x86的电脑上虚拟出arm的电脑吗](https://blog.csdn.net/xie__jin__cheng/article/details/140341328)
 
++ [华为如何做成数字化转型？](https://blog.csdn.net/Peter_Changyb/article/details/140330679)
+
++ [网络安全防御 -- 防火墙安全策略用户认证综合实验](https://blog.csdn.net/rrl18215821889/article/details/140330411)
+

@@ -47,3 +47,5 @@
 
 + [为小米 MIX Flip 小折叠手机铺路，雷军发文询问“还有人在用苹果 iPhone mini 吗？”](https://m.ithome.com/html/781300.htm)
 
++ [小米 Redmi K70 至尊版手机预热：配备 IP68 防尘防水、5500mAh 电池、120W 快充](https://m.ithome.com/html/781279.htm)
+
