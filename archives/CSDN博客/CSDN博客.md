@@ -131,3 +131,5 @@
 
 + [玄机——第五章 linux实战-CMS01 wp](https://blog.csdn.net/administratorlws/article/details/140310520)
 
++ [第三期-书生大模型实战营学习记录02](https://blog.csdn.net/aomeng_Miracle/article/details/140359882)
+
