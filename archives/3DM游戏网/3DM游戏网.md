@@ -101,3 +101,7 @@
 
 + [Intel新世代 Arrow Lake-S CPU已确认 包括6个SKU](https://www.3dmgame.com/news/202407/3899441.html)
 
++ [外媒评PS5平台最难的15款游戏 《黄金树幽影》第一](https://www.3dmgame.com/news/202407/3899492.html)
+
++ [《八方旅人》发售六周年 官方发布贺图](https://www.3dmgame.com/news/202407/3899493.html)
+

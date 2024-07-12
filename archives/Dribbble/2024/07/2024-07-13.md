@@ -81,3 +81,47 @@
 
 + [Noseride](https://dribbble.com/shots/)
 
++ [K-Music Radio Logo](https://dribbble.com/shots/)
+
++ [Tuna Illustration](https://dribbble.com/shots/)
+
++ [S star](https://dribbble.com/shots/)
+
++ [Chat AI](https://dribbble.com/shots/)
+
++ [Charity App Design](https://dribbble.com/shots/)
+
++ [21/32 – Minnesota Chippers](https://dribbble.com/shots/)
+
++ [Cyclops - Social Media Management Website](https://dribbble.com/shots/)
+
++ [Banner for crypto Launchpad platform](https://dribbble.com/shots/)
+
++ [Starbase Brewing](https://dribbble.com/shots/)
+
++ [Turning gravity into a mere suggestion](https://dribbble.com/shots/)
+
++ [Website for Jewelry Company](https://dribbble.com/shots/)
+
++ [Bill Evans, a Jazz Icon.](https://dribbble.com/shots/)
+
++ [Cheetah Logo](https://dribbble.com/shots/)
+
++ [Landscape Collage Series Textures](https://dribbble.com/shots/)
+
++ [Fofth Rill Craft Gin - Detail](https://dribbble.com/shots/)
+
++ [Spatial Sticky Notes (Intro)](https://dribbble.com/shots/)
+
++ [SKNUP](https://dribbble.com/shots/)
+
++ [NetSheet, real estate reports logo: N from folded sheet + houses](https://dribbble.com/shots/)
+
++ [Prosperty - Architecture Website](https://dribbble.com/shots/)
+
++ [Financial Dashboard Iteration](https://dribbble.com/shots/)
+
++ [Sprout and Letter B](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
