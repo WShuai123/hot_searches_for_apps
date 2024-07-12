@@ -59,3 +59,7 @@
 
 + [华为 Mate 60、X5 系列及 MatePad Pro 13.2 等机型开启鸿蒙 HarmonyOS NEXT Beta 第二期测试招募](https://m.ithome.com/html/781395.htm)
 
++ [“小米最强影像算法”首次落地 Redmi，K70 至尊版手机官宣索尼 IMX906 主摄](https://m.ithome.com/html/781361.htm)
+
++ [全球首发，高德向华为鸿蒙 HarmonyOS NEXT 第三方应用开放导航 SDK](https://m.ithome.com/html/781360.htm)
+
