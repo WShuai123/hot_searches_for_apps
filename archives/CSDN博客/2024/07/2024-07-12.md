@@ -159,3 +159,13 @@
 
 + [2.5 计算机网络](https://blog.csdn.net/sunflower_sunuo/article/details/140175044)
 
++ [从概念到完成：Midjourney——设计思维与AI技术的完美结合](https://blog.csdn.net/qq_32682301/article/details/140374017)
+
++ [【python】PyQt5顶层窗口相关操作API原理剖析，企业级应用实战分享](https://blog.csdn.net/littlefun591/article/details/140357861)
+
++ [kafka与zookeeper的SSL认证教程](https://blog.csdn.net/weixin_43631631/article/details/140351277)
+
++ [【YOLOv8】 用YOLOv8实现数字式工业仪表智能读数(二)](https://blog.csdn.net/qq_38308388/article/details/140346906)
+
++ [FPGA上板项目（一）——点灯熟悉完整开发流程、ILA在线调试](https://blog.csdn.net/weixin_45926435/article/details/140035427)
+

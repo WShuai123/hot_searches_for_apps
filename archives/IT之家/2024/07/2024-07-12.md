@@ -37,3 +37,7 @@
 
 + [小米产品经理魏思琪：MIX Flip 折叠屏手机配备全功能大外屏，完成外屏超 200 常用应用适配](https://m.ithome.com/html/781237.htm)
 
++ [AITO 问界 M7 车主称车辆狂飙加速致事故，官方回应：未见主动制动记录](https://m.ithome.com/html/781338.htm)
+
++ [红旗 HS7 PHEV 开启预售：定位超级混动智慧旗舰 SUV，先享价 25.98 万元起](https://m.ithome.com/html/781248.htm)
+

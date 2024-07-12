@@ -53,3 +53,9 @@
 
 + [应急响应 | MacOS取证速查：一文搞定响应取证所有需求](https://www.freebuf.com/articles/web/405123.html)
 
++ [如何打造企业安全运营服务体系（服务和管理层面）](https://www.freebuf.com/news/405840.html)
+
++ [网络舆论战打响，俄罗斯虚假信息设施遍布欧洲](https://www.freebuf.com/news/405818.html)
+
++ [谷歌发力争夺漏洞资源，漏洞赏金再提高5倍](https://www.freebuf.com/news/405804.html)
+
