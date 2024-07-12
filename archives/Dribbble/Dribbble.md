@@ -125,3 +125,13 @@
 
 + [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
 
++ [Glyph Beer 50](https://dribbble.com/shots/)
+
++ [Believe](https://dribbble.com/shots/)
+
++ [The Beetle Backs - Metamorphosis](https://dribbble.com/shots/)
+
++ [Blue Loon BW](https://dribbble.com/shots/)
+
++ [Śliwka Nałęczowska - packaging design](https://dribbble.com/shots/)
+

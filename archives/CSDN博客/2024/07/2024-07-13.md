@@ -133,3 +133,7 @@
 
 + [第三期-书生大模型实战营学习记录02](https://blog.csdn.net/aomeng_Miracle/article/details/140359882)
 
++ [从兔子的窝窝究竟有啥价值的角度理解机器人学习（节选）](https://blog.csdn.net/ZhangRelay/article/details/140382582)
+
++ [Python数据分析-Excel和 Text 文件的读写操作](https://blog.csdn.net/weixin_61587867/article/details/140389652)
+
