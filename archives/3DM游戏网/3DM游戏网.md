@@ -151,3 +151,21 @@
 
 + [First 4 Figures将推出《动物森友会》狸克模型](https://www.3dmgame.com/news/202407/3899405.html)
 
++ [传微软将在部分地区停止宣传Xbox主机 转向Game Pass](https://www.3dmgame.com/news/202407/3899417.html)
+
++ [《星鸣特攻》BETA抢先体验将面向所有PS+会员开放](https://www.3dmgame.com/news/202407/3899416.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》新演示 游戏性满满](https://www.3dmgame.com/news/202407/3899418.html)
+
++ [《暗黑4》DLC新职业灵巫新细节将于7月18日公布](https://www.3dmgame.com/news/202407/3899415.html)
+
++ [《荒野大镖客：救赎》PC版或将很快公布 敬请期待](https://www.3dmgame.com/news/202407/3899414.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》主角关键艺术图分享](https://www.3dmgame.com/news/202407/3899413.html)
+
++ [《祇：女神之道》主题曲预告片 ermhoi演唱](https://www.3dmgame.com/news/202407/3899412.html)
+
++ [《多重人生》新预告片介绍主角和他的诸多分身](https://www.3dmgame.com/news/202407/3899411.html)
+
++ [《Neon White》Xbox版已推出 完成全平台成就](https://www.3dmgame.com/news/202407/3899410.html)
+

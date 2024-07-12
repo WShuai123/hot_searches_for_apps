@@ -29,3 +29,5 @@
 
 + [发货帮回应 App 下架油罐车轨迹查询功能：货车定位功能正全线升级](https://m.ithome.com/html/781241.htm)
 
++ [24GB+1TB，小米 Redmi K70 至尊版手机确认推出大内存版本](https://m.ithome.com/html/781242.htm)
+
