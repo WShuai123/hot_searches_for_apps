@@ -47,3 +47,5 @@
 
 + [企业安全 | 企业内一次钓鱼演练准备过程](https://www.freebuf.com/articles/es/405657.html)
 
++ [谷歌将漏洞悬赏奖金提高了五倍，最高达 15.1 万美元](https://www.freebuf.com/news/405804.html)
+
