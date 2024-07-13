@@ -167,3 +167,13 @@
 
 + [《你的眼眸命中我心头》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202407/3899518.html)
 
++ [互动式影片《異世界歸來的我錯過了愛情》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3899529.html)
+
++ [光田康典为《波与月夜之青莲》创作两首音乐](https://www.3dmgame.com/news/202407/3899528.html)
+
++ [太空垃圾到底长什么样？航天器拍到超近距离照片](https://www.3dmgame.com/news/202407/3899527.html)
+
++ [《魔法微量球6》免费第二赛季DLC更新现已发布](https://www.3dmgame.com/news/202407/3899526.html)
+
++ [《漫威争锋》7月末封测将举办活动 奖励可继承至正式发布](https://www.3dmgame.com/news/202407/3899525.html)
+
