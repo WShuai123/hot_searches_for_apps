@@ -145,3 +145,5 @@
 
 + [【Linux】Linux背景历史](https://blog.csdn.net/dab112/article/details/140348766)
 
++ [python+pygame实现五子棋人机对战之三](https://blog.csdn.net/cxhold/article/details/140136176)
+
