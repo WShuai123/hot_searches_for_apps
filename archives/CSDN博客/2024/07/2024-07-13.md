@@ -173,3 +173,9 @@
 
 + [PDF公式转Latex](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/140393212)
 
++ [在android11 上实现平行视界效果](https://blog.csdn.net/blueheart05/article/details/140371053)
+
++ [NaiveUI与ElementUI 比较分析](https://blog.csdn.net/jane_xing/article/details/140383930)
+
++ [AI大模型来了,低代码还有机会吗？](https://blog.csdn.net/python1222_/article/details/140399113)
+

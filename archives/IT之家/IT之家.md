@@ -49,3 +49,7 @@
 
 + [华为 × 奇瑞合作车型第二弹：智界 R7 轿跑 SUV 完成工信部申报，预计 9 月上市](https://m.ithome.com/html/781447.htm)
 
++ [AMD 锐龙 9000 系列 Zen 5 桌面 CPU 遭偷跑，已有用户提前拿到 R7 9700X](https://m.ithome.com/html/781486.htm)
+
++ [智界 S7 再度亮相工信部：新增车漆类似华为 Pura 70 Pro 手机“罗兰紫”配色](https://m.ithome.com/html/781465.htm)
+

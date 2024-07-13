@@ -177,3 +177,9 @@
 
 + [《漫威争锋》7月末封测将举办活动 奖励可继承至正式发布](https://www.3dmgame.com/news/202407/3899525.html)
 
++ [片场武器有实弹走火摄影师被害 著名演员过失杀人诉讼已被驳回](https://www.3dmgame.com/news/202407/3899532.html)
+
++ [游戏开发商暗示《真人快打》复刻版或正在开发中](https://www.3dmgame.com/news/202407/3899530.html)
+
++ [《逃生：试炼》发布重大更新 加入新敌人和新地图](https://www.3dmgame.com/news/202407/3899531.html)
+
