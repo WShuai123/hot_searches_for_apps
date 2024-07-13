@@ -187,3 +187,7 @@
 
 + [从3D扫描到CAD模型【逆向工程】](https://blog.csdn.net/shebao3333/article/details/140342420)
 
++ [基于SpringBoot+VueJS+微信小程序技术的图书森林共享小程序设计与实现:7000字论文+源代码参考](https://blog.csdn.net/mr_lili_111/article/details/140372827)
+
++ [开源PHP论坛HadSky本地部署与配置公网地址实现远程访问](https://blog.csdn.net/YYDsis/article/details/140393001)
+

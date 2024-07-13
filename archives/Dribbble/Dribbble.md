@@ -187,3 +187,23 @@
 
 + [Finance - Wall Street Journal](https://dribbble.com/shots/)
 
++ [BlockTrade - Cryptocurrency Trading Terminal Admin Dashboard](https://dribbble.com/shots/)
+
++ [Dog chat v.2](https://dribbble.com/shots/)
+
++ [3D icon Video store for OS design](https://dribbble.com/shots/)
+
++ [Web Chat UI](https://dribbble.com/shots/)
+
++ [Coffee Shop Website](https://dribbble.com/shots/)
+
++ [Billboard Mockup Creator](https://dribbble.com/shots/)
+
++ [Soundly, Letter S + Echo Geometric Logo Design](https://dribbble.com/shots/)
+
++ [Decent power logo. Letter d fashion logo design.](https://dribbble.com/shots/)
+
++ [BlissBo Beauty & Wellness App](https://dribbble.com/shots/)
+
++ [Forks Crosswalk Mural 2/3](https://dribbble.com/shots/)
+

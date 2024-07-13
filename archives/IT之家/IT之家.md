@@ -65,3 +65,13 @@
 
 + [极氪 MIX“宝宝巴士”纯电 MPV 灰色款实车曝光，预计下半年上市](https://m.ithome.com/html/781547.htm)
 
++ [吉利高级副总裁杨学良呼吁车企摆脱内卷，走出内卷怪圈](https://m.ithome.com/html/781574.htm)
+
++ [“爱奇艺限制投屏案”补偿 41 天 VIP 后续，原告决定继续上诉](https://m.ithome.com/html/781566.htm)
+
++ [岭南通・羊城通 0 元开卡活动限时开启，支持全国 330 + 交通联合城市](https://m.ithome.com/html/781499.htm)
+
++ [努比亚 Z60 Ultra 领先版手机官宣搭载南海高能电池，体验等效约 6300mAh](https://m.ithome.com/html/781532.htm)
+
++ [马斯克又食言，特斯拉一夜蒸发 5000 亿元人民币](https://m.ithome.com/html/781590.htm)
+
