@@ -147,3 +147,11 @@
 
 + [python+pygame实现五子棋人机对战之三](https://blog.csdn.net/cxhold/article/details/140136176)
 
++ [【YOLOv8】 用YOLOv8实现数字式工业仪表智能读数(一)](https://blog.csdn.net/qq_38308388/article/details/140344651)
+
++ [Spark底层原理：案例解析（第34天）](https://blog.csdn.net/syhiiu/article/details/140393472)
+
++ [免费开源的工业物联网（IoT）解决方案](https://blog.csdn.net/yangxunbosh/article/details/140384854)
+
++ [Python精神病算法和自我认知异类数学模型](https://blog.csdn.net/jiyotin/article/details/140359196)
+

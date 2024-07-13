@@ -31,3 +31,5 @@
 
 + [荣耀 MagicPad 2 平板发布：高通骁龙 8s Gen 3 处理器 / 10050mAh 电池，2899 元起](https://m.ithome.com/html/781407.htm)
 
++ [2025 全球献映，漫威电影《美国队长 4》预告首曝：炸鸡叔、红浩克纷纷登场](https://m.ithome.com/html/781477.htm)
+
