@@ -57,3 +57,7 @@
 
 + [新款比亚迪宋 Pro DM-i 申报图公布：全新前脸设计，第五代 DM 混动技术](https://m.ithome.com/html/781495.htm)
 
++ [小米自带线充电宝 20000mAh 深空蓝配色上市：支持 33W 功率，售价 159 元](https://m.ithome.com/html/781563.htm)
+
++ [用户潜水时不慎遗落苹果 Apple Watch，泡水 1 年半后捞出仍可正常工作](https://m.ithome.com/html/781503.htm)
+

@@ -185,3 +185,5 @@
 
 + [《刺客信条：影》线下活动闹乌龙 展品被发现是《海贼王》索隆佩刀](https://www.3dmgame.com/news/202407/3899533.html)
 
++ [英伟达AI GPU供应链短缺情况改善 预计下半年AI服务器出货量大增](https://www.3dmgame.com/news/202407/3899534.html)
+
