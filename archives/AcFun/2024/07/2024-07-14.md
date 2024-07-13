@@ -73,3 +73,5 @@
 
 + [空灵清澈，斯卡布罗集市《Scarborough Fair》（ACFUN声唱2024参赛曲目）](http://www.acfun.cn/v/ac45272078)
 
++ [CAPCOM的黄血系列为何能成为机厅霸主？【老弦乱弹】第06季第05集【街机厅往事之伍】](http://www.acfun.cn/v/ac45324143)
+
