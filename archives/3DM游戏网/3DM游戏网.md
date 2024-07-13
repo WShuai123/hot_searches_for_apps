@@ -105,3 +105,11 @@
 
 + [《八方旅人》发售六周年 官方发布贺图](https://www.3dmgame.com/news/202407/3899493.html)
 
++ [正确到底！BioWare解释为何《龙腾世纪：影障守护者》没有血魔法](https://www.3dmgame.com/news/202407/3899497.html)
+
++ [《星球大战：法外狂徒》创意总监：这不是传统育碧游戏的换皮](https://www.3dmgame.com/news/202407/3899496.html)
+
++ [《铁拳8》下次更新将追加拍照模式 万代将举办拍照大赛](https://www.3dmgame.com/news/202407/3899495.html)
+
++ [沙特和国际奥委会签12年协议 举办电竞奥运会](https://www.3dmgame.com/news/202407/3899494.html)
+
