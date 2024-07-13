@@ -67,3 +67,51 @@
 
 + [Bowl Skatin'](https://dribbble.com/shots/)
 
++ [BlockTrade - Cryptocurrency Trading Terminal Admin Dashboard](https://dribbble.com/shots/)
+
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [Random Cute Animals????????????](https://dribbble.com/shots/)
+
++ [Dog chat v.2](https://dribbble.com/shots/)
+
++ [Italian Diorama Tutorial](https://dribbble.com/shots/)
+
++ [goal](https://dribbble.com/shots/)
+
++ [Web Chat UI](https://dribbble.com/shots/)
+
++ [Versus Tennis Branding Case Study](https://dribbble.com/shots/)
+
++ [Iconly Pro - Ai Generate icons](https://dribbble.com/shots/)
+
++ [Coffee Shop Website](https://dribbble.com/shots/)
+
++ [Happy Rock Day! ✦ Illustration](https://dribbble.com/shots/)
+
++ [3D icon Video store for OS design](https://dribbble.com/shots/)
+
++ [Soundly, Letter S + Echo Geometric Logo Design](https://dribbble.com/shots/)
+
++ [Billboard Mockup Creator](https://dribbble.com/shots/)
+
++ [Eboki - Podcast App Design](https://dribbble.com/shots/)
+
++ [Logo Shop](https://dribbble.com/shots/)
+
++ [BlissBo Beauty & Wellness App](https://dribbble.com/shots/)
+
++ [Ready to go](https://dribbble.com/shots/)
+
++ [Jmaclennan logo](https://dribbble.com/shots/)
+
++ [Urban streetwear clothing brand logo, Fashion Luxury Logo](https://dribbble.com/shots/)
+
++ [modern letter logo, medical logo, logo design](https://dribbble.com/shots/)
+
++ [Decent power logo. Letter d fashion logo design.](https://dribbble.com/shots/)
+
++ [Son of man](https://dribbble.com/shots/)
+
++ [Fired logo design](https://dribbble.com/shots/)
+

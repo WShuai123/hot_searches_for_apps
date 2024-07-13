@@ -101,3 +101,27 @@
 
 + [【人工智能】-- 迁移学习](https://blog.csdn.net/2302_76516899/article/details/140390322)
 
++ [展望未来：在【PyCharm】中结合【机器学习】实现高效的图形化处理](https://blog.csdn.net/2301_79181030/article/details/140407783)
+
++ [持续学习中避免灾难性遗忘的Elastic Weight Consolidation Loss数学原理及代码实现](https://blog.csdn.net/m0_46510245/article/details/140396578)
+
++ [【RAG检索增强生成】RAG技术革新数据库：Vanna框架的高效SQL生成策略](https://blog.csdn.net/xiaobing259/article/details/140346512)
+
++ [【C++深度探索】全面解析多态性机制(二)](https://blog.csdn.net/Renswc/article/details/140378302)
+
++ [Open-TeleVision——通过VR沉浸式感受人形机器人视野：兼备远程控制和深度感知能力](https://blog.csdn.net/v_JULY_v/article/details/140384810)
+
++ [【机器学习】逻辑回归的原理、应用与扩展](https://blog.csdn.net/lph159/article/details/140328738)
+
++ [基于FPGA的数字信号处理（17）--定点运算的实现实例（饱和Saturate与四舍五入Round）](https://blog.csdn.net/wuzhikaidetb/article/details/140371126)
+
++ [自学黑客（网络安全）](https://blog.csdn.net/xv7676/article/details/140405875)
+
++ [懒人福音：Java版Webhook机器人，一键开启‘躺赢’模式](https://blog.csdn.net/weixin_74199893/article/details/140387925)
+
++ [NVIDIA显卡，Windows系统下，如何使用vcpkg管理依赖项，Cmake编译生成COLMAP的vs工程文件](https://blog.csdn.net/m0_74792806/article/details/140371996)
+
++ [网络安全防御【防火墙NAT智能选举综合实验】](https://blog.csdn.net/miss_copper/article/details/140399753)
+
++ [Postman 中的 API 安全性测试：最佳实践与技巧](https://blog.csdn.net/2402_85762143/article/details/140391092)
+
