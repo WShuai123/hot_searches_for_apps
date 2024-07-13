@@ -189,3 +189,11 @@
 
 + [育碧砍掉《狂飙》真人剧集 但在积极开发系列其他项目](https://www.3dmgame.com/news/202407/3899535.html)
 
++ [官方整活最致命！Capcom想让你在《生化危机》游戏里避暑](https://www.3dmgame.com/news/202407/3899538.html)
+
++ [刘德华主演动作灾难片《危机航线》定档](https://www.3dmgame.com/news/202407/3899539.html)
+
++ [《星鸣特攻》BETA抢先测试没有引起任何波澜](https://www.3dmgame.com/news/202407/3899537.html)
+
++ [《极限竞速：Motorsport》发售不到一年 玩家几乎AFK](https://www.3dmgame.com/news/202407/3899536.html)
+

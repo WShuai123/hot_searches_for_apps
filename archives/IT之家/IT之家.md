@@ -75,3 +75,7 @@
 
 + [马斯克又食言，特斯拉一夜蒸发 5000 亿元人民币](https://m.ithome.com/html/781590.htm)
 
++ [号称“三小时内卖出 10 万部”，Nothing 子品牌 CMF Phone 1 手机开售](https://m.ithome.com/html/781513.htm)
+
++ [性能比肩 F1 赛车：红牛首款超跑 RB17 亮相古德伍德速度节，全球限量 50 台](https://m.ithome.com/html/781487.htm)
+

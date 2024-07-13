@@ -131,3 +131,5 @@
 
 + [Slides.bot: AI Presentation Maker](https://www.producthunt.com/posts/slides-bot-ai-presentation-maker)
 
++ [Phaie AI by Creatr](https://www.producthunt.com/posts/phaie-ai-by-creatr)
+
