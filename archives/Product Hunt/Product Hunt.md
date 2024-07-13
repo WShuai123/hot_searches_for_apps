@@ -103,3 +103,27 @@
 
 + [Notifuze](https://www.producthunt.com/posts/notifuze)
 
++ [Calm Jobs](https://www.producthunt.com/posts/calm-jobs)
+
++ [secure file sharing](https://www.producthunt.com/posts/secure-file-sharing)
+
++ [Face Index](https://www.producthunt.com/posts/face-index)
+
++ [FitFinder](https://www.producthunt.com/posts/fitfinder-2)
+
++ [GPT Power Manager](https://www.producthunt.com/posts/gpt-power-manager)
+
++ [Medical-grade ECG Smartwatch ECG8](https://www.producthunt.com/posts/medical-grade-ecg-smartwatch-ecg8)
+
++ [Thinkerer Tab Switcher](https://www.producthunt.com/posts/thinkerer-tab-switcher)
+
++ [Nimble API](https://www.producthunt.com/posts/nimble-api)
+
++ [FoneDog Screen Recorder](https://www.producthunt.com/posts/fonedog-screen-recorder)
+
++ [Vocabuo - The vocabulary app](https://www.producthunt.com/posts/vocabuo-the-vocabulary-app)
+
++ [HiMingle](https://www.producthunt.com/posts/himingle)
+
++ [Sales Likelihood Calculator](https://www.producthunt.com/posts/sales-likelihood-calculator)
+

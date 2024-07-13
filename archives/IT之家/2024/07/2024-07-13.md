@@ -35,3 +35,7 @@
 
 + [真全面屏，努比亚官宣 Z60 Ultra 领先版手机搭载第六代屏下摄像技术](https://m.ithome.com/html/781478.htm)
 
++ [小米 14 / Pro、Redmi K60 至尊版及平板 6S Pro 开启安卓 15 Beta 2 开发者预览版尝鲜](https://m.ithome.com/html/781473.htm)
+
++ [华为何刚：智界 R7 将带来轿跑 SUV“最大内部空间”，续航超 800km](https://m.ithome.com/html/781471.htm)
+

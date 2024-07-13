@@ -51,3 +51,5 @@
 
 + [“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击](https://www.freebuf.com/news/405712.html)
 
++ [如何使用Subhunter测试你的子域名是否容易被接管](https://www.freebuf.com/sectool/405566.html)
+
