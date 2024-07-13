@@ -135,3 +135,7 @@
 
 + [如何部署本地dockers镜像源](https://blog.csdn.net/howard_shooter/article/details/140343170)
 
++ [基于FPGA的AM信号解调verilog实现](https://blog.csdn.net/ccsss22/article/details/140404799)
+
++ [【Django+Vue3 线上教育平台项目实战】构建高效线上教育平台之首页模块](https://blog.csdn.net/m0_48173416/article/details/140361883)
+
