@@ -53,3 +53,7 @@
 
 + [智界 S7 再度亮相工信部：新增车漆类似华为 Pura 70 Pro 手机“罗兰紫”配色](https://m.ithome.com/html/781465.htm)
 
++ [消息称小米 Redmi K70 至尊版手机搭载多款自研芯片，涉及快充 / 电源管理 / 信号增强 / 独显](https://m.ithome.com/html/781557.htm)
+
++ [新款比亚迪宋 Pro DM-i 申报图公布：全新前脸设计，第五代 DM 混动技术](https://m.ithome.com/html/781495.htm)
+

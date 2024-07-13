@@ -29,3 +29,17 @@
 
 + [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
 
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [szimek / sharedrop](https://github.com/szimek/sharedrop)
+
++ [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [MystenLabs / sui](https://github.com/MystenLabs/sui)
+
++ [karpathy / llm.c](https://github.com/karpathy/llm.c)
+
++ [openvinotoolkit / openvino](https://github.com/openvinotoolkit/openvino)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
