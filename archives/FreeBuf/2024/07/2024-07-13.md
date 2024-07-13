@@ -45,3 +45,7 @@
 
 + [海莲花组织以社保话题为诱饵进行 APT 攻击](https://www.freebuf.com/articles/network/405589.html)
 
++ [攻防演练 | HVV红队复盘——总结（向上汇报）](https://www.freebuf.com/defense/375594.html)
+
++ [SharkTeam：2024年上半年度Web3安全报告](https://www.freebuf.com/articles/web/405439.html)
+

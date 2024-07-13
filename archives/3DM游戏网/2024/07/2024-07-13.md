@@ -113,3 +113,19 @@
 
 + [沙特和国际奥委会签12年协议 举办电竞奥运会](https://www.3dmgame.com/news/202407/3899494.html)
 
++ [发布13年 经典游戏《泰拉瑞亚》终生销量超5800万份](https://www.3dmgame.com/news/202407/3899505.html)
+
++ [解谜冒险游戏《UNDERGROUNDED》Steam页面 明年发行](https://www.3dmgame.com/news/202407/3899504.html)
+
++ [《使命召唤》宣布美国职业摔角WWE联动 7月24日上线](https://www.3dmgame.com/news/202407/3899503.html)
+
++ [今年“三伏天”将持续40天加长版：下周开始入伏](https://www.3dmgame.com/news/202407/3899502.html)
+
++ [《辐射：伦敦》MOD需要游戏本体 但Game Pass版不行](https://www.3dmgame.com/news/202407/3899501.html)
+
++ [多位外聘翻译人员表示任天堂拒绝在作品中为其署名](https://www.3dmgame.com/news/202407/3899500.html)
+
++ [《全境封锁2》开发团队讨论赛季2.0和赛季角色：已重新评估](https://www.3dmgame.com/news/202407/3899498.html)
+
++ [2D横版动作射击游戏的合集《二战前线合集》Steam页面上线 7月24日发售](https://www.3dmgame.com/news/202407/3899499.html)
+
