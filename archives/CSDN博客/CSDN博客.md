@@ -155,3 +155,5 @@
 
 + [Python精神病算法和自我认知异类数学模型](https://blog.csdn.net/jiyotin/article/details/140359196)
 
++ [竞赛 深度学习乳腺癌分类](https://blog.csdn.net/iuerfee/article/details/140373906)
+

@@ -49,3 +49,5 @@
 
 + [SharkTeam：2024年上半年度Web3安全报告](https://www.freebuf.com/articles/web/405439.html)
 
++ [“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击](https://www.freebuf.com/news/405712.html)
+
