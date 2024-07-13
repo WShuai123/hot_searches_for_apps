@@ -61,3 +61,7 @@
 
 + [用户潜水时不慎遗落苹果 Apple Watch，泡水 1 年半后捞出仍可正常工作](https://m.ithome.com/html/781503.htm)
 
++ [7 月底陆续升级，荣耀 MagicOS 8.0 新功能公布：相机色彩风格优化、新增 AI 消除、YOYO 早报](https://m.ithome.com/html/781474.htm)
+
++ [极氪 MIX“宝宝巴士”纯电 MPV 灰色款实车曝光，预计下半年上市](https://m.ithome.com/html/781547.htm)
+

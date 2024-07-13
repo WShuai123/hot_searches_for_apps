@@ -187,3 +187,5 @@
 
 + [英伟达AI GPU供应链短缺情况改善 预计下半年AI服务器出货量大增](https://www.3dmgame.com/news/202407/3899534.html)
 
++ [育碧砍掉《狂飙》真人剧集 但在积极开发系列其他项目](https://www.3dmgame.com/news/202407/3899535.html)
+
