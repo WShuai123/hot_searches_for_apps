@@ -139,3 +139,7 @@
 
 + [【Django+Vue3 线上教育平台项目实战】构建高效线上教育平台之首页模块](https://blog.csdn.net/m0_48173416/article/details/140361883)
 
++ [【Datawhale AI 夏令营】基于术语词典干预的机器翻译挑战赛——baseline【笔记】](https://blog.csdn.net/han_qikemeng/article/details/140373424)
+
++ [SpringBoot项目集成MinIO](https://blog.csdn.net/qq_66452396/article/details/140327743)
+
