@@ -153,3 +153,17 @@
 
 + [《漫威争锋》“毒液”预告片 7月24日封测](https://www.3dmgame.com/news/202407/3899517.html)
 
++ [经典电影改编 《龙威小子：街头大乱斗》9月发售](https://www.3dmgame.com/news/202407/3899524.html)
+
++ [OpenAI创始人开科尼赛格跑车遭网友质疑 马斯克神补刀](https://www.3dmgame.com/news/202407/3899523.html)
+
++ [拯救地球！策略RPG新作《断面寄生：二元突破》公布](https://www.3dmgame.com/news/202407/3899522.html)
+
++ [爱奇艺限制投屏被判补偿41天VIP 原告决定继续上诉](https://www.3dmgame.com/news/202407/3899521.html)
+
++ [科幻战斗动作游戏《Luminedge》Steam页面 发行日期待定](https://www.3dmgame.com/news/202407/3899520.html)
+
++ [爱尔兰发行商推出《艾尔登法环》“圣经” 最贵版本售价1千欧元](https://www.3dmgame.com/news/202407/3899519.html)
+
++ [《你的眼眸命中我心头》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202407/3899518.html)
+

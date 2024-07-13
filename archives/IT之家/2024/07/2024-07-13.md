@@ -39,3 +39,9 @@
 
 + [华为何刚：智界 R7 将带来轿跑 SUV“最大内部空间”，续航超 800km](https://m.ithome.com/html/781471.htm)
 
++ [比亚迪海狮 05 DM-i 完成申报，搭载 DM 5.0 动力系统](https://m.ithome.com/html/781456.htm)
+
++ [比亚迪汉新增车型完成申报：可选激光雷达，预计配备 DM 5.0 混动技术](https://m.ithome.com/html/781469.htm)
+
++ [小鹏新车 P7 + 完成工信部申报：车长超 5 米，“两段式”车尾设计](https://m.ithome.com/html/781445.htm)
+
