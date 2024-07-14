@@ -199,3 +199,11 @@
 
 + [Elasticsearch 角色和权限管理](https://blog.csdn.net/Dxy1239310216/article/details/140396468)
 
++ [【云原生】Prometheus整合Alertmanager告警规则使用详解](https://blog.csdn.net/zhangcongyi420/article/details/140406271)
+
++ [【python】PyQt5顶层窗口相关操作API原理剖析，企业级应用实战分享](https://blog.csdn.net/littlefun591/article/details/140357861)
+
++ [DockerCompose拉取DockerHub镜像，并部署OpenMetaData](https://blog.csdn.net/qq_21698517/article/details/140371306)
+
++ [微服务-注册中心](https://blog.csdn.net/weixin_45703155/article/details/140138467)
+

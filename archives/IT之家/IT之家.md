@@ -59,3 +59,7 @@
 
 + [美国农村运营商拆除华为、中兴设备遇阻：钱不够了](https://m.ithome.com/html/781698.htm)
 
++ [中国汽车在俄罗斯占据超六成的市场](https://m.ithome.com/html/781677.htm)
+
++ [小米 POCO M6 Plus 手机规格曝光：骁龙 4 Gen 2、6/8GB RAM，1.39 万印度卢比起](https://m.ithome.com/html/781652.htm)
+
