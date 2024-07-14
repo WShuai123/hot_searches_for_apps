@@ -185,3 +185,25 @@
 
 + [Course layouts](https://dribbble.com/shots/)
 
++ [Bird Logo](https://dribbble.com/shots/)
+
++ [CFX labs](https://dribbble.com/shots/)
+
++ [DropForth logo branding](https://dribbble.com/shots/)
+
++ [Website for Insurance Company](https://dribbble.com/shots/)
+
++ [Marketplace Mobile App](https://dribbble.com/shots/)
+
++ [Javex logotype](https://dribbble.com/shots/)
+
++ [Helex logo](https://dribbble.com/shots/)
+
++ [Creative Juice - AI Blogger Finance SaaS](https://dribbble.com/shots/)
+
++ [Call Wave - Meeting Page (Calendar)](https://dribbble.com/shots/)
+
++ [6666 Block - Token Trading](https://dribbble.com/shots/)
+
++ [Solid Icons - Lookscout Design System](https://dribbble.com/shots/)
+

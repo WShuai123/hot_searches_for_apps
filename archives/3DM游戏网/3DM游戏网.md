@@ -169,3 +169,7 @@
 
 + [京阿尼纵火案纪念碑建成 36名死者化身和平鸟](https://www.3dmgame.com/news/202407/3899573.html)
 
++ [《死亡搁浅》登陆PC四周年 累计投递包裹超4亿](https://www.3dmgame.com/news/202407/3899575.html)
+
++ [66岁男星亚历克·鲍德温片场过失杀人案被驳回](https://www.3dmgame.com/news/202407/3899574.html)
+

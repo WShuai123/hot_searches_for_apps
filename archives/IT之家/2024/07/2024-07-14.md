@@ -63,3 +63,5 @@
 
 + [小米 POCO M6 Plus 手机规格曝光：骁龙 4 Gen 2、6/8GB RAM，1.39 万印度卢比起](https://m.ithome.com/html/781652.htm)
 
++ [闪极碳纤维系列超薄移动电源 C1 开售：10000mAh+22.5W，299 元起](https://m.ithome.com/html/781665.htm)
+

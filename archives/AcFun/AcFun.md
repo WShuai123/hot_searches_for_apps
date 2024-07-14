@@ -137,3 +137,9 @@
 
 + [天气太热玩水真舒服](http://www.acfun.cn/v/ac45345166)
 
++ [【山竹】甜言蜜语，你的心却生长出獠牙 『ACFUN声唱2024参赛曲目』TEETH](http://www.acfun.cn/v/ac45346761)
+
++ [龙头我靓坤当定了《古惑仔》洪兴社团内部大危机！](http://www.acfun.cn/v/ac45347323)
+
++ [Tell Me](http://www.acfun.cn/v/ac45324889)
+

@@ -207,3 +207,11 @@
 
 + [微服务-注册中心](https://blog.csdn.net/weixin_45703155/article/details/140138467)
 
++ [Doping：使用精心设计的合成数据测试和评估异常检测器的技术](https://blog.csdn.net/m0_46510245/article/details/140413757)
+
++ [如何将已有的docker服务迁移至Kubernetes集群中](https://blog.csdn.net/weixin_43880061/article/details/140394535)
+
++ [k8s集群新增节点](https://blog.csdn.net/m0_48275578/article/details/140406044)
+
++ [开源科学工程技术软件](https://blog.csdn.net/yantuguiguziPGJ/article/details/140407927)
+
