@@ -143,3 +143,5 @@
 
 + [SpringBoot项目集成MinIO](https://blog.csdn.net/qq_66452396/article/details/140327743)
 
++ [[笔记] SEW的振动分析工具DUV40A](https://blog.csdn.net/twicave/article/details/137785241)
+

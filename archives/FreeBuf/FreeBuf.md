@@ -41,3 +41,7 @@
 
 + [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/405869.html)
+
++ [“游蛇”黑产团伙利用恶意文档进行钓鱼攻击活动分析](https://www.freebuf.com/articles/network/404937.html)
+

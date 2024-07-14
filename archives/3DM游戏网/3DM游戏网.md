@@ -101,3 +101,17 @@
 
 + [韩国人被重庆火锅吓到了：一座山都是店、世界最大！](https://www.3dmgame.com/news/202407/3899489.html)
 
++ [《Inn Tycoon》序章免费发布 客栈经营管理](https://www.3dmgame.com/news/202407/3899546.html)
+
++ [一念之差！经典游戏《生化奇兵》差点曾被取消 导演觉得不好卖](https://www.3dmgame.com/news/202407/3899545.html)
+
++ [《巫师4》将是CDPR有史以来最先进的游戏](https://www.3dmgame.com/news/202407/3899544.html)
+
++ [NVIDIA/SK hynix/台积电结盟 加速GPU和HBM4开发](https://www.3dmgame.com/news/202407/3899543.html)
+
++ [《恐鬼症》今年十月登陆主机 价格涨至19.99美元](https://www.3dmgame.com/news/202407/3899542.html)
+
++ [疑似《生化奇兵4》截图泄露 神秘建筑出现](https://www.3dmgame.com/news/202407/3899541.html)
+
++ [视觉小说《播种之谣》冬季推出 OP/截图分享](https://www.3dmgame.com/news/202407/3899540.html)
+

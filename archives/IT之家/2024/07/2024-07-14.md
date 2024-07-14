@@ -27,3 +27,9 @@
 
 + [长安马自达推出限时购车政策：CX-5 2.0L 舒适型 11.58 万元起，马自达 3 昂克赛拉 2.0L 自动挡 8.99 万元起](https://m.ithome.com/html/781624.htm)
 
++ [我国网络文学用户规模达 5.5 亿人，《庆余年》《斗破苍穹》《斗罗大陆》等 81 部网络小说入藏国家版本馆](https://m.ithome.com/html/781632.htm)
+
++ [微软官方轻量级 Win11 验证 OS 系统悄然更新至 24H2 版本](https://m.ithome.com/html/781608.htm)
+
++ [斯巴鲁新款 BRZ STI Sport 跑车上市：2.4L 水平对置发动机，29.98 万-30.98 万元](https://m.ithome.com/html/781606.htm)
+
