@@ -67,3 +67,5 @@
 
 + [消息称华为 MatePad 11.5"S 新增标准版 Tagore-W00D ：除屏幕、芯片外与柔光版保持一致，定价 2299 元](https://m.ithome.com/html/781714.htm)
 
++ [以旧换新低至 6044 元：苹果 iPhone 15 Pro 京东自营限时新低（限地区）](https://m.ithome.com/html/781727.htm)
+

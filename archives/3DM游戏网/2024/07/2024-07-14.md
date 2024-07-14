@@ -177,3 +177,7 @@
 
 + [V社员工总数曝光 负责Steam运营仅79人、大部分员工仍专注于开发游戏](https://www.3dmgame.com/news/202407/3899576.html)
 
++ [灾难片《龙卷风》烂番茄口碑出炉 近年来开分最高的灾难片](https://www.3dmgame.com/news/202407/3899579.html)
+
++ [《怪物猎人：荒野》新情报 玩家需密切观察周围环境](https://www.3dmgame.com/news/202407/3899578.html)
+
