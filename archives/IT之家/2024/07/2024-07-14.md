@@ -33,3 +33,5 @@
 
 + [斯巴鲁新款 BRZ STI Sport 跑车上市：2.4L 水平对置发动机，29.98 万-30.98 万元](https://m.ithome.com/html/781606.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT Beta 版第二批先锋用户开启推送，适配 Mate 60、X5 等机型](https://m.ithome.com/html/781647.htm)
+
