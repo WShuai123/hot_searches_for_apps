@@ -101,3 +101,15 @@
 
 + [Daminik](https://www.producthunt.com/posts/daminik)
 
++ [AI Web Designer](https://www.producthunt.com/posts/ai-web-designer)
+
++ [AI image extender](https://www.producthunt.com/posts/ai-image-extender)
+
++ [BlitzToksAI](https://www.producthunt.com/posts/blitztoksai)
+
++ [PngMaker.io: Convert Text to PNG Quickly](https://www.producthunt.com/posts/pngmaker-io-convert-text-to-png-quickly)
+
++ [Vocavo](https://www.producthunt.com/posts/vocavo)
+
++ [Booky](https://www.producthunt.com/posts/booky-4)
+

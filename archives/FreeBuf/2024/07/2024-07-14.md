@@ -51,3 +51,5 @@
 
 + [ebpf在开发板使用及绕过root检测](https://www.freebuf.com/articles/endpoint/404959.html)
 
++ [go-secdump：一款Windows注册表安全测试工具](https://www.freebuf.com/sectool/405573.html)
+
