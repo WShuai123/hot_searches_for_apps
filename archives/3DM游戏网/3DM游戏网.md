@@ -155,3 +155,11 @@
 
 + [《Moonless Moon》今夏Steam发售 声画互动新游](https://www.3dmgame.com/news/202407/3899564.html)
 
++ [《深岩银河》标志性口号改编单曲MV现已发布](https://www.3dmgame.com/news/202407/3899569.html)
+
++ [买台无人车替我打工跑网约车？政策法规还不允许](https://www.3dmgame.com/news/202407/3899570.html)
+
++ [Bungie前法律顾问介绍如何锁定《命运2》泄密人](https://www.3dmgame.com/news/202407/3899568.html)
+
++ [《日本漂移大师》延期至8月8日正式推出 日本舞台漂移故事](https://www.3dmgame.com/news/202407/3899567.html)
+

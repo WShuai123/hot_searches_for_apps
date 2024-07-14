@@ -177,3 +177,13 @@
 
 + [基于springboot+vue+uniapp的超市购物系统小程序](https://blog.csdn.net/shmp54/article/details/140408701)
 
++ [【人工智能】Transformers之Pipeline（一）：音频分类（audio-classification）](https://blog.csdn.net/weixin_48007632/article/details/140360594)
+
++ [小程序自学教程](https://blog.csdn.net/m0_67689541/article/details/140407272)
+
++ [Linux：Linux网络总结(附下载链接)](https://blog.csdn.net/qq_73899585/article/details/140407060)
+
++ [VUE的生命周期](https://blog.csdn.net/HHR_hr/article/details/140402723)
+
++ [时间轮算法理解、Kafka实现](https://blog.csdn.net/lonelymanontheway/article/details/126630191)
+

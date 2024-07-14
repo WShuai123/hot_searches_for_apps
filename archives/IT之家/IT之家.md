@@ -49,3 +49,5 @@
 
 + [奇瑞副总经理王琅：新能源汽车出海只卷价格不卷服务，对中国品牌形象影响不利](https://m.ithome.com/html/781582.htm)
 
++ [就在下周？小米 MIX Fold 4 / MIX Flip / K70 至尊版被曝 19 日发布](https://m.ithome.com/html/781682.htm)
+
