@@ -45,3 +45,7 @@
 
 + [“游蛇”黑产团伙利用恶意文档进行钓鱼攻击活动分析](https://www.freebuf.com/articles/network/404937.html)
 
++ [攻防演练 | 一次对某市级单位演习的总结学习](https://www.freebuf.com/defense/374008.html)
+
++ [浅谈进程隐藏技术](https://www.freebuf.com/articles/network/405372.html)
+

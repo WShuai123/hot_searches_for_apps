@@ -115,3 +115,7 @@
 
 + [视觉小说《播种之谣》冬季推出 OP/截图分享](https://www.3dmgame.com/news/202407/3899540.html)
 
++ [好评恐怖探索《Phasmophobia》主机版预定万圣节发售](https://www.3dmgame.com/news/202407/3899548.html)
+
++ [角色设计师爆料称《古惑狼5》开发项目已被取消](https://www.3dmgame.com/news/202407/3899547.html)
+
