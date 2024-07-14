@@ -187,3 +187,13 @@
 
 + [时间轮算法理解、Kafka实现](https://blog.csdn.net/lonelymanontheway/article/details/126630191)
 
++ [【机器学习】精准农业新纪元：机器学习引领的作物管理革命](https://blog.csdn.net/EterNity_TiMe_/article/details/140404103)
+
++ [Spark调度底层执行原理详解（第35天）](https://blog.csdn.net/syhiiu/article/details/140403200)
+
++ [【密码学】实现消息认证或数字签名的几种方式](https://blog.csdn.net/qq_39780701/article/details/140383372)
+
++ [YOLOv5白皮书-第Y6周：模型改进](https://blog.csdn.net/lihuhelihu/article/details/140391034)
+
++ [视频播放器的问题](https://blog.csdn.net/giaogege666/article/details/140407092)
+
