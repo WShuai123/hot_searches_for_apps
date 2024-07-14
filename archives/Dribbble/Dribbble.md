@@ -115,3 +115,17 @@
 
 + [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
 
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Dating Mobile IOS App Design Concept](https://dribbble.com/shots/)
+
++ [Product Design for eBook SaaS](https://dribbble.com/shots/)
+
++ [Cyber Security Logo Design - Shield / Guard / tech / technology](https://dribbble.com/shots/)
+
++ [Dimensional Delivery](https://dribbble.com/shots/)
+
++ [Creative Juice - AI Blogger Finance SaaS](https://dribbble.com/shots/)
+
++ [Call Wave - Meeting Page (Calendar)](https://dribbble.com/shots/)
+
