@@ -65,3 +65,5 @@
 
 + [闪极碳纤维系列超薄移动电源 C1 开售：10000mAh+22.5W，299 元起](https://m.ithome.com/html/781665.htm)
 
++ [消息称华为 MatePad 11.5"S 新增标准版 Tagore-W00D ：除屏幕、芯片外与柔光版保持一致，定价 2299 元](https://m.ithome.com/html/781714.htm)
+

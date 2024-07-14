@@ -173,3 +173,7 @@
 
 + [66岁男星亚历克·鲍德温片场过失杀人案被驳回](https://www.3dmgame.com/news/202407/3899574.html)
 
++ [赌城“巨球”能放16×16K分辨率视频：150块RTX A6000显卡](https://www.3dmgame.com/news/202407/3899577.html)
+
++ [V社员工总数曝光 负责Steam运营仅79人、大部分员工仍专注于开发游戏](https://www.3dmgame.com/news/202407/3899576.html)
+

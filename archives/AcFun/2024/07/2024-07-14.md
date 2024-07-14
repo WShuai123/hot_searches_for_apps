@@ -143,3 +143,13 @@
 
 + [Tell Me](http://www.acfun.cn/v/ac45324889)
 
++ [特朗普竞选集会现场发生枪击事件，特朗普称右耳上部中枪](http://www.acfun.cn/v/ac45345604)
+
++ [等下，死不了…不等就有可能会死.](http://www.acfun.cn/v/ac45345097)
+
++ [这属于无障碍交流了](http://www.acfun.cn/v/ac45345102)
+
++ [剪辑一下，掐头去尾给老板发过去](http://www.acfun.cn/v/ac45345130)
+
++ [猫贩子在高架桥上被网友拦路后，直接开笼放猫](http://www.acfun.cn/v/ac45345068)
+
