@@ -161,3 +161,9 @@
 
 + [2024 辽宁省大学数学建模竞赛C 题 改性生物碳对水中洛克沙胂和砷离子的吸附 完整思路 代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140399589)
 
++ [【Rust】——不安全Rust](https://blog.csdn.net/shsjssnn/article/details/136856699)
+
++ [HarmonyOS介绍](https://blog.csdn.net/sinat_34896766/article/details/140378817)
+
++ [Spark集群搭建](https://blog.csdn.net/m0_74120525/article/details/140408074)
+

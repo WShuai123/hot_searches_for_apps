@@ -49,3 +49,5 @@
 
 + [浅谈进程隐藏技术](https://www.freebuf.com/articles/network/405372.html)
 
++ [ebpf在开发板使用及绕过root检测](https://www.freebuf.com/articles/endpoint/404959.html)
+
