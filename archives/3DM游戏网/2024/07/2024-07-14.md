@@ -149,3 +149,9 @@
 
 + [提前观看《无主之地》电影版的观众评价并不积极](https://www.3dmgame.com/news/202407/3899562.html)
 
++ [《星际公民》免费试玩活动启动 还可获老玩家指导](https://www.3dmgame.com/news/202407/3899566.html)
+
++ [《极限竞速》过场动画负责人加盟《光环》工作室](https://www.3dmgame.com/news/202407/3899565.html)
+
++ [《Moonless Moon》今夏Steam发售 声画互动新游](https://www.3dmgame.com/news/202407/3899564.html)
+

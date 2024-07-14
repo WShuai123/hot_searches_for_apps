@@ -53,3 +53,5 @@
 
 + [go-secdump：一款Windows注册表安全测试工具](https://www.freebuf.com/sectool/405573.html)
 
++ [企业安全之SDL体系初步探索](https://www.freebuf.com/articles/es/373784.html)
+

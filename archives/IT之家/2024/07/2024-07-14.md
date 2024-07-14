@@ -41,3 +41,11 @@
 
 + [特斯拉为美国 Model Y 标准续航后驱版推出“能量升级包”，1600 美元解锁 50 英里续航](https://m.ithome.com/html/781573.htm)
 
++ [纯电 A6 姗姗来迟，奥迪 CEO 确认 A6 e-tron 轿车、旅行车本月内发布](https://m.ithome.com/html/781592.htm)
+
++ [工信部罗道军：中国拥有最大新能源车产能，但芯片自给率不到 10%](https://m.ithome.com/html/781611.htm)
+
++ [AMD 锐龙 9 9900X 处理器 Geekbench 6 跑分刷新：多核 22026 分相比前代提升 23.4%](https://m.ithome.com/html/781617.htm)
+
++ [奇瑞副总经理王琅：新能源汽车出海只卷价格不卷服务，对中国品牌形象影响不利](https://m.ithome.com/html/781582.htm)
+
