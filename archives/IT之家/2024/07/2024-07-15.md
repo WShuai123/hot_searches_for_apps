@@ -29,3 +29,5 @@
 
 + [取消怀挡，新款特斯拉 Model Y 内饰及车头造型曝光](https://m.ithome.com/html/781737.htm)
 
++ [芯片信息解禁，华为线下销售渠道可介绍 Mate60 等手机麒麟处理器型号](https://m.ithome.com/html/781763.htm)
+
