@@ -27,3 +27,5 @@
 
 + [油耗降低，新款比亚迪宋 PLUS DM-i 本月底左右发布](https://m.ithome.com/html/781726.htm)
 
++ [取消怀挡，新款特斯拉 Model Y 内饰及车头造型曝光](https://m.ithome.com/html/781737.htm)
+
