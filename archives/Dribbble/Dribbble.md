@@ -151,3 +151,19 @@
 
 + [Hank's Logotype](https://dribbble.com/shots/)
 
++ [Logo Concept for a web3 Fintech app](https://dribbble.com/shots/)
+
++ [data analytic, web3, fintech logo, software logo](https://dribbble.com/shots/)
+
++ [Mihost - Logo Design](https://dribbble.com/shots/)
+
++ [IDBOX I Letter logo design](https://dribbble.com/shots/)
+
++ [Online shopping logo, cart logo, shopping logo](https://dribbble.com/shots/)
+
++ [Logo design, tech logo, technology logo, brand identity](https://dribbble.com/shots/)
+
++ [Probit Logo Design](https://dribbble.com/shots/)
+
++ [Class life logo design. Fashion logo with c l letter.](https://dribbble.com/shots/)
+

@@ -167,3 +167,13 @@
 
 + [Spark集群搭建](https://blog.csdn.net/m0_74120525/article/details/140408074)
 
++ [Datawhale AI夏令营- 讯飞机器翻译挑战赛baseline解析](https://blog.csdn.net/qq_60489376/article/details/140395962)
+
++ [SpringMVC的架构有什么优势？——控制器（三）](https://blog.csdn.net/qq_59224200/article/details/140376129)
+
++ [初学SpringMVC之 Ajax 篇](https://blog.csdn.net/m0_58838332/article/details/140399924)
+
++ [微信小程序如何实现登陆和注册功能?](https://blog.csdn.net/2301_77628600/article/details/140323627)
+
++ [基于springboot+vue+uniapp的超市购物系统小程序](https://blog.csdn.net/shmp54/article/details/140408701)
+
