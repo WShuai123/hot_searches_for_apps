@@ -101,3 +101,21 @@
 
 + [开源科学工程技术软件](https://blog.csdn.net/yantuguiguziPGJ/article/details/140407927)
 
++ [elasticsearch性能调优方法原理与实战](https://blog.csdn.net/qq_26664043/article/details/140422805)
+
++ [论图像边界点的提取](https://blog.csdn.net/LJM1200/article/details/140389930)
+
++ [【机器学习】线性判别分析（LDA）：从理论到实践](https://blog.csdn.net/qq_44214428/article/details/140235009)
+
++ [数据恢复篇：适用于 Android 的恢复工具](https://blog.csdn.net/Geeker55/article/details/140398556)
+
++ [2024 辽宁省大学数学建模竞赛C 题 改性生物碳对水中洛克沙胂和砷离子的吸附 完整思路 代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140399589)
+
++ [政务数据治理的十大误区或问题](https://blog.csdn.net/Jacky_kplin/article/details/140401164)
+
++ [系统架构师考点--软件工程（上）](https://blog.csdn.net/qq_41534540/article/details/140406881)
+
++ [视频播放器的问题](https://blog.csdn.net/giaogege666/article/details/140407092)
+
++ [微服务-注册中心](https://blog.csdn.net/weixin_45703155/article/details/140138467)
+
