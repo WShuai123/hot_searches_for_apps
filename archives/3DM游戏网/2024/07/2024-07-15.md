@@ -105,3 +105,13 @@
 
 + [继《血源》后 PS4模拟器现可进入《荒野大镖客：重制版》](https://www.3dmgame.com/news/202407/3899581.html)
 
++ [消息称任天堂神秘新作《笑脸男》并非恐怖游戏](https://www.3dmgame.com/news/202407/3899587.html)
+
++ [宣布涨价之后微软又要限制XGP叠加购买时长](https://www.3dmgame.com/news/202407/3899586.html)
+
++ [8月16日上映电影《异形：夺命舰》新片段首曝](https://www.3dmgame.com/news/202407/3899585.html)
+
++ [Switch版《皇牌空战7》经过两年开发和反复优化](https://www.3dmgame.com/news/202407/3899584.html)
+
++ [《塞尔达传说：智慧的再现》确认林克可操控](https://www.3dmgame.com/news/202407/3899583.html)
+
