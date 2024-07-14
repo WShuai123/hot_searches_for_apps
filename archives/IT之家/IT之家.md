@@ -35,3 +35,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT Beta 版第二批先锋用户开启推送，适配 Mate 60、X5 等机型](https://m.ithome.com/html/781647.htm)
 
++ [欧盟将就中国电动汽车征收关税发起表决，消息称德国拟投弃权票](https://m.ithome.com/html/781599.htm)
+

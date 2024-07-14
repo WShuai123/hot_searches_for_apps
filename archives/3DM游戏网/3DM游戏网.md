@@ -133,3 +133,11 @@
 
 + [樱井对《任天堂明星大乱斗X》动画泄露仍耿耿于怀](https://www.3dmgame.com/news/202407/3899549.html)
 
++ [《星尘战线》8月30日Steam抢测 牌组构建太空探索](https://www.3dmgame.com/news/202407/3899559.html)
+
++ [游戏总监表示《宣誓》叙事风格更接近《永恒之柱》](https://www.3dmgame.com/news/202407/3899558.html)
+
++ [开发者承认《巫师3》中对猎魔人感官功能使用过度](https://www.3dmgame.com/news/202407/3899557.html)
+
++ [司机等红灯玩手机被狠罚引热议 官方回应就是违法](https://www.3dmgame.com/news/202407/3899556.html)
+

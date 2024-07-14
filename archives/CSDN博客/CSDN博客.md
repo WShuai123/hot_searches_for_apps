@@ -155,3 +155,9 @@
 
 + [低代码商城构建专家：Mall-Cook](https://blog.csdn.net/2401_83063795/article/details/140394180)
 
++ [深度学习 | Transformer 基本原理](https://blog.csdn.net/m0_64140451/article/details/140395012)
+
++ [【vue教程】二. Vue特性原理详解](https://blog.csdn.net/cdns_1/article/details/140396973)
+
++ [2024 辽宁省大学数学建模竞赛C 题 改性生物碳对水中洛克沙胂和砷离子的吸附 完整思路 代码结果分享（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140399589)
+
