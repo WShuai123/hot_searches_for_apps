@@ -101,3 +101,7 @@
 
 + [Memberlib](https://www.producthunt.com/posts/memberlib)
 
++ [Datech ShopSync](https://www.producthunt.com/posts/datech-shopsync)
+
++ [Shine Diary](https://www.producthunt.com/posts/shine-diary)
+

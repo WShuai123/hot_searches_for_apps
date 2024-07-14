@@ -101,3 +101,7 @@
 
 + [游戏开发商暗示《真人快打》复刻版或正在开发中](https://www.3dmgame.com/news/202407/3899530.html)
 
++ [今天是FC红白机诞生40周年！](https://www.3dmgame.com/news/202407/3899582.html)
+
++ [继《血源》后 PS4模拟器现可进入《荒野大镖客：重制版》](https://www.3dmgame.com/news/202407/3899581.html)
+

@@ -25,3 +25,5 @@
 
 + [消息称三星 Galaxy S25 Ultra 手机将采用全新边框设计，提升握持手感](https://m.ithome.com/html/781705.htm)
 
++ [油耗降低，新款比亚迪宋 PLUS DM-i 本月底左右发布](https://m.ithome.com/html/781726.htm)
+
