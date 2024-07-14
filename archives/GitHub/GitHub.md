@@ -29,3 +29,31 @@
 
 + [flutter / flutter](https://github.com/flutter/flutter)
 
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
+
++ [iptv-org / iptv](https://github.com/iptv-org/iptv)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
+
++ [python / cpython](https://github.com/python/cpython)
+
++ [oven-sh / bun](https://github.com/oven-sh/bun)
+
++ [modularml / mojo](https://github.com/modularml/mojo)
+
++ [termux / termux-packages](https://github.com/termux/termux-packages)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
++ [OI-wiki / OI-wiki](https://github.com/OI-wiki/OI-wiki)
+

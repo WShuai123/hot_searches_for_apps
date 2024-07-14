@@ -57,3 +57,5 @@
 
 + [小米王腾开箱 Redmi K70 至尊版，冰璃、晴雪、墨羽真机齐亮相](https://m.ithome.com/html/781697.htm)
 
++ [美国农村运营商拆除华为、中兴设备遇阻：钱不够了](https://m.ithome.com/html/781698.htm)
+
