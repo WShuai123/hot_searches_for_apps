@@ -43,3 +43,29 @@
 
 + [OI-wiki / OI-wiki](https://github.com/OI-wiki/OI-wiki)
 
++ [binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic)
+
++ [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [DiceDB / dice](https://github.com/DiceDB/dice)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [PCSX2 / pcsx2](https://github.com/PCSX2/pcsx2)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [helix-editor / helix](https://github.com/helix-editor/helix)
+
++ [neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
+
++ [pytube / pytube](https://github.com/pytube/pytube)
+
++ [ish-app / ish](https://github.com/ish-app/ish)
+
++ [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+

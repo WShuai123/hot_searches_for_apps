@@ -205,3 +205,7 @@
 
 + [硬件开发笔记（二十六）：AD21导入电感原理图库、封装库和3D模型](https://blog.csdn.net/qq21497936/article/details/140437290)
 
++ [爬虫学习 | 01 Web Scraper的使用](https://blog.csdn.net/m0_74113296/article/details/140438104)
+
++ [板级调试小助手（2）ZYNQ自定义IP核构建属于自己的DDS外设](https://blog.csdn.net/qq_24025329/article/details/140413702)
+
