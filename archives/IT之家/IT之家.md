@@ -25,3 +25,5 @@
 
 + [比亚迪宋 L DM-i 高清座舱视频公布，棕色内饰搭配水晶档把](https://m.ithome.com/html/781848.htm)
 
++ [“鸿蒙 PC 版”现身华为开发者官网：顶部显示状态栏、底部应用 Dock 栏](https://m.ithome.com/html/781995.htm)
+
