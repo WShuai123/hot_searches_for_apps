@@ -35,3 +35,5 @@
 
 + [限时优惠价 6.08 万元起，吉利缤越超能版上市](https://m.ithome.com/html/781738.htm)
 
++ [英伟达 RTX 50 系独立显卡现身海韵官网功率计算器：TDP 功耗上涨](https://m.ithome.com/html/781761.htm)
+
