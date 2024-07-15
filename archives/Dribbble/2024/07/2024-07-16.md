@@ -127,3 +127,13 @@
 
 + [Online Avatar Store Site](https://dribbble.com/shots/)
 
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [Cards For "Imaginarium" Board Game](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Chippy & Co Fish the Driftless](https://dribbble.com/shots/)
+
