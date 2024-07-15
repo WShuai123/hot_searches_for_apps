@@ -171,3 +171,15 @@
 
 + [网络编程笔记](https://blog.csdn.net/wjlo1/article/details/140428964)
 
++ [nginx的正向代理和反向代理](https://blog.csdn.net/s320721/article/details/140416230)
+
++ [【React】React18 Hooks 之memo、useCallback](https://blog.csdn.net/qq_38951259/article/details/140289598)
+
++ [大数据之路 读书笔记 Day5 数据同步遇到的问题与解决方案](https://blog.csdn.net/weixin_64259675/article/details/140423695)
+
++ [线性代数|机器学习-P24加速梯度下降(动量法)](https://blog.csdn.net/scar2016/article/details/140393244)
+
++ [「网络通信」HTTP 协议](https://blog.csdn.net/Ice_Sugar_7/article/details/140401635)
+
++ [易懂的吉文斯（Givens）变换（一）](https://blog.csdn.net/qq_34022877/article/details/140409133)
+

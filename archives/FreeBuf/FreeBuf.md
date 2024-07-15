@@ -51,3 +51,11 @@
 
 + [渗透测试 | 中间人劫持深入剖析](https://www.freebuf.com/articles/network/405704.html)
 
++ [并购新纪录！Google将豪掷230亿美金震撼收购Wiz！](https://www.freebuf.com/news/406013.html)
+
++ [VSRC，邀你加入暑期计划！](https://www.freebuf.com/fevents/406012.html)
+
++ [迪士尼疑遭黑客入侵，1.2 TB 数据泄露](https://www.freebuf.com/news/406006.html)
+
++ [万万没想到，这类隐秘的“漏洞”才是黑客最喜欢的攻击目标](https://www.freebuf.com/articles/neopoints/405974.html)
+
