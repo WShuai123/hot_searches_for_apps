@@ -59,3 +59,5 @@
 
 + [华为官宣鸿蒙原生游戏参展 2024 ChinaJoy，7 月 26 日开幕](https://m.ithome.com/html/781806.htm)
 
++ [中国联通开测 WiFi 通话：小程序已上线、受邀用户可体验](https://m.ithome.com/html/781803.htm)
+
