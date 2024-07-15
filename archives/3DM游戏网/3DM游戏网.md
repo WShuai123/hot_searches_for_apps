@@ -139,3 +139,13 @@
 
 + [《异形：火力小队2》泄露 计划2025年第三季度发售](https://www.3dmgame.com/news/202407/3899588.html)
 
++ [万代推高端圣斗士黄金圣衣神话瞬全新手办 金光耀眼精致传神](https://www.3dmgame.com/news/202407/3899604.html)
+
++ [《七日世界》Steam同时在线峰值超23万 是首发两倍](https://www.3dmgame.com/news/202407/3899601.html)
+
++ [《上古卷轴5》设计师：开放世界游戏越来越乏味 让玩家没热情](https://www.3dmgame.com/news/202407/3899603.html)
+
++ [《博德之门3》获奖太多领不过来 拉瑞安游戏开发受影响](https://www.3dmgame.com/news/202407/3899602.html)
+
++ [治愈系冒险建造游戏《最后的炼金术师》现已在Steam平台正式推出](https://www.3dmgame.com/news/202407/3899600.html)
+

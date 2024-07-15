@@ -47,3 +47,5 @@
 
 + [应急响应 | Windows取证速查：一文搞定取证流程](https://www.freebuf.com/articles/web/405135.html)
 
++ [黑客在发布后 22 分钟在攻击中使用 PoC 漏洞](https://www.freebuf.com/news/405964.html)
+

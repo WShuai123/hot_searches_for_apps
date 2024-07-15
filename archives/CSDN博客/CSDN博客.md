@@ -151,3 +151,7 @@
 
 + [10th NVIDIA Sky Hackathon 参赛记录——构建适用性更广的RAG应用](https://blog.csdn.net/mingzhu0788/article/details/140419808)
 
++ [MySQL 进阶（三）【SQL 优化】](https://blog.csdn.net/m0_64261982/article/details/140382352)
+
++ [深度学习复盘与论文复现D](https://blog.csdn.net/QuantumYou/article/details/140364330)
+

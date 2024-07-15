@@ -31,3 +31,5 @@
 
 + [芯片信息解禁，华为线下销售渠道可介绍 Mate60 等手机麒麟处理器型号](https://m.ithome.com/html/781763.htm)
 
++ [方便面因太辣遭封杀，吃辣背后有许多科学](https://m.ithome.com/html/781730.htm)
+
