@@ -115,3 +115,27 @@
 
 + [《塞尔达传说：智慧的再现》确认林克可操控](https://www.3dmgame.com/news/202407/3899583.html)
 
++ [《刺客信条：影》将出环保纸质包装版本 藏经阁发贺电](https://www.3dmgame.com/news/202407/3899599.html)
+
++ [CDPR总监：制作《往日之影》就像是开发团队集体治疗](https://www.3dmgame.com/news/202407/3899595.html)
+
++ [Steam格斗游戏节提前举行 7月16日凌晨1点开启](https://www.3dmgame.com/news/202407/3899597.html)
+
++ [开放世界生存制作游戏《探矿者》已在Steam平台推出免费序章 获特别好评](https://www.3dmgame.com/news/202407/3899598.html)
+
++ [《幸福工厂》正式版前最终更新公布 好评工厂建设名作](https://www.3dmgame.com/news/202407/3899596.html)
+
++ [《赛博朋克 2077》续作总监任职前曾以为自己会被CDPR解雇](https://www.3dmgame.com/news/202407/3899594.html)
+
++ [玩家热情不减 《GTA6》首爆预告播放量已超2亿](https://www.3dmgame.com/news/202407/3899593.html)
+
++ [电竞世界杯《DOTA2》项目 LGD和XG双双晋级淘汰赛](https://www.3dmgame.com/news/202407/3899592.html)
+
++ [CDPR游戏总监：开发用AI省钱 将会导致游戏质量下降](https://www.3dmgame.com/news/202407/3899590.html)
+
++ [高玩公开蒙眼速通《塞尔达：王国之泪》心得流程 超细一图流](https://www.3dmgame.com/news/202407/3899591.html)
+
++ [RTX 50系列显卡功耗曝光 5090最高、5050最低](https://www.3dmgame.com/news/202407/3899589.html)
+
++ [《异形：火力小队2》泄露 计划2025年第三季度发售](https://www.3dmgame.com/news/202407/3899588.html)
+

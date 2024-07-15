@@ -45,3 +45,5 @@
 
 + [安全编排自动化响应SOAR项目实践总结 | 应用场景拓展](https://www.freebuf.com/articles/es/405098.html)
 
++ [应急响应 | Windows取证速查：一文搞定取证流程](https://www.freebuf.com/articles/web/405135.html)
+
