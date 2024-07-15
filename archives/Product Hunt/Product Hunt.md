@@ -153,3 +153,5 @@
 
 + [Beeyond AI](https://www.producthunt.com/posts/beeyondai)
 
++ [CoLoyalty](https://www.producthunt.com/posts/coloyalty)
+
