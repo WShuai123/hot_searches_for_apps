@@ -125,3 +125,7 @@
 
 + [HTTP背后的故事：理解现代网络如何工作的关键（一）](https://blog.csdn.net/LHY537200/article/details/140418697)
 
++ [新时代多目标优化【数学建模】领域的极致探索——数学规划模型](https://blog.csdn.net/2303_77720864/article/details/140447838)
+
++ [【无人机三维路径规划】基于新型智能优化算法实现复杂山地环境下无人机航路规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/140435473)
+

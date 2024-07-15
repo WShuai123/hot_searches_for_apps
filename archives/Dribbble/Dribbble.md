@@ -59,3 +59,51 @@
 
 + [22/32 – Montana Silvertips](https://dribbble.com/shots/)
 
++ [Metal Gear Sahelanthropus](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [FCDC - Brand ID Assets](https://dribbble.com/shots/)
+
++ [Unused illustration ????](https://dribbble.com/shots/)
+
++ [Casa Bella](https://dribbble.com/shots/)
+
++ [Tarot card #19 - The Sun - Daily Vector Art](https://dribbble.com/shots/)
+
++ [Sun Motter Typeface](https://dribbble.com/shots/)
+
++ [Stirred & Spirit Forward](https://dribbble.com/shots/)
+
++ [You cant win if you dont play!](https://dribbble.com/shots/)
+
++ [Sorry](https://dribbble.com/shots/)
+
++ [Stay Mystic](https://dribbble.com/shots/)
+
++ [Crowded subway car](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [15000 subscribers](https://dribbble.com/shots/)
+
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Hope you are staying cool ????](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Be Balanced](https://dribbble.com/shots/)
+
++ [⛓️](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [corner](https://dribbble.com/shots/)
+
++ [Ready to go](https://dribbble.com/shots/)
+
++ [Just about McF***in' had it ????????](https://dribbble.com/shots/)
+
