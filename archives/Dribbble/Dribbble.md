@@ -225,3 +225,15 @@
 
 + [V letter Logo](https://dribbble.com/shots/)
 
++ [Triceratops Dino](https://dribbble.com/shots/)
+
++ [Sprout](https://dribbble.com/shots/)
+
++ [apparte - webdesign](https://dribbble.com/shots/)
+
++ [Ternary - Homepage](https://dribbble.com/shots/)
+
++ [Wishlist app](https://dribbble.com/shots/)
+
++ [Starbase Martini & Mule](https://dribbble.com/shots/)
+

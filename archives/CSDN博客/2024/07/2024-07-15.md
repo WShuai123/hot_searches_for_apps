@@ -189,3 +189,17 @@
 
 + [【Django+Vue3 线上教育平台项目实战】构建课程详情页与集成视频播放功能](https://blog.csdn.net/m0_48173416/article/details/140386676)
 
++ [智能化革新：智能AI如何助力生产力发展的未来与应用](https://blog.csdn.net/qq_57761637/article/details/140434103)
+
++ [【Elasticsearch】Elasticsearch的分片和副本机制](https://blog.csdn.net/a1657054242/article/details/140437161)
+
++ [【数学建模】——【线性规划】及其在资源优化中的应用](https://blog.csdn.net/2303_77720864/article/details/140425540)
+
++ [openGauss存储过程创建及应用](https://blog.csdn.net/GaussDB/article/details/140437636)
+
++ [基于springboot+vue+uniapp的高校就业招聘系统小程序](https://blog.csdn.net/shmp54/article/details/140421728)
+
++ [第四章 计算机网络技术](https://blog.csdn.net/qq_52200849/article/details/140400833)
+
++ [根据vue学习react](https://blog.csdn.net/by_side_with_sun/article/details/140413098)
+

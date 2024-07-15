@@ -67,3 +67,7 @@
 
 + [仅需22分钟，刚公开的漏洞PoC就被黑客利用](https://www.freebuf.com/news/405964.html)
 
++ [招聘！桔子数科招人啦！](https://www.freebuf.com/news/406042.html)
+
++ [万万没想到，这类隐秘的“漏洞”才是黑客最喜欢的目标](https://www.freebuf.com/articles/neopoints/405974.html)
+
