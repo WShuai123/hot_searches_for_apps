@@ -47,3 +47,7 @@
 
 + [老人被中国移动多收 8 年来电显示费引热议，每月 6 元累计费用无法退回](https://m.ithome.com/html/781847.htm)
 
++ [小米王化回应网传 SU8 汽车渲染图：没有 SU8，假的！](https://m.ithome.com/html/781857.htm)
+
++ [华为 AITO 联合设计，赛力斯问界 M9 汽车中汽 C-NCAP 评测结果公布：综合得分率 93.9%、八项成绩排名评测前 20%](https://m.ithome.com/html/781839.htm)
+
