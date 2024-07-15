@@ -155,3 +155,11 @@
 
 + [深度学习复盘与论文复现D](https://blog.csdn.net/QuantumYou/article/details/140364330)
 
++ [【OrangePi AIpro】: 探索AI加成的开源硬件魅力](https://blog.csdn.net/qq_44214428/article/details/140425320)
+
++ [中间件——Kafka](https://blog.csdn.net/weixin_44040169/article/details/140404784)
+
++ [Android-- 集成谷歌地图](https://blog.csdn.net/wulong756273/article/details/140415528)
+
++ [自动驾驶-2D目标检测](https://blog.csdn.net/qq_36372352/article/details/140421690)
+
