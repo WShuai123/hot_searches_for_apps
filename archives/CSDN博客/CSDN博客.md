@@ -185,3 +185,7 @@
 
 + [机器人及其相关工科专业课程体系](https://blog.csdn.net/weixin_41628708/article/details/120575854)
 
++ [【机器学习】机器学习与图像分类的融合应用与性能优化新探索](https://blog.csdn.net/Easonmax/article/details/140156956)
+
++ [【Django+Vue3 线上教育平台项目实战】构建课程详情页与集成视频播放功能](https://blog.csdn.net/m0_48173416/article/details/140386676)
+

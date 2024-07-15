@@ -61,3 +61,9 @@
 
 + [PingRAT：一款基于ICMP的隐蔽型C2流量转发工具](https://www.freebuf.com/sectool/405585.html)
 
++ [攻防演练 | 记一些常用的反制红队CS的思路](https://www.freebuf.com/articles/web/375072.html)
+
++ [迪士尼疑遭黑客入侵，1.1 TiB 数据泄露](https://www.freebuf.com/news/406006.html)
+
++ [仅需22分钟，刚公开的漏洞PoC就被黑客利用](https://www.freebuf.com/news/405964.html)
+

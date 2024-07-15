@@ -39,3 +39,9 @@
 
 + [累计 667 款，今年 6 月新增 47 款产品通过 OpenHarmony 兼容性测评：含华为 Mate60 手机、MatePad Pro 13.2 平板](https://m.ithome.com/html/781762.htm)
 
++ [基于 800V 架构、配激光雷达，比亚迪海豹 07 EV 将于 8 月初发布](https://m.ithome.com/html/781723.htm)
+
++ [Valve 员工数和薪酬数据曝光：2021 年 Steam 团队仅 79 人，行政人员总年薪超 1.5 亿美元](https://m.ithome.com/html/781710.htm)
+
++ [137 个中国电动汽车品牌将迎来大洗牌，分析师称到 2030 年只有 1/7 能盈利](https://m.ithome.com/html/781757.htm)
+
