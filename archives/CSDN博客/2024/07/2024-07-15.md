@@ -209,3 +209,5 @@
 
 + [板级调试小助手（2）ZYNQ自定义IP核构建属于自己的DDS外设](https://blog.csdn.net/qq_24025329/article/details/140413702)
 
++ [python爬虫学习（三十四天）](https://blog.csdn.net/2201_75809246/article/details/140421813)
+

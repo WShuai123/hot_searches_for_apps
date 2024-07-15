@@ -51,3 +51,11 @@
 
 + [华为 AITO 联合设计，赛力斯问界 M9 汽车中汽 C-NCAP 评测结果公布：综合得分率 93.9%、八项成绩排名评测前 20%](https://m.ithome.com/html/781839.htm)
 
++ [赛博毛豆？特斯拉上架毛豆造型创意贴，3 个定价 99 元](https://m.ithome.com/html/781841.htm)
+
++ [耳机、手环、手表有望本周登场，小米王腾预热发布会：除手机外还有新品](https://m.ithome.com/html/781797.htm)
+
++ [马斯克自曝猛料：过去 8 个月曾遭遇两次暗杀](https://m.ithome.com/html/781875.htm)
+
++ [华为官宣鸿蒙原生游戏参展 2024 ChinaJoy，7 月 26 日开幕](https://m.ithome.com/html/781806.htm)
+

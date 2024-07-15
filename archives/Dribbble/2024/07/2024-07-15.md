@@ -249,3 +249,9 @@
 
 + [Rocketech - Fintech Logo & Branding](https://dribbble.com/shots/)
 
++ [Quinn](https://dribbble.com/shots/)
+
++ [Ganttify - Website Design](https://dribbble.com/shots/)
+
++ [Website for Manufacturing Brand](https://dribbble.com/shots/)
+
