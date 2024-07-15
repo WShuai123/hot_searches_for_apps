@@ -27,3 +27,5 @@
 
 + [“鸿蒙 PC 版”现身华为开发者官网：顶部显示状态栏、底部应用 Dock 栏](https://m.ithome.com/html/781995.htm)
 
++ [华为余承东：自己常挨任正非批评，闻过则喜才能快速改进问题](https://m.ithome.com/html/781984.htm)
+

@@ -129,3 +129,11 @@
 
 + [【无人机三维路径规划】基于新型智能优化算法实现复杂山地环境下无人机航路规划附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/140435473)
 
++ [OpenCV开发笔记（七十八）：在ubuntu上搭建opencv+python开发环境以及匹配识别Demo](https://blog.csdn.net/qq21497936/article/details/140435870)
+
++ [【详解】Spring Cloud概述](https://blog.csdn.net/m0_65465009/article/details/140443109)
+
++ [OSPF综合实验](https://blog.csdn.net/Crrrrrr9/article/details/140416761)
+
++ [Uniapp2.0接入客户端的优势](https://blog.csdn.net/weixin_38344204/article/details/140445274)
+
