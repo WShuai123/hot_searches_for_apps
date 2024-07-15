@@ -101,3 +101,27 @@
 
 + [线性代数|机器学习-P24加速梯度下降(动量法)](https://blog.csdn.net/scar2016/article/details/140393244)
 
++ [【Qt】信号与槽](https://blog.csdn.net/hsjsiwkwm/article/details/140444112)
+
++ [openGauss存储过程创建及应用](https://blog.csdn.net/GaussDB/article/details/140437636)
+
++ [Transformer中高级位置编码的介绍和比较：Linear Rope、NTK、YaRN、CoPE](https://blog.csdn.net/m0_46510245/article/details/140430972)
+
++ [[MySQL][表的约束][二][主键][自增长][唯一键][外键]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140412298)
+
++ [网络运输层之(2)UDP协议](https://blog.csdn.net/Once_day/article/details/140449330)
+
++ [「网络通信」HTTP 协议](https://blog.csdn.net/Ice_Sugar_7/article/details/140401635)
+
++ [【扣子coze+微信开发者工具】实现ai自定义对话03：微信小程序js逻辑和接口实现](https://blog.csdn.net/qq_54413078/article/details/140449053)
+
++ [构建实用的NLP应用程序：重塑人类与计算机的协同工作方式](https://blog.csdn.net/qq_32682301/article/details/140442078)
+
++ [【从0到1进阶Redis】主从复制](https://blog.csdn.net/ALiangSev/article/details/140398582)
+
++ [外包干了1个月，技术明显退步。。。](https://blog.csdn.net/HUA6911/article/details/140442989)
+
++ [开源PHP论坛HadSky本地部署与配置公网地址实现远程访问](https://blog.csdn.net/YYDsis/article/details/140393001)
+
++ [HTTP背后的故事：理解现代网络如何工作的关键（一）](https://blog.csdn.net/LHY537200/article/details/140418697)
+
