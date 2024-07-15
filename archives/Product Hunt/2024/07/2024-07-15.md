@@ -105,3 +105,47 @@
 
 + [Shine Diary](https://www.producthunt.com/posts/shine-diary)
 
++ [PricingTurbo.](https://www.producthunt.com/posts/pricingturbo)
+
++ [CheckPlug](https://www.producthunt.com/posts/checkplug)
+
++ [shovel](https://www.producthunt.com/posts/shovel-2)
+
++ [UTM SE](https://www.producthunt.com/posts/utm-se)
+
++ [Mail Rocket](https://www.producthunt.com/posts/mail-rocket)
+
++ [CPS Test](https://www.producthunt.com/posts/cps-test-7)
+
++ [Brick Photos](https://www.producthunt.com/posts/brick-photos)
+
++ [Stop copycats](https://www.producthunt.com/posts/stop-copycats)
+
++ [Cellular Speed Tests](https://www.producthunt.com/posts/cellular-speed-tests)
+
++ [Sourcer AI](https://www.producthunt.com/posts/sourcer-ai)
+
++ [WeInstaReply](https://www.producthunt.com/posts/weinstareply)
+
++ [Clean Inbox for Gmail™](https://www.producthunt.com/posts/clean-inbox-for-gmail)
+
++ [FAQPopup](https://www.producthunt.com/posts/faqpopup)
+
++ [GridStats.Pro](https://www.producthunt.com/posts/gridstats-pro)
+
++ [Project Atlas Desktop](https://www.producthunt.com/posts/project-atlas-desktop)
+
++ [Sugar Free: Food Scanner](https://www.producthunt.com/posts/sugar-free-food-scanner)
+
++ [Mailfox](https://www.producthunt.com/posts/mailfox)
+
++ [Aquireside](https://www.producthunt.com/posts/aquireside)
+
++ [X Feed Muter](https://www.producthunt.com/posts/x-feed-muter)
+
++ [Sage Marketer (Beta)](https://www.producthunt.com/posts/sage-marketer-beta)
+
++ [SeaTable 5.0](https://www.producthunt.com/posts/seatable-5-0)
+
++ [Shadow](https://www.producthunt.com/posts/shadow-4564a43c-70ae-478d-945c-eec410d105ab)
+

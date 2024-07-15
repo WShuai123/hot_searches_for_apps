@@ -37,3 +37,5 @@
 
 + [英伟达 RTX 50 系独立显卡现身海韵官网功率计算器：TDP 功耗上涨](https://m.ithome.com/html/781761.htm)
 
++ [累计 667 款，今年 6 月新增 47 款产品通过 OpenHarmony 兼容性测评：含华为 Mate60 手机、MatePad Pro 13.2 平板](https://m.ithome.com/html/781762.htm)
+

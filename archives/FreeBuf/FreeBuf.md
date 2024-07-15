@@ -59,3 +59,5 @@
 
 + [万万没想到，这类隐秘的“漏洞”才是黑客最喜欢的攻击目标](https://www.freebuf.com/articles/neopoints/405974.html)
 
++ [PingRAT：一款基于ICMP的隐蔽型C2流量转发工具](https://www.freebuf.com/sectool/405585.html)
+
