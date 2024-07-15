@@ -213,3 +213,9 @@
 
 + [Python从0到100（四十）：Web开发简介-从前端到后端（文末免费送书）](https://blog.csdn.net/weixin_51390582/article/details/140270859)
 
++ [【超音速 专利 CN117576413A】基于全连接网络分类模型的AI涂布抓边处理方法及系统](https://blog.csdn.net/he_zhidan/article/details/140394092)
+
++ [【密码学】密码协议](https://blog.csdn.net/qq_39780701/article/details/140421587)
+
++ [微信小游戏 彩色试管 倒水游戏 逻辑 （二）](https://blog.csdn.net/heyuchang666/article/details/140436075)
+
