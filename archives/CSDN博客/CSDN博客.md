@@ -101,3 +101,37 @@
 
 + [【扣子coze+微信开发者工具】实现ai自定义对话03：微信小程序js逻辑和接口实现](https://blog.csdn.net/qq_54413078/article/details/140449053)
 
++ [【机器学习】精准农业新纪元：机器学习引领的作物管理革命](https://blog.csdn.net/EterNity_TiMe_/article/details/140404103)
+
++ [领航Linux UDP：构建高效网络新纪元](https://blog.csdn.net/2301_79181030/article/details/140466028)
+
++ [Python从0到100（四十）：Web开发简介-从前端到后端（文末免费送书）](https://blog.csdn.net/weixin_51390582/article/details/140270859)
+
++ [使用Keepalived实现双机热备(虚拟漂移IP地址)详细介绍](https://blog.csdn.net/jxjdhdnd/article/details/140438408)
+
++ [人工智能伦理与隐私保护的挑战与对策](https://blog.csdn.net/qyj19920704/article/details/140452402)
+
++ [智能化革新：智能AI如何助力生产力发展的未来与应用](https://blog.csdn.net/qq_57761637/article/details/140434103)
+
++ [MySQL-事务](https://blog.csdn.net/m0_50846237/article/details/140432148)
+
++ [效能工具：执行 npm start 可直接切换proxy代理UR后直接启动项目](https://blog.csdn.net/qq_54548545/article/details/140448427)
+
++ [【Linux】权限的管理和Linux上的一些工具](https://blog.csdn.net/2301_79969994/article/details/140475799)
+
++ [Spring框架--个人笔记](https://blog.csdn.net/m0_74194490/article/details/140429356)
+
++ [微信小游戏 彩色试管 倒水游戏 逻辑（三）](https://blog.csdn.net/heyuchang666/article/details/140475196)
+
++ [主干网络篇 | YOLOv5/v7 更换骨干网络之 EfficientNet | 卷积神经网络模型缩放的再思考](https://blog.csdn.net/weixin_39818775/article/details/140063402)
+
++ [spark 读操作](https://blog.csdn.net/weixin_43839095/article/details/140438491)
+
++ [【React】React18 Hooks 之memo、useCallback](https://blog.csdn.net/qq_38951259/article/details/140289598)
+
++ [flutter 手写 TabBar](https://blog.csdn.net/nicepainkiller/article/details/140432190)
+
++ [基于单片机的智能医疗监护系统设计](https://blog.csdn.net/weixin_44453694/article/details/140434088)
+
++ [【BUG】已解决：error: subprocess-exited-with-error](https://blog.csdn.net/m0_73367097/article/details/140457404)
+
