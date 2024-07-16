@@ -227,3 +227,19 @@
 
 + [Course layouts](https://dribbble.com/shots/)
 
++ [Payroll logo](https://dribbble.com/shots/)
+
++ [Land Agent at Work](https://dribbble.com/shots/)
+
++ [She Speaks](https://dribbble.com/shots/)
+
++ [Connectify dashboard](https://dribbble.com/shots/)
+
++ [Personal AI assistant brand: illustrations](https://dribbble.com/shots/)
+
++ [Berlin Packaging - Rhum Agricole](https://dribbble.com/shots/)
+
++ [Extej - Financial Admin & Dashboard Template for SaaS](https://dribbble.com/shots/)
+
++ [Travel Book](https://dribbble.com/shots/)
+
