@@ -149,3 +149,9 @@
 
 + [Http短轮询、WebSocket与SSE三种通讯方式和它们之间的区别](https://blog.csdn.net/weixin_45231569/article/details/140421706)
 
++ [无人驾驶的未来：AI如何重塑我们的出行世界](https://blog.csdn.net/SDFsoul/article/details/140419755)
+
++ [【Redis】持久化](https://blog.csdn.net/weixin_73060900/article/details/138527893)
+
++ [Nacos最新0day漏洞复现](https://blog.csdn.net/qq_55213436/article/details/140452933)
+

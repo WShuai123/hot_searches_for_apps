@@ -49,3 +49,5 @@
 
 + [因美国商务部禁令，卡巴斯基将退出美国市场](https://www.freebuf.com/news/406067.html)
 
++ [WordPress HTML5 Video Player SQL注入漏洞(CVE-2024-5522)](https://www.freebuf.com/vuls/405800.html)
+
