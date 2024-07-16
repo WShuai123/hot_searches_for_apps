@@ -61,3 +61,5 @@
 
 + [深度解析 | WordPress HTML5 Video Player SQL注入漏洞](https://www.freebuf.com/vuls/405800.html)
 
++ [用政务数据牟利2.48亿，违规！](https://www.freebuf.com/news/406166.html)
+
