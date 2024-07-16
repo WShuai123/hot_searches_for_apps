@@ -103,3 +103,21 @@
 
 + [Space Pencil Art Print](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [Glyph Beer 51](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Sun Motter Typeface](https://dribbble.com/shots/)
+
++ [Dimensional Delivery](https://dribbble.com/shots/)
+
++ [Chippy & Co Fish the Driftless](https://dribbble.com/shots/)
+
