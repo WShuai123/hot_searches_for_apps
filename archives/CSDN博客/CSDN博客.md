@@ -167,3 +167,7 @@
 
 + [如何使用 GPT？](https://blog.csdn.net/weixin_42058609/article/details/140444245)
 
++ [项目框架管理工具pyouter的实践](https://blog.csdn.net/qq_43576728/article/details/140461789)
+
++ [所有权与生命周期：Rust 内存管理的哲学](https://blog.csdn.net/McapricornZ/article/details/140466338)
+
