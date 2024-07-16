@@ -67,3 +67,5 @@
 
 + [“不要放开我的手”丨Take Me Hand](http://www.acfun.cn/v/ac45435513)
 
++ [【东方/毛豆】ずんだもんが東方にやってきたのだ！ MV【イノライ】](http://www.acfun.cn/v/ac45397574)
+

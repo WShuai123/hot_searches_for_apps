@@ -135,3 +135,9 @@
 
 + [【BUG】已解决：error: subprocess-exited-with-error](https://blog.csdn.net/m0_73367097/article/details/140457404)
 
++ [机器学习-1：人工智能、机器学习和深度学习的关系](https://blog.csdn.net/qq_24428851/article/details/140446570)
+
++ [[MySQL][表的约束][二][主键][自增长][唯一键][外键]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140412298)
+
++ [提升代码质量：利用策略模式优化Spring Boot应用的设计](https://blog.csdn.net/weixin_43970743/article/details/140470780)
+
