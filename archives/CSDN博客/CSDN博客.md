@@ -145,3 +145,7 @@
 
 + [【人工智能】Transformers之Pipeline（二）：自动语音识别（automatic-speech-recognition）](https://blog.csdn.net/weixin_48007632/article/details/140448072)
 
++ [redis主从复制](https://blog.csdn.net/2301_78327423/article/details/140422742)
+
++ [Http短轮询、WebSocket与SSE三种通讯方式和它们之间的区别](https://blog.csdn.net/weixin_45231569/article/details/140421706)
+
