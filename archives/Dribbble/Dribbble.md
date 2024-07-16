@@ -175,3 +175,7 @@
 
 + [HR Dashboard](https://dribbble.com/shots/)
 
++ [Makaryo - HR Management Landing Page](https://dribbble.com/shots/)
+
++ [Riddance_Visual Idenitity](https://dribbble.com/shots/)
+

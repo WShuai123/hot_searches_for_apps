@@ -51,3 +51,9 @@
 
 + [WordPress HTML5 Video Player SQL注入漏洞(CVE-2024-5522)](https://www.freebuf.com/vuls/405800.html)
 
++ [GitHub 令牌泄漏， Python 核心资源库面临潜在攻击](https://www.freebuf.com/news/406078.html)
+
++ [因白宫禁令，卡巴斯基彻底退出美国市场](https://www.freebuf.com/news/406067.html)
+
++ [VPN、防火墙等正在被黑客“爆雷”](https://www.freebuf.com/articles/neopoints/405974.html)
+
