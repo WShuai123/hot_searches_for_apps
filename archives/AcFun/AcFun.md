@@ -71,3 +71,7 @@
 
 + [原神 启动！](http://www.acfun.cn/v/ac45381935)
 
++ [【其他】治愈的钢琴LIve 120mins【作业用 助眠】](http://www.acfun.cn/v/ac45377613)
+
++ [【东方MMD】我我我（古明地姐妹）](http://www.acfun.cn/v/ac45373818)
+
