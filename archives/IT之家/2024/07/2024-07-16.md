@@ -49,3 +49,9 @@
 
 + [OPPO 回应“大量裁撤华为系员工”：虚假不实消息](https://m.ithome.com/html/782049.htm)
 
++ [小米王腾：Redmi K70 至尊版手机定档 7 月 19 日晚，发布即开售](https://m.ithome.com/html/782081.htm)
+
++ [理想高级设计总监发布纯电新车伪装照：沿用 MEGA 设计，姿态更扁平](https://m.ithome.com/html/781977.htm)
+
++ [消息称京东明日上线“京东超级 18”活动：随机上架高价产品、一口价 18 元](https://m.ithome.com/html/782196.htm)
+
