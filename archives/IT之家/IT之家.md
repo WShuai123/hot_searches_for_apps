@@ -47,3 +47,5 @@
 
 + [苹果发布 iOS 18 / iPadOS 18 / macOS 15/ watchOS 11 首个公测版](https://m.ithome.com/html/781998.htm)
 
++ [OPPO 回应“大量裁撤华为系员工”：虚假不实消息](https://m.ithome.com/html/782049.htm)
+

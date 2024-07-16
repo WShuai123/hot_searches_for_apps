@@ -63,3 +63,9 @@
 
 + [用政务数据牟利2.48亿，违规！](https://www.freebuf.com/news/406166.html)
 
++ [FreeBuf 全球网络安全产业投融资观察（6月）](https://www.freebuf.com/articles/neopoints/406174.html)
+
++ [攻防演练 | 某市级HW复盘总结](https://www.freebuf.com/articles/web/373706.html)
+
++ [议题全公布 | FreeBuf企业安全俱乐部·北京站](https://www.freebuf.com/fevents/406082.html)
+
