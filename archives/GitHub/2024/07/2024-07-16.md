@@ -37,3 +37,27 @@
 
 + [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
++ [TabbyML / tabby](https://github.com/TabbyML/tabby)
+
++ [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
+
++ [free-educa / books](https://github.com/free-educa/books)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [supabase / supabase](https://github.com/supabase/supabase)
+
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [neondatabase / neon](https://github.com/neondatabase/neon)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [MervinPraison / PraisonAI](https://github.com/MervinPraison/PraisonAI)
+
++ [WordPress / gutenberg](https://github.com/WordPress/gutenberg)
+
++ [PaddlePaddle / Paddle](https://github.com/PaddlePaddle/Paddle)
+

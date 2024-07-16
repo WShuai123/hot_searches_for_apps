@@ -45,3 +45,5 @@
 
 + [大模型集体“失智”：9.11 和 9.9 哪个大，几乎全翻车了](https://m.ithome.com/html/782090.htm)
 
++ [苹果发布 iOS 18 / iPadOS 18 / macOS 15/ watchOS 11 首个公测版](https://m.ithome.com/html/781998.htm)
+

@@ -203,3 +203,19 @@
 
 + [ilcons hero illustrations](https://dribbble.com/shots/)
 
++ [Design of a Travel Platform](https://dribbble.com/shots/)
+
++ [Investment - Component](https://dribbble.com/shots/)
+
++ [Luppa | Visual Identity](https://dribbble.com/shots/)
+
++ [Versee Brand Exploration](https://dribbble.com/shots/)
+
++ [Ayce](https://dribbble.com/shots/)
+
++ [Ternary - Product Visuals](https://dribbble.com/shots/)
+
++ [2024 Logo Trend Report](https://dribbble.com/shots/)
+
++ [LockWide - Branding for FinTech Mobile App Design](https://dribbble.com/shots/)
+
