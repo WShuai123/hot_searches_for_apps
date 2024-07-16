@@ -143,3 +143,5 @@
 
 + [微信小程序实战-第4章 邀请函项目](https://blog.csdn.net/andyyah/article/details/140434397)
 
++ [【人工智能】Transformers之Pipeline（二）：自动语音识别（automatic-speech-recognition）](https://blog.csdn.net/weixin_48007632/article/details/140448072)
+
