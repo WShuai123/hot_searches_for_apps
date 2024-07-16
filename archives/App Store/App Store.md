@@ -209,3 +209,7 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [驾校一点通-2024驾校学车考驾照](https://itunes.apple.com/cn/app/id620262310?mt=8)
+

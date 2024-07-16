@@ -159,3 +159,11 @@
 
 + [SpringBoot系列：通过AOP+注解优雅实现操作日志记录](https://blog.csdn.net/weixin_73588491/article/details/140459664)
 
++ [注意力机制中三种掩码技术详解和Pytorch实现](https://blog.csdn.net/m0_46510245/article/details/140462310)
+
++ [MySQL篇：事务](https://blog.csdn.net/viperd/article/details/140442017)
+
++ [小试牛刀-Telebot区块链游戏机器人](https://blog.csdn.net/2202_75618418/article/details/140459419)
+
++ [如何使用 GPT？](https://blog.csdn.net/weixin_42058609/article/details/140444245)
+
