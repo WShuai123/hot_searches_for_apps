@@ -187,3 +187,11 @@
 
 + [Webpack看这篇就够了](https://blog.csdn.net/m0_74948742/article/details/140447860)
 
++ [Zookeeper + Kafka 消息队列群集部署](https://blog.csdn.net/m0_73868728/article/details/140450723)
+
++ [Python从0到100（三十九）：数据提取之正则（文末免费送书）](https://blog.csdn.net/weixin_51390582/article/details/140270352)
+
++ [微服务实战系列之玩转Docker（一）](https://blog.csdn.net/splendid_java/article/details/140432578)
+
++ [【Harmony】SCU暑期实训鸿蒙开发学习日记Day1](https://blog.csdn.net/uuzeray/article/details/140468499)
+
