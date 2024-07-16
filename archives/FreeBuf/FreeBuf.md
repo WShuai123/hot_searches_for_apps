@@ -57,3 +57,5 @@
 
 + [VPN、防火墙等正在被黑客“爆雷”](https://www.freebuf.com/articles/neopoints/405974.html)
 
++ [SQLMC：一款高性能大规模SQL注入安全扫描工具](https://www.freebuf.com/sectool/405623.html)
+
