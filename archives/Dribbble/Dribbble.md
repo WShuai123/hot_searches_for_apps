@@ -135,3 +135,13 @@
 
 + [Finger](https://dribbble.com/shots/)
 
++ [Spotify | All Ears on you 2](https://dribbble.com/shots/)
+
++ [Bevel Glass](https://dribbble.com/shots/)
+
++ [Windows](https://dribbble.com/shots/)
+
++ [Branding for  for supplements 1](https://dribbble.com/shots/)
+
++ [Minimal sidebar navigation — Untitled UI](https://dribbble.com/shots/)
+
