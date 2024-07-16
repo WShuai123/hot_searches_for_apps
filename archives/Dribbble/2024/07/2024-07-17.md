@@ -49,3 +49,5 @@
 
 + [Connectify dashboard](https://dribbble.com/shots/)
 
++ [Bulk select](https://dribbble.com/shots/)
+
