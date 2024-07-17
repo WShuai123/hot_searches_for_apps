@@ -39,3 +39,5 @@
 
 + [小米健康研究 App 上线：“睡眠呼吸暂停研究”功能支持小米 Watch S4 Sport 手表与小米手环 9 系列](https://m.ithome.com/html/782211.htm)
 
++ [小米推出新款 1TB 移动固态硬盘：读写 2000MB/s，799 元](https://m.ithome.com/html/782270.htm)
+
