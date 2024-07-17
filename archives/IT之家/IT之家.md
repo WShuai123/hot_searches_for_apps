@@ -43,3 +43,7 @@
 
 + [1 度电能跑 5 英里，“全球最高效汽车”2025 款 Lucid Air 发布](https://m.ithome.com/html/782235.htm)
 
++ [小米 MIX Flip 小折叠屏手机细节公布：UFS 4.0+LPDDR5X、3D 台阶散热 VC](https://m.ithome.com/html/782331.htm)
+
++ [小米手环 9 续航增至 21 天，升级线性马达 20 种振动模式](https://m.ithome.com/html/782298.htm)
+

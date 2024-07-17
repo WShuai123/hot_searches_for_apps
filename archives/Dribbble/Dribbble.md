@@ -217,3 +217,11 @@
 
 + [Area - land sales service: visual identity](https://dribbble.com/shots/)
 
++ [Proud Knight heraldic logo](https://dribbble.com/shots/)
+
++ [Cyclops - Influencers Marketing AI Dashboard](https://dribbble.com/shots/)
+
++ [Badger Logo](https://dribbble.com/shots/)
+
++ [Ternary - Responsive](https://dribbble.com/shots/)
+

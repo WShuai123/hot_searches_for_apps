@@ -203,3 +203,11 @@
 
 + [python爬取天气数据并实现数据可视化](https://blog.csdn.net/2301_78096295/article/details/140471634)
 
++ [【数学建模】技术革新——Lingo的使用超详解](https://blog.csdn.net/2303_77720864/article/details/140477564)
+
++ [Redis⑥ —— 缓存设计](https://blog.csdn.net/qq_51148151/article/details/140458237)
+
++ [使用jenkins进行自动化部署](https://blog.csdn.net/qq_43807473/article/details/140464259)
+
++ [【内网穿透】打洞笔记](https://blog.csdn.net/weixin_56760882/article/details/140469148)
+
