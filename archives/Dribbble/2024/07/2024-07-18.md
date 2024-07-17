@@ -143,3 +143,15 @@
 
 + [Unused illustration ????](https://dribbble.com/shots/)
 
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Stirred & Spirit Forward](https://dribbble.com/shots/)
+
++ [Olympic Torch Relay](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
