@@ -55,3 +55,7 @@
 
 + [华为内部人士：Pura 70 系列手机出货量同比 P60 增长 125%](https://m.ithome.com/html/782330.htm)
 
++ [爱奇艺就限制投屏案提起上诉：“没有义务永久、免费提供优于 480P 清晰度的投屏服务”](https://m.ithome.com/html/782447.htm)
+
++ [龙晶玻璃加持，小米 MIX Flip 折叠屏手机外屏细节公布：独立听筒 + 麦克风、支持 1600nit 全局亮度](https://m.ithome.com/html/782404.htm)
+
