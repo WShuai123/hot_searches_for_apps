@@ -227,3 +227,5 @@
 
 + [Flink底层原理解析：案例解析（第37天）](https://blog.csdn.net/syhiiu/article/details/140499711)
 
++ [【Spark On Hive】—— 基于电商数据分析的项目实战](https://blog.csdn.net/m0_74120525/article/details/140474375)
+

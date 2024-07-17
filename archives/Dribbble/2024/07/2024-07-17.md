@@ -245,3 +245,9 @@
 
 + [Hands Time - Minimalist Time Widget](https://dribbble.com/shots/)
 
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Odi Agency: Amplify Rebrand](https://dribbble.com/shots/)
+
++ ['a' logo mark](https://dribbble.com/shots/)
+
