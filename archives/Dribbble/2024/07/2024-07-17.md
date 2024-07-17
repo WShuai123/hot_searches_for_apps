@@ -191,3 +191,29 @@
 
 + [HR Landing Page](https://dribbble.com/shots/)
 
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [Tako, food delivery tech startup logo: pin pointer + octopus](https://dribbble.com/shots/)
+
++ [Serpent Swap](https://dribbble.com/shots/)
+
++ [Samurai Rabbit Logo](https://dribbble.com/shots/)
+
++ [Experimental logo](https://dribbble.com/shots/)
+
++ [Luppa AI | Logo Design](https://dribbble.com/shots/)
+
++ [ChainGPT - Merch Design + Store UI](https://dribbble.com/shots/)
+
++ [MD Logo Animation Update](https://dribbble.com/shots/)
+
++ [FableFox](https://dribbble.com/shots/)
+
++ [Spatial Stepper [VisionOS]](https://dribbble.com/shots/)
+
++ [Overlapping Paper Letter X Logo Design](https://dribbble.com/shots/)
+
++ [RealtyHub CRM - Real Estate Dashboard](https://dribbble.com/shots/)
+
++ [Area - land sales service: visual identity](https://dribbble.com/shots/)
+

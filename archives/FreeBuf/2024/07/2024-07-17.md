@@ -59,3 +59,7 @@
 
 + [HardeningMeter：一款针对二进制文件和系统安全强度的开源工具](https://www.freebuf.com/sectool/405625.html)
 
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
++ [知名工具Trello被黑客攻击，泄露1500 万用户数据](https://www.freebuf.com/news/406218.html)
+
