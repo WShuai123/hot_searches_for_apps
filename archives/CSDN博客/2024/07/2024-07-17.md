@@ -179,3 +179,21 @@
 
 + [电机控制杂谈——以袁雷老师滑模控制模型为例子，如何搭建准确的电机仿真模型](https://blog.csdn.net/m0_46903653/article/details/140453569)
 
++ [OpenAI 封了中国 API 后，国外开发者却先转向了 Claude](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140481954)
+
++ [Pytorch的编译新特性TorchDynamo的工作原理和使用示例](https://blog.csdn.net/m0_46510245/article/details/140485791)
+
++ [【机器学习】Scoring Model Scores: 理解、设计与优化评分模型](https://blog.csdn.net/qq_44214428/article/details/140403670)
+
++ [探索C++的模板世界：函数模板与类模板的深度解析](https://blog.csdn.net/windowshht/article/details/140346184)
+
++ [SpringMVC-拦截器](https://blog.csdn.net/aliyunyyds/article/details/140468291)
+
++ [redis-缓存三剑客](https://blog.csdn.net/weixin_46520767/article/details/140474527)
+
++ [华为OD七日集训第1期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/140483459)
+
++ [k8s资源清单](https://blog.csdn.net/misakivv/article/details/140452631)
+
++ [HTTP基本原理](https://blog.csdn.net/papillonlong/article/details/140477240)
+
