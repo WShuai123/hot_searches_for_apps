@@ -159,3 +159,15 @@
 
 + [Stillwell Collective Logo System](https://dribbble.com/shots/)
 
++ [???? API keys](https://dribbble.com/shots/)
+
++ [Mobile Website Design for Arist](https://dribbble.com/shots/)
+
++ [Chocolate Branding & Packaging Design](https://dribbble.com/shots/)
+
++ [Mining Dashboard UI Elements](https://dribbble.com/shots/)
+
++ [Finance Tracking App](https://dribbble.com/shots/)
+
++ [Blue hour](https://dribbble.com/shots/)
+

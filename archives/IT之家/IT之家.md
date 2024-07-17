@@ -35,3 +35,7 @@
 
 + [取代 A4 / S4，全新奥迪 A5 / S5 系列车型发布：外观更运动，提供轻混系统](https://m.ithome.com/html/782230.htm)
 
++ [华为联合设计，赛力斯问界 M9 / 新 M7 Ultra 汽车完成中汽吐鲁番夏季高温测试：行驶总里程超 1100km、空调 17 分钟完成降温](https://m.ithome.com/html/782203.htm)
+
++ [小米健康研究 App 上线：“睡眠呼吸暂停研究”功能支持小米 Watch S4 Sport 手表与小米手环 9 系列](https://m.ithome.com/html/782211.htm)
+
