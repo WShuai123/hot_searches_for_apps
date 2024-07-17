@@ -55,3 +55,5 @@
 
 + [打破传统思维 | 另一视角下的SSRF](https://www.freebuf.com/articles/web/406062.html)
 
++ [知名黑客论坛1500 万用户数据遭泄露](https://www.freebuf.com/news/406218.html)
+

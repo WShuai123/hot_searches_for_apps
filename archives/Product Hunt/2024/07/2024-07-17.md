@@ -113,3 +113,5 @@
 
 + [shovel](https://www.producthunt.com/posts/shovel-2)
 
++ [CoLoyalty](https://www.producthunt.com/posts/coloyalty)
+

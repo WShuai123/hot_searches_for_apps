@@ -167,3 +167,7 @@
 
 + [如何使用 GPT？](https://blog.csdn.net/weixin_42058609/article/details/140444245)
 
++ [深度学习 | CNN 基本原理](https://blog.csdn.net/m0_64140451/article/details/140444157)
+
++ [【Django+Vue3 线上教育平台项目实战】登录功能模块之短信登录与钉钉三方登录](https://blog.csdn.net/m0_48173416/article/details/140398378)
+
