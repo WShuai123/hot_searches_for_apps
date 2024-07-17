@@ -127,3 +127,13 @@
 
 + [「一人之下」抗联从此过《子孙不断头》！【凰裳】](http://www.acfun.cn/v/ac45458741)
 
++ [【ACFUN声唱2024】Duvet 叫ぶ獣](http://www.acfun.cn/v/ac45453769)
+
++ [大叔撞大运后再活逆天一世，我将以紫微星的身份再次出击！](http://www.acfun.cn/v/ac45458135)
+
++ [“恕瑞玛，你的皇帝回来了。”](http://www.acfun.cn/v/ac45458488)
+
++ [这次我选春丽！欢乐八点档-983](http://www.acfun.cn/v/ac45457936)
+
++ [【小六】我要快乐—FUN声唱参赛作品](http://www.acfun.cn/v/ac45458762)
+
