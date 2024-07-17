@@ -53,3 +53,5 @@
 
 + [1.1亿用户数据被窃后，AT&T向黑客支付了37万美元赎金](https://www.freebuf.com/news/406198.html)
 
++ [打破传统思维 | 另一视角下的SSRF](https://www.freebuf.com/articles/web/406062.html)
+

@@ -41,3 +41,5 @@
 
 + [小米推出新款 1TB 移动固态硬盘：读写 2000MB/s，799 元](https://m.ithome.com/html/782270.htm)
 
++ [1 度电能跑 5 英里，“全球最高效汽车”2025 款 Lucid Air 发布](https://m.ithome.com/html/782235.htm)
+
