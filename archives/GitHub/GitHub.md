@@ -35,3 +35,23 @@
 
 + [PaddlePaddle / Paddle](https://github.com/PaddlePaddle/Paddle)
 
++ [neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
+
++ [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
+
++ [git-ecosystem / git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
+
++ [tokio-rs / tokio](https://github.com/tokio-rs/tokio)
+
++ [oceanbase / oceanbase](https://github.com/oceanbase/oceanbase)
+
++ [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
+
++ [mem0ai / mem0](https://github.com/mem0ai/mem0)
+
++ [pytube / pytube](https://github.com/pytube/pytube)
+
++ [sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation)
+
++ [actions / runner-images](https://github.com/actions/runner-images)
+

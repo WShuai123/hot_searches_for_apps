@@ -47,3 +47,5 @@
 
 + [小米手环 9 续航增至 21 天，升级线性马达 20 种振动模式](https://m.ithome.com/html/782298.htm)
 
++ [小米 SU7 汽车推送澎湃 HyperOS 1.2.3 版本更新：﻿新增红绿灯提醒，优化刹车盘高温报警提醒](https://m.ithome.com/html/782335.htm)
+
