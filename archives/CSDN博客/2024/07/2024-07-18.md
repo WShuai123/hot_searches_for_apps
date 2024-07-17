@@ -101,3 +101,21 @@
 
 + [主干网络篇 | YOLOv5/v7 更换骨干网络之 EfficientNet | 卷积神经网络模型缩放的再思考](https://blog.csdn.net/weixin_39818775/article/details/140063402)
 
++ [【linux】信号的理论概述和实操](https://blog.csdn.net/2301_79796701/article/details/140473115)
+
++ [生成式人工智能（AI）的未来](https://blog.csdn.net/qyj19920704/article/details/140493287)
+
++ [Linux - 冯-诺依曼体系结构、初始操作系统](https://blog.csdn.net/weixin_66330442/article/details/140483819)
+
++ [云计算数据中心（二）](https://blog.csdn.net/Morse_Chen/article/details/140423478)
+
++ [信息系统安全（第三章——自主访问控制）](https://blog.csdn.net/m0_73514785/article/details/140460951)
+
++ [安全防御---防火墙双击热备与带宽管理](https://blog.csdn.net/m0_65810417/article/details/140474366)
+
++ [基于springboot+vue+uniapp的驾校预约平台小程序](https://blog.csdn.net/shmp54/article/details/140477450)
+
++ [Python与MQTT：构建物联网通信的桥梁](https://blog.csdn.net/weixin_46105038/article/details/140458378)
+
++ [【云原生时代的守护者】构建高效健康监控体系，护航应用性能](https://blog.csdn.net/weixin_53269650/article/details/140349359)
+

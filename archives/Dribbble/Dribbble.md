@@ -97,3 +97,7 @@
 
 + [Tako, food delivery tech startup logo: pin pointer + octopus](https://dribbble.com/shots/)
 
++ [Logo design for a dress house](https://dribbble.com/shots/)
+
++ [Mini Dune Tree Scapes](https://dribbble.com/shots/)
+
