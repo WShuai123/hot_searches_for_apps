@@ -129,3 +129,17 @@
 
 + [ABC  Graphics [ logo concepts ]](https://dribbble.com/shots/)
 
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Finger](https://dribbble.com/shots/)
+
++ [WIP](https://dribbble.com/shots/)
+
++ [Cards For "Imaginarium" Board Game](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Starbase Brewing](https://dribbble.com/shots/)
+
++ [Unused illustration ????](https://dribbble.com/shots/)
+
