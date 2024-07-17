@@ -49,3 +49,9 @@
 
 + [小米 SU7 汽车推送澎湃 HyperOS 1.2.3 版本更新：﻿新增红绿灯提醒，优化刹车盘高温报警提醒](https://m.ithome.com/html/782335.htm)
 
++ [小米首款小折叠屏手机 MIX Flip 外观首次亮相：全尺寸大外屏、第三代骁龙 8](https://m.ithome.com/html/782290.htm)
+
++ [小米首款小折叠屏手机已规划五年、内部设计多种形态，雷军称“不做好不发布”](https://m.ithome.com/html/782374.htm)
+
++ [华为内部人士：Pura 70 系列手机出货量同比 P60 增长 125%](https://m.ithome.com/html/782330.htm)
+
