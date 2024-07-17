@@ -171,3 +171,11 @@
 
 + [【Django+Vue3 线上教育平台项目实战】登录功能模块之短信登录与钉钉三方登录](https://blog.csdn.net/m0_48173416/article/details/140398378)
 
++ [基于大数据+爬虫+数据可视化+SpringBoot+Vue的智能孕婴护理管理与可视化平台系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/140485015)
+
++ [axios](https://blog.csdn.net/yayaye717/article/details/140479374)
+
++ [微服务实战系列之玩转Docker（二）](https://blog.csdn.net/splendid_java/article/details/140456509)
+
++ [电机控制杂谈——以袁雷老师滑模控制模型为例子，如何搭建准确的电机仿真模型](https://blog.csdn.net/m0_46903653/article/details/140453569)
+

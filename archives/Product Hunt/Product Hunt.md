@@ -115,3 +115,69 @@
 
 + [CoLoyalty](https://www.producthunt.com/posts/coloyalty)
 
++ [Fast Text](https://www.producthunt.com/posts/fast-text-2)
+
++ [Depth](https://www.producthunt.com/posts/depth-4)
+
++ [CommandAI](https://www.producthunt.com/posts/commandai)
+
++ [Zavata v1.0 - Beta](https://www.producthunt.com/posts/zavata-v1-0-beta)
+
++ [Waveform.ai](https://www.producthunt.com/posts/waveform-ai)
+
++ [Ai Magicx Coder](https://www.producthunt.com/posts/ai-magicx-coder)
+
++ [Kardn](https://www.producthunt.com/posts/kardn)
+
++ [Claude Android app](https://www.producthunt.com/posts/claude-android-app)
+
++ [AutoSkippy for Chrome](https://www.producthunt.com/posts/autoskippy-for-chrome)
+
++ [BIX](https://www.producthunt.com/posts/bix)
+
++ [NomadWith.me](https://www.producthunt.com/posts/nomadwith-me)
+
++ [Meme Keeb](https://www.producthunt.com/posts/meme-keeb)
+
++ [Youtube Transcript Search](https://www.producthunt.com/posts/youtube-transcript-search)
+
++ [recursiv](https://www.producthunt.com/posts/recursiv)
+
++ [Cognify Insights](https://www.producthunt.com/posts/cognify-insights)
+
++ [LangCall](https://www.producthunt.com/posts/langcall)
+
++ [Sprig Heatmaps](https://www.producthunt.com/posts/sprig-heatmaps)
+
++ [Infinite Machine P1](https://www.producthunt.com/posts/infinite-machine-p1-2)
+
++ [npmpackage.info](https://www.producthunt.com/posts/npmpackage-info)
+
++ [Emoogle](https://www.producthunt.com/posts/emoogle)
+
++ [Apidog](https://www.producthunt.com/posts/apidog)
+
++ [Real-time Voice Translation by Byrdhouse](https://www.producthunt.com/posts/real-time-voice-translation-by-byrdhouse)
+
++ [KapKap](https://www.producthunt.com/posts/kapkap)
+
++ [Formcrafts](https://www.producthunt.com/posts/formcrafts-3)
+
++ [Cosmil](https://www.producthunt.com/posts/cosmil)
+
++ [Waywise](https://www.producthunt.com/posts/waywise)
+
++ [Roads Audio](https://www.producthunt.com/posts/roads-audio)
+
++ [Fonts Ninja](https://www.producthunt.com/posts/fonts-ninja-2)
+
++ [PullNotifier](https://www.producthunt.com/posts/pullnotifier)
+
++ [RewriteBar](https://www.producthunt.com/posts/rewritebar)
+
++ [Clappy](https://www.producthunt.com/posts/clappy-3)
+
++ [Paillor](https://www.producthunt.com/posts/paillor-2)
+
++ [[Sending]flow](https://www.producthunt.com/posts/sending-flow)
+

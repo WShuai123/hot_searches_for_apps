@@ -177,3 +177,17 @@
 
 + [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
 
++ [Job Seeker Platform Landing Page](https://dribbble.com/shots/)
+
++ [Riddance - Application Design](https://dribbble.com/shots/)
+
++ [Finster: AI Chat Feature Mobile App Fintech Banking ????](https://dribbble.com/shots/)
+
++ [Finguard - Brand Identity](https://dribbble.com/shots/)
+
++ [Zendenta - Add Medical Checkup for a SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Inviro - Inventory Management Landing Page](https://dribbble.com/shots/)
+
++ [HR Landing Page](https://dribbble.com/shots/)
+
