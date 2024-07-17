@@ -45,3 +45,9 @@
 
 + [用户密码强度分析：59%的密码可以在一小时内被猜出](https://www.freebuf.com/articles/paper/405798.html)
 
++ [渗透实战 | 一次代码审计拿下目标站点](https://www.freebuf.com/vuls/404481.html)
+
++ [深入解析：Windows 提权技术全攻略](https://www.freebuf.com/articles/web/405941.html)
+
++ [FreeBuf“漏洞分析”主题征稿活动即日上线](https://www.freebuf.com/news/406128.html)
+
