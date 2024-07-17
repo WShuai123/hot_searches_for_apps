@@ -41,3 +41,7 @@
 
 + [渗透测试 | 中间人劫持深入剖析](https://www.freebuf.com/articles/network/405704.html)
 
++ [FreeBuf早报 | AT&T被曝支付赎金以防被盗数据泄露；卡巴斯基关闭美国分部](https://www.freebuf.com/news/406139.html)
+
++ [用户密码强度分析：59%的密码可以在一小时内被猜出](https://www.freebuf.com/articles/paper/405798.html)
+

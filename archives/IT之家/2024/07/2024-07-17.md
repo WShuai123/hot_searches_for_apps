@@ -27,3 +27,7 @@
 
 + [小米创始人雷军：《人类群星闪耀时》书中的一句话让我下定决心造车](https://m.ithome.com/html/782223.htm)
 
++ [双向卫星通信、龙骨转轴 2.0，小米 MIX Fold 4 折叠屏手机官宣，7 月 19 日发布](https://m.ithome.com/html/782053.htm)
+
++ [九号电动摩托车远航家 M95c+ 上架：72V 32Ah 铅酸电池、全速续航 100km，首发价 5999 元起](https://m.ithome.com/html/782220.htm)
+
