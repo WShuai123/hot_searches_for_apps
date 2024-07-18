@@ -51,3 +51,5 @@
 
 + [FIN7 黑客组织在暗网论坛上大肆宣传 AuKill 工具](https://www.freebuf.com/news/406306.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
