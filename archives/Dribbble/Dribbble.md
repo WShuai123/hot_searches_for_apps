@@ -211,3 +211,17 @@
 
 + [On te road](https://dribbble.com/shots/)
 
++ [Branding for Crypto Agency](https://dribbble.com/shots/)
+
++ [Gaia - behance case study](https://dribbble.com/shots/)
+
++ [Ternary - Why Ternary Page](https://dribbble.com/shots/)
+
++ [Banner for crypto Launchpad platform](https://dribbble.com/shots/)
+
++ [Website design. Weaverly.](https://dribbble.com/shots/)
+
++ [F&O Trading - Trinkerr - FinTech](https://dribbble.com/shots/)
+
++ [G letter travel logo](https://dribbble.com/shots/)
+

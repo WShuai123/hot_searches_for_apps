@@ -175,3 +175,9 @@
 
 + [Nacos最新0day漏洞复现](https://blog.csdn.net/qq_55213436/article/details/140452933)
 
++ [C# 关于 PaddleOCRSharp OCR识别的疲劳测试](https://blog.csdn.net/michaelline/article/details/140483387)
+
++ [[MySQL][复核查询][多表查询][自连接][自查询]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140488423)
+
++ [《雅思口语真经总纲1.0》话题实战训练笔记part1——Home/Accommodation（必考）](https://blog.csdn.net/Dontla/article/details/140337059)
+
