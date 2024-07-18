@@ -137,3 +137,11 @@
 
 + [一大早就这么硬核！蚌埠早餐吃点啥？](http://www.acfun.cn/v/ac45462283)
 
++ [这不得一拳一个Acer！欢乐八点档-984](http://www.acfun.cn/v/ac45462818)
+
++ [四大天王与四大女歌手PK啥水平](http://www.acfun.cn/v/ac45463049)
+
++ [【烧卖】北方人看了直摇头，这算什么烧卖！](http://www.acfun.cn/v/ac45461359)
+
++ [看看专业电工排查漏电源](http://www.acfun.cn/v/ac45463031)
+

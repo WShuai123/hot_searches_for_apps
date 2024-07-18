@@ -59,3 +59,5 @@
 
 + [【IT之家评测室】Redmi K70 至尊版 / 至尊冠军版手机体验：“卷王”又出杀招了](https://m.ithome.com/html/782716.htm)
 
++ [2025 款凯迪拉克凯雷德发布：外观内饰焕然一新，全系 V8 发动机](https://m.ithome.com/html/782505.htm)
+
