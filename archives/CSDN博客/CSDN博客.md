@@ -131,3 +131,23 @@
 
 + [打包一个自己的Vivado IP核](https://blog.csdn.net/zhou8400/article/details/140472102)
 
++ [【数学建模】——多领域资源优化中的创新应用-六大经典问题解答](https://blog.csdn.net/2303_77720864/article/details/140504309)
+
++ [linux进程——父子进程层面的PID，fork的原理与理解](https://blog.csdn.net/strive_mianyang/article/details/140485565)
+
++ [【sklearn | 7】：scikit-learn项目实战指南](https://blog.csdn.net/weixin_36755535/article/details/140490354)
+
++ [linux后门教程](https://blog.csdn.net/2301_82000839/article/details/140474424)
+
++ [docker从0到1 部署gitlab 纯干货](https://blog.csdn.net/weixin_44628581/article/details/140456789)
+
++ [（21）起落架/可伸缩相机支架](https://blog.csdn.net/qq_20016593/article/details/140465107)
+
++ [【Elasticsearch】Elasticsearch集群管理在分布式环境中的应用](https://blog.csdn.net/a1657054242/article/details/140511812)
+
++ [智能手术新时代：Apple Vision Pro在医疗领域的突破性应用](https://blog.csdn.net/SDFsoul/article/details/140479692)
+
++ [metaRTC QOS 方案与实践](https://blog.csdn.net/m0_56595685/article/details/140468206)
+
++ [【unity实战】使用unity制作一个红点系统](https://blog.csdn.net/qq_36303853/article/details/140388858)
+

@@ -49,3 +49,5 @@
 
 + [威胁探索 | CVE-2024-38112在野快捷有效的一个0day威胁利用](https://www.freebuf.com/articles/system/405801.html)
 
++ [FIN7 黑客组织在暗网论坛上大肆宣传 AuKill 工具](https://www.freebuf.com/news/406306.html)
+
