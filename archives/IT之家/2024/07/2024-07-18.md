@@ -57,3 +57,5 @@
 
 + [小米米家运动水杯 1L 上市：支持一键弹盖、独立茶仓，售价 99 元](https://m.ithome.com/html/782623.htm)
 
++ [【IT之家评测室】Redmi K70 至尊版 / 至尊冠军版手机体验：“卷王”又出杀招了](https://m.ithome.com/html/782716.htm)
+

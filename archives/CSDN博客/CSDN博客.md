@@ -191,3 +191,7 @@
 
 + [推荐一款强大的开源SSH连接工具 - Tabby](https://blog.csdn.net/lhmyy521125/article/details/140489033)
 
++ [C++20之std::span：高效访问容器的神器](https://blog.csdn.net/haokan123456789/article/details/140504149)
+
++ [李彦宏论AI：技术革新与产业价值的双重驱动](https://blog.csdn.net/u014727709/article/details/140512549)
+
