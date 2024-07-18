@@ -163,3 +163,7 @@
 
 + [FPGA-Verilog](https://blog.csdn.net/dpasdfjk66/article/details/140496024)
 
++ [【spring boot】初学者项目快速练手](https://blog.csdn.net/m0_67357141/article/details/140503735)
+
++ [如何在vue3中实现动态路由](https://blog.csdn.net/Rverdoser/article/details/140472477)
+

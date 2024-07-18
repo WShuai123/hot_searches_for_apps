@@ -57,3 +57,5 @@
 
 + [FIN7 黑客组织在暗网上大肆推广反EDR系统工具](https://www.freebuf.com/news/406306.html)
 
++ [IOCTLance：一款针对x64 WDM驱动程序的漏洞检测工具](https://www.freebuf.com/sectool/405644.html)
+
