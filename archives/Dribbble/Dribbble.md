@@ -225,3 +225,17 @@
 
 + [G letter travel logo](https://dribbble.com/shots/)
 
++ [Mountain & Dog Logo](https://dribbble.com/shots/)
+
++ [Fintech Dashboard](https://dribbble.com/shots/)
+
++ [Checkstep – Logo Design](https://dribbble.com/shots/)
+
++ [Bearmint](https://dribbble.com/shots/)
+
++ [Noq homepage](https://dribbble.com/shots/)
+
++ [Design exploration for furniture app](https://dribbble.com/shots/)
+
++ [Café Paris ☔️☕️](https://dribbble.com/shots/)
+

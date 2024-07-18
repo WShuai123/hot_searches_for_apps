@@ -29,3 +29,15 @@
 
 + [actions / runner-images](https://github.com/actions/runner-images)
 
++ [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [MervinPraison / PraisonAI](https://github.com/MervinPraison/PraisonAI)
+
++ [abseil / abseil-cpp](https://github.com/abseil/abseil-cpp)
+
++ [hashicorp / vault](https://github.com/hashicorp/vault)
+
++ [mermaid-js / mermaid](https://github.com/mermaid-js/mermaid)
+
++ [prowler-cloud / prowler](https://github.com/prowler-cloud/prowler)
+

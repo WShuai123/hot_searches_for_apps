@@ -181,3 +181,7 @@
 
 + [《雅思口语真经总纲1.0》话题实战训练笔记part1——Home/Accommodation（必考）](https://blog.csdn.net/Dontla/article/details/140337059)
 
++ [大语言模型 API](https://blog.csdn.net/2302_80644606/article/details/140463725)
+
++ [‍我想我大抵是疯了，我喜欢上了写单元测试](https://blog.csdn.net/lhcong_/article/details/140517607)
+
