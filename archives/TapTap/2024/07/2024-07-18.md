@@ -23,3 +23,5 @@
 
 + [墨剑江湖](https://www.taptap.cn/app/235871)
 
++ [奥特曼传奇英雄2](https://www.taptap.cn/app/494963)
+

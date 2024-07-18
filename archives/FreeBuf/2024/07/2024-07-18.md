@@ -63,3 +63,5 @@
 
 + [红蓝对抗思想应用与大模型安全 | FreeBuf 北京站议题前瞻](https://www.freebuf.com/fevents/406289.html)
 
++ [Cisco曝超严重漏洞，黑客可修改管理员密码](https://www.freebuf.com/news/406337.html)
+
