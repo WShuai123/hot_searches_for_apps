@@ -53,3 +53,7 @@
 
 + [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
 
++ [已修复！Cisco 曝关键漏洞，允许攻击者更改用户密码](https://www.freebuf.com/news/406337.html)
+
++ [FIN7 黑客组织在暗网上大肆推广反EDR系统工具](https://www.freebuf.com/news/406306.html)
+

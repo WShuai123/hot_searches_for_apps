@@ -41,3 +41,5 @@
 
 + [人人可领 60~800 元京东补贴，20:00 起 18 元抢帝王蟹、1.5 匹空调、三星 1T 硬盘](https://m.ithome.com/html/782379.htm)
 
++ [比亚迪 DM 5.0 新车上市，宋 L / PLUS DM-i 定于 7 月 25 日发布](https://m.ithome.com/html/782510.htm)
+

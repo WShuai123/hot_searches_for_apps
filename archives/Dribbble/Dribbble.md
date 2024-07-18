@@ -173,3 +173,17 @@
 
 + [Ampersand 2024 Logo Exhibition](https://dribbble.com/shots/)
 
++ [EVolution - Charging Stations App ⛽️](https://dribbble.com/shots/)
+
++ [Foka - Product Website Exploration](https://dribbble.com/shots/)
+
++ [ER](https://dribbble.com/shots/)
+
++ [Landing Page Design for Chatz](https://dribbble.com/shots/)
+
++ [Header Exploration with 3D Illustration](https://dribbble.com/shots/)
+
++ [Finguard - Social Media & Card Design](https://dribbble.com/shots/)
+
++ [Zendenta - Product Stock Received for SaaS Dental Clinic](https://dribbble.com/shots/)
+

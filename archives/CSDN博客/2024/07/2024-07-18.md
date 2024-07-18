@@ -159,3 +159,7 @@
 
 + [微信小游戏 彩色试管 倒水游戏 逻辑 （四）](https://blog.csdn.net/heyuchang666/article/details/140504882)
 
++ [【Linux】启动的秘密花园：深入GRUB、Init系统和Systemd](https://blog.csdn.net/weixin_53269650/article/details/140406451)
+
++ [FPGA-Verilog](https://blog.csdn.net/dpasdfjk66/article/details/140496024)
+
