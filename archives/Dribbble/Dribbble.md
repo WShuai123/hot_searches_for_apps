@@ -191,3 +191,15 @@
 
 + [Quliwa - Building Construction Website](https://dribbble.com/shots/)
 
++ [Skills up app responsive](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Core Dashboard Builder](https://dribbble.com/shots/)
+
++ [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
+
++ [Cheetah Logo](https://dribbble.com/shots/)
+
++ [Fishing App: animation](https://dribbble.com/shots/)
+

@@ -59,3 +59,5 @@
 
 + [IOCTLance：一款针对x64 WDM驱动程序的漏洞检测工具](https://www.freebuf.com/sectool/405644.html)
 
++ [Cisco 再曝超严重漏洞，黑客可修改管理员密码](https://www.freebuf.com/news/406337.html)
+
