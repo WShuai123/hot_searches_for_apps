@@ -127,3 +127,9 @@
 
 + [【微服务】第36节：微服务的分布式事务](https://blog.csdn.net/m0_46013789/article/details/140503722)
 
++ [RAG综述性论文: Retrieval-Augmented Generation for Large Language Models: A Survey](https://blog.csdn.net/weixin_54878690/article/details/140502037)
+
++ [《Python机器学习项目实战》书籍介绍](https://blog.csdn.net/yuan2019035055/article/details/140496600)
+
++ [IronSuite products:9 .NET API products cRACK](https://blog.csdn.net/john_dwh/article/details/140483268)
+
