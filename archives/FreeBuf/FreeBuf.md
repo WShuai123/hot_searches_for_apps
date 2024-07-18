@@ -41,3 +41,7 @@
 
 + [恶意代码技术及恶意代码检测技术原理与实现](https://www.freebuf.com/articles/system/405255.html)
 
++ [FreeBuf早报 | 科技巨头未经授权用YouTube内容训练AI；土耳其企业面临新的勒索威胁](https://www.freebuf.com/news/406253.html)
+
++ [探索编译的V8 JavaScript在恶意软件中的应用](https://www.freebuf.com/articles/system/405993.html)
+
