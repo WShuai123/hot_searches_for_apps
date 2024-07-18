@@ -45,3 +45,7 @@
 
 + [探索编译的V8 JavaScript在恶意软件中的应用](https://www.freebuf.com/articles/system/405993.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [威胁探索 | CVE-2024-38112在野快捷有效的一个0day威胁利用](https://www.freebuf.com/articles/system/405801.html)
+

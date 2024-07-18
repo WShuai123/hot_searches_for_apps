@@ -121,3 +121,13 @@
 
 + [访问控制之自主访问控制](https://blog.csdn.net/m0_73514785/article/details/140460951)
 
++ [lua脚本在redis的实战案例](https://blog.csdn.net/qq_26664043/article/details/140249972)
+
++ [智能合约的重入攻击](https://blog.csdn.net/qq_38420688/article/details/140493504)
+
++ [日活2.5亿的Twitter 使用了哪些数据库？](https://blog.csdn.net/weixin_42627385/article/details/140504319)
+
++ [Spring与设计模式总览](https://blog.csdn.net/weixin_40735063/article/details/140474603)
+
++ [打包一个自己的Vivado IP核](https://blog.csdn.net/zhou8400/article/details/140472102)
+
