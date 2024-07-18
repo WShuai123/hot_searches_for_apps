@@ -25,3 +25,7 @@
 
 + [奥迪“浪子回头”，承诺不再使用假排气管](https://m.ithome.com/html/782722.htm)
 
++ [小米 MIX Fold 4 手机搭载金沙江立体异形电池：5100mAh 续航，为折叠屏量身定制](https://m.ithome.com/html/782668.htm)
+
++ [9.98 万元，比亚迪元 UP 纯电 SUV 上新 401km 活力版车型](https://m.ithome.com/html/782557.htm)
+

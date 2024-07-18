@@ -101,3 +101,29 @@
 
 + [C++20之std::span：高效访问容器的神器](https://blog.csdn.net/haokan123456789/article/details/140504149)
 
++ [【机器学习】Grid Search: 一种系统性的超参数优化方法](https://blog.csdn.net/qq_44214428/article/details/140416452)
+
++ [【人工智能】Transformers之Pipeline（三）：文本转音频（text-to-audio/text-to-speech）](https://blog.csdn.net/weixin_48007632/article/details/140475532)
+
++ [umi路由模块化设计：构建可扩展的前端应用](https://blog.csdn.net/qq_53123067/article/details/140515956)
+
++ [基于天地图使用Leaflet.js进行WebGIS开发实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/140505950)
+
++ [Elasticsearch：评估搜索相关性 - 第 1 部分](https://blog.csdn.net/UbuntuTouch/article/details/140512144)
+
++ [SpringBoot集成MQTT实现交互服务通信](https://blog.csdn.net/weixin_40141628/article/details/140502559)
+
++ [CodeGeeX-ALL-9B最新版Pycharm初体验](https://blog.csdn.net/chloeeolhc/article/details/140530455)
+
++ [sqlite数据库，轻量级数据库的使用](https://blog.csdn.net/I_am_shy/article/details/140496735)
+
++ [Spring：为什么使用Spring容器来管理对象，而不是用new呢](https://blog.csdn.net/qq_16946803/article/details/140481135)
+
++ [SpringSecurity + JWT 实现登录认证](https://blog.csdn.net/xaiobit_hl/article/details/140506454)
+
++ [网络抓包工具tcpdump的使用](https://blog.csdn.net/fengzhan12138/article/details/140496763)
+
++ [【概率论三】参数估计：点估计（矩估计、极大似然法）、区间估计](https://blog.csdn.net/hiliang521/article/details/140463572)
+
++ [【微服务】第36节：微服务的分布式事务](https://blog.csdn.net/m0_46013789/article/details/140503722)
+
