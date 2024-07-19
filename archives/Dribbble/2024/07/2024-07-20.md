@@ -135,3 +135,19 @@
 
 + [腐った](https://dribbble.com/shots/)
 
++ [Landing for Agency](https://dribbble.com/shots/)
+
++ [Logos & Marks Vol.7](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [Total Goals Created - Color](https://dribbble.com/shots/)
+
++ [Work Lately](https://dribbble.com/shots/)
+
++ [V logo](https://dribbble.com/shots/)
+
++ [Starbase Cocktails](https://dribbble.com/shots/)
+
++ [Appearance settings — Untitled UI](https://dribbble.com/shots/)
+
