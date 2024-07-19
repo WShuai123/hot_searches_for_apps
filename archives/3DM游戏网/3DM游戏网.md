@@ -101,3 +101,45 @@
 
 + [多人射击新作《星鸣特攻》测试版玩家评价褒贬不一](https://www.3dmgame.com/news/202407/3899553.html)
 
++ [《祇：女神之道》Steam特别好评 战斗出彩](https://www.3dmgame.com/news/202407/3899975.html)
+
++ [印度男子抛妻弃子与母牛结婚 称与牛是灵魂伴侣](https://www.3dmgame.com/news/202407/3899965.html)
+
++ [惠普暗影精灵10竞技版主机开售 8299元起](https://www.3dmgame.com/news/202407/3899966.html)
+
++ [KK官方对战平台夏日重磅赛事，开启宿命之战，决战澄海之巅！](https://www.3dmgame.com/news/202407/3899956.html)
+
++ [《艾尔登法环》粉丝呼吁F社能开发更多DLC](https://www.3dmgame.com/news/202407/3899968.html)
+
++ [格伦·鲍威尔将出演重启版《烈火雄心》电影](https://www.3dmgame.com/news/202407/3899967.html)
+
++ [修复Bug又创造Bug！Win11 7月累计更新存拖慢性能等](https://www.3dmgame.com/news/202407/3899964.html)
+
++ [《电锯甜心RePOP》数字版8月初开启预购 还有惊喜将公布](https://www.3dmgame.com/news/202407/3899963.html)
+
++ [外媒评选今年游玩时间最长的10款游戏 《黄金树幽影》等](https://www.3dmgame.com/news/202407/3899973.html)
+
++ [《流放之路2》首次BETA封测注册开启 1代3.25版本详情](https://www.3dmgame.com/news/202407/3899971.html)
+
++ [美国一男子沉迷PS5游戏 女儿被遗忘在车内活活热死](https://www.3dmgame.com/news/202407/3899959.html)
+
++ [动画《龙珠：大魔》公布全新预告 2024年10月开播](https://www.3dmgame.com/news/202407/3899958.html)
+
++ [KK官方对战平台 暑期全民体育活动预约开启！](https://www.3dmgame.com/news/202407/3899957.html)
+
++ [KK官方对战平台《震惊宠物》上线，体验超爽打宝与宠物进化的冒险之旅！](https://www.3dmgame.com/news/202407/3899955.html)
+
++ [《星鸣特攻》BETA公测遇冷 Steam在线峰值不到2500人](https://www.3dmgame.com/news/202407/3899969.html)
+
++ [Redmi K70至尊版发布 售价2599元起](https://www.3dmgame.com/news/202407/3899970.html)
+
++ [《头脑特工队2》超越《马里奥》 动画电影史上票房第二](https://www.3dmgame.com/news/202407/3899960.html)
+
++ [雷军年度演讲彩蛋曝光：小米SU7 Ultra要来了](https://www.3dmgame.com/news/202407/3899972.html)
+
++ [2024暴雪游戏ChinaJoy 英雄归来欢乐重聚](https://www.3dmgame.com/news/202407/3899961.html)
+
++ [《崩坏：星穹铁道》2.4版本PV 7月31日上线](https://www.3dmgame.com/news/202407/3899974.html)
+
++ [著名黑客女皇突然回归 玩家再次担心《黑神话》会被破解](https://www.3dmgame.com/news/202407/3899962.html)
+
