@@ -59,3 +59,5 @@
 
 + [支付宝 App 新增“视觉风格焕新”开关：图标重绘，顶部颜色变更](https://m.ithome.com/html/782888.htm)
 
++ [全球第 7 人！德国 60 岁男子干细胞移植后“治愈”艾滋病](https://m.ithome.com/html/782804.htm)
+

@@ -211,3 +211,7 @@
 
 + [nightingale: AI Medical & E-Pharmacy | Job Mobile Overview UIUX](https://dribbble.com/shots/)
 
++ [Valantis—Visual Language](https://dribbble.com/shots/)
+
++ [Multi-Currency Wallet Web Design](https://dribbble.com/shots/)
+

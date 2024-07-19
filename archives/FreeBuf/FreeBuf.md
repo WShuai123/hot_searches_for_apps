@@ -57,3 +57,5 @@
 
 + [微软蓝屏事件波及全球，遭知名厂商CrowdStrike“背刺”？](https://www.freebuf.com/news/406518.html)
 
++ [乙方转甲方的职业痛点；安全产品经理的职业困惑 | FB甲方群话题讨论](https://www.freebuf.com/articles/406474.html)
+
