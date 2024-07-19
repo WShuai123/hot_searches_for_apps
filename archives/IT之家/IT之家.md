@@ -51,3 +51,7 @@
 
 + [新增 AI 扩图，华为 Pura 70 Pro+/Ultra 手机获推鸿蒙 HarmonyOS 4.2.0.172 更新](https://m.ithome.com/html/782743.htm)
 
++ [“微软蓝屏”登顶微博热搜：全球多地 Windows 系统崩溃，杀毒软件 CrowdStrike 要背锅？](https://m.ithome.com/html/782870.htm)
+
++ [SU7 大尾翼？小米汽车还有 one more thing，2024 雷军年度演讲今晚举行](https://m.ithome.com/html/782812.htm)
+

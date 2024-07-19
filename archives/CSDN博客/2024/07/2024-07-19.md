@@ -173,3 +173,11 @@
 
 + [黑客自学手册（网络安全）](https://blog.csdn.net/dexi1113/article/details/140527311)
 
++ [导出数据库表信息到Excel](https://blog.csdn.net/qq_49809417/article/details/140539612)
+
++ [香橙派（Orange Pi）AIpro开发板与YOLOv5实践测试](https://blog.csdn.net/m0_68635815/article/details/140464713)
+
++ [开源安全态势感知平台Security Onion](https://blog.csdn.net/weixin_42064802/article/details/140513701)
+
++ [AFAC2024-基于保险条款的问答 比赛日记 llamafactory qwen npu 910B1](https://blog.csdn.net/weixin_41046245/article/details/140546849)
+

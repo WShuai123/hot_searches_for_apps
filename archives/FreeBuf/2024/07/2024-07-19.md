@@ -55,3 +55,5 @@
 
 + [lse：一款专为渗透测试和CTF设计的Linux枚举工具](https://www.freebuf.com/sectool/405791.html)
 
++ [微软蓝屏事件波及全球，遭知名厂商CrowdStrike“背刺”？](https://www.freebuf.com/news/406518.html)
+

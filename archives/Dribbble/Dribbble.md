@@ -179,3 +179,7 @@
 
 + [Doggy](https://dribbble.com/shots/)
 
++ [Secured finance - design concept](https://dribbble.com/shots/)
+
++ [Case Study: Arist Website Design](https://dribbble.com/shots/)
+
