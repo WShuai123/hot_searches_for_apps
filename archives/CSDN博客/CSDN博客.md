@@ -123,3 +123,5 @@
 
 + [CodeGeeX-ALL-9B最新版Pycharm初体验](https://blog.csdn.net/chloeeolhc/article/details/140530455)
 
++ [[MySQL][复核查询][多表查询][自连接][自查询]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140488423)
+
