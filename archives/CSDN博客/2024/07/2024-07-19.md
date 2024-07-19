@@ -183,3 +183,5 @@
 
 + [【数学建模】技术革新——Lingo的使用超详解](https://blog.csdn.net/2303_77720864/article/details/140477564)
 
++ [gite+picgo+typora打造个人免费笔记软件](https://blog.csdn.net/weixin_61587867/article/details/140518541)
+

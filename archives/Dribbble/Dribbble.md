@@ -199,3 +199,13 @@
 
 + [Meta Pastry logo design](https://dribbble.com/shots/)
 
++ [Ticket Service. Part 2](https://dribbble.com/shots/)
+
++ [Total Goals Created - Color](https://dribbble.com/shots/)
+
++ [Dipa Inhouse - 3D Animation](https://dribbble.com/shots/)
+
++ [Tokka - landing page](https://dribbble.com/shots/)
+
++ [Education Web Platform](https://dribbble.com/shots/)
+
