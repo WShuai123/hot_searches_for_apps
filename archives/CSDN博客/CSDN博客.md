@@ -181,3 +181,5 @@
 
 + [AFAC2024-基于保险条款的问答 比赛日记 llamafactory qwen npu 910B1](https://blog.csdn.net/weixin_41046245/article/details/140546849)
 
++ [【数学建模】技术革新——Lingo的使用超详解](https://blog.csdn.net/2303_77720864/article/details/140477564)
+
