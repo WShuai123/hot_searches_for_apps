@@ -47,3 +47,5 @@
 
 + [达梦（DM）数据库网络安全等级测评指南](https://www.freebuf.com/articles/database/405977.html)
 
++ [“投资”近100万美元，Revolver Rabbit注册50万个域名进行恶意活动](https://www.freebuf.com/news/406477.html)
+
