@@ -27,3 +27,19 @@
 
 + [prowler-cloud / prowler](https://github.com/prowler-cloud/prowler)
 
++ [actions / runner-images](https://github.com/actions/runner-images)
+
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [terraform-aws-modules / terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+
++ [samber / lo](https://github.com/samber/lo)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
++ [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+

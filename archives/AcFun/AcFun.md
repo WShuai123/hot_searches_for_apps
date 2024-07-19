@@ -127,3 +127,9 @@
 
 + [【00说】一代女侠郑佩佩](http://www.acfun.cn/v/ac45467661)
 
++ [【ACFUN声唱2024】第二轮第二期：初听入耳惹人醉，细听入心Acer泪](http://www.acfun.cn/v/ac45465408)
+
++ [《异人之下》2](http://www.acfun.cn/v/ac45467983)
+
++ [复刻四伯分享的国外美食视频，在翻车边缘反复跳跃](http://www.acfun.cn/v/ac45463085)
+

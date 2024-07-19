@@ -55,3 +55,7 @@
 
 + [SU7 大尾翼？小米汽车还有 one more thing，2024 雷军年度演讲今晚举行](https://m.ithome.com/html/782812.htm)
 
++ [吴彦祖成为上汽奥迪品牌代言人](https://m.ithome.com/html/782802.htm)
+
++ [支付宝 App 新增“视觉风格焕新”开关：图标重绘，顶部颜色变更](https://m.ithome.com/html/782888.htm)
+
