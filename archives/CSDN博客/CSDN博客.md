@@ -197,3 +197,11 @@
 
 + [TCP协议](https://blog.csdn.net/bushibrnxiaohaij/article/details/140502250)
 
++ [【机器学习】机器学习与语音识别的融合应用与性能优化新探索](https://blog.csdn.net/qq_61024956/article/details/140545482)
+
++ [数据分析案例-2024 年热门动漫数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/138509461)
+
++ [[Spring] Spring IoC与DI注入](https://blog.csdn.net/2301_80050796/article/details/140531072)
+
++ [SolarWinds再爆安全事件，11大关键漏洞引发关注；Python核心库被黑客盯上；AT&T遭入侵，几乎所有无线客户数据被窃取；黑客利用开源工具大肆攻击| 安全周报0719](https://blog.csdn.net/weixin_55163056/article/details/140554934)
+
