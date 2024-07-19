@@ -53,3 +53,5 @@
 
 + [又一全新恶意软件曝光，曾滥用微软驱动程序签名系统](https://www.freebuf.com/news/406489.html)
 
++ [lse：一款专为渗透测试和CTF设计的Linux枚举工具](https://www.freebuf.com/sectool/405791.html)
+

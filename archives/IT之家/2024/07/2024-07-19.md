@@ -47,3 +47,7 @@
 
 + [为 iPad 量身打造，苹果高管揭秘 iPadOS 18 计算器应用的设计理念](https://m.ithome.com/html/782748.htm)
 
++ [热搜第一：男子 32.9 万买到旧宝马获退 1 赔 3 ，经销商旧车当新车卖被判赔 98.7 万元](https://m.ithome.com/html/782853.htm)
+
++ [新增 AI 扩图，华为 Pura 70 Pro+/Ultra 手机获推鸿蒙 HarmonyOS 4.2.0.172 更新](https://m.ithome.com/html/782743.htm)
+
