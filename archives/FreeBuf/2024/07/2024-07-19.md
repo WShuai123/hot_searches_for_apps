@@ -49,3 +49,5 @@
 
 + [“投资”近100万美元，Revolver Rabbit注册50万个域名进行恶意活动](https://www.freebuf.com/news/406477.html)
 
++ [基于动态代理构造的LazyMap版 CC及利用二次反序列化的修复](https://www.freebuf.com/vuls/406123.html)
+

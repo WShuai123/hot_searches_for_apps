@@ -41,3 +41,7 @@
 
 + [特斯拉上海超级工厂正满负荷运营，30 秒下线一辆 Model Y](https://m.ithome.com/html/782734.htm)
 
++ [小米 Watch S4 Sport 手表尝鲜价 2999 元，享优先发货、价格保护](https://m.ithome.com/html/782770.htm)
+
++ [（更新：联发科回应称无重大影响）消息称华为起诉联发科专利侵权](https://m.ithome.com/html/782793.htm)
+
