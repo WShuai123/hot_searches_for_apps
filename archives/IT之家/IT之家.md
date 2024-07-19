@@ -37,3 +37,7 @@
 
 + [小米 MIX Flip 折叠屏手机盲售 7999 元：可退还差价，限量 100 台](https://m.ithome.com/html/782767.htm)
 
++ [小米 SU7 合金车模新配色公布：橄榄绿、熔岩橙、霞光紫](https://m.ithome.com/html/782752.htm)
+
++ [特斯拉上海超级工厂正满负荷运营，30 秒下线一辆 Model Y](https://m.ithome.com/html/782734.htm)
+
