@@ -205,3 +205,5 @@
 
 + [SolarWinds再爆安全事件，11大关键漏洞引发关注；Python核心库被黑客盯上；AT&T遭入侵，几乎所有无线客户数据被窃取；黑客利用开源工具大肆攻击| 安全周报0719](https://blog.csdn.net/weixin_55163056/article/details/140554934)
 
++ [AI算不出9.11和9.9哪个大？六家大模型厂商总结了这些原因](https://blog.csdn.net/weixin_41446370/article/details/140538613)
+

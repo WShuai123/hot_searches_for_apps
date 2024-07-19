@@ -63,3 +63,7 @@
 
 + [雷军：2021 年被美国制裁让小米正式考虑造车，蔚来李斌与何小鹏力挺](https://m.ithome.com/html/783011.htm)
 
++ [8999 元起！小米 MIX Fold 4 折叠屏手机正式发布：采用龙骨转轴 2.0，支持双向卫星通信](https://m.ithome.com/html/783027.htm)
+
++ [5999 元起，小米首款小折叠屏手机 MIX Flip 发布：4 英寸大外屏、第三代骁龙 8](https://m.ithome.com/html/783030.htm)
+
