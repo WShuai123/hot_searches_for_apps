@@ -41,3 +41,7 @@
 
 + [FreeBuf 全球网络安全产业投融资观察（6月）](https://www.freebuf.com/articles/neopoints/406174.html)
 
++ [FreeBuf早报 | 中国政务云市场规模达794.5亿；代码托管平台 GitLab 正考虑出售](https://www.freebuf.com/news/406358.html)
+
++ [当“广撒网”遇上“精准定点”的鱼叉式网络钓鱼](https://www.freebuf.com/articles/paper/406293.html)
+

@@ -31,3 +31,7 @@
 
 + [阿里云盘三方应用权益包上线：云盘挂载为本地盘、官方 WebDAV，首发 10 元 / 月](https://m.ithome.com/html/782707.htm)
 
++ [华为 Pura 70 系列全系推出限时优惠：最高优惠 1000 元](https://m.ithome.com/html/782636.htm)
+
++ [小米 MIX Fold 4 折叠屏手机预热：系列首次支持 IPX8 级防水](https://m.ithome.com/html/782638.htm)
+
