@@ -35,3 +35,5 @@
 
 + [小米 MIX Fold 4 折叠屏手机预热：系列首次支持 IPX8 级防水](https://m.ithome.com/html/782638.htm)
 
++ [小米 MIX Flip 折叠屏手机盲售 7999 元：可退还差价，限量 100 台](https://m.ithome.com/html/782767.htm)
+
