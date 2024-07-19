@@ -171,3 +171,9 @@
 
 + [Riddance - Packaging Design](https://dribbble.com/shots/)
 
++ [Griffin / gryphon, winged lion with eagle head logo design](https://dribbble.com/shots/)
+
++ [truck](https://dribbble.com/shots/)
+
++ [Gradients Logo Designs Part 3](https://dribbble.com/shots/)
+

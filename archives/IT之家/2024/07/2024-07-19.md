@@ -45,3 +45,5 @@
 
 + [（更新：联发科回应称无重大影响）消息称华为起诉联发科专利侵权](https://m.ithome.com/html/782793.htm)
 
++ [为 iPad 量身打造，苹果高管揭秘 iPadOS 18 计算器应用的设计理念](https://m.ithome.com/html/782748.htm)
+
