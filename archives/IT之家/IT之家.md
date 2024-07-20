@@ -25,3 +25,5 @@
 
 + [腾讯《DNF 手游》发布道歉信：没有从玩家视角去思考问题及 BUG 的影响](https://m.ithome.com/html/783076.htm)
 
++ [全球 Win10 / Win11 蓝屏事件后续：CrowdStrike 更新导致 Debian / Rocky Linux 崩溃，但当时未引起注意](https://m.ithome.com/html/783099.htm)
+
