@@ -225,3 +225,9 @@
 
 + [长江存储在美国起诉美光 指控对方侵犯其11项专利](https://www.3dmgame.com/news/202407/3900016.html)
 
++ [《上古卷轴6》设定在落锤省几乎要被石锤了](https://www.3dmgame.com/news/202407/3900018.html)
+
++ [微软蓝屏事件中国企业幸免 软件业自主可控价值凸显](https://www.3dmgame.com/news/202407/3900019.html)
+
++ [担架运伤员动作游戏《STRETCHER MEN》7月29日发售](https://www.3dmgame.com/news/202407/3900017.html)
+
