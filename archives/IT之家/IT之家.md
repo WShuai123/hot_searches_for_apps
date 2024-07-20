@@ -27,3 +27,5 @@
 
 + [全球 Win10 / Win11 蓝屏事件后续：CrowdStrike 更新导致 Debian / Rocky Linux 崩溃，但当时未引起注意](https://m.ithome.com/html/783099.htm)
 
++ [小米 13 / Pro / Ultra 开启澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/783195.htm)
+

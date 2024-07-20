@@ -101,3 +101,9 @@
 
 + [[SA8155] 探索QNX中如何管理安卓AB分区](https://blog.csdn.net/u012139744/article/details/140531558)
 
++ [【微服务】第38节：微服务的OpenFeign远程调用](https://blog.csdn.net/m0_46013789/article/details/140534816)
+
++ [NVIDIA全面转向开源GPU内核模块](https://blog.csdn.net/2301_79342058/article/details/140558094)
+
++ [小程序底层原理](https://blog.csdn.net/bfbshs_ddd/article/details/140551742)
+
