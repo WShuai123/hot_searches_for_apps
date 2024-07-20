@@ -215,3 +215,9 @@
 
 + [神谷英树喊话卡普空要开发《大神2》:“给粉丝想要的”](https://www.3dmgame.com/news/202407/3900005.html)
 
++ [《Bigfoot Life》大脚怪太像人脸 开发者或考虑修改](https://www.3dmgame.com/news/202407/3900014.html)
+
++ [网飞当前正在开发80多款游戏 目标每月发布一款](https://www.3dmgame.com/news/202407/3900013.html)
+
++ [《博德之门3》阿斯代伦配音想参演B社作品：真的很爱《辐射》](https://www.3dmgame.com/news/202407/3900012.html)
+

@@ -109,3 +109,7 @@
 
 + [把bug做成游戏模式？全新版本！BUG骑士《元气骑士》](http://www.acfun.cn/v/ac45468429)
 
++ [★求投五蕉★网络上常见的热门短视频集锦 第一千八百六十二期](http://www.acfun.cn/v/ac45470668)
+
++ [群山在召唤——Valley Peaks中文完整版全球首发披露【琉一手】](http://www.acfun.cn/v/ac45471940)
+
