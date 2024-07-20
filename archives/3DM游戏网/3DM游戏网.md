@@ -155,3 +155,27 @@
 
 + [PvE合作生存逃离ARPG《Surfpunk》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3899979.html)
 
++ [《斯普拉遁3》大型庆典活动将于9月上线 或为最终更新](https://www.3dmgame.com/news/202407/3899993.html)
+
++ [R星曾计划将《勇士帮》移植GBA掌机 项目最终被取消](https://www.3dmgame.com/news/202407/3899989.html)
+
++ [魔幻现实主义文字冒险游戏《置换》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3899992.html)
+
++ [微软蓝屏故障后航空公司逐步复飞：航司或面临巨额赔偿](https://www.3dmgame.com/news/202407/3899991.html)
+
++ [《乐高地平线大冒险》将弱化原版游戏中的残酷元素](https://www.3dmgame.com/news/202407/3899990.html)
+
++ [《漫威争锋》“术士亚当”预告片 7月24日封测](https://www.3dmgame.com/news/202407/3899986.html)
+
++ [不可思议！有220万人花100美元提前3天玩《大学橄榄球25》](https://www.3dmgame.com/news/202407/3899985.html)
+
++ [《战锤40K：星际战士2》重型爆弹枪预告 9月9日发售](https://www.3dmgame.com/news/202407/3899984.html)
+
++ [《死侍与金刚狼》最终预告片：金刚狼之女劳拉回归](https://www.3dmgame.com/news/202407/3899983.html)
+
++ [网飞《鱿鱼游戏》剧改多人游戏将于2024年内发布](https://www.3dmgame.com/news/202407/3899982.html)
+
++ [美国联邦贸易委员会批评XGP涨价 称其损害消费者权益](https://www.3dmgame.com/news/202407/3899988.html)
+
++ [MCU如今感觉太松散？凯文·费奇：处理多元宇宙不容易](https://www.3dmgame.com/news/202407/3899987.html)
+

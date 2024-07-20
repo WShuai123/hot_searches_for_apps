@@ -31,3 +31,7 @@
 
 + [1999 元起，小米最高端智能手表 Watch S4 Sport 发布：钛金属机身、eSIM 独立通信](https://m.ithome.com/html/783041.htm)
 
++ [SU7 Ultra 原型车正式亮相，小米汽车目标十年内成为纽北最快的四门电车](https://m.ithome.com/html/783050.htm)
+
++ [支付宝 App 新增“视觉风格焕新”开关：图标重绘，顶部颜色变更](https://m.ithome.com/html/782888.htm)
+
