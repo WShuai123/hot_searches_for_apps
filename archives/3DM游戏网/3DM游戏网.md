@@ -231,3 +231,5 @@
 
 + [担架运伤员动作游戏《STRETCHER MEN》7月29日发售](https://www.3dmgame.com/news/202407/3900017.html)
 
++ [《艾尔登法环》官方致歉 承诺将补上缺失译员名单](https://www.3dmgame.com/news/202407/3900020.html)
+

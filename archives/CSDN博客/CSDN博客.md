@@ -171,3 +171,13 @@
 
 + [网络安全-网络安全及其防护措施12](https://blog.csdn.net/LS_Ai/article/details/140545095)
 
++ [基于 CNN(二维卷积Conv2D)+LSTM 实现股票多变量时间序列预测(PyTorch版)](https://blog.csdn.net/m0_63287589/article/details/140551110)
+
++ [基于 Gunicorn、Flask 和 Docker 的 Web 应用开发](https://blog.csdn.net/2401_85639015/article/details/140549021)
+
++ [[Linux安全运维] OpenVPN部署](https://blog.csdn.net/Da1NtY/article/details/140540892)
+
++ [价格战再起：OpenAI 发布更便宜、更智能的 GPT-4o Mini 模型｜TodayAI](https://blog.csdn.net/ponderai/article/details/140545947)
+
++ [uni-app 影视类小程序开发从零到一 | 开源项目分享](https://blog.csdn.net/qq8864/article/details/140575597)
+

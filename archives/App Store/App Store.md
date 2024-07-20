@@ -213,3 +213,5 @@
 
 + [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
 
++ [小米运动健康](https://itunes.apple.com/cn/app/id1493500777?mt=8)
+
