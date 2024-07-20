@@ -233,3 +233,5 @@
 
 + [《艾尔登法环》官方致歉 承诺将补上缺失译员名单](https://www.3dmgame.com/news/202407/3900020.html)
 
++ [国产武侠ARPG《猿公剑：白猿觉醒》公布 16分钟实机](https://www.3dmgame.com/news/202407/3900021.html)
+

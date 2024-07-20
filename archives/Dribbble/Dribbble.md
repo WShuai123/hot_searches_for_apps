@@ -263,3 +263,7 @@
 
 + [Landscape Minis](https://dribbble.com/shots/)
 
++ [Creative Juice SaaS - AI Blogger Finance App](https://dribbble.com/shots/)
+
++ [Cryptocurrency Dashboard](https://dribbble.com/shots/)
+

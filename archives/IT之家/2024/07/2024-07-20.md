@@ -55,3 +55,13 @@
 
 + [消息称华为三折叠屏手机搭麒麟 9 系平台 / 双铰链技术，“蓝绿大折迭代”配 6000 毫安时级别电池](https://m.ithome.com/html/783116.htm)
 
++ [【IT之家评测室】米系首款小折叠手机，小米 MIX Flip 评测](https://m.ithome.com/html/783148.htm)
+
++ [小米 MIX Flip 折叠屏手机随身拍套装上架：快速打印实体照片，预售 499 元](https://m.ithome.com/html/783089.htm)
+
++ [联发科天玑 8400 首曝：样片跑分远超高通骁龙 8s Gen3](https://m.ithome.com/html/783168.htm)
+
++ [2025 款比亚迪宋 PLUS DM-i 预扣提车价曝光：15 万元起](https://m.ithome.com/html/783183.htm)
+
++ [华硕 ROG 幻 16 Air 锐龙版游戏本上架：AI 9 HX 370 + RTX 4060 版 15999 元](https://m.ithome.com/html/783072.htm)
+
