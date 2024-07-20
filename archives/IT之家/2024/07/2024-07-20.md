@@ -41,3 +41,5 @@
 
 + [【IT之家开箱】小米 MIX Flip 幻影紫图赏，比初代小米手机更大的外屏](https://m.ithome.com/html/783039.htm)
 
++ [小升初查成绩强制安装“满是广告”App，查错题需充 365 元？山东烟台教体局回应“已道歉并退费”](https://m.ithome.com/html/783118.htm)
+

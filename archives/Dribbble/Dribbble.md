@@ -251,3 +251,9 @@
 
 + [Abstract Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
 
++ [DisputeFox Mobile App - Credit Score Dashboard](https://dribbble.com/shots/)
+
++ [Charity App Design](https://dribbble.com/shots/)
+
++ [Arist Web Design](https://dribbble.com/shots/)
+
