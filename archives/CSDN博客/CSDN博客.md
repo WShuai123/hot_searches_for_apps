@@ -157,3 +157,7 @@
 
 + [主从复制 哨兵服务 数据类型 持久化](https://blog.csdn.net/2401_84376072/article/details/140540753)
 
++ [（35）远程识别(又称无人机识别)（一）](https://blog.csdn.net/qq_20016593/article/details/140547617)
+
++ [【Django+Vue3 线上教育平台项目实战】购物车与订单模块的精简实现与数据安全策略](https://blog.csdn.net/m0_48173416/article/details/140414881)
+

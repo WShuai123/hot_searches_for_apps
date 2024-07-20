@@ -199,3 +199,19 @@
 
 + [以麻将为基础的牌组构筑游戏《皇帝麻将》Steam页面上线 年内发售](https://www.3dmgame.com/news/202407/3900003.html)
 
++ [《赛博朋克酒保行动》工作室新作公布首支预告片](https://www.3dmgame.com/news/202407/3900011.html)
+
++ [网飞高管：生成式AI创作更好剧本，但人类才是关键](https://www.3dmgame.com/news/202407/3900010.html)
+
++ [ATLUS推出《女神异闻录5》官方联名辣酱和咖啡豆](https://www.3dmgame.com/news/202407/3900009.html)
+
++ [《阿凡达：潘多拉边境》主机版免费体验周开启](https://www.3dmgame.com/news/202407/3900008.html)
+
++ [国内首个全绿电供应虚拟电厂在宁波投运 多种电源智能切换](https://www.3dmgame.com/news/202407/3900007.html)
+
++ [7月两部新片破10亿：《抓娃娃》登顶暑期档票房榜](https://www.3dmgame.com/news/202407/3900006.html)
+
++ [养成游戏《宠物街金鱼姬》steam页面 支持中文](https://www.3dmgame.com/news/202407/3900004.html)
+
++ [神谷英树喊话卡普空要开发《大神2》:“给粉丝想要的”](https://www.3dmgame.com/news/202407/3900005.html)
+
