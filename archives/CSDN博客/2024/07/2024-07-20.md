@@ -149,3 +149,5 @@
 
 + [[SA8155] 探索QNX中如何管理安卓AB分区](https://blog.csdn.net/u012139744/article/details/140531558)
 
++ [基于微信小程序+SpringBoot+数据可视化的校园快餐配送小程序设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140565317)
+

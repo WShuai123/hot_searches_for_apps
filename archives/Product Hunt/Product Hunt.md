@@ -121,3 +121,51 @@
 
 + [VeedoAI](https://www.producthunt.com/posts/veedoai-2)
 
++ [Overcast 10](https://www.producthunt.com/posts/overcast-10)
+
++ [Eazy Folio](https://www.producthunt.com/posts/eazy-folio)
+
++ [TI84 calculator online](https://www.producthunt.com/posts/ti84-calculator-online)
+
++ [Athlabs](https://www.producthunt.com/posts/athlabs)
+
++ [GPT4oMini.app](https://www.producthunt.com/posts/gpt4omini-app)
+
++ [Cineswipe](https://www.producthunt.com/posts/cineswipe)
+
++ [New Portal](https://www.producthunt.com/posts/new-portal)
+
++ [ezjson](https://www.producthunt.com/posts/ezjson)
+
++ [Animate Old Photos](https://www.producthunt.com/posts/animate-old-photos)
+
++ [Discovery Outcomes](https://www.producthunt.com/posts/discovery-outcomes)
+
++ [Screenshot Master](https://www.producthunt.com/posts/screenshot-master)
+
++ [That's One Second](https://www.producthunt.com/posts/that-s-one-second)
+
++ [Revent.ai](https://www.producthunt.com/posts/revent-ai)
+
++ [AI Memory](https://www.producthunt.com/posts/ai-memory)
+
++ [Kwotes • App](https://www.producthunt.com/posts/kwotes-app)
+
++ [Jelly Max](https://www.producthunt.com/posts/jelly-max)
+
++ [Linux Toolchains](https://www.producthunt.com/posts/linux-toolchains)
+
++ [AI Math Solver by GPT-4o Free Online](https://www.producthunt.com/posts/ai-math-solver-by-gpt-4o-free-online)
+
++ [DecideRandomly](https://www.producthunt.com/posts/deciderandomly)
+
++ [Social Media Kit](https://www.producthunt.com/posts/social-media-kit)
+
++ [Cohesive AI](https://www.producthunt.com/posts/cohesive-ai-2)
+
++ [Ultimate PO Box Blocker for Shopify](https://www.producthunt.com/posts/ultimate-po-box-blocker-for-shopify)
+
++ [Kinetical](https://www.producthunt.com/posts/kinetical)
+
++ [Editor.do](https://www.producthunt.com/posts/editor-do)
+

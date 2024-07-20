@@ -51,3 +51,5 @@
 
 + [CodeQL：探索代码安全的利器](https://www.freebuf.com/vuls/406022.html)
 
++ [gftrace：一款针对Golang源码的Windows API跟踪工具](https://www.freebuf.com/sectool/405918.html)
+

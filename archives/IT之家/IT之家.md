@@ -39,3 +39,5 @@
 
 + [小米手环 9 / Watch S4 Sport 手表 / Buds 5 耳机开售，至高 12 期免息](https://m.ithome.com/html/783046.htm)
 
++ [【IT之家开箱】小米 MIX Flip 幻影紫图赏，比初代小米手机更大的外屏](https://m.ithome.com/html/783039.htm)
+
