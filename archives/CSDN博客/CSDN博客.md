@@ -139,3 +139,7 @@
 
 + [打造新闻阅读微信小程序：从列表展示到实用功能一应俱全](https://blog.csdn.net/mba16c35/article/details/140577311)
 
++ [利用PyTorch进行模型量化](https://blog.csdn.net/jkoij23/article/details/140577767)
+
++ [【AI 大模型】函数调用 Function Calling ② ( Plugins、Actions 扩展 | 函数调用 Function Calling 引入 | 函数调用开发流程 | 代码示例 )](https://blog.csdn.net/han1202012/article/details/140380268)
+

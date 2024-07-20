@@ -137,3 +137,17 @@
 
 + [DisputeFox Mobile App - Credit Score Dashboard](https://dribbble.com/shots/)
 
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Cards - Fintech Mobile App - Trinkerr](https://dribbble.com/shots/)
+
++ [Website for Insurance Company](https://dribbble.com/shots/)
+
++ [3D icon Video store for OS design](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Shark Logo](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
