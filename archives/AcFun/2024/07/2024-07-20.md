@@ -81,3 +81,7 @@
 
 + [同样是打铁，老师真的充满力量](http://www.acfun.cn/v/ac45469752)
 
++ [【音·痴·杀·手】意外非常需要发声技巧的《One Hand Clapping》通关全流程](http://www.acfun.cn/v/ac45469681)
+
++ [沸羊羊都得拿你当祖师爷！★手机竖屏1217★](http://www.acfun.cn/v/ac45469091)
+

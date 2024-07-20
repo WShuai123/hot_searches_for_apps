@@ -35,3 +35,5 @@
 
 + [支付宝 App 新增“视觉风格焕新”开关：图标重绘，顶部颜色变更](https://m.ithome.com/html/782888.htm)
 
++ [【一图知】2024 雷军年度演讲：小米 SU7 Ultra 原型车首次亮相，MIX Fold 4 / Flip 折叠屏、Redmi K70 至尊版手机发布](https://m.ithome.com/html/783060.htm)
+

@@ -171,3 +171,31 @@
 
 + [You cant win if you dont play!](https://dribbble.com/shots/)
 
++ [Website for Insurance Company](https://dribbble.com/shots/)
+
++ [Alarm Lite](https://dribbble.com/shots/)
+
++ [Arist Website Home Page](https://dribbble.com/shots/)
+
++ [Wifi icon animation](https://dribbble.com/shots/)
+
++ [Esports Academy](https://dribbble.com/shots/)
+
++ [Shark Logo](https://dribbble.com/shots/)
+
++ [Cards - Fintech Mobile App - Trinkerr](https://dribbble.com/shots/)
+
++ [Hero Exploration || Insurance Company](https://dribbble.com/shots/)
+
++ [Son of man](https://dribbble.com/shots/)
+
++ [Chat AI](https://dribbble.com/shots/)
+
++ [Instacart Restaurants](https://dribbble.com/shots/)
+
++ [2D Caracter to 3D](https://dribbble.com/shots/)
+
++ [Home fitness app](https://dribbble.com/shots/)
+
++ [Logo concept for specialty coffee](https://dribbble.com/shots/)
+

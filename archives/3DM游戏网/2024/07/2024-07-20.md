@@ -179,3 +179,13 @@
 
 + [MCU如今感觉太松散？凯文·费奇：处理多元宇宙不容易](https://www.3dmgame.com/news/202407/3899987.html)
 
++ [澳洲屏幕文化博物馆将举办《捣蛋鹅》主题活动展览](https://www.3dmgame.com/news/202407/3899998.html)
+
++ [PC主板市场似乎有所回暖 出货量较前年上升25%](https://www.3dmgame.com/news/202407/3899994.html)
+
++ [《黑袍纠察队》“休伊”试镜滚导超人 结局显而易见](https://www.3dmgame.com/news/202407/3899997.html)
+
++ [微软CEO：正合作解决蓝屏故障 马斯克：汽车供应链遭暴击](https://www.3dmgame.com/news/202407/3899996.html)
+
++ [汤姆·赫兰德下一部《蜘蛛侠》电影即将写好剧情草稿](https://www.3dmgame.com/news/202407/3899995.html)
+
