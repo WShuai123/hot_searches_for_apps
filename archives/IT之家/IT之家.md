@@ -29,3 +29,5 @@
 
 + [小米手环 9 发布：升级金属 / 陶瓷机身、多配色腕带，249 元起](https://m.ithome.com/html/783038.htm)
 
++ [1999 元起，小米最高端智能手表 Watch S4 Sport 发布：钛金属机身、eSIM 独立通信](https://m.ithome.com/html/783041.htm)
+

@@ -149,3 +149,9 @@
 
 + [Xbox EMEA营销主管：我们没有PlayStation那样的巨额营销资金](https://www.3dmgame.com/news/202407/3899976.html)
 
++ [《黑神话：悟空》有大量宫崎英高时刻：毒沼泽、宝箱怪](https://www.3dmgame.com/news/202407/3899981.html)
+
++ [《猎杀：对决1896》获得ESRB评级 或为次世代升级](https://www.3dmgame.com/news/202407/3899980.html)
+
++ [PvE合作生存逃离ARPG《Surfpunk》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3899979.html)
+

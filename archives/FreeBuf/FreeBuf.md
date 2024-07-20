@@ -45,3 +45,7 @@
 
 + [“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击](https://www.freebuf.com/articles/network/405790.html)
 
++ [双一流高校某教学系统存在多个高危漏洞](https://www.freebuf.com/vuls/405764.html)
+
++ [到底是什么神仙安全软件，让全球如此多公司同时“蓝屏”](https://www.freebuf.com/news/406594.html)
+
