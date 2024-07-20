@@ -107,3 +107,25 @@
 
 + [小程序底层原理](https://blog.csdn.net/bfbshs_ddd/article/details/140551742)
 
++ [SpringBoot中fastjson扩展: 自定义序列化和反序列化方法实战](https://blog.csdn.net/qq_26664043/article/details/140254758)
+
++ [什么是TCP/IP协议](https://blog.csdn.net/weixin_41803016/article/details/140545871)
+
++ [【数字IC/FPGA】书籍推荐（2）----《那些年，我们拿下了FPGA》](https://blog.csdn.net/wuzhikaidetb/article/details/140550063)
+
++ [MySQL迁移以及灾备方案](https://blog.csdn.net/itxuchuanlong/article/details/140546904)
+
++ [Spark SQL----GROUP BY子句](https://blog.csdn.net/gabriel_wang_sh/article/details/137514755)
+
++ [网络通讯实验2](https://blog.csdn.net/2401_83342251/article/details/140555314)
+
++ [MongoDB文档整理](https://blog.csdn.net/qq_46921028/article/details/140572624)
+
++ [Redis的AOF持久化策略(AOF的工作流程、AOF的重写流程，操作演示、注意事项等）](https://blog.csdn.net/Shine0115/article/details/140561658)
+
++ [Nacos2.3.1集群+数据持久化+鉴权+负载LB](https://blog.csdn.net/A3160251508_/article/details/140555527)
+
++ [【Jmeter】记录一次Jmeter实战测试](https://blog.csdn.net/weixin_45683778/article/details/140556360)
+
++ [arm、AArch64、x86、amd64、x86_64 的区别](https://blog.csdn.net/u013669912/article/details/140536521)
+
