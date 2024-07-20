@@ -151,3 +151,9 @@
 
 + [基于微信小程序+SpringBoot+数据可视化的校园快餐配送小程序设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140565317)
 
++ [多任务高斯过程数学原理和Pytorch实现示例](https://blog.csdn.net/m0_46510245/article/details/140567404)
+
++ [【数据库系列】Parquet 文件介绍](https://blog.csdn.net/qyj19920704/article/details/140561670)
+
++ [主从复制 哨兵服务 数据类型 持久化](https://blog.csdn.net/2401_84376072/article/details/140540753)
+

@@ -195,3 +195,7 @@
 
 + [雷军：苹果十年造不出车 凭啥小米三年就能干成！](https://www.3dmgame.com/news/202407/3900000.html)
 
++ [EA《大学橄榄球25》选择完全绕过PC平台 原因不明](https://www.3dmgame.com/news/202407/3900002.html)
+
++ [以麻将为基础的牌组构筑游戏《皇帝麻将》Steam页面上线 年内发售](https://www.3dmgame.com/news/202407/3900003.html)
+
