@@ -49,3 +49,5 @@
 
 + [到底是什么神仙安全软件，让全球如此多公司同时“蓝屏”](https://www.freebuf.com/news/406594.html)
 
++ [CodeQL：探索代码安全的利器](https://www.freebuf.com/vuls/406022.html)
+

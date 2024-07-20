@@ -143,3 +143,9 @@
 
 + [如何学习Spark：糙快猛的大数据之旅](https://blog.csdn.net/u012955829/article/details/140508455)
 
++ [GPT-4o mini：引领成本效益的智能革命](https://blog.csdn.net/qq_44866828/article/details/140558478)
+
++ [概率论中的卷积公式](https://blog.csdn.net/2302_80644606/article/details/140564864)
+
++ [[SA8155] 探索QNX中如何管理安卓AB分区](https://blog.csdn.net/u012139744/article/details/140531558)
+

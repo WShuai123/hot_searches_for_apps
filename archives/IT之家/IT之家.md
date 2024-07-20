@@ -37,3 +37,5 @@
 
 + [【一图知】2024 雷军年度演讲：小米 SU7 Ultra 原型车首次亮相，MIX Fold 4 / Flip 折叠屏、Redmi K70 至尊版手机发布](https://m.ithome.com/html/783060.htm)
 
++ [小米手环 9 / Watch S4 Sport 手表 / Buds 5 耳机开售，至高 12 期免息](https://m.ithome.com/html/783046.htm)
+
