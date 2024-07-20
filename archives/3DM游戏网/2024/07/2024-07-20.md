@@ -143,3 +143,9 @@
 
 + [著名黑客女皇突然回归 玩家再次担心《黑神话》会被破解](https://www.3dmgame.com/news/202407/3899962.html)
 
++ [《失落之魂》确认参加CJ 届时将展示游戏最新进展](https://www.3dmgame.com/news/202407/3899978.html)
+
++ [多人合作游戏《乱剪一通》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3899977.html)
+
++ [Xbox EMEA营销主管：我们没有PlayStation那样的巨额营销资金](https://www.3dmgame.com/news/202407/3899976.html)
+

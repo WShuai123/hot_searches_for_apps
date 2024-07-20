@@ -25,3 +25,7 @@
 
 + [小米 SU7 Ultra 原型车正式发布：V8s 首次上车，1 秒级零百加速](https://m.ithome.com/html/783053.htm)
 
++ [2024 雷军年度演讲一文汇总：小米 SU7 Ultra 原型车惊喜亮相、折叠双机、海量配件......](https://m.ithome.com/html/783064.htm)
+
++ [小米手环 9 发布：升级金属 / 陶瓷机身、多配色腕带，249 元起](https://m.ithome.com/html/783038.htm)
+

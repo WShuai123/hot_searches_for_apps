@@ -41,3 +41,7 @@
 
 + [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
 
++ [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html)
+
++ [“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击](https://www.freebuf.com/articles/network/405790.html)
+
