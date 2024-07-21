@@ -49,3 +49,5 @@
 
 + [记一次某SRC挖掘](https://www.freebuf.com/articles/web/405605.html)
 
++ [Bypass Fuzzer：一款针对Web终端节点40x状态码的模糊测试工具](https://www.freebuf.com/sectool/405922.html)
+

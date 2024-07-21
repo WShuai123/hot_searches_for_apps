@@ -181,3 +181,9 @@
 
 + [Arist Website Home Page](https://dribbble.com/shots/)
 
++ [Task Management Landing Page](https://dribbble.com/shots/)
+
++ [Gaming Dashboard](https://dribbble.com/shots/)
+
++ [Fitness Tracker Mobile iOS App Design Concept](https://dribbble.com/shots/)
+
