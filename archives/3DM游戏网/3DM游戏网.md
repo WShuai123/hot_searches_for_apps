@@ -177,3 +177,7 @@
 
 + [腾讯收购字节跳动朝夕光年旗下公司](https://www.3dmgame.com/news/202407/3900057.html)
 
++ [艾米·汉莫：我可不是食人魔 感谢小唐尼帮助戒毒](https://www.3dmgame.com/news/202407/3900061.html)
+
++ [《七日世界》饱受延迟困扰 官方称已找到问题根源](https://www.3dmgame.com/news/202407/3900060.html)
+

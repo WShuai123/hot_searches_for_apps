@@ -215,3 +215,7 @@
 
 + [【网络安全科普】勒索病毒 防护指南](https://blog.csdn.net/a38417/article/details/140572697)
 
++ [【人工智能】Python实现文本转换为语音：使用gTTS库实现](https://blog.csdn.net/m0_52827996/article/details/140591208)
+
++ [GPT-4o mini：引领成本效益的智能革命](https://blog.csdn.net/qq_44866828/article/details/140558478)
+

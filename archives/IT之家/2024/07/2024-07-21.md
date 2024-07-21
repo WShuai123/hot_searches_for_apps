@@ -63,3 +63,5 @@
 
 + [小米 Redmi K70 至尊版手机推送澎湃 OS 1.0.13.0 更新：新增 AI 识图、AI 摘要、一句话成片等](https://m.ithome.com/html/783214.htm)
 
++ [网友在苹果 iPhone 15 Pro 上跑 Win11，体验惨不忍睹](https://m.ithome.com/html/783294.htm)
+
