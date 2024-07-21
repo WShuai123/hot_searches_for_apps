@@ -103,3 +103,5 @@
 
 + [《Fate/EXTRA Record》新预告 8月4日公开新情报](https://www.3dmgame.com/news/202407/3900064.html)
 
++ [零售店泄露PS3《无限传说》或将推出复刻版](https://www.3dmgame.com/news/202407/3900065.html)
+

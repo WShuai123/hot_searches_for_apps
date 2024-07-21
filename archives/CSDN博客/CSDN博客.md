@@ -129,3 +129,5 @@
 
 + [ue5笔记](https://blog.csdn.net/yanhuicun_fanxia/article/details/139841340)
 
++ [基于MSPM0G3507的智能送药小车（21电赛F题，OPENMV循迹，K210识别数字，并行PID快速学习，小车转动返回）](https://blog.csdn.net/weixin_60991529/article/details/140585607)
+

@@ -118,3 +118,31 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Loota logo](https://dribbble.com/shots/)
 
++ [Aella Credit SaaS - Credit Score Dashboard](https://dribbble.com/shots/)
+
++ [RealtyHub CRM - Real Estate Dashboard](https://dribbble.com/shots/)
+
++ [Real Estate Website Design](https://dribbble.com/shots/)
+
++ [Ampersand 2024 Logo Exhibition](https://dribbble.com/shots/)
+
++ [Landing for Agency](https://dribbble.com/shots/)
+
++ [Karma](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
++ [Anne of Green Gables](https://dribbble.com/shots/)
+
++ [New message — Untitled UI](https://dribbble.com/shots/)
+
++ [Dachshund Moka Pot](https://dribbble.com/shots/)
+
++ [EF Hello](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [Ataraxia | Unused Brand](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
