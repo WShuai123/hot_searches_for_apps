@@ -102,3 +102,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Gameboy](https://dribbble.com/shots/)
 
++ [SIM Card Web Platform Design Template](https://dribbble.com/shots/)
+
++ [Tiny cookies](https://dribbble.com/shots/)
+
++ [SaaS Websites - Lookscout Design System](https://dribbble.com/shots/)
+
++ [Buddybook.app | Buddies](https://dribbble.com/shots/)
+
