@@ -53,3 +53,52 @@
 
 + [Mobile application for smart home control](https://dribbble.com/shots/)
 
++ [44 Races Logotype Concepts](https://dribbble.com/shots/)
+
++ [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
+
++ [AP monogram](https://dribbble.com/shots/)
+
++ [Haven Haus Alternative Logo](https://dribbble.com/shots/)
+
++ [Wifi icon animation](https://dribbble.com/shots/)
+
++ [Griffin / gryphon, winged lion with eagle head logo design](https://dribbble.com/shots/)
+
++ [FlexiCar Mobile App - Car Sharing SaaS](https://dribbble.com/shots/)
+
++ [???? API keys](https://dribbble.com/shots/)
+
++ [Airplane Coffee](https://dribbble.com/shots/)
+
++ [Unused Sequence Logo Concept](https://dribbble.com/shots/)
+
++ [Where gravity meets its match!](https://dribbble.com/shots/)
+
++ [She Speaks](https://dribbble.com/shots/)
+
++ [Ternary - Product Visuals](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Space](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [Couple Joy App Icon](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Rapide, fast delivery saas logo design: letter r + box + flag](https://dribbble.com/shots/)
+
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [Olympic keepsakes](https://dribbble.com/shots/)
+
++ [Landscape Minis](https://dribbble.com/shots/)
+
++ [Lion Logo](https://dribbble.com/shots/)
+
++ [Gameboy](https://dribbble.com/shots/)
+

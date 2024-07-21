@@ -101,3 +101,29 @@
 
 + [智能合约中重放攻击](https://blog.csdn.net/qq_38420688/article/details/140494155)
 
++ [利用【MATLAB】和【Python】进行【图与网络模型】的高级应用与分析】](https://blog.csdn.net/2303_77720864/article/details/140594882)
+
++ [Agent类型解析：AIGC在不同领域的应用与影响](https://blog.csdn.net/SDFsoul/article/details/140594004)
+
++ [【Python系列】Python 缓存机制](https://blog.csdn.net/qyj19920704/article/details/140562057)
+
++ [组队学习——贝叶斯分类器](https://blog.csdn.net/m0_72195508/article/details/140576945)
+
++ [AI模型大比拼：Claude 3系列 vs GPT-4系列最新模型综合评测](https://blog.csdn.net/xianyu120/article/details/140575310)
+
++ [解密AI绘画与修图： Stable Diffusion+Photoshop](https://blog.csdn.net/weixin_43178406/article/details/140538519)
+
++ [作为爬虫工程师，在封装API时如何做得更好](https://blog.csdn.net/API_mylove/article/details/140544157)
+
++ [使用docker swarm搭建ruoyi集群环境](https://blog.csdn.net/TT_4419/article/details/140576193)
+
++ [MySQL迁移以及灾备方案](https://blog.csdn.net/itxuchuanlong/article/details/140546904)
+
++ [论文阅读：Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://blog.csdn.net/weixin_43378396/article/details/140576686)
+
++ [防火墙--内容安全](https://blog.csdn.net/banliyaoguai/article/details/140508480)
+
++ [【Vue】重新理解Vue-Router中的两种路由模式](https://blog.csdn.net/qq_42582773/article/details/140573782)
+
++ [Unity 批处理详讲（含URP）](https://blog.csdn.net/shijunwei0326/article/details/140588396)
+
