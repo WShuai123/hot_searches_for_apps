@@ -49,3 +49,7 @@
 
 + [小米 Redmi 显示器 G Pro 27 限时降价 1100 元：1152 分区 MiniLED ，1899 元](https://m.ithome.com/html/783236.htm)
 
++ [换搭 1.5T 发动机，2025 款奥迪 A3 / A3L 轿车年内上市](https://m.ithome.com/html/783235.htm)
+
++ [网易 Filmly 播放器上线 WebDAV 功能，可灵活添加更多平台](https://m.ithome.com/html/783204.htm)
+

@@ -37,3 +37,23 @@
 
 + [aptos-labs / aptos-core](https://github.com/aptos-labs/aptos-core)
 
++ [2dust / v2rayNG](https://github.com/2dust/v2rayNG)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
+
++ [2dust / v2rayN](https://github.com/2dust/v2rayN)
+
++ [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
+
++ [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
+
++ [g1879 / DrissionPage](https://github.com/g1879/DrissionPage)
+
++ [qmk / qmk_firmware](https://github.com/qmk/qmk_firmware)
+
++ [alist-org / alist](https://github.com/alist-org/alist)
+
++ [PaperMC / Paper](https://github.com/PaperMC/Paper)
+
