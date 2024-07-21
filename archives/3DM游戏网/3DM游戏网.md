@@ -101,3 +101,11 @@
 
 + [KK官方对战平台夏日重磅赛事，开启宿命之战，决战澄海之巅！](https://www.3dmgame.com/news/202407/3899956.html)
 
++ [《Soulframe》TennoCon 2024实机内容展示](https://www.3dmgame.com/news/202407/3900024.html)
+
++ [《SNK VS. CAPCOM SVC CHAOS》推出](https://www.3dmgame.com/news/202407/3900025.html)
+
++ [节奏冒险游戏《追星族：时间之手》9/16推出](https://www.3dmgame.com/news/202407/3900023.html)
+
++ [《拳皇15》DLC角色麦卓和薇丝将于12月加入游戏](https://www.3dmgame.com/news/202407/3900022.html)
+

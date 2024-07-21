@@ -151,3 +151,13 @@
 
 + [Precious Metal 3](https://dribbble.com/shots/)
 
++ [Colorama Color Kit - Atomic Age Edition](https://dribbble.com/shots/)
+
++ [Turbines](https://dribbble.com/shots/)
+
++ [Hero Exploration || Insurance Company](https://dribbble.com/shots/)
+
++ [Alarm Lite](https://dribbble.com/shots/)
+
++ [Charity App Design](https://dribbble.com/shots/)
+
