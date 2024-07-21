@@ -105,3 +105,11 @@
 
 + [零售店泄露PS3《无限传说》或将推出复刻版](https://www.3dmgame.com/news/202407/3900065.html)
 
++ [《机动战士高达：激战任务2》加入首个五星高达](https://www.3dmgame.com/news/202407/3900069.html)
+
++ [《赛博朋克2077》动画女主客串《罪恶装备STRIVE》](https://www.3dmgame.com/news/202407/3900068.html)
+
++ [Capcom回应与SNK合作传闻：未来或有惊喜](https://www.3dmgame.com/news/202407/3900067.html)
+
++ [SNK正在开发《龙虎之拳》新作和ARPG《侍魂》](https://www.3dmgame.com/news/202407/3900066.html)
+
