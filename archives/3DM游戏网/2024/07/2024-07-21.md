@@ -139,3 +139,5 @@
 
 + [《任天堂世界锦标赛FC世界大会》获IGN 7分评价](https://www.3dmgame.com/news/202407/3900038.html)
 
++ [《勇者斗恶龙：达尔大冒险》前传漫画第一部完结](https://www.3dmgame.com/news/202407/3900041.html)
+

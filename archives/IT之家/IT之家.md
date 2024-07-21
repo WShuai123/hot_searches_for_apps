@@ -43,3 +43,7 @@
 
 + [华为鸿蒙 HarmonyOS NEXT Developer Beta2 更新：新增手势拦截能力、UI 设计套件等](https://m.ithome.com/html/783209.htm)
 
++ [宝马退出价格战后续，全国多地 4S 店被曝拒不交车、临时加价 3 万元](https://m.ithome.com/html/783230.htm)
+
++ [小米王腾：Redmi K70 至尊版手机目前规划前三个月全是华星屏，后期会导入其他供应商](https://m.ithome.com/html/783217.htm)
+
