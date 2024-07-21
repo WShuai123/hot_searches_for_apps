@@ -171,3 +171,9 @@
 
 + [AMD已支持Twitch增强广播 需使用RX 6000/7000显卡](https://www.3dmgame.com/news/202407/3900056.html)
 
++ [《影之刃零》：我们没有F社的特权让玩家有挫败感 一开始就不是类魂游戏](https://www.3dmgame.com/news/202407/3900058.html)
+
++ [《CS》发售25年 联合创始人至今对AWP太不平衡而遗憾](https://www.3dmgame.com/news/202407/3900059.html)
+
++ [腾讯收购字节跳动朝夕光年旗下公司](https://www.3dmgame.com/news/202407/3900057.html)
+

@@ -57,3 +57,9 @@
 
 + [（更新：国区外可领）苹果 App Store 游戏喜加一：原价 6.99 美元 iOS / iPadOS 塔防游戏《王国保卫战》免费领](https://m.ithome.com/html/783237.htm)
 
++ [小米手环 9 陶瓷 / NFC 版 1.1.162 固件更新：新增支持睡眠呼吸暂停研究等功能](https://m.ithome.com/html/783208.htm)
+
++ [古董系统救场：部分美国航空公司靠 Win3.1/95 躲过蓝屏危机](https://m.ithome.com/html/783261.htm)
+
++ [小米 Redmi K70 至尊版手机推送澎湃 OS 1.0.13.0 更新：新增 AI 识图、AI 摘要、一句话成片等](https://m.ithome.com/html/783214.htm)
+
