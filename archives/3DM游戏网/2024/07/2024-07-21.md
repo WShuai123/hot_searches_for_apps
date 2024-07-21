@@ -141,3 +141,23 @@
 
 + [《勇者斗恶龙：达尔大冒险》前传漫画第一部完结](https://www.3dmgame.com/news/202407/3900041.html)
 
++ [经典焕发新生 《极品飞车7：地下狂飙》光追MOD](https://www.3dmgame.com/news/202407/3900051.html)
+
++ [《愿景之城》登陆Steam 城镇建设放置战略](https://www.3dmgame.com/news/202407/3900049.html)
+
++ [战术回合肉鸽新作《洗牌攻略》A测下周启动 预告片赏](https://www.3dmgame.com/news/202407/3900050.html)
+
++ [《使命召唤：现代战争3》第五赛季新地图预告片](https://www.3dmgame.com/news/202407/3900048.html)
+
++ [梅路艾姆将加入《全职猎人 NEN×IMPACT》阵容](https://www.3dmgame.com/news/202407/3900047.html)
+
++ [《夜下降生2》DLC角色Uzuki确定7月25日上线发售](https://www.3dmgame.com/news/202407/3900046.html)
+
++ [三星最大规模罢工愈演愈烈 下半年所有手机可能被动涨价](https://www.3dmgame.com/news/202407/3900045.html)
+
++ [《追逐末日之光》试玩版发布 末日临近顽强求生](https://www.3dmgame.com/news/202407/3900044.html)
+
++ [WPS辟谣用户文档被用于训练抖音豆包AI：完全失实](https://www.3dmgame.com/news/202407/3900043.html)
+
++ [《.45弹寻血犬》Steam页面上线 回合制实时结合战斗](https://www.3dmgame.com/news/202407/3900042.html)
+

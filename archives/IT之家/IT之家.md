@@ -47,3 +47,5 @@
 
 + [小米王腾：Redmi K70 至尊版手机目前规划前三个月全是华星屏，后期会导入其他供应商](https://m.ithome.com/html/783217.htm)
 
++ [小米 Redmi 显示器 G Pro 27 限时降价 1100 元：1152 分区 MiniLED ，1899 元](https://m.ithome.com/html/783236.htm)
+
