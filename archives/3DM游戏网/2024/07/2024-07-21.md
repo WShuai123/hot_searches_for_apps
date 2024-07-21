@@ -109,3 +109,19 @@
 
 + [《拳皇15》DLC角色麦卓和薇丝将于12月加入游戏](https://www.3dmgame.com/news/202407/3900022.html)
 
++ [《机场安检模拟器》Steam上线 体验机场安保](https://www.3dmgame.com/news/202407/3900032.html)
+
++ [《怪物猎人：荒野》“跨平台游玩” 情报 PS5需订阅PS+](https://www.3dmgame.com/news/202407/3900033.html)
+
++ [Capcom想开发新的《漫画英雄对卡普空》游戏](https://www.3dmgame.com/news/202407/3900026.html)
+
++ [《Rivals 2》官方宣布所有追加角色免费 大乱斗系对战](https://www.3dmgame.com/news/202407/3900027.html)
+
++ [《星际战甲1999》新预告 计划于2024年冬季推出](https://www.3dmgame.com/news/202407/3900028.html)
+
++ [《战神》之父批评《星鸣特攻》角色设计：太辣眼睛了](https://www.3dmgame.com/news/202407/3900029.html)
+
++ [微软中国回应Windows全球大规模蓝屏：占比不到1%](https://www.3dmgame.com/news/202407/3900030.html)
+
++ [分析师：明年Game Pass营收将达到惊人的55亿美元](https://www.3dmgame.com/news/202407/3900031.html)
+
