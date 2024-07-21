@@ -165,3 +165,9 @@
 
 + [uniapp+vue3实现音乐播放器，包含上一首、下一首、暂停、播放、下载音频、下载视频、进度条拖拽、歌词等](https://blog.csdn.net/hyx_1225/article/details/140573763)
 
++ [动画革命：Lottie如何改变我们对移动应用交互的认知](https://blog.csdn.net/qq_53123067/article/details/140577560)
+
++ [基于牛顿-拉夫逊优化算法(Newton-Raphson-based optimizer, NBRO)的无人机三维路径规划](https://blog.csdn.net/m0_58857684/article/details/140545713)
+
++ [技术成神之路：设计模式（八）责任链模式](https://blog.csdn.net/WriteBug001/article/details/140501898)
+
