@@ -49,3 +49,7 @@
 
 + [As Above, So Below](https://dribbble.com/shots/)
 
++ [Ai finance app design](https://dribbble.com/shots/)
+
++ [Mobile application for smart home control](https://dribbble.com/shots/)
+

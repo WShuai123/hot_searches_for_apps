@@ -101,3 +101,5 @@
 
 + [《博德之门3》阿斯代伦配音想参演B社作品：真的很爱《辐射》](https://www.3dmgame.com/news/202407/3900012.html)
 
++ [《Fate/EXTRA Record》新预告 8月4日公开新情报](https://www.3dmgame.com/news/202407/3900064.html)
+

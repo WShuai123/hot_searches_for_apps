@@ -25,3 +25,7 @@
 
 + [HTC 回应“最后一家实体店关门”：早已退出线下直营模式、系第三方经销商店铺](https://m.ithome.com/html/783232.htm)
 
++ [网友在苹果 iPhone 15 Pro 上跑精简版 Win11，开机需 20 分钟](https://m.ithome.com/html/783294.htm)
+
++ [蔚来第三子品牌“萤火虫”入门掀背车海外谍照曝光：有望年底亮相，售价区间 10-20 万元](https://m.ithome.com/html/783252.htm)
+
