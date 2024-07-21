@@ -197,3 +197,13 @@
 
 + [【Vue】重新理解Vue-Router中的两种路由模式](https://blog.csdn.net/qq_42582773/article/details/140573782)
 
++ [【云原生】Prometheus 服务自动发现使用详解](https://blog.csdn.net/zhangcongyi420/article/details/140566959)
+
++ [【数据库系列】OLTP、OLAP 与 HTAP：数据库系统的三种架构](https://blog.csdn.net/qyj19920704/article/details/140562157)
+
++ [【1】Spring Cloud 工程搭建](https://blog.csdn.net/m0_65465009/article/details/140576301)
+
++ [锐捷WLAN对接认证服务器实现准入控制实验（CLI）](https://blog.csdn.net/qq_45744971/article/details/140192867)
+
++ [Redis与MySQL的数据一致性](https://blog.csdn.net/m0_73848096/article/details/140573748)
+

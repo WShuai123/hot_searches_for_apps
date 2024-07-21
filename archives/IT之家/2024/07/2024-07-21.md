@@ -53,3 +53,5 @@
 
 + [网易 Filmly 播放器上线 WebDAV 功能，可灵活添加更多平台](https://m.ithome.com/html/783204.htm)
 
++ [7 月底覆盖小米 5 等老机型手机，小爱同学「大模型小爱」升级计划公布](https://m.ithome.com/html/783231.htm)
+

@@ -169,3 +169,5 @@
 
 + [知名企业家称被携程杀熟 最高等级会员价格却更贵](https://www.3dmgame.com/news/202407/3900052.html)
 
++ [AMD已支持Twitch增强广播 需使用RX 6000/7000显卡](https://www.3dmgame.com/news/202407/3900056.html)
+
