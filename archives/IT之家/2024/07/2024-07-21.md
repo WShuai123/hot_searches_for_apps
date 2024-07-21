@@ -39,3 +39,7 @@
 
 + [DTS 音效正式回归：QQ 音乐 Android 13.8 版本发布更新](https://m.ithome.com/html/783207.htm)
 
++ [华晨宝马 CEO 戴鹤轩回应 BBA 退出价格战：确保各方合作伙伴活到未来](https://m.ithome.com/html/783196.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT Developer Beta2 更新：新增手势拦截能力、UI 设计套件等](https://m.ithome.com/html/783209.htm)
+

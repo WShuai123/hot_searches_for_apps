@@ -133,3 +133,9 @@
 
 + [《Shadow of Pharos》PC免费发布 沉浸式恐怖探索](https://www.3dmgame.com/news/202407/3900034.html)
 
++ [华为纯血鸿蒙最新增强版发布 8月公测](https://www.3dmgame.com/news/202407/3900040.html)
+
++ [杰米·李·柯蒂斯无法出演《海贼王》真人版库蕾哈医娘](https://www.3dmgame.com/news/202407/3900039.html)
+
++ [《任天堂世界锦标赛FC世界大会》获IGN 7分评价](https://www.3dmgame.com/news/202407/3900038.html)
+
