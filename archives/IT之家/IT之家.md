@@ -37,3 +37,5 @@
 
 + [小米米家口袋照片打印机 1S 开售：自定义边框水印 / AR 照片，399 元](https://m.ithome.com/html/783179.htm)
 
++ [DTS 音效正式回归：QQ 音乐 Android 13.8 版本发布更新](https://m.ithome.com/html/783207.htm)
+

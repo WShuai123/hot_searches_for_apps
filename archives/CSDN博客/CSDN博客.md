@@ -151,3 +151,9 @@
 
 + [【论文阅读笔记】Hierarchical Neural Coding for Controllable CAD Model Generation](https://blog.csdn.net/hzf0701/article/details/140559988)
 
++ [生成式 AI 的发展方向，是 Chat 还是 Agent？](https://blog.csdn.net/2302_78391795/article/details/140507530)
+
++ [大数据集群（PySpark）+MySQL+PyEcharts+Flask：购物篮数据分析与挖掘](https://blog.csdn.net/chendengyi2/article/details/140531369)
+
++ [自动驾驶-定位概述](https://blog.csdn.net/qq_36372352/article/details/140543814)
+
