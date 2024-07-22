@@ -49,3 +49,5 @@
 
 + [BlackSuit 高级勒索软件策略曝光： 伪装成杀毒软件](https://www.freebuf.com/news/406645.html)
 
++ [内网渗透 | 多种传递攻击详解](https://www.freebuf.com/defense/406238.html)
+

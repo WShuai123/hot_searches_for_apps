@@ -163,3 +163,11 @@
 
 + [YOLO 各版本对比](https://blog.csdn.net/wangxiaojie6688/article/details/140554366)
 
++ [[MySQL][事务管理][上][事务是什么?]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140539118)
+
++ [【Django+Vue3 线上教育平台项目实战】Celery赋能：优化订单超时处理与自动化定时任务调度](https://blog.csdn.net/m0_48173416/article/details/140442088)
+
++ [kafka架构+原理+源码](https://blog.csdn.net/JavaCoder_juejue/article/details/140588913)
+
++ [51单片机(STC8H8K64U/STC8051U34K64)_RA8889驱动TFT大屏_I2C_HW参考代码（v1.3) 硬件I2C方式](https://blog.csdn.net/weixin_43307086/article/details/140590861)
+
