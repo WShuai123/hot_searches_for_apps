@@ -238,3 +238,29 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Brandi Carlile Poster](https://dribbble.com/shots/)
 
++ [Secured finance - webdesign](https://dribbble.com/shots/)
+
++ [S mark](https://dribbble.com/shots/)
+
++ [Linear Logos Collection](https://dribbble.com/shots/)
+
++ [Graphic illustrations for the Financial Article](https://dribbble.com/shots/)
+
++ [Wind Energy Project](https://dribbble.com/shots/)
+
++ [Cryptocurrency - Component](https://dribbble.com/shots/)
+
++ [Jaguar Mayan Empire](https://dribbble.com/shots/)
+
++ [ilcons 3D Marketing Icons](https://dribbble.com/shots/)
+
++ [Task Management Mobile App](https://dribbble.com/shots/)
+
++ [P mark](https://dribbble.com/shots/)
+
++ [AI Recruiting Software](https://dribbble.com/shots/)
+
++ [HPFS](https://dribbble.com/shots/)
+
++ [F lettermark](https://dribbble.com/shots/)
+

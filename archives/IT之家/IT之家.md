@@ -53,3 +53,5 @@
 
 + [导致全球 850 万台电脑蓝屏死机后，CrowdStrike 上线故障修复指南中心](https://m.ithome.com/html/783308.htm)
 
++ [消息称某厂“大杯”新方案测试 6000mAh± 电池、90W 快充，预计为小米 15 Pro 手机](https://m.ithome.com/html/783323.htm)
+

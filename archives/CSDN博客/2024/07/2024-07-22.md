@@ -193,3 +193,13 @@
 
 + [Windows上可视化ubuntu程序图形界面](https://blog.csdn.net/qq_49561752/article/details/140594334)
 
++ [内网安全：各类密码的抓取](https://blog.csdn.net/2301_80116443/article/details/140590875)
+
++ [【AI大模型】生成式AI的未来——CHAT还是AGENT？](https://blog.csdn.net/Skrrapper/article/details/140607447)
+
++ [【GaussDB关键技术原理|高可用】DCF&双集群容灾](https://blog.csdn.net/GaussDB/article/details/140342942)
+
++ [Flink架构底层原理详解：案例解析（43天）](https://blog.csdn.net/syhiiu/article/details/140587838)
+
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 单选题序号1](https://blog.csdn.net/Gusha_/article/details/140295266)
+

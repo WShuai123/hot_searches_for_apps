@@ -169,3 +169,11 @@
 
 + [《异形：夺命舰》宣布国内定档8月16日 同步北美](https://www.3dmgame.com/news/202407/3900097.html)
 
++ [GTA6发行商将差评轰炸视为重大风险：会让收入减少玩家流失](https://www.3dmgame.com/news/202407/3900101.html)
+
++ [桥本环奈吐槽自己的电子版漫画被清空 书还得是纸质](https://www.3dmgame.com/news/202407/3900100.html)
+
++ [《MetalMercs》Steam试玩发布 机械战争模拟策略](https://www.3dmgame.com/news/202407/3900098.html)
+
++ [手游《真人快打：猛攻》宣布停服 运营时间刚满一年](https://www.3dmgame.com/news/202407/3900099.html)
+
