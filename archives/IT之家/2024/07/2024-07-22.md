@@ -59,3 +59,5 @@
 
 + [给 iPhone 背面贴个 AI 录音机，生意老好了](https://m.ithome.com/html/783325.htm)
 
++ [华为“金牌客服”李小龙：Pura 70 标准版手机后续支持 AI 扩图](https://m.ithome.com/html/783407.htm)
+
