@@ -187,3 +187,9 @@
 
 + [组队学习——贝叶斯分类器（一）](https://blog.csdn.net/m0_72195508/article/details/140576945)
 
++ [【机器学习】超参数选择：解锁机器学习模型潜力的关键](https://blog.csdn.net/qq_44214428/article/details/140417047)
+
++ [lua 游戏架构 之 SceneLoad场景加载之 SceneManager (四)](https://blog.csdn.net/heyuchang666/article/details/140588348)
+
++ [Windows上可视化ubuntu程序图形界面](https://blog.csdn.net/qq_49561752/article/details/140594334)
+

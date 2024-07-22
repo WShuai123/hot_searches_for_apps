@@ -232,3 +232,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [StatsPRO, verified sports data & analytics logo design arena + ✔](https://dribbble.com/shots/)
 
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [N2SN©24](https://dribbble.com/shots/)
+
++ [Brandi Carlile Poster](https://dribbble.com/shots/)
+
