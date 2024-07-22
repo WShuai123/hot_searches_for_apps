@@ -117,3 +117,7 @@
 
 + [数学建模~~~SPSS相关和回归分析](https://blog.csdn.net/binhyun/article/details/140582973)
 
++ [lua 游戏架构 之 SceneLoad场景加载之 SceneManager (四)](https://blog.csdn.net/heyuchang666/article/details/140588348)
+
++ [全面解析仓颉语言中的整数类型：选择、表示与操作详解【鸿蒙开发仓颉语言】](https://blog.csdn.net/weixin_52908342/article/details/140586271)
+
