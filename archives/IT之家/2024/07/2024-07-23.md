@@ -27,3 +27,5 @@
 
 + [长江存储再度“亮剑”，在美国起诉美光侵犯其 11 项专利](https://m.ithome.com/html/783329.htm)
 
++ [启动时间 1 秒内，淘宝鸿蒙原生版上线 HarmonyOS NEXT](https://m.ithome.com/html/783544.htm)
+
