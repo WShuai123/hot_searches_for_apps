@@ -31,3 +31,11 @@
 
 + [鸿蒙 PC 版将至？深开鸿 CEO 王成录晒哈尔滨工业大学录取通知书：三年时间，建立鸿蒙操作系统理论体系](https://m.ithome.com/html/783306.htm)
 
++ [鸿蒙 PC 版将至？深开鸿 CEO 王成录晒哈工大博士录取通知书：三年时间，建立鸿蒙操作系统理论体系](https://m.ithome.com/html/783306.htm)
+
++ [小米汽车：公司独立设计与开发了 SU7 Ultra 原型车核心硬件及车身结构](https://m.ithome.com/html/783305.htm)
+
++ [司机使用辅助驾驶时看手机酿事故，径直撞向前方修路车辆](https://m.ithome.com/html/783287.htm)
+
++ [微软蓝屏事故背后：一个小文件是如何让全球计算机瘫痪的](https://m.ithome.com/html/783310.htm)
+

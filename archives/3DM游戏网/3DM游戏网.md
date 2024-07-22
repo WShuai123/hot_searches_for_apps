@@ -113,3 +113,13 @@
 
 + [SNK正在开发《龙虎之拳》新作和ARPG《侍魂》](https://www.3dmgame.com/news/202407/3900066.html)
 
++ [《双城之战2》曝黑默丁格全新片段 11月播出](https://www.3dmgame.com/news/202407/3900072.html)
+
++ [《星球大战：亡命之徒》拥有育碧有史以来最高营销预算](https://www.3dmgame.com/news/202407/3900073.html)
+
++ [华纳兄弟新版《龙卷风》破记录 北美首周末8050万美元空降冠军](https://www.3dmgame.com/news/202407/3900074.html)
+
++ [《星刃》实体版在日本售出超11万份 大家都爱油腻师姐](https://www.3dmgame.com/news/202407/3900070.html)
+
++ [电竞世界杯《DOTA2》项目 GG 3：0 Liquid夺冠](https://www.3dmgame.com/news/202407/3900071.html)
+

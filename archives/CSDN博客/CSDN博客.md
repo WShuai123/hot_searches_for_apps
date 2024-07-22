@@ -135,3 +135,9 @@
 
 + [HCIA实验报告---通过ensp进行客户端、服务器以及各设备的搭建](https://blog.csdn.net/2401_83911548/article/details/140554839)
 
++ [【机器学习】机器学习与语音识别的融合应用与性能优化新探索](https://blog.csdn.net/qq_61024956/article/details/140545482)
+
++ [基于SpringBoot的矩形范围面时空分析-以震中附近历史地震为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/140594756)
+
++ [微软史诗级的蓝屏](https://blog.csdn.net/huyuchengus/article/details/140577909)
+

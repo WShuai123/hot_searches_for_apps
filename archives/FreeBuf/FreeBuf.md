@@ -41,3 +41,7 @@
 
 + [达梦（DM）数据库网络安全等级测评指南](https://www.freebuf.com/articles/database/405977.html)
 
++ [FreeBuf早报 | 美国家具巨头遭勒索攻击；MarineMax数据泄露影响了超过12.3万人](https://www.freebuf.com/news/406451.html)
+
++ [Electron引发的安全问题](https://www.freebuf.com/vuls/405564.html)
+
