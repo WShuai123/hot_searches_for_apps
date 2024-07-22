@@ -47,3 +47,5 @@
 
 + [一个代码审计新手的练级之路——漏洞挖掘篇](https://www.freebuf.com/vuls/405481.html)
 
++ [BlackSuit 高级勒索软件策略曝光： 伪装成杀毒软件](https://www.freebuf.com/news/406645.html)
+

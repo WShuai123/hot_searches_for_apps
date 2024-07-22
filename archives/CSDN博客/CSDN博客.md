@@ -155,3 +155,11 @@
 
 + [Vue2高级用法](https://blog.csdn.net/qq_34618600/article/details/140566926)
 
++ [水表数字识别3：Pytorch CRNN实现水表数字识别(含训练代码和数据集)](https://blog.csdn.net/guyuealian/article/details/139998788)
+
++ [Jackson详解](https://blog.csdn.net/qq_35512802/article/details/140511651)
+
++ [MySQL：库表操作](https://blog.csdn.net/fsdfafsdsd/article/details/140281310)
+
++ [YOLO 各版本对比](https://blog.csdn.net/wangxiaojie6688/article/details/140554366)
+

@@ -43,3 +43,9 @@
 
 + [最后半小时以微弱优势反超杭州，蔚来 NIO Day 2024 确认在广州举办](https://m.ithome.com/html/783307.htm)
 
++ [今日大暑：热҈得҈字҈都҈冒汗҈了҈](https://m.ithome.com/html/783312.htm)
+
++ [华为 MatePad 11.5"S 标准版说明指南上线官网：外观与柔光版保持一致、提供 8+256GB 内存组合](https://m.ithome.com/html/783292.htm)
+
++ [马斯克再出争议言论：借微软 Windows 蓝屏事件攻击 CrowdStrike 的“多元化”](https://m.ithome.com/html/783269.htm)
+
