@@ -195,3 +195,7 @@
 
 + [宝可梦公司确认参加2024年科隆游戏展](https://www.3dmgame.com/news/202407/3900110.html)
 
++ [英伟达云游戏GeForce Now限时半价促销 截止8月18日](https://www.3dmgame.com/news/202407/3900112.html)
+
++ [中世纪模拟新作《诺兰德》取得开门红 Steam多半好评](https://www.3dmgame.com/news/202407/3900111.html)
+

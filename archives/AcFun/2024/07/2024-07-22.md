@@ -143,3 +143,7 @@
 
 + [【无骨鸡柳】我终于活成了小学生羡慕的样子](http://www.acfun.cn/v/ac45479629)
 
++ [艾特你的好兄弟来听鼓！欢乐八点档-988](http://www.acfun.cn/v/ac45480912)
+
++ [CyberJapan -Bounce!治愈一天的不开心](http://www.acfun.cn/v/ac45477906)
+
