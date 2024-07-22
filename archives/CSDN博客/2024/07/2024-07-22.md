@@ -143,3 +143,15 @@
 
 + [微服务实战系列之玩转Docker（五）](https://blog.csdn.net/splendid_java/article/details/140582340)
 
++ [【RAG检索增强生成】LlamaIndex与Qwen2的高效检索增强生成实践](https://blog.csdn.net/xiaobing259/article/details/140593905)
+
++ [【云原生】Kubernetes中的DaemonSet介绍、原理、用法及实战应用案例分析](https://blog.csdn.net/littlefun591/article/details/140599587)
+
++ [【OAuth2系列】集成微信小程序登录到 Spring Security OAuth 2.0](https://blog.csdn.net/c18213590220/article/details/140413343)
+
++ [JAVA用框架SpringAI实现人工智能](https://blog.csdn.net/qq_25987725/article/details/140544331)
+
++ [【系统架构设计】数据库系统（三）](https://blog.csdn.net/weixin_48618536/article/details/140534675)
+
++ [Vue2高级用法](https://blog.csdn.net/qq_34618600/article/details/140566926)
+

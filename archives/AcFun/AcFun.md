@@ -83,3 +83,7 @@
 
 + [今天像公主......(今日开心视频：1499)](http://www.acfun.cn/v/ac45478163)
 
++ [这条小鱼在乎(Cover: 王OK，洪佩瑜) ACFUN声唱2024第二轮第二期，感谢阿鱼做的视频](http://www.acfun.cn/v/ac45478292)
+
++ [【颜音实况】Heal（有点意识流的解谜游戏）](http://www.acfun.cn/v/ac45476329)
+
