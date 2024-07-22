@@ -45,3 +45,5 @@
 
 + [Electron引发的安全问题](https://www.freebuf.com/vuls/405564.html)
 
++ [一个代码审计新手的练级之路——漏洞挖掘篇](https://www.freebuf.com/vuls/405481.html)
+

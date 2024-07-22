@@ -123,3 +123,7 @@
 
 + [电竞世界杯《DOTA2》项目 GG 3：0 Liquid夺冠](https://www.3dmgame.com/news/202407/3900071.html)
 
++ [《牧场奇谭》免费登陆Steam 视觉恐怖新游](https://www.3dmgame.com/news/202407/3900075.html)
+
++ [《铁拳8》新DLC角色公布 “三岛平八”再次复活](https://www.3dmgame.com/news/202407/3900076.html)
+
