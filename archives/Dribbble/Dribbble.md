@@ -288,3 +288,19 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Brand Illustration For Purpose Green](https://dribbble.com/shots/)
 
++ [BraveX Security - Logo Design](https://dribbble.com/shots/)
+
++ [Any Recipe app icon](https://dribbble.com/shots/)
+
++ [UniteVPN Website-Landing Page????](https://dribbble.com/shots/)
+
++ [Soft Serve](https://dribbble.com/shots/)
+
++ [Concentric Circles Logo Concept // For SALE](https://dribbble.com/shots/)
+
++ [twin wordmark](https://dribbble.com/shots/)
+
++ [On The Edge](https://dribbble.com/shots/)
+
++ [Website for Architect's Marketplace](https://dribbble.com/shots/)
+

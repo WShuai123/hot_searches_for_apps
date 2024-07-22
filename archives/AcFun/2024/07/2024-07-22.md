@@ -147,3 +147,7 @@
 
 + [CyberJapan -Bounce!治愈一天的不开心](http://www.acfun.cn/v/ac45477906)
 
++ [让心中武侠尽情释放一把](http://www.acfun.cn/v/ac45482117)
+
++ [世界头号骇客能用口哨发射核弹？从『FBI十大通缉犯』变成『全球最强网络安全顾问』……|自说自话的总裁](http://www.acfun.cn/v/ac45479848)
+

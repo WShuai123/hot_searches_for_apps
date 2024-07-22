@@ -199,3 +199,5 @@
 
 + [中世纪模拟新作《诺兰德》取得开门红 Steam多半好评](https://www.3dmgame.com/news/202407/3900111.html)
 
++ [《死侍与金刚狼》将开启漫威“变种人时代”](https://www.3dmgame.com/news/202407/3900113.html)
+

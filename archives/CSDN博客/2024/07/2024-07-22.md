@@ -215,3 +215,5 @@
 
 + [深入理解Java 8的流式API：简化代码，提升效率](https://blog.csdn.net/qq_51601665/article/details/140611272)
 
++ [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304)
+
