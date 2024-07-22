@@ -37,3 +37,19 @@
 
 + [PaperMC / Paper](https://github.com/PaperMC/Paper)
 
++ [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
+
++ [ziglang / zig](https://github.com/ziglang/zig)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [openstatusHQ / openstatus](https://github.com/openstatusHQ/openstatus)
+
++ [typst / typst](https://github.com/typst/typst)
+
++ [RPCS3 / rpcs3](https://github.com/RPCS3/rpcs3)
+
++ [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+

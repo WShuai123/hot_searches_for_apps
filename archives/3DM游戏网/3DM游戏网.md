@@ -183,3 +183,9 @@
 
 + [《罪恶装备：STRIVE》3v3模式宣布B测 7月26日开启](https://www.3dmgame.com/news/202407/3900102.html)
 
++ [微软蓝屏史上最大规模IT故障！全球损失恐超10亿美元](https://www.3dmgame.com/news/202407/3900107.html)
+
++ [《PATHOGEN X》登陆Steam 第一人称生存射击](https://www.3dmgame.com/news/202407/3900106.html)
+
++ [何时重登月球：美航天局正式宣布取消新一代月球车项目](https://www.3dmgame.com/news/202407/3900105.html)
+
