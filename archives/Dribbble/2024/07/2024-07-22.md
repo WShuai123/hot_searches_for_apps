@@ -216,3 +216,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Puma Golf Fair Isle Pattern](https://dribbble.com/shots/)
 
++ [Digital Transactions - 3D Animation](https://dribbble.com/shots/)
+
++ [Playing Music For Fun](https://dribbble.com/shots/)
+
++ [Gamma - Task Management Website](https://dribbble.com/shots/)
+
++ [The Daughter and the Darkness](https://dribbble.com/shots/)
+
++ [Sound - Product Landing Page](https://dribbble.com/shots/)
+
++ [Foodely - Food Delivery Mobile App](https://dribbble.com/shots/)
+

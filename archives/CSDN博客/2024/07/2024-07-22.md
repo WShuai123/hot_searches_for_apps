@@ -171,3 +171,17 @@
 
 + [51单片机(STC8H8K64U/STC8051U34K64)_RA8889驱动TFT大屏_I2C_HW参考代码（v1.3) 硬件I2C方式](https://blog.csdn.net/weixin_43307086/article/details/140590861)
 
++ [基于FPGA的数字信号处理（18）--半加器和全加器](https://blog.csdn.net/wuzhikaidetb/article/details/140601529)
+
++ [PyTorch深度学习实战——使用深度Q学习进行Pong游戏](https://blog.csdn.net/LOVEmy134611/article/details/140600089)
+
++ [如何学习Airflow：糙快猛的大数据之路（附思维导图）](https://blog.csdn.net/u012955829/article/details/140566899)
+
++ [VQ-VAE：矢量量化变分自编码器，离散化特征学习模型](https://blog.csdn.net/m0_46510245/article/details/140601646)
+
++ [深度学习简介（框架）](https://blog.csdn.net/2301_77539454/article/details/140588962)
+
++ [[MySQL][深入理解隔离性][下][Read View]详细讲解](https://blog.csdn.net/qq_37281656/article/details/140583705)
+
++ [【Linux】进程信号的详细介绍](https://blog.csdn.net/weixin_42976474/article/details/140589023)
+
