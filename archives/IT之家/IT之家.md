@@ -49,3 +49,5 @@
 
 + [马斯克再出争议言论：借微软 Windows 蓝屏事件攻击 CrowdStrike 的“多元化”](https://m.ithome.com/html/783269.htm)
 
++ [宝马中国回应 4S 店拒不交车：初步调查均系个案，敦促经销商遵守约定](https://m.ithome.com/html/783348.htm)
+

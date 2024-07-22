@@ -228,3 +228,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Foodely - Food Delivery Mobile App](https://dribbble.com/shots/)
 
++ [Skills Up branding](https://dribbble.com/shots/)
+
++ [StatsPRO, verified sports data & analytics logo design arena + ✔](https://dribbble.com/shots/)
+

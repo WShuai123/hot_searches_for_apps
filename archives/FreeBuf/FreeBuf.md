@@ -51,3 +51,9 @@
 
 + [内网渗透 | 多种传递攻击详解](https://www.freebuf.com/defense/406238.html)
 
++ [MasterParser：针对Linux日志的数字取证与事件响应DFIR工具](https://www.freebuf.com/sectool/405925.html)
+
++ [Windows蓝屏事件余温未却，虚假CrowdStrike更新浮出水面](https://www.freebuf.com/news/406659.html)
+
++ [99元，全款拿下云原生安全领域](https://www.freebuf.com/news/406660.html)
+
