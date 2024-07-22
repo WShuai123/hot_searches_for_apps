@@ -203,3 +203,7 @@
 
 + [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 单选题序号1](https://blog.csdn.net/Gusha_/article/details/140295266)
 
++ [【Gin】精准应用：Gin框架中工厂模式的现代软件开发策略与实施技巧(上)](https://blog.csdn.net/joeyoj/article/details/140198256)
+
++ [kafka服务介绍](https://blog.csdn.net/m0_56363537/article/details/140554644)
+

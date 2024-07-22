@@ -177,3 +177,9 @@
 
 + [手游《真人快打：猛攻》宣布停服 运营时间刚满一年](https://www.3dmgame.com/news/202407/3900099.html)
 
++ [山西文旅发布《黑神话》宣传片：跟着悟空一起游山西](https://www.3dmgame.com/news/202407/3900103.html)
+
++ [7月国产网络游戏审批信息公布 《鬼谷八荒》手游版等](https://www.3dmgame.com/news/202407/3900104.html)
+
++ [《罪恶装备：STRIVE》3v3模式宣布B测 7月26日开启](https://www.3dmgame.com/news/202407/3900102.html)
+
