@@ -65,3 +65,7 @@
 
 + [里芙](http://www.acfun.cn/v/ac45480264)
 
++ [【中文翻唱】《乐意效劳》才怪咧！（はいよろこんで）【凰裳】](http://www.acfun.cn/v/ac45482801)
+
++ [油亮傲慢舞](http://www.acfun.cn/v/ac45482210)
+
