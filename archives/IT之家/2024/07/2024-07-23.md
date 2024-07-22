@@ -25,3 +25,5 @@
 
 + [华为公布鸿蒙原生游戏 2024 ChinaJoy 参展阵容：含《永劫无间手游》《光遇》等](https://m.ithome.com/html/783347.htm)
 
++ [长江存储再度“亮剑”，在美国起诉美光侵犯其 11 项专利](https://m.ithome.com/html/783329.htm)
+

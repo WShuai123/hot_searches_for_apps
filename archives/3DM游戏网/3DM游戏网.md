@@ -101,3 +101,7 @@
 
 + [SNK正在开发《龙虎之拳》新作和ARPG《侍魂》](https://www.3dmgame.com/news/202407/3900066.html)
 
++ [Xbox推出金刚狼主题手柄 通过活动抽奖](https://www.3dmgame.com/news/202407/3900117.html)
+
++ [ROG Ally X IGN 9分：当前体验最好的掌机](https://www.3dmgame.com/news/202407/3900116.html)
+

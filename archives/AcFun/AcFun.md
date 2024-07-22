@@ -61,3 +61,5 @@
 
 + [【东方/爵士】honey, sweet &bitter Disc1+2专辑赏析【flap+frog】](http://www.acfun.cn/v/ac45473253)
 
++ [CATALLENA 泳着 充电专属](http://www.acfun.cn/v/ac45482235)
+

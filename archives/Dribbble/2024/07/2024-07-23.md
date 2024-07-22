@@ -49,3 +49,45 @@
 
 + [StatsPRO, verified sports data & analytics logo design arena + ✔](https://dribbble.com/shots/)
 
++ [Cocktail Cinema](https://dribbble.com/shots/)
+
++ [Logo concept for specialty coffee](https://dribbble.com/shots/)
+
++ [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
+
++ [Ataraxia | Unused Brand](https://dribbble.com/shots/)
+
++ [Aella Credit SaaS - Credit Score Dashboard](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Laughlin Leather Co. Embroidery Mockup](https://dribbble.com/shots/)
+
++ [44 Races Logotype Concepts](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Where gravity meets its match!](https://dribbble.com/shots/)
+
++ [Karma](https://dribbble.com/shots/)
+
++ [Anne of Green Gables](https://dribbble.com/shots/)
+
++ [Dachshund Moka Pot](https://dribbble.com/shots/)
+
++ [Ticket Service. Part 2](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Hands Time - Minimalist Time Widget](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [Precious Metal 3](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Case Study: Arist Website Design](https://dribbble.com/shots/)
+

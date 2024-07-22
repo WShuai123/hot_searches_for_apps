@@ -201,3 +201,7 @@
 
 + [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
+
