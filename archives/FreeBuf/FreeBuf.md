@@ -61,3 +61,5 @@
 
 + [Windows蓝屏事件后，虚假CrowdStrike开始钓鱼](https://www.freebuf.com/news/406659.html)
 
++ [微软蓝屏，重启15次就能解决？IT疯狂吐槽](https://www.freebuf.com/news/406706.html)
+

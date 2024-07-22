@@ -55,3 +55,7 @@
 
 + [消息称某厂“大杯”新方案测试 6000mAh± 电池、90W 快充，预计为小米 15 Pro 手机](https://m.ithome.com/html/783323.htm)
 
++ [第 65 届 IMO 奥数中国憾失第一，五连冠统治被美国队终结](https://m.ithome.com/html/783322.htm)
+
++ [给 iPhone 背面贴个 AI 录音机，生意老好了](https://m.ithome.com/html/783325.htm)
+

@@ -209,3 +209,7 @@
 
 + [SpringCloud--负载均衡](https://blog.csdn.net/m0_74097410/article/details/140580269)
 
++ [探索 Electron：如何利用Electron和Vite打造高效桌面应用](https://blog.csdn.net/qq_53123067/article/details/140063864)
+
++ [使用 Jenkins 实现持续集成和持续部署（CI/CD）](https://blog.csdn.net/yxyc666/article/details/140498510)
+
