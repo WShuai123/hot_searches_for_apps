@@ -149,3 +149,13 @@
 
 + [Golden Sound](https://dribbble.com/shots/)
 
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [Kitty Logo](https://dribbble.com/shots/)
+
++ [Web Animations](https://dribbble.com/shots/)
+
++ [23/32 – Portland Huskies](https://dribbble.com/shots/)
+
++ [Website Design for Cybersecurity Startup](https://dribbble.com/shots/)
+
