@@ -155,3 +155,19 @@
 
 + [计算机网络八股文(后续更新)](https://blog.csdn.net/sunmenmian/article/details/140617553)
 
++ [第34讲：KVM虚拟化与Ceph集群的RBD块存储对接](https://blog.csdn.net/weixin_44953658/article/details/140626237)
+
++ [数据库安全：MySQL安全配置，MySQL安全基线检查加固](https://blog.csdn.net/wangyuxiang946/article/details/140078156)
+
++ [用PyTorch从零开始编写DeepSeek-V2](https://blog.csdn.net/m0_46510245/article/details/140627788)
+
++ [DeepMind CEO：AI可以发现室温超导；Llama 3.1算对9.9＞9.11 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140623400)
+
++ [微软蓝屏事件：网络安全与系统稳定性的反思与前瞻](https://blog.csdn.net/qyj19920704/article/details/140619688)
+
++ [基于微信小程序+数据可视化+SpringBoot+Vue的校园来访平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140630793)
+
++ [如何学习Python：糙快猛的大数据之路（学习地图）](https://blog.csdn.net/u012955829/article/details/140621066)
+
++ [docker文件挂载和宿主主机文件的关系](https://blog.csdn.net/dongjing991/article/details/140627263)
+

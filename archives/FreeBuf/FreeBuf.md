@@ -57,3 +57,7 @@
 
 + [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
 
++ [Domainim：一款高效的企业级网络安全扫描工具](https://www.freebuf.com/sectool/405931.html)
+
++ [Telegram曝零日漏洞，允许发送伪装成视频的恶意APK](https://www.freebuf.com/news/406751.html)
+
