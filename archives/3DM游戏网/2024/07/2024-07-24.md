@@ -101,3 +101,7 @@
 
 + [手游《真人快打：猛攻》宣布停服 运营时间刚满一年](https://www.3dmgame.com/news/202407/3900099.html)
 
++ [11岁小孩哥写600多行代码造火箭火了：自学编程、物理化学](https://www.3dmgame.com/news/202407/3900191.html)
+
++ [《铁路在线》今秋登陆主机 Steam特别好评](https://www.3dmgame.com/news/202407/3900190.html)
+

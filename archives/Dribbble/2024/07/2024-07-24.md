@@ -49,3 +49,27 @@
 
 + [????????????](https://dribbble.com/shots/)
 
++ [Final concept ????](https://dribbble.com/shots/)
+
++ [Karma](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [The Daughter and the Darkness](https://dribbble.com/shots/)
+
++ [Anne of Green Gables](https://dribbble.com/shots/)
+
++ [Landing for Agency](https://dribbble.com/shots/)
+
++ [Gameboy](https://dribbble.com/shots/)
+
++ [abstract 2](https://dribbble.com/shots/)
+
++ [Brandi Carlile Poster](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [Case Study: Arist Website Design](https://dribbble.com/shots/)
+

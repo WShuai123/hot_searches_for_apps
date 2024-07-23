@@ -25,3 +25,5 @@
 
 + [4299 元 / 2999 元起，努比亚 Z60 Ultra 领先版 / Z60S Pro 手机价格信息公布](https://m.ithome.com/html/783695.htm)
 
++ [雷军：小米 SU7 Ultra 量产版明年上半年发布，采用和原型车相同的三电机](https://m.ithome.com/html/783769.htm)
+
