@@ -101,3 +101,27 @@
 
 + [【MySQL进阶篇】存储对象：视图、存储过程及触发器](https://blog.csdn.net/2401_83283514/article/details/140558838)
 
++ [SpringBoot整合Flink CDC，实时追踪mysql数据变动](https://blog.csdn.net/qq_26664043/article/details/140572554)
+
++ [【机器学习】模型验证曲线(Validation Curves)解析](https://blog.csdn.net/qq_44214428/article/details/140588770)
+
++ [使用Springboot + netty 打造聊天服务（一）](https://blog.csdn.net/s445320/article/details/140602694)
+
++ [Spring中Bean的循环依赖](https://blog.csdn.net/qq_64669006/article/details/140595476)
+
++ [【探索Linux】P.41（传输层 —— TCP拥塞控制 | 延迟应答 | 捎带应答 ）](https://blog.csdn.net/m0_75215937/article/details/140165305)
+
++ [Linux：进程信号（一.认识信号、信号的产生及深层理解、Term与Core）](https://blog.csdn.net/qq_74415153/article/details/140624810)
+
++ [Spring 整合MongoDB xml解析](https://blog.csdn.net/lxp199741/article/details/140546881)
+
++ [Vue自定义指令与Vue插槽学习](https://blog.csdn.net/m0_74963840/article/details/140614464)
+
++ [Unity 批处理详讲（含URP）](https://blog.csdn.net/shijunwei0326/article/details/140588396)
+
++ [HTTP 缓存](https://blog.csdn.net/m0_73280507/article/details/140619665)
+
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 单选题序号3](https://blog.csdn.net/Gusha_/article/details/140580633)
+
++ [【制作100个unity游戏之31】用unity制作一个爬坡2d赛车小游戏](https://blog.csdn.net/qq_36303853/article/details/140450994)
+
