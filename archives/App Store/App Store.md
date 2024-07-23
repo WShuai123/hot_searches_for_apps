@@ -209,3 +209,5 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [QQ浏览器-看奥运一起燃](https://itunes.apple.com/cn/app/id370139302?mt=8)
+
