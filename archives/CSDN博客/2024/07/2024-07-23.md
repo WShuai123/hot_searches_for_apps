@@ -177,3 +177,9 @@
 
 + [uni-app框架+vue 实现上拉加载和下拉刷新功能](https://blog.csdn.net/2301_78542842/article/details/140626170)
 
++ [【RAG检索增强生成】LlamaIndex与Qwen2的高效检索增强生成实践](https://blog.csdn.net/xiaobing259/article/details/140593905)
+
++ [国产JS库（js-tool-big-box）7月度总结](https://blog.csdn.net/xingyu_qie/article/details/140631166)
+
++ [【Gin】精准应用：Gin框架中工厂模式的现代软件开发策略与实施技巧(下)](https://blog.csdn.net/joeyoj/article/details/140606109)
+

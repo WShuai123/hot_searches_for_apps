@@ -206,3 +206,13 @@ Thanks for being part of our journey ????](https://dribbble.com/shots/)
 
 + [????????Tea Time | Food Illustration????✨](https://dribbble.com/shots/)
 
++ [DXO Consulting Logo Design](https://dribbble.com/shots/)
+
++ [Personal AI assistant: mobile design, brand identity](https://dribbble.com/shots/)
+
++ [Grow token instagram](https://dribbble.com/shots/)
+
++ [Swallow](https://dribbble.com/shots/)
+
++ [Oops!](https://dribbble.com/shots/)
+
