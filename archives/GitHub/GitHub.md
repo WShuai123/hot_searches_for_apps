@@ -37,3 +37,29 @@
 
 + [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
 
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
+
++ [g1879 / DrissionPage](https://github.com/g1879/DrissionPage)
+
++ [baptisteArno / typebot.io](https://github.com/baptisteArno/typebot.io)
+
++ [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
+
++ [alist-org / alist](https://github.com/alist-org/alist)
+
++ [stretchr / testify](https://github.com/stretchr/testify)
+
++ [sinaatalay / rendercv](https://github.com/sinaatalay/rendercv)
+
++ [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+
++ [mui / material-ui](https://github.com/mui/material-ui)
+
++ [popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+
++ [umijs / umi](https://github.com/umijs/umi)
+
++ [lit / lit](https://github.com/lit/lit)
+

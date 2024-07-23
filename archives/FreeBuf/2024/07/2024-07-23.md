@@ -63,3 +63,7 @@
 
 + [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
 
++ [专访李星霖 | 退役军人30岁自学网络安全，5年跻身通信企业网安专家，他怎么做到的？](https://www.freebuf.com/articles/people/406184.html)
+
++ [倒计时2天 | 红蓝军攻防与数据安全论坛 · 北京站](https://www.freebuf.com/fevents/406771.html)
+

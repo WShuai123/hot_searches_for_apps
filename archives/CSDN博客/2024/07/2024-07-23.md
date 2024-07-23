@@ -187,3 +187,5 @@
 
 + [【2】Spring Cloud 工程搭建](https://blog.csdn.net/m0_65465009/article/details/140590768)
 
++ [一文通透TTT：让RNN的隐藏层变成可学习的函数——继mamba之后也想超越Transformer](https://blog.csdn.net/v_JULY_v/article/details/140610924)
+

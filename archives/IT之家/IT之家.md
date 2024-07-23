@@ -49,3 +49,5 @@
 
 + [丰巢回应“骨灰盒放一年只要 55 块钱”：快递柜严禁存放骨灰类物品](https://m.ithome.com/html/783699.htm)
 
++ [消息称某厂骁龙 8 Gen4 新旗舰采用京东方 2K 直屏、电池容量超 6000mAh，预计为 iQOO 13 手机](https://m.ithome.com/html/783618.htm)
+
