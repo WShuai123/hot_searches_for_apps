@@ -121,3 +121,17 @@
 
 + [Trash talk](https://dribbble.com/shots/)
 
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Arist Website UI/UX Design](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [On The Edge](https://dribbble.com/shots/)
+
++ [James Bond](https://dribbble.com/shots/)
+
++ [Wonderpens: Branding Application](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
