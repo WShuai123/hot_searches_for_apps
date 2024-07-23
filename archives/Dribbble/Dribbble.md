@@ -183,3 +183,26 @@
 
 + [Overprint Grids](https://dribbble.com/shots/)
 
++ [We’ve hit 1K followers! 
+Thanks for being part of our journey ????](https://dribbble.com/shots/)
+
++ [Zendenta - Patient Reservation Details in SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Social Media App](https://dribbble.com/shots/)
+
++ [FLWR - Online Course Landing Page](https://dribbble.com/shots/)
+
++ [Gitroom landing page](https://dribbble.com/shots/)
+
++ [Soun AI - Visual Identity](https://dribbble.com/shots/)
+
++ [StepUp iOS App Icon](https://dribbble.com/shots/)
+
++ [UI App Snippets](https://dribbble.com/shots/)
+
++ [UXBoost AI - AI-Powered Website and Platforms Audit Tool](https://dribbble.com/shots/)
+
++ [UI UX Web Design for Isora - Web App SaaS Platform](https://dribbble.com/shots/)
+
++ [????????Tea Time | Food Illustration????✨](https://dribbble.com/shots/)
+

@@ -61,3 +61,5 @@
 
 + [Telegram曝零日漏洞，允许发送伪装成视频的恶意APK](https://www.freebuf.com/news/406751.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
