@@ -55,3 +55,5 @@
 
 + [注意！针对VMware ESXi 虚拟机的新型勒索软件“横空出世”](https://www.freebuf.com/news/406727.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
