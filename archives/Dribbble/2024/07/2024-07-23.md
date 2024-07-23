@@ -248,3 +248,9 @@ Thanks for being part of our journey ????](https://dribbble.com/shots/)
 
 + [36 Monogram](https://dribbble.com/shots/)
 
++ [Atoms - Logo Design (unused)](https://dribbble.com/shots/)
+
++ [Triceratops logo](https://dribbble.com/shots/)
+
++ [Sun Logos](https://dribbble.com/shots/)
+
