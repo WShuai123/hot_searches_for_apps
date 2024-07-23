@@ -159,3 +159,17 @@
 
 + [Conduit.gg](https://www.producthunt.com/posts/conduit-gg)
 
++ [NinjaRIP](https://www.producthunt.com/posts/ninjarip)
+
++ [Ursula Tarot](https://www.producthunt.com/posts/ursula-tarot)
+
++ [WannaGift](https://www.producthunt.com/posts/wannagift)
+
++ [Luvvoice](https://www.producthunt.com/posts/luvvoice)
+
++ [Focusmax.io](https://www.producthunt.com/posts/focusmax-io)
+
++ [File Transcribe](https://www.producthunt.com/posts/file-transcribe)
+
++ [HackerPulse - The Ultimate Dev Profile](https://www.producthunt.com/posts/hackerpulse-the-ultimate-dev-profile)
+

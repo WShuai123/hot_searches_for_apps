@@ -47,3 +47,5 @@
 
 + [消息称华为 Mate 70 系列手机 Q4 稍晚发布：搭载全新海思麒麟 5G 芯片，配备 1.5K LTPO 显示屏](https://m.ithome.com/html/783662.htm)
 
++ [丰巢回应“骨灰盒放一年只要 55 块钱”：快递柜严禁存放骨灰类物品](https://m.ithome.com/html/783699.htm)
+
