@@ -45,3 +45,5 @@
 
 + [番茄小说被曝要求网文作者同意将作品用于训练 AI，引发作者联合抵制](https://m.ithome.com/html/783561.htm)
 
++ [消息称华为 Mate 70 系列手机 Q4 稍晚发布：搭载全新海思麒麟 5G 芯片，配备 1.5K LTPO 显示屏](https://m.ithome.com/html/783662.htm)
+
