@@ -45,3 +45,7 @@
 
 + [欧盟数据法内容与影响](https://www.freebuf.com/articles/database/406664.html)
 
++ [技战法模板之运营人员视角下的ORB的网络"风险"](https://www.freebuf.com/defense/406619.html)
+
++ [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
+
