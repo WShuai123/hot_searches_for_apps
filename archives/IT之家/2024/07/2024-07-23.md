@@ -53,3 +53,11 @@
 
 + [华为面向全球招聘新一批天才少年：不限学校，不限学历，不限专业](https://m.ithome.com/html/783753.htm)
 
++ [消息称苹果 Vision Pro 国行退货率超 50%](https://m.ithome.com/html/783716.htm)
+
++ [5999 元起，小米首款小折叠屏手机 MIX Flip 今日首销：4 英寸大外屏、第三代骁龙 8](https://m.ithome.com/html/783579.htm)
+
++ [华为 Watch GT 5 智能手表曝光：IP68 防护、18W 充电、2 种尺寸](https://m.ithome.com/html/783673.htm)
+
++ [DM 5.0 首款 SUV 车型：比亚迪 2025 款宋 PLUS DM-i 官图发布](https://m.ithome.com/html/783708.htm)
+

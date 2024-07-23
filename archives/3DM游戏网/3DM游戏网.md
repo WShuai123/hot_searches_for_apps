@@ -115,3 +115,47 @@
 
 + [《碧海黑帆》将于8月23日在Steam发售 采用D加密](https://www.3dmgame.com/news/202407/3900118.html)
 
++ [股东希望《怪物猎人：荒野》提前发售 Capcom回应](https://www.3dmgame.com/news/202407/3900185.html)
+
++ [马斯克又跳票了 特斯拉推迟交付擎天柱机器人](https://www.3dmgame.com/news/202407/3900186.html)
+
++ [2026年底交付 我国第二艘国产大型邮轮将以广州为母港运营](https://www.3dmgame.com/news/202407/3900165.html)
+
++ [《InfestStation》Steam抢先体验 恐怖SF背景FPS](https://www.3dmgame.com/news/202407/3900166.html)
+
++ [模拟经营游戏《酒馆好时光》8月29日推出抢先体验版 支持中文](https://www.3dmgame.com/news/202407/3900167.html)
+
++ [《接线疑云》登陆Steam 沉浸式叙事推理新游](https://www.3dmgame.com/news/202407/3900168.html)
+
++ [《星际战甲》开发商：实时服务游戏失败是因为没坚持](https://www.3dmgame.com/news/202407/3900169.html)
+
++ [PS5推送新版本系统更新 支持通过共享链接加入连线区](https://www.3dmgame.com/news/202407/3900170.html)
+
++ [《SVC》英版与日版宣传图对比：不知火舞穿得不露骨了](https://www.3dmgame.com/news/202407/3900171.html)
+
++ [Steam最新一周销量榜 《无人深空》上榜](https://www.3dmgame.com/news/202407/3900172.html)
+
++ [凯文·费奇：《死侍与金刚狼》开启MCU“变种人”世代](https://www.3dmgame.com/news/202407/3900174.html)
+
++ [《哆啦A梦》动画大雄配音小原乃梨子去世 享年88岁](https://www.3dmgame.com/news/202407/3900173.html)
+
++ [女皇宣布将继续从事破解工作 D加密游戏瑟瑟发抖](https://www.3dmgame.com/news/202407/3900175.html)
+
++ [拳头总监：格斗新作《2XKO》将加入Vanguard反作弊](https://www.3dmgame.com/news/202407/3900177.html)
+
++ [Intel最新官方声明！微代码算法致电压过高 部分13/14代酷睿不稳定](https://www.3dmgame.com/news/202407/3900176.html)
+
++ [《OutlawZ : Headhunter》Steam抢测 末日僵尸生存](https://www.3dmgame.com/news/202407/3900178.html)
+
++ [贾跃亭：一直被误解被恶意攻击 但我一点都不care](https://www.3dmgame.com/news/202407/3900179.html)
+
++ [曝番茄小说要求作者同意作品用来训练AI！引发联合抵制](https://www.3dmgame.com/news/202407/3900180.html)
+
++ [育碧长文回应《刺客信条：影》争议：从历史汲取灵感 而非真实再现](https://www.3dmgame.com/news/202407/3900183.html)
+
++ [联想拯救者R9000P 2024款游戏本上架 预售9299元起](https://www.3dmgame.com/news/202407/3900181.html)
+
++ [Capcom表示不会放弃生产实体版游戏 尽管90%的销量来自于数字版](https://www.3dmgame.com/news/202407/3900182.html)
+
++ [电影《小丑2：双重妄想》曝第二支官方预告](https://www.3dmgame.com/news/202407/3900184.html)
+
