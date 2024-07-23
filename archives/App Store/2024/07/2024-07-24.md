@@ -207,3 +207,9 @@
 
 + [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
 
++ [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
+
++ [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

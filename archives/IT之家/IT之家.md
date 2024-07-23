@@ -27,3 +27,5 @@
 
 + [雷军：小米 SU7 Ultra 量产版明年上半年发布，采用和原型车相同的三电机](https://m.ithome.com/html/783769.htm)
 
++ [8999 元起，小米 MIX Fold 4 折叠屏手机今日首销：龙骨转轴 2.0、双向卫星通信](https://m.ithome.com/html/783572.htm)
+
