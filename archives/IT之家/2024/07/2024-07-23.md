@@ -51,3 +51,5 @@
 
 + [消息称某厂骁龙 8 Gen4 新旗舰采用京东方 2K 直屏、电池容量超 6000mAh，预计为 iQOO 13 手机](https://m.ithome.com/html/783618.htm)
 
++ [华为面向全球招聘新一批天才少年：不限学校，不限学历，不限专业](https://m.ithome.com/html/783753.htm)
+
