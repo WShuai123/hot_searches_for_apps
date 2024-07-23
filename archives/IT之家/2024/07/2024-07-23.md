@@ -29,3 +29,7 @@
 
 + [启动时间 1 秒内，淘宝鸿蒙原生版上线 HarmonyOS NEXT](https://m.ithome.com/html/783544.htm)
 
++ [娃哈哈：宗馥莉决定继续履行娃哈哈集团的相关管理职责](https://m.ithome.com/html/783558.htm)
+
++ [英特尔回应第 13 / 14 代酷睿台式机处理器稳定性问题：预计八月中旬发布微代码补丁，修复过高电压导致的根本问题](https://m.ithome.com/html/783564.htm)
+

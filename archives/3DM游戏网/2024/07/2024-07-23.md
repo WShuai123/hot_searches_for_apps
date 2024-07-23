@@ -105,3 +105,13 @@
 
 + [ROG Ally X IGN 9分：当前体验最好的掌机](https://www.3dmgame.com/news/202407/3900116.html)
 
++ [《冰汽时代2》开发者展示改进面板和可读性](https://www.3dmgame.com/news/202407/3900122.html)
+
++ [华纳兄弟游戏收购《华纳大乱斗》开发商](https://www.3dmgame.com/news/202407/3900121.html)
+
++ [据报道微软正在准备更便宜的基于云的XGP档位](https://www.3dmgame.com/news/202407/3900120.html)
+
++ [大快人心！编造《刺客信条：影》黑人武士弥助故事的教授被开除](https://www.3dmgame.com/news/202407/3900119.html)
+
++ [《碧海黑帆》将于8月23日在Steam发售 采用D加密](https://www.3dmgame.com/news/202407/3900118.html)
+

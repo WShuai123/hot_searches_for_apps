@@ -41,3 +41,7 @@
 
 + [双一流高校某教学系统存在多个高危漏洞](https://www.freebuf.com/vuls/405764.html)
 
++ [FreeBuf早报 | CrowdStrike上线故障修复指南中心；Meta在尼日利亚被罚2.2亿美元](https://www.freebuf.com/news/406687.html)
+
++ [欧盟数据法内容与影响](https://www.freebuf.com/articles/database/406664.html)
+
