@@ -73,3 +73,5 @@
 
 + [七分甜翻唱《秘密日记》](http://www.acfun.cn/v/ac45487730)
 
++ [期待 - Girl’s Day](http://www.acfun.cn/v/ac45484096)
+
