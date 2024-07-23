@@ -228,3 +228,23 @@ Thanks for being part of our journey ????](https://dribbble.com/shots/)
 
 + [Illustration for The Amazons band](https://dribbble.com/shots/)
 
++ [Travel Guider — Blog Design](https://dribbble.com/shots/)
+
++ [Eyeball: The New App for the Financial Community](https://dribbble.com/shots/)
+
++ [Landing Page Design for Education Platform for Children](https://dribbble.com/shots/)
+
++ [Illustrations for Marketing Agency](https://dribbble.com/shots/)
+
++ [Bento Grid Bitmap Sketch Coloring](https://dribbble.com/shots/)
+
++ [Star logo](https://dribbble.com/shots/)
+
++ [crypto platworm Dex Daaps](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Inventory app: Stock](https://dribbble.com/shots/)
+
++ [36 Monogram](https://dribbble.com/shots/)
+

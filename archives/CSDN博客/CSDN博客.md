@@ -189,3 +189,5 @@
 
 + [一文通透TTT：让RNN的隐藏层变成可学习的函数——继mamba之后也想超越Transformer](https://blog.csdn.net/v_JULY_v/article/details/140610924)
 
++ [《程序猿入职必会（2） · 搭建具备前端展示效果的 Vue》](https://blog.csdn.net/syb513812/article/details/140631145)
+

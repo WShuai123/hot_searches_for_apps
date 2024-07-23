@@ -117,3 +117,13 @@
 
 + [【A站首发】Bones 翻唱](http://www.acfun.cn/v/ac44572796)
 
++ [嗜血硬【特惠喜+1特供版】](http://www.acfun.cn/v/ac45472964)
+
++ [这才是真正的夏日气氛????????](http://www.acfun.cn/v/ac45486337)
+
++ [【柯基】《英国掷弹兵行进曲》（The British Grenadiers）](http://www.acfun.cn/v/ac45485380)
+
++ [复制特斯拉独资建厂模式，国产雷克萨斯要来了？](http://www.acfun.cn/v/ac45485066)
+
++ [【万国来华】德国老哥造访了上海威尼斯 | 上海EP4 朱家角(评论版)](http://www.acfun.cn/v/ac45482624)
+
