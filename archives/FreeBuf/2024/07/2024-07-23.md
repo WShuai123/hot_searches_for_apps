@@ -49,3 +49,9 @@
 
 + [一个人的甲方安全，怎么搞](https://www.freebuf.com/articles/security-management/392538.html)
 
++ [Telegram曝零日漏洞，可伪装成视频攻击安卓用户](https://www.freebuf.com/news/406751.html)
+
++ [攻击者正滥用 URL 保护服务来隐藏网络钓鱼链接](https://www.freebuf.com/news/406740.html)
+
++ [注意！针对VMware ESXi 虚拟机的新型勒索软件“横空出世”](https://www.freebuf.com/news/406727.html)
+

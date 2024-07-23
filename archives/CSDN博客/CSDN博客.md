@@ -135,3 +135,9 @@
 
 + [HTTP 缓存](https://blog.csdn.net/m0_73280507/article/details/140619665)
 
++ [轨迹优化 | 基于ESDF的共轭梯度优化算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/140620586)
+
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 单选题序号2](https://blog.csdn.net/Gusha_/article/details/140580616)
+
++ [数据传输安全--VPN](https://blog.csdn.net/banliyaoguai/article/details/140579851)
+
