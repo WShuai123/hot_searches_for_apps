@@ -29,3 +29,5 @@
 
 + [8999 元起，小米 MIX Fold 4 折叠屏手机今日首销：龙骨转轴 2.0、双向卫星通信](https://m.ithome.com/html/783572.htm)
 
++ [英伟达 TITAN AI“怪兽”显卡曝光：512-bit 位宽，性能比 RTX 4090 快 63%](https://m.ithome.com/html/783731.htm)
+

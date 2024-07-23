@@ -213,3 +213,5 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [腾讯视频-巴黎奥运全程直击](https://itunes.apple.com/cn/app/id458318329?mt=8)
+
