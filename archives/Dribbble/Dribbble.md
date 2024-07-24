@@ -140,3 +140,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Burger + French fries illustration](https://dribbble.com/shots/)
 
++ [AKQA Perspectives](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
