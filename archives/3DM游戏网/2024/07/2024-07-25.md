@@ -101,3 +101,7 @@
 
 + [手游移动市场分析公司AppMagic获300万美元融资](https://www.3dmgame.com/news/202407/3900223.html)
 
++ [《浪人崛起》现已推出免费试玩 可游玩第一章](https://www.3dmgame.com/news/202407/3900275.html)
+
++ [《战壕惊魂》现已正式发售 Steam特别好评](https://www.3dmgame.com/news/202407/3900276.html)
+

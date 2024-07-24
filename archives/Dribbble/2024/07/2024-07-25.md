@@ -49,3 +49,51 @@
 
 + [Trako fitness tracking app logo design icon](https://dribbble.com/shots/)
 
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [Our State ShadFest Editorial Illustration by James Olstein](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Anne of Green Gables](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Glyph Beer 51](https://dribbble.com/shots/)
+
++ [Tattoo Series 2](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Olympic keepsakes](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [Zero Proof (Alternate)](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Head](https://dribbble.com/shots/)
+
++ [Football](https://dribbble.com/shots/)
+
++ [Wonderpens: Branding Application](https://dribbble.com/shots/)
+
++ [Future Paradise: Merch Illustration](https://dribbble.com/shots/)
+
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Dragönsteel](https://dribbble.com/shots/)
+
