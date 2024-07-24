@@ -167,3 +167,31 @@
 
 + [复古科幻射击游戏《恐外症》现已在Steam平台正式推出](https://www.3dmgame.com/news/202407/3900214.html)
 
++ [第一人称心理恐怖 《缄默祸运》试玩版新增中文支持](https://www.3dmgame.com/news/202407/3900234.html)
+
++ [多人竞技射击游戏《RAWMEN》现已在Epic Games免费推出](https://www.3dmgame.com/news/202407/3900236.html)
+
++ [日厂推出游戏玩家专用便食拉面 单手操作开盖即食](https://www.3dmgame.com/news/202407/3900235.html)
+
++ [《星际战甲1999》加入恋爱系统多亏《博德3》临门一脚](https://www.3dmgame.com/news/202407/3900233.html)
+
++ [传闻：《古惑狼：疯狂三部曲》8月8日登陆XGP](https://www.3dmgame.com/news/202407/3900232.html)
+
++ [华为新一代麒麟处理器曝光 流畅度媲美Gen3](https://www.3dmgame.com/news/202407/3900231.html)
+
++ [英伟达推出AI代工业务 为客户定制部署“超级模型”](https://www.3dmgame.com/news/202407/3900230.html)
+
++ [罗布乐思员工对平台未成年人保护措施不足表达担忧](https://www.3dmgame.com/news/202407/3900229.html)
+
++ [英伟达DLSS添加支持游戏：《最终幻想14》《漫威争锋》等](https://www.3dmgame.com/news/202407/3900228.html)
+
++ [史诗级联动 《火影忍者》与《忍者神龟》将合作推出联动漫画](https://www.3dmgame.com/news/202407/3900227.html)
+
++ [《The Lost Gallery》Steam上线 恐怖探索悬疑](https://www.3dmgame.com/news/202407/3900225.html)
+
++ [手游移动市场分析公司AppMagic获300万美元融资](https://www.3dmgame.com/news/202407/3900223.html)
+
++ [恐怖动物园游戏《Zoochosis》发售日预告 9月23日发售](https://www.3dmgame.com/news/202407/3900226.html)
+
++ [英伟达TITAN AI显卡曝光：性能比RTX 4090显卡快63%](https://www.3dmgame.com/news/202407/3900224.html)
+

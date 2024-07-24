@@ -51,3 +51,7 @@
 
 + [FreeBuf早报 | 加密货币交易所WazirX遭黑客攻击；网约车外挂软件犯罪团伙被打掉](https://www.freebuf.com/news/406783.html)
 
++ [R0bl0ch0n TDS——新型附属欺诈计划波及1.1亿用户](https://www.freebuf.com/news/406861.html)
+
++ [Wiz 拒绝谷歌 230 亿美元的收购要约](https://www.freebuf.com/news/406854.html)
+

@@ -149,3 +149,11 @@
 
 + [京东百万级调度系统(Buffalo)架构解密](https://blog.csdn.net/zheli1969917/article/details/140628545)
 
++ [【数学建模】——前沿图与网络模型：新时代算法解析与应用](https://blog.csdn.net/2303_77720864/article/details/140646447)
+
++ [AI创业者的全面指南：揭开人工智能的神秘面纱](https://blog.csdn.net/qq_44866828/article/details/140643865)
+
++ [测试管理工具、自动化测试工具、跨浏览器测试工具 推荐](https://blog.csdn.net/ufrontend/article/details/140502511)
+
++ [【中项】系统集成项目管理工程师-第5章 软件工程-5.1软件工程定义与5.2软件需求](https://blog.csdn.net/m0_66540684/article/details/140637190)
+
