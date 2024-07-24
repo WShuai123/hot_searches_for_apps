@@ -27,3 +27,5 @@
 
 + [二手空调、捷安特成“涉黄暗号”？闲鱼回应：加大力度整改网络](https://m.ithome.com/html/784006.htm)
 
++ [龙芯 3C6000 服务器 CPU 流片成功：性能达英特尔至强 Silver 4314 水平](https://m.ithome.com/html/783984.htm)
+

@@ -209,3 +209,7 @@
 
 + [美的美居-智慧生活可以更美的](https://itunes.apple.com/cn/app/id948600146?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [知乎](https://itunes.apple.com/cn/app/id432274380?mt=8)
+
