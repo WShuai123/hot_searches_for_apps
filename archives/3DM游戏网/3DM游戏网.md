@@ -211,3 +211,11 @@
 
 + [《绝地潜兵2》即将到来的大型更新中 含有恶搞《死亡搁浅》的新任务](https://www.3dmgame.com/news/202407/3900242.html)
 
++ [《Lycoris Recoil 莉可丽丝》两周年活动推出NFT产品 原创短片计划公布](https://www.3dmgame.com/news/202407/3900246.html)
+
++ [《进击的巨人VR》抢先体验 今冬发布正式版更新](https://www.3dmgame.com/news/202407/3900245.html)
+
++ [中国市场很重要 游戏商务公司Xsolla在北京开设办事处](https://www.3dmgame.com/news/202407/3900247.html)
+
++ [《原神》预告5.0版本前瞻特别节目 8月16日播出](https://www.3dmgame.com/news/202407/3900244.html)
+

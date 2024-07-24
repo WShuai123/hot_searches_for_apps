@@ -195,3 +195,11 @@
 
 + [Animal Logos](https://dribbble.com/shots/)
 
++ [AtomicVPN Branding and Website](https://dribbble.com/shots/)
+
++ [Logo Design for Ai Tool (Unused for Sale)](https://dribbble.com/shots/)
+
++ [Portrait of Zeus](https://dribbble.com/shots/)
+
++ [2Z logo concept](https://dribbble.com/shots/)
+
