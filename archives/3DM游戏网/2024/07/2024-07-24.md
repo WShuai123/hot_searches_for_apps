@@ -257,3 +257,7 @@
 
 + [稳居全国第四！雷军称小米空调被董明珠批评后更火了](https://www.3dmgame.com/news/202407/3900266.html)
 
++ [《马里奥+疯狂兔子》系列主创离开育碧 任职25年](https://www.3dmgame.com/news/202407/3900268.html)
+
++ [传苹果正开发折叠屏iPhone 预计2026年推出](https://www.3dmgame.com/news/202407/3900267.html)
+
