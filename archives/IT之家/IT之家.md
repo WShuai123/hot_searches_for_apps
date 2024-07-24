@@ -41,3 +41,5 @@
 
 + [雷军再谈周受资离职：对小米影响很大，但没抱怨也没指责](https://m.ithome.com/html/783830.htm)
 
++ [消息称苹果 iPhone SE 4 计划今年 10 月开始量产](https://m.ithome.com/html/783806.htm)
+

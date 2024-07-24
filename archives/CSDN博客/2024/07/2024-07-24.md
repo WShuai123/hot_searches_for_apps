@@ -163,3 +163,9 @@
 
 + [C# 与C++ cli](https://blog.csdn.net/weixin_45751713/article/details/140644816)
 
++ [DeepMind CEO：AI可以发现室温超导；Llama 3.1算对9.9＞9.11 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140623400)
+
++ [文心一言大模型](https://blog.csdn.net/2402_84466582/article/details/140603430)
+
++ [内网隧道——HTTP隧道](https://blog.csdn.net/qq_55202378/article/details/140638357)
+

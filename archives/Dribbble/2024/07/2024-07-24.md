@@ -173,3 +173,13 @@
 
 + [HHC Living Storefront Mockup](https://dribbble.com/shots/)
 
++ [GenAI Landing Page - Multipurpose GPT AI Chat](https://dribbble.com/shots/)
+
++ [Dogie Game Level](https://dribbble.com/shots/)
+
++ [Grandfood- Food Delivery Illustration animation ????](https://dribbble.com/shots/)
+
++ [Zendenta - Patient Detail Information for SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Zentrics - CRM Dashboard "SaaS"](https://dribbble.com/shots/)
+
