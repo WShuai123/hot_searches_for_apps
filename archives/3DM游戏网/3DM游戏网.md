@@ -205,3 +205,9 @@
 
 + [《深夜拉面》登陆Steam 哲理系叙事对话游戏](https://www.3dmgame.com/news/202407/3900239.html)
 
++ [《绝地潜兵2》8月更新后联机被踢仍能获得团队全部资源](https://www.3dmgame.com/news/202407/3900243.html)
+
++ [快来《战盟桌面精灵》邂逅你的个性化桌面助手！](https://www.3dmgame.com/news/202407/3899803.html)
+
++ [《绝地潜兵2》即将到来的大型更新中 含有恶搞《死亡搁浅》的新任务](https://www.3dmgame.com/news/202407/3900242.html)
+

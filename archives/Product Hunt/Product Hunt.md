@@ -189,3 +189,7 @@
 
 + [Hey AI](https://www.producthunt.com/posts/hey-ai)
 
++ [Bye-Bye Cookie Banners](https://www.producthunt.com/posts/bye-bye-cookie-banners)
+
++ [Model Playground by Keywords AI](https://www.producthunt.com/posts/model-playground-by-keywords-ai)
+

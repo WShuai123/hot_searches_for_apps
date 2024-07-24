@@ -171,3 +171,9 @@
 
 + [用神经网络求解微分方程](https://blog.csdn.net/shebao3333/article/details/140606770)
 
++ [SQL Server 数据误删的恢复](https://blog.csdn.net/weixin_41793160/article/details/140652798)
+
++ [虚拟人主播的原理探究-代码实现](https://blog.csdn.net/weixin_52908342/article/details/140607550)
+
++ [基于MSPM0G3507的智能送药小车（21电赛F题，OPENMV循迹，K210识别数字，并行PID快速学习，小车转动返回）](https://blog.csdn.net/weixin_60991529/article/details/140585607)
+

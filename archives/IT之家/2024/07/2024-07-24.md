@@ -47,3 +47,5 @@
 
 + [苹果 iOS / iPadOS 18 开发者预览版 Beta 4 发布：新增 CarPlay 壁纸、梳理设置选项、增强相机控制](https://m.ithome.com/html/783797.htm)
 
++ [腾讯 QQ 音乐非会员将无法查看或移除已登录的设备，超级会员最多 5 台设备登录](https://m.ithome.com/html/783833.htm)
+
