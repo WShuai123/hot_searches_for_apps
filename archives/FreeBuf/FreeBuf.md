@@ -41,3 +41,7 @@
 
 + [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
 
++ [FreeBuf早报 | 印度加密货币交易所WazirX遭黑客攻击；网约车外挂软件犯罪团伙被打掉](https://www.freebuf.com/news/406783.html)
+
++ [CrowdStrike导致大规模系统崩溃事件的技术分析 ———— 暨对“猎鹰折羽”的沉思](https://www.freebuf.com/articles/paper/406610.html)
+

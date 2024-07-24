@@ -31,3 +31,9 @@
 
 + [英伟达 TITAN AI“怪兽”显卡曝光：512-bit 位宽，性能比 RTX 4090 快 63%](https://m.ithome.com/html/783731.htm)
 
++ [手机停机解封需社保信息？深圳移动：线下解封需社保连续缴纳 6 个月以上](https://m.ithome.com/html/783814.htm)
+
++ [小米汽车：MIX Fold 4 / MIX Flip 投屏到 SU7 没有裁切、拉伸等问题](https://m.ithome.com/html/783784.htm)
+
++ [更新出错致航班停飞、医院瘫痪，CrowdStrike CEO 将接受美国国会质询](https://m.ithome.com/html/783728.htm)
+

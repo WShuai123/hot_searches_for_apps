@@ -105,3 +105,19 @@
 
 + [《铁路在线》今秋登陆主机 Steam特别好评](https://www.3dmgame.com/news/202407/3900190.html)
 
++ [前R星技术总监：《GTA6》与五代相比 不会有太大突破](https://www.3dmgame.com/news/202407/3900199.html)
+
++ [《使命召唤20：现代战争3》7月25日加入Game Pass](https://www.3dmgame.com/news/202407/3900198.html)
+
++ [卡普空希望通过新的REX引擎 实现逼真的画面效果](https://www.3dmgame.com/news/202407/3900197.html)
+
++ [《巫师4》使用虚幻5引擎 CDPR会改良引擎并解决卡顿问题](https://www.3dmgame.com/news/202407/3900196.html)
+
++ [随身视角恐怖游戏《癫狂动物园》9/23推出](https://www.3dmgame.com/news/202407/3900195.html)
+
++ [独立发行商Humble Games裁员36人 公司进行重组](https://www.3dmgame.com/news/202407/3900194.html)
+
++ [《战锤40K：星际战士2》新预告展示海量泰伦虫群](https://www.3dmgame.com/news/202407/3900193.html)
+
++ [物理机制汽车送货游戏《Truckful》面向PC公布](https://www.3dmgame.com/news/202407/3900192.html)
+

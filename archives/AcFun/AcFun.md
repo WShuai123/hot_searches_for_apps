@@ -75,3 +75,5 @@
 
 + [期待 - Girl’s Day](http://www.acfun.cn/v/ac45484096)
 
++ [鼓起勇气挑战不敢跳的舞，有自我感觉到的进步！](http://www.acfun.cn/v/ac45487841)
+
