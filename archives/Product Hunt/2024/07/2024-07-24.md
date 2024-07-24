@@ -105,3 +105,87 @@
 
 + [Model playground by Keywords AI](https://www.producthunt.com/posts/model-playground-by-keywords-ai)
 
++ [Tempest AI](https://www.producthunt.com/posts/tempest-ai)
+
++ [SAT Decoded App](https://www.producthunt.com/posts/sat-decoded-app)
+
++ [Daily habit tracker](https://www.producthunt.com/posts/daily-habit-tracker)
+
++ [Instagram Comments Widget](https://www.producthunt.com/posts/instagram-comments-widget)
+
++ [Blacksmith](https://www.producthunt.com/posts/blacksmith)
+
++ [Viral Insight](https://www.producthunt.com/posts/viral-insight)
+
++ [Fireball ☄️](https://www.producthunt.com/posts/fireball-2)
+
++ [Checker](https://www.producthunt.com/posts/checker)
+
++ [MicroWidgets](https://www.producthunt.com/posts/microwidgets)
+
++ [PC Agent](https://www.producthunt.com/posts/pc-agent)
+
++ [Netflix Swedish Dub](https://www.producthunt.com/posts/netflix-swedish-dub)
+
++ [Beattracker.io](https://www.producthunt.com/posts/beattracker-io)
+
++ [Llama 3.1](https://www.producthunt.com/posts/llama-3-1)
+
++ [June for Customer Success & Sales](https://www.producthunt.com/posts/june-for-customer-success-sales)
+
++ [Tabwizard](https://www.producthunt.com/posts/tabwizard)
+
++ [Flypix](https://www.producthunt.com/posts/flypix)
+
++ [ChatGPT Copy Code Button & Statistics](https://www.producthunt.com/posts/chatgpt-copy-code-button-statistics)
+
++ [Nodecosmos](https://www.producthunt.com/posts/nodecosmos-2)
+
++ [Sendune](https://www.producthunt.com/posts/sendune)
+
++ [Translate.Photo](https://www.producthunt.com/posts/translate-photo)
+
++ [UIQuill](https://www.producthunt.com/posts/uiquill)
+
++ [Hover Preview](https://www.producthunt.com/posts/hover-preview)
+
++ [Tern](https://www.producthunt.com/posts/tern-2)
+
++ [Makisoda Beta](https://www.producthunt.com/posts/makisoda-beta)
+
++ [PhotoJourney](https://www.producthunt.com/posts/photojourney)
+
++ [Prezenter](https://www.producthunt.com/posts/prezenter)
+
++ [Webtag](https://www.producthunt.com/posts/webtag)
+
++ [Hemingway Editor Plus](https://www.producthunt.com/posts/hemingway-editor-plus-3)
+
++ [Permit Share-If](https://www.producthunt.com/posts/permit-share-if)
+
++ [Dashwave 1.0](https://www.producthunt.com/posts/dashwave-1-0)
+
++ [Free Inbox Report by MailMaestro](https://www.producthunt.com/posts/free-inbox-report-by-mailmaestro)
+
++ [MrScraper](https://www.producthunt.com/posts/mrscraper)
+
++ [Moneystack](https://www.producthunt.com/posts/moneystack)
+
++ [Speech to Note](https://www.producthunt.com/posts/speech-to-note-2)
+
++ [AutoApply.Jobs](https://www.producthunt.com/posts/autoapply-jobs)
+
++ [Wandra](https://www.producthunt.com/posts/wandra)
+
++ [Loquis for Developers](https://www.producthunt.com/posts/loquis-for-developers)
+
++ [Apex](https://www.producthunt.com/posts/apex-1f99480f-ea2d-45aa-b31a-32d363291166)
+
++ [Free Office Backgrounds](https://www.producthunt.com/posts/free-office-backgrounds)
+
++ [CivitAI](https://www.producthunt.com/posts/civitai)
+
++ [Mermaid AI](https://www.producthunt.com/posts/mermaid-ai-2)
+
++ [Hey AI](https://www.producthunt.com/posts/hey-ai)
+

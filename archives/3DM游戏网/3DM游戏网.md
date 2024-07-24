@@ -199,3 +199,9 @@
 
 + [除《企鹅人》外 《新蝙蝠侠》还可能将有更多衍生作品](https://www.3dmgame.com/news/202407/3900237.html)
 
++ [即时战略游戏《Ratten Reich》8月9日发售 支持繁体中文](https://www.3dmgame.com/news/202407/3900240.html)
+
++ [PUBG工作室正在开发一款3A新IP游戏 预算1亿美元](https://www.3dmgame.com/news/202407/3900241.html)
+
++ [《深夜拉面》登陆Steam 哲理系叙事对话游戏](https://www.3dmgame.com/news/202407/3900239.html)
+

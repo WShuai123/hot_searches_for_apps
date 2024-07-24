@@ -169,3 +169,5 @@
 
 + [内网隧道——HTTP隧道](https://blog.csdn.net/qq_55202378/article/details/140638357)
 
++ [用神经网络求解微分方程](https://blog.csdn.net/shebao3333/article/details/140606770)
+

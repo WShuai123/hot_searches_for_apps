@@ -43,3 +43,7 @@
 
 + [消息称苹果 iPhone SE 4 计划今年 10 月开始量产](https://m.ithome.com/html/783806.htm)
 
++ [小米发布 CarWith 3.0 正式版更新：全界面 UI 重构，新增自定义壁纸、通知流转等功能](https://m.ithome.com/html/783869.htm)
+
++ [苹果 iOS / iPadOS 18 开发者预览版 Beta 4 发布：新增 CarPlay 壁纸、梳理设置选项、增强相机控制](https://m.ithome.com/html/783797.htm)
+

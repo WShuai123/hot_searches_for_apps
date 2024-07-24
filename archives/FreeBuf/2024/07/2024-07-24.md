@@ -57,3 +57,5 @@
 
 + [跨域漏洞链深度解析：从postMessage到CSRF的精密攻击路径](https://www.freebuf.com/articles/web/406639.html)
 
++ [Hakuin：一款自动化SQL盲注（BSQLI）安全检测工具](https://www.freebuf.com/sectool/405933.html)
+
