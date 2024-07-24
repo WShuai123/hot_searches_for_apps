@@ -101,3 +101,23 @@
 
 + [【探索Linux】P.41（传输层 —— TCP拥塞控制 | 延迟应答 | 捎带应答 ）](https://blog.csdn.net/m0_75215937/article/details/140165305)
 
++ [【人工智能】Transformers之Pipeline（五）：深度估计（depth-estimation）](https://blog.csdn.net/weixin_48007632/article/details/140671531)
+
++ [大语言模型对时间序列预测真的有用吗？](https://blog.csdn.net/m0_46510245/article/details/140654869)
+
++ [一文速览llama 3.1——对其92页paper的全面细致解读：涵盖语言、视觉、语音的架构、原理](https://blog.csdn.net/v_JULY_v/article/details/140659420)
+
++ [9 Vue 框架生态](https://blog.csdn.net/ever__ever/article/details/140626328)
+
++ [测试管理工具、自动化测试工具、跨浏览器测试工具 推荐](https://blog.csdn.net/ufrontend/article/details/140502511)
+
++ [微软蓝屏事件暴露的网络安全问题](https://blog.csdn.net/ak2111/article/details/140622675)
+
++ [计算机网络-配置双机三层互联（静态路由方式）](https://blog.csdn.net/qq_43800449/article/details/140627936)
+
++ [自动化网络爬虫：如何它成为提升数据收集效率的终极武器？](https://blog.csdn.net/zhou6343178/article/details/140643812)
+
++ [34_YOLOv5网络详解](https://blog.csdn.net/qq_51605551/article/details/140601798)
+
++ [代理协议解析：如何根据需求选择HTTP、HTTPS或SOCKS5？](https://blog.csdn.net/Ssm2022/article/details/140636929)
+
