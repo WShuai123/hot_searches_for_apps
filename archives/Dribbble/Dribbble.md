@@ -124,3 +124,19 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Viking Biker Logo](https://dribbble.com/shots/)
 
++ [Happy 15th! ????](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Multiple Alarm](https://dribbble.com/shots/)
+
++ [ilcons hero illustrations](https://dribbble.com/shots/)
+
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [Land Agent at Work](https://dribbble.com/shots/)
+
++ [EF Hello](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
