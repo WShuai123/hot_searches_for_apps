@@ -157,3 +157,9 @@
 
 + [【中项】系统集成项目管理工程师-第5章 软件工程-5.1软件工程定义与5.2软件需求](https://blog.csdn.net/m0_66540684/article/details/140637190)
 
++ [【北京迅为】《i.MX8MM嵌入式Linux开发指南》-第三篇 嵌入式Linux驱动开发篇-第四十八章 Platform 设备驱动](https://blog.csdn.net/BeiJingXunWei/article/details/140627384)
+
++ [【人工智能】Python实现文本转换为语音：使用gTTS库实现](https://blog.csdn.net/m0_52827996/article/details/140591208)
+
++ [C# 与C++ cli](https://blog.csdn.net/weixin_45751713/article/details/140644816)
+

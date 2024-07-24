@@ -55,3 +55,5 @@
 
 + [Wiz 拒绝谷歌 230 亿美元的收购要约](https://www.freebuf.com/news/406854.html)
 
++ [跨域漏洞链深度解析：从postMessage到CSRF的精密攻击路径](https://www.freebuf.com/articles/web/406639.html)
+

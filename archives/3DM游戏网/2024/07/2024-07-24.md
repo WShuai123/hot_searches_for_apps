@@ -195,3 +195,5 @@
 
 + [英伟达TITAN AI显卡曝光：性能比RTX 4090显卡快63%](https://www.3dmgame.com/news/202407/3900224.html)
 
++ [印度生产不顺心 苹果将部分iPhone手机产能迁回中国](https://www.3dmgame.com/news/202407/3900238.html)
+
