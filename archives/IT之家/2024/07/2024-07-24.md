@@ -39,3 +39,5 @@
 
 + [消息称苹果已开始研发小折叠屏 iPhone，预计 2026 年推出](https://m.ithome.com/html/783786.htm)
 
++ [雷军再谈周受资离职：对小米影响很大，但没抱怨也没指责](https://m.ithome.com/html/783830.htm)
+

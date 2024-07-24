@@ -47,3 +47,7 @@
 
 + [漏洞复现 | 结合源码分析致远A8版本任意文件读取漏洞](https://www.freebuf.com/vuls/406609.html)
 
++ [谷歌取消在浏览器中弃用第三方cookie的计划，将选择权交还给用户](https://www.freebuf.com/news/406826.html)
+
++ [FreeBuf早报 | 加密货币交易所WazirX遭黑客攻击；网约车外挂软件犯罪团伙被打掉](https://www.freebuf.com/news/406783.html)
+

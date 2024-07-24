@@ -149,3 +149,21 @@
 
 + [《轮班87》登陆Steam 类8番出口惊悚悬疑](https://www.3dmgame.com/news/202407/3900200.html)
 
++ [好评休闲绘画游戏《绘夏》现已在Steam平台正式发售](https://www.3dmgame.com/news/202407/3900221.html)
+
++ [OpenAI调岗AI安全高管 新职位专注于AI推理](https://www.3dmgame.com/news/202407/3900222.html)
+
++ [《死侍与金刚狼》IGN 7分 MTC综合评分54分](https://www.3dmgame.com/news/202407/3900219.html)
+
++ [《DOTA2》著名配音演员Sam Mowry去世 享年64岁](https://www.3dmgame.com/news/202407/3900220.html)
+
++ [《严阵以待》首个DLC“Home Invasion”正式发售 国区定价42元](https://www.3dmgame.com/news/202407/3900217.html)
+
++ [科幻RPG游戏《Exodus》新概念艺术图 与外星人激战](https://www.3dmgame.com/news/202407/3900218.html)
+
++ [经典《索斯机兽》25周年纪念策划启动 动画周边活动](https://www.3dmgame.com/news/202407/3900216.html)
+
++ [来3DM游戏APP，《艾尔登法环：黄金树幽影版》等上百份游戏免费领！](https://www.3dmgame.com/news/202407/3900215.html)
+
++ [复古科幻射击游戏《恐外症》现已在Steam平台正式推出](https://www.3dmgame.com/news/202407/3900214.html)
+

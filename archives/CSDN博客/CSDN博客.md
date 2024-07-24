@@ -145,3 +145,7 @@
 
 + [基于微信小程序+SpringBoot+Vue的校园自助打印系统(带1w+文档)](https://blog.csdn.net/qq_21888965/article/details/140612502)
 
++ [【云原生】Kubernetes 中的 PV 和 PVC 介绍、原理、用法及实战案例分析](https://blog.csdn.net/littlefun591/article/details/140638640)
+
++ [京东百万级调度系统(Buffalo)架构解密](https://blog.csdn.net/zheli1969917/article/details/140628545)
+
