@@ -121,3 +121,31 @@
 
 + [物理机制汽车送货游戏《Truckful》面向PC公布](https://www.3dmgame.com/news/202407/3900192.html)
 
++ [塔防游戏《兽人领地》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202407/3900212.html)
+
++ [卡普空宣布计划将管理层女性占比提升至15%](https://www.3dmgame.com/news/202407/3900211.html)
+
++ [因成员发布含种族主义言论 任天堂撤销《斯普拉遁3》世界赛优胜队伍的冠军资格](https://www.3dmgame.com/news/202407/3900210.html)
+
++ [《暗影诅咒：复刻版》新预告片 宣布10月31日发售](https://www.3dmgame.com/news/202407/3900209.html)
+
++ [《星刃》官方分享拍照模式截图 伊芙穿泳衣练瑜伽](https://www.3dmgame.com/news/202407/3900213.html)
+
++ [《Ova Magica》Steam抢先体验 怪物收集农场运营](https://www.3dmgame.com/news/202407/3900208.html)
+
++ [《守望先锋2》莱因哈特神话武器皮肤上线 太酷炫了！](https://www.3dmgame.com/news/202407/3900207.html)
+
++ [《天空之恋》Steam页面上线 2024年11月推出](https://www.3dmgame.com/news/202407/3900204.html)
+
++ [国际奥委会全票通过沙特电竞奥运会项目 预计2025年开办](https://www.3dmgame.com/news/202407/3900203.html)
+
++ [《祝你好死》发行商Red Art Games遭受大规模网络攻击](https://www.3dmgame.com/news/202407/3900205.html)
+
++ [《堡垒之夜》联动特斯拉Cybertruck 似乎并不受玩家和开发者待见](https://www.3dmgame.com/news/202407/3900202.html)
+
++ [在育碧“道歉”声明后 IGN也改口称弥助不是武士](https://www.3dmgame.com/news/202407/3900206.html)
+
++ [《NBA街头篮球》精神续作《The Run: Got Next》公布 虚幻5打造](https://www.3dmgame.com/news/202407/3900201.html)
+
++ [《轮班87》登陆Steam 类8番出口惊悚悬疑](https://www.3dmgame.com/news/202407/3900200.html)
+

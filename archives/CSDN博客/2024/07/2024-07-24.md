@@ -135,3 +135,13 @@
 
 + [Jackson详解](https://blog.csdn.net/qq_35512802/article/details/140511651)
 
++ [pytorch中的面向对象编程方法](https://blog.csdn.net/BUAAer_xuyang/article/details/140642822)
+
++ [Spring模块](https://blog.csdn.net/nn8783/article/details/140605201)
+
++ [VUE之---slot插槽](https://blog.csdn.net/Cshaosun/article/details/140543277)
+
++ [使用Python和Pygame创建一个超级玛丽游戏](https://blog.csdn.net/2301_78150559/article/details/140615393)
+
++ [基于微信小程序+SpringBoot+Vue的校园自助打印系统(带1w+文档)](https://blog.csdn.net/qq_21888965/article/details/140612502)
+

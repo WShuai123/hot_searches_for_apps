@@ -37,3 +37,5 @@
 
 + [更新出错致航班停飞、医院瘫痪，CrowdStrike CEO 将接受美国国会质询](https://m.ithome.com/html/783728.htm)
 
++ [消息称苹果已开始研发小折叠屏 iPhone，预计 2026 年推出](https://m.ithome.com/html/783786.htm)
+

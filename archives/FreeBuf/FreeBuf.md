@@ -45,3 +45,5 @@
 
 + [CrowdStrike导致大规模系统崩溃事件的技术分析 ———— 暨对“猎鹰折羽”的沉思](https://www.freebuf.com/articles/paper/406610.html)
 
++ [漏洞复现 | 结合源码分析致远A8版本任意文件读取漏洞](https://www.freebuf.com/vuls/406609.html)
+

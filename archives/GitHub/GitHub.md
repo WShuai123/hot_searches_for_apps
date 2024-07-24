@@ -37,3 +37,5 @@
 
 + [lit / lit](https://github.com/lit/lit)
 
++ [careywyr / UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
+
