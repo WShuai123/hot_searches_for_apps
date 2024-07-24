@@ -105,3 +105,43 @@
 
 + [《战壕惊魂》现已正式发售 Steam特别好评](https://www.3dmgame.com/news/202407/3900276.html)
 
++ [电影《传说》发布新预告及海报 7月12日上映](https://www.3dmgame.com/news/202406/3896580.html)
+
++ [《耶稣模拟器》Steam抢先体验版推出 在罪恶都市拯救人类](https://www.3dmgame.com/news/202406/3896578.html)
+
++ [VR游戏《Skydance“s Behemoth》Steam页面上线 暂不支持中文](https://www.3dmgame.com/news/202406/3896579.html)
+
++ [key社25周年网站上线 新游策划活动6月14日公开](https://www.3dmgame.com/news/202406/3896576.html)
+
++ [卡牌爬塔游戏《Pyrene》现已在Steam平台推出试玩Demo 2024年年内推出](https://www.3dmgame.com/news/202406/3896577.html)
+
++ [《超级冲锋：开箱》登陆Xbox四天 销量达4万份](https://www.3dmgame.com/news/202406/3896574.html)
+
++ [C罗投资四千万美元 免费足球游戏《UFL》即将开启Beta测试](https://www.3dmgame.com/news/202406/3896575.html)
+
++ [合作恐怖游戏《Haunted Paws》公布 扮演狗狗拯救人类](https://www.3dmgame.com/news/202406/3896573.html)
+
++ [《Ultrakill》开发者：玩家没钱买我的游戏可以玩盗版 用推荐来支持](https://www.3dmgame.com/news/202406/3896572.html)
+
++ [宜家正在为《罗布乐思》上的虚拟店招聘员工 会支付薪酬](https://www.3dmgame.com/news/202406/3896571.html)
+
++ [日式恐怖游戏《CRUELTY》6月17日发售 从噩梦世界逃脱](https://www.3dmgame.com/news/202406/3896581.html)
+
++ [农场模拟游戏《超级种田男孩》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896582.html)
+
++ [皮克斯新片《头脑特工队2》终极预告公布 6月21日上映](https://www.3dmgame.com/news/202406/3896570.html)
+
++ [世界大学最新排名出炉 麻省理工连续13年登顶](https://www.3dmgame.com/news/202406/3896587.html)
+
++ [知名恐怖制片公司布伦屋或将在夏日游戏节上公布首款新游戏](https://www.3dmgame.com/news/202406/3896569.html)
+
++ [生存沙盒游戏《灵魂面甲》销量突破20万 官方发文感谢玩家](https://www.3dmgame.com/news/202406/3896588.html)
+
++ [日系车集体造假 日本官方部门对雅马哈总部突击检查](https://www.3dmgame.com/news/202406/3896586.html)
+
++ [《激战2》扩展将添加住房系统和5年来首个新副本](https://www.3dmgame.com/news/202406/3896585.html)
+
++ [据报道《死侍3》导演肖恩·利维有望执导《复仇者联盟5》](https://www.3dmgame.com/news/202406/3896584.html)
+
++ [《寂静之歌》Steam抢先体验 卡牌系统奇幻战略](https://www.3dmgame.com/news/202406/3896583.html)
+
