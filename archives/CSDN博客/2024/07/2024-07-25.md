@@ -121,3 +121,5 @@
 
 + [代理协议解析：如何根据需求选择HTTP、HTTPS或SOCKS5？](https://blog.csdn.net/Ssm2022/article/details/140636929)
 
++ [如何学习EMR：糙快猛的大数据之路（建立整体框架）](https://blog.csdn.net/u012955829/article/details/140622519)
+
