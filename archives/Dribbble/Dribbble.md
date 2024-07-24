@@ -213,3 +213,17 @@
 
 + [Web UI Design for Isora - SaaS Web App Platform](https://dribbble.com/shots/)
 
++ [Pixelshift - Logo Design](https://dribbble.com/shots/)
+
++ [Viking Biker Logo](https://dribbble.com/shots/)
+
++ [2B Monogram](https://dribbble.com/shots/)
+
++ [Smart Stack Concept 4](https://dribbble.com/shots/)
+
++ [Paper Letter X Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Van Gogh Cafe](https://dribbble.com/shots/)
+
++ [Sounds Mobile App](https://dribbble.com/shots/)
+

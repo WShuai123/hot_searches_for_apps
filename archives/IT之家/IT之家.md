@@ -53,3 +53,5 @@
 
 + [三星开始向巴黎奥运会运动员送上 Galaxy Z Flip6 奥运版手机，100GB 流量免费用](https://m.ithome.com/html/783770.htm)
 
++ [12.98 万元起，广汽埃安第二代 AION V 纯电 SUV 上市](https://m.ithome.com/html/783778.htm)
+

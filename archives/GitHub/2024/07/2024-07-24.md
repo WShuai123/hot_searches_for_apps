@@ -39,3 +39,21 @@
 
 + [careywyr / UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)
 
++ [Netflix / maestro](https://github.com/Netflix/maestro)
+
++ [meta-llama / codellama](https://github.com/meta-llama/codellama)
+
++ [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+
++ [meta-llama / llama3](https://github.com/meta-llama/llama3)
+
++ [hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
++ [gabime / spdlog](https://github.com/gabime/spdlog)
+
++ [lz4 / lz4](https://github.com/lz4/lz4)
+
++ [openstatusHQ / openstatus](https://github.com/openstatusHQ/openstatus)
+
++ [qdrant / qdrant](https://github.com/qdrant/qdrant)
+

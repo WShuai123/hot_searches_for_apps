@@ -243,3 +243,15 @@
 
 + [马斯克确认：特斯拉自动驾驶出租车今年全球可用](https://www.3dmgame.com/news/202407/3900249.html)
 
++ [保时捷CEO：接受中国销量下降 不会加入价格战](https://www.3dmgame.com/news/202407/3900261.html)
+
++ [雷军：苹果也是采用代工模式 凭啥说小米是组装厂？](https://www.3dmgame.com/news/202407/3900265.html)
+
++ [《崩坏：星穹铁道》走近星穹——「云璃：光脚的不怕穿鞋的」](https://www.3dmgame.com/news/202407/3900264.html)
+
++ [工厂建造游戏《异形工厂2》宣布8月15日推出抢先体验版 定价75元](https://www.3dmgame.com/news/202407/3900263.html)
+
++ [《一起来扫雷》登陆Steam 在线合作一局狂扫1000万颗雷](https://www.3dmgame.com/news/202407/3900262.html)
+
++ [【KK×虎牙】澄海主播邀请赛圆满落幕！高玩云集，巅峰会战！](https://www.3dmgame.com/news/202407/3900260.html)
+
