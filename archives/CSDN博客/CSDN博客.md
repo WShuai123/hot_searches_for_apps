@@ -205,3 +205,5 @@
 
 + [Spark实时（一）：StructuredStreaming 介绍](https://blog.csdn.net/xiaoweite1/article/details/140648388)
 
++ [微信小程序-CANVAS写入图片素材、文字等数据生成图片](https://blog.csdn.net/qq_16494241/article/details/140616366)
+

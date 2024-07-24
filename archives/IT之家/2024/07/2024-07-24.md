@@ -59,3 +59,5 @@
 
 + [“经典 Windows 开始菜单左侧非位图”遭质疑，多位工程师晒证据反驳](https://m.ithome.com/html/783842.htm)
 
++ [华为“一口价换电池”活动上线：手机、平板、笔记本、智能穿戴，99 元起](https://m.ithome.com/html/783959.htm)
+

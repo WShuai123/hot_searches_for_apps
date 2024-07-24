@@ -261,3 +261,5 @@
 
 + [传苹果正开发折叠屏iPhone 预计2026年推出](https://www.3dmgame.com/news/202407/3900267.html)
 
++ [传《星空》下次更新将加入陆地载具：双人越野车](https://www.3dmgame.com/news/202407/3900269.html)
+
