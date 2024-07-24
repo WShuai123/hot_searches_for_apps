@@ -59,3 +59,7 @@
 
 + [Hakuin：一款自动化SQL盲注（BSQLI）安全检测工具](https://www.freebuf.com/sectool/405933.html)
 
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+
++ [锁定明早9点 | 红蓝军攻防与数据安全论坛 · 北京站](https://www.freebuf.com/fevents/406895.html)
+
