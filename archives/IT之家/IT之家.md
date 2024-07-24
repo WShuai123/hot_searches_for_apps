@@ -61,3 +61,7 @@
 
 + [华为“一口价换电池”活动上线：手机、平板、笔记本、智能穿戴，99 元起](https://m.ithome.com/html/783959.htm)
 
++ [99 元，酷态科电能块探索版充电宝发售：1A1C、双向 30W，半透明外壳](https://m.ithome.com/html/783850.htm)
+
++ [马自达疑似将更换车标，新 Logo 更简约扁平](https://m.ithome.com/html/783955.htm)
+

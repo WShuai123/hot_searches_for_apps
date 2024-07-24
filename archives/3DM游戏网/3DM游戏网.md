@@ -263,3 +263,9 @@
 
 + [传《星空》下次更新将加入陆地载具：双人越野车](https://www.3dmgame.com/news/202407/3900269.html)
 
++ [自相矛盾 育碧曾称《刺客信条》以准确展现历史而知名](https://www.3dmgame.com/news/202407/3900272.html)
+
++ [特斯拉Q2营收255亿美元 交付44.4万辆 Robotaxi10月10日发布](https://www.3dmgame.com/news/202407/3900271.html)
+
++ [SIE韩国向海军捐赠50台PS5主机和DualSense手柄](https://www.3dmgame.com/news/202407/3900270.html)
+

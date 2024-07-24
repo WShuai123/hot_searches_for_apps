@@ -266,3 +266,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Future Paradise: Illustration](https://dribbble.com/shots/)
 
++ [Tattoo Series 2](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [Eye Sea](https://dribbble.com/shots/)
+
++ [ilcons hero illustrations](https://dribbble.com/shots/)
+
