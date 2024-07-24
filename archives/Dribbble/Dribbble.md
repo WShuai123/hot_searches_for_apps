@@ -203,3 +203,13 @@
 
 + [2Z logo concept](https://dribbble.com/shots/)
 
++ [Nuance - Finance Dashboard](https://dribbble.com/shots/)
+
++ [Safe generative UI by Milkinside](https://dribbble.com/shots/)
+
++ [Odradek — Smart Home Control Panel](https://dribbble.com/shots/)
+
++ [Hamster Full Mouth????](https://dribbble.com/shots/)
+
++ [Web UI Design for Isora - SaaS Web App Platform](https://dribbble.com/shots/)
+

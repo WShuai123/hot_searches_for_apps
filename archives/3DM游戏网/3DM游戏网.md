@@ -219,3 +219,27 @@
 
 + [《原神》预告5.0版本前瞻特别节目 8月16日播出](https://www.3dmgame.com/news/202407/3900244.html)
 
++ [漫威影业总裁凯文·费奇透露 偶尔会考虑与DC的跨界合作](https://www.3dmgame.com/news/202407/3900248.html)
+
++ [《黑神话》官方询问老外玩家：除了悟空 你还知道哪些人](https://www.3dmgame.com/news/202407/3900259.html)
+
++ [完美世界两位CEO均离职 电竞业务总裁顾黎明接任](https://www.3dmgame.com/news/202407/3900257.html)
+
++ [科技界顶流网红！雷军抖音粉丝数暴涨至2693万 超过董宇辉](https://www.3dmgame.com/news/202407/3900258.html)
+
++ [模拟经营游戏《夜总会模拟器》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3900255.html)
+
++ [三星Galaxy智能戒指国行版2999开售 手势操控手机](https://www.3dmgame.com/news/202407/3900256.html)
+
++ [马斯克预计特斯拉FSD年底前在华获批！余承东不怕：华为智驾体验略优](https://www.3dmgame.com/news/202407/3900253.html)
+
++ [《如龙》夏日主题贺图 男女角色穿泳装奔向大海](https://www.3dmgame.com/news/202407/3900254.html)
+
++ [《Slot Waste》Steam页面上线  奇葩异形制造模拟](https://www.3dmgame.com/news/202407/3900252.html)
+
++ [动作RPG《夜街酷斗》Steam全球测试8月9日开启 支持中文](https://www.3dmgame.com/news/202407/3900250.html)
+
++ [研究发现Steam市场存在可疑行为：可能真的是洗钱！](https://www.3dmgame.com/news/202407/3900251.html)
+
++ [马斯克确认：特斯拉自动驾驶出租车今年全球可用](https://www.3dmgame.com/news/202407/3900249.html)
+
