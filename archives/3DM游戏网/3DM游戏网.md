@@ -267,3 +267,17 @@
 
 + [戴夫·巴蒂斯塔坦言愿意在滚导的新DCU中做任何事情 但也有心仪的角色](https://www.3dmgame.com/news/202407/3900335.html)
 
++ [国内独享！小米：近年内没有在海外市场销售汽车的计划](https://www.3dmgame.com/news/202407/3900339.html)
+
++ [头显应用《PlayStation VR2 App》Steam页面 8月6日上线](https://www.3dmgame.com/news/202407/3900340.html)
+
++ [《星鸣特攻》非二元开发者强迫同事使用神奇称谓 不服从就辞退](https://www.3dmgame.com/news/202407/3900341.html)
+
++ [《英雄传说：界之轨迹》限定版发布 “黑色庭园”新情报公开](https://www.3dmgame.com/news/202407/3900342.html)
+
++ [《星刃》伊芙新泳装图欣赏！拍照模式仍需等待](https://www.3dmgame.com/news/202407/3900343.html)
+
++ [传苹果已搞定5G基带 明年iPhone将全球首发](https://www.3dmgame.com/news/202407/3900344.html)
+
++ [肉鸽游戏《至暗之光：幸存者》Steam页面 发售日待定](https://www.3dmgame.com/news/202407/3900345.html)
+

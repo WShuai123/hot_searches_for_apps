@@ -167,3 +167,11 @@
 
 + [vue3 响应式 Ref和Reactive 中的一些细节](https://blog.csdn.net/fyw1789/article/details/140674134)
 
++ [MySQL JSON类型：结构化数据存储](https://blog.csdn.net/z_344791576/article/details/140577891)
+
++ [openGauss触发器详解](https://blog.csdn.net/GaussDB/article/details/140688705)
+
++ [AIGC专栏14——ComfyUI秋叶包+EasyAnimate 本地快速拉起](https://blog.csdn.net/weixin_44791964/article/details/140649352)
+
++ [【数据建模学习实录】——数据处理与模型拟合](https://blog.csdn.net/xiaoyvhuv/article/details/140656474)
+

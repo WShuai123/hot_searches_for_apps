@@ -176,3 +176,41 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
 
++ [Tree + Cube + Wires Logo Concept](https://dribbble.com/shots/)
+
++ [investy - Logo Design](https://dribbble.com/shots/)
+
++ [HyperBridge protocol](https://dribbble.com/shots/)
+
++ [AtomicVPN website](https://dribbble.com/shots/)
+
++ [Social Media Mobile App](https://dribbble.com/shots/)
+
++ [Zenity redesign website](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Volvo S90 Recharge](https://dribbble.com/shots/)
+
++ [Arrows Hex - gradient version](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [DraftBot | Mobile App Design ????](https://dribbble.com/shots/)
+
++ [SEAL. - Fintech Landing Page](https://dribbble.com/shots/)
+
++ [Finance Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Interaction for Journal App](https://dribbble.com/shots/)
+
++ [Zendenta - Dashboard for SaaS Dental Clinic Management](https://dribbble.com/shots/)
+
++ [Redice - Sales analytics dashboard ????](https://dribbble.com/shots/)
+
++ [Secured finance - web design fragments](https://dribbble.com/shots/)
+
++ [CourseHub educational platform](https://dribbble.com/shots/)
+
++ [Point of Sales System - Landing Page](https://dribbble.com/shots/)
+

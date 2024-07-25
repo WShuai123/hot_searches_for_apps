@@ -61,3 +61,5 @@
 
 + [JAW：一款针对客户端JavaScript的图形化安全分析框架](https://www.freebuf.com/sectool/406141.html)
 
++ [原来，甲方们都在这里聊「攻防演练」](https://www.freebuf.com/news/406945.html)
+

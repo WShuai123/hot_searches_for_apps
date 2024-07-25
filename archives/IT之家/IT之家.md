@@ -57,3 +57,5 @@
 
 + [特斯拉股价大跌 12%，总市值回落至 7000 亿美元以下](https://m.ithome.com/html/784014.htm)
 
++ [江淮傍上华为打造百万级豪车？ 6 月 MPV 销量暴跌近四成](https://m.ithome.com/html/784047.htm)
+
