@@ -217,3 +217,23 @@
 
 + [《地心护核者》宣布正式版首发加入XGP 8月27日发售](https://www.3dmgame.com/news/202407/3900303.html)
 
++ [原田胜宏解释《铁拳8》三岛平八再次复活：玩家需要](https://www.3dmgame.com/news/202407/3900314.html)
+
++ [网购挖掘机却收到玩具 构成欺诈退一赔三](https://www.3dmgame.com/news/202407/3900315.html)
+
++ [扩大AI数据中心网络 微软与Lumen Technologies合作](https://www.3dmgame.com/news/202407/3900317.html)
+
++ [复古风格动作游戏《日食破坏者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3900316.html)
+
++ [老头环速通高手提出1万美元挑战：1级多限制通关DLC](https://www.3dmgame.com/news/202407/3900318.html)
+
++ [新垣结衣再出演！《任天堂Switch运动》发布篮球篇新CM](https://www.3dmgame.com/news/202407/3900319.html)
+
++ [像素风动作类肉鸽游戏《空洞幸存者》现已在Steam平台免费推出第一章试玩](https://www.3dmgame.com/news/202407/3900321.html)
+
++ [Roguelite卡牌对战游戏《Apeiron》Steam页面 2024年第三季度发行](https://www.3dmgame.com/news/202407/3900322.html)
+
++ [《Jump King Quest》9月登陆Steam 高难度跳跃系动作](https://www.3dmgame.com/news/202407/3900320.html)
+
++ [《星露谷》开发者：承诺未来更新免费并非在批评DLC收费](https://www.3dmgame.com/news/202407/3900323.html)
+

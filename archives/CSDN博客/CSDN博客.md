@@ -139,3 +139,17 @@
 
 + [Linux网络编程之TCP](https://blog.csdn.net/qq_44121078/article/details/140659498)
 
++ [【python】Python中采集Prometheus数据，进行数据分析和可视化展示](https://blog.csdn.net/littlefun591/article/details/140665965)
+
++ [一文速览Llama 3.1——对其92页paper的全面细致解读：涵盖语言、视觉、语音的架构、原理](https://blog.csdn.net/v_JULY_v/article/details/140659420)
+
++ [网络安全之信息收集阶段攻击和防护手段（一）](https://blog.csdn.net/weixin_38500689/article/details/140662334)
+
++ [Web安全:Web体系架构存在的安全问题和解决方室](https://blog.csdn.net/2401_82471222/article/details/140652284)
+
++ [Nginx Proxy缓存](https://blog.csdn.net/l_789rty/article/details/140666144)
+
++ [鸿蒙界面开发](https://blog.csdn.net/qq_46025779/article/details/140637528)
+
++ [基于stm32的多旋翼无人机（Multi-rotor UAV based on stm32)](https://blog.csdn.net/weixin_51141489/article/details/140561621)
+

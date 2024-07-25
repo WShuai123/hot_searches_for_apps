@@ -57,3 +57,5 @@
 
 + [这家网络公司开始聘用黑客？](https://www.freebuf.com/news/406964.html)
 
++ [渗透测试 | 黑白盒某学习刷课漏洞挖掘经验分享](https://www.freebuf.com/articles/web/406563.html)
+
