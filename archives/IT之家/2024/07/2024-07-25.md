@@ -67,3 +67,7 @@
 
 + [极狐汽车起火厂家第一时间盖黑布、撬车标，官方道歉：处理不当](https://m.ithome.com/html/784222.htm)
 
++ [“与辉同行”将独立运行，俞敏洪、董宇辉分别回应](https://m.ithome.com/html/784233.htm)
+
++ [比亚迪宋 DM-i、深蓝 S07 汽车发布会今日举行，官微互动“在线串门”“共守 SUV 国门”](https://m.ithome.com/html/784134.htm)
+

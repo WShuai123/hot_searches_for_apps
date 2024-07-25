@@ -299,3 +299,9 @@
 
 + [日本相关部门回应《刺客信条：影》黑人武士弥助风波](https://www.3dmgame.com/news/202407/3900346.html)
 
++ [《潜行者2》再度跳票到今年11月 8月发布新实机](https://www.3dmgame.com/news/202407/3900355.html)
+
++ [必应推出生成式搜索 让AI总结搜索结果](https://www.3dmgame.com/news/202407/3900356.html)
+
++ [Netflix动画剧集《终结者：零》首曝正式海报](https://www.3dmgame.com/news/202407/3900357.html)
+
