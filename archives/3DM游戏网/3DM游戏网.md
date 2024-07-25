@@ -245,3 +245,17 @@
 
 + [《无人深空》更新后玩家数量暴涨 PC主机都增加4倍多](https://www.3dmgame.com/news/202407/3900325.html)
 
++ [《失落城堡2》正式发售 综合评价“褒贬不一”](https://www.3dmgame.com/news/202407/3900332.html)
+
++ [《丽露娅与夏夏的纯白谎言》登陆PC 温馨恋爱冒险](https://www.3dmgame.com/news/202407/3900334.html)
+
++ [《头脑特工队2》击败《冰雪奇缘2》动画电影史上收入最高](https://www.3dmgame.com/news/202407/3900333.html)
+
++ [城市建造策略游戏《阿兹特克：最后的太阳》现已登录Steam平台](https://www.3dmgame.com/news/202407/3900331.html)
+
++ [《苍翼：混沌效应》“雷其儿”DLC上线 部分玩家可免费获得](https://www.3dmgame.com/news/202407/3900330.html)
+
++ [索尼中国之星计划第三期第三批游戏名单公布：《绝晓》等](https://www.3dmgame.com/news/202407/3900328.html)
+
++ [《死侍与金刚狼》北美上映周末票房预测 或超《芭比》](https://www.3dmgame.com/news/202407/3900329.html)
+
