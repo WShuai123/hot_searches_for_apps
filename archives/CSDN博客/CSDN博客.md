@@ -99,3 +99,25 @@
 
 + [鸿蒙界面开发](https://blog.csdn.net/qq_46025779/article/details/140637528)
 
++ [【人工智能】AI绘画：科技与艺术交汇的新时代](https://blog.csdn.net/2201_75539691/article/details/140699606)
+
++ [MySQL中查询近一年的数据](https://blog.csdn.net/FlyingJiang/article/details/140633011)
+
++ [基于单片机控制的锂电池充电和保护系统研究](https://blog.csdn.net/weixin_45905610/article/details/140671335)
+
++ [DDoS 究竟在攻击什么?](https://blog.csdn.net/XRY_XIAO/article/details/140664148)
+
++ [802.11 wireshark 抓包](https://blog.csdn.net/m0_55334946/article/details/140671901)
+
++ [【微信小程序实战教程】之微信小程序原生开发详解](https://blog.csdn.net/p445098355/article/details/140665881)
+
++ [34_YOLOv5网络详解](https://blog.csdn.net/qq_51605551/article/details/140601798)
+
++ [怎么将jpg图片转换为pdf？将jpg图片转换为pdf的几种方法介绍](https://blog.csdn.net/ZCR20000/article/details/140661312)
+
++ [韦东山嵌入式linux系列-具体单板的按键驱动程序(查询方式)](https://blog.csdn.net/Zhouzi_heng/article/details/140672881)
+
++ [新能源汽车的充电网络安全威胁和防护措施](https://blog.csdn.net/weixin_33193047/article/details/140665487)
+
++ [【中项】系统集成项目管理工程师-第5章 软件工程-5.4软件实现](https://blog.csdn.net/m0_66540684/article/details/140655832)
+
