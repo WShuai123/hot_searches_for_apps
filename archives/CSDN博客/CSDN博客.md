@@ -129,3 +129,7 @@
 
 + [探索云计算的未来：边缘计算如何重塑IT格局](https://blog.csdn.net/qq_53139964/article/details/140675384)
 
++ [第34讲：KVM虚拟化与Ceph集群的RBD块存储对接](https://blog.csdn.net/weixin_44953658/article/details/140626237)
+
++ [Linux：进程信号（一.认识信号、信号的产生及深层理解、Term与Core）](https://blog.csdn.net/qq_74415153/article/details/140624810)
+
