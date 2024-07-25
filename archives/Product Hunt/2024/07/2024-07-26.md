@@ -109,3 +109,5 @@
 
 + [MicroWidgets](https://www.producthunt.com/posts/microwidgets)
 
++ [Hover Preview](https://www.producthunt.com/posts/hover-preview)
+

@@ -133,3 +133,5 @@
 
 + [Linux：进程信号（一.认识信号、信号的产生及深层理解、Term与Core）](https://blog.csdn.net/qq_74415153/article/details/140624810)
 
++ [PyCharm 2024.1：探索最新版本的创新与提升](https://blog.csdn.net/qq_42072014/article/details/140625138)
+
