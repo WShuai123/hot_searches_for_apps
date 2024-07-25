@@ -63,3 +63,5 @@
 
 + [原来，甲方们都在这里聊「攻防演练」](https://www.freebuf.com/news/406945.html)
 
++ [离大谱，这家网络公司开始招聘黑客？](https://www.freebuf.com/news/406964.html)
+

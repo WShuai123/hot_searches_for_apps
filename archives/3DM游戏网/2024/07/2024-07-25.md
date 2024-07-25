@@ -281,3 +281,21 @@
 
 + [肉鸽游戏《至暗之光：幸存者》Steam页面 发售日待定](https://www.3dmgame.com/news/202407/3900345.html)
 
++ [SIE中国之星计划新游《楼兰》公布 单人动作冒险](https://www.3dmgame.com/news/202407/3900354.html)
+
++ [索尼“中国之星计划”新游《绝晓》《代号：锦衣卫》实机预告](https://www.3dmgame.com/news/202407/3900353.html)
+
++ [雷军九种身份盘点：歌手与专车司机 哪个更让你意外](https://www.3dmgame.com/news/202407/3900352.html)
+
++ [小米电视小爱同学升级大模型版！1GB以上内存都能用](https://www.3dmgame.com/news/202407/3900351.html)
+
++ [官方公布九大快递满意度：顺丰再获第一、京东第二](https://www.3dmgame.com/news/202407/3900350.html)
+
++ [《小女巫与失落的记忆》登陆Steam 冒险解谜新游](https://www.3dmgame.com/news/202407/3900349.html)
+
++ [索尼马来工作室招聘宣传片泄露艺术图 或为Bluepoint新IP](https://www.3dmgame.com/news/202407/3900348.html)
+
++ [20多年来首次减产！曝本田将在中国削减50万辆产能](https://www.3dmgame.com/news/202407/3900347.html)
+
++ [日本相关部门回应《刺客信条：影》黑人武士弥助风波](https://www.3dmgame.com/news/202407/3900346.html)
+

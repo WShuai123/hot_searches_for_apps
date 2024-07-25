@@ -61,3 +61,7 @@
 
 + [“全球最薄军规手机”摩托罗拉 Edge 50 5G 泄露：挖孔双曲屏、金属边框 + 素皮后盖](https://m.ithome.com/html/784010.htm)
 
++ [东方甄选：主播董宇辉离职](https://m.ithome.com/html/784230.htm)
+
++ [告别“视频流”，小米 MIX Flip 手机外屏微博已更改为信息流模式](https://m.ithome.com/html/784169.htm)
+

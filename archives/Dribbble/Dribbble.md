@@ -222,3 +222,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Branding Template for Fintech Mobile App - LockWide](https://dribbble.com/shots/)
 
++ [3D Explainer for Ami (Sound on ????)](https://dribbble.com/shots/)
+
++ [Crypto icon set](https://dribbble.com/shots/)
+
++ [proud](https://dribbble.com/shots/)
+
++ [Bloody Book Logo](https://dribbble.com/shots/)
+
++ [SafeCredit - Logo Design](https://dribbble.com/shots/)
+
++ [Abstro 6](https://dribbble.com/shots/)
+
