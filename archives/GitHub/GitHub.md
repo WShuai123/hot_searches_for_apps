@@ -31,3 +31,13 @@
 
 + [qdrant / qdrant](https://github.com/qdrant/qdrant)
 
++ [fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit)
+
++ [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [twbs / bootstrap](https://github.com/twbs/bootstrap)
+

@@ -59,3 +59,5 @@
 
 + [江淮傍上华为打造百万级豪车？ 6 月 MPV 销量暴跌近四成](https://m.ithome.com/html/784047.htm)
 
++ [“全球最薄军规手机”摩托罗拉 Edge 50 5G 泄露：挖孔双曲屏、金属边框 + 素皮后盖](https://m.ithome.com/html/784010.htm)
+

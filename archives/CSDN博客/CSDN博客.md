@@ -175,3 +175,11 @@
 
 + [【数据建模学习实录】——数据处理与模型拟合](https://blog.csdn.net/xiaoyvhuv/article/details/140656474)
 
++ [所见即所得，赋能RAG：PDF解析里的段落识别与阅读顺序还原](https://blog.csdn.net/INTSIG/article/details/140658802)
+
++ [防火墙——网络环境支持](https://blog.csdn.net/aimnr/article/details/140674120)
+
++ [前端：Vue学习 - 购物车项目](https://blog.csdn.net/qq_45404396/article/details/140649445)
+
++ [新能源汽车的充电网络安全威胁和防护措施](https://blog.csdn.net/weixin_33193047/article/details/140665487)
+
