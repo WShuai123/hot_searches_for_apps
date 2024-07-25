@@ -35,3 +35,9 @@
 
 + [赛力斯问界 M7 系列汽车累计交付量突破 20 万台](https://m.ithome.com/html/783888.htm)
 
++ [售 12.98 万元，吉利银河 L6 创想版上市：配粉色车漆](https://m.ithome.com/html/783952.htm)
+
++ [波音：已恢复向中国航司交付 737 Max 飞机](https://m.ithome.com/html/783891.htm)
+
++ [小米手环 8 获推澎湃 HyperOS 1.6.222，新增焦点通知功能](https://m.ithome.com/html/783878.htm)
+

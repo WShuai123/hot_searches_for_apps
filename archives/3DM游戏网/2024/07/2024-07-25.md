@@ -155,3 +155,43 @@
 
 + [《地下城与王国》Steam页面上线 中世纪幻想RPG](https://www.3dmgame.com/news/202407/3900281.html)
 
++ [《GT赛车7》7月更新上线 车辆物理模拟模型大幅调整](https://www.3dmgame.com/news/202407/3900287.html)
+
++ [《Dreamsweeper》登陆Steam 肉鸽元素扫雷玩法](https://www.3dmgame.com/news/202407/3900292.html)
+
++ [牛仔模拟器《狂野西部时代》：1.0版本将于2024年8月22日发布](https://www.3dmgame.com/news/202407/3900290.html)
+
++ [像素风战术回合制肉鸽RPG《失落矿场》现已在PC上线！支持中文](https://www.3dmgame.com/news/202407/3900291.html)
+
++ [《钢铁蜂巢》：反乌托邦城市卡牌建造游戏免费中文试玩版现已在Steam上推出](https://www.3dmgame.com/news/202407/3900288.html)
+
++ [一战生存恐怖游戏《战壕惊魂》现已在PC和主机平台发布](https://www.3dmgame.com/news/202407/3900289.html)
+
++ [《无主之地》真人电影曝终极版预告片](https://www.3dmgame.com/news/202407/3900286.html)
+
++ [互动冒险游戏《Grizzly Man》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202407/3900293.html)
+
++ [CDPR新招聘信息显示 未来新作将登陆Switch2](https://www.3dmgame.com/news/202407/3900285.html)
+
++ [NEOWIZ旗下8款游戏参加”独立游戏节”，《闪避刺客》将开启7折优惠！](https://www.3dmgame.com/news/202407/3900294.html)
+
++ [Humble Games称裁员为“重组”被前员工指责撒谎](https://www.3dmgame.com/news/202407/3900295.html)
+
++ [索尼5V5射击游戏《星鸣特攻 Concord》将不包含战斗通行证](https://www.3dmgame.com/news/202407/3900283.html)
+
++ [500多名《魔兽世界》开发者组建工会 与高层谈判](https://www.3dmgame.com/news/202407/3900302.html)
+
++ [导致“蓝屏危机”软件公司宣布将补偿10美元外卖礼品卡](https://www.3dmgame.com/news/202407/3900284.html)
+
++ [复古喜剧风格点击解谜游戏《旋风 无暇旅行》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3900300.html)
+
++ [《微软飞行模拟》世界更新17：英国和爱尔兰扩展上线](https://www.3dmgame.com/news/202407/3900301.html)
+
++ [经典僵尸末日生存《七日杀》登陆多平台正式推出](https://www.3dmgame.com/news/202407/3900299.html)
+
++ [《龙腾世纪：影障守护者》艺术画册封面 面对猛龙！](https://www.3dmgame.com/news/202407/3900298.html)
+
++ [AMD锐龙9000系列CPU短暂延期 首批产品8月8日开卖](https://www.3dmgame.com/news/202407/3900297.html)
+
++ [《三角洲行动》PC版Alpha测试延期 8月6日正式开启](https://www.3dmgame.com/news/202407/3900296.html)
+
