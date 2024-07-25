@@ -305,3 +305,5 @@
 
 + [Netflix动画剧集《终结者：零》首曝正式海报](https://www.3dmgame.com/news/202407/3900357.html)
 
++ [暴死预定？《星鸣特攻》Steam愿望单将近800名开外](https://www.3dmgame.com/news/202407/3900358.html)
+

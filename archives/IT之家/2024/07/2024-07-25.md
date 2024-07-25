@@ -71,3 +71,7 @@
 
 + [比亚迪宋 DM-i、深蓝 S07 汽车发布会今日举行，官微互动“在线串门”“共守 SUV 国门”](https://m.ithome.com/html/784134.htm)
 
++ [13.58 万元起：比亚迪宋 L DM-i 上市，满油满电综合续航 1500 公里](https://m.ithome.com/html/784248.htm)
+
++ [13.58 万元起，2025 款比亚迪宋 PLUS DM-i 上市：第五代 DM 混动系统加持](https://m.ithome.com/html/784251.htm)
+
