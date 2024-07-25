@@ -75,3 +75,7 @@
 
 + [超级短](http://www.acfun.cn/v/ac45492047)
 
++ [《柯基美学》](http://www.acfun.cn/v/ac45491645)
+
++ [歌切合集  ※非红茶社社员请勿视听](http://www.acfun.cn/v/ac45492593)
+

@@ -29,3 +29,5 @@
 
 + [龙芯 3C6000 服务器 CPU 流片成功：性能达英特尔至强 Silver 4314 水平](https://m.ithome.com/html/783984.htm)
 
++ [移除 Plus 机型，郭明錤称苹果 iPhone 17 系列将新增超薄机型：采用自家 5G 芯片](https://m.ithome.com/html/784029.htm)
+
