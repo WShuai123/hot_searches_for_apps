@@ -105,3 +105,7 @@
 
 + [《地球防卫军6》Steam多半差评 价高体验差](https://www.3dmgame.com/news/202407/3900362.html)
 
++ [《龙腾世纪：影障守护者》获Steam Deck认证](https://www.3dmgame.com/news/202407/3900363.html)
+
++ [《星刃》夏季更新已推出 热辣比基尼多图展示](https://www.3dmgame.com/news/202407/3900364.html)
+

@@ -135,3 +135,7 @@
 
 + [PyCharm 2024.1：探索最新版本的创新与提升](https://blog.csdn.net/qq_42072014/article/details/140625138)
 
++ [【数学建模导论】Task01 数据处理与拟合模型](https://blog.csdn.net/sk8Love956/article/details/140675311)
+
++ [懒人精灵安卓版纯本地离线文字识别插件](https://blog.csdn.net/YY007H/article/details/140676593)
+
