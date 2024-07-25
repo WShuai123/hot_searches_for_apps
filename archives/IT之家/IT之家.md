@@ -45,3 +45,7 @@
 
 + [超万名 2024 届毕业生入职比亚迪：硕博占比近 70%，研发人员占比近 80%](https://m.ithome.com/html/783947.htm)
 
++ [苹果宣布推出 Apple Maps 网页版地图，全球用户可直接通过浏览器访问](https://m.ithome.com/html/784031.htm)
+
++ [OPPO Find X8 Ultra 手机“超前预热”：厚度＜9.5mm、摄像头凸起优于前代](https://m.ithome.com/html/784015.htm)
+

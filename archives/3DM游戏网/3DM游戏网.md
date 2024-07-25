@@ -237,3 +237,5 @@
 
 + [《星露谷》开发者：承诺未来更新免费并非在批评DLC收费](https://www.3dmgame.com/news/202407/3900323.html)
 
++ [安卓用户转投创新高 苹果称iPhone保值率比安卓高40%](https://www.3dmgame.com/news/202407/3900324.html)
+
