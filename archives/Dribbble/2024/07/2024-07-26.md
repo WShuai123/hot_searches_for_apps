@@ -57,3 +57,49 @@
 
 + [San Diego](https://dribbble.com/shots/)
 
++ [Death and Glory](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [AKQA Perspectives](https://dribbble.com/shots/)
+
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [Happy 15th! ????](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Eye Sea](https://dribbble.com/shots/)
+
++ [Football](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
+
++ [Zero Proof (Alternate)](https://dribbble.com/shots/)
+
++ [Ah-Ha](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Dinosaur](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [St. John the Beloved Branded Graphic](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
