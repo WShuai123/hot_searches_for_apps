@@ -125,3 +125,7 @@
 
 + [【源码+文档+调试讲解】铁路订票平台小程序的设计与实现](https://blog.csdn.net/2401_84408400/article/details/140654509)
 
++ [WebKit的WebXR Hand Input API：开启虚拟现实交互新纪元](https://blog.csdn.net/2401_85341950/article/details/140672580)
+
++ [探索云计算的未来：边缘计算如何重塑IT格局](https://blog.csdn.net/qq_53139964/article/details/140675384)
+

@@ -101,3 +101,7 @@
 
 + [《地心护核者》宣布正式版首发加入XGP 8月27日发售](https://www.3dmgame.com/news/202407/3900303.html)
 
++ [《装甲核心6》销量破300万 Steam特别好评](https://www.3dmgame.com/news/202407/3900361.html)
+
++ [《地球防卫军6》Steam多半差评 价高体验差](https://www.3dmgame.com/news/202407/3900362.html)
+
