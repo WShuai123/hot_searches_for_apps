@@ -65,3 +65,5 @@
 
 + [告别“视频流”，小米 MIX Flip 手机外屏微博已更改为信息流模式](https://m.ithome.com/html/784169.htm)
 
++ [极狐汽车起火厂家第一时间盖黑布、撬车标，官方道歉：处理不当](https://m.ithome.com/html/784222.htm)
+
