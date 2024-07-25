@@ -55,3 +55,5 @@
 
 + [Crowdstrike蓝屏事件自查结果：错在流程而非人](https://www.freebuf.com/news/406953.html)
 
++ [这家网络公司开始聘用黑客？](https://www.freebuf.com/news/406964.html)
+

@@ -195,3 +195,25 @@
 
 + [《三角洲行动》PC版Alpha测试延期 8月6日正式开启](https://www.3dmgame.com/news/202407/3900296.html)
 
++ [星河动力“智神星一号”运载火箭 圆满完成整流罩系列试验](https://www.3dmgame.com/news/202407/3900312.html)
+
++ [《王者荣耀》首部武侠短剧开播 张予曦饰演公孙离](https://www.3dmgame.com/news/202407/3900311.html)
+
++ [战锤40K动画剧集《什一税》公布 8月播出](https://www.3dmgame.com/news/202407/3900309.html)
+
++ [英伟达《黑神话》海外宣发 让老外了解《西游记》](https://www.3dmgame.com/news/202407/3900307.html)
+
++ [“重磅”改编 迈克尔·贝将执导电影版《斯基比迪马桶人》](https://www.3dmgame.com/news/202407/3900310.html)
+
++ [《声音模仿秀》登陆Switch 欢乐模仿各种声音竞技](https://www.3dmgame.com/news/202407/3900308.html)
+
++ [《火影忍者：终极风暴羁绊》新DLC角色发售：川木（楔进化）](https://www.3dmgame.com/news/202407/3900306.html)
+
++ [网飞聘用Epic前高管Alain Tascan担任游戏部门总裁](https://www.3dmgame.com/news/202407/3900305.html)
+
++ [《第一后裔》速刷点承诺不动仍被削 官方坚称未食言](https://www.3dmgame.com/news/202407/3900313.html)
+
++ [韩国证券公司：若《胜利女神》获得版号 销售额将大增](https://www.3dmgame.com/news/202407/3900304.html)
+
++ [《地心护核者》宣布正式版首发加入XGP 8月27日发售](https://www.3dmgame.com/news/202407/3900303.html)
+

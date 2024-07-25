@@ -41,3 +41,5 @@
 
 + [小米手环 8 获推澎湃 HyperOS 1.6.222，新增焦点通知功能](https://m.ithome.com/html/783878.htm)
 
++ [排查发现问题，AMD 宣布推迟至 8 月发售锐龙 9000 系列处理器](https://m.ithome.com/html/784030.htm)
+
