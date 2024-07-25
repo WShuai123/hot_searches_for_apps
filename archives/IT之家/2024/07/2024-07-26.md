@@ -25,3 +25,5 @@
 
 + [告别“视频流”，小米 MIX Flip 手机外屏微博已更改为信息流模式](https://m.ithome.com/html/784169.htm)
 
++ [售 14.99 万元起，长安深蓝 S07 上市：部分车型搭载华为乾崑智驾](https://m.ithome.com/html/784237.htm)
+
