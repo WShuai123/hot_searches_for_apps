@@ -145,3 +145,13 @@
 
 + [《寂静之歌》Steam抢先体验 卡牌系统奇幻战略](https://www.3dmgame.com/news/202406/3896583.html)
 
++ [ShiftUp招聘信息暗示《星刃》PC版和未来内容制作中](https://www.3dmgame.com/news/202407/3900277.html)
+
++ [EA服软 《Apex英雄》战斗通行证重新支持货币购买](https://www.3dmgame.com/news/202407/3900278.html)
+
++ [《使命召唤》被曝售卖AI生成皮肤 美工用AI辅助创作](https://www.3dmgame.com/news/202407/3900279.html)
+
++ [《EA Sports FC 24》登顶欧洲上半年实体游戏销量榜 17个国家全部第一](https://www.3dmgame.com/news/202407/3900280.html)
+
++ [《地下城与王国》Steam页面上线 中世纪幻想RPG](https://www.3dmgame.com/news/202407/3900281.html)
+

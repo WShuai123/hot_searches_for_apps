@@ -117,3 +117,5 @@
 
 + [Alice](https://www.producthunt.com/posts/alice-a0fa9ceb-c79d-42fd-9d74-9df1778254c2)
 
++ [Glasp: Easily Save and Highlight Images](https://www.producthunt.com/posts/glasp-easily-save-and-highlight-images)
+
