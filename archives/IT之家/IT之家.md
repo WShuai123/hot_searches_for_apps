@@ -49,3 +49,5 @@
 
 + [OPPO Find X8 Ultra 手机“超前预热”：厚度＜9.5mm、摄像头凸起优于前代](https://m.ithome.com/html/784015.htm)
 
++ [网易《永劫无间》手游今日开启公测：最低要求骁龙 845、苹果 A12，所有玩家同服游玩](https://m.ithome.com/html/784104.htm)
+

@@ -59,3 +59,5 @@
 
 + [渗透测试 | 黑白盒某学习刷课漏洞挖掘经验分享](https://www.freebuf.com/articles/web/406563.html)
 
++ [JAW：一款针对客户端JavaScript的图形化安全分析框架](https://www.freebuf.com/sectool/406141.html)
+

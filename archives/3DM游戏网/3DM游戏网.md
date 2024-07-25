@@ -239,3 +239,9 @@
 
 + [安卓用户转投创新高 苹果称iPhone保值率比安卓高40%](https://www.3dmgame.com/news/202407/3900324.html)
 
++ [卡普空谈老IP的续作、新作或重置：必须考虑游戏玩法和特定吸引力](https://www.3dmgame.com/news/202407/3900327.html)
+
++ [《赛马娘 Pretty Derby 热血喧闹大感谢祭！》Steam页面上线 8月30日发售](https://www.3dmgame.com/news/202407/3900326.html)
+
++ [《无人深空》更新后玩家数量暴涨 PC主机都增加4倍多](https://www.3dmgame.com/news/202407/3900325.html)
+

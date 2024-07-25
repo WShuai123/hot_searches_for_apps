@@ -157,3 +157,7 @@
 
 + [基于springboot+vue+uniapp的网上花店小程序](https://blog.csdn.net/shmp54/article/details/140673996)
 
++ [遗传算法与深度学习实战——进化深度学习](https://blog.csdn.net/LOVEmy134611/article/details/140337831)
+
++ [Python爬虫实战案例（爬取图片）](https://blog.csdn.net/weixin_73504499/article/details/140617770)
+
