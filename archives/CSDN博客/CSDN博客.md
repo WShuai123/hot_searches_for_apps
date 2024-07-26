@@ -135,3 +135,9 @@
 
 + [.NET Core中如何集成RabbitMQ](https://blog.csdn.net/nndsb/article/details/140680688)
 
++ [项目实战1（30小时精通C++和外挂实战）](https://blog.csdn.net/qq_44870829/article/details/140670748)
+
++ [【Gin】深度解析：在Gin框架中优化应用程序流程的责任链设计模式(下)](https://blog.csdn.net/joeyoj/article/details/140577664)
+
++ [电脑屏幕录制软件，分享4款（2024最新）](https://blog.csdn.net/jumpjane/article/details/140655939)
+

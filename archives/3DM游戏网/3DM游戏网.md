@@ -103,3 +103,9 @@
 
 + [对标NVIDIA、300亿跌没99.7%！国产芯片大牛股正式退市](https://www.3dmgame.com/news/202407/3900441.html)
 
++ [《失落之魂》ChinaJoy 2024实机视频展示](https://www.3dmgame.com/news/202407/3900444.html)
+
++ [《GTA6》开发不会受到SAG-AFTRA罢工的影响](https://www.3dmgame.com/news/202407/3900443.html)
+
++ [《圣剑传说：Visions of Mana》PC版配置公布](https://www.3dmgame.com/news/202407/3900442.html)
+

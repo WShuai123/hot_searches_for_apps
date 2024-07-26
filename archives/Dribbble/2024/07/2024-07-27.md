@@ -154,3 +154,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Land Agent at Work](https://dribbble.com/shots/)
 
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
++ [Death and Glory](https://dribbble.com/shots/)
+
