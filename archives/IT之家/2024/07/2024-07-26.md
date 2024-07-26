@@ -31,3 +31,5 @@
 
 + [比亚迪宋 DM-i、深蓝 S07 汽车发布会今日举行，官微互动“在线串门”“共守 SUV 国门”](https://m.ithome.com/html/784134.htm)
 
++ [小米招聘无人车测试安全员：月薪 6000 元起](https://m.ithome.com/html/784270.htm)
+

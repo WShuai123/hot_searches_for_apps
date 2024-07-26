@@ -154,3 +154,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Audible Interview Journey](https://dribbble.com/shots/)
 
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
+

@@ -109,3 +109,11 @@
 
 + [《星刃》夏季更新已推出 热辣比基尼多图展示](https://www.3dmgame.com/news/202407/3900364.html)
 
++ [《龙腾世纪：影障守护者》在Steam上启动无需登陆EA App](https://www.3dmgame.com/news/202407/3900367.html)
+
++ [《赛博朋克2077》续作画面将很逼真 电影与游戏融合](https://www.3dmgame.com/news/202407/3900368.html)
+
++ [《EA Sports FC 25》深入探讨游戏玩法预告片](https://www.3dmgame.com/news/202407/3900365.html)
+
++ [美少女超级英雄动作冒险游戏《MIGHTREYA》公布](https://www.3dmgame.com/news/202407/3900366.html)
+

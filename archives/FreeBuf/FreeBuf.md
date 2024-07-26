@@ -41,3 +41,7 @@
 
 + [CrowdStrike导致大规模系统崩溃事件的技术分析 ———— 暨对“猎鹰折羽”的沉思](https://www.freebuf.com/articles/paper/406610.html)
 
++ [FreeBuf早报 | 《工业领域云安全实践指南》正式发布；Red Art游戏遭遇重大网络攻击](https://www.freebuf.com/news/407005.html)
+
++ [攻防演练 | 内网渗透信息搜集骚姿势](https://www.freebuf.com/defense/405366.html)
+
