@@ -108,3 +108,11 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [R12](https://dribbble.com/shots/)
 
++ [Chezy Icons](https://dribbble.com/shots/)
+
++ [23/32 – Portland Huskies](https://dribbble.com/shots/)
+
++ [D Star Logomark ⭐](https://dribbble.com/shots/)
+
++ [Client Win: NoCodeOps joins Zapier!](https://dribbble.com/shots/)
+

@@ -127,3 +127,7 @@
 
 + [vue大屏展示组件库datav](https://blog.csdn.net/m0_46613429/article/details/140654564)
 
++ [SpringBoot中优化if-else语句的七种方法实战](https://blog.csdn.net/qq_26664043/article/details/140575069)
+
++ [【yolov8】|小目标优化|：增加CA机制 运行成功](https://blog.csdn.net/zw_van/article/details/140622230)
+
