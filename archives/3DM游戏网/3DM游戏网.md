@@ -101,3 +101,5 @@
 
 + [德国游戏市场2023年增长6%至100亿欧元 手游和硬件为主](https://www.3dmgame.com/news/202407/3900388.html)
 
++ [对标NVIDIA、300亿跌没99.7%！国产芯片大牛股正式退市](https://www.3dmgame.com/news/202407/3900441.html)
+

@@ -101,3 +101,29 @@
 
 + [【实现100个unity特效之8】使用ShaderGraph实现2d贴图中指定部分局部发光效果](https://blog.csdn.net/qq_36303853/article/details/140624765)
 
++ [基于Python的河南省天气数据分析与空气质量预测研究【含数据抓取与数据库自动存储】](https://blog.csdn.net/weixin_47723732/article/details/140692754)
+
++ [数据开发/数仓工程师上手指南(一)数仓概念总览](https://blog.csdn.net/master_hunter/article/details/140659421)
+
++ [【微信小程序实战教程】之微信小程序原生开发详解](https://blog.csdn.net/p445098355/article/details/140665881)
+
++ [【在Linux世界中追寻伟大的One Piece】Linux进程概念](https://blog.csdn.net/weixin_74809706/article/details/140672742)
+
++ [Redis的使用场景——热点数据缓存](https://blog.csdn.net/qq_59099003/article/details/140700120)
+
++ [基于微信小程序+SpringBoot+Vue的校园综合服务平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140678847)
+
++ [微信小程序实现聊天界面，发送功能](https://blog.csdn.net/weixin_44912902/article/details/140653704)
+
++ [SSL VPN详细概述](https://blog.csdn.net/qq_67758645/article/details/140681811)
+
++ [【CI/CD】docker + Nginx自动化构建部署](https://blog.csdn.net/weixin_52418790/article/details/140663373)
+
++ [Docker 安全及日志管理(包含SSL证书)](https://blog.csdn.net/weixin_62922268/article/details/140690167)
+
++ [记录linux本地部署Langchain-chatchat-v0.3+Xinference+qwen-chat 1.5-72B](https://blog.csdn.net/qq_39067449/article/details/140689425)
+
++ [Postman中的API容错测试：构建健壮系统的秘诀](https://blog.csdn.net/2401_85342379/article/details/140700154)
+
++ [vue大屏展示组件库datav](https://blog.csdn.net/m0_46613429/article/details/140654564)
+
