@@ -245,3 +245,9 @@
 
 + [微星8月提供新BIOS 解决13/14代酷睿CPU不稳定问题](https://www.3dmgame.com/news/202407/3900432.html)
 
++ [《死侍与金刚狼》上映首日 国内票房破5000万元](https://www.3dmgame.com/news/202407/3900435.html)
+
++ [英特尔：AI与边缘计算的深度融合将重塑产业未来](https://www.3dmgame.com/news/202407/3900434.html)
+
++ [闲鱼宣布将从9月起 向全体卖家收取服务费](https://www.3dmgame.com/news/202407/3900433.html)
+

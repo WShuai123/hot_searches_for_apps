@@ -57,3 +57,11 @@
 
 + [比亚迪：自研独立压缩机冰箱最快明年上车，海豚、海鸥都将配备](https://m.ithome.com/html/784456.htm)
 
++ [雷军：小米 SU7 上市 3 个多月已交付 3 万多台，全年 10 万辆车交付目标预计 11 月初完成](https://m.ithome.com/html/784466.htm)
+
++ [配 140W 电源适配器，华为 MateBook GT 笔记本将至](https://m.ithome.com/html/784328.htm)
+
++ [九号电动误将 M95c+ 价格标成 500 元，拍下的用户首台车辆可正常提车](https://m.ithome.com/html/784490.htm)
+
++ [IDC：vivo 登顶 2024 年第二季度中国智能手机市场份额排名，苹果被挤出前五](https://m.ithome.com/html/784377.htm)
+

@@ -203,3 +203,5 @@
 
 + [JAW：一款针对客户端JavaScript的图形化安全分析框架](https://blog.csdn.net/FreeBuf_/article/details/140692276)
 
++ [人工智能会越来越闭源——对话东北大学副教授王言治 | Open AGI Forum](https://blog.csdn.net/GOSIM2023/article/details/140688451)
+
