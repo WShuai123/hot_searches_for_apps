@@ -179,3 +179,11 @@
 
 + [项目部署到服务器](https://blog.csdn.net/2301_80034662/article/details/140686470)
 
++ [直面 AI 裁员危机：未来工程师的需求有增无减，但只有 10% 的 AI 老手能生存下来...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140702931)
+
++ [[240725] X-CMD 发布 v0.4.2：引入 hua 模块，在终端中阅读古文诗词 | MySQL 发布 9.0 | Docker 引擎爆出 AuthZ 插件绕过漏洞](https://blog.csdn.net/edwinjhlee/article/details/140685738)
+
++ [【AIGC】Llama-3 官方技术报告](https://blog.csdn.net/youcans/article/details/140690941)
+
++ [react防抖和节流hooks封装](https://blog.csdn.net/sinat_36728518/article/details/140694862)
+

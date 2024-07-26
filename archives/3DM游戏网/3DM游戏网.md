@@ -195,3 +195,15 @@
 
 + [《漫威争锋》电影式宣传片 B测开始](https://www.3dmgame.com/news/202407/3900402.html)
 
++ [网格导向冒险游戏《编织者：角色谜题冒险》现已在Steam平台正式推出 获好评](https://www.3dmgame.com/news/202407/3900408.html)
+
++ [被华为起诉后：联发科在英国反诉华为侵犯专利！](https://www.3dmgame.com/news/202407/3900410.html)
+
++ [Steam发布塔防游戏节宣传视频 7月30日开启](https://www.3dmgame.com/news/202407/3900411.html)
+
++ [ChinaJoy2024现场首发 《饿狼传说》比利·凯恩宣布参战](https://www.3dmgame.com/news/202407/3900409.html)
+
++ [《新蝙蝠侠》电影衍生宇宙获正式命名 更多详情公开](https://www.3dmgame.com/news/202407/3900412.html)
+
++ [由于Netflix降低预算 《生化奇兵》电影版将比原计划规模更小](https://www.3dmgame.com/news/202407/3900413.html)
+

@@ -190,3 +190,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Pricing — Untitled UI](https://dribbble.com/shots/)
 
++ [FlowSource: flowing FS monogram for productivity app logo design](https://dribbble.com/shots/)
+
++ [Huskies](https://dribbble.com/shots/)
+
++ [Spark Of Innovation Logo](https://dribbble.com/shots/)
+
++ [Cover](https://dribbble.com/shots/)
+
++ [Eagle](https://dribbble.com/shots/)
+
++ [Melodio - Social Media Mobile App](https://dribbble.com/shots/)
+
