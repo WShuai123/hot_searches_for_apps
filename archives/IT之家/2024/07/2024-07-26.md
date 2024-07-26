@@ -33,3 +33,5 @@
 
 + [小米招聘无人车测试安全员：月薪 6000 元起](https://m.ithome.com/html/784270.htm)
 
++ [华为 WATCH GT4 系列智能手表限时降价 400 元：41/46mm 双尺寸、主打运动健康，1088 元起](https://m.ithome.com/html/784256.htm)
+

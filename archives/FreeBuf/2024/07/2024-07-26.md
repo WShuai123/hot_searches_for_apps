@@ -47,3 +47,5 @@
 
 + [实战案例解析：HTTP请求走私，账户安全的隐形刺客](https://www.freebuf.com/articles/web/406304.html)
 
++ [北山学院直播：常年霸榜企业SRC，提升挖洞效率的秘诀是什么](https://www.freebuf.com/news/407056.html)
+

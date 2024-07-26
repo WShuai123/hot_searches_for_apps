@@ -127,3 +127,31 @@
 
 + [《影之刃零》地图是无缝非线性的 类似经典魂游](https://www.3dmgame.com/news/202407/3900369.html)
 
++ [策略类生产建造游戏《不毛之地》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202407/3900385.html)
+
++ [又一个ZZZQ！《自杀小队：消灭正义联盟》第二赛季急冻人皮肤被批太丑](https://www.3dmgame.com/news/202407/3900383.html)
+
++ [国产机甲对战《解限机》公测 8月3日开启](https://www.3dmgame.com/news/202407/3900384.html)
+
++ [游戏无需获批版号即可备案上线测试 广东省率先施行](https://www.3dmgame.com/news/202407/3900381.html)
+
++ [Epic下架移动端《堡垒之夜》 并计划从自家手机商城中推出](https://www.3dmgame.com/news/202407/3900382.html)
+
++ [漫展雕像泄露《凯恩的遗产：噬魂者》复刻版或正在开发中](https://www.3dmgame.com/news/202407/3900379.html)
+
++ [大型Mod《辐射：伦敦》现已推出 通过GOG商店免费获取](https://www.3dmgame.com/news/202407/3900380.html)
+
++ [苹果TV+喜剧剧集《坏猴子》首发预告 8月14日开播](https://www.3dmgame.com/news/202407/3900378.html)
+
++ [腾讯《CFHD》火麒麟全民免费送：白嫖永久 不用888](https://www.3dmgame.com/news/202407/3900377.html)
+
++ [《冰汽时代2》|《执政官101》第三集 共商未来](https://www.3dmgame.com/news/202407/3900376.html)
+
++ [《游泳少女黛西》在Steam发售 泳装少女海滩打斗](https://www.3dmgame.com/news/202407/3900386.html)
+
++ [《神之亵渎》官方透露即将发布神秘公告 或将是DLC](https://www.3dmgame.com/news/202407/3900387.html)
+
++ [《守望先锋2》正在探索如何在游戏中重新引入6V6模式](https://www.3dmgame.com/news/202407/3900375.html)
+
++ [《博德之门3》#7补丁封闭测试现已通过Steam发布](https://www.3dmgame.com/news/202407/3900374.html)
+
