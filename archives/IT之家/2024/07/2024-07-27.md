@@ -27,3 +27,5 @@
 
 + [天猫 9 月 1 日起将正式取消服务年费，入驻商家每年可省 3 万-6 万元](https://m.ithome.com/html/784475.htm)
 
++ [印度富士康首次拿下 Pro 订单：消息称苹果计划年内在印度组装 iPhone 16 Pro / Max](https://m.ithome.com/html/784487.htm)
+

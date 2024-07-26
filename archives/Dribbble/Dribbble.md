@@ -118,3 +118,23 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [PetraTools Website Catalog Page](https://dribbble.com/shots/)
 
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [From ancient athletes to modern marvels](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [AKQA Perspectives](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Happy 15th! ????](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Michael Jordan](https://dribbble.com/shots/)
+
