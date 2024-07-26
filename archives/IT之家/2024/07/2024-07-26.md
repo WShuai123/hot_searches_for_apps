@@ -55,3 +55,5 @@
 
 + [AMD 锐龙 7 8745H 处理器发布，联想小新 Pro 14/16 2024 款笔记本首搭](https://m.ithome.com/html/784254.htm)
 
++ [比亚迪：自研独立压缩机冰箱最快明年上车，海豚、海鸥都将配备](https://m.ithome.com/html/784456.htm)
+

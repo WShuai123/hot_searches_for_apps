@@ -240,3 +240,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Web Design - Landing Page UI](https://dribbble.com/shots/)
 
++ [Stella - Fashion Logo & Branding](https://dribbble.com/shots/)
+
++ [Husky](https://dribbble.com/shots/)
+
++ [share project modal](https://dribbble.com/shots/)
+

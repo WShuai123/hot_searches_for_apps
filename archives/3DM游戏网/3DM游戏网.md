@@ -243,3 +243,5 @@
 
 + [周鸿祎回应睡觉被雷军瞪：他是着急要不要叫醒自己](https://www.3dmgame.com/news/202407/3900431.html)
 
++ [微星8月提供新BIOS 解决13/14代酷睿CPU不稳定问题](https://www.3dmgame.com/news/202407/3900432.html)
+
