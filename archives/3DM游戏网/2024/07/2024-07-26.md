@@ -183,3 +183,15 @@
 
 + [国产厂商包揽中国手机市场前五：苹果跌至第六](https://www.3dmgame.com/news/202407/3900401.html)
 
++ [剧情解谜游戏《杀死影子》Demo现上线Steam！](https://www.3dmgame.com/news/202407/3900403.html)
+
++ [EA或正在开发一款以《模拟人生》死亡为主题的DLC](https://www.3dmgame.com/news/202407/3900407.html)
+
++ [《百英雄传》故事DLC细节公布 首个DLC预计8月推出](https://www.3dmgame.com/news/202407/3900405.html)
+
++ [《饿狼传说》比利·凯恩预告 2025年上半年发售](https://www.3dmgame.com/news/202407/3900406.html)
+
++ [获奖漫画改编动画《地。-关于地球的运动-》宣传PV放出 2024年10月开播](https://www.3dmgame.com/news/202407/3900404.html)
+
++ [《漫威争锋》电影式宣传片 B测开始](https://www.3dmgame.com/news/202407/3900402.html)
+

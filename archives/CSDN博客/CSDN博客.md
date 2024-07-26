@@ -173,3 +173,9 @@
 
 + [/电赛无人机/ T265在2024年基于树莓派5，ubuntu24环境下的折腾【RealsenseSDK + RealsenseROS】](https://blog.csdn.net/qq_32590891/article/details/140663518)
 
++ [【机器学习】激活函数：神经网络的灵魂](https://blog.csdn.net/qq_44214428/article/details/140592554)
+
++ [前端：Vue学习 - 购物车项目](https://blog.csdn.net/qq_45404396/article/details/140649445)
+
++ [项目部署到服务器](https://blog.csdn.net/2301_80034662/article/details/140686470)
+
