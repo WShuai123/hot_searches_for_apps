@@ -207,3 +207,5 @@
 
 + [由于Netflix降低预算 《生化奇兵》电影版将比原计划规模更小](https://www.3dmgame.com/news/202407/3900413.html)
 
++ [丽贝卡·弗格森将加盟Netflix新《浴血黑帮》电影](https://www.3dmgame.com/news/202407/3900414.html)
+
