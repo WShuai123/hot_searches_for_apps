@@ -29,3 +29,21 @@
 
 + [twbs / bootstrap](https://github.com/twbs/bootstrap)
 
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [facebook / folly](https://github.com/facebook/folly)
+
++ [influxdata / telegraf](https://github.com/influxdata/telegraf)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+
++ [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
++ [jgthms / bulma](https://github.com/jgthms/bulma)
+
++ [AutoMQ / automq](https://github.com/AutoMQ/automq)
+

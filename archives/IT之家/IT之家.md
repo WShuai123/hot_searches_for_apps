@@ -43,3 +43,11 @@
 
 + [游戏无需获批版号即可备案上线测试，广东省率先施行](https://m.ithome.com/html/784229.htm)
 
++ [在中国遭华为起诉后，联发科在英国反向起诉华为侵犯专利](https://m.ithome.com/html/784342.htm)
+
++ [小米 8.42 亿元拿下北京亦庄新城一宗工业用地，或用于建设汽车工厂二期](https://m.ithome.com/html/784253.htm)
+
++ [18.99 万元起，奇瑞风云 T10 插混 SUV 上市：综合续航超 1400km](https://m.ithome.com/html/784259.htm)
+
++ [华为游戏本闪现 ChinaJoy2024：疑似命名 GT，外观带 LOGO 灯](https://m.ithome.com/html/784403.htm)
+

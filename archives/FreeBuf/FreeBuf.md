@@ -63,3 +63,5 @@
 
 + [最大规模的盗版网站泄露事件，黑客窃取了1000万真实用户信息](https://www.freebuf.com/news/406949.html)
 
++ [初学漏洞挖掘，很多师傅都在走弯路](https://www.freebuf.com/news/407129.html)
+

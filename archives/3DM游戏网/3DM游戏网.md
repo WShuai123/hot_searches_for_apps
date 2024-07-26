@@ -231,3 +231,11 @@
 
 + [《寂静岭2：重制版》新片段：注意周围 拿武器狂打敌人](https://www.3dmgame.com/news/202407/3900424.html)
 
++ [你抢着买了吗！奔驰宝马奥迪中国退出价格战后：涨价还卖更好了](https://www.3dmgame.com/news/202407/3900427.html)
+
++ [大儿子变性女生后炮轰马斯克：他冷漠易怒 还自恋](https://www.3dmgame.com/news/202407/3900429.html)
+
++ [圆谷和漫威宣布将推出联动漫画《奥特曼：蜘蛛侠来了》 8月13日开始连载](https://www.3dmgame.com/news/202407/3900428.html)
+
++ [《黑神话：悟空》天命人Cos 妆容和服装非常还原](https://www.3dmgame.com/news/202407/3900426.html)
+
