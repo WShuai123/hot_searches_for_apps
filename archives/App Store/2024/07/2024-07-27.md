@@ -205,3 +205,7 @@
 
 + [抖音火山版](https://itunes.apple.com/cn/app/id1086047750?mt=8)
 
++ [咪咕视频-看奥运会直播](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
