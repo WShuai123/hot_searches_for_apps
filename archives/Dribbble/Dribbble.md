@@ -138,3 +138,19 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Michael Jordan](https://dribbble.com/shots/)
 
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Logo Design](https://dribbble.com/shots/)
+
++ [Land Agent at Work](https://dribbble.com/shots/)
+
