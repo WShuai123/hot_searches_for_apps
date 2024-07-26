@@ -51,3 +51,7 @@
 
 + [华为游戏本闪现 ChinaJoy2024：疑似命名 GT，外观带 LOGO 灯](https://m.ithome.com/html/784403.htm)
 
++ [闲鱼 PC 网页版官宣回归，已开放搜索、查看详情及聊天等功能](https://m.ithome.com/html/784471.htm)
+
++ [AMD 锐龙 7 8745H 处理器发布，联想小新 Pro 14/16 2024 款笔记本首搭](https://m.ithome.com/html/784254.htm)
+

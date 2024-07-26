@@ -195,3 +195,7 @@
 
 + [从训练和推理阶段理解transformers、self-attention的本质是改变输入文本对应tokens的embedding及Mask机制](https://blog.csdn.net/u014439531/article/details/140701747)
 
++ [背单词工具(C++)](https://blog.csdn.net/zeyeqianli/article/details/140657810)
+
++ [为什么有了MAC还需要IP？](https://blog.csdn.net/ZY52678/article/details/140700951)
+

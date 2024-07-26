@@ -239,3 +239,7 @@
 
 + [《黑神话：悟空》天命人Cos 妆容和服装非常还原](https://www.3dmgame.com/news/202407/3900426.html)
 
++ [奥运无人机偷看他队训练 加拿大女子足球队教练被停职](https://www.3dmgame.com/news/202407/3900430.html)
+
++ [周鸿祎回应睡觉被雷军瞪：他是着急要不要叫醒自己](https://www.3dmgame.com/news/202407/3900431.html)
+
