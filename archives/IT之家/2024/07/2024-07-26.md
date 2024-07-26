@@ -65,3 +65,5 @@
 
 + [IDC：vivo 登顶 2024 年第二季度中国智能手机市场份额排名，苹果被挤出前五](https://m.ithome.com/html/784377.htm)
 
++ [“毅力号”在火星上发现古老生命可能痕迹](https://m.ithome.com/html/784347.htm)
+
