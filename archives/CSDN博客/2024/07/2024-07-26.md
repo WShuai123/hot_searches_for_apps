@@ -159,3 +159,13 @@
 
 + [基于springboot+vue+uniapp的居民健康监测小程序](https://blog.csdn.net/shmp54/article/details/140699145)
 
++ [将YOLOv8模型从PyTorch的.pt格式转换为TensorRT的.engine格式](https://blog.csdn.net/fengbingchun/article/details/140691177)
+
++ [快手可灵视频生成大模型全方位测评](https://blog.csdn.net/kuaishoutech/article/details/140691347)
+
++ [【数学建模】——前沿图与网络模型：新时代算法解析与应用](https://blog.csdn.net/2303_77720864/article/details/140646447)
+
++ [【Python Web】Flask扩展开发指南](https://blog.csdn.net/jkoij23/article/details/140701356)
+
++ [基于PyCharm在Windows系统上远程连接Linux服务器中Docker容器进行Python项目开发与部署](https://blog.csdn.net/weixin_44585288/article/details/140575740)
+

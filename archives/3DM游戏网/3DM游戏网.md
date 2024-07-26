@@ -165,3 +165,19 @@
 
 + [美国演员工会宣布游戏配音演员将开始罢工 多家游戏公司受到影响](https://www.3dmgame.com/news/202407/3900392.html)
 
++ [《你的人生》取消导致P社Q2利润受重创 下降90%](https://www.3dmgame.com/news/202407/3900393.html)
+
++ [约会模拟器《Date Everything!》Steam页面 发行日期待定](https://www.3dmgame.com/news/202407/3900395.html)
+
++ [回应玩家需求 《电锯甜心RePOP》将追加登陆PS4](https://www.3dmgame.com/news/202407/3900394.html)
+
++ [Xbox 360商店即将关闭 体感游戏《Kinect Party》开发商感叹数字保存的重要性](https://www.3dmgame.com/news/202407/3900396.html)
+
++ [SpaceX公布猎鹰9号火箭事故调查：意想不到](https://www.3dmgame.com/news/202407/3900397.html)
+
++ [《红色沙漠》确定参加2024科隆游戏展 将提供现场试玩](https://www.3dmgame.com/news/202407/3900398.html)
+
++ [俯视角动作游戏《泛宇宙捍卫者》发售日公布 8月27日正式推出](https://www.3dmgame.com/news/202407/3900399.html)
+
++ [《GT赛车7》更新导致车子“原地升天”开发者道歉](https://www.3dmgame.com/news/202407/3900400.html)
+
