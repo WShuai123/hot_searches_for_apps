@@ -169,3 +169,7 @@
 
 + [基于PyCharm在Windows系统上远程连接Linux服务器中Docker容器进行Python项目开发与部署](https://blog.csdn.net/weixin_44585288/article/details/140575740)
 
++ [微服务实战系列之玩转Docker（六）](https://blog.csdn.net/splendid_java/article/details/140615456)
+
++ [/电赛无人机/ T265在2024年基于树莓派5，ubuntu24环境下的折腾【RealsenseSDK + RealsenseROS】](https://blog.csdn.net/qq_32590891/article/details/140663518)
+

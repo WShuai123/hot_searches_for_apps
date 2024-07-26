@@ -55,3 +55,5 @@
 
 + [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
