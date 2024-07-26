@@ -155,3 +155,13 @@
 
 + [《博德之门3》#7补丁封闭测试现已通过Steam发布](https://www.3dmgame.com/news/202407/3900374.html)
 
++ [德国游戏市场2023年增长6%至100亿欧元 手游和硬件为主](https://www.3dmgame.com/news/202407/3900388.html)
+
++ [《格兰特王子的生活与挣扎》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3900389.html)
+
++ [经典塔防游戏新作《王国保卫战5：联盟》正式推出 Steam平台获特别好评](https://www.3dmgame.com/news/202407/3900390.html)
+
++ [动视暴雪也被曝开发过程使用生成式AI 引前员工担忧](https://www.3dmgame.com/news/202407/3900391.html)
+
++ [美国演员工会宣布游戏配音演员将开始罢工 多家游戏公司受到影响](https://www.3dmgame.com/news/202407/3900392.html)
+

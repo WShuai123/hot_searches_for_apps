@@ -153,3 +153,9 @@
 
 + [暑期数学建模导论----数据处理与拟合模型](https://blog.csdn.net/2301_76637544/article/details/140637093)
 
++ [Spark实时（五）：InputSource数据源案例演示](https://blog.csdn.net/xiaoweite1/article/details/140701792)
+
++ [阿里巴巴开源大作：EchoMimic—数字人技术的颠覆者](https://blog.csdn.net/xiaobing259/article/details/140594415)
+
++ [基于springboot+vue+uniapp的居民健康监测小程序](https://blog.csdn.net/shmp54/article/details/140699145)
+

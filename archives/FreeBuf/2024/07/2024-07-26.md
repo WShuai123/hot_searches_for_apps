@@ -49,3 +49,7 @@
 
 + [北山学院直播：常年霸榜企业SRC，提升挖洞效率的秘诀是什么](https://www.freebuf.com/news/407056.html)
 
++ [LangChain曝关键漏洞，数百万AI应用面临攻击风险](https://www.freebuf.com/articles/407063.html)
+
++ [实施单独立法！香港即将出台首部网络安全法](https://www.freebuf.com/news/407048.html)
+

@@ -178,3 +178,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Snake Eyes Software](https://dribbble.com/shots/)
 
++ [Nexacard - Digital Bank Card Company Landing Page Website](https://dribbble.com/shots/)
+
++ [Foxchain: Cryptocurrency Exchange Mobile App - Homepage ????](https://dribbble.com/shots/)
+
++ [Zendenta - Splash and Home Screens in the Patient Mobile App](https://dribbble.com/shots/)
+

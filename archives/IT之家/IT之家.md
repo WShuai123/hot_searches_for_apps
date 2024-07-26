@@ -35,3 +35,5 @@
 
 + [华为 WATCH GT4 系列智能手表限时降价 400 元：41/46mm 双尺寸、主打运动健康，1088 元起](https://m.ithome.com/html/784256.htm)
 
++ [热度飙升：米家口袋照片打印机 1S / 小米 MIX Flip 随身拍套装明日 10 点再次开售](https://m.ithome.com/html/784235.htm)
+
