@@ -141,3 +141,15 @@
 
 + [12 前端工程化](https://blog.csdn.net/ever__ever/article/details/140669054)
 
++ [一文速览Llama 3.1——对其92页paper的全面细致解读：涵盖语言、视觉、语音的架构、原理](https://blog.csdn.net/v_JULY_v/article/details/140659420)
+
++ [揭秘【Cloud Native】安全：当灵活性与安全性碰撞时，我们该如何应对？](https://blog.csdn.net/weixin_53269650/article/details/140660286)
+
++ [Elasticsearch：跨集群使用 ES|QL](https://blog.csdn.net/UbuntuTouch/article/details/140687378)
+
++ [运维锅总浅析kubernetes网络插件](https://blog.csdn.net/qq_35630153/article/details/140701171)
+
++ [Spire.PDF for .NET【文档操作】演示：在 PDF 中添加、隐藏或删除图层](https://blog.csdn.net/m0_67129275/article/details/140685226)
+
++ [暑期数学建模导论----数据处理与拟合模型](https://blog.csdn.net/2301_76637544/article/details/140637093)
+

@@ -117,3 +117,13 @@
 
 + [美少女超级英雄动作冒险游戏《MIGHTREYA》公布](https://www.3dmgame.com/news/202407/3900366.html)
 
++ [《龙腾世纪：影障守护者》《吸血鬼：避世血族2》不参加科隆展](https://www.3dmgame.com/news/202407/3900370.html)
+
++ [《遗迹2》新DLC“The Dark Horizon”公布 2024年9月上线](https://www.3dmgame.com/news/202407/3900373.html)
+
++ [《怪物猎人：荒野》为何不登陆NS 卡普空：NS性能太弱](https://www.3dmgame.com/news/202407/3900372.html)
+
++ [《猎杀：对决1896》8月15日上线 新地图宣传片](https://www.3dmgame.com/news/202407/3900371.html)
+
++ [《影之刃零》地图是无缝非线性的 类似经典魂游](https://www.3dmgame.com/news/202407/3900369.html)
+

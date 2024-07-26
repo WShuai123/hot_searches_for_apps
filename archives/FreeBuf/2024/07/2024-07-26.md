@@ -45,3 +45,5 @@
 
 + [攻防演练 | 内网渗透信息搜集骚姿势](https://www.freebuf.com/defense/405366.html)
 
++ [实战案例解析：HTTP请求走私，账户安全的隐形刺客](https://www.freebuf.com/articles/web/406304.html)
+
