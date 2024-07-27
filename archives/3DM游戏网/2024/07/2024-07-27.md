@@ -135,3 +135,19 @@
 
 + [《Funko Fusion》剧情预告片 邪恶大反派正式登场](https://www.3dmgame.com/news/202407/3900451.html)
 
++ [办公室大战《Office Fight》上市日期公布 已推出试玩版](https://www.3dmgame.com/news/202407/3900461.html)
+
++ [欧美6月收入/热度榜：DLC助《艾尔登法环》重回前3](https://www.3dmgame.com/news/202407/3900467.html)
+
++ [世界首例去ECMO人造子宫成功 男人怀孕成为可能](https://www.3dmgame.com/news/202407/3900465.html)
+
++ [英国演员工会支持美国罢工 但不会在英国组织罢工活动](https://www.3dmgame.com/news/202407/3900466.html)
+
++ [P社再评《你的人生》：在多个项目上做出错误决定](https://www.3dmgame.com/news/202407/3900464.html)
+
++ [手绘风类银河战士恶魔城游戏《Aestik》 8月26日发售](https://www.3dmgame.com/news/202407/3900463.html)
+
++ [Steam试玩Demo商店改版：拥有独立页面、评价和愿望单](https://www.3dmgame.com/news/202407/3900462.html)
+
++ [《盗日求生》抢先体验计划推迟一周 躲避重磅大作档期](https://www.3dmgame.com/news/202407/3900460.html)
+

@@ -75,3 +75,7 @@
 
 + [【猪肝来也】『唯一』](http://www.acfun.cn/v/ac45503613)
 
++ [《UP主青训计划》](http://www.acfun.cn/v/ac45507220)
+
++ [【东方】用17个平假名画出铃仙吧！](http://www.acfun.cn/v/ac45499946)
+
