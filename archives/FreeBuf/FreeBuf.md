@@ -47,3 +47,7 @@
 
 + [基于MQTT协议的模糊测试研究](https://www.freebuf.com/articles/network/404765.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [DoH，隐蔽隧道又添利器，强盾在何方？](https://www.freebuf.com/articles/network/406326.html)
+

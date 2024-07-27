@@ -145,3 +145,7 @@
 
 + [【1】CPU飙升到200%以上问题汇总](https://blog.csdn.net/qq_35662333/article/details/140685502)
 
++ [{Spring Boot 原理篇} Spring Boot自动装配原理](https://blog.csdn.net/yyd686874/article/details/140671092)
+
++ [大数据在网约车行业应用（46天）](https://blog.csdn.net/syhiiu/article/details/140697264)
+

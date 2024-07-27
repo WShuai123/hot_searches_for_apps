@@ -31,3 +31,5 @@
 
 + [号称“全球唯一”配置：长城灵魂摩托将搭载高通骁龙 8155 芯片，车机支持 OTA 升级](https://m.ithome.com/html/784494.htm)
 
++ [OPPO、vivo、小米、联想应用商店 64 位适配率达 99.1% 以上，8 月 31 日完全淘汰 32 位 App](https://m.ithome.com/html/784506.htm)
+

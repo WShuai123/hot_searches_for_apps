@@ -111,3 +111,7 @@
 
 + [《星球大战：亡命之徒》新视频介绍角色和帮派](https://www.3dmgame.com/news/202407/3900446.html)
 
++ [《真人快打1》新DLC公布 鬼脸、T1000、柯南9月24日加入游戏](https://www.3dmgame.com/news/202407/3900449.html)
+
++ [PSVR2在英国迎来价格大跳水 下个月将正式支持PC](https://www.3dmgame.com/news/202407/3900448.html)
+
