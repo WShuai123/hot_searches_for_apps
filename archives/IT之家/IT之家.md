@@ -41,3 +41,5 @@
 
 + [华为超充通过“火焰山”高温测试：一次充电成功率 99%，补能速度接近 1 秒 1 公里](https://m.ithome.com/html/784524.htm)
 
++ [CrowdStrike 致 Windows 蓝屏将成为“史上最大规模 IT 宕机”事故，保险公司预测损失超 54 亿美元](https://m.ithome.com/html/784503.htm)
+

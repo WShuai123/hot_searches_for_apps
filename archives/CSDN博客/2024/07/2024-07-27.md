@@ -165,3 +165,7 @@
 
 + [基于微信小程序+SpringBoot+Vue的美食推荐平台(带1w+文档)](https://blog.csdn.net/qq_21888965/article/details/140690164)
 
++ [IEC104转MQTT网关轻松将IEC104设备数据传输到Zabbix、阿里云、华为云、亚马逊AWS、ThingsBoard、Ignition云平台](https://blog.csdn.net/qq_27395975/article/details/140694414)
+
++ [如何防御IP劫持](https://blog.csdn.net/NSME1/article/details/140688366)
+

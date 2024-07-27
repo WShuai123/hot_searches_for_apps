@@ -169,3 +169,11 @@
 
 + [众筹作品《珊瑚岛》承诺NS版却始终未见 厂商出面解释](https://www.3dmgame.com/news/202407/3900473.html)
 
++ [美女主播跳舞毯和手柄同时通关2份《黄金树幽影》](https://www.3dmgame.com/news/202407/3900480.html)
+
++ [北京中轴线申遗成功 中国现存最为完整的传统都城中轴线建筑群](https://www.3dmgame.com/news/202407/3900478.html)
+
++ [《龙腾世纪：影障守护者》拥有超14万行录制对话](https://www.3dmgame.com/news/202407/3900479.html)
+
++ [宝可梦公司2023年零售销售额达到108亿美元](https://www.3dmgame.com/news/202407/3900477.html)
+
