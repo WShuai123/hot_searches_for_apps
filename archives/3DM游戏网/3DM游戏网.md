@@ -161,3 +161,11 @@
 
 + [《漫威争锋》陆鲨杰夫角色预告 B测现已上线](https://www.3dmgame.com/news/202407/3900471.html)
 
++ [美国2名宇航员被困太空超50天：何时回归仍不确定](https://www.3dmgame.com/news/202407/3900476.html)
+
++ [《Near-Death-Expedition》Steam页面 12月30日发售](https://www.3dmgame.com/news/202407/3900475.html)
+
++ [《突变元年》游戏改编电影卡司新增著名影星龙格尔](https://www.3dmgame.com/news/202407/3900474.html)
+
++ [众筹作品《珊瑚岛》承诺NS版却始终未见 厂商出面解释](https://www.3dmgame.com/news/202407/3900473.html)
+
