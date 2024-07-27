@@ -53,3 +53,5 @@
 
 + [成熟后门身披商业外衣，对抗杀软实现远控](https://www.freebuf.com/news/406416.html)
 
++ [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
+
