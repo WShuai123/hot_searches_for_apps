@@ -115,3 +115,23 @@
 
 + [PSVR2在英国迎来价格大跳水 下个月将正式支持PC](https://www.3dmgame.com/news/202407/3900448.html)
 
++ [《糖豆人x星球大战》联动下周回归 新增经典角色外观](https://www.3dmgame.com/news/202407/3900459.html)
+
++ [《城堡毁灭者》十几年后突然迎来大规模DLC更新](https://www.3dmgame.com/news/202407/3900457.html)
+
++ [《无主之地》电影将有续集 《无主之地4》快要公布了](https://www.3dmgame.com/news/202407/3900458.html)
+
++ [《逃离塔科夫》8月回档 特殊活动上线实验室免费进](https://www.3dmgame.com/news/202407/3900455.html)
+
++ [roguelike翻牌冒险游戏《Forest Dump》Steam页面 明年发售](https://www.3dmgame.com/news/202407/3900456.html)
+
++ [亚马逊《如龙》真人剧集首曝预告 10月24日播出](https://www.3dmgame.com/news/202407/3900454.html)
+
++ [口碑爆炸 《死侍与金刚狼》上映2天总票房破7000万](https://www.3dmgame.com/news/202407/3900453.html)
+
++ [《无畏契约》Xbox Series主机版公开B测现已开启](https://www.3dmgame.com/news/202407/3900450.html)
+
++ [2D像素平台动作游戏《相位流浪客》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3900452.html)
+
++ [《Funko Fusion》剧情预告片 邪恶大反派正式登场](https://www.3dmgame.com/news/202407/3900451.html)
+
