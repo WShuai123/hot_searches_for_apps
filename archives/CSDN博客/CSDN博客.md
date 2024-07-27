@@ -169,3 +169,11 @@
 
 + [如何防御IP劫持](https://blog.csdn.net/NSME1/article/details/140688366)
 
++ [阿里巴巴开源大作：EchoMimic—数字人技术的颠覆者](https://blog.csdn.net/xiaobing259/article/details/140594415)
+
++ [本地部署、微调大模型](https://blog.csdn.net/weixin_45714641/article/details/140594544)
+
++ [Linux开启coredump](https://blog.csdn.net/zhongyiqun123/article/details/140695238)
+
++ [SSL vpn远程接入配置实验](https://blog.csdn.net/earthtoearth/article/details/140664777)
+

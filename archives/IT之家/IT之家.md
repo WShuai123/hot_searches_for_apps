@@ -43,3 +43,9 @@
 
 + [CrowdStrike 致 Windows 蓝屏将成为“史上最大规模 IT 宕机”事故，保险公司预测损失超 54 亿美元](https://m.ithome.com/html/784503.htm)
 
++ [蔚来折叠自行车专利公开](https://m.ithome.com/html/784509.htm)
+
++ [中国电竞第一股：何猷君星竞威武集团于纳斯达克上市，开盘涨超 45%](https://m.ithome.com/html/784522.htm)
+
++ [苹果 COO 杰夫・威廉姆斯来华参观多家供应商，再度强调中国“果链”价值](https://m.ithome.com/html/784500.htm)
+
