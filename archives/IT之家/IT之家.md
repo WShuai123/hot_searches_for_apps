@@ -29,3 +29,5 @@
 
 + [印度富士康首次拿下 Pro 订单：消息称苹果计划年内在印度组装 iPhone 16 Pro / Max](https://m.ithome.com/html/784487.htm)
 
++ [号称“全球唯一”配置：长城灵魂摩托将搭载高通骁龙 8155 芯片，车机支持 OTA 升级](https://m.ithome.com/html/784494.htm)
+

@@ -109,3 +109,5 @@
 
 + [《圣剑传说：Visions of Mana》PC版配置公布](https://www.3dmgame.com/news/202407/3900442.html)
 
++ [《星球大战：亡命之徒》新视频介绍角色和帮派](https://www.3dmgame.com/news/202407/3900446.html)
+

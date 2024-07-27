@@ -107,3 +107,7 @@
 
 + [AdsMoss](https://www.producthunt.com/posts/adsmoss)
 
++ [Okay Bet](https://www.producthunt.com/posts/okay-bet)
+
++ [AI Manga Translator](https://www.producthunt.com/posts/ai-manga-translator-2)
+

@@ -160,3 +160,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Death and Glory](https://dribbble.com/shots/)
 
++ [Yakoda Ripple Wordmark (Animation)](https://dribbble.com/shots/)
+
++ [Breakfast friends](https://dribbble.com/shots/)
+
++ [Crypto screen](https://dribbble.com/shots/)
+
++ [Twelve South Pins](https://dribbble.com/shots/)
+
++ [prep](https://dribbble.com/shots/)
+

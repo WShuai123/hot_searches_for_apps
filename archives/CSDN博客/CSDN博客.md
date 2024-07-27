@@ -141,3 +141,7 @@
 
 + [电脑屏幕录制软件，分享4款（2024最新）](https://blog.csdn.net/jumpjane/article/details/140655939)
 
++ [k8s核心知识总结](https://blog.csdn.net/weixin_37172178/article/details/140161342)
+
++ [【1】CPU飙升到200%以上问题汇总](https://blog.csdn.net/qq_35662333/article/details/140685502)
+
