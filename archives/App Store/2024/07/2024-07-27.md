@@ -211,3 +211,5 @@
 
 + [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+

@@ -177,3 +177,7 @@
 
 + [SSL vpn远程接入配置实验](https://blog.csdn.net/earthtoearth/article/details/140664777)
 
++ [实战Transformers模型量化Facebook OPT](https://blog.csdn.net/Whitney66/article/details/140701223)
+
++ [【前端】一文带你了解 HTML](https://blog.csdn.net/m0_61814277/article/details/140506121)
+
