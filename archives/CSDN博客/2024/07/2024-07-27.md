@@ -157,3 +157,5 @@
 
 + [猫头虎分享：GPT-4o Mini VS GPT-3.5 Turbo  新旧对决，谁能拔得头筹？](https://blog.csdn.net/qq_44866828/article/details/140678865)
 
++ [C#/WinFrom TCP通信+ 网线插拔检测+客服端异常掉线检测](https://blog.csdn.net/weixin_42714281/article/details/140670758)
+

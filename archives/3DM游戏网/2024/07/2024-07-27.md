@@ -151,3 +151,9 @@
 
 + [《盗日求生》抢先体验计划推迟一周 躲避重磅大作档期](https://www.3dmgame.com/news/202407/3900460.html)
 
++ [《GTA6》演员仍可选择罢工 并非完全免受影响](https://www.3dmgame.com/news/202407/3900470.html)
+
++ [《使命召唤》曾悄悄对一半玩家减少SBMM以判定接受度](https://www.3dmgame.com/news/202407/3900469.html)
+
++ [探索游戏《拾忆之旅》发售日期预告 9月20日发售](https://www.3dmgame.com/news/202407/3900468.html)
+

@@ -111,3 +111,5 @@
 
 + [AI Manga Translator](https://www.producthunt.com/posts/ai-manga-translator-2)
 
++ [BabyTrove](https://www.producthunt.com/posts/babytrove)
+

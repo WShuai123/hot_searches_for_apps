@@ -51,3 +51,5 @@
 
 + [DoH，隐蔽隧道又添利器，强盾在何方？](https://www.freebuf.com/articles/network/406326.html)
 
++ [成熟后门身披商业外衣，对抗杀软实现远控](https://www.freebuf.com/news/406416.html)
+
