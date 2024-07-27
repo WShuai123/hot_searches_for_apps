@@ -123,3 +123,9 @@
 
 + [Linux中，MySQL数据库管理](https://blog.csdn.net/ssg18336543974/article/details/140685056)
 
++ [将YOLOv8模型从PyTorch的.pt格式转换为TensorRT的.engine格式](https://blog.csdn.net/fengbingchun/article/details/140691177)
+
++ [redis的使用场景](https://blog.csdn.net/m0_65224643/article/details/140671087)
+
++ [树莓派智能家居中枢](https://blog.csdn.net/EDATEC/article/details/140687616)
+
