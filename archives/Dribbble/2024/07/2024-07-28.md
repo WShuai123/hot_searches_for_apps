@@ -103,3 +103,34 @@
 
 + [420 Freak club](https://dribbble.com/shots/)
 
++ [Badge Week 2024: In The Rough Golf Apparel](https://dribbble.com/shots/)
+
++ [Death and Glory](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Juiced Fresh](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [Illustrations for Hermès China 2024
+Artistic Window](https://dribbble.com/shots/)
+
++ [3D Explainer for Ami (Sound on ????)](https://dribbble.com/shots/)
+
++ [Michael Jordan](https://dribbble.com/shots/)
+
++ [Space Pencil Art Print](https://dribbble.com/shots/)
+
++ [Badge Week 2024: Multnomah Falls](https://dribbble.com/shots/)
+
++ [Thou damned whale](https://dribbble.com/shots/)
+
++ [Zero Proof (Alternate)](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+

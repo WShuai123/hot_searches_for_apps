@@ -117,3 +117,9 @@
 
 + [electron项目搭建](https://blog.csdn.net/qq_55139096/article/details/140688743)
 
++ [暑期数学建模导论----数据处理与拟合模型](https://blog.csdn.net/2301_76637544/article/details/140637093)
+
++ [运维锅总浅析kubernetes网络插件](https://blog.csdn.net/qq_35630153/article/details/140701171)
+
++ [Linux中，MySQL数据库管理](https://blog.csdn.net/ssg18336543974/article/details/140685056)
+
