@@ -101,3 +101,19 @@
 
 + [.NET Core中如何集成RabbitMQ](https://blog.csdn.net/nndsb/article/details/140680688)
 
++ [BP神经网络及其Python和MATLAB实现预测](https://blog.csdn.net/qq_45441438/article/details/140699171)
+
++ [超过1000万企业选择的凭安征信，为什么选择阿里云MongoDB](https://blog.csdn.net/MongoDBChina/article/details/140676499)
+
++ [目标检测 YOLOv5-7.0 详细调试&自制数据集实战](https://blog.csdn.net/wanchen_Gabby/article/details/140575091)
+
++ [Redis的使用场景——热点数据缓存](https://blog.csdn.net/qq_59099003/article/details/140700120)
+
++ [Spire.PDF for .NET【文档操作】演示：在 PDF 中添加、隐藏或删除图层](https://blog.csdn.net/m0_67129275/article/details/140685226)
+
++ [Postman中的API Schema验证：确保响应精准无误](https://blog.csdn.net/2401_85842555/article/details/140698896)
+
++ [基于PyCharm在Windows系统上远程连接Linux服务器中Docker容器进行Python项目开发与部署](https://blog.csdn.net/weixin_44585288/article/details/140575740)
+
++ [electron项目搭建](https://blog.csdn.net/qq_55139096/article/details/140688743)
+
