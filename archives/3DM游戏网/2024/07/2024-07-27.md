@@ -195,3 +195,7 @@
 
 + [《如龙7》Steam国区价格永降 标准版从389元降至109元](https://www.3dmgame.com/news/202407/3900489.html)
 
++ [《Apex英雄》总监回答为什么改战斗通行证 反作弊是一个长期问题](https://www.3dmgame.com/news/202407/3900490.html)
+
++ [衍生剧《嗜血法医：复活》公布 系列男主回归](https://www.3dmgame.com/news/202407/3900491.html)
+

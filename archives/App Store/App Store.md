@@ -213,3 +213,5 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [盒马 - 鲜美生活](https://itunes.apple.com/cn/app/id1063183999?mt=8)
+

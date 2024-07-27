@@ -185,3 +185,7 @@
 
 + [uniapp手写滚动选择器](https://blog.csdn.net/weixin_48998573/article/details/140685754)
 
++ [HarmonyOS应用开发者高级认证，Next版本发布后最新题库 - 答案纯享版](https://blog.csdn.net/Gusha_/article/details/140676104)
+
++ [Postman中的API Schema验证：确保响应精准无误](https://blog.csdn.net/2401_85842555/article/details/140698896)
+

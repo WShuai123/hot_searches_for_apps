@@ -57,3 +57,9 @@
 
 + [广电总局：电视“套娃”收费和操作复杂治理成效显著，上半年有线电视和 IPTV 观看直播用户达 4 亿户](https://m.ithome.com/html/784535.htm)
 
++ [蔚来“全球首颗车规 5nm 高性能智驾芯片”神玑 NX9031 流片成功，ISP 处理远景 / 暗光更清晰](https://m.ithome.com/html/784596.htm)
+
++ [CPU、GPU 的互连从 1 米飙至 100 米，英特尔：你相信光吗？](https://m.ithome.com/html/784614.htm)
+
++ [马斯克唠硬嗑，市值没了 550 亿美元](https://m.ithome.com/html/784626.htm)
+
