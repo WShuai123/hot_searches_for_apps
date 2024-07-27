@@ -131,3 +131,7 @@
 
 + [SSL vpn远程接入防火墙共享型配置实验](https://blog.csdn.net/earthtoearth/article/details/140683168)
 
++ [Angular 18.2.0 的新功能增强和创新](https://blog.csdn.net/xiefeng240601/article/details/140680345)
+
++ [实时同步：使用 Canal 和 Kafka 解决 MySQL 与缓存的数据一致性问题](https://blog.csdn.net/xaiobit_hl/article/details/140696017)
+
