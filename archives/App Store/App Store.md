@@ -201,3 +201,11 @@
 
 + [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
 
++ [央视体育](https://itunes.apple.com/cn/app/id879996273?mt=8)
+
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
