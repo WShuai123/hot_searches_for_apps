@@ -55,3 +55,5 @@
 
 + [记一次某年代久远的某云漏洞到获得cnvd证书](https://www.freebuf.com/vuls/381071.html)
 
++ [Ars0n-Framework：一款针对漏洞奖励项目的现代化框架](https://www.freebuf.com/sectool/406179.html)
+

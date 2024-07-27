@@ -157,3 +157,7 @@
 
 + [探索游戏《拾忆之旅》发售日期预告 9月20日发售](https://www.3dmgame.com/news/202407/3900468.html)
 
++ [iPhone第二季跌出中国手机前五：华为抢苹果用户最猛](https://www.3dmgame.com/news/202407/3900472.html)
+
++ [《漫威争锋》陆鲨杰夫角色预告 B测现已上线](https://www.3dmgame.com/news/202407/3900471.html)
+
