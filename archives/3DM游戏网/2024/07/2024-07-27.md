@@ -191,3 +191,7 @@
 
 + [勇攀高峰！休闲风格登山游戏新作《谷峰地》现已发售](https://www.3dmgame.com/news/202407/3900485.html)
 
++ [詹姆斯·古恩曝光DC影业全新logo 相比原版更加活泼](https://www.3dmgame.com/news/202407/3900488.html)
+
++ [《如龙7》Steam国区价格永降 标准版从389元降至109元](https://www.3dmgame.com/news/202407/3900489.html)
+

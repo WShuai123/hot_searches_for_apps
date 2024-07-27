@@ -183,3 +183,5 @@
 
 + [从训练和推理阶段理解transformers、self-attention的本质是改变输入文本对应tokens的embedding及Mask机制](https://blog.csdn.net/u014439531/article/details/140701747)
 
++ [uniapp手写滚动选择器](https://blog.csdn.net/weixin_48998573/article/details/140685754)
+
