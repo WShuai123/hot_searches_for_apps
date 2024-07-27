@@ -189,3 +189,9 @@
 
 + [Postman中的API Schema验证：确保响应精准无误](https://blog.csdn.net/2401_85842555/article/details/140698896)
 
++ [大语言模型应用指南：自主Agent系统案例分析（一）2](https://blog.csdn.net/universsky2015/article/details/140676477)
+
++ [MySQL-事务](https://blog.csdn.net/m0_64481525/article/details/140683856)
+
++ [Nginx网站服务](https://blog.csdn.net/m0_74860678/article/details/140701331)
+
