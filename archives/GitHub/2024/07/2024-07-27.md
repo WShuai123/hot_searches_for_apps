@@ -35,3 +35,17 @@
 
 + [AutoMQ / automq](https://github.com/AutoMQ/automq)
 
++ [leanprover / lean4](https://github.com/leanprover/lean4)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [alpkeskin / mosint](https://github.com/alpkeskin/mosint)
+
++ [ollama / ollama-python](https://github.com/ollama/ollama-python)
+
++ [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+
++ [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs)
+

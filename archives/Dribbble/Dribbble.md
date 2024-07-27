@@ -198,3 +198,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Raccoon Bandit Logo](https://dribbble.com/shots/)
 
++ [Unused Lion Logo](https://dribbble.com/shots/)
+
++ [UI/UX Design for Wallet page  of Crypto Vaults Dashboard](https://dribbble.com/shots/)
+
++ [Hair Salon Website](https://dribbble.com/shots/)
+
++ [Logo Design Collection by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Boost the volume to make it louder. iOS mobile app icon.](https://dribbble.com/shots/)
+
++ [5000 Celebration](https://dribbble.com/shots/)
+
