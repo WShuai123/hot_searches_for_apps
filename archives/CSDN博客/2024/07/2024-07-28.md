@@ -165,3 +165,7 @@
 
 + [Flutter大型项目架构：私有组件包管理](https://blog.csdn.net/mzxj7255/article/details/140695625)
 
++ [动手学深度学习55 循环神经网络 RNN 的实现](https://blog.csdn.net/weixin_42831564/article/details/140319093)
+
++ [SpringBoot 日志](https://blog.csdn.net/m0_60462557/article/details/140692200)
+

@@ -53,3 +53,5 @@
 
 + [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
 
++ [C2-Cloud：一款基于Web的C2基础设施交互框架](https://www.freebuf.com/sectool/406212.html)
+
