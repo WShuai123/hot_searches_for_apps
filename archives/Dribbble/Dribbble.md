@@ -105,3 +105,29 @@
 
 + [Telehealth Mobile iOS App Design Concept](https://dribbble.com/shots/)
 
++ [Dragönsteel Alts](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Vroom vroom](https://dribbble.com/shots/)
+
++ [Dave Matthews Band Mansfield, MA Poster](https://dribbble.com/shots/)
+
++ [Thou damned whale](https://dribbble.com/shots/)
+
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [Social UI](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [Cool Story Bro](https://dribbble.com/shots/)
+
++ [Digital Warfare](https://dribbble.com/shots/)
+

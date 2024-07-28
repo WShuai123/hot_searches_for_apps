@@ -147,3 +147,37 @@
 
 + [【Spring Boot】自动配置源码解析](https://blog.csdn.net/smile_sundays/article/details/140699215)
 
++ [AI学习指南机器学习篇-半监督聚类的参数与调优](https://blog.csdn.net/zhaopeng_yu/article/details/139869876)
+
++ [基于Python的二手房价格分析与多种机器学习房价预测](https://blog.csdn.net/weixin_47723732/article/details/140690384)
+
++ [面向LLM编程：感受AI的力量](https://blog.csdn.net/2401_85373691/article/details/140699207)
+
++ [SQL Date Functions | SQL Time Functions 概述](https://blog.csdn.net/weixin_48935611/article/details/140697932)
+
++ [深度模型中的优化 - 基本算法篇](https://blog.csdn.net/benny_zhou2004/article/details/140662981)
+
++ [为了让你安心上班摸鱼，AI到底有多拼命](https://blog.csdn.net/2401_85325726/article/details/140682838)
+
++ [人工智能技术的分析与探讨](https://blog.csdn.net/Lswblue/article/details/140740144)
+
++ [Python在数据科学中的应用：从数据分析到机器学习](https://blog.csdn.net/jkoij23/article/details/140756622)
+
++ [SRT——基于模仿学习的手术机器人：来自约翰霍普金斯大学和斯坦福ALOHA团队](https://blog.csdn.net/v_JULY_v/article/details/140748054)
+
++ [SpringBoot3：轻松使用Jasypt实现配置文件信息加密](https://blog.csdn.net/weixin_73588491/article/details/140739844)
+
++ [mybatis一对多结果集,主表分页查询,子表条件查询](https://blog.csdn.net/qq_32419139/article/details/140539706)
+
++ [【通信模块】LoraWAN网络简介](https://blog.csdn.net/Thmos_vader/article/details/140667853)
+
++ [重生之我在地球Online当程序员4](https://blog.csdn.net/jinlidexiaomei/article/details/140697742)
+
++ [如何从计算机发送和接收Android短信](https://blog.csdn.net/Coolmuster/article/details/140696451)
+
++ [【Vue】Vue-CLI（脚手架）](https://blog.csdn.net/wosixiaokeai/article/details/140653108)
+
++ [NI Modbus Library by NI工具包介绍](https://blog.csdn.net/bjcyck/article/details/140746413)
+
++ [Are Mobile DNN Accelerators Accelerating DNNs? - PPT](https://blog.csdn.net/chengyq116/article/details/140754124)
+
