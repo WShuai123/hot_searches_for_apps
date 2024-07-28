@@ -127,3 +127,41 @@
 
 + [Project Zero](https://www.producthunt.com/posts/project-zero)
 
++ [SpeakWake My GPT](https://www.producthunt.com/posts/speakwake-my-gpt)
+
++ [Diary](https://www.producthunt.com/posts/diary)
+
++ [BitRemote](https://www.producthunt.com/posts/bitremote)
+
++ [Articula](https://www.producthunt.com/posts/articula-3)
+
++ [10 Hidden Gems](https://www.producthunt.com/posts/10-hidden-gems)
+
++ [Jelly](https://www.producthunt.com/posts/jelly-6)
+
++ [Team-Up](https://www.producthunt.com/posts/team-up)
+
++ [Vuxep](https://www.producthunt.com/posts/vuxep)
+
++ [404er](https://www.producthunt.com/posts/404er)
+
++ [Factsify](https://www.producthunt.com/posts/factsify)
+
++ [Text2Color for Canva](https://www.producthunt.com/posts/text2color-for-canva)
+
++ [Melcor](https://www.producthunt.com/posts/melcor)
+
++ [Novacard](https://www.producthunt.com/posts/novacard)
+
++ [BlockSite Pomodoro](https://www.producthunt.com/posts/blocksite-pomodoro)
+
++ [Hello History 3.0](https://www.producthunt.com/posts/hello-history-3-0)
+
++ [Fast Password](https://www.producthunt.com/posts/fast-password)
+
++ [DiverPlus](https://www.producthunt.com/posts/diverplus)
+
++ [Last24.ai](https://www.producthunt.com/posts/last24-ai)
+
++ [AudioForgeAI](https://www.producthunt.com/posts/audioforgeai)
+

@@ -169,3 +169,13 @@
 
 + [SpringBoot 日志](https://blog.csdn.net/m0_60462557/article/details/140692200)
 
++ [【计算机网络】TCP协议详解](https://blog.csdn.net/2301_79181030/article/details/140716780)
+
++ [docker搭建hadoop+hbase](https://blog.csdn.net/weixin_42486564/article/details/140694787)
+
++ [配置 MySQL 负载均衡 高可用](https://blog.csdn.net/2301_78862407/article/details/140697857)
+
++ [ArchLinux部署waydroid](https://blog.csdn.net/Fearlessness/article/details/140683028)
+
++ [最大405B：Llama-3.1 发布，第一时间详解](https://blog.csdn.net/2301_82275412/article/details/140696606)
+

@@ -174,3 +174,25 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Beach Bar](https://dribbble.com/shots/)
 
++ [Landing Page Design](https://dribbble.com/shots/)
+
++ [ai, secure, shield, protect, l logo brand identity](https://dribbble.com/shots/)
+
++ [UI/UX Design of Wallet page for Crypto Vaults Dashboard](https://dribbble.com/shots/)
+
++ [Crypto Wallet Mobile App](https://dribbble.com/shots/)
+
++ [Soul AI – Your Personal Health and Wellbeing Partner](https://dribbble.com/shots/)
+
++ [Bakery & Pastry - Brand Identity](https://dribbble.com/shots/)
+
++ [Recommended departing flights](https://dribbble.com/shots/)
+
++ [NFT logos](https://dribbble.com/shots/)
+
++ [Zenity instagram post design](https://dribbble.com/shots/)
+
++ [photos app icon design](https://dribbble.com/shots/)
+
++ [Fracto™ - Logo & Branding for CRM Software - F - Arrow - Tech](https://dribbble.com/shots/)
+

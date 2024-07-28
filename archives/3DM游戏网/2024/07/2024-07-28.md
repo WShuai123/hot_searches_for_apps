@@ -145,3 +145,11 @@
 
 + [曝特斯拉计划明年投产低成本车型：产能或接近300万台](https://www.3dmgame.com/news/202407/3900515.html)
 
++ [国产独立新作《边境猎人：艾尔莎的命运之轮》发售](https://www.3dmgame.com/news/202407/3900519.html)
+
++ [《星鸣特攻》官方动画预告片展示首发登场角色](https://www.3dmgame.com/news/202407/3900518.html)
+
++ [《Under the Blue Horizon》Steam上线 放置水族馆](https://www.3dmgame.com/news/202407/3900517.html)
+
++ [《超级马里奥世界：马里奥与耀西》乐高套装曝光](https://www.3dmgame.com/news/202407/3900516.html)
+
