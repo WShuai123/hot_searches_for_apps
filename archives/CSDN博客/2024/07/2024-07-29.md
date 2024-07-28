@@ -181,3 +181,9 @@
 
 + [Are Mobile DNN Accelerators Accelerating DNNs? - PPT](https://blog.csdn.net/chengyq116/article/details/140754124)
 
++ [利用Python进行回归不连续设计评估政策干预的效果：商业中的应用](https://blog.csdn.net/qq_41780234/article/details/140682217)
+
++ [OpenSearch开源搜索和分析套件](https://blog.csdn.net/weixin_41850878/article/details/140689738)
+
++ [十二、openCV教程 warpaffine仿射函数](https://blog.csdn.net/qq_29448131/article/details/140624291)
+
