@@ -53,3 +53,9 @@
 
 + [华为一口价换电池新增 WATCH FIT 3、nova 11 SE、P60 等超 40 余款机型，99 元起](https://m.ithome.com/html/784675.htm)
 
++ [极氪 MIX 纯电 MPV 最新官图公布：半隐藏式门把手设计，预计下半年上市](https://m.ithome.com/html/784693.htm)
+
++ [广汽传祺 GS3 影速“梦幻紫”实车亮相 2024 ChinaJoy，现款 8.59 万元起](https://m.ithome.com/html/784660.htm)
+
++ [新款哪吒 X 车型八月初国内上市，现款售价 9.98 万元起](https://m.ithome.com/html/784697.htm)
+

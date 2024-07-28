@@ -245,3 +245,21 @@
 
 + [支持向量机,西瓜书第六章笔记](https://blog.csdn.net/weixin_70251770/article/details/140698820)
 
++ [【JCR一区级】Matlab实现鹈鹕优化算法POA-CNN-LSTM-Attention的故障诊断算法研究](https://blog.csdn.net/qq_59747472/article/details/140701915)
+
++ [【Python Web】Flask扩展开发指南](https://blog.csdn.net/jkoij23/article/details/140701356)
+
++ [快速上手Spring Cloud Alibaba AI](https://blog.csdn.net/zyy030616/article/details/140702190)
+
++ [【Java Web Spring Boot中的@Transactional注解】](https://blog.csdn.net/xycxycooo/article/details/140700795)
+
++ [DS4DH at MEDIQA-Chat 2023: Leveraging SVM and GPT-3 Prompt Engineering for Medical Dialogue](https://blog.csdn.net/weixin_43961909/article/details/140699516)
+
++ [图像生成中图像质量评估指标— LPIPS介绍](https://blog.csdn.net/u013889591/article/details/140687263)
+
++ [redis的使用场景-热点数据缓存](https://blog.csdn.net/wuzhaoyang11/article/details/140698532)
+
++ [逻辑回归的主要内容（api、ROC、AUC）](https://blog.csdn.net/2302_80719643/article/details/140637158)
+
++ [Python学习计划——7.2数据可视化](https://blog.csdn.net/qq_41698317/article/details/140688906)
+
