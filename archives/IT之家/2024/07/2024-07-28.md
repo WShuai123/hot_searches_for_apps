@@ -59,3 +59,5 @@
 
 + [新款哪吒 X 车型八月初国内上市，现款售价 9.98 万元起](https://m.ithome.com/html/784697.htm)
 
++ [消息称前华为首席影像工程师罗巍加入荣耀团队](https://m.ithome.com/html/784732.htm)
+

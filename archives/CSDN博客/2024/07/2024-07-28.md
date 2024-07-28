@@ -263,3 +263,29 @@
 
 + [Python学习计划——7.2数据可视化](https://blog.csdn.net/qq_41698317/article/details/140688906)
 
++ [从零入手人工智能（6）—— 聚类](https://blog.csdn.net/li_man_man_man/article/details/140701348)
+
++ [AI的欺骗游戏：揭示多模态大型语言模型的易受骗性](https://blog.csdn.net/weixin_44292902/article/details/140699629)
+
++ [黑马点评项目-4.Redis实现短信验证登录](https://blog.csdn.net/GrandpaLee/article/details/140701820)
+
++ [OpenAI最新研究：无需大量人工，基于规则奖励改善模型安全行为｜大模型论文日报](https://blog.csdn.net/2401_85375298/article/details/140699906)
+
++ [安卓设计模式最佳实践（二）](https://blog.csdn.net/wizardforcel/article/details/140703038)
+
++ [Windosw下Visual Studio2022编译FFmpeg(支持x264、x265、fdk-acc)](https://blog.csdn.net/u012959478/article/details/140662619)
+
++ [Yolov5 model下的yaml解析](https://blog.csdn.net/qq_42020106/article/details/140700383)
+
++ [PWM信号转模拟信号转换器GP8101/GP8101M](https://blog.csdn.net/USALCD/article/details/140700583)
+
++ [ROS配置并同时驱动多个UVC相机（含功能包）](https://blog.csdn.net/u014374826/article/details/140700507)
+
++ [Axure Web端元件库：从Quick UI到500+组件的飞跃](https://blog.csdn.net/u010709330/article/details/140700576)
+
++ [SpringBoot3：轻松使用Jasypt实现配置文件信息加密](https://blog.csdn.net/weixin_73588491/article/details/140739844)
+
++ [当设计模式牵手LLM](https://blog.csdn.net/2401_85324918/article/details/140699477)
+
++ [【HarmonyOS实战开发】鸿蒙-自适应布局解析](https://blog.csdn.net/HarmonyOS007/article/details/140700478)
+

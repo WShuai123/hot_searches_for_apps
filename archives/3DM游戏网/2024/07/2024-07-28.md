@@ -213,3 +213,13 @@
 
 + [《死侍3》北美首日创R级片纪录 国内两天破1.2亿元](https://www.3dmgame.com/news/202407/3900529.html)
 
++ [PlayStation精彩亮相ChinaJoy 2024，携近30款PS5游戏引爆玩家热情](https://www.3dmgame.com/news/202407/3900534.html)
+
++ [《死侍与金刚狼》豆瓣开分 7.4分 小岛秀夫发影评](https://www.3dmgame.com/news/202407/3900533.html)
+
++ [特朗普承诺将比特币列为战略储备资产 投资者嫌弃不够激进](https://www.3dmgame.com/news/202407/3900532.html)
+
++ [人人都爱油腻师姐！《星刃》官推粉丝超过10万](https://www.3dmgame.com/news/202407/3900531.html)
+
++ [《地球防卫军6》Steam版将修改强制绑定Epic账户政策](https://www.3dmgame.com/news/202407/3900530.html)
+
