@@ -75,3 +75,7 @@
 
 + [漫展宅舞比赛评委都需要做什么？](http://www.acfun.cn/v/ac45591697)
 
++ [【牛铲】ᴷᶦˢˢ ᵐᵉ ʰᵃʳᵈ ᵇᵉᶠᵒʳᵉ ʸᵒᵘ ᵍᵒ「summertime sadness」](http://www.acfun.cn/v/ac45491910)
+
++ [Big Brother_S26E05_Episode 5_x264](http://www.acfun.cn/v/ac45614140)
+

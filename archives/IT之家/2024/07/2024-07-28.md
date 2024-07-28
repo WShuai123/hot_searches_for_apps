@@ -27,3 +27,11 @@
 
 + [2024 年《财富》中国 500 强揭晓：国家电网第 1、大陆民企京东第 1，华为 31、小米 102](https://m.ithome.com/html/784651.htm)
 
++ [蔚来李斌称坚决不做无人驾驶出租车：自动驾驶的价值不是“干掉”网约车司机](https://m.ithome.com/html/784649.htm)
+
++ [首次“影院看奥运”开幕式直播放映圆满结束，覆盖北上广深宁等城市数百家影城](https://m.ithome.com/html/784640.htm)
+
++ [支持 AI 扩图，华为 Pura 70 Pro 手机获推鸿蒙 HarmonyOS 4.2.0.172 更新](https://m.ithome.com/html/784655.htm)
+
++ [暴雪《炉石传说》国服回归消息确认 7 月 28 日 11 时公布](https://m.ithome.com/html/784662.htm)
+
