@@ -101,3 +101,7 @@
 
 + [《Castle Crashers》时隔12年推出新DLC 角色新皮肤登场](https://www.3dmgame.com/news/202407/3900507.html)
 
++ [回合制战斗《坑人》宣布更新 Steam特别好评](https://www.3dmgame.com/news/202407/3900538.html)
+
++ [《战斗砖块剧场》将登陆当前主机 PC版将更新](https://www.3dmgame.com/news/202407/3900537.html)
+

@@ -49,3 +49,49 @@
 
 + [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
 
++ [Onboarding Visual UI](https://dribbble.com/shots/)
+
++ [Zenity instagram post design](https://dribbble.com/shots/)
+
++ [Soul AI – Your Personal Health and Wellbeing Partner](https://dribbble.com/shots/)
+
++ [Dribbble 15th Anniversary](https://dribbble.com/shots/)
+
++ [UI for an Edtech Platform](https://dribbble.com/shots/)
+
++ [VoltSlot - 3D Icons Set](https://dribbble.com/shots/)
+
++ [Pizza Square????](https://dribbble.com/shots/)
+
++ [Landing Page Design](https://dribbble.com/shots/)
+
++ [Happy 15th Birthday, Dribbble! ????](https://dribbble.com/shots/)
+
++ [NFT logos](https://dribbble.com/shots/)
+
++ [Slack Redesign Website](https://dribbble.com/shots/)
+
++ [Ai Skincare website design landing page](https://dribbble.com/shots/)
+
++ [Case Battles](https://dribbble.com/shots/)
+
++ [Mystery Box](https://dribbble.com/shots/)
+
++ [D Logo - Brand Identity Book - Visual Branding Design](https://dribbble.com/shots/)
+
++ [Meditation App Case Study](https://dribbble.com/shots/)
+
++ [Protectgurad logo](https://dribbble.com/shots/)
+
++ [Language Learning Mobile App](https://dribbble.com/shots/)
+
++ [Crypto Wallet Mobile App](https://dribbble.com/shots/)
+
++ [Monlex.Net - Movie Dashboard Design](https://dribbble.com/shots/)
+
++ [Business Page Preview - Paymint Framer Template](https://dribbble.com/shots/)
+
++ [Fincruck Finance Website 2024](https://dribbble.com/shots/)
+
++ [ai, secure, shield, protect, l logo brand identity](https://dribbble.com/shots/)
+
