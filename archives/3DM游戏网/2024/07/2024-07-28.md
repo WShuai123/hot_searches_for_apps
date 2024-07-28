@@ -193,3 +193,17 @@
 
 + [传闻：育碧《碧海黑帆》将于明年2月推出](https://www.3dmgame.com/news/202311/3882602.html)
 
++ [剑桥词典公布新增游戏词汇 但似乎不是那么准确](https://www.3dmgame.com/news/202407/3900520.html)
+
++ [回归《复联5》出演毁灭博士！小唐尼晒杜姆面具合影](https://www.3dmgame.com/news/202407/3900521.html)
+
++ [《碧蓝幻想》制作组人员变化 原总监与导演更换](https://www.3dmgame.com/news/202407/3900522.html)
+
++ [《星刃》神秘地点可能在暗示未来的DLC更新场景](https://www.3dmgame.com/news/202407/3900523.html)
+
++ [《无限试驾：太阳王冠》新预告展示法拉利车型集锦](https://www.3dmgame.com/news/202407/3900524.html)
+
++ [用户88VIP会员买东西更贵 平台回应可要求退差价](https://www.3dmgame.com/news/202407/3900525.html)
+
++ [《点老救世记》开发者想要获得Metacritic的认可](https://www.3dmgame.com/news/202407/3900526.html)
+

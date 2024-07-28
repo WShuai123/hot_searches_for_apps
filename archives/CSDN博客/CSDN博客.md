@@ -191,3 +191,11 @@
 
 + [【视频异常检测】WEAKLY SUPERVISED VIDEO ANOMALY DETECTION BASED ON CROSS-BATCH CLUSTERING GUIDANCE 论文阅读](https://blog.csdn.net/weixin_44609958/article/details/140699607)
 
++ [05 循环神经网络](https://blog.csdn.net/weixin_43490087/article/details/140668744)
+
++ [网卡驱动架构以及源码分析](https://blog.csdn.net/wonder_1314/article/details/140648811)
+
++ [独立开发者系列（35）——python环境的理解](https://blog.csdn.net/weixin_43435138/article/details/140692651)
+
++ [鸿蒙（HarmonyOS）自定义Dialog实现时间选择控件](https://blog.csdn.net/qq_31622345/article/details/140694458)
+
