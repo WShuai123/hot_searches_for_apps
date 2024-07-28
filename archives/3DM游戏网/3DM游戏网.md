@@ -137,3 +137,7 @@
 
 + [《Castle Crashers》时隔12年推出新DLC 角色新皮肤登场](https://www.3dmgame.com/news/202407/3900507.html)
 
++ [传华为三折旗舰手机9月全球首发 历时5年研发](https://www.3dmgame.com/news/202407/3900512.html)
+
++ [玩家请愿《刺客信条：影》取消发售人数逼近10万 各种问题](https://www.3dmgame.com/news/202407/3900513.html)
+

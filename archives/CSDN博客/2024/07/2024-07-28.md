@@ -147,3 +147,11 @@
 
 + [XSS漏洞：xss.haozi.me靶场1-12 | A-F](https://blog.csdn.net/weixin_68416970/article/details/140699869)
 
++ [大语言模型应用指南：Prompt高效微调](https://blog.csdn.net/universsky2015/article/details/140703034)
+
++ [贪吃蛇游戏制作：用Python探索经典乐趣](https://blog.csdn.net/2301_78150559/article/details/140691796)
+
++ [鸿蒙OpenHarmony Native API【结构体】 头文件](https://blog.csdn.net/2301_76813281/article/details/140688732)
+
++ [微服务案例搭建](https://blog.csdn.net/qq_63688997/article/details/140698693)
+
