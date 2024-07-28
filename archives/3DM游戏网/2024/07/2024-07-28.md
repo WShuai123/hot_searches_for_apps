@@ -153,3 +153,43 @@
 
 + [《超级马里奥世界：马里奥与耀西》乐高套装曝光](https://www.3dmgame.com/news/202407/3900516.html)
 
++ [《猎人：荒野的呼唤》推出拉布拉多寻回犬DLC](https://www.3dmgame.com/news/202311/3882614.html)
+
++ [《辐射》真人剧集全新剧照发布 众多角色造型曝光](https://www.3dmgame.com/news/202311/3882616.html)
+
++ [《巫师》新作开发人数近330人 未来将增加到400多人](https://www.3dmgame.com/news/202311/3882615.html)
+
++ [英国销量周榜：《EA Sports FC 24》重登榜首](https://www.3dmgame.com/news/202311/3882603.html)
+
++ [顽皮狗称在开发多个其他项目 或暗示新的IP](https://www.3dmgame.com/news/202311/3882621.html)
+
++ [Switch《蝙蝠侠：阿卡姆三部曲》上市宣传片](https://www.3dmgame.com/news/202311/3882612.html)
+
++ [《赛博朋克2077：往日之影》已售出430万份](https://www.3dmgame.com/news/202311/3882609.html)
+
++ [《暗黑4》资料片内部调查泄露 售价最高达到100美元](https://www.3dmgame.com/news/202311/3882619.html)
+
++ [《龙之信条2》PC版配置需求公布 最低需要1070](https://www.3dmgame.com/news/202311/3882607.html)
+
++ [《家园3》PC版配置需求公布 需要40GB硬盘空间](https://www.3dmgame.com/news/202311/3882608.html)
+
++ [《龙之信条2》正式公布发售日期/预告片/豪华版](https://www.3dmgame.com/news/202311/3882606.html)
+
++ [玩家自制《艾尔登法环》血源风MOD 在PC上体验《血源》](https://www.3dmgame.com/news/202311/3882605.html)
+
++ [持续更新立功 《永劫无间》玩家人数破4000万](https://www.3dmgame.com/news/202311/3882604.html)
+
++ [《龙之信条2》将使用D加密技术 游戏售价348元](https://www.3dmgame.com/news/202311/3882617.html)
+
++ [日本人气漫画《我家的英雄》真人电影妇女节上映](https://www.3dmgame.com/news/202311/3882610.html)
+
++ [《时空分裂者》开发商Free Radical即将被关闭](https://www.3dmgame.com/news/202311/3882618.html)
+
++ [《地平线 西之绝境》上市1年后开发商栽下60万棵树](https://www.3dmgame.com/news/202311/3882611.html)
+
++ [《僵尸巴士模拟器》开启众筹 2024年Q3登陆多平台](https://www.3dmgame.com/news/202311/3882620.html)
+
++ [《时尚造梦》冬季免费更新即将引入全新内容和功能](https://www.3dmgame.com/news/202311/3882613.html)
+
++ [传闻：育碧《碧海黑帆》将于明年2月推出](https://www.3dmgame.com/news/202311/3882602.html)
+

@@ -179,3 +179,15 @@
 
 + [最大405B：Llama-3.1 发布，第一时间详解](https://blog.csdn.net/2301_82275412/article/details/140696606)
 
++ [如何为 DigitalOcean 上的托管数据库收集可观测指标](https://blog.csdn.net/DO_Community/article/details/140695878)
+
++ [UE5+OpenCV配置（Windows11系统）](https://blog.csdn.net/GFCLJY/article/details/140702115)
+
++ [[附开题]flask框架的农村供销社小程序297id（python+源码）](https://blog.csdn.net/sheji712/article/details/140698807)
+
++ [通信类IEEE会议——第四届通信技术与信息科技国际学术会议（ICCTIT 2024）](https://blog.csdn.net/AEIC_OU/article/details/140691839)
+
++ [[Day 37] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140698274)
+
++ [【视频异常检测】WEAKLY SUPERVISED VIDEO ANOMALY DETECTION BASED ON CROSS-BATCH CLUSTERING GUIDANCE 论文阅读](https://blog.csdn.net/weixin_44609958/article/details/140699607)
+
