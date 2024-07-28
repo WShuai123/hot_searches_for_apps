@@ -235,3 +235,13 @@
 
 + [控制权对决：内场VS实装验证环境的权限较量](https://blog.csdn.net/weixin_43298211/article/details/140626905)
 
++ [【车辆轨迹处理】python实现轨迹点的聚类（二）—— ST-DBSCAN算法](https://blog.csdn.net/jgsecurity/article/details/140697540)
+
++ [国内ChatGPT-4.0中文镜像网站整理| 7月更新](https://blog.csdn.net/qq_62498946/article/details/140702106)
+
++ [react笔记](https://blog.csdn.net/zhaoyin1994/article/details/140674262)
+
++ [LongAlign：大模型长文本处理能力提升之道](https://blog.csdn.net/weixin_44292902/article/details/140672031)
+
++ [支持向量机,西瓜书第六章笔记](https://blog.csdn.net/weixin_70251770/article/details/140698820)
+

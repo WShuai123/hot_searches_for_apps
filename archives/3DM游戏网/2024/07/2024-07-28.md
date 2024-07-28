@@ -211,3 +211,5 @@
 
 + [复古平台跳跃游戏《Fallen Leaf》收获特别好评评价](https://www.3dmgame.com/news/202407/3900527.html)
 
++ [《死侍3》北美首日创R级片纪录 国内两天破1.2亿元](https://www.3dmgame.com/news/202407/3900529.html)
+
