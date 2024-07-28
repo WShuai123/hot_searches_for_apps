@@ -101,3 +101,49 @@
 
 + [项目裁缝：使用千问大模型与wxauto实现微信自动聊天](https://blog.csdn.net/qq_51304797/article/details/140701796)
 
++ [【知识图谱】深入理解 Cypher 查询语言中的查询](https://blog.csdn.net/qyj19920704/article/details/140700899)
+
++ [【知识图谱】人工智能之知识图谱的详细介绍](https://blog.csdn.net/weixin_51306394/article/details/140702176)
+
++ [什么是模型无关方法？](https://blog.csdn.net/ivandoo/article/details/140701696)
+
++ [Pytorch笔记1](https://blog.csdn.net/qq_41775119/article/details/140700820)
+
++ [智能小程序 Ray 开发面板 SDK —— 使用 SDM 拦截器和 DP 自定义协议解析](https://blog.csdn.net/Ms_Smart/article/details/140669615)
+
++ [深度学习张量 和 张量移动](https://blog.csdn.net/weixin_44012667/article/details/140702573)
+
++ [图像生成中图像质量评估指标—FID介绍](https://blog.csdn.net/u013889591/article/details/140693338)
+
++ [从零构建一个向量数据库检索器](https://blog.csdn.net/qq_29929123/article/details/140703002)
+
++ [OLLaMA搭建本地大模型](https://blog.csdn.net/Aweii__/article/details/140684765)
+
++ [用vite快速搭建vue3项目及初始化(pinia、router、封装、element-plus的自动导入)](https://blog.csdn.net/m0_73459939/article/details/140702474)
+
++ [深入理解SQL中的INNER JOIN操作](https://blog.csdn.net/weixin_41793160/article/details/139987419)
+
++ [Robot Operating System——Parameter设置的预处理、校验和成功回调](https://blog.csdn.net/breaksoftware/article/details/140614640)
+
++ [基于SpringBoot的商业航班执飞飞机机型信息管理](https://blog.csdn.net/yelangkingwuzuhu/article/details/140742512)
+
++ [使用Spring Data JPA简化Java持久层开发](https://blog.csdn.net/java666668888/article/details/140701011)
+
++ [安卓取证学习手册（一）](https://blog.csdn.net/wizardforcel/article/details/140702935)
+
++ [根据路线在 Angular 中动态突出显示活动菜单项](https://blog.csdn.net/xiefeng240601/article/details/140680447)
+
++ [【数据管理】DAMA-数据管理](https://blog.csdn.net/weixin_43800786/article/details/140702418)
+
++ [【AI 大模型】使用 AI 大模型 编程 ① ( AI 编程简介 | 使用 GitHub Copilot 插件进行 AI 编程 | 使用对话方式进行 AI 编程 )](https://blog.csdn.net/han1202012/article/details/140704866)
+
++ [开源VS闭源：国产大模型的路线之争与商业化挑战](https://blog.csdn.net/2401_85375298/article/details/140700019)
+
++ [linux之shell脚本实战](https://blog.csdn.net/J56793/article/details/140506096)
+
++ [C/C++大雪纷飞代码](https://blog.csdn.net/m0_68111267/article/details/140735166)
+
++ [大模型算法方向实习会经常提问哪些问题？ ?](https://blog.csdn.net/qkh1234567/article/details/140683520)
+
++ [【Spring Boot】自动配置源码解析](https://blog.csdn.net/smile_sundays/article/details/140699215)
+
