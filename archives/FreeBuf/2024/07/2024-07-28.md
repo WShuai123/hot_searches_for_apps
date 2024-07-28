@@ -51,3 +51,5 @@
 
 + [伪装成CrowdStrike修复文件的攻击活动分析](https://www.freebuf.com/articles/network/406902.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
