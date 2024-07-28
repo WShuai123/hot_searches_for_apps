@@ -127,3 +127,13 @@
 
 + [漫威官宣！罗素兄弟回归执导《复联5》和《复联6》](https://www.3dmgame.com/news/202407/3900506.html)
 
++ [《倘若猫愿实现》免费登陆PC 温馨冒险新游](https://www.3dmgame.com/news/202407/3900510.html)
+
++ [Double Fine工作室暗示Tim Schafer已有新游戏构思](https://www.3dmgame.com/news/202407/3900511.html)
+
++ [《燧石枪：黎明之围》简单模式无法获得任何成就](https://www.3dmgame.com/news/202407/3900509.html)
+
++ [吸引力不够？《星鸣特攻》公测版玩家数量不升反降](https://www.3dmgame.com/news/202407/3900508.html)
+
++ [《Castle Crashers》时隔12年推出新DLC 角色新皮肤登场](https://www.3dmgame.com/news/202407/3900507.html)
+
