@@ -117,3 +117,13 @@
 
 + [《蝙蝠侠》衍生剧《企鹅人》新预告 9月19日开播](https://www.3dmgame.com/news/202407/3900501.html)
 
++ [2024上半年中国电视盒子销量排名：腾讯天猫小米前三](https://www.3dmgame.com/news/202407/3900502.html)
+
++ [玩家1级无用之人不滚不挡挑战《艾尔登法环》梅瑟莫](https://www.3dmgame.com/news/202407/3900503.html)
+
++ [《The Green Book》Steam页面上线 园艺店经营模拟](https://www.3dmgame.com/news/202407/3900504.html)
+
++ [巴黎奥运开幕式被批太辣眼睛 2008中国奥运开幕式又火了](https://www.3dmgame.com/news/202407/3900505.html)
+
++ [漫威官宣！罗素兄弟回归执导《复联5》和《复联6》](https://www.3dmgame.com/news/202407/3900506.html)
+
