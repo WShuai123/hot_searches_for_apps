@@ -213,3 +213,25 @@
 
 + [亚马逊云科技为跨境电商出海安全保驾护航](https://blog.csdn.net/weixin_46812959/article/details/140702458)
 
++ [湖仓一体架构解析：数仓架构选择（第48天）](https://blog.csdn.net/syhiiu/article/details/140697692)
+
++ [【CNN回归预测】基于matlab蝠鲼觅食算法优化卷积神经网络MRFO-CNN风电数据预测（多输入单输出）【含Matlab源码 5267期】](https://blog.csdn.net/TIQCmatlab/article/details/140697519)
+
++ [搭建NFS、web、dns服务器](https://blog.csdn.net/m0_72656276/article/details/140669650)
+
++ [论文理解【LLM】—— TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://blog.csdn.net/wxc971231/article/details/140680252)
+
++ [Anaconda + Pycharm 创建 Python 3.7 + TensorFlow 2.7 环境](https://blog.csdn.net/2201_75691823/article/details/140630145)
+
++ [使用 WebSocket 实现一个简易的在线聊天室（SpringBoot + Vue3，附源代码）](https://blog.csdn.net/m0_62128476/article/details/140702248)
+
++ [【深度学习】基于SVM的文本情感分类模型---应用（附源代码+数据集）](https://blog.csdn.net/qq_74144402/article/details/140697588)
+
++ [【算法】退火算法 Simulated Annealing](https://blog.csdn.net/a13545564067/article/details/140696259)
+
++ [【React Hooks原理 - useDeferredValue】](https://blog.csdn.net/weixin_44273311/article/details/140668005)
+
++ [使用shell批量操作redis-批量删除REDIS中keys *模糊查询的结果-批量执行命令文件及ln更新软链目标路径的问题-覆盖更新目录软链的情况](https://blog.csdn.net/weixin_47792780/article/details/140678699)
+
++ [控制权对决：内场VS实装验证环境的权限较量](https://blog.csdn.net/weixin_43298211/article/details/140626905)
+
