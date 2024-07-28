@@ -187,3 +187,9 @@
 
 + [十二、openCV教程 warpaffine仿射函数](https://blog.csdn.net/qq_29448131/article/details/140624291)
 
++ [大模型新贵还是绕不过云计算大佬](https://blog.csdn.net/2401_85325557/article/details/140682494)
+
++ [Nacos 配置中心配置发布源码分析](https://blog.csdn.net/weixin_42118323/article/details/140585838)
+
++ [《数据资产化实践指南》解析](https://blog.csdn.net/weixin_43156294/article/details/140689188)
+
