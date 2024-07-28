@@ -45,3 +45,7 @@
 
 + [安全验证与传统评估方法的比较：红队、渗透性测试和漏洞评估](https://www.freebuf.com/articles/network/406642.html)
 
++ [攻防演练 | 浅谈MYSQL蜜罐的攻与防](https://www.freebuf.com/defense/377676.html)
+
++ [Web3 安全入门避坑指南｜假钱包与私钥助记词泄露风险](https://www.freebuf.com/articles/blockchain-articles/401389.html)
+

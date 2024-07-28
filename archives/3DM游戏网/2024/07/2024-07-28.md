@@ -109,3 +109,11 @@
 
 + [索尼“中国之星计划”《绝晓》全新CJ实机演示](https://www.3dmgame.com/news/202407/3900494.html)
 
++ [传《黑手党：终极版》将在8月登陆Game Pass](https://www.3dmgame.com/news/202407/3900498.html)
+
++ [《星际迷航》全新剧集公布 系列首个真人喜剧](https://www.3dmgame.com/news/202407/3900499.html)
+
++ [《赛马娘 Pretty Derby》LDC第一弹公开 爱丽丝队参战](https://www.3dmgame.com/news/202407/3900500.html)
+
++ [《蝙蝠侠》衍生剧《企鹅人》新预告 9月19日开播](https://www.3dmgame.com/news/202407/3900501.html)
+
