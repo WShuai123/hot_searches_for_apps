@@ -35,3 +35,21 @@
 
 + [lz4 / lz4](https://github.com/lz4/lz4)
 
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [brave / brave-browser](https://github.com/brave/brave-browser)
+
++ [RayTracing / raytracing.github.io](https://github.com/RayTracing/raytracing.github.io)
+
++ [wasp-lang / open-saas](https://github.com/wasp-lang/open-saas)
+
++ [OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum)
+
++ [mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+

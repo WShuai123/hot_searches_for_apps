@@ -207,3 +207,7 @@
 
 + [《点老救世记》开发者想要获得Metacritic的认可](https://www.3dmgame.com/news/202407/3900526.html)
 
++ [责编回忆鸟山明创作轶事 阿拉蕾的便便原本其实是](https://www.3dmgame.com/news/202407/3900528.html)
+
++ [复古平台跳跃游戏《Fallen Leaf》收获特别好评评价](https://www.3dmgame.com/news/202407/3900527.html)
+

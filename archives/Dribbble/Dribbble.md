@@ -206,3 +206,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Semex - Logo & Logo Design](https://dribbble.com/shots/)
 
++ [D Logo - Brand Identity Book - Visual Branding Design](https://dribbble.com/shots/)
+
++ [Slack Redesign Website](https://dribbble.com/shots/)
+
