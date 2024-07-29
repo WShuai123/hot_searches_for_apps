@@ -47,3 +47,7 @@
 
 + [常见的内核监控方式探讨及优缺点评析](https://www.freebuf.com/articles/system/404365.html)
 
++ [企业安全 | API安全体系建设](https://www.freebuf.com/articles/es/377992.html)
+
++ [渗透测试 | 从xss到内网投毒接管](https://www.freebuf.com/defense/407057.html)
+

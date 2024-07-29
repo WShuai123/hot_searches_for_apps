@@ -109,3 +109,17 @@
 
 + [影之刃零总监称《黑神话》必成功 成为国产游戏分水岭](https://www.3dmgame.com/news/202407/3900539.html)
 
++ [《指环王：力量之戒》第二季新预告 黑化索伦亮相](https://www.3dmgame.com/news/202407/3900542.html)
+
++ [《命运石之门》15周年纪念直播10月27日举行 公布新情报](https://www.3dmgame.com/news/202407/3900546.html)
+
++ [《深海迷航》开发商悄悄泄露续作截图 玩家并未察觉](https://www.3dmgame.com/news/202407/3900547.html)
+
++ [《地狱男爵：驼背人》曝正式预告和首个片段](https://www.3dmgame.com/news/202407/3900545.html)
+
++ [《炉石传说》国服9月25日回归 卡牌补偿方案公布](https://www.3dmgame.com/news/202407/3900544.html)
+
++ [3D资源经营探索游戏《不毛之地》Steam特别好评](https://www.3dmgame.com/news/202407/3900543.html)
+
++ [《漫威蜘蛛侠2》非官方PC版与PS5版对比：表现很接近](https://www.3dmgame.com/news/202407/3900541.html)
+

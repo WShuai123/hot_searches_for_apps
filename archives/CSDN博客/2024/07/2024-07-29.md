@@ -199,3 +199,9 @@
 
 + [使用Java和Spring Retry实现重试机制](https://blog.csdn.net/weixin_44627014/article/details/140617443)
 
++ [[Day 36] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140698166)
+
++ [[网络通信原理]——TCP/IP模型—应用层](https://blog.csdn.net/nbdlsplyb/article/details/140699655)
+
++ [RabbitMQ在Spring Boot中的使用](https://blog.csdn.net/qq_64903447/article/details/140689143)
+
