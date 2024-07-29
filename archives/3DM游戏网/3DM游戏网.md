@@ -105,3 +105,7 @@
 
 + [《战斗砖块剧场》将登陆当前主机 PC版将更新](https://www.3dmgame.com/news/202407/3900537.html)
 
++ [《刺客信条：影》争议不断 许多粉丝仍对该作感兴趣](https://www.3dmgame.com/news/202407/3900540.html)
+
++ [影之刃零总监称《黑神话》必成功 成为国产游戏分水岭](https://www.3dmgame.com/news/202407/3900539.html)
+

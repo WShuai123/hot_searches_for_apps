@@ -25,3 +25,9 @@
 
 + [AMD AR-9 台式主机新增配置 8 月 8 日首销：锐龙 7 9700X + 32G + 1T + RTX4060Ti 售 7399 元](https://m.ithome.com/html/784689.htm)
 
++ [卖得太差，保时捷中国 CEO 换人了](https://m.ithome.com/html/784764.htm)
+
++ [Win11 文件资源管理器黑边设计遭用户吐槽，微软称是功能而非 Bug](https://m.ithome.com/html/784747.htm)
+
++ [三星展示续航 600 英里的固态电池技术，还将推出 9 分钟充满电以及寿命 20 年的电池产品](https://m.ithome.com/html/784708.htm)
+

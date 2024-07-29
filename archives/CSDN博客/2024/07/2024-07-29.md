@@ -193,3 +193,9 @@
 
 + [《数据资产化实践指南》解析](https://blog.csdn.net/weixin_43156294/article/details/140689188)
 
++ [01 Redis引入和概述](https://blog.csdn.net/weixin_48089507/article/details/140682335)
+
++ [【系统架构设计师】十九、层次式架构设计理论与实践①](https://blog.csdn.net/g984160547/article/details/140684710)
+
++ [使用Java和Spring Retry实现重试机制](https://blog.csdn.net/weixin_44627014/article/details/140617443)
+
