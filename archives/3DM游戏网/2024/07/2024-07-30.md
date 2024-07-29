@@ -101,3 +101,11 @@
 
 + [《Apex英雄》Steam整体评价已降至“褒贬不一”](https://www.3dmgame.com/news/202407/3900549.html)
 
++ [《二战前线合集》Steam特别好评 值得补票](https://www.3dmgame.com/news/202407/3900607.html)
+
++ [《宇宙机器人》限定款DualSense手柄 售价79.99美元](https://www.3dmgame.com/news/202407/3900604.html)
+
++ [《哈利·波特：魁地奇锦标赛》无微交易 新预告发布](https://www.3dmgame.com/news/202407/3900605.html)
+
++ [《孤岛惊魂》多人MOD发布 支持大逃杀模式](https://www.3dmgame.com/news/202407/3900606.html)
+

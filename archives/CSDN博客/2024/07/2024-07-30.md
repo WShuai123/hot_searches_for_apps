@@ -101,3 +101,23 @@
 
 + [【C++11】C++11新纪元：深入探索右值引用与移动语义](https://blog.csdn.net/EterNity_TiMe_/article/details/140766595)
 
++ [【人工智能】Transformers之Pipeline（六）：图像分类（image-classification）](https://blog.csdn.net/weixin_48007632/article/details/140778745)
+
++ [【机器学习】智驭未来：机器学习如何重塑制造业的转型与升级](https://blog.csdn.net/EterNity_TiMe_/article/details/140723492)
+
++ [【Spring Boot】自动配置源码解析](https://blog.csdn.net/smile_sundays/article/details/140699215)
+
++ [打造一篇完美的【数学建模竞赛论文】：从准备到撰写的全面指南](https://blog.csdn.net/2303_77720864/article/details/140740986)
+
++ [英伟达下一款Linux驱动程序开源了，但又没完全开源](https://blog.csdn.net/leyang0910/article/details/140586892)
+
++ [数据仓库ODS层详解- 功能、设计与最佳实践](https://blog.csdn.net/u012955829/article/details/140741874)
+
++ [html实现我的博客文章相册源码](https://blog.csdn.net/weixin_43151418/article/details/140762898)
+
++ [【人工智能】穿越科技迷雾：解锁人工智能、机器学习与深度学习的奥秘之旅](https://blog.csdn.net/m0_48173416/article/details/140641555)
+
++ [极致的灵活度满足工程美学：用Vue Flow绘制一个完美流程图](https://blog.csdn.net/RenGJ010617/article/details/140619433)
+
++ [scratch聊天机器人 2024年6月scratch四级 中国电子学会图形化编程 少儿编程等级考试四级真题和答案解析](https://blog.csdn.net/frank2102/article/details/140748152)
+
