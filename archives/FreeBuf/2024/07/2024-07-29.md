@@ -63,3 +63,5 @@
 
 + [Cookie-Monster：一款针对Web浏览器的安全分析与数据提取工具](https://www.freebuf.com/sectool/406213.html)
 
++ [《国家网络身份认证公共服务管理办法（征求意见稿）》发布](https://www.freebuf.com/news/407241.html)
+

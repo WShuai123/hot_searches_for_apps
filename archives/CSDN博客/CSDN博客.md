@@ -245,3 +245,9 @@
 
 + [【TS】TypeScript中的接口(Interface):对象类型的强大工具](https://blog.csdn.net/qq_44214428/article/details/140754360)
 
++ [AI人工智能 - 概术](https://blog.csdn.net/weixin_51705943/article/details/140683463)
+
++ [【人工智能】如何选择合适的AI绘画工具？Midjourney VS Stable Diffusion](https://blog.csdn.net/2201_75539691/article/details/140701628)
+
++ [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://blog.csdn.net/xiaobing259/article/details/140594238)
+

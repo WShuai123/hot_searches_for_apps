@@ -165,3 +165,19 @@
 
 + [骁龙8 Gen4搭载AI新技术 实现手机1080p120fps《原神》](https://www.3dmgame.com/news/202407/3900569.html)
 
++ [《赛马娘 Pretty Derby 热血喧闹大感谢祭！》数字版开启预购 同步公开DLC第一弹信息！](https://www.3dmgame.com/news/202407/3900575.html)
+
++ [《STRETCHER MEN》登陆Steam 奇葩担架运送模拟](https://www.3dmgame.com/news/202407/3900576.html)
+
++ [NEOWIZ的《SANABI》在中‘2024独立游戏开发大奖’上获得‘最佳动作冒险游戏’奖](https://www.3dmgame.com/news/202407/3900574.html)
+
++ [热浪来袭，上KK官方对战平台，全民体育狂欢赢iPad！](https://www.3dmgame.com/news/202407/3900573.html)
+
++ [《机械觉醒》7月29日登陆Steam](https://www.3dmgame.com/news/202407/3900572.html)
+
++ [新报告称7月PS二档三档会员玩家活跃度大幅下降](https://www.3dmgame.com/news/202407/3900571.html)
+
++ [休·杰克曼还原金刚狼经典表情包 自赞《死侍与金刚狼》是世界第一电影](https://www.3dmgame.com/news/202407/3900570.html)
+
++ [《脑航员3》目前没在计划中 开发商正在制作小型项目](https://www.3dmgame.com/news/202407/3900577.html)
+
