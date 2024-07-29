@@ -141,3 +141,13 @@
 
 + [《Apex英雄》Steam整体评价已降至“褒贬不一”](https://www.3dmgame.com/news/202407/3900549.html)
 
++ [凯文·费奇暗示休·杰克曼是否会在漫威电影宇宙继续扮演金刚狼](https://www.3dmgame.com/news/202407/3900558.html)
+
++ [电影《变形金刚：起源》确定引进国内 档期待定](https://www.3dmgame.com/news/202407/3900561.html)
+
++ [休闲模拟游戏《动物园模拟器》现已在Steam平台正式推出 获好评](https://www.3dmgame.com/news/202407/3900559.html)
+
++ [《刀剑神域：碎梦边境》新增4位角色参战 10月3日发售](https://www.3dmgame.com/news/202407/3900560.html)
+
++ [《三伏》庆祝发售一周年 作者月光蟑螂分享新作进度](https://www.3dmgame.com/news/202407/3900562.html)
+

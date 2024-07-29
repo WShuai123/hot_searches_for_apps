@@ -55,3 +55,7 @@
 
 + [专题·漏洞治理 | 漏洞全链路治理与运营管理建设](https://www.freebuf.com/news/407183.html)
 
++ [“PKFail”漏洞威胁：数百万设备安全启动机制遭绕过风险](https://www.freebuf.com/articles/paper/407214.html)
+
++ [ATM机无法取钱，俄银行遭乌克兰大规模网络攻击](https://www.freebuf.com/news/407179.html)
+

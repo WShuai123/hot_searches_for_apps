@@ -215,3 +215,21 @@
 
 + [图神经网络实战——MolGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/140761292)
 
++ [AI 大模型催生的新职业，提示词工程师是什么？](https://blog.csdn.net/2401_85325726/article/details/140691928)
+
++ [Python接口自动化测试框架（实战篇）-- 数据库操作MySQL](https://blog.csdn.net/u011466469/article/details/138709168)
+
++ [使用SpringEvent解决WebUploader大文件上传解耦问题](https://blog.csdn.net/yelangkingwuzuhu/article/details/140757139)
+
++ [stable diffusion+LangChain+LLM自动生成图片](https://blog.csdn.net/2401_85325557/article/details/140700037)
+
++ [【人工智能】深度剖析：Midjourney与Stable Diffusion的全面对比](https://blog.csdn.net/2201_75539691/article/details/140701628)
+
++ [【机器学习】智驭未来：机器学习如何重塑制造业的转型与升级](https://blog.csdn.net/EterNity_TiMe_/article/details/140723492)
+
++ [【MySQL进阶篇】锁：全局锁、表级锁以及行级锁](https://blog.csdn.net/2401_83283514/article/details/140645079)
+
++ [scratch聊天机器人 2024年6月scratch四级 中国电子学会图形化编程 少儿编程等级考试四级真题和答案解析](https://blog.csdn.net/frank2102/article/details/140748152)
+
++ [课题分享：智能停车场小程序，基于微信小程序+SpringBoot+mysql](https://blog.csdn.net/zhongshu_luo/article/details/140604865)
+
