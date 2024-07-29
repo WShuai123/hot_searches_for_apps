@@ -49,3 +49,29 @@
 
 + [Multiple Alarm](https://dribbble.com/shots/)
 
++ [Grundens: Preview Applications](https://dribbble.com/shots/)
+
++ [3D Explainer for Ami (Sound on ????)](https://dribbble.com/shots/)
+
++ [Dribbble's 15th anniversary & 15000 subscribers](https://dribbble.com/shots/)
+
++ [Novi Sad Icon and Banner](https://dribbble.com/shots/)
+
++ [Digital Still Life - German Art Deco](https://dribbble.com/shots/)
+
++ [The Creative Watch](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [CH24 Pocket Square](https://dribbble.com/shots/)
+
++ [Namma](https://dribbble.com/shots/)
+
++ [420 Freak club](https://dribbble.com/shots/)
+
++ [Dragönsteel Alts](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
+
