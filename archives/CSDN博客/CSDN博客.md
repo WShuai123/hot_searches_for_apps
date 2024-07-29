@@ -251,3 +251,7 @@
 
 + [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://blog.csdn.net/xiaobing259/article/details/140594238)
 
++ [企业微信开发智能升级：AIGC技术赋能，打造高效沟通平台](https://blog.csdn.net/qq_32682301/article/details/140764868)
+
++ [大语言模型是什么，该如何去学习呢](https://blog.csdn.net/Aweii__/article/details/140692697)
+

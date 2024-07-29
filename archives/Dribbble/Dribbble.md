@@ -195,3 +195,5 @@
 
 + [Tea](https://dribbble.com/shots/)
 
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+

@@ -181,3 +181,11 @@
 
 + [《脑航员3》目前没在计划中 开发商正在制作小型项目](https://www.3dmgame.com/news/202407/3900577.html)
 
++ [女子乐队主题动画《BanG Dream! It“s MyGO!!!!!》剧场版预告放出](https://www.3dmgame.com/news/202407/3900579.html)
+
++ [曝《黑神话》将是三部曲：《黑神话姜子牙》《黑神话钟馗》](https://www.3dmgame.com/news/202407/3900581.html)
+
++ [《片轮少女》8月登陆Steam 经典温馨恋爱游戏](https://www.3dmgame.com/news/202407/3900580.html)
+
++ [光荣特库摩新财报 本财年内还有多款游戏等待发布](https://www.3dmgame.com/news/202407/3900578.html)
+
