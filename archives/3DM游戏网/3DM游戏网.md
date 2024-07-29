@@ -223,3 +223,5 @@
 
 + [《远征》现已在Steam上推出免费的合作模式! 一起探索世界!](https://www.3dmgame.com/news/202407/3900595.html)
 
++ [英特尔不会召回或停售第13/14代酷睿产品](https://www.3dmgame.com/news/202407/3900599.html)
+
