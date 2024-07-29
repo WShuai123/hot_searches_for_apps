@@ -227,3 +227,9 @@
 
 + [《流放之路》最近更新大获成功 Steam峰值接近23万人](https://www.3dmgame.com/news/202407/3900600.html)
 
++ [ChinaJoy2024：《影之刃零》新实机发布](https://www.3dmgame.com/news/202407/3900603.html)
+
++ [《生化奇兵4》画面有望大升级 将是系列新标杆](https://www.3dmgame.com/news/202407/3900602.html)
+
++ [Capcom 24/25财年Q1财报 营收和利润双下滑](https://www.3dmgame.com/news/202407/3900601.html)
+

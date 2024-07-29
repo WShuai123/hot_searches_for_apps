@@ -263,3 +263,9 @@
 
 + [【个人记录】pkg可以将Node.js应用打包为可执行文件](https://blog.csdn.net/dopapapa/article/details/140657939)
 
++ [现在有什么赛道可以干到退休？](https://blog.csdn.net/w425772719/article/details/140763777)
+
++ [如何用大模型技术指导个人学习和发展](https://blog.csdn.net/2401_85325726/article/details/140700137)
+
++ [html实现我的博客文章相册源码](https://blog.csdn.net/weixin_43151418/article/details/140762898)
+
