@@ -205,3 +205,9 @@
 
 + [安居客-买卖二手房新房租房房价查询](https://itunes.apple.com/cn/app/id415606289?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [王者营地](https://itunes.apple.com/cn/app/id1102305688?mt=8)
+
