@@ -215,3 +215,11 @@
 
 + [《变形金刚：起源》确认引进 擎天柱威震天决裂 大银幕见证传奇起源](https://www.3dmgame.com/news/202407/3900588.html)
 
++ [单色调像素RPG《最后列车》英文版与设定集DLC，现已在Steam平台发布！](https://www.3dmgame.com/news/202407/3900596.html)
+
++ [血腥第一人称射击游戏《海参2》新DLC《刀锋吻者》现已上线](https://www.3dmgame.com/news/202407/3900598.html)
+
++ [《战锤40K：星际战士2》PS5亚洲版预定于2024年9月9日（一）正式发售！](https://www.3dmgame.com/news/202407/3900597.html)
+
++ [《远征》现已在Steam上推出免费的合作模式! 一起探索世界!](https://www.3dmgame.com/news/202407/3900595.html)
+
