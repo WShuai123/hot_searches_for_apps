@@ -109,3 +109,11 @@
 
 + [《孤岛惊魂》多人MOD发布 支持大逃杀模式](https://www.3dmgame.com/news/202407/3900606.html)
 
++ [《战锤40K：星际战士2》新预告展示等离子焚化者](https://www.3dmgame.com/news/202407/3900611.html)
+
++ [《哈利·波特：魁地奇锦标赛》PC配置公布 推荐1060](https://www.3dmgame.com/news/202407/3900609.html)
+
++ [回合制RPG《Arco》将于8/15登陆PS/Switch](https://www.3dmgame.com/news/202407/3900610.html)
+
++ [《死神：魂魄觉醒》角色预告片：一护/露琪亚/雨龙](https://www.3dmgame.com/news/202407/3900608.html)
+

@@ -127,3 +127,5 @@
 
 + [Langchain--如何使用大模型 2.0](https://blog.csdn.net/qq_64685283/article/details/140780609)
 
++ [Flink-CDC解析（第47天）](https://blog.csdn.net/syhiiu/article/details/140697517)
+
