@@ -147,3 +147,9 @@
 
 + [Illustration Exploration for Inscribe #3](https://dribbble.com/shots/)
 
++ [Icon Study](https://dribbble.com/shots/)
+
++ [Crypto screen](https://dribbble.com/shots/)
+
++ [Branding | Logo design | Bubble tea cafe](https://dribbble.com/shots/)
+

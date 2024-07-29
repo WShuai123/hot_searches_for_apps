@@ -117,3 +117,9 @@
 
 + [《死神：魂魄觉醒》角色预告片：一护/露琪亚/雨龙](https://www.3dmgame.com/news/202407/3900608.html)
 
++ [水墨画风休闲动作游戏《点睛》8月1日登陆Switch](https://www.3dmgame.com/news/202407/3900614.html)
+
++ [合金弹头风格像素动作射击游戏《愤怒之枪》公布](https://www.3dmgame.com/news/202407/3900613.html)
+
++ [《圣剑传说 Visions of Mana》精灵器系统介绍视频](https://www.3dmgame.com/news/202407/3900612.html)
+
