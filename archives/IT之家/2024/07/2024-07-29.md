@@ -43,3 +43,5 @@
 
 + [马斯克暗示特斯拉 HW3 性能出现瓶颈](https://m.ithome.com/html/784711.htm)
 
++ [华为 CD28-S 终端配件通过星闪认证：预计为星跃鼠标 GT ，有望近期上市](https://m.ithome.com/html/784763.htm)
+

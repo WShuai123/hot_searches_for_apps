@@ -233,3 +233,7 @@
 
 + [课题分享：智能停车场小程序，基于微信小程序+SpringBoot+mysql](https://blog.csdn.net/zhongshu_luo/article/details/140604865)
 
++ [【微服务】Spring Cloud Gateway](https://blog.csdn.net/jinxinxin1314/article/details/140758993)
+
++ [【虚拟化】KVM概念和架构](https://blog.csdn.net/qq_35995514/article/details/140755412)
+

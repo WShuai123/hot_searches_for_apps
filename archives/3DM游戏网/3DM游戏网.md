@@ -151,3 +151,15 @@
 
 + [《三伏》庆祝发售一周年 作者月光蟑螂分享新作进度](https://www.3dmgame.com/news/202407/3900562.html)
 
++ [奥运会惊现兜帽男屋顶跑酷 育碧提醒《刺客信条：大革命》主角亚诺正在注视](https://www.3dmgame.com/news/202407/3900567.html)
+
++ [《史克威尔艾尼克斯的AI》新书公布 浅显易懂理解游戏AI](https://www.3dmgame.com/news/202407/3900566.html)
+
++ [16384块N卡训练4050亿参数大模型：3小时报错一次](https://www.3dmgame.com/news/202407/3900568.html)
+
++ [云掌机PS Portal港版预计9月4日发售 定价1580港币](https://www.3dmgame.com/news/202407/3900565.html)
+
++ [经营模拟游戏《商业奇才：舌尖上的路边摊》发布新预告 10月推出Demo](https://www.3dmgame.com/news/202407/3900564.html)
+
++ [Win11新设计引不满！微软回应不是Bug是功能](https://www.3dmgame.com/news/202407/3900563.html)
+
