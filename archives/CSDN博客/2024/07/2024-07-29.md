@@ -255,3 +255,7 @@
 
 + [大语言模型是什么，该如何去学习呢](https://blog.csdn.net/Aweii__/article/details/140692697)
 
++ [GUI图形化界面操作（下部）](https://blog.csdn.net/m0_75148088/article/details/140725207)
+
++ [[Day 37] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140698274)
+

@@ -197,3 +197,31 @@
 
 + [MADE logotype - 3 ways](https://dribbble.com/shots/)
 
++ [Zenity responsive design](https://dribbble.com/shots/)
+
++ [Geomark](https://dribbble.com/shots/)
+
++ [Finance Dashboard Dark theme](https://dribbble.com/shots/)
+
++ [Secured finance - home page exploration](https://dribbble.com/shots/)
+
++ [Statistics](https://dribbble.com/shots/)
+
++ [ProManufacture - Pitch Deck](https://dribbble.com/shots/)
+
++ [ApeTerminal: website](https://dribbble.com/shots/)
+
++ [Unused logo](https://dribbble.com/shots/)
+
++ [Simple lock screen exploration](https://dribbble.com/shots/)
+
++ [Death & Glory](https://dribbble.com/shots/)
+
++ [Crypto - Illustration](https://dribbble.com/shots/)
+
++ [Dynamic abstraction logo](https://dribbble.com/shots/)
+
++ [Letter S Logo Concepts // Logos For Sale](https://dribbble.com/shots/)
+
++ [AirFreight SaaS - Aircraft Freight Dashboard](https://dribbble.com/shots/)
+

@@ -189,3 +189,15 @@
 
 + [光荣特库摩新财报 本财年内还有多款游戏等待发布](https://www.3dmgame.com/news/202407/3900578.html)
 
++ [真人剧发布献礼《人中之龙》系列作品的三种游戏套装正式发售！现已推出超值优惠价格](https://www.3dmgame.com/news/202407/3900586.html)
+
++ [《燕云十六声》开发进展介绍 新时装新角色等将上线](https://www.3dmgame.com/news/202407/3900583.html)
+
++ [微软Xbox 360游戏商店正式关闭 一代经典谢幕](https://www.3dmgame.com/news/202407/3900585.html)
+
++ [混淆现实与虚拟的世界！《龙魂：魔都异闻录》免费序章现已正式上线](https://www.3dmgame.com/news/202407/3900584.html)
+
++ [AMD锐龙9000推迟原因曝光！锐龙5、7错印成锐龙9](https://www.3dmgame.com/news/202407/3900582.html)
+
++ [高通三星都不行！华为怒告联发科专利侵权底气：全球5G标准必要专利第一](https://www.3dmgame.com/news/202407/3900587.html)
+
