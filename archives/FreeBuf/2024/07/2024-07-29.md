@@ -51,3 +51,7 @@
 
 + [渗透测试 | 从xss到内网投毒接管](https://www.freebuf.com/defense/407057.html)
 
++ [微软仍然是网络钓鱼的头号目标，阿迪达斯和WhatsApp位列前10](https://www.freebuf.com/news/407192.html)
+
++ [专题·漏洞治理 | 漏洞全链路治理与运营管理建设](https://www.freebuf.com/news/407183.html)
+

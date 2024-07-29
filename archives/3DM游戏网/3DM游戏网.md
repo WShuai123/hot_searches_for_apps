@@ -123,3 +123,21 @@
 
 + [《漫威蜘蛛侠2》非官方PC版与PS5版对比：表现很接近](https://www.3dmgame.com/news/202407/3900541.html)
 
++ [温馨模拟经营游戏《丰登之日：我的梦中农场》正式推出获多半好评](https://www.3dmgame.com/news/202407/3900555.html)
+
++ [《死侍与金刚狼》大获成功 创下R级电影全球首映票房新纪录](https://www.3dmgame.com/news/202407/3900553.html)
+
++ [塔防牌组构建游戏《地下城君主》体验版已在Steam推出](https://www.3dmgame.com/news/202407/3900554.html)
+
++ [《PIGROMANCE》登陆Steam 横版动作解谜](https://www.3dmgame.com/news/202407/3900552.html)
+
++ [《粘粘世界2》新预告放出 2024年8月2日登录PC和Switch](https://www.3dmgame.com/news/202407/3900551.html)
+
++ [游戏公司员工老龄化加剧：任天堂员工平均年龄破40岁](https://www.3dmgame.com/news/202407/3900550.html)
+
++ [《Sky“s The Limit》登陆Steam 肉鸽元素麻将新游](https://www.3dmgame.com/news/202407/3900556.html)
+
++ [《植物大战僵尸：花园战争2》“复活” Steam在线接近万人](https://www.3dmgame.com/news/202407/3900548.html)
+
++ [《Apex英雄》Steam整体评价已降至“褒贬不一”](https://www.3dmgame.com/news/202407/3900549.html)
+
