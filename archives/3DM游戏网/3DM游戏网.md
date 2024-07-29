@@ -163,3 +163,5 @@
 
 + [Win11新设计引不满！微软回应不是Bug是功能](https://www.3dmgame.com/news/202407/3900563.html)
 
++ [骁龙8 Gen4搭载AI新技术 实现手机1080p120fps《原神》](https://www.3dmgame.com/news/202407/3900569.html)
+

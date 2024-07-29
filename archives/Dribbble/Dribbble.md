@@ -171,3 +171,27 @@
 
 + [*MM Vol.VI](https://dribbble.com/shots/)
 
++ [Namma](https://dribbble.com/shots/)
+
++ [Branding Exploration for Vegetarian Website](https://dribbble.com/shots/)
+
++ [Net-is-Working - Networking Analytics Mobile App](https://dribbble.com/shots/)
+
++ [Magna : Architect Studio - Visual identity](https://dribbble.com/shots/)
+
++ [EVolution - Charging Station App UI/UX ????](https://dribbble.com/shots/)
+
++ [Future- Mortgage website design](https://dribbble.com/shots/)
+
++ [Orbit - HR Management Dashboard](https://dribbble.com/shots/)
+
++ [Game Mobile: Robo Fight - Full Preview](https://dribbble.com/shots/)
+
++ [Crossbar, fitness tracker logo design: C, arena, stopwatch timer](https://dribbble.com/shots/)
+
++ [A collection of different logos ✨](https://dribbble.com/shots/)
+
++ [Cihuy - CRM Software Landing Page](https://dribbble.com/shots/)
+
++ [Tea](https://dribbble.com/shots/)
+

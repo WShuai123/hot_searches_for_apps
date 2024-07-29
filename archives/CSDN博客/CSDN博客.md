@@ -243,3 +243,5 @@
 
 + [数据开发/数仓工程师上手指南(三)数仓构建流程](https://blog.csdn.net/master_hunter/article/details/140763930)
 
++ [【TS】TypeScript中的接口(Interface):对象类型的强大工具](https://blog.csdn.net/qq_44214428/article/details/140754360)
+

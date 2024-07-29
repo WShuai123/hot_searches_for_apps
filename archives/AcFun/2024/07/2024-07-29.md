@@ -93,3 +93,11 @@
 
 + [两年前唱的「大正浪漫」](http://www.acfun.cn/v/ac45648030)
 
++ [Thumbs up](http://www.acfun.cn/v/ac45657982)
+
++ [240秒记录第一次装修全过程，耗时七个月。](http://www.acfun.cn/v/ac45649939)
+
++ [1343期：一不小心，屁股冒烟，看着都疼](http://www.acfun.cn/v/ac45655522)
+
++ [New Thang](http://www.acfun.cn/v/ac45657877)
+
