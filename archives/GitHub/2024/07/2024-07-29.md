@@ -33,3 +33,25 @@
 
 + [lizongying / my-tv](https://github.com/lizongying/my-tv)
 
++ [freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs)
+
++ [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+
++ [miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [localsend / localsend](https://github.com/localsend/localsend)
+
++ [alpkeskin / mosint](https://github.com/alpkeskin/mosint)
+
++ [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
+
++ [gchq / CyberChef](https://github.com/gchq/CyberChef)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
+
++ [recloudstream / cloudstream](https://github.com/recloudstream/cloudstream)
+

@@ -201,3 +201,17 @@
 
 + [高通三星都不行！华为怒告联发科专利侵权底气：全球5G标准必要专利第一](https://www.3dmgame.com/news/202407/3900587.html)
 
++ [开放世界温馨种田游戏《丰登之日》结束抢先体验发布正式版，现已登陆PC和主机平台](https://www.3dmgame.com/news/202407/3900593.html)
+
++ [二战机甲肉鸽策略游戏《铁锈风云》在Steam平台推出免费试玩版](https://www.3dmgame.com/news/202407/3900594.html)
+
++ [肉鸽采矿动作游戏《穹顶守护者》发布重大更新，规模空前！](https://www.3dmgame.com/news/202407/3900592.html)
+
++ [乔布斯为何50亿美金设计苹果飞船总部：因练习中国书法等](https://www.3dmgame.com/news/202407/3900591.html)
+
++ [RTX4070及以上显卡严重缺货：美光GDDR6X显存不合格](https://www.3dmgame.com/news/202407/3900590.html)
+
++ [《幻兽帕鲁》新更新上线 修复调整部分问题](https://www.3dmgame.com/news/202407/3900589.html)
+
++ [《变形金刚：起源》确认引进 擎天柱威震天决裂 大银幕见证传奇起源](https://www.3dmgame.com/news/202407/3900588.html)
+

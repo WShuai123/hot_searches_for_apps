@@ -65,3 +65,5 @@
 
 + [《国家网络身份认证公共服务管理办法（征求意见稿）》发布](https://www.freebuf.com/news/407241.html)
 
++ [USRC挖洞夏令营 | 青春激荡，安全护航](https://www.freebuf.com/fevents/407273.html)
+

@@ -225,3 +225,13 @@
 
 + [AirFreight SaaS - Aircraft Freight Dashboard](https://dribbble.com/shots/)
 
++ [Supplement Product Card Design](https://dribbble.com/shots/)
+
++ [Vajdica](https://dribbble.com/shots/)
+
++ [❤️Dribblin' & Spinnin' - ????????](https://dribbble.com/shots/)
+
++ [Personal AI assistant: motion and visual identity](https://dribbble.com/shots/)
+
++ [Fósforo Mezcal](https://dribbble.com/shots/)
+

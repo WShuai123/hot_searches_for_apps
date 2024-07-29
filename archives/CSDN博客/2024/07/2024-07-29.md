@@ -259,3 +259,5 @@
 
 + [[Day 37] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140698274)
 
++ [C# 获取 Excel 文件的所有文本数据内容](https://blog.csdn.net/michaelline/article/details/140766026)
+
