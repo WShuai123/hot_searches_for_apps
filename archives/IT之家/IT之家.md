@@ -45,3 +45,7 @@
 
 + [华为 CD28-S 终端配件通过星闪认证：预计为星跃鼠标 GT ，有望近期上市](https://m.ithome.com/html/784763.htm)
 
++ [消息称某国产自研芯片基于中芯国际工艺打造：等效 5nm，性能设定高通骁龙 8 Gen2 水平](https://m.ithome.com/html/784838.htm)
+
++ [众筹价 169 元，小米米家首款电磨笔发布：可用于木艺雕刻、玉器抛光](https://m.ithome.com/html/784836.htm)
+

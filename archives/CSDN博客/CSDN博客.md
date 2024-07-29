@@ -237,3 +237,9 @@
 
 + [【虚拟化】KVM概念和架构](https://blog.csdn.net/qq_35995514/article/details/140755412)
 
++ [基于FPGA的数字信号处理（19）--行波进位加法器](https://blog.csdn.net/wuzhikaidetb/article/details/140762462)
+
++ [深度 | LLM会吃了开发人员吗？](https://blog.csdn.net/m0_70839135/article/details/140690867)
+
++ [数据开发/数仓工程师上手指南(三)数仓构建流程](https://blog.csdn.net/master_hunter/article/details/140763930)
+
