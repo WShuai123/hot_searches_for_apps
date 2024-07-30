@@ -273,3 +273,9 @@
 
 + [AMD Ryzen 5000XT系列也推迟发售了?](https://www.3dmgame.com/news/202407/3900689.html)
 
++ [传《复联5》唐尼片酬远高于8000万美元 明年Q2开拍](https://www.3dmgame.com/news/202407/3900692.html)
+
++ [本田日产三菱建立联盟 集中资源追赶电动车对手](https://www.3dmgame.com/news/202407/3900690.html)
+
++ [Capcom《生化危机》系列累计销量超过了1.6亿份](https://www.3dmgame.com/news/202407/3900691.html)
+

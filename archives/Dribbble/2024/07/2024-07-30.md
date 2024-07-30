@@ -229,3 +229,21 @@
 
 + [5000 Celebration](https://dribbble.com/shots/)
 
++ [Unused P Lettermark](https://dribbble.com/shots/)
+
++ [Griffin](https://dribbble.com/shots/)
+
++ [JoCreate.AI - Web Design for NFT Collection Creation Service](https://dribbble.com/shots/)
+
++ [Stairs](https://dribbble.com/shots/)
+
++ [South America](https://dribbble.com/shots/)
+
++ [Investments Website](https://dribbble.com/shots/)
+
++ [Eyeball Branding. Social Media Design](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [Page Hero / Filters / Segmented Control](https://dribbble.com/shots/)
+
