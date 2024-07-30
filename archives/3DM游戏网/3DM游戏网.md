@@ -271,3 +271,5 @@
 
 + [腾讯推出新自研AI引擎：游戏研发效率提升超40倍](https://www.3dmgame.com/news/202407/3900687.html)
 
++ [AMD Ryzen 5000XT系列也推迟发售了?](https://www.3dmgame.com/news/202407/3900689.html)
+
