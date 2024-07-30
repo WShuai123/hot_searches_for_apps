@@ -145,3 +145,7 @@
 
 + [使用 Python 中的 ELSER 进行Serverless 语义搜索：探索夏季奥运会历史](https://blog.csdn.net/UbuntuTouch/article/details/140770958)
 
++ [利用 Python 和 IPIDEA：跨境电商与数据采集的完美解决方案](https://blog.csdn.net/qq_44273429/article/details/140790134)
+
++ [JavaScript实现清单应用](https://blog.csdn.net/2302_80067378/article/details/140757744)
+

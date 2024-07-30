@@ -39,3 +39,5 @@
 
 + [先于发布会，华为 nova Flip 折叠屏手机官宣 8 月 5 日 19:00 亮相](https://m.ithome.com/html/784876.htm)
 
++ [“仅退款”引发争议，多平台优化调整：更公允的规则要来了](https://m.ithome.com/html/785018.htm)
+

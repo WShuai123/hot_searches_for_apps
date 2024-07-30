@@ -57,3 +57,7 @@
 
 + [Chrome v8漏洞CVE-2023-2033分析](https://www.freebuf.com/vuls/406790.html)
 
++ [网络安全行业所谓的跳槽，只是从一个坑跳到另一个坑](https://www.freebuf.com/news/407339.html)
+
++ [iOS 18.1测试版可抢先体验苹果AI，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
+
