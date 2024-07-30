@@ -205,3 +205,35 @@
 
 + [不仅英国卖不动 PSVR2官方促销直降200美元](https://www.3dmgame.com/news/202407/3900651.html)
 
++ [steam塔防游戏节史低游戏推荐 喜欢塔防游戏的别错过啦](https://www.3dmgame.com/news/202407/3900671.html)
+
++ [《Ai Vpet / 守护与智友》：二次元新宠，8月2日Steam上线，限时优惠仅9.9元](https://www.3dmgame.com/news/202407/3900668.html)
+
++ [漫改动画《地缚少年花子君》第二季预告放出 2025年1月开播](https://www.3dmgame.com/news/202407/3900670.html)
+
++ [日本玩家主播测试新版万元大钞发生率 百连抽奖结果喜人](https://www.3dmgame.com/news/202407/3900667.html)
+
++ [Meta虚拟现实部门被曝频繁更换领导 高层对技术完全不懂](https://www.3dmgame.com/news/202407/3900669.html)
+
++ [“ATLUS Exclusive《暗喻幻想：ReFantazio》角色篇”现已公开](https://www.3dmgame.com/news/202407/3900666.html)
+
++ [《索尼克×夏特 世代重启》全新关卡介绍！](https://www.3dmgame.com/news/202407/3900665.html)
+
++ [《圣剑传说Visions of Mana》试玩版全平台上线 可获得特典奖励](https://www.3dmgame.com/news/202407/3900664.html)
+
++ [合作沙盒生存游戏《在云中》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3900663.html)
+
++ [数毛社发现原版固件Xbox One无法安装最新更新](https://www.3dmgame.com/news/202407/3900662.html)
+
++ [射击类银河战士恶魔城游戏《狂怒之枪》Steam页面 年内发售](https://www.3dmgame.com/news/202407/3900661.html)
+
++ [《Zero Hour》正式版8月登陆Steam 战术FPS](https://www.3dmgame.com/news/202407/3900660.html)
+
++ [《巫师》剧集第四季希里外观将发生巨大改变 更接近游戏造型](https://www.3dmgame.com/news/202407/3900659.html)
+
++ [《暗喻幻想》新视频 游戏总结亲自介绍重要角色](https://www.3dmgame.com/news/202407/3900658.html)
+
++ [浮世绘风格《怪化猫》剧场版三部曲计划公布 官方推《怪化猫：唐伞》特别预告](https://www.3dmgame.com/news/202407/3900657.html)
+
++ [英伟达一台GPU服务器就要2200万！一年轻松上万亿](https://www.3dmgame.com/news/202407/3900656.html)
+

@@ -155,3 +155,7 @@
 
 + [GaussDB关键技术原理|高可用：逻辑复制](https://blog.csdn.net/GaussDB/article/details/140372332)
 
++ [【Qwen-Audio部署实战】Qwen-Audio-Chat模型之FastApi部署实战](https://blog.csdn.net/xiaobing259/article/details/140776030)
+
++ [JDK 8 升级 17 及 springboot 2.x 升级 3.x 指南](https://blog.csdn.net/footless_bird/article/details/140770320)
+

@@ -63,3 +63,7 @@
 
 + [drs-malware-scan：利用AWS服务对本地服务器执行恶意软件扫描](https://www.freebuf.com/sectool/406215.html)
 
++ [帮会费提现优惠活动开启！](https://www.freebuf.com/fevents/407200.html)
+
++ [iOS 18.1发布苹果AI测试版，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
+
