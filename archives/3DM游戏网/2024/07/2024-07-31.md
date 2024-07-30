@@ -105,3 +105,7 @@
 
 + [《七龙珠 电光炸裂！ZERO》新预告和截图 10月11日发售](https://www.3dmgame.com/news/202407/3900697.html)
 
++ [Leaf社传奇视觉小说《To Heart》将进行重制](https://www.3dmgame.com/news/202407/3900699.html)
+
++ [《传颂之物：斩》PC版2025年推出 支持中文](https://www.3dmgame.com/news/202407/3900700.html)
+
