@@ -101,3 +101,7 @@
 
 + [《第一后裔》终极水妹和红色皮肤将推出 性感火辣湿身](https://www.3dmgame.com/news/202407/3900640.html)
 
++ [视觉小说游戏《塞莱斯蒂亚：命运之链》9月12日发售 支持试玩](https://www.3dmgame.com/news/202407/3900698.html)
+
++ [《七龙珠 电光炸裂！ZERO》新预告和截图 10月11日发售](https://www.3dmgame.com/news/202407/3900697.html)
+

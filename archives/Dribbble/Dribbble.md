@@ -49,3 +49,51 @@
 
 + [*MM Vol.VI](https://dribbble.com/shots/)
 
++ [Unused P Lettermark](https://dribbble.com/shots/)
+
++ [Griffin](https://dribbble.com/shots/)
+
++ [Logo Design Part Two for Ai Tool (Unused for Sale)](https://dribbble.com/shots/)
+
++ [JoCreate.AI - Web Design for NFT Collection Creation Service](https://dribbble.com/shots/)
+
++ [Plasma Transaction UI Animation](https://dribbble.com/shots/)
+
++ [Vantyr — Logo Design](https://dribbble.com/shots/)
+
++ [Task Management App](https://dribbble.com/shots/)
+
++ [36 days of type - 2020](https://dribbble.com/shots/)
+
++ [Investments Website](https://dribbble.com/shots/)
+
++ [Terlice - Dashboard Finance Component](https://dribbble.com/shots/)
+
++ [Burch Supply Co Heritage Script](https://dribbble.com/shots/)
+
++ [Animated 3D Illustrations for a Pharmaceutical Company](https://dribbble.com/shots/)
+
++ [South America](https://dribbble.com/shots/)
+
++ [Stairs](https://dribbble.com/shots/)
+
++ [Sunovit(products)](https://dribbble.com/shots/)
+
++ [Creative Runner Logo](https://dribbble.com/shots/)
+
++ [Eyeball Branding. Social Media Design](https://dribbble.com/shots/)
+
++ [Workload](https://dribbble.com/shots/)
+
++ [Voum app design](https://dribbble.com/shots/)
+
++ [Singapure Airlines | Gen Z Avatars](https://dribbble.com/shots/)
+
++ [Jewelry Ecommerce Web Design](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [UXBoost AI - Website design for the UX analytical platform](https://dribbble.com/shots/)
+
++ [2D Illustrations for Crypto Platform](https://dribbble.com/shots/)
+

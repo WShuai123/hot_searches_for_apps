@@ -201,3 +201,7 @@
 
 + [西瓜视频-看短剧](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [腾讯体育-看奥运NBA足球](https://itunes.apple.com/cn/app/id570608623?mt=8)
+
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+
