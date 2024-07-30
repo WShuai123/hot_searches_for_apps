@@ -159,3 +159,7 @@
 
 + [JDK 8 升级 17 及 springboot 2.x 升级 3.x 指南](https://blog.csdn.net/footless_bird/article/details/140770320)
 
++ [【AI大模型】：结合wxauto实现智能微信聊天机器人](https://blog.csdn.net/dh45498/article/details/140782588)
+
++ [仓颉编程语言中的泛型探究【泛型概述、泛型函数、泛型接口】](https://blog.csdn.net/weixin_52908342/article/details/140769417)
+

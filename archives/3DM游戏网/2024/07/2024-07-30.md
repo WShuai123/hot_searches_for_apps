@@ -237,3 +237,13 @@
 
 + [英伟达一台GPU服务器就要2200万！一年轻松上万亿](https://www.3dmgame.com/news/202407/3900656.html)
 
++ [steam塔防游戏节正式开启！超多游戏史低，还有免费头像框领取](https://www.3dmgame.com/news/202407/3900676.html)
+
++ [美服Switch限时促销 订阅年费会员获赠黄金积分奖励](https://www.3dmgame.com/news/202407/3900673.html)
+
++ [曝iPhone SE 4蓄势待发：京东方主供 LG二供](https://www.3dmgame.com/news/202407/3900675.html)
+
++ [《装甲核心6》将制作TRPG 预定2025年推出](https://www.3dmgame.com/news/202407/3900674.html)
+
++ [AMD发布二代帧生成AFMF2 延迟骤降28％](https://www.3dmgame.com/news/202407/3900672.html)
+
