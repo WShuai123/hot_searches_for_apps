@@ -55,3 +55,7 @@
 
 + [奇瑞 QQ 冰淇淋、小蚂蚁部分车型高享 4 万元补贴，补贴后售 1.69 万元起](https://m.ithome.com/html/785080.htm)
 
++ [8 月 5 日开售，华为 nova Flip 折叠屏手机开启预订：四种配色、最高 12GB+512GB](https://m.ithome.com/html/785145.htm)
+
++ [苹果 iOS 18 和 iPadOS 18 公测版 Beta 2 更新发布](https://m.ithome.com/html/784995.htm)
+

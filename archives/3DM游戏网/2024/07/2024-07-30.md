@@ -279,3 +279,7 @@
 
 + [Capcom《生化危机》系列累计销量超过了1.6亿份](https://www.3dmgame.com/news/202407/3900691.html)
 
++ [《真人快打1》总监：将提供多年的内容支持](https://www.3dmgame.com/news/202407/3900694.html)
+
++ [《如龙》游戏总监：真人剧很精彩 第一集有意想不到的转折](https://www.3dmgame.com/news/202407/3900693.html)
+
