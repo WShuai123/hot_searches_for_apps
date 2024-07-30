@@ -49,3 +49,5 @@
 
 + [苹果 AI 版 iOS 首日火爆：聊天秒变高情商，大模型成最强嘴替，Siri 华丽变身](https://m.ithome.com/html/785121.htm)
 
++ [看着都疼！周鸿祎实测埃安昊铂“车门防夹”功能结果惨遭夹手](https://m.ithome.com/html/785155.htm)
+

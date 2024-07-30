@@ -267,3 +267,7 @@
 
 + [AI公司不断开发新爬虫绕过阻拦 网站运营跟不上](https://www.3dmgame.com/news/202407/3900683.html)
 
++ [多地网友吐槽小米SU7交付太慢 雷军：我催一下](https://www.3dmgame.com/news/202407/3900688.html)
+
++ [腾讯推出新自研AI引擎：游戏研发效率提升超40倍](https://www.3dmgame.com/news/202407/3900687.html)
+
