@@ -247,3 +247,15 @@
 
 + [AMD发布二代帧生成AFMF2 延迟骤降28％](https://www.3dmgame.com/news/202407/3900672.html)
 
++ [国外网友热议：让你很后悔购买的游戏是哪些？](https://www.3dmgame.com/news/202407/3900682.html)
+
++ [1080P显示器份额首次跌破50% 2K将成主流 你升级了吗？](https://www.3dmgame.com/news/202407/3900681.html)
+
++ [2023年中国电竞市场规模约为1664亿 电竞企业超9万](https://www.3dmgame.com/news/202407/3900680.html)
+
++ [Steam最新一周销量榜 Steam Deck三连冠登顶](https://www.3dmgame.com/news/202407/3900679.html)
+
++ [CWA游戏开发者工会表示：全力支持演员工会罢工维权](https://www.3dmgame.com/news/202407/3900678.html)
+
++ [曝瑞幸将与《黑神话》联动 产品名为黑神话腾云美式](https://www.3dmgame.com/news/202407/3900677.html)
+
