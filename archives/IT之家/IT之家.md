@@ -47,3 +47,5 @@
 
 + [消息称“某厂”小屏影像旗舰配备 50Mp 索尼定制超大底主摄 + 3X 中底长焦，预计为 vivo X200 标准版手机](https://m.ithome.com/html/785062.htm)
 
++ [苹果 AI 版 iOS 首日火爆：聊天秒变高情商，大模型成最强嘴替，Siri 华丽变身](https://m.ithome.com/html/785121.htm)
+

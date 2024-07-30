@@ -191,3 +191,39 @@
 
 + [good times / thick lines](https://dribbble.com/shots/)
 
++ [Logo Design Part Two for Ai Tool (Unused for Sale)](https://dribbble.com/shots/)
+
++ [36 days of type - 2020](https://dribbble.com/shots/)
+
++ [Vantyr — Logo Design](https://dribbble.com/shots/)
+
++ [Atomic VPN website hero](https://dribbble.com/shots/)
+
++ [Creative Runner Logo](https://dribbble.com/shots/)
+
++ [UXBoost AI - Website design for the UX analytical platform](https://dribbble.com/shots/)
+
++ [Sunovit(products)](https://dribbble.com/shots/)
+
++ [Dreamboat logo design (unused)](https://dribbble.com/shots/)
+
++ [Plasma Transaction UI Animation](https://dribbble.com/shots/)
+
++ [Editorial illustrations for the web article. Сoliseum](https://dribbble.com/shots/)
+
++ [Terlice - Dashboard Finance Component](https://dribbble.com/shots/)
+
++ [Ape Terminal: launchpad](https://dribbble.com/shots/)
+
++ [Animated 3D Illustrations for a Pharmaceutical Company](https://dribbble.com/shots/)
+
++ [Voum app design](https://dribbble.com/shots/)
+
++ [Task Management App](https://dribbble.com/shots/)
+
++ [Website design for Architecture and design Studio, mobile](https://dribbble.com/shots/)
+
++ [Food Delivery Illustration pack volume 02](https://dribbble.com/shots/)
+
++ [S logo](https://dribbble.com/shots/)
+

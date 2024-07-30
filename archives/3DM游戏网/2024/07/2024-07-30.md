@@ -259,3 +259,11 @@
 
 + [曝瑞幸将与《黑神话》联动 产品名为黑神话腾云美式](https://www.3dmgame.com/news/202407/3900677.html)
 
++ [《Drawful 2》Steam限时免费发布 好评益智解谜](https://www.3dmgame.com/news/202407/3900686.html)
+
++ [《Apex英雄》8月6日登陆Epic商店 免费领取英雄“导线管”](https://www.3dmgame.com/news/202407/3900685.html)
+
++ [达美航空因蓝屏取消近7000航班 计划向微软等索赔](https://www.3dmgame.com/news/202407/3900684.html)
+
++ [AI公司不断开发新爬虫绕过阻拦 网站运营跟不上](https://www.3dmgame.com/news/202407/3900683.html)
+

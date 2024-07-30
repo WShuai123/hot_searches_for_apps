@@ -37,3 +37,23 @@
 
 + [recloudstream / cloudstream](https://github.com/recloudstream/cloudstream)
 
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [microsoft / autogen](https://github.com/microsoft/autogen)
+
++ [lizongying / my-tv](https://github.com/lizongying/my-tv)
+
++ [c3lang / c3c](https://github.com/c3lang/c3c)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [GyulyVGC / sniffnet](https://github.com/GyulyVGC/sniffnet)
+
++ [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
++ [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
+
++ [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
+
++ [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
+
