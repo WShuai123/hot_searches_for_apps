@@ -123,3 +123,11 @@
 
 + [《圣剑传说 Visions of Mana》精灵器系统介绍视频](https://www.3dmgame.com/news/202407/3900612.html)
 
++ [《无限暖暖》新实机演示视频 美女换装乐趣多多](https://www.3dmgame.com/news/202407/3900618.html)
+
++ [《代号：锦衣卫》新实机演示视频 动作连招丰富](https://www.3dmgame.com/news/202407/3900617.html)
+
++ [《影之刃零》CJ展回放视频 在PS5上已达到2K/60帧](https://www.3dmgame.com/news/202407/3900616.html)
+
++ [种田游戏《贸易物语》PS和Switch版众筹成功](https://www.3dmgame.com/news/202407/3900615.html)
+

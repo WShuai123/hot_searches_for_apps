@@ -25,3 +25,7 @@
 
 + [华为余承东：AITO 问界 8 月将迎来 ADS 3.0 版本，具备融合端到端能力](https://m.ithome.com/html/784811.htm)
 
++ [苹果牌“AI”首测、通话录音上线！iOS 18.1 开发者预览版 Beta 发布，iPhone 15 Pro / Max 独享](https://m.ithome.com/html/784988.htm)
+
++ [国家广电总局：上半年电视“套娃”收费各指标合格率均超过 96%，下半年全面实现“一个遥控器看电视”](https://m.ithome.com/html/784980.htm)
+
