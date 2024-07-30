@@ -143,3 +143,5 @@
 
 + [代码实践思考：C++和Python](https://blog.csdn.net/ZhangRelay/article/details/140776213)
 
++ [使用 Python 中的 ELSER 进行Serverless 语义搜索：探索夏季奥运会历史](https://blog.csdn.net/UbuntuTouch/article/details/140770958)
+

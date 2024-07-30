@@ -195,3 +195,13 @@
 
 + [《漫威1943：九头蛇崛起》将由Plaion负责发行 2025年发售](https://www.3dmgame.com/news/202407/3900626.html)
 
++ [《黑相集》门面“管理者”演员Tony Pankhurst去世 享年67岁](https://www.3dmgame.com/news/202407/3900655.html)
+
++ [《极限竞速：地平线》开发商Playground Games开设新工作室 专门开发《神鬼寓言》](https://www.3dmgame.com/news/202407/3900652.html)
+
++ [模拟游戏《孤独的独立游戏开发者的一生》公布 只有独立游戏开发者懂的苦](https://www.3dmgame.com/news/202407/3900654.html)
+
++ [任天堂版PS手柄8月拍卖 当年两巨头罕见合体的沧海遗珠](https://www.3dmgame.com/news/202407/3900653.html)
+
++ [不仅英国卖不动 PSVR2官方促销直降200美元](https://www.3dmgame.com/news/202407/3900651.html)
+
