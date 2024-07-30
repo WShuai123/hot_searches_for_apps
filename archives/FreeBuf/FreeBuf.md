@@ -61,3 +61,5 @@
 
 + [iOS 18.1测试版可抢先体验苹果AI，曾因隐私问题遭吐槽](https://www.freebuf.com/news/407302.html)
 
++ [drs-malware-scan：利用AWS服务对本地服务器执行恶意软件扫描](https://www.freebuf.com/sectool/406215.html)
+

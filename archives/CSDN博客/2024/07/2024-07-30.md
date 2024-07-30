@@ -149,3 +149,9 @@
 
 + [JavaScript实现清单应用](https://blog.csdn.net/2302_80067378/article/details/140757744)
 
++ [html+css+js 实现马赛克背景按钮](https://blog.csdn.net/qq_33650655/article/details/140702919)
+
++ [【Linux系列】Unix 和类 Unix 系统中的信号处理：SIGINT 与 SIGHUP](https://blog.csdn.net/qyj19920704/article/details/140734226)
+
++ [GaussDB关键技术原理|高可用：逻辑复制](https://blog.csdn.net/GaussDB/article/details/140372332)
+

@@ -41,3 +41,5 @@
 
 + [“仅退款”引发争议，多平台优化调整：更公允的规则要来了](https://m.ithome.com/html/785018.htm)
 
++ [小米首发搭载，高通发布骁龙 4s Gen 2 芯片：进一步下探 5G 手机价格](https://m.ithome.com/html/785081.htm)
+
