@@ -25,3 +25,5 @@
 
 + [苹果 iOS 18 和 iPadOS 18 公测版 Beta 2 更新发布](https://m.ithome.com/html/784995.htm)
 
++ [仅限非国行机型：苹果 iPhone 15 Pro 和 Pro Max 用户均可访问 Apple Intelligence](https://m.ithome.com/html/785210.htm)
+

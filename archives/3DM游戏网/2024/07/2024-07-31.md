@@ -113,3 +113,5 @@
 
 + [类银河战士恶魔城新作《地穴管理员》8/27推出](https://www.3dmgame.com/news/202407/3900701.html)
 
++ [《我的世界》联动《俄罗斯方块》DLC现已上线](https://www.3dmgame.com/news/202407/3900703.html)
+
