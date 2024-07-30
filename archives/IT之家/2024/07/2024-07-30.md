@@ -31,3 +31,5 @@
 
 + [苹果 iOS 17.6 正式版发布，错误修复和安全更新](https://m.ithome.com/html/784990.htm)
 
++ [消息称华为 nova Flip 折叠屏手机拥有四种内存版本，内置 66W 全能充](https://m.ithome.com/html/784973.htm)
+

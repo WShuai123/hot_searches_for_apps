@@ -135,3 +135,7 @@
 
 + [【C#】.net core 6.0 webapi 使用core版本的NPOI的Excel读取数据以及保存数据](https://blog.csdn.net/lmy_520/article/details/140771537)
 
++ [红杉资本视角：大公司在AI领域的投资策略与市场影响](https://blog.csdn.net/u012842807/article/details/140701224)
+
++ [鸿蒙开发—黑马云音乐之Music页面](https://blog.csdn.net/m0_74748236/article/details/140780723)
+
