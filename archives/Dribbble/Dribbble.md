@@ -101,3 +101,9 @@
 
 + [Doc Brown Farm & Distillers](https://dribbble.com/shots/)
 
++ [AI assistant — Untitled UI](https://dribbble.com/shots/)
+
++ [EyeWiz Mascot project](https://dribbble.com/shots/)
+
++ [Music event poster](https://dribbble.com/shots/)
+

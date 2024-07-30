@@ -109,3 +109,7 @@
 
 + [《传颂之物：斩》PC版2025年推出 支持中文](https://www.3dmgame.com/news/202407/3900700.html)
 
++ [《燧石枪：黎明之围》近两周吸引超50万玩家体验](https://www.3dmgame.com/news/202407/3900702.html)
+
++ [类银河战士恶魔城新作《地穴管理员》8/27推出](https://www.3dmgame.com/news/202407/3900701.html)
+
