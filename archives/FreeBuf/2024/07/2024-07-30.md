@@ -45,3 +45,5 @@
 
 + [利用 CVE-2024-21412 进行窃密的攻击激增](https://www.freebuf.com/articles/network/407168.html)
 
++ [渗透测试 | 黑白盒某门诊挂号漏洞挖掘经验分享](https://www.freebuf.com/articles/web/406564.html)
+

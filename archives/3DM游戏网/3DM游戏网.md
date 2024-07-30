@@ -131,3 +131,17 @@
 
 + [种田游戏《贸易物语》PS和Switch版众筹成功](https://www.3dmgame.com/news/202407/3900615.html)
 
++ [《星空》第二款故事资料片可能叫Starborn](https://www.3dmgame.com/news/202407/3900619.html)
+
++ [《光与影：33号远征队》新细节 故事灵感来自《进击的巨人》](https://www.3dmgame.com/news/202407/3900621.html)
+
++ [全新平台 现象级游戏《小丑牌》已可运行初代《毁灭战士》](https://www.3dmgame.com/news/202407/3900625.html)
+
++ [《最后的生还者》剧集第二季新片场照 艾莉和杰西亮相](https://www.3dmgame.com/news/202407/3900624.html)
+
++ [《辐射：伦敦》Mod团队承诺 会尽快修复目前主要问题](https://www.3dmgame.com/news/202407/3900623.html)
+
++ [Steam塔防游戏节开启 多款新旧游戏打折优惠](https://www.3dmgame.com/news/202407/3900622.html)
+
++ [《三国志8重制版》曹操和赵云角色介绍 子龙一身是胆](https://www.3dmgame.com/news/202407/3900620.html)
+
