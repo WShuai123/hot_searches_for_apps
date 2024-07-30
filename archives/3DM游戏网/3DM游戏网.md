@@ -115,3 +115,11 @@
 
 + [《我的世界》联动《俄罗斯方块》DLC现已上线](https://www.3dmgame.com/news/202407/3900703.html)
 
++ [《绝地潜兵2》即将推出全新火焰武器和机甲](https://www.3dmgame.com/news/202407/3900707.html)
+
++ [《SNK VS. CAPCOM SVC CHAOS》将推出实体版](https://www.3dmgame.com/news/202407/3900706.html)
+
++ [浪漫奇幻视觉小说《塞莱斯蒂亚：命运之链》9月发售](https://www.3dmgame.com/news/202407/3900705.html)
+
++ [《超级猴子球 香蕉大乱斗》将加入更多角色模式和关卡](https://www.3dmgame.com/news/202407/3900704.html)
+

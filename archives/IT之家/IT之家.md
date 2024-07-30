@@ -27,3 +27,5 @@
 
 + [仅限非国行机型：苹果 iPhone 15 Pro 和 Pro Max 用户均可访问 Apple Intelligence](https://m.ithome.com/html/785210.htm)
 
++ [小米汽车：目前不支持哨兵模式触发报警后只推送通知，不闪烁车灯](https://m.ithome.com/html/785023.htm)
+
