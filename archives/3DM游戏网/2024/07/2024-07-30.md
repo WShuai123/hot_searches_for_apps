@@ -145,3 +145,53 @@
 
 + [《三国志8重制版》曹操和赵云角色介绍 子龙一身是胆](https://www.3dmgame.com/news/202407/3900620.html)
 
++ [提前偷跑预告视频 IGN认错向《异环》开发团队道歉](https://www.3dmgame.com/news/202407/3900649.html)
+
++ [SpaceX星舰第5次试飞时间公布 最早8月底](https://www.3dmgame.com/news/202407/3900647.html)
+
++ [《前方高能》“最终更新”上线 其他平台版本开发中](https://www.3dmgame.com/news/202407/3900648.html)
+
++ [《Cliche》8月登陆Steam 异界转生开放世界ARPG](https://www.3dmgame.com/news/202407/3900645.html)
+
++ [模拟经营游戏《日落汽车旅馆》现已在Steam平台推出序章试玩版 获好评](https://www.3dmgame.com/news/202407/3900646.html)
+
++ [生存类MMO《天域安宁》开发者：游戏目前更像《英灵神殿》而非《魔兽世界》](https://www.3dmgame.com/news/202407/3900644.html)
+
++ [《使命召唤：现代战争3》登陆XGP后 外挂数量暴增](https://www.3dmgame.com/news/202407/3900643.html)
+
++ [系列开发者称：《马里奥和索尼克奥运会》系列已经完结](https://www.3dmgame.com/news/202407/3900641.html)
+
++ [华为Mate 70部分细节曝光 发布时间或晚于对手](https://www.3dmgame.com/news/202407/3900650.html)
+
++ [卡牌策略游戏《代号肉鸽：流放之地》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3900642.html)
+
++ [《第一后裔》终极水妹和红色皮肤将推出 性感火辣湿身](https://www.3dmgame.com/news/202407/3900640.html)
+
++ [东方Project夏季游戏节开幕 多款新旧同人游戏登场](https://www.3dmgame.com/news/202407/3900639.html)
+
++ [《地牢完毕》Steam页面上线 经典合作迷宫探索](https://www.3dmgame.com/news/202407/3900629.html)
+
++ [《雾锁王国》最新大型7.3.0版本更新“重返迷雾”现已上线](https://www.3dmgame.com/news/202407/3900637.html)
+
++ [砍杀类动作游戏《俄罗斯人对蜥蜴人2》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3900638.html)
+
++ [《咩咩启示录》宣布双人合作模式将于8月12日上线](https://www.3dmgame.com/news/202407/3900635.html)
+
++ [拉锯战RTS游戏《兵团突击：现代战争》8月12日发售](https://www.3dmgame.com/news/202407/3900636.html)
+
++ [外媒称OpenAI今年将亏损50亿美元：ChatGPT太烧钱了](https://www.3dmgame.com/news/202407/3900633.html)
+
++ [《哈利·波特：魁地奇锦标赛》新预告 9月3日发售](https://www.3dmgame.com/news/202407/3900634.html)
+
++ [《第9层：开始》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202407/3900631.html)
+
++ [像素风格战术游戏《外星入侵：自走棋》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202407/3900632.html)
+
++ [《Apex英雄》差评轰炸还未停歇 Steam在线降至2022年1月低点](https://www.3dmgame.com/news/202407/3900630.html)
+
++ [《EA Sports FC 25》发布全新“Rush”游戏模式深入解读预告](https://www.3dmgame.com/news/202407/3900627.html)
+
++ [海外版“你画我猜”《Drawful 2》开启Steam平台限免活动 又能喜加一](https://www.3dmgame.com/news/202407/3900628.html)
+
++ [《漫威1943：九头蛇崛起》将由Plaion负责发行 2025年发售](https://www.3dmgame.com/news/202407/3900626.html)
+

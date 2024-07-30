@@ -139,3 +139,7 @@
 
 + [鸿蒙开发—黑马云音乐之Music页面](https://blog.csdn.net/m0_74748236/article/details/140780723)
 
++ [图像生成中图像质量评估指标—Chamfer Distance介绍](https://blog.csdn.net/u013889591/article/details/140693908)
+
++ [代码实践思考：C++和Python](https://blog.csdn.net/ZhangRelay/article/details/140776213)
+

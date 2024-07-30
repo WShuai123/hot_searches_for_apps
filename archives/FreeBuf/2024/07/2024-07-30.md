@@ -47,3 +47,9 @@
 
 + [渗透测试 | 黑白盒某门诊挂号漏洞挖掘经验分享](https://www.freebuf.com/articles/web/406564.html)
 
++ [OAuth+XSS组合拳，数百万Web账户或将易主](https://www.freebuf.com/news/407325.html)
+
++ [苹果AI首次亮相，因用户隐私保护问题遭“炮轰”](https://www.freebuf.com/news/407302.html)
+
++ [微软：警惕利用VMware ESXi进行身份验证绕过攻击](https://www.freebuf.com/news/407317.html)
+

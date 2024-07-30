@@ -167,3 +167,13 @@
 
 + [Digital Warfare](https://dribbble.com/shots/)
 
++ [Travel Companion Mobile App - Weather](https://dribbble.com/shots/)
+
++ [Mentor Social Network](https://dribbble.com/shots/)
+
++ [Syncrowave - CRM Website Design](https://dribbble.com/shots/)
+
++ [Zendenta - Inbox Feature in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [PASSENGER CLOTHING](https://dribbble.com/shots/)
+

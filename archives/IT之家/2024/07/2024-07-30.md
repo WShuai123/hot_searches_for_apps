@@ -33,3 +33,7 @@
 
 + [消息称华为 nova Flip 折叠屏手机拥有四种内存版本，内置 66W 全能充](https://m.ithome.com/html/784973.htm)
 
++ [号称“行业最高纪录”，深蓝汽车宣布 G318 挑战 32 米高空垂直坠落](https://m.ithome.com/html/784972.htm)
+
++ [丰田汽车董事长丰田章男：若股东支持率继续下滑，自己将可能当不成董事](https://m.ithome.com/html/784981.htm)
+
