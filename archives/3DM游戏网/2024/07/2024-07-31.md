@@ -223,3 +223,17 @@
 
 + [开罗游戏《平安古都物语》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202407/3900754.html)
 
++ [原创钓鱼题材动画《Negative Positive Angler》首曝预告片](https://www.3dmgame.com/news/202407/3900758.html)
+
++ [《索尼克×夏特 世代重启》最新预告片：介绍夏特将要展开冒险的关卡等内容](https://www.3dmgame.com/news/202407/3900759.html)
+
++ [动视回应《使命召唤》外挂激增：反作弊问题已解决](https://www.3dmgame.com/news/202407/3900761.html)
+
++ [战略游戏《银河灰暗角落》Steam页面上线 支持简中](https://www.3dmgame.com/news/202407/3900760.html)
+
++ [要把大模型拉下神坛 周鸿祎宣布360安全大模型免费](https://www.3dmgame.com/news/202407/3900762.html)
+
++ [《蜡笔小新 煤炭镇的小白》10月23日登陆Steam 支持中文](https://www.3dmgame.com/news/202407/3900763.html)
+
++ [《最终幻想7：永恒危机》官方艺图公布 9月收录新书](https://www.3dmgame.com/news/202407/3900764.html)
+

@@ -175,3 +175,17 @@
 
 + [AKQA Perspectives](https://dribbble.com/shots/)
 
++ [Mobile UI Visual](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Vital Score Rewards UI](https://dribbble.com/shots/)
+
++ [LexEdge, data-driven legal solutions logo design LE monogram](https://dribbble.com/shots/)
+
++ [Bears in negative space](https://dribbble.com/shots/)
+
++ [Elham's Liquid Gold](https://dribbble.com/shots/)
+
++ [Play Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+

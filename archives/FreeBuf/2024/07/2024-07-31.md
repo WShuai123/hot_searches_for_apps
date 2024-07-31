@@ -53,3 +53,5 @@
 
 + [kvm-fuzz：使用KVM技术对闭源用户空间二进制文件执行模糊测试](https://www.freebuf.com/sectool/406605.html)
 
++ [GenAI账户凭证被盗，暗网每日交易量达400条](https://www.freebuf.com/news/407427.html)
+
