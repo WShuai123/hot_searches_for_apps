@@ -205,3 +205,15 @@
 
 + [Ape Terminal: launchpad](https://dribbble.com/shots/)
 
++ [Otter + Watermelon](https://dribbble.com/shots/)
+
++ [Dashboard - Connections Panel](https://dribbble.com/shots/)
+
++ [Spectra dashboard](https://dribbble.com/shots/)
+
++ [Website for an Electronics Brand](https://dribbble.com/shots/)
+
++ [Wild Grazing approved logo](https://dribbble.com/shots/)
+
++ [HummAI | Logo design](https://dribbble.com/shots/)
+

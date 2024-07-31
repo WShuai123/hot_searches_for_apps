@@ -55,3 +55,5 @@
 
 + [GenAI账户凭证被盗，暗网每日交易量达400条](https://www.freebuf.com/news/407427.html)
 
++ [CCSIP 2024中国网络安全行业全景册（第七版）调研启动](https://www.freebuf.com/news/407454.html)
+

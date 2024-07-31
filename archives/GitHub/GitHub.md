@@ -35,3 +35,23 @@
 
 + [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
++ [DiceDB / dice](https://github.com/DiceDB/dice)
+
++ [LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [alexta69 / metube](https://github.com/alexta69/metube)
+
++ [microsoft / qlib](https://github.com/microsoft/qlib)
+
++ [recloudstream / cloudstream](https://github.com/recloudstream/cloudstream)
+
++ [projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei)
+
++ [ClickHouse / ClickHouse](https://github.com/ClickHouse/ClickHouse)
+
++ [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
+

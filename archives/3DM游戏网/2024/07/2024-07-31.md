@@ -267,3 +267,25 @@
 
 + [直播行业火爆！网络主播正式成国家新职业：还能享技能培训补贴](https://www.3dmgame.com/news/202407/3900776.html)
 
++ [《胡闹厨房：全都好吃》四折限时特惠开启](https://www.3dmgame.com/news/202407/3900789.html)
+
++ [《不过如此的去月球系列海滩特别篇》开发接近完成 即将正式发售](https://www.3dmgame.com/news/202407/3900782.html)
+
++ [TEAM17宣布发行沙盒约会模拟器《Date Everything》](https://www.3dmgame.com/news/202407/3900790.html)
+
++ [在全新的肉鸽自走棋战术RPG《外星入侵：自走棋》中消灭外星人并组建你的队伍](https://www.3dmgame.com/news/202407/3900787.html)
+
++ [《妖精的尾巴2》主角「纳兹」、宿敌「瑟雷夫」等多位角色情报及游戏剧情画面公开！](https://www.3dmgame.com/news/202407/3900788.html)
+
++ [探索塔防肉鸽《城堡之巅》全新更新“凤凰崛起”，极致融合策略与幻想](https://www.3dmgame.com/news/202407/3900785.html)
+
++ [《SympathyKiss 共鸣之吻》亚洲中文版发售日确定！](https://www.3dmgame.com/news/202407/3900786.html)
+
++ [拼图桌游《Cascadia》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202407/3900784.html)
+
++ [卡维尔《战锤40K》剧集面临死线：需年底前定下“创作方针”否则取消](https://www.3dmgame.com/news/202407/3900783.html)
+
++ [《喵喵大战死剩种》登陆Steam 三消即时战略塔防](https://www.3dmgame.com/news/202407/3900781.html)
+
++ [黄仁勋谈机器人及AI未来：需要三台计算机](https://www.3dmgame.com/news/202407/3900780.html)
+
