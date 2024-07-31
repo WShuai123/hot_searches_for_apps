@@ -103,3 +103,9 @@
 
 + [《死亡细胞》将迎来最终更新 3周左右发布](https://www.3dmgame.com/news/202407/3900801.html)
 
++ [犯罪剧情开放世界游戏《达愿福神社》新预告片](https://www.3dmgame.com/news/202408/3900804.html)
+
++ [索尼将成立新工作室来开发Bungie的新IP](https://www.3dmgame.com/news/202408/3900803.html)
+
++ [Bungie将裁员220人 深化与索尼互动娱乐的整合](https://www.3dmgame.com/news/202408/3900802.html)
+
