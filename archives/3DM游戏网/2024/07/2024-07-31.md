@@ -259,3 +259,11 @@
 
 + [《最终幻想14》新更新 高难度团本宝藏地下城上线](https://www.3dmgame.com/news/202407/3900775.html)
 
++ [《白蛇：浮生》“白首永偕”大婚海报 极致的浪漫](https://www.3dmgame.com/news/202407/3900779.html)
+
++ [查宁·塔图姆感谢小贱贱：十年后终于圆演“牌皇”梦](https://www.3dmgame.com/news/202407/3900778.html)
+
++ [苹果公司新专利曝光 通过检测心跳解锁设备](https://www.3dmgame.com/news/202407/3900777.html)
+
++ [直播行业火爆！网络主播正式成国家新职业：还能享技能培训补贴](https://www.3dmgame.com/news/202407/3900776.html)
+

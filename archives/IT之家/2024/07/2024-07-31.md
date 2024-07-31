@@ -53,3 +53,7 @@
 
 + [消息称某厂新系列手机采用火山口过渡设计、外置闪光灯，预计为小米 15（Pro）](https://m.ithome.com/html/785292.htm)
 
++ [长安深蓝 S05 汽车内饰公布：无仪表盘设计、横向悬浮中控屏](https://m.ithome.com/html/785204.htm)
+
++ [苹果 iPhone 16 Pro / Max 被曝支持 Wi-Fi 7：峰值速度 40 Gbps](https://m.ithome.com/html/785286.htm)
+
