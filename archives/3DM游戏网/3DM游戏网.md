@@ -129,3 +129,23 @@
 
 + [《艾尔登法环》1.13版更新介绍 多项能力调整](https://www.3dmgame.com/news/202407/3900708.html)
 
++ [免费韩游《王权与自由》新截图 俊男靓女非常养眼](https://www.3dmgame.com/news/202407/3900720.html)
+
++ [EA 2025财年第一季度财报：盈利高达12.6亿美元](https://www.3dmgame.com/news/202407/3900719.html)
+
++ [《崩坏：星穹铁道》云璃角色PV——「误打误撞」](https://www.3dmgame.com/news/202407/3900718.html)
+
++ [《Beacon of Neyda》众筹开启 策略塔防将登陆PC](https://www.3dmgame.com/news/202407/3900716.html)
+
++ [《模拟山羊：复刻版》通过评级 登陆PC和主机](https://www.3dmgame.com/news/202407/3900717.html)
+
++ [新版《超人》现已杀青 滚导发布感谢信和新片场照](https://www.3dmgame.com/news/202407/3900715.html)
+
++ [虚幻5射击游戏《黑色国度》预告 照片级逼真画面](https://www.3dmgame.com/news/202407/3900714.html)
+
++ [《黑手党：终极版》8月13日登陆Game Pass](https://www.3dmgame.com/news/202407/3900713.html)
+
++ [动视暴雪再次提振Xbox业绩 游戏创收增长了44%](https://www.3dmgame.com/news/202407/3900712.html)
+
++ [《第一后裔》Steam玩家数一个月内减少60% 凉的太快](https://www.3dmgame.com/news/202407/3900711.html)
+

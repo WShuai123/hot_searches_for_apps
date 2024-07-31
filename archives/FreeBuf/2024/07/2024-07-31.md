@@ -45,3 +45,5 @@
 
 + [浅析常见WEB安全漏洞及其防御措施](https://www.freebuf.com/articles/web/392158.html)
 
++ [应急响应 | win常见应急排查](https://www.freebuf.com/articles/es/407190.html)
+
