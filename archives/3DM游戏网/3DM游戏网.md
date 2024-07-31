@@ -297,3 +297,7 @@
 
 + [雷军称在认真学习理想华为怎么做营销：比小米好很多](https://www.3dmgame.com/news/202407/3900791.html)
 
++ [R星前总监呼吁AI革命 爆《GTA6》在使用AI生成动画](https://www.3dmgame.com/news/202407/3900796.html)
+
++ [《星球大战：法外狂徒》被批枪战简单笨重 AI反应呆滞](https://www.3dmgame.com/news/202407/3900795.html)
+

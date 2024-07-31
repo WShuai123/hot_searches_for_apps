@@ -177,3 +177,7 @@
 
 + [.NetCore里使用MailKit收发邮件](https://blog.csdn.net/x1234w4321/article/details/140608720)
 
++ [【TS】TypeScript函数类型：提升函数的类型安全性和可读性](https://blog.csdn.net/qq_44214428/article/details/140754533)
+
++ [【C++高阶】：C++11的深度解析上](https://blog.csdn.net/island1314/article/details/140804751)
+
