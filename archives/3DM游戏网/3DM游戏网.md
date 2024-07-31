@@ -177,3 +177,21 @@
 
 + [东亚游戏市场2023年创收301亿美元 日韩偏好多平台](https://www.3dmgame.com/news/202407/3900734.html)
 
++ [动视开源《使命召唤：战区》卡尔德拉地图 用于AI开发](https://www.3dmgame.com/news/202407/3900742.html)
+
++ [小米15 Pro厚度与重量曝光 配置6000mAh大电池](https://www.3dmgame.com/news/202407/3900744.html)
+
++ [暴雪老兵带队，全新免费RTS游戏《风暴之门》抢先预览即将开启！](https://www.3dmgame.com/news/202407/3900740.html)
+
++ [美国奇幻电影节宣布将举办游戏发布会 展示恐怖游戏](https://www.3dmgame.com/news/202407/3900741.html)
+
++ [电影《爱情，到此为止》宣布国内定档8月30日](https://www.3dmgame.com/news/202407/3900738.html)
+
++ [《My Friend Toby》Steam上线 恐怖逃生新游](https://www.3dmgame.com/news/202407/3900739.html)
+
++ [《雾锁王国》版本更新“重返瘴气”现已发布，新增难度设置及更多自定义内容](https://www.3dmgame.com/news/202407/3900737.html)
+
++ [风格化科幻探索冒险游戏《巨大浪潮》现已登录Steam平台](https://www.3dmgame.com/news/202407/3900736.html)
+
++ [动画电影《守龙者》定档预告 8月17日上映](https://www.3dmgame.com/news/202407/3900735.html)
+

@@ -127,3 +127,23 @@
 
 + [使用Micronaut构建高性能微服务](https://blog.csdn.net/u010405836/article/details/140674841)
 
++ [仓颉编程语言详解：高效、安全、灵活的全场景开发利器【仓颉语言接口指南大全】](https://blog.csdn.net/weixin_52908342/article/details/140759568)
+
++ [碰撞检测 | 矩形增量膨胀安全走廊模型(附C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/140808118)
+
++ [如何利用代理ip探索外国新闻视角？](https://blog.csdn.net/weixin_50843918/article/details/140789523)
+
++ [《学会 SpringMVC 系列 · 剖析篇（上）》](https://blog.csdn.net/syb513812/article/details/140809735)
+
++ [构建基于微服务的Java电商返利平台](https://blog.csdn.net/qq836869520/article/details/140700831)
+
++ [构建基于微服务的Java电子商务平台](https://blog.csdn.net/weixin_44626980/article/details/140700715)
+
++ [开闭源之争再起，计算范式迎来转变，CSDN「智研社-The Intelliger」共话大模型技术演进与 AI Infra 创新...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140786738)
+
++ [构建实时Java数据处理系统：技术与实践](https://blog.csdn.net/java666668888/article/details/140674761)
+
++ [使用Apache Spark进行Java数据分析](https://blog.csdn.net/sweetlyl006/article/details/140701091)
+
++ [科技营 智能车分组名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/140786407)
+
