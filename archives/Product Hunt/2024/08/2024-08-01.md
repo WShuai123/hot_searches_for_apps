@@ -105,3 +105,5 @@
 
 + [CopyFrog.AI](https://www.producthunt.com/posts/copyfrog-ai)
 
++ [◯˚GitStart AI Ticket Studio](https://www.producthunt.com/posts/gitstart-ai-ticket-studio)
+

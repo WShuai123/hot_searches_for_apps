@@ -101,3 +101,11 @@
 
 + [为什么阿里开发手册不建议使用Date类？](https://blog.csdn.net/guorui_java/article/details/140812809)
 
++ [http协议深度解析——网络时代的安全与效率（1）](https://blog.csdn.net/yj11290301/article/details/140830349)
+
++ [【探索Linux】P.43（网络层 —— IP协议）](https://blog.csdn.net/m0_75215937/article/details/140237776)
+
++ [使用Spring Batch实现大数据处理](https://blog.csdn.net/sweetlyl006/article/details/140674667)
+
++ [使用AI大模型Kimi轻松助力速通代理IP知识](https://blog.csdn.net/weixin_51484460/article/details/140826660)
+

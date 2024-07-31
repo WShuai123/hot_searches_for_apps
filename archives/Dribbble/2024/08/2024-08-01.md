@@ -71,3 +71,49 @@
 
 + [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
 
++ [Ticket Service. Part 3](https://dribbble.com/shots/)
+
++ [Strength of Champions](https://dribbble.com/shots/)
+
++ [Logo Designs - Unused For Sale](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Otter + Watermelon](https://dribbble.com/shots/)
+
++ [Icons](https://dribbble.com/shots/)
+
++ [Website for an Electronics Brand](https://dribbble.com/shots/)
+
++ [Design Interaction for Travel App](https://dribbble.com/shots/)
+
++ [Pillars - SRE Platform Website Presentation](https://dribbble.com/shots/)
+
++ [Prosper - Investment Landing Page](https://dribbble.com/shots/)
+
++ [Elham's Liquid Gold](https://dribbble.com/shots/)
+
++ [Spritz](https://dribbble.com/shots/)
+
++ [Online Bank — Web Dashboard UI Design](https://dribbble.com/shots/)
+
++ [Dashboard - Connections Panel](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Mobile UI Visual](https://dribbble.com/shots/)
+
++ [Your MVP](https://dribbble.com/shots/)
+
++ [HyperBridge - animation](https://dribbble.com/shots/)
+
++ [TWIN wordmark](https://dribbble.com/shots/)
+
++ [Ape Terminal: launchpad](https://dribbble.com/shots/)
+
++ [TWIN - Logo Concept 1](https://dribbble.com/shots/)
+
++ [Cleaning Company Website](https://dribbble.com/shots/)
+
++ [Eyeball App](https://dribbble.com/shots/)
+
