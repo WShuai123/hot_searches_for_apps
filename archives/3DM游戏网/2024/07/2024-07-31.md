@@ -123,3 +123,9 @@
 
 + [《超级猴子球 香蕉大乱斗》将加入更多角色模式和关卡](https://www.3dmgame.com/news/202407/3900704.html)
 
++ [《暗黑4》炼狱大军赛季将于8月7日开启 斩杀无数恶魔](https://www.3dmgame.com/news/202407/3900710.html)
+
++ [育碧将携《刺客信条：影》《星战亡命之徒》参加科隆游戏展](https://www.3dmgame.com/news/202407/3900709.html)
+
++ [《艾尔登法环》1.13版更新介绍 多项能力调整](https://www.3dmgame.com/news/202407/3900708.html)
+

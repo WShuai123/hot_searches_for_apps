@@ -41,3 +41,7 @@
 
 + [ATM机无法取钱，俄银行遭乌克兰大规模网络攻击](https://www.freebuf.com/news/407179.html)
 
++ [FreeBuf早报 | 欧洲中央银行完成银行业网络压力测试；黎巴嫩卫生部数据泄露](https://www.freebuf.com/news/407363.html)
+
++ [浅析常见WEB安全漏洞及其防御措施](https://www.freebuf.com/articles/web/392158.html)
+

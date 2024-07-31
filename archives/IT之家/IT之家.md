@@ -29,3 +29,5 @@
 
 + [小米汽车：目前不支持哨兵模式触发报警后只推送通知，不闪烁车灯](https://m.ithome.com/html/785023.htm)
 
++ [英伟达 RTX 40 系列显卡产量被曝削减 50%，黄仁勋：本周发送 Blackwell 样品](https://m.ithome.com/html/785049.htm)
+
