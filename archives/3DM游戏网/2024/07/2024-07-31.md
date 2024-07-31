@@ -301,3 +301,5 @@
 
 + [《星球大战：法外狂徒》被批枪战简单笨重 AI反应呆滞](https://www.3dmgame.com/news/202407/3900795.html)
 
++ [《风暴之门》Steam褒贬不一 被玩家痛批不如《星际2》《红警2》](https://www.3dmgame.com/news/202407/3900797.html)
+
