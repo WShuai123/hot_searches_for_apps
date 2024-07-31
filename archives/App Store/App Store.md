@@ -201,3 +201,7 @@
 
 + [小米运动健康](https://itunes.apple.com/cn/app/id1493500777?mt=8)
 
++ [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [万能遥控器-手机控制精灵](https://itunes.apple.com/cn/app/id1456205747?mt=8)
+

@@ -25,3 +25,5 @@
 
 + [全新华为 MatePad Pro、MatePad Air 平板 8 月 6 日发布：搭载天生会画 App 正式版，支持隔空绘画](https://m.ithome.com/html/785253.htm)
 
++ [名额 3 万，华为鸿蒙 HarmonyOS NEXT Beta 版第三批先锋用户招募：适配 Mate 60、X5 等机型](https://m.ithome.com/html/785432.htm)
+
