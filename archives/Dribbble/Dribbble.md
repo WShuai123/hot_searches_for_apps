@@ -145,3 +145,11 @@
 
 + [New 1/2 size Badge](https://dribbble.com/shots/)
 
++ [Chick-fil-A ~ Signature Menu Emojis](https://dribbble.com/shots/)
+
++ [The Mac Pins](https://dribbble.com/shots/)
+
++ [Abstract Icons](https://dribbble.com/shots/)
+
++ [Minimal blog — Untitled UI](https://dribbble.com/shots/)
+
