@@ -215,3 +215,11 @@
 
 + [火了忘本? 马桶人电影制片公司对《Gmod》发版权警告](https://www.3dmgame.com/news/202407/3900753.html)
 
++ [《神杀》免费登陆Steam 日风古代背景3D探索](https://www.3dmgame.com/news/202407/3900755.html)
+
++ [射击游戏市场开卷，又冒出来一款国产射击游戏？](https://www.3dmgame.com/news/202407/3900757.html)
+
++ [宝可梦开发商Game Freak宣布举行在线招聘会 招聘大量开发者](https://www.3dmgame.com/news/202407/3900756.html)
+
++ [开罗游戏《平安古都物语》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202407/3900754.html)
+

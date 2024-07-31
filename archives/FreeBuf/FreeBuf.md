@@ -51,3 +51,5 @@
 
 + [初探内网渗透手法及蓝队视角下的应急响应](https://www.freebuf.com/articles/system/407161.html)
 
++ [kvm-fuzz：使用KVM技术对闭源用户空间二进制文件执行模糊测试](https://www.freebuf.com/sectool/406605.html)
+

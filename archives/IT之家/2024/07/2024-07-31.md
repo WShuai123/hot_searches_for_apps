@@ -47,3 +47,7 @@
 
 + [世界首位被授予冯・卡门奖的女航天科技专家吴美蓉逝世，享年 88 岁](https://m.ithome.com/html/785277.htm)
 
++ [硬件锁除外：苹果 iPhone 15 Pro 和 Pro Max 用户均可访问 Apple Intelligence](https://m.ithome.com/html/785210.htm)
+
++ [相机垂直排列，苹果 iPhone 16 机模新照曝光：5 种颜色](https://m.ithome.com/html/785307.htm)
+
