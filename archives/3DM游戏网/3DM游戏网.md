@@ -195,3 +195,23 @@
 
 + [动画电影《守龙者》定档预告 8月17日上映](https://www.3dmgame.com/news/202407/3900735.html)
 
++ [独立开发者下架自己的老游戏：源代码丢了没法更新](https://www.3dmgame.com/news/202407/3900745.html)
+
++ [策略管理类游戏《铁路帝国2》全新DLC“高压线”正式推出](https://www.3dmgame.com/news/202407/3900746.html)
+
++ [《星球大战：亡命之徒》20分钟实机 8月30日发售](https://www.3dmgame.com/news/202407/3900743.html)
+
++ [《超级猴子球 香蕉大乱斗》DLC“世嘉通行证”新角色今日发布！对战模式新增关卡](https://www.3dmgame.com/news/202407/3900747.html)
+
++ [西部魔幻世界沉浸感十足！宝藏撤离FPS《猎杀：对决》值得一试](https://www.3dmgame.com/news/202407/3900748.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》 世界观、剧情、角色最新信息](https://www.3dmgame.com/news/202407/3900750.html)
+
++ [《ARC SEED》Steam抢先体验 科幻背景回合制战术](https://www.3dmgame.com/news/202407/3900749.html)
+
++ [累计赛博功德 休闲模拟游戏《休闲木鱼》上架Steam平台](https://www.3dmgame.com/news/202407/3900751.html)
+
++ [40单元核显媲美RTX4060？AMD超级APU露面了](https://www.3dmgame.com/news/202407/3900752.html)
+
++ [火了忘本? 马桶人电影制片公司对《Gmod》发版权警告](https://www.3dmgame.com/news/202407/3900753.html)
+
