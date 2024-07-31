@@ -51,3 +51,5 @@
 
 + [相机垂直排列，苹果 iPhone 16 机模新照曝光：5 种颜色](https://m.ithome.com/html/785307.htm)
 
++ [消息称某厂新系列手机采用火山口过渡设计、外置闪光灯，预计为小米 15（Pro）](https://m.ithome.com/html/785292.htm)
+

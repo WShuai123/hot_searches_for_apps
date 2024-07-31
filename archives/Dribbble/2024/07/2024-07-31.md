@@ -189,3 +189,15 @@
 
 + [Play Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
 
++ [Online Bank — Web Dashboard UI Design](https://dribbble.com/shots/)
+
++ [Prosper - Investment Landing Page](https://dribbble.com/shots/)
+
++ [TWIN - Logo Concept 1](https://dribbble.com/shots/)
+
++ [Banking app Landing page ui](https://dribbble.com/shots/)
+
++ [slothUI - World's Laziest Design System - Sales Dashboard UIUX](https://dribbble.com/shots/)
+
++ [Cleaning Company Website](https://dribbble.com/shots/)
+

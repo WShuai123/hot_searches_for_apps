@@ -237,3 +237,25 @@
 
 + [《最终幻想7：永恒危机》官方艺图公布 9月收录新书](https://www.3dmgame.com/news/202407/3900764.html)
 
++ [《星刃》夏季更新上线新服装 玩家数量大幅增长](https://www.3dmgame.com/news/202407/3900765.html)
+
++ [争议还在继续 Reddit《刺客信条》板块出新规 弥助就是武士 禁止相关辩论](https://www.3dmgame.com/news/202407/3900766.html)
+
++ [腾讯分享《黑神话》日历壁纸：放马西行 直面天命](https://www.3dmgame.com/news/202407/3900767.html)
+
++ [意大利科学家研发新型四足机器人 专为清理海滩烟头设计](https://www.3dmgame.com/news/202407/3900768.html)
+
++ [地面静风，可以起飞：航空管理游戏《迷你空管》Steam今日上线](https://www.3dmgame.com/news/202407/3900769.html)
+
++ [《幻兽帕鲁》开发者：活跃玩家不应是游戏成功唯一标准](https://www.3dmgame.com/news/202407/3900770.html)
+
++ [KK官方对战平台新图推荐！极速解压沙漠生存，爽图一切皆有可能！](https://www.3dmgame.com/news/202407/3900771.html)
+
++ [《原神》角色演示-「艾梅莉埃：虹彩行迹」](https://www.3dmgame.com/news/202407/3900772.html)
+
++ [2D动作游戏《幻刃奇美拉》宣布跳票 新发售日期待定](https://www.3dmgame.com/news/202407/3900773.html)
+
++ [在线合作恐怖游戏《地下城清道夫》公布 已征服的地下城也会危机四伏](https://www.3dmgame.com/news/202407/3900774.html)
+
++ [《最终幻想14》新更新 高难度团本宝藏地下城上线](https://www.3dmgame.com/news/202407/3900775.html)
+
