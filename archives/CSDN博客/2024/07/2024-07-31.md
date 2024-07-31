@@ -173,3 +173,7 @@
 
 + [【数学建模】【优化算法】：【MATLAB】从【一维搜索】到】非线性方程】求解的综合解析](https://blog.csdn.net/2303_77720864/article/details/140818409)
 
++ [猫头虎分享如何解决Error：The gateway did not receive a timely response from the upstream server or application](https://blog.csdn.net/qq_44866828/article/details/140802532)
+
++ [.NetCore里使用MailKit收发邮件](https://blog.csdn.net/x1234w4321/article/details/140608720)
+

@@ -57,3 +57,7 @@
 
 + [苹果 iPhone 16 Pro / Max 被曝支持 Wi-Fi 7：峰值速度 40 Gbps](https://m.ithome.com/html/785286.htm)
 
++ [字节跳动新加坡被曝“大规模食物中毒”，官方回应“已采取措施支持所有受影响员工”](https://m.ithome.com/html/785413.htm)
+
++ [全新比亚迪汉车型谍照曝光：采用轿跑风 U 型机盖，升级云辇底盘](https://m.ithome.com/html/785398.htm)
+

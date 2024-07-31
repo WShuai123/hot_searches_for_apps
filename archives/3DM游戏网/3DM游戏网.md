@@ -289,3 +289,11 @@
 
 + [黄仁勋谈机器人及AI未来：需要三台计算机](https://www.3dmgame.com/news/202407/3900780.html)
 
++ [国产恐怖游戏《背后》现已登陆Steam发售 获得玩家特别好评](https://www.3dmgame.com/news/202407/3900794.html)
+
++ [英特尔将在全球裁员1万人 进一步降低成本开支](https://www.3dmgame.com/news/202407/3900793.html)
+
++ [研发投入300亿！周鸿祎：360用户是在为国家安全看广告](https://www.3dmgame.com/news/202407/3900792.html)
+
++ [雷军称在认真学习理想华为怎么做营销：比小米好很多](https://www.3dmgame.com/news/202407/3900791.html)
+
