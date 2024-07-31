@@ -109,3 +109,5 @@
 
 + [Bungie将裁员220人 深化与索尼互动娱乐的整合](https://www.3dmgame.com/news/202408/3900802.html)
 
++ [《伊洛纳》续作《Elin》11月开启抢先体验](https://www.3dmgame.com/news/202408/3900805.html)
+
