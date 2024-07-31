@@ -45,3 +45,5 @@
 
 + [中兴 F50 5G 随身 WiFi 存储版开启预售：256GB 存储 + 2TB SD 卡拓展 、5G 双模，首发 529 元](https://m.ithome.com/html/785216.htm)
 
++ [世界首位被授予冯・卡门奖的女航天科技专家吴美蓉逝世，享年 88 岁](https://m.ithome.com/html/785277.htm)
+

@@ -159,3 +159,11 @@
 
 + [Java中的分布式事务管理：XA与TCC](https://blog.csdn.net/weixin_44627014/article/details/140701053)
 
++ [国家超算互联网平台：模型服务体验与本地部署推理实践](https://blog.csdn.net/xiaobing259/article/details/140775386)
+
++ [数据开发/数仓工程师上手指南(四)ODS层搭建规范及流程](https://blog.csdn.net/master_hunter/article/details/140817526)
+
++ [【研发日记】Matlab/Simulink技能解锁(十一)——Stateflow中的en、du、ex应用对比](https://blog.csdn.net/CSSUST/article/details/140809146)
+
++ [【C++高阶】：深入探索C++11](https://blog.csdn.net/island1314/article/details/140804751)
+
