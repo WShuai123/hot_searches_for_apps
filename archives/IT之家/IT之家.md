@@ -35,3 +35,5 @@
 
 + [国产 AI PC 处理器“此芯 P1”发布：6nm 制程 Arm CPU，45TOPS 算力](https://m.ithome.com/html/785202.htm)
 
++ [“史上最具空气动力学”的 A6：全新一代奥迪 A6 纯电轿车官图曝光](https://m.ithome.com/html/785240.htm)
+

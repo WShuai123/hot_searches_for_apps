@@ -125,3 +125,5 @@
 
 + [【Spring Boot】自动配置源码解析](https://blog.csdn.net/smile_sundays/article/details/140699215)
 
++ [使用Micronaut构建高性能微服务](https://blog.csdn.net/u010405836/article/details/140674841)
+

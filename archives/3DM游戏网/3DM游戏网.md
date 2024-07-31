@@ -149,3 +149,31 @@
 
 + [《第一后裔》Steam玩家数一个月内减少60% 凉的太快](https://www.3dmgame.com/news/202407/3900711.html)
 
++ [EA谈《战地》新作：公司有史以来最具野心作品之一](https://www.3dmgame.com/news/202407/3900721.html)
+
++ [剧情游戏《命运游戏》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202407/3900722.html)
+
++ [11年后 粉丝们仍然认为《死侍》游戏的制作成本为1亿美元](https://www.3dmgame.com/news/202407/3900723.html)
+
++ [《Space for Sale》Steam抢先体验 外星世界探索经营](https://www.3dmgame.com/news/202407/3900725.html)
+
++ [RTS《风暴之门》8月13日抢先体验 预购捆绑包立即开玩](https://www.3dmgame.com/news/202407/3900724.html)
+
++ [上线半年时间 科乐美《寂静岭：短讯》下载量突破300万](https://www.3dmgame.com/news/202407/3900726.html)
+
++ [EA CEO：游戏演员罢工短期内不会给公司带来影响](https://www.3dmgame.com/news/202407/3900727.html)
+
++ [前《战地》开发者新工作室获NCsoft 350万美元投资](https://www.3dmgame.com/news/202407/3900728.html)
+
++ [黄仁勋：AI下一波浪潮是物理AI 加速人形机器人普及](https://www.3dmgame.com/news/202407/3900729.html)
+
++ [可爱风格策略模拟游戏《太空房地产》现已在Steam平台推出抢先体验版](https://www.3dmgame.com/news/202407/3900730.html)
+
++ [财报显示《龙腾世纪：影障守护者》将于2024年年底前发售](https://www.3dmgame.com/news/202407/3900731.html)
+
++ [VR步行设备Omni One将于9月美国上市 已支持50+游戏](https://www.3dmgame.com/news/202407/3900732.html)
+
++ [《绝地反击》今日正式登陆Steam平台！优惠促销火热开启！](https://www.3dmgame.com/news/202407/3900733.html)
+
++ [东亚游戏市场2023年创收301亿美元 日韩偏好多平台](https://www.3dmgame.com/news/202407/3900734.html)
+
