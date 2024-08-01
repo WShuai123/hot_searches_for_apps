@@ -111,3 +111,35 @@
 
 + [《伊洛纳》续作《Elin》11月开启抢先体验](https://www.3dmgame.com/news/202408/3900805.html)
 
++ [《暗黑破坏神4》第五赛季开发者直播明早2点开始](https://www.3dmgame.com/news/202408/3900818.html)
+
++ [动作冒险游戏《koROBO》Steam页面 发售日待定](https://www.3dmgame.com/news/202408/3900820.html)
+
++ [文字冒险游戏《Moonless Moon》8月8日发售 支持中文](https://www.3dmgame.com/news/202408/3900819.html)
+
++ [PlayStation 8月会免游戏公开 含《乐高星球大战：天行者传奇》等](https://www.3dmgame.com/news/202408/3900817.html)
+
++ [《功夫五神》登陆Steam 像素风古典动作新游](https://www.3dmgame.com/news/202408/3900816.html)
+
++ [《魔兽世界》国服正式服今日开服 玩家们快回归吧！](https://www.3dmgame.com/news/202408/3900814.html)
+
++ [Bungie新一轮裁员更多细节：客服整个团队全员被裁](https://www.3dmgame.com/news/202408/3900821.html)
+
++ [《龙腾世纪：影障守护者》发售日将在8月正式公布](https://www.3dmgame.com/news/202408/3900815.html)
+
++ [星战衍生剧《星球大战：骷髅组》新剧照 小朋友冒险故事](https://www.3dmgame.com/news/202408/3900813.html)
+
++ [国产恐怖游戏《无归》无法如期发售 因Steam审核缓慢](https://www.3dmgame.com/news/202408/3900812.html)
+
++ [编造AC影黑人武士故事的教授：育碧选弥助当主角不明智](https://www.3dmgame.com/news/202408/3900811.html)
+
++ [《时空幻境：周年纪念版》销量惨淡 制作人太伤心](https://www.3dmgame.com/news/202408/3900809.html)
+
++ [Suda51暗示《杀手7》有望推出续作或重制版](https://www.3dmgame.com/news/202408/3900807.html)
+
++ [《女神异闻录5》官方设定集成为亚马逊销冠](https://www.3dmgame.com/news/202408/3900806.html)
+
++ [安西教练走错片场？动画《坂本日常》发布正式预告](https://www.3dmgame.com/news/202408/3900810.html)
+
++ [宝可梦GO Plus+公开概念视频皮卡丘陪玩陪睡](https://www.3dmgame.com/news/202408/3900808.html)
+

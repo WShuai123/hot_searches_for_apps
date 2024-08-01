@@ -27,3 +27,9 @@
 
 + [名额 3 万，华为鸿蒙 HarmonyOS NEXT Beta 版第三批先锋用户招募：适配 Mate 60、X5 等机型](https://m.ithome.com/html/785432.htm)
 
++ [因苹果反对，塔塔集团收购 vivo 印度业务多数股权计划搁浅](https://m.ithome.com/html/785457.htm)
+
++ [11.9888 万元起，上汽大众 ID.3 聪明款车型正式上市](https://m.ithome.com/html/785445.htm)
+
++ [比亚迪宣布与优步结盟，以 10 万辆新能源汽车杀入全球打车市场](https://m.ithome.com/html/785440.htm)
+

@@ -77,3 +77,5 @@
 
 + [【东方】騒霊コンチェルト MV【ちょこふぁん】](http://www.acfun.cn/v/ac45863196)
 
++ [Abracadabra](http://www.acfun.cn/v/ac45990594)
+
