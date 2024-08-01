@@ -55,3 +55,5 @@
 
 + [深黑色要来了？苹果 iPhone 16 Pro Max 机模曝光](https://m.ithome.com/html/785554.htm)
 
++ [上汽大众 ID.4 X 聪明款车型上市，14.9888 万元起](https://m.ithome.com/html/785447.htm)
+

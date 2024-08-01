@@ -307,3 +307,9 @@
 
 + [老版《神秘博士》演员Richard Franklin去世 享年87岁](https://www.3dmgame.com/news/202312/3884710.html)
 
++ [锐龙9000系列海外售价公布 9950X 599美元](https://www.3dmgame.com/news/202408/3900887.html)
+
++ [印度耍流氓 强迫vivo出售在印子公司：苹果公然反对](https://www.3dmgame.com/news/202408/3900886.html)
+
++ [摩尔线程MTT S50显卡可免费试用了！企业办公神卡](https://www.3dmgame.com/news/202408/3900885.html)
+

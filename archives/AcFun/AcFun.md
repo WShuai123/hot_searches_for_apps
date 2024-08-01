@@ -129,3 +129,5 @@
 
 + [[金坷垃] Mystic Light Quest (ft. 一只大哈鱼)](http://www.acfun.cn/v/ac46033936)
 
++ [爱的主打歌](http://www.acfun.cn/v/ac46036067)
+
