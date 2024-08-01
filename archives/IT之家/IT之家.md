@@ -39,3 +39,5 @@
 
 + [京东推出手机“法国 30 天盗抢保”，看 2024 奥运被盗 / 抢可赔新机](https://m.ithome.com/html/785321.htm)
 
++ [罗技 CEO：考虑推出“永久鼠标”，探索订阅模式](https://m.ithome.com/html/785491.htm)
+

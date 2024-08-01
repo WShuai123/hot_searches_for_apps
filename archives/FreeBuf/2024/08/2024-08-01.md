@@ -55,3 +55,5 @@
 
 + [继蓝屏后，微软 Azure 服务因DDoS攻击全球中断](https://www.freebuf.com/news/407481.html)
 
++ [继全球蓝屏后，微软 Azure 云服务因安全错误导致全球宕机](https://www.freebuf.com/news/407481.html)
+

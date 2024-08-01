@@ -175,3 +175,27 @@
 
 + [国外大神用AI打造《GTA：印度》预告 很干净很卫生](https://www.3dmgame.com/news/202408/3900837.html)
 
++ [《幻兽帕鲁》开发者建议：拿买3A游戏通行证的钱买独立游戏](https://www.3dmgame.com/news/202408/3900838.html)
+
++ [国际奥委会抛弃马里奥索尼克 投入了NFT和手游的怀抱](https://www.3dmgame.com/news/202408/3900839.html)
+
++ [Netflix动画剧集《终结者：零》正式预告 8月29日播出](https://www.3dmgame.com/news/202408/3900840.html)
+
++ [外企宣称通过CT查寻未开封集换卡 一盒收费75刀引热议](https://www.3dmgame.com/news/202408/3900841.html)
+
++ [治愈系冒险游戏《皮罗与全息之书》现已在Steam平台提供试玩Demo](https://www.3dmgame.com/news/202408/3900842.html)
+
++ [B社前工作室总监加入华纳游戏 领导蒙特利尔工作室](https://www.3dmgame.com/news/202408/3900843.html)
+
++ [传闻：Bungie裁员只是个开始 后续将丧失自主权完全被索尼掌握](https://www.3dmgame.com/news/202408/3900844.html)
+
++ [英雄大逃杀游戏《SUPERVIVE》Steam页面 年内发售](https://www.3dmgame.com/news/202408/3900845.html)
+
++ [前Unity员工创立工作室Outer Haven 正开发漫画风RPG](https://www.3dmgame.com/news/202408/3900846.html)
+
++ [《牧野之歌》今日正式发售！请享受属于你的田园生活~](https://www.3dmgame.com/news/202408/3900847.html)
+
++ [Omdia：人形机器人今年迎来突破之年 2027年全球出货将破万台](https://www.3dmgame.com/news/202408/3900848.html)
+
++ [罗技正考虑推出高端永久鼠标 探索订阅模式](https://www.3dmgame.com/news/202408/3900849.html)
+
