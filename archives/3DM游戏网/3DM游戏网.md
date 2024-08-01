@@ -213,3 +213,9 @@
 
 + [微软：对AI巨额的投资 至少要15年才有回报！](https://www.3dmgame.com/news/202408/3900856.html)
 
++ [《Smack Studio》登陆Steam 类大乱斗风格对战](https://www.3dmgame.com/news/202408/3900859.html)
+
++ [D＆D虚拟桌面游戏“Project Sigil”将引入《博德之门3》角色 阿斯代伦等亮相](https://www.3dmgame.com/news/202408/3900858.html)
+
++ [“透明”Xbox手柄苍穹秘语特别版国行8月20日发售 定价499元](https://www.3dmgame.com/news/202408/3900857.html)
+

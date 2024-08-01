@@ -173,3 +173,13 @@
 
 + [使用 Postman 进行 Trello API 自动化测试的完整指南](https://blog.csdn.net/Huahua_1223/article/details/140808652)
 
++ [Adam-mini：内存占用减半，性能更优的深度学习优化器](https://blog.csdn.net/m0_46510245/article/details/140840831)
+
++ [国家超算互联网平台：模型服务体验与本地部署推理实践](https://blog.csdn.net/xiaobing259/article/details/140775386)
+
++ [【云原生】Kubernetes中关于污点、亲和性和容忍度的详细用法教程与应用实战](https://blog.csdn.net/littlefun591/article/details/140827050)
+
++ [C++第三十弹---C++继承机制深度剖析(中)](https://blog.csdn.net/2201_75584283/article/details/139336970)
+
++ [普通人有必要学Python吗？学了之后能做什么?](https://blog.csdn.net/biancheng_syz/article/details/140772566)
+
