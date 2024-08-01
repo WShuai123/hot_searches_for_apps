@@ -313,3 +313,7 @@
 
 + [摩尔线程MTT S50显卡可免费试用了！企业办公神卡](https://www.3dmgame.com/news/202408/3900885.html)
 
++ [《黑曜石》同时在开发三款游戏 未公布新作曝光](https://www.3dmgame.com/news/202408/3900888.html)
+
++ [《星球大战：法外狂徒》女主太丑？主创回应：她很美](https://www.3dmgame.com/news/202408/3900889.html)
+

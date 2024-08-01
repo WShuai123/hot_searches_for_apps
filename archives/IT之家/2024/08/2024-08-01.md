@@ -57,3 +57,7 @@
 
 + [上汽大众 ID.4 X 聪明款车型上市，14.9888 万元起](https://m.ithome.com/html/785447.htm)
 
++ [中国移动集采 68 万台小米手机，包含 MIX Flip / Fold 4、Redmi K70 系列](https://m.ithome.com/html/785685.htm)
+
++ [小米 SU7 上线 8 月限时购车权益：依然送 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/785561.htm)
+
