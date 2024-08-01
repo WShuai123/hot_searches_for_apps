@@ -101,3 +101,5 @@
 
 + [Plate Notes](https://www.producthunt.com/posts/plate-notes)
 
++ [IdeaBuddy](https://www.producthunt.com/posts/ideabuddy)
+

@@ -49,3 +49,51 @@
 
 + [South America](https://dribbble.com/shots/)
 
++ [Tallent Flow mobile app branding](https://dribbble.com/shots/)
+
++ [Secured finance - footer](https://dribbble.com/shots/)
+
++ [Brand Illustrations for kodekloud.com](https://dribbble.com/shots/)
+
++ [Bento Cards: SimpleList](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [Simplified crypto iOS app: Buy in seconds, zero distractions.](https://dribbble.com/shots/)
+
++ [Paperpillar Links Page](https://dribbble.com/shots/)
+
++ [Product Website Hero - Ecommerce](https://dribbble.com/shots/)
+
++ [AIKE - Ecommerce Landing Page](https://dribbble.com/shots/)
+
++ [Sheep Logo](https://dribbble.com/shots/)
+
++ [Golf tournament poster](https://dribbble.com/shots/)
+
++ [The Whiskey Reserve](https://dribbble.com/shots/)
+
++ [Zara Home](https://dribbble.com/shots/)
+
++ [3D Dating Apps Icons](https://dribbble.com/shots/)
+
++ [Apple's Persona feature, designed for video calls, can be repurp](https://dribbble.com/shots/)
+
++ [Website Redesign for Cybersecurity Startup](https://dribbble.com/shots/)
+
++ [Nexacard - Digital Bank Card Responsive Page Website](https://dribbble.com/shots/)
+
++ [V - Unused Logo](https://dribbble.com/shots/)
+
++ [Arcanus Tech](https://dribbble.com/shots/)
+
++ [Host || A Complete Hosting Service Solutions](https://dribbble.com/shots/)
+
++ [Gold Pro Analyzer - SaaS Branding](https://dribbble.com/shots/)
+
++ [Fire Wolf Logo](https://dribbble.com/shots/)
+
++ [Travel AI Place Behance](https://dribbble.com/shots/)
+
++ [Cats - icon exploration](https://dribbble.com/shots/)
+

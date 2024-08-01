@@ -101,3 +101,7 @@
 
 + [在时光中编织生活之诗《片语：蔚然生长》现已正式发售](https://www.3dmgame.com/news/202408/3900861.html)
 
++ [小品级模拟经营《南之町》8月15日登陆NS 获特别好评](https://www.3dmgame.com/news/202408/3900896.html)
+
++ [直播带货华硕电脑当ROG全家桶卖 知名《CSGO》主播茄子道歉](https://www.3dmgame.com/news/202408/3900897.html)
+
