@@ -107,3 +107,7 @@
 
 + [Private AI Assistant](https://www.producthunt.com/posts/private-ai-assistant)
 
++ [Slack AI](https://www.producthunt.com/posts/slack-ai)
+
++ [Binsoo](https://www.producthunt.com/posts/binsoo)
+

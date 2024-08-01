@@ -203,3 +203,9 @@
 
 + [小米运动健康](https://itunes.apple.com/cn/app/id1493500777?mt=8)
 
++ [腾讯体育-看奥运NBA足球](https://itunes.apple.com/cn/app/id570608623?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [贝壳找房](https://itunes.apple.com/cn/app/id1347663353?mt=8)
+

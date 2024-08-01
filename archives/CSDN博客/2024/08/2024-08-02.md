@@ -127,3 +127,5 @@
 
 + [深度体验AI计算平台：超算互联网模型服务与加速卡](https://blog.csdn.net/CC1991_/article/details/140832654)
 
++ [鸿蒙开发仓颉语言扩展机制详解【扩展概述、直接扩展、接口扩展、访问规则】](https://blog.csdn.net/weixin_52908342/article/details/140860146)
+
