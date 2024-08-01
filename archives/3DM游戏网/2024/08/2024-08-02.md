@@ -105,3 +105,11 @@
 
 + [直播带货华硕电脑当ROG全家桶卖 知名《CSGO》主播茄子道歉](https://www.3dmgame.com/news/202408/3900897.html)
 
++ [EA《麦登橄榄球25》配置公布 内置D加密](https://www.3dmgame.com/news/202408/3900898.html)
+
++ [网传黑曜石新作《宣誓》将推迟到25年初推出](https://www.3dmgame.com/news/202408/3900899.html)
+
++ [多人在线地牢冒险《勠力同心》面向PC公布](https://www.3dmgame.com/news/202408/3900900.html)
+
++ [《NBA 2K25》新视频展示ProPLAY动画/新运球引擎](https://www.3dmgame.com/news/202408/3900901.html)
+
