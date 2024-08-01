@@ -33,3 +33,9 @@
 
 + [比亚迪宣布与优步结盟，以 10 万辆新能源汽车杀入全球打车市场](https://m.ithome.com/html/785440.htm)
 
++ [小米门店排队进度可视功能上线，取号后无需在店等待](https://m.ithome.com/html/785424.htm)
+
++ [小米无线鼠标舒适版开售：TTC 轻音开关按键、1200 DPI，首发 49 元](https://m.ithome.com/html/785456.htm)
+
++ [京东推出手机“法国 30 天盗抢保”，看 2024 奥运被盗 / 抢可赔新机](https://m.ithome.com/html/785321.htm)
+

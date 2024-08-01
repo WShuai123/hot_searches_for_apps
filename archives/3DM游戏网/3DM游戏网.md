@@ -143,3 +143,35 @@
 
 + [宝可梦GO Plus+公开概念视频皮卡丘陪玩陪睡](https://www.3dmgame.com/news/202408/3900808.html)
 
++ [《狙击精英》开发商Rebellion与Level Infinite合作 开发“代号：群岛”](https://www.3dmgame.com/news/202408/3900822.html)
+
++ [征服者康演员回应小唐尼出演毁灭博士：心碎](https://www.3dmgame.com/news/202408/3900823.html)
+
++ [《三角符文》第四章进展顺利 第五章早期开发已开始](https://www.3dmgame.com/news/202408/3900824.html)
+
++ [水下轻度肉鸽游戏《喂养深海》发售日预告 8月17日发售](https://www.3dmgame.com/news/202408/3900825.html)
+
++ [拉瑞安希望再制作一款与《博德之门3》同样优秀的游戏](https://www.3dmgame.com/news/202408/3900826.html)
+
++ [《骑士精神2》官方发文回顾更新历程 将继续支持游戏 团队已着力开发新项目](https://www.3dmgame.com/news/202408/3900827.html)
+
++ [微软CEO财报点名表扬《辐射》真人剧集：意义重大](https://www.3dmgame.com/news/202408/3900828.html)
+
++ [《UFO魔神古兰戴萨》11月登陆Switch 永井豪原作改编](https://www.3dmgame.com/news/202408/3900829.html)
+
++ [《星刃》伊芙新手办欣赏 穿红色紧身衣秀性感身材](https://www.3dmgame.com/news/202408/3900830.html)
+
++ [《鱿鱼游戏2》第二季播出日期预告 12月26日开播](https://www.3dmgame.com/news/202408/3900831.html)
+
++ [据称V社调查Steam游戏季票情况 确保玩家获得承诺内容](https://www.3dmgame.com/news/202408/3900832.html)
+
++ [《黄金神威》真人剧正式海报公布 10月6日上线开播](https://www.3dmgame.com/news/202408/3900833.html)
+
++ [《DOTA2》7.37游戏性更新发布 打野爪回归、大量英雄命石重做](https://www.3dmgame.com/news/202408/3900834.html)
+
++ [科幻悬疑冒险游戏《沉没意志》正式在Steam平台发售 已获得好评](https://www.3dmgame.com/news/202408/3900835.html)
+
++ [微软宣称：Xbox游戏生态系统每月有5亿活跃用户](https://www.3dmgame.com/news/202408/3900836.html)
+
++ [国外大神用AI打造《GTA：印度》预告 很干净很卫生](https://www.3dmgame.com/news/202408/3900837.html)
+

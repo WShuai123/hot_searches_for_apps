@@ -51,3 +51,7 @@
 
 + [SRC挖掘实战 | JS中能利用的那些信息](https://www.freebuf.com/articles/web/394873.html)
 
++ [由于域验证错误，DigiCert 大规模撤销 TLS 证书](https://www.freebuf.com/news/407484.html)
+
++ [继蓝屏后，微软 Azure 服务因DDoS攻击全球中断](https://www.freebuf.com/news/407481.html)
+
