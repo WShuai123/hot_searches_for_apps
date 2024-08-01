@@ -101,3 +101,19 @@
 
 + [【机器学习】探索图神经网络 (GNNs): 揭秘图结构数据处理的未来](https://blog.csdn.net/2202_76097976/article/details/140803622)
 
++ [SpringBoot通过3种方式实现AOP切面](https://blog.csdn.net/qq_26664043/article/details/140573868)
+
++ [使用TensorRT对YOLOv8模型进行加速推理](https://blog.csdn.net/fengbingchun/article/details/140826627)
+
++ [构建基于微服务的Java电商返利平台](https://blog.csdn.net/qq836869520/article/details/140700831)
+
++ [注册中心--Eureka](https://blog.csdn.net/m0_65465009/article/details/140846387)
+
++ [构建基于微服务的Java电子商务平台](https://blog.csdn.net/weixin_44626980/article/details/140700715)
+
++ [暑期科技营理论辅导课程 | PID调节基本概念](https://blog.csdn.net/zhuoqingjoking97298/article/details/140835190)
+
++ [GPT-4o mini 来袭：开发者如何驾驭新一代AI模型？](https://blog.csdn.net/2301_79969994/article/details/140842853)
+
++ [使用Akka构建分布式Java应用程序](https://blog.csdn.net/u011269762/article/details/140674547)
+
