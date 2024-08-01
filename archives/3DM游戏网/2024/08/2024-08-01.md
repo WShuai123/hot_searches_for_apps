@@ -235,3 +235,15 @@
 
 + [在时光中编织生活之诗《片语：蔚然生长》现已正式发售](https://www.3dmgame.com/news/202408/3900861.html)
 
++ [女记者吐槽电竞世界杯没女观众缺乏多样性 遭众人反驳](https://www.3dmgame.com/news/202408/3900869.html)
+
++ [高通发布第三财季财报：营收93.93亿美元 净利润同比增长18%](https://www.3dmgame.com/news/202408/3900873.html)
+
++ [新一代初音未来V6 AI合成器有望年内发售 表现更突出](https://www.3dmgame.com/news/202408/3900872.html)
+
++ [《巫师3》全新Mod发布：恢复被删除的声望系统](https://www.3dmgame.com/news/202408/3900871.html)
+
++ [受《艾尔登法环》成功影响 FromSoftware上财年收入大幅下降](https://www.3dmgame.com/news/202408/3900870.html)
+
++ [复古JRPG游戏《八爪的秘密》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3900868.html)
+

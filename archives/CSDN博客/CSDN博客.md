@@ -187,3 +187,11 @@
 
 + [JDK 8 升级 17 及 springboot 2.x 升级 3.x 指南](https://blog.csdn.net/footless_bird/article/details/140770320)
 
++ [携程testab补环境/纯算分析](https://blog.csdn.net/2301_79397585/article/details/140824027)
+
++ [【Qwen-Audio部署实战】Qwen-Audio-Chat模型之对话机器人部署测试](https://blog.csdn.net/xiaobing259/article/details/140776612)
+
++ [python爬取网页源代码，提取关键词信息](https://blog.csdn.net/Ppandaer/article/details/140801660)
+
++ [拥抱 AI 时代：如何使用Blackbox AI 改善编程体验](https://blog.csdn.net/a1657054242/article/details/140844152)
+

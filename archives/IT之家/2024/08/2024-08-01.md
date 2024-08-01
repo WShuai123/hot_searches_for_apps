@@ -47,3 +47,5 @@
 
 + [微信淘宝小红书等 67 个 App 启动“网络身份证”试点，实名认证不用手动填身份证号](https://m.ithome.com/html/785571.htm)
 
++ [苹果 iPhone 16 Pro 机模曝光：展示 3 种颜色，侧面配拍照按钮](https://m.ithome.com/html/785500.htm)
+
