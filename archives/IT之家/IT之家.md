@@ -41,3 +41,5 @@
 
 + [罗技 CEO：考虑推出“永久鼠标”，探索订阅模式](https://m.ithome.com/html/785491.htm)
 
++ [国内裁员补偿天花板？佳能苏州被曝裁员赔偿 N+12/2N+12](https://m.ithome.com/html/785528.htm)
+

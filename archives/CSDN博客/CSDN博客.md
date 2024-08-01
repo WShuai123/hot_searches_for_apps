@@ -137,3 +137,15 @@
 
 + [AI发展下的伦理挑战：开发者视角的应对之道](https://blog.csdn.net/CC1991_/article/details/140759598)
 
++ [【云原生】Kubernetes中的定时任务CronJob的详细用法与企业级应用案例分享](https://blog.csdn.net/littlefun591/article/details/140801263)
+
++ [使用Leaflet GeoMan结合天地图进行自由标绘实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/140808625)
+
++ [遗传算法与深度学习实战——生命模拟及其应用](https://blog.csdn.net/LOVEmy134611/article/details/140364841)
+
++ [Java中的分布式事务管理：XA与TCC](https://blog.csdn.net/weixin_44627014/article/details/140701053)
+
++ [LinuxCentos中ELK日志分析系统的部署(详细教程8K字)附图片](https://blog.csdn.net/jxjdhdnd/article/details/140798722)
+
++ [物理学中三个令人兴奋的想法：稳态作用原理、洛伦兹变换和度量张量](https://blog.csdn.net/gongdiwudu/article/details/140822658)
+

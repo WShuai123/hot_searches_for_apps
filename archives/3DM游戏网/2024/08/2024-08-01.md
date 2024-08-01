@@ -199,3 +199,17 @@
 
 + [罗技正考虑推出高端永久鼠标 探索订阅模式](https://www.3dmgame.com/news/202408/3900849.html)
 
++ [美国演员工会将在华纳游戏总部外进行首次游戏罢工抗议](https://www.3dmgame.com/news/202408/3900850.html)
+
++ [搞怪剧情节奏游戏《追星者：时间之手》发售日公布 2024年9月16日推出](https://www.3dmgame.com/news/202408/3900851.html)
+
++ [《星球大战：法外狂徒》PC版配置需求发布 推荐RTX 3060Ti](https://www.3dmgame.com/news/202408/3900852.html)
+
++ [《东方：平野孤鸿》10月国内上线 8月12日限量测试](https://www.3dmgame.com/news/202408/3900853.html)
+
++ [《八巡》登陆Steam/Switch 类8番出口惊悚悬疑](https://www.3dmgame.com/news/202408/3900854.html)
+
++ [《星球大战：亡命之徒》主要灵感来源是《对马岛之魂》](https://www.3dmgame.com/news/202408/3900855.html)
+
++ [微软：对AI巨额的投资 至少要15年才有回报！](https://www.3dmgame.com/news/202408/3900856.html)
+

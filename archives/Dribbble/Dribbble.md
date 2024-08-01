@@ -161,3 +161,21 @@
 
 + [On My Way Molotov by James Olstein](https://dribbble.com/shots/)
 
++ [Nexacard - Digital Bank Card Responsive Page Website](https://dribbble.com/shots/)
+
++ [Travel Companion Mobile App - Activity Type Search ????](https://dribbble.com/shots/)
+
++ [ArchArt. - Architecture Agency Website](https://dribbble.com/shots/)
+
++ [Beauty Store Mobile App](https://dribbble.com/shots/)
+
++ [Generista [Figma Plugin]](https://dribbble.com/shots/)
+
++ [The Lab - Wordmark](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Clinic Search and Results in Patient App](https://dribbble.com/shots/)
+
++ [Bedding and Linens Ecommerce Mobile Website](https://dribbble.com/shots/)
+
++ [Dr Shark / Skincare / Cosmetics / Branding & Packaging Design](https://dribbble.com/shots/)
+

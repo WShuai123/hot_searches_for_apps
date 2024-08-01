@@ -57,3 +57,5 @@
 
 + [继全球蓝屏后，微软 Azure 云服务因安全错误导致全球宕机](https://www.freebuf.com/news/407481.html)
 
++ [HTTP 响应中的字符编码和 XSS 漏洞利用](https://www.freebuf.com/articles/web/406608.html)
+
