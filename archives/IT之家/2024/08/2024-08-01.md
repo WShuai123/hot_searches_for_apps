@@ -61,3 +61,7 @@
 
 + [小米 SU7 上线 8 月限时购车权益：依然送 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/785561.htm)
 
++ [领克首款手机官宣 9 月发布，联合魅族打造](https://m.ithome.com/html/785671.htm)
+
++ [华为“金牌客服”李小龙揭秘北斗卫星图片消息：压缩到 400 汉字空间后发送](https://m.ithome.com/html/785632.htm)
+

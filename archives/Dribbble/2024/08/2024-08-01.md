@@ -241,3 +241,9 @@
 
 + [Travel AI Place Behance](https://dribbble.com/shots/)
 
++ [Cats - icon exploration](https://dribbble.com/shots/)
+
++ [Website Redesign for Cybersecurity Startup](https://dribbble.com/shots/)
+
++ [Gold Pro Analyzer - SaaS Branding](https://dribbble.com/shots/)
+
