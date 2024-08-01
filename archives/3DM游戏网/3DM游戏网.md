@@ -267,3 +267,43 @@
 
 + [《猫咪隐藏的时间轴》Steam页面 发售日待定](https://www.3dmgame.com/news/202408/3900883.html)
 
++ [新算命AI问世 经600万人数据训练可预测健康收入和死亡](https://www.3dmgame.com/news/202312/3884706.html)
+
++ [余承东把电影院搬到车内！华为问界M9全球首发32英寸升降式投影巨幕](https://www.3dmgame.com/news/202312/3884707.html)
+
++ [《完蛋！我也能追到美女了》12月29日发售 追求大美女](https://www.3dmgame.com/news/202312/3884704.html)
+
++ [研究人员创造出“电子土壤” 作物生长速度可提高50%](https://www.3dmgame.com/news/202312/3884705.html)
+
++ [横山昌义：《如龙8》暂时没有计划登陆XGP](https://www.3dmgame.com/news/202312/3884702.html)
+
++ [《GTA6》发售之后 R星或发布中世纪主题新IP](https://www.3dmgame.com/news/202312/3884703.html)
+
++ [《猩球崛起4》新剧照公布 大猩猩好奇翻阅书籍](https://www.3dmgame.com/news/202312/3884700.html)
+
++ [《神之天平外传：幻雾之洞窟》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3884701.html)
+
++ [《HELL by ROCK!》发布PC试玩版 摇滚节奏新游](https://www.3dmgame.com/news/202312/3884699.html)
+
++ [年末大促开启！《双点医院》限时特价入手即送DLC](https://www.3dmgame.com/news/202312/3884698.html)
+
++ [元旦高速日均流量可超3500万辆 猛增26％](https://www.3dmgame.com/news/202312/3884697.html)
+
++ [麦克演员认为《GTA6》女主角将带来新鲜刺激体验](https://www.3dmgame.com/news/202312/3884708.html)
+
++ [性价比不如AI！谷歌3万名员工面临裁员](https://www.3dmgame.com/news/202312/3884709.html)
+
++ [多款游戏登上央视网2023年巡礼短片：《博德之门3》等](https://www.3dmgame.com/news/202312/3884695.html)
+
++ [索尼数据确认：第一方游戏加入PS+会影响销量](https://www.3dmgame.com/news/202312/3884696.html)
+
++ [全国首个大规模近海桩基固定式海上光伏项目开工：建成年发电量6.9亿度](https://www.3dmgame.com/news/202312/3884714.html)
+
++ [Steam最新一周销量榜 《博德之门3》重回榜首](https://www.3dmgame.com/news/202312/3884713.html)
+
++ [《饿狼传说》特瑞全新高端手办 特殊像素风处理涂装精致特别](https://www.3dmgame.com/news/202312/3884712.html)
+
++ [《完蛋被美女包围》浩浩妈透露已怀孕两个月 真要当妈了](https://www.3dmgame.com/news/202312/3884711.html)
+
++ [老版《神秘博士》演员Richard Franklin去世 享年87岁](https://www.3dmgame.com/news/202312/3884710.html)
+
