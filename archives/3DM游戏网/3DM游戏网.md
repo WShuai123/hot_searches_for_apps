@@ -247,3 +247,15 @@
 
 + [复古JRPG游戏《八爪的秘密》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3900868.html)
 
++ [时隔556天回归！《魔兽世界》制作人：很感动中国玩家给第二次机会](https://www.3dmgame.com/news/202408/3900875.html)
+
++ [《Ai Vpet / 守护与智友》：创意工坊自制上传，你的AI宠物你做主](https://www.3dmgame.com/news/202408/3900880.html)
+
++ [马斯克再谈约架小扎 他是小个子应该能速战速决](https://www.3dmgame.com/news/202408/3900879.html)
+
++ [三天激烈谈判无果！三星大罢工陷入僵局](https://www.3dmgame.com/news/202408/3900877.html)
+
++ [外媒谈《黑神话》：借鉴了战神 神话爱好者的福音](https://www.3dmgame.com/news/202408/3900876.html)
+
++ [《过山车之星2》深度介绍视频 秋季发售](https://www.3dmgame.com/news/202408/3900874.html)
+

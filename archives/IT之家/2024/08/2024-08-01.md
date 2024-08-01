@@ -49,3 +49,5 @@
 
 + [苹果 iPhone 16 Pro 机模曝光：展示 3 种颜色，侧面配拍照按钮](https://m.ithome.com/html/785500.htm)
 
++ [4133 元，小米 SU7 官方高性能制动套装已开售：包含高性能制动片等](https://m.ithome.com/html/785552.htm)
+

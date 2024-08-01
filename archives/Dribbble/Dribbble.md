@@ -219,3 +219,13 @@
 
 + [Zara Home](https://dribbble.com/shots/)
 
++ [Paperpillar Links Page](https://dribbble.com/shots/)
+
++ [Simplified crypto iOS app: Buy in seconds, zero distractions.](https://dribbble.com/shots/)
+
++ [Wardrobe Mobile App: animation](https://dribbble.com/shots/)
+
++ [AIKE - Ecommerce Landing Page](https://dribbble.com/shots/)
+
++ [DYOR - Mascot](https://dribbble.com/shots/)
+
