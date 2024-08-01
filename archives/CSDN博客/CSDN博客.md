@@ -129,3 +129,7 @@
 
 + [鸿蒙开发仓颉语言扩展机制详解【扩展概述、直接扩展、接口扩展、访问规则】](https://blog.csdn.net/weixin_52908342/article/details/140860146)
 
++ [什么情况下你能接受 996](https://blog.csdn.net/w425772719/article/details/140840105)
+
++ [智能小程序 Ray 开发面板 SDK —— 智能设备模型 Hooks SDK 汇总（五）](https://blog.csdn.net/Ms_Smart/article/details/140662098)
+
