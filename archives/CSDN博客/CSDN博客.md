@@ -195,3 +195,11 @@
 
 + [拥抱 AI 时代：如何使用Blackbox AI 改善编程体验](https://blog.csdn.net/a1657054242/article/details/140844152)
 
++ [【TS】TypeScript类型断言：掌握类型转换的艺术](https://blog.csdn.net/qq_44214428/article/details/140754625)
+
++ [深耕编程语言18年，对话 Rust、TypeScript、Nushell 核心贡献者 Sophia Turner | Open AGI Forum](https://blog.csdn.net/GOSIM2023/article/details/140827314)
+
++ [PDF解析，还能做得更好](https://blog.csdn.net/INTSIG/article/details/140829266)
+
++ [【机器学习】探索图神经网络 (GNNs): 揭秘图结构数据处理的未来](https://blog.csdn.net/2202_76097976/article/details/140803622)
+

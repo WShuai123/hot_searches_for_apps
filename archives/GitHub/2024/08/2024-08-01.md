@@ -37,3 +37,21 @@
 
 + [xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading)
 
++ [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [bol-van / zapret](https://github.com/bol-van/zapret)
+
++ [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
+
++ [PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD)
+
++ [RSSNext / follow](https://github.com/RSSNext/follow)
+
++ [RedisInsight / RedisInsight](https://github.com/RedisInsight/RedisInsight)
+
++ [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
+

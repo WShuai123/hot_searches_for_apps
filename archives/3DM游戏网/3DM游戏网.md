@@ -259,3 +259,11 @@
 
 + [《过山车之星2》深度介绍视频 秋季发售](https://www.3dmgame.com/news/202408/3900874.html)
 
++ [KK官方对战平台存档翻倍活动劲爆开启！现在上线超值福利领到手软！](https://www.3dmgame.com/news/202408/3900884.html)
+
++ [《你所期望的永远》增强版10月登陆Steam 经典恋爱名作](https://www.3dmgame.com/news/202408/3900882.html)
+
++ [《地心护核者》Switch版宣布延期 9月17日发售](https://www.3dmgame.com/news/202408/3900881.html)
+
++ [《猫咪隐藏的时间轴》Steam页面 发售日待定](https://www.3dmgame.com/news/202408/3900883.html)
+

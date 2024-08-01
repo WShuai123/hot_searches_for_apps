@@ -229,3 +229,5 @@
 
 + [DYOR - Mascot](https://dribbble.com/shots/)
 
++ [Hotel Logo Collection](https://dribbble.com/shots/)
+
