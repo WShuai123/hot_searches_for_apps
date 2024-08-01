@@ -103,3 +103,7 @@
 
 + [IdeaBuddy](https://www.producthunt.com/posts/ideabuddy)
 
++ [erxes Business Messenger v2.0](https://www.producthunt.com/posts/erxes-business-messenger-v2-0)
+
++ [Private AI Assistant](https://www.producthunt.com/posts/private-ai-assistant)
+
