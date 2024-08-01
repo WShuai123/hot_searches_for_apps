@@ -59,3 +59,5 @@
 
 + [HTTP 响应中的字符编码和 XSS 漏洞利用](https://www.freebuf.com/articles/web/406608.html)
 
++ [警惕新型安卓恶意软件，掏空银行账户后设备数据也将不保](https://www.freebuf.com/news/407491.html)
+

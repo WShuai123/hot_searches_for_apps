@@ -149,3 +149,27 @@
 
 + [物理学中三个令人兴奋的想法：稳态作用原理、洛伦兹变换和度量张量](https://blog.csdn.net/gongdiwudu/article/details/140822658)
 
++ [深入解析 Go 语言 GMP 模型：并发编程的核心机制](https://blog.csdn.net/w425772719/article/details/140793828)
+
++ [[Docker][Docker简介]详细介绍](https://blog.csdn.net/qq_37281656/article/details/140763592)
+
++ [微软蓝屏事件：网络安全与系统稳定性的深刻反思](https://blog.csdn.net/yj11290301/article/details/140831541)
+
++ [基于FPGA的数字信号处理（20）--半加器和全减器](https://blog.csdn.net/wuzhikaidetb/article/details/140809979)
+
++ [操作系统（4）——文件系统](https://blog.csdn.net/weixin_74888502/article/details/140834074)
+
++ [【AI大模型】通义千问：开启语言模型新篇章与Function Call技术的应用探索](https://blog.csdn.net/m0_48173416/article/details/140736879)
+
++ [来自师兄的温馨提示：硬件搭建注意事项](https://blog.csdn.net/zhuoqingjoking97298/article/details/140796540)
+
++ [在亚马逊云科技AWS上利用RAG搭建一个向量库云原生AI对话机器人](https://blog.csdn.net/m0_66628975/article/details/140833870)
+
++ [SpringBoot+Vue+kkFileView实现文档管理(文档上传、下载、在线预览)](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/140823459)
+
++ [Vue3知识点汇总](https://blog.csdn.net/zf14840/article/details/140809435)
+
++ [Qt安卓开发的一些概念](https://blog.csdn.net/kenfan1647/article/details/140814160)
+
++ [使用 Postman 进行 Trello API 自动化测试的完整指南](https://blog.csdn.net/Huahua_1223/article/details/140808652)
+
