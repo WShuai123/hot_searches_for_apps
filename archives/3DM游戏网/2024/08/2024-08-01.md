@@ -219,3 +219,19 @@
 
 + [“透明”Xbox手柄苍穹秘语特别版国行8月20日发售 定价499元](https://www.3dmgame.com/news/202408/3900857.html)
 
++ [微软CFO有意将Xbox游戏业务完全变为订阅服务](https://www.3dmgame.com/news/202408/3900867.html)
+
++ [《英雄传说：界之轨迹》开场动画公布 9月26日发售](https://www.3dmgame.com/news/202408/3900860.html)
+
++ [《堡垒之夜》即将推出官方汉化 国际中文版将上线Epic](https://www.3dmgame.com/news/202408/3900865.html)
+
++ [《Unsought》登陆Steam 日本舞台恐怖探索](https://www.3dmgame.com/news/202408/3900866.html)
+
++ [AI领域将面临数据墙：高质量语言数据枯竭](https://www.3dmgame.com/news/202408/3900864.html)
+
++ [演员罢工EA老板并不担心：开发中项目短期内不会有影响](https://www.3dmgame.com/news/202408/3900863.html)
+
++ [《黑袍纠察队》深海扮演者提供完美谢幕方案：让深海淹死](https://www.3dmgame.com/news/202408/3900862.html)
+
++ [在时光中编织生活之诗《片语：蔚然生长》现已正式发售](https://www.3dmgame.com/news/202408/3900861.html)
+

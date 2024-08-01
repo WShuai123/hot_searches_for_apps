@@ -183,3 +183,7 @@
 
 + [普通人有必要学Python吗？学了之后能做什么?](https://blog.csdn.net/biancheng_syz/article/details/140772566)
 
++ [AIGC+Python——AI赋能网页爬虫](https://blog.csdn.net/m0_65555479/article/details/140790756)
+
++ [JDK 8 升级 17 及 springboot 2.x 升级 3.x 指南](https://blog.csdn.net/footless_bird/article/details/140770320)
+
