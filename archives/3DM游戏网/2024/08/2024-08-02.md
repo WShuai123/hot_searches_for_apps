@@ -229,3 +229,17 @@
 
 + [《GUNDAM创坏者4》即将举行第2次公开网络测试！同步公开特典及游戏情报](https://www.3dmgame.com/news/202408/3900950.html)
 
++ [8月进口网络游戏版号 彩虹六号、漫威争锋等过审](https://www.3dmgame.com/news/202408/3900960.html)
+
++ [裁员1.5万人 Intel财报：营收128亿美元 同比转盈为亏](https://www.3dmgame.com/news/202408/3900961.html)
+
++ [《黑神话》《影之刃零》并非PS独占 只是Xbox无人问津](https://www.3dmgame.com/news/202408/3900962.html)
+
++ [导致全球“蓝屏危机”科技公司已被股东起诉要求赔偿](https://www.3dmgame.com/news/202408/3900963.html)
+
++ [前苹果A系列工程师操刀！高通骁龙8 Gen4性能霸榜安卓](https://www.3dmgame.com/news/202408/3900964.html)
+
++ [纸片人射击卡拉彼丘迎来首个周年，清凉夏日海量福利不玩不行](https://www.3dmgame.com/news/202408/3900965.html)
+
++ [暑期燃情巨献！《疾风之刃：零》上线Steam，重温经典动作网游！](https://www.3dmgame.com/news/202408/3900966.html)
+
