@@ -149,3 +149,11 @@
 
 + [北美上演罕见日全食 关键词“眼睛受伤”谷歌搜索量激增](https://www.3dmgame.com/news/202404/3892340.html)
 
++ [THQ Nordic数字展分享《泰坦之旅2》新预告片](https://www.3dmgame.com/news/202408/3900991.html)
+
++ [《暗黑血统》新作公布 首个预告片展示焦灼议会](https://www.3dmgame.com/news/202408/3900989.html)
+
++ [知名游戏刊物Game Informer已被GameStop关闭](https://www.3dmgame.com/news/202408/3900990.html)
+
++ [《小小梦魇》开发商将在科隆展开幕夜公布新作](https://www.3dmgame.com/news/202408/3900988.html)
+
