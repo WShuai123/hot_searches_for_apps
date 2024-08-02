@@ -209,3 +209,23 @@
 
 + [漫改动画《中年大叔转生反派千金》全新预告发布 2025年1月开播](https://www.3dmgame.com/news/202408/3900944.html)
 
++ [《使命召唤：战区》新封禁潮：排行榜前列无人幸免](https://www.3dmgame.com/news/202408/3900959.html)
+
++ [尼康Z9抓拍奥运会冲浪神奇一刻 网友直呼感觉是P的](https://www.3dmgame.com/news/202408/3900958.html)
+
++ [《第一后裔》新增比基尼服装 展现女角性感身姿](https://www.3dmgame.com/news/202408/3900957.html)
+
++ [任天堂Q1新财报业绩全面下滑 Switch销量达到1.4342亿](https://www.3dmgame.com/news/202408/3900956.html)
+
++ [《全网公敌2 新世界》第四章现已更新！揭秘上流社会内幕！](https://www.3dmgame.com/news/202408/3900955.html)
+
++ [彼得·斯特曼回归《直到黎明》真人版电影饰演原作角色](https://www.3dmgame.com/news/202408/3900954.html)
+
++ [轻小说《乡下大叔成为剑圣》宣布动画化 首个预告放出 2025年4月开播](https://www.3dmgame.com/news/202408/3900953.html)
+
++ [《完蛋！我被美女包围了！》移动版上线 主机版8月8日发售](https://www.3dmgame.com/news/202408/3900952.html)
+
++ [高玩用40种武器无伤击败《艾尔登法环：黄金树幽影》最终BOSS 只为羞辱朋友](https://www.3dmgame.com/news/202408/3900951.html)
+
++ [《GUNDAM创坏者4》即将举行第2次公开网络测试！同步公开特典及游戏情报](https://www.3dmgame.com/news/202408/3900950.html)
+

@@ -147,3 +147,9 @@
 
 + [Stack Auth (YC S24)](https://www.producthunt.com/posts/stack-auth-yc-s24)
 
++ [MotionX](https://www.producthunt.com/posts/motionx-2)
+
++ [Choosy Chat](https://www.producthunt.com/posts/choosy-chat-2)
+
++ [Joint Angels](https://www.producthunt.com/posts/joint-angels)
+

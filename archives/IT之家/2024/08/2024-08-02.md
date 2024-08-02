@@ -43,3 +43,7 @@
 
 + [3999 元，华为 MateBook GT 14 外接 WIKO 显卡魔方上架：RX 7600M XT，内置 240W 电源](https://m.ithome.com/html/785759.htm)
 
++ [雷军晒照“打卡”纽北赛道，小米 SU7 Ultra 原型车 10 月开跑](https://m.ithome.com/html/785806.htm)
+
++ [延长 2 年保修，英特尔为存在不稳定情况的第 13/14 代酷睿台式处理器提供 5 年保修](https://m.ithome.com/html/785741.htm)
+
