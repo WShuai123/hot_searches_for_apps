@@ -309,3 +309,7 @@
 
 + [三星玄龙骑士G80SD电竞显示器上架 4K@240Hz](https://www.3dmgame.com/news/202408/3900978.html)
 
++ [成龙李连杰《功夫之王》8月3日重映 持续一个月](https://www.3dmgame.com/news/202408/3900981.html)
+
++ [《地狱之刃2》发售两个月后 Steam 24小时峰值仅50人](https://www.3dmgame.com/news/202408/3900980.html)
+
