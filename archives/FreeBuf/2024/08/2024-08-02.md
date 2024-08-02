@@ -59,3 +59,5 @@
 
 + [Radamsa：一款高性能通用模糊测试工具](https://www.freebuf.com/sectool/407180.html)
 
++ [如何防范HVV供应链攻击；数据安全管理岗的归属问题 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/407637.html)
+
