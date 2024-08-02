@@ -49,3 +49,25 @@
 
 + [CH24 Pocket Square](https://dribbble.com/shots/)
 
++ [Dinosaur](https://dribbble.com/shots/)
+
++ [Midnight Melodies: The Jazz Chronicles](https://dribbble.com/shots/)
+
++ [Namma](https://dribbble.com/shots/)
+
++ [Phoenix Games Prints](https://dribbble.com/shots/)
+
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
++ [Burch Supply Co Heritage Script](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [Dragönsteel Alts](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Tertiary Logo](https://dribbble.com/shots/)
+

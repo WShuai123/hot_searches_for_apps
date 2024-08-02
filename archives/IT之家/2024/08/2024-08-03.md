@@ -25,3 +25,5 @@
 
 + [续航再升级！苹果 iPhone 16 Pro Max 电池容量被曝达 4676mAh](https://m.ithome.com/html/785919.htm)
 
++ [马来西亚钱包暂停运营？微信支付回应：9 月 1 日起正式停止所有服务](https://m.ithome.com/html/785890.htm)
+

@@ -201,3 +201,5 @@
 
 + [腾讯体育-看奥运NBA足球](https://itunes.apple.com/cn/app/id570608623?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
