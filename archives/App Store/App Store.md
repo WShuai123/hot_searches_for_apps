@@ -203,3 +203,11 @@
 
 + [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
 
++ [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
+
++ [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [河马剧场-全网热门短剧无限看](https://itunes.apple.com/cn/app/id6451242037?mt=8)
+
