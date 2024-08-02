@@ -27,3 +27,5 @@
 
 + [马来西亚钱包暂停运营？微信支付回应：9 月 1 日起正式停止所有服务](https://m.ithome.com/html/785890.htm)
 
++ [库克：正推动 Apple Intelligence 在中国落地，目标为所有苹果用户提供 AI 服务](https://m.ithome.com/html/785749.htm)
+
