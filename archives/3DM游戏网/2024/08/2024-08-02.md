@@ -131,3 +131,17 @@
 
 + [清洁邮轮《冲就完事模拟器》推出全新免费DLC](https://www.3dmgame.com/news/202408/3900902.html)
 
++ [传闻：《龙腾世纪：影障守护者》将于10月下旬发售](https://www.3dmgame.com/news/202408/3900916.html)
+
++ [大作扎堆秋季 传《宣誓》可能跳票到2025年年初](https://www.3dmgame.com/news/202408/3900912.html)
+
++ [《浪漫沙加2重制版》全新截图 游戏战斗情报透露](https://www.3dmgame.com/news/202408/3900917.html)
+
++ [4X策略游戏《太阳帝国的原罪2》发售日 8月16日发售](https://www.3dmgame.com/news/202408/3900915.html)
+
++ [《灰区战争》下个大型更新将在2024年科隆游戏展上公开](https://www.3dmgame.com/news/202408/3900914.html)
+
++ [传阿汤哥将表演惊险特技 结束法国巴黎奥运会](https://www.3dmgame.com/news/202408/3900913.html)
+
++ [EA大赞AI：使用AI很有帮助 让我们的新作更有吸引力](https://www.3dmgame.com/news/202408/3900911.html)
+

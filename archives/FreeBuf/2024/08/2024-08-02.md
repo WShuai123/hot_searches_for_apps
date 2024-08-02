@@ -45,3 +45,7 @@
 
 + [大模型在网络安全方面的应用汇总](https://www.freebuf.com/articles/network/407201.html)
 
++ [攻防演练 | 记一次打穿某车企全过程](https://www.freebuf.com/articles/web/372933.html)
+
++ [解析CLFS：从CVE-2022-24481到CVE-2022-35803类型混淆权限提升](https://www.freebuf.com/articles/system/407472.html)
+

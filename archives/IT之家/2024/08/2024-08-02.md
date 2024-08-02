@@ -27,3 +27,5 @@
 
 + [续航、流畅度未达标，小米 12 系列手机无缘澎湃 HyperOS “高级材质”功能](https://m.ithome.com/html/785720.htm)
 
++ [华为系首款 MPV 车型谍照曝光：卖点影音、空悬，口号“跟传统 MPV 说 Bye Bye”](https://m.ithome.com/html/785651.htm)
+
