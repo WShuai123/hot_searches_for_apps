@@ -145,3 +145,25 @@
 
 + [EA大赞AI：使用AI很有帮助 让我们的新作更有吸引力](https://www.3dmgame.com/news/202408/3900911.html)
 
++ [Bungie极左游戏设计师被裁 是Sweet Baby铁杆粉丝](https://www.3dmgame.com/news/202408/3900925.html)
+
++ [PS2经典游戏《星球大战：赏金猎人》现已发布PC移植版](https://www.3dmgame.com/news/202408/3900926.html)
+
++ [《直到黎明》重制版获得ESRB评级 将登陆PS5和PC](https://www.3dmgame.com/news/202408/3900923.html)
+
++ [3v3战术竞技射击游戏《Spectre Divide》Steam页面 支持中文](https://www.3dmgame.com/news/202408/3900924.html)
+
++ [模拟经营游戏《汽车制造》推出抢先体验版 已获多半好评](https://www.3dmgame.com/news/202408/3900922.html)
+
++ [Quest没人买？Meta虚拟现实部门Q2损失达45亿美元](https://www.3dmgame.com/news/202408/3900921.html)
+
++ [《星空》DLC《破碎空间》据传将于9月发售 科隆会宣布](https://www.3dmgame.com/news/202408/3900920.html)
+
++ [罗布乐思第二季度财务表现强劲 首席财务官离职](https://www.3dmgame.com/news/202408/3900927.html)
+
++ [杰瑞米·雷纳暗示回归《复仇者联盟5》电影 继续饰演鹰眼](https://www.3dmgame.com/news/202408/3900919.html)
+
++ [开发者表示 为苹果的平台制作游戏就像陷入了一种虐待关系](https://www.3dmgame.com/news/202408/3900918.html)
+
++ [谷歌重拳打击deepfake内容 防止霉霉“不雅照”事件再出现](https://www.3dmgame.com/news/202408/3900928.html)
+

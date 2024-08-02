@@ -29,3 +29,5 @@
 
 + [华为系首款 MPV 车型谍照曝光：卖点影音、空悬，口号“跟传统 MPV 说 Bye Bye”](https://m.ithome.com/html/785651.htm)
 
++ [英特尔宣布裁员 1.5 万人，CEO 帕特・基辛格：令人痛苦、非常艰难](https://m.ithome.com/html/785740.htm)
+
