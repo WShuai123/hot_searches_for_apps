@@ -305,3 +305,7 @@
 
 + [网飞电影《城市猎人》正式预告 4月25日上线](https://www.3dmgame.com/news/202404/3892266.html)
 
++ [《监狱建筑师2》宣布无限期跳票 所有预购将会退款](https://www.3dmgame.com/news/202408/3900979.html)
+
++ [三星玄龙骑士G80SD电竞显示器上架 4K@240Hz](https://www.3dmgame.com/news/202408/3900978.html)
+
