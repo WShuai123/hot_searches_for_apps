@@ -89,3 +89,51 @@
 
 + [good times / thick lines](https://dribbble.com/shots/)
 
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [Sold Logos Part Four](https://dribbble.com/shots/)
+
++ [Scaling new heights](https://dribbble.com/shots/)
+
++ [Little bot](https://dribbble.com/shots/)
+
++ [TrustedSec Inspiration: Hackers](https://dribbble.com/shots/)
+
++ [Garden](https://dribbble.com/shots/)
+
++ [Redesign Logo Plaid](https://dribbble.com/shots/)
+
++ [Hero Header for SimpleList](https://dribbble.com/shots/)
+
++ [Robot Management](https://dribbble.com/shots/)
+
++ [SNEAKERS LOGO](https://dribbble.com/shots/)
+
++ [Event Horizon](https://dribbble.com/shots/)
+
++ [Platform for a Pharmaceutical Company Database](https://dribbble.com/shots/)
+
++ [Billboard Eyeball](https://dribbble.com/shots/)
+
++ [Irwin Identity + Case Study](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Woodbird](https://dribbble.com/shots/)
+
++ [Graffiti Gang ????](https://dribbble.com/shots/)
+
++ [SaucerSwap - Logo Design](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Logo System](https://dribbble.com/shots/)
+
++ [Gorilla Logo](https://dribbble.com/shots/)
+
++ [Arcana | Logo design](https://dribbble.com/shots/)
+
++ [Bedding and Linens Ecommerce Website](https://dribbble.com/shots/)
+
++ [Crypto Portfolio Web Design for Admin & Dashboard React Template](https://dribbble.com/shots/)
+

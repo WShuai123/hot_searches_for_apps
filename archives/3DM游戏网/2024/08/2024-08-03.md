@@ -101,3 +101,51 @@
 
 + [《GUNDAM创坏者4》即将举行第2次公开网络测试！同步公开特典及游戏情报](https://www.3dmgame.com/news/202408/3900950.html)
 
++ [生存恐怖《Pneumata》8月20日发售 登陆主机和PC](https://www.3dmgame.com/news/202408/3900984.html)
+
++ [动作冒险《Selfloss》9月12日发售 登陆PC和主机](https://www.3dmgame.com/news/202408/3900985.html)
+
++ [华为、苹果都靠边！小米手机拿下中国第一](https://www.3dmgame.com/news/202408/3900986.html)
+
++ [董明珠：格力正在开发不要电的空调！直连光伏 0电费](https://www.3dmgame.com/news/202408/3900987.html)
+
++ [《刺客信条：幻景》1.08更新即将上线 完善现有内容](https://www.3dmgame.com/news/202404/3892321.html)
+
++ [《无主之地》真人电影新剧照 六大主演集体亮相](https://www.3dmgame.com/news/202404/3892322.html)
+
++ [MMORPG《寻路者》因更换发行商而暂时从Steam平台下架](https://www.3dmgame.com/news/202404/3892323.html)
+
++ [集英社官方警告 《火影忍者》岸本齐史本人没有发布任何SNS](https://www.3dmgame.com/news/202404/3892324.html)
+
++ [电子TCG开发者：已支付AI画师9万美元生成立绘](https://www.3dmgame.com/news/202404/3892327.html)
+
++ [《仙剑世界》“万物有灵”PV预告 三测将在5月开启](https://www.3dmgame.com/news/202404/3892325.html)
+
++ [继日本官网后 任天堂再次更新其欧洲官网URL地址](https://www.3dmgame.com/news/202404/3892326.html)
+
++ [《妖精的尾巴：百年任务》新角色艺图公布 7月开播](https://www.3dmgame.com/news/202404/3892328.html)
+
++ [类银河恶魔城游戏《希巴：新的黎明》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3892329.html)
+
++ [《Leo: The Firefighter Cat》Steam页面上线 10月发售](https://www.3dmgame.com/news/202404/3892330.html)
+
++ [《遗迹2》发行商宣布更名为ARC GAMES 将继续发行游戏](https://www.3dmgame.com/news/202404/3892331.html)
+
++ [LOL将推出类吸血鬼幸存者模式 或年中活动上线](https://www.3dmgame.com/news/202404/3892332.html)
+
++ [《Throne of Bone》Steam抢测 肉鸽元素自走棋新游](https://www.3dmgame.com/news/202404/3892333.html)
+
++ [《彩虹棉花小魔女》Steam页面上线 5月9日发售](https://www.3dmgame.com/news/202404/3892334.html)
+
++ [马斯克谈AI 预测AI在明年会超越最聪明的人类](https://www.3dmgame.com/news/202404/3892335.html)
+
++ [自主建造 “深海一号”二期最大水下生产设施完成就位](https://www.3dmgame.com/news/202404/3892336.html)
+
++ [据报道网飞Netflix宣布裁员 并重组旗下电影部门](https://www.3dmgame.com/news/202404/3892337.html)
+
++ [网易回应暴雪国服回归：4月10日肯定官宣！](https://www.3dmgame.com/news/202404/3892338.html)
+
++ [官方整活 《地狱潜者2》为剿灭机器人的玩家提供1分钟休息作为奖励](https://www.3dmgame.com/news/202404/3892339.html)
+
++ [北美上演罕见日全食 关键词“眼睛受伤”谷歌搜索量激增](https://www.3dmgame.com/news/202404/3892340.html)
+
