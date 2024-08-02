@@ -187,3 +187,13 @@
 
 + [《宝可梦不可思议迷宫 赤之救助队》宣布8月9日加入Switch高级会员游戏库](https://www.3dmgame.com/news/202408/3900937.html)
 
++ [AI势头不减！微软谷歌继续买GPU：英伟达AMD还要赚](https://www.3dmgame.com/news/202408/3900943.html)
+
++ [2D风格动作冒险游戏《神的超级大宝贝》已推出试玩Demo 预计9月6日发售](https://www.3dmgame.com/news/202408/3900940.html)
+
++ [Bungie老板被曝2年耗资2百多万美元买古董车 被裁员工怒不可遏](https://www.3dmgame.com/news/202408/3900942.html)
+
++ [《孤独的独立游戏开发者的一生》Steam页面 支持中文](https://www.3dmgame.com/news/202408/3900941.html)
+
++ [休闲派对格斗游戏《外星软糖人》现已结束抢先体验推出正式版](https://www.3dmgame.com/news/202408/3900939.html)
+

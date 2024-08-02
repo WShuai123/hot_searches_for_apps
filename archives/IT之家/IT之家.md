@@ -41,3 +41,5 @@
 
 + [小米之家电子小票全面上线，即日起不再主动提供纸质小票](https://m.ithome.com/html/785688.htm)
 
++ [3999 元，华为 MateBook GT 14 外接 WIKO 显卡魔方上架：RX 7600M XT，内置 240W 电源](https://m.ithome.com/html/785759.htm)
+

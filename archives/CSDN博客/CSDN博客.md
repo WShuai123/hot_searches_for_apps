@@ -207,3 +207,35 @@
 
 + [基于FPGA的数字信号处理（21）--超前进位加法器](https://blog.csdn.net/wuzhikaidetb/article/details/140863879)
 
++ [超详细的基于 Gunicorn + Flask + Docker 模型高并发部署教程](https://blog.csdn.net/qq_28513801/article/details/140866998)
+
++ [MSTR：智慧无处不在，可信任 AI 的崛起](https://blog.csdn.net/dataondemand0514/article/details/140868862)
+
++ [ijkplayer 自定义协议播放加密内容 Android](https://blog.csdn.net/juruiyuan111/article/details/140867553)
+
++ [Docker Image 详细讲解](https://blog.csdn.net/hai40587/article/details/140867506)
+
++ [Ubuntu配置Ngbatis学习环境](https://blog.csdn.net/qq_47753695/article/details/140476722)
+
++ [【Spark高级应用】使用Spark进行高级数据处理与分析](https://blog.csdn.net/weixin_39372311/article/details/140867269)
+
++ [目标跟踪ByteTrack论文代码详解（Python）](https://blog.csdn.net/weixin_43013458/article/details/140841334)
+
++ [吴恩达机器学习L1W3L4-逻辑回归之对率损失](https://blog.csdn.net/weixin_50946965/article/details/140845944)
+
++ [在IoT中的TCP增强](https://blog.csdn.net/bit_mike/article/details/140868532)
+
++ [yolov5的学习part1](https://blog.csdn.net/E___V___E/article/details/140831307)
+
++ [Specular-Gaussians代码在ubuntu20.04 & nvidia 4090下的实践](https://blog.csdn.net/maryu/article/details/140864657)
+
++ [强化学习之Dyna-Q算法——以悬崖漫步环境为例](https://blog.csdn.net/m0_56497861/article/details/140864344)
+
++ [数据挖掘实战-基于Prophet时间序列模型预测阿里巴巴股票价格趋势（文末送书）](https://blog.csdn.net/m0_64336780/article/details/138803481)
+
++ [ADI - 通过5 V至24 V输入提供双极性、双向DC-DC流入和流出电流](https://blog.csdn.net/2301_79716471/article/details/140868365)
+
++ [rem理解以及umi react](https://blog.csdn.net/2301_79074970/article/details/140867010)
+
++ [智能巡检机器人怎么选？](https://blog.csdn.net/Chaoweijiqiren/article/details/140867261)
+
