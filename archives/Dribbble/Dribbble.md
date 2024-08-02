@@ -183,3 +183,13 @@
 
 + [FlowFunds - Branding for Fintech](https://dribbble.com/shots/)
 
++ [Event Horizon](https://dribbble.com/shots/)
+
++ [Revolve, game development studio logo design: dynamic rotating R](https://dribbble.com/shots/)
+
++ [Graphic illustration. Air balloon](https://dribbble.com/shots/)
+
++ [Gorilla Logo](https://dribbble.com/shots/)
+
++ [Argggh!](https://dribbble.com/shots/)
+

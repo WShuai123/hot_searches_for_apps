@@ -197,3 +197,15 @@
 
 + [休闲派对格斗游戏《外星软糖人》现已结束抢先体验推出正式版](https://www.3dmgame.com/news/202408/3900939.html)
 
++ [Suno承认使用版权音乐训练AI模型 “取经”学习不算侵权](https://www.3dmgame.com/news/202408/3900949.html)
+
++ [修仙版《文明》？4X修仙游戏《宗门志》现已开启免费试玩](https://www.3dmgame.com/news/202408/3900948.html)
+
++ [《命运》的“大结局”：系列执行创意总监和副总裁均已离开公司](https://www.3dmgame.com/news/202408/3900947.html)
+
++ [AI芯片市场占有率90% 英伟达面临美国司法部反垄断调查](https://www.3dmgame.com/news/202408/3900946.html)
+
++ [发行商PLAYISM宣布8月8日举行游戏发布会 介绍9款游戏](https://www.3dmgame.com/news/202408/3900945.html)
+
++ [漫改动画《中年大叔转生反派千金》全新预告发布 2025年1月开播](https://www.3dmgame.com/news/202408/3900944.html)
+

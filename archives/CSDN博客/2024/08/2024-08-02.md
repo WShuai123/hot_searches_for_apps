@@ -239,3 +239,39 @@
 
 + [智能巡检机器人怎么选？](https://blog.csdn.net/Chaoweijiqiren/article/details/140867261)
 
++ [【TS】TypeScript声明文件：打通JavaScript和TypeScript的桥梁](https://blog.csdn.net/qq_44214428/article/details/140754714)
+
++ [深入浅出：可视化理解揭示决策树与梯度提升背后的数学原理](https://blog.csdn.net/m0_46510245/article/details/140868668)
+
++ [第十九届全国大学生智能车竞赛 | 华东赛区获奖信息](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865371)
+
++ [openGauss 5.0 LTS部署至华为云ECS CentOS8.2实操教程](https://blog.csdn.net/GaussDB/article/details/140867503)
+
++ [U-Net++原理与实现(含Pytorch和TensorFlow源码)](https://blog.csdn.net/m0_59257547/article/details/140862066)
+
++ [Spring Cache框架（AOP思想）+ Redis实现数据缓存](https://blog.csdn.net/qq_45607971/article/details/140867447)
+
++ [Mongodb命令大全](https://blog.csdn.net/a1053765496/article/details/140857105)
+
++ [SELF-QA：无监督知识引导语言模型对齐](https://blog.csdn.net/2202_75336422/article/details/140866160)
+
++ [SpringBoot核心注解@SpringBootApplication和自动配置原理](https://blog.csdn.net/daameng/article/details/140790769)
+
++ [unity和c#问题记录（2）](https://blog.csdn.net/red_redemption/article/details/140716453)
+
++ [人工智能深度学习系列—深度学习损失函数中的Focal Loss解析](https://blog.csdn.net/u013889591/article/details/140860711)
+
++ [LLMCad：高效执行生成式自然语言处理（NLP）任务](https://blog.csdn.net/AI_Conf/article/details/140831470)
+
++ [Rust Web框的比较，你学到了什么？](https://blog.csdn.net/wangonik_l/article/details/140867085)
+
++ [[Day 42] 區塊鏈與人工智能的聯動應用：理論、技術與實踐](https://blog.csdn.net/2401_83208854/article/details/140860149)
+
++ [后端开发和你聊聊 JVM 如何优化](https://blog.csdn.net/zheli1969917/article/details/140867574)
+
++ [Oracle 高阶函数与高级功能详解](https://blog.csdn.net/qq_38411796/article/details/140864643)
+
++ [Srping MVC工作流程及源码分析？](https://blog.csdn.net/DHG2012/article/details/140862646)
+
++ [校园课程助手【4】-使用Elasticsearch实现课程检索](https://blog.csdn.net/qq_43954910/article/details/140866441)
+
