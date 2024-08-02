@@ -113,3 +113,21 @@
 
 + [《NBA 2K25》新视频展示ProPLAY动画/新运球引擎](https://www.3dmgame.com/news/202408/3900901.html)
 
++ [《冰汽时代2》“执政官101”第四集预告：人性绝难](https://www.3dmgame.com/news/202408/3900910.html)
+
++ [Bungie被索尼收购后 CEO豪掷数百万美元购买老爷车](https://www.3dmgame.com/news/202408/3900909.html)
+
++ [玩家扬言要起诉FS社 因《艾尔登法环》难度过高让其无法体验隐藏内容](https://www.3dmgame.com/news/202408/3900908.html)
+
++ [让人兴奋！《文明7》首个实机演示将于8月21日公布](https://www.3dmgame.com/news/202408/3900907.html)
+
++ [育碧将推出美式足球游戏 与其他厂商竞争运动游戏](https://www.3dmgame.com/news/202408/3900906.html)
+
++ [Bungie新作取消开发将继续支持《命运2》](https://www.3dmgame.com/news/202408/3900905.html)
+
++ [《真人快打2》首张剧照曝光经典女主展示铁扇](https://www.3dmgame.com/news/202408/3900904.html)
+
++ [《刀剑神域 碎梦边境》坦克角色艾基尔预告公开](https://www.3dmgame.com/news/202408/3900903.html)
+
++ [清洁邮轮《冲就完事模拟器》推出全新免费DLC](https://www.3dmgame.com/news/202408/3900902.html)
+

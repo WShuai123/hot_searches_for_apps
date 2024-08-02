@@ -41,3 +41,7 @@
 
 + [网安PDF资料限免！ FreeBuf资源笔记免费兑换活动上线](https://www.freebuf.com/news/407127.html)
 
++ [FreeBuf早报 | 67 个App已启动网络身份证试点；谷歌官方广告平台正传播恶意软件](https://www.freebuf.com/news/407506.html)
+
++ [大模型在网络安全方面的应用汇总](https://www.freebuf.com/articles/network/407201.html)
+

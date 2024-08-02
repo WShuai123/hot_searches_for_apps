@@ -75,3 +75,5 @@
 
 + [如何看待张怡宁用备用板淘汰冯天薇](http://www.acfun.cn/v/ac46036240)
 
++ [高分局！没想到faker分全场最低！快速看完一局韩服王者斗殴局#577 Faker,MoHaM,](http://www.acfun.cn/v/ac45963693)
+
