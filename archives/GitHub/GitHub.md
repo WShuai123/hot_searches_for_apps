@@ -31,3 +31,23 @@
 
 + [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
++ [projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
+
++ [pytorch / torchchat](https://github.com/pytorch/torchchat)
+
++ [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [teaxyz / white-paper](https://github.com/teaxyz/white-paper)
+
++ [rancher / rancher](https://github.com/rancher/rancher)
+
++ [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [pytorch / executorch](https://github.com/pytorch/executorch)
+
++ [getredash / redash](https://github.com/getredash/redash)
+

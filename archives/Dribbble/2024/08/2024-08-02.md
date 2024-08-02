@@ -205,3 +205,15 @@
 
 + [VO or OV](https://dribbble.com/shots/)
 
++ [Redesign Logo Plaid](https://dribbble.com/shots/)
+
++ [Little bot](https://dribbble.com/shots/)
+
++ [Billboard Eyeball](https://dribbble.com/shots/)
+
++ [Robot Management](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Treatment Booking Flow in Patient Mobile App](https://dribbble.com/shots/)
+
++ [Stock investment app](https://dribbble.com/shots/)
+
