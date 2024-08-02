@@ -31,3 +31,7 @@
 
 + [英特尔宣布裁员 1.5 万人，CEO 帕特・基辛格：令人痛苦、非常艰难](https://m.ithome.com/html/785740.htm)
 
++ [华为 MateBook GT 14 开启预售：专业性能旗舰系列，拥有 115W 性能释放](https://m.ithome.com/html/785733.htm)
+
++ [小米米家户外休闲双肩包上市：约 0.5kg 轻量化设计、短时防渗水，199 元](https://m.ithome.com/html/785708.htm)
+

@@ -49,3 +49,7 @@
 
 + [解析CLFS：从CVE-2022-24481到CVE-2022-35803类型混淆权限提升](https://www.freebuf.com/articles/system/407472.html)
 
++ [攻击者劫持 Facebook 页面用于推广恶意 AI 照片编辑器](https://www.freebuf.com/news/407579.html)
+
++ [300家印度小型银行因勒索软件攻击导致支付系统暂时中断](https://www.freebuf.com/news/407594.html)
+

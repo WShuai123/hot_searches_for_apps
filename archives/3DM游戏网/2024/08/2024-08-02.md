@@ -167,3 +167,23 @@
 
 + [谷歌重拳打击deepfake内容 防止霉霉“不雅照”事件再出现](https://www.3dmgame.com/news/202408/3900928.html)
 
++ [Xbox错误发布 《方舟2》不会在科隆游戏展上提供试玩](https://www.3dmgame.com/news/202408/3900929.html)
+
++ [《异形：夺命舰》曝首个官方片段 距离上映仅剩2周](https://www.3dmgame.com/news/202408/3900931.html)
+
++ [日版Xbox Series X|S主机再次涨价 8月15日起实施](https://www.3dmgame.com/news/202408/3900932.html)
+
++ [2D像素风模拟游戏《PLANET IX》Steam页面 发行日期待定](https://www.3dmgame.com/news/202408/3900933.html)
+
++ [搞怪游戏《持枪松鼠》实机演示 今年秋天发售](https://www.3dmgame.com/news/202408/3900930.html)
+
++ [前V社任职经济学家：苹果谷歌平台应支付“云端税”](https://www.3dmgame.com/news/202408/3900934.html)
+
++ [时隔3年玩家再度开发《塞尔达传说：时之笛》速通技巧](https://www.3dmgame.com/news/202408/3900935.html)
+
++ [恐怖游戏《纸不语》PV：以身入局，共演傩戏](https://www.3dmgame.com/news/202408/3900936.html)
+
++ [独立游戏发行商Armor Games整个发行团队已被裁员](https://www.3dmgame.com/news/202408/3900938.html)
+
++ [《宝可梦不可思议迷宫 赤之救助队》宣布8月9日加入Switch高级会员游戏库](https://www.3dmgame.com/news/202408/3900937.html)
+
