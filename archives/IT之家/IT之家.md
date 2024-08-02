@@ -55,3 +55,7 @@
 
 + [消息称奥迪“中国特供”电动汽车不使用“四环”logo，首款概念车 11 月亮相](https://m.ithome.com/html/785863.htm)
 
++ [小米澎湃 OS 发布最后一个开发版，未来向内测用户提供“Beta 版”](https://m.ithome.com/html/785884.htm)
+
++ [成都街头现汽车盖黑布场景，目击者称赛力斯起火后引燃蔚来](https://m.ithome.com/html/785922.htm)
+

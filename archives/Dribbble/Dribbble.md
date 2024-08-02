@@ -227,3 +227,17 @@
 
 + [Big eye](https://dribbble.com/shots/)
 
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [Summer Break - Talk soon!](https://dribbble.com/shots/)
+
++ [Scaling new heights](https://dribbble.com/shots/)
+
++ [TrustedSec Inspiration: Hackers](https://dribbble.com/shots/)
+
++ [Arcana | Logo design](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Logo System](https://dribbble.com/shots/)
+
++ [Graffiti Gang ????](https://dribbble.com/shots/)
+
