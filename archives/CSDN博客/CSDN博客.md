@@ -159,3 +159,51 @@
 
 + [ffmpeg 的内存分配架构1](https://blog.csdn.net/hejinjing_tom_com/article/details/140853943)
 
++ [平舌、翘舌音学习： z、c、s--zh、ch、sh](https://blog.csdn.net/kingmax54212008/article/details/140842148)
+
++ [Elasticsearch：使用 API 密钥验证添加远程集群](https://blog.csdn.net/UbuntuTouch/article/details/140856877)
+
++ [Android 实现屏幕录制](https://blog.csdn.net/wolf0706/article/details/140801127)
+
++ [Halcon学习之create_shape_model案例分解](https://blog.csdn.net/qq_41184334/article/details/140815182)
+
++ [【编码心得】单元测试的那些事](https://blog.csdn.net/qq_33193972/article/details/140864169)
+
++ [南大通用GBase 8a MPP Cluster分析型数据库在某行业典型实施部署方案（二）](https://blog.csdn.net/weixin_47390342/article/details/140867457)
+
++ [一文全面了解HPC高性能计算平台是什么、怎么选型？高性能计算平台CHPC 都能做什么？](https://blog.csdn.net/Foolforuuu/article/details/140853173)
+
++ [证券市场程序化交易管理规定（试行）（征求意见稿）](https://blog.csdn.net/cwt260732160/article/details/140867397)
+
++ [使用开源RustDesk部署远程控制服务](https://blog.csdn.net/xinxiaoyu_/article/details/140867185)
+
++ [【论文速读】| 在安全运营中心使用大语言模型来实现威胁情报分析工作流程的自动化](https://blog.csdn.net/m0_73736695/article/details/140867509)
+
++ [.NET 7 依赖注入框架详解](https://blog.csdn.net/qq_40998698/article/details/140868167)
+
++ [[openGauss]使用clion远程调试openGauss](https://blog.csdn.net/bin_xiao/article/details/140868230)
+
++ [【深度学习】FPS](https://blog.csdn.net/weixin_31866177/article/details/140867005)
+
++ [构建安全的软件生态系统：反射API与代码注入防御的深度融合](https://blog.csdn.net/apijunjun/article/details/140868147)
+
++ [人工智能处理语言对话的三维美好世界的源码和制作方法](https://blog.csdn.net/2401_86315803/article/details/140856079)
+
++ [svd在求解最小二乘中的应用](https://blog.csdn.net/xinxiangwangzhi_/article/details/140857761)
+
++ [lodge 学习](https://blog.csdn.net/qq_53930200/article/details/140846393)
+
++ [微服务间的鉴权](https://blog.csdn.net/songtaiwu/article/details/140864475)
+
++ [人大金仓数据库KES RAC流复制的相关参数配置](https://blog.csdn.net/arthemis_14/article/details/140868059)
+
++ [随机森林的可解释性分析（含python代码）](https://blog.csdn.net/m0_59257547/article/details/140826437)
+
++ [AI可解释性(Python语言版)书籍推荐](https://blog.csdn.net/yuan2019035055/article/details/140847282)
+
++ [德勤笔试校招25届考什么？如何过在线测评｜附真题库通关高分攻略](https://blog.csdn.net/Dgntsj/article/details/140868888)
+
++ [使用 Prometheus 和 Grafana 为 DigitalOcean 托管数据库设置监控功能](https://blog.csdn.net/DO_Community/article/details/140867714)
+
++ [基于FPGA的数字信号处理（21）--超前进位加法器](https://blog.csdn.net/wuzhikaidetb/article/details/140863879)
+

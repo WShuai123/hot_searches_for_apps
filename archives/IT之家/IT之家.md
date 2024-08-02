@@ -35,3 +35,9 @@
 
 + [小米米家户外休闲双肩包上市：约 0.5kg 轻量化设计、短时防渗水，199 元](https://m.ithome.com/html/785708.htm)
 
++ [vivo X200 标准版谍照曝光：预计 10 月发布，搭载联发科天玑 9400 芯片](https://m.ithome.com/html/785713.htm)
+
++ [小米详解 SU7 高性能制动套装：可适用于更激烈的非日常驾驶工况](https://m.ithome.com/html/785715.htm)
+
++ [小米之家电子小票全面上线，即日起不再主动提供纸质小票](https://m.ithome.com/html/785688.htm)
+
