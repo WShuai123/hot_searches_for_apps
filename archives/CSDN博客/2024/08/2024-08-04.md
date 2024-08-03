@@ -127,3 +127,5 @@
 
 + [Python实战：wxauto与百度千帆大模型结合快速实现微信智能回复机器人](https://blog.csdn.net/Srlua/article/details/140895023)
 
++ [【大模型应用开发 动手做AI Agent】第二轮行动：工具执行计算](https://blog.csdn.net/universsky2015/article/details/140899391)
+
