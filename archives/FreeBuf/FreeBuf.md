@@ -51,3 +51,5 @@
 
 + [某个OA系统的代码审计](https://www.freebuf.com/defense/406809.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+

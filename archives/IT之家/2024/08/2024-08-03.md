@@ -41,3 +41,7 @@
 
 + [小红书 11 周年信承认大公司病：官架子大、决策拖沓，需要重新出发](https://m.ithome.com/html/785878.htm)
 
++ [设计抄袭苹果？李在镕对三星移动部门表示不满](https://m.ithome.com/html/785933.htm)
+
++ [周鸿祎回应将成 360 第一大股东：会和公司一起走下去](https://m.ithome.com/html/785956.htm)
+
