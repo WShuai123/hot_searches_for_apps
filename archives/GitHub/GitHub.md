@@ -33,3 +33,23 @@
 
 + [getredash / redash](https://github.com/getredash/redash)
 
++ [asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec)
+
++ [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+
++ [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
++ [xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI)
+
++ [mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm)
+
++ [zulip / zulip](https://github.com/zulip/zulip)
+
++ [google / benchmark](https://github.com/google/benchmark)
+
++ [apache / apisix](https://github.com/apache/apisix)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
