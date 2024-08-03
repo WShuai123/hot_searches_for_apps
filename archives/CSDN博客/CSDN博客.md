@@ -201,3 +201,9 @@
 
 + [【前端 21】Vue Router路由配置](https://blog.csdn.net/delepaste/article/details/140882087)
 
++ [MySQL--查询数据](https://blog.csdn.net/lerp020321/article/details/140878521)
+
++ [SpringBoot_第十章(日志)](https://blog.csdn.net/huyiju/article/details/140872277)
+
++ [机器学习|精选生产级LLM开源项目](https://blog.csdn.net/2401_85324918/article/details/140876998)
+

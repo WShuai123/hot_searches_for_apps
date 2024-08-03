@@ -49,3 +49,5 @@
 
 + [浅谈Web渗透之信息收集](https://www.freebuf.com/articles/web/389038.html)
 
++ [某个OA系统的代码审计](https://www.freebuf.com/defense/406809.html)
+
