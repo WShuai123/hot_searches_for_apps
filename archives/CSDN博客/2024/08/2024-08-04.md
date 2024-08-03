@@ -129,3 +129,7 @@
 
 + [【大模型应用开发 动手做AI Agent】第二轮行动：工具执行计算](https://blog.csdn.net/universsky2015/article/details/140899391)
 
++ [超详细教你如何在ubuntu上将yolo识别的目标数量传输到mysql数据库](https://blog.csdn.net/2301_81317411/article/details/140898088)
+
++ [Android进程保活：如何让app一直运行](https://blog.csdn.net/qq_40853919/article/details/140857390)
+
