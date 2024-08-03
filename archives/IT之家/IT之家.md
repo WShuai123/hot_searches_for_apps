@@ -35,3 +35,7 @@
 
 + [开门还得先看广告？上海多部门对门禁 App“亲邻”展开约谈](https://m.ithome.com/html/785857.htm)
 
++ [英特尔跌超 28%，创 1982 年以来最大跌幅](https://m.ithome.com/html/785960.htm)
+
++ [清华毕业学子都去哪儿了？华为、比亚迪成 2023 年最大赢家](https://m.ithome.com/html/785965.htm)
+

@@ -45,3 +45,7 @@
 
 + [Patchwork更新武器库，首次利用Brute Ratel C4和PGoshell增强版发起攻击](https://www.freebuf.com/articles/network/406121.html)
 
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [浅谈Web渗透之信息收集](https://www.freebuf.com/articles/web/389038.html)
+
