@@ -99,3 +99,5 @@
 
 + [遗传算法与深度学习实战——生命模拟及其应用](https://blog.csdn.net/LOVEmy134611/article/details/140364841)
 
++ [第十九届全国大学生智能车竞赛 | 华东赛区获奖信息](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865371)
+
