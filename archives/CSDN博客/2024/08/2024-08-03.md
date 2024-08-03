@@ -245,3 +245,9 @@
 
 + [操作系统（信号处理）](https://blog.csdn.net/weixin_65029285/article/details/140875299)
 
++ [opencv_day5](https://blog.csdn.net/2401_82661391/article/details/140869616)
+
++ [分布式领域扩展点设计稿](https://blog.csdn.net/CSDN_SAVIOR/article/details/140891892)
+
++ [【AI学习】[2024北京智源大会]具身智能：面向通用机器人的具身多模态大模型系统](https://blog.csdn.net/bylander/article/details/140857974)
+

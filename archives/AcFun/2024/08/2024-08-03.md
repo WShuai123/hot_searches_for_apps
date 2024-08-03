@@ -121,3 +121,9 @@
 
 + [羽毛球 混合双打 决赛 中国VS韩国（单身狗被暴击嘞——](http://www.acfun.cn/v/ac46045637)
 
++ [【东方】推特东方小视频选集 第191期](http://www.acfun.cn/v/ac46045540)
+
++ [吉他弹唱|英国国歌（误）《Don t look back in anger》——Oasis](http://www.acfun.cn/v/ac46045719)
+
++ [怎么办？看完这个汗流浃背了啊兄弟们！](http://www.acfun.cn/v/ac46048060)
+
