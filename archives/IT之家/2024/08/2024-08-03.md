@@ -63,3 +63,9 @@
 
 + [当当网创始人李国庆谈“大战亚马逊”：他们本想收购我们，却灰溜溜退出中国](https://m.ithome.com/html/786015.htm)
 
++ [新哪吒 X 车型上市：400/500 公里大五座纯电 SUV，售 8.98 万元起](https://m.ithome.com/html/786069.htm)
+
++ [工信部公布第八批减免购置税的新能源汽车目录，小米 SU7、极氪 7X / MIX 及比亚迪汉等在列](https://m.ithome.com/html/786061.htm)
+
++ [2025 款比亚迪海豹座舱公布，新增“沙丁瑚橙”内饰配色](https://m.ithome.com/html/786053.htm)
+

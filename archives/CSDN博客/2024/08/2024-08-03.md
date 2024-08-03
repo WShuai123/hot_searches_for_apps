@@ -251,3 +251,7 @@
 
 + [【AI学习】[2024北京智源大会]具身智能：面向通用机器人的具身多模态大模型系统](https://blog.csdn.net/bylander/article/details/140857974)
 
++ [GPT-4o mini模型：小型化AI解决方案的创新应用案例](https://blog.csdn.net/u014727709/article/details/140894626)
+
++ [HarmonyOS应用开发者高级认证题目（7月新版，答案&解析，持续更新）](https://blog.csdn.net/huxiaoqiao163/article/details/140867255)
+
