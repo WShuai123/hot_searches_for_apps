@@ -139,3 +139,5 @@
 
 + [YouTube Comment Finder And AI Analysis](https://www.producthunt.com/posts/youtube-comment-finder-and-ai-analysis)
 
++ [Escape the Algorithm](https://www.producthunt.com/posts/escape-the-algorithm)
+

@@ -51,3 +51,7 @@
 
 + [极紫外光刻技术获突破：可大幅提高能源效率，降低半导体制造成本](https://m.ithome.com/html/785961.htm)
 
++ [苹果库克重申：年底前为 iOS / iPadOS 18、macOS 15 Sequoia 接入 ChatGPT](https://m.ithome.com/html/785992.htm)
+
++ [上汽大众 2024 款途观 X 上市：酷黑运动风格套件，售价 25.08 万元](https://m.ithome.com/html/785930.htm)
+

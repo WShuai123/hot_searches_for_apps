@@ -227,3 +227,11 @@
 
 + [第TR3周：Pytorch复现Transformer](https://blog.csdn.net/lihuhelihu/article/details/140875908)
 
++ [模型量化技术综述：揭示大型语言模型压缩的前沿技术](https://blog.csdn.net/m0_46510245/article/details/140888005)
+
++ [Spring中是如何实现IoC和DI的？](https://blog.csdn.net/m0_69519887/article/details/140523893)
+
++ [详解HTTP协议版本（HTTP/1.0、1.1、2.0、3.0区别）](https://blog.csdn.net/sxc1414749109/article/details/140876183)
+
++ [Docker Image即Docker镜像](https://blog.csdn.net/jun778895/article/details/140870087)
+
