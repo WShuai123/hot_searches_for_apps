@@ -47,3 +47,7 @@
 
 + [“洋垃圾”禁止入境，福州海关查获 35.27 公斤废旧手机摄像头、屏幕等零件](https://m.ithome.com/html/785950.htm)
 
++ [119 元，魅族推出华为 Pura 70 Pro / Ultra 手机适用 PANDAER 妙磁抗菌壳](https://m.ithome.com/html/785991.htm)
+
++ [极紫外光刻技术获突破：可大幅提高能源效率，降低半导体制造成本](https://m.ithome.com/html/785961.htm)
+

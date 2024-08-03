@@ -221,3 +221,9 @@
 
 + [鸿蒙系统学习指南](https://blog.csdn.net/zhaochen1127/article/details/140878662)
 
++ [【wiki知识库】07.用户管理后端SpringBoot部分](https://blog.csdn.net/qq_61024956/article/details/140884754)
+
++ [HarmonyOS 原生智能之语音识别实战](https://blog.csdn.net/sjw890821sjw/article/details/140881059)
+
++ [第TR3周：Pytorch复现Transformer](https://blog.csdn.net/lihuhelihu/article/details/140875908)
+
