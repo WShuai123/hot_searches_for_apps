@@ -239,3 +239,9 @@
 
 + [深度学习6--深度神经网络](https://blog.csdn.net/m0_63860007/article/details/140874021)
 
++ [【数学建模】——【A题 信用风险识别问题】全面解析](https://blog.csdn.net/2303_77720864/article/details/140877085)
+
++ [【机器学习】成本函数在逻辑回归中的形式以及逻辑回归的成本函数](https://blog.csdn.net/m0_49243785/article/details/140866611)
+
++ [操作系统（信号处理）](https://blog.csdn.net/weixin_65029285/article/details/140875299)
+
