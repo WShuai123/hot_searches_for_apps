@@ -101,3 +101,7 @@
 
 + [Flowmodor](https://www.producthunt.com/posts/flowmodor)
 
++ [Clarity](https://www.producthunt.com/posts/clarity-9f37d442-51ad-412c-87e5-41c6b21514dc)
+
++ [Plate Notes](https://www.producthunt.com/posts/plate-notes)
+

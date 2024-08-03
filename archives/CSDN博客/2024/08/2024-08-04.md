@@ -125,3 +125,5 @@
 
 + [鸿蒙购物车布局完成后的点击事件（不怎么通俗易懂）](https://blog.csdn.net/weixin_72242959/article/details/140878736)
 
++ [Python实战：wxauto与百度千帆大模型结合快速实现微信智能回复机器人](https://blog.csdn.net/Srlua/article/details/140895023)
+
