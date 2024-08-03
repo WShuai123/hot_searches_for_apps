@@ -101,3 +101,27 @@
 
 + [什么情况下你能接受 996](https://blog.csdn.net/w425772719/article/details/140840105)
 
++ [引领未来的智能革命：深度解析【人工智能】前沿技术与应用](https://blog.csdn.net/2303_77720864/article/details/140868827)
+
++ [Python 爬虫项目实战（一）：破解网易云 VIP 免费下载付费歌曲](https://blog.csdn.net/2302_82189125/article/details/140871398)
+
++ [《学会 SpringMVC 系列 · 写入拦截器 ResponseBodyAdvice》](https://blog.csdn.net/syb513812/article/details/140898087)
+
++ [决策树总结](https://blog.csdn.net/qq_56618414/article/details/140879170)
+
++ [【Spring Boot】配置 Spring Security](https://blog.csdn.net/be_racle/article/details/140879294)
+
++ [基于FPGA的1553B总线接口曼彻斯特编解码器设计概述](https://blog.csdn.net/ccsss22/article/details/140890801)
+
++ [gptpdf深度解析：开源文档处理技术全攻略](https://blog.csdn.net/xiaobing259/article/details/140896698)
+
++ [SpringBoot中如何正确使用Redis(详细介绍，原理讲解，企业版)](https://blog.csdn.net/m0_63553261/article/details/140848201)
+
++ [SpringBoot配置文件高级用法实战](https://blog.csdn.net/qq_26664043/article/details/140783801)
+
++ [基于springboot+vue+uniapp的美术馆预约平台小程序](https://blog.csdn.net/shmp54/article/details/140881822)
+
++ [【编码心得】单元测试的那些事](https://blog.csdn.net/qq_33193972/article/details/140864169)
+
++ [鸿蒙购物车布局完成后的点击事件（不怎么通俗易懂）](https://blog.csdn.net/weixin_72242959/article/details/140878736)
+

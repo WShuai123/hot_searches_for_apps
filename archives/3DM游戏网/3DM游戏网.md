@@ -101,3 +101,43 @@
 
 + [《龙珠：电光火石0》Xbox商店页面被撤下 玩家担心延期](https://www.3dmgame.com/news/202404/3892252.html)
 
++ [拉瑞安曾经考虑过开发《博德之门4》 但最终选择放弃](https://www.3dmgame.com/news/202408/3901029.html)
+
++ [前Valve经济学家：Steam参与了技术封建主义的创建](https://www.3dmgame.com/news/202408/3901027.html)
+
++ [《飙酷车神》关服引发游戏所有权维权运动正寻求欧盟100万玩家签名](https://www.3dmgame.com/news/202408/3901028.html)
+
++ [《Fate/hollow ataraxia高清重制》宣布 登陆Switch和PC](https://www.3dmgame.com/news/202408/3901025.html)
+
++ [任天堂打算在今年卖出1200万台NS，如何实现？](https://www.3dmgame.com/news/202408/3901026.html)
+
++ [《无畏契约》制作总监：与《CS》和《守望先锋》对比太片面](https://www.3dmgame.com/news/202408/3901023.html)
+
++ [前Valve经济学家：Steam本可成为宏观经济预测平台](https://www.3dmgame.com/news/202408/3901024.html)
+
++ [马丽主演电影累计票房突破220亿 仅次于沈腾、吴京、黄渤](https://www.3dmgame.com/news/202408/3901022.html)
+
++ [《真三国无双：起源》实机演示 展示教程与玩法部分](https://www.3dmgame.com/news/202408/3901021.html)
+
++ [经典水下射击游戏《X-Out》即将发布重制版本](https://www.3dmgame.com/news/202408/3901020.html)
+
++ [著名ROM修改社区停止运营 管理员与继任者互相指责](https://www.3dmgame.com/news/202408/3901030.html)
+
++ [《无畏契约》现已正式登陆Xbox Series X|S和PS5主机](https://www.3dmgame.com/news/202408/3901032.html)
+
++ [《Fate/stay night 高清復刻版》Steam页面 8月8日发售](https://www.3dmgame.com/news/202408/3901018.html)
+
++ [《星球大战：法外狂徒》主创称粉丝是恶意的人和愤怒工厂 国外玩家怒了](https://www.3dmgame.com/news/202408/3901036.html)
+
++ [英国AI雄心受挫 13亿英镑计算基础设施项目被搁置](https://www.3dmgame.com/news/202408/3901019.html)
+
++ [传漫威内部大清洗 已解雇所有“正确人士”制片人](https://www.3dmgame.com/news/202408/3901037.html)
+
++ [要求堵上支付漏洞 苹果威胁拒绝更新微信、抖音](https://www.3dmgame.com/news/202408/3901035.html)
+
++ [传国产动作游戏《影之刃零》2026年秋季才发售](https://www.3dmgame.com/news/202408/3901034.html)
+
++ [英伟达或推迟Blackwell架构产品上市 将延期至2025 Q1](https://www.3dmgame.com/news/202408/3901033.html)
+
++ [日本创企“人机一体”研发人形机器人 可自动保持身体平衡](https://www.3dmgame.com/news/202408/3901031.html)
+

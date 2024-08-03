@@ -77,3 +77,51 @@
 
 + [Graffiti Gang ????](https://dribbble.com/shots/)
 
++ [Stratlab - Landing Page](https://dribbble.com/shots/)
+
++ [Website design for Architecture and Design Studio](https://dribbble.com/shots/)
+
++ [Mood ☁️](https://dribbble.com/shots/)
+
++ [AI course generator](https://dribbble.com/shots/)
+
++ [NHL logo mark](https://dribbble.com/shots/)
+
++ [Project Management Web App](https://dribbble.com/shots/)
+
++ [abstract](https://dribbble.com/shots/)
+
++ [Bear heart logo](https://dribbble.com/shots/)
+
++ [Modern C letter Logo , Design, Branding visual Identity](https://dribbble.com/shots/)
+
++ [Panda Interaction ????](https://dribbble.com/shots/)
+
++ [Trading app](https://dribbble.com/shots/)
+
++ [Tokn | Logo design](https://dribbble.com/shots/)
+
++ [Houses](https://dribbble.com/shots/)
+
++ [UI UX Design of Affiliate Page for DEX Trading Portfolio WebApp](https://dribbble.com/shots/)
+
++ [CFS monogram logo](https://dribbble.com/shots/)
+
++ [Fascar logotype](https://dribbble.com/shots/)
+
++ [Armor Shoes Logo](https://dribbble.com/shots/)
+
++ [Patient Sidebar](https://dribbble.com/shots/)
+
++ [logo design](https://dribbble.com/shots/)
+
++ [Duckyan](https://dribbble.com/shots/)
+
++ [Website for an Agency](https://dribbble.com/shots/)
+
++ [Beach](https://dribbble.com/shots/)
+
++ [letter N crypto logo and brand identity](https://dribbble.com/shots/)
+
++ [Big Apple Basketball](https://dribbble.com/shots/)
+
