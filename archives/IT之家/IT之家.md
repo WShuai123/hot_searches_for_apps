@@ -25,3 +25,7 @@
 
 + [华为 nova Flip 折叠屏手机现身 Geekbench，搭载海思麒麟 8000 芯片](https://m.ithome.com/html/786073.htm)
 
++ [吉利全新纯电小车“星愿”部分配置曝光：配 Flyme Auto 智能座舱、独立悬架](https://m.ithome.com/html/785983.htm)
+
++ [美的四款 App 适配华为鸿蒙原生系统，简化智能家居操作步骤](https://m.ithome.com/html/786060.htm)
+
