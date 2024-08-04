@@ -161,3 +161,11 @@
 
 + [宫崎英高：《艾尔登法环》已是我们项目规模的极限 新作将是小规模作品](https://www.3dmgame.com/news/202408/3901047.html)
 
++ [EA介绍称《大学橄榄球25》用AI制作一万多个面部](https://www.3dmgame.com/news/202408/3901051.html)
+
++ [《王国之心》大师合集人气再燃 位列美国游戏榜第三位](https://www.3dmgame.com/news/202408/3901050.html)
+
++ [育碧《星战》被批不再关心优化 PC采用双重加密](https://www.3dmgame.com/news/202408/3901049.html)
+
++ [《东方LIVEBOX》线下音乐会8月30日举行 粉丝狂欢](https://www.3dmgame.com/news/202408/3901048.html)
+
