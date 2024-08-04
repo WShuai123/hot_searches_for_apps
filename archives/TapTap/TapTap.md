@@ -21,3 +21,5 @@
 
 + [崩坏：星穹铁道](https://www.taptap.cn/app/224267)
 
++ [鸣潮](https://www.taptap.cn/app/234280)
+
