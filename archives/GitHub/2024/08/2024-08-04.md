@@ -35,3 +35,13 @@
 
 + [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
 
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
+
++ [hufrea / byedpi](https://github.com/hufrea/byedpi)
+

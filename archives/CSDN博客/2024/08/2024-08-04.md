@@ -201,3 +201,9 @@
 
 + [使用.NET NativeAOT模式开发hyper-v平台uefi上windbg调试引擎心得](https://blog.csdn.net/oShuangYue12/article/details/140888984)
 
++ [kafka从浅入深](https://blog.csdn.net/m0_73825482/article/details/140890284)
+
++ [[CISCN2019 华北赛区 Day1 Web1]Dropbox 1](https://blog.csdn.net/ubaichu/article/details/140897777)
+
++ [搭建jenkins一键部署java项目](https://blog.csdn.net/qx020814/article/details/140895787)
+

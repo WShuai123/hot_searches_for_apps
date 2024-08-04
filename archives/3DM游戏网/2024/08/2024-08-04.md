@@ -207,3 +207,5 @@
 
 + [拉瑞安回顾《神界2：龙裔》历程 险些退出游戏行业](https://www.3dmgame.com/news/202408/3901070.html)
 
++ [《神之塔》TV动画新卡司公布 最新话即将登场](https://www.3dmgame.com/news/202408/3901071.html)
+
