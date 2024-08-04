@@ -169,3 +169,11 @@
 
 + [《东方LIVEBOX》线下音乐会8月30日举行 粉丝狂欢](https://www.3dmgame.com/news/202408/3901048.html)
 
++ [马斯克旗下科技公司 第二位人类患者成功植入脑机接口](https://www.3dmgame.com/news/202408/3901055.html)
+
++ [《盐和避难所》大型更新上线 追加随机战斗系统](https://www.3dmgame.com/news/202408/3901053.html)
+
++ [招聘信息显示《霍格沃茨之遗》或已在开发续作](https://www.3dmgame.com/news/202408/3901054.html)
+
++ [特斯拉超级计算集群命名Cortex：10万颗英伟达芯片训练FSD](https://www.3dmgame.com/news/202408/3901052.html)
+
