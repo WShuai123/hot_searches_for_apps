@@ -137,3 +137,7 @@
 
 + [基于数据可视化+SpringBoot+Vue的滑雪场雪具租赁服务系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140909138)
 
++ [基于CUDA12.1+CUDNN8.9+PYTORCH2.3.1,实现自定义数据集训练](https://blog.csdn.net/yantuguiguziPGJ/article/details/140901046)
+
++ [使用GPT-4o mini融合GraphRAG技术进行实战应用](https://blog.csdn.net/weixin_44626085/article/details/140902873)
+

@@ -109,3 +109,13 @@
 
 + [《Fate/EXTRA Record》新预告 2025年发售](https://www.3dmgame.com/news/202408/3901080.html)
 
++ [两家零售商公布《塞尔达传说：智慧的再现》预购特典](https://www.3dmgame.com/news/202408/3901086.html)
+
++ [《黎明杀机》8月6日公布联动《恶魔城》细节](https://www.3dmgame.com/news/202408/3901085.html)
+
++ [初代《生化危机》的演员们又扮演了一次他们的角色](https://www.3dmgame.com/news/202408/3901084.html)
+
++ [Switch版《EA SPORTS FC 25》容量相比前作缩水](https://www.3dmgame.com/news/202408/3901083.html)
+
++ [微软借鉴任天堂模式将利用动视暴雪IP开发小型游戏](https://www.3dmgame.com/news/202408/3901082.html)
+
