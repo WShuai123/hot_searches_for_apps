@@ -187,3 +187,17 @@
 
 + [《我的世界》乐高套装发布 包含12个生物群系与物品](https://www.3dmgame.com/news/202408/3901060.html)
 
++ [拉瑞安：《博德之门3》制作方式会吓坏股东和发行商](https://www.3dmgame.com/news/202408/3901064.html)
+
++ [《GTA4》技术总监透露离职原因：不喜欢黑深残风格](https://www.3dmgame.com/news/202408/3901065.html)
+
++ [《解限机》Steam先行B测开启 国产高速机甲对战](https://www.3dmgame.com/news/202408/3901066.html)
+
++ [《博德之门3》拉斐尔演员表示很愿意再次扮演该角色](https://www.3dmgame.com/news/202408/3901067.html)
+
++ [《抓娃娃》票房超越《封神》！进入中国影史票房榜前25](https://www.3dmgame.com/news/202408/3901061.html)
+
++ [Intel股价单日跌超26%：市值仅剩AMD的四成](https://www.3dmgame.com/news/202408/3901062.html)
+
++ [世界COSPLAY大会收官 日本队凭借火影忍者斩获第一](https://www.3dmgame.com/news/202408/3901063.html)
+

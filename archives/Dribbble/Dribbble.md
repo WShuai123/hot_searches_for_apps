@@ -167,3 +167,23 @@
 
 + [3 Part Bar & Restaurant Logo System](https://dribbble.com/shots/)
 
++ [GBA emerald ????](https://dribbble.com/shots/)
+
++ [Summit Advisors Group LLC - Professional Logo Design](https://dribbble.com/shots/)
+
++ [Vortex - Unused logo](https://dribbble.com/shots/)
+
++ [Docs sequrity app](https://dribbble.com/shots/)
+
++ [Loop + Connection Logo Concept](https://dribbble.com/shots/)
+
++ [KMPS 18](https://dribbble.com/shots/)
+
++ [Molar®](https://dribbble.com/shots/)
+
++ [Gym, fitness, spark, energy, power logo and brand identity](https://dribbble.com/shots/)
+
++ [Music production](https://dribbble.com/shots/)
+
++ [Ai bot, robot logo, and brand identity](https://dribbble.com/shots/)
+

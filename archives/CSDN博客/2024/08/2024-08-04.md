@@ -185,3 +185,13 @@
 
 + [Python数据分析案例58——热门游戏数据分析及其可视化](https://blog.csdn.net/weixin_46277779/article/details/140894902)
 
++ [【机器学习】重塑游戏世界：机器学习如何赋能游戏创新与体验升级](https://blog.csdn.net/EterNity_TiMe_/article/details/140898553)
+
++ [在亚马逊云科技AWS上利用ElasticSearch和RAG搭建个性化推荐系统](https://blog.csdn.net/m0_66628975/article/details/140903613)
+
++ [Hadoop学习（三）](https://blog.csdn.net/2301_79721847/article/details/140896358)
+
++ [使用 宝塔面板 部署 springboot 和 vue](https://blog.csdn.net/weixin_45940369/article/details/140855684)
+
++ [docker详细笔记](https://blog.csdn.net/heyongjin22/article/details/140890656)
+
