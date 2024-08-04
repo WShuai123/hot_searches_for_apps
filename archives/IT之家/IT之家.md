@@ -25,3 +25,5 @@
 
 + [泰国总理下令对拼多多旗下 Temu 进行调查：是否遵守法律并缴纳所需税款](https://m.ithome.com/html/786110.htm)
 
++ [世界最小的大洲澳洲，极限操作能养活多少人](https://m.ithome.com/html/786117.htm)
+
