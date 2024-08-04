@@ -133,3 +133,7 @@
 
 + [GitHub推出全新AI模型平台：简化开发者体验](https://blog.csdn.net/2301_79342058/article/details/140882719)
 
++ [使用 Elastic 和 Mistral 构建多语言 RAG](https://blog.csdn.net/UbuntuTouch/article/details/140904562)
+
++ [基于数据可视化+SpringBoot+Vue的滑雪场雪具租赁服务系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140909138)
+
