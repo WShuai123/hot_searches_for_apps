@@ -131,3 +131,5 @@
 
 + [2024 年华数杯全国大学生数学建模竞赛C 题 老外游中国 完整思路 源代码 模型结果（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140910780)
 
++ [GitHub推出全新AI模型平台：简化开发者体验](https://blog.csdn.net/2301_79342058/article/details/140882719)
+
