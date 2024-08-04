@@ -189,3 +189,31 @@
 
 + [1972 Datsun](https://dribbble.com/shots/)
 
++ [Cyclops - Features Page](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Crypto Vaults Web Design for Admin & Dashboard React Template](https://dribbble.com/shots/)
+
++ [Abstract illustration](https://dribbble.com/shots/)
+
++ [Letter M Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Website for a Marketing SaaS](https://dribbble.com/shots/)
+
++ [Holo Banking: Card UI](https://dribbble.com/shots/)
+
++ [Braidpay Finance 2024](https://dribbble.com/shots/)
+
++ [AceDrop // Telegram Tap Bot](https://dribbble.com/shots/)
+
++ [Shopln: Order Page](https://dribbble.com/shots/)
+
++ [Logo and Branding concept for "Horizon Glow Hotel and Resort"](https://dribbble.com/shots/)
+
++ [real estate sunrise minimal logo design](https://dribbble.com/shots/)
+
++ [Рrecious](https://dribbble.com/shots/)
+
++ [LA Star](https://dribbble.com/shots/)
+
