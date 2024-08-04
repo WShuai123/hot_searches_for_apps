@@ -101,3 +101,11 @@
 
 + [前Valve经济学家：Steam参与了技术封建主义的创建](https://www.3dmgame.com/news/202408/3901027.html)
 
++ [网友帮宣传 玩家自制《黑神话：悟空》宣传图](https://www.3dmgame.com/news/202408/3901081.html)
+
++ [百花奖获奖名单出炉！《志愿军：雄兵出击》获最佳影片](https://www.3dmgame.com/news/202408/3901078.html)
+
++ [《三角洲行动》今年九月上线 最后冲刺阶段](https://www.3dmgame.com/news/202408/3901079.html)
+
++ [《Fate/EXTRA Record》新预告 2025年发售](https://www.3dmgame.com/news/202408/3901080.html)
+
