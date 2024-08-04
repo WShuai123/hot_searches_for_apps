@@ -33,3 +33,5 @@
 
 + [国务院：培育壮大新型消费，支持电子竞技、社交电商、直播电商等发展](https://m.ithome.com/html/786071.htm)
 
++ [AMD 锐龙 9 9900X Zen5 处理器首次亮相 PassMark：12 核 24 线程，频率最高 5.6 GHz](https://m.ithome.com/html/786079.htm)
+

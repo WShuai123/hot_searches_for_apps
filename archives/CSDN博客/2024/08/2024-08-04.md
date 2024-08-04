@@ -143,3 +143,5 @@
 
 + [计算机网络-http协议和https的加密原理](https://blog.csdn.net/weixin_48344647/article/details/140891474)
 
++ [5.6软件工程-运维](https://blog.csdn.net/weixin_39291021/article/details/140889492)
+

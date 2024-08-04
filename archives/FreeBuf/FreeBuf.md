@@ -45,3 +45,7 @@
 
 + [HVV蓝队视角的技战法分析](https://www.freebuf.com/news/407045.html)
 
++ [攻防演练 | 一次对某市级单位演习的总结学习](https://www.freebuf.com/defense/374008.html)
+
++ [慢雾：安全审计检查项之账户抽象钱包](https://www.freebuf.com/articles/blockchain-articles/407095.html)
+
