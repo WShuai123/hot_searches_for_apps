@@ -61,3 +61,7 @@
 
 + [华为推出 100W 全能充多口充电器：1A / C + 1C 融合接口，349 元](https://m.ithome.com/html/786154.htm)
 
++ [Steam 上最受欢迎的显卡：消息称英伟达 RTX 3060 即将停产](https://m.ithome.com/html/786092.htm)
+
++ [泰国总理下令对拼多多旗下 Temu 进行调查：是否遵守法律并缴纳所需税款](https://m.ithome.com/html/786110.htm)
+

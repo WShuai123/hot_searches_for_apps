@@ -225,3 +225,9 @@
 
 + [Python基于逻辑回归的L1正则化(Lasso Logistic Regression)进行分类数据的特征选择项目实战](https://blog.csdn.net/weixin_42163563/article/details/140891051)
 
++ [Yarn：一个快速、可靠且安全的JavaScript包管理工具](https://blog.csdn.net/weixin_73295475/article/details/140909040)
+
++ [2024 年华数杯全国大学生数学建模竞赛题目C 题 老外游中国](https://blog.csdn.net/m0_74750121/article/details/140909464)
+
++ [使用 Python 制作一个属于自己的 AI 搜索引擎](https://blog.csdn.net/weixin_46376562/article/details/140884625)
+
