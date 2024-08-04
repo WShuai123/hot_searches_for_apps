@@ -103,3 +103,31 @@
 
 + [Food Crown????????????](https://dribbble.com/shots/)
 
++ [NYC illustrations](https://dribbble.com/shots/)
+
++ [Spontaneous Objects](https://dribbble.com/shots/)
+
++ [Graffiti Gang ????](https://dribbble.com/shots/)
+
++ [vacay!](https://dribbble.com/shots/)
+
++ [Namma](https://dribbble.com/shots/)
+
++ [Aeropress Championship Poster](https://dribbble.com/shots/)
+
++ [On My Way Molotov by James Olstein](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [good times / thick lines](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
++ [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Logo System](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [South America](https://dribbble.com/shots/)
+

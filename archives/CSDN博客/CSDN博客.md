@@ -127,3 +127,7 @@
 
 + [《雅思口语真经总纲1.0》话题实战训练笔记part1——5. Transportation](https://blog.csdn.net/Dontla/article/details/140753019)
 
++ [无代码开发AI服务 - 利用向量库Kendra和Llama大模型在亚马逊云科技AWS上创建RAG知识库](https://blog.csdn.net/m0_66628975/article/details/140913393)
+
++ [2024 年华数杯全国大学生数学建模竞赛C 题 老外游中国 完整思路 源代码 模型结果（仅供学习）](https://blog.csdn.net/weixin_52051317/article/details/140910780)
+
