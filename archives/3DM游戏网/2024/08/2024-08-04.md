@@ -179,3 +179,5 @@
 
 + [《犯罪现场清洁师》登陆Steam 打扫干净获取报酬](https://www.3dmgame.com/news/202408/3901056.html)
 
++ [Dan Houser新作《A Better Paradise》完全不像GTA](https://www.3dmgame.com/news/202408/3901057.html)
+

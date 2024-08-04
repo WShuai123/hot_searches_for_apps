@@ -105,3 +105,7 @@
 
 + [Plate Notes](https://www.producthunt.com/posts/plate-notes)
 
++ [voicechat2](https://www.producthunt.com/posts/voicechat2)
+
++ [Olovka: AI Essay Writer](https://www.producthunt.com/posts/olovka-ai-essay-writer)
+

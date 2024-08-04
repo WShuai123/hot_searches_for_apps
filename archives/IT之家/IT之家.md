@@ -37,3 +37,7 @@
 
 + [八位堂成为《黑神话：悟空》全球官方合作伙伴，联名款手柄 8 月 9 日预售](https://m.ithome.com/html/786059.htm)
 
++ [全球首款 18650 钾离子电池问世，可替代锂电池](https://m.ithome.com/html/786113.htm)
+
++ [西山居科幻机甲游戏《解限机》开启“先驱者测试”，Steam 国区可报名参与](https://m.ithome.com/html/786048.htm)
+
