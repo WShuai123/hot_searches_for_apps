@@ -181,3 +181,9 @@
 
 + [Dan Houser新作《A Better Paradise》完全不像GTA](https://www.3dmgame.com/news/202408/3901057.html)
 
++ [Bungie并未拍板取消《最后的生还者OL》：仅提供建议](https://www.3dmgame.com/news/202408/3901058.html)
+
++ [《狐狸尾巴》登陆Steam 马里奥风格2D横版动作](https://www.3dmgame.com/news/202408/3901059.html)
+
++ [《我的世界》乐高套装发布 包含12个生物群系与物品](https://www.3dmgame.com/news/202408/3901060.html)
+

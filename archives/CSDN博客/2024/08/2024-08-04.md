@@ -177,3 +177,11 @@
 
 + [FPGA开发——基于Quartus的工程建立以及下载仿真全过程](https://blog.csdn.net/weixin_63553972/article/details/140887266)
 
++ [第十九届全国大学生智能汽车竞赛全国总决赛名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/140878018)
+
++ [个人航班追踪和查看软件Jetlog](https://blog.csdn.net/wbsu2004/article/details/140885911)
+
++ [LabVIEW在DCS中的优势](https://blog.csdn.net/bjcyck/article/details/140902078)
+
++ [Python数据分析案例58——热门游戏数据分析及其可视化](https://blog.csdn.net/weixin_46277779/article/details/140894902)
+

@@ -109,3 +109,19 @@
 
 + [Olovka: AI Essay Writer](https://www.producthunt.com/posts/olovka-ai-essay-writer)
 
++ [Foreign Fluent](https://www.producthunt.com/posts/foreign-fluent)
+
++ [YouPage](https://www.producthunt.com/posts/youpage)
+
++ [Creatify](https://www.producthunt.com/posts/creatify-1)
+
++ [LaunchPage](https://www.producthunt.com/posts/launchpage-2)
+
++ [Dumbail](https://www.producthunt.com/posts/dumbail)
+
++ [Avatar Architect](https://www.producthunt.com/posts/avatar-architect)
+
++ [Remote Nomad Jobs](https://www.producthunt.com/posts/remote-nomad-jobs)
+
++ [RefKid](https://www.producthunt.com/posts/refkid)
+
