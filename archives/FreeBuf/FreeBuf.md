@@ -41,3 +41,7 @@
 
 + [警惕新型安卓恶意软件，掏空银行账户后设备数据也将不保](https://www.freebuf.com/news/407491.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/407704.html)
+
++ [HVV蓝队视角的技战法分析](https://www.freebuf.com/news/407045.html)
+

@@ -141,3 +141,11 @@
 
 + [日本创企“人机一体”研发人形机器人 可自动保持身体平衡](https://www.3dmgame.com/news/202408/3901031.html)
 
++ [粉丝虚幻5自制《恶魔城2：诅咒的封印》 视频展示](https://www.3dmgame.com/news/202408/3901039.html)
+
++ [动视封禁超过6.5万名《战区》和《MW3》作弊者](https://www.3dmgame.com/news/202408/3901040.html)
+
++ [《最终幻想14》手游版已获准在中国发行](https://www.3dmgame.com/news/202408/3901038.html)
+
++ [40系中端卡在最新Steam调查中增幅惊人](https://www.3dmgame.com/news/202408/3901041.html)
+
