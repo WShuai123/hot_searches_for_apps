@@ -163,3 +163,17 @@
 
 + [江协科技51单片机学习- p35 AD/DA模拟/数字采样](https://blog.csdn.net/weixin_40289409/article/details/140894073)
 
++ [大数据Flink（一百零八）：阿里云与开源的功能优势对比](https://blog.csdn.net/xiaoweite1/article/details/140901674)
+
++ [基于FPGA的数字信号处理（22）--进位保存加法器（Carry Save Adder, CSA）](https://blog.csdn.net/wuzhikaidetb/article/details/140903246)
+
++ [【Redis 进阶】哨兵 Sentinel（重点理解流程和原理）](https://blog.csdn.net/weixin_74531333/article/details/140850550)
+
++ [【大数据】什么是 Hadoop Job？](https://blog.csdn.net/m0_61020782/article/details/140897870)
+
++ [SQL中的窗口函数](https://blog.csdn.net/zhangyifang_009/article/details/140756701)
+
++ [vue3 二次组件封装【透传】](https://blog.csdn.net/pangGeee/article/details/140898831)
+
++ [FPGA开发——基于Quartus的工程建立以及下载仿真全过程](https://blog.csdn.net/weixin_63553972/article/details/140887266)
+
