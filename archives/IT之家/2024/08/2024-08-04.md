@@ -35,3 +35,5 @@
 
 + [AMD 锐龙 9 9900X Zen5 处理器首次亮相 PassMark：12 核 24 线程，频率最高 5.6 GHz](https://m.ithome.com/html/786079.htm)
 
++ [八位堂成为《黑神话：悟空》全球官方合作伙伴，联名款手柄 8 月 9 日预售](https://m.ithome.com/html/786059.htm)
+

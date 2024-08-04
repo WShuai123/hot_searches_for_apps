@@ -49,3 +49,5 @@
 
 + [慢雾：安全审计检查项之账户抽象钱包](https://www.freebuf.com/articles/blockchain-articles/407095.html)
 
++ [渗透测试 | Nacos漏洞综合利用工具v7.0](https://www.freebuf.com/articles/web/406570.html)
+

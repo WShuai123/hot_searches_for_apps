@@ -153,3 +153,13 @@
 
 + [《抓娃娃》电影下载/迅雷百度云高清版3.68GB下载资源分享](https://blog.csdn.net/erckosq/article/details/140892152)
 
++ [【Linux】(26) 详解磁盘与文件系统：从物理结构到inode机制](https://blog.csdn.net/2301_80171004/article/details/140854649)
+
++ [深度对比：MySQL、Oracle、PostgreSQL 和 Kingbase 四大数据库系统的架构、功能与性能分析](https://blog.csdn.net/qq_38411796/article/details/140890322)
+
++ [基于树莓派的智能家居中控系统：集成Flask、HTML、JavaScript与MQTT协议的文心一言AI接入（代码示例）](https://blog.csdn.net/qq_40431685/article/details/140879002)
+
++ [5.5软件工程-系统测试](https://blog.csdn.net/weixin_39291021/article/details/140888594)
+
++ [江协科技51单片机学习- p35 AD/DA模拟/数字采样](https://blog.csdn.net/weixin_40289409/article/details/140894073)
+
