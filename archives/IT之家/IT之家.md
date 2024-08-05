@@ -61,3 +61,7 @@
 
 + [电动车电池电梯爆燃致当事人死亡，销售者判赔 101 万元](https://m.ithome.com/html/786345.htm)
 
++ [5288 元起，华为 nova Flip 小折叠手机开启预售：6.88mm 厚度、后置 50MP 悬停自拍](https://m.ithome.com/html/786377.htm)
+
++ [比亚迪王朝全新 MPV 车型再曝谍照，有望命名为“周”](https://m.ithome.com/html/786273.htm)
+

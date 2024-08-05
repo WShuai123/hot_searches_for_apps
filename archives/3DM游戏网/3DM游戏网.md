@@ -223,3 +223,15 @@
 
 + [英伟达准备新款RTX 4070显卡 改用GDDR6显存](https://www.3dmgame.com/news/202408/3901137.html)
 
++ [《漫威争锋》开发商：设计近战英雄是最大挑战](https://www.3dmgame.com/news/202408/3901141.html)
+
++ [《卧龙：苍天陨落》8月20日重新上架 将调整定价](https://www.3dmgame.com/news/202408/3901142.html)
+
++ [传《复仇者联盟5：毁灭日》阿汤哥将饰演钢铁侠变体](https://www.3dmgame.com/news/202408/3901143.html)
+
++ [《塞尔达传说：智慧的再现》中文预告 9月26日发售](https://www.3dmgame.com/news/202408/3901144.html)
+
++ [谷歌Pixel 9系列最新渲染图曝光：有明显改进 手感或不俗](https://www.3dmgame.com/news/202408/3901139.html)
+
++ [任天堂、卡普空、世嘉多家日本公司股价下跌](https://www.3dmgame.com/news/202408/3901140.html)
+
