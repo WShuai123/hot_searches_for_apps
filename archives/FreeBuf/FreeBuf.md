@@ -59,3 +59,7 @@
 
 + [如何使用pwned检测自己是否已被渗透或数据泄露](https://www.freebuf.com/sectool/407749.html)
 
++ [FreeBuf知识大陆APP入驻华为应用市场](https://www.freebuf.com/articles/407853.html)
+
++ [直击ISC.AI2024：见证 “智”造安全新场景，开启聚变元年](https://www.freebuf.com/fevents/407572.html)
+

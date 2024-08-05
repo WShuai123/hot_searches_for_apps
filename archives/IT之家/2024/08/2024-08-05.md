@@ -55,3 +55,5 @@
 
 + [英伟达驱动与老处理器“水火不容”，会引发 Windows PC 蓝屏死机](https://m.ithome.com/html/786182.htm)
 
++ [Redmi 显示器 A27U 发布：27 英寸 4K IPS、品类首发小米青山护眼，1199 元](https://m.ithome.com/html/786234.htm)
+

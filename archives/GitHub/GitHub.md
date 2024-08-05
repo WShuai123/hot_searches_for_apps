@@ -27,3 +27,17 @@
 
 + [pytorch / torchchat](https://github.com/pytorch/torchchat)
 
++ [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
+
++ [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [marticliment / UniGetUI](https://github.com/marticliment/UniGetUI)
+
