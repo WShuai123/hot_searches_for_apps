@@ -137,3 +137,9 @@
 
 + [伊斯雷尔·马德里莫夫 vs 特伦斯·克劳福德](http://www.acfun.cn/v/ac46052582)
 
++ [结合原著小说，146分钟超长解读吃鸡游戏的鼻祖《大逃杀》](http://www.acfun.cn/v/ac46056365)
+
++ [贾里德·安德森 vs 马丁·巴科勒](http://www.acfun.cn/v/ac46052336)
+
++ [Mr. Chu](http://www.acfun.cn/v/ac46055756)
+

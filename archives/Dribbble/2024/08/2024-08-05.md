@@ -245,3 +245,17 @@
 
 + [Ponterra](https://dribbble.com/shots/)
 
++ [Goat](https://dribbble.com/shots/)
+
++ [Pilot Logo](https://dribbble.com/shots/)
+
++ [Pharmacy Mobile App](https://dribbble.com/shots/)
+
++ [Dashboard for Agriculture Business](https://dribbble.com/shots/)
+
++ [Website for an AI Product](https://dribbble.com/shots/)
+
++ [Music AI](https://dribbble.com/shots/)
+
++ [Owerketh - Analytics for Sales Forecasting Pitch Deck](https://dribbble.com/shots/)
+

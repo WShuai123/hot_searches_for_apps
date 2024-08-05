@@ -219,3 +219,7 @@
 
 + [彻底告别3999元！曝小米15系列成本略有增长](https://www.3dmgame.com/news/202408/3901136.html)
 
++ [演员Frankie Boyle曾试镜《无主之地》电影马库斯](https://www.3dmgame.com/news/202408/3901138.html)
+
++ [英伟达准备新款RTX 4070显卡 改用GDDR6显存](https://www.3dmgame.com/news/202408/3901137.html)
+

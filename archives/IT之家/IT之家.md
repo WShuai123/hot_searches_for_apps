@@ -59,3 +59,5 @@
 
 + [小米米家充气宝 2 Pro 上架：45 秒急速补气，众筹价 259 元](https://m.ithome.com/html/786317.htm)
 
++ [电动车电池电梯爆燃致当事人死亡，销售者判赔 101 万元](https://m.ithome.com/html/786345.htm)
+
