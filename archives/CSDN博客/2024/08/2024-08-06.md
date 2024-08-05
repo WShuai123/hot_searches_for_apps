@@ -129,3 +129,5 @@
 
 + [使用 Python 制作一个属于自己的 AI 搜索引擎](https://blog.csdn.net/weixin_46376562/article/details/140884625)
 
++ [解锁PyCharm：破解依赖库导入之谜](https://blog.csdn.net/2401_85743969/article/details/140911024)
+
