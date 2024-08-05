@@ -197,3 +197,17 @@
 
 + [传闻：《远征：泥泞奔驰游戏》即将加入XGP](https://www.3dmgame.com/news/202408/3901120.html)
 
++ [5元半小时！共享充电宝租金赶上停车费 网友吐槽用不起：有人一年花1200元](https://www.3dmgame.com/news/202408/3901131.html)
+
++ [SpaceX向国际空间站发射天鹅座货运飞船：出现引擎故障](https://www.3dmgame.com/news/202408/3901132.html)
+
++ [KK官方对战平台优质主播专访：玩家值得最真实的快乐！](https://www.3dmgame.com/news/202408/3901130.html)
+
++ [首位华人诺奖得主李政道因病去世 享年98岁](https://www.3dmgame.com/news/202408/3901129.html)
+
++ [《Ai Vpet / 守护与智友》：创意工坊全球竞赛，3000美金大奖等你拿](https://www.3dmgame.com/news/202408/3901128.html)
+
++ [《星球大战：亡命之徒》团队解释女主形象为何与脸模不同 不是zzzq？](https://www.3dmgame.com/news/202408/3901127.html)
+
++ [卡普空发布《怪物猎人：荒野》介绍视频 更多实机画面曝光](https://www.3dmgame.com/news/202408/3901126.html)
+
