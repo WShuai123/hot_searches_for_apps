@@ -219,3 +219,7 @@
 
 + [@Component 注解高端玩法【策略模式】](https://blog.csdn.net/zhengzhaoyang122/article/details/140892575)
 
++ [【QT】Qt 网络](https://blog.csdn.net/YoungMLet/article/details/140335882)
+
++ [【GLM-4开发实战】Function Call进阶实战：外部函数调用回顾](https://blog.csdn.net/xiaobing259/article/details/140914442)
+
