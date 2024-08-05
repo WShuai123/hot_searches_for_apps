@@ -211,3 +211,11 @@
 
 + [卡普空发布《怪物猎人：荒野》介绍视频 更多实机画面曝光](https://www.3dmgame.com/news/202408/3901126.html)
 
++ [《Go! Go! Hamster Chef!》免费登陆Steam 料理配送](https://www.3dmgame.com/news/202408/3901133.html)
+
++ [3DM游戏APP重磅福利！！《黑神话：悟空》免费送！](https://www.3dmgame.com/news/202408/3901135.html)
+
++ [董明珠：你们不用格力空调不是傻吗？能省很多钱你不要](https://www.3dmgame.com/news/202408/3901134.html)
+
++ [彻底告别3999元！曝小米15系列成本略有增长](https://www.3dmgame.com/news/202408/3901136.html)
+

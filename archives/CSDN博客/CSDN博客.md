@@ -209,3 +209,13 @@
 
 + [【K8S】为什么需要Kubernetes？](https://blog.csdn.net/m0_60353039/article/details/135542059)
 
++ [一文读懂 ESLint配置](https://blog.csdn.net/qq_61654952/article/details/140926398)
+
++ [如何在亚马逊云科技AWS上利用LoRA高效微调AI大模型减少预测偏差](https://blog.csdn.net/m0_66628975/article/details/140917312)
+
++ [光学字符识别](https://blog.csdn.net/zhangyy57/article/details/140916474)
+
++ [（24）(24.1) FPV和仿真的机载OSD（二）](https://blog.csdn.net/qq_20016593/article/details/140799876)
+
++ [@Component 注解高端玩法【策略模式】](https://blog.csdn.net/zhengzhaoyang122/article/details/140892575)
+

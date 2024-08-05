@@ -57,3 +57,5 @@
 
 + [Redmi 显示器 A27U 发布：27 英寸 4K IPS、品类首发小米青山护眼，1199 元](https://m.ithome.com/html/786234.htm)
 
++ [小米米家充气宝 2 Pro 上架：45 秒急速补气，众筹价 259 元](https://m.ithome.com/html/786317.htm)
+
