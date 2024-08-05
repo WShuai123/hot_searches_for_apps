@@ -101,3 +101,29 @@
 
 + [（24）(24.1) FPV和仿真的机载OSD（二）](https://blog.csdn.net/qq_20016593/article/details/140799876)
 
++ [数据采集与预处理【大数据导论】](https://blog.csdn.net/2301_81874719/article/details/140642600)
+
++ [第十九届全国大学生智能汽车竞赛 | 技术报告 - 清华鼠鼠](https://blog.csdn.net/zhuoqingjoking97298/article/details/140886143)
+
++ [一些硬件知识（十九）](https://blog.csdn.net/zjb6668/article/details/140887787)
+
++ [GaussDB关键技术原理|高可用：两地三中心跨Region容灾](https://blog.csdn.net/GaussDB/article/details/140925980)
+
++ [小试牛刀-walletconnect二维码及交互](https://blog.csdn.net/2202_75618418/article/details/140925205)
+
++ [【wiki知识库】07.用户管理后端SpringBoot部分](https://blog.csdn.net/qq_61024956/article/details/140884754)
+
++ [使用GPT-4o mini融合GraphRAG技术进行实战应用](https://blog.csdn.net/weixin_44626085/article/details/140902873)
+
++ [基于CUDA12.1+CUDNN8.9+PYTORCH2.3.1,实现自定义数据集训练](https://blog.csdn.net/yantuguiguziPGJ/article/details/140901046)
+
++ [【海贼王航海日志：前端技术探索】CSS你了解多少？(一)](https://blog.csdn.net/weixin_74809706/article/details/140912097)
+
++ [【Linux】shell命令与Linux权限的概念](https://blog.csdn.net/qq_55401402/article/details/140387991)
+
++ [2024华数杯数学建模C题老外游中国多维综合评价与多目标旅游规划求解代码思路分析](https://blog.csdn.net/nancheng_single/article/details/140914593)
+
++ [5.5软件工程-系统测试](https://blog.csdn.net/weixin_39291021/article/details/140888594)
+
++ [从构建决策树到基于随机森林算法的分类预测与回归预测实战](https://blog.csdn.net/m0_51381592/article/details/140909356)
+
