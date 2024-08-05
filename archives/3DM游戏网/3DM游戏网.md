@@ -105,3 +105,13 @@
 
 + [《死神：魂魄觉醒》角色预告 灵活多变的战士](https://www.3dmgame.com/news/202408/3901145.html)
 
++ [《天国：拯救2》将在科隆展提供丰富展示和试玩](https://www.3dmgame.com/news/202408/3901151.html)
+
++ [妖尾独立游戏企划第二弹：《爆裂沙滩排球》公布](https://www.3dmgame.com/news/202408/3901150.html)
+
++ [妖尾独立游戏企划第一弹：《地下迷城》公布](https://www.3dmgame.com/news/202408/3901149.html)
+
++ [《星球大战：亡命之徒》季票路线图公布](https://www.3dmgame.com/news/202408/3901148.html)
+
++ [《塞尔达传说：智慧的再现》新预告展示地点/玩法](https://www.3dmgame.com/news/202408/3901147.html)
+

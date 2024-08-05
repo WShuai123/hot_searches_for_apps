@@ -145,3 +145,11 @@
 
 + [Illustration Exploration for Inscribe #3](https://dribbble.com/shots/)
 
++ [TDS on Adobe Live!](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Noodles Spot Illustration](https://dribbble.com/shots/)
+
++ [Summer Suns](https://dribbble.com/shots/)
+
