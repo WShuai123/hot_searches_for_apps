@@ -119,3 +119,11 @@
 
 + [微软借鉴任天堂模式将利用动视暴雪IP开发小型游戏](https://www.3dmgame.com/news/202408/3901082.html)
 
++ [分析称《夺宝奇兵：古老之圈》将于今年11月发售](https://www.3dmgame.com/news/202408/3901090.html)
+
++ [腾讯《虚环》宣传片 A-SOUL星瞳四禧丸子等登场](https://www.3dmgame.com/news/202408/3901089.html)
+
++ [《魔兽世界》国服正式服完成扩容 大幅缓解排队情况](https://www.3dmgame.com/news/202408/3901088.html)
+
++ [《寂静岭2：重制版》开发团队：希望玩家给我们一个机会](https://www.3dmgame.com/news/202408/3901087.html)
+

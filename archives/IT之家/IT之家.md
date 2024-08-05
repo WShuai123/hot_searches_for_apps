@@ -29,3 +29,9 @@
 
 + [通过虚假交易等形式套取京东补贴款 500 余万元，61 名诈骗嫌疑人被拘](https://m.ithome.com/html/786158.htm)
 
++ [古尔曼：苹果 iPhone 16 系列手机不受 Apple Intelligence 功能推迟影响，照常 9 月发布](https://m.ithome.com/html/786173.htm)
+
++ [国家安全部：“文件传输助手”“AI 写作小程序”可能有失泄密风险](https://m.ithome.com/html/786135.htm)
+
++ [吉利公布 2024 款领克 01 八月购车政策：厂补最高 3 万元 + 国补 1.5 万元](https://m.ithome.com/html/786165.htm)
+
