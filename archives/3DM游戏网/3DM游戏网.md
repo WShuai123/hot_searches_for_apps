@@ -127,3 +127,35 @@
 
 + [《寂静岭2：重制版》开发团队：希望玩家给我们一个机会](https://www.3dmgame.com/news/202408/3901087.html)
 
++ [Switch在线发放七天免费体验票 领取截止到月底](https://www.3dmgame.com/news/202408/3901105.html)
+
++ [《三国志8重制版》宿命系统介绍：相生相克千变万化](https://www.3dmgame.com/news/202408/3901099.html)
+
++ [《博德之门3》发售一周年 开发商拉瑞安创建全新社区视频频道](https://www.3dmgame.com/news/202408/3901106.html)
+
++ [《异度神剑》系列高桥哲哉招聘开发者 制作“新作RPG”](https://www.3dmgame.com/news/202408/3901103.html)
+
++ [类银河恶魔城游戏《偏差者》现已推出抢先体验版 获Steam平台多半好评](https://www.3dmgame.com/news/202408/3901104.html)
+
++ [《最后的生还者》剧集第二季首部预告 2025年上线](https://www.3dmgame.com/news/202408/3901102.html)
+
++ [没人想要Xbox？《影之刃零》官方澄清开发者言论](https://www.3dmgame.com/news/202408/3901101.html)
+
++ [军事模拟游戏《UBOAT》正式发布 推出全新支持者包DLC](https://www.3dmgame.com/news/202408/3901100.html)
+
++ [《架空地图模拟器》登陆Steam 虚构世界创建模拟](https://www.3dmgame.com/news/202408/3901098.html)
+
++ [《天国：拯救2》在韩国获得19+评级 预计年底发售](https://www.3dmgame.com/news/202408/3901096.html)
+
++ [配音演员简历透露V社开发中的新作 可能与《半条命》有关](https://www.3dmgame.com/news/202408/3901095.html)
+
++ [《七日杀》Steam玩家在线峰值突破12万 开发商表示震惊](https://www.3dmgame.com/news/202408/3901093.html)
+
++ [曝Bungie被收购前给索尼画大饼 过度推销自己](https://www.3dmgame.com/news/202408/3901092.html)
+
++ [科幻惊悚片《屈从》预告 梅根·福克斯饰演性感机器人](https://www.3dmgame.com/news/202408/3901091.html)
+
++ [《哥特王朝》重制版与原版对比 画面更加精美逼真](https://www.3dmgame.com/news/202408/3901097.html)
+
++ [《流放之路2》将参加科隆展 PC配置推荐RTX 2060显卡](https://www.3dmgame.com/news/202408/3901094.html)
+
