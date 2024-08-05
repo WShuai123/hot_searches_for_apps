@@ -95,3 +95,7 @@
 
 + [【HJM每周秀】VS【HXD每周秀】vol.5](http://www.acfun.cn/v/ac46053835)
 
++ [从喜马拉雅鲸到龙王鲸：劳氏兽科&鲸类下海的1300万年](http://www.acfun.cn/v/ac46051268)
+
++ [某某传媒的作品实在粗制滥造](http://www.acfun.cn/v/ac46053190)
+

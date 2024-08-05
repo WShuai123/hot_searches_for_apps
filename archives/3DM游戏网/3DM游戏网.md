@@ -169,3 +169,11 @@
 
 + [世界最快牌佬 诺亚·莱尔斯巴黎奥运会男子百米夺金](https://www.3dmgame.com/news/202408/3901107.html)
 
++ [苹果跌落神坛：iPhone创新已死 你还买苹果16吗？](https://www.3dmgame.com/news/202408/3901115.html)
+
++ [《FAIRY TAIL 闯迷宫》登陆Steam 真岛浩联动策划](https://www.3dmgame.com/news/202408/3901113.html)
+
++ [港服Switch新试玩同乐会8月8日开启：《蜡笔小新 我与博士的暑假》](https://www.3dmgame.com/news/202408/3901114.html)
+
++ [2.5D类银河恶魔城游戏《曼德拉》Steam页面上线 将参加2024科隆展](https://www.3dmgame.com/news/202408/3901112.html)
+

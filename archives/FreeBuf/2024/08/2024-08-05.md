@@ -53,3 +53,7 @@
 
 + [文件上传漏洞防范——文件类型检测](https://www.freebuf.com/articles/web/406709.html)
 
++ [俄APT组织利用虚假汽车销售广告传播HeadLace后门](https://www.freebuf.com/articles/407808.html)
+
++ [攻击者正滥用Cloudflare隧道传播恶意软件并逃避检测](https://www.freebuf.com/news/407793.html)
+

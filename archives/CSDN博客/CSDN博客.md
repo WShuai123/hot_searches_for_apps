@@ -181,3 +181,13 @@
 
 + [2024华数杯数学建模C题老外游中国多维综合评价与多目标旅游规划求解代码思路分析](https://blog.csdn.net/nancheng_single/article/details/140914593)
 
++ [【研发日记】Matlab/Simulink技能解锁(十二)——Stateflow中的两种状态机嵌套对比](https://blog.csdn.net/CSSUST/article/details/140858955)
+
++ [第十九届全国大学生智能汽车竞赛 | 技术报告 - 清华鼠鼠](https://blog.csdn.net/zhuoqingjoking97298/article/details/140886143)
+
++ [MySQL--日志管理](https://blog.csdn.net/lerp020321/article/details/140902457)
+
++ [第四章 Spring Boot 整合 Kafka消息队列 实战](https://blog.csdn.net/JPST228/article/details/140908383)
+
++ [从构建决策树到基于随机森林算法的分类预测与回归预测实战](https://blog.csdn.net/m0_51381592/article/details/140909356)
+
