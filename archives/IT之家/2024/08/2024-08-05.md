@@ -39,3 +39,7 @@
 
 + [苹果秋季新品曝光：2024 款 M4 芯片 MacBook Pro、Mac mini 和 iMac 将至](https://m.ithome.com/html/786189.htm)
 
++ [酷比魔方掌玩 mini 2 平板采用 UFS 存储，有望搭载 RK3588 芯片](https://m.ithome.com/html/786180.htm)
+
++ [不变的 ChinaJoy，越来越清醒的游戏人](https://m.ithome.com/html/786124.htm)
+

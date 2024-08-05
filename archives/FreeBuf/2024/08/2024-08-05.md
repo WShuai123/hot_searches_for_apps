@@ -51,3 +51,5 @@
 
 + [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
 
++ [文件上传漏洞防范——文件类型检测](https://www.freebuf.com/articles/web/406709.html)
+

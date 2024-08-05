@@ -207,3 +207,7 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
+

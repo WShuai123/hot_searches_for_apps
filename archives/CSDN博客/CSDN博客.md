@@ -165,3 +165,19 @@
 
 + [网络安全知识核心20要点](https://blog.csdn.net/2401_84488651/article/details/140903118)
 
++ [【数学建模】——【A题 信用风险识别问题】全面解析](https://blog.csdn.net/2303_77720864/article/details/140877085)
+
++ [重塑未来体验：边缘计算与云原生的完美邂逅](https://blog.csdn.net/weixin_53269650/article/details/140870048)
+
++ [Python 爬虫项目实战（二）：爬取微博热搜榜](https://blog.csdn.net/2302_82189125/article/details/140873180)
+
++ [【机器学习第7章——贝叶斯分类器】](https://blog.csdn.net/m0_53694086/article/details/140914049)
+
++ [ARM 架构硬件新趋势：嵌入式领域的未来](https://blog.csdn.net/qq_33738357/article/details/140907146)
+
++ [繁简之争：为什么手机芯片都是 ARM](https://blog.csdn.net/u014116780/article/details/140913358)
+
++ [渗透测试与高级攻防技术（三）探索渗透测试与高级攻防技术：系统安全全面解析](https://blog.csdn.net/weixin_40055370/article/details/140909988)
+
++ [2024华数杯数学建模C题老外游中国多维综合评价与多目标旅游规划求解代码思路分析](https://blog.csdn.net/nancheng_single/article/details/140914593)
+
