@@ -37,3 +37,5 @@
 
 + [小米汽车：主动安全 AEB 功能默认开启，手动关闭仅在当前上电周期生效](https://m.ithome.com/html/786181.htm)
 
++ [苹果秋季新品曝光：2024 款 M4 芯片 MacBook Pro、Mac mini 和 iMac 将至](https://m.ithome.com/html/786189.htm)
+

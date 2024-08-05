@@ -47,3 +47,7 @@
 
 + [研发安全视角 | 如何开发更安全的认证？](https://www.freebuf.com/articles/system/407549.html)
 
++ [因办公应用程序导致大规模数据泄露！涉及戴尔、AT&T、大通银行等900家公司](https://www.freebuf.com/news/407784.html)
+
++ [渗透测试 | 一次某医疗系统实战](https://www.freebuf.com/articles/web/383506.html)
+

@@ -181,3 +181,15 @@
 
 + [Mobile - Voice Technology](https://dribbble.com/shots/)
 
++ [Teraluxe: SaaS Dashboard Real Estate Web App - Filter Rooms ????](https://dribbble.com/shots/)
+
++ [Supernova: Enterprise AI Platform Web App - Chat ????](https://dribbble.com/shots/)
+
++ [Login, Register & Reset Password Flow - Cusana](https://dribbble.com/shots/)
+
++ [Neuromeet : AI Meeting Transcript - Visual Branding](https://dribbble.com/shots/)
+
++ [Miramarile - Detail Product Landing Page](https://dribbble.com/shots/)
+
++ [slothUI - World's Laziest Design System - Onboarding Flow UIUX](https://dribbble.com/shots/)
+

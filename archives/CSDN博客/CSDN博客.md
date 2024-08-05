@@ -157,3 +157,11 @@
 
 + [软件设计之HTML5](https://blog.csdn.net/thm19990903/article/details/140888641)
 
++ [【MySQL】索引——索引的引入、认识磁盘、磁盘的组成、扇区、磁盘访问、磁盘和MySQL交互、索引的概念](https://blog.csdn.net/Crocodile1006/article/details/140912714)
+
++ [第35讲：Manager可视化组件管理Ceph集群](https://blog.csdn.net/weixin_44953658/article/details/140917233)
+
++ [一些硬件知识（十九）](https://blog.csdn.net/zjb6668/article/details/140887787)
+
++ [网络安全知识核心20要点](https://blog.csdn.net/2401_84488651/article/details/140903118)
+
