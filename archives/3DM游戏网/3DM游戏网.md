@@ -185,3 +185,15 @@
 
 + [《神界：原罪》的剧本创作仅用3天 但《博德之门3》花费数年讨论剧情及人物](https://www.3dmgame.com/news/202408/3901116.html)
 
++ [2024年《财富》世界500强榜单出炉：小米连续6年上榜](https://www.3dmgame.com/news/202408/3901125.html)
+
++ [《Fields of Mistria》Steam抢测 小清新像素种田](https://www.3dmgame.com/news/202408/3901124.html)
+
++ [卡牌游戏“女王之血”将回归《最终幻想7》重制第三部](https://www.3dmgame.com/news/202408/3901123.html)
+
++ [玩家发现《黄金树幽影》双月骑士全新逃课技巧 隔着雾门放祷告](https://www.3dmgame.com/news/202408/3901122.html)
+
++ [卡普空举行奇葩街霸电竞大赛 前提是睡足一星期](https://www.3dmgame.com/news/202408/3901121.html)
+
++ [传闻：《远征：泥泞奔驰游戏》即将加入XGP](https://www.3dmgame.com/news/202408/3901120.html)
+
