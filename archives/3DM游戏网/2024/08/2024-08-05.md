@@ -177,3 +177,11 @@
 
 + [2.5D类银河恶魔城游戏《曼德拉》Steam页面上线 将参加2024科隆展](https://www.3dmgame.com/news/202408/3901112.html)
 
++ [兽人福瑞打枪要素 第三人称射击游戏《兽猎突袭》登录Steam平台](https://www.3dmgame.com/news/202408/3901119.html)
+
++ [《日本漂移大师》结盟马自达 现实将车游戏登场](https://www.3dmgame.com/news/202408/3901117.html)
+
++ [《死侍与金刚狼》全球票房超越前作 有望登顶R级电影全球票房榜](https://www.3dmgame.com/news/202408/3901118.html)
+
++ [《神界：原罪》的剧本创作仅用3天 但《博德之门3》花费数年讨论剧情及人物](https://www.3dmgame.com/news/202408/3901116.html)
+

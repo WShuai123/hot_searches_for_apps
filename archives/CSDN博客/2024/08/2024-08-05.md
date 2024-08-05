@@ -197,3 +197,7 @@
 
 + [使用Docker+ollama部署大模型](https://blog.csdn.net/m0_64636251/article/details/140907077)
 
++ [【机器学习】人工神经网络优化方法及正则化技术](https://blog.csdn.net/qq_44214428/article/details/140887953)
+
++ [基于springboot+vue+uniapp的智慧物业平台小程序](https://blog.csdn.net/shmp54/article/details/140910921)
+

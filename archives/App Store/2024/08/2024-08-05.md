@@ -211,3 +211,7 @@
 
 + [云闪付-银行业统一移动支付App](https://itunes.apple.com/cn/app/id600273928?mt=8)
 
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
+

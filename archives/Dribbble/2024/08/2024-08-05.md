@@ -201,3 +201,31 @@
 
 + [Grundens: Full Preview](https://dribbble.com/shots/)
 
++ [Sales Mobile App](https://dribbble.com/shots/)
+
++ [Tallent Flow onboarding](https://dribbble.com/shots/)
+
++ [Free UI Kit - Dashboard Payroll](https://dribbble.com/shots/)
+
++ [Crypto Bridge design](https://dribbble.com/shots/)
+
++ [Open Agreements & Legal Schema, structured data contracts logos](https://dribbble.com/shots/)
+
++ [Crave Brand Guideline - Motion](https://dribbble.com/shots/)
+
++ [Gameshell clockwork????](https://dribbble.com/shots/)
+
++ [GBA pink ???? ????](https://dribbble.com/shots/)
+
++ [Icon Set of Paymint Framer Template](https://dribbble.com/shots/)
+
++ [Dog & Stick](https://dribbble.com/shots/)
+
++ [Pesse - Fintech Landing Page](https://dribbble.com/shots/)
+
++ [Personal AI assistant brand: illustrations](https://dribbble.com/shots/)
+
++ [Logo letter N and geometric dolphins](https://dribbble.com/shots/)
+
++ [Game Design - TOONBOT ????](https://dribbble.com/shots/)
+
