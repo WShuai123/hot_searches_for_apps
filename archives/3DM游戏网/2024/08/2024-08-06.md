@@ -115,3 +115,13 @@
 
 + [《塞尔达传说：智慧的再现》新预告展示地点/玩法](https://www.3dmgame.com/news/202408/3901147.html)
 
++ [好评2D《只狼》游戏《九日》将登陆主机平台](https://www.3dmgame.com/news/202408/3901156.html)
+
++ [销量将决定命运《暗影诅咒》有望推出续作](https://www.3dmgame.com/news/202408/3901155.html)
+
++ [《High on Life》将改编成动画采用原游戏配音](https://www.3dmgame.com/news/202408/3901154.html)
+
++ [《赤影战士》发布主机试玩版公布全新游戏预告](https://www.3dmgame.com/news/202408/3901153.html)
+
++ [《咩咩启示录》全新DLC朝圣者包8月12日上线](https://www.3dmgame.com/news/202408/3901152.html)
+
