@@ -149,3 +149,11 @@
 
 + [技术周总结 2024.07.29 ~ 08.04周日(MyBatis, 极限编程)](https://blog.csdn.net/xinkuaile/article/details/140841268)
 
++ [MySQL-分库分表](https://blog.csdn.net/m0_73902080/article/details/140902110)
+
++ [【微服务】Spring Cloud 服务网关之Zuul](https://blog.csdn.net/jinxinxin1314/article/details/140915064)
+
++ [机器学习 第9章-聚类](https://blog.csdn.net/m0_62094120/article/details/140904399)
+
++ [软件设计之HTML5](https://blog.csdn.net/thm19990903/article/details/140888641)
+

@@ -45,3 +45,5 @@
 
 + [GPT4o Captcha Bypass ：基于GPT4o 实现验证码绕过](https://www.freebuf.com/articles/web/406617.html)
 
++ [研发安全视角 | 如何开发更安全的认证？](https://www.freebuf.com/articles/system/407549.html)
+
