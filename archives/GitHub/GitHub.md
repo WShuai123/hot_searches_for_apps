@@ -35,3 +35,13 @@
 
 + [marticliment / UniGetUI](https://github.com/marticliment/UniGetUI)
 
++ [trailofbits / multiplier](https://github.com/trailofbits/multiplier)
+
++ [bghira / SimpleTuner](https://github.com/bghira/SimpleTuner)
+
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
+
++ [ardalis / CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
+

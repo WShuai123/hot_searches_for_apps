@@ -243,3 +243,23 @@
 
 + [《无人深空》玩家用3000多个部件打造出一座赛博朋克都市](https://www.3dmgame.com/news/202408/3901208.html)
 
++ [Steam最新一周销量榜 《黑神话：悟空》冲上第二](https://www.3dmgame.com/news/202408/3901216.html)
+
++ [悉尼妹不反对电影出现情色场景 会继续为艺术献身](https://www.3dmgame.com/news/202408/3901217.html)
+
++ [AI对软件工程师的影响 未来50%以上App会死掉](https://www.3dmgame.com/news/202408/3901218.html)
+
++ [《辐射76》“零号里程碑”更新将“彻底改变游玩方式”](https://www.3dmgame.com/news/202408/3901220.html)
+
++ [中国版星链！千帆星座首批组网卫星一箭18星升空入轨](https://www.3dmgame.com/news/202408/3901219.html)
+
++ [腾讯代理《彩虹六号》国服上线筹备中 上线日期待定](https://www.3dmgame.com/news/202408/3901221.html)
+
++ [《超级猴子球 香蕉大乱斗》赛季4现已开启！游玩联机对战，获取限时装扮配件](https://www.3dmgame.com/news/202408/3901223.html)
+
++ [恋爱ADV《Steam Prison -Beyond the Steam-》发售日及预约开始通知](https://www.3dmgame.com/news/202408/3901222.html)
+
++ [《KAGE～Shadow of The Ninja 绝影战士》即将发售！八大最新情报现已公开！](https://www.3dmgame.com/news/202408/3901224.html)
+
++ [OpenAI联合创始人离开公司 加入对家Anthropic](https://www.3dmgame.com/news/202408/3901225.html)
+
