@@ -35,3 +35,5 @@
 
 + [苹果 iPhone 16 Pro / Max“印度造”？分析师：高端机型将继续在中国生产](https://m.ithome.com/html/786415.htm)
 
++ [雷军开始带货：个人抖音号橱窗已上线小米手环 9](https://m.ithome.com/html/786305.htm)
+

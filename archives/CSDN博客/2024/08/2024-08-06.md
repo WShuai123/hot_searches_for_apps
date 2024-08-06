@@ -153,3 +153,11 @@
 
 + [Spring File Storage（文件的对象存储）框架基本使用指南](https://blog.csdn.net/footless_bird/article/details/140918164)
 
++ [第十九届全国大学生智能汽车竞赛技术报告| 潍坊学院孤影队](https://blog.csdn.net/zhuoqingjoking97298/article/details/140928776)
+
++ [深度对比：MySQL、Oracle、PostgreSQL 和 Kingbase 四大数据库系统的架构、功能与性能分析](https://blog.csdn.net/qq_38411796/article/details/140890322)
+
++ [自学黑客（网络安全）](https://blog.csdn.net/2301_77160226/article/details/140936456)
+
++ [GPT-4o mini模型：小型化AI解决方案的创新应用案例](https://blog.csdn.net/u014727709/article/details/140894626)
+

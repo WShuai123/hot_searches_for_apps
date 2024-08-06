@@ -179,3 +179,31 @@
 
 + [管理游戏《Settlements Rising》10月3日EA发售 支持简中](https://www.3dmgame.com/news/202408/3901183.html)
 
++ [为何小米SU7女性用户如此多：雷军回应四字秘诀](https://www.3dmgame.com/news/202408/3901196.html)
+
++ [极简风格平台解谜游戏《矿物》登录Steam平台 2024年8月8日推出](https://www.3dmgame.com/news/202408/3901195.html)
+
++ [英伟达AI工具被曝或导致用户侵权：大量抓取未授权视频](https://www.3dmgame.com/news/202408/3901197.html)
+
++ [《ISEKI》9月登陆Steam 自动战斗3D迷宫探索](https://www.3dmgame.com/news/202408/3901194.html)
+
++ [《死侍与金刚狼》后 休·杰克曼痛失吉尼斯世界纪录](https://www.3dmgame.com/news/202408/3901193.html)
+
++ [《龙之家族》仍将拍摄四季 第三季2025年开始制作](https://www.3dmgame.com/news/202408/3901192.html)
+
++ [《暗黑破坏神4》玩家找到“秘密”独特装备 但效果很烂](https://www.3dmgame.com/news/202408/3901189.html)
+
++ [《黎明杀机》官宣联动《玩具熊的五夜后宫》2025年启动](https://www.3dmgame.com/news/202408/3901188.html)
+
++ [《饿狼传说：狼之城》“洛克·霍华德”角色PV公开 2025年发售](https://www.3dmgame.com/news/202408/3901187.html)
+
++ [美股科技七巨头全线暴跌 总市值蒸发8000亿美元](https://www.3dmgame.com/news/202408/3901186.html)
+
++ [雷军回应小米手机被说屌丝机 跟对手对比推动进步](https://www.3dmgame.com/news/202408/3901190.html)
+
++ [方块平台对战游戏《Ninza》现已提供试玩Demo 8月28日正式推出](https://www.3dmgame.com/news/202408/3901191.html)
+
++ [EA老板称在《大学橄榄球25》开发中生成式AI是“必需品”](https://www.3dmgame.com/news/202408/3901184.html)
+
++ [《荒野大镖客：救赎2》动捕兼配音演员表示扮演主角亚瑟最困难的部分是蹲着跑](https://www.3dmgame.com/news/202408/3901185.html)
+

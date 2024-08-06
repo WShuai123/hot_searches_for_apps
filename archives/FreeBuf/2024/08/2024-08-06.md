@@ -51,3 +51,5 @@
 
 + [Gartner安全运营成熟度曲线：XDR、SOAR 泡沫破裂；EDR、SIEM 进入生产成熟期](https://www.freebuf.com/news/407888.html)
 
++ [内网渗透学习笔记整理Trick](https://www.freebuf.com/vuls/407474.html)
+
