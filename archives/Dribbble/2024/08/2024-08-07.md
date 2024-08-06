@@ -125,3 +125,17 @@
 
 + [Jaguar Logo](https://dribbble.com/shots/)
 
++ [NYC illustrations](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Roark Store Shirt](https://dribbble.com/shots/)
+
++ [WE'RE NOT DEAD YET](https://dribbble.com/shots/)
+
++ [Midnight Melodies: The Jazz Chronicles](https://dribbble.com/shots/)
+
++ [Promo Stickers](https://dribbble.com/shots/)
+
