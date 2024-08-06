@@ -27,3 +27,5 @@
 
 + [烈日下的外卖小哥：日均工作超 10 小时才能“月入过万”、部分骑手“从未见过高温津贴”](https://m.ithome.com/html/786341.htm)
 
++ [小米 14、Redmi K70 等机型将推澎湃 OS 全 AI 功能，不必申请内测资格](https://m.ithome.com/html/786375.htm)
+

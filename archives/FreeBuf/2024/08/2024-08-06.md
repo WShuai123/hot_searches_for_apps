@@ -41,3 +41,7 @@
 
 + [HVV蓝队视角的技战法分析](https://www.freebuf.com/news/407045.html)
 
++ [FreeBuf早报 | CrowdStrike拒为企业损失买单；黑客可用HDMI线捕获用户密码](https://www.freebuf.com/news/407828.html)
+
++ [YVnopLlM.exe木马分析：流量分析到调式解密传输文本内容](https://www.freebuf.com/articles/system/407751.html)
+

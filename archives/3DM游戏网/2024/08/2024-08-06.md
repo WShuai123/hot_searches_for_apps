@@ -125,3 +125,7 @@
 
 + [《咩咩启示录》全新DLC朝圣者包8月12日上线](https://www.3dmgame.com/news/202408/3901152.html)
 
++ [《黑神话：悟空》在PS5上优化得不错 能达到2K/60帧](https://www.3dmgame.com/news/202408/3901157.html)
+
++ [内马尔吐槽《CS2》是垃圾游戏 外挂太猖獗了！](https://www.3dmgame.com/news/202408/3901158.html)
+

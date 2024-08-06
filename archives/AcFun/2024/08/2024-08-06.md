@@ -71,3 +71,7 @@
 
 + [《女神异闻录5皇家版》吸氧娱乐新手全程直播录像1](http://www.acfun.cn/v/ac46056847)
 
++ [Alone](http://www.acfun.cn/v/ac46055869)
+
++ [【恰独食】过生日，去吃点好吃的](http://www.acfun.cn/v/ac46050694)
+
