@@ -55,3 +55,5 @@
 
 + [自2018年一直被黑客利用，Windows又一“后门”揭秘](https://www.freebuf.com/news/407876.html)
 
++ [CyberChef：用于加密、编码、压缩和数据分析的网络瑞士军刀](https://www.freebuf.com/sectool/407752.html)
+

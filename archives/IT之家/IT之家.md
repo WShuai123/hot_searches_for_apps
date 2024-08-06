@@ -41,3 +41,5 @@
 
 + [董明珠：格力正开发“不要电”的空调，直连光伏实现 0 电费](https://m.ithome.com/html/786461.htm)
 
++ [小米雷军称倒霉的地方老是跟苹果华为比](https://m.ithome.com/html/786497.htm)
+
