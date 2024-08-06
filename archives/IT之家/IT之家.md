@@ -31,3 +31,7 @@
 
 + [华为起诉深圳新欧微公司商标侵权，索赔 60 万元](https://m.ithome.com/html/786422.htm)
 
++ [比亚迪官宣海豹 07 DM-i / 2025 款海豹 8 月 8 日上市，混动、纯电双版本](https://m.ithome.com/html/786392.htm)
+
++ [苹果 iPhone 16 Pro / Max“印度造”？分析师：高端机型将继续在中国生产](https://m.ithome.com/html/786415.htm)
+

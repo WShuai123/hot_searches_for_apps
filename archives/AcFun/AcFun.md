@@ -81,3 +81,7 @@
 
 + [1347期：一边骑车一边录像，以为是王者，结果是青铜](http://www.acfun.cn/v/ac46056651)
 
++ [大摆锤](http://www.acfun.cn/v/ac45509241)
+
++ [【绯絮】（G）I-DLE～Klaxon](http://www.acfun.cn/v/ac46054207)
+

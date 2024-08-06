@@ -147,3 +147,9 @@
 
 + [Vue3详细介绍，正则采集器所用前端框架](https://blog.csdn.net/guzhangyu12345/article/details/140919653)
 
++ [基于C#调用文心一言大模型制作桌面软件(可改装接口)](https://blog.csdn.net/weixin_42794881/article/details/140945535)
+
++ [人工智能时代，程序员当如何保持核心竞争力？](https://blog.csdn.net/2302_79376097/article/details/140937631)
+
++ [Spring File Storage（文件的对象存储）框架基本使用指南](https://blog.csdn.net/footless_bird/article/details/140918164)
+

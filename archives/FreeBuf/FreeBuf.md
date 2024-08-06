@@ -47,3 +47,7 @@
 
 + [企业安全 | 邮件安全建设实践](https://www.freebuf.com/articles/es/406387.html)
 
++ [Apache OFBiz 曝出严重漏洞，允许预身份验证 RCE](https://www.freebuf.com/news/407869.html)
+
++ [Gartner安全运营成熟度曲线：XDR、SOAR 泡沫破裂；EDR、SIEM 进入生产成熟期](https://www.freebuf.com/news/407888.html)
+
