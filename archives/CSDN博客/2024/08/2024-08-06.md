@@ -189,3 +189,5 @@
 
 + [利用Python进行金融数据分析的全面指南【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/140915529)
 
++ [【C++】：错误处理机制 -- 异常](https://blog.csdn.net/2301_77900444/article/details/140919958)
+

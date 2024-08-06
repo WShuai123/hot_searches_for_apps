@@ -227,3 +227,19 @@
 
 + [《寂静之地：前方之路》发售日期疑似公布：10月17日](https://www.3dmgame.com/news/202408/3901198.html)
 
++ [分析师回应iPhone 16部分机型印度制造：高端型号将继续在中国生产](https://www.3dmgame.com/news/202408/3901215.html)
+
++ [《烛光迷局：悲鸣》正式版发售 国区售价36元](https://www.3dmgame.com/news/202408/3901209.html)
+
++ [卡普空《怪物猎人：荒野》武器介绍视频：重弩](https://www.3dmgame.com/news/202408/3901213.html)
+
++ [《约会大作战》时崎狂三新手办赏 黑丝连衣裙秀长腿](https://www.3dmgame.com/news/202408/3901214.html)
+
++ [满情感艺术的隐藏游戏《Love is...》steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3901212.html)
+
++ [《Touko in Underland》Steam上线 唯美2D横版动作](https://www.3dmgame.com/news/202408/3901210.html)
+
++ [《Gmod》创作者承诺其新引擎不会像Unity一样乱收费](https://www.3dmgame.com/news/202408/3901211.html)
+
++ [《无人深空》玩家用3000多个部件打造出一座赛博朋克都市](https://www.3dmgame.com/news/202408/3901208.html)
+

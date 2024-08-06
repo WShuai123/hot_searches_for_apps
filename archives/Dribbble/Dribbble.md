@@ -179,3 +179,47 @@
 
 + [Big Apple Basketball](https://dribbble.com/shots/)
 
++ [InsightHub - KPI & Project Management  Dashboard](https://dribbble.com/shots/)
+
++ [Support 3D Icon](https://dribbble.com/shots/)
+
++ [Total Streaks Completed - Color](https://dribbble.com/shots/)
+
++ [The vaultex home page](https://dribbble.com/shots/)
+
++ [Eyeball Pattern Construction](https://dribbble.com/shots/)
+
++ [Foxchain: Cryptocurrency Exchange Mobile App Request Payment ????](https://dribbble.com/shots/)
+
++ [Sidebar Navigation - Light & Dark Theme](https://dribbble.com/shots/)
+
++ [Dog With Hat Logo](https://dribbble.com/shots/)
+
++ [Zwinkle - Personal Website](https://dribbble.com/shots/)
+
++ [99finder — Logo and Visual Identity](https://dribbble.com/shots/)
+
++ [Australian Kelpie](https://dribbble.com/shots/)
+
++ [Hills landscape illustration](https://dribbble.com/shots/)
+
++ [AI Travel Web Dashboard](https://dribbble.com/shots/)
+
++ [40s Herman](https://dribbble.com/shots/)
+
++ [CreditProtect Branding direction](https://dribbble.com/shots/)
+
++ [S and dog](https://dribbble.com/shots/)
+
++ [Lorem Ipsum Branding Design](https://dribbble.com/shots/)
+
++ [IdeaPilot AI - Business Management Platform UX/UI Design](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Treatment Booking Flow in Patient Mobile App](https://dribbble.com/shots/)
+
++ [Packaging Design for a Sports Watch](https://dribbble.com/shots/)
+
++ [Cubie Mascot 3D Animation](https://dribbble.com/shots/)
+
++ [Clerk Overview](https://dribbble.com/shots/)
+
