@@ -49,3 +49,49 @@
 
 + [1972 Datsun](https://dribbble.com/shots/)
 
++ [Strategy of Security Brand Identity](https://dribbble.com/shots/)
+
++ [99finder — Logo and Visual Identity](https://dribbble.com/shots/)
+
++ [Claim Details, Submit for Payment. Endurance Warranty](https://dribbble.com/shots/)
+
++ [Eyeball Pattern Construction](https://dribbble.com/shots/)
+
++ [Support 3D Icon](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Total Streaks Completed - Color](https://dribbble.com/shots/)
+
++ [UI Elements for Vegan App](https://dribbble.com/shots/)
+
++ [Packaging Design for a Sports Watch](https://dribbble.com/shots/)
+
++ [Fitness App](https://dribbble.com/shots/)
+
++ [Payoobel -  Financial Services Landing Page](https://dribbble.com/shots/)
+
++ [Unused 'E' Gradient Lettermark for Exodus](https://dribbble.com/shots/)
+
++ [Sidebar Navigation - Light & Dark Theme](https://dribbble.com/shots/)
+
++ [Office Worker](https://dribbble.com/shots/)
+
++ [Lorem Ipsum Branding Design](https://dribbble.com/shots/)
+
++ [The vaultex home page](https://dribbble.com/shots/)
+
++ [Featured Hero - E-commerce website](https://dribbble.com/shots/)
+
++ [Dog With Hat Logo](https://dribbble.com/shots/)
+
++ [M Blend Mode](https://dribbble.com/shots/)
+
++ [CreditProtect Branding direction](https://dribbble.com/shots/)
+
++ [Tournament Website](https://dribbble.com/shots/)
+
++ [Taurus App - Mobile App, Website, UI&UX Design](https://dribbble.com/shots/)
+
++ [Cubie Mascot 3D Animation](https://dribbble.com/shots/)
+

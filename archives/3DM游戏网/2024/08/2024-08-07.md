@@ -101,3 +101,13 @@
 
 + [EA老板称在《大学橄榄球25》开发中生成式AI是“必需品”](https://www.3dmgame.com/news/202408/3901184.html)
 
++ [真我将全球首发300W超级闪充！10分钟内充满电](https://www.3dmgame.com/news/202408/3901239.html)
+
++ [《寂静岭2RE》开发商：希望粉丝能给我们机会](https://www.3dmgame.com/news/202408/3901238.html)
+
++ [外媒精选15款停不下来的电子游戏 《对马岛之魂》在列](https://www.3dmgame.com/news/202408/3901237.html)
+
++ [《寂静之地：前方之路》10月17日发售 售价29.99美元](https://www.3dmgame.com/news/202408/3901236.html)
+
++ [XGP八月上旬新增游戏 《四海兄弟：最终版》等](https://www.3dmgame.com/news/202408/3901235.html)
+
