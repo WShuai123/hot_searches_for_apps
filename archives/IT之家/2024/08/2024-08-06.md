@@ -29,3 +29,5 @@
 
 + [小米 14、Redmi K70 等机型将推澎湃 OS 全 AI 功能，不必申请内测资格](https://m.ithome.com/html/786375.htm)
 
++ [华为起诉深圳新欧微公司商标侵权，索赔 60 万元](https://m.ithome.com/html/786422.htm)
+

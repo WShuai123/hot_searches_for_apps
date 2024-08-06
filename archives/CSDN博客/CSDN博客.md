@@ -141,3 +141,9 @@
 
 + [MyBatis 开发流程（看完就会）](https://blog.csdn.net/weixin_63698171/article/details/140935521)
 
++ [已解决AttributeError: module ‘emoji‘ has no attribute ‘get_emoji_regexp‘](https://blog.csdn.net/m0_64336780/article/details/139189760)
+
++ [【云原生】恰当运用kubernetes中三种探针，确保应用程序在Kubernetes集群中保持健康、可用和可靠](https://blog.csdn.net/littlefun591/article/details/140924428)
+
++ [Vue3详细介绍，正则采集器所用前端框架](https://blog.csdn.net/guzhangyu12345/article/details/140919653)
+

@@ -129,3 +129,27 @@
 
 + [内马尔吐槽《CS2》是垃圾游戏 外挂太猖獗了！](https://www.3dmgame.com/news/202408/3901158.html)
 
++ [《Riddlewood Manor》Steam页面 支持简体中文](https://www.3dmgame.com/news/202408/3901170.html)
+
++ [国产恐怖游戏《无归》已发售 Steam褒贬不一](https://www.3dmgame.com/news/202408/3901160.html)
+
++ [前暴雪总裁Mike Ybarra加入梦幻体育公司担任CEO](https://www.3dmgame.com/news/202408/3901168.html)
+
++ [《黑神话：悟空》还是《星球大战：法外狂徒》？国外玩家：猴子更性感一点](https://www.3dmgame.com/news/202408/3901169.html)
+
++ [休闲模拟经营放置类游戏《动物农场》Steam页面 年内发售](https://www.3dmgame.com/news/202408/3901166.html)
+
++ [《蟹蟹寻宝奇遇》销量突破50万 新游戏+模式即将上线](https://www.3dmgame.com/news/202408/3901167.html)
+
++ [《Streep》Steam页面上线 创意纸笔冒险世界](https://www.3dmgame.com/news/202408/3901164.html)
+
++ [奇怪的联动 《Roblox》正在出售《阴间大法师2》的电影票](https://www.3dmgame.com/news/202408/3901165.html)
+
++ [《幻兽帕鲁》收入数百亿日元 但团队还是不想开发3A游戏](https://www.3dmgame.com/news/202408/3901163.html)
+
++ [欧美区《电锯甜心 RePOP》反响跳票 9月12日发售](https://www.3dmgame.com/news/202408/3901162.html)
+
++ [《远征：泥泞奔驰》有望在本月登陆Game Pass](https://www.3dmgame.com/news/202408/3901161.html)
+
++ [《胜利女神》新角色茨瓦伊曝光：双枪制服美少女](https://www.3dmgame.com/news/202408/3901159.html)
+

@@ -45,3 +45,5 @@
 
 + [YVnopLlM.exe木马分析：流量分析到调式解密传输文本内容](https://www.freebuf.com/articles/system/407751.html)
 
++ [企业安全 | 邮件安全建设实践](https://www.freebuf.com/articles/es/406387.html)
+
