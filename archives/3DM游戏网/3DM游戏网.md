@@ -153,3 +153,29 @@
 
 + [《胜利女神》新角色茨瓦伊曝光：双枪制服美少女](https://www.3dmgame.com/news/202408/3901159.html)
 
++ [《炉石传说》10周年庆典活动 将免费送一张金卡和三个卡包](https://www.3dmgame.com/news/202408/3901171.html)
+
++ [《逃离塔科夫》宣布即将加入全新Boss 会猎杀PMC](https://www.3dmgame.com/news/202408/3901172.html)
+
++ [《Demon Of The Dark》登陆Steam 3D恐怖生存](https://www.3dmgame.com/news/202408/3901173.html)
+
++ [《黑神话：悟空》没有响应ZZZQ 也能在全球大放异彩](https://www.3dmgame.com/news/202408/3901174.html)
+
++ [《按右键启动翻译器》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901175.html)
+
++ [刺绣艺术风格冒险游戏《猩红之鹿旅店》即将在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3901176.html)
+
++ [C罗投资的足球游戏《UFL》9月12日发售 免费游玩](https://www.3dmgame.com/news/202408/3901177.html)
+
++ [《暗黑破坏神4》第五赛季各职业强度排名预测 游侠第一](https://www.3dmgame.com/news/202408/3901178.html)
+
++ [《红楼梦之金玉良缘》新海报公布 宝玉神游太虚](https://www.3dmgame.com/news/202408/3901179.html)
+
++ [《黑神话：悟空》官宣正式版开发完成 8月8日公开新预告](https://www.3dmgame.com/news/202408/3901180.html)
+
++ [《怪兽8号》动画第二季确定2025年播出 剧场版同时公开](https://www.3dmgame.com/news/202408/3901181.html)
+
++ [《漫威蜘蛛侠2》非官方PC版Mod 让玛丽简漂亮并果体](https://www.3dmgame.com/news/202408/3901182.html)
+
++ [管理游戏《Settlements Rising》10月3日EA发售 支持简中](https://www.3dmgame.com/news/202408/3901183.html)
+
