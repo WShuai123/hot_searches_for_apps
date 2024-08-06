@@ -51,3 +51,9 @@
 
 + [理想 M7 / M8 / M9 谍照曝光，三款纯电 SUV 同框](https://m.ithome.com/html/786496.htm)
 
++ [39.98~44.98 万元，鸿蒙智行享界 S9 豪华轿车正式发布：首发华为 ADS 3.0](https://m.ithome.com/html/786626.htm)
+
++ [骁龙 8 Gen4 QRD 工程机首个跑分出炉](https://m.ithome.com/html/786393.htm)
+
++ [华为 MatePad Pro 12.2、MatePad Air 2024 平板电脑完整配置曝光：2.8K 144Hz 屏、麒麟处理器](https://m.ithome.com/html/786472.htm)
+

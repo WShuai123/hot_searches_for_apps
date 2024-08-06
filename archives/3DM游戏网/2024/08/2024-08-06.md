@@ -263,3 +263,11 @@
 
 + [OpenAI联合创始人离开公司 加入对家Anthropic](https://www.3dmgame.com/news/202408/3901225.html)
 
++ [雷军：我倒霉的地方就是老跟苹果华为比](https://www.3dmgame.com/news/202408/3901228.html)
+
++ [神舟战神T8 Plus新配置开售 13代i7+RTX 4060](https://www.3dmgame.com/news/202408/3901229.html)
+
++ [SE公布Q1新财报 利润暴涨FF14等网游部贡献大](https://www.3dmgame.com/news/202408/3901226.html)
+
++ [全球平板电脑二季度出货量出炉：国产华为第一](https://www.3dmgame.com/news/202408/3901227.html)
+

@@ -195,3 +195,11 @@
 
 + [Flink-DataWorks第一部分：DataWorks（第57天）](https://blog.csdn.net/syhiiu/article/details/140933321)
 
++ [【机器学习】BP神经网络基本结构](https://blog.csdn.net/qq_44214428/article/details/140888196)
+
++ [mysql线上查询之前要性能调优](https://blog.csdn.net/hebtu666/article/details/140934780)
+
++ [网络安全（黑客）—自学手册](https://blog.csdn.net/dexi113/article/details/140924863)
+
++ [[完整版本]华数杯数学建模2024年ABC题参考论文+解题代码+可视化结果图](https://blog.csdn.net/2301_77933700/article/details/140921247)
+
