@@ -245,3 +245,11 @@
 
 + [UI Elements for Vegan App](https://dribbble.com/shots/)
 
++ [Unused 'E' Gradient Lettermark for Exodus](https://dribbble.com/shots/)
+
++ [Rivulet mobile app](https://dribbble.com/shots/)
+
++ [Featured Hero - E-commerce website](https://dribbble.com/shots/)
+
++ [M Blend Mode](https://dribbble.com/shots/)
+
