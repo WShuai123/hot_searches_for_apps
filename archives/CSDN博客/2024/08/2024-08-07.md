@@ -101,3 +101,13 @@
 
 + [打造智能家居：用React、Node.js和WebSocket构建ESP32设备控制面板（代码说明）](https://blog.csdn.net/qq_40431685/article/details/140927423)
 
++ [揭秘LoRA：利用深度学习原理在Stable Diffusion中打造完美图像生成的秘密武器](https://blog.csdn.net/SDFsoul/article/details/140961015)
+
++ [C++之从C过渡（上）](https://blog.csdn.net/2301_82135086/article/details/140939467)
+
++ [深入解析 Nginx 反向代理：配置、优化与故障排除](https://blog.csdn.net/qq_38411796/article/details/140947951)
+
++ [深入解析数据仓库ADS层-从理论到实践的全面指南](https://blog.csdn.net/u012955829/article/details/140966457)
+
++ [一文了解K8S（Kubernates）](https://blog.csdn.net/mqiqe/article/details/140875945)
+

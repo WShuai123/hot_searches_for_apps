@@ -95,3 +95,31 @@
 
 + [Cubie Mascot 3D Animation](https://dribbble.com/shots/)
 
++ [NYC](https://dribbble.com/shots/)
+
++ [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [Death and Glory](https://dribbble.com/shots/)
+
++ [Phoenix Games Prints](https://dribbble.com/shots/)
+
++ [Robot Management](https://dribbble.com/shots/)
+
++ [Nat Geo Magazine: Editorial Illustrations](https://dribbble.com/shots/)
+
++ [Death & Glory](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [vacay!](https://dribbble.com/shots/)
+
++ [USA Icons](https://dribbble.com/shots/)
+
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [Pizza Rat Stencil](https://dribbble.com/shots/)
+
++ [End is Near](https://dribbble.com/shots/)
+
