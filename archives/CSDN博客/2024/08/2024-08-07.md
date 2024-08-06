@@ -117,3 +117,5 @@
 
 + [Spring统一功能处理：拦截器、响应与异常的统一管理](https://blog.csdn.net/m0_69519887/article/details/140833685)
 
++ [Elastic 基于 RAG 的 AI 助手：使用 LLM 和私有 GitHub 问题分析应用程序问题](https://blog.csdn.net/UbuntuTouch/article/details/140944613)
+

@@ -119,3 +119,13 @@
 
 + [NVIDIA驱动程序暗示PC版《最终幻想16》即将到来](https://www.3dmgame.com/news/202408/3901240.html)
 
++ [《沙丘：觉醒》确认亮相科隆展开幕夜现场直播](https://www.3dmgame.com/news/202408/3901247.html)
+
++ [传闻华纳兄弟考虑出售自家WB Games股份](https://www.3dmgame.com/news/202408/3901248.html)
+
++ [《蒸汽世界：劫掠2》发行预告片分享 游戏8/8推出](https://www.3dmgame.com/news/202408/3901246.html)
+
++ [《星鸣特攻》动画预告片聚焦Emari/Bazz/Vale](https://www.3dmgame.com/news/202408/3901245.html)
+
++ [联动狂魔《糖豆人》加入《堡垒之夜》皮肤](https://www.3dmgame.com/news/202408/3901244.html)
+
