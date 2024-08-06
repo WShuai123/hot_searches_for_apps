@@ -207,3 +207,23 @@
 
 + [《荒野大镖客：救赎2》动捕兼配音演员表示扮演主角亚瑟最困难的部分是蹲着跑](https://www.3dmgame.com/news/202408/3901185.html)
 
++ [电影《名侦探柯南：百万美元的五棱星》国内官宣定档：8月16日](https://www.3dmgame.com/news/202408/3901204.html)
+
++ [殖民模拟游戏《诺兰德》补丁发布放缓 下周公布更新路线图](https://www.3dmgame.com/news/202408/3901207.html)
+
++ [《Pixel Art Academy》Steam抢先体验 像素游戏艺术](https://www.3dmgame.com/news/202408/3901206.html)
+
++ [《龙腾世纪：影障守护者》首席编剧表示 没有明确死去的角色都有可能回归](https://www.3dmgame.com/news/202408/3901205.html)
+
++ [《半条命3》真在做了？更多泄露公开：不是VR完整新作](https://www.3dmgame.com/news/202408/3901203.html)
+
++ [《直到黎明》改编电影宣布开拍 上映日期待定](https://www.3dmgame.com/news/202408/3901202.html)
+
++ [乔治·RR·马丁透露 目前有7部《权力的游戏》衍生剧在制作中 其中4部是动画](https://www.3dmgame.com/news/202408/3901201.html)
+
++ [OpenAI宣布改变开发者大会举办形式 不公布GPT-5](https://www.3dmgame.com/news/202408/3901200.html)
+
++ [纪念系列诞生30周年 《超·铁拳祭》官方活动12月举行](https://www.3dmgame.com/news/202408/3901199.html)
+
++ [《寂静之地：前方之路》发售日期疑似公布：10月17日](https://www.3dmgame.com/news/202408/3901198.html)
+
