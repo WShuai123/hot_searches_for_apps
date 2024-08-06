@@ -45,3 +45,5 @@
 
 + [《黑神话：悟空》官宣完成正式版本所有内容开发，8 月 8 日上午 10 点发布新宣传片](https://m.ithome.com/html/786468.htm)
 
++ [全 2.5G 网口 + 6 颗 FEM：小米推出 BE6500 Wi-Fi7 路由器售 499 元](https://m.ithome.com/html/786382.htm)
+

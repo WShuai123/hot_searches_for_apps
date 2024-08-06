@@ -183,3 +183,9 @@
 
 + [CasaOS系统小主机Docker部署memos结合内网穿透打造私有云笔记](https://blog.csdn.net/m0_73879806/article/details/140933621)
 
++ [从科幻到现实：AIGC助力打造个性化数字人](https://blog.csdn.net/qq_32682301/article/details/140925920)
+
++ [在亚马逊云科技AWS上利用PEFT和RLHF高效微调AI大模型减少有害回复](https://blog.csdn.net/m0_66628975/article/details/140939103)
+
++ [利用Python进行金融数据分析的全面指南【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/140915529)
+
