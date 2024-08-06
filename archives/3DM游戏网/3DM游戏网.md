@@ -111,3 +111,11 @@
 
 + [XGP八月上旬新增游戏 《四海兄弟：最终版》等](https://www.3dmgame.com/news/202408/3901235.html)
 
++ [《黎明杀机》联动《恶魔城》新增两位系列主角](https://www.3dmgame.com/news/202408/3901243.html)
+
++ [《热血少女2》双截龙DLC预告展示双龙兄弟动作](https://www.3dmgame.com/news/202408/3901242.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》新增主角父亲剧情](https://www.3dmgame.com/news/202408/3901241.html)
+
++ [NVIDIA驱动程序暗示PC版《最终幻想16》即将到来](https://www.3dmgame.com/news/202408/3901240.html)
+

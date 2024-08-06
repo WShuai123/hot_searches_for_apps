@@ -143,3 +143,9 @@
 
 + [Landing Page Design for SimpleList](https://dribbble.com/shots/)
 
++ [Wizard Logo design for Magic Games](https://dribbble.com/shots/)
+
++ [Hotel Booking Landing Page](https://dribbble.com/shots/)
+
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
