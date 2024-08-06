@@ -241,3 +241,7 @@
 
 + [Live Logos | V2](https://dribbble.com/shots/)
 
++ [Claim Details, Submit for Payment. Endurance Warranty](https://dribbble.com/shots/)
+
++ [UI Elements for Vegan App](https://dribbble.com/shots/)
+

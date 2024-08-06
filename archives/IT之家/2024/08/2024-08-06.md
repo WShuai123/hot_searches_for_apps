@@ -57,3 +57,7 @@
 
 + [华为 MatePad Pro 12.2、MatePad Air 2024 平板电脑完整配置曝光：2.8K 144Hz 屏、麒麟处理器](https://m.ithome.com/html/786472.htm)
 
++ [小米澎湃 OS 2.0 新特性曝光：酒店等场景下扫描隐藏摄像头](https://m.ithome.com/html/786531.htm)
+
++ [预售 24.98 万元，余承东宣布问界新 M7 Pro 成都车展正式发布：搭载华为 ADS 基础版](https://m.ithome.com/html/786628.htm)
+
