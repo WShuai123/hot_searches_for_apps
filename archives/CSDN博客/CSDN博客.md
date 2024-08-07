@@ -101,3 +101,21 @@
 
 + [计算机网络-网络层](https://blog.csdn.net/H520xcodenodev/article/details/140967859)
 
++ [【机器学习】BP神经网络中的链式法则](https://blog.csdn.net/qq_44214428/article/details/140888841)
+
++ [Qt/C++最新地图组件发布/历时半年重构/同时支持各种地图内核/包括百度高德腾讯天地图](https://blog.csdn.net/feiyangqingyun/article/details/140964441)
+
++ [2024华数杯数学建模竞赛A题六自由度机器臂的关节角路径优化问题代码](https://blog.csdn.net/nancheng_single/article/details/140916390)
+
++ [Android Fragment 使用ResultAPI 申请权限](https://blog.csdn.net/moonway0127/article/details/140946197)
+
++ [Docker基本管理](https://blog.csdn.net/henanxiaoman/article/details/140944757)
+
++ [计算机网络（网络层）](https://blog.csdn.net/weixin_46906696/article/details/140740399)
+
++ [python全文检索库:whoosh](https://blog.csdn.net/longforone/article/details/140953377)
+
++ [【线性代数】【二】2.5 零空间与非齐次线性方程组的解集](https://blog.csdn.net/liuyider/article/details/140966356)
+
++ [Docker基本管理](https://blog.csdn.net/henanchenxuyuan/article/details/140944246)
+

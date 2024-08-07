@@ -97,3 +97,29 @@
 
 + [American Madonna](https://dribbble.com/shots/)
 
++ [Death & Glory](https://dribbble.com/shots/)
+
++ [Lo-Fi Bear Print: Part One](https://dribbble.com/shots/)
+
++ [Mood ☁️](https://dribbble.com/shots/)
+
++ [Spontaneous Objects](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Tertiary Logo](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [MM*](https://dribbble.com/shots/)
+
++ [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
+
++ [Strategy of Security Brand Identity](https://dribbble.com/shots/)
+
++ [MM*](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
