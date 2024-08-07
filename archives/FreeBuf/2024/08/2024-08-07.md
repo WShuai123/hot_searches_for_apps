@@ -57,3 +57,7 @@
 
 + [懂开发的网安人才，到底有多吃香？](https://www.freebuf.com/news/408031.html)
 
++ [Drltrace：针对Windows和Linux应用程序的库调用跟踪器](https://www.freebuf.com/sectool/407753.html)
+
++ [等保2.0测评 — 容器安全扩展要求（安全计算环境）](https://www.freebuf.com/articles/container/398239.html)
+

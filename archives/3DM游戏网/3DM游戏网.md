@@ -219,3 +219,17 @@
 
 + [《辐射：伦敦》团队正开发巨型补丁 提供1对1客服](https://www.3dmgame.com/news/202408/3901282.html)
 
++ [虚拟偶像湊阿库娅主题新游停止制作 本人即将毕业](https://www.3dmgame.com/news/202408/3901296.html)
+
++ [Legion Go即将推出Lite版本？联想：纯属校对失误](https://www.3dmgame.com/news/202408/3901299.html)
+
++ [《方舟生存飞升》新生物“星灵蛛”生物图谱首曝，“方舟俱乐部”玩法更新](https://www.3dmgame.com/news/202408/3901300.html)
+
++ [《协律01：新生活》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3901298.html)
+
++ [外网主播挑战让金鱼击败《黄金树幽影》最终BOSS 耗时仅8小时](https://www.3dmgame.com/news/202408/3901297.html)
+
++ [《女神异闻录3：Reload》后日谈“埃癸斯篇”新预告 9月10日发售](https://www.3dmgame.com/news/202408/3901295.html)
+
++ [双人解谜冒险游戏《不同的星球》Steam页面 明年发售](https://www.3dmgame.com/news/202408/3901294.html)
+
