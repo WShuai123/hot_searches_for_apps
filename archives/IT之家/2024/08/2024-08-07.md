@@ -65,3 +65,5 @@
 
 + [历史性一刻！中国新能源汽车 7 月渗透率首次突破 50%，超越燃油车](https://m.ithome.com/html/786905.htm)
 
++ [比亚迪 2024 款秦 PLUS 谍照曝光，DM 5.0 车型最快年底上市](https://m.ithome.com/html/786890.htm)
+

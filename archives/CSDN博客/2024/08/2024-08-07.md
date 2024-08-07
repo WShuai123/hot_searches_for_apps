@@ -183,3 +183,7 @@
 
 + [国产IOTDB（1.3.2）：第0集 本地Docker搭建展示和建议](https://blog.csdn.net/soo123520/article/details/140943893)
 
++ [探索灵办AI：智能办公的好帮手](https://blog.csdn.net/qq_44273429/article/details/140992849)
+
++ [docker搭建frp内网穿透](https://blog.csdn.net/huaz_md/article/details/140964616)
+
