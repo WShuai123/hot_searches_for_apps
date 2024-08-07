@@ -101,3 +101,11 @@
 
 + [《古惑狼：疯狂三部曲》官宣8月8日登陆Game Pass](https://www.3dmgame.com/news/202408/3901267.html)
 
++ [第一人称恐怖游戏《诡岛灵探》明年发售 登陆主机和PC](https://www.3dmgame.com/news/202408/3901329.html)
+
++ [DNF类魂动作RPG《第一狂战士：卡赞》15分钟演示](https://www.3dmgame.com/news/202408/3901330.html)
+
++ [289元！华为发布140W超级快充电源适配器套装](https://www.3dmgame.com/news/202408/3901331.html)
+
++ [《木卫四协议》总监：游戏开发时间不足影响了质量](https://www.3dmgame.com/news/202408/3901332.html)
+

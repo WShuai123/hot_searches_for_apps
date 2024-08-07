@@ -25,3 +25,5 @@
 
 + [凯迪拉克全新 XT5 官宣：“更大、更强、全面重构”](https://m.ithome.com/html/786786.htm)
 
++ [力度直逼 618 + 可叠千券：京东 PLUS 会员 800 元超级补贴开领](https://m.ithome.com/html/786931.htm)
+
