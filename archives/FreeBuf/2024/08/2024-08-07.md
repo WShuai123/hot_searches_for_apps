@@ -45,3 +45,7 @@
 
 + [剖析勒索软件剧本：分析攻击链和映射常见的TTP](https://www.freebuf.com/articles/paper/407741.html)
 
++ [针对间歇性设备的物理侧信道攻击](https://www.freebuf.com/vuls/407569.html)
+
++ [攻防演练中的IPv6（下）获取IPv6地址并防御IPv6攻击](https://www.freebuf.com/defense/378527.html)
+

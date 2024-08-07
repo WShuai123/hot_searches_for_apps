@@ -145,3 +145,23 @@
 
 + [《战锤40K：星际战士2》PC配置公布 优化堪忧](https://www.3dmgame.com/news/202408/3901249.html)
 
++ [开放世界多人生存游戏《夜莺传说》开发工作室对游戏现状并不满意](https://www.3dmgame.com/news/202408/3901264.html)
+
++ [《使命召唤：黑色行动6》完整成就列表已经泄露 10月发售](https://www.3dmgame.com/news/202408/3901265.html)
+
++ [欧美服《电锯甜心RePOP》8月8日开启预购 首发9折优惠](https://www.3dmgame.com/news/202408/3901262.html)
+
++ [中美合拍动画《哪吒与变形金刚》新预告 机械哪吒来了](https://www.3dmgame.com/news/202408/3901263.html)
+
++ [回合制战术游戏《Guards II: Chaos in Hell》Steam页面 支持简中](https://www.3dmgame.com/news/202408/3901261.html)
+
++ [《The Alchemy Between Us》PC免费发布 休闲短篇](https://www.3dmgame.com/news/202408/3901260.html)
+
++ [《速降王者》续作《下一代速降王者》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202408/3901259.html)
+
++ [《伊泰恩：魔法幸存者》登陆Steam 吸幸类型生存射击](https://www.3dmgame.com/news/202408/3901266.html)
+
++ [专家认为《刺客信条：影》弥助不是武士 只是保镖兼杂耍艺人](https://www.3dmgame.com/news/202408/3901258.html)
+
++ [即时战略游戏《工业毁灭》Steam页面 年内发售](https://www.3dmgame.com/news/202408/3901257.html)
+

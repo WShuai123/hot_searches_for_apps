@@ -157,3 +157,13 @@
 
 + [TDS on Adobe Live!](https://dribbble.com/shots/)
 
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Fivecode Brand Guidelines](https://dribbble.com/shots/)
+
++ [Packaging Design for Hermanos Brewing Co.](https://dribbble.com/shots/)
+
++ [HHC Living Corporate Coat of Arms](https://dribbble.com/shots/)
+
++ [Bedding Ecommerce Mobile Website](https://dribbble.com/shots/)
+

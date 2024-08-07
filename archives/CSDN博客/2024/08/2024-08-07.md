@@ -121,3 +121,9 @@
 
 + [Github零成本部署网站](https://blog.csdn.net/w11111xxxl/article/details/140928301)
 
++ [【人工智能】Transformers之Pipeline（八）：文生图/图生图（text-to-image/image-to-image）](https://blog.csdn.net/weixin_48007632/article/details/140967405)
+
++ [SpringBoot中读取配置的七种方法总结](https://blog.csdn.net/qq_26664043/article/details/140905345)
+
++ [Spring File Storage（文件的对象存储）框架基本使用指南](https://blog.csdn.net/footless_bird/article/details/140918164)
+
