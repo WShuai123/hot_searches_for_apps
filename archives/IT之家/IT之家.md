@@ -57,3 +57,7 @@
 
 + [华为推出超级快充电源适配器（Max 140W）：含 1.8 米 USB-C 充电线，289 元](https://m.ithome.com/html/786672.htm)
 
++ [小米智能家庭屏 Pro 8 测试验证微信通话，首年免费使用](https://m.ithome.com/html/786816.htm)
+
++ [英伟达发布新版 NVIDIA App，新增 RTX VSR 视频超分辨率、RTX Video HDR 高动态范围控制和显示设置功能](https://m.ithome.com/html/786708.htm)
+

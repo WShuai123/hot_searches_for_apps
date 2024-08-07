@@ -269,3 +269,11 @@
 
 + [价值3.83亿美元 Intel拿下全球第二台High NA EUV光刻机](https://www.3dmgame.com/news/202408/3901313.html)
 
++ [余承东曾称其抄袭华为 小米回应是抹黑：龙骨转轴差异大](https://www.3dmgame.com/news/202408/3901322.html)
+
++ [因盗版视频被查！人人影视创始人时隔三年半致歉](https://www.3dmgame.com/news/202408/3901320.html)
+
++ [高难度动物拟人RPG游戏《安尼姆的无尽旅途》即将上线](https://www.3dmgame.com/news/202408/3901321.html)
+
++ [《Before Exit：超市》登陆Steam 超市关张模拟器](https://www.3dmgame.com/news/202408/3901319.html)
+

@@ -65,3 +65,7 @@
 
 + [知名黑客公开近30亿条国家公共数据，包括全名、地址、SSN...](https://www.freebuf.com/news/408040.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
++ [零基础网安就业，需要多久？](https://www.freebuf.com/news/408073.html)
+
