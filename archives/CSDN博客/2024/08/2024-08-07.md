@@ -167,3 +167,9 @@
 
 + [计算机网络-网络层](https://blog.csdn.net/H520xcodenodev/article/details/140967859)
 
++ [【深度学习】基于YOLOV5模型的图像识别-目标检测的性能指标详解与计算方法](https://blog.csdn.net/weixin_41793160/article/details/140893087)
+
++ [如何将PostgreSQL的数据实时迁移到SelectDB？](https://blog.csdn.net/NineData/article/details/140925970)
+
++ [Spring Boot 自动配置原理及过程](https://blog.csdn.net/yuanchun05/article/details/140943542)
+

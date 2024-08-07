@@ -257,3 +257,15 @@
 
 + [AI能力下放！三星计划将Galaxy AI功能扩展至A系列手机](https://www.3dmgame.com/news/202408/3901307.html)
 
++ [《狙击精英》开发商新作“代号：群岛”A测招募 8月17日开启](https://www.3dmgame.com/news/202408/3901318.html)
+
++ [《异形：夺命舰》新预告发布 抱脸虫与人亲密接触](https://www.3dmgame.com/news/202408/3901314.html)
+
++ [国内油价明晚下调：今年来最大降幅预定 加满一箱省11元](https://www.3dmgame.com/news/202408/3901317.html)
+
++ [我国首个高精度地磁场探测卫星 “澳科一号”数据现已面向全球发布](https://www.3dmgame.com/news/202408/3901316.html)
+
++ [谷歌搜索被判垄断 受影响最大却是火狐](https://www.3dmgame.com/news/202408/3901315.html)
+
++ [价值3.83亿美元 Intel拿下全球第二台High NA EUV光刻机](https://www.3dmgame.com/news/202408/3901313.html)
+

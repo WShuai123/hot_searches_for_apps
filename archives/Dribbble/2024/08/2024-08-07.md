@@ -221,3 +221,19 @@
 
 + [Aixsurge](https://dribbble.com/shots/)
 
++ [Music Streaming App](https://dribbble.com/shots/)
+
++ [Cruz logo](https://dribbble.com/shots/)
+
++ [Shipping Modal](https://dribbble.com/shots/)
+
++ [Sheep Logo](https://dribbble.com/shots/)
+
++ [Knight of Valor and Honor Logo](https://dribbble.com/shots/)
+
++ [Pattern / first tobacco](https://dribbble.com/shots/)
+
++ [Digital Banking Web App Design](https://dribbble.com/shots/)
+
++ [VPN — Mobile App UI Design](https://dribbble.com/shots/)
+
