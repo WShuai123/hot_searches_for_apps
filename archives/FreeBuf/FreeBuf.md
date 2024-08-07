@@ -49,3 +49,7 @@
 
 + [攻防演练中的IPv6（下）获取IPv6地址并防御IPv6攻击](https://www.freebuf.com/defense/378527.html)
 
++ [迄今为止最大BEC骗局被侦破！国际刑警组织利用I-GRIP为企业追回 4100 万美元](https://www.freebuf.com/news/407989.html)
+
++ [揭秘新型安卓间谍软件LianSpy的攻击手段](https://www.freebuf.com/news/408008.html)
+

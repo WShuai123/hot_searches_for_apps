@@ -137,3 +137,7 @@
 
 + [【Linux】shell命令与Linux权限的概念](https://blog.csdn.net/qq_55401402/article/details/140387991)
 
++ [国产版Sora复现——智谱AI开源CogVideoX-2b 本地部署复现实践教程](https://blog.csdn.net/air__Heaven/article/details/140967138)
+
++ [基于XxlCrawler的Java执行JS渲染方式实战-以获取商飞C919飞行照片为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/140967045)
+

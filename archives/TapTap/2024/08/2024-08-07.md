@@ -23,3 +23,5 @@
 
 + [剑与远征：启程](https://www.taptap.cn/app/241042)
 
++ [诛仙2](https://www.taptap.cn/app/337150)
+

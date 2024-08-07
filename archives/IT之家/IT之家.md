@@ -35,3 +35,7 @@
 
 + [华为 MatePad Pro 12.2 英寸平板开启预售：2.8K 144Hz 双层 OLED 屏、10100mAh 电池，首发 4199 元起](https://m.ithome.com/html/786657.htm)
 
++ [小米汽车：SU7 Ultra 原型车基于 SU7 打造，独立设计开发核心硬件及车身结构](https://m.ithome.com/html/786652.htm)
+
++ [罗永浩回应被俞敏洪 20 年老友曝五宗罪：通篇没有事实，将发布“有理有据有节”的澄清稿](https://m.ithome.com/html/786528.htm)
+
