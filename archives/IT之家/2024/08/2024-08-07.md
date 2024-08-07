@@ -33,3 +33,5 @@
 
 + [鹏博士回应长城宽带断网：高度重视，已为 310 户用户成功恢复网络](https://m.ithome.com/html/786680.htm)
 
++ [华为 MatePad Pro 12.2 英寸平板开启预售：2.8K 144Hz 双层 OLED 屏、10100mAh 电池，首发 4199 元起](https://m.ithome.com/html/786657.htm)
+

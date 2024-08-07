@@ -165,3 +165,31 @@
 
 + [即时战略游戏《工业毁灭》Steam页面 年内发售](https://www.3dmgame.com/news/202408/3901257.html)
 
++ [《小丑牌》作者立下遗嘱：游戏永远不能用于赌博](https://www.3dmgame.com/news/202408/3901278.html)
+
++ [《玩具熊的五夜后宫：Secret of the Mimic》首支预告 明年发售](https://www.3dmgame.com/news/202408/3901276.html)
+
++ [芬兰工作室Social First获420万美元投资 社交MMO新作今年开测](https://www.3dmgame.com/news/202408/3901277.html)
+
++ [《绝区零》“青衣”战斗演示 触犯底线会被电的](https://www.3dmgame.com/news/202408/3901274.html)
+
++ [索尼互娱Steam支持应用《PSVR2 App》发布](https://www.3dmgame.com/news/202408/3901275.html)
+
++ [建造+策略《灾厄堡垒》抢先体验两周销量已超12万份](https://www.3dmgame.com/news/202408/3901273.html)
+
++ [像素复古平台冒险游戏《伏尔加尔的维京人 II》已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901272.html)
+
++ [《三国志8重制版》郭嘉和张辽角色介绍 曹操得力干将](https://www.3dmgame.com/news/202408/3901271.html)
+
++ [漫改《无法升级的玩家》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202408/3901270.html)
+
++ [节奏点击动作游戏《一键除王》正式推出获得好评](https://www.3dmgame.com/news/202408/3901269.html)
+
++ [PS VR2 PC适配器推出 但控制器蓝牙连接并不稳定](https://www.3dmgame.com/news/202408/3901279.html)
+
++ [《TCG卡牌商店模拟器》登陆Steam 体验卡牌经营](https://www.3dmgame.com/news/202408/3901280.html)
+
++ [《古惑狼：疯狂三部曲》官宣8月8日登陆Game Pass](https://www.3dmgame.com/news/202408/3901267.html)
+
++ [《凯娜：精神之桥》Xbox版运行规格公布 暂时不会加入XGP](https://www.3dmgame.com/news/202408/3901268.html)
+
