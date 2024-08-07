@@ -233,3 +233,15 @@
 
 + [双人解谜冒险游戏《不同的星球》Steam页面 明年发售](https://www.3dmgame.com/news/202408/3901294.html)
 
++ [《暗区突围：无限》8月13日Steam抢测 第一人称射击](https://www.3dmgame.com/news/202408/3901302.html)
+
++ [索尼2024财年Q1财报 PS5出货量达到6170万台](https://www.3dmgame.com/news/202408/3901301.html)
+
++ [《变形金刚 x 特种部队》电影并非联动：一方只能当配角](https://www.3dmgame.com/news/202408/3901303.html)
+
++ [新版《西游记》动画片共104集 师徒四人新形象亮相](https://www.3dmgame.com/news/202408/3901304.html)
+
++ [瑞安·雷诺兹透露 曾考虑在《死侍与金刚狼》中让尼古拉斯·凯奇客串恶灵骑士](https://www.3dmgame.com/news/202408/3901305.html)
+
++ [如龙金曲《像笨蛋一样》将推出黑胶唱片 11月3日发售](https://www.3dmgame.com/news/202408/3901306.html)
+

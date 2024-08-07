@@ -61,3 +61,7 @@
 
 + [等保2.0测评 — 容器安全扩展要求（安全计算环境）](https://www.freebuf.com/articles/container/398239.html)
 
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+
++ [知名黑客公开近30亿条国家公共数据，包括全名、地址、SSN...](https://www.freebuf.com/news/408040.html)
+
