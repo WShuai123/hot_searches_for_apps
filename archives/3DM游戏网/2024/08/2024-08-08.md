@@ -109,3 +109,13 @@
 
 + [《木卫四协议》总监：游戏开发时间不足影响了质量](https://www.3dmgame.com/news/202408/3901332.html)
 
++ [2D横版游戏《Symphonia》试玩上线 年末正式发行](https://www.3dmgame.com/news/202408/3901333.html)
+
++ [《战神》PSP游戏开发商Ready at Dawn倒闭](https://www.3dmgame.com/news/202408/3901334.html)
+
++ [《指环王：重返莫瑞亚》Steam/XS版发行日期确定](https://www.3dmgame.com/news/202408/3901335.html)
+
++ [《第一狂战士：卡赞》概览预告片 介绍背景/角色/设定](https://www.3dmgame.com/news/202408/3901336.html)
+
++ [爱好者将经典RPG《辐射2》移植到任天堂Switch](https://www.3dmgame.com/news/202408/3901338.html)
+

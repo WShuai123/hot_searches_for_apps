@@ -121,3 +121,11 @@
 
 + [在AIGC时代，程序员如何保持并提升核心竞争力](https://blog.csdn.net/xingyu_qie/article/details/140996180)
 
++ [IROS2024 | DarkGS：学习神经照明和3D高斯重新照明，用于黑暗中机器人探索](https://blog.csdn.net/Mikasa33/article/details/140949846)
+
++ [采用Spring Cloud +UniApp +MySql技术开发，SaaS模式的一套智慧工地云平台源码，支持多端展示：PC端、大屏端、手机端、平板端](https://blog.csdn.net/YUANMAJIDIZZZ/article/details/140960448)
+
++ [WEB渗透Web突破篇-WAF绕过](https://blog.csdn.net/qq_59468567/article/details/140925743)
+
++ [鸿蒙（API 12 Beta2版）媒体开发【使用AudioRenderer开发音频播放功能】](https://blog.csdn.net/m0_70748845/article/details/140964832)
+
