@@ -55,3 +55,5 @@
 
 + [应急响应 | linux常见应急排查](https://www.freebuf.com/articles/es/407630.html)
 
++ [懂开发的网安人才，到底有多吃香？](https://www.freebuf.com/news/408031.html)
+
