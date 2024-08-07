@@ -129,3 +129,19 @@
 
 + [联动狂魔《糖豆人》加入《堡垒之夜》皮肤](https://www.3dmgame.com/news/202408/3901244.html)
 
++ [虚幻5恐怖游戏《无家可归》已发售 售价29元](https://www.3dmgame.com/news/202408/3901256.html)
+
++ [《直到黎明》真人电影已经开拍 《小丑回魂》编剧执笔](https://www.3dmgame.com/news/202408/3901255.html)
+
++ [《使命召唤21：黑色行动6》僵尸模式电影宣传片和大量情报](https://www.3dmgame.com/news/202408/3901254.html)
+
++ [《幻兽帕鲁》开发商称无意在未来游戏中使用AI 真的吗？](https://www.3dmgame.com/news/202408/3901253.html)
+
++ [CDPR招聘信息显示《赛博朋克2077》续作有多人游戏](https://www.3dmgame.com/news/202408/3901252.html)
+
++ [《星球大战绝地：幸存者》PS4/X1版9月17日发售 PC版更新将来](https://www.3dmgame.com/news/202408/3901251.html)
+
++ [《诡野西部》开发商预热新作 称《耻辱》粉丝将会很高兴](https://www.3dmgame.com/news/202408/3901250.html)
+
++ [《战锤40K：星际战士2》PC配置公布 优化堪忧](https://www.3dmgame.com/news/202408/3901249.html)
+

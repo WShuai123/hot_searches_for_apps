@@ -41,3 +41,7 @@
 
 + [文件上传漏洞防范——文件类型检测](https://www.freebuf.com/articles/web/406709.html)
 
++ [FreeBuf早报 | secureserver.net域被滥用；朝鲜黑客攻击韩国建筑和机械行业](https://www.freebuf.com/news/407921.html)
+
++ [剖析勒索软件剧本：分析攻击链和映射常见的TTP](https://www.freebuf.com/articles/paper/407741.html)
+
