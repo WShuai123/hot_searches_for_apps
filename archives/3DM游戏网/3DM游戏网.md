@@ -193,3 +193,29 @@
 
 + [《凯娜：精神之桥》Xbox版运行规格公布 暂时不会加入XGP](https://www.3dmgame.com/news/202408/3901268.html)
 
++ [拉瑞安总监承诺下一部作品会“又大又好” 但需要时间](https://www.3dmgame.com/news/202408/3901292.html)
+
++ [轻小说改编动漫《你与我最后的战场》第二季再度宣布延期](https://www.3dmgame.com/news/202408/3901291.html)
+
++ [英伟达RTX 5090显卡功耗意外曝光：不超过525W](https://www.3dmgame.com/news/202408/3901293.html)
+
++ [美服Switch预购《超级马里奥派对：空前盛会》将获赠季度会员](https://www.3dmgame.com/news/202408/3901290.html)
+
++ [《耻辱》工作室创始人透露 近期公开第一人称新游](https://www.3dmgame.com/news/202408/3901289.html)
+
++ [《绝地潜兵2》玩家不满削弱 开发者：大多数人没意见](https://www.3dmgame.com/news/202408/3901288.html)
+
++ [《名侦探柯南：百万美元的五棱星》曝光角色海报！人气阵容点燃期待！](https://www.3dmgame.com/news/202408/3901286.html)
+
++ [赛博朋克风平台冒险游戏《伊甸创世纪》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901281.html)
+
++ [全新人形机器人Figure 02登场 每天工作超20小时](https://www.3dmgame.com/news/202408/3901287.html)
+
++ [《魔兽世界》“地心之战”动画短片：命运游丝](https://www.3dmgame.com/news/202408/3901285.html)
+
++ [治愈系探索冒险游戏《漫漫长路 沙巫之旅》发售窗口公布 2024年9月推出](https://www.3dmgame.com/news/202408/3901284.html)
+
++ [叙事冒险游戏《凡尔纳：幻想之形》宣布8月22日登陆Switch](https://www.3dmgame.com/news/202408/3901283.html)
+
++ [《辐射：伦敦》团队正开发巨型补丁 提供1对1客服](https://www.3dmgame.com/news/202408/3901282.html)
+
