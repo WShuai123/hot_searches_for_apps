@@ -101,3 +101,5 @@
 
 + [Kypso](https://www.producthunt.com/posts/kypso-2)
 
++ [Upmetrics AI](https://www.producthunt.com/posts/upmetrics-ai)
+
