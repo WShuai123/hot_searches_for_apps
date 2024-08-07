@@ -119,3 +119,5 @@
 
 + [Docker基本管理](https://blog.csdn.net/henanchenxuyuan/article/details/140944246)
 
++ [在AIGC时代，程序员如何保持并提升核心竞争力](https://blog.csdn.net/xingyu_qie/article/details/140996180)
+

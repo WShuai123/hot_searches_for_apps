@@ -71,3 +71,7 @@
 
 + [由远到近的奥运会比赛助眠哦](http://www.acfun.cn/v/ac46066577)
 
++ [大航海专属 wiggle wiggle](http://www.acfun.cn/v/ac46066006)
+
++ [Party Train](http://www.acfun.cn/v/ac46065985)
+
