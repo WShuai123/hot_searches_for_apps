@@ -281,3 +281,7 @@
 
 + [育碧很可能在开发《荣耀战魂》续作](https://www.3dmgame.com/news/202408/3901324.html)
 
++ [Capcom公布科隆参展游戏阵容 《怪物猎人：荒野》现场提供试玩](https://www.3dmgame.com/news/202408/3901325.html)
+
++ [法国用人工智能数据中心废热加热奥运会游泳池](https://www.3dmgame.com/news/202408/3901326.html)
+

@@ -181,3 +181,5 @@
 
 + [stem32江科大自学笔记](https://blog.csdn.net/pythom_aaa/article/details/140961409)
 
++ [国产IOTDB（1.3.2）：第0集 本地Docker搭建展示和建议](https://blog.csdn.net/soo123520/article/details/140943893)
+

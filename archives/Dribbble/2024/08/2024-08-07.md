@@ -239,3 +239,19 @@
 
 + [knight](https://dribbble.com/shots/)
 
++ [—From Archive](https://dribbble.com/shots/)
+
++ [Heyo Pattern](https://dribbble.com/shots/)
+
++ [Digital Banking Mobile Application](https://dribbble.com/shots/)
+
++ [Website for a Wellness Startup](https://dribbble.com/shots/)
+
++ [Unused Logos](https://dribbble.com/shots/)
+
++ [VN Digital - Logo Design & Branding](https://dribbble.com/shots/)
+
++ [Zerdava](https://dribbble.com/shots/)
+
++ [Evolution of a brand illustration system](https://dribbble.com/shots/)
+
