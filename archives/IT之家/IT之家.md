@@ -61,3 +61,5 @@
 
 + [英伟达发布新版 NVIDIA App，新增 RTX VSR 视频超分辨率、RTX Video HDR 高动态范围控制和显示设置功能](https://m.ithome.com/html/786708.htm)
 
++ [消息称盒马连续 4 个月盈利：放弃复制山姆，新 CEO 内部多次提到“盒马不会被卖”](https://m.ithome.com/html/786884.htm)
+

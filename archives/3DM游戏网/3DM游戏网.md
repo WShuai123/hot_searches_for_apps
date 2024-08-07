@@ -277,3 +277,7 @@
 
 + [《Before Exit：超市》登陆Steam 超市关张模拟器](https://www.3dmgame.com/news/202408/3901319.html)
 
++ [微星推出MAG 275CQPF显示器 VA曲面屏、2K180Hz](https://www.3dmgame.com/news/202408/3901323.html)
+
++ [育碧很可能在开发《荣耀战魂》续作](https://www.3dmgame.com/news/202408/3901324.html)
+
