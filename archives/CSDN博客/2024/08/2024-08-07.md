@@ -155,3 +155,5 @@
 
 + [Flink-DataWorks第二部分：数据集成（第58天）](https://blog.csdn.net/syhiiu/article/details/140933719)
 
++ [5分钟上手亚马逊云科技AWS核心云开发/云架构知识 - 维护EC2服务器](https://blog.csdn.net/m0_66628975/article/details/140969704)
+

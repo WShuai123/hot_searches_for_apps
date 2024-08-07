@@ -193,3 +193,31 @@
 
 + [Graffiti Gang ????](https://dribbble.com/shots/)
 
++ [üWeed](https://dribbble.com/shots/)
+
++ [Pharma biotech creative marketing healthcare agency logo design](https://dribbble.com/shots/)
+
++ [Real Estate Website](https://dribbble.com/shots/)
+
++ [Wolf Biker Logo](https://dribbble.com/shots/)
+
++ [Logomarks with dogs](https://dribbble.com/shots/)
+
++ [Four Hearts + Center Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [The Vaultex Crypto app design](https://dribbble.com/shots/)
+
++ [AI Sport Landingpage](https://dribbble.com/shots/)
+
++ [opusbiosciences: AI Lipid Nanoparticle Synthesis | Landing Page](https://dribbble.com/shots/)
+
++ [Happy Birthday Dribbble ????](https://dribbble.com/shots/)
+
++ [Riddance - Signage mockup](https://dribbble.com/shots/)
+
++ [News Website Interaction](https://dribbble.com/shots/)
+
++ [Geometric Bearded Man Design](https://dribbble.com/shots/)
+
++ [Aixsurge](https://dribbble.com/shots/)
+

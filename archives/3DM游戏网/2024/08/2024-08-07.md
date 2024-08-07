@@ -245,3 +245,15 @@
 
 + [如龙金曲《像笨蛋一样》将推出黑胶唱片 11月3日发售](https://www.3dmgame.com/news/202408/3901306.html)
 
++ [《战锤40K：Speed Freeks》Steam抢测 经典衍生竞速](https://www.3dmgame.com/news/202408/3901308.html)
+
++ [超2000万玩家的选择！《疾风之刃：零》登陆Steam平台，燃爆盛夏！](https://www.3dmgame.com/news/202408/3901312.html)
+
++ [KK官方对战平台新图推荐！全网首创新玩法，和上百种宠物一起爬塔！](https://www.3dmgame.com/news/202408/3901311.html)
+
++ [封死iPhone降级路！苹果关闭iOS 17.5.1验证通道](https://www.3dmgame.com/news/202408/3901310.html)
+
++ [《怪物猎人：荒野》操虫棍介绍 明年正式发售](https://www.3dmgame.com/news/202408/3901309.html)
+
++ [AI能力下放！三星计划将Galaxy AI功能扩展至A系列手机](https://www.3dmgame.com/news/202408/3901307.html)
+
