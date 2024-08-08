@@ -145,3 +145,9 @@
 
 + [Jmeter性能压测4000并发](https://blog.csdn.net/weixin_41121249/article/details/140937280)
 
++ [《程序猿入职必会（10） · SpringBoot3 整合 MyBatis-Plus》](https://blog.csdn.net/syb513812/article/details/140991523)
+
++ [DockerCompose中使用自定义网络的方式实现部署SpringBoot+Mysql+Redis](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/140996089)
+
++ [k8s 四种Service类型(ClusterIP、NodePort、LoadBalancer、ExternalName)详解](https://blog.csdn.net/weixin_53269650/article/details/140924623)
+

@@ -47,3 +47,7 @@
 
 + [SRC实战| 如何优雅的利用路由调用发现隐藏API接口](https://www.freebuf.com/articles/web/407747.html)
 
++ [Black Hat USA 2024：微软AI助手Copilot安全隐患曝光](https://www.freebuf.com/news/408108.html)
+
++ [这家成立两年的勒索软件组织已勒索超5亿美元赎金](https://www.freebuf.com/news/408103.html)
+

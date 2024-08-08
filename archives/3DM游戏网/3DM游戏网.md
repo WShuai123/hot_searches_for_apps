@@ -147,3 +147,51 @@
 
 + [《利刃出鞘3》片场照曝光 “灭霸”乔什·布洛林登场](https://www.3dmgame.com/news/202408/3901351.html)
 
++ [史上首次私人太空行走即将进行 定档8月26日](https://www.3dmgame.com/news/202408/3901374.html)
+
++ [《尼尔》BOSS战BGM被日本奥委会采用 斋藤洋介表示感谢](https://www.3dmgame.com/news/202408/3901375.html)
+
++ [PS5主机夏日特惠8月16日开启 宇宙机器人手柄国行版公布](https://www.3dmgame.com/news/202408/3901373.html)
+
++ [英特尔市值大跌不足AMD的四成 又遭股东控诉](https://www.3dmgame.com/news/202408/3901372.html)
+
++ [《Apex Legends：震撼波动》现已推出 + 开发更新](https://www.3dmgame.com/news/202408/3901371.html)
+
++ [《Bramble Royale》Steam页面公布 明年发售](https://www.3dmgame.com/news/202408/3901370.html)
+
++ [《失业了，我获得了亿万游戏财产！》今日发售，失业失恋后的爽文人生大逆转，事业爱情我全都要！](https://www.3dmgame.com/news/202408/3901369.html)
+
++ [牌组构建游戏《Rebel Roar》Steam页面 支持简中](https://www.3dmgame.com/news/202408/3901359.html)
+
++ [像素风角色扮演游戏《Saveseeker》登录Steam 预计2025年第三季度推出](https://www.3dmgame.com/news/202408/3901358.html)
+
++ [前《木卫四协议》总监谈游戏失败原因：都是Krafton的错](https://www.3dmgame.com/news/202408/3901357.html)
+
++ [《迷失》宣布11月19日登陆Switch 实体豪华版内容公开](https://www.3dmgame.com/news/202408/3901356.html)
+
++ [动作角色扮演游戏《天幕寻者》将于9月开启封闭Beta测试](https://www.3dmgame.com/news/202408/3901355.html)
+
++ [《转生成史莱姆 坦派斯特开拓谭》多平台发售](https://www.3dmgame.com/news/202408/3901354.html)
+
++ [《玩具熊的午夜后宫 走进深渊》发售 Steam“特别好评”](https://www.3dmgame.com/news/202408/3901353.html)
+
++ [《自杀小队：杀死正义联盟》让华纳兄弟游戏收入暴跌41%](https://www.3dmgame.com/news/202408/3901352.html)
+
++ [《黑神话：悟空》最终预告片公开 新玩法新剧情新角色](https://www.3dmgame.com/news/202408/3901361.html)
+
++ [3A《权游》？华纳考虑将IP外包给其他工作室开发游戏](https://www.3dmgame.com/news/202408/3901360.html)
+
++ [《指环王：力量之戒》第二季新剧照 演员绝美写真赏](https://www.3dmgame.com/news/202408/3901362.html)
+
++ [《博德之门3》一周年统计数据 近20万玩家与熊形态的哈尔辛发生浪漫关系](https://www.3dmgame.com/news/202408/3901368.html)
+
++ [《Fate/stay night》重制版登陆Switch/Steam 经典回归](https://www.3dmgame.com/news/202408/3901367.html)
+
++ [须田刚一希望2025年初发布公告 加入网易后的首款新作](https://www.3dmgame.com/news/202408/3901366.html)
+
++ [《勇者斗恶龙3：HD-2D重制版》新截图 展示更多场景](https://www.3dmgame.com/news/202408/3901365.html)
+
++ [游戏速通大会《RTA in Japan Summer 2024》8月9日开幕](https://www.3dmgame.com/news/202408/3901363.html)
+
++ [PvPvE恐怖射击砍杀游戏《HUNGER》Steam页面 发售日期待定](https://www.3dmgame.com/news/202408/3901364.html)
+
