@@ -235,3 +235,9 @@
 
 + [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
 
++ [Dubai Hotels](https://dribbble.com/shots/)
+
++ [Patient Dashboard](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+

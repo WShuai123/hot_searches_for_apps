@@ -269,3 +269,9 @@
 
 + [微星推出三款锐龙9000系列整机 5499元起](https://www.3dmgame.com/news/202408/3901412.html)
 
++ [免费团队战斗游戏《龙珠Project：Multi》公布 登陆PC和手机](https://www.3dmgame.com/news/202408/3901415.html)
+
++ [《丧尸围城：豪华复刻版》预约特典介绍 06版男主服装](https://www.3dmgame.com/news/202408/3901413.html)
+
++ [《艾尔登法环》1.13.2补丁现已在全平台上线](https://www.3dmgame.com/news/202408/3901414.html)
+
