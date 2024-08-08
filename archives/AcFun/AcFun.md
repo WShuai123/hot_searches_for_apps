@@ -101,3 +101,7 @@
 
 + [日本乐队主唱跟歌迷互动有多夸张【2024大阪Psychic Fes现场】](http://www.acfun.cn/v/ac46066755)
 
++ [Acer快来苗寨玩啊！！！](http://www.acfun.cn/v/ac46067040)
+
++ [花样游泳 集体技巧自选 及颁奖仪式](http://www.acfun.cn/v/ac46067442)
+

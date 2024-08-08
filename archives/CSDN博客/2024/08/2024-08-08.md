@@ -159,3 +159,13 @@
 
 + [探索腾讯云AI代码助手：智能编程的新时代](https://blog.csdn.net/m0_75058342/article/details/140802026)
 
++ [统计学：条件概率模型](https://blog.csdn.net/gongdiwudu/article/details/140951081)
+
++ [Zookeeper的监听机制及原理解析](https://blog.csdn.net/u011709538/article/details/140720653)
+
++ [【网络】协议与网络版计算器](https://blog.csdn.net/2301_77112634/article/details/141018107)
+
++ [【Android Studio】原生应用部署第三方插件（探针）](https://blog.csdn.net/xzzteach/article/details/140997772)
+
++ [锂电池充电板电路设计](https://blog.csdn.net/weixin_52531699/article/details/140396738)
+

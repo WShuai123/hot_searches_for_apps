@@ -177,3 +177,27 @@
 
 + [St. John the Beloved Brand Application](https://dribbble.com/shots/)
 
++ [Fintech AI Website](https://dribbble.com/shots/)
+
++ [Zenity brand design](https://dribbble.com/shots/)
+
++ [Cosmic Guardian Logo](https://dribbble.com/shots/)
+
++ [Event UI/UX Mobile App Design - Homepage ????️](https://dribbble.com/shots/)
+
++ [Franky - Personal Wellbeing Coach](https://dribbble.com/shots/)
+
++ [Logo Design for Ai Tool](https://dribbble.com/shots/)
+
++ [MediCare - Patient Page](https://dribbble.com/shots/)
+
++ [Neuromeet : AI Meeting Transcript - Brand Guidelines](https://dribbble.com/shots/)
+
++ [Finance Management App](https://dribbble.com/shots/)
+
++ [Live Logos | V5](https://dribbble.com/shots/)
+
++ [Zendenta - Discover Dental Clinics in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Scottish Deerhound](https://dribbble.com/shots/)
+

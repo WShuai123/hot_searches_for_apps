@@ -201,3 +201,21 @@
 
 + [指向点击类剧情向角色扮演游戏《四魂-X》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901378.html)
 
++ [《刺客信条》艾吉奥最新雕像公开 1/2比例巨大高贵精细](https://www.3dmgame.com/news/202408/3901385.html)
+
++ [《暗黑破坏神4》玩家遭遇“福利”BUG 本该升到80级却直跳100级](https://www.3dmgame.com/news/202408/3901386.html)
+
++ [《关于我转生变成史莱姆这档事 坦派斯特开拓谭》今日上市！公开宣传视频等](https://www.3dmgame.com/news/202408/3901387.html)
+
++ [传言《胆大党》、《乱马 ½》等未上映Netflix动画资源已遭泄露](https://www.3dmgame.com/news/202408/3901382.html)
+
++ [影史悬疑神作《控方证人》国内引进 档期待定](https://www.3dmgame.com/news/202408/3901383.html)
+
++ [悠星在日本成立新手游开发工作室 正在招聘游戏总监](https://www.3dmgame.com/news/202408/3901384.html)
+
++ [《电锯甜心RePOP》发布新预告 数字版预购已开启](https://www.3dmgame.com/news/202408/3901379.html)
+
++ [国内首列氢能源智轨电车投运 一次加氢可行驶200多公里](https://www.3dmgame.com/news/202408/3901380.html)
+
++ [中国男子涉嫌在日本实施游戏氪金欺诈被捕](https://www.3dmgame.com/news/202408/3901381.html)
+
