@@ -101,3 +101,31 @@
 
 + [自学-网络安全](https://blog.csdn.net/m0_70066267/article/details/140971479)
 
++ [国产版Sora复现——智谱AI开源CogVideoX-2b 本地部署复现实践教程](https://blog.csdn.net/air__Heaven/article/details/140967138)
+
++ [【人工智能】Transformers之Pipeline（八）：文生图/图生图（text-to-image/image-to-image）](https://blog.csdn.net/weixin_48007632/article/details/140967405)
+
++ [Elasticsearch：检索增强生成 (RAG)](https://blog.csdn.net/UbuntuTouch/article/details/141012752)
+
++ [【Linux】文件系统和软硬链接](https://blog.csdn.net/qq_48460693/article/details/137384647)
+
++ [全栈物联网云平台搭建：MQTT、Node.js、MongoDB、InfluxDB与React的应用示例](https://blog.csdn.net/qq_40431685/article/details/140986190)
+
++ [数学建模之数据分析【一】：用于分析的免费公共数据集](https://blog.csdn.net/lmx1458070445/article/details/140943915)
+
++ [【Android】使用网络技术——WebView的用法、http协议、OKHttp、解析XML、JSON格式数据笔记整理](https://blog.csdn.net/2301_79977698/article/details/140981890)
+
++ [对深度学习神经网络做了小改进，效果提升明显，可以发论文吗？](https://blog.csdn.net/weixin_42645636/article/details/140998728)
+
++ [HarmonyOS笔记3：从网络数据接口API获取数据](https://blog.csdn.net/userhu2012/article/details/141000106)
+
++ [Proxy302：你的一站式代理IP解决方案](https://blog.csdn.net/weixin_51484460/article/details/140964290)
+
++ [机器学习框架巅峰对决：TensorFlow vs. PyTorch vs. Scikit-Learn实战分析](https://blog.csdn.net/qq_27362017/article/details/140990027)
+
++ [程序员如何在人工智能时代保持核心竞争力](https://blog.csdn.net/ak2111/article/details/141028270)
+
++ [基于XxlCrawler的Java执行JS渲染方式实战-以获取商飞C919飞行照片为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/140967045)
+
++ [遗传算法与深度学习实战——生命模拟与进化论](https://blog.csdn.net/LOVEmy134611/article/details/140365282)
+
