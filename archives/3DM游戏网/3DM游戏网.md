@@ -219,3 +219,17 @@
 
 + [中国男子涉嫌在日本实施游戏氪金欺诈被捕](https://www.3dmgame.com/news/202408/3901381.html)
 
++ [琼恩·雪诺扮演者表示 可能永远不会看衍生剧《龙之家族》](https://www.3dmgame.com/news/202408/3901391.html)
+
++ [《死侍与金刚狼》性转版Cos 死侍和金刚狼太性感](https://www.3dmgame.com/news/202408/3901392.html)
+
++ [卡普空《怪物猎人：荒野》武器介绍视频：“铳枪”](https://www.3dmgame.com/news/202408/3901393.html)
+
++ [《黑神话》制作人冯骥建议发售前断网 8月20日直接玩](https://www.3dmgame.com/news/202408/3901394.html)
+
++ [Level Infinite 公布2024 德国科隆游戏展游戏阵容  「跃入无限」品牌发布会重磅回归](https://www.3dmgame.com/news/202408/3901388.html)
+
++ [2D动作《雨魂》11月登陆Swich 日式奇幻冒险](https://www.3dmgame.com/news/202408/3901390.html)
+
++ [地牢撤离游戏《地下城追踪者》宣布新B测 8月13日开启](https://www.3dmgame.com/news/202408/3901389.html)
+
