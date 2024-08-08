@@ -151,3 +151,5 @@
 
 + [k8s 四种Service类型(ClusterIP、NodePort、LoadBalancer、ExternalName)详解](https://blog.csdn.net/weixin_53269650/article/details/140924623)
 
++ [大数据存储解决方案：HDFS与NoSQL数据库详解](https://blog.csdn.net/weixin_41859354/article/details/140966475)
+

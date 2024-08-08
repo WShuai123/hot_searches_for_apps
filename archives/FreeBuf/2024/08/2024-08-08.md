@@ -51,3 +51,5 @@
 
 + [这家成立两年的勒索软件组织已勒索超5亿美元赎金](https://www.freebuf.com/news/408103.html)
 
++ [渗透测试实战 | 记一次JS逆向分析](https://www.freebuf.com/articles/network/407775.html)
+

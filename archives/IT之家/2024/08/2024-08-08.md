@@ -35,3 +35,7 @@
 
 + [小米汽车：所有可升级件都有密钥做安全认证管理，不匹配时不能执行升级操作](https://m.ithome.com/html/786971.htm)
 
++ [苹果 iPhone 16 机模视频上手：蓝、粉、白、黑、绿 5 种颜色](https://m.ithome.com/html/786981.htm)
+
++ [贾跃亭：法拉第未来 8 月 12 日交付第 13 台 FF 91 2.0 新车，正克服供应链挑战](https://m.ithome.com/html/786974.htm)
+

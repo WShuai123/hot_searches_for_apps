@@ -195,3 +195,7 @@
 
 + [PvPvE恐怖射击砍杀游戏《HUNGER》Steam页面 发售日期待定](https://www.3dmgame.com/news/202408/3901364.html)
 
++ [前《刺客信条》设计师操刀 剧情冒险游戏《马比诺吉昂的传说》公布](https://www.3dmgame.com/news/202408/3901376.html)
+
++ [惠普要将一半以上的个人电脑生产迁出中国 官方回应](https://www.3dmgame.com/news/202408/3901377.html)
+
