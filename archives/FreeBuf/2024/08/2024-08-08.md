@@ -59,3 +59,5 @@
 
 + [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
 
++ [挖了这么久才发现，漏洞挖掘可以更简单](https://www.freebuf.com/news/408156.html)
+

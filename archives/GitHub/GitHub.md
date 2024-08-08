@@ -31,3 +31,21 @@
 
 + [pgvector / pgvector](https://github.com/pgvector/pgvector)
 
++ [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [teableio / teable](https://github.com/teableio/teable)
+
++ [getsentry / sentry](https://github.com/getsentry/sentry)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [THUDM / CogVideo](https://github.com/THUDM/CogVideo)
+
++ [Infisical / infisical](https://github.com/Infisical/infisical)
+
++ [nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat)
+
++ [ckeditor / ckeditor5](https://github.com/ckeditor/ckeditor5)
+
++ [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
+
