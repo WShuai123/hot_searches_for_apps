@@ -75,3 +75,5 @@
 
 + [Party Train](http://www.acfun.cn/v/ac46065985)
 
++ [竞技体育就是大国战略竞争的缩影，这是一场人民总体战！](http://www.acfun.cn/v/ac46064102)
+

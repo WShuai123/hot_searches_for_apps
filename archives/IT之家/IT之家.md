@@ -27,3 +27,9 @@
 
 + [力度直逼 618 + 可叠千券：京东 PLUS 会员 800 元超级补贴开领](https://m.ithome.com/html/786931.htm)
 
++ [消息称苹果将打破惯例：让韩国成为 iPhone 16 系列首发市场之一](https://m.ithome.com/html/786963.htm)
+
++ [鸿蒙智行享界 S9 豪华轿车上市 24 小时大定突破 2500 台](https://m.ithome.com/html/786959.htm)
+
++ [苹果 iOS 17.6.1 正式版发布：修复无法启用 / 禁用高级数据保护功能问题](https://m.ithome.com/html/786978.htm)
+

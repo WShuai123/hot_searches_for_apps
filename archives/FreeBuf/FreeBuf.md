@@ -41,3 +41,7 @@
 
 + [内网渗透学习笔记整理Trick](https://www.freebuf.com/vuls/407474.html)
 
++ [FreeBuf早报 | 迄今为止最大BEC骗局被侦破；法国博物馆奥运期间遭遇网络攻击](https://www.freebuf.com/news/408001.html)
+
++ [IBM：数据泄露平均成本488万美元，增幅高达10%](https://www.freebuf.com/articles/neopoints/407983.html)
+
