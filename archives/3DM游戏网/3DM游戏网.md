@@ -131,3 +131,19 @@
 
 + [《无主之地》真人电影翻车了？首批影评出炉](https://www.3dmgame.com/news/202408/3901341.html)
 
++ [索尼单人恐怖新作首发可能还会登陆PC平台](https://www.3dmgame.com/news/202408/3901344.html)
+
++ [科隆展·未来游戏展8月22日开启 超50款游戏参加](https://www.3dmgame.com/news/202408/3901345.html)
+
++ [国产游戏《幼兽帕帕》上架Steam 《幻兽帕鲁》山寨版？](https://www.3dmgame.com/news/202408/3901346.html)
+
++ [《Dollmare》10月登陆Steam 玩偶工厂恐怖探险](https://www.3dmgame.com/news/202408/3901347.html)
+
++ [《堡垒之夜》放弃通行证物品时效性 上线18个月后可在商城购买](https://www.3dmgame.com/news/202408/3901348.html)
+
++ [鹰角GRYPHLINE科隆展游戏阵容公布 提供《明日方舟：终末地》试玩](https://www.3dmgame.com/news/202408/3901349.html)
+
++ [网传《龙腾世纪：影障守护者》将于10月30日发售](https://www.3dmgame.com/news/202408/3901350.html)
+
++ [《利刃出鞘3》片场照曝光 “灭霸”乔什·布洛林登场](https://www.3dmgame.com/news/202408/3901351.html)
+

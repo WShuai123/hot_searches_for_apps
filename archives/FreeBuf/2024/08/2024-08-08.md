@@ -45,3 +45,5 @@
 
 + [IBM：数据泄露平均成本488万美元，增幅高达10%](https://www.freebuf.com/articles/neopoints/407983.html)
 
++ [SRC实战| 如何优雅的利用路由调用发现隐藏API接口](https://www.freebuf.com/articles/web/407747.html)
+

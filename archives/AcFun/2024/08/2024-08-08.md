@@ -77,3 +77,7 @@
 
 + [竞技体育就是大国战略竞争的缩影，这是一场人民总体战！](http://www.acfun.cn/v/ac46064102)
 
++ [《动物奥运会选拔赛》](http://www.acfun.cn/v/ac46066671)
+
++ [【东方】NIGHT OF NIGHTS - RichaadEB金属Arrange MMD再现](http://www.acfun.cn/v/ac46062995)
+

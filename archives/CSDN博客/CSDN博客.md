@@ -133,3 +133,15 @@
 
 + [uniapp vue3 转换华为鸿蒙（以及问题一些解决方案）](https://blog.csdn.net/m0_61382303/article/details/140961225)
 
++ [【AI大模型】解锁AI潜能：深入探索Langchain中的Prompt艺术及其多样化Template应用](https://blog.csdn.net/m0_48173416/article/details/140878137)
+
++ [腾讯云AI代码助手助力软件开发体验分享](https://blog.csdn.net/qq_44273429/article/details/140987101)
+
++ [从科幻到现实：AIGC助力打造个性化数字人](https://blog.csdn.net/qq_32682301/article/details/140925920)
+
++ [猫头虎分享： MySQL 怎么快速插入数据呀？我插3万条要20多秒](https://blog.csdn.net/qq_44866828/article/details/140993954)
+
++ [HarmonyOS 习题（二）](https://blog.csdn.net/qq_29385297/article/details/140944922)
+
++ [Jmeter性能压测4000并发](https://blog.csdn.net/weixin_41121249/article/details/140937280)
+
