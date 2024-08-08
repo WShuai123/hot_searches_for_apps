@@ -107,3 +107,7 @@
 
 + [《吸血鬼幸存者》8月19日登陆PS4/5 Steam好评如潮](https://www.3dmgame.com/news/202408/3901422.html)
 
++ [治愈系种田模拟游戏《Everbloom》上架Steam](https://www.3dmgame.com/news/202408/3901425.html)
+
++ [《丧尸围城：豪华复刻版》加入武器耐久度换服等新功能](https://www.3dmgame.com/news/202408/3901424.html)
+

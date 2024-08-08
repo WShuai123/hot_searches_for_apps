@@ -139,3 +139,7 @@
 
 + [Python爬虫实战：利用代理IP爬取百度翻译](https://blog.csdn.net/yuan2019035055/article/details/140948044)
 
++ [【机器学习】BP神经网络正向计算](https://blog.csdn.net/qq_44214428/article/details/140888375)
+
++ [【手机、相机防抖大揭秘】数字防抖、鸡头防抖、光学防抖、AI防抖等(附源码+长期更新)](https://blog.csdn.net/qq_46098574/article/details/141035706)
+
