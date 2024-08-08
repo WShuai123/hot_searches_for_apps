@@ -45,3 +45,7 @@
 
 + [离职传闻后首次公开露面，小米 MIUI 负责人金凡亮相 2024 快应用开发者大会](https://m.ithome.com/html/787046.htm)
 
++ [闲鱼回应向全体卖家收 0.6% 软件服务费：系保障买卖双方体验的必要成本](https://m.ithome.com/html/787062.htm)
+
++ [仓库钥匙又翻到啦：苹果 AirPods 2 耳机 698 元京东限购 1 单](https://m.ithome.com/html/786926.htm)
+
