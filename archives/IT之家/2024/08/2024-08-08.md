@@ -59,3 +59,9 @@
 
 + [今晚国内油价迎年内最大跌幅，加满一箱 92 号汽油将少花 12 元](https://m.ithome.com/html/787165.htm)
 
++ [比亚迪海豹 07 DM-i 车型上市：第五代 DM 技术、续航超 2000km，13.98 万元起](https://m.ithome.com/html/787205.htm)
+
++ [小牛电动自行车 MT Play 发布：12Ah 铅酸电池，首发价 3999 元](https://m.ithome.com/html/787112.htm)
+
++ [17.58~23.98 万起：2025 款比亚迪海豹上市，全系标配 SiC 和 800V 高压平台](https://m.ithome.com/html/787204.htm)
+

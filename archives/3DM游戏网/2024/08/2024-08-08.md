@@ -275,3 +275,7 @@
 
 + [《艾尔登法环》1.13.2补丁现已在全平台上线](https://www.3dmgame.com/news/202408/3901414.html)
 
++ [《幻想女武神》9月10日推出正式版 支持日语全语音](https://www.3dmgame.com/news/202408/3901417.html)
+
++ [日漫风格3D动作游戏《炎姬》2025年初登陆Steam抢先体验](https://www.3dmgame.com/news/202408/3901416.html)
+
