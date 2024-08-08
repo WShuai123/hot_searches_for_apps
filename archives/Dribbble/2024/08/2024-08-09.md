@@ -49,3 +49,27 @@
 
 + [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
 
++ [NYC illustrations](https://dribbble.com/shots/)
+
++ [Aroma (2024) - Revisited](https://dribbble.com/shots/)
+
++ [Hotel Logo Collection](https://dribbble.com/shots/)
+
++ [Sk8r boi ????](https://dribbble.com/shots/)
+
++ [Burch Supply Co Heritage Script](https://dribbble.com/shots/)
+
++ [Scaling new heights](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Pig](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Nature Backs T-Shirt Illustration](https://dribbble.com/shots/)
+
++ [Game boy](https://dribbble.com/shots/)
+
