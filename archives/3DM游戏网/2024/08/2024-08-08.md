@@ -199,3 +199,5 @@
 
 + [惠普要将一半以上的个人电脑生产迁出中国 官方回应](https://www.3dmgame.com/news/202408/3901377.html)
 
++ [指向点击类剧情向角色扮演游戏《四魂-X》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901378.html)
+

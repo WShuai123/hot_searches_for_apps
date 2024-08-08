@@ -97,3 +97,7 @@
 
 + [麦当劳的汉堡好吃吗？★手机竖屏1236★](http://www.acfun.cn/v/ac46039920)
 
++ [【4K 60帧】《黑神话：悟空》最终预告](http://www.acfun.cn/v/ac46068287)
+
++ [日本乐队主唱跟歌迷互动有多夸张【2024大阪Psychic Fes现场】](http://www.acfun.cn/v/ac46066755)
+

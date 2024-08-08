@@ -153,3 +153,9 @@
 
 + [大数据存储解决方案：HDFS与NoSQL数据库详解](https://blog.csdn.net/weixin_41859354/article/details/140966475)
 
++ [FPGA开发——IP核的介绍](https://blog.csdn.net/weixin_63553972/article/details/140998671)
+
++ [人工智能时代，程序员当如何保持核心竞争力？](https://blog.csdn.net/2302_79376097/article/details/140937631)
+
++ [探索腾讯云AI代码助手：智能编程的新时代](https://blog.csdn.net/m0_75058342/article/details/140802026)
+
