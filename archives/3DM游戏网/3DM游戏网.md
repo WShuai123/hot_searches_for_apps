@@ -101,3 +101,9 @@
 
 + [《Bramble Royale》Steam页面公布 明年发售](https://www.3dmgame.com/news/202408/3901370.html)
 
++ [《战神：诸神黄昏》配置需求公布 硬盘需要190G](https://www.3dmgame.com/news/202408/3901423.html)
+
++ [Epic喜加一：《Apex Legends》：导线管免费解锁捆绑包免费](https://www.3dmgame.com/news/202408/3901421.html)
+
++ [《吸血鬼幸存者》8月19日登陆PS4/5 Steam好评如潮](https://www.3dmgame.com/news/202408/3901422.html)
+
