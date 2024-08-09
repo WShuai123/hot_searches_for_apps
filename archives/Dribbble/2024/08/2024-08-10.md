@@ -49,3 +49,51 @@
 
 + [Nature Backs T-Shirt Illustration](https://dribbble.com/shots/)
 
++ [Dog Chillin' in Summer](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 2)](https://dribbble.com/shots/)
+
++ [Meditation and Yoga Mobile App Design](https://dribbble.com/shots/)
+
++ [Archer Farms Cannabis Co.](https://dribbble.com/shots/)
+
++ [Explore digital collectibles with iOS gyroscope ✨, app concept.](https://dribbble.com/shots/)
+
++ [Skill up illustrations](https://dribbble.com/shots/)
+
++ [catchy wave logo](https://dribbble.com/shots/)
+
++ [Website for a Constuction Company](https://dribbble.com/shots/)
+
++ [Mascot design](https://dribbble.com/shots/)
+
++ [Dermatology Clinic Identity](https://dribbble.com/shots/)
+
++ [Professional Website Design Concept](https://dribbble.com/shots/)
+
++ [Case Study: Bedding and Home Goods Ecommerce Website](https://dribbble.com/shots/)
+
++ [Visual Impact](https://dribbble.com/shots/)
+
++ [UI animation - swap](https://dribbble.com/shots/)
+
++ [TIMELESS /  Inner pages](https://dribbble.com/shots/)
+
++ [UI UX Design and Development for Smart Vaults & Loans Platform](https://dribbble.com/shots/)
+
++ [The Little Prince](https://dribbble.com/shots/)
+
++ [25/32 – St. Louis Rivermen](https://dribbble.com/shots/)
+
++ [KnucklePuff Pizza](https://dribbble.com/shots/)
+
++ [EasyTrade - Finance & Trading Logo and Branding](https://dribbble.com/shots/)
+
++ [Robot](https://dribbble.com/shots/)
+
++ [Check, check, 1, 2, 3? C letter mark / logo symbol explorations](https://dribbble.com/shots/)
+
++ [GourmetGrove - Restaurant Mobile App Design](https://dribbble.com/shots/)
+
++ [Irwin Rebrand + Case Study](https://dribbble.com/shots/)
+

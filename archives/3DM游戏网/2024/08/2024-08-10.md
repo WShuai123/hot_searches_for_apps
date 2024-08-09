@@ -101,3 +101,9 @@
 
 + [前任6月离职 Remedy现已任命新首席财务官](https://www.3dmgame.com/news/202408/3901464.html)
 
++ [《电锯甜心RePOP》配置需求公开 最低GTX 1060](https://www.3dmgame.com/news/202408/3901511.html)
+
++ [《战神4》Steam史低促销 138元入手](https://www.3dmgame.com/news/202408/3901510.html)
+
++ [外媒精选今年值得游玩的续作 《潜行者2》等](https://www.3dmgame.com/news/202408/3901509.html)
+
