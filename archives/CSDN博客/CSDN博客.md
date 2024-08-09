@@ -191,3 +191,11 @@
 
 + [[Qt][信号与槽][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141021881)
 
++ [Ilya七年前说深度学习已进入瓶颈期；英特尔曾拒绝OpenAI股权；GPT-4o新版本上线 | AI头条...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141041265)
+
++ [【计算机网络---OSI七层模型】](https://blog.csdn.net/Pumpkin_O/article/details/141023524)
+
++ [基于springboot+vue+uniapp的英语学习交流平台小程序](https://blog.csdn.net/shmp54/article/details/141035069)
+
++ [深度学习之注意力机制](https://blog.csdn.net/qq_42538588/article/details/141023421)
+

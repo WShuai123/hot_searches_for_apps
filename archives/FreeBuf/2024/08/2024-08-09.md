@@ -63,3 +63,5 @@
 
 + [见证历史，被全球网安人吐槽，一个参数导致巨大灾难事故](https://www.freebuf.com/news/408183.html)
 
++ [已复现！微软超高危漏洞“狂躁许可”波及全球](https://www.freebuf.com/news/408285.html)
+

@@ -247,3 +247,7 @@
 
 + [苹果拟推出迄今最小台式电脑：Mac mini首次改变设计](https://www.3dmgame.com/news/202408/3901491.html)
 
++ [敖厂长锐评《黑神话》：优化要出大问题 失败并不遥远](https://www.3dmgame.com/news/202408/3901494.html)
+
++ [腾讯与NEXON签订协议 宣布代理《THE FINALS》国服](https://www.3dmgame.com/news/202408/3901495.html)
+

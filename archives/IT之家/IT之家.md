@@ -41,3 +41,9 @@
 
 + [快应用设备覆盖数达 15 亿，OPPO、小米、vivo、华为、魅族、努比亚、联想、荣耀等宣布启动 2.0 新阶段](https://m.ithome.com/html/787258.htm)
 
++ [拼多多创始人黄峥登顶中国首富：身家 486 亿美元，反超“瓶装水之王”钟睒睒](https://m.ithome.com/html/787360.htm)
+
++ [消息称郑州富士康已开始全面量产苹果 iPhone 16 系列，已宣布 10 亿元盖新大楼](https://m.ithome.com/html/787272.htm)
+
++ [小米汽车：SU7 全系标配弹射起步功能，通过电子系统限制车轮打滑](https://m.ithome.com/html/787239.htm)
+
