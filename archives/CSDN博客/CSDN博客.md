@@ -175,3 +175,9 @@
 
 + [图神经网络实战（18）——消息传播神经网络](https://blog.csdn.net/LOVEmy134611/article/details/141050820)
 
++ [【人工智能】AI浪潮下，程序员如何保持核心竞争力？](https://blog.csdn.net/2201_75539691/article/details/141035276)
+
++ [Redis-哨兵监控(sentinel)](https://blog.csdn.net/weixin_62485485/article/details/141019863)
+
++ [端到端 AWS 定量分析：使用 AWS 和 AWSCLI 自动运行脚本](https://blog.csdn.net/2401_85233349/article/details/141035898)
+

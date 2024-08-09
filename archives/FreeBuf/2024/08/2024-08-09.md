@@ -59,3 +59,5 @@
 
 + [0.0.0.0 Day漏洞曝光，谷歌、Safari、火狐等主流浏览器面临威胁](https://www.freebuf.com/news/408169.html)
 
++ [攻防演练中的IPv6（下）获取IPv6地址并防御IPv6攻击](https://www.freebuf.com/defense/378527.html)
+

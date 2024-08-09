@@ -225,3 +225,13 @@
 
 + [自动化建造休闲解谜游戏《牧神镇物语》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901474.html)
 
++ [《龙腾世纪：影障守护者》游戏总监解释本作无法操作同伴的原因](https://www.3dmgame.com/news/202408/3901485.html)
+
++ [《热血三国志 乱世风云》公布开场动画 11月7日发售](https://www.3dmgame.com/news/202408/3901486.html)
+
++ [社区经理：《幻兽帕鲁》和《绝地潜兵2》并非昙花一现](https://www.3dmgame.com/news/202408/3901487.html)
+
++ [征服未探索的“喵勒比”海域——《猫咪斗恶龙III》现已上线](https://www.3dmgame.com/news/202408/3901475.html)
+
++ [《祇：女神之道》玩家数突破50万 官方发放魔像奖励](https://www.3dmgame.com/news/202408/3901484.html)
+
