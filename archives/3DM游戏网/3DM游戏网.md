@@ -255,3 +255,13 @@
 
 + [《DOOM》+《DOOM II》重制版及《DOOM Eternal》模组Beta测试现已上线](https://www.3dmgame.com/news/202408/3901496.html)
 
++ [英特尔推出锐炫A760A 车载独立显卡](https://www.3dmgame.com/news/202408/3901502.html)
+
++ [由Purple Software制作的角色扮演游戏《Liminal Border Part III》](https://www.3dmgame.com/news/202408/3901500.html)
+
++ [好评如潮超现实烹饪《极地煎蛋》新增简体中文](https://www.3dmgame.com/news/202408/3901499.html)
+
++ [第一人称灵异冒险《诡岛灵探》将于2025年推出](https://www.3dmgame.com/news/202408/3901498.html)
+
++ [华为官方确认鸿蒙PC要来了：界面比Windows漂亮](https://www.3dmgame.com/news/202408/3901501.html)
+

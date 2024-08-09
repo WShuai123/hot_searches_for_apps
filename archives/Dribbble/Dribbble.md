@@ -217,3 +217,13 @@
 
 + [catchy wave logo](https://dribbble.com/shots/)
 
++ [Check, check, 1, 2, 3? C letter mark / logo symbol explorations](https://dribbble.com/shots/)
+
++ [Visual Impact](https://dribbble.com/shots/)
+
++ [Explore digital collectibles with iOS gyroscope ✨, app concept.](https://dribbble.com/shots/)
+
++ [Belgian Tervuren](https://dribbble.com/shots/)
+
++ [Website for a Constuction Company](https://dribbble.com/shots/)
+

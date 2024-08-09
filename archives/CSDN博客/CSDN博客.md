@@ -199,3 +199,11 @@
 
 + [深度学习之注意力机制](https://blog.csdn.net/qq_42538588/article/details/141023421)
 
++ [使用CLIP模型进行零样本图像分类的分步指南](https://blog.csdn.net/m0_46510245/article/details/141058415)
+
++ [如何用sql在1分钟从1T数据中精准定位查询？Hive离线数仓 Spark分析](https://blog.csdn.net/qq_61414097/article/details/140999898)
+
++ [Linux使用docker搭建Redis 哨兵模式](https://blog.csdn.net/qq_29768197/article/details/140931179)
+
++ [Spring的代理模式](https://blog.csdn.net/weixin_71072718/article/details/141020752)
+

@@ -115,3 +115,15 @@
 
 + [胡桃日记定档回归：8月22日](http://www.acfun.cn/v/ac46065911)
 
++ [他急了他急了！黑神话和黑悟空的混淆意欲何为？【绅批】](http://www.acfun.cn/v/ac46071072)
+
++ [砸锅卖铁、散尽家财！在这游戏里氪金64万会发生什么？](http://www.acfun.cn/v/ac46074413)
+
++ [我看斯科特也是风韵犹存????](http://www.acfun.cn/v/ac46074078)
+
++ [DNA动了!《从21世纪安全撤离》的10个超级彩蛋](http://www.acfun.cn/v/ac46074367)
+
++ [自由城的硬核狠人，顶尖杀手结局为何令人唏嘘 《GTA 4》故事简介](http://www.acfun.cn/v/ac46072673)
+
++ [2024匹诺曹P大阪难波现场演唱会【Pinoccho P】Slow Motion](http://www.acfun.cn/v/ac46071271)
+
