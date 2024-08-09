@@ -137,3 +137,43 @@
 
 + [《冰汽时代2》“执政官101”第5集预告：人民的声音](https://www.3dmgame.com/news/202408/3901433.html)
 
++ [《黑神话：悟空》全新高清截图 画面太美让人激动](https://www.3dmgame.com/news/202408/3901458.html)
+
++ [万代南梦宫第一季度利润增长56%：老头环DLC热卖](https://www.3dmgame.com/news/202408/3901455.html)
+
++ [《Liminal Border Part III》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202408/3901457.html)
+
++ [《神之亵渎》开发商再发神秘预告 2024年秋季推出](https://www.3dmgame.com/news/202408/3901456.html)
+
++ [游戏还没发售 “穿越神游”《Kingmakers》已确认将改编电影](https://www.3dmgame.com/news/202408/3901454.html)
+
++ [PvPvE第一人称恐怖撤离射击游戏《Hunger》公布](https://www.3dmgame.com/news/202408/3901452.html)
+
++ [V社疑似在测试Steam新系统 将整治游戏评论乱象](https://www.3dmgame.com/news/202408/3901450.html)
+
++ [《雨中冒险2》DLC“风暴探寻者”开发者日志](https://www.3dmgame.com/news/202408/3901449.html)
+
++ [传任天堂Switch 2首发将有第三方3A大作“护航”](https://www.3dmgame.com/news/202408/3901448.html)
+
++ [《无主之地》真人电影彻底翻车 烂番茄开局新鲜度0%](https://www.3dmgame.com/news/202408/3901447.html)
+
++ [索尼PlayStation将继续赞助欧冠联赛 续签三年协议](https://www.3dmgame.com/news/202408/3901446.html)
+
++ [《波斯王子：失落的王冠》Steam版本现已正式推出 下月将推出全新DLC](https://www.3dmgame.com/news/202408/3901445.html)
+
++ [《神探狗狗：不可能的任务》Steam页面公布 年内发售](https://www.3dmgame.com/news/202408/3901444.html)
+
++ [类魂动作角色扮演游戏《死亡约束》现已正式推出 Steam平台获多半好评](https://www.3dmgame.com/news/202408/3901453.html)
+
++ [派拉蒙宣布裁员15%约2000人 有线电视业务面临衰落](https://www.3dmgame.com/news/202408/3901451.html)
+
++ [Take-Two回应FIFA传闻：会在适当的时候发布公告](https://www.3dmgame.com/news/202408/3901443.html)
+
++ [《雾锁王国》玩家数突破300万 计划2025年推出正式版](https://www.3dmgame.com/news/202408/3901442.html)
+
++ [世嘉将在科隆展上公布新作 同时提供现场试玩](https://www.3dmgame.com/news/202408/3901441.html)
+
++ [Netflix动画剧集泄露事件还在扩大 《双城之战》第二季已泄露多集](https://www.3dmgame.com/news/202408/3901440.html)
+
++ [因担忧儿童安全 土耳其封禁罗布乐思](https://www.3dmgame.com/news/202408/3901439.html)
+
