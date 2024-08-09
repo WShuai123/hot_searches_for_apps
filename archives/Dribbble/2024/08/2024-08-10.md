@@ -97,3 +97,28 @@
 
 + [Irwin Rebrand + Case Study](https://dribbble.com/shots/)
 
++ [1972 Datsun](https://dribbble.com/shots/)
+
++ [Robot interrogation ????????](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+
++ [Heyo Pattern](https://dribbble.com/shots/)
+
++ [Essay contest](https://dribbble.com/shots/)
+
++ [Who rescued who? ????](https://dribbble.com/shots/)
+
++ [Vino Disco Sauvignon Blanc](https://dribbble.com/shots/)
+
++ [Hooke Fall/Winter Collection](https://dribbble.com/shots/)
+
++ ["You love to sing"
+つづく](https://dribbble.com/shots/)
+
++ [Kick, Pass, Serve, Smash](https://dribbble.com/shots/)
+
++ [Watchmen (PSE '24)](https://dribbble.com/shots/)
+
++ [USA Icons](https://dribbble.com/shots/)
+
