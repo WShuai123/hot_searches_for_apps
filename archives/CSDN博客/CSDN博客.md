@@ -171,3 +171,7 @@
 
 + [通义灵码-阿里云推出的AI智能编码助手](https://blog.csdn.net/ss300400a/article/details/141024875)
 
++ [Flink-DataWorks第四部分：数据同步（第60天）](https://blog.csdn.net/syhiiu/article/details/140971980)
+
++ [图神经网络实战（18）——消息传播神经网络](https://blog.csdn.net/LOVEmy134611/article/details/141050820)
+

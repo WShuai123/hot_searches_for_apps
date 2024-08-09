@@ -137,3 +137,33 @@
 
 + [Git Grok Cards](https://www.producthunt.com/posts/git-grok-cards)
 
++ [Stable Fast 3D](https://www.producthunt.com/posts/stable-fast-3d)
+
++ [Newsletter Ad Network](https://www.producthunt.com/posts/newsletter-ad-network)
+
++ [Callbook.ai](https://www.producthunt.com/posts/callbook-ai)
+
++ [sliiidea](https://www.producthunt.com/posts/sliiidea)
+
++ [RegexBot](https://www.producthunt.com/posts/regexbot)
+
++ [Silence Remover](https://www.producthunt.com/posts/silence-remover)
+
++ [Bardeen 3.0](https://www.producthunt.com/posts/bardeen-3-0)
+
++ [Task Kitchen](https://www.producthunt.com/posts/task-kitchen)
+
++ [CleanSlate](https://www.producthunt.com/posts/cleanslate)
+
++ [Waydev Pull Request Insights](https://www.producthunt.com/posts/waydev-pull-request-insights)
+
++ [Gan.AI TTS Model & API Playground](https://www.producthunt.com/posts/gan-ai-tts-model-api-playground)
+
++ [Mystic Turbo Registry](https://www.producthunt.com/posts/mystic-turbo-registry)
+
++ [Zaver](https://www.producthunt.com/posts/zaver)
+
++ [Everyone Draw](https://www.producthunt.com/posts/everyone-draw-2)
+
++ [Flowdrive](https://www.producthunt.com/posts/flowdrive)
+

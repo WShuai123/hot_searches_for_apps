@@ -207,3 +207,21 @@
 
 + [改编动画《紫云寺家的兄弟姐妹》公布特别消息预告 将于2025年开播](https://www.3dmgame.com/news/202408/3901473.html)
 
++ [模拟经营游戏《坊间百闻》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901483.html)
+
++ [《塞尔达传说：王国之泪》玩家超远距离无辅助精准命中古栗欧克三颗头](https://www.3dmgame.com/news/202408/3901482.html)
+
++ [《雨中冒险2》Gearbox新负责人：DLC延续了原作的精神](https://www.3dmgame.com/news/202408/3901481.html)
+
++ [《波斯王子：Rogue》发布“战士的崛起”更新 难度修改器上线](https://www.3dmgame.com/news/202408/3901480.html)
+
++ [《电锯甜心RePOP》Steam页面上线 2024年9月12日推出](https://www.3dmgame.com/news/202408/3901479.html)
+
++ [《雾锁王国》发售半年已超三百万玩家](https://www.3dmgame.com/news/202408/3901478.html)
+
++ [最适合情侣的派对射击游戏？趣味游戏《枪豆人》现已开启免费试玩](https://www.3dmgame.com/news/202408/3901477.html)
+
++ [多人合作恐怖游戏《前方高能》已全面支持中文本地化 中文匹配、史低折扣上线！](https://www.3dmgame.com/news/202408/3901476.html)
+
++ [自动化建造休闲解谜游戏《牧神镇物语》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901474.html)
+
