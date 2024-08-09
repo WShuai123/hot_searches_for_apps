@@ -107,3 +107,11 @@
 
 + [外媒精选今年值得游玩的续作 《潜行者2》等](https://www.3dmgame.com/news/202408/3901509.html)
 
++ [Intel下代酷睿Ultra 3升级8核心 4大4小](https://www.3dmgame.com/news/202408/3901515.html)
+
++ [《心灵杀手2》已经回收了“大部分”开发和营销预算](https://www.3dmgame.com/news/202408/3901514.html)
+
++ [《龙腾世纪：影障守护者》明拉瑟斯城相当广阔](https://www.3dmgame.com/news/202408/3901513.html)
+
++ [《马克思佩恩1+2》重制版已进入全面制作阶段](https://www.3dmgame.com/news/202408/3901512.html)
+
