@@ -265,3 +265,13 @@
 
 + [华为官方确认鸿蒙PC要来了：界面比Windows漂亮](https://www.3dmgame.com/news/202408/3901501.html)
 
++ [分析称Apple Intelligence月收费或超过9.99美元](https://www.3dmgame.com/news/202408/3901506.html)
+
++ [《生化危机：死亡岛》现已于各大视频平台上线](https://www.3dmgame.com/news/202408/3901507.html)
+
++ [《丧尸围城：豪华复刻版》删掉“情色”拍照功能](https://www.3dmgame.com/news/202408/3901505.html)
+
++ [《控制2》开发来到重要里程碑 已经可以游玩了](https://www.3dmgame.com/news/202408/3901504.html)
+
++ [《龙腾世纪：影障守护者》创意总监：《圣歌》教会我们专注于自己的长处](https://www.3dmgame.com/news/202408/3901503.html)
+

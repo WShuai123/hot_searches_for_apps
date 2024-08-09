@@ -207,3 +207,11 @@
 
 + [Spring的代理模式](https://blog.csdn.net/weixin_71072718/article/details/141020752)
 
++ [如何实现Redis和Mysql中数据双写一致性](https://blog.csdn.net/mr_yaodadong/article/details/141018880)
+
++ [Python大数据分析——SVM模型（支持向量机）](https://blog.csdn.net/Eric005/article/details/141000932)
+
++ [windows和office微软官方免费激活教程](https://blog.csdn.net/oushaojun2/article/details/141017183)
+
++ [【总结】TCP/IP四层模型的理解](https://blog.csdn.net/m0_52980547/article/details/141026557)
+
