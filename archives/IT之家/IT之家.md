@@ -25,3 +25,5 @@
 
 + [腾讯云：监测到国内大量家用路由器遭 DNS 劫持，服务器端现已恢复](https://m.ithome.com/html/787369.htm)
 
++ [昂达 RTX3060 神盾 12GD6-B 显卡开售：12GB GDDR6 显存、3584 流处理器核心，2119 元](https://m.ithome.com/html/787249.htm)
+
