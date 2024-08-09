@@ -181,3 +181,13 @@
 
 + [端到端 AWS 定量分析：使用 AWS 和 AWSCLI 自动运行脚本](https://blog.csdn.net/2401_85233349/article/details/141035898)
 
++ [支付宝开放平台出现神秘人脸？解密浏览器书签收藏](https://blog.csdn.net/qq_61654952/article/details/141025948)
+
++ [识别和分析图像中的不良焊点](https://blog.csdn.net/zhangyy57/article/details/141041377)
+
++ [网络安全知识讲解](https://blog.csdn.net/m0_46566693/article/details/141024395)
+
++ [【AI大模型】LangChain框架：示例选择器与输出解析器携手，编织NLP高效精准之网](https://blog.csdn.net/m0_48173416/article/details/140905056)
+
++ [[Qt][信号与槽][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141021881)
+

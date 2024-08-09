@@ -235,3 +235,15 @@
 
 + [《祇：女神之道》玩家数突破50万 官方发放魔像奖励](https://www.3dmgame.com/news/202408/3901484.html)
 
++ [《Matchbox 飞车大冒险》Steam页面上线 9月20日发售](https://www.3dmgame.com/news/202408/3901492.html)
+
++ [《暗喻幻想：ReFantazio》获得97%玩家好评！全球玩家试玩活动反馈及世界巡回详情公布](https://www.3dmgame.com/news/202408/3901490.html)
+
++ [《三国志8重制版》奇才系统介绍 武将独一无二的能力](https://www.3dmgame.com/news/202408/3901493.html)
+
++ [《索尼克×夏特 世代重启》BGM视频公开 全新登场角色及关卡](https://www.3dmgame.com/news/202408/3901488.html)
+
++ [卡普空《怪物猎人：荒野》武器介绍：“狩猎笛”](https://www.3dmgame.com/news/202408/3901489.html)
+
++ [苹果拟推出迄今最小台式电脑：Mac mini首次改变设计](https://www.3dmgame.com/news/202408/3901491.html)
+

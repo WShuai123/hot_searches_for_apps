@@ -61,3 +61,5 @@
 
 + [攻防演练中的IPv6（下）获取IPv6地址并防御IPv6攻击](https://www.freebuf.com/defense/378527.html)
 
++ [见证历史，被全球网安人吐槽，一个参数导致巨大灾难事故](https://www.freebuf.com/news/408183.html)
+
