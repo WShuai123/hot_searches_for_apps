@@ -27,3 +27,17 @@
 
 + [trailofbits / multiplier](https://github.com/trailofbits/multiplier)
 
++ [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
+
++ [ardalis / CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
+
++ [goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
++ [airbnb / lottie-ios](https://github.com/airbnb/lottie-ios)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
