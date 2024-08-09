@@ -129,3 +129,7 @@
 
 + [【Linux】文件系统和软硬链接](https://blog.csdn.net/qq_48460693/article/details/137384647)
 
++ [linux文件——深度学习文件fd、文件系统调用](https://blog.csdn.net/strive_mianyang/article/details/141064382)
+
++ [【数学建模】 多模数据与智能模型](https://blog.csdn.net/weixin_42914989/article/details/140951127)
+
