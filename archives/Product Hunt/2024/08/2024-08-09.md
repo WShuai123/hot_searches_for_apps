@@ -171,3 +171,5 @@
 
 + [fucimo](https://www.producthunt.com/posts/fucimo-2)
 
++ [Newsletter Ad Network by beehiiv](https://www.producthunt.com/posts/newsletter-ad-network-by-beehiiv)
+
