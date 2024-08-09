@@ -153,3 +153,11 @@
 
 + [Careers](https://dribbble.com/shots/)
 
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ [Let AI blow your mind!](https://dribbble.com/shots/)
+
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
++ [A Real Landscape Collage](https://dribbble.com/shots/)
+

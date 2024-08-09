@@ -125,3 +125,15 @@
 
 + [id Software为PC用户开放《毁灭战士：永恒》Mod工具](https://www.3dmgame.com/news/202408/3901426.html)
 
++ [《战神：诸神黄昏》PC版新截图 画面太震撼了](https://www.3dmgame.com/news/202408/3901437.html)
+
++ [《命运2》团队承诺：裁员后仍将继续致力于游戏和社区](https://www.3dmgame.com/news/202408/3901438.html)
+
++ [《GTA6》仍将于2025年秋季发售 PC版却无踪影](https://www.3dmgame.com/news/202408/3901434.html)
+
++ [《文明7》将在2025年3月31日之前推出 期待吗？](https://www.3dmgame.com/news/202408/3901435.html)
+
++ [《战锤40K：星际战士2》多人玩法预告 包含PVE和PVP](https://www.3dmgame.com/news/202408/3901436.html)
+
++ [《冰汽时代2》“执政官101”第5集预告：人民的声音](https://www.3dmgame.com/news/202408/3901433.html)
+

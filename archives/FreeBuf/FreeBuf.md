@@ -41,3 +41,7 @@
 
 + [揭秘新型安卓间谍软件LianSpy的攻击手段](https://www.freebuf.com/news/408008.html)
 
++ [FreeBuf早报 | 腾讯回应文件传输助手隐私问题；Nexera DeFi 协议遭黑客攻击](https://www.freebuf.com/news/408127.html)
+
++ [Mandrake间谍软件再次潜入Google Play长达两年之久](https://www.freebuf.com/articles/paper/407904.html)
+

@@ -143,3 +143,9 @@
 
 + [【手机、相机防抖大揭秘】数字防抖、鸡头防抖、光学防抖、AI防抖等(附源码+长期更新)](https://blog.csdn.net/qq_46098574/article/details/141035706)
 
++ [SpringBoot中读取配置的七种方法总结](https://blog.csdn.net/qq_26664043/article/details/140905345)
+
++ [【数据集】Yolo人体关键点数据集处理](https://blog.csdn.net/qq_44426403/article/details/140955288)
+
++ [【密码学】网络攻击类型：窃听攻击、假冒攻击、欺骗攻击和重放攻击](https://blog.csdn.net/qq_39780701/article/details/140992474)
+
