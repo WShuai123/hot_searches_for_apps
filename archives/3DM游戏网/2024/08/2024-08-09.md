@@ -189,3 +189,19 @@
 
 + [前任6月离职 Remedy现已任命新首席财务官](https://www.3dmgame.com/news/202408/3901464.html)
 
++ [《绝地潜兵2》开发商老板回应玩家不满：比没人在乎要强](https://www.3dmgame.com/news/202408/3901471.html)
+
++ [消息称蚂蚁集团投资秘塔科技 至少投资6家AI公司](https://www.3dmgame.com/news/202408/3901468.html)
+
++ [战略向塔防游戏《留住守护者》发售日期公布 2024年10月28日推出](https://www.3dmgame.com/news/202408/3901469.html)
+
++ [10年前公布的PS4独占游戏 《WiLD》现已停止积极开发](https://www.3dmgame.com/news/202408/3901470.html)
+
++ [Win11市场份额创历史新高 Win7成第三大受欢迎系统](https://www.3dmgame.com/news/202408/3901472.html)
+
++ [《饿狼传说：狼之城》特瑞·博加德预告 2025年初发售](https://www.3dmgame.com/news/202408/3901465.html)
+
++ [IOI和育碧开发者成立新瑞典工作室Chamo Games](https://www.3dmgame.com/news/202408/3901466.html)
+
++ [应亚马逊要求 《如龙》剧集主演没有玩过原版游戏](https://www.3dmgame.com/news/202408/3901467.html)
+

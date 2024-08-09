@@ -75,3 +75,11 @@
 
 + [熊大给光头强唱歌](http://www.acfun.cn/v/ac46068556)
 
++ [数码宝贝第一部9期：大结局！第一部完结！](http://www.acfun.cn/v/ac46070262)
+
++ [赛博健身！盘点steam上好玩的5款体育游戏](http://www.acfun.cn/v/ac46069546)
+
++ [【诸葛】兴奋剂是奥运会的特色 不可不品尝](http://www.acfun.cn/v/ac46072680)
+
++ [【预告】二等分的新娘](http://www.acfun.cn/v/ac46070393)
+
