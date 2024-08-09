@@ -159,3 +159,9 @@
 
 + [【老张的程序人生】我命由我不由天：我的计算机教师中级岗之旅](https://blog.csdn.net/Liuyaoyun/article/details/140951709)
 
++ [【SQL Server】在 SSMS 中 使用 生成 SQL 脚本 方式 实现 数据库 备份 / 还原 ( 数据备份操作 - 生成 SQL 脚本 | 数据还原操作 - 执行 SQL 脚本 )](https://blog.csdn.net/han1202012/article/details/141019877)
+
++ [机器人帮助文档](https://blog.csdn.net/weixin_39651356/article/details/140999790)
+
++ [深度学习四大框架之争(Tensorflow、Pytorch、Keras和Paddle)](https://blog.csdn.net/FENGQIYUNRAN/article/details/141030819)
+

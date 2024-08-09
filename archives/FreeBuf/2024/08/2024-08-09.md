@@ -51,3 +51,5 @@
 
 + [警惕：新型网络钓鱼利用 Google Drawings 和 WhatsApp 短链接窃取信息](https://www.freebuf.com/news/408175.html)
 
++ [研发安全 | 如何用好内容安全策略（CSP）？](https://www.freebuf.com/articles/web/407740.html)
+

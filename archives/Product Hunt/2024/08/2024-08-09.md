@@ -131,3 +131,9 @@
 
 + [PartnerUp](https://www.producthunt.com/posts/partnerup)
 
++ [Deep Sampler 2 - Future of Sound Design](https://www.producthunt.com/posts/deep-sampler-2-future-of-sound-design)
+
++ [Live Demo Sandbox for WordPress](https://www.producthunt.com/posts/live-demo-sandbox-for-wordpress)
+
++ [Git Grok Cards](https://www.producthunt.com/posts/git-grok-cards)
+
