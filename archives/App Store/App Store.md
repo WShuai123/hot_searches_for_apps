@@ -205,3 +205,7 @@
 
 + [河马剧场-全网热门短剧无限看](https://itunes.apple.com/cn/app/id6451242037?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [剧好多 - 海量热播短剧高清畅看](https://itunes.apple.com/cn/app/id6504399031?mt=8)
+
