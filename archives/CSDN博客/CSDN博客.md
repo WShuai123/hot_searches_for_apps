@@ -101,3 +101,21 @@
 
 + [嵌入式人工智能（OpenCV-基于树莓派的人脸识别与入侵检测）](https://blog.csdn.net/u010152658/article/details/141034107)
 
++ [代码规范 —— 数据库规范](https://blog.csdn.net/zhengzhaoyang122/article/details/141003636)
+
++ [vue3组件之间通讯](https://blog.csdn.net/m0_58889179/article/details/141026112)
+
++ [FFMPEG Mac版本编译](https://blog.csdn.net/sjw890821sjw/article/details/141066104)
+
++ [Android之Java与Kotlin区别](https://blog.csdn.net/Sh_12345/article/details/141033467)
+
++ [iOS 18（macOS 15）Vision 中新增的任意图片智能评分功能试玩](https://blog.csdn.net/mydo/article/details/140427926)
+
++ [科普| 网络安全知多少？什么是网络安全？网络安全为何重要？](https://blog.csdn.net/2401_85887805/article/details/141062233)
+
++ [网络安全知识讲解](https://blog.csdn.net/m0_46566693/article/details/141024395)
+
++ [Android实时通信：WebSocket与WebRTC的应用与优化](https://blog.csdn.net/mba16c35/article/details/141096714)
+
++ [通义灵码-阿里云推出的AI智能编码助手](https://blog.csdn.net/ss300400a/article/details/141024875)
+
