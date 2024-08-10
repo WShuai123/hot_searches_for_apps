@@ -101,3 +101,33 @@
 
 + [Omnifact](https://www.producthunt.com/posts/omnifact)
 
++ [Sora Video AI](https://www.producthunt.com/posts/sora-video-ai-2)
+
++ [SyncVariables](https://www.producthunt.com/posts/syncvariables)
+
++ [Docamine](https://www.producthunt.com/posts/docamine)
+
++ [Fillout Workflows](https://www.producthunt.com/posts/fillout-workflows)
+
++ [JustDeploy](https://www.producthunt.com/posts/justdeploy-2)
+
++ [Readmekraft](https://www.producthunt.com/posts/readmekraft)
+
++ [CraftUI](https://www.producthunt.com/posts/craftui)
+
++ [Langtrace AI](https://www.producthunt.com/posts/langtrace-ai)
+
++ [Dream Machine AI Online](https://www.producthunt.com/posts/dream-machine-ai-online)
+
++ [TGpro](https://www.producthunt.com/posts/tgpro)
+
++ [URLtoText](https://www.producthunt.com/posts/urltotext)
+
++ [FinGrow Finance](https://www.producthunt.com/posts/fingrow-finance)
+
++ [LandingPro AI (Buildspace S5)](https://www.producthunt.com/posts/landingpro-ai-buildspace-s5)
+
++ [Glimpse](https://www.producthunt.com/posts/glimpse-11)
+
++ [Pegada](https://www.producthunt.com/posts/pegada)
+

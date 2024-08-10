@@ -43,3 +43,7 @@
 
 + [安卓第三方桌面 Nova Launcher 开发团队大裁员，仅留下创始人 Kevin Barry](https://m.ithome.com/html/787517.htm)
 
++ [华为余承东祝贺享界 S9 上市 72 小时大定 4800 台：超出预期，远超 BBA 纯电车型单月销量](https://m.ithome.com/html/787556.htm)
+
++ [网传无锡一辆小鹏汽车“自燃”，官方回应称“初步排除动力电池起火”](https://m.ithome.com/html/787431.htm)
+

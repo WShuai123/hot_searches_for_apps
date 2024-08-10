@@ -53,3 +53,7 @@
 
 + [黑暗森林 | 狡诈的网络钓鱼](https://www.freebuf.com/articles/blockchain-articles/407731.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
++ [VulnNodeApp：一款包含大量安全漏洞的Node.js安全练习平台](https://www.freebuf.com/sectool/408168.html)
+

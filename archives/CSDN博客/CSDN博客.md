@@ -163,3 +163,9 @@
 
 + [《抓娃娃》迅雷BT完整下载[DB-百度云下载/3.23GBMKV中字]4k资源分享](https://blog.csdn.net/mdckkrs/article/details/140996428)
 
++ [探索灵办AI：智能办公的好帮手](https://blog.csdn.net/qq_44273429/article/details/140992849)
+
++ [【宠粉赠书】Python数据可视化：科技图表绘制](https://blog.csdn.net/weixin_41793160/article/details/141059663)
+
++ [从零开始构建基于ChatGPT的嵌入式(Embedding)本地医疗客服问答机器人模型（看完就会，看到最后有惊喜）](https://blog.csdn.net/2301_82000445/article/details/141069749)
+

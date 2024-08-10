@@ -159,3 +159,15 @@
 
 + [《绝地潜兵2》CEO认错但仍在为削弱找开脱：借口还是老一套](https://www.3dmgame.com/news/202408/3901537.html)
 
++ [《无主之地》电影按照R级拍摄 却在后期进行修改](https://www.3dmgame.com/news/202408/3901543.html)
+
++ [《星际宝贝》真人电影预告 2025年夏季上映](https://www.3dmgame.com/news/202408/3901544.html)
+
++ [电影《白雪公主》首支预告 明年3月21日北美上映](https://www.3dmgame.com/news/202408/3901542.html)
+
++ [《阿凡达3：火与灰》定名：2025年12月19日上映](https://www.3dmgame.com/news/202408/3901541.html)
+
++ [慎重！最新研究：无糖饮料中的代糖会让人类得糖尿病、心脏病](https://www.3dmgame.com/news/202408/3901539.html)
+
++ [SteamOS通用安装包或即将到来：新添华硕掌机支持](https://www.3dmgame.com/news/202408/3901538.html)
+
