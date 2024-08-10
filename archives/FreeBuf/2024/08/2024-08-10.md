@@ -49,3 +49,7 @@
 
 + [可造成敏感信息泄露！Spring Boot Actuator信息泄露漏洞三种利用方式总结](https://www.freebuf.com/vuls/407651.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
++ [黑暗森林 | 狡诈的网络钓鱼](https://www.freebuf.com/articles/blockchain-articles/407731.html)
+

@@ -155,3 +155,5 @@
 
 + [Steam小团队特卖活动开启 精品小游戏让人眼花缭乱](https://www.3dmgame.com/news/202408/3901535.html)
 
++ [Take-Two老板仍对《无主之地》电影抱有希望：给它个机会](https://www.3dmgame.com/news/202408/3901536.html)
+
