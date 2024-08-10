@@ -129,3 +129,13 @@
 
 + [电脑开机后出现bootmgr is missing原因及解决方法](https://blog.csdn.net/qq_40171230/article/details/141068163)
 
++ [揭开数据可视化的神秘面纱：《Python数据可视化：科技图表绘制》深度解析](https://blog.csdn.net/a1657054242/article/details/141095357)
+
++ [《实现 DevOps 平台（2） · GitLab CI/CD 交互》](https://blog.csdn.net/syb513812/article/details/141073164)
+
++ [基于微信小程序的小区业主服务系统(源码+论文+部署讲解等)](https://blog.csdn.net/m0_64148096/article/details/141093708)
+
++ [书生.浦江大模型实战训练营——（四）书生·浦语大模型全链路开源开放体系](https://blog.csdn.net/weixin_63866037/article/details/141052873)
+
++ [Elastic Observability 8.15：AI 助手、OTel 和日志质量增强功能](https://blog.csdn.net/UbuntuTouch/article/details/141093381)
+
