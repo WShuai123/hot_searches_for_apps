@@ -101,3 +101,7 @@
 
 + [传Bungie《马拉松》重启版开发不顺利 内部跳票到2025年](https://www.3dmgame.com/news/202408/3901516.html)
 
++ [《索尼克：世代》下个月下架 但还有办法能买到](https://www.3dmgame.com/news/202408/3901568.html)
+
++ [《哈利波特：魁地奇锦标赛》预告片展示三巫学院](https://www.3dmgame.com/news/202408/3901567.html)
+
