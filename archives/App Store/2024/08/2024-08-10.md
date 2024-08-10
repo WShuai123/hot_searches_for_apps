@@ -215,3 +215,5 @@
 
 + [华为运动健康](https://itunes.apple.com/cn/app/id1325481372?mt=8)
 
++ [讯飞输入法-斗图表情包字体美化键盘](https://itunes.apple.com/cn/app/id1582446193?mt=8)
+

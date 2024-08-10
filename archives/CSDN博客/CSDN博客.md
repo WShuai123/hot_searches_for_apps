@@ -185,3 +185,7 @@
 
 + [抖店飞鸽客服自动回复软件开发教程与下载体验（.NET版）](https://blog.csdn.net/zgyulongfei/article/details/140960430)
 
++ [数据仓库: 2- 数据建模](https://blog.csdn.net/Taerge0110/article/details/141066603)
+
++ [【深度学习】注意力机制（Transformer）](https://blog.csdn.net/littlefatguy/article/details/141060626)
+

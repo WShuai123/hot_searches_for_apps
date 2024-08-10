@@ -29,3 +29,17 @@
 
 + [Avaiga / taipy](https://github.com/Avaiga/taipy)
 
++ [raspberrypi / pico-sdk](https://github.com/raspberrypi/pico-sdk)
+
++ [penpot / penpot](https://github.com/penpot/penpot)
+
++ [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
++ [MahmoudAshraf97 / whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+
++ [cocos / cocos-engine](https://github.com/cocos/cocos-engine)
+
++ [onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
+
