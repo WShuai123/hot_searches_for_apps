@@ -143,3 +143,7 @@
 
 + [搭建个人博客需要做哪些事](https://blog.csdn.net/qq_28314431/article/details/140897632)
 
++ [Linux —— 进程信号](https://blog.csdn.net/china_chk/article/details/140443749)
+
++ [python自动化笔记：os模块和异常处理](https://blog.csdn.net/zhoukeguai/article/details/140987889)
+

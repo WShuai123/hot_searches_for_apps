@@ -37,3 +37,5 @@
 
 + [小米旗舰设备国际版将接入谷歌 Gemini 大模型，OPPO 此前已接入](https://m.ithome.com/html/787348.htm)
 
++ [鸿蒙智行旗下豪华轿车享界 S9 上市 72 小时大定突破 4800 台](https://m.ithome.com/html/787487.htm)
+

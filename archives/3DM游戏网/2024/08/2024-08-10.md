@@ -125,3 +125,27 @@
 
 + [《GTA6》发行商Take Two认为游戏首发登陆Game Pass不够理性](https://www.3dmgame.com/news/202408/3901517.html)
 
++ [RPG《Robot“s Fate: Alice》Steam页面公布 支持简中](https://www.3dmgame.com/news/202408/3901531.html)
+
++ [Remedy财报：上半年收入增长 《心灵杀手2》回本](https://www.3dmgame.com/news/202408/3901532.html)
+
++ [在《微软飞行模拟2024》里，你甚至可以步行](https://www.3dmgame.com/news/202408/3901527.html)
+
++ [PS5在英国销量达到400万台 比PS4慢了7个月](https://www.3dmgame.com/news/202408/3901528.html)
+
++ [《Sages of Vandaleria》Steam页面公布 明年发售](https://www.3dmgame.com/news/202408/3901529.html)
+
++ [《辐射：伦敦》团队准备成立自己的独立游戏公司](https://www.3dmgame.com/news/202408/3901530.html)
+
++ [Unity 6引擎预计将“按计划”在2024年秋季发布](https://www.3dmgame.com/news/202408/3901521.html)
+
++ [Take-Two高管非常期待《GTA6》MOD和玩家自制内容](https://www.3dmgame.com/news/202408/3901522.html)
+
++ [暗黑游戏《FATE: Reawakened》Steam页面 支持简体中文](https://www.3dmgame.com/news/202408/3901523.html)
+
++ [国外玩家买《黑神话：悟空》买成了《卧龙：苍天陨落》](https://www.3dmgame.com/news/202408/3901524.html)
+
++ [生活模拟游戏《inZOI》Steam页面公布 不支持中文](https://www.3dmgame.com/news/202408/3901525.html)
+
++ [《小丑牌》作者：明年准备进行一些扩展 但不会改变](https://www.3dmgame.com/news/202408/3901526.html)
+
