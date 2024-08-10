@@ -157,3 +157,5 @@
 
 + [Take-Two老板仍对《无主之地》电影抱有希望：给它个机会](https://www.3dmgame.com/news/202408/3901536.html)
 
++ [《绝地潜兵2》CEO认错但仍在为削弱找开脱：借口还是老一套](https://www.3dmgame.com/news/202408/3901537.html)
+

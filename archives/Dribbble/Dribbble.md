@@ -162,3 +162,9 @@
 
 + [Guess What?](https://dribbble.com/shots/)
 
++ [Let AI blow your mind!](https://dribbble.com/shots/)
+
++ [American Madonna](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+

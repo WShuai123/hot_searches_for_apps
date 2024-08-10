@@ -41,3 +41,5 @@
 
 + [坦克 SUV：微博用户“小迪快报”恶意诋毁、抹黑长城汽车，已启动相关诉讼程序](https://m.ithome.com/html/787504.htm)
 
++ [安卓第三方桌面 Nova Launcher 开发团队大裁员，仅留下创始人 Kevin Barry](https://m.ithome.com/html/787517.htm)
+
