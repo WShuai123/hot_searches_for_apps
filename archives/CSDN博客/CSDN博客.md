@@ -199,3 +199,7 @@
 
 + [区块链（Blockchain）](https://blog.csdn.net/u011019141/article/details/141064550)
 
++ [微软 Edge 浏览器全解析](https://blog.csdn.net/m0_63815035/article/details/141072465)
+
++ [CosyVoice 实测，阿里开源语音合成模型，3s极速语音克隆，5分钟带你部署实战](https://blog.csdn.net/u010522887/article/details/141010689)
+

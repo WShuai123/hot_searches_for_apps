@@ -61,3 +61,11 @@
 
 + [安卓第三方桌面 Nova Launcher 开发团队宣告解散，仅剩创始人 Kevin Barry](https://m.ithome.com/html/787517.htm)
 
++ [华为 AI 消除功能目前仅支持 Pura 70 系列等新机型，Mate 60 等暂不支持](https://m.ithome.com/html/787621.htm)
+
++ [上汽大众帕萨特家族 7 月销量 20533 辆，拿下中高级轿车“销冠”](https://m.ithome.com/html/787576.htm)
+
++ [“价格战”按下暂停键？蔚来、理想等多家车企被曝收缩优惠幅度](https://m.ithome.com/html/787638.htm)
+
++ [小米新机通过 3C 认证：支持 45W 快充，预计为 Redmi Note 14 系列](https://m.ithome.com/html/787509.htm)
+

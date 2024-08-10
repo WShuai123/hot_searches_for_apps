@@ -207,3 +207,11 @@
 
 + [Redmi投影仪Lite绿色版开售 1080P高清799元](https://www.3dmgame.com/news/202408/3901562.html)
 
++ [《死侍3》原本有唐尼钢铁侠客串 但因为演毁灭博士而推掉](https://www.3dmgame.com/news/202408/3901566.html)
+
++ [《神奇英侠》官方暗示不再和Sweet Baby合作](https://www.3dmgame.com/news/202408/3901565.html)
+
++ [横版P言？《雾都残梦：心域突围》实机宣传片](https://www.3dmgame.com/news/202408/3901564.html)
+
++ [恐龙主题FPS游戏《Son and Bone》PS5实机预告](https://www.3dmgame.com/news/202408/3901563.html)
+
