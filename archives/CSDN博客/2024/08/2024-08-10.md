@@ -177,3 +177,11 @@
 
 + [微调LLama 3.1——七月论文审稿GPT第5.5版：拿早期paper-review数据集微调LLama 3.1](https://blog.csdn.net/v_JULY_v/article/details/141065546)
 
++ [信息论在机器学习中的实际应用](https://blog.csdn.net/gongdiwudu/article/details/141000456)
+
++ [低代码开发：软件开发领域的颠覆者](https://blog.csdn.net/m0_67187271/article/details/141064028)
+
++ [YOLO好像也没那么难？](https://blog.csdn.net/m0_73938966/article/details/141065769)
+
++ [抖店飞鸽客服自动回复软件开发教程与下载体验（.NET版）](https://blog.csdn.net/zgyulongfei/article/details/140960430)
+

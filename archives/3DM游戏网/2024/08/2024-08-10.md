@@ -187,3 +187,13 @@
 
 + [皮克斯新动画电影《Hoppers》 2026年夏季上映](https://www.3dmgame.com/news/202408/3901552.html)
 
++ [初代猎空一处服装细节在《守望先锋2》里消失了](https://www.3dmgame.com/news/202408/3901557.html)
+
++ [《怪物猎人：荒野》太刀预告 明年正式发售](https://www.3dmgame.com/news/202408/3901554.html)
+
++ [《使命召唤：黑色行动6》僵尸模式终于可以暂停保存了](https://www.3dmgame.com/news/202408/3901555.html)
+
++ [《英雄联盟：双城之战》最终季预告 今年冬季播出](https://www.3dmgame.com/news/202408/3901556.html)
+
++ [发行商称独立游戏陷入死亡循环：旱的旱死涝的涝死](https://www.3dmgame.com/news/202408/3901553.html)
+

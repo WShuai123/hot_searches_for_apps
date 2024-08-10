@@ -180,3 +180,11 @@
 
 + [End is Near](https://dribbble.com/shots/)
 
++ [Crypto wallet app](https://dribbble.com/shots/)
+
++ [Voiceflow Brand + Case Study](https://dribbble.com/shots/)
+
++ [Summit Advisors Group LLC - Modern Financial Logo Concept](https://dribbble.com/shots/)
+
++ [Goodreads — Redesign & Dark Mode Concept](https://dribbble.com/shots/)
+
