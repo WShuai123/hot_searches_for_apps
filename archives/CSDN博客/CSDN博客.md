@@ -127,3 +127,5 @@
 
 + [springboot3整合redis](https://blog.csdn.net/2301_77138117/article/details/141058634)
 
++ [电脑开机后出现bootmgr is missing原因及解决方法](https://blog.csdn.net/qq_40171230/article/details/141068163)
+
