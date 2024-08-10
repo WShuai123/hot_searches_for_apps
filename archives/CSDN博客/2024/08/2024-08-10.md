@@ -173,3 +173,7 @@
 
 + [记一次 .NET某智慧出行系统 CPU爆高分析](https://blog.csdn.net/huangxinchen520/article/details/141020308)
 
++ [Kali Linux——网络安全的瑞士军刀](https://blog.csdn.net/2301_77160226/article/details/141070847)
+
++ [微调LLama 3.1——七月论文审稿GPT第5.5版：拿早期paper-review数据集微调LLama 3.1](https://blog.csdn.net/v_JULY_v/article/details/141065546)
+

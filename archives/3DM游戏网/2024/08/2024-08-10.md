@@ -181,3 +181,9 @@
 
 + [凯特·布兰切特：演《指环王》三部曲没赚到什么钱](https://www.3dmgame.com/news/202408/3901545.html)
 
++ [《玩具总动员5》前导预告 2026年6月19日北美上映](https://www.3dmgame.com/news/202408/3901550.html)
+
++ [《玩具熊的五夜后宫2》放出四份剧本 但有三份是假的](https://www.3dmgame.com/news/202408/3901551.html)
+
++ [皮克斯新动画电影《Hoppers》 2026年夏季上映](https://www.3dmgame.com/news/202408/3901552.html)
+
