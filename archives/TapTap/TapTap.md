@@ -21,3 +21,5 @@
 
 + [阿瑞斯病毒2](https://www.taptap.cn/app/387841)
 
++ [鸣潮](https://www.taptap.cn/app/234280)
+

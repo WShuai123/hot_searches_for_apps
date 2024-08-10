@@ -49,3 +49,49 @@
 
 + [Jurassic Sneakers](https://dribbble.com/shots/)
 
++ [BLUEPEAK || Fintech Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Cyclops - Campaign Dashboard](https://dribbble.com/shots/)
+
++ [Crypto wallet app](https://dribbble.com/shots/)
+
++ [Chicken Evolution????????????](https://dribbble.com/shots/)
+
++ [Summit Advisors Group LLC - Modern Financial Logo Concept](https://dribbble.com/shots/)
+
++ [Yohan™ - Logo & Branding for Construction Company - Y - Pillars](https://dribbble.com/shots/)
+
++ [Dogue de Bordeaux](https://dribbble.com/shots/)
+
++ [Ducky](https://dribbble.com/shots/)
+
++ [Building Blocks Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Worms](https://dribbble.com/shots/)
+
++ [Gradient logos](https://dribbble.com/shots/)
+
++ [Sales Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Wooba](https://dribbble.com/shots/)
+
++ [Boostter logo](https://dribbble.com/shots/)
+
++ [Logo Design | Brand Identity | Branding](https://dribbble.com/shots/)
+
++ [Voiceflow Brand + Case Study](https://dribbble.com/shots/)
+
++ [Strawberry character](https://dribbble.com/shots/)
+
++ [macOS | Custom Widget](https://dribbble.com/shots/)
+
++ [Ai, music player, rotate, streaming logo, brand identity](https://dribbble.com/shots/)
+
++ [y logo, star logo, book logo](https://dribbble.com/shots/)
+
++ [Lite | Wellness Brand](https://dribbble.com/shots/)
+
++ [Prospair Logo & Visual Identity Design](https://dribbble.com/shots/)
+
++ [Travel service - Mobile app](https://dribbble.com/shots/)
+
