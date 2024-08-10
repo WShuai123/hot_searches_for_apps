@@ -117,3 +117,11 @@
 
 + [传Bungie《马拉松》重启版开发不顺利 内部跳票到2025年](https://www.3dmgame.com/news/202408/3901516.html)
 
++ [《战锤40K：星际战士2》战术及狙击枪预告 9月9日发售](https://www.3dmgame.com/news/202408/3901520.html)
+
++ [索尼表示PlayStation会继续稳定推出“爆款游戏”](https://www.3dmgame.com/news/202408/3901519.html)
+
++ [《使命召唤：黑色行动6》已被泄露 动视发出下架警告](https://www.3dmgame.com/news/202408/3901518.html)
+
++ [《GTA6》发行商Take Two认为游戏首发登陆Game Pass不够理性](https://www.3dmgame.com/news/202408/3901517.html)
+

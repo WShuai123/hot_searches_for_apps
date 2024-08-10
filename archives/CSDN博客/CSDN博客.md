@@ -139,3 +139,7 @@
 
 + [新书速览|Python数据可视化:科技图表绘制(送书)](https://blog.csdn.net/quanzhankaifaqua/article/details/141024149)
 
++ [【机器学习】 Sigmoid函数：机器学习中的关键激活函数](https://blog.csdn.net/qq_44214428/article/details/140898151)
+
++ [搭建个人博客需要做哪些事](https://blog.csdn.net/qq_28314431/article/details/140897632)
+

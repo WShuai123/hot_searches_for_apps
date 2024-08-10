@@ -33,3 +33,7 @@
 
 + [享界 S9 和华为新品发布会，硬控我的是一块贼贵的屏幕](https://m.ithome.com/html/787449.htm)
 
++ [反垄断重锤下，美国司法部正考虑强制将安卓从谷歌剥离](https://m.ithome.com/html/787489.htm)
+
++ [小米旗舰设备国际版将接入谷歌 Gemini 大模型，OPPO 此前已接入](https://m.ithome.com/html/787348.htm)
+
