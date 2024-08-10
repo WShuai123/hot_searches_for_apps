@@ -203,3 +203,5 @@
 
 + [CosyVoice 实测，阿里开源语音合成模型，3s极速语音克隆，5分钟带你部署实战](https://blog.csdn.net/u010522887/article/details/141010689)
 
++ [代码规范 —— 数据库规范](https://blog.csdn.net/zhengzhaoyang122/article/details/141003636)
+
