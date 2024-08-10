@@ -115,3 +115,5 @@
 
 + [《马克思佩恩1+2》重制版已进入全面制作阶段](https://www.3dmgame.com/news/202408/3901512.html)
 
++ [传Bungie《马拉松》重启版开发不顺利 内部跳票到2025年](https://www.3dmgame.com/news/202408/3901516.html)
+

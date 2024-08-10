@@ -133,3 +133,9 @@
 
 + [【数学建模】 多模数据与智能模型](https://blog.csdn.net/weixin_42914989/article/details/140951127)
 
++ [基于ssm+vue+uniapp的英语学习交流平台小程序](https://blog.csdn.net/shmp54/article/details/141035069)
+
++ [YOLO系列：从yolov1至yolov8的进阶之路 持续更新中](https://blog.csdn.net/weixin_64593595/article/details/141025755)
+
++ [新书速览|Python数据可视化:科技图表绘制(送书)](https://blog.csdn.net/quanzhankaifaqua/article/details/141024149)
+

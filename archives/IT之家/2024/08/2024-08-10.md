@@ -31,3 +31,5 @@
 
 + [中芯国际联席 CEO 赵海军：高端手机芯片产能供不应求，几乎被国产厂商买完](https://m.ithome.com/html/787510.htm)
 
++ [享界 S9 和华为新品发布会，硬控我的是一块贼贵的屏幕](https://m.ithome.com/html/787449.htm)
+
