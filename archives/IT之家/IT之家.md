@@ -55,3 +55,7 @@
 
 + [比亚迪首款皮卡 SHARK 开启国内预热：“让皮卡从此告别油老虎”](https://m.ithome.com/html/787553.htm)
 
++ [小米推出手机电池换新七夕 8 折活动：32 款机型，79.2 元起](https://m.ithome.com/html/787611.htm)
+
++ [马斯克晒 SpaceX 猛禽 3 发动机首次点火照，更简洁黑色涂装](https://m.ithome.com/html/787481.htm)
+

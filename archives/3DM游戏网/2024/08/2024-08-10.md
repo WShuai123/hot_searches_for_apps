@@ -197,3 +197,11 @@
 
 + [发行商称独立游戏陷入死亡循环：旱的旱死涝的涝死](https://www.3dmgame.com/news/202408/3901553.html)
 
++ [《小丑2：双重妄想》电影新剧照 小丑情侣联手](https://www.3dmgame.com/news/202408/3901559.html)
+
++ [《黑神话》和《星战亡命之徒》都将发售 玩家选择谁？](https://www.3dmgame.com/news/202408/3901561.html)
+
++ [黑哥因NS被没收暴打女老师获刑 其母：歧视黑人](https://www.3dmgame.com/news/202408/3901560.html)
+
++ [微软Xbox招聘图形工程师：开发最顶尖的图形技术](https://www.3dmgame.com/news/202408/3901558.html)
+
