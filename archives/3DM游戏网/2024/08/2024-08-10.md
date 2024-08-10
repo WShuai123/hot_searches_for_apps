@@ -149,3 +149,9 @@
 
 + [《小丑牌》作者：明年准备进行一些扩展 但不会改变](https://www.3dmgame.com/news/202408/3901526.html)
 
++ [虚拟运营商骚扰电话为啥越来越多 专家：用户戒备心不高](https://www.3dmgame.com/news/202408/3901533.html)
+
++ [《毁灭战士：永恒》官方Mod支持很强大：包含开发游戏所用工具](https://www.3dmgame.com/news/202408/3901534.html)
+
++ [Steam小团队特卖活动开启 精品小游戏让人眼花缭乱](https://www.3dmgame.com/news/202408/3901535.html)
+

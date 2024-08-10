@@ -147,3 +147,15 @@
 
 + [python自动化笔记：os模块和异常处理](https://blog.csdn.net/zhoukeguai/article/details/140987889)
 
++ [基于GeoTools使用JavaFx进行矢量数据可视化实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/141070270)
+
++ [Matlab|考虑充电负荷空间可调度特性的分布式电源与电动汽车充电站联合配置方法](https://blog.csdn.net/superone89/article/details/141072677)
+
++ [Spring Boot 中的 Bean 详解](https://blog.csdn.net/weixin_54425421/article/details/141069440)
+
++ [DLMS/COSEM中的信息安全：安全密钥（中）续1](https://blog.csdn.net/huaqianzkh/article/details/141072716)
+
++ [Android系统安全 — 6.5 Bluetooth安全连接原理](https://blog.csdn.net/qincheng168/article/details/141057996)
+
++ [FPGA开发——IP核的FIFO调用](https://blog.csdn.net/weixin_63553972/article/details/141068972)
+
