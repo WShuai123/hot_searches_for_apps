@@ -59,3 +59,5 @@
 
 + [马斯克晒 SpaceX 猛禽 3 发动机首次点火照，更简洁黑色涂装](https://m.ithome.com/html/787481.htm)
 
++ [安卓第三方桌面 Nova Launcher 开发团队宣告解散，仅剩创始人 Kevin Barry](https://m.ithome.com/html/787517.htm)
+

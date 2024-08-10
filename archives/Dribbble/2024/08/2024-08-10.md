@@ -190,3 +190,17 @@
 
 + [Cozy Farm](https://dribbble.com/shots/)
 
++ [BLUEPEAK || Fintech Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Cyclops - Campaign Dashboard](https://dribbble.com/shots/)
+
++ [Building Blocks Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Gradient logos](https://dribbble.com/shots/)
+
++ [Dogue de Bordeaux](https://dribbble.com/shots/)
+
++ [Sales Dashboard Design Concept](https://dribbble.com/shots/)
+
++ [Logo Design | Brand Identity | Branding](https://dribbble.com/shots/)
+

@@ -205,3 +205,5 @@
 
 + [微软Xbox招聘图形工程师：开发最顶尖的图形技术](https://www.3dmgame.com/news/202408/3901558.html)
 
++ [Redmi投影仪Lite绿色版开售 1080P高清799元](https://www.3dmgame.com/news/202408/3901562.html)
+
