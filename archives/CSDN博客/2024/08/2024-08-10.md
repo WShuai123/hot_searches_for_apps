@@ -169,3 +169,7 @@
 
 + [从零开始构建基于ChatGPT的嵌入式(Embedding)本地医疗客服问答机器人模型（看完就会，看到最后有惊喜）](https://blog.csdn.net/2301_82000445/article/details/141069749)
 
++ [【人工智能】AI时代程序员----是缔造AI程序员，还是AI缔造程序员？](https://blog.csdn.net/Skrrapper/article/details/141031590)
+
++ [记一次 .NET某智慧出行系统 CPU爆高分析](https://blog.csdn.net/huangxinchen520/article/details/141020308)
+

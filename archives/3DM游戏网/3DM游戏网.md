@@ -171,3 +171,13 @@
 
 + [SteamOS通用安装包或即将到来：新添华硕掌机支持](https://www.3dmgame.com/news/202408/3901538.html)
 
++ [《小丑》主演凤凰叔新片开拍前5天突然退出：损失或达数百万](https://www.3dmgame.com/news/202408/3901548.html)
+
++ [《塞尔达传说：智慧的再现》公布三位角色造型](https://www.3dmgame.com/news/202408/3901549.html)
+
++ [《狮子王：木法沙传奇》全新预告 12月20日上映](https://www.3dmgame.com/news/202408/3901547.html)
+
++ [《魔兽世界》玩家还留着15年前去世父亲游戏里的信](https://www.3dmgame.com/news/202408/3901546.html)
+
++ [凯特·布兰切特：演《指环王》三部曲没赚到什么钱](https://www.3dmgame.com/news/202408/3901545.html)
+

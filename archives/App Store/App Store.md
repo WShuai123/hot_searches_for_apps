@@ -211,3 +211,7 @@
 
 + [蔗糖职业](https://itunes.apple.com/cn/app/id6504954859?mt=8)
 
++ [搜狗输入法-语音变声斗图表情](https://itunes.apple.com/cn/app/id917670924?mt=8)
+
++ [华为运动健康](https://itunes.apple.com/cn/app/id1325481372?mt=8)
+
