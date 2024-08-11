@@ -49,3 +49,5 @@
 
 + [原生支持苹果 Arm 芯片：《剑网 3》Mac 端官宣 8 月 15 日灰度上线，同步适配游戏手柄](https://m.ithome.com/html/787661.htm)
 
++ [中国缺钾究竟有多严重](https://m.ithome.com/html/787707.htm)
+

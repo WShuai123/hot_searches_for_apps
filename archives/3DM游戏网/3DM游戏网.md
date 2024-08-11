@@ -197,3 +197,5 @@
 
 + [油管前CEO抗癌2年后去世：库克等纷纷发文悼念](https://www.3dmgame.com/news/202408/3901588.html)
 
++ [独立开发者在老款主机上制作《我的世界》风格游戏](https://www.3dmgame.com/news/202408/3901595.html)
+

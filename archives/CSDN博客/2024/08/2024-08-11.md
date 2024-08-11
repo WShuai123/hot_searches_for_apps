@@ -193,3 +193,13 @@
 
 + [学懂C++ （十九）：高级教程——深入详解C++信号处理](https://blog.csdn.net/martian665/article/details/141054937)
 
++ [Spring -- 事务](https://blog.csdn.net/m0_60963435/article/details/141060404)
+
++ [基于ssm+vue+uniapp的微信外卖小程序](https://blog.csdn.net/shmp54/article/details/141086265)
+
++ [【论文阅读】MobileNetV4 - Universal Models for the Mobile Ecosystem](https://blog.csdn.net/qq_42591591/article/details/141029511)
+
++ [Python爬虫:下载4K壁纸](https://blog.csdn.net/2301_79728896/article/details/141090651)
+
++ [QT 简易音乐播放器](https://blog.csdn.net/m0_65143871/article/details/141030713)
+
