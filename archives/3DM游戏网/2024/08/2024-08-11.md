@@ -151,3 +151,13 @@
 
 + [思路奇特 PlayWay公布《飞机墓地模拟器》](https://www.3dmgame.com/news/202408/3901569.html)
 
++ [《毁灭战士：黑暗时代》新细节 比之前游戏更加开放](https://www.3dmgame.com/news/202408/3901576.html)
+
++ [庆祝《怪物猎人》系列20周年 优衣库推出T恤打印服务](https://www.3dmgame.com/news/202408/3901575.html)
+
++ [《Torchless》Steam页面上线 复古迷宫探索RPG](https://www.3dmgame.com/news/202408/3901574.html)
+
++ [漫威动画剧集《假如……?》第三季为最终季](https://www.3dmgame.com/news/202408/3901573.html)
+
++ [《VLADiK BRUTAL》登陆Steam 第一人称FPS](https://www.3dmgame.com/news/202408/3901572.html)
+

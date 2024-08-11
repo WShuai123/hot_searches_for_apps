@@ -145,3 +145,5 @@
 
 + [AI人工智能深度学习算法：智能深度学习代理的知识图谱运用](https://blog.csdn.net/universsky2015/article/details/141039644)
 
++ [未来已来：探索IT行业的革新与大模型技术的突破](https://blog.csdn.net/2202_75568470/article/details/141095867)
+
