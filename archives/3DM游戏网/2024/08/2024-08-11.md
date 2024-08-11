@@ -105,3 +105,49 @@
 
 + [《哈利波特：魁地奇锦标赛》预告片展示三巫学院](https://www.3dmgame.com/news/202408/3901567.html)
 
++ [《黑神话：悟空》PC采用D加密 81个成就暗示九九八十一难](https://www.3dmgame.com/news/202408/3901571.html)
+
++ [《合金装备3：重制版》主创希望和小岛再次合作 将有4种不同的画风滤镜](https://www.3dmgame.com/news/202406/3898446.html)
+
++ [FS：《艾尔登法环》PC版帧率问题和鼠标控制软件有关](https://www.3dmgame.com/news/202406/3898445.html)
+
++ [苹果头显国行版开售：预约火爆但销量难评](https://www.3dmgame.com/news/202406/3898444.html)
+
++ [蜜雪冰城回应新品被吐槽有脚臭味：独特气味 糯米清香](https://www.3dmgame.com/news/202406/3898443.html)
+
++ [《暗喻幻想：ReFantazio》参展Bilibili World 提供中国首次游戏试玩](https://www.3dmgame.com/news/202406/3898441.html)
+
++ [我国网购用户规模超9亿人：90后和00后成消费主力军](https://www.3dmgame.com/news/202406/3898442.html)
+
++ [BW 2024高能电玩节7月12日中午开启舞台直播](https://www.3dmgame.com/news/202406/3898440.html)
+
++ [《三国志8 Remake》宣布参与BilibiliWorld 2024～](https://www.3dmgame.com/news/202406/3898439.html)
+
++ [NS《Love Live! 虹咲学园校园偶像同好会 心动闪耀的未来蓝图》亚洲中文版发售决定！](https://www.3dmgame.com/news/202406/3898438.html)
+
++ [《即刻离职》STEAM夏特期间限定8折优惠！同时公开两篇真人宣传影片](https://www.3dmgame.com/news/202406/3898437.html)
+
++ [莎拉·米歇尔·盖拉加盟《嗜血法医》前传《原罪》](https://www.3dmgame.com/news/202406/3898447.html)
+
++ [杰仕登宣布《Hookah Haze》NS亚洲实体版将推出！周边商品于漫画博览会抢先贩售！](https://www.3dmgame.com/news/202406/3898436.html)
+
++ [《双人成行》开发商或将于科隆游戏展公布新作](https://www.3dmgame.com/news/202406/3898455.html)
+
++ [百度：文心一言用户规模已达3亿 单日最高调用5亿次](https://www.3dmgame.com/news/202406/3898448.html)
+
++ [赛博朋克银恶游戏《天空之尘》面向PC公布](https://www.3dmgame.com/news/202406/3898453.html)
+
++ [《战锤40K：星际战士2》幕后预告片展示泰伦虫群](https://www.3dmgame.com/news/202406/3898454.html)
+
++ [《恩诺提利亚：终曲》实体版由Fireshine Games发行](https://www.3dmgame.com/news/202406/3898452.html)
+
++ [《绝区零》10分钟实机演示 7月4日开启公测](https://www.3dmgame.com/news/202406/3898451.html)
+
++ [传闻：《宇宙机器人》容量大小约66G](https://www.3dmgame.com/news/202406/3898450.html)
+
++ [性能之王！一加Ace 3 Pro发布：3199元起](https://www.3dmgame.com/news/202406/3898449.html)
+
++ [英特尔下一代Arc Battlemage显卡配置细节曝光](https://www.3dmgame.com/news/202408/3901570.html)
+
++ [思路奇特 PlayWay公布《飞机墓地模拟器》](https://www.3dmgame.com/news/202408/3901569.html)
+
