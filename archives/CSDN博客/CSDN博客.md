@@ -215,3 +215,9 @@
 
 + [ARM相关知识概括](https://blog.csdn.net/xace007/article/details/141058983)
 
++ [【机器学习】机器学习在电商领域：个性化推荐系统优化与销售转化提升](https://blog.csdn.net/EterNity_TiMe_/article/details/141097783)
+
++ [四种应用层协议——MQTT、CoAP、WebSockets和HTTP——在工业物联网监控系统中的性能比较](https://blog.csdn.net/bit_mike/article/details/141092191)
+
++ [深度解析 MetaArena 游戏引擎，如何让 GameFi 应用更具生命力？](https://blog.csdn.net/weixin_53694853/article/details/141096658)
+

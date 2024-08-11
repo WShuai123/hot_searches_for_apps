@@ -57,3 +57,7 @@
 
 + [比亚迪仰望 U8 加长版谍照曝光：对标路虎揽胜行政加长版](https://m.ithome.com/html/787702.htm)
 
++ [NVIDIA 4080 及以下显卡几乎无性能损失：零刻专用 EX 显卡扩展坞 299 元上市](https://m.ithome.com/html/787727.htm)
+
++ [无缘微信手表版？华为商城更改 WATCH FIT 3 智能手表适配说明](https://m.ithome.com/html/787721.htm)
+
