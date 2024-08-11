@@ -77,3 +77,15 @@
 
 + [猪：不是说好的出来游泳、BBQ吗](http://www.acfun.cn/v/ac46076925)
 
++ [七夕，我只爱自己......(今日开心视频：1512)](http://www.acfun.cn/v/ac46079905)
+
++ [玉渊谭天丨独家揭秘美国滥用兴奋剂全产业链](http://www.acfun.cn/v/ac46077895)
+
++ [日本藏在地下商场的经典街机厅，居然还是叫“电视游戏”【探访大阪Royal Game Center】](http://www.acfun.cn/v/ac46079701)
+
++ [【刀比脑子快】-hjm鹅鸭杀](http://www.acfun.cn/v/ac46067968)
+
++ [【EP11/中文字幕】美版老大哥第26季 可乐字幕组](http://www.acfun.cn/v/ac46080083)
+
++ [跳一下Kiss&Bite me](http://www.acfun.cn/v/ac46077304)
+

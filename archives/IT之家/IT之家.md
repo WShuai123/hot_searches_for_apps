@@ -31,3 +31,7 @@
 
 + [动画电影《白蛇：浮生》上映首日票房 1.29 亿，成 2024 七夕档票房冠军](https://m.ithome.com/html/787653.htm)
 
++ [网友曝小米二期工厂附近挖出古墓，小米王化称“真实情况在做文勘”](https://m.ithome.com/html/787679.htm)
+
++ [华为耳机楼层定位功能上线：支持 FreeBuds 5i、FreeBuds Pro 3 等型号](https://m.ithome.com/html/787634.htm)
+
