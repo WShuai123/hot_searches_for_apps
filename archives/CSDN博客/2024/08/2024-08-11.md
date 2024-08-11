@@ -181,3 +181,7 @@
 
 + [Datawhale AI夏令营第四期：动手学大模型应用全栈开发task1](https://blog.csdn.net/sty0213/article/details/141025690)
 
++ [如何在linux系统上部署nginx](https://blog.csdn.net/2301_77279557/article/details/141070249)
+
++ [RCE多种绕过技巧+贷齐乐漏洞复现](https://blog.csdn.net/Nirvana92/article/details/141097567)
+

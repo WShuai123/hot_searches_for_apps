@@ -181,3 +181,5 @@
 
 + [宇宙机器人PS5手柄在欧洲开启预购之后被抢光](https://www.3dmgame.com/news/202408/3901581.html)
 
++ [《Time for Bed》Steam页面上线 恐怖潜行新游](https://www.3dmgame.com/news/202408/3901587.html)
+
