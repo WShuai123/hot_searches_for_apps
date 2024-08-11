@@ -39,3 +39,9 @@
 
 + [OPPO Find X7 Ultra 手机推送 14.0.1.760 版本更新：新增 NFC 通知勿扰等功能](https://m.ithome.com/html/787628.htm)
 
++ [一对夫妻青海无人区失联 12 小时，通过手机卫星电话获救](https://m.ithome.com/html/787650.htm)
+
++ [小米汽车副总裁李肖爽：SU7 在 7 月交付超 1.3 万台，超特斯拉登顶 20 万以上纯电轿车销量榜](https://m.ithome.com/html/787693.htm)
+
++ [小米 Redmi 投影仪 Lite 绿色版开售：1080P 高清、150 CVIA 流明，799 元](https://m.ithome.com/html/787641.htm)
+

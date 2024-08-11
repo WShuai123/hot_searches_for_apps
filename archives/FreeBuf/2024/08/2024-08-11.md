@@ -53,3 +53,5 @@
 
 + [jwt伪造身份组组组合拳艰难通关](https://www.freebuf.com/vuls/408165.html)
 
++ [CloudBrute：一款通用云环境基础设施安全枚举工具](https://www.freebuf.com/sectool/408179.html)
+

@@ -168,3 +168,23 @@
 
 + [Let AI blow your mind!](https://dribbble.com/shots/)
 
++ [OMG Stephen Curry!](https://dribbble.com/shots/)
+
++ [prankster-kitty](https://dribbble.com/shots/)
+
++ [Ai, biotechnology, sustainable, organic, bot logo and branding](https://dribbble.com/shots/)
+
++ [Modern U letter Logo , Design, Branding visual Identity](https://dribbble.com/shots/)
+
++ [Ruby's](https://dribbble.com/shots/)
+
++ [logo design, play logo, modern logo, media logo](https://dribbble.com/shots/)
+
++ [Time-Tracking App](https://dribbble.com/shots/)
+
++ [VioLate Logo & branding design, visual identity](https://dribbble.com/shots/)
+
++ [Music Webflow Website](https://dribbble.com/shots/)
+
++ [Letter Y - Pillar - Construction logo - Real Estate - property](https://dribbble.com/shots/)
+
