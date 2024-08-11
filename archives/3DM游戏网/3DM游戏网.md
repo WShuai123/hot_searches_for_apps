@@ -213,3 +213,9 @@
 
 + [华金·菲尼克斯退出即将开拍的同性爱情电影](https://www.3dmgame.com/news/202408/3901601.html)
 
++ [联动《魔兽》！《暗黑4》现已加入魔兽经典人物幻化](https://www.3dmgame.com/news/202408/3901604.html)
+
++ [舅舅爆料：2025年将是PS5最关键的一年](https://www.3dmgame.com/news/202408/3901605.html)
+
++ [周鸿祎参加快乐向前冲第4关落水 赛前曾自信放话](https://www.3dmgame.com/news/202408/3901603.html)
+

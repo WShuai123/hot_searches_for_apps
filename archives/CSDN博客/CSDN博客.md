@@ -225,3 +225,5 @@
 
 + [学习方法[1]：如何摆脱无知？(致尚未放弃学习的人)](https://blog.csdn.net/weixin_48321392/article/details/141090917)
 
++ [Maven——概念、IDEA集成、Maven坐标、依赖配置、依赖传递、排除依赖、依赖范围、生命周期](https://blog.csdn.net/qq_45902692/article/details/141091552)
+
