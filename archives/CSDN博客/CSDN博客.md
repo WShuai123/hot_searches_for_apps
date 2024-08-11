@@ -101,3 +101,29 @@
 
 + [【Python】PyWebIO 初体验：用 Python 写网页](https://blog.csdn.net/2201_75791084/article/details/141067906)
 
++ [【AI大模型】LangChain框架：示例选择器与输出解析器携手，编织NLP高效精准之网](https://blog.csdn.net/m0_48173416/article/details/140905056)
+
++ [神经网络：智能时代的基石](https://blog.csdn.net/huanfeng_AI/article/details/141098402)
+
++ [学懂C++ （十九）：高级教程——深入详解C++信号处理](https://blog.csdn.net/martian665/article/details/141054937)
+
++ [集成视触觉传感器的机器人操作学习](https://blog.csdn.net/weixin_44887311/article/details/141053796)
+
++ [elasticsearch集成springboot详细使用](https://blog.csdn.net/crazy123456789/article/details/141091197)
+
++ [Zookeeper的监听机制及原理解析](https://blog.csdn.net/m0_70066267/article/details/141053314)
+
++ [【DataKit系列】数据迁移-实例搭建步骤（二）](https://blog.csdn.net/GaussDB/article/details/141060789)
+
++ [Django5实战](https://blog.csdn.net/duansamve/article/details/141097155)
+
++ [【香菇的程序人生】七夕舔狗反诈指南：技术篇](https://blog.csdn.net/qq_43475285/article/details/141073183)
+
++ [Flink-DataWorks第六部分：数据运维（第62天）](https://blog.csdn.net/syhiiu/article/details/141072433)
+
++ [Kafka服务端日志详解](https://blog.csdn.net/qq_44027353/article/details/141090421)
+
++ [Spark 组件 GraphX、Streaming](https://blog.csdn.net/weixin_74292291/article/details/141096718)
+
++ [简述数学建模比赛](https://blog.csdn.net/2303_79015671/article/details/141092670)
+
