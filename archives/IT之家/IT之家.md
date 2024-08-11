@@ -51,3 +51,7 @@
 
 + [中国缺钾究竟有多严重](https://m.ithome.com/html/787707.htm)
 
++ [苹果 iPhone 16 / Pro 备货关键期：郑州富士康大量招工，面试 90% 都能通过](https://m.ithome.com/html/787712.htm)
+
++ [消息称《黑神话：悟空》评测代码已发放，8 月 16 日解禁](https://m.ithome.com/html/787699.htm)
+

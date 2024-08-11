@@ -203,3 +203,5 @@
 
 + [QT 简易音乐播放器](https://blog.csdn.net/m0_65143871/article/details/141030713)
 
++ [GitLab-CI/CD指南](https://blog.csdn.net/puss0/article/details/141094687)
+

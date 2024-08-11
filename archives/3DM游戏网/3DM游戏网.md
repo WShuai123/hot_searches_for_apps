@@ -199,3 +199,7 @@
 
 + [独立开发者在老款主机上制作《我的世界》风格游戏](https://www.3dmgame.com/news/202408/3901595.html)
 
++ [《龙腾世纪：影障守护者》创建环节要照顾有色人种](https://www.3dmgame.com/news/202408/3901596.html)
+
++ [《绝地潜兵2》厂商CEO发文：我并不擅长这个游戏](https://www.3dmgame.com/news/202408/3901597.html)
+

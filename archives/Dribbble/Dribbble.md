@@ -200,3 +200,15 @@
 
 + [Logo design, tech logo, technology logo, brand identity](https://dribbble.com/shots/)
 
++ [Love](https://dribbble.com/shots/)
+
++ [Logo collection](https://dribbble.com/shots/)
+
++ [KeyForg Tech Ecommerce Website](https://dribbble.com/shots/)
+
++ [WARNING: ????](https://dribbble.com/shots/)
+
++ [Winery in Tuscany](https://dribbble.com/shots/)
+
++ [Brand identity | Logo design | Lettermark](https://dribbble.com/shots/)
+
