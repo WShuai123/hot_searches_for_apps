@@ -135,3 +135,5 @@
 
 + [小程序，uniapp中map的使用](https://blog.csdn.net/qq_33130231/article/details/141057107)
 
++ [Nginx + PHP 8.0支持视频上传](https://blog.csdn.net/q123q123q_/article/details/141090448)
+

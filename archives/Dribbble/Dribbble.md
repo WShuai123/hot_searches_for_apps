@@ -145,3 +145,8 @@
 
 + [Cod & Co Fish and Chips Branding Design by Marka Works](https://dribbble.com/shots/)
 
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ ["You love to sing"
+つづく](https://dribbble.com/shots/)
+
