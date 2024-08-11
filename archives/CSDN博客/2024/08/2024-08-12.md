@@ -127,3 +127,11 @@
 
 + [简述数学建模比赛](https://blog.csdn.net/2303_79015671/article/details/141092670)
 
++ [SpringCloud完整教程](https://blog.csdn.net/qq_62892403/article/details/141071953)
+
++ [IDEA构建SpringBoot多模块项目](https://blog.csdn.net/xc9711/article/details/140730126)
+
++ [Redis 介绍](https://blog.csdn.net/m0_68625092/article/details/141092645)
+
++ [小程序，uniapp中map的使用](https://blog.csdn.net/qq_33130231/article/details/141057107)
+
