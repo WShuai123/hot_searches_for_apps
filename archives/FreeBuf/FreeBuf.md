@@ -55,3 +55,5 @@
 
 + [CloudBrute：一款通用云环境基础设施安全枚举工具](https://www.freebuf.com/sectool/408179.html)
 
++ [渗透实战 | 一次代码审计拿下目标站点](https://www.freebuf.com/vuls/404481.html)
+

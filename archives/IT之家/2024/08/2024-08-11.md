@@ -45,3 +45,7 @@
 
 + [小米 Redmi 投影仪 Lite 绿色版开售：1080P 高清、150 CVIA 流明，799 元](https://m.ithome.com/html/787641.htm)
 
++ [比亚迪宋 L DM-i 举行万人交车仪式，首周销量破万](https://m.ithome.com/html/787694.htm)
+
++ [原生支持苹果 Arm 芯片：《剑网 3》Mac 端官宣 8 月 15 日灰度上线，同步适配游戏手柄](https://m.ithome.com/html/787661.htm)
+

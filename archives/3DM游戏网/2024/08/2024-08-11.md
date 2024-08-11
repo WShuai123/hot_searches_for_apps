@@ -183,3 +183,17 @@
 
 + [《Time for Bed》Steam页面上线 恐怖潜行新游](https://www.3dmgame.com/news/202408/3901587.html)
 
++ [《闰月事件》免费登陆PC 诡异调查冒险ADV](https://www.3dmgame.com/news/202408/3901594.html)
+
++ [杰洛特演员再次重申将参与《巫师4》，但不是主角](https://www.3dmgame.com/news/202408/3901593.html)
+
++ [《赛博朋克2077》光追优化MOD让性能大幅提升](https://www.3dmgame.com/news/202408/3901592.html)
+
++ [《Supermarket Together》免费登陆Steam 合作超市运营](https://www.3dmgame.com/news/202408/3901591.html)
+
++ [2024七夕档总票房3.64亿：《白蛇：浮生》获冠军](https://www.3dmgame.com/news/202408/3901590.html)
+
++ [索尼宣布PlayStation工作室将继续致力于热门大作](https://www.3dmgame.com/news/202408/3901589.html)
+
++ [油管前CEO抗癌2年后去世：库克等纷纷发文悼念](https://www.3dmgame.com/news/202408/3901588.html)
+

@@ -185,3 +185,11 @@
 
 + [RCE多种绕过技巧+贷齐乐漏洞复现](https://blog.csdn.net/Nirvana92/article/details/141097567)
 
++ [【云服务器系列】基于华为云OBS实现Picgo和Typora的完美融合](https://blog.csdn.net/qyj19920704/article/details/141093524)
+
++ [「MyBatis」数据库相关操作1：简介、CRUD](https://blog.csdn.net/Ice_Sugar_7/article/details/140844317)
+
++ [vue中怎么自定义组件](https://blog.csdn.net/qinshi501/article/details/141068125)
+
++ [学懂C++ （十九）：高级教程——深入详解C++信号处理](https://blog.csdn.net/martian665/article/details/141054937)
+
