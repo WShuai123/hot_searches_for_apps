@@ -35,3 +35,5 @@
 
 + [华为耳机楼层定位功能上线：支持 FreeBuds 5i、FreeBuds Pro 3 等型号](https://m.ithome.com/html/787634.htm)
 
++ [6000 万粉丝网红“太原老葛”涉嫌诈骗 900 万元佣金，被警方立案侦查](https://m.ithome.com/html/787684.htm)
+
