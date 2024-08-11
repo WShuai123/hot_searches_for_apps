@@ -29,3 +29,15 @@
 
 + [onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 
++ [mbrg / power-pwn](https://github.com/mbrg/power-pwn)
+
++ [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+
++ [microsoft / autogen](https://github.com/microsoft/autogen)
+
++ [pop-os / cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+
++ [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+
++ [huggingface / parler-tts](https://github.com/huggingface/parler-tts)
+

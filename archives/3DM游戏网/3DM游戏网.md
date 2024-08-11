@@ -203,3 +203,9 @@
 
 + [《绝地潜兵2》厂商CEO发文：我并不擅长这个游戏](https://www.3dmgame.com/news/202408/3901597.html)
 
++ [《Meteorder》Steam页面上线 创意消除解谜](https://www.3dmgame.com/news/202408/3901600.html)
+
++ [博主实测纯血鸿蒙 性能提升30%](https://www.3dmgame.com/news/202408/3901599.html)
+
++ [《班卓熊大冒险》MOD让班卓熊来到风之杖海拉尔](https://www.3dmgame.com/news/202408/3901598.html)
+

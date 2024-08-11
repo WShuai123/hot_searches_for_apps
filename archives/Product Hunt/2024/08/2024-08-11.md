@@ -133,3 +133,7 @@
 
 + [Omnifact](https://www.producthunt.com/posts/omnifact)
 
++ [Secure and Encrypted Notes for JSM](https://www.producthunt.com/posts/secure-and-encrypted-notes-for-jsm)
+
++ [Spok](https://www.producthunt.com/posts/spok)
+

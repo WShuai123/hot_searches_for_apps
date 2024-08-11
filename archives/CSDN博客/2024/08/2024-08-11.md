@@ -205,3 +205,13 @@
 
 + [GitLab-CI/CD指南](https://blog.csdn.net/puss0/article/details/141094687)
 
++ [haproxy实现负载均衡详解 之 (高级功能配置)](https://blog.csdn.net/weixin_63970667/article/details/141097817)
+
++ [【wiki知识库】09.欢迎页面添加（统计浏览量）Vue修改](https://blog.csdn.net/qq_61024956/article/details/141095235)
+
++ [Docker③_VMware虚拟机和Docker的备份与恢复](https://blog.csdn.net/GRrtx/article/details/140924811)
+
++ [高级web安全技术（第一篇）](https://blog.csdn.net/weixin_57898612/article/details/141091150)
+
++ [ARM相关知识概括](https://blog.csdn.net/xace007/article/details/141058983)
+
