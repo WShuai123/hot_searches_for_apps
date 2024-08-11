@@ -101,3 +101,13 @@
 
 + [杰仕登宣布《Hookah Haze》NS亚洲实体版将推出！周边商品于漫画博览会抢先贩售！](https://www.3dmgame.com/news/202406/3898436.html)
 
++ [消息称任天堂或将在本月举行新一轮直面会](https://www.3dmgame.com/news/202408/3901616.html)
+
++ [《堡垒之夜》最新赛季操作漫威超英决战毁灭博士](https://www.3dmgame.com/news/202408/3901615.html)
+
++ [像素风动作射击游戏《Nitro Express》首个预告片公开](https://www.3dmgame.com/news/202408/3901614.html)
+
++ [恶搞沙盒游戏《模拟山羊3》即将登陆任天堂Switch](https://www.3dmgame.com/news/202408/3901613.html)
+
++ [两种形态自由切换 《怪物猎人：荒野》盾斧登场](https://www.3dmgame.com/news/202408/3901612.html)
+
