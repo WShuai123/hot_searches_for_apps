@@ -209,3 +209,7 @@
 
 + [《班卓熊大冒险》MOD让班卓熊来到风之杖海拉尔](https://www.3dmgame.com/news/202408/3901598.html)
 
++ [《仙剑奇侠传三》同名改编动画PV公开](https://www.3dmgame.com/news/202408/3901602.html)
+
++ [华金·菲尼克斯退出即将开拍的同性爱情电影](https://www.3dmgame.com/news/202408/3901601.html)
+

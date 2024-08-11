@@ -221,3 +221,7 @@
 
 + [深度解析 MetaArena 游戏引擎，如何让 GameFi 应用更具生命力？](https://blog.csdn.net/weixin_53694853/article/details/141096658)
 
++ [人工智能时代，程序员如何保持核心竞争力？](https://blog.csdn.net/beautifulmemory/article/details/141093302)
+
++ [学习方法[1]：如何摆脱无知？(致尚未放弃学习的人)](https://blog.csdn.net/weixin_48321392/article/details/141090917)
+
