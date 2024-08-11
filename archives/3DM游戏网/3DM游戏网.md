@@ -219,3 +219,11 @@
 
 + [周鸿祎参加快乐向前冲第4关落水 赛前曾自信放话](https://www.3dmgame.com/news/202408/3901603.html)
 
++ [《波斯王子：失落的王冠》Steam褒贬不一 育碧启动器](https://www.3dmgame.com/news/202408/3901609.html)
+
++ [1.8万元！48GB超大显存RTX 4090D偷偷现身中国](https://www.3dmgame.com/news/202408/3901608.html)
+
++ [Valve将会为Steam Link添加手部追踪支持](https://www.3dmgame.com/news/202408/3901607.html)
+
++ [完美收官！巴黎奥运会中国体育代表团拼下91枚奖牌](https://www.3dmgame.com/news/202408/3901606.html)
+
