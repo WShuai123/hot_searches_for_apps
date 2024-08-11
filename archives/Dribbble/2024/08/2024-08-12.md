@@ -49,3 +49,29 @@
 
 + [*MM](https://dribbble.com/shots/)
 
++ [Cozy Farm](https://dribbble.com/shots/)
+
++ [Strategy of Security Brand Identity](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [Watchmen (PSE '24)](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [Promo Stickers](https://dribbble.com/shots/)
+
++ [Aline has cat "Ala ma kota" (PSE '24)](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [Red and dead (PSE '24)](https://dribbble.com/shots/)
+
++ [Balcony](https://dribbble.com/shots/)
+
++ [Game boy](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Logotype](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
