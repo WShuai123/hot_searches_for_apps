@@ -49,3 +49,7 @@
 
 + [CrowdStrike的库加载和快速升级机制的分析笔记](https://www.freebuf.com/articles/network/407814.html)
 
++ [密评 | IPSec流量包分析以及对各个消息的手工解析](https://www.freebuf.com/articles/database/401329.html)
+
++ [jwt伪造身份组组组合拳艰难通关](https://www.freebuf.com/vuls/408165.html)
+
