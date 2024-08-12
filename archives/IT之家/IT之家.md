@@ -31,3 +31,5 @@
 
 + [古尔曼：iPhone 16 系列调整不大，苹果明年有望推出 iPhone 17“Air”](https://m.ithome.com/html/787782.htm)
 
++ [“小孩”曾卓君夺得 2024 电竞世界杯《街霸 6》项目冠军，30 万美元收入囊中](https://m.ithome.com/html/787786.htm)
+

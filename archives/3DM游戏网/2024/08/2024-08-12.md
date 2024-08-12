@@ -117,3 +117,23 @@
 
 + [爆料者称《黑神话》很棒 但可能不会成为年度游戏](https://www.3dmgame.com/news/202408/3901617.html)
 
++ [韩国模拟游戏《inZOI》新截图 捏出性感美女玩](https://www.3dmgame.com/news/202408/3901629.html)
+
++ [《人格解体》登陆Steam 克苏鲁背景跑团](https://www.3dmgame.com/news/202408/3901628.html)
+
++ [《妮姬：胜利女神》宣布联动《新世纪福音战士》 上线时间待定](https://www.3dmgame.com/news/202408/3901627.html)
+
++ [Tango IP《恶灵附身》《幽灵线：东京》仍然归微软所有](https://www.3dmgame.com/news/202408/3901626.html)
+
++ [《无主之地》改编真人电影首映日票房收入仅达400万美元](https://www.3dmgame.com/news/202408/3901625.html)
+
++ [《Gunner-chan!》Steam页面上线 2.5D动作射击](https://www.3dmgame.com/news/202408/3901624.html)
+
++ [战神之父和前暴雪总裁都很期待《黑神话》：太酷想玩](https://www.3dmgame.com/news/202408/3901623.html)
+
++ [《魔戒：咕噜》发行商宣布不再与Sweet Baby合作](https://www.3dmgame.com/news/202408/3901621.html)
+
++ [《星空》陆地越野车实机视频泄漏](https://www.3dmgame.com/news/202408/3901620.html)
+
++ [《完美音浪》续作有了？PUBG公司Krafton收购Tango Gameworks](https://www.3dmgame.com/news/202408/3901622.html)
+
