@@ -211,3 +211,9 @@
 
 + [3.Vue(组件+路由+跨域请求)](https://blog.csdn.net/m0_61086522/article/details/141093445)
 
++ [时序预测|基于变分模态分解-时域卷积-双向长短期记忆-注意力机制多变量时间序列预测VMD-TCN-BiLSTM-Attention](https://blog.csdn.net/2401_86241083/article/details/141073435)
+
++ [2024年实验班选拔考试（正式赛）](https://blog.csdn.net/qq_60256199/article/details/141089599)
+
++ [【C++】 类型转换深度探索：揭开类型转换的奥秘](https://blog.csdn.net/weixin_50776420/article/details/141104933)
+
