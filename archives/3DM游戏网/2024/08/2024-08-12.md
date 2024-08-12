@@ -111,3 +111,9 @@
 
 + [两种形态自由切换 《怪物猎人：荒野》盾斧登场](https://www.3dmgame.com/news/202408/3901612.html)
 
++ [消息称《黑神话》评测代码已发放 8月16日解禁](https://www.3dmgame.com/news/202408/3901619.html)
+
++ [《使命召唤21》僵尸模式新截图 爬虫和融合怪让人颤栗](https://www.3dmgame.com/news/202408/3901618.html)
+
++ [爆料者称《黑神话》很棒 但可能不会成为年度游戏](https://www.3dmgame.com/news/202408/3901617.html)
+

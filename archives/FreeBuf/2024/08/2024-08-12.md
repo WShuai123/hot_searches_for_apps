@@ -41,3 +41,7 @@
 
 + [Volana：一款基于Go开发的Shell命令代码混淆工具](https://www.freebuf.com/sectool/408163.html)
 
++ [FreeBuf早报 | AI从暗网收集威胁情报准确率达98%；国内大量家用路由器遭DNS劫持](https://www.freebuf.com/news/408266.html)
+
++ [CVE-2023-44487漏洞复现](https://www.freebuf.com/vuls/407757.html)
+
