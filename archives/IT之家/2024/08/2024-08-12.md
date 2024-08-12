@@ -47,3 +47,5 @@
 
 + [AI 美女全军覆没：赛博照妖镜下集体变“鬼”，AI 代码拆台 AI 生图](https://m.ithome.com/html/787879.htm)
 
++ [国务院：到 2035 年，新能源汽车成为新销售车辆的主流](https://m.ithome.com/html/787765.htm)
+

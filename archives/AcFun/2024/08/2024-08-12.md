@@ -105,3 +105,7 @@
 
 + [爱尔兰夫妇：我们在中国最疯狂的冒险：虎跳峡  | 丽江EP3 虎跳峡](http://www.acfun.cn/v/ac46082881)
 
++ [瘦成这种骨架，真的会有人喜欢吗?](http://www.acfun.cn/v/ac46082552)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.6](http://www.acfun.cn/v/ac46084812)
+
