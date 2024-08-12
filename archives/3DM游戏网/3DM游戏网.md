@@ -239,3 +239,11 @@
 
 + [《怪物猎人：荒野》“大锤”武器介绍 兼具破坏力和机动力](https://www.3dmgame.com/news/202408/3901658.html)
 
++ [《新星漂移》登陆Steam 好评奇幻太空战斗](https://www.3dmgame.com/news/202408/3901664.html)
+
++ [腾讯回应微信自动清理3天未读消息：未接收会清理](https://www.3dmgame.com/news/202408/3901663.html)
+
++ [招聘信息暗示《战地》新作或将有开放世界玩法](https://www.3dmgame.com/news/202408/3901665.html)
+
++ [美国大学新研究 人类寿命有望能延长至130岁](https://www.3dmgame.com/news/202408/3901662.html)
+

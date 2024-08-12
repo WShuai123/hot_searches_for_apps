@@ -49,3 +49,9 @@
 
 + [国务院：到 2035 年，新能源汽车成为新销售车辆的主流](https://m.ithome.com/html/787765.htm)
 
++ [微信自动清理 3 天未读消息引热议，官方回应“已接收内容可永久保存”](https://m.ithome.com/html/787941.htm)
+
++ [王自如被限制高消费，此前被法院强制执行 3383 万元](https://m.ithome.com/html/787964.htm)
+
++ [零刻 GTi12 UItra 迷你主机开售：i9-12900H + 双 2.5G 网口，2599 元起](https://m.ithome.com/html/787767.htm)
+
