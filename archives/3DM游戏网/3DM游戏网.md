@@ -113,3 +113,15 @@
 
 + [恐怖电影《月光光心慌慌》游戏开发中 虚幻5打造](https://www.3dmgame.com/news/202408/3901684.html)
 
++ [Valve新作《Deadlock》还未发布在线人数已破万](https://www.3dmgame.com/news/202408/3901690.html)
+
++ [泡泡玛特即将推出《双人成行》高精度模型](https://www.3dmgame.com/news/202408/3901689.html)
+
++ [免费序章《虐杀熔炉：竞技场》发布上市宣传片](https://www.3dmgame.com/news/202408/3901688.html)
+
++ [尽管电影口碑翻车 但《无主之地4》已在路上](https://www.3dmgame.com/news/202408/3901687.html)
+
++ [消息称本周五即将揭晓《原神》动画宣传片](https://www.3dmgame.com/news/202408/3901686.html)
+
++ [系列新作战略SRPG《MUV-LUV TACTICS》公布](https://www.3dmgame.com/news/202408/3901685.html)
+
