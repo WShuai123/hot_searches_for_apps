@@ -101,3 +101,7 @@
 
 + [NEOWIZ的《追逐末日之光》将参加BIC Festival 2024](https://www.3dmgame.com/news/202408/3901648.html)
 
++ [好评如潮《泰坦陨落2》Steam史低促销 仅售15.8元](https://www.3dmgame.com/news/202408/3901679.html)
+
++ [泰国为奥运奖牌得主发重奖：额外提供20年工资](https://www.3dmgame.com/news/202408/3901680.html)
+

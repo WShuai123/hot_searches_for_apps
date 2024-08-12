@@ -101,3 +101,35 @@
 
 + [elasticsearch集成springboot详细使用](https://blog.csdn.net/crazy123456789/article/details/141091197)
 
++ [【机器学习】卷积神经网络简介](https://blog.csdn.net/qq_44214428/article/details/141088652)
+
++ [数学建模优化算法——遗传算法](https://blog.csdn.net/m0_74460625/article/details/141141119)
+
++ [在亚马逊云科技上利用生成式AI开发用户广告营销平台](https://blog.csdn.net/m0_66628975/article/details/141128470)
+
++ [基于SpringBoot和Leaflet的全国省会城市风景区分布分析实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/141112624)
+
++ [2024自动驾驶(多模态)大模型综述：从DriveGPT4、DriveMLM到DriveLM、DriveVLM](https://blog.csdn.net/v_JULY_v/article/details/141113628)
+
++ [Nginx + PHP 8.0支持视频上传](https://blog.csdn.net/q123q123q_/article/details/141090448)
+
++ [【MySQL】数据库约束和多表查询](https://blog.csdn.net/m0_74336101/article/details/141128214)
+
++ [【传知代码】MSA+抑郁症模型总结 三（论文复现）](https://blog.csdn.net/qq_53123067/article/details/141107244)
+
++ [SpringBoot Web开发（请求，响应，分层解耦）](https://blog.csdn.net/2303_80480614/article/details/141068379)
+
++ [【MySQL】视图——视图、视图的概念、为什么要使用视图、视图的基本使用、视图规则和限制](https://blog.csdn.net/Crocodile1006/article/details/141097237)
+
++ [Python爬虫——爬取bilibili中的视频](https://blog.csdn.net/weixin_73504499/article/details/141111117)
+
++ [Android网络库：Volley、Retrofit和OkHttp的比较与应用](https://blog.csdn.net/mba16c35/article/details/141093849)
+
++ [CentOS 7设置静态IP地址的详细指南](https://blog.csdn.net/Li_WenZhang/article/details/141072921)
+
++ [【大学物理】第7章 机械波，平面简谐波的方程，能流密度，惠更斯原理，波的叠加原理，波的干涉，驻波，多普勒原理（清华大学）](https://blog.csdn.net/persona5joker/article/details/140730211)
+
++ [【MySQL】详解数据库约束、聚合查询和联合查询](https://blog.csdn.net/yican2580/article/details/141112435)
+
++ [【javaWeb技术】·外卖点餐小程序（脚手架学习2·脚手架运行）](https://blog.csdn.net/m0_67656158/article/details/141062047)
+
