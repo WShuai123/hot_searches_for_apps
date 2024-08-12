@@ -139,3 +139,7 @@
 
 + [四种应用层协议——MQTT、CoAP、WebSockets和HTTP——在工业物联网监控系统中的性能比较](https://blog.csdn.net/bit_mike/article/details/141092191)
 
++ [AI Edge Torch - PyTorch 模型转换为 TensorFlow Lite 模型 (.tflite)](https://blog.csdn.net/chengyq116/article/details/141143243)
+
++ [[HTML5] 一文读懂H5新特性的应用](https://blog.csdn.net/SDFsoul/article/details/141144219)
+

@@ -128,3 +128,25 @@
 
 + [A lil fart ????](https://dribbble.com/shots/)
 
++ [NYC](https://dribbble.com/shots/)
+
++ [Worms](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [The Cowtown Road-Runner](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [The City is Alive, a Puzzle ????](https://dribbble.com/shots/)
+
++ [Cozy Farm](https://dribbble.com/shots/)
+
++ [Asian Madonna](https://dribbble.com/shots/)
+
++ [Don't Fly Too Close](https://dribbble.com/shots/)
+
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Bike Team](https://dribbble.com/shots/)
+
