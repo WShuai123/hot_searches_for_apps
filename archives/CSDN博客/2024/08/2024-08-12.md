@@ -177,3 +177,7 @@
 
 + [揭开数据可视化的神秘面纱：《Python数据可视化：科技图表绘制》深度解析](https://blog.csdn.net/a1657054242/article/details/141095357)
 
++ [Redis7.0.15 主从复制、哨兵模式搭建](https://blog.csdn.net/qq_44870331/article/details/141098923)
+
++ [Vue3从零开始——如何巧妙使用setup语法糖、computed函数和watch函数](https://blog.csdn.net/weixin_73588491/article/details/141109939)
+

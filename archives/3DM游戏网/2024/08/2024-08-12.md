@@ -169,3 +169,5 @@
 
 + [《海贼王》斩获新吉尼斯纪录 TV动画DVD发行数量最多](https://www.3dmgame.com/news/202408/3901643.html)
 
++ [《恶魔失眠》Steam抢先体验将开 恐怖合作FPS](https://www.3dmgame.com/news/202408/3901646.html)
+
