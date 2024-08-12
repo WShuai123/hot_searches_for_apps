@@ -105,3 +105,11 @@
 
 + [泰国为奥运奖牌得主发重奖：额外提供20年工资](https://www.3dmgame.com/news/202408/3901680.html)
 
++ [《切尔诺贝利人2：禁区》面向主机/PC公布](https://www.3dmgame.com/news/202408/3901681.html)
+
++ [《潜行者2》开发者深度探索35分钟超长实机视频](https://www.3dmgame.com/news/202408/3901682.html)
+
++ [快节奏射击游戏《救国少女之斯娜静歌》8/27推出](https://www.3dmgame.com/news/202408/3901683.html)
+
++ [恐怖电影《月光光心慌慌》游戏开发中 虚幻5打造](https://www.3dmgame.com/news/202408/3901684.html)
+

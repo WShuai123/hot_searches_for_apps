@@ -135,3 +135,7 @@
 
 + [【Spark集群部署系列二】Spark StandAlone模式介绍和搭建以及使用](https://blog.csdn.net/qq_65231448/article/details/141137410)
 
++ [校园资讯微信小程序的设计与开发](https://blog.csdn.net/universsky2015/article/details/141145626)
+
++ [四种应用层协议——MQTT、CoAP、WebSockets和HTTP——在工业物联网监控系统中的性能比较](https://blog.csdn.net/bit_mike/article/details/141092191)
+
