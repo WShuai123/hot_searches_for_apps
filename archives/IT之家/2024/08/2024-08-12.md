@@ -63,3 +63,5 @@
 
 + [国产科幻大片《流浪地球 2》3D 版本和纪录片官宣 9 月 15 日中秋档上映](https://m.ithome.com/html/787838.htm)
 
++ [小米有品 469 元：小米 Redmi 显示器 A24 百亿补贴 399 元](https://m.ithome.com/html/787936.htm)
+

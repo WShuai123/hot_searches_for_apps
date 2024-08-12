@@ -137,3 +137,11 @@
 
 + [举重 女子81公斤以上级 决赛](http://www.acfun.cn/v/ac46084023)
 
++ [Acer们，出来爬山啊！欢乐八点档-1009](http://www.acfun.cn/v/ac46086617)
+
++ [韩服最强王者菁英对决 #2546](http://www.acfun.cn/v/ac46083754)
+
++ [篮球 女篮 决赛 法国VS美国](http://www.acfun.cn/v/ac46084182)
+
++ [【2025年夏】幻想万华镜 第19话制作告知PV【MCE汉化组】](http://www.acfun.cn/v/ac46083578)
+
