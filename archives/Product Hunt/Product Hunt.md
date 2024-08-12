@@ -103,3 +103,27 @@
 
 + [Salesify](https://www.producthunt.com/posts/salesify)
 
++ [Google Vids](https://www.producthunt.com/posts/google-vids-2)
+
++ [Reverie](https://www.producthunt.com/posts/reverie-4)
+
++ [Ultra AI](https://www.producthunt.com/posts/ultra-ai)
+
++ [Just Wallet](https://www.producthunt.com/posts/just-wallet)
+
++ [Fred - The UXR shepherd](https://www.producthunt.com/posts/fred-the-uxr-shepherd)
+
++ [LocalizeYourApp](https://www.producthunt.com/posts/localizeyourapp)
+
++ [FlowPrompter](https://www.producthunt.com/posts/flowprompter)
+
++ [Kablio](https://www.producthunt.com/posts/kablio)
+
++ [Folio Wallet App](https://www.producthunt.com/posts/folio-wallet-app)
+
++ [Indie Hacker Stacks](https://www.producthunt.com/posts/indie-hacker-stacks)
+
++ [Jupitrr AI](https://www.producthunt.com/posts/jupitrr-ai)
+
++ [OneSuite](https://www.producthunt.com/posts/onesuite-2)
+

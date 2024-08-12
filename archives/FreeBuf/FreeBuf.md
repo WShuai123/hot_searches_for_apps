@@ -55,3 +55,5 @@
 
 + [恶意软件C&C服务通信通道探索篇](https://www.freebuf.com/articles/system/407750.html)
 
++ [如何使用Extrude分析和检测二进制源码中的安全问题](https://www.freebuf.com/sectool/408187.html)
+

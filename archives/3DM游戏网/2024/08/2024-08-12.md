@@ -171,3 +171,9 @@
 
 + [《恶魔失眠》Steam抢先体验将开 恐怖合作FPS](https://www.3dmgame.com/news/202408/3901646.html)
 
++ [美国失眠症退伍军人三天连玩《魔兽世界》破世界纪录](https://www.3dmgame.com/news/202408/3901649.html)
+
++ [NEOWIZ的《追逐末日之光》将参加BIC Festival 2024](https://www.3dmgame.com/news/202408/3901648.html)
+
++ [奖项再加一 《博德之门3》获2024年雨果奖最佳游戏奖](https://www.3dmgame.com/news/202408/3901647.html)
+
