@@ -13,3 +13,5 @@
 
 + [四年一度！百度奥运活动来了！](https://www.ui.cn/detail/665985.html)
 
++ [丰田汽车AI视频-国内首部汽车类AI视频（类TVC）项目复盘](https://www.ui.cn/detail/665214.html)
+

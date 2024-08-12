@@ -159,3 +159,13 @@
 
 + [机器学习——支持向量机（SVM）（1）](https://blog.csdn.net/CXDNW/article/details/141099092)
 
++ [自动驾驶的一些大白话讲解](https://blog.csdn.net/qq_40896190/article/details/141062863)
+
++ [基于深度学习的面部关键点识别系统](https://blog.csdn.net/andrew_extra/article/details/141093230)
+
++ [什么是网关？网关有什么作用？](https://blog.csdn.net/qq_56734304/article/details/141093214)
+
++ [数据仓库详解（第63天）](https://blog.csdn.net/syhiiu/article/details/141072733)
+
++ [mac要装虚拟机吗](https://blog.csdn.net/tubage2023/article/details/141098006)
+

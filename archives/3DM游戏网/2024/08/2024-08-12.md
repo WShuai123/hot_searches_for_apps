@@ -149,3 +149,15 @@
 
 + [动画《石纪元》最终季2025年开播 分割为三季度](https://www.3dmgame.com/news/202408/3901635.html)
 
++ [面对武器削弱玩家再度失望 《绝地潜兵2》CEO回应：有些变化需要时间显现](https://www.3dmgame.com/news/202408/3901639.html)
+
++ [“小孩”曾卓君夺得电竞世界杯《街头霸王6》项目冠军](https://www.3dmgame.com/news/202408/3901640.html)
+
++ [时隔28年 周星驰电影《食神》内地定档8月31日](https://www.3dmgame.com/news/202408/3901641.html)
+
++ [《燕云十六声》多种游戏玩法曝光 浪漫景点鹊仙桥](https://www.3dmgame.com/news/202408/3901636.html)
+
++ [《tramstertram》PC免费发布 迷你街道电车建设](https://www.3dmgame.com/news/202408/3901637.html)
+
++ [《饿狼传说：狼之城》双叶萤角色预告 寻找哥哥的少女](https://www.3dmgame.com/news/202408/3901638.html)
+

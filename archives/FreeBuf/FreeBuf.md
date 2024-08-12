@@ -47,3 +47,9 @@
 
 + [Java代码审计实战篇：超详细分享文件上传](https://www.freebuf.com/vuls/407781.html)
 
++ [AWS多项服务存在漏洞，能让攻击者完全控制账户](https://www.freebuf.com/news/408363.html)
+
++ [新型Mac窃取程序"AMOS"冒充Loom，瞄准加密货币钱包](https://www.freebuf.com/news/408362.html)
+
++ [微软披露Office最新零日漏洞，可能导致数据泄露](https://www.freebuf.com/news/408346.html)
+
