@@ -247,3 +247,11 @@
 
 + [美国大学新研究 人类寿命有望能延长至130岁](https://www.3dmgame.com/news/202408/3901662.html)
 
++ [英国皇家铸币厂开拓新业务 从电子垃圾上提取黄金](https://www.3dmgame.com/news/202408/3901670.html)
+
++ [周鸿祎：360做网络安全是天命 但确实不赚钱](https://www.3dmgame.com/news/202408/3901667.html)
+
++ [无损外接桌面独显!零刻专用EX显卡扩展坞开售：599元](https://www.3dmgame.com/news/202408/3901668.html)
+
++ [亚洲版《数码方块地球防卫军 2》将针对PS®Plus高级会员提供试玩版！](https://www.3dmgame.com/news/202408/3901666.html)
+

@@ -55,3 +55,9 @@
 
 + [零刻 GTi12 UItra 迷你主机开售：i9-12900H + 双 2.5G 网口，2599 元起](https://m.ithome.com/html/787767.htm)
 
++ [龙芯中科胡伟武：3B6600 八核桌面 CPU 性能将达到英特尔中高端酷睿 12~13 代水平](https://m.ithome.com/html/787794.htm)
+
++ [男子打 1400 公里顺风车逃单 2800 元，哈啰回应称“将协助车主挽回损失”](https://m.ithome.com/html/787935.htm)
+
++ [小米智能门锁 2 系列“旗舰新品”官宣明日发布，内嵌显示屏 / 支持人脸解锁](https://m.ithome.com/html/787832.htm)
+

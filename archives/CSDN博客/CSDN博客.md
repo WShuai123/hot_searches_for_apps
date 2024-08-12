@@ -197,3 +197,11 @@
 
 + [Springboot 定时任务 @EnableScheduling @Scheduled](https://blog.csdn.net/qq_42572322/article/details/141098645)
 
++ [本地部署Code Llama大模型结合Text generation Web UI远程运行LLM](https://blog.csdn.net/qyj19920704/article/details/141134400)
+
++ [基于Python爬虫+机器学习的长沙市租房价格预测研究](https://blog.csdn.net/m0_64336780/article/details/139832111)
+
++ [C++第一讲：开篇](https://blog.csdn.net/2301_79761834/article/details/141090267)
+
++ [使用Python和Proxy302代理IP高效采集Bing图片](https://blog.csdn.net/qq_44273429/article/details/141130340)
+

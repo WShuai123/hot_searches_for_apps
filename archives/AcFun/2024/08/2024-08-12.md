@@ -125,3 +125,11 @@
 
 + [将我美好的心意送给你♡Panorama♡](http://www.acfun.cn/v/ac46079837)
 
++ [【AC独家】独属于acer的娃娃脸](http://www.acfun.cn/v/ac46087299)
+
++ [某底边小V的出道五周年纪念！](http://www.acfun.cn/v/ac46083767)
+
++ [【游戏杂谈】索尼克冷门游戏——纳克鲁斯与卡欧迪克斯](http://www.acfun.cn/v/ac46084089)
+
++ [奈良不仅有鹿，还有这家大型复古经典街机厅（第二集）](http://www.acfun.cn/v/ac46086976)
+
