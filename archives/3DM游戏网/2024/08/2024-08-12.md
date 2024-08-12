@@ -255,3 +255,7 @@
 
 + [亚洲版《数码方块地球防卫军 2》将针对PS®Plus高级会员提供试玩版！](https://www.3dmgame.com/news/202408/3901666.html)
 
++ [传AMD放弃推出RX 7400和7300两款入门级GPU 专注于RDNA 4](https://www.3dmgame.com/news/202408/3901672.html)
+
++ [沙盒侦探游戏《凶影疑云》将于9月26日离开抢先体验正式发售](https://www.3dmgame.com/news/202408/3901671.html)
+
