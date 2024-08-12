@@ -53,3 +53,5 @@
 
 + [微软披露Office最新零日漏洞，可能导致数据泄露](https://www.freebuf.com/news/408346.html)
 
++ [恶意软件C&C服务通信通道探索篇](https://www.freebuf.com/articles/system/407750.html)
+

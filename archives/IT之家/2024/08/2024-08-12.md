@@ -37,3 +37,5 @@
 
 + [OPPO Find X7 Ultra 升级 760 版本后出现快充失效、充电慢等问题，官方回应“正在解决中”](https://m.ithome.com/html/787768.htm)
 
++ [周星驰经典电影《食神》时隔 28 年内地首次上映：定档 8 月 31 日，全新修复版本](https://m.ithome.com/html/787849.htm)
+

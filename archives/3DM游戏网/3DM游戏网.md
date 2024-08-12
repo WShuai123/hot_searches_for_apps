@@ -161,3 +161,11 @@
 
 + [《饿狼传说：狼之城》双叶萤角色预告 寻找哥哥的少女](https://www.3dmgame.com/news/202408/3901638.html)
 
++ [曝印度制造iPhone零件仅一半合格 迫使苹果降价促销](https://www.3dmgame.com/news/202408/3901645.html)
+
++ [城市建造经营模拟游戏《克苏鲁的信徒》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3901644.html)
+
++ [铁路模拟游戏《火车山谷 世界》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901642.html)
+
++ [《海贼王》斩获新吉尼斯纪录 TV动画DVD发行数量最多](https://www.3dmgame.com/news/202408/3901643.html)
+

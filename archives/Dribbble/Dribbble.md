@@ -180,3 +180,23 @@
 
 + [The Little Prince](https://dribbble.com/shots/)
 
++ [Sincere - Furniture Website](https://dribbble.com/shots/)
+
++ [eCommerce Mobile Responsive](https://dribbble.com/shots/)
+
++ [Detto - Dating Mobile App](https://dribbble.com/shots/)
+
++ [Customer Journey CRM Dashboard](https://dribbble.com/shots/)
+
++ [Orbit : Marketing Agency - Visual Identity](https://dribbble.com/shots/)
+
++ [Architecture Agency Landing Page](https://dribbble.com/shots/)
+
++ [PawPal - Pet Shop Mobile APP](https://dribbble.com/shots/)
+
++ [Personal Portfolio Design](https://dribbble.com/shots/)
+
++ [Droid Mania](https://dribbble.com/shots/)
+
++ [macOS | Custom Widget 2.0](https://dribbble.com/shots/)
+

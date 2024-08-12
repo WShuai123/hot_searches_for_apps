@@ -169,3 +169,11 @@
 
 + [mac要装虚拟机吗](https://blog.csdn.net/tubage2023/article/details/141098006)
 
++ [Java全栈解密：从JVM内存管理到Spring框架，揭秘垃圾回收、类加载机制与Web开发精髓的全方位旅程](https://blog.csdn.net/tulingtuling/article/details/139325393)
+
++ [Spring中存对象和取对象](https://blog.csdn.net/m0_51821434/article/details/141097394)
+
++ [Spring声明式事务失效场景](https://blog.csdn.net/lhg_55/article/details/141055867)
+
++ [揭开数据可视化的神秘面纱：《Python数据可视化：科技图表绘制》深度解析](https://blog.csdn.net/a1657054242/article/details/141095357)
+
