@@ -157,3 +157,5 @@
 
 + [基于SpringBoot+UniAPP宠物食品外卖点单小程序的设计与实现》](https://blog.csdn.net/gzg1500521074/article/details/141059061)
 
++ [机器学习——支持向量机（SVM）（1）](https://blog.csdn.net/CXDNW/article/details/141099092)
+
