@@ -185,3 +185,57 @@
 
 + [《８幡入口》Steam页面上线 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3901650.html)
 
++ [双人合作银河恶魔城游戏《Anima Flux》明年上市](https://www.3dmgame.com/news/202312/3884905.html)
+
++ [《房产达人2》现已登陆Steam 主机版3月发售](https://www.3dmgame.com/news/202312/3884903.html)
+
++ [回合恋爱游戏《诺瓦之心》明年夏季发售 开篇免费](https://www.3dmgame.com/news/202312/3884904.html)
+
++ [虚幻5赛博朋克动作游戏《烟烟罗》新实机内容展示](https://www.3dmgame.com/news/202312/3884901.html)
+
++ [《微软飞行模拟》空客A300推出 飞鸿100测试中](https://www.3dmgame.com/news/202312/3884902.html)
+
++ [韩国动作冒险游戏《星刃》推迟到2024年发行](https://www.3dmgame.com/news/202312/3884899.html)
+
++ [《装甲核心6：境界天火》获得“简单”难度剧情Mod](https://www.3dmgame.com/news/202312/3884900.html)
+
++ [Epic喜加一：《喵咪斗恶龙》免费领](https://www.3dmgame.com/news/202312/3884898.html)
+
++ [龙年中国合规版RTX 4090D正式发布：性能差5％！](https://www.3dmgame.com/news/202312/3884896.html)
+
++ [PlayStation推荐明年上半年入手的游戏 《浪人崛起》等](https://www.3dmgame.com/news/202312/3884895.html)
+
++ [动画《筋肉人完璧超人始祖編》将于2024年播出](https://www.3dmgame.com/news/202312/3884906.html)
+
++ [剧场版动画《高达SEED 自由》​发布全新预告](https://www.3dmgame.com/news/202312/3884907.html)
+
++ [外媒评PS4平台12款最佳独占游戏 《战神4》等](https://www.3dmgame.com/news/202312/3884894.html)
+
++ [PlayStation官方博客发文 预览2024年亮点内容](https://www.3dmgame.com/news/202312/3884911.html)
+
++ [苹果Apple Watch在美禁售令暂停 至少到明年1月10日](https://www.3dmgame.com/news/202312/3884893.html)
+
++ [索尼CES发布会1月9日举行 或将有PS新消息](https://www.3dmgame.com/news/202312/3884913.html)
+
++ [《美国狼人在LA》Steam页面 支持简体中文](https://www.3dmgame.com/news/202312/3884912.html)
+
++ [《DOTA2》新一届别墅杯宣布 明年2月迪拜开打](https://www.3dmgame.com/news/202312/3884910.html)
+
++ [粉丝希望《星之海洋3》重制 SE：已知晓 但目前没有任何承诺](https://www.3dmgame.com/news/202312/3884909.html)
+
++ [DF评2023年移植最差的PC游戏 前三名都是EA游戏](https://www.3dmgame.com/news/202312/3884908.html)
+
++ [山西文旅宣布联动《黑神话》：知道你很急 但先别急](https://www.3dmgame.com/news/202408/3901661.html)
+
++ [美国运动员公开吐槽巴黎奥运会奖牌已掉色引围观：官方回应了](https://www.3dmgame.com/news/202408/3901660.html)
+
++ [《名侦探柯南：百万美元的五棱星》3DM观影圆满结束](https://www.3dmgame.com/news/202408/3901657.html)
+
++ [《平稳世代的韦驮天们》漫画连载完结 单行本第9卷秋季推出](https://www.3dmgame.com/news/202408/3901656.html)
+
++ [《失乐园卡牌》登陆Steam 群像剧视觉小说新游](https://www.3dmgame.com/news/202408/3901655.html)
+
++ [Intel：新U计划不变、秋天有重大发布！](https://www.3dmgame.com/news/202408/3901659.html)
+
++ [《怪物猎人：荒野》“大锤”武器介绍 兼具破坏力和机动力](https://www.3dmgame.com/news/202408/3901658.html)
+

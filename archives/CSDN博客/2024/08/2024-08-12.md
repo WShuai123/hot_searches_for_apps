@@ -191,3 +191,7 @@
 
 + [Linux嵌入式学习——C++学习（2）](https://blog.csdn.net/m0_71703182/article/details/140978569)
 
++ [【深度学习与NLP】——注意力机制](https://blog.csdn.net/lxwssjszsdnr_/article/details/141093123)
+
++ [CA证书和openssl介绍](https://blog.csdn.net/xiaogengtongxu/article/details/141061128)
+
