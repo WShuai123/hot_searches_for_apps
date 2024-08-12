@@ -181,3 +181,7 @@
 
 + [Vue3从零开始——如何巧妙使用setup语法糖、computed函数和watch函数](https://blog.csdn.net/weixin_73588491/article/details/141109939)
 
++ [卷积神经网络（李宏毅老师系列）](https://blog.csdn.net/Moliay/article/details/141091756)
+
++ [【实战】Spring Security Oauth2自定义授权模式接入手机验证](https://blog.csdn.net/weixin_39970883/article/details/141065363)
+

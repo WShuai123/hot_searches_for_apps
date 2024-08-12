@@ -41,3 +41,9 @@
 
 + [长城第二代哈弗 H9 最新官图公布，全栈自研全地形系统](https://m.ithome.com/html/787750.htm)
 
++ [“小孩”曾卓君夺得 2024 电竞世界杯《街霸 6》项目冠军：8 强中有 6 个日本选手，30 万美元收入囊中](https://m.ithome.com/html/787786.htm)
+
++ [博主称因拍 MEGA 车型段子被理想汽车起诉，遭索赔 100 万元](https://m.ithome.com/html/787851.htm)
+
++ [AI 美女全军覆没：赛博照妖镜下集体变“鬼”，AI 代码拆台 AI 生图](https://m.ithome.com/html/787879.htm)
+

@@ -207,3 +207,13 @@
 
 + [西瓜视频-看短剧](https://itunes.apple.com/cn/app/id1134496215?mt=8)
 
++ [管理您的旅行](https://itunes.apple.com/cn/app/id6621190457?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [泡泡聚看](https://itunes.apple.com/cn/app/id6547838707?mt=8)
+
++ [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+

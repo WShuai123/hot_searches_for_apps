@@ -177,3 +177,11 @@
 
 + [奖项再加一 《博德之门3》获2024年雨果奖最佳游戏奖](https://www.3dmgame.com/news/202408/3901647.html)
 
++ [像素风格动作冒险游戏《先驱者真子》登录Steam平台 计划2025年推出](https://www.3dmgame.com/news/202408/3901653.html)
+
++ [恋爱综艺节目制作模拟游戏《心动小屋》上线Steam，赛博“非诚勿扰”了解一下？](https://www.3dmgame.com/news/202408/3901652.html)
+
++ [报告称游戏社区不看好《刺客信条：影》 负面情绪居多](https://www.3dmgame.com/news/202408/3901651.html)
+
++ [《８幡入口》Steam页面上线 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3901650.html)
+

@@ -127,3 +127,13 @@
 
 + [OneSuite](https://www.producthunt.com/posts/onesuite-2)
 
++ [Component Wizard](https://www.producthunt.com/posts/component-wizard)
+
++ [MySensor²](https://www.producthunt.com/posts/mysensor)
+
++ [My Insta Personality](https://www.producthunt.com/posts/my-insta-personality)
+
++ [Suno MP3 Downloader](https://www.producthunt.com/posts/suno-mp3-downloader)
+
++ [Palform](https://www.producthunt.com/posts/palform)
+
