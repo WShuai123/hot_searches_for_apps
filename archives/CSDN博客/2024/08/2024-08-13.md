@@ -133,3 +133,5 @@
 
 + [【javaWeb技术】·外卖点餐小程序（脚手架学习2·脚手架运行）](https://blog.csdn.net/m0_67656158/article/details/141062047)
 
++ [【Spark集群部署系列二】Spark StandAlone模式介绍和搭建以及使用](https://blog.csdn.net/qq_65231448/article/details/141137410)
+
