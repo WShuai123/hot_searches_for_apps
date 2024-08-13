@@ -50,3 +50,27 @@
 
 + [Bento Beatitudes | 2](https://dribbble.com/shots/)
 
++ [Beauty](https://dribbble.com/shots/)
+
++ [Mascot design](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Heyo Pattern](https://dribbble.com/shots/)
+
++ [Cubie - Mascot Development](https://dribbble.com/shots/)
+
++ [Development Illustration](https://dribbble.com/shots/)
+
++ [Guess What?](https://dribbble.com/shots/)
+
++ [Cocoa](https://dribbble.com/shots/)
+
++ [Crafty icons and illustrations](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
++ [Secret Project 001](https://dribbble.com/shots/)
+
++ [Red and dead (PSE '24)](https://dribbble.com/shots/)
+
