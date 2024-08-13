@@ -51,3 +51,5 @@
 
 + [375.12km/h，比亚迪仰望 U9 超跑新极速纪录公布](https://m.ithome.com/html/788088.htm)
 
++ [跑步和走路时什么速度燃脂效率最高？新研究见解曝光](https://m.ithome.com/html/788093.htm)
+
