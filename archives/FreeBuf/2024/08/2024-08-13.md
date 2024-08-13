@@ -55,3 +55,5 @@
 
 + [专访非夕机器人刘歆轶 | 从“海员”到“安全负责人”，他是怎么做到的？](https://www.freebuf.com/articles/people/406312.html)
 
++ [PIP-INTEL：一款多功能OSINT开源情报与数据收集工具](https://www.freebuf.com/sectool/408196.html)
+

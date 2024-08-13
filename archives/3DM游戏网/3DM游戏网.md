@@ -241,3 +241,19 @@
 
 + [动画《恶魔城：夜曲》第二季进入最后制作阶段 播出时间待定](https://www.3dmgame.com/news/202408/3901719.html)
 
++ [女神异闻录系列Steam特卖 《女神异闻录3：Reload》新史低](https://www.3dmgame.com/news/202408/3901736.html)
+
++ [《荒野大镖客》PSN商店介绍更新 意外泄露游戏将登陆PC](https://www.3dmgame.com/news/202408/3901729.html)
+
++ [《暗区突围：无限》Steam免费抢测开启 第一人称射击](https://www.3dmgame.com/news/202408/3901730.html)
+
++ [《黑神话：悟空》PC性能测试结果喜人 主创冯骥发文谈优化](https://www.3dmgame.com/news/202408/3901732.html)
+
++ [《变形金刚》推出全新青少年漫画 主角被称为史上最烂机器人](https://www.3dmgame.com/news/202408/3901731.html)
+
++ [苏丹喊你来打牌了！《苏丹的游戏》现已开启Steam商店页面](https://www.3dmgame.com/news/202408/3901733.html)
+
++ [跨次元伙伴《战盟桌面精灵》Steam商店页面现已开启！](https://www.3dmgame.com/news/202408/3901734.html)
+
++ [动作冒险游戏《暗影诅咒：地狱重制版》发售日定于10月31日！](https://www.3dmgame.com/news/202408/3901735.html)
+
