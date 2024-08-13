@@ -179,3 +179,17 @@
 
 + [【网络】从零认识IPv4](https://blog.csdn.net/2301_79796701/article/details/141123061)
 
++ [AIGC引领未来：搜索引擎、广告系统与推荐系统的重塑与革新](https://blog.csdn.net/qq_32682301/article/details/141156127)
+
++ [【人工智能】Transformers之Pipeline（九）：物体检测（object-detection）](https://blog.csdn.net/weixin_48007632/article/details/141072960)
+
++ [掌握 PyTorch 张量乘法：八个关键函数与应用场景对比解析](https://blog.csdn.net/m0_46510245/article/details/141156123)
+
++ [微服务保护（Sentinel，请求限流，线程隔离，降级策略，熔断处理）](https://blog.csdn.net/m0_73966521/article/details/141124514)
+
++ [Elasticsearch：使用 ES|QL 进行地理空间搜索](https://blog.csdn.net/UbuntuTouch/article/details/141155925)
+
++ [SpringBoot中整合RabbitMQ（测试+部署上线 最完整）](https://blog.csdn.net/qq_73440769/article/details/141097086)
+
++ [基于数据可视化+SpringBoot+Vue的社区邻里服务平台设计和实现(2025最新项目-源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141155356)
+

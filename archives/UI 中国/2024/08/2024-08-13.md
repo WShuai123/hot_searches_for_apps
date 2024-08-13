@@ -13,3 +13,5 @@
 
 + [UI 设计的 10 个细节](https://www.ui.cn/detail/666020.html)
 
++ [MEUX 「七月」 AI设计观察](https://www.ui.cn/detail/666507.html)
+

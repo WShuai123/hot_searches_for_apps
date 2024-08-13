@@ -93,3 +93,9 @@
 
 + [【ACFUN声唱2024云参赛】Donna Donna (Cover: Joan Baez)](http://www.acfun.cn/v/ac46088703)
 
++ [《黑神话：悟空》游戏性能测试](http://www.acfun.cn/v/ac46089528)
+
++ [【柯基】钢琴改编 古风陶笛曲《千年风雅》](http://www.acfun.cn/v/ac46089503)
+
++ [你的女友~君の彼女](http://www.acfun.cn/v/ac46088195)
+

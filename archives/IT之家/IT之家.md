@@ -43,3 +43,5 @@
 
 + [《黑神话：悟空》游戏评测与评分 8 月 16 日 22 点解禁](https://m.ithome.com/html/788043.htm)
 
++ [九号电动车明星产品猎户座 5Z 涉严重违法违规，3C 认证被撤销](https://m.ithome.com/html/788095.htm)
+
