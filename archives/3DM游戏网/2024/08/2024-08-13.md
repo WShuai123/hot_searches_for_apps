@@ -209,3 +209,15 @@
 
 + [像素风动作射击游戏《Nitro Express》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901708.html)
 
++ [《Dungeon Stalkers》全球测试开始，签到赠送稀有角色！](https://www.3dmgame.com/news/202408/3901714.html)
+
++ [《巫师3》杰洛特配音演员表示 他既不是叶派也不是特派而是夏妮派](https://www.3dmgame.com/news/202408/3901718.html)
+
++ [《咩咩启示录》大型更新不洁之盟免费上线 多项新内容](https://www.3dmgame.com/news/202408/3901717.html)
+
++ [《黑神话：悟空 性能测试工具》Steam页面上线 测试PC性能](https://www.3dmgame.com/news/202408/3901716.html)
+
++ [《逆转检察官1&2 御剑精选集》新介绍短片：逻辑象棋](https://www.3dmgame.com/news/202408/3901715.html)
+
++ [《狼与香辛料》TV动画未曾描绘新章启动 新艺图公布](https://www.3dmgame.com/news/202408/3901713.html)
+

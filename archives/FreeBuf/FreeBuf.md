@@ -47,3 +47,7 @@
 
 + [0Day漏洞技巧分享 | 同源打击](https://www.freebuf.com/articles/web/407780.html)
 
++ [新型钓鱼活动传播PureHVNC等恶意软件，瞄准敏感数据](https://www.freebuf.com/news/408455.html)
+
++ [FreeBSD 针对OpenSSH 高危漏洞发布紧急补丁](https://www.freebuf.com/news/408448.html)
+

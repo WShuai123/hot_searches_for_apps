@@ -33,3 +33,9 @@
 
 + [杭州警方通报“外卖小哥下跪”事件，美团称“将一管到底”](https://m.ithome.com/html/788048.htm)
 
++ [华为完成发行 40 亿元超短融，利率 1.60%](https://m.ithome.com/html/788016.htm)
+
++ [小米米家电磁炉 N1 上架：圆形机身 + 简易旋钮设计，预约价 169 元](https://m.ithome.com/html/788014.htm)
+
++ [高合自救失利：10 亿美元「救命钱」去向成谜，法院出手干预重整](https://m.ithome.com/html/787929.htm)
+

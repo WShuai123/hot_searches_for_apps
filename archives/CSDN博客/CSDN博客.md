@@ -163,3 +163,11 @@
 
 + [【微服务】Spring Cloud Alibaba 的介绍以及和主要功能](https://blog.csdn.net/jinxinxin1314/article/details/141145770)
 
++ [Spring MVC原理：掌握Web开发的核心技术](https://blog.csdn.net/qq_44771627/article/details/141143157)
+
++ [[C++][opencv]基于opencv实现photoshop算法灰度化图像](https://blog.csdn.net/FL1623863129/article/details/141143431)
+
++ [【大数据】重塑时代的核心技术及其发展历程](https://blog.csdn.net/weixin_53269650/article/details/141128931)
+
++ [【Redis进阶】Redis集群](https://blog.csdn.net/2401_83045332/article/details/141136512)
+
