@@ -303,3 +303,7 @@
 
 + [传《刺客信条》全系列游戏将移植到Switch 2 包括《刺客信条：影》](https://www.3dmgame.com/news/202408/3901758.html)
 
++ [《使命召唤21：黑色行动6》战役实机将亮相科隆展](https://www.3dmgame.com/news/202408/3901761.html)
+
++ [《无限试驾：太阳王冠》B测消息公开 正式版游戏支持两种画面模式](https://www.3dmgame.com/news/202408/3901760.html)
+
