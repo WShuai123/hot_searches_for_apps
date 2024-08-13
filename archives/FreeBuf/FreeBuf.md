@@ -45,3 +45,5 @@
 
 + [盘点危及“基础服务”的10大数据泄露事件](https://www.freebuf.com/news/408126.html)
 
++ [0Day漏洞技巧分享 | 同源打击](https://www.freebuf.com/articles/web/407780.html)
+

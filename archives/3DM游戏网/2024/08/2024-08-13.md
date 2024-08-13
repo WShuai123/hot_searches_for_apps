@@ -171,3 +171,31 @@
 
 + [《燕云十六声》官宣公测定档7月26日 承诺绝不跳票](https://www.3dmgame.com/news/202404/3892525.html)
 
++ [Steam《猫咪游戏特卖》节启动 多款新旧游戏优惠](https://www.3dmgame.com/news/202408/3901707.html)
+
++ [《刺客信条：影》女主跑酷片段发布 被批动作太飘](https://www.3dmgame.com/news/202408/3901706.html)
+
++ [俯视角射击游戏《格杀勿论》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202408/3901705.html)
+
++ [黑曜石总监表示《博德之门3》的成功并不意味着他将主导《永恒之柱》的续作](https://www.3dmgame.com/news/202408/3901704.html)
+
++ [《潜行者2》发售后将有两个付费故事DLC](https://www.3dmgame.com/news/202408/3901703.html)
+
++ [《漫威争锋》将参加科隆游戏展开幕夜直播 公布全新角色和内容](https://www.3dmgame.com/news/202408/3901702.html)
+
++ [《FANTASIAN Neo Dimension》Steam页面上线 年内发售](https://www.3dmgame.com/news/202408/3901701.html)
+
++ [《变形金刚：起源》角色海报 擎天柱威震天艾丽塔登场](https://www.3dmgame.com/news/202408/3901700.html)
+
++ [《ACE Strategy》Steam页面上线 机甲卡牌战斗](https://www.3dmgame.com/news/202408/3901699.html)
+
++ [《潜行者2》海量新细节：没有升级系统 故事取决于你的选择](https://www.3dmgame.com/news/202408/3901698.html)
+
++ [《Eight Dragons 2》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901697.html)
+
++ [Arkane创始人认为《上古卷轴5》是一款沉浸式模拟游戏](https://www.3dmgame.com/news/202408/3901696.html)
+
++ [《切尔诺贝利人2》新截图和配置公开 推荐2070Super](https://www.3dmgame.com/news/202408/3901695.html)
+
++ [恐怖游戏《野狗子》全新截图 诡异红色面具人](https://www.3dmgame.com/news/202408/3901694.html)
+
