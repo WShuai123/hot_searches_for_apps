@@ -63,3 +63,5 @@
 
 + [挖了这么久才发现，漏洞挖掘可以更简单](https://www.freebuf.com/fevents/408519.html)
 
++ [FreeBuf公开课上新啦 | 限时特惠！9.9元解锁线下演讲精彩实录](https://www.freebuf.com/open/408449.html)
+

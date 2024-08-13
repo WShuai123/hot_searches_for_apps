@@ -208,3 +208,27 @@
 
 + [The blue](https://dribbble.com/shots/)
 
++ [99finder — Brand Identity](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 3)](https://dribbble.com/shots/)
+
++ [Zenpay - Finance Landing Page](https://dribbble.com/shots/)
+
++ [Focus widget for OS launcher](https://dribbble.com/shots/)
+
++ [Sidebar Prototype](https://dribbble.com/shots/)
+
++ [Espresso yourself](https://dribbble.com/shots/)
+
++ [Summer Athletics](https://dribbble.com/shots/)
+
++ [Pickle - Illustrations](https://dribbble.com/shots/)
+
++ [VR Vision Landing Page](https://dribbble.com/shots/)
+
++ [Padmasana - Yoga and Meditation  Website Exploration](https://dribbble.com/shots/)
+
++ [Souln - Real estate, Logo design, Brand identity](https://dribbble.com/shots/)
+
++ [Eyeball Branding](https://dribbble.com/shots/)
+
