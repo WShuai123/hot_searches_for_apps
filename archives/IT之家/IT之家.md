@@ -39,3 +39,7 @@
 
 + [高合自救失利：10 亿美元「救命钱」去向成谜，法院出手干预重整](https://m.ithome.com/html/787929.htm)
 
++ [《黑神话：悟空》官方性能测试工具免费上架 Steam，你的电脑能不能玩一测便知](https://m.ithome.com/html/788079.htm)
+
++ [《黑神话：悟空》游戏评测与评分 8 月 16 日 22 点解禁](https://m.ithome.com/html/788043.htm)
+

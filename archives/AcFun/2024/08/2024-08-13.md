@@ -85,3 +85,11 @@
 
 + [主角穿越时空后看见自己的尸体，但下一幕让BOSS都沉默了！](http://www.acfun.cn/v/ac46088917)
 
++ [【战锤40K：暗潮】发售宣传片中文配音——【张遥函配音】](http://www.acfun.cn/v/ac46088763)
+
++ [特厨探店 |居民楼下二十年老店—长春樱花小吃](http://www.acfun.cn/v/ac46072772)
+
++ [韩服最强王者菁英对决 #2547](http://www.acfun.cn/v/ac46088090)
+
++ [【ACFUN声唱2024云参赛】Donna Donna (Cover: Joan Baez)](http://www.acfun.cn/v/ac46088703)
+

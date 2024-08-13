@@ -51,3 +51,5 @@
 
 + [FreeBSD 针对OpenSSH 高危漏洞发布紧急补丁](https://www.freebuf.com/news/408448.html)
 
++ [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
+
