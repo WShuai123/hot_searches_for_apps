@@ -27,3 +27,5 @@
 
 + [哪吒 S 猎装车型开启预售：增程版 17.59 万元起，后续将推 800V 纯电版](https://m.ithome.com/html/788038.htm)
 
++ [消息称苹果 iPhone SE 4 手机有望配备 8GB RAM 以满足 Apple Intelligence 性能要求](https://m.ithome.com/html/788264.htm)
+

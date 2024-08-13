@@ -111,3 +111,7 @@
 
 + [MySQL事务](https://blog.csdn.net/bushibrnxiaohaij/article/details/141169797)
 
++ [超算互联网-Stable Diffusion 2.1文生图教程](https://blog.csdn.net/weixin_41793160/article/details/141144020)
+
++ [[Spring] Spring事务与事务的传播](https://blog.csdn.net/2301_80050796/article/details/141071668)
+
