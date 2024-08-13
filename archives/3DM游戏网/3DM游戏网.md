@@ -125,3 +125,49 @@
 
 + [系列新作战略SRPG《MUV-LUV TACTICS》公布](https://www.3dmgame.com/news/202408/3901685.html)
 
++ [《刺客信条：影》开发时间比英灵殿长 因育碧希望准确描述日本历史](https://www.3dmgame.com/news/202408/3901691.html)
+
++ [《刺客信条：影》引擎给力 能实现更强大光影/天气效果](https://www.3dmgame.com/news/202408/3901692.html)
+
++ [《使命召唤21：黑色行动6》僵尸模式中文预告 太酷了](https://www.3dmgame.com/news/202408/3901693.html)
+
++ [《全境封锁》首席关卡设计师加入IO《007》游戏开发](https://www.3dmgame.com/news/202404/3892506.html)
+
++ [《戴森球计划》发布载具更新预告 上线时间待定](https://www.3dmgame.com/news/202404/3892507.html)
+
++ [《炙热的岛国生活》Steam页面上线 支持中文](https://www.3dmgame.com/news/202404/3892508.html)
+
++ [《星露谷物语》下周推出1.6.4更新 新钓鱼和采矿内容](https://www.3dmgame.com/news/202404/3892509.html)
+
++ [《星球大战：法外狂徒》大量细节 有声望系统](https://www.3dmgame.com/news/202404/3892511.html)
+
++ [《传说法师2》公布全新战斗预告宣传片](https://www.3dmgame.com/news/202404/3892512.html)
+
++ [非典型赛车游戏《WHAT THE CAR?》9月5日发售 demo上线](https://www.3dmgame.com/news/202404/3892513.html)
+
++ [EA辟谣《死亡空间2：重制版》被取消：传言毫无根据](https://www.3dmgame.com/news/202404/3892510.html)
+
++ [动作解谜名作续篇《永不孤单2》公开 支持多人合作](https://www.3dmgame.com/news/202404/3892514.html)
+
++ [腾讯游戏《剑灵2》全新PV发布 国服预约开启](https://www.3dmgame.com/news/202404/3892515.html)
+
++ [《奇娅 Tchia》6月27日登陆Switch 开放世界冒险名作](https://www.3dmgame.com/news/202404/3892517.html)
+
++ [《鸦卫奇旅》“阿瓦隆的陨落”更新预告 4月22日上线](https://www.3dmgame.com/news/202404/3892516.html)
+
++ [动作角色扮演游戏《喵咪斗恶龙3》 开场动画公布](https://www.3dmgame.com/news/202404/3892518.html)
+
++ [《雨中冒险2》新DLC首曝细节 免费更新联动《死亡细胞》](https://www.3dmgame.com/news/202404/3892519.html)
+
++ [PS官方提醒《星刃》女主有名字：她不叫Stella](https://www.3dmgame.com/news/202404/3892520.html)
+
++ [暴雪晒1998年《暗黑破坏神1》玩家平均PC配置：看完泪奔](https://www.3dmgame.com/news/202404/3892521.html)
+
++ [德国大众CEO：中国品牌崛起太快我们跟不上节奏](https://www.3dmgame.com/news/202404/3892522.html)
+
++ [《mouse》Spike-D实机预告 2025年发售](https://www.3dmgame.com/news/202404/3892523.html)
+
++ [《地痞街道2》新实机演示预告 2024年年内登陆Steam](https://www.3dmgame.com/news/202404/3892524.html)
+
++ [《燕云十六声》官宣公测定档7月26日 承诺绝不跳票](https://www.3dmgame.com/news/202404/3892525.html)
+

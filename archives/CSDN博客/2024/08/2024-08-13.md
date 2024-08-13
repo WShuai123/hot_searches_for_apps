@@ -147,3 +147,9 @@
 
 + [【项目实战】C++视频共享点播系统](https://blog.csdn.net/weixin_55582891/article/details/141126660)
 
++ [WUP-CH34X ch34x系列芯片USB转串口通信uniapp插件使用说明](https://blog.csdn.net/Douz_lungfish/article/details/141093086)
+
++ [RocketMQ 是什么？它的架构是怎样的？和 Kafka 有什么区别？](https://blog.csdn.net/weixin_43281498/article/details/141144784)
+
++ [数据可视化（爬取豆瓣网站）](https://blog.csdn.net/weixin_45506061/article/details/141098379)
+
