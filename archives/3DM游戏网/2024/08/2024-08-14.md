@@ -101,3 +101,21 @@
 
 + [《狼与香辛料》TV动画未曾描绘新章启动 新艺图公布](https://www.3dmgame.com/news/202408/3901713.html)
 
++ [开发商被告知明年4月前不会发售任天堂Switch 2](https://www.3dmgame.com/news/202408/3901775.html)
+
++ [化身急救人员体验生死时速《急救模拟器》公开实机预告](https://www.3dmgame.com/news/202408/3901774.html)
+
++ [《战锤4K：星际战士2》新视频展示玩家作战基地](https://www.3dmgame.com/news/202408/3901773.html)
+
++ [女巫冒险游戏《REKA》抢鲜体验推迟至9月12日](https://www.3dmgame.com/news/202408/3901772.html)
+
++ [《月光光心慌慌》《鬼玩人》改编16位动作游戏](https://www.3dmgame.com/news/202408/3901771.html)
+
++ [《星鸣特攻》发行后路线图公布 第一赛季10月启动](https://www.3dmgame.com/news/202408/3901770.html)
+
++ [《再见甜蜜卡罗尔》推迟到2025年发行](https://www.3dmgame.com/news/202408/3901769.html)
+
++ [《夺宝奇兵：古老之圈》科隆展将呈现新外观](https://www.3dmgame.com/news/202408/3901768.html)
+
++ [《七龙珠 电光炸裂！ZERO》发布人造人篇预告](https://www.3dmgame.com/news/202408/3901767.html)
+
