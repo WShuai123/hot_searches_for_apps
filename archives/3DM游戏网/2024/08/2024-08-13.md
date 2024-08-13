@@ -307,3 +307,7 @@
 
 + [《无限试驾：太阳王冠》B测消息公开 正式版游戏支持两种画面模式](https://www.3dmgame.com/news/202408/3901760.html)
 
++ [农场模拟《女巫生活花园》9月15日发售 登陆多平台](https://www.3dmgame.com/news/202408/3901763.html)
+
++ [《黑神话：悟空》性能测试工具Steam同时在线超8万](https://www.3dmgame.com/news/202408/3901762.html)
+

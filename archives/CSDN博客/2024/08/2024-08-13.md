@@ -229,3 +229,7 @@
 
 + [代码规范 —— Redis 开发规范](https://blog.csdn.net/zhengzhaoyang122/article/details/141091316)
 
++ [【C++类和对象（中）】—— 我与C++的不解之缘（四）](https://blog.csdn.net/LH__1314/article/details/141072034)
+
++ [C# 结合 Javascript 测试获取天气信息](https://blog.csdn.net/michaelline/article/details/141164539)
+
