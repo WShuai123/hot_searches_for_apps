@@ -61,3 +61,5 @@
 
 + [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
 
++ [挖了这么久才发现，漏洞挖掘可以更简单](https://www.freebuf.com/fevents/408519.html)
+

@@ -271,3 +271,17 @@
 
 + [恋爱养成游戏《恶役大小姐不干啦》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901739.html)
 
++ [小米15 Ultra影像机能首曝 2亿像素潜望狂堆料](https://www.3dmgame.com/news/202408/3901750.html)
+
++ [艰难的决定！英特尔全球裁员1.75万人：赔偿细节揭晓 有人赔近400万元](https://www.3dmgame.com/news/202408/3901749.html)
+
++ [敖厂长再次锐评《黑神话：悟空》：优化翻车概率20%](https://www.3dmgame.com/news/202408/3901748.html)
+
++ [《怪物猎人：荒野》轻弩炮介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901747.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》登顶](https://www.3dmgame.com/news/202408/3901746.html)
+
++ [对美国有威胁！周鸿祎：360每年花30亿养安全专家 确实不赚钱](https://www.3dmgame.com/news/202408/3901745.html)
+
++ [《盗日求生》Steam抢先体验 生存恐怖战术撤离射击](https://www.3dmgame.com/news/202408/3901744.html)
+
