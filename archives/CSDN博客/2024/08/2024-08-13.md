@@ -193,3 +193,17 @@
 
 + [基于数据可视化+SpringBoot+Vue的社区邻里服务平台设计和实现(2025最新项目-源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141155356)
 
++ [极狐GitLab x 常州工学院，更懂高校教育的 DevOps 平台](https://blog.csdn.net/weixin_44749269/article/details/141154261)
+
++ [基于Python+大数据爬虫+数据可视化大屏的耳机信息的爬取与分析平台设计和实现(2025最新优质项目-系统+源码+部署文档)](https://blog.csdn.net/weixin_39709134/article/details/141154804)
+
++ [MATLAB - 强化学习（Reinforcement Learning）](https://blog.csdn.net/weixin_46300916/article/details/141126327)
+
++ [spring装配bean的七种方式](https://blog.csdn.net/weixin_42564451/article/details/141138256)
+
++ [【计算机网络】UDP实战](https://blog.csdn.net/2301_78636079/article/details/141103601)
+
++ [Docker数据管理和网络管理](https://blog.csdn.net/xiaogengtongxu/article/details/140930534)
+
++ [微信答题小程序产品研发-前端开发](https://blog.csdn.net/qq_29528701/article/details/141145043)
+

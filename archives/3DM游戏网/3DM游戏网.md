@@ -257,3 +257,17 @@
 
 + [动作冒险游戏《暗影诅咒：地狱重制版》发售日定于10月31日！](https://www.3dmgame.com/news/202408/3901735.html)
 
++ [《无主之地》电影被知名烂片导演乌维·鲍尔发文嘲讽：我的电影比这个赚钱](https://www.3dmgame.com/news/202408/3901740.html)
+
++ [滚导介绍新《超人》制作最新进展 他个人预计将不会有任何重拍](https://www.3dmgame.com/news/202408/3901741.html)
+
++ [动作游戏《羽袈流》Steam页面上线 9月3日发售](https://www.3dmgame.com/news/202408/3901742.html)
+
++ [曝《最后生还者》多人游戏开发4年 取消后导致高层下台](https://www.3dmgame.com/news/202408/3901743.html)
+
++ [《权力的游戏》主演解释“雪诺”衍生剧被取消原因 不够让人兴奋](https://www.3dmgame.com/news/202408/3901737.html)
+
++ [《学校怪谈：你身后有人》登陆Steam 日恐逃脱](https://www.3dmgame.com/news/202408/3901738.html)
+
++ [恋爱养成游戏《恶役大小姐不干啦》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901739.html)
+

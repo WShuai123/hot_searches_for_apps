@@ -57,3 +57,7 @@
 
 + [PIP-INTEL：一款多功能OSINT开源情报与数据收集工具](https://www.freebuf.com/sectool/408196.html)
 
++ [攻防演练中的IPv6（上）针对IPv6的扫描与攻击](https://www.freebuf.com/defense/378522.html)
+
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+

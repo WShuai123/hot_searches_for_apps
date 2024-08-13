@@ -190,3 +190,19 @@
 
 + [Cocoa](https://dribbble.com/shots/)
 
++ [Day 0](https://dribbble.com/shots/)
+
++ [Concepts for Glastonbury Festival Stage Brand Identity](https://dribbble.com/shots/)
+
++ [Zephyr Crypto Trading Webapp](https://dribbble.com/shots/)
+
++ [IdeaPilot AI - Onboarding design for AI-powered SaaS platform](https://dribbble.com/shots/)
+
++ [Rizzle Logo Design Branding](https://dribbble.com/shots/)
+
++ [Area - land rental app](https://dribbble.com/shots/)
+
++ [Sounds Mobile App: animation](https://dribbble.com/shots/)
+
++ [Contentium landing page concept](https://dribbble.com/shots/)
+

@@ -45,3 +45,5 @@
 
 + [九号电动车明星产品猎户座 5Z 涉严重违法违规，3C 认证被撤销](https://m.ithome.com/html/788095.htm)
 
++ [华为完成发行 40 亿元超短融，票面年利率 1.60%](https://m.ithome.com/html/788016.htm)
+
