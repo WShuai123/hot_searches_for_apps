@@ -35,3 +35,11 @@
 
 + [苹果 iOS 版 Opera One 浏览器现已上线：全新 UI + AI 功能](https://m.ithome.com/html/788223.htm)
 
++ [新车不到半年“变旧车”遭用户抱怨，极氪新车发布会直播全员禁言](https://m.ithome.com/html/788322.htm)
+
++ [TapTap PC 游戏商城 8 月 20 日试运营：《黑神话：悟空》到手 228 元](https://m.ithome.com/html/788239.htm)
+
++ [贾跃亭法拉第未来完成第 13 台 FF 91 2.0 新车交付，向全球传播负责人高巍交车](https://m.ithome.com/html/788152.htm)
+
++ [谷歌年度机皇 Pixel 9 系列手机发布：搭载 Tensor G4，提供 7 年 OTA 更新](https://m.ithome.com/html/788285.htm)
+

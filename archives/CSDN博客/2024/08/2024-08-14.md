@@ -135,3 +135,7 @@
 
 + [《学会 SpringBoot · 优雅停机方案》](https://blog.csdn.net/syb513812/article/details/141176350)
 
++ [若依实现微信小程序登录&APP登录(新用户表,新Token认证,与原有后台管理登录隔离)](https://blog.csdn.net/qq_40300227/article/details/141154587)
+
++ [《Linux运维总结：基于ARM64架构CPU使用docker-compose一键离线部署etcd 3.5.15容器版分布式集群》](https://blog.csdn.net/m0_37814112/article/details/141134965)
+

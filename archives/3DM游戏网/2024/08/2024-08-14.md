@@ -183,3 +183,15 @@
 
 + [总监滨口直树：《最终幻想7》重制版第三部可能会改用虚幻引擎5](https://www.3dmgame.com/news/202408/3901799.html)
 
++ [2024年全球游戏市场预计将增长至1870亿美元](https://www.3dmgame.com/news/202408/3901812.html)
+
++ [美国科学家发明防开车打瞌睡耳机 解决经典难题](https://www.3dmgame.com/news/202408/3901811.html)
+
++ [Netflix官方泄露：《英雄联盟：双城之战》第二季将于11月2日播出](https://www.3dmgame.com/news/202408/3901813.html)
+
++ [Intel抛售全部Arm持股 筹集约1.47亿美元](https://www.3dmgame.com/news/202408/3901810.html)
+
++ [V社确定SteamOS未来将支持其他品牌掌机 正在稳步推进](https://www.3dmgame.com/news/202408/3901809.html)
+
++ [《绝区零》人气角色安比最新手办 战斗少女美丽酷炫](https://www.3dmgame.com/news/202408/3901808.html)
+

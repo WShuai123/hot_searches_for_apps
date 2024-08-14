@@ -51,3 +51,5 @@
 
 + [严重的SAP漏洞可让攻击者绕过身份验证破坏企业系统](https://www.freebuf.com/news/408588.html)
 
++ [Microsoft Azure Health 曝出严重漏洞，可能导致横向移动](https://www.freebuf.com/news/408573.html)
+
