@@ -45,3 +45,5 @@
 
 + [小米澎湃 OS 八月升级即日起陆续推送：流畅度优化、应用响应速度提升](https://m.ithome.com/html/788344.htm)
 
++ [支付宝中国技术部负责人妙才被曝离职](https://m.ithome.com/html/788334.htm)
+

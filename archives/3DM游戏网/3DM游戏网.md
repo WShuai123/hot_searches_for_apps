@@ -209,3 +209,9 @@
 
 + [《信长之野望》系列多平台优惠促销 新旧作品在列](https://www.3dmgame.com/news/202408/3901815.html)
 
++ [《酒馆经理模拟器》登陆Steam 幻想风经营模拟](https://www.3dmgame.com/news/202408/3901822.html)
+
++ [《NBA®2K25》MyNBA 模式新增库里时代，并推出 MyGM](https://www.3dmgame.com/news/202408/3901823.html)
+
++ [治愈系沙盒建造游戏《Gourdlets》现已推出试玩Demo 正式版8月16日发行](https://www.3dmgame.com/news/202408/3901821.html)
+

@@ -55,3 +55,5 @@
 
 + [攻防演练 | 一次单洞3k分的经历](https://www.freebuf.com/defense/407779.html)
 
++ [特朗普和马斯克直播遭网络攻击，公开枪击案细节](https://www.freebuf.com/news/408606.html)
+
