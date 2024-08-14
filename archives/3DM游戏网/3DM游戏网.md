@@ -159,3 +159,27 @@
 
 + [面对《绝地潜兵2》的再度集中差评 工作室急宣60天更新计划](https://www.3dmgame.com/news/202408/3901788.html)
 
++ [《Project Castaway》9月Steam抢测 太平洋孤岛生存模拟](https://www.3dmgame.com/news/202408/3901800.html)
+
++ [《开拓者》系列开发商Owlcat Games扩展游戏发行业务](https://www.3dmgame.com/news/202408/3901801.html)
+
++ [网易Y3高校赛夏令营开启，拿到offer的大学生们要搞事情啦！-Y3编辑器](https://www.3dmgame.com/news/202408/3901802.html)
+
++ [技嘉发布旗下AM5主板BIOS更新，为AMD Ryzen 9000系列提供支持](https://www.3dmgame.com/news/202408/3901803.html)
+
++ [詹姆斯·卡梅隆透露正在制作新《终结者》项目 但该项目完全保密](https://www.3dmgame.com/news/202408/3901805.html)
+
++ [《三国志8重制版》孙策和周瑜角色介绍 江东小霸王来也](https://www.3dmgame.com/news/202408/3901804.html)
+
++ [黄仁勋两天再“套现”2491万美元 8月后一直抛售英伟达股票](https://www.3dmgame.com/news/202408/3901806.html)
+
++ [德国游戏市场2024上半年支出下降6%至43亿欧元](https://www.3dmgame.com/news/202408/3901807.html)
+
++ [复古像素风格2D解谜游戏《莱克西曼》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901796.html)
+
++ [《毁灭战士3：VR版》开发商Archiact宣布即将关闭](https://www.3dmgame.com/news/202408/3901798.html)
+
++ [扑克卡牌策略游戏《A Dance of Lords》Steam页面公布 发行日期待定](https://www.3dmgame.com/news/202408/3901797.html)
+
++ [总监滨口直树：《最终幻想7》重制版第三部可能会改用虚幻引擎5](https://www.3dmgame.com/news/202408/3901799.html)
+
