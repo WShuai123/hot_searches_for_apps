@@ -41,3 +41,7 @@
 
 + [微软披露Office最新零日漏洞，可能导致数据泄露](https://www.freebuf.com/news/408346.html)
 
++ [FreeBuf早报 | 大规模网络钓鱼活动冒充国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
+
++ [2024年运营技术与网络安全态势研究报告：遭遇多次网络威胁的比例暴增](https://www.freebuf.com/articles/neopoints/408339.html)
+

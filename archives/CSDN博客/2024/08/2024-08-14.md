@@ -125,3 +125,7 @@
 
 + [为什么程序员应该学习多种语言？](https://blog.csdn.net/lilinhai548/article/details/141154876)
 
++ [在亚马逊云科技上安全、合规、私密地调用生成式AI大模型](https://blog.csdn.net/m0_66628975/article/details/141158540)
+
++ [「MyBatis」实现留言板](https://blog.csdn.net/Ice_Sugar_7/article/details/141175580)
+

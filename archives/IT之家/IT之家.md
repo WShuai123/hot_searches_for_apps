@@ -29,3 +29,7 @@
 
 + [消息称苹果 iPhone SE 4 手机有望配备 8GB RAM 以满足 Apple Intelligence 性能要求](https://m.ithome.com/html/788264.htm)
 
++ [华为 nova Flip 小折叠屏手机上市 72 小时销量突破 4.5 万台，同比 Pocket S 提升 85%](https://m.ithome.com/html/788260.htm)
+
++ [极氪：8 月 13 日 20:00 前已下定未排产的 2024 款 007 汽车订单免费升级 2025 款](https://m.ithome.com/html/788281.htm)
+

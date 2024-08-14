@@ -119,3 +119,13 @@
 
 + [《七龙珠 电光炸裂！ZERO》发布人造人篇预告](https://www.3dmgame.com/news/202408/3901767.html)
 
++ [《虚幻大圣之悟空腾挪》在Steam发售 仅售16.66元](https://www.3dmgame.com/news/202408/3901780.html)
+
++ [科隆展开幕之夜直播将会公布多个新游戏](https://www.3dmgame.com/news/202408/3901779.html)
+
++ [育碧想效仿对马岛 让《刺客信条：影》吸引更多日本玩家](https://www.3dmgame.com/news/202408/3901778.html)
+
++ [近50%的英国玩家愿意为《GTA6》升级游戏主机](https://www.3dmgame.com/news/202408/3901777.html)
+
++ [国外评论家称《黑神话》PC版有性能问题 还有卡顿现象](https://www.3dmgame.com/news/202408/3901776.html)
+
