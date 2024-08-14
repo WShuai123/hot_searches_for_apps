@@ -101,3 +101,23 @@
 
 + [基于ssm+vue+uniapp的马拉松报名系统小程序](https://blog.csdn.net/shmp54/article/details/141173154)
 
++ [本地部署Code Llama大模型结合Text generation Web UI远程运行LLM](https://blog.csdn.net/qyj19920704/article/details/141134400)
+
++ [《Linux运维总结：基于ARM64架构CPU使用docker-compose一键离线部署etcd 3.5.15容器版分布式集群》](https://blog.csdn.net/m0_37814112/article/details/141134965)
+
++ [阿里云智能大数据演进](https://blog.csdn.net/weixin_48534929/article/details/141155547)
+
++ [搭建高可用k8s集群](https://blog.csdn.net/qq_36838700/article/details/141165464)
+
++ [Linux云计算 |【第二阶段】NETWORK-DAY6](https://blog.csdn.net/AnJern/article/details/141163019)
+
++ [Docker详解](https://blog.csdn.net/weixin_50737119/article/details/141142926)
+
++ [校园资讯微信小程序的设计与开发](https://blog.csdn.net/universsky2015/article/details/141145626)
+
++ [【安卓】调用摄像头和相册](https://blog.csdn.net/qq_47658735/article/details/141160361)
+
++ [Video视频抽帧和WebCodecs API视频抽帧介绍](https://blog.csdn.net/long5305350/article/details/141157598)
+
++ [数学建模——评价决策类算法（熵权法、模糊综合评价）](https://blog.csdn.net/m0_73774842/article/details/141169924)
+

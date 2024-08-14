@@ -49,3 +49,51 @@
 
 + [La Fleur](https://dribbble.com/shots/)
 
++ [Working Relief Wordmark](https://dribbble.com/shots/)
+
++ [Shape Studies: 083](https://dribbble.com/shots/)
+
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ [Summer Athletics](https://dribbble.com/shots/)
+
++ [Essay contest](https://dribbble.com/shots/)
+
++ [Bunch of Cabins](https://dribbble.com/shots/)
+
++ [The blue](https://dribbble.com/shots/)
+
++ [Azzip Pizza - Create Something Delicious](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [Strategy of Security Brand Identity](https://dribbble.com/shots/)
+
++ [Emorabilia Vol. I](https://dribbble.com/shots/)
+
++ [Vino Disco Sauvignon Blanc](https://dribbble.com/shots/)
+
++ [Don't Fly Too Close](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Dense Discovery — Issue 300](https://dribbble.com/shots/)
+
++ [Chicago - The City of Light and Shadow](https://dribbble.com/shots/)
+
++ [Crafty icons and illustrations](https://dribbble.com/shots/)
+
++ [Brainy About Bears](https://dribbble.com/shots/)
+
++ [Guess What?](https://dribbble.com/shots/)
+
++ [Sk8r boi ????](https://dribbble.com/shots/)
+
++ [Red and dead (PSE '24)](https://dribbble.com/shots/)
+
++ [ART! ????????](https://dribbble.com/shots/)
+
++ [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
+
++ [Concepts for Glastonbury Festival Stage Brand Identity](https://dribbble.com/shots/)
+
