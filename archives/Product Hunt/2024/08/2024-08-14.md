@@ -103,3 +103,29 @@
 
 + [AI Form Fill](https://www.producthunt.com/posts/ai-form-fill)
 
++ [Manaflow](https://www.producthunt.com/posts/manaflow)
+
++ [Pageify](https://www.producthunt.com/posts/pageify)
+
++ [AI Eraser](https://www.producthunt.com/posts/ai-eraser)
+
++ [HotSpot](https://www.producthunt.com/posts/hotspot-3)
+
++ [Closeby](https://www.producthunt.com/posts/closeby-2)
+
++ [Gigabrain](https://www.producthunt.com/posts/gigabrain-2)
+
++ [Volamail](https://www.producthunt.com/posts/volamail)
+
++ [Fread](https://www.producthunt.com/posts/fread-2)
+
++ [Loomer](https://www.producthunt.com/posts/loomer)
+
++ [ralify](https://www.producthunt.com/posts/ralify)
+
++ [Pulsy](https://www.producthunt.com/posts/pulsy-2)
+
++ [ToonTalk](https://www.producthunt.com/posts/toontalk)
+
++ [GPT Computer Assistant](https://www.producthunt.com/posts/gpt-computer-assistant)
+

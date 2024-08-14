@@ -57,3 +57,5 @@
 
 + [特朗普和马斯克直播遭网络攻击，公开枪击案细节](https://www.freebuf.com/news/408606.html)
 
++ [X-Recon：一款针对Web安全的XSS安全扫描检测工具](https://www.freebuf.com/sectool/408552.html)
+
