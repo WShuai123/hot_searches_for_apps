@@ -218,3 +218,15 @@
 
 + [Mega Man](https://dribbble.com/shots/)
 
++ [Give me Peace - Vector Art](https://dribbble.com/shots/)
+
++ [Fintech - Component](https://dribbble.com/shots/)
+
++ [Cozy Cabin](https://dribbble.com/shots/)
+
++ [Uncut - Hair Salon](https://dribbble.com/shots/)
+
++ [Website for a Travel Company](https://dribbble.com/shots/)
+
++ [Galaxy charging shape 3D by Milkinside](https://dribbble.com/shots/)
+

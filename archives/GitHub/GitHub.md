@@ -41,3 +41,21 @@
 
 + [DroidKaigi / conference-app-2024](https://github.com/DroidKaigi/conference-app-2024)
 
++ [grafana / grafana](https://github.com/grafana/grafana)
+
++ [TheAlgorithms / Go](https://github.com/TheAlgorithms/Go)
+
++ [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [timlrx / tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+
++ [electric-sql / pglite](https://github.com/electric-sql/pglite)
+
++ [SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+
++ [xorbitsai / inference](https://github.com/xorbitsai/inference)
+
++ [axios / axios](https://github.com/axios/axios)
+
++ [snipe / snipe-it](https://github.com/snipe/snipe-it)
+
