@@ -125,3 +125,7 @@
 
 + [华为三层交换机配置心得，学完成立神](https://blog.csdn.net/2401_84434570/article/details/141154769)
 
++ [利用PostgreSQL向量数据库和负责任的AI知识库在亚马逊云科技上构建商品推荐机器人](https://blog.csdn.net/m0_66628975/article/details/141187584)
+
++ [react多级权限路由](https://blog.csdn.net/qq_47040462/article/details/141175166)
+

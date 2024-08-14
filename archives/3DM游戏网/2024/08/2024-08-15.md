@@ -101,3 +101,11 @@
 
 + [《绝区零》人气角色安比最新手办 战斗少女美丽酷炫](https://www.3dmgame.com/news/202408/3901808.html)
 
++ [即时战术潜行冒险《苏美尔六号》9/2登陆Steam](https://www.3dmgame.com/news/202408/3901863.html)
+
++ [管理模拟游戏《一起来造地下城》面向Xbox/PC公布](https://www.3dmgame.com/news/202408/3901865.html)
+
++ [《巫火》抢先体验版年内登陆Steam 此前已登陆Epic](https://www.3dmgame.com/news/202408/3901864.html)
+
++ [《异形：外来入侵》12/19推出 新预告片展示](https://www.3dmgame.com/news/202408/3901862.html)
+

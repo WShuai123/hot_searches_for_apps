@@ -205,3 +205,9 @@
 
 + [飞猪旅行-机票酒店火车票门票轻松预订](https://itunes.apple.com/cn/app/id453691481?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [网易大神-永劫无间手游开服礼包抢先领](https://itunes.apple.com/cn/app/id1359055423?mt=8)
+
++ [微信输入法](https://itunes.apple.com/cn/app/id1618175312?mt=8)
+
