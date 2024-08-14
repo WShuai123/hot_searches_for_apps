@@ -61,3 +61,7 @@
 
 + [消息称下一代奥迪 A5 在中国将首次搭载华为智驾方案](https://m.ithome.com/html/788383.htm)
 
++ [苹果 macOS 15 Sequoia 和 iOS 18 的 iPhone 投屏功能升级：可直接在 Mac 上管理 iPhone 桌面](https://m.ithome.com/html/788298.htm)
+
++ [10 核 M2 版立减 1800 元：苹果 13 英寸 MacBook Air 16G 京东 7699 元](https://m.ithome.com/html/788463.htm)
+

@@ -275,3 +275,7 @@
 
 + [谷歌正式发布Pixel 9系列 支持卫星SOS功能](https://www.3dmgame.com/news/202408/3901853.html)
 
++ [《直到黎明》PC/PS5发售日公布 PC版捆绑PSN账户](https://www.3dmgame.com/news/202408/3901854.html)
+
++ [《辐射：新维加斯》总监愿意开发新的《辐射》 但必须满足创意自由](https://www.3dmgame.com/news/202408/3901855.html)
+
