@@ -25,3 +25,5 @@
 
 + [苹果 macOS 15 Sequoia 和 iOS 18 的 iPhone 投屏功能升级：可直接在 Mac 上管理 iPhone 桌面](https://m.ithome.com/html/788298.htm)
 
++ [巴黎奥运冠军拳手提起诉讼：称因性别争议遭网暴，点名马斯克、J.K.罗琳等](https://m.ithome.com/html/788454.htm)
+
