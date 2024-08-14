@@ -212,3 +212,9 @@
 
 + [Fintech Mobile App](https://dribbble.com/shots/)
 
++ [Note AI - Recruitment Landing Page](https://dribbble.com/shots/)
+
++ [Crypto Wallet - CPU Animation - Zklock](https://dribbble.com/shots/)
+
++ [Mega Man](https://dribbble.com/shots/)
+

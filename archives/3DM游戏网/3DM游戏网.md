@@ -253,3 +253,15 @@
 
 + [日服Switch Online会员免费试玩《人类一败涂地》 8月19日开启](https://www.3dmgame.com/news/202408/3901838.html)
 
++ [视觉小说《约会大作战：莲 反乌托邦》Steam版9月6日发售 支持中文](https://www.3dmgame.com/news/202408/3901848.html)
+
++ [《刺客信条：影》制作人：游戏开发最佳时长为4年](https://www.3dmgame.com/news/202408/3901847.html)
+
++ [《黑神话》测试工具光追开/关画面对比 快来找差别](https://www.3dmgame.com/news/202408/3901846.html)
+
++ [微信月活账户高达13.7亿 经典QQ仅5.7亿](https://www.3dmgame.com/news/202408/3901845.html)
+
++ [《黄金树幽影》1级速通挑战大赛结束 第一名获4千美元奖金](https://www.3dmgame.com/news/202408/3901844.html)
+
++ [中国市场出货排第三！华为手机二季度收益、平均售价创历史新高](https://www.3dmgame.com/news/202408/3901843.html)
+
