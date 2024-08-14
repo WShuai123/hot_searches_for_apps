@@ -109,3 +109,7 @@
 
 + [《异形：外来入侵》12/19推出 新预告片展示](https://www.3dmgame.com/news/202408/3901862.html)
 
++ [开放世界房车探索游戏《Outbound》众筹成功](https://www.3dmgame.com/news/202408/3901867.html)
+
++ [带你重温童年回忆《吉米克2》确定9月5日发售](https://www.3dmgame.com/news/202408/3901866.html)
+
