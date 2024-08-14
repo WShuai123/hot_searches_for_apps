@@ -133,3 +133,5 @@
 
 + [Dapphub](https://www.producthunt.com/posts/dapphub)
 
++ [Grok-2 & Grok-2 Mini](https://www.producthunt.com/posts/grok-2-grok-2-mini)
+

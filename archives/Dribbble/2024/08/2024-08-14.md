@@ -236,3 +236,17 @@
 
 + [Local Community Mobile App](https://dribbble.com/shots/)
 
++ [Web Team Illustration](https://dribbble.com/shots/)
+
++ [Finance Icons for Alder](https://dribbble.com/shots/)
+
++ [Minimalist Recycling Logo // For Sale](https://dribbble.com/shots/)
+
++ [Every duel is a dance ????](https://dribbble.com/shots/)
+
++ [background for animation](https://dribbble.com/shots/)
+
++ [La Fleur](https://dribbble.com/shots/)
+
++ [AI-powered mood monitoring: illustrations](https://dribbble.com/shots/)
+

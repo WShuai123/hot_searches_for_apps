@@ -279,3 +279,7 @@
 
 + [《辐射：新维加斯》总监愿意开发新的《辐射》 但必须满足创意自由](https://www.3dmgame.com/news/202408/3901855.html)
 
++ [温子仁重返海洋 商谈翻拍《黑湖妖潭》](https://www.3dmgame.com/news/202408/3901857.html)
+
++ [Xbox硬件销售目前仅占Xbox总收入的13%](https://www.3dmgame.com/news/202408/3901856.html)
+
