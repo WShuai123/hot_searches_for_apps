@@ -200,3 +200,15 @@
 
 + [Brand Guideline - Orbit : Marketing Agency](https://dribbble.com/shots/)
 
++ [3d Visual](https://dribbble.com/shots/)
+
++ [Marketplace Website Design Concept](https://dribbble.com/shots/)
+
++ [Odradek — Smart Home Design](https://dribbble.com/shots/)
+
++ [Reputy](https://dribbble.com/shots/)
+
++ [Brain Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Fintech Mobile App](https://dribbble.com/shots/)
+

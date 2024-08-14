@@ -161,3 +161,15 @@
 
 + [「重构：改善既有代码的设计」实战篇](https://blog.csdn.net/jdcdev_/article/details/141183694)
 
++ [GaussDB关键技术原理：高弹性（二）](https://blog.csdn.net/GaussDB/article/details/141026079)
+
++ [Nginx 优化与防盗链](https://blog.csdn.net/2201_75549363/article/details/141154685)
+
++ [【算法】梯度下降](https://blog.csdn.net/wnm23/article/details/141162384)
+
++ [实战项目：贪吃蛇游戏的实现（上）](https://blog.csdn.net/2302_79964175/article/details/141136031)
+
++ [Android SDK 遇到的坑之讯飞语音合成](https://blog.csdn.net/g984160547/article/details/141169429)
+
++ [【数学建模】介绍论文书写格式](https://blog.csdn.net/2303_79015671/article/details/141172185)
+

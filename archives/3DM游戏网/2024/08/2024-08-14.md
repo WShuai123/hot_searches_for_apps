@@ -243,3 +243,13 @@
 
 + [KK官方对战平台新图《四生视界》上线！视界之地再起波澜，众英雄速速归位！](https://www.3dmgame.com/news/202408/3901828.html)
 
++ [夏季奥运会进入洛杉矶时间：2028年奥运新增5大项目](https://www.3dmgame.com/news/202408/3901842.html)
+
++ [传《GTA6》第二部预告将在年底前发布 聚焦于男主](https://www.3dmgame.com/news/202408/3901841.html)
+
++ [网禅公布MMO新游《龙猎之歌》 预定登陆手游与PC](https://www.3dmgame.com/news/202408/3901840.html)
+
++ [《怪物猎人：荒野》单手剑介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901839.html)
+
++ [日服Switch Online会员免费试玩《人类一败涂地》 8月19日开启](https://www.3dmgame.com/news/202408/3901838.html)
+
