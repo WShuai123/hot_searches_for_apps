@@ -273,3 +273,5 @@
 
 + [你在浪费电！研究称网上发表情 照片等不利减少碳排放](https://www.3dmgame.com/news/202408/3901852.html)
 
++ [谷歌正式发布Pixel 9系列 支持卫星SOS功能](https://www.3dmgame.com/news/202408/3901853.html)
+
