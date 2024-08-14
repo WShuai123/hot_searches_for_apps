@@ -215,3 +215,31 @@
 
 + [治愈系沙盒建造游戏《Gourdlets》现已推出试玩Demo 正式版8月16日发行](https://www.3dmgame.com/news/202408/3901821.html)
 
++ [哈莉·贝瑞有意在《死侍与金刚狼》中客串暴风女 但并未受到邀请](https://www.3dmgame.com/news/202408/3901834.html)
+
++ [漫威新片《猎人克莱文》发布新预告 12月13日上映](https://www.3dmgame.com/news/202408/3901836.html)
+
++ [卡梅隆将继续执导《阿凡达4、5》 除非被公交车撞了](https://www.3dmgame.com/news/202408/3901835.html)
+
++ [《战锤40K：星际战士2》为何只有三人合作：四个星际战士太强了](https://www.3dmgame.com/news/202408/3901837.html)
+
++ [《黑镜》主创沉迷《小丑牌》：登陆手机将是“人类末日”](https://www.3dmgame.com/news/202408/3901831.html)
+
++ [明明进入终章新伏笔更多了《海贼王》结局引发担忧](https://www.3dmgame.com/news/202408/3901833.html)
+
++ [《孤独的美食家》电影全新预告 2025年1月10日登陆日本院线](https://www.3dmgame.com/news/202408/3901832.html)
+
++ [PS4《死侍》游戏实体版价格暴涨 最高售价已接近4万英镑](https://www.3dmgame.com/news/202408/3901829.html)
+
++ [《妮姬：胜利女神》x《新世纪福音战士》联动PV公布 8月22日上线](https://www.3dmgame.com/news/202408/3901830.html)
+
++ [黑曜石工作室CEO：《天外世界2》开发进展非常顺利](https://www.3dmgame.com/news/202408/3901824.html)
+
++ [《大侠立志传》全新DLC《倩影萍踪》发售，新增自创武学功能](https://www.3dmgame.com/news/202408/3901825.html)
+
++ [KK官方对战平台《刀刀兄弟》大神级攻略！主播大植带你玩转百万IP地图](https://www.3dmgame.com/news/202408/3901826.html)
+
++ [《崩坏：星穹铁道》走近星穹 「椒丘：你在椒我做事？」](https://www.3dmgame.com/news/202408/3901827.html)
+
++ [KK官方对战平台新图《四生视界》上线！视界之地再起波澜，众英雄速速归位！](https://www.3dmgame.com/news/202408/3901828.html)
+

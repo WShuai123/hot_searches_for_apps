@@ -59,3 +59,5 @@
 
 + [X-Recon：一款针对Web安全的XSS安全扫描检测工具](https://www.freebuf.com/sectool/408552.html)
 
++ [渗透实战 | 从存储桶sts泄露到js投毒](https://www.freebuf.com/articles/web/391458.html)
+

@@ -190,3 +190,13 @@
 
 + [Water Animals Game Assets](https://dribbble.com/shots/)
 
++ [Co:Data, data analytics, consulting, cybersecurity, logo design](https://dribbble.com/shots/)
+
++ [Quanta - CRM Dashboard](https://dribbble.com/shots/)
+
++ [40+ interesting facts about independent practices](https://dribbble.com/shots/)
+
++ [Finance Dashboard](https://dribbble.com/shots/)
+
++ [Brand Guideline - Orbit : Marketing Agency](https://dribbble.com/shots/)
+

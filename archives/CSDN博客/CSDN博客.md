@@ -153,3 +153,11 @@
 
 + [SpringCloud天机学堂：学习计划与进度（四）](https://blog.csdn.net/weixin_53961667/article/details/141174495)
 
++ [中国数据库的前世今生：披荆斩棘，乘风破浪](https://blog.csdn.net/qq_28314431/article/details/140797711)
+
++ [【人工智能】深入理解自监督学习中的表征学习与对比学习](https://blog.csdn.net/2202_76097976/article/details/141168562)
+
++ [Linux云计算 |【第二阶段】NETWORK-DAY6](https://blog.csdn.net/AnJern/article/details/141163019)
+
++ [「重构：改善既有代码的设计」实战篇](https://blog.csdn.net/jdcdev_/article/details/141183694)
+
