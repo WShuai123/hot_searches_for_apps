@@ -195,3 +195,17 @@
 
 + [《绝区零》人气角色安比最新手办 战斗少女美丽酷炫](https://www.3dmgame.com/news/202408/3901808.html)
 
++ [在《战锤40K:极速狂飙》等游戏中开启DLSS，获得真实的游戏体验](https://www.3dmgame.com/news/202408/3901817.html)
+
++ [无厘头风格冒险游戏《生块叉烧好过生你》现已上线Steam平台](https://www.3dmgame.com/news/202408/3901818.html)
+
++ [Fami通日本7月销量榜：科乐美《实况力量棒球》登顶](https://www.3dmgame.com/news/202408/3901819.html)
+
++ [NVIDIA中国特供芯片太贵！创业公司转向RTX4090](https://www.3dmgame.com/news/202408/3901816.html)
+
++ [0元畅玩！暴雪老兵打造的全新作品《风暴之门》免费开启抢先体验](https://www.3dmgame.com/news/202408/3901820.html)
+
++ [改编动画《在地下城寻求邂逅是否搞错了什么》第五季新预告 10月4日开播](https://www.3dmgame.com/news/202408/3901814.html)
+
++ [《信长之野望》系列多平台优惠促销 新旧作品在列](https://www.3dmgame.com/news/202408/3901815.html)
+

@@ -139,3 +139,7 @@
 
 + [《Linux运维总结：基于ARM64架构CPU使用docker-compose一键离线部署etcd 3.5.15容器版分布式集群》](https://blog.csdn.net/m0_37814112/article/details/141134965)
 
++ [计算机眼中的图像-基于OpenCV的深入解析与实践](https://blog.csdn.net/weixin_52908342/article/details/141145854)
+
++ [数模竞赛算法讲解（评价类算法）](https://blog.csdn.net/morning_____/article/details/140542604)
+

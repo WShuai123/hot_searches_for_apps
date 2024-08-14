@@ -43,3 +43,5 @@
 
 + [谷歌年度机皇 Pixel 9 系列手机发布：搭载 Tensor G4，提供 7 年 OTA 更新](https://m.ithome.com/html/788285.htm)
 
++ [小米澎湃 OS 八月升级即日起陆续推送：流畅度优化、应用响应速度提升](https://m.ithome.com/html/788344.htm)
+
