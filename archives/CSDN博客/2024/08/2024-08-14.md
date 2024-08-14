@@ -129,3 +129,9 @@
 
 + [「MyBatis」实现留言板](https://blog.csdn.net/Ice_Sugar_7/article/details/141175580)
 
++ [[C++][opencv]基于opencv实现photoshop算法图像旋转](https://blog.csdn.net/FL1623863129/article/details/141143018)
+
++ [Nginx 配置高性能静态网站 - 缓存、Gzip、跨域和防盗链](https://blog.csdn.net/xuezhiwu001/article/details/141147416)
+
++ [《学会 SpringBoot · 优雅停机方案》](https://blog.csdn.net/syb513812/article/details/141176350)
+

@@ -45,3 +45,7 @@
 
 + [2024年运营技术与网络安全态势研究报告：遭遇多次网络威胁的比例暴增](https://www.freebuf.com/articles/neopoints/408339.html)
 
++ [实践分享 | 以多种注入类漏洞分析挖掘与防御逻辑](https://www.freebuf.com/articles/system/407861.html)
+
++ [FreeBuf早报 | 网络钓鱼活动冒充乌克兰国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
+

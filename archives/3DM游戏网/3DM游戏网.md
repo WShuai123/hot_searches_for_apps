@@ -129,3 +129,33 @@
 
 + [国外评论家称《黑神话》PC版有性能问题 还有卡顿现象](https://www.3dmgame.com/news/202408/3901776.html)
 
++ [《纳斯卡赛车》发行商营收回暖 《勒芒终极赛》主机版加急](https://www.3dmgame.com/news/202408/3901790.html)
+
++ [回合制战斗JRPG《Bestiario》Steam页面公布 后年发售](https://www.3dmgame.com/news/202408/3901789.html)
+
++ [三年后见！《冰雪奇缘3》北美定档2027年11月24日](https://www.3dmgame.com/news/202408/3901791.html)
+
++ [《大侠立志传》DLC“倩影萍踪”发售 国区定价18元](https://www.3dmgame.com/news/202408/3901792.html)
+
++ [冯骥回应《黑神话》泄露问题：被剧透仍将有独特乐趣](https://www.3dmgame.com/news/202408/3901793.html)
+
++ [解谜冒险游戏《瓜约塔》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3901794.html)
+
++ [《非生物因素》新更新Crush Depth上线 好评合作生存](https://www.3dmgame.com/news/202408/3901795.html)
+
++ [Steam商店页文字描述新规 禁止为其他商店或游戏打广告](https://www.3dmgame.com/news/202408/3901781.html)
+
++ [《勇者斗恶龙3：HD-2D重制版》新截图 将有新故事情节](https://www.3dmgame.com/news/202408/3901782.html)
+
++ [《X Invader》登陆Steam 吸幸类型肉鸽射击](https://www.3dmgame.com/news/202408/3901783.html)
+
++ [传闻：网飞正在制作真人版《精灵宝可梦》剧集](https://www.3dmgame.com/news/202408/3901784.html)
+
++ [《救护车生活：救护员模拟器》官方实机宣传片](https://www.3dmgame.com/news/202408/3901785.html)
+
++ [《Expedition: Into Darkness》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3901786.html)
+
++ [《重金属：地狱歌手VR》宣布10月3日发售 登陆Steam和PS](https://www.3dmgame.com/news/202408/3901787.html)
+
++ [面对《绝地潜兵2》的再度集中差评 工作室急宣60天更新计划](https://www.3dmgame.com/news/202408/3901788.html)
+
