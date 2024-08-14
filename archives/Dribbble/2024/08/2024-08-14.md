@@ -230,3 +230,5 @@
 
 + [Galaxy charging shape 3D by Milkinside](https://dribbble.com/shots/)
 
++ [Nori Logomark](https://dribbble.com/shots/)
+

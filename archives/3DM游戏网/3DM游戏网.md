@@ -269,3 +269,7 @@
 
 + [高玩达成《宝可梦：红绿》速通新记录 一人同时玩两游戏](https://www.3dmgame.com/news/202408/3901849.html)
 
++ [PC迎来大变化 传统电脑加速淘汰：AI PC换机潮来了](https://www.3dmgame.com/news/202408/3901851.html)
+
++ [你在浪费电！研究称网上发表情 照片等不利减少碳排放](https://www.3dmgame.com/news/202408/3901852.html)
+
