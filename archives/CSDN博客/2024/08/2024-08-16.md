@@ -101,3 +101,25 @@
 
 + [【安卓】调用摄像头和相册](https://blog.csdn.net/qq_47658735/article/details/141160361)
 
++ [yolov8目标检测与速度估计](https://blog.csdn.net/ALiLiLiYa/article/details/141191452)
+
++ [【数据分析---偏企业】 Excel操作](https://blog.csdn.net/2301_81874719/article/details/140956902)
+
++ [中国数据库的前世今生：披荆斩棘，乘风破浪](https://blog.csdn.net/qq_28314431/article/details/140797711)
+
++ [【数学建模】介绍论文书写格式](https://blog.csdn.net/2303_79015671/article/details/141172185)
+
++ [【网络】UDP和TCP之间的差别和回显服务器](https://blog.csdn.net/Yeeear/article/details/141226262)
+
++ [Vue.js-分析](https://blog.csdn.net/weixin_74888502/article/details/141201505)
+
++ [低代码开发平台：技术概览、效率与质量的权衡及挑战与机遇](https://blog.csdn.net/2302_78391795/article/details/141176574)
+
++ [FLUX | 超越SD3、媲美Midjourney的顶级AI绘图模型](https://blog.csdn.net/Vampire_2017/article/details/141228634)
+
++ [Vue2中watch与Vue3中watch对比](https://blog.csdn.net/qq_40792800/article/details/141160720)
+
++ [非专业人士的编程梦：低代码开发平台的崛起与挑战](https://blog.csdn.net/u014727709/article/details/141180730)
+
++ [基于单片机控制的多功能智能语音风扇](https://blog.csdn.net/weixin_45905610/article/details/141195233)
+
