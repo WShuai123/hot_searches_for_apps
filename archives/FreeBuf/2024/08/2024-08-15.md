@@ -63,3 +63,9 @@
 
 + [GitHub 全球宕机，Copilot一起瘫痪](https://www.freebuf.com/news/408688.html)
 
++ [夏日狂欢曲，企业SRC挖不停！（奖励丰厚+1）](https://www.freebuf.com/fevents/408482.html)
+
++ [Windows TCP IP RCE漏洞曝光，影响所有启用IPv6的系统](https://www.freebuf.com/news/408681.html)
+
++ [GitHub全球宕机，微软Copilot同时瘫痪](https://www.freebuf.com/news/408688.html)
+

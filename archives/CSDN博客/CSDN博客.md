@@ -153,3 +153,17 @@
 
 + [【Linux网络】TCP协议](https://blog.csdn.net/2301_79181030/article/details/141175012)
 
++ [微软开源库 Detours 详细介绍与使用实例分享](https://blog.csdn.net/chenlycly/article/details/141220378)
+
++ [机器学习-傅里叶变换](https://blog.csdn.net/m0_73776435/article/details/141198670)
+
++ [数学建模——启发式算法（蚁群算法）](https://blog.csdn.net/m0_73774842/article/details/141167297)
+
++ [Spring Boot的配置文件](https://blog.csdn.net/m0_51821434/article/details/141196842)
+
++ [Spring Boot使用MQTT与硬件设备进行交互](https://blog.csdn.net/weixin_43822632/article/details/141194093)
+
++ [腾讯QQ新版的秘密武器：Electron框架如何实现无缝跨平台体验](https://blog.csdn.net/qq_57761637/article/details/141187843)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141183780)
+
