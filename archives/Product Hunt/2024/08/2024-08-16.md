@@ -101,3 +101,5 @@
 
 + [Arro](https://www.producthunt.com/posts/arro-2)
 
++ [ShellMate AI](https://www.producthunt.com/posts/shellmate-ai)
+
