@@ -103,3 +103,43 @@
 
 + [动作冒险《火湖》宣布跳票 支持免费试玩](https://www.3dmgame.com/news/202408/3901954.html)
 
++ [《星球大战：法外狂徒》宣传物料曝光 预购即将开启](https://www.3dmgame.com/news/202404/3892240.html)
+
++ [《浪人崛起》日本实体销量已超《龙之信条2》](https://www.3dmgame.com/news/202404/3892239.html)
+
++ [《Chaos Islands》Steam页面上线 卡牌构建+塔防](https://www.3dmgame.com/news/202404/3892237.html)
+
++ [16人联机《一揆团结》4月18日登陆Switch](https://www.3dmgame.com/news/202404/3892227.html)
+
++ [《小骨：英雄杀手》免费更新! 推出全新的可玩角色“支配者”](https://www.3dmgame.com/news/202404/3892245.html)
+
++ [调查显示：2023年玩家们60%的游戏时间花在老游戏上](https://www.3dmgame.com/news/202404/3892236.html)
+
++ [中裕司发推指责勇者斗恶龙制作人向法庭撒谎](https://www.3dmgame.com/news/202404/3892233.html)
+
++ [《蛋蛋蛋蛋蛋》Steam页面上线 小清新横版动作新游](https://www.3dmgame.com/news/202404/3892244.html)
+
++ [《辐射2》粉丝自制重制版vs原版对比视频](https://www.3dmgame.com/news/202404/3892231.html)
+
++ [Troy Baker没有为《GTA6》中杰森配音](https://www.3dmgame.com/news/202404/3892232.html)
+
++ [《铁拳8》在通行证引入后被Steam用户评论炮轰](https://www.3dmgame.com/news/202404/3892230.html)
+
++ [免费格斗游戏《超级龙拳力3》4月26日上线](https://www.3dmgame.com/news/202404/3892229.html)
+
++ [休闲建造游戏《星球乐园》现已发售PC版](https://www.3dmgame.com/news/202404/3892228.html)
+
++ [动作类肉鸽游戏《超级幻想王国》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892241.html)
+
++ [《地狱潜者2》新补丁导致游戏崩溃 官方建议玩家休息几天](https://www.3dmgame.com/news/202404/3892234.html)
+
++ [科幻RPG《Exodus》时间膨胀原理解释 将带来选择和后果](https://www.3dmgame.com/news/202404/3892242.html)
+
++ [《哥斯拉大战金刚2》全球票房超3.6亿美元 中国成海外市场最大票仓](https://www.3dmgame.com/news/202404/3892235.html)
+
++ [《全战战锤3》新DLC分成三部分单独售卖 每个售9美元](https://www.3dmgame.com/news/202404/3892243.html)
+
++ [2024 宝可梦世界锦标赛举办日期揭晓 8月16日开启](https://www.3dmgame.com/news/202404/3892238.html)
+
++ [塔防游戏《六方守护者》5月2日发售PC版](https://www.3dmgame.com/news/202404/3892226.html)
+
