@@ -59,3 +59,7 @@
 
 + [Windows TCP IP漏洞影响所有启用IPv6的系统，立即打补丁](https://www.freebuf.com/news/408681.html)
 
++ [XMGoat：一款针对Azure的环境安全检测工具](https://www.freebuf.com/sectool/408556.html)
+
++ [GitHub 全球宕机，Copilot一起瘫痪](https://www.freebuf.com/news/408688.html)
+

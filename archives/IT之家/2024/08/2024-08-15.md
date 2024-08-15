@@ -45,3 +45,5 @@
 
 + [Redmi K70 系列、K60 至尊版等机型推送小米澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/788500.htm)
 
++ [小鹏 MONA M03 车型 8 月 27 日正式上市，起售价不超过 13.59 万元](https://m.ithome.com/html/788502.htm)
+
