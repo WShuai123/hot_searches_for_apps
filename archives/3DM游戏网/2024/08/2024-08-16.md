@@ -143,3 +143,21 @@
 
 + [塔防游戏《六方守护者》5月2日发售PC版](https://www.3dmgame.com/news/202404/3892226.html)
 
++ [强化升级《长号冠军》VR版今年秋季发售](https://www.3dmgame.com/news/202408/3901963.html)
+
++ [《群星》“宇宙风暴”扩展包将于9/10登陆PC](https://www.3dmgame.com/news/202408/3901962.html)
+
++ [《真人快打1》销量超过400万套 混乱统治9月推出](https://www.3dmgame.com/news/202408/3901961.html)
+
++ [索尼不参与《乐高地平线大冒险》Switch版发行](https://www.3dmgame.com/news/202408/3901956.html)
+
++ [模拟人生游戏《inZOI》将开放角色创建功能](https://www.3dmgame.com/news/202408/3901960.html)
+
++ [创意手工冒险游戏《勇敢小骑士》 9月17日发售](https://www.3dmgame.com/news/202408/3901959.html)
+
++ [《龙腾世纪: 影障守护者》配置需求公布 970可玩](https://www.3dmgame.com/news/202408/3901958.html)
+
++ [《七龙珠 电光炸裂！ZERO》确认亮相科隆展开幕夜](https://www.3dmgame.com/news/202408/3901957.html)
+
++ [EA公布《龙腾世纪: 影障守护者》发售日预告](https://www.3dmgame.com/news/202408/3901955.html)
+

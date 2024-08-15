@@ -137,3 +137,13 @@
 
 + [Hadoop大数据集群搭建](https://blog.csdn.net/m0_59839948/article/details/141198285)
 
++ [2024 NVIDIA开发者社区夏令营环境配置指南(Win & Mac)的补充说明](https://blog.csdn.net/babylon3000/article/details/141217141)
+
++ [提示词工程综述: PROMPT DESIGN AND ENGINEERING: INTRODUCTION AND ADVANCED METHODS](https://blog.csdn.net/weixin_54878690/article/details/141220242)
+
++ [最新OpenEuler-24（欧拉）快速部署docker及harbor](https://blog.csdn.net/KAKGM/article/details/141202822)
+
++ [Android设备备份字库基带](https://blog.csdn.net/qq_42847557/article/details/141187935)
+
++ [MES生产执行系统源码，支持 SaaS 多租户，技术架构：springboot + vue-element-plus-admin](https://blog.csdn.net/baina666/article/details/141194322)
+
