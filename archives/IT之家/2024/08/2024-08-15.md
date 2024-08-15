@@ -55,3 +55,7 @@
 
 + [请尽快安装补丁！微软 Win10 / Win11 被曝 9.8 分漏洞：我国昆仑实验室发现，影响所有启用 IPv6 系统](https://m.ithome.com/html/788605.htm)
 
++ [华为回应 Mate 60 系列手机降价：若用户在活动前购机，可申请价保](https://m.ithome.com/html/788733.htm)
+
++ [沙特男子将 444 台游戏机连接到一台电视，获得吉尼斯世界纪录](https://m.ithome.com/html/788631.htm)
+

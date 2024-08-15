@@ -35,3 +35,25 @@
 
 + [xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
++ [suno-ai / bark](https://github.com/suno-ai/bark)
+
++ [HeyPuter / puter](https://github.com/HeyPuter/puter)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard)
+
++ [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [Zipstack / unstract](https://github.com/Zipstack/unstract)
+
++ [cloudflare / cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+
++ [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
+
