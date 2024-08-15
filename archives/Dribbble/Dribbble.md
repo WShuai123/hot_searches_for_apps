@@ -178,3 +178,7 @@
 
 + [Nomad Outdoor - Apparel Graphic](https://dribbble.com/shots/)
 
++ [Vizard Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Creative Studio Worker](https://dribbble.com/shots/)
+

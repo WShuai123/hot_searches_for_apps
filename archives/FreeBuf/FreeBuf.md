@@ -53,3 +53,5 @@
 
 + [GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://www.freebuf.com/news/408680.html)
 
++ [基于亚马逊语音助手的物联网命令劫持](https://www.freebuf.com/vuls/408166.html)
+

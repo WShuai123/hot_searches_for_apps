@@ -81,3 +81,9 @@
 
 + [这鸟变脸也太快，有点无耻啊](http://www.acfun.cn/v/ac46096080)
 
++ [【原创大合唱】永巷美人图【美人心计群像歌】](http://www.acfun.cn/v/ac46098183)
+
++ [【柯基】《AMANI》Beyond](http://www.acfun.cn/v/ac46098027)
+
++ [仰望U9，赛道刹的住吗？](http://www.acfun.cn/v/ac46098290)
+

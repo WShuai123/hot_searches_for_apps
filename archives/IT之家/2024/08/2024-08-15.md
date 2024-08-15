@@ -41,3 +41,5 @@
 
 + [腾讯首度承认：正在与苹果就 iOS 上微信小游戏的收入事宜进行谈判](https://m.ithome.com/html/788536.htm)
 
++ [全球最快手机充电！realme 真我 320W 超光速秒充发布，4 分半充满 4420mAh 电池](https://m.ithome.com/html/788437.htm)
+
