@@ -47,3 +47,5 @@
 
 + [技战法 | 威胁情报驱动应急响应](https://www.freebuf.com/defense/407361.html)
 
++ [霸王茶姬招人啦](https://www.freebuf.com/news/408678.html)
+

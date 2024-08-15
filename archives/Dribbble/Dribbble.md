@@ -160,3 +160,17 @@
 
 + [Debugging Stickers ????????](https://dribbble.com/shots/)
 
++ [Animated Music Video](https://dribbble.com/shots/)
+
++ [Almigor studio](https://dribbble.com/shots/)
+
++ [Lalouni The Label - Branding & Packaging](https://dribbble.com/shots/)
+
++ [Tager | Visual Identity](https://dribbble.com/shots/)
+
++ [GBA 2024](https://dribbble.com/shots/)
+
++ [Crypto Platform Design Landing Page](https://dribbble.com/shots/)
+
++ [Breathing Practices Application](https://dribbble.com/shots/)
+

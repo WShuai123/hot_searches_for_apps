@@ -157,3 +157,29 @@
 
 + [开放世界冒险游戏《小骑士》公开预告片](https://www.3dmgame.com/news/202408/3901868.html)
 
++ [沙特玩家达成新吉尼斯纪录 一台电视连接了444台游戏机](https://www.3dmgame.com/news/202408/3901896.html)
+
++ [最新调查显示：81%的手游开发商正在开发新项目](https://www.3dmgame.com/news/202408/3901897.html)
+
++ [《黑神话：悟空》测试工具截图 画面精美可当壁纸](https://www.3dmgame.com/news/202408/3901898.html)
+
++ [《饿狼传说：狼之城》“狮鹫假面”角色预告 正义的蒙面摔跤手](https://www.3dmgame.com/news/202408/3901899.html)
+
++ [《黑神话：悟空》全球解锁时间 北京时间8月20日上午10点整](https://www.3dmgame.com/news/202408/3901900.html)
+
++ [因《暗黑破坏神4》新赛季的复制BUG 暴雪目前已禁止游戏内交易](https://www.3dmgame.com/news/202408/3901901.html)
+
++ [《追逐末日之光》DEMO已上架STEAM](https://www.3dmgame.com/news/202408/3901902.html)
+
++ [华为Mate 60系列全系官降 最高降价800元](https://www.3dmgame.com/news/202408/3901890.html)
+
++ [《妙探闯通关：魔鬼剧场》重制版现已正式推出并获好评](https://www.3dmgame.com/news/202408/3901891.html)
+
++ [曝《异形：夺命舰》8月16日在内地上映 一刀未剪](https://www.3dmgame.com/news/202408/3901892.html)
+
++ [欧美服PS Plus二档三档会员8月新入库游戏公布：《巫师3》领衔](https://www.3dmgame.com/news/202408/3901893.html)
+
++ [Steam新规：9月起不允许商店页面文本包含外部链接](https://www.3dmgame.com/news/202408/3901894.html)
+
++ [图森进军AI 打造《三体》系列电影及游戏](https://www.3dmgame.com/news/202408/3901895.html)
+
