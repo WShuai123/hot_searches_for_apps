@@ -59,3 +59,5 @@
 
 + [沙特男子将 444 台游戏机连接到一台电视，获得吉尼斯世界纪录](https://m.ithome.com/html/788631.htm)
 
++ [“iPhone 5s 真就是 CCD 平替”引热议：8MP 镜头 +“褪色”滤镜可拍出复古照片](https://m.ithome.com/html/788737.htm)
+

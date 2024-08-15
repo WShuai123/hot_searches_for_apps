@@ -267,3 +267,5 @@
 
 + [腾讯承认：正与苹果就iOS微信小游戏收入事宜进行谈判](https://www.3dmgame.com/news/202408/3901941.html)
 
++ [AMD Ryzen 9 9900X/9950X处理器开售 国行价分别为3399/4899元](https://www.3dmgame.com/news/202408/3901945.html)
+

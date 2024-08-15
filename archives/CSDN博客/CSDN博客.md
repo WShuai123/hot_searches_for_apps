@@ -191,3 +191,15 @@
 
 + [如何将CentOS的yum源更换为阿里云源](https://blog.csdn.net/shenghuiping2001/article/details/141179890)
 
++ [【人工智能】Transformers之Pipeline（十）：视频分类（video-classification）](https://blog.csdn.net/weixin_48007632/article/details/141222293)
+
++ [维基知识库系统Wiki.js本地Linux环境部署并配置公网地址远程访问](https://blog.csdn.net/qyj19920704/article/details/141227533)
+
++ [开源Docker图形化管理工具DockerUI](https://blog.csdn.net/mopmgerg54mo/article/details/141189040)
+
++ [在Moodle中集成ONLYOFFICE：学习管理+文档功能全面指南](https://blog.csdn.net/weixin_36755535/article/details/141222861)
+
++ [依赖注入+中央事件总线：Vue 3组件通信新玩法](https://blog.csdn.net/2302_76329106/article/details/141222291)
+
++ [复位电路及时序分析](https://blog.csdn.net/Qqyangleiyu/article/details/141142802)
+
