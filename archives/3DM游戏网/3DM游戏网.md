@@ -269,3 +269,5 @@
 
 + [AMD Ryzen 9 9900X/9950X处理器开售 国行价分别为3399/4899元](https://www.3dmgame.com/news/202408/3901945.html)
 
++ [受多人MOD H2M拉动《使命召唤：现代战争复刻版》登上Steam热销榜](https://www.3dmgame.com/news/202408/3901946.html)
+
