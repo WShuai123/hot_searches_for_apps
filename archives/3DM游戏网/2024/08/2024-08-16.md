@@ -101,3 +101,5 @@
 
 + [第三人称动作射击游戏《炼狱颂歌》现已推出试玩Demo](https://www.3dmgame.com/news/202408/3901907.html)
 
++ [动作冒险《火湖》宣布跳票 支持免费试玩](https://www.3dmgame.com/news/202408/3901954.html)
+
