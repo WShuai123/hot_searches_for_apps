@@ -275,3 +275,9 @@
 
 + [《天国：拯救2》官宣跳票 2025年2月11日发售](https://www.3dmgame.com/news/202408/3901948.html)
 
++ [《黑神话：悟空》光追、DLSS 3预告 最具先进技术游戏之一](https://www.3dmgame.com/news/202408/3901951.html)
+
++ [国漫新作《金陵御猫》定档8月24日 包拯御猫破奇案](https://www.3dmgame.com/news/202408/3901950.html)
+
++ [免费动作恐怖FPS游戏《The Bornless》公布](https://www.3dmgame.com/news/202408/3901949.html)
+

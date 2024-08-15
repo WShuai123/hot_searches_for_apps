@@ -61,3 +61,9 @@
 
 + [“iPhone 5s 真就是 CCD 平替”引热议：8MP 镜头 +“褪色”滤镜可拍出复古照片](https://m.ithome.com/html/788737.htm)
 
++ [21.58 万元起：领克 Z10 纯电轿车开启“先享预订”，9 月 5 日上市](https://m.ithome.com/html/788598.htm)
+
++ [微信客服回应推出“信用卡借款”服务：还在测试阶段](https://m.ithome.com/html/788546.htm)
+
++ [2025 款极氪 001 / 007 车型开启交付，售价 25.9 万 / 20.99 万起](https://m.ithome.com/html/788736.htm)
+

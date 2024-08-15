@@ -211,3 +211,9 @@
 
 + [使用 TinyVue 组件库搭建前端项目的实操体验](https://blog.csdn.net/weixin_46178278/article/details/141189105)
 
++ [【机器学习】深度学习实践](https://blog.csdn.net/2301_79181030/article/details/141226970)
+
++ [【Linux】守护进程:containerd的使用教程](https://blog.csdn.net/smile_sundays/article/details/141193654)
+
++ [Vue+ElementUI技巧分享：创建一个带有进度显示的文件下载和打包组件](https://blog.csdn.net/qq_31463571/article/details/141176557)
+
