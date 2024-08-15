@@ -271,3 +271,7 @@
 
 + [受多人MOD H2M拉动《使命召唤：现代战争复刻版》登上Steam热销榜](https://www.3dmgame.com/news/202408/3901946.html)
 
++ [《DOTA2》7.37b平衡性更新发布 TK、剧毒削弱](https://www.3dmgame.com/news/202408/3901947.html)
+
++ [《天国：拯救2》官宣跳票 2025年2月11日发售](https://www.3dmgame.com/news/202408/3901948.html)
+
