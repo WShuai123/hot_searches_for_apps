@@ -129,3 +129,5 @@
 
 + [《第十三章 网络通信 - HTTP 网络请求》](https://blog.csdn.net/weixin_47266126/article/details/141195554)
 
++ [RabbitMQ实现多线程处理接收消息](https://blog.csdn.net/qq_73440769/article/details/141176299)
+
