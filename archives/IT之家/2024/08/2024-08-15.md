@@ -31,3 +31,11 @@
 
 + [小米 SU7 对撞极氪 007 视频被质疑造假？当事人致歉澄清](https://m.ithome.com/html/788538.htm)
 
++ [小米汽车回应 SU7 碰撞视频：设置不严谨、记录不完整、结论不真实](https://m.ithome.com/html/788540.htm)
+
++ [华为 Mate 60 / Pro 系列手机今日起降价 500~800 元，现价 4999 元起](https://m.ithome.com/html/788548.htm)
+
++ [苹果宣布将开放 iPhone 的 NFC 芯片，允许第三方进行非接触式支付](https://m.ithome.com/html/788545.htm)
+
++ [极氪法务部：近期网上出现大量针对极氪 2025 款新品的不实信息，公司已报警](https://m.ithome.com/html/788529.htm)
+

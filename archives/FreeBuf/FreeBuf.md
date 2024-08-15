@@ -41,3 +41,9 @@
 
 + [FreeBSD 针对OpenSSH 高危漏洞发布紧急补丁](https://www.freebuf.com/news/408448.html)
 
++ [如何做好一名优秀的蓝队（内网篇）](https://www.freebuf.com/articles/web/408315.html)
+
++ [FreeBuf早报 | AMD曝出“超级权限漏洞”；金融巨头因勒索攻击损失近2亿元](https://www.freebuf.com/news/408617.html)
+
++ [技战法 | 威胁情报驱动应急响应](https://www.freebuf.com/defense/407361.html)
+

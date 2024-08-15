@@ -113,3 +113,47 @@
 
 + [带你重温童年回忆《吉米克2》确定9月5日发售](https://www.3dmgame.com/news/202408/3901866.html)
 
++ [Steam全新评测价值系统正在测试中 旨在展示更有价值的用户评测](https://www.3dmgame.com/news/202408/3901886.html)
+
++ [R星正在为《GTA6》开发新Mod工具 让游戏内容更丰富](https://www.3dmgame.com/news/202408/3901889.html)
+
++ [《潜行者2》世界及地点实机 11月20日发售](https://www.3dmgame.com/news/202408/3901887.html)
+
++ [美国演员工会即将举办第二次对游戏公司罢工纠察](https://www.3dmgame.com/news/202408/3901888.html)
+
++ [《守望先锋2》国际服发布第12赛季预告 将联动《魔兽世界》](https://www.3dmgame.com/news/202408/3901884.html)
+
++ [《犯罪现场清洁师》Steam发售 解决师的地下生活](https://www.3dmgame.com/news/202408/3901885.html)
+
++ [《异形：夺命舰》外媒口碑解禁 IGN给出8分好评](https://www.3dmgame.com/news/202408/3901883.html)
+
++ [或有Xbox独占大作下周登陆PS主机 可能是《地平线5》](https://www.3dmgame.com/news/202408/3901882.html)
+
++ [《Wasteland Waste disposal》Steam页面 2026年发售](https://www.3dmgame.com/news/202408/3901881.html)
+
++ [传言亚马逊正在制作《洞窟探险》等游戏改编动画 《爱死机》团队负责](https://www.3dmgame.com/news/202408/3901880.html)
+
++ [《死亡岛2》大型免费更新10月上线 添加“新游戏+”模式](https://www.3dmgame.com/news/202408/3901879.html)
+
++ [发行商暗示《天国：拯救2》可能会跳票到2025年](https://www.3dmgame.com/news/202408/3901876.html)
+
++ [《指环王：力量之戒》第二季新预告 日益蔓延的黑暗深渊](https://www.3dmgame.com/news/202408/3901875.html)
+
++ [游戏产业模拟游戏《Let“s Build a Dungeon》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202408/3901878.html)
+
++ [《Kill The Clock》Steam试玩发布 推理悬疑](https://www.3dmgame.com/news/202408/3901877.html)
+
++ [黑鹄工作室UE5抗日游戏首个预告 大刀向鬼子头上砍去](https://www.3dmgame.com/news/202408/3901874.html)
+
++ [《龙腾世纪：影障守护者》发售日今晚12点公开](https://www.3dmgame.com/news/202408/3901873.html)
+
++ [大宇《阿猫阿狗》Steam版发售 国区售价17元](https://www.3dmgame.com/news/202408/3901872.html)
+
++ [343正在招聘高级AI工程师 打造AI驱动的创新游戏体验](https://www.3dmgame.com/news/202408/3901871.html)
+
++ [VR游戏椅Roto VR Explorer解决晕游戏问题](https://www.3dmgame.com/news/202408/3901870.html)
+
++ [狗特工潜行动作游戏《BARKOUR》首次公布](https://www.3dmgame.com/news/202408/3901869.html)
+
++ [开放世界冒险游戏《小骑士》公开预告片](https://www.3dmgame.com/news/202408/3901868.html)
+

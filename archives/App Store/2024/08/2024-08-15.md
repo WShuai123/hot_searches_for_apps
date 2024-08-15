@@ -211,3 +211,7 @@
 
 + [微信输入法](https://itunes.apple.com/cn/app/id1618175312?mt=8)
 
++ [什里电子](https://itunes.apple.com/cn/app/id6470369434?mt=8)
+
++ [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
+
