@@ -53,3 +53,5 @@
 
 + [开售 4 个月立减 1600 元：华为 Pura 70 Pro + 手机 512G 版 6399 元京东新低](https://m.ithome.com/html/788599.htm)
 
++ [请尽快安装补丁！微软 Win10 / Win11 被曝 9.8 分漏洞：我国昆仑实验室发现，影响所有启用 IPv6 系统](https://m.ithome.com/html/788605.htm)
+

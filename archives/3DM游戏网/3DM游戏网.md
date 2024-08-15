@@ -241,3 +241,21 @@
 
 + [《七键骑士》9月Steam抢先体验 栏位管理肉鸽元素新游](https://www.3dmgame.com/news/202408/3901927.html)
 
++ [免费MMORPG《宝藏世界》银月遗落活动开启，混沌狼群肆虐](https://www.3dmgame.com/news/202408/3901940.html)
+
++ [《风来的希炼6》官方提醒 游戏仍在开发先别急着雪藏](https://www.3dmgame.com/news/202408/3901938.html)
+
++ [DualSenseTM无线控制器——为所有游戏玩家架起无障碍体验音乐的桥梁](https://www.3dmgame.com/news/202408/3901939.html)
+
++ [敖厂长预计外媒IGN给《黑神话》评8分 大家拭目以待](https://www.3dmgame.com/news/202408/3901937.html)
+
++ [科技公司推出头部跟踪旋转椅：降低VR晕动症症状](https://www.3dmgame.com/news/202408/3901936.html)
+
++ [功耗降低、性能提升！我国科学家发明新型“热发射极”晶体管](https://www.3dmgame.com/news/202408/3901935.html)
+
++ [零售商泄露《漫威 vs. 卡普空格斗合集：经典街机》11月22日发售](https://www.3dmgame.com/news/202408/3901934.html)
+
++ [《使命召唤21》PC配置需求 最低需GTX960/GTX1650](https://www.3dmgame.com/news/202408/3901933.html)
+
++ [苹果明年有大招 分析师看好iPhone 17系列](https://www.3dmgame.com/news/202408/3901932.html)
+
