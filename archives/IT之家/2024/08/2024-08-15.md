@@ -49,3 +49,7 @@
 
 + [雷军：小米 SU7 Max 交付进一步加速，新下定用户可提前 6 周提车](https://m.ithome.com/html/788534.htm)
 
++ [神秘大型豪华轿车谍照曝光：有望为鸿蒙智行尊界，支持后轮转向](https://m.ithome.com/html/788564.htm)
+
++ [开售 4 个月立减 1600 元：华为 Pura 70 Pro + 手机 512G 版 6399 元京东新低](https://m.ithome.com/html/788599.htm)
+

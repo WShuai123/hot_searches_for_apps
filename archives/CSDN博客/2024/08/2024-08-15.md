@@ -167,3 +167,9 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141183780)
 
++ [利用CICD管道和MLOps自动化微调、部署亚马逊云科技上的AI大语言模型](https://blog.csdn.net/m0_66628975/article/details/141202929)
+
++ [HarmonyOS应用开发者高级认证（一）](https://blog.csdn.net/qq_29385297/article/details/141157768)
+
++ [【GLM-4部署实战】GLM-4-9B-Chat模型之vLLM部署推理实践](https://blog.csdn.net/xiaobing259/article/details/141198013)
+

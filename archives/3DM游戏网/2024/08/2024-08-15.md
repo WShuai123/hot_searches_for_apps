@@ -231,3 +231,13 @@
 
 + [《龙腾世纪：影障守护者》广告泄露游戏将于10月31日发售 预购即将开启](https://www.3dmgame.com/news/202408/3901920.html)
 
++ [《星刃》大获成功后 韩国厂商对单人游戏兴趣与日俱增](https://www.3dmgame.com/news/202408/3901931.html)
+
++ [《怪物猎人：荒野》斩斧介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901930.html)
+
++ [小米汽车回应博主对撞测试：不严谨、不完整、不真实](https://www.3dmgame.com/news/202408/3901929.html)
+
++ [《雷霆一击》社区举办慈善竞赛 为患癌玩家筹集药费](https://www.3dmgame.com/news/202408/3901928.html)
+
++ [《七键骑士》9月Steam抢先体验 栏位管理肉鸽元素新游](https://www.3dmgame.com/news/202408/3901927.html)
+
