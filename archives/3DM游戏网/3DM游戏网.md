@@ -205,3 +205,9 @@
 
 + [传闻：《最终幻想16》即将登陆Xbox 只等SE宣布](https://www.3dmgame.com/news/202408/3901905.html)
 
++ [像素风格微恐解谜游戏《电子幻术》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901915.html)
+
++ [《天国：拯救2》官宣2025年2月11日发售 科隆游戏展将首爆实机演示](https://www.3dmgame.com/news/202408/3901916.html)
+
++ [上半年净利润大增72%！马化腾说出了腾讯最核心优势](https://www.3dmgame.com/news/202408/3901914.html)
+

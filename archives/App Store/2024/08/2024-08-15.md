@@ -217,3 +217,5 @@
 
 + [爱奇艺-《九部的检察官》独播](https://itunes.apple.com/cn/app/id393765873?mt=8)
 
++ [QQ浏览器-学习加速，暑假无忧](https://itunes.apple.com/cn/app/id370139302?mt=8)
+

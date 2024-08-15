@@ -55,3 +55,7 @@
 
 + [基于亚马逊语音助手的物联网命令劫持](https://www.freebuf.com/vuls/408166.html)
 
++ [攻防演练 | 安全编排自动化响应SOAR项目记录](https://www.freebuf.com/articles/es/399232.html)
+
++ [Windows TCP IP漏洞影响所有启用IPv6的系统，立即打补丁](https://www.freebuf.com/news/408681.html)
+

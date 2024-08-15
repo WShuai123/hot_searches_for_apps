@@ -43,3 +43,5 @@
 
 + [全球最快手机充电！realme 真我 320W 超光速秒充发布，4 分半充满 4420mAh 电池](https://m.ithome.com/html/788437.htm)
 
++ [Redmi K70 系列、K60 至尊版等机型推送小米澎湃 OS 正式版内测尝鲜](https://m.ithome.com/html/788500.htm)
+
