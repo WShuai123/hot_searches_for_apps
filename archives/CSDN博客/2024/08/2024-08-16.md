@@ -131,3 +131,5 @@
 
 + [RabbitMQ实现多线程处理接收消息](https://blog.csdn.net/qq_73440769/article/details/141176299)
 
++ [SQL— DDL语句学习【后端 10】](https://blog.csdn.net/delepaste/article/details/141230912)
+
