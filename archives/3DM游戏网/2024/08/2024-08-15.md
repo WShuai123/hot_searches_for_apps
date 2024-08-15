@@ -183,3 +183,25 @@
 
 + [图森进军AI 打造《三体》系列电影及游戏](https://www.3dmgame.com/news/202408/3901895.html)
 
++ [谷歌前CEO语出惊人 AI创业可先“偷”后“处理”](https://www.3dmgame.com/news/202408/3901908.html)
+
++ [温馨冒险游戏《自然邮票》Steam页面上线 2026年发售](https://www.3dmgame.com/news/202408/3901909.html)
+
++ [《泰拉科技》开发商Payload工作室宣布裁员25%员工](https://www.3dmgame.com/news/202408/3901910.html)
+
++ [Techland注册新商标《消逝的光芒：野兽》 或将是新DLC](https://www.3dmgame.com/news/202408/3901911.html)
+
++ [《VHS: Recovered Tapes》登陆Steam 沉浸式恐怖探险](https://www.3dmgame.com/news/202408/3901912.html)
+
++ [2D平台肉鸽类动作游戏《艾尔茜》现已推出试玩Demo 9月10日正式发售](https://www.3dmgame.com/news/202408/3901913.html)
+
++ [动作潜行游戏《Barkour》Steam页面上线 支持简中](https://www.3dmgame.com/news/202408/3901903.html)
+
++ [Unity公司首席执行官：并没有完全相信生成式AI技术](https://www.3dmgame.com/news/202408/3901904.html)
+
++ [日本新调查8成受访者看过虚拟偶像直播 近半数都是工薪族](https://www.3dmgame.com/news/202408/3901906.html)
+
++ [第三人称动作射击游戏《炼狱颂歌》现已推出试玩Demo](https://www.3dmgame.com/news/202408/3901907.html)
+
++ [传闻：《最终幻想16》即将登陆Xbox 只等SE宣布](https://www.3dmgame.com/news/202408/3901905.html)
+

@@ -49,3 +49,7 @@
 
 + [霸王茶姬招人啦](https://www.freebuf.com/news/408678.html)
 
++ [刚刚，GitHub 遭遇全球宕机，Copilot 也瘫痪了！开发者：今天可以光明正大摸鱼了](https://www.freebuf.com/news/408688.html)
+
++ [GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://www.freebuf.com/news/408680.html)
+
