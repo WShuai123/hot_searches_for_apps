@@ -147,3 +147,5 @@
 
 + [MES生产执行系统源码，支持 SaaS 多租户，技术架构：springboot + vue-element-plus-admin](https://blog.csdn.net/baina666/article/details/141194322)
 
++ [实战项目：贪吃蛇游戏的实现（下）](https://blog.csdn.net/2302_79964175/article/details/141212815)
+

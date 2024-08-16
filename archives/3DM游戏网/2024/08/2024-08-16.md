@@ -161,3 +161,17 @@
 
 + [EA公布《龙腾世纪: 影障守护者》发售日预告](https://www.3dmgame.com/news/202408/3901955.html)
 
++ [《嗜血印》重大更新上线 豪华版全服装DLC仅售98元](https://www.3dmgame.com/news/202408/3901970.html)
+
++ [《黑色行动6》容量更小 首发时不再默认下载《战区》](https://www.3dmgame.com/news/202408/3901969.html)
+
++ [《野狗子》全新故事预告片 在恐怖街道消灭怪物](https://www.3dmgame.com/news/202408/3901968.html)
+
++ [《星球大战：日蚀》首席编剧现已离开Quantic Dream](https://www.3dmgame.com/news/202408/3901967.html)
+
++ [《文明7》Steam版不再需要2K启动器 游戏体验增强](https://www.3dmgame.com/news/202408/3901966.html)
+
++ [《夺宝奇兵：古老之圈》不会延期 仍将在今年内推出](https://www.3dmgame.com/news/202408/3901965.html)
+
++ [《龙腾世纪：影障守护者》上架Steam 国区售价298元](https://www.3dmgame.com/news/202408/3901964.html)
+

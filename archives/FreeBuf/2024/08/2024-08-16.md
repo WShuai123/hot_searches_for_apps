@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 网络钓鱼活动冒充乌克兰国家安全局；特朗普竞选团队在大选期间被黑](https://www.freebuf.com/news/408517.html)
 
++ [FreeBuf早报 | 2024 上半年勒索攻击洞察；更多黑客想要攻击苹果](https://www.freebuf.com/news/408752.html)
+
++ [等保测评 | 安全计算环境—Linux（深入研究）之身份鉴别层面](https://www.freebuf.com/articles/compliance/407473.html)
+
