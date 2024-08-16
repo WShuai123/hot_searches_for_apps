@@ -49,3 +49,5 @@
 
 + [议题征集开启 | FCIS 2024网络安全创新大会·十周年](https://www.freebuf.com/fevents/408636.html)
 
++ [Gafgyt僵尸网络针对云原生环境，SSH弱密码成GPU挖矿新目标](https://www.freebuf.com/news/408781.html)
+

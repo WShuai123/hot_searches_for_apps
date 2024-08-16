@@ -221,3 +221,11 @@
 
 + [《亚利桑那阳光 重制版》Steam页面上线 10月18日发售](https://www.3dmgame.com/news/202408/3901989.html)
 
++ [裁员潮或将放缓：新报告称游戏行业已“显示复苏迹象”](https://www.3dmgame.com/news/202408/3901997.html)
+
++ [叙事冒险游戏《上次见到你》新预告 宣布10月10日发售](https://www.3dmgame.com/news/202408/3901996.html)
+
++ [策略建造游戏《异形工厂2》现已抢先体验推出 获特别好评](https://www.3dmgame.com/news/202408/3901995.html)
+
++ [叙事型农场模拟游戏《巫鸦丰收祭》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901994.html)
+
