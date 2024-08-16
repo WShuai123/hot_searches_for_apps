@@ -135,3 +135,9 @@
 
 + [计算机网络——运输层（进程之间的通信、运输层端口，UDP与TCP、TCP详解）](https://blog.csdn.net/2303_80204192/article/details/141003673)
 
++ [Ceph数据恢复方案–分布式文件系统删除数据的恢复](https://blog.csdn.net/jinhaishuoX/article/details/141263922)
+
++ [基于yolov10的目标检测模型概述](https://blog.csdn.net/ccsss22/article/details/141269106)
+
++ [【hdlbits】个人学习交流分享（带答案）——verilog language部分](https://blog.csdn.net/2301_82312663/article/details/141246232)
+
