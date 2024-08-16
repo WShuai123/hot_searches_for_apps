@@ -229,3 +229,11 @@
 
 + [叙事型农场模拟游戏《巫鸦丰收祭》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901994.html)
 
++ [太娇气！iPhone频繁遭遇无法充电 安卓用户神吐槽](https://www.3dmgame.com/news/202408/3902001.html)
+
++ [生存恐怖悬疑冒险游戏《无名之地》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3901999.html)
+
++ [《使命召唤：黑色行动6》测试各平台空间需求公开](https://www.3dmgame.com/news/202408/3902000.html)
+
++ [《Usagi Shima: Bunny Island》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3901998.html)
+

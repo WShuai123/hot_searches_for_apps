@@ -165,3 +165,11 @@
 
 + [微服务实战系列之玩转Docker（十）](https://blog.csdn.net/splendid_java/article/details/141220567)
 
++ [人工智能小车——智能车臂控制平台](https://blog.csdn.net/zonesion/article/details/141186557)
+
++ [利用PostgreSQL向量数据库和负责任的AI知识库在亚马逊云科技上构建商品推荐机器人](https://blog.csdn.net/m0_66628975/article/details/141187584)
+
++ [数据库方式实现实时排行榜](https://blog.csdn.net/m0_64637029/article/details/141158693)
+
++ [超高速NVME FPGA存储卡记录](https://blog.csdn.net/mochenbaobei/article/details/141220342)
+
