@@ -129,3 +129,9 @@
 
 + [基于ssm+vue+uniapp的二手闲置交易市场小程序](https://blog.csdn.net/shmp54/article/details/141231633)
 
++ [实战项目：贪吃蛇游戏的实现（下）](https://blog.csdn.net/2302_79964175/article/details/141212815)
+
++ [FreeRTOS——优化系统（基于百问网FreeRTOS教学视频）](https://blog.csdn.net/weixin_62897522/article/details/141198606)
+
++ [计算机网络——运输层（进程之间的通信、运输层端口，UDP与TCP、TCP详解）](https://blog.csdn.net/2303_80204192/article/details/141003673)
+
