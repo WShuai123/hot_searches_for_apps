@@ -155,3 +155,9 @@
 
 + [软件开发者的首选：最佳Bug测试工具Top 10](https://blog.csdn.net/XPF156915/article/details/141200835)
 
++ [【吸引力法则】探究人生欲：追求深度体验与宇宙链接](https://blog.csdn.net/2201_75539691/article/details/141201300)
+
++ [2024年前端技术发展趋势分析](https://blog.csdn.net/qq_35374791/article/details/141195463)
+
++ [springboot集成sensitive-word实现敏感词过滤](https://blog.csdn.net/qq_21880261/article/details/141169987)
+

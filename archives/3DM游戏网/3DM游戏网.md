@@ -201,3 +201,23 @@
 
 + [《侠盗猎车：圣安地列斯》VR重制版已被无限期搁置](https://www.3dmgame.com/news/202408/3901971.html)
 
++ [最新游戏技术报告：开发者目前面临最大困难是缺乏投资](https://www.3dmgame.com/news/202408/3901990.html)
+
++ [云游戏平台Blacknut与育碧达成合作 提供育碧旗下游戏](https://www.3dmgame.com/news/202408/3901991.html)
+
++ [任天堂真爱粉 在线服务关闭4个月后 3DS仍有1名玩家坚持在线](https://www.3dmgame.com/news/202408/3901992.html)
+
++ [传奇影业宣布推出金刚IP新游戏《金刚：生存本能》 年内发售](https://www.3dmgame.com/news/202408/3901993.html)
+
++ [钓鱼冒险游戏《渔帆暗涌》全新DLC“铁岛深渊”正式推出获特别好评](https://www.3dmgame.com/news/202408/3901984.html)
+
++ [《Scriptorium》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901985.html)
+
++ [城堡建造游戏《林间小世界》宣布9月23日发售 登陆Steam](https://www.3dmgame.com/news/202408/3901986.html)
+
++ [Embracer财报：没新游戏 第一季度销售额大幅下降](https://www.3dmgame.com/news/202408/3901987.html)
+
++ [英伟达《黑神话》专属驱动下周发布 这待遇国产游戏第一家](https://www.3dmgame.com/news/202408/3901988.html)
+
++ [《亚利桑那阳光 重制版》Steam页面上线 10月18日发售](https://www.3dmgame.com/news/202408/3901989.html)
+
