@@ -53,3 +53,5 @@
 
 + [经验分享 | 一文学会jwt劫持](https://www.freebuf.com/articles/web/407995.html)
 
++ [RansomHub最新勒索软件“浮出水面”，可篡改EDR软件](https://www.freebuf.com/news/408777.html)
+

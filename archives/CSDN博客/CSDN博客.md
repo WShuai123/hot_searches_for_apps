@@ -173,3 +173,15 @@
 
 + [超高速NVME FPGA存储卡记录](https://blog.csdn.net/mochenbaobei/article/details/141220342)
 
++ [灵办AI免费ChatGPT4人工智能浏览器插件快速便捷(多功能)](https://blog.csdn.net/jxjdhdnd/article/details/141232394)
+
++ [基于YOLOv10深度学习的草莓成熟度检测与识别系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、人工智能](https://blog.csdn.net/qq_42589613/article/details/141222178)
+
++ [springBoot框架](https://blog.csdn.net/weixin_45939821/article/details/141160120)
+
++ [Ubuntu 批量杀死进程](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/141213130)
+
++ [Linux系统移植——开发板烧写](https://blog.csdn.net/m0_63168877/article/details/141162834)
+
++ [flink车联网项目前篇：数据开发（第66天）](https://blog.csdn.net/syhiiu/article/details/141250476)
+
