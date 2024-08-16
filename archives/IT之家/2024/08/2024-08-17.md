@@ -25,3 +25,7 @@
 
 + [华为面向鸿蒙 HarmonyOS NEXT Beta 升级用户不定期赠送“影视会员”和“超级音乐 VIP”](https://m.ithome.com/html/788974.htm)
 
++ [小米澎湃 OS 招募桌面内测：优化基础布局结构、提升桌面美观度等](https://m.ithome.com/html/789042.htm)
+
++ [问界 M8 谍照曝光：有望配备 M7 同款前脸及 M9 同款尾灯](https://m.ithome.com/html/788870.htm)
+
