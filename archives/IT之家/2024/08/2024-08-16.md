@@ -61,3 +61,5 @@
 
 + [“绿牌”特斯拉 Cybertruck 赛博越野旅行车现身天津街头](https://m.ithome.com/html/789051.htm)
 
++ [《黑神话：悟空》全球媒体评分解禁：IGN 中国满分 10 分“国产游戏行业里程碑”、M 站 83 分](https://m.ithome.com/html/789089.htm)
+

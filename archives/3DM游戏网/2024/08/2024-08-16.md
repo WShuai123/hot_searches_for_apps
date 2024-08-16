@@ -355,3 +355,9 @@
 
 + [AMD扩大“Sinkclose”漏洞修复范围 Ryzen 3000系列处理器也将获得补丁](https://www.3dmgame.com/news/202408/3902039.html)
 
++ [《黑神话：悟空》IGN 8分  优化不足但战斗出色](https://www.3dmgame.com/news/202408/3902043.html)
+
++ [《黑神话：悟空》媒体评分解禁 M站均分84](https://www.3dmgame.com/news/202408/3902042.html)
+
++ [《黑神话：悟空》IGN 8分 一款优秀的动作游戏](https://www.3dmgame.com/news/202408/3902041.html)
+

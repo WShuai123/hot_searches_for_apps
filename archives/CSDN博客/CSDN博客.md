@@ -215,3 +215,5 @@
 
 + [FPGA资源评估](https://blog.csdn.net/Qqyangleiyu/article/details/141202069)
 
++ [智源千万级指令微调数据集Infinity-Instruct持续迭代，Llama3.1仅微调即可接近GPT-4](https://blog.csdn.net/eagleofstar/article/details/141221569)
+
