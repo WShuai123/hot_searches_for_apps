@@ -201,3 +201,9 @@
 
 + [单元测试、系统测试、集成测试知识总结](https://blog.csdn.net/zhangsiyuan1998/article/details/141229862)
 
++ [【机器学习】探索数据矿藏：Python中的AI大模型与数据挖掘创新实践](https://blog.csdn.net/2302_80269373/article/details/141232504)
+
++ [文心快码 - 帮我2小时快速学习并实践Go语言完成登录系统开发](https://blog.csdn.net/m0_68635815/article/details/141220615)
+
++ [网络协议--TCP/IP协议栈--三握和四挥](https://blog.csdn.net/flytalei/article/details/141198618)
+

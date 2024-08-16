@@ -331,3 +331,13 @@
 
 + [漫改动画作品《格斗实况》放出角色PV 2024年4月开播](https://www.3dmgame.com/news/202402/3889306.html)
 
++ [《星战前夜》区块链生存游戏5月开启第三阶段测试](https://www.3dmgame.com/news/202403/3890490.html)
+
++ [PS5/PS4『机动战士高达 激战任务２』６周年纪念GBO OFF！活动报导](https://www.3dmgame.com/news/202408/3902029.html)
+
++ [《窗外是蓝星》立项 中国首部太空拍摄实景电影](https://www.3dmgame.com/news/202408/3902032.html)
+
++ [公司落后是因为员工不够拼命！谷歌前CEO火速道歉](https://www.3dmgame.com/news/202408/3902031.html)
+
++ [《女神异闻录３ Reload》DLC“扩展通行证” 第三弹“Episode Aegis”内容发布！](https://www.3dmgame.com/news/202408/3902030.html)
+

@@ -37,3 +37,25 @@
 
 + [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
 
++ [chen08209 / FlClash](https://github.com/chen08209/FlClash)
+
++ [aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+
++ [hcengineering / platform](https://github.com/hcengineering/platform)
+
++ [meshery / meshery](https://github.com/meshery/meshery)
+
++ [kedro-org / kedro](https://github.com/kedro-org/kedro)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [gogf / gf](https://github.com/gogf/gf)
+
++ [neovim / neovim](https://github.com/neovim/neovim)
+
++ [ollama / ollama](https://github.com/ollama/ollama)
+

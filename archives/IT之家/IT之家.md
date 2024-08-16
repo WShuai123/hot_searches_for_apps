@@ -55,3 +55,5 @@
 
 + [要知 App 0.50 大更新：竖排、IT之家账号登录、字号、菜单、无障碍……](https://m.ithome.com/html/788914.htm)
 
++ [王自如被曝已离职，格力电器暂无回应](https://m.ithome.com/html/789041.htm)
+
