@@ -45,3 +45,7 @@
 
 + [等保测评 | 安全计算环境—Linux（深入研究）之身份鉴别层面](https://www.freebuf.com/articles/compliance/407473.html)
 
++ [从架构与设计视角如何降低身份认证类的安全风险](https://www.freebuf.com/articles/system/407742.html)
+
++ [议题征集开启 | FCIS 2024网络安全创新大会·十周年](https://www.freebuf.com/fevents/408636.html)
+

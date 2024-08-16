@@ -175,3 +175,29 @@
 
 + [《龙腾世纪：影障守护者》上架Steam 国区售价298元](https://www.3dmgame.com/news/202408/3901964.html)
 
++ [科幻动作RPG《新柏林2087》科隆展实机宣传片](https://www.3dmgame.com/news/202408/3901983.html)
+
++ [硬核战术游戏《CORRUPTION 2029》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3901976.html)
+
++ [《Looney Tunes》Steam页面上线 9月28日发售](https://www.3dmgame.com/news/202408/3901981.html)
+
++ [《上古卷轴》新手游《城堡》9月10日全球范围发布](https://www.3dmgame.com/news/202408/3901982.html)
+
++ [开放世界生存建造游戏《反抗黎明》现已抢先体验推出 获特别好评](https://www.3dmgame.com/news/202408/3901980.html)
+
++ [9月17日，《勇敢小骑士》跳出书页，进军电脑屏幕！](https://www.3dmgame.com/news/202408/3901979.html)
+
++ [限时免费！《猎杀：对决》史诗级更新，Steam免费周末即刻体验](https://www.3dmgame.com/news/202408/3901978.html)
+
++ [《inZOI》发售时将获得官方Mod支持 与Overwolf合作](https://www.3dmgame.com/news/202408/3901977.html)
+
++ [《女神异闻录３：Reload》“埃癸斯篇”新预告 9月10日上线](https://www.3dmgame.com/news/202408/3901973.html)
+
++ [《杀手3 VR：重装上阵》公布新预告 将登录Meta Quest 3平台](https://www.3dmgame.com/news/202408/3901975.html)
+
++ [《使命召唤：现代战争重制版》备受期待Mod被动视勒令禁止发布](https://www.3dmgame.com/news/202408/3901974.html)
+
++ [《绝区零》新角色动画效果 美女大腿抖动让人激动](https://www.3dmgame.com/news/202408/3901972.html)
+
++ [《侠盗猎车：圣安地列斯》VR重制版已被无限期搁置](https://www.3dmgame.com/news/202408/3901971.html)
+
