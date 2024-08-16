@@ -193,3 +193,11 @@
 
 + [【计算机网络】TCP实战](https://blog.csdn.net/2301_78636079/article/details/141218162)
 
++ [【机器学习】CNN的基本架构模块](https://blog.csdn.net/qq_44214428/article/details/141089077)
+
++ [GitHub 斩获近 20,000 Star，创始人揭秘跨平台自动化 APP 开发 | Open AGI Forum](https://blog.csdn.net/GOSIM2023/article/details/141245883)
+
++ [Kali Linux 三种网络攻击方法总结（DDoS、CC 和 ARP 欺骗）](https://blog.csdn.net/2301_77160226/article/details/141227125)
+
++ [单元测试、系统测试、集成测试知识总结](https://blog.csdn.net/zhangsiyuan1998/article/details/141229862)
+

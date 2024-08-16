@@ -53,3 +53,5 @@
 
 + [问界 M8 谍照曝光：有望配备 M7 同款前脸及 M9 同款尾灯](https://m.ithome.com/html/788870.htm)
 
++ [要知 App 0.50 大更新：竖排、IT之家账号登录、字号、菜单、无障碍……](https://m.ithome.com/html/788914.htm)
+
