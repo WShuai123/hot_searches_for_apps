@@ -57,3 +57,5 @@
 
 + [王自如被曝已离职，格力电器暂无回应](https://m.ithome.com/html/789041.htm)
 
++ [华为面向鸿蒙 HarmonyOS NEXT Beta 升级用户不定期赠送“影视会员”和“超级音乐 VIP”](https://m.ithome.com/html/788974.htm)
+

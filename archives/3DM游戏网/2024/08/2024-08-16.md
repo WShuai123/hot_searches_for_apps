@@ -341,3 +341,9 @@
 
 + [《女神异闻录３ Reload》DLC“扩展通行证” 第三弹“Episode Aegis”内容发布！](https://www.3dmgame.com/news/202408/3902030.html)
 
++ [徐峥回应《逆行人生》“消费苦难”争议](https://www.3dmgame.com/news/202408/3902036.html)
+
++ [知网向AI搜索网站发侵权告知函！网友：吃相太难看](https://www.3dmgame.com/news/202408/3902034.html)
+
++ [远超苹果！余承东再秀华为三折叠真机：厚度有惊喜](https://www.3dmgame.com/news/202408/3902035.html)
+
