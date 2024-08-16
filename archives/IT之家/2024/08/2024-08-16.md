@@ -45,3 +45,11 @@
 
 + [学生篡改同学高考志愿被刑拘，构成“破坏计算机系统罪”](https://m.ithome.com/html/788917.htm)
 
++ [低至 168 元 / 年：百度网盘 SVIP 官方开学季预售正式开始](https://m.ithome.com/html/788777.htm)
+
++ [微软 Windows 奇怪 Bug 增加了：AMD 处理器可通过切换到隐藏管理员账户提高游戏性能](https://m.ithome.com/html/788834.htm)
+
++ [豆丁网 100 万元被“贱卖”，净利润“过山车式”暴涨暴跌](https://m.ithome.com/html/788868.htm)
+
++ [问界 M8 谍照曝光：有望配备 M7 同款前脸及 M9 同款尾灯](https://m.ithome.com/html/788870.htm)
+

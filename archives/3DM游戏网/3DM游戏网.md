@@ -247,3 +247,47 @@
 
 + [瑞幸官宣《黑神话：悟空》联动饮品 将于8月19日上线](https://www.3dmgame.com/news/202408/3902004.html)
 
++ [角色扮演游戏《七蛟龙》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3902024.html)
+
++ [《怪物猎人：荒野》武器介绍视频【弓】：兄弟们有挂！](https://www.3dmgame.com/news/202408/3902025.html)
+
++ [古风城市建造游戏《岁久丹青》新预告 试玩版Steam上线](https://www.3dmgame.com/news/202408/3902026.html)
+
++ [《名侦探柯南：百万美元的五棱星》曝终极海报及预告，今日上映引燃期待！](https://www.3dmgame.com/news/202408/3902027.html)
+
++ [单人游戏更有吸引力 《星刃》PC版上市时间不会太迟](https://www.3dmgame.com/news/202408/3902028.html)
+
++ [漫画《迷宫饭》作者很喜欢《博德之门3》 没玩过D&D](https://www.3dmgame.com/news/202408/3902021.html)
+
++ [《上古卷轴5》食谱将在下月推出全新续篇 包含60多种美食](https://www.3dmgame.com/news/202408/3902022.html)
+
++ [苹果堵死iOS 17.6降级通道！只能静待iOS 18了](https://www.3dmgame.com/news/202408/3902023.html)
+
++ [ARK系列发行商蜗牛游戏发布3A开放宇宙游戏](https://www.3dmgame.com/news/202408/3902012.html)
+
++ [35岁从大厂裸辞返乡，现实版“逆行人生”，小县城的百万赢家！](https://www.3dmgame.com/news/202408/3902013.html)
+
++ [KK官方对战平台爆火新图《伐木生存》上线，今夏最不容错过的建造生存地图！](https://www.3dmgame.com/news/202408/3902014.html)
+
++ [借助全景光线追踪和DLSS 3，在8月20日获得《黑神话：悟空》(Black Myth: Wukon](https://www.3dmgame.com/news/202408/3902015.html)
+
++ [传闻：《使命召唤2026》是现代战争4 目前开发已停滞](https://www.3dmgame.com/news/202408/3902016.html)
+
++ [美团无人机配送服务进京 首条航线在八达岭长城开通](https://www.3dmgame.com/news/202408/3902017.html)
+
++ [动物拟人RPG《安尼姆的无尽旅途》今日正式上线TapTap PC端年内发售](https://www.3dmgame.com/news/202408/3902018.html)
+
++ [神秘之爱揭开帷幕，《Eternal Kingdom, Curses of Love》即将震撼发布！](https://www.3dmgame.com/news/202408/3902019.html)
+
++ [全新赛道！影核的废土朋克新游《狂野刃轮》再掀多人快节奏对战狂潮！](https://www.3dmgame.com/news/202408/3902020.html)
+
++ [《龙腾世纪：影障守护者》实体典藏版不包含游戏本体](https://www.3dmgame.com/news/202408/3902009.html)
+
++ [免费卡牌游戏《黑暗领主》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3902010.html)
+
++ [好活当赏！国产疯狂动物城版战地？老外狂喜！](https://www.3dmgame.com/news/202408/3902011.html)
+
++ [《英雄传说：黎之轨迹2》Switch中文版正式发售 定价292港币](https://www.3dmgame.com/news/202408/3902007.html)
+
++ [roguelike动作游戏《魔女的庭院》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3902008.html)
+
