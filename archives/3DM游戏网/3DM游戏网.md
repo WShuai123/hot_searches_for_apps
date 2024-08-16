@@ -103,3 +103,11 @@
 
 + [《热血无赖：终极版》Steam特惠促销 仅售13.2元](https://www.3dmgame.com/news/202408/3902046.html)
 
++ [《黑神话：悟空》IGN中国10分 路在脚下](https://www.3dmgame.com/news/202408/3902050.html)
+
++ [《黑神话：悟空》GS 8分 没看过西游记就很难懂](https://www.3dmgame.com/news/202408/3902049.html)
+
++ [《星球大战：亡命之徒》新预告片展示多样化星球](https://www.3dmgame.com/news/202408/3902048.html)
+
++ [《圣剑传说：玛娜幻象》“旅游指南”预告片](https://www.3dmgame.com/news/202408/3902047.html)
+
