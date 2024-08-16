@@ -101,3 +101,5 @@
 
 + [ARK系列发行商蜗牛游戏发布3A开放宇宙游戏](https://www.3dmgame.com/news/202408/3902012.html)
 
++ [《热血无赖：终极版》Steam特惠促销 仅售13.2元](https://www.3dmgame.com/news/202408/3902046.html)
+
