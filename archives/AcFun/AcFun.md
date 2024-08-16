@@ -131,3 +131,15 @@
 
 + [“总有一束光为你而来”HANN](http://www.acfun.cn/v/ac46104832)
 
++ [这里是天堂吗？欢乐八点档-1013](http://www.acfun.cn/v/ac46104002)
+
++ [敬启，这是胡桃写给你的信](http://www.acfun.cn/v/ac46100335)
+
++ [【自制MMD】miku潜入神社传教！【结尾高能】](http://www.acfun.cn/v/ac46101129)
+
++ [~四周年直播预告~](http://www.acfun.cn/v/ac46104079)
+
++ [【游戏杂谈】索尼克冷门游戏——古怪世界创意工作室](http://www.acfun.cn/v/ac46101123)
+
++ [仰望U9，牛X！](http://www.acfun.cn/v/ac46101193)
+

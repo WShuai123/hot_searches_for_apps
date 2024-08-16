@@ -209,3 +209,9 @@
 
 + [够你学习的C++开源库](https://blog.csdn.net/shanniuliqingming/article/details/141202919)
 
++ [【实操】Spring Cloud Alibaba AI，阿里AI这不得玩一下(含前后端源码)](https://blog.csdn.net/baidu_25986059/article/details/141133919)
+
++ [【关于CVE-2024-38077漏洞Windows Server 2008和2012R2系统更新失败 打补丁指南】](https://blog.csdn.net/Destiny_425/article/details/141225607)
+
++ [FPGA资源评估](https://blog.csdn.net/Qqyangleiyu/article/details/141202069)
+

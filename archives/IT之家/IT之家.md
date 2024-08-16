@@ -59,3 +59,5 @@
 
 + [华为面向鸿蒙 HarmonyOS NEXT Beta 升级用户不定期赠送“影视会员”和“超级音乐 VIP”](https://m.ithome.com/html/788974.htm)
 
++ [“绿牌”特斯拉 Cybertruck 赛博越野旅行车现身天津街头](https://m.ithome.com/html/789051.htm)
+

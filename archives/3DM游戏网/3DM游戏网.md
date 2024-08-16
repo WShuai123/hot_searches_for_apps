@@ -351,3 +351,7 @@
 
 + [《EA Sports FC 24》成欧洲7月份最畅销游戏](https://www.3dmgame.com/news/202408/3902038.html)
 
++ [赛博朋克FPS《Defect》公布 前毁灭战士开发者打造](https://www.3dmgame.com/news/202408/3902040.html)
+
++ [AMD扩大“Sinkclose”漏洞修复范围 Ryzen 3000系列处理器也将获得补丁](https://www.3dmgame.com/news/202408/3902039.html)
+
