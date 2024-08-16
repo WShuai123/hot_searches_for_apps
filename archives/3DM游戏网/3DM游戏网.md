@@ -347,3 +347,7 @@
 
 + [远超苹果！余承东再秀华为三折叠真机：厚度有惊喜](https://www.3dmgame.com/news/202408/3902035.html)
 
++ [《最后的生还者》第二季 艾比女演员在片场需要特别保护](https://www.3dmgame.com/news/202408/3902037.html)
+
++ [《EA Sports FC 24》成欧洲7月份最畅销游戏](https://www.3dmgame.com/news/202408/3902038.html)
+
