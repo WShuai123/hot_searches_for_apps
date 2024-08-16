@@ -105,3 +105,17 @@
 
 + [Elevenstudios by ElevenLabs](https://www.producthunt.com/posts/elevenstudios-by-elevenlabs)
 
++ [Life Minute Photos](https://www.producthunt.com/posts/life-minute-photos)
+
++ [Struct2AI](https://www.producthunt.com/posts/struct2ai)
+
++ [Keyboard Sounds](https://www.producthunt.com/posts/keyboard-sounds)
+
++ [MindGuide](https://www.producthunt.com/posts/mindguide-2)
+
++ [Startups Leaderboards](https://www.producthunt.com/posts/startups-leaderboards)
+
++ [Folder Hub](https://www.producthunt.com/posts/folder-hub)
+
++ [Tome](https://www.producthunt.com/posts/tome-1)
+
