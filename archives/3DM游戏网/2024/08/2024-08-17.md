@@ -241,3 +241,5 @@
 
 + [牌组构建类肉鸽游戏《永恒字形传说》现已登录Steam页面](https://www.3dmgame.com/news/202407/3899083.html)
 
++ [传《月球叛军》惨败之后网飞取消扎导后续所有项目](https://www.3dmgame.com/news/202408/3902076.html)
+

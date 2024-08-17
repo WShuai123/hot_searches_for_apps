@@ -53,3 +53,7 @@
 
 + [记某研究院多处漏洞复盘](https://www.freebuf.com/articles/web/407404.html)
 
++ [攻防演练 | HVV蓝队复盘——总结（向上汇报）](https://www.freebuf.com/defense/374990.html)
+
++ [sttr：针对字符串的跨平台数据转换与处理工具](https://www.freebuf.com/sectool/408562.html)
+
