@@ -33,3 +33,11 @@
 
 + [与正牌官网仅域名一字之差，安全公司曝光山寨 WinRAR 压缩软件网站](https://m.ithome.com/html/789094.htm)
 
++ [离职“再添新证”，格力员工称此前需王自如签字的文件已换人签](https://m.ithome.com/html/789127.htm)
+
++ [苹果 iPhone 16 Pro Max 四种颜色曝光，新古铜色登场](https://m.ithome.com/html/789107.htm)
+
++ [英伟达：《黑神话：悟空》专属游戏驱动下周发布，支持全景光线追踪和 DLSS 3 技术](https://m.ithome.com/html/789104.htm)
+
++ [太空惊悚电影《异形：夺命舰》上映首日评分出炉：烂番茄 82%，IMDB 7.5](https://m.ithome.com/html/789090.htm)
+

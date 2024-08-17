@@ -179,3 +179,23 @@
 
 + [华丽的游戏！《黑神话：悟空》国外媒体评分汇总](https://www.3dmgame.com/news/202408/3902060.html)
 
++ [Epic Games高管表示四年官司耗费数亿美元昂贵成本](https://www.3dmgame.com/news/202408/3902072.html)
+
++ [战锤电影《杀戮小队》预告片 风险越来越高](https://www.3dmgame.com/news/202408/3902073.html)
+
++ [《猎杀：对决1896》更新玩家数新史高 官方回应UI改动引差评](https://www.3dmgame.com/news/202408/3902074.html)
+
++ [换脑术有望落地 美政府请科学家研究更换大脑战胜衰老](https://www.3dmgame.com/news/202408/3902069.html)
+
++ [《最终幻想9》最受欢迎的MOD四年后再获大更新](https://www.3dmgame.com/news/202408/3902070.html)
+
++ [被动视禁止发布后 《使命召唤：现代战争重制版》Mod已“泄露”](https://www.3dmgame.com/news/202408/3902071.html)
+
++ [生存续作《荒岛求生2》官宣开发 发行商成立新工作室](https://www.3dmgame.com/news/202408/3902067.html)
+
++ [AI马斯克篡改视频泛滥：1分钟骗走退休老人几十万](https://www.3dmgame.com/news/202408/3902065.html)
+
++ [《黑神话：悟空》PS5实机演示宣传片  8月20日重走西游](https://www.3dmgame.com/news/202408/3902066.html)
+
++ [《堡垒之夜》现已在欧盟重登iOS平台 并在全球范围回归安卓](https://www.3dmgame.com/news/202408/3902068.html)
+
