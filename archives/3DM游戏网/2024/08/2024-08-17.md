@@ -115,3 +115,57 @@
 
 + [《第一后裔》首个赛季“入侵”预告 8月29日上线、新后裔狙击手](https://www.3dmgame.com/news/202408/3902051.html)
 
++ [Redmi投影仪Lite绿色版开售 1080P高清799元](https://www.3dmgame.com/news/202408/3901562.html)
+
++ [恐龙主题FPS游戏《Son and Bone》PS5实机预告](https://www.3dmgame.com/news/202408/3901563.html)
+
++ [横版P言？《雾都残梦：心域突围》实机宣传片](https://www.3dmgame.com/news/202408/3901564.html)
+
++ [《神奇英侠》官方暗示不再和Sweet Baby合作](https://www.3dmgame.com/news/202408/3901565.html)
+
++ [《死侍3》原本有唐尼钢铁侠客串 但因为演毁灭博士而推掉](https://www.3dmgame.com/news/202408/3901566.html)
+
++ [《哈利波特：魁地奇锦标赛》预告片展示三巫学院](https://www.3dmgame.com/news/202408/3901567.html)
+
++ [《索尼克：世代》下个月下架 但还有办法能买到](https://www.3dmgame.com/news/202408/3901568.html)
+
++ [思路奇特 PlayWay公布《飞机墓地模拟器》](https://www.3dmgame.com/news/202408/3901569.html)
+
++ [英特尔下一代Arc Battlemage显卡配置细节曝光](https://www.3dmgame.com/news/202408/3901570.html)
+
++ [《黑神话：悟空》PC采用D加密 81个成就暗示九九八十一难](https://www.3dmgame.com/news/202408/3901571.html)
+
++ [《VLADiK BRUTAL》登陆Steam 第一人称FPS](https://www.3dmgame.com/news/202408/3901572.html)
+
++ [漫威动画剧集《假如……?》第三季为最终季](https://www.3dmgame.com/news/202408/3901573.html)
+
++ [《Torchless》Steam页面上线 复古迷宫探索RPG](https://www.3dmgame.com/news/202408/3901574.html)
+
++ [庆祝《怪物猎人》系列20周年 优衣库推出T恤打印服务](https://www.3dmgame.com/news/202408/3901575.html)
+
++ [《毁灭战士：黑暗时代》新细节 比之前游戏更加开放](https://www.3dmgame.com/news/202408/3901576.html)
+
++ [传言称NS2或将配备60W充电器 并在底座加入散热器](https://www.3dmgame.com/news/202408/3901577.html)
+
++ [GB新游《Super Dassalo Land》公布 2D横版动作](https://www.3dmgame.com/news/202408/3901578.html)
+
++ [《星战》剧集《星球大战：骷髅组》发布正式预告](https://www.3dmgame.com/news/202408/3901579.html)
+
++ [索尼正在PS商店测试文字评论系统 允许玩家写下评论](https://www.3dmgame.com/news/202408/3901580.html)
+
++ [宇宙机器人PS5手柄在欧洲开启预购之后被抢光](https://www.3dmgame.com/news/202408/3901581.html)
+
++ [《牛马假日》Steam页面公布 2026年5月1日发售](https://www.3dmgame.com/news/202408/3902055.html)
+
++ [射击游戏《Exoborne》将借鉴《黑帝斯》叙事模式](https://www.3dmgame.com/news/202408/3902053.html)
+
++ [离谱！《黑神话：悟空》被外媒评3分 因缺乏女性和多样性](https://www.3dmgame.com/news/202408/3902054.html)
+
++ [休闲独立策略游戏《Town Keeper》Steam页面公布 9月发售](https://www.3dmgame.com/news/202408/3902057.html)
+
++ [欧洲7月游戏销量榜：没有大作发布整体销量仍增长](https://www.3dmgame.com/news/202408/3902056.html)
+
++ [漫长法律斗争终见成效 Epic游戏商城推出移动端APP](https://www.3dmgame.com/news/202408/3902058.html)
+
++ [育碧做出“艰难决定” 美国两处工作室裁员45人](https://www.3dmgame.com/news/202408/3902059.html)
+

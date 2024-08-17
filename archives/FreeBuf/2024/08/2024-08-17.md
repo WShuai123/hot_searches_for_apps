@@ -45,3 +45,7 @@
 
 + [国内大量家用路由器网络访问异常和流量劫持事件分析](https://www.freebuf.com/vuls/408097.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
++ [一文带你了解逆向利器Radare2](https://www.freebuf.com/sectool/407372.html)
+
