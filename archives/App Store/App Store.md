@@ -205,3 +205,5 @@
 
 + [可颂](https://itunes.apple.com/cn/app/id6479338276?mt=8)
 
++ [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
+
