@@ -49,3 +49,23 @@
 
 + [Mascot design](https://dribbble.com/shots/)
 
++ [Working Relief Wordmark](https://dribbble.com/shots/)
+
++ [Napoletane Playing Cards](https://dribbble.com/shots/)
+
++ [Chicago - The City of Light and Shadow](https://dribbble.com/shots/)
+
++ [Satellite Dish](https://dribbble.com/shots/)
+
++ [USPS Pinback Button Postage Stamps](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Development Illustration](https://dribbble.com/shots/)
+
++ [Elegance makes a splash](https://dribbble.com/shots/)
+
++ [Symphony of sportsmanship](https://dribbble.com/shots/)
+
++ [Zhenya Artemjev Kawaii Illustrator](https://dribbble.com/shots/)
+
