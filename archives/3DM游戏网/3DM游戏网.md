@@ -101,3 +101,11 @@
 
 + [生存续作《荒岛求生2》官宣开发 发行商成立新工作室](https://www.3dmgame.com/news/202408/3902067.html)
 
++ [《荒野大镖客1》通过shadPS4模拟器实现PC60帧](https://www.3dmgame.com/news/202408/3902096.html)
+
++ [《星球大战：亡命之徒》PC特性预告片 针对14代优化](https://www.3dmgame.com/news/202408/3902097.html)
+
++ [显卡信息工具GPU-Z 2.60.0发布 终于支持骁龙X](https://www.3dmgame.com/news/202408/3902098.html)
+
++ [《电锯甜心RePOP》全新加长版实机预告片展示](https://www.3dmgame.com/news/202408/3902099.html)
+
