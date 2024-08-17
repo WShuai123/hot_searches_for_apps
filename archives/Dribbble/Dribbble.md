@@ -135,3 +135,13 @@
 
 + [Give me Peace - Vector Art](https://dribbble.com/shots/)
 
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Banking Mobile App](https://dribbble.com/shots/)
+
++ [something?](https://dribbble.com/shots/)
+
++ [Educational Web Platform Design Template](https://dribbble.com/shots/)
+
++ [Pinarello](https://dribbble.com/shots/)
+
