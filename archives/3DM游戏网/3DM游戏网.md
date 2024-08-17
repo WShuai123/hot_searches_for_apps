@@ -279,3 +279,5 @@
 
 + [传ARM在以色列开发GPU 和英伟达、英特尔竞争](https://www.3dmgame.com/news/202408/3902093.html)
 
++ [国外网友力挺《黑神话：悟空》 质疑缺乏多样性怎会毁掉游戏体验](https://www.3dmgame.com/news/202408/3902095.html)
+
