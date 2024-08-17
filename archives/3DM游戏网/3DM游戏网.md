@@ -257,3 +257,13 @@
 
 + [PS1经典游戏《断剑：圣堂武士之谜》将推4K重制版](https://www.3dmgame.com/news/202408/3902081.html)
 
++ [《怪物猎人：荒野》长枪介绍 明年正式发售](https://www.3dmgame.com/news/202408/3902085.html)
+
++ [《吸血鬼幸存者》“黑魔牌”免费更新补丁现已上线](https://www.3dmgame.com/news/202408/3902086.html)
+
++ [《吸血鬼幸存者》V1.11.1“黑魔牌”免费更新现已上线](https://www.3dmgame.com/news/202408/3902087.html)
+
++ [数千人签名要求恢复《使命召唤：现代战争重制版》MOD](https://www.3dmgame.com/news/202408/3902088.html)
+
++ [《酷极轮滑》开发者呼吁玩家都去玩这款游戏的盗版](https://www.3dmgame.com/news/202408/3902084.html)
+
