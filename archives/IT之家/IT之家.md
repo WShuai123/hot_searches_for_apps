@@ -47,3 +47,5 @@
 
 + [12+512G 立减 500 元：Redmi K70E 手机 1699 元京东百亿补贴](https://m.ithome.com/html/789077.htm)
 
++ [《黑神话：悟空》PS5 版实机演示发布：帧率流畅、打击爽快，游戏 8 月 20 日发售](https://m.ithome.com/html/789166.htm)
+

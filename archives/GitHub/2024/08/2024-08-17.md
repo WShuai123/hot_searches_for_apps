@@ -33,3 +33,25 @@
 
 + [ollama / ollama](https://github.com/ollama/ollama)
 
++ [goauthentik / authentik](https://github.com/goauthentik/authentik)
+
++ [duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb)
+
++ [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [alibaba / nacos](https://github.com/alibaba/nacos)
+
++ [intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl)
+
++ [apify / crawlee](https://github.com/apify/crawlee)
+
++ [makeplane / plane](https://github.com/makeplane/plane)
+
++ [tiny-craft / tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+

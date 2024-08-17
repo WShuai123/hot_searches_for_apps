@@ -267,3 +267,7 @@
 
 + [《酷极轮滑》开发者呼吁玩家都去玩这款游戏的盗版](https://www.3dmgame.com/news/202408/3902084.html)
 
++ [沈腾马丽合作票房最高电影！《抓娃娃》进入中国影史TOP20](https://www.3dmgame.com/news/202408/3902090.html)
+
++ [《黑袍纠察队》创亚马逊收视纪录 热度超《龙之家族》](https://www.3dmgame.com/news/202408/3902089.html)
+
