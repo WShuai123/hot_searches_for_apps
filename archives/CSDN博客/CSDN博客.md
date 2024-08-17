@@ -137,3 +137,7 @@
 
 + [SciPy：基于 NumPy 的算法库和数学工具包，用于数学、科学和工程领域。](https://blog.csdn.net/LS_Ai/article/details/141211243)
 
++ [Linux 与 Windows 服务器操作系统 | 全面对比](https://blog.csdn.net/HPC_factory/article/details/141261468)
+
++ [DPDI online在线kettle调度工具环境部署升级](https://blog.csdn.net/weixin_43398232/article/details/141226934)
+

@@ -29,3 +29,5 @@
 
 + [《抓娃娃》票房超《独行月球》进入中国影史 TOP20，沈腾马丽主演](https://m.ithome.com/html/789197.htm)
 
++ [中国游戏发行商 Gamera 宣布 8 月 20 日放假一天，并向所有员工赠送《黑神话：悟空》](https://m.ithome.com/html/789238.htm)
+
