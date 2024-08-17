@@ -49,3 +49,7 @@
 
 + [一文带你了解逆向利器Radare2](https://www.freebuf.com/sectool/407372.html)
 
++ [如何做好一名优秀的蓝队（内网篇）](https://www.freebuf.com/articles/web/408315.html)
+
++ [记某研究院多处漏洞复盘](https://www.freebuf.com/articles/web/407404.html)
+

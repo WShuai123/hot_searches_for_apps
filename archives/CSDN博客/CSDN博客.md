@@ -151,3 +151,7 @@
 
 + [计算机网络——HTTP协议详解（下）](https://blog.csdn.net/m0_73243771/article/details/141200797)
 
++ [FPGA 综合笔记](https://blog.csdn.net/feiduoxuetang/article/details/141268279)
+
++ [What is ASIC Prototyping?](https://blog.csdn.net/renzaiS2C/article/details/141196145)
+
