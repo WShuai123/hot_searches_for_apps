@@ -271,3 +271,7 @@
 
 + [《黑袍纠察队》创亚马逊收视纪录 热度超《龙之家族》](https://www.3dmgame.com/news/202408/3902089.html)
 
++ [家长带孩子观看《异形：夺命舰》 被惊吓要求赔偿](https://www.3dmgame.com/news/202408/3902092.html)
+
++ [英特尔Arc显卡驱动发布 支持《黑神话：悟空》等新游戏](https://www.3dmgame.com/news/202408/3902091.html)
+
