@@ -159,3 +159,7 @@
 
 + [大数据-86 Spark 集群 WordCount 用 Scala & Java 调用Spark 编译并打包上传运行 梦开始的地方](https://blog.csdn.net/w776341482/article/details/141251254)
 
++ [什么是AR、VR、MR、XR？](https://blog.csdn.net/zjw529507929/article/details/141265734)
+
++ [Rage Against The Machine: 度厂搬砖工亲自给文心快码（Baidu Comate）上强度](https://blog.csdn.net/u010870244/article/details/141231679)
+
