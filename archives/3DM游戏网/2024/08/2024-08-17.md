@@ -199,3 +199,45 @@
 
 + [《堡垒之夜》现已在欧盟重登iOS平台 并在全球范围回归安卓](https://www.3dmgame.com/news/202408/3902068.html)
 
++ [IGN中国回击老外给《黑神话：悟空》打低分：扣分点太搞笑](https://www.3dmgame.com/news/202408/3902075.html)
+
++ [外媒评选11款最佳iPhone游戏 《原神》《鸣潮》等](https://www.3dmgame.com/news/202407/3899064.html)
+
++ [卡通风《深夏时光！二十世纪的暑假》欧美版8月6日发售](https://www.3dmgame.com/news/202407/3899065.html)
+
++ [ROG掌机X官宣7月13日发布：80Wh 电池](https://www.3dmgame.com/news/202407/3899066.html)
+
++ [今年冬季发售《妖精的尾巴2》公开全新预告](https://www.3dmgame.com/news/202407/3899067.html)
+
++ [全职猎人格斗游戏确定加入宫野真守配音库洛洛](https://www.3dmgame.com/news/202407/3899068.html)
+
++ [10月全新登场《死神 千年血战篇》第3季预告公开](https://www.3dmgame.com/news/202407/3899069.html)
+
++ [《浪客剑心》第2季《京都动乱》公开最新预告](https://www.3dmgame.com/news/202407/3899070.html)
+
++ [开发商专心协助R星否认《黑色洛城》续作传闻](https://www.3dmgame.com/news/202407/3899071.html)
+
++ [如龙工作室：下一款游戏在开发中 将给粉丝带来惊喜](https://www.3dmgame.com/news/202407/3899072.html)
+
++ [布拉德·皮特主演 《F1》赛车电影首曝预告](https://www.3dmgame.com/news/202407/3899073.html)
+
++ [PS5 Pro对《GTA6》粉丝吸引力有限：仅24%玩家愿意为最高画质升级](https://www.3dmgame.com/news/202407/3899074.html)
+
++ [《2077》续作总监：我爱《博德之门2》 它让我进入游戏业](https://www.3dmgame.com/news/202407/3899075.html)
+
++ [电竞世界杯《英雄联盟》总决赛：T1 3比1 TES夺冠](https://www.3dmgame.com/news/202407/3899076.html)
+
++ [《天下无墙》Steam免费发布 科幻黑色策略战棋](https://www.3dmgame.com/news/202407/3899077.html)
+
++ [《GT赛车7》发布7月更新预告 7月25日正式上线](https://www.3dmgame.com/news/202407/3899078.html)
+
++ [《宣誓》所有任务都独一无二 没有一个是复制粘贴的](https://www.3dmgame.com/news/202407/3899079.html)
+
++ [感谢《艾尔登法环》DLC 《血源》玩家上涨57%](https://www.3dmgame.com/news/202407/3899080.html)
+
++ [《庄园领主》发行商表示 游戏开发者不应该被迫长线更新游戏](https://www.3dmgame.com/news/202407/3899081.html)
+
++ [招聘信息暗示：《巫师》多人游戏将采用基于职业的游戏模式](https://www.3dmgame.com/news/202407/3899082.html)
+
++ [牌组构建类肉鸽游戏《永恒字形传说》现已登录Steam页面](https://www.3dmgame.com/news/202407/3899083.html)
+
