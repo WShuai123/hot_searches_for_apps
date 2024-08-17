@@ -249,3 +249,11 @@
 
 + [《暗黑破坏神4》法师电矛导致服务器卡顿 暴雪“被迫”削弱](https://www.3dmgame.com/news/202408/3902077.html)
 
++ [叫停MOD后《使命召唤：现代战争重制版》遭遇差评轰炸](https://www.3dmgame.com/news/202408/3902083.html)
+
++ [因未经许可抓取YouTube内容训练模型 英伟达遭视频创作者起诉](https://www.3dmgame.com/news/202408/3902082.html)
+
++ [《博德之门3》总监曾认为游戏不够长 团队曾制作许多未发布区域](https://www.3dmgame.com/news/202408/3902080.html)
+
++ [PS1经典游戏《断剑：圣堂武士之谜》将推4K重制版](https://www.3dmgame.com/news/202408/3902081.html)
+

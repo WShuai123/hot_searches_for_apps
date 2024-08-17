@@ -163,3 +163,9 @@
 
 + [Rage Against The Machine: 度厂搬砖工亲自给文心快码（Baidu Comate）上强度](https://blog.csdn.net/u010870244/article/details/141231679)
 
++ [探讨MySQL中 “约束“ 下的查询](https://blog.csdn.net/robin_suli/article/details/141265522)
+
++ [【Elasticsearch】Elasticsearch集群在分布式环境下的管理](https://blog.csdn.net/a1657054242/article/details/141279105)
+
++ [软件工程概述（上）](https://blog.csdn.net/alvin_2005/article/details/141262258)
+
