@@ -169,3 +169,13 @@
 
 + [育碧做出“艰难决定” 美国两处工作室裁员45人](https://www.3dmgame.com/news/202408/3902059.html)
 
++ [2023年海湾阿拉伯游戏市场玩家支出达22.4亿美元](https://www.3dmgame.com/news/202408/3902061.html)
+
++ [《地狱缺口：维加斯》脱离抢先体验 正式版限时特惠](https://www.3dmgame.com/news/202408/3902064.html)
+
++ [《战锤40K：星际战士2》突击与先锋预告 9月9日发售](https://www.3dmgame.com/news/202408/3902063.html)
+
++ [拳头电竞和娱乐部门高层洗牌 成立2家新真人影视和动画工作室](https://www.3dmgame.com/news/202408/3902062.html)
+
++ [华丽的游戏！《黑神话：悟空》国外媒体评分汇总](https://www.3dmgame.com/news/202408/3902060.html)
+
