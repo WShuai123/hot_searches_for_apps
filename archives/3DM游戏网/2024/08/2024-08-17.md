@@ -275,3 +275,7 @@
 
 + [英特尔Arc显卡驱动发布 支持《黑神话：悟空》等新游戏](https://www.3dmgame.com/news/202408/3902091.html)
 
++ [《异形：夺命舰》国内票房破1亿 豆瓣开分7.7分](https://www.3dmgame.com/news/202408/3902094.html)
+
++ [传ARM在以色列开发GPU 和英伟达、英特尔竞争](https://www.3dmgame.com/news/202408/3902093.html)
+
