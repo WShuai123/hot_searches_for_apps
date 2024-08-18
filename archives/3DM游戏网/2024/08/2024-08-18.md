@@ -133,3 +133,11 @@
 
 + [动作RPG《遗迹：第一守卫》发布全新实机宣传片](https://www.3dmgame.com/news/202408/3902105.html)
 
++ [桂正和正式入驻X推特 今后加强与粉丝互动](https://www.3dmgame.com/news/202408/3902115.html)
+
++ [《最终幻想7：重制版》第三部将超越所有人的期待](https://www.3dmgame.com/news/202408/3902112.html)
+
++ [《黑神话：悟空》PC、PS预下载开启：8月20日全球解禁](https://www.3dmgame.com/news/202408/3902113.html)
+
++ [另一种生命延续？马斯克畅想未来人类记忆上传并下载至机器人](https://www.3dmgame.com/news/202408/3902114.html)
+
