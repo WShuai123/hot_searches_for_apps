@@ -153,3 +153,11 @@
 
 + [Latex笔记](https://blog.csdn.net/qq_74932040/article/details/141308451)
 
++ [Elasticsearch中磁盘水位线的深度解析](https://blog.csdn.net/qq_26664043/article/details/141306495)
+
++ [微服务设计原则——高性能：异步与并发](https://blog.csdn.net/K346K346/article/details/141303049)
+
++ [机器学习--监督学习、非监督学习和半监督学习](https://blog.csdn.net/GDHBFTGGG/article/details/141279134)
+
++ [掌握SQL的威力：批量更新与删除的艺术](https://blog.csdn.net/2401_85341950/article/details/141288663)
+

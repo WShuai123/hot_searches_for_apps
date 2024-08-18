@@ -139,3 +139,15 @@
 
 + [Brainy About Bears](https://dribbble.com/shots/)
 
++ [Agency Website Design Concept](https://dribbble.com/shots/)
+
++ [Super Cleaner Mascot Logo](https://dribbble.com/shots/)
+
++ [Bowls & Brews Branding and Packaging Design - Coffee Shop](https://dribbble.com/shots/)
+
++ [Grocery Delivery Web Design Template](https://dribbble.com/shots/)
+
++ [The Bay](https://dribbble.com/shots/)
+
++ [NYC](https://dribbble.com/shots/)
+
