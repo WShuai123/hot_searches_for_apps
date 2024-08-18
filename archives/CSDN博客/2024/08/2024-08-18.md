@@ -185,3 +185,7 @@
 
 + [【网络】UDP和TCP之间的差别和回显服务器](https://blog.csdn.net/Yeeear/article/details/141226262)
 
++ [【Kubernetes】虚拟 IP 与 Service 的代理模式](https://blog.csdn.net/be_racle/article/details/141144852)
+
++ [微服务可用性设计](https://blog.csdn.net/qq_42861526/article/details/141277926)
+

@@ -153,3 +153,11 @@
 
 + [PlayStation Stars项目PS5奖励游戏几乎全部移除](https://www.3dmgame.com/news/202408/3902119.html)
 
++ [箭头公告称《绝地潜兵2》重要指令遭作弊者破坏](https://www.3dmgame.com/news/202408/3902125.html)
+
++ [《全面战争：战锤3》下次更新能让矮人开始疯狂囤货](https://www.3dmgame.com/news/202408/3902122.html)
+
++ [《异星工厂：太空时代》新预告展示全新敌人样貌](https://www.3dmgame.com/news/202408/3902124.html)
+
++ [《铁匠大师》9月Steam抢先体验 中世纪铁匠铺经营](https://www.3dmgame.com/news/202408/3902123.html)
+
