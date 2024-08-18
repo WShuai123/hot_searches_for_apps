@@ -147,3 +147,9 @@
 
 + [探讨MySQL中 “约束“ 下的查询](https://blog.csdn.net/robin_suli/article/details/141265522)
 
++ [什么是AR、VR、MR、XR？](https://blog.csdn.net/zjw529507929/article/details/141265734)
+
++ [YOLOv8+ACmix模块，以替换conv和C2f模块为例](https://blog.csdn.net/2402_82788818/article/details/141305870)
+
++ [Latex笔记](https://blog.csdn.net/qq_74932040/article/details/141308451)
+
