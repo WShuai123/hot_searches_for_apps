@@ -173,3 +173,7 @@
 
 + [AIGC创新应用技术实践：成都技术生态沙龙全回顾](https://blog.csdn.net/2301_79175212/article/details/141286355)
 
++ [在亚马逊云科技上部署开源大模型并利用RAG和LangChain开发生成式AI应用](https://blog.csdn.net/m0_66628975/article/details/141278721)
+
++ [基于YOLOv8的指针式仪表智能识别系统（Python源码+Pyqt6界面+数据集）](https://blog.csdn.net/m0_63774211/article/details/141252712)
+
