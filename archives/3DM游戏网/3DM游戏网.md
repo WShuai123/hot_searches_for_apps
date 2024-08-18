@@ -103,3 +103,13 @@
 
 + [《正当防卫4》Steam史低促销 仅售23.81元](https://www.3dmgame.com/news/202408/3902139.html)
 
++ [8月20日凌晨任天堂将召开新一轮直面会](https://www.3dmgame.com/news/202408/3902143.html)
+
++ [VR游戏《异形：叛逆入侵》公布武器装备预告](https://www.3dmgame.com/news/202408/3902142.html)
+
++ [分级信息显示《恶霸鲁尼》或将登陆现代主机平台](https://www.3dmgame.com/news/202408/3902141.html)
+
++ [明年4月开播《魔女守护者》宣布将改编为TV动画](https://www.3dmgame.com/news/202408/3902144.html)
+
++ [《塞尔达传说：智慧的再现》确定支持Amiibo](https://www.3dmgame.com/news/202408/3902140.html)
+

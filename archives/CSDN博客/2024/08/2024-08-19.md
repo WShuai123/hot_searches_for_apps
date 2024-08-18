@@ -161,3 +161,9 @@
 
 + [掌握SQL的威力：批量更新与删除的艺术](https://blog.csdn.net/2401_85341950/article/details/141288663)
 
++ [《深入探究 @SpringBootApplication 注解的内部原理》](https://blog.csdn.net/qq_67028830/article/details/141300257)
+
++ [微服务设计原则——高性能：存储设计](https://blog.csdn.net/K346K346/article/details/141303751)
+
++ [微服务：网关路由和登录校验](https://blog.csdn.net/m0_53140426/article/details/141287942)
+
