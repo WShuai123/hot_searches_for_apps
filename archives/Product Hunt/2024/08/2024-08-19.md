@@ -105,3 +105,5 @@
 
 + [Conversational Replicas by Tavus](https://www.producthunt.com/posts/conversational-replicas-by-tavus)
 
++ [Cynthia AI](https://www.producthunt.com/posts/cynthia-ai)
+
