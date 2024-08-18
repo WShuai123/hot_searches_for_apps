@@ -121,3 +121,5 @@
 
 + [DeskHub](https://www.producthunt.com/posts/deskhub)
 
++ [CursorLens](https://www.producthunt.com/posts/cursorlens)
+

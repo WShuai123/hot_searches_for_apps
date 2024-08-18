@@ -63,3 +63,5 @@
 
 + [联想拯救者 Y9000P《黑神话：悟空》联名定制版笔记本外观公布，8 月 20 日开售](https://m.ithome.com/html/789341.htm)
 
++ [华为推出 5 本软件工程教材：分别基于鲲鹏、开源鸿蒙 OpenHarmony、openEuler 等](https://m.ithome.com/html/789335.htm)
+
