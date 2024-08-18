@@ -173,3 +173,9 @@
 
 + [《七日世界》8月大更新上线 玩家可以捕捉和养殖动物](https://www.3dmgame.com/news/202408/3902131.html)
 
++ [传《黑神话》官方禁止国外UP主在视频中宣传女拳 国外玩家叫好](https://www.3dmgame.com/news/202408/3902134.html)
+
++ [美国力推车联网技术 以大幅降低交通事故发生率](https://www.3dmgame.com/news/202408/3902132.html)
+
++ [《疾速追杀5》筹拍中 系列男主基努将回归](https://www.3dmgame.com/news/202408/3902133.html)
+

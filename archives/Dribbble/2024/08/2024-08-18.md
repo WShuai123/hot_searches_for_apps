@@ -193,3 +193,11 @@
 
 + [Housele - real estate logo design](https://dribbble.com/shots/)
 
++ [Website for an Editor Platform](https://dribbble.com/shots/)
+
++ [Chat logo, chat app icon logo](https://dribbble.com/shots/)
+
++ [Emendor website pt.2](https://dribbble.com/shots/)
+
++ [smile logo, food logo, letter logo, logo design](https://dribbble.com/shots/)
+

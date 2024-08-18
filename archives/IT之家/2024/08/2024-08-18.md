@@ -57,3 +57,9 @@
 
 + [领克车主发布联合声明：车机一年更新一次，希望升级至 Flyme Auto](https://m.ithome.com/html/789338.htm)
 
++ [机械革命 2024 款无界 14X 暴风雪笔记本开售：R7-8845HS + 32G + 1T 售 4499 元](https://m.ithome.com/html/789246.htm)
+
++ [京东自营 7.5 折 1501 元：Redmi K70E 手机直降 498 元](https://m.ithome.com/html/789303.htm)
+
++ [联想拯救者 Y9000P《黑神话：悟空》联名定制版笔记本外观公布，8 月 20 日开售](https://m.ithome.com/html/789341.htm)
+
