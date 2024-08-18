@@ -109,3 +109,13 @@
 
 + [《电锯甜心RePOP》全新加长版实机预告片展示](https://www.3dmgame.com/news/202408/3902099.html)
 
++ [《代号：群岛》PC版A测启动 狙击乱斗新游](https://www.3dmgame.com/news/202408/3902103.html)
+
++ [《黑神话：悟空》上手试玩报道 战斗系统和三种棍势详解](https://www.3dmgame.com/news/202408/3902104.html)
+
++ [WWE巨星兰迪·奥顿自曝已玩600小时《艾尔登法环》](https://www.3dmgame.com/news/202408/3902100.html)
+
++ [《典当星球》Steam抢先体验 太空典当业务模拟](https://www.3dmgame.com/news/202408/3902101.html)
+
++ [首批《黑神话：悟空》实体版发货！820元起 百万人疯抢](https://www.3dmgame.com/news/202408/3902102.html)
+

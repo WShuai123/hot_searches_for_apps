@@ -41,3 +41,11 @@
 
 + [XMGoat：一款针对Azure的环境安全检测工具](https://www.freebuf.com/sectool/408556.html)
 
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+
++ [后门病毒伪装PDF文档，利用钓鱼邮件实现远控](https://www.freebuf.com/articles/endpoint/408557.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/408842.html)
+
++ [HTTP协议网络安全攻击解析](https://www.freebuf.com/articles/ics-articles/407335.html)
+
