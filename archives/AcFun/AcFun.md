@@ -65,3 +65,5 @@
 
 + [给你机会你不中用啊](http://www.acfun.cn/v/ac46075600)
 
++ [H就是好，好就是H，山灵H系列便携小砖把玩](http://www.acfun.cn/v/ac46113164)
+

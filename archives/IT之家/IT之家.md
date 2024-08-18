@@ -25,3 +25,5 @@
 
 + [共享充电宝公司来电科技创始人袁冰松被曝与合作伙伴同时失联](https://m.ithome.com/html/789295.htm)
 
++ [女子花费近三万购买 Vertu 纬图手机，因“太卡”想退货被拒](https://m.ithome.com/html/789361.htm)
+

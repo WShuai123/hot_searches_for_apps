@@ -101,3 +101,33 @@
 
 + [如何修复掉入水中的 iPhone 且不丢失数据](https://blog.csdn.net/Geeker55/article/details/141257155)
 
++ [利用亚马逊云科技Bedrock和LangChain开发AI驱动数据分析平台](https://blog.csdn.net/m0_66628975/article/details/141291588)
+
++ [高效记录与笔记整理的策略：工具选择、结构设计与复习方法](https://blog.csdn.net/Srlua/article/details/141300677)
+
++ [UDP和TCP协议段格式分析](https://blog.csdn.net/2401_84568462/article/details/141277099)
+
++ [机器学习——XGBoost](https://blog.csdn.net/CXDNW/article/details/141272585)
+
++ [Kaggle竞赛——心脏病患者预测与可视化](https://blog.csdn.net/m0_53062159/article/details/141226843)
+
++ [Spring Boot自动装配原理](https://blog.csdn.net/m0_68041576/article/details/141280722)
+
++ [最佳的iPhone解锁软件和应用程序](https://blog.csdn.net/hai40587/article/details/141280863)
+
++ [3D占用预测（Occupancy Prediction）算法学习](https://blog.csdn.net/qq_37795208/article/details/141307890)
+
++ [人工智能在网络安全中的三大支柱](https://blog.csdn.net/matt45m/article/details/141287961)
+
++ [前端一条命令是怎么跑起来的及实现一条自己的脚手架cli命令](https://blog.csdn.net/weixin_43162494/article/details/141305527)
+
++ [XSS-跨站脚本攻击](https://blog.csdn.net/m0_61858762/article/details/141286557)
+
++ [XSS靶场（1-11关）](https://blog.csdn.net/weixin_65785894/article/details/140986146)
+
++ [Arduino开源四足蜘蛛机器人制作教程](https://blog.csdn.net/qqliuzhitong/article/details/141281385)
+
++ [编码在左，学习在右，你心中的天平如何倾斜？](https://blog.csdn.net/2302_79376097/article/details/141270255)
+
++ [【视频】onvif、RTP、RTCP、SDP、RTSP、gb21818区别](https://blog.csdn.net/gao511147456/article/details/141277468)
+
