@@ -147,3 +147,9 @@
 
 + [停产4年3DS依然健在 玩家带3DS去漫展擦肩通信达上限](https://www.3dmgame.com/news/202408/3902116.html)
 
++ [程序员解释为何《GTA：圣安地列斯》街上没有垃圾](https://www.3dmgame.com/news/202408/3902121.html)
+
++ [网飞《乱马1/2》新动画卡司公开 柯南声优参演](https://www.3dmgame.com/news/202408/3902120.html)
+
++ [PlayStation Stars项目PS5奖励游戏几乎全部移除](https://www.3dmgame.com/news/202408/3902119.html)
+

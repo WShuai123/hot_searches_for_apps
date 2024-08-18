@@ -179,3 +179,9 @@
 
 + [大数据Flink（一百一十一）：开通阿里云Flink全托管](https://blog.csdn.net/xiaoweite1/article/details/141288774)
 
++ [机器学习课程学习周报八](https://blog.csdn.net/weixin_51454889/article/details/141281237)
+
++ [高可用集群keepalived](https://blog.csdn.net/K584122526/article/details/141126995)
+
++ [【网络】UDP和TCP之间的差别和回显服务器](https://blog.csdn.net/Yeeear/article/details/141226262)
+

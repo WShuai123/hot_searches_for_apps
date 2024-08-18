@@ -41,3 +41,5 @@
 
 + [《黑神话：悟空》开启预下载，8 月 20 日上午 10 点解锁](https://m.ithome.com/html/789274.htm)
 
++ [马斯克旗下社交媒体 𝕏 宣布即日起关闭巴西业务](https://m.ithome.com/html/789247.htm)
+
