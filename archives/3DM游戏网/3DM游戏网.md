@@ -169,3 +169,5 @@
 
 + [英国游戏行业富豪榜出炉 R星联合创始人排名第三](https://www.3dmgame.com/news/202408/3902127.html)
 
++ [《异形：夺命舰》全球开画有望突破1亿美元](https://www.3dmgame.com/news/202408/3902130.html)
+
