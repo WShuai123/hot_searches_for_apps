@@ -119,3 +119,17 @@
 
 + [首批《黑神话：悟空》实体版发货！820元起 百万人疯抢](https://www.3dmgame.com/news/202408/3902102.html)
 
++ [《理智边缘》 9月登陆多平台 克苏鲁风生存恐怖](https://www.3dmgame.com/news/202408/3902111.html)
+
++ [游戏演员自曝：在无预警下被要求表演性暴力场景](https://www.3dmgame.com/news/202408/3902110.html)
+
++ [育碧未公布项目代号“Iridium”剧情等细节曝光](https://www.3dmgame.com/news/202408/3902109.html)
+
++ [多人游戏《鱿鱼游戏：Unleashed》将亮相科隆开幕之夜](https://www.3dmgame.com/news/202408/3902108.html)
+
++ [《ENDLESS DAYS Z》Steam上线 僵尸末日生存](https://www.3dmgame.com/news/202408/3902106.html)
+
++ [《帝国时代手游》10月17日发售 确认参加科隆游戏展](https://www.3dmgame.com/news/202408/3902107.html)
+
++ [动作RPG《遗迹：第一守卫》发布全新实机宣传片](https://www.3dmgame.com/news/202408/3902105.html)
+
