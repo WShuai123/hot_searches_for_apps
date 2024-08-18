@@ -39,3 +39,25 @@
 
 + [tiny-craft / tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+
++ [AriaLyy / Aria](https://github.com/AriaLyy/Aria)
+
++ [toss / es-toolkit](https://github.com/toss/es-toolkit)
+
++ [microsoft / graphrag](https://github.com/microsoft/graphrag)
+
++ [tinygrad / tinygrad](https://github.com/tinygrad/tinygrad)
+
++ [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+
++ [DiceDB / dice](https://github.com/DiceDB/dice)
+
++ [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
+
