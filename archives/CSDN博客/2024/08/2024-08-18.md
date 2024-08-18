@@ -167,3 +167,9 @@
 
 + [Python数据分析：数据可视化（Matplotlib、Seaborn）](https://blog.csdn.net/weixin_48612224/article/details/141258381)
 
++ [[Qt][Qt 网络][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141277152)
+
++ [uni-app--》打造个性化壁纸预览应用平台（一）](https://blog.csdn.net/qq_53123067/article/details/141267355)
+
++ [AIGC创新应用技术实践：成都技术生态沙龙全回顾](https://blog.csdn.net/2301_79175212/article/details/141286355)
+
