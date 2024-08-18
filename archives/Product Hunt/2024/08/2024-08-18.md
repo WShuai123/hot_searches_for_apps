@@ -103,3 +103,5 @@
 
 + [PlaceholderJS](https://www.producthunt.com/posts/placeholderjs)
 
++ [SpeakHints](https://www.producthunt.com/posts/speakhints)
+

@@ -177,3 +177,5 @@
 
 + [基于YOLOv8的指针式仪表智能识别系统（Python源码+Pyqt6界面+数据集）](https://blog.csdn.net/m0_63774211/article/details/141252712)
 
++ [大数据Flink（一百一十一）：开通阿里云Flink全托管](https://blog.csdn.net/xiaoweite1/article/details/141288774)
+
