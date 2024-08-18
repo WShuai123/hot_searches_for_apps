@@ -101,3 +101,5 @@
 
 + [《黑袍纠察队》创亚马逊收视纪录 热度超《龙之家族》](https://www.3dmgame.com/news/202408/3902089.html)
 
++ [《正当防卫4》Steam史低促销 仅售23.81元](https://www.3dmgame.com/news/202408/3902139.html)
+
