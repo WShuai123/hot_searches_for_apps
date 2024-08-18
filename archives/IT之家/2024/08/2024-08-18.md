@@ -53,3 +53,7 @@
 
 + [福建平潭问界 M7 沙滩陷车后续：如果保险拒赔，用户中心会给予维修优惠](https://m.ithome.com/html/789327.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统首款 MOBA 游戏《曙光英雄》上线，支持多账号体系登录](https://m.ithome.com/html/789320.htm)
+
++ [领克车主发布联合声明：车机一年更新一次，希望升级至 Flyme Auto](https://m.ithome.com/html/789338.htm)
+
