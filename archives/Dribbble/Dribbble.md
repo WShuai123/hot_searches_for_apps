@@ -229,3 +229,11 @@
 
 + [Kangaroos](https://dribbble.com/shots/)
 
++ [Rainbet](https://dribbble.com/shots/)
+
++ [Revdup Logo Design Process](https://dribbble.com/shots/)
+
++ [TIMELESS /  Inner pages](https://dribbble.com/shots/)
+
++ [Natural AI video reader UI](https://dribbble.com/shots/)
+

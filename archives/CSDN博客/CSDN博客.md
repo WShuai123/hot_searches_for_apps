@@ -245,3 +245,7 @@
 
 + [数据库之存储过程和函数](https://blog.csdn.net/m0_73514785/article/details/141270817)
 
++ [【AI 大模型】RAG 检索增强生成 ③ ( 文本向量 | Word2Vec 词汇映射向量空间模型 - 算法原理、训练步骤、应用场景、实现细节 | Python 代码示例 )](https://blog.csdn.net/han1202012/article/details/141189844)
+
++ [实战OpenCV之图像的属性](https://blog.csdn.net/hope_wisdom/article/details/141306164)
+

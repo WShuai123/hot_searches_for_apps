@@ -145,3 +145,9 @@
 
 + [Wapoo: AI Video Dance Animator](https://www.producthunt.com/posts/wapoo-ai-video-dance-animator)
 
++ [Flux Image Generator](https://www.producthunt.com/posts/flux-image-generator-2)
+
++ [Resumeguru.pro](https://www.producthunt.com/posts/resumeguru-pro)
+
++ [Clipchamp Mobile 2.0](https://www.producthunt.com/posts/clipchamp-mobile-2-0)
+

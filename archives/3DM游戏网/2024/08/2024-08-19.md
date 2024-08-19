@@ -195,3 +195,19 @@
 
 + [Steam平台最高账户等级新纪录出现 近6000级花费高达50万美元](https://www.3dmgame.com/news/202408/3902181.html)
 
++ [小岛秀夫发布《死亡搁浅2》新角色预告图 或是津田健次郎](https://www.3dmgame.com/news/202408/3902193.html)
+
++ [名作《首都高赛车》开发商公布新游倒计时 仍是赛车游戏](https://www.3dmgame.com/news/202408/3902192.html)
+
++ [国外玩家：《黑神话》的妖怪这么多 也叫缺乏多样性?](https://www.3dmgame.com/news/202408/3902191.html)
+
++ [人类首次私人太空行走将至 SpaceX确认26日凌晨发射](https://www.3dmgame.com/news/202408/3902190.html)
+
++ [10秒内止血堪比游戏道具！美国FDA批准止血凝胶上市](https://www.3dmgame.com/news/202408/3902189.html)
+
++ [《寂静岭2：重制版》故事预告片公布 詹姆斯重返寂静岭](https://www.3dmgame.com/news/202408/3902188.html)
+
++ [传闻：除了博物馆外 任天堂本月还有更多消息公布](https://www.3dmgame.com/news/202408/3902187.html)
+
++ [珍稀测试用宝可梦卡牌拍出27.5万美元 用纸很特别](https://www.3dmgame.com/news/202408/3902186.html)
+

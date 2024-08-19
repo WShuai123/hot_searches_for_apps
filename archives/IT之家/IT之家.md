@@ -41,3 +41,9 @@
 
 + [（更新：官方回应）网易云音乐“崩了”：网页端报错 502 Bad Gateway，App 无法使用](https://m.ithome.com/html/789489.htm)
 
++ [网易云音乐“崩了”，知情人士称机房刚刚完成迁移](https://m.ithome.com/html/789510.htm)
+
++ [致态 TiPlus 7100 固态硬盘《黑神话：悟空》联名版发售，2TB 定价 1099 元](https://m.ithome.com/html/789382.htm)
+
++ [M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4999 元清仓](https://m.ithome.com/html/789464.htm)
+
