@@ -125,3 +125,13 @@
 
 + [搭建个人网站](https://blog.csdn.net/March_A/article/details/141285264)
 
++ [[Qt][Qt 网络][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141277152)
+
++ [本地Docker部署开源Web相册图库Piwigo与在线远程访问实战方案](https://blog.csdn.net/qyj19920704/article/details/141330736)
+
++ [HTML5服装电商网上商城模板源码](https://blog.csdn.net/weixin_43151418/article/details/141321910)
+
++ [国产开源代码模型之光：CodeGeeX4 - ALL - 9B本地部署体验实战大全](https://blog.csdn.net/xiaobing259/article/details/141297127)
+
++ [SpringBoot--05--整合WebSocket,实现全双工通信](https://blog.csdn.net/ngczx/article/details/141284243)
+
