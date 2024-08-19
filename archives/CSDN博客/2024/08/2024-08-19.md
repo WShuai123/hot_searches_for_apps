@@ -235,3 +235,13 @@
 
 + [Redis的缓存淘汰策略](https://blog.csdn.net/qq_38217393/article/details/141282565)
 
++ [用 Swift 写 Android App ？来了解下 Skip 原生级跨平台框架](https://blog.csdn.net/ZuoYueLiang/article/details/141309903)
+
++ [三元组损失Triplet loss 详解](https://blog.csdn.net/m0_46510245/article/details/141315832)
+
++ [【网络】高并发场景处理：线程池和IO多路复用](https://blog.csdn.net/Yeeear/article/details/141277869)
+
++ [vue3 响应式 API：ref() 和 reactive()](https://blog.csdn.net/fishmemory7sec/article/details/141286851)
+
++ [数据库之存储过程和函数](https://blog.csdn.net/m0_73514785/article/details/141270817)
+

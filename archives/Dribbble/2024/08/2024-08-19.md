@@ -217,3 +217,15 @@
 
 + [Coinberry](https://dribbble.com/shots/)
 
++ [Permonk - design concept](https://dribbble.com/shots/)
+
++ [Watch store](https://dribbble.com/shots/)
+
++ [Finance Dashboard: animation](https://dribbble.com/shots/)
+
++ [Zeus the Thunderer Logo](https://dribbble.com/shots/)
+
++ [Ticket service logo design](https://dribbble.com/shots/)
+
++ [Kangaroos](https://dribbble.com/shots/)
+
