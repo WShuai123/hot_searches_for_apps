@@ -211,3 +211,7 @@
 
 + [珍稀测试用宝可梦卡牌拍出27.5万美元 用纸很特别](https://www.3dmgame.com/news/202408/3902186.html)
 
++ [致态TiPlus7100 SSD《黑神话》联名版上市 629元起](https://www.3dmgame.com/news/202408/3902195.html)
+
++ [李彦宏：不一定非要学AI专业 任何行业都能与AI结合](https://www.3dmgame.com/news/202408/3902194.html)
+

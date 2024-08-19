@@ -47,3 +47,9 @@
 
 + [M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4999 元清仓](https://m.ithome.com/html/789464.htm)
 
++ [（更新：已恢复）网易云音乐“崩了”：网页端报错 502 Bad Gateway，App 无法使用](https://m.ithome.com/html/789489.htm)
+
++ [消息称因极氪 2025 款新车上市客户分流，小米上周新增订单破 4 千](https://m.ithome.com/html/789471.htm)
+
++ [（更新：已恢复使用）网易云音乐开发者删库跑路？官方回应称“目前故障与机房无关”](https://m.ithome.com/html/789541.htm)
+
