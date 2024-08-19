@@ -215,3 +215,5 @@
 
 + [李彦宏：不一定非要学AI专业 任何行业都能与AI结合](https://www.3dmgame.com/news/202408/3902194.html)
 
++ [传英特尔新一代台式机CPU 10月发布 搭配800系列主板](https://www.3dmgame.com/news/202408/3902196.html)
+
