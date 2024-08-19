@@ -39,3 +39,5 @@
 
 + [《名侦探柯南：百万美元的五棱星》新剧场版电影票房破亿，豆瓣评分 7.0](https://m.ithome.com/html/789330.htm)
 
++ [（更新：官方回应）网易云音乐“崩了”：网页端报错 502 Bad Gateway，App 无法使用](https://m.ithome.com/html/789489.htm)
+

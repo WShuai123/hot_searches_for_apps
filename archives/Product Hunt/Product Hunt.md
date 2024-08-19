@@ -127,3 +127,21 @@
 
 + [Ellipsis](https://www.producthunt.com/posts/ellipsis-2)
 
++ [Kabit](https://www.producthunt.com/posts/kabit)
+
++ [Marked by](https://www.producthunt.com/posts/marked-by)
+
++ [jotnoted.](https://www.producthunt.com/posts/jotnoted)
+
++ [Notion AI Prompt Hub](https://www.producthunt.com/posts/notion-ai-prompt-hub)
+
++ [Coldreach (YC W23)](https://www.producthunt.com/posts/coldreach-yc-w23)
+
++ [Glif](https://www.producthunt.com/posts/glif-2)
+
++ [Google Search Console Bulk Index Cleaner](https://www.producthunt.com/posts/google-search-console-bulk-index-cleaner)
+
++ [Animated Favicon Generator](https://www.producthunt.com/posts/animated-favicon-generator)
+
++ [Wapoo: AI Video Dance Animator](https://www.producthunt.com/posts/wapoo-ai-video-dance-animator)
+

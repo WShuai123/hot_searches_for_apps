@@ -185,3 +185,13 @@
 
 + [孩子求买PS5怎么办 外媒根据调查给出方案](https://www.3dmgame.com/news/202408/3902179.html)
 
++ [改编花样滑冰动画《金牌得主》新预告放出 2025年1月开播](https://www.3dmgame.com/news/202408/3902185.html)
+
++ [动画电影《通往夏天的隧道，再见的出口》国内定档8月30日](https://www.3dmgame.com/news/202408/3902184.html)
+
++ [《宝可梦》与全日空航空公司合作推出航空安全宣传视频](https://www.3dmgame.com/news/202408/3902183.html)
+
++ [《Prisoners》登陆Steam 监狱内混战大逃杀](https://www.3dmgame.com/news/202408/3902182.html)
+
++ [Steam平台最高账户等级新纪录出现 近6000级花费高达50万美元](https://www.3dmgame.com/news/202408/3902181.html)
+

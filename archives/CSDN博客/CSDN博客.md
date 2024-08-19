@@ -229,3 +229,9 @@
 
 + [部署 K8s 图形化管理工具 Dashboard](https://blog.csdn.net/misakivv/article/details/141286111)
 
++ [【Rust】——高级trait](https://blog.csdn.net/shsjssnn/article/details/136857047)
+
++ [关于Spring Boot的自动配置](https://blog.csdn.net/m0_65347933/article/details/141305729)
+
++ [Redis的缓存淘汰策略](https://blog.csdn.net/qq_38217393/article/details/141282565)
+
