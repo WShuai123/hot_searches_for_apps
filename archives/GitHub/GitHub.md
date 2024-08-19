@@ -47,3 +47,5 @@
 
 + [iptv-org / iptv](https://github.com/iptv-org/iptv)
 
++ [keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess)
+

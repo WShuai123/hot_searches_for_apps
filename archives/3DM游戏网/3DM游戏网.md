@@ -217,3 +217,7 @@
 
 + [传英特尔新一代台式机CPU 10月发布 搭配800系列主板](https://www.3dmgame.com/news/202408/3902196.html)
 
++ [大战三角头 《寂静岭2：重制版》27分钟PS5实机试玩](https://www.3dmgame.com/news/202408/3902198.html)
+
++ [在发售七年后，《死亡细胞》最终更新现已上线](https://www.3dmgame.com/news/202408/3902197.html)
+
