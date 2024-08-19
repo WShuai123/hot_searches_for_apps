@@ -105,3 +105,19 @@
 
 + [《盟军敢死队：起源》实际预告 年内发售](https://www.3dmgame.com/news/202408/3902203.html)
 
++ [10月10日开播《古墓丽影：劳拉传奇》发布预告](https://www.3dmgame.com/news/202408/3902212.html)
+
++ [曝《夺宝奇兵：古老之圈》将于2025年登陆PS5](https://www.3dmgame.com/news/202408/3902210.html)
+
++ [《死神：魂魄觉醒》角色预告片 力量角色茶渡泰虎](https://www.3dmgame.com/news/202408/3902211.html)
+
++ [《熔铁少女》销量突破20万 续作即将登场](https://www.3dmgame.com/news/202408/3902209.html)
+
++ [《星球大战：亡命之徒》季票预告片介绍未来剧情DLC](https://www.3dmgame.com/news/202408/3902208.html)
+
++ [《刺客信条：影》实机视频介绍双主角玩法差异](https://www.3dmgame.com/news/202408/3902207.html)
+
++ [L5游戏《幻想生活i 转转龙和窃时少女》再次延期](https://www.3dmgame.com/news/202408/3902206.html)
+
++ [《星球大战：亡命之徒》评论将于8月26日开放](https://www.3dmgame.com/news/202408/3902205.html)
+

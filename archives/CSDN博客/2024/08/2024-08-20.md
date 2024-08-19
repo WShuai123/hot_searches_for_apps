@@ -141,3 +141,7 @@
 
 + [Vue 3 + 天地图 + D3.js 绘制行政区划](https://blog.csdn.net/2302_76329106/article/details/141326799)
 
++ [Flink之SQL client使用案例](https://blog.csdn.net/zxcvbnm0207/article/details/141315289)
+
++ [使用大模型撰写移动机器人模拟器（CoppeliaSim、Gazebo、MORSE和Webots）的定量比较研究报告](https://blog.csdn.net/ZhangRelay/article/details/141324864)
+
