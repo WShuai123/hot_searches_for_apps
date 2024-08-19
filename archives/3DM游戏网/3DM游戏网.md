@@ -265,3 +265,5 @@
 
 + [《生化危机2》原版游戏将于8月27日登陆GOG](https://www.3dmgame.com/news/202408/3902199.html)
 
++ [网友买《黑神话》不知道怎么激活 发图求助后被盗Key](https://www.3dmgame.com/news/202408/3902201.html)
+
