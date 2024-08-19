@@ -137,3 +137,7 @@
 
 + [从【人工智能】到【计算机视觉】，【深度学习】引领的未来科技创新与变革](https://blog.csdn.net/2303_77720864/article/details/141307099)
 
++ [使用 Elasticsearch-DSL Python 客户端简化向量嵌入](https://blog.csdn.net/UbuntuTouch/article/details/141321429)
+
++ [Vue 3 + 天地图 + D3.js 绘制行政区划](https://blog.csdn.net/2302_76329106/article/details/141326799)
+
