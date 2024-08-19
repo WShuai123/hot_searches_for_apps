@@ -195,3 +195,13 @@
 
 + [Transaction pages - Sales Management Dashboard](https://dribbble.com/shots/)
 
++ [WILD.CODES web design](https://dribbble.com/shots/)
+
++ [automotive logo](https://dribbble.com/shots/)
+
++ [Landing page for Area rental platform](https://dribbble.com/shots/)
+
++ [HOPPU Logotype Branding: logo design, logotype, visual identity](https://dribbble.com/shots/)
+
++ [fidabio: Future of Protein Analysis | Biotech Mobile Overview UI](https://dribbble.com/shots/)
+

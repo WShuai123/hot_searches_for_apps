@@ -179,3 +179,5 @@
 
 + [休闲经营模拟游戏《炼金术师商店模拟器》现已在斯特安平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902172.html)
 
++ [宝可梦卡牌手游《Pokémon TCG Pocket》宣布10月30日上线 预注册现已开启](https://www.3dmgame.com/news/202408/3902178.html)
+

@@ -35,3 +35,5 @@
 
 + [古尔曼：苹果 AirPods 4 耳机有望下月发布：双版本战略、新增支持半入耳式主动降噪](https://m.ithome.com/html/789355.htm)
 
++ [苹果 iPhone 16 Pro 系列镜头环曝光，新配色“钛金”亮相](https://m.ithome.com/html/789376.htm)
+

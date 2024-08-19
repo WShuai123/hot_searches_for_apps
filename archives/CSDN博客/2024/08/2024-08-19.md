@@ -213,3 +213,5 @@
 
 + [CSS小玩意儿：文字适配背景](https://blog.csdn.net/dangfulin/article/details/141234216)
 
++ [uni-app--》打造个性化壁纸预览应用平台（二）](https://blog.csdn.net/qq_53123067/article/details/141267491)
+

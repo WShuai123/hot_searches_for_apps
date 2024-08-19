@@ -51,3 +51,5 @@
 
 + [企业安全 | 欺骗的艺术案例实践](https://www.freebuf.com/sectool/408407.html)
 
++ [因配置错误，智利超半数个人数据被暴露](https://www.freebuf.com/news/408942.html)
+
