@@ -119,3 +119,23 @@
 
 + [《黑神话》主线时长约40小时 100%完成需90小时](https://www.3dmgame.com/news/202408/3902145.html)
 
++ [《怪物猎人：荒野》“双剑”武器介绍 连续攻击特化](https://www.3dmgame.com/news/202408/3902157.html)
+
++ [好评合作恐游《致命公司》更新60上线 多项新内容](https://www.3dmgame.com/news/202408/3902155.html)
+
++ [《三国志8重制版》人际关系新要素 敌友关系一目了然](https://www.3dmgame.com/news/202408/3902156.html)
+
++ [像素风格解谜游戏《滑动英雄》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902154.html)
+
++ [《上古卷轴5》Mod Skyblivion演示 能吸引新玩家目光](https://www.3dmgame.com/news/202408/3902153.html)
+
++ [天生无惧：知名配音演员内德·卢克、史蒂芬·奥格、萨曼莎·贝阿特参演《ROG旅行社》影片](https://www.3dmgame.com/news/202408/3902152.html)
+
++ [世嘉经典格斗游戏《永恒之冠》将被改编成电影 《侏罗纪世界》三部曲编剧加盟](https://www.3dmgame.com/news/202408/3902151.html)
+
++ [《空洞骑士：丝绸之歌》仍在筹备中 不会参加科隆游戏展开幕夜直播](https://www.3dmgame.com/news/202408/3902150.html)
+
++ [《碧蓝幻想Versus：Rising》最新1.50更新概要公布](https://www.3dmgame.com/news/202408/3902149.html)
+
++ [韩国模拟游戏《inZOI》游戏试玩视频 画面很逼真](https://www.3dmgame.com/news/202408/3902148.html)
+

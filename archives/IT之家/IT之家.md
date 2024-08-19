@@ -31,3 +31,7 @@
 
 + [5430 元 + 12 期免息：华为 Pura 70 Pro 手机京东自营新低](https://m.ithome.com/html/789356.htm)
 
++ [浙江网商银行涉违法违规被罚 735 万元，公司回应“已基本完成整改”](https://m.ithome.com/html/789352.htm)
+
++ [古尔曼：苹果 AirPods 4 耳机有望下月发布：双版本战略、新增支持半入耳式主动降噪](https://m.ithome.com/html/789355.htm)
+
