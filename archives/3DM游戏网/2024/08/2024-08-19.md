@@ -167,3 +167,15 @@
 
 + [《博德之门3》总监玩得最多的游戏是魔兽 从小玩游戏上瘾](https://www.3dmgame.com/news/202408/3902171.html)
 
++ [用户吐槽爱奇艺电视端包年VIP不能跳过广告 官方回应](https://www.3dmgame.com/news/202408/3902176.html)
+
++ [《黑神话》冯骥专访正片 踏上取经路比抵达灵山重要](https://www.3dmgame.com/news/202408/3902177.html)
+
++ [指向点击类剧情冒险游戏《懊悔谷》首个正式宣传预告放出](https://www.3dmgame.com/news/202408/3902175.html)
+
++ [《Phantom Ten》登陆Steam 类8番出口房间历险](https://www.3dmgame.com/news/202408/3902174.html)
+
++ [《黑神话：悟空》Steam预载量超《赛博朋克2077》 将有终极隐藏Boss](https://www.3dmgame.com/news/202408/3902173.html)
+
++ [休闲经营模拟游戏《炼金术师商店模拟器》现已在斯特安平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902172.html)
+

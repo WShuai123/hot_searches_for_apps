@@ -197,3 +197,19 @@
 
 + [【TCP/IP】UDP协议数据格式和报文格式](https://blog.csdn.net/Yeeear/article/details/141307412)
 
++ [一文弄懂|YOLOv8网络结构配置文件，yolov8.yaml详细解读与说明](https://blog.csdn.net/qq_42589613/article/details/141276581)
+
++ [云计算实训30——自动化运维(ansible)](https://blog.csdn.net/m0_73907608/article/details/141299151)
+
++ [设计模式六大原则之：‌里氏替换原则](https://blog.csdn.net/lilinhai548/article/details/141287849)
+
++ [稚晖君发布5款全能人形机器人，开源创新，全能应用](https://blog.csdn.net/GZZN2019/article/details/141301860)
+
++ [深入探索 MyBatis](https://blog.csdn.net/2302_78593467/article/details/141307802)
+
++ [Node.js 使用 Express-Jwt和JsonWebToken 进行Token身份验证](https://blog.csdn.net/2302_79169315/article/details/141302803)
+
++ [【通信协议】I2C总线（一主多从）](https://blog.csdn.net/m0_75090944/article/details/141303531)
+
++ [CSS小玩意儿：文字适配背景](https://blog.csdn.net/dangfulin/article/details/141234216)
+

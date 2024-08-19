@@ -49,3 +49,5 @@
 
 + [攻击者在勒索活动中利用公开的 .env 文件入侵云账户](https://www.freebuf.com/news/408949.html)
 
++ [企业安全 | 欺骗的艺术案例实践](https://www.freebuf.com/sectool/408407.html)
+
