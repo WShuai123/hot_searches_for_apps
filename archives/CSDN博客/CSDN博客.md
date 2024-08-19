@@ -167,3 +167,11 @@
 
 + [微服务：网关路由和登录校验](https://blog.csdn.net/m0_53140426/article/details/141287942)
 
++ [【Linux网络】NAT技术](https://blog.csdn.net/2301_79181030/article/details/141306852)
+
++ [天猫精灵控制米家灯具开关(本人亲测成功)](https://blog.csdn.net/wuxin51/article/details/141304364)
+
++ [MySQL运维学习（1）：4种日志](https://blog.csdn.net/ab149162536/article/details/141223961)
+
++ [ffmpeg开发者视频剪辑器](https://blog.csdn.net/weixin_44782294/article/details/141283699)
+

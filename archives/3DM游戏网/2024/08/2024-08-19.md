@@ -113,3 +113,9 @@
 
 + [《塞尔达传说：智慧的再现》确定支持Amiibo](https://www.3dmgame.com/news/202408/3902140.html)
 
++ [shadPS4模拟器在PC上运行《血源》视频 很流畅让人惊讶](https://www.3dmgame.com/news/202408/3902147.html)
+
++ [《勇敢的哈克》开发商：为Xbox移植游戏是一场噩梦](https://www.3dmgame.com/news/202408/3902146.html)
+
++ [《黑神话》主线时长约40小时 100%完成需90小时](https://www.3dmgame.com/news/202408/3902145.html)
+

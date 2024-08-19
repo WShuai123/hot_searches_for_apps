@@ -27,3 +27,7 @@
 
 + [女子花费近三万购买 Vertu 纬图手机，因“太卡”想退货被拒](https://m.ithome.com/html/789361.htm)
 
++ [华为推出 5 本软件工程教材：分别基于鲲鹏、OpenHarmony、openEuler 等](https://m.ithome.com/html/789335.htm)
+
++ [5430 元 + 12 期免息：华为 Pura 70 Pro 手机京东自营新低](https://m.ithome.com/html/789356.htm)
+

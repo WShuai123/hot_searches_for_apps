@@ -41,3 +41,7 @@
 
 + [Ropdump：针对二进制可执行文件的安全检测工具](https://www.freebuf.com/sectool/408559.html)
 
++ [FreeBuf早报 | 伊朗遭遇大规模网络攻击；英国一核设施曝出严重网络安全失误](https://www.freebuf.com/news/408769.html)
+
++ [DNS隧道流量分析](https://www.freebuf.com/articles/web/407464.html)
+
