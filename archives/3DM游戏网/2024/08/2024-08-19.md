@@ -161,3 +161,9 @@
 
 + [沙盒基建加即时战略玩法 《方块战略》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902158.html)
 
++ [回击缺乏多样性！国外玩家PS《黑神话：悟空》女猴子和黑人猴子](https://www.3dmgame.com/news/202408/3902169.html)
+
++ [老人出国流量费1.6万 官方回应多次触发熔断本人强行恢复](https://www.3dmgame.com/news/202408/3902170.html)
+
++ [《博德之门3》总监玩得最多的游戏是魔兽 从小玩游戏上瘾](https://www.3dmgame.com/news/202408/3902171.html)
+

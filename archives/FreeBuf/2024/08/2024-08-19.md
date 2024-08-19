@@ -47,3 +47,5 @@
 
 + [浏览器可触发的自动化GPU缓存攻击](https://www.freebuf.com/vuls/408089.html)
 
++ [攻击者在勒索活动中利用公开的 .env 文件入侵云账户](https://www.freebuf.com/news/408949.html)
+
