@@ -139,3 +139,25 @@
 
 + [韩国模拟游戏《inZOI》游戏试玩视频 画面很逼真](https://www.3dmgame.com/news/202408/3902148.html)
 
++ [瑞幸咖啡联名《黑神话：悟空》活动翻车 网友吐槽：起大早被当猴耍](https://www.3dmgame.com/news/202408/3902168.html)
+
++ [《Love Live! 》系列新作 官方卡游将于2025年春季发售](https://www.3dmgame.com/news/202408/3902166.html)
+
++ [《饿狼传说：狼之城》“普莉查”角色预告 美少女科学家](https://www.3dmgame.com/news/202408/3902167.html)
+
++ [《庄园领主》发行商认为自主发行会更好 若有游戏不会与90%的发行商签约](https://www.3dmgame.com/news/202408/3902165.html)
+
++ [《黑神话：悟空》媒体赞誉图 准备西行降妖缚怪](https://www.3dmgame.com/news/202408/3902164.html)
+
++ [该换显示器了？国外玩家分享IPS和OLED显示器游戏场景对比](https://www.3dmgame.com/news/202408/3902163.html)
+
++ [《文明7》参加未来游戏展 22日公开超20分钟实机](https://www.3dmgame.com/news/202408/3902159.html)
+
++ [卡普空回应《丧尸围城：豪华复刻版》和谐问题](https://www.3dmgame.com/news/202408/3902162.html)
+
++ [《星刃》大获成功 开发商Shift Up上季度收入创新高](https://www.3dmgame.com/news/202408/3902161.html)
+
++ [《Warlord: Awaji》Steam上线 开放世界战略运营](https://www.3dmgame.com/news/202408/3902160.html)
+
++ [沙盒基建加即时战略玩法 《方块战略》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902158.html)
+
