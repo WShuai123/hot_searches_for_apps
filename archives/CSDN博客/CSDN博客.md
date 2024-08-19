@@ -215,3 +215,17 @@
 
 + [uni-app--》打造个性化壁纸预览应用平台（二）](https://blog.csdn.net/qq_53123067/article/details/141267491)
 
++ [【python】python代码打包工具cx_Freeze的介绍、原理、用法及实战案例分析](https://blog.csdn.net/littlefun591/article/details/141310306)
+
++ [机器学习/人工智能中的学习证明](https://blog.csdn.net/gongdiwudu/article/details/141230862)
+
++ [【机器学习-监督学习】逻辑斯谛回归](https://blog.csdn.net/Morse_Chen/article/details/141166755)
+
++ [计算机网络系统速成](https://blog.csdn.net/m0_55049655/article/details/141306278)
+
++ [机器学习周报（8.12-8.18）](https://blog.csdn.net/weixin_51923997/article/details/141278340)
+
++ [【微服务】SpringCloud 1-9章](https://blog.csdn.net/weixin_43916081/article/details/141168812)
+
++ [部署 K8s 图形化管理工具 Dashboard](https://blog.csdn.net/misakivv/article/details/141286111)
+

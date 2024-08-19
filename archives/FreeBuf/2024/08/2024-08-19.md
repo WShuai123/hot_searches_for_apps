@@ -53,3 +53,7 @@
 
 + [因配置错误，智利超半数个人数据被暴露](https://www.freebuf.com/news/408942.html)
 
++ [Startup-SBOM：一款针对RPM和APT数据库的逆向安全工具](https://www.freebuf.com/sectool/408895.html)
+
++ [WPS Office两个严重漏洞曝光，已被武器化且在野利用](https://www.freebuf.com/news/408961.html)
+

@@ -181,3 +181,7 @@
 
 + [宝可梦卡牌手游《Pokémon TCG Pocket》宣布10月30日上线 预注册现已开启](https://www.3dmgame.com/news/202408/3902178.html)
 
++ [《宝可梦：大集结》公布三只新宝可梦角色 将陆续上线游戏](https://www.3dmgame.com/news/202408/3902180.html)
+
++ [孩子求买PS5怎么办 外媒根据调查给出方案](https://www.3dmgame.com/news/202408/3902179.html)
+

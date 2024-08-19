@@ -37,3 +37,5 @@
 
 + [苹果 iPhone 16 Pro 系列镜头环曝光，新配色“钛金”亮相](https://m.ithome.com/html/789376.htm)
 
++ [《名侦探柯南：百万美元的五棱星》新剧场版电影票房破亿，豆瓣评分 7.0](https://m.ithome.com/html/789330.htm)
+
