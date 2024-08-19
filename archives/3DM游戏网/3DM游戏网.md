@@ -221,3 +221,47 @@
 
 + [在发售七年后，《死亡细胞》最终更新现已上线](https://www.3dmgame.com/news/202408/3902197.html)
 
++ [Switch版《皇牌空战7》经过两年开发和反复优化](https://www.3dmgame.com/news/202407/3899584.html)
+
++ [8月16日上映电影《异形：夺命舰》新片段首曝](https://www.3dmgame.com/news/202407/3899585.html)
+
++ [今天是FC红白机诞生40周年！](https://www.3dmgame.com/news/202407/3899582.html)
+
++ [《燧石枪：黎明之围》剧情预告 展示多种游戏元素](https://www.3dmgame.com/news/202407/3899572.html)
+
++ [高玩公开蒙眼速通《塞尔达：王国之泪》心得流程 超细一图流](https://www.3dmgame.com/news/202407/3899591.html)
+
++ [继《血源》后 PS4模拟器现可进入《荒野大镖客：重制版》](https://www.3dmgame.com/news/202407/3899581.html)
+
++ [《怪物猎人：荒野》新情报 玩家需密切观察周围环境](https://www.3dmgame.com/news/202407/3899578.html)
+
++ [《异形：火力小队2》泄露 计划2025年第三季度发售](https://www.3dmgame.com/news/202407/3899588.html)
+
++ [V社员工总数曝光 负责Steam运营仅79人、大部分员工仍专注于开发游戏](https://www.3dmgame.com/news/202407/3899576.html)
+
++ [赌城“巨球”能放16×16K分辨率视频：150块RTX A6000显卡](https://www.3dmgame.com/news/202407/3899577.html)
+
++ [《死亡搁浅》登陆PC四周年 累计投递包裹超4亿](https://www.3dmgame.com/news/202407/3899575.html)
+
++ [66岁男星亚历克·鲍德温片场过失杀人案被驳回](https://www.3dmgame.com/news/202407/3899574.html)
+
++ [京阿尼纵火案纪念碑建成 36名死者化身和平鸟](https://www.3dmgame.com/news/202407/3899573.html)
+
++ [宣布涨价之后微软又要限制XGP叠加购买时长](https://www.3dmgame.com/news/202407/3899586.html)
+
++ [灾难片《龙卷风》烂番茄口碑出炉 近年来开分最高的灾难片](https://www.3dmgame.com/news/202407/3899579.html)
+
++ [消息称任天堂神秘新作《笑脸男》并非恐怖游戏](https://www.3dmgame.com/news/202407/3899587.html)
+
++ [董明珠质疑小米空调 卢伟冰回话](https://www.3dmgame.com/news/202407/3899580.html)
+
++ [RTX 50系列显卡功耗曝光 5090最高、5050最低](https://www.3dmgame.com/news/202407/3899589.html)
+
++ [《塞尔达传说：智慧的再现》确认林克可操控](https://www.3dmgame.com/news/202407/3899583.html)
+
++ [《庄园领主》发行商重申对旗下开发者的坚定支持](https://www.3dmgame.com/news/202407/3899571.html)
+
++ [《红楼梦》电影导演发文痛斥黑水军 目前票房421.8万](https://www.3dmgame.com/news/202408/3902200.html)
+
++ [《生化危机2》原版游戏将于8月27日登陆GOG](https://www.3dmgame.com/news/202408/3902199.html)
+

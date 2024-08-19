@@ -141,3 +141,15 @@
 
 + [看完这届奥运会，很多中国人该清醒过来了](http://www.acfun.cn/v/ac46112995)
 
++ [【原创编舞】乐意效劳，但是初音未来](http://www.acfun.cn/v/ac46118176)
+
++ [请大师赐丹药一枚！！！欢乐八点档-1016](http://www.acfun.cn/v/ac46116653)
+
++ [【疯语录2】第3集：人间牢笼](http://www.acfun.cn/v/ac46117468)
+
++ [老板腰不好，给他换台车...](http://www.acfun.cn/v/ac46115612)
+
++ [咬一口兔娘 咬人小小兔 乌龙女police！](http://www.acfun.cn/v/ac46110217)
+
++ [抽象UP再添一员大将！](http://www.acfun.cn/v/ac46113758)
+
