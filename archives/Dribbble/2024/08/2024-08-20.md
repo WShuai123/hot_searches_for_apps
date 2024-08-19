@@ -85,3 +85,49 @@
 
 + [Elegance makes a splash](https://dribbble.com/shots/)
 
++ [Drive for Show](https://dribbble.com/shots/)
+
++ [Bonobet Logo - Casino, Gambling, Slots](https://dribbble.com/shots/)
+
++ [Rainbet](https://dribbble.com/shots/)
+
++ [Bring back the flavours of the past](https://dribbble.com/shots/)
+
++ [Website for an Electronics Brand  ✦  VintaxHome](https://dribbble.com/shots/)
+
++ [Heyo Character Sketches](https://dribbble.com/shots/)
+
++ [Revdup Logo Design Process](https://dribbble.com/shots/)
+
++ [MadHive Rebrand](https://dribbble.com/shots/)
+
++ [Little movers](https://dribbble.com/shots/)
+
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Fundora - Pitch Deck](https://dribbble.com/shots/)
+
++ [KDP](https://dribbble.com/shots/)
+
++ [Summer Bliss](https://dribbble.com/shots/)
+
++ [iP1 monogram (unused)](https://dribbble.com/shots/)
+
++ [Farm](https://dribbble.com/shots/)
+
++ [Cortex - Revolutionize Your Crypto Journey with Cortex](https://dribbble.com/shots/)
+
++ [Permonk - design concept](https://dribbble.com/shots/)
+
++ [Procrastination ????](https://dribbble.com/shots/)
+
++ [4 - WIP](https://dribbble.com/shots/)
+
++ [TIMELESS /  Inner pages](https://dribbble.com/shots/)
+
++ [Morely](https://dribbble.com/shots/)
+
++ [Language learning app](https://dribbble.com/shots/)
+
++ [Natural AI video reader UI](https://dribbble.com/shots/)
+

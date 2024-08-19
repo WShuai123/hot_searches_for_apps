@@ -103,3 +103,7 @@
 
 + [Hamming AI (YC S24)](https://www.producthunt.com/posts/hamming-ai-yc-s24)
 
++ [reTerminal by Seeed Studio](https://www.producthunt.com/posts/reterminal-by-seeed-studio)
+
++ [Celaro (Beta)](https://www.producthunt.com/posts/celaro-beta)
+

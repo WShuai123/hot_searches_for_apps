@@ -101,3 +101,7 @@
 
 + [休闲经营模拟游戏《炼金术师商店模拟器》现已在斯特安平台推出试玩Demo](https://www.3dmgame.com/news/202408/3902172.html)
 
++ [《最终幻想16》登陆Steam 9月18日发售](https://www.3dmgame.com/news/202408/3902204.html)
+
++ [《盟军敢死队：起源》实际预告 年内发售](https://www.3dmgame.com/news/202408/3902203.html)
+
