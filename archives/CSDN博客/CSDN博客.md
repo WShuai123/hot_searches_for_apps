@@ -135,3 +135,5 @@
 
 + [SpringBoot--05--整合WebSocket,实现全双工通信](https://blog.csdn.net/ngczx/article/details/141284243)
 
++ [从【人工智能】到【计算机视觉】，【深度学习】引领的未来科技创新与变革](https://blog.csdn.net/2303_77720864/article/details/141307099)
+
