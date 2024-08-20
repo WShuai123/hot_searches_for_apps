@@ -305,3 +305,13 @@
 
 + [《寂静岭2：重制版》全新截图 大战恐怖三角头](https://www.3dmgame.com/news/202408/3902281.html)
 
++ [《最终幻想16》PC版新截图 画面细致人物更逼真](https://www.3dmgame.com/news/202408/3902287.html)
+
++ [官宣！KK官方对战平台与Sky达成正式合作！巅峰重聚，续写传奇！](https://www.3dmgame.com/news/202408/3902286.html)
+
++ [要向腾讯学习！专家：马化腾特厚道 没让微信分拆上市](https://www.3dmgame.com/news/202408/3902289.html)
+
++ [韩国博主评《黑神话》：我们也有文化遗产 被中国抢先做游戏](https://www.3dmgame.com/news/202408/3902288.html)
+
++ [《辐射76》女性角色内衣肩带破坏美感？玩家呼吁移除](https://www.3dmgame.com/news/202408/3902285.html)
+
