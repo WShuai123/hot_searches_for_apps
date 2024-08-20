@@ -151,3 +151,11 @@
 
 + [Concepts for Glastonbury Festival Stage Brand Identity](https://dribbble.com/shots/)
 
++ [Octopus](https://dribbble.com/shots/)
+
++ [Old Hesher](https://dribbble.com/shots/)
+
++ [Revue XXI - n°66 - Summer Edition.](https://dribbble.com/shots/)
+
++ [Almigor studio](https://dribbble.com/shots/)
+
