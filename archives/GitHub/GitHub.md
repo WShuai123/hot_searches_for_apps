@@ -39,3 +39,15 @@
 
 + [iptv-org / iptv](https://github.com/iptv-org/iptv)
 
++ [microsoft / graphrag](https://github.com/microsoft/graphrag)
+
++ [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+
++ [thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+
++ [huggingface / lerobot](https://github.com/huggingface/lerobot)
+

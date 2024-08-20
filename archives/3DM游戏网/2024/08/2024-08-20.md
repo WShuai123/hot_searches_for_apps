@@ -295,3 +295,13 @@
 
 + [《赛博朋克2077》酷炫画面视频 热辣美女很逼真](https://www.3dmgame.com/news/202408/3902268.html)
 
++ [一次看到爽 《怪物猎人：荒野》全14种武器及集中模式介绍视频](https://www.3dmgame.com/news/202408/3902282.html)
+
++ [新《古墓丽影》爆料：开放世界 劳拉在印度冒险](https://www.3dmgame.com/news/202408/3902283.html)
+
++ [《SHOJING》Steam页面上线 奇葩猫咪破门游戏](https://www.3dmgame.com/news/202408/3902284.html)
+
++ [《GTA6》可能在使用新的AI技术 来制作动画](https://www.3dmgame.com/news/202408/3902280.html)
+
++ [《寂静岭2：重制版》全新截图 大战恐怖三角头](https://www.3dmgame.com/news/202408/3902281.html)
+

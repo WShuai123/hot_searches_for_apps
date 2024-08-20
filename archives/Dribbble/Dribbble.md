@@ -213,3 +213,9 @@
 
 + [Flerte Logo Design](https://dribbble.com/shots/)
 
++ [Bear on Diet](https://dribbble.com/shots/)
+
++ [NexHR - HR Landing Page](https://dribbble.com/shots/)
+
++ [Ephemeral Token - Landing Page & Branding](https://dribbble.com/shots/)
+
