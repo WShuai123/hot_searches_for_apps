@@ -55,3 +55,5 @@
 
 + [记一次某安卓APP渗透测试解决抓包方案](https://www.freebuf.com/articles/mobile/408337.html)
 
++ [适用于macOS的多个微软应用程序发现库注入漏洞，用户数据安全受威胁](https://www.freebuf.com/news/409025.html)
+

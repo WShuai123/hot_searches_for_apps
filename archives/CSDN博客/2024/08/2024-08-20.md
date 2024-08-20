@@ -167,3 +167,13 @@
 
 + [Linux网络设置](https://blog.csdn.net/qq_42520799/article/details/141305064)
 
++ [以FLV解复用为例详解开源库FFmpeg中解复用器的源码逻辑及处理流程](https://blog.csdn.net/chenlycly/article/details/141344403)
+
++ [基于协同过滤推荐算法+微信小程序+SpringBoot的茶文化爱好者交流与交易平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141335590)
+
++ [物联网（IoT）详解](https://blog.csdn.net/m0_37583655/article/details/141329368)
+
++ [技术速递｜Python in Visual Studio Code 2024年8月发布](https://blog.csdn.net/MicrosoftReactor/article/details/141333095)
+
++ [HarmonyOS 开发](https://blog.csdn.net/qq_30220519/article/details/141301783)
+

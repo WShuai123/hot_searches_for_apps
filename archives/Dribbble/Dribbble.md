@@ -159,3 +159,19 @@
 
 + [Brownstones NYC](https://dribbble.com/shots/)
 
++ [Talenthub - Job Finder Portal Mobile App](https://dribbble.com/shots/)
+
++ [Moseworks Digital Agency](https://dribbble.com/shots/)
+
++ [Free UI Kit - Starpay Finance Mobile App](https://dribbble.com/shots/)
+
++ [Finster: Result Page AI Feature Mobile App Fintech Banking ????](https://dribbble.com/shots/)
+
++ [Mobile Travel App](https://dribbble.com/shots/)
+
++ [Zendenta - Explore Dental Clinics in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Soun : Reader AI - Website Landing Page](https://dribbble.com/shots/)
+
++ [DevOps Support Report 3D Illustration](https://dribbble.com/shots/)
+
