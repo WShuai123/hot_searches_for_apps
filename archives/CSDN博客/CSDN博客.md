@@ -137,3 +137,7 @@
 
 + [【C++进阶学习】第十四弹——特殊类设计——探寻各种情况下类的应用](https://blog.csdn.net/2301_80220607/article/details/141370152)
 
++ [【一起学Rust | 框架篇 | Tauri2.0框架】tauri中rust和前端的相互调用（rust调用前端）](https://blog.csdn.net/weixin_47754149/article/details/141344906)
+
++ [【机器学习】探索机器学习在旅游业的革新之旅](https://blog.csdn.net/EterNity_TiMe_/article/details/141335089)
+

@@ -105,3 +105,13 @@
 
 + [《宣誓》支持DLSS 3和光追 明年发售](https://www.3dmgame.com/news/202408/3902299.html)
 
++ [《无主之地4》预告首次亮相2025年正式上市](https://www.3dmgame.com/news/202408/3902305.html)
+
++ [《文明7》Steam页面上线 2/11推出 多段预告展示](https://www.3dmgame.com/news/202408/3902304.html)
+
++ [《第一狂战士：卡赞》25年初发售 主机版10/11-20封测](https://www.3dmgame.com/news/202408/3902303.html)
+
++ [《四海兄弟：故乡》面向PS5/Xbox Series/PC公布](https://www.3dmgame.com/news/202408/3902302.html)
+
++ [《夺宝奇兵：古老之圈》12/9登陆XS/PC 明年登陆PS5](https://www.3dmgame.com/news/202408/3902301.html)
+

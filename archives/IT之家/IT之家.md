@@ -27,3 +27,5 @@
 
 + [历史第二：《黑神话：悟空》Steam 首发最高 222+ 万人同时在线，力压《幻兽帕鲁》仅次于《绝地求生》](https://m.ithome.com/html/789908.htm)
 
++ [英伟达发布 Game Ready 560.94 WHQL 驱动，专为《黑神话：悟空》《星球大战：亡命之徒》等游戏打造](https://m.ithome.com/html/789890.htm)
+
