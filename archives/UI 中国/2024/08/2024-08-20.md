@@ -13,3 +13,11 @@
 
 + [AI智能体如何打造设计生态运营？快来一探究竟！](https://www.ui.cn/detail/666223.html)
 
++ [揭秘优秀B端表格设计的8大技巧](https://www.ui.cn/detail/666532.html)
+
++ [数智时代下的三维云软件代换趋势](https://www.ui.cn/detail/666697.html)
+
++ [糖果风图标原来是这样画的](https://www.ui.cn/detail/666745.html)
+
++ [万话APP｜探寻AI情感化互动的设计价值](https://www.ui.cn/detail/666742.html)
+

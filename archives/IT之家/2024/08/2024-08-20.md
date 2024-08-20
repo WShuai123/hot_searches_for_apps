@@ -57,3 +57,5 @@
 
 + [苹果重发 iOS / iPadOS 17.6.1 更新，修复高级数据保护错误](https://m.ithome.com/html/789631.htm)
 
++ [造谣小米被国外资本控制，当事人向小米道歉称深感愧疚与悔恨](https://m.ithome.com/html/789849.htm)
+

@@ -215,3 +215,7 @@
 
 + [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
 
++ [央视频](https://itunes.apple.com/cn/app/id1479814602?mt=8)
+
++ [百度输入法-语音表情斗图输入法](https://itunes.apple.com/cn/app/id916139408?mt=8)
+

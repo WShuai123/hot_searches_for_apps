@@ -315,3 +315,53 @@
 
 + [《辐射76》女性角色内衣肩带破坏美感？玩家呼吁移除](https://www.3dmgame.com/news/202408/3902285.html)
 
++ [黑神话公司员工疯狂被挖登上热搜 员工标注自己不找工作](https://www.3dmgame.com/news/202408/3902294.html)
+
++ [《黑神话：悟空》Steam峰值超200万 国内玩家占9成](https://www.3dmgame.com/news/202408/3902293.html)
+
++ [外媒报道《黑神话》首发成功：腾讯投资、创造了游戏历史](https://www.3dmgame.com/news/202408/3902292.html)
+
++ [《卧龙：苍天陨落》重新上架 价格从298元降至199元](https://www.3dmgame.com/news/202408/3902291.html)
+
++ [印度街头出现假大蒜：由水泥制成 与真蒜混合出售](https://www.3dmgame.com/news/202408/3902290.html)
+
++ [东方甄选1元卖书引热议 网友高赞评论：谷贱伤农](https://www.3dmgame.com/news/202312/3884962.html)
+
++ [腾讯宣布深圳新总部将向公众开放：厕所里放床](https://www.3dmgame.com/news/202312/3884961.html)
+
++ [特斯拉皮卡首次被记录事故：仅造成“轻伤”](https://www.3dmgame.com/news/202312/3884960.html)
+
++ [互动式影片《和她一起整顿职场！》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202312/3884959.html)
+
++ [杰洛特配音演员谈《巫师4》 希望希里当主角继续冒险](https://www.3dmgame.com/news/202312/3884958.html)
+
++ [加里·奥德曼对《哈利·波特》小天狼星表演并不满意](https://www.3dmgame.com/news/202312/3884957.html)
+
++ [开发商Game Freak：正在开发超越宝可梦系列的杰作](https://www.3dmgame.com/news/202312/3884955.html)
+
++ [车主载同事发生车祸致其8级伤残 法院：系无偿搭乘 应当减轻车主赔偿责任](https://www.3dmgame.com/news/202312/3884956.html)
+
++ [2023全球百大美女出炉：古力娜扎 真人版小美人鱼等上榜](https://www.3dmgame.com/news/202312/3884963.html)
+
++ [苹果Apple Watch重新上架：1月将彻底在美禁售](https://www.3dmgame.com/news/202312/3884964.html)
+
++ [网易成立新公司 暴雪国服回归再添信号](https://www.3dmgame.com/news/202312/3884973.html)
+
++ [《绝境盟约》曝海报 空难幸存者吃同伴遗体存活](https://www.3dmgame.com/news/202312/3884974.html)
+
++ [《DOTA2》ESL更新EPT积分榜单 XG战队排名第三](https://www.3dmgame.com/news/202312/3884971.html)
+
++ [《海王2》国内上映10天 总票房破3亿](https://www.3dmgame.com/news/202312/3884972.html)
+
++ [RTX 50有望明年底发布：开始放肆挤牙膏了！](https://www.3dmgame.com/news/202312/3884969.html)
+
++ [传全新Surface明年春季发布 AI是核心卖点](https://www.3dmgame.com/news/202312/3884970.html)
+
++ [RTX4090各种被烧毁：海韵把16针电源线掰弯了90度](https://www.3dmgame.com/news/202312/3884968.html)
+
++ [铃空游戏提前贺元旦 《昭和米国物语》新截图公布](https://www.3dmgame.com/news/202312/3884967.html)
+
++ [卡牌游戏《弈仙牌》正式版定档2024年1月22日 免费游玩](https://www.3dmgame.com/news/202312/3884966.html)
+
++ [《战锤40K：行商浪人》三号补丁上线 下个补丁明年1月推出](https://www.3dmgame.com/news/202312/3884965.html)
+
