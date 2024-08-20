@@ -221,3 +221,53 @@
 
 + [多数行业开发者认为生成式AI是游戏开发的“双刃剑”](https://www.3dmgame.com/news/202408/3902259.html)
 
++ [AI驱动企业级SSD价格及需求暴涨 SK海力士扩产应对](https://www.3dmgame.com/news/202408/3902264.html)
+
++ [国产恐怖游戏《黑暗世界：因与果》全新预告片](https://www.3dmgame.com/news/202408/3902267.html)
+
++ [《星球大战：亡命之徒》完整PC配置公开 显卡最低仅需1660](https://www.3dmgame.com/news/202408/3902266.html)
+
++ [《PockeDate!》今秋免费登陆Steam 少女恋爱模拟](https://www.3dmgame.com/news/202408/3902265.html)
+
++ [神似Steam Deck：索泰掌机Gaming Zone现已开启预售](https://www.3dmgame.com/news/202408/3902263.html)
+
++ [《绝地潜兵2》开场动画演员也是游戏粉丝 在片场即兴说唱](https://www.3dmgame.com/news/202403/3890661.html)
+
++ [《勇闯死人谷：最黑暗的日子》官方实机预告 发售日期待定](https://www.3dmgame.com/news/202403/3890660.html)
+
++ [卡通风FPS《狂野恶徒》确认将登陆主机 年内发售](https://www.3dmgame.com/news/202403/3890670.html)
+
++ [《星露谷物语》1.6加入蜜月期 新婚伴侣不会抑郁摆烂](https://www.3dmgame.com/news/202403/3890668.html)
+
++ [微软提醒：用Xbox应用更新《我的世界》或导致坏档](https://www.3dmgame.com/news/202403/3890666.html)
+
++ [搞怪游戏《持枪松鼠》今秋登陆PS5、XSX和PC](https://www.3dmgame.com/news/202403/3890664.html)
+
++ [新规后快递送家门口没！快递员崩溃扔驿站 用户抱怨](https://www.3dmgame.com/news/202403/3890654.html)
+
++ [Reef Creative收购《最终复仇》开发商70%股份](https://www.3dmgame.com/news/202403/3890653.html)
+
++ [《Lightyear Frontier》实机发售预告 3月20日发售](https://www.3dmgame.com/news/202403/3890652.html)
+
++ [《地狱之刃2》确认有照片模式 新截图很有质感](https://www.3dmgame.com/news/202403/3890651.html)
+
++ [《星球大战：前线 经典合集》开发商正解决服务器问题](https://www.3dmgame.com/news/202403/3890662.html)
+
++ [《幻兽帕鲁》CEO不急着被收购：想再做几款小游戏](https://www.3dmgame.com/news/202403/3890663.html)
+
++ [交互视觉小说游戏《圣殿THE TEMPLE》Steam页面 发售日待定](https://www.3dmgame.com/news/202403/3890655.html)
+
++ [《暗网直播者》正式预告 暂不支持简中](https://www.3dmgame.com/news/202403/3890665.html)
+
++ [《绝地潜兵2》估测全球销量已经突破800万套](https://www.3dmgame.com/news/202403/3890656.html)
+
++ [流媒体vs影院：三分之二美国人更喜欢在家看电影](https://www.3dmgame.com/news/202403/3890667.html)
+
++ [前血源制作人加盟 VR开发商Thirdverse再获330万美元融资](https://www.3dmgame.com/news/202403/3890657.html)
+
++ [《Until Then》5月24日发售 暂不支持中文](https://www.3dmgame.com/news/202403/3890669.html)
+
++ [矮人心里乐开花 《深岩银河：幸存者》销量破百万](https://www.3dmgame.com/news/202403/3890658.html)
+
++ [CDPR深信能重现《往日之影》的成功](https://www.3dmgame.com/news/202403/3890659.html)
+

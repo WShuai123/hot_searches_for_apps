@@ -159,3 +159,25 @@
 
 + [Tweetlio](https://www.producthunt.com/posts/tweetlio)
 
++ [Parity (YC S24)](https://www.producthunt.com/posts/parity-yc-s24)
+
++ [WebHash](https://www.producthunt.com/posts/webhash)
+
++ [Jotform for Microsoft Teams](https://www.producthunt.com/posts/jotform-for-microsoft-teams)
+
++ [Your eCom Agent](https://www.producthunt.com/posts/your-ecom-agent)
+
++ [Glasp](https://www.producthunt.com/posts/glasp-359234c9-bcea-4899-8a8b-caf9e8b4d265)
+
++ [Aicado's GPT](https://www.producthunt.com/posts/aicado-s-gpt)
+
++ [TubeOnAI - Boost Productivity, Save Time](https://www.producthunt.com/posts/tubeonai-boost-productivity-save-time)
+
++ [AgentQL](https://www.producthunt.com/posts/agentql)
+
++ [Fleak AI Workflows](https://www.producthunt.com/posts/fleak-ai-workflows)
+
++ [WOLO : We Only Live Once](https://www.producthunt.com/posts/wolo-we-only-live-once)
+
++ [Principal](https://www.producthunt.com/posts/principal)
+

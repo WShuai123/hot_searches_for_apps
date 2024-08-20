@@ -43,3 +43,5 @@
 
 + [《黑神话：悟空》现已解锁可玩，多家厂商推出联名款显卡](https://m.ithome.com/html/789704.htm)
 
++ [高通骁龙 8 Gen 4 曝光：提供两个版本，搭载自研 Oryon CPU](https://m.ithome.com/html/789645.htm)
+
