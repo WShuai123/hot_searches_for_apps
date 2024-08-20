@@ -101,3 +101,7 @@
 
 + [《CyberCorp》Steam抢先体验 斜俯视角动作射击](https://www.3dmgame.com/news/202408/3902269.html)
 
++ [《模拟火车世界5》公开 9月17日发售](https://www.3dmgame.com/news/202408/3902300.html)
+
++ [《宣誓》支持DLSS 3和光追 明年发售](https://www.3dmgame.com/news/202408/3902299.html)
+
