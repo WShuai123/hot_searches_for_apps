@@ -41,3 +41,7 @@
 
 + [sttr：针对字符串的跨平台数据转换与处理工具](https://www.freebuf.com/sectool/408562.html)
 
++ [FreeBuf早报 | 福建网警破获一起黑客案件；Copy2Pwn 漏洞绕过 Windows 保护](https://www.freebuf.com/news/408922.html)
+
++ [经验分享 | WEB渗透测试中遇到加密内容的数据包该如何测试](https://www.freebuf.com/articles/web/407447.html)
+

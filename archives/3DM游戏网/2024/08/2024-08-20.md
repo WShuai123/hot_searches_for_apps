@@ -121,3 +121,19 @@
 
 + [《星球大战：亡命之徒》评论将于8月26日开放](https://www.3dmgame.com/news/202408/3902205.html)
 
++ [好消息 《寂静岭2：重制版》PS5版将有60帧模式](https://www.3dmgame.com/news/202408/3902220.html)
+
++ [《寂静岭2：重制版》恐怖氛围大增 有更多建筑可供探索](https://www.3dmgame.com/news/202408/3902219.html)
+
++ [《环太平洋》前传剧集开发中 探索怪兽起源故事](https://www.3dmgame.com/news/202408/3902218.html)
+
++ [任天堂博物馆10月2日开馆 官网上线已开放预约](https://www.3dmgame.com/news/202408/3902217.html)
+
++ [外媒DF盛赞PC版《黑神话：悟空》画面表现](https://www.3dmgame.com/news/202408/3902216.html)
+
++ [《最终幻想16》开放预购 国区298元、PC配置公开](https://www.3dmgame.com/news/202408/3902215.html)
+
++ [致敬DC经典  空贼RPG新作10月10日发售](https://www.3dmgame.com/news/202408/3902214.html)
+
++ [末日城市寻女《金刚：生存本能》游戏预告发布](https://www.3dmgame.com/news/202408/3902213.html)
+
