@@ -107,3 +107,27 @@
 
 + [计算机网络系统速成](https://blog.csdn.net/m0_55049655/article/details/141306278)
 
++ [MS SQL Server partition by 函数实战二 编排考场人员](https://blog.csdn.net/michaelline/article/details/141351791)
+
++ [Halcon灰度图像的形态学运算](https://blog.csdn.net/changjian198384/article/details/141340176)
+
++ [springsecurity 登录认证一（ajax）](https://blog.csdn.net/qq_36260963/article/details/141335234)
+
++ [【机器学习-监督学习】逻辑斯谛回归](https://blog.csdn.net/Morse_Chen/article/details/141166755)
+
++ [redis 哨兵模式开启方案](https://blog.csdn.net/thetender/article/details/141321668)
+
++ [Spring Boot实现定时任务](https://blog.csdn.net/qq_57036151/article/details/141325739)
+
++ [第四届机电一体化、自动化与智能控制国际学术会议（MAIC 2024）](https://blog.csdn.net/2302_79376097/article/details/141369835)
+
++ [随着人们网络安全意识提高，软件架构评估也成为重中之重](https://blog.csdn.net/g984160547/article/details/141326830)
+
++ [keepalived的技术原理及其在负载均衡场景中的应用](https://blog.csdn.net/qq_28513801/article/details/141329455)
+
++ [如何在 Kubernetes 上快速部署 Python 和 Laravel 应用：一站式 DevOps 集成指南](https://blog.csdn.net/weixin_40726747/article/details/141331551)
+
++ [HarmonyOS 开发](https://blog.csdn.net/qq_30220519/article/details/141301783)
+
++ [【音视频 | YUV格式】深入理解 YUV 数据格式，一文弄懂](https://blog.csdn.net/wkd_007/article/details/141218195)
+
