@@ -181,3 +181,23 @@
 
 + [Serve It Up](https://dribbble.com/shots/)
 
++ [Home 3D Icon Animation](https://dribbble.com/shots/)
+
++ [Car eCommerce](https://dribbble.com/shots/)
+
++ [Logofolio 2024](https://dribbble.com/shots/)
+
++ [CoinVerse - UX/UI Design of a Crypto Investment & Loan Platform](https://dribbble.com/shots/)
+
++ [2D Illustration for OrderGrid.com](https://dribbble.com/shots/)
+
++ [Fashion Brand Landing Page](https://dribbble.com/shots/)
+
++ [Geometric Polar Bear Logo](https://dribbble.com/shots/)
+
++ [Gitroom landing page design](https://dribbble.com/shots/)
+
++ [Brittany](https://dribbble.com/shots/)
+
++ [logo](https://dribbble.com/shots/)
+

@@ -181,3 +181,9 @@
 
 + [Principal](https://www.producthunt.com/posts/principal)
 
++ [Selix AI](https://www.producthunt.com/posts/selix-ai)
+
++ [WebAssistants.ai](https://www.producthunt.com/posts/webassistants-ai)
+
++ [My Quizzes](https://www.producthunt.com/posts/my-quizzes)
+

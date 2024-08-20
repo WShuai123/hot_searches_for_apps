@@ -45,3 +45,7 @@
 
 + [高通骁龙 8 Gen 4 曝光：提供两个版本，搭载自研 Oryon CPU](https://m.ithome.com/html/789645.htm)
 
++ [南方电网“拉黑”长城汽车投标：“重大失信影响恶劣”，长城证券部称不清楚情况](https://m.ithome.com/html/789673.htm)
+
++ [TapTap PC 游戏商城《黑神话：悟空》首发活动调整：无法参与全场满减活动](https://m.ithome.com/html/789591.htm)
+
