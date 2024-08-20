@@ -159,3 +159,11 @@
 
 + [YOLOv8改进方法](https://blog.csdn.net/u010079117/article/details/141303166)
 
++ [项目实战：Qt+Opencv相机标定工具v1.3.0（支持打开摄像头、视频文件和网络地址，支持标定过程查看、删除和动态评价误差率，支持追加标定等等）](https://blog.csdn.net/qq21497936/article/details/141334834)
+
++ [【AI应用实战】灵办AI插件集成详细指南](https://blog.csdn.net/weixin_36755535/article/details/141334347)
+
++ [一条sql 在MySQL中是如何执行的](https://blog.csdn.net/m0_66572126/article/details/141310260)
+
++ [Linux网络设置](https://blog.csdn.net/qq_42520799/article/details/141305064)
+
