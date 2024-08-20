@@ -365,3 +365,7 @@
 
 + [《战锤40K：行商浪人》三号补丁上线 下个补丁明年1月推出](https://www.3dmgame.com/news/202312/3884965.html)
 
++ [《黑神话：悟空》RTX 4090测试 4K最高画质也扛不住](https://www.3dmgame.com/news/202408/3902296.html)
+
++ [《黑神话：悟空》销量超450万套 总销售额超15亿元](https://www.3dmgame.com/news/202408/3902295.html)
+
