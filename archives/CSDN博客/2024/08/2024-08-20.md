@@ -155,3 +155,7 @@
 
 + [如何建立一个既能快速记录又易于回顾的笔记系统？](https://blog.csdn.net/X_StarX/article/details/141305587)
 
++ [pycharm2023.1破解](https://blog.csdn.net/qq_44364267/article/details/141325664)
+
++ [YOLOv8改进方法](https://blog.csdn.net/u010079117/article/details/141303166)
+

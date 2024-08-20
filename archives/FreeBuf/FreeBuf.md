@@ -49,3 +49,5 @@
 
 + [一文搞懂CTF实战入门](https://www.freebuf.com/articles/web/408135.html)
 
++ [丰田再发数据泄露事件，涉及240GB员工和客户信息](https://www.freebuf.com/news/409015.html)
+

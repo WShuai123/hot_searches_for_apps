@@ -171,3 +171,19 @@
 
 + [多家公司宣布放假 让员工畅玩《黑神话：悟空》](https://www.3dmgame.com/news/202408/3902224.html)
 
++ [烹饪模拟游戏《顶级厨师: 学做菜！》Steam页面 发行日期待定](https://www.3dmgame.com/news/202408/3902238.html)
+
++ [《博德之门3》9月更新亮点 追加邪恶冒险者结局](https://www.3dmgame.com/news/202408/3902239.html)
+
++ [《守望先锋2》官方封禁50万名作弊玩家 还将继续打击](https://www.3dmgame.com/news/202408/3902240.html)
+
++ [系列史上口碑最烂剧集《星球大战：侍者》已取消续订](https://www.3dmgame.com/news/202408/3902242.html)
+
++ [治愈系沙盒建造游戏《打造房间》现已登录Steam平台](https://www.3dmgame.com/news/202408/3902241.html)
+
++ [滴滴青桔联动《黑神话》宣传片 筋斗云车太酷了](https://www.3dmgame.com/news/202408/3902243.html)
+
++ [《小丑2：双重妄想》电影新海报 血腥爱情故事来了](https://www.3dmgame.com/news/202408/3902244.html)
+
++ [《终点站：僵尸幸存者》登陆Steam 肉鸽回合制末日生存](https://www.3dmgame.com/news/202408/3902245.html)
+
