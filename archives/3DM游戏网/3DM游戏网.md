@@ -137,3 +137,37 @@
 
 + [末日城市寻女《金刚：生存本能》游戏预告发布](https://www.3dmgame.com/news/202408/3902213.html)
 
++ [沙盒驾驶游戏《Carbox》Steam页面上线 支持简中](https://www.3dmgame.com/news/202408/3902233.html)
+
++ [乔治·RR·马丁谈想对《冰与火之歌》做出的改变 就是将其真正的完结](https://www.3dmgame.com/news/202408/3902234.html)
+
++ [《使命召唤》热门Mod开发者解释为何被禁：动视害怕它会影响新作销量](https://www.3dmgame.com/news/202408/3902235.html)
+
++ [重走西游 《黑神话：悟空》今日全球正式发布](https://www.3dmgame.com/news/202408/3902231.html)
+
++ [《黑神话：悟空》预售额超4亿元 预售销量达120万份](https://www.3dmgame.com/news/202408/3902236.html)
+
++ [苹果重发iOS 17.6.1正式版升级：重要错误修复！](https://www.3dmgame.com/news/202408/3902237.html)
+
++ [EA表示并不害怕2K推出《FIFA》与《FC》系列竞争](https://www.3dmgame.com/news/202408/3902226.html)
+
++ [特别好评牌组构建式类肉鸽游戏《神骰传说》首个DLC内容包正式推出](https://www.3dmgame.com/news/202408/3902227.html)
+
++ [《黑神话》即将解锁 冯骥：适度游戏 不必着急通关](https://www.3dmgame.com/news/202408/3902228.html)
+
++ [《装甲核心6：境界天火》官方艺术集8月23日发售](https://www.3dmgame.com/news/202408/3902229.html)
+
++ [迈克尔基顿不在乎《蝙蝠女》生死：反正我的钱都到账](https://www.3dmgame.com/news/202408/3902230.html)
+
++ [随着《最终幻想16》登陆PC PS5游戏数字版将停售](https://www.3dmgame.com/news/202408/3902232.html)
+
++ [热血少年漫画《咒术回战》最终话确定 距离完结还剩5话](https://www.3dmgame.com/news/202408/3902221.html)
+
++ [近90%的开发者认为：3A级游戏不需要微交易](https://www.3dmgame.com/news/202408/3902222.html)
+
++ [2.5D动作冒险游戏《金刚：生存本能》Steam页面公布 秋季发售](https://www.3dmgame.com/news/202408/3902225.html)
+
++ [《Funko Fusion》洛克人确定参战 手办动作冒险新游](https://www.3dmgame.com/news/202408/3902223.html)
+
++ [多家公司宣布放假 让员工畅玩《黑神话：悟空》](https://www.3dmgame.com/news/202408/3902224.html)
+

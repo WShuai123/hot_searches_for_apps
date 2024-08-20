@@ -75,3 +75,7 @@
 
 + [【其他】和风印象曲『酒だ宴だ』60mins【作业用 助眠】](http://www.acfun.cn/v/ac46103422)
 
++ [【黑神话】live 翻唱《悟空传》](http://www.acfun.cn/v/ac46118792)
+
++ [感情是凡人的法术，即使是神仙也在劫难逃](http://www.acfun.cn/v/ac46114613)
+

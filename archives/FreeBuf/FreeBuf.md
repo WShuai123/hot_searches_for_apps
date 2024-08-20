@@ -45,3 +45,7 @@
 
 + [经验分享 | WEB渗透测试中遇到加密内容的数据包该如何测试](https://www.freebuf.com/articles/web/407447.html)
 
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [一文搞懂CTF实战入门](https://www.freebuf.com/articles/web/408135.html)
+
