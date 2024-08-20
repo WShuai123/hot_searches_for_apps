@@ -57,3 +57,7 @@
 
 + [适用于macOS的多个微软应用程序发现库注入漏洞，用户数据安全受威胁](https://www.freebuf.com/news/409025.html)
 
++ [GraphGenie：一款针对图形数据库引擎的安全检测工具](https://www.freebuf.com/sectool/408896.html)
+
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+

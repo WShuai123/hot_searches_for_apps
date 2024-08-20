@@ -211,3 +211,13 @@
 
 + [《猎魔人》原作者安杰伊·萨普科夫斯基表示 系列小说新作已经完成创作](https://www.3dmgame.com/news/202408/3902247.html)
 
++ [电影《荒野机器人》内地定档 9月20日上映](https://www.3dmgame.com/news/202408/3902260.html)
+
++ [《片轮少女》免费登陆Steam 残障少女温馨恋爱](https://www.3dmgame.com/news/202408/3902261.html)
+
++ [武士动作Roguelite《Cursebane》Steam页面公布 发行日期待定](https://www.3dmgame.com/news/202408/3902262.html)
+
++ [《黑神话》Steam特别好评 这款国产游戏做的太棒了](https://www.3dmgame.com/news/202408/3902258.html)
+
++ [多数行业开发者认为生成式AI是游戏开发的“双刃剑”](https://www.3dmgame.com/news/202408/3902259.html)
+
