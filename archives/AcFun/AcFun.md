@@ -63,3 +63,7 @@
 
 + [【黑神话】薰薰的精英/BOSS击杀（可能会持续更新）](http://www.acfun.cn/v/ac46125266)
 
++ [【东方】ザムザ【藤原妹红 旗袍Ver. MMD】](http://www.acfun.cn/v/ac46111715)
+
++ [【黑神话】小小广智，拿下！](http://www.acfun.cn/v/ac46124460)
+
