@@ -187,3 +187,27 @@
 
 + [《终点站：僵尸幸存者》登陆Steam 肉鸽回合制末日生存](https://www.3dmgame.com/news/202408/3902245.html)
 
++ [还我大圣梦 《黑神话：悟空》修改器上线](https://www.3dmgame.com/news/202408/3902254.html)
+
++ [英伟达重回3万亿美元全球第三 机构力挺：市场太低估了](https://www.3dmgame.com/news/202408/3902257.html)
+
++ [《女神异闻录3 Reload》概念艺图 新DLC故事9月上线](https://www.3dmgame.com/news/202408/3902255.html)
+
++ [《风暴之门》开发者认为有差评不是问题 不应要求立刻做出《星际争霸》一样的游戏](https://www.3dmgame.com/news/202408/3902256.html)
+
++ [外媒编辑称《黑神话》宣传禁“打拳”要求属实 由海外宣发提出](https://www.3dmgame.com/news/202408/3902253.html)
+
++ [《黑神话：悟空》Steam在线超111万 打破单人游戏在线记录](https://www.3dmgame.com/news/202408/3902252.html)
+
++ [《谍：惊蛰 序章》免费登陆Steam，命悬一线的谍战解谜视觉小说！](https://www.3dmgame.com/news/202408/3902251.html)
+
++ [《For The Stars》作为3A沙盒游戏的全新旗舰，将打破太空游戏的边界](https://www.3dmgame.com/news/202408/3902250.html)
+
++ [Epic送游戏获取用户非常有效 部分独占协议”很不值”](https://www.3dmgame.com/news/202408/3902248.html)
+
++ [体育游戏《Sports Sports》Steam页面发售 支持简中](https://www.3dmgame.com/news/202408/3902246.html)
+
++ [WPS曝出两个高危漏洞 所有用户需尽快升级](https://www.3dmgame.com/news/202408/3902249.html)
+
++ [《猎魔人》原作者安杰伊·萨普科夫斯基表示 系列小说新作已经完成创作](https://www.3dmgame.com/news/202408/3902247.html)
+

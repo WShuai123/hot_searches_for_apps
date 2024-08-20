@@ -211,3 +211,5 @@
 
 + [腾讯视频-剑来动画全网独播](https://itunes.apple.com/cn/app/id458318329?mt=8)
 
++ [阅友小说](https://itunes.apple.com/cn/app/id1066723192?mt=8)
+
