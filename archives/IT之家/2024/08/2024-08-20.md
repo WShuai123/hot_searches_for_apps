@@ -61,3 +61,5 @@
 
 + [华硕新一代 Wi-Fi 7 路由器官宣 8 月 21 日发布，预计为 RT-BE86U](https://m.ithome.com/html/789626.htm)
 
++ [余承东透露华为首款三折叠屏手机 9 月推出](https://m.ithome.com/html/789654.htm)
+
