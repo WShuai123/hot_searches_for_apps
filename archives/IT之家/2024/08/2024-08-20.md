@@ -49,3 +49,7 @@
 
 + [TapTap PC 游戏商城《黑神话：悟空》首发活动调整：无法参与全场满减活动](https://m.ithome.com/html/789591.htm)
 
++ [余承东：鸿蒙智行旗下车型将实现全系标配华为智驾](https://m.ithome.com/html/789616.htm)
+
++ [长安汽车：阿维塔科技拟以 115 亿元购买华为引望 10% 股权](https://m.ithome.com/html/789594.htm)
+

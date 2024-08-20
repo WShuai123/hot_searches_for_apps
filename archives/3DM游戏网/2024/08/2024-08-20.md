@@ -271,3 +271,27 @@
 
 + [CDPR深信能重现《往日之影》的成功](https://www.3dmgame.com/news/202403/3890659.html)
 
++ [《绝地潜兵2》开发者也劝玩家：休息一下玩别的游戏](https://www.3dmgame.com/news/202408/3902277.html)
+
++ [7月中国主板市场遇冷 华硕成唯一增长品牌](https://www.3dmgame.com/news/202408/3902278.html)
+
++ [《黑神话》官方叮嘱玩家：想发现更多惊喜可戒网几天](https://www.3dmgame.com/news/202408/3902279.html)
+
++ [LG新研究：OLED电视可改善睡眠质量](https://www.3dmgame.com/news/202408/3902274.html)
+
++ [网传《GTA6》将于2025年10月27日发售 真的假的？](https://www.3dmgame.com/news/202408/3902273.html)
+
++ [《巫师3》HD重制Mod次世代版新视频 令人惊叹！](https://www.3dmgame.com/news/202408/3902275.html)
+
++ [Key社《LUNARiA》Steam版8月30日发售 支持中文](https://www.3dmgame.com/news/202408/3902276.html)
+
++ [《CyberCorp》Steam抢先体验 斜俯视角动作射击](https://www.3dmgame.com/news/202408/3902269.html)
+
++ [新版《恶霸鲁尼》PS页面开放 发行日期待定](https://www.3dmgame.com/news/202408/3902270.html)
+
++ [《电锯甜心RePOP》被ESRB评为成人级 血腥暴力性内容](https://www.3dmgame.com/news/202408/3902271.html)
+
++ [独立复古恐怖游戏《Hollowbody》宣布9月12日正式发售](https://www.3dmgame.com/news/202408/3902272.html)
+
++ [《赛博朋克2077》酷炫画面视频 热辣美女很逼真](https://www.3dmgame.com/news/202408/3902268.html)
+
