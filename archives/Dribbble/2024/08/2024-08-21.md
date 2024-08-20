@@ -145,3 +145,9 @@
 
 + [Elegance makes a splash](https://dribbble.com/shots/)
 
++ [Bistrot](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Master Logo](https://dribbble.com/shots/)
+
++ [Concepts for Glastonbury Festival Stage Brand Identity](https://dribbble.com/shots/)
+
