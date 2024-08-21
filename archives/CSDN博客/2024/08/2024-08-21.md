@@ -157,3 +157,11 @@
 
 + [Canvas上绘制粒子效果，爱心动画实例（附源代码）](https://blog.csdn.net/m0_64146991/article/details/141325153)
 
++ [递归神经网络 （RNN） 简介](https://blog.csdn.net/gongdiwudu/article/details/141335875)
+
++ [arm：UART(异步) && IIC(同步)](https://blog.csdn.net/weixin_71751116/article/details/141351121)
+
++ [学习文件IO，让你从操作系统内核的角度去理解输入和输出（理论篇）](https://blog.csdn.net/mgzdwm/article/details/141320164)
+
++ [Windows 10 / 11 家庭版开启组策略编辑器(gpedit.msc)](https://blog.csdn.net/u013669912/article/details/141362854)
+

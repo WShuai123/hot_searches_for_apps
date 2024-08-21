@@ -201,3 +201,17 @@
 
 + [温馨农场经营《FLOATOPIA》新预告 2025年登陆多平台](https://www.3dmgame.com/news/202408/3902348.html)
 
++ [冒险游戏《WILL: Follow The Light》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3902355.html)
+
++ [多人合作生存恐怖游戏《怦然惊吓》现已推出抢先体验版](https://www.3dmgame.com/news/202408/3902356.html)
+
++ [《恶霸鲁尼》现已加入GTA+服务 会员免费游玩](https://www.3dmgame.com/news/202408/3902353.html)
+
++ [《Final Knight》序章Steam免费发布 剑与魔法系ACT](https://www.3dmgame.com/news/202408/3902352.html)
+
++ [鼠鼠历险记 魔幻冒险游戏《Hela》科隆预告公布](https://www.3dmgame.com/news/202408/3902351.html)
+
++ [外传《狙击精英：反抗军》公布 2025首发XGP](https://www.3dmgame.com/news/202408/3902350.html)
+
++ [《未知9号：觉醒》新预告放出 已开启预购 2024年10月18日正式推出](https://www.3dmgame.com/news/202408/3902349.html)
+

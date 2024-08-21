@@ -51,3 +51,5 @@
 
 + [CannonDesign遭受Avos Locker勒索软件攻击，1.3万名客户数据泄露](https://www.freebuf.com/news/409112.html)
 
++ [技战法｜安全模型提升防御效果](https://www.freebuf.com/defense/407836.html)
+
