@@ -53,3 +53,7 @@
 
 + [《幻兽帕鲁》送来祝贺：恭喜《黑神话：悟空》Steam 同时在线人数历史第 2](https://m.ithome.com/html/789984.htm)
 
++ [华为余承东现身荣耀手机门店，姜海荣回应“感谢余总关心”](https://m.ithome.com/html/790176.htm)
+
++ [WPS 回应“崩了”：已恢复，用户可免费领取 15 天会员](https://m.ithome.com/html/790131.htm)
+
