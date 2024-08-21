@@ -185,3 +185,11 @@
 
 + [从密码学角度看网络安全：加密技术的最新进展](https://blog.csdn.net/A526847/article/details/141353942)
 
++ [八股总结----数据库（MySQL和Redis）](https://blog.csdn.net/m0_48022770/article/details/141336632)
+
++ [【AI绘画】Midjourney前置指令/settings设置详解](https://blog.csdn.net/2201_75539691/article/details/141370479)
+
++ [一文学会用 Maven](https://blog.csdn.net/qq_45363655/article/details/141323841)
+
++ [运维学习————nginx2-配置详解及负载均衡](https://blog.csdn.net/m0_73376570/article/details/141360616)
+
