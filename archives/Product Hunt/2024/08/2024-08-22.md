@@ -109,3 +109,7 @@
 
 + [Teamhub.com](https://www.producthunt.com/posts/teamhub-com)
 
++ [D-ID Video Translate](https://www.producthunt.com/posts/d-id-video-translate)
+
++ [EmailFlow.AI](https://www.producthunt.com/posts/emailflow-ai)
+
