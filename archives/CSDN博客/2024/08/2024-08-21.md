@@ -201,3 +201,11 @@
 
 + [《计算机操作系统》（第4版）第2章 进程的描述与控制 复习笔记](https://blog.csdn.net/m0_70617423/article/details/141368069)
 
++ [泊松自助法（Poisson Bootstrap Sampling）：大型数据集上的自助抽样](https://blog.csdn.net/m0_46510245/article/details/141384789)
+
++ [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://blog.csdn.net/qq_32682301/article/details/141389591)
+
++ [Python编码系列—Python AJAX与异步请求：打造高效响应的Web应用](https://blog.csdn.net/u013889591/article/details/141353915)
+
++ [鸿蒙HarmonOS实战开发： CMake脚本编写构建NDK工程](https://blog.csdn.net/weixin_55362248/article/details/141360585)
+

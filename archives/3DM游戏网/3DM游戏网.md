@@ -279,3 +279,5 @@
 
 + [AI专家测试《我的世界》新应用 口头直接指示AI伙伴做事](https://www.3dmgame.com/news/202408/3902380.html)
 
++ [英特尔Z890主板发售时间确定 10月17日正式上市](https://www.3dmgame.com/news/202408/3902388.html)
+

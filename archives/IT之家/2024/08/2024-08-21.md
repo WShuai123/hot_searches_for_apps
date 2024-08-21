@@ -51,3 +51,5 @@
 
 + [高通骁龙 8 Gen 4 Adreno 830 GPU 曝光：1250 MHz、比前代高 25%，问鼎最快手机图形芯片](https://m.ithome.com/html/790034.htm)
 
++ [《幻兽帕鲁》送来祝贺：恭喜《黑神话：悟空》Steam 同时在线人数历史第 2](https://m.ithome.com/html/789984.htm)
+

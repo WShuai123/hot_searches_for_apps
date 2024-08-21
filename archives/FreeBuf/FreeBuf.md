@@ -61,3 +61,7 @@
 
 + [CannonDesign遭勒索软件攻击，导致客户数据泄露](https://www.freebuf.com/news/409112.html)
 
++ [安恒信息总裁离职，转头创业开起了大排档，你怎么看？](https://www.freebuf.com/news/409182.html)
+
++ [WPS今天突然崩了，补偿15天会员](https://www.freebuf.com/news/409178.html)
+
