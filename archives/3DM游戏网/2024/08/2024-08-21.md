@@ -129,3 +129,15 @@
 
 + [《流放之路2》即将于11月15日开启抢先体验](https://www.3dmgame.com/news/202408/3902306.html)
 
++ [《星空》DLC“破碎空间”发售日确定 新载具车辆宣传片公布](https://www.3dmgame.com/news/202408/3902318.html)
+
++ [《小小梦魇3》“正式友情”预告公布 2025年发售](https://www.3dmgame.com/news/202408/3902317.html)
+
++ [《无主之地4》Steam商店页上线 自带简体中文和中文配音](https://www.3dmgame.com/news/202408/3902316.html)
+
++ [《纪念碑谷3》正式公布 12月10日登陆iOS和安卓](https://www.3dmgame.com/news/202408/3902315.html)
+
++ [《吸血鬼：避世血族2》再次延期 官方强调开发顺利](https://www.3dmgame.com/news/202408/3902314.html)
+
++ [《消逝的光芒：困兽》公布 2代终极版玩家免费送](https://www.3dmgame.com/news/202408/3902313.html)
+

@@ -147,3 +147,9 @@
 
 + [自动化运维（ansible---playbook）](https://blog.csdn.net/qq_69920145/article/details/141325045)
 
++ [基于python+大数据爬虫技术+数据可视化+Spark的电力能耗数据分析与可视化平台设计与实现](https://blog.csdn.net/weixin_39709134/article/details/141368774)
+
++ [【消息队列与事件驱动架构】使用RabbitMQ、Kafka等工具实现消息队列与事件驱动架构](https://blog.csdn.net/weixin_39372311/article/details/141340173)
+
++ [用爬虫玩转石墨文档](https://blog.csdn.net/asdfghjjk11111/article/details/141298585)
+

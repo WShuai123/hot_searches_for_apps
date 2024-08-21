@@ -33,3 +33,9 @@
 
 + [业内人士：《黑神话：悟空》全平台销量有望达到 500 万至 700 万套](https://m.ithome.com/html/789963.htm)
 
++ [《黑神话：悟空》爆火后，“游戏科学员工疯狂被挖”引热议](https://m.ithome.com/html/789974.htm)
+
++ [小米：将对外公开超 1000 万行的 Xiaomi Vela 开源代码](https://m.ithome.com/html/789845.htm)
+
++ [AMD 发布 Adrenalin 24.8.1 驱动，优化《黑神话：悟空》《星球大战：亡命之徒》《星鸣特攻》等游戏](https://m.ithome.com/html/789783.htm)
+

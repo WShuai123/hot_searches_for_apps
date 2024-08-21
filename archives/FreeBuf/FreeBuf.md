@@ -45,3 +45,5 @@
 
 + [2024年黑帽大会上公布的十大热门安全工具](https://www.freebuf.com/news/408335.html)
 
++ [云上攻防｜打穿某地区智慧停车小程序](https://www.freebuf.com/defense/407831.html)
+
