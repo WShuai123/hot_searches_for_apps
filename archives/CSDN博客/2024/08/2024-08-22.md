@@ -125,3 +125,5 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/141349680)
 
++ [SpringBoot中生成二维码的案例实战](https://blog.csdn.net/qq_26664043/article/details/140938626)
+
