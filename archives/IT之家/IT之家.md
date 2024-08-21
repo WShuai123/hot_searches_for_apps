@@ -39,3 +39,5 @@
 
 + [AMD 发布 Adrenalin 24.8.1 驱动，优化《黑神话：悟空》《星球大战：亡命之徒》《星鸣特攻》等游戏](https://m.ithome.com/html/789783.htm)
 
++ [小米 15 Ultra 手机代号曝光：轩辕](https://m.ithome.com/html/789955.htm)
+
