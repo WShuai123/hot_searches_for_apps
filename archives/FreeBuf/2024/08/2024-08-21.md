@@ -59,3 +59,5 @@
 
 + [2024年黑帽大会十大热门安全工具](https://www.freebuf.com/news/408335.html)
 
++ [CannonDesign遭勒索软件攻击，导致客户数据泄露](https://www.freebuf.com/news/409112.html)
+
