@@ -217,3 +217,21 @@
 
 + [第一视角碟中谍！《使命召唤：黑色行动6》科隆展公开战役实机演示](https://www.3dmgame.com/news/202408/3902354.html)
 
++ [知名声优田中敦子病逝 曾为《攻壳机动队》草薙素子等角色配音](https://www.3dmgame.com/news/202408/3902363.html)
+
++ [外媒报道《黑神话》“玩家流失”遭群嘲：中国玩家不睡觉？](https://www.3dmgame.com/news/202408/3902364.html)
+
++ [《天国：拯救2》开启预购 国区售价228元](https://www.3dmgame.com/news/202408/3902365.html)
+
++ [腾讯游戏荣获2024科隆国际游戏展可持续发展奖 致力于2030年完成碳中和](https://www.3dmgame.com/news/202408/3902357.html)
+
++ [动作游戏《快打刑事X》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3902358.html)
+
++ [《夜街酷斗》科隆新实机公开 动作RPG新游](https://www.3dmgame.com/news/202408/3902359.html)
+
++ [Key社视觉小说《星之终途》宣布登陆Switch 年内发售](https://www.3dmgame.com/news/202408/3902360.html)
+
++ [《尘路之旅》（Dustborn）现已登陆Steam平台！](https://www.3dmgame.com/news/202408/3902361.html)
+
++ [今晚锁定KK官方对战平台直播间！Sky畅聊war3发展，福利拿不停！](https://www.3dmgame.com/news/202408/3902362.html)
+

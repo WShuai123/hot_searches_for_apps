@@ -101,3 +101,29 @@
 
 + [Principal](https://www.producthunt.com/posts/principal)
 
++ [Nest Learning Thermostat (4th gen)](https://www.producthunt.com/posts/nest-learning-thermostat-4th-gen)
+
++ [Encounter AI Advisor](https://www.producthunt.com/posts/encounter-ai-advisor)
+
++ [Feed Page](https://www.producthunt.com/posts/feed-page)
+
++ [Contacted.io](https://www.producthunt.com/posts/contacted-io)
+
++ [LocalOps](https://www.producthunt.com/posts/localops)
+
++ [Reddit Roast](https://www.producthunt.com/posts/reddit-roast)
+
++ [marble booking](https://www.producthunt.com/posts/marble-booking)
+
++ [MinusX (YC S24)](https://www.producthunt.com/posts/minusx-yc-s24)
+
++ [Phase](https://www.producthunt.com/posts/phase-8)
+
++ [Countercyclical](https://www.producthunt.com/posts/countercyclical)
+
++ [Screen Ruler](https://www.producthunt.com/posts/screen-ruler)
+
++ [Quartr](https://www.producthunt.com/posts/quartr)
+
++ [Copus](https://www.producthunt.com/posts/copus)
+

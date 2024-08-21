@@ -53,3 +53,5 @@
 
 + [技战法｜安全模型提升防御效果](https://www.freebuf.com/defense/407836.html)
 
++ [Agentic Security：一款针对LLM模型的模糊测试与安全检测工具](https://www.freebuf.com/sectool/408897.html)
+
