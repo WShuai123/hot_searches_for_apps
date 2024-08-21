@@ -105,3 +105,19 @@
 
 + [Epic回应《黑神话：悟空》只有35个成就：血赚！](https://www.3dmgame.com/news/202408/3902396.html)
 
++ [微软为残障玩家打造Xbox全新自适应摇杆](https://www.3dmgame.com/news/202408/3902405.html)
+
++ [本周Fami评分：网易开发《圣剑传说》高分领跑](https://www.3dmgame.com/news/202408/3902404.html)
+
++ [《潜行者2》新视频展示对抗强盗/变种人的枪战场面](https://www.3dmgame.com/news/202408/3902403.html)
+
++ [《龙腾世纪》新作PC版支持21:9 不锁帧等特性](https://www.3dmgame.com/news/202408/3902402.html)
+
++ [卡通渲染竞速《#DRIVE Rally》9/25推出EA版](https://www.3dmgame.com/news/202408/3902401.html)
+
++ [青蛙王子版《蔚蓝》新游《CROAK》上架Steam](https://www.3dmgame.com/news/202408/3902400.html)
+
++ [跑团风回合制RPG《无名者：屠龙》PC版9/26推出](https://www.3dmgame.com/news/202408/3902399.html)
+
++ [枪斗术电影级新游戏《SPINE》发布全新预告片](https://www.3dmgame.com/news/202408/3902398.html)
+
