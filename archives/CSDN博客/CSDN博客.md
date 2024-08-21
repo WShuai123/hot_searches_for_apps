@@ -127,3 +127,7 @@
 
 + [SpringBoot中生成二维码的案例实战](https://blog.csdn.net/qq_26664043/article/details/140938626)
 
++ [向量数据库 Milvus：智能检索新时代](https://blog.csdn.net/ChaoMing_H/article/details/141380125)
+
++ [基于YOLOv8的无人机高空红外（HIT-UAV）检测算法，魔改SimAM注意力助力涨点](https://blog.csdn.net/m0_63774211/article/details/141391435)
+
