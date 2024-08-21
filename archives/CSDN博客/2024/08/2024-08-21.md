@@ -165,3 +165,9 @@
 
 + [Windows 10 / 11 家庭版开启组策略编辑器(gpedit.msc)](https://blog.csdn.net/u013669912/article/details/141362854)
 
++ [[Qt][QSS][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/141297779)
+
++ [遗传算法与深度学习实战（7）——使用遗传算法解决N皇后问题](https://blog.csdn.net/LOVEmy134611/article/details/141373609)
+
++ [智能计算从深度学习到大规模模型【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/141365081)
+
