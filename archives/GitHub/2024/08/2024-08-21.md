@@ -29,3 +29,13 @@
 
 + [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
 
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [wasi-master / 13ft](https://github.com/wasi-master/13ft)
+
++ [midday-ai / midday](https://github.com/midday-ai/midday)
+
++ [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+
++ [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+

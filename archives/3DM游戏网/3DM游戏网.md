@@ -263,3 +263,19 @@
 
 + [网易生活模拟新作《代号：奇旅》正式公布 将登陆全平台](https://www.3dmgame.com/news/202408/3902379.html)
 
++ [召唤3D魔物娘！帝国模拟养成《我的可爱皇后》现已发售](https://www.3dmgame.com/news/202408/3902385.html)
+
++ [好评如潮音游肉鸽FPS《ROBOBEAT》首次重大内容更新发布，同时限时八折优惠！](https://www.3dmgame.com/news/202408/3902386.html)
+
++ [全息危机！回合制策略《神奇英侠》全新更新上线，迎接挑战证明你的实力！](https://www.3dmgame.com/news/202408/3902384.html)
+
++ [集英社游戏参加“科隆游戏展2024”，《都市传说解体中心》公开新中文预告片！](https://www.3dmgame.com/news/202408/3902387.html)
+
++ [《阿斯加德的陨落》开启免费测试并揭示新特性及预告片](https://www.3dmgame.com/news/202408/3902383.html)
+
++ [Devcom开发者大会从独立游戏奖、社交晚宴和讲者调查开始](https://www.3dmgame.com/news/202408/3902382.html)
+
++ [全新DLC《永恒空间2：泰坦 》将于下月推出](https://www.3dmgame.com/news/202408/3902381.html)
+
++ [AI专家测试《我的世界》新应用 口头直接指示AI伙伴做事](https://www.3dmgame.com/news/202408/3902380.html)
+

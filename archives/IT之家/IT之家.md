@@ -49,3 +49,5 @@
 
 + [《黑神话：悟空》“惊动”外交部：反映了中国文化的吸引力](https://m.ithome.com/html/790124.htm)
 
++ [高通骁龙 8 Gen 4 Adreno 830 GPU 曝光：1250 MHz、比前代高 25%，问鼎最快手机图形芯片](https://m.ithome.com/html/790034.htm)
+

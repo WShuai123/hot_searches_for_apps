@@ -193,3 +193,11 @@
 
 + [运维学习————nginx2-配置详解及负载均衡](https://blog.csdn.net/m0_73376570/article/details/141360616)
 
++ [Python 数据分析之Numpy学习（一）](https://blog.csdn.net/qq_45838249/article/details/141349632)
+
++ [Spring Boot + MyBatis-Plus 实现 MySQL 主从复制动态数据源切换](https://blog.csdn.net/weixin_46146718/article/details/141365680)
+
++ [成为创作者的第1024天：成长与技术积累的旅程](https://blog.csdn.net/weixin_43288600/article/details/141371617)
+
++ [《计算机操作系统》（第4版）第2章 进程的描述与控制 复习笔记](https://blog.csdn.net/m0_70617423/article/details/141368069)
+
