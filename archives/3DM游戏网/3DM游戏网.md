@@ -235,3 +235,17 @@
 
 + [今晚锁定KK官方对战平台直播间！Sky畅聊war3发展，福利拿不停！](https://www.3dmgame.com/news/202408/3902362.html)
 
++ [Rogue单人动作游戏《Reignbreaker》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3902369.html)
+
++ [《星刃》《原子之心》等国外开发商发文祝贺《黑神话：悟空》发售](https://www.3dmgame.com/news/202408/3902370.html)
+
++ [四格喜剧漫画《100天后会死的鳄鱼君》宣布推出续作 同时公布额外结局](https://www.3dmgame.com/news/202408/3902371.html)
+
++ [SNK新作格斗游戏『饿狼传说 City of the Wolves』 「不知火舞」决定参战](https://www.3dmgame.com/news/202408/3902372.html)
+
++ [《We Harvest Shadows》Steam试玩发布 农场恐怖寓言](https://www.3dmgame.com/news/202408/3902366.html)
+
++ [SNK新作格斗游戏『饿狼传说 City of the Wolves』将于2025年4月24日正式发售](https://www.3dmgame.com/news/202408/3902368.html)
+
++ [《流放之路》降临版本最新宣传片于科隆游戏展曝光，抢先预约体验](https://www.3dmgame.com/news/202408/3902367.html)
+

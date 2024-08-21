@@ -55,3 +55,7 @@
 
 + [Agentic Security：一款针对LLM模型的模糊测试与安全检测工具](https://www.freebuf.com/sectool/408897.html)
 
++ [密评 | IPSec流量包分析以及对各个消息的手工解析](https://www.freebuf.com/articles/database/401329.html)
+
++ [2024年黑帽大会十大热门安全工具](https://www.freebuf.com/news/408335.html)
+
