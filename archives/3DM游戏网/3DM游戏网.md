@@ -101,3 +101,7 @@
 
 + [《地狱已满2》科隆展开幕夜公开新预告 展示合作玩法](https://www.3dmgame.com/news/202408/3902345.html)
 
++ [《STONKS-9800》Steam新史低促销 好评如潮！](https://www.3dmgame.com/news/202408/3902397.html)
+
++ [Epic回应《黑神话：悟空》只有35个成就：血赚！](https://www.3dmgame.com/news/202408/3902396.html)
+

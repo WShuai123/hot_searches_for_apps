@@ -61,3 +61,7 @@
 
 + [【黑神话】沉浸式打小骊龙（第二回隐藏BOSS）](http://www.acfun.cn/v/ac46128021)
 
++ [Day3](http://www.acfun.cn/v/ac46131050)
+
++ [遥遥领先印度版？印度手机LAVA agni2吊打国际友商](http://www.acfun.cn/v/ac46130108)
+
