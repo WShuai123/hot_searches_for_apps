@@ -29,3 +29,5 @@
 
 + [滴滴选定女司机功能开启内测，仅限女乘客使用](https://m.ithome.com/html/790197.htm)
 
++ [《黑神话：悟空》Steam 同时在线人数达 235 万再创新高](https://m.ithome.com/html/790217.htm)
+
