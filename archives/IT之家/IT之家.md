@@ -29,3 +29,7 @@
 
 + [英伟达发布 Game Ready 560.94 WHQL 驱动，专为《黑神话：悟空》《星球大战：亡命之徒》等游戏打造](https://m.ithome.com/html/789890.htm)
 
++ [比亚迪腾势 Z9 GT 开启预售：首搭易三方技术平台，33.98 万元起](https://m.ithome.com/html/789899.htm)
+
++ [业内人士：《黑神话：悟空》全平台销量有望达到 500 万至 700 万套](https://m.ithome.com/html/789963.htm)
+

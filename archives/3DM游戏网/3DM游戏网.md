@@ -115,3 +115,17 @@
 
 + [《夺宝奇兵：古老之圈》12/9登陆XS/PC 明年登陆PS5](https://www.3dmgame.com/news/202408/3902301.html)
 
++ [《文明7》官方22分钟深度解说 中文字幕](https://www.3dmgame.com/news/202408/3902312.html)
+
++ [《暗黑破坏神4》佣兵系统宣传片 将随资料片同步推出](https://www.3dmgame.com/news/202408/3902311.html)
+
++ [《天国：拯救2》科隆展新实机预告 明年2月发售](https://www.3dmgame.com/news/202408/3902310.html)
+
++ [《怪物猎人：荒野》新预告曝光绯红森林与刺花蜘蛛](https://www.3dmgame.com/news/202408/3902309.html)
+
++ [不知火舞换皮衣《饿狼传说：狼之城》明年4月上市](https://www.3dmgame.com/news/202408/3902308.html)
+
++ [饿狼传说特瑞9月24日强势登场《街头霸王6》](https://www.3dmgame.com/news/202408/3902307.html)
+
++ [《流放之路2》即将于11月15日开启抢先体验](https://www.3dmgame.com/news/202408/3902306.html)
+
