@@ -217,3 +217,29 @@
 
 + [Meditations (PSE '24)](https://dribbble.com/shots/)
 
++ [Assetario - 3D animation for SaaS platform's website](https://dribbble.com/shots/)
+
++ [UI for an Agriculture Startup](https://dribbble.com/shots/)
+
++ [Sheep Logo](https://dribbble.com/shots/)
+
++ [Finomic - Financial Dashboard](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 4)](https://dribbble.com/shots/)
+
++ [Hubble Logo](https://dribbble.com/shots/)
+
++ [Abstract Illustration](https://dribbble.com/shots/)
+
++ [Blaster Visual Identity](https://dribbble.com/shots/)
+
++ [Motion ads: effortless practice management guide](https://dribbble.com/shots/)
+
++ [Cointinental - Web3 Saas WebSite](https://dribbble.com/shots/)
+
++ [E-commerce Hero - website](https://dribbble.com/shots/)
+
++ [Cryptolink Website](https://dribbble.com/shots/)
+
++ [Proud Spartan Warrior logo](https://dribbble.com/shots/)
+

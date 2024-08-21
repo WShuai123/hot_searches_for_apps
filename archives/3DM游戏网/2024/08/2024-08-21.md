@@ -281,3 +281,7 @@
 
 + [英特尔Z890主板发售时间确定 10月17日正式上市](https://www.3dmgame.com/news/202408/3902388.html)
 
++ [唐尼透露凯文费奇如何劝他重返MCU 将重拍希区柯克的《迷魂记》](https://www.3dmgame.com/news/202408/3902390.html)
+
++ [《天国：拯救2》25分钟实机和全新截图发布](https://www.3dmgame.com/news/202408/3902389.html)
+
