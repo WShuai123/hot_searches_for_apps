@@ -47,3 +47,7 @@
 
 + [云上攻防｜打穿某地区智慧停车小程序](https://www.freebuf.com/defense/407831.html)
 
++ [攻击手法罕见！ESET披露最新网络钓鱼活动，专门针对Android、iPhone用户](https://www.freebuf.com/news/409102.html)
+
++ [CannonDesign遭受Avos Locker勒索软件攻击，1.3万名客户数据泄露](https://www.freebuf.com/news/409112.html)
+

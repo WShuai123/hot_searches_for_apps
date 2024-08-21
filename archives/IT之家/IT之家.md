@@ -41,3 +41,5 @@
 
 + [小米 15 Ultra 手机代号曝光：轩辕](https://m.ithome.com/html/789955.htm)
 
++ [《黑神话：悟空》1998 元的实体收藏版二手市场价格飙升，已被炒至 6000 元](https://m.ithome.com/html/789994.htm)
+

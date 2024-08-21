@@ -191,3 +191,13 @@
 
 + [《沙丘：觉醒》5分钟实机演示 2025年初登陆Steam](https://www.3dmgame.com/news/202408/3902325.html)
 
++ [《地狱已满2》科隆展开幕夜公开新预告 展示合作玩法](https://www.3dmgame.com/news/202408/3902345.html)
+
++ [《女神异闻录3：Reload》“埃癸斯篇”新预告 添加五代主角“Joker”Boss战](https://www.3dmgame.com/news/202408/3902344.html)
+
++ [《狂野星球之旅》续作《狂野星球复仇》预告公布 明年发售](https://www.3dmgame.com/news/202408/3902347.html)
+
++ [《守望先锋2》推出魔兽联动皮肤：“希尔瓦娜斯”黑白合](https://www.3dmgame.com/news/202408/3902346.html)
+
++ [温馨农场经营《FLOATOPIA》新预告 2025年登陆多平台](https://www.3dmgame.com/news/202408/3902348.html)
+
