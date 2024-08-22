@@ -31,3 +31,7 @@
 
 + [《黑神话：悟空》Steam 同时在线人数达 235 万再创新高](https://m.ithome.com/html/790217.htm)
 
++ [“真齐天大圣”？二手平台出现《黑神话：悟空》修改器](https://m.ithome.com/html/790216.htm)
+
++ [深度操作系统 deepin 23 支持游玩《黑神话：悟空》](https://m.ithome.com/html/790226.htm)
+

@@ -41,3 +41,7 @@
 
 + [一文搞懂CTF实战入门](https://www.freebuf.com/articles/web/408135.html)
 
++ [FreeBuf早报 | 尼日利亚在IPv6转型中领跑非洲；美国一动物园售票服务遭黑客攻击](https://www.freebuf.com/news/409168.html)
+
++ [单个像素的威胁：微小的变化如何欺骗深度学习系统](https://www.freebuf.com/articles/paper/408282.html)
+
