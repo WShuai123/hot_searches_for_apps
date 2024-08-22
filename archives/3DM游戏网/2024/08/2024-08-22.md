@@ -225,3 +225,25 @@
 
 + [足球巨星内马尔参战沙特电竞世界杯 而且是三个游戏](https://www.3dmgame.com/news/202408/3902457.html)
 
++ [连云港花果山风景区：通关《黑神话：悟空》可获免费门票](https://www.3dmgame.com/news/202408/3902468.html)
+
++ [VR新游《Chernobyl Again》9月推出 重返核禁区](https://www.3dmgame.com/news/202408/3902467.html)
+
++ [微软回应《黑神话：悟空》未登陆Xbox：仍在与游戏科学合作](https://www.3dmgame.com/news/202408/3902466.html)
+
++ [《原神》玛拉妮角色PV——「广结良缘」](https://www.3dmgame.com/news/202408/3902465.html)
+
++ [小米造车亏损18亿元 每辆SU7亏损6.6万！卢伟冰正面详细回应](https://www.3dmgame.com/news/202408/3902464.html)
+
++ [小米造车亏损18亿元 每辆SU7亏损6.6万！卢伟冰正面详细回应](https://www.3dmgame.com/news/202408/3902463.html)
+
++ [雷军谈《黑神话：悟空》爆火 社会对游戏有误解](https://www.3dmgame.com/news/202408/3902462.html)
+
++ [《星空》Xbox Series S新增60帧支持 画面性能表现增强](https://www.3dmgame.com/news/202408/3902461.html)
+
++ [经典赛车游戏新作《首都高赛车》Steam页面上线 明年推出](https://www.3dmgame.com/news/202408/3902460.html)
+
++ [手游《动物森友会：口袋露营广场》宣布11月29日停服 已运营7年时间](https://www.3dmgame.com/news/202408/3902459.html)
+
++ [滴滴选定女司机功能来了！已开启内测：仅限女乘客使用](https://www.3dmgame.com/news/202408/3902458.html)
+

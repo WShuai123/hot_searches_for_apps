@@ -177,3 +177,7 @@
 
 + [用SpringBoot和vue写一个2048小游戏](https://blog.csdn.net/nndsb/article/details/141397278)
 
++ [python实现自动化生成pdf报告](https://blog.csdn.net/unbuntu_luo/article/details/141034160)
+
++ [Flutter Web 正式官宣弃用 HTML renderer ， Canvas 路线成为唯一](https://blog.csdn.net/ZuoYueLiang/article/details/141390686)
+
