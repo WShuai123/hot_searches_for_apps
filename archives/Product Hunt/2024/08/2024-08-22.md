@@ -117,3 +117,35 @@
 
 + [Dev](https://www.producthunt.com/posts/dev-3)
 
++ [UnitSwap](https://www.producthunt.com/posts/unitswap)
+
++ [Zed AI](https://www.producthunt.com/posts/zed-ai)
+
++ [Endel for ADHD](https://www.producthunt.com/posts/endel-for-adhd)
+
++ [ImageChat](https://www.producthunt.com/posts/imagechat-3)
+
++ [Toy Stories](https://www.producthunt.com/posts/toy-stories)
+
++ [Generate QR Codes](https://www.producthunt.com/posts/generate-qr-codes)
+
++ [Zerocam Mono](https://www.producthunt.com/posts/zerocam-mono)
+
++ [Framate](https://www.producthunt.com/posts/framate)
+
++ [Hue](https://www.producthunt.com/posts/hue-e2b61f1d-173c-4b9d-adc0-744c1f1712ba)
+
++ [Kraftful 3.0](https://www.producthunt.com/posts/kraftful-3-0)
+
++ [ggoo.gl](https://www.producthunt.com/posts/ggoo-gl)
+
++ [Life Note](https://www.producthunt.com/posts/life-note-2)
+
++ [Sports Party](https://www.producthunt.com/posts/sports-party)
+
++ [Helicone AI](https://www.producthunt.com/posts/helicone-ai)
+
++ [How Much for Site?](https://www.producthunt.com/posts/how-much-for-site)
+
++ [Hexus AI](https://www.producthunt.com/posts/hexus-ai)
+

@@ -59,3 +59,5 @@
 
 + [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
 
++ [Dumpy：一款针对LSASS数据的动态内存取证工具](https://www.freebuf.com/sectool/408899.html)
+
