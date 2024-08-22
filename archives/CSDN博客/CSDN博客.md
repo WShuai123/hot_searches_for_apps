@@ -197,3 +197,7 @@
 
 + [巧用PDF转Markdown插件，在扣子（Coze）手搓一个有趣好玩的AI Bot](https://blog.csdn.net/INTSIG/article/details/141421155)
 
++ [【机器学习】经典CNN架构](https://blog.csdn.net/qq_44214428/article/details/141089172)
+
++ [碰撞检测 | 基于ROS Rviz插件的多边形碰撞检测仿真平台](https://blog.csdn.net/FRIGIDWINTER/article/details/141402617)
+

@@ -151,3 +151,7 @@
 
 + [The Daily Product](https://www.producthunt.com/posts/the-daily-product)
 
++ [Mailmodo 2.0 (YC S21)](https://www.producthunt.com/posts/mailmodo-2-0-yc-s21)
+
++ [Typr Editor](https://www.producthunt.com/posts/typr-editor)
+
