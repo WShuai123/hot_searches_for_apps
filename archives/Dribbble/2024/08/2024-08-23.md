@@ -97,3 +97,27 @@
 
 + [Tanoa – Logo Design | Digital Smart Recruiting](https://dribbble.com/shots/)
 
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [A Bit Salty](https://dribbble.com/shots/)
+
++ [Bistrot](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Love is in the air](https://dribbble.com/shots/)
+
++ [Southpaw Logo Design](https://dribbble.com/shots/)
+
++ [Meditations (PSE '24)](https://dribbble.com/shots/)
+
++ [Nature](https://dribbble.com/shots/)
+
++ [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
+
++ [Letterpress Sans - Hand Drawn Typeface](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+

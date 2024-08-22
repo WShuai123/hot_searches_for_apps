@@ -101,3 +101,23 @@
 
 + [回顾我的亚马逊云科技四大认证之旅：从零到认证高手的成长历程](https://blog.csdn.net/rralucard123/article/details/141436496)
 
++ [以FLV解复用为例详解开源库FFmpeg中解复用器的源码逻辑及处理流程](https://blog.csdn.net/chenlycly/article/details/141344403)
+
++ [linux文件——用户缓冲区——概念深度探索、IO模拟实现](https://blog.csdn.net/strive_mianyang/article/details/141368579)
+
++ [智能计算从深度学习到大规模模型【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/141365081)
+
++ [巧用PDF转Markdown插件，在扣子（Coze）手搓一个有趣好玩的AI Bot](https://blog.csdn.net/INTSIG/article/details/141421155)
+
++ [[Spring] Spring原理(SpringBoot完结)](https://blog.csdn.net/2301_80050796/article/details/141392470)
+
++ [位图与布隆过滤器 —— 海量数据处理](https://blog.csdn.net/weixin_50776420/article/details/141250007)
+
++ [机器学习-KNN 算法](https://blog.csdn.net/alb3117149013/article/details/141402146)
+
++ [《黑神话.悟空》：一场跨越神话与现实的深度探索](https://blog.csdn.net/zhaochen1127/article/details/141367099)
+
++ [【实战指南】文心快码（Baidu Comate）帮助小白快速实现项目](https://blog.csdn.net/wypdao/article/details/141395328)
+
++ [【精选】基于Python的热门旅游景点数据分析系统的设计与实现（南京旅游，北京旅游，旅游网站，全国各地旅游网站）](https://blog.csdn.net/m0_64148096/article/details/141402643)
+
