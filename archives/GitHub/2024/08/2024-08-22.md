@@ -23,3 +23,35 @@
 
 + [wan-h / awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)
 
++ [astral-sh / uv](https://github.com/astral-sh/uv)
+
++ [microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)
+
++ [NVlabs / VILA](https://github.com/NVlabs/VILA)
+
++ [huggingface / transformers](https://github.com/huggingface/transformers)
+
++ [LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+
++ [fmtlib / fmt](https://github.com/fmtlib/fmt)
+
++ [QuivrHQ / quivr](https://github.com/QuivrHQ/quivr)
+
++ [s0md3v / roop](https://github.com/s0md3v/roop)
+
++ [thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+
++ [grafana / k6](https://github.com/grafana/k6)
+
++ [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+
++ [microsoft / pyright](https://github.com/microsoft/pyright)
+
++ [microsoft / mimalloc](https://github.com/microsoft/mimalloc)
+
++ [pgvector / pgvector](https://github.com/pgvector/pgvector)
+
++ [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [google / flatbuffers](https://github.com/google/flatbuffers)
+

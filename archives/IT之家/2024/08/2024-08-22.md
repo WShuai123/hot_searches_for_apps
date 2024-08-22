@@ -47,3 +47,7 @@
 
 + [大圣“老家”官宣：《黑神话：悟空》通关者可免费获花果山门票](https://m.ithome.com/html/790295.htm)
 
++ [微软正式确认：Windows 控制面板将被弃用](https://m.ithome.com/html/790274.htm)
+
++ [小米卖一辆车亏 6 万多引热议，雷军称“还在投入期”](https://m.ithome.com/html/790266.htm)
+

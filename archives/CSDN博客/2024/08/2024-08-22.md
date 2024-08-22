@@ -181,3 +181,15 @@
 
 + [Flutter Web 正式官宣弃用 HTML renderer ， Canvas 路线成为唯一](https://blog.csdn.net/ZuoYueLiang/article/details/141390686)
 
++ [基于距离度量学习的异常检测：一种通过相关距离度量的异常检测方法](https://blog.csdn.net/m0_46510245/article/details/141423945)
+
++ [SpringBootWeb 篇-深入了解 SpringBoot + Vue 的前后端分离项目部署上线与 Nginx 配置文件结构](https://blog.csdn.net/Tingfeng__/article/details/141380750)
+
++ [【C++】深入解析C/C++内存管理：new与delete的使用及原理](https://blog.csdn.net/2302_79177254/article/details/140998552)
+
++ [基于机器学习的二手房房价数据分析与价格预测模型](https://blog.csdn.net/weixin_47723732/article/details/141392448)
+
++ [ChatGPT完成论文润写的几点说明](https://blog.csdn.net/sinat_15688223/article/details/141355819)
+
++ [数据库之权限与安全](https://blog.csdn.net/m0_73514785/article/details/141395715)
+
