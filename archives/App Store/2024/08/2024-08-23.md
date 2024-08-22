@@ -201,3 +201,7 @@
 
 + [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
 
++ [Keep - 跑步健身骑行瑜伽，一键开动！](https://itunes.apple.com/cn/app/id952694580?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+

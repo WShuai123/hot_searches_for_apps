@@ -101,3 +101,7 @@
 
 + [乐高发布与《马力欧赛车》全新合作套装预告 共6款2025年元旦推出](https://www.3dmgame.com/news/202408/3902430.html)
 
++ [EA《肯泽拉传说：扎乌》移除D加密 Steam特别好评](https://www.3dmgame.com/news/202408/3902480.html)
+
++ [全红婵给妈妈买手机引热议：入手iPhone 15 Pro Max](https://www.3dmgame.com/news/202408/3902481.html)
+

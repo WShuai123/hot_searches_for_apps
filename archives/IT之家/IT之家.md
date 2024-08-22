@@ -25,3 +25,7 @@
 
 + [抖音搜索推出独立 App](https://m.ithome.com/html/790332.htm)
 
++ [淘宝补贴 30 元：WeGame 黑神话悟空 228 元新低](https://m.ithome.com/html/790354.htm)
+
++ [被传离职后，王自如今日未出席格力营销峰会](https://m.ithome.com/html/790426.htm)
+
