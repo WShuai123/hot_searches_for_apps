@@ -155,3 +155,7 @@
 
 + [Typr Editor](https://www.producthunt.com/posts/typr-editor)
 
++ [Stock Calendar App](https://www.producthunt.com/posts/stock-calendar-app)
+
++ [Aceternity UI Pro](https://www.producthunt.com/posts/aceternity-ui-pro)
+

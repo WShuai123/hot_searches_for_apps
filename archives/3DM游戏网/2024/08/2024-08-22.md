@@ -257,3 +257,11 @@
 
 + [《三国志8 REMAKE》公开战斗系统最新资讯！「开发者通信 Part.2」将于9月13日播出](https://www.3dmgame.com/news/202408/3902471.html)
 
++ [刷新新纪录 《黑神话：悟空》Steam在线数突破240万](https://www.3dmgame.com/news/202408/3902478.html)
+
++ [Fami通新一期销量排行榜 《实况力量棒球2024-2025》四连冠](https://www.3dmgame.com/news/202408/3902476.html)
+
++ [百度Q2财报：季度总营收339亿元 核心营收267亿元](https://www.3dmgame.com/news/202408/3902475.html)
+
++ [《黑神话：悟空》每章都以独特动画结束 引发国外同行称赞](https://www.3dmgame.com/news/202408/3902474.html)
+

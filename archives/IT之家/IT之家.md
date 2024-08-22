@@ -55,3 +55,9 @@
 
 + [卢伟冰：希望用小米 SU7 一款车的规模超越同行几款车，避免“规模不经济”](https://m.ithome.com/html/790218.htm)
 
++ [极越公关负责人炮轰雷军后在线求救：已使出洪荒之力降低影响，求小米放过](https://m.ithome.com/html/790442.htm)
+
++ [苹果 iOS 新 Bug 曝光：四个字符可致 iPhone 崩溃](https://m.ithome.com/html/790236.htm)
+
++ [抖音搜索推出独立 App](https://m.ithome.com/html/790332.htm)
+
