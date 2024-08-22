@@ -105,3 +105,17 @@
 
 + [全红婵给妈妈买手机引热议：入手iPhone 15 Pro Max](https://www.3dmgame.com/news/202408/3902481.html)
 
++ [《奇异人生：双重曝光》“能力揭示”预告片](https://www.3dmgame.com/news/202408/3902487.html)
+
++ [《雪人兄弟：仙境》11/28推出 登陆PS5/PS4/NS](https://www.3dmgame.com/news/202408/3902486.html)
+
++ [万物皆可扔！建造游戏《Overthrown》发布玩法预告](https://www.3dmgame.com/news/202408/3902488.html)
+
++ [奇幻动作冒险游戏《永恒之链》2025年初推出](https://www.3dmgame.com/news/202408/3902485.html)
+
++ [育碧《魔法门之英雄无敌：上古纪元》面向PC公布](https://www.3dmgame.com/news/202408/3902484.html)
+
++ [太空冒险开启《星球大战：亡命之徒》发布上市预告](https://www.3dmgame.com/news/202408/3902483.html)
+
++ [183年前血战《指环王：洛希尔人的战争》发布正式预告](https://www.3dmgame.com/news/202408/3902482.html)
+
