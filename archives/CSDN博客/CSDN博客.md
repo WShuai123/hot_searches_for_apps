@@ -125,3 +125,5 @@
 
 + [黑神话：悟空 DX12 报错：游戏启动失败的全面解决方案](https://blog.csdn.net/uknow_guiya/article/details/141316446)
 
++ [ros_gz_project_template使用笔记①配置（Gazebo Harmonic ROS2 Jazzy ）](https://blog.csdn.net/ZhangRelay/article/details/141428010)
+
