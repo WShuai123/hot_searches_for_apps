@@ -247,3 +247,5 @@
 
 + [滴滴选定女司机功能来了！已开启内测：仅限女乘客使用](https://www.3dmgame.com/news/202408/3902458.html)
 
++ [KK×Sky直播首秀畅聊魔兽大一统，水友赛惨遭打脸笑点不断！](https://www.3dmgame.com/news/202408/3902469.html)
+
