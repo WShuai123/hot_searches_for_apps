@@ -133,3 +133,15 @@
 
 + [Linux信号机制探析--信号的产生](https://blog.csdn.net/2301_77509762/article/details/141396293)
 
++ [阿里云魏子珺：阿里云Elasticsearch AI 搜索实践](https://blog.csdn.net/UbuntuTouch/article/details/141399734)
+
++ [根据 Web 服务器端的架构相关知识，将PHP改JAVA重构企业网站系统](https://blog.csdn.net/g984160547/article/details/141397152)
+
++ [Docker详解](https://blog.csdn.net/2301_80339238/article/details/141394165)
+
++ [Transformer（课程笔记）](https://blog.csdn.net/m0_63213284/article/details/141360587)
+
++ [【实战指南】文心快码（Baidu Comate）帮助小白快速实现项目](https://blog.csdn.net/wypdao/article/details/141395328)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/141379936)
+

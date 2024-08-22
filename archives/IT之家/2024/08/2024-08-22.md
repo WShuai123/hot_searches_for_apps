@@ -35,3 +35,7 @@
 
 + [深度操作系统 deepin 23 支持游玩《黑神话：悟空》](https://m.ithome.com/html/790226.htm)
 
++ [卢伟冰谈小米 SU7 亏损：目前规模较小，纯电轿车投入较高](https://m.ithome.com/html/790203.htm)
+
++ [高德地图获推 V15.00.0 尝鲜版升级：新增北斗卫星无网导航、卫星求救等功能](https://m.ithome.com/html/790224.htm)
+

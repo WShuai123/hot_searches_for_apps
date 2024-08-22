@@ -45,3 +45,9 @@
 
 + [单个像素的威胁：微小的变化如何欺骗深度学习系统](https://www.freebuf.com/articles/paper/408282.html)
 
++ [内存取证工具简述 | 以Volatility和MemProcFS为例](https://www.freebuf.com/sectool/407933.html)
+
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+
++ [FreeBuf早报 | 伊朗黑客对特朗普竞选进行攻击；印度国家支付系统部分中断](https://www.freebuf.com/news/409168.html)
+
