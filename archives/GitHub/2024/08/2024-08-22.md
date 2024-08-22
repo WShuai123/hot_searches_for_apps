@@ -21,3 +21,5 @@
 
 + [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 
++ [wan-h / awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)
+

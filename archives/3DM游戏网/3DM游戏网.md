@@ -193,3 +193,9 @@
 
 + [新报告显示欧洲75%游戏玩家为成年人 平均年龄31岁](https://www.3dmgame.com/news/202408/3902441.html)
 
++ [温馨日常漫画《雨天遇见狸》确认动画化 2025年开播](https://www.3dmgame.com/news/202408/3902442.html)
+
++ [即时战术潜行游戏《疯狂之石》新预告 2025年发售](https://www.3dmgame.com/news/202408/3902443.html)
+
++ [《牧场物语 移动版 Life&Love》上架Steam 经典回归](https://www.3dmgame.com/news/202408/3902444.html)
+

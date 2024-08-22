@@ -153,3 +153,13 @@
 
 + [HTML5服装电商网上商城模板源码](https://blog.csdn.net/weixin_43151418/article/details/141321910)
 
++ [项目实战：Qt+Opencv相机标定工具v1.3.0（支持打开摄像头、视频文件和网络地址，支持标定过程查看、删除和动态评价误差率，支持追加标定等等）](https://blog.csdn.net/qq21497936/article/details/141334834)
+
++ [Unity的粒子系统](https://blog.csdn.net/2302_80644606/article/details/141322852)
+
++ [腾讯机器人 1 号位创业：上得厅堂下得厨房，还会弹奏、跳舞、打篮球的机器人，你见过吗？...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141384462)
+
++ [【宠粉赠书】智能计算系统：从深度学习到大模型 第2版](https://blog.csdn.net/weixin_41793160/article/details/141407320)
+
++ [智能计算从深度学习到大规模模型【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/141365081)
+

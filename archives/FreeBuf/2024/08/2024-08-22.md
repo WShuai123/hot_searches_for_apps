@@ -57,3 +57,5 @@
 
 + [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
