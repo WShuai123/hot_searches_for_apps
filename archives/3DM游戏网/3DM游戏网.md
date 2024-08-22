@@ -161,3 +161,11 @@
 
 + [《The Violinist》登陆Steam 古典音乐节奏新游](https://www.3dmgame.com/news/202408/3902410.html)
 
++ [经典剧场版《超时空要塞：可曾记得爱》4K蓝光重制](https://www.3dmgame.com/news/202408/3902429.html)
+
++ [《暗区突围：无限》正开发AI技术：能语音指挥的队友](https://www.3dmgame.com/news/202408/3902428.html)
+
++ [射击游戏《狙击精英：抵抗》Steam页面开放 明年发售](https://www.3dmgame.com/news/202408/3902427.html)
+
++ [沉浸感拉满 《四海兄弟：故乡》将提供完整的西西里语配音](https://www.3dmgame.com/news/202408/3902426.html)
+
