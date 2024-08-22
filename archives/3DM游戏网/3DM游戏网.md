@@ -199,3 +199,27 @@
 
 + [《牧场物语 移动版 Life&Love》上架Steam 经典回归](https://www.3dmgame.com/news/202408/3902444.html)
 
++ [电影式恐怖游戏《黑相集：指令8020》Steam页面上线 明年推出](https://www.3dmgame.com/news/202408/3902456.html)
+
++ [基努或出演亚马逊游戏剧集《秘密关卡》中《装甲核心》分集](https://www.3dmgame.com/news/202408/3902455.html)
+
++ [《幻灵降世录》独立拓展包“女巫的面纱”现已推出试玩Demo](https://www.3dmgame.com/news/202408/3902454.html)
+
++ [《黑神话：悟空》更新补丁准备中 将修复Bug和问题环节](https://www.3dmgame.com/news/202408/3902453.html)
+
++ [《克苏鲁的信徒》发售日预告 10月21日发售](https://www.3dmgame.com/news/202408/3902452.html)
+
++ [《超兄贵 收藏》12月登陆Switch 两部经典名作合集](https://www.3dmgame.com/news/202408/3902451.html)
+
++ [二次元“围棋”游戏《倒转方舟》正式定档9月19日发售](https://www.3dmgame.com/news/202408/3902450.html)
+
++ [《雨中冒险2：风暴探寻者》最新开发者日志！](https://www.3dmgame.com/news/202408/3902449.html)
+
++ [《太鼓达人：咚咚雷音祭》PC版通过ESRB评级 或即将公布](https://www.3dmgame.com/news/202408/3902448.html)
+
++ [中世纪题材打僵尸生存制作游戏《天佑伯明翰》首个宣传预告放出](https://www.3dmgame.com/news/202408/3902447.html)
+
++ [微软公开新无障碍硬件 包括全新自适应手柄摇杆](https://www.3dmgame.com/news/202408/3902446.html)
+
++ [《海贼王 Bounty Rush》Steam页面上线 年内发售](https://www.3dmgame.com/news/202408/3902445.html)
+

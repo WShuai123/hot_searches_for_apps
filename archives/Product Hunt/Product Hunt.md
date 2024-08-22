@@ -149,3 +149,5 @@
 
 + [Hexus AI](https://www.producthunt.com/posts/hexus-ai)
 
++ [The Daily Product](https://www.producthunt.com/posts/the-daily-product)
+

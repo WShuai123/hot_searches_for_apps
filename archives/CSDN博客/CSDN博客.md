@@ -163,3 +163,11 @@
 
 + [智能计算从深度学习到大规模模型【文末送书】](https://blog.csdn.net/weixin_52908342/article/details/141365081)
 
++ [手机谷歌浏览器怎么用](https://blog.csdn.net/weixin_43772292/article/details/141363829)
+
++ [车规级MCU「换道」竞赛](https://blog.csdn.net/GGAI_AI/article/details/141389078)
+
++ [基于ssm+vue+uniapp的医院挂号预约系统小程序](https://blog.csdn.net/shmp54/article/details/141403094)
+
++ [2024年入职/转行网络安全，该如何规划？_网络安全职业规划](https://blog.csdn.net/2401_85023531/article/details/141390450)
+
