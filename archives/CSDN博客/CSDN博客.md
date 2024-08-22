@@ -195,3 +195,5 @@
 
 + [【网络】HTTPS——HTTP的安全版本](https://blog.csdn.net/2301_80224556/article/details/141384753)
 
++ [巧用PDF转Markdown插件，在扣子（Coze）手搓一个有趣好玩的AI Bot](https://blog.csdn.net/INTSIG/article/details/141421155)
+

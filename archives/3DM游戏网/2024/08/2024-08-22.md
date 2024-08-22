@@ -249,3 +249,5 @@
 
 + [KK×Sky直播首秀畅聊魔兽大一统，水友赛惨遭打脸笑点不断！](https://www.3dmgame.com/news/202408/3902469.html)
 
++ [AMD Ryzen 9000系列下周全国大量到货 销售火爆刺激X670主板库存清空](https://www.3dmgame.com/news/202408/3902470.html)
+
