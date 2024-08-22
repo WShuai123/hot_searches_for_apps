@@ -53,3 +53,5 @@
 
 + [为逃避赡养子女义务，美国一男子黑进系统让自己”去世“](https://www.freebuf.com/news/409196.html)
 
++ [Litespeed 曝出高速缓存漏洞，数百万 WordPress 网站面临安全威胁](https://www.freebuf.com/news/409193.html)
+

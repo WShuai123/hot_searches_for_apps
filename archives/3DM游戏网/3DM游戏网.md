@@ -169,3 +169,25 @@
 
 + [沉浸感拉满 《四海兄弟：故乡》将提供完整的西西里语配音](https://www.3dmgame.com/news/202408/3902426.html)
 
++ [电影化叙事 生存恐怖冒险游戏《挽回（Retrieval）》现已上线Steam平台](https://www.3dmgame.com/news/202408/3902437.html)
+
++ [《雨中冒险2：风暴探寻者》DLC大厨角色演示 8月27日发售](https://www.3dmgame.com/news/202408/3902439.html)
+
++ [经典动作射击游戏《废墟》确定制作真人电影](https://www.3dmgame.com/news/202408/3902438.html)
+
++ [防止内容被抓取训练AI 百度百科屏蔽谷歌/必应等搜索引擎](https://www.3dmgame.com/news/202408/3902440.html)
+
++ [乐高发布与《马力欧赛车》全新合作套装预告 共6款2025年元旦推出](https://www.3dmgame.com/news/202408/3902430.html)
+
++ [PlayStation发布《影之刃零》科隆试玩演示片段](https://www.3dmgame.com/news/202408/3902431.html)
+
++ [美国游戏市场7月支出增长10% 但调研机构对今年仍不乐观](https://www.3dmgame.com/news/202408/3902432.html)
+
++ [脑机接口试验再突破 马斯克预测10年内数百万人使用](https://www.3dmgame.com/news/202408/3902433.html)
+
++ [策略游戏《蚂蚁帝国》预购开启 国区售价143元](https://www.3dmgame.com/news/202408/3902434.html)
+
++ [回合制战略游戏《恶棍水域》现已开启预购 2024年10月1日正式推出](https://www.3dmgame.com/news/202408/3902435.html)
+
++ [《星刃》开发者：PC版正在筹备 预计销量将超越PS5](https://www.3dmgame.com/news/202408/3902436.html)
+
