@@ -223,3 +223,5 @@
 
 + [《海贼王 Bounty Rush》Steam页面上线 年内发售](https://www.3dmgame.com/news/202408/3902445.html)
 
++ [足球巨星内马尔参战沙特电竞世界杯 而且是三个游戏](https://www.3dmgame.com/news/202408/3902457.html)
+

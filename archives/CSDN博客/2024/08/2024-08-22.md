@@ -171,3 +171,9 @@
 
 + [2024年入职/转行网络安全，该如何规划？_网络安全职业规划](https://blog.csdn.net/2401_85023531/article/details/141390450)
 
++ [跟着GPT学习 Kubernetes ，简称 K8s（一）](https://blog.csdn.net/baixue6269/article/details/141399114)
+
++ [Linux——网络（1）](https://blog.csdn.net/qq_63574400/article/details/141401194)
+
++ [用SpringBoot和vue写一个2048小游戏](https://blog.csdn.net/nndsb/article/details/141397278)
+
