@@ -191,3 +191,5 @@
 
 + [《星刃》开发者：PC版正在筹备 预计销量将超越PS5](https://www.3dmgame.com/news/202408/3902436.html)
 
++ [新报告显示欧洲75%游戏玩家为成年人 平均年龄31岁](https://www.3dmgame.com/news/202408/3902441.html)
+

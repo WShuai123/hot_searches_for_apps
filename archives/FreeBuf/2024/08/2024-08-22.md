@@ -55,3 +55,5 @@
 
 + [Litespeed 曝出高速缓存漏洞，数百万 WordPress 网站面临安全威胁](https://www.freebuf.com/news/409193.html)
 
++ [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
+
