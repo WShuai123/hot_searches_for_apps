@@ -57,3 +57,7 @@
 
 + [NGate安卓恶意软件可利用 NFC 窃取 ATM 内资金](https://www.freebuf.com/news/409267.html)
 
++ [如何做好一名优秀的蓝队（内网篇）](https://www.freebuf.com/articles/web/408315.html)
+
++ [官方强烈建议更新，关键漏洞影响GitHub Enterprise Server 所有版本](https://www.freebuf.com/news/409274.html)
+
