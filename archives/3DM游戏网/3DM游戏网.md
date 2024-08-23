@@ -169,3 +169,13 @@
 
 + [2024年科隆开发者大会Devcom为史上最大 与会人数增长45%](https://www.3dmgame.com/news/202408/3902503.html)
 
++ [亚马逊游戏负责人表示 需要更多的人工智能 游戏产品没有真正的演员表演](https://www.3dmgame.com/news/202408/3902518.html)
+
++ [Steam用户评价现在会显示评测者是否主要用Steam Deck游玩](https://www.3dmgame.com/news/202408/3902517.html)
+
++ [吉田直树：《最终幻想7》重制版第三部的蒂法将更强大](https://www.3dmgame.com/news/202408/3902516.html)
+
++ [国产最大无人运输机成功首飞 最大商载3200公斤](https://www.3dmgame.com/news/202408/3902515.html)
+
++ [英国市场监管机构宣布将终止对苹果应用内支付系统调查](https://www.3dmgame.com/news/202408/3902514.html)
+
