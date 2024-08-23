@@ -69,3 +69,9 @@
 
 + [豪掷超 600 万，北汽集团赠首都奥运英雄 14 辆享界 S9 Ultra 轿车](https://m.ithome.com/html/790491.htm)
 
++ [鸿海刘扬伟：若印度产苹果 iPhone 良率仅 50% 我早就撤资了](https://m.ithome.com/html/790662.htm)
+
++ [Epic 喜加二：《木卫四协议》《巨兽战争：狂暴版》游戏免费领，下周送《辐射经典合集》](https://m.ithome.com/html/790500.htm)
+
++ [比亚迪海豹 06 GT 官宣 8 月 30 日亮相：多项全球首创技术，号称“年轻人的第一台 GT”](https://m.ithome.com/html/790622.htm)
+

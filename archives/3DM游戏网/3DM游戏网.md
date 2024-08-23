@@ -231,3 +231,9 @@
 
 + [《黑神话：悟空》IGN日本7分 游戏性略显单一](https://www.3dmgame.com/news/202408/3902544.html)
 
++ [《黑神话：悟空》销量破千万！创中国游戏历史记录](https://www.3dmgame.com/news/202408/3902547.html)
+
++ [《黑神话：悟空》陷入“抄袭”风波 三位博主发声质疑](https://www.3dmgame.com/news/202408/3902545.html)
+
++ [尾田荣一郎亲笔信！网飞《海贼王2》将演到磁鼓岛](https://www.3dmgame.com/news/202408/3902546.html)
+
