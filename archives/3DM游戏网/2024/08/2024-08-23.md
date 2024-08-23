@@ -181,3 +181,17 @@
 
 + [《无限暖暖》内测全球预约人数已经超过1200万人](https://www.3dmgame.com/news/202408/3902519.html)
 
++ [传闻：《怪物猎人：荒野》PS5帧率或只有30帧](https://www.3dmgame.com/news/202408/3902525.html)
+
++ [《真人快打》开发商招聘显示新作已在开发中 包含“高质量战役”](https://www.3dmgame.com/news/202408/3902526.html)
+
++ [《原神》拾枝杂谈-「玛拉妮：至景流连」](https://www.3dmgame.com/news/202408/3902524.html)
+
++ [第一人称叙事心理恐怖游戏《A.I.L.A》现已上架Steam平台](https://www.3dmgame.com/news/202408/3902523.html)
+
++ [《战锤40K：星际战士2》开发者受《绝地潜兵2》成功的鼓舞：玩家对这类游戏很有兴趣](https://www.3dmgame.com/news/202408/3902522.html)
+
++ [亚马逊游戏CEO称：将为Switch继任者提供游戏支持](https://www.3dmgame.com/news/202408/3902521.html)
+
++ [不仅仅是“地心之战” 梅森表示暴雪已将《魔兽世界》规划至17.0版本](https://www.3dmgame.com/news/202408/3902520.html)
+
