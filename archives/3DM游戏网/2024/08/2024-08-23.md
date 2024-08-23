@@ -221,3 +221,5 @@
 
 + [Plus系列最后的绝唱！iPhone 16/16 Plus相机参数出炉](https://www.3dmgame.com/news/202408/3902538.html)
 
++ [至多 40 人的生存动作竞速，《一鹅当先》正式公开！免费游玩，预计于 9 月上线！](https://www.3dmgame.com/news/202408/3902540.html)
+

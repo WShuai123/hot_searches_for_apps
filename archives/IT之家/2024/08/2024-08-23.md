@@ -61,3 +61,9 @@
 
 + [VG Insights：《黑神话：悟空》总收入超 4 亿美元](https://m.ithome.com/html/790609.htm)
 
++ [比亚迪腾势旗舰级 SUV 腾势 N9 谍照曝光，高管曾放话“产品力强过理想 L9 / 问界 M9”](https://m.ithome.com/html/790603.htm)
+
++ [华为宣布 Pura70 系列手机首发支持中国移动北斗卫星短信](https://m.ithome.com/html/790624.htm)
+
++ [消息称某厂骁龙 8 Gen 4 新机采用 2K 直屏、四窄边框，预计为 iQOO 13](https://m.ithome.com/html/790490.htm)
+

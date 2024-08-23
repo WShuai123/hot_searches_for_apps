@@ -197,3 +197,11 @@
 
 + [MyBatis核心机制](https://blog.csdn.net/m0_64637029/article/details/141453239)
 
++ [Stable Diffusion整合包与手动本地部署结合内网穿透远程AI绘画](https://blog.csdn.net/qq_73017178/article/details/141465452)
+
++ [如何优雅的在页面上嵌入AI-Agent人工智能](https://blog.csdn.net/master_hunter/article/details/141456480)
+
++ [一文搞定—FastJson详解 与 使用](https://blog.csdn.net/weixin_64296810/article/details/141464348)
+
++ [深入了解Elasticsearch集群：Elasticsearch集群的工作原理与优化策略](https://blog.csdn.net/qq_57761637/article/details/141439680)
+
