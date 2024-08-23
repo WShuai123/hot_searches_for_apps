@@ -27,3 +27,5 @@
 
 + [小米卢伟冰预热澎湃 OS 2.0：真正的 AI 手机是搭载基于 AI 大模型重构的操作系统](https://m.ithome.com/html/790752.htm)
 
++ [福建平潭问界 M7 沙滩陷车当事人再发声，承认自己失误，其老哥又定一辆 M9](https://m.ithome.com/html/790770.htm)
+

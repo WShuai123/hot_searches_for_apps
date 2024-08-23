@@ -133,3 +133,9 @@
 
 + [Elasticsearch：使用 ELSER 进行语义搜索 - sparse_vector](https://blog.csdn.net/UbuntuTouch/article/details/141465937)
 
++ [Python开发中，SQLAlchemy 的同步操作和异步操作封装，以及常规CRUD的处理。](https://blog.csdn.net/dsgdauigfs/article/details/141431755)
+
++ [2024年入职/转行网络安全，该如何规划？_网络安全职业规划](https://blog.csdn.net/2401_85023531/article/details/141425117)
+
++ [《基于 Spark 的平替药品智能推荐方法》](https://blog.csdn.net/syb513812/article/details/141440295)
+
