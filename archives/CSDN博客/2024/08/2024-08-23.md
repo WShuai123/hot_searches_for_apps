@@ -187,3 +187,7 @@
 
 + [解密《黑神话：悟空》脚本](https://blog.csdn.net/qq_16712551/article/details/141418688)
 
++ [【大数据算法】一文掌握大数据算法之：时间亚线性算法。](https://blog.csdn.net/wuyoudeyuer/article/details/141445990)
+
++ [Elasticsearch：使用 ELSER 进行语义搜索 - sparse_vector](https://blog.csdn.net/UbuntuTouch/article/details/141465937)
+

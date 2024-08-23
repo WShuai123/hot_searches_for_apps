@@ -211,3 +211,9 @@
 
 + [《星空》扩展DLC“破碎空间”将包含太空恐怖元素](https://www.3dmgame.com/news/202408/3902529.html)
 
++ [借国产游戏发布非理性言论引战！微博：138个账号被禁言](https://www.3dmgame.com/news/202408/3902535.html)
+
++ [什么配置能畅玩《黑神话》？是时候选择一台掠夺者·擎Neo一起“直面天命”了！](https://www.3dmgame.com/news/202408/3902536.html)
+
++ [鸿海董事长回应印度iPhone制造良率低 与中国大陆制造没有差别](https://www.3dmgame.com/news/202408/3902537.html)
+

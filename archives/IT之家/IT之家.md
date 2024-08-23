@@ -57,3 +57,5 @@
 
 + [小米是否会大规模自建充电桩？雷军回应：先把车做好](https://m.ithome.com/html/790441.htm)
 
++ [苹果 iOS / iPadOS 18 将为欧盟用户提供更高自由度，允许删除相机、App Store、照片、信息等应用](https://m.ithome.com/html/790509.htm)
+
