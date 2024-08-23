@@ -229,3 +229,5 @@
 
 + [微软更新30年历史的FAT32文件系统 大小限制从32GB增大至2TB](https://www.3dmgame.com/news/202408/3902541.html)
 
++ [《黑神话：悟空》IGN日本7分 游戏性略显单一](https://www.3dmgame.com/news/202408/3902544.html)
+
