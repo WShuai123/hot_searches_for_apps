@@ -67,3 +67,5 @@
 
 + [消息称某厂骁龙 8 Gen 4 新机采用 2K 直屏、四窄边框，预计为 iQOO 13](https://m.ithome.com/html/790490.htm)
 
++ [豪掷超 600 万，北汽集团赠首都奥运英雄 14 辆享界 S9 Ultra 轿车](https://m.ithome.com/html/790491.htm)
+
