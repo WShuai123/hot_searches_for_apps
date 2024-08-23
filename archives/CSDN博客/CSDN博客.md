@@ -127,3 +127,5 @@
 
 + [ros_gz_project_template使用笔记①配置（Gazebo Harmonic ROS2 Jazzy ）](https://blog.csdn.net/ZhangRelay/article/details/141428010)
 
++ [基于YOLOv8的无人机高空红外（HIT-UAV）检测算法，魔改SimAM注意力助力涨点（一）](https://blog.csdn.net/m0_63774211/article/details/141391435)
+

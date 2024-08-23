@@ -29,3 +29,9 @@
 
 + [被传离职后，王自如今日未出席格力营销峰会](https://m.ithome.com/html/790426.htm)
 
++ [魏建军称不需要周鸿祎试驾：后者回应理解，但好产品也要有好流量](https://m.ithome.com/html/790465.htm)
+
++ [国内首位，全盲女玩家靠听声辨位打过《黑神话：悟空》第 1 个 BOSS](https://m.ithome.com/html/790488.htm)
+
++ [贝锐自研操作系统 OrayOS 发布，免费开放给路由器和 IoT 网关使用](https://m.ithome.com/html/790263.htm)
+
