@@ -131,3 +131,5 @@
 
 + [分布式 - 主从复制技术详解及时延处理](https://blog.csdn.net/Ureliable/article/details/141424560)
 
++ [Elasticsearch：使用 ELSER 进行语义搜索 - sparse_vector](https://blog.csdn.net/UbuntuTouch/article/details/141465937)
+
