@@ -49,3 +49,5 @@
 
 + [应急处置工具之内存检索工具开发](https://www.freebuf.com/sectool/408673.html)
 
++ [世界上最大的ZIP炸弹：114885734 Quettabytes，一个普通人无法想象的量级](https://www.freebuf.com/news/409266.html)
+

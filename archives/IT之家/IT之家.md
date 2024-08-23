@@ -49,3 +49,7 @@
 
 + [极越公关负责人徐继业被内部通报批评，曾炮轰小米“亏钱卖车是倾销”](https://m.ithome.com/html/790453.htm)
 
++ [要知 App 订阅源更新：增国际新闻、军事新闻、游戏热点榜……](https://m.ithome.com/html/790399.htm)
+
++ [卢伟冰称小米 MIX Flip 小折叠手机卖爆：32% 来自苹果 iPhone 用户换机，有 55% 是女性用户](https://m.ithome.com/html/790553.htm)
+
