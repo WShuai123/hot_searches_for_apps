@@ -151,3 +151,15 @@
 
 + [可集成多模型的机器人开发框架 dora：让机器人编程走向大众](https://blog.csdn.net/GOSIM2023/article/details/141433897)
 
++ [【宠粉赠书】智能计算系统：从深度学习到大模型 第2版](https://blog.csdn.net/weixin_41793160/article/details/141407320)
+
++ [深入探索【Hadoop】生态系统：Hive、Pig、HBase及更多关键组件（上）](https://blog.csdn.net/weixin_53269650/article/details/141367834)
+
++ [SQL 注入 漏洞测试 POP 注入 windows和Linux均可使用，已测试成功](https://blog.csdn.net/qq_61414097/article/details/141427227)
+
++ [LangChain框架深度解析：对Chains组件的全方位探索与实战案例](https://blog.csdn.net/m0_48173416/article/details/141259463)
+
++ [用TensorFlow实现线性回归](https://blog.csdn.net/2301_79335566/article/details/141434340)
+
++ [禹神：三小时快速上手TypeScript，TS速通教程(上篇、中篇、下篇，3合1笔记)，根据视频整理](https://blog.csdn.net/qq_33650655/article/details/141372645)
+

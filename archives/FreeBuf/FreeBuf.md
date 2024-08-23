@@ -47,3 +47,5 @@
 
 + [研发安全 | 数据加密全生命周期管理](https://www.freebuf.com/articles/system/407768.html)
 
++ [应急处置工具之内存检索工具开发](https://www.freebuf.com/sectool/408673.html)
+
