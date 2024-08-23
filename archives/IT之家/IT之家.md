@@ -39,3 +39,9 @@
 
 + [《黑神话：悟空》Steam 在线人数连续三天创新高，超 241 万人同时在玩](https://m.ithome.com/html/790524.htm)
 
++ [雷军：小米 SU7 Ultra 量产车明年一季度发布，拟出厂配备新手模式](https://m.ithome.com/html/790344.htm)
+
++ [网传极越汽车公关负责人炮轰小米亏钱卖车，当事人徐继业回应](https://m.ithome.com/html/790350.htm)
+
++ [小米集团宣布向 1510 人奖励约 4101.9 万股股份，价值近 7.17 亿元](https://m.ithome.com/html/790456.htm)
+
