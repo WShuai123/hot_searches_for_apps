@@ -101,3 +101,11 @@
 
 + [黑曜石确认：《宣誓》将有超过10种不同的结局](https://www.3dmgame.com/news/202408/3902496.html)
 
++ [《铁尾传奇2》延期至2025年 登陆全平台](https://www.3dmgame.com/news/202408/3902551.html)
+
++ [《明末：渊虚之羽》开发者访谈 战斗、背景等介绍](https://www.3dmgame.com/news/202408/3902550.html)
+
++ [《持枪松鼠》主机版10月15日推出 PC版本月上线](https://www.3dmgame.com/news/202408/3902549.html)
+
++ [《黑神话：悟空》销量破千万 杨奇：实在诚惶诚恐](https://www.3dmgame.com/news/202408/3902548.html)
+

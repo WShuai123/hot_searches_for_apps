@@ -101,3 +101,31 @@
 
 + [Day97：云上攻防-云原生篇&Kubernetes&K8s安全&API&Kubelet未授权访问&容器执行](https://blog.csdn.net/m0_74402888/article/details/141434082)
 
++ [【OpenCV】 中使用 Lucas-Kanade 光流进行对象跟踪和路径映射](https://blog.csdn.net/gongdiwudu/article/details/141423091)
+
++ [AI绘制思维导图：使用SpringBoot和Vue实现智能可视化](https://blog.csdn.net/beautifulmemory/article/details/141466587)
+
++ [K8S - Java微服务配置之ConfigMap](https://blog.csdn.net/qq_33803102/article/details/141405389)
+
++ [python实现自动化生成pdf报告](https://blog.csdn.net/unbuntu_luo/article/details/141034160)
+
++ [学懂C++（四十一）：网络编程——深入详解 C++ 网络编程之 WebSocket 应用技术](https://blog.csdn.net/martian665/article/details/141425379)
+
++ [Linux信号机制探析--信号的产生](https://blog.csdn.net/2301_77509762/article/details/141396293)
+
++ [【网络】HTTPS——HTTP的安全版本](https://blog.csdn.net/2301_80224556/article/details/141384753)
+
++ [GBase 8s数据库学习积累（2）](https://blog.csdn.net/FC_BarceIona/article/details/141430943)
+
++ [搭建Node.js后端](https://blog.csdn.net/cn_514/article/details/141426215)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141425249)
+
++ [大数据-96 Spark 集群 SparkSQL Scala编写SQL操作SparkSQL的数据源：JSON、CSV、JDBC、Hive](https://blog.csdn.net/w776341482/article/details/141415402)
+
++ [数学建模学习](https://blog.csdn.net/2301_79347603/article/details/140991443)
+
++ [Moodle集成ONLYOFFICE文档：提高师生协作效率的最佳解决方案](https://blog.csdn.net/jinxinxin1314/article/details/141466272)
+
++ [物联网北向协议](https://blog.csdn.net/mqiqe/article/details/141428513)
+
