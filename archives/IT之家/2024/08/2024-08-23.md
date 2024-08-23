@@ -35,3 +35,7 @@
 
 + [贝锐自研操作系统 OrayOS 发布，免费开放给路由器和 IoT 网关使用](https://m.ithome.com/html/790263.htm)
 
++ [苹果 iPhone 16 / Pro 系列相机曝光：4800 万主摄、引入 JPEG-XL 新格式、全系配拍照按钮](https://m.ithome.com/html/790515.htm)
+
++ [《黑神话：悟空》Steam 在线人数连续三天创新高，超 241 万人同时在玩](https://m.ithome.com/html/790524.htm)
+

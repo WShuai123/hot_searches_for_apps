@@ -125,3 +125,25 @@
 
 + [支持DLSS3虚幻5射击游戏《黑色国度》发布光追演示](https://www.3dmgame.com/news/202408/3902489.html)
 
++ [黑曜石确认：《宣誓》将有超过10种不同的结局](https://www.3dmgame.com/news/202408/3902496.html)
+
++ [《小小梦魇3》实机演示公布 2025年正式发售](https://www.3dmgame.com/news/202408/3902497.html)
+
++ [特别好评像素风格沙盒游戏《地心护核者》开启免费试玩周末 正式版下周推出](https://www.3dmgame.com/news/202408/3902498.html)
+
++ [Xbox部分玩家无法使用育碧订阅服务 公司回应：可申请退款](https://www.3dmgame.com/news/202408/3902499.html)
+
++ [《寂静岭2：重制版》首次通关平均需要16-18小时](https://www.3dmgame.com/news/202408/3902500.html)
+
++ [卡普空TGS 2024参展游戏阵容公布：《怪物猎人：荒野》等](https://www.3dmgame.com/news/202408/3902501.html)
+
++ [经典科幻射击游戏《马拉松 无限》已在Steam正式推出 《马拉松》三部曲已完整移植](https://www.3dmgame.com/news/202408/3902502.html)
+
++ [万代机甲射击游戏《奇异贤伴：爱达之歌》宣布封闭网络测试 9月13日举行](https://www.3dmgame.com/news/202408/3902492.html)
+
++ [《使命召唤：战区》Next发布会将展示新地图“99区”](https://www.3dmgame.com/news/202408/3902494.html)
+
++ [《无主之地4》首发有Steam Gearbox CEO重新回应Steam平台快死言论](https://www.3dmgame.com/news/202408/3902493.html)
+
++ [《星河舰队：灭绝》科隆游戏展放出新预告 包含单人战役的正式版10月推出](https://www.3dmgame.com/news/202408/3902495.html)
+

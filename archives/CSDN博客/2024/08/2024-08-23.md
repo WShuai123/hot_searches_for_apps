@@ -129,3 +129,9 @@
 
 + [基于YOLOv8的无人机高空红外（HIT-UAV）检测算法，魔改SimAM注意力助力涨点（一）](https://blog.csdn.net/m0_63774211/article/details/141391435)
 
++ [《黑神话.悟空》与人工智能AI重塑经典与探索未来的交织](https://blog.csdn.net/zhaochen1127/article/details/141434579)
+
++ [Spring模块详解Ⅲ（Spring Expression Language （SPEL）和Spring JDBC）](https://blog.csdn.net/weixin_74888502/article/details/141439246)
+
++ [克服编程学习中的挫折感：从心态到策略的全方位指南](https://blog.csdn.net/2302_78391795/article/details/141438872)
+

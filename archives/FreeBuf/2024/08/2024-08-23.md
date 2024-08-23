@@ -45,3 +45,5 @@
 
 + [攻防演练 | ip溯源反制技战法](https://www.freebuf.com/defense/407886.html)
 
++ [研发安全 | 数据加密全生命周期管理](https://www.freebuf.com/articles/system/407768.html)
+
