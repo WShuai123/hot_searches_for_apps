@@ -209,3 +209,7 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [建行生活](https://itunes.apple.com/cn/app/id1472477795?mt=8)
+
++ [Snapchat](https://itunes.apple.com/cn/app/id447188370?mt=8)
+

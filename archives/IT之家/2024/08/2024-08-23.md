@@ -59,3 +59,5 @@
 
 + [苹果 iOS / iPadOS 18 将为欧盟用户提供更高自由度，允许删除相机、App Store、照片、信息等应用](https://m.ithome.com/html/790509.htm)
 
++ [VG Insights：《黑神话：悟空》总收入超 4 亿美元](https://m.ithome.com/html/790609.htm)
+

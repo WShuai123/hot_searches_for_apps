@@ -191,3 +191,9 @@
 
 + [Elasticsearch：使用 ELSER 进行语义搜索 - sparse_vector](https://blog.csdn.net/UbuntuTouch/article/details/141465937)
 
++ [重新审视 ChatGPT 和 Elasticsearch：RAG 真正将应用程序紧密结合在一起](https://blog.csdn.net/UbuntuTouch/article/details/141452544)
+
++ [【MySQL进阶之路】oracle 9i的经典测试雇员信息表案例——多表查询](https://blog.csdn.net/2301_79796701/article/details/141457069)
+
++ [MyBatis核心机制](https://blog.csdn.net/m0_64637029/article/details/141453239)
+

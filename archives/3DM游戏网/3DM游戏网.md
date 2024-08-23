@@ -217,3 +217,7 @@
 
 + [鸿海董事长回应印度iPhone制造良率低 与中国大陆制造没有差别](https://www.3dmgame.com/news/202408/3902537.html)
 
++ [恋爱模拟游戏《制服女友》宣布9月13日发布重大公告](https://www.3dmgame.com/news/202408/3902539.html)
+
++ [Plus系列最后的绝唱！iPhone 16/16 Plus相机参数出炉](https://www.3dmgame.com/news/202408/3902538.html)
+

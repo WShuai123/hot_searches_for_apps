@@ -37,3 +37,17 @@
 
 + [google / flatbuffers](https://github.com/google/flatbuffers)
 
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti)
+
++ [aws / aws-cli](https://github.com/aws/aws-cli)
+
++ [usebruno / bruno](https://github.com/usebruno/bruno)
+
++ [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
++ [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [deepset-ai / haystack](https://github.com/deepset-ai/haystack)
+
