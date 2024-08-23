@@ -199,3 +199,15 @@
 
 + [《第一狂战士：卡赞》玩法演示预告 明年年初发售](https://www.3dmgame.com/news/202408/3902528.html)
 
++ [《逆转检察官1&2 御剑精选集》试玩版发布 存档可继承](https://www.3dmgame.com/news/202408/3902533.html)
+
++ [《女神异闻录3 Reload》Episode Aegis挑战战斗“戴面具的少年“预告公开](https://www.3dmgame.com/news/202408/3902534.html)
+
++ [随心所欲地耕种吧。《模拟农场 25》将于2024年11月12日（周二）发售！](https://www.3dmgame.com/news/202408/3902532.html)
+
++ [《奇异贤伴 爱达之歌》即将举行封闭网络测试！9月13日开始](https://www.3dmgame.com/news/202408/3902531.html)
+
++ [创作者称《辐射》系列主题是“人类天性战争无法避免”](https://www.3dmgame.com/news/202408/3902530.html)
+
++ [《星空》扩展DLC“破碎空间”将包含太空恐怖元素](https://www.3dmgame.com/news/202408/3902529.html)
+

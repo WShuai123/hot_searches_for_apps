@@ -183,3 +183,7 @@
 
 + [数学建模学习](https://blog.csdn.net/2301_79347603/article/details/140991443)
 
++ [基于重要性加权的LLM自我改进：考虑分布偏移的新框架](https://blog.csdn.net/m0_46510245/article/details/141459827)
+
++ [解密《黑神话：悟空》脚本](https://blog.csdn.net/qq_16712551/article/details/141418688)
+

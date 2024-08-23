@@ -61,3 +61,7 @@
 
 + [官方强烈建议更新，关键漏洞影响GitHub Enterprise Server 所有版本](https://www.freebuf.com/news/409274.html)
 
++ [抽3人送《黑神话：悟空》豪华版！](https://www.freebuf.com/fevents/409337.html)
+
++ [黑客炫耀世界上最大的ZIP炸弹，达到1148857344 Quettabytes](https://www.freebuf.com/news/409266.html)
+

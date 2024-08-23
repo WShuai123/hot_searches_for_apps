@@ -143,3 +143,7 @@
 
 + [Morning Lux](https://www.producthunt.com/posts/morning-lux)
 
++ [Buggy.so](https://www.producthunt.com/posts/buggy-so)
+
++ [X Showdown](https://www.producthunt.com/posts/x-showdown-2)
+
