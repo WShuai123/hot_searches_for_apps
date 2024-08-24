@@ -151,3 +151,5 @@
 
 + [了解蜜罐网络技术：网络安全中的诱捕与防御](https://blog.csdn.net/weixin_48579910/article/details/141424091)
 
++ [使用canal增量同步ES索引库数据](https://blog.csdn.net/ZHUSHANGLIN/article/details/141467183)
+

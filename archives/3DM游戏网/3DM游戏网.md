@@ -173,3 +173,7 @@
 
 + [小岛秀夫庆生61岁生日 转发《黑神话》销量过千万贺图](https://www.3dmgame.com/news/202408/3902557.html)
 
++ [《明末：渊虚之羽》研发Q&A：无常缘起](https://www.3dmgame.com/news/202408/3902565.html)
+
++ [2024年科隆国际游戏展获奖游戏名单 《怪物猎人：荒野》获多个奖项](https://www.3dmgame.com/news/202408/3902564.html)
+
