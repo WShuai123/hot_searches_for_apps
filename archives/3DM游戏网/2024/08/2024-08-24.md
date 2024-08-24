@@ -245,3 +245,5 @@
 
 + [《星刃》开发商Shift Up发布Q2财报 《星刃》贡献了1900万美元](https://www.3dmgame.com/news/202408/3902598.html)
 
++ [《新蝙蝠侠2》明年开拍！编剧：这部续作标准极高](https://www.3dmgame.com/news/202408/3902600.html)
+
