@@ -51,3 +51,5 @@
 
 + [消息称苹果认为 iPhone 16 系列手机中 Pro / Max 机型将占据 70% 销量](https://m.ithome.com/html/790758.htm)
 
++ [iPhone 16 系列发布前，消息称苹果精织斜纹相关配件存在断货情况](https://m.ithome.com/html/790825.htm)
+

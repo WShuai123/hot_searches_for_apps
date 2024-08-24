@@ -31,3 +31,21 @@
 
 + [deepset-ai / haystack](https://github.com/deepset-ai/haystack)
 
++ [nashtech-garage / yas](https://github.com/nashtech-garage/yas)
+
++ [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog)
+
++ [google / flatbuffers](https://github.com/google/flatbuffers)
+
++ [flxzt / rnote](https://github.com/flxzt/rnote)
+
++ [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
++ [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
+
++ [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
+
++ [grafana / k6](https://github.com/grafana/k6)
+
