@@ -161,3 +161,13 @@
 
 + [JuiceFS 在多云架构中加速大模型推理](https://blog.csdn.net/JuiceFS/article/details/141465098)
 
++ [实战OpenCV之绘制图形](https://blog.csdn.net/hope_wisdom/article/details/141485643)
+
++ [基于单片机的仿生水母水下机器人设计](https://blog.csdn.net/weixin_45905610/article/details/141464871)
+
++ [计算机网络——HTTP与HTTPS协议](https://blog.csdn.net/qq_54444533/article/details/141472916)
+
++ [微服务实战系列之玩转Docker（十二）](https://blog.csdn.net/splendid_java/article/details/141465200)
+
++ [GitHub 与 AWS CodeCommit](https://blog.csdn.net/2401_85233349/article/details/141466676)
+
