@@ -205,3 +205,17 @@
 
 + [《Ara：未讲述的历史》规模宏大 现场演示视频欣赏](https://www.3dmgame.com/news/202408/3902577.html)
 
++ [《乐高2K竞速》开发商Visual Conecepts工作室再次裁员](https://www.3dmgame.com/news/202408/3902586.html)
+
++ [明年2月正式发售 《铁尾传奇2》上市日期宣传片欣赏](https://www.3dmgame.com/news/202408/3902583.html)
+
++ [万代南梦宫欧洲CEO：2024将是公司稳定化的一年](https://www.3dmgame.com/news/202408/3902584.html)
+
++ [国产奇幻农场模拟新作《青岚物语》公布最新预告片](https://www.3dmgame.com/news/202408/3902585.html)
+
++ [即时战术潜行游戏《疯狂之石》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3902580.html)
+
++ [《战锤40K：星际战士2》定制系统详情：可改细节超多](https://www.3dmgame.com/news/202408/3902581.html)
+
++ [《原神》拾枝杂谈-「卡齐娜：重岩的回响」](https://www.3dmgame.com/news/202408/3902582.html)
+
