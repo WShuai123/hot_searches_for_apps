@@ -101,3 +101,5 @@
 
 + [Hexus AI](https://www.producthunt.com/posts/hexus-ai)
 
++ [Pyramid.com Solitaire](https://www.producthunt.com/posts/pyramid-com-solitaire)
+

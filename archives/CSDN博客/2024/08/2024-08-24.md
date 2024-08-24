@@ -139,3 +139,13 @@
 
 + [《基于 Spark 的平替药品智能推荐方法》](https://blog.csdn.net/syb513812/article/details/141440295)
 
++ [基于无人机边沿相关 ------- IBUS、SBUS协议和PPM信号](https://blog.csdn.net/Dustinthewine/article/details/141476099)
+
++ [基于数据可视化+SpringBoot+Vue的起点树艺术培训机构系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141468364)
+
++ [【HarmonyOS NEXT星河版开发实战】天气查询APP](https://blog.csdn.net/2302_80329073/article/details/141469164)
+
++ [MyBatis 源码解读：MyBatis 核心架构与模块总览](https://blog.csdn.net/qq_40254606/article/details/141474169)
+
++ [构建个人编程学习的知识宝库：高效笔记记录与整理策略](https://blog.csdn.net/u014727709/article/details/141373753)
+

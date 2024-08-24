@@ -41,3 +41,7 @@
 
 + [单个像素的威胁：微小的变化如何欺骗深度学习系统](https://www.freebuf.com/articles/paper/408282.html)
 
++ [FreeBuf 周报 | 网易云音乐崩上热搜；丰田再发数据泄露事件](https://www.freebuf.com/news/409340.html)
+
++ [从零开始搭建本地安全 AI 大模型攻防知识库](https://www.freebuf.com/articles/web/408061.html)
+

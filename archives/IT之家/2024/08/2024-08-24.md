@@ -29,3 +29,7 @@
 
 + [福建平潭问界 M7 沙滩陷车当事人再发声，承认自己失误，其老哥又定一辆 M9](https://m.ithome.com/html/790770.htm)
 
++ [公安部详解“网络身份认证”，没有网号、网证也可正常上网](https://m.ithome.com/html/790767.htm)
+
++ [摩尔线程内测《黑神话：悟空》专属显卡驱动，支持 MTT S80 流畅运行](https://m.ithome.com/html/790772.htm)
+

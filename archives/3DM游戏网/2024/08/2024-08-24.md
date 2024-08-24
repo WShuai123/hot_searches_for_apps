@@ -109,3 +109,53 @@
 
 + [《黑神话：悟空》销量破千万 杨奇：实在诚惶诚恐](https://www.3dmgame.com/news/202408/3902548.html)
 
++ [3A级开放世界《特种部队》游戏正开发中](https://www.3dmgame.com/news/202408/3902556.html)
+
++ [IGN 6月榜：《星球大战：法外狂徒》仍是今年最受期待作品](https://www.3dmgame.com/news/202407/3899344.html)
+
++ [马斯克称脑机接口该像iPhone一样升级 大批志愿者踊跃报名](https://www.3dmgame.com/news/202407/3899343.html)
+
++ [《双截龙再临》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3899345.html)
+
++ [《守望先锋2》新英雄预热彩蛋上线 或将是第二位中国英雄](https://www.3dmgame.com/news/202407/3899346.html)
+
++ [时间差不多咯 《咒术回战》作者芥见下下透露 漫画已经进入最终章](https://www.3dmgame.com/news/202407/3899347.html)
+
++ [停刊7年《军团要塞2》官方漫画确认回归 新刊制作中](https://www.3dmgame.com/news/202407/3899349.html)
+
++ [万吨大白船！我国第2艘万吨级医院船“丝路方舟”号起航](https://www.3dmgame.com/news/202407/3899350.html)
+
++ [桌面放置挂机游戏《狂暴比特》现已登录Steam平台](https://www.3dmgame.com/news/202407/3899351.html)
+
++ [Netflix喜剧剧集《十日谈》预告 7月25日上线](https://www.3dmgame.com/news/202407/3899352.html)
+
++ [XGP涨价后 最便宜分级自动续费仍可首发玩《使命召唤：黑色行动6》](https://www.3dmgame.com/news/202407/3899354.html)
+
++ [押宝AI功能 苹果iPhone16系出货量至少9000万台](https://www.3dmgame.com/news/202407/3899353.html)
+
++ [AMC官方行尸走肉丧尸幸存RPG《行尸走肉：无人之境》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3899355.html)
+
++ [《东京时笼》二部曲Switch版免费体验发布 好评文字冒险](https://www.3dmgame.com/news/202407/3899356.html)
+
++ [《死侍》导演执导《星球大战》电影获编剧 曾合作《亚当计划》](https://www.3dmgame.com/news/202407/3899358.html)
+
++ [国产科幻潜行游戏《演灭》开发完成 配音演员阵容公开](https://www.3dmgame.com/news/202407/3899357.html)
+
++ [少女漫改动画《好想告诉你》第三季全新宣传预告放出 8月1日起Netflix独占播出](https://www.3dmgame.com/news/202407/3899359.html)
+
++ [事故不断 美国航空一架波音737-800客机起飞时爆胎](https://www.3dmgame.com/news/202407/3899360.html)
+
++ [卡通风格冒险游戏《被遗忘的天空》已推出试玩Demo 8月12日推出抢先体验版](https://www.3dmgame.com/news/202407/3899361.html)
+
++ [《英雄传说：界之轨迹》公布角色新情报 黎恩等闪轨角色回归](https://www.3dmgame.com/news/202407/3899362.html)
+
++ [《完蛋！我被美女包围了！》主机版预告 夏季上线主机](https://www.3dmgame.com/news/202407/3899364.html)
+
++ [Atlus《暗喻幻想》新预告片：超越幻想的旅行](https://www.3dmgame.com/news/202408/3902552.html)
+
++ [《黑神话》推出带动国内PS5销售 华强北售罄](https://www.3dmgame.com/news/202408/3902553.html)
+
++ [黑曜石艺术总监表示 《宣誓》“目标为30FPS”](https://www.3dmgame.com/news/202408/3902554.html)
+
++ [《星球大战：亡命之徒》新视频介绍开放世界地点](https://www.3dmgame.com/news/202408/3902555.html)
+
