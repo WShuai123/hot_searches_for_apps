@@ -157,3 +157,7 @@
 
 + [Nginx--监控](https://blog.csdn.net/lerp020321/article/details/141438700)
 
++ [ARM架构的BootLoader详解——对于Linux与Baremetal(裸机MCU)](https://blog.csdn.net/weixin_56228133/article/details/141369640)
+
++ [JuiceFS 在多云架构中加速大模型推理](https://blog.csdn.net/JuiceFS/article/details/141465098)
+

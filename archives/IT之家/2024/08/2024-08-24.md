@@ -39,3 +39,5 @@
 
 + [AMD Radeon RX 8800 XT 显卡曝光：499-599 美元，游戏性能媲美 2 倍售价的 RTX 4080](https://m.ithome.com/html/790672.htm)
 
++ [腾讯视频“版本更新后臻彩视界 4K 仅限 SVIP 观看”引“权益缩水”热议，官方回应“以实际使用情况为准”](https://m.ithome.com/html/790795.htm)
+
