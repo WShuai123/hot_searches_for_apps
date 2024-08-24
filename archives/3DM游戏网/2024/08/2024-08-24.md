@@ -223,3 +223,13 @@
 
 + [大量露骨场景 《龙腾世纪：影障守护者》评级M18](https://www.3dmgame.com/news/202408/3902588.html)
 
++ [《战锤40K：星际战士2》支持跨平台 科隆展新演示赏](https://www.3dmgame.com/news/202408/3902592.html)
+
++ [EA 2007年衍生作《MySims》或即将登陆Switch平台](https://www.3dmgame.com/news/202408/3902593.html)
+
++ [全球首制7500m³液态二氧化碳运输船 首次试航](https://www.3dmgame.com/news/202408/3902591.html)
+
++ [《潜行者2》场景并非程序生成：开发者全手工打造](https://www.3dmgame.com/news/202408/3902590.html)
+
++ [《Mirthwood》最新预告片欣赏 发售后更新计划公布](https://www.3dmgame.com/news/202408/3902589.html)
+

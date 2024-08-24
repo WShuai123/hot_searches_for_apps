@@ -175,3 +175,9 @@
 
 + [【Redis】Redis 缓存应用、淘汰机制—（四）](https://blog.csdn.net/smile_sundays/article/details/141232993)
 
++ [【人工智能】AI虚拟主播制作初体验：生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
+
++ [Vue实现表格数据的增删改查](https://blog.csdn.net/m0_68903702/article/details/141471424)
+
++ [PyQtGraph库的基本使用](https://blog.csdn.net/jgku/article/details/141449668)
+
