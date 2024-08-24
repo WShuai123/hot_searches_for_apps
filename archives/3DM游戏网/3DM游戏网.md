@@ -233,3 +233,5 @@
 
 + [《Mirthwood》最新预告片欣赏 发售后更新计划公布](https://www.3dmgame.com/news/202408/3902589.html)
 
++ [外国主播盛赞《黑神话》：如果它不是年度TGA就是在造假](https://www.3dmgame.com/news/202408/3902594.html)
+
