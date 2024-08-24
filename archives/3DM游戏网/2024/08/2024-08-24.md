@@ -177,3 +177,21 @@
 
 + [2024年科隆国际游戏展获奖游戏名单 《怪物猎人：荒野》获多个奖项](https://www.3dmgame.com/news/202408/3902564.html)
 
++ [苹果备货近亿部iPhone16：Pro和Max机型占比70%](https://www.3dmgame.com/news/202408/3902572.html)
+
++ [《博德之门3》成功后，《贪婪之秋2》得以抢先体验](https://www.3dmgame.com/news/202408/3902574.html)
+
++ [《Fera: 破碎部落》9月17日EA发售 暂不支持中文](https://www.3dmgame.com/news/202408/3902573.html)
+
++ [经典MOD重获新生 UE5版《噩梦之屋：重制版》公布](https://www.3dmgame.com/news/202408/3902571.html)
+
++ [《夺宝奇兵：古老之圈》重玩功能曝光 现场演示欣赏](https://www.3dmgame.com/news/202408/3902570.html)
+
++ [V社终于承认《Deadlock》存在：仍处于早期开发阶段](https://www.3dmgame.com/news/202408/3902569.html)
+
++ [《受折磨的灵魂2》24分钟实机演示呈现全新恐怖氛围](https://www.3dmgame.com/news/202408/3902568.html)
+
++ [回合制策略游戏《Barrage》Steam页面上线 明天发售](https://www.3dmgame.com/news/202408/3902567.html)
+
++ [《暗区突围：无限》暂无离线模式：成本太高风险太大](https://www.3dmgame.com/news/202408/3902566.html)
+
