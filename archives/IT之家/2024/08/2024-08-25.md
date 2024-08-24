@@ -27,3 +27,7 @@
 
 + [央视曝光“幽灵”外卖，北京朝阳 / 昌平市场监管局对涉事门店立案调查](https://m.ithome.com/html/790862.htm)
 
++ [深蓝明确 S07 延期交付补偿政策：每天补偿 120 元，上限为 1 万元](https://m.ithome.com/html/790886.htm)
+
++ [OPPO ColorOS 15 细节曝光：新增分层景深壁纸，流体云支持更多信息显示](https://m.ithome.com/html/790896.htm)
+
