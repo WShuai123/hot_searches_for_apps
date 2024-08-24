@@ -235,3 +235,9 @@
 
 + [外国主播盛赞《黑神话》：如果它不是年度TGA就是在造假](https://www.3dmgame.com/news/202408/3902594.html)
 
++ [4天破千万什么概念？《黑神话》和国外3A游戏首发销量对比](https://www.3dmgame.com/news/202408/3902597.html)
+
++ [#Steam崩了#上微博热搜 但目前已经可以登录了](https://www.3dmgame.com/news/202408/3902596.html)
+
++ [荣耀获得中国移动投资](https://www.3dmgame.com/news/202408/3902595.html)
+

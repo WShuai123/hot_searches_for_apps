@@ -216,3 +216,9 @@
 
 + [Restins Tech Logo](https://dribbble.com/shots/)
 
++ [papaya Logotype](https://dribbble.com/shots/)
+
++ [M logotype](https://dribbble.com/shots/)
+
++ [axion - tech startup logo design](https://dribbble.com/shots/)
+
