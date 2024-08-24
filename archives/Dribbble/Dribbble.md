@@ -69,3 +69,49 @@
 
 + [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
 
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [Cyclops - Influencer Details Dashboard](https://dribbble.com/shots/)
+
++ [Finch Pay - Fintech Mobile App UI Design](https://dribbble.com/shots/)
+
++ [Auction app](https://dribbble.com/shots/)
+
++ [M logotype](https://dribbble.com/shots/)
+
++ [papaya Logotype](https://dribbble.com/shots/)
+
++ [Coastal Town Tutorial](https://dribbble.com/shots/)
+
++ [Band logo and Brand Identity](https://dribbble.com/shots/)
+
++ [Billy](https://dribbble.com/shots/)
+
++ [W letter mark, logo design.](https://dribbble.com/shots/)
+
++ [City7 Festival Branding](https://dribbble.com/shots/)
+
++ [layer, logo design, branding](https://dribbble.com/shots/)
+
++ [P logo](https://dribbble.com/shots/)
+
++ [Proup - Logo Design](https://dribbble.com/shots/)
+
++ [27/32 – Dallas Talons](https://dribbble.com/shots/)
+
++ [logo and brand identity](https://dribbble.com/shots/)
+
++ [Mulligan's Grooming Co. Letterform](https://dribbble.com/shots/)
+
++ [Coach Board • Metafy](https://dribbble.com/shots/)
+
++ [FOAMS–FA](https://dribbble.com/shots/)
+
++ [Restins Tech Logo](https://dribbble.com/shots/)
+
++ [The Wake - Online Game Website](https://dribbble.com/shots/)
+
++ [saturday(client work)](https://dribbble.com/shots/)
+
++ [Communication logomark](https://dribbble.com/shots/)
+

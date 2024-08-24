@@ -127,3 +127,9 @@
 
 + [zookeeper客户端命令行操作、节点类型及监听器](https://blog.csdn.net/shuair/article/details/141502754)
 
++ [ARM架构的BootLoader详解——对于Linux与Baremetal(裸机MCU)](https://blog.csdn.net/weixin_56228133/article/details/141369640)
+
++ [基于ssm+vue+uniapp的跑腿平台小程序](https://blog.csdn.net/shmp54/article/details/141436876)
+
++ [前端宝典十三：node网络详解Tcp/IP/Http及网络安全防御](https://blog.csdn.net/franktaoge/article/details/141436261)
+
