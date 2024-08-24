@@ -101,3 +101,29 @@
 
 + [禹神：三小时快速上手TypeScript，TS速通教程(上篇、中篇、下篇，3合1笔记)，根据视频整理](https://blog.csdn.net/qq_33650655/article/details/141372645)
 
++ [防患未然：构建AIGC时代下开发团队应对突发技术故障与危机的全面策略](https://blog.csdn.net/qq_32682301/article/details/141502779)
+
++ [Redis内存淘汰](https://blog.csdn.net/dev1cce/article/details/141461567)
+
++ [基于数据可视化+SpringBoot+Vue的起点树艺术培训机构系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/141468364)
+
++ [Nginx知识详解（理论+实战更易懂）](https://blog.csdn.net/weixin_63657273/article/details/141337393)
+
++ [Spring模块详解Ⅲ（Spring Expression Language （SPEL）和Spring JDBC）](https://blog.csdn.net/weixin_74888502/article/details/141439246)
+
++ [Spring Boot 与 Spring Security 的集成及 OAuth2 实现](https://blog.csdn.net/2202_76097976/article/details/141462697)
+
++ [《在数字化时代筑牢软件服务的稳定性防线》](https://blog.csdn.net/2301_77954967/article/details/141502858)
+
++ [稚晖君智元机器人远程机器人系列发布：引领具身智能新高度](https://blog.csdn.net/weixin_41496173/article/details/141472863)
+
++ [kafka](https://blog.csdn.net/2201_75912662/article/details/141461571)
+
++ [RabbitMQ高级用法](https://blog.csdn.net/m0_53140426/article/details/141393726)
+
++ [如何让python爬虫的数据可视化？](https://blog.csdn.net/lhx19373106160/article/details/141425916)
+
++ [K8S - Java微服务配置之ConfigMap](https://blog.csdn.net/qq_33803102/article/details/141405389)
+
++ [zookeeper客户端命令行操作、节点类型及监听器](https://blog.csdn.net/shuair/article/details/141502754)
+
