@@ -115,3 +115,19 @@
 
 + [Communication logomark](https://dribbble.com/shots/)
 
++ [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [Messi](https://dribbble.com/shots/)
+
++ [ｋｉｔｔｙ  ｂｌａｄｅ ????](https://dribbble.com/shots/)
+
++ [Rizzle UI/UX Design [Case Study]](https://dribbble.com/shots/)
+
++ [Bistrot](https://dribbble.com/shots/)
+
++ [Elk Sketch](https://dribbble.com/shots/)
+
++ [Abundance](https://dribbble.com/shots/)
+
++ [Meditations (PSE '24)](https://dribbble.com/shots/)
+
