@@ -45,3 +45,7 @@
 
 + [从零开始搭建本地安全 AI 大模型攻防知识库](https://www.freebuf.com/articles/web/408061.html)
 
++ [攻防演练期间那些事](https://www.freebuf.com/defense/406757.html)
+
++ [基于邮箱的域名欺骗攻击：利用解析器绕过访问控制](https://www.freebuf.com/articles/network/408767.html)
+

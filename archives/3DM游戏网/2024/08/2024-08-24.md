@@ -159,3 +159,17 @@
 
 + [《星球大战：亡命之徒》新视频介绍开放世界地点](https://www.3dmgame.com/news/202408/3902555.html)
 
++ [《黑神话：悟空》收入或超26亿元！华强北组装电脑生意被带火](https://www.3dmgame.com/news/202408/3902562.html)
+
++ [格斗游戏《Space Hunters》Steam页面公布 明年发售](https://www.3dmgame.com/news/202408/3902563.html)
+
++ [《使命召唤：黑色行动6》发布僵尸模式“自由瀑镇”CG预告](https://www.3dmgame.com/news/202408/3902561.html)
+
++ [《消逝的光芒2》终极版将于9月30日起全平台下架停售](https://www.3dmgame.com/news/202408/3902560.html)
+
++ [航天模拟游戏《Spaceflight Simulator2》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202408/3902559.html)
+
++ [没有最差只有更差 《星鸣特攻》首发表现甚至“不如预期”](https://www.3dmgame.com/news/202408/3902558.html)
+
++ [小岛秀夫庆生61岁生日 转发《黑神话》销量过千万贺图](https://www.3dmgame.com/news/202408/3902557.html)
+
