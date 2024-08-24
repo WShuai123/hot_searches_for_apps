@@ -241,3 +241,7 @@
 
 + [荣耀获得中国移动投资](https://www.3dmgame.com/news/202408/3902595.html)
 
++ [《黑神话》让国外玩家喜欢上悟空 于是打开了《功夫之王》](https://www.3dmgame.com/news/202408/3902599.html)
+
++ [《星刃》开发商Shift Up发布Q2财报 《星刃》贡献了1900万美元](https://www.3dmgame.com/news/202408/3902598.html)
+

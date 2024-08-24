@@ -57,3 +57,7 @@
 
 + [荣耀获中国移动投资入股](https://m.ithome.com/html/790786.htm)
 
++ [（更新：已恢复正常）Steam 崩了！《黑神话：悟空》的天命人们突遇“第八十二难”](https://m.ithome.com/html/790899.htm)
+
++ [反诈电影《孤注一掷》今日重映，总票房已达 38.48 亿元](https://m.ithome.com/html/790870.htm)
+
