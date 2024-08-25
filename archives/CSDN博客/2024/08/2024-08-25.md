@@ -147,3 +147,7 @@
 
 + [Day98：云上攻防-云原生篇&K8s安全&Config泄漏&Etcd存储&Dashboard鉴权&Proxy暴露](https://blog.csdn.net/m0_74402888/article/details/141479964)
 
++ [在C#中如何监控其它应用全屏](https://blog.csdn.net/zhaotianff/article/details/141466590)
+
++ [数学建模之数据分析【九】：数据清理总结](https://blog.csdn.net/lmx1458070445/article/details/141490655)
+

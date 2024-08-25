@@ -115,3 +115,19 @@
 
 + [全新粉丝马里奥项目《超级马里奥和彩虹星》亮相](https://www.3dmgame.com/news/202408/3902602.html)
 
++ [沉寂十几年的《我的模拟人生》或将复活登陆NS](https://www.3dmgame.com/news/202408/3902613.html)
+
++ [《不可思议的幻想乡：FORESIGHT》9月登陆PS4/Switch](https://www.3dmgame.com/news/202408/3902614.html)
+
++ [《Concord》扑街后 开发者称痛恨这个游戏的人是无才怪胎](https://www.3dmgame.com/news/202408/3902615.html)
+
++ [Steam崩溃因遭DDoS攻击 非因《黑神话》在线人数过多](https://www.3dmgame.com/news/202408/3902608.html)
+
++ [外媒：PS5 Pro是公开的秘密 连小工作室都知道其规格](https://www.3dmgame.com/news/202408/3902609.html)
+
++ [《狂野西部时代》正式版发布 Steam评价仍为多半差评](https://www.3dmgame.com/news/202408/3902610.html)
+
++ [《潜行者2》的开放世界很庞大 探索至少需要100小时](https://www.3dmgame.com/news/202408/3902611.html)
+
++ [《战国王朝》新更新”生存意义“上线 多项新内容](https://www.3dmgame.com/news/202408/3902612.html)
+
