@@ -211,3 +211,7 @@
 
 + [谢苗动作电影《火遮眼》首曝剧照 谷垣健治执导](https://www.3dmgame.com/news/202408/3902635.html)
 
++ [怂了？《Concord》Steam页面隐藏LGBT标签](https://www.3dmgame.com/news/202408/3902637.html)
+
++ [悟空和白骨精谈恋爱？《黑神话：悟空》部分剧情引不满](https://www.3dmgame.com/news/202408/3902636.html)
+

@@ -189,3 +189,9 @@
 
 + [微信小程序获取当前位置并自定义浮窗](https://blog.csdn.net/weixin_44409569/article/details/141469314)
 
++ [企业微信API对接文档【可向微信用户发消息】](https://blog.csdn.net/beautifulmemory/article/details/141528129)
+
++ [[Linux#47][网络] 网络协议 | TCP/IP模型 | 以太网通信](https://blog.csdn.net/2301_80171004/article/details/141524365)
+
++ [Vue的计算属性：methods方法、computed计算属性、watch监听属性](https://blog.csdn.net/pan_junbiao/article/details/141500332)
+

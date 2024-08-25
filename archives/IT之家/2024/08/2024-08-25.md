@@ -61,3 +61,7 @@
 
 + [古尔曼：苹果将把 Apple Intelligence 作为 iPhone 16 / Pro 系列的宣传重点](https://m.ithome.com/html/790926.htm)
 
++ [2025 款比亚迪汉 DM-i 实车曝光，配备激光雷达](https://m.ithome.com/html/791023.htm)
+
++ [无线充电新规 9 月 1 日施行：MagSafe / Qi2 因频率冲突或将停售，苹果 iPhone 无线功率改为 7.5W](https://m.ithome.com/html/790991.htm)
+
