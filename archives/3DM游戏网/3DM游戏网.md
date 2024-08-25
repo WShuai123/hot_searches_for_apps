@@ -103,3 +103,7 @@
 
 + [微软推出Edge浏览器v128.0正式版：不再支持上古CPU](https://www.3dmgame.com/news/202408/3902644.html)
 
++ [动画《终结者：零》预告 8月29日重燃末日之战](https://www.3dmgame.com/news/202408/3902646.html)
+
++ [游戏版《魔女宅急便》《米卡与魔女之山》正式发售](https://www.3dmgame.com/news/202408/3902645.html)
+
