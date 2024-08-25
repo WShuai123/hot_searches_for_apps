@@ -33,3 +33,25 @@
 
 + [grafana / k6](https://github.com/grafana/k6)
 
++ [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
++ [Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe)
+
++ [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
+
++ [umami-software / umami](https://github.com/umami-software/umami)
+
++ [Vendicated / Vencord](https://github.com/Vendicated/Vencord)
+
++ [karpathy / llm.c](https://github.com/karpathy/llm.c)
+
++ [zed-industries / zed](https://github.com/zed-industries/zed)
+
++ [termux / termux-app](https://github.com/termux/termux-app)
+
++ [WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys)
+
++ [casey / just](https://github.com/casey/just)
+
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
