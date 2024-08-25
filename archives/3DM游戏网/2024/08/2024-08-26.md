@@ -101,3 +101,5 @@
 
 + [《不可思议的幻想乡：FORESIGHT》9月登陆PS4/Switch](https://www.3dmgame.com/news/202408/3902614.html)
 
++ [微软推出Edge浏览器v128.0正式版：不再支持上古CPU](https://www.3dmgame.com/news/202408/3902644.html)
+
