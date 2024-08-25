@@ -51,3 +51,7 @@
 
 + [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
 
++ [步步为营：安全渗透测试实战思路与策略分享](https://www.freebuf.com/articles/web/401835.html)
+
++ [PANIX：用于安全研究和渗透测试的高度可定制Linux持久性工具](https://www.freebuf.com/sectool/408902.html)
+

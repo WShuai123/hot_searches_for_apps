@@ -183,3 +183,7 @@
 
 + [《神偷奶爸4》终极预告公布 电影票预售开启](https://www.3dmgame.com/news/202407/3898877.html)
 
++ [2024年暑期档电影票房破110亿！《抓娃娃》遥遥领先](https://www.3dmgame.com/news/202408/3902623.html)
+
++ [《Marko: Beyond Brave》Steam试玩发布 银河恶魔城新游](https://www.3dmgame.com/news/202408/3902622.html)
+
