@@ -45,3 +45,9 @@
 
 + [《黑神话：悟空》宣布 PS5 手柄适配腾讯 WeGame 版：仅支持有线连接](https://m.ithome.com/html/790951.htm)
 
++ [因平台监管问题，Telegram 首席执行官被法国警方逮捕](https://m.ithome.com/html/790929.htm)
+
++ [小米米家洗衣机超净洗波轮 10kg 上架：洗净比 1.2，首发 899 元](https://m.ithome.com/html/790911.htm)
+
++ [长城坦克 400 汽油版 SUV 官宣“即将来袭”，现款 Hi4-T 版售价 28.58 万起](https://m.ithome.com/html/790907.htm)
+
