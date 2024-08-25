@@ -143,3 +143,43 @@
 
 + [经典游改《偶像大师 闪耀色彩》动画第二季10月开播](https://www.3dmgame.com/news/202408/3902617.html)
 
++ [微软支付超1亿元和解员工指控：拒绝对请病假等员工升职加薪](https://www.3dmgame.com/news/202407/3898870.html)
+
++ [赛力斯：每卖出一台车 华为都会收获一笔销售服务费](https://www.3dmgame.com/news/202407/3898871.html)
+
++ [《怪奇物语》第五季公布新片场照 拍摄已完成一半](https://www.3dmgame.com/news/202407/3898869.html)
+
++ [主创身陷丑闻 网飞《地平线》改编真人剧或被取消](https://www.3dmgame.com/news/202407/3898867.html)
+
++ [《Angelian Trigger》12月登陆Switch 3D射击新游](https://www.3dmgame.com/news/202407/3898868.html)
+
++ [《第一后裔》女性角色性感 物理摇晃弥补《星刃》空白](https://www.3dmgame.com/news/202407/3898872.html)
+
++ [《黑神话：悟空》配音演员公布：蜘蛛精二姐配音现身](https://www.3dmgame.com/news/202407/3898873.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》主角或将不再区分男女 仅用代称表示](https://www.3dmgame.com/news/202407/3898865.html)
+
++ [特斯拉：二代人形机器人Optimus将首次亮相世界人工智能大会](https://www.3dmgame.com/news/202407/3898866.html)
+
++ [三星放缓汽车半导体项目开发 未来将以人工智能芯片为战略核心](https://www.3dmgame.com/news/202407/3898881.html)
+
++ [《最终幻想14》画面升级后 著名低模葡萄毫发无损](https://www.3dmgame.com/news/202407/3898880.html)
+
++ [千卡暴增至万卡GPU集群！摩尔线程AI旗舰产品夸娥重磅升级](https://www.3dmgame.com/news/202407/3898879.html)
+
++ [李彦宏：AI不是人类的竞争对手 工作机会正大量诞生](https://www.3dmgame.com/news/202407/3898878.html)
+
++ [《艾尔登法环》发布v1.12.3更新补丁 再次调整游戏平衡](https://www.3dmgame.com/news/202407/3898875.html)
+
++ [《River Tails》登陆Switch 猫与鱼的动作冒险](https://www.3dmgame.com/news/202407/3898876.html)
+
++ [国产武侠单机《天命奇御二》PS5版现已发售](https://www.3dmgame.com/news/202407/3898884.html)
+
++ [IGN调查：你最希望谁推出新掌机 V社得票最低](https://www.3dmgame.com/news/202407/3898882.html)
+
++ [特斯拉Q2交付量超预期 卖空者2天损失35亿美元](https://www.3dmgame.com/news/202407/3898883.html)
+
++ [圆周率创新纪录202万亿位 用了接近1.5PB的SSD](https://www.3dmgame.com/news/202407/3898874.html)
+
++ [《神偷奶爸4》终极预告公布 电影票预售开启](https://www.3dmgame.com/news/202407/3898877.html)
+

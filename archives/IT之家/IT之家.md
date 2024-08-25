@@ -43,3 +43,5 @@
 
 + [周鸿祎再回应 360 儿童手表错误问答：已惩罚产品经理接 1 个月客服电话](https://m.ithome.com/html/790950.htm)
 
++ [《黑神话：悟空》宣布 PS5 手柄适配腾讯 WeGame 版：仅支持有线连接](https://m.ithome.com/html/790951.htm)
+
