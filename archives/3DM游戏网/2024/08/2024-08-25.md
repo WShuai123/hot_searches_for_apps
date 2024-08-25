@@ -101,3 +101,17 @@
 
 + [时间差不多咯 《咒术回战》作者芥见下下透露 漫画已经进入最终章](https://www.3dmgame.com/news/202407/3899347.html)
 
++ [《暗黑4》Steam开启免费试玩 新史低价208元促销](https://www.3dmgame.com/news/202408/3902606.html)
+
++ [《ROOST》Steam页面上线 复古风恐怖探索](https://www.3dmgame.com/news/202408/3902605.html)
+
++ [《漫漫长路 沙巫之旅》上市日期公布 最新预告片欣赏](https://www.3dmgame.com/news/202408/3902607.html)
+
++ [《模拟火车世界5》预告片展示英国标志性西海岸干线](https://www.3dmgame.com/news/202408/3902603.html)
+
++ [年轻人去洗浴中心打游戏了：玩《黑神话：悟空》要排队](https://www.3dmgame.com/news/202408/3902604.html)
+
++ [《龙腾世纪》新作预告片展示高级别战斗场面](https://www.3dmgame.com/news/202408/3902601.html)
+
++ [全新粉丝马里奥项目《超级马里奥和彩虹星》亮相](https://www.3dmgame.com/news/202408/3902602.html)
+

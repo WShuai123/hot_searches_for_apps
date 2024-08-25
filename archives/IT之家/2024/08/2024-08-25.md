@@ -31,3 +31,7 @@
 
 + [OPPO ColorOS 15 细节曝光：新增分层景深壁纸，流体云支持更多信息显示](https://m.ithome.com/html/790896.htm)
 
++ [比亚迪王朝全新 MPV 将于 8 月 30 日成都车展首发，搭载第五代 DM 技术](https://m.ithome.com/html/790895.htm)
+
++ [火星改造方案出炉，几个月内，让整个火星表面升温 30℃](https://m.ithome.com/html/790827.htm)
+
