@@ -55,3 +55,7 @@
 
 + [《黑神话：悟空》线下主题音乐会官宣：五大城市 9 月 8 日首演，180 元起](https://m.ithome.com/html/790975.htm)
 
++ [半月后 iPhone 16 即将上线：京东 iPhone 15 Pro Max 立减 1993 元 8 折购](https://m.ithome.com/html/791013.htm)
+
++ [五岁男孩驾驶兰博基尼 Revuelto 狂飙，时速达 312km/h](https://m.ithome.com/html/790954.htm)
+

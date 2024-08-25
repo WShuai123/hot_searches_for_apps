@@ -209,3 +209,5 @@
 
 + [Interplay联合创始人历经二十余年拿回大量库存纪念品](https://www.3dmgame.com/news/202408/3902632.html)
 
++ [谢苗动作电影《火遮眼》首曝剧照 谷垣健治执导](https://www.3dmgame.com/news/202408/3902635.html)
+
