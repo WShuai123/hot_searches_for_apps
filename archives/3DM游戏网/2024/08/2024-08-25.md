@@ -131,3 +131,15 @@
 
 + [《战国王朝》新更新”生存意义“上线 多项新内容](https://www.3dmgame.com/news/202408/3902612.html)
 
++ [前Rocksteady开发者：真希望Xbox Series S从未存在过](https://www.3dmgame.com/news/202408/3902620.html)
+
++ [《城市公交模拟器 2024》序章免费发布 体验公交驾驶](https://www.3dmgame.com/news/202408/3902621.html)
+
++ [开发者解释《塞尔达传说：王国之泪》如何实现无缝载入](https://www.3dmgame.com/news/202408/3902618.html)
+
++ [国内首款 中国自研祥云AS700载人飞艇试运营](https://www.3dmgame.com/news/202408/3902619.html)
+
++ [被取消开发的《古惑狼5》曾计划联动《小龙斯派罗》](https://www.3dmgame.com/news/202408/3902616.html)
+
++ [经典游改《偶像大师 闪耀色彩》动画第二季10月开播](https://www.3dmgame.com/news/202408/3902617.html)
+
