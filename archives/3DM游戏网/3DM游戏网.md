@@ -215,3 +215,9 @@
 
 + [悟空和白骨精谈恋爱？《黑神话：悟空》部分剧情引不满](https://www.3dmgame.com/news/202408/3902636.html)
 
++ [《暗黑破坏神4：憎恨之躯》新职业灵巫科隆展12分钟试玩](https://www.3dmgame.com/news/202408/3902640.html)
+
++ [《匹诺曹的谎言》续作可能将是开放世界设计](https://www.3dmgame.com/news/202408/3902638.html)
+
++ [奇安信还原Steam崩溃幕后：近60个僵尸网络 攻击暴涨2万倍](https://www.3dmgame.com/news/202408/3902639.html)
+

@@ -65,3 +65,5 @@
 
 + [无线充电新规 9 月 1 日施行：MagSafe / Qi2 因频率冲突或将停售，苹果 iPhone 无线功率改为 7.5W](https://m.ithome.com/html/790991.htm)
 
++ [卢伟冰：小米 MIX Flip 折叠屏产品设计考虑到男性用户，性能 / 续航目标旗舰直板手机](https://m.ithome.com/html/790959.htm)
+

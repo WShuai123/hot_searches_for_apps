@@ -217,3 +217,5 @@
 
 + [Fintech website ui kit](https://dribbble.com/shots/)
 
++ [Letter A Turbine Logo concept.](https://dribbble.com/shots/)
+

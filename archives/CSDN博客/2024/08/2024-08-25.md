@@ -195,3 +195,9 @@
 
 + [Vue的计算属性：methods方法、computed计算属性、watch监听属性](https://blog.csdn.net/pan_junbiao/article/details/141500332)
 
++ [【C++类和对象（下）】——我与C++的不解之缘（五）](https://blog.csdn.net/LH__1314/article/details/141473709)
+
++ [搭建自己的GPT](https://blog.csdn.net/bingbingyihao/article/details/141498320)
+
++ [【Linux篇】Linux的用户和权限](https://blog.csdn.net/2301_80912559/article/details/141503981)
+
