@@ -169,3 +169,9 @@
 
 + [Jason Broyles Brand Design](https://dribbble.com/shots/)
 
++ [DevMonk Logo Design Concept](https://dribbble.com/shots/)
+
++ [LOGO - Y](https://dribbble.com/shots/)
+
++ [14K Followers](https://dribbble.com/shots/)
+
