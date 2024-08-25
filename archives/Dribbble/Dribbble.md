@@ -189,3 +189,17 @@
 
 + [Gig Poster - Sir Woman](https://dribbble.com/shots/)
 
++ [Lofi - Green Tech Industrial Investment Landing Page](https://dribbble.com/shots/)
+
++ [Home Rent Landing Page](https://dribbble.com/shots/)
+
++ [Ai social media app design](https://dribbble.com/shots/)
+
++ [Arrow Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Nancy logo and Brand Identity](https://dribbble.com/shots/)
+
++ [Kreativ™ - Logo & Branding for Uber valet parking Brand - Tech](https://dribbble.com/shots/)
+
++ [Cannibal](https://dribbble.com/shots/)
+
