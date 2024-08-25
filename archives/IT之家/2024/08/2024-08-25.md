@@ -59,3 +59,5 @@
 
 + [五岁男孩驾驶兰博基尼 Revuelto 狂飙，时速达 312km/h](https://m.ithome.com/html/790954.htm)
 
++ [古尔曼：苹果将把 Apple Intelligence 作为 iPhone 16 / Pro 系列的宣传重点](https://m.ithome.com/html/790926.htm)
+
