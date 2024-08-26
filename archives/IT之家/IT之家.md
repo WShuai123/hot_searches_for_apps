@@ -25,3 +25,5 @@
 
 + [鸿蒙智行首款轿跑 SUV 智界 R7 发布，全系标配 CDC、空气悬架](https://m.ithome.com/html/791209.htm)
 
++ [消息称华为鸿蒙 HarmonyOS NEXT Beta 版系统“推送时间还是月底”](https://m.ithome.com/html/791244.htm)
+
