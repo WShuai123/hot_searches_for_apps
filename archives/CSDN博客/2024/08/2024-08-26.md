@@ -203,3 +203,11 @@
 
 + [【机器学习-监督学习】神经网络与多层感知机](https://blog.csdn.net/Morse_Chen/article/details/141366425)
 
++ [HTML5有格调的个人介绍网站源码](https://blog.csdn.net/weixin_43151418/article/details/141557179)
+
++ [优化学习管理：Moodle和ONLYOFFICE文档编辑器的完美结合](https://blog.csdn.net/aasd23/article/details/141200012)
+
++ [【You only look once】目标检测YOLO系列算法改进史](https://blog.csdn.net/qq_51366016/article/details/141529474)
+
++ [【数学建模】层次分析法](https://blog.csdn.net/shaozheng0503/article/details/141529199)
+
