@@ -137,3 +137,23 @@
 
 + [《寂静岭2：重制版》新情报 所有敌人位置被重新设置](https://www.3dmgame.com/news/202408/3902657.html)
 
++ [《堡垒之夜》原创游戏《Hikakin Escape》公开 网红参战](https://www.3dmgame.com/news/202408/3902670.html)
+
++ [鹰角GRYPHLINE东京电玩展参展游戏阵容公布：《明日方舟：终末地》等](https://www.3dmgame.com/news/202408/3902671.html)
+
++ [2025年是游戏史最伟大之年 将有《GTA6》《文明7》等](https://www.3dmgame.com/news/202408/3902669.html)
+
++ [传闻：任天堂或强制Switch继任者第三方手柄安装陀螺仪](https://www.3dmgame.com/news/202408/3902668.html)
+
++ [亚马逊最新制作中的《指环王》MMORPG游戏仍在寻找“卖点”](https://www.3dmgame.com/news/202408/3902667.html)
+
++ [他急了！抹黑《黑神话》的IGN记者呼吁大家去玩盗版](https://www.3dmgame.com/news/202408/3902666.html)
+
++ [《机动战士高达》空降纽约时代广场 北美巡展启动](https://www.3dmgame.com/news/202408/3902665.html)
+
++ [传闻：《黑神话：悟空》Xbox版开发基本完成 因技术问题被迫延期](https://www.3dmgame.com/news/202408/3902664.html)
+
++ [治愈系休闲解谜游戏《收纳我的猫》现已在Steam平台正式推出](https://www.3dmgame.com/news/202408/3902662.html)
+
++ [《黑神话：悟空》幕后演员曝光 蜘蛛精大姐AI生成](https://www.3dmgame.com/news/202408/3902663.html)
+
