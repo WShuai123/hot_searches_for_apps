@@ -211,3 +211,9 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [数字人民币](https://itunes.apple.com/cn/app/id1571652872?mt=8)
+
++ [国家助学贷款](https://itunes.apple.com/cn/app/id6496854842?mt=8)
+
++ [学习通](https://itunes.apple.com/cn/app/id977946724?mt=8)
+

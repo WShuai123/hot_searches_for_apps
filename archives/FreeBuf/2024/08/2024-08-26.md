@@ -47,3 +47,5 @@
 
 + [开源加密库的大规模漏洞调查](https://www.freebuf.com/articles/paper/408345.html)
 
++ [企业应急排查之主机外联，附自制排查脚本](https://www.freebuf.com/articles/web/407980.html)
+

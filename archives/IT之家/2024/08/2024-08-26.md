@@ -39,3 +39,5 @@
 
 + [2025 款比亚迪宋 L EV 首张官图公布，搭载天神之眼高阶智驾](https://m.ithome.com/html/790982.htm)
 
++ [Steam 同时在线玩家数突破 3700 万再创新高，《黑神话：悟空》排第一](https://m.ithome.com/html/791097.htm)
+

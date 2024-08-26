@@ -163,3 +163,11 @@
 
 + [《辐射》真人剧发布幕后故事短片 用18分钟的时长揭秘制作花絮](https://www.3dmgame.com/news/202408/3902673.html)
 
++ [百度已有18%搜索结果由AI生成：更加准确了！](https://www.3dmgame.com/news/202408/3902678.html)
+
++ [杰夫·吉斯利：2024年科隆游戏展开幕夜直播观看次数创新高](https://www.3dmgame.com/news/202408/3902675.html)
+
++ [《Riftcast》免费登陆PC平台 虚拟宠物育成](https://www.3dmgame.com/news/202408/3902676.html)
+
++ [《咒术回战：怀玉·玉折》篇将推出剧场版总集篇 计划2025年院线上映](https://www.3dmgame.com/news/202408/3902677.html)
+

@@ -167,3 +167,21 @@
 
 + [Figma Logo Animation](https://dribbble.com/shots/)
 
++ [Finanseed - Financial Dashboard Website](https://dribbble.com/shots/)
+
++ [Jiffy - Mobile AI Assistant App](https://dribbble.com/shots/)
+
++ [SaaS Website Design](https://dribbble.com/shots/)
+
++ [Healtrust - Healtcare Dashboard for Doctor](https://dribbble.com/shots/)
+
++ [Analitify - Social Media Analytics Dashboard](https://dribbble.com/shots/)
+
++ [AI Assistant Mobile App](https://dribbble.com/shots/)
+
++ [Lawking | Advocate Branding Logo Design | Orbix Studio](https://dribbble.com/shots/)
+
++ [BAHF | Brand identity for football brand](https://dribbble.com/shots/)
+
++ [turing: AI Health Analytics Website | Predictive Health | About](https://dribbble.com/shots/)
+
