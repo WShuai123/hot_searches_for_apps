@@ -101,3 +101,23 @@
 
 + [Jason Broyles Brand Design](https://dribbble.com/shots/)
 
++ [つづく](https://dribbble.com/shots/)
+
++ [thursday (client work)](https://dribbble.com/shots/)
+
++ [Heads#2](https://dribbble.com/shots/)
+
++ [Octopus](https://dribbble.com/shots/)
+
++ [Gig Poster - Allah Las (OG Sketch)](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [Serve It Up](https://dribbble.com/shots/)
+
++ [Lone Star Beer Merch](https://dribbble.com/shots/)
+
++ [Back to the Future](https://dribbble.com/shots/)
+
++ [Napoletane Playing Cards](https://dribbble.com/shots/)
+
