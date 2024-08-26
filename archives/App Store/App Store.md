@@ -207,3 +207,7 @@
 
 + [影视大全-就是片全](https://itunes.apple.com/cn/app/id1361963529?mt=8)
 
++ [泡泡聚看](https://itunes.apple.com/cn/app/id6547838707?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
