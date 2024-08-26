@@ -101,3 +101,7 @@
 
 + [《燕云十六声》新宣传片 夷则测试定档8月28日](https://www.3dmgame.com/news/202408/3902661.html)
 
++ [外煤谈《黑神话：悟空》成功原因：买断制、背景、好玩等](https://www.3dmgame.com/news/202408/3902708.html)
+
++ [任天堂新一期发布会明晚举行 时长约40分钟](https://www.3dmgame.com/news/202408/3902709.html)
+
