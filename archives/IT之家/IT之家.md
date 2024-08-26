@@ -43,3 +43,9 @@
 
 + [罗永浩目前已还 8.24 亿元，“真还传” 第二季还剩 5 个多亿](https://m.ithome.com/html/791135.htm)
 
++ [消息称《黑神话：悟空》Xbox 版开发基本完成，因“内存泄漏”问题被迫延期](https://m.ithome.com/html/791106.htm)
+
++ [下个月可能会停产的十款苹果产品：iPhone 15 Pro 等在列](https://m.ithome.com/html/791059.htm)
+
++ [当《昭和米国物语》项目组被传解散](https://m.ithome.com/html/791029.htm)
+

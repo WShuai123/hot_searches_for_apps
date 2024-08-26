@@ -53,3 +53,7 @@
 
 + [新型 Linux 恶意软件 “sedexp ”利用 Udev 规则隐藏信用卡盗刷器](https://www.freebuf.com/news/409427.html)
 
++ [审计发现 FBI 的数据存储管理存在重大漏洞](https://www.freebuf.com/articles/409453.html)
+
++ [网络身份证是强制，会影响正常上网？公安部详细回应](https://www.freebuf.com/news/409447.html)
+

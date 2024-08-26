@@ -175,3 +175,5 @@
 
 + [《迷因朋友》登陆Steam 快节奏猫咪在线对战](https://www.3dmgame.com/news/202408/3902679.html)
 
++ [2024年电竞世界杯闭幕 沙特战队Team Falcons获得总冠军](https://www.3dmgame.com/news/202408/3902681.html)
+
