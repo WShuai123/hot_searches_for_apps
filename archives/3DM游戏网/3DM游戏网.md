@@ -107,3 +107,17 @@
 
 + [游戏版《魔女宅急便》《米卡与魔女之山》正式发售](https://www.3dmgame.com/news/202408/3902645.html)
 
++ [《DOTA2》裂变宇宙S3 Falcons 3:0雪碧夺冠](https://www.3dmgame.com/news/202408/3902651.html)
+
++ [BioWare花20万小时在PC上测试《龙腾世纪：影障守护者》](https://www.3dmgame.com/news/202408/3902652.html)
+
++ [科隆2024获奖游戏出炉 《怪物猎人：荒野》成最大赢家](https://www.3dmgame.com/news/202408/3902653.html)
+
++ [传《半条命3》有智能NPC和昼夜循环 还有天气系统](https://www.3dmgame.com/news/202408/3902650.html)
+
++ [年内登陆发售《觉醒异刃》科隆展公开最新预告](https://www.3dmgame.com/news/202408/3902647.html)
+
++ [亚马逊宣布为任天堂Switch 2开发游戏 愿意多等1年](https://www.3dmgame.com/news/202408/3902648.html)
+
++ [Switch版《绝影战士》竟比Steam版多出1.2GB](https://www.3dmgame.com/news/202408/3902649.html)
+

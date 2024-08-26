@@ -41,3 +41,7 @@
 
 + [官方强烈建议更新，关键漏洞影响GitHub Enterprise Server 所有版本](https://www.freebuf.com/news/409274.html)
 
++ [FreeBuf早报 | Telegram创始人在法国被捕；公安部详解“网络身份认证”](https://www.freebuf.com/news/409391.html)
+
++ [实践分享 | 用CWE API 减轻软件产品中的安全风险](https://www.freebuf.com/articles/system/408907.html)
+
