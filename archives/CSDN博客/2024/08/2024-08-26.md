@@ -157,3 +157,9 @@
 
 + [代理售票系统|基于SprinBoot+vue的代理售票系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/141528714)
 
++ [10、Redis高级：多级缓存、JVM进程缓存、OpenResty本地缓存、缓存同步Canal](https://blog.csdn.net/u012011912/article/details/141532403)
+
++ [低代码开发与项目管理工作流优化](https://blog.csdn.net/dsgdauigfs/article/details/141464962)
+
++ [AI编程工具合集](https://blog.csdn.net/beautifulmemory/article/details/141528801)
+
