@@ -121,3 +121,15 @@
 
 + [Napoletane Playing Cards](https://dribbble.com/shots/)
 
++ [ｋｉｔｔｙ  ｂｌａｄｅ ????](https://dribbble.com/shots/)
+
++ [Growth](https://dribbble.com/shots/)
+
++ [Rizzle UI/UX Design [Case Study]](https://dribbble.com/shots/)
+
++ [Jurassic Sneakers](https://dribbble.com/shots/)
+
++ [Elk Sketch](https://dribbble.com/shots/)
+
++ [Letterpress Sans - Hand Drawn Typeface](https://dribbble.com/shots/)
+
