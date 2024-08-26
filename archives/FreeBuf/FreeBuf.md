@@ -61,3 +61,5 @@
 
 + [如何使用Kdrill检测Windows内核中潜在的rootkit](https://www.freebuf.com/sectool/408903.html)
 
++ [专访樊正懿 | 从IT到外企DPO，历经九次跳槽，因降本增效险遭职业生涯“滑铁卢”？](https://www.freebuf.com/articles/people/409475.html)
+

@@ -193,3 +193,9 @@
 
 + [在树莓派5上使用pytroch进行模型训练—全流程笔记](https://blog.csdn.net/chrnhao/article/details/141362918)
 
++ [MySQL 配置基于GID 模式的一主两从 修改虚拟机uuid 修改MySQL uuid 主从复制的一些概念 MySQL 配置基于GID 模式的一主一从 使用NTP来进行集群时间同步本文章已上全站总榜](https://blog.csdn.net/qq_61414097/article/details/141358827)
+
++ [基于FPGA的SD卡的数据读写实现（SD NAND FLASH）](https://blog.csdn.net/m0_63168877/article/details/141561758)
+
++ [我的香橙派闹钟-v0.1 mini](https://blog.csdn.net/qq_31764341/article/details/141536385)
+

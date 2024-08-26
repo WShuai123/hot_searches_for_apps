@@ -163,3 +163,5 @@
 
 + [Lookup AI](https://www.producthunt.com/posts/lookup-ai)
 
++ [Kypso for Code Reviews](https://www.producthunt.com/posts/kypso-for-code-reviews)
+

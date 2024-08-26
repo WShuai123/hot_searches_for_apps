@@ -55,3 +55,5 @@
 
 + [全球首款香山笔记本“如意香山本”发布：2.5GHz 第二代“南湖”处理器、RX 550 独显](https://m.ithome.com/html/791063.htm)
 
++ [华为余承东：24.98 万元问界新 M7 Pro 卖一辆亏近 3 万元](https://m.ithome.com/html/791197.htm)
+

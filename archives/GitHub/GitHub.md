@@ -55,3 +55,21 @@
 
 + [coollabsio / coolify](https://github.com/coollabsio/coolify)
 
++ [chen08209 / FlClash](https://github.com/chen08209/FlClash)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [milanm / DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
++ [spotDL / spotify-downloader](https://github.com/spotDL/spotify-downloader)
+
++ [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+
++ [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
+
++ [telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop)
+
++ [bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb)
+
++ [AI4Finance-Foundation / FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+
