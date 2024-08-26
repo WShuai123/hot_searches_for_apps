@@ -157,3 +157,9 @@
 
 + [MidJourney for Web](https://www.producthunt.com/posts/midjourney-for-web)
 
++ [Rakun Ask](https://www.producthunt.com/posts/rakun-ask)
+
++ [Fluffle Job Board AI](https://www.producthunt.com/posts/fluffle-job-board-ai)
+
++ [Lookup AI](https://www.producthunt.com/posts/lookup-ai)
+

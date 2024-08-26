@@ -189,3 +189,15 @@
 
 + [SNK最新电竞赛事2024SCS 火热报名中](https://www.3dmgame.com/news/202408/3902684.html)
 
++ [一锅端！中国研发部突然彻底关闭 赔偿N+3：IBM回应了](https://www.3dmgame.com/news/202408/3902692.html)
+
++ [B站用户商业价值远超微博！日活1.02亿创造61亿营收](https://www.3dmgame.com/news/202408/3902693.html)
+
++ [中国石化每天净赚2亿元！股东分红高达近50％](https://www.3dmgame.com/news/202408/3902691.html)
+
++ [《轩辕剑叁：云和山的彼端》Switch港版宣布12月4日发售 实体纪念版内容公开](https://www.3dmgame.com/news/202408/3902688.html)
+
++ [《黑神话：悟空》蜘蛛精3D模型欣赏 美女成熟且诱人](https://www.3dmgame.com/news/202408/3902689.html)
+
++ [《末日地带2》Steam抢先体验 末世生存建造](https://www.3dmgame.com/news/202408/3902690.html)
+

@@ -177,3 +177,11 @@
 
 + [高效的时间序列可视化：减少认知负荷获得更清晰的洞察](https://blog.csdn.net/m0_46510245/article/details/141530534)
 
++ [OpenCV开发笔记（七十九）：基于Stitcher类实现全景图片拼接](https://blog.csdn.net/qq21497936/article/details/141561865)
+
++ [CentOS全面停服，国产化提速，央国企信创即时通讯/协同门户如何选型？](https://blog.csdn.net/weixin_53855915/article/details/141507848)
+
++ [【HarmonyOS NEXT星河版开发实战】页面跳转](https://blog.csdn.net/2302_80329073/article/details/141501318)
+
++ [HarmonyOS Next 车牌号输入键盘](https://blog.csdn.net/liubei199002/article/details/141471405)
+

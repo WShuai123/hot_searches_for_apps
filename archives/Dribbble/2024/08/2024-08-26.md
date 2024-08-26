@@ -217,3 +217,15 @@
 
 + [Creative Juice - Blogger Finance SaaS](https://dribbble.com/shots/)
 
++ [CareDogs - Logo Design Concept](https://dribbble.com/shots/)
+
++ [3D Animation For Default.com](https://dribbble.com/shots/)
+
++ [Chrome extension](https://dribbble.com/shots/)
+
++ [Search Music Artist](https://dribbble.com/shots/)
+
++ [Piknik - Swipe Through Restaurant Choices](https://dribbble.com/shots/)
+
++ [CoinVers. - Website design for the crypto platform](https://dribbble.com/shots/)
+
