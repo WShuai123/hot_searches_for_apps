@@ -61,3 +61,5 @@
 
 + [（更新：已恢复）上海电信“崩了”，大量用户反映宽带断网](https://m.ithome.com/html/791263.htm)
 
++ [鸿蒙智行首款轿跑 SUV 智界 R7 发布，全系标配 CDC、空气悬架](https://m.ithome.com/html/791209.htm)
+

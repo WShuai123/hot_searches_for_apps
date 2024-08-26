@@ -211,3 +211,7 @@
 
 + [【数学建模】层次分析法](https://blog.csdn.net/shaozheng0503/article/details/141529199)
 
++ [【Linux】进程概念](https://blog.csdn.net/qinjh_/article/details/138721516)
+
++ [基于FPGA的SD NAND Flash数据读写实现](https://blog.csdn.net/m0_61712829/article/details/141560526)
+
