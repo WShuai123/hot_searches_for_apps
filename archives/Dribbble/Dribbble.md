@@ -155,3 +155,13 @@
 
 + [Healthcare service - Mobile app](https://dribbble.com/shots/)
 
++ [Tepia - elements](https://dribbble.com/shots/)
+
++ [Blockchain Website Integration](https://dribbble.com/shots/)
+
++ [Zendenta - Mobile Dentist App for Dental Clinic Management](https://dribbble.com/shots/)
+
++ [Monumental Architecture](https://dribbble.com/shots/)
+
++ [Data Display Design Component](https://dribbble.com/shots/)
+

@@ -45,3 +45,5 @@
 
 + [实践分享 | 用CWE API 减轻软件产品中的安全风险](https://www.freebuf.com/articles/system/408907.html)
 
++ [开源加密库的大规模漏洞调查](https://www.freebuf.com/articles/paper/408345.html)
+

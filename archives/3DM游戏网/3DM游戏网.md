@@ -121,3 +121,19 @@
 
 + [Switch版《绝影战士》竟比Steam版多出1.2GB](https://www.3dmgame.com/news/202408/3902649.html)
 
++ [宝可梦5v5游戏《宝可梦大集结》手游11月上线](https://www.3dmgame.com/news/202408/3902658.html)
+
++ [《寿司王》Steam抢先体验 寿司麻将棋盘游戏](https://www.3dmgame.com/news/202408/3902659.html)
+
++ [叙事卡牌游戏《皇冠赌局》预告片公布 计划通过众筹在2025年正式推出](https://www.3dmgame.com/news/202408/3902660.html)
+
++ [《燕云十六声》新宣传片 夷则测试定档8月28日](https://www.3dmgame.com/news/202408/3902661.html)
+
++ [《拳皇》推出30周年纪念网站开启 纪念策划将启动](https://www.3dmgame.com/news/202408/3902654.html)
+
++ [《魔兽世界》执行制作人反思：我们应该多听取玩家的意见](https://www.3dmgame.com/news/202408/3902655.html)
+
++ [因剧情被泄露 《消逝的光芒：困兽》被迫改为独立作品](https://www.3dmgame.com/news/202408/3902656.html)
+
++ [《寂静岭2：重制版》新情报 所有敌人位置被重新设置](https://www.3dmgame.com/news/202408/3902657.html)
+

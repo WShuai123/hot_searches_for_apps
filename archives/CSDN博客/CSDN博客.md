@@ -141,3 +141,19 @@
 
 + [【OpenCV】SIFT（尺度不变特征变换）算法？](https://blog.csdn.net/gongdiwudu/article/details/141459169)
 
++ [Spring Boot 动态定时任务：实现与应用详解](https://blog.csdn.net/fudaihb/article/details/141384613)
+
++ [【大数据算法】一文掌握大数据算法之：时间亚线性算法。](https://blog.csdn.net/wuyoudeyuer/article/details/141445990)
+
++ [C++篇：C向C++迈进（上）](https://blog.csdn.net/2301_80401288/article/details/141532110)
+
++ [Kafka的Offset（偏移量）详解](https://blog.csdn.net/qq_46112274/article/details/141529015)
+
++ [【C++从小白到大牛】C++智能指针的使用、原理和分类](https://blog.csdn.net/hanwangyyds/article/details/141459229)
+
++ [搭建NFS服务器](https://blog.csdn.net/codelearning/article/details/141474275)
+
++ [基于无人机边沿相关 ------- IBUS、SBUS协议和PPM信号](https://blog.csdn.net/Dustinthewine/article/details/141476099)
+
++ [代理售票系统|基于SprinBoot+vue的代理售票系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/141528714)
+
