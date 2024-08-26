@@ -41,3 +41,5 @@
 
 + [Steam 同时在线玩家数突破 3700 万再创新高，《黑神话：悟空》排第一](https://m.ithome.com/html/791097.htm)
 
++ [罗永浩目前已还 8.24 亿元，“真还传” 第二季还剩 5 个多亿](https://m.ithome.com/html/791135.htm)
+

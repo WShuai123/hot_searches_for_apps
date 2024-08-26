@@ -49,3 +49,7 @@
 
 + [企业应急排查之主机外联，附自制排查脚本](https://www.freebuf.com/articles/web/407980.html)
 
++ [FreeBuf 全球网络安全产业投融资观察（7月）](https://www.freebuf.com/news/409436.html)
+
++ [新型 Linux 恶意软件 “sedexp ”利用 Udev 规则隐藏信用卡盗刷器](https://www.freebuf.com/news/409427.html)
+
