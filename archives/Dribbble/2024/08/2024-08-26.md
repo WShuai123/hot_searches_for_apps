@@ -235,3 +235,23 @@
 
 + [Bistrot](https://dribbble.com/shots/)
 
++ [Showreel 2024 — Breaking boundaries to create the future](https://dribbble.com/shots/)
+
++ [Finance Analytics Dashboard](https://dribbble.com/shots/)
+
++ [BordUp - HR Recruitment Dashboard](https://dribbble.com/shots/)
+
++ [Finance service - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Paenda - best crypto tapals in Telegram](https://dribbble.com/shots/)
+
++ [ETHPanda](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
++ [SZP](https://dribbble.com/shots/)
+
++ [KOSMA Business Cards](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+

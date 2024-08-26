@@ -57,3 +57,5 @@
 
 + [华为余承东：24.98 万元问界新 M7 Pro 卖一辆亏近 3 万元](https://m.ithome.com/html/791197.htm)
 
++ [高德地图 iOS 版更新 15.0.0 大版本：性能全面提升，北斗卫星无网导航、卫星求救等](https://m.ithome.com/html/791160.htm)
+
