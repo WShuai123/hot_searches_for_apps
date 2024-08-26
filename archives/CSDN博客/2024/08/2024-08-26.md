@@ -185,3 +185,11 @@
 
 + [HarmonyOS Next 车牌号输入键盘](https://blog.csdn.net/liubei199002/article/details/141471405)
 
++ [LLaMA Factory微调Llama3模型](https://blog.csdn.net/qq_64685283/article/details/141557770)
+
++ [Springboot里集成Mybatis-plus、ClickHouse](https://blog.csdn.net/s445320/article/details/141439077)
+
++ [网上商城|基于SprinBoot+vue的分布式架构网上商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/141558179)
+
++ [在树莓派5上使用pytroch进行模型训练—全流程笔记](https://blog.csdn.net/chrnhao/article/details/141362918)
+

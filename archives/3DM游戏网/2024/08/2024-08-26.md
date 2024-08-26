@@ -201,3 +201,5 @@
 
 + [《末日地带2》Steam抢先体验 末世生存建造](https://www.3dmgame.com/news/202408/3902690.html)
 
++ [华为纯血鸿蒙开启大规模测试 支持Mate 60Pura 70等](https://www.3dmgame.com/news/202408/3902694.html)
+

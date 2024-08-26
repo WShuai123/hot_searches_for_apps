@@ -51,3 +51,7 @@
 
 + [（更新：员工可获 N+3 赔偿）消息称 IBM 关闭中国研发部门波及超千人，公司回应“按需调整运营”](https://m.ithome.com/html/791127.htm)
 
++ [（更新：活动已开启）华为鸿蒙 HarmonyOS NEXT Beta 用户招募开启：适配 Mate 60、Pura 70 等机型](https://m.ithome.com/html/791206.htm)
+
++ [全球首款香山笔记本“如意香山本”发布：2.5GHz 第二代“南湖”处理器、RX 550 独显](https://m.ithome.com/html/791063.htm)
+
