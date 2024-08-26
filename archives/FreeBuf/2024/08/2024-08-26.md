@@ -57,3 +57,7 @@
 
 + [网络身份证是强制，会影响正常上网？公安部详细回应](https://www.freebuf.com/news/409447.html)
 
++ [又一全新恶意软件曝光！专门针对Windows、Linux 和 macOS 用户](https://www.freebuf.com/news/409418.html)
+
++ [如何使用Kdrill检测Windows内核中潜在的rootkit](https://www.freebuf.com/sectool/408903.html)
+

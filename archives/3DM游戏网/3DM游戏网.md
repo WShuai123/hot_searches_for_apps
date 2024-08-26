@@ -177,3 +177,15 @@
 
 + [2024年电竞世界杯闭幕 沙特战队Team Falcons获得总冠军](https://www.3dmgame.com/news/202408/3902681.html)
 
++ [《漫威争锋》开发商称尚无计划登陆Switch或移动端](https://www.3dmgame.com/news/202408/3902685.html)
+
++ [《DESCENDING》PC版免费发布 地下恐怖探索](https://www.3dmgame.com/news/202408/3902686.html)
+
++ [报道指出 顽皮狗工作室正在开发可供人工智能使用的系统](https://www.3dmgame.com/news/202408/3902687.html)
+
++ [米老鼠风格FPS游戏正式定名《MOUSE: P.I. For Hire》 已上架Steam平台](https://www.3dmgame.com/news/202408/3902682.html)
+
++ [《黑神话：悟空》火出圈，揭秘游戏制作幕后前沿技术](https://www.3dmgame.com/news/202408/3902683.html)
+
++ [SNK最新电竞赛事2024SCS 火热报名中](https://www.3dmgame.com/news/202408/3902684.html)
+

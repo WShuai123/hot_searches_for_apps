@@ -171,3 +171,9 @@
 
 + [前端如何在30秒内实现吸管拾色器？](https://blog.csdn.net/qq_38870145/article/details/141536599)
 
++ [前后端开发学习路线 囊括Dubbo、Elasticsearch等](https://blog.csdn.net/qq_61654952/article/details/141544404)
+
++ [MySQL 配置基于GID 模式的一主两从 修改虚拟机uuid 修改MySQL uuid 主从复制的一些概念 MySQL 配置基于GID 模式的一主一从 使用NTP 来进行 集群时间同步](https://blog.csdn.net/qq_61414097/article/details/141358827)
+
++ [高效的时间序列可视化：减少认知负荷获得更清晰的洞察](https://blog.csdn.net/m0_46510245/article/details/141530534)
+
