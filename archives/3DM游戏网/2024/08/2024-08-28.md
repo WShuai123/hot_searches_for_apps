@@ -103,3 +103,21 @@
 
 + [任天堂发布会全程 《空之轨迹：重制版》公开](https://www.3dmgame.com/news/202408/3902789.html)
 
++ [《符文工厂：龙之国》2025年春季登陆Switch和PC](https://www.3dmgame.com/news/202408/3902797.html)
+
++ [《无主之地》电影即将上线流媒体 全球票房仅2400万美元](https://www.3dmgame.com/news/202408/3902798.html)
+
++ [《如龙：极》10月25日登陆Switch 真人剧同时播出](https://www.3dmgame.com/news/202408/3902795.html)
+
++ [原NS游戏《勇者斗恶龙：怪物仙境3》PC版9/11推出](https://www.3dmgame.com/news/202408/3902796.html)
+
++ [经典恋爱模拟游戏复活 《心跳回忆》复刻版公布](https://www.3dmgame.com/news/202408/3902794.html)
+
++ [NDS恶魔城合集《恶魔城：统治者合集》正式发布](https://www.3dmgame.com/news/202408/3902793.html)
+
++ [《黑神话：悟空》1.0.8.14860更新已在Epic平台上线](https://www.3dmgame.com/news/202408/3902792.html)
+
++ [《勇者斗恶龙3HD》新增职业魔物使可用怪物技能](https://www.3dmgame.com/news/202408/3902791.html)
+
++ [《天国：拯救2》PC版39分钟上手视频](https://www.3dmgame.com/news/202408/3902790.html)
+

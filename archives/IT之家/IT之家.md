@@ -27,3 +27,5 @@
 
 + [高德地图 15.0 版本发布：北斗卫星无网导航、卫星求救，性能全面提升](https://m.ithome.com/html/791552.htm)
 
++ [Steam 新一周游戏销量榜：《黑神话：悟空》四连冠，《GTA5》再上榜](https://m.ithome.com/html/791537.htm)
+
