@@ -37,3 +37,5 @@
 
 + [代号“朱雀”，小米“无按键”旗舰手机被曝 2025 年亮相](https://m.ithome.com/html/791348.htm)
 
++ [鸿蒙智行问界新 M7 Pro 发布：搭载华为 ADS 智驾基础版，24.98 万元起](https://m.ithome.com/html/791204.htm)
+

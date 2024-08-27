@@ -147,3 +147,11 @@
 
 + [软件开发中的密码学应用](https://blog.csdn.net/a13407142317/article/details/141526791)
 
++ [【机器学习】探秘图像处理与分类：运用C++结合OpenCV实现智能视觉识别技术](https://blog.csdn.net/qq_57761637/article/details/141531732)
+
++ [sql高并发如何解决](https://blog.csdn.net/m0_47999208/article/details/141576287)
+
++ [FPGA上板项目（四）——FIFO测试](https://blog.csdn.net/weixin_45926435/article/details/141183572)
+
++ [JavaScript 模块化开发：ES6 模块与 CommonJS 的对比与应用](https://blog.csdn.net/m0_63815035/article/details/141575541)
+

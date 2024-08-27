@@ -49,3 +49,5 @@
 
 + [Sliver源码分析 | 初始化以及脚手架](https://www.freebuf.com/sectool/408443.html)
 
++ [记一次对某佛教系统的漏洞挖掘](https://www.freebuf.com/vuls/408474.html)
+

@@ -23,3 +23,5 @@
 
 + [原神](https://www.taptap.cn/app/168332)
 
++ [关于我转生变成史莱姆这档事：新世界](https://www.taptap.cn/app/468570)
+

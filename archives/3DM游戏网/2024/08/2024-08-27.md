@@ -217,3 +217,17 @@
 
 + [微软突然改口 39年经典控制面板将被保留](https://www.3dmgame.com/news/202408/3902746.html)
 
++ [去掉物理按键！小米真全面屏旗舰曝光：重现MIX荣光](https://www.3dmgame.com/news/202408/3902753.html)
+
++ [肉鸽类卡牌构筑游戏《对弈五千年》Steam页面上线 年内发售](https://www.3dmgame.com/news/202408/3902752.html)
+
++ [《星球大战：亡命之徒》战役时长和主线任务列表公开](https://www.3dmgame.com/news/202408/3902751.html)
+
++ [V社新作《Deadlock》被斥违反规则 Steam页面没上截图](https://www.3dmgame.com/news/202408/3902750.html)
+
++ [周星驰出品 微短剧《大话大话西游》宣布今年年底上线](https://www.3dmgame.com/news/202408/3902749.html)
+
++ [传闻：育碧《极限国度》9月11日登陆XGP](https://www.3dmgame.com/news/202408/3902748.html)
+
++ [《怪物猎人：荒野》没有水下战斗：开发难度实在太大](https://www.3dmgame.com/news/202408/3902747.html)
+
