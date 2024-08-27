@@ -147,3 +147,11 @@
 
 + [Pointed Pony](https://dribbble.com/shots/)
 
++ [S cube logo](https://dribbble.com/shots/)
+
++ [Alien 1979 poster](https://dribbble.com/shots/)
+
++ [Moover Logistics Branding](https://dribbble.com/shots/)
+
++ [Black King Games Logo Design](https://dribbble.com/shots/)
+
