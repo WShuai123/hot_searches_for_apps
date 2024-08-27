@@ -67,3 +67,5 @@
 
 + [萌次元退站，大家还有姥爷](http://www.acfun.cn/v/ac46171536)
 
++ [《ハレ晴レユカイ》](http://www.acfun.cn/v/ac46171837)
+
