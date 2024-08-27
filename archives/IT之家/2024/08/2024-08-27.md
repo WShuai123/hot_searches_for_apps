@@ -31,3 +31,5 @@
 
 + [拼多多美股股价大跌超 29%](https://m.ithome.com/html/791311.htm)
 
++ [加拿大将对从中国进口的电动汽车征收 100% 关税](https://m.ithome.com/html/791319.htm)
+

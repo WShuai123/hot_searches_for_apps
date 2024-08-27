@@ -181,3 +181,15 @@
 
 + [《合金装备3：重制版》制作人谈伤势将影响主角性能](https://www.3dmgame.com/news/202408/3902718.html)
 
++ [日恐新游《暗夜-S邸-》开启众筹 2025年夏季发售](https://www.3dmgame.com/news/202408/3902729.html)
+
++ [《泰坦之旅2》30分钟实机上手视频 虚幻5引擎、2024年冬季抢先体验](https://www.3dmgame.com/news/202408/3902730.html)
+
++ [PS官网显示《乐高地平线大冒险》将于11月14日发售](https://www.3dmgame.com/news/202408/3902731.html)
+
++ [《明末：渊虚之羽》保证在2025年发售 玩家期待！](https://www.3dmgame.com/news/202408/3902732.html)
+
++ [Roguelite动作冒险游戏《铁锤守卫英雄传2》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3902733.html)
+
++ [《分裂之门2》开发者确认：如果玩家想要会增加更多阵营](https://www.3dmgame.com/news/202408/3902734.html)
+
