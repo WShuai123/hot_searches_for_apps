@@ -317,3 +317,7 @@
 
 + [《Deadlock》早期视频：原本可能设定在《半条命》宇宙](https://www.3dmgame.com/news/202408/3902769.html)
 
++ [周大福回应2米金箍棒售价180万：不是蹭《黑神话》热度](https://www.3dmgame.com/news/202408/3902778.html)
+
++ [第一人称恐怖冒险游戏《The Cesspit》Steam页面上线 支持简中](https://www.3dmgame.com/news/202408/3902777.html)
+

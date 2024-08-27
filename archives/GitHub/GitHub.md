@@ -25,3 +25,29 @@
 
 + [AI4Finance-Foundation / FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 
++ [Permify / permify](https://github.com/Permify/permify)
+
++ [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
+
++ [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
++ [khcrysalis / Feather](https://github.com/khcrysalis/Feather)
+
++ [DrKLO / Telegram](https://github.com/DrKLO/Telegram)
+
++ [PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [umami-software / umami](https://github.com/umami-software/umami)
+
++ [Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+
++ [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [huggingface / lerobot](https://github.com/huggingface/lerobot)
+

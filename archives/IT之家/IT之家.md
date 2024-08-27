@@ -53,3 +53,5 @@
 
 + [比亚迪方程豹与华为乾崑智驾官宣合作：“豹 8 ”大型 SUV 首发，搭载 ADS 3.0](https://m.ithome.com/html/791397.htm)
 
++ [小米造芯新曝料：台积电 N4P 工艺、骁龙 8 Gen 1 级别性能、紫光 5G 基带，2025 年上半年登场](https://m.ithome.com/html/791483.htm)
+
