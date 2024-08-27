@@ -163,3 +163,11 @@
 
 + [Unwrapped: beta](https://www.producthunt.com/posts/unwrapped-beta)
 
++ [Magic8ball](https://www.producthunt.com/posts/magic8ball)
+
++ [Retcon](https://www.producthunt.com/posts/retcon)
+
++ [Kanban Tasks](https://www.producthunt.com/posts/kanban-tasks)
+
++ [LaunchFast](https://www.producthunt.com/posts/launchfast-4)
+

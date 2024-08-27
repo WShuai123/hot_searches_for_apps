@@ -245,3 +245,59 @@
 
 + [索尼宣布日版PS5及周边外设即将涨价 9月2日起实施](https://www.3dmgame.com/news/202408/3902760.html)
 
++ [快来《战盟桌面精灵》邂逅你的个性化桌面助手！](https://www.3dmgame.com/news/202407/3899803.html)
+
++ [《绝地潜兵2》8月更新后联机被踢仍能获得团队全部资源](https://www.3dmgame.com/news/202407/3900243.html)
+
++ [《原神》预告5.0版本前瞻特别节目 8月16日播出](https://www.3dmgame.com/news/202407/3900244.html)
+
++ [《进击的巨人VR》抢先体验 今冬发布正式版更新](https://www.3dmgame.com/news/202407/3900245.html)
+
++ [中国市场很重要 游戏商务公司Xsolla在北京开设办事处](https://www.3dmgame.com/news/202407/3900247.html)
+
++ [《Lycoris Recoil 莉可丽丝》两周年活动推出NFT产品 原创短片计划公布](https://www.3dmgame.com/news/202407/3900246.html)
+
++ [马斯克确认：特斯拉自动驾驶出租车今年全球可用](https://www.3dmgame.com/news/202407/3900249.html)
+
++ [漫威影业总裁凯文·费奇透露 偶尔会考虑与DC的跨界合作](https://www.3dmgame.com/news/202407/3900248.html)
+
++ [研究发现Steam市场存在可疑行为：可能真的是洗钱！](https://www.3dmgame.com/news/202407/3900251.html)
+
++ [动作RPG《夜街酷斗》Steam全球测试8月9日开启 支持中文](https://www.3dmgame.com/news/202407/3900250.html)
+
++ [《Slot Waste》Steam页面上线  奇葩异形制造模拟](https://www.3dmgame.com/news/202407/3900252.html)
+
++ [马斯克预计特斯拉FSD年底前在华获批！余承东不怕：华为智驾体验略优](https://www.3dmgame.com/news/202407/3900253.html)
+
++ [《如龙》夏日主题贺图 男女角色穿泳装奔向大海](https://www.3dmgame.com/news/202407/3900254.html)
+
++ [模拟经营游戏《夜总会模拟器》Steam页面上线 支持中文](https://www.3dmgame.com/news/202407/3900255.html)
+
++ [三星Galaxy智能戒指国行版2999开售 手势操控手机](https://www.3dmgame.com/news/202407/3900256.html)
+
++ [完美世界两位CEO均离职 电竞业务总裁顾黎明接任](https://www.3dmgame.com/news/202407/3900257.html)
+
++ [科技界顶流网红！雷军抖音粉丝数暴涨至2693万 超过董宇辉](https://www.3dmgame.com/news/202407/3900258.html)
+
++ [《黑神话》官方询问老外玩家：除了悟空 你还知道哪些人](https://www.3dmgame.com/news/202407/3900259.html)
+
++ [【KK×虎牙】澄海主播邀请赛圆满落幕！高玩云集，巅峰会战！](https://www.3dmgame.com/news/202407/3900260.html)
+
++ [保时捷CEO：接受中国销量下降 不会加入价格战](https://www.3dmgame.com/news/202407/3900261.html)
+
++ [《酒馆好时光》Steam抢先体验 中世纪酒馆经营](https://www.3dmgame.com/news/202408/3902766.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》三连冠](https://www.3dmgame.com/news/202408/3902767.html)
+
++ [《黑神话：悟空》狐狸精3D模型欣赏 可爱又性感](https://www.3dmgame.com/news/202408/3902768.html)
+
++ [《绝区零》代理人战斗情报：简](https://www.3dmgame.com/news/202408/3902765.html)
+
++ [心理恐怖游戏《缄默祸运》新预告 宣布9月27日登陆Steam](https://www.3dmgame.com/news/202408/3902764.html)
+
++ [迪士尼位置游戏《Disney STEP》招募B测 2025年春免费发布](https://www.3dmgame.com/news/202408/3902761.html)
+
++ [消息称字节成立大模型研究院 “氪金”招揽AI人才](https://www.3dmgame.com/news/202408/3902762.html)
+
++ [B社制作人：《辐射》IP未来50年都会继续保持影响力](https://www.3dmgame.com/news/202408/3902763.html)
+
