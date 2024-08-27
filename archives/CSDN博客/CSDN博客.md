@@ -191,3 +191,9 @@
 
 + [FPGA速度优化](https://blog.csdn.net/Qqyangleiyu/article/details/141165324)
 
++ [智能新时代：探索【人工智能】、【机器学习】与【深度学习】的前沿技术与应用](https://blog.csdn.net/2303_77720864/article/details/141589608)
+
++ [MySQL集群技术详解](https://blog.csdn.net/D2961953033/article/details/141567968)
+
++ [第六届机器人与智能制造技术国际会议 (ISRIMT 2024)](https://blog.csdn.net/2302_79376097/article/details/141530330)
+

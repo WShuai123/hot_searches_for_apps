@@ -321,3 +321,7 @@
 
 + [第一人称恐怖冒险游戏《The Cesspit》Steam页面上线 支持简中](https://www.3dmgame.com/news/202408/3902777.html)
 
++ [《地铁：逃离》Steam 2折促销 当前仅售29元](https://www.3dmgame.com/news/202408/3902780.html)
+
++ [家长愿意买单！2024上半年中国学习平板销量上涨23%](https://www.3dmgame.com/news/202408/3902779.html)
+
