@@ -101,3 +101,21 @@
 
 + [CSS 预处理器](https://blog.csdn.net/weixin_64912130/article/details/141568888)
 
++ [C++第四十一弹---C++11新特性深度解析：让你的代码更现代、更高效(上)](https://blog.csdn.net/2201_75584283/article/details/141105179)
+
++ [【C++从小白到大牛】C++智能指针的使用、原理和分类](https://blog.csdn.net/hanwangyyds/article/details/141459229)
+
++ [80、k8s概念及组件介绍](https://blog.csdn.net/m0_74149099/article/details/141565485)
+
++ [滴滴出行：分布式数据库的架构演进之路｜OceanBase案例](https://blog.csdn.net/OceanBaseGFBK/article/details/141426384)
+
++ [Python爬虫案例三：获取天天基金网的数据并使用pandas保存成excel数据](https://blog.csdn.net/m0_74614835/article/details/141558705)
+
++ [8.26-docker创建容器+打包镜像+docker文件的学习](https://blog.csdn.net/qq_70752758/article/details/141572029)
+
++ [对于Jacobian矩阵的理解GVINS](https://blog.csdn.net/2201_76063234/article/details/141564256)
+
++ [前端：Vue3学习](https://blog.csdn.net/qq_45404396/article/details/141531780)
+
++ [在Windows上用Visual Studio编译Tesseract](https://blog.csdn.net/happydeer/article/details/141561569)
+
