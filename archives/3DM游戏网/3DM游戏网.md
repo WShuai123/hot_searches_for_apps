@@ -239,3 +239,9 @@
 
 + [《Rum & Gun》登陆Steam 海盗船长ARPG](https://www.3dmgame.com/news/202408/3902754.html)
 
++ [极限竞速系列全新内容震撼亮相2024德国科隆展！](https://www.3dmgame.com/news/202408/3902758.html)
+
++ [每周特惠限时来袭，《底特律：变人》四折优惠！](https://www.3dmgame.com/news/202408/3902759.html)
+
++ [索尼宣布日版PS5及周边外设即将涨价 9月2日起实施](https://www.3dmgame.com/news/202408/3902760.html)
+

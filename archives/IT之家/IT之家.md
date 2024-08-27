@@ -41,3 +41,13 @@
 
 + [华为阿维塔合资后，姚安娜担任阿维塔全球智驾体验官](https://m.ithome.com/html/791367.htm)
 
++ [苹果 2024 秋季发布会官宣北京时间 9 月 10 日举行，iPhone 16 即将登场](https://m.ithome.com/html/791320.htm)
+
++ [三星 Galaxy S25 Ultra 手机渲染图再曝光，博主调侃“魅魅你大胆地往前走”](https://m.ithome.com/html/791398.htm)
+
++ [古尔曼：苹果 iPad mini 6 库存告急，iPad mini 7 可能即将推出](https://m.ithome.com/html/791323.htm)
+
++ [消息称华为 9 月新品包括路由 BE 7 Pro、Sound Joy 2 音箱、nova 13 系列手机](https://m.ithome.com/html/791318.htm)
+
++ [消息称苹果 iPhone 16 Pro / Max 机型均采用四重反射棱镜长焦镜头](https://m.ithome.com/html/791326.htm)
+

@@ -159,3 +159,7 @@
 
 + [Swatle](https://www.producthunt.com/posts/swatle)
 
++ [ADA HR Assistant](https://www.producthunt.com/posts/ada-hr-assistant)
+
++ [Unwrapped: beta](https://www.producthunt.com/posts/unwrapped-beta)
+
