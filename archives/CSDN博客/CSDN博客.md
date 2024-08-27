@@ -197,3 +197,7 @@
 
 + [第六届机器人与智能制造技术国际会议 (ISRIMT 2024)](https://blog.csdn.net/2302_79376097/article/details/141530330)
 
++ [【一起学Rust | 框架篇 | Tauri2.0框架】rust和前端的相互调用（前端调用rust）](https://blog.csdn.net/weixin_47754149/article/details/141594549)
+
++ [Linux权限管理](https://blog.csdn.net/2301_80122797/article/details/141600355)
+
