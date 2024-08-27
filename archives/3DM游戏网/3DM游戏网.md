@@ -119,3 +119,65 @@
 
 + [《合金装备3：重制版》新情报： 画面操作全升级](https://www.3dmgame.com/news/202408/3902710.html)
 
++ [《太鼓达人：咚咚雷音祭》登陆主机和PC 11月7日发售](https://www.3dmgame.com/news/202408/3902728.html)
+
++ [《塞琳的难熬之夜》正式版发售 帮美女逃出生天](https://www.3dmgame.com/news/202408/3902722.html)
+
++ [奇幻经营模拟游戏《酒馆带老板》11月6日发售 支持中文](https://www.3dmgame.com/news/202408/3902726.html)
+
++ [《冰汽时代2》新预告短片暗示游戏首发或包含Mod支持](https://www.3dmgame.com/news/202408/3902727.html)
+
++ [《星球大战：亡命之徒》AI系统被批太蠢 敌人就像瞎子](https://www.3dmgame.com/news/202408/3902725.html)
+
++ [《回收中心模拟器》序章免费发布 学习垃圾回收生意](https://www.3dmgame.com/news/202408/3902724.html)
+
++ [网传PS5 Pro仍将于2024年推出 售价可能是600美元](https://www.3dmgame.com/news/202408/3902723.html)
+
++ [传索尼正开发一个未知《血源》游戏](https://www.3dmgame.com/news/202408/3902721.html)
+
++ [《Apex英雄》“暗影社会”活动预告 新通用传家宝上线](https://www.3dmgame.com/news/202403/3891116.html)
+
++ [动作冒险RPG游戏《炼金术师》已在Steam抢先体验推出](https://www.3dmgame.com/news/202403/3891130.html)
+
++ [《绝地潜兵2》又现BUG：使用电弧武器游戏会崩溃](https://www.3dmgame.com/news/202403/3891127.html)
+
++ [《猴侠》全新预告片公布 印度版“疾速追杀”！](https://www.3dmgame.com/news/202403/3891124.html)
+
++ [《DOTA2》7.35d推出 新版本“倾天之战”4月中旬上线](https://www.3dmgame.com/news/202403/3891123.html)
+
++ [《漫威1943：九头蛇崛起》中黑豹的身份及扮演者揭秘](https://www.3dmgame.com/news/202403/3891121.html)
+
++ [海外知名游戏媒体被高层要求少发ZZZQ 主编愤然离职](https://www.3dmgame.com/news/202403/3891119.html)
+
++ [《Blue Prince》发布预告 暂不支持中文](https://www.3dmgame.com/news/202403/3891120.html)
+
++ [国产游戏《重装前哨》公布新预告 标准版首发88元](https://www.3dmgame.com/news/202403/3891111.html)
+
++ [《星空》开发内幕：主线最终任务在最后时刻才做完](https://www.3dmgame.com/news/202403/3891118.html)
+
++ [冒险游戏《印蒂卡》发售日预告 5月8日上线](https://www.3dmgame.com/news/202403/3891113.html)
+
++ [克系城市建造游戏《克苏鲁信徒》公布 2024年发售](https://www.3dmgame.com/news/202403/3891122.html)
+
++ [入侵《Apex 英雄》北美决赛预选战的黑客解释动机：只是闹着玩](https://www.3dmgame.com/news/202403/3891112.html)
+
++ [《流放之路2》收费模式与前作相同 不会学《暗黑4》](https://www.3dmgame.com/news/202403/3891125.html)
+
++ [《阴间大法师2》首发前导预告 9月6日北美上映](https://www.3dmgame.com/news/202403/3891114.html)
+
++ [叙事游戏《哈罗德·哈利巴》发售日预告 4月16日发售](https://www.3dmgame.com/news/202403/3891126.html)
+
++ [美国二月销量榜：收入上涨2% 《绝地潜兵2》登顶](https://www.3dmgame.com/news/202403/3891115.html)
+
++ [《龙之信条2》现已推出 Steam“多半差评”](https://www.3dmgame.com/news/202403/3891128.html)
+
++ [心理恐怖游戏《Still Wakes the Deep》发行日公布 6月18日推出](https://www.3dmgame.com/news/202403/3891117.html)
+
++ [《火影忍者：终极风暴羁绊》角色DLC“大筒木一式”公布 3月28日上线](https://www.3dmgame.com/news/202403/3891129.html)
+
++ [载具战斗游戏《Fatal Run 2089》公布 虚幻5引擎](https://www.3dmgame.com/news/202408/3902720.html)
+
++ [《星球大战：亡命之徒》全球媒体评分出炉 MC均分77分](https://www.3dmgame.com/news/202408/3902719.html)
+
++ [《合金装备3：重制版》制作人谈伤势将影响主角性能](https://www.3dmgame.com/news/202408/3902718.html)
+

@@ -129,3 +129,7 @@
 
 + [IP代理池学习记录](https://blog.csdn.net/qq_62714412/article/details/141507897)
 
++ [网络安全-安全渗透简介和安全渗透环境准备](https://blog.csdn.net/weixin_57370131/article/details/141572714)
+
++ [浏览器发送HTTP请求的过程](https://blog.csdn.net/m0_68744965/article/details/141430691)
+
