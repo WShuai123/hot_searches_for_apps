@@ -207,3 +207,7 @@
 
 + [秋招TCP篇（较全的TCP网络知识，通俗理解底层逻辑）](https://blog.csdn.net/weixin_62513677/article/details/141570446)
 
++ [c++,python实现网络爬虫](https://blog.csdn.net/2301_79636742/article/details/141534336)
+
++ [Python爬虫案例三：获取天天基金网的数据并使用pandas保存成excel数据](https://blog.csdn.net/m0_74614835/article/details/141558705)
+

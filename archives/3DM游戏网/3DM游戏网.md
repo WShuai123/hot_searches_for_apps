@@ -329,3 +329,7 @@
 
 + [虚幻5版老滚5？黑曜石《宣誓》1小时实机试玩](https://www.3dmgame.com/news/202408/3902781.html)
 
++ [《星球大战：亡命之徒》4K分辨率显存占用超20GB](https://www.3dmgame.com/news/202408/3902784.html)
+
++ [《刺猬索尼克3》首支预告 基努·里维斯为暗影配音](https://www.3dmgame.com/news/202408/3902783.html)
+
