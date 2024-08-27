@@ -301,3 +301,19 @@
 
 + [B社制作人：《辐射》IP未来50年都会继续保持影响力](https://www.3dmgame.com/news/202408/3902763.html)
 
++ [《一伊那尓栖的冒险》9月登陆Steam 虚拟偶像射击](https://www.3dmgame.com/news/202408/3902775.html)
+
++ [PS5手柄PC应用程序发布 可更新固件和自定义按键配置](https://www.3dmgame.com/news/202408/3902776.html)
+
++ [联想Legion Go全新官方配件 底座和手柄合并器等](https://www.3dmgame.com/news/202408/3902774.html)
+
++ [《黑神话：悟空》大获成功 国外LGBT群体感到很沮丧](https://www.3dmgame.com/news/202408/3902772.html)
+
++ [中国研发部突然关闭！IBM裁员内幕：逼中国员工去印度 否则离职](https://www.3dmgame.com/news/202408/3902773.html)
+
++ [传亚马逊要求员工对谷歌微软等恶评 主打真实商战](https://www.3dmgame.com/news/202408/3902771.html)
+
++ [《AirBoost:天空机士》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3902770.html)
+
++ [《Deadlock》早期视频：原本可能设定在《半条命》宇宙](https://www.3dmgame.com/news/202408/3902769.html)
+

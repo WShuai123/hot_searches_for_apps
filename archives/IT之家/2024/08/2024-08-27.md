@@ -51,3 +51,5 @@
 
 + [消息称苹果 iPhone 16 Pro / Max 机型均采用四重反射棱镜长焦镜头](https://m.ithome.com/html/791326.htm)
 
++ [比亚迪方程豹与华为乾崑智驾官宣合作：“豹 8 ”大型 SUV 首发，搭载 ADS 3.0](https://m.ithome.com/html/791397.htm)
+

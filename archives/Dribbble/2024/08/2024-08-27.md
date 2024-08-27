@@ -193,3 +193,33 @@
 
 + [We ride at dawn](https://dribbble.com/shots/)
 
++ [Kia Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [Diet Mobile App](https://dribbble.com/shots/)
+
++ [99finder — Logo and Branding](https://dribbble.com/shots/)
+
++ [WILD.CODES animations](https://dribbble.com/shots/)
+
++ [Illustration For Ordergrid.com](https://dribbble.com/shots/)
+
++ [Running Character Logo](https://dribbble.com/shots/)
+
++ [Watchgin Watcher - Craft Gin](https://dribbble.com/shots/)
+
++ [Essential Interface 3D Icon Animation](https://dribbble.com/shots/)
+
++ [SSENSE - Ecommerce Website](https://dribbble.com/shots/)
+
++ [Tab thumbnail](https://dribbble.com/shots/)
+
++ [#1 Windergy / Concepts](https://dribbble.com/shots/)
+
++ [Panther Logo](https://dribbble.com/shots/)
+
++ [Landing Page Design for a Pharmacology and Medical Provider](https://dribbble.com/shots/)
+
++ [Crypto Landing Page](https://dribbble.com/shots/)
+
++ [Fox mark](https://dribbble.com/shots/)
+
