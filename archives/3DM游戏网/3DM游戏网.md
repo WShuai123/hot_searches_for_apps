@@ -193,3 +193,21 @@
 
 + [《分裂之门2》开发者确认：如果玩家想要会增加更多阵营](https://www.3dmgame.com/news/202408/3902734.html)
 
++ [《FAIRY TAIL 闯迷宫》登陆Steam 真岛浩参与制作](https://www.3dmgame.com/news/202408/3902743.html)
+
++ [《百战天虫：末日浩劫 周年纪念版》通过评级 登陆多平台](https://www.3dmgame.com/news/202408/3902741.html)
+
++ [拉瑞安开发者：《GTA 6》后所有大型游戏或集体涨价](https://www.3dmgame.com/news/202408/3902742.html)
+
++ [《文明6》通关率不足一半让官方失望 《文明7》将改进](https://www.3dmgame.com/news/202408/3902740.html)
+
++ [Bloober解释为何选择《寂静岭2》而不是一代来重制](https://www.3dmgame.com/news/202408/3902736.html)
+
++ [生化危机之父三上真司：暂时不想再做生存恐怖游戏了](https://www.3dmgame.com/news/202408/3902739.html)
+
++ [V社新作《Deadlock》测试表现不错：玩家峰值近9万人](https://www.3dmgame.com/news/202408/3902738.html)
+
++ [《False Mall》登陆Steam 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3902737.html)
+
++ [iPhone 16系列官宣9月10日发布 首款AI iPhone将登场](https://www.3dmgame.com/news/202408/3902735.html)
+
