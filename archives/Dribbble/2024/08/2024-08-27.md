@@ -169,3 +169,25 @@
 
 + [Secret Project 001 pt 2](https://dribbble.com/shots/)
 
++ [Prime - Payment Website](https://dribbble.com/shots/)
+
++ [Syncra - AI Artificial Intelligence Voice Command Mobile App](https://dribbble.com/shots/)
+
++ [InvestIQ: Saas Website Software Payroll Finance Landing Page ????](https://dribbble.com/shots/)
+
++ [Rizzle Icons Branding Visual Identity](https://dribbble.com/shots/)
+
++ [Emura Studio - Brand Guidelines](https://dribbble.com/shots/)
+
++ [Nawasena - Learning System Website](https://dribbble.com/shots/)
+
++ [Zendenta - Detailed Patient Billing in SaaS Dental Clinics](https://dribbble.com/shots/)
+
++ [Video Tool AI SaaS Website](https://dribbble.com/shots/)
+
++ [Smart Home Mobile App](https://dribbble.com/shots/)
+
++ [Strong Tower Wealth - Color Palette](https://dribbble.com/shots/)
+
++ [Site usage dashboard — Untitled UI](https://dribbble.com/shots/)
+

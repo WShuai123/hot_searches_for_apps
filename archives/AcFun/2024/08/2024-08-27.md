@@ -87,3 +87,11 @@
 
 + [《红豆》翻唱|“有时候 有时候 我会相信一切有尽头”【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac46165660)
 
++ [【黑神话悟空】谁教给你这么打小黄龙的？](http://www.acfun.cn/v/ac46165988)
+
++ [【柯基】《戒网》｜《黑神话：悟空》游戏插曲](http://www.acfun.cn/v/ac46167948)
+
++ [幻宠师 03 幻宠师](http://www.acfun.cn/v/ac46163755)
+
++ [【东方/爵士】RERICOTTA 专辑赏析【Surreacheese】](http://www.acfun.cn/v/ac46160235)
+

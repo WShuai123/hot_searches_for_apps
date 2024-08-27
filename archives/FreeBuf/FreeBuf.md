@@ -51,3 +51,11 @@
 
 + [记一次对某佛教系统的漏洞挖掘](https://www.freebuf.com/vuls/408474.html)
 
++ [Mirai 僵尸网络发现新漏洞，能同时被攻守双方利用](https://www.freebuf.com/news/409539.html)
+
++ [Uber 因违反GDPR 规定被荷兰监管机构罚款 23.18 亿元](https://www.freebuf.com/news/409535.html)
+
++ [Java代码审计实战篇：超详细分享文件上传](https://www.freebuf.com/vuls/407781.html)
+
++ [存在严重供应链安全风险，MLOps平台曝20多个漏洞](https://www.freebuf.com/news/409541.html)
+

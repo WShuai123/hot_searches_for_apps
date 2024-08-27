@@ -155,3 +155,9 @@
 
 + [JavaScript 模块化开发：ES6 模块与 CommonJS 的对比与应用](https://blog.csdn.net/m0_63815035/article/details/141575541)
 
++ [MySQL 基于GID 的一主两从| 修改虚拟机uuid |修改MySQLuuid| 主从复制的一些概念| MySQL 配置GID 模式的一主一从 |使用NTP来进行集群时间同步|本文章已上全站总榜|](https://blog.csdn.net/qq_61414097/article/details/141358827)
+
++ [深入探索【Hadoop】生态系统：Hive、Pig、HBase及更多关键组件（下）](https://blog.csdn.net/weixin_53269650/article/details/141561403)
+
++ [【红队技巧】.Net免杀 绕过主流杀软](https://blog.csdn.net/qq_54704239/article/details/141567326)
+
