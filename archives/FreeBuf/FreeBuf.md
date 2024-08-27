@@ -59,3 +59,7 @@
 
 + [存在严重供应链安全风险，MLOps平台曝20多个漏洞](https://www.freebuf.com/news/409541.html)
 
++ [identYwaf：一款基于盲推理识别技术的WAF检测工具](https://www.freebuf.com/sectool/409007.html)
+
++ [2024年网安最高处罚记录诞生，Uber因违反GDPR被罚23亿](https://www.freebuf.com/news/409535.html)
+

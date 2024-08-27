@@ -39,3 +39,5 @@
 
 + [鸿蒙智行问界新 M7 Pro 发布：搭载华为 ADS 智驾基础版，24.98 万元起](https://m.ithome.com/html/791204.htm)
 
++ [华为阿维塔合资后，姚安娜担任阿维塔全球智驾体验官](https://m.ithome.com/html/791367.htm)
+

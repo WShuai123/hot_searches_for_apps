@@ -231,3 +231,11 @@
 
 + [《怪物猎人：荒野》没有水下战斗：开发难度实在太大](https://www.3dmgame.com/news/202408/3902747.html)
 
++ [山冈晃为《寂静岭2：重制版》重新录制新老配乐](https://www.3dmgame.com/news/202408/3902757.html)
+
++ [《原神》角色预告-「玛拉妮：最佳观光体验」](https://www.3dmgame.com/news/202408/3902755.html)
+
++ [动作冒险游戏《永恒之链》主线剧情时长25小时 2025年发售](https://www.3dmgame.com/news/202408/3902756.html)
+
++ [《Rum & Gun》登陆Steam 海盗船长ARPG](https://www.3dmgame.com/news/202408/3902754.html)
+
