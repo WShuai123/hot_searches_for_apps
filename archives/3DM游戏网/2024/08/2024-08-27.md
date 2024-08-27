@@ -211,3 +211,9 @@
 
 + [iPhone 16系列官宣9月10日发布 首款AI iPhone将登场](https://www.3dmgame.com/news/202408/3902735.html)
 
++ [《黑神话：悟空》游戏摄影截图 画面逼真景色美](https://www.3dmgame.com/news/202408/3902744.html)
+
++ [《星球大战：亡命之徒》PC性能测试 RTX 4050低画质帧数低于60](https://www.3dmgame.com/news/202408/3902745.html)
+
++ [微软突然改口 39年经典控制面板将被保留](https://www.3dmgame.com/news/202408/3902746.html)
+

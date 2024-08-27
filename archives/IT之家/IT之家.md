@@ -35,3 +35,5 @@
 
 + [消息称 OPPO ColorOS 15 系统泄露的「关于本机」界面“是真的”](https://m.ithome.com/html/791274.htm)
 
++ [代号“朱雀”，小米“无按键”旗舰手机被曝 2025 年亮相](https://m.ithome.com/html/791348.htm)
+
