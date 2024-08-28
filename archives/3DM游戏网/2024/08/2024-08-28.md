@@ -429,3 +429,9 @@
 
 + [加州通过AI训练数据透明度法案 要求企业披露AI模型数据来源](https://www.3dmgame.com/news/202408/3902868.html)
 
++ [“命运2：回响”章节3今日发布](https://www.3dmgame.com/news/202408/3902873.html)
+
++ [华为：西方AI把中国的数据都送到国外 我们接受不了](https://www.3dmgame.com/news/202408/3902874.html)
+
++ [百度百科屏蔽谷歌/必应等搜索引擎 防止内容被抓取训练AI](https://www.3dmgame.com/news/202408/3902875.html)
+

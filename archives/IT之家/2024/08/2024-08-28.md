@@ -49,3 +49,7 @@
 
 + [比亚迪发布王朝网全新 MPV 预告图，号称“王朝新奢，宜家宜商”](https://m.ithome.com/html/791670.htm)
 
++ [《黑神话：悟空》线下音乐会开票，2 分钟售罄](https://m.ithome.com/html/791729.htm)
+
++ [安徽“皖事通”App 引入国家网络身份认证，支付宝认证已取消](https://m.ithome.com/html/791734.htm)
+
