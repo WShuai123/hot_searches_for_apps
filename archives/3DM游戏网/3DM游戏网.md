@@ -101,3 +101,53 @@
 
 + [P社建造管理游戏《监狱建筑师2》Steam页面  国区售价198元](https://www.3dmgame.com/news/202401/3886259.html)
 
++ [防止内容被抓取训练AI 百度百科屏蔽谷歌/必应等搜索引擎](https://www.3dmgame.com/news/202408/3902440.html)
+
++ [新报告显示欧洲75%游戏玩家为成年人 平均年龄31岁](https://www.3dmgame.com/news/202408/3902441.html)
+
++ [《雨中冒险2：风暴探寻者》DLC大厨角色演示 8月27日发售](https://www.3dmgame.com/news/202408/3902439.html)
+
++ [《暗区突围：无限》正开发AI技术：能语音指挥的队友](https://www.3dmgame.com/news/202408/3902428.html)
+
++ [微软公开新无障碍硬件 包括全新自适应手柄摇杆](https://www.3dmgame.com/news/202408/3902446.html)
+
++ [电影化叙事 生存恐怖冒险游戏《挽回（Retrieval）》现已上线Steam平台](https://www.3dmgame.com/news/202408/3902437.html)
+
++ [策略游戏《蚂蚁帝国》预购开启 国区售价143元](https://www.3dmgame.com/news/202408/3902434.html)
+
++ [《牧场物语 移动版 Life&Love》上架Steam 经典回归](https://www.3dmgame.com/news/202408/3902444.html)
+
++ [报告称《GTA6》和新Switch有望让美国游戏市场“复活”](https://www.3dmgame.com/news/202408/3902432.html)
+
++ [脑机接口试验再突破 马斯克预测10年内数百万人使用](https://www.3dmgame.com/news/202408/3902433.html)
+
++ [PlayStation发布《影之刃零》科隆试玩演示片段](https://www.3dmgame.com/news/202408/3902431.html)
+
++ [乐高发布与《马力欧赛车》全新合作套装预告 共6款2025年元旦推出](https://www.3dmgame.com/news/202408/3902430.html)
+
++ [经典剧场版《超时空要塞：可曾记得爱》4K蓝光重制](https://www.3dmgame.com/news/202408/3902429.html)
+
++ [温馨日常漫画《雨天遇见狸》确认动画化 2025年开播](https://www.3dmgame.com/news/202408/3902442.html)
+
++ [回合制战略游戏《恶棍水域》现已开启预购 2024年10月1日正式推出](https://www.3dmgame.com/news/202408/3902435.html)
+
++ [即时战术潜行游戏《疯狂之石》新预告 2025年发售](https://www.3dmgame.com/news/202408/3902443.html)
+
++ [《星刃》开发者：PC版正在筹备 预计销量将超越PS5](https://www.3dmgame.com/news/202408/3902436.html)
+
++ [《海贼王 Bounty Rush》Steam页面上线 年内发售](https://www.3dmgame.com/news/202408/3902445.html)
+
++ [经典动作射击游戏《废墟》确定制作真人电影](https://www.3dmgame.com/news/202408/3902438.html)
+
++ [射击游戏《狙击精英：抵抗》Steam页面开放 明年发售](https://www.3dmgame.com/news/202408/3902427.html)
+
++ [PS+欧美服9月会免游戏阵容：《小小梦魇2》等](https://www.3dmgame.com/news/202408/3902885.html)
+
++ [《黑神话：悟空》补丁引热议 妙音难度被削减](https://www.3dmgame.com/news/202408/3902886.html)
+
++ [《侦探俱乐部 笑脸男》评分解禁 M站均分77](https://www.3dmgame.com/news/202408/3902884.html)
+
++ [《星球大战：亡命之徒》发布补丁 抢先体验玩家需要重新开始](https://www.3dmgame.com/news/202408/3902883.html)
+
++ [《光与影：33号远征队》玩法预告 2025年推出](https://www.3dmgame.com/news/202408/3902882.html)
+
