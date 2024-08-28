@@ -151,3 +151,11 @@
 
 + [《光与影：33号远征队》玩法预告 2025年推出](https://www.3dmgame.com/news/202408/3902882.html)
 
++ [《不过如此的去月球系列海滩特别篇》将于9月20日发售](https://www.3dmgame.com/news/202408/3902890.html)
+
++ [如龙工作室9月20日开直播带来系列最新情报](https://www.3dmgame.com/news/202408/3902889.html)
+
++ [高达模型终极对决《高达创坏者4》发布上市宣传片](https://www.3dmgame.com/news/202408/3902888.html)
+
++ [好评独立游戏《去月球》将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202408/3902887.html)
+
