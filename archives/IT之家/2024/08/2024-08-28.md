@@ -55,3 +55,7 @@
 
 + [比亚迪正式起诉“小雨不懂车”、“虎狼说车”等自媒体](https://m.ithome.com/html/791801.htm)
 
++ [平均帧率提升超 110%，摩尔线程发布《黑神话：悟空》专属优化驱动 v270.80.0.1 beta 更新](https://m.ithome.com/html/791827.htm)
+
++ [苹果 iPhone 17 系列被曝升级 12GB 内存，能够更好地支持端侧 AI 大模型](https://m.ithome.com/html/791837.htm)
+

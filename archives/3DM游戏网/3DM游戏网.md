@@ -435,3 +435,15 @@
 
 + [百度百科屏蔽谷歌/必应等搜索引擎 防止内容被抓取训练AI](https://www.3dmgame.com/news/202408/3902875.html)
 
++ [“异形女王”西格妮·韦弗确认参演《曼达洛人和古古》电影](https://www.3dmgame.com/news/202408/3902881.html)
+
++ [《Concord》IGN 7分 缺乏内容和创新、但值得推荐](https://www.3dmgame.com/news/202408/3902879.html)
+
++ [吉田直树：SE将加倍努力在Xbox平台发布游戏](https://www.3dmgame.com/news/202408/3902880.html)
+
++ [《黑神话》Steam通关率不到13% 仅一半玩家过了第二章](https://www.3dmgame.com/news/202408/3902878.html)
+
++ [《黑神话》二姐演员COS自己角色 比游戏里漂亮太多](https://www.3dmgame.com/news/202408/3902877.html)
+
++ [西部数据或扩建泰国生产设施 首次扩张HDD生产线](https://www.3dmgame.com/news/202408/3902876.html)
+
