@@ -125,3 +125,5 @@
 
 + [鸿蒙三层架构，鸿蒙模块依赖、鸿蒙依赖模块，鸿蒙hap、鸿蒙hsp、鸿蒙har](https://blog.csdn.net/jian11058/article/details/141572102)
 
++ [MyBatis一级缓存和二级缓存以及 mybatis架构](https://blog.csdn.net/fxbsdl/article/details/141597412)
+
