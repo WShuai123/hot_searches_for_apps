@@ -29,3 +29,7 @@
 
 + [Steam 新一周游戏销量榜：《黑神话：悟空》四连冠，《GTA5》再上榜](https://m.ithome.com/html/791537.htm)
 
++ [11.98 万元起，小鹏 MONA M03 大定 52 分钟破 10000 台](https://m.ithome.com/html/791584.htm)
+
++ [小鹏 MONA M03 轿跑座舱公布：15.6 英寸中控屏、3D 全景地图、支持智驾](https://m.ithome.com/html/791565.htm)
+

@@ -121,3 +121,15 @@
 
 + [《天国：拯救2》PC版39分钟上手视频](https://www.3dmgame.com/news/202408/3902790.html)
 
++ [《勇者斗恶龙3：HD-2D重制版》预告 新要素介绍](https://www.3dmgame.com/news/202408/3902803.html)
+
++ [《妖精的尾巴2》全新预告 激烈战斗画面展示](https://www.3dmgame.com/news/202408/3902804.html)
+
++ [《黑神话：悟空》MTC用户评分遭差评轰炸 不少竟然是中文评价](https://www.3dmgame.com/news/202408/3902802.html)
+
++ [GUST《优米雅的炼金工房》公布 25年登陆全平台](https://www.3dmgame.com/news/202408/3902799.html)
+
++ [《幻想水浒传1&2 HD合集》敲定明年3月发售](https://www.3dmgame.com/news/202408/3902800.html)
+
++ [单人开发者探索冒险游戏《欧罗巴》10/11推出](https://www.3dmgame.com/news/202408/3902801.html)
+

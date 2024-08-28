@@ -71,3 +71,7 @@
 
 + [两部实验动画，美少女+机甲希望大家喜欢~](http://www.acfun.cn/v/ac46170300)
 
++ [【东方】Imperishable Jaggerin Night【永夜抄剧情再现MMD】](http://www.acfun.cn/v/ac46163516)
+
++ [抖 抖 抖](http://www.acfun.cn/v/ac46171567)
+
