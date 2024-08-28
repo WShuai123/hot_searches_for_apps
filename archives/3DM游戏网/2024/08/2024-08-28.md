@@ -133,3 +133,69 @@
 
 + [单人开发者探索冒险游戏《欧罗巴》10/11推出](https://www.3dmgame.com/news/202408/3902801.html)
 
++ [《Urayama》登陆Steam 精神系恐怖探索](https://www.3dmgame.com/news/202408/3902805.html)
+
++ [《文明7》全新预告片 Switch版游戏玩法展示](https://www.3dmgame.com/news/202408/3902806.html)
+
++ [光荣特库摩决定参展「东京电玩展2024」 同步公开参展作品与直播节目信息](https://www.3dmgame.com/news/202408/3902807.html)
+
++ [《妖精的尾巴2》2024年12月12日发售 首部宣传影片登场](https://www.3dmgame.com/news/202408/3902808.html)
+
++ [SE类《斯普拉遁》多人对战射击游戏《泡沫明星》将在10月转为免费](https://www.3dmgame.com/news/202408/3902809.html)
+
++ [《卡普空对战格斗合集2》新预告及截图 2025年发售](https://www.3dmgame.com/news/202408/3902810.html)
+
++ [《夺宝奇兵：古老之圈》开发者“很高兴”游戏登陆PS5](https://www.3dmgame.com/news/202408/3902811.html)
+
++ [免费足球游戏《UFL》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202408/3902812.html)
+
++ [《俄罗斯方块永恒篇》Steam页面开放 2024年发售](https://www.3dmgame.com/news/202408/3902816.html)
+
++ [《雨中冒险2》新DLC“风暴探寻者”现已发售 多半好评](https://www.3dmgame.com/news/202408/3902813.html)
+
++ [《海绵宝宝：派大星游戏》预告片公布 预计2024年10月推出](https://www.3dmgame.com/news/202408/3902814.html)
+
++ [《第9层：开始》免费登陆Steam 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3902815.html)
+
++ [生存恐怖游戏《杀戮空间3》新预告 爬行者更加恐怖](https://www.3dmgame.com/news/202408/3902817.html)
+
++ [据报道网飞Netflix宣布裁员 并重组旗下电影部门](https://www.3dmgame.com/news/202404/3892337.html)
+
++ [网易回应暴雪国服回归：4月10日肯定官宣！](https://www.3dmgame.com/news/202404/3892338.html)
+
++ [官方整活 《地狱潜者2》为剿灭机器人的玩家提供1分钟休息作为奖励](https://www.3dmgame.com/news/202404/3892339.html)
+
++ [北美上演罕见日全食 关键词“眼睛受伤”谷歌搜索量激增](https://www.3dmgame.com/news/202404/3892340.html)
+
++ [《Feed》Steam页面上线 像素复古风恐怖动作射击](https://www.3dmgame.com/news/202404/3892341.html)
+
++ [PSP模拟器开发者：PPSSPP计划登陆苹果商城](https://www.3dmgame.com/news/202404/3892342.html)
+
++ [沙盒建造模拟游戏《水上乐园大亨》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892343.html)
+
++ [知名游戏主播确诊中风 当事人：希望大家好好运动](https://www.3dmgame.com/news/202404/3892344.html)
+
++ [《龙之信条2》最新更新发布 修复部分任务卡死问题](https://www.3dmgame.com/news/202404/3892345.html)
+
++ [《龙之信条2》玩家仅招架BOSS触发隐藏过场动画](https://www.3dmgame.com/news/202404/3892346.html)
+
++ [国产ARPG《失落之魂》更多消息即将公布](https://www.3dmgame.com/news/202404/3892347.html)
+
++ [微软新专利探索声音AI应用 可预估地震风暴等自然灾害](https://www.3dmgame.com/news/202404/3892348.html)
+
++ [《极限竞速：地平线5》穿越侏罗纪主播娱乐赛火热开赛，赛果新鲜出炉！](https://www.3dmgame.com/news/202404/3892349.html)
+
++ [首周特惠58.5元！回合制肉鸽《异界失控》4月12日发售](https://www.3dmgame.com/news/202404/3892350.html)
+
++ [遍地大神的游戏时代  从编辑器发展史看UGC进化-网易Y3编辑器](https://www.3dmgame.com/news/202404/3892351.html)
+
++ [动画电影《KILLTUBE》先导预告公开 预定2026年春季上映](https://www.3dmgame.com/news/202404/3892352.html)
+
++ [《人狼 iLLANG》免费登陆Steam 多人推理社交狼人游戏](https://www.3dmgame.com/news/202404/3892353.html)
+
++ [《主播女孩重度依赖》动画正在制作中 更多细节明年公布](https://www.3dmgame.com/news/202404/3892354.html)
+
++ [策略游戏《63 Days》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892356.html)
+
++ [漫改动画《疑似后宫》公布首个宣传PV 7月正式播出](https://www.3dmgame.com/news/202404/3892355.html)
+

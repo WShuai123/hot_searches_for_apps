@@ -47,3 +47,7 @@
 
 + [2024年Q2 APT趋势报告](https://www.freebuf.com/articles/paper/409130.html)
 
++ [微软Sway在大规模二维码钓鱼活动中被滥用](https://www.freebuf.com/news/409605.html)
+
++ [深入剖析Java内存马：Tomcat下的Servlet、Filter与Listener攻击技术](https://www.freebuf.com/vuls/408515.html)
+

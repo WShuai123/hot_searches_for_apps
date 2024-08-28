@@ -33,3 +33,5 @@
 
 + [小鹏 MONA M03 轿跑座舱公布：15.6 英寸中控屏、3D 全景地图、支持智驾](https://m.ithome.com/html/791565.htm)
 
++ [消息称苹果将推出全新 AirPods Pro 3 耳机，ANC 降噪效果“好得多”](https://m.ithome.com/html/791590.htm)
+
