@@ -155,3 +155,9 @@
 
 + [物联网通讯协议MQTT、NB-IOT、Zigbee、CoAP、RFID、BLUETOOTH、NFC、4G和HTTP](https://blog.csdn.net/qq827245563/article/details/141596938)
 
++ [Ubuntu搭建FTP服务器](https://blog.csdn.net/2301_77358096/article/details/141613850)
+
++ [基于ssm+vue+uniapp的农业电商服务系统小程序](https://blog.csdn.net/shmp54/article/details/141613045)
+
++ [PDF转化为机器可读格式的工具](https://blog.csdn.net/chinagaobo/article/details/141614773)
+

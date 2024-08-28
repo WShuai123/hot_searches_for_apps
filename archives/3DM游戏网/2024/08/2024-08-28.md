@@ -283,3 +283,19 @@
 
 + [台积电代工！小米定制芯片曝光：性能比肩骁龙8](https://www.3dmgame.com/news/202408/3902839.html)
 
++ [《黑神话：悟空》亢金星君演员晒幕后照 你舍得打她吗？](https://www.3dmgame.com/news/202408/3902845.html)
+
++ [《咖啡物语》系列最新作《咖啡物语 东京》预告公布 将于2025年推出](https://www.3dmgame.com/news/202408/3902846.html)
+
++ [《塞尔达传说：王国之泪》官方设定集宣传视频 8月30日发售](https://www.3dmgame.com/news/202408/3902844.html)
+
++ [《黑神话 悟空》线下音乐会票2分钟售罄 含19首曲目](https://www.3dmgame.com/news/202408/3902843.html)
+
++ [《黑神话：悟空》乱入WOW 魔兽COS版四人组很和谐](https://www.3dmgame.com/news/202408/3902842.html)
+
++ [《神之浩劫2》开发者：推出新作是因为原作实在太老](https://www.3dmgame.com/news/202408/3902847.html)
+
++ [《漫威vs卡普空 格斗合集》预购开启 国区售价248元](https://www.3dmgame.com/news/202408/3902841.html)
+
++ [小米SU7车主摆摊让别人玩《黑神话：悟空》：首玩免费、5元续命](https://www.3dmgame.com/news/202408/3902840.html)
+

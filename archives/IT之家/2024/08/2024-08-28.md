@@ -43,3 +43,5 @@
 
 + [小米更新终止软件支持产品列表：增加 MIX 4、Pad 5 Pro、Redmi K40 等机型](https://m.ithome.com/html/791634.htm)
 
++ [小米王腾称不会做升降摄像头手机，对整机设计影响太大](https://m.ithome.com/html/791643.htm)
+

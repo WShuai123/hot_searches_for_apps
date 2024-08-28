@@ -123,3 +123,13 @@
 
 + [SnapFood](https://www.producthunt.com/posts/snapfood)
 
++ [Button Stealer](https://www.producthunt.com/posts/button-stealer)
+
++ [AI Ads Analyzer by GoMarble](https://www.producthunt.com/posts/ai-ads-analyzer-by-gomarble)
+
++ [Velvet](https://www.producthunt.com/posts/velvet-fdbef7ad-23bc-484d-861f-53bc704c88f6)
+
++ [Noteey](https://www.producthunt.com/posts/noteey)
+
++ [HTML to React](https://www.producthunt.com/posts/html-to-react-3)
+
