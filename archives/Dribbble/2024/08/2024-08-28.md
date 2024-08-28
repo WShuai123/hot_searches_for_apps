@@ -211,3 +211,35 @@
 
 + [Logo Reveal - Particle Sim - FinTech](https://dribbble.com/shots/)
 
++ [CLOTHES_X® // POSTER, CNCPT vol.2 •”24](https://dribbble.com/shots/)
+
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Infinity Eyes Symbol Mark](https://dribbble.com/shots/)
+
++ [Finance - Mobile App Component](https://dribbble.com/shots/)
+
++ [Cybersecurity in healthcare](https://dribbble.com/shots/)
+
++ [Askme: Website design](https://dribbble.com/shots/)
+
++ [a + ✦](https://dribbble.com/shots/)
+
++ [Eyeball Onboarding](https://dribbble.com/shots/)
+
++ [Minot - Logo design for the task management platform](https://dribbble.com/shots/)
+
++ [VPN — Mobile App UI Design](https://dribbble.com/shots/)
+
++ [T and face](https://dribbble.com/shots/)
+
++ [Playful Sheep Logo](https://dribbble.com/shots/)
+
++ [LAB logotype / styleframe](https://dribbble.com/shots/)
+
++ [Extreme Skier Logo](https://dribbble.com/shots/)
+
++ [Onboarding Components / Dark](https://dribbble.com/shots/)
+
++ [Landing Page Concept for Foodtech Business](https://dribbble.com/shots/)
+
