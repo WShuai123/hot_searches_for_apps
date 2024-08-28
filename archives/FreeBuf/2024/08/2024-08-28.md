@@ -59,3 +59,5 @@
 
 + [ServiceBridge泄露 3200万份文件，大量企业数据被曝光](https://www.freebuf.com/news/409656.html)
 
++ [绿盟科技2024半年报：营收8亿，亏损2.55亿](https://www.freebuf.com/articles/neopoints/409679.html)
+

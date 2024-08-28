@@ -363,3 +363,59 @@
 
 + [中手游《仙剑世界》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886269.html)
 
++ [《职业棒球之魂》20周年和《实况力量棒球》30周年纪念网站上线 或有新作将发布](https://www.3dmgame.com/news/202312/3884943.html)
+
++ [《博德之门 3》Xbox版本的存档丢失问题仍未得到解决](https://www.3dmgame.com/news/202312/3884941.html)
+
++ [优必选宣布港交所挂牌上市 成为“人形机器人第一股”](https://www.3dmgame.com/news/202312/3884942.html)
+
++ [雷军：目标就是媲美保时捷特斯拉 小米汽车做到了](https://www.3dmgame.com/news/202312/3884939.html)
+
++ [玩家吐槽《方舟：生存进化》容量超300GB：几乎0优化](https://www.3dmgame.com/news/202312/3884940.html)
+
++ [制作人安田善巳确认《电锯甜心：重置版》将于2024年发布](https://www.3dmgame.com/news/202312/3884937.html)
+
++ [育碧吉祥物《疯狂兔子》动画电影试映片段泄露](https://www.3dmgame.com/news/202312/3884938.html)
+
++ [台积电向研发组发放特别贡献奖 暗示2nm工艺有新进展](https://www.3dmgame.com/news/202312/3884936.html)
+
++ [《潜行者2》开发中版本实机截图与预告对比](https://www.3dmgame.com/news/202312/3884935.html)
+
++ [全新3D即时战斗卡牌手游《圣斗士星矢：重生2》 预约开启](https://www.3dmgame.com/news/202312/3884933.html)
+
++ [他终于走了！动视暴雪CEO考迪克今日正式卸任](https://www.3dmgame.com/news/202312/3884944.html)
+
++ [肉鸽独游《数字魅影：极限竞赛》实机pv公布](https://www.3dmgame.com/news/202312/3884945.html)
+
++ [《最终幻想7重生》总监迫不及待地想让玩家看到“艾丽丝的命运”](https://www.3dmgame.com/news/202312/3884932.html)
+
++ [奇幻恋爱漫画《婚戒物语》计划于第15卷完结](https://www.3dmgame.com/news/202312/3884950.html)
+
++ [粉丝分享《赛博朋克2077》摄影截图 这画面太震撼](https://www.3dmgame.com/news/202312/3884934.html)
+
++ [6元就能与女神甜蜜恋爱？真人沉浸恋爱向游戏29号上线steam](https://www.3dmgame.com/news/202312/3884951.html)
+
++ [《装甲核心6》排位赛实装掉线应对机制 故意多次掉线将被惩罚](https://www.3dmgame.com/news/202312/3884948.html)
+
++ [模拟经营游戏《超灵秘法社》开放抢先体验 获Steam特别好评](https://www.3dmgame.com/news/202312/3884949.html)
+
++ [《在地下城寻求邂逅：记忆憧憬》手游国际服2月停服](https://www.3dmgame.com/news/202312/3884947.html)
+
++ [《魔兽世界》官方发布最爱龙族名“龙”选择图 玩家发现缺少多位重要角色](https://www.3dmgame.com/news/202312/3884946.html)
+
++ [《黑神话：悟空》雕塑刚建成就被游客踩坏 官方回应](https://www.3dmgame.com/news/202408/3902867.html)
+
++ [《黑神话》玩家福利再加一 通关免费游取景地苍岩山](https://www.3dmgame.com/news/202408/3902865.html)
+
++ [弹出全面屏退出历史舞台！Redmi K80不会考虑 王腾道出原因](https://www.3dmgame.com/news/202408/3902863.html)
+
++ [能让你泪目的游戏，《Neva》将于10月16日登陆PC及主机平台](https://www.3dmgame.com/news/202408/3902862.html)
+
++ [黑客组织与角川书店谈判破裂 角川拒付800万美元赎金 可能再遭攻击](https://www.3dmgame.com/news/202408/3902861.html)
+
++ [《游戏设计师大奖2024》公布评委 樱井政博小高和刚在列](https://www.3dmgame.com/news/202408/3902860.html)
+
++ [《死侍与金刚狼》被删除镜头：牌皇没死可能加入MCU](https://www.3dmgame.com/news/202408/3902866.html)
+
++ [东方同人游戏《东方诡夜行》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3902864.html)
+
