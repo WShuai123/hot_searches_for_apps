@@ -299,3 +299,27 @@
 
 + [小米SU7车主摆摊让别人玩《黑神话：悟空》：首玩免费、5元续命](https://www.3dmgame.com/news/202408/3902840.html)
 
++ [《模拟山羊3》Switch版现已推出 实体版11月发售](https://www.3dmgame.com/news/202408/3902859.html)
+
++ [《尼尔：机械纪元》推出“白之契约”智能玩具 收录2B台词2025年发售](https://www.3dmgame.com/news/202408/3902858.html)
+
++ [《美德传奇f Remastered》首支宣传视频 2025年1月26日发售](https://www.3dmgame.com/news/202408/3902857.html)
+
++ [考验IQ的爆改版“推箱子”游戏 《Line Time》正式定档9月12日发售](https://www.3dmgame.com/news/202408/3902856.html)
+
++ [正统推理冒险游戏《Dark Auction：希特勒的遗产》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3902852.html)
+
++ [你怎么看？《黑神话：悟空》剧情引争议：有玩家吐槽 原著被魔改和矮化](https://www.3dmgame.com/news/202408/3902854.html)
+
++ [《黑神话：悟空》主角换《龙珠》悟空Mod大受海外玩家欢迎](https://www.3dmgame.com/news/202408/3902853.html)
+
++ [SE乐高版《最终幻想7》经典场景征集活动送出的模型已拍出16000美元高价](https://www.3dmgame.com/news/202408/3902851.html)
+
++ [《刀剑神域 碎梦边境》网测9月21日开启 支持跨平台](https://www.3dmgame.com/news/202408/3902850.html)
+
++ [正确人士气急败坏发帖抵制《黑神话》：没双性恋角色](https://www.3dmgame.com/news/202408/3902855.html)
+
++ [《弹丸论破》遇到战斗爽，能够碰撞出怎样的火花？](https://www.3dmgame.com/news/202408/3902849.html)
+
++ [学园恋爱喜剧ADV游戏《Primal Hearts》Steam页面上线 支持繁体中文](https://www.3dmgame.com/news/202408/3902848.html)
+

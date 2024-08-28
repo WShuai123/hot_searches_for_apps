@@ -191,3 +191,21 @@
 
 + [Zendenta - Patient Plan Agreement for Medical Checkups](https://dribbble.com/shots/)
 
++ [Smartify - Smart Home App](https://dribbble.com/shots/)
+
++ [Zenpulse - Running Mobile App](https://dribbble.com/shots/)
+
++ [Restaurant Website](https://dribbble.com/shots/)
+
++ [Diamond + dice + block for crypto casino logo design](https://dribbble.com/shots/)
+
++ [Geometric Zeus Logo](https://dribbble.com/shots/)
+
++ [neurokaire: AI Neurology Precision Medicine - Mobile Overview UI](https://dribbble.com/shots/)
+
++ [Wookies - Digital Marketing Agency](https://dribbble.com/shots/)
+
++ [Web-Cloud Test](https://dribbble.com/shots/)
+
++ [H+Galaxy](https://dribbble.com/shots/)
+
