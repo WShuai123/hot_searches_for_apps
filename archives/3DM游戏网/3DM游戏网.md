@@ -199,3 +199,27 @@
 
 + [漫改动画《疑似后宫》公布首个宣传PV 7月正式播出](https://www.3dmgame.com/news/202404/3892355.html)
 
++ [《战锤40K：星际战士2》发布后更新路线图公开 免费新关卡新武器](https://www.3dmgame.com/news/202408/3902825.html)
+
++ [齐天揽月！稻香村联动《黑神话》月饼礼盒售99元](https://www.3dmgame.com/news/202408/3902824.html)
+
++ [《神之浩劫2》开启不间断A测 进度和道具可永久保留](https://www.3dmgame.com/news/202408/3902826.html)
+
++ [《宝可梦 Go》确认推出极巨化功能 第8世代宝可梦加入](https://www.3dmgame.com/news/202408/3902827.html)
+
++ [《不死者之王》电影上映在即 作者提前观看后感叹太过美化](https://www.3dmgame.com/news/202408/3902828.html)
+
++ [《冰汽时代2》|《执政官101》第六集 人性视角](https://www.3dmgame.com/news/202408/3902829.html)
+
++ [《星之海》免费DLC“钟表匠的挣扎”公布 2025年春季全平台上线](https://www.3dmgame.com/news/202408/3902818.html)
+
++ [叙事模拟管理类游戏《债务人俱乐部》已正式发售并获得好评](https://www.3dmgame.com/news/202408/3902819.html)
+
++ [《暗黑破坏神4》将引入新功能：自定义城镇传送门](https://www.3dmgame.com/news/202408/3902821.html)
+
++ [《迪士尼传奇米奇：重制版》试玩Demo现已推出](https://www.3dmgame.com/news/202408/3902820.html)
+
++ [《冲就完事模拟器》联动《怪物史瑞克》DLC公开](https://www.3dmgame.com/news/202408/3902822.html)
+
++ [《风火轮怪兽卡车：特技混乱》Steam页面公布 10月19日发售](https://www.3dmgame.com/news/202408/3902823.html)
+
