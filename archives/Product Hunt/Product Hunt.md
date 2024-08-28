@@ -121,3 +121,5 @@
 
 + [Mida.so](https://www.producthunt.com/posts/mida-so)
 
++ [SnapFood](https://www.producthunt.com/posts/snapfood)
+

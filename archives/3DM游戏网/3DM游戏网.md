@@ -223,3 +223,11 @@
 
 + [《风火轮怪兽卡车：特技混乱》Steam页面公布 10月19日发售](https://www.3dmgame.com/news/202408/3902823.html)
 
++ [中国笔记本线上市场新排名 联想第一戴尔跌至第八](https://www.3dmgame.com/news/202408/3902833.html)
+
++ [剧情互动冒险游戏《街头足球》预告片放出 预计于2025年推出](https://www.3dmgame.com/news/202408/3902831.html)
+
++ [万代南梦宫“传说”系列30周年纪念官网上线 将推出更多复刻版游戏](https://www.3dmgame.com/news/202408/3902832.html)
+
++ [抗议管理不善 《贪婪之秋》法国开发商员工宣布罢工](https://www.3dmgame.com/news/202408/3902830.html)
+

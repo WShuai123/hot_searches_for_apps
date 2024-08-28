@@ -139,3 +139,11 @@
 
 + [网络应用层之(2)DNS协议](https://blog.csdn.net/Once_day/article/details/141612216)
 
++ [JavaScript中闭包详解+举例，闭包的各种实践场景：高级技巧与实用指南](https://blog.csdn.net/RenGJ010617/article/details/141439236)
+
++ [K8S的持久化存储](https://blog.csdn.net/xiaogengtongxu/article/details/141599380)
+
++ [苹果AI iPhone定档；Llama 3.1爆冷；马斯克站台AI安全监管法案 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141617175)
+
++ [未来技术席位之争：《黑神话：悟空》](https://blog.csdn.net/ChaoMing_H/article/details/141594662)
+

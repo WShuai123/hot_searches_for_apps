@@ -35,3 +35,9 @@
 
 + [消息称苹果将推出全新 AirPods Pro 3 耳机，ANC 降噪效果“好得多”](https://m.ithome.com/html/791590.htm)
 
++ [《黑神话：悟空》1.0.8.14860 更新补丁发布：修复开启 FSR 崩溃问题、下调魔将・妙音数值](https://m.ithome.com/html/791638.htm)
+
++ [何小鹏：MONA M03 所有车型都是有利润的，目标是月销过万](https://m.ithome.com/html/791577.htm)
+
++ [国产 NAS 系统飞牛私有云 fnOS 开启公测：内核基于 Debian、支持主流的 X86 架构设备](https://m.ithome.com/html/791524.htm)
+
