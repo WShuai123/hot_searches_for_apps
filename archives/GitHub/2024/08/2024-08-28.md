@@ -37,3 +37,19 @@
 
 + [huggingface / lerobot](https://github.com/huggingface/lerobot)
 
++ [openobserve / openobserve](https://github.com/openobserve/openobserve)
+
++ [projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei)
+
++ [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)
+
++ [wazuh / wazuh](https://github.com/wazuh/wazuh)
+
++ [asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec)
+
++ [webpack / webpack](https://github.com/webpack/webpack)
+
++ [tinygo-org / tinygo](https://github.com/tinygo-org/tinygo)
+
++ [daytonaio / daytona](https://github.com/daytonaio/daytona)
+

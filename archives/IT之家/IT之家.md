@@ -45,3 +45,7 @@
 
 + [小米王腾称不会做升降摄像头手机，对整机设计影响太大](https://m.ithome.com/html/791643.htm)
 
++ [小鹏 MONA M03 轿跑规格公布：风阻系数 0.194、零百加速 7.4 秒、搭全融合外置主动式进气格栅](https://m.ithome.com/html/791560.htm)
+
++ [比亚迪发布王朝网全新 MPV 预告图，号称“王朝新奢，宜家宜商”](https://m.ithome.com/html/791670.htm)
+

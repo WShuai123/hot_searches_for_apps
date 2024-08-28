@@ -419,3 +419,13 @@
 
 + [东方同人游戏《东方诡夜行》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3902864.html)
 
++ [KK官方对战平台新图推荐！独特英灵分队，新时代爆战玩法！](https://www.3dmgame.com/news/202408/3902872.html)
+
++ [《指环王：重返莫瑞亚》登陆Steam/XS 中土生存建造](https://www.3dmgame.com/news/202408/3902869.html)
+
++ [今年最值得玩的魔兽RPG，走进KK火爆新图《伐木生存》作者的游戏人生！](https://www.3dmgame.com/news/202408/3902871.html)
+
++ [科乐美：希望找到能代替小岛秀夫的《合金装备》开发者](https://www.3dmgame.com/news/202408/3902870.html)
+
++ [加州通过AI训练数据透明度法案 要求企业披露AI模型数据来源](https://www.3dmgame.com/news/202408/3902868.html)
+
