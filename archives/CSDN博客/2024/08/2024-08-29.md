@@ -127,3 +127,5 @@
 
 + [MyBatis一级缓存和二级缓存以及 mybatis架构](https://blog.csdn.net/fxbsdl/article/details/141597412)
 
++ [Spring Cloud Eureka与Kubernetes的集成：服务发现的混合方案](https://blog.csdn.net/weixin_41859354/article/details/141611429)
+
