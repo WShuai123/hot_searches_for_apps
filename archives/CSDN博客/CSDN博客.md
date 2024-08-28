@@ -165,3 +165,7 @@
 
 + [《网络安全自学指南》](https://blog.csdn.net/wangyuxiang946/article/details/140930592)
 
++ [GPT-4 vs LLaMA3.1：核心技术架构与应用场景对比](https://blog.csdn.net/lmj3732018/article/details/141638355)
+
++ [angular18使用qiankun搭建微服务](https://blog.csdn.net/qq_45915779/article/details/141607996)
+
