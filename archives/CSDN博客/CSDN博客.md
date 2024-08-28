@@ -149,3 +149,9 @@
 
 + [点亮编程之路：分享克服学习挫折的策略与心得](https://blog.csdn.net/u014727709/article/details/141618396)
 
++ [【人工智能】多模态AI：如何通过融合文本、图像与音频重塑智能系统未来](https://blog.csdn.net/2202_76097976/article/details/141421235)
+
++ [（24）(24.4) MultiWii/DJI/HDZero OSD (version 4.2 and later)（三）](https://blog.csdn.net/qq_20016593/article/details/141351850)
+
++ [物联网通讯协议MQTT、NB-IOT、Zigbee、CoAP、RFID、BLUETOOTH、NFC、4G和HTTP](https://blog.csdn.net/qq827245563/article/details/141596938)
+
