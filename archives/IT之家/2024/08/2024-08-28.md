@@ -59,3 +59,7 @@
 
 + [苹果 iPhone 17 系列被曝升级 12GB 内存，能够更好地支持端侧 AI 大模型](https://m.ithome.com/html/791837.htm)
 
++ [9.98 万元起：五菱星光 S 正式上市，天舆架构 D 平台首款双动力 SUV 车型](https://m.ithome.com/html/791841.htm)
+
++ [《无主之地》电影上映仅三周就推流媒体版，票房惨淡口碑崩盘](https://m.ithome.com/html/791779.htm)
+
