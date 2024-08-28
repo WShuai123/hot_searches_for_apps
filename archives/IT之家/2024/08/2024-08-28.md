@@ -41,3 +41,5 @@
 
 + [国产 NAS 系统飞牛私有云 fnOS 开启公测：内核基于 Debian、支持主流的 X86 架构设备](https://m.ithome.com/html/791524.htm)
 
++ [小米更新终止软件支持产品列表：增加 MIX 4、Pad 5 Pro、Redmi K40 等机型](https://m.ithome.com/html/791634.htm)
+

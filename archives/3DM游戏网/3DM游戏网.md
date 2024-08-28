@@ -231,3 +231,13 @@
 
 + [抗议管理不善 《贪婪之秋》法国开发商员工宣布罢工](https://www.3dmgame.com/news/202408/3902830.html)
 
++ [欧美游戏7月榜：EA《大学美式足球25》首发登顶](https://www.3dmgame.com/news/202408/3902838.html)
+
++ [《小丑牌》与《潜水员戴夫》《巫师》等多款作品联动](https://www.3dmgame.com/news/202408/3902834.html)
+
++ [Gearbox老大曾想为《小缇娜的奇幻之地》制作大型DLC 但资源都给了《无主之地4》](https://www.3dmgame.com/news/202408/3902835.html)
+
++ [万代《蓝色协议》宣布停服 亚马逊全球版本已被取消](https://www.3dmgame.com/news/202408/3902836.html)
+
++ [假冒G胖X账号发布《传送门3》消息 骗取大量关注](https://www.3dmgame.com/news/202408/3902837.html)
+
