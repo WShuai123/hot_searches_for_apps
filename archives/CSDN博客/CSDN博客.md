@@ -101,3 +101,27 @@
 
 + [12-使用gateway作为微服务网关](https://blog.csdn.net/maodou95838/article/details/141331345)
 
++ [3分钟快速本地搭建RSShub服务器并结合内网穿透实现无公网IP远程访问](https://blog.csdn.net/xinhang10/article/details/141638048)
+
++ [SSH弱口令爆破服务器](https://blog.csdn.net/fencecat/article/details/141613505)
+
++ [Ubuntu搭建FTP服务器](https://blog.csdn.net/2301_77358096/article/details/141613850)
+
++ [docker的部署及基本用法](https://blog.csdn.net/weixin_68398469/article/details/141592252)
+
++ [【Kotlin设计模式】Kotlin实现外观模式](https://blog.csdn.net/qq_17470165/article/details/141599079)
+
++ [适合 Spring Boot 3.0x的Redis 分布式锁](https://blog.csdn.net/weimeilayer/article/details/141610782)
+
++ [大数据-104 Spark Streaming Kafka Offset Scala实现Redis管理Offset并更新](https://blog.csdn.net/w776341482/article/details/141590375)
+
++ [外包干了两年，快要废了。。。](https://blog.csdn.net/zhangsiyuan1998/article/details/141608242)
+
++ [如何使用Redis实现乐观锁？](https://blog.csdn.net/wls_gk/article/details/141548641)
+
++ [Vue3搜索框（InputSearch）](https://blog.csdn.net/Dandrose/article/details/141555699)
+
++ [Vue：组件化开发](https://blog.csdn.net/ma_no_lo/article/details/141600105)
+
++ [鸿蒙三层架构，鸿蒙模块依赖、鸿蒙依赖模块，鸿蒙hap、鸿蒙hsp、鸿蒙har](https://blog.csdn.net/jian11058/article/details/141572102)
+
