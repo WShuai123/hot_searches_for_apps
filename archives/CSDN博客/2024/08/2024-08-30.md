@@ -133,3 +133,11 @@
 
 + [高级MySQL数据库备份脚本](https://blog.csdn.net/qq_29864051/article/details/141624970)
 
++ [遗传算法与深度学习实战（8）——使用遗传算法解决旅行商问题](https://blog.csdn.net/LOVEmy134611/article/details/141624343)
+
++ [如何使用Hive构建网络电视剧收视率分析系统：大数据实战教程](https://blog.csdn.net/2301_79595671/article/details/141633574)
+
++ [如何使用ssm实现基于VUE的新闻类网站+vue修改完的](https://blog.csdn.net/u013200380/article/details/141601405)
+
++ [爆改YOLOv8|利用BiFormer改进yolov8,暴力涨点](https://blog.csdn.net/weixin_43986124/article/details/141626626)
+
