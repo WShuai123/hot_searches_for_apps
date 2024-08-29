@@ -279,3 +279,21 @@
 
 + [老外报道《黑神话》灵吉菩萨断头：暗讽西方偷盗中国文物](https://www.3dmgame.com/news/202408/3902926.html)
 
++ [《星际战士2》开发者：很多游戏都受《战锤40K》启发](https://www.3dmgame.com/news/202408/3902938.html)
+
++ [知名舅舅党爆料 索尼正在研究掌机市场 可能会推出新设备](https://www.3dmgame.com/news/202408/3902939.html)
+
++ [苹果藏大招！iPhone17顶配独占12G内存 散热更强](https://www.3dmgame.com/news/202408/3902937.html)
+
++ [PS5 Pro还是Switch 2？坤哥爆料：某个硬件的新版本即将公布新消息](https://www.3dmgame.com/news/202408/3902931.html)
+
++ [马斯克AI公司被指未经许可在数据中心使用燃气涡轮机 污染空气质量](https://www.3dmgame.com/news/202408/3902932.html)
+
++ [动作冒险游戏《逃离木乃伊》现已推出试玩Demo 预计2024年第四季度发行](https://www.3dmgame.com/news/202408/3902933.html)
+
++ [好评中世纪沙盒经营《颂钟长鸣》更新上线 多项新内容](https://www.3dmgame.com/news/202408/3902934.html)
+
++ [Key社视觉小说《星之终途》Switch版12月5日发售 支持中文](https://www.3dmgame.com/news/202408/3902935.html)
+
++ [SpaceX猎鹰9号再次被停飞：助推器着陆爆炸](https://www.3dmgame.com/news/202408/3902936.html)
+

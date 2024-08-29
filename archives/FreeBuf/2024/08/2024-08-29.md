@@ -49,3 +49,5 @@
 
 + [浅谈预编译 | SQL注入防御](https://www.freebuf.com/articles/web/408568.html)
 
++ [研发安全 | 输入验证安全设计剖析](https://www.freebuf.com/articles/system/408086.html)
+
