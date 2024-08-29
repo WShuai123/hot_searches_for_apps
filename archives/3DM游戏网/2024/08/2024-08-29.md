@@ -269,3 +269,13 @@
 
 + [《上古卷轴5》高玩打造新MOD 玩家说话秒变游戏台词](https://www.3dmgame.com/news/202408/3902919.html)
 
++ [新高度！六支战队齐聚ALGS季后赛，为荣誉而战！](https://www.3dmgame.com/news/202408/3902927.html)
+
++ [CD Projket财报：《赛博朋克2077》为公司收入增长主要动力](https://www.3dmgame.com/news/202408/3902930.html)
+
++ [我国网民规模截至6月近11亿 互联网普及率达78.0%](https://www.3dmgame.com/news/202408/3902929.html)
+
++ [《冰汽时代2》官方模组工具宣传片 9月20日同步上线](https://www.3dmgame.com/news/202408/3902928.html)
+
++ [老外报道《黑神话》灵吉菩萨断头：暗讽西方偷盗中国文物](https://www.3dmgame.com/news/202408/3902926.html)
+
