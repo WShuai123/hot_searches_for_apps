@@ -337,3 +337,19 @@
 
 + [可爱橘猫+酷炫滑板，《哥里：可爱大灭绝》8月29日“萌”物来袭！](https://www.3dmgame.com/news/202408/3902954.html)
 
++ [《光与影：33号远征队》总监不想参与《最终幻想17》是否是回合制的讨论](https://www.3dmgame.com/news/202408/3902966.html)
+
++ [谷歌发布首个AI游戏引擎 可以实时生成个性游戏](https://www.3dmgame.com/news/202408/3902967.html)
+
++ [坤哥曝光PS5 Pro外观设计和细节信息 9月上旬正式公布](https://www.3dmgame.com/news/202408/3902965.html)
+
++ [黑神话悟空内置地图下载 全点位标记+传送游戏内小地图](https://www.3dmgame.com/news/202408/3902964.html)
+
++ [《被邻国王子溺爱的反派女主》Steam页面公布 不支持中文](https://www.3dmgame.com/news/202408/3902963.html)
+
++ [Shroud参与开发 创新FPS《Spectre Divide》9月4日发售](https://www.3dmgame.com/news/202408/3902962.html)
+
++ [《刺客信条：影》主菜单设计泄露 全红元素闪瞎玩家眼](https://www.3dmgame.com/news/202408/3902961.html)
+
++ [动作新游《SUPER SHAKING GIRL!!!》登陆PC/Switch](https://www.3dmgame.com/news/202408/3902960.html)
+

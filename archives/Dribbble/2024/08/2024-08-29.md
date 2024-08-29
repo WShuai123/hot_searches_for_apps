@@ -180,3 +180,25 @@ Case Study](https://dribbble.com/shots/)
 
 + [Pizza](https://dribbble.com/shots/)
 
++ [☎️????????????](https://dribbble.com/shots/)
+
++ [NexaPulse branding](https://dribbble.com/shots/)
+
++ [Permonk - elements](https://dribbble.com/shots/)
+
++ [Shop Signs](https://dribbble.com/shots/)
+
++ [3D Illustrations for OrderGrid.com](https://dribbble.com/shots/)
+
++ [Bird Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [MARIO - Personal Web Photography](https://dribbble.com/shots/)
+
++ [Viking Cat Logo](https://dribbble.com/shots/)
+
++ [Sunset](https://dribbble.com/shots/)
+
++ [FlickerFig Motion](https://dribbble.com/shots/)
+
++ [Ai startup](https://dribbble.com/shots/)
+
