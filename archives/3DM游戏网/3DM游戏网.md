@@ -105,3 +105,43 @@
 
 + [Epic喜加一：《辐射经典合集》、《Wild Card Football》免费](https://www.3dmgame.com/news/202408/3902989.html)
 
++ [《鸦卫奇旅》最新补丁修复本地化和多人游戏崩溃问题](https://www.3dmgame.com/news/202404/3893737.html)
+
++ [备受赞誉的肉鸽登山冒险游戏《孤山难越》PC平台二折促销！](https://www.3dmgame.com/news/202404/3893738.html)
+
++ [二战第一人称多人在线对战《人间地狱》现已发布更新15](https://www.3dmgame.com/news/202404/3893735.html)
+
++ [KK官方对战平台两大赛事嗨翻五一，海量现金道具等你来拿！](https://www.3dmgame.com/news/202404/3893724.html)
+
++ [《活侠传》将于6月19日发售](https://www.3dmgame.com/news/202404/3893707.html)
+
++ [《潜渊症》血色危机更新大幅提升游戏难度，怪物将更快地吞噬你](https://www.3dmgame.com/news/202404/3893734.html)
+
++ [《铁拳8》首次加入特卖行列！PlayStation Store及STEAM特卖活动同步展开！](https://www.3dmgame.com/news/202404/3893731.html)
+
++ [NS《深夏时光！二十世纪的暑假》：介绍本作舞台「艾草町」](https://www.3dmgame.com/news/202404/3893741.html)
+
++ [Adobe公布革命性新AI技术 视频清晰度可提升8倍](https://www.3dmgame.com/news/202404/3893729.html)
+
++ [《关于我转生变成史莱姆这档事 坦派斯特开拓谭》将于2024年8月8日登场！](https://www.3dmgame.com/news/202404/3893730.html)
+
++ [丝袜“美女”偷电动车 警方抓捕后发现是壮汉男扮女装](https://www.3dmgame.com/news/202404/3893728.html)
+
++ [《碧蓝幻想：Relink》版本更新ver 1.2.1上线 新角色新任务](https://www.3dmgame.com/news/202404/3893727.html)
+
++ [AMD下代显卡躺平!没有旗舰 也没有GDDR7显存](https://www.3dmgame.com/news/202404/3893725.html)
+
++ [动作游戏杰作 《KAGE～Shadow of The Ninja》2024年8月29日发售](https://www.3dmgame.com/news/202404/3893739.html)
+
++ [《侦探死神向你招手》5月25日登陆Steam 推理冒险新游](https://www.3dmgame.com/news/202404/3893732.html)
+
++ [NS《喧哗番长 乙女 Double Pack》角色介绍&发售日公开！7月25日重返高中生活](https://www.3dmgame.com/news/202404/3893740.html)
+
++ [精彩5月好物不断！全新训练家收藏礼盒以及更多宝可梦卡牌新品即将发售！](https://www.3dmgame.com/news/202404/3893733.html)
+
++ [三星Galaxy C55开启预售 搭载第一代骁龙7移动平台](https://www.3dmgame.com/news/202404/3893742.html)
+
++ [今冬发售！《星舰铳犬》全新宣传片 试玩已上架主机平台](https://www.3dmgame.com/news/202404/3893736.html)
+
++ [电影《转生成为了只有乙女游戏破灭结局的邪恶大小姐》将首登银幕](https://www.3dmgame.com/news/202404/3893723.html)
+

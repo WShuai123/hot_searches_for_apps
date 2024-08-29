@@ -143,3 +143,5 @@
 
 + [Arm 架构学习](https://blog.csdn.net/qq_41945053/article/details/141618365)
 
++ [Elasticsearch 回顾：向量搜索创新的时间线](https://blog.csdn.net/UbuntuTouch/article/details/141668994)
+
