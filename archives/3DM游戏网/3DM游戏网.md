@@ -381,3 +381,9 @@
 
 + [vivo发布Y36c手机：天玑6300，899元起售](https://www.3dmgame.com/news/202408/3902981.html)
 
++ [PS5要涨价 日本玩家疯狂抢购Xbox Series X](https://www.3dmgame.com/news/202408/3902985.html)
+
++ [三上真司：《怪物猎人》太受欢迎 《恐龙危机》已经没有了市场](https://www.3dmgame.com/news/202408/3902982.html)
+
++ [因种族问题“翻车”后 谷歌重新开放AI人像生成功能](https://www.3dmgame.com/news/202408/3902983.html)
+
