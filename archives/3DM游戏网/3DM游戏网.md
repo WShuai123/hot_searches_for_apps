@@ -387,3 +387,7 @@
 
 + [因种族问题“翻车”后 谷歌重新开放AI人像生成功能](https://www.3dmgame.com/news/202408/3902983.html)
 
++ [最经典的“神雕侠侣”！李若彤、古天乐晒合影](https://www.3dmgame.com/news/202408/3902986.html)
+
++ [B社表示专注《辐射76》不会影响《辐射5》的开发](https://www.3dmgame.com/news/202408/3902984.html)
+

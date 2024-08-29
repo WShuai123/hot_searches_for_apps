@@ -53,3 +53,9 @@
 
 + [国产大飞机首次身披五星红旗：国航首架 C919 飞抵北京，获民航最高礼仪“过水门”](https://m.ithome.com/html/791977.htm)
 
++ [小米全新米家吸顶灯套系开启预售：全光谱灯珠 / IP50 防尘，169 元起](https://m.ithome.com/html/791941.htm)
+
++ [消息称中国联通拉黑慧与、VMware，业务限制 2 年起](https://m.ithome.com/html/791930.htm)
+
++ [VERTU 纬图手机被指国产机换壳：参数一致外观相似，售价翻 10 倍](https://m.ithome.com/html/791908.htm)
+
