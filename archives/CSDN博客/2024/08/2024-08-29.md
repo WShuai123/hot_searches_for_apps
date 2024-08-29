@@ -137,3 +137,21 @@
 
 + [python自动化脚本：让工作自动化起来](https://blog.csdn.net/Python_00001/article/details/141607654)
 
++ [【机器学习】CNN在计算机视觉中的应用](https://blog.csdn.net/qq_44214428/article/details/141089189)
+
++ [数据在内存中的存储](https://blog.csdn.net/OKkankan/article/details/141535547)
+
++ [Spring八股文](https://blog.csdn.net/szchen2/article/details/141564368)
+
++ [linux文件——文件系统——文件系统深度理解、学习inode](https://blog.csdn.net/strive_mianyang/article/details/141650993)
+
++ [Python实时聊天室架构与API实战应用](https://blog.csdn.net/Explinks/article/details/141633521)
+
++ [[ACP云计算]易错题（原题）](https://blog.csdn.net/qq_35896718/article/details/141562147)
+
++ [redis 主从及哨兵搭建](https://blog.csdn.net/sinat_16493273/article/details/141645137)
+
++ [基于FPGA的SD卡的数据读写实现（SD NAND FLASH）](https://blog.csdn.net/m0_63168877/article/details/141561758)
+
++ [深入理解Redis（一）----Redis简介+Redis为什么这么快](https://blog.csdn.net/qq_24428851/article/details/141647659)
+

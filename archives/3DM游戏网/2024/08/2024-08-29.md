@@ -183,3 +183,73 @@
 
 + [展馆广告透露《罪恶装备：Strive》或将登陆Switch](https://www.3dmgame.com/news/202408/3902891.html)
 
++ [《潜行者：封锁区传奇三部曲》11月登陆任天堂Switch](https://www.3dmgame.com/news/202408/3902914.html)
+
++ [《星露谷物语》主机和移动端1.6更新仍在开发中 还需要更多时间](https://www.3dmgame.com/news/202408/3902915.html)
+
++ [《黎明杀机》衍生单机游戏《弗兰克·斯通的阴影》现已推出试玩版](https://www.3dmgame.com/news/202408/3902916.html)
+
++ [《盟军敢死队：起源》玩法概述预告 年内发售](https://www.3dmgame.com/news/202408/3902917.html)
+
++ [《跑酷对决》登陆Steam 40人在线街头竞速](https://www.3dmgame.com/news/202408/3902903.html)
+
++ [《贪婪之秋》开发商被指管理不善 回应指控：虚假诽谤](https://www.3dmgame.com/news/202408/3902905.html)
+
++ [《电锯甜心RePOP》11月登陆PS4和Xbox One 仅提供数字版](https://www.3dmgame.com/news/202408/3902906.html)
+
++ [《最终幻想14》总监吉田直树表示 SE将进一步加深与Xbox玩家的关系](https://www.3dmgame.com/news/202408/3902907.html)
+
++ [《inZOI》有3D打印功能：可将现实照片变成游戏内物品](https://www.3dmgame.com/news/202408/3902904.html)
+
++ [动作冒险游戏《权贵之地》现已正式发售 Steam平台已获好评](https://www.3dmgame.com/news/202408/3902908.html)
+
++ [库存零件耗尽 任天堂宣布停止New 3DS的维修服务](https://www.3dmgame.com/news/202408/3902909.html)
+
++ [经典新篇《魔神创造传》最新预告 2025年1月开播](https://www.3dmgame.com/news/202408/3902910.html)
+
++ [《战锤40K：星际战士2》“打造自己的游玩风格”预告 9月9日发售](https://www.3dmgame.com/news/202408/3902911.html)
+
++ [CODNext：《黑色行动6》僵尸模式全新详情公开](https://www.3dmgame.com/news/202408/3902912.html)
+
++ [《怪物猎人：荒野》花5年时间制作 因为卡普空想知道新粉丝要啥](https://www.3dmgame.com/news/202408/3902913.html)
+
++ [《羊肚菌：狩猎2》游戏性预告 现已正式推出](https://www.3dmgame.com/news/202404/3893858.html)
+
++ [《星刃》M站玩家评分8.9 动作流畅、主角可爱](https://www.3dmgame.com/news/202404/3893859.html)
+
++ [《赛马娘热血喧闹大感谢祭》8月30日发售](https://www.3dmgame.com/news/202404/3893860.html)
+
++ [极限滑雪新作《Tricky Madness》正式公开](https://www.3dmgame.com/news/202404/3893861.html)
+
++ [《真人快打1》公开恐怖反派DLC角色祖国人预告](https://www.3dmgame.com/news/202404/3893862.html)
+
++ [Nexon开发《权力的游戏》改编MMORPG曝光](https://www.3dmgame.com/news/202404/3893863.html)
+
++ [微软Xbox独占游戏登陆PlayStation大获成功](https://www.3dmgame.com/news/202404/3893864.html)
+
++ [《DOTA2》ESL One伯明翰站 Falcons 3:0 BB夺冠](https://www.3dmgame.com/news/202404/3893866.html)
+
++ [LucasArts前负责人马特谢尔去世 星战游戏关键人物](https://www.3dmgame.com/news/202404/3893867.html)
+
++ [《F1 24》游戏玩法深度介绍视频 改进空气动力学模型等多个细节](https://www.3dmgame.com/news/202404/3893868.html)
+
++ [《逃离塔科夫》就PVE模式引发的不满向玩家致歉](https://www.3dmgame.com/news/202404/3893869.html)
+
++ [曝卡普空在开发新作《后裔》 八尺夫人女儿演员出演配角](https://www.3dmgame.com/news/202404/3893865.html)
+
++ [传《JOJO的奇妙冒险：飙马野郎》即将迎来动画化](https://www.3dmgame.com/news/202404/3893870.html)
+
++ [《庄园领主》弓箭手太弱：发布前被大削 平衡需时间](https://www.3dmgame.com/news/202404/3893871.html)
+
++ [《五等分的花嫁》新作动画确定制作 原作者春场葱监修](https://www.3dmgame.com/news/202404/3893872.html)
+
++ [《刺猬索尼克》电影衍生剧集《纳克鲁斯》现已上线并推出实体版](https://www.3dmgame.com/news/202404/3893873.html)
+
++ [网易暴雪游戏运营团队辟谣：国服数据丢失等均为谣言](https://www.3dmgame.com/news/202404/3893874.html)
+
++ [锤哥《惊天营救3》电影正有序推进中](https://www.3dmgame.com/news/202404/3893875.html)
+
++ [《猩球崛起4：新世界》全新预告 多么美好的一天！](https://www.3dmgame.com/news/202404/3893876.html)
+
++ [前《全境封锁》总监对类塔科夫新作《Exoborne》很自信](https://www.3dmgame.com/news/202404/3893877.html)
+
