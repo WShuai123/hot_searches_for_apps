@@ -39,3 +39,7 @@
 
 + [英伟达员工自曝日常工作至凌晨 2:00，每天要参加 10 次会议](https://m.ithome.com/html/791865.htm)
 
++ [限地区直降 1800 元：魅族 21 Pro AI 手机 16+512GB 京东 3560 元新低](https://m.ithome.com/html/791856.htm)
+
++ [郭明錤：苹果明年新机仅 iPhone 17 Pro Max 配 12GB 内存，更强端侧 AI 为主要卖点](https://m.ithome.com/html/791915.htm)
+

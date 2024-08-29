@@ -193,3 +193,9 @@
 
 + [网络安全总结②](https://blog.csdn.net/qq_65150735/article/details/141501699)
 
++ [企业内部人员绩效|基于SprinBoot+vue的企业内部人员绩效量化系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/141672854)
+
++ [XDMA原理](https://blog.csdn.net/Starry__/article/details/141571967)
+
++ [无线通信-WIFI通信](https://blog.csdn.net/Lshuangye/article/details/141643781)
+

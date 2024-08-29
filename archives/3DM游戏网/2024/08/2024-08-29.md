@@ -353,3 +353,9 @@
 
 + [动作新游《SUPER SHAKING GIRL!!!》登陆PC/Switch](https://www.3dmgame.com/news/202408/3902960.html)
 
++ [《黑神话》全球爆火 韩网友竟称《西游记》作者是韩国人](https://www.3dmgame.com/news/202408/3902968.html)
+
++ [Meta正在开发混合现实MR眼镜：推出还要很多年](https://www.3dmgame.com/news/202408/3902969.html)
+
++ [《黑神话：悟空》Steam新更新上线 下调妙音数值强度](https://www.3dmgame.com/news/202408/3902970.html)
+
