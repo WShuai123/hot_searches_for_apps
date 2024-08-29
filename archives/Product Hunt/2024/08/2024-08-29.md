@@ -143,3 +143,13 @@
 
 + [Wayther](https://www.producthunt.com/posts/wayther)
 
++ [Grid-Feed](https://www.producthunt.com/posts/grid-feed)
+
++ [Cleft Notes](https://www.producthunt.com/posts/cleft-notes)
+
++ [Pickpockets Fanny Pack](https://www.producthunt.com/posts/pickpockets-fanny-pack)
+
++ [HackMD](https://www.producthunt.com/posts/hackmd-5)
+
++ [FretMap](https://www.producthunt.com/posts/fretmap)
+

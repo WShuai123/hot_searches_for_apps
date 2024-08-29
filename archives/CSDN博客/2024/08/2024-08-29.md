@@ -205,3 +205,13 @@
 
 + [数据库概述](https://blog.csdn.net/Jin_0612_/article/details/141602455)
 
++ [GaussDB 24.1.30 分布式3节点命令行方式部署](https://blog.csdn.net/GaussDB/article/details/141678136)
+
++ [Elasticsearch的部署和使用](https://blog.csdn.net/m0_50707445/article/details/141641742)
+
++ [计算机网络 - 应用层](https://blog.csdn.net/qq_62401119/article/details/141637748)
+
++ [【团队建设】前端编码规范](https://blog.csdn.net/qq_53673551/article/details/141676787)
+
++ [微信小程序开发--详情【开发一次 多端覆盖】](https://blog.csdn.net/m0_57030122/article/details/141650098)
+

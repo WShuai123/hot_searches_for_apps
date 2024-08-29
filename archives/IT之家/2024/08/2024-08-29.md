@@ -47,3 +47,9 @@
 
 + [百万粉丝汽车博主“闫闯”拒不履行致歉义务，特斯拉已向法院申请强制执行](https://m.ithome.com/html/791937.htm)
 
++ [小岛秀夫收到《黑神话：悟空》实体收藏版，连发三条开箱视频](https://m.ithome.com/html/792078.htm)
+
++ [M4 Pro / Max 芯片版 MacBook Pro 被曝本月量产，苹果 24H2 产能逐步恢复中](https://m.ithome.com/html/791852.htm)
+
++ [国产大飞机首次身披五星红旗：国航首架 C919 飞抵北京，获民航最高礼仪“过水门”](https://m.ithome.com/html/791977.htm)
+

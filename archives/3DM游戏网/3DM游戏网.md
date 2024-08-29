@@ -373,3 +373,9 @@
 
 + [日本孩子喜爱卡牌游戏新调查 《宝可梦卡牌》只排第三](https://www.3dmgame.com/news/202408/3902973.html)
 
++ [2024 VIDEO GAMES LIVE 魔兽世界音乐会 - 中国巡演！](https://www.3dmgame.com/news/202408/3902980.html)
+
++ [横版战斗武侠RPG《刀剑江湖路》9月19日EA发售 定价58元](https://www.3dmgame.com/news/202408/3902979.html)
+
++ [全新横板动作闯关游戏《锈兔异途》 发售延期至2025年](https://www.3dmgame.com/news/202408/3902978.html)
+
