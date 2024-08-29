@@ -253,3 +253,19 @@
 
 + [前《全境封锁》总监对类塔科夫新作《Exoborne》很自信](https://www.3dmgame.com/news/202404/3893877.html)
 
++ [《魔兽世界》11.0“地心之战”抢先试玩结束后上调小怪难度引玩家不满](https://www.3dmgame.com/news/202408/3902923.html)
+
++ [《黑神话》让人印象最深的女角 是蜘蛛精还是小狐狸？](https://www.3dmgame.com/news/202408/3902924.html)
+
++ [《铁血战士：劣地》电影已开拍 艾丽范宁主演](https://www.3dmgame.com/news/202408/3902922.html)
+
++ [《英雄传说：界之轨迹》PS5|PS4数字版预购开启 定价468港币](https://www.3dmgame.com/news/202408/3902920.html)
+
++ [《黑神话》大获成功 国外玩家开始期待《影之刃零》](https://www.3dmgame.com/news/202408/3902918.html)
+
++ [《哈利波特：魔法觉醒》将结束欧美运营 亚洲区等继续](https://www.3dmgame.com/news/202408/3902925.html)
+
++ [动视和微软被旗下工作室工会投诉：随意改变雇佣条款](https://www.3dmgame.com/news/202408/3902921.html)
+
++ [《上古卷轴5》高玩打造新MOD 玩家说话秒变游戏台词](https://www.3dmgame.com/news/202408/3902919.html)
+
