@@ -135,3 +135,21 @@
 
 + [Domingo Ninja](https://dribbble.com/shots/)
 
++ [Fox mark](https://dribbble.com/shots/)
+
++ [LEMONADE GANG](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Nomad Outdoor: Full Preview](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Aging in Place](https://dribbble.com/shots/)
+
++ [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+

@@ -145,3 +145,25 @@
 
 + [电影《转生成为了只有乙女游戏破灭结局的邪恶大小姐》将首登银幕](https://www.3dmgame.com/news/202404/3893723.html)
 
++ [《战锤40K：星际战士2》新预告片：“死亡天使”](https://www.3dmgame.com/news/202408/3902999.html)
+
++ [中国出了登顶全球的游戏 有人这么不开心吗](https://www.3dmgame.com/news/202408/3903000.html)
+
++ [开启全新冒险《圣剑传说Visions of Mana》正式发售](https://www.3dmgame.com/news/202408/3902997.html)
+
++ [《哥特王朝：重制版》科隆展10分钟实机精彩演示](https://www.3dmgame.com/news/202408/3902998.html)
+
++ [《战锤40K：星际战士2》跨平台游戏/PVP详解](https://www.3dmgame.com/news/202408/3902996.html)
+
++ [IGN：《黑神话：悟空》Xbox版延期是因为索尼独占协议 而非技术问题](https://www.3dmgame.com/news/202408/3902995.html)
+
++ [《NBA 2K25》新预告展示全新设计城市玩法](https://www.3dmgame.com/news/202408/3902994.html)
+
++ [《战锤40K：星际战士2》PS5/XSX支持4K/30FPS和1080P/60FPS](https://www.3dmgame.com/news/202408/3903001.html)
+
++ [Annapurna和Remedy达成战略合作 资助《控制2》并将《心灵杀手》、《控制》改编成影视剧](https://www.3dmgame.com/news/202408/3902993.html)
+
++ [《无限试驾：太阳王冠》首年更新计划内容丰富](https://www.3dmgame.com/news/202408/3902992.html)
+
++ [坂口博信称初代《最终幻想》完成度最高](https://www.3dmgame.com/news/202408/3902991.html)
+

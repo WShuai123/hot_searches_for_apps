@@ -145,3 +145,9 @@
 
 + [Elasticsearch 回顾：向量搜索创新的时间线](https://blog.csdn.net/UbuntuTouch/article/details/141668994)
 
++ [#Datawhale #AI夏令营 #针对城市管理中违规行为的智能识别系统——YOLO解决方案 (2)](https://blog.csdn.net/m0_71844088/article/details/141687258)
+
++ [网络安全毕业实习实训Day3 总结](https://blog.csdn.net/m0_62993379/article/details/141665035)
+
++ [机器人Rviz+matlab仿真详细步骤，从solidworks到urdf以及机器人编程控制，以ER50-C20为例](https://blog.csdn.net/CapRogers1/article/details/141679177)
+
