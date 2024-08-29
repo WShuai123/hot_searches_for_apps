@@ -175,3 +175,9 @@
 
 + [大数据-106 Spark Graph X 计算学习 案例：1图的基本计算、2连通图算法、3寻找相同的用户](https://blog.csdn.net/w776341482/article/details/141630333)
 
++ [能大致讲一下Chat GPT的原理吗？](https://blog.csdn.net/wly476923083/article/details/141372011)
+
++ [Arm 架构学习](https://blog.csdn.net/qq_41945053/article/details/141618365)
+
++ [【搜索引擎】ElasticSearch 8.x版本](https://blog.csdn.net/weixin_43916081/article/details/141600793)
+
