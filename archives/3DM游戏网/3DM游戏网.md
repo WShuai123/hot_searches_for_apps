@@ -325,3 +325,15 @@
 
 + [《少年的终结》发布全新主视觉图及售价调整预告](https://www.3dmgame.com/news/202408/3902949.html)
 
++ [《Blazing Strike》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202408/3902959.html)
+
++ [天命人集结！《黑神话：悟空》引旅游热 山西景区比过年还热闹](https://www.3dmgame.com/news/202408/3902958.html)
+
++ [《蓝色协议》关服前路线图公开：每月发放游戏内补偿](https://www.3dmgame.com/news/202408/3902957.html)
+
++ [开发世界《Botworld Odyssey》Steam页面开放 10月24日发售](https://www.3dmgame.com/news/202408/3902956.html)
+
++ [日恐名作《钟楼复刻版》10月登陆主机 PC版未定](https://www.3dmgame.com/news/202408/3902955.html)
+
++ [可爱橘猫+酷炫滑板，《哥里：可爱大灭绝》8月29日“萌”物来袭！](https://www.3dmgame.com/news/202408/3902954.html)
+

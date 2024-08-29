@@ -181,3 +181,11 @@
 
 + [【搜索引擎】ElasticSearch 8.x版本](https://blog.csdn.net/weixin_43916081/article/details/141600793)
 
++ [【Python系列】Jinja2 模板引擎](https://blog.csdn.net/qyj19920704/article/details/141653290)
+
++ [SQL慢查询优化方式](https://blog.csdn.net/qq_36451127/article/details/141631078)
+
++ [python办公自动化：使用`Python-PPTX`创建和保存演示文稿](https://blog.csdn.net/imdeity/article/details/141609376)
+
++ [基于xr-frame实现微信小程序的人脸识别3D模型叠加AR功能（含源码）](https://blog.csdn.net/qq_33789001/article/details/141639335)
+

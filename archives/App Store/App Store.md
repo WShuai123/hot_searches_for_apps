@@ -211,3 +211,5 @@
 
 + [心悦俱乐部-和平精英王者荣耀礼包领取平台](https://itunes.apple.com/cn/app/id1156439976?mt=8)
 
++ [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
+
