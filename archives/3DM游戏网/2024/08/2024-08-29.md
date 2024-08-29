@@ -159,3 +159,27 @@
 
 + [好评独立游戏《去月球》将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202408/3902887.html)
 
++ [《星刃》续作将使用虚幻5引擎开发 让画面效果更酷](https://www.3dmgame.com/news/202408/3902902.html)
+
++ [《第一后裔》新后裔海莉预告 狙击手无情消灭敌人](https://www.3dmgame.com/news/202408/3902901.html)
+
++ [《宣誓》美术总监：XSX跑这款游戏经常比PC好](https://www.3dmgame.com/news/202408/3902900.html)
+
++ [《黑神话：悟空》狐狸精萍萍模型被成功提取](https://www.3dmgame.com/news/202408/3902899.html)
+
++ [《宇宙机器人》不会登陆PSVR2 但可能移植到PC](https://www.3dmgame.com/news/202408/3902898.html)
+
++ [末世日本巨兽冒险游戏《恐龙》发布首支实机预告](https://www.3dmgame.com/news/202408/3902897.html)
+
++ [传Bungie《马拉松》前总监被解雇 因女员工举报骚扰](https://www.3dmgame.com/news/202408/3902896.html)
+
++ [汉仪《黑神话：悟空》定制字体预计年底上线](https://www.3dmgame.com/news/202408/3902895.html)
+
++ [《宇宙机器人》谈潜在PC版：我们想听听玩家的意见](https://www.3dmgame.com/news/202408/3902894.html)
+
++ [科乐美谈《合金装备4》登陆现代平台：敬请关注](https://www.3dmgame.com/news/202408/3902893.html)
+
++ [CDPR确认《巫师 4》即将进入全面制作阶段](https://www.3dmgame.com/news/202408/3902892.html)
+
++ [展馆广告透露《罪恶装备：Strive》或将登陆Switch](https://www.3dmgame.com/news/202408/3902891.html)
+
