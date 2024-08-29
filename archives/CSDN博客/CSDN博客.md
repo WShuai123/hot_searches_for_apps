@@ -199,3 +199,9 @@
 
 + [无线通信-WIFI通信](https://blog.csdn.net/Lshuangye/article/details/141643781)
 
++ [短视频流量|基于SprinBoot+vue的短视频流量数据分析系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/141672499)
+
++ [计算思维：串行、并行、分布式云计算、GPU](https://blog.csdn.net/ChaoMing_H/article/details/141650492)
+
++ [数据库概述](https://blog.csdn.net/Jin_0612_/article/details/141602455)
+

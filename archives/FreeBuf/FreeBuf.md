@@ -59,3 +59,7 @@
 
 + [安恒信息2024半年报：营收6.98亿元，亏损2.76亿](https://www.freebuf.com/articles/neopoints/409711.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+
++ [CrowdStrike在财报电话会上详细说明719蓝屏事件后的安全改进措施](https://www.freebuf.com/news/409805.html)
+

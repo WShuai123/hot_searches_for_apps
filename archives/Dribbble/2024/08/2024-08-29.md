@@ -204,3 +204,19 @@ Case Study](https://dribbble.com/shots/)
 
 + [Slow Progress Over No Progress (Poster)](https://dribbble.com/shots/)
 
++ [Movie Streaming Website Concept](https://dribbble.com/shots/)
+
++ [BordUp - HR Dashboard Components](https://dribbble.com/shots/)
+
++ [Screen Time Mobile App: animation](https://dribbble.com/shots/)
+
++ [Geometric Eagle Logo](https://dribbble.com/shots/)
+
++ [ZKVPN - Teaser - Crypto](https://dribbble.com/shots/)
+
++ [<Sign In />](https://dribbble.com/shots/)
+
++ [AI Logo](https://dribbble.com/shots/)
+
++ [Beautiful Woman Logo](https://dribbble.com/shots/)
+

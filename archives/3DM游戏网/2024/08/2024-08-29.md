@@ -359,3 +359,17 @@
 
 + [《黑神话：悟空》Steam新更新上线 下调妙音数值强度](https://www.3dmgame.com/news/202408/3902970.html)
 
++ [华为推出128TB大容量SSD 相同空间实现10倍容量提升](https://www.3dmgame.com/news/202408/3902977.html)
+
++ [《黑神话：悟空》壁纸级截图：迷人风景 绝美四妹](https://www.3dmgame.com/news/202408/3902974.html)
+
++ [猛鬼大厦前作《都市傳說外賣》Steam页面 发售日待定](https://www.3dmgame.com/news/202408/3902975.html)
+
++ [摩尔线程发布《黑神话》优化驱动 帧率提升超110%](https://www.3dmgame.com/news/202408/3902976.html)
+
++ [暴雪中国：“网易起诉暴雪一审获胜”不属实 该案未进入一审实质审理阶段](https://www.3dmgame.com/news/202408/3902971.html)
+
++ [《龙腾世纪4》男人面孔NPC竟然是女性 很好很正确](https://www.3dmgame.com/news/202408/3902972.html)
+
++ [日本孩子喜爱卡牌游戏新调查 《宝可梦卡牌》只排第三](https://www.3dmgame.com/news/202408/3902973.html)
+

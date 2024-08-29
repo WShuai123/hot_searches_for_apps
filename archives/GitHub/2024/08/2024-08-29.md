@@ -29,3 +29,23 @@
 
 + [Fooyao / web3Task](https://github.com/Fooyao/web3Task)
 
++ [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
+
++ [krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)
+
++ [cemu-project / Cemu](https://github.com/cemu-project/Cemu)
+
++ [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [dokku / dokku](https://github.com/dokku/dokku)
+
++ [dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
++ [THUDM / CogVideo](https://github.com/THUDM/CogVideo)
+
++ [facebook / folly](https://github.com/facebook/folly)
+
++ [nocodb / nocodb](https://github.com/nocodb/nocodb)
+
++ [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
