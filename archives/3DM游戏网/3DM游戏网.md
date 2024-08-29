@@ -379,3 +379,5 @@
 
 + [全新横板动作闯关游戏《锈兔异途》 发售延期至2025年](https://www.3dmgame.com/news/202408/3902978.html)
 
++ [vivo发布Y36c手机：天玑6300，899元起售](https://www.3dmgame.com/news/202408/3902981.html)
+
