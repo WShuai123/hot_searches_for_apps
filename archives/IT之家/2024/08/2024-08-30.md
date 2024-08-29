@@ -25,3 +25,5 @@
 
 + [苹果 iOS / iPadOS 18 开发者预览版 Beta 8 发布](https://m.ithome.com/html/791872.htm)
 
++ [华为 2024 上半年销售收入 4175 亿元，同比增长 34.3%](https://m.ithome.com/html/792048.htm)
+

@@ -101,3 +101,35 @@
 
 + [CSS中的align-content属性：实现垂直居中的新方式](https://blog.csdn.net/weixin_45274678/article/details/141630325)
 
++ [基于IM6ULL的车载终端系统（Qt）](https://blog.csdn.net/2301_77191797/article/details/141681226)
+
++ [写代码切忌过度设计](https://blog.csdn.net/hebtu666/article/details/141677596)
+
++ [【python】PyQt5中富文本框QTextEdit的详细教程与应用实战](https://blog.csdn.net/littlefun591/article/details/141642609)
+
++ [灵办AI搜索引擎和文档总结工具](https://blog.csdn.net/jxjdhdnd/article/details/141604336)
+
++ [【机器学习】探秘图像处理与分类：运用C++结合OpenCV实现智能视觉识别技术](https://blog.csdn.net/qq_57761637/article/details/141531732)
+
++ [外包干了两年，快要废了。。。](https://blog.csdn.net/zhangsiyuan1998/article/details/141608242)
+
++ [IntelliJ IDEA使用内网穿透工具配置的公网地址远程连接本地MySQL](https://blog.csdn.net/weixin_74888502/article/details/141682724)
+
++ [Datawhale AI 夏令营 - CV：物体检测算法 YOLO](https://blog.csdn.net/yuyulyu/article/details/141689959)
+
++ [Linux 软件包管理器yum 自动化构建工具-make/makefile](https://blog.csdn.net/2301_80122797/article/details/141639745)
+
++ [基于yolov8的麦穗计数系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141639532)
+
++ [华为AC旁挂二层组网配置详解：从DHCP部署到无线业务配置，完成网络搭建](https://blog.csdn.net/Richardlygo/article/details/141637906)
+
++ [uni-app插槽(默认插槽,命名插槽,作用域插槽)](https://blog.csdn.net/a1241436267/article/details/141652225)
+
++ [Python实时聊天室架构与API实战应用](https://blog.csdn.net/Explinks/article/details/141633521)
+
++ [无线通信-WIFI通信](https://blog.csdn.net/Lshuangye/article/details/141643781)
+
++ [【实现100个unity特效之28】皮毛shader着色器 实现可以用动的毛茸茸毛绒绒效果](https://blog.csdn.net/qq_36303853/article/details/141506121)
+
++ [高级MySQL数据库备份脚本](https://blog.csdn.net/qq_29864051/article/details/141624970)
+

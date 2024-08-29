@@ -101,3 +101,7 @@
 
 + [《星际战士2》开发者：很多游戏都受《战锤40K》启发](https://www.3dmgame.com/news/202408/3902938.html)
 
++ [恋爱模拟《Eternights》宣布登陆NS Steam特别好评](https://www.3dmgame.com/news/202408/3902990.html)
+
++ [Epic喜加一：《辐射经典合集》、《Wild Card Football》免费](https://www.3dmgame.com/news/202408/3902989.html)
+
