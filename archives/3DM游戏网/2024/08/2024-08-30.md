@@ -249,3 +249,17 @@
 
 + [《黑神话》发售10天 Steam最高在线数首次不足150万](https://www.3dmgame.com/news/202408/3903038.html)
 
++ [西山居CEO谈剑网3如何保持吸引力 好的故事内核很重要](https://www.3dmgame.com/news/202408/3903048.html)
+
++ [“TRIBE NINE” 全球 β 封测问卷结果与游戏数据大公开！](https://www.3dmgame.com/news/202408/3903046.html)
+
++ [外媒Gamersrd打3分差评《星球大战：亡命之徒》：不如玩《黑神话：悟空》](https://www.3dmgame.com/news/202408/3903047.html)
+
++ [《仙剑世界》年内正式上线 黑神话成功增强了他们信心](https://www.3dmgame.com/news/202408/3903049.html)
+
++ [《神之浩劫2》开发商CEO发文怒怼T2 用R星Logo四处碰瓷要钱](https://www.3dmgame.com/news/202408/3903043.html)
+
++ [SnailgameUSA发行商特卖活动开启，《方块方舟》史低29元](https://www.3dmgame.com/news/202408/3903044.html)
+
++ [冰汽时代2模组工具即将在游戏发布时推出!](https://www.3dmgame.com/news/202408/3903045.html)
+
