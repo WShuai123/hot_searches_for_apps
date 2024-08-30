@@ -101,3 +101,11 @@
 
 + [博主偷取多部知名小说喂AI 晋江文学城：无耻嚣张侵权](https://www.3dmgame.com/news/202408/3903070.html)
 
++ [外媒评《黑神话：悟空》BOSS难度TOP10 杨戬当仁不让](https://www.3dmgame.com/news/202408/3903081.html)
+
++ [《宇宙机器人》新预告 9月6日登陆PS5](https://www.3dmgame.com/news/202408/3903078.html)
+
++ [《崩坏：星穹铁道》2.5版本PV 游戏9月10日上线](https://www.3dmgame.com/news/202408/3903079.html)
+
++ [中世纪题材《天国：拯救》新史低促销 仅售11元](https://www.3dmgame.com/news/202408/3903080.html)
+

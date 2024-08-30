@@ -129,3 +129,9 @@
 
 + [运算放大器的经典应用电路](https://blog.csdn.net/Xuexi_touteng/article/details/141672119)
 
++ [SQL数据库教案](https://blog.csdn.net/liu17234050/article/details/141716139)
+
++ [spring boot 自动装配原理](https://blog.csdn.net/weixin_62371118/article/details/141637551)
+
++ [基于yolov8的行人跌倒检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141681468)
+
