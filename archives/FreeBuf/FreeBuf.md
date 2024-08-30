@@ -55,3 +55,5 @@
 
 + [FreeBuf早报 | 45台自动售卖机中40台索取个人信息；CrowdStrike与英伟达宣布合作](https://www.freebuf.com/news/409760.html)
 
++ [启明星辰2024半年报：营收15.74亿，亏损1.82亿](https://www.freebuf.com/news/409840.html)
+

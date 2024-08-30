@@ -191,3 +191,39 @@
 
 + [粉丝不要试图影响《巫师4》故事和玩法 CDPR不会听你的](https://www.3dmgame.com/news/202408/3903006.html)
 
++ [《秋之回忆 双想 Not always true》宣布延期至2025年 将推出中文版](https://www.3dmgame.com/news/202408/3903031.html)
+
++ [《宇宙机器人》全奖杯泄露 白金描述暗示后续新作](https://www.3dmgame.com/news/202408/3903026.html)
+
++ [彭博社：网易和腾讯正在削减对日游戏投资 网易将关闭樱花工作室](https://www.3dmgame.com/news/202408/3903027.html)
+
++ [瑞典支付巨头Klarna计划裁掉一半员工 靠AI维系](https://www.3dmgame.com/news/202408/3903028.html)
+
++ [游戏速通大会GDQ现已易主：创始人离职运营总监接任](https://www.3dmgame.com/news/202408/3903029.html)
+
++ [《侏罗纪世界：重生》首爆剧照 斯嘉丽·约翰逊主演 定于2025年7月上映](https://www.3dmgame.com/news/202408/3903030.html)
+
++ [《宇宙机器人》将在发售后提供免费DLC更新 添加新关卡](https://www.3dmgame.com/news/202408/3903015.html)
+
++ [《黑神话》Steam全球销量超1600万份 太火爆了！](https://www.3dmgame.com/news/202408/3903014.html)
+
++ [《战锤40K：星际战士2》全球解锁时间公布：主机早几小时](https://www.3dmgame.com/news/202408/3903016.html)
+
++ [《暗喻幻想》“ATLUS Exclusive《暗喻幻想：ReFantazio》巡游世界篇”现已发布](https://www.3dmgame.com/news/202408/3903017.html)
+
++ [电影《变形金刚：起源》国内定档 9月27日上映](https://www.3dmgame.com/news/202408/3903018.html)
+
++ [《暗黑4》85%玩家选择单刷 暴雪想提升多人游戏体验](https://www.3dmgame.com/news/202408/3903019.html)
+
++ [《炉石传说》国服预约开启 更多回归奖励公布](https://www.3dmgame.com/news/202408/3903020.html)
+
++ [育碧要求《不羁联盟》开发团队必须增加玩家数量](https://www.3dmgame.com/news/202408/3903021.html)
+
++ [《生化危机》系列iOS版强制联网引争议：这太糟糕了](https://www.3dmgame.com/news/202408/3903022.html)
+
++ [店铺管理模拟游戏《Stock the Shelves》Steam页面开放 年内发售](https://www.3dmgame.com/news/202408/3903023.html)
+
++ [《变形金刚：起源》定档9月27日 重返英雄起源打开新世界大门](https://www.3dmgame.com/news/202408/3903024.html)
+
++ [卡牌对战要素策略塔防游戏《奥术战团》现已在Steam平台正式发售 并获好评](https://www.3dmgame.com/news/202408/3903025.html)
+

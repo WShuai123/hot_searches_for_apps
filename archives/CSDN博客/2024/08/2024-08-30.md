@@ -163,3 +163,11 @@
 
 + [Langchain框架中的Agents全解析：类型、工具与自定义实践](https://blog.csdn.net/m0_48173416/article/details/141268819)
 
++ [【人工智能】Transformers之Pipeline（十三）：填充蒙版（fill-mask）](https://blog.csdn.net/weixin_48007632/article/details/141605309)
+
++ [数据库（专业存储数据）](https://blog.csdn.net/m0_71459026/article/details/141672318)
+
++ [sqlite3数据库](https://blog.csdn.net/2301_78040391/article/details/141687627)
+
++ [【数学建模】国赛论文写作教学——问题重述与分析](https://blog.csdn.net/kstt20230206/article/details/141670812)
+
