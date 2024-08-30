@@ -115,3 +115,21 @@
 
 + [GearLeaf  Eco-Tech, logo ????⚙️](https://dribbble.com/shots/)
 
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
++ [Flower ???? District](https://dribbble.com/shots/)
+
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
++ [Tin Fish Can Design](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
++ [chomp script](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+

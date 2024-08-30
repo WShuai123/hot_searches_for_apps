@@ -109,3 +109,23 @@
 
 + [CSRF 概念及防护机制](https://blog.csdn.net/qiongjingpang9161/article/details/141636444)
 
++ [Spring Boot 八股文](https://blog.csdn.net/szchen2/article/details/141678198)
+
++ [Spring boot之自动装配](https://blog.csdn.net/qq_40921573/article/details/141690050)
+
++ [Mysql剖析(四)----Mysql的行锁、表锁、间隙锁详解](https://blog.csdn.net/weixin_52466601/article/details/141642489)
+
++ [企业级环境部署：在 Linux 服务器上如何搭建和部署 Python 环境？](https://blog.csdn.net/sdgfafg_25/article/details/141669094)
+
++ [嵌入式学习——ARM学习（2）——汇编学习](https://blog.csdn.net/qq_37193153/article/details/141644506)
+
++ [网络爬虫--生成假数据](https://blog.csdn.net/m0_46977298/article/details/141638910)
+
++ [【Python系列】signal信号处理](https://blog.csdn.net/qyj19920704/article/details/141686760)
+
++ [群晖NAS本地使用Docker搭建Home Assistant智能家居平台与远程访问](https://blog.csdn.net/m0_70980326/article/details/141684502)
+
++ [axios](https://blog.csdn.net/m0_63178019/article/details/141681664)
+
++ [运算放大器的经典应用电路](https://blog.csdn.net/Xuexi_touteng/article/details/141672119)
+
