@@ -167,3 +167,11 @@
 
 + [坂口博信称初代《最终幻想》完成度最高](https://www.3dmgame.com/news/202408/3902991.html)
 
++ [CDPR确定更多《赛博朋克》动画项目在准备中](https://www.3dmgame.com/news/202408/3903005.html)
+
++ [《星球大战：亡命之徒》PS5/Xbox/PC对比视频 谁更强？](https://www.3dmgame.com/news/202408/3903004.html)
+
++ [海量大型改动！《暗黑4》2.0版本PTR一览 符文之语加入](https://www.3dmgame.com/news/202408/3903003.html)
+
++ [扳机社打造《变形金刚》40周年动画特辑即将公布](https://www.3dmgame.com/news/202408/3903002.html)
+

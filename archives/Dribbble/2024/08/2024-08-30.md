@@ -153,3 +153,13 @@
 
 + [Seated Character](https://dribbble.com/shots/)
 
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [St. Jory (Winery) - Tryptic 1/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
+
++ [Sign in – SimpleSocial](https://dribbble.com/shots/)
+
++ [Knead That Dough Brand Identity](https://dribbble.com/shots/)
+
++ [AR Reactor Training App: A Safe Way to Practice Dangerous Things](https://dribbble.com/shots/)
+

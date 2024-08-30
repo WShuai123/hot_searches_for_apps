@@ -67,3 +67,9 @@
 
 + [傲慢舞](http://www.acfun.cn/v/ac46180894)
 
++ [恋爱水族馆 有海腾和虎鲸版](http://www.acfun.cn/v/ac46177752)
+
++ [我在日本街机厅打《铁拳8》网战](http://www.acfun.cn/v/ac46181343)
+
++ [20240829羊羔讲古队之火箭炮](http://www.acfun.cn/v/ac46181429)
+
