@@ -65,3 +65,11 @@
 
 + [小鹏 MONA M03 上市 48 小时大定突破 30000 台，今日开启首批交付](https://m.ithome.com/html/792183.htm)
 
++ [主办方回应真人冒充仿生机器人与观众互动：非参展企业邀请](https://m.ithome.com/html/792391.htm)
+
++ [香港金管局：因管控制度不健全，对 WeChat Pay Hong Kong Limited 处以 87.5 万港元罚款](https://m.ithome.com/html/792365.htm)
+
++ [交流群现“小鹏 MONA M03 一口价 8.98 万”传言，当事自媒体 MetaAuto 致歉、小鹏法务部称将追责](https://m.ithome.com/html/792175.htm)
+
++ [阿里《如鸢》自称遭恶意举报：将进行固证并保留追究法律责任的权利](https://m.ithome.com/html/792138.htm)
+
