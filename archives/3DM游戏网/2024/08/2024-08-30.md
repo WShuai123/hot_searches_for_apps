@@ -311,3 +311,45 @@
 
 + [微星Claw 8 AI+掌机规格曝光 配备更大的屏幕和电池](https://www.3dmgame.com/news/202408/3903072.html)
 
++ [任天堂将于4月17日晚10点举行独立游戏发布会](https://www.3dmgame.com/news/202404/3892899.html)
+
++ [DeepMind CEO：谷歌将在AI上投入超过1000亿美元](https://www.3dmgame.com/news/202404/3892898.html)
+
++ [消息称部分特斯拉员工到达工厂才知道自己被解雇](https://www.3dmgame.com/news/202404/3892897.html)
+
++ [暴雪国服已确定回归 网易开启大规模招兵买马](https://www.3dmgame.com/news/202404/3892886.html)
+
++ [传闻：《黑手党4》或将很快公布 三至四周](https://www.3dmgame.com/news/202404/3892904.html)
+
++ [《冰汽时代2》PC配置公开 推荐2060 Super](https://www.3dmgame.com/news/202404/3892895.html)
+
++ [《真·女神转生Ⅴ Vengeance》 介绍新舞台“达识：新宿区”](https://www.3dmgame.com/news/202404/3892894.html)
+
++ [XGP四月下旬新增游戏阵容 《庄园领主》《百英雄传》等](https://www.3dmgame.com/news/202404/3892902.html)
+
++ [《世界海龟》登陆Steam 巨大龟背建设经营](https://www.3dmgame.com/news/202404/3892890.html)
+
++ [小米把100英寸电视杀到8999元！98英寸都不香了](https://www.3dmgame.com/news/202404/3892891.html)
+
++ [金山WPS被曝无限套娃式收费！客服回应：会记录 可以留意后续优化](https://www.3dmgame.com/news/202404/3892889.html)
+
++ [余承东回应华为Pura 70何时开售 被网友发现秘密：4月18日P系列12周年](https://www.3dmgame.com/news/202404/3892888.html)
+
++ [《侠探杰克》主演：感觉像“美版007” 角色有些过时](https://www.3dmgame.com/news/202404/3892887.html)
+
++ [《巫师3》官方MOD编辑器REDkit现已开放抢先体验](https://www.3dmgame.com/news/202404/3892900.html)
+
++ [“ATLUS Exclusive《暗喻幻想：ReFantazio》”特别节目4月23日直播！](https://www.3dmgame.com/news/202404/3892892.html)
+
++ [《哈罗德·哈利巴》正式发售 首发特惠108元](https://www.3dmgame.com/news/202404/3892901.html)
+
++ [百度三大AI开发神器亮相 李彦宏：会说话就能成开发者](https://www.3dmgame.com/news/202404/3892893.html)
+
++ [被禁售的NVIDIA GPU卡惊现中国！从未见过的96GB内存](https://www.3dmgame.com/news/202404/3892903.html)
+
++ [《变形金刚：起源》电影 “锤哥”将为擎天柱配音](https://www.3dmgame.com/news/202404/3892896.html)
+
++ [Steam最新一周销量榜 《绝地潜兵2》三连冠](https://www.3dmgame.com/news/202404/3892885.html)
+
++ [LG宣布量产27英寸QHD@480Hz游戏OLED面板 以高端游戏市场为目标](https://www.3dmgame.com/news/202408/3903074.html)
+
