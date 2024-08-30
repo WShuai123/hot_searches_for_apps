@@ -175,3 +175,19 @@
 
 + [扳机社打造《变形金刚》40周年动画特辑即将公布](https://www.3dmgame.com/news/202408/3903002.html)
 
++ [角斗士管理模拟游戏《Gladiators of Citadelum》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3903013.html)
+
++ [“四人合作死亡搁浅”《永恒寒冬》9月开启抢先体验](https://www.3dmgame.com/news/202408/3903012.html)
+
++ [平台动作射击游戏《机器双雄》 现已在Steam平台正式推出 并获得好评](https://www.3dmgame.com/news/202408/3903011.html)
+
++ [《寓言之地》宣布9月12日登陆主机平台 定价25美元](https://www.3dmgame.com/news/202408/3903008.html)
+
++ [冒险游戏《勇敢小骑士》预告 9月17日发售](https://www.3dmgame.com/news/202408/3903010.html)
+
++ [育碧就《星球大战：亡命之徒》PS5版本更新后重开存档问题道歉 并提供补偿](https://www.3dmgame.com/news/202408/3903009.html)
+
++ [费心了！《天国：拯救2》剧本字数超过200万字](https://www.3dmgame.com/news/202408/3903007.html)
+
++ [粉丝不要试图影响《巫师4》故事和玩法 CDPR不会听你的](https://www.3dmgame.com/news/202408/3903006.html)
+

@@ -31,3 +31,5 @@
 
 + [消息称华为鸿蒙 HarmonyOS NEXT 系统“自由流转”分跨端迁移、多端协同](https://m.ithome.com/html/792129.htm)
 
++ [索尼 PS5 Pro 设计曝光：比 PS5 Slim 略厚，最快 9 月发布](https://m.ithome.com/html/792092.htm)
+

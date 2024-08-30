@@ -45,3 +45,13 @@
 
 + [2024年加密货币犯罪报告：勒索软件攻击者越来越利用社会工程学](https://www.freebuf.com/articles/neopoints/408911.html)
 
++ [攻击者冒充VPN提供商对员工发起攻击，超130家公司已“中招”](https://www.freebuf.com/news/409821.html)
+
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
++ [2024中国数据安全企业全景图产品征集说明](https://www.freebuf.com/news/409772.html)
+
++ [深入分析Apache OFBiz 远程命令执行漏洞0day(CVE-2024-38856)](https://www.freebuf.com/vuls/408087.html)
+
++ [FreeBuf早报 | 45台自动售卖机中40台索取个人信息；CrowdStrike与英伟达宣布合作](https://www.freebuf.com/news/409760.html)
+
