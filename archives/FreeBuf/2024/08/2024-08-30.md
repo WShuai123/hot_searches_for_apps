@@ -61,3 +61,5 @@
 
 + [LavaDome：一款基于ShadowDOM的DOM树安全隔离与封装工具](https://www.freebuf.com/sectool/409098.html)
 
++ [奇安信2024半年报：营收17.83亿，亏损8.2亿](https://www.freebuf.com/articles/neopoints/409852.html)
+

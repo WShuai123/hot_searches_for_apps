@@ -53,3 +53,9 @@
 
 + [腾讯《王者荣耀》手游 S37 赛季匹配算法优化，排位金牌玩家对局失败不掉星](https://m.ithome.com/html/792118.htm)
 
++ [比亚迪王朝网首款 MPV“夏”发布：第五代 DM 混动技术，30 万级 / 年内上市](https://m.ithome.com/html/792274.htm)
+
++ [朝代之首：比亚迪王朝网全新车型 IP“夏”发布](https://m.ithome.com/html/792264.htm)
+
++ [科技昨夜今晨 0830：曝 iPhone 17 Pro Max 升级 12GB 内存；华为上半年销售收入 4175 亿元同比增长 34.3%；多个热门盗版网站集体关停](https://m.ithome.com/html/792157.htm)
+
