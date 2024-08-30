@@ -183,3 +183,9 @@
 
 + [有哪些内部知识库类似钉钉，满足企业多样化需求？](https://blog.csdn.net/2301_78368467/article/details/141645832)
 
++ [基于（Linux）IM6ULL开发板的车载终端系统（Qt开发）](https://blog.csdn.net/2301_77191797/article/details/141681226)
+
++ [基于 ASP.NET的教材管理信息系统的设计与实现（最新定制开发，阿龙原创设计）✅](https://blog.csdn.net/m0_64148096/article/details/141679828)
+
++ [【网络安全】漏洞挖掘](https://blog.csdn.net/anquan2233/article/details/141678960)
+

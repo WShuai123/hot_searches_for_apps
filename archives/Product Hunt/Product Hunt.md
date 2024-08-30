@@ -127,3 +127,23 @@
 
 + [Bigcapital](https://www.producthunt.com/posts/bigcapital)
 
++ [Nail Your Niche](https://www.producthunt.com/posts/nail-your-niche)
+
++ [Nabubit](https://www.producthunt.com/posts/nabubit)
+
++ [CheatSheet AI](https://www.producthunt.com/posts/cheatsheet-ai)
+
++ [Otter Script](https://www.producthunt.com/posts/otter-script)
+
++ [StructAI](https://www.producthunt.com/posts/structai)
+
++ [Skip](https://www.producthunt.com/posts/skip-3)
+
++ [BNA](https://www.producthunt.com/posts/bna-2)
+
++ [Bitkit: Bitcoin & Lightning wallet](https://www.producthunt.com/posts/bitkit-bitcoin-lightning-wallet)
+
++ [Elisi](https://www.producthunt.com/posts/elisi)
+
++ [KeyMentions](https://www.producthunt.com/posts/keymentions)
+

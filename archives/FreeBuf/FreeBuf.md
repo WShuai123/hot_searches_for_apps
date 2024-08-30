@@ -59,3 +59,5 @@
 
 + [研发安全 | 一文吃透认证体系的内核](https://www.freebuf.com/articles/system/407987.html)
 
++ [LavaDome：一款基于ShadowDOM的DOM树安全隔离与封装工具](https://www.freebuf.com/sectool/409098.html)
+

@@ -235,3 +235,17 @@
 
 + [《绝区零》简角色PV丨逮捕](https://www.3dmgame.com/news/202408/3903035.html)
 
++ [双人同屏欢乐对战游戏《The Limitless Boom》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202408/3903039.html)
+
++ [在线合作打僵尸游戏《陷入“僵”局》现已正式推出 获多半好评](https://www.3dmgame.com/news/202408/3903040.html)
+
++ [国内机构预测《黑神话》首月销量能突破2000万份](https://www.3dmgame.com/news/202408/3903041.html)
+
++ [幕后趣闻：《文明5》首发没有成吉思汗让席德·梅尔很吃惊](https://www.3dmgame.com/news/202408/3903042.html)
+
++ [《更衣人偶坠入爱河》将被改编为真人剧 10月8日开播](https://www.3dmgame.com/news/202408/3903036.html)
+
++ [《地下忍者》真人改编电影预告公布 计划于2025年1月24日上映](https://www.3dmgame.com/news/202408/3903037.html)
+
++ [《黑神话》发售10天 Steam最高在线数首次不足150万](https://www.3dmgame.com/news/202408/3903038.html)
+
