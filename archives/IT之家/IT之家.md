@@ -45,3 +45,5 @@
 
 + [大疆 Neo 无人机开箱曝光：23GB 内置存储、135 克、1/2 英寸传感器，199 美元](https://m.ithome.com/html/791996.htm)
 
++ [“年轻人的第一台 GT”比亚迪海豹 06 GT 发布，盲订价 15 万-20 万元](https://m.ithome.com/html/792215.htm)
+

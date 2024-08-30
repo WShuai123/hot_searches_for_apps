@@ -233,3 +233,5 @@
 
 + [苹果iPhone16开始印度量产 富士康否认良率只有50%](https://www.3dmgame.com/news/202408/3903033.html)
 
++ [《绝区零》简角色PV丨逮捕](https://www.3dmgame.com/news/202408/3903035.html)
+
