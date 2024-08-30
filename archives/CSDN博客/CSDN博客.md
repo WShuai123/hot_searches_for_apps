@@ -193,3 +193,9 @@
 
 + [linux：网络编程之TCP](https://blog.csdn.net/T66656/article/details/141649415)
 
++ [【机器学习-神经网络】卷积神经网络](https://blog.csdn.net/Morse_Chen/article/details/141680504)
+
++ [SQL 语句及其分类](https://blog.csdn.net/A_cot/article/details/141683600)
+
++ [云计算实训39——Harbor仓库的使用、Docker-compose的编排、YAML文件](https://blog.csdn.net/m0_73907608/article/details/141679861)
+

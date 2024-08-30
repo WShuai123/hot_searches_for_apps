@@ -263,3 +263,39 @@
 
 + [冰汽时代2模组工具即将在游戏发布时推出!](https://www.3dmgame.com/news/202408/3903045.html)
 
++ [漫威剧集《女巫阿加莎》最新预告 9月18日首映两集连播](https://www.3dmgame.com/news/202408/3903067.html)
+
++ [《黑神话》小狐狸萍萍图赏 有人认为她的衣服容易走光](https://www.3dmgame.com/news/202408/3903066.html)
+
++ [《英雄无敌：上古纪元》新情报 有DLC计划无微交易](https://www.3dmgame.com/news/202408/3903065.html)
+
++ [儿童手表竟说中国人不诚实 小天才发布整改公告：全面严格排查](https://www.3dmgame.com/news/202408/3903062.html)
+
++ [《沙丘：觉醒》中玩家吸入香料够多也能“看到未来”](https://www.3dmgame.com/news/202408/3903063.html)
+
++ [《昭和米国物语》IGN日本专访：新Boss曝光得州州长](https://www.3dmgame.com/news/202408/3903061.html)
+
++ [8月国产游戏版号发布：《明日方舟：终末地》等过审](https://www.3dmgame.com/news/202408/3903060.html)
+
++ [《哥特王朝：重制版》新情报透露：游戏世界栩栩如生](https://www.3dmgame.com/news/202408/3903059.html)
+
++ [老外热议《黑神话》女角和脸模很像：为啥育碧不能？](https://www.3dmgame.com/news/202408/3903064.html)
+
++ [KK官方对战平台同人作者专访！超Q的war3人物全都抱走吧！](https://www.3dmgame.com/news/202408/3903058.html)
+
++ [男子上班104天仅休1天病亡：公司担责两成](https://www.3dmgame.com/news/202408/3903057.html)
+
++ [游戏博主力挺《星球大战：亡命之徒》：你们喷它只因为育碧](https://www.3dmgame.com/news/202408/3903056.html)
+
++ [Gearbox承认《雨中冒险2》DLC更新后“状况很差”全是BUG](https://www.3dmgame.com/news/202408/3903052.html)
+
++ [雷军把《黑神话：悟空》实体收藏版送给王腾 网友羡慕了](https://www.3dmgame.com/news/202408/3903053.html)
+
++ [游戏数据公司：《黑神话：悟空》PS5玩家约为300万](https://www.3dmgame.com/news/202408/3903054.html)
+
++ [《凉宫春日》系列将于8月31日中午发布新消息](https://www.3dmgame.com/news/202408/3903055.html)
+
++ [《星际火狐》设计师差点入职科乐美 但他的母亲建议他去任天堂](https://www.3dmgame.com/news/202408/3903050.html)
+
++ [《天国：拯救2》被ESRB评为成人级 有暴力行为和性暴露](https://www.3dmgame.com/news/202408/3903051.html)
+
