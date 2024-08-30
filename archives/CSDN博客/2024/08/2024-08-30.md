@@ -199,3 +199,9 @@
 
 + [云计算实训39——Harbor仓库的使用、Docker-compose的编排、YAML文件](https://blog.csdn.net/m0_73907608/article/details/141679861)
 
++ [1.认识人工智能（AI，Artificial Intelligence）](https://blog.csdn.net/dxyl632956/article/details/141644589)
+
++ [2d像素游戏基本架构](https://blog.csdn.net/2302_80644606/article/details/141697089)
+
++ [电脑从按电源键开始到系统启动的全过程](https://blog.csdn.net/mzl_18353516147/article/details/141678795)
+

@@ -33,3 +33,17 @@
 
 + [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
 
++ [openobserve / openobserve](https://github.com/openobserve/openobserve)
+
++ [coollabsio / coolify](https://github.com/coollabsio/coolify)
+
++ [frappe / erpnext](https://github.com/frappe/erpnext)
+
++ [frappe / frappe_docker](https://github.com/frappe/frappe_docker)
+
++ [datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
+
++ [elastic / kibana](https://github.com/elastic/kibana)
+
++ [nginx / nginx](https://github.com/nginx/nginx)
+

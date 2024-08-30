@@ -299,3 +299,11 @@
 
 + [《天国：拯救2》被ESRB评为成人级 有暴力行为和性暴露](https://www.3dmgame.com/news/202408/3903051.html)
 
++ [iPhone 16 Pro首发！苹果A18 Pro关键规格曝光](https://www.3dmgame.com/news/202408/3903071.html)
+
++ [动作冒险游戏《海绵宝宝：派大星游戏》Steam页面上线 2024年10月4日发售](https://www.3dmgame.com/news/202408/3903068.html)
+
++ [《黑神话：悟空》游戏摄影作品 感受游戏独特魅力](https://www.3dmgame.com/news/202408/3903069.html)
+
++ [博主偷取多部知名小说喂AI 晋江文学城：无耻嚣张侵权](https://www.3dmgame.com/news/202408/3903070.html)
+
