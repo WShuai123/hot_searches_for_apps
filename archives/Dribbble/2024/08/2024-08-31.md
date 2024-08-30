@@ -49,3 +49,23 @@
 
 + [Fox mark](https://dribbble.com/shots/)
 
++ [Heads#2](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [つづく](https://dribbble.com/shots/)
+
++ [Gig Poster - Sir Woman](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Farm](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
