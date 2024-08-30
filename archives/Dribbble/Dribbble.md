@@ -197,3 +197,39 @@
 
 + [Halftone illustrations collection](https://dribbble.com/shots/)
 
++ [Atomic Strength](https://dribbble.com/shots/)
+
++ [Logo Alphabet Animation](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Sheep Logo](https://dribbble.com/shots/)
+
++ [Verve Real Estate Platform Webapp](https://dribbble.com/shots/)
+
++ [Tenners - Tennis Academy Website Exploration](https://dribbble.com/shots/)
+
++ [3D Web Animation for SaaS Website Banner](https://dribbble.com/shots/)
+
++ [Video Production Agency Website](https://dribbble.com/shots/)
+
++ [Volvo S90 Recharge](https://dribbble.com/shots/)
+
++ [Owl Logo](https://dribbble.com/shots/)
+
++ [ForgeX - Manufacturing Pitch Deck](https://dribbble.com/shots/)
+
++ [Health Fitness Hub](https://dribbble.com/shots/)
+
++ [Produktify - App Landing Page](https://dribbble.com/shots/)
+
++ [GearLeaf  Eco-Tech, logo ????⚙️](https://dribbble.com/shots/)
+
++ [Alonso/Videography logo](https://dribbble.com/shots/)
+
++ [EdTech Mobile App](https://dribbble.com/shots/)
+
++ [Man and heart](https://dribbble.com/shots/)
+
++ [Klaboard - Task Management Dashboard](https://dribbble.com/shots/)
+

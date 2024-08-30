@@ -205,3 +205,11 @@
 
 + [电脑从按电源键开始到系统启动的全过程](https://blog.csdn.net/mzl_18353516147/article/details/141678795)
 
++ [k8s声明式管理方式（yaml文件实现）](https://blog.csdn.net/Hai990218/article/details/141673917)
+
++ [数据库sqlite3](https://blog.csdn.net/2301_80338792/article/details/141688350)
+
++ [探秘DevSecOps黄金管道，安全与效率的完美融合](https://blog.csdn.net/weixin_55163056/article/details/141719790)
+
++ [使用QT开发一些特殊相机的思路：个人经验](https://blog.csdn.net/Alon1787/article/details/141683254)
+

@@ -63,3 +63,7 @@
 
 + [奇安信2024半年报：营收17.83亿，亏损8.2亿](https://www.freebuf.com/articles/neopoints/409852.html)
 
++ [中小型企业如何自动化安全运营；安全脚本维护与有效性检测策略| FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/409916.html)
+
++ [2024网安行业优质播客精选集③](https://www.freebuf.com/news/409930.html)
+
