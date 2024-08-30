@@ -57,3 +57,5 @@
 
 + [启明星辰2024半年报：营收15.74亿，亏损1.82亿](https://www.freebuf.com/news/409840.html)
 
++ [研发安全 | 一文吃透认证体系的内核](https://www.freebuf.com/articles/system/407987.html)
+

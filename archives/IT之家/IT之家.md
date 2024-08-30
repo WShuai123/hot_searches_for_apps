@@ -41,3 +41,7 @@
 
 + [vivo X200 手机三证齐全：预计搭载天玑 9400 处理器，支持 90W 快充](https://m.ithome.com/html/792033.htm)
 
++ [丰富主题玩法，华为 Pura 70 系列手机获推鸿蒙 HarmonyOS 4.2.0.177 升级](https://m.ithome.com/html/792113.htm)
+
++ [大疆 Neo 无人机开箱曝光：23GB 内置存储、135 克、1/2 英寸传感器，199 美元](https://m.ithome.com/html/791996.htm)
+

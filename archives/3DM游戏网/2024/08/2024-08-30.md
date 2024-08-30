@@ -227,3 +227,9 @@
 
 + [卡牌对战要素策略塔防游戏《奥术战团》现已在Steam平台正式发售 并获好评](https://www.3dmgame.com/news/202408/3903025.html)
 
++ [《黑神话：悟空》速通新纪录 1小时达成通关 国内玩家创造](https://www.3dmgame.com/news/202408/3903032.html)
+
++ [玩家给G胖发邮件 成功要到《Deadlock》测试资格](https://www.3dmgame.com/news/202408/3903034.html)
+
++ [苹果iPhone16开始印度量产 富士康否认良率只有50%](https://www.3dmgame.com/news/202408/3903033.html)
+
