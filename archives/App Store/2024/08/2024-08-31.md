@@ -203,3 +203,5 @@
 
 + [作业帮-中小学家长作业检查和辅导工具](https://itunes.apple.com/cn/app/id803781859?mt=8)
 
++ [夸克-你的AI搜索](https://itunes.apple.com/cn/app/id1160172628?mt=8)
+
