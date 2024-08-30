@@ -63,3 +63,5 @@
 
 + [小米 SU7 推送澎湃 OS 1.3.0.l1 城市领航辅助先锋版，号称实现城市 NOA“全国都能开”](https://m.ithome.com/html/792209.htm)
 
++ [小鹏 MONA M03 上市 48 小时大定突破 30000 台，今日开启首批交付](https://m.ithome.com/html/792183.htm)
+

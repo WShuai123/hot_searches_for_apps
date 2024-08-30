@@ -213,3 +213,11 @@
 
 + [使用QT开发一些特殊相机的思路：个人经验](https://blog.csdn.net/Alon1787/article/details/141683254)
 
++ [PyTorch数据处理：torch.utils.data模块的7个核心函数详解](https://blog.csdn.net/m0_46510245/article/details/141703871)
+
++ [电脑如何进行重装系统](https://blog.csdn.net/2402_86993289/article/details/141707285)
+
++ [深入理解 XSS 漏洞：原理、危害与防范](https://blog.csdn.net/2301_77160226/article/details/141676625)
+
++ [【Qt】网格布局管理器QGridLayout](https://blog.csdn.net/dab112/article/details/141501249)
+
