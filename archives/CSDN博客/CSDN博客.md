@@ -135,3 +135,5 @@
 
 + [基于yolov8的行人跌倒检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141681468)
 
++ [火绒补充](https://blog.csdn.net/qq_61414097/article/details/141727832)
+
