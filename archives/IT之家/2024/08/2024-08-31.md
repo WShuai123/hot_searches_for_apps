@@ -57,3 +57,9 @@
 
 + [WeChat 香港钱包因管控制度不健全被罚 87.5 万港元，回应称已整改、与微信支付人民币钱包无关](https://m.ithome.com/html/792479.htm)
 
++ [AMD 发布锐龙 5 7600X3D：6 核、96MB 三级缓存，售 300 美元、7000 系列最便宜 X3D 处理器](https://m.ithome.com/html/792443.htm)
+
++ [全新智己 LS6 预售 10 小时订单突破 5000 台，官方宣称“爆单了”](https://m.ithome.com/html/792513.htm)
+
++ [阿迈奇星舰 M2A 迷你主机开售：双 2.5G 网口、i9-12900H + 32G + 1T + RTX3080 售 8999 元](https://m.ithome.com/html/792428.htm)
+

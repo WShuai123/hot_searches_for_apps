@@ -197,3 +197,13 @@
 
 + [仅限邀请游玩的《Deadlock》在线玩家突破十万人](https://www.3dmgame.com/news/202408/3903123.html)
 
++ [传GPU厂商象帝先今日解散 400人团队原地失业](https://www.3dmgame.com/news/202408/3903130.html)
+
++ [《黑神话：悟空》铁扇公主原画设定图 气质很优雅](https://www.3dmgame.com/news/202408/3903127.html)
+
++ [暴雪或正在开发一款未公布第一人称射击角色扮演游戏](https://www.3dmgame.com/news/202408/3903126.html)
+
++ [网传《黑神话：悟空》被家长举报 玩家怀疑是对手举报](https://www.3dmgame.com/news/202408/3903129.html)
+
++ [《影之刃零》情报总结：画面棒易上手 战斗融合只狼忍龙](https://www.3dmgame.com/news/202408/3903128.html)
+

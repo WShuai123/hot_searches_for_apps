@@ -191,3 +191,11 @@
 
 + [数据库水平分表方案](https://blog.csdn.net/qq_42572322/article/details/141728498)
 
++ [6种有效的时间序列数据特征工程技术（使用Python）](https://blog.csdn.net/m0_46510245/article/details/141747871)
+
++ [Elasticsearch 再次开源](https://blog.csdn.net/UbuntuTouch/article/details/141724231)
+
++ [华为云征文｜Flexus云服务器X，云上性能新飞跃，开启业务增长新纪元](https://blog.csdn.net/qq_21891743/article/details/141727152)
+
++ [基于FPGA的OV5640摄像头图像采集](https://blog.csdn.net/qq_69315815/article/details/141708179)
+
