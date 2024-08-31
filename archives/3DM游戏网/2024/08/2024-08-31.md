@@ -165,3 +165,5 @@
 
 + [恋爱模拟视觉小说游戏《致命终局》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3903105.html)
 
++ [国内最大智算中心正式投用 每秒690亿亿次浮点运算](https://www.3dmgame.com/news/202408/3903110.html)
+

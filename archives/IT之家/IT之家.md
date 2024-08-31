@@ -43,3 +43,5 @@
 
 + [2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://m.ithome.com/html/792294.htm)
 
++ [国产 GPU 独角兽象帝先被曝解散，400 人团队原地失业](https://m.ithome.com/html/792468.htm)
+

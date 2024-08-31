@@ -163,3 +163,11 @@
 
 + [nodejs基于微信小程序的书籍销售系统论文源码调试讲解](https://blog.csdn.net/u014445459/article/details/141662546)
 
++ [通过Amazon Bedrock上的Stability AI模型开发生成式AI应用（上篇）](https://blog.csdn.net/m0_66628975/article/details/141728209)
+
++ [PDF文本指令解析与文本水印去除](https://blog.csdn.net/as604049322/article/details/141724271)
+
++ [AI技术引领未来游戏革命：《黑神话：悟空》——‘ 我国第一个大学生 ’【与游戏科学的深度融合】](https://blog.csdn.net/zhaochen1127/article/details/141729260)
+
++ [Sentinel微服务保护](https://blog.csdn.net/qq_64353233/article/details/141685821)
+

@@ -51,3 +51,5 @@
 
 + [记edusrc挖掘的骚技巧](https://www.freebuf.com/articles/web/408592.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+
