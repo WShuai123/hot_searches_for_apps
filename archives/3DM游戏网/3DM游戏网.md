@@ -189,3 +189,11 @@
 
 + [《超级马里奥派对：空前盛会》预告 宝琳登场亮相](https://www.3dmgame.com/news/202408/3903118.html)
 
++ [《HYAKKI YAKO Survivor》Steam页面公布 10月发售](https://www.3dmgame.com/news/202408/3903124.html)
+
++ [《致命公司》开发者暂停更新 转开发单人恐怖游戏](https://www.3dmgame.com/news/202408/3903125.html)
+
++ [《恶魔城》合集发布之后 玩家已经在期待下一部合集了](https://www.3dmgame.com/news/202408/3903122.html)
+
++ [仅限邀请游玩的《Deadlock》在线玩家突破十万人](https://www.3dmgame.com/news/202408/3903123.html)
+

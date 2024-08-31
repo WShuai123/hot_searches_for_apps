@@ -185,3 +185,5 @@
 
 + [ASP.NET Core6.0-wwwroot文件夹无法访问解决方法](https://blog.csdn.net/qq_32795773/article/details/141714371)
 
++ [Spring Boot整合Spring Security+JWT+OAuth 2.0 实现认证鉴权登录（框架介绍）](https://blog.csdn.net/weixin_49999835/article/details/131826150)
+

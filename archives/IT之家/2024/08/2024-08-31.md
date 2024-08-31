@@ -53,3 +53,5 @@
 
 + [京东京造 10000mAh 自带线充电宝开售：双向 30W 快充，99 元](https://m.ithome.com/html/792390.htm)
 
++ [比亚迪收购德国汽车经销商，掌控更多自主权](https://m.ithome.com/html/792430.htm)
+
