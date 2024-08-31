@@ -51,3 +51,5 @@
 
 + [酷比魔方掌玩 mini 2 平板开售：8.4 英寸屏、骁龙 6 Gen 1 + 8G + 128G 售 1098 元](https://m.ithome.com/html/792418.htm)
 
++ [京东京造 10000mAh 自带线充电宝开售：双向 30W 快充，99 元](https://m.ithome.com/html/792390.htm)
+
