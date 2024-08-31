@@ -63,3 +63,7 @@
 
 + [阿迈奇星舰 M2A 迷你主机开售：双 2.5G 网口、i9-12900H + 32G + 1T + RTX3080 售 8999 元](https://m.ithome.com/html/792428.htm)
 
++ [小米 MIX Flip 2 折叠手机现踪迹：配骁龙 8 Gen 4 芯片，有望明年 5 月发售](https://m.ithome.com/html/792448.htm)
+
++ [vivo X200 系列、魅族新机通过 3C 认证，分别支持 90W、33W 快充](https://m.ithome.com/html/792511.htm)
+

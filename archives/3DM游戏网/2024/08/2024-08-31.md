@@ -209,3 +209,7 @@
 
 + [《使命召唤21：黑色行动6》B测RTX 4090实机分享](https://www.3dmgame.com/news/202408/3903131.html)
 
++ [《星球大战：亡命之徒》《星球大战绝地：幸存者》对比视频 前者竟然不能游泳](https://www.3dmgame.com/news/202408/3903132.html)
+
++ [《鬼泣5》《龙之信条2》导演伊津野英昭离开Capcom](https://www.3dmgame.com/news/202408/3903133.html)
+

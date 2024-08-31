@@ -203,3 +203,7 @@
 
 + [计算机网络: 第一章 概述_1](https://blog.csdn.net/Snowyyds/article/details/141713434)
 
++ [AI 内容创作：思考与实践](https://blog.csdn.net/ChaoMing_H/article/details/141756837)
+
++ [数学建模--皮尔逊相关系数、斯皮尔曼相关系数](https://blog.csdn.net/binhyun/article/details/141611487)
+

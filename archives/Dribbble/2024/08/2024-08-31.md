@@ -183,3 +183,35 @@
 
 + [Payment, transection, bird k logo for kisbird, brand branding](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Portfolio Page](https://dribbble.com/shots/)
+
++ [E-Commerce Dashboard](https://dribbble.com/shots/)
+
++ [Leafz - 3D visualization and packaging animation](https://dribbble.com/shots/)
+
++ [Enode - Modules](https://dribbble.com/shots/)
+
++ [A logo](https://dribbble.com/shots/)
+
++ [Relocate Now: Branding & UI Case Study](https://dribbble.com/shots/)
+
++ [Temhex logo design](https://dribbble.com/shots/)
+
++ [logo, logo design, identity, logo mark, T logo](https://dribbble.com/shots/)
+
++ [Real estate App](https://dribbble.com/shots/)
+
++ [ERICSSON | Water Renewable Energy Plant | Orbix Studio](https://dribbble.com/shots/)
+
++ [Pronet P letter logo design](https://dribbble.com/shots/)
+
++ [handy hive logo  design  (Hand + Hive + letter HH)](https://dribbble.com/shots/)
+
++ [Some days in tokyo](https://dribbble.com/shots/)
+
++ [spendings(client work)](https://dribbble.com/shots/)
+
++ [XionCode Logo Design](https://dribbble.com/shots/)
+
++ [Hero Section - Wayang Website](https://dribbble.com/shots/)
+
