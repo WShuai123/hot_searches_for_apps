@@ -155,3 +155,13 @@
 
 + [《雨中冒险2》原开发者讨论游戏现状 已修复2个BUG](https://www.3dmgame.com/news/202408/3903102.html)
 
++ [《永恒冬日》公布抢先体验发布日期以及更新路线图](https://www.3dmgame.com/news/202408/3903108.html)
+
++ [《使命召唤：黑色行动6》多人模式抓的“肉盾”能听到你的语音](https://www.3dmgame.com/news/202408/3903109.html)
+
++ [N64《班卓熊大冒险》已被反编译 或将出现PC移植版](https://www.3dmgame.com/news/202408/3903107.html)
+
++ [Steam商店页面改动 允许开发者选择推荐类似游戏](https://www.3dmgame.com/news/202408/3903106.html)
+
++ [恋爱模拟视觉小说游戏《致命终局》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202408/3903105.html)
+

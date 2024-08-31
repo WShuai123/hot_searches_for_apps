@@ -35,3 +35,11 @@
 
 + [苹果 iPhone 16 Pro 渲染图再曝，新古铜色亮相](https://m.ithome.com/html/792435.htm)
 
++ [米哈游创始人蔡浩宇：AIGC 将彻底改变游戏开发行业，除天才和爱好者外建议转行](https://m.ithome.com/html/792399.htm)
+
++ [市场监管总局督导阿里巴巴集团控股有限公司完成三年整改](https://m.ithome.com/html/792329.htm)
+
++ [BLG 3:0 战胜 WBG 夺得《英雄联盟》2024 LPL 夏季赛总冠军](https://m.ithome.com/html/792388.htm)
+
++ [2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://m.ithome.com/html/792294.htm)
+
