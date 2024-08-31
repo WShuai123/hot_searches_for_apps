@@ -25,3 +25,5 @@
 
 + [小米 MIX Flip 2 折叠手机现踪迹：配骁龙 8 Gen 4 芯片，有望明年 5 月发售](https://m.ithome.com/html/792448.htm)
 
++ [周鸿祎：未来 2 年 AI 大模型一定会“上车”，BBA 最大失误就是把车看成机械产品](https://m.ithome.com/html/792536.htm)
+

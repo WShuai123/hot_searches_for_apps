@@ -119,3 +119,23 @@
 
 + [Seated Character](https://dribbble.com/shots/)
 
++ [Lockups](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Plant Pot](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [3D Illustration for a Next-Gen Commerce and Collectibles Market](https://dribbble.com/shots/)
+
++ [Logo Reveal - Particle Sim - FinTech](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [Community Center](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
