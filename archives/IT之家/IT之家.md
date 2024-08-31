@@ -45,3 +45,5 @@
 
 + [国产 GPU 独角兽象帝先被曝解散，400 人团队原地失业](https://m.ithome.com/html/792468.htm)
 
++ [消息称鸿蒙智行享界 S9 增程版车型将于明年上市](https://m.ithome.com/html/792416.htm)
+

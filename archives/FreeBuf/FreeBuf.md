@@ -53,3 +53,5 @@
 
 + [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
 
++ [SyzBridge：一款提供了丰富接口的Linux系统安全研究工具](https://www.freebuf.com/sectool/409099.html)
+

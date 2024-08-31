@@ -167,3 +167,11 @@
 
 + [国内最大智算中心正式投用 每秒690亿亿次浮点运算](https://www.3dmgame.com/news/202408/3903110.html)
 
++ [《原神》过场动画-「赤炎凛霜之争」](https://www.3dmgame.com/news/202408/3903114.html)
+
++ [CEO关于AI言论引发争议 亚马逊游戏回应称非常遗憾](https://www.3dmgame.com/news/202408/3903113.html)
+
++ [周星驰电影《食神》今日上映：28年经典作品高清修复](https://www.3dmgame.com/news/202408/3903112.html)
+
++ [《无主之地4》的幽默将“更加贴合世界观且更加自然”](https://www.3dmgame.com/news/202408/3903111.html)
+

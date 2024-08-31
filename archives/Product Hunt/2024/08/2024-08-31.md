@@ -103,3 +103,17 @@
 
 + [PlayBuild](https://www.producthunt.com/posts/playbuild)
 
++ [Minutes: AI Meeting Notes & Transcripts](https://www.producthunt.com/posts/minutes-ai-meeting-notes-transcripts)
+
++ [Save Image as Type](https://www.producthunt.com/posts/save-image-as-type)
+
++ [User Searcher](https://www.producthunt.com/posts/user-searcher)
+
++ [Amine](https://www.producthunt.com/posts/amine)
+
++ [SeekAll](https://www.producthunt.com/posts/seekall)
+
++ [7 Minutes in Hell](https://www.producthunt.com/posts/7-minutes-in-hell)
+
++ [Datangle (Beta)](https://www.producthunt.com/posts/datangle-beta)
+
