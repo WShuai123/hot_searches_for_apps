@@ -105,3 +105,17 @@
 
 + [Astrology Mobile iOS App Design Concept](https://dribbble.com/shots/)
 
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Gig Poster - Sir Woman](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
