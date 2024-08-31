@@ -139,3 +139,13 @@
 
 + [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
 
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [LEMONADE GANG](https://dribbble.com/shots/)
+
++ [Heads#2](https://dribbble.com/shots/)
+
