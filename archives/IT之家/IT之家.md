@@ -55,3 +55,5 @@
 
 + [比亚迪收购德国汽车经销商，掌控更多自主权](https://m.ithome.com/html/792430.htm)
 
++ [WeChat 香港钱包因管控制度不健全被罚 87.5 万港元，回应称已整改、与微信支付人民币钱包无关](https://m.ithome.com/html/792479.htm)
+

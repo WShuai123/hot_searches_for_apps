@@ -35,3 +35,19 @@
 
 + [nginx / nginx](https://github.com/nginx/nginx)
 
++ [anthropics / courses](https://github.com/anthropics/courses)
+
++ [ruanyf / weekly](https://github.com/ruanyf/weekly)
+
++ [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
+
++ [microsoft / playwright](https://github.com/microsoft/playwright)
+
++ [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
++ [Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+

@@ -187,3 +187,7 @@
 
 + [Spring Boot整合Spring Security+JWT+OAuth 2.0 实现认证鉴权登录（框架介绍）](https://blog.csdn.net/weixin_49999835/article/details/131826150)
 
++ [在Spring Boot项目中使用MySQL数据库](https://blog.csdn.net/qq_62512874/article/details/141707631)
+
++ [数据库水平分表方案](https://blog.csdn.net/qq_42572322/article/details/141728498)
+
