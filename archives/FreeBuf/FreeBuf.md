@@ -41,3 +41,7 @@
 
 + [Google 再提高 Chrome 漏洞赏金数额，最高可达25万美元](https://www.freebuf.com/news/409700.html)
 
++ [FreeBuf 周报 | 2024年网安最高处罚记录诞生；谷歌再提高Chrome漏洞赏金数额](https://www.freebuf.com/news/409921.html)
+
++ [蓝队宝典防暴破篇 | 有效应对多样化字典攻击手段](https://www.freebuf.com/articles/network/408462.html)
+
