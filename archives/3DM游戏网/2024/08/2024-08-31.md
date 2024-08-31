@@ -207,3 +207,5 @@
 
 + [《影之刃零》情报总结：画面棒易上手 战斗融合只狼忍龙](https://www.3dmgame.com/news/202408/3903128.html)
 
++ [《使命召唤21：黑色行动6》B测RTX 4090实机分享](https://www.3dmgame.com/news/202408/3903131.html)
+
