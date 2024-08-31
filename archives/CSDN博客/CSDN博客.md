@@ -207,3 +207,9 @@
 
 + [数学建模--皮尔逊相关系数、斯皮尔曼相关系数](https://blog.csdn.net/binhyun/article/details/141611487)
 
++ [【机器学习】循环神经网络(RNN)介绍](https://blog.csdn.net/qq_44214428/article/details/141756389)
+
++ [线性代数之线性方程组](https://blog.csdn.net/2302_80644606/article/details/141735834)
+
++ [记录一下腾讯云即时通信IM（无UI集成）、TRTC做文字、语音、图片、实时音视频聊天遇到的问题](https://blog.csdn.net/weixin_43106777/article/details/141709504)
+

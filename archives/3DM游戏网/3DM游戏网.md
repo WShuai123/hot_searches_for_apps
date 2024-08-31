@@ -213,3 +213,5 @@
 
 + [《鬼泣5》《龙之信条2》导演伊津野英昭离开Capcom](https://www.3dmgame.com/news/202408/3903133.html)
 
++ [《Concord》彻底扑街 当前销量可能只有2.5万套](https://www.3dmgame.com/news/202408/3903134.html)
+

@@ -67,3 +67,5 @@
 
 + [vivo X200 系列、魅族新机通过 3C 认证，分别支持 90W、33W 快充](https://m.ithome.com/html/792511.htm)
 
++ [广州拟立法规定：不发展互联网租赁电动自行车](https://m.ithome.com/html/792547.htm)
+
