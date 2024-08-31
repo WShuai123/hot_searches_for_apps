@@ -173,3 +173,7 @@
 
 + [【网络】NAT、代理服务、内网穿透](https://blog.csdn.net/2301_77112634/article/details/141720622)
 
++ [【网络世界】网络层](https://blog.csdn.net/jupangMZ/article/details/140878972)
+
++ [智能合约中storage和memory函数详解](https://blog.csdn.net/qq_38420688/article/details/141723562)
+

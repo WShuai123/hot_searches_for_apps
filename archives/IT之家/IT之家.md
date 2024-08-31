@@ -47,3 +47,7 @@
 
 + [消息称鸿蒙智行享界 S9 增程版车型将于明年上市](https://m.ithome.com/html/792416.htm)
 
++ [小鹏 MONA 产品线负责人杨光：雷军给了 MONA M03“很多很好的建议”](https://m.ithome.com/html/792466.htm)
+
++ [酷比魔方掌玩 mini 2 平板开售：8.4 英寸屏、骁龙 6 Gen 1 + 8G + 128G 售 1098 元](https://m.ithome.com/html/792418.htm)
+

@@ -117,3 +117,9 @@
 
 + [Datangle (Beta)](https://www.producthunt.com/posts/datangle-beta)
 
++ [Reviewik](https://www.producthunt.com/posts/reviewik)
+
++ [AI Cover](https://www.producthunt.com/posts/ai-cover)
+
++ [Ugic](https://www.producthunt.com/posts/ugic)
+

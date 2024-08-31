@@ -55,3 +55,5 @@
 
 + [SyzBridge：一款提供了丰富接口的Linux系统安全研究工具](https://www.freebuf.com/sectool/409099.html)
 
++ [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
+
