@@ -155,3 +155,13 @@
 
 + [Community Center](https://dribbble.com/shots/)
 
++ [St. Jory (Winery) - Tryptic 2/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
+
++ [Her Propertea Branding & Packaging Design / Brand Identity / Tea](https://dribbble.com/shots/)
+
++ [UI for an Automation SaaS ✦ Makelog](https://dribbble.com/shots/)
+
++ [Darkness to Community | My Story](https://dribbble.com/shots/)
+
++ [Polaris Illustration](https://dribbble.com/shots/)
+

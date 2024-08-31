@@ -141,3 +141,17 @@
 
 + [传闻：华纳正在开发《新蝙蝠侠》设定《企鹅人》游戏](https://www.3dmgame.com/news/202408/3903093.html)
 
++ [《星空：破碎空间》DLC完整Steam成就列表已公开](https://www.3dmgame.com/news/202408/3903103.html)
+
++ [《见习死神模拟器》Steam页面公布 2024年第四季度发售](https://www.3dmgame.com/news/202408/3903104.html)
+
++ [《使命召唤：黑色行动6》测试服务器被挤爆 动视全力改善](https://www.3dmgame.com/news/202408/3903098.html)
+
++ [英特尔：由于新架构 Lunar Lake和Arrow Lake CPU不存在运行不稳定问题](https://www.3dmgame.com/news/202408/3903099.html)
+
++ [ESRB庆祝成立30周年 还为此创作了一首新歌](https://www.3dmgame.com/news/202408/3903100.html)
+
++ [RPG《物种战争：启示录》Steam页面公布 年内发售](https://www.3dmgame.com/news/202408/3903101.html)
+
++ [《雨中冒险2》原开发者讨论游戏现状 已修复2个BUG](https://www.3dmgame.com/news/202408/3903102.html)
+
