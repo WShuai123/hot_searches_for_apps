@@ -45,3 +45,7 @@
 
 + [蓝队宝典防暴破篇 | 有效应对多样化字典攻击手段](https://www.freebuf.com/articles/network/408462.html)
 
++ [舍友服务器被入侵的一次复盘演练记录](https://www.freebuf.com/articles/web/376495.html)
+
++ [不是，真没人敢说吗？免杀大佬加入黑灰产还打得过吗？](https://www.freebuf.com/articles/network/408580.html)
+
