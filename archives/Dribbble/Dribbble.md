@@ -213,3 +213,11 @@
 
 + [debt (client work)](https://dribbble.com/shots/)
 
++ [Solar website design Landing page](https://dribbble.com/shots/)
+
++ [Product Design for Crypto Platform](https://dribbble.com/shots/)
+
++ [Crypto Defi Landing Page design.](https://dribbble.com/shots/)
+
++ [Flourish - Self-care Services website Design](https://dribbble.com/shots/)
+
