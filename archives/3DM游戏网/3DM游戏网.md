@@ -101,3 +101,19 @@
 
 + [《使命召唤：黑色行动6》多人Beta抢先体验现已上线](https://www.3dmgame.com/news/202408/3903082.html)
 
++ [Game Pass 9月游戏泄露：育碧《极限国度》加入](https://www.3dmgame.com/news/202409/3903141.html)
+
++ [《自杀小队》开发商已在开发一个新的游戏了](https://www.3dmgame.com/news/202409/3903142.html)
+
++ [《Void Path》登陆Steam 第一人称日恐探索](https://www.3dmgame.com/news/202409/3903140.html)
+
++ [由于Series S 一些粉丝担忧《GTA6》Xbox版跳票](https://www.3dmgame.com/news/202409/3903139.html)
+
++ [王腾开箱雷军送的《黑神话：悟空》实体版](https://www.3dmgame.com/news/202409/3903138.html)
+
++ [《使命召唤：黑色行动6》多人测试版已充斥着作弊](https://www.3dmgame.com/news/202409/3903137.html)
+
++ [粉丝利用虚幻4引擎重制卡普空经典《恐龙危机》](https://www.3dmgame.com/news/202409/3903136.html)
+
++ [《战锤40K：星际战士2》无D加密 《魁地奇锦标赛》有](https://www.3dmgame.com/news/202409/3903135.html)
+

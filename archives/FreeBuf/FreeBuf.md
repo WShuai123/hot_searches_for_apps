@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 45台自动售卖机中40台索取个人信息；CrowdStrike与英伟达宣布合作](https://www.freebuf.com/news/409760.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/409846.html)
+
++ [Tenda-FH1201多处命令注入漏洞分析和复现](https://www.freebuf.com/articles/endpoint/408554.html)
+
