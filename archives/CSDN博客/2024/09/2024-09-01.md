@@ -179,3 +179,9 @@
 
 + [139. MySQL同步ES的四种方案](https://blog.csdn.net/YouMing_Li/article/details/141750669)
 
++ [自建一款开源音乐服务-Navidrome](https://blog.csdn.net/lxx309707872/article/details/141754197)
+
++ [MCU1.51单片机介绍](https://blog.csdn.net/2401_85828611/article/details/141755395)
+
++ [微信小程序App实现小车方向控制](https://blog.csdn.net/mftang/article/details/141750924)
+

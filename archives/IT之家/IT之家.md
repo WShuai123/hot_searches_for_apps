@@ -43,3 +43,7 @@
 
 + [小米推出 9 月“手机电池 8 折换新”活动：32 款机型，79.2 元起](https://m.ithome.com/html/792625.htm)
 
++ [罗永浩微博暗示年末将公布新品](https://m.ithome.com/html/792584.htm)
+
++ [【IT之家开箱】梦回千禧：HMD Barbie 芭比联名手机国行图赏](https://m.ithome.com/html/792548.htm)
+

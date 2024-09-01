@@ -161,3 +161,9 @@
 
 + [《百鬼夜行幸存者》登陆Steam 日风吸幸爽快射击](https://www.3dmgame.com/news/202409/3903162.html)
 
++ [百度副总裁谈AI热潮 大模型领域有人在挂羊头卖狗肉](https://www.3dmgame.com/news/202409/3903165.html)
+
++ [三上真司称自己最想要复活的经典作品是《神之手》](https://www.3dmgame.com/news/202409/3903166.html)
+
++ [邪恶结局优化 《博德之门3》7号补丁下周终于到来](https://www.3dmgame.com/news/202409/3903167.html)
+

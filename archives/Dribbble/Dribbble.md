@@ -181,3 +181,21 @@
 
 + [Ai-based crypto logo branding for fintech brand](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading & Portfolio Management App](https://dribbble.com/shots/)
+
++ [Pricing UI](https://dribbble.com/shots/)
+
++ [S and stitch](https://dribbble.com/shots/)
+
++ [AiTravel | Dashboard Analytics Solution | 3D Motion](https://dribbble.com/shots/)
+
++ [e-wallet, pay, digital wallet, crypto, NFT, blockchain](https://dribbble.com/shots/)
+
++ [home mark negative space real estate logo](https://dribbble.com/shots/)
+
++ [Shark Letter S Logo](https://dribbble.com/shots/)
+
++ [Leadpay logo design](https://dribbble.com/shots/)
+
++ [Play | Video Editing, Play Button or Ai Video Maker Logo Design](https://dribbble.com/shots/)
+
