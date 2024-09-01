@@ -55,3 +55,5 @@
 
 + [小米 SU7 车外唤醒防御功能上线：抑制率达 99%，基于自研声音大模型](https://m.ithome.com/html/792667.htm)
 
++ [联想拯救者 ×《黑神话：悟空》联名刃 7000K 超能版主机开售：i9-14900HX + RTX 4070 Ti SUPER，首发 15999 元](https://m.ithome.com/html/792601.htm)
+

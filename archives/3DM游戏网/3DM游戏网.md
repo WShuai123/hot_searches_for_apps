@@ -179,3 +179,5 @@
 
 + [《怪物猎人：荒野》DLC不会有任何充钱变强的道具](https://www.3dmgame.com/news/202409/3903171.html)
 
++ [李连杰于适加盟吴京新片《镖人》 2024年内杀青](https://www.3dmgame.com/news/202409/3903174.html)
+

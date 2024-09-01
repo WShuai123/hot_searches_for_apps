@@ -199,3 +199,9 @@
 
 + [基于yolov10的PCB检测算法研究](https://blog.csdn.net/qq_47541315/article/details/141717956)
 
++ [Promise内幕揭秘：手写实现背后的奥秘](https://blog.csdn.net/weixin_43288600/article/details/141754331)
+
++ [【MySQL】字节跳动MySQL连环40问（网图）](https://blog.csdn.net/muxuen/article/details/141746047)
+
++ [docker](https://blog.csdn.net/qq_67442238/article/details/141600471)
+
