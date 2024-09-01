@@ -159,3 +159,7 @@
 
 + [【Qt】Qt 网络 | UDP Socket](https://blog.csdn.net/m0_72563041/article/details/141759949)
 
++ [华为云征文｜Flexus X实例搭配华为云EulerOS，快速部署MySQL并执行读写性能测试](https://blog.csdn.net/qq_33681891/article/details/141760913)
+
++ [http连接处理](https://blog.csdn.net/qq_36372352/article/details/141721750)
+

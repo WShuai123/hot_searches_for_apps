@@ -49,3 +49,5 @@
 
 + [EDR监测遭遇滑铁卢？无驱动技术让你轻松突破EDR！](https://www.freebuf.com/articles/network/408582.html)
 
++ [“李鬼”软件暗设后门，对抗杀软侵蚀系统](https://www.freebuf.com/news/409087.html)
+

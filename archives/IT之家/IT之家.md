@@ -39,3 +39,5 @@
 
 + [消息称柔宇科技创始人刘自鸿已被解聘董事长职务，目前只剩公司大股东身份](https://m.ithome.com/html/792575.htm)
 
++ [小米 SU7 上线 9 月限时购车权益：依然为 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/792576.htm)
+
