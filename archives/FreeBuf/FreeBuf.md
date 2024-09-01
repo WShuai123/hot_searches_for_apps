@@ -45,3 +45,7 @@
 
 + [Tenda-FH1201多处命令注入漏洞分析和复现](https://www.freebuf.com/articles/endpoint/408554.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
++ [EDR监测遭遇滑铁卢？无驱动技术让你轻松突破EDR！](https://www.freebuf.com/articles/network/408582.html)
+

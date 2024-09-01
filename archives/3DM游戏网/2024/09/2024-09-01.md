@@ -117,3 +117,11 @@
 
 + [《战锤40K：星际战士2》无D加密 《魁地奇锦标赛》有](https://www.3dmgame.com/news/202409/3903135.html)
 
++ [今天是《合金装备5：幻痛》发售9周年 小岛发文缅怀](https://www.3dmgame.com/news/202409/3903146.html)
+
++ [原定于9月发售的《Parcel Corps》突然宣布跳票](https://www.3dmgame.com/news/202409/3903145.html)
+
++ [《JDM漂移大师》更新上线 新挑战模式探索极限](https://www.3dmgame.com/news/202409/3903144.html)
+
++ [《友尽高尔夫》DLC下周上线 体验奥林匹斯之旅](https://www.3dmgame.com/news/202409/3903143.html)
+

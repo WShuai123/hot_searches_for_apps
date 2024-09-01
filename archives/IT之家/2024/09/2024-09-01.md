@@ -31,3 +31,5 @@
 
 + [消息称欧加实验室在测试 7000mAh±80W 快充方案](https://m.ithome.com/html/792531.htm)
 
++ [小米王腾开箱雷军送的《黑神话：悟空》实体版游戏：今年收到最开心礼物](https://m.ithome.com/html/792581.htm)
+
