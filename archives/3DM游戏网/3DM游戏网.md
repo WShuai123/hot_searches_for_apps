@@ -107,3 +107,11 @@
 
 + [社长非常有信心！《闪电十一人》终将公布发售日](https://www.3dmgame.com/news/202409/3903180.html)
 
++ [吉野家与粉色恶魔星之卡比联动推出可爱饭碗](https://www.3dmgame.com/news/202409/3903183.html)
+
++ [《乐高哈利波特合集重制版》将于10月8日发售](https://www.3dmgame.com/news/202409/3903184.html)
+
++ [Switch《勇者斗恶龙3：HD-2D重制版》容量与《歧路旅人2》相当](https://www.3dmgame.com/news/202409/3903182.html)
+
++ [《塞尔达传说》时间线更新 开放世界系列或将独立](https://www.3dmgame.com/news/202409/3903181.html)
+
