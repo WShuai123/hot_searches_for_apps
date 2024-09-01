@@ -105,3 +105,5 @@
 
 + [《黑神话》官方感谢B站支持 播放量超2亿](https://www.3dmgame.com/news/202409/3903179.html)
 
++ [社长非常有信心！《闪电十一人》终将公布发售日](https://www.3dmgame.com/news/202409/3903180.html)
+

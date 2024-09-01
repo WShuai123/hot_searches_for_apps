@@ -127,3 +127,5 @@
 
 + [TCP 协议详解](https://blog.csdn.net/2301_76293625/article/details/141666106)
 
++ [华为云征文 | 在华为云Flexus云服务器X实例上部署Mininote轻量级笔记工具](https://blog.csdn.net/jks212454/article/details/141751484)
+
