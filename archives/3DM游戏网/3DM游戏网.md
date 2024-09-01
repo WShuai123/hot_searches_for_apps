@@ -125,3 +125,11 @@
 
 + [《友尽高尔夫》DLC下周上线 体验奥林匹斯之旅](https://www.3dmgame.com/news/202409/3903143.html)
 
++ [《JDM：漂移大师》获日产汽车授权 将加入经典车型](https://www.3dmgame.com/news/202409/3903150.html)
+
++ [CRPP始祖《巫术》联合创始人安德鲁去世](https://www.3dmgame.com/news/202409/3903149.html)
+
++ [2024中国内地暑期档总票房116.4亿：《抓娃娃》夺冠](https://www.3dmgame.com/news/202409/3903148.html)
+
++ [《The Fear Business》10月登陆Steam 生存恐怖冒险](https://www.3dmgame.com/news/202409/3903147.html)
+
