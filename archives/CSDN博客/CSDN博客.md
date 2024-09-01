@@ -193,3 +193,9 @@
 
 + [线性代数 第三讲 线性相关无关 线性表示](https://blog.csdn.net/weixin_62613321/article/details/141671906)
 
++ [如何打造基于Java SpringBoot和Vue的医院门诊智能预约平台？四步实现高效就医流程，整合MySQL数据库，优化用户体验。](https://blog.csdn.net/2401_86677951/article/details/141755574)
+
++ [【深入理解SpringCloud微服务】深入理解微服务配置中心原理，并手写一个微服务配置中心](https://blog.csdn.net/weixin_43889578/article/details/136985375)
+
++ [基于yolov10的PCB检测算法研究](https://blog.csdn.net/qq_47541315/article/details/141717956)
+
