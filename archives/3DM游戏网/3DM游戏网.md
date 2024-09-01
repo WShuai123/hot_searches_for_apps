@@ -149,3 +149,9 @@
 
 + [中国电信App与小程序突然崩溃：无法充值 用户愁坏了](https://www.3dmgame.com/news/202409/3903155.html)
 
++ [《星际拓荒：考古学家版》PS5实体版意外缺失DLC](https://www.3dmgame.com/news/202409/3903161.html)
+
++ [《博德之门3》曾考虑做第一人称视角对话 但被否决](https://www.3dmgame.com/news/202409/3903160.html)
+
++ [《黄蜂先锋2》Steam页面上线 和风推理名作](https://www.3dmgame.com/news/202409/3903159.html)
+
