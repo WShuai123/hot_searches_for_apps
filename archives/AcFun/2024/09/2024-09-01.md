@@ -85,3 +85,7 @@
 
 + [【红伊】来自天堂的魔鬼 | ACFUN声唱2024参赛曲](http://www.acfun.cn/v/ac46190027)
 
++ [歹徒：哟，又有助兴节目呢？★手机竖屏1260★](http://www.acfun.cn/v/ac46189749)
+
++ [我去，初音nya！](http://www.acfun.cn/v/ac46189857)
+

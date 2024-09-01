@@ -151,3 +151,11 @@
 
 + [2024年入职/转行网络安全，该如何规划？_网络安全职业规划](https://blog.csdn.net/2401_85023531/article/details/141717006)
 
++ [基于python的足球比赛数据及可视化 python 足球预测](https://blog.csdn.net/lizi88888/article/details/141717529)
+
++ [linux文件——文件系统——学习、理解、应用软硬件链接](https://blog.csdn.net/strive_mianyang/article/details/141759009)
+
++ [Elasticsearch：使用 LTR 进行个性化搜索](https://blog.csdn.net/UbuntuTouch/article/details/141751033)
+
++ [【Qt】Qt 网络 | UDP Socket](https://blog.csdn.net/m0_72563041/article/details/141759949)
+

@@ -35,3 +35,7 @@
 
 + [周鸿祎建议不要过度迷信 AI：现在网上许多内容被污染投毒，大模型无法判断](https://m.ithome.com/html/792571.htm)
 
++ [消息称升级华为鸿蒙 HarmonyOS NEXT 系统，微信数据备份归为 "其他系统资源"、长期占用空间](https://m.ithome.com/html/792607.htm)
+
++ [消息称柔宇科技创始人刘自鸿已被解聘董事长职务，目前只剩公司大股东身份](https://m.ithome.com/html/792575.htm)
+

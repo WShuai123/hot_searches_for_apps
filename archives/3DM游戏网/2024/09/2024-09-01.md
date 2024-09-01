@@ -133,3 +133,11 @@
 
 + [《The Fear Business》10月登陆Steam 生存恐怖冒险](https://www.3dmgame.com/news/202409/3903147.html)
 
++ [《卡片战斗先导者2》2025年1月登陆 Switch/Steam](https://www.3dmgame.com/news/202409/3903154.html)
+
++ [扮演恐龙体验末世东京 《Kyoryu》公布预告片](https://www.3dmgame.com/news/202409/3903151.html)
+
++ [微短剧《我在古代开超市》全网下架 内容低俗违规](https://www.3dmgame.com/news/202409/3903152.html)
+
++ [《寂静岭2》PC增强版团队发布10号最终更新补丁](https://www.3dmgame.com/news/202409/3903153.html)
+
