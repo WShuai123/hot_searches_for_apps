@@ -167,3 +167,5 @@
 
 + [邪恶结局优化 《博德之门3》7号补丁下周终于到来](https://www.3dmgame.com/news/202409/3903167.html)
 
++ [《ASTROBOTANICA》Steam上线 开放世界生存](https://www.3dmgame.com/news/202409/3903168.html)
+

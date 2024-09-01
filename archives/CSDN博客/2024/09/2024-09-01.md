@@ -185,3 +185,7 @@
 
 + [微信小程序App实现小车方向控制](https://blog.csdn.net/mftang/article/details/141750924)
 
++ [HarmonyOS开发实战（ Beta5版）小程序场景性能优化开发指导](https://blog.csdn.net/weixin_55362248/article/details/141758764)
+
++ [关于分布式数据库缓存设计的那点事和实践](https://blog.csdn.net/g984160547/article/details/141716025)
+

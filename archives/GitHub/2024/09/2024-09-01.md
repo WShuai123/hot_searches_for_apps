@@ -33,3 +33,25 @@
 
 + [Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 
++ [Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app)
+
++ [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
+
++ [seerge / g-helper](https://github.com/seerge/g-helper)
+
++ [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
+
++ [libsdl-org / SDL](https://github.com/libsdl-org/SDL)
+
++ [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+
++ [c3lang / c3c](https://github.com/c3lang/c3c)
+
