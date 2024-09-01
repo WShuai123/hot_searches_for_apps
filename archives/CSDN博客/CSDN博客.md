@@ -163,3 +163,9 @@
 
 + [http连接处理](https://blog.csdn.net/qq_36372352/article/details/141721750)
 
++ [【Python系列】SQLAlchemy 基本介绍](https://blog.csdn.net/qyj19920704/article/details/141691409)
+
++ [基于物联网的低成本便携式传感器节点用于火灾和空气污染的检测与报警](https://blog.csdn.net/bit_mike/article/details/141674264)
+
++ [【TCP核心机制-第二章】](https://blog.csdn.net/2301_76249062/article/details/141575067)
+

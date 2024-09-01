@@ -97,3 +97,13 @@
 
 + [试试悸动之铃~夏日清爽感？](http://www.acfun.cn/v/ac46189112)
 
++ [Trouble is a friend (Cover: Lenka) ACFUN声唱2024](http://www.acfun.cn/v/ac46190198)
+
++ [一分一秒](http://www.acfun.cn/v/ac46190227)
+
++ [把鞋跳断，把心跳乱，把家跳散](http://www.acfun.cn/v/ac46191393)
+
++ [♡Partner](http://www.acfun.cn/v/ac46191852)
+
++ [韩国的吃法，西瓜泡菜](http://www.acfun.cn/v/ac46191356)
+
