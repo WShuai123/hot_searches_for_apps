@@ -77,3 +77,51 @@
 
 + [Bacteria](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading & Portfolio Management App](https://dribbble.com/shots/)
+
++ ["Ophelia" - Final version, daily art](https://dribbble.com/shots/)
+
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
++ [Pricing UI](https://dribbble.com/shots/)
+
++ [UI-UX for an Analytics SaaS ✦ Admetric](https://dribbble.com/shots/)
+
++ [S and stitch](https://dribbble.com/shots/)
+
++ [Verve Real Estate Platform Webapp](https://dribbble.com/shots/)
+
++ [Solar website design Landing page](https://dribbble.com/shots/)
+
++ [Mobile App Landing Page](https://dribbble.com/shots/)
+
++ [Moonzero ✦ Logo](https://dribbble.com/shots/)
+
++ [Crypto Defi Landing Page design.](https://dribbble.com/shots/)
+
++ [debt (client work)](https://dribbble.com/shots/)
+
++ [Mose Logo Design](https://dribbble.com/shots/)
+
++ [Leadpay logo design](https://dribbble.com/shots/)
+
++ [Letter H + Kitchen Logo Design (Restaurant logo)](https://dribbble.com/shots/)
+
++ [Meme Token Website Design](https://dribbble.com/shots/)
+
++ [Free Paper Cups Mockup](https://dribbble.com/shots/)
+
++ [Product Design for Crypto Platform](https://dribbble.com/shots/)
+
++ [glare logo, spark logo design](https://dribbble.com/shots/)
+
++ [B2B AI Analytics Interface ✦ Peel](https://dribbble.com/shots/)
+
++ [AiTravel | Dashboard Analytics Solution | 3D Motion](https://dribbble.com/shots/)
+
++ [e-wallet, pay, digital wallet, crypto, NFT, blockchain](https://dribbble.com/shots/)
+
++ [ai logo, fintech, crypto brand identity](https://dribbble.com/shots/)
+
++ [Luxora - Shopify Website Design for Furniture](https://dribbble.com/shots/)
+

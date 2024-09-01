@@ -101,3 +101,7 @@
 
 + [暴雪或正在开发一款未公布第一人称射击角色扮演游戏](https://www.3dmgame.com/news/202408/3903126.html)
 
++ [全网最快《黑神话：悟空》通关 仅用4小时30分钟](https://www.3dmgame.com/news/202409/3903178.html)
+
++ [《黑神话》官方感谢B站支持 播放量超2亿](https://www.3dmgame.com/news/202409/3903179.html)
+

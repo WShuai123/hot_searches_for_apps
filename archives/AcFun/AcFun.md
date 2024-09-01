@@ -63,3 +63,11 @@
 
 + [【民工杂谈】jump发家简史02：黑红也是红！恶搞老师漫画带jump冲进百万销量](http://www.acfun.cn/v/ac46194218)
 
++ [竖屏，顾清寒泳装翻跳Klaxon](http://www.acfun.cn/v/ac46079020)
+
++ [【Dina小崽】阳光明媚，出来晒太阳吧~](http://www.acfun.cn/v/ac46191330)
+
++ [带你走进近距离男友视角vlog](http://www.acfun.cn/v/ac46194027)
+
++ [你能猜对几个？通过操作猜段位#03](http://www.acfun.cn/v/ac46192562)
+
