@@ -49,3 +49,31 @@
 
 + [Pizza](https://dribbble.com/shots/)
 
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
+
++ [Community Center](https://dribbble.com/shots/)
+
++ [Batmobile](https://dribbble.com/shots/)
+
++ [—From Archive (Pt. 5)](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [illustration Plane composition](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+

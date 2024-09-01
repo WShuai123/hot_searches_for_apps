@@ -61,3 +61,5 @@
 
 + [竖屏全身《Queencard》翻跳I’m hot！！](http://www.acfun.cn/v/ac43367342)
 
++ [【民工杂谈】jump发家简史02：黑红也是红！恶搞老师漫画带jump冲进百万销量](http://www.acfun.cn/v/ac46194218)
+
