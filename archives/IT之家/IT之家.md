@@ -41,3 +41,5 @@
 
 + [小米 SU7 上线 9 月限时购车权益：依然为 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/792576.htm)
 
++ [小米推出 9 月“手机电池 8 折换新”活动：32 款机型，79.2 元起](https://m.ithome.com/html/792625.htm)
+

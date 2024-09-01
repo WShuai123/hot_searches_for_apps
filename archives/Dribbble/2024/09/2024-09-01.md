@@ -171,3 +171,13 @@
 
 + [Page & Leaf](https://dribbble.com/shots/)
 
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
++ [Moonzero ✦ Logo](https://dribbble.com/shots/)
+
++ [Verve Real Estate Platform Webapp](https://dribbble.com/shots/)
+
++ [Luxora - Shopify Website Design for Furniture](https://dribbble.com/shots/)
+
++ [Ai-based crypto logo branding for fintech brand](https://dribbble.com/shots/)
+
