@@ -189,3 +189,7 @@
 
 + [关于分布式数据库缓存设计的那点事和实践](https://blog.csdn.net/g984160547/article/details/141716025)
 
++ [基于数据可视化大屏+Java+Vue前后端分离的高校学生线上考试系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/141781525)
+
++ [线性代数 第三讲 线性相关无关 线性表示](https://blog.csdn.net/weixin_62613321/article/details/141671906)
+

@@ -201,3 +201,15 @@
 
 + [Sombrero Flag & Anthem](https://dribbble.com/shots/)
 
++ [glare logo, spark logo design](https://dribbble.com/shots/)
+
++ [Financial Dashboard](https://dribbble.com/shots/)
+
++ [Mose Logo Design](https://dribbble.com/shots/)
+
++ [Energy Bird Logo For Sale](https://dribbble.com/shots/)
+
++ [UI-UX for an Analytics SaaS ✦ Admetric](https://dribbble.com/shots/)
+
++ [debt (client work)](https://dribbble.com/shots/)
+

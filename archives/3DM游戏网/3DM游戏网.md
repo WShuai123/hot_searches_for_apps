@@ -169,3 +169,5 @@
 
 + [《ASTROBOTANICA》Steam上线 开放世界生存](https://www.3dmgame.com/news/202409/3903168.html)
 
++ [七彩虹推出iGame Z790D5 火神主板 19+1+1相](https://www.3dmgame.com/news/202409/3903169.html)
+
