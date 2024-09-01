@@ -103,3 +103,15 @@
 
 + [Ruby](https://www.producthunt.com/posts/ruby-4)
 
++ [Grid-Feed](https://www.producthunt.com/posts/grid-feed)
+
++ [MeowMail](https://www.producthunt.com/posts/meowmail)
+
++ [Pickpockets Fanny Pack](https://www.producthunt.com/posts/pickpockets-fanny-pack)
+
++ [FretMap](https://www.producthunt.com/posts/fretmap)
+
++ [Emma by Revrag](https://www.producthunt.com/posts/emma-by-revrag-1)
+
++ [DataBrew](https://www.producthunt.com/posts/databrew-2)
+
