@@ -155,3 +155,9 @@
 
 + [《黄蜂先锋2》Steam页面上线 和风推理名作](https://www.3dmgame.com/news/202409/3903159.html)
 
++ [《风暴之城》大型资料片“磐石守护者”公布 月底发售](https://www.3dmgame.com/news/202409/3903163.html)
+
++ [《地心护核者》钓鱼小游戏被移除 或将在优化后回归](https://www.3dmgame.com/news/202409/3903164.html)
+
++ [《百鬼夜行幸存者》登陆Steam 日风吸幸爽快射击](https://www.3dmgame.com/news/202409/3903162.html)
+

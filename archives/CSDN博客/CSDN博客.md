@@ -173,3 +173,9 @@
 
 + [数学建模--K-Means聚类分析](https://blog.csdn.net/binhyun/article/details/141650541)
 
++ [压缩大型语言模型(LLMs):缩小10倍、性能保持不变](https://blog.csdn.net/m0_46510245/article/details/141777952)
+
++ [【Redis】Redis 持久化 AOF、RDB—（七）](https://blog.csdn.net/smile_sundays/article/details/141233280)
+
++ [139. MySQL同步ES的四种方案](https://blog.csdn.net/YouMing_Li/article/details/141750669)
+
