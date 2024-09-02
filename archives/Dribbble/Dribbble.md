@@ -245,3 +245,11 @@
 
 + [Page & Leaf](https://dribbble.com/shots/)
 
++ [Church / faith-related logos from the portfolio](https://dribbble.com/shots/)
+
++ [Shineo Animation Sound Design](https://dribbble.com/shots/)
+
++ [UI-UX for a 3D Editor ✦ Meshio](https://dribbble.com/shots/)
+
++ [icons](https://dribbble.com/shots/)
+
