@@ -197,3 +197,31 @@
 
 + [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
 
++ [Logo collection](https://dribbble.com/shots/)
+
++ [ProfitWave crypto platform](https://dribbble.com/shots/)
+
++ [Thunder branding](https://dribbble.com/shots/)
+
++ [Finance dashboard design](https://dribbble.com/shots/)
+
++ [Finflo - Blockchain Website](https://dribbble.com/shots/)
+
++ [Kreyda design agency](https://dribbble.com/shots/)
+
++ [Veterinary Clinic website: animation](https://dribbble.com/shots/)
+
++ [Woodbird Player Animation](https://dribbble.com/shots/)
+
++ [Arabic Calligraphy](https://dribbble.com/shots/)
+
++ [Verified Play logo design: play icon + check mark](https://dribbble.com/shots/)
+
++ [Land Of Sacrifice - Loading Game Screen Illustration](https://dribbble.com/shots/)
+
++ [SynthetIQ AI Logo Concept](https://dribbble.com/shots/)
+
++ [LookLab styling services project](https://dribbble.com/shots/)
+
++ [Fingrow - Branding for the financial knowledge platform](https://dribbble.com/shots/)
+

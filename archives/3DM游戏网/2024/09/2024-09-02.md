@@ -195,3 +195,13 @@
 
 + [《百英雄传》首个DLC宣布延期发售 原定于8月上线](https://www.3dmgame.com/news/202409/3903219.html)
 
++ [曝Intel将公布削减成本计划！包括出售可编程芯片部门Altera等](https://www.3dmgame.com/news/202409/3903227.html)
+
++ [黑猫、白猫为何停产 欧拉CEO：月销两万台 一台亏一万](https://www.3dmgame.com/news/202409/3903228.html)
+
++ [《黑神话》壁纸级截图欣赏 绝美震撼让人沉迷其中](https://www.3dmgame.com/news/202409/3903229.html)
+
++ [2024《极限竞速：地平线 5》领克杯FHL秋季赛即将开启，挑战极限，争夺荣耀！](https://www.3dmgame.com/news/202409/3903225.html)
+
++ [KK官方对战平台生存新图《武器大师》上线！痛快打击，成为真正的武器大师！](https://www.3dmgame.com/news/202409/3903226.html)
+
