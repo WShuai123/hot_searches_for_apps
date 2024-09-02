@@ -205,3 +205,11 @@
 
 + [KK官方对战平台生存新图《武器大师》上线！痛快打击，成为真正的武器大师！](https://www.3dmgame.com/news/202409/3903226.html)
 
++ [《黑神话：悟空》早期投资人：下一款国产3A游戏已在路上](https://www.3dmgame.com/news/202409/3903231.html)
+
++ [40周年纪念新动画《龙珠 DAIMA》确定10月开播](https://www.3dmgame.com/news/202409/3903232.html)
+
++ [Win11份额历史新高达32%！但仍仅为Win10一半](https://www.3dmgame.com/news/202409/3903233.html)
+
++ [英伟达推全新视觉AI语音模型 可以直接看图聊天](https://www.3dmgame.com/news/202409/3903230.html)
+

@@ -181,3 +181,17 @@
 
 + [七. 部署YOLOv8检测器-load-save-tensor](https://blog.csdn.net/qq_40672115/article/details/141789735)
 
++ [MS SQL Server partition by 函数实战三 成绩排名](https://blog.csdn.net/michaelline/article/details/141800714)
+
++ [2024国赛数学建模备战：灰色预测，国赛数学建模思路代码 模型](https://blog.csdn.net/weixin_45499067/article/details/141790377)
+
++ [【C++】C++STL 揭秘:Strng背后的底层逻辑](https://blog.csdn.net/2302_79177254/article/details/141189352)
+
++ [【数据结构与算法】：十大经典排序算法](https://blog.csdn.net/m0_48173416/article/details/141279179)
+
++ [腾讯云服务器上线一个springboot+vue项目最全教程 非Docker](https://blog.csdn.net/qq_61654952/article/details/141817756)
+
++ [LabVIEW中升采样和降采样](https://blog.csdn.net/bjcyck/article/details/141784391)
+
++ [在线演示文稿应用PPTist本地化部署并实现无公网IP远程编辑PPT](https://blog.csdn.net/ljq_up/article/details/141817382)
+
