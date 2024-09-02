@@ -47,3 +47,7 @@
 
 + [国产web框架Solon](https://www.freebuf.com/articles/web/409400.html)
 
++ [Java代码审计实战篇：超详细分享文件上传](https://www.freebuf.com/vuls/407781.html)
+
++ [新型恶意软件Voldemort 利用谷歌工作表向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)
+

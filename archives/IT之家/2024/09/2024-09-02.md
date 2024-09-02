@@ -39,3 +39,5 @@
 
 + [长安 Lumin 清悦款微型车上市：售 3.79 万元，可享 2 万元国家以旧换新补贴](https://m.ithome.com/html/792710.htm)
 
++ [一汽丰田 8 月销量 72086 台，全新亚洲龙销售 9264 台](https://m.ithome.com/html/792716.htm)
+

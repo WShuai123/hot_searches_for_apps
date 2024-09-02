@@ -143,3 +143,13 @@
 
 + [架构设计（13）安全架构设计理论](https://blog.csdn.net/zkmrobot/article/details/141774497)
 
++ [yolo8 目标检测、鉴黄](https://blog.csdn.net/A757291228/article/details/141104027)
+
++ [Redis在Spring Boot中的应用详细讲解和案例示范](https://blog.csdn.net/weixin_39996520/article/details/141791947)
+
++ [2024三掌柜赠书活动第二十七期：Kubernetes企业级云原生运维实战](https://blog.csdn.net/CC1991_/article/details/141792411)
+
++ [Linux和Unix的区别及为什么鸿蒙系统不用Unix的原因](https://blog.csdn.net/MLJYHP/article/details/141755179)
+
++ [前端技术(六)—— AJAX详解](https://blog.csdn.net/kejizhentan/article/details/141729595)
+
