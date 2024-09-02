@@ -207,3 +207,5 @@
 
 + [央视影音-新闻体育人文影视高清平台](https://itunes.apple.com/cn/app/id331259725?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+

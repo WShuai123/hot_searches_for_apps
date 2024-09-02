@@ -153,3 +153,15 @@
 
 + [《星球大战：亡命之徒》发售宣传片批评太多 育碧关闭了评论](https://www.3dmgame.com/news/202409/3903189.html)
 
++ [《塞尔达传说：智慧的再现》有英雄难度选项：敌人伤害翻倍](https://www.3dmgame.com/news/202409/3903208.html)
+
++ [羊毛党的威力 小天鹅因失误一夜被薅走7000万](https://www.3dmgame.com/news/202409/3903209.html)
+
++ [《Re：从零开始的异世界生活》第三季PV2公布 10月2日播出](https://www.3dmgame.com/news/202409/3903204.html)
+
++ [前任天堂资深设计师透露 宫本茂在游戏开发方面“不接受妥协”](https://www.3dmgame.com/news/202409/3903205.html)
+
++ [《寂静岭2》重制版和原版角色对比 重制得很棒？](https://www.3dmgame.com/news/202409/3903206.html)
+
++ [《Deadlock》在线峰值达到16万 谜之仅限邀请测试](https://www.3dmgame.com/news/202409/3903207.html)
+

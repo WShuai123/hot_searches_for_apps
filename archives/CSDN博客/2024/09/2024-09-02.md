@@ -153,3 +153,15 @@
 
 + [前端技术(六)—— AJAX详解](https://blog.csdn.net/kejizhentan/article/details/141729595)
 
++ [【Python机器学习】神经网络的组成](https://blog.csdn.net/weixin_39407597/article/details/141775202)
+
++ [海内外开源大咖齐聚，GOSIM China 2024 盛大开启](https://blog.csdn.net/GOSIM2023/article/details/141717111)
+
++ [使用 Nginx 部署前端 Vue 项目](https://blog.csdn.net/vvvae1234/article/details/141744755)
+
++ [【Android自定义控件】Kotlin实现滚动效果的数字加减控件](https://blog.csdn.net/qq_17470165/article/details/141748278)
+
++ [51单片机——I2C总线](https://blog.csdn.net/weixin_59334478/article/details/141784750)
+
++ [【初出江湖】大白话解释集中式、分布式、微服务的区别？](https://blog.csdn.net/Larry_794204525/article/details/141761008)
+
