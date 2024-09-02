@@ -115,3 +115,11 @@
 
 + [《塞尔达传说》时间线更新 开放世界系列或将独立](https://www.3dmgame.com/news/202409/3903181.html)
 
++ [外媒：《黑神话》成功后，中国加大游戏关注度](https://www.3dmgame.com/news/202409/3903187.html)
+
++ [《龙腾世纪4》新截图及信息 有开关能切换裸体](https://www.3dmgame.com/news/202409/3903188.html)
+
++ [《无主之地4》将有四名新秘藏猎人 增加RPG深度](https://www.3dmgame.com/news/202409/3903186.html)
+
++ [《星鸣特攻》销量可能只有2.5万份 太正确没人玩](https://www.3dmgame.com/news/202409/3903185.html)
+

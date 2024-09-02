@@ -25,3 +25,11 @@
 
 + [国产大飞机 C919 旅客突破 50 万人次，幸运乘客收到东航全球首架 C919 模型](https://m.ithome.com/html/792619.htm)
 
++ [高通骁龙 6 Gen 3 处理器发布：三星 4nm 工艺、2.4GHz CPU](https://m.ithome.com/html/792731.htm)
+
++ [鸿蒙智行 8 月全系交付新车 33699 辆、环比下降约 23.6%，1-8 月累计交付超 27 万辆](https://m.ithome.com/html/792722.htm)
+
++ [小米米家多功能电煮锅 1.5L 上架：1000W 功率、5 挡火力可调，售 149 元](https://m.ithome.com/html/792732.htm)
+
++ [古尔曼：M4 Pro 芯片版 Mac mini 将不会提供 USB-A 端口](https://m.ithome.com/html/792719.htm)
+

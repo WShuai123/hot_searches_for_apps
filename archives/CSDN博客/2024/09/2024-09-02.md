@@ -131,3 +131,11 @@
 
 + [TCP协议 配合 Wireshark 分析数据](https://blog.csdn.net/m0_52980547/article/details/141749142)
 
++ [【微服务】springboot 自定义注解+反射+aop实现动态修改请求参数](https://blog.csdn.net/zhangcongyi420/article/details/141781910)
+
++ [QT：详解信号和槽](https://blog.csdn.net/qq_57425280/article/details/141640857)
+
++ [基于yolov8的102种昆虫检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141783146)
+
++ [Linux 进程概念](https://blog.csdn.net/2301_80122797/article/details/141783934)
+
