@@ -33,3 +33,9 @@
 
 + [古尔曼：M4 Pro 芯片版 Mac mini 将不会提供 USB-A 端口](https://m.ithome.com/html/792719.htm)
 
++ [比亚迪 8 月汽车销量 373083 辆，同比增长 36%](https://m.ithome.com/html/792708.htm)
+
++ [比亚迪各车型 8 月详细销量信息公布：秦家族超 7 万辆，海鸥超 4 万辆](https://m.ithome.com/html/792721.htm)
+
++ [长安 Lumin 清悦款微型车上市：售 3.79 万元，可享 2 万元国家以旧换新补贴](https://m.ithome.com/html/792710.htm)
+

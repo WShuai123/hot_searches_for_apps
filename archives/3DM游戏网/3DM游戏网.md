@@ -123,3 +123,33 @@
 
 + [《星鸣特攻》销量可能只有2.5万份 太正确没人玩](https://www.3dmgame.com/news/202409/3903185.html)
 
++ [《魔兽》国服赞助CNDOTA！iG和XG感谢网易雷火支持](https://www.3dmgame.com/news/202409/3903203.html)
+
++ [万代南梦宫谈DEI政策：希望游戏更具多样性包容性](https://www.3dmgame.com/news/202409/3903202.html)
+
++ [《宝可梦：朱紫》新泰拉挑战将启动 炽焰咆哮虎参战](https://www.3dmgame.com/news/202409/3903201.html)
+
++ [《罪恶装备：Strive》Switch版存在限制 不支持跨平台联机](https://www.3dmgame.com/news/202409/3903200.html)
+
++ [《野狗子》新预告和实机演示 少女大战恐怖怪物](https://www.3dmgame.com/news/202409/3903199.html)
+
++ [《闪电十一人 电影2025》12月27日上映 系列总集篇](https://www.3dmgame.com/news/202409/3903197.html)
+
++ [《我们之中》宣布联动《逆转裁判》 免费发放御剑怜侍饰品](https://www.3dmgame.com/news/202409/3903196.html)
+
++ [PS5大幅涨价正式启动 玩家惊呼涨的太狠](https://www.3dmgame.com/news/202409/3903195.html)
+
++ [裂开！《星球大战：亡命之徒》MTC用户评分4.8分](https://www.3dmgame.com/news/202409/3903194.html)
+
++ [点击式养成冒险游戏《宠物大陆》现已推出试玩Demo](https://www.3dmgame.com/news/202409/3903193.html)
+
++ [《文明7》自由混搭领袖与文明 更大胆冒险的尝试](https://www.3dmgame.com/news/202409/3903192.html)
+
++ [《如龙：极》登陆Switch只有数字版 售价3000日元](https://www.3dmgame.com/news/202409/3903191.html)
+
++ [竞速越野赛车游戏《大脚车对决》现已正式推出 获多半好评](https://www.3dmgame.com/news/202409/3903198.html)
+
++ [《直到黎明 重置版》尚未发售 开发工作室已经开始裁员](https://www.3dmgame.com/news/202409/3903190.html)
+
++ [《星球大战：亡命之徒》发售宣传片批评太多 育碧关闭了评论](https://www.3dmgame.com/news/202409/3903189.html)
+
