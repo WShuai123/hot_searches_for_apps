@@ -57,3 +57,9 @@
 
 + [小米自带线充电宝 165W 上架预约：10000mAh，标价 199 元](https://m.ithome.com/html/792752.htm)
 
++ [传言称“iPhone 16 可能不支持微信”，苹果中国区技术顾问称正与腾讯沟通应用商店抽成事宜](https://m.ithome.com/html/792961.htm)
+
++ [上汽高层吐槽小米汽车抄保时捷，网友“看到来自‘传统车企’的傲慢”](https://m.ithome.com/html/792851.htm)
+
++ [小鹏 MONA 负责人杨光：M03 汽车定价 11.98 万起仍有毛利，已规划小鹏下一代产品](https://m.ithome.com/html/792824.htm)
+

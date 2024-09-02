@@ -207,3 +207,11 @@
 
 + [【计算机组成原理】七、输入/输出系统：1.I/O基本概念、I/O设备（外部设备）](https://blog.csdn.net/weixin_51350847/article/details/141784772)
 
++ [CNN中的注意力机制综合指南：从理论到Pytorch代码实现](https://blog.csdn.net/m0_46510245/article/details/141811445)
+
++ [Linux：深入理解计算机软硬件体系和架构](https://blog.csdn.net/weixin_51142926/article/details/140936732)
+
++ [【网络原理】从0开始学习计算机网络常识，中学生看了都能学会](https://blog.csdn.net/mgzdwm/article/details/141396422)
+
++ [快速回顾-HTML5](https://blog.csdn.net/code_stream/article/details/141784555)
+
