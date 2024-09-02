@@ -165,3 +165,9 @@
 
 + [【初出江湖】大白话解释集中式、分布式、微服务的区别？](https://blog.csdn.net/Larry_794204525/article/details/141761008)
 
++ [HDMI显示器驱动设计与验证](https://blog.csdn.net/qq_52438147/article/details/141431209)
+
++ [Python爬虫案例四：爬取某个博主的所有文章保存成PDF格式](https://blog.csdn.net/m0_74614835/article/details/141787484)
+
++ [使用FPGA开发一个协议转换模块](https://blog.csdn.net/m0_52011717/article/details/141783344)
+

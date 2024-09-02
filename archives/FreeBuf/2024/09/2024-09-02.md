@@ -53,3 +53,9 @@
 
 + [AI大语言模型越狱注入攻击案例分析及综合防范策略](https://www.freebuf.com/articles/paper/409395.html)
 
++ [GitHub项目评论被用来传播Lumma Stealer恶意软件](https://www.freebuf.com/news/409987.html)
+
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
++ [又一新型恶意软件曝光！已向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)
+

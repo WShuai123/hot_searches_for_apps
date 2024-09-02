@@ -21,3 +21,5 @@
 
 + [明日方舟](https://www.taptap.cn/app/70253)
 
++ [卡车人生](https://www.taptap.cn/app/204709)
+
