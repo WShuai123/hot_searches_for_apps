@@ -91,3 +91,47 @@
 
 + [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
 
++ [Canyon & Cacti ????](https://dribbble.com/shots/)
+
++ [Church / faith-related logos from the portfolio](https://dribbble.com/shots/)
+
++ [Shineo Animation Sound Design](https://dribbble.com/shots/)
+
++ [Logo collection](https://dribbble.com/shots/)
+
++ [Vintage F1 Poster](https://dribbble.com/shots/)
+
++ [M Logo Design Monogram - People, Community, Coins](https://dribbble.com/shots/)
+
++ [Star House Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [BVOY incense sticks](https://dribbble.com/shots/)
+
++ [UI-UX for a 3D Editor ✦ Meshio](https://dribbble.com/shots/)
+
++ [Socratis.ai Mascot](https://dribbble.com/shots/)
+
++ [ProfitWave crypto platform](https://dribbble.com/shots/)
+
++ [Finflo - Blockchain Website](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Prodmast - Manufacturing Landing Page](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [icons](https://dribbble.com/shots/)
+
++ [Volcano](https://dribbble.com/shots/)
+
++ [Equota - Fintech Dashboard](https://dribbble.com/shots/)
+
++ [Financial Web App](https://dribbble.com/shots/)
+
++ [Thunder branding](https://dribbble.com/shots/)
+
++ [Land Of Sacrifice - Loading Game Screen Illustration](https://dribbble.com/shots/)
+
