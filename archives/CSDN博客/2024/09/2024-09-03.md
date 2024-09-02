@@ -123,3 +123,9 @@
 
 + [七. 部署YOLOv8检测器-load-save-tensor](https://blog.csdn.net/qq_40672115/article/details/141789735)
 
++ [scoped作用原理及样式穿透的应用](https://blog.csdn.net/fageaaa/article/details/141832924)
+
++ [nginx 部署前端vue项目](https://blog.csdn.net/qq_28419035/article/details/141822578)
+
++ [【案例】如何做B端竞品分析？](https://blog.csdn.net/jinxinxin1314/article/details/141811275)
+
