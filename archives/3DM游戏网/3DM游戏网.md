@@ -101,3 +101,7 @@
 
 + [《如龙：极》登陆Switch只有数字版 售价3000日元](https://www.3dmgame.com/news/202409/3903191.html)
 
++ [《死神：魂魄觉醒》角色预告 展示角色市丸银](https://www.3dmgame.com/news/202409/3903244.html)
+
++ [真爱啊！小岛秀夫连发三条《黑神话》开箱视频](https://www.3dmgame.com/news/202409/3903245.html)
+
