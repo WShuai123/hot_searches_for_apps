@@ -149,3 +149,15 @@
 
 + [解谜冒险游戏《UNDERGROUNDED》Steam页面 明年发行](https://www.3dmgame.com/news/202407/3899504.html)
 
++ [《消逝的光芒》开发商正在开发第二个新IP 采用虚幻5引擎](https://www.3dmgame.com/news/202409/3903253.html)
+
++ [准备迎战特瑞 《街头霸王6》发布特瑞搏击证预告](https://www.3dmgame.com/news/202409/3903248.html)
+
++ [网飞动画《古墓丽影：劳拉传奇》劳拉性格大变](https://www.3dmgame.com/news/202409/3903252.html)
+
++ [《马里奥+疯狂兔子》又一个高级开发者离开了育碧](https://www.3dmgame.com/news/202409/3903251.html)
+
++ [《黑神话悟空》国外玩家整活 神龙大侠变身天命人](https://www.3dmgame.com/news/202409/3903250.html)
+
++ [《自杀小队》销量太差 开发商Rocksteady裁员启动](https://www.3dmgame.com/news/202409/3903249.html)
+

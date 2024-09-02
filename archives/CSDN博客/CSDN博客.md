@@ -133,3 +133,5 @@
 
 + [Elasticsearch：使用 inference API 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/141822088)
 
++ [SpringBoot中基于MongoDB的findAndModify原子操作实现分布式锁原理详解](https://blog.csdn.net/qq_26664043/article/details/141504381)
+
