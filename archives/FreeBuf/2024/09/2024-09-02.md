@@ -51,3 +51,5 @@
 
 + [新型恶意软件Voldemort 利用谷歌工作表向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)
 
++ [AI大语言模型越狱注入攻击案例分析及综合防范策略](https://www.freebuf.com/articles/paper/409395.html)
+
