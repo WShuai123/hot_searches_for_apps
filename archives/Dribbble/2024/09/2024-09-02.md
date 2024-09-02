@@ -225,3 +225,21 @@
 
 + [Fingrow - Branding for the financial knowledge platform](https://dribbble.com/shots/)
 
++ [M Logo Design Monogram - People, Community, Coins](https://dribbble.com/shots/)
+
++ [Star House Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Financial Web App](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Prodmast - Manufacturing Landing Page](https://dribbble.com/shots/)
+
++ [Audio Podcast](https://dribbble.com/shots/)
+
++ [Coat Of Arms With A Bears Head Logo](https://dribbble.com/shots/)
+

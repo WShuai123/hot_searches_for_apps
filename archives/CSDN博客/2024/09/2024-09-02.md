@@ -195,3 +195,9 @@
 
 + [在线演示文稿应用PPTist本地化部署并实现无公网IP远程编辑PPT](https://blog.csdn.net/ljq_up/article/details/141817382)
 
++ [OpenCV开发笔记（八十）：基于特征点匹配实现全景图片拼接](https://blog.csdn.net/qq21497936/article/details/141790116)
+
++ [部署Rancher2.9管理K8S1.26集群](https://blog.csdn.net/weixin_45310323/article/details/141787719)
+
++ [Chapter 08 Vue生命周期](https://blog.csdn.net/2302_80253507/article/details/141782853)
+

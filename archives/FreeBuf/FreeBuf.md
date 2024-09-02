@@ -61,3 +61,5 @@
 
 + [Wx64ST：一款轻松可修改的C语言Shellcode模板](https://www.freebuf.com/sectool/409225.html)
 
++ [中秋白帽兑好礼，花好月圆「盒」](https://www.freebuf.com/fevents/410050.html)
+
