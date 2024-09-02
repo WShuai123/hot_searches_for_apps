@@ -59,3 +59,5 @@
 
 + [又一新型恶意软件曝光！已向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)
 
++ [Wx64ST：一款轻松可修改的C语言Shellcode模板](https://www.freebuf.com/sectool/409225.html)
+

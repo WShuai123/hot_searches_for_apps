@@ -175,3 +175,11 @@
 
 + [钉钉被吐槽太复杂不好用！高管：因为它太先进](https://www.3dmgame.com/news/202409/3903214.html)
 
++ [《Shadowed》Steam页面上线 经典肉鸽地牢探索](https://www.3dmgame.com/news/202409/3903215.html)
+
++ [《乐高哈利波特合集》Steam商店页面上线 支持中文](https://www.3dmgame.com/news/202409/3903216.html)
+
++ [种田系轻小说改编动画《打了300年的史莱姆》第二季角色预告放出](https://www.3dmgame.com/news/202409/3903217.html)
+
++ [越吐槽越大卖！《黑神话》预估销量已达1690万份 收入超57亿](https://www.3dmgame.com/news/202409/3903218.html)
+

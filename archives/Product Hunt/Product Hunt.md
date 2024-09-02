@@ -119,3 +119,21 @@
 
 + [Rodeo](https://www.producthunt.com/posts/rodeo-9)
 
++ [Weavel](https://www.producthunt.com/posts/weavel)
+
++ [ScholaLatinae](https://www.producthunt.com/posts/scholalatinae)
+
++ [Earth.fm App](https://www.producthunt.com/posts/earth-fm-app)
+
++ [Pictogram Generator](https://www.producthunt.com/posts/pictogram-generator)
+
++ [SoleDeck](https://www.producthunt.com/posts/soledeck)
+
++ [TimeMaster](https://www.producthunt.com/posts/timemaster)
+
++ [Wisp CMS](https://www.producthunt.com/posts/wisp-cms)
+
++ [Amploo](https://www.producthunt.com/posts/amploo)
+
++ [ReplyToAppReviews](https://www.producthunt.com/posts/replytoappreviews)
+
