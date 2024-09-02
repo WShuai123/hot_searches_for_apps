@@ -77,3 +77,17 @@
 
 + [Page & Leaf](https://dribbble.com/shots/)
 
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [Geometric Zeus Logo](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+

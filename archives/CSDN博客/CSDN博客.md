@@ -101,3 +101,25 @@
 
 + [AI技术引领未来游戏革命：《黑神话：悟空》——‘ 我国第一个大学生 ’【与游戏科学的深度融合】](https://blog.csdn.net/zhaochen1127/article/details/141729260)
 
++ [深度学习框架及其工具链：TensorFlow、PyTorch、OneFlow、MXNet、MindSpore对比分析](https://blog.csdn.net/weixin_52908342/article/details/141751471)
+
++ [智能创作与优化新时代：【ChatGPT-4o】在【数学建模】、【AI绘画】、【海报设计】与【论文优化】中的创新应用](https://blog.csdn.net/2303_77720864/article/details/141751540)
+
++ [linux文件——文件系统与内存管理——理解打开文件， 写入数据与文件系统的关系](https://blog.csdn.net/strive_mianyang/article/details/141789944)
+
++ [【网络安全】OSI网络安全体系结构](https://blog.csdn.net/weixin_45627039/article/details/141763572)
+
++ [基于数据可视化大屏+Java+Vue前后端分离的高校学生线上考试系统设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/141781525)
+
++ [【千帆AppBuilder】使用Python调用基于官方的API创建图片故事的应用，一起体验下全代码模式下是怎样的效果](https://blog.csdn.net/lmy_520/article/details/141668260)
+
++ [数据仓库系列17：元数据管理在数据仓库中的作用是什么?](https://blog.csdn.net/u012955829/article/details/141761133)
+
++ [Chapter 08 Vue生命周期](https://blog.csdn.net/2302_80253507/article/details/141782853)
+
++ [使用 Nginx 部署前端 Vue 项目](https://blog.csdn.net/vvvae1234/article/details/141744755)
+
++ [单元测试 Mock不Mock？](https://blog.csdn.net/qq_28314431/article/details/140668925)
+
++ [七. 部署YOLOv8检测器-load-save-tensor](https://blog.csdn.net/qq_40672115/article/details/141789735)
+
