@@ -23,3 +23,5 @@
 
 + [卡车人生](https://www.taptap.cn/app/204709)
 
++ [异色边缘](https://www.taptap.cn/app/456287)
+
