@@ -105,3 +105,47 @@
 
 + [真爱啊！小岛秀夫连发三条《黑神话》开箱视频](https://www.3dmgame.com/news/202409/3903245.html)
 
++ [玩法多样《塞尔达传说 智慧的再现》发布真人预告](https://www.3dmgame.com/news/202409/3903246.html)
+
++ [《丧尸围城豪华复刻版》发布暴君和克里斯服装DLC预告](https://www.3dmgame.com/news/202409/3903247.html)
+
++ [塔防解谜游戏《Castle Doombad Classic》Steam页面 年内发售](https://www.3dmgame.com/news/202407/3899506.html)
+
++ [发布13年 经典游戏《泰拉瑞亚》终生销量超5800万份](https://www.3dmgame.com/news/202407/3899505.html)
+
++ [《使命召唤》宣布美国职业摔角WWE联动 7月24日上线](https://www.3dmgame.com/news/202407/3899503.html)
+
++ [街机风格动作游戏《后末日侠盗》将于月底发售](https://www.3dmgame.com/news/202407/3899513.html)
+
++ [马斯克：到2026年Neuralink将为超过1000名患者植入脑机芯片](https://www.3dmgame.com/news/202407/3899511.html)
+
++ [致20颗星链卫星损毁 SpaceX猎鹰9号7年首次发射失败](https://www.3dmgame.com/news/202407/3899509.html)
+
++ [《全境封锁2》开发团队讨论赛季2.0和赛季角色：已重新评估](https://www.3dmgame.com/news/202407/3899498.html)
+
++ [2D横版动作射击游戏的合集《二战前线合集》Steam页面上线 7月24日发售](https://www.3dmgame.com/news/202407/3899499.html)
+
++ [正确到底！BioWare解释为何《龙腾世纪：影障守护者》没有血魔法](https://www.3dmgame.com/news/202407/3899497.html)
+
++ [《星球大战：法外狂徒》创意总监：这不是传统育碧游戏的换皮](https://www.3dmgame.com/news/202407/3899496.html)
+
++ [《铁拳8》下次更新将追加拍照模式 万代将举办拍照大赛](https://www.3dmgame.com/news/202407/3899495.html)
+
++ [沙特和国际奥委会签12年协议 举办电竞奥运会](https://www.3dmgame.com/news/202407/3899494.html)
+
++ [《消逝的光芒》开发商Techland要求员工回归办公室](https://www.3dmgame.com/news/202407/3899507.html)
+
++ [《第一后裔》开发商回应掉落率争议：将更加透明](https://www.3dmgame.com/news/202407/3899508.html)
+
++ [多位外聘翻译人员表示任天堂拒绝在作品中为其署名](https://www.3dmgame.com/news/202407/3899500.html)
+
++ [《最后的炼金术士》现已发售 上市宣传片欣赏](https://www.3dmgame.com/news/202407/3899510.html)
+
++ [《辐射：伦敦》MOD需要游戏本体 但Game Pass版不行](https://www.3dmgame.com/news/202407/3899501.html)
+
++ [任天堂禁止第三方翻译人员在简历里包含参与作品](https://www.3dmgame.com/news/202407/3899512.html)
+
++ [今年“三伏天”将持续40天加长版：下周开始入伏](https://www.3dmgame.com/news/202407/3899502.html)
+
++ [解谜冒险游戏《UNDERGROUNDED》Steam页面 明年发行](https://www.3dmgame.com/news/202407/3899504.html)
+

@@ -131,3 +131,5 @@
 
 + [【H2O2|全栈】Markdown | Md 笔记到底如何使用？【前端 · HTML前置知识】](https://blog.csdn.net/ZC13786305863/article/details/141827402)
 
++ [Elasticsearch：使用 inference API 进行语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/141822088)
+

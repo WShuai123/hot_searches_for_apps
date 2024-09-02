@@ -141,3 +141,7 @@
 
 + [What Makes a City “Well”?](https://dribbble.com/shots/)
 
++ [3D Illustration for a Next-Gen Commerce and Collectibles Market](https://dribbble.com/shots/)
+
++ [Dartmouth Fall 24](https://dribbble.com/shots/)
+
