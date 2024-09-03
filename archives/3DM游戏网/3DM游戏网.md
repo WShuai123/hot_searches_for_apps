@@ -315,3 +315,9 @@
 
 + [北野武想跟赵本山、沈腾一起做喜剧作品](https://www.3dmgame.com/news/202409/3903330.html)
 
++ [《Concord》似乎被索尼抛弃 PlayStation官推已经不宣传这款游戏](https://www.3dmgame.com/news/202409/3903332.html)
+
++ [苹果官方否认iPhone16不支持微信](https://www.3dmgame.com/news/202409/3903333.html)
+
++ [《星球大战：亡命之徒》英国实体销量比《星球大战绝地：幸存者》少了55%](https://www.3dmgame.com/news/202409/3903331.html)
+

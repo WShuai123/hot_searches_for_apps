@@ -61,3 +61,7 @@
 
 + [英伟达 RTX 50 系列显卡被曝推迟，需重新流片以提升良率](https://m.ithome.com/html/793068.htm)
 
++ [索尼 PS5 Pro 游戏主机曝光：光栅化性能媲美 7700 XT、光线追踪速度更优](https://m.ithome.com/html/793087.htm)
+
++ [比亚迪苏里南首店开业：销售海豚、海豹、元 PLUS、宋 PLUS DM-i 四款车型](https://m.ithome.com/html/792978.htm)
+
