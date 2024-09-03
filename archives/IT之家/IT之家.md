@@ -39,3 +39,7 @@
 
 + [填补国际空白，吉林一号世界首个高清全球年度一张图发布](https://m.ithome.com/html/792969.htm)
 
++ [古铜色版 iPhone 16 Pro / Max 再曝光，14 秒电商视频暗示苹果升级相机微距功能](https://m.ithome.com/html/792987.htm)
+
++ [小米 15 系列新机通过无线电核准，距离发布更进一步](https://m.ithome.com/html/792864.htm)
+

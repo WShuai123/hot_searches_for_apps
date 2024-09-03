@@ -207,3 +207,19 @@
 
 + [《战神》开发商圣莫尼卡有多个未公开的项目进行中](https://www.3dmgame.com/news/202409/3903260.html)
 
++ [独立游戏开发者的重置版游戏未能通过Steam审核 原因是看起来与原版一模一样](https://www.3dmgame.com/news/202409/3903284.html)
+
++ [《马里奥派对》开发商宣布更名 已完全成为任天堂子公司](https://www.3dmgame.com/news/202409/3903279.html)
+
++ [《圣诞老人的担忧》登陆Steam 与警察玩捉迷藏](https://www.3dmgame.com/news/202409/3903281.html)
+
++ [《仙剑奇侠传》与盖世小鸡联名限定款手柄上线 优惠价96元](https://www.3dmgame.com/news/202409/3903283.html)
+
++ [《一次机会：世界机器版》Steam页面公布 10月1日发售](https://www.3dmgame.com/news/202409/3903282.html)
+
++ [全新出发热血开燃！宋雨琦担任《变形金刚：起源》中国推广大使](https://www.3dmgame.com/news/202409/3903280.html)
+
++ [《三国志8重制版》吕布和貂蝉角色介绍 英雄配美人](https://www.3dmgame.com/news/202409/3903278.html)
+
++ [《博德之门3》被指“照搬”《神界原罪2》 团队对此很诧异](https://www.3dmgame.com/news/202409/3903277.html)
+

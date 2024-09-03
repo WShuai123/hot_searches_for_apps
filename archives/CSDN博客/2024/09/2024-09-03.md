@@ -141,3 +141,11 @@
 
 + [【个人笔记】如何使用Verdi](https://blog.csdn.net/Hide_in_Code/article/details/141792378)
 
++ [基于大数据爬虫+数据可视化大屏+Python的广东省人口流动数据分析设计和实现(源码+论文+部署文档等)](https://blog.csdn.net/weixin_39709134/article/details/141832341)
+
++ [优化LabVIEW中TCP通信速度的方法](https://blog.csdn.net/bjcyck/article/details/141822561)
+
++ [物联网之MQTT](https://blog.csdn.net/dangfulin/article/details/141791462)
+
++ [微信小程序接入客服功能](https://blog.csdn.net/weixin_44248187/article/details/141751793)
+

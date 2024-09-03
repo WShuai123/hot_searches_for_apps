@@ -47,3 +47,5 @@
 
 + [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
 
++ [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
+
