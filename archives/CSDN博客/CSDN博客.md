@@ -119,3 +119,5 @@
 
 + [Kotaemon：开源的RAG UI](https://blog.csdn.net/shebao3333/article/details/141779396)
 
++ [算法数学加油站：一元高斯分布（正态分布）&Python精美科研绘图（PDF、CDF、PPF、ECDF曲线；QQ图）](https://blog.csdn.net/weixin_51658186/article/details/140230615)
+
