@@ -157,3 +157,9 @@
 
 + [基于微信小程序的校园二手交易平台](https://blog.csdn.net/weixin_44308935/article/details/141824509)
 
++ [【机器学习】图像处理与深度学习利器：OpenCV实战攻略全面解析](https://blog.csdn.net/qq_57761637/article/details/141531267)
+
++ [基于nodejs+vue+uniapp的学习资料销售平台小程序](https://blog.csdn.net/shmp54/article/details/141788598)
+
++ [ARM————体系结构](https://blog.csdn.net/zm1332006603/article/details/141830722)
+
