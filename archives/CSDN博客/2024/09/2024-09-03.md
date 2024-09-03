@@ -163,3 +163,11 @@
 
 + [ARM————体系结构](https://blog.csdn.net/zm1332006603/article/details/141830722)
 
++ [【杂谈】-国产单片机学习成本高的原因分析](https://blog.csdn.net/wujuxKkoolerter/article/details/141792789)
+
++ [Linux驱动开发MODULE_DEVICE_TABLE的作用](https://blog.csdn.net/bjbz_cxy/article/details/141817489)
+
++ [Unity【Colliders碰撞器】和【Rigibody刚体】的应用——小球反弹效果](https://blog.csdn.net/2302_80644606/article/details/141833352)
+
++ [IP综合实验](https://blog.csdn.net/2301_78530830/article/details/141822041)
+
