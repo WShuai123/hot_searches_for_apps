@@ -41,3 +41,7 @@
 
 + [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
 
++ [FreeBuf早报 | 杜蕾斯子公司客户数据遭泄露；马来西亚基建遭勒索攻击300GB数据被窃](https://www.freebuf.com/news/409978.html)
+
++ [压上加压：探索勒索软件团伙的施压策略](https://www.freebuf.com/articles/paper/408954.html)
+

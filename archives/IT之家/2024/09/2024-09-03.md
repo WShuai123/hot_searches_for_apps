@@ -25,3 +25,13 @@
 
 + [知情人士回应“微信可能不支持苹果 iPhone 16”：传言为谣言](https://m.ithome.com/html/792971.htm)
 
++ [消息称华为 9 月新品发布会将带来问界 M9 / 智界 R7 汽车、三折叠屏手机，鸿蒙 NEXT 系统不会首发](https://m.ithome.com/html/792780.htm)
+
++ [OPPO、vivo、小米应用商店 9 月 2 日起下架仅支持 32 位的应用](https://m.ithome.com/html/792946.htm)
+
++ [闲鱼发布“个人卖家流量保障计划”，上线“个人闲置”专属入口](https://m.ithome.com/html/792889.htm)
+
++ [京东宣布 2025 届校招生岗位薪酬全面上调](https://m.ithome.com/html/792795.htm)
+
++ [首发价 1399 元，小米 Redmi 显示器 A27U Type-C 版开启预售](https://m.ithome.com/html/792785.htm)
+

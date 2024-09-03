@@ -161,3 +161,15 @@
 
 + [《自杀小队》销量太差 开发商Rocksteady裁员启动](https://www.3dmgame.com/news/202409/3903249.html)
 
++ [《十字军之王3》新数据：玩家总游戏时长超2.25亿小时](https://www.3dmgame.com/news/202409/3903259.html)
+
++ [《黑神话：悟空》带火山西！大同华严寺游客暴增超50%](https://www.3dmgame.com/news/202409/3903258.html)
+
++ [2K Games《NBA 2K25》PC版支持光线追踪](https://www.3dmgame.com/news/202409/3903257.html)
+
++ [合作生存游戏《永恒冬季》9/24抢先体验版推出](https://www.3dmgame.com/news/202409/3903256.html)
+
++ [《沙丘：觉醒》开发者：移植到Xbox Series S上是一大挑战 PC版画质很强](https://www.3dmgame.com/news/202409/3903255.html)
+
++ [《战锤40K：星际战士2》新视频展示致命动力剑](https://www.3dmgame.com/news/202409/3903254.html)
+
