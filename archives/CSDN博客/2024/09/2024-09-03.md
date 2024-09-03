@@ -175,3 +175,7 @@
 
 + [Nginx 部署前端 Vue 项目实战指南](https://blog.csdn.net/problc/article/details/141817243)
 
++ [opencv图像形态学（边缘检测算法实例）](https://blog.csdn.net/2401_84670644/article/details/141830282)
+
++ [【机器学习算法】从线性到多维：多元线性回归算法的深度解析与应用实践](https://blog.csdn.net/weixin_52908342/article/details/141754723)
+

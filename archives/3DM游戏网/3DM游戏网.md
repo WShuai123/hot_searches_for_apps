@@ -263,3 +263,19 @@
 
 + [KK官方对战平台《圣剑酒馆2》在玩一种很新的赏金赛！](https://www.3dmgame.com/news/202409/3903302.html)
 
++ [《死侍》《变形金刚》等动视游戏或即将重新上架Xbox](https://www.3dmgame.com/news/202409/3903309.html)
+
++ [伊恩·麦克莱恩称已有人邀请回归新《指环王》电影 获再度出演甘道夫](https://www.3dmgame.com/news/202409/3903310.html)
+
++ [《崩坏：星穹铁道》千星纪游PV：「飞镝追星」](https://www.3dmgame.com/news/202409/3903311.html)
+
++ [玩家要求《文明7》开发商放弃D加密：影响我玩游戏](https://www.3dmgame.com/news/202409/3903312.html)
+
++ [打仗要动脑！战术类潜行冒险游戏《苏美尔六人组》现已正式发布](https://www.3dmgame.com/news/202409/3903305.html)
+
++ [GOG喜加一 独立喜剧游戏《小丑往事》现可免费领取](https://www.3dmgame.com/news/202409/3903306.html)
+
++ [传闻：《命运》手游仍在开发中 更名为《命运：崛起》](https://www.3dmgame.com/news/202409/3903307.html)
+
++ [日元贬值大量外国玩家涌向日本 爆买复古游戏](https://www.3dmgame.com/news/202409/3903308.html)
+

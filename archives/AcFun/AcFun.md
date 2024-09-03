@@ -101,3 +101,7 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千九百四十六期](http://www.acfun.cn/v/ac46198838)
 
++ [【HJM每周秀】VS【HXD每周秀】vol.8](http://www.acfun.cn/v/ac46199939)
+
++ [韩服最强王者菁英对决 #2566](http://www.acfun.cn/v/ac46199182)
+
