@@ -139,3 +139,5 @@
 
 + [智能合约中storage和memory函数详解](https://blog.csdn.net/qq_38420688/article/details/141723562)
 
++ [【个人笔记】如何使用Verdi](https://blog.csdn.net/Hide_in_Code/article/details/141792378)
+

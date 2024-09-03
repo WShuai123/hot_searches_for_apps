@@ -35,3 +35,7 @@
 
 + [首发价 1399 元，小米 Redmi 显示器 A27U Type-C 版开启预售](https://m.ithome.com/html/792785.htm)
 
++ [美国再次推迟宣布涉中国电动汽车等商品关税的最终决定](https://m.ithome.com/html/792980.htm)
+
++ [填补国际空白，吉林一号世界首个高清全球年度一张图发布](https://m.ithome.com/html/792969.htm)
+

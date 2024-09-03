@@ -45,3 +45,5 @@
 
 + [压上加压：探索勒索软件团伙的施压策略](https://www.freebuf.com/articles/paper/408954.html)
 
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
