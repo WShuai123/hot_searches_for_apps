@@ -49,3 +49,49 @@
 
 + [Degen Pepe Inu Fan Token Meme](https://dribbble.com/shots/)
 
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Secondary Logo](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Sombrero Flag & Anthem](https://dribbble.com/shots/)
+
++ [つづく](https://dribbble.com/shots/)
+
++ [Tin Fish Can Design](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Tertiary Logo](https://dribbble.com/shots/)
+
++ [pink flowers](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Collateral for a Soul Food Restaurant in Mexico City](https://dribbble.com/shots/)
+
++ [LEMONADE GANG](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [Rideshare, for whom?](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
++ [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
+
