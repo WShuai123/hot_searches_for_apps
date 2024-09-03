@@ -211,3 +211,13 @@
 
 + [一文读懂蒙特卡洛算法：从概率模拟到机器学习模型优化的全方位解析](https://blog.csdn.net/m0_46510245/article/details/141852361)
 
++ [碰撞检测 | 详解矩形AABB与OBB碰撞检测算法(附ROS C++可视化)](https://blog.csdn.net/FRIGIDWINTER/article/details/141790258)
+
++ [【机器学习-神经网络】循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/141790746)
+
++ [Spring理论知识（Ⅲ）——Spring面向切面编程](https://blog.csdn.net/new_light123/article/details/141558922)
+
++ [为什么一些行业刚起步就白热化竞争-例如机器人行业？](https://blog.csdn.net/ZhangRelay/article/details/141816893)
+
++ [从模型到实践：新时代【数学建模竞赛论文】的结构、规范与创新解析](https://blog.csdn.net/2303_77720864/article/details/141833129)
+

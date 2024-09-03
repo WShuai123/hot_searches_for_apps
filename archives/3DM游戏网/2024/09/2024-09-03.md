@@ -321,3 +321,47 @@
 
 + [《星球大战：亡命之徒》英国实体销量比《星球大战绝地：幸存者》少了55%](https://www.3dmgame.com/news/202409/3903331.html)
 
++ [《星际卡车司机》正式发售 Steam特惠82.8元](https://www.3dmgame.com/news/202409/3903335.html)
+
++ [《神话时代》来了 9月上旬Game Pass名单公开](https://www.3dmgame.com/news/202409/3903334.html)
+
++ [《赛博朋克2077》复古降级版视频 还原世嘉CD风格](https://www.3dmgame.com/news/202402/3888234.html)
+
++ [R星《湾岸午夜俱乐部2》获得RTX光追mod](https://www.3dmgame.com/news/202402/3888233.html)
+
++ [《地狱潜者2》销量破百万 Steam好评率增至75%](https://www.3dmgame.com/news/202402/3888231.html)
+
++ [金亨泰希望《星刃》成榜样 激励韩国多开发单机游戏](https://www.3dmgame.com/news/202402/3888240.html)
+
++ [《猩球崛起4》超级碗预告 5月10日北美上映](https://www.3dmgame.com/news/202402/3888239.html)
+
++ [《最终幻想7：重生》角色关键艺术图 风格多样很华丽](https://www.3dmgame.com/news/202402/3888237.html)
+
++ [路透社：Switch 2可能继续采用英伟达芯片](https://www.3dmgame.com/news/202402/3888227.html)
+
++ [华为P70手机全系支持曲面屏和卫星通信 芯片频率有差别](https://www.3dmgame.com/news/202402/3888226.html)
+
++ [《绝地潜兵2》PC在线是PS5的两倍多](https://www.3dmgame.com/news/202402/3888225.html)
+
++ [美国50亿美元芯片研发投资落地 英伟达市值逼近谷歌亚马逊](https://www.3dmgame.com/news/202402/3888224.html)
+
++ [《幻兽帕鲁》Steam玩家流失 平均在线下降17.7%](https://www.3dmgame.com/news/202402/3888223.html)
+
++ [LG 27GS95QE游戏显示器上市 OLED面板首发5999元](https://www.3dmgame.com/news/202402/3888222.html)
+
++ [索尼6亿美元买下迈克尓·杰克逊半数曲目](https://www.3dmgame.com/news/202402/3888235.html)
+
++ [内部人士称《星空》不会登陆PS5 但其它Xbox游戏有可能](https://www.3dmgame.com/news/202402/3888236.html)
+
++ [摆脱依赖NVIDIA！Meta第二代自研AI芯片正式投产](https://www.3dmgame.com/news/202402/3888228.html)
+
++ [《死侍3》首支预告片发布 定名《死侍与死党》](https://www.3dmgame.com/news/202402/3888238.html)
+
++ [《廖添丁：绝代凶贼之末日》Steam史低促销 获特别好评](https://www.3dmgame.com/news/202402/3888229.html)
+
++ [灾难片新《龙卷风》发首支预告片 《壮志凌云2》男星主演](https://www.3dmgame.com/news/202402/3888241.html)
+
++ [传闻：Switch2支持向下兼容 支持实体版和数字版](https://www.3dmgame.com/news/202402/3888230.html)
+
++ [《无职转生》游戏版发行日公布 6/20登陆各大平台](https://www.3dmgame.com/news/202402/3888232.html)
+

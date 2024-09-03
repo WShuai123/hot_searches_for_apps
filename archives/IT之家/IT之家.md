@@ -65,3 +65,7 @@
 
 + [比亚迪苏里南首店开业：销售海豚、海豹、元 PLUS、宋 PLUS DM-i 四款车型](https://m.ithome.com/html/792978.htm)
 
++ [消息称 iPhone SE 4 将采用 OLED 屏幕，JDI 和夏普退出苹果供应链](https://m.ithome.com/html/793201.htm)
+
++ [“人民神车”五菱宏光纯电版 9 月 6 日预售：续航 300 公里，现款燃油版 4.65 万元起](https://m.ithome.com/html/793141.htm)
+
