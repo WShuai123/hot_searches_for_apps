@@ -119,3 +119,13 @@
 
 + [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
 
++ [Gelata Pisci - NFT Art, daily vectors](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Bottling things up](https://dribbble.com/shots/)
+
++ [Rolleiflex](https://dribbble.com/shots/)
+
++ [JUNEBOY Script](https://dribbble.com/shots/)
+

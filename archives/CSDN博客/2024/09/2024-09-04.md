@@ -105,3 +105,9 @@
 
 + [基于yolov8的102种昆虫检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141783146)
 
++ [【SPSS】基于因子分析法对葡萄酒数据进行分析](https://blog.csdn.net/m0_64336780/article/details/138446037)
+
++ [vue2开发心得](https://blog.csdn.net/weixin_55605689/article/details/141632977)
+
++ [【web安全】XSS篇](https://blog.csdn.net/m0_71944965/article/details/141824184)
+
