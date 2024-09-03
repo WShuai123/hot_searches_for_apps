@@ -311,3 +311,5 @@
 
 + [微信苹果二选一引热议！网友发现苹果微信7年前就斗过](https://www.3dmgame.com/news/202409/3903328.html)
 
++ [Capcom公布科隆亚洲游戏展参展名单 《怪物猎人：荒野》提供试玩](https://www.3dmgame.com/news/202409/3903329.html)
+

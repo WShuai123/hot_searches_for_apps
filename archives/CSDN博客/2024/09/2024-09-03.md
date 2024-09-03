@@ -199,3 +199,13 @@
 
 + [MASM32+ HTML & JavaScript，好搭档](https://blog.csdn.net/Purpleendurer/article/details/141816858)
 
++ [Redis 篇-深入了解查询缓存与缓存所带来的问题（读写不一致、缓存穿透、缓存雪崩、缓存击穿）](https://blog.csdn.net/Tingfeng__/article/details/141821306)
+
++ [基于springboot+enum配置化实践](https://blog.csdn.net/splendid_java/article/details/141858600)
+
++ [TCP协议](https://blog.csdn.net/2301_76161469/article/details/136202943)
+
++ [幻觉消除论文阅读：通过诱导幻觉缓解大型语言模型的幻觉](https://blog.csdn.net/m0_52965867/article/details/141748481)
+
++ [Kotaemon：开源的RAG UI](https://blog.csdn.net/shebao3333/article/details/141779396)
+
