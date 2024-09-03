@@ -123,3 +123,7 @@
 
 + [uniapp 自定义微信小程序 tabBar 导航栏](https://blog.csdn.net/sinat_35272898/article/details/141754948)
 
++ [遗传算法与深度学习实战（9）——使用遗传算法重建图像](https://blog.csdn.net/LOVEmy134611/article/details/141813911)
+
++ [前端框架大观：探索现代Web开发的基石](https://blog.csdn.net/weixin_73295475/article/details/141847715)
+
