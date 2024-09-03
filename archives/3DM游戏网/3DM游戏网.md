@@ -307,3 +307,7 @@
 
 + [流浪猫模拟器《Copycat》发售日预告 9月20日发售](https://www.3dmgame.com/news/202409/3903322.html)
 
++ [苹果税被批吃相难看！在中国抽佣30%全球最高](https://www.3dmgame.com/news/202409/3903327.html)
+
++ [微信苹果二选一引热议！网友发现苹果微信7年前就斗过](https://www.3dmgame.com/news/202409/3903328.html)
+

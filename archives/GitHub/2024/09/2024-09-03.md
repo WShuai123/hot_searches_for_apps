@@ -39,3 +39,19 @@
 
 + [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
 
++ [midday-ai / midday](https://github.com/midday-ai/midday)
+
++ [bluesky-social / atproto](https://github.com/bluesky-social/atproto)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [seerge / g-helper](https://github.com/seerge/g-helper)
+
++ [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
++ [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+
++ [AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+
++ [baidu / amis](https://github.com/baidu/amis)
+

@@ -193,3 +193,9 @@
 
 + [MySQL库表设计规范](https://blog.csdn.net/zhangkaixuan456/article/details/141825612)
 
++ [Verilog：【8】基于FPGA实现SD NAND FLASH的SPI协议读写](https://blog.csdn.net/liboshi123/article/details/141865096)
+
++ [【一起学Rust | 框架篇 | Tauri2.0框架】command拆分模块](https://blog.csdn.net/weixin_47754149/article/details/141854336)
+
++ [MASM32+ HTML & JavaScript，好搭档](https://blog.csdn.net/Purpleendurer/article/details/141816858)
+
