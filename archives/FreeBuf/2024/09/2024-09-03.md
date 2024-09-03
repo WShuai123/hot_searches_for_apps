@@ -49,3 +49,9 @@
 
 + [资产灯塔ARL二次开发之快速信息收集优化篇](https://www.freebuf.com/sectool/391744.html)
 
++ [潜藏系统2个月未被发现，新型网络攻击瞄准中国高价值目标](https://www.freebuf.com/articles/410082.html)
+
++ [因与媒体共享勒索事件实情，美国一研究人员被政府起诉](https://www.freebuf.com/news/410067.html)
+
++ [ACSC 发布紧急网络安全警告：信息窃取恶意软件数量激增，威胁全面升级](https://www.freebuf.com/news/410057.html)
+

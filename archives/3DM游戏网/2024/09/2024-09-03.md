@@ -223,3 +223,23 @@
 
 + [《博德之门3》被指“照搬”《神界原罪2》 团队对此很诧异](https://www.3dmgame.com/news/202409/3903277.html)
 
++ [《冰汽时代2》|《执政官101》第七集 世界复始](https://www.3dmgame.com/news/202409/3903289.html)
+
++ [港服PS Plus三档会员新增试玩游戏：《吸血鬼幸存者》](https://www.3dmgame.com/news/202409/3903290.html)
+
++ [开放世界生存制作游戏《蜂巢：超越的世界》全新预告放出 2024年第四季度发售](https://www.3dmgame.com/news/202409/3903291.html)
+
++ [《质量效应》女薛伯德演员：AI将剥削所有游戏从业者](https://www.3dmgame.com/news/202409/3903292.html)
+
++ [《GRAFT》Steam商店页面上线 2026年推出](https://www.3dmgame.com/news/202409/3903293.html)
+
++ [润羽露西亚设计师众筹起诉AI侵权资金 收获667万超标支援](https://www.3dmgame.com/news/202409/3903294.html)
+
++ [《雨中冒险》开发商宣布与V社合作开发游戏 旗下未公布新作停止开发](https://www.3dmgame.com/news/202409/3903285.html)
+
++ [像素风基地建造塔防游戏《字节战争》现已登录Steam平台](https://www.3dmgame.com/news/202409/3903286.html)
+
++ [《荒野大镖客2》亚瑟演员：好莱坞不愿意带游戏演员“玩”](https://www.3dmgame.com/news/202409/3903287.html)
+
++ [传英伟达RTX 50系显卡要推迟 需重新流片提升良率](https://www.3dmgame.com/news/202409/3903288.html)
+

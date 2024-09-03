@@ -149,3 +149,11 @@
 
 + [微信小程序接入客服功能](https://blog.csdn.net/weixin_44248187/article/details/141751793)
 
++ [Claude模型将接入亚马逊Alexa；ChatGPT周活跃用户超过2亿 | AI头条](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141833614)
+
++ [传统CV算法——图像特征算法之角点检测算法](https://blog.csdn.net/weixin_42917352/article/details/141830056)
+
++ [电赛2024年H题智能小车基于MSPM0G3507主控MCU（利用8路灰度加上MPU6050的解决方式）具体项目报告](https://blog.csdn.net/weixin_60991529/article/details/141832409)
+
++ [基于微信小程序的校园二手交易平台](https://blog.csdn.net/weixin_44308935/article/details/141824509)
+
