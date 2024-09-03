@@ -179,3 +179,9 @@
 
 + [【机器学习算法】从线性到多维：多元线性回归算法的深度解析与应用实践](https://blog.csdn.net/weixin_52908342/article/details/141754723)
 
++ [SprinBoot+Vue停车场管理微信小程序的设计与实现](https://blog.csdn.net/ZGL_cyy/article/details/141814302)
+
++ [【Python系列】异步任务的终止](https://blog.csdn.net/qyj19920704/article/details/141791751)
+
++ [一文速学ChatBi“与数据库对话“大模型技术原理及框架一览](https://blog.csdn.net/master_hunter/article/details/141852676)
+

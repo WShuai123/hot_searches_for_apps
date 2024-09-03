@@ -53,3 +53,5 @@
 
 + [享界 S9 汽车官宣底盘测试开放日，邀请相关方莅临现场参与](https://m.ithome.com/html/793042.htm)
 
++ [HMD 新手机设计草图曝光：复刻诺基亚 Lumia 1020，配奥利奥圆形四摄](https://m.ithome.com/html/792999.htm)
+

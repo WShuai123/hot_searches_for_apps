@@ -279,3 +279,21 @@
 
 + [日元贬值大量外国玩家涌向日本 爆买复古游戏](https://www.3dmgame.com/news/202409/3903308.html)
 
++ [99.99995%以上纯度！我国超高纯石墨领域取得重大突破 锂电池/半导体必用材料](https://www.3dmgame.com/news/202409/3903321.html)
+
++ [美国开始对印度裔CEO高管大清洗！多家科技巨头已有计划](https://www.3dmgame.com/news/202409/3903320.html)
+
++ [《黑神话》PC最高与最低画质对比视频 来看看差距](https://www.3dmgame.com/news/202409/3903319.html)
+
++ [Steam最新一周销量榜 《黑神话：悟空》四连冠持续热卖](https://www.3dmgame.com/news/202409/3903317.html)
+
++ [《漫威争锋》未来新角色可能性很多：超过9千个选项](https://www.3dmgame.com/news/202409/3903318.html)
+
++ [数毛社：《黑神话：悟空》登陆Xbox技术上可行 但XSS优化有挑战](https://www.3dmgame.com/news/202409/3903316.html)
+
++ [《黑神话》亢金星君脸模表情捕捉幕后花絮 表情可爱](https://www.3dmgame.com/news/202409/3903315.html)
+
++ [日媒最恐怖游戏问卷调查 《恐怖惊魂夜》只排第三](https://www.3dmgame.com/news/202409/3903314.html)
+
++ [比亚迪宋Pro DM-i墨西哥上市 比国内贵9万元](https://www.3dmgame.com/news/202409/3903313.html)
+
