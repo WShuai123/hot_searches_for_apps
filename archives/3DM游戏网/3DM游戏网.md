@@ -247,3 +247,19 @@
 
 + [《托尼霍克职业滑板》社交媒体25周年更新 重制版或有新消息](https://www.3dmgame.com/news/202409/3903296.html)
 
++ [我国成功发射遥感四十三号02组卫星 开展低轨星座系统新技术试验](https://www.3dmgame.com/news/202409/3903303.html)
+
++ [数毛社：机器学习将为下世代游戏主机实现最大飞跃](https://www.3dmgame.com/news/202409/3903304.html)
+
++ [《Deadlock》玩家呼吁V社削弱过强英雄角色老七 出场率超过92%](https://www.3dmgame.com/news/202409/3903297.html)
+
++ [《绝区零》简角色展示 “致命审讯”](https://www.3dmgame.com/news/202409/3903298.html)
+
++ [《马里奥与路易吉RPG：兄弟》新情报 场景战斗系统等](https://www.3dmgame.com/news/202409/3903299.html)
+
++ [暴雪未公布新作更多信息泄露 包含开放世界合作要素](https://www.3dmgame.com/news/202409/3903300.html)
+
++ [KK官方对战平台新图推荐新一弹！抵御丧尸狂潮，神界之门开启！](https://www.3dmgame.com/news/202409/3903301.html)
+
++ [KK官方对战平台《圣剑酒馆2》在玩一种很新的赏金赛！](https://www.3dmgame.com/news/202409/3903302.html)
+
