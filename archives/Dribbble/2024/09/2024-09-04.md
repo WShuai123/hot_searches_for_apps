@@ -95,3 +95,27 @@
 
 + [De La Soul - Restaurant Brand Identity](https://dribbble.com/shots/)
 
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [Aging in Place](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
++ [Flower ???? District](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+

@@ -101,3 +101,9 @@
 
 + [GOG喜加一 独立喜剧游戏《小丑往事》现可免费领取](https://www.3dmgame.com/news/202409/3903306.html)
 
++ [技术问题被解决 卡普空两款格斗游戏将登陆XB1](https://www.3dmgame.com/news/202409/3903339.html)
+
++ [《弗兰克·斯通的阴影》媒体评分解禁 M站均分70](https://www.3dmgame.com/news/202409/3903337.html)
+
++ [发售两周后 《黑神话：悟空》Steam在线人数仍有百万](https://www.3dmgame.com/news/202409/3903338.html)
+

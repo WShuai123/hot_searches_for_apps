@@ -101,3 +101,7 @@
 
 + [幻觉消除论文阅读：通过诱导幻觉缓解大型语言模型的幻觉](https://blog.csdn.net/m0_52965867/article/details/141748481)
 
++ [【C++】C++STL 揭秘:Strng背后的底层逻辑](https://blog.csdn.net/2302_79177254/article/details/141189352)
+
++ [基于yolov8的102种昆虫检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141783146)
+
