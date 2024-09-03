@@ -59,3 +59,5 @@
 
 + [小米 15 Ultra 手机相机曝料：升级主摄、2 亿像素长焦、10 倍变焦、4K 电影模式](https://m.ithome.com/html/793107.htm)
 
++ [英伟达 RTX 50 系列显卡被曝推迟，需重新流片以提升良率](https://m.ithome.com/html/793068.htm)
+
