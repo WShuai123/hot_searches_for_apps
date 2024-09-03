@@ -185,3 +185,11 @@
 
 + [一文速学ChatBi“与数据库对话“大模型技术原理及框架一览](https://blog.csdn.net/master_hunter/article/details/141852676)
 
++ [【Prometheus】Prometheus的特点、数据采集方式、架构、数据模型详解](https://blog.csdn.net/littlefun591/article/details/141822380)
+
++ [【BES2500x系列 -- RTX5操作系统】Battery模块 -- 创建电池检测定时器 --（十五）](https://blog.csdn.net/csh1807266489/article/details/138654076)
+
++ [热力图科普：数据可视化的利器](https://blog.csdn.net/Traveller_man/article/details/141826884)
+
++ [MySQL库表设计规范](https://blog.csdn.net/zhangkaixuan456/article/details/141825612)
+

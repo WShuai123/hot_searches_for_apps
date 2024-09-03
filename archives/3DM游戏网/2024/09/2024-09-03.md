@@ -297,3 +297,13 @@
 
 + [比亚迪宋Pro DM-i墨西哥上市 比国内贵9万元](https://www.3dmgame.com/news/202409/3903313.html)
 
++ [《8号出口VR》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202409/3903325.html)
+
++ [索尼PS2入选日本未来技术遗产 世界首台可播放DVD游戏机](https://www.3dmgame.com/news/202409/3903326.html)
+
++ [《星球大战：亡命之徒》设计目标：确保忠于原作三部曲](https://www.3dmgame.com/news/202409/3903324.html)
+
++ [美法官裁定引争议 不能强令社媒公司阻止青少年接触有害内容](https://www.3dmgame.com/news/202409/3903323.html)
+
++ [流浪猫模拟器《Copycat》发售日预告 9月20日发售](https://www.3dmgame.com/news/202409/3903322.html)
+
