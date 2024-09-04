@@ -171,3 +171,11 @@
 
 + [网吧业务安全对抗(有源码)](https://blog.csdn.net/q2919761440/article/details/141869082)
 
++ [使用PyTorch从零构建Llama 3](https://blog.csdn.net/m0_46510245/article/details/141887497)
+
++ [计算机网络（第一章 概述）](https://blog.csdn.net/m0_74377334/article/details/141874768)
+
++ [开发者如何自主绑定和解除小程序和公众号长期/短期运营者微信号？](https://blog.csdn.net/qq_44866828/article/details/141891059)
+
++ [自学黑客（网络安全）](https://blog.csdn.net/xv7676/article/details/141863433)
+

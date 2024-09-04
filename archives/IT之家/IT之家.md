@@ -53,3 +53,5 @@
 
 + [苹果 iPhone 秒变掌机，GameBaby 手机配件发布](https://m.ithome.com/html/793269.htm)
 
++ [微软：《黑神话：悟空》Xbox 版发售延迟并非因为技术问题](https://m.ithome.com/html/793387.htm)
+

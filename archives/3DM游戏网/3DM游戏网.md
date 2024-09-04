@@ -313,3 +313,7 @@
 
 + [首个“风渔融合”型海洋牧场投产 既能发电又能养鱼](https://www.3dmgame.com/news/202409/3903421.html)
 
++ [疯狂快递员！新游《Deliver At All Costs》公布](https://www.3dmgame.com/news/202409/3903422.html)
+
++ [Windows将于11月更新 让Ryzen AI 300系列支持Copilot+](https://www.3dmgame.com/news/202409/3903425.html)
+

@@ -223,3 +223,17 @@
 
 + [HotDog logo + illustration](https://dribbble.com/shots/)
 
++ [FC Shakhtar Donetsk App. The Concept.](https://dribbble.com/shots/)
+
++ [Brisk – Smarter Financial Management for Modern Businesses](https://dribbble.com/shots/)
+
++ [913.ai logo animation](https://dribbble.com/shots/)
+
++ [Sleek Wolf Logo](https://dribbble.com/shots/)
+
++ [FinalForm Logo Design](https://dribbble.com/shots/)
+
++ [Supply Management - Cards](https://dribbble.com/shots/)
+
++ [Ram Logo](https://dribbble.com/shots/)
+
