@@ -217,3 +217,9 @@
 
 + [A new style illustration (‘I want to know you like this’).](https://dribbble.com/shots/)
 
++ [Monster Fish Illustration](https://dribbble.com/shots/)
+
++ [AI-Powered Meeting Assistant: Platform, UI design, Interface](https://dribbble.com/shots/)
+
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+

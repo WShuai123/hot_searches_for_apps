@@ -49,3 +49,5 @@
 
 + [庆祝小鹏 MONA M03 汽车爆单，何小鹏亲自为员工送下午茶](https://m.ithome.com/html/793316.htm)
 
++ [小米 CarWith 更新 3.12 正式版：新增屏幕圆角、高德地图巡航、显示大小调节等功能](https://m.ithome.com/html/793229.htm)
+

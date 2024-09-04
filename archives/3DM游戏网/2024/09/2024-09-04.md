@@ -285,3 +285,25 @@
 
 + [传闻：索尼获得了《GTA6》独家营销权 第二个预告年底公布](https://www.3dmgame.com/news/202409/3903405.html)
 
++ [《无主之地》线下活动解谜兑换码：50把钥匙全系列都能用！](https://www.3dmgame.com/news/202409/3903416.html)
+
++ [百度地图联动《黑神话：悟空》 推出八戒语音包](https://www.3dmgame.com/news/202409/3903417.html)
+
++ [《英雄传说：空之轨迹 重制版》新情报 全新绘制3D模型](https://www.3dmgame.com/news/202409/3903418.html)
+
++ [Switch2的新杀手锏曝光 或直接搭载VR模式](https://www.3dmgame.com/news/202409/3903419.html)
+
++ [淘宝回应计划接入微信支付 积极合作提升体验](https://www.3dmgame.com/news/202409/3903411.html)
+
++ [三星中国销售部门开始大幅裁员：官方回应](https://www.3dmgame.com/news/202409/3903412.html)
+
++ [《黑神话》海外销量占比25% 海外销量能破500万份](https://www.3dmgame.com/news/202409/3903413.html)
+
++ [外媒称《星战亡命之徒》跟《黑神话》没法比 热度差太多](https://www.3dmgame.com/news/202409/3903414.html)
+
++ [氢能才是王道！专家称不需要建太多快充站：纯电汽车是人类能源的浪费](https://www.3dmgame.com/news/202409/3903415.html)
+
++ [3A游戏女角颜值崩坏演化史 后期只有中日韩游戏能打](https://www.3dmgame.com/news/202409/3903409.html)
+
++ [《命运》手游或近期宣布：Bungie仅少量参与开发 和原作很不同](https://www.3dmgame.com/news/202409/3903410.html)
+
