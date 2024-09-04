@@ -55,3 +55,5 @@
 
 + [微软：《黑神话：悟空》Xbox 版发售延迟并非因为技术问题](https://m.ithome.com/html/793387.htm)
 
++ [小米 SU7 Ultra 现身英国米尔布鲁克试车场，银色外观谍照曝光](https://m.ithome.com/html/793445.htm)
+
