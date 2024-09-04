@@ -259,3 +259,21 @@
 
 + [鸟山明遗作《龙珠：大魔》正式版宣传预告公布 10月11日开播](https://www.3dmgame.com/news/202409/3903393.html)
 
++ [《崩坏：星穹铁道》走近星穹 「飞霄：如何练就西瓜般的腱子肉」](https://www.3dmgame.com/news/202409/3903403.html)
+
++ [《星球大战：亡命之徒》女主演员希望能在大荧幕登场](https://www.3dmgame.com/news/202409/3903402.html)
+
++ [鬼蟹透露制作中的MMORPG《Ghost》将存在更多专职性职业](https://www.3dmgame.com/news/202409/3903404.html)
+
++ [《女鬼桥二 释魂路》10月24日登陆主机平台 定价198港币](https://www.3dmgame.com/news/202409/3903401.html)
+
++ [《恐怖惊魂夜》联动间谍过家家新作 超能一家恐怖历险](https://www.3dmgame.com/news/202409/3903400.html)
+
++ [育碧股价跌入10年来最低点 《星球大战：亡命之徒》恐难扭转盈利惨淡的局面](https://www.3dmgame.com/news/202409/3903399.html)
+
++ [索尼《Fairgame$》会是下一个《星鸣特攻》？据称游戏内部反馈非常积极](https://www.3dmgame.com/news/202409/3903398.html)
+
++ [为了白金奖杯 《星鸣特攻》玩家开始“自杀”速刷等级](https://www.3dmgame.com/news/202409/3903397.html)
+
++ [东方同人STG《东方梦无垠》Steam页面上线 支持中文](https://www.3dmgame.com/news/202409/3903396.html)
+

@@ -43,3 +43,7 @@
 
 + [2025 款比亚迪汉将于后天上市：纯电 / 插混车型共享前脸，可选激光雷达](https://m.ithome.com/html/793297.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机“见证官”公布：尼格买提、樊登、许昕、于和伟、杨幂](https://m.ithome.com/html/793276.htm)
+
++ [空客“大白鲸”运输机首次搭载 H175 直升机运抵中国](https://m.ithome.com/html/793242.htm)
+
