@@ -79,3 +79,5 @@
 
 + [首届ac饭减肥大赛现在开始！](http://www.acfun.cn/v/ac46203350)
 
++ [【山竹】怎么走都是向上，来日方长『ACFUN声唱2024参赛曲目』Simon](http://www.acfun.cn/v/ac46204837)
+

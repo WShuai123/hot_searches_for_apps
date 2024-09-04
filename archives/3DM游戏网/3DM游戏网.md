@@ -225,3 +225,21 @@
 
 + [《赛博朋克2077》新桌游开启众筹 10分钟达成目标](https://www.3dmgame.com/news/202409/3903374.html)
 
++ [卡普空官方整活 透露伞公司也卖拉面广告就藏在游戏中](https://www.3dmgame.com/news/202409/3903387.html)
+
++ [《2.5次元的诱惑 天使们的舞台》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202409/3903386.html)
+
++ [“舅舅在任天堂工作” 樱井政博曾邀请孩子来测试即将推出的游戏](https://www.3dmgame.com/news/202409/3903385.html)
+
++ [探索冒险游戏《弹球尖塔》发售日公布 2024年10月2日推出](https://www.3dmgame.com/news/202409/3903384.html)
+
++ [下一个“暴死”：《Spectre Divide》首发无法正常匹配 卖天价皮肤引差评](https://www.3dmgame.com/news/202409/3903383.html)
+
++ [AI在真实课堂授课 英国一游戏学院开设AI教授课程](https://www.3dmgame.com/news/202409/3903382.html)
+
++ [OpenAI阿尔特曼被曝启动全球AI基建计划 先期在美国多地砸下数百亿美元](https://www.3dmgame.com/news/202409/3903381.html)
+
++ [《巫师3》内容挖掘视频创作者决定转战《博德之门3》 已制作超过190个《巫师3》视频](https://www.3dmgame.com/news/202409/3903380.html)
+
++ [《Fading Skies》开启众筹 致敬王国之心开放世界冒险](https://www.3dmgame.com/news/202409/3903379.html)
+
