@@ -95,3 +95,25 @@
 
 + [3D Mascot For Somnia](https://dribbble.com/shots/)
 
++ [Canela en Polvo Logo Design](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Tertiary Logo](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [Mortgages](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
