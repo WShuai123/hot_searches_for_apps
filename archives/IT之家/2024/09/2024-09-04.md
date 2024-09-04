@@ -47,3 +47,5 @@
 
 + [空客“大白鲸”运输机首次搭载 H175 直升机运抵中国](https://m.ithome.com/html/793242.htm)
 
++ [庆祝小鹏 MONA M03 汽车爆单，何小鹏亲自为员工送下午茶](https://m.ithome.com/html/793316.htm)
+

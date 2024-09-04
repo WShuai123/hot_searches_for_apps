@@ -193,3 +193,27 @@
 
 + [Church Website](https://dribbble.com/shots/)
 
++ [Relax Ai Motion Visual](https://dribbble.com/shots/)
+
++ [Cloudy - Cloud Database Hero Section](https://dribbble.com/shots/)
+
++ [Postiz landing page](https://dribbble.com/shots/)
+
++ [Pistachio, software platform for furniture stores logo design](https://dribbble.com/shots/)
+
++ [Product Details - Union UI](https://dribbble.com/shots/)
+
++ [Health Tracker – Mobile App Design](https://dribbble.com/shots/)
+
++ [Casper Cards: Crypto Hardware Wallet](https://dribbble.com/shots/)
+
++ [Car Rent AI Assistant Dashboard](https://dribbble.com/shots/)
+
++ [biothrust: The Bionic Bioreactor | Product Lineup Technology UI](https://dribbble.com/shots/)
+
++ [Reach Logo Design](https://dribbble.com/shots/)
+
++ [Fingrow - Logo for the financial knowledge platform](https://dribbble.com/shots/)
+
++ [A new style illustration (‘I want to know you like this’).](https://dribbble.com/shots/)
+

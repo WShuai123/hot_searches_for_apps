@@ -277,3 +277,11 @@
 
 + [东方同人STG《东方梦无垠》Steam页面上线 支持中文](https://www.3dmgame.com/news/202409/3903396.html)
 
++ [《战锤40K：星际战士2》Avarax宣传片 9月9日发售](https://www.3dmgame.com/news/202409/3903408.html)
+
++ [《恐怖惊魂夜×3》新情报公开 重温刻骨铭心的恐怖](https://www.3dmgame.com/news/202409/3903406.html)
+
++ [多平台确认苹果税抽佣30%！苹果良心建议中国用户通过电脑端充值](https://www.3dmgame.com/news/202409/3903407.html)
+
++ [传闻：索尼获得了《GTA6》独家营销权 第二个预告年底公布](https://www.3dmgame.com/news/202409/3903405.html)
+
