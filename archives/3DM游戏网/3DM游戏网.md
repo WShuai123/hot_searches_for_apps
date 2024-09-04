@@ -207,3 +207,21 @@
 
 + [回合制历史角色扮演游戏《征服与反叛》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202409/3903362.html)
 
++ [《丧尸围城：豪华复刻版》全新截图 快去拯救美女](https://www.3dmgame.com/news/202409/3903375.html)
+
++ [恐怖游戏《弗兰克·斯通的阴影》Steam发售 “褒贬不一”](https://www.3dmgame.com/news/202409/3903376.html)
+
++ [《死亡搁浅2》有可能将是PS5 Pro 首发游戏之一](https://www.3dmgame.com/news/202409/3903378.html)
+
++ [坤哥爆料：另一款PlayStation独占游戏即将登陆其他平台](https://www.3dmgame.com/news/202409/3903377.html)
+
++ [战术第一人称射击游戏《匕首指令》公布首个预告 将登录Steam平台](https://www.3dmgame.com/news/202409/3903370.html)
+
++ [《命运2》外挂制造商上诉被驳回 仍需赔偿430万美元](https://www.3dmgame.com/news/202409/3903371.html)
+
++ [《英雄联盟：双城之战》第二季海报及前导预告 冬季上映](https://www.3dmgame.com/news/202409/3903372.html)
+
++ [猫咪叙事冒险《冒牌猫谜》登陆Steam 主机版开发中](https://www.3dmgame.com/news/202409/3903373.html)
+
++ [《赛博朋克2077》新桌游开启众筹 10分钟达成目标](https://www.3dmgame.com/news/202409/3903374.html)
+
