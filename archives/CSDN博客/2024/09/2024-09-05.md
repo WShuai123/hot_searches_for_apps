@@ -127,3 +127,7 @@
 
 + [Python知识点：如何使用Python实现强化学习机器人](https://blog.csdn.net/bigorsmallorlarge/article/details/141860730)
 
++ [OpenCV开发笔记（八十）：基于特征点匹配实现全景图片拼接](https://blog.csdn.net/qq21497936/article/details/141790116)
+
++ [【案例】如何做B端竞品分析？](https://blog.csdn.net/jinxinxin1314/article/details/141811275)
+
