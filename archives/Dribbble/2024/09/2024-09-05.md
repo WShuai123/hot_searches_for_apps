@@ -49,3 +49,49 @@
 
 + [ICN Vintage Monogram](https://dribbble.com/shots/)
 
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [Website Animation for Golf Tourism Clubs Network](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Canyon & Cacti ????](https://dribbble.com/shots/)
+
++ [Plant Pot](https://dribbble.com/shots/)
+
++ [Lizard sketch](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [Coffee Co Logo Concept](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [Gelata Pisci - NFT Art, daily vectors](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Rolleiflex](https://dribbble.com/shots/)
+
++ [Batmobile](https://dribbble.com/shots/)
+
++ [Bottling things up](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
