@@ -31,3 +31,5 @@
 
 + [英特尔酷睿 Ultra 200V 系列笔记本处理器登场：AI 算力最高 120 TOPS，20 个品牌携 80 款机型亮相，9 月 24 日发售](https://m.ithome.com/html/793246.htm)
 
++ [英特尔股价今年暴跌近 60%，或被道琼斯指数除名](https://m.ithome.com/html/793236.htm)
+

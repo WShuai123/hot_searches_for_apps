@@ -77,3 +77,5 @@
 
 + [竖全屏离你更近 ~ 成人礼](http://www.acfun.cn/v/ac46202802)
 
++ [首届ac饭减肥大赛现在开始！](http://www.acfun.cn/v/ac46203350)
+

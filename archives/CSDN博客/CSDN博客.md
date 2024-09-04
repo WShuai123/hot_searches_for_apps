@@ -133,3 +133,7 @@
 
 + [Faiss向量数据库](https://blog.csdn.net/qq_64685283/article/details/141860279)
 
++ [OpenCV开发笔记（八十）：基于特征点匹配实现全景图片拼接](https://blog.csdn.net/qq21497936/article/details/141790116)
+
++ [ip命令的详解](https://blog.csdn.net/2401_86544677/article/details/141811459)
+

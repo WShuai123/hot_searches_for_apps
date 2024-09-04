@@ -45,3 +45,7 @@
 
 + [如何自动解包由NSIS基础封装程序保护的恶意样本](https://www.freebuf.com/articles/network/409006.html)
 
++ [俄罗斯版“微信”遭黑客入侵，泄露3.9亿条用户数据](https://www.freebuf.com/news/410160.html)
+
++ [渗透测试 | 某门商城系统漏洞挖掘经验分享](https://www.freebuf.com/articles/web/407770.html)
+

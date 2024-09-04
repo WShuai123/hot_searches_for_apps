@@ -191,3 +191,19 @@
 
 + [《无限试驾：太阳王冠》系统配置要求公布](https://www.3dmgame.com/news/202409/3903344.html)
 
++ [《毒液3》新国际版预告片 埃迪和毒液生死相依](https://www.3dmgame.com/news/202409/3903369.html)
+
++ [两款《变形金刚》游戏在澳大利亚通过评级 均来自微软工作室](https://www.3dmgame.com/news/202409/3903366.html)
+
++ [日本玩家使用他人信息网购任天堂两个游戏手柄被捕](https://www.3dmgame.com/news/202409/3903368.html)
+
++ [索尼关闭所有《星鸣特攻》关服相关讨论 亚马逊剧集还未播出](https://www.3dmgame.com/news/202409/3903367.html)
+
++ [曝PS5 Pro性能接近7700XT显卡 但光追性能略快](https://www.3dmgame.com/news/202409/3903365.html)
+
++ [类肉鸽冒险游戏《天界萃取者》现已推出试玩Demo 抢先体验版9月25日发布](https://www.3dmgame.com/news/202409/3903364.html)
+
++ [爆款惊悚电影续作《夺命微笑2》曝新预告“危”笑蔓延无处不在](https://www.3dmgame.com/news/202409/3903363.html)
+
++ [回合制历史角色扮演游戏《征服与反叛》Steam页面公布 发售日待定](https://www.3dmgame.com/news/202409/3903362.html)
+
