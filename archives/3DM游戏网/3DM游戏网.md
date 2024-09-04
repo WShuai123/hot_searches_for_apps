@@ -323,3 +323,11 @@
 
 + [韩剧《来自地狱的法官》前导预告 朴信惠首度挑战恶女](https://www.3dmgame.com/news/202409/3903424.html)
 
++ [这操作！《NBA 2K25》在发售前夕加入D加密](https://www.3dmgame.com/news/202409/3903431.html)
+
++ [《哈利·波特：魁地奇锦标赛》现已正式推出 Steam多半好评](https://www.3dmgame.com/news/202409/3903430.html)
+
++ [《NBA 2K25》国区售价298元 Steam褒贬不一](https://www.3dmgame.com/news/202409/3903429.html)
+
++ [《最终幻想16》PC版9月17日晚上10点解锁](https://www.3dmgame.com/news/202409/3903428.html)
+

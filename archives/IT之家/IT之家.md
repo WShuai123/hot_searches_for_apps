@@ -57,3 +57,5 @@
 
 + [小米 SU7 Ultra 现身英国米尔布鲁克试车场，银色外观谍照曝光](https://m.ithome.com/html/793445.htm)
 
++ [支付宝回应“淘宝新增微信支付方式”：开放造就更大的未来](https://m.ithome.com/html/793416.htm)
+

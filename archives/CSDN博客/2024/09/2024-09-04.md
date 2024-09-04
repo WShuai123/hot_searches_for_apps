@@ -185,3 +185,7 @@
 
 + [props与defineProps](https://blog.csdn.net/qq_40792800/article/details/141831363)
 
++ [深度学习｜模型推理：端到端任务处理](https://blog.csdn.net/ChaoMing_H/article/details/141902432)
+
++ [【深度解析】GPT-3.5、GPT-4.0、GPT-4o mini的区别，你了解多少？](https://blog.csdn.net/zhouzongxin94/article/details/141855387)
+
