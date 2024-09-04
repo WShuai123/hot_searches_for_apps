@@ -307,3 +307,9 @@
 
 + [《命运》手游或近期宣布：Bungie仅少量参与开发 和原作很不同](https://www.3dmgame.com/news/202409/3903410.html)
 
++ [OpenAI宣布启动GPT Next计划 AI性能有望提高100倍](https://www.3dmgame.com/news/202409/3903423.html)
+
++ [阿里腾讯拆墙！淘宝官宣新增微信支付 支付宝回应了](https://www.3dmgame.com/news/202409/3903420.html)
+
++ [首个“风渔融合”型海洋牧场投产 既能发电又能养鱼](https://www.3dmgame.com/news/202409/3903421.html)
+
