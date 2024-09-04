@@ -147,3 +147,7 @@
 
 + [python计算机视觉编程第四章——照相机模型与增强现实](https://blog.csdn.net/qq_67725022/article/details/141862335)
 
++ [【千帆AppBuilder】使用Python调用基于官方的API创建图片故事的应用，一起体验下全代码模式下是怎样的效果](https://blog.csdn.net/lmy_520/article/details/141668260)
+
++ [小试牛刀-sol链创建SPL代币](https://blog.csdn.net/2202_75618418/article/details/141808394)
+

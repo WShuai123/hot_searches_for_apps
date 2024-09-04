@@ -57,3 +57,5 @@
 
 + [Hadoop大数据平台安全防护](https://www.freebuf.com/articles/web/409721.html)
 
++ [Monocle：一款基于LLM的二进制文件自然语言搜索工具](https://www.freebuf.com/sectool/409242.html)
+

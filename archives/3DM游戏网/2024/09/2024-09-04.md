@@ -253,3 +253,9 @@
 
 + [实时格子动作肉鸽游戏《Guidus Zero》Steam页面公布 支持简繁体中文](https://www.3dmgame.com/news/202409/3903392.html)
 
++ [《勇者斗恶龙3：重制版》新要素 怪物决战模式公开](https://www.3dmgame.com/news/202409/3903395.html)
+
++ [SE公布2024年东京电玩展参展阵容：《勇者斗恶龙3：HD-2D重制版》领衔](https://www.3dmgame.com/news/202409/3903394.html)
+
++ [鸟山明遗作《龙珠：大魔》正式版宣传预告公布 10月11日开播](https://www.3dmgame.com/news/202409/3903393.html)
+
