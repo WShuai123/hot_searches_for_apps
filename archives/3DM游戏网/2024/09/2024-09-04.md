@@ -251,3 +251,5 @@
 
 + [黑暗奇幻风格策略冒险游戏《无目低语》即将推出抢先体验版](https://www.3dmgame.com/news/202409/3903388.html)
 
++ [实时格子动作肉鸽游戏《Guidus Zero》Steam页面公布 支持简繁体中文](https://www.3dmgame.com/news/202409/3903392.html)
+

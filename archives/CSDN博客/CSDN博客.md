@@ -145,3 +145,5 @@
 
 + [采用基于企业服务总线(ESB)的面向服务架构(SOA)集成方案实现统一管理维护的银行信息系统](https://blog.csdn.net/g984160547/article/details/141823647)
 
++ [python计算机视觉编程第四章——照相机模型与增强现实](https://blog.csdn.net/qq_67725022/article/details/141862335)
+

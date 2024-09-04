@@ -173,3 +173,19 @@
 
 + [Canela en Polvo Logo Design](https://dribbble.com/shots/)
 
++ [Fanstar - Agency Website](https://dribbble.com/shots/)
+
++ [White AI Landing Page](https://dribbble.com/shots/)
+
++ [Rizzle Marketing Website Design](https://dribbble.com/shots/)
+
++ [MoniPay - Digital Wallet Platform Exploration](https://dribbble.com/shots/)
+
++ [Trenning - Creating a New Quiz in SaaS LMS](https://dribbble.com/shots/)
+
++ [Stock Trading App](https://dribbble.com/shots/)
+
++ [October Health](https://dribbble.com/shots/)
+
++ [Biregime London Branding & Packaging Design](https://dribbble.com/shots/)
+
