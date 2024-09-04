@@ -159,3 +159,7 @@
 
 + [Downtown Flavor Town Pattern](https://dribbble.com/shots/)
 
++ [squirrel logo](https://dribbble.com/shots/)
+
++ [St. Jory (Winery) - Tryptic 3/4 ✦ Logo/Icon/Symbol](https://dribbble.com/shots/)
+

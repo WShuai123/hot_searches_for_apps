@@ -27,3 +27,7 @@
 
 + [鸿蒙智行首款轿跑 SUV 智界 R7 定档 9 月 10 日预售：续航至高 802 公里、全系标配空气悬架](https://m.ithome.com/html/793167.htm)
 
++ [P 图捏造不当聊天记录、企图蹭取比亚迪品牌热度，某抖音用户道歉](https://m.ithome.com/html/793194.htm)
+
++ [英特尔酷睿 Ultra 200V 系列笔记本处理器登场：AI 算力最高 120 TOPS，20 个品牌携 80 款机型亮相，9 月 24 日发售](https://m.ithome.com/html/793246.htm)
+
