@@ -217,3 +217,5 @@
 
 + [腾讯视频-脱口秀和Ta的朋友们全网独播](https://itunes.apple.com/cn/app/id458318329?mt=8)
 
++ [百词斩-学英语、背单词必备](https://itunes.apple.com/cn/app/id557545298?mt=8)
+

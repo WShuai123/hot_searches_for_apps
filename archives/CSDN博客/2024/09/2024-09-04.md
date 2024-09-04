@@ -141,3 +141,7 @@
 
 + [大二必做项目贪吃蛇超详解之下篇游戏核心逻辑实现](https://blog.csdn.net/fhvyxyci/article/details/141813016)
 
++ [【机器学习】机器学习引领未来：赋能精准高效的图像识别技术革新](https://blog.csdn.net/EterNity_TiMe_/article/details/140001768)
+
++ [采用基于企业服务总线(ESB)的面向服务架构(SOA)集成方案实现统一管理维护的银行信息系统](https://blog.csdn.net/g984160547/article/details/141823647)
+

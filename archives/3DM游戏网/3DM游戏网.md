@@ -243,3 +243,11 @@
 
 + [《Fading Skies》开启众筹 致敬王国之心开放世界冒险](https://www.3dmgame.com/news/202409/3903379.html)
 
++ [美国宣布对英伟达反垄断调查：AI芯片显卡领域没对手](https://www.3dmgame.com/news/202409/3903391.html)
+
++ [《黑色行动6》名片似乎含9/11图片 动视紧急删除](https://www.3dmgame.com/news/202409/3903389.html)
+
++ [《博德之门3》爱熊场景让游戏热度大增 动画师向母亲报喜讯](https://www.3dmgame.com/news/202409/3903390.html)
+
++ [黑暗奇幻风格策略冒险游戏《无目低语》即将推出抢先体验版](https://www.3dmgame.com/news/202409/3903388.html)
+

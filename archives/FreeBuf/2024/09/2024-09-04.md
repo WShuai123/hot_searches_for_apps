@@ -55,3 +55,5 @@
 
 + [尽快更新！Zyxel 路由器曝出 OS 命令注入漏洞，影响多个版本](https://www.freebuf.com/news/410154.html)
 
++ [Hadoop大数据平台安全防护](https://www.freebuf.com/articles/web/409721.html)
+

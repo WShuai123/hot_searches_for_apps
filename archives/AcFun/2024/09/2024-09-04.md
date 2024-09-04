@@ -81,3 +81,7 @@
 
 + [【山竹】怎么走都是向上，来日方长『ACFUN声唱2024参赛曲目』Simon](http://www.acfun.cn/v/ac46204837)
 
++ [Acer们，出来游泳啊！★手机竖屏1263★](http://www.acfun.cn/v/ac46203304)
+
++ [搜查官 chocolate cream](http://www.acfun.cn/v/ac46203437)
+

@@ -37,3 +37,5 @@
 
 + [华为 Pura 70 系列手机获推鸿蒙 HarmonyOS NEXT 0.0.39 Beta 版升级](https://m.ithome.com/html/793251.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机“见证官”公布：樊登、许昕、于和伟、杨幂](https://m.ithome.com/html/793276.htm)
+
