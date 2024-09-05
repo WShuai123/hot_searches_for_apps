@@ -187,3 +187,7 @@
 
 + [Spring Boot 自动装配原理及 Starter 实现](https://blog.csdn.net/qq_43710228/article/details/141895793)
 
++ [优化采样参数提升大语言模型响应质量：深入分析温度、top_p、top_k和min_p的随机解码策略](https://blog.csdn.net/m0_46510245/article/details/141924138)
+
++ [微服务中的服务降级与熔断机制](https://blog.csdn.net/zouyang920/article/details/141887020)
+
