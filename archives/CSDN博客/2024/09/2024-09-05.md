@@ -191,3 +191,9 @@
 
 + [微服务中的服务降级与熔断机制](https://blog.csdn.net/zouyang920/article/details/141887020)
 
++ [2024年高教社杯B题 生产过程中的决策问题——思路分析](https://blog.csdn.net/NULLSET1/article/details/141938633)
+
++ [经验笔记：Ajax学习](https://blog.csdn.net/qq_45831414/article/details/141900402)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141854049)
+
