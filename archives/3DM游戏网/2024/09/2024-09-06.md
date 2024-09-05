@@ -141,3 +141,17 @@
 
 + [《罪恶装备 奋战》“A.B.A”宣传片公开 3月26日推出](https://www.3dmgame.com/news/202403/3891018.html)
 
++ [《变形金刚：银河试炼》角色预告展示强大阵容](https://www.3dmgame.com/news/202409/3903539.html)
+
++ [《博德之门3》7号补丁已登陆PC 主机/Mac需等到10月](https://www.3dmgame.com/news/202409/3903538.html)
+
++ [《乐一通：疯狂运动世界》发布篮球项目预告](https://www.3dmgame.com/news/202409/3903537.html)
+
++ [《宇宙机器人》将至少获得15个发售后免费新增关卡](https://www.3dmgame.com/news/202409/3903536.html)
+
++ [《黑神话：悟空》销量突破1800万 将迎来扩展内容](https://www.3dmgame.com/news/202409/3903540.html)
+
++ [卡普空宣布《街头霸王6》销量突破400万套](https://www.3dmgame.com/news/202409/3903535.html)
+
++ [索尼暗示PS5 Pro？30周年纪念活动或将发布新主机](https://www.3dmgame.com/news/202409/3903534.html)
+

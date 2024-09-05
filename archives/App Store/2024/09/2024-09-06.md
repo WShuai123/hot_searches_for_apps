@@ -201,3 +201,5 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [安逸花-分期贷款信用借款快速借钱平台](https://itunes.apple.com/cn/app/id1098542282?mt=8)
+
