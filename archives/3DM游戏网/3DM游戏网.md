@@ -287,3 +287,23 @@
 
 + [数字卡牌对战游戏《卡片战斗先导者2》Steam页面上线 预定2025年1月推出](https://www.3dmgame.com/news/202409/3903500.html)
 
++ [《最终幻想7》蒂法新3D模型欣赏 穿长裙清纯美丽](https://www.3dmgame.com/news/202409/3903515.html)
+
++ [天问三号2028年前后实施发射 火星采样返回地球](https://www.3dmgame.com/news/202409/3903511.html)
+
++ [支付宝正式发布AI独立App支小宝 说话直接办事](https://www.3dmgame.com/news/202409/3903512.html)
+
++ [韩国研发出爬楼轮椅：可随地形变化自动变形](https://www.3dmgame.com/news/202409/3903513.html)
+
++ [爆《黑神话》开发成本高达7千万美元 腾讯投资5千万美元](https://www.3dmgame.com/news/202409/3903514.html)
+
++ [《优米雅的炼金工房》新情报 中文版游戏截图公布](https://www.3dmgame.com/news/202409/3903506.html)
+
++ [蓝牙6.0核心规范发布：支持信道探测 可实现厘米级精准定位](https://www.3dmgame.com/news/202409/3903507.html)
+
++ [KK火爆新图《弓手大作战》上线！多种技能流派，开启超爽英雄进化！](https://www.3dmgame.com/news/202409/3903508.html)
+
++ [黑格科技X斯莫格：3D打印定制自己的专属摄影配件](https://www.3dmgame.com/news/202409/3903509.html)
+
++ [国产策略游戏《钢铁指挥官》将于9月26日正式发售](https://www.3dmgame.com/news/202409/3903510.html)
+

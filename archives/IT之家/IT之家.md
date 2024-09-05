@@ -53,3 +53,11 @@
 
 + [新款沃尔沃 XC90 发布：采用最新设计语言，定位插混“大七座”SUV](https://m.ithome.com/html/793526.htm)
 
++ [奇瑞汽车被指 2024 成都车展车模“擦边”，工作人员回应称“上级领导正在严肃处理此事”](https://m.ithome.com/html/793730.htm)
+
++ [消息称英伟达 RTX 5090 (D)、5080 (D) 显卡预计 9 月正式开案](https://m.ithome.com/html/793629.htm)
+
++ [支持公交地铁出行规划，华为 Petal 花瓣地图 App 获推 4.5.0.303 版本升级](https://m.ithome.com/html/793471.htm)
+
++ [高通骁龙 X Plus 8 核处理器发布，更便宜的 Copilot + 电脑将问世](https://m.ithome.com/html/793463.htm)
+

@@ -179,3 +179,9 @@
 
 + [直面天命，用腾讯云轻量服务器，轻松撸起IPv4-IPv6双栈PT站](https://blog.csdn.net/m0_38010072/article/details/141900401)
 
++ [【机器学习】深度学习的现实应用——从图像识别到自然语言处理](https://blog.csdn.net/m0_52827996/article/details/141926947)
+
++ [【FFmpeg】SDL 音视频开发 ⑤ ( SDL 播放 YUV 视频 | SDL 播放 YUV 画面流程 | YUV 视频存放位置 | 刷新控制子线程 | 主线程事件处理 )](https://blog.csdn.net/han1202012/article/details/141397491)
+
++ [【小程序 - 大智慧】深入微信小程序的核心原理](https://blog.csdn.net/qq_53673551/article/details/141925234)
+
