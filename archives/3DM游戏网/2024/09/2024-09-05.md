@@ -275,3 +275,15 @@
 
 + [《神话时代：重述版》推出获特别好评 但DLC因圈钱嫌疑遭特别差评](https://www.3dmgame.com/news/202409/3903493.html)
 
++ [粉丝担心游科开发者被挖 影响《黑神话》DLC或续作开发](https://www.3dmgame.com/news/202409/3903504.html)
+
++ [华为三折叠Mate XT预热预告外观首曝：9月10日正式公布](https://www.3dmgame.com/news/202409/3903503.html)
+
++ [比亚迪：5300多家A股上市公司里 我们研发费用第一](https://www.3dmgame.com/news/202409/3903505.html)
+
++ [Steam好评如潮 《异形工厂2》销量突破25万份](https://www.3dmgame.com/news/202409/3903502.html)
+
++ [《伽尔兰特：我的冒险故事》登陆PC/NS 战斗经营RPG](https://www.3dmgame.com/news/202409/3903501.html)
+
++ [数字卡牌对战游戏《卡片战斗先导者2》Steam页面上线 预定2025年1月推出](https://www.3dmgame.com/news/202409/3903500.html)
+

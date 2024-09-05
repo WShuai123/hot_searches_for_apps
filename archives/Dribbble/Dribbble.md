@@ -193,3 +193,29 @@
 
 + [Degenerates](https://dribbble.com/shots/)
 
++ [The Qore app](https://dribbble.com/shots/)
+
++ [PRASA - Jewelry Ecommerce Web Design](https://dribbble.com/shots/)
+
++ [3D Play Icon Animation](https://dribbble.com/shots/)
+
++ [AI Logo Design](https://dribbble.com/shots/)
+
++ [Outlier: Cover & Sketches](https://dribbble.com/shots/)
+
++ [Staking Web Platform](https://dribbble.com/shots/)
+
++ [Final Brand Identity Design for Chota](https://dribbble.com/shots/)
+
++ [Photo Sharing App](https://dribbble.com/shots/)
+
++ [Pitarda - SaaS Framer Template Platform Block](https://dribbble.com/shots/)
+
++ [Event UI/UX Mobile App Design - Buy Ticket  ????](https://dribbble.com/shots/)
+
++ [Sales Management Dashboard Design](https://dribbble.com/shots/)
+
++ [Klaborad - Task Management Dashboard (List View)](https://dribbble.com/shots/)
+
++ [Home Care Service - Mobile Apps](https://dribbble.com/shots/)
+
