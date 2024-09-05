@@ -153,3 +153,7 @@
 
 + [计算机网络相关知识，OSI 七层模型，了解 TCP/IP、HTTP 等协议](https://blog.csdn.net/weixin_44040169/article/details/141872431)
 
++ [小试牛刀-SOL链创建Token](https://blog.csdn.net/2202_75618418/article/details/141808394)
+
++ [火狐浏览器设置秘籍：让https协议下的ws不加密时运行无阻(WebSocket connection HTTPS)](https://blog.csdn.net/weixin_41290949/article/details/141905794)
+

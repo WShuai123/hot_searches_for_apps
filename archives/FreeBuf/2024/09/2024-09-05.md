@@ -53,3 +53,5 @@
 
 + [红队工具MacroPack已被攻击者在多国滥用](https://www.freebuf.com/news/410268.html)
 
++ [DouPHP1.7 Release 20220822远程代码执行漏洞(CVE-2024-7917)](https://www.freebuf.com/vuls/409097.html)
+
