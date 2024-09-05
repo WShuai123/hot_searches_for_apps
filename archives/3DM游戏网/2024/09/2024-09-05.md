@@ -173,3 +173,39 @@
 
 + [《黑神话》蜘蛛精二姐演员分享全新COS照 知性贤惠](https://www.3dmgame.com/news/202409/3903442.html)
 
++ [《足球经理25》再次延期 11月底发售部分功能已被砍](https://www.3dmgame.com/news/202409/3903463.html)
+
++ [《架空地图模拟器》Steam推出 自动进行虚构世界发展](https://www.3dmgame.com/news/202409/3903466.html)
+
++ [2024年金摇杆奖11月21日回归 10月4日公布入围名单](https://www.3dmgame.com/news/202409/3903464.html)
+
++ [卡牌战斗游戏《Card-en-Ciel天穹卡牌录》现已推出体验版](https://www.3dmgame.com/news/202409/3903465.html)
+
++ [《腐烂国度2》停更公告 开发团队投入《腐烂国度3》开发](https://www.3dmgame.com/news/202409/3903462.html)
+
++ [类暗黑刷宝游戏《破坏领主》服务器关闭时间将推迟至9月17日](https://www.3dmgame.com/news/202409/3903459.html)
+
++ [微软抨击苹果抽成方式：在他们的平台上云游戏很难盈利](https://www.3dmgame.com/news/202409/3903458.html)
+
++ [《东方弹幕神乐》登陆Switch 联动《传说之下》免费更新](https://www.3dmgame.com/news/202409/3903457.html)
+
++ [《三国志8重制版》角色武力/智力排行榜公布 吕布诸葛亮居首](https://www.3dmgame.com/news/202409/3903456.html)
+
++ [《暗黑4》S6 PTR测试服上线 开荒视频和神话暗金展示](https://www.3dmgame.com/news/202409/3903455.html)
+
++ [肉鸽游戏《Downfall》Steam页面 9月12日发售](https://www.3dmgame.com/news/202409/3903454.html)
+
++ [恐怖RPG游戏《GRAFT》新预告 撕下敌人碎片改造自己](https://www.3dmgame.com/news/202409/3903461.html)
+
++ [龙珠Moba游戏《龙珠Project：Multi》计划2025年发售 登陆Steam和移动端](https://www.3dmgame.com/news/202409/3903460.html)
+
++ [《原神》登陆Xbox细节公布 XGPU玩家可获得额外奖励](https://www.3dmgame.com/news/202409/3903453.html)
+
++ [《绝地潜兵2》地图惊现第三色战斗区域 但官方否认光能族的回归](https://www.3dmgame.com/news/202409/3903451.html)
+
++ [《战锤40K：星际战士2》官方定制主题PS5 只抽不卖](https://www.3dmgame.com/news/202409/3903452.html)
+
++ [《寂静岭2：重制版》玩家可关闭所有UI元素 提升沉浸感](https://www.3dmgame.com/news/202409/3903450.html)
+
++ [《Good Kill!》10月Steam抢先体验 越战背景FPS](https://www.3dmgame.com/news/202409/3903449.html)
+

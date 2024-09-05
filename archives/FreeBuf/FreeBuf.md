@@ -45,3 +45,7 @@
 
 + [基于LocalStack+CloudGoat搭建本地AWS云场景漏洞靶场](https://www.freebuf.com/articles/container/409775.html)
 
++ [新型PyPI攻击技术可能导致超2.2万软件包被劫持](https://www.freebuf.com/news/410259.html)
+
++ [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
+
