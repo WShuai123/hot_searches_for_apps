@@ -75,3 +75,47 @@
 
 + [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
 
++ [Neobanking Mobile App](https://dribbble.com/shots/)
+
++ [Axon Defense - Logo Design](https://dribbble.com/shots/)
+
++ [Carbon Copy Beer Labels](https://dribbble.com/shots/)
+
++ [The Qore app](https://dribbble.com/shots/)
+
++ [Radiant Mortgage    |    logo concept](https://dribbble.com/shots/)
+
++ [Brisk – Smarter Financial Management for Modern Businesses](https://dribbble.com/shots/)
+
++ [913.ai billboard designs](https://dribbble.com/shots/)
+
++ [Soeran - Insurtech Pitch Deck](https://dribbble.com/shots/)
+
++ [Revue XXI - n°66 - Summer Edition.](https://dribbble.com/shots/)
+
++ [Landscape Minis Pattern](https://dribbble.com/shots/)
+
++ [PRASA - Jewelry Ecommerce Web Design](https://dribbble.com/shots/)
+
++ [Property || Real Estate Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Coingems - platform for listing new cryptocurrencies](https://dribbble.com/shots/)
+
++ [E-commerce: ENVY](https://dribbble.com/shots/)
+
++ [Restream](https://dribbble.com/shots/)
+
++ [Cooking Assistant - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Schedulr Task Management Website](https://dribbble.com/shots/)
+
++ [Hyena Logo](https://dribbble.com/shots/)
+
++ [birdcupfire thing](https://dribbble.com/shots/)
+
++ [Pinarello - Sport Bicycle Ecommerce Minimalist Website - News](https://dribbble.com/shots/)
+
++ [eOne - Resources System](https://dribbble.com/shots/)
+
++ [Ai Logo](https://dribbble.com/shots/)
+

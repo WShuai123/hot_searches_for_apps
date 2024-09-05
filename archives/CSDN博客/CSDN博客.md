@@ -125,3 +125,11 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141854049)
 
++ [2024 年高教社杯全国大学生数学建模竞赛题目D 题 反潜航空深弹命中概率问题完整思路 模型 代码 结果分享（仅供学习）](https://blog.csdn.net/2403_86854718/article/details/141944570)
+
++ [Python编码系列—Python团队开发工作流：高效协作的艺术](https://blog.csdn.net/u013889591/article/details/141890612)
+
++ [若依系统的学习](https://blog.csdn.net/m0_74749208/article/details/141905199)
+
++ [《Cloud Native Data Center Networking》（云原生数据中心网络设计）读书笔记 -- 10数据中心中的BGP](https://blog.csdn.net/qq_39610915/article/details/141906992)
+
