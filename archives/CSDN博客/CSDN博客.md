@@ -101,3 +101,27 @@
 
 + [【多线程】深入剖析生产者-消费者模型](https://blog.csdn.net/acm_pn/article/details/141871345)
 
++ [【2024高教社杯全国大学生数学建模竞赛】B题 生产过程中的决策问题——解题思路 代码 论文](https://blog.csdn.net/Magnolia_He/article/details/141938858)
+
++ [2024年高教社杯数学建模国赛赛题浅析——助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/141938215)
+
++ [计算机网络 第二章: 物理层_信道的极限容量 奈氏准则 香农公式 (带习题)](https://blog.csdn.net/Snowyyds/article/details/141932916)
+
++ [开发者如何自主绑定和解除小程序和公众号长期/短期运营者微信号？](https://blog.csdn.net/qq_44866828/article/details/141891059)
+
++ [【愚公系列】《短视频生成与剪辑实战》005-使用 Midjourney 进行 Al 绘图](https://blog.csdn.net/aa2528877987/article/details/141874679)
+
++ [Azure和Transformers的详细解释](https://blog.csdn.net/lvdepeng123/article/details/141863280)
+
++ [2024年高教社杯全国大学生数学建模竞赛的A题](https://blog.csdn.net/NULLSET1/article/details/141938867)
+
++ [网络编程详解](https://blog.csdn.net/hyldzbg/article/details/141642577)
+
++ [828华为云征文｜Flexus云服务器X实例赋能，用Python将微信公众号秒变智能聊天机器人](https://blog.csdn.net/qq_21891743/article/details/141788804)
+
++ [【高质量】2024数学建模国赛A题B题C题D题E题思路+模型+代码+论文](https://blog.csdn.net/qq_52515572/article/details/141859384)
+
++ [（最新更新）2024全国大学生数学建模竞赛（国赛）A题碰撞检测模型+最优螺距 机理建模](https://blog.csdn.net/Yilu264/article/details/141936070)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/2401_85027652/article/details/141854049)
+

@@ -101,3 +101,5 @@
 
 + [Spellar Pro](https://www.producthunt.com/posts/spellar-pro)
 
++ [MyDataNinja](https://www.producthunt.com/posts/mydataninja-2)
+

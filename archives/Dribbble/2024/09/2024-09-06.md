@@ -49,3 +49,29 @@
 
 + [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
 
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Canela en Polvo Logo Design](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [Ramen's burger](https://dribbble.com/shots/)
+
++ [Candle Bar Tertiary Logo](https://dribbble.com/shots/)
+
++ [Gelata Pisci - NFT Art, daily vectors](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
