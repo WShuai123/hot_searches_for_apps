@@ -219,3 +219,25 @@
 
 + [拳头游戏旗下调整所有游戏内虚拟货币全球地区定价](https://www.3dmgame.com/news/202409/3903471.html)
 
++ [坤哥爆料：《崩坏：星穹铁道》将推出PS5实体版 定价40美元](https://www.3dmgame.com/news/202409/3903481.html)
+
++ [回合制战术卡牌轻肉鸽游戏《幽冥之王》现已正式推出 收获好评](https://www.3dmgame.com/news/202409/3903480.html)
+
++ [《Spectre Divide》下调皮肤售价 总监：以9成玩家白嫖定价](https://www.3dmgame.com/news/202409/3903482.html)
+
++ [科幻风类银河恶魔城游戏《赛博战魂》现已推出试玩Demo](https://www.3dmgame.com/news/202409/3903479.html)
+
++ [生存恐怖游戏《咒笼：诅咒领域》Steam页面上线 明年发售](https://www.3dmgame.com/news/202409/3903478.html)
+
++ [《战锤40K：星际战士2》热熔枪预告 9月9日发售](https://www.3dmgame.com/news/202409/3903473.html)
+
++ [专家分析《星鸣特攻》等实时服务生存所需玩家数量：每款游戏都不同](https://www.3dmgame.com/news/202409/3903477.html)
+
++ [消息称RTX 5090D功耗猛增至600W 游戏性能暴涨](https://www.3dmgame.com/news/202409/3903476.html)
+
++ [一代经典！游戏《仙剑奇侠传》登陆任天堂Switch](https://www.3dmgame.com/news/202409/3903475.html)
+
++ [生软解释《龙腾世纪：影幛守护者》中敌人设计变更缘由 但玩家仍旧不喜欢](https://www.3dmgame.com/news/202409/3903474.html)
+
++ [《风来的希炼6》新DLC前篇上线 新迷宫及角色登场](https://www.3dmgame.com/news/202409/3903472.html)
+

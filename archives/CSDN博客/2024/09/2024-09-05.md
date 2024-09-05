@@ -147,3 +147,9 @@
 
 + [vue3 组件通信方式](https://blog.csdn.net/fishmemory7sec/article/details/141826031)
 
++ [【人工智能】Transformers之Pipeline（十五）：总结（summarization）](https://blog.csdn.net/weixin_48007632/article/details/141900321)
+
++ [使用 SCSS 或 LESS 相比于纯 CSS 的好处](https://blog.csdn.net/Chloeeeeeeee/article/details/141898746)
+
++ [计算机网络相关知识，OSI 七层模型，了解 TCP/IP、HTTP 等协议](https://blog.csdn.net/weixin_44040169/article/details/141872431)
+
