@@ -117,3 +117,7 @@
 
 + [《弹着吉他的少年》](http://www.acfun.cn/v/ac46211679)
 
++ [【小六】She’s gone—Fun声唱参赛作品](http://www.acfun.cn/v/ac46209929)
+
++ [猫猫挑战伸缩小刀2](http://www.acfun.cn/v/ac46208242)
+

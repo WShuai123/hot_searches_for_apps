@@ -363,3 +363,7 @@
 
 + [成都车展iCAR车模大尺度表演被网友投诉：奇瑞回应](https://www.3dmgame.com/news/202409/3903522.html)
 
++ [13/14代酷睿保修遭遇困难 库存不足导致英特尔延长处理时间](https://www.3dmgame.com/news/202409/3903525.html)
+
++ [小岛秀夫庆祝61岁生日 西岛秀俊送了一把玩具霰弹枪](https://www.3dmgame.com/news/202409/3903523.html)
+

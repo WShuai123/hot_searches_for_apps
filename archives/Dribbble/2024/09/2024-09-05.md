@@ -239,3 +239,15 @@
 
 + [Branko Miljkovic Illustration](https://dribbble.com/shots/)
 
++ [Neobanking Mobile App](https://dribbble.com/shots/)
+
++ [Loader for gen AI interface](https://dribbble.com/shots/)
+
++ [Axon Defense - Logo Design](https://dribbble.com/shots/)
+
++ [Sparrow Logo](https://dribbble.com/shots/)
+
++ [Coingems - platform for listing new cryptocurrencies](https://dribbble.com/shots/)
+
++ [Aluxe - Fashion Website Landing Page Exploration](https://dribbble.com/shots/)
+
