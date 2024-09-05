@@ -165,3 +165,13 @@
 
 + [Knead That Dough Social Communication Design](https://dribbble.com/shots/)
 
++ [Health Anxiety](https://dribbble.com/shots/)
+
++ [Minimal Soft Geometric Poster](https://dribbble.com/shots/)
+
++ [New York script style](https://dribbble.com/shots/)
+
++ [Nuon - Logo design](https://dribbble.com/shots/)
+
++ [White wolf](https://dribbble.com/shots/)
+

@@ -109,3 +109,67 @@
 
 + [辣眼睛塞尔达传说动画片DVD全集下月重新上市](https://www.3dmgame.com/news/202409/3903435.html)
 
++ [《战锤40K：星际战士2》IGN 8分 残酷战斗太爽快](https://www.3dmgame.com/news/202409/3903448.html)
+
++ [索尼总裁感叹PlayStation缺乏新IP 玩家却想要《血源》新作](https://www.3dmgame.com/news/202409/3903443.html)
+
++ [《星球大战：亡命之徒》总监抱怨MTC评分低](https://www.3dmgame.com/news/202409/3903444.html)
+
++ [《最终幻想16》PC版中文预告 9月17日开放下载](https://www.3dmgame.com/news/202409/3903445.html)
+
++ [在抱怨被冷落后 微软已向《艾诺提亚：失落之歌》开发商致歉](https://www.3dmgame.com/news/202409/3903446.html)
+
++ [《霍格沃茨之遗》续作正在优先开发 将带来可观收入](https://www.3dmgame.com/news/202409/3903447.html)
+
++ [《守望先锋》手游？微软和动视在暴雪成立新团队](https://www.3dmgame.com/news/202408/3900999.html)
+
++ [《命运2》开发者抨击CEO决策导致Bungie野心过度膨胀](https://www.3dmgame.com/news/202408/3901000.html)
+
++ [闲鱼电脑网页端正式上线：功能界面 暂不支持下单](https://www.3dmgame.com/news/202408/3901001.html)
+
++ [微软正式确认Xbox移动商城测试已经开始](https://www.3dmgame.com/news/202408/3901002.html)
+
++ [VR游戏《Sugar Mess》2024年11月1日发售 支持中文](https://www.3dmgame.com/news/202408/3901004.html)
+
++ [生产和自动化游戏《Block Factory》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3901003.html)
+
++ [《黎明杀机》开发团队公开2024年更新路线图](https://www.3dmgame.com/news/202408/3901005.html)
+
++ [谷歌豪掷25亿美元收购AI独角兽 创始人率团队“卖身大厂”](https://www.3dmgame.com/news/202408/3901006.html)
+
++ [《黄金树幽影》加持 《艾尔登法环》成6月美国销量最高游戏](https://www.3dmgame.com/news/202408/3901007.html)
+
++ [适应性射击游戏《ASCENDANT.COM》周末开启公测](https://www.3dmgame.com/news/202408/3901008.html)
+
++ [《星球大战：法外狂徒》配置需求已在假设玩家使用DLSS或FSR](https://www.3dmgame.com/news/202408/3901009.html)
+
++ [科乐美Q1财报：销售额同比增长24%利润创纪录](https://www.3dmgame.com/news/202408/3901010.html)
+
++ [《终焉之形》虽获成功 但Bungie高管为保财报坚持裁员](https://www.3dmgame.com/news/202408/3901011.html)
+
++ [《星空》安装50多个MOD之后达到的画质是这样](https://www.3dmgame.com/news/202408/3901012.html)
+
++ [《迪士尼传奇米奇：Rebrushed》实机演示 9月24日发售](https://www.3dmgame.com/news/202408/3901013.html)
+
++ [《火箭联盟》世界锦标赛“冠军之路”活动8月23日开启](https://www.3dmgame.com/news/202408/3901014.html)
+
++ [Bungie被取消项目为第三人称 借鉴《星际战甲》《原神》](https://www.3dmgame.com/news/202408/3901015.html)
+
++ [恋爱AVG《恋爱成双》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202408/3901016.html)
+
++ [2024第二季度手机出货量排名：小米拿下全球第3](https://www.3dmgame.com/news/202408/3901017.html)
+
++ [《Fate/stay night 高清復刻版》Steam页面 8月8日发售](https://www.3dmgame.com/news/202408/3901018.html)
+
++ [Switch继任机何时上市？塞尔达传说新作再遇性能问题](https://www.3dmgame.com/news/202409/3903437.html)
+
++ [《龙腾世纪：影障守护者》同伴培养和技能树介绍](https://www.3dmgame.com/news/202409/3903438.html)
+
++ [网传任天堂Switch 2可能于本月公布](https://www.3dmgame.com/news/202409/3903439.html)
+
++ [育碧预览《波斯王子：失落的王冠》DLC“黑暗面具”](https://www.3dmgame.com/news/202409/3903440.html)
+
++ [名侦探柯南作者漫画《剑勇传说YAIBA》发布动画预告](https://www.3dmgame.com/news/202409/3903441.html)
+
++ [《黑神话》蜘蛛精二姐演员分享全新COS照 知性贤惠](https://www.3dmgame.com/news/202409/3903442.html)
+
