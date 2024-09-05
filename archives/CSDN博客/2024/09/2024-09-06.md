@@ -135,3 +135,5 @@
 
 + [【机器学习】决策树与随机森林：模型对比与应用案例分析](https://blog.csdn.net/2301_76677973/article/details/141923312)
 
++ [2024 数学建模高教社杯 国赛（C题）| 农作物的种植策略 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/141941180)
+
