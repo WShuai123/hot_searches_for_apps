@@ -367,3 +367,11 @@
 
 + [小岛秀夫庆祝61岁生日 西岛秀俊送了一把玩具霰弹枪](https://www.3dmgame.com/news/202409/3903523.html)
 
++ [“人类末日”降临 《小丑牌》9月26日登陆手机端](https://www.3dmgame.com/news/202409/3903529.html)
+
++ [Fami通新一周销量榜 《高达破坏者4》登顶](https://www.3dmgame.com/news/202409/3903528.html)
+
++ [《宇宙机器人》IGN 9分 MTC 94分被评为“必玩游戏”](https://www.3dmgame.com/news/202409/3903526.html)
+
++ [传PS5 Pro将于下周二或周三公布](https://www.3dmgame.com/news/202409/3903527.html)
+

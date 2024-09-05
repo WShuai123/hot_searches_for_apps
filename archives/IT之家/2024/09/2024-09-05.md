@@ -69,3 +69,5 @@
 
 + [消息称华为 Mate 70 非凡大师版手机采用全陶瓷后盖，双拼结构已抛弃](https://m.ithome.com/html/793660.htm)
 
++ [IGN 法国为《黑神话：悟空》打 9 分，曾“锐评”金箍棒后被喷无知](https://m.ithome.com/html/793764.htm)
+
