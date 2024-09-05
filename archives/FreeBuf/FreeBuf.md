@@ -55,3 +55,7 @@
 
 + [DouPHP1.7 Release 20220822远程代码执行漏洞(CVE-2024-7917)](https://www.freebuf.com/vuls/409097.html)
 
++ [Buzzer：一款针对eBPF的安全检测与模糊测试工具](https://www.freebuf.com/sectool/409327.html)
+
++ [红队工具MacroPack已被攻击者滥用](https://www.freebuf.com/news/410268.html)
+
