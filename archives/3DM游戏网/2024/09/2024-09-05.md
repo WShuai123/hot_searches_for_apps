@@ -241,3 +241,9 @@
 
 + [《风来的希炼6》新DLC前篇上线 新迷宫及角色登场](https://www.3dmgame.com/news/202409/3903472.html)
 
++ [首个具法律约束力的AI国际条约 美英欧盟将签署标准协议](https://www.3dmgame.com/news/202409/3903485.html)
+
++ [老外玩家讨论非正常弃坑游戏原因 有多离谱就有多奇葩](https://www.3dmgame.com/news/202409/3903483.html)
+
++ [国外电视不香了！外资四大品牌市占率仅剩不到5%](https://www.3dmgame.com/news/202409/3903484.html)
+

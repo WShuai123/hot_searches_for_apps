@@ -157,3 +157,11 @@
 
 + [火狐浏览器设置秘籍：让https协议下的ws不加密时运行无阻(WebSocket connection HTTPS)](https://blog.csdn.net/weixin_41290949/article/details/141905794)
 
++ [【Linux】网络编程——TcpServer](https://blog.csdn.net/2301_77868664/article/details/141869242)
+
++ [Web攻防之应急响应(二)](https://blog.csdn.net/weixin_72543266/article/details/141906171)
+
++ [电力物联网的电力监控系统](https://blog.csdn.net/ACRELKY/article/details/141886056)
+
++ [【智能制造-30】机器人飞车现象](https://blog.csdn.net/qq_45611002/article/details/141892242)
+
