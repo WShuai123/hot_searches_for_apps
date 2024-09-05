@@ -59,3 +59,5 @@
 
 + [红队工具MacroPack已被攻击者滥用](https://www.freebuf.com/news/410268.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+

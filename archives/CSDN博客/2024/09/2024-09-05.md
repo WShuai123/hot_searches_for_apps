@@ -171,3 +171,5 @@
 
 + [《Cloud Native Data Center Networking》（云原生数据中心网络设计）读书笔记 -- 10数据中心中的BGP](https://blog.csdn.net/qq_39610915/article/details/141906992)
 
++ [Springboot中基于X509完成SSL检验的原理与实践](https://blog.csdn.net/splendid_java/article/details/141865113)
+

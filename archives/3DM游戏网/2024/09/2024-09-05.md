@@ -261,3 +261,17 @@
 
 + [像素风科幻动作游戏《Block 17》Steam页面 2026年发售](https://www.3dmgame.com/news/202409/3903491.html)
 
++ [宏碁加入手持游戏PC设备竞争：Nitro Blaze 7正式公布](https://www.3dmgame.com/news/202409/3903499.html)
+
++ [卡普空确认主角弗兰克·韦斯特在《丧尸围城：豪华复刻版》中升级更快](https://www.3dmgame.com/news/202409/3903498.html)
+
++ [《英雄传说：界之轨迹》新角色情报公开 掌握故事关键走向](https://www.3dmgame.com/news/202409/3903497.html)
+
++ [《崩坏：星穹铁道》走近星穹——「貊泽：千里不留行」](https://www.3dmgame.com/news/202409/3903496.html)
+
++ [IGN法国为《黑神话：悟空》打出9分评价：一场深入中国民间传说的奇幻之旅](https://www.3dmgame.com/news/202409/3903494.html)
+
++ [《暗黑破坏神4：憎恨之躯》2.0更新或终于为游戏添加奶牛关](https://www.3dmgame.com/news/202409/3903495.html)
+
++ [《神话时代：重述版》推出获特别好评 但DLC因圈钱嫌疑遭特别差评](https://www.3dmgame.com/news/202409/3903493.html)
+
