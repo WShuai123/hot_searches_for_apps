@@ -35,3 +35,7 @@
 
 + [莲花汽车将成路特斯正式中文名，CEO 冯擎峰称不会走增程路线](https://m.ithome.com/html/793462.htm)
 
++ [比亚迪海狮 05 DM-i 外观公布：搭载 DM 5.0 技术](https://m.ithome.com/html/793432.htm)
+
++ [刘德华担任 Mate XT 非凡大师品牌大使，华为三折叠手机外观首次公开](https://m.ithome.com/html/793553.htm)
+

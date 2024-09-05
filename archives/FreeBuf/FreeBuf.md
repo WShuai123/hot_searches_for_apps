@@ -49,3 +49,7 @@
 
 + [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
++ [红队工具MacroPack已被攻击者在多国滥用](https://www.freebuf.com/news/410268.html)
+
