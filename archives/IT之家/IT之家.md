@@ -25,3 +25,5 @@
 
 + [消息称英伟达 RTX 5090 (D)、5080 (D) 显卡预计 9 月正式开案](https://m.ithome.com/html/793629.htm)
 
++ [领克 Z10 上市：CLTC 续航里程最高 806 公里，上市限时价 19.68 万元起](https://m.ithome.com/html/793789.htm)
+

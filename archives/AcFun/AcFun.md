@@ -65,3 +65,5 @@
 
 + [Chocolate Cream ~ 全面屏](http://www.acfun.cn/v/ac46211892)
 
++ [炉石传说：【天天素材库】 第332期](http://www.acfun.cn/v/ac46208646)
+
