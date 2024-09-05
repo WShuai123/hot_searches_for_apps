@@ -137,3 +137,7 @@
 
 + [2024 数学建模高教社杯 国赛（C题）| 农作物的种植策略 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/141941180)
 
++ [828华为云征文｜华为云Flexus云服务器X实例部署Cockpit服务](https://blog.csdn.net/jks212454/article/details/141832968)
+
++ [【人工智能】Transformers之Pipeline（十五）：总结（summarization）](https://blog.csdn.net/weixin_48007632/article/details/141900321)
+
