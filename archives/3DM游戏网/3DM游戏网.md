@@ -307,3 +307,53 @@
 
 + [国产策略游戏《钢铁指挥官》将于9月26日正式发售](https://www.3dmgame.com/news/202409/3903510.html)
 
++ [孩之宝有意与《博德之门3》开发商合作推出新游戏](https://www.3dmgame.com/news/202403/3890136.html)
+
++ [《绝地潜兵2》玩家解锁机甲速度太快 服务器压力山大](https://www.3dmgame.com/news/202403/3890137.html)
+
++ [《巫师3：次世代版》MOD修复光追反射优化问题](https://www.3dmgame.com/news/202403/3890134.html)
+
++ [合作恐怖游戏《Altarium》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890123.html)
+
++ [2.5D风格化的角色扮演冒险游戏《幻象游园剧》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202403/3890142.html)
+
++ [新规后多地快递仍不告而投 快递员集体崩溃：没法干了](https://www.3dmgame.com/news/202403/3890132.html)
+
++ [樱桃小丸子声优TARAKO去世 享年63岁](https://www.3dmgame.com/news/202403/3890129.html)
+
++ [北汽拟建电芯制造工厂 宁德时代小米汽车等出资](https://www.3dmgame.com/news/202403/3890140.html)
+
++ [《别跑！美女在追你！》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202403/3890127.html)
+
++ [解谜游戏《Viewfinder》被评为UKIE 2024英国年度游戏](https://www.3dmgame.com/news/202403/3890128.html)
+
++ [《真人快打1》周末免费试玩 购买游戏六折优惠](https://www.3dmgame.com/news/202403/3890126.html)
+
++ [《战地2042》第七赛季新截图 实机预告13日放出](https://www.3dmgame.com/news/202403/3890125.html)
+
++ [《恶意不息》超长实机演示 全面展示战斗等场景](https://www.3dmgame.com/news/202403/3890124.html)
+
++ [国内仅次于华为！京东方专利申请数全球第五](https://www.3dmgame.com/news/202403/3890138.html)
+
++ [《特技狂人》宣布确认引进中国内地 档期待定](https://www.3dmgame.com/news/202403/3890130.html)
+
++ [《最终幻想14》宣布举办10周年14小时庆祝直播](https://www.3dmgame.com/news/202403/3890139.html)
+
++ [英国2月销量榜：《绝地潜兵2》大获成功登顶](https://www.3dmgame.com/news/202403/3890131.html)
+
++ [编剧：《最终幻想7》重制是重写艾莉丝和蒂法友谊的机会](https://www.3dmgame.com/news/202403/3890141.html)
+
++ [《辐射：新维加斯》MOD让城市还原最初概念设定](https://www.3dmgame.com/news/202403/3890135.html)
+
++ [被欧盟调查 苹果撤回封禁Epic开发者账户决定](https://www.3dmgame.com/news/202403/3890122.html)
+
++ [微软想让大家相信《黑神话》与索尼有独占协议 知情人道出真相](https://www.3dmgame.com/news/202409/3903520.html)
+
++ [光子LA与美国演员工会达成协议 保护演员免遭AI剥削](https://www.3dmgame.com/news/202409/3903519.html)
+
++ [《黑神话：悟空》中美销量差异引热议 海外玩家发长文分析](https://www.3dmgame.com/news/202409/3903517.html)
+
++ [NS游戏时尚换装＆社交游戏《时尚造梦》免费更新第十弹](https://www.3dmgame.com/news/202409/3903518.html)
+
++ [烂片导演的《喋血街头2》真人电影众筹取消 仅募集到850美元](https://www.3dmgame.com/news/202409/3903516.html)
+

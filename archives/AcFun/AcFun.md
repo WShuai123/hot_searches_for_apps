@@ -107,3 +107,7 @@
 
 + [猴子烫嘴硬唱：Bling-Bang-Bang-Born【咄咄睡觉】](http://www.acfun.cn/v/ac46194837)
 
++ [我杀我自己？简vs黑化简！电影化无UI高燃BOSS战！](http://www.acfun.cn/v/ac46210010)
+
++ [是a站让你变成这样的吗？](http://www.acfun.cn/v/ac46211495)
+

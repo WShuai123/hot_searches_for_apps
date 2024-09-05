@@ -219,3 +219,21 @@
 
 + [Home Care Service - Mobile Apps](https://dribbble.com/shots/)
 
++ [913.ai billboard designs](https://dribbble.com/shots/)
+
++ [Property || Real Estate Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Cooking Assistant - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Soeran - Insurtech Pitch Deck](https://dribbble.com/shots/)
+
++ [Radiant Mortgage    |    logo concept](https://dribbble.com/shots/)
+
++ [Landscape Minis Pattern](https://dribbble.com/shots/)
+
++ [Initial Concepts for a Modern Kebab Restaurant](https://dribbble.com/shots/)
+
++ [Hyena Logo](https://dribbble.com/shots/)
+
++ [Airport](https://dribbble.com/shots/)
+

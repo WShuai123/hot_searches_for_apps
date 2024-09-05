@@ -61,3 +61,7 @@
 
 + [高通骁龙 X Plus 8 核处理器发布，更便宜的 Copilot + 电脑将问世](https://m.ithome.com/html/793463.htm)
 
++ [网传“中国高铁一公里耗一万度电”，官方回应称与事实不符](https://m.ithome.com/html/793722.htm)
+
++ [VG Insights：《黑神话：悟空》两周卖出 1800 万套，销售额约 8.67 亿美元](https://m.ithome.com/html/793683.htm)
+
