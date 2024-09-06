@@ -267,3 +267,29 @@
 
 + [像素风剧情冒险游戏《少年的终结》已推出抢先体验版 第二章内容12月中旬上线](https://www.3dmgame.com/news/202409/3903592.html)
 
++ [经典恐怖游戏《青鬼》宣布新作开发中 2025年发售](https://www.3dmgame.com/news/202409/3903607.html)
+
++ [《刀剑神域 碎梦边境》即将举行公开网路测试！同步公开特典及游戏情报](https://www.3dmgame.com/news/202409/3903608.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》 介绍本作的世界观概要等相关资讯](https://www.3dmgame.com/news/202409/3903609.html)
+
++ [爆款中世纪类塔科夫游戏《至暗时刻》Steam免费开玩，9月6日全新赛季，冒险刻不容缓！](https://www.3dmgame.com/news/202409/3903605.html)
+
++ [《勇者斗恶龙3：重制版》女战士加内衣短裤 日本玩家不满：迎合正确](https://www.3dmgame.com/news/202409/3903601.html)
+
++ [《战锤40K：星际战士2》Steam“多半好评”  好评率75%](https://www.3dmgame.com/news/202409/3903602.html)
+
++ [不用二选一了！iPhone 16发布在即 苹果已批准腾讯本周提交微信更新](https://www.3dmgame.com/news/202409/3903603.html)
+
++ [《西游记之孙悟空三打白骨精》9月14日重映 来蹭热度？](https://www.3dmgame.com/news/202409/3903604.html)
+
++ [你中招没！8月被投诉钓鱼网站TOP10：假冒腾讯、假冒苹果前二](https://www.3dmgame.com/news/202409/3903606.html)
+
++ [暴雪生存游戏《奥德赛》截图泄露 可惜该作已被取消](https://www.3dmgame.com/news/202409/3903597.html)
+
++ [《燕云十六声》动画进入最后打磨阶段 今年内一定公测](https://www.3dmgame.com/news/202409/3903599.html)
+
++ [腾讯注册怪物猎人手游软件著作权信息：《怪物猎人：旅人》](https://www.3dmgame.com/news/202409/3903598.html)
+
++ [中国首次近地小行星防御任务方案设想公布：伴飞+撞击+伴飞](https://www.3dmgame.com/news/202409/3903600.html)
+

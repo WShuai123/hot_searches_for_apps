@@ -171,3 +171,17 @@
 
 + [Nomad Racquet Clubs](https://dribbble.com/shots/)
 
++ [Fingrow - Financial Courses Landing Page](https://dribbble.com/shots/)
+
++ [Bearded Man Logo](https://dribbble.com/shots/)
+
++ [Car Rental Dashboard](https://dribbble.com/shots/)
+
++ [Tepia - elements](https://dribbble.com/shots/)
+
++ [fitness logos, logo design, brand identity](https://dribbble.com/shots/)
+
++ [biothrust: The Bionic Bioreactor Company | Mobile Layout UIUX](https://dribbble.com/shots/)
+
++ [Inventory Management - Collab](https://dribbble.com/shots/)
+
