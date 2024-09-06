@@ -67,3 +67,5 @@
 
 + [7：O](http://www.acfun.cn/v/ac46217165)
 
++ [【冰空的花束】听着粤语『one』，发着宝可梦【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac46202780)
+

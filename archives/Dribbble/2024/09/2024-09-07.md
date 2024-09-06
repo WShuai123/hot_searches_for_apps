@@ -87,3 +87,51 @@
 
 + [Ai illustrations Tasks](https://dribbble.com/shots/)
 
++ [DP](https://dribbble.com/shots/)
+
++ [Dynamic X Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Brisk – Smarter Financial Management for Modern Businesses](https://dribbble.com/shots/)
+
++ [Sleek lines and striking poses](https://dribbble.com/shots/)
+
++ [28/32 – Tennessee Ramblers](https://dribbble.com/shots/)
+
++ [Branding for ProfitWave crypto platform](https://dribbble.com/shots/)
+
++ [Web3 Platform Landing Page](https://dribbble.com/shots/)
+
++ [Radiant Mortgage logo](https://dribbble.com/shots/)
+
++ [Tepia - elements](https://dribbble.com/shots/)
+
++ [Logo design for enna](https://dribbble.com/shots/)
+
++ [Bearded Man Logo](https://dribbble.com/shots/)
+
++ [P - Parrot Logo](https://dribbble.com/shots/)
+
++ [Surfe Rebrand ????????](https://dribbble.com/shots/)
+
++ [Nomad Racquet Clubs](https://dribbble.com/shots/)
+
++ [Impact of Tech](https://dribbble.com/shots/)
+
++ [Bulldog Logo](https://dribbble.com/shots/)
+
++ [Inflection Logo](https://dribbble.com/shots/)
+
++ [InnoPath - Logo Concept](https://dribbble.com/shots/)
+
++ [Pentax ????](https://dribbble.com/shots/)
+
++ [Vector Software](https://dribbble.com/shots/)
+
++ [Eyeball Mobile](https://dribbble.com/shots/)
+
++ [Hey Heinzel Branded Graphic #1](https://dribbble.com/shots/)
+
++ [Natural Home screen with Shortcuts](https://dribbble.com/shots/)
+
++ [Wolf](https://dribbble.com/shots/)
+
