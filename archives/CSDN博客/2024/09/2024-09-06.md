@@ -217,3 +217,13 @@
 
 + [认识爬虫技术](https://blog.csdn.net/createNo_1/article/details/141897462)
 
++ [纯统计机器学习无法真正解决推理问题 —— 对话复旦大学教授张奇 | AGI 技术 50 人...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141947863)
+
++ [【2024全国大学生数学建模竞赛】B题 模型建立与求解（含代码与论文）](https://blog.csdn.net/ydky_xiaoyun/article/details/141950593)
+
++ [MySQL之对数据库和表的操作](https://blog.csdn.net/zdlynj/article/details/140726261)
+
++ [2024 年高教社杯全国大学生数学建模竞赛题目E 题 交通流量管控完整思路 代码 模型 结果分享（仅供学习）](https://blog.csdn.net/2403_86854718/article/details/141943270)
+
++ [python读取excel数据](https://blog.csdn.net/yuanmomoya/article/details/141937151)
+

@@ -57,3 +57,7 @@
 
 + [华为系列新手表 9 月 19 日巴塞罗那发布，预计为 WATCH D2 / GT5](https://m.ithome.com/html/793791.htm)
 
++ [百度地图将上线《黑神话：悟空》八戒导航语音包](https://m.ithome.com/html/793874.htm)
+
++ [华为智慧屏 V5 Max 110 英寸有望本月发布，消息称官方价 64999 元](https://m.ithome.com/html/793800.htm)
+
