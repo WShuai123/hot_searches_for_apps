@@ -69,3 +69,9 @@
 
 + [16万的车配激光雷达？能好用吗……](http://www.acfun.cn/v/ac46211673)
 
++ [傲慢舞 Abracadabra ~ 全面屏](http://www.acfun.cn/v/ac46211899)
+
++ [提线木偶 ~ 全面屏](http://www.acfun.cn/v/ac46211928)
+
++ [【付小远】第一个音乐节的记录～社牛就是这样炼成的！](http://www.acfun.cn/v/ac46212832)
+

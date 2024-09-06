@@ -143,3 +143,5 @@
 
 + [如何在SpringBoot中实现优雅关闭](https://blog.csdn.net/qq_26664043/article/details/140939635)
 
++ [【解决方案】Vue项目部署指南：Nginx部署前端Vue.js项目](https://blog.csdn.net/air__Heaven/article/details/141883432)
+

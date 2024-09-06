@@ -155,3 +155,23 @@
 
 + [索尼暗示PS5 Pro？30周年纪念活动或将发布新主机](https://www.3dmgame.com/news/202409/3903534.html)
 
++ [实时战斗+卡牌构筑 《咒语回声》Steam页面上线](https://www.3dmgame.com/news/202409/3903550.html)
+
++ [《战锤40K：星际战士2》还未正式发售 在线峰值已超13万](https://www.3dmgame.com/news/202409/3903549.html)
+
++ [《泰坦之旅2》新实机演示 深入了解游戏核心系统](https://www.3dmgame.com/news/202409/3903548.html)
+
++ [2024年MTC评分最高三大游戏 两个是索尼PS独占](https://www.3dmgame.com/news/202409/3903547.html)
+
++ [《黑神话》投资人采访：预估销量3000万份 DLC开发中](https://www.3dmgame.com/news/202409/3903546.html)
+
++ [《Concord》开发者：永远为这款游戏感到自豪](https://www.3dmgame.com/news/202409/3903545.html)
+
++ [动画剧集《漩涡》正式预告 伊藤润二原作改编](https://www.3dmgame.com/news/202409/3903544.html)
+
++ [《黑神话》Steam收入8.8亿美元 平均游玩时间达27小时](https://www.3dmgame.com/news/202409/3903543.html)
+
++ [亚马逊动画《秘密关卡》仍保留《星鸣特攻》特集](https://www.3dmgame.com/news/202409/3903542.html)
+
++ [《妖精的尾巴2》发布星灵魔导士露西战斗视频](https://www.3dmgame.com/news/202409/3903541.html)
+
