@@ -199,3 +199,7 @@
 
 + [DEX-套利夹子机器人](https://blog.csdn.net/qq_38420688/article/details/141941445)
 
++ [【AI绘画】Midjourney后置指令参数详解(下)](https://blog.csdn.net/2201_75539691/article/details/141951628)
+
++ [全能与专精：探索未来AI模型的发展趋势与市场潜力](https://blog.csdn.net/u014727709/article/details/141910651)
+

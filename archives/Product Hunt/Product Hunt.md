@@ -135,3 +135,5 @@
 
 + [FinFloh Credit Decisioning AI](https://www.producthunt.com/posts/finfloh-credit-decisioning-ai-2)
 
++ [Indigo AI](https://www.producthunt.com/posts/indigo-ai)
+
