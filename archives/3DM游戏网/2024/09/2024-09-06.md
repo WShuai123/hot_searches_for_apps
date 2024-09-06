@@ -293,3 +293,15 @@
 
 + [中国首次近地小行星防御任务方案设想公布：伴飞+撞击+伴飞](https://www.3dmgame.com/news/202409/3903600.html)
 
++ [RTX 5090D/5080D中国特供版定了！都打不过5080？](https://www.3dmgame.com/news/202409/3903614.html)
+
++ [反对纯电汽车 是对人类能源浪费！专家：续航长真无用](https://www.3dmgame.com/news/202409/3903615.html)
+
++ [《铁路日本！轨道之旅EX 登山电车 小田急箱根篇》Steam页面上线 本月发售](https://www.3dmgame.com/news/202409/3903610.html)
+
++ [混乱多人联机《友尽高尔夫》推出全新DLC——奥林匹斯奥德赛](https://www.3dmgame.com/news/202409/3903611.html)
+
++ [轰穿地心救世界？激爽动作肉鸽《核元突破！》公开！](https://www.3dmgame.com/news/202409/3903612.html)
+
++ [《星舰铳犬》公开全彩模式 2025年2月20日全球发售](https://www.3dmgame.com/news/202409/3903613.html)
+

@@ -185,3 +185,15 @@
 
 + [Inventory Management - Collab](https://dribbble.com/shots/)
 
++ [DP](https://dribbble.com/shots/)
+
++ [Branding for ProfitWave crypto platform](https://dribbble.com/shots/)
+
++ [Dynamic X Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Web3 Platform Landing Page](https://dribbble.com/shots/)
+
++ [InnoPath - Logo Concept](https://dribbble.com/shots/)
+
++ [Financial company](https://dribbble.com/shots/)
+

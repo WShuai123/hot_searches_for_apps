@@ -47,3 +47,5 @@
 
 + [Epic 喜加二：原价 298 元的《足球经理 2024》免费领](https://m.ithome.com/html/793807.htm)
 
++ [16+512G 京东 8539 元：苹果 MacBook Air M3 补贴新低（官方 11999 元）](https://m.ithome.com/html/793894.htm)
+

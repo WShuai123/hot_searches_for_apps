@@ -31,3 +31,21 @@
 
 + [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
 
++ [psf / black](https://github.com/psf/black)
+
++ [pytorch / pytorch](https://github.com/pytorch/pytorch)
+
++ [renovatebot / renovate](https://github.com/renovatebot/renovate)
+
++ [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [appsmithorg / appsmith](https://github.com/appsmithorg/appsmith)
+
++ [gabime / spdlog](https://github.com/gabime/spdlog)
+
++ [autowarefoundation / autoware](https://github.com/autowarefoundation/autoware)
+
++ [deepfakes / faceswap](https://github.com/deepfakes/faceswap)
+
++ [apache / arrow](https://github.com/apache/arrow)
+
