@@ -123,3 +123,5 @@
 
 + [Nginx部署前端Vue项目的深度解析](https://blog.csdn.net/weixin_73295475/article/details/141952127)
 
++ [828华为云征文｜华为云Flexus云服务器X实例部署Trilium Notes知识库工具](https://blog.csdn.net/jks212454/article/details/141833276)
+
