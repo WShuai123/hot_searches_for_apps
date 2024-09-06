@@ -201,3 +201,13 @@
 
 + [《绝地潜兵2》9月确认推出大型更新 承诺将加强武器](https://www.3dmgame.com/news/202409/3903552.html)
 
++ [《贪婪之秋》开发商员工谈判成功 条件改善还涨薪](https://www.3dmgame.com/news/202409/3903568.html)
+
++ [《死或生：女神假期》新预告 雫上半场登场纪念活动](https://www.3dmgame.com/news/202409/3903567.html)
+
++ [《如龙》系列不会刻意迎合年轻粉丝 仍会讲述中年男人的故事](https://www.3dmgame.com/news/202409/3903566.html)
+
++ [《变形金刚：起源》发布“前所未见”配音特辑 锤哥寡姐再度联手！](https://www.3dmgame.com/news/202409/3903565.html)
+
++ [《优米雅的炼金工房》新实机演示 美少女打怪探险](https://www.3dmgame.com/news/202409/3903564.html)
+

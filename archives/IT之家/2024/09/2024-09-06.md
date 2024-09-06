@@ -29,3 +29,5 @@
 
 + [爱奇艺体育致歉：国足 18 强赛直播瞬时流量过大，造成了不好的观赛体验](https://m.ithome.com/html/793802.htm)
 
++ [大疆发布旗下最轻、最小无人机 DJI Neo：仅 135 克重，1299 元起](https://m.ithome.com/html/793790.htm)
+

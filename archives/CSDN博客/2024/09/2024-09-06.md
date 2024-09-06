@@ -165,3 +165,15 @@
 
 + [2024数学建模国赛A题详细思路：基于空间几何运动学和优化模型matlab求解](https://blog.csdn.net/nancheng_single/article/details/141942217)
 
++ [【在Linux世界中追寻伟大的One Piece】数据链路层](https://blog.csdn.net/weixin_74809706/article/details/141944976)
+
++ [Mysql运行原理](https://blog.csdn.net/Crazy_shark/article/details/141943970)
+
++ [IP 协议](https://blog.csdn.net/2301_76161469/article/details/141865899)
+
++ [深入探索JDBC：Java数据库连接技术详解与实战应用](https://blog.csdn.net/2202_76097976/article/details/141903788)
+
++ [苍穹外卖项目前端DAY03](https://blog.csdn.net/qq_62892403/article/details/141891256)
+
++ [SpringBoot+UniApp物流快递寄件小程序系统 附带详细运行指导视频](https://blog.csdn.net/dgfdhgghd/article/details/141940909)
+
