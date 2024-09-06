@@ -49,3 +49,23 @@
 
 + [Brain Mag. Cover](https://dribbble.com/shots/)
 
++ [Branko Miljkovic Illustration](https://dribbble.com/shots/)
+
++ [AN UNSUAL PANTRY | Cheese box design](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Monsters](https://dribbble.com/shots/)
+
++ [Mortgages](https://dribbble.com/shots/)
+
++ [Candle Bar Tertiary Logo](https://dribbble.com/shots/)
+
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [Landon Elliott Album Release Show Poster](https://dribbble.com/shots/)
+
