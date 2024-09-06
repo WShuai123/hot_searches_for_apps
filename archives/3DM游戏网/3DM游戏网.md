@@ -237,3 +237,23 @@
 
 + [黄仁勋再度抛售英伟达股票 今年6月至今已套现6亿美元](https://www.3dmgame.com/news/202409/3903581.html)
 
++ [桌面助理软件《战盟桌面精灵》现已推出抢先体验版](https://www.3dmgame.com/news/202409/3903590.html)
+
++ [《Deadlock》数据挖掘新英雄：斯拉克是你吗？](https://www.3dmgame.com/news/202409/3903591.html)
+
++ [KK官方对战平台邀你共赏Starswar11巅峰对决！赛前竞猜福利拉满！](https://www.3dmgame.com/news/202409/3903589.html)
+
++ [KK官方对战平台全新创作任务上线，视频多好看，赏金多好赚！](https://www.3dmgame.com/news/202409/3903588.html)
+
++ [上班不是天命！加入“Y3游戏人爆改计划”，网易助你创业改命](https://www.3dmgame.com/news/202409/3903587.html)
+
++ [为庆祝PlayStation 30周年 PS官网上架纪念款2人棋盘游戏 售价44.99美元](https://www.3dmgame.com/news/202409/3903586.html)
+
++ [动画电影《风都侦探：假面骑士Skull的肖像》新预告 11月8日上映](https://www.3dmgame.com/news/202409/3903585.html)
+
++ [米哈游公布《原神》角色逸闻 「紧急救援」](https://www.3dmgame.com/news/202409/3903583.html)
+
++ [轻小说《离开A级队伍的我》宣布动画化 计划于2025年1月开播](https://www.3dmgame.com/news/202409/3903582.html)
+
++ [EDF！ 《地球防卫军6》全球销量突破55万](https://www.3dmgame.com/news/202409/3903584.html)
+

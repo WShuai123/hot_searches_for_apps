@@ -181,3 +181,11 @@
 
 + [【机器学习】从零开始理解深度学习——揭开神经网络的神秘面纱](https://blog.csdn.net/qq_61654952/article/details/141952672)
 
++ [Docker 容器技术：简化 MySQL 主从复制部署与优化](https://blog.csdn.net/m0_48173416/article/details/141279189)
+
++ [【Linux】解锁系统编程奥秘，高效进程控制的实战技巧](https://blog.csdn.net/m0_74808907/article/details/141950474)
+
++ [使用 Python 读取 Excel 数据的详细教程](https://blog.csdn.net/Hellc007/article/details/141937846)
+
++ [python编程知识（实现数据加密和解密）](https://blog.csdn.net/2301_77628600/article/details/141934776)
+
