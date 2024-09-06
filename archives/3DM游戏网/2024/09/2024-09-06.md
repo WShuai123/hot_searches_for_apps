@@ -175,3 +175,29 @@
 
 + [《妖精的尾巴2》发布星灵魔导士露西战斗视频](https://www.3dmgame.com/news/202409/3903541.html)
 
++ [《生物突击队》定档12月5日 但滚导表示DCU真正的开端是新版《超人》](https://www.3dmgame.com/news/202409/3903562.html)
+
++ [真人互动影游《三日危情，独家的记忆》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3903561.html)
+
++ [《雨中冒险2》推出v1.3.2补丁 修复DLC更新后部分BUG](https://www.3dmgame.com/news/202409/3903563.html)
+
++ [《毒液3》新概念图曝光 毒液还有青蛙鱼马形态](https://www.3dmgame.com/news/202409/3903560.html)
+
++ [赛博朋克风跑酷砍杀游戏《幽灵行者2》全新DLC“无尽摩托赛模式”现已推出](https://www.3dmgame.com/news/202409/3903558.html)
+
++ [玩家投票多数并不看好虚幻5：优化问题很严重](https://www.3dmgame.com/news/202409/3903559.html)
+
++ [《战锤40K：星际战士2》发售宣传片 9月9日发售](https://www.3dmgame.com/news/202409/3903557.html)
+
++ [分析师称PS5 Pro价格至少600美元 PS5不会随之降价](https://www.3dmgame.com/news/202409/3903556.html)
+
++ [卡牌要素回合制肉鸽对战游戏《将军 对决》已正式推出 收获好评如潮](https://www.3dmgame.com/news/202409/3903555.html)
+
++ [Xbox东京电玩展直播9月26日举行 公布令人兴奋的新作](https://www.3dmgame.com/news/202409/3903554.html)
+
++ [《最终幻想14》制作组正在开发一个新项目 规模较小](https://www.3dmgame.com/news/202409/3903553.html)
+
++ [Valve正在采取措施以停止第三方对《Deadlock》的数据统计](https://www.3dmgame.com/news/202409/3903551.html)
+
++ [《绝地潜兵2》9月确认推出大型更新 承诺将加强武器](https://www.3dmgame.com/news/202409/3903552.html)
+

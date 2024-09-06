@@ -45,3 +45,7 @@
 
 + [恶意软件攻击与加密货币洞察报告](https://www.freebuf.com/articles/neopoints/408919.html)
 
++ [数据安全治理——基于分类分级的权限收敛实践](https://www.freebuf.com/articles/database/409254.html)
+
++ [LiteSpeed 曝出严重漏洞，致使超 600 万 WordPress 网站遭攻击](https://www.freebuf.com/news/410350.html)
+

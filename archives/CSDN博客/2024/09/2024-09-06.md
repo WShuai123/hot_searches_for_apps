@@ -145,3 +145,23 @@
 
 + [【解决方案】Vue项目部署指南：Nginx部署前端Vue.js项目](https://blog.csdn.net/air__Heaven/article/details/141883432)
 
++ [2024 年高教社杯全国大学生数学建模竞赛题目【A/B/C/D/E题】完整思路](https://blog.csdn.net/qq_52590045/article/details/141940946)
+
++ [【FFmpeg】SDL 音视频开发 ⑥ ( SDL 播放 YUV 视频 | YUV 4:2:0 采样 | YUV420P 格式介绍 | 获取 YUV 视频文件 | 读取并加载 YUV 画面数据 )](https://blog.csdn.net/han1202012/article/details/141900912)
+
++ [家政保洁|基于SSM+vue的智能家政保洁预约系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/141928627)
+
++ [智能停车解决方案：STM32无人收费机器人助力停车场管理（详细流程）](https://blog.csdn.net/qq_40431685/article/details/141940928)
+
++ [第八届控制工程与先进算法国际论坛(IWCEAA 2024)](https://blog.csdn.net/2302_79376097/article/details/141936547)
+
++ [LeaNote开源云笔记本地部署结合内网穿透无公网IP远程访问编辑笔记](https://blog.csdn.net/ljq_up/article/details/141928783)
+
++ [【自动驾驶】汽车智能驾驶计算芯片](https://blog.csdn.net/CSSUST/article/details/141904247)
+
++ [【机器学习】自然语言处理中的Transformer模型：深度解析与前沿发展](https://blog.csdn.net/2301_79181030/article/details/141941562)
+
++ [ChatGPT 3.5/4.0使用手册：解锁人工智能的无限潜能](https://blog.csdn.net/beautifulmemory/article/details/141895434)
+
++ [2024数学建模国赛A题详细思路：基于空间几何运动学和优化模型matlab求解](https://blog.csdn.net/nancheng_single/article/details/141942217)
+
