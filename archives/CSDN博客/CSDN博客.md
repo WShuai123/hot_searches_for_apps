@@ -125,3 +125,7 @@
 
 + [828华为云征文｜华为云Flexus云服务器X实例部署Trilium Notes知识库工具](https://blog.csdn.net/jks212454/article/details/141833276)
 
++ [全能与专精：探索未来AI模型的发展趋势与市场潜力](https://blog.csdn.net/u014727709/article/details/141910651)
+
++ [【Spark+Hive】基于大数据酒店数据分析推荐系统（完整系统源码+数据库+开发笔记+详细部署教程）](https://blog.csdn.net/qq_64605578/article/details/141933685)
+
