@@ -49,3 +49,5 @@
 
 + [LiteSpeed 曝出严重漏洞，致使超 600 万 WordPress 网站遭攻击](https://www.freebuf.com/news/410350.html)
 
++ [黑客被刺同行，向对方发送信息窃取软件](https://www.freebuf.com/news/410373.html)
+
