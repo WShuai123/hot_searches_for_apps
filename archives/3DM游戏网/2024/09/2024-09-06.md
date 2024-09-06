@@ -257,3 +257,13 @@
 
 + [EDF！ 《地球防卫军6》全球销量突破55万](https://www.3dmgame.com/news/202409/3903584.html)
 
++ [《死神：魂魄觉醒》和《奇异贤伴：爱达之歌》在新加坡通过评级 或于2025年发售](https://www.3dmgame.com/news/202409/3903593.html)
+
++ [称《黑神话》抄袭的博主发律师函：要求道歉并赔偿](https://www.3dmgame.com/news/202409/3903594.html)
+
++ [《崩坏：星穹铁道》动画短片：「清闲自在身」](https://www.3dmgame.com/news/202409/3903595.html)
+
++ [任天堂上财年研发耗资近1380亿日元 公司史上新高](https://www.3dmgame.com/news/202409/3903596.html)
+
++ [像素风剧情冒险游戏《少年的终结》已推出抢先体验版 第二章内容12月中旬上线](https://www.3dmgame.com/news/202409/3903592.html)
+
