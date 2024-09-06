@@ -227,3 +227,7 @@
 
 + [python读取excel数据](https://blog.csdn.net/yuanmomoya/article/details/141937151)
 
++ [AI模型的未来之路：全能与专精的博弈与共生](https://blog.csdn.net/qq_32682301/article/details/141957896)
+
++ [【机器学习】生成对抗网络(Generative Adversarial Networks, GANs)详解](https://blog.csdn.net/qq_44214428/article/details/141756534)
+

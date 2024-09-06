@@ -349,3 +349,47 @@
 
 + [RTX 3050 A笔记本显卡跑分曝光 和3050Ti笔记本版相当](https://www.3dmgame.com/news/202409/3903617.html)
 
++ [《方舟生存飞升》全新DLC冲上Steam热销前五，“中心岛”地图6月上线](https://www.3dmgame.com/news/202404/3892542.html)
+
++ [这款国产模拟经营游戏 能让你打造最精致的水乡学园](https://www.3dmgame.com/news/202404/3892543.html)
+
++ [《星球工匠》登陆Steam 开放世界太空生存建设](https://www.3dmgame.com/news/202404/3892540.html)
+
++ [女子7000元买的iPhone 维修费高达14000元：官方回应](https://www.3dmgame.com/news/202404/3892530.html)
+
++ [《废墟图书馆》Switch版预购开启 剧情回合制卡牌战斗](https://www.3dmgame.com/news/202404/3892548.html)
+
++ [《死侍3》休·杰克曼的金刚狼完整造型遭泄露 还是印在塑料杯上的](https://www.3dmgame.com/news/202404/3892539.html)
+
++ [《最后的咒语》首个DLC“卢恩堡的矮人”4月24日发售](https://www.3dmgame.com/news/202404/3892536.html)
+
++ [《芭比》制片公司将拍摄桌游《大富翁》改编真人电影](https://www.3dmgame.com/news/202404/3892546.html)
+
++ [《SUNSOFT is Back》登陆Switch/PC 80年代经典三部游戏合集](https://www.3dmgame.com/news/202404/3892534.html)
+
++ [《舌尖上的魔素车》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202404/3892535.html)
+
++ [沙盒生存游戏《末日地带2》公布最新游戏演示预告 2024年第三季度推出](https://www.3dmgame.com/news/202404/3892533.html)
+
++ [《夜族崛起》发布恶魔城联动DLC首个玩法预告片](https://www.3dmgame.com/news/202404/3892532.html)
+
++ [RNG战队CEO自曝快破产：想卖NFT做“公众战队”](https://www.3dmgame.com/news/202404/3892531.html)
+
++ [模拟在全球任意城市游玩！《无感染区》4月12日上线](https://www.3dmgame.com/news/202404/3892544.html)
+
++ [动作冒险游戏《RKGK / Rakugaki》现已登录Steam平台](https://www.3dmgame.com/news/202404/3892537.html)
+
++ [报告称上线仅两个月 SE新作《泡沫明星》玩家流失超95%](https://www.3dmgame.com/news/202404/3892545.html)
+
++ [《终极闪光：破坏者》公开火焰巫师小Boss战斗实机](https://www.3dmgame.com/news/202404/3892538.html)
+
++ [电视开机率暴跌、出货量创新低！创维创始人：AI将让人们回归电视](https://www.3dmgame.com/news/202404/3892547.html)
+
++ [《沙石镇时光》近日官宣加入独游「iii计划」！   多人模式跨平台联机将于今夏正式开启！](https://www.3dmgame.com/news/202404/3892541.html)
+
++ [《波斯王子：Rogue》15分钟实机 5月14日发售](https://www.3dmgame.com/news/202404/3892528.html)
+
++ [30天内WPS崩了2次？客服称情况已在紧急排查中](https://www.3dmgame.com/news/202409/3903619.html)
+
++ [如果《Concord》角色非常性感 你会玩吗？](https://www.3dmgame.com/news/202409/3903618.html)
+
