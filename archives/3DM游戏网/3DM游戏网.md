@@ -211,3 +211,27 @@
 
 + [《优米雅的炼金工房》新实机演示 美少女打怪探险](https://www.3dmgame.com/news/202409/3903564.html)
 
++ [《战锤40K：星际战士2》官方提醒：分享荣耀而非剧透](https://www.3dmgame.com/news/202409/3903580.html)
+
++ [像素风经营模拟游戏《龙之酿造》登陆Steam平台 预定2026年推出](https://www.3dmgame.com/news/202409/3903578.html)
+
++ [横版过关游戏《疯王救赎》Steam页面上线 明年发售](https://www.3dmgame.com/news/202409/3903579.html)
+
++ [NHK游戏文化节目“游戏基因组”将参加TGS 采访《怪物猎人》制作人辻本良三](https://www.3dmgame.com/news/202409/3903577.html)
+
++ [拉瑞安Steam开启老作品史低促销 补票最佳良机](https://www.3dmgame.com/news/202409/3903576.html)
+
++ [2024 SCS冠军系列赛 9月6日多平台同步直播](https://www.3dmgame.com/news/202409/3903575.html)
+
++ [我国成功发射一箭10星：吉利星座03组卫星成功入轨](https://www.3dmgame.com/news/202409/3903574.html)
+
++ [授权变更 《心灵杀手》PC版将更新删除部分歌曲](https://www.3dmgame.com/news/202409/3903573.html)
+
++ [《博德之门3》开放6号补丁回滚 方便Mod和多平台玩家](https://www.3dmgame.com/news/202409/3903572.html)
+
++ [篮球就是一切：NBA® 2K25全球上市](https://www.3dmgame.com/news/202409/3903571.html)
+
++ [策略卡牌三消肉鸽游戏《恶魔之镜》现已在Steam平台正式推出](https://www.3dmgame.com/news/202409/3903570.html)
+
++ [我国可重复使用试验航天器今日成功着陆 在轨飞行268天](https://www.3dmgame.com/news/202409/3903569.html)
+

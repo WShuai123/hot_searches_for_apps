@@ -51,3 +51,5 @@
 
 + [黑客被刺同行，向对方发送信息窃取软件](https://www.freebuf.com/news/410373.html)
 
++ [WonderCMS XSS+远程命令执行漏洞(CVE-2023-41425)](https://www.freebuf.com/vuls/409935.html)
+
