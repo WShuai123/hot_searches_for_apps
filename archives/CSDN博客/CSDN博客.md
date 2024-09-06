@@ -177,3 +177,7 @@
 
 + [SpringBoot+UniApp物流快递寄件小程序系统 附带详细运行指导视频](https://blog.csdn.net/dgfdhgghd/article/details/141940909)
 
++ [口语笔记——定语](https://blog.csdn.net/xiaojia1001/article/details/141407580)
+
++ [【机器学习】从零开始理解深度学习——揭开神经网络的神秘面纱](https://blog.csdn.net/qq_61654952/article/details/141952672)
+
