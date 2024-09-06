@@ -49,3 +49,5 @@
 
 + [16+512G 京东 8539 元：苹果 MacBook Air M3 补贴新低（官方 11999 元）](https://m.ithome.com/html/793894.htm)
 
++ [微信 iOS 版 8.0.51 最新官方正式版下载发布](https://m.ithome.com/html/794004.htm)
+

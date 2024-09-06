@@ -197,3 +197,15 @@
 
 + [Financial company](https://dribbble.com/shots/)
 
++ [P - Parrot Logo](https://dribbble.com/shots/)
+
++ [Logo design for enna](https://dribbble.com/shots/)
+
++ [Bulldog Logo](https://dribbble.com/shots/)
+
++ [???? > ????](https://dribbble.com/shots/)
+
++ [RotorMine / Case](https://dribbble.com/shots/)
+
++ [Airlines (UNUSED) - Logo Design](https://dribbble.com/shots/)
+

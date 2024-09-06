@@ -305,3 +305,45 @@
 
 + [《星舰铳犬》公开全彩模式 2025年2月20日全球发售](https://www.3dmgame.com/news/202409/3903613.html)
 
++ [“我们那周都太忙了”！玩家请愿重新发售《Concord》](https://www.3dmgame.com/news/202409/3903616.html)
+
++ [《龙腾世纪：影障守护者》全新游戏截图发布](https://www.3dmgame.com/news/202406/3897014.html)
+
++ [硬盘还吃得住吗？《使命召唤21》主机版需309GB](https://www.3dmgame.com/news/202406/3897013.html)
+
++ [《波斯王子：失落的王冠》剧情DLC“黑暗面具”9月推出](https://www.3dmgame.com/news/202406/3897024.html)
+
++ [《阿凡达：潘多拉边境》7月16日推出首个故事DLC](https://www.3dmgame.com/news/202406/3897025.html)
+
++ [育碧分享13分钟时长《刺客信条：影》加长版实机演示](https://www.3dmgame.com/news/202406/3897021.html)
+
++ [《星球大战：亡命之徒》两段新视频公布](https://www.3dmgame.com/news/202406/3897023.html)
+
++ [《合金弹头：战略版》6分钟演示 今秋发售](https://www.3dmgame.com/news/202406/3897020.html)
+
++ [《生化7》7月2日登陆IOS 《生化2：RE》IOS版正在开发](https://www.3dmgame.com/news/202406/3897019.html)
+
++ [没抢到不要急！《黑神话：悟空》第二波预购明日开启](https://www.3dmgame.com/news/202406/3897017.html)
+
++ [《波斯王子：时之砂》重制版现已定于2026年发行](https://www.3dmgame.com/news/202406/3897022.html)
+
++ [《纪元117：罗马和平》明年登陆主机和PC平台](https://www.3dmgame.com/news/202406/3897027.html)
+
++ [育碧发布全新《地产大亨》游戏 今年9月正式发售](https://www.3dmgame.com/news/202406/3897026.html)
+
++ [《不羁联盟》第一赛季预告公布 将于7月2日上线](https://www.3dmgame.com/news/202406/3897032.html)
+
++ [RTS游戏《蚂蚁帝国》11月7日发售 推荐RTX 3080显卡](https://www.3dmgame.com/news/202406/3897015.html)
+
++ [《飙酷车神：轰鸣盛典》更新预告 2024年11月推出](https://www.3dmgame.com/news/202406/3897031.html)
+
++ [动视澄清：《使命召唤21：黑色行动6》容量没有300GB](https://www.3dmgame.com/news/202406/3897033.html)
+
++ [《碧海黑帆》新宣传片：新赛季PvP模式 飞龙登场](https://www.3dmgame.com/news/202406/3897028.html)
+
++ [美游戏连锁店泄露《合金装备3重制版》11月发售](https://www.3dmgame.com/news/202406/3897030.html)
+
++ [《午夜杀生重制版》公布四人模式游戏预告](https://www.3dmgame.com/news/202406/3897029.html)
+
++ [《合金装备Delta：食蛇者》和原版游戏画面对比](https://www.3dmgame.com/news/202406/3897016.html)
+

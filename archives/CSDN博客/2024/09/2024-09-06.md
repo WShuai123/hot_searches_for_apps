@@ -211,3 +211,5 @@
 
 + [【AI大模型】时代，周鸿祎回应360儿童手表问答不当，想了想，我是这么做的](https://blog.csdn.net/rjdeng/article/details/141897155)
 
++ [基于yolov8的西红柿缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141938672)
+
