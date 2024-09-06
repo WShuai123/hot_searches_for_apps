@@ -101,3 +101,23 @@
 
 + [【机器学习】深度学习的现实应用——从图像识别到自然语言处理](https://blog.csdn.net/m0_52827996/article/details/141926947)
 
++ [2024数学建模国赛A题详细思路：基于空间几何运动学和优化模型matlab求解](https://blog.csdn.net/nancheng_single/article/details/141942217)
+
++ [【机器学习】决策树与随机森林：模型对比与应用案例分析](https://blog.csdn.net/2301_76677973/article/details/141923312)
+
++ [MySQL之对数据库和表的操作](https://blog.csdn.net/zdlynj/article/details/140726261)
+
++ [7.统一网关-Gateway](https://blog.csdn.net/xinhang10/article/details/141958454)
+
++ [【机器学习】任务三：基于逻辑回归与线性回归的鸢尾花分类与波士顿房价预测分析](https://blog.csdn.net/FHY26828/article/details/141942762)
+
++ [【redis】认识redis和分布式系统](https://blog.csdn.net/Yeeear/article/details/141961642)
+
++ [开源云原生数据库PolarDB PostgreSQL 15兼容版本正式发布](https://blog.csdn.net/openApsaraDB/article/details/141884095)
+
++ [Unity中的键位KeyCode](https://blog.csdn.net/2302_80644606/article/details/141874300)
+
++ [Unity界面、组件以及脚本](https://blog.csdn.net/wacanda/article/details/141925561)
+
++ [什么是网络安全？](https://blog.csdn.net/qq_29607687/article/details/141897932)
+

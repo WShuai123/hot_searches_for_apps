@@ -69,3 +69,21 @@
 
 + [Landon Elliott Album Release Show Poster](https://dribbble.com/shots/)
 
++ [Carbon Copy Beer Labels](https://dribbble.com/shots/)
+
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Ramen's burger](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Gelata Pisci - NFT Art, daily vectors](https://dribbble.com/shots/)
+
++ [Degenerates](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
