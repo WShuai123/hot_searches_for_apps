@@ -347,3 +347,5 @@
 
 + [《合金装备Delta：食蛇者》和原版游戏画面对比](https://www.3dmgame.com/news/202406/3897016.html)
 
++ [RTX 3050 A笔记本显卡跑分曝光 和3050Ti笔记本版相当](https://www.3dmgame.com/news/202409/3903617.html)
+

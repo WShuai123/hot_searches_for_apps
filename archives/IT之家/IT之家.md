@@ -51,3 +51,9 @@
 
 + [微信 iOS 版 8.0.51 最新官方正式版下载发布](https://m.ithome.com/html/794004.htm)
 
++ [2025 款比亚迪汉官图公布：第五代 DM 技术 / DiPilot 300 天神之眼高阶智驾](https://m.ithome.com/html/793984.htm)
+
++ [6.98 万元起“国民神车”五菱宏光纯电版开启预售：“全球首款 6 万级纯电后驱 MPV”](https://m.ithome.com/html/793886.htm)
+
++ [华为系列新手表 9 月 19 日巴塞罗那发布，预计为 WATCH D2 / GT5](https://m.ithome.com/html/793791.htm)
+

@@ -213,3 +213,7 @@
 
 + [基于yolov8的西红柿缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/141938672)
 
++ [基于协同过滤推荐算法+数据可视化+SpringBoot的书享淘二手书商城设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/141956897)
+
++ [认识爬虫技术](https://blog.csdn.net/createNo_1/article/details/141897462)
+
