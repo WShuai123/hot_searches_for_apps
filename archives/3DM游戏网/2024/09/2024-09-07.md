@@ -225,3 +225,5 @@
 
 + [《冰汽时代2》|《执政官101》第八集 城市与殖民地](https://www.3dmgame.com/news/202409/3903660.html)
 
++ [东芝推出新版N300系列硬盘 新款CMR NAS机械硬盘](https://www.3dmgame.com/news/202409/3903667.html)
+

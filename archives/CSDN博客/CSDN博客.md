@@ -175,3 +175,13 @@
 
 + [剖析Cookie的工作原理及其安全风险](https://blog.csdn.net/u013129300/article/details/141877164)
 
++ [【redis】数据量庞大时的应对策略](https://blog.csdn.net/Yeeear/article/details/141997119)
+
++ [利用AI大语言模型和Langchain开发智能车算法训练知识库(上篇)](https://blog.csdn.net/m0_66628975/article/details/141975849)
+
++ [微信小程序实践案例](https://blog.csdn.net/qq_54015925/article/details/141959073)
+
++ [基于 RocketMQ 的云原生 MQTT 消息引擎设计](https://blog.csdn.net/alisystemsoftware/article/details/141960872)
+
++ [OpenHarmony鸿蒙开发（ Beta5.0）智能手表应用开发实践](https://blog.csdn.net/weixin_55362248/article/details/141963092)
+

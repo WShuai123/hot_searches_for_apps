@@ -49,3 +49,5 @@
 
 + [英伟达 CEO 黄仁勋都比不过，2024 年最赚钱的是 Meta 扎克伯格](https://m.ithome.com/html/794110.htm)
 
++ [全国可用广州补贴：无需更改定位，数码家电立减 2000 元（笔记本新低）](https://m.ithome.com/html/794198.htm)
+

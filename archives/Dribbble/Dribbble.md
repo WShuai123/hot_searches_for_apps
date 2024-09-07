@@ -193,3 +193,9 @@
 
 + [Wise Rabbit Infographic](https://dribbble.com/shots/)
 
++ [WeMeet Meeting Platform Website 2024](https://dribbble.com/shots/)
+
++ [Supply Card - Stock Out Risk](https://dribbble.com/shots/)
+
++ [Admin Panel Mobile App](https://dribbble.com/shots/)
+
