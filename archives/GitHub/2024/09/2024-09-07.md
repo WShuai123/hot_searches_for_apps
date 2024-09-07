@@ -29,3 +29,5 @@
 
 + [GoogleCloudPlatform / python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
 
++ [SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+

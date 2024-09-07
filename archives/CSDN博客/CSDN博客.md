@@ -129,3 +129,5 @@
 
 + [【Spark+Hive】基于大数据酒店数据分析推荐系统（完整系统源码+数据库+开发笔记+详细部署教程）](https://blog.csdn.net/qq_64605578/article/details/141933685)
 
++ [python scrapy爬虫框架 抓取BOSS直聘平台 数据可视化统计分析](https://blog.csdn.net/NuclearDalance/article/details/141960968)
+

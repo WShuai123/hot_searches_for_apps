@@ -41,3 +41,7 @@
 
 + [尽快更新！Zyxel 路由器曝出 OS 命令注入漏洞，影响多个版本](https://www.freebuf.com/news/410154.html)
 
++ [FreeBuf 周报 | Telegram创始人被捕后首次发声；俄罗斯版“微信”泄露3.9亿用户数据](https://www.freebuf.com/news/410418.html)
+
++ [深度解析 | 内存马的威胁与全面防御策略](https://www.freebuf.com/articles/web/409048.html)
+
