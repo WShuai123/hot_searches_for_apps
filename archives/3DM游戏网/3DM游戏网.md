@@ -235,3 +235,5 @@
 
 + [西数新一代蓝盘SN5000 SSD开卖 429元起](https://www.3dmgame.com/news/202409/3903671.html)
 
++ [《阴间大法师2》北美提前场票房大爆 狂揽1300万美元](https://www.3dmgame.com/news/202409/3903672.html)
+

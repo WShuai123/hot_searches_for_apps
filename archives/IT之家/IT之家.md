@@ -55,3 +55,5 @@
 
 + [苹果 iPhone 16 系列 A18 芯片基于 Arm 最新 V9 架构，进一步强化 AI 性能](https://m.ithome.com/html/794217.htm)
 
++ [3539 元：小米 14 手机京东自营限时百亿补贴（已结束）](https://m.ithome.com/html/794221.htm)
+
