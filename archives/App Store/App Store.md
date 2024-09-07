@@ -207,3 +207,7 @@
 
 + [Wink - 像修图一样修视频](https://itunes.apple.com/cn/app/id1594288016?mt=8)
 
++ [完美校园 - 科技让校园更美好](https://itunes.apple.com/cn/app/id912164020?mt=8)
+
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+

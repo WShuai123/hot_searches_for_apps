@@ -105,3 +105,25 @@
 
 + [Basejump AI](https://www.producthunt.com/posts/basejump-ai)
 
++ [Dev Productivity Guides](https://www.producthunt.com/posts/dev-productivity-guides)
+
++ [Leica LUX](https://www.producthunt.com/posts/leica-lux)
+
++ [Shade View](https://www.producthunt.com/posts/shade-view)
+
++ [BearyStronk](https://www.producthunt.com/posts/bearystronk)
+
++ [Hypar](https://www.producthunt.com/posts/hypar)
+
++ [LogoZanaat](https://www.producthunt.com/posts/logozanaat)
+
++ [EmailBoards](https://www.producthunt.com/posts/emailboards)
+
++ [CX Genie](https://www.producthunt.com/posts/cx-genie-2)
+
++ [SEOPulser](https://www.producthunt.com/posts/seopulser)
+
++ [Trupeer.ai](https://www.producthunt.com/posts/trupeer-ai)
+
++ [Houmify](https://www.producthunt.com/posts/houmify)
+

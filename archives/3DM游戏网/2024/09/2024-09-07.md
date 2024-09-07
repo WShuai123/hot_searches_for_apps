@@ -187,3 +187,15 @@
 
 + [蓝牙6将能够降低延迟并提高效率 以及设备定位功能](https://www.3dmgame.com/news/202409/3903647.html)
 
++ [联想公布概念AI电脑 摄像头随时跟着用户活动](https://www.3dmgame.com/news/202409/3903652.html)
+
++ [业内首个AI大模型供应链安全国际标准发布 数十家单位共同编制](https://www.3dmgame.com/news/202409/3903653.html)
+
++ [埃隆·马斯克玩《黑神话：悟空》 令人印象深刻的3A游戏](https://www.3dmgame.com/news/202409/3903650.html)
+
++ [国足0-7负日本！网友吐槽：15亿人培养不出30个好球员](https://www.3dmgame.com/news/202409/3903651.html)
+
++ [《Roblox》公司首席执行官宣布目标日活用户10亿](https://www.3dmgame.com/news/202409/3903648.html)
+
++ [《宇宙机器人》总监：15小时浓缩精品好过40小时充数](https://www.3dmgame.com/news/202409/3903649.html)
+

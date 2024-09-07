@@ -53,3 +53,5 @@
 
 + [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
 
++ [Hfinger：一款针对恶意软件HTTP请求的指纹识别工具](https://www.freebuf.com/sectool/409360.html)
+
