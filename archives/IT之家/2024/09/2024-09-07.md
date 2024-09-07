@@ -29,3 +29,5 @@
 
 + [古尔曼：苹果 iPhone 16 Pro 屏幕边框相比于 15 Pro 可缩窄 33%](https://m.ithome.com/html/794109.htm)
 
++ [爱奇艺体育就国足直播事故致歉：退还重复购买金额，补偿权益受损用户一张观赛券](https://m.ithome.com/html/794118.htm)
+

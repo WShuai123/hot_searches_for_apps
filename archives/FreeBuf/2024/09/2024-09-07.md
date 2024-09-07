@@ -45,3 +45,7 @@
 
 + [深度解析 | 内存马的威胁与全面防御策略](https://www.freebuf.com/articles/web/409048.html)
 
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
++ [技术分享 | Kubernetes RBAC 最佳安全实践](https://www.freebuf.com/articles/container/409667.html)
+

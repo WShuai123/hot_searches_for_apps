@@ -113,3 +113,45 @@
 
 + [《R-Type 战略 I • II 宇宙》推迟至2025年发行](https://www.3dmgame.com/news/202409/3903625.html)
 
++ [特别好评 《奇怪的RPG》续作Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886470.html)
+
++ [《耀斑纪元》Steam抢先体验开启 生存拟真城市建造](https://www.3dmgame.com/news/202401/3886473.html)
+
++ [燃魂激战，水墨风动作肉鸽《墨境》 Steam试玩开启](https://www.3dmgame.com/news/202401/3886474.html)
+
++ [腾讯：PC游戏外挂增长超50% 移动端定制挂达76.9%](https://www.3dmgame.com/news/202401/3886477.html)
+
++ [《猛兽派对》与《咩咩启示录》开启联动！玩家可获得“咩咩教主”](https://www.3dmgame.com/news/202401/3886480.html)
+
++ [《领主争锋》正式登陆Steam 中世纪回合制策略](https://www.3dmgame.com/news/202401/3886482.html)
+
++ [KK对战平台火爆新图，晴天雨天不如爆战进化的每一天！](https://www.3dmgame.com/news/202401/3886484.html)
+
++ [第一人称视角密室逃脱风格【千代】今天推出PC及PlayStation版本](https://www.3dmgame.com/news/202401/3886485.html)
+
++ [B站游戏区年度榜单将于今晚19点揭晓，20余款游戏将带来新情报](https://www.3dmgame.com/news/202401/3886486.html)
+
++ [梦工场动画《功夫熊猫4》中国内地定档 3月22日上映](https://www.3dmgame.com/news/202401/3886487.html)
+
++ [《冬日幸存者》即将推出全新DEMO 16分钟演示视频公开](https://www.3dmgame.com/news/202401/3886489.html)
+
++ [3D动作爽游《超战女武神》今日正式发售，首发限时8折！](https://www.3dmgame.com/news/202401/3886490.html)
+
++ [《街霸》人气角色春丽高端雕像公开 精致传神健身举杠铃](https://www.3dmgame.com/news/202401/3886492.html)
+
++ [《最后的生还者2：重制版》上市预告片 游戏已正式发售](https://www.3dmgame.com/news/202401/3886494.html)
+
++ [《死者桑拿》开启众筹 魔界桑拿师题材动作RPG](https://www.3dmgame.com/news/202401/3886495.html)
+
++ [支付宝Logo换新 去掉外框文字引入立体自然光](https://www.3dmgame.com/news/202401/3886499.html)
+
++ [恐怖解谜游戏《轮回路》Steam页面 发售日期待定](https://www.3dmgame.com/news/202401/3886502.html)
+
++ [《仙剑六祈今朝》突然开播 女主夹子音遭观众吐槽](https://www.3dmgame.com/news/202401/3886501.html)
+
++ [Win11新版：微软要求内存至少16G 否则没法用！](https://www.3dmgame.com/news/202401/3886503.html)
+
++ [GTAOL：本周回收站收入可享双倍收获](https://www.3dmgame.com/news/202401/3886504.html)
+
++ [仍处于测试阶段的《Deadlock》已经开始出现作弊者](https://www.3dmgame.com/news/202409/3903631.html)
+
