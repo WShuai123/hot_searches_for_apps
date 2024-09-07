@@ -31,3 +31,9 @@
 
 + [爱奇艺体育就国足直播事故致歉：退还重复购买金额，补偿权益受损用户一张观赛券](https://m.ithome.com/html/794118.htm)
 
++ [iPhone 16 Pro 被曝支持 4K 120 FPS 视频录制，且苹果已测试 8K 录像功能](https://m.ithome.com/html/794098.htm)
+
++ [古尔曼：苹果 iPad mini 7 将与 M4 Mac 一同在苹果 10 月发布会亮相](https://m.ithome.com/html/794114.htm)
+
++ [博主向《黑神话：悟空》游戏发律师函，称其服饰侵犯著作权](https://m.ithome.com/html/794143.htm)
+
