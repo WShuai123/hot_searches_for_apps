@@ -131,3 +131,9 @@
 
 + [基于FPGA的开源项目：FOC/SHA/USB/JPEG等](https://blog.csdn.net/whik1194/article/details/141968557)
 
++ [【MySQL】数据库和表的操作](https://blog.csdn.net/jupangMZ/article/details/141999139)
+
++ [2024 年高教社杯全国大学生数学建模竞赛题目D 题 反潜航空深弹命中概率问题完整思路 模型 代码 结果分享（仅供学习）](https://blog.csdn.net/2403_86854718/article/details/141944570)
+
++ [OpenHarmony鸿蒙开发（ Beta5.0）智能手表应用开发实践](https://blog.csdn.net/weixin_55362248/article/details/141963092)
+
