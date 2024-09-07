@@ -137,3 +137,7 @@
 
 + [OpenHarmony鸿蒙开发（ Beta5.0）智能手表应用开发实践](https://blog.csdn.net/weixin_55362248/article/details/141963092)
 
++ [利用ChatGPT辅助完成【2024高教社杯全国大学生数学建模竞赛】B题 生产过程中的决策问题——解](https://blog.csdn.net/xianyu120/article/details/141984665)
+
++ [005:VTK世界坐标系中的相机和物体](https://blog.csdn.net/yunzhaoqiang/article/details/141973825)
+
