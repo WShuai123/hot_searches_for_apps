@@ -185,3 +185,7 @@
 
 + [OpenHarmony鸿蒙开发（ Beta5.0）智能手表应用开发实践](https://blog.csdn.net/weixin_55362248/article/details/141963092)
 
++ [RLC（电阻、电感、电容）](https://blog.csdn.net/qq_38829542/article/details/141959657)
+
++ [计算机网络知识自学笔记（Chatgpt 回答）](https://blog.csdn.net/m0_57249200/article/details/141966575)
+

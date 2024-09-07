@@ -231,3 +231,7 @@
 
 + [《寂静岭2：重制版》头90分钟直播实录 10月8日发售](https://www.3dmgame.com/news/202409/3903668.html)
 
++ [《Concord》美工自述：角色失败是因委员会干预](https://www.3dmgame.com/news/202409/3903670.html)
+
++ [西数新一代蓝盘SN5000 SSD开卖 429元起](https://www.3dmgame.com/news/202409/3903671.html)
+

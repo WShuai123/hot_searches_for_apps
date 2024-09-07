@@ -53,3 +53,5 @@
 
 + [华谊兄弟总裁王中磊：希望《黑神话：悟空》可以去影院，但游戏改编成电影的成功案例没有多少](https://m.ithome.com/html/794194.htm)
 
++ [苹果 iPhone 16 系列 A18 芯片基于 Arm 最新 V9 架构，进一步强化 AI 性能](https://m.ithome.com/html/794217.htm)
+
