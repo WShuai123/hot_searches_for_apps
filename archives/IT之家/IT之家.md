@@ -31,3 +31,5 @@
 
 + [苹果称 Mac 才是最佳 AI PC：相比 Copilot+ PC 图形性能高 40%、网页性能快 25%](https://m.ithome.com/html/794126.htm)
 
++ [消息称超一半外卖骑手不愿意交社保，62.6% 在京全职者平均劳动时长 10 小时](https://m.ithome.com/html/794199.htm)
+

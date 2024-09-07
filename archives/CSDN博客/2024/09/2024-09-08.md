@@ -101,3 +101,33 @@
 
 + [flutter Image](https://blog.csdn.net/zhangying1994/article/details/141932947)
 
++ [【Spring Boot】 SpringBoot自动装配-Condition](https://blog.csdn.net/smile_sundays/article/details/141495797)
+
++ [【2024国赛C题】高教杯全国大学生数学建模国赛建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/141940077)
+
++ [【C/C++内存管理】——我与C++的不解之缘（六）](https://blog.csdn.net/LH__1314/article/details/141907452)
+
++ [图特征工程实践指南：从节点中心性到全局拓扑的多尺度特征提取](https://blog.csdn.net/m0_46510245/article/details/141992146)
+
++ [使用 .NET 6 构建跨平台 Worker Service 服务：跨越平台的 C# 服务开发——解决Windows服务跨平台问题](https://blog.csdn.net/martian665/article/details/141936349)
+
++ [2024 年高教社杯全国大学生数学建模竞赛题目E 题 交通流量管控完整思路 代码 模型 结果分享（仅供学习）](https://blog.csdn.net/2403_86854718/article/details/141943270)
+
++ [【机器学习】决策树与随机森林：模型对比与应用案例分析](https://blog.csdn.net/2301_76677973/article/details/141923312)
+
++ [Electron32-Vue3OS桌面管理os模板|vite5+electron32+arco后台os系统](https://blog.csdn.net/yanxinyun1990/article/details/141910985)
+
++ [Excel数据导入MySQL数据库的完整指南](https://blog.csdn.net/weixin_65837469/article/details/141953582)
+
++ [Python利用pyecharts实现数据可视化](https://blog.csdn.net/2301_80339238/article/details/141968612)
+
++ [vscode结合docker配置c++开发环境](https://blog.csdn.net/qq_41858510/article/details/141965308)
+
++ [[论文笔记]QLoRA: Efficient Finetuning of Quantized LLMs](https://blog.csdn.net/yjw123456/article/details/142005846)
+
++ [【小程序 - 大智慧】深入微信小程序的核心原理](https://blog.csdn.net/qq_53673551/article/details/141925234)
+
++ [Unity教程（十五）敌人战斗状态的实现](https://blog.csdn.net/cyr___/article/details/141985607)
+
++ [基于FPGA的开源项目：FOC/SHA/USB/JPEG等](https://blog.csdn.net/whik1194/article/details/141968557)
+
