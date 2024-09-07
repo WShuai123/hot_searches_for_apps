@@ -155,3 +155,27 @@
 
 + [仍处于测试阶段的《Deadlock》已经开始出现作弊者](https://www.3dmgame.com/news/202409/3903631.html)
 
++ [三上真司：以为Tango继续制作《完美音浪》作品就不会被微软关闭](https://www.3dmgame.com/news/202409/3903643.html)
+
++ [《战锤40K：星际战士2》超越《黑神话》 登Steam热销榜首](https://www.3dmgame.com/news/202409/3903642.html)
+
++ [《宇宙机器人》在免费前作中举行发售倒计时庆典](https://www.3dmgame.com/news/202409/3903641.html)
+
++ [《无限试驾：太阳王冠》高级版玩家难以抢先体验](https://www.3dmgame.com/news/202409/3903639.html)
+
++ [独立开发者：游戏大厂都在无脑追寻实时服务爆款](https://www.3dmgame.com/news/202409/3903638.html)
+
++ [肉鸽卡牌筑造游戏《皇上，上朝了》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3903637.html)
+
++ [“精灵王子”奥兰多·布鲁姆想回归《指环王》新电影](https://www.3dmgame.com/news/202409/3903636.html)
+
++ [苹果明年开始逐步换上自研5G基带：iPhone SE4等先用](https://www.3dmgame.com/news/202409/3903634.html)
+
++ [《弗兰克·斯通的阴影》IGN 5分 二流互动杀人游戏](https://www.3dmgame.com/news/202409/3903632.html)
+
++ [《使命召唤：黑色行动6》公开测试等级上限提升至30级](https://www.3dmgame.com/news/202409/3903633.html)
+
++ [动作类Rouge-lite冒险游戏《魔法符石》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3903635.html)
+
++ [休·杰克曼感谢《死侍与金刚狼》剧组工作人员](https://www.3dmgame.com/news/202409/3903640.html)
+
