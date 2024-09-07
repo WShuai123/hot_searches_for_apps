@@ -37,3 +37,5 @@
 
 + [博主向《黑神话：悟空》游戏发律师函，称其服饰侵犯著作权](https://m.ithome.com/html/794143.htm)
 
++ [OPPO：将支付宝“碰一下”作为新机出厂检测标准之一](https://m.ithome.com/html/794094.htm)
+

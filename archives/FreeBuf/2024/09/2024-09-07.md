@@ -49,3 +49,5 @@
 
 + [技术分享 | Kubernetes RBAC 最佳安全实践](https://www.freebuf.com/articles/container/409667.html)
 
++ [通过杀软 avast 及 no-defender 工具分析 Windows 防护机制](https://www.freebuf.com/articles/web/410236.html)
+

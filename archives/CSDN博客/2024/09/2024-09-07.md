@@ -147,3 +147,9 @@
 
 + [Spring boot 项目作为客户端调用 服务端websocket](https://blog.csdn.net/ling_zhi_xin/article/details/141980618)
 
++ [【Nginx 】Nginx 部署前端 vue 项目](https://blog.csdn.net/weixin_45627039/article/details/141966336)
+
++ [[Redis] 分布式系统与Redis介绍](https://blog.csdn.net/2301_80050796/article/details/141940348)
+
++ [Android 15 正式发布到 AOSP ，来了解下新特性和适配需求](https://blog.csdn.net/ZuoYueLiang/article/details/141920073)
+
