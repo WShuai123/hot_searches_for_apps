@@ -211,3 +211,5 @@
 
 + [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
 
++ [华为商城-VMALL](https://itunes.apple.com/cn/app/id1455432631?mt=8)
+

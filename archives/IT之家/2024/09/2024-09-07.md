@@ -47,3 +47,5 @@
 
 + [奥运冠军黄雅琼提问界新 M7 Pro，问界 M7 系列累计交付 22 万辆](https://m.ithome.com/html/794165.htm)
 
++ [英伟达 CEO 黄仁勋都比不过，2024 年最赚钱的是 Meta 扎克伯格](https://m.ithome.com/html/794110.htm)
+

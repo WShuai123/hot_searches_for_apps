@@ -175,3 +175,21 @@
 
 + [birdcupfire thing](https://dribbble.com/shots/)
 
++ [Savette - Luxury Bag Online Shop Minimalist Website Design](https://dribbble.com/shots/)
+
++ [PayFast™ - Logo & Branding for a Fintech Wallet Brand - Popular](https://dribbble.com/shots/)
+
++ [Nicraft Logo Animation](https://dribbble.com/shots/)
+
++ [Data visualization card preview](https://dribbble.com/shots/)
+
++ [Dashboard Website Template for Financial SaaS](https://dribbble.com/shots/)
+
++ [letter T logo design](https://dribbble.com/shots/)
+
++ [logos, logo design, brand identity](https://dribbble.com/shots/)
+
++ [Booking Mobile App](https://dribbble.com/shots/)
+
++ [Wise Rabbit Infographic](https://dribbble.com/shots/)
+

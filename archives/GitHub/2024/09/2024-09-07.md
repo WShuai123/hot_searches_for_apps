@@ -31,3 +31,31 @@
 
 + [SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
 
++ [ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil)
+
++ [odygrd / quill](https://github.com/odygrd/quill)
+
++ [nginx / nginx](https://github.com/nginx/nginx)
+
++ [dataease / dataease](https://github.com/dataease/dataease)
+
++ [polarsource / polar](https://github.com/polarsource/polar)
+
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [grpc / grpc-go](https://github.com/grpc/grpc-go)
+
++ [etcd-io / etcd](https://github.com/etcd-io/etcd)
+
++ [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [flutter / flutter](https://github.com/flutter/flutter)
+
++ [primefaces / primeng](https://github.com/primefaces/primeng)
+
++ [shadow1ng / fscan](https://github.com/shadow1ng/fscan)
+
