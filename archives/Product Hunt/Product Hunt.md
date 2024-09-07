@@ -133,3 +133,5 @@
 
 + [Valuemetrix](https://www.producthunt.com/posts/valuemetrix)
 
++ [LLM Guides](https://www.producthunt.com/posts/llm-guides)
+

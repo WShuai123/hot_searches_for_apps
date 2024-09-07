@@ -211,3 +211,17 @@
 
 + [《守望先锋2》原免费皮肤变周边商店消费75美元赠品](https://www.3dmgame.com/news/202409/3903659.html)
 
++ [“风车社“作品《Happiness!2樱花盛典》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202409/3903666.html)
+
++ [猜测认为《小龙斯派罗》 游戏新作正在开发过程中](https://www.3dmgame.com/news/202409/3903665.html)
+
++ [《Roblox》宣布提高平台付费游戏制作者收入分成](https://www.3dmgame.com/news/202409/3903664.html)
+
++ [消息人士坚称Switch 2会在本月公布：科隆讨论很多](https://www.3dmgame.com/news/202409/3903663.html)
+
++ [《战锤40K：星际战士2》三平台画面对比视频](https://www.3dmgame.com/news/202409/3903662.html)
+
++ [AMD明年公布下一代掌机芯片：《黑神话》续航3小时？](https://www.3dmgame.com/news/202409/3903661.html)
+
++ [《冰汽时代2》|《执政官101》第八集 城市与殖民地](https://www.3dmgame.com/news/202409/3903660.html)
+

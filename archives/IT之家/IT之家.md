@@ -45,3 +45,5 @@
 
 + [2025 款比亚迪汉官宣 9 月 9 日发布上市，汉家族销量超 80 万辆](https://m.ithome.com/html/794113.htm)
 
++ [奥运冠军黄雅琼提问界新 M7 Pro，问界 M7 系列累计交付 22 万辆](https://m.ithome.com/html/794165.htm)
+

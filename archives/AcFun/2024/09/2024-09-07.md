@@ -97,3 +97,7 @@
 
 + [就这个和声爽！女中音单人11轨包帅的《Die For You》VALORANT赛事主题曲翻唱【咄咄睡](http://www.acfun.cn/v/ac46212956)
 
++ [秋天也要活力满满 【shake it】](http://www.acfun.cn/v/ac46217053)
+
++ [美非农就业数据再造假！国运平衡器给我们的重大启示【岩论450期】](http://www.acfun.cn/v/ac46219326)
+
