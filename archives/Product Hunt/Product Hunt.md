@@ -129,3 +129,7 @@
 
 + [LLM Detector](https://www.producthunt.com/posts/llm-detector)
 
++ [Airglitch](https://www.producthunt.com/posts/airglitch)
+
++ [Valuemetrix](https://www.producthunt.com/posts/valuemetrix)
+
