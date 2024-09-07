@@ -39,3 +39,5 @@
 
 + [OPPO：将支付宝“碰一下”作为新机出厂检测标准之一](https://m.ithome.com/html/794094.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机开启预订，9 月 20 日开售](https://m.ithome.com/html/794164.htm)
+
