@@ -199,3 +199,13 @@
 
 + [《宇宙机器人》总监：15小时浓缩精品好过40小时充数](https://www.3dmgame.com/news/202409/3903649.html)
 
++ [《宇宙机器人》已成Metacritic今年评分第二高的作品](https://www.3dmgame.com/news/202409/3903658.html)
+
++ [华谊兄弟CEO王中磊：《黑神话：悟空》或将影视化](https://www.3dmgame.com/news/202409/3903657.html)
+
++ [国外音乐制作人骗取流媒体版税新招：AI作曲AI听](https://www.3dmgame.com/news/202409/3903656.html)
+
++ [《命运2》10周年活动9月9日举行：内容很少](https://www.3dmgame.com/news/202409/3903655.html)
+
++ [特斯拉资深讲师：汽车完全自动驾驶后就变成印钞机](https://www.3dmgame.com/news/202409/3903654.html)
+
