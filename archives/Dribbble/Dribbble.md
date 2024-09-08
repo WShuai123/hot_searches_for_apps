@@ -179,3 +179,15 @@
 
 + [s✨ck my flower](https://dribbble.com/shots/)
 
++ [Fintech Mobile Application v2](https://dribbble.com/shots/)
+
++ [IT assistant](https://dribbble.com/shots/)
+
++ [Howdy Ranch: UI Kit](https://dribbble.com/shots/)
+
++ [VORTEX Logo](https://dribbble.com/shots/)
+
++ [online casino betting dice logo](https://dribbble.com/shots/)
+
++ [Ways | Solar Panel Renewable Energy Website](https://dribbble.com/shots/)
+

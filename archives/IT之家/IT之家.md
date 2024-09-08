@@ -51,3 +51,5 @@
 
 + [消息称《GTA6》游戏延期至 2026 年发售，PC 版至少再晚一年](https://m.ithome.com/html/794283.htm)
 
++ [华为新智能手表 9 月 19 日巴塞罗那发布，消息称为 WATCH Ultimate 系列](https://m.ithome.com/html/794256.htm)
+
