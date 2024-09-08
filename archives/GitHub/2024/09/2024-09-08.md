@@ -37,3 +37,31 @@
 
 + [psf / black](https://github.com/psf/black)
 
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+
++ [afadil / wealthfolio](https://github.com/afadil/wealthfolio)
+
++ [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
+
++ [HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events)
+
++ [CleverRaven / Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+
++ [antonputra / tutorials](https://github.com/antonputra/tutorials)
+
++ [PCSX2 / pcsx2](https://github.com/PCSX2/pcsx2)
+
++ [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [deepfakes / faceswap](https://github.com/deepfakes/faceswap)
+
++ [TheOdinProject / curriculum](https://github.com/TheOdinProject/curriculum)
+
++ [ente-io / ente](https://github.com/ente-io/ente)
+
++ [alist-org / alist](https://github.com/alist-org/alist)
+

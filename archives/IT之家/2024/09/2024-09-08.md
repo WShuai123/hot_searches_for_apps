@@ -53,3 +53,7 @@
 
 + [华为新智能手表 9 月 19 日巴塞罗那发布，消息称为 WATCH Ultimate 系列](https://m.ithome.com/html/794256.htm)
 
++ [宽带通被曝“网速升级”猫腻：承诺接入光纤网络实际未接，200 兆网速测速只有 20 兆](https://m.ithome.com/html/794298.htm)
+
++ [小米 Redmi A Pro 系列电视发布：94% DCI-P3 色域、NFC 遥控器，1599 元起](https://m.ithome.com/html/794269.htm)
+

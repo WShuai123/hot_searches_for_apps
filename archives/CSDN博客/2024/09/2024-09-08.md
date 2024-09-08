@@ -189,3 +189,7 @@
 
 + [Tranformer分布式特辑](https://blog.csdn.net/weixin_38812492/article/details/142004592)
 
++ [【Python】人生重开模拟器](https://blog.csdn.net/2401_84538476/article/details/141997997)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142018942)
+

@@ -209,3 +209,5 @@
 
 + [同程旅行-订酒店机票火车票,低价打车](https://itunes.apple.com/cn/app/id475966832?mt=8)
 
++ [快对-拍照翻译&作业标准答案&错题本去手写](https://itunes.apple.com/cn/app/id1330927814?mt=8)
+
