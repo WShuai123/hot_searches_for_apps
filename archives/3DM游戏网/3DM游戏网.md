@@ -101,3 +101,61 @@
 
 + [B站游戏区年度榜单将于今晚19点揭晓，20余款游戏将带来新情报](https://www.3dmgame.com/news/202401/3886486.html)
 
++ [《Creepy Camping》登陆Steam 森林营地恐怖冒险](https://www.3dmgame.com/news/202409/3903681.html)
+
++ [苹果秋季发布会倒计时：iPhone 16系列、AirPods 4来了](https://www.3dmgame.com/news/202409/3903680.html)
+
++ [布欧篇登场 《七龙珠 电光炸裂！ZERO》角色预告片](https://www.3dmgame.com/news/202409/3903679.html)
+
++ [《辐射》电视剧为《辐射5》游戏让步 部分创意被否决](https://www.3dmgame.com/news/202403/3890293.html)
+
++ [《异星开拓者》Steam抢先体验 太空探索经营建设](https://www.3dmgame.com/news/202403/3890292.html)
+
++ [《怪物猎人物语2》宣布即将登陆PS4 6月14日发售](https://www.3dmgame.com/news/202403/3890289.html)
+
++ [《原神》4.6版本新角色阿蕾奇诺立绘和介绍 姐姐踩我！](https://www.3dmgame.com/news/202403/3890291.html)
+
++ [国产武侠《无极群侠传：第一战》上线Steam 免费游玩](https://www.3dmgame.com/news/202403/3890287.html)
+
++ [《最终幻想7 重生》交响音乐会公开 8月10日起世界巡演](https://www.3dmgame.com/news/202403/3890286.html)
+
++ [《命运2》下周将与《捉鬼敢死队》合作推出新联动](https://www.3dmgame.com/news/202403/3890285.html)
+
++ [《The Finals》第二赛季预告 加入全新黑客主题技能](https://www.3dmgame.com/news/202403/3890290.html)
+
++ [《最终幻想》制作人吉田直树渴望制作另一部大作](https://www.3dmgame.com/news/202403/3890296.html)
+
++ [前PS总裁：订阅服务无法支撑3A游戏开发商](https://www.3dmgame.com/news/202403/3890294.html)
+
++ [《明朝那些猫》登陆Steam 历史背景猫咪互动](https://www.3dmgame.com/news/202403/3890305.html)
+
++ [《最终幻想7：重生》联动保时捷短片 回顾梦想实现之路](https://www.3dmgame.com/news/202403/3890284.html)
+
++ [恐怖游戏《恶梦之家》上架Steam 逃离噩梦般房子](https://www.3dmgame.com/news/202403/3890302.html)
+
++ [第一人称合作打僵尸游戏《地狱缺口：维加斯》现已推出抢先体验](https://www.3dmgame.com/news/202403/3890303.html)
+
++ [《沙丘2》美国内地第二周票房4600万 全球票房逼4亿美元](https://www.3dmgame.com/news/202403/3890301.html)
+
++ [《赛博朋克2077》总监：游戏已经做完了 但小更新还是会有的](https://www.3dmgame.com/news/202403/3890299.html)
+
++ [AI巨头势不可挡 英伟达2026年收入或达1300亿美元](https://www.3dmgame.com/news/202403/3890300.html)
+
++ [《浪客剑心》新动画第二季《京都动乱》确定10月开播](https://www.3dmgame.com/news/202403/3890298.html)
+
++ [《龙之信条2》总监：世界太有趣不需要坐骑 装备系统简化了](https://www.3dmgame.com/news/202403/3890297.html)
+
++ [研究显示：青少年玩家认为游戏空间安全很重要](https://www.3dmgame.com/news/202403/3890282.html)
+
++ [传《GTA6》仅想以7500美元买断歌曲使用权 被骂](https://www.3dmgame.com/news/202409/3903678.html)
+
++ [《七日世界》移动端测试9月20日开启 PC版现已支持DLSS 3](https://www.3dmgame.com/news/202409/3903677.html)
+
++ [《黑神话：悟空》有望被影视化：游戏剧情引网友争议](https://www.3dmgame.com/news/202409/3903676.html)
+
++ [《远征：泥泞奔驰游戏》第一季新增合作/洞穴探索等](https://www.3dmgame.com/news/202409/3903675.html)
+
++ [《宇宙机器人》概念艺术图暗示被删减客串角色](https://www.3dmgame.com/news/202409/3903673.html)
+
++ [PS5新作《宇宙机器人》已在日本亚马逊售罄](https://www.3dmgame.com/news/202409/3903674.html)
+

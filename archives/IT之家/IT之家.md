@@ -33,3 +33,5 @@
 
 + [消息称超一半外卖骑手不愿意交社保，62.6% 在京全职者平均劳动时长 10 小时](https://m.ithome.com/html/794199.htm)
 
++ [三星 Galaxy S25 Ultra 手机边框收窄，整机尺寸相比 S24 Ultra 更小](https://m.ithome.com/html/794234.htm)
+
