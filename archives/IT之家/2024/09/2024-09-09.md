@@ -25,3 +25,5 @@
 
 + [比亚迪汽车：2025 款汉 DM-i / EV 首搭 DiPilot 300 高阶智能驾驶辅助系统](https://m.ithome.com/html/794363.htm)
 
++ [2450 万粉丝“东北雨姐”承认盘锦稻田蟹视频为摆拍：为宣传家乡特产，并未挂售卖链接](https://m.ithome.com/html/794371.htm)
+

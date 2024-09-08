@@ -113,3 +113,13 @@
 
 + [【Linux系统学习】3.Linux用户和权限](https://blog.csdn.net/weixin_69595694/article/details/136071908)
 
++ [【与C++的邂逅】--- string容器使用](https://blog.csdn.net/2301_79448270/article/details/141873968)
+
++ [C/C++编程质量提升笔记](https://blog.csdn.net/lmbcc/article/details/141954943)
+
++ [[论文笔记]Making Large Language Models A Better Foundation For Dense Retrieval](https://blog.csdn.net/yjw123456/article/details/141949384)
+
++ [基于Python+大数据爬虫+数据可视化大屏的颈椎健康管理与数据洞察平台设计和实现(源码+LW+部署讲解)](https://blog.csdn.net/weixin_39709134/article/details/141958509)
+
++ [大美祖国之地名篇-探寻全国同名地名](https://blog.csdn.net/yelangkingwuzuhu/article/details/142029696)
+

@@ -95,3 +95,27 @@
 
 + [Letter P - Wallet Logo - Fintech Logo - Mone Transfer Logo](https://dribbble.com/shots/)
 
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [Gelata Pisci - NFT Art, daily vectors](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Degenerates](https://dribbble.com/shots/)
+
++ [Branko Miljkovic Illustration](https://dribbble.com/shots/)
+
++ [Hometown icons [unused color combo]](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Ramen's burger](https://dribbble.com/shots/)
+
++ [red ???? rocks](https://dribbble.com/shots/)
+
++ [Bottling things up](https://dribbble.com/shots/)
+
++ [money icons (client work)](https://dribbble.com/shots/)
+
++ [birdcupfire thing](https://dribbble.com/shots/)
+
