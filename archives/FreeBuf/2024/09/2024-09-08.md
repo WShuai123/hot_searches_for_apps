@@ -45,3 +45,7 @@
 
 + [HVV前沿 | 积木报表组件（Jeecg-Boot）权限绕过漏洞分析](https://www.freebuf.com/vuls/409600.html)
 
++ [ISO27001安全管理体系内审、外审、拿证](https://www.freebuf.com/articles/security-management/397617.html)
+
++ [XXL-JOB漏洞分析与利用](https://www.freebuf.com/vuls/410065.html)
+

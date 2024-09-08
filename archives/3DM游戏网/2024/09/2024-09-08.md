@@ -159,3 +159,13 @@
 
 + [PS5新作《宇宙机器人》已在日本亚马逊售罄](https://www.3dmgame.com/news/202409/3903674.html)
 
++ [《Roots of Yggdrasil》登陆Steam 卡牌建设探索](https://www.3dmgame.com/news/202409/3903685.html)
+
++ [《博德之门3》七号升级档发布之后还会有其它补丁推出](https://www.3dmgame.com/news/202409/3903686.html)
+
++ [《潜行者2》拥有35种不同武器 异常现象解读](https://www.3dmgame.com/news/202409/3903684.html)
+
++ [《星刃》之父金亨泰晒出女主最初设计 好在伊芙瘦了](https://www.3dmgame.com/news/202409/3903683.html)
+
++ [携手闯过噩梦之地 《小小梦魇3》五分钟游戏实机片段](https://www.3dmgame.com/news/202409/3903682.html)
+

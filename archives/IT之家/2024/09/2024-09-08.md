@@ -35,3 +35,5 @@
 
 + [三星 Galaxy S25 Ultra 手机边框收窄，整机尺寸相比 S24 Ultra 更小](https://m.ithome.com/html/794234.htm)
 
++ [台风摩羯过境多城市充电宝价格暴涨，电商平台工作人员回应“建议保留证据”](https://m.ithome.com/html/794241.htm)
+
