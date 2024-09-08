@@ -165,3 +165,15 @@
 
 + [Hard Yes, Hard No](https://dribbble.com/shots/)
 
++ [real estate, construction logo design, logos & brand identity](https://dribbble.com/shots/)
+
++ [Letter P - Wallet Logo - Fintech Logo - Mone Transfer Logo](https://dribbble.com/shots/)
+
++ [K Logo, Brand identity for karika](https://dribbble.com/shots/)
+
++ [Autumn Season Illustration????????????️](https://dribbble.com/shots/)
+
++ [HosCare - Hospice Care Logo](https://dribbble.com/shots/)
+
++ [RushFit Logo Design, Letter RF, Sports Brand, Apparel, Gym Logo](https://dribbble.com/shots/)
+

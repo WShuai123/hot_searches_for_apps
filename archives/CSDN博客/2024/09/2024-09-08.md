@@ -169,3 +169,13 @@
 
 + [结合Python与GUI实现比赛预测与游戏数据分析](https://blog.csdn.net/qq_36224726/article/details/141979156)
 
++ [Linux——进程概念](https://blog.csdn.net/qq_45262721/article/details/141954665)
+
++ [Oracle再度发起开发人员调查，细节满满](https://blog.csdn.net/weixin_41645135/article/details/142024460)
+
++ [利用命令模式构建高效的手游后端架构](https://blog.csdn.net/weixin_36755535/article/details/142022809)
+
++ [网络安全(sql注入)](https://blog.csdn.net/m0_74096786/article/details/141906041)
+
++ [【AIGC】AI编程工具合集及其特点介绍](https://blog.csdn.net/weixin_51306394/article/details/142006247)
+

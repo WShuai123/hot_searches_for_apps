@@ -53,3 +53,5 @@
 
 + [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
 
++ [如何使用BinaryNinja-Ollama提取开源AI模型并在本地运行](https://www.freebuf.com/sectool/409388.html)
+

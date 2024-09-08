@@ -109,3 +109,25 @@
 
 + [PR-Agent by CodiumAI](https://www.producthunt.com/posts/pr-agent-by-codiumai-2)
 
++ [Something from Your Mind](https://www.producthunt.com/posts/something-from-your-mind)
+
++ [NotiAlarm](https://www.producthunt.com/posts/notialarm)
+
++ [Marshmallow](https://www.producthunt.com/posts/marshmallow-2)
+
++ [Nuenki](https://www.producthunt.com/posts/nuenki)
+
++ [Wigion](https://www.producthunt.com/posts/wigion)
+
++ [MIDIGEN: Melody Generator](https://www.producthunt.com/posts/midigen-melody-generator)
+
++ [CaptionKit](https://www.producthunt.com/posts/captionkit)
+
++ [Church Loom](https://www.producthunt.com/posts/church-loom)
+
++ [Jsonify](https://www.producthunt.com/posts/jsonify-2)
+
++ [PromptChainer](https://www.producthunt.com/posts/promptchainer)
+
++ [ECPower Segment Management](https://www.producthunt.com/posts/ecpower-segment-management)
+

@@ -185,3 +185,9 @@
 
 + [帕斯亚时光系列新作《时光3：永耀之境》将开启众筹](https://www.3dmgame.com/news/202409/3903694.html)
 
++ [最新日本民众调查 如何看待自己孩子要当职业玩家](https://www.3dmgame.com/news/202409/3903697.html)
+
++ [《电锯甜心RePOP》制作人分享NS版细节 采用FHD](https://www.3dmgame.com/news/202409/3903696.html)
+
++ [FF系列创作人坂口博信表示自己并不后悔撤销退休决定](https://www.3dmgame.com/news/202409/3903695.html)
+
