@@ -123,3 +123,5 @@
 
 + [大美祖国之地名篇-探寻全国同名地名](https://blog.csdn.net/yelangkingwuzuhu/article/details/142029696)
 
++ [利用Stable Diffusion AI图像模型评估智能车模型算法表现(下篇)](https://blog.csdn.net/m0_66628975/article/details/141992425)
+
