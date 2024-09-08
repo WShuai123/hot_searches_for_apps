@@ -57,3 +57,9 @@
 
 + [小米 Redmi A Pro 系列电视发布：94% DCI-P3 色域、NFC 遥控器，1599 元起](https://m.ithome.com/html/794269.htm)
 
++ [东芝发布新款 CMR NAS 机械硬盘 N300 系列，最大 22TB 可选](https://m.ithome.com/html/794250.htm)
+
++ [YouTuber 打造 2 米高巨型苹果 iPhone 15 Pro Max，创下吉尼斯世界纪录](https://m.ithome.com/html/794338.htm)
+
++ [国际月球科研站建设拟分两个阶段完成：第一阶段将在 2035 年前以月球南极区域为中心具备百公里范围的科研作业能力](https://m.ithome.com/html/794245.htm)
+
