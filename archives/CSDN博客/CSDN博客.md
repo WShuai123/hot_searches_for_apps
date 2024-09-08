@@ -125,3 +125,7 @@
 
 + [利用Stable Diffusion AI图像模型评估智能车模型算法表现(下篇)](https://blog.csdn.net/m0_66628975/article/details/141992425)
 
++ [从ES6到ES2023 带你深入了解什么是ES](https://blog.csdn.net/m0_61118741/article/details/141992774)
+
++ [【JCR1区】基于matlab龙格库塔算法RUN-CNN-SVM故障诊断分类预测【含Matlab源码 5804期】](https://blog.csdn.net/TIQCmatlab/article/details/141966893)
+
