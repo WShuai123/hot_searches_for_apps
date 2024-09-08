@@ -179,3 +179,5 @@
 
 + [【AIGC】AI编程工具合集及其特点介绍](https://blog.csdn.net/weixin_51306394/article/details/142006247)
 
++ [时间序列结构变化分析：Python实现时间序列变化点检测](https://blog.csdn.net/m0_46510245/article/details/142016800)
+
