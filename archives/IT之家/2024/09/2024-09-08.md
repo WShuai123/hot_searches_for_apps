@@ -69,3 +69,5 @@
 
 + [消息称苹果 macOS 15.0 Sequoia 正式版 9 月中旬发布，或与 iOS 18 同步](https://m.ithome.com/html/794342.htm)
 
++ [《黑神话：悟空》带火山西旅游，朔州景区 8 月接待游客同比增长 166.96%](https://m.ithome.com/html/794357.htm)
+

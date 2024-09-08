@@ -203,3 +203,15 @@
 
 + [分享一个基于uniapp科技馆服务微信小程序 博物馆管理小程序（源码、调试、LW、开题、PPT)](https://blog.csdn.net/m0_72599287/article/details/142005362)
 
++ [【云原生】docker 部署 Doris 数据库使用详解](https://blog.csdn.net/zhangcongyi420/article/details/141748867)
+
++ [知存科技 | 多模态时代下存算芯片的架构设计与应用【在线研讨会】](https://blog.csdn.net/weixin_52908342/article/details/142032303)
+
++ [【Linux】探索进程优先级的奥秘，解锁进程的调度与切换](https://blog.csdn.net/hanwangyyds/article/details/141922945)
+
++ [2024 数学建模高教社杯 国赛（B题）| 生产过程中的决策 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/141947448)
+
++ [【2024高教社杯国赛C题】数学建模国赛建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/141994525)
+
++ [【网络安全】古典密码体制概述](https://blog.csdn.net/weixin_45627039/article/details/141993439)
+

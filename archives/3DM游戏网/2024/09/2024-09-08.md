@@ -217,3 +217,9 @@
 
 + [夏普宣布进军电动汽车市场 将推出概念车LDK+](https://www.3dmgame.com/news/202409/3903710.html)
 
++ [复旦大学教授通关《黑神话：悟空》 树立3A游戏新标杆](https://www.3dmgame.com/news/202409/3903713.html)
+
++ [《黑神话：悟空》风灵月影修改器下载超350万 老外想捐钱](https://www.3dmgame.com/news/202409/3903711.html)
+
++ [华为手机史上最贵手机抢疯了！不到24小时近200万人预订](https://www.3dmgame.com/news/202409/3903712.html)
+

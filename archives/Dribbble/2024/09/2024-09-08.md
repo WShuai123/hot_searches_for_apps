@@ -213,3 +213,5 @@
 
 + [Logo Mark / Crisp](https://dribbble.com/shots/)
 
++ [Fastpay - payment logo design branding](https://dribbble.com/shots/)
+
