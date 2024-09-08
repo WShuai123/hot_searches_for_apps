@@ -101,3 +101,15 @@
 
 + [[论文笔记]QLoRA: Efficient Finetuning of Quantized LLMs](https://blog.csdn.net/yjw123456/article/details/142005846)
 
++ [全能与专精：探索未来AI模型的发展趋势与市场潜力](https://blog.csdn.net/u014727709/article/details/141910651)
+
++ [828华为云征文｜华为云Flexus云服务器X实例之openEuler系统下部署GitLab服务器](https://blog.csdn.net/jks212454/article/details/141928410)
+
++ [汇编：嵌入式软件架构学习资源](https://blog.csdn.net/buyicn/article/details/142006544)
+
++ [基于微信小程序与嵌入式系统的智能小车开发（详细流程）](https://blog.csdn.net/qq_40431685/article/details/141993185)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142018942)
+
++ [【Linux系统学习】3.Linux用户和权限](https://blog.csdn.net/weixin_69595694/article/details/136071908)
+
