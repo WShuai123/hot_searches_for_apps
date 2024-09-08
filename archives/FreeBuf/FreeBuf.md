@@ -51,3 +51,5 @@
 
 + [GL-iNet 路由器 CVE-2024-39226 漏洞分析](https://www.freebuf.com/articles/web/410443.html)
 
++ [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
+

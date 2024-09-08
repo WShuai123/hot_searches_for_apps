@@ -165,3 +165,7 @@
 
 + [利用Stable Diffusion AI图像模型评估智能车模型算法表现(下篇)](https://blog.csdn.net/m0_66628975/article/details/141992425)
 
++ [大数据Flink（一百一十五）：Flink SQL的基本概念](https://blog.csdn.net/xiaoweite1/article/details/142023751)
+
++ [结合Python与GUI实现比赛预测与游戏数据分析](https://blog.csdn.net/qq_36224726/article/details/141979156)
+

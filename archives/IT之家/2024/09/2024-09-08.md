@@ -43,3 +43,7 @@
 
 + [雷神推出黑武士・猎刃台式电脑：i7-13650HX + 32G + 1T + RTX4060Ti 售 7699 元](https://m.ithome.com/html/794237.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机预约量突破 200 万，二手平台开启“加价收货”](https://m.ithome.com/html/794284.htm)
+
++ [消息称骁龙 8 Gen 4 芯片价格 240 美元，上涨 20.68%](https://m.ithome.com/html/794291.htm)
+
