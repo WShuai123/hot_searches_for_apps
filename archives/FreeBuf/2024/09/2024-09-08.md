@@ -49,3 +49,5 @@
 
 + [XXL-JOB漏洞分析与利用](https://www.freebuf.com/vuls/410065.html)
 
++ [GL-iNet 路由器 CVE-2024-39226 漏洞分析](https://www.freebuf.com/articles/web/410443.html)
+

@@ -39,3 +39,7 @@
 
 + [极氪 7X 大五座 SUV 发布一周订单突破 2 万台，起售价 23.99 万元](https://m.ithome.com/html/794201.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机“玄黑”配色版曝光：黑金内敛风格](https://m.ithome.com/html/794278.htm)
+
++ [雷神推出黑武士・猎刃台式电脑：i7-13650HX + 32G + 1T + RTX4060Ti 售 7699 元](https://m.ithome.com/html/794237.htm)
+
