@@ -171,3 +171,13 @@
 
 + [《一鹅当先》PC版公开B测启动 PS5版问题调试中](https://www.3dmgame.com/news/202409/3903687.html)
 
++ [《夺宝奇兵：古老之圈》开发者分享反派设计思路](https://www.3dmgame.com/news/202409/3903691.html)
+
++ [《战锤40K：星际战士2》XSX比PS5领先10-15FPS](https://www.3dmgame.com/news/202409/3903692.html)
+
++ [《女巫的面包房》众筹达成 法式风情冒险RPG](https://www.3dmgame.com/news/202409/3903690.html)
+
++ [《神鬼寓言》创作者认为多年后游戏制作全由AI完成](https://www.3dmgame.com/news/202409/3903688.html)
+
++ [许诺高额返利骗取财物 10名主播因诈骗落网](https://www.3dmgame.com/news/202409/3903689.html)
+
