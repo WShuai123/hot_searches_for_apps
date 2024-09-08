@@ -181,3 +181,7 @@
 
 + [时间序列结构变化分析：Python实现时间序列变化点检测](https://blog.csdn.net/m0_46510245/article/details/142016800)
 
++ [在亚马逊云科技上利用Graviton4代芯片构建高性能Java应用（上篇）](https://blog.csdn.net/m0_66628975/article/details/142005220)
+
++ [【Vue】状态管理模式Vuex](https://blog.csdn.net/qq_57567877/article/details/137338029)
+

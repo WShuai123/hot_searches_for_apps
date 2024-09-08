@@ -47,3 +47,7 @@
 
 + [消息称骁龙 8 Gen 4 芯片价格 240 美元，上涨 20.68%](https://m.ithome.com/html/794291.htm)
 
++ [宽带通曝光“网速升级”猫腻：承诺接入光纤网络实际未接，200 兆网速测速只有 20 兆](https://m.ithome.com/html/794298.htm)
+
++ [消息称《GTA6》游戏延期至 2026 年发售，PC 版至少再晚一年](https://m.ithome.com/html/794283.htm)
+
