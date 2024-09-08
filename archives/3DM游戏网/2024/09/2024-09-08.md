@@ -213,3 +213,7 @@
 
 + [锐龙5 7600X3D游戏性能测试 超锐龙9 7900X3D](https://www.3dmgame.com/news/202409/3903707.html)
 
++ [《蓝眼武士》获艾美奖最佳动画剧集 或有第三季](https://www.3dmgame.com/news/202409/3903709.html)
+
++ [夏普宣布进军电动汽车市场 将推出概念车LDK+](https://www.3dmgame.com/news/202409/3903710.html)
+

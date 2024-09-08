@@ -67,3 +67,5 @@
 
 + [消息称华为 WATCH GT 5 系列智能手表研发代号一样，有望使用玄玑传感器](https://m.ithome.com/html/794279.htm)
 
++ [消息称苹果 macOS 15.0 Sequoia 正式版 9 月中旬发布，或与 iOS 18 同步](https://m.ithome.com/html/794342.htm)
+
