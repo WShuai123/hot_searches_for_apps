@@ -169,3 +169,5 @@
 
 + [携手闯过噩梦之地 《小小梦魇3》五分钟游戏实机片段](https://www.3dmgame.com/news/202409/3903682.html)
 
++ [《一鹅当先》PC版公开B测启动 PS5版问题调试中](https://www.3dmgame.com/news/202409/3903687.html)
+
