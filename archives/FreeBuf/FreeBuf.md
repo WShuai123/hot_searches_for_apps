@@ -53,3 +53,5 @@
 
 + [研究人员发现一种新型噪声攻击，能绕过最现今的后门检测](https://www.freebuf.com/news/410518.html)
 
++ [研究人员发现一种新型噪声攻击，能绕过最先进的后门检测](https://www.freebuf.com/news/410518.html)
+

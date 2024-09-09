@@ -39,3 +39,5 @@
 
 + [消息称东风本田计划裁员 2000 人：补偿 N+2+1，员工排队抢名额](https://m.ithome.com/html/794393.htm)
 
++ [古尔曼：苹果 iPhone 16 Pro 预计维持 999 美元起价，重点是 AI 和 A18 芯片](https://m.ithome.com/html/794399.htm)
+
