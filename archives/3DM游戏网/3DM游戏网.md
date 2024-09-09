@@ -257,3 +257,11 @@
 
 + [《灾变前夜》10月登陆Steam 开放世界僵尸末日生存](https://www.3dmgame.com/news/202409/3903769.html)
 
++ [《死侍与金刚狼》全球票房已超12.8亿美元](https://www.3dmgame.com/news/202409/3903777.html)
+
++ [《如龙》策略战争手游《极道斗争：人中之龙》曝光](https://www.3dmgame.com/news/202409/3903776.html)
+
++ [《宇宙机器人》免费DLC今年推出 加入速通、VIP机器人](https://www.3dmgame.com/news/202409/3903774.html)
+
++ [酷睿Ultra 200系列海外价格曝光 与第14代酷睿首发价差别不大](https://www.3dmgame.com/news/202409/3903775.html)
+

@@ -51,3 +51,5 @@
 
 + [郭明錤：苹果 iPhone 16 / Pro 系列今年出货预估上调至 8800~8900 万部](https://m.ithome.com/html/794463.htm)
 
++ [iPhone 16 / Pro 明日凌晨 1 点发布，苹果在线商店下线维护](https://m.ithome.com/html/794582.htm)
+
