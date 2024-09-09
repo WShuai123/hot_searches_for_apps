@@ -225,3 +225,13 @@
 
 + [日昇原创动画《前桥魔女》首个宣传预告公开 2025年4月开播](https://www.3dmgame.com/news/202409/3903752.html)
 
++ [中秋国庆连续5周调休引热议 专家释疑合理性](https://www.3dmgame.com/news/202409/3903762.html)
+
++ [曝《哈利波特》剧版赫敏选角为黑人 多么正确啊！](https://www.3dmgame.com/news/202409/3903761.html)
+
++ [华为新款顶奢智能手表官宣：绿水鬼既视感](https://www.3dmgame.com/news/202409/3903760.html)
+
++ [《黑神话》遭盗版侵权 专家怒批将杀死国产游戏](https://www.3dmgame.com/news/202409/3903759.html)
+
++ [偷逃巨额所得税被处罚后 《药屋少女》漫画家宣布继续作画](https://www.3dmgame.com/news/202409/3903758.html)
+

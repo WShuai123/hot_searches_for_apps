@@ -133,3 +133,5 @@
 
 + [ReadPartner AI 1.0 - Portal + Extension](https://www.producthunt.com/posts/readpartner-ai-1-0-portal-extension)
 
++ [Retain AI](https://www.producthunt.com/posts/retain-ai)
+
