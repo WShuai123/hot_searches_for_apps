@@ -29,3 +29,5 @@
 
 + [张杰演唱会“自报手机号”致实际号主被迫关机，工作室道歉](https://m.ithome.com/html/794624.htm)
 
++ [苹果发布 iPhone 16 / Plus：垂直相机、A18 芯片、6.1/6.7 英寸屏幕，起售价 799/899 美元](https://m.ithome.com/html/794637.htm)
+

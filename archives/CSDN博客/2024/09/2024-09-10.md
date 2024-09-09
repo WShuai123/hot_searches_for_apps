@@ -131,3 +131,5 @@
 
 + [【餐厅订单数据分析】](https://blog.csdn.net/weixin_56031987/article/details/142066132)
 
++ [MonoHuman: Animatable Human Neural Field from Monocular Video 精读](https://blog.csdn.net/lijiaweitt/article/details/142022758)
+
