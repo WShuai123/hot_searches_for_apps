@@ -101,3 +101,9 @@
 
 + [论文阅读笔记: Segment Anything](https://blog.csdn.net/c2861024198/article/details/142029373)
 
++ [828华为云征文｜Flexus X实例C#/.Net Core 结合（git代码管理、docker自定义镜像）快速发布部署-让你的项目飞起来~](https://blog.csdn.net/weixin_65243968/article/details/142029447)
+
++ [网络安全(sql注入)](https://blog.csdn.net/m0_74096786/article/details/141906041)
+
++ [【STM32项目】基于STM32+RTOS音频光通信设计与实现（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/142029491)
+

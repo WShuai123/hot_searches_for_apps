@@ -201,3 +201,7 @@
 
 + [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
 
++ [百词斩-学英语、背单词必备](https://itunes.apple.com/cn/app/id557545298?mt=8)
+
++ [班级优化大师](https://itunes.apple.com/cn/app/id989685406?mt=8)
+

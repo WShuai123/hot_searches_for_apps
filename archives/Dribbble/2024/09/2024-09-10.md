@@ -49,3 +49,51 @@
 
 + [MORTGAGE Website design](https://dribbble.com/shots/)
 
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Jojo's noodle](https://dribbble.com/shots/)
+
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Bacteria](https://dribbble.com/shots/)
+
++ [Retirement](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
++ [Hey Heinzel Branded Graphic #1](https://dribbble.com/shots/)
+
++ [Carbon Copy Beer Labels](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Bottling things up](https://dribbble.com/shots/)
+
++ [Illustration](https://dribbble.com/shots/)
+
++ [birdcupfire thing](https://dribbble.com/shots/)
+
++ [Landon Elliott Album Release Show Poster](https://dribbble.com/shots/)
+
++ [Imposing Limits - An Adobe MAX Workshop](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [blue ???? stones](https://dribbble.com/shots/)
+
++ [Ramen's burger](https://dribbble.com/shots/)
+
++ [Daycap Wordmarks Archive](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Classic Study](https://dribbble.com/shots/)
+
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+
++ [struggles and progress](https://dribbble.com/shots/)
+
