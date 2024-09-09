@@ -47,3 +47,5 @@
 
 + [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
 
++ [安卓恶意软件SpyAgent可利用屏幕截图窃取加密货币备份密钥](https://www.freebuf.com/news/410506.html)
+
