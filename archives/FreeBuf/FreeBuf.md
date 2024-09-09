@@ -45,3 +45,5 @@
 
 + [现实世界中的间接提示注入：人们如何操纵神经网络](https://www.freebuf.com/articles/paper/409159.html)
 
++ [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
+

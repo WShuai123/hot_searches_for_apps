@@ -113,3 +113,65 @@
 
 + [制作人揭秘《塞尔达传说：王国之泪》差点成龙之泪](https://www.3dmgame.com/news/202409/3903718.html)
 
++ [买到就赚到 雷军：小米SU7原计划卖22.9-35万 我们血亏](https://www.3dmgame.com/news/202403/3891649.html)
+
++ [鸟山明生前为《龙珠超》创作的最后场景是短笛的挥手告别](https://www.3dmgame.com/news/202403/3891650.html)
+
++ [《如龙》工作室4月1日举行直播活动 将发布重磅消息？](https://www.3dmgame.com/news/202403/3891647.html)
+
++ [被世嘉出售的Relic表示将继续支持对已发售游戏的更新](https://www.3dmgame.com/news/202403/3891637.html)
+
++ [独立开发者：XGP和Epic独占“淘金潮”已经结束](https://www.3dmgame.com/news/202403/3891655.html)
+
++ [马斯克xAI推出Grok-1.5大语言模型 可处理128k上下文](https://www.3dmgame.com/news/202403/3891646.html)
+
++ [在Take-Two收购后 Gearbox宣布将进行一波裁员](https://www.3dmgame.com/news/202403/3891643.html)
+
++ [ADV《对魔忍雪风》中文版宣布4月30日发售 登陆Steam](https://www.3dmgame.com/news/202403/3891653.html)
+
++ [动作类合作肉鸽游戏《维勒姆》现已在Steam平台抢先体验推出](https://www.3dmgame.com/news/202403/3891641.html)
+
++ [育碧EA老将新工作室脱离发行商 独立发行处女作](https://www.3dmgame.com/news/202403/3891642.html)
+
++ [多元结局，无限可能。《美女，请别影响我学习》开创真人互动恋爱模拟新篇章](https://www.3dmgame.com/news/202403/3891640.html)
+
++ [CD Projekt 2023年创下工作室史上第二高财务成绩](https://www.3dmgame.com/news/202403/3891638.html)
+
++ [加密货币交易所FTX创始人宣判 被判25年监禁](https://www.3dmgame.com/news/202403/3891639.html)
+
++ [《饿殍：明末千里行》发售日公布 4月11日上线](https://www.3dmgame.com/news/202403/3891651.html)
+
++ [牛津英语词典收录日本小说漫画动漫流行词：“异世界”](https://www.3dmgame.com/news/202403/3891644.html)
+
++ [《百万吨级武藏W：WIRED》Steam页面 支持简繁体中文](https://www.3dmgame.com/news/202403/3891652.html)
+
++ [《地狱潜者2》总监表示 受任天堂影响才成为开发者](https://www.3dmgame.com/news/202403/3891645.html)
+
++ [《地狱潜者2》官方无预兆更新两把新武器 号召玩家反击生化人](https://www.3dmgame.com/news/202403/3891654.html)
+
++ [斯宾塞解释行业裁员潮：作为负责人不能不在乎盈利](https://www.3dmgame.com/news/202403/3891648.html)
+
++ [《瑞奇与叮当：时空跳转》国行版宣布4月12日发售 定价299元](https://www.3dmgame.com/news/202403/3891636.html)
+
++ [《游戏王 早期合集》公布3款追加游戏 2024年发售](https://www.3dmgame.com/news/202409/3903731.html)
+
++ [PlayStation探索多样化未来 开发不同类型游戏](https://www.3dmgame.com/news/202409/3903730.html)
+
++ [《往日不再》总监不满游戏男主迪肯角沦为《宇宙机器人》宣传陪衬](https://www.3dmgame.com/news/202409/3903728.html)
+
++ [让玩家买得起显卡！AMD承认放弃高端GPU市场](https://www.3dmgame.com/news/202409/3903729.html)
+
++ [《优米雅的炼金工房》Steam商店页面上线 支持中文](https://www.3dmgame.com/news/202409/3903727.html)
+
++ [《死神 千年血战篇》第三阶段10月5日开播 新艺图公开](https://www.3dmgame.com/news/202409/3903732.html)
+
++ [《幻耀的羽毛》登陆Steam 3D纵深卷轴射击](https://www.3dmgame.com/news/202409/3903724.html)
+
++ [传《刺客信条：影》预购依然火爆 嘴上说不要身体很诚实？](https://www.3dmgame.com/news/202409/3903726.html)
+
++ [《战锤40K：星际战士2》正式发售 Steam多半好评](https://www.3dmgame.com/news/202409/3903725.html)
+
++ [《我的世界》真人电影票房不妙？首支预告点踩超130万](https://www.3dmgame.com/news/202409/3903723.html)
+
++ [《夺宝奇兵：古老之圈》不鼓励枪战 多运用头脑和鞭子](https://www.3dmgame.com/news/202409/3903722.html)
+

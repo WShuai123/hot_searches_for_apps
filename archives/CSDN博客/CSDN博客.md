@@ -135,3 +135,13 @@
 
 + [[Web安全 网络安全]-SQL漏洞注入](https://blog.csdn.net/liu17234050/article/details/141971808)
 
++ [《Nginx核心技术》第16章：实现Nginx的高可用负载均衡](https://blog.csdn.net/l1028386804/article/details/142025901)
+
++ [Vue 生命周期与 TypeScript：深入理解组件生命周期](https://blog.csdn.net/weixin_42554191/article/details/142024771)
+
++ [中草药管理与推荐系统Python+Django网页界面+推荐算法+计算机课设系统+网站开发](https://blog.csdn.net/meridian002/article/details/142033862)
+
++ [【Unity资源】GUI Pro - Casual Game: 打造专业级休闲游戏界面的利器](https://blog.csdn.net/UnityBoy/article/details/142036241)
+
++ [CCF推荐C类会议和期刊总结（计算机网络领域）](https://blog.csdn.net/myTomorrow_better/article/details/142020410)
+
