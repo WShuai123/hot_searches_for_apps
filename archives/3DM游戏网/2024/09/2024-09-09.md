@@ -265,3 +265,9 @@
 
 + [酷睿Ultra 200系列海外价格曝光 与第14代酷睿首发价差别不大](https://www.3dmgame.com/news/202409/3903775.html)
 
++ [PS5在日本销量突破600万 上周新增33000台](https://www.3dmgame.com/news/202409/3903780.html)
+
++ [卡牌构建《奥雷萨之下》9月12日登陆主机 售价24.99美元](https://www.3dmgame.com/news/202409/3903779.html)
+
++ [《小丑2：双重妄想》全新预告 10月4日北美上映](https://www.3dmgame.com/news/202409/3903778.html)
+

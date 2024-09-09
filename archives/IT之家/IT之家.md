@@ -53,3 +53,7 @@
 
 + [iPhone 16 / Pro 明日凌晨 1 点发布，苹果在线商店下线维护](https://m.ithome.com/html/794582.htm)
 
++ [小米 Redmi 显示器 A27U Type-C 版开售：4K IPS 屏，首发价 1399 元](https://m.ithome.com/html/794408.htm)
+
++ [华为设备存储空间升级服务 8.8 折优惠：Mate 50 手机 128G 升 256G 限时 492 元](https://m.ithome.com/html/794382.htm)
+
