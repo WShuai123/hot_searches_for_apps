@@ -107,3 +107,23 @@
 
 + [【STM32项目】基于STM32+RTOS音频光通信设计与实现（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/142029491)
 
++ [[C++#33][异常] 错误码 | 抛出与捕获 | 异常安全 | 异常体系](https://blog.csdn.net/2301_80171004/article/details/141985662)
+
++ [Liunx：理解进程概念](https://blog.csdn.net/weixin_51142926/article/details/140999836)
+
++ [Elasticsearch：无状态世界中的数据安全](https://blog.csdn.net/UbuntuTouch/article/details/141996740)
+
++ [openGauss 数据库管理工具：DataKit 6.0 部署与配置实战](https://blog.csdn.net/GaussDB/article/details/142047753)
+
++ [【在Linux世界中追寻伟大的One Piece】NAT|代理服务|内网穿透你会吗？](https://blog.csdn.net/weixin_74809706/article/details/142069964)
+
++ [记录在飞牛NAS系统中通过Docker搭建并配置Linux版本XAMPP镜像环境[图文]](https://blog.csdn.net/qq_35554617/article/details/141958971)
+
++ [基于聚类与LSTM对比特币价格深度分析与预测](https://blog.csdn.net/m0_53814833/article/details/142034437)
+
++ [深入探索协同过滤：从原理到推荐模块案例](https://blog.csdn.net/m0_48173416/article/details/141938942)
+
++ [使用centos7搭建ansible自动化运维，ansible 是一款开源的 IT 自动化引擎，能够自动执行置备、配置管理、应用部署、编排等 IT 流程。](https://blog.csdn.net/dxgcbhj/article/details/141997014)
+
++ [kubernetes微服务之ingress-nginx](https://blog.csdn.net/weixin_68398469/article/details/142007478)
+

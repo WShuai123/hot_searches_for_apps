@@ -25,3 +25,5 @@
 
 + [华为设备存储空间升级服务 8.8 折优惠：Mate 50 手机 128G 升 256G 限时 492 元](https://m.ithome.com/html/794382.htm)
 
++ [库克发微博为苹果 2024 秋季发布会预热](https://m.ithome.com/html/794622.htm)
+

@@ -97,3 +97,9 @@
 
 + [struggles and progress](https://dribbble.com/shots/)
 
++ [Fuzzy Lemons](https://dribbble.com/shots/)
+
++ [Bull Head Logo](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Wordmark](https://dribbble.com/shots/)
+
