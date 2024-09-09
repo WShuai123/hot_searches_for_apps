@@ -41,3 +41,7 @@
 
 + [WonderCMS XSS+远程命令执行漏洞(CVE-2023-41425)](https://www.freebuf.com/vuls/409935.html)
 
++ [FreeBuf早报 | 伊朗被迫支付超2000万元赎金；勒索软件正在肆虐东南亚地区](https://www.freebuf.com/news/410366.html)
+
++ [现实世界中的间接提示注入：人们如何操纵神经网络](https://www.freebuf.com/articles/paper/409159.html)
+

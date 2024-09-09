@@ -101,3 +101,15 @@
 
 + [《龙之信条2》总监：世界太有趣不需要坐骑 装备系统简化了](https://www.3dmgame.com/news/202403/3890297.html)
 
++ [《命运2》Steam在线创新低 平均玩家下滑74%](https://www.3dmgame.com/news/202409/3903721.html)
+
++ [黑暗像素ARPG《DROVA》确定10月16日上市](https://www.3dmgame.com/news/202409/3903720.html)
+
++ [《碧蓝档案》团队新作《KV计划》宣布停止开发](https://www.3dmgame.com/news/202409/3903719.html)
+
++ [《宇宙机器人》或加入《星刃》油腻师姐联动](https://www.3dmgame.com/news/202409/3903716.html)
+
++ [玩家自制《我的世界》电影预告致敬经典](https://www.3dmgame.com/news/202409/3903717.html)
+
++ [制作人揭秘《塞尔达传说：王国之泪》差点成龙之泪](https://www.3dmgame.com/news/202409/3903718.html)
+

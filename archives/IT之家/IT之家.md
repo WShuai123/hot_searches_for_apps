@@ -27,3 +27,5 @@
 
 + [2450 万粉丝“东北雨姐”承认盘锦稻田蟹视频为摆拍：为宣传家乡特产，并未挂售卖链接](https://m.ithome.com/html/794371.htm)
 
++ [防水 iPhone 进水损坏不保修？苹果面临集体诉讼](https://m.ithome.com/html/794367.htm)
+
