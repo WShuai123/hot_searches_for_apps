@@ -201,3 +201,9 @@
 
 + [【STM32项目】基于STM32+RTOS音频光通信设计与实现（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/142029491)
 
++ [600 条最强 Linux 命令总结](https://blog.csdn.net/shan1774965666/article/details/142044408)
+
++ [claude和chatgpt对比：哪一个更适合你？](https://blog.csdn.net/ONE_ZJC/article/details/141996453)
+
++ [论文阅读笔记: Segment Anything](https://blog.csdn.net/c2861024198/article/details/142029373)
+

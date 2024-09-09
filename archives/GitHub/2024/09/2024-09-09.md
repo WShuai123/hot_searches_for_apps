@@ -39,3 +39,19 @@
 
 + [alist-org / alist](https://github.com/alist-org/alist)
 
++ [RSSNext / Follow](https://github.com/RSSNext/Follow)
+
++ [FIRST-Tech-Challenge / FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+
++ [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [johannesjo / super-productivity](https://github.com/johannesjo/super-productivity)
+
++ [wasp-lang / open-saas](https://github.com/wasp-lang/open-saas)
+
++ [TrinityCore / TrinityCore](https://github.com/TrinityCore/TrinityCore)
+
++ [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
++ [Alexays / Waybar](https://github.com/Alexays/Waybar)
+
