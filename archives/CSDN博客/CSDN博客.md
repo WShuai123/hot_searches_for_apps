@@ -133,3 +133,7 @@
 
 + [MonoHuman: Animatable Human Neural Field from Monocular Video 精读](https://blog.csdn.net/lijiaweitt/article/details/142022758)
 
++ [PostgreSQL企业升级实战，细节满满](https://blog.csdn.net/weixin_41645135/article/details/142036839)
+
++ [机器学习(一)分类和回归任务-XGBoost算法-Sentosa_DSML社区版](https://blog.csdn.net/weixin_45141860/article/details/142064093)
+

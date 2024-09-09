@@ -103,3 +103,15 @@
 
 + [世嘉如龙新作或为手游 多个角色可并肩作战](https://www.3dmgame.com/news/202409/3903782.html)
 
++ [iPhone 16全系四款机型配置/价格对比](https://www.3dmgame.com/news/202409/3903788.html)
+
++ [iPhone 16全系国行价格公布：1分钱也没涨！](https://www.3dmgame.com/news/202409/3903787.html)
+
++ [炸鸡轰炸！肯德基上校加入《Funko Fusion》](https://www.3dmgame.com/news/202409/3903786.html)
+
++ [神偷卡门回归新游戏《神偷卡门》明年上市](https://www.3dmgame.com/news/202409/3903785.html)
+
++ [官方公布《优米雅的炼金工房》调和及战斗视频演示](https://www.3dmgame.com/news/202409/3903784.html)
+
++ [性感妖娆《死神：魂魄觉醒》发布松本乱菊角色预告](https://www.3dmgame.com/news/202409/3903783.html)
+
