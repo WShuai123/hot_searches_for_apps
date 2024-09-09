@@ -215,3 +215,5 @@
 
 + [网络传输的基本流程](https://blog.csdn.net/D5486789_/article/details/142029716)
 
++ [【AI绘画】Midjourney光影控制详解](https://blog.csdn.net/2201_75539691/article/details/142035903)
+

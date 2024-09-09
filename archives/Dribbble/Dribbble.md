@@ -231,3 +231,21 @@
 
 + [struggles and progress](https://dribbble.com/shots/)
 
++ [mayfair - design concept](https://dribbble.com/shots/)
+
++ [Mint Hosting](https://dribbble.com/shots/)
+
++ [Local sport events mobile app](https://dribbble.com/shots/)
+
++ [Voice reaction for AI symbol Design by Milkinside](https://dribbble.com/shots/)
+
++ [Packaging design for cat's treats](https://dribbble.com/shots/)
+
++ [Bull Head Logo](https://dribbble.com/shots/)
+
++ [3310 Nokia](https://dribbble.com/shots/)
+
++ [Girl Portrait #3](https://dribbble.com/shots/)
+
++ [Walking Wolf](https://dribbble.com/shots/)
+

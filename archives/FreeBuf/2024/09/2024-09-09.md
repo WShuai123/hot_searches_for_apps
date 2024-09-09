@@ -67,3 +67,5 @@
 
 + [利用屏幕截图窃取秘钥，这个恶意软件受黑客追捧](https://www.freebuf.com/news/410506.html)
 
++ [立即报名 | WitAwards 2024中国网络安全行业年度评选正式启动](https://www.freebuf.com/fevents/410589.html)
+
