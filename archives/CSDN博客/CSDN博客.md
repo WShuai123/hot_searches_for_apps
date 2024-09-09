@@ -175,3 +175,11 @@
 
 + [CCF推荐C类会议和期刊总结：（计算机网络领域）](https://blog.csdn.net/myTomorrow_better/article/details/142020410)
 
++ [Spring Boot 注解探秘：Bean 管理的艺术](https://blog.csdn.net/weixin_45593273/article/details/142022784)
+
++ [基于springboot+vue+uniapp的党员之家服务系统小程序](https://blog.csdn.net/shmp54/article/details/142030594)
+
++ [828华为云征文｜Flexus X实例C#/.Net Core 结合（git代码管理、docker自定义镜像）快速发布部署-让你的项目飞起来~](https://blog.csdn.net/weixin_65243968/article/details/142029447)
+
++ [ASP.NET Core 中的高效后台任务管理：实施定时托管服务](https://blog.csdn.net/z_344791576/article/details/141937548)
+

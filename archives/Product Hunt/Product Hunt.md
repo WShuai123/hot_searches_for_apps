@@ -127,3 +127,9 @@
 
 + [boook](https://www.producthunt.com/posts/boook)
 
++ [noteX](https://www.producthunt.com/posts/notex-2)
+
++ [StarLens](https://www.producthunt.com/posts/starlens)
+
++ [ReadPartner AI 1.0 - Portal + Extension](https://www.producthunt.com/posts/readpartner-ai-1-0-portal-extension)
+

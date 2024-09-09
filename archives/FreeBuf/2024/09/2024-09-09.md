@@ -63,3 +63,5 @@
 
 + [AI大模型新型噪声攻击曝光，可绕过最先进的后门检测](https://www.freebuf.com/news/410518.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+

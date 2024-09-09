@@ -193,3 +193,17 @@
 
 + [ORION - Job Opportunities Platform](https://dribbble.com/shots/)
 
++ [Qure website interaction](https://dribbble.com/shots/)
+
++ [Ampersand Logo, Animation and Sound Design](https://dribbble.com/shots/)
+
++ [Cascade -  Transaction Activity Page](https://dribbble.com/shots/)
+
++ [Werewolf Logo](https://dribbble.com/shots/)
+
++ ["Nautilus" - Daily art, NFT art.](https://dribbble.com/shots/)
+
++ [Carvex Logistics Webapp 2024](https://dribbble.com/shots/)
+
++ [Running App - Route Planner](https://dribbble.com/shots/)
+
