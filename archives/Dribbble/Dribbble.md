@@ -227,3 +227,7 @@
 
 + [Coffee Co Logo Concept](https://dribbble.com/shots/)
 
++ [Impact of Tech](https://dribbble.com/shots/)
+
++ [struggles and progress](https://dribbble.com/shots/)
+

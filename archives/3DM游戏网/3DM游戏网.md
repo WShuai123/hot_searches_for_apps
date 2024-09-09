@@ -247,3 +247,13 @@
 
 + [即将告别高通 苹果自研5G调制解调器最快2025年亮相](https://www.3dmgame.com/news/202409/3903763.html)
 
++ [《星球大战：亡命之徒》对比视频 育碧游戏倒车退化史](https://www.3dmgame.com/news/202409/3903773.html)
+
++ [小鹏MONA M03首批车主提车 小姐姐们颜值超高](https://www.3dmgame.com/news/202409/3903772.html)
+
++ [华为MateXT非凡大师预约人数破300万 三折叠机要卖爆](https://www.3dmgame.com/news/202409/3903771.html)
+
++ [青春不死，war3不老！StarsWar11圆满落幕，KK官方对战平台助力年度顶尖对战！](https://www.3dmgame.com/news/202409/3903770.html)
+
++ [《灾变前夜》10月登陆Steam 开放世界僵尸末日生存](https://www.3dmgame.com/news/202409/3903769.html)
+
