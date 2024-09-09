@@ -201,3 +201,11 @@
 
 + [PS5新游《宇宙机器人》登顶美亚实体游戏销量排行榜](https://www.3dmgame.com/news/202409/3903738.html)
 
++ [官方承认《星球大战：亡命之徒》潜行任务有缺陷 平衡补丁即将到来](https://www.3dmgame.com/news/202409/3903746.html)
+
++ [桌面不再单调：《Ai Vpet/守护与智友》挂件功能让个性化成为可能](https://www.3dmgame.com/news/202409/3903747.html)
+
++ [卡通风黑色幽默策略建造游戏《绝对火箭防卫主义》上架Steam平台](https://www.3dmgame.com/news/202409/3903748.html)
+
++ [iPhone 16国行售价曝光：你买它还是华为三折叠屏](https://www.3dmgame.com/news/202409/3903749.html)
+

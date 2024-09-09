@@ -149,3 +149,13 @@
 
 + [API 架构（RPC风格、RESTful风格）](https://blog.csdn.net/qq_20236937/article/details/139828429)
 
++ [828华为云征文｜采用华为云Flexus云服务器X实例部署YOLOv3算法完成目标检测](https://blog.csdn.net/xiaolong1126626497/article/details/141963069)
+
++ [【GIS系列】通过Java代码高效实现ArcGIS SDE数据库的数据叠加分析](https://blog.csdn.net/c18213590220/article/details/141952099)
+
++ [《机器学习》数据预处理  删除、替换、填充 案例解析及实现](https://blog.csdn.net/qq_64603703/article/details/142031496)
+
++ [【阿一网络安全】如何让你的密码更安全？（二） - 非对称加密](https://blog.csdn.net/Ayixy/article/details/142033631)
+
++ [【微服务】Ribbon（负载均衡，服务调用）+ OpenFeign（服务发现，远程调用）【详解】](https://blog.csdn.net/2301_77431942/article/details/141999774)
+
