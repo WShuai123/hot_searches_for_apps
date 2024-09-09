@@ -175,3 +175,29 @@
 
 + [《夺宝奇兵：古老之圈》不鼓励枪战 多运用头脑和鞭子](https://www.3dmgame.com/news/202409/3903722.html)
 
++ [“行业冥灯” PlayStation大部分实时服务游戏均失败或被取消](https://www.3dmgame.com/news/202409/3903743.html)
+
++ [2D类魂BOSS Rush游戏《终年次序》现已正式推出 获特别好评](https://www.3dmgame.com/news/202409/3903744.html)
+
++ [《绝对火箭防卫主义》Steam上线 绘本风塔防](https://www.3dmgame.com/news/202409/3903745.html)
+
++ [《哥特王朝：重制版》内容大增 玩家需更多时间才能通关](https://www.3dmgame.com/news/202409/3903739.html)
+
++ [《夺宝奇兵：古老之圈》解谜提示将不用话痨NPC 玩家需要善用琼斯博士的相机](https://www.3dmgame.com/news/202409/3903740.html)
+
++ [《最终幻想7》蒂法和爱丽丝3D美图 清凉火辣吸睛](https://www.3dmgame.com/news/202409/3903741.html)
+
++ [华为三折叠手机被炒到近6万 花粉对新苹果16无感](https://www.3dmgame.com/news/202409/3903742.html)
+
++ [桌面棋盘游戏《遗迹：堕落部落》新预告公布 计划于10月3日推出](https://www.3dmgame.com/news/202409/3903733.html)
+
++ [《Memory Of Psycho》Steam上线 创意冒险解谜](https://www.3dmgame.com/news/202409/3903734.html)
+
++ [《毒液3》国内定档10月23日 全球领先上映](https://www.3dmgame.com/news/202409/3903735.html)
+
++ [育碧确认招募系统回归《刺客信条：影》 不怕群殴了！](https://www.3dmgame.com/news/202409/3903736.html)
+
++ [《欧洲卡车模拟2》全新DLC“希腊”上架Steam平台 发售日期尚未公布](https://www.3dmgame.com/news/202409/3903737.html)
+
++ [PS5新游《宇宙机器人》登顶美亚实体游戏销量排行榜](https://www.3dmgame.com/news/202409/3903738.html)
+

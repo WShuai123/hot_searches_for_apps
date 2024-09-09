@@ -33,3 +33,7 @@
 
 + [沈阳鼓励外卖骑手监督食品安全，给予多项奖励](https://m.ithome.com/html/794368.htm)
 
++ [卢伟冰宣布小米即将首发旗舰新平台：超高主频、超强性能、超低功耗](https://m.ithome.com/html/794403.htm)
+
++ [比尔・盖茨：与电动汽车相比 AI 用电量小得多，不担心它影响气候](https://m.ithome.com/html/794373.htm)
+

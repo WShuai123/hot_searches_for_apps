@@ -161,3 +161,9 @@
 
 + [Ride Sharing Mobile App - Select Payment Method ????](https://dribbble.com/shots/)
 
++ [Velaris - Real Estate Mobile App](https://dribbble.com/shots/)
+
++ [EV Charging - Landingpages animation](https://dribbble.com/shots/)
+
++ [Social Media Analytics App Marketing Website](https://dribbble.com/shots/)
+
