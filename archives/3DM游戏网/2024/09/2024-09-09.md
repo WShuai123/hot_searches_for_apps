@@ -235,3 +235,15 @@
 
 + [偷逃巨额所得税被处罚后 《药屋少女》漫画家宣布继续作画](https://www.3dmgame.com/news/202409/3903758.html)
 
++ [网易游戏发布2024年中秋国庆假期未成年人限玩通知 共可体验18小时](https://www.3dmgame.com/news/202409/3903768.html)
+
++ [《辛特堡传说》“花式狩魔”内容更新上线](https://www.3dmgame.com/news/202409/3903767.html)
+
++ [比苹果还狠！华为三折叠屏手机已到线下 明天发布提前拆封罚款50万起](https://www.3dmgame.com/news/202409/3903766.html)
+
++ [Steam特别好评游戏《永恒天空》新增战斗系统，一起探索末世后的地球](https://www.3dmgame.com/news/202409/3903765.html)
+
++ [《头号玩家》雏形已现！蔚领时代MR交互式电影《春草传·青与白》Vision Pro 版先导片正式发布](https://www.3dmgame.com/news/202409/3903764.html)
+
++ [即将告别高通 苹果自研5G调制解调器最快2025年亮相](https://www.3dmgame.com/news/202409/3903763.html)
+

@@ -193,3 +193,11 @@
 
 + [如何读.Net Framework 的源码?](https://blog.csdn.net/zhaotianff/article/details/142006585)
 
++ [【文心智能体】通过工作流使用知识库来实现信息查询输出，一键查看旅游相关信息，让出行多一份信心](https://blog.csdn.net/lmy_520/article/details/142055811)
+
++ [ML 系列：机器学习和深度学习的深层次总结(01)](https://blog.csdn.net/gongdiwudu/article/details/142054719)
+
++ [Web安全之CSRF攻击详解与防护](https://blog.csdn.net/weixin_39996520/article/details/142032205)
+
++ [【STM32项目】基于STM32+RTOS音频光通信设计与实现（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/142029491)
+
