@@ -127,3 +127,7 @@
 
 + [kubernetes微服务之ingress-nginx](https://blog.csdn.net/weixin_68398469/article/details/142007478)
 
++ [都2024年了还不明白Redis持久化？RDB文件、AOF文件、AOF重写](https://blog.csdn.net/weixin_68811816/article/details/142000893)
+
++ [【餐厅订单数据分析】](https://blog.csdn.net/weixin_56031987/article/details/142066132)
+

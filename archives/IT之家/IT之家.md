@@ -27,3 +27,5 @@
 
 + [库克发微博为苹果 2024 秋季发布会预热](https://m.ithome.com/html/794622.htm)
 
++ [张杰演唱会“自报手机号”致实际号主被迫关机，工作室道歉](https://m.ithome.com/html/794624.htm)
+
