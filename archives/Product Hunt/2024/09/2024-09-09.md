@@ -105,3 +105,25 @@
 
 + [Vectopus](https://www.producthunt.com/posts/vectopus)
 
++ [Shortwave AI Email Assistant 2.0](https://www.producthunt.com/posts/shortwave-ai-email-assistant-2-0)
+
++ [OneFootball Club](https://www.producthunt.com/posts/onefootball-club-2)
+
++ [Sidenote](https://www.producthunt.com/posts/sidenote-2)
+
++ [Glossi](https://www.producthunt.com/posts/glossi)
+
++ [TutAR](https://www.producthunt.com/posts/tutar)
+
++ [Keak](https://www.producthunt.com/posts/keak)
+
++ [SciSpace AI Academic Writer](https://www.producthunt.com/posts/scispace-ai-academic-writer)
+
++ [Syncly (YC W23)](https://www.producthunt.com/posts/syncly-yc-w23-2)
+
++ [Inheriti](https://www.producthunt.com/posts/inheriti)
+
++ [Meshy-4](https://www.producthunt.com/posts/meshy-4)
+
++ [boook](https://www.producthunt.com/posts/boook)
+

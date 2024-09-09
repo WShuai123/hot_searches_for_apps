@@ -41,3 +41,5 @@
 
 + [古尔曼：苹果 iPhone 16 Pro 预计维持 999 美元起价，重点是 AI 和 A18 芯片](https://m.ithome.com/html/794399.htm)
 
++ [新款梅赛德斯-奔驰长轴距 C 级车上市：高通 8295 芯片、 L2 + 智驾，33.48 万元起](https://m.ithome.com/html/794430.htm)
+

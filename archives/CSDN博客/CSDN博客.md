@@ -173,3 +173,5 @@
 
 + [9.1-9.8学习周报](https://blog.csdn.net/lzj2002522/article/details/141949581)
 
++ [CCF推荐C类会议和期刊总结：（计算机网络领域）](https://blog.csdn.net/myTomorrow_better/article/details/142020410)
+
