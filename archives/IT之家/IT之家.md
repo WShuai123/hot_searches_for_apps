@@ -31,3 +31,9 @@
 
 + [迎接苹果牌 AI，新证据表明 iPhone 16 / Pro 全系标配 8GB 内存](https://m.ithome.com/html/794670.htm)
 
++ [iPhone 17“预告发布会”即将开始：苹果 iPhone 16 系列京东上架预约](https://m.ithome.com/html/794714.htm)
+
++ [消息称华为 Mate XT 三折叠手机备货约 100 万台，预约量已破 400 万](https://m.ithome.com/html/794884.htm)
+
++ [苹果 5G iPhone 更迭至第 5 代，美版 16 / Pro 系列仍独享 mmWave 技术](https://m.ithome.com/html/794673.htm)
+
