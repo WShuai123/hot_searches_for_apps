@@ -101,3 +101,25 @@
 
 + [【油猴脚本】实现视频下载，目前测试支持视频是MP4格式，其他格式没测试。前端JavaScript实现视频下载，可以自定义视频名字。解决idm视频下载时的名字不匹配](https://blog.csdn.net/qq_33650655/article/details/142067932)
 
++ [为数据仓库构建Zero-ETL无缝集成数据分析方案（上篇）](https://blog.csdn.net/m0_66628975/article/details/142071295)
+
++ [就服务器而言，ARM架构与X86架构有什么区别？各自的优势在哪里？](https://blog.csdn.net/D404234/article/details/142052341)
+
++ [UE4_后期处理_后期处理材质四—场景物体描边](https://blog.csdn.net/Growthofnotes/article/details/142001433)
+
++ [FPGA低功耗设计](https://blog.csdn.net/Qqyangleiyu/article/details/142053266)
+
++ [Excel数据清洗工具：提高数据处理效率的利器](https://blog.csdn.net/qq_44771627/article/details/142111768)
+
++ [如何使用智能合约铸造 NFT —— 以 NftMarket 合约为例](https://blog.csdn.net/Huahua_1223/article/details/142068489)
+
++ [七. 部署YOLOv8检测器-deploy-yolov8-basic](https://blog.csdn.net/qq_40672115/article/details/142027105)
+
++ [【卷起来】VUE3.0教程-05-侦听器](https://blog.csdn.net/yueyehuguang/article/details/142060748)
+
++ [VUE+Tailwind网页开发](https://blog.csdn.net/weixin_43975374/article/details/142022732)
+
++ [《计算机算法设计与分析》笔记](https://blog.csdn.net/2301_80386162/article/details/142071812)
+
++ [【与C++的邂逅】--- string容器使用](https://blog.csdn.net/2301_79448270/article/details/141873968)
+

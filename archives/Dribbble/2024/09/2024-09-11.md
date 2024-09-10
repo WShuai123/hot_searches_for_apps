@@ -49,3 +49,13 @@
 
 + [Pinarello - Sport Bicycle Shop Bold Modern Website Product List](https://dribbble.com/shots/)
 
++ [CAFFÈ - Poster Illustration - Italyca](https://dribbble.com/shots/)
+
++ [Hungry Cat Logo](https://dribbble.com/shots/)
+
++ [Web App Landing Page](https://dribbble.com/shots/)
+
++ [ID Scanning Product Icons](https://dribbble.com/shots/)
+
++ [Libry Books - Branding & Key Visuals](https://dribbble.com/shots/)
+

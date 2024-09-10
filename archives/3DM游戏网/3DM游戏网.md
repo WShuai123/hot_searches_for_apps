@@ -101,3 +101,9 @@
 
 + [《东方幻想麻将》宣布9月19日登陆Steam 定价5500日元](https://www.3dmgame.com/news/202409/3903847.html)
 
++ [PS5 Pro支持VRR/8K 为8500款PS4游戏提供提升](https://www.3dmgame.com/news/202409/3903880.html)
+
++ [iPhone 16首发！A18跑分出炉：苹果刀法精准](https://www.3dmgame.com/news/202409/3903879.html)
+
++ [《合金装备3RE》确认参加TGS 或提供试玩](https://www.3dmgame.com/news/202409/3903878.html)
+
