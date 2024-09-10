@@ -49,3 +49,5 @@
 
 + [三折叠手机 Mate XT 非凡大师领衔，华为见非凡品牌盛典今天下午见](https://m.ithome.com/html/794737.htm)
 
++ [苹果 iPhone 16/Plus 仍保持 USB 2.0 速率，传输速度达 480Mbps](https://m.ithome.com/html/794679.htm)
+

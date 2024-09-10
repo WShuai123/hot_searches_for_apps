@@ -277,3 +277,45 @@
 
 + [Steam最新一周销量榜 《战锤40K：星际战士2》登顶](https://www.3dmgame.com/news/202409/3903854.html)
 
++ [黄仁勋：未来职场会更卷 AI可以充当“员工”](https://www.3dmgame.com/news/202407/3898695.html)
+
++ [游戏科学：《黑神话：悟空》发售后将推出DLC](https://www.3dmgame.com/news/202407/3898696.html)
+
++ [《罪恶装备：STRIVE》玩家数量已超过300万 更多游戏内容筹备中](https://www.3dmgame.com/news/202407/3898697.html)
+
++ [经典名作30周年新篇《恐怖惊魂夜×3》预购开启 9月登陆多平台](https://www.3dmgame.com/news/202407/3898698.html)
+
++ [探访完美世界总部：近千员工集体“毕业” 一整栋楼都空了](https://www.3dmgame.com/news/202407/3898699.html)
+
++ [NEXON团队刷宝射击游戏“第一后裔”今日全球发售](https://www.3dmgame.com/news/202407/3898700.html)
+
++ [老外爱上中国手机支付 直呼在中国工作和生活太方便](https://www.3dmgame.com/news/202407/3898701.html)
+
++ [《死侍与金刚狼》中国版预告片 狼叔空降上海和粉丝见面](https://www.3dmgame.com/news/202407/3898702.html)
+
++ [以色列AR笔记本电脑开发商裁员三分之一](https://www.3dmgame.com/news/202407/3898703.html)
+
++ [《丧尸围城》原版男主配音演员：Capcom没邀请我回归](https://www.3dmgame.com/news/202407/3898704.html)
+
++ [恐怖游戏《寂静之地：前方之路》首个故事宣传片](https://www.3dmgame.com/news/202407/3898705.html)
+
++ [太空城市建造游戏《伊克西翁》将登陆PS5和Xbox Series](https://www.3dmgame.com/news/202407/3898706.html)
+
++ [《绝区零》登顶99国免费游戏榜 7月4日公测](https://www.3dmgame.com/news/202407/3898708.html)
+
++ [Xbox Game Pass 7月上旬新增游戏公布](https://www.3dmgame.com/news/202407/3898707.html)
+
++ [年轻人最爱的App齐崩溃！B站崩了 小红书也崩了 官方回应](https://www.3dmgame.com/news/202407/3898709.html)
+
++ [外媒评选Steam平台最佳免费游戏 《命运2》等](https://www.3dmgame.com/news/202407/3898710.html)
+
++ [《刀剑神域：碎梦边境》新预告 确认将于10月3日发售](https://www.3dmgame.com/news/202407/3898711.html)
+
++ [《光屁屁拳击》正式版8/1登陆PC/Switch](https://www.3dmgame.com/news/202407/3898712.html)
+
++ [钓鱼游戏系列新作《神眼钓手：夏日》10/28发行](https://www.3dmgame.com/news/202407/3898713.html)
+
++ [EA《大学橄榄球25》深度预告片介绍王朝模式](https://www.3dmgame.com/news/202407/3898714.html)
+
++ [英特尔或将所有3nm以下芯片外包台积电制造](https://www.3dmgame.com/news/202409/3903870.html)
+

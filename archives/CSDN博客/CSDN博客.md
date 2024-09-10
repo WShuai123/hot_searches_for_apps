@@ -199,3 +199,5 @@
 
 + [【网络】DNS协议、ICMP协议](https://blog.csdn.net/2301_77112634/article/details/142068831)
 
++ [SQL 代表什么？SQL 的全称是什么？](https://blog.csdn.net/liangzai215/article/details/142072079)
+
