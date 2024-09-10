@@ -231,3 +231,17 @@
 
 + [类孢子生物演化动作游戏《怪奇种子》新预告放出 即将推出试玩版](https://www.3dmgame.com/news/202409/3903845.html)
 
++ [《东方幻想麻将》宣布9月19日登陆Steam 定价5500日元](https://www.3dmgame.com/news/202409/3903847.html)
+
++ [龙可梦收集+都市印象空间！《龙魂：魔都异闻》正式定档9月16日发售](https://www.3dmgame.com/news/202409/3903848.html)
+
++ [为挽救《不羁联盟》在线人数 育碧将赠送价值9美元的游戏货币](https://www.3dmgame.com/news/202409/3903849.html)
+
++ [华为Mate XT非凡大师发布：19999元起](https://www.3dmgame.com/news/202409/3903850.html)
+
++ [苹果iPhone 16 Pro Max充电速度继续摆烂：比上一代还慢](https://www.3dmgame.com/news/202409/3903851.html)
+
++ [漫威特别新刊封面庆祝《漫威vs.卡普空格斗合集》发布](https://www.3dmgame.com/news/202409/3903852.html)
+
++ [《围攻》12月登陆主机平台 好评如潮沙盒建造](https://www.3dmgame.com/news/202409/3903853.html)
+

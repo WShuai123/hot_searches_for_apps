@@ -55,3 +55,7 @@
 
 + [如何使用VeilTransfer评估和提升组织的数据安全态势](https://www.freebuf.com/sectool/410397.html)
 
++ [企业安全 | 邮件安全建设实践](https://www.freebuf.com/articles/es/406387.html)
+
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+

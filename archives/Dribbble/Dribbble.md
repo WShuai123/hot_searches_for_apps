@@ -202,3 +202,17 @@
 
 + [S - Shark Logo](https://dribbble.com/shots/)
 
++ [vericoin](https://dribbble.com/shots/)
+
++ [Whitelist](https://dribbble.com/shots/)
+
++ [Glowing Abstract V Triangle Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Zen2Fit Visual Identity](https://dribbble.com/shots/)
+
++ [Sphynx Cat Logo](https://dribbble.com/shots/)
+
++ [Zenpulse - Website Design](https://dribbble.com/shots/)
+
++ [F and cat](https://dribbble.com/shots/)
+
