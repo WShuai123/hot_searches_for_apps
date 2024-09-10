@@ -211,3 +211,5 @@
 
 + [Fami通日本8月销量榜：《实况力量棒球》连续2个月霸榜](https://www.3dmgame.com/news/202409/3903825.html)
 
++ [《绝区零》外环宣传动画 偶尔也要出去逛逛](https://www.3dmgame.com/news/202409/3903837.html)
+
