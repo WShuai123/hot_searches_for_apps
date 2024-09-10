@@ -101,3 +101,15 @@
 
 + [★求投五蕉★网络上常见的热门短视频集锦 第一千九百六十一期](http://www.acfun.cn/v/ac46230824)
 
++ [圣光啊，那个女人值得一战【今天有什么好笑的 #1681】](http://www.acfun.cn/v/ac46232252)
+
++ [台湾现在还有黑帮吗？有，枪击警察、渗透政坛](http://www.acfun.cn/v/ac46232256)
+
++ [回忆童年，那就去一场悠悠球比赛吧](http://www.acfun.cn/v/ac46230358)
+
++ [难以置信，烟雾报警器里竟然有核辐射，这是什么原理](http://www.acfun.cn/v/ac46228600)
+
++ [她妈妈一定很漂亮吧［认真］](http://www.acfun.cn/v/ac46231151)
+
++ [【10月】NEGATIVE POSITIVE ANGLER 正式PV【MCE汉化组】](http://www.acfun.cn/v/ac46229550)
+

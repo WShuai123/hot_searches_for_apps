@@ -137,3 +137,5 @@
 
 + [Effie](https://www.producthunt.com/posts/effie-3)
 
++ [Scripe](https://www.producthunt.com/posts/scripe-2)
+
