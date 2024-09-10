@@ -37,3 +37,7 @@
 
 + [苹果 5G iPhone 更迭至第 5 代，美版 16 / Pro 系列仍独享 mmWave 技术](https://m.ithome.com/html/794673.htm)
 
++ [索尼 PS5 Pro 游戏机发布：“PSSR”AI 超分技术、内置 2TB SSD，数字版 699 美元](https://m.ithome.com/html/794933.htm)
+
++ [苹果 iPhone 16 Pro 系列 A18 Pro 芯片硬件光追性能提升 1 倍，演示网易《逆水寒手游》](https://m.ithome.com/html/794775.htm)
+

@@ -113,3 +113,5 @@
 
 + [日系爽快动作游戏《超能蕾雅的异次元之旅》明年发售](https://www.3dmgame.com/news/202409/3903881.html)
 
++ [高价PS5 Pro引争议 玩家自制视频嘲讽索尼](https://www.3dmgame.com/news/202409/3903884.html)
+
