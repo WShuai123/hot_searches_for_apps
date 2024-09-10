@@ -107,3 +107,9 @@
 
 + [《合金装备3RE》确认参加TGS 或提供试玩](https://www.3dmgame.com/news/202409/3903878.html)
 
++ [索尼官方发布PS5 Pro与PS5游戏画面对比](https://www.3dmgame.com/news/202409/3903883.html)
+
++ [《遗迹2》DLC黑暗地平线9月24日正式上线](https://www.3dmgame.com/news/202409/3903882.html)
+
++ [日系爽快动作游戏《超能蕾雅的异次元之旅》明年发售](https://www.3dmgame.com/news/202409/3903881.html)
+
