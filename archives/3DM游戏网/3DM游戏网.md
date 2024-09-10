@@ -157,3 +157,33 @@
 
 + [苹果称新款iPhone 16均可玩3A游戏 并不限于Pro版本](https://www.3dmgame.com/news/202409/3903809.html)
 
++ [英伟达亮机卡GT730变身奢侈品包包 售价1000美元](https://www.3dmgame.com/news/202409/3903816.html)
+
++ [时间策略类Roguelike游戏《零秒》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3903817.html)
+
++ [育碧股价过去5年暴跌超80% 已是十年最低水平](https://www.3dmgame.com/news/202409/3903815.html)
+
++ [流媒体平台Netflix网飞游戏服务终生下载量突破2.1亿次](https://www.3dmgame.com/news/202409/3903819.html)
+
++ [传闻：PS5 Pro年底发售 光驱版售价590英镑](https://www.3dmgame.com/news/202409/3903818.html)
+
++ [《THYSIASTERY》Steam上线 复古迷宫探索RPG](https://www.3dmgame.com/news/202409/3903820.html)
+
++ [复古街机小游戏合集《Coin-Op Vice》发售日宣布 9月26日正式推出](https://www.3dmgame.com/news/202409/3903821.html)
+
++ [腾讯游戏中秋国庆限玩公告 共计18小时](https://www.3dmgame.com/news/202409/3903822.html)
+
++ [《战锤40K：星际战士2》Steam在线峰值超22万](https://www.3dmgame.com/news/202409/3903823.html)
+
++ [国产游戏《群星守卫》吸引老外关注：女主很漂亮](https://www.3dmgame.com/news/202409/3903824.html)
+
++ [《三角洲行动》枪械研发纪录片 未来加入国产装备武器](https://www.3dmgame.com/news/202409/3903810.html)
+
++ [Embracer旗下《小缇娜的奇幻之地》合作开发商遭裁员](https://www.3dmgame.com/news/202409/3903812.html)
+
++ [第一人称战术射击游戏《零点时刻》正式版已推出 获特别好评](https://www.3dmgame.com/news/202409/3903811.html)
+
++ [2D解谜冒险游戏《宇宙怪谈》Steam页面上线 发行日期待定](https://www.3dmgame.com/news/202409/3903813.html)
+
++ [《心跳回忆》30周年精工联动腕表公开 经典回忆复苏](https://www.3dmgame.com/news/202409/3903814.html)
+

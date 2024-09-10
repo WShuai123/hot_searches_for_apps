@@ -43,3 +43,5 @@
 
 + [投票：苹果 iPhone 16 / Pro 全系换代 A18 / Pro 售价不变，你考虑购买吗？](https://m.ithome.com/html/794682.htm)
 
++ [苹果 A18 Pro 芯片发布：iPhone 16 Pro 系列首发，CPU 提升 15%、GPU 提升 20%](https://m.ithome.com/html/794644.htm)
+
