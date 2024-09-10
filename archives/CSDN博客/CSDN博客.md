@@ -191,3 +191,11 @@
 
 + [uniapp-实现微信授权登录（详细教程）](https://blog.csdn.net/weixin_70342264/article/details/142057416)
 
++ [【算法】模拟退火](https://blog.csdn.net/wnm23/article/details/142057181)
+
++ [数据分析案例-视频游戏销量数据集可视分析](https://blog.csdn.net/m0_64336780/article/details/138546328)
+
++ [Monte Carlo方法解决强化学习问题](https://blog.csdn.net/m0_46510245/article/details/142092619)
+
++ [【网络】DNS协议、ICMP协议](https://blog.csdn.net/2301_77112634/article/details/142068831)
+

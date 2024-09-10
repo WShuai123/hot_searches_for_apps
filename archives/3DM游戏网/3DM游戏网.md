@@ -245,3 +245,35 @@
 
 + [《围攻》12月登陆主机平台 好评如潮沙盒建造](https://www.3dmgame.com/news/202409/3903853.html)
 
++ [AMD官宣全新UDNA GPU架构！游戏计算二合一 死战CUDA](https://www.3dmgame.com/news/202409/3903869.html)
+
++ [华为MateXT非凡大师机身尺寸：最厚12.8mm重306g](https://www.3dmgame.com/news/202409/3903868.html)
+
++ [《女神异闻录3 Reload》DLC第三弹“Episode Aegis”正式发布！同步公原声音乐集](https://www.3dmgame.com/news/202409/3903867.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》介绍环游世界的目的和旅程](https://www.3dmgame.com/news/202409/3903866.html)
+
++ [《黑神话》亢金星君3D模型和截图 冷艳动人玉足吸睛](https://www.3dmgame.com/news/202409/3903862.html)
+
++ [亚马逊《辐射》真人剧荣获两项艾美奖及多项提名](https://www.3dmgame.com/news/202409/3903861.html)
+
++ [人类史上首次商业太空行走正式开始 SpaceX北极星黎明任务飞船升空](https://www.3dmgame.com/news/202409/3903865.html)
+
++ [《万物皆可赛车》登陆Steam 欢乐奇葩竞速](https://www.3dmgame.com/news/202409/3903864.html)
+
++ [暴雪赚麻了！《暗黑破坏神4》微交易已创收1.5亿美元](https://www.3dmgame.com/news/202409/3903863.html)
+
++ [通讯专家：华为Mate XT代表人类智能手机最高水平](https://www.3dmgame.com/news/202409/3903859.html)
+
++ [iPhone 16发布 苹果光速下架iPhone 15 Pro成绝版！官方客服回应](https://www.3dmgame.com/news/202409/3903858.html)
+
++ [漫改游戏《哥普拉：觉醒》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202409/3903857.html)
+
++ [怕步《星鸣特攻》后尘 索尼发布《绝地潜兵2》调查问卷](https://www.3dmgame.com/news/202409/3903856.html)
+
++ [《黑神话》大获成功后 给国内游戏行业带来更多决心](https://www.3dmgame.com/news/202409/3903860.html)
+
++ [已成立30余年 天津三星公司注销！明年还要在中国裁员30%](https://www.3dmgame.com/news/202409/3903855.html)
+
++ [Steam最新一周销量榜 《战锤40K：星际战士2》登顶](https://www.3dmgame.com/news/202409/3903854.html)
+

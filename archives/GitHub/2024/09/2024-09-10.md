@@ -29,3 +29,29 @@
 
 + [Alexays / Waybar](https://github.com/Alexays/Waybar)
 
++ [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
+
++ [DiceDB / dice](https://github.com/DiceDB/dice)
+
++ [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [maotoumao / MusicFree](https://github.com/maotoumao/MusicFree)
+
++ [helix-editor / helix](https://github.com/helix-editor/helix)
+
++ [josephburnett / jd](https://github.com/josephburnett/jd)
+
++ [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
+
++ [CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard)
+
++ [appsmithorg / appsmith](https://github.com/appsmithorg/appsmith)
+
++ [mikefarah / yq](https://github.com/mikefarah/yq)
+
++ [Team-xManager / xManager](https://github.com/Team-xManager/xManager)
+
