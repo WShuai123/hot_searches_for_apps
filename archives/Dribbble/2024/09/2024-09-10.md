@@ -180,3 +180,17 @@
 
 + [💭✍️💭](https://dribbble.com/shots/)
 
++ [News Mobile App Design - Podcast Player Page](https://dribbble.com/shots/)
+
++ [Letter B Monogram Logo Design](https://dribbble.com/shots/)
+
++ [Taglines for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
+
++ [Human Nature | Logo design](https://dribbble.com/shots/)
+
++ [Ottorize - CRM Dashboard](https://dribbble.com/shots/)
+
++ [Trevia - Flight Booking Mobile App](https://dribbble.com/shots/)
+
++ [My favorite Martian 👽](https://dribbble.com/shots/)
+

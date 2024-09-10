@@ -53,3 +53,5 @@
 
 + [攻防利器 | openCTI开源威胁情报管理平台的思考与详细部署](https://www.freebuf.com/sectool/410121.html)
 
++ [如何使用VeilTransfer评估和提升组织的数据安全态势](https://www.freebuf.com/sectool/410397.html)
+

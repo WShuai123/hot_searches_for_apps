@@ -171,3 +171,13 @@
 
 + [【论文阅读】ModelScope-Agent：基于开源大语言模型的可定制Agent系统](https://blog.csdn.net/weixin_47936614/article/details/142054620)
 
++ [【机器学习】C++与OpenCV实战：创建你的第一个图片显示程序](https://blog.csdn.net/qq_57761637/article/details/142069258)
+
++ [碰撞检测 | 详解圆-矩形碰撞检测与N圆覆盖模型(附ROS C++可视化)](https://blog.csdn.net/FRIGIDWINTER/article/details/142068948)
+
++ [为数据仓库构建Zero-ETL无缝集成数据分析方案（上篇）](https://blog.csdn.net/m0_66628975/article/details/142071295)
+
++ [分布式通信：多计算平台的任务分配](https://blog.csdn.net/weixin_56773716/article/details/142056484)
+
++ [【计算机网络】概述篇](https://blog.csdn.net/xiaoliii0401/article/details/141999466)
+

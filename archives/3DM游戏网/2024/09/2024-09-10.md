@@ -213,3 +213,17 @@
 
 + [《绝区零》外环宣传动画 偶尔也要出去逛逛](https://www.3dmgame.com/news/202409/3903837.html)
 
++ [解谜冒险游戏《神偷卡门》Steam页面开放 明年发售](https://www.3dmgame.com/news/202409/3903842.html)
+
++ [《三角洲行动》官宣9月26日上线 登陆PC和移动端](https://www.3dmgame.com/news/202409/3903843.html)
+
++ [《星球大战》达斯·维达《狮子王》木法沙配音演员去世](https://www.3dmgame.com/news/202409/3903844.html)
+
++ [《极限竞速：地平线5》新赛季到来，全新模式“捉迷藏”正式上线！](https://www.3dmgame.com/news/202409/3903838.html)
+
++ [《丧尸围城：豪华复刻版》追加衣装公布 碍事梨洛克人在列](https://www.3dmgame.com/news/202409/3903839.html)
+
++ [2024上半年微博游戏热搜报告 《黑神话：悟空》登顶16次](https://www.3dmgame.com/news/202409/3903840.html)
+
++ [《七大罪：默示录的四骑士》动画第二季预告放出 将于10月6日开播](https://www.3dmgame.com/news/202409/3903841.html)
+
