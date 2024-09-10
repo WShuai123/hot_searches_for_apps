@@ -19,3 +19,5 @@
 
 + [音乐世界 Cytus II](https://www.taptap.cn/app/153415)
 
++ [香肠派对](https://www.taptap.cn/app/58881)
+

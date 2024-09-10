@@ -27,3 +27,7 @@
 
 + [消息称华为 Mate XT 非凡大师三折叠手机搭载麒麟 9010 处理器](https://m.ithome.com/html/794859.htm)
 
++ [苹果 A18 Pro 芯片发布：iPhone 16 Pro 系列首发，CPU 提升 15%、GPU 提升 20%](https://m.ithome.com/html/794644.htm)
+
++ [迎接苹果牌 AI，新证据表明 iPhone 16 / Pro 全系标配 8GB 内存](https://m.ithome.com/html/794670.htm)
+
