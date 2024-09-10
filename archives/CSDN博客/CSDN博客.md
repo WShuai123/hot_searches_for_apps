@@ -141,3 +141,9 @@
 
 + [[项目][WebServer][项目介绍及知识铺垫][上]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142055868)
 
++ [OpenCV 与 Matplotlib 的结合使用：轮毂检测与目标跟踪](https://blog.csdn.net/DDDDWJDDDD/article/details/142069036)
+
++ [机器学习：opencv--图像形态学](https://blog.csdn.net/weixin_65047977/article/details/142070191)
+
++ [Springcould -第一个Eureka应用 --- day02](https://blog.csdn.net/m0_67187271/article/details/142053245)
+

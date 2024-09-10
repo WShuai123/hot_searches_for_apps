@@ -45,3 +45,7 @@
 
 + [深度探讨隐藏在你代码中的漏洞：变异型跨站脚本（mXSS）](https://www.freebuf.com/articles/network/409092.html)
 
++ [SonicWall SSL VPN曝出高危漏洞，可能导致防火墙崩溃](https://www.freebuf.com/news/410635.html)
+
++ [sliver源码分析 | 植入物生成逻辑](https://www.freebuf.com/sectool/410139.html)
+
