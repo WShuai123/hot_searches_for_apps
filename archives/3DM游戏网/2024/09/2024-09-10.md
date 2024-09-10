@@ -115,3 +115,33 @@
 
 + [性感妖娆《死神：魂魄觉醒》发布松本乱菊角色预告](https://www.3dmgame.com/news/202409/3903783.html)
 
++ [iPhone16系列发布：新的相机按钮、AI整合和A18](https://www.3dmgame.com/news/202409/3903798.html)
+
++ [《咒文碎片》Steam页面上线 魔法构建肉鸽TPS](https://www.3dmgame.com/news/202409/3903799.html)
+
++ [《命运2》公开“代号：前线”扩展未来更新细节](https://www.3dmgame.com/news/202409/3903800.html)
+
++ [因不满《军团要塞2》机器人问题 超34万名玩家签名请愿书送达V社办公室](https://www.3dmgame.com/news/202409/3903801.html)
+
++ [《我的世界》PS5原生版本开发中 取消新生物投票](https://www.3dmgame.com/news/202409/3903802.html)
+
++ [英伟达《黑神话》全景光追+DLSS3宣传片 巅峰视觉效果](https://www.3dmgame.com/news/202409/3903803.html)
+
++ [《潜行者2》故事被重写六次 现在开发者对剧情很满意](https://www.3dmgame.com/news/202409/3903797.html)
+
++ [《尚气》导演有望执导荷兰弟《蜘蛛侠4》电影](https://www.3dmgame.com/news/202409/3903796.html)
+
++ [在正式官宣前 索尼提前确认了PS5 Pro名称](https://www.3dmgame.com/news/202409/3903795.html)
+
++ [彭博社记者称《侠盗猎车手 6》延期传闻不实](https://www.3dmgame.com/news/202409/3903789.html)
+
++ [《饿狼传说：狼之城》计划获得3年DLC支持](https://www.3dmgame.com/news/202409/3903790.html)
+
++ [中世纪生活模拟RPG《欢欣森活》推迟至11/6推出](https://www.3dmgame.com/news/202409/3903791.html)
+
++ [iPhone 16发布会公布《王者荣耀：世界》明年上线](https://www.3dmgame.com/news/202409/3903792.html)
+
++ [剧情驱动摄影冒险《FOMOGRAPHY》25年初推出](https://www.3dmgame.com/news/202409/3903793.html)
+
++ [股价持续暴跌 投资者敦促育碧私有化](https://www.3dmgame.com/news/202409/3903794.html)
+
