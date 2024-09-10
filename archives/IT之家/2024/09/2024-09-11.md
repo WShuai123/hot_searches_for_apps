@@ -25,3 +25,5 @@
 
 + [苹果 iPhone 16/Plus 仍保持 USB 2.0 速率，传输速度达 480Mbps](https://m.ithome.com/html/794679.htm)
 
++ [消息称华为 Mate XT 非凡大师三折叠手机搭载麒麟 9010 处理器](https://m.ithome.com/html/794859.htm)
+
