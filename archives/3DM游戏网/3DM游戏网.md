@@ -325,3 +325,5 @@
 
 + [黑暗幻想动作冒险游戏《Mirage 7》公布](https://www.3dmgame.com/news/202409/3903872.html)
 
++ [驱鬼恐怖游戏《近畿灵务局》公布 10月4日发售](https://www.3dmgame.com/news/202409/3903874.html)
+
