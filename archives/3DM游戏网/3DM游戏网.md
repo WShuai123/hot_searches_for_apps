@@ -319,3 +319,9 @@
 
 + [英特尔或将所有3nm以下芯片外包台积电制造](https://www.3dmgame.com/news/202409/3903870.html)
 
++ [仇恨玩家？《Concord》主美：很快你们这些人就买不到任何游戏](https://www.3dmgame.com/news/202409/3903873.html)
+
++ [传PS5 Pro从原型机到发售 整个过程仅花了19个月](https://www.3dmgame.com/news/202409/3903871.html)
+
++ [黑暗幻想动作冒险游戏《Mirage 7》公布](https://www.3dmgame.com/news/202409/3903872.html)
+

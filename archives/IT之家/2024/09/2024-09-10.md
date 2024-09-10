@@ -51,3 +51,5 @@
 
 + [苹果 iPhone 16/Plus 仍保持 USB 2.0 速率，传输速度达 480Mbps](https://m.ithome.com/html/794679.htm)
 
++ [华为 Mate XT 非凡大师三折叠手机真机实拍，展开厚度约 3 张银行卡](https://m.ithome.com/html/794851.htm)
+
