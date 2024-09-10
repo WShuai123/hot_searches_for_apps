@@ -213,3 +213,7 @@
 
 + [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
 
++ [夸克扫描王-开学季拍证件照智能美颜&一键抠图换底色](https://itunes.apple.com/cn/app/id6450447757?mt=8)
+
++ [Apple Store](https://itunes.apple.com/cn/app/id375380948?mt=8)
+

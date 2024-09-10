@@ -147,3 +147,21 @@
 
 + [Springcould -第一个Eureka应用 --- day02](https://blog.csdn.net/m0_67187271/article/details/142053245)
 
++ [解决C++ openCV无法读取视频但是可以读取图像](https://blog.csdn.net/tyfwin/article/details/142063354)
+
++ [【大数据算法】一文掌握大数据算法之：空间亚线性算法。](https://blog.csdn.net/wuyoudeyuer/article/details/141752419)
+
++ [OpenCV-轮廓检测](https://blog.csdn.net/2301_77698138/article/details/142069135)
+
++ [猫头虎分析：iPhone 16 系列哪款更适合你？买 iPhone 16 选哪款好？](https://blog.csdn.net/qq_44866828/article/details/142078617)
+
++ [网络安全 day5 --- 反弹SHELL&不回显带外&正反向连接&防火墙出入站&文件下载](https://blog.csdn.net/2302_81156108/article/details/141888147)
+
++ [【Kafka】分区与复制机制：解锁高性能与容错的密钥](https://blog.csdn.net/weixin_53269650/article/details/142059918)
+
++ [DevOps实现CI/CD实战（六）- Jenkins集成k8s](https://blog.csdn.net/Y_eatMeat/article/details/142056023)
+
++ [OpenHarmony鸿蒙开发（ Beta5.0）智能风扇设备开发实践](https://blog.csdn.net/weixin_55362248/article/details/142060091)
+
++ [DEX-如何防范夹子机器人攻击](https://blog.csdn.net/qq_38420688/article/details/141941603)
+

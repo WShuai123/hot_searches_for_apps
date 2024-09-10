@@ -187,3 +187,27 @@
 
 + [《心跳回忆》30周年精工联动腕表公开 经典回忆复苏](https://www.3dmgame.com/news/202409/3903814.html)
 
++ [苹果特别提醒：iPhone16国行版暂不支持Apple智能](https://www.3dmgame.com/news/202409/3903836.html)
+
++ [前《生化危机》系列开发者夫妇二人成立新工作室](https://www.3dmgame.com/news/202409/3903835.html)
+
++ [休闲模拟游戏《动物收容所2》序章内容即将免费发布 9月13日推出](https://www.3dmgame.com/news/202409/3903834.html)
+
++ [iPhone16全系支持Wi-Fi 7 理论下载峰值40Gbps](https://www.3dmgame.com/news/202409/3903833.html)
+
++ [《Moon Watch》PC版免费发布 吸幸类型动作射击](https://www.3dmgame.com/news/202409/3903832.html)
+
++ [《往日不再》总监不满《宇宙机器人》客串 引众人嘲讽](https://www.3dmgame.com/news/202409/3903831.html)
+
++ [传闻：动画电影《蜘蛛侠：超越宇宙》最早2027年上映](https://www.3dmgame.com/news/202409/3903830.html)
+
++ [库克自赞苹果16最先进放心买 但国行版被吐槽半成品](https://www.3dmgame.com/news/202409/3903829.html)
+
++ [继日版主机涨价后 PS5 DualSense手柄也在多地涨价 美国上涨5美元](https://www.3dmgame.com/news/202409/3903828.html)
+
++ [《勇敢小骑士》通关需要8-10小时 提供两种难度选项](https://www.3dmgame.com/news/202409/3903827.html)
+
++ [剧版《哈利波特》开选主角团演员 尼妹要来了？](https://www.3dmgame.com/news/202409/3903826.html)
+
++ [Fami通日本8月销量榜：《实况力量棒球》连续2个月霸榜](https://www.3dmgame.com/news/202409/3903825.html)
+
