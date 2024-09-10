@@ -45,3 +45,7 @@
 
 + [苹果 A18 Pro 芯片发布：iPhone 16 Pro 系列首发，CPU 提升 15%、GPU 提升 20%](https://m.ithome.com/html/794644.htm)
 
++ [19999 元起全球首款量产三折叠手机：华为 Mate XT 非凡大师发布，10.2 英寸全球最大屏](https://m.ithome.com/html/794820.htm)
+
++ [三折叠手机 Mate XT 非凡大师领衔，华为见非凡品牌盛典今天下午见](https://m.ithome.com/html/794737.htm)
+

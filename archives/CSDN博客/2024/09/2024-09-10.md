@@ -181,3 +181,7 @@
 
 + [【计算机网络】概述篇](https://blog.csdn.net/xiaoliii0401/article/details/141999466)
 
++ [使用亚马逊Bedrock的Stable Diffusion XL模型实现文本到图像生成：探索AI的无限创意](https://blog.csdn.net/rralucard123/article/details/142003884)
+
++ [【人工智能】Transformers之Pipeline（十六）：表格问答（table-question-answering）](https://blog.csdn.net/weixin_48007632/article/details/142092243)
+
