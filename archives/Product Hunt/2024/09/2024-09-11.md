@@ -107,3 +107,29 @@
 
 + [SEOPulser](https://www.producthunt.com/posts/seopulser)
 
++ [Replit Agent](https://www.producthunt.com/posts/replit-agent)
+
++ [SubTracky](https://www.producthunt.com/posts/subtracky)
+
++ [TextFlex](https://www.producthunt.com/posts/textflex)
+
++ [Fit.AI](https://www.producthunt.com/posts/fit-ai)
+
++ [Cinnamon/kotaemon](https://www.producthunt.com/posts/cinnamon-kotaemon)
+
++ [Minilog](https://www.producthunt.com/posts/minilog)
+
++ [Diarist](https://www.producthunt.com/posts/diarist)
+
++ [Serra (YC S23)](https://www.producthunt.com/posts/serra-yc-s23)
+
++ [TweetDM](https://www.producthunt.com/posts/tweetdm-2)
+
++ [BlipHQ](https://www.producthunt.com/posts/bliphq)
+
++ [Genkin](https://www.producthunt.com/posts/genkin)
+
++ [Patched (YC S24)](https://www.producthunt.com/posts/patched-yc-s24)
+
++ [Command AI](https://www.producthunt.com/posts/command-ai)
+

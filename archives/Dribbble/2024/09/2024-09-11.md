@@ -79,3 +79,13 @@
 
 + [Locked In](https://dribbble.com/shots/)
 
++ [Smart Home Utility Mobile App Design](https://dribbble.com/shots/)
+
++ [Aruna - Real Estate Landing Page](https://dribbble.com/shots/)
+
++ [Heart + play icon for gaming streamers community logo design](https://dribbble.com/shots/)
+
++ [WelNoble logos, logo design, brand identity, branding](https://dribbble.com/shots/)
+
++ [Church of Sacred Tree Logo Design - Cross, Green Tree](https://dribbble.com/shots/)
+

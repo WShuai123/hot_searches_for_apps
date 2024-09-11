@@ -245,3 +245,11 @@
 
 + [《SWORD BISTRO VR》Steam抢测 幻想风切菜料理](https://www.3dmgame.com/news/202409/3903925.html)
 
++ [《演灭》公布PC限定皮肤熊猫及定价 国区全球最低](https://www.3dmgame.com/news/202409/3903931.html)
+
++ [《近几灵务局》10月登陆Steam 除灵恐怖探险](https://www.3dmgame.com/news/202409/3903932.html)
+
++ [港版PS5 Pro官宣定价5780港币 11月7日发售](https://www.3dmgame.com/news/202409/3903933.html)
+
++ [《幸福工厂》正式版Steam同时在线玩家峰值创新高](https://www.3dmgame.com/news/202409/3903934.html)
+
