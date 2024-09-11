@@ -303,3 +303,5 @@
 
 + [网友偶遇黄仁勋：美国海底捞“兼职”甩面](https://www.3dmgame.com/news/202409/3903952.html)
 
++ [《索尼克×夏特 世代重启》将在“东京电玩展2024”世嘉／ATLUS展位中出展](https://www.3dmgame.com/news/202409/3903960.html)
+

@@ -207,3 +207,7 @@
 
 + [外包干了三年，快要废了。。。](https://blog.csdn.net/HUA6911/article/details/142107404)
 
++ [【腾讯云】AI驱动TDSQL-C Serveress 数据库技术实战营-如何是从0到1体验电商可视化分析小助手得统计功能，一句话就能输出目标统计图](https://blog.csdn.net/lmy_520/article/details/142108199)
+
++ [如何通过网络找到自己想要的LabVIEW知识？](https://blog.csdn.net/bjcyck/article/details/142121522)
+

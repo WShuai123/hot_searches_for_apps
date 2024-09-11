@@ -37,3 +37,25 @@
 
 + [Team-xManager / xManager](https://github.com/Team-xManager/xManager)
 
++ [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [dair-ai / ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+
++ [hashicorp / terraform](https://github.com/hashicorp/terraform)
+
++ [documenso / documenso](https://github.com/documenso/documenso)
+
++ [vllm-project / vllm](https://github.com/vllm-project/vllm)
+
++ [FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [RfidResearchGroup / proxmark3](https://github.com/RfidResearchGroup/proxmark3)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [openedx / edx-platform](https://github.com/openedx/edx-platform)
+
++ [ArduPilot / ardupilot](https://github.com/ArduPilot/ardupilot)
+
++ [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
