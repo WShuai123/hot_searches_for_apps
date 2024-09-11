@@ -187,3 +187,9 @@
 
 + [瑞芯微RK3566鸿蒙开发板OpenHarmony标准系统应用兼容性测试指导](https://blog.csdn.net/Industio_CSDN/article/details/142094542)
 
++ [【一起学Rust | 进阶篇】使用Bon快速生成builder，提高代码质量](https://blog.csdn.net/weixin_47754149/article/details/142091773)
+
++ [【Linux】解锁Shell脚本编写秘籍，编程高手之路等你开启](https://blog.csdn.net/m0_74808907/article/details/142133792)
+
++ [C++ IO流全解析：标准库中的数据处理与文件读写艺术](https://blog.csdn.net/weixin_50776420/article/details/142103441)
+

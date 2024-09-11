@@ -55,3 +55,5 @@
 
 + [华为 Mate XT 三折叠手机搭载星闪连接技术，屏幕支持 90Hz 高刷](https://m.ithome.com/html/794848.htm)
 
++ [华为见非凡品牌盛典及鸿蒙智行新品发布会一文汇总，Mate XT 非凡大师三折叠炸场](https://m.ithome.com/html/794935.htm)
+

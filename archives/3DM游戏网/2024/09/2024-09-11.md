@@ -253,3 +253,25 @@
 
 + [《幸福工厂》正式版Steam同时在线玩家峰值创新高](https://www.3dmgame.com/news/202409/3903934.html)
 
++ [终于动笔 乔治·RR·马丁透露已为《凛冬的寒风》等作品写出新章节](https://www.3dmgame.com/news/202409/3903945.html)
+
++ [动物园恐怖游戏《Zoochosis》发售日延期 9月30日发售](https://www.3dmgame.com/news/202409/3903944.html)
+
++ [前暴雪总裁Ybarra讨论PS5 Pro定价：把PS5拿去换](https://www.3dmgame.com/news/202409/3903943.html)
+
++ [Aniplex公布游戏新作策划《Project HYKE》新艺图亮相](https://www.3dmgame.com/news/202409/3903942.html)
+
++ [《演灭》、《机器双雄》等游戏支持DLSS 3，带来性能提升](https://www.3dmgame.com/news/202409/3903941.html)
+
++ [《崩坏：星穹铁道》PS5实体版预购已上线百思买 售价40美元](https://www.3dmgame.com/news/202409/3903940.html)
+
++ [2024年东京电玩展直播节目表公布：育碧、Xbox、卡普空等](https://www.3dmgame.com/news/202409/3903939.html)
+
++ [KK官方对战平台火爆生存新图《进化吧僵尸》上线！塔防守城狂虐僵尸！](https://www.3dmgame.com/news/202409/3903938.html)
+
++ [提刀入倭岛《平寇志》DLC“邪马台之影”现已正式发售](https://www.3dmgame.com/news/202409/3903937.html)
+
++ [PS5 Pro高售价引争议 但算上通货膨胀也并非索尼最贵主机](https://www.3dmgame.com/news/202409/3903936.html)
+
++ [胖布丁新作《边缘空间》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3903935.html)
+

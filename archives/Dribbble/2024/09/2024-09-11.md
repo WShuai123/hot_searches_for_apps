@@ -89,3 +89,15 @@
 
 + [Church of Sacred Tree Logo Design - Cross, Green Tree](https://dribbble.com/shots/)
 
++ [Comprehensive Travel App UI Design](https://dribbble.com/shots/)
+
++ [Cascade - Analytics Page](https://dribbble.com/shots/)
+
++ [Carvex Logistics Website 2024](https://dribbble.com/shots/)
+
++ [Neuera : Digital Agency - Pitchdeck](https://dribbble.com/shots/)
+
++ [HR Web App](https://dribbble.com/shots/)
+
++ [Foxis](https://dribbble.com/shots/)
+
