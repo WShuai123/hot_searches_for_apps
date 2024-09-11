@@ -319,3 +319,9 @@
 
 + [《艾尔登法环》1.14更新上线 DLC最终Boss难度削弱](https://www.3dmgame.com/news/202409/3903966.html)
 
++ [《死亡岛2：终极版》公布 将有《天国：拯救2》武器包](https://www.3dmgame.com/news/202409/3903970.html)
+
++ [外媒：电动汽车之后 中国企业想要主导AI自动驾驶](https://www.3dmgame.com/news/202409/3903969.html)
+
++ [除了PS5 Pro强化补丁外 《龙之信条2》还有面向全平台的更新](https://www.3dmgame.com/news/202409/3903967.html)
+
