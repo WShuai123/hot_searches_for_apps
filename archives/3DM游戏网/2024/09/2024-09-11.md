@@ -275,3 +275,15 @@
 
 + [胖布丁新作《边缘空间》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3903935.html)
 
++ [8月中国卖最火的车型出炉：特斯拉Model Y重新登顶](https://www.3dmgame.com/news/202409/3903951.html)
+
++ [名梗显灵 漫画家因为不小心给克林画上了鼻子遥向鸟山明致歉](https://www.3dmgame.com/news/202409/3903947.html)
+
++ [《黑神话》蜘蛛精二姐3D建模图赏 赤足起舞非常吸睛](https://www.3dmgame.com/news/202409/3903950.html)
+
++ [不仅主机贵 网友吐槽PS5手柄涨价：漂移问题至今没改](https://www.3dmgame.com/news/202409/3903949.html)
+
++ [外媒又抹黑《黑神话》歧视女性：虽没法核实但就是辱女](https://www.3dmgame.com/news/202409/3903948.html)
+
++ [外媒提前试玩PS5 Pro：《最终幻想7：重生》画质帧率大提升](https://www.3dmgame.com/news/202409/3903946.html)
+

@@ -101,3 +101,13 @@
 
 + [Foxis](https://dribbble.com/shots/)
 
++ [Numbers - WIP](https://dribbble.com/shots/)
+
++ [Duck Head Logo](https://dribbble.com/shots/)
+
++ [Squirrel - Logo Design](https://dribbble.com/shots/)
+
++ [Logo for UI designer](https://dribbble.com/shots/)
+
++ [Hubble Logo](https://dribbble.com/shots/)
+

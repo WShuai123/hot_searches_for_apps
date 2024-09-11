@@ -57,3 +57,13 @@
 
 + [华为见非凡品牌盛典及鸿蒙智行新品发布会一文汇总，Mate XT 非凡大师三折叠炸场](https://m.ithome.com/html/794935.htm)
 
++ [苹果 iPhone 16 Pro 系列跑分出炉：多核 7751 分，较前代提高 11%](https://m.ithome.com/html/794957.htm)
+
++ [【一图知】华为见非凡品牌盛典及鸿蒙智行新品发布会：Mate XT 非凡大师三折叠屏手机与问界 M9 大五座发布，智界 R7 开启小订](https://m.ithome.com/html/794863.htm)
+
++ [苹果公布新一代超瓷晶面板：iPhone 16 / Pro 系列已应用，硬度较初代提升 50%](https://m.ithome.com/html/794942.htm)
+
++ [华为 Mate XT 非凡大师三折叠手机预装鸿蒙 HarmonyOS 4.2 系统，不支持多设备任务流转功能](https://m.ithome.com/html/795008.htm)
+
++ [海外版苹果 iPhone 16 / Pro 系列升级 MagSafe 无线快充：功率达 25W，超越 15W Qi2 技术](https://m.ithome.com/html/794965.htm)
+
