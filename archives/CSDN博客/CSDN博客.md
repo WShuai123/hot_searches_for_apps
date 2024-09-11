@@ -167,3 +167,23 @@
 
 + [二、Android Studio集成ffmpeg so](https://blog.csdn.net/Y_15751004297/article/details/142073060)
 
++ [RAG系统的7个检索指标：信息检索任务准确性评估指南](https://blog.csdn.net/m0_46510245/article/details/142131349)
+
++ [conda、anaconda、pip、torch、pytorch、tensorflow到底是什么东西？（转载自本人的知乎回答）](https://blog.csdn.net/qq_35837578/article/details/142092326)
+
++ [我与Linux的爱恋：自动化构建工具-make/Makefile](https://blog.csdn.net/bskmns/article/details/142035208)
+
++ [Spring Boot 执行流程已经 负载均衡执行流程图](https://blog.csdn.net/qq_35915504/article/details/142105009)
+
++ [SprinBoot+Vue基于推荐算法的智能书店的设计与实现](https://blog.csdn.net/ZGL_cyy/article/details/142094809)
+
++ [遗传算法与深度学习实战（12）——粒子群优化详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/142121266)
+
++ [基于ssm+vue+uniapp的电影交流平台小程序](https://blog.csdn.net/shmp54/article/details/142109860)
+
++ [NISP 一级 | 3.2 网络安全威胁](https://blog.csdn.net/m0_73360524/article/details/142033087)
+
++ [数学建模笔记—— 蒙特卡罗法](https://blog.csdn.net/lbm666666/article/details/142110505)
+
++ [瑞芯微RK3566鸿蒙开发板OpenHarmony标准系统应用兼容性测试指导](https://blog.csdn.net/Industio_CSDN/article/details/142094542)
+

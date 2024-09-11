@@ -53,3 +53,5 @@
 
 + [新大众帕萨特 Pro 上市：双前脸设计，限时一口价 18.99 万起](https://m.ithome.com/html/794915.htm)
 
++ [华为 Mate XT 三折叠手机搭载星闪连接技术，屏幕支持 90Hz 高刷](https://m.ithome.com/html/794848.htm)
+
