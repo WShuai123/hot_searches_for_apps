@@ -101,3 +101,9 @@
 
 + [无人机动力系统设计之桨叶推力计算](https://blog.csdn.net/lida2003/article/details/142047660)
 
++ [【人工智能】枢纽：数据驱动洞察引领未来智能系统](https://blog.csdn.net/LZX521314ok/article/details/142105640)
+
++ [教学辅助微信小程序|基于SSM+vue的高校教学微信小程序系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/142097437)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142127968)
+
