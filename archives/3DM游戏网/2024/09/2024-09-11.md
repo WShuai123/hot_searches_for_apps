@@ -315,3 +315,7 @@
 
 + [Bungie庆祝《命运》10周年并开拓新前线](https://www.3dmgame.com/news/202409/3903964.html)
 
++ [帧率还是画面？PS5 Pro想两者都要](https://www.3dmgame.com/news/202409/3903968.html)
+
++ [《艾尔登法环》1.14更新上线 DLC最终Boss难度削弱](https://www.3dmgame.com/news/202409/3903966.html)
+
