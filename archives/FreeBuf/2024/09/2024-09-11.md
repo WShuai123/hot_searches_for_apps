@@ -41,3 +41,9 @@
 
 + [现实世界中的间接提示注入：人们如何操纵神经网络](https://www.freebuf.com/articles/paper/409159.html)
 
++ [WhatsApp漏洞允许攻击者多次查看“阅后即焚”消息，目前已修复](https://www.freebuf.com/news/410675.html)
+
++ [FreeBuf早报 | Wifi路由器成为僵尸网络Quad7目标；去年美国加密货币诈骗超56亿](https://www.freebuf.com/news/410690.html)
+
++ [2024年推出的11个顶级漏洞悬赏项目](https://www.freebuf.com/news/409369.html)
+

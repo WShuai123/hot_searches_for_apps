@@ -115,3 +115,19 @@
 
 + [高价PS5 Pro引争议 玩家自制视频嘲讽索尼](https://www.3dmgame.com/news/202409/3903884.html)
 
++ [《美少女战士》木野真琴声优筱原惠美病逝 享年61岁](https://www.3dmgame.com/news/202409/3903893.html)
+
++ [分析称PS5 Pro定价高 但销量仍是PS4 Pro级别](https://www.3dmgame.com/news/202409/3903892.html)
+
++ [《飙酷车神：轰鸣盛典》和《飙酷车神2》将添加离线模式](https://www.3dmgame.com/news/202409/3903891.html)
+
++ [PSSR未来可将与PSVR2游戏配合启用](https://www.3dmgame.com/news/202409/3903890.html)
+
++ [PS5 Pro推出时 将有40-50款游戏为针对性增强](https://www.3dmgame.com/news/202409/3903889.html)
+
++ [《战锤40K：星际战士2》已售出200万份 游戏很好玩](https://www.3dmgame.com/news/202409/3903888.html)
+
++ [PS5 Pro 配备 2TB SSD 支持所有现有配件](https://www.3dmgame.com/news/202409/3903887.html)
+
++ [PS5 Pro主机介绍：GPU升级 更强大的光追！](https://www.3dmgame.com/news/202409/3903886.html)
+

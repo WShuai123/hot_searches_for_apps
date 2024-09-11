@@ -67,3 +67,5 @@
 
 + [Luna logo](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading Bot App](https://dribbble.com/shots/)
+
