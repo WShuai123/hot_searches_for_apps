@@ -51,3 +51,5 @@
 
 + [华为余承东宣布鸿蒙智行首款轿跑 SUV 智界 R7 开启小订：预售价 26.8 万元起， CLTC 续航 802km](https://m.ithome.com/html/794847.htm)
 
++ [新大众帕萨特 Pro 上市：双前脸设计，限时一口价 18.99 万起](https://m.ithome.com/html/794915.htm)
+

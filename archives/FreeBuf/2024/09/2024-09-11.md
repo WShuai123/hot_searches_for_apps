@@ -55,3 +55,5 @@
 
 + [WhatsApp“阅后即焚”功能曝漏洞，黑客可反复查看](https://www.freebuf.com/news/410675.html)
 
++ [卡巴斯基发布的 EDR 防护杀手，被勒索组织广泛使用](https://www.freebuf.com/news/410698.html)
+

@@ -177,3 +177,43 @@
 
 + [索尼前总裁：行业被裁员工应该去海滩玩一年](https://www.3dmgame.com/news/202409/3903913.html)
 
++ [《使命召唤21》PC配置需求 最低需GTX960/GTX1650](https://www.3dmgame.com/news/202408/3901933.html)
+
++ [《星刃》大获成功后 韩国厂商对单人游戏兴趣与日俱增](https://www.3dmgame.com/news/202408/3901931.html)
+
++ [苹果明年有大招 分析师看好iPhone 17系列](https://www.3dmgame.com/news/202408/3901932.html)
+
++ [小米汽车回应博主对撞测试：不严谨、不完整、不真实](https://www.3dmgame.com/news/202408/3901929.html)
+
++ [《怪物猎人：荒野》斩斧介绍 2025年正式发售](https://www.3dmgame.com/news/202408/3901930.html)
+
++ [《七键骑士》9月Steam抢先体验 栏位管理肉鸽元素新游](https://www.3dmgame.com/news/202408/3901927.html)
+
++ [《雷霆一击》社区举办慈善竞赛 为患癌玩家筹集药费](https://www.3dmgame.com/news/202408/3901928.html)
+
++ [《辐射》真人剧中有个创作团队都不知道的彩蛋 但玩家一眼就发现](https://www.3dmgame.com/news/202408/3901926.html)
+
++ [米哈游招聘开发者或制作3A游戏 采用虚幻引擎和写实风格](https://www.3dmgame.com/news/202408/3901925.html)
+
++ [48亿现金收购Silo AI后 AMD在欧洲市场有望超过NVIDIA](https://www.3dmgame.com/news/202408/3901924.html)
+
++ [沉浸式模拟游戏《火车场建造者》发售日公布 2024年9月17日推出](https://www.3dmgame.com/news/202408/3901922.html)
+
++ [大量《命运2》玩家被强制改名 且无法换回原名](https://www.3dmgame.com/news/202408/3901923.html)
+
++ [零售商泄露《漫威 vs. 卡普空格斗合集：经典街机》11月22日发售](https://www.3dmgame.com/news/202408/3901934.html)
+
++ [功耗降低、性能提升！我国科学家发明新型“热发射极”晶体管](https://www.3dmgame.com/news/202408/3901935.html)
+
++ [《龙腾世纪：影障守护者》广告泄露游戏将于10月31日发售 预购即将开启](https://www.3dmgame.com/news/202408/3901920.html)
+
++ [DualSenseTM无线控制器——为所有游戏玩家架起无障碍体验音乐的桥梁](https://www.3dmgame.com/news/202408/3901939.html)
+
++ [《精英阴阳师Miko》Steam试玩发布 肉鸽动作射击](https://www.3dmgame.com/news/202408/3901921.html)
+
++ [《风来的希炼6》官方提醒 游戏仍在开发先别急着雪藏](https://www.3dmgame.com/news/202408/3901938.html)
+
++ [敖厂长预计外媒IGN给《黑神话》评8分 大家拭目以待](https://www.3dmgame.com/news/202408/3901937.html)
+
++ [科技公司推出头部跟踪旋转椅：降低VR晕动症症状](https://www.3dmgame.com/news/202408/3901936.html)
+
