@@ -111,3 +111,19 @@
 
 + [Hubble Logo](https://dribbble.com/shots/)
 
++ [MediFile](https://dribbble.com/shots/)
+
++ [Musical Gorilla Logo](https://dribbble.com/shots/)
+
++ [SYNC — Online School Landing Design](https://dribbble.com/shots/)
+
++ [Flowspot](https://dribbble.com/shots/)
+
++ [Geometric Orangutan Face Logo](https://dribbble.com/shots/)
+
++ [Lawto - Law Firm About Us Website](https://dribbble.com/shots/)
+
++ [buzina: hero design](https://dribbble.com/shots/)
+
++ [Emblem/ Shield Logos](https://dribbble.com/shots/)
+

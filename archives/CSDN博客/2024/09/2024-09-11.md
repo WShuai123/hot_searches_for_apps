@@ -195,3 +195,15 @@
 
 + [基于Django的网上商城（小程序+PC端：用户+商家+管理员）](https://blog.csdn.net/qq_45714272/article/details/142103297)
 
++ [【腾讯云】AI驱动的数据库TDSQL-C如何是从0到1体验电商可视化分析小助手得统计功能，一句话就能输出目标统计图](https://blog.csdn.net/lmy_520/article/details/142108199)
+
++ [教学辅助微信小程序|基于SSM+vue的高校教学微信小程序系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/142097437)
+
++ [【网络】TCP/IP五层网络模型：应用层](https://blog.csdn.net/Yeeear/article/details/142133138)
+
++ [【【通信协议之ARP的FPGA实现其一】】](https://blog.csdn.net/weixin_50965981/article/details/142108971)
+
++ [Redis复习笔记整理](https://blog.csdn.net/weixin_44187963/article/details/142099839)
+
++ [外包干了三年，快要废了。。。](https://blog.csdn.net/HUA6911/article/details/142107404)
+

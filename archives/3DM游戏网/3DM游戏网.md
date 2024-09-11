@@ -287,3 +287,19 @@
 
 + [外媒提前试玩PS5 Pro：《最终幻想7：重生》画质帧率大提升](https://www.3dmgame.com/news/202409/3903946.html)
 
++ [“SEGA感恩回馈促销”活动火热进行中！《女神异闻录３ Reload》参与优惠！](https://www.3dmgame.com/news/202409/3903959.html)
+
++ [《动物海湾》登陆Steam 开放世界生活模拟](https://www.3dmgame.com/news/202409/3903958.html)
+
++ [宝可梦宣布与上海美术电影制片厂合作 推出动画短片《但愿梦长久》](https://www.3dmgame.com/news/202409/3903957.html)
+
++ [科乐美公布参展东京电玩展概要 名作重制版登场](https://www.3dmgame.com/news/202409/3903956.html)
+
++ [苹果发布iPhone 16：二手iPhone 14/15搜索量暴涨101%！](https://www.3dmgame.com/news/202409/3903955.html)
+
++ [XGP主机基础会员移除包括《星空》40多款游戏访问权限](https://www.3dmgame.com/news/202409/3903954.html)
+
++ [我国第一款不锈钢火箭 朱雀三号完成1万米垂直起降飞行](https://www.3dmgame.com/news/202409/3903953.html)
+
++ [网友偶遇黄仁勋：美国海底捞“兼职”甩面](https://www.3dmgame.com/news/202409/3903952.html)
+

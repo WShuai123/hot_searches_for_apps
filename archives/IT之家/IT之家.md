@@ -67,3 +67,7 @@
 
 + [海外版苹果 iPhone 16 / Pro 系列升级 MagSafe 无线快充：功率达 25W，超越 15W Qi2 技术](https://m.ithome.com/html/794965.htm)
 
++ [滴滴称今年上半年垫付 1.29 亿元给司机，均为乘客未支付车费](https://m.ithome.com/html/794895.htm)
+
++ [车主关门就走，理想 L9 自动泊车失败开到马路上](https://m.ithome.com/html/795042.htm)
+
