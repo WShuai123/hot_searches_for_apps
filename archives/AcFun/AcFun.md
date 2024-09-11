@@ -69,3 +69,5 @@
 
 + [雯雯不是肥宅......(今日开心视频：1539)](http://www.acfun.cn/v/ac46238495)
 
++ [【东方】Colored garden【ぱらどっと Colour Bass  Artcore】](http://www.acfun.cn/v/ac46234637)
+

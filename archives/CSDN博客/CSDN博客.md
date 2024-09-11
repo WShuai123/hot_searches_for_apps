@@ -131,3 +131,5 @@
 
 + [[Linux#48][网络] 令牌环网 | IPv4 | socket 套接字 | TCP | UDP | 网络字节序列](https://blog.csdn.net/2301_80171004/article/details/142125276)
 
++ [ACPI是什么？最新的V6.5有哪些更新？](https://blog.csdn.net/lenovo_E520/article/details/142105357)
+
