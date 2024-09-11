@@ -149,3 +149,13 @@
 
 + [国行 iPhone 15 Pro 开启苹果 Apple Intelligence 教程](https://blog.csdn.net/imacosx_cn/article/details/142071257)
 
++ [【FFmpeg】SDL 音视频开发 ⑦ ( SDL 播放 PCM 音频数据 | 提取 PCM 格式数据 | 设置音频参数 | 打开音频设备 | 设置播放回调函数 | 播放音频数据 | 关闭音频设备 )](https://blog.csdn.net/han1202012/article/details/141950997)
+
++ [Spring Boot 注解探秘：JSON 处理的魔法世界](https://blog.csdn.net/weixin_45593273/article/details/142110152)
+
++ [【Linux系统学习】5.Linux实用操作 下](https://blog.csdn.net/weixin_69595694/article/details/136086657)
+
++ [【Unity面经】性能优化篇](https://blog.csdn.net/m0_64128218/article/details/142005126)
+
++ [【人工智能】枢纽：数据驱动洞察引领未来智能系统](https://blog.csdn.net/LZX521314ok/article/details/142105640)
+

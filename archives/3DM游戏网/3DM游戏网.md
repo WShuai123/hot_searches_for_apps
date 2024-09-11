@@ -131,3 +131,27 @@
 
 + [PS5 Pro主机介绍：GPU升级 更强大的光追！](https://www.3dmgame.com/news/202409/3903886.html)
 
++ [M站《宇宙机器人》用户评分9.5 今年最好游戏成绩](https://www.3dmgame.com/news/202409/3903900.html)
+
++ [日本环球影城《生化危机》表演活动视频 逼真还原游戏](https://www.3dmgame.com/news/202409/3903901.html)
+
++ [IGN调查：超86%的玩家不买PS5 Pro 太贵了](https://www.3dmgame.com/news/202409/3903902.html)
+
++ [4X战略游戏《群星》全新DLC“宇宙风暴”正式推出 已获多半好评](https://www.3dmgame.com/news/202409/3903904.html)
+
++ [《喷漆模拟》Steam上线 自由创建色彩斑斓世界](https://www.3dmgame.com/news/202409/3903903.html)
+
++ [动视确认《使命召唤：黑色行动6》不会进行单人战役抢先体验](https://www.3dmgame.com/news/202409/3903905.html)
+
++ [《变形金刚：起源》中文海报 中秋开启限时点映](https://www.3dmgame.com/news/202409/3903894.html)
+
++ [《RetroBlazer》Steam页面上线 卡通渲染复古FPS](https://www.3dmgame.com/news/202409/3903895.html)
+
++ [PS5 Pro和PS5规格对比 GPU相当于RX 6800水平](https://www.3dmgame.com/news/202409/3903896.html)
+
++ [抢先体验版推出5年后 开放世界合作建造游戏《幸福工厂》推出1.0正式版](https://www.3dmgame.com/news/202409/3903897.html)
+
++ [联合创始人主播被爆丑闻 游戏工作室被迫裁掉一半员工](https://www.3dmgame.com/news/202409/3903898.html)
+
++ [《死亡岛2》免费更新“邻里守望”10月22日上线 终极版同步发售](https://www.3dmgame.com/news/202409/3903899.html)
+
