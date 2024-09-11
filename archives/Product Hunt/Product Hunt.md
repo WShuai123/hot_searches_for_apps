@@ -103,3 +103,5 @@
 
 + [Something from Your Mind](https://www.producthunt.com/posts/something-from-your-mind)
 
++ [MIDIGEN: Melody Generator](https://www.producthunt.com/posts/midigen-melody-generator)
+

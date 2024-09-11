@@ -103,3 +103,13 @@
 
 + [PS+欧美服9月中旬会免游戏阵容：《孤岛惊魂5》等](https://www.3dmgame.com/news/202409/3903974.html)
 
++ [《幻兽帕鲁》或将在东京电玩展公布PS5版](https://www.3dmgame.com/news/202409/3903979.html)
+
++ [网飞青春系动画《当哒当》确定10月4日开播](https://www.3dmgame.com/news/202409/3903976.html)
+
++ [《红色沙漠》1小时演示公开广阔世界与激烈战斗](https://www.3dmgame.com/news/202409/3903978.html)
+
++ [英伟达公布PC版《最终幻想16》拯救预告](https://www.3dmgame.com/news/202409/3903977.html)
+
++ [《Piczle Cross 符文工房》明天登陆Steam及Switch](https://www.3dmgame.com/news/202409/3903975.html)
+
