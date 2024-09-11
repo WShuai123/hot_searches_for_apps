@@ -305,3 +305,13 @@
 
 + [《索尼克×夏特 世代重启》将在“东京电玩展2024”世嘉／ATLUS展位中出展](https://www.3dmgame.com/news/202409/3903960.html)
 
++ [索尼将开卖二手翻新PS5 价格只有PS5 Pro的一半](https://www.3dmgame.com/news/202409/3903965.html)
+
++ [贾跃亭称苹果正变得平庸：离开乔布斯像失去灵魂的巨人](https://www.3dmgame.com/news/202409/3903961.html)
+
++ [东京电玩展2024世嘉 ATLUS展区出展资讯公开！](https://www.3dmgame.com/news/202409/3903962.html)
+
++ [杨幂开箱上手华为MateXT非凡大师三折叠 横竖都好用](https://www.3dmgame.com/news/202409/3903963.html)
+
++ [Bungie庆祝《命运》10周年并开拓新前线](https://www.3dmgame.com/news/202409/3903964.html)
+
