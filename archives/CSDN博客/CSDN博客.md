@@ -137,3 +137,5 @@
 
 + [Unity 摄像机（Camera）详解](https://blog.csdn.net/weixin_45136016/article/details/141875261)
 
++ [828华为云征文｜华为云Flexus云服务器X实例之openEuler系统下部署Gitea服务器](https://blog.csdn.net/jks212454/article/details/141935255)
+
