@@ -155,3 +155,25 @@
 
 + [《死亡岛2》免费更新“邻里守望”10月22日上线 终极版同步发售](https://www.3dmgame.com/news/202409/3903899.html)
 
++ [2D动作精确平台游戏《Haneda Girl》Steam页面公布 发行日期待定](https://www.3dmgame.com/news/202409/3903914.html)
+
++ [《蜘蛛侠：超越宇宙》制片人回应电影陷入困境传闻：没有任何东西被取消](https://www.3dmgame.com/news/202409/3903915.html)
+
++ [两部作品同时入选竞争杂志封面 漫画家西修感叹高光受不起](https://www.3dmgame.com/news/202409/3903916.html)
+
++ [《地铁站设计师》Steam页面开放 2025年发行](https://www.3dmgame.com/news/202409/3903908.html)
+
++ [科乐美确定《合金装备：大师合集2》正在筹备中 具体内容待定](https://www.3dmgame.com/news/202409/3903906.html)
+
++ [快节奏第一人称动作射击游戏《我是你的野兽》正式推出 获特别好评](https://www.3dmgame.com/news/202409/3903907.html)
+
++ [外媒大赞《GTA6》女主形象：打破GTA系列对女性偏见](https://www.3dmgame.com/news/202409/3903909.html)
+
++ [《坦克世界》联动hololive 7位人气虚拟偶像乱入参战](https://www.3dmgame.com/news/202409/3903910.html)
+
++ [贵还是便宜？PS5 Pro和当今主流游戏机价格对比](https://www.3dmgame.com/news/202409/3903911.html)
+
++ [坤哥爆料：任天堂即将发布五个Switch主机游戏捆绑包](https://www.3dmgame.com/news/202409/3903912.html)
+
++ [索尼前总裁：行业被裁员工应该去海滩玩一年](https://www.3dmgame.com/news/202409/3903913.html)
+
