@@ -163,3 +163,7 @@
 
 + [数学建模笔记—— 多目标规划](https://blog.csdn.net/lbm666666/article/details/142110551)
 
++ [openGauss 数据库管理工具：DataKit 6.0 部署与配置实战](https://blog.csdn.net/GaussDB/article/details/142047753)
+
++ [二、Android Studio集成ffmpeg so](https://blog.csdn.net/Y_15751004297/article/details/142073060)
+

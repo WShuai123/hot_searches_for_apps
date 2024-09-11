@@ -57,3 +57,5 @@
 
 + [卡巴斯基发布的 EDR 防护杀手，被勒索组织广泛使用](https://www.freebuf.com/news/410698.html)
 
++ [攻防演练 | 某医院内网遨游](https://www.freebuf.com/defense/409407.html)
+

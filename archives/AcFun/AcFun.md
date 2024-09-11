@@ -81,3 +81,5 @@
 
 + [【东方】Masked bitcH【古明地觉 黑白风MMD】](http://www.acfun.cn/v/ac46229619)
 
++ [还是有点放不开啊！★手机竖屏1270★](http://www.acfun.cn/v/ac46233787)
+
