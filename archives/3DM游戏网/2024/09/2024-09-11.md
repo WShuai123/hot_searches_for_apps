@@ -325,3 +325,5 @@
 
 + [除了PS5 Pro强化补丁外 《龙之信条2》还有面向全平台的更新](https://www.3dmgame.com/news/202409/3903967.html)
 
++ [大宇出售《仙剑奇侠传》《轩辕剑》IP 交易额约5亿台币](https://www.3dmgame.com/news/202409/3903971.html)
+
