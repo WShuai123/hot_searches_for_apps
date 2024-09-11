@@ -101,3 +101,5 @@
 
 + [科技动作第一人称射击游戏《RetroBlazer》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202409/3903920.html)
 
++ [PS+欧美服9月中旬会免游戏阵容：《孤岛惊魂5》等](https://www.3dmgame.com/news/202409/3903974.html)
+

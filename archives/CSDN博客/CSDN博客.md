@@ -107,3 +107,27 @@
 
 + [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142127968)
 
++ [【人工智能】Transformers之Pipeline（十七）：文本分类（text-classification）](https://blog.csdn.net/weixin_48007632/article/details/142146783)
+
++ [[项目][WebServer][项目介绍及知识铺垫][上]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142055868)
+
++ [Python 数学建模——独立性检验](https://blog.csdn.net/weixin_72137075/article/details/142096488)
+
++ [[Web安全 网络安全]-文件上传漏洞](https://blog.csdn.net/liu17234050/article/details/142036471)
+
++ [实现一个基于 Spring Boot 和 Vue.js 的实时消息推送系统](https://blog.csdn.net/qq_21484461/article/details/140702122)
+
++ [IllegalStateException：Method has been Invoked at an Illegal or Inappropriate Time 完美解决方法](https://blog.csdn.net/qq_42055933/article/details/141760495)
+
++ [docker操作&问题总结](https://blog.csdn.net/John_ToStr/article/details/142102718)
+
++ [微服务实战系列之玩转Docker（十四）](https://blog.csdn.net/splendid_java/article/details/141990175)
+
++ [免费SSL证书的利弊分析](https://blog.csdn.net/bilicute/article/details/142094784)
+
++ [【Linux系统学习】5.Linux实用操作 下](https://blog.csdn.net/weixin_69595694/article/details/136086657)
+
++ [专业学习计划（校内社团使用）](https://blog.csdn.net/2301_81149071/article/details/142110084)
+
++ [[Linux#48][网络] 令牌环网 | IPv4 | socket 套接字 | TCP | UDP | 网络字节序列](https://blog.csdn.net/2301_80171004/article/details/142125276)
+
