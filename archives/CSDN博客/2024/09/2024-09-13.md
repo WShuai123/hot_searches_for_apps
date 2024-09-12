@@ -139,3 +139,5 @@
 
 + [Python自带日志库实现springboot彩色效果](https://blog.csdn.net/weixin_45411898/article/details/142073377)
 
++ [[论文笔记]MEMORAG: MOVING TOWARDS NEXT-GEN RAG VIA MEMORY-INSPIRED KNOWLEDGE DISCOVERY](https://blog.csdn.net/yjw123456/article/details/142182522)
+
