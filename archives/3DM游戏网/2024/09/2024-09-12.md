@@ -243,3 +243,7 @@
 
 + [关注青少年霸凌问题的视觉小说游戏《阳光照在我们身上》已推出试玩Demo](https://www.3dmgame.com/news/202409/3904026.html)
 
++ [六小龄童谈黑神话热潮：吴承恩的《西游记》被人记住](https://www.3dmgame.com/news/202409/3904046.html)
+
++ [《幽霾》steam免费测试开启！探索跑团、多人冒险与狼人杀式身份对抗！](https://www.3dmgame.com/news/202409/3904045.html)
+

@@ -189,3 +189,9 @@
 
 + [数学公式篇](https://blog.csdn.net/joeqinyu/article/details/142139788)
 
++ [【数学建模国赛】写作心得](https://blog.csdn.net/2301_81874719/article/details/141436952)
+
++ [大模型预训练技巧](https://blog.csdn.net/shibing624/article/details/142172262)
+
++ [鸿蒙交互事件开发04——手势事件](https://blog.csdn.net/harmonyClassRoom/article/details/142152481)
+

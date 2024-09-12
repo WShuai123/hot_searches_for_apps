@@ -63,3 +63,9 @@
 
 + [锂电池机房着火超30个小时，阿里云字节服务宕机，AWS趁火打劫？](https://www.freebuf.com/articles/410871.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [数据安全治理——基于分类分级的权限收敛实践](https://www.freebuf.com/articles/database/409254.html)
+
++ [阿里云机房着火超30个小时，云服务宕机，AWS趁火打劫？](https://www.freebuf.com/articles/410871.html)
+

@@ -137,3 +137,5 @@
 
 + [ContentRadar](https://www.producthunt.com/posts/contentradar)
 
++ [Zight AI](https://www.producthunt.com/posts/zight-ai)
+
