@@ -247,3 +247,23 @@
 
 + [《幽霾》steam免费测试开启！探索跑团、多人冒险与狼人杀式身份对抗！](https://www.3dmgame.com/news/202409/3904045.html)
 
++ [PS5发布24.06-10.00.00系统更新：手柄自适应充电功能实装](https://www.3dmgame.com/news/202409/3904055.html)
+
++ [阿里25周年胡彦斌献唱《红颜》：“愿来世做牛马”让打工人破防](https://www.3dmgame.com/news/202409/3904053.html)
+
++ [《剑风传奇》第三方宣布制作全新动画 版权官方声明未授权](https://www.3dmgame.com/news/202409/3904056.html)
+
++ [更多折磨！ 合作平台跳跃《链在一起》现已推出地图编辑器](https://www.3dmgame.com/news/202409/3904054.html)
+
++ [《完蛋！我被美女包围了！前传》Steam页面上线 年内发售](https://www.3dmgame.com/news/202409/3904052.html)
+
++ [越南玩家感慨：我们啥时候能做出《黑神话》这样的大作](https://www.3dmgame.com/news/202409/3904051.html)
+
++ [iPhone16在中国面临重大挑战 AI中文版明年才上线](https://www.3dmgame.com/news/202409/3904050.html)
+
++ [免费单机大世界 《新倩女幽魂》联动道诡异仙9月19日上线](https://www.3dmgame.com/news/202409/3904049.html)
+
++ [《电锯甜心RePOP》发售预告 Steam国区首发294元](https://www.3dmgame.com/news/202409/3904048.html)
+
++ [索尼非常重视《宇宙机器人》系列：将更专注家庭市场](https://www.3dmgame.com/news/202409/3904047.html)
+
