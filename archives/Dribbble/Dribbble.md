@@ -143,3 +143,15 @@
 
 + [b2b SaaS](https://dribbble.com/shots/)
 
++ [Abstract Marks Part 2 - 10 Years of Logo Design](https://dribbble.com/shots/)
+
++ [Coconut agency logotype](https://dribbble.com/shots/)
+
++ [Bento Cards v.4 – E-Commerce](https://dribbble.com/shots/)
+
++ [Lucky hunter cat logo](https://dribbble.com/shots/)
+
++ [AI News](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Branded Graphic #1](https://dribbble.com/shots/)
+
