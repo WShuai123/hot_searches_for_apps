@@ -159,3 +159,13 @@
 
 + [uni-app开发微信小程序](https://blog.csdn.net/Min_nna/article/details/142137611)
 
++ [《OpenCV计算机视觉》—— 身份证号码识别案例](https://blog.csdn.net/weixin_73504499/article/details/142141035)
+
++ [【白话Spring】三级缓存](https://blog.csdn.net/qq_22129643/article/details/142137210)
+
++ [Spring自定义注解](https://blog.csdn.net/hang_sa_mu/article/details/142151209)
+
++ [【移动端】安卓、IOS线程分类](https://blog.csdn.net/weixin_44231544/article/details/141610101)
+
++ [文章-深入GPU硬件架构及运行机制 学习后记](https://blog.csdn.net/awsl_tsl/article/details/142141987)
+

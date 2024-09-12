@@ -37,3 +37,11 @@
 
 + [仅次于光刻、我国半导体制造核心技术突破，核力创芯首批氢离子注入性能优化芯片产品交付](https://m.ithome.com/html/794991.htm)
 
++ [苹果公布 iOS / iPadOS 18 完整新功能 / 特性：250 多项，实时语音留言扩展支持普通话](https://m.ithome.com/html/795219.htm)
+
++ [微信下架《重返 1990 之首富人生》等 479 部违规微短剧，低俗、违背伦理等](https://m.ithome.com/html/795156.htm)
+
++ [美版苹果 iPhone 16 Pro 实测：5G 下载超 400 Mbps、平均增幅 23.7%，上传超 30 Mbps、平均增幅 22.1%](https://m.ithome.com/html/795234.htm)
+
++ [消息称 OPPO 系全面落地 6500mAh 大电池，之后还有 7000mAh](https://m.ithome.com/html/795190.htm)
+

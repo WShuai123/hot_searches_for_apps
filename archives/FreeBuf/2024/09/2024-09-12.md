@@ -49,3 +49,5 @@
 
 + [攻防利器 | openCTI开源威胁情报管理平台的思考与详细部署](https://www.freebuf.com/sectool/410121.html)
 
++ [当心！有攻击者伪装成招聘者诱导开发人员执行恶意代码](https://www.freebuf.com/news/410804.html)
+

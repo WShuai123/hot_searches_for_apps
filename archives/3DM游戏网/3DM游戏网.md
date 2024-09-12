@@ -175,3 +175,13 @@
 
 + [《绝地求生》手游版联动《尼尔》2B等衣装皮肤登场](https://www.3dmgame.com/news/202409/3903997.html)
 
++ [第一人称剑术多人对战游戏《Swordai》即将开始测试](https://www.3dmgame.com/news/202409/3904012.html)
+
++ [巴黎圣母院12月8日开放 耗费已超50亿仍未完全竣工](https://www.3dmgame.com/news/202409/3904014.html)
+
++ [零售商GameStop大量店面关门 Q2销售额大幅下降](https://www.3dmgame.com/news/202409/3904015.html)
+
++ [《北海道连续杀人事件》登陆PC/NS 堀井雄二原作](https://www.3dmgame.com/news/202409/3904013.html)
+
++ [数据显示：超八成PS5玩家玩游戏更喜欢性能模式](https://www.3dmgame.com/news/202409/3904011.html)
+
