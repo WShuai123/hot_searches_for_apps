@@ -101,3 +101,9 @@
 
 + [大模型预训练技巧](https://blog.csdn.net/shibing624/article/details/142172262)
 
++ [对话 ClickHouse 创始人 Alexey：不仅是数据库，所有的数据处理系统都能从 AI 受益](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142143364)
+
++ [【Kafka】分区与复制机制：解锁高性能与容错的密钥](https://blog.csdn.net/weixin_53269650/article/details/142059918)
+
++ [本地Linux服务器使用docker搭建DashDot并实现公网实时监测服务器信息](https://blog.csdn.net/ljq_up/article/details/142096383)
+
