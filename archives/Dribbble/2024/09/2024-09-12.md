@@ -83,3 +83,19 @@
 
 + [La Palma Branding and Packaging Design](https://dribbble.com/shots/)
 
++ [Stretches & Scratches](https://dribbble.com/shots/)
+
++ [Kinetic logos, logo design, brand identity, branding](https://dribbble.com/shots/)
+
++ [Trippin' - Trip Planner & Booking App UI/UX and Branding 😎](https://dribbble.com/shots/)
+
++ [Neuera : Digital Agency - Landing Page Website](https://dribbble.com/shots/)
+
++ [Ride Sharing Mobile App - Confirm Payment Booked 💸](https://dribbble.com/shots/)
+
++ [Paytroll - Banking Dashboard](https://dribbble.com/shots/)
+
++ [Trenning - Create Learning Material Pages with AI in a SaaS LMS](https://dribbble.com/shots/)
+
++ [Grancarty - Grocery Store Mobile App UI Kit](https://dribbble.com/shots/)
+

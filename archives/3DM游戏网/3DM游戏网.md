@@ -203,3 +203,43 @@
 
 + [欧洲消费者组织指控游戏公司“诱导玩家消费”  EA等被点名](https://www.3dmgame.com/news/202409/3904016.html)
 
++ [任天堂博物馆最新主题“展品”：皮卡丘主题窨井盖](https://www.3dmgame.com/news/202409/3904040.html)
+
++ [《数码方块地球防卫军2》宣布登陆PC 9月26日发售](https://www.3dmgame.com/news/202409/3904041.html)
+
++ [电子茅台！网友89999元在得物预订华为Mate XT非凡大师：你会买溢价手机吗](https://www.3dmgame.com/news/202409/3904042.html)
+
++ [4706米 我国建成启用世界海拔最高北斗探空站](https://www.3dmgame.com/news/202409/3904043.html)
+
++ [《拆除与建造3》登陆Steam 工程拆迁模拟器](https://www.3dmgame.com/news/202409/3904044.html)
+
++ [《英雄传说：界之轨迹》新角色公开：结社“噬身之蛇”的执行者](https://www.3dmgame.com/news/202409/3904036.html)
+
++ [轴测视角视觉小说游戏《NOOK FALL：西区》Steam页面公布 发行日期待定](https://www.3dmgame.com/news/202409/3904038.html)
+
++ [开发者郁闷免费游戏都没人玩 原因分析有点难](https://www.3dmgame.com/news/202409/3904037.html)
+
++ [微软正在恢复自Xbox 360时代一直缺失的双向好友请求功能](https://www.3dmgame.com/news/202409/3904039.html)
+
++ [《枪火重生》DLC「墨雪画境」携新赛季上线 全新角色武器来袭](https://www.3dmgame.com/news/202409/3904031.html)
+
++ [冒险游戏《Sa[meow]rai：银翼喵侍》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3904035.html)
+
++ [国产CRPG《动物迷城》狐狸线已完结，新角色明年上线](https://www.3dmgame.com/news/202409/3904032.html)
+
++ [玩个球啊！编程解谜游戏《Line Time》今日正式发售](https://www.3dmgame.com/news/202409/3904033.html)
+
++ [《绝地潜兵2》更新预览：电磁炮伤害翻了近4倍](https://www.3dmgame.com/news/202409/3904034.html)
+
++ [《奇怪的游泳池》Steam上线 类8番出口惊悚解谜](https://www.3dmgame.com/news/202409/3904027.html)
+
++ [《原神》基尼奇角色PV——「生意」](https://www.3dmgame.com/news/202409/3904028.html)
+
++ [任天堂发布《塞尔达传说：智慧的再现》新CM 9月26日发售](https://www.3dmgame.com/news/202409/3904029.html)
+
++ [《好兆头》第三季宣布暂停制作 尼尔·盖曼提出将离开剧组](https://www.3dmgame.com/news/202409/3904030.html)
+
++ [分析师：微软十年后将占据400亿美元云游戏市场主导地位](https://www.3dmgame.com/news/202409/3904025.html)
+
++ [关注青少年霸凌问题的视觉小说游戏《阳光照在我们身上》已推出试玩Demo](https://www.3dmgame.com/news/202409/3904026.html)
+

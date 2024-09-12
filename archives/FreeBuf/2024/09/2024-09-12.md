@@ -61,3 +61,5 @@
 
 + [针对程序猿的新型骗局，黑客借招聘Python传播恶意软件](https://www.freebuf.com/news/410804.html)
 
++ [锂电池机房着火超30个小时，阿里云字节服务宕机，AWS趁火打劫？](https://www.freebuf.com/articles/410871.html)
+
