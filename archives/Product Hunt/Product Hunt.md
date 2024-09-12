@@ -107,3 +107,33 @@
 
 + [Nuenki](https://www.producthunt.com/posts/nuenki)
 
++ [Zigma by NextUI (YC S24)](https://www.producthunt.com/posts/zigma-by-nextui-yc-s24)
+
++ [Exportify](https://www.producthunt.com/posts/exportify-2)
+
++ [SpeedNote AI](https://www.producthunt.com/posts/speednote-ai)
+
++ [Youform](https://www.producthunt.com/posts/youform)
+
++ [Foundation](https://www.producthunt.com/posts/foundation-1cd06cfe-657f-4cdb-a9e0-014111982a0f)
+
++ [Emojify](https://www.producthunt.com/posts/emojify-bff19e65-becd-468b-adc2-c04ceb4fe618)
+
++ [Fujiyama](https://www.producthunt.com/posts/fujiyama)
+
++ [Pantry AId](https://www.producthunt.com/posts/pantry-aid)
+
++ [Airbounce for Mac](https://www.producthunt.com/posts/airbounce-for-mac)
+
++ [Embedded Recording SDK by Velt](https://www.producthunt.com/posts/embedded-recording-sdk-by-velt)
+
++ [Thunderbit](https://www.producthunt.com/posts/thunderbit)
+
++ [Ouro](https://www.producthunt.com/posts/ouro)
+
++ [Scrap.io Maps Connect](https://www.producthunt.com/posts/scrap-io-maps-connect)
+
++ [Sparky](https://www.producthunt.com/posts/sparky-2)
+
++ [ContentRadar](https://www.producthunt.com/posts/contentradar)
+

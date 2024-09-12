@@ -53,3 +53,11 @@
 
 + [Apache Log4j2 RCE命令执行漏洞分析](https://www.freebuf.com/vuls/410256.html)
 
++ [Invoke-Maldaptive：一款针对LDAP SearchFilter的安全分析工具](https://www.freebuf.com/sectool/410429.html)
+
++ [报名火热进行中 | WitAwards 2024网安年度评选](https://www.freebuf.com/articles/410789.html)
+
++ [为推送定制化广告，福特汽车新专利拟广泛采集驾驶员数据](https://www.freebuf.com/news/410857.html)
+
++ [针对程序猿的新型骗局，黑客借招聘Python传播恶意软件](https://www.freebuf.com/news/410804.html)
+
