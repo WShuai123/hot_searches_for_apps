@@ -139,3 +139,15 @@
 
 + [828华为云征文｜华为云Flexus云服务器X实例之openEuler系统下部署Gitea服务器](https://blog.csdn.net/jks212454/article/details/141935255)
 
++ [探索深度学习的奥秘：从理论到实践的奇幻之旅](https://blog.csdn.net/weixin_73295475/article/details/142144235)
+
++ [利用AI驱动智能BI数据可视化-深度评测Amazon Quicksight（三）](https://blog.csdn.net/m0_66628975/article/details/142151297)
+
++ [Redis 篇- 实战项目中使用 Redis 实现经典功能（异步秒杀商品、点赞功能、共同关注的好友、投喂功能）](https://blog.csdn.net/Tingfeng__/article/details/142109768)
+
++ [10个Python办公自动化案例](https://blog.csdn.net/m0_68111267/article/details/142077808)
+
++ [前端网络请求库：Axios](https://blog.csdn.net/m0_61619549/article/details/142058351)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/web22050702/article/details/142097696)
+

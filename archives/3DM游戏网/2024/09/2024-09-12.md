@@ -113,3 +113,19 @@
 
 + [《Piczle Cross 符文工房》明天登陆Steam及Switch](https://www.3dmgame.com/news/202409/3903975.html)
 
++ [《战锤40K：星际战士2》热修复补丁来了 优化高端CPU性能](https://www.3dmgame.com/news/202409/3903986.html)
+
++ [大烂片！《无主之地》电影全球票房仅为3100万美元](https://www.3dmgame.com/news/202409/3903987.html)
+
++ [《收获日3》表现不佳 游戏总监被换](https://www.3dmgame.com/news/202409/3903984.html)
+
++ [《战争之人2》离线模式开发进展：完成大半 10月初推出](https://www.3dmgame.com/news/202409/3903985.html)
+
++ [《戈德曼的永生》科隆展2024试玩实机内容展示](https://www.3dmgame.com/news/202409/3903980.html)
+
++ [40人平台格斗大逃杀《字节破坏者》面向PC公布](https://www.3dmgame.com/news/202409/3903981.html)
+
++ [Xbox Game Pass标准版推出 每月14.99美元](https://www.3dmgame.com/news/202409/3903982.html)
+
++ [《遗迹2》更新将提供免费Boss Rush模式](https://www.3dmgame.com/news/202409/3903983.html)
+
