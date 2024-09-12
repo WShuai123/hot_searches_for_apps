@@ -273,3 +273,5 @@
 
 + [周鸿祎称华为MateXT创新远超苹果：不打算买iPhone16](https://www.3dmgame.com/news/202409/3904059.html)
 
++ [微软游戏部门计划再裁员650人 开发部门不受影响](https://www.3dmgame.com/news/202409/3904060.html)
+
