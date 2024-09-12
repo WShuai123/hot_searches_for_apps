@@ -47,3 +47,5 @@
 
 + [WPS Office 0-day漏洞 CVE-2024-7262复现及软件安全特性对比](https://www.freebuf.com/vuls/409949.html)
 
++ [攻防利器 | openCTI开源威胁情报管理平台的思考与详细部署](https://www.freebuf.com/sectool/410121.html)
+

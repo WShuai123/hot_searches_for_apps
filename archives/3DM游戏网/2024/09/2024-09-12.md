@@ -135,3 +135,43 @@
 
 + [英特尔下一代中端CPU Ultra7 265KF性能已超i7-14700K](https://www.3dmgame.com/news/202409/3903988.html)
 
++ [华科大校长盛赞校友冯骥：打造《黑神话》火爆全球](https://www.3dmgame.com/news/202409/3904009.html)
+
++ [超写实画面FPS《Unrecord》开发商获250万美元融资](https://www.3dmgame.com/news/202409/3904010.html)
+
++ [《潜行者2》全新截图 杜伽雷达站黑暗且恐怖](https://www.3dmgame.com/news/202409/3904007.html)
+
++ [多人平台格斗游戏《Byte Breakers》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904008.html)
+
++ [PS5 Pro定价让日本PC商家嗅到商机 纷纷主推同价位游戏PC](https://www.3dmgame.com/news/202409/3904006.html)
+
++ [坤哥爆料：《足球经理2025》将于11月26日发售 月底开启预购](https://www.3dmgame.com/news/202409/3904004.html)
+
++ [《GTA6》在PS5 Pro上能以4K/60帧运行？数毛社认为不能](https://www.3dmgame.com/news/202409/3904002.html)
+
++ [《潜水员戴夫》开发商成为Nexon全资子公司](https://www.3dmgame.com/news/202409/3904005.html)
+
++ [土木老哥模拟器《拆建公司3》现已正式推出 获多半好评](https://www.3dmgame.com/news/202409/3904003.html)
+
++ [日本改编版水浒传宣布影视化 织田裕二演宋江](https://www.3dmgame.com/news/202409/3904001.html)
+
++ [像素风「团地」公寓冒险游戏《Danchi Days》Steam页面开放 2026年发售](https://www.3dmgame.com/news/202409/3903992.html)
+
++ [销量还是很好 PS5光驱已在亚马逊等平台售罄](https://www.3dmgame.com/news/202409/3903993.html)
+
++ [《合金装备3：重制版》为何拿掉小岛秀夫游戏标签](https://www.3dmgame.com/news/202409/3903991.html)
+
++ [《龙腾世纪：影幛守护者》同伴将具有独立探索能力 游戏包含拍照模式](https://www.3dmgame.com/news/202409/3903995.html)
+
++ [《优米雅的炼金工房》新实机演示 使用材料合成物品](https://www.3dmgame.com/news/202409/3903994.html)
+
++ [VALVE宣布全新的Steam家庭功能正式向所有用户推出](https://www.3dmgame.com/news/202409/3904000.html)
+
++ [PS5 Pro太贵？国外玩家讨论PC比PS5 Pro的优势](https://www.3dmgame.com/news/202409/3903996.html)
+
++ [全新Steam家庭功能正式上线：成员共享游戏库](https://www.3dmgame.com/news/202409/3903999.html)
+
++ [《绝地求生》发行商Krafton投资8900万美元给短视频平台](https://www.3dmgame.com/news/202409/3903998.html)
+
++ [《绝地求生》手游版联动《尼尔》2B等衣装皮肤登场](https://www.3dmgame.com/news/202409/3903997.html)
+
