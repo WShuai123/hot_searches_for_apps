@@ -31,3 +31,9 @@
 
 + [印度部长：印度产苹果 iPhone 16 将供应全球](https://m.ithome.com/html/795194.htm)
 
++ [26.8 万元起，鸿蒙智行轿跑 SUV 智界 R7 预售 24 小时小订破万台](https://m.ithome.com/html/795205.htm)
+
++ [京东计划 9 月完成鸿蒙原生应用正式版上架，采用多端统一开发解决方案 Taro](https://m.ithome.com/html/795180.htm)
+
++ [仅次于光刻、我国半导体制造核心技术突破，核力创芯首批氢离子注入性能优化芯片产品交付](https://m.ithome.com/html/794991.htm)
+

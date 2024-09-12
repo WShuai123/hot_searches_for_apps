@@ -129,3 +129,9 @@
 
 + [《遗迹2》更新将提供免费Boss Rush模式](https://www.3dmgame.com/news/202409/3903983.html)
 
++ [《使命召唤》工作室Raven起诉东家动视：给工会成员穿小鞋](https://www.3dmgame.com/news/202409/3903990.html)
+
++ [《NAGAISAN》登陆Steam 都市传说惊悚解谜](https://www.3dmgame.com/news/202409/3903989.html)
+
++ [英特尔下一代中端CPU Ultra7 265KF性能已超i7-14700K](https://www.3dmgame.com/news/202409/3903988.html)
+
