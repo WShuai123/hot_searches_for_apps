@@ -133,3 +133,9 @@
 
 + [瑞吉外卖—读写分离](https://blog.csdn.net/weixin_47373639/article/details/142135105)
 
++ [猫头虎分享：看完百度内部讲话，整理出李彦宏关于大模型的10个判断](https://blog.csdn.net/qq_44866828/article/details/142146714)
+
++ [如何本地部署Ganache并使用内网穿透配置公网地址远程连接测试网络](https://blog.csdn.net/weixin_58070962/article/details/142182742)
+
++ [Python自带日志库实现springboot彩色效果](https://blog.csdn.net/weixin_45411898/article/details/142073377)
+
