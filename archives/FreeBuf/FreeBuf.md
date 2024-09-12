@@ -51,3 +51,5 @@
 
 + [当心！有攻击者伪装成招聘者诱导开发人员执行恶意代码](https://www.freebuf.com/news/410804.html)
 
++ [Apache Log4j2 RCE命令执行漏洞分析](https://www.freebuf.com/vuls/410256.html)
+

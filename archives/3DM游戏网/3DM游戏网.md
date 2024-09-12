@@ -185,3 +185,21 @@
 
 + [数据显示：超八成PS5玩家玩游戏更喜欢性能模式](https://www.3dmgame.com/news/202409/3904011.html)
 
++ [走向世界！印度部长：印度产iPhone16将全球发售](https://www.3dmgame.com/news/202409/3904024.html)
+
++ [Epic回应《星际战士2》强制安装服务：所有多人游戏必须支持PC跨平台](https://www.3dmgame.com/news/202409/3904023.html)
+
++ [治愈系经营模拟游戏《地窖食堂》即将在Steam平台发售 9月15日正式推出](https://www.3dmgame.com/news/202409/3904022.html)
+
++ [网易《宝可梦大探险》国服宣布终止运营：2025年2月停服](https://www.3dmgame.com/news/202409/3904021.html)
+
++ [《勇者斗恶龙：怪物仙境3》登陆PC/手机 NS版打折优惠](https://www.3dmgame.com/news/202409/3904020.html)
+
++ [黄仁勋谈加速计算：NVIDIA可将应用程序速度提升100倍](https://www.3dmgame.com/news/202409/3904019.html)
+
++ [FromSoftware四年员工增长33% 并继续大规模招聘](https://www.3dmgame.com/news/202409/3904018.html)
+
++ [索尼克小组领导表示目前没有制作《索尼克大冒险3》的计划](https://www.3dmgame.com/news/202409/3904017.html)
+
++ [欧洲消费者组织指控游戏公司“诱导玩家消费”  EA等被点名](https://www.3dmgame.com/news/202409/3904016.html)
+

@@ -45,3 +45,5 @@
 
 + [消息称 OPPO 系全面落地 6500mAh 大电池，之后还有 7000mAh](https://m.ithome.com/html/795190.htm)
 
++ [苹果 iPhone 16 全系标配 Secure Exclave：M4 iPad Pro 同款隐私安全组件，硬件级提醒麦克风和摄像头使用](https://m.ithome.com/html/795238.htm)
+
