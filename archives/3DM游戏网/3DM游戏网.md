@@ -275,3 +275,11 @@
 
 + [微软游戏部门计划再裁员650人 开发部门不受影响](https://www.3dmgame.com/news/202409/3904060.html)
 
++ [《直到黎明：重制版》PC配置公布 需70GB硬盘空间](https://www.3dmgame.com/news/202409/3904064.html)
+
++ [谷歌创始人布林：工程师们用AI编程还不够多](https://www.3dmgame.com/news/202409/3904063.html)
+
++ [英特尔：下一代移动端CPU很强 打破ARM续航神话](https://www.3dmgame.com/news/202409/3904062.html)
+
++ [分析师：PS5 Pro是为超级粉丝准备的 能卖1500万台](https://www.3dmgame.com/news/202409/3904061.html)
+

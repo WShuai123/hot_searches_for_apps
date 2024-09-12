@@ -57,3 +57,9 @@
 
 + [天玑 9400、骁龙 8 Gen 4 参数全曝光，两大旗舰手机处理器年底正面对拼](https://m.ithome.com/html/795326.htm)
 
++ [消息称苹果 iPhone 16 目前实测充电峰值功率不超过 39W](https://m.ithome.com/html/795409.htm)
+
++ [杭州余杭通报“网约车走小路女子称被吓到跳车”：正在调查处置](https://m.ithome.com/html/795341.htm)
+
++ [猪八戒网回应“拖欠工资”，称已向大部分员工发薪，剩余小部分近期发放完毕](https://m.ithome.com/html/795197.htm)
+

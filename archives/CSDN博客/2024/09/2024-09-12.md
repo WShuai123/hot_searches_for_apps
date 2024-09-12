@@ -207,3 +207,11 @@
 
 + [学习pyqt5相关知识回顾](https://blog.csdn.net/m0_68716275/article/details/140177932)
 
++ [AIGC技术下的动画新纪元：效率与创意的双重飞跃](https://blog.csdn.net/qq_32682301/article/details/142179169)
+
++ [内网安全：反弹shell](https://blog.csdn.net/2301_80116443/article/details/142107894)
+
++ [Unity：类塔科夫，塔防网格构建](https://blog.csdn.net/m0_73727069/article/details/142104591)
+
++ [什么是CPU、GPU、NPU？（包懂+会）](https://blog.csdn.net/weixin_61944480/article/details/142145467)
+
