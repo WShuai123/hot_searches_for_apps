@@ -115,3 +115,83 @@
 
 + [逆袭神话！《黑神话》杨奇：从被剥夺学位到荣膺客座教授](https://www.3dmgame.com/news/202409/3904065.html)
 
++ [玩家晒商场街机在用19年前游戏机奖品 网友吐槽正常玩根本得不到](https://www.3dmgame.com/news/202401/3886281.html)
+
++ [韩国玩家喜新厌旧！RTX 4060彻底碾压RTX 3060](https://www.3dmgame.com/news/202401/3886282.html)
+
++ [《暗黑4》第二赛季玩家反馈最早第4赛季才会加入游戏中](https://www.3dmgame.com/news/202401/3886280.html)
+
++ [7600车位！中国最大清洁能源汽车运输船今日首航欧洲](https://www.3dmgame.com/news/202401/3886279.html)
+
++ [《Exodus》新概念艺术图 看起来像《质量效应》](https://www.3dmgame.com/news/202401/3886268.html)
+
++ [《异形》前传性质电视剧制作人表示 将忽略前传电影《普罗米修斯》](https://www.3dmgame.com/news/202401/3886278.html)
+
++ [AI游戏探索 AI原生游戏《1001夜》Steam页面](https://www.3dmgame.com/news/202401/3886275.html)
+
++ [硬核武侠动作游戏《乂闻录：轮回》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202401/3886285.html)
+
++ [《女绿巨人》主演透露 漫威对第二季制作并不热衷](https://www.3dmgame.com/news/202401/3886272.html)
+
++ [欧洲12月销量榜：《阿凡达：潘多拉边境》首发第六](https://www.3dmgame.com/news/202401/3886274.html)
+
++ [制作人解释为何首先重制《女神异闻录3》：玩家呼声最高](https://www.3dmgame.com/news/202401/3886271.html)
+
++ [《威利船长》上架PC平台 迪士尼《汽船威利》衍生恐怖冒险游戏](https://www.3dmgame.com/news/202401/3886270.html)
+
++ [中手游《仙剑世界》Steam页面上线 发售日期待定](https://www.3dmgame.com/news/202401/3886269.html)
+
++ [《风骚律师》艾美提名53次未获奖 导演：新记录！](https://www.3dmgame.com/news/202401/3886283.html)
+
++ [OpenAI新动作 收集民调确保AI大模型与人类价值观保持一致](https://www.3dmgame.com/news/202401/3886276.html)
+
++ [《博德之门3》Steam玩家发现 通关第一章的玩家数不足一半](https://www.3dmgame.com/news/202401/3886284.html)
+
++ [《孤岛惊魂》衍生作 育碧《激光战鹰队长：Niji Warrior》通过评级](https://www.3dmgame.com/news/202401/3886277.html)
+
++ [“Xbox之父”展示原版主机原型开发机：长得像PC](https://www.3dmgame.com/news/202401/3886267.html)
+
++ [《最终幻想14》新生活品将实装 之前热议粗劣葡萄回归](https://www.3dmgame.com/news/202401/3886287.html)
+
++ [《火影忍者：终极风暴羁绊》首位DLC角色“大筒木羽衣”公布 上线时间待定](https://www.3dmgame.com/news/202401/3886286.html)
+
++ [国产游戏《幼兽帕帕》上架Steam 《幻兽帕鲁》山寨版？](https://www.3dmgame.com/news/202408/3901346.html)
+
++ [《Dollmare》10月登陆Steam 玩偶工厂恐怖探险](https://www.3dmgame.com/news/202408/3901347.html)
+
++ [索尼单人恐怖新作首发可能还会登陆PC平台](https://www.3dmgame.com/news/202408/3901344.html)
+
++ [科隆展·未来游戏展8月22日开启 超50款游戏参加](https://www.3dmgame.com/news/202408/3901345.html)
+
++ [《战神》PSP游戏开发商Ready at Dawn倒闭](https://www.3dmgame.com/news/202408/3901334.html)
+
++ [《战锤40K：星际战士2》新视频和截图 打虫族太爽了](https://www.3dmgame.com/news/202408/3901343.html)
+
++ [EA发布视频介绍《EA SPORTS FC 25》职业生涯模式](https://www.3dmgame.com/news/202408/3901340.html)
+
++ [网传《龙腾世纪：影障守护者》将于10月30日发售](https://www.3dmgame.com/news/202408/3901350.html)
+
++ [《自杀小队：杀死正义联盟》让华纳兄弟游戏收入暴跌41%](https://www.3dmgame.com/news/202408/3901352.html)
+
++ [巨型猫咪保卫家园《怪兽快跑》发售日确定](https://www.3dmgame.com/news/202408/3901339.html)
+
++ [《英灵乱战》联动《无主之地》新增4名可操作角色](https://www.3dmgame.com/news/202408/3901337.html)
+
++ [《第一狂战士：卡赞》概览视频 介绍背景/角色/设定](https://www.3dmgame.com/news/202408/3901336.html)
+
++ [《指环王：重返莫瑞亚》Steam/XS版发行日期确定](https://www.3dmgame.com/news/202408/3901335.html)
+
++ [《堡垒之夜》放弃通行证物品时效性 上线18个月后可在商城购买](https://www.3dmgame.com/news/202408/3901348.html)
+
++ [《无主之地》真人电影翻车了？首批影评出炉](https://www.3dmgame.com/news/202408/3901341.html)
+
++ [鹰角GRYPHLINE科隆展游戏阵容公布 提供《明日方舟：终末地》试玩](https://www.3dmgame.com/news/202408/3901349.html)
+
++ [索尼总裁十时裕树谈Bungie裁员：优化成本提高效率](https://www.3dmgame.com/news/202408/3901342.html)
+
++ [《利刃出鞘3》片场照曝光 “灭霸”乔什·布洛林登场](https://www.3dmgame.com/news/202408/3901351.html)
+
++ [2D横版游戏《Symphonia》试玩上线 年末正式发行](https://www.3dmgame.com/news/202408/3901333.html)
+
++ [爱好者将经典RPG《辐射2》移植到任天堂Switch](https://www.3dmgame.com/news/202408/3901338.html)
+
