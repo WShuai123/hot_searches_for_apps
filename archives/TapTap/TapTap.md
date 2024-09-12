@@ -21,3 +21,5 @@
 
 + [音乐世界 Cytus II](https://www.taptap.cn/app/153415)
 
++ [命运圣契](https://www.taptap.cn/app/235273)
+

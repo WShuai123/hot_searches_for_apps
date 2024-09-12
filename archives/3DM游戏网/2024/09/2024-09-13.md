@@ -101,3 +101,17 @@
 
 + [数据显示：超八成PS5玩家玩游戏更喜欢性能模式](https://www.3dmgame.com/news/202409/3904011.html)
 
++ [《过山车之星2》11月7日发售 国区售价168元](https://www.3dmgame.com/news/202409/3904069.html)
+
++ [开放世界冒险多人《DUCKSIDE》9月25日开启抢先体验](https://www.3dmgame.com/news/202409/3904070.html)
+
++ [Mate XT被疯炒至10万+！第二家三折叠屏手机也要来了](https://www.3dmgame.com/news/202409/3904071.html)
+
++ [Fami通新一周销量榜 《宇宙机器人》第二](https://www.3dmgame.com/news/202409/3904066.html)
+
++ [Epic喜加一：《鲁格拉茨:游戏中的冒险》免费领取](https://www.3dmgame.com/news/202409/3904067.html)
+
++ [《星球大战绝地：幸存者》更新补丁 移除D加密](https://www.3dmgame.com/news/202409/3904068.html)
+
++ [逆袭神话！《黑神话》杨奇：从被剥夺学位到荣膺客座教授](https://www.3dmgame.com/news/202409/3904065.html)
+
