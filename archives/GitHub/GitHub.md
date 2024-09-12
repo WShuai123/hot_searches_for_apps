@@ -33,3 +33,25 @@
 
 + [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
++ [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
+
++ [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
+
++ [flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
+
++ [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
+
++ [versotile-org / verso](https://github.com/versotile-org/verso)
+
++ [expressjs / express](https://github.com/expressjs/express)
+
++ [bridgecrewio / checkov](https://github.com/bridgecrewio/checkov)
+
++ [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [fastlane / fastlane](https://github.com/fastlane/fastlane)
+

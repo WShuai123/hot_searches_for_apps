@@ -129,3 +129,17 @@
 
 + [Paydit - Logo Design](https://dribbble.com/shots/)
 
++ [FC Shakhtar Donetsk App. The Concept. Part 2](https://dribbble.com/shots/)
+
++ [Neobanking Mobile App Interactions](https://dribbble.com/shots/)
+
++ [Dark Mode Booking](https://dribbble.com/shots/)
+
++ [Woodbird](https://dribbble.com/shots/)
+
++ [Riff - design concept](https://dribbble.com/shots/)
+
++ [Revamp of Woset: Mobile](https://dribbble.com/shots/)
+
++ [b2b SaaS](https://dribbble.com/shots/)
+

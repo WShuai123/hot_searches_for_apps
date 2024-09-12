@@ -267,3 +267,9 @@
 
 + [索尼非常重视《宇宙机器人》系列：将更专注家庭市场](https://www.3dmgame.com/news/202409/3904047.html)
 
++ [“东京电玩展2024”公开官方节目资讯 以及KOEI TECMO直播节目内容！](https://www.3dmgame.com/news/202409/3904057.html)
+
++ [黄仁勋重申：摩尔定律已死 RTX50系显卡涨价别意外](https://www.3dmgame.com/news/202409/3904058.html)
+
++ [周鸿祎称华为MateXT创新远超苹果：不打算买iPhone16](https://www.3dmgame.com/news/202409/3904059.html)
+

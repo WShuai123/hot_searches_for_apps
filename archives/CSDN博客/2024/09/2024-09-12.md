@@ -195,3 +195,9 @@
 
 + [鸿蒙交互事件开发04——手势事件](https://blog.csdn.net/harmonyClassRoom/article/details/142152481)
 
++ [《深度学习》OpenCV 高阶 图像金字塔 用法解析及案例实现](https://blog.csdn.net/qq_64603703/article/details/142106769)
+
++ [利用AI驱动智能BI数据可视化-深度评测Amazon Quicksight（二）](https://blog.csdn.net/m0_66628975/article/details/142136641)
+
++ [对话 ClickHouse 创始人 Alexey：不仅是数据库，所有的数据处理系统都能从 AI 受益](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142143364)
+

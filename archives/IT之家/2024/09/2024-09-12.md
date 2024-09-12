@@ -55,3 +55,5 @@
 
 + [小米雷军：培养应届生是最重要的战略性工作](https://m.ithome.com/html/795189.htm)
 
++ [天玑 9400、骁龙 8 Gen 4 参数全曝光，两大旗舰手机处理器年底正面对拼](https://m.ithome.com/html/795326.htm)
+
