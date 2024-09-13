@@ -201,3 +201,13 @@
 
 + [redis群集的三种模式](https://blog.csdn.net/qq_63994746/article/details/142173958)
 
++ [【机器学习】分类与回归——掌握两大核心算法的区别与应用](https://blog.csdn.net/qq_61654952/article/details/142210938)
+
++ [Spring模块详解Ⅳ（Spring ORM和Spring Transaction）](https://blog.csdn.net/weixin_74888502/article/details/141524065)
+
++ [数据挖掘实战-基于朴素贝叶斯算法构建真假新闻分类模型](https://blog.csdn.net/m0_64336780/article/details/138599375)
+
++ [用Python开发桌面端软件：pywebview (框架) + Python (后端) + vue (前端) + pyinstaller (打包)](https://blog.csdn.net/shupeian/article/details/142181747)
+
++ [Python 数学建模——灰色关联度分析](https://blog.csdn.net/weixin_72137075/article/details/142174078)
+

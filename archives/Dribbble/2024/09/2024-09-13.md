@@ -117,3 +117,9 @@
 
 + [Paloxi logos, logo design, brand identity, branding](https://dribbble.com/shots/)
 
++ [Rooster](https://dribbble.com/shots/)
+
++ [Trend || E-commerce Landing Page Exploration](https://dribbble.com/shots/)
+
++ [Owl And Book Logo](https://dribbble.com/shots/)
+

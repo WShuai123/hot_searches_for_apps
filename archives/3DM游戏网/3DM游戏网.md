@@ -337,3 +337,29 @@
 
 + [郭帆后悔《流浪地球3》定档2027年 在闭关撰写剧本](https://www.3dmgame.com/news/202409/3904142.html)
 
++ [玩家给女儿看《黑神话》 被丈母娘指责是害了孩子](https://www.3dmgame.com/news/202409/3904155.html)
+
++ [《命运2》Bungie再次指盗用粉丝作品？这次是联动玩具](https://www.3dmgame.com/news/202409/3904154.html)
+
++ [国产多人生存社交游戏《幽霾》steam免费测试今日开启](https://www.3dmgame.com/news/202409/3904153.html)
+
++ [员工月薪2690元 高合丁磊辟谣跑路：车主不散 高合不死](https://www.3dmgame.com/news/202409/3904152.html)
+
++ [微信抖音均加码电商 搜索框新增电商入口](https://www.3dmgame.com/news/202409/3904151.html)
+
++ [首次AI助力搜救 国际邮轮大规模综合应急演习在天津举行](https://www.3dmgame.com/news/202409/3904150.html)
+
++ [比亚迪员工总数突破90万！技术人员近11万全球车企最多](https://www.3dmgame.com/news/202409/3904149.html)
+
++ [《小丑牌》彩蛋耗时数月才被发现 能“预知未来”](https://www.3dmgame.com/news/202409/3904148.html)
+
++ [《饥荒：联机版》“高深莫测”更新发布 添加新可制作物品](https://www.3dmgame.com/news/202409/3904147.html)
+
++ [AVG游戏《赝作 次元契约 Others》Steam页面上线 支持中文](https://www.3dmgame.com/news/202409/3904146.html)
+
++ [RTX 4070 GDDR6X、GDDR6性能对比：影响不大 但一游戏损失10％](https://www.3dmgame.com/news/202409/3904145.html)
+
++ [《黑神话》在中国台湾大火：金箍棒是儿时的梦想](https://www.3dmgame.com/news/202409/3904144.html)
+
++ [《美少女战士》作者再动笔亲绘插画 纪念去世的角色声优](https://www.3dmgame.com/news/202409/3904143.html)
+
