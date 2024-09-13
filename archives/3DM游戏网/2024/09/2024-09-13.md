@@ -265,3 +265,39 @@
 
 + [开放世界撤离类FPS《灰区战争》公开未来3年更新路线图](https://www.3dmgame.com/news/202409/3904099.html)
 
++ [国内新研究出炉 每多刷1小时手机视网膜年龄衰老32天](https://www.3dmgame.com/news/202409/3904118.html)
+
++ [为最终幻想 XVI,战神：诸神黄昏等打造的Game Ready驱动发布](https://www.3dmgame.com/news/202409/3904119.html)
+
++ [俯视角双摇杆射击游戏《虫潮》推出1.0正式版 但新增内容少引差评](https://www.3dmgame.com/news/202409/3904120.html)
+
++ [《一鹅当先》率先登陆PC/PS5 免费多人欢乐竞速](https://www.3dmgame.com/news/202409/3904122.html)
+
++ [宝可梦诉讼《口袋妖怪复刻》侵权案胜诉：赔偿1.07亿元](https://www.3dmgame.com/news/202409/3904121.html)
+
++ [北大Little Girl亮相 具有人类伦理和道德观念](https://www.3dmgame.com/news/202409/3904123.html)
+
++ [据称Xbox传闻中掌机将使用明年推出的AMD Z2芯片](https://www.3dmgame.com/news/202409/3904124.html)
+
++ [知名日本蹩脚高达再遭劫难 脚下捐款箱被窃](https://www.3dmgame.com/news/202409/3904114.html)
+
++ [传闻：索尼新一期State of Play将于9月24日开启](https://www.3dmgame.com/news/202409/3904115.html)
+
++ [女巫学徒背景冒险游戏《REKA》推出抢先体验版 已获特别好评](https://www.3dmgame.com/news/202409/3904116.html)
+
++ [据报道XGP增长“已经停滞” 微软赌注全押《黑色行动6》](https://www.3dmgame.com/news/202409/3904117.html)
+
++ [《黑神话：悟空》Steam销量达1900万份 总收入近65亿](https://www.3dmgame.com/news/202409/3904107.html)
+
++ [停不下来了？育碧股价又跌了](https://www.3dmgame.com/news/202409/3904108.html)
+
++ [网友用华为三折叠玩《黑神话》 大屏+手柄太舒爽](https://www.3dmgame.com/news/202409/3904109.html)
+
++ [《刺客信条：影》开发者：尽可能尊重日本文化 但也要创新](https://www.3dmgame.com/news/202409/3904110.html)
+
++ [《绝地潜兵2》全新战争债券“化学专家”公布 9月19日正式上线](https://www.3dmgame.com/news/202409/3904111.html)
+
++ [游戏行业裁员太多 许多游戏开发者已经选择转行](https://www.3dmgame.com/news/202409/3904112.html)
+
++ [解谜游戏《迷失岛外传南瓜镇》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3904113.html)
+

@@ -37,3 +37,5 @@
 
 + [飞猪发送“市监局”口吻短信给投诉会员后被约谈，牵连淘宝](https://m.ithome.com/html/795369.htm)
 
++ [酷态科 240W 编织磁吸线开售：最高支持 PD3.1 协议、480Mbps 传输，首发 49 元起](https://m.ithome.com/html/795470.htm)
+
