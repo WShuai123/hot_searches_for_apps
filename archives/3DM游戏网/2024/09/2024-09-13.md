@@ -383,3 +383,5 @@
 
 + [Embracer不再出售4A Games 后者在开发两个3A游戏](https://www.3dmgame.com/news/202409/3904162.html)
 
++ [索尼多款大作Steam促销 《最后生还者》新史低](https://www.3dmgame.com/news/202409/3904166.html)
+

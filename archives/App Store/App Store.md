@@ -215,3 +215,7 @@
 
 + [掌上12333](https://itunes.apple.com/cn/app/id959435187?mt=8)
 
++ [今日头条](https://itunes.apple.com/cn/app/id529092160?mt=8)
+
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+
