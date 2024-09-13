@@ -363,3 +363,13 @@
 
 + [《美少女战士》作者再动笔亲绘插画 纪念去世的角色声优](https://www.3dmgame.com/news/202409/3904143.html)
 
++ [外媒讨论《夺宝奇兵：古老之圈》没有什么热度](https://www.3dmgame.com/news/202409/3904160.html)
+
++ [阿里25周年马云内部发声：没有公司能永远保持第一](https://www.3dmgame.com/news/202409/3904159.html)
+
++ [游戏下架周边还在 索尼仍在售卖《星鸣特攻》游戏周边](https://www.3dmgame.com/news/202409/3904156.html)
+
++ [《Chef RPG》Steam抢先体验 海边小镇餐厅经营](https://www.3dmgame.com/news/202409/3904157.html)
+
++ [美国车企偷买小米SU7拆解感叹：中国造车太厉害了](https://www.3dmgame.com/news/202409/3904158.html)
+

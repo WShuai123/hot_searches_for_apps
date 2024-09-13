@@ -211,3 +211,15 @@
 
 + [Python 数学建模——灰色关联度分析](https://blog.csdn.net/weixin_72137075/article/details/142174078)
 
++ [深入分析计算机网络性能指标](https://blog.csdn.net/2202_75623950/article/details/140798342)
+
++ [【机器学习】迁移学习的实践](https://blog.csdn.net/qq_44214428/article/details/142106275)
+
++ [Django+Vue基于OpenCV的人脸识别系统的设计与实现](https://blog.csdn.net/ZGL_cyy/article/details/142170041)
+
++ [基于 SpringBoot 的学习平台](https://blog.csdn.net/yimeixiaolangzai/article/details/142165823)
+
++ [MySQL数据的增删改查（一）](https://blog.csdn.net/2301_76161469/article/details/142063668)
+
++ [HarmonyOS学习(十一)——安全管理](https://blog.csdn.net/qi85481455/article/details/142182164)
+

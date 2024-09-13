@@ -53,3 +53,9 @@
 
 + [腾讯回应办公室亲昵事件：双方为男女朋友关系，其中一人为公司员工](https://m.ithome.com/html/795631.htm)
 
++ [华为余承东回应“搞搞中国足球”提议：自己完全是门外汉，但可分享带团队的一点经验教训](https://m.ithome.com/html/795659.htm)
+
++ [京东启动 2024 年第 4 轮加薪：零售集团和职能体系将实现 20 薪，其他部门随后陆续加薪](https://m.ithome.com/html/795506.htm)
+
++ [苹果官网 Apple Store 进入维护，iPhone 16 / Pro 系列今晚 8 点国行开启预购](https://m.ithome.com/html/795609.htm)
+
