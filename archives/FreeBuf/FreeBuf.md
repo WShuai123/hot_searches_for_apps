@@ -55,3 +55,5 @@
 
 + [BBOT：一款递归型互联网OSINT资源情报工具](https://www.freebuf.com/sectool/410448.html)
 
++ [立即报名 | WitAwards 2024网安年度评选等你来](https://www.freebuf.com/fevents/410961.html)
+

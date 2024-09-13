@@ -59,3 +59,5 @@
 
 + [苹果官网 Apple Store 进入维护，iPhone 16 / Pro 系列今晚 8 点国行开启预购](https://m.ithome.com/html/795609.htm)
 
++ [20 点蹲点速抢：苹果 iPhone 16 / Pro 系列手机京东预售](https://m.ithome.com/html/795662.htm)
+

@@ -223,3 +223,13 @@
 
 + [HarmonyOS学习(十一)——安全管理](https://blog.csdn.net/qi85481455/article/details/142182164)
 
++ [用户投稿|Cursor——软件开发行业新变革](https://blog.csdn.net/DouBaoMarsCode/article/details/142144933)
+
++ [微信小程序页面制作——婚礼邀请函（含代码）](https://blog.csdn.net/hh867308122/article/details/142209417)
+
++ [【物联网技术大作业】设计一个智能家居的应用场景](https://blog.csdn.net/weixin_65186652/article/details/142214559)
+
++ [计算机网络 第三章: 点对点协议](https://blog.csdn.net/Snowyyds/article/details/142168592)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142127367)
+
