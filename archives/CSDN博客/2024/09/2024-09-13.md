@@ -165,3 +165,9 @@
 
 + [实现实时Web应用，使用AJAX轮询、WebSocket、还是SSE呢？？](https://blog.csdn.net/weixin_43106777/article/details/142146226)
 
++ [基于OpenCV与MQTT的停车场车牌识别系统：结合SQLite和Flask的设计流程](https://blog.csdn.net/qq_40431685/article/details/142179654)
+
++ [深入Redis：核心的缓存](https://blog.csdn.net/m0_62319039/article/details/142170218)
+
++ [网络安全宣传周 | DNS安全威胁与应对措施分享](https://blog.csdn.net/weixin_53018687/article/details/142182006)
+

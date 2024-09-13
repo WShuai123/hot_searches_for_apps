@@ -49,3 +49,5 @@
 
 + [Java反序列化 | CC链专题](https://www.freebuf.com/articles/web/409069.html)
 
++ [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
+
