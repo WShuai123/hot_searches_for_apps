@@ -25,3 +25,5 @@
 
 + [小米澎湃 OS 体验增强版 Beta 开启招募：小米 14、Redmi K60 至尊版、小米平板 6S Pro 12.4 首批尝鲜](https://m.ithome.com/html/795555.htm)
 
++ [苹果 iPhone 16 Pro / Max 独占特性 +1：多轨录音功能需借助 A18 Pro 芯片及 4 麦克风能力](https://m.ithome.com/html/795726.htm)
+
