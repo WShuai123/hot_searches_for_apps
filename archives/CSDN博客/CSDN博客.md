@@ -121,3 +121,13 @@
 
 + [【Linux】网络层协议——IP](https://blog.csdn.net/2301_77868664/article/details/142146915)
 
++ [【C++】认识C++（前言）](https://blog.csdn.net/Huangcancan666/article/details/142208167)
+
++ [【人工智能】Transformers之Pipeline（十八）：文本生成（text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142214070)
+
++ [遗传算法与深度学习实战（12）——粒子群优化详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/142121266)
+
++ [【Linux】：信号的保存和信号处理](https://blog.csdn.net/Yikefore/article/details/141061870)
+
++ [[Linux#48][网络] 令牌环网 | IPv4 | socket 套接字 | TCP | UDP | 网络字节序列](https://blog.csdn.net/2301_80171004/article/details/142125276)
+
