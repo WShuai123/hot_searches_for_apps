@@ -333,3 +333,7 @@
 
 + [《Beyond Shadowgate》登陆Steam 复古求死名作](https://www.3dmgame.com/news/202409/3904138.html)
 
++ [庆祝Steam 21岁生日 SteamDeck大幅折扣优惠](https://www.3dmgame.com/news/202409/3904141.html)
+
++ [郭帆后悔《流浪地球3》定档2027年 在闭关撰写剧本](https://www.3dmgame.com/news/202409/3904142.html)
+

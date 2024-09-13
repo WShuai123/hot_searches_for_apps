@@ -97,3 +97,23 @@
 
 + [Restaurant Booking Mobile App - Payment Flow 💰](https://dribbble.com/shots/)
 
++ [Crypto Mobile App Design](https://dribbble.com/shots/)
+
++ [Pickleball Club Logo Design](https://dribbble.com/shots/)
+
++ [AI Chatbot Web App](https://dribbble.com/shots/)
+
++ [Kick](https://dribbble.com/shots/)
+
++ [Zerrw™ Branding; Brand identity, Visual identity design](https://dribbble.com/shots/)
+
++ [Logomark](https://dribbble.com/shots/)
+
++ [Bug & Insect Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
++ [Colorful Otter Head Logo](https://dribbble.com/shots/)
+
++ [Web3 Dashboard Design for Cryptocurrency Trading Terminal](https://dribbble.com/shots/)
+
++ [Paloxi logos, logo design, brand identity, branding](https://dribbble.com/shots/)
+

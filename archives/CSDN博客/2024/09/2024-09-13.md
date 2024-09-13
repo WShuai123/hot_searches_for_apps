@@ -197,3 +197,7 @@
 
 + [重塑在线软件开发新纪元：集成高效安全特性，深度解析与评估支持浏览器在线编程的系统架构设计](https://blog.csdn.net/g984160547/article/details/142180220)
 
++ [机器学习实战22-基于Random Forest算法的学生数学成绩预测系统的应用研究](https://blog.csdn.net/weixin_42878111/article/details/142183662)
+
++ [redis群集的三种模式](https://blog.csdn.net/qq_63994746/article/details/142173958)
+
