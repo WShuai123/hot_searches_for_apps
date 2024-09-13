@@ -109,3 +109,15 @@
 
 + [掌握ZooKeeper的二阶段提交及其优缺点](https://blog.csdn.net/weixin_68811816/article/details/142001191)
 
++ [KAN专家混合模型在高性能时间序列预测中的应用：RMoK模型架构探析与Python代码实验](https://blog.csdn.net/m0_46510245/article/details/142201684)
+
++ [深入解析循环神经网络（RNN）](https://blog.csdn.net/weixin_36755535/article/details/142215487)
+
++ [Linux中使用Docker构建Nginx容器完整教程](https://blog.csdn.net/jxjdhdnd/article/details/142211168)
+
++ [MySQL事物原理](https://blog.csdn.net/oxygen3000/article/details/142126480)
+
++ [北斗卫星系统信号介绍](https://blog.csdn.net/qq_58652651/article/details/142218756)
+
++ [【Linux】网络层协议——IP](https://blog.csdn.net/2301_77868664/article/details/142146915)
+
