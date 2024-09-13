@@ -301,3 +301,7 @@
 
 + [解谜游戏《迷失岛外传南瓜镇》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3904113.html)
 
++ [苹果喊国人买iPhone16：5999元起 国行没AI尴尬](https://www.3dmgame.com/news/202409/3904126.html)
+
++ [改编动画《群花绽放，彷如修罗》首个预告公布 2025年1月开播](https://www.3dmgame.com/news/202409/3904125.html)
+

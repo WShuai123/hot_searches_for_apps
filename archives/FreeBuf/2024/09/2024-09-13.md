@@ -51,3 +51,5 @@
 
 + [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
 
++ [Fortinet确认泄露440GB数据](https://www.freebuf.com/articles/410941.html)
+

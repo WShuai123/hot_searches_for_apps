@@ -39,3 +39,7 @@
 
 + [酷态科 240W 编织磁吸线开售：最高支持 PD3.1 协议、480Mbps 传输，首发 49 元起](https://m.ithome.com/html/795470.htm)
 
++ [消息称魅族 Lucky 08 手机采用“极窄物理四等边”设计，配备“超大电池”](https://m.ithome.com/html/795449.htm)
+
++ [下架 10 年后，曾经风靡全球的游戏《Flappy Bird》即将回归](https://m.ithome.com/html/795464.htm)
+
