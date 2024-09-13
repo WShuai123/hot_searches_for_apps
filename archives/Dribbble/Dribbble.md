@@ -87,3 +87,11 @@
 
 + [Knead That Dough Website](https://dribbble.com/shots/)
 
++ [Gaming ape logo icon: gaming pad + monkey face](https://dribbble.com/shots/)
+
++ [Pacific Palicades Illustration](https://dribbble.com/shots/)
+
++ [Tiimi - Job Creation Flow: Score Card in a SaaS HR Management](https://dribbble.com/shots/)
+
++ [Music Web App](https://dribbble.com/shots/)
+

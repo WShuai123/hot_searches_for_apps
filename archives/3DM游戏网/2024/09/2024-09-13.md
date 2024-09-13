@@ -305,3 +305,25 @@
 
 + [改编动画《群花绽放，彷如修罗》首个预告公布 2025年1月开播](https://www.3dmgame.com/news/202409/3904125.html)
 
++ [《任天堂明星大乱斗》制作人樱井政博盛赞《宇宙机器人》 因为通关所需时间短](https://www.3dmgame.com/news/202409/3904135.html)
+
++ [《小丑2》首映本土票房预计7千万美元 不如第一部](https://www.3dmgame.com/news/202409/3904137.html)
+
++ [《天国：拯救2》没有硬件光追 主机目标是60帧](https://www.3dmgame.com/news/202409/3904136.html)
+
++ [奇幻职场漫画改编 《魔法光源股份有限公司》新预告放出 10月4日开播](https://www.3dmgame.com/news/202409/3904127.html)
+
++ [《Hollowbody》登陆Steam 废墟恐怖探索](https://www.3dmgame.com/news/202409/3904128.html)
+
++ [《怪物猎人：荒野》参展2024巴黎游戏周 辻本良三将出席](https://www.3dmgame.com/news/202409/3904129.html)
+
++ [V社开发者确认正在开发《Deadlock》的反作弊手段](https://www.3dmgame.com/news/202409/3904130.html)
+
++ [《原神》拾枝杂谈-「基尼奇：皆有所偿」](https://www.3dmgame.com/news/202409/3904131.html)
+
++ [2024KK官方对战平台地图创作大赛：灵感无界，创意无限](https://www.3dmgame.com/news/202409/3904132.html)
+
++ [KK官方对战平台肉鸽生存新图《无限火力》上线!开启策略与战斗的全新篇章!](https://www.3dmgame.com/news/202409/3904133.html)
+
++ [KK官方对战平台中秋限时活动开启！月满华庭嫦娥仙子全新登场！](https://www.3dmgame.com/news/202409/3904134.html)
+

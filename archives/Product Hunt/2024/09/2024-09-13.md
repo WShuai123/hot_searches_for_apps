@@ -103,3 +103,27 @@
 
 + [Youform (fully bootstrapped)](https://www.producthunt.com/posts/youform-fully-bootstrapped)
 
++ [Cavela](https://www.producthunt.com/posts/cavela)
+
++ [OpenAI o1](https://www.producthunt.com/posts/openai-o1)
+
++ [Landerino](https://www.producthunt.com/posts/landerino)
+
++ [Mneme AI](https://www.producthunt.com/posts/mneme-ai)
+
++ [Codemeup](https://www.producthunt.com/posts/codemeup)
+
++ [NeckFit](https://www.producthunt.com/posts/neckfit)
+
++ [VELS](https://www.producthunt.com/posts/vels)
+
++ [AIPhone.AI](https://www.producthunt.com/posts/aiphone-ai-3)
+
++ [Selfplanr](https://www.producthunt.com/posts/selfplanr)
+
++ [FunBlocks AIFlow](https://www.producthunt.com/posts/funblocks-aiflow)
+
++ [ConfettiTherapy.com](https://www.producthunt.com/posts/confettitherapy-com)
+
++ [JitBlox](https://www.producthunt.com/posts/jitblox)
+

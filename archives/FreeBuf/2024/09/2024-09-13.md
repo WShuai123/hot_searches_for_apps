@@ -53,3 +53,5 @@
 
 + [Fortinet确认泄露440GB数据](https://www.freebuf.com/articles/410941.html)
 
++ [BBOT：一款递归型互联网OSINT资源情报工具](https://www.freebuf.com/sectool/410448.html)
+

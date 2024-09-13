@@ -43,3 +43,7 @@
 
 + [下架 10 年后，曾经风靡全球的游戏《Flappy Bird》即将回归](https://m.ithome.com/html/795464.htm)
 
++ [我国“福建舰”航母弹射系统测试首次公开、内部画面首次公开](https://m.ithome.com/html/795562.htm)
+
++ [小米回应“摄像头有陌生人说话”：取回设备并进行检测，目前设备状态一切正常](https://m.ithome.com/html/795576.htm)
+
