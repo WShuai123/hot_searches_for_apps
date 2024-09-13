@@ -109,3 +109,11 @@
 
 + [达利园效应【今天有什么好笑的 #1684】](http://www.acfun.cn/v/ac46246006)
 
++ [【ACFUN声唱2024】复活赛：踏平坎坷成大道，斗罢艰险又出发](http://www.acfun.cn/v/ac46245295)
+
++ [失去同伴的小鸟，紧贴我的手才有安全感](http://www.acfun.cn/v/ac46243438)
+
++ [自带剪刀手？0打理免维护的旗舰洗地机成了养宠人刚需！](http://www.acfun.cn/v/ac46234342)
+
++ [☆Green Eyes☆](http://www.acfun.cn/v/ac46243560)
+

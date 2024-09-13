@@ -33,3 +33,17 @@
 
 + [fastlane / fastlane](https://github.com/fastlane/fastlane)
 
++ [gojue / ecapture](https://github.com/gojue/ecapture)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)
+
++ [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [dair-ai / ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+
++ [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
+
++ [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
