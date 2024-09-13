@@ -195,3 +195,45 @@
 
 + [爱好者将经典RPG《辐射2》移植到任天堂Switch](https://www.3dmgame.com/news/202408/3901338.html)
 
++ [《毒液3》新正式预告发布 共生体之神纳尔登场](https://www.3dmgame.com/news/202409/3904087.html)
+
++ [《康斯坦丁2》电影剧本已完成 将非常R级](https://www.3dmgame.com/news/202409/3904088.html)
+
++ [《演灭》登陆多平台发售 国产第三人称科幻潜行新游](https://www.3dmgame.com/news/202409/3904089.html)
+
++ [《龙腾世纪：影障守护者》新演示 画面华丽战斗精彩](https://www.3dmgame.com/news/202409/3904091.html)
+
++ [《文明7》哈特谢普苏特预告 明年2月11日发售](https://www.3dmgame.com/news/202409/3904090.html)
+
++ [由于谈判破裂 《星际拓荒》开发公司安纳普尔纳大部分员工选择辞职](https://www.3dmgame.com/news/202409/3904092.html)
+
++ [《指环王：夏尔的传说》推迟至2025年初发行](https://www.3dmgame.com/news/202409/3904079.html)
+
++ [视觉小说《神椿市建设中REGENERATE》明年2/20推出](https://www.3dmgame.com/news/202409/3904080.html)
+
++ [《七龙珠 电光炸裂！ZERO》GT角色预告片/截图](https://www.3dmgame.com/news/202409/3904081.html)
+
++ [Unity全面取消Runtime费用 安装游戏不再收版费](https://www.3dmgame.com/news/202409/3904082.html)
+
++ [《刺客信条：影》在日本仅100多人预购 这次彻底玩脱？](https://www.3dmgame.com/news/202409/3904083.html)
+
++ [《龙腾世纪：影障守护者》预告片介绍赛达斯大陆](https://www.3dmgame.com/news/202409/3904084.html)
+
++ [《命运2》新枪被指抄袭 Bungie回应称正在调查](https://www.3dmgame.com/news/202409/3904085.html)
+
++ [《真三国无双：起源》新情报和实机将于9月26日公布](https://www.3dmgame.com/news/202409/3904086.html)
+
++ [《赛博朋克2077》2.13版更新上线 支持AMD FSR3](https://www.3dmgame.com/news/202409/3904078.html)
+
++ [超英动作游戏《UNDEFEATED》现已免费登陆PS5](https://www.3dmgame.com/news/202409/3904072.html)
+
++ [《传说法师2》确定10月3日开启Steam抢先体验](https://www.3dmgame.com/news/202409/3904073.html)
+
++ [踏入日本战国时代《刺客信条：影》发布最新预告](https://www.3dmgame.com/news/202409/3904074.html)
+
++ [魔性手游《Flappy Bird》宣布年内重磅回归](https://www.3dmgame.com/news/202409/3904075.html)
+
++ [任天堂公开《塞尔达传说 智慧的再现》5分钟介绍视频](https://www.3dmgame.com/news/202409/3904076.html)
+
++ [《塞尔达传说：智慧的再现》提前半个月偷跑](https://www.3dmgame.com/news/202409/3904077.html)
+

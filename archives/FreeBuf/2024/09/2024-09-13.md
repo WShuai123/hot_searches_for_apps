@@ -41,3 +41,7 @@
 
 + [WhatsApp“阅后即焚”功能曝漏洞，黑客可反复查看](https://www.freebuf.com/news/410675.html)
 
++ [FreeBuf早报 | 有赞支付被罚 2787 万元；流氓WHOIS服务器成黑客“核武器”](https://www.freebuf.com/news/410876.html)
+
++ [如何使用大型语言模型（LLMs）自动检测BOLA漏洞](https://www.freebuf.com/articles/web/408918.html)
+

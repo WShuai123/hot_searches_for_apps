@@ -141,3 +141,11 @@
 
 + [[论文笔记]MEMORAG: MOVING TOWARDS NEXT-GEN RAG VIA MEMORY-INSPIRED KNOWLEDGE DISCOVERY](https://blog.csdn.net/yjw123456/article/details/142182522)
 
++ [使用令牌（Token）进一步优化 SwiftData 2.0 中历史记录追踪（History Trace）的使用](https://blog.csdn.net/mydo/article/details/142041868)
+
++ [Python 数学建模——Prophet 时间序列预测](https://blog.csdn.net/weixin_72137075/article/details/142134877)
+
++ [基于Boost库的搜索引擎开发实践](https://blog.csdn.net/qq_43289447/article/details/142172920)
+
++ [网络安全 day6 --- 抓包技术&HTTPS协议&小程序&PC应用&WEB&转发联动](https://blog.csdn.net/2302_81156108/article/details/142000192)
+
