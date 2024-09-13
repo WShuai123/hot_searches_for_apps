@@ -137,3 +137,9 @@
 
 + [云原生时代：Spring Boot 与 Kubernetes 的无缝集成](https://blog.csdn.net/lilinhai548/article/details/142212888)
 
++ [最新 京东h5st算法(4.7.4) 附 fp 算法](https://blog.csdn.net/m0_60416683/article/details/142133324)
+
++ [阿里云事件：锂电应用需分布式、小容量，数据中心标准制定刻不容缓](https://blog.csdn.net/DATECENTER/article/details/142182724)
+
++ [Hadoop如何进行分布式存储和处理大数据？](https://blog.csdn.net/oOBubbleX/article/details/142167248)
+

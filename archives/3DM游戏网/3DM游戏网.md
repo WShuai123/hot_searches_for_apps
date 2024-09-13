@@ -147,3 +147,13 @@
 
 + [外网主播挑战让金鱼击败《黄金树幽影》最终BOSS 耗时仅8小时](https://www.3dmgame.com/news/202408/3901297.html)
 
++ [Embracer将保留地铁及弹珠FX系列开发团队](https://www.3dmgame.com/news/202409/3904175.html)
+
++ [10月18日发售《忍者神龟 变种释放》游戏演示公开](https://www.3dmgame.com/news/202409/3904172.html)
+
++ [索尼称PS5 Pro拥有AMD显卡尚未使用的光追技术](https://www.3dmgame.com/news/202409/3904174.html)
+
++ [《宇宙机器人》英国首周销量不错 高于多款大作](https://www.3dmgame.com/news/202409/3904173.html)
+
++ [17日踏入艾泽拉斯 《守望先锋2》联动《魔兽世界》](https://www.3dmgame.com/news/202409/3904171.html)
+

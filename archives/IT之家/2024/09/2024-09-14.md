@@ -27,3 +27,5 @@
 
 + [苹果 iPhone 16 Pro / Max 独占特性 +1：多轨录音功能需借助 A18 Pro 芯片及 4 麦克风能力](https://m.ithome.com/html/795726.htm)
 
++ [普华永道被财政部处罚 1.16 亿元，被中国证监会顶格罚没 3.25 亿元](https://m.ithome.com/html/795661.htm)
+
