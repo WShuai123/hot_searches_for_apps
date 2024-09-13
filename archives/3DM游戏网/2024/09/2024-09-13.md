@@ -327,3 +327,9 @@
 
 + [KK官方对战平台中秋限时活动开启！月满华庭嫦娥仙子全新登场！](https://www.3dmgame.com/news/202409/3904134.html)
 
++ [《刺客信条：枭雄》主机端或将获得60帧补丁更新](https://www.3dmgame.com/news/202409/3904140.html)
+
++ [《丧尸围城 豪华 Remaster》官方宣传歌曲 9月19日发售](https://www.3dmgame.com/news/202409/3904139.html)
+
++ [《Beyond Shadowgate》登陆Steam 复古求死名作](https://www.3dmgame.com/news/202409/3904138.html)
+

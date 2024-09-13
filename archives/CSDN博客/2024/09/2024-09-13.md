@@ -193,3 +193,7 @@
 
 + [哨兵机制Sentinel](https://blog.csdn.net/dys000000/article/details/142169571)
 
++ [【AI大模型】ChatGPT模型原理介绍（上）](https://blog.csdn.net/2301_76820214/article/details/142188835)
+
++ [重塑在线软件开发新纪元：集成高效安全特性，深度解析与评估支持浏览器在线编程的系统架构设计](https://blog.csdn.net/g984160547/article/details/142180220)
+

@@ -47,3 +47,7 @@
 
 + [小米回应“摄像头有陌生人说话”：取回设备并进行检测，目前设备状态一切正常](https://m.ithome.com/html/795576.htm)
 
++ [三星 Galaxy S25 手机渲染图曝光：6.17 英寸屏幕、内存 12GB 起步、4000mAh 电池](https://m.ithome.com/html/795481.htm)
+
++ [魅族 Lucky 08 手机外观公布：直角边框设计、后置圆形相机模组](https://m.ithome.com/html/795435.htm)
+
