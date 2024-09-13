@@ -45,3 +45,7 @@
 
 + [如何使用大型语言模型（LLMs）自动检测BOLA漏洞](https://www.freebuf.com/articles/web/408918.html)
 
++ [新型 Vo1d 恶意软件曝光，超130万台安卓电视设备已中招](https://www.freebuf.com/news/410913.html)
+
++ [Java反序列化 | CC链专题](https://www.freebuf.com/articles/web/409069.html)
+

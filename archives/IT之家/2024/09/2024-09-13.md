@@ -29,3 +29,9 @@
 
 + [（更新：机场客服回应）继昨晚之后，天津滨海机场今天晚间再次出现多架航班盘旋](https://m.ithome.com/html/795460.htm)
 
++ [华为官方 YouTube 频道发布 Mate XT Ultimate 非凡大师宣传视频，暗示全球发售](https://m.ithome.com/html/795428.htm)
+
++ [悟空出行 CEO 胡显河炮轰罗永浩并列举六大恶行：忘恩负义，中国网暴第一人](https://m.ithome.com/html/795363.htm)
+
++ [长城汽车董事长魏建军对话央视：行业内卷存在恶意竞争，哪怕“跌出前十”也要走正确的路](https://m.ithome.com/html/795434.htm)
+

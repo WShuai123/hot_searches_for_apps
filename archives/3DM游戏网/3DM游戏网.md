@@ -237,3 +237,31 @@
 
 + [《塞尔达传说：智慧的再现》提前半个月偷跑](https://www.3dmgame.com/news/202409/3904077.html)
 
++ [纪念《托尼霍克职业滑板》系列25周年 滑板巨星托尼·霍克正在与动视谈判](https://www.3dmgame.com/news/202409/3904100.html)
+
++ [《无限试驾：太阳王冠》已在Steam正式发售 总体评价为褒贬不一](https://www.3dmgame.com/news/202409/3904101.html)
+
++ [《夜族崛起》Steam 限时免费游玩进行中](https://www.3dmgame.com/news/202409/3904102.html)
+
++ [《潜行者2》全新截图 夜色虽美但行动要注意](https://www.3dmgame.com/news/202409/3904103.html)
+
++ [《异变麻将》Steam页面上线 另类创新玩法](https://www.3dmgame.com/news/202409/3904104.html)
+
++ [黄牛试图倒卖PS5光驱 索尼内部人士：不会缺供应别被坑](https://www.3dmgame.com/news/202409/3904105.html)
+
++ [策略探索游戏《钻核公司》现已推出抢先体验版 获得好评](https://www.3dmgame.com/news/202409/3904106.html)
+
++ [《战神：诸神黄昏》PC版解锁时间公布 9月17日开启预载](https://www.3dmgame.com/news/202409/3904093.html)
+
++ [暴雪工会批评微软最新裁员：“长期成功”不应牺牲员工](https://www.3dmgame.com/news/202409/3904094.html)
+
++ [《文明7》 先睹为快：哈特谢普苏特](https://www.3dmgame.com/news/202409/3904095.html)
+
++ [《人类一败涂地VR》Steam页面上线 支持中文](https://www.3dmgame.com/news/202409/3904096.html)
+
++ [《命运石之门》官方宣布新游戏计划启动 详情陆续公开](https://www.3dmgame.com/news/202409/3904097.html)
+
++ [《龙腾世纪：影障守护者》IGN前瞻 十年等待似乎是值得的](https://www.3dmgame.com/news/202409/3904098.html)
+
++ [开放世界撤离类FPS《灰区战争》公开未来3年更新路线图](https://www.3dmgame.com/news/202409/3904099.html)
+
