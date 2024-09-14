@@ -41,3 +41,7 @@
 
 + [苹果 iPhone 16 Pro / Max 机型国行保外维修更换电池费用 969 元，涨价 160 元约 19.7%](https://m.ithome.com/html/795782.htm)
 
++ [iPhone 16 / Pro 包装盒不再随附苹果 Logo 贴纸](https://m.ithome.com/html/795778.htm)
+
++ [35 岁员工猝死，美国两家银行巨头将限制员工每周工作不超 80 小时](https://m.ithome.com/html/795847.htm)
+

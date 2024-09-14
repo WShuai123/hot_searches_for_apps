@@ -259,3 +259,21 @@
 
 + [《龙腾世纪：影幛守护者》创意总监透露 同伴的对话可在战斗中断后恢复](https://www.3dmgame.com/news/202409/3904206.html)
 
++ [2024《极限竞速：地平线 5》领克杯FHL秋季赛直播即将开启！](https://www.3dmgame.com/news/202409/3904212.html)
+
++ [PlayStation奖杯数据显示《宇宙机器人》是2024年PS5上最畅销游戏的第六名](https://www.3dmgame.com/news/202409/3904214.html)
+
++ [Forza系列作品促销，《极限竞速：地平线5》享五折！](https://www.3dmgame.com/news/202409/3904213.html)
+
++ [横版战斗武侠RPG《刀剑江湖路》9月19日EA发售 定价58元](https://www.3dmgame.com/news/202408/3902979.html)
+
++ [《刀剑江湖路》制作人现身B站！游戏EA进度大爆料！](https://www.3dmgame.com/news/202409/3904211.html)
+
++ [宁静村舍竟暗含隐情？武侠RPG《刀剑江湖路》即将发售](https://www.3dmgame.com/news/202409/3904210.html)
+
++ [《刀剑江湖路》武学爆料：绳镖飞旋，扇舞清风](https://www.3dmgame.com/news/202409/3904209.html)
+
++ [横版格斗武侠RPG《刀剑江湖路》9月19日EA发售](https://www.3dmgame.com/news/202409/3904208.html)
+
++ [《勇者斗恶龙3：HD-2D重制版》宣布开发完成 11月14日准时发售](https://www.3dmgame.com/news/202409/3904207.html)
+
