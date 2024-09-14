@@ -79,3 +79,13 @@
 
 + [板栗成精了长这样，有鼻子有耳朵](http://www.acfun.cn/v/ac46245204)
 
++ [从此君王不早朝！★手机竖屏1273★](http://www.acfun.cn/v/ac46247589)
+
++ [走进工厂：多层PCB线路板是如何制造的](http://www.acfun.cn/v/ac46247523)
+
++ [特厨探店 |特厨被豆腐渣香迷糊了？！—北京尼岔土家民族菜](http://www.acfun.cn/v/ac46241308)
+
++ [hjm秋哥秀vol.4【中秋快乐】](http://www.acfun.cn/v/ac46247848)
+
++ [The Grand Tour S06E01 One For The Road 大结局 感谢一路有你](http://www.acfun.cn/v/ac46248033)
+

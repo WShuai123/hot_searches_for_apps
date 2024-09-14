@@ -35,3 +35,9 @@
 
 + [2025 款大众 Taos 发布：174 马力，8 英寸屏幕，全新前脸设计，摒弃 DSG 变速箱](https://m.ithome.com/html/795566.htm)
 
++ [小米 SU7 汽车申报增加车窗框装饰条、黑色徽标、涂色卡钳等选装](https://m.ithome.com/html/795755.htm)
+
++ [极氪发布极氪 001 杭州过火情况说明：已排除动力电池起火因素](https://m.ithome.com/html/795768.htm)
+
++ [苹果 iPhone 16 Pro / Max 机型国行保外维修更换电池费用 969 元，涨价 160 元约 19.7%](https://m.ithome.com/html/795782.htm)
+

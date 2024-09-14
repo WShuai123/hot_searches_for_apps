@@ -163,3 +163,9 @@
 
 + [vue3路由基本使用](https://blog.csdn.net/qq_48763502/article/details/142200903)
 
++ [深度学习-神经网络](https://blog.csdn.net/2301_77698138/article/details/142218511)
+
++ [基于Python实现一个庆祝国庆节的小程序](https://blog.csdn.net/laochao2020/article/details/142234785)
+
++ [【计算机网络】HTTP相关问题与解答](https://blog.csdn.net/weixin_45653183/article/details/142151099)
+
