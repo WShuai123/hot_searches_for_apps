@@ -53,3 +53,5 @@
 
 + [华为“纯血”鸿蒙系统 HarmonyOS NEXT 将于 9 月底推出正式版](https://m.ithome.com/html/795867.htm)
 
++ [新券接力：全国人人可享政府数码家电至高 2000 元补贴，合计 1.6 万元](https://m.ithome.com/html/795869.htm)
+

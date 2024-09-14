@@ -67,3 +67,5 @@
 
 + [内网渗透学习笔记整理Trick](https://www.freebuf.com/vuls/407474.html)
 
++ [你遇到过哪些奇葩面试题目；如何考察渗透测试与安全管理能力| FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/411030.html)
+
