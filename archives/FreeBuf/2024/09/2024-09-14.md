@@ -49,3 +49,5 @@
 
 + [只针对Linux，甲骨文Weblogic服务器被黑客入侵](https://www.freebuf.com/news/410985.html)
 
++ [苹果 Vision Pro 曝出严重漏洞，黑客可通过用户眼动输入窃取信息](https://www.freebuf.com/news/411003.html)
+

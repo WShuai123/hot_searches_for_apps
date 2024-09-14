@@ -181,3 +181,67 @@
 
 + [Capcom为何不重制《生化危机5》 舅舅给出解释](https://www.3dmgame.com/news/202409/3904185.html)
 
++ [山西悬空寺推出《黑神话》雪糕 太精致网友舍不得吃](https://www.3dmgame.com/news/202409/3904199.html)
+
++ [彭博社痛批PS5 Pro 将会是一个很容易被人遗忘的过去](https://www.3dmgame.com/news/202409/3904193.html)
+
++ [悬着的心终于死了 索尼删除PS VR2电量显示图标 并无无线版本](https://www.3dmgame.com/news/202409/3904197.html)
+
++ [北濑佳范：《最终幻想7》重制版第三部不会背叛原作粉丝 但会引入新元素](https://www.3dmgame.com/news/202409/3904198.html)
+
++ [PS5 Pro太贵不如买PC？数毛社：别想得太美了](https://www.3dmgame.com/news/202409/3904196.html)
+
++ [《幻兽帕鲁》转为免费游戏？开发商CEO：还不能确定](https://www.3dmgame.com/news/202409/3904195.html)
+
++ [育碧包容性计划排除男性 仅女性及非二元性别可参与](https://www.3dmgame.com/news/202409/3904194.html)
+
++ [解谜冒险游戏《水晶公主的迷宫》现已上架Steam平台 预计2025年推出](https://www.3dmgame.com/news/202409/3904192.html)
+
++ [山西文旅宣布联动《黑神话》：知道你很急 但先别急](https://www.3dmgame.com/news/202408/3901661.html)
+
++ [《寂静岭2：重制版》发售准备工作已经开始](https://www.3dmgame.com/news/202408/3901675.html)
+
++ [沙盒侦探游戏《凶影疑云》将于9月26日离开抢先体验正式发售](https://www.3dmgame.com/news/202408/3901671.html)
+
++ [无损外接桌面独显!零刻专用EX显卡扩展坞开售：599元](https://www.3dmgame.com/news/202408/3901668.html)
+
++ [亚洲版《数码方块地球防卫军 2》将针对PS®Plus高级会员提供试玩版！](https://www.3dmgame.com/news/202408/3901666.html)
+
++ [招聘信息暗示《战地》新作或将有开放世界玩法](https://www.3dmgame.com/news/202408/3901665.html)
+
++ [美国大学新研究 人类寿命有望能延长至130岁](https://www.3dmgame.com/news/202408/3901662.html)
+
++ [腾讯回应微信自动清理3天未读消息：未接收会清理](https://www.3dmgame.com/news/202408/3901663.html)
+
++ [《失乐园卡牌》登陆Steam 群像剧视觉小说新游](https://www.3dmgame.com/news/202408/3901655.html)
+
++ [《新星漂移》登陆Steam 好评奇幻太空战斗](https://www.3dmgame.com/news/202408/3901664.html)
+
++ [《平稳世代的韦驮天们》漫画连载完结 单行本第9卷秋季推出](https://www.3dmgame.com/news/202408/3901656.html)
+
++ [周鸿祎：360做网络安全是天命 但确实不赚钱](https://www.3dmgame.com/news/202408/3901667.html)
+
++ [《名侦探柯南：百万美元的五棱星》3DM观影圆满结束](https://www.3dmgame.com/news/202408/3901657.html)
+
++ [英国皇家铸币厂开拓新业务 从电子垃圾上提取黄金](https://www.3dmgame.com/news/202408/3901670.html)
+
++ [《怪物猎人：荒野》“大锤”武器介绍 兼具破坏力和机动力](https://www.3dmgame.com/news/202408/3901658.html)
+
++ [传AMD放弃推出RX 7400和7300两款入门级GPU 专注于RDNA 4](https://www.3dmgame.com/news/202408/3901672.html)
+
++ [Intel：新U计划不变、秋天有重大发布！](https://www.3dmgame.com/news/202408/3901659.html)
+
++ [《对马岛之鬼》影响力颇大 发售多年后仍被多个游戏参考](https://www.3dmgame.com/news/202408/3901674.html)
+
++ [美国运动员公开吐槽巴黎奥运会奖牌已掉色引围观：官方回应了](https://www.3dmgame.com/news/202408/3901660.html)
+
++ [《碧海黑帆》发售半年价格大跳水 目前仅10美元](https://www.3dmgame.com/news/202408/3901673.html)
+
++ [《电锯甜心RePOP》保留争议成就：偷瞄女主角裙底](https://www.3dmgame.com/news/202409/3904191.html)
+
++ [电影《红色一号：冬日行动》确定引进 档期待定](https://www.3dmgame.com/news/202409/3904190.html)
+
++ [指环王背景休闲模拟游戏《指环王：夏尔传说》宣布延期至2025年早期](https://www.3dmgame.com/news/202409/3904189.html)
+
++ [上美风格皮卡丘 宝可梦特别动画短片《但愿梦长久》公开](https://www.3dmgame.com/news/202409/3904188.html)
+
