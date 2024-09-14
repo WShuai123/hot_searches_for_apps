@@ -59,3 +59,5 @@
 
 + [FreeBuf 周报 |  阿里云某机房着火超30个小时；甲骨文Weblogic服务器被黑客入侵](https://www.freebuf.com/news/411068.html)
 
++ [仅剩6天 | WitAwards 2024网安年度评选报名从速！](https://www.freebuf.com/fevents/411057.html)
+
