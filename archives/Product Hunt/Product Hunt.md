@@ -101,3 +101,7 @@
 
 + [ContentRadar](https://www.producthunt.com/posts/contentradar)
 
++ [Genkin](https://www.producthunt.com/posts/genkin)
+
++ [Patched (YC S24)](https://www.producthunt.com/posts/patched-yc-s24)
+

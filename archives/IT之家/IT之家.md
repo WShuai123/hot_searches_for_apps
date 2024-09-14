@@ -25,3 +25,5 @@
 
 + [英伟达 CEO 黄仁勋：我们肩负世界，每天睡三个小时就够了](https://m.ithome.com/html/795927.htm)
 
++ [WeGame 上线两个《黑神话：悟空》新功能：实时地图、角色留言墙](https://m.ithome.com/html/795984.htm)
+
