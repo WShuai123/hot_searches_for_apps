@@ -173,3 +173,11 @@
 
 + [K歌音乐游戏《一起歌唱2025》​宣布11月发售](https://www.3dmgame.com/news/202409/3904176.html)
 
++ [《不朽者传奇》制作团队核心成员加入前R星创始人公司 并成立新工作室](https://www.3dmgame.com/news/202409/3904186.html)
+
++ [《魔兽世界：地心之战》IGN 9分 史上最好资料片](https://www.3dmgame.com/news/202409/3904187.html)
+
++ [《天国：拯救2》新细节透露 游戏世界更栩栩如生](https://www.3dmgame.com/news/202409/3904184.html)
+
++ [Capcom为何不重制《生化危机5》 舅舅给出解释](https://www.3dmgame.com/news/202409/3904185.html)
+

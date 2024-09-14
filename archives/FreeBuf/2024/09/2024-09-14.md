@@ -45,3 +45,7 @@
 
 + [两个影响WPS Office的任意代码执行漏洞分析](https://www.freebuf.com/articles/paper/409990.html)
 
++ [中间件利用面总结](https://www.freebuf.com/articles/web/410325.html)
+
++ [只针对Linux，甲骨文Weblogic服务器被黑客入侵](https://www.freebuf.com/news/410985.html)
+
