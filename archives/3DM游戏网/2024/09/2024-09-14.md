@@ -245,3 +245,7 @@
 
 + [上美风格皮卡丘 宝可梦特别动画短片《但愿梦长久》公开](https://www.3dmgame.com/news/202409/3904188.html)
 
++ [世嘉部分游戏Steam国区售价永降：《如龙》《女神异闻录》等](https://www.3dmgame.com/news/202409/3904201.html)
+
++ [类肉鸽策略冒险游戏《信仰》全新演示预告公布 游戏已上架Steam平台](https://www.3dmgame.com/news/202409/3904200.html)
+

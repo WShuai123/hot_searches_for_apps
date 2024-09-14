@@ -51,3 +51,5 @@
 
 + [苹果 Vision Pro 曝出严重漏洞，黑客可通过用户眼动输入窃取信息](https://www.freebuf.com/news/411003.html)
 
++ [《人工智能生成合成内容标识办法（征求意见稿）》发布](https://www.freebuf.com/articles/411017.html)
+

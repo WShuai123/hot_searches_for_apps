@@ -33,3 +33,5 @@
 
 + [苹果硬件技术高级副总裁 Johny Srouji：Apple 智能促使 iPhone 16 系列手机全系标配 8GB 内存](https://m.ithome.com/html/795741.htm)
 
++ [2025 款大众 Taos 发布：174 马力，8 英寸屏幕，全新前脸设计，摒弃 DSG 变速箱](https://m.ithome.com/html/795566.htm)
+
