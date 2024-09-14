@@ -55,3 +55,5 @@
 
 + [漏洞分析与实战分享 | 深入探讨pkexec提权漏洞](https://www.freebuf.com/articles/system/409322.html)
 
++ [Amoco：一款针对二进制源码的安全分析工具](https://www.freebuf.com/sectool/410463.html)
+
