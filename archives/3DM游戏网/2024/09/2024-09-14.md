@@ -157,3 +157,19 @@
 
 + [17日踏入艾泽拉斯 《守望先锋2》联动《魔兽世界》](https://www.3dmgame.com/news/202409/3904171.html)
 
++ [《生化危机：代号维罗妮卡》重制不会像4代那样精致](https://www.3dmgame.com/news/202409/3904183.html)
+
++ [《刺客信条：影》全新截图 静谧美丽如诗如梦](https://www.3dmgame.com/news/202409/3904182.html)
+
++ [美少女恋爱游戏《制服女友2》公布 明年1月23日发售](https://www.3dmgame.com/news/202409/3904181.html)
+
++ [历经2个月 真人电影《看门狗》拍摄圆满结束](https://www.3dmgame.com/news/202409/3904180.html)
+
++ [须田刚一认为现在人们过于看重MC评分](https://www.3dmgame.com/news/202409/3904179.html)
+
++ [2D动作《雨魂》脱离抢先体验正式推出](https://www.3dmgame.com/news/202409/3904178.html)
+
++ [《雷纳提斯》试玩已在多平台推出 全球版9/27推出](https://www.3dmgame.com/news/202409/3904177.html)
+
++ [K歌音乐游戏《一起歌唱2025》​宣布11月发售](https://www.3dmgame.com/news/202409/3904176.html)
+
