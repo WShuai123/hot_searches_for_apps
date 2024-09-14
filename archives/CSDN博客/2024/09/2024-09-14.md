@@ -169,3 +169,15 @@
 
 + [【计算机网络】HTTP相关问题与解答](https://blog.csdn.net/weixin_45653183/article/details/142151099)
 
++ [网红酒店|基于java的网红酒店预定系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/142247706)
+
++ [负载均衡：从理论到实践 ---day04](https://blog.csdn.net/m0_67187271/article/details/142071549)
+
++ [【Vue】- Vue核心语法](https://blog.csdn.net/sinat_24542619/article/details/142211644)
+
++ [基于SpringBoot+Vue+MySQL的画师约稿平台系统](https://blog.csdn.net/2301_79746051/article/details/142234461)
+
++ [Python爬虫案例七：抓取南京公交信息数据并将其保存成excel多表形式](https://blog.csdn.net/m0_74614835/article/details/142214399)
+
++ [微信小程序中的实时通讯：TCP/UDP 协议实现详解](https://blog.csdn.net/qq_40791475/article/details/142205930)
+

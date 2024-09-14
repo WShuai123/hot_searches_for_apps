@@ -53,3 +53,5 @@
 
 + [《人工智能生成合成内容标识办法（征求意见稿）》发布](https://www.freebuf.com/articles/411017.html)
 
++ [漏洞分析与实战分享 | 深入探讨pkexec提权漏洞](https://www.freebuf.com/articles/system/409322.html)
+
