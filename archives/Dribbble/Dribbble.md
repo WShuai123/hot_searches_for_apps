@@ -121,3 +121,11 @@
 
 + [Fashion logo, luxury logo, simple logo](https://dribbble.com/shots/)
 
++ [Bjorki Logo design proposal](https://dribbble.com/shots/)
+
++ [motionstr Logo Design](https://dribbble.com/shots/)
+
++ [Star Percent](https://dribbble.com/shots/)
+
++ [Real Estate Commercial Website](https://dribbble.com/shots/)
+

@@ -65,3 +65,5 @@
 
 + [“网事”变“往事”，网安人初心始终如一 | FCIS2024大会十周年](https://www.freebuf.com/fevents/411026.html)
 
++ [内网渗透学习笔记整理Trick](https://www.freebuf.com/vuls/407474.html)
+
