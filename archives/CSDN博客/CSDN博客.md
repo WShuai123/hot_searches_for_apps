@@ -127,3 +127,5 @@
 
 + [npm 设置国内镜像源](https://blog.csdn.net/u011518709/article/details/142203940)
 
++ [开源大数据Hadoop伪分布式搭建及虚拟机的创建](https://blog.csdn.net/Morpheus_Luen/article/details/142219056)
+
