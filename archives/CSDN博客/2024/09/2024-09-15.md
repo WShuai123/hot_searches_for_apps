@@ -123,3 +123,7 @@
 
 + [Kafka高吞吐量的原因](https://blog.csdn.net/maligebazi/article/details/142205733)
 
++ [Vue - 详细介绍vue-qr在线生成二维码组件（Vue2 & Vue3）](https://blog.csdn.net/miaomiaowins/article/details/142204537)
+
++ [npm 设置国内镜像源](https://blog.csdn.net/u011518709/article/details/142203940)
+

@@ -59,3 +59,9 @@
 
 + [LOGO - PEACOCK](https://dribbble.com/shots/)
 
++ [IC Monogram Study](https://dribbble.com/shots/)
+
++ [Insurance Mobile iOS App Design Concept](https://dribbble.com/shots/)
+
++ [Icon of the Day #11](https://dribbble.com/shots/)
+
