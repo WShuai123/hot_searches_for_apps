@@ -61,3 +61,7 @@
 
 + [仅剩6天 | WitAwards 2024网安年度评选报名从速！](https://www.freebuf.com/fevents/411057.html)
 
++ [0day的产生 | 文件读取深度利用](https://www.freebuf.com/articles/web/409192.html)
+
++ [“网事”变“往事”，网安人初心始终如一 | FCIS2024大会十周年](https://www.freebuf.com/fevents/411026.html)
+

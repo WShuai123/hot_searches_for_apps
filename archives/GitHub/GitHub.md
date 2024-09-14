@@ -25,3 +25,33 @@
 
 + [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
++ [Future-House / paper-qa](https://github.com/Future-House/paper-qa)
+
++ [google / jax](https://github.com/google/jax)
+
++ [sveltejs / svelte](https://github.com/sveltejs/svelte)
+
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [google / googletest](https://github.com/google/googletest)
+
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [squidfunk / mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+
++ [FRRouting / frr](https://github.com/FRRouting/frr)
+
++ [4ian / GDevelop](https://github.com/4ian/GDevelop)
+
++ [sissbruecker / linkding](https://github.com/sissbruecker/linkding)
+
++ [fastlane / fastlane](https://github.com/fastlane/fastlane)
+
++ [xyflow / xyflow](https://github.com/xyflow/xyflow)
+
