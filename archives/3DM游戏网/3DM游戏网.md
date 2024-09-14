@@ -277,3 +277,19 @@
 
 + [《勇者斗恶龙3：HD-2D重制版》宣布开发完成 11月14日准时发售](https://www.3dmgame.com/news/202409/3904207.html)
 
++ [三星印度工厂罢工第五天！工人要求涨薪144% 不涨不干活](https://www.3dmgame.com/news/202409/3904223.html)
+
++ [小米SU7申报变更：增加多款新卡钳、轮毂、黑色车标等新外观](https://www.3dmgame.com/news/202409/3904218.html)
+
++ [《黑神话》游戏摄影新截图 铁扇公主四妹萍萍超美](https://www.3dmgame.com/news/202409/3904220.html)
+
++ [腾讯二次元英雄射击游戏《白厄战境》正式公布 2025年发售](https://www.3dmgame.com/news/202409/3904221.html)
+
++ [《黑神话》二姐和萍萍演员COS照 妆容服饰很还原](https://www.3dmgame.com/news/202409/3904222.html)
+
++ [英伟达黄仁勋：我们肩负世界 每天睡三个小时就够了](https://www.3dmgame.com/news/202409/3904217.html)
+
++ [《地狱神探2》制片人确认剧本已完成 但期望太大以至于不敢查看](https://www.3dmgame.com/news/202409/3904216.html)
+
++ [大宇董事长解释出售双剑IP：台湾年轻玩家更喜欢日韩游戏](https://www.3dmgame.com/news/202409/3904215.html)
+

@@ -57,3 +57,5 @@
 
 + [Amoco：一款针对二进制源码的安全分析工具](https://www.freebuf.com/sectool/410463.html)
 
++ [FreeBuf 周报 |  阿里云某机房着火超30个小时；甲骨文Weblogic服务器被黑客入侵](https://www.freebuf.com/news/411068.html)
+

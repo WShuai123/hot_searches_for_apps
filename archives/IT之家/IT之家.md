@@ -45,3 +45,11 @@
 
 + [35 岁员工猝死，美国两家银行巨头将限制员工每周工作不超 80 小时](https://m.ithome.com/html/795847.htm)
 
++ [Redmi 王腾：明起全国 3000 家小米之家免费送 30 万枚月饼](https://m.ithome.com/html/795813.htm)
+
++ [赛力斯拟以 81.64 亿元收购龙盛新能源，获得汽车超级工厂所有权](https://m.ithome.com/html/795758.htm)
+
++ [消息称小米 15 系列新机“蓄势待发”，同期备案有 eSIM 智能圆表、11.16 英寸平板](https://m.ithome.com/html/795822.htm)
+
++ [华为“纯血”鸿蒙系统 HarmonyOS NEXT 将于 9 月底推出正式版](https://m.ithome.com/html/795867.htm)
+
