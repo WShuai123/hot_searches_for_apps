@@ -303,3 +303,9 @@
 
 + [《冰汽时代2》开场CG动画公布 9月21日发售](https://www.3dmgame.com/news/202409/3904225.html)
 
++ [《DOTA2》TI13：中国战队XG淘汰出局 获得5-6名](https://www.3dmgame.com/news/202409/3904231.html)
+
++ [法律分析师：育碧的导师计划违法 员工可以上诉](https://www.3dmgame.com/news/202409/3904230.html)
+
++ [育碧又被抓到使用AI机器人为游戏刷好评 这次是《刺客信条：影》](https://www.3dmgame.com/news/202409/3904229.html)
+
