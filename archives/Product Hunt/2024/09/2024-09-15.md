@@ -105,3 +105,5 @@
 
 + [Patched (YC S24)](https://www.producthunt.com/posts/patched-yc-s24)
 
++ [Replit Agent](https://www.producthunt.com/posts/replit-agent)
+

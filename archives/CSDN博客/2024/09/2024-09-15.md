@@ -107,3 +107,13 @@
 
 + [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142203721)
 
++ [【物联网技术大作业】设计一个智能家居的应用场景](https://blog.csdn.net/weixin_65186652/article/details/142214559)
+
++ [Vue-Route4 ts](https://blog.csdn.net/YUELEI118/article/details/141758696)
+
++ [应用层协议 —— https](https://blog.csdn.net/weixin_64099089/article/details/142148098)
+
++ [【SpringCloud】微服务架构演进与Spring Cloud简介](https://blog.csdn.net/Hsusan/article/details/142218943)
+
++ [微信小程序之轮播图组件封装](https://blog.csdn.net/weixin_72254790/article/details/141843696)
+
