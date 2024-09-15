@@ -113,3 +113,11 @@
 
 + [《魂斗罗》风格射击新作《霓虹地狱》公布 登陆PC Steam](https://www.3dmgame.com/news/202409/3904233.html)
 
++ [意大利查获大批中国产山寨复古游戏机：价值超3.7亿元](https://www.3dmgame.com/news/202409/3904242.html)
+
++ [“飞天小女警”将作为登场角色加入《华纳大乱斗》](https://www.3dmgame.com/news/202409/3904241.html)
+
++ [中国最大游戏博物馆上央视：可以体验《黑神话》](https://www.3dmgame.com/news/202409/3904240.html)
+
++ [Cerny表示已看到支持PS5 Pro 3种模式的游戏](https://www.3dmgame.com/news/202409/3904239.html)
+

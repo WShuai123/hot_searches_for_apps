@@ -133,3 +133,5 @@
 
 + [外包干了半年，快要废了。。。](https://blog.csdn.net/YJT1002/article/details/142209977)
 
++ [芯片架构介绍 (X86 , ARM, RISC-V) [0x02]](https://blog.csdn.net/qq_46817570/article/details/142264014)
+

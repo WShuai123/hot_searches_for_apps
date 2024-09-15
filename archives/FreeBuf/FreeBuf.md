@@ -45,3 +45,9 @@
 
 + [CVE-2024-21096：MySQLDump提权漏洞分析](https://www.freebuf.com/vuls/411090.html)
 
++ [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
+
++ [2024观安杯CTF全题目writeup](https://www.freebuf.com/defense/410543.html)
+
++ [延迟退休，该哭该笑？](https://www.freebuf.com/articles/411093.html)
+

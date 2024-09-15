@@ -29,3 +29,5 @@
 
 + [6159 元：苹果 M3 版 MacBook Air 13 英寸京东新低（官网 8999 元）](https://m.ithome.com/html/796001.htm)
 
++ [我国国产 DUV 光刻机迎来里程碑式进步，套刻≤8nm](https://m.ithome.com/html/796021.htm)
+
