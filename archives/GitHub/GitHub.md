@@ -35,3 +35,23 @@
 
 + [xyflow / xyflow](https://github.com/xyflow/xyflow)
 
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [frdel / agent-zero](https://github.com/frdel/agent-zero)
+
++ [apache / iotdb](https://github.com/apache/iotdb)
+
++ [phil-opp / blog_os](https://github.com/phil-opp/blog_os)
+
++ [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [0voice / expert_readed_books](https://github.com/0voice/expert_readed_books)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+

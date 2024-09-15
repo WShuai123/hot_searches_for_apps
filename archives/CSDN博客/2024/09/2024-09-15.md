@@ -179,3 +179,7 @@
 
 + [滚雪球学SpringCloud[2.3]：服务发现与负载均衡详解](https://blog.csdn.net/weixin_43970743/article/details/141143639)
 
++ [Redis（主从复制、哨兵模式、集群）概述及部署测试](https://blog.csdn.net/pangdongqiqi/article/details/142167849)
+
++ [第158天：安全开发-Python-Socket编程&反弹Shell&分离免杀&端口探针&域名爆破](https://blog.csdn.net/weixin_71529930/article/details/142245195)
+
