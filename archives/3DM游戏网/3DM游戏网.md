@@ -149,3 +149,5 @@
 
 + [香港武打演员徐少强去世，享年73岁](https://www.3dmgame.com/news/202409/3904256.html)
 
++ [华硕技嘉已注册大量Z890主板 分别有29款和18款](https://www.3dmgame.com/news/202409/3904257.html)
+
