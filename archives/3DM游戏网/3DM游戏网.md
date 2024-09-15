@@ -125,3 +125,5 @@
 
 + [发行商确认《勇敢小骑士》在NS上无法以60fps运行](https://www.3dmgame.com/news/202409/3904243.html)
 
++ [《堡垒：猎鹰战纪》大改版获好评 开启五折促销活动](https://www.3dmgame.com/news/202409/3904245.html)
+

@@ -31,3 +31,7 @@
 
 + [我国国产 DUV 光刻机迎来里程碑式进步，套刻≤8nm](https://m.ithome.com/html/796021.htm)
 
++ [苹果 iPhone 16 Pro 跑分再曝光，A18 Pro 多核性能超 M1 芯片](https://m.ithome.com/html/796026.htm)
+
++ [5359 元：苹果 M2 版 MacBook Air 13 英寸京东新低（官网 7999 元）](https://m.ithome.com/html/795999.htm)
+
