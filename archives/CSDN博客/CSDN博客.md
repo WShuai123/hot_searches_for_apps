@@ -195,3 +195,5 @@
 
 + [Python编码系列—Python抽象工厂模式：构建复杂对象家族的蓝图](https://blog.csdn.net/u013889591/article/details/142255646)
 
++ [K8s 简介以及详细部署步骤](https://blog.csdn.net/TYM121380/article/details/142267976)
+

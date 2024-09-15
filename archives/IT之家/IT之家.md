@@ -61,3 +61,9 @@
 
 + [小米澎湃 OS 体验增强版 Beta 招募新增答题时间：小米 14、Redmi K60 至尊版、小米平板 6S Pro 12.4 首批尝鲜](https://m.ithome.com/html/796121.htm)
 
++ [亲生母亲“演养母”直播卖惨，百万粉丝网红被抓](https://m.ithome.com/html/796132.htm)
+
++ [小米米家自然风 Pro 3 匹挂机空调发布：双缸压缩机、1500m³/h 风量，5999 元](https://m.ithome.com/html/796049.htm)
+
++ [科技昨夜今晨 0915：华为纯血鸿蒙 9 月底推正式版；iPhone 16 Pro 系列更换电池涨 20% 至 969 元；消息称小米 15 系列新机“蓄势待发”](https://m.ithome.com/html/796030.htm)
+

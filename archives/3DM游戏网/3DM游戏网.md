@@ -155,3 +155,5 @@
 
 + [《赛博朋克2077》AMD FSR 3测试 整体令人失望](https://www.3dmgame.com/news/202409/3904258.html)
 
++ [《变形金刚：起源》中秋假期点映 首日口碑普遍叫好](https://www.3dmgame.com/news/202409/3904260.html)
+
