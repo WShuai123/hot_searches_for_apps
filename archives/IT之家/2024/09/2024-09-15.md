@@ -35,3 +35,7 @@
 
 + [5359 元：苹果 M2 版 MacBook Air 13 英寸京东新低（官网 7999 元）](https://m.ithome.com/html/795999.htm)
 
++ [特斯拉 Semi 电动卡车起火，用了 200 吨水才灭掉](https://m.ithome.com/html/796012.htm)
+
++ [蔚来行政旗舰轿车 ET9 最新实车谍照曝光，车身姿态比官图更低](https://m.ithome.com/html/795982.htm)
+
