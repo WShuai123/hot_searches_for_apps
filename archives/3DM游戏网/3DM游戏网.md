@@ -147,3 +147,5 @@
 
 + [《绝地潜兵2》开发者自评新补丁：可以打7到8分](https://www.3dmgame.com/news/202409/3904254.html)
 
++ [香港武打演员徐少强去世，享年73岁](https://www.3dmgame.com/news/202409/3904256.html)
+

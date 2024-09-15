@@ -183,3 +183,11 @@
 
 + [第158天：安全开发-Python-Socket编程&反弹Shell&分离免杀&端口探针&域名爆破](https://blog.csdn.net/weixin_71529930/article/details/142245195)
 
++ [【Qt】绘图API](https://blog.csdn.net/dab112/article/details/141688490)
+
++ [SpringBoot：token是用来鉴权的，那session的作用是什么？](https://blog.csdn.net/A79800/article/details/142257355)
+
++ [【MySQL】MySQL索引与事务的透析——（超详解）](https://blog.csdn.net/GGBond778/article/details/142281916)
+
++ [SpringBoot权限认证-Sa-Token的使用与详解](https://blog.csdn.net/weixin_41793160/article/details/142236580)
+

@@ -53,3 +53,7 @@
 
 + [蔚来换电服务收费模式调整方案发布：“一口价”改为“按度收费”，今年 9 月 24 日 0 点上线生效](https://m.ithome.com/html/796064.htm)
 
++ [iOS 18 发布倒计时，苹果恢复钱包应用 Tap to Provision 功能](https://m.ithome.com/html/796023.htm)
+
++ [领克首款纯电 SUV Z20 官图发布，下月欧洲首发亮相](https://m.ithome.com/html/796008.htm)
+

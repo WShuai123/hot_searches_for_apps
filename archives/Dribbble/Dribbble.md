@@ -105,3 +105,13 @@
 
 + [Monket™ - Logo & Branding for a Business Consulting Company](https://dribbble.com/shots/)
 
++ [Win Screen - Counter Strike 2](https://dribbble.com/shots/)
+
++ [exelenc- layer, e letter logo design](https://dribbble.com/shots/)
+
++ [Web Design(UX+UI) for cryptocurrency](https://dribbble.com/shots/)
+
++ [Bitcrest — Crypto Wallet Logo](https://dribbble.com/shots/)
+
++ [eco, garden, leaf logo, green solar, logo design](https://dribbble.com/shots/)
+
