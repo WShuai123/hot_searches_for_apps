@@ -121,3 +121,7 @@
 
 + [Cerny表示已看到支持PS5 Pro 3种模式的游戏](https://www.3dmgame.com/news/202409/3904239.html)
 
++ [Pocketpair澄清表示《幻兽帕鲁》无意转型免费游戏](https://www.3dmgame.com/news/202409/3904244.html)
+
++ [发行商确认《勇敢小骑士》在NS上无法以60fps运行](https://www.3dmgame.com/news/202409/3904243.html)
+
