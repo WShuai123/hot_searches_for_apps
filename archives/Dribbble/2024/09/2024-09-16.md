@@ -65,3 +65,9 @@
 
 + [VABALAS Wordmark Logotype Design / Identity](https://dribbble.com/shots/)
 
++ [Crypto Wallet Dashboard](https://dribbble.com/shots/)
+
++ [A Lettermark](https://dribbble.com/shots/)
+
++ [Self-Adjusting](https://dribbble.com/shots/)
+

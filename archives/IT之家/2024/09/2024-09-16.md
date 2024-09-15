@@ -27,3 +27,5 @@
 
 + [消息称苹果 Apple Store 西安直营店将落地](https://m.ithome.com/html/796145.htm)
 
++ [我国超薄玻璃厚度仅 0.03 毫米打破垄断，可让折叠手机使用超 20 年](https://m.ithome.com/html/796151.htm)
+
