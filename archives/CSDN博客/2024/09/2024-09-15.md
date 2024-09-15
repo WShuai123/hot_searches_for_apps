@@ -191,3 +191,7 @@
 
 + [SpringBoot权限认证-Sa-Token的使用与详解](https://blog.csdn.net/weixin_41793160/article/details/142236580)
 
++ [构建基于 Feign 的微服务：从 Eureka 到负载均衡的实践 --day05](https://blog.csdn.net/m0_67187271/article/details/142280177)
+
++ [Python编码系列—Python抽象工厂模式：构建复杂对象家族的蓝图](https://blog.csdn.net/u013889591/article/details/142255646)
+

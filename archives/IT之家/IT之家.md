@@ -57,3 +57,7 @@
 
 + [领克首款纯电 SUV Z20 官图发布，下月欧洲首发亮相](https://m.ithome.com/html/796008.htm)
 
++ [苹果官网显示 AirPods 充电盒无线充电额定传输功率 1W，覆盖 A1938、A2190 等 5 款型号](https://m.ithome.com/html/796083.htm)
+
++ [小米澎湃 OS 体验增强版 Beta 招募新增答题时间：小米 14、Redmi K60 至尊版、小米平板 6S Pro 12.4 首批尝鲜](https://m.ithome.com/html/796121.htm)
+
