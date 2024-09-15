@@ -139,3 +139,5 @@
 
 + [WeGame平台为《黑神话：悟空》上线实时地图功能](https://www.3dmgame.com/news/202409/3904248.html)
 
++ [《眼镜蛇》主演想参演《海贼王》：演个龙套也愿意](https://www.3dmgame.com/news/202409/3904252.html)
+

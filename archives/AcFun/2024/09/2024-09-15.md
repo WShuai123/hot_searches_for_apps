@@ -99,3 +99,5 @@
 
 + [紫色果然很有韵味](http://www.acfun.cn/v/ac46253976)
 
++ [这剧太变态了，好炸裂的台词](http://www.acfun.cn/v/ac46253121)
+

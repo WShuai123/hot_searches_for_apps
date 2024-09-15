@@ -171,3 +171,7 @@
 
 + [【C#】自动升级工具](https://blog.csdn.net/youcheng_ge/article/details/142263150)
 
++ [【LLM多模态】文生视频评测基准VBench](https://blog.csdn.net/qq_35812205/article/details/142267679)
+
++ [Elasticsearch知识点整理](https://blog.csdn.net/Chen_leilei/article/details/142250529)
+

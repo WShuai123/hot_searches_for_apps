@@ -99,3 +99,7 @@
 
 + [Ampex logo/A letter Candle light logo design](https://dribbble.com/shots/)
 
++ [Olivine Mineral App Concept 💎](https://dribbble.com/shots/)
+
++ [Venxu Modern Technology Logo](https://dribbble.com/shots/)
+
