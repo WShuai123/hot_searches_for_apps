@@ -131,3 +131,11 @@
 
 + [阿里云盘相册竟能看其他人照片！官方回应已修复BUG](https://www.3dmgame.com/news/202409/3904247.html)
 
++ [《最终幻想7：重生》监督笑谈“大BOSS查德利”猜想](https://www.3dmgame.com/news/202409/3904251.html)
+
++ [前BioWare总经理：看到《博德之门3》就再也不想回去](https://www.3dmgame.com/news/202409/3904250.html)
+
++ [《阿加莎：混沌女巫团》导演：我们无需担心审美疲劳](https://www.3dmgame.com/news/202409/3904249.html)
+
++ [WeGame平台为《黑神话：悟空》上线实时地图功能](https://www.3dmgame.com/news/202409/3904248.html)
+

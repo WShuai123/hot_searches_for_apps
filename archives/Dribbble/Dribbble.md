@@ -87,3 +87,15 @@
 
 + [Pablo Center - Logo Evolution Animation](https://dribbble.com/shots/)
 
++ [Pet care app](https://dribbble.com/shots/)
+
++ [Spliteroo – Smart Group Expense Splitting with Instant Split](https://dribbble.com/shots/)
+
++ [data analytic, web3, fintech logo, software logo, logo design](https://dribbble.com/shots/)
+
++ [Yoga T-shirt Design Collections | Yoga T-shirt Designs Bundle](https://dribbble.com/shots/)
+
++ [HR Management Platform 2024](https://dribbble.com/shots/)
+
++ [Ampex logo/A letter Candle light logo design](https://dribbble.com/shots/)
+
