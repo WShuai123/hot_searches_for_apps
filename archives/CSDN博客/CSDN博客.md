@@ -129,3 +129,7 @@
 
 + [开源大数据Hadoop伪分布式搭建及虚拟机的创建](https://blog.csdn.net/Morpheus_Luen/article/details/142219056)
 
++ [JVM 调优篇7 调优案例1-堆空间的优化解决](https://blog.csdn.net/u011066470/article/details/142265939)
+
++ [外包干了半年，快要废了。。。](https://blog.csdn.net/YJT1002/article/details/142209977)
+

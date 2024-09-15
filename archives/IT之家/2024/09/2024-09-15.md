@@ -27,3 +27,5 @@
 
 + [WeGame 上线两个《黑神话：悟空》新功能：实时地图、角色留言墙](https://m.ithome.com/html/795984.htm)
 
++ [6159 元：苹果 M3 版 MacBook Air 13 英寸京东新低（官网 8999 元）](https://m.ithome.com/html/796001.htm)
+

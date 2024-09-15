@@ -101,3 +101,15 @@
 
 + [腾讯回应微信自动清理3天未读消息：未接收会清理](https://www.3dmgame.com/news/202408/3901663.html)
 
++ [SIE重申主机业务仍是核心 但登陆PC能拓展用户群体](https://www.3dmgame.com/news/202409/3904235.html)
+
++ [《控制2》发行不会受到Annapurna员工辞职的影响](https://www.3dmgame.com/news/202409/3904236.html)
+
++ [索尼分享《宇宙机器人》赞誉预告片彰显一致好评](https://www.3dmgame.com/news/202409/3904237.html)
+
++ [《指环王：夏尔的传说》被批太正确 黑人霍比特人？](https://www.3dmgame.com/news/202409/3904238.html)
+
++ [育碧：《刺客信条：影》是系列画面最先进游戏](https://www.3dmgame.com/news/202409/3904234.html)
+
++ [《魂斗罗》风格射击新作《霓虹地狱》公布 登陆PC Steam](https://www.3dmgame.com/news/202409/3904233.html)
+
