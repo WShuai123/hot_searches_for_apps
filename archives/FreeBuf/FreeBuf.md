@@ -53,3 +53,5 @@
 
 + [靶场战神为何会陨落？](https://www.freebuf.com/articles/network/410153.html)
 
++ [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
+
