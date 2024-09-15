@@ -175,3 +175,7 @@
 
 + [Elasticsearch知识点整理](https://blog.csdn.net/Chen_leilei/article/details/142250529)
 
++ [沉浸式体验Stability AI最新超强AI图片生成模型Ultra](https://blog.csdn.net/m0_66628975/article/details/142281785)
+
++ [滚雪球学SpringCloud[2.3]：服务发现与负载均衡详解](https://blog.csdn.net/weixin_43970743/article/details/141143639)
+

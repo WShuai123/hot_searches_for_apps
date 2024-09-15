@@ -49,3 +49,7 @@
 
 + [比亚迪公布“夏”IP 字标首批 5 个投稿作品，被选用者可获夏 MPV 三年使用权](https://m.ithome.com/html/796022.htm)
 
++ [小米 14T Pro 手机宣传图曝光：天玑 9300+ 芯片、集成谷歌 Gemini AI，9 月 26 日发布](https://m.ithome.com/html/796061.htm)
+
++ [蔚来换电服务收费模式调整方案发布：“一口价”改为“按度收费”，今年 9 月 24 日 0 点上线生效](https://m.ithome.com/html/796064.htm)
+
