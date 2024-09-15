@@ -201,3 +201,9 @@
 
 + [Keep - 跑步健身骑行瑜伽，一键开动！](https://itunes.apple.com/cn/app/id952694580?mt=8)
 
++ [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
+
++ [小米运动健康](https://itunes.apple.com/cn/app/id1493500777?mt=8)
+
++ [芒果TV](https://itunes.apple.com/cn/app/id629774477?mt=8)
+
