@@ -101,3 +101,5 @@
 
 + [2024《极限竞速：地平线 5》领克杯FHL秋季赛直播即将开启！](https://www.3dmgame.com/news/202409/3904212.html)
 
++ [发售近一个月 《黑神话：悟空》热度依旧](https://www.3dmgame.com/news/202409/3904264.html)
+

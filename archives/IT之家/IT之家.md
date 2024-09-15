@@ -25,3 +25,5 @@
 
 + [古尔曼：苹果将在 10 月推出 M4 Mac、新款 iPad mini 和 iPad 11](https://m.ithome.com/html/796148.htm)
 
++ [消息称苹果 Apple Store 西安直营店将落地](https://m.ithome.com/html/796145.htm)
+

@@ -107,3 +107,29 @@
 
 + [深入了解Linux操作系统：开源世界的基石](https://blog.csdn.net/weixin_37647148/article/details/142253997)
 
++ [MySQL数据的增删改查（一）](https://blog.csdn.net/2301_76161469/article/details/142063668)
+
++ [Java的发展史与前景](https://blog.csdn.net/2303_79015671/article/details/142266428)
+
++ [python的流程控制语句之制作空气质量评估系统](https://blog.csdn.net/2301_77628600/article/details/142260192)
+
++ [npm 设置国内镜像源](https://blog.csdn.net/u011518709/article/details/142203940)
+
++ [【IP协议】解决 IP 地址不够用的问题（IP地址管理：动态分配、NAT、Ipv6）](https://blog.csdn.net/Yeeear/article/details/142280618)
+
++ [Springboot项目总结](https://blog.csdn.net/2301_80454352/article/details/142214534)
+
++ [rpc某银理财 payload加密](https://blog.csdn.net/weixin_58115330/article/details/142290414)
+
++ [OpenHarmony（鸿蒙南向开发）——标准系统移植指南（一）](https://blog.csdn.net/u012165769/article/details/142257016)
+
++ [linux进程间通信——管道技术应用，简易进程池实现——pipe实战学习](https://blog.csdn.net/strive_mianyang/article/details/142183711)
+
++ [项目：构建高可用、负载均衡的高效Web服务器](https://blog.csdn.net/hotslow/article/details/141902788)
+
++ [【网络安全的神秘世界】目录遍历漏洞](https://blog.csdn.net/weixin_54750312/article/details/142251575)
+
++ [基于扣子(Coze)打造第一个智能体——个性化对话机器人](https://blog.csdn.net/epitomizelu/article/details/142218363)
+
++ [Linux中使用Docker构建Nginx容器完整教程](https://blog.csdn.net/jxjdhdnd/article/details/142211168)
+
