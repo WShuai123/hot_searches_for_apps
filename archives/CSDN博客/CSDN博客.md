@@ -159,3 +159,13 @@
 
 + [绕过CDN查找真实IP方法](https://blog.csdn.net/m0_74885516/article/details/142267050)
 
++ [【机器学习】--- 深度学习中的注意力机制](https://blog.csdn.net/2301_80863610/article/details/142217839)
+
++ [重塑在线软件开发新纪元：集成高效安全特性，深度解析与评估支持浏览器在线编程的系统架构设计](https://blog.csdn.net/g984160547/article/details/142180220)
+
++ [深度学习——数据预处理，张量降维](https://blog.csdn.net/2301_79815102/article/details/142260324)
+
++ [网络安全 DVWA通关指南 DVWA SQL Injection (Blind SQL盲注)](https://blog.csdn.net/YueXuan_521/article/details/142255595)
+
++ [打造民国风格炫酷个人网页：用HTML和CSS3传递民国风韵](https://blog.csdn.net/m0_61118741/article/details/142258883)
+

@@ -107,3 +107,25 @@
 
 + [Replit Agent](https://www.producthunt.com/posts/replit-agent)
 
++ [FusionCalc (Memo Calculator) for Chrome](https://www.producthunt.com/posts/fusioncalc-memo-calculator-for-chrome)
+
++ [Mooody.Space](https://www.producthunt.com/posts/mooody-space)
+
++ [InstaNote](https://www.producthunt.com/posts/instanote-3)
+
++ [MindPal](https://www.producthunt.com/posts/mindpal-4)
+
++ [FeatureFlow](https://www.producthunt.com/posts/featureflow-706fd824-0c88-4c80-be31-9e5138e9a569)
+
++ [Solvr](https://www.producthunt.com/posts/solvr)
+
++ [Droplo](https://www.producthunt.com/posts/droplo)
+
++ [AirBug](https://www.producthunt.com/posts/airbug)
+
++ [DateReady](https://www.producthunt.com/posts/dateready)
+
++ [Wise Buys](https://www.producthunt.com/posts/wise-buys)
+
++ [Tallyrus - the AI Essay Grader](https://www.producthunt.com/posts/tallyrus-the-ai-essay-grader)
+

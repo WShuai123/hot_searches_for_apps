@@ -127,3 +127,7 @@
 
 + [《堡垒：猎鹰战纪》大改版获好评 开启五折促销活动](https://www.3dmgame.com/news/202409/3904245.html)
 
++ [《漫漫长路 沙巫之旅》深受《辐射：新维加斯》启发](https://www.3dmgame.com/news/202409/3904246.html)
+
++ [阿里云盘相册竟能看其他人照片！官方回应已修复BUG](https://www.3dmgame.com/news/202409/3904247.html)
+
