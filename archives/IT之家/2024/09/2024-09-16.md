@@ -59,3 +59,5 @@
 
 + [不敌“真・牙膏厂”，英特尔市值被高露洁超越](https://m.ithome.com/html/796262.htm)
 
++ [网友使用华为 Mate XT 非凡大师三折叠手机实现裸眼 3D 效果，类似广场大屏](https://m.ithome.com/html/796239.htm)
+

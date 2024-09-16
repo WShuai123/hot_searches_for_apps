@@ -169,3 +169,9 @@
 
 + [AMD与笔电OEM厂商关系紧张 沟通、供应和支持都很差](https://www.3dmgame.com/news/202409/3904295.html)
 
++ [传PS6依旧采用AMD芯片 因英特尔在竞标主机设计中落败](https://www.3dmgame.com/news/202409/3904300.html)
+
++ [英伟达：AI已成为计算机图形学不可或缺一部分](https://www.3dmgame.com/news/202409/3904299.html)
+
++ [特斯拉第1亿颗4680电池下线 Optimus扮演“微小”助力](https://www.3dmgame.com/news/202409/3904298.html)
+
