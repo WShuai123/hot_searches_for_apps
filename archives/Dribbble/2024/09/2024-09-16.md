@@ -91,3 +91,15 @@
 
 + [UI-UX for an Education Platform ✦ AIG](https://dribbble.com/shots/)
 
++ [Omnimote | Homepage](https://dribbble.com/shots/)
+
++ [Letter H logos, logo design, logotype](https://dribbble.com/shots/)
+
++ [logo design letter Z brand identity](https://dribbble.com/shots/)
+
++ [E-commerce Website 2024](https://dribbble.com/shots/)
+
++ [Project Management - Dashboard](https://dribbble.com/shots/)
+
++ [ProArena, sports data & analytics logo design: stadium + check](https://dribbble.com/shots/)
+

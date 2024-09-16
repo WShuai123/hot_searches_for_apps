@@ -173,3 +173,7 @@
 
 + [AIGC实战——多模态模型Flamingo](https://blog.csdn.net/LOVEmy134611/article/details/142290102)
 
++ [微服务实战系列之玩转Docker（十五）](https://blog.csdn.net/splendid_java/article/details/142298367)
+
++ [k8s的NodeIP、PodIP、ClusterIP、ExternalIP](https://blog.csdn.net/qq_16170703/article/details/142300654)
+
