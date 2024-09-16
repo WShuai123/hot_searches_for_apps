@@ -151,3 +151,11 @@
 
 + [[PICO VR眼镜]眼动追踪串流Unity开发与使用方法，眼动追踪打包报错问题解决(Eye Tracking)](https://blog.csdn.net/Bartender_VA11/article/details/142262224)
 
++ [【Elasticsearch系列五】Java API](https://blog.csdn.net/qyj19920704/article/details/142288808)
+
++ [借老系统重构我准备写个OpenAPI3.1版的API管理工具(附录屏演示)](https://blog.csdn.net/felix_alone2012/article/details/142288952)
+
++ [基于yolov8的无人机检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142298346)
+
++ [用Python打造互动式中秋节庆祝小程序](https://blog.csdn.net/jacksoon/article/details/142291051)
+

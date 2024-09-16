@@ -105,3 +105,19 @@
 
 + [《DOTA2》TI13液体夺冠 晋级TI双冠俱乐部殿堂](https://www.3dmgame.com/news/202409/3904265.html)
 
++ [网友给女儿看《黑神话》和丈母娘吵翻：游戏血腥害孩子](https://www.3dmgame.com/news/202409/3904271.html)
+
++ [太慷慨了 索尼向大量随机用户发放PS Stars积分](https://www.3dmgame.com/news/202409/3904272.html)
+
++ [不用担惊受怕 《宇宙机器人》补丁修复自动存档功能](https://www.3dmgame.com/news/202409/3904273.html)
+
++ [传《刺客信条：影》《心灵杀手2》PS5 Pro性能模式分辨率只有864P](https://www.3dmgame.com/news/202409/3904267.html)
+
++ [《The Axis Unseen》宣布制作完成 将于10月发布](https://www.3dmgame.com/news/202409/3904268.html)
+
++ [牌组构建肉鸽动作游戏《Witch the Showdown》Steam页面开放 发售日期待定](https://www.3dmgame.com/news/202409/3904269.html)
+
++ [《DOTA2》全新英雄凯公布 影武团的首领](https://www.3dmgame.com/news/202409/3904270.html)
+
++ [《龙腾世纪：影障守护者》Steam预购量可能不太妙](https://www.3dmgame.com/news/202409/3904266.html)
+

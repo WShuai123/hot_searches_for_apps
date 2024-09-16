@@ -43,3 +43,5 @@
 
 + [从蓝队流量角度分析Shiro-550反序列化漏洞](https://www.freebuf.com/vuls/410346.html)
 
++ [Web3 安全入门避坑指南｜假矿池骗局](https://www.freebuf.com/articles/blockchain-articles/410612.html)
+
