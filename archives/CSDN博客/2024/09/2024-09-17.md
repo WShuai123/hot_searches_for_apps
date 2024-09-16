@@ -131,3 +131,9 @@
 
 + [UniApp 从Vue2升级为Vue3需要注意哪些方面](https://blog.csdn.net/xzp19841203xzp/article/details/142251760)
 
++ [如何写一段AI创作短视频的程序](https://blog.csdn.net/zx_glave/article/details/142302883)
+
++ [rocky Linux 9.4系统配置zabbix监控MySQL主从复制状态与配置钉钉告警](https://blog.csdn.net/gyqailxj/article/details/142303768)
+
++ [大型焊接管道内焊缝检查机器人结构设计](https://blog.csdn.net/qq_48697527/article/details/142299082)
+

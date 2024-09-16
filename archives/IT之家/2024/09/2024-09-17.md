@@ -25,3 +25,5 @@
 
 + [不敌“真・牙膏厂”，英特尔市值被高露洁超越](https://m.ithome.com/html/796262.htm)
 
++ [苹果 iOS / iPadOS 18.0 正式版发布：全新主屏自定义、平板内置计算器](https://m.ithome.com/html/796323.htm)
+
