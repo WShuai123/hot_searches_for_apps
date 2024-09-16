@@ -101,3 +101,9 @@
 
 + [《眼镜蛇》主演想参演《海贼王》：演个龙套也愿意](https://www.3dmgame.com/news/202409/3904252.html)
 
++ [《恶魔城：夜曲》第二季预告公开 明年1月开播](https://www.3dmgame.com/news/202409/3904304.html)
+
++ [一代神机！外媒精选Xbox360十五款大作](https://www.3dmgame.com/news/202409/3904303.html)
+
++ [《艾诺提亚：失落之歌》IGN 7分 战斗有趣、RPG不成熟](https://www.3dmgame.com/news/202409/3904302.html)
+

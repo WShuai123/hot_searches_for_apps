@@ -105,3 +105,19 @@
 
 + [python数据分析与可视化](https://blog.csdn.net/weixin_45710581/article/details/142279419)
 
++ [滚雪球学SpringCloud[4.1讲]： Spring Cloud Gateway详解](https://blog.csdn.net/weixin_43970743/article/details/141143708)
+
++ [“从零到一：使用IntelliJ IDEA打造你的梦幻HTML项目“](https://blog.csdn.net/weixin_73295475/article/details/142255408)
+
++ [响应式CSS 媒体查询——WEB开发系列39](https://blog.csdn.net/LEECOO666/article/details/142289567)
+
++ [【iOS】单例模式](https://blog.csdn.net/2301_80095702/article/details/142287315)
+
++ [探索 Kubernetes 服务网格：Istio 实战指南](https://blog.csdn.net/lilinhai548/article/details/142204362)
+
++ [基于扣子(Coze)打造第一个智能体——个性化对话机器人](https://blog.csdn.net/epitomizelu/article/details/142218363)
+
++ [基于2023年网络赛赛题了解OpenCv](https://blog.csdn.net/2301_80813724/article/details/142284649)
+
++ [OpenAI o1：AI推理的未来，如何平衡性能与成本？](https://blog.csdn.net/qq_44866828/article/details/142298624)
+
