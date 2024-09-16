@@ -133,3 +133,9 @@
 
 + [百度联盟大会发布首个智能体联盟解决方案](https://www.3dmgame.com/news/202409/3904278.html)
 
++ [《原神》角色预告-「基尼奇：驰焰猎逐」](https://www.3dmgame.com/news/202409/3904282.html)
+
++ [《战争机器》制作人：办公室文化杀死了《星鸣特攻》](https://www.3dmgame.com/news/202409/3904281.html)
+
++ [《文明7》公布古代时期细节 相比前作拥有大量变化](https://www.3dmgame.com/news/202409/3904280.html)
+

@@ -43,3 +43,5 @@
 
 + [小米 Redmi K80 / Pro 系列手机入网，搭骁龙 8 Gen 3/4 处理器](https://m.ithome.com/html/796173.htm)
 
++ [广电总局部署全国酒店电视终端以旧换新工作：鼓励置换超高清电视终端](https://m.ithome.com/html/796137.htm)
+

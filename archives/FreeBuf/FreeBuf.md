@@ -51,3 +51,5 @@
 
 + [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
 
++ [SessionExec：一款针对会话安全的安全命令测试工具](https://www.freebuf.com/sectool/410476.html)
+

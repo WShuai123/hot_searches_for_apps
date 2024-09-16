@@ -177,3 +177,9 @@
 
 + [k8s的NodeIP、PodIP、ClusterIP、ExternalIP](https://blog.csdn.net/qq_16170703/article/details/142300654)
 
++ [数据稀缺条件下的时间序列微分：符号回归(Symbolic Regression)方法介绍与Python示例](https://blog.csdn.net/m0_46510245/article/details/142298765)
+
++ [【AI大模型】ChatGPT模型原理介绍（下）](https://blog.csdn.net/2301_76820214/article/details/142299553)
+
++ [基于JDK1.8和Maven的GeoTools 28.X源码自主构建实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/142298259)
+
