@@ -147,3 +147,11 @@
 
 + [iPhone 16官方换块电池千元：苹果称人力、工艺都涨价](https://www.3dmgame.com/news/202409/3904283.html)
 
++ [《OpenHV》发布版本更新 加入单人与多人游戏地图](https://www.3dmgame.com/news/202409/3904290.html)
+
++ [《Monster High之骷髅终极秘密》Steam页面上线 10月29日发售](https://www.3dmgame.com/news/202409/3904289.html)
+
++ [玩家自制《血源》重制版视频显示项目最新进展情况](https://www.3dmgame.com/news/202409/3904288.html)
+
++ [苹果确认欧盟的iPad用户可通过第三方下载APP 9月16日起实行](https://www.3dmgame.com/news/202409/3904287.html)
+

@@ -131,3 +131,15 @@
 
 + [Luxury watch showcase page design](https://dribbble.com/shots/)
 
++ [Letter R + Arrows + Checkmark Logo](https://dribbble.com/shots/)
+
++ [UniHub Logo Design - People, Letter U Monogram](https://dribbble.com/shots/)
+
++ [Colorful Abstract Dog Logo](https://dribbble.com/shots/)
+
++ [Promax-Fashion Ecommerce Website 🔥](https://dribbble.com/shots/)
+
++ [Onton - Responsive Logo Design](https://dribbble.com/shots/)
+
++ [Project Management Landing Page](https://dribbble.com/shots/)
+
