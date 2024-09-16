@@ -33,3 +33,19 @@
 
 + [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
 
++ [ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID)
+
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [krayin / laravel-crm](https://github.com/krayin/laravel-crm)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [4ian / GDevelop](https://github.com/4ian/GDevelop)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+

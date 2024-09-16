@@ -161,3 +161,5 @@
 
 + [育碧声明《刺客信条：影》将充分尊重日本文化](https://www.3dmgame.com/news/202409/3904291.html)
 
++ [《Melobot - A Last Song》Steam发售 国区售价58元](https://www.3dmgame.com/news/202409/3904294.html)
+
