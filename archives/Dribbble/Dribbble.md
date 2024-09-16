@@ -111,3 +111,23 @@
 
 + [XCHAIN - logo for Crypto Technology](https://dribbble.com/shots/)
 
++ [Qure branding interaction](https://dribbble.com/shots/)
+
++ [Bento 2.0 Design](https://dribbble.com/shots/)
+
++ [Secured finance - fragments](https://dribbble.com/shots/)
+
++ [Finance Mobile App](https://dribbble.com/shots/)
+
++ [Solution Logo](https://dribbble.com/shots/)
+
++ [AI Podcasts OS](https://dribbble.com/shots/)
+
++ [Casper Cards Wallet: Crypto Token Page](https://dribbble.com/shots/)
+
++ [Orlive - Agency Website Design](https://dribbble.com/shots/)
+
++ [Bondly](https://dribbble.com/shots/)
+
++ [Luxury watch showcase page design](https://dribbble.com/shots/)
+

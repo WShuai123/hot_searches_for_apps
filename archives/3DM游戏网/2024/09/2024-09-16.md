@@ -139,3 +139,11 @@
 
 + [《文明7》公布古代时期细节 相比前作拥有大量变化](https://www.3dmgame.com/news/202409/3904280.html)
 
++ [数毛社：PS5 Pro光追不具变革性 但光谱超级分辨率很强](https://www.3dmgame.com/news/202409/3904286.html)
+
++ [《Flappy Bird》原作者澄清：不支持加密货币](https://www.3dmgame.com/news/202409/3904285.html)
+
++ [索尼高管：PC游戏体验不能与PS5 Pro主机相提并论](https://www.3dmgame.com/news/202409/3904284.html)
+
++ [iPhone 16官方换块电池千元：苹果称人力、工艺都涨价](https://www.3dmgame.com/news/202409/3904283.html)
+

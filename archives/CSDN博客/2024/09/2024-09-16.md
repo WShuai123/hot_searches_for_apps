@@ -183,3 +183,5 @@
 
 + [基于JDK1.8和Maven的GeoTools 28.X源码自主构建实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/142298259)
 
++ [基于微信小程序+推荐算法+SpringBoot的美食菜品自助点餐小程序设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/142280798)
+
