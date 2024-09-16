@@ -63,3 +63,5 @@
 
 + [【莉莉子】BESTie Hot Baby](http://www.acfun.cn/v/ac46235659)
 
++ [周公or妲己？她不是纣王的爱妃，也不是九尾妖狐，我们拨开妲己身上的七层真相，我们看清了梦中的周公](http://www.acfun.cn/v/ac46259517)
+
