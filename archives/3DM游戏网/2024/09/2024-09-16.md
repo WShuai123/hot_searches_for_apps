@@ -155,3 +155,9 @@
 
 + [苹果确认欧盟的iPad用户可通过第三方下载APP 9月16日起实行](https://www.3dmgame.com/news/202409/3904287.html)
 
++ [福布斯：游戏科学估值直逼育碧市值](https://www.3dmgame.com/news/202409/3904292.html)
+
++ [《盖瑞的模组》被吉尼斯认证为最畅销PC独占游戏](https://www.3dmgame.com/news/202409/3904293.html)
+
++ [育碧声明《刺客信条：影》将充分尊重日本文化](https://www.3dmgame.com/news/202409/3904291.html)
+

@@ -187,3 +187,13 @@
 
 + [【Linux】精通GDB：打造你的Linux调试超能力](https://blog.csdn.net/weixin_50776420/article/details/142187783)
 
++ [[乱码]确保命令行窗口与主流集成开发环境（IDE）统一采用UTF-8编码，以规避乱码问题](https://blog.csdn.net/2301_79450966/article/details/142284839)
+
++ [沉浸式体验和评测Meta最新超级大语言模型405B](https://blog.csdn.net/m0_66628975/article/details/142289513)
+
++ [基于协同过滤+python+django+vue的音乐推荐系统](https://blog.csdn.net/2301_78335941/article/details/142288170)
+
++ [【iOS】单例模式](https://blog.csdn.net/2301_80095702/article/details/142287315)
+
++ [[苍穹外卖]-11数据可视化接口开发](https://blog.csdn.net/CSDN20221005/article/details/142256827)
+
