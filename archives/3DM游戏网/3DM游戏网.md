@@ -121,3 +121,5 @@
 
 + [《龙腾世纪：影障守护者》Steam预购量可能不太妙](https://www.3dmgame.com/news/202409/3904266.html)
 
++ [治愈向养成放置游戏《许愿岛》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904274.html)
+

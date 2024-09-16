@@ -35,3 +35,5 @@
 
 + [国家金融监督管理总局重庆监管局：核准重庆小米消费金融有限公司开展资产证券化业务资格](https://m.ithome.com/html/796096.htm)
 
++ [小米 SUV 路试伪装车型谍照曝光：溜背式低趴风、爆料称“越看越有法拉利 Purosangue 味”](https://m.ithome.com/html/796175.htm)
+
