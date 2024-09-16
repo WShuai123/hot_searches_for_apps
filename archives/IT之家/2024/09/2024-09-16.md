@@ -37,3 +37,9 @@
 
 + [小米 SUV 路试伪装车型谍照曝光：溜背式低趴风、爆料称“越看越有法拉利 Purosangue 味”](https://m.ithome.com/html/796175.htm)
 
++ [郭明錤预测苹果 iPhone 16 系列首个周末预购销量 3700 万台，同比降低 12.7%](https://m.ithome.com/html/796160.htm)
+
++ [700 万劳斯莱斯库里南行驶中自燃，车主回应“事故原因正进行调查、车辆有全险”](https://m.ithome.com/html/796172.htm)
+
++ [小米 Redmi K80 / Pro 系列手机入网，搭骁龙 8 Gen 3/4 处理器](https://m.ithome.com/html/796173.htm)
+

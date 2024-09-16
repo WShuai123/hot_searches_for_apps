@@ -123,3 +123,9 @@
 
 + [治愈向养成放置游戏《许愿岛》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904274.html)
 
++ [中式恐怖《乌合之众》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202409/3904275.html)
+
++ [分析显示并非所有PS5 Pro增强游戏都以60fps为目标](https://www.3dmgame.com/news/202409/3904276.html)
+
++ [索尼抹除《星鸣特攻》踪迹引发玩家对数字化时代担忧](https://www.3dmgame.com/news/202409/3904277.html)
+

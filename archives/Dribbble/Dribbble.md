@@ -75,3 +75,11 @@
 
 + [Lifestyle Web Platform Design Template](https://dribbble.com/shots/)
 
++ [Trenning - Detailed Learner Quiz Results in a SaaS LMS](https://dribbble.com/shots/)
+
++ [Crane](https://dribbble.com/shots/)
+
++ [Sun Cube](https://dribbble.com/shots/)
+
++ [Pinnacle Creative Agency](https://dribbble.com/shots/)
+

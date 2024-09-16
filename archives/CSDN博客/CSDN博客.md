@@ -159,3 +159,13 @@
 
 + [用Python打造互动式中秋节庆祝小程序](https://blog.csdn.net/jacksoon/article/details/142291051)
 
++ [【AI视频】复刻抖音爆款AI数字人作品初体验](https://blog.csdn.net/2201_75539691/article/details/142181030)
+
++ [MS SQL Server 实战 排查多列之间的值是否重复](https://blog.csdn.net/michaelline/article/details/142172030)
+
++ [K8s 之Pod的定义及详细资源调用案例](https://blog.csdn.net/TYM121380/article/details/142268098)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142203721)
+
++ [如何使用 Visual Studio Code 将工作效率提升 200%](https://blog.csdn.net/qq_40254606/article/details/142283808)
+
