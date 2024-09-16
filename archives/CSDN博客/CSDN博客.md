@@ -121,3 +121,9 @@
 
 + [OpenAI o1：AI推理的未来，如何平衡性能与成本？](https://blog.csdn.net/qq_44866828/article/details/142298624)
 
++ [SpringBoot中使用EasyExcel并行导出多个excel文件并压缩zip后下载](https://blog.csdn.net/qq_26664043/article/details/142287898)
+
++ [Spring的核心思想](https://blog.csdn.net/xike1024/article/details/142268741)
+
++ [【愚公系列】《AIGC辅助软件开发》019-AI 辅助测试与调试：AI辅助测试与调试应用案例](https://blog.csdn.net/aa2528877987/article/details/142308461)
+
