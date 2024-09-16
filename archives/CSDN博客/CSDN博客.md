@@ -127,3 +127,7 @@
 
 + [【愚公系列】《AIGC辅助软件开发》019-AI 辅助测试与调试：AI辅助测试与调试应用案例](https://blog.csdn.net/aa2528877987/article/details/142308461)
 
++ [vue2，3生命周期](https://blog.csdn.net/H2608520347/article/details/142269048)
+
++ [UniApp 从Vue2升级为Vue3需要注意哪些方面](https://blog.csdn.net/xzp19841203xzp/article/details/142251760)
+
