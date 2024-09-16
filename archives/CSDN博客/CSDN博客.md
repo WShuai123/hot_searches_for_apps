@@ -169,3 +169,7 @@
 
 + [如何使用 Visual Studio Code 将工作效率提升 200%](https://blog.csdn.net/qq_40254606/article/details/142283808)
 
++ [《深度学习》PyTorch 手写数字识别 案例解析及实现 ＜上＞](https://blog.csdn.net/qq_64603703/article/details/142220221)
+
++ [AIGC实战——多模态模型Flamingo](https://blog.csdn.net/LOVEmy134611/article/details/142290102)
+
