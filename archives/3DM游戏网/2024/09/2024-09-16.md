@@ -175,3 +175,5 @@
 
 + [特斯拉第1亿颗4680电池下线 Optimus扮演“微小”助力](https://www.3dmgame.com/news/202409/3904298.html)
 
++ [马化腾重新成为中国首富：坐拥436亿美元](https://www.3dmgame.com/news/202409/3904301.html)
+
