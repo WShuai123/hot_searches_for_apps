@@ -163,3 +163,9 @@
 
 + [《Melobot - A Last Song》Steam发售 国区售价58元](https://www.3dmgame.com/news/202409/3904294.html)
 
++ [《变形金刚：起源》点映及预售总票房破1000万](https://www.3dmgame.com/news/202409/3904296.html)
+
++ [《冰汽时代2》豪华版9月18日凌晨1点解锁发售](https://www.3dmgame.com/news/202409/3904297.html)
+
++ [AMD与笔电OEM厂商关系紧张 沟通、供应和支持都很差](https://www.3dmgame.com/news/202409/3904295.html)
+
