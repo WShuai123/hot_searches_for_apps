@@ -103,3 +103,5 @@
 
 + [发售近一个月 《黑神话：悟空》热度依旧](https://www.3dmgame.com/news/202409/3904264.html)
 
++ [《DOTA2》TI13液体夺冠 晋级TI双冠俱乐部殿堂](https://www.3dmgame.com/news/202409/3904265.html)
+

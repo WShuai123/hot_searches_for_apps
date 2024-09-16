@@ -41,3 +41,5 @@
 
 + [苹果 Vision Pro 曝出严重漏洞，黑客可通过用户眼动输入窃取信息](https://www.freebuf.com/news/411003.html)
 
++ [从蓝队流量角度分析Shiro-550反序列化漏洞](https://www.freebuf.com/vuls/410346.html)
+

@@ -29,3 +29,7 @@
 
 + [我国超薄玻璃厚度仅 0.03 毫米打破垄断，可让折叠手机使用超 20 年](https://m.ithome.com/html/796151.htm)
 
++ [小米米家自然风 Pro 3 匹挂机空调发布：双缸压缩机、1500m³/h 风量，5999 元](https://m.ithome.com/html/796049.htm)
+
++ [国产科幻电影《流浪地球 2》3D 版和纪录片今日上映](https://m.ithome.com/html/796069.htm)
+
