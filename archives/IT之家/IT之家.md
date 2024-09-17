@@ -25,3 +25,7 @@
 
 + [网红小哥用菠萝皮打造防火铠甲，菠萝皮秒变龙鳞](https://m.ithome.com/html/796368.htm)
 
++ [苹果 iOS 18 引入“慢速充电通知”功能，低于 7.5W 有线慢充将予以提示](https://m.ithome.com/html/796432.htm)
+
++ [AITO 商城上架车载手机支架，适配问界 M5 / M7 系列汽车](https://m.ithome.com/html/796342.htm)
+
