@@ -169,3 +169,11 @@
 
 + [Spring高手之路23——AOP触发机制与代理逻辑的执行](https://blog.csdn.net/qq_34115899/article/details/139395388)
 
++ [【Python篇】深度探索NumPy（下篇）：从科学计算到机器学习的高效实战技巧](https://blog.csdn.net/2301_79849925/article/details/142298821)
+
++ [谷粒商城のElasticsearch](https://blog.csdn.net/2301_77599076/article/details/142286735)
+
++ [Springboot整合ES搜索引擎 构建文章和古诗词索引](https://blog.csdn.net/lilinhai548/article/details/142280822)
+
++ [Imagen：重塑图像生成领域的革命性突破](https://blog.csdn.net/weixin_73295475/article/details/142313328)
+
