@@ -101,3 +101,9 @@
 
 + [《乐高地平线大冒险》获ESRB评级 或将于年内发售](https://www.3dmgame.com/news/202409/3904330.html)
 
++ [《黑神话：悟空》章节动画评分出炉 高达9.9分](https://www.3dmgame.com/news/202409/3904362.html)
+
++ [PlayStation中国发布中秋贺图 邀佳人，共赏月](https://www.3dmgame.com/news/202409/3904360.html)
+
++ [《小小梦魇1+2》Steam新史低 1代完全版仅售18.88元](https://www.3dmgame.com/news/202409/3904361.html)
+

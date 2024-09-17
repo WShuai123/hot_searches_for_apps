@@ -101,3 +101,7 @@
 
 + [Replicate](https://www.producthunt.com/posts/replicate-2)
 
++ [Auto Scroll and Read](https://www.producthunt.com/posts/auto-scroll-and-read)
+
++ [Google Illuminate](https://www.producthunt.com/posts/google-illuminate)
+
