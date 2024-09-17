@@ -49,3 +49,5 @@
 
 + [如何做好一名优秀的蓝队（内网篇）](https://www.freebuf.com/articles/web/408315.html)
 
++ [HTB-Infiltrator：一文带你走进域渗透](https://www.freebuf.com/articles/web/410490.html)
+

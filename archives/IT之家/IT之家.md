@@ -33,3 +33,5 @@
 
 + [印度老哥展现恐怖记忆力，按顺序背出 14000 个数字，打破世界纪录](https://m.ithome.com/html/796297.htm)
 
++ [网友使用华为 Mate XT 非凡大师三折叠手机实现裸眼 3D 效果，类似广场大屏](https://m.ithome.com/html/796239.htm)
+

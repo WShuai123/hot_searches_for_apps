@@ -149,3 +149,11 @@
 
 + [传言称Meta Quest 3S即将取消3.5毫米耳机插孔](https://www.3dmgame.com/news/202409/3904324.html)
 
++ [《星际战士2》开发商获得投资以偿还欠Embracer债务](https://www.3dmgame.com/news/202409/3904329.html)
+
++ [《黑神话》章节动画原版合集《六样情》B站独占开播](https://www.3dmgame.com/news/202409/3904326.html)
+
++ [《七龙珠 电光炸裂！ZERO》或将包含超180名角色](https://www.3dmgame.com/news/202409/3904328.html)
+
++ [《龙之信条2》更新上线 追加休闲难度改善CPU负载](https://www.3dmgame.com/news/202409/3904327.html)
+

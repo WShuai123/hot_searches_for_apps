@@ -81,3 +81,9 @@
 
 + [Garfield movie patch](https://dribbble.com/shots/)
 
++ [Nolito - Website analytics dashboard](https://dribbble.com/shots/)
+
++ [Logofolio 2024 / part 01](https://dribbble.com/shots/)
+
++ [Share modal — Untitled UI](https://dribbble.com/shots/)
+
