@@ -249,3 +249,11 @@
 
 + [果链哀鸿遍野 iPhone 16需求让投资者忧心忡忡](https://www.3dmgame.com/news/202409/3904353.html)
 
++ [《暗黑血统2：死亡终极版》10月15日登陆PS5/XSX 支持免费升级](https://www.3dmgame.com/news/202409/3904358.html)
+
++ [XGP九月下旬新增游戏 《冰汽时代2》等](https://www.3dmgame.com/news/202409/3904359.html)
+
++ [《最终幻想16》现已正式解锁 国区售价298元](https://www.3dmgame.com/news/202409/3904357.html)
+
++ [《波西亚时光》系列新作预告首曝！边境新城平地起](https://www.3dmgame.com/news/202409/3904219.html)
+

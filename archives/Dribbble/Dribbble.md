@@ -155,3 +155,11 @@
 
 + [Resale Platform](https://dribbble.com/shots/)
 
++ [Caught in the Act](https://dribbble.com/shots/)
+
++ [Assetize - Sidebars](https://dribbble.com/shots/)
+
++ [Kony - Fintech | Crypto Branding](https://dribbble.com/shots/)
+
++ [Cupid Mascot for EconomieSuisse](https://dribbble.com/shots/)
+

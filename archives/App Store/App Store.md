@@ -209,3 +209,5 @@
 
 + [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
 
++ [外研U学（家庭版）](https://itunes.apple.com/cn/app/id1524575244?mt=8)
+
