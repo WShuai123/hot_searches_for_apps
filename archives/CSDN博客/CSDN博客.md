@@ -101,3 +101,27 @@
 
 + [大型焊接管道内焊缝检查机器人结构设计](https://blog.csdn.net/qq_48697527/article/details/142299082)
 
++ [MS SQL Server 实战 排查多列之间的值是否重复](https://blog.csdn.net/michaelline/article/details/142172030)
+
++ [基于springboot+vue+uniapp的驾校报名小程序](https://blog.csdn.net/shmp54/article/details/142307091)
+
++ [Python数据分析 Pandas基本操作](https://blog.csdn.net/weixin_44369049/article/details/142283194)
+
++ [大数据Flink（一百二十）：Flink SQL自定义函数（UDF）](https://blog.csdn.net/xiaoweite1/article/details/142320200)
+
++ [构建基于 Feign 的微服务：从 Eureka 到负载均衡的实践 --day05](https://blog.csdn.net/m0_67187271/article/details/142280177)
+
++ [【网络】TCP/IP 五层网络模型：数据链路层](https://blog.csdn.net/Yeeear/article/details/142309615)
+
++ [Docker概述](https://blog.csdn.net/2302_78100610/article/details/142286962)
+
++ [Jenkins实战案例](https://blog.csdn.net/2401_85325558/article/details/142245534)
+
++ [7天速成前端 ------学习日志 （继苍穹外卖之后）](https://blog.csdn.net/Yluciud/article/details/142301633)
+
++ [rocky Linux 9.4系统配置zabbix监控MySQL主从复制状态与配置钉钉告警](https://blog.csdn.net/gyqailxj/article/details/142303768)
+
++ [[乱码]确保命令行窗口与主流集成开发环境（IDE）统一采用UTF-8编码，以规避乱码问题](https://blog.csdn.net/2301_79450966/article/details/142284839)
+
++ [【计网】从零开始使用TCP进行socket编程 --- 客户端与服务端的通信实现](https://blog.csdn.net/JLX_1/article/details/142313401)
+
