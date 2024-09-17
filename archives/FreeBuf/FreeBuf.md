@@ -47,3 +47,5 @@
 
 + [全球蓝屏后，微软决定将安全踢出Windows内核](https://www.freebuf.com/news/411108.html)
 
++ [如何做好一名优秀的蓝队（内网篇）](https://www.freebuf.com/articles/web/408315.html)
+

@@ -129,3 +129,19 @@
 
 + [《星空》“破碎空间”扩展包9分钟深度预览视频](https://www.3dmgame.com/news/202409/3904306.html)
 
++ [《Gorecam》Steam页面上线 合作废墟恐怖探索](https://www.3dmgame.com/news/202409/3904322.html)
+
++ [分析师称《黑神话》DLC春节发售：销量只有本体20%](https://www.3dmgame.com/news/202409/3904323.html)
+
++ [《丧尸围城：豪华复刻版》故事预告 PC配置公开](https://www.3dmgame.com/news/202409/3904315.html)
+
++ [《毁灭战士》和《空手道》创作者畅谈游戏历史保护](https://www.3dmgame.com/news/202409/3904317.html)
+
++ [魔法大混战 《FAIRY TAIL 爆裂沙滩排球》正式发售](https://www.3dmgame.com/news/202409/3904318.html)
+
++ [《永恒空间2》首个大型DLC泰坦上线 大量新内容](https://www.3dmgame.com/news/202409/3904319.html)
+
++ [iPhone 16首周末销量下降12.7% 苹果供应链哀鸿遍野](https://www.3dmgame.com/news/202409/3904320.html)
+
++ [《最终幻想16》PC版今晚解锁 吉田呼吁不要制作冒犯性MOD](https://www.3dmgame.com/news/202409/3904321.html)
+
