@@ -215,3 +215,21 @@
 
 + [分析人士认为PS5 Pro将通过限制预购来应对黄牛](https://www.3dmgame.com/news/202409/3904338.html)
 
++ [R星老员工：《GTA6》没有竞争对手 未来能卖十年以上](https://www.3dmgame.com/news/202409/3904347.html)
+
++ [《宇宙机器人》是十年来销售速度最快的平台游戏之一](https://www.3dmgame.com/news/202409/3904346.html)
+
++ [网红三只羊涉嫌误导消费者被立案调查 消费者送不出去也不敢吃](https://www.3dmgame.com/news/202409/3904345.html)
+
++ [育碧新天气系统将为《刺客信条：影》提升沉浸感](https://www.3dmgame.com/news/202409/3904344.html)
+
++ [新《战地》系列负责人：PS5 Pro不算贵 同价PC性能更差](https://www.3dmgame.com/news/202409/3904339.html)
+
++ [《绝地潜兵2》“核弹”确认加强：让效果和视觉一样爆炸！](https://www.3dmgame.com/news/202409/3904343.html)
+
++ [Paradox宣布《城市：天际线2》DLC将进一步推迟](https://www.3dmgame.com/news/202409/3904342.html)
+
++ [《人类一败涂地》新舞台博物馆免费上线 三折优惠中](https://www.3dmgame.com/news/202409/3904341.html)
+
++ [Xbox正在处理向下兼容功能无法正常识别光盘的问题](https://www.3dmgame.com/news/202409/3904340.html)
+

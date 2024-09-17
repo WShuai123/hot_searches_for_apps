@@ -177,3 +177,5 @@
 
 + [Imagen：重塑图像生成领域的革命性突破](https://blog.csdn.net/weixin_73295475/article/details/142313328)
 
++ [后续学习规划 ----含我个人的学习路线，经历及感受](https://blog.csdn.net/Yluciud/article/details/142285285)
+
