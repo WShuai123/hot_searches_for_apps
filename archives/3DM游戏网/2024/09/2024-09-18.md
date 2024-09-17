@@ -107,3 +107,43 @@
 
 + [《小小梦魇1+2》Steam新史低 1代完全版仅售18.88元](https://www.3dmgame.com/news/202409/3904361.html)
 
++ [芝加哥寒潮大量特斯拉无法充电 或是充电桩冻坏](https://www.3dmgame.com/news/202401/3886297.html)
+
++ [电视剧《仙剑奇侠传4》定档预告 今晚正式开播](https://www.3dmgame.com/news/202401/3886296.html)
+
++ [EVA初号机专用高震动粒子刀模型登场 史上首次搭载声光效果](https://www.3dmgame.com/news/202401/3886295.html)
+
++ [《最后的生还者2：复刻版》M站均分90 媒体好评如潮](https://www.3dmgame.com/news/202401/3886294.html)
+
++ [《咩咩启示录》免费大更新“肉身之罪”预告 现已上线](https://www.3dmgame.com/news/202401/3886298.html)
+
++ [DIY达人动手改造PS5：尺寸更小且自带屏幕的PS5平板](https://www.3dmgame.com/news/202401/3886293.html)
+
++ [《仙剑六祈今朝》电视剧首个预告 男帅女甜剧情精彩](https://www.3dmgame.com/news/202401/3886291.html)
+
++ [梁建章建议取消中考缩短学制：中高考浪费大量时间、10年义务教育即可](https://www.3dmgame.com/news/202401/3886303.html)
+
++ [本周Fami通游戏评分出炉 《幽灵行者2》获31分](https://www.3dmgame.com/news/202401/3886302.html)
+
++ [App Store开放外部链接 苹果终于放宽政策](https://www.3dmgame.com/news/202401/3886304.html)
+
++ [经典第三部《铳梦：火星战记》连载重开 1月23日免费刊载](https://www.3dmgame.com/news/202401/3886301.html)
+
++ [2024亚太区Predator League菲律宾总决赛精彩落幕 2025年前进马来西亚！](https://www.3dmgame.com/news/202401/3886310.html)
+
++ [电子朋克冒险游戏《火车：闪电风暴》预告 曾因资金短缺被冻结](https://www.3dmgame.com/news/202401/3886305.html)
+
++ [《Oddsparks》Steam试玩上线 古怪创意制作工坊](https://www.3dmgame.com/news/202401/3886311.html)
+
++ [送外卖根本没前途！清华教授：越来越多的00后毕业生选择进厂打工](https://www.3dmgame.com/news/202401/3886300.html)
+
++ [《咩咩启示录》免费大更新上线 当动物们开始为爱鼓掌](https://www.3dmgame.com/news/202401/3886312.html)
+
++ [万代油管列表更新 《艾尔登法环》DLC宣传片或已上传](https://www.3dmgame.com/news/202401/3886309.html)
+
++ [《机械战警：暴戾都市》开发商Teyon希望能开发更多IP授权游戏](https://www.3dmgame.com/news/202401/3886299.html)
+
++ [2024或成“高质量游戏年”？大的要来了！](https://www.3dmgame.com/news/202401/3886308.html)
+
++ [《最后生还者2》重制版与原版对比视频 快来看差别](https://www.3dmgame.com/news/202401/3886306.html)
+

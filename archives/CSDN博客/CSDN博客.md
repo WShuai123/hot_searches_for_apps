@@ -137,3 +137,5 @@
 
 + [Android中的冷启动，热启动和温启动](https://blog.csdn.net/ChenYiRan123456/article/details/142287168)
 
++ [滚雪球学SpringCloud[5.1讲]： Spring Cloud Config详解](https://blog.csdn.net/weixin_43970743/article/details/141143746)
+
