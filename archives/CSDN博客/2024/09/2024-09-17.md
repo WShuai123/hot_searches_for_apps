@@ -163,3 +163,7 @@
 
 + [【docker】阿里云使用docker，2024各种采坑](https://blog.csdn.net/kinghzking/article/details/142308858)
 
++ [【Elasticsearch系列七】索引 crud](https://blog.csdn.net/qyj19920704/article/details/142300468)
+
++ [深度学习之微积分预备知识点](https://blog.csdn.net/u013985879/article/details/142305312)
+

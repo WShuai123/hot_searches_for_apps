@@ -107,3 +107,35 @@
 
 + [AIPhone.AI](https://www.producthunt.com/posts/aiphone-ai-3)
 
++ [SocialAI](https://www.producthunt.com/posts/socialai)
+
++ [GPT Food Cam](https://www.producthunt.com/posts/gpt-food-cam)
+
++ [Edit By Resemble AI](https://www.producthunt.com/posts/edit-by-resemble-ai)
+
++ [Planodes](https://www.producthunt.com/posts/planodes)
+
++ [Creem](https://www.producthunt.com/posts/creem-2)
+
++ [InstaCharts](https://www.producthunt.com/posts/instacharts)
+
++ [Positional](https://www.producthunt.com/posts/positional)
+
++ [Tripsy 3](https://www.producthunt.com/posts/tripsy-3)
+
++ [Mixpanel Session Replay](https://www.producthunt.com/posts/mixpanel-session-replay)
+
++ [FlyCode Stripe app for Failed payments](https://www.producthunt.com/posts/flycode-stripe-app-for-failed-payments)
+
++ [Coho AI](https://www.producthunt.com/posts/coho-ai)
+
++ [Phonitor](https://www.producthunt.com/posts/phonitor)
+
++ [Atomic CRM](https://www.producthunt.com/posts/atomic-crm)
+
++ [Supademo 3.0](https://www.producthunt.com/posts/supademo-3-0)
+
++ [Tab Organizer](https://www.producthunt.com/posts/tab-organizer-3)
+
++ [Jspreadsheet](https://www.producthunt.com/posts/jspreadsheet-2)
+

@@ -39,3 +39,5 @@
 
 + [苹果 macOS 15.0 Sequoia 正式版发布：iPhone 应用镜像玩、手机消息电脑知](https://m.ithome.com/html/796324.htm)
 
++ [iQOO Z9 Turbo+ 手机线下海报曝光：天玑 9300+ 芯片、6400mAh 超薄蓝海电池](https://m.ithome.com/html/796310.htm)
+

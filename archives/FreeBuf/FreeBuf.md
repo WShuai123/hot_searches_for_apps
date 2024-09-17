@@ -53,3 +53,5 @@
 
 + [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
 
++ [如何使用CODASM编码Payload并降低熵值](https://www.freebuf.com/sectool/410478.html)
+
