@@ -145,3 +145,7 @@
 
 + [《最终幻想16》PC版今晚解锁 吉田呼吁不要制作冒犯性MOD](https://www.3dmgame.com/news/202409/3904321.html)
 
++ [意大利称查获价值5000万欧元“小霸王”主机和游戏](https://www.3dmgame.com/news/202409/3904325.html)
+
++ [传言称Meta Quest 3S即将取消3.5毫米耳机插孔](https://www.3dmgame.com/news/202409/3904324.html)
+
