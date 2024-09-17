@@ -201,3 +201,9 @@
 
 + [京东金融-理财借贷分期保险一站式平台](https://itunes.apple.com/cn/app/id895682747?mt=8)
 
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [Kimi 智能助手](https://itunes.apple.com/cn/app/id6474233312?mt=8)
+
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+

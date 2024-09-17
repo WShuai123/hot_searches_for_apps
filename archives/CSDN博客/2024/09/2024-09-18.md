@@ -139,3 +139,9 @@
 
 + [滚雪球学SpringCloud[5.1讲]： Spring Cloud Config详解](https://blog.csdn.net/weixin_43970743/article/details/141143746)
 
++ [网络协议全景：Linux环境下的TCP/IP、UDP](https://blog.csdn.net/qq_43289447/article/details/142307224)
+
++ [【云原生监控】Prometheus之Alertmanager报警](https://blog.csdn.net/weixin_73059729/article/details/142318104)
+
++ [GPT如何理解人类语言：从向量化到智能涌现](https://blog.csdn.net/qq_51447436/article/details/142317102)
+

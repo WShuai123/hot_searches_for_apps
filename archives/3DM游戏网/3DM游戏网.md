@@ -147,3 +147,11 @@
 
 + [《最后生还者2》重制版与原版对比视频 快来看差别](https://www.3dmgame.com/news/202401/3886306.html)
 
++ [《死神：魂魄觉醒》十番队队长日番谷冬狮郎角色预告](https://www.3dmgame.com/news/202409/3904366.html)
+
++ [漫画改编《神探狗狗》动画电影明年1月31日上映](https://www.3dmgame.com/news/202409/3904365.html)
+
++ [国产银河恶魔城游戏《觉醒异刃》10月22日发售](https://www.3dmgame.com/news/202409/3904364.html)
+
++ [SEGA开启Steam如龙审判之眼系列促销活动](https://www.3dmgame.com/news/202409/3904363.html)
+
