@@ -181,3 +181,11 @@
 
 + [vscode对python进行多卡调试](https://blog.csdn.net/m0_60857098/article/details/142308396)
 
++ [【机器学习】--- 自监督学习](https://blog.csdn.net/2301_80863610/article/details/142286946)
+
++ [YOLOv8目标检测模型——遥感小目标检测经验分享](https://blog.csdn.net/weixin_67679364/article/details/142303500)
+
++ [Vue3.5+ 响应式 Props 解构](https://blog.csdn.net/m0_37943716/article/details/142307333)
+
++ [NAT网络地址转换](https://blog.csdn.net/ZZZCY2003/article/details/142217256)
+

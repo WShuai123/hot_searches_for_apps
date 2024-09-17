@@ -51,3 +51,7 @@
 
 + [苹果代码曝光新一代 Mac mini：将配备五个 USB-C 接口](https://m.ithome.com/html/796327.htm)
 
++ [“还我妈生相册”，苹果 iOS 18 正式版被网友吐槽“丑”上热搜](https://m.ithome.com/html/796406.htm)
+
++ [AITO 商城上架车载手机支架，适配问界 M5 / M7 系列汽车](https://m.ithome.com/html/796342.htm)
+
