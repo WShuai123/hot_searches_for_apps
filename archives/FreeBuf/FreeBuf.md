@@ -51,3 +51,5 @@
 
 + [HTB-Infiltrator：一文带你走进域渗透](https://www.freebuf.com/articles/web/410490.html)
 
++ [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
+

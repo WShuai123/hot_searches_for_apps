@@ -113,3 +113,11 @@
 
 + [特厨探店 |你们信我！大同本地的刀削面真的不一样！—大同新升削面](http://www.acfun.cn/v/ac46251336)
 
++ [如果可以打猴，那门票大卖](http://www.acfun.cn/v/ac46260074)
+
++ [野人出没](http://www.acfun.cn/v/ac46260087)
+
++ [重生之四眼六角机器狗2.0参上！](http://www.acfun.cn/v/ac46259899)
+
++ [蜜月 Un·Deux·Trois / Riria【Cover】](http://www.acfun.cn/v/ac46259931)
+

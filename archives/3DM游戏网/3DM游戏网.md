@@ -157,3 +157,5 @@
 
 + [《龙之信条2》更新上线 追加休闲难度改善CPU负载](https://www.3dmgame.com/news/202409/3904327.html)
 
++ [《乐高地平线大冒险》获ESRB评级 或将于年内发售](https://www.3dmgame.com/news/202409/3904330.html)
+
