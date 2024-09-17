@@ -31,3 +31,17 @@
 
 + [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
 
++ [HariSekhon / DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+
++ [Morganamilo / paru](https://github.com/Morganamilo/paru)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [Zipstack / unstract](https://github.com/Zipstack/unstract)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [valkey-io / valkey](https://github.com/valkey-io/valkey)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+

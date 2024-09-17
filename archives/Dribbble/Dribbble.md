@@ -123,3 +123,17 @@
 
 + [Hilarious stickers](https://dribbble.com/shots/)
 
++ [Supra™ // AI, E-commerce](https://dribbble.com/shots/)
+
++ [Ender Brand Guidelines](https://dribbble.com/shots/)
+
++ [Modern Director Chair Logo Design](https://dribbble.com/shots/)
+
++ [Mini Logo Set](https://dribbble.com/shots/)
+
++ [Xurya - Manufacture Landing Page](https://dribbble.com/shots/)
+
++ [Solarex Logo Design - Solar green energy power branding](https://dribbble.com/shots/)
+
++ [Web Design Nexa Career animation branding & mobile app design](https://dribbble.com/shots/)
+

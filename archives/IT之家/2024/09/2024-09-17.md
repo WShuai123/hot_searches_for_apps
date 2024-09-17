@@ -47,3 +47,7 @@
 
 + [香港美诚月饼事件进展：三只羊直播涉嫌误导消费者被立案](https://m.ithome.com/html/796364.htm)
 
++ [《黑神话：悟空》章节动画原版合集《六样情》今日开播，共 6 话](https://m.ithome.com/html/796358.htm)
+
++ [苹果代码曝光新一代 Mac mini：将配备五个 USB-C 接口](https://m.ithome.com/html/796327.htm)
+

@@ -233,3 +233,7 @@
 
 + [Xbox正在处理向下兼容功能无法正常识别光盘的问题](https://www.3dmgame.com/news/202409/3904340.html)
 
++ [《最终幻想16》在PS5主机更新后出现一些问题](https://www.3dmgame.com/news/202409/3904348.html)
+
++ [《Late Homework》Steam上线 猫咪恐怖探索](https://www.3dmgame.com/news/202409/3904349.html)
+

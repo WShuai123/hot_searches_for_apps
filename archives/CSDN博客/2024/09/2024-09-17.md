@@ -179,3 +179,5 @@
 
 + [后续学习规划 ----含我个人的学习路线，经历及感受](https://blog.csdn.net/Yluciud/article/details/142285285)
 
++ [vscode对python进行多卡调试](https://blog.csdn.net/m0_60857098/article/details/142308396)
+
