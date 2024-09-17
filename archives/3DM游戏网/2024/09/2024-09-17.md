@@ -109,3 +109,23 @@
 
 + [《战地》新作2025年发售 取消专家、职业系统回归](https://www.3dmgame.com/news/202409/3904305.html)
 
++ [未来的游戏PC推想 日本大学发明发光会冷却物质](https://www.3dmgame.com/news/202409/3904316.html)
+
++ [《超自然车旅》发布大型更新档 加入不同难度设定](https://www.3dmgame.com/news/202409/3904314.html)
+
++ [《宇宙机器人》首发周美国PS5平台游戏销量排名第二](https://www.3dmgame.com/news/202409/3904313.html)
+
++ [《冲就完事模拟器VR》开发商nDreams宣布一轮裁员](https://www.3dmgame.com/news/202409/3904312.html)
+
++ [《Outsanity》Steam抢先体验 废弃基地恐怖探险](https://www.3dmgame.com/news/202409/3904311.html)
+
++ [传《马拉松》重启版定价40美元 玩法类似《逃离塔科夫》](https://www.3dmgame.com/news/202409/3904310.html)
+
++ [黄仁勋今年已挣超4200亿元：NVIDIA太赚钱了](https://www.3dmgame.com/news/202409/3904309.html)
+
++ [系列总监透露EA希望《战地》新作能登陆Switch2](https://www.3dmgame.com/news/202409/3904308.html)
+
++ [《地心护核者》玩家人数达到300万里程碑](https://www.3dmgame.com/news/202409/3904307.html)
+
++ [《星空》“破碎空间”扩展包9分钟深度预览视频](https://www.3dmgame.com/news/202409/3904306.html)
+

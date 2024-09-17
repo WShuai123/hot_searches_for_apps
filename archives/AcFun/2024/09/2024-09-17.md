@@ -81,3 +81,13 @@
 
 + [嘿伙计，需要重启人生吗？](http://www.acfun.cn/v/ac46259357)
 
++ [【MMD】シネマ/电影【千岛】](http://www.acfun.cn/v/ac46259944)
+
++ [梅津泰臣×SHAFT 原创动画系列《ヴァージン・パンク》第一弹「Clockwork Girl」PV](http://www.acfun.cn/v/ac46258623)
+
++ [【4K MMD】萌力十足 超可爱Sour式制服MIKU酱「ポジティブ・パレード」](http://www.acfun.cn/v/ac46259690)
+
++ [【4K MMD】娇柔可人 俏皮白网眼镜娘兔兔MIKU「メロメロイド」](http://www.acfun.cn/v/ac46259536)
+
++ [【猪肝来也】清唱『Long D』爱上钟声是我的命中注定](http://www.acfun.cn/v/ac46259449)
+

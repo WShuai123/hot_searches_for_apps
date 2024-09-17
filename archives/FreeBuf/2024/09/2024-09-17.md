@@ -43,3 +43,7 @@
 
 + [网络空间的“边水往事”？针对华语黑产及用户进行攻击的 APT-K-UN3 活动分析](https://www.freebuf.com/articles/network/410647.html)
 
++ [伪装“黑神话悟空修改器”传播木马的活动分析](https://www.freebuf.com/articles/network/410882.html)
+
++ [全球蓝屏后，微软决定将安全踢出Windows内核](https://www.freebuf.com/news/411108.html)
+
