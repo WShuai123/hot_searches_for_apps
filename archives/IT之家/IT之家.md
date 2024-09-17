@@ -41,3 +41,5 @@
 
 + [iQOO Z9 Turbo+ 手机线下海报曝光：天玑 9300+ 芯片、6400mAh 超薄蓝海电池](https://m.ithome.com/html/796310.htm)
 
++ [上海官方辟谣“有人关窗从楼上掉下去了”等“贝碧嘉”台风相关网络谣言](https://m.ithome.com/html/796287.htm)
+

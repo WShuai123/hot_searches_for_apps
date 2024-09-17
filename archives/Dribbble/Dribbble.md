@@ -99,3 +99,13 @@
 
 + [Chomp](https://dribbble.com/shots/)
 
++ [Essence Beauty Service App Case Study](https://dribbble.com/shots/)
+
++ [Edeals Insurance Website 2024](https://dribbble.com/shots/)
+
++ [Timeless - Saas Marketing Landing Page](https://dribbble.com/shots/)
+
++ [Modular Blocks Landing Page Creator for SaaS Products](https://dribbble.com/shots/)
+
++ [E-commerce Website Design](https://dribbble.com/shots/)
+

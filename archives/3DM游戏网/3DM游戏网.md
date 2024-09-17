@@ -169,3 +169,49 @@
 
 + [《火车场建造者》登陆Steam 自由火车经营模拟](https://www.3dmgame.com/news/202409/3904331.html)
 
++ [总监滨口直树：《最终幻想7》重制版第三部可能会改用虚幻引擎5](https://www.3dmgame.com/news/202408/3901799.html)
+
++ [《Project Castaway》9月Steam抢测 太平洋孤岛生存模拟](https://www.3dmgame.com/news/202408/3901800.html)
+
++ [《开拓者》系列开发商Owlcat Games扩展游戏发行业务](https://www.3dmgame.com/news/202408/3901801.html)
+
++ [技嘉发布旗下AM5主板BIOS更新，为AMD Ryzen 9000系列提供支持](https://www.3dmgame.com/news/202408/3901803.html)
+
++ [詹姆斯·卡梅隆透露正在制作新《终结者》项目 但该项目完全保密](https://www.3dmgame.com/news/202408/3901805.html)
+
++ [黄仁勋两天再“套现”2491万美元 8月后一直抛售英伟达股票](https://www.3dmgame.com/news/202408/3901806.html)
+
++ [《三国志8重制版》孙策和周瑜角色介绍 江东小霸王来也](https://www.3dmgame.com/news/202408/3901804.html)
+
++ [德国游戏市场2024上半年支出下降6%至43亿欧元](https://www.3dmgame.com/news/202408/3901807.html)
+
++ [《绝区零》人气角色安比最新手办 战斗少女美丽酷炫](https://www.3dmgame.com/news/202408/3901808.html)
+
++ [V社确定SteamOS未来将支持其他品牌掌机 正在稳步推进](https://www.3dmgame.com/news/202408/3901809.html)
+
++ [Intel抛售全部Arm持股 筹集约1.47亿美元](https://www.3dmgame.com/news/202408/3901810.html)
+
++ [网易Y3高校赛夏令营开启，拿到offer的大学生们要搞事情啦！](https://www.3dmgame.com/news/202408/3901802.html)
+
++ [美国科学家发明防开车打瞌睡耳机 解决经典难题](https://www.3dmgame.com/news/202408/3901811.html)
+
++ [2024年全球游戏市场预计将增长至1870亿美元](https://www.3dmgame.com/news/202408/3901812.html)
+
++ [Netflix官方泄露：《英雄联盟：双城之战》第二季将于11月2日播出](https://www.3dmgame.com/news/202408/3901813.html)
+
++ [改编动画《在地下城寻求邂逅是否搞错了什么》第五季新预告 10月4日开播](https://www.3dmgame.com/news/202408/3901814.html)
+
++ [《信长之野望》系列多平台优惠促销 新旧作品在列](https://www.3dmgame.com/news/202408/3901815.html)
+
++ [在《战锤40K:极速狂飙》等游戏中开启DLSS，获得真实的游戏体验](https://www.3dmgame.com/news/202408/3901817.html)
+
++ [无厘头风格冒险游戏《生块叉烧好过生你》现已上线Steam平台](https://www.3dmgame.com/news/202408/3901818.html)
+
++ [Fami通日本7月销量榜：科乐美《实况力量棒球》登顶](https://www.3dmgame.com/news/202408/3901819.html)
+
++ [免费手游《迪士尼像素RPG》 10月7日开启运营](https://www.3dmgame.com/news/202409/3904336.html)
+
++ [前Bungie律师：工作室长期管理不善都靠索尼“打醒”](https://www.3dmgame.com/news/202409/3904337.html)
+
++ [分析人士认为PS5 Pro将通过限制预购来应对黄牛](https://www.3dmgame.com/news/202409/3904338.html)
+
