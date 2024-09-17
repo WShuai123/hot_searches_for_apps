@@ -27,3 +27,9 @@
 
 + [苹果 iOS / iPadOS 18.0 正式版发布：全新主屏自定义、平板内置计算器](https://m.ithome.com/html/796323.htm)
 
++ [官宣一年多后，微软承认放弃 Edge 浏览器“圆角标签页”等新 UI 设计](https://m.ithome.com/html/796312.htm)
+
++ [博主使用小鹏 MONA M03 自动泊车撞上奥迪：事故原因正在调查](https://m.ithome.com/html/796314.htm)
+
++ [印度老哥展现恐怖记忆力，按顺序背出 14000 个数字，打破世界纪录](https://m.ithome.com/html/796297.htm)
+

@@ -107,3 +107,5 @@
 
 + [《艾诺提亚：失落之歌》IGN 7分 战斗有趣、RPG不成熟](https://www.3dmgame.com/news/202409/3904302.html)
 
++ [《战地》新作2025年发售 取消专家、职业系统回归](https://www.3dmgame.com/news/202409/3904305.html)
+
