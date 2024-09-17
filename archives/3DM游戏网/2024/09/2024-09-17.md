@@ -243,3 +243,9 @@
 
 + [《战地》老大：新《战地》销量绝对有可能超过《使命召唤》](https://www.3dmgame.com/news/202409/3904352.html)
 
++ [Saber CEO：不喜欢游戏给玩家强加道德标准](https://www.3dmgame.com/news/202409/3904355.html)
+
++ [《刺客信条：影》宣传片在日本被狂踩 接近8000个踩](https://www.3dmgame.com/news/202409/3904354.html)
+
++ [果链哀鸿遍野 iPhone 16需求让投资者忧心忡忡](https://www.3dmgame.com/news/202409/3904353.html)
+
