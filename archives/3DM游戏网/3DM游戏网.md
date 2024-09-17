@@ -237,3 +237,9 @@
 
 + [《Late Homework》Steam上线 猫咪恐怖探索](https://www.3dmgame.com/news/202409/3904349.html)
 
++ [拉瑞安祝中国玩家中秋快乐 皎月如盘团圆美满](https://www.3dmgame.com/news/202409/3904350.html)
+
++ [专为国区玩家带来普通话配音，《冰汽时代2》豪华版于9月18日解锁！](https://www.3dmgame.com/news/202409/3904351.html)
+
++ [《战地》老大：新《战地》销量绝对有可能超过《使命召唤》](https://www.3dmgame.com/news/202409/3904352.html)
+

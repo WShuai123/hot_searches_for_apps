@@ -137,3 +137,21 @@
 
 + [Web Design Nexa Career animation branding & mobile app design](https://dribbble.com/shots/)
 
++ [Lootbox](https://dribbble.com/shots/)
+
++ [Swoosh Eagle](https://dribbble.com/shots/)
+
++ [Knife Print Design](https://dribbble.com/shots/)
+
++ [Bull Head Logo](https://dribbble.com/shots/)
+
++ [3D Bee Bot](https://dribbble.com/shots/)
+
++ [Packaging design for cupcakes - Polar Bears](https://dribbble.com/shots/)
+
++ [JV Anchor Monogram / Logo](https://dribbble.com/shots/)
+
++ [Garbage bags for Brussels](https://dribbble.com/shots/)
+
++ [Resale Platform](https://dribbble.com/shots/)
+

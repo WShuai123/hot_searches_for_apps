@@ -55,3 +55,7 @@
 
 + [AITO 商城上架车载手机支架，适配问界 M5 / M7 系列汽车](https://m.ithome.com/html/796342.htm)
 
++ [消息称《黑神话：悟空》首个 DLC 将于 2025 农历新年左右推出](https://m.ithome.com/html/796402.htm)
+
++ [美诚天猫、抖音旗舰店已下架所有月饼产品](https://m.ithome.com/html/796395.htm)
+
