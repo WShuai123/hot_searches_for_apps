@@ -243,3 +243,11 @@
 
 + [FF生父坂口博信祝贺FF16登PC 意外曝光Steam库存丰富](https://www.3dmgame.com/news/202409/3904400.html)
 
++ [新游添加愿望单！蒸汽平台鉴赏家大会定档9月24日](https://www.3dmgame.com/news/202409/3904414.html)
+
++ [AMD也不管臭打游戏的？苏姿丰：数据中心优先](https://www.3dmgame.com/news/202409/3904413.html)
+
++ [PS5系统更新致《最终幻想16》频发崩溃 SE正在解决](https://www.3dmgame.com/news/202409/3904412.html)
+
++ [桂正和《银翼超人》真人剧最新主艺图公布 10月22日开播](https://www.3dmgame.com/news/202409/3904411.html)
+

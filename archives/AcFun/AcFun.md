@@ -87,3 +87,11 @@
 
 + [有没有Acer出来唱歌啊？★手机竖屏1277★](http://www.acfun.cn/v/ac46262458)
 
++ [【诸葛】开封的老乡真给上炸药呀！](http://www.acfun.cn/v/ac46263373)
+
++ [吴京超话十级铁粉前来驾到ㅇㅅㅇ](http://www.acfun.cn/v/ac46261767)
+
++ [我养你啊？你先养好你自己吧。](http://www.acfun.cn/v/ac46260702)
+
++ [军粮试吃：火箭军金针菇好辣啊](http://www.acfun.cn/v/ac46261859)
+

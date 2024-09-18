@@ -49,3 +49,5 @@
 
 + [VMware vCenter Server 漏洞让攻击者能够执行远程代码](https://www.freebuf.com/news/411162.html)
 
++ [XXE漏洞实战案例：从无效XML到内部文件提取的探索之旅](https://www.freebuf.com/articles/web/409185.html)
+
