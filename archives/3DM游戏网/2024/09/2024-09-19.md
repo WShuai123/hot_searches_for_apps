@@ -153,3 +153,43 @@
 
 + [iPhone 16电商平台已破发 起价降至5799元](https://www.3dmgame.com/news/202409/3904453.html)
 
++ [《绿蝇侠2：超限》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202402/3888760.html)
+
++ [日本游戏老厂ARIKA宣布被威胁案件完结 已与嫌犯和解](https://www.3dmgame.com/news/202402/3888758.html)
+
++ [《最终幻想7重生》故事篇预告 2月29日发售](https://www.3dmgame.com/news/202402/3888759.html)
+
++ [《西瓜游戏》与健身APP联动 推出体感新玩法](https://www.3dmgame.com/news/202402/3888755.html)
+
++ [快速熟悉《豆豆的村庄》各个角落！游戏界面详解](https://www.3dmgame.com/news/202402/3888756.html)
+
++ [日本资深职业游戏战队警告欺诈频发 不会利用未成年牟利](https://www.3dmgame.com/news/202402/3888763.html)
+
++ [分析师称索尼将在今年发布PS5Pro 为《GTA6》做准备](https://www.3dmgame.com/news/202402/3888757.html)
+
++ [三星调整芯片工厂建设计划 应对市场需求变化](https://www.3dmgame.com/news/202402/3888752.html)
+
++ [肉鸽弹幕游戏《酸性星球》即将推出免费体验版](https://www.3dmgame.com/news/202402/3888753.html)
+
++ [《决战效应：重装上阵》3月6日Steam正式推出 横版枪战动作](https://www.3dmgame.com/news/202402/3888750.html)
+
++ [育碧推出漫改动作游戏《无敌少侠：保卫地球》 登陆移动端](https://www.3dmgame.com/news/202402/3888751.html)
+
++ [Netflix定格动画《宝可梦：礼宾部》续集正在制作中](https://www.3dmgame.com/news/202402/3888749.html)
+
++ [小米平板6S Pro核心配置：第二代骁龙8 最高1TB大容量](https://www.3dmgame.com/news/202402/3888748.html)
+
++ [《漫威金刚狼》开发最早期视频：加载图标是蜘蛛侠](https://www.3dmgame.com/news/202402/3888747.html)
+
++ [下一部《极品飞车》部分细节：将以9代做参考](https://www.3dmgame.com/news/202402/3888761.html)
+
++ [GBA4iOS开发者推出苹果Vision Pro版Game Boy模拟器](https://www.3dmgame.com/news/202402/3888754.html)
+
++ [完全自动驾驶倒计时！特斯拉FSD v12已开始在海外推送](https://www.3dmgame.com/news/202402/3888762.html)
+
++ [《绝地潜兵2》开发商CEO建议玩家理性消费 等服务器恢复了再买](https://www.3dmgame.com/news/202402/3888764.html)
+
++ [《FROGUE》登陆PC平台 回合制肉鸽动作游戏](https://www.3dmgame.com/news/202402/3888745.html)
+
++ [《试炼之书：魔女的猎场》Steam页面 支持简体中文](https://www.3dmgame.com/news/202402/3888746.html)
+
