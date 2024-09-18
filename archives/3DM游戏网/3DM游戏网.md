@@ -405,3 +405,43 @@
 
 + [“周星驰御用配音”石班瑜去世，享年66岁](https://www.3dmgame.com/news/202409/3904450.html)
 
++ [首位华人诺奖得主李政道因病去世 享年98岁](https://www.3dmgame.com/news/202408/3901129.html)
+
++ [《星球大战：亡命之徒》团队解释女主形象为何与脸模不同 不是zzzq？](https://www.3dmgame.com/news/202408/3901127.html)
+
++ [KK官方对战平台优质主播专访：玩家值得最真实的快乐！](https://www.3dmgame.com/news/202408/3901130.html)
+
++ [5元半小时！共享充电宝租金赶上停车费 网友吐槽用不起：有人一年花1200元](https://www.3dmgame.com/news/202408/3901131.html)
+
++ [SpaceX向国际空间站发射天鹅座货运飞船：出现引擎故障](https://www.3dmgame.com/news/202408/3901132.html)
+
++ [《Go! Go! Hamster Chef!》免费登陆Steam 料理配送](https://www.3dmgame.com/news/202408/3901133.html)
+
++ [3DM游戏APP重磅福利！！《黑神话：悟空》免费送！](https://www.3dmgame.com/news/202408/3901135.html)
+
++ [董明珠：你们不用格力空调不是傻吗？能省很多钱你不要](https://www.3dmgame.com/news/202408/3901134.html)
+
++ [彻底告别3999元！曝小米15系列成本略有增长](https://www.3dmgame.com/news/202408/3901136.html)
+
++ [英伟达准备新款RTX 4070显卡 改用GDDR6显存](https://www.3dmgame.com/news/202408/3901137.html)
+
++ [演员Frankie Boyle曾试镜《无主之地》电影马库斯](https://www.3dmgame.com/news/202408/3901138.html)
+
++ [谷歌Pixel 9系列最新渲染图曝光：有明显改进 手感或不俗](https://www.3dmgame.com/news/202408/3901139.html)
+
++ [任天堂、卡普空、世嘉、SE等多家日本公司股价下跌](https://www.3dmgame.com/news/202408/3901140.html)
+
++ [《漫威争锋》开发商：设计近战英雄是最大挑战](https://www.3dmgame.com/news/202408/3901141.html)
+
++ [《卧龙：苍天陨落》8月20日重新上架 将调整定价](https://www.3dmgame.com/news/202408/3901142.html)
+
++ [传《复仇者联盟5：毁灭日》阿汤哥将饰演钢铁侠变体](https://www.3dmgame.com/news/202408/3901143.html)
+
++ [《塞尔达传说：智慧的再现》中文预告 9月26日发售](https://www.3dmgame.com/news/202408/3901144.html)
+
++ [《死神：魂魄觉醒》角色预告 灵活多变的战士](https://www.3dmgame.com/news/202408/3901145.html)
+
++ [《仙剑奇侠传三》魔剑镇妖剑1:1模型开启众筹 1068元起](https://www.3dmgame.com/news/202408/3901146.html)
+
++ [《星球大战：亡命之徒》季票路线图公布](https://www.3dmgame.com/news/202408/3901148.html)
+
