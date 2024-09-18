@@ -41,3 +41,7 @@
 
 + [靶场战神为何会陨落？](https://www.freebuf.com/articles/network/410153.html)
 
++ [FreeBuf早报 | 115 网盘回应故障；阿里云盘Bug致用户私密照片泄露](https://www.freebuf.com/news/411138.html)
+
++ [多角度揭秘威胁行为组织CryptoCore复杂的加密货币欺诈活动](https://www.freebuf.com/articles/network/409305.html)
+

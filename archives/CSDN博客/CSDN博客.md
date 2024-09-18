@@ -145,3 +145,11 @@
 
 + [GPT如何理解人类语言：从向量化到智能涌现](https://blog.csdn.net/qq_51447436/article/details/142317102)
 
++ [【机器学习-监督学习】朴素贝叶斯](https://blog.csdn.net/Morse_Chen/article/details/142186453)
+
++ [使用 Java Deeplearning4j 和 Imagen 训练动物图像生成模型全流程指南](https://blog.csdn.net/lilinhai548/article/details/142317886)
+
++ [工厂模式，策略模式，代理模式，单例模式在项目中的应用](https://blog.csdn.net/m0_73966521/article/details/142315845)
+
++ [介绍一些免费 的 html 5模版网站 和配色 网站](https://blog.csdn.net/tomxjc/article/details/142308361)
+

@@ -155,3 +155,17 @@
 
 + [SEGA开启Steam如龙审判之眼系列促销活动](https://www.3dmgame.com/news/202409/3904363.html)
 
++ [新《战地》2025年初举行大规模测试 内侧已超过一年](https://www.3dmgame.com/news/202409/3904373.html)
+
++ [《最终幻想16》Steam多半好评 优化问题反应较多](https://www.3dmgame.com/news/202409/3904372.html)
+
++ [EA首席执行官表示AI现在是“我们业务的核心”](https://www.3dmgame.com/news/202409/3904371.html)
+
++ [《黎明杀机》衍生作品《Project T》已被取消](https://www.3dmgame.com/news/202409/3904370.html)
+
++ [《星球大战绝地》两作迄今为止已有超过4000万玩家](https://www.3dmgame.com/news/202409/3904369.html)
+
++ [EA确认《星球大战绝地》三部曲终章已在开发中](https://www.3dmgame.com/news/202409/3904368.html)
+
++ [爆料者发现PC版《荒野大镖客：救赎》Steam信息](https://www.3dmgame.com/news/202409/3904367.html)
+
