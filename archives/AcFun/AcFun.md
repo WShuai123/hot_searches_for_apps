@@ -67,3 +67,7 @@
 
 + [粉丝寄来荔枝树根，要我制作咖啡机手柄](http://www.acfun.cn/v/ac46266247)
 
++ [谁敢听！猜猜谁唱的？？？？](http://www.acfun.cn/v/ac46267252)
+
++ [【猪肝来也】 plog/九月过半](http://www.acfun.cn/v/ac46263718)
+
