@@ -211,3 +211,35 @@
 
 + [EA免费游戏《滑板》2025年初开启抢先体验 主机测试今秋开始](https://www.3dmgame.com/news/202409/3904374.html)
 
++ [合作射击游戏《战锤40K：暗潮》PS5版在台湾通过评级](https://www.3dmgame.com/news/202409/3904407.html)
+
++ [美国加州批准里程碑AI法案 要求保护演员数字肖像](https://www.3dmgame.com/news/202409/3904408.html)
+
++ [“船厂”Corsair确认收购赛车游戏外设厂商Fanatec](https://www.3dmgame.com/news/202409/3904409.html)
+
++ [类银河恶魔城探险游戏《马科：超越勇气》现已在Steam平台正式推出](https://www.3dmgame.com/news/202409/3904410.html)
+
++ [手游《命运：崛起》官网和社媒账号曝光 或即将官宣](https://www.3dmgame.com/news/202409/3904401.html)
+
++ [AI生成《星刃》女主美图欣赏 性感身姿相当吸睛！](https://www.3dmgame.com/news/202409/3904402.html)
+
++ [《星际战士2》老板讨厌ZZZQ：希望《黑神话》能引领经典游戏复兴](https://www.3dmgame.com/news/202409/3904403.html)
+
++ [4J工作室开发全新沙盒 曾开发主机《我的世界》](https://www.3dmgame.com/news/202409/3904404.html)
+
++ [男子爬山失足手机成功求救 三台手机就华为有信号](https://www.3dmgame.com/news/202409/3904405.html)
+
++ [沉浸式模拟游戏《模拟火车世界5》正式发售 已获多半好评](https://www.3dmgame.com/news/202409/3904406.html)
+
++ [任天堂Switch会员游戏库追加三款SFC游戏：《安琪莉可》等](https://www.3dmgame.com/news/202409/3904396.html)
+
++ [数据统计显示 微软Xbox Series X|S全球销量还不到PS5的一半](https://www.3dmgame.com/news/202409/3904397.html)
+
++ [前B社设计师：《上古卷轴6》令人惊叹 但难超前作](https://www.3dmgame.com/news/202409/3904395.html)
+
++ [澳大利亚新规：所有含类赌博机制游戏将被“强制分级”](https://www.3dmgame.com/news/202409/3904398.html)
+
++ [《燕云十六声》官方：黑神话成功后 我们成了“黄毛”](https://www.3dmgame.com/news/202409/3904399.html)
+
++ [FF生父坂口博信祝贺FF16登PC 意外曝光Steam库存丰富](https://www.3dmgame.com/news/202409/3904400.html)
+

@@ -75,3 +75,9 @@
 
 + [HST Magazine - AI and the world of work.](https://dribbble.com/shots/)
 
++ [Emura Studio - Brand Implementation](https://dribbble.com/shots/)
+
++ [Crypto Dashboard Design for Cross Chain Protocol](https://dribbble.com/shots/)
+
++ [AturnDeck - Task & Project Management Dashboard](https://dribbble.com/shots/)
+
