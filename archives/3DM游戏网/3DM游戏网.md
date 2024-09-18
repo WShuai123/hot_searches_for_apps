@@ -381,3 +381,7 @@
 
 + [《城市：天际线2》房租太贵 官方直接把房东给删了](https://www.3dmgame.com/news/202406/3897231.html)
 
++ [育碧否认《不羁联盟》 “快死了”：表现良好有改进空间](https://www.3dmgame.com/news/202409/3904440.html)
+
++ [《地平线：零之曙光 复刻版》通过ESRB评级 登陆PS5和PC](https://www.3dmgame.com/news/202409/3904441.html)
+

@@ -49,3 +49,5 @@
 
 + [苹果 iOS / iPadOS 18.1 开发者预览版 Beta 4 发布：支持通话录音、暂停视频录制、增强 Siri 建议等](https://m.ithome.com/html/796439.htm)
 
++ [铁路 12306 工作人员回应高铁 G8365 次列车上百人有票无座](https://m.ithome.com/html/796588.htm)
+

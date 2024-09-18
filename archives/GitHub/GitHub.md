@@ -25,3 +25,19 @@
 
 + [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [tungbq / devops-basics](https://github.com/tungbq/devops-basics)
+
++ [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
++ [facebook / react-native](https://github.com/facebook/react-native)
+
++ [actions / runner-images](https://github.com/actions/runner-images)
+
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [localstack / localstack](https://github.com/localstack/localstack)
+

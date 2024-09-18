@@ -119,3 +119,17 @@
 
 + [【独家】2024十月新番导视——最有希望的一季？](http://www.acfun.cn/v/ac46260952)
 
++ [【嘉也子】可以给泳装小羊一个kiss吗—Mr.chu—](http://www.acfun.cn/v/ac46265367)
+
++ [凭啥不给我饭吃？日本再现百年前的“米骚动”，在搞什么？](http://www.acfun.cn/v/ac46262599)
+
++ [大型纪录片《女儿秒变儿媳妇》“男朋友突然变成自己亲哥哥，我捋了两遍才看懂！”](http://www.acfun.cn/v/ac46262586)
+
++ [三旬老太装可爱](http://www.acfun.cn/v/ac46262169)
+
++ [小艾–《MissA-Hush》热舞翻跳](http://www.acfun.cn/v/ac46262289)
+
++ [【猪肝来也】『大人中』还好我爱的人永远住在我心脏](http://www.acfun.cn/v/ac46264531)
+
++ [周星驰电影中的，那些神级配乐全盘点!](http://www.acfun.cn/v/ac46261435)
+

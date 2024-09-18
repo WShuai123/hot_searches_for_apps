@@ -55,3 +55,5 @@
 
 + [对BP机发起网络攻击，竟可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)
 
++ [最后2天报名！WitAwards2024中国网安行业年度评选「进行中」](https://www.freebuf.com/fevents/410854.html)
+
