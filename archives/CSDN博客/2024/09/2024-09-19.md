@@ -119,3 +119,7 @@
 
 + [7天速成前端 ------学习日志 （继苍穹外卖之后）](https://blog.csdn.net/Yluciud/article/details/142301633)
 
++ [ReKep——李飞飞团队提出的新一代机器人操作方法：基于视觉语言模型和关键点约束](https://blog.csdn.net/v_JULY_v/article/details/142339323)
+
++ [【研发日记】嵌入式处理器技能解锁(六)——ARM的Cortex-M4内核](https://blog.csdn.net/CSSUST/article/details/142340942)
+
