@@ -385,3 +385,17 @@
 
 + [《地平线：零之曙光 复刻版》通过ESRB评级 登陆PS5和PC](https://www.3dmgame.com/news/202409/3904441.html)
 
++ [Wi-Fi HaLow再次创下Wi-Fi连接距离记录 近16公里](https://www.3dmgame.com/news/202409/3904448.html)
+
++ [联想将在印度生产AI服务器：预计年产能5万台](https://www.3dmgame.com/news/202409/3904446.html)
+
++ [小米首款SUV法拉米：姿态超低 越看越像法拉利](https://www.3dmgame.com/news/202409/3904447.html)
+
++ [《EXELIO》Steam页面开放 支持简繁体中文](https://www.3dmgame.com/news/202409/3904444.html)
+
++ [美国海瑞德将举行日本复古游戏拍卖会 压箱底不开封更值钱](https://www.3dmgame.com/news/202409/3904442.html)
+
++ [《超级猴子球 香蕉大乱斗》最新资讯公开：全新对战模式“宝石争夺战”登场！](https://www.3dmgame.com/news/202409/3904443.html)
+
++ [《黑神话》2021初版三姐建模图赏 清冷靓丽吸引人](https://www.3dmgame.com/news/202409/3904445.html)
+
