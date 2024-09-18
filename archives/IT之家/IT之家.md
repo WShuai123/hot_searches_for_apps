@@ -37,3 +37,5 @@
 
 + [空调刺客，是怎么戳伤打工人钱包的](https://m.ithome.com/html/796422.htm)
 
++ [9 月 20 日前可申请，华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间延长](https://m.ithome.com/html/796400.htm)
+

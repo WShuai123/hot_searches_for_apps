@@ -87,3 +87,7 @@
 
 + [News Mobile App Design - Post Article Page](https://dribbble.com/shots/)
 
++ [Daily Logo Challenge #6 - Coffee Shop Logo](https://dribbble.com/shots/)
+
++ [E-commerce Mobile Responsive Design](https://dribbble.com/shots/)
+
