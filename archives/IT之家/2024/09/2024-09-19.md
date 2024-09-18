@@ -27,3 +27,5 @@
 
 + [苹果 iPhone 16 Pro Max 充电实测：日常工况下依旧只有 27W](https://m.ithome.com/html/796656.htm)
 
++ [华为 WATCH GT5 Pro 智能手表外观曝光：棱角表圈 + 双色拼接刻度，提供金属表带款](https://m.ithome.com/html/796650.htm)
+
