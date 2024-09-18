@@ -51,3 +51,5 @@
 
 + [XXE漏洞实战案例：从无效XML到内部文件提取的探索之旅](https://www.freebuf.com/articles/web/409185.html)
 
++ [Shuffle：一款完全自动化的安全栈增强平台](https://www.freebuf.com/sectool/410484.html)
+

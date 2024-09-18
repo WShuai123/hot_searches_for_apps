@@ -39,3 +39,5 @@
 
 + [9 月 20 日前可申请，华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间延长](https://m.ithome.com/html/796400.htm)
 
++ [广州监管部门通报三只羊美诚月饼事件：香港公司授权商标给广州美诚食品公司使用](https://m.ithome.com/html/796526.htm)
+

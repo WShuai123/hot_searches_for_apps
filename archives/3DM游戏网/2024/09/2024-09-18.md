@@ -251,3 +251,19 @@
 
 + [桂正和《银翼超人》真人剧最新主艺图公布 10月22日开播](https://www.3dmgame.com/news/202409/3904411.html)
 
++ [新作《死亡终局：轮回试炼3》正在开发中 发售日期待定](https://www.3dmgame.com/news/202409/3904420.html)
+
++ [《星鸣特攻》下线后仍有PS5玩家“完成”白金奖杯 打破69人白金纪录](https://www.3dmgame.com/news/202409/3904422.html)
+
++ [《战地》新作登录Switch 2？负责人：如果可能当然愿意](https://www.3dmgame.com/news/202409/3904421.html)
+
++ [《街头霸王6》新角色“特瑞”角色指南 9月24日上线](https://www.3dmgame.com/news/202409/3904416.html)
+
++ [《冰汽时代2》上线预告片中文版 标志版21日发售](https://www.3dmgame.com/news/202409/3904419.html)
+
++ [《寂静岭2》重制新作涩谷宣传造势 10月8日发售在即](https://www.3dmgame.com/news/202409/3904418.html)
+
++ [《死亡岛2》Steam国区售价下调 标准版永降42元](https://www.3dmgame.com/news/202409/3904417.html)
+
++ [《我独自升级》第二季动画2025年1月开播 特别编集剧场版预告公布](https://www.3dmgame.com/news/202409/3904415.html)
+
