@@ -53,3 +53,11 @@
 
 + [奥迪关厂事件引发汽车工人抗议，超 5000 人聚集布鲁塞尔示威](https://m.ithome.com/html/796435.htm)
 
++ [小米三折叠手机外观专利曝光，相机布局采用水平设计](https://m.ithome.com/html/796540.htm)
+
++ [Counterpoint Research：小米 8 月超越苹果，成为仅次于三星的全球第 2 大智能手机品牌](https://m.ithome.com/html/796532.htm)
+
++ [多家北京门店回应华为 Mate 70 系列接受预订：未接到通知，或将 11 月底发布](https://m.ithome.com/html/796581.htm)
+
++ [充电 60 元超时费 1600 元，特斯拉车主又遭遇充电刺客](https://m.ithome.com/html/796463.htm)
+

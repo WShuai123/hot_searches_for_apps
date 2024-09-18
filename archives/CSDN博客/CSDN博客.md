@@ -193,3 +193,9 @@
 
 + [高德地图2.0 绘制、编辑多边形覆盖物（电子围栏）](https://blog.csdn.net/qq_42866164/article/details/142309698)
 
++ [GaussDB关键技术原理：高弹性（五）](https://blog.csdn.net/GaussDB/article/details/141962136)
+
++ [OSG开发笔记（三十）：OSG加载动力学仿真K模型文件以及测试Demo](https://blog.csdn.net/qq21497936/article/details/142340138)
+
++ [【在Linux世界中追寻伟大的One Piece】进程间关系与守护进程](https://blog.csdn.net/weixin_74809706/article/details/142337228)
+

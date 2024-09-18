@@ -399,3 +399,9 @@
 
 + [《黑神话》2021初版三姐建模图赏 清冷靓丽吸引人](https://www.3dmgame.com/news/202409/3904445.html)
 
++ [《最终幻想7：重生》《最终幻想16》利润不及预期](https://www.3dmgame.com/news/202409/3904451.html)
+
++ [传RTX 4090和4090D从10月开始停产](https://www.3dmgame.com/news/202409/3904449.html)
+
++ [“周星驰御用配音”石班瑜去世，享年66岁](https://www.3dmgame.com/news/202409/3904450.html)
+
