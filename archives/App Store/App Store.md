@@ -217,3 +217,9 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [贝壳找房](https://itunes.apple.com/cn/app/id1347663353?mt=8)
+

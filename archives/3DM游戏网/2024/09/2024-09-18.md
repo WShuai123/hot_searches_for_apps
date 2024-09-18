@@ -267,3 +267,11 @@
 
 + [《我独自升级》第二季动画2025年1月开播 特别编集剧场版预告公布](https://www.3dmgame.com/news/202409/3904415.html)
 
++ [ATLUS新作《暗喻幻想：ReFantazio》介绍支持主角的支援者“支持者”们](https://www.3dmgame.com/news/202409/3904426.html)
+
++ [《龙之信条2》全版本六折促销 两小时免费试玩开启](https://www.3dmgame.com/news/202409/3904424.html)
+
++ [《超级猴子球 香蕉大乱斗》将与Dole进行联动 香蕉将变身为 Dole 联动活动专属样式！](https://www.3dmgame.com/news/202409/3904425.html)
+
++ [《暗喻幻想》最新资讯公开：介绍旅行中的乐趣和目的地以及未知的岛屿“维尔加岛”](https://www.3dmgame.com/news/202409/3904423.html)
+

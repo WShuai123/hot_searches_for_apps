@@ -91,3 +91,17 @@
 
 + [E-commerce Mobile Responsive Design](https://dribbble.com/shots/)
 
++ [Rizzle Icons Visual Identity](https://dribbble.com/shots/)
+
++ [Voice AI Assistant Motion Visual (Sound On)](https://dribbble.com/shots/)
+
++ [D letter logo, modern logo, brand logo, symbol, logo design](https://dribbble.com/shots/)
+
++ [AI Alarm](https://dribbble.com/shots/)
+
++ [Athleticon Fitness Training Website 2024](https://dribbble.com/shots/)
+
++ [Griyo - Real Estate Details Page](https://dribbble.com/shots/)
+
++ [Good Hotels boutique hotels chain logo design: GH monogram halo](https://dribbble.com/shots/)
+
