@@ -41,3 +41,7 @@
 
 + [广州监管部门通报三只羊美诚月饼事件：香港公司授权商标给广州美诚食品公司使用](https://m.ithome.com/html/796526.htm)
 
++ [消息称 2024 华为秋季全场景新品发布会定档 9 月 24 日，2300 平米超大旗舰店即将开业](https://m.ithome.com/html/796510.htm)
+
++ [iPhone 15 Pro / Max 升级苹果 iOS 18.1 Beta 4 后支持拍摄空间照片](https://m.ithome.com/html/796452.htm)
+

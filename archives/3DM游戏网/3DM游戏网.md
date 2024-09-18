@@ -275,3 +275,43 @@
 
 + [《暗喻幻想》最新资讯公开：介绍旅行中的乐趣和目的地以及未知的岛屿“维尔加岛”](https://www.3dmgame.com/news/202409/3904423.html)
 
++ [万代推出等比例《游戏王》千年智慧轮 定价11000日元](https://www.3dmgame.com/news/202403/3891054.html)
+
++ [已获版号！腾讯《地下城与勇士》手游定档：第二季度上线](https://www.3dmgame.com/news/202403/3891056.html)
+
++ [《海贼王》官方宣布停载三周 尾田需要取材和构思](https://www.3dmgame.com/news/202403/3891057.html)
+
++ [NCSOFT《诸神大乱斗》新预告 第二次测试今日上线](https://www.3dmgame.com/news/202403/3891058.html)
+
++ [《寂静岭2：重制版》海报现身游戏零售店 已获评级](https://www.3dmgame.com/news/202403/3891059.html)
+
++ [英伟达CEO黄仁勋强调中国市场重要性：不能没有它](https://www.3dmgame.com/news/202403/3891060.html)
+
++ [苹果Vision Pro国行版来了！？国内销售开始招聘](https://www.3dmgame.com/news/202403/3891061.html)
+
++ [剧集《龙之家族》第二季公布新海报 6月在HBO首播](https://www.3dmgame.com/news/202403/3891063.html)
+
++ [罗永浩带货“空中的士”首架成交 广东客户豪掷199万](https://www.3dmgame.com/news/202403/3891064.html)
+
++ [《漫威1943：九头蛇崛起》截图：虚幻5打造 画面优秀](https://www.3dmgame.com/news/202403/3891062.html)
+
++ [《都要！小孩子才做选择》Steam试玩开启 又被美女包围](https://www.3dmgame.com/news/202403/3891065.html)
+
++ [微软、Meta、X等巨头联名对抗苹果！反对其限制导流政策](https://www.3dmgame.com/news/202403/3891066.html)
+
++ [KK对战平台人气新图《暴走英雄》3月21日火热上线  手指转一转，简单爽翻天！](https://www.3dmgame.com/news/202403/3891068.html)
+
++ [《超级肌肉猫》登陆Steam 爆笑2D横版动作新游](https://www.3dmgame.com/news/202403/3891069.html)
+
++ [雷军感叹只有特斯拉敢宣布涨价：暗示小米SU7定价](https://www.3dmgame.com/news/202403/3891070.html)
+
++ [《轩辕剑7》Switch版宣布5月30日发售 限定版内容公开](https://www.3dmgame.com/news/202403/3891071.html)
+
++ [专家解答到底每天睡多久才算睡够了：7到9小时最健康](https://www.3dmgame.com/news/202403/3891072.html)
+
++ [英伟达只在部分RTX 50系列显卡选用GDDR7](https://www.3dmgame.com/news/202403/3891074.html)
+
++ [英伟达：不到十年 AI就能即时生成游戏的每个像素](https://www.3dmgame.com/news/202403/3891073.html)
+
++ [心理恐怖游戏《洛蕾塔》将于4月11日登陆主机](https://www.3dmgame.com/news/202403/3891075.html)
+
