@@ -53,3 +53,5 @@
 
 + [Shuffle：一款完全自动化的安全栈增强平台](https://www.freebuf.com/sectool/410484.html)
 
++ [对BP机发起网络攻击，竟可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)
+

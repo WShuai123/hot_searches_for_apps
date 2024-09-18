@@ -315,3 +315,69 @@
 
 + [心理恐怖游戏《洛蕾塔》将于4月11日登陆主机](https://www.3dmgame.com/news/202403/3891075.html)
 
++ [《绿箭侠》主演斯蒂芬·阿梅尔表示 “绿箭侠宇宙”是DC最新的成功的故事](https://www.3dmgame.com/news/202409/3904427.html)
+
++ [《龙魂：魔都异闻》登陆Steam 龙魂收集RPG](https://www.3dmgame.com/news/202409/3904428.html)
+
++ [《冰汽时代2》M站媒体均分85 IGN和GS双8分](https://www.3dmgame.com/news/202409/3904429.html)
+
++ [苹果市值蒸发千亿：iPhone 16首周销量下降12.7%！华为三折叠预约625.9万 你买谁](https://www.3dmgame.com/news/202409/3904430.html)
+
++ [中国可重复使用运载火箭大突破 商业航天迎来万亿级市](https://www.3dmgame.com/news/202409/3904431.html)
+
++ [《黑神话》Steam销量1980万份 将达成新里程碑](https://www.3dmgame.com/news/202409/3904432.html)
+
++ [《绝地潜兵2》创意总监确认之后会添加更高难度选项](https://www.3dmgame.com/news/202409/3904433.html)
+
++ [全粤语配音《猛鬼大厦2：二楼的辫子姑娘》Steam页面开放 支持中文](https://www.3dmgame.com/news/202409/3904437.html)
+
++ [SweetBaby创办人认为自己是受害者：大家害怕改变](https://www.3dmgame.com/news/202409/3904434.html)
+
++ [Win 11现代应用启动提速50％ 体积缩小8倍](https://www.3dmgame.com/news/202409/3904435.html)
+
++ [2分钟拿捏国内外玩家，这或许是战术竞技下一个爆款](https://www.3dmgame.com/news/202409/3904438.html)
+
++ [Fami通最新游戏评分：《黑神话：悟空》获33分](https://www.3dmgame.com/news/202409/3904436.html)
+
++ [8月超越苹果！小米跻身全球第2大智能手机品牌 高端大获成功、海外市场发力](https://www.3dmgame.com/news/202409/3904439.html)
+
++ [《刺客信条：影》不强迫玩家用黑人武士 一直用女忍没问题](https://www.3dmgame.com/news/202406/3897211.html)
+
++ [Take-Two收购Gearbox交易现已正式完成](https://www.3dmgame.com/news/202406/3897213.html)
+
++ [PS5主机架构师：PC游戏不会对主机行业造成威胁](https://www.3dmgame.com/news/202406/3897214.html)
+
++ [Rebellion工作室新作《Atomfall》Steam页面上线 明年发售](https://www.3dmgame.com/news/202406/3897215.html)
+
++ [《星球大战：侍者》引众怒 同性恋女巫用原力怀孕](https://www.3dmgame.com/news/202406/3897216.html)
+
++ [欧美服PS PLus二档三档会员6月新入库游戏：《怪物猎人：崛起》等](https://www.3dmgame.com/news/202406/3897217.html)
+
++ [Valve因涉嫌操纵Steam市场在英国被起诉 索赔金额高达6.56亿英镑](https://www.3dmgame.com/news/202406/3897218.html)
+
++ [Gearbox员工称：公司“数不清”的人受到裁员影响](https://www.3dmgame.com/news/202406/3897219.html)
+
++ [巨人网络狼人杀手游《Super Sus》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897220.html)
+
++ [《刺客信条：影》采用全局光追 系列首款仅登次世代游戏](https://www.3dmgame.com/news/202406/3897222.html)
+
++ [清版动作肉鸽游戏《怪兽快跑》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3897221.html)
+
++ [游骑兵解释《乐高地平线大冒险》为何登陆Switch：游戏适合所有人](https://www.3dmgame.com/news/202406/3897223.html)
+
++ [《帕丁顿熊在秘鲁》预告及海报公布 11月8日英国上映](https://www.3dmgame.com/news/202406/3897224.html)
+
++ [国产精品单机《心渊梦境》今日登陆Nintendo e商店，限时七折优惠](https://www.3dmgame.com/news/202406/3897225.html)
+
++ [夏季展会举办期间全球游戏热度排名 《黑神话》上榜](https://www.3dmgame.com/news/202406/3897226.html)
+
++ [太空生存建造游戏《世代流亡》现已登录Steam平台 预计2025年推出](https://www.3dmgame.com/news/202406/3897227.html)
+
++ [PC Gamer痛批《龙腾世纪：影障守护者》：一点也不像《龙腾世纪》](https://www.3dmgame.com/news/202406/3897228.html)
+
++ [沉浸式恋爱游戏《爱上变身情人》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3897230.html)
+
++ [《战争机器：事变日》画面超棒 光追和画面技术介绍](https://www.3dmgame.com/news/202406/3897229.html)
+
++ [《城市：天际线2》房租太贵 官方直接把房东给删了](https://www.3dmgame.com/news/202406/3897231.html)
+

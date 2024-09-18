@@ -187,3 +187,9 @@
 
 + [用计算思维解决知识原理的事](https://blog.csdn.net/flykid1971/article/details/142302123)
 
++ [AIGC专栏15——CogVideoX-Fun详解 支持图&文生视频 拓展CogVideoX到256～1024任意分辨率生成](https://blog.csdn.net/weixin_44791964/article/details/142205114)
+
++ [【Springboot】——响应与分层解耦架构](https://blog.csdn.net/shsjssnn/article/details/139117362)
+
++ [高德地图2.0 绘制、编辑多边形覆盖物（电子围栏）](https://blog.csdn.net/qq_42866164/article/details/142309698)
+

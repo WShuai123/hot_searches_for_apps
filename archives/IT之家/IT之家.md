@@ -45,3 +45,7 @@
 
 + [iPhone 15 Pro / Max 升级苹果 iOS 18.1 Beta 4 后支持拍摄空间照片](https://m.ithome.com/html/796452.htm)
 
++ [小米三折叠手机专利曝光，相机布局采用水平设计](https://m.ithome.com/html/796540.htm)
+
++ [苹果 iOS / iPadOS 18.1 开发者预览版 Beta 4 发布：支持通话录音、暂停视频录制、增强 Siri 建议等](https://m.ithome.com/html/796439.htm)
+
