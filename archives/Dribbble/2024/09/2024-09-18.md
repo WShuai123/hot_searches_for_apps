@@ -125,3 +125,19 @@
 
 + [Cyclops - Pricing Page](https://dribbble.com/shots/)
 
++ [Dashboard for a IoT SaaS ✦ Phoenix](https://dribbble.com/shots/)
+
++ [Muskat Restaurant](https://dribbble.com/shots/)
+
++ [Trees or Avocados?](https://dribbble.com/shots/)
+
++ [Music Gorilla logo on a button](https://dribbble.com/shots/)
+
++ [Zello Pattern Design](https://dribbble.com/shots/)
+
++ [PinSpace Social Network Mobile App](https://dribbble.com/shots/)
+
++ [Rabbit](https://dribbble.com/shots/)
+
++ [Cute Puppy Dog🐶🛵🎈](https://dribbble.com/shots/)
+
