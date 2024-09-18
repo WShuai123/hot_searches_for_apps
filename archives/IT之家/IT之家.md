@@ -25,3 +25,5 @@
 
 + [苹果 iOS 18.1 开发者预览版 Beta 4 通话录音适配 iPhone XS 等老款机型](https://m.ithome.com/html/796509.htm)
 
++ [苹果 iPhone 16 Pro Max 充电实测：日常工况下依旧只有 27W](https://m.ithome.com/html/796656.htm)
+
