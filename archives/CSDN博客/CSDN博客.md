@@ -175,3 +175,9 @@
 
 + [华为OD七日集训第10期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/142322624)
 
++ [【AI大模型】LLM主流开源大模型介绍](https://blog.csdn.net/2301_76820214/article/details/142342442)
+
++ [基于yolov8的肉鸡健康状态检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142342406)
+
++ [Linux嵌入式相机 — 项目总结](https://blog.csdn.net/HRad7282/article/details/142334615)
+

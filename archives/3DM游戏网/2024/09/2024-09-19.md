@@ -293,3 +293,7 @@
 
 + [《王国之心》总监野村哲也：退休前想把故事讲完](https://www.3dmgame.com/news/202409/3904504.html)
 
++ [《博德之门3》开发团队喜爱老派RPG游戏《创世纪》 不排除未来开发的可能](https://www.3dmgame.com/news/202409/3904508.html)
+
++ [《丧尸围城 豪华复刻版》正式发售 steam综合评价“多半好评”](https://www.3dmgame.com/news/202409/3904509.html)
+
