@@ -35,3 +35,5 @@
 
 + [任天堂 Switch 2 掌机第三方效果图曝光，爆料称与官方设计相符](https://m.ithome.com/html/796664.htm)
 
++ [iPhone 16 系列初期销量低于预期新线索，郭明錤称苹果已开放员工购买通道](https://m.ithome.com/html/796687.htm)
+

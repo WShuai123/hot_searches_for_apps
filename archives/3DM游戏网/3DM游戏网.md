@@ -239,3 +239,37 @@
 
 + [《暗黑破坏神4》佣兵系统介绍 强大伙伴陪你战斗](https://www.3dmgame.com/news/202409/3904477.html)
 
++ [《古墓丽影》新作让玩家忧虑 劳拉变肌肉女失去魅力？](https://www.3dmgame.com/news/202409/3904494.html)
+
++ [《帕斯卡契约》团队新作 动作RPG《万物契约》首爆实机演示](https://www.3dmgame.com/news/202409/3904493.html)
+
++ [Cwin游戏音乐嘉年华10月2日开幕 《黑神话：悟空》等](https://www.3dmgame.com/news/202409/3904495.html)
+
++ [暴雪创始人新公司Dreamhaven首款作品即将推出](https://www.3dmgame.com/news/202409/3904496.html)
+
++ [治愈可爱风格探索冒险游戏《佩蒂特的小岛》故事预告放出 2024年年内推出](https://www.3dmgame.com/news/202409/3904497.html)
+
++ [漫画风格二战军事基地模拟游戏《王牌之地》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202409/3904487.html)
+
++ [Bungie《马拉松》重启在2025年前不会有太多消息](https://www.3dmgame.com/news/202409/3904488.html)
+
++ [知名主播认为《龙腾世纪4》像手游 角色比星鸣特攻还丑](https://www.3dmgame.com/news/202409/3904489.html)
+
++ [苹果在欧洲再遭集体诉讼：被指赚取2.59亿欧元不正当利润](https://www.3dmgame.com/news/202409/3904490.html)
+
++ [Ghub罗技驱动今日更新，下载慢、打不开、进不去、一直转圈的极速解决方法](https://www.3dmgame.com/news/202409/3904491.html)
+
++ [4X+修仙有没有搞头？策略游戏《宗门志》免费试玩现已上线！](https://www.3dmgame.com/news/202409/3904492.html)
+
++ [万代回应玩家诉讼《艾尔登法环》难度过高：请求驳回](https://www.3dmgame.com/news/202409/3904481.html)
+
++ [报告显示：去年PC游戏销量下滑 而主机游戏销量增长](https://www.3dmgame.com/news/202409/3904482.html)
+
++ [前《上古卷轴》开发者透露 B社门面陶德会同时参与二十几个项目](https://www.3dmgame.com/news/202409/3904483.html)
+
++ [《海绵宝宝：拯救比奇堡》内地定档 10月18日上映](https://www.3dmgame.com/news/202409/3904484.html)
+
++ [《黎明杀机》衍生作被取消后 工作室Midwinter将被关闭](https://www.3dmgame.com/news/202409/3904485.html)
+
++ [《炉石传说》国服PC端预载开启 9月25日回归](https://www.3dmgame.com/news/202409/3904486.html)
+

@@ -145,3 +145,13 @@
 
 + [高德地图2.0 绘制、编辑多边形覆盖物（电子围栏）](https://blog.csdn.net/qq_42866164/article/details/142309698)
 
++ [【机器学习】--- 自然语言推理（NLI）](https://blog.csdn.net/2301_80863610/article/details/142313561)
+
++ [滚雪球学SpringCloud[5.1讲]： Spring Cloud Config详解](https://blog.csdn.net/weixin_43970743/article/details/141143746)
+
++ [数据库定义和PolarDB陌生术语介绍](https://blog.csdn.net/lin_miao_2023/article/details/142343084)
+
++ [计算机网络（七） —— https协议与网络安全证书](https://blog.csdn.net/aaqq800520/article/details/142260534)
+
++ [【计算机网络】详解TCP/IP分层模型&局域网和跨网络通信的原理](https://blog.csdn.net/m0_74265792/article/details/140516103)
+

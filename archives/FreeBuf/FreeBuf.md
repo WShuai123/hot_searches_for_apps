@@ -49,3 +49,5 @@
 
 + [对BP机发起网络攻击，为什么可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)
 
++ [黎巴嫩再发生爆炸事件，这次是对讲机](https://www.freebuf.com/news/411247.html)
+
