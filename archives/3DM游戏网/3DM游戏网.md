@@ -297,3 +297,33 @@
 
 + [《丧尸围城 豪华复刻版》正式发售 steam综合评价“多半好评”](https://www.3dmgame.com/news/202409/3904509.html)
 
++ [发射任务两度违规！SpaceX将挨罚63万美元](https://www.3dmgame.com/news/202409/3904520.html)
+
++ [合资汽车工厂12亿第三次流拍 怒降6.9亿仍无人接盘](https://www.3dmgame.com/news/202409/3904521.html)
+
++ [印度政府批准4个大型太空项目 登陆金星等](https://www.3dmgame.com/news/202409/3904522.html)
+
++ [《黑神话》删减内容被挖掘：废案Boss 未实装配音等](https://www.3dmgame.com/news/202409/3904523.html)
+
++ [落子定生死 新式围棋肉鸽RPG《倒转方舟》现已正式发售](https://www.3dmgame.com/news/202409/3904524.html)
+
++ [PS5 Pro零售外包装曝光 没有8K游戏标识](https://www.3dmgame.com/news/202409/3904516.html)
+
++ [首发52.2元！横版战斗武侠RPG《刀剑江湖路》现已发售Steam](https://www.3dmgame.com/news/202409/3904517.html)
+
++ [《最终幻想7》全是俊男美女 都多亏了总监的同学](https://www.3dmgame.com/news/202409/3904518.html)
+
++ [《GTA6》近期传闻汇总：故事更接地气 有大量支线](https://www.3dmgame.com/news/202409/3904519.html)
+
++ [HTC VIVE公布新一体式VR头显 1000美元已可预购](https://www.3dmgame.com/news/202409/3904513.html)
+
++ [CCTV6报道网络热议《黑神话：悟空》天命人商标被抢注](https://www.3dmgame.com/news/202409/3904514.html)
+
++ [《重返未来：1999》Steam页面开放 2024年第四季度上线](https://www.3dmgame.com/news/202409/3904515.html)
+
++ [《绝地潜兵2》“复活”成功：更新后玩家峰值翻倍](https://www.3dmgame.com/news/202409/3904510.html)
+
++ [《摇曳露营》同世界观漫画《mono女孩》改编动画全新预告放出 2025年开播](https://www.3dmgame.com/news/202409/3904511.html)
+
++ [生死一线x动作RPG“TRIBENINE”亮相Steam新品节](https://www.3dmgame.com/news/202409/3904512.html)
+

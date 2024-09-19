@@ -181,3 +181,7 @@
 
 + [Linux嵌入式相机 — 项目总结](https://blog.csdn.net/HRad7282/article/details/142334615)
 
++ [云原生（Cloud Native）](https://blog.csdn.net/m0_52796585/article/details/142322649)
+
++ [Python Web日志管理与监控实践指南](https://blog.csdn.net/weixin_52392194/article/details/142330265)
+

@@ -57,3 +57,7 @@
 
 + [Dependency Check：一款针对应用程序依赖组件的安全检测工具](https://www.freebuf.com/sectool/410485.html)
 
++ [投出你心中的No.1 | WitAwards 2024评选「大众投票」正式启动！](https://www.freebuf.com/fevents/411037.html)
+
++ [应急响应 | linux常见应急排查](https://www.freebuf.com/articles/es/407630.html)
+

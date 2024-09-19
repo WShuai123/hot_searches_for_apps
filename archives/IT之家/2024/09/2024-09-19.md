@@ -49,3 +49,7 @@
 
 + [消息称荣耀有三折叠手机的商用量产计划，小米“暂时没听说”](https://m.ithome.com/html/796627.htm)
 
++ [除中文外，苹果公布 Apple Intelligence 明年将支持的更多语言](https://m.ithome.com/html/796652.htm)
+
++ [任天堂宣布正式起诉游戏《幻兽帕鲁》开发商 Pocket Pair](https://m.ithome.com/html/796697.htm)
+
