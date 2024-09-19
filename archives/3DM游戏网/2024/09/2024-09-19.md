@@ -273,3 +273,7 @@
 
 + [《炉石传说》国服PC端预载开启 9月25日回归](https://www.3dmgame.com/news/202409/3904486.html)
 
++ [销量低于预期证据：苹果开放iPhone16员工购买通道](https://www.3dmgame.com/news/202409/3904499.html)
+
++ [由于新增反作弊 《GTA5》不再兼容Steam Deck](https://www.3dmgame.com/news/202409/3904498.html)
+

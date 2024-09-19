@@ -51,3 +51,5 @@
 
 + [黎巴嫩再发生爆炸事件，这次是对讲机](https://www.freebuf.com/news/411247.html)
 
++ [漏洞分析 | CVE-2024-25065 Apache OFBiz 路径遍历漏洞](https://www.freebuf.com/articles/web/409493.html)
+

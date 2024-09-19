@@ -37,3 +37,7 @@
 
 + [iPhone 16 系列初期销量低于预期新线索，郭明錤称苹果已开放员工购买通道](https://m.ithome.com/html/796687.htm)
 
++ [小鹏回应 MONA M03 自动泊车撞上奥迪：不排除光线及其他因素导致的弱势场景](https://m.ithome.com/html/796558.htm)
+
++ [比亚迪第二代宋 Pro DM-i 车型内饰官图公布：升级嵌入式仪表，新增琥珀棕配色](https://m.ithome.com/html/796529.htm)
+
