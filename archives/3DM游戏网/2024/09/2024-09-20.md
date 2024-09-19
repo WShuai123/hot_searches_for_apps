@@ -101,3 +101,9 @@
 
 + [漫画风格二战军事基地模拟游戏《王牌之地》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202409/3904487.html)
 
++ [《战神：诸神黄昏》现已解锁 需绑定PSN账户](https://www.3dmgame.com/news/202409/3904539.html)
+
++ [Fami通新一周销量排行榜 《北海道连续杀人事件》登顶](https://www.3dmgame.com/news/202409/3904537.html)
+
++ [索尼PS5三十周年PS5主机公开 11月21日发售](https://www.3dmgame.com/news/202409/3904538.html)
+

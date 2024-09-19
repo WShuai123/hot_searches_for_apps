@@ -49,3 +49,13 @@
 
 + [CRM Dashboard](https://dribbble.com/shots/)
 
++ [Illustration](https://dribbble.com/shots/)
+
++ [PreMarket web design](https://dribbble.com/shots/)
+
++ [Lakes Fika Identity](https://dribbble.com/shots/)
+
++ [From the Sea to the Grave](https://dribbble.com/shots/)
+
++ [Caitlin Clark](https://dribbble.com/shots/)
+
