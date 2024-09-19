@@ -65,3 +65,9 @@
 
 + [与辉同行直播售卖的“澳门葡记月饼”被曝产自珠海，生产商称在澳注册商标但无门店](https://m.ithome.com/html/796859.htm)
 
++ [广东省博物馆回应地下车库禁停新能源车：不是歧视，国家一级防火单位对消防要求高](https://m.ithome.com/html/796916.htm)
+
++ [京东为 iPhone 16 / Pro 系列预购用户赠送“苹果 x 石榴”礼盒](https://m.ithome.com/html/796861.htm)
+
++ [《黑神话：悟空》删减内容曝光：废案 Boss、未实装配音等](https://m.ithome.com/html/796909.htm)
+

@@ -145,3 +145,15 @@
 
 + [Fox Systems Logo](https://dribbble.com/shots/)
 
++ [Blindsight Logo Concept](https://dribbble.com/shots/)
+
++ [Lunch](https://dribbble.com/shots/)
+
++ [Amazon forest](https://dribbble.com/shots/)
+
++ [OOH design](https://dribbble.com/shots/)
+
++ [Fintech Website UI Design](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Branded Graphic #2](https://dribbble.com/shots/)
+

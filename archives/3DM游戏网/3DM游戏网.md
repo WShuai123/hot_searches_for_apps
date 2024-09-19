@@ -343,3 +343,9 @@
 
 + [《丧尸围城：豪华复刻版》IGN 8分 保留原版体验](https://www.3dmgame.com/news/202409/3904532.html)
 
++ [分析师：截止8月底 《星球大战：亡命之徒》销量破80万](https://www.3dmgame.com/news/202409/3904535.html)
+
++ [Krafton CEO：《完美音浪2》不赚钱 但会尝试去做](https://www.3dmgame.com/news/202409/3904534.html)
+
++ [育碧援引SBI数据 称《刺客信条：影》在日表现很好](https://www.3dmgame.com/news/202409/3904533.html)
+
