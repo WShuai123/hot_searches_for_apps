@@ -67,3 +67,5 @@
 
 + [流行的鸟儿，动感的鹊，SIVGA 鹊上手体验](http://www.acfun.cn/v/ac46271454)
 
++ [炉石传说：【天天素材库】 第333期](http://www.acfun.cn/v/ac46269905)
+

@@ -201,3 +201,9 @@
 
 + [我的桌面 · iScreen - 桌面小组件主题壁纸](https://itunes.apple.com/cn/app/id1534704608?mt=8)
 
++ [华为商城-VMALL](https://itunes.apple.com/cn/app/id1455432631?mt=8)
+
++ [乐看好剧](https://itunes.apple.com/cn/app/id6511217059?mt=8)
+
++ [WiFi万能钥匙极速版 - 安全wi-fi无线上网管家](https://itunes.apple.com/cn/app/id1544429501?mt=8)
+
