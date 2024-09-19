@@ -61,3 +61,5 @@
 
 + [应急响应 | linux常见应急排查](https://www.freebuf.com/articles/es/407630.html)
 
++ [BP机爆炸后，对讲机也爆炸了 | 网络+供应链攻击之迷](https://www.freebuf.com/articles/411330.html)
+

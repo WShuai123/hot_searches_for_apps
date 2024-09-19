@@ -123,3 +123,9 @@
 
 + [[WIP] 📊 Sales Management Web App SaaS - Card Exploration](https://dribbble.com/shots/)
 
++ [CRM Dashboard](https://dribbble.com/shots/)
+
++ [Young Talent - Monogram](https://dribbble.com/shots/)
+
++ [Nolito - Cards & Components](https://dribbble.com/shots/)
+

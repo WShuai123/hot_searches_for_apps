@@ -327,3 +327,9 @@
 
 + [生死一线x动作RPG“TRIBENINE”亮相Steam新品节](https://www.3dmgame.com/news/202409/3904512.html)
 
++ [《幻兽帕鲁》开发商回应任天堂起诉：暂不清楚侵权细节](https://www.3dmgame.com/news/202409/3904525.html)
+
++ [《黑神话 悟空》1.0.9.15179更新 再入轮回后可购细金线](https://www.3dmgame.com/news/202409/3904526.html)
+
++ [《黑神话》Steam通关率35.6%！97.4%人完成序章](https://www.3dmgame.com/news/202409/3904527.html)
+

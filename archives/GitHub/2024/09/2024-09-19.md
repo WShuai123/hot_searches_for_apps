@@ -29,3 +29,23 @@
 
 + [ossu / computer-science](https://github.com/ossu/computer-science)
 
++ [achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog)
+
++ [twbs / bootstrap](https://github.com/twbs/bootstrap)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [aws / aws-cli](https://github.com/aws/aws-cli)
+
++ [alist-org / alist](https://github.com/alist-org/alist)
+
++ [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+
++ [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
++ [pytorch / torchtitan](https://github.com/pytorch/torchtitan)
+
