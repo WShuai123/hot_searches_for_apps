@@ -25,3 +25,5 @@
 
 + [《黑神话：悟空》删减内容曝光：废案 Boss、未实装配音等](https://m.ithome.com/html/796909.htm)
 
++ [蔚来乐道 L60 上市：定位家庭智能电动中型 SUV，20.69 万元起](https://m.ithome.com/html/796947.htm)
+

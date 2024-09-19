@@ -109,3 +109,13 @@
 
 + [【计算机网络】数据链路层深度解析](https://blog.csdn.net/2202_75623950/article/details/140826620)
 
++ [机器学习模型中特征贡献度分析：预测贡献与错误贡献](https://blog.csdn.net/m0_46510245/article/details/142352129)
+
++ [功能测试干了三年，快要废了。。。](https://blog.csdn.net/huace3740/article/details/142334199)
+
++ [Spring Boot 中 ES索引刷新策略：RefreshPolicy详解](https://blog.csdn.net/lilinhai548/article/details/142285622)
+
++ [Docker本地部署Chatbot Ollama搭建AI聊天机器人并实现远程交互](https://blog.csdn.net/xinhang10/article/details/142357581)
+
++ [Python Web日志管理与监控实践指南](https://blog.csdn.net/weixin_52392194/article/details/142330265)
+
