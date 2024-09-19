@@ -41,3 +41,7 @@
 
 + [SessionExec：一款针对会话安全的安全命令测试工具](https://www.freebuf.com/sectool/410476.html)
 
++ [FreeBuf早报 | Temu否认黑客窃取8700万用户数据；黎多地发生寻呼机爆炸事件](https://www.freebuf.com/news/411194.html)
+
++ [BlackByte利用“旧战术”+“新漏洞”助力新一轮攻击](https://www.freebuf.com/news/409992.html)
+

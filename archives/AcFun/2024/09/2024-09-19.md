@@ -73,3 +73,15 @@
 
 + [来讲亚人怎么呀？](http://www.acfun.cn/v/ac46267030)
 
++ [《妈妈酱，还养吗》](http://www.acfun.cn/v/ac46266722)
+
++ [【MMD】千岛的鹿乃子乃子虎视眈眈blender挑战](http://www.acfun.cn/v/ac46267391)
+
++ [中秋丢人现场歌切合集  ※非红茶社社员请勿视听](http://www.acfun.cn/v/ac46267309)
+
++ [离家后的小鸟假装不认识我，一招制服它](http://www.acfun.cn/v/ac46266277)
+
++ [台风天上班实录](http://www.acfun.cn/v/ac46264282)
+
++ [白色A6加国产MPV，车贩子闻风丧胆不敢收？小胡一把梭哈](http://www.acfun.cn/v/ac46265736)
+

@@ -193,3 +193,17 @@
 
 + [《试炼之书：魔女的猎场》Steam页面 支持简体中文](https://www.3dmgame.com/news/202402/3888746.html)
 
++ [CDPR向左转！奖学金和导师项目排除男性](https://www.3dmgame.com/news/202409/3904464.html)
+
++ [《黑豹》游戏采用开创性新技术 或有类复仇女神系统](https://www.3dmgame.com/news/202409/3904463.html)
+
++ [《最终幻想16》Steam峰值2.2万 不及《最终幻想15》](https://www.3dmgame.com/news/202409/3904462.html)
+
++ [冒险游戏《亚森·罗宾：昔日大盗》10/17推出](https://www.3dmgame.com/news/202409/3904461.html)
+
++ [《龙腾世纪：审判》销量已超过1200万份](https://www.3dmgame.com/news/202409/3904460.html)
+
++ [《寂静之地：前方之路》开发日记详细介绍潜行玩法](https://www.3dmgame.com/news/202409/3904459.html)
+
++ [《战神：诸神黄昏》PC版发售预告片突显好评如潮](https://www.3dmgame.com/news/202409/3904458.html)
+

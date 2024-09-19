@@ -127,3 +127,7 @@
 
 + [24年蓝桥杯及攻防世界赛题-MISC-1](https://blog.csdn.net/weixin_44626085/article/details/142313696)
 
++ [毕业设计选题：基于ssm+vue+uniapp的捷邻小程序](https://blog.csdn.net/shmp54/article/details/142318689)
+
++ [asp.net core调用wps实现word转pdf的方法](https://blog.csdn.net/lwf3115841/article/details/142306860)
+
