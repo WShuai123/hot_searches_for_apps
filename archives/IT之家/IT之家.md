@@ -27,3 +27,5 @@
 
 + [蔚来乐道 L60 上市：定位家庭智能电动中型 SUV，20.69 万元起](https://m.ithome.com/html/796947.htm)
 
++ [微信：安卓手机朋友圈发实况照片要“再等等”](https://m.ithome.com/html/796951.htm)
+
