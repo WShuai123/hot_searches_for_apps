@@ -55,3 +55,5 @@
 
 + [Discord 推出端到端音频、视频加密通话功能](https://www.freebuf.com/news/411234.html)
 
++ [Dependency Check：一款针对应用程序依赖组件的安全检测工具](https://www.freebuf.com/sectool/410485.html)
+

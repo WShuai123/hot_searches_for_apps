@@ -277,3 +277,19 @@
 
 + [由于新增反作弊 《GTA5》不再兼容Steam Deck](https://www.3dmgame.com/news/202409/3904498.html)
 
++ [《收获日3》（PAYDAY3）DLC4「恐惧与贪婪」现已上线](https://www.3dmgame.com/news/202409/3904505.html)
+
++ [梅津泰臣与SHAFT合作原创动画《VIRGIN PUNK》首曝预告](https://www.3dmgame.com/news/202409/3904506.html)
+
++ [京阿尼官宣2025年新作发布会 9月21日举行](https://www.3dmgame.com/news/202409/3904507.html)
+
++ [《双截龙再临》发布新预告 将在今年TGS上提供试玩](https://www.3dmgame.com/news/202409/3904500.html)
+
++ [战略合作沙发游戏《Tipston Salvage》10月10日发售 支持中文](https://www.3dmgame.com/news/202409/3904502.html)
+
++ [类魂动作RPG游戏《艾诺提亚：失落之歌》现正发售](https://www.3dmgame.com/news/202409/3904501.html)
+
++ [KK官方对战平台新图推荐！生存图迷绝不能错过，每局都像开盲盒！](https://www.3dmgame.com/news/202409/3904503.html)
+
++ [《王国之心》总监野村哲也：退休前想把故事讲完](https://www.3dmgame.com/news/202409/3904504.html)
+

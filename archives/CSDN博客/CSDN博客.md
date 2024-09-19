@@ -173,3 +173,5 @@
 
 + [Spring Boot 中 ES索引刷新策略：RefreshPolicy详解](https://blog.csdn.net/lilinhai548/article/details/142285622)
 
++ [华为OD七日集训第10期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/142322624)
+
