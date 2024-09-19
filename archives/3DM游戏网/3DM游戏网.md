@@ -341,3 +341,5 @@
 
 + [男子60元买螃蟹20元是绳：涉事商品已下架整改](https://www.3dmgame.com/news/202409/3904528.html)
 
++ [《丧尸围城：豪华复刻版》IGN 8分 保留原版体验](https://www.3dmgame.com/news/202409/3904532.html)
+
