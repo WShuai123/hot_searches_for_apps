@@ -53,3 +53,5 @@
 
 + [漏洞分析 | CVE-2024-25065 Apache OFBiz 路径遍历漏洞](https://www.freebuf.com/articles/web/409493.html)
 
++ [Discord 推出端到端音频、视频加密通话功能](https://www.freebuf.com/news/411234.html)
+

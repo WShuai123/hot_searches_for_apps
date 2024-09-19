@@ -163,3 +163,13 @@
 
 + [硬件（驱动开发）](https://blog.csdn.net/m0_71459026/article/details/142334679)
 
++ [【深度学习】（2）--PyTorch框架认识](https://blog.csdn.net/m0_74896766/article/details/142319893)
+
++ [AI绘画与摄影新纪元：ChatGPT+Midjourney+文心一格 共绘梦幻世界](https://blog.csdn.net/qq_32682301/article/details/142342006)
+
++ [基于大数据爬虫+SpringBoot+Vue的大型超市数据处理系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/142349329)
+
++ [数据分析案例-2024年QS世界大学排名数据可视化分析](https://blog.csdn.net/m0_64336780/article/details/138559108)
+
++ [Spring Boot 中 ES索引刷新策略：RefreshPolicy详解](https://blog.csdn.net/lilinhai548/article/details/142285622)
+
