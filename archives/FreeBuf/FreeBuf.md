@@ -47,3 +47,5 @@
 
 + [电力企业 | 安全建设框架](https://www.freebuf.com/articles/es/410967.html)
 
++ [对BP机发起网络攻击，为什么可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)
+

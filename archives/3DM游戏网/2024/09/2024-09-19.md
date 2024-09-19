@@ -231,3 +231,11 @@
 
 + [任天堂和宝可梦公司正式起诉《幻兽帕鲁》侵权](https://www.3dmgame.com/news/202409/3904466.html)
 
++ [《战神：诸神黄昏》PC获两个新功能 主机还要再等等](https://www.3dmgame.com/news/202409/3904480.html)
+
++ [赛博朋克风回合制节奏战斗游戏《Keylocker》现已正式推出 并获好评](https://www.3dmgame.com/news/202409/3904479.html)
+
++ [讲谈社新作《杀手寓言 Manga Build Roguelike》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3904478.html)
+
++ [《暗黑破坏神4》佣兵系统介绍 强大伙伴陪你战斗](https://www.3dmgame.com/news/202409/3904477.html)
+
