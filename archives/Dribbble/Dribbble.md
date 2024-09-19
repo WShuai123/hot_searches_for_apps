@@ -129,3 +129,13 @@
 
 + [Nolito - Cards & Components](https://dribbble.com/shots/)
 
++ [Cyclops - Performance Analytics](https://dribbble.com/shots/)
+
++ [Innovative NFT Platform Concept](https://dribbble.com/shots/)
+
++ [Shih Tzu Dog Logo](https://dribbble.com/shots/)
+
++ [Custom Casino 3D Icons](https://dribbble.com/shots/)
+
++ [NoCodeOps Case Study 💥](https://dribbble.com/shots/)
+
