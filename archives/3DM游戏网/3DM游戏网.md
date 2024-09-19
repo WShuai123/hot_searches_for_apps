@@ -333,3 +333,11 @@
 
 + [《黑神话》Steam通关率35.6%！97.4%人完成序章](https://www.3dmgame.com/news/202409/3904527.html)
 
++ [《星空》新BETA补丁在PC上线 改进游戏性能](https://www.3dmgame.com/news/202409/3904530.html)
+
++ [AMD苏姿丰谈与英伟达竞争：半导体行业容得下多家巨头](https://www.3dmgame.com/news/202409/3904531.html)
+
++ [香港小姐冠军回应合照被亚军压住：因为鞋跟太高](https://www.3dmgame.com/news/202409/3904529.html)
+
++ [男子60元买螃蟹20元是绳：涉事商品已下架整改](https://www.3dmgame.com/news/202409/3904528.html)
+

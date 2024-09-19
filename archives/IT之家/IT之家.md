@@ -53,3 +53,9 @@
 
 + [任天堂宣布正式起诉游戏《幻兽帕鲁》开发商 Pocket Pair](https://m.ithome.com/html/796697.htm)
 
++ [为什么电动自行车最高设计车速维持在 25 km/h、增加北斗定位？工信部回应](https://m.ithome.com/html/796855.htm)
+
++ [索尼第一方游戏《战神：诸神黄昏》PC 版发售，国区预购价 398 元起](https://m.ithome.com/html/796685.htm)
+
++ [小米 SU7 汽车获推澎湃 HyperOS 1.3.0 升级：支持城市领航辅助、优化“小路通行”功能](https://m.ithome.com/html/796746.htm)
+
