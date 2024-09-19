@@ -207,3 +207,27 @@
 
 + [《战神：诸神黄昏》PC版发售预告片突显好评如潮](https://www.3dmgame.com/news/202409/3904458.html)
 
++ [下一部《变形金刚》真人电影将和《特种部队》联动 更关注机器人视角](https://www.3dmgame.com/news/202409/3904470.html)
+
++ [新《战地》全新细节：设定在2030年前 地点包括美国本土](https://www.3dmgame.com/news/202409/3904476.html)
+
++ [奇幻恐怖FPS《颓废》公布全新故事预告 游戏已登录Steam平台](https://www.3dmgame.com/news/202409/3904474.html)
+
++ [生物朋克恐怖冒险游戏《被窃世界之城》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904475.html)
+
++ [《电锯甜心RePOP》胸部缺抖动被吐槽 官方称马上改](https://www.3dmgame.com/news/202409/3904473.html)
+
++ [《浪漫沙加2：七英雄的复仇》试玩版发布 存档数据可继承](https://www.3dmgame.com/news/202409/3904472.html)
+
++ [《最终幻想 XVI》,《战神：诸神黄昏》等游戏发布并借助DLSS 3提升性能](https://www.3dmgame.com/news/202409/3904471.html)
+
++ [动画改编动作冒险游戏《奇迹少女：巴黎围攻》Steam页面上线 10月26日发售](https://www.3dmgame.com/news/202409/3904469.html)
+
++ [Switch2效果图和实物图疑曝光 大屏幕12GB内存](https://www.3dmgame.com/news/202409/3904465.html)
+
++ [Take Two年度报告：《GTA6》仍将于2025年秋季发售](https://www.3dmgame.com/news/202409/3904467.html)
+
++ [《我的世界》开发商将于明年3月终止对PS VR设备的支持](https://www.3dmgame.com/news/202409/3904468.html)
+
++ [任天堂和宝可梦公司正式起诉《幻兽帕鲁》侵权](https://www.3dmgame.com/news/202409/3904466.html)
+

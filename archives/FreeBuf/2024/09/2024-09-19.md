@@ -45,3 +45,5 @@
 
 + [BlackByte利用“旧战术”+“新漏洞”助力新一轮攻击](https://www.freebuf.com/news/409992.html)
 
++ [电力企业 | 安全建设框架](https://www.freebuf.com/articles/es/410967.html)
+
