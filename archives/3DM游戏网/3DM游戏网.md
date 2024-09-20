@@ -101,3 +101,7 @@
 
 + [《星球大战：旧共和国武士》重制版确认仍在开发中](https://www.3dmgame.com/news/202409/3904569.html)
 
++ [探索驱动《二进制恋人》10月31日发售 支持试玩](https://www.3dmgame.com/news/202409/3904622.html)
+
++ [《微软模拟飞行2024》配置公布 最低GTX 970](https://www.3dmgame.com/news/202409/3904621.html)
+

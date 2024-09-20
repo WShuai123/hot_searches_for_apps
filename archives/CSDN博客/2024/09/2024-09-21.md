@@ -101,3 +101,9 @@
 
 + [web学习——VUE](https://blog.csdn.net/qq_73643693/article/details/142362807)
 
++ [【Elasticsearch系列十五】强大特性](https://blog.csdn.net/qyj19920704/article/details/142301017)
+
++ [【AI大模型】LLM主流开源大模型介绍](https://blog.csdn.net/2301_76820214/article/details/142342442)
+
++ [xxl-job适配sqlite本地数据库及mysql数据库。可根据配置指定使用哪种数据库。](https://blog.csdn.net/weixin_43860634/article/details/142351660)
+
