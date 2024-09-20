@@ -25,3 +25,5 @@
 
 + [微信 iOS 版 8.0.52 最新官方正式版下载发布](https://m.ithome.com/html/797075.htm)
 
++ [iPhone 16 Pro / Max 主摄升级 IMX903，长焦与 15 Pro Max 相同](https://m.ithome.com/html/797273.htm)
+
