@@ -175,3 +175,21 @@
 
 + [《寂静岭2：重制版》预告片重点介绍PS5手柄特性等](https://www.3dmgame.com/news/202409/3904541.html)
 
++ [关服游戏《风暴奇侠：前线》在《堡垒之夜》重获新生](https://www.3dmgame.com/news/202409/3904559.html)
+
++ [《龙腾世纪：影障守护者》角色定制被批太“正确” 出现变性手术伤疤](https://www.3dmgame.com/news/202409/3904560.html)
+
++ [复古街机游戏合集《UFO 50》现已正式推出 获特别好评](https://www.3dmgame.com/news/202409/3904561.html)
+
++ [《英雄传说：界之轨迹》新截图 温柔大姐姐们亮相](https://www.3dmgame.com/news/202409/3904562.html)
+
++ [网飞《细胞分裂》《鬼泣》《赛博朋克》动画集体发预告](https://www.3dmgame.com/news/202409/3904554.html)
+
++ [《浪漫沙加2：七英雄的复仇》新预告 画面更精致](https://www.3dmgame.com/news/202409/3904555.html)
+
++ [《战锤40K：战争黎明》系列推出周年纪念版 已拥有游戏的玩家可免费升级](https://www.3dmgame.com/news/202409/3904556.html)
+
++ [殖民模拟城市建造游戏《超宇宙站》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904558.html)
+
++ [Unity 6宣布10月17日在全球发布 历史“最佳”版本](https://www.3dmgame.com/news/202409/3904557.html)
+

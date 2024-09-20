@@ -135,3 +135,9 @@
 
 + [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142324122)
 
++ [【Python篇】从零到精通：全面揭秘Scikit-Learn在机器学习中的绝妙应用](https://blog.csdn.net/2301_79849925/article/details/142331498)
+
++ [Python编程 - 协程](https://blog.csdn.net/2401_86688088/article/details/142092856)
+
++ [论文阅读-《Attention is All You Need》](https://blog.csdn.net/qq_38146189/article/details/142352273)
+

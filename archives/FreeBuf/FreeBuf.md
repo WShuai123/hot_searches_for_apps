@@ -45,3 +45,5 @@
 
 + [内存马第三弹——Controller内存马](https://www.freebuf.com/articles/web/410507.html)
 
++ [codeql自动化漏洞检测入门](https://www.freebuf.com/articles/es/410244.html)
+
