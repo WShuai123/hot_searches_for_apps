@@ -37,3 +37,9 @@
 
 + [华为终将放弃 Windows 笔记本，余承东称会推出搭载鸿蒙系统的 PC 产品](https://m.ithome.com/html/797079.htm)
 
++ [苹果 iPhone 16 / Pro 系列手机今日首销，5999~9999 元起](https://m.ithome.com/html/796983.htm)
+
++ [苹果 iPhone 16 / Pro 系列线下发售概览：第五大道店上演灯光秀，多地未现排队长龙](https://m.ithome.com/html/796982.htm)
+
++ [微软上线全新 Windows App：统一远程体验，替代 Remote Desktop](https://m.ithome.com/html/796971.htm)
+

@@ -61,3 +61,9 @@
 
 + [Meta、YouTube等社交巨头被曝长期监视未成年用户，牟利数十亿美元](https://www.freebuf.com/news/411354.html)
 
++ [Microsoft Edge 远程命令执行漏洞学习(CVE-2018-8495)](https://www.freebuf.com/vuls/407986.html)
+
++ [ISO27001安全管理体系落地、认证实践](https://www.freebuf.com/articles/security-management/394956.html)
+
++ [Meta、YouTube等巨头被曝长期监视未成年用户，牟利数十亿美元](https://www.freebuf.com/news/411354.html)
+

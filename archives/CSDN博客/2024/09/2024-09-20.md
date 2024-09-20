@@ -159,3 +159,9 @@
 
 + [SpringBoot中基于JWT的单token授权和续期方案](https://blog.csdn.net/qq_26664043/article/details/142342836)
 
++ [互联网摸鱼日报(2024-09-20)](https://blog.csdn.net/weixin_43849685/article/details/142377864)
+
++ [基于yolov8的红外小目标无人机飞鸟检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142336946)
+
++ [xxl-job适配sqlite本地数据库及mysql数据库。可根据配置指定使用哪种数据库。](https://blog.csdn.net/weixin_43860634/article/details/142351660)
+
