@@ -155,3 +155,7 @@
 
 + [Linux中使用Docker容器构建Tomcat容器完整教程](https://blog.csdn.net/jxjdhdnd/article/details/142361245)
 
++ [QT开发：事件循环与处理机制的概念和流程概括性总结](https://blog.csdn.net/martian665/article/details/142261879)
+
++ [SpringBoot中基于JWT的单token授权和续期方案](https://blog.csdn.net/qq_26664043/article/details/142342836)
+

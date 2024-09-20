@@ -225,3 +225,33 @@
 
 + [iPhone16开卖：北京上海用户暴雨中在苹果店排队等买](https://www.3dmgame.com/news/202409/3904577.html)
 
++ [《怪物猎人：荒野》将在TGS上公布“绯红森林”实机演示](https://www.3dmgame.com/news/202409/3904589.html)
+
++ [分析师预测PS6至少600美元 索尼用PS5 Pro试水](https://www.3dmgame.com/news/202409/3904590.html)
+
++ [游戏改编动画《古墓丽影：劳拉克劳馥传奇》正式预告 10月10日播出](https://www.3dmgame.com/news/202409/3904591.html)
+
++ [《微软飞行模拟2024》储存空间需求仅不到前作的1/5](https://www.3dmgame.com/news/202409/3904592.html)
+
++ [报道称《刺客信条：影》将在全主机平台提供60fps模式](https://www.3dmgame.com/news/202409/3904593.html)
+
++ [游戏创业0门槛？Y3编辑器游戏人爆改计划开启！提交Demo领万元扶持金](https://www.3dmgame.com/news/202409/3904585.html)
+
++ [漫画风格休闲沙盒建造游戏《我们的土地》上线Steam平台](https://www.3dmgame.com/news/202409/3904586.html)
+
++ [挑战生肖霸主！肉鸽动作游戏《第十三生肖》现已开启免费试玩](https://www.3dmgame.com/news/202409/3904587.html)
+
++ [一箭六星 我国成功发射吉林一号宽幅02B01~06星](https://www.3dmgame.com/news/202409/3904588.html)
+
++ [温馨恋爱番《薫香花朵凛然绽放》改编动画预告放出 2025年开播](https://www.3dmgame.com/news/202409/3904581.html)
+
++ [第三人称动作冒险游戏《Chunk》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904582.html)
+
++ [《莱莎的炼金工房》三部曲发售五周年 免费优化更新发布](https://www.3dmgame.com/news/202409/3904583.html)
+
++ [《GTA5》不再支持Linux系统 V社大气为玩家退款](https://www.3dmgame.com/news/202409/3904584.html)
+
++ [黑神话首支纪录片独家首播： 路在脚下｜对话杨奇：《黑神话：悟空》的美术开发之路](https://www.3dmgame.com/news/202409/3904579.html)
+
++ [《匹诺曹的谎言》迎来发售一周年纪念！开发者信函公开](https://www.3dmgame.com/news/202409/3904580.html)
+

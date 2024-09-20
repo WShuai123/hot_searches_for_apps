@@ -109,3 +109,17 @@
 
 + [Recording studio](https://dribbble.com/shots/)
 
++ [Quro crypto wallet](https://dribbble.com/shots/)
+
++ [Geomark](https://dribbble.com/shots/)
+
++ [Crypto Balance](https://dribbble.com/shots/)
+
++ [Mirror - wordmark logo design logotype](https://dribbble.com/shots/)
+
++ [Money, Time, Energy💵⏰🔋](https://dribbble.com/shots/)
+
++ [Rabbit Logo](https://dribbble.com/shots/)
+
++ [XCHAIN – Blockchain Explorer Landing Page](https://dribbble.com/shots/)
+

@@ -35,3 +35,5 @@
 
 + [华为徐直军：将持续演进自动驾驶解决方案，逐步实现高速路上车可休息、长途安心睡](https://m.ithome.com/html/796963.htm)
 
++ [华为终将放弃 Windows 笔记本，余承东称会推出搭载鸿蒙系统的 PC 产品](https://m.ithome.com/html/797079.htm)
+
