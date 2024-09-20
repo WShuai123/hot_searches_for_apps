@@ -289,3 +289,9 @@
 
 + [黄牛拒收iPhone16 Pro：卖不出去 还要倒贴！](https://www.3dmgame.com/news/202409/3904607.html)
 
++ [《寂静岭2：重制版》主机版将是PS5限时独占一年](https://www.3dmgame.com/news/202409/3904615.html)
+
++ [《如龙8外传：夏威夷海盗》公布 真岛吾朗首担主角](https://www.3dmgame.com/news/202409/3904613.html)
+
++ [鸿蒙PC界面比微软漂亮！华为要跟Windows说再见](https://www.3dmgame.com/news/202409/3904612.html)
+
