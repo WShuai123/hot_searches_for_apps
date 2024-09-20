@@ -51,3 +51,5 @@
 
 + [消息称苹果 iPhone 16 Pro 手机“黄牛拒收”，Max 机型“最高加价 700 元”](https://m.ithome.com/html/797118.htm)
 
++ [刘作虎分享新机边框对比图，预计为 OPPO Find X8 与苹果 iPhone16 Pro](https://m.ithome.com/html/797035.htm)
+

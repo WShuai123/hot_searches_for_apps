@@ -185,3 +185,7 @@
 
 + [《计算机网络名词解释》](https://blog.csdn.net/m0_38073539/article/details/142363232)
 
++ [人工智能时代：程序员的核心竞争力重塑](https://blog.csdn.net/2302_78391795/article/details/142321077)
+
++ [web学习——VUE](https://blog.csdn.net/qq_73643693/article/details/142362807)
+
