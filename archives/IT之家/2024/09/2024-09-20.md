@@ -49,3 +49,5 @@
 
 + [华为 WATCH GT 5 智能手表国行售价公布：41/46mm 双尺寸、不锈钢机身，1488 元起](https://m.ithome.com/html/797000.htm)
 
++ [消息称苹果 iPhone 16 Pro 手机“黄牛拒收”，Max 机型“最高加价 700 元”](https://m.ithome.com/html/797118.htm)
+

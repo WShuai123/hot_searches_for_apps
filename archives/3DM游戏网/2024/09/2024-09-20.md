@@ -295,3 +295,9 @@
 
 + [鸿蒙PC界面比微软漂亮！华为要跟Windows说再见](https://www.3dmgame.com/news/202409/3904612.html)
 
++ [《如龙：极》Switch版真人宣传片 10月25日发售](https://www.3dmgame.com/news/202409/3904617.html)
+
++ [更好看了？英特尔15代桌面U零售包装曝光](https://www.3dmgame.com/news/202409/3904616.html)
+
++ [《上古卷轴OL》过去10年赚了20亿美元 每月超1500万美元](https://www.3dmgame.com/news/202409/3904614.html)
+
