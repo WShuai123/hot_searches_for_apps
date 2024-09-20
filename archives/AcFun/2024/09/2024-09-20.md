@@ -155,3 +155,7 @@
 
 + [【东方】可爱的中Boss舞蹈【第16回Nico童祭】](http://www.acfun.cn/v/ac46273004)
 
++ [活力美高啦啦队舞！](http://www.acfun.cn/v/ac46274279)
+
++ [老师我太想进部了2.0](http://www.acfun.cn/v/ac46275205)
+

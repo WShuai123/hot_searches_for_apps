@@ -53,3 +53,5 @@
 
 + [刘作虎分享新机边框对比图，预计为 OPPO Find X8 与苹果 iPhone16 Pro](https://m.ithome.com/html/797035.htm)
 
++ [微信 iOS 端获推 8.0.52 正式版升级，支持查看好友添加时间](https://m.ithome.com/html/797204.htm)
+

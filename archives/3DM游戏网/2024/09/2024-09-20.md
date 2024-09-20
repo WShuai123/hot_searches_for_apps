@@ -301,3 +301,7 @@
 
 + [《上古卷轴OL》过去10年赚了20亿美元 每月超1500万美元](https://www.3dmgame.com/news/202409/3904614.html)
 
++ [Win10注册表所有值设为0会怎样？exe都集体崩溃了](https://www.3dmgame.com/news/202409/3904619.html)
+
++ [《战锤40K：星际战士2》成欧洲首发销量第二好的游戏](https://www.3dmgame.com/news/202409/3904618.html)
+

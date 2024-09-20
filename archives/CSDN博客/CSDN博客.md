@@ -189,3 +189,9 @@
 
 + [web学习——VUE](https://blog.csdn.net/qq_73643693/article/details/142362807)
 
++ [Windows【环境 01】服务器系统重装后的服务恢复（ESRedisJafkaTomcat）环境变量和服务注册](https://blog.csdn.net/weixin_39168541/article/details/142380908)
+
++ [HarmonyOS第七章：应用状态共享（PersistentStorage、LocalStorage、AppStorage）](https://blog.csdn.net/to_the_Future/article/details/141825857)
+
++ [Spring Boot从0到1 -day02](https://blog.csdn.net/m0_67187271/article/details/142373955)
+
