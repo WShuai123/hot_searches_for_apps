@@ -29,3 +29,5 @@
 
 + [微信：安卓手机朋友圈发实况照片要“再等等”](https://m.ithome.com/html/796951.htm)
 
++ [消息称苹果首款自研 5G 芯片将有“短板”：不支持毫米波](https://m.ithome.com/html/796970.htm)
+

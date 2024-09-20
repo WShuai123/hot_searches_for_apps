@@ -41,3 +41,7 @@
 
 + [多角度揭秘威胁行为组织CryptoCore复杂的加密货币欺诈活动](https://www.freebuf.com/articles/network/409305.html)
 
++ [FreeBuf早报 | 黎巴嫩再发生爆炸事件；谷歌宣布启用NIST抗量子加密最新标准](https://www.freebuf.com/news/411262.html)
+
++ [内存马第三弹——Controller内存马](https://www.freebuf.com/articles/web/410507.html)
+

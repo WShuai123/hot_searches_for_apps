@@ -107,3 +107,71 @@
 
 + [索尼PS5三十周年PS5主机公开 11月21日发售](https://www.3dmgame.com/news/202409/3904538.html)
 
++ [《黑神话》Steam销量2000万份 收入超9.61亿美元](https://www.3dmgame.com/news/202409/3904549.html)
+
++ [动作抢劫大片《贼巢2》曝预告 “陷落哥”回归](https://www.3dmgame.com/news/202409/3904550.html)
+
++ [索尼公布PlayStation 30周年纪念款PS5 Pro、数字版PS5和PS Portal](https://www.3dmgame.com/news/202409/3904552.html)
+
++ [《雨世界》DLC“守望者”新预告 宣布2025年3月29日发售](https://www.3dmgame.com/news/202409/3904551.html)
+
++ [任天堂发言人：不会透露起诉《幻兽帕鲁》开发商细节](https://www.3dmgame.com/news/202409/3904553.html)
+
++ [传PS6有两款机种 其中一个能让人“买得起”](https://www.3dmgame.com/news/202409/3904547.html)
+
++ [腾讯《三角洲行动》代言人公布 吴彦祖喊你来创建角色](https://www.3dmgame.com/news/202409/3904548.html)
+
++ [世嘉《双点博物馆》3/4发售 索尼克预购奖励曝光](https://www.3dmgame.com/news/202409/3904542.html)
+
++ [据报道《星鸣特攻》总监将辞职 游戏回归仍悬而未决](https://www.3dmgame.com/news/202409/3904543.html)
+
++ [《龙腾世纪4》新预览视频 展示角色创建选择](https://www.3dmgame.com/news/202409/3904544.html)
+
++ [《战神5》Steam褒贬不一 强制捆绑PSN引大量不满](https://www.3dmgame.com/news/202409/3904545.html)
+
++ [《匹诺曹的谎言》DLC和续作确定 开发组力求做得更好](https://www.3dmgame.com/news/202409/3904546.html)
+
++ [日系车集体造假事件持续发酵 有二手车商家销售额暴跌50%](https://www.3dmgame.com/news/202406/3897603.html)
+
++ [B社不想为《上古卷轴6》更换新引擎 将重蹈《星空》覆辙？](https://www.3dmgame.com/news/202406/3897601.html)
+
++ [中国男性使用最多手机TOP10：8款iPhone2款华为](https://www.3dmgame.com/news/202406/3897604.html)
+
++ [5月国产车型销量榜：前十比亚迪强势霸榜七席](https://www.3dmgame.com/news/202406/3897605.html)
+
++ [《暗黑地牢2》主机版巴西获评级 任天堂直面会或露面](https://www.3dmgame.com/news/202406/3897606.html)
+
++ [严打数字人直播带货！腾讯视频号拟推出新规 违者处罚](https://www.3dmgame.com/news/202406/3897607.html)
+
++ [第一人称射击游戏《除邪》Steam页面 发售日待定](https://www.3dmgame.com/news/202406/3897608.html)
+
++ [德国游戏产业协会：去年60岁以上老龄玩家数量猛增](https://www.3dmgame.com/news/202406/3897609.html)
+
++ [《碧蓝幻想Versus》制作人承认新角色设计问题 更新调整](https://www.3dmgame.com/news/202406/3897610.html)
+
++ [第一款国产游戏显卡！摩尔线程S80降价只需1299元](https://www.3dmgame.com/news/202406/3897611.html)
+
++ [米哈游投资人造太阳项目启动 人造太阳新技术路线](https://www.3dmgame.com/news/202406/3897612.html)
+
++ [为何国人越来越不爱看好莱坞电影：文化自信暴增等！](https://www.3dmgame.com/news/202406/3897614.html)
+
++ [锐龙9000可能会在7月31日上市 锐龙9 9950X的上市价会比上代低](https://www.3dmgame.com/news/202406/3897616.html)
+
++ [黑曜石解释《宣誓》画风从暗黑转为鲜艳风格](https://www.3dmgame.com/news/202406/3897615.html)
+
++ [LG发布2024 OLED B4系列电视 120Hz刷新率](https://www.3dmgame.com/news/202406/3897617.html)
+
++ [玩家使用MOD 让《星空》在XSS上成功实现120帧](https://www.3dmgame.com/news/202406/3897618.html)
+
++ [Xbox Game Pass 6月下旬新增游戏公开](https://www.3dmgame.com/news/202406/3897619.html)
+
++ [《死侍与金刚狼》导演仍在开发自己的《星战》电影](https://www.3dmgame.com/news/202406/3897620.html)
+
++ [《艾尔登法环：黄金树幽影》M站均分95分 IGN满分](https://www.3dmgame.com/news/202406/3897621.html)
+
++ [PEGI评级18+ 《生化危机：重制版》或将发布](https://www.3dmgame.com/news/202406/3897622.html)
+
++ [网传《往日不再》重制版正在开发中](https://www.3dmgame.com/news/202409/3904540.html)
+
++ [《寂静岭2：重制版》预告片重点介绍PS5手柄特性等](https://www.3dmgame.com/news/202409/3904541.html)
+
