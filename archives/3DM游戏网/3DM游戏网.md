@@ -267,3 +267,17 @@
 
 + [游戏科学关于《黑神话：悟空》周边产品的声明 不定期曝光未授权周边](https://www.3dmgame.com/news/202409/3904594.html)
 
++ [二次元像素横版动作射击肉鸽类游戏《新月纪元》Steam页面开放 明年发售](https://www.3dmgame.com/news/202409/3904606.html)
+
++ [《无名九使：觉醒》与SBI合作 导致没人购买这款游戏](https://www.3dmgame.com/news/202409/3904605.html)
+
++ [车库禁停新能源车引热议！广东省博物馆回应：不是歧视](https://www.3dmgame.com/news/202409/3904604.html)
+
++ [据报道下一部《007》电影将会更换所有主要角色演员](https://www.3dmgame.com/news/202409/3904603.html)
+
++ [《战神：诸神黄昏》Steam同时在线玩家近2.3万 表现不及前作](https://www.3dmgame.com/news/202409/3904602.html)
+
++ [《街头霸王6》韩蛛俐手办赏 黑丝兔女郎杀伤力大增](https://www.3dmgame.com/news/202409/3904601.html)
+
++ [不愧是你箭头！《绝地潜兵2》新BUG玩家能踏空“飞行”](https://www.3dmgame.com/news/202409/3904600.html)
+

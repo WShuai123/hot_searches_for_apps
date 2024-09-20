@@ -165,3 +165,13 @@
 
 + [xxl-job适配sqlite本地数据库及mysql数据库。可根据配置指定使用哪种数据库。](https://blog.csdn.net/weixin_43860634/article/details/142351660)
 
++ [C++刷怪笼（5）内存管理](https://blog.csdn.net/cklshidad666/article/details/142341662)
+
++ [掌握Spring Boot数据库集成：用JPA和Hibernate构建高效数据交互与版本控制](https://blog.csdn.net/2202_76097976/article/details/142367795)
+
++ [【计算机网络】网络层协议解析](https://blog.csdn.net/2202_75623950/article/details/140909099)
+
++ [2024年三个月自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027424/article/details/142355796)
+
++ [SQL 语法学习详细指南](https://blog.csdn.net/weixin_58606202/article/details/142365616)
+
