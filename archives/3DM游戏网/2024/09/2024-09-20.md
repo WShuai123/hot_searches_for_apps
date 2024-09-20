@@ -193,3 +193,27 @@
 
 + [Unity 6宣布10月17日在全球发布 历史“最佳”版本](https://www.3dmgame.com/news/202409/3904557.html)
 
++ [《文明7》奥古斯都预告 2月11日发售](https://www.3dmgame.com/news/202409/3904571.html)
+
++ [索尼TGS 2024展出游戏公布 将提供PS5 Pro试玩](https://www.3dmgame.com/news/202409/3904572.html)
+
++ [小蓝熊或被淘汰？微软考虑彻底封闭Windows内核](https://www.3dmgame.com/news/202409/3904573.html)
+
++ [动作肉鸽砍杀游戏《第十三生肖 13Z》现已开放全球测试](https://www.3dmgame.com/news/202409/3904574.html)
+
++ [《星球大战：旧共和国武士》重制版确认仍在开发中](https://www.3dmgame.com/news/202409/3904569.html)
+
++ [《黑神话：悟空》章节动画《六样情》上线YouTube](https://www.3dmgame.com/news/202409/3904570.html)
+
++ [《地狱已满2》宣布10月22日推出抢先体验 售价30美元](https://www.3dmgame.com/news/202409/3904563.html)
+
++ [派对乱斗游戏《疯狂吸尘器》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904564.html)
+
++ [《战锤40K：星际战士2》开发商确认 即将推出更多角色定制选项](https://www.3dmgame.com/news/202409/3904565.html)
+
++ [《绝地潜兵2》总监坦承游戏平衡让玩家不满意是“领导问题”](https://www.3dmgame.com/news/202409/3904566.html)
+
++ [《仙剑世界》终极测试10月15日开启 付费删档不限号](https://www.3dmgame.com/news/202409/3904567.html)
+
++ [剧情向猫猫探险游戏《冒牌猫谜》现已正式推出并获得好评](https://www.3dmgame.com/news/202409/3904568.html)
+

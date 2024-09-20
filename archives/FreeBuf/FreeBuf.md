@@ -47,3 +47,5 @@
 
 + [codeql自动化漏洞检测入门](https://www.freebuf.com/articles/es/410244.html)
 
++ [全球多个知名社媒平台长期监视青少年儿童用户，每年赚取数十亿美元](https://www.freebuf.com/news/411354.html)
+

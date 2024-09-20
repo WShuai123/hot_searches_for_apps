@@ -141,3 +141,7 @@
 
 + [论文阅读-《Attention is All You Need》](https://blog.csdn.net/qq_38146189/article/details/142352273)
 
++ [【基于开源鸿蒙(OpenHarmony)的智慧农业综合应用系统】](https://blog.csdn.net/ZCY_c/article/details/142364698)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142324222)
+

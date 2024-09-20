@@ -31,3 +31,7 @@
 
 + [消息称苹果首款自研 5G 芯片将有“短板”：不支持毫米波](https://m.ithome.com/html/796970.htm)
 
++ [苹果 iPhone 16 / Pro 电池曝光，容量最高提升 9.4%](https://m.ithome.com/html/796976.htm)
+
++ [华为徐直军：将持续演进自动驾驶解决方案，逐步实现高速路上车可休息、长途安心睡](https://m.ithome.com/html/796963.htm)
+
