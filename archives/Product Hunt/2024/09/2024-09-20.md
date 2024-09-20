@@ -101,3 +101,23 @@
 
 + [Replicate](https://www.producthunt.com/posts/replicate-2)
 
++ [Notion Card Generator by Notion VIP](https://www.producthunt.com/posts/notion-card-generator-by-notion-vip)
+
++ [HighlightFactCheck](https://www.producthunt.com/posts/highlightfactcheck)
+
++ [Brzzy Weather](https://www.producthunt.com/posts/brzzy-weather)
+
++ [Linear Mobile](https://www.producthunt.com/posts/linear-mobile-2)
+
++ [Kaomoji Drawer](https://www.producthunt.com/posts/kaomoji-drawer)
+
++ [Yist](https://www.producthunt.com/posts/yist)
+
++ [Urban Green](https://www.producthunt.com/posts/urban-green)
+
++ [Doneit 2.8](https://www.producthunt.com/posts/doneit-2-8)
+
++ [tonari](https://www.producthunt.com/posts/tonari-2)
+
++ [Epsilla (YC S23)](https://www.producthunt.com/posts/epsilla-yc-s23)
+

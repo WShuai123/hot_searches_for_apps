@@ -53,3 +53,11 @@
 
 + [LockBit 声称窃取了美国在线报税服务eFile的数据](https://www.freebuf.com/news/411364.html)
 
++ [如何使用MyJWT测试你的JWT是否存在安全问题](https://www.freebuf.com/sectool/410497.html)
+
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [LockBit 勒索美国在线报税服务平台eFile](https://www.freebuf.com/news/411364.html)
+
++ [Meta、YouTube等社交巨头被曝长期监视未成年用户，牟利数十亿美元](https://www.freebuf.com/news/411354.html)
+
