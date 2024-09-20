@@ -121,3 +121,9 @@
 
 + [【愚公系列】《AIGC辅助软件开发》019-AI 辅助测试与调试：AI辅助测试与调试应用案例](https://blog.csdn.net/aa2528877987/article/details/142346339)
 
++ [【机器学习】--- 序列建模与变分自编码器（VAE）](https://blog.csdn.net/2301_80863610/article/details/142367885)
+
++ [先行指标与滞后指标的设计要点](https://blog.csdn.net/dylanren/article/details/142355210)
+
++ [滚雪球学SpringCloud[5.3讲]： 配置管理中的高可用与容错](https://blog.csdn.net/weixin_43970743/article/details/141143768)
+

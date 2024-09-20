@@ -105,3 +105,11 @@
 
 + [《微软模拟飞行2024》配置公布 最低GTX 970](https://www.3dmgame.com/news/202409/3904621.html)
 
++ [涉及《黑神话：悟空》DLC剧情？杨奇暗示鹤仙人不能打](https://www.3dmgame.com/news/202409/3904626.html)
+
++ [ACQUIRE合作开发《黑指JET》 预告短片分享](https://www.3dmgame.com/news/202409/3904625.html)
+
++ [据报道索尼《星鸣特攻》开发成本为4亿美元](https://www.3dmgame.com/news/202409/3904624.html)
+
++ [万代南梦宫《刀剑神域：碎梦边境》系统预告片分享](https://www.3dmgame.com/news/202409/3904623.html)
+
