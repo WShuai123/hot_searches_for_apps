@@ -51,3 +51,5 @@
 
 + [Jenkins Remoting远程代码执行漏洞(CVE-2024-43044)](https://www.freebuf.com/vuls/410347.html)
 
++ [LockBit 声称窃取了美国在线报税服务eFile的数据](https://www.freebuf.com/news/411364.html)
+
