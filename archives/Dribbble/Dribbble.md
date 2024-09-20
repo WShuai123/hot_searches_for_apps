@@ -135,3 +135,11 @@
 
 + [Tech Logo  - waveflow](https://dribbble.com/shots/)
 
++ [Neobanking App Interactions](https://dribbble.com/shots/)
+
++ [Football Manager Dashboard](https://dribbble.com/shots/)
+
++ [Thinkpath Logo Design - Brain, Maze, Synapses](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+

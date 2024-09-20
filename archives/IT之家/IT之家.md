@@ -43,3 +43,9 @@
 
 + [微软上线全新 Windows App：统一远程体验，替代 Remote Desktop](https://m.ithome.com/html/796971.htm)
 
++ [19999 元起，全球首款量产三折叠手机华为 Mate XT 非凡大师今日首销](https://m.ithome.com/html/796998.htm)
+
++ [中国联通在北京落地首个万兆宽带：下载速率实测 9441.42Mbps，20 秒搞定 20GB 文件](https://m.ithome.com/html/796973.htm)
+
++ [华为 WATCH GT 5 智能手表国行售价公布：41/46mm 双尺寸、不锈钢机身，1488 元起](https://m.ithome.com/html/797000.htm)
+

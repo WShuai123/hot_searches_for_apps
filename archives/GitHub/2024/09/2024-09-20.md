@@ -31,3 +31,25 @@
 
 + [pytorch / torchtitan](https://github.com/pytorch/torchtitan)
 
++ [facebook / folly](https://github.com/facebook/folly)
+
++ [apache / paimon](https://github.com/apache/paimon)
+
++ [Zipstack / unstract](https://github.com/Zipstack/unstract)
+
++ [cupy / cupy](https://github.com/cupy/cupy)
+
++ [apache / dubbo](https://github.com/apache/dubbo)
+
++ [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
++ [pybind / pybind11](https://github.com/pybind/pybind11)
+
++ [kenwheeler / slick](https://github.com/kenwheeler/slick)
+

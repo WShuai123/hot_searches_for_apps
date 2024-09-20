@@ -175,3 +175,7 @@
 
 + [SQL 语法学习详细指南](https://blog.csdn.net/weixin_58606202/article/details/142365616)
 
++ [【Python】探索Magenta：音乐与艺术的机器智能创作](https://blog.csdn.net/jacksoon/article/details/142321041)
+
++ [如何查看电脑什么时候被人动过及看过的文件？](https://blog.csdn.net/m0_74075744/article/details/142368814)
+
