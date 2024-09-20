@@ -201,3 +201,7 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+
++ [智慧中小学-国家中小学智慧教育平台](https://itunes.apple.com/cn/app/id1497477307?mt=8)
+

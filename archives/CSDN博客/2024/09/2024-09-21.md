@@ -107,3 +107,17 @@
 
 + [xxl-job适配sqlite本地数据库及mysql数据库。可根据配置指定使用哪种数据库。](https://blog.csdn.net/weixin_43860634/article/details/142351660)
 
++ [【机器学习】从数据到决策——完整的机器学习项目实战解析](https://blog.csdn.net/qq_61654952/article/details/142357967)
+
++ [功能测试干了三年，快要废了。。。](https://blog.csdn.net/huace3740/article/details/142334199)
+
++ [手动部署并测试内网穿透（ssh 和 nginx）](https://blog.csdn.net/m0_74099572/article/details/142338842)
+
++ [让模型评估模型：构建双代理RAG评估系统的步骤解析](https://blog.csdn.net/m0_46510245/article/details/142376367)
+
++ [大数据Flink（一百二十二）：阿里云Flink MySQL连接器介绍](https://blog.csdn.net/xiaoweite1/article/details/142404684)
+
++ [[Redis][Redis简介]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142313568)
+
++ [【愚公系列】《AIGC辅助软件开发》019-AI 辅助测试与调试：AI辅助测试与调试应用案例](https://blog.csdn.net/aa2528877987/article/details/142346339)
+
