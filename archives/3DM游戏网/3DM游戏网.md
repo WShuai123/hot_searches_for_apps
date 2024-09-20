@@ -217,3 +217,7 @@
 
 + [剧情向猫猫探险游戏《冒牌猫谜》现已正式推出并获得好评](https://www.3dmgame.com/news/202409/3904568.html)
 
++ [《哈利波特》全系列电影将在国内重映 10月11日开始](https://www.3dmgame.com/news/202409/3904575.html)
+
++ [“宝可梦vs帕鲁”赢家会是谁？律师分析师各执其词](https://www.3dmgame.com/news/202409/3904576.html)
+
