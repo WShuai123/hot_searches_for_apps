@@ -57,3 +57,9 @@
 
 + [余承东自曝在飞机上使用华为 Mate XT 三折叠手机“提前泄密”：上市前已经用了几个月](https://m.ithome.com/html/797409.htm)
 
++ [消息称某厂新旗舰工程机采用金属直角中框 + 电源键指纹，预计为华为 Mate 70 系列](https://m.ithome.com/html/797354.htm)
+
++ [19999 元起，华为 Mate XT 非凡大师三折叠手机今日 10:08 再次开售](https://m.ithome.com/html/797307.htm)
+
++ [DxOMark 将苹果 iPhone 16 Pro Max 评为最佳视频拍摄手机，总分 157 位列排行榜第 4 名](https://m.ithome.com/html/797285.htm)
+
