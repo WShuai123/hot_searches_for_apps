@@ -163,3 +163,13 @@
 
 + [【计网】从零开始使用TCP进行socket编程 ---服务端业务模拟Xshell](https://blog.csdn.net/JLX_1/article/details/142339841)
 
++ [Linux中Docker容器构建MariaDB数据库教程](https://blog.csdn.net/jxjdhdnd/article/details/142375934)
+
++ [ML 系列：机器学习和深度学习的深层次总结(05)非线性回归](https://blog.csdn.net/gongdiwudu/article/details/142412774)
+
++ [JVM 调优篇8 调优案例5- 逃逸分析](https://blog.csdn.net/u011066470/article/details/142371546)
+
++ [基于开源鸿蒙(OpenHarmony)的【智能家居综合应用】系统](https://blog.csdn.net/ZCY_c/article/details/142406567)
+
++ [2024研究生数学建模竞赛C题思路代码——数据驱动下磁性元件的磁芯损耗建模](https://blog.csdn.net/2301_79991568/article/details/142410301)
+

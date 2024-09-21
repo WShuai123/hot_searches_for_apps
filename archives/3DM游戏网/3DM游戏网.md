@@ -179,3 +179,11 @@
 
 + [《龙腾世纪：影障守护者》不想削弱玩家早期的选择](https://www.3dmgame.com/news/202409/3904656.html)
 
++ [微软终于拿到开发工具 《我的世界》即将登陆PS5](https://www.3dmgame.com/news/202409/3904663.html)
+
++ [策略游戏《冰汽时代2》正式发售 Steam“特别好评”](https://www.3dmgame.com/news/202409/3904662.html)
+
++ [任天堂起诉《幻兽帕鲁》焦点或集中在投掷精灵球专利](https://www.3dmgame.com/news/202409/3904661.html)
+
++ [《死亡细胞》开发商新作《风中行者》15分钟视频](https://www.3dmgame.com/news/202409/3904660.html)
+
