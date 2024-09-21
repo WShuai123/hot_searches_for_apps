@@ -41,3 +41,7 @@
 
 + [BlackByte利用“旧战术”+“新漏洞”助力新一轮攻击](https://www.freebuf.com/news/409992.html)
 
++ [FreeBuf 周报 | 美社交巨头被曝长期监视未成年用户；黎巴嫩发生大量通讯设备爆炸事件](https://www.freebuf.com/news/411432.html)
+
++ [内网拓扑可视化及管控技术](https://www.freebuf.com/articles/network/410091.html)
+

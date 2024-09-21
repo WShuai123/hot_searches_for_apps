@@ -127,3 +127,5 @@
 
 + [滚雪球学SpringCloud[5.3讲]： 配置管理中的高可用与容错](https://blog.csdn.net/weixin_43970743/article/details/141143768)
 
++ [【研发日记】嵌入式处理器技能解锁(六)——ARM的Cortex-M4内核](https://blog.csdn.net/CSSUST/article/details/142340942)
+

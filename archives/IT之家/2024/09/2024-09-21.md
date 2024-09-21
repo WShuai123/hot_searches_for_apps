@@ -27,3 +27,11 @@
 
 + [iPhone 16 Pro / Max 主摄升级 IMX903，长焦与 15 Pro Max 相同](https://m.ithome.com/html/797273.htm)
 
++ [宝马被曝重返价格战：纯电旗舰 i7 最高降 55.5 万元，高管曾称“不可持续”](https://m.ithome.com/html/797284.htm)
+
++ [今晚国内油价下调，加满一箱 92 号汽油将少花 14.5 元](https://m.ithome.com/html/797196.htm)
+
++ [首款鸿蒙 HarmonyOS NEXT 系统 MOBA 游戏《曙光英雄》完成开发，正式上架华为游戏中心](https://m.ithome.com/html/797054.htm)
+
++ [小米自带线充电宝 10000mAh 165W 首销：彩色智能数显，199 元](https://m.ithome.com/html/797253.htm)
+
