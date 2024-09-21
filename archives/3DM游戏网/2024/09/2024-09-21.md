@@ -155,3 +155,5 @@
 
 + [PS3模拟器RPCS3现支持多款经典游戏网络联机对战](https://www.3dmgame.com/news/202409/3904647.html)
 
++ [策略游戏《The House of Hamelin》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202409/3904648.html)
+

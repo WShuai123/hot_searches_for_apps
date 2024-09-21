@@ -111,3 +111,23 @@
 
 + [Coho AI](https://www.producthunt.com/posts/coho-ai)
 
++ [Founder Mode Checker](https://www.producthunt.com/posts/founder-mode-checker)
+
++ [Voz AI Voice Note Taker](https://www.producthunt.com/posts/voz-ai-voice-note-taker)
+
++ [PowerCharts](https://www.producthunt.com/posts/powercharts)
+
++ [Coursezy](https://www.producthunt.com/posts/coursezy)
+
++ [Lyrcs](https://www.producthunt.com/posts/lyrcs)
+
++ [Lazyva](https://www.producthunt.com/posts/lazyva)
+
++ [PolyPlan](https://www.producthunt.com/posts/polyplan-2)
+
++ [TPlanz](https://www.producthunt.com/posts/tplanz)
+
++ [UI Replicator](https://www.producthunt.com/posts/ui-replicator)
+
++ [My Yogi](https://www.producthunt.com/posts/my-yogi)
+

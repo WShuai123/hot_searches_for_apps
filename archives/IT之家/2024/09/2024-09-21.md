@@ -47,3 +47,5 @@
 
 + [库克发布微博：希望中国顾客像我们一样喜爱 iPhone 16 等苹果公司新产品](https://m.ithome.com/html/797304.htm)
 
++ [苹果 iPhone 16 Pro 摔落测试：边框更窄，比前代更易受边角撞击影响](https://m.ithome.com/html/797310.htm)
+

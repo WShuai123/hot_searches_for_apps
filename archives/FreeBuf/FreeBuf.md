@@ -53,3 +53,5 @@
 
 + [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
 
++ [Maryam：一款模块化多功能OSINT数据收集工具](https://www.freebuf.com/sectool/410498.html)
+
