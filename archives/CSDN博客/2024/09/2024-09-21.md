@@ -129,3 +129,13 @@
 
 + [【研发日记】嵌入式处理器技能解锁(六)——ARM的Cortex-M4内核](https://blog.csdn.net/CSSUST/article/details/142340942)
 
++ [【Python篇】从零到精通：全面分析Scikit-Learn在机器学习中的绝妙应用](https://blog.csdn.net/2301_79849925/article/details/142331498)
+
++ [PyTorch使用------自动微分模块](https://blog.csdn.net/2301_76820214/article/details/142388712)
+
++ [【华为杯】2024年研究生数学建模竞赛华为杯E题思路解析+代码+论文](https://blog.csdn.net/m0_60703264/article/details/142330486)
+
++ [HTML粉色烟花秀](https://blog.csdn.net/m0_68111267/article/details/142410059)
+
++ [Linux 信号的产生](https://blog.csdn.net/2301_79881188/article/details/142341609)
+

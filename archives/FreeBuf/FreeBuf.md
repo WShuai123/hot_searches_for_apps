@@ -45,3 +45,7 @@
 
 + [内网拓扑可视化及管控技术](https://www.freebuf.com/articles/network/410091.html)
 
++ [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
+
++ [探究窃密木马FormBook免杀手段——多变的加载器](https://www.freebuf.com/news/410908.html)
+
