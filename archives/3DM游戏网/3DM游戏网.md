@@ -191,3 +191,5 @@
 
 + [传SE东京电玩展将公布一些游戏登陆Xbox 未来会有更多](https://www.3dmgame.com/news/202409/3904664.html)
 
++ [60Hz屏将被淘汰！曝iPhone 17标准版升级120Hz高刷](https://www.3dmgame.com/news/202409/3904666.html)
+
