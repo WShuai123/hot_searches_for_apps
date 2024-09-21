@@ -171,3 +171,11 @@
 
 + [爆料显示《女神异闻录6》或将在东京电玩展期间公布](https://www.3dmgame.com/news/202409/3904651.html)
 
++ [OpenAI大手笔 被曝在旧金山租31.5万平方英尺办公地](https://www.3dmgame.com/news/202409/3904659.html)
+
++ [《暗喻幻想：ReFantazio》 赞助F1哈斯车队争锋新加坡大奖赛](https://www.3dmgame.com/news/202409/3904658.html)
+
++ [EA称没有《模拟人生5》开发计划 将继续扩展4代](https://www.3dmgame.com/news/202409/3904657.html)
+
++ [《龙腾世纪：影障守护者》不想削弱玩家早期的选择](https://www.3dmgame.com/news/202409/3904656.html)
+
