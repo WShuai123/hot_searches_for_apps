@@ -63,3 +63,5 @@
 
 + [DxOMark 将苹果 iPhone 16 Pro Max 评为最佳视频拍摄手机，总分 157 位列排行榜第 4 名](https://m.ithome.com/html/797285.htm)
 
++ [提前泄密小鹏 P7+ 信息被追责，博主致歉称“由于工作疏忽，混淆了发布时间”](https://m.ithome.com/html/797367.htm)
+
