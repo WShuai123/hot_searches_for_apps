@@ -127,3 +127,7 @@
 
 + [allWebPlugin中间件自定义alert、confirm及prompt使用](https://blog.csdn.net/yunkaipx/article/details/142419492)
 
++ [【RL】元强化学习（MRL）VS 基于迁移学习的强化学习（RL-TL）](https://blog.csdn.net/qq_51399582/article/details/142369927)
+
++ [【AI战略思考2】技术上不断聚焦和深入，精进一艺，一技胜万全](https://blog.csdn.net/weixin_43221845/article/details/142414862)
+

@@ -101,3 +101,11 @@
 
 + [外设厂商海盗船Corsair宣布与《使命召唤》展开长期合作](https://www.3dmgame.com/news/202409/3904642.html)
 
++ [英特尔新旗舰Ultra 9 285K包装盒造型公布](https://www.3dmgame.com/news/202409/3904676.html)
+
++ [《幻兽帕鲁》PS5版已从TGS参展阵容中移除](https://www.3dmgame.com/news/202409/3904675.html)
+
++ [野村表示《王国之心4》将是该系列的重启之作](https://www.3dmgame.com/news/202409/3904674.html)
+
++ [新《龙腾世纪》：EA尚未决定是否推出角色创建器试玩](https://www.3dmgame.com/news/202409/3904673.html)
+

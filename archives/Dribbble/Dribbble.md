@@ -59,3 +59,5 @@
 
 + [The Morald Whiskey Co. Branding and Packaging Design / Whiskey](https://dribbble.com/shots/)
 
++ [Visual Identity For zovex. Blockchain (Data Storage) Platform](https://dribbble.com/shots/)
+
