@@ -187,3 +187,7 @@
 
 + [《死亡细胞》开发商新作《风中行者》15分钟视频](https://www.3dmgame.com/news/202409/3904660.html)
 
++ [卡牌构筑类Rogue游戏《突破重围》Steam页面公布 明年发售](https://www.3dmgame.com/news/202409/3904665.html)
+
++ [传SE东京电玩展将公布一些游戏登陆Xbox 未来会有更多](https://www.3dmgame.com/news/202409/3904664.html)
+

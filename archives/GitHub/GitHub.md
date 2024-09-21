@@ -39,3 +39,17 @@
 
 + [krayin / laravel-crm](https://github.com/krayin/laravel-crm)
 
++ [sz3 / libcimbar](https://github.com/sz3/libcimbar)
+
++ [QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5)
+
++ [dotnet / eShop](https://github.com/dotnet/eShop)
+
++ [simple-icons / simple-icons](https://github.com/simple-icons/simple-icons)
+
++ [ruanyf / weekly](https://github.com/ruanyf/weekly)
+
++ [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
+
++ [scalar / scalar](https://github.com/scalar/scalar)
+

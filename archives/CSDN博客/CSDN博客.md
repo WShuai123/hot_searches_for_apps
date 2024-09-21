@@ -173,3 +173,7 @@
 
 + [2024研究生数学建模竞赛C题思路代码——数据驱动下磁性元件的磁芯损耗建模](https://blog.csdn.net/2301_79991568/article/details/142410301)
 
++ [网络安全（黑客技术) 最新三个月学习计划](https://blog.csdn.net/2401_85026291/article/details/142376588)
+
++ [【PostgreSQL教程】PostgreSQL详细介绍](https://blog.csdn.net/xiaomiphone9/article/details/142378300)
+
