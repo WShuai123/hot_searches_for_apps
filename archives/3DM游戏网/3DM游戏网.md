@@ -131,3 +131,25 @@
 
 + [《龙腾世纪：影障守护者》被媒体称作年度游戏争夺者](https://www.3dmgame.com/news/202409/3904627.html)
 
++ [《火影忍者：究极忍者风暴》将于9月24日登陆移动端](https://www.3dmgame.com/news/202409/3904645.html)
+
++ [俄宇航员创国际空间站单次停留时长纪录：突破370天](https://www.3dmgame.com/news/202409/3904646.html)
+
++ [EA：玩家对《战地》系列的兴趣度和需求仍然非常强烈](https://www.3dmgame.com/news/202409/3904644.html)
+
++ [《THE FINALS》第四赛季下周推出 加入新地图与赞助商](https://www.3dmgame.com/news/202409/3904643.html)
+
++ [外设厂商海盗船Corsair宣布与《使命召唤》展开长期合作](https://www.3dmgame.com/news/202409/3904642.html)
+
++ [角色扮演游戏《Etnia》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3904641.html)
+
++ [尼基塔分享《逃离塔科夫》今年剩余时间更新路线图](https://www.3dmgame.com/news/202409/3904640.html)
+
++ [《塞尔达传说：智慧的再现》开发工作室情报公布](https://www.3dmgame.com/news/202409/3904639.html)
+
++ [《如龙》真人剧集宣传片及海报 10月25日播出](https://www.3dmgame.com/news/202409/3904638.html)
+
++ [《龙腾世纪：影障守护者》当前并没有DLC制作计划](https://www.3dmgame.com/news/202409/3904637.html)
+
++ [据报道：XGP上的第三方游戏每年花费微软10亿美元](https://www.3dmgame.com/news/202409/3904636.html)
+

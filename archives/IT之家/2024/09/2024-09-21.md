@@ -39,3 +39,7 @@
 
 + [比亚迪腾势 Z9 GT 上市：全系标配易三方、高阶智驾，33.48 万元起](https://m.ithome.com/html/797262.htm)
 
++ [摆脱“万年 60Hz”，消息称苹果 iPhone 17 标准版 / Air 机型将使用 120Hz ProMotion 高刷](https://m.ithome.com/html/797301.htm)
+
++ [芯片半导体领域“地震”，高通被曝有意收购英特尔公司](https://m.ithome.com/html/797291.htm)
+
