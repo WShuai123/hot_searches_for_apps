@@ -27,3 +27,5 @@
 
 + [龙族：卡塞尔之门](https://www.taptap.cn/app/382099)
 
++ [蛋仔派对](https://www.taptap.cn/app/206776)
+

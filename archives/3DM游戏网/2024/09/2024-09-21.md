@@ -157,3 +157,17 @@
 
 + [策略游戏《The House of Hamelin》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202409/3904648.html)
 
++ [知识产权专家：任天堂vs帕鲁诉讼可能长达5年 但Pockepair耗得起](https://www.3dmgame.com/news/202409/3904655.html)
+
++ [日本制造口碑急坠！日本京王重机造假被抓 10年前就开始了](https://www.3dmgame.com/news/202409/3904653.html)
+
++ [类银河恶魔城游戏《花田》Steam页面 发售日待定](https://www.3dmgame.com/news/202409/3904654.html)
+
++ [街机风格赛车游戏《Project TURBOBLAST》Steam页面开放 2025年发售](https://www.3dmgame.com/news/202409/3904652.html)
+
++ [趣闻：《如龙夏威夷海盗》外传早就泄露 太离谱没人信](https://www.3dmgame.com/news/202409/3904650.html)
+
++ [库克喊话：希望中国顾客喜爱iPhone 16和苹果新品](https://www.3dmgame.com/news/202409/3904649.html)
+
++ [爆料显示《女神异闻录6》或将在东京电玩展期间公布](https://www.3dmgame.com/news/202409/3904651.html)
+

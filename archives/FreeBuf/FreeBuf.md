@@ -55,3 +55,5 @@
 
 + [Maryam：一款模块化多功能OSINT数据收集工具](https://www.freebuf.com/sectool/410498.html)
 
++ [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
+
