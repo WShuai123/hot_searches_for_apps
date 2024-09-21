@@ -193,3 +193,51 @@
 
 + [60Hz屏将被淘汰！曝iPhone 17标准版升级120Hz高刷](https://www.3dmgame.com/news/202409/3904666.html)
 
++ [高通要收购英特尔？英特尔中国回应：不予置评](https://www.3dmgame.com/news/202409/3904670.html)
+
++ [国产抗日题材FPS《抵抗者》公布 虚幻5引擎](https://www.3dmgame.com/news/202409/3904669.html)
+
++ [《漫威争锋》国服技术测试定档10月18日！](https://www.3dmgame.com/news/202409/3904668.html)
+
++ [索尼在开发比《星鸣特攻》还烧钱的游戏](https://www.3dmgame.com/news/202409/3904667.html)
+
++ [《活侠传》Steam多半差评 存档有问题](https://www.3dmgame.com/news/202406/3897375.html)
+
++ [《艾尔登法环：黄金树幽影》解锁时间发布 配置需求公开](https://www.3dmgame.com/news/202406/3897374.html)
+
++ [《园艺大师》7月12日正式发售 支持中文](https://www.3dmgame.com/news/202406/3897384.html)
+
++ [传《刺客信条》之父正为Xbox开发虚幻5 3A游戏](https://www.3dmgame.com/news/202406/3897382.html)
+
++ [《荒野枪巫》开发商Galvanic Games倒闭 销量后劲不足](https://www.3dmgame.com/news/202406/3897380.html)
+
++ [新的《铲子骑士》主线游戏正在开发中](https://www.3dmgame.com/news/202406/3897378.html)
+
++ [3A科幻动作冒险游戏《EXODUS》世界观视频“绿色世界”发布](https://www.3dmgame.com/news/202406/3897368.html)
+
++ [官方澄清：《战争机器：事变日》首支预告并非即时渲染](https://www.3dmgame.com/news/202406/3897367.html)
+
++ [AMD苏妈回忆IBM工作经历 曾参与PS3 Cell处理器开发](https://www.3dmgame.com/news/202406/3897366.html)
+
++ [一年收400亿：苹果因“苹果税”向中国用户发难 数字商品被下架](https://www.3dmgame.com/news/202406/3897365.html)
+
++ [《铲子骑士：希望之铲DX》面向PC平台公布](https://www.3dmgame.com/news/202406/3897376.html)
+
++ [《麦登橄榄球25》PC版将基于本世代平台制作](https://www.3dmgame.com/news/202406/3897377.html)
+
++ [传《黑神话：悟空》被ZZZQ公司SBI勒索700万美元](https://www.3dmgame.com/news/202406/3897369.html)
+
++ [《宇宙机器人》创意总监表示联动《血源》没有深意](https://www.3dmgame.com/news/202406/3897379.html)
+
++ [EA招募退伍军人重塑下一代《战地》游戏](https://www.3dmgame.com/news/202406/3897370.html)
+
++ [《艾尔登法环：黄金树幽影》将有首日补丁 带来新发型、最近物品选项卡等功能](https://www.3dmgame.com/news/202406/3897381.html)
+
++ [女子特战队动作电影《绝密任务》官宣撤档 新档期待定](https://www.3dmgame.com/news/202406/3897371.html)
+
++ [《刺客信条》核心应用ANIMUS HUB或与新作《影》同时推出](https://www.3dmgame.com/news/202406/3897383.html)
+
++ [国产GPU达到国际水准！摩尔线程已媲美RTX 4090、A100](https://www.3dmgame.com/news/202406/3897372.html)
+
++ [传闻：《战争机器：事变日》或在2025年发售](https://www.3dmgame.com/news/202406/3897373.html)
+
