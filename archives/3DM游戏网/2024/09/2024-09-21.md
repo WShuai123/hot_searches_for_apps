@@ -153,3 +153,5 @@
 
 + [据报道：XGP上的第三方游戏每年花费微软10亿美元](https://www.3dmgame.com/news/202409/3904636.html)
 
++ [PS3模拟器RPCS3现支持多款经典游戏网络联机对战](https://www.3dmgame.com/news/202409/3904647.html)
+

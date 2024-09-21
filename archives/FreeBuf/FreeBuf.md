@@ -49,3 +49,5 @@
 
 + [探究窃密木马FormBook免杀手段——多变的加载器](https://www.freebuf.com/news/410908.html)
 
++ [从蓝队角度分析XXL JOB默认ACCESS——TOKEN导致RCE漏洞](https://www.freebuf.com/vuls/410423.html)
+

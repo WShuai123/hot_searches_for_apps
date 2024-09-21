@@ -43,3 +43,5 @@
 
 + [芯片半导体领域“地震”，高通被曝有意收购英特尔公司](https://m.ithome.com/html/797291.htm)
 
++ [极氪 7X 大五座 SUV 上市：内置“一键破窗”安全功能，22.99 万元起](https://m.ithome.com/html/797259.htm)
+
