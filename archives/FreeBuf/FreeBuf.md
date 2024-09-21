@@ -51,3 +51,5 @@
 
 + [从蓝队角度分析XXL JOB默认ACCESS——TOKEN导致RCE漏洞](https://www.freebuf.com/vuls/410423.html)
 
++ [信息安全管理 | 企业云安全管理](https://www.freebuf.com/articles/security-management/400193.html)
+

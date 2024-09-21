@@ -45,3 +45,5 @@
 
 + [极氪 7X 大五座 SUV 上市：内置“一键破窗”安全功能，22.99 万元起](https://m.ithome.com/html/797259.htm)
 
++ [库克发布微博：希望中国顾客像我们一样喜爱 iPhone 16 等苹果公司新产品](https://m.ithome.com/html/797304.htm)
+

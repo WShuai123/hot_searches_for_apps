@@ -147,3 +147,11 @@
 
 + [消息队列-Kafka（概念篇）](https://blog.csdn.net/weixin_61933613/article/details/142370973)
 
++ [PyTorch经典模型](https://blog.csdn.net/jixiaoyu0209/article/details/142368042)
+
++ [2024华为杯C题详细完整思路和视频讲解](https://blog.csdn.net/weixin_46211269/article/details/142410989)
+
++ [Linux——k8s认识](https://blog.csdn.net/Xinan_____/article/details/142391932)
+
++ [LabVIEW编程能力如何能突飞猛进](https://blog.csdn.net/bjcyck/article/details/142410756)
+
