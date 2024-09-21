@@ -99,3 +99,27 @@
 
 + [Linux进程间通信——探索共享内存—— 剖析原理， 学习接口应用](https://blog.csdn.net/strive_mianyang/article/details/142332957)
 
++ [基于大数据爬虫+Python+SpringBoot+Hive的网络电视剧收视率分析与可视化平台系统(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/weixin_39709134/article/details/142424062)
+
++ [【机器学习】：深潜智能的底层逻辑、前沿探索与未来展望】](https://blog.csdn.net/2301_79181030/article/details/142369717)
+
++ [【Linux课程学习】make/Makefile：Linux项目自动化构建工具](https://blog.csdn.net/djdjiejsn/article/details/142351368)
+
++ [【AI战略思考1】如何更高效地了解AI行业的最新动态和商业应用以及我的时间分配](https://blog.csdn.net/weixin_43221845/article/details/142376000)
+
++ [【计算机网络篇】数据链路层 功能|组帧|流量控制与可靠传输机制](https://blog.csdn.net/m0_74202856/article/details/142382342)
+
++ [2024华为杯E题：高速公路应急车道紧急启用模型](https://blog.csdn.net/weixin_46211269/article/details/142417402)
+
++ [一文读懂DaemonSet以及实践攻略](https://blog.csdn.net/u013522701/article/details/142370278)
+
++ [基于51单片机的方向盘模拟系统](https://blog.csdn.net/zs849644371/article/details/142385644)
+
++ [2024年华为杯研赛（E题）｜高速公路应急车道启用建模｜数学建模竞赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/142418057)
+
++ [Mysql 架构](https://blog.csdn.net/weixin_46203834/article/details/142377401)
+
++ [使用vite+react+ts+Ant Design开发后台管理项目（一）](https://blog.csdn.net/lbking666666/article/details/142330762)
+
++ [【Webpack--013】SourceMap源码映射设置](https://blog.csdn.net/m0_61486963/article/details/142406443)
+
