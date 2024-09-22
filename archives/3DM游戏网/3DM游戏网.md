@@ -147,3 +147,9 @@
 
 + [《EA Sports大学橄榄球25》或将仅登陆主机 没有PC版](https://www.3dmgame.com/news/202405/3894998.html)
 
++ [横尾太郎放豪言：《暗喻幻想》将挑战《尼尔》](https://www.3dmgame.com/news/202409/3904720.html)
+
++ [合作类银河恶魔城《Anima Flux》10月7日发售](https://www.3dmgame.com/news/202409/3904718.html)
+
++ [网飞动画《乱马1/2》全新OP主题曲首度曝光](https://www.3dmgame.com/news/202409/3904719.html)
+

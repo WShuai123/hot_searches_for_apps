@@ -25,3 +25,5 @@
 
 + [第六套人民币即将上市？假的](https://m.ithome.com/html/797541.htm)
 
++ [蔚来李斌称换电商业上可持续：全网教我做 CEO，但我是挣过钱的人会算账、又不是傻子](https://m.ithome.com/html/797565.htm)
+

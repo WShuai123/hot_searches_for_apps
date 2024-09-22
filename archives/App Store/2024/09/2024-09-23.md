@@ -211,3 +211,7 @@
 
 + [WiFi万能钥匙-wi-fi密码管家安全热点一键极速连](https://itunes.apple.com/cn/app/id1544427616?mt=8)
 
++ [多多好剧](https://itunes.apple.com/cn/app/id6639610434?mt=8)
+
++ [韩小圈-热门韩剧娱乐社区](https://itunes.apple.com/cn/app/id1588233154?mt=8)
+

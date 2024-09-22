@@ -131,3 +131,9 @@
 
 + [17【Protues单片机仿真】基于51单片机的太阳能智能谷物翻晒机器人](https://blog.csdn.net/weixin_70360261/article/details/142410957)
 
++ [Python的NLTK模块详细介绍与实战案例](https://blog.csdn.net/yuan2019035055/article/details/142439069)
+
++ [Spring Bean生命周期](https://blog.csdn.net/m0_69615893/article/details/142426918)
+
++ [Delphi 12.2 新增的 WebStencils 尝鲜](https://blog.csdn.net/pcplayer/article/details/142447016)
+
