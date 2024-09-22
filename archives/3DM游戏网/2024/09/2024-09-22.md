@@ -123,3 +123,59 @@
 
 + [押注《星鸣特攻》 近九成玩家不信任PS新CEO Hermen Hulst](https://www.3dmgame.com/news/202409/3904677.html)
 
++ [玩家自制MOD《星球大战：前线——周年纪念版》发布](https://www.3dmgame.com/news/202409/3904688.html)
+
++ [《魔女庭院》Steam试玩发布 肉鸽动作探索](https://www.3dmgame.com/news/202409/3904691.html)
+
++ [《冰汽时代2》人气超越前作 但口碑方面远远不及](https://www.3dmgame.com/news/202409/3904690.html)
+
++ [过万应用已上架华为纯血鸿蒙 满足99.9%使用时长](https://www.3dmgame.com/news/202409/3904689.html)
+
++ [《Golden Warden》Steam试玩上线 创意肉鸽地牢](https://www.3dmgame.com/news/202409/3904687.html)
+
++ [《七日杀》1.0正式版将于6月25日推出](https://www.3dmgame.com/news/202406/3897718.html)
+
++ [三星推迟美国德州晶圆厂的设备订单 工艺或从4nm升级至2nm](https://www.3dmgame.com/news/202406/3897717.html)
+
++ [NS版《大金刚国度 归来HD》由死亡之屋开发商移植](https://www.3dmgame.com/news/202406/3897727.html)
+
++ [《艾尔登法环：黄金树幽影》是M站评分最高的DLC 超越《巫师3：血与酒》](https://www.3dmgame.com/news/202406/3897725.html)
+
++ [离职四年后 顽皮狗老将重新加入顽皮狗工作室](https://www.3dmgame.com/news/202406/3897723.html)
+
++ [腾讯《合金弹头：觉醒》现已登陆Steam 7月18日发售](https://www.3dmgame.com/news/202406/3897721.html)
+
++ [由真岛浩×Marvelous 《魔农传记 FARMAGIA》将于11月1日发售！实体版预购开启](https://www.3dmgame.com/news/202406/3897710.html)
+
++ [KK官方对战平台重磅新图《重返战法牧》6月20日即将上线，原汁原味铁三角开荒！](https://www.3dmgame.com/news/202406/3897711.html)
+
++ [《ENDLESS™ DUNGEON》迎来社区共创的全新英雄及大型游戏更新](https://www.3dmgame.com/news/202406/3897709.html)
+
++ [“SEGA年中大促”将于7月3日（周三）截止！《如龙８》等加入促销！](https://www.3dmgame.com/news/202406/3897708.html)
+
++ [《猎人：荒野的呼唤》DLC上线 追踪13种野生动物](https://www.3dmgame.com/news/202406/3897719.html)
+
++ [“航海王”第10部剧场版《航海王：强者天下》定档](https://www.3dmgame.com/news/202406/3897720.html)
+
++ [《艾诺提亚：失落之歌》最新资讯公开：意大利类魂动作游戏的制作团队](https://www.3dmgame.com/news/202406/3897712.html)
+
++ [赛博朋克风《Eden Genesis》8月6日推出 登陆全平台](https://www.3dmgame.com/news/202406/3897722.html)
+
++ [人气漫改《忍者杀手》动作游戏7月24日登陆Switch](https://www.3dmgame.com/news/202406/3897713.html)
+
++ [《生灵之境：亚娃》8月7日发售 支持免费试玩](https://www.3dmgame.com/news/202406/3897724.html)
+
++ [顶配iPhone16售价有望破2万元 博主直言大家该买还是买](https://www.3dmgame.com/news/202406/3897714.html)
+
++ [《勇者斗恶龙3HD》新亮点揭晓 开发商已经更换](https://www.3dmgame.com/news/202406/3897726.html)
+
++ [男生收到4070TiS礼物后大哭 女生：显卡威力这么大？](https://www.3dmgame.com/news/202406/3897715.html)
+
++ [Nintendo Switch™版《空战奇兵7 未知天际 豪华版》已于今日展开数字预购！](https://www.3dmgame.com/news/202406/3897716.html)
+
++ [高通供货！苹果iPhone 16 Pro Max手机基带揭晓](https://www.3dmgame.com/news/202409/3904685.html)
+
++ [《最终幻想16》PC优化太差 原生4K 4090只有46帧](https://www.3dmgame.com/news/202409/3904686.html)
+
++ [卡普空正在更新GFWL游戏使其重新回归Steam平台](https://www.3dmgame.com/news/202409/3904684.html)
+

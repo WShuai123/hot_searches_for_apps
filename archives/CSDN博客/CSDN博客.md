@@ -145,3 +145,13 @@
 
 + [【实战篇】MySQL是怎么保证主备一致的？](https://blog.csdn.net/shenyongsi/article/details/142366145)
 
++ [【Elasticsearch系列十八】Ik 分词器](https://blog.csdn.net/qyj19920704/article/details/142320414)
+
++ [构建高可用和高防御力的云服务架构第一部分：深入解析DDoS高防（1/5）](https://blog.csdn.net/beautifulmemory/article/details/142421365)
+
++ [【24华为杯数模研赛赛题思路已出】国赛C题思路丨附参考代码丨免费分享](https://blog.csdn.net/RS_handy/article/details/142413834)
+
++ [2024年华为杯研究生数学建模竞赛D题(时空演化模型+脆性指数 完整文章|可视化)](https://blog.csdn.net/Yilu264/article/details/142416333)
+
++ [【FPGA】编程方式](https://blog.csdn.net/zhh1749621866/article/details/142418812)
+
