@@ -45,3 +45,7 @@
 
 + [如何通过组合手段大批量探测CVE-2024-38077](https://www.freebuf.com/vuls/410605.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
++ [某医疗单位渗透服务日常分享](https://www.freebuf.com/vuls/410636.html)
+

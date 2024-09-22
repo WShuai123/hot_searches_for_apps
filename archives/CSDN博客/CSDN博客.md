@@ -139,3 +139,9 @@
 
 + [《中国数据库前世今生》纪录片观感：从古至今数据库的演变与未来](https://blog.csdn.net/m0_75058342/article/details/142361065)
 
++ [【AI视频】Runway：Gen-2 运镜详解](https://blog.csdn.net/2201_75539691/article/details/142382133)
+
++ [如何避开学习和研究机器人方向无价值的知识节约时间](https://blog.csdn.net/ZhangRelay/article/details/142412079)
+
++ [【实战篇】MySQL是怎么保证主备一致的？](https://blog.csdn.net/shenyongsi/article/details/142366145)
+

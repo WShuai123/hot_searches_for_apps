@@ -35,3 +35,5 @@
 
 + [限量 2010 辆，比亚迪腾势 Z9 GT 首发版车型已全部售罄](https://m.ithome.com/html/797440.htm)
 
++ [iQOO 官宣 Z9 Turbo+ 手机搭载 1.5K 144Hz 护眼屏，TCL 华星最新发光材料](https://m.ithome.com/html/797326.htm)
+
