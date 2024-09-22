@@ -53,3 +53,5 @@
 
 + [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
 
++ [ciscoconfparse2：一款针对思科IOS风格配置的安全审计工具](https://www.freebuf.com/sectool/410499.html)
+

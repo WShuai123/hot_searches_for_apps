@@ -101,3 +101,19 @@
 
 + [FloatBrowser](https://www.producthunt.com/posts/floatbrowser)
 
++ [Pinnit](https://www.producthunt.com/posts/pinnit)
+
++ [Formulaer](https://www.producthunt.com/posts/formulaer)
+
++ [Crumb - Fridge and Pantry Recipes](https://www.producthunt.com/posts/crumb-fridge-and-pantry-recipes)
+
++ [World Explorer by Insured Nomads](https://www.producthunt.com/posts/world-explorer-by-insured-nomads-2)
+
++ [Audo](https://www.producthunt.com/posts/audo)
+
++ [RTranslator](https://www.producthunt.com/posts/rtranslator-2)
+
++ [RealMail](https://www.producthunt.com/posts/realmail)
+
++ [Brainwrite.io](https://www.producthunt.com/posts/brainwrite-io)
+
