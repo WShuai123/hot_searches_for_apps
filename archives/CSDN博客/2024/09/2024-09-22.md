@@ -183,3 +183,11 @@
 
 + [2024华为杯研究生数学建模C题【数据驱动下磁性元件的磁芯损耗建模】思路详解](https://blog.csdn.net/smppbzyc/article/details/142414136)
 
++ [ChatGPT 在国内使用的方法](https://blog.csdn.net/nsyglsp/article/details/142413583)
+
++ [【大模型】AutoDL部署AI绘图大模型Stable Diffusion使用详解](https://blog.csdn.net/zhangcongyi420/article/details/142412106)
+
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_84466223/article/details/142431676)
+
++ [使用GPU 加速 Polars：高效解决大规模数据问题](https://blog.csdn.net/m0_46510245/article/details/142433372)
+

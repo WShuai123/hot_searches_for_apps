@@ -121,3 +121,13 @@
 
 + [Arkema annual report](https://dribbble.com/shots/)
 
++ [Luxury watch brand website mobile experience design](https://dribbble.com/shots/)
+
++ [OKAI - AI Mobile App](https://dribbble.com/shots/)
+
++ [Woodbird Case Study](https://dribbble.com/shots/)
+
++ [Cat and heart](https://dribbble.com/shots/)
+
++ [Waveflow - logo](https://dribbble.com/shots/)
+
