@@ -61,3 +61,7 @@
 
 + [Please don t say you are lazy…](http://www.acfun.cn/v/ac46281324)
 
++ [音乐人的事怎么能叫抄呢（第89期）](http://www.acfun.cn/v/ac46283371)
+
++ [金价暴涨再创新高，黎巴嫩威胁使用核武器【岩论453期】](http://www.acfun.cn/v/ac46283373)
+

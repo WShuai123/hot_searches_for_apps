@@ -101,3 +101,5 @@
 
 + [卡普空正在更新GFWL游戏使其重新回归Steam平台](https://www.3dmgame.com/news/202409/3904684.html)
 
++ [《大侠立志传》现已登陆手机端 首发18元](https://www.3dmgame.com/news/202409/3904715.html)
+

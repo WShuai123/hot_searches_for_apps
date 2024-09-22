@@ -49,3 +49,9 @@
 
 + [Casino Online](https://dribbble.com/shots/)
 
++ [Laptop Girl](https://dribbble.com/shots/)
+
++ [Letter S logo design, modern logos, symbol, app icon](https://dribbble.com/shots/)
+
++ [Investment App](https://dribbble.com/shots/)
+

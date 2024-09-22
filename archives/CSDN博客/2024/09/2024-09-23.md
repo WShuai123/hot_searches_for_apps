@@ -101,3 +101,9 @@
 
 + [allWebPlugin中间件自定义alert、confirm及prompt使用](https://blog.csdn.net/yunkaipx/article/details/142419492)
 
++ [数据挖掘实战-基于SARIMA时间序列模型预测阿里巴巴股票数据趋势](https://blog.csdn.net/m0_64336780/article/details/138807057)
+
++ [【图文详解】什么是微服务？什么是SpringCloud？](https://blog.csdn.net/m0_69519887/article/details/141952963)
+
++ [2024华为杯研究生数学建模C题【数据驱动下磁性元件的磁芯损耗建模】思路详解](https://blog.csdn.net/smppbzyc/article/details/142414136)
+
