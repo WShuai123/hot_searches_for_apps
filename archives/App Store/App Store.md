@@ -211,3 +211,7 @@
 
 + [汽车之家-5亿人都在用的汽车App](https://itunes.apple.com/cn/app/id385919493?mt=8)
 
++ [华为手机克隆](https://itunes.apple.com/cn/app/id920728033?mt=8)
+
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+

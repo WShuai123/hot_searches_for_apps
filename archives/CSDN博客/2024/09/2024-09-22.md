@@ -179,3 +179,7 @@
 
 + [Linux中Docker容器构建MariaDB数据库教程](https://blog.csdn.net/jxjdhdnd/article/details/142375934)
 
++ [2024年自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027336/article/details/142413755)
+
++ [2024华为杯研究生数学建模C题【数据驱动下磁性元件的磁芯损耗建模】思路详解](https://blog.csdn.net/smppbzyc/article/details/142414136)
+

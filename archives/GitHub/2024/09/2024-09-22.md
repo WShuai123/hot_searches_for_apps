@@ -25,3 +25,21 @@
 
 + [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
 
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [localstack / localstack](https://github.com/localstack/localstack)
+
++ [Kanaries / pygwalker](https://github.com/Kanaries/pygwalker)
+
++ [cupy / cupy](https://github.com/cupy/cupy)
+
++ [stanford-oval / storm](https://github.com/stanford-oval/storm)
+
++ [thomhurst / TUnit](https://github.com/thomhurst/TUnit)
+
++ [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning)
+
++ [basecamp / kamal](https://github.com/basecamp/kamal)
+
