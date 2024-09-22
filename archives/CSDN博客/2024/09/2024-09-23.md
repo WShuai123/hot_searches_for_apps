@@ -107,3 +107,23 @@
 
 + [2024华为杯研究生数学建模C题【数据驱动下磁性元件的磁芯损耗建模】思路详解](https://blog.csdn.net/smppbzyc/article/details/142414136)
 
++ [【油猴脚本】00013 案例 Tampermonkey油猴脚本， 仅用于学习，不要乱搞。添加UI交互实现自定义，更多页抓取数据(1)，JavaScript爬虫HTML+Css+JavaScript编写](https://blog.csdn.net/qq_33650655/article/details/142445317)
+
++ [Spring高手之路24——事务类型及传播行为实战指南](https://blog.csdn.net/qq_34115899/article/details/139901495)
+
++ [ML 系列：机器学习和深度学习的深层次总结(05)非线性回归](https://blog.csdn.net/gongdiwudu/article/details/142412774)
+
++ [网络编程问题解答](https://blog.csdn.net/weixin_63556308/article/details/142396062)
+
++ [828华为云征文｜华为云Flexus云服务器X实例之openEuler系统下部署k8s管理面板KubePi](https://blog.csdn.net/jks212454/article/details/142313990)
+
++ [手写Spring](https://blog.csdn.net/qq_65186476/article/details/142097193)
+
++ [Linux自主学习篇](https://blog.csdn.net/2301_79941274/article/details/142413387)
+
++ [2024华为杯研究生数学建模竞赛E题：高速公路应急车道临时启用问题思路代码分析](https://blog.csdn.net/nancheng_single/article/details/142422252)
+
++ [外包干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/2301_78843735/article/details/142422092)
+
++ [从零开始：在VSCode中打造完美的C++开发环境](https://blog.csdn.net/qq_51447436/article/details/142426132)
+
