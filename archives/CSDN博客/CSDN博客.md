@@ -127,3 +127,7 @@
 
 + [从零开始：在VSCode中打造完美的C++开发环境](https://blog.csdn.net/qq_51447436/article/details/142426132)
 
++ [828华为云征文 | 使用Flexus X实例搭建Dubbo-Admin服务](https://blog.csdn.net/qq_53317005/article/details/142431660)
+
++ [17【Protues单片机仿真】基于51单片机的太阳能智能谷物翻晒机器人](https://blog.csdn.net/weixin_70360261/article/details/142410957)
+

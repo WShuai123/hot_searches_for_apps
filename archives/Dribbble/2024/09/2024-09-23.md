@@ -55,3 +55,11 @@
 
 + [Investment App](https://dribbble.com/shots/)
 
++ [Lakes Fika Emblem Design](https://dribbble.com/shots/)
+
++ [Reading App, animation](https://dribbble.com/shots/)
+
++ [Casino Slot Game Icons](https://dribbble.com/shots/)
+
++ [Minimum – Ecommerce Website Redesign](https://dribbble.com/shots/)
+
