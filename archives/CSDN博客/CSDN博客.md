@@ -191,3 +191,5 @@
 
 + [使用GPU 加速 Polars：高效解决大规模数据问题](https://blog.csdn.net/m0_46510245/article/details/142433372)
 
++ [【MySQL 学习】深入探索JDBC（Java与数据库连接的桥梁）](https://blog.csdn.net/island1314/article/details/142422945)
+

@@ -61,3 +61,5 @@
 
 + [台风导致去程列车停运，返程票被收退票费引争议](https://m.ithome.com/html/797499.htm)
 
++ [吉利李书福：价格战越打越便宜，质量越打越差](https://m.ithome.com/html/797557.htm)
+
