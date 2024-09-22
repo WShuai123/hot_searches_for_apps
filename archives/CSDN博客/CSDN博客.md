@@ -131,3 +131,11 @@
 
 + [【AI战略思考2】技术上不断聚焦和深入，精进一艺，一技胜万全](https://blog.csdn.net/weixin_43221845/article/details/142414862)
 
++ [2024华为杯C题详细完整思路和视频讲解](https://blog.csdn.net/weixin_46211269/article/details/142410989)
+
++ [ML 系列：机器学习和深度学习的深层次总结(05)非线性回归](https://blog.csdn.net/gongdiwudu/article/details/142412774)
+
++ [滚雪球学SpringCloud[6.3讲]： 分布式日志管理与分析](https://blog.csdn.net/weixin_43970743/article/details/141143810)
+
++ [《中国数据库前世今生》纪录片观感：从古至今数据库的演变与未来](https://blog.csdn.net/m0_75058342/article/details/142361065)
+
