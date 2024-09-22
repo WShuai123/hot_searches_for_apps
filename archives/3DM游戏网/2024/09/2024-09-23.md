@@ -103,3 +103,47 @@
 
 + [《大侠立志传》现已登陆手机端 首发18元](https://www.3dmgame.com/news/202409/3904715.html)
 
++ [《指环王：夏尔的传说》确定3月25日发售](https://www.3dmgame.com/news/202409/3904717.html)
+
++ [《自由战争：复刻版》之后有望开发正统续作](https://www.3dmgame.com/news/202409/3904716.html)
+
++ [黎明杀机世界观 合作PVE射击游戏《Project T》正式公布](https://www.3dmgame.com/news/202405/3894995.html)
+
++ [育碧《不羁联盟》休闲模式将没有SBMM匹配机制](https://www.3dmgame.com/news/202405/3894994.html)
+
++ [开放世界生存游戏《漫漫长夜》将新增一头美洲狮追击玩家](https://www.3dmgame.com/news/202405/3894993.html)
+
++ [《历史的完结》Steam页面上线 中世纪风战略RPG](https://www.3dmgame.com/news/202405/3894992.html)
+
++ [《星刃》总监称服装和谐不是索尼要求：时尚至上而非性感至上](https://www.3dmgame.com/news/202405/3894989.html)
+
++ [《英雄联盟》骄傲月贺图：与LGBT群体一起庆祝](https://www.3dmgame.com/news/202405/3894991.html)
+
++ [《地狱之刃2》团队与专家合作了解精神病 更好描绘角色](https://www.3dmgame.com/news/202405/3894990.html)
+
++ [CDPR招募高级游戏设计师 负责创建《巫师4》先进角色AI](https://www.3dmgame.com/news/202405/3894988.html)
+
++ [《刺客信条：影》短视频和艺术图泄露 男女主角登场](https://www.3dmgame.com/news/202405/3894987.html)
+
++ [谷歌浏览器将内置AI助手Gemini Nano](https://www.3dmgame.com/news/202405/3894986.html)
+
++ [《最后生还者》剧集第2季新片场照 完美还原游戏场景](https://www.3dmgame.com/news/202405/3894996.html)
+
++ [节奏射击肉鸽游戏《机械节奏》现已在Steam平台正式推出](https://www.3dmgame.com/news/202405/3895004.html)
+
++ [Epic违反欧盟消费者法 在荷兰被罚款110万欧元](https://www.3dmgame.com/news/202405/3895005.html)
+
++ [Switch Online会员游戏库更新 新增4款GB游戏](https://www.3dmgame.com/news/202405/3895002.html)
+
++ [卡牌游戏《Deathless. Tales of Old Rus》Steam页面上线 年内发售](https://www.3dmgame.com/news/202405/3895003.html)
+
++ [水晶动力将与亚马逊合作 推出更多《古墓丽影》影视作品](https://www.3dmgame.com/news/202405/3895001.html)
+
++ [《黎明杀机》开发商惊喜推出衍生游戏《What the Fog》](https://www.3dmgame.com/news/202405/3895000.html)
+
++ [PC版《对马岛之魂：导演剪辑版》全球解锁时间 支持SteamDeck](https://www.3dmgame.com/news/202405/3894997.html)
+
++ [《ISO-CORE》Steam页面上线 斜视角生活建设模拟](https://www.3dmgame.com/news/202405/3894999.html)
+
++ [《EA Sports大学橄榄球25》或将仅登陆主机 没有PC版](https://www.3dmgame.com/news/202405/3894998.html)
+
