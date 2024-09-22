@@ -205,3 +205,9 @@
 
 + [《龙腾世纪：影障守护者》认为其风格将流行15年](https://www.3dmgame.com/news/202409/3904698.html)
 
++ [《Grunn》10月登陆PC 卡通渲染像素风诡异冒险](https://www.3dmgame.com/news/202409/3904706.html)
+
++ [《七龙珠 电光炸裂！ZERO》新预告 复古风格画面呈现](https://www.3dmgame.com/news/202409/3904705.html)
+
++ [《龙腾世纪：影障守护者》不再依赖过场动画推动剧情](https://www.3dmgame.com/news/202409/3904704.html)
+
