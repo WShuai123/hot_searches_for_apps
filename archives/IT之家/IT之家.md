@@ -47,3 +47,5 @@
 
 + [红旗手机外观曝光：超大镜头 Deco，融入红色线条元素](https://m.ithome.com/html/797452.htm)
 
++ [GPD 员工称 AMD 锐龙 AI 9 HX 370 比 R7 8840U 贵出一倍](https://m.ithome.com/html/797442.htm)
+

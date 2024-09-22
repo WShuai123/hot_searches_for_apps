@@ -181,3 +181,15 @@
 
 + [漫威《一直都是阿加莎》剧集 全裸镜头是女主自己想出](https://www.3dmgame.com/news/202409/3904692.html)
 
++ [高通收购Intel消息引关注！郭明錤：若发生将是灾难一场](https://www.3dmgame.com/news/202409/3904697.html)
+
++ [集英社《少年JUMP+》迎来创刊10周年 纪念策划启动](https://www.3dmgame.com/news/202409/3904696.html)
+
++ [Steam世嘉游戏国区售价永降再遇特卖，多款新游戏、新史低](https://www.3dmgame.com/news/202409/3904608.html)
+
++ [日本玩家游戏购买调查 每年12个游戏比例不高](https://www.3dmgame.com/news/202409/3904695.html)
+
++ [《贪婪之秋2》即将进入抢先体验 公布开发路线图](https://www.3dmgame.com/news/202409/3904694.html)
+
++ [《黑神话：悟空》猪八戒人形脸模演员：以为自己演的是杨戬](https://www.3dmgame.com/news/202409/3904693.html)
+

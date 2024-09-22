@@ -169,3 +169,5 @@
 
 + [2024年三个月自学 网络安全（黑客技术）手册](https://blog.csdn.net/2401_85026965/article/details/142413623)
 
++ [[Web安全 网络安全]-CSRF跨站请求伪造](https://blog.csdn.net/liu17234050/article/details/142407876)
+
