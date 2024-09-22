@@ -193,3 +193,15 @@
 
 + [《黑神话：悟空》猪八戒人形脸模演员：以为自己演的是杨戬](https://www.3dmgame.com/news/202409/3904693.html)
 
++ [复古赛车《Parking Garage Rally Circuit》收获特别好评](https://www.3dmgame.com/news/202409/3904702.html)
+
++ [5岁男童早教每天看学习机6小时 致近视1000度](https://www.3dmgame.com/news/202409/3904703.html)
+
++ [《HYKE:Northern Light(s)》公布 小清新像素风ARPG](https://www.3dmgame.com/news/202409/3904701.html)
+
++ [《创世战车》发布大型内容更新 加入新地图与模式](https://www.3dmgame.com/news/202409/3904700.html)
+
++ [Take-Two裁员5%之后 董事长和总裁拿到巨额奖金](https://www.3dmgame.com/news/202409/3904699.html)
+
++ [《龙腾世纪：影障守护者》认为其风格将流行15年](https://www.3dmgame.com/news/202409/3904698.html)
+
