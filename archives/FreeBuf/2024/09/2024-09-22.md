@@ -51,3 +51,5 @@
 
 + [DarkHotel APT 组织 Observer 木马攻击分析](https://www.freebuf.com/articles/paper/410754.html)
 
++ [渗透测试 | 详解前端漏洞触发后端RCE](https://www.freebuf.com/articles/web/401334.html)
+

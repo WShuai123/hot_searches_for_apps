@@ -155,3 +155,17 @@
 
 + [【FPGA】编程方式](https://blog.csdn.net/zhh1749621866/article/details/142418812)
 
++ [【Python】探索 TensorFlow：构建强大的机器学习模型](https://blog.csdn.net/jacksoon/article/details/142388142)
+
++ [【机器学习】--- 决策树与随机森林](https://blog.csdn.net/2301_80863610/article/details/142382747)
+
++ [Visual Studio 2022](https://blog.csdn.net/a6s686/article/details/142424948)
+
++ [LabVIEW提高开发效率技巧----自动化测试和持续集成](https://blog.csdn.net/bjcyck/article/details/142410682)
+
++ [Windows【环境 01】服务器系统重装后的服务恢复（ESRedisJafkaTomcat）环境变量和服务注册](https://blog.csdn.net/weixin_39168541/article/details/142380908)
+
++ [Spring Boot 结合 ES搜索引擎 实现数据库与 ES 索引同步](https://blog.csdn.net/lilinhai548/article/details/142268480)
+
++ [2024年三个月自学 网络安全（黑客技术）手册](https://blog.csdn.net/2401_85026965/article/details/142413623)
+

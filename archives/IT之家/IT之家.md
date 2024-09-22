@@ -43,3 +43,7 @@
 
 + [小米王腾晒 Redmi Note 14 Pro+ 真机，展示抗摔、防水性能](https://m.ithome.com/html/797450.htm)
 
++ [号称“全民仅退款”电商平台京淘淘被曝“跑路卷走 20 亿”，客服否认称“正排查恶意刷单套现”](https://m.ithome.com/html/797472.htm)
+
++ [红旗手机外观曝光：超大镜头 Deco，融入红色线条元素](https://m.ithome.com/html/797452.htm)
+

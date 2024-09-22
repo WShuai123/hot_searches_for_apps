@@ -73,3 +73,11 @@
 
 + [Deer](https://dribbble.com/shots/)
 
++ [Bordup Task Management Platform 2024](https://dribbble.com/shots/)
+
++ [logo branding](https://dribbble.com/shots/)
+
++ [Dooly Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Online Casino - Mobile Design](https://dribbble.com/shots/)
+
