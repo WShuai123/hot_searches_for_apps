@@ -217,3 +217,7 @@
 
 + [杭州政府力挺《黑神话》 食堂曾每天给游科送饭](https://www.3dmgame.com/news/202409/3904709.html)
 
++ [传微软正考虑在中东地区停售Xbox主机](https://www.3dmgame.com/news/202409/3904711.html)
+
++ [《刺客信条》独立多人游戏消息曝光 支持16名玩家](https://www.3dmgame.com/news/202409/3904710.html)
+

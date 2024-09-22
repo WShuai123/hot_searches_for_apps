@@ -193,3 +193,7 @@
 
 + [【MySQL 学习】深入探索JDBC（Java与数据库连接的桥梁）](https://blog.csdn.net/island1314/article/details/142422945)
 
++ [K8s容器运行时，移除Dockershim后存在哪些疑惑？](https://blog.csdn.net/qq_48450494/article/details/142442653)
+
++ [【HTTPS】中间人攻击和证书的验证](https://blog.csdn.net/Yeeear/article/details/142438540)
+
