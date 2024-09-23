@@ -67,3 +67,7 @@
 
 + [1369期：大车事故，根本刹不住，不信你看](http://www.acfun.cn/v/ac46286679)
 
++ [摆尾 Freaky](http://www.acfun.cn/v/ac46287482)
+
++ [椅子舞 rollin](http://www.acfun.cn/v/ac46287479)
+

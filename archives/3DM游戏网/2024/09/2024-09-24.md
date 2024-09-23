@@ -101,3 +101,5 @@
 
 + [《地平线：西之绝境》PC版新截图 画面绚丽夺目](https://www.3dmgame.com/news/202403/3889878.html)
 
++ [《角斗士2》发布正式预告 古罗马角斗场风云再起](https://www.3dmgame.com/news/202409/3904781.html)
+

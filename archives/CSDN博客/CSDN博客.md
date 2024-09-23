@@ -101,3 +101,15 @@
 
 + [Llama 3.1 技术研究报告-2](https://blog.csdn.net/yangzheng_520/article/details/142459128)
 
++ [2024华为杯研究生数学建模C题【数据驱动下磁性元件的磁芯损耗建模】思路详解](https://blog.csdn.net/smppbzyc/article/details/142414136)
+
++ [【Linux系统编程】第二十二弹---操作系统核心概念：进程创建与终止机制详解](https://blog.csdn.net/2201_75584283/article/details/141298329)
+
++ [【MySQL 学习】深入探索JDBC（Java与数据库连接的桥梁）](https://blog.csdn.net/island1314/article/details/142422945)
+
++ [2024华为杯研究生数学建模竞赛E题：高速公路应急车道临时启用问题思路代码分析](https://blog.csdn.net/nancheng_single/article/details/142422252)
+
++ [HarmonyOS鸿蒙开发实战（5.0）表情图片聊天案例实践](https://blog.csdn.net/weixin_55362248/article/details/142423223)
+
++ [【计算机网络】传输层协议TCP](https://blog.csdn.net/2301_77459845/article/details/142410557)
+
