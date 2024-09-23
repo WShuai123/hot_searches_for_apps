@@ -135,3 +135,9 @@
 
 + [堀池空希 vs 王乐泉](http://www.acfun.cn/v/ac46283121)
 
++ [申请和她们战斗！欢乐八点档-1051](http://www.acfun.cn/v/ac46285936)
+
++ [感谢投稿，姥爷爱你。](http://www.acfun.cn/v/ac46283936)
+
++ [【EP30/中文字幕】美版老大哥第26季 可乐字幕组](http://www.acfun.cn/v/ac46283614)
+

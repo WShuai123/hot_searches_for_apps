@@ -55,3 +55,5 @@
 
 + [长安启源 E07 开启预售：SUV 和皮卡相结合，24.99 万元起](https://m.ithome.com/html/797571.htm)
 
++ [最会买 2.0 上架，四年后的重载归来，让返利就这么猛烈些！](https://m.ithome.com/html/797765.htm)
+
