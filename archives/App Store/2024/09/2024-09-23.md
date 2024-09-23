@@ -215,3 +215,5 @@
 
 + [韩小圈-热门韩剧娱乐社区](https://itunes.apple.com/cn/app/id1588233154?mt=8)
 
++ [优酷视频-《半熟男女》独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
+
