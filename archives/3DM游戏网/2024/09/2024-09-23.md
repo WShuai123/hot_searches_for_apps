@@ -153,3 +153,9 @@
 
 + [网飞动画《乱马1/2》全新OP主题曲首度曝光](https://www.3dmgame.com/news/202409/3904719.html)
 
++ [《龙腾世纪4》从系列前作汲取了粉丝最喜欢的特色 包你满意！](https://www.3dmgame.com/news/202409/3904723.html)
+
++ [Intel发布显卡驱动更新 支持《战神5》《最终幻想16》](https://www.3dmgame.com/news/202409/3904722.html)
+
++ [传下一代Xbox将有：传统主机+单独手持设备](https://www.3dmgame.com/news/202409/3904721.html)
+

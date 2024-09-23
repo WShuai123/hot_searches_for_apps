@@ -27,3 +27,7 @@
 
 + [蔚来李斌称换电商业上可持续：全网教我做 CEO，但我是挣过钱的人会算账、又不是傻子](https://m.ithome.com/html/797565.htm)
 
++ [消息称“基本认为”京东方屏幕进入苹果 iPhone 面板供应首发序列](https://m.ithome.com/html/797580.htm)
+
++ [上海地铁：8 号线自动扶梯上一乘客随身携带充电宝自燃，无人员受伤](https://m.ithome.com/html/797555.htm)
+
