@@ -207,3 +207,9 @@
 
 + [东方神主ZUN回应被质疑支持《幻兽帕鲁》 言语道断](https://www.3dmgame.com/news/202409/3904741.html)
 
++ [《威赫战线》Steam愿望单突破25万 战术回合制RPG](https://www.3dmgame.com/news/202409/3904750.html)
+
++ [古埃及背景俯视角探索动作冒险游戏《阿努之书》将于2025年第一季度推出](https://www.3dmgame.com/news/202409/3904748.html)
+
++ [厂商抱怨Zen5锐龙APU太贵 两倍多于上代锐龙8040](https://www.3dmgame.com/news/202409/3904749.html)
+

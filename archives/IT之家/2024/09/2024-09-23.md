@@ -33,3 +33,5 @@
 
 + [超越《幻兽帕鲁》：机构数据显示《黑神话：悟空》已成今年最畅销 Steam 游戏](https://m.ithome.com/html/797535.htm)
 
++ [华为发布新一代 OceanStor Dorado 全闪存存储：单设备可靠性 99.99999%](https://m.ithome.com/html/797576.htm)
+
