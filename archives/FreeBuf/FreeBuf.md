@@ -47,3 +47,7 @@
 
 + [JAVA 安全 | 深入分析 Runtime.exec 命令执行底层机制](https://www.freebuf.com/articles/web/411135.html)
 
++ [不要赎金只破坏基础设施，Twelve 黑客大肆攻击俄罗斯实体](https://www.freebuf.com/news/411472.html)
+
++ [乌克兰因安全风险禁用Telegram](https://www.freebuf.com/news/411485.html)
+

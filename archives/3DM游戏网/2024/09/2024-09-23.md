@@ -189,3 +189,21 @@
 
 + [《红色一号：冬日行动》第二款中字预告发布](https://www.3dmgame.com/news/202409/3904724.html)
 
++ [iPhone 16 Pro首发翻车 不少用户反映触摸屏失灵](https://www.3dmgame.com/news/202409/3904743.html)
+
++ [央企中国动漫集团招聘Coser演员 要求35岁以下身高165以上](https://www.3dmgame.com/news/202409/3904744.html)
+
++ [仓库管理拍卖模拟游戏《仓储猎手模拟》已提供Demo 10月11日推抢先体验版](https://www.3dmgame.com/news/202409/3904745.html)
+
++ [宏碁游戏“战神天团”亮相核聚变游戏嘉年华北京站！](https://www.3dmgame.com/news/202409/3904746.html)
+
++ [经典名作《筋肉人》全新动画第二季确定2025年1月开播](https://www.3dmgame.com/news/202409/3904747.html)
+
++ [前SweetBaby员工求职遇困难：游戏公司担心雇用后被骚扰](https://www.3dmgame.com/news/202409/3904742.html)
+
++ [外媒认为《星鸣特攻》4亿美元预算说法有误 可能包含收购工作室成本](https://www.3dmgame.com/news/202409/3904739.html)
+
++ [IGN年度游戏玩家投票预测 《黑神话：悟空》遥遥领先](https://www.3dmgame.com/news/202409/3904740.html)
+
++ [东方神主ZUN回应被质疑支持《幻兽帕鲁》 言语道断](https://www.3dmgame.com/news/202409/3904741.html)
+
