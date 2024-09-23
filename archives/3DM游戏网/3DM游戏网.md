@@ -333,3 +333,9 @@
 
 + [《Slayscape》Steam页面上线 PvPvE卡牌战斗](https://www.3dmgame.com/news/202405/3896042.html)
 
++ [《对马岛之鬼》开发费用只有《星鸣特攻》七分之一](https://www.3dmgame.com/news/202409/3904774.html)
+
++ [iPhone 16组装已扩展至巴西 首次在南美生产](https://www.3dmgame.com/news/202409/3904772.html)
+
++ [《全面战争：战锤3》Steam新史低 4折价119元](https://www.3dmgame.com/news/202409/3904773.html)
+

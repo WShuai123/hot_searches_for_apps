@@ -51,3 +51,7 @@
 
 + [小米新车规划曝光：首款 SUV 明年发布，2026 年推 6 座增程 SUV](https://m.ithome.com/html/797724.htm)
 
++ [iPhone 4S 锁机 10 年后解锁冲上热搜，苹果客服称最长锁机时间已缩至 8 小时](https://m.ithome.com/html/797801.htm)
+
++ [长安启源 E07 开启预售：SUV 和皮卡相结合，24.99 万元起](https://m.ithome.com/html/797571.htm)
+
