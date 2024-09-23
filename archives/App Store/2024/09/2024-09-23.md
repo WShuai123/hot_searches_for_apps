@@ -217,3 +217,5 @@
 
 + [优酷视频-《半熟男女》独播](https://itunes.apple.com/cn/app/id336141475?mt=8)
 
++ [超级课程表-早八必备](https://itunes.apple.com/cn/app/id573868981?mt=8)
+

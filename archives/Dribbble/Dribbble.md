@@ -83,3 +83,19 @@
 
 + [Investment Management Software](https://dribbble.com/shots/)
 
++ [Kube : Architecture Agency - Website Landing Page](https://dribbble.com/shots/)
+
++ [MeetHub - Meeting Schedule Mobile App Animation](https://dribbble.com/shots/)
+
++ [Social Media Mobile Apps](https://dribbble.com/shots/)
+
++ [Bebiria - Travel Mobile App](https://dribbble.com/shots/)
+
++ [Laundry Mobile App](https://dribbble.com/shots/)
+
++ [Paladin](https://dribbble.com/shots/)
+
++ [☕️ Roseco - Landing Page](https://dribbble.com/shots/)
+
++ [Cryptora – Crypto Mobile Application](https://dribbble.com/shots/)
+

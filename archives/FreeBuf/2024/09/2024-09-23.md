@@ -51,3 +51,5 @@
 
 + [乌克兰因安全风险禁用Telegram](https://www.freebuf.com/news/411485.html)
 
++ [渗透测试 | 骗局仿平台官方客服系统+Sqlmap WAF bypass](https://www.freebuf.com/articles/web/410703.html)
+
