@@ -71,3 +71,13 @@
 
 + [《动物迷惑行为大赏224》](http://www.acfun.cn/v/ac46283048)
 
++ [一碗普通的鸡蛋汤，竟然作用这么大，早餐界的天花板，几秒钟搞定](http://www.acfun.cn/v/ac46282461)
+
++ [【东方】鬼人マニア【第16回东方Nico童祭 MMD】](http://www.acfun.cn/v/ac46281642)
+
++ [傲慢舞](http://www.acfun.cn/v/ac46281580)
+
++ [眯眯眼都是怪物](http://www.acfun.cn/v/ac46282341)
+
++ [试着唱了「雨爱」](http://www.acfun.cn/v/ac46280221)
+

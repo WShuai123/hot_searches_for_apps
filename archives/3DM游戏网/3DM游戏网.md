@@ -159,3 +159,33 @@
 
 + [传下一代Xbox将有：传统主机+单独手持设备](https://www.3dmgame.com/news/202409/3904721.html)
 
++ [搞怪名作《圣哥传》真人电影新卡司 藤原龙也出演路西法](https://www.3dmgame.com/news/202409/3904738.html)
+
++ [《黑神话：悟空》已成为2024年Steam上最畅销的游戏](https://www.3dmgame.com/news/202409/3904737.html)
+
++ [白金工作室从任天堂手中获得《神奇101》IP所有权](https://www.3dmgame.com/news/202409/3904736.html)
+
++ [复古风街机清版动作游戏《龙威小子：街头大乱斗》已在Steam正式推出](https://www.3dmgame.com/news/202409/3904734.html)
+
++ [《龙腾世纪：影障守护者》完整通关需100小时 内容丰富！](https://www.3dmgame.com/news/202409/3904735.html)
+
++ [足球巨星C罗宣布将联动游戏《饿狼传说：狼之城》](https://www.3dmgame.com/news/202409/3904733.html)
+
++ [《MUV-LUV TACTICS》配置规格情报公开 战略SRPG新游](https://www.3dmgame.com/news/202409/3904732.html)
+
++ [剧情向探索游戏《拾忆之旅 Spiral》已在Steam平台正式发售 并获得好评](https://www.3dmgame.com/news/202409/3904731.html)
+
++ [分析师称只要任天堂愿意 可以起诉半个游戏行业](https://www.3dmgame.com/news/202409/3904730.html)
+
++ [动画电影《指环王：洛汗之战》首曝海报](https://www.3dmgame.com/news/202409/3904729.html)
+
++ [横山昌义：《如龙8外传》体量比《如龙7外传》大得多](https://www.3dmgame.com/news/202409/3904728.html)
+
++ [《星露谷物语》主机和移动版1.6更新内容发布日期确定 11月4日推出](https://www.3dmgame.com/news/202409/3904727.html)
+
++ [《红铃的哀叹》2025年春季登陆Switch 乙女恋爱](https://www.3dmgame.com/news/202409/3904726.html)
+
++ [《电锯甜心RePOP》新更新 女主胸部缺抖动被修复](https://www.3dmgame.com/news/202409/3904725.html)
+
++ [《红色一号：冬日行动》第二款中字预告发布](https://www.3dmgame.com/news/202409/3904724.html)
+

@@ -45,3 +45,5 @@
 
 + [渗透测试 | 实战从.Git目录泄露导致信息泄露和任意文件读取](https://www.freebuf.com/articles/web/410701.html)
 
++ [JAVA 安全 | 深入分析 Runtime.exec 命令执行底层机制](https://www.freebuf.com/articles/web/411135.html)
+

@@ -141,3 +141,17 @@
 
 + [基于yolov5的中国交通标志TT100K检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142448022)
 
++ [828华为云征文｜华为云Flexus云服务器X实例之openEuler系统部署Beszel轻量级服务器监控系统](https://blog.csdn.net/jks212454/article/details/142283362)
+
++ [【Elasticsearch系列廿】Logstash 学习](https://blog.csdn.net/qyj19920704/article/details/142320463)
+
++ [【永磁同步电机（PMSM）】 6. 矢量空间算法（SVPWM）](https://blog.csdn.net/youcans/article/details/142431613)
+
++ [华为OD七日集训第1期 - 按算法分类，由易到难，循序渐进，玩转OD](https://blog.csdn.net/guorui_java/article/details/142448282)
+
++ [【在Linux世界中追寻伟大的One Piece】验证TCP](https://blog.csdn.net/weixin_74809706/article/details/142446337)
+
++ [基于 Web 的工业设备监测系统：非功能性需求与标准化数据访问机制的架构设计](https://blog.csdn.net/g984160547/article/details/142355149)
+
++ [HarmonyOS鸿蒙开发实战（5.0）表情图片聊天案例实践](https://blog.csdn.net/weixin_55362248/article/details/142423223)
+
