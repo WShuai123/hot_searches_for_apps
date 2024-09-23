@@ -183,3 +183,7 @@
 
 + [Microsoft Edge 五个好用的插件](https://blog.csdn.net/2301_77362941/article/details/142450689)
 
++ [项目实战：Qt+OSG爆破动力学仿真三维引擎测试工具v1.1.0（加载.K模型，子弹轨迹模拟动画，支持windows、linux、国产麒麟系统）](https://blog.csdn.net/qq21497936/article/details/142454993)
+
++ [Llama 3.1 技术研究报告-2](https://blog.csdn.net/yangzheng_520/article/details/142459128)
+

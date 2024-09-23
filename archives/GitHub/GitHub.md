@@ -23,3 +23,19 @@
 
 + [basecamp / kamal](https://github.com/basecamp/kamal)
 
++ [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [simple-icons / simple-icons](https://github.com/simple-icons/simple-icons)
+
++ [n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
++ [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
++ [YimMenu / YimMenu](https://github.com/YimMenu/YimMenu)
+
++ [ruanyf / weekly](https://github.com/ruanyf/weekly)
+
++ [aristocratos / btop](https://github.com/aristocratos/btop)
+

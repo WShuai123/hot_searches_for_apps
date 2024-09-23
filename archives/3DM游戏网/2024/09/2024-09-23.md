@@ -285,3 +285,9 @@
 
 + [马斯克公布最新火星计划：未来2年发射5艘无人星舰](https://www.3dmgame.com/news/202409/3904762.html)
 
++ [曝中国厂商无法下单H20芯片 NV回应：不对谣言做评论](https://www.3dmgame.com/news/202409/3904770.html)
+
++ [《我的世界》玩家团队新奇观进展 将建原比例纽约城](https://www.3dmgame.com/news/202409/3904769.html)
+
++ [《黑神话：悟空》1.0.9.15179更新上线Steam 下载约1.7GB](https://www.3dmgame.com/news/202409/3904767.html)
+
