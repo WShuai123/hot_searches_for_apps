@@ -57,3 +57,9 @@
 
 + [PatrOwl：一款开源可扩展的安全协调运营平台](https://www.freebuf.com/sectool/410500.html)
 
++ [年度安全品牌影响力&年度热门安全产品花落谁家 | WitAwards 2024 评选](https://www.freebuf.com/news/411441.html)
+
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
++ [乌克兰因安全风险首次禁用Telegram](https://www.freebuf.com/news/411485.html)
+

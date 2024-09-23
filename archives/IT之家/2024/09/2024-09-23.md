@@ -35,3 +35,9 @@
 
 + [华为发布新一代 OceanStor Dorado 全闪存存储：单设备可靠性 99.99999%](https://m.ithome.com/html/797576.htm)
 
++ [身家千万老板破产“法院 4.2 元拍卖一瓶雪碧”，当事人称没可供执行财产](https://m.ithome.com/html/797635.htm)
+
++ [香港美心月饼连发 9 条消费警示：协助警方鉴定出 2.5 万盒假货，点名盒马生鲜、拼多多等未授权销售渠道](https://m.ithome.com/html/797621.htm)
+
++ [《黑神话：悟空》获 IGN 2024 年度游戏玩家投票断层第一](https://m.ithome.com/html/797669.htm)
+

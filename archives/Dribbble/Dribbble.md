@@ -117,3 +117,17 @@
 
 + [logo design , letter D, Dream logo](https://dribbble.com/shots/)
 
++ [HomeMaker Logo Design - Animated](https://dribbble.com/shots/)
+
++ [Meeracle](https://dribbble.com/shots/)
+
++ [Actua finance meets technology, fintech logo design, A in motion](https://dribbble.com/shots/)
+
++ [60🇰 Thanks! 🙏🏻](https://dribbble.com/shots/)
+
++ [Rhino - Logo Design (Unused)](https://dribbble.com/shots/)
+
++ [Credify - Landing Page](https://dribbble.com/shots/)
+
++ [Website for X-Ultra electric toothbrush](https://dribbble.com/shots/)
+

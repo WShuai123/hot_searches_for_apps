@@ -219,3 +219,55 @@
 
 + [《去月球》10月8日登陆PS5和Xbox Series X|S 售价10美元](https://www.3dmgame.com/news/202409/3904751.html)
 
++ [开罗《哆啦A梦的铜锣烧物语》登陆移动端 售价15美元支持中文](https://www.3dmgame.com/news/202409/3904759.html)
+
++ [88岁天际老奶奶宣布退出游戏主播界 不满兴趣变义务](https://www.3dmgame.com/news/202409/3904757.html)
+
++ [交叉骨演员透露当漫威系列电影演员有多难：差点被漫威解雇36次](https://www.3dmgame.com/news/202409/3904758.html)
+
++ [电影《小丑2：双重妄想》国内定档：10月16日](https://www.3dmgame.com/news/202409/3904756.html)
+
++ [BAFTA游戏大奖“玩家选择奖”提名公布：《博德之门3》等](https://www.3dmgame.com/news/202403/3889883.html)
+
++ [《荒野机器人》发布首支预告《驯龙高手》幕后班底全新力作](https://www.3dmgame.com/news/202403/3889882.html)
+
++ [阔别13年 恐怖电影《死神来了》第6部宣布拍摄中](https://www.3dmgame.com/news/202403/3889892.html)
+
++ [《怪兽上班》第二季发布预告 4月5日开播](https://www.3dmgame.com/news/202403/3889890.html)
+
++ [索尼推出PS5主机《原神》同捆包 3月13日发售](https://www.3dmgame.com/news/202403/3889887.html)
+
++ [《命运2》遗失区域BUG全自动刷装备 现已修复](https://www.3dmgame.com/news/202403/3889886.html)
+
++ [《暗黑地牢2》主机版在巴西通过评级 或即将公布](https://www.3dmgame.com/news/202403/3889875.html)
+
++ [致力《鬼泣》《龙之信条》20年 伊津野英昭：想要尝试新事物](https://www.3dmgame.com/news/202403/3889876.html)
+
++ [《星际小队》Steam限时免费发布 宇宙战争模拟名作](https://www.3dmgame.com/news/202403/3889874.html)
+
++ [《远征：泥泞奔驰游戏》现已正式发售 Steam评价褒贬不一](https://www.3dmgame.com/news/202403/3889873.html)
+
++ [《决战效应：重装上阵》免费登陆Steam 横版枪战动作名作回归](https://www.3dmgame.com/news/202403/3889884.html)
+
++ [Jones Soda和《辐射》电视剧联动 推出全新口味核子可乐](https://www.3dmgame.com/news/202403/3889885.html)
+
++ [暴雪前总裁：《暗黑4》试炼场有趣 玩家们会回归](https://www.3dmgame.com/news/202403/3889877.html)
+
++ [最新数据显示 iPhone中国销量大跌24%华为大涨64%](https://www.3dmgame.com/news/202403/3889888.html)
+
++ [《地平线：西之绝境》PC版新截图 画面绚丽夺目](https://www.3dmgame.com/news/202403/3889878.html)
+
++ [《女神异闻录３ Reload》官方监制 标杆级联动校服实物公开](https://www.3dmgame.com/news/202403/3889889.html)
+
++ [《沙丘2》“宿命之敌”中字预告 3月8日内地上映](https://www.3dmgame.com/news/202403/3889879.html)
+
++ [《最终幻想14》吉田：画面更新不仅是为了吸引新玩家](https://www.3dmgame.com/news/202403/3889891.html)
+
++ [2D平台动作游戏《电钻少女》现已推出试玩Demo 3月29日发售](https://www.3dmgame.com/news/202403/3889880.html)
+
++ [《街头霸王5》实体街机日本4月停运 全部功能下线](https://www.3dmgame.com/news/202403/3889881.html)
+
++ [坤哥爆料：30周年纪念PS5轻薄版售价499.99美元](https://www.3dmgame.com/news/202409/3904754.html)
+
++ [《绝地求生》之父表示开发中的新项目有地球大小的空间 玩家可自由发挥](https://www.3dmgame.com/news/202409/3904755.html)
+
