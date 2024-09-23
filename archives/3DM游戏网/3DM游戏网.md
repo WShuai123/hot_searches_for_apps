@@ -271,3 +271,7 @@
 
 + [《绝地求生》之父表示开发中的新项目有地球大小的空间 玩家可自由发挥](https://www.3dmgame.com/news/202409/3904755.html)
 
++ [苹果回应iPhone16钢壳电池不会远程引爆：专家怒斥别被带节奏 国产供应链支撑](https://www.3dmgame.com/news/202409/3904760.html)
+
++ [《迷宫贩》登陆Steam 魔王城百货店经营](https://www.3dmgame.com/news/202409/3904761.html)
+

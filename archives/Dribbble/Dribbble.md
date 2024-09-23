@@ -131,3 +131,13 @@
 
 + [Website for X-Ultra electric toothbrush](https://dribbble.com/shots/)
 
++ [Retro/Minimalist Aviator Logo Design](https://dribbble.com/shots/)
+
++ [SB website presentation](https://dribbble.com/shots/)
+
++ [Blindsight Logo Concept II](https://dribbble.com/shots/)
+
++ [Sunwave logo](https://dribbble.com/shots/)
+
++ [trafex - web design](https://dribbble.com/shots/)
+

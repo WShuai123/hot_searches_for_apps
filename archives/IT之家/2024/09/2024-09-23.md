@@ -41,3 +41,7 @@
 
 + [《黑神话：悟空》获 IGN 2024 年度游戏玩家投票断层第一](https://m.ithome.com/html/797669.htm)
 
++ [Omdia：苹果 iPhone 15 Pro Max 是 2024 上半年全球最畅销手机，国产仅小米上榜前十](https://m.ithome.com/html/797663.htm)
+
++ [联发科天玑 9400 处理器 GPU 跑分曝光，比苹果 A18 Pro 强 86%](https://m.ithome.com/html/797662.htm)
+

@@ -177,3 +177,5 @@
 
 + [得物自建 Redis 无人值守资源均衡调度设计与实现](https://blog.csdn.net/SmartCodeTech/article/details/142387949)
 
++ [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/142451632)
+
