@@ -213,3 +213,9 @@
 
 + [厂商抱怨Zen5锐龙APU太贵 两倍多于上代锐龙8040](https://www.3dmgame.com/news/202409/3904749.html)
 
++ [动画电影《机动警察 EZY》项目再启动 预计于2026年上映](https://www.3dmgame.com/news/202409/3904753.html)
+
++ [《完蛋！我被美女包围！前传》首个PV 竟然有枪战](https://www.3dmgame.com/news/202409/3904752.html)
+
++ [《去月球》10月8日登陆PS5和Xbox Series X|S 售价10美元](https://www.3dmgame.com/news/202409/3904751.html)
+

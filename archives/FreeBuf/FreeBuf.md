@@ -53,3 +53,7 @@
 
 + [渗透测试 | 骗局仿平台官方客服系统+Sqlmap WAF bypass](https://www.freebuf.com/articles/web/410703.html)
 
++ [@所有人 邀请函已送达！等一个靓仔slay全场~| FCIS 2024「白帽大会」议题征集](https://www.freebuf.com/consult/411519.html)
+
++ [PatrOwl：一款开源可扩展的安全协调运营平台](https://www.freebuf.com/sectool/410500.html)
+

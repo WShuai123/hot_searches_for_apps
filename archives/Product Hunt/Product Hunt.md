@@ -103,3 +103,21 @@
 
 + [Surfsite AI](https://www.producthunt.com/posts/surfsite-ai)
 
++ [Vibrantsnap](https://www.producthunt.com/posts/vibrantsnap-2)
+
++ [Tooltip Tutorial](https://www.producthunt.com/posts/tooltip-tutorial)
+
++ [MemoGo](https://www.producthunt.com/posts/memogo)
+
++ [Apply AI](https://www.producthunt.com/posts/apply-ai)
+
++ [Slidejoy](https://www.producthunt.com/posts/slidejoy-2)
+
++ [Feedmio](https://www.producthunt.com/posts/feedmio)
+
++ [Double](https://www.producthunt.com/posts/double-7)
+
++ [BuyScout™](https://www.producthunt.com/posts/buyscout)
+
++ [NodeLand](https://www.producthunt.com/posts/nodeland)
+
