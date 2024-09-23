@@ -141,3 +141,19 @@
 
 + [trafex - web design](https://dribbble.com/shots/)
 
++ [Bunny](https://dribbble.com/shots/)
+
++ [DecideAI // Website](https://dribbble.com/shots/)
+
++ [Freelance Marketplace App](https://dribbble.com/shots/)
+
++ [Payment Service Website Design](https://dribbble.com/shots/)
+
++ [Music Player RhythmoTune - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Supplement Brand Refresh](https://dribbble.com/shots/)
+
++ [Blockify - DeFi Platform logo,design](https://dribbble.com/shots/)
+
++ [SKILLREP Behance Featuring](https://dribbble.com/shots/)
+

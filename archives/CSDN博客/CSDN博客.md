@@ -179,3 +179,7 @@
 
 + [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/142451632)
 
++ [【机器学习】揭秘GBDT：梯度提升决策树](https://blog.csdn.net/2301_76820214/article/details/142443959)
+
++ [Microsoft Edge 五个好用的插件](https://blog.csdn.net/2301_77362941/article/details/142450689)
+

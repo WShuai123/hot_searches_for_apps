@@ -45,3 +45,5 @@
 
 + [联发科天玑 9400 处理器 GPU 跑分曝光，比苹果 A18 Pro 强 86%](https://m.ithome.com/html/797662.htm)
 
++ [古尔曼：Apple Intelligence 加持的全新苹果 Siri 有望明年 1 月到来](https://m.ithome.com/html/797581.htm)
+
