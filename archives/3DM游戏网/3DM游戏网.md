@@ -103,3 +103,11 @@
 
 + [《角斗士2》发布正式预告 古罗马角斗场风云再起](https://www.3dmgame.com/news/202409/3904781.html)
 
++ [索尼SIE新“State of Play”直播定于9/25举行](https://www.3dmgame.com/news/202409/3904785.html)
+
++ [《死神：魂魄觉醒》角色预告片之更木剑八](https://www.3dmgame.com/news/202409/3904784.html)
+
++ [“索尼克 Central 2024”直播活动将于25日0时举行](https://www.3dmgame.com/news/202409/3904783.html)
+
++ [11 bit《冰汽时代2》销量突破35万份](https://www.3dmgame.com/news/202409/3904782.html)
+
