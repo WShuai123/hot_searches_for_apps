@@ -111,3 +111,13 @@
 
 + [11 bit《冰汽时代2》销量突破35万份](https://www.3dmgame.com/news/202409/3904782.html)
 
++ [《塞尔达传说：智慧的再现》原计划支持玩家自建迷宫](https://www.3dmgame.com/news/202409/3904790.html)
+
++ [2025年5月上映！漫威《雷霆特工队》发布预告片](https://www.3dmgame.com/news/202409/3904789.html)
+
++ [《忍者神龟：施莱德的复仇》新DLC追加2名新角色](https://www.3dmgame.com/news/202409/3904788.html)
+
++ [《神之亵渎2》DLC预告片上线 11月1日发售](https://www.3dmgame.com/news/202409/3904787.html)
+
++ [外媒Digital Foundry确认泄露Switch 2真实可信](https://www.3dmgame.com/news/202409/3904786.html)
+

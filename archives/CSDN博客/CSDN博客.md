@@ -115,3 +115,5 @@
 
 + [豆包MarsCode帮我2小时完成Go语言系统从开发、测试到部署全流程最佳实践，云IDE迁移PHP企业级项目最佳实践](https://blog.csdn.net/wanmeijuhao/article/details/142440891)
 
++ [【人工智能】Transformers之Pipeline（十九）：文生文（text2text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142453978)
+
