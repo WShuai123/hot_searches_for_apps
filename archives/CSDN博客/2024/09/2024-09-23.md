@@ -187,3 +187,11 @@
 
 + [Llama 3.1 技术研究报告-2](https://blog.csdn.net/yangzheng_520/article/details/142459128)
 
++ [【AIGC】ChatGPT提示词助力高效文献处理、公文撰写、会议纪要与视频总结](https://blog.csdn.net/2201_75539691/article/details/142432120)
+
++ [【C++篇】引领C++模板初体验：泛型编程的力量与妙用](https://blog.csdn.net/2301_79849925/article/details/142364774)
+
++ [卷积神经网络（CNN）：深度学习中的视觉奇迹](https://blog.csdn.net/2401_84670644/article/details/142442252)
+
++ [【艾思科蓝】前端框架巅峰对决：React、Vue与Angular的全面解析与实战指南](https://blog.csdn.net/weixin_73295475/article/details/142461838)
+

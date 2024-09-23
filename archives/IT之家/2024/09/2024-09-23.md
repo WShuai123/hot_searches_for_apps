@@ -47,3 +47,7 @@
 
 + [古尔曼：Apple Intelligence 加持的全新苹果 Siri 有望明年 1 月到来](https://m.ithome.com/html/797581.htm)
 
++ [北京汽车官宣更换标志](https://m.ithome.com/html/797653.htm)
+
++ [小米新车规划曝光：首款 SUV 明年发布，2026 年推 6 座增程 SUV](https://m.ithome.com/html/797724.htm)
+

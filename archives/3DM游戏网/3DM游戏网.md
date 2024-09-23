@@ -291,3 +291,45 @@
 
 + [《黑神话：悟空》1.0.9.15179更新上线Steam 下载约1.7GB](https://www.3dmgame.com/news/202409/3904767.html)
 
++ [iPhone16 Pro机型多国发货时间缩短：远不如前代](https://www.3dmgame.com/news/202409/3904771.html)
+
++ [SE两款日本《勇者斗恶龙》手机游戏将于7月停服](https://www.3dmgame.com/news/202405/3896023.html)
+
++ [《海盗共和国》实机概述公布 6月20日发售](https://www.3dmgame.com/news/202405/3896024.html)
+
++ [动作喜剧《孤狼》发布先导预告 皮特、克鲁尼联袂主演](https://www.3dmgame.com/news/202405/3896025.html)
+
++ [《星际公民》众筹金额已超过7亿美元 正式版仍遥遥无期](https://www.3dmgame.com/news/202405/3896027.html)
+
++ [《符文工房》开发商宣布5月31日举行游戏发布会 公布旗下主机游戏新情报](https://www.3dmgame.com/news/202405/3896026.html)
+
++ [B社母公司人事高层透露6月关闭亚洲分部 官方尚未回应](https://www.3dmgame.com/news/202405/3896028.html)
+
++ [《如龙》系列开发者名越稔洋透露 首次提案曾被世嘉断然拒绝](https://www.3dmgame.com/news/202405/3896029.html)
+
++ [《英雄联盟》Faker“名人堂”活动正式公布 皮肤定价引争议](https://www.3dmgame.com/news/202405/3896031.html)
+
++ [2300万英镑潜艇出故障 《碟中谍8》制作再度延期](https://www.3dmgame.com/news/202405/3896030.html)
+
++ [经典迷宫RPG《冬宫原》官方发布玩家调查 将重制多部作品](https://www.3dmgame.com/news/202405/3896033.html)
+
++ [VR剑斗游戏开发商Sinn工作室新作获250万美元融资](https://www.3dmgame.com/news/202405/3896034.html)
+
++ [坤哥再次重申：《战神：诸神黄昏》PC移植版即将公布](https://www.3dmgame.com/news/202405/3896032.html)
+
++ [复古游戏《Conscript》实机预告 Demo6月10日上线](https://www.3dmgame.com/news/202405/3896035.html)
+
++ [合作恐怖FPS游戏《RIPOUT》发售预告放出 游戏已推出1.0正式版](https://www.3dmgame.com/news/202405/3896037.html)
+
++ [《寂静岭2：重制版》PC配置需求更新 显卡最低需1070Ti](https://www.3dmgame.com/news/202405/3896036.html)
+
++ [小岛安利《疯狂的麦克斯》新片 斯内克演员“找到了”](https://www.3dmgame.com/news/202405/3896038.html)
+
++ [电影《美国内战》终极预告 6月7日内地上映](https://www.3dmgame.com/news/202405/3896040.html)
+
++ [上帝模拟游戏《造物主2》现已在Steam平台正式推出 收获特别好评](https://www.3dmgame.com/news/202405/3896039.html)
+
++ [CD Projekt Q1财报：《往日之影》热销 利润远超去年同期](https://www.3dmgame.com/news/202405/3896041.html)
+
++ [《Slayscape》Steam页面上线 PvPvE卡牌战斗](https://www.3dmgame.com/news/202405/3896042.html)
+
