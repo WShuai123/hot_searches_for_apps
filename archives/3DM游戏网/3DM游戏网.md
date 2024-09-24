@@ -275,3 +275,7 @@
 
 + [华为三折叠MateXT黄牛价雪崩：从加近10万到仅加4千](https://www.3dmgame.com/news/202409/3904866.html)
 
++ [约翰`尼德普获罗马电影节终身成就奖](https://www.3dmgame.com/news/202409/3904869.html)
+
++ [《黎明杀机》开发商Behaviour收购《暗黑地牢》开发商Red Hook](https://www.3dmgame.com/news/202409/3904868.html)
+

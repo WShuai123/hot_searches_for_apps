@@ -51,3 +51,5 @@
 
 + [华为余承东再谈鸿蒙智行汽车亏本：智界 R7 卖一辆亏 3 万元左右](https://m.ithome.com/html/798053.htm)
 
++ [华为 WATCH GT 5 Pro 手表国行发布：首发向日葵定位系统、玄玑感知系统，2488 元起](https://m.ithome.com/html/797999.htm)
+
