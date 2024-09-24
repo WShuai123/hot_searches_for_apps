@@ -117,3 +117,13 @@
 
 + [《索尼克大乱斗》确认登陆PC 新预告片展示模式](https://www.3dmgame.com/news/202409/3904878.html)
 
++ [不惧任天堂最强法务《幻兽帕鲁》闪电登陆PS5](https://www.3dmgame.com/news/202409/3904886.html)
+
++ [Level5宣布妖怪手表精神续作《Holy Horror Mansion》](https://www.3dmgame.com/news/202409/3904884.html)
+
++ [明年发售《雷顿教授与蒸汽的新世界》公开全新预告](https://www.3dmgame.com/news/202409/3904883.html)
+
++ [虚幻5柴油朋克世界动作射击游戏《重力锻造》公布](https://www.3dmgame.com/news/202409/3904885.html)
+
++ [初代重制《闪电十一人英雄的胜利之路》再延期](https://www.3dmgame.com/news/202409/3904882.html)
+

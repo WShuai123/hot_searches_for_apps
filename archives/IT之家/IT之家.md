@@ -27,3 +27,5 @@
 
 + [iQOO Z9 Turbo+ 手机发布：天玑 9300+、6400mAh 蓝海电池，2199 元起](https://m.ithome.com/html/798094.htm)
 
++ [消息称华为 Mate 70 手机部分零部件已开启供货，11 月上市](https://m.ithome.com/html/798132.htm)
+
