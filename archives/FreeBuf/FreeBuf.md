@@ -53,3 +53,5 @@
 
 + [Android 安全加固技术全方面分析（上）](https://www.freebuf.com/articles/endpoint/409800.html)
 
++ [PingCastle：一款针对活动目录AD的安全强化工具](https://www.freebuf.com/sectool/410501.html)
+

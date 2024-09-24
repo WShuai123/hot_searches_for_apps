@@ -37,3 +37,5 @@
 
 + [小米 SU7 智驾总里程超 1000km 为何无法开启城市 NOA？官方回应](https://m.ithome.com/html/797828.htm)
 
++ [小米 15 Pro 手机通过 3C 认证入网，全系支持 90W 快充](https://m.ithome.com/html/797899.htm)
+

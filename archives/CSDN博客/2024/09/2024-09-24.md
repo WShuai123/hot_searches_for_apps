@@ -147,3 +147,7 @@
 
 + [【机器学习】---元强化学习](https://blog.csdn.net/2301_80863610/article/details/142478369)
 
++ [项目实战：Qt+OSG爆破动力学仿真三维引擎测试工具v1.1.0（加载.K模型，子弹轨迹模拟动画，支持windows、linux、国产麒麟系统）](https://blog.csdn.net/qq21497936/article/details/142454993)
+
++ [智谱清影 - CogVideoX-2b-部署与使用](https://blog.csdn.net/2301_77509762/article/details/142431776)
+

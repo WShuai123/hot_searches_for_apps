@@ -207,3 +207,15 @@
 
 + [上海迪士尼年底前将实行实名制购票新规 打击炒票黄牛](https://www.3dmgame.com/news/202409/3904830.html)
 
++ [苏丹的残酷考验，策略与剧情交织的冒险！《苏丹的游戏》试玩版现已公开！](https://www.3dmgame.com/news/202409/3904834.html)
+
++ [经营一家偷感十足的旅馆！《莎拉的黑店》全新PV公布](https://www.3dmgame.com/news/202409/3904835.html)
+
++ [《绝区零》凯撒角色PV | 沙色旋律](https://www.3dmgame.com/news/202409/3904836.html)
+
++ [杜卡迪与《怪物猎人》联动 推出“黑龙”主题Monster SP](https://www.3dmgame.com/news/202409/3904837.html)
+
++ [人气枪战美少女游戏《胜利女神》被质疑角色抄袭 官方致歉下架](https://www.3dmgame.com/news/202409/3904838.html)
+
++ [《狼与香辛料》新版TV动画官宣第二季制作决定 全新视觉图一并公布](https://www.3dmgame.com/news/202409/3904839.html)
+
