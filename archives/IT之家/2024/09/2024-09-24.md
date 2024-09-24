@@ -49,3 +49,5 @@
 
 + [腾讯客服：华为鸿蒙 HarmonyOS NEXT 版微信适配工作进展顺利，目前正在开发过程中](https://m.ithome.com/html/798044.htm)
 
++ [华为余承东再谈鸿蒙智行汽车亏本：智界 R7 卖一辆亏 3 万元左右](https://m.ithome.com/html/798053.htm)
+

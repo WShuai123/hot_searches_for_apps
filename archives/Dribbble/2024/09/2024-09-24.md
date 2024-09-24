@@ -138,3 +138,7 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [NexHR - Branding Indentity](https://dribbble.com/shots/)
 
++ [Arkema Anual report](https://dribbble.com/shots/)
+
++ [Husky Logo](https://dribbble.com/shots/)
+

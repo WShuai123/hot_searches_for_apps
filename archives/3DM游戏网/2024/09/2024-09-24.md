@@ -269,3 +269,9 @@
 
 + [《Dress the Duel》Steam上线 创意换衣卡牌战斗](https://www.3dmgame.com/news/202409/3904863.html)
 
++ [又一款真香手机？iQOO Z9 Turbo+发布 2199元起](https://www.3dmgame.com/news/202409/3904867.html)
+
++ [苹果被指太虚伪！iPhone16硬件并不会明显改善AI功能](https://www.3dmgame.com/news/202409/3904865.html)
+
++ [华为三折叠MateXT黄牛价雪崩：从加近10万到仅加4千](https://www.3dmgame.com/news/202409/3904866.html)
+

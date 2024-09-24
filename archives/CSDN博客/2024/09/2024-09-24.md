@@ -181,3 +181,5 @@
 
 + [【Linux】解锁管道通信和共享内存通信，探索进程间通信的海洋](https://blog.csdn.net/hanwangyyds/article/details/142281571)
 
++ [【Elasticsearch系列廿二】特殊参数](https://blog.csdn.net/qyj19920704/article/details/142482123)
+

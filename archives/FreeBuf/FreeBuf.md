@@ -57,3 +57,7 @@
 
 + [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
 
++ [年度AI安全创新产品等你来评 | WitAwards 2024 评选](https://www.freebuf.com/fevents/411600.html)
+
++ [专访肖棉文 | 华大基因网络安全守护者，从个人热爱到企业责任](https://www.freebuf.com/articles/people/411675.html)
+
