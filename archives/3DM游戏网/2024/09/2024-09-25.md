@@ -109,3 +109,11 @@
 
 + [小米15 Pro入网：小米2024终极大作](https://www.3dmgame.com/news/202409/3904876.html)
 
++ [《暗黑破坏神4：憎恨之躯》新预告展示刺激Boss战](https://www.3dmgame.com/news/202409/3904881.html)
+
++ [《索尼克×夏特 世代重启》“剧情”预告片分享](https://www.3dmgame.com/news/202409/3904879.html)
+
++ [最佳PS4模拟器shadPS4 0.3.0版推出](https://www.3dmgame.com/news/202409/3904880.html)
+
++ [《索尼克大乱斗》确认登陆PC 新预告片展示模式](https://www.3dmgame.com/news/202409/3904878.html)
+
