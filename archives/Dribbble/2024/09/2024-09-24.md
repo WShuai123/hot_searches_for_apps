@@ -82,3 +82,7 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [UI-UX for an Automotive Product ✦ TechX](https://dribbble.com/shots/)
 
++ [Velobank - Digital Neo Bank Card Landing Page Website](https://dribbble.com/shots/)
+
++ [30/32 – Denver Avengers](https://dribbble.com/shots/)
+

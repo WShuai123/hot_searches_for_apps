@@ -145,3 +145,5 @@
 
 + [【RL Latest Tech】离线强化学习：保守Q学习 (CQL) 算法](https://blog.csdn.net/qq_51399582/article/details/142468898)
 
++ [【机器学习】---元强化学习](https://blog.csdn.net/2301_80863610/article/details/142478369)
+
