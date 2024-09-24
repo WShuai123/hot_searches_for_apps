@@ -199,3 +199,11 @@
 
 + [《三国志8重制版》角色政治排行榜 新要素战意介绍](https://www.3dmgame.com/news/202409/3904818.html)
 
++ [RX7800M最强外置显卡！OneXGPU 2售价6000元起](https://www.3dmgame.com/news/202409/3904833.html)
+
++ [亨利·卡维尔很喜欢《星际战士2》：目前沉迷PvP](https://www.3dmgame.com/news/202409/3904832.html)
+
++ [搞怪休闲竞速游戏《马头骑士》现已上线Steam平台](https://www.3dmgame.com/news/202409/3904831.html)
+
++ [上海迪士尼年底前将实行实名制购票新规 打击炒票黄牛](https://www.3dmgame.com/news/202409/3904830.html)
+

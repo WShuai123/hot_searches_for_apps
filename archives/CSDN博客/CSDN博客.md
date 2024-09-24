@@ -141,3 +141,7 @@
 
 + [【RL】基于迁移学习的强化学习（RL-TL）算法](https://blog.csdn.net/qq_51399582/article/details/142370970)
 
++ [学生宿舍管理：Spring Boot技术驱动](https://blog.csdn.net/2401_85761762/article/details/142457505)
+
++ [【RL Latest Tech】离线强化学习：保守Q学习 (CQL) 算法](https://blog.csdn.net/qq_51399582/article/details/142468898)
+

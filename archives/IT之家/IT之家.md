@@ -31,3 +31,9 @@
 
 + [88 岁“天际老奶奶”宣布停止制作游戏视频：累了，不再有趣](https://m.ithome.com/html/797833.htm)
 
++ [用户反映苹果 iPhone 16 Pro 出现触摸屏失灵问题，或与 iOS 18 有关](https://m.ithome.com/html/797818.htm)
+
++ [高德地图与百度地图发布《致歉函》：积极采取措施确保家电维修信息真实准确](https://m.ithome.com/html/797898.htm)
+
++ [小米 SU7 智驾总里程超 1000km 为何无法开启城市 NOA？官方回应](https://m.ithome.com/html/797828.htm)
+
