@@ -239,3 +239,23 @@
 
 + [搞笑漫画《我与机器子》剧场版官宣制作中 将于2025年4月18日上映](https://www.3dmgame.com/news/202409/3904840.html)
 
++ [宝可梦官方睡眠应用《宝可梦Sleep》现已支持智能手表](https://www.3dmgame.com/news/202409/3904859.html)
+
++ [华为：腕上可穿戴全球出货量第一 累计出货量超1.5亿](https://www.3dmgame.com/news/202409/3904856.html)
+
++ [腾讯新机器人小五问世 可以拿快递帮助老人等](https://www.3dmgame.com/news/202409/3904858.html)
+
++ [珞珈四号01星上天 可存储全国960万平方公里影像](https://www.3dmgame.com/news/202409/3904857.html)
+
++ [传SE成立DEI团队审查旗下游戏角色：蒂法将变丑？](https://www.3dmgame.com/news/202409/3904855.html)
+
++ [HBO新DC宇宙《绿灯侠》剧集哈尔·乔丹演员已确定](https://www.3dmgame.com/news/202409/3904854.html)
+
++ [摸着Intel过河！若成功三星也考虑分拆晶圆代工业务](https://www.3dmgame.com/news/202409/3904853.html)
+
++ [Steam最新一周销量榜 《EA SPORTS FC 25》登顶](https://www.3dmgame.com/news/202409/3904852.html)
+
++ [世家模拟器免费开玩 《吾今有世家》Demo上线Steam](https://www.3dmgame.com/news/202409/3904851.html)
+
++ [IGN偷懒被抓包 《FF7重生》仍是玩家投票榜单第一](https://www.3dmgame.com/news/202409/3904850.html)
+

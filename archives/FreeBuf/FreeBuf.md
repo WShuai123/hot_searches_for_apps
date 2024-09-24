@@ -55,3 +55,5 @@
 
 + [PingCastle：一款针对活动目录AD的安全强化工具](https://www.freebuf.com/sectool/410501.html)
 
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+

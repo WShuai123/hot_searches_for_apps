@@ -114,3 +114,19 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Workly - CRM Dashboard](https://dribbble.com/shots/)
 
++ [Property Management Dashboard](https://dribbble.com/shots/)
+
++ [Ecoflow - Outside view #2](https://dribbble.com/shots/)
+
++ [🪄 Progress Status](https://dribbble.com/shots/)
+
++ [Unfallpaten - Logo Design (U & Car)](https://dribbble.com/shots/)
+
++ [f letter, water drop logo design](https://dribbble.com/shots/)
+
++ [Eduwave - Online Course App Motion Exploration](https://dribbble.com/shots/)
+
++ [Architect Agency Website](https://dribbble.com/shots/)
+
++ [Mind Corp Logo](https://dribbble.com/shots/)
+
