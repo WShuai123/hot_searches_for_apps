@@ -127,3 +127,7 @@
 
 + [computed、watch、watchEffect区别](https://blog.csdn.net/AloneQi/article/details/142489677)
 
++ [豆包MarsCode帮我2小时完成Go语言系统从开发、测试到部署全流程最佳实践，云IDE迁移PHP企业级项目最佳实践](https://blog.csdn.net/wanmeijuhao/article/details/142440891)
+
++ [大数据Flink（一百二十四）：案例实践——淘宝母婴数据加速查询](https://blog.csdn.net/xiaoweite1/article/details/142494132)
+
