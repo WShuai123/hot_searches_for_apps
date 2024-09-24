@@ -53,3 +53,9 @@
 
 + [华为 WATCH GT 5 Pro 手表国行发布：首发向日葵定位系统、玄玑感知系统，2488 元起](https://m.ithome.com/html/797999.htm)
 
++ [《黑神话：悟空》IGN 投票第 1 掉至第 3：得票率诡异暴降，网站内定作者排名](https://m.ithome.com/html/798086.htm)
+
++ [小米 Redmi Note 14 Pro+ 手机首发第三代骁龙 7s 芯片，配备 6200mAh 金沙江电池](https://m.ithome.com/html/797936.htm)
+
++ [蔚来李斌吐槽：说好六大门派围攻毛豆 Y，结果乐道被友商捅了五刀](https://m.ithome.com/html/798036.htm)
+

@@ -142,3 +142,13 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Husky Logo](https://dribbble.com/shots/)
 
++ [Bird + G mark](https://dribbble.com/shots/)
+
++ [Corporate Website: Designing for a Greener Tomorrow](https://dribbble.com/shots/)
+
++ [Magic shelf](https://dribbble.com/shots/)
+
++ [Cat's not okay, but trust God's plan 😿🤲🏼](https://dribbble.com/shots/)
+
++ [Simple Poll - Advanced settings](https://dribbble.com/shots/)
+

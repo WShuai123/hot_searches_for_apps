@@ -279,3 +279,7 @@
 
 + [《黎明杀机》开发商Behaviour收购《暗黑地牢》开发商Red Hook](https://www.3dmgame.com/news/202409/3904868.html)
 
++ [停产在即 RTX 4090在德国涨价25%](https://www.3dmgame.com/news/202409/3904870.html)
+
++ [故意隐藏？SE已从Sweet Baby公司客户名单中移除](https://www.3dmgame.com/news/202409/3904871.html)
+
