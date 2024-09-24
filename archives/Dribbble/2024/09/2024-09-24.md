@@ -72,3 +72,5 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Of Kolsch I Still Love you](https://dribbble.com/shots/)
 
++ [Middlebury Magazine - Spot Illustrations](https://dribbble.com/shots/)
+

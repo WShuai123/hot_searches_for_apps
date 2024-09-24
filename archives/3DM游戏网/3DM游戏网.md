@@ -121,3 +121,15 @@
 
 + [外媒Digital Foundry确认泄露Switch 2真实可信](https://www.3dmgame.com/news/202409/3904786.html)
 
++ [《影之刃零》最高难度Boss战演示 来战个痛快！](https://www.3dmgame.com/news/202409/3904796.html)
+
++ [《战锤40K：星际战士2》可能有故事DLC或续作](https://www.3dmgame.com/news/202409/3904794.html)
+
++ [《铁血战士：狩猎场》主机版10月1日发售 登陆PS5和XSX|S](https://www.3dmgame.com/news/202409/3904795.html)
+
++ [卡普空询问玩家：是否想要更多的豪华复刻版](https://www.3dmgame.com/news/202409/3904793.html)
+
++ [《皇牌空战7：未知天际》Steam新史低 1折26.8元](https://www.3dmgame.com/news/202409/3904792.html)
+
++ [《刺客信条：影》天气系统不会对游戏性产生负面影响](https://www.3dmgame.com/news/202409/3904791.html)
+

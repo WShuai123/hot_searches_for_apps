@@ -25,3 +25,5 @@
 
 + [小米 14 手机获推澎湃 HyperOS 体验增强版 Beta 升级，小米平板 6S Pro 12.4 、Redmi K60 至尊版 9 月底前推送](https://m.ithome.com/html/797738.htm)
 
++ [【IT之家评测室】到手 iPhone 16 / Pro 三天三夜后，我要说些话了](https://m.ithome.com/html/797835.htm)
+

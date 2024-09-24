@@ -117,3 +117,7 @@
 
 + [【人工智能】Transformers之Pipeline（十九）：文生文（text2text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142453978)
 
++ [[Redis][持久化][上][RDB]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142454654)
+
++ [全国职业院校技能大赛（大数据赛项）-平台搭建Spark、Scala笔记](https://blog.csdn.net/xq_123dd/article/details/142468650)
+

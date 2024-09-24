@@ -75,3 +75,7 @@
 
 + [[影之刃:零]「极难」模式实机演示](http://www.acfun.cn/v/ac46287314)
 
++ [MIT-Hey](http://www.acfun.cn/v/ac46286239)
+
++ [【东方】東方発表会 专辑赏析【CarrotWine】](http://www.acfun.cn/v/ac46287330)
+
