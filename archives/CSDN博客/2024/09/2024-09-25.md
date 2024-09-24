@@ -131,3 +131,5 @@
 
 + [大数据Flink（一百二十四）：案例实践——淘宝母婴数据加速查询](https://blog.csdn.net/xiaoweite1/article/details/142494132)
 
++ [网络原理 HTTP与HTTPS协议](https://blog.csdn.net/jj666mhhh/article/details/142410463)
+
