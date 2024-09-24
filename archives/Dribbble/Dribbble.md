@@ -78,3 +78,7 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Case Study: Rebrandly](https://dribbble.com/shots/)
 
++ [Playex - AI Website](https://dribbble.com/shots/)
+
++ [UI-UX for an Automotive Product ✦ TechX](https://dribbble.com/shots/)
+

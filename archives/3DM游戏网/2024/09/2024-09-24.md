@@ -173,3 +173,29 @@
 
 + [《圣兽之王》全球销量突破100万 将举行7折特卖促销](https://www.3dmgame.com/news/202409/3904807.html)
 
++ [爽到窒息！！赛博喜羊羊动作肉鸽《Stand-Alone》免费试玩开启！](https://www.3dmgame.com/news/202409/3904825.html)
+
++ [《星际战甲》手机端开发商再获DE 550万美元投资](https://www.3dmgame.com/news/202409/3904826.html)
+
++ [《MÖRK BORG Heresy Supreme》Steam页面开放 2025年发售](https://www.3dmgame.com/news/202409/3904828.html)
+
++ [复古像素风格回合制战术冒险游戏《雅典娜危机》现已正式推出并获得好评](https://www.3dmgame.com/news/202409/3904829.html)
+
++ [《Tomomon: Legacy of Light》登陆Steam 妖怪育成](https://www.3dmgame.com/news/202409/3904827.html)
+
++ [资深游戏评论家谈任帕之争 时机点对立方与未来](https://www.3dmgame.com/news/202409/3904819.html)
+
++ [真人互动式电影《无法抗拒的他们》Steam页面上线 2024年发售](https://www.3dmgame.com/news/202409/3904820.html)
+
++ [《雷霆特工队》海报疑似使用AI引争议 哨兵演员右手似有6根手指](https://www.3dmgame.com/news/202409/3904821.html)
+
++ [系列首次 《塞尔达传说：智慧的回响》由女总监佐野友美监督制作](https://www.3dmgame.com/news/202409/3904822.html)
+
++ [传闻：《GTA6》主线剧情长度短于《荒野大镖客2》](https://www.3dmgame.com/news/202409/3904823.html)
+
++ [分析师不看好高通收购英特尔：现金太少阻碍太多](https://www.3dmgame.com/news/202409/3904824.html)
+
++ [NetherRealm老板透露：工作室新作已经开发3年](https://www.3dmgame.com/news/202409/3904817.html)
+
++ [《三国志8重制版》角色政治排行榜 新要素战意介绍](https://www.3dmgame.com/news/202409/3904818.html)
+
