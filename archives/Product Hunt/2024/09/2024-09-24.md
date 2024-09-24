@@ -151,3 +151,7 @@
 
 + [PinMy](https://www.producthunt.com/posts/pinmy-2)
 
++ [Panels](https://www.producthunt.com/posts/panels-2)
+
++ [PlanningPoker for Google Meet](https://www.producthunt.com/posts/planningpoker-for-google-meet)
+

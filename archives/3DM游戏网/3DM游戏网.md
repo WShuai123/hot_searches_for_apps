@@ -219,3 +219,23 @@
 
 + [《狼与香辛料》新版TV动画官宣第二季制作决定 全新视觉图一并公布](https://www.3dmgame.com/news/202409/3904839.html)
 
++ [《钢之战骑ARMIS》Steam上线 机甲肉鸽动作射击](https://www.3dmgame.com/news/202409/3904849.html)
+
++ [华为、小米等卫星手机都受影响！中国电信天通卫星9月27日升级改造](https://www.3dmgame.com/news/202409/3904848.html)
+
++ [《王国：两位君主》新DLC“奥林匹斯的召唤”宣布10月8日上线 定价42元](https://www.3dmgame.com/news/202409/3904847.html)
+
++ [AI作画重审后 宝可梦卡牌插画获奖者正式公布](https://www.3dmgame.com/news/202409/3904846.html)
+
++ [《龙腾世纪：影幛守护者》中玩家角色可以破坏同伴之间的恋情](https://www.3dmgame.com/news/202409/3904845.html)
+
++ [《百鬼夜行幸存者》25年2月登陆PC 古风吸幸射击](https://www.3dmgame.com/news/202409/3904844.html)
+
++ [第一人称心理恐怖游戏《破碎怪谈：DON“T WATCH》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202409/3904843.html)
+
++ [30周年纪念PS5港版宣布11月21日发售 限量供应](https://www.3dmgame.com/news/202409/3904842.html)
+
++ [《星际战士2》开发商老板：大获成功并非完全是好事](https://www.3dmgame.com/news/202409/3904841.html)
+
++ [搞笑漫画《我与机器子》剧场版官宣制作中 将于2025年4月18日上映](https://www.3dmgame.com/news/202409/3904840.html)
+
