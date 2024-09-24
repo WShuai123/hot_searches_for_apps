@@ -121,3 +121,21 @@
 
 + [全国职业院校技能大赛（大数据赛项）-平台搭建Spark、Scala笔记](https://blog.csdn.net/xq_123dd/article/details/142468650)
 
++ [【自动驾驶】基于车辆几何模型的横向控制算法 | Pure Pursuit 纯跟踪算法详解与编程实现](https://blog.csdn.net/weixin_51200029/article/details/142419401)
+
++ [【机器学习】生成对抗网络（GAN）——生成新数据的神经网络](https://blog.csdn.net/2202_76097976/article/details/142443560)
+
++ [828华为云征文 | 将Vue项目部署到Flexus云服务器X实例并实现公网访问](https://blog.csdn.net/qq_53317005/article/details/142467798)
+
++ [MySQL —— 事务](https://blog.csdn.net/liwuqianhzc/article/details/142391956)
+
++ [【计算机网络篇】数据链路层 功能|组帧|流量控制与可靠传输机制](https://blog.csdn.net/m0_74202856/article/details/142382342)
+
++ [HarmonyOS鸿蒙开发实战（5.0）悬浮窗拖拽和吸附动画实践](https://blog.csdn.net/weixin_55362248/article/details/142442748)
+
++ [python爬虫：将知乎专栏文章转为pdf](https://blog.csdn.net/weixin_73004416/article/details/142434799)
+
++ [【Unity精品源码】JU TPS 3 – 完整的第三人称射击游戏模板](https://blog.csdn.net/UnityBoy/article/details/142422353)
+
++ [【Linux】Docker：离线主机部署](https://blog.csdn.net/2303_80346267/article/details/142434899)
+

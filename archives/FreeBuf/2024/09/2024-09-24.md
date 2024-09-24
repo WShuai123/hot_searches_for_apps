@@ -45,3 +45,5 @@
 
 + [猫鼠游戏： KaijiK病毒入侵溯源分析](https://www.freebuf.com/articles/network/410764.html)
 
++ [全面解析CVE-2024-22263：任意文件写入漏洞及其影响](https://www.freebuf.com/vuls/410120.html)
+

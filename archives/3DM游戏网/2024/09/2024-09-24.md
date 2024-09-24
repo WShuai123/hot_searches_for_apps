@@ -133,3 +133,9 @@
 
 + [《刺客信条：影》天气系统不会对游戏性产生负面影响](https://www.3dmgame.com/news/202409/3904791.html)
 
++ [电影制作公司Stellarblade因游戏《星刃》与其同名而起诉索尼](https://www.3dmgame.com/news/202409/3904799.html)
+
++ [《南国盛宴》Steam页面上线 治愈系肉鸽经营模拟](https://www.3dmgame.com/news/202409/3904798.html)
+
++ [《死或生：女神假期》新作9月27日公布 带来全新体验](https://www.3dmgame.com/news/202409/3904797.html)
+
