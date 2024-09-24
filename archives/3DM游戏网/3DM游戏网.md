@@ -283,3 +283,7 @@
 
 + [故意隐藏？SE已从Sweet Baby公司客户名单中移除](https://www.3dmgame.com/news/202409/3904871.html)
 
++ [《凯恩的遗产1+2复刻版》泄露 预计12月10日推出](https://www.3dmgame.com/news/202409/3904873.html)
+
++ [余承东：10月8日纯血鸿蒙开启公测](https://www.3dmgame.com/news/202409/3904872.html)
+

@@ -152,3 +152,11 @@ GRITTERS Chalker Brush Set](https://dribbble.com/shots/)
 
 + [Simple Poll - Advanced settings](https://dribbble.com/shots/)
 
++ [Pretzel](https://dribbble.com/shots/)
+
++ [Stressed or Relaxed?](https://dribbble.com/shots/)
+
++ [Zolve Smart Assistant - Branding](https://dribbble.com/shots/)
+
++ [Finance Payment Website 2024](https://dribbble.com/shots/)
+

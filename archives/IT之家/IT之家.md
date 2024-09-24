@@ -59,3 +59,7 @@
 
 + [蔚来李斌吐槽：说好六大门派围攻毛豆 Y，结果乐道被友商捅了五刀](https://m.ithome.com/html/798036.htm)
 
++ [我国首个永久基本农田查询平台上线](https://m.ithome.com/html/797931.htm)
+
++ [鸿蒙智行旗下首款轿跑 SUV 智界 R7 上市：可选华为 ADS 3.0 高阶智驾，25.98 万元起](https://m.ithome.com/html/798052.htm)
+
