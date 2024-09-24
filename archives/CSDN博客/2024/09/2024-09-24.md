@@ -177,3 +177,7 @@
 
 + [【计算机网络】详解UDP套接字&网络字节序&IP地址&端口号](https://blog.csdn.net/m0_74265792/article/details/140540481)
 
++ [CC 攻击：一种特殊的 DDoS 攻击](https://blog.csdn.net/NSME1/article/details/142466460)
+
++ [【Linux】解锁管道通信和共享内存通信，探索进程间通信的海洋](https://blog.csdn.net/hanwangyyds/article/details/142281571)
+

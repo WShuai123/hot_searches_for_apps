@@ -27,3 +27,17 @@
 
 + [aristocratos / btop](https://github.com/aristocratos/btop)
 
++ [localsend / localsend](https://github.com/localsend/localsend)
+
++ [Kanaries / pygwalker](https://github.com/Kanaries/pygwalker)
+
++ [srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
+
++ [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [caorushizi / mediago](https://github.com/caorushizi/mediago)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
+

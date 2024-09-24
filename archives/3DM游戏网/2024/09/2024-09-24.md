@@ -259,3 +259,13 @@
 
 + [IGN偷懒被抓包 《FF7重生》仍是玩家投票榜单第一](https://www.3dmgame.com/news/202409/3904850.html)
 
++ [育碧2024东京电玩展线上直播节目取消 原因未知](https://www.3dmgame.com/news/202409/3904864.html)
+
++ [外媒称《星刃》女主身材太假 《龙腾世纪4》捏脸很帅](https://www.3dmgame.com/news/202409/3904860.html)
+
++ [​​《炉石传说》国服开服FAQ ​​明日正式开服](https://www.3dmgame.com/news/202409/3904861.html)
+
++ [库存零件即将耗尽 任天堂New 2DS预订停止官方维修服务](https://www.3dmgame.com/news/202409/3904862.html)
+
++ [《Dress the Duel》Steam上线 创意换衣卡牌战斗](https://www.3dmgame.com/news/202409/3904863.html)
+

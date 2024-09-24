@@ -47,3 +47,5 @@
 
 + [（更新）英特尔被曝已取消 Arrow Lake-S/HX Refresh 处理器，未来将推 Razer Lake](https://m.ithome.com/html/797799.htm)
 
++ [腾讯客服：华为鸿蒙 HarmonyOS NEXT 版微信适配工作进展顺利，目前正在开发过程中](https://m.ithome.com/html/798044.htm)
+
