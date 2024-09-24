@@ -139,3 +139,37 @@
 
 + [《死或生：女神假期》新作9月27日公布 带来全新体验](https://www.3dmgame.com/news/202409/3904797.html)
 
++ [《林间小世界》登陆Steam 休闲治愈城堡建造](https://www.3dmgame.com/news/202409/3904816.html)
+
++ [《寻路者》开发商Airship Syndicate进行今年第二波裁员](https://www.3dmgame.com/news/202409/3904812.html)
+
++ [传《生化危机9》将于2025年下半年发售 期待吗？](https://www.3dmgame.com/news/202409/3904814.html)
+
++ [开发商发出警告 《驱灵者：新伊甸的幽灵》销量远低于预期](https://www.3dmgame.com/news/202409/3904815.html)
+
++ [《美德传奇fRemastered》Steam页面开放 明年1月17日发售](https://www.3dmgame.com/news/202409/3904813.html)
+
++ [《勇者斗恶龙10》7.2版新情报公开 迈向龙族世界](https://www.3dmgame.com/news/202409/3904810.html)
+
++ [《墨境》参展TGS 2024！现场开放游戏试玩！](https://www.3dmgame.com/news/202409/3904809.html)
+
++ [《黑神话：悟空》DLC确认开发中 游戏周边在考虑中](https://www.3dmgame.com/news/202409/3904808.html)
+
++ [高分经典续作《角斗士2》曝全新预告 罗马帝国史诗战争打响](https://www.3dmgame.com/news/202409/3904806.html)
+
++ [网易旗下加拿大独立开发商Skybox Lab宣布裁员](https://www.3dmgame.com/news/202409/3904805.html)
+
++ [小心！你可能在《战锤40K：星际战士2》中遇到过大超](https://www.3dmgame.com/news/202409/3904804.html)
+
++ [黑暗奇幻第一人称射击游戏《巫火》现已结束Epic独占并在Steam平台推出抢先体验版](https://www.3dmgame.com/news/202409/3904803.html)
+
++ [任天堂已向美国联邦通信委员会备案一个新电子设备](https://www.3dmgame.com/news/202409/3904802.html)
+
++ [俄总统普京：拨款支持本国游戏开发商发展](https://www.3dmgame.com/news/202409/3904801.html)
+
++ [Steam好评如潮 独立游戏《Gris》暂无计划推出续作](https://www.3dmgame.com/news/202409/3904800.html)
+
++ [调查解谜游戏《红灯下的死亡》现已在Steam平台正式推出并获得好评](https://www.3dmgame.com/news/202409/3904811.html)
+
++ [《圣兽之王》全球销量突破100万 将举行7折特卖促销](https://www.3dmgame.com/news/202409/3904807.html)
+

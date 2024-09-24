@@ -47,3 +47,5 @@
 
 + [全面解析CVE-2024-22263：任意文件写入漏洞及其影响](https://www.freebuf.com/vuls/410120.html)
 
++ [又一安卓恶意软件曝光，至少1100 万台设备已“中招”！](https://www.freebuf.com/news/411574.html)
+
