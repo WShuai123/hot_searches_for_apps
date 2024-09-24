@@ -101,3 +101,7 @@
 
 + [Llama 3.1 技术研究报告-2](https://blog.csdn.net/yangzheng_520/article/details/142459128)
 
++ [GPT和Copilot联手，AI编程进入新纪元](https://blog.csdn.net/shi_hong_fei_hei/article/details/140897902)
+
++ [【在Linux世界中追寻伟大的One Piece】验证TCP](https://blog.csdn.net/weixin_74809706/article/details/142446337)
+

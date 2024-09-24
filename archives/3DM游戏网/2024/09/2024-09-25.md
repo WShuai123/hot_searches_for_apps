@@ -101,3 +101,11 @@
 
 + [资深游戏评论家谈任帕之争 时机点对立方与未来](https://www.3dmgame.com/news/202409/3904819.html)
 
++ [《铁拳8》三岛平八角色预告 9月30日上线](https://www.3dmgame.com/news/202409/3904877.html)
+
++ [沉浸式模拟《Albatroz》11月1日发售 登陆多平台](https://www.3dmgame.com/news/202409/3904874.html)
+
++ [知名推特主预测PS发布会阵容：《生化危机9》等](https://www.3dmgame.com/news/202409/3904875.html)
+
++ [小米15 Pro入网：小米2024终极大作](https://www.3dmgame.com/news/202409/3904876.html)
+

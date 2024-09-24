@@ -25,3 +25,5 @@
 
 + [2024 华为秋季全场景新品发布会一文汇总：纯血鸿蒙公测，智界 R7、手表、智慧屏齐登场](https://m.ithome.com/html/798097.htm)
 
++ [iQOO Z9 Turbo+ 手机发布：天玑 9300+、6400mAh 蓝海电池，2199 元起](https://m.ithome.com/html/798094.htm)
+
