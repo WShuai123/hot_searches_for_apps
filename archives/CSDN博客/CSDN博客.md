@@ -105,3 +105,25 @@
 
 + [【在Linux世界中追寻伟大的One Piece】验证TCP](https://blog.csdn.net/weixin_74809706/article/details/142446337)
 
++ [【大模型】AutoDL部署AI绘图大模型Stable Diffusion使用详解](https://blog.csdn.net/zhangcongyi420/article/details/142412106)
+
++ [项目实战：Qt+OSG爆破动力学仿真三维引擎测试工具v1.1.0（加载.K模型，子弹轨迹模拟动画，支持windows、linux、国产麒麟系统）](https://blog.csdn.net/qq21497936/article/details/142454993)
+
++ [Python的NLTK模块详细介绍与实战案例](https://blog.csdn.net/yuan2019035055/article/details/142439069)
+
++ [【C++】检测TCP链接超时——时间轮组件设计](https://blog.csdn.net/2301_79796701/article/details/142495182)
+
++ [网络：TCP协议-报头字段](https://blog.csdn.net/li209779/article/details/142440116)
+
++ [整合多方大佬博客以及视频 一文读懂 servlet](https://blog.csdn.net/m0_75148088/article/details/142437890)
+
++ [构建高可用和高防御力的云服务架构第五部分：PolarDB（5/5）](https://blog.csdn.net/beautifulmemory/article/details/142440384)
+
++ [现代前端框架实战指南：React、Vue.js、Angular核心概念与应用](https://blog.csdn.net/m0_67484548/article/details/142440609)
+
++ [Vue3 中集成海康 H5 监控视频播放功能](https://blog.csdn.net/2302_76329106/article/details/142491419)
+
++ [在一个.NET Core项目中使用RabbitMQ进行即时消息管理](https://blog.csdn.net/sixpp/article/details/142483480)
+
++ [computed、watch、watchEffect区别](https://blog.csdn.net/AloneQi/article/details/142489677)
+

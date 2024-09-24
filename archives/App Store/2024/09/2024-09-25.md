@@ -201,3 +201,11 @@
 
 + [智行火车票-铁路抢票、机票酒店火车票预订平台](https://itunes.apple.com/cn/app/id651323845?mt=8)
 
++ [西瓜视频](https://itunes.apple.com/cn/app/id1134496215?mt=8)
+
++ [网易大神-炉石传说国服回归](https://itunes.apple.com/cn/app/id1359055423?mt=8)
+
++ [志愿汇](https://itunes.apple.com/cn/app/id959468399?mt=8)
+
++ [WiFi万能钥匙极速版 - 安全wi-fi无线上网管家](https://itunes.apple.com/cn/app/id1544429501?mt=8)
+

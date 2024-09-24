@@ -49,3 +49,9 @@
 
 + [NexHR - Branding Indentity](https://dribbble.com/shots/)
 
++ [The Orlando Eye](https://dribbble.com/shots/)
+
++ [🍁👁️Autumn Cardigan Illustration🍂✨](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar](https://dribbble.com/shots/)
+
