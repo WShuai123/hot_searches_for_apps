@@ -101,3 +101,13 @@
 
 + [Wedding Agency Mobile Website](https://dribbble.com/shots/)
 
++ [Collateral - Babas Kabab Shop Seattle](https://dribbble.com/shots/)
+
++ [Zenith, cloud services, Z letter mark negative space logo design](https://dribbble.com/shots/)
+
++ [Pray Cloud Logo Design - Faith, Cross, Religion](https://dribbble.com/shots/)
+
++ [Dashflow Sales Management Platform 2024](https://dribbble.com/shots/)
+
++ [Viking Logo](https://dribbble.com/shots/)
+

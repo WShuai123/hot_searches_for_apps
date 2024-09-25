@@ -35,3 +35,7 @@
 
 + [华为 Pura 70 系列手机推送 HarmonyOS 4.2.0.180SP1：升级相机 XMAGE 人像引擎](https://m.ithome.com/html/798116.htm)
 
++ [华为 Mate 70 系列被曝整机已量产，定于 11 月上市](https://m.ithome.com/html/798222.htm)
+
++ [苹果 CEO 库克：iPhone 16 发售时粉丝的热情让我感觉“灵魂出窍”](https://m.ithome.com/html/798092.htm)
+
