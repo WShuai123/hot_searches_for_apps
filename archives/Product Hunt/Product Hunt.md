@@ -105,3 +105,27 @@
 
 + [PolyPlan](https://www.producthunt.com/posts/polyplan-2)
 
++ [Spotify AI Playlist](https://www.producthunt.com/posts/spotify-ai-playlist)
+
++ [Haystack](https://www.producthunt.com/posts/haystack-6)
+
++ [sudoku.coach](https://www.producthunt.com/posts/sudoku-coach-2)
+
++ [App Lock by Lilucat](https://www.producthunt.com/posts/app-lock-by-lilucat)
+
++ [Y-Pod](https://www.producthunt.com/posts/y-pod)
+
++ [Polarsteps](https://www.producthunt.com/posts/polarsteps-3)
+
++ [Not Common](https://www.producthunt.com/posts/not-common)
+
++ [Diagrid Catalyst](https://www.producthunt.com/posts/diagrid-catalyst)
+
++ [Workflow Kit by Inngest](https://www.producthunt.com/posts/workflow-kit-by-inngest)
+
++ [LlamaCoder](https://www.producthunt.com/posts/llamacoder)
+
++ [Dubble](https://www.producthunt.com/posts/dubble-2)
+
++ [Heatbot.io](https://www.producthunt.com/posts/heatbot-io)
+

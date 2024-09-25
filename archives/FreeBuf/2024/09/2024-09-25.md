@@ -55,3 +55,5 @@
 
 + [服务器端漏洞篇 | NoSql注入专题](https://www.freebuf.com/articles/web/410631.html)
 
++ [Subdominator：一款针对漏洞奖励计划的子域名安全枚举工具](https://www.freebuf.com/sectool/410568.html)
+

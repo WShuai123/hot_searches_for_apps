@@ -165,3 +165,11 @@
 
 + [外包功能测试干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/hlsxjh/article/details/142489571)
 
++ [Spring Cloud ：Hystrix实现优雅的服务容错](https://blog.csdn.net/m0_67187271/article/details/142473166)
+
++ [Flutter 之 ftcon24usa 大会，创始人分享 Flutter 十年发展史，一闪而过的鸿蒙身影](https://blog.csdn.net/ZuoYueLiang/article/details/142487171)
+
++ [http增删改查四种请求方式操纵数据库](https://blog.csdn.net/m0_63178019/article/details/142478096)
+
++ [Redis: 特色，业务场景举例，底层原理，持续进阶等问题梳理](https://blog.csdn.net/Tyro_java/article/details/142492224)
+
