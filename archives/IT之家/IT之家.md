@@ -55,3 +55,5 @@
 
 + [苹果发布 iOS / iPadOS 18.1、macOS 15.1 Sequoia 第 2 个公测版：增强 iPhone 镜像等](https://m.ithome.com/html/798153.htm)
 
++ [苹果客服回应 App Store 商店软件涉黄：上架审核非常严格，用户提供资料后会介入调查](https://m.ithome.com/html/798313.htm)
+

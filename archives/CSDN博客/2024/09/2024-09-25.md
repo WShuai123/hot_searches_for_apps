@@ -207,3 +207,9 @@
 
 + [外包干了3天，技术退步明显.......](https://blog.csdn.net/2301_81967703/article/details/142501622)
 
++ [XSS靶场 8-17关](https://blog.csdn.net/jijhvuu/article/details/142484306)
+
++ [探索Llama 3.1：开源模型的本地部署与创新应用实践](https://blog.csdn.net/qq_51601665/article/details/142503263)
+
++ [【云原生安全篇】Trivy助力离线Harbor漏洞扫描实践](https://blog.csdn.net/u013522701/article/details/142470707)
+

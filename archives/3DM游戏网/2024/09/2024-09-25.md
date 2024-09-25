@@ -345,3 +345,9 @@
 
 + [PS5 Pro：14家开发商详解如何针对进行游戏强化](https://www.3dmgame.com/news/202409/3904974.html)
 
++ [《对马岛之鬼》全球销量现已超过1300万套](https://www.3dmgame.com/news/202409/3904976.html)
+
++ [拍摄新突破！索尼发布LYT-818手机CMOS](https://www.3dmgame.com/news/202409/3904977.html)
+
++ [狐狸尾巴露出来？SBI称目标是彻底摧毁游戏行业](https://www.3dmgame.com/news/202409/3904978.html)
+
