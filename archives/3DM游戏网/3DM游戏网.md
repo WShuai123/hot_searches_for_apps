@@ -219,3 +219,5 @@
 
 + [即时战略游戏《Empire Eternal》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904930.html)
 
++ [透明特别版Xbox无线手柄公布 10月8日发售](https://www.3dmgame.com/news/202409/3904933.html)
+

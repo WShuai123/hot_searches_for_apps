@@ -85,3 +85,5 @@
 
 + [一个字：极品！](http://www.acfun.cn/v/ac46292297)
 
++ [[怪物猎人:荒野]发售日预告](http://www.acfun.cn/v/ac46292281)
+
