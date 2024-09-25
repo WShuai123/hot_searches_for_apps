@@ -201,3 +201,9 @@
 
 + [智谱清言](https://itunes.apple.com/cn/app/id6450893458?mt=8)
 
++ [墨迹天气-看天气用墨迹](https://itunes.apple.com/cn/app/id434209233?mt=8)
+
++ [地震预警-倒计时警报](https://itunes.apple.com/cn/app/id713947342?mt=8)
+
++ [米家](https://itunes.apple.com/cn/app/id957323480?mt=8)
+

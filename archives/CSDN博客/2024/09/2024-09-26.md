@@ -107,3 +107,25 @@
 
 + [外包干了3天，技术退步明显.......](https://blog.csdn.net/2301_81967703/article/details/142501622)
 
++ [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/142451632)
+
++ [【C++篇】引领C++模板初体验：泛型编程的力量与妙用](https://blog.csdn.net/2301_79849925/article/details/142364774)
+
++ [【AI战略思考4】我与马斯克和乔布斯的最关键差距在哪，如何缩小？](https://blog.csdn.net/weixin_43221845/article/details/142466692)
+
++ [SpringBoot的应用](https://blog.csdn.net/xike1024/article/details/142504217)
+
++ [【计网】从零开始学习http协议 --- http的请求与应答](https://blog.csdn.net/JLX_1/article/details/142495719)
+
++ [18.1 k8s服务组件之4大黄金指标讲解](https://blog.csdn.net/weixin_48502062/article/details/142498813)
+
++ [网络爬虫进阶](https://blog.csdn.net/m0_75068951/article/details/142491489)
+
++ [路径处理 | 关键点提取之Douglas–Peucker算法(附ROS C++/Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/142444848)
+
++ [本地搭建OnlyOffice在线文档编辑器结合内网穿透实现远程协作](https://blog.csdn.net/ks_wyf/article/details/142520962)
+
++ [【油猴脚本】00015 案例 Tampermonkey油猴脚本， 仅用于学习，不要乱搞。优化UI界面，Jquery爬虫，JavaScript爬虫，HTML+Css+JavaScript编写](https://blog.csdn.net/qq_33650655/article/details/142494183)
+
++ [从画质设置看游戏引擎（其一）](https://blog.csdn.net/m0_73727069/article/details/142493778)
+
