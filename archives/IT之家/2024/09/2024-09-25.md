@@ -39,3 +39,11 @@
 
 + [苹果 CEO 库克：iPhone 16 发售时粉丝的热情让我感觉“灵魂出窍”](https://m.ithome.com/html/798092.htm)
 
++ [瑞士首次使用“安乐死胶囊舱”，相关人员涉嫌协助自杀被捕](https://m.ithome.com/html/798230.htm)
+
++ [IGN 联合创始人回应《黑神话：悟空》投票波动：没有操作票数，而是过滤了机器人](https://m.ithome.com/html/798254.htm)
+
++ [高通骁龙 8 Gen 5 芯片被曝 2+6 CPU 配置：P 核 5.0 GHz、E 核 4.0 GHz](https://m.ithome.com/html/798195.htm)
+
++ [全球排名第一，消息称“纳米发电机之父”王中林离美回中国任职](https://m.ithome.com/html/798228.htm)
+

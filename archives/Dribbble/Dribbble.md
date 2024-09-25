@@ -111,3 +111,11 @@
 
 + [Viking Logo](https://dribbble.com/shots/)
 
++ [OG - Elegant Fashion Ecommerce Modern Website Responsive Design](https://dribbble.com/shots/)
+
++ [Hannah illustrations](https://dribbble.com/shots/)
+
++ [R and rabbit](https://dribbble.com/shots/)
+
++ [Sora Logo (unofficially)](https://dribbble.com/shots/)
+

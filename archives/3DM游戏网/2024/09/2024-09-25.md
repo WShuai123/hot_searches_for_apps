@@ -249,3 +249,73 @@
 
 + [列文虎克玩家发现《绝地潜兵2》开场动画重大错误 游戏总监坦言两年多来并未注意到](https://www.3dmgame.com/news/202409/3904940.html)
 
++ [首发预装HarmonyOS NEXT！华为Mate 70系列零部件已开始供货：11月发布](https://www.3dmgame.com/news/202409/3904951.html)
+
++ [鸟山明等漫画大师绝密原稿插画公开 简单笔画功力深藏](https://www.3dmgame.com/news/202409/3904952.html)
+
++ [星纪魅族推出全新产品系列品牌STAR 专注于智能眼镜和智能汽车](https://www.3dmgame.com/news/202409/3904953.html)
+
++ [“如龙”系列热门作品限时特惠！精选《如龙８》与《如龙０ 誓约的场所》大促中！](https://www.3dmgame.com/news/202409/3904954.html)
+
++ [类魂动作RPG游戏《艾诺提亚：失落之歌》新预告片现已公开！](https://www.3dmgame.com/news/202409/3904955.html)
+
++ [《贪婪之秋 2:垂死世界》, The Casting of Frank Stone发布并支持DLSS](https://www.3dmgame.com/news/202409/3904956.html)
+
++ [ATLUS×VANILLAWAR 全新策略模拟RPG《圣兽之王》全球销量突破100万份！](https://www.3dmgame.com/news/202409/3904958.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》现已发布可游玩完整开篇内容的免费体验版！](https://www.3dmgame.com/news/202409/3904957.html)
+
++ [《真三国无双：起源》全新截图 吕布貂蝉等亮相](https://www.3dmgame.com/news/202409/3904959.html)
+
++ [《超级猴子球 香蕉大乱斗》 免费领取索尼克与夏特球套装活动现已开启](https://www.3dmgame.com/news/202409/3904960.html)
+
++ [“SEGA秋季促销”火热进行中 《真·女神转生Ⅴ Vengeance》及《圣兽之王》首次参与促销！](https://www.3dmgame.com/news/202409/3904961.html)
+
++ [世嘉/ATLUS“2024年东京电玩展”展区精彩内容详情公开](https://www.3dmgame.com/news/202409/3904962.html)
+
++ [《辐射》电视剧第二季正加速推进制作](https://www.3dmgame.com/news/202406/3896649.html)
+
++ [传2K将在夏季游戏节上公布《无主之地4》](https://www.3dmgame.com/news/202406/3896651.html)
+
++ [《博德之门3》Steam平均游玩时长超100小时 难以置信](https://www.3dmgame.com/news/202406/3896652.html)
+
++ [恐怖游戏爱好者福音 夏季游戏节上将展示多个恐怖游戏](https://www.3dmgame.com/news/202406/3896653.html)
+
++ [超越苹果！英伟达市值首次超过3万亿美元](https://www.3dmgame.com/news/202406/3896654.html)
+
++ [经典日恐名作《钟楼复刻版》Steam上线 今年登陆全平台](https://www.3dmgame.com/news/202406/3896656.html)
+
++ [《GTA6》对主机市场很重要 让玩家有购买新机的欲望](https://www.3dmgame.com/news/202406/3896655.html)
+
++ [《天国：拯救2》将在夏季游戏节上公布新预告](https://www.3dmgame.com/news/202406/3896657.html)
+
++ [索尼多人科幻射击游戏《Concord》售价曝光 标准版308港币](https://www.3dmgame.com/news/202406/3896658.html)
+
++ [《Concord》PC端将强制要求绑定PSN账号](https://www.3dmgame.com/news/202406/3896660.html)
+
++ [《歧路旅人》登陆PS 《歧路旅人2》登陆Xbox加入XGP](https://www.3dmgame.com/news/202406/3896659.html)
+
++ [像素风模拟经营《Chef RPG》9月12日发售 暂不支持中文](https://www.3dmgame.com/news/202406/3896661.html)
+
++ [《无畏契约》因“日程冲突”或将不参加电竞世界杯](https://www.3dmgame.com/news/202406/3896662.html)
+
++ [《漫威争锋》Steam愿望单数量突破百万 封测7月推出](https://www.3dmgame.com/news/202406/3896663.html)
+
++ [《巫师3》HD重制Mod次世代版新视频 今年秋季正式发布](https://www.3dmgame.com/news/202406/3896664.html)
+
++ [开放世界生存游戏《崩溃大陆2》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202406/3896665.html)
+
++ [在《Concord》大失所望后 粉丝呼吁SIE复活《抵抗》和《杀戮地带》系列](https://www.3dmgame.com/news/202406/3896666.html)
+
++ [生死一线×动作RPG《夜街酷斗》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202406/3896667.html)
+
++ [《白蛇：浮生》新预告发布 一念缘起一世缘续](https://www.3dmgame.com/news/202406/3896669.html)
+
++ [《８番出口VR》7月12日发售 更具临场感的惊悚解谜](https://www.3dmgame.com/news/202406/3896668.html)
+
++ [NEOWIZ《匹诺曹的谎言》官方周边线上开业…推出IP周边商品](https://www.3dmgame.com/news/202409/3904948.html)
+
++ [养成类肉鸽游戏《DRAPLINE》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3904950.html)
+
++ [任天堂使用AI版权工具 清除互联网上的马里奥AI生成图片](https://www.3dmgame.com/news/202409/3904949.html)
+
