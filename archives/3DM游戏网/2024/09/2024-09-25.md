@@ -319,3 +319,19 @@
 
 + [任天堂使用AI版权工具 清除互联网上的马里奥AI生成图片](https://www.3dmgame.com/news/202409/3904949.html)
 
++ [IGN回应修改《黑神话：悟空》投票数据：没改 只是剔除了机器人投票](https://www.3dmgame.com/news/202409/3904969.html)
+
++ [1200W峰值功率！RTX 5090显卡可能上双16针供电](https://www.3dmgame.com/news/202409/3904970.html)
+
++ [《永恒寒冬》Steam玩家评价褒贬不一：生存资源会随现实时间流失](https://www.3dmgame.com/news/202409/3904968.html)
+
++ [KK官方对战平台SKY对战专区全新赛年发布，S1赛季圣光信仰震撼开启！万元奖池等你来瓜分！](https://www.3dmgame.com/news/202409/3904966.html)
+
++ [KK官方对战平台《无尽对决》震撼上线：PVPVE策略对抗新纪元](https://www.3dmgame.com/news/202409/3904965.html)
+
++ [《Forge of the Fae》众筹开启 凯尔特神话复古日式RPG](https://www.3dmgame.com/news/202409/3904967.html)
+
++ [《黑神话》初代蜘蛛精六妹建模图 合法萝莉很可爱](https://www.3dmgame.com/news/202409/3904964.html)
+
++ [瑞士首次使用“安乐死胶囊舱”相关人员火速被捕](https://www.3dmgame.com/news/202409/3904963.html)
+

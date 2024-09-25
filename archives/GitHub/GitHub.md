@@ -25,3 +25,17 @@
 
 + [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
 
++ [cpacker / MemGPT](https://github.com/cpacker/MemGPT)
+
++ [wgh136 / PicaComic](https://github.com/wgh136/PicaComic)
+
++ [microsoft / azurelinux](https://github.com/microsoft/azurelinux)
+
++ [kestra-io / kestra](https://github.com/kestra-io/kestra)
+
++ [stanfordnlp / dspy](https://github.com/stanfordnlp/dspy)
+
++ [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+

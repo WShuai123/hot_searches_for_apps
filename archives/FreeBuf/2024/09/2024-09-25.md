@@ -61,3 +61,7 @@
 
 + [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
 
++ [Pick出你的三大TOP 10榜单 | WitAwards 2024 评选](https://www.freebuf.com/fevents/411645.html)
+
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
