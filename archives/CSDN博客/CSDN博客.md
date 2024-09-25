@@ -135,3 +135,5 @@
 
 + [【Linux探索学习】第一弹——Linux的基本指令（上）——开启Linux学习第一篇](https://blog.csdn.net/2301_80220607/article/details/142464076)
 
++ [HarmonyOS NEXT：解密从概念到实践的技术创新与应用前景](https://blog.csdn.net/qq_53123067/article/details/142426881)
+

@@ -41,3 +41,9 @@
 
 + [乌克兰因安全风险首次禁用Telegram](https://www.freebuf.com/news/411485.html)
 
++ [FreeBuf早报 | MoneyGram服务被迫下线三天；IDC发布CNAPP市场份额报告](https://www.freebuf.com/news/411608.html)
+
++ [美国100万卡巴斯基用户发现：电脑的安全软件已自动替换为UltraAV](https://www.freebuf.com/news/411582.html)
+
++ [Dreamer CMS 4.0.1 代码审计](https://www.freebuf.com/vuls/411143.html)
+

@@ -127,3 +127,23 @@
 
 + [初代重制《闪电十一人英雄的胜利之路》再延期](https://www.3dmgame.com/news/202409/3904882.html)
 
++ [《心灵杀手2》DLC“湖边小屋”新预告 10月发售](https://www.3dmgame.com/news/202409/3904894.html)
+
++ [《凯恩的遗产1+2复刻版》公布 12月11日发售](https://www.3dmgame.com/news/202409/3904895.html)
+
++ [《宇宙机器人》免费DLC预告 新增5个关卡和10个客串机器人](https://www.3dmgame.com/news/202409/3904896.html)
+
++ [《乐高地平线大冒险》将于11月14日发售](https://www.3dmgame.com/news/202409/3904892.html)
+
++ [《怪物猎人：荒野》Steam预购开启 国区标准版368元](https://www.3dmgame.com/news/202409/3904893.html)
+
++ [《怪物猎人：荒野》新预告 2025年2月28日发售](https://www.3dmgame.com/news/202409/3904889.html)
+
++ [《龙腾世纪：影障守护者》新预告 战斗场面很刺激](https://www.3dmgame.com/news/202409/3904890.html)
+
++ [《地平线：零之曙光 复刻版》公布 10月31日发售](https://www.3dmgame.com/news/202409/3904891.html)
+
++ [《对马岛之鬼》续作《羊蹄山之鬼》2025年发售](https://www.3dmgame.com/news/202409/3904887.html)
+
++ [《真三国无双：起源》全新预告 2025年1月17日发售](https://www.3dmgame.com/news/202409/3904888.html)
+
