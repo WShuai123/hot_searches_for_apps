@@ -135,3 +135,7 @@
 
 + [API 架构（RPC和RESTful）](https://blog.csdn.net/haokan123456789/article/details/142495745)
 
++ [[Redis][C++客户端]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142454492)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142482558)
+
