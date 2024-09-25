@@ -33,3 +33,5 @@
 
 + [美众议院法案要求新车必须搭载 AM 收音机：灾难下能播送紧急警报](https://m.ithome.com/html/798140.htm)
 
++ [华为 Pura 70 系列手机推送 HarmonyOS 4.2.0.180SP1：升级相机 XMAGE 人像引擎](https://m.ithome.com/html/798116.htm)
+

@@ -207,3 +207,15 @@
 
 + [我国将在月球上建无线网 正在研究能不能种菜](https://www.3dmgame.com/news/202409/3904926.html)
 
++ [小米全新电竞鼠标279元：26000DPI 110小时续航](https://www.3dmgame.com/news/202409/3904932.html)
+
++ [卡牌角色扮演游戏《暗色天空》现已在Steam平台正式推出](https://www.3dmgame.com/news/202409/3904931.html)
+
++ [P5R主题“痛飞机” 《女神异闻录5皇家版》联动亚洲航空](https://www.3dmgame.com/news/202409/3904927.html)
+
++ [美国演员工会呼吁《英雄联盟》罢工 拳头：打错人了](https://www.3dmgame.com/news/202409/3904929.html)
+
++ [《怪物猎人：荒野》官方推出豪华周边套餐 折叠车亮眼](https://www.3dmgame.com/news/202409/3904928.html)
+
++ [即时战略游戏《Empire Eternal》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904930.html)
+
