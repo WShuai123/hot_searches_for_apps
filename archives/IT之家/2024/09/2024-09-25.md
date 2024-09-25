@@ -49,3 +49,9 @@
 
 + [江苏一工厂在男厕装监控：员工反映不合理被踢出工作群还遭劝退，回应称“装错了已调整”](https://m.ithome.com/html/798172.htm)
 
++ [魅族 Lucky 08 手机发布：全球首发 AI 按键，1599 元起](https://m.ithome.com/html/798318.htm)
+
++ [G32 高铁临时换车少一节车厢、一等座变站票，官方发布情况说明](https://m.ithome.com/html/798251.htm)
+
++ [苹果发布 iOS / iPadOS 18.1、macOS 15.1 Sequoia 第 2 个公测版：增强 iPhone 镜像等](https://m.ithome.com/html/798153.htm)
+

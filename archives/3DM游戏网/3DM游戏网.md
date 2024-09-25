@@ -335,3 +335,11 @@
 
 + [瑞士首次使用“安乐死胶囊舱”相关人员火速被捕](https://www.3dmgame.com/news/202409/3904963.html)
 
++ [台积电2nm初始月产能4万片晶圆 苹果是首个客户](https://www.3dmgame.com/news/202409/3904975.html)
+
++ [《地平线：零之曙光 重制版》PC版仍然捆绑PSN账户](https://www.3dmgame.com/news/202409/3904973.html)
+
++ [黑神话带火PC硬件 中国电竞显示器8月销量飙升56.7%](https://www.3dmgame.com/news/202409/3904971.html)
+
++ [《迷失》发行商员工出走原因：对公司未来感到不安](https://www.3dmgame.com/news/202409/3904972.html)
+
