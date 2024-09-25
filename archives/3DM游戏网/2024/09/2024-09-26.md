@@ -101,3 +101,5 @@
 
 + [《辐射》电视剧第二季正加速推进制作](https://www.3dmgame.com/news/202406/3896649.html)
 
++ [外媒评选PS4上30款精品游戏 《对马岛之魂》等](https://www.3dmgame.com/news/202409/3904983.html)
+

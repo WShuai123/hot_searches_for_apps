@@ -59,3 +59,9 @@
 
 + [Chanced - Casino logo design](https://dribbble.com/shots/)
 
++ [girl](https://dribbble.com/shots/)
+
++ [Player](https://dribbble.com/shots/)
+
++ [Pure Ground Ingredients Logo](https://dribbble.com/shots/)
+
