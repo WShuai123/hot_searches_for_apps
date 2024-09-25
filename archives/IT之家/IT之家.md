@@ -29,3 +29,5 @@
 
 + [消息称华为 Mate 70 手机部分零部件已开启供货，11 月上市](https://m.ithome.com/html/798132.htm)
 
++ [鸿蒙智行旗下首款轿跑 SUV 智界 R7 上市：可选华为 ADS 3.0 高阶智驾，25.98 万元起](https://m.ithome.com/html/798052.htm)
+

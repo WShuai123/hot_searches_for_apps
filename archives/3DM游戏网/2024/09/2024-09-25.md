@@ -147,3 +147,39 @@
 
 + [《真三国无双：起源》全新预告 2025年1月17日发售](https://www.3dmgame.com/news/202409/3904888.html)
 
++ [PS5“炫彩”配色外壳和手柄正式公布 闪闪发光色彩多变](https://www.3dmgame.com/news/202409/3904913.html)
+
++ [制作人揭示放弃林克作为《塞尔达传说：智慧的再现》主角的缘由](https://www.3dmgame.com/news/202409/3904911.html)
+
++ [科学背书！牛津大学最新研究发现玩游戏能改善情绪](https://www.3dmgame.com/news/202409/3904914.html)
+
++ [《永恒寒冬》PC抢先体验开启 生存恐怖合作战术射击](https://www.3dmgame.com/news/202409/3904912.html)
+
++ [《完蛋被美女包围前传》角色元柒视频 学妹真漂亮](https://www.3dmgame.com/news/202409/3904910.html)
+
++ [《使命召唤：黑色行动6》发布前改动：玩家测试反馈很有意义](https://www.3dmgame.com/news/202409/3904908.html)
+
++ [欧美服PS PLus十月会免公布：《死亡空间》领衔](https://www.3dmgame.com/news/202409/3904906.html)
+
++ [EA否认《龙腾世纪4》预购销量疲软：游戏抢手得很](https://www.3dmgame.com/news/202409/3904905.html)
+
++ [《羊蹄山之鬼》首批截图 官方解释为何不做《对马岛之鬼2》](https://www.3dmgame.com/news/202409/3904904.html)
+
++ [《阿加斯巴之塔》11月抢先体验 开放世界经营战斗冒险](https://www.3dmgame.com/news/202409/3904903.html)
+
++ [《The Midnight Walk》Steam页面 暂不支持中文](https://www.3dmgame.com/news/202409/3904902.html)
+
++ [第三人称动作冒险游戏《Hell is Us》公布新实机演示 2025年发售](https://www.3dmgame.com/news/202409/3904901.html)
+
++ [《索尼克X夏特 世代重启》将推出包含基努·里维斯参演的《索尼克3》电影DLC](https://www.3dmgame.com/news/202409/3904900.html)
+
++ [坂口博信作品《FANTASIAN Neo Dimension》开启预购 国区售价298元](https://www.3dmgame.com/news/202409/3904909.html)
+
++ [夺宝求生，狩猎为王！《狄拉克之海》Steam免费删档终测开启！](https://www.3dmgame.com/news/202409/3904907.html)
+
++ [VR游戏《地铁：觉醒》11月7日发售 Steam定价188元](https://www.3dmgame.com/news/202409/3904899.html)
+
++ [《乐高堡垒之夜》将更新多人画面分割 联名PS5手柄公开](https://www.3dmgame.com/news/202409/3904898.html)
+
++ [《星刃》DLC预告片 联动《尼尔：机械纪元》、新增照片模式](https://www.3dmgame.com/news/202409/3904897.html)
+
