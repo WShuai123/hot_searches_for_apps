@@ -195,3 +195,15 @@
 
 + [《炉石传说》国服现已开放 登陆血赚15000元](https://www.3dmgame.com/news/202409/3904915.html)
 
++ [MMORPG《上古世纪编年史》发布新预告 2025年发售支持中文](https://www.3dmgame.com/news/202409/3904924.html)
+
++ [不仅仅是国人买！《黑神话：悟空》也是欧美8月收入最高游戏](https://www.3dmgame.com/news/202409/3904925.html)
+
++ [类暗黑肉鸽生存游戏《苦痛殿堂》现已推出1.0正式版 获得好评如潮](https://www.3dmgame.com/news/202409/3904923.html)
+
++ [怕差评影响销量？育碧取消《刺客信条：影》媒体预览](https://www.3dmgame.com/news/202409/3904921.html)
+
++ [浮岛生存管理冒险游戏《Oceaneers》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904922.html)
+
++ [我国将在月球上建无线网 正在研究能不能种菜](https://www.3dmgame.com/news/202409/3904926.html)
+

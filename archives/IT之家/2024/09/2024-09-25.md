@@ -31,3 +31,5 @@
 
 + [鸿蒙智行旗下首款轿跑 SUV 智界 R7 上市：可选华为 ADS 3.0 高阶智驾，25.98 万元起](https://m.ithome.com/html/798052.htm)
 
++ [美众议院法案要求新车必须搭载 AM 收音机：灾难下能播送紧急警报](https://m.ithome.com/html/798140.htm)
+
