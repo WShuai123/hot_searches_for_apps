@@ -103,3 +103,13 @@
 
 + [外媒评选PS4上30款精品游戏 《对马岛之魂》等](https://www.3dmgame.com/news/202409/3904983.html)
 
++ [《少女魔净》全新续作《少女魔役》正式公布](https://www.3dmgame.com/news/202409/3904988.html)
+
++ [《刺客信条：影》延期至明年2月14日发售 为了更好打磨游戏](https://www.3dmgame.com/news/202409/3904987.html)
+
++ [高性价比VR设备Meta Quest 3S将于10月15日发售](https://www.3dmgame.com/news/202409/3904986.html)
+
++ [蓝爆登场《英灵乱战》迎来洛克人主题联动](https://www.3dmgame.com/news/202409/3904985.html)
+
++ [像素RPG《经典迷宫X3》2025年2月27日发售](https://www.3dmgame.com/news/202409/3904984.html)
+

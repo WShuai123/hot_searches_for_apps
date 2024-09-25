@@ -25,3 +25,5 @@
 
 + [OPPO 法务部：大量社交媒体账号同一时段密集发布不实言论，犯罪嫌疑人 W 某已刑事拘留](https://m.ithome.com/html/798205.htm)
 
++ [高通骁龙 8 Gen 4 for Galaxy 跑分流出，大核频率提升至 4.47GHz](https://m.ithome.com/html/798403.htm)
+
