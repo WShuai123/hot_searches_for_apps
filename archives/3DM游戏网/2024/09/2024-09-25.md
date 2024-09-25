@@ -183,3 +183,15 @@
 
 + [《星刃》DLC预告片 联动《尼尔：机械纪元》、新增照片模式](https://www.3dmgame.com/news/202409/3904897.html)
 
++ [《十字军之王3》DLC权力之路上线 追加自我流派世界冒险](https://www.3dmgame.com/news/202409/3904919.html)
+
++ [日本玩家成最大输家 《幻兽帕鲁》暂不登陆PS5日服](https://www.3dmgame.com/news/202409/3904918.html)
+
++ [回合制策略游戏《战锤40K：行商浪人》全新DLC“虚空之影”正式发售获好评](https://www.3dmgame.com/news/202409/3904920.html)
+
++ [前测试人员称《光环：无限》问题频发是微软的锅](https://www.3dmgame.com/news/202409/3904917.html)
+
++ [多人动作盗宝游戏《绿林侠盗：亡命之徒与传奇》宣布10月停售 明年2月停服](https://www.3dmgame.com/news/202409/3904916.html)
+
++ [《炉石传说》国服现已开放 登陆血赚15000元](https://www.3dmgame.com/news/202409/3904915.html)
+
