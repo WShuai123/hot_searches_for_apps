@@ -57,3 +57,5 @@
 
 + [苹果客服回应 App Store 商店软件涉黄：上架审核非常严格，用户提供资料后会介入调查](https://m.ithome.com/html/798313.htm)
 
++ [vivo 韩伯啸：X200 Pro mini 手机比 iPhone 16 Pro 薄，电池比 Pro Max 大](https://m.ithome.com/html/798348.htm)
+

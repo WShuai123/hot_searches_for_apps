@@ -351,3 +351,5 @@
 
 + [狐狸尾巴露出来？SBI称目标是彻底摧毁游戏行业](https://www.3dmgame.com/news/202409/3904978.html)
 
++ [PS+欧美服10月游戏阵容公布 《死亡空间：重制版》等](https://www.3dmgame.com/news/202409/3904979.html)
+
