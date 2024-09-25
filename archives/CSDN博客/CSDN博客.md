@@ -185,3 +185,9 @@
 
 + [【网络安全】密码学的新进展](https://blog.csdn.net/weixin_45627039/article/details/142489962)
 
++ [【自动驾驶】基于车辆几何模型的横向控制算法 | Stanley 算法详解与编程实现](https://blog.csdn.net/weixin_51200029/article/details/142423446)
+
++ [网络安全（黑客技术）-2024自学手册](https://blog.csdn.net/2401_85026965/article/details/142485502)
+
++ [Hive插入数据时报错There are 1 datanode(s) running and 1 node(s) are excluded in this operation.](https://blog.csdn.net/qq_68076599/article/details/142497910)
+

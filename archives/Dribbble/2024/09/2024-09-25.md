@@ -119,3 +119,13 @@
 
 + [Sora Logo (unofficially)](https://dribbble.com/shots/)
 
++ [Subscription tracker: multiple subscriptions in one day](https://dribbble.com/shots/)
+
++ [CGPT Tap Game — Explainer Video](https://dribbble.com/shots/)
+
++ [Inktober Sneak Peek 👀](https://dribbble.com/shots/)
+
++ [Gamification - Logo Design (Unused)](https://dribbble.com/shots/)
+
++ [Geometric Bearded Man Logo](https://dribbble.com/shots/)
+
