@@ -101,3 +101,9 @@
 
 + [基于丹摩DAMODEL部署Segment Anything 模型，智能分割一切图片](https://blog.csdn.net/github_35631540/article/details/142259734)
 
++ [外包干了5天，技术明显退步。。。。。](https://blog.csdn.net/YJT1002/article/details/142500853)
+
++ [【Python】数据可视化之点线图](https://blog.csdn.net/weixin_73404807/article/details/142501398)
+
++ [外包干了3天，技术退步明显.......](https://blog.csdn.net/2301_81967703/article/details/142501622)
+
