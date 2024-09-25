@@ -343,3 +343,5 @@
 
 + [《迷失》发行商员工出走原因：对公司未来感到不安](https://www.3dmgame.com/news/202409/3904972.html)
 
++ [PS5 Pro：14家开发商详解如何针对进行游戏强化](https://www.3dmgame.com/news/202409/3904974.html)
+
