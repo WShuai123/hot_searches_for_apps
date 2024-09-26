@@ -169,3 +169,9 @@
 
 + [Python Web 开发中的DevOps 实践与自动化运维](https://blog.csdn.net/weixin_52392194/article/details/142531641)
 
++ [【机器学习】音乐生成——AI如何创作个性化音乐与配乐](https://blog.csdn.net/2202_76097976/article/details/142550741)
+
++ [【人工智能】Transformers之Pipeline（十九）：文生文（text2text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142453978)
+
++ [mapbox没有token/token失效，地图闪烁后变空白，报错Error: A valid Mapbox access token is required to use Mapbox GL JS.](https://blog.csdn.net/RenGJ010617/article/details/142485422)
+
