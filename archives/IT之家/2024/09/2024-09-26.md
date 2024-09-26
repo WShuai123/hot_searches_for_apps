@@ -59,3 +59,7 @@
 
 + [苹果 iPhone 16 Pro Max 实测：比前代扬声器音量略低，开机时间约多 4 秒](https://m.ithome.com/html/798545.htm)
 
++ [小米 Redmi Note 14 Pro 手机发布：天玑 7300-Ultra，首发价 1399 元起](https://m.ithome.com/html/798666.htm)
+
++ [力度新升级：全国可领政府 2000 元数码家电补贴，四川加码至高再省 4000 元](https://m.ithome.com/html/798596.htm)
+

@@ -311,3 +311,7 @@
 
 + [TGS 2024：《死神：魂魄觉醒》新PV发布](https://www.3dmgame.com/news/202409/3905068.html)
 
++ [SIE前总裁回应《羊蹄山之鬼》争议：不喜欢就别买](https://www.3dmgame.com/news/202409/3905070.html)
+
++ [TGS 2024：《最终幻想：像素复刻版》Xbox预告片](https://www.3dmgame.com/news/202409/3905069.html)
+
