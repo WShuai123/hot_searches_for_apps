@@ -41,3 +41,7 @@
 
 + [FreeBuf早报 | 国安部起底台独黑客组织；韩欲打造网络安全演习国际枢纽](https://www.freebuf.com/news/411521.html)
 
++ [FreeBuf早报 | 一亿美国人隐私信息暴露；UltraAV 自动替换卡巴斯基引发担忧](https://www.freebuf.com/news/411706.html)
+
++ [eladmin (文件上传+文件删除)(cve-2024-7458)](https://www.freebuf.com/vuls/409953.html)
+
