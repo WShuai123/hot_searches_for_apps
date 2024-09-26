@@ -179,3 +179,13 @@
 
 + [clickhouse的介绍与使用](https://blog.csdn.net/wadjdkdkdjjd/article/details/142531235)
 
++ [Programmer&AI—AI辅助编程学习指南](https://blog.csdn.net/Skrrapper/article/details/142520593)
+
++ [【Golang】Go语言接口与多态](https://blog.csdn.net/littlefun591/article/details/142546366)
+
++ [Linux操作系统中docker](https://blog.csdn.net/wang_san_sui_/article/details/142497791)
+
++ [【计算机网络超强概念总结】第二章 物理层](https://blog.csdn.net/chao_666666/article/details/142534327)
+
++ [2024广东省职业技能大赛云计算——OpenStack镜像、脚本详解](https://blog.csdn.net/kuuuugua/article/details/142503692)
+

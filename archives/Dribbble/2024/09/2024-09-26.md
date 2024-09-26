@@ -111,3 +111,19 @@
 
 + [Futuristic Space Journey Illustration | Orbix Studio](https://dribbble.com/shots/)
 
++ [Dribbble Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [riff - webdesign](https://dribbble.com/shots/)
+
++ [Crypto Branding Presentation for PreMarket](https://dribbble.com/shots/)
+
++ [Be in Passion logo and branding](https://dribbble.com/shots/)
+
++ [Music Player Platform](https://dribbble.com/shots/)
+
++ [Airjet – Your Gateway to Effortless Flight Booking](https://dribbble.com/shots/)
+
++ [Optic](https://dribbble.com/shots/)
+
++ [Arabic Logo Design](https://dribbble.com/shots/)
+
