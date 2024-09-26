@@ -203,3 +203,9 @@
 
 + [滚雪球学SpringCloud[10.2讲]：微服务项目的性能优化与调优](https://blog.csdn.net/weixin_43970743/article/details/141144367)
 
++ [神经网络（三）：VGG16](https://blog.csdn.net/qq_51976293/article/details/142487713)
+
++ [本地部署开源在线PPT制作与演示应用PPTist并实现异地远程使用](https://blog.csdn.net/2201_75743654/article/details/142553125)
+
++ [18.2 k8s-apiserver监控源码解读](https://blog.csdn.net/weixin_48502062/article/details/142527791)
+

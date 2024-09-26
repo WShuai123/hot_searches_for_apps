@@ -219,3 +219,7 @@
 
 + [个人所得税](https://itunes.apple.com/cn/app/id1436002627?mt=8)
 
++ [肯德基KFC（官方版）-上肯德基APP，享APP超省价](https://itunes.apple.com/cn/app/id587238847?mt=8)
+
++ [多多好剧](https://itunes.apple.com/cn/app/id6639610434?mt=8)
+

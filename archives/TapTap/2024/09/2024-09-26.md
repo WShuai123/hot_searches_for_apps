@@ -27,3 +27,5 @@
 
 + [永劫无间](https://www.taptap.cn/app/229966)
 
++ [战双帕弥什](https://www.taptap.cn/app/130651)
+

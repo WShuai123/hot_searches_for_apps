@@ -55,3 +55,7 @@
 
 + [骁龙 8 Elite 旗舰芯片曝光，小米 15 系列手机将首发](https://m.ithome.com/html/798610.htm)
 
++ [小米 Redmi Note 14 Pro+ 手机发布： 首发第三代骁龙 7s、6200mAh 硅碳电池， 首发 1899 元起](https://m.ithome.com/html/798664.htm)
+
++ [苹果 iPhone 16 Pro Max 实测：比前代扬声器音量略低，开机时间约多 4 秒](https://m.ithome.com/html/798545.htm)
+
