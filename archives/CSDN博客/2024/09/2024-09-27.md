@@ -121,3 +121,7 @@
 
 + [[Redis][事务]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142485364)
 
++ [linux信号 | 学习信号三步走 | 全解析信号的产生方式](https://blog.csdn.net/strive_mianyang/article/details/142499822)
+
++ [数据库 - MySQL的事务](https://blog.csdn.net/2401_86688088/article/details/142296890)
+
