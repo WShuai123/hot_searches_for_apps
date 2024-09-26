@@ -189,3 +189,5 @@
 
 + [2024广东省职业技能大赛云计算——OpenStack镜像、脚本详解](https://blog.csdn.net/kuuuugua/article/details/142503692)
 
++ [《深度学习》卷积神经网络CNN 实现手写数字识别](https://blog.csdn.net/qq_64603703/article/details/142467165)
+

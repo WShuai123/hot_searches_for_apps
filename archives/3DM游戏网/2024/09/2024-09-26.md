@@ -275,3 +275,23 @@
 
 + [皮肤天价口碑爆炸 《Spectre Divide》发布不到一个月开发商已裁员](https://www.3dmgame.com/news/202409/3905044.html)
 
++ [《黑神话》大圣残躯红孩儿天蓬元帅等建模图 都很酷！](https://www.3dmgame.com/news/202409/3905059.html)
+
++ [《方块方舟》秋季团圆活动上线，探索神秘新生物与秋季特别玩法](https://www.3dmgame.com/news/202409/3905060.html)
+
++ [香港即将加入淘宝包邮区 满99元即可包邮](https://www.3dmgame.com/news/202409/3905058.html)
+
++ [2024日本游戏大奖获奖名单公布 《塞尔达传说：王国之泪》斩获年度大奖](https://www.3dmgame.com/news/202409/3905057.html)
+
++ [细节公布！明年3月起新能源汽车也要年检了：包含增程](https://www.3dmgame.com/news/202409/3905056.html)
+
++ [粉丝自制《最终幻想7》蒂法渲染图 穿紫色内衣真诱惑](https://www.3dmgame.com/news/202409/3905055.html)
+
++ [特斯拉Optimus机器人新进展 已生产数百台](https://www.3dmgame.com/news/202409/3905054.html)
+
++ [游戏专利律师：任天堂起诉《幻兽帕鲁》反会引火上身](https://www.3dmgame.com/news/202409/3905053.html)
+
++ [魂斗罗精神续作《Iron Meat》登陆多平台 火爆刺激](https://www.3dmgame.com/news/202409/3905052.html)
+
++ [邓布利多演员儿子质疑：为什么要拍《哈利·波特》重启版？](https://www.3dmgame.com/news/202409/3905051.html)
+

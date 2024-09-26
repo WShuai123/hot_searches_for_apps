@@ -127,3 +127,15 @@
 
 + [Arabic Logo Design](https://dribbble.com/shots/)
 
++ [Contra Hiring Calculator](https://dribbble.com/shots/)
+
++ [Compass Cargo logo](https://dribbble.com/shots/)
+
++ [Friendly Courier Logo](https://dribbble.com/shots/)
+
++ [A&P - Script logo](https://dribbble.com/shots/)
+
++ [Parenting in Amsterdam 🚲](https://dribbble.com/shots/)
+
++ [Paper Letter C Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+
