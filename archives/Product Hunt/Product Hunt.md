@@ -101,3 +101,29 @@
 
 + [NodeLand](https://www.producthunt.com/posts/nodeland)
 
++ [CustomFit.ai for Shopify](https://www.producthunt.com/posts/customfit-ai-for-shopify)
+
++ [Spinach AI - The Meeting Agent](https://www.producthunt.com/posts/spinach-ai-the-meeting-agent)
+
++ [Diff Text](https://www.producthunt.com/posts/diff-text)
+
++ [MIMO](https://www.producthunt.com/posts/mimo-2)
+
++ [easyy.click](https://www.producthunt.com/posts/easyy-click)
+
++ [figma.to.website](https://www.producthunt.com/posts/figma-to-website)
+
++ [daily.dev Squads](https://www.producthunt.com/posts/daily-dev-squads)
+
++ [Uploadcare File Uploader](https://www.producthunt.com/posts/uploadcare-file-uploader)
+
++ [PLG OS](https://www.producthunt.com/posts/plg-os)
+
++ [Outspeed](https://www.producthunt.com/posts/outspeed)
+
++ [BeforeSunset AI 2.0](https://www.producthunt.com/posts/beforesunset-ai-2-0)
+
++ [Ottic](https://www.producthunt.com/posts/ottic)
+
++ [Fluency](https://www.producthunt.com/posts/fluency-3)
+

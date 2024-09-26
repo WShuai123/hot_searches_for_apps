@@ -253,3 +253,11 @@
 
 + [前DICE资深制作人开发的英雄团队射击游戏《心能特工》公布](https://www.3dmgame.com/news/202409/3905018.html)
 
++ [战术奇幻JRPG《Clowned King》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3905043.html)
+
++ [《龙腾世纪：影幛守护者》仅让玩家继承前作的三项决定 恋爱关系算一个](https://www.3dmgame.com/news/202409/3905042.html)
+
++ [《戴森球计划》载具系统开发画面公布 上线时间待定](https://www.3dmgame.com/news/202409/3905041.html)
+
++ [《无名者：屠龙》登陆Steam 跑团风回合制RPG](https://www.3dmgame.com/news/202409/3905040.html)
+
