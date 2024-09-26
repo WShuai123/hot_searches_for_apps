@@ -103,3 +103,19 @@
 
 + [《微信小程序实战（4） · 地图导航功能》](https://blog.csdn.net/syb513812/article/details/142497495)
 
++ [【Linux】项目自动化构建工具-make/Makefile 详解](https://blog.csdn.net/Renswc/article/details/142566694)
+
++ [linux信号| 学习信号三步走 | 学习信号需要打通哪些知识脉络？](https://blog.csdn.net/strive_mianyang/article/details/142477954)
+
++ [OSI 七层模型和TCP/IP 四层模型的区别](https://blog.csdn.net/qq_45956730/article/details/142535481)
+
++ [揭秘计算机内部奥秘：从CPU到操作系统，深入探索进程与线程的工作原理](https://blog.csdn.net/island1314/article/details/142533186)
+
++ [【Unity精品源码】JU TPS 3 – 完整的第三人称射击游戏模板](https://blog.csdn.net/UnityBoy/article/details/142422353)
+
++ [探索Llama 3.1：开源模型的本地部署与创新应用实践](https://blog.csdn.net/qq_51601665/article/details/142503263)
+
++ [clickhouse的介绍与使用](https://blog.csdn.net/wadjdkdkdjjd/article/details/142531235)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142520065)
+

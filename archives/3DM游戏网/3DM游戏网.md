@@ -101,3 +101,53 @@
 
 + [入乡随俗 《逃离塔科夫》东京电玩展限定武装美少女抱枕](https://www.3dmgame.com/news/202409/3905025.html)
 
++ [《小丑牌》现已加入移动端 售价9.99美元](https://www.3dmgame.com/news/202409/3905073.html)
+
++ [《最后生还者》第二季先导预告 明年上线](https://www.3dmgame.com/news/202409/3905074.html)
+
++ [三只羊被罚6894万！月饼事件构成虚假宣传：停业整改](https://www.3dmgame.com/news/202409/3905075.html)
+
++ [《死侍3》新海报公布 死侍和金刚狼难分难舍](https://www.3dmgame.com/news/202404/3893303.html)
+
++ [手游《地下城与勇士：起源》官宣定档 5月21日上线](https://www.3dmgame.com/news/202404/3893302.html)
+
++ [奇幻剧情冒险游戏《往昔童话》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893305.html)
+
++ [《星刃》与女歌手BIBI联动MV幕后 妆扮造型大赞](https://www.3dmgame.com/news/202404/3893304.html)
+
++ [《Crossing The Sands》登陆Steam 复古3D迷宫RPG](https://www.3dmgame.com/news/202404/3893306.html)
+
++ [《百英雄传》媒体评分出炉 IGN 7分：值得一玩](https://www.3dmgame.com/news/202404/3893307.html)
+
++ [《巫师3》《赛博朋克2077》等源代码被公开 Mod作者狂喜](https://www.3dmgame.com/news/202404/3893308.html)
+
++ [粉丝从新专辑推断泰勒·斯威夫特将出演《死侍3》中的炫音](https://www.3dmgame.com/news/202404/3893309.html)
+
++ [知名演员孙艺洲真的Cos吕布了 网友：这造型绝了](https://www.3dmgame.com/news/202404/3893310.html)
+
++ [手游新作《魔法少女小圆：Magia Exedra》官宣 年内上线](https://www.3dmgame.com/news/202404/3893311.html)
+
++ [《夜莺传说》新更新0.2情报公开 下周正式上线](https://www.3dmgame.com/news/202404/3893312.html)
+
++ [像素动作类肉鸽游戏《蚁眼还眼》现已在Steam平台正式发售](https://www.3dmgame.com/news/202404/3893313.html)
+
++ [多人派对游戏《猛兽派对》即将推出全新模式：猛兽大乱斗](https://www.3dmgame.com/news/202404/3893314.html)
+
++ [12306强调 从未授权第三方平台发售火车票](https://www.3dmgame.com/news/202404/3893315.html)
+
++ [日本网红游戏厅《复古游戏秘密基地》众筹 遭火灾需重建](https://www.3dmgame.com/news/202404/3893316.html)
+
++ [传闻：《索尼克：未知边境2》正在开发中](https://www.3dmgame.com/news/202404/3893317.html)
+
++ [《最终幻想7 重生》透露 杰西原计划要请克劳德吃含有爱情魔药配方的披萨](https://www.3dmgame.com/news/202404/3893318.html)
+
++ [微软推出新型AI工具VASA-1：可将照片转化为视频](https://www.3dmgame.com/news/202404/3893319.html)
+
++ [《Lunarium》Steam页面上线 奇幻动作冒险RPG](https://www.3dmgame.com/news/202404/3893320.html)
+
++ [零售商泄露：《生化危机2》等游戏或将推出PS5实体版](https://www.3dmgame.com/news/202404/3893321.html)
+
++ [Fami通新一周销量榜 《恐怖惊魂夜×3》登顶](https://www.3dmgame.com/news/202409/3905071.html)
+
++ [Epic喜加一：《精灵与老鼠》免费领取](https://www.3dmgame.com/news/202409/3905072.html)
+
