@@ -99,3 +99,15 @@
 
 + [Medical Care Online App Concept](https://dribbble.com/shots/)
 
++ [Pertyble Mobile App: Your Personal Oral Care Assistant](https://dribbble.com/shots/)
+
++ [Crypto Wallet App: animation](https://dribbble.com/shots/)
+
++ [Meme Coin video production](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Asana - Macbook Mockup](https://dribbble.com/shots/)
+
++ [Futuristic Space Journey Illustration | Orbix Studio](https://dribbble.com/shots/)
+

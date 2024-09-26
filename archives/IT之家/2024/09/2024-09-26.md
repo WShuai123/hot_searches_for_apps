@@ -43,3 +43,5 @@
 
 + [上线 5 天，中国移动 5G 消息日活苹果终端超 8 万](https://m.ithome.com/html/798434.htm)
 
++ [摩根士丹利：iPhone 16 系列成近年最不受欢迎一代，交货周期为 5 年来最短](https://m.ithome.com/html/798505.htm)
+

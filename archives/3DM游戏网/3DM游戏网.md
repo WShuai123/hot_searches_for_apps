@@ -261,3 +261,17 @@
 
 + [《无名者：屠龙》登陆Steam 跑团风回合制RPG](https://www.3dmgame.com/news/202409/3905040.html)
 
++ [《传颂之物》三部曲即将登陆Switch 2025年1月30日发售](https://www.3dmgame.com/news/202409/3905049.html)
+
++ [国风像素游戏《山海旅人2》全新实机玩法曝光 10月15日Demo上线](https://www.3dmgame.com/news/202409/3905050.html)
+
++ [《帕丁顿熊》第4部电影正在筹备中 还将推出同名电视剧集](https://www.3dmgame.com/news/202409/3905048.html)
+
++ [《哆啦A梦的铜锣烧店物语》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202409/3905047.html)
+
++ [《Farming Simulator 25》最新资讯公开：两部全新宣传片现已发布！](https://www.3dmgame.com/news/202409/3905046.html)
+
++ [《艾尔登法环》菈妮高端雕像TGS亮相 惊人还原度](https://www.3dmgame.com/news/202409/3905045.html)
+
++ [皮肤天价口碑爆炸 《Spectre Divide》发布不到一个月开发商已裁员](https://www.3dmgame.com/news/202409/3905044.html)
+
