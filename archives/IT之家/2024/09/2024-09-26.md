@@ -49,3 +49,5 @@
 
 + [鸿蒙智行：智界 R7 轿跑 SUV 上市 24 小时大定突破 6000 台](https://m.ithome.com/html/798391.htm)
 
++ [“索尼 PS 之父”久多良木健：《黑神话：悟空》首月销量突破 2000 万份](https://m.ithome.com/html/798524.htm)
+

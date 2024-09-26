@@ -191,3 +191,13 @@
 
 + [《深度学习》卷积神经网络CNN 实现手写数字识别](https://blog.csdn.net/qq_64603703/article/details/142467165)
 
++ [MAGICORE：基于多代理迭代的粗到细精炼框架，提升大语言模型推理质量](https://blog.csdn.net/m0_46510245/article/details/142548100)
+
++ [FLUX.1图像生成模型：AI工程师的实践与探索](https://blog.csdn.net/L040821/article/details/142528189)
+
++ [影刀---实现我的第一个抓取数据的机器人](https://blog.csdn.net/2301_80863610/article/details/142530678)
+
++ [Docker](https://blog.csdn.net/2302_81167603/article/details/142446456)
+
++ [【LLM多模态】文生视频综述From Sora What We Can See: A Survey of Text-to-Video Generation](https://blog.csdn.net/qq_35812205/article/details/142267535)
+

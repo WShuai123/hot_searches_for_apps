@@ -295,3 +295,11 @@
 
 + [邓布利多演员儿子质疑：为什么要拍《哈利·波特》重启版？](https://www.3dmgame.com/news/202409/3905051.html)
 
++ [三星印度罢工细节：加薪一倍 每周35小时 职位世袭](https://www.3dmgame.com/news/202409/3905064.html)
+
++ [黄仁勋完成NVIDIA减持计划：套现超49亿元！](https://www.3dmgame.com/news/202409/3905063.html)
+
++ [复古像素解谜游戏《电子幻术》首支预告片 发售日待定](https://www.3dmgame.com/news/202409/3905062.html)
+
++ [媒体实地探访《幻兽帕鲁》TGS展台 并非全是忠粉](https://www.3dmgame.com/news/202409/3905061.html)
+

@@ -27,3 +27,23 @@
 
 + [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
 
++ [tw93 / Pake](https://github.com/tw93/Pake)
+
++ [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
+
++ [hyperknot / openfreemap](https://github.com/hyperknot/openfreemap)
+
++ [backstage / backstage](https://github.com/backstage/backstage)
+
++ [meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps)
+
++ [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [Hacker0x01 / react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+
++ [caorushizi / mediago](https://github.com/caorushizi/mediago)
+
++ [RustPython / RustPython](https://github.com/RustPython/RustPython)
+
++ [3b1b / manim](https://github.com/3b1b/manim)
+
