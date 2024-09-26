@@ -213,3 +213,7 @@
 
 + [七猫小说-看小说电子书的阅读神器](https://itunes.apple.com/cn/app/id1387717110?mt=8)
 
++ [迅雷-您的专享云盘](https://itunes.apple.com/cn/app/id1503466530?mt=8)
+
++ [Kimi 智能助手](https://itunes.apple.com/cn/app/id6474233312?mt=8)
+
