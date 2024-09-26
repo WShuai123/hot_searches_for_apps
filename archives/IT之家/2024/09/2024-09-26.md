@@ -35,3 +35,7 @@
 
 + [小米 Redmi Note 14 系列手机预热：Pro+ 配备 2.5X 光学变焦镜头，Pro 全系标配「1.5K 高光护眼屏」](https://m.ithome.com/html/798265.htm)
 
++ [亚马逊第 12 代入门级 Kindle 曝光：屏幕更亮，翻页更快](https://m.ithome.com/html/798404.htm)
+
++ [特斯拉柏林工厂扩建取得新进展，工人深夜在警察保护下砍伐 3000 棵树](https://m.ithome.com/html/798407.htm)
+

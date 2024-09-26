@@ -201,3 +201,55 @@
 
 + [《LUNA-3X》登陆Switch 奇趣动作闯关冒险](https://www.3dmgame.com/news/202409/3905000.html)
 
++ [《宝可梦 走吧！皮卡丘/伊布》登陆国行Switch 定价299元](https://www.3dmgame.com/news/202409/3905035.html)
+
++ [沙盒建造游戏《深海工厂》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3905036.html)
+
++ [开放世界动作冒险游戏《Hell is Us》现已上线Steam平台 预计2025年发售](https://www.3dmgame.com/news/202409/3905037.html)
+
++ [首发频频遇难 《光环：无限》已逐渐收回本钱并盈利](https://www.3dmgame.com/news/202409/3905038.html)
+
++ [销售遇冷！大摩：iPhone16成近年最不受欢迎一代](https://www.3dmgame.com/news/202409/3905039.html)
+
++ [《罪恶装备：Strive》新DLC角色“蒂姬”宣布10月31日发售](https://www.3dmgame.com/news/202409/3905026.html)
+
++ [《Solateria》TGS实机演示 唯美2D动作闯关](https://www.3dmgame.com/news/202409/3905027.html)
+
++ [动作类肉鸽游戏《异界之上》推出1.0正式版 已获多半好评](https://www.3dmgame.com/news/202409/3905028.html)
+
++ [PS之父：《黑神话：悟空》首月全平台销量突破2000万份](https://www.3dmgame.com/news/202409/3905029.html)
+
++ [《伊苏10》Steam中文版恢复销售 2.00更新内容上线](https://www.3dmgame.com/news/202409/3905030.html)
+
++ [万代南梦宫前社长石川祝男去世 曾参与制作童年记忆打鳄鱼街机](https://www.3dmgame.com/news/202409/3905031.html)
+
++ [《伊苏X》Steam版重新推出，优化体验，售价降至298](https://www.3dmgame.com/news/202409/3905032.html)
+
++ [中电博亚与云豹娱乐合作推出《伊苏 X -北境历险-》『2.00』Steam版本](https://www.3dmgame.com/news/202409/3905033.html)
+
++ [《生化危机3》登陆GOG平台 原版特色优化调整](https://www.3dmgame.com/news/202409/3905034.html)
+
++ [NS版《巫术外传：五个试炼》TGS新预告 2025年1月发售](https://www.3dmgame.com/news/202409/3905021.html)
+
++ [索尼表示PS5 Pro没有提供光驱 是为了“给玩家更多选择”](https://www.3dmgame.com/news/202409/3905023.html)
+
++ [《尼尔》官方谈联动《星刃》：只要有钱 我们什么都愿意干](https://www.3dmgame.com/news/202409/3905022.html)
+
++ [《路途开拓者：流浪之刃》Steam页面 发售日待定](https://www.3dmgame.com/news/202409/3905024.html)
+
++ [入乡随俗 《逃离塔科夫》东京电玩展限定武装美少女抱枕](https://www.3dmgame.com/news/202409/3905025.html)
+
++ [育碧让步？《刺客信条：影》无需通行证仍可获完整体验](https://www.3dmgame.com/news/202409/3905019.html)
+
++ [《双子星传奇》发售日公布 2024年11月14日推出 现已提供试玩Demo](https://www.3dmgame.com/news/202409/3905013.html)
+
++ [销量不理想 《星球大战：亡命之徒》团队承诺会继续改进](https://www.3dmgame.com/news/202409/3905014.html)
+
++ [《ICE on the Edge》Steam上线 花样滑冰训练模拟](https://www.3dmgame.com/news/202409/3905015.html)
+
++ [《龙腾世纪4》同伴都是泛型恋 居然还能和骷髅调情](https://www.3dmgame.com/news/202409/3905016.html)
+
++ [《勇者斗恶龙3：HD-2D重制版》实机演示新预告 11月14日发售](https://www.3dmgame.com/news/202409/3905017.html)
+
++ [前DICE资深制作人开发的英雄团队射击游戏《心能特工》公布](https://www.3dmgame.com/news/202409/3905018.html)
+
