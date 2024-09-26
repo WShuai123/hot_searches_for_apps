@@ -31,3 +31,7 @@
 
 + [【IT之家评测室】三折屏狠玩两周，深度把玩华为 Mate XT 后我要说些真相了](https://m.ithome.com/html/798390.htm)
 
++ [小米 SU7 上线端到端机械库位泊车功能：最小单侧 5cm 也可精准泊车](https://m.ithome.com/html/798379.htm)
+
++ [小米 Redmi Note 14 系列手机预热：Pro+ 配备 2.5X 光学变焦镜头，Pro 全系标配「1.5K 高光护眼屏」](https://m.ithome.com/html/798265.htm)
+

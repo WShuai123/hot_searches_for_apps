@@ -49,3 +49,7 @@
 
 + [优先使用 Rust编写新代码可大幅减少安卓系统内存漏洞](https://www.freebuf.com/news/411787.html)
 
++ [HP报告：已在野外发现生成式AI制作的恶意软件有效载荷](https://www.freebuf.com/news/411801.html)
+
++ [谷歌称用 Rust编写代码，五年漏洞数下降了68%](https://www.freebuf.com/news/411787.html)
+
