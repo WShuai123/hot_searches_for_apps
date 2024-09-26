@@ -45,3 +45,5 @@
 
 + [eladmin (文件上传+文件删除)(cve-2024-7458)](https://www.freebuf.com/vuls/409953.html)
 
++ [记一次代码审计与获得CVE漏洞实践](https://www.freebuf.com/vuls/410801.html)
+

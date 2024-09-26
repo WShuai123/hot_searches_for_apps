@@ -175,3 +175,29 @@
 
 + [探索旧苏联实验区生存恐怖游戏《再生》公布](https://www.3dmgame.com/news/202409/3904989.html)
 
++ [《三国志8重制版》公布PV2预告 Steam国区定价349元](https://www.3dmgame.com/news/202409/3905010.html)
+
++ [花滑教练模拟游戏《ICE on the Edge》Steam页面开放 明年发行](https://www.3dmgame.com/news/202409/3905004.html)
+
++ [万代新游《Hirogami》公布 创意折纸世界大冒险](https://www.3dmgame.com/news/202409/3905011.html)
+
++ [《机械战警》剧集开发中 温子仁担任执行制片](https://www.3dmgame.com/news/202409/3905012.html)
+
++ [微软将于11月下架Xbox Game Pass手机端应用](https://www.3dmgame.com/news/202409/3905008.html)
+
++ [《VISEGUNNE》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3905009.html)
+
++ [多人开放世界生存制作游戏《鸭界争锋》现已推出抢先体验版并获多半好评](https://www.3dmgame.com/news/202409/3905007.html)
+
++ [《怪物猎人：荒野》新怪物介绍 锁刃龙霸气登场](https://www.3dmgame.com/news/202409/3905006.html)
+
++ [育碧股价创十年内新低！断崖式下跌一天超10%](https://www.3dmgame.com/news/202409/3905005.html)
+
++ [《杀死公主》免费更新宣布10月24日上线 添加中文支持](https://www.3dmgame.com/news/202409/3905003.html)
+
++ [Bloober努力说服Konami 让《寂静岭2：重制版》首发有PC](https://www.3dmgame.com/news/202409/3905001.html)
+
++ [《战神：诸神黄昏》PC版移除PSN账户需求的MOD已被制作者下架](https://www.3dmgame.com/news/202409/3905002.html)
+
++ [《LUNA-3X》登陆Switch 奇趣动作闯关冒险](https://www.3dmgame.com/news/202409/3905000.html)
+

@@ -145,3 +145,15 @@
 
 + [MYSQL-约束](https://blog.csdn.net/lizhiwei21/article/details/142497643)
 
++ [网络原理3-应用层(HTTP/HTTPS)](https://blog.csdn.net/QUIXOTIC_/article/details/142370558)
+
++ [828华为云征文｜使用Flexus X实例集成ES搜索引擎](https://blog.csdn.net/qq_53317005/article/details/142531953)
+
++ [SpringBoot中XXL-JOB实现灵活控制的分片处理方案](https://blog.csdn.net/qq_26664043/article/details/142531409)
+
++ [基于51单片机智能家居监控系统设计](https://blog.csdn.net/QQ1928499906/article/details/142467079)
+
++ [前端三大框架对比与选择](https://blog.csdn.net/xq_123dd/article/details/142534603)
+
++ [【车联网安全】车端网络攻击及检测的框架/模型](https://blog.csdn.net/summoxj/article/details/142481134)
+
