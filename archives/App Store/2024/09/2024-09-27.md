@@ -209,3 +209,7 @@
 
 + [我的桌面 · iScreen - 桌面小组件主题壁纸](https://itunes.apple.com/cn/app/id1534704608?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [七猫小说-看小说电子书的阅读神器](https://itunes.apple.com/cn/app/id1387717110?mt=8)
+
