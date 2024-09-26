@@ -303,3 +303,9 @@
 
 + [媒体实地探访《幻兽帕鲁》TGS展台 并非全是忠粉](https://www.3dmgame.com/news/202409/3905061.html)
 
++ [TGS 2024：《野狗子》玩法展示宣传片 展示附身系统](https://www.3dmgame.com/news/202409/3905067.html)
+
++ [《星际争霸：重制版》《星际争霸2：战役合集》11月登陆Game Pass](https://www.3dmgame.com/news/202409/3905065.html)
+
++ [TGS 2024：Xbox发布《合金装备3：重制版》故事PV](https://www.3dmgame.com/news/202409/3905066.html)
+

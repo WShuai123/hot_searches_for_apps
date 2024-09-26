@@ -147,3 +147,7 @@
 
 + [Maximalist - Logo Design](https://dribbble.com/shots/)
 
++ [Wallure Home - Luxury Storage Furniture](https://dribbble.com/shots/)
+
++ [GrowthCraft - Logo Exploration](https://dribbble.com/shots/)
+

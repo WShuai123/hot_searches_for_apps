@@ -51,3 +51,7 @@
 
 + [“索尼 PS 之父”久多良木健：《黑神话：悟空》首月销量突破 2000 万份](https://m.ithome.com/html/798524.htm)
 
++ [华为举行鸿蒙誓师大会：腾讯、百度、京东、支付宝等参会，余承东高呼“全力冲刺”](https://m.ithome.com/html/798614.htm)
+
++ [骁龙 8 Elite 旗舰芯片曝光，小米 15 系列手机将首发](https://m.ithome.com/html/798610.htm)
+
