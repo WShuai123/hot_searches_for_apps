@@ -79,3 +79,7 @@
 
 + [ACER 还 得 谢 谢 我 呢](http://www.acfun.cn/v/ac46296585)
 
++ [【莱柠15岁生日作＋】天才般的15岁偶像アイドル/ YOASOBI /推しの子＜双振幅混跳＞](http://www.acfun.cn/v/ac46295749)
+
++ [CZ75气动抛壳，但只要198](http://www.acfun.cn/v/ac46296269)
+

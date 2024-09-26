@@ -47,3 +47,5 @@
 
 + [记一次代码审计与获得CVE漏洞实践](https://www.freebuf.com/vuls/410801.html)
 
++ [优先使用 Rust编写新代码可大幅减少安卓系统内存漏洞](https://www.freebuf.com/news/411787.html)
+
