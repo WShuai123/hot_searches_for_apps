@@ -105,3 +105,5 @@
 
 + [SocialSignal AI](https://www.producthunt.com/posts/socialsignal-ai)
 
++ [Sequel](https://www.producthunt.com/posts/sequel-fbc24b7c-63f8-4bd7-9e1f-00db46180f21)
+

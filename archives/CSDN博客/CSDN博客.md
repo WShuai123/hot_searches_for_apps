@@ -127,3 +127,5 @@
 
 + [【在Linux世界中追寻伟大的One Piece】进程间通信](https://blog.csdn.net/weixin_74809706/article/details/142568765)
 
++ [[Redis][持久化][下][AOF]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142454877)
+
