@@ -103,3 +103,5 @@
 
 + [Neolocus](https://www.producthunt.com/posts/neolocus-3)
 
++ [SocialSignal AI](https://www.producthunt.com/posts/socialsignal-ai)
+

@@ -119,3 +119,5 @@
 
 + [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142520065)
 
++ [[Redis][事务]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142485364)
+
