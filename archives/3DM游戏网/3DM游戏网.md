@@ -309,3 +309,5 @@
 
 + [TGS 2024：Xbox发布《合金装备3：重制版》故事PV](https://www.3dmgame.com/news/202409/3905066.html)
 
++ [TGS 2024：《死神：魂魄觉醒》新PV发布](https://www.3dmgame.com/news/202409/3905068.html)
+
