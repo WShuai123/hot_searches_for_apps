@@ -35,3 +35,5 @@
 
 + [苹果 iPhone 16 Pro / Max 拆解：电池用传统粘合剂、Max 款未包裹金属](https://m.ithome.com/html/798739.htm)
 
++ [【IT之家评测室】Redmi Note 14 Pro+ 手机体验：抗摔更防水，续航小金刚](https://m.ithome.com/html/798670.htm)
+

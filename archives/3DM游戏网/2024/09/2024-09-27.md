@@ -223,3 +223,11 @@
 
 + [《一起开火车2：汽笛重鸣》新预告 11月7日开启抢先体验](https://www.3dmgame.com/news/202409/3905103.html)
 
++ [《炉石传说》国服为开服问题道歉 将补偿10个卡包](https://www.3dmgame.com/news/202409/3905115.html)
+
++ [像素风格回合制战略游戏《战争边缘》已推出试玩Demo 预计2025年1月28日发售](https://www.3dmgame.com/news/202409/3905113.html)
+
++ [《吸血鬼幸存者》开发商Poncle宣布设立发行部门](https://www.3dmgame.com/news/202409/3905114.html)
+
++ [《饿狼传说 City of the Wolves》联动街霸角色 “肯”与“春丽”决定参战！](https://www.3dmgame.com/news/202409/3905112.html)
+
