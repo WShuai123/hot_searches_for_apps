@@ -45,3 +45,5 @@
 
 + [吉林一公司“员工禁带苹果设备违者开除、提倡买华为”，人社局回应“若被开可投诉举报”](https://m.ithome.com/html/798765.htm)
 
++ [小米 Redmi Note 14 5G 手机发布，首发价 1099 元起](https://m.ithome.com/html/798667.htm)
+
