@@ -41,3 +41,7 @@
 
 + [美国100万卡巴斯基用户发现：电脑的安全软件已自动替换为UltraAV](https://www.freebuf.com/news/411582.html)
 
++ [FreeBuf早报 | 卡巴斯基称谷歌网络跟踪器活跃量全球第一；全球汇款巨头遭网络攻击](https://www.freebuf.com/news/411838.html)
+
++ [brida和frida练习hook逆向技术【中】](https://www.freebuf.com/articles/endpoint/411444.html)
+

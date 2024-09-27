@@ -131,3 +131,7 @@
 
 + [无人机开发------------集群去中心化分布式通信实现](https://blog.csdn.net/m0_73745340/article/details/142556982)
 
++ [MATLAB实现SVM(支持向量机)分类与回归](https://blog.csdn.net/qq_59747472/article/details/142515037)
+
++ [【小程序 - 大智慧】Expareser 组件渲染框架](https://blog.csdn.net/qq_53673551/article/details/142498258)
+

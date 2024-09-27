@@ -71,3 +71,9 @@
 
 + [Blog Article Digital Art](https://dribbble.com/shots/)
 
++ [Pinpoint Rebrand + Case Study](https://dribbble.com/shots/)
+
++ [Whole Body Prayer Application Elements](https://dribbble.com/shots/)
+
++ [The illustration for the wonderful Unusual project (part 3)](https://dribbble.com/shots/)
+
