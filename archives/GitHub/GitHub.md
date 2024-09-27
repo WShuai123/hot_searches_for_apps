@@ -33,3 +33,25 @@
 
 + [3b1b / manim](https://github.com/3b1b/manim)
 
++ [immich-app / immich](https://github.com/immich-app/immich)
+
++ [meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes)
+
++ [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [Yonom / assistant-ui](https://github.com/Yonom/assistant-ui)
+
++ [DiceDB / dice](https://github.com/DiceDB/dice)
+
++ [src-d / hercules](https://github.com/src-d/hercules)
+
++ [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+
++ [systeminit / si](https://github.com/systeminit/si)
+
++ [angular / angular](https://github.com/angular/angular)
+
++ [statamic / cms](https://github.com/statamic/cms)
+

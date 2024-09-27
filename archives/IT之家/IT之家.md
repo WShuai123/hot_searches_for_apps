@@ -47,3 +47,11 @@
 
 + [小米 Redmi Note 14 5G 手机发布，首发价 1099 元起](https://m.ithome.com/html/798667.htm)
 
++ [英伟达 RTX 5090 显卡详细规格曝光：21760 FP32 单元 + 512bit 32GB GDDR7 显存](https://m.ithome.com/html/798747.htm)
+
++ [（更新：陆续恢复正常）上交所交易系统出现成交确认缓慢异常，正在就相关原因进行排查](https://m.ithome.com/html/798807.htm)
+
++ [腾讯被曝隐藏专业职级，统一所有职级最短停留时间为 1 年](https://m.ithome.com/html/798815.htm)
+
++ [阿维塔 07 上市：搭载华为乾崑智驾 ADS 3.0，售 21.99 万元起](https://m.ithome.com/html/798688.htm)
+

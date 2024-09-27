@@ -125,3 +125,19 @@
 
 + [Serpent Swap wallet](https://dribbble.com/shots/)
 
++ [Pet Care Logo](https://dribbble.com/shots/)
+
++ [Compass Cargo logo symbol](https://dribbble.com/shots/)
+
++ [Black Swan, Music Note Logo - Minimalist, Creative Logo For Sale](https://dribbble.com/shots/)
+
++ [Traffic Monitoring Website Design](https://dribbble.com/shots/)
+
++ [Odi Agency: Tarro Rebrand](https://dribbble.com/shots/)
+
++ [Faces](https://dribbble.com/shots/)
+
++ [UI-UX for a Finance Product ✦ Monetir](https://dribbble.com/shots/)
+
++ [Tenuta Cavalla Bianco - Wine Label Concept](https://dribbble.com/shots/)
+

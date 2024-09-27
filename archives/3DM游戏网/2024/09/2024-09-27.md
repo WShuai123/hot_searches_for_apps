@@ -329,3 +329,9 @@
 
 + [《星穹遗迹》：宇宙恐怖动作平台游戏将于10月24日登陆PC和任天堂Switch](https://www.3dmgame.com/news/202409/3905150.html)
 
++ [LG结束LCD业务 华星光电以108亿元购入其广州8.5代产线](https://www.3dmgame.com/news/202409/3905170.html)
+
++ [华为PC大爆发：中国市场超越惠普 紧追联想！](https://www.3dmgame.com/news/202409/3905166.html)
+
++ [传暴雪第三次开发《星际争霸》宇宙射击游戏](https://www.3dmgame.com/news/202409/3905167.html)
+
