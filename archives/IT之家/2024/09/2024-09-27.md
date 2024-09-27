@@ -55,3 +55,7 @@
 
 + [阿维塔 07 上市：搭载华为乾崑智驾 ADS 3.0，售 21.99 万元起](https://m.ithome.com/html/798688.htm)
 
++ [消息称奇瑞要求员工“大干 100 天”，称“扛不住给我死扛”](https://m.ithome.com/html/798758.htm)
+
++ [游戏科学 CEO 冯骥谈《黑神话：悟空》DLC 进度：让团队先“躺”两年](https://m.ithome.com/html/798950.htm)
+

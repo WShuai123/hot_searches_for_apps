@@ -335,3 +335,7 @@
 
 + [传暴雪第三次开发《星际争霸》宇宙射击游戏](https://www.3dmgame.com/news/202409/3905167.html)
 
++ [《七龙珠 电光炸裂！ZERO》PC配置公布 意外地低](https://www.3dmgame.com/news/202409/3905168.html)
+
++ [传任天堂新主机Switch 2将于明年3月/4月发售](https://www.3dmgame.com/news/202409/3905169.html)
+
