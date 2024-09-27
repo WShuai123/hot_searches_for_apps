@@ -141,3 +141,11 @@
 
 + [Tenuta Cavalla Bianco - Wine Label Concept](https://dribbble.com/shots/)
 
++ [Velobank - Digital Neo Bank Card Dashboard App UI](https://dribbble.com/shots/)
+
++ [Casper Cards: Send Crypto Coins Animation](https://dribbble.com/shots/)
+
++ [Website for Stability AI — An Artificial Intelligence Company](https://dribbble.com/shots/)
+
++ [Pet Egg House - Logo Design](https://dribbble.com/shots/)
+

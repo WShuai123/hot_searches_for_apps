@@ -195,3 +195,7 @@
 
 + [五子棋双人对战项目（1）——WebSocket介绍](https://blog.csdn.net/cool_tao6/article/details/142307408)
 
++ [滚雪球学SpringCloud[1.2]：微服务架构详解](https://blog.csdn.net/weixin_43970743/article/details/142557928)
+
++ [基于饥饿游戏搜索优化随机森林的数据回归预测 MATLAB 程序 HGS-RF](https://blog.csdn.net/qq_42978535/article/details/142565089)
+

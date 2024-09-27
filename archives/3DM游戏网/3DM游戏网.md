@@ -339,3 +339,43 @@
 
 + [传任天堂新主机Switch 2将于明年3月/4月发售](https://www.3dmgame.com/news/202409/3905169.html)
 
++ [动作冒险游戏《斩斩大冒险》Steam页面上线 支持简中](https://www.3dmgame.com/news/202402/3888920.html)
+
++ [《艾尔登法环》DLC是独立地图 和宁姆格福一样大](https://www.3dmgame.com/news/202402/3888919.html)
+
++ [《蟹蟹寻宝奇遇》发售日预告  4月26日上线](https://www.3dmgame.com/news/202402/3888913.html)
+
++ [《圣兽之王》Switch体验版上线 存档进度可继承](https://www.3dmgame.com/news/202402/3888921.html)
+
++ [来自微软的“馈赠” Switch Online新增五款经典Rare游戏](https://www.3dmgame.com/news/202402/3888923.html)
+
++ [索尼：PS5/PC平台上强大的第一方阵容是提高利润关键](https://www.3dmgame.com/news/202402/3888922.html)
+
++ [《夜莺传说》Steam评价褒贬不一：服务器还是有问题](https://www.3dmgame.com/news/202402/3888925.html)
+
++ [《深岩银河：幸存者》首周售出50万份 更新路线图公开](https://www.3dmgame.com/news/202402/3888926.html)
+
++ [《粘粘世界2》Epic页面开放 5月23日发售](https://www.3dmgame.com/news/202402/3888927.html)
+
++ [《高达破坏者4收藏版》预购开启 年内登陆PS/Switch](https://www.3dmgame.com/news/202402/3888924.html)
+
++ [《最终幻想7：重生》试玩版更新 新可玩内容上线](https://www.3dmgame.com/news/202402/3888928.html)
+
++ [PS PULSE耳机国行版今日上市 售价1149元起](https://www.3dmgame.com/news/202402/3888929.html)
+
++ [《帝国神话》登陆Steam 高自由度冷兵器战争沙盒](https://www.3dmgame.com/news/202402/3888930.html)
+
++ [《绝地潜兵2》引擎是“废弃软件” 开发商没有任何支持](https://www.3dmgame.com/news/202402/3888931.html)
+
++ [《星战：前线典藏版》Steam页面上线 3月14日发售](https://www.3dmgame.com/news/202402/3888932.html)
+
++ [模拟美国大选 《政选机器2024》将于5月推出](https://www.3dmgame.com/news/202402/3888933.html)
+
++ [黄仁勋赚麻了：英伟达全年净利润暴增近6倍！](https://www.3dmgame.com/news/202402/3888934.html)
+
++ [第一人称射击动作类肉鸽游戏《狂野混球》发布预览视频](https://www.3dmgame.com/news/202402/3888935.html)
+
++ [《艾尔登法环：黄金树之影》DLC确认会有“女武神”级别难度可选Boss](https://www.3dmgame.com/news/202402/3888936.html)
+
++ [《地球冒险3》登陆Swith在线仅限日本地区 海外玩家失望无比](https://www.3dmgame.com/news/202402/3888937.html)
+

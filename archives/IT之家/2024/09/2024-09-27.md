@@ -59,3 +59,5 @@
 
 + [游戏科学 CEO 冯骥谈《黑神话：悟空》DLC 进度：让团队先“躺”两年](https://m.ithome.com/html/798950.htm)
 
++ [苹果确认 iPhone 16 全系 Wi-Fi 7 仅支持 160MHz 带宽，与 Wi-Fi 6E 看齐](https://m.ithome.com/html/798937.htm)
+
