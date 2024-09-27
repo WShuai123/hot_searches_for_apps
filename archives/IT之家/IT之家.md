@@ -25,3 +25,5 @@
 
 + [苹果被曝最迟下周末推送 iOS / iPadOS 18.0.1，有望修复 M4 iPad 变砖、iPhone 16 触控失灵等问题](https://m.ithome.com/html/798721.htm)
 
++ [钉钉鸿蒙原生版上架华为 HarmonyOS NEXT 应用市场，开放用户测试](https://m.ithome.com/html/798973.htm)
+

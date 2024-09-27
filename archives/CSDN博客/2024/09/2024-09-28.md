@@ -105,3 +105,27 @@
 
 + [网络安全：保护数字时代的堡垒](https://blog.csdn.net/beautifulmemory/article/details/142597476)
 
++ [【机器学习案列】基于随机森林和xgboost的二手车价格回归预测](https://blog.csdn.net/qq_38614074/article/details/142596227)
+
++ [PyTorch构建卷积神经网络（CNN）训练模型：分步指南](https://blog.csdn.net/qq_42589613/article/details/142553129)
+
++ [如何利用多线程提高计算密集型任务的性能](https://blog.csdn.net/qq_36478920/article/details/142586071)
+
++ [OpenHarmony（鸿蒙南向）——平台驱动指南【MIPI DSI】](https://blog.csdn.net/u012165769/article/details/142563934)
+
++ [Windows系统使用Docker快速部署Focalboard结合内网穿透远程管理项目](https://blog.csdn.net/m0_61712829/article/details/142572727)
+
++ [基于丹摩DAMODEL部署Segment Anything 模型，智能分割一切图片](https://blog.csdn.net/github_35631540/article/details/142259734)
+
++ [FastGPT本地开发&线上部署](https://blog.csdn.net/2404_87623308/article/details/142517467)
+
++ [使用Postman搞定各种接口token实战](https://blog.csdn.net/qq_43371695/article/details/142555337)
+
++ [Flutter屏幕适配](https://blog.csdn.net/nonagontech/article/details/142575818)
+
++ [根据软件架构设计与评估的叙述开发一套机器学习应用开发平台](https://blog.csdn.net/g984160547/article/details/142529621)
+
++ [Kotlin：变量声明，null安全，条件语句，函数，类与对象](https://blog.csdn.net/IH_LZH/article/details/142533827)
+
++ [【小程序 - 大智慧】Expareser 组件渲染框架](https://blog.csdn.net/qq_53673551/article/details/142498258)
+
