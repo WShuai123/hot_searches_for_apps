@@ -169,3 +169,37 @@
 
 + [致敬经典回合制RPG新作《时之线》惊艳亮相](https://www.3dmgame.com/news/202409/3905081.html)
 
++ [卡牌村庄建造游戏《Kaya“s Prophecy》Steam页面开放 明年发售](https://www.3dmgame.com/news/202409/3905100.html)
+
++ [《少女魔净》续作《少女魔役》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202409/3905095.html)
+
++ [《刺客信条：影》跳票后 育碧股价一天狂跌超13%](https://www.3dmgame.com/news/202409/3905101.html)
+
++ [《浩劫前夕》开发商Fntastic卷土重来 推出全新众筹项目](https://www.3dmgame.com/news/202409/3905098.html)
+
++ [黑暗科幻风平台解谜游戏《Bionic Bay: 换影循迹》现已提供试玩Demo](https://www.3dmgame.com/news/202409/3905099.html)
+
++ [《地平线：零之曙光》复刻版与原版对比 女主好看了？](https://www.3dmgame.com/news/202409/3905097.html)
+
++ [《疾速追杀》衍生片《芭蕾女杀手》首曝预告](https://www.3dmgame.com/news/202409/3905096.html)
+
++ [30周年纪念版PS5 Pro定价1000美元 黄牛已在天价倒卖](https://www.3dmgame.com/news/202409/3905094.html)
+
++ [育碧法国员工因每周必须有三天要回到办公室的远程工作改革可能被迫罢工](https://www.3dmgame.com/news/202409/3905093.html)
+
++ [《寂静岭2：重制版》开发者信心十足 称游戏质量很高](https://www.3dmgame.com/news/202409/3905092.html)
+
++ [加州通过新法 强迫商店承认玩家不拥有数字游戏](https://www.3dmgame.com/news/202409/3905091.html)
+
++ [《真三国无双：起源》中文演示视频 割草很爽快！](https://www.3dmgame.com/news/202409/3905090.html)
+
++ [《微软飞行模拟2024》开启预购 Steam锁国区](https://www.3dmgame.com/news/202409/3905088.html)
+
++ [《怪物猎人：荒野》中文介绍视频 调查队踏上旅途](https://www.3dmgame.com/news/202409/3905089.html)
+
++ [《地平线：零之曙光》原版突然提价：不让玩家捡便宜获复刻版](https://www.3dmgame.com/news/202409/3905087.html)
+
++ [《星球大战：亡命之徒》Steam商店页 需关联育碧账户](https://www.3dmgame.com/news/202409/3905086.html)
+
++ [小岛秀夫拒绝了制作一部高预算《死亡搁浅》电影的提议](https://www.3dmgame.com/news/202409/3905085.html)
+

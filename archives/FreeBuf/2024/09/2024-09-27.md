@@ -45,3 +45,7 @@
 
 + [brida和frida练习hook逆向技术【中】](https://www.freebuf.com/articles/endpoint/411444.html)
 
++ [起亚经销商网站曝出严重漏洞！黑客可在30秒内远程操控数百万辆汽车](https://www.freebuf.com/news/411878.html)
+
++ [RapidCMS 几个常见漏洞(审计)](https://www.freebuf.com/vuls/409618.html)
+

@@ -75,3 +75,11 @@
 
 + [炉石抢劫式逼氪？！想要账号就要交保护费！开服游戏都进不去雷火你到底在干嘛](http://www.acfun.cn/v/ac46300828)
 
++ [hjm秋哥秀vol.6](http://www.acfun.cn/v/ac46298973)
+
++ [现场直击！TGS2024东京游戏展Day1](http://www.acfun.cn/v/ac46300806)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.10](http://www.acfun.cn/v/ac46298986)
+
++ [IGN被指暗改黑猴投票数据，如此着急给中国游戏“套箍”？](http://www.acfun.cn/v/ac46298500)
+

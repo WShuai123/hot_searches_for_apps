@@ -33,3 +33,5 @@
 
 + [抖音：9 月 21 日起已对三只羊旗下账号进行停播处理](https://m.ithome.com/html/798706.htm)
 
++ [苹果 iPhone 16 Pro / Max 拆解：电池用传统粘合剂、Max 款未包裹金属](https://m.ithome.com/html/798739.htm)
+
