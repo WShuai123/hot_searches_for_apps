@@ -379,3 +379,11 @@
 
 + [《地球冒险3》登陆Swith在线仅限日本地区 海外玩家失望无比](https://www.3dmgame.com/news/202402/3888937.html)
 
++ [10月发售游戏预览 《寂静岭2：重制版》等](https://www.3dmgame.com/news/202409/3905174.html)
+
++ [光荣《维纳斯璀璨假期：死或生沙滩排球》正式公开](https://www.3dmgame.com/news/202409/3905172.html)
+
++ [《原神》5.1版本PV发布 10月9日上线](https://www.3dmgame.com/news/202409/3905173.html)
+
++ [横版平台游戏《LAPIN》12月5日移植Switch](https://www.3dmgame.com/news/202409/3905171.html)
+
