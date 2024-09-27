@@ -59,3 +59,7 @@
 
 + [记一次某安卓APP渗透测试解决抓包方案](https://www.freebuf.com/articles/mobile/408337.html)
 
++ [为什么马斯克一直diss苹果AI不安全？](https://www.freebuf.com/articles/neopoints/411840.html)
+
++ [FreeBuf 全球网络安全产业投融资观察（8月）](https://www.freebuf.com/news/411936.html)
+

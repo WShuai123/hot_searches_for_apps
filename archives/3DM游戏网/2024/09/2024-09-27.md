@@ -293,3 +293,39 @@
 
 + [还考虑油车吗！国际油价要持续下跌了：产油第一大国沙特要放开产能](https://www.3dmgame.com/news/202409/3905143.html)
 
++ [RTX5090/5080规格完整曝光：英伟达强行拉大差距](https://www.3dmgame.com/news/202409/3905165.html)
+
++ [合作铁路建设游戏《一起开火车2：汽笛重鸣》将于11月发售](https://www.3dmgame.com/news/202409/3905164.html)
+
++ [9月国产游戏版号发布 《菲尔纳传说》、《剑侠情缘・零》过审](https://www.3dmgame.com/news/202409/3905163.html)
+
++ [微博画师发文称《黑神话：悟空》抄袭 网友质疑其IP在日本](https://www.3dmgame.com/news/202409/3905162.html)
+
++ [《小小贴纸铺》现已推出与《Among Us》的联动免费更新，新增船员主题贴纸](https://www.3dmgame.com/news/202409/3905157.html)
+
++ [冯骥：《黑神话：悟空》DLC或至少两年后推出](https://www.3dmgame.com/news/202409/3905156.html)
+
++ [卡牌策略神作《阿斯特赖亚》今日登陆主机平台，新增每日挑战模式](https://www.3dmgame.com/news/202409/3905155.html)
+
++ [回合制Roguelike游戏《斗食战酱》将于2025发售，呈现史诗级的美食战斗](https://www.3dmgame.com/news/202409/3905154.html)
+
++ [国产策略游戏《钢铁指挥官》正式发布1.0版本，推出全新赛季系统，限时七折热销中](https://www.3dmgame.com/news/202409/3905158.html)
+
++ [Level Infinite 回归2024东京游戏展，多款跨端大作亮相](https://www.3dmgame.com/news/202409/3905161.html)
+
++ [沉浸式真人美女恋爱互动《这个是真的喜欢！》定档10月18日!](https://www.3dmgame.com/news/202409/3905160.html)
+
++ [叙事驱动的心理恐怖游戏《缄默祸运》现已发售](https://www.3dmgame.com/news/202409/3905159.html)
+
++ [《黑神话：悟空》角色新建模图：四妹太美丽 气场强大](https://www.3dmgame.com/news/202409/3905149.html)
+
++ [《恶魔轮盘》发行商在Xbox东京游戏展2024上公布可爱休闲游戏《狸狸：胖哒的夏日》](https://www.3dmgame.com/news/202409/3905148.html)
+
++ [俯视角动作肉鸽《鸦卫奇旅》现已结束抢先体验，推出1.0版本!](https://www.3dmgame.com/news/202409/3905152.html)
+
++ [国人都渴望买属于自己的车！中国科协主席：中国汽车产业并没有产能过剩](https://www.3dmgame.com/news/202409/3905151.html)
+
++ [《海上钢琴师》影星提姆·罗斯加盟《浴血黑帮》电影](https://www.3dmgame.com/news/202409/3905153.html)
+
++ [《星穹遗迹》：宇宙恐怖动作平台游戏将于10月24日登陆PC和任天堂Switch](https://www.3dmgame.com/news/202409/3905150.html)
+
