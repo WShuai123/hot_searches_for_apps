@@ -27,3 +27,5 @@
 
 + [钉钉鸿蒙原生版上架华为 HarmonyOS NEXT 应用市场，开放用户测试](https://m.ithome.com/html/798973.htm)
 
++ [小米 Redmi 手机：Note 一直坚持做红外，之前有产品砍过被骂回来了、再也不敢砍了](https://m.ithome.com/html/798999.htm)
+
