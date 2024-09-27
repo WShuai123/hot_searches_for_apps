@@ -231,3 +231,13 @@
 
 + [《饿狼传说 City of the Wolves》联动街霸角色 “肯”与“春丽”决定参战！](https://www.3dmgame.com/news/202409/3905112.html)
 
++ [好评如潮独立游戏《GRIS》销量已达300万份](https://www.3dmgame.com/news/202409/3905116.html)
+
++ [《变形金刚：起源》今日上映 千“变”同框精彩超乎想象](https://www.3dmgame.com/news/202409/3905117.html)
+
++ [战争策略对战游戏《钢铁指挥官》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202409/3905118.html)
+
++ [沙特首座游戏主题特区UBAR宣传片 现实赛博朋克城市](https://www.3dmgame.com/news/202409/3905120.html)
+
++ [电影《哆啦A梦：大雄的绘世界物语》新预告 2025年3月7日上映](https://www.3dmgame.com/news/202409/3905119.html)
+
