@@ -37,3 +37,5 @@
 
 + [【IT之家评测室】Redmi Note 14 Pro+ 手机体验：抗摔更防水，续航小金刚](https://m.ithome.com/html/798670.htm)
 
++ [力度升级：政府数码家电补贴单笔 2000 元，四川加码再省 4000 元全国可用](https://m.ithome.com/html/798596.htm)
+

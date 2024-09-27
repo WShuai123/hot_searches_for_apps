@@ -51,3 +51,7 @@
 
 + [初识Java Agent 内存马](https://www.freebuf.com/articles/web/411461.html)
 
++ [CUPS 漏洞能使攻击者对Linux电脑远程执行任意代码](https://www.freebuf.com/news/411893.html)
+
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+

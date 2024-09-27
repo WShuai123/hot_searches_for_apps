@@ -21,3 +21,5 @@
 
 + [斗罗大陆：逆转时空](https://www.taptap.cn/app/489966)
 
++ [金铲铲之战](https://www.taptap.cn/app/176937)
+

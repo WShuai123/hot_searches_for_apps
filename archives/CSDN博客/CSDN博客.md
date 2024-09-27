@@ -159,3 +159,7 @@
 
 + [【Java网络编程】使用Tcp和Udp实现一个小型的回声客户端服务器程序](https://blog.csdn.net/yican2580/article/details/142525286)
 
++ [【Python篇】Python + OpenCV 全面实战：解锁图像处理与视觉智能的核心技能](https://blog.csdn.net/2301_79849925/article/details/142449816)
+
++ [学习threejs，实现几何体阴影效果](https://blog.csdn.net/qq_28419035/article/details/142514647)
+
