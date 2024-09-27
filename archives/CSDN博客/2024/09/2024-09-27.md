@@ -163,3 +163,11 @@
 
 + [学习threejs，实现几何体阴影效果](https://blog.csdn.net/qq_28419035/article/details/142514647)
 
++ [【艾思科蓝】网络安全的隐秘战场：构筑数字世界的铜墙铁壁](https://blog.csdn.net/weixin_73295475/article/details/142587269)
+
++ [Spring Boot 实战：使用观察者模式实现实时库存管理](https://blog.csdn.net/h356363/article/details/142580382)
+
++ [打造高质量软件架构 - 9大质量属性](https://blog.csdn.net/magicyangjay111/article/details/142587528)
+
++ [【redis-03】redis缓存穿透、缓存击穿、缓存雪崩](https://blog.csdn.net/zhenghuishengq/article/details/142577507)
+

@@ -109,3 +109,27 @@
 
 + [Nuvio](https://www.producthunt.com/posts/nuvio)
 
++ [SimplyBudget](https://www.producthunt.com/posts/simplybudget)
+
++ [Paid Newsletters by beehiiv](https://www.producthunt.com/posts/paid-newsletters-by-beehiiv-1)
+
++ [Newsletter Radar by SparkLoop](https://www.producthunt.com/posts/newsletter-radar-by-sparkloop)
+
++ [Warranty Book](https://www.producthunt.com/posts/warranty-book)
+
++ [Cheffie](https://www.producthunt.com/posts/cheffie)
+
++ [Candle Jar](https://www.producthunt.com/posts/candle-jar)
+
++ [Hubform](https://www.producthunt.com/posts/hubform)
+
++ [panda{·}etl](https://www.producthunt.com/posts/panda-etl)
+
++ [kubewall](https://www.producthunt.com/posts/kubewall)
+
++ [North](https://www.producthunt.com/posts/north-3)
+
++ [Creativit 1.2](https://www.producthunt.com/posts/creativit-1-2)
+
++ [Triforce Todos](https://www.producthunt.com/posts/triforce-todos)
+

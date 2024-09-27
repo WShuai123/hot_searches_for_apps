@@ -245,3 +245,27 @@
 
 + [看电视人多了！官方：电视已全面取消开机广告](https://www.3dmgame.com/news/202409/3905121.html)
 
++ [《怪物猎人：荒野》登顶Steam最热愿望单产品榜](https://www.3dmgame.com/news/202409/3905131.html)
+
++ [《天堂岛杀手》工作室新作公布 《达愿福神社》在东京游戏展首次发布全新预告片](https://www.3dmgame.com/news/202409/3905132.html)
+
++ [校园恋爱漫画《前辈是男孩子》剧场版预告公布 2025年情人节上映](https://www.3dmgame.com/news/202409/3905133.html)
+
++ [名导斯皮尔伯格是PC游戏超级玩家：只用键鼠喜欢FPS](https://www.3dmgame.com/news/202409/3905134.html)
+
++ [一人一剑一宠，荡平江湖。国风动作肉鸽游戏《墨境》现已发售！](https://www.3dmgame.com/news/202409/3905125.html)
+
++ [消息称Arm询问收购英特尔处理器产品部门 后者表示不卖](https://www.3dmgame.com/news/202409/3905126.html)
+
++ [《文明7》新领袖——奥古斯都介绍视频](https://www.3dmgame.com/news/202409/3905127.html)
+
++ [《文明7》中国文明：汉朝](https://www.3dmgame.com/news/202409/3905128.html)
+
++ [《文明7》新领袖——中国领袖“孔子”介绍视频](https://www.3dmgame.com/news/202409/3905129.html)
+
++ [国家广电总局：电视内置机顶盒有望年底前完成样机研制](https://www.3dmgame.com/news/202409/3905130.html)
+
++ [《换影循迹》在CONVERGENCE GAMES SHOWCASE中呈现令人惊艳的全新预告片](https://www.3dmgame.com/news/202409/3905123.html)
+
++ [《战锤40K：星际战士2》开发商承认与混沌战士作战不够有趣 推出补丁降低难度](https://www.3dmgame.com/news/202409/3905124.html)
+
