@@ -203,3 +203,23 @@
 
 + [小岛秀夫拒绝了制作一部高预算《死亡搁浅》电影的提议](https://www.3dmgame.com/news/202409/3905085.html)
 
++ [国产模拟养成游戏《火山的女儿》Switch版暂停开发 恢复时间待定](https://www.3dmgame.com/news/202409/3905110.html)
+
++ [暴雪创始人之一迈克·莫汉之所以选择离开 是因为厌倦了与鲍比·科蒂克的斗争](https://www.3dmgame.com/news/202409/3905109.html)
+
++ [《火影忍者：终极风暴羁绊》角色DLC“漩涡博人（「楔」进化）”发售 定价38元](https://www.3dmgame.com/news/202409/3905108.html)
+
++ [《刺客信条：影》延期后 育碧股价再创新低暴跌近20%](https://www.3dmgame.com/news/202409/3905107.html)
+
++ [卡牌射击游戏《FragPunk》10月10日封闭测试](https://www.3dmgame.com/news/202409/3905111.html)
+
++ [育碧投资方呼吁高层改革和出售公司 已获10%支持](https://www.3dmgame.com/news/202409/3905102.html)
+
++ [卡普空希望《生化危机9》大获成功 M站评分达到90分以上](https://www.3dmgame.com/news/202409/3905104.html)
+
++ [第三人称魂系潜行动作游戏《BANSHEE: Demon Girl》Steam页面开放 明年发售](https://www.3dmgame.com/news/202409/3905106.html)
+
++ [机甲射击类动作肉鸽游戏《负熵幸存者》现已推出试玩Demo 计划于12月5日正式发行](https://www.3dmgame.com/news/202409/3905105.html)
+
++ [《一起开火车2：汽笛重鸣》新预告 11月7日开启抢先体验](https://www.3dmgame.com/news/202409/3905103.html)
+
