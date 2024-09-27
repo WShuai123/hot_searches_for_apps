@@ -101,3 +101,9 @@
 
 + [《崩坏：星穹铁道》灵砂角色PV——「燎沉香」](https://www.3dmgame.com/news/202409/3905144.html)
 
++ [赛博黄金“黑暗之魂”系列5折促销 魂三134元](https://www.3dmgame.com/news/202409/3905177.html)
+
++ [《暗喻幻想：ReFantazio》优化问题官方回应：正在验证](https://www.3dmgame.com/news/202409/3905176.html)
+
++ [卡牌横板《魂宠猎人》11月7日发售 支持试玩](https://www.3dmgame.com/news/202409/3905175.html)
+
