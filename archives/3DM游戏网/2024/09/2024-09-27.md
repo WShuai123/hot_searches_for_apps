@@ -269,3 +269,17 @@
 
 + [《战锤40K：星际战士2》开发商承认与混沌战士作战不够有趣 推出补丁降低难度](https://www.3dmgame.com/news/202409/3905124.html)
 
++ [《死侍与金刚狼》已入围金球奖喜剧类等多个奖项提名](https://www.3dmgame.com/news/202409/3905141.html)
+
++ [《EA SPORTS FC 25》Steam正式发售 评价“褒贬不一”](https://www.3dmgame.com/news/202409/3905142.html)
+
++ [知名日本歌手酸欠少女Sayuri去世 曾因病停止演艺活动修养](https://www.3dmgame.com/news/202409/3905139.html)
+
++ [电影改编恐怖游戏《咒》Demo 10月15日新品节上线](https://www.3dmgame.com/news/202409/3905138.html)
+
++ [明晚20点！KK官方对战平台携手sky邀你来看war3年度大动作！](https://www.3dmgame.com/news/202409/3905137.html)
+
++ [今晚20点！KK官方对战平台携手sky邀你来看war3年度大动作！](https://www.3dmgame.com/news/202409/3905136.html)
+
++ [KK官方对战平台最强续作《千钧一发2》经典回归，带你勇闯轮回圣塔！](https://www.3dmgame.com/news/202409/3905135.html)
+

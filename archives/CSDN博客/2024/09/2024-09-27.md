@@ -171,3 +171,7 @@
 
 + [【redis-03】redis缓存穿透、缓存击穿、缓存雪崩](https://blog.csdn.net/zhenghuishengq/article/details/142577507)
 
++ [【HDP】zookeeper未授权漏洞修复](https://blog.csdn.net/qq_35995514/article/details/142567915)
+
++ [【网络安全】数字签名](https://blog.csdn.net/weixin_45627039/article/details/142566493)
+

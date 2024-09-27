@@ -133,3 +133,7 @@
 
 + [Triforce Todos](https://www.producthunt.com/posts/triforce-todos)
 
++ [Gaia](https://www.producthunt.com/posts/gaia-3)
+
++ [ayraa 2.0](https://www.producthunt.com/posts/ayraa-2-0)
+
