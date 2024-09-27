@@ -175,3 +175,7 @@
 
 + [【网络安全】数字签名](https://blog.csdn.net/weixin_45627039/article/details/142566493)
 
++ [8种数值变量的特征工程技术：利用Sklearn、Numpy和Python将数值转化为预测模型的有效特征](https://blog.csdn.net/m0_46510245/article/details/142586631)
+
++ [基于协同过滤推荐算法+微信小程序+SpringBoot的农产品团购推荐平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/142590721)
+

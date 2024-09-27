@@ -99,3 +99,7 @@
 
 + [Party train](http://www.acfun.cn/v/ac46300608)
 
++ [在a站放个废稿，虽然废掉了，但是我还是很喜欢](http://www.acfun.cn/v/ac46303302)
+
++ [3元自助取消了！米村拌饭，真的很便宜？](http://www.acfun.cn/v/ac46297355)
+
