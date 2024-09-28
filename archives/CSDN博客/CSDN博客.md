@@ -163,3 +163,15 @@
 
 + [无人机避障——4D 毫米波雷达 SLAM篇（一）](https://blog.csdn.net/weixin_45390670/article/details/142363587)
 
++ [【机器学习】目标分类算法概述](https://blog.csdn.net/qq_44214428/article/details/142422766)
+
++ [【机器学习】---深入探讨图神经网络（GNN）](https://blog.csdn.net/2301_80863610/article/details/142498608)
+
++ [基于 C# 的文本文件的编码识别](https://blog.csdn.net/zyyujq/article/details/142600284)
+
++ [丹摩智算平台部署 Llama 3.1：实践与体验](https://blog.csdn.net/qq_36478920/article/details/142559831)
+
++ [【分布式微服务云原生】windows+docker+mysql5.7.44一主一从主从复制](https://blog.csdn.net/u010425839/article/details/142604728)
+
++ [【如何学习操作系统】——学会学习的艺术](https://blog.csdn.net/zhaochen1127/article/details/142602322)
+

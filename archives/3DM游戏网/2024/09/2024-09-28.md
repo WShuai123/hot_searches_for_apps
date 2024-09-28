@@ -149,3 +149,11 @@
 
 + [《心灵杀手》开发商Remedy获腾讯1500万欧元贷款](https://www.3dmgame.com/news/202409/3905191.html)
 
++ [热门中世纪经营模拟《庄园领主》销量超过250万份](https://www.3dmgame.com/news/202409/3905202.html)
+
++ [加州新法规：要求平台明确数字版游戏购买≠所有权](https://www.3dmgame.com/news/202409/3905199.html)
+
++ [OpenAI计划融65亿美元 苹果被曝退出本次融资](https://www.3dmgame.com/news/202409/3905201.html)
+
++ [ARIKA宣布签下《俄罗斯方块》新作授权 半年内发布](https://www.3dmgame.com/news/202409/3905200.html)
+
