@@ -71,3 +71,5 @@
 
 + [OPPO 周意保分享 ColorOS 15 操作视频，流体云动画效果曝光](https://m.ithome.com/html/799115.htm)
 
++ [华为 Pura 70 全系手机大促，京东自营至高立减 1500 元](https://m.ithome.com/html/799149.htm)
+

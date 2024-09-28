@@ -229,3 +229,13 @@
 
 + [Python 在Excel中创建、更新和删除数据透视表](https://blog.csdn.net/nuclear2011/article/details/142596739)
 
++ [【AI驱动 TDSQL-C Serverless 数据库技术实战营】AI赋能电商数据管理](https://blog.csdn.net/wypdao/article/details/142581012)
+
++ [【微服务】springboot 实现动态修改接口返回值](https://blog.csdn.net/zhangcongyi420/article/details/142275921)
+
++ [电商系统开发全攻略：基于Spring Boot的在线商城](https://blog.csdn.net/2401_85761762/article/details/142615160)
+
++ [【RL Latest Tech】离线强化学习：行为规范Actor Critic (BRAC) 算法](https://blog.csdn.net/qq_51399582/article/details/142501686)
+
++ [自学网络安全（黑客技术）2024年 —90天学习计划](https://blog.csdn.net/2401_85026291/article/details/142591236)
+

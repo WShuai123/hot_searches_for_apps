@@ -125,3 +125,7 @@
 
 + [VegaBet - Online Casino Platform](https://dribbble.com/shots/)
 
++ [Paw - Letter cp - logo design](https://dribbble.com/shots/)
+
++ [Fintech / Finance Website](https://dribbble.com/shots/)
+

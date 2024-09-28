@@ -207,3 +207,5 @@
 
 + [《羊蹄山之鬼》的开放世界将不再那么重复](https://www.3dmgame.com/news/202409/3905225.html)
 
++ [玩家欲打造《战神5》黑人女主洗白MOD 被多次删除](https://www.3dmgame.com/news/202409/3905228.html)
+
