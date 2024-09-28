@@ -221,3 +221,7 @@
 
 + [实现语音合成的三种方法：HTML5 Web Speech 、speak-tts、百度语音合成](https://blog.csdn.net/weixin_45274678/article/details/142587535)
 
++ [【qt】QQ仿真项目1](https://blog.csdn.net/qq_74047911/article/details/142462389)
+
++ [Mybatis详细教程 （万字详解)](https://blog.csdn.net/2301_79083000/article/details/142600252)
+

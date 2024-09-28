@@ -65,3 +65,7 @@
 
 + [小米 Redmi 手机：Note 14 Pro 系列首销日对比 Note 13 Pro 系列销量翻倍](https://m.ithome.com/html/798990.htm)
 
++ [蔚来乐道：没有单独售卖仪表盘的计划，真有仪表盘不见得有必要](https://m.ithome.com/html/799012.htm)
+
++ [消息称鸿蒙智行智界 R7 汽车 1.2 万元选配金开放选配 100 度电池](https://m.ithome.com/html/799028.htm)
+
