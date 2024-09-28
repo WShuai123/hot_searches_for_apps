@@ -33,3 +33,7 @@
 
 + [小米充电宝 25000 212W 开售：单口功率 140W，到手价 549 元](https://m.ithome.com/html/798943.htm)
 
++ [消息称华为 Mate X6 折叠屏手机在加单：11 月左右发布，同期没有竞品](https://m.ithome.com/html/798938.htm)
+
++ [iQOO 13 手机全球首发 BOE 最新一代发光材料：相比上代寿命提升 33%、功耗降低 10%](https://m.ithome.com/html/798966.htm)
+

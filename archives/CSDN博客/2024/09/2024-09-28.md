@@ -137,3 +137,13 @@
 
 + [程序bug的修复之道](https://blog.csdn.net/z86666610/article/details/142520923)
 
++ [计算机网络——TCP/IP网络模型](https://blog.csdn.net/weixin_42824596/article/details/142585490)
+
++ [一文读懂Ingress-Nginx以及实践攻略](https://blog.csdn.net/u013522701/article/details/142589291)
+
++ [51单片机系列-按键检测原理](https://blog.csdn.net/in_seattle/article/details/142577045)
+
++ [使用 Llama 3.1 和 Qdrant 构建多语言医疗保健聊天机器人的步骤](https://blog.csdn.net/myboyliu2007/article/details/142555491)
+
++ [本地部署开源在线PPT制作与演示应用PPTist并实现异地远程使用](https://blog.csdn.net/2201_75743654/article/details/142553125)
+
