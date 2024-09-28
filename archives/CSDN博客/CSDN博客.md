@@ -225,3 +225,7 @@
 
 + [Mybatis详细教程 （万字详解)](https://blog.csdn.net/2301_79083000/article/details/142600252)
 
++ [【AIGC】ChatGPT提示词助力自媒体内容创作升级](https://blog.csdn.net/2201_75539691/article/details/142617061)
+
++ [Python 在Excel中创建、更新和删除数据透视表](https://blog.csdn.net/nuclear2011/article/details/142596739)
+

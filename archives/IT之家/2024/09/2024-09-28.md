@@ -69,3 +69,5 @@
 
 + [消息称鸿蒙智行智界 R7 汽车 1.2 万元选配金开放选配 100 度电池](https://m.ithome.com/html/799028.htm)
 
++ [OPPO 周意保分享 ColorOS 15 操作视频，流体云动画效果曝光](https://m.ithome.com/html/799115.htm)
+

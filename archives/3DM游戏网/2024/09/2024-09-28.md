@@ -199,3 +199,11 @@
 
 + [《觉醒者：崛起》最新演示公布 2025年发售](https://www.3dmgame.com/news/202409/3905222.html)
 
++ [OpenAI据悉8月收入达3亿美元 预计今年收入约为37亿美元](https://www.3dmgame.com/news/202409/3905226.html)
+
++ [《雷顿教授与蒸气新世界》TGS 12分钟实机](https://www.3dmgame.com/news/202409/3905227.html)
+
++ [动视暴雪10月将再裁员400人 加州手游部门受影响](https://www.3dmgame.com/news/202409/3905224.html)
+
++ [《羊蹄山之鬼》的开放世界将不再那么重复](https://www.3dmgame.com/news/202409/3905225.html)
+
