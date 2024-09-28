@@ -25,3 +25,5 @@
 
 + [消息称鸿蒙智行智界 R7 汽车 1.2 万元选配金开放选配 100 度电池](https://m.ithome.com/html/799028.htm)
 
++ [i5-13400F+RTX4060Ti：联想 T4900k 台式机 16+1TB 版 4799 元](https://m.ithome.com/html/799147.htm)
+

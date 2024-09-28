@@ -101,3 +101,11 @@
 
 + [Python Web架构：微服务与服务网格的实践](https://blog.csdn.net/weixin_52392194/article/details/142594571)
 
++ [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_85023453/article/details/142587590)
+
++ [基于yolov8的辣椒缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142610000)
+
++ [【机器学习】——决策树以及随机森林](https://blog.csdn.net/ZWW_zhangww/article/details/142620222)
+
++ [泰始明昌文旅：文旅人货场到底是啥](https://blog.csdn.net/taishimingchang/article/details/142592524)
+
