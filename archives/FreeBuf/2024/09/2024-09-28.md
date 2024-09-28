@@ -49,3 +49,7 @@
 
 + [恶意Bot流量识别分析实践](https://www.freebuf.com/articles/web/411344.html)
 
++ [如何使用SCCMSecrets识别SCCM策略中潜在的安全问题](https://www.freebuf.com/sectool/411778.html)
+
++ [IPA：一款交互式PDF安全分析与审计工具](https://www.freebuf.com/sectool/411773.html)
+

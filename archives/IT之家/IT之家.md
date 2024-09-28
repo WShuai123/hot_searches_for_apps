@@ -47,3 +47,5 @@
 
 + [深圳通推出 NFC 手机限时免费开卡活动，支持 336 个城市使用](https://m.ithome.com/html/798865.htm)
 
++ [三星 Galaxy S25 Plus 手机跑分曝光：骁龙 8 Gen 4 芯片 + 12GB 内存](https://m.ithome.com/html/798899.htm)
+

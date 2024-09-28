@@ -185,3 +185,11 @@
 
 + [YOLOv8改进 - 注意力篇 - 引入(A2-Nets)Double Attention Networks注意力机制](https://blog.csdn.net/2301_79619145/article/details/142601192)
 
++ [[Redis][主从复制][上]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142520007)
+
++ [数据链路层之以太网](https://blog.csdn.net/zhyhgx/article/details/142593285)
+
++ [PO2GO、PO2Vec论文阅读与模型复现报告](https://blog.csdn.net/C20180602_csq/article/details/142532075)
+
++ [基于微信小程序的特色乡村综合展示平台设计与实现（源码+文档+讲解开发）](https://blog.csdn.net/m0_64148096/article/details/142603210)
+
