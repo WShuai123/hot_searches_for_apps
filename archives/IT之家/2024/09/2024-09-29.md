@@ -27,3 +27,5 @@
 
 + [i5-13400F+RTX4060Ti：联想 T4900k 台式机 16+1TB 版 4799 元](https://m.ithome.com/html/799147.htm)
 
++ [华为 Mate 60 / Pura 70 系列及 Pocket 2 等手机获推鸿蒙 HarmonyOS NEXT 0.0.70 Beta 版升级](https://m.ithome.com/html/799175.htm)
+

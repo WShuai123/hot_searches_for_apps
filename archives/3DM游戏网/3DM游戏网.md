@@ -103,3 +103,9 @@
 
 + [好评2D动作游戏《九日》11月26日登陆主机平台](https://www.3dmgame.com/news/202409/3905229.html)
 
++ [超英游戏《UNDEFEATED: Genesis》演示视频首曝](https://www.3dmgame.com/news/202409/3905232.html)
+
++ [网飞《乱马1/2》开播在即 活力OP视频公布](https://www.3dmgame.com/news/202409/3905231.html)
+
++ [卡普空暗示《逆转裁判》系列新作正在筹备中](https://www.3dmgame.com/news/202409/3905230.html)
+
