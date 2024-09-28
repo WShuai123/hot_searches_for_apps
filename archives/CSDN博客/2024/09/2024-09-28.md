@@ -219,3 +219,5 @@
 
 + [微服务--SpringAMQP](https://blog.csdn.net/weixin_51933701/article/details/142515678)
 
++ [实现语音合成的三种方法：HTML5 Web Speech 、speak-tts、百度语音合成](https://blog.csdn.net/weixin_45274678/article/details/142587535)
+

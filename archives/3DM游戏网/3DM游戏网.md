@@ -195,3 +195,7 @@
 
 + [英国PlayStation用户向索尼发起集体诉讼 2026年开庭](https://www.3dmgame.com/news/202409/3905221.html)
 
++ [AMD计划推出锐龙5 9600X3D 延续中端X3D产品线](https://www.3dmgame.com/news/202409/3905223.html)
+
++ [《觉醒者：崛起》最新演示公布 2025年发售](https://www.3dmgame.com/news/202409/3905222.html)
+

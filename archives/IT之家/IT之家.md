@@ -61,3 +61,7 @@
 
 + [《黑神话：悟空》重新登顶 IGN 2024 年度游戏投票榜，后者发文回应争议](https://m.ithome.com/html/799095.htm)
 
++ [余承东回应“傲界”改名“尊界”：“傲”中华文化觉得不够谦虚](https://m.ithome.com/html/799120.htm)
+
++ [小米 Redmi 手机：Note 14 Pro 系列首销日对比 Note 13 Pro 系列销量翻倍](https://m.ithome.com/html/798990.htm)
+
