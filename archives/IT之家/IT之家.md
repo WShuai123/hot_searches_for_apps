@@ -51,3 +51,9 @@
 
 + [任天堂 Switch 2 游戏掌机最后冲刺：8 英寸屏幕、磁性 Joycon、解决摇杆磨损问题、向后兼容，明年三 / 四月发售](https://m.ithome.com/html/799057.htm)
 
++ [上交所：对于股票竞价交易异常情况的发生，深表歉意](https://m.ithome.com/html/799034.htm)
+
++ [中国登月服外观首次亮相，征名活动现已启动](https://m.ithome.com/html/799058.htm)
+
++ [余承东：ADS 3.0 现在还不是 L3，是按照 L3 的标准去进行设计的](https://m.ithome.com/html/799076.htm)
+

@@ -209,3 +209,7 @@
 
 + [【设计模式】精通高级行为模式：揭秘状态、中介者及其它模式的深层机制](https://blog.csdn.net/c18213590220/article/details/142433022)
 
++ [机器学习-SVM](https://blog.csdn.net/junxinsiwo/article/details/142588358)
+
++ [51单片机系列-串口（UART）通信技术](https://blog.csdn.net/in_seattle/article/details/142594306)
+
