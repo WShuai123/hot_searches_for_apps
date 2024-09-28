@@ -57,3 +57,7 @@
 
 + [余承东：ADS 3.0 现在还不是 L3，是按照 L3 的标准去进行设计的](https://m.ithome.com/html/799076.htm)
 
++ [高通骁龙 8 Gen 4 家族芯片曝光，高频核心探索性能极限](https://m.ithome.com/html/799077.htm)
+
++ [《黑神话：悟空》重新登顶 IGN 2024 年度游戏投票榜，后者发文回应争议](https://m.ithome.com/html/799095.htm)
+

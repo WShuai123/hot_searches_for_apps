@@ -189,3 +189,9 @@
 
 + [《星鸣特攻》首发月在欧洲地区销量仅排到347位](https://www.3dmgame.com/news/202409/3905218.html)
 
++ [《最终幻想16》PC版更新 提升稳定性修复多处BUG](https://www.3dmgame.com/news/202409/3905219.html)
+
++ [《终结者》导演詹姆斯·卡梅隆加入AI公司董事会](https://www.3dmgame.com/news/202409/3905220.html)
+
++ [英国PlayStation用户向索尼发起集体诉讼 2026年开庭](https://www.3dmgame.com/news/202409/3905221.html)
+

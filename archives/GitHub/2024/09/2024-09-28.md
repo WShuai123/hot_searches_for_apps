@@ -37,3 +37,27 @@
 
 + [meta-llama / llama-models](https://github.com/meta-llama/llama-models)
 
++ [mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe)
+
++ [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
+
++ [ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
+
++ [exo-explore / exo](https://github.com/exo-explore/exo)
+
++ [LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+
++ [krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)
+
++ [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [huggingface / trl](https://github.com/huggingface/trl)
+
++ [nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace)
+
++ [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
+
++ [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
