@@ -163,3 +163,21 @@
 
 + [《Farming Simulator 25》送海量真大米？达成2万心愿单就送所有玩家农机DLC](https://www.3dmgame.com/news/202409/3905204.html)
 
++ [小米、OPPO、vivo、联想应用商店开始逐步清理32位应用](https://www.3dmgame.com/news/202409/3905214.html)
+
++ [《真・三国无双 起源》武将/战斗/武器官方最新资讯！](https://www.3dmgame.com/news/202409/3905211.html)
+
++ [《射雕英雄传》电影想看人数破30万 肖战饰演郭靖](https://www.3dmgame.com/news/202409/3905212.html)
+
++ [《无名九使：觉醒》概述预告片 详细介绍游戏内容](https://www.3dmgame.com/news/202409/3905213.html)
+
++ [展开『蕾斯莱莉娅娜』的新冒险，《炼金工房》新作将于PS5/PS4/NS/Steam上登场](https://www.3dmgame.com/news/202409/3905206.html)
+
++ [小岛秀夫再谈《OD》：这是一次冒险，前所未有的东西](https://www.3dmgame.com/news/202409/3905207.html)
+
++ [『FAIRY TAIL 2』第二部宣传影片亮相！ 同步释出战斗系统与地图探索等游戏最新情报](https://www.3dmgame.com/news/202409/3905208.html)
+
++ [宫本茂重申：任天堂无意参与追逐高配置的主机大战](https://www.3dmgame.com/news/202409/3905209.html)
+
++ [「DEAD OR ALIVE Xtreme」系列首次推出正統戀愛冒險遊戲 決定於2025年初發售！](https://www.3dmgame.com/news/202409/3905210.html)
+
