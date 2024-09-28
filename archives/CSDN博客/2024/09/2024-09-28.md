@@ -175,3 +175,13 @@
 
 + [【如何学习操作系统】——学会学习的艺术](https://blog.csdn.net/zhaochen1127/article/details/142602322)
 
++ [基于大数据爬虫+Python+数据可视化大屏的慧游数据爬虫与推荐分析系统(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/weixin_39709134/article/details/142606973)
+
++ [基于Prometheus和Grafana的现代服务器监控体系构建](https://blog.csdn.net/hh867308122/article/details/142593075)
+
++ [基于yolov8的辣椒缺陷检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142610000)
+
++ [【SQL】指定时间段的下单产品](https://blog.csdn.net/weixin_73404807/article/details/142551320)
+
++ [YOLOv8改进 - 注意力篇 - 引入(A2-Nets)Double Attention Networks注意力机制](https://blog.csdn.net/2301_79619145/article/details/142601192)
+

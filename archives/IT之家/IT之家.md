@@ -45,3 +45,5 @@
 
 + [全国 100 家小米之家开启 Redmi Note 14 Pro 系列手机 "全民防水大挑战"](https://m.ithome.com/html/799021.htm)
 
++ [深圳通推出 NFC 手机限时免费开卡活动，支持 336 个城市使用](https://m.ithome.com/html/798865.htm)
+
