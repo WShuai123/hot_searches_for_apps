@@ -105,3 +105,7 @@
 
 + [淘宝支持微信支付！互联网冷战要结束了吗？](http://www.acfun.cn/v/ac46307957)
 
++ [【嘉也子】神女降临！全体起立！—Dumhdurum—APINK](http://www.acfun.cn/v/ac46308864)
+
++ [【无畏契约】手枪Queen！](http://www.acfun.cn/v/ac46306785)
+

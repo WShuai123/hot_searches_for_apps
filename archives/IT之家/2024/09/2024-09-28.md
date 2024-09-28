@@ -49,3 +49,5 @@
 
 + [三星 Galaxy S25 Plus 手机跑分曝光：骁龙 8 Gen 4 芯片 + 12GB 内存](https://m.ithome.com/html/798899.htm)
 
++ [任天堂 Switch 2 游戏掌机最后冲刺：8 英寸屏幕、磁性 Joycon、解决摇杆磨损问题、向后兼容，明年三 / 四月发售](https://m.ithome.com/html/799057.htm)
+

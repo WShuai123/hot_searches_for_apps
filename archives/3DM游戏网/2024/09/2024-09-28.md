@@ -181,3 +181,9 @@
 
 + [「DEAD OR ALIVE Xtreme」系列首次推出正統戀愛冒險遊戲 決定於2025年初發售！](https://www.3dmgame.com/news/202409/3905210.html)
 
++ [《第一后裔》连发两款热修复补丁 修复组队和技能问题](https://www.3dmgame.com/news/202409/3905215.html)
+
++ [VR版塔科夫《塔博尔幽灵》收入超2千万美元](https://www.3dmgame.com/news/202409/3905216.html)
+
++ [《原神》四周年配音演员祝福-「炽心同行的笺语」](https://www.3dmgame.com/news/202409/3905217.html)
+
