@@ -37,3 +37,5 @@
 
 + [iQOO 13 手机全球首发 BOE 最新一代发光材料：相比上代寿命提升 33%、功耗降低 10%](https://m.ithome.com/html/798966.htm)
 
++ [美的回应“网友称空调突发自燃”：积极处理](https://m.ithome.com/html/798827.htm)
+
