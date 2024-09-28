@@ -39,3 +39,9 @@
 
 + [美的回应“网友称空调突发自燃”：积极处理](https://m.ithome.com/html/798827.htm)
 
++ [国家广电总局：上海台将有序关停四个电视频道和四套广播频率](https://m.ithome.com/html/799051.htm)
+
++ [OPPO、vivo、小米、联想已开始逐步清理商店中 32 位应用，后续将针对不在架的 32 位应用实施相关风险提示等措施](https://m.ithome.com/html/798985.htm)
+
++ [全国 100 家小米之家开启 Redmi Note 14 Pro 系列手机 "全民防水大挑战"](https://m.ithome.com/html/799021.htm)
+

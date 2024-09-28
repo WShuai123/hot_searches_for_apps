@@ -147,3 +147,19 @@
 
 + [本地部署开源在线PPT制作与演示应用PPTist并实现异地远程使用](https://blog.csdn.net/2201_75743654/article/details/142553125)
 
++ [[Redis][主从复制][中]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142520106)
+
++ [在Java中使用GeoTools解析POI数据并存储到PostGIS实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/142603749)
+
++ [19.1 使用k8s的sdk编写一个项目获取pod和node信息](https://blog.csdn.net/weixin_48502062/article/details/142566770)
+
++ [深度解析TikTok账号养成与住宅IP的关键作用](https://blog.csdn.net/IPdodo/article/details/142599635)
+
++ [认知战认知作战：认知战战略如何玩转东方文化](https://blog.csdn.net/kejiju2023/article/details/142594704)
+
++ [泰始明昌文旅：文旅人货场到底是啥](https://blog.csdn.net/taishimingchang/article/details/142592524)
+
++ [学习threejs，添加环境光和点光源](https://blog.csdn.net/qq_28419035/article/details/142564681)
+
++ [无人机避障——4D 毫米波雷达 SLAM篇（一）](https://blog.csdn.net/weixin_45390670/article/details/142363587)
+

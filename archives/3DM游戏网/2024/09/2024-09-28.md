@@ -133,3 +133,19 @@
 
 + [V社《Deadlock》加入反作弊 开挂玩家变成青蛙](https://www.3dmgame.com/news/202409/3905186.html)
 
++ [《星球大战：亡命之徒》十月更新路线图：主要改进游戏体验](https://www.3dmgame.com/news/202409/3905195.html)
+
++ [刷差评也没用了？《黑神话：悟空》重新登顶IGN年度游戏投票](https://www.3dmgame.com/news/202409/3905196.html)
+
++ [2030年前实现载人登月！中国登月服外观首次公开亮相：开始征名](https://www.3dmgame.com/news/202409/3905197.html)
+
++ [好评肉鸽《穹顶守护者》销量破百万 明年计划多人模式](https://www.3dmgame.com/news/202409/3905198.html)
+
++ [V社新作《Deadlock》是美国8月Steam最热门游戏](https://www.3dmgame.com/news/202409/3905192.html)
+
++ [《神之亵渎》登陆移动端 2025年2月24日上线](https://www.3dmgame.com/news/202409/3905193.html)
+
++ [《虚幻争霸》后继者《先驱》团队介绍游戏现状和灵感](https://www.3dmgame.com/news/202409/3905194.html)
+
++ [《心灵杀手》开发商Remedy获腾讯1500万欧元贷款](https://www.3dmgame.com/news/202409/3905191.html)
+
