@@ -29,3 +29,7 @@
 
 + [小米 Redmi 手机：Note 一直坚持做红外，之前有产品砍过被骂回来了、再也不敢砍了](https://m.ithome.com/html/798999.htm)
 
++ [华为徐直军：只有确定长远不造车，才能走到引望这一步](https://m.ithome.com/html/798952.htm)
+
++ [小米充电宝 25000 212W 开售：单口功率 140W，到手价 549 元](https://m.ithome.com/html/798943.htm)
+
