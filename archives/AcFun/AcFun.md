@@ -89,3 +89,7 @@
 
 + [吟霖 A](http://www.acfun.cn/v/ac46308380)
 
++ [这个也是真心喜欢！★手机竖屏1288★](http://www.acfun.cn/v/ac46313833)
+
++ [【钢琴翻弹-GBC】運命に賭けたい論理](http://www.acfun.cn/v/ac46314037)
+

@@ -35,3 +35,7 @@
 
 + [华为公司副总裁周跃峰：全球 Top100 银行中有 53 家选择华为数据存储](https://m.ithome.com/html/799127.htm)
 
++ [OPPO 中国区总裁刘波：线下销量是大量萎缩的，品牌更需要聚焦核心客户和门店](https://m.ithome.com/html/799174.htm)
+
++ [上市两月降千元：努比亚 Z60S Pro 手机 16+512G 版 2699 元，可打卫星电话](https://m.ithome.com/html/799103.htm)
+

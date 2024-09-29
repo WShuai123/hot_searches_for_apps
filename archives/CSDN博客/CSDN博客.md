@@ -157,3 +157,5 @@
 
 + [AWS上迁移WordPress遭遇若干问题记处理办法](https://blog.csdn.net/shihengzhen101/article/details/142577286)
 
++ [人工智能时代，程序员如何保持核心竞争力？](https://blog.csdn.net/2301_79969994/article/details/142624210)
+

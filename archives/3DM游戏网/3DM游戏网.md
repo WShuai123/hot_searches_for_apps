@@ -145,3 +145,13 @@
 
 + [《葬送的芙莉莲》第二季官宣制作 播出时间待定](https://www.3dmgame.com/news/202409/3905246.html)
 
++ [《死亡搁浅2》新预告和照片模式演示 美女姿势多](https://www.3dmgame.com/news/202409/3905251.html)
+
++ [经典电影《这个杀手不太冷》国内定档11月1日](https://www.3dmgame.com/news/202409/3905252.html)
+
++ [《我的世界》真人电影新片段公布 如何使用工作台打造金属剑](https://www.3dmgame.com/news/202409/3905253.html)
+
++ [《星刃》更新获赞 女主短裙可随风扬起](https://www.3dmgame.com/news/202409/3905254.html)
+
++ [V社更新Steam订户协议 取消通过个人仲裁解决争议的要求](https://www.3dmgame.com/news/202409/3905255.html)
+
