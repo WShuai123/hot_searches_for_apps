@@ -101,3 +101,25 @@
 
 + [深度解析 HTTP](https://blog.csdn.net/2202_76097976/article/details/142612650)
 
++ [OpenCV-图像透视变换](https://blog.csdn.net/2301_77698138/article/details/142620383)
+
++ [阿布量化：基于 Python 的量化交易框架](https://blog.csdn.net/jacksoon/article/details/142535133)
+
++ [机器学习：opencv--特征检测](https://blog.csdn.net/weixin_65047977/article/details/142621748)
+
++ [AI驱动TDSQL-C Serverless 数据库技术实战营-融合智能体与TDSQL-C技术，高效实现二手房数据查询与分析应用](https://blog.csdn.net/qq_33681891/article/details/142580904)
+
++ [遗传算法与深度学习实战——使用进化策略实现EvoLisa](https://blog.csdn.net/LOVEmy134611/article/details/140702908)
+
++ [【Mybatis篇】动态SQL的详细带练](https://blog.csdn.net/m0_74202856/article/details/142617056)
+
++ [【设计模式】精通高级行为模式：揭秘状态、中介者及其它模式的深层机制](https://blog.csdn.net/c18213590220/article/details/142433022)
+
++ [HTML+CSS 水滴登录页](https://blog.csdn.net/qq_45990281/article/details/142622406)
+
++ [使用 React Router v6 在 React 中实现面包屑](https://blog.csdn.net/lwf3115841/article/details/142639817)
+
++ [信号处理: Block Pending Handler 与 SIGKILL/SIGSTOP 实验](https://blog.csdn.net/taduanlangan/article/details/142605967)
+
++ [Elasticsearch实战应用：构建高效搜索引擎](https://blog.csdn.net/weixin_42132035/article/details/142620919)
+
