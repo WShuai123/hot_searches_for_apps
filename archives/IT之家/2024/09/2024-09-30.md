@@ -25,3 +25,5 @@
 
 + [华为 WATCH GT 5 系列智能手表获推鸿蒙 HarmonyOS 5.0.0.100 升级：新增弦月窗、运动涂鸦等功能](https://m.ithome.com/html/799238.htm)
 
++ [小米 Redmi 手机：IP68 只要大家有需要，我们就一直做下去](https://m.ithome.com/html/799392.htm)
+
