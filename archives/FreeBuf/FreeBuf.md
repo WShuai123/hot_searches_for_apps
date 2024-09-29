@@ -53,3 +53,5 @@
 
 + [一命通关RMI三端反序列化攻击及JRMP高版本绕过](https://www.freebuf.com/vuls/411349.html)
 
++ [黑客伙同通信公司员工注册倒卖微信号牟利，涉案上千万！](https://www.freebuf.com/news/412017.html)
+

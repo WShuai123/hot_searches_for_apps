@@ -71,3 +71,9 @@
 
 + [Thorit Agency - Branding Case Study](https://dribbble.com/shots/)
 
++ [Logo design, modern logo, minimalist logo, branding, tech logo](https://dribbble.com/shots/)
+
++ [Modern D letter logo for Digitaera](https://dribbble.com/shots/)
+
++ [logo, logo design, brand identity](https://dribbble.com/shots/)
+

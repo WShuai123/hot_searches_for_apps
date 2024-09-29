@@ -167,3 +167,23 @@
 
 + [HTML+CSS 水滴登录页](https://blog.csdn.net/qq_45990281/article/details/142622406)
 
++ [【大模型】通俗解读变分自编码器VAE](https://blog.csdn.net/xian0710830114/article/details/142487069)
+
++ [【Unity精品插件】Feel：提升游戏打击感的利器](https://blog.csdn.net/UnityBoy/article/details/142624247)
+
++ [大数据实时数仓Hologres（三）：存储格式介绍](https://blog.csdn.net/xiaoweite1/article/details/142630183)
+
++ [python数据分析与可视化](https://blog.csdn.net/imileseo/article/details/142618090)
+
++ [六级翻译 高分笔记](https://blog.csdn.net/weixin_74152658/article/details/142619927)
+
++ [828华为云征文｜使用sysbench对Flexus X实例对mysql进行性能测评](https://blog.csdn.net/qq_53317005/article/details/142621238)
+
++ [2022浙江省赛G I M](https://blog.csdn.net/s1379659220/article/details/142587658)
+
++ [关于HTML 案例_个人简历展示01](https://blog.csdn.net/Dingyuan0/article/details/142620416)
+
++ [深度解析 HTTP](https://blog.csdn.net/2202_76097976/article/details/142612650)
+
++ [计算机网络的整体认识---网络协议，网络传输过程](https://blog.csdn.net/2302_81250321/article/details/142610571)
+
