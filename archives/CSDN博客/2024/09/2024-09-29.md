@@ -159,3 +159,11 @@
 
 + [人工智能时代，程序员如何保持核心竞争力？](https://blog.csdn.net/2301_79969994/article/details/142624210)
 
++ [【Linux】趣味讲解“权限“的那些事（重点讲解文件权限，内含su、sudo、chmod、chown、umask等指令）](https://blog.csdn.net/tianxiawushanu/article/details/142618885)
+
++ [【在Linux世界中追寻伟大的One Piece】进程间通信](https://blog.csdn.net/weixin_74809706/article/details/142568765)
+
++ [【优选算法】（第八篇）](https://blog.csdn.net/weixin_73861555/article/details/142617013)
+
++ [HTML+CSS 水滴登录页](https://blog.csdn.net/qq_45990281/article/details/142622406)
+

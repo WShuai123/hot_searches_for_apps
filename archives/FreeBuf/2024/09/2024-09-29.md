@@ -51,3 +51,5 @@
 
 + [服务器端漏洞篇 | API测试专题](https://www.freebuf.com/articles/web/410632.html)
 
++ [一命通关RMI三端反序列化攻击及JRMP高版本绕过](https://www.freebuf.com/vuls/411349.html)
+

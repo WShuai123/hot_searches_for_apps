@@ -155,3 +155,17 @@
 
 + [V社更新Steam订户协议 取消通过个人仲裁解决争议的要求](https://www.3dmgame.com/news/202409/3905255.html)
 
++ [5G标准必要专利小米中国第三！仅次于华为中兴](https://www.3dmgame.com/news/202409/3905262.html)
+
++ [小岛工作室在东京电玩展2024举办特别活动 并发布《死亡搁浅2》的多个信息](https://www.3dmgame.com/news/202409/3905261.html)
+
++ [《雨中冒险》主创正在开发V社新作《Deadlock》](https://www.3dmgame.com/news/202409/3905256.html)
+
++ [类银河恶魔城动作游戏《Voidwrought》现已推出试玩Demo 10月25日正式发售](https://www.3dmgame.com/news/202409/3905257.html)
+
++ [《死亡搁浅2》已有内部发售日期 预计明年正式官宣](https://www.3dmgame.com/news/202409/3905258.html)
+
++ [虚幻5引擎打造复古JRPG游戏《时光的线索》现已上架Steam平台](https://www.3dmgame.com/news/202409/3905259.html)
+
++ [SIE第一方游戏主角女性化 网友担忧《战神》未来](https://www.3dmgame.com/news/202409/3905260.html)
+
