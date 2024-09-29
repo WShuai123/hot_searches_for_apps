@@ -239,3 +239,45 @@
 
 + [余承东：华为三折叠手机让高端人群满足效率需要](https://www.3dmgame.com/news/202409/3905277.html)
 
++ [高通骁龙8 Gen4系列阵容曝光：旗舰芯片不止一颗](https://www.3dmgame.com/news/202409/3905278.html)
+
++ [《龙腾世纪：影障守护者》角色编辑器介绍 捏个帅哥美女](https://www.3dmgame.com/news/202406/3898364.html)
+
++ [AMD FSR 3.1上线 首发5款游戏都是索尼第一方作品](https://www.3dmgame.com/news/202406/3898366.html)
+
++ [Xbox与亚马逊合作 通过Fire TV设备提供Xbox云游戏服务](https://www.3dmgame.com/news/202406/3898365.html)
+
++ [FromSoftware母公司遭勒索软件团伙攻击 威胁公布内部数据](https://www.3dmgame.com/news/202406/3898363.html)
+
++ [《刺客信条：影》开发者遭到人身攻击后 育碧CEO：强烈谴责](https://www.3dmgame.com/news/202406/3898362.html)
+
++ [《赛博朋克2077》续作将更加地道的美国风](https://www.3dmgame.com/news/202406/3898361.html)
+
++ [育碧《不羁联盟》玩家人数突破1100万](https://www.3dmgame.com/news/202406/3898360.html)
+
++ [《妙探闯通关：魔鬼剧场重制版》8/14推出](https://www.3dmgame.com/news/202406/3898359.html)
+
++ [Steam夏日特卖已开启 多款大作提供折扣](https://www.3dmgame.com/news/202406/3898358.html)
+
++ [叫好不叫座？《地狱之刃2》媒体赞誉宣传片](https://www.3dmgame.com/news/202406/3898357.html)
+
++ [FPS新作《CONCORD》7月开启B测 PC需PSN账号](https://www.3dmgame.com/news/202406/3898368.html)
+
++ [任天堂出招严打游戏信息泄露 确保玩家体验最佳](https://www.3dmgame.com/news/202406/3898356.html)
+
++ [开发商Gameloft再次大量裁员 多伦多工作室遭重](https://www.3dmgame.com/news/202406/3898376.html)
+
++ [《消逝的光芒2》新合作模式高塔突袭 限时开放至7月18日](https://www.3dmgame.com/news/202406/3898367.html)
+
++ [任天堂宫本茂回应年龄焦虑：希望把接力棒传给更年轻的开发者](https://www.3dmgame.com/news/202406/3898374.html)
+
++ [开发商Prophecy为购买过《部落3：对抗》等游戏的玩家提供新游戏1:1消费积分](https://www.3dmgame.com/news/202406/3898375.html)
+
++ [亚马逊：3A级新《古墓丽影》游戏距离正式公布不远了](https://www.3dmgame.com/news/202406/3898372.html)
+
++ [任天堂回应股东提问：为什么系列游戏间隔这么久？](https://www.3dmgame.com/news/202406/3898371.html)
+
++ [开发商宣布《月姬格斗》全球销量已突破50万份](https://www.3dmgame.com/news/202406/3898369.html)
+
++ [《宿星的女朋友3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3898370.html)
+
