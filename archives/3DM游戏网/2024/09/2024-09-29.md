@@ -169,3 +169,11 @@
 
 + [SIE第一方游戏主角女性化 网友担忧《战神》未来](https://www.3dmgame.com/news/202409/3905260.html)
 
++ [《黑神话：悟空》主美杨奇称在旅游中 还没有做DLC](https://www.3dmgame.com/news/202409/3905265.html)
+
++ [日本游戏大奖未来部门奖公布：《怪物猎人：荒野》等](https://www.3dmgame.com/news/202409/3905266.html)
+
++ [《关于我转生变成史莱姆这档事》第2部剧场版预告公布 第4季动画确认制作](https://www.3dmgame.com/news/202409/3905264.html)
+
++ [小岛工作室×PARCO 《死亡搁浅》五周年Exhibition&Popup将于东京名古屋大阪举办](https://www.3dmgame.com/news/202409/3905263.html)
+

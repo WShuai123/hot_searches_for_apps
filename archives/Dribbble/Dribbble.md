@@ -77,3 +77,9 @@
 
 + [logo, logo design, brand identity](https://dribbble.com/shots/)
 
++ [Podcast Design Exploration](https://dribbble.com/shots/)
+
++ [Cashly instagram design](https://dribbble.com/shots/)
+
++ [Meme coin design](https://dribbble.com/shots/)
+
