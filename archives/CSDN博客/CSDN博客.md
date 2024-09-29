@@ -191,3 +191,9 @@
 
 + [基于微信小程序的智慧社区的设计与实现](https://blog.csdn.net/m0_64148096/article/details/142584309)
 
++ [【百度文心智能体】想开发爆款智能体？来看看黑神话旅游指南 智能体开发流程大揭秘](https://blog.csdn.net/qq_57761637/article/details/142602985)
+
++ [6--苍穹外卖-SpringBoot项目中菜品管理 详解(二）](https://blog.csdn.net/2301_77946674/article/details/142527844)
+
++ [【计网】从零开始学习http协议 --- 通过http实现客户端交互](https://blog.csdn.net/JLX_1/article/details/142602696)
+

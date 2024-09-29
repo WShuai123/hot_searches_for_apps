@@ -49,3 +49,5 @@
 
 + [鸿蒙智行：智界 R7 轿跑 SUV 今日大定突破 2000 台，24 日至今累计突破 1.1 万台](https://m.ithome.com/html/799164.htm)
 
++ [华为 10 月新品曝光：含 nova13 系列手机、MatePad 2024 平板迭代款等](https://m.ithome.com/html/799230.htm)
+

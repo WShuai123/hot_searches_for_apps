@@ -97,3 +97,9 @@
 
 + [logo design / letter Z logo / Brand identity](https://dribbble.com/shots/)
 
++ [Digital Artist Portfolio Design](https://dribbble.com/shots/)
+
++ [Drawing](https://dribbble.com/shots/)
+
++ [Letter F Logo, Crypto Logo](https://dribbble.com/shots/)
+

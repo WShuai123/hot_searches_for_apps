@@ -227,3 +227,11 @@
 
 + [《战锤40K：星际战士2》没有微交易系统](https://www.3dmgame.com/news/202405/3895754.html)
 
++ [《原子之心》公布DLC#3新预告 上线时间待定](https://www.3dmgame.com/news/202409/3905275.html)
+
++ [流产的“真正14代酷睿”大量流出：根本无法点亮](https://www.3dmgame.com/news/202409/3905272.html)
+
++ [《完蛋被美女包围前传》角色韦知遥介绍 给她涂防晒霜](https://www.3dmgame.com/news/202409/3905273.html)
+
++ [《彩虹六号》国服官网正式上线 已获得发行版号](https://www.3dmgame.com/news/202409/3905274.html)
+
