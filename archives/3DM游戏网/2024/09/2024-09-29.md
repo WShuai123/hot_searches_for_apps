@@ -177,3 +177,9 @@
 
 + [小岛工作室×PARCO 《死亡搁浅》五周年Exhibition&Popup将于东京名古屋大阪举办](https://www.3dmgame.com/news/202409/3905263.html)
 
++ [《龙与地下城》2024新版《玩家手册》成为其游戏史上最畅销书籍](https://www.3dmgame.com/news/202409/3905267.html)
+
++ [打击资本家搞垮华尔街！《PAYDAY3》DLC4试玩体验公开](https://www.3dmgame.com/news/202409/3905268.html)
+
++ [《勇者斗恶龙1&2：HD-2D 重制版》将添加新要素 结局有惊喜](https://www.3dmgame.com/news/202409/3905269.html)
+

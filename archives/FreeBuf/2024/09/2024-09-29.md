@@ -59,3 +59,5 @@
 
 + [以明文形式存储数亿个密码，Meta被罚1亿美元](https://www.freebuf.com/articles/412005.html)
 
++ [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
+
