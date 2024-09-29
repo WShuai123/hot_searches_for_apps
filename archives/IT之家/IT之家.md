@@ -31,3 +31,7 @@
 
 + [Caviar 发布奢华定制版华为 Mate XT 三折叠手机：鳄鱼皮或 24K 金机身，12770 美元起](https://m.ithome.com/html/799152.htm)
 
++ [凯迪拉克全新 XT5 上市：三款四驱车型，限时一口价 26.59 万元起](https://m.ithome.com/html/799150.htm)
+
++ [华为公司副总裁周跃峰：全球 Top100 银行中有 53 家选择华为数据存储](https://m.ithome.com/html/799127.htm)
+

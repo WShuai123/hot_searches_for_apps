@@ -45,3 +45,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/411918.html)
 
++ [服务器端漏洞篇之API测试专题](https://www.freebuf.com/articles/web/410632.html)
+
