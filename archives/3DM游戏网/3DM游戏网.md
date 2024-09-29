@@ -281,3 +281,9 @@
 
 + [《宿星的女朋友3》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202406/3898370.html)
 
++ [海信《黑神话：悟空》官方定制电视E8N Ultra发布：25999元](https://www.3dmgame.com/news/202409/3905280.html)
+
++ [《侏罗纪世界4》现已杀青 2025年7月2日上映](https://www.3dmgame.com/news/202409/3905281.html)
+
++ [《死亡搁浅2》TGS 2024新视频 将是比1代更怪异的游戏](https://www.3dmgame.com/news/202409/3905279.html)
+
