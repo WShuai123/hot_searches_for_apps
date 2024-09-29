@@ -103,3 +103,7 @@
 
 + [《最终幻想16完全版》现已登陆PS5 降价至50美元](https://www.3dmgame.com/news/202409/3905287.html)
 
++ [《如龙》真人剧集发布真岛吾朗全新预告](https://www.3dmgame.com/news/202409/3905289.html)
+
++ [《大江湖之苍龙与白鸟》正式版10月24日上市](https://www.3dmgame.com/news/202409/3905288.html)
+
