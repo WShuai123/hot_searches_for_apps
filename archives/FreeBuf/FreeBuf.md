@@ -41,3 +41,7 @@
 
 + [jfinal框架——ofcmsv1.1.3代码审计](https://www.freebuf.com/articles/web/410276.html)
 
++ [FreeBuf早报 | 2023年勒索软攻击117个国家；NOYB称火狐追踪用户隐私](https://www.freebuf.com/news/411954.html)
+
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/411918.html)
+
