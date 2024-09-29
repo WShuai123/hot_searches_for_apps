@@ -127,3 +127,7 @@
 
 + [[Redis][典型运用][缓存]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142613911)
 
++ [[Redis][哨兵][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142552417)
+
++ [【计算机网络】数据链路层理解](https://blog.csdn.net/weixin_73494835/article/details/142644050)
+

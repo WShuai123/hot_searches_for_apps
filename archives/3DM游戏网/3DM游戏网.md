@@ -101,3 +101,5 @@
 
 + [《毁灭战士：黑暗时代》将在Xbox展示会上公布](https://www.3dmgame.com/news/202405/3895755.html)
 
++ [《最终幻想16完全版》现已登陆PS5 降价至50美元](https://www.3dmgame.com/news/202409/3905287.html)
+
