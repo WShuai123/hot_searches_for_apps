@@ -235,3 +235,7 @@
 
 + [《彩虹六号》国服官网正式上线 已获得发行版号](https://www.3dmgame.com/news/202409/3905274.html)
 
++ [黄仁勋：核电是满足数据中心能源需求的优秀选择](https://www.3dmgame.com/news/202409/3905276.html)
+
++ [余承东：华为三折叠手机让高端人群满足效率需要](https://www.3dmgame.com/news/202409/3905277.html)
+

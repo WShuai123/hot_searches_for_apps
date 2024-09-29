@@ -197,3 +197,9 @@
 
 + [【计网】从零开始学习http协议 --- 通过http实现客户端交互](https://blog.csdn.net/JLX_1/article/details/142602696)
 
++ [软件的动态自修改是 AI 为软件开发带来的最大机会之一](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142606163)
+
++ [Redis 篇-深入了解 Redis 中的 RESP 通信协议与内存回收（过期 key 处理、内存淘汰策略）](https://blog.csdn.net/Tingfeng__/article/details/142599111)
+
++ [滚雪球学MySQL[3.1讲]： 高级SQL查询](https://blog.csdn.net/weixin_43970743/article/details/141127117)
+

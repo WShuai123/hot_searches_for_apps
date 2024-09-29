@@ -41,3 +41,21 @@
 
 + [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
 
++ [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+
++ [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
+
++ [coqui-ai / TTS](https://github.com/coqui-ai/TTS)
+
++ [netdata / netdata](https://github.com/netdata/netdata)
+
++ [shuding / nextra](https://github.com/shuding/nextra)
+
++ [nodejs / node](https://github.com/nodejs/node)
+
++ [apache / nuttx](https://github.com/apache/nuttx)
+
++ [RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+

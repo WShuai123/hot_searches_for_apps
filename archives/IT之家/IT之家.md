@@ -51,3 +51,5 @@
 
 + [华为 10 月新品曝光：含 nova13 系列手机、MatePad 2024 平板迭代款等](https://m.ithome.com/html/799230.htm)
 
++ [比亚迪召回海豚、元 PLUS 电动汽车近 10 万台，存在起火风险](https://m.ithome.com/html/799279.htm)
+
