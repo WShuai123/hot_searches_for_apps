@@ -45,3 +45,7 @@
 
 + [“精英玩家的终极处理器”，AMD 锐龙 7 9800X3D 被曝今年登场](https://m.ithome.com/html/799121.htm)
 
++ [“国民神车”五菱宏光纯电版上市：续航 300 公里，售 6.98 万元起](https://m.ithome.com/html/799253.htm)
+
++ [鸿蒙智行：智界 R7 轿跑 SUV 今日大定突破 2000 台，24 日至今累计突破 1.1 万台](https://m.ithome.com/html/799164.htm)
+

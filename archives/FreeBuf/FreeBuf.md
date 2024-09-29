@@ -61,3 +61,5 @@
 
 + [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
 
++ [@新手白帽子，招兼职啦！](https://www.freebuf.com/articles/others-articles/412026.html)
+

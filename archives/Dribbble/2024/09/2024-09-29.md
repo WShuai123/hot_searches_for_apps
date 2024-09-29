@@ -89,3 +89,11 @@
 
 + [Tab Bar](https://dribbble.com/shots/)
 
++ [Synchronix logo design](https://dribbble.com/shots/)
+
++ [Demolition](https://dribbble.com/shots/)
+
++ [Cebrix - The C B, Tech Logo Concept](https://dribbble.com/shots/)
+
++ [logo design / letter Z logo / Brand identity](https://dribbble.com/shots/)
+

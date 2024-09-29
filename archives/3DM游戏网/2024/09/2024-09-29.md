@@ -183,3 +183,47 @@
 
 + [《勇者斗恶龙1&2：HD-2D 重制版》将添加新要素 结局有惊喜](https://www.3dmgame.com/news/202409/3905269.html)
 
++ [制作人冯骥辟谣《黑神话：悟空》春节出DLC：还需要更多时间](https://www.3dmgame.com/news/202409/3905271.html)
+
++ [英伟达晒《黑神话》主题PC主机：完美重现大圣战甲](https://www.3dmgame.com/news/202409/3905270.html)
+
++ [《毁灭战士：黑暗时代》将在Xbox展示会上公布](https://www.3dmgame.com/news/202405/3895755.html)
+
++ [传闻：《Avowed》和《夺宝奇兵：古老之圈》6月10日发布细节](https://www.3dmgame.com/news/202405/3895753.html)
+
++ [外媒评有史以来15款最佳重制版游戏 《生化2》成标杆](https://www.3dmgame.com/news/202405/3895752.html)
+
++ [育碧FPS《不羁联盟》首个双倍经验周末现已开启](https://www.3dmgame.com/news/202405/3895761.html)
+
++ [《宇宙机器人》新作开发中 未来15天内正式公布](https://www.3dmgame.com/news/202405/3895760.html)
+
++ [传雪崩新作《Contraband》开发遇到困难](https://www.3dmgame.com/news/202405/3895758.html)
+
++ [《皇牌空战8》可能是万代的下一个大型游戏](https://www.3dmgame.com/news/202405/3895748.html)
+
++ [吴京将主演《镖人》真人漫改电影 透露将有重量级前辈加盟](https://www.3dmgame.com/news/202405/3895747.html)
+
++ [传《使命召唤21》单人战役任务将有2001年911事件](https://www.3dmgame.com/news/202405/3895746.html)
+
++ [《疯狂的麦克斯》导演希望小岛能开发电影改编游戏](https://www.3dmgame.com/news/202405/3895745.html)
+
++ [英伟达特批更多GPU给国内市场 以支持618大促销](https://www.3dmgame.com/news/202405/3895744.html)
+
++ [轩辕剑之父蔡明宏31日离职 陈瑶恬接任新总经理](https://www.3dmgame.com/news/202405/3895743.html)
+
++ [肉鸽恐怖新作《深四目朝生-阴阳之巫女-》公布](https://www.3dmgame.com/news/202405/3895756.html)
+
++ [据传《使命召唤21：黑色行动6》也将登陆PS4/XB1](https://www.3dmgame.com/news/202405/3895757.html)
+
++ [英伟达股价飞跃 黄仁勋身家已达913亿美元](https://www.3dmgame.com/news/202405/3895749.html)
+
++ [《毁灭战士：黑暗时代》可能也会登陆索尼PS5](https://www.3dmgame.com/news/202405/3895759.html)
+
++ [《原神》4.7版本6月5日上线 新PV放出](https://www.3dmgame.com/news/202405/3895750.html)
+
++ [Steam沙盒建造《围攻Besiege》全新DLC“分裂之海”现已来袭！](https://www.3dmgame.com/news/202405/3895734.html)
+
++ [世界首例！我国完成活体人的异种肝移植手术](https://www.3dmgame.com/news/202405/3895751.html)
+
++ [《战锤40K：星际战士2》没有微交易系统](https://www.3dmgame.com/news/202405/3895754.html)
+
