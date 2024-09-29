@@ -123,3 +123,7 @@
 
 + [Elasticsearch实战应用：构建高效搜索引擎](https://blog.csdn.net/weixin_42132035/article/details/142620919)
 
++ [【AI驱动TDSQL-C Serverless数据库技术实战营】结合AI进行电商数据分析](https://blog.csdn.net/m0_74157510/article/details/142630962)
+
++ [[Redis][典型运用][缓存]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142613911)
+
