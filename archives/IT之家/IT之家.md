@@ -53,3 +53,7 @@
 
 + [比亚迪召回海豚、元 PLUS 电动汽车近 10 万台，存在起火风险](https://m.ithome.com/html/799279.htm)
 
++ [华为余承东称三折叠手机满足高端人群效率需要](https://m.ithome.com/html/799203.htm)
+
++ [华为余承东谈多家车企老板亲自宣传产品：被雷总带的，他流量很大](https://m.ithome.com/html/799312.htm)
+

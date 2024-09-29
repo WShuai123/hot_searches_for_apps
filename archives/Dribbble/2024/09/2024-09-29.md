@@ -105,3 +105,11 @@
 
 + [Zeus Vintage Logo](https://dribbble.com/shots/)
 
++ [Stock Market App](https://dribbble.com/shots/)
+
++ [--sref 3634686807 --p l2w4ybo](https://dribbble.com/shots/)
+
++ [DataCode® Visual Identity](https://dribbble.com/shots/)
+
++ [Letter X S Logo.](https://dribbble.com/shots/)
+
