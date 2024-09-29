@@ -23,3 +23,5 @@
 
 + [鸣潮](https://www.taptap.cn/app/234280)
 
++ [苍翼：混沌效应](https://www.taptap.cn/app/233514)
+

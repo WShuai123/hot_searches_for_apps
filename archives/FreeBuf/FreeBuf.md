@@ -47,3 +47,7 @@
 
 + [服务器端漏洞篇之API测试专题](https://www.freebuf.com/articles/web/410632.html)
 
++ [美国惊曝超大规模信息泄露事件！超1亿人受到影响](https://www.freebuf.com/news/411989.html)
+
++ [服务器端漏洞篇 | API测试专题](https://www.freebuf.com/articles/web/410632.html)
+
