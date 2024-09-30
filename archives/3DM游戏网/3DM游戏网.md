@@ -133,3 +133,21 @@
 
 + [育碧称《星球大战：亡命之徒》销量不佳 是因为玩家期望过高](https://www.3dmgame.com/news/202409/3905293.html)
 
++ [日服Switch Online会员新一期试玩同乐会：《我们之中》](https://www.3dmgame.com/news/202409/3905311.html)
+
++ [像素风太空沙盒角色扮演游戏《猎户座的尽头》现已上架Steam平台](https://www.3dmgame.com/news/202409/3905310.html)
+
++ [《星际战士2》泄露显示：马克6和马克7装甲即将到来](https://www.3dmgame.com/news/202409/3905309.html)
+
++ [育碧够狠 在秋叶原投放《AC影》弥助斩首日本人广告](https://www.3dmgame.com/news/202409/3905308.html)
+
++ [回合制战术角色扮演游戏《天空花园竞技场》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202409/3905307.html)
+
++ [《波比的游戏时间》DLC“第四章”Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3905306.html)
+
++ [《炉石传说》官方再次为游戏问题致歉 追加补偿20个卡包](https://www.3dmgame.com/news/202409/3905305.html)
+
++ [《星刃》更新前后对比图 胸部有晃动和聚拢效果了](https://www.3dmgame.com/news/202409/3905304.html)
+
++ [育碧老板终于确认《不羁联盟》表现“落后于预期”](https://www.3dmgame.com/news/202409/3905303.html)
+

@@ -137,3 +137,13 @@
 
 + [Java Deeplearning4j：构建和训练循环神经网络（RNN）模型](https://blog.csdn.net/lilinhai548/article/details/142626280)
 
++ [【机器学习】自动驾驶——智能交通与无人驾驶技术的未来](https://blog.csdn.net/2202_76097976/article/details/142647714)
+
++ [【Golang】关于Go语言字符串转换strconv](https://blog.csdn.net/littlefun591/article/details/142636740)
+
++ [FPGA实现PCIE视频采集转HDMI输出，基于XDMA中断架构，提供3套工程源码和技术支持](https://blog.csdn.net/qq_41667729/article/details/141809137)
+
++ [Elasticsearch 8.16 和 JDK 23 中的语言环境变化](https://blog.csdn.net/UbuntuTouch/article/details/142629412)
+
++ [【AG 创新工坊】探索存内计算的未来，共话 AGI 时代](https://blog.csdn.net/m0_57532432/article/details/142619296)
+

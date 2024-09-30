@@ -29,3 +29,5 @@
 
 + [比亚迪公布“夏”IP 字标人气票选 TOP 10 作品，被选用者可获夏 MPV 三年使用权](https://m.ithome.com/html/799419.htm)
 
++ [vivo X200 Pro mini 手机配备“特制 19.5:9”比例直屏](https://m.ithome.com/html/799359.htm)
+

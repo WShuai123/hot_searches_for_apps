@@ -45,3 +45,7 @@
 
 + [对Amadey恶意软件中的字符串进行混淆](https://www.freebuf.com/articles/system/411478.html)
 
++ [Storm-0501黑客组织针对美国政府混合云环境发起攻击](https://www.freebuf.com/news/412078.html)
+
++ [什么是Identity Fabric（身份编排）](https://www.freebuf.com/articles/es/410724.html)
+
