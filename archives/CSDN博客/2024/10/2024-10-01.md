@@ -139,3 +139,5 @@
 
 + [Idea启动SpringBoot程序报错：Veb server failed to start. Port 8082 was already in use；端口冲突的原理与解决方案](https://blog.csdn.net/RenGJ010617/article/details/142336005)
 
++ [漫谈前端：2025年框架是该选vue还是react？](https://blog.csdn.net/m0_38015699/article/details/142633903)
+
