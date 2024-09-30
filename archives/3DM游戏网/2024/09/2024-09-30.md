@@ -227,3 +227,5 @@
 
 + [董宇辉直播翻车 称居里夫人获得了诺贝尔文学奖](https://www.3dmgame.com/news/202409/3905350.html)
 
++ [美国加州州长否决AI安全法案 认为其阻碍创新](https://www.3dmgame.com/news/202409/3905351.html)
+
