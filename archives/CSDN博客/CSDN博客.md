@@ -195,3 +195,11 @@
 
 + [OpenCV开发笔记（八十一）：通过棋盘格使用鱼眼方式标定相机内参矩阵矫正摄像头图像](https://blog.csdn.net/qq21497936/article/details/142614975)
 
++ [Minstrel自动生成结构化提示，让AI为AI写提示词的多代理提示生成框架](https://blog.csdn.net/m0_46510245/article/details/142650025)
+
++ [《深度学习》OpenCV 指纹验证、识别](https://blog.csdn.net/qq_64603703/article/details/142643928)
+
++ [矩阵奇异值](https://blog.csdn.net/quaer/article/details/142640948)
+
++ [【如何在Linux系统本地快速部署Leanote蚂蚁笔记】](https://blog.csdn.net/Aileenvov/article/details/142654174)
+

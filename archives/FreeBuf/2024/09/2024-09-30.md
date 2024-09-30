@@ -57,3 +57,7 @@
 
 + [如何使用SCCMSecrets识别SCCM策略中潜在的安全问题](https://www.freebuf.com/sectool/411778.html)
 
++ [漏洞挖掘 | 某OA系统任意文件上传](https://www.freebuf.com/articles/web/400213.html)
+
++ [《工业和信息化领域数据安全合规指引》（征求意见稿）发布](https://www.freebuf.com/news/412147.html)
+
