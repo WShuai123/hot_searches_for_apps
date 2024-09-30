@@ -45,3 +45,7 @@
 
 + [腾讯《王者荣耀》鸿蒙原生 HarmonyOS NEXT 版开启限量删档测试，注册资格先到先得](https://m.ithome.com/html/799482.htm)
 
++ [三只羊美诚月饼第一批“退一赔三”已到账，客服称 2023 年订单超出售后范围](https://m.ithome.com/html/799489.htm)
+
++ [小米 Redmi K70 至尊版手机发布 24GB+1TB 版：今晚 0 点开售，3899 元](https://m.ithome.com/html/799507.htm)
+

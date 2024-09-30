@@ -101,3 +101,25 @@
 
 + [Fluency](https://www.producthunt.com/posts/fluency-3)
 
++ [Buildpad](https://www.producthunt.com/posts/buildpad)
+
++ [Novela](https://www.producthunt.com/posts/novela-2)
+
++ [Router.so](https://www.producthunt.com/posts/router-so)
+
++ [Push App](https://www.producthunt.com/posts/push-app)
+
++ [Hapticlabs - No-code haptic designer](https://www.producthunt.com/posts/hapticlabs-no-code-haptic-designer)
+
++ [Antiquoted](https://www.producthunt.com/posts/antiquoted)
+
++ [BeeDone](https://www.producthunt.com/posts/beedone-3)
+
++ [UpVPN for iOS and iPadOS](https://www.producthunt.com/posts/upvpn-for-ios-and-ipados)
+
++ [Wispr Flow](https://www.producthunt.com/posts/wispr-flow)
+
++ [interview.co](https://www.producthunt.com/posts/interview-co)
+
++ [Hubmee](https://www.producthunt.com/posts/hubmee)
+

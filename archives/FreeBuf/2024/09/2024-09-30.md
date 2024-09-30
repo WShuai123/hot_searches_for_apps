@@ -55,3 +55,5 @@
 
 + [PrintNightmare打域控漏洞的一次艰难利用](https://www.freebuf.com/vuls/410628.html)
 
++ [如何使用SCCMSecrets识别SCCM策略中潜在的安全问题](https://www.freebuf.com/sectool/411778.html)
+

@@ -183,3 +183,13 @@
 
 + [《寂静岭2：重制版》媒体评分或将于10月4日解禁](https://www.3dmgame.com/news/202409/3905325.html)
 
++ [《塞尔达传说：智慧的再现》玩家开发无限飞行玩法 轻松跨越地形](https://www.3dmgame.com/news/202409/3905330.html)
+
++ [《天国：拯救2》规模更庞大 总游戏时长可达100小时](https://www.3dmgame.com/news/202409/3905331.html)
+
++ [《战锤40K：星际战士2》开发人员希望游戏能给玩家Xbox 360时代的射击游戏体验](https://www.3dmgame.com/news/202409/3905332.html)
+
++ [《死亡搁浅2》Acronym联名夹克售价超1500欧元 已被抢光](https://www.3dmgame.com/news/202409/3905328.html)
+
++ [应对人才短缺：三星正大力招聘高中学历工程师](https://www.3dmgame.com/news/202409/3905329.html)
+

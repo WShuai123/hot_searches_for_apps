@@ -167,3 +167,9 @@
 
 + [鸿蒙OpenHarmony](https://blog.csdn.net/Watom_663/article/details/142612585)
 
++ [[RabbitMQ] 7种工作模式详细介绍](https://blog.csdn.net/2301_80050796/article/details/142598808)
+
++ [7. 机器人项目](https://blog.csdn.net/u010398484/article/details/142638570)
+
++ [外包干了4年，技术退步太明显了。。。。。](https://blog.csdn.net/lzz718719/article/details/142641909)
+
