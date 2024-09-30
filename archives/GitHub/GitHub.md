@@ -37,3 +37,27 @@
 
 + [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
 
++ [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
+
++ [ente-io / ente](https://github.com/ente-io/ente)
+
++ [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
++ [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
+
++ [krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)
+
++ [kestra-io / kestra](https://github.com/kestra-io/kestra)
+
++ [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
+
++ [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
