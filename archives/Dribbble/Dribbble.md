@@ -159,3 +159,11 @@
 
 + [Contra Screens](https://dribbble.com/shots/)
 
++ [Odi Agency: Masuga Color Palette 🎨](https://dribbble.com/shots/)
+
++ [North Park Academy Crest/Logo Design](https://dribbble.com/shots/)
+
++ [Celestial](https://dribbble.com/shots/)
+
++ [icons](https://dribbble.com/shots/)
+

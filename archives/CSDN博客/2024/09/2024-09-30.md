@@ -215,3 +215,5 @@
 
 + [SpirngBoot核心思想之一IOC](https://blog.csdn.net/MrBInsomnia/article/details/142634103)
 
++ [【自动驾驶】控制算法（十一）深度解析车辆纵向控制 | 纵向双 PID 控制算法](https://blog.csdn.net/weixin_51200029/article/details/141469967)
+
