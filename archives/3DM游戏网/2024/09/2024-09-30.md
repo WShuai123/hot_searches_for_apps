@@ -229,3 +229,11 @@
 
 + [美国加州州长否决AI安全法案 认为其阻碍创新](https://www.3dmgame.com/news/202409/3905351.html)
 
++ [《九龙城寨之围城》韩版海报 定档10.16在韩上映](https://www.3dmgame.com/news/202409/3905354.html)
+
++ [小而美独特手绘风+免费中文Demo！在《爱氏物语》中开启轻松治愈的RPG冒险](https://www.3dmgame.com/news/202409/3905348.html)
+
++ [TGS 2024吸引27.4万人到场 TGS 2025 9月登场](https://www.3dmgame.com/news/202409/3905353.html)
+
++ [《怪物猎人：世界》48元史低促销 Steam在线超8万](https://www.3dmgame.com/news/202409/3905352.html)
+

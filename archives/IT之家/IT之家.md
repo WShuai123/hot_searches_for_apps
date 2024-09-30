@@ -61,3 +61,5 @@
 
 + [小米 14、Redmi K60 至尊版获推澎湃 OS 体验增强版 Beta 1.1.4.0，优化 / 修复多项桌面问题](https://m.ithome.com/html/799443.htm)
 
++ [消息称天玑 9400、骁龙 8 Gen 4 采购成本分别约 155 和 190 美元，上涨 20%±](https://m.ithome.com/html/799487.htm)
+
