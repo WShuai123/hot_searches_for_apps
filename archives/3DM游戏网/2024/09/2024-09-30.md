@@ -113,3 +113,23 @@
 
 + [Atlus新作RPG《暗喻幻想》将于年底推出漫画](https://www.3dmgame.com/news/202409/3905290.html)
 
++ [修仙题材卡牌管理游戏《卡牌修仙传》Steam商店页面 明年发售](https://www.3dmgame.com/news/202409/3905298.html)
+
++ [《宇宙机器人》制作团队“很难评价”SE方面不批准任何客串角色](https://www.3dmgame.com/news/202409/3905299.html)
+
++ [《最后生还者》第二季预告与游戏对比 还原度高](https://www.3dmgame.com/news/202409/3905300.html)
+
++ [传SIE开发恐怖游戏《Siren》重启版 登陆PS5](https://www.3dmgame.com/news/202409/3905301.html)
+
++ [原田胜弘曾打算邀请山德士上校加入《铁拳》 被肯德基直接拒绝](https://www.3dmgame.com/news/202409/3905302.html)
+
++ [彭博社记者：Xbox目前太混乱 计划每年都在变](https://www.3dmgame.com/news/202409/3905296.html)
+
++ [索尼加大投资地平线系列 寄希望于《地平线OL》](https://www.3dmgame.com/news/202409/3905297.html)
+
++ [腾讯《三角洲行动》真人宣传片 威龙出动使命必达](https://www.3dmgame.com/news/202409/3905294.html)
+
++ [外媒揣测PS5 Pro销量或不佳 甚至都没有被黄牛盯上](https://www.3dmgame.com/news/202409/3905295.html)
+
++ [育碧称《星球大战：亡命之徒》销量不佳 是因为玩家期望过高](https://www.3dmgame.com/news/202409/3905293.html)
+

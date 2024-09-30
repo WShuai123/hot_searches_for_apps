@@ -133,3 +133,7 @@
 
 + [HarmonyOS/OpenHarmony 离线加载web资源，并实现web资源更新](https://blog.csdn.net/weixin_44640245/article/details/142635867)
 
++ [【国庆要来了】基于Leaflet的旅游路线WebGIS可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/142611759)
+
++ [Java Deeplearning4j：构建和训练循环神经网络（RNN）模型](https://blog.csdn.net/lilinhai548/article/details/142626280)
+

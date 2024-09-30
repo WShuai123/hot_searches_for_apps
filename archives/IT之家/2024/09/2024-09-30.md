@@ -27,3 +27,5 @@
 
 + [小米 Redmi 手机：IP68 只要大家有需要，我们就一直做下去](https://m.ithome.com/html/799392.htm)
 
++ [比亚迪公布“夏”IP 字标人气票选 TOP 10 作品，被选用者可获夏 MPV 三年使用权](https://m.ithome.com/html/799419.htm)
+
