@@ -151,3 +151,15 @@
 
 + [育碧老板终于确认《不羁联盟》表现“落后于预期”](https://www.3dmgame.com/news/202409/3905303.html)
 
++ [《扑克牌对决》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202409/3905313.html)
+
++ [3DM商城国庆钜惠开启，19.9元赢3A游戏大作！](https://www.3dmgame.com/news/202409/3905317.html)
+
++ [《星空》DLC“破碎空间”发布倒计时 官方发布全球解锁时间表](https://www.3dmgame.com/news/202409/3905316.html)
+
++ [欧洲8月销量榜：《星战：亡命之徒》没打过《GTA5》](https://www.3dmgame.com/news/202409/3905315.html)
+
++ [宝可梦国际高薪聘请多元化专家 向小孩推广LGBTQ+](https://www.3dmgame.com/news/202409/3905314.html)
+
++ [TV动画《碧蓝之海》第二季宣布制作决定 播出时间待定](https://www.3dmgame.com/news/202409/3905312.html)
+

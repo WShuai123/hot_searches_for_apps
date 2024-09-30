@@ -31,3 +31,5 @@
 
 + [vivo X200 Pro mini 手机配备“特制 19.5:9”比例直屏](https://m.ithome.com/html/799359.htm)
 
++ [OPPO 陈希：ColorOS 15 拥有行业首个并行绘制架构，实现多动画并行响应](https://m.ithome.com/html/799234.htm)
+
