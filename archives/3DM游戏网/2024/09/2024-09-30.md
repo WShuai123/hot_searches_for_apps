@@ -163,3 +163,13 @@
 
 + [TV动画《碧蓝之海》第二季宣布制作决定 播出时间待定](https://www.3dmgame.com/news/202409/3905312.html)
 
++ [《最终幻想7》蒂法新3D美图 性感身材诱惑力满满](https://www.3dmgame.com/news/202409/3905320.html)
+
++ [开放世界休闲邮差模拟游戏《狸狸：胖哒的夏日》现已上线Steam平台](https://www.3dmgame.com/news/202409/3905319.html)
+
++ [SpaceX龙飞船到达国际空间站 明年2月接回两名滞留宇航员](https://www.3dmgame.com/news/202409/3905318.html)
+
++ [肉鸽俯视角射击《Dead Estate》将于10月发布最终更新](https://www.3dmgame.com/news/202409/3905322.html)
+
++ [《刀剑神域：碎梦边境》开场动画公布 豪华版抢先体验已开启](https://www.3dmgame.com/news/202409/3905321.html)
+

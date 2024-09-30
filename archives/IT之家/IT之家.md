@@ -33,3 +33,9 @@
 
 + [OPPO 陈希：ColorOS 15 拥有行业首个并行绘制架构，实现多动画并行响应](https://m.ithome.com/html/799234.htm)
 
++ [蔚来获国资股东 33 亿元新一轮增资后，李斌发文感谢安徽与合肥的信任支持](https://m.ithome.com/html/799430.htm)
+
++ [OPPO Find X8 全系标配 50W 无线充电，5000mAh 磁吸移动电源曝光](https://m.ithome.com/html/799271.htm)
+
++ [一加：全球首块“第二代东方屏”成功点亮，将带来更出类拔萃的表现](https://m.ithome.com/html/799396.htm)
+

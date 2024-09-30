@@ -51,3 +51,5 @@
 
 + [虚假英雄联盟下载广告正传播 Lumma Stealer 恶意软件](https://www.freebuf.com/news/412090.html)
 
++ [Telegram转向，将配合执法部门的合理要求](https://www.freebuf.com/news/412098.html)
+
