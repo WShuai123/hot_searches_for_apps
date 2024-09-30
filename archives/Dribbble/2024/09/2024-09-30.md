@@ -91,3 +91,15 @@
 
 + [Insurance website  design](https://dribbble.com/shots/)
 
++ [ORION - Job Opportunities SaaS](https://dribbble.com/shots/)
+
++ [Beach - Website Header Illustration](https://dribbble.com/shots/)
+
++ [Fathom - The Enterprise AI Platform](https://dribbble.com/shots/)
+
++ [The Body Shop - Beauty App](https://dribbble.com/shots/)
+
++ [Autentica - Landing Page](https://dribbble.com/shots/)
+
++ [Grancarty - Grocery Store Mobile App UI Kit [Digital Wallet]](https://dribbble.com/shots/)
+

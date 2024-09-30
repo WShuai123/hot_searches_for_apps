@@ -157,3 +157,13 @@
 
 + [vue2 & [vue3 ts]全局loading挂载](https://blog.csdn.net/weixin_43367987/article/details/142640701)
 
++ [《ToDesk 云电脑、易腾云、青椒云移动端体验实测：让手机秒变超级电脑》](https://blog.csdn.net/qq_57761637/article/details/142647648)
+
++ [基于Arduino的自弹尤克里里机器人](https://blog.csdn.net/weixin_51141489/article/details/142625930)
+
++ [微信小程序实战教程：轻松实现列表批量选择功能](https://blog.csdn.net/Jiaberrr/article/details/142631513)
+
++ [Word办公自动化的一些方法](https://blog.csdn.net/sinat_27382047/article/details/122741765)
+
++ [鸿蒙OpenHarmony](https://blog.csdn.net/Watom_663/article/details/142612585)
+
