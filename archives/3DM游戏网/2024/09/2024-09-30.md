@@ -193,3 +193,17 @@
 
 + [应对人才短缺：三星正大力招聘高中学历工程师](https://www.3dmgame.com/news/202409/3905329.html)
 
++ [幻想都市生活RPG《协律01：新生活》首部PV公开 年内发售](https://www.3dmgame.com/news/202409/3905337.html)
+
++ [DQ主创堀井雄二不理解“正确化” Jump前总编：装成正义的恶魔](https://www.3dmgame.com/news/202409/3905338.html)
+
++ [全球液晶电视面板最新出货量：国屏一哥京东方第一](https://www.3dmgame.com/news/202409/3905339.html)
+
++ [《最终幻想14》国际服7.1版本“与未知的邂逅”11月中旬上线](https://www.3dmgame.com/news/202409/3905335.html)
+
++ [滑板巨星托尼霍克：《托尼霍克职业滑板》系列会有未来的](https://www.3dmgame.com/news/202409/3905334.html)
+
++ [史上最佳！老外实测iPhone 16 Pro Max续航：简直不敢相信自己的眼睛](https://www.3dmgame.com/news/202409/3905336.html)
+
++ [PS游戏音乐大奖统计开始 结果12月13日公布](https://www.3dmgame.com/news/202409/3905333.html)
+

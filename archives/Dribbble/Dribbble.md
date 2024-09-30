@@ -107,3 +107,11 @@
 
 + [Futuristic Galaxy Space Journey Illustration](https://dribbble.com/shots/)
 
++ [UI/UX Design for AppFlowly CRM - AI collaborative workspace](https://dribbble.com/shots/)
+
++ [Code HS presentation](https://dribbble.com/shots/)
+
++ [A + wings for an aviation consultancy company saas logo design](https://dribbble.com/shots/)
+
++ [Beling Pottery | Landing Page](https://dribbble.com/shots/)
+
