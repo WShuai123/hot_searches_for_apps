@@ -101,3 +101,7 @@
 
 + [【设计模式】精通高级行为模式：揭秘状态、中介者及其它模式的深层机制](https://blog.csdn.net/c18213590220/article/details/142433022)
 
++ [[RabbitMQ] 7种工作模式详细介绍](https://blog.csdn.net/2301_80050796/article/details/142598808)
+
++ [信号处理快速傅里叶变换(FFT)的学习](https://blog.csdn.net/qq_41931610/article/details/140515857)
+

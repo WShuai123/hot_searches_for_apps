@@ -101,3 +101,11 @@
 
 + [《炉石传说》官方再次为游戏问题致歉 追加补偿20个卡包](https://www.3dmgame.com/news/202409/3905305.html)
 
++ [《星空：破碎空间》上市预告 建议达到35级](https://www.3dmgame.com/news/202410/3905358.html)
+
++ [《贪婪之秋2：垂死世界》外媒6分评价 需要打磨](https://www.3dmgame.com/news/202409/3905357.html)
+
++ [《炼金工房》系列新史低 初代售价115元](https://www.3dmgame.com/news/202409/3905355.html)
+
++ [《星之海》DLC“春日黎明”11月12日上线 免费更新](https://www.3dmgame.com/news/202409/3905356.html)
+
