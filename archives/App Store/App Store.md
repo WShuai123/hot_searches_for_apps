@@ -211,3 +211,9 @@
 
 + [倒数日 · Days Matter](https://itunes.apple.com/cn/app/id406170251?mt=8)
 
++ [东方财富-股票交易 基金理财](https://itunes.apple.com/cn/app/id423525686?mt=8)
+
++ [中信证券信e投-证券股票交易开户理财](https://itunes.apple.com/cn/app/id1101673632?mt=8)
+
++ [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
+

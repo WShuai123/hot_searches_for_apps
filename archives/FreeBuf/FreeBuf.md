@@ -53,3 +53,5 @@
 
 + [Telegram转向，将配合执法部门的合理要求](https://www.freebuf.com/news/412098.html)
 
++ [PrintNightmare打域控漏洞的一次艰难利用](https://www.freebuf.com/vuls/410628.html)
+
