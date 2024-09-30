@@ -25,3 +25,5 @@
 
 + [消息称天玑 9400、骁龙 8 Gen 4 采购成本分别约 155 和 190 美元，上涨 20%±](https://m.ithome.com/html/799487.htm)
 
++ [HMD 真旗舰回归，消息称其“诺基亚 Lumia 1020 复刻手机”搭骁龙 8s Gen 3 处理器](https://m.ithome.com/html/799672.htm)
+

@@ -49,3 +49,13 @@
 
 + [Beach - Website Header Illustration](https://dribbble.com/shots/)
 
++ [Clevant Ventures - Logo Design](https://dribbble.com/shots/)
+
++ [Schmuck Crab](https://dribbble.com/shots/)
+
++ [Violet Drake Games Logo](https://dribbble.com/shots/)
+
++ [Website for a Platform ✦ Forge](https://dribbble.com/shots/)
+
++ [Celestial](https://dribbble.com/shots/)
+

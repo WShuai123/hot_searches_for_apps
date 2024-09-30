@@ -105,3 +105,33 @@
 
 + [信号处理快速傅里叶变换(FFT)的学习](https://blog.csdn.net/qq_41931610/article/details/140515857)
 
++ [影刀---如何进行自动化操作](https://blog.csdn.net/2301_80863610/article/details/142615834)
+
++ [从事人工智能学习Python还是学习C++？](https://blog.csdn.net/sixpp/article/details/142626233)
+
++ [基于CNN+Transformer混合模型实现交通流量时序预测(PyTorch版)](https://blog.csdn.net/m0_63287589/article/details/142652945)
+
++ [学习threejs，添加户外光照光源](https://blog.csdn.net/qq_28419035/article/details/142655064)
+
++ [【RL Latest Tech】离线强化学习：行为规范Actor Critic (BRAC) 算法](https://blog.csdn.net/qq_51399582/article/details/142501686)
+
++ [2024年计算机保研经验分享](https://blog.csdn.net/yu_yang10/article/details/142663450)
+
++ [rdp远程桌面服务协议概述](https://blog.csdn.net/tieqiaoshaonian/article/details/142664936)
+
++ [软件工程-软件测试](https://blog.csdn.net/wlq_567/article/details/142635725)
+
++ [【计网】从零开始学习http协议 --- 通过http实现客户端交互](https://blog.csdn.net/JLX_1/article/details/142602696)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142611523)
+
++ [在Windows的VSCode上配置Java-Hadoop开发环境，并用MapReduce实现WordCount功能](https://blog.csdn.net/weixin_45461739/article/details/142662537)
+
++ [基于yolov8的100种蝴蝶智能识别系统python源码+pt模型+训练日志+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142655425)
+
++ [微信小程序实战教程：轻松实现列表批量选择功能](https://blog.csdn.net/Jiaberrr/article/details/142631513)
+
++ [使用 React Router v6 在 React 中实现面包屑](https://blog.csdn.net/lwf3115841/article/details/142639817)
+
++ [【Unity精品插件】Feel：提升游戏打击感的利器](https://blog.csdn.net/UnityBoy/article/details/142624247)
+
