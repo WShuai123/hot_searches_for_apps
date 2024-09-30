@@ -135,3 +135,7 @@
 
 + [【Unity精品插件】Feel：提升游戏打击感的利器](https://blog.csdn.net/UnityBoy/article/details/142624247)
 
++ [[Redis][集群][下]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142590165)
+
++ [Idea启动SpringBoot程序报错：Veb server failed to start. Port 8082 was already in use；端口冲突的原理与解决方案](https://blog.csdn.net/RenGJ010617/article/details/142336005)
+
