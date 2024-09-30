@@ -149,3 +149,9 @@
 
 + [GrowthCraft - Logo Design](https://dribbble.com/shots/)
 
++ [Trading App UI Components](https://dribbble.com/shots/)
+
++ [Futurpower #logomonday](https://dribbble.com/shots/)
+
++ [Gym Management - Landing Page](https://dribbble.com/shots/)
+

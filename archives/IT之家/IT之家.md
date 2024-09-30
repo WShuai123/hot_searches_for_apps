@@ -57,3 +57,7 @@
 
 + [冯骥回应《黑神话：悟空》何时推出 DLC：不会很快去做](https://m.ithome.com/html/799517.htm)
 
++ [前华人首富、币安创始人赵长鹏出狱，称将继续投资区块链、AI 和生物技术等](https://m.ithome.com/html/799578.htm)
+
++ [小米 14、Redmi K60 至尊版获推澎湃 OS 体验增强版 Beta 1.1.4.0，优化 / 修复多项桌面问题](https://m.ithome.com/html/799443.htm)
+

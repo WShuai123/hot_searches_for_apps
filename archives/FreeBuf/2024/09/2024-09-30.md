@@ -61,3 +61,5 @@
 
 + [《工业和信息化领域数据安全合规指引》（征求意见稿）发布](https://www.freebuf.com/news/412147.html)
 
++ [《网络数据安全管理条例》发布，2025年1月1日正式施行](https://www.freebuf.com/news/412154.html)
+
