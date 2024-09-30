@@ -115,3 +115,27 @@
 
 + [Beling Pottery | Landing Page](https://dribbble.com/shots/)
 
++ [Recent Logo Design Symbols](https://dribbble.com/shots/)
+
++ [Rebrands for Fun Collection](https://dribbble.com/shots/)
+
++ [Activity Planner – Desktop App Concept](https://dribbble.com/shots/)
+
++ [eCash-LandingPage🔥](https://dribbble.com/shots/)
+
++ [Spot illustrations](https://dribbble.com/shots/)
+
++ [Viking Warrior Logo](https://dribbble.com/shots/)
+
++ [Tusk - Wordmark / Logotype Design](https://dribbble.com/shots/)
+
++ [Booklet Design - Wallure Home](https://dribbble.com/shots/)
+
++ [GameTotem - Logo Design (Unused)](https://dribbble.com/shots/)
+
++ [X-VØID™ - TECH, Logo & Brand Identity, Concept vol.2.1 • 2024](https://dribbble.com/shots/)
+
++ [Crypto Wallet | Mobile App](https://dribbble.com/shots/)
+
++ [Smile!](https://dribbble.com/shots/)
+

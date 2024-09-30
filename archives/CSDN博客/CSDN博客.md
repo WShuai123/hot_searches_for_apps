@@ -191,3 +191,7 @@
 
 + [云计算Openstack Keystone](https://blog.csdn.net/mqiqe/article/details/142641300)
 
++ [AIGC专栏16——CogVideoX-Fun V1.1版本详解 支持图&文生视频与更大的动态性 为文生视频添加控制](https://blog.csdn.net/weixin_44791964/article/details/142656101)
+
++ [OpenCV开发笔记（八十一）：通过棋盘格使用鱼眼方式标定相机内参矩阵矫正摄像头图像](https://blog.csdn.net/qq21497936/article/details/142614975)
+

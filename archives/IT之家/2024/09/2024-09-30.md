@@ -53,3 +53,5 @@
 
 + [铁路 12306 App 华为鸿蒙原生版全量上线，将适配实况窗](https://m.ithome.com/html/799469.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统游戏《王者荣耀前瞻版》支持 120 帧高刷](https://m.ithome.com/html/799530.htm)
+
