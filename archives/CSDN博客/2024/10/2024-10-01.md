@@ -141,3 +141,7 @@
 
 + [漫谈前端：2025年框架是该选vue还是react？](https://blog.csdn.net/m0_38015699/article/details/142633903)
 
++ [10款物联网开源嵌入式操作系统对比分析](https://blog.csdn.net/xiaolong1126626497/article/details/142651887)
+
++ [vue2 & [vue3 ts]全局loading挂载](https://blog.csdn.net/weixin_43367987/article/details/142640701)
+

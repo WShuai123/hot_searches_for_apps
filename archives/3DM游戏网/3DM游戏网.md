@@ -117,3 +117,17 @@
 
 + [《死亡搁浅2》连一半都没有完成 但小岛有信心明年发售](https://www.3dmgame.com/news/202410/3905359.html)
 
++ [《使命召唤：黑色行动6》爆料首张僵尸模式DLC地图](https://www.3dmgame.com/news/202410/3905366.html)
+
++ [真人剧版《如龙》正式预告公开 10月25日上线](https://www.3dmgame.com/news/202410/3905367.html)
+
++ [小岛秀夫表示《死亡搁浅2》拍照模式会影响剧情](https://www.3dmgame.com/news/202410/3905368.html)
+
++ [《Magic Cats Pots》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202410/3905369.html)
+
++ [《Duat: Beyond Light & Shadow》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202410/3905363.html)
+
++ [《星球大战：亡命之徒》一个月内仅售出100万部](https://www.3dmgame.com/news/202410/3905364.html)
+
++ [《死亡搁浅2》获玩家称赞 女角色和脸模一样美](https://www.3dmgame.com/news/202410/3905365.html)
+

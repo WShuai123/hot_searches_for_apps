@@ -29,3 +29,5 @@
 
 + [vivo X200 系列外观曝光：Pro mini 机型提供粉色 / 绿色机身](https://m.ithome.com/html/799691.htm)
 
++ [消息称小米 15 Pro 手机长焦传感器升级为索尼 IMX858，小米 13 Ultra 同款](https://m.ithome.com/html/799558.htm)
+

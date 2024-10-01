@@ -43,3 +43,9 @@
 
 + [深度解析内网横向移动及防御策略](https://www.freebuf.com/articles/network/411296.html)
 
++ [企业安全 | 邮件安全建设实践](https://www.freebuf.com/articles/es/406387.html)
+
++ [一次App更新差点要了这家老牌公司的命](https://www.freebuf.com/articles/412128.html)
+
++ [深度学习后门攻击分析与实现（一）](https://www.freebuf.com/articles/network/411225.html)
+
