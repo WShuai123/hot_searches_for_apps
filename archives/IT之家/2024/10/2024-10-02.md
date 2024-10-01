@@ -27,3 +27,5 @@
 
 + [比亚迪 9 月销量明细公布：秦系列超 7.5 万辆，海豹超 5.8 万辆](https://m.ithome.com/html/799814.htm)
 
++ [消息称华为智选笔记本命名“Hi Matebook”，有望本月发布](https://m.ithome.com/html/799820.htm)
+

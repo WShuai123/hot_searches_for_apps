@@ -203,3 +203,7 @@
 
 + [我的桌面 · iScreen - 桌面小组件主题壁纸](https://itunes.apple.com/cn/app/id1534704608?mt=8)
 
++ [Kimi 智能助手](https://itunes.apple.com/cn/app/id6474233312?mt=8)
+
++ [网易大神-炉石传说国服回归](https://itunes.apple.com/cn/app/id1359055423?mt=8)
+
