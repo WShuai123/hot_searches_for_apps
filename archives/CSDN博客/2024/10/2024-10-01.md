@@ -171,3 +171,17 @@
 
 + [【RL Latest Tech】分层强化学习（Hierarchical RL）](https://blog.csdn.net/qq_51399582/article/details/142630354)
 
++ [基于大数据爬虫+Spark+Python数据可视化大屏的汽车行业大数据分析系统(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/weixin_39709134/article/details/142669704)
+
++ [闭源与开源嵌入模型比较以及提升语义搜索效果的技术探讨](https://blog.csdn.net/m0_46510245/article/details/142668197)
+
++ [《OpenCV 计算机视觉》—— 视频背景建模](https://blog.csdn.net/weixin_73504499/article/details/142662894)
+
++ [一觉醒来，YOLO11 冷不丁就来了](https://blog.csdn.net/sinat_28442665/article/details/142668315)
+
++ [一文吃透 SQL 语法](https://blog.csdn.net/hh867308122/article/details/142656452)
+
++ [《循序渐进Vue.js 3.x前端开发实践》：前端开发者的必备指南](https://blog.csdn.net/a1657054242/article/details/142652215)
+
++ [【RL Latest Tech】分层强化学习：Option-Critic架构算法](https://blog.csdn.net/qq_51399582/article/details/142649491)
+

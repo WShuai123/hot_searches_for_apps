@@ -171,3 +171,9 @@
 
 + [《真知之岛》即将关闭服务器 游戏永久改为离线模式](https://www.3dmgame.com/news/202410/3905384.html)
 
++ [《堡垒：猎鹰战纪》开发者呼吁给独立开发者更多空间](https://www.3dmgame.com/news/202410/3905392.html)
+
++ [一场大火导致iPhone印度代工厂无限期停产](https://www.3dmgame.com/news/202410/3905391.html)
+
++ [《足球经理25》正式确认将于11月27日发售 首日登陆XGP](https://www.3dmgame.com/news/202410/3905390.html)
+
