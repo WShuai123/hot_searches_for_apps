@@ -69,3 +69,5 @@
 
 + [9 月小米 SU7 交付量超一万台，10 月目标生产、交付量超两万台](https://m.ithome.com/html/799794.htm)
 
++ [发生火灾后，印度塔塔电子苹果 iPhone 零部件工厂无限期停产](https://m.ithome.com/html/799734.htm)
+
