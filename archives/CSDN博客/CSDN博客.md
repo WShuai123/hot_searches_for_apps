@@ -101,3 +101,7 @@
 
 + [基于yolov8的100种中草药智能识别系统python源码+pt模型+训练日志+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142667850)
 
++ [滚雪球学MySQL[8.3讲]：数据库中的JSON与全文检索详解：从数据存储到全文索引的高效使用](https://blog.csdn.net/weixin_43970743/article/details/142670556)
+
++ [rdp远程桌面服务协议概述](https://blog.csdn.net/tieqiaoshaonian/article/details/142664936)
+

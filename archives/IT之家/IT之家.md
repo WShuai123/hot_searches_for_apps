@@ -25,3 +25,5 @@
 
 + [发生火灾后，印度塔塔电子苹果 iPhone 零部件工厂无限期停产](https://m.ithome.com/html/799734.htm)
 
++ [比亚迪 9 月销量明细公布：秦系列超 7.5 万辆，海豹超 5.8 万辆](https://m.ithome.com/html/799814.htm)
+

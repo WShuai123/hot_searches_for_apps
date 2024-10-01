@@ -49,3 +49,11 @@
 
 + [Turmeric Pouch Design & Yoga Poses](https://dribbble.com/shots/)
 
++ [Infographic Design](https://dribbble.com/shots/)
+
++ [Futureniture - Furniture Website | UI/UX Design](https://dribbble.com/shots/)
+
++ [DC - Elegant Aesthetic Metal Portfolio Website - Product Page](https://dribbble.com/shots/)
+
++ [Travel Insurance Icons](https://dribbble.com/shots/)
+

@@ -61,3 +61,7 @@
 
 + [【颜音】欢度国庆歌回~](http://www.acfun.cn/v/ac46329648)
 
++ [以色列即将赢得战争？全美45州货币独立！【岩论456期】](http://www.acfun.cn/v/ac46332008)
+
++ [【东方】Bad Apple!!【Synthesizer V】](http://www.acfun.cn/v/ac46331682)
+
