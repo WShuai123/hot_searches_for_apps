@@ -45,3 +45,5 @@
 
 + [明日 0 时起至 10 月 7 日 24 时国庆假期全国高速免通行费](https://m.ithome.com/html/799706.htm)
 
++ [比亚迪王朝全新 IP“夏”字标 Logo 定稿：中大型 MPV 夏首发](https://m.ithome.com/html/799737.htm)
+

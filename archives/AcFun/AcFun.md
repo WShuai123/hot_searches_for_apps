@@ -79,3 +79,9 @@
 
 + [【国庆】歹徒兴奋腿！！！★手机竖屏1290★](http://www.acfun.cn/v/ac46327916)
 
++ [【国庆】《我和我的祖国》](http://www.acfun.cn/v/ac46329261)
+
++ [【国庆】甜妹泪桥弹唱](http://www.acfun.cn/v/ac46329142)
+
++ [热 捂 葱 鸡](http://www.acfun.cn/v/ac46327480)
+

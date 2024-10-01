@@ -151,3 +151,7 @@
 
 + [策略回合类RPG游戏《边界迷航》Steam页面上线  支持简中](https://www.3dmgame.com/news/202410/3905376.html)
 
++ [2024国庆档新片票房破3亿：《志愿军：存亡之战》领跑](https://www.3dmgame.com/news/202410/3905381.html)
+
++ [《守望先锋》曾有改编动画计划 但暴雪跟网飞闹翻](https://www.3dmgame.com/news/202410/3905380.html)
+
