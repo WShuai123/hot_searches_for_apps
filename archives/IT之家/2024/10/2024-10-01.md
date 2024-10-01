@@ -39,3 +39,9 @@
 
 + [最会买 2.10 上架，抖音商城返利、全新剪切板、iOS 18 适配……](https://m.ithome.com/html/799537.htm)
 
++ [日本机构：128GB 版苹果 iPhone 16 中国售价全球最低](https://m.ithome.com/html/799746.htm)
+
++ [曝比亚迪突然向员工发放利润奖：有人到手 10 多万元](https://m.ithome.com/html/799740.htm)
+
++ [明日 0 时起至 10 月 7 日 24 时国庆假期全国高速免通行费](https://m.ithome.com/html/799706.htm)
+

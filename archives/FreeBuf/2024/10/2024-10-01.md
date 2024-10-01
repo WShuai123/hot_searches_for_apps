@@ -49,3 +49,5 @@
 
 + [深度学习后门攻击分析与实现（一）](https://www.freebuf.com/articles/network/411225.html)
 
++ [偏信则暗 —— Penpie 被黑分析](https://www.freebuf.com/articles/blockchain-articles/410657.html)
+

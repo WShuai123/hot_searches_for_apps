@@ -143,3 +143,11 @@
 
 + [《刺客信条：影》开发者早就提出应延期 高层不同意](https://www.3dmgame.com/news/202410/3905370.html)
 
++ [Xbox将更重视开发者反馈 会改进第三方移植过程](https://www.3dmgame.com/news/202410/3905379.html)
+
++ [包含线上游戏等功能！特斯拉上线高级车载娱乐服务1年包](https://www.3dmgame.com/news/202410/3905378.html)
+
++ [《宝可梦大集结》将于2025年11月在比利时和荷兰停服](https://www.3dmgame.com/news/202410/3905377.html)
+
++ [策略回合类RPG游戏《边界迷航》Steam页面上线  支持简中](https://www.3dmgame.com/news/202410/3905376.html)
+

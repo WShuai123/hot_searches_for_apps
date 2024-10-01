@@ -149,3 +149,9 @@
 
 + [828华为云征文 | 利用FIO工具测试Flexus云服务器X实例存储性能](https://blog.csdn.net/qq_53317005/article/details/142659477)
 
++ [【数据库】Java 集成mongodb— MongoTemplate 详解](https://blog.csdn.net/weixin_36755535/article/details/142650922)
+
++ [数据库 - Mongo数据库](https://blog.csdn.net/2401_86688088/article/details/142617891)
+
++ [【PyTorch】图像目标检测](https://blog.csdn.net/Glass_Gun/article/details/142586145)
+

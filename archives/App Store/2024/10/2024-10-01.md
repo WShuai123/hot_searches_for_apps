@@ -215,3 +215,9 @@
 
 + [书旗小说-看小说大全的电子书阅读神器](https://itunes.apple.com/cn/app/id733689509?mt=8)
 
++ [水印相机](https://itunes.apple.com/cn/app/id637428894?mt=8)
+
++ [熊猫剧场](https://itunes.apple.com/cn/app/id6670431184?mt=8)
+
++ [多多好剧](https://itunes.apple.com/cn/app/id6639610434?mt=8)
+
