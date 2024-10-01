@@ -177,3 +177,13 @@
 
 + [《足球经理25》正式确认将于11月27日发售 首日登陆XGP](https://www.3dmgame.com/news/202410/3905390.html)
 
++ [玩家使用《最后生还者2》游戏再现HBO剧版预告片](https://www.3dmgame.com/news/202410/3905394.html)
+
++ [Xbox One模拟器公布 但大多数游戏都已登陆PC](https://www.3dmgame.com/news/202410/3905395.html)
+
++ [Steam最新一周销量榜 《王权与自由》进前三](https://www.3dmgame.com/news/202410/3905396.html)
+
++ [暴雪开发者曾想要开发《魔兽争霸4》 却遭到高层拒绝](https://www.3dmgame.com/news/202410/3905397.html)
+
++ [不太怕剧透 《寂静岭2：重制版》实体版疑似偷跑](https://www.3dmgame.com/news/202410/3905393.html)
+

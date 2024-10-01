@@ -107,3 +107,17 @@
 
 + [Bakery](https://dribbble.com/shots/)
 
++ [Final Bunny Logo Mark Design](https://dribbble.com/shots/)
+
++ [Venn logo design (unused)](https://dribbble.com/shots/)
+
++ [SS-AI Brand](https://dribbble.com/shots/)
+
++ [Rain cloud](https://dribbble.com/shots/)
+
++ [Comer AI - Hero Section](https://dribbble.com/shots/)
+
++ [ThoughtSpot - Product Visioning 2](https://dribbble.com/shots/)
+
++ [Star Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
+

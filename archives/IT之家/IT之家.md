@@ -57,3 +57,9 @@
 
 + [微软 Win11 “重温经典”，紧凑任务栏有望回归](https://m.ithome.com/html/799758.htm)
 
++ [小米 SU7 上线 10 月限时购车权益：仍为 Nappa 真皮座椅、增强智驾](https://m.ithome.com/html/799762.htm)
+
++ [高通被曝研制骁龙 X2 秘密武器：剑指苹果 M 系列，能效 + AI 开启芯片新征程](https://m.ithome.com/html/799724.htm)
+
++ [【IT之家评测室】苹果 AirPods 4 主动降噪款体验：不完美，但依旧半入耳标杆](https://m.ithome.com/html/799660.htm)
+
