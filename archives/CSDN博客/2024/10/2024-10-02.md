@@ -123,3 +123,5 @@
 
 + [《循序渐进Vue.js 3.x前端开发实践》：前端开发者的必备指南](https://blog.csdn.net/a1657054242/article/details/142652215)
 
++ [Springboot3 + MyBatis-Plus + MySql + Vue + ProTable + TS 实现后台管理商品分类（最新教程附源码）](https://blog.csdn.net/weixin_56050344/article/details/142657061)
+
