@@ -103,3 +103,5 @@
 
 + [panda{·}etl](https://www.producthunt.com/posts/panda-etl)
 
++ [Newsletter Radar by SparkLoop](https://www.producthunt.com/posts/newsletter-radar-by-sparkloop)
+
