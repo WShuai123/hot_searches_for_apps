@@ -155,3 +155,7 @@
 
 + [《守望先锋》曾有改编动画计划 但暴雪跟网飞闹翻](https://www.3dmgame.com/news/202410/3905380.html)
 
++ [PS5更新之后用户界面出现广告 索尼：是BUG](https://www.3dmgame.com/news/202410/3905382.html)
+
++ [福特 CEO：充电是电动汽车最大的障碍](https://www.3dmgame.com/news/202410/3905383.html)
+

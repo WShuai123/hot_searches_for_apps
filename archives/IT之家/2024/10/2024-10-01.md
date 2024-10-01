@@ -47,3 +47,7 @@
 
 + [比亚迪王朝全新 IP“夏”字标 Logo 定稿：中大型 MPV 夏首发](https://m.ithome.com/html/799737.htm)
 
++ [伸缩机倒塌致 1 名员工死亡，申通快递被国家邮政局市场监管司行政约谈](https://m.ithome.com/html/799631.htm)
+
++ [小米推出米家空调自然风 Pro 上出风 1.5 匹版本，众筹价 3499 元](https://m.ithome.com/html/799627.htm)
+
