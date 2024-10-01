@@ -159,3 +159,15 @@
 
 + [福特 CEO：充电是电动汽车最大的障碍](https://www.3dmgame.com/news/202410/3905383.html)
 
++ [Steam回合制角色扮演游戏节开幕 10月8日结束](https://www.3dmgame.com/news/202410/3905389.html)
+
++ [《星空》发布更新档 为DLC“破碎空间”进行优化](https://www.3dmgame.com/news/202410/3905388.html)
+
++ [动作游戏《死深》Steam页面上线 支持简繁体中文](https://www.3dmgame.com/news/202410/3905387.html)
+
++ [PSN网络服务全球范围宕机 至今仍可能无法登陆账号](https://www.3dmgame.com/news/202410/3905386.html)
+
++ [卡普空确认两款格斗游戏合集Xbox One版本明年推出](https://www.3dmgame.com/news/202410/3905385.html)
+
++ [《真知之岛》即将关闭服务器 游戏永久改为离线模式](https://www.3dmgame.com/news/202410/3905384.html)
+
