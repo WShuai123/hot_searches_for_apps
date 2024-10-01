@@ -121,3 +121,11 @@
 
 + [Star Logo Design by Bertalan Gombos](https://dribbble.com/shots/)
 
++ [FXNX Logo Design – Bold, Modern, and Dynamic Brand Identity](https://dribbble.com/shots/)
+
++ [Retro Aviator Logo](https://dribbble.com/shots/)
+
++ [Asterisk Lion](https://dribbble.com/shots/)
+
++ [Monograms and Lettermarks Part I](https://dribbble.com/shots/)
+

@@ -187,3 +187,13 @@
 
 + [滚雪球学MySQL[8.3讲]：数据库中的JSON与全文检索详解：从数据存储到全文索引的高效使用](https://blog.csdn.net/weixin_43970743/article/details/142670556)
 
++ [【机器学习-无监督学习】降维与主成分分析](https://blog.csdn.net/Morse_Chen/article/details/142647797)
+
++ [OpenCV-指纹识别](https://blog.csdn.net/2301_77698138/article/details/142663015)
+
++ [大数据实时数仓Hologres（四）：基于Flink+Hologres搭建实时数仓](https://blog.csdn.net/xiaoweite1/article/details/142670925)
+
++ [从Fast-UMI到Diff-Control：分别改进刷盘机器人UMI的硬件及其所用的扩散策略](https://blog.csdn.net/v_JULY_v/article/details/142644972)
+
++ [云计算Openstack Glance](https://blog.csdn.net/mqiqe/article/details/142647703)
+

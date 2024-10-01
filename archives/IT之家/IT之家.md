@@ -63,3 +63,5 @@
 
 + [【IT之家评测室】苹果 AirPods 4 主动降噪款体验：不完美，但依旧半入耳标杆](https://m.ithome.com/html/799660.htm)
 
++ [三星机皇 Galaxy S25 Ultra 手机曝料：设计再突破，更薄、更窄、更优雅](https://m.ithome.com/html/799778.htm)
+

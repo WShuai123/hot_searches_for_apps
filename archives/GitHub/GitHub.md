@@ -37,3 +37,25 @@
 
 + [Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
++ [mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+
++ [netdata / netdata](https://github.com/netdata/netdata)
+
++ [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [godotengine / godot](https://github.com/godotengine/godot)
+
++ [continuedev / continue](https://github.com/continuedev/continue)
+
++ [Anuken / Mindustry](https://github.com/Anuken/Mindustry)
+
++ [keploy / keploy](https://github.com/keploy/keploy)
+
++ [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
+
++ [qbittorrent / qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
++ [godotengine / godot-docs](https://github.com/godotengine/godot-docs)
+
++ [coqui-ai / TTS](https://github.com/coqui-ai/TTS)
+

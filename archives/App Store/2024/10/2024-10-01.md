@@ -223,3 +223,7 @@
 
 + [TapTap - 发现好游戏](https://itunes.apple.com/cn/app/id1444595166?mt=8)
 
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+
++ [华为运动健康](https://itunes.apple.com/cn/app/id1325481372?mt=8)
+

@@ -187,3 +187,7 @@
 
 + [不太怕剧透 《寂静岭2：重制版》实体版疑似偷跑](https://www.3dmgame.com/news/202410/3905393.html)
 
++ [脑机接口成功控制Vision Pro 运行一年无严重不良反应](https://www.3dmgame.com/news/202410/3905399.html)
+
++ [《星球大战：西斯的复仇》经典“高地”剧情是斯皮尔伯格的点子](https://www.3dmgame.com/news/202410/3905398.html)
+
