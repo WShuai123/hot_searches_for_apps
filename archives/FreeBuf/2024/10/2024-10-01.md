@@ -41,3 +41,5 @@
 
 + [FreeBuf早报 | 2023年勒索软攻击117个国家；NOYB称火狐追踪用户隐私](https://www.freebuf.com/news/411954.html)
 
++ [深度解析内网横向移动及防御策略](https://www.freebuf.com/articles/network/411296.html)
+

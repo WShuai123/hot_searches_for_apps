@@ -103,3 +103,7 @@
 
 + [PerceptInsight](https://www.producthunt.com/posts/perceptinsight)
 
++ [daily.dev Squads](https://www.producthunt.com/posts/daily-dev-squads)
+
++ [PLG OS](https://www.producthunt.com/posts/plg-os)
+

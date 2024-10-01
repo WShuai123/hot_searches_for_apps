@@ -109,3 +109,11 @@
 
 + [《星之海》DLC“春日黎明”11月12日上线 免费更新](https://www.3dmgame.com/news/202409/3905356.html)
 
++ [《尘路之旅》花2500美元TGS设摊位 结果还赔钱了](https://www.3dmgame.com/news/202410/3905362.html)
+
++ [锐龙9000两大补丁发布！延迟大降58％、性能提升35％](https://www.3dmgame.com/news/202410/3905361.html)
+
++ [《刺客信条：影》原本有日本男主角 可能延期到2025年Q2](https://www.3dmgame.com/news/202410/3905360.html)
+
++ [《死亡搁浅2》连一半都没有完成 但小岛有信心明年发售](https://www.3dmgame.com/news/202410/3905359.html)
+

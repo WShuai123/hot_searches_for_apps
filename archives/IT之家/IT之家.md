@@ -27,3 +27,5 @@
 
 + [HMD 真旗舰回归，消息称其“诺基亚 Lumia 1020 复刻手机”搭骁龙 8s Gen 3 处理器](https://m.ithome.com/html/799672.htm)
 
++ [vivo X200 系列外观曝光：Pro mini 机型提供粉色 / 绿色机身](https://m.ithome.com/html/799691.htm)
+
