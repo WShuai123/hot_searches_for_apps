@@ -59,3 +59,9 @@
 
 + [Dragonfruit Logo](https://dribbble.com/shots/)
 
++ [Alive! - Editable Graphic Styles](https://dribbble.com/shots/)
+
++ [Magic Cat Logo](https://dribbble.com/shots/)
+
++ [Glyph Beer 52](https://dribbble.com/shots/)
+
