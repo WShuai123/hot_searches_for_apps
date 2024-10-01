@@ -207,3 +207,11 @@
 
 + [基于Leaflet和天地图的细直箭头和突击方向标绘实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/142667466)
 
++ [【AIGC】ChatGPT提示词解析：如何打造个人IP、CSDN爆款技术文案与高效教案设计](https://blog.csdn.net/2201_75539691/article/details/142647750)
+
++ [【愚公系列】《AIGC辅助软件开发》020-AI 辅助测试与调试：如何让AI更好地辅助我们工作](https://blog.csdn.net/aa2528877987/article/details/142673107)
+
++ [基于yolov8的100种中草药智能识别系统python源码+pt模型+训练日志+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/142667850)
+
++ [springboot实战学习（10）(ThreadLoacl优化获取用户详细信息接口)（重写拦截器afterCompletion()方法）](https://blog.csdn.net/m0_74363339/article/details/142611614)
+

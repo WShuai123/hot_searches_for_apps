@@ -199,3 +199,5 @@
 
 + [吉田直树想让《最终幻想16》登陆Xbox平台](https://www.3dmgame.com/news/202410/3905401.html)
 
++ [国庆档票房破4.5亿 《志愿军：存亡之战》领跑](https://www.3dmgame.com/news/202410/3905404.html)
+
