@@ -101,3 +101,9 @@
 
 + [《炼金工房》系列新史低 初代售价115元](https://www.3dmgame.com/news/202409/3905355.html)
 
++ [《堕落之主2》首批细节泄露 或支持难度选项](https://www.3dmgame.com/news/202410/3905408.html)
+
++ [《血源》模拟器版进度喜人 即将与原版相当](https://www.3dmgame.com/news/202410/3905407.html)
+
++ [《寂静岭：townfall》仍在开发 或将延期发行](https://www.3dmgame.com/news/202410/3905406.html)
+
