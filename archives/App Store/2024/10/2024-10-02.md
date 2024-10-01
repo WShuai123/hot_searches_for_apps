@@ -207,3 +207,5 @@
 
 + [网易大神-炉石传说国服回归](https://itunes.apple.com/cn/app/id1359055423?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
