@@ -77,3 +77,9 @@
 
 + [Crypto Wallet Dashboard Template](https://dribbble.com/shots/)
 
++ [Luxe: Elegance in Motion- Visual identity](https://dribbble.com/shots/)
+
++ [September Recap](https://dribbble.com/shots/)
+
++ [Horangi Work From Home](https://dribbble.com/shots/)
+

@@ -145,3 +145,7 @@
 
 + [vue2 & [vue3 ts]全局loading挂载](https://blog.csdn.net/weixin_43367987/article/details/142640701)
 
++ [[Redis][典型运用][缓存]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142613911)
+
++ [828华为云征文 | 利用FIO工具测试Flexus云服务器X实例存储性能](https://blog.csdn.net/qq_53317005/article/details/142659477)
+

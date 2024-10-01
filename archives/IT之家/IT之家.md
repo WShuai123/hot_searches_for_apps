@@ -31,3 +31,11 @@
 
 + [消息称小米 15 Pro 手机长焦传感器升级为索尼 IMX858，小米 13 Ultra 同款](https://m.ithome.com/html/799558.htm)
 
++ [祖国人笑了，美国商标局取消漫威和 DC 公司“超级英雄（Super Hero）”联合商标](https://m.ithome.com/html/799605.htm)
+
++ [国家广电总局制定通用电视遥控器、U 盘大小机顶盒行业标准，首次要求支持星闪](https://m.ithome.com/html/799586.htm)
+
++ [华为 MatePad Pro 13.2 / 11 2024 款平板获推鸿蒙 HarmonyOS NEXT 0.0.70 Beta 版升级](https://m.ithome.com/html/799561.htm)
+
++ [最会买 2.10 上架，抖音商城返利、全新剪切板、iOS 18 适配……](https://m.ithome.com/html/799537.htm)
+
