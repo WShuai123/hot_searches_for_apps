@@ -131,3 +131,17 @@
 
 + [Windora Renewable Energy Dashboard](https://dribbble.com/shots/)
 
++ [Local Social Network App Animation](https://dribbble.com/shots/)
+
++ [Affordable Housing Lottery](https://dribbble.com/shots/)
+
++ [Gecko Logo](https://dribbble.com/shots/)
+
++ [Logos and marks](https://dribbble.com/shots/)
+
++ [Daily Logo Challenge #11 - Daily Logo Challenge logo](https://dribbble.com/shots/)
+
++ [ThoughtSpot - Product Visioning 3](https://dribbble.com/shots/)
+
++ [Crypto Wallet App for Easy Transactions](https://dribbble.com/shots/)
+

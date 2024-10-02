@@ -177,3 +177,5 @@
 
 + [《Linux从小白到高手》理论篇（九）：Linux的资源监控管理](https://blog.csdn.net/qq_45732829/article/details/142672206)
 
++ [【Linux】解锁磁盘文件奥秘，高效数据管理的实战技巧](https://blog.csdn.net/m0_74808907/article/details/142679821)
+

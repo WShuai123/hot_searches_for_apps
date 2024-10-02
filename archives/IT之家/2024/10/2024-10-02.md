@@ -49,3 +49,5 @@
 
 + [M4 系列芯片来袭，苹果 Mac 新品今年蓄势待发](https://m.ithome.com/html/799839.htm)
 
++ [微软解读 Win11 24H2：Win10 用户一次升级，续航、性能双倍提升](https://m.ithome.com/html/799881.htm)
+
