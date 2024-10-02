@@ -111,3 +111,13 @@
 
 + [Banking Mobile App](https://dribbble.com/shots/)
 
++ [Morphis Logo Design - Letter M Monogram](https://dribbble.com/shots/)
+
++ [Defer - fragments](https://dribbble.com/shots/)
+
++ [Rizzle Branding, visual identity, corporate brand design](https://dribbble.com/shots/)
+
++ [Look - Fashion App Design](https://dribbble.com/shots/)
+
++ [Fujies e-commerce home page](https://dribbble.com/shots/)
+

@@ -55,3 +55,5 @@
 
 + [信息安全管理 | 应用系统安全管理](https://www.freebuf.com/articles/web/399234.html)
 
++ [密评 | PDF文件中电子签章手工验签](https://www.freebuf.com/articles/database/400338.html)
+
