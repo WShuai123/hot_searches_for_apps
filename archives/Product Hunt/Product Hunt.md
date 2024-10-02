@@ -105,3 +105,19 @@
 
 + [Newsletter Radar by SparkLoop](https://www.producthunt.com/posts/newsletter-radar-by-sparkloop)
 
++ [Quailrunner](https://www.producthunt.com/posts/quailrunner)
+
++ [Lenish](https://www.producthunt.com/posts/lenish)
+
++ [Semblian 2.0](https://www.producthunt.com/posts/semblian-2-0)
+
++ [Sketch 101](https://www.producthunt.com/posts/sketch-101)
+
++ [doola Bookkeeping](https://www.producthunt.com/posts/doola-bookkeeping)
+
++ [Fini](https://www.producthunt.com/posts/fini)
+
++ [Tilores Identity RAG](https://www.producthunt.com/posts/tilores-identity-rag)
+
++ [Hedy AI](https://www.producthunt.com/posts/hedy-ai)
+

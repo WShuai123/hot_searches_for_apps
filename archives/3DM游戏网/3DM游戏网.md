@@ -155,3 +155,17 @@
 
 + [iPhone 16 Pro Max物料成本曝光：256GB约3400元](https://www.3dmgame.com/news/202410/3905432.html)
 
++ [经历裁员和决策失误后 Epic Games目前财务状况良好](https://www.3dmgame.com/news/202410/3905436.html)
+
++ [Monolith Soft成立25周年 发布纪念视频与壁纸庆祝](https://www.3dmgame.com/news/202410/3905437.html)
+
++ [《命运2》通过艺术图介绍新资料片以及次世代装甲](https://www.3dmgame.com/news/202410/3905438.html)
+
++ [OpenAI发布RealtimeAPI 助力第三方应用集成其语音合成技术](https://www.3dmgame.com/news/202410/3905439.html)
+
++ [《魔农传记 FARMAGIA》预告片介绍游戏登场角色](https://www.3dmgame.com/news/202410/3905435.html)
+
++ [《神之浩劫》开发商Hi-Rez裁员：为确保长期成功](https://www.3dmgame.com/news/202410/3905433.html)
+
++ [《Moon Mystery》Steam发售日预告 10月28日上线](https://www.3dmgame.com/news/202410/3905434.html)
+
