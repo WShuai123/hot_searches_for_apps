@@ -205,3 +205,5 @@
 
 + [Steam德国新规 所有游戏必须具有分级才能销售](https://www.3dmgame.com/news/202410/3905456.html)
 
++ [Steam 9月硬件调查 RTX 4060显卡提升最多](https://www.3dmgame.com/news/202410/3905458.html)
+

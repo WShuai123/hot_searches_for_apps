@@ -53,3 +53,7 @@
 
 + [微软 Win11 24H2 系统更新正式删除写字板](https://m.ithome.com/html/799902.htm)
 
++ [微观看 iPhone  16 芯片：苹果独立设计、生产 A18 芯片，非 A18 Pro 的分选版本](https://m.ithome.com/html/799848.htm)
+
++ [起配价 3052.5 万元，阿斯顿・马丁 Valiant 超跑国内上市](https://m.ithome.com/html/799890.htm)
+
