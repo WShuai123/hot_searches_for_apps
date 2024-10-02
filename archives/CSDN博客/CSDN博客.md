@@ -113,3 +113,5 @@
 
 + [这次PostgreSQL事故后，我把表膨胀清理工具撸了一遍](https://blog.csdn.net/weixin_41645135/article/details/142657506)
 
++ [Ollama 完整教程：本地 LLM 管理、WebUI 对话、Python/Java 客户端 API 应用](https://blog.csdn.net/qq_42978535/article/details/142679920)
+
