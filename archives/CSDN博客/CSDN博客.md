@@ -99,3 +99,9 @@
 
 + [iPhone使用技巧：如何恢复变砖的 iPhone 或 iPad](https://blog.csdn.net/GUISUN12/article/details/142669770)
 
++ [Linux：深入理解冯诺依曼结构与操作系统](https://blog.csdn.net/2301_79171011/article/details/142502210)
+
++ [【愚公系列】《AIGC辅助软件开发》020-AI 辅助测试与调试：如何让AI更好地辅助我们工作](https://blog.csdn.net/aa2528877987/article/details/142673107)
+
++ [华为 HCIP-Datacom H12-821 题库 (30)](https://blog.csdn.net/2301_77362941/article/details/142651734)
+
