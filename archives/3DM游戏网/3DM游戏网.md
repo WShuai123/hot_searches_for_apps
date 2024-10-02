@@ -197,3 +197,5 @@
 
 + [应对黄牛抢货 索尼在日限制仅玩家可购买周年限定主机](https://www.3dmgame.com/news/202410/3905445.html)
 
++ [回合制战术策略‎游戏《Inkshade》Steam页面开放，发行日期待定](https://www.3dmgame.com/news/202410/3905454.html)
+

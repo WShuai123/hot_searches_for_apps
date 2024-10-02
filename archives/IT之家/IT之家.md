@@ -51,3 +51,5 @@
 
 + [微软解读 Win11 24H2：Win10 用户一次升级，续航、性能双倍提升](https://m.ithome.com/html/799881.htm)
 
++ [微软 Win11 24H2 系统更新正式删除写字板](https://m.ithome.com/html/799902.htm)
+
