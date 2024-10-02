@@ -115,3 +115,9 @@
 
 + [Ollama 完整教程：本地 LLM 管理、WebUI 对话、Python/Java 客户端 API 应用](https://blog.csdn.net/qq_42978535/article/details/142679920)
 
++ [21.2 k8s中etcd的tls双向认证原理解析](https://blog.csdn.net/weixin_48502062/article/details/142671201)
+
++ [一切皆是映射：深度学习的调参艺术与实践窍门](https://blog.csdn.net/universsky2015/article/details/142677738)
+
++ [开源软件简介](https://blog.csdn.net/stevenjoo67/article/details/142649130)
+
