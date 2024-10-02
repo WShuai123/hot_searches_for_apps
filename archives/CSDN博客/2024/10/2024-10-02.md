@@ -135,3 +135,11 @@
 
 + [下一代性能怪兽RTX 5090最新规格更新与Blackwell架构解析](https://blog.csdn.net/weixin_50197960/article/details/142655511)
 
++ [机器学习：opencv--摄像头OCR](https://blog.csdn.net/weixin_65047977/article/details/142664186)
+
++ [Elasticsearch：使用 LLM 实现传统搜索自动化](https://blog.csdn.net/UbuntuTouch/article/details/142670830)
+
++ [Redis篇（缓存机制 - 多级缓存）（持续更新迭代）](https://blog.csdn.net/qq_51226710/article/details/142659587)
+
++ [【Unity精品插件】Love/Hate：专注于 AI 行为与情感互动](https://blog.csdn.net/UnityBoy/article/details/142670150)
+

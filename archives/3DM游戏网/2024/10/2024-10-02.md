@@ -117,3 +117,23 @@
 
 + [开发者透露《索尼克×夏特 世代重启》通关时长](https://www.3dmgame.com/news/202410/3905412.html)
 
++ [《奇迹时代4》年票预购 国区售价248元](https://www.3dmgame.com/news/202410/3905423.html)
+
++ [《DOTA2》7.37d更新和倾天之战典藏宝瓶II上线](https://www.3dmgame.com/news/202410/3905422.html)
+
++ [《龙腾世纪：影障守护者》Steam愿望单榜未能进前30名](https://www.3dmgame.com/news/202410/3905421.html)
+
++ [《变废为宝哥布林》11月6日EA发售 支持中文](https://www.3dmgame.com/news/202410/3905420.html)
+
++ [《王权与自由》在线冲到Steam第四 峰值人数超32万](https://www.3dmgame.com/news/202410/3905419.html)
+
++ [《背包精灵：决斗者》现已正式发售 收获特别好评](https://www.3dmgame.com/news/202410/3905418.html)
+
++ [微软HoloLens 2停产 无研发后续设备计划](https://www.3dmgame.com/news/202410/3905417.html)
+
++ [微软明年10月终止支持Win10！Win11份额创历史新高](https://www.3dmgame.com/news/202410/3905416.html)
+
++ [《暗黑破坏神4：憎恨之躯》10月8日早7点正式解锁](https://www.3dmgame.com/news/202410/3905415.html)
+
++ [《切尔诺贝利人2：禁区》官方首个实机宣传片](https://www.3dmgame.com/news/202410/3905414.html)
+
