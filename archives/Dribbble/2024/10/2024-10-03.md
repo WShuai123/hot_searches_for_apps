@@ -59,3 +59,13 @@
 
 + [Smart Stack Concept 5](https://dribbble.com/shots/)
 
++ [WY Basketball](https://dribbble.com/shots/)
+
++ [Vectober 02 // Renaissance](https://dribbble.com/shots/)
+
++ [AVOLVE Logotype](https://dribbble.com/shots/)
+
++ [tourtle travel app](https://dribbble.com/shots/)
+
++ [HMI Car](https://dribbble.com/shots/)
+
