@@ -47,3 +47,5 @@
 
 + [服务器端漏洞篇 | Web缓存欺骗专题](https://www.freebuf.com/articles/web/410634.html)
 
++ [深度解析 | 大模型原生安全](https://www.freebuf.com/articles/network/400726.html)
+
