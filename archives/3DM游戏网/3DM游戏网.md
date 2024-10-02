@@ -169,3 +169,11 @@
 
 + [《Moon Mystery》Steam发售日预告 10月28日上线](https://www.3dmgame.com/news/202410/3905434.html)
 
++ [据称育碧“4A大作”《碧海黑帆》耗资6.5至8.5亿美元](https://www.3dmgame.com/news/202410/3905443.html)
+
++ [Devolver成立新品牌Big Fan 致力于影视漫画改编游戏](https://www.3dmgame.com/news/202410/3905440.html)
+
++ [《749局》豆瓣开分5.0：特效不如网游 剧情更是一团糟](https://www.3dmgame.com/news/202410/3905441.html)
+
++ [iPhone印度代工厂无限期停产 苹果欲转向中国救急](https://www.3dmgame.com/news/202410/3905442.html)
+

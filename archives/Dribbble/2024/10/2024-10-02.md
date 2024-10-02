@@ -99,3 +99,15 @@
 
 + [Bowls & Brews Branding & Packaging Design - Coffee Shop](https://dribbble.com/shots/)
 
++ [PreMarket Dashboard for Enhanced User Functionality](https://dribbble.com/shots/)
+
++ [Magenta - Personal Portfolio Landing Page](https://dribbble.com/shots/)
+
++ [AI Help Convo Website](https://dribbble.com/shots/)
+
++ [Wonderkids - Education Landing Page UI Kit](https://dribbble.com/shots/)
+
++ [Pistachio, software platform for furniture stores logo design](https://dribbble.com/shots/)
+
++ [Banking Mobile App](https://dribbble.com/shots/)
+

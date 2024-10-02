@@ -43,3 +43,7 @@
 
 + [古尔曼称 iPhone SE 4 / 2025 款 iPad Air 明年初发布，均支持“苹果牌 AI”](https://m.ithome.com/html/799841.htm)
 
++ [买断制消费版微软 Office 2024 上线：5 年支持，兼容 Win10 / Win11 / macOS，起价 149 美元](https://m.ithome.com/html/799878.htm)
+
++ [使命完成，万维网基金会宣布关闭](https://m.ithome.com/html/799819.htm)
+
