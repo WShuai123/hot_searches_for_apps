@@ -37,3 +37,7 @@
 
 + [消息称某厂 2K 纯直屏性能机支持旁路充电 + 高功率亮屏快充，预计为 iQOO 13](https://m.ithome.com/html/799808.htm)
 
++ [苹果 iPhone 16 Pro Max 物料成本揭秘：485 美元，比前代高 7%](https://m.ithome.com/html/799852.htm)
+
++ [苹果 iPhone 16 系列手机销量不佳，“果链”LG 显示屏部门面临严峻挑战](https://m.ithome.com/html/799845.htm)
+

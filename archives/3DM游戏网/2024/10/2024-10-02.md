@@ -149,3 +149,7 @@
 
 + [经典RPG游戏《露娜 银河之星 复刻合集》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202410/3905427.html)
 
++ [恐怖FPS游戏《亡者世界》Steam页面上线 支持中文](https://www.3dmgame.com/news/202410/3905430.html)
+
++ [Nvidia App更新简化驱动回滚 《黑神话》最佳设置支持](https://www.3dmgame.com/news/202410/3905431.html)
+

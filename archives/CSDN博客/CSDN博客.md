@@ -147,3 +147,9 @@
 
 + [React 原理分析](https://blog.csdn.net/zhengzhaoyang122/article/details/142603271)
 
++ [【AI大模型】深入Transformer架构：编码器部分的实现与解析（上）](https://blog.csdn.net/2301_76820214/article/details/142674335)
+
++ [【Linux】进程优先级、调度、命令行参数：从理论到实践（二）](https://blog.csdn.net/weixin_50776420/article/details/142550508)
+
++ [(Kafka源码五)Kafka服务端处理消息](https://blog.csdn.net/weixin_42828342/article/details/136952911)
+
