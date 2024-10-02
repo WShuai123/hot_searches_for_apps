@@ -35,3 +35,5 @@
 
 + [华为 nova13 系列手机被曝 10 月 22 日发布](https://m.ithome.com/html/799829.htm)
 
++ [消息称某厂 2K 纯直屏性能机支持旁路充电 + 高功率亮屏快充，预计为 iQOO 13](https://m.ithome.com/html/799808.htm)
+

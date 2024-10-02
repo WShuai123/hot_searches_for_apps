@@ -137,3 +137,15 @@
 
 + [《切尔诺贝利人2：禁区》官方首个实机宣传片](https://www.3dmgame.com/news/202410/3905414.html)
 
++ [《马里奥与路易吉RPG：兄弟》新预告展示更多角色](https://www.3dmgame.com/news/202410/3905428.html)
+
++ [《赛博朋克2077》首发问题本还能更糟：已避重就轻](https://www.3dmgame.com/news/202410/3905429.html)
+
++ [豆腐仙人来了！像素平台游戏《超级强悍豆腐》发售](https://www.3dmgame.com/news/202410/3905424.html)
+
++ [又一款Switch模拟器消失：开发者与任天堂达成协议](https://www.3dmgame.com/news/202410/3905425.html)
+
++ [清晰版《王国》？2D横向策略《Monarchy》11月发售](https://www.3dmgame.com/news/202410/3905426.html)
+
++ [经典RPG游戏《露娜 银河之星 复刻合集》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202410/3905427.html)
+
