@@ -199,3 +199,9 @@
 
 + [回合制战术策略‎游戏《Inkshade》Steam页面开放，发行日期待定](https://www.3dmgame.com/news/202410/3905454.html)
 
++ [《绝地求生》开发商获授权 将开发《幻兽帕鲁》手游](https://www.3dmgame.com/news/202410/3905457.html)
+
++ [Windows 11 24H2更新开始推送 引入新的AI功能](https://www.3dmgame.com/news/202410/3905455.html)
+
++ [Steam德国新规 所有游戏必须具有分级才能销售](https://www.3dmgame.com/news/202410/3905456.html)
+
