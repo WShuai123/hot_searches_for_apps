@@ -41,3 +41,5 @@
 
 + [对Amadey恶意软件中的字符串进行混淆](https://www.freebuf.com/articles/system/411478.html)
 
++ [实战攻防 | 艰难打点之bypass绕过文件上传](https://www.freebuf.com/defense/406180.html)
+

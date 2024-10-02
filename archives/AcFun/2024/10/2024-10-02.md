@@ -69,3 +69,17 @@
 
 + [军粮试吃：中美军粮对比测评，谁的面条好吃？](http://www.acfun.cn/v/ac46330709)
 
++ [【十一不容错过的折扣！还有邪道低价购】STEAM十一高评价史低游戏购买攻略（10月1日-10月7日）](http://www.acfun.cn/v/ac46327458)
+
++ [哟哟哟这不摇摆阳吗，几天不见这么帅了？](http://www.acfun.cn/v/ac46331944)
+
++ [梗补档：孙工追狗](http://www.acfun.cn/v/ac46332160)
+
++ [Back to me](http://www.acfun.cn/v/ac46319094)
+
++ [要面子到了变态的地步，因为口角引发的疯癫复仇！冷门武士电影《仇讨》](http://www.acfun.cn/v/ac46331629)
+
++ [努力唱了【】唱 / Ado](http://www.acfun.cn/v/ac46331348)
+
++ [胶佬来北京必打卡！又要被高达硬控整个长假了～](http://www.acfun.cn/v/ac46331457)
+

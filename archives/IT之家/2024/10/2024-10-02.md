@@ -29,3 +29,5 @@
 
 + [消息称华为智选笔记本命名“Hi Matebook”，有望本月发布](https://m.ithome.com/html/799820.htm)
 
++ [微软发布 Windows 11 2024 更新（24H2）及 LTSC 版本：引入 AI 元素，新增 Wi-Fi 7 支持](https://m.ithome.com/html/799826.htm)
+
