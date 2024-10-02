@@ -101,3 +101,5 @@
 
 + [《切尔诺贝利人2：禁区》官方首个实机宣传片](https://www.3dmgame.com/news/202410/3905414.html)
 
++ [新款14英寸MacBook Pro包装曝光：M4芯片成焦点](https://www.3dmgame.com/news/202410/3905464.html)
+

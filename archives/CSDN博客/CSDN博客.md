@@ -105,3 +105,11 @@
 
 + [华为 HCIP-Datacom H12-821 题库 (30)](https://blog.csdn.net/2301_77362941/article/details/142651734)
 
++ [【自动驾驶】控制算法（十一）深度解析车辆纵向控制 | 纵向双 PID 控制算法](https://blog.csdn.net/weixin_51200029/article/details/141469967)
+
++ [虚拟机三种网络模式详解](https://blog.csdn.net/qq_61654952/article/details/142644653)
+
++ [MySQL之复合查询与内外连接](https://blog.csdn.net/zdlynj/article/details/140873430)
+
++ [这次PostgreSQL事故后，我把表膨胀清理工具撸了一遍](https://blog.csdn.net/weixin_41645135/article/details/142657506)
+

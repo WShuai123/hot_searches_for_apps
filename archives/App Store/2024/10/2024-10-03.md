@@ -201,3 +201,9 @@
 
 + [网易大神-炉石传说国服回归](https://itunes.apple.com/cn/app/id1359055423?mt=8)
 
++ [快影](https://itunes.apple.com/cn/app/id1195860596?mt=8)
+
++ [多多好剧](https://itunes.apple.com/cn/app/id6639610434?mt=8)
+
++ [小天才 电话手表-能打电话的手表](https://itunes.apple.com/cn/app/id986217056?mt=8)
+
