@@ -177,3 +177,23 @@
 
 + [iPhone印度代工厂无限期停产 苹果欲转向中国救急](https://www.3dmgame.com/news/202410/3905442.html)
 
++ [多人合作角色扮演类Rogue动作游戏《Kernel Hearts》Steam页面上线 支持中文](https://www.3dmgame.com/news/202410/3905453.html)
+
++ [前《龙腾世纪》制作人认为《星鸣特攻》4亿美元成本说法合理](https://www.3dmgame.com/news/202410/3905451.html)
+
++ [《杀手3 VR》开发商XR Games通知大量员工或将被裁](https://www.3dmgame.com/news/202410/3905452.html)
+
++ [EA为《孢子》组建新团队 但暂时没有大更新或续作计划](https://www.3dmgame.com/news/202410/3905449.html)
+
++ [平台游戏《This Is Fine: Maximum Cope》Steam页面开放 不支持中文](https://www.3dmgame.com/news/202410/3905450.html)
+
++ [汉斯·季默打造 《龙腾世纪：影障守护者》主题曲欣赏](https://www.3dmgame.com/news/202410/3905446.html)
+
++ [Tango在被微软关闭前已经在做《完美音浪2》了](https://www.3dmgame.com/news/202410/3905447.html)
+
++ [《无畏契约》转移至虚幻五引擎 神秘新项目开发中](https://www.3dmgame.com/news/202410/3905448.html)
+
++ [Epic老大蒂姆·斯威尼再谈元宇宙：代表游戏的未来](https://www.3dmgame.com/news/202410/3905444.html)
+
++ [应对黄牛抢货 索尼在日限制仅玩家可购买周年限定主机](https://www.3dmgame.com/news/202410/3905445.html)
+

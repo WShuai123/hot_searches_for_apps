@@ -121,3 +121,13 @@
 
 + [Fujies e-commerce home page](https://dribbble.com/shots/)
 
++ [Omnisea logo design](https://dribbble.com/shots/)
+
++ [Knight Victorious Logo](https://dribbble.com/shots/)
+
++ [A + Arrow – Logo, Logo design](https://dribbble.com/shots/)
+
++ [Doru DAO landing page](https://dribbble.com/shots/)
+
++ [Windora Renewable Energy Dashboard](https://dribbble.com/shots/)
+
