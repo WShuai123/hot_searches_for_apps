@@ -41,3 +41,5 @@
 
 + [苹果 iPhone 16 系列手机销量不佳，“果链”LG 显示屏部门面临严峻挑战](https://m.ithome.com/html/799845.htm)
 
++ [古尔曼称 iPhone SE 4 / 2025 款 iPad Air 明年初发布，均支持“苹果牌 AI”](https://m.ithome.com/html/799841.htm)
+

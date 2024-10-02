@@ -153,3 +153,5 @@
 
 + [Nvidia App更新简化驱动回滚 《黑神话》最佳设置支持](https://www.3dmgame.com/news/202410/3905431.html)
 
++ [iPhone 16 Pro Max物料成本曝光：256GB约3400元](https://www.3dmgame.com/news/202410/3905432.html)
+

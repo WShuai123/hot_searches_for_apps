@@ -153,3 +153,17 @@
 
 + [(Kafka源码五)Kafka服务端处理消息](https://blog.csdn.net/weixin_42828342/article/details/136952911)
 
++ [AI 对话工具汇总](https://blog.csdn.net/2301_77362941/article/details/142676392)
+
++ [【Python】探索自然语言处理的利器：THULAC 中文词法分析库详解](https://blog.csdn.net/jacksoon/article/details/142643777)
+
++ [QT开发：深入掌握 QtGui 和 QtWidgets 窗口管理：QMainWindow、QDialog 和 QWidget 的高级应用](https://blog.csdn.net/martian665/article/details/142497311)
+
++ [Python 基于 flask 的前程无忧招聘可视化系统，Python大数据招聘爬虫可视化分析](https://blog.csdn.net/JasonXu94/article/details/142671802)
+
++ [中国身份证号码校验](https://blog.csdn.net/gcliyilin/article/details/142664700)
+
++ [Vue转React中JSX小结](https://blog.csdn.net/CherishTaoTao/article/details/142653726)
+
++ [线性代数书中求解齐次线性方程组、非齐次线性方程组方法的特点和缺陷(附实例讲解)](https://blog.csdn.net/naozibuok/article/details/142671763)
+
