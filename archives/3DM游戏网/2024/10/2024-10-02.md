@@ -207,3 +207,9 @@
 
 + [Steam 9月硬件调查 RTX 4060显卡提升最多](https://www.3dmgame.com/news/202410/3905458.html)
 
++ [外媒精选15款值得一玩第一人称视角游戏 《泰坦陨落2》等](https://www.3dmgame.com/news/202410/3905461.html)
+
++ [《暗喻幻想》和《寂静岭2RE》日媒评分出炉 均获好评](https://www.3dmgame.com/news/202410/3905460.html)
+
++ [微软开始“灵魂”拷问：为啥你们为PS5开发游戏 略过Xbox？](https://www.3dmgame.com/news/202410/3905459.html)
+

@@ -57,3 +57,5 @@
 
 + [起配价 3052.5 万元，阿斯顿・马丁 Valiant 超跑国内上市](https://m.ithome.com/html/799890.htm)
 
++ [三星 990 EVO Plus M.2 固态硬盘开售：读速至高 7250MB/s、可选 1/2TB，499 元起](https://m.ithome.com/html/799886.htm)
+
