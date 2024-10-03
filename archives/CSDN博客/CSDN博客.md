@@ -179,3 +179,9 @@
 
 + [用HTML CSS JS打造企业级官网-源码直接可用](https://blog.csdn.net/qiao_yue/article/details/142686862)
 
++ [Mysql中的事务](https://blog.csdn.net/robin_suli/article/details/142679935)
+
++ [【Linux】进程管理：状态与优先级调度的深度分析](https://blog.csdn.net/island1314/article/details/142682055)
+
++ [node启动websocket保持后台一直运行](https://blog.csdn.net/wangchaohpu/article/details/142682270)
+

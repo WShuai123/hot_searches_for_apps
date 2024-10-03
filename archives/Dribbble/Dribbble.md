@@ -127,3 +127,19 @@
 
 + [Windora Renewable Energy Dashboard](https://dribbble.com/shots/)
 
++ [Monotree – features sections](https://dribbble.com/shots/)
+
++ [Logo Proposal for Software Development Company](https://dribbble.com/shots/)
+
++ ["Alta in Caerula" - Bidder's Edition](https://dribbble.com/shots/)
+
++ [Online Cinema App Landing page](https://dribbble.com/shots/)
+
++ [Drunk Cat Logo](https://dribbble.com/shots/)
+
++ [Ecommerce- Website Design](https://dribbble.com/shots/)
+
++ [Vectober 03 // Witchy](https://dribbble.com/shots/)
+
++ [Motion Animation](https://dribbble.com/shots/)
+
