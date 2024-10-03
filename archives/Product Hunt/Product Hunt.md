@@ -105,3 +105,37 @@
 
 + [dMunity](https://www.producthunt.com/posts/dmunity)
 
++ [Cold Email generator](https://www.producthunt.com/posts/cold-email-generator-2)
+
++ [NVLM 1.0](https://www.producthunt.com/posts/nvlm-1-0)
+
++ [FullEnrich 2.0](https://www.producthunt.com/posts/fullenrich-2-0)
+
++ [Cursor Usage Counter](https://www.producthunt.com/posts/cursor-usage-counter)
+
++ [Foreground](https://www.producthunt.com/posts/foreground)
+
++ [Pogo Travel](https://www.producthunt.com/posts/pogo-travel)
+
++ [Chestly](https://www.producthunt.com/posts/chestly)
+
++ [HoundDog.ai Static Code Scanner](https://www.producthunt.com/posts/hounddog-ai-static-code-scanner-2)
+
++ [Sent.dm](https://www.producthunt.com/posts/sent-dm-2)
+
++ [Jammin](https://www.producthunt.com/posts/jammin-2)
+
++ [Lookie AI](https://www.producthunt.com/posts/lookie-ai)
+
++ [Hello API](https://www.producthunt.com/posts/hello-api)
+
++ [Mermaid Whiteboard](https://www.producthunt.com/posts/mermaid-whiteboard)
+
++ [Murror](https://www.producthunt.com/posts/murror)
+
++ [CostGPT.ai](https://www.producthunt.com/posts/costgpt-ai)
+
++ [Editapp](https://www.producthunt.com/posts/editapp)
+
++ [buzzabout](https://www.producthunt.com/posts/buzzabout)
+

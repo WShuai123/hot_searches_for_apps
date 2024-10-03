@@ -149,3 +149,7 @@
 
 + [云计算SLA响应时间的matlab模拟与仿真](https://blog.csdn.net/soft_algorithm/article/details/142685452)
 
++ [SCoRe: 通过强化学习教导大语言模型进行自我纠错](https://blog.csdn.net/m0_46510245/article/details/142690402)
+
++ [【数据库差异研究】update与delete使用表别名的研究](https://blog.csdn.net/m0_57532432/article/details/142689851)
+

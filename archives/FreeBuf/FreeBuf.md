@@ -49,3 +49,7 @@
 
 + [Java Filter型 Tomcat内存马](https://www.freebuf.com/articles/web/411510.html)
 
++ [Chainsaw：一款基于Windows事件日志的信息安全取证工具](https://www.freebuf.com/sectool/412126.html)
+
++ [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
+

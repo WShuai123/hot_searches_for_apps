@@ -45,3 +45,7 @@
 
 + [小变动、大影响：苹果 iOS 18 细化联系人权限，遏制社交应用发展？](https://m.ithome.com/html/799974.htm)
 
++ [微软“砍刀部”上分：Win11 24H2 不再兼容 Windows Mixed Reality“混合现实门户”应用](https://m.ithome.com/html/799893.htm)
+
++ [库克出售 22.398 万股苹果股票，套现逾 5000 万美元](https://m.ithome.com/html/799950.htm)
+
