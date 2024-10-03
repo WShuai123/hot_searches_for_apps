@@ -143,3 +143,9 @@
 
 + [【Mybatis篇】Mybatis的关联映射详细代码带练 （一对一查询）](https://blog.csdn.net/m0_74202856/article/details/142674111)
 
++ [少帅下飞机视频转ASCII动画（python+opencv）](https://blog.csdn.net/qq_56959393/article/details/142666081)
+
++ [AI 驱动的数据库 TDSQL-C Serverless实现企业AI海报 + 数据平台建设](https://blog.csdn.net/wanmeijuhao/article/details/142689487)
+
++ [云计算SLA响应时间的matlab模拟与仿真](https://blog.csdn.net/soft_algorithm/article/details/142685452)
+

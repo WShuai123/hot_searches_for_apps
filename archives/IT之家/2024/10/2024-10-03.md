@@ -43,3 +43,5 @@
 
 + [规模之大刷新世界纪录，Cloudflare 成功抵御 3.8Tbps 的 DDoS 攻击](https://m.ithome.com/html/799942.htm)
 
++ [小变动、大影响：苹果 iOS 18 细化联系人权限，遏制社交应用发展？](https://m.ithome.com/html/799974.htm)
+
