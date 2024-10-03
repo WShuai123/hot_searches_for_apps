@@ -49,3 +49,9 @@
 
 + [库克出售 22.398 万股苹果股票，套现逾 5000 万美元](https://m.ithome.com/html/799950.htm)
 
++ [消息称问界针对 BBA 门店特别制定改建计划，可短期完成店铺转换工作](https://m.ithome.com/html/799969.htm)
+
++ [AMD 更新 24.9.1 驱动：集成 AFMF 2 技术，优化《冰汽时代 2》《战神：诸神黄昏》等游戏体验](https://m.ithome.com/html/799910.htm)
+
++ [微软不会强制要求员工每周 5 天在办公室工作，除非生产力指标下滑](https://m.ithome.com/html/799927.htm)
+

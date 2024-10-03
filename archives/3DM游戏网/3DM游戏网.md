@@ -161,3 +161,11 @@
 
 + [不仅删除模拟器 任天堂向模拟视频发出版权警告](https://www.3dmgame.com/news/202410/3905493.html)
 
++ [格斗游戏《Diesel Legacy》发售日 12月4日发售](https://www.3dmgame.com/news/202410/3905495.html)
+
++ [《名侦探皮卡丘：闪电归来》纪念日将公布重要消息](https://www.3dmgame.com/news/202410/3905496.html)
+
++ [设计总监：《星空》是B社制作的最难和最棒的项目](https://www.3dmgame.com/news/202410/3905497.html)
+
++ [SE《王国之心》滑板板面开售 官方建议不要用来滑](https://www.3dmgame.com/news/202410/3905494.html)
+
