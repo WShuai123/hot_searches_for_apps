@@ -101,3 +101,5 @@
 
 + [buzzabout](https://www.producthunt.com/posts/buzzabout)
 
++ [Novela](https://www.producthunt.com/posts/novela-2)
+
