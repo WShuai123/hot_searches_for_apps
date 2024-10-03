@@ -43,3 +43,5 @@
 
 + [报告解读｜FBI 发布 2023 年加密货币欺诈报告](https://www.freebuf.com/articles/blockchain-articles/411159.html)
 
++ [简单易懂！Java应用中的不安全反序列化](https://www.freebuf.com/vuls/411859.html)
+

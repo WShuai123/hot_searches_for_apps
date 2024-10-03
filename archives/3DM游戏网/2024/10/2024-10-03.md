@@ -103,3 +103,19 @@
 
 + [新款14英寸MacBook Pro包装曝光：M4芯片成焦点](https://www.3dmgame.com/news/202410/3905464.html)
 
++ [《逃生》开发商遭遇重大网络攻击 内部数据泄露](https://www.3dmgame.com/news/202410/3905472.html)
+
++ [点击式解谜冒险游戏《做梦机器：决定版》Steam页面上线 不支持中文](https://www.3dmgame.com/news/202410/3905471.html)
+
++ [《寂静岭2：重制版》首次通关需16小时 电玩通35分评价](https://www.3dmgame.com/news/202410/3905470.html)
+
++ [据称育碧正在开发《刺客信条：影》合作模式](https://www.3dmgame.com/news/202410/3905469.html)
+
++ [微软发表博客询问：为什么开发者不选择Xbox平台？](https://www.3dmgame.com/news/202410/3905468.html)
+
++ [微软推送Windows 11 2024更新：加入多项AI体验](https://www.3dmgame.com/news/202410/3905467.html)
+
++ [拉瑞安工作室的新作可能要等到2029年](https://www.3dmgame.com/news/202410/3905466.html)
+
++ [《怪物猎人：荒野》开发团队正努力优化游戏](https://www.3dmgame.com/news/202410/3905465.html)
+
