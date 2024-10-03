@@ -63,3 +63,5 @@
 
 + [劳斯莱斯推出闪灵 Lunaflair 定制版车型：车漆研发 1 年，只生产 1 台](https://m.ithome.com/html/800028.htm)
 
++ [vivo 韩伯啸：这代 SoC 将会拉开相当于过去两代的代差，大量数据已经奔着 40% 以上增长去了](https://m.ithome.com/html/800033.htm)
+

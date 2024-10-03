@@ -187,3 +187,7 @@
 
 + [樱井政博宣布结束UP主生涯 或将回归游戏制作领域](https://www.3dmgame.com/news/202410/3905501.html)
 
++ [《星空：破碎空间》Steam降至多半差评 玩家担忧《上古卷轴6》](https://www.3dmgame.com/news/202410/3905508.html)
+
++ [传苹果减少了300万iPhone 16系列订单](https://www.3dmgame.com/news/202410/3905507.html)
+
