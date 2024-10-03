@@ -101,3 +101,47 @@
 
 + [《寂静岭2：重制版》首次通关需16小时 电玩通35分评价](https://www.3dmgame.com/news/202410/3905470.html)
 
++ [《地平线：零之曙光重制版》上架Steam 国区售价345元](https://www.3dmgame.com/news/202410/3905517.html)
+
++ [《完美音浪2》开发约半年 更加注重开放元素](https://www.3dmgame.com/news/202410/3905516.html)
+
++ [传暴雪第三次开发《星际争霸》宇宙射击游戏](https://www.3dmgame.com/news/202409/3905167.html)
+
++ [RTX5090/5080规格完整曝光：英伟达强行拉大差距](https://www.3dmgame.com/news/202409/3905165.html)
+
++ [华为PC大爆发：中国市场超越惠普 紧追联想！](https://www.3dmgame.com/news/202409/3905166.html)
+
++ [9月国产游戏版号发布 《菲尔纳传说》、《剑侠情缘・零》过审](https://www.3dmgame.com/news/202409/3905163.html)
+
++ [合作铁路建设游戏《一起开火车2：汽笛重鸣》将于11月发售](https://www.3dmgame.com/news/202409/3905164.html)
+
++ [微博画师发文称《黑神话：悟空》抄袭 网友质疑其IP在日本](https://www.3dmgame.com/news/202409/3905162.html)
+
++ [Level Infinite 回归2024东京游戏展，多款跨端大作亮相](https://www.3dmgame.com/news/202409/3905161.html)
+
++ [沉浸式真人美女恋爱互动《这个是真的喜欢！》定档10月18日!](https://www.3dmgame.com/news/202409/3905160.html)
+
++ [LG结束LCD业务 华星光电以108亿元购入其广州8.5代产线](https://www.3dmgame.com/news/202409/3905170.html)
+
++ [传任天堂新主机Switch 2将于明年3月/4月发售](https://www.3dmgame.com/news/202409/3905169.html)
+
++ [《七龙珠 电光炸裂！ZERO》PC配置公布 意外地低](https://www.3dmgame.com/news/202409/3905168.html)
+
++ [《暗喻幻想：ReFantazio》优化问题官方回应：正在验证](https://www.3dmgame.com/news/202409/3905176.html)
+
++ [国产策略游戏《钢铁指挥官》正式发布1.0版本，推出全新赛季系统，限时七折热销中](https://www.3dmgame.com/news/202409/3905158.html)
+
++ [赛博黄金“黑暗之魂”系列5折促销 魂三134元](https://www.3dmgame.com/news/202409/3905177.html)
+
++ [10月发售游戏预览 《寂静岭2：重制版》等](https://www.3dmgame.com/news/202409/3905174.html)
+
++ [卡牌横板《魂宠猎人》11月7日发售 支持试玩](https://www.3dmgame.com/news/202409/3905175.html)
+
++ [《原神》5.1版本PV发布 10月9日上线](https://www.3dmgame.com/news/202409/3905173.html)
+
++ [光荣《维纳斯璀璨假期：死或生沙滩排球》正式公开](https://www.3dmgame.com/news/202409/3905172.html)
+
++ [横版平台游戏《LAPIN》12月5日移植Switch](https://www.3dmgame.com/news/202409/3905171.html)
+
++ [叙事驱动的心理恐怖游戏《缄默祸运》现已发售](https://www.3dmgame.com/news/202409/3905159.html)
+
