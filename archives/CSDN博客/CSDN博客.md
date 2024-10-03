@@ -185,3 +185,7 @@
 
 + [node启动websocket保持后台一直运行](https://blog.csdn.net/wangchaohpu/article/details/142682270)
 
++ [【Linux进程间通信】Linux匿名管道详解：构建进程间通信的隐形桥梁](https://blog.csdn.net/EterNity_TiMe_/article/details/142517158)
+
++ [【FPGA开发】Xilinx FPGA差分输入时钟的使用方法](https://blog.csdn.net/qq1016019583/article/details/142686165)
+
