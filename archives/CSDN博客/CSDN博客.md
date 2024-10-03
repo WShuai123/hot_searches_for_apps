@@ -149,3 +149,7 @@
 
 + [电影《749局》百度迅雷完整云下载[MP4/1.12GB/2.35GB]高清版画质[HD720P已更新]](https://blog.csdn.net/keiudjs/article/details/142670611)
 
++ [什么是大语言模型的大海捞针指标](https://blog.csdn.net/i042416/article/details/142686032)
+
++ [【微服务】注册中心 - Eureka（day3）](https://blog.csdn.net/weixin_73060900/article/details/142694308)
+

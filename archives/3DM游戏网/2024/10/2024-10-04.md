@@ -147,3 +147,49 @@
 
 + [《文明7》PC需求公布 最低配置要求不高](https://www.3dmgame.com/news/202410/3905518.html)
 
++ [《Matchbox 飞车大冒险》Steam页面上线 9月20日发售](https://www.3dmgame.com/news/202408/3901492.html)
+
++ [卡普空《怪物猎人：荒野》武器介绍：“狩猎笛”](https://www.3dmgame.com/news/202408/3901489.html)
+
++ [苹果拟推出迄今最小台式电脑：Mac mini首次改变设计](https://www.3dmgame.com/news/202408/3901491.html)
+
++ [《龙腾世纪：影障守护者》游戏总监解释本作无法操作同伴的原因](https://www.3dmgame.com/news/202408/3901485.html)
+
++ [最适合情侣的派对射击游戏？趣味游戏《枪豆人》现已开启免费试玩](https://www.3dmgame.com/news/202408/3901477.html)
+
++ [敖厂长锐评《黑神话》：优化要出大问题 失败并不遥远](https://www.3dmgame.com/news/202408/3901494.html)
+
++ [社区经理：《幻兽帕鲁》和《绝地潜兵2》并非昙花一现](https://www.3dmgame.com/news/202408/3901487.html)
+
++ [模拟经营游戏《坊间百闻》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3901483.html)
+
++ [《祇：女神之道》玩家数突破50万 官方发放魔像奖励](https://www.3dmgame.com/news/202408/3901484.html)
+
++ [《雨中冒险2》Gearbox新负责人：DLC延续了原作的精神](https://www.3dmgame.com/news/202408/3901481.html)
+
++ [《塞尔达传说：王国之泪》玩家超远距离无辅助精准命中古栗欧克三颗头](https://www.3dmgame.com/news/202408/3901482.html)
+
++ [《波斯王子：Rogue》发布“战士的崛起”更新 难度修改器上线](https://www.3dmgame.com/news/202408/3901480.html)
+
++ [《电锯甜心RePOP》Steam页面上线 2024年9月12日推出](https://www.3dmgame.com/news/202408/3901479.html)
+
++ [《雾锁王国》发售半年已超三百万玩家](https://www.3dmgame.com/news/202408/3901478.html)
+
++ [《暗喻幻想：ReFantazio》获得97%玩家好评！全球玩家试玩活动反馈及世界巡回详情公布](https://www.3dmgame.com/news/202408/3901490.html)
+
++ [《热血三国志 乱世风云》公布开场动画 11月7日发售](https://www.3dmgame.com/news/202408/3901486.html)
+
++ [《三国志8重制版》奇才系统介绍 武将独一无二的能力](https://www.3dmgame.com/news/202408/3901493.html)
+
++ [《索尼克×夏特 世代重启》BGM视频公开 全新登场角色及关卡](https://www.3dmgame.com/news/202408/3901488.html)
+
++ [多人合作恐怖游戏《前方高能》已全面支持中文本地化 中文匹配、史低折扣上线！](https://www.3dmgame.com/news/202408/3901476.html)
+
++ [腾讯与NEXON签订协议 宣布代理《THE FINALS》国服](https://www.3dmgame.com/news/202408/3901495.html)
+
++ [强强联手 业界老兵成立新工作室Day 4 Night](https://www.3dmgame.com/news/202410/3905521.html)
+
++ [传闻《直到黎明2》正在由Firesprite开发中](https://www.3dmgame.com/news/202410/3905520.html)
+
++ [《忍者神龟：斯普林特的命运》PC版11/6推出](https://www.3dmgame.com/news/202410/3905519.html)
+
