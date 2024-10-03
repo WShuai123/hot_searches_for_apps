@@ -39,3 +39,5 @@
 
 + [摩托罗拉 ThinkPhone 25 手机登场：芳纶纤维背壳、天玑 7300 芯片、5 年安卓系统 / 安全更新，售价 499 欧元](https://m.ithome.com/html/799873.htm)
 
++ [全球首次突破 6 分 30 秒，梅赛德斯-AMG ONE 再次刷新纽北量产车圈速纪录](https://m.ithome.com/html/799931.htm)
+

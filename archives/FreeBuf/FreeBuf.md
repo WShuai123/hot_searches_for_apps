@@ -45,3 +45,5 @@
 
 + [简单易懂！Java应用中的不安全反序列化](https://www.freebuf.com/vuls/411859.html)
 
++ [渗透实战 | 记一次bc常规打点dbshell](https://www.freebuf.com/articles/web/402429.html)
+
