@@ -41,3 +41,5 @@
 
 + [《工业和信息化领域数据安全合规指引》（征求意见稿）发布](https://www.freebuf.com/news/412147.html)
 
++ [报告解读｜FBI 发布 2023 年加密货币欺诈报告](https://www.freebuf.com/articles/blockchain-articles/411159.html)
+
