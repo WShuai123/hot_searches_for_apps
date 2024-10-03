@@ -119,3 +119,15 @@
 
 + [《怪物猎人：荒野》开发团队正努力优化游戏](https://www.3dmgame.com/news/202410/3905465.html)
 
++ [Epic计划：明年降低虚幻引擎抽成](https://www.3dmgame.com/news/202410/3905478.html)
+
++ [《星际公民》开发商要求员工年度展会前连续无休赶进度](https://www.3dmgame.com/news/202410/3905477.html)
+
++ [《七龙珠 电光炸裂！ZERO》在畅销榜上一路飙升](https://www.3dmgame.com/news/202410/3905476.html)
+
++ [《赛博朋克2077》续作总监：重获信任是非常困难的](https://www.3dmgame.com/news/202410/3905475.html)
+
++ [Roguelike牌组构建游戏《Deck of Haunts》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3905474.html)
+
++ [《战神5：诸神黄昏》PC 4号补丁上线 修复N卡内存泄漏问题](https://www.3dmgame.com/news/202410/3905473.html)
+
