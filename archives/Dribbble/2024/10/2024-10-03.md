@@ -107,3 +107,23 @@
 
 + [OMO website interaction](https://dribbble.com/shots/)
 
++ [Surprised Lion Face Logo](https://dribbble.com/shots/)
+
++ [Logo with a hedgehog and an acorn](https://dribbble.com/shots/)
+
++ [Deuces](https://dribbble.com/shots/)
+
++ [Line Art Cat And Dog Logo](https://dribbble.com/shots/)
+
++ [Holy Dragonfly of the Mayan Empire](https://dribbble.com/shots/)
+
++ [SCULPTnation Website design concept](https://dribbble.com/shots/)
+
++ [Task Flow - Mobile App Concept](https://dribbble.com/shots/)
+
++ [Fruge's Paint Correction - Monogram Badge](https://dribbble.com/shots/)
+
++ [Payroll Management UI Concept](https://dribbble.com/shots/)
+
++ [Windora Renewable Energy Dashboard](https://dribbble.com/shots/)
+

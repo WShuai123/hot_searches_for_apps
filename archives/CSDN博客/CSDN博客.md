@@ -163,3 +163,11 @@
 
 + [快速掌握-vue3](https://blog.csdn.net/qq_24428851/article/details/142683795)
 
++ [SQL:函数以及约束](https://blog.csdn.net/2301_80418172/article/details/142682153)
+
++ [YOLOv11改进 | Neck篇 | YOLOv11引入BiFPN双向特征金字塔网络](https://blog.csdn.net/tsg6698/article/details/142663698)
+
++ [YOLO-v11自定义数据集训练](https://blog.csdn.net/u012077914/article/details/142658656)
+
++ [智能网联汽车飞速发展，安全危机竟如影随形，如何破局？](https://blog.csdn.net/weixin_55163056/article/details/142661514)
+
