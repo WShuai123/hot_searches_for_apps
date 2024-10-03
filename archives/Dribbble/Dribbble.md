@@ -143,3 +143,15 @@
 
 + [Motion Animation](https://dribbble.com/shots/)
 
++ [R Star (Fast food chain)](https://dribbble.com/shots/)
+
++ [Carousel Visual Identity](https://dribbble.com/shots/)
+
++ [Freelance Icons](https://dribbble.com/shots/)
+
++ [Cosmic Radio Logo, Visual Identity & Ad](https://dribbble.com/shots/)
+
++ [Death By Tacos](https://dribbble.com/shots/)
+
++ [News - Union UI](https://dribbble.com/shots/)
+

@@ -65,3 +65,7 @@
 
 + [vivo 韩伯啸：这代 SoC 将会拉开相当于过去两代的代差，大量数据已经奔着 40% 以上增长去了](https://m.ithome.com/html/800033.htm)
 
++ [微软计划今年完成 Edge 浏览器 WebUI 2 改造，UI 速度最高提升 76%](https://m.ithome.com/html/800004.htm)
+
++ [比亚迪海豹 06 GT 汽车 10 月 18 日上市，盲订价 15 万~20 万元](https://m.ithome.com/html/800030.htm)
+

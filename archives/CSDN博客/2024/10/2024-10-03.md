@@ -189,3 +189,7 @@
 
 + [【FPGA开发】Xilinx FPGA差分输入时钟的使用方法](https://blog.csdn.net/qq1016019583/article/details/142686165)
 
++ [基于四种网络结构的WISDM数据集仿真及对比：Resnet、LSTM、Shufflenet及CNN](https://blog.csdn.net/weixin_51390582/article/details/142694439)
+
++ [计算机网络：计算机网络体系结构 —— 专用术语总结](https://blog.csdn.net/Zachyy/article/details/142681125)
+
