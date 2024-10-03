@@ -169,3 +169,9 @@
 
 + [SE《王国之心》滑板板面开售 官方建议不要用来滑](https://www.3dmgame.com/news/202410/3905494.html)
 
++ [《星际战士2》劝玩家口下留情：你可不想骂大超](https://www.3dmgame.com/news/202410/3905499.html)
+
++ [又是PSVR2没有独占游戏的一年 玩家已经开始不满](https://www.3dmgame.com/news/202410/3905500.html)
+
++ [《超级马里奥兄弟大电影2》将会出现冷门新角色](https://www.3dmgame.com/news/202410/3905498.html)
+

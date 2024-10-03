@@ -53,3 +53,5 @@
 
 + [SRC必会技巧——CORS跨域漏洞](https://www.freebuf.com/vuls/403124.html)
 
++ [实战经验分享：Web应用逻辑漏洞挖掘技巧与案例分析](https://www.freebuf.com/articles/web/400377.html)
+
