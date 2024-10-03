@@ -215,3 +215,5 @@
 
 + [360借条-手机分期贷款现金借款信用借钱平台](https://itunes.apple.com/cn/app/id1623571691?mt=8)
 
++ [安逸花-分期贷款信用借款快速借钱平台](https://itunes.apple.com/cn/app/id1098542282?mt=8)
+
