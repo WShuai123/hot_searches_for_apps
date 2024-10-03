@@ -139,3 +139,9 @@
 
 + [第25天：web攻防-通用漏洞&sql读写注入&MYSQL&MSSQL](https://blog.csdn.net/m0_74741186/article/details/142673900)
 
++ [[C++][第三方库][etcd]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142680213)
+
++ [卷积神经网络（Convolutional Neural Networks, CNN）](https://blog.csdn.net/qq_34376868/article/details/142683295)
+
++ [6.2 微服务 负载均衡 架构模式 分类和应用实践](https://blog.csdn.net/xiamaocheng/article/details/142669343)
+
