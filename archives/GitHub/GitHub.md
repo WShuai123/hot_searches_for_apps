@@ -37,3 +37,27 @@
 
 + [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
++ [XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+
++ [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+
++ [simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
++ [mandiant / capa](https://github.com/mandiant/capa)
+
++ [shardeum / shardeum](https://github.com/shardeum/shardeum)
+
++ [dolphin-emu / dolphin](https://github.com/dolphin-emu/dolphin)
+
++ [xenova / whisper-web](https://github.com/xenova/whisper-web)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [grafana / k6](https://github.com/grafana/k6)
+
++ [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
++ [armbian / build](https://github.com/armbian/build)
+

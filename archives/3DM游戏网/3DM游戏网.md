@@ -175,3 +175,15 @@
 
 + [《超级马里奥兄弟大电影2》将会出现冷门新角色](https://www.3dmgame.com/news/202410/3905498.html)
 
++ [可灵AI新增“对口型”功能 生成人物口型与上传音频同步](https://www.3dmgame.com/news/202410/3905506.html)
+
++ [《星空》“破碎空间”DLC未扭转局面 当前评价褒贬不一](https://www.3dmgame.com/news/202410/3905505.html)
+
++ [半年时间 游改剧集《辐射》吸引一亿观众](https://www.3dmgame.com/news/202410/3905504.html)
+
++ [传《刺客信条：影》预订量不到《英灵殿》的7%](https://www.3dmgame.com/news/202410/3905503.html)
+
++ [《洛基恐怖秀》将改编为横板平台跳跃游戏 本月发售](https://www.3dmgame.com/news/202410/3905502.html)
+
++ [樱井政博宣布结束UP主生涯 或将回归游戏制作领域](https://www.3dmgame.com/news/202410/3905501.html)
+

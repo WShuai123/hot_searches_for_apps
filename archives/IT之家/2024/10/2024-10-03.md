@@ -57,3 +57,7 @@
 
 + [荣耀专利探索折叠手机新形态，十字铰链解锁无限可能](https://m.ithome.com/html/799956.htm)
 
++ [《双狼》电影掀起全球狂潮，刷新苹果 Apple TV+ 平台观看量纪录](https://m.ithome.com/html/799975.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 部分产品与智慧屏联动相关特性正在适配开发](https://m.ithome.com/html/800013.htm)
+
