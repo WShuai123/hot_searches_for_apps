@@ -135,3 +135,7 @@
 
 + [YOLO11改进|卷积篇|引入可变核卷积AKConv](https://blog.csdn.net/A1983Z/article/details/142682147)
 
++ [【分布式微服务云原生】如何在ActiveMQ中优雅处理提前支付的延时订单](https://blog.csdn.net/u010425839/article/details/142684825)
+
++ [第25天：web攻防-通用漏洞&sql读写注入&MYSQL&MSSQL](https://blog.csdn.net/m0_74741186/article/details/142673900)
+
