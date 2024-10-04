@@ -35,3 +35,5 @@
 
 + [苹果 iOS 18.0.1 更新发布：修复 iPhone 16 / Pro 系列机型触控无响应、分享表盘导致信息意外退出等 BUG](https://m.ithome.com/html/800063.htm)
 
++ [ColorOS 历代版本主题上架 OPPO 主题商店，10 月 17 日发布 ColorOS 15](https://m.ithome.com/html/800044.htm)
+

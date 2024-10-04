@@ -207,3 +207,5 @@
 
 + [Konami计划将《合金装备》系列保存到未来50年](https://www.3dmgame.com/news/202410/3905526.html)
 
++ [《塞尔达传说：智慧的再现》制作名单里没有宫本茂](https://www.3dmgame.com/news/202410/3905529.html)
+
