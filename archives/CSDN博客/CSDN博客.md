@@ -123,3 +123,15 @@
 
 + [2024龙信杯（手机+计算机）](https://blog.csdn.net/2301_79200709/article/details/142677857)
 
++ [【Linux】进程地址空间、环境变量：从理论到实践（三）](https://blog.csdn.net/weixin_50776420/article/details/142678836)
+
++ [【DPFSP问题】基于黑猩猩优化算法Chimp求解分布式置换流水车间调度DPFSP附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/142677900)
+
++ [【常读常悟】《大数据之路-阿里巴巴大数据实践》一书读书摘要](https://blog.csdn.net/qq_40657528/article/details/142681381)
+
++ [影刀RPA实战：excel数据筛选相关指令](https://blog.csdn.net/ddf128/article/details/142699610)
+
++ [量子计算：颠覆未来计算的革命性技术](https://blog.csdn.net/2301_78944833/article/details/142707817)
+
++ [[论文笔记]SGPT: GPT Sentence Embeddings for Semantic Search](https://blog.csdn.net/yjw123456/article/details/142696621)
+
