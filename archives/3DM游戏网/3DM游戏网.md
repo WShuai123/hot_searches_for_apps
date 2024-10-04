@@ -227,3 +227,9 @@
 
 + [《七龙珠 电光炸裂！ZERO》新预告 多位角色登场](https://www.3dmgame.com/news/202410/3905536.html)
 
++ [《第一狂战士：卡赞》游戏预告片展示凶残BOSS](https://www.3dmgame.com/news/202410/3905541.html)
+
++ [《寂静岭2：重制版》获IGN 8分评价：绝佳重温方式](https://www.3dmgame.com/news/202410/3905540.html)
+
++ [PvPvE射击新作《奇异贤伴：爱达之歌》任务实机演示](https://www.3dmgame.com/news/202410/3905539.html)
+

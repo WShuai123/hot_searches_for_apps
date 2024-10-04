@@ -109,3 +109,17 @@
 
 + [Diablo](https://dribbble.com/shots/)
 
++ [Qure website](https://dribbble.com/shots/)
+
++ [Phren](https://dribbble.com/shots/)
+
++ [Pirate Logo](https://dribbble.com/shots/)
+
++ [R and chat](https://dribbble.com/shots/)
+
++ [Golden Flea 2024](https://dribbble.com/shots/)
+
++ [Generator UI](https://dribbble.com/shots/)
+
++ [Chief Guard Security - Logo Design](https://dribbble.com/shots/)
+

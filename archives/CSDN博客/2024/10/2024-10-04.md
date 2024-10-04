@@ -195,3 +195,13 @@
 
 + [系统架构设计师④：计算机网络](https://blog.csdn.net/weixin_45783574/article/details/142692654)
 
++ [Vertex AI 与 Elasticsearch 开放推理 API 集成，为你的 RAG 应用程序带来重新排名](https://blog.csdn.net/UbuntuTouch/article/details/142699830)
+
++ [Redis: Sentinel工作原理和故障迁移流程](https://blog.csdn.net/Tyro_java/article/details/142675734)
+
++ [多区域OSPF路由协议](https://blog.csdn.net/ZZZCY2003/article/details/142672973)
+
++ [chatgpt学术科研prompt模板有哪些？chatgpt的学术prompt有哪些？学术gpt，学术科研](https://blog.csdn.net/wgggfiy/article/details/142693352)
+
++ [YOLO11改进|注意力机制篇|引入MLCA轻量级注意力机制](https://blog.csdn.net/A1983Z/article/details/142673128)
+
