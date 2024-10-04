@@ -233,3 +233,7 @@
 
 + [PvPvE射击新作《奇异贤伴：爱达之歌》任务实机演示](https://www.3dmgame.com/news/202410/3905539.html)
 
++ [OpenAI完成66亿美元融资 估值达1570亿美元](https://www.3dmgame.com/news/202410/3905542.html)
+
++ [暴雪确认《暗黑破坏神4》和资料片“憎恨之躯”将是PS5 Pro强化](https://www.3dmgame.com/news/202410/3905543.html)
+

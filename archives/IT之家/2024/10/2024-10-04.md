@@ -55,3 +55,5 @@
 
 + [AAA 级大作，《降世神通：最后的气宗》游戏已官宣](https://m.ithome.com/html/800096.htm)
 
++ [OPPO Find X8 Pro 卫星通信版手机公布，首销同步上市](https://m.ithome.com/html/800133.htm)
+
