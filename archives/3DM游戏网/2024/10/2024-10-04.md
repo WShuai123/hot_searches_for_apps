@@ -211,3 +211,5 @@
 
 + [略显平庸 《星空》DLC“破碎空间”获IGN 7分评价](https://www.3dmgame.com/news/202410/3905530.html)
 
++ [快递拯救世界 《Parcel Corps》上市宣传片欣赏](https://www.3dmgame.com/news/202410/3905531.html)
+
