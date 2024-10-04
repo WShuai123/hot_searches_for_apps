@@ -103,3 +103,11 @@
 
 + [两名男子以假换新6000多部iPhone：被判刑近5年](https://www.3dmgame.com/news/202410/3905552.html)
 
++ [《龙腾世纪：影障守护者》完成开发 进入压盘阶段](https://www.3dmgame.com/news/202410/3905553.html)
+
++ [《博德之门3》一个月内Mod下载量达到2200万次](https://www.3dmgame.com/news/202410/3905554.html)
+
++ [《寂静岭2：重制版》上市预告片分享 10/8推出](https://www.3dmgame.com/news/202410/3905555.html)
+
++ [节奏游戏《纵横律动 浑然新声》10/11推出EA版](https://www.3dmgame.com/news/202410/3905556.html)
+

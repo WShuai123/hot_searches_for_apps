@@ -203,3 +203,9 @@
 
 + [华为手机克隆](https://itunes.apple.com/cn/app/id920728033?mt=8)
 
++ [热力计算](https://itunes.apple.com/cn/app/id6695753070?mt=8)
+
++ [抖音精选-抖音旗下优质视频平台](https://itunes.apple.com/cn/app/id6444170965?mt=8)
+
++ [iCity · 我的日记](https://itunes.apple.com/cn/app/id1067532514?mt=8)
+
