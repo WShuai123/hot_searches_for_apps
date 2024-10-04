@@ -135,3 +135,7 @@
 
 + [[论文笔记]SGPT: GPT Sentence Embeddings for Semantic Search](https://blog.csdn.net/yjw123456/article/details/142696621)
 
++ [GPT 的工作原理：深入解析](https://blog.csdn.net/LearnerDL/article/details/142695689)
+
++ [MobX-Miniprogram：微信小程序的状态管理利器](https://blog.csdn.net/everfoot/article/details/142687405)
+
