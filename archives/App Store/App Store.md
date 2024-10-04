@@ -219,3 +219,5 @@
 
 + [航旅纵横-官方机票、值机火车票接送机免税酒店](https://itunes.apple.com/cn/app/id480161784?mt=8)
 
++ [快对-拍照翻译&作业标准答案&错题本去手写](https://itunes.apple.com/cn/app/id1330927814?mt=8)
+

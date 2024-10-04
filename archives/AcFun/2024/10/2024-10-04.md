@@ -101,3 +101,5 @@
 
 + [劫VS素女皇](http://www.acfun.cn/v/ac46340841)
 
++ [我在TGS实机试玩《真·三国无双·起源》](http://www.acfun.cn/v/ac46340953)
+

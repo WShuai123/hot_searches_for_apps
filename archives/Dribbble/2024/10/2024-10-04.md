@@ -79,3 +79,15 @@
 
 + [Tiimi - Candidate Overview for Job Hiring in SaaS HR Management](https://dribbble.com/shots/)
 
++ [Ride Sharing Mobile App - Full Screens](https://dribbble.com/shots/)
+
++ [Propath, bioinformatics / biomedical research logo design](https://dribbble.com/shots/)
+
++ [Omnichain Stablecoin](https://dribbble.com/shots/)
+
++ [Pricelink Logo Design - Hexagon, Price Tag, Venn Diagram](https://dribbble.com/shots/)
+
++ [Pipedrive CRM Leads Dashboard](https://dribbble.com/shots/)
+
++ [Steel Play](https://dribbble.com/shots/)
+
