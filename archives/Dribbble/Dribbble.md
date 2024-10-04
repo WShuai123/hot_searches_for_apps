@@ -91,3 +91,21 @@
 
 + [Steel Play](https://dribbble.com/shots/)
 
++ [brivio](https://dribbble.com/shots/)
+
++ [Ford Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [EnduroSat — Homepage](https://dribbble.com/shots/)
+
++ [Cluster leaf design by Milkinside](https://dribbble.com/shots/)
+
++ [Taxi Booking App](https://dribbble.com/shots/)
+
++ [Chamuko Toy](https://dribbble.com/shots/)
+
++ [Reaper's Holiday Vibes](https://dribbble.com/shots/)
+
++ [So'Un Noodle - Noodle Restaurant Social Media Exploration](https://dribbble.com/shots/)
+
++ [Diablo](https://dribbble.com/shots/)
+

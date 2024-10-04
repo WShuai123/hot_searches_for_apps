@@ -221,3 +221,9 @@
 
 + [最强游戏引擎仍将继续进化 Epic已开始布局虚幻6](https://www.3dmgame.com/news/202410/3905532.html)
 
++ [《美德传奇fRemastered》公布10分钟实机演示视频](https://www.3dmgame.com/news/202410/3905538.html)
+
++ [《魔兽世界》弄丢玩家大量物品 补偿措施再引不满](https://www.3dmgame.com/news/202410/3905537.html)
+
++ [《七龙珠 电光炸裂！ZERO》新预告 多位角色登场](https://www.3dmgame.com/news/202410/3905536.html)
+
