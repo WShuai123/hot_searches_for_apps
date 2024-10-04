@@ -43,3 +43,5 @@
 
 + [实战网络攻防中的高版本JDK反射类加载浅析](https://www.freebuf.com/articles/web/412030.html)
 
++ [渗透测试 | 如何用三条命令查杀冰蝎和哥斯拉内存马](https://www.freebuf.com/articles/web/411468.html)
+

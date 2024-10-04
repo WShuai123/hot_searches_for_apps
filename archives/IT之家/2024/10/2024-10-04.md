@@ -33,3 +33,5 @@
 
 + [就在今天：《英雄联盟》LPL 战队时隔 1087 天再次在世界赛上战胜 T1](https://m.ithome.com/html/800050.htm)
 
++ [苹果 iOS 18.0.1 更新发布：修复 iPhone 16 / Pro 系列机型触控无响应、分享表盘导致信息意外退出等 BUG](https://m.ithome.com/html/800063.htm)
+

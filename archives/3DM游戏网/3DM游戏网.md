@@ -201,3 +201,9 @@
 
 + [Saber开发《降世神通：最后的气宗》3A动作RPG](https://www.3dmgame.com/news/202410/3905522.html)
 
++ [《寂静岭2：重制版》角色概念图曝光 国外网友：没用这些可惜了](https://www.3dmgame.com/news/202410/3905527.html)
+
++ [《直到黎明》重制版片尾彩蛋暗示续作剧情可能性](https://www.3dmgame.com/news/202410/3905528.html)
+
++ [Konami计划将《合金装备》系列保存到未来50年](https://www.3dmgame.com/news/202410/3905526.html)
+
