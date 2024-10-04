@@ -103,3 +103,23 @@
 
 + [Novela](https://www.producthunt.com/posts/novela-2)
 
++ [Oura Ring 4](https://www.producthunt.com/posts/oura-ring-4-2)
+
++ [ChatGPT canvas](https://www.producthunt.com/posts/chatgpt-canvas)
+
++ [Stager AI](https://www.producthunt.com/posts/stager-ai)
+
++ [alt.](https://www.producthunt.com/posts/alt-4)
+
++ [TrailMate](https://www.producthunt.com/posts/trailmate)
+
++ [Hability](https://www.producthunt.com/posts/hability)
+
++ [JoggAI](https://www.producthunt.com/posts/joggai-2)
+
++ [Redcar](https://www.producthunt.com/posts/redcar)
+
++ [Graphy AI](https://www.producthunt.com/posts/graphy-ai)
+
++ [Queva Health + Behavior V1](https://www.producthunt.com/posts/queva-health-behavior-v1)
+

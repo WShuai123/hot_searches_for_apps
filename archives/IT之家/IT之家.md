@@ -37,3 +37,5 @@
 
 + [ColorOS 历代版本主题上架 OPPO 主题商店，10 月 17 日发布 ColorOS 15](https://m.ithome.com/html/800044.htm)
 
++ [英特尔承认暂未开发出工具帮用户检测 13/14 代 CPU 是否受损](https://m.ithome.com/html/800038.htm)
+
