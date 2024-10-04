@@ -27,3 +27,9 @@
 
 + [蔚来乐道回应首款车型 L60 交付产能问题，称“不会像其他友商一样做那么多库存”](https://m.ithome.com/html/799995.htm)
 
++ [中国 00 后大佬周乐鑫论文登上 Nature，发现大模型对人类可靠性降低](https://m.ithome.com/html/800055.htm)
+
++ [iPhone SE 4 曝料：首款自研 5G 基带、A18 芯片、8GB 内存、4800 万主摄，支持苹果牌 AI](https://m.ithome.com/html/800070.htm)
+
++ [就在今天：《英雄联盟》LPL 战队时隔 1087 天再次在世界赛上战胜 T1](https://m.ithome.com/html/800050.htm)
+

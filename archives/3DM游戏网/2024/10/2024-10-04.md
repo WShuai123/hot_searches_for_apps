@@ -193,3 +193,11 @@
 
 + [《忍者神龟：斯普林特的命运》PC版11/6推出](https://www.3dmgame.com/news/202410/3905519.html)
 
++ [《寂静岭2》对比视频 新版玛利亚被批脸部缺乏情感](https://www.3dmgame.com/news/202410/3905525.html)
+
++ [《战神：诸神黄昏》闭嘴MOD让阿特柔斯把嘴闭上](https://www.3dmgame.com/news/202410/3905524.html)
+
++ [阵容刷新 苹果今年将发布搭载M4芯片的新款Mac机型](https://www.3dmgame.com/news/202410/3905523.html)
+
++ [Saber开发《降世神通：最后的气宗》3A动作RPG](https://www.3dmgame.com/news/202410/3905522.html)
+
