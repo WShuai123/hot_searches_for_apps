@@ -45,3 +45,5 @@
 
 + [渗透测试 | 如何用三条命令查杀冰蝎和哥斯拉内存马](https://www.freebuf.com/articles/web/411468.html)
 
++ [从0到1实施指南 | 工控系统网络安全怎么做？](https://www.freebuf.com/articles/ics-articles/394748.html)
+
