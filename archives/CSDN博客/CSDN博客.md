@@ -107,3 +107,19 @@
 
 + [YOLOv8改进 - 注意力篇 - 引入SEAttention注意力机制](https://blog.csdn.net/2301_79619145/article/details/142695966)
 
++ [【Python】探索自然语言处理的利器：THULAC 中文词法分析库详解](https://blog.csdn.net/jacksoon/article/details/142643777)
+
++ [C++网络编程之TCP协议](https://blog.csdn.net/hope_wisdom/article/details/142699454)
+
++ [【C++打怪之路Lv6】-- 内存管理](https://blog.csdn.net/Sweeney_001/article/details/142706899)
+
++ [使用模拟和真实的 Elasticsearch 来测试你的 Java 代码](https://blog.csdn.net/UbuntuTouch/article/details/142708288)
+
++ [Kafka的基本概念整理](https://blog.csdn.net/yangchao1125/article/details/142683547)
+
++ [【黑马软件测试三】web功能测试、抓包](https://blog.csdn.net/weixin_45962681/article/details/142591590)
+
++ [OSPF协议](https://blog.csdn.net/menge2333/article/details/141602038)
+
++ [2024龙信杯（手机+计算机）](https://blog.csdn.net/2301_79200709/article/details/142677857)
+
