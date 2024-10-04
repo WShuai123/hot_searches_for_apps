@@ -25,3 +25,7 @@
 
 + [英伟达 RTX 5090 笔记本显卡曝光：24GB GDDR7 显存、256-bit 位宽，明年 Q1 / Q2 发售](https://m.ithome.com/html/800125.htm)
 
++ [消息称天玑 9400 的 X925 超大核定频 3.626GHz，OPPO、vivo、小米均采购](https://m.ithome.com/html/800164.htm)
+
++ [五菱新车曝光：K-CAR 风格，侧滑门设计](https://m.ithome.com/html/800153.htm)
+
