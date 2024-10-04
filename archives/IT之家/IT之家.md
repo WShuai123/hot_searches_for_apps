@@ -29,3 +29,5 @@
 
 + [五菱新车曝光：K-CAR 风格，侧滑门设计](https://m.ithome.com/html/800153.htm)
 
++ [多口 150W 输出：酷态科 10 号超级电能棒充电宝 159 元京东发车](https://m.ithome.com/html/800158.htm)
+
