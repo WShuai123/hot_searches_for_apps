@@ -129,3 +129,13 @@
 
 + [Dashboard Design for Investing Platform](https://dribbble.com/shots/)
 
++ [Fast Car](https://dribbble.com/shots/)
+
++ [Pet Care Professional Avatar](https://dribbble.com/shots/)
+
++ [Planner](https://dribbble.com/shots/)
+
++ [Data Visualization with Luminate 💡](https://dribbble.com/shots/)
+
++ [Website for an Energy Brand ✦ Hyper](https://dribbble.com/shots/)
+

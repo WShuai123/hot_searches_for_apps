@@ -49,3 +49,9 @@
 
 + [3499 元，小米米家自然风 Pro 空调上出风 1.5 匹开启众筹](https://m.ithome.com/html/800082.htm)
 
++ [小米 Redmi：Note 14 Pro+ 手机刷新今年安卓全价位段首销周记录，Pro 系列首销福利延长一周](https://m.ithome.com/html/800139.htm)
+
++ [遛狗时告别缠绕，全球首款虚拟狗绳亮相](https://m.ithome.com/html/800124.htm)
+
++ [AAA 级大作，《降世神通：最后的气宗》游戏已官宣](https://m.ithome.com/html/800096.htm)
+
