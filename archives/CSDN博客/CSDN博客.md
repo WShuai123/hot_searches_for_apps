@@ -219,3 +219,15 @@
 
 + [使用CSS实现酷炫加载](https://blog.csdn.net/qq_33003143/article/details/142692749)
 
++ [【艾思科蓝】机器学习框架终极指南：PyTorch vs TensorFlow vs Keras vs Scikit-learn](https://blog.csdn.net/weixin_73295475/article/details/142704064)
+
++ [22.3 解读k8s服务发现源码](https://blog.csdn.net/weixin_48502062/article/details/142707118)
+
++ [kafka基本概念以及用法](https://blog.csdn.net/weixin_42924400/article/details/142692451)
+
++ [【计算机网络】详解UDP协议格式&特点&缓冲区](https://blog.csdn.net/m0_74265792/article/details/142648152)
+
++ [微服务——分布式事务](https://blog.csdn.net/m0_74197695/article/details/142639674)
+
++ [react-问卷星项目（4）](https://blog.csdn.net/BHDDGT/article/details/142668847)
+

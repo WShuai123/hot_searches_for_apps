@@ -131,3 +131,11 @@
 
 + [豆包来的前一晚！~~~小猫咪！](http://www.acfun.cn/v/ac46338896)
 
++ [【国庆】有Acer会这招吗？欢乐八点档-1062](http://www.acfun.cn/v/ac46342119)
+
++ [一锅啫啫煲，深夜不烦恼](http://www.acfun.cn/v/ac46320548)
+
++ [【林小C】帅气国风《如梦令》](http://www.acfun.cn/v/ac46341955)
+
++ [Aya](http://www.acfun.cn/v/ac46338753)
+

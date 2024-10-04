@@ -57,3 +57,7 @@
 
 + [OPPO Find X8 Pro 卫星通信版手机公布，首销同步上市](https://m.ithome.com/html/800133.htm)
 
++ [三星 Galaxy S10 / Note10 等系列手机陷入变砖噩梦，恢复出厂是当前唯一解决方案](https://m.ithome.com/html/800093.htm)
+
++ [紧追马斯克，Facebook 创始人扎克伯格超越贝索斯成世界第二大富豪](https://m.ithome.com/html/800120.htm)
+

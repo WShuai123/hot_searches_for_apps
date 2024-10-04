@@ -237,3 +237,13 @@
 
 + [暴雪确认《暗黑破坏神4》和资料片“憎恨之躯”将是PS5 Pro强化](https://www.3dmgame.com/news/202410/3905543.html)
 
++ [彭博社：腾讯和育碧创始人Guillemot家族考虑收购育碧](https://www.3dmgame.com/news/202410/3905548.html)
+
++ [《变形金刚：起源》上映8天 国内票房终破亿](https://www.3dmgame.com/news/202410/3905547.html)
+
++ [《暗黑破坏神4》第六赛季“憎恨崛起”官网改动日志](https://www.3dmgame.com/news/202410/3905546.html)
+
++ [FromSoftware宣布涨薪 明年4月全体员工基础工资上涨近12%](https://www.3dmgame.com/news/202410/3905545.html)
+
++ [传英伟达将在11月停供RTX 4080 Super系列](https://www.3dmgame.com/news/202410/3905544.html)
+
