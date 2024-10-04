@@ -169,3 +169,7 @@
 
 + [使用html写一个能发起请求的登录界面](https://blog.csdn.net/2301_79431343/article/details/142695331)
 
++ [从Fast-UMI到Diff-Control：分别改进UMI的硬件及其所用的Diffusion policy(含ControlNet简介)](https://blog.csdn.net/v_JULY_v/article/details/142644972)
+
++ [linux信号 | 学习信号四步走 | 一篇文章教你理解信号如何保存](https://blog.csdn.net/strive_mianyang/article/details/142624147)
+

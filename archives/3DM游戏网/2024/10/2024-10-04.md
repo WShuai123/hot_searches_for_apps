@@ -209,3 +209,5 @@
 
 + [《塞尔达传说：智慧的再现》制作名单里没有宫本茂](https://www.3dmgame.com/news/202410/3905529.html)
 
++ [略显平庸 《星空》DLC“破碎空间”获IGN 7分评价](https://www.3dmgame.com/news/202410/3905530.html)
+
