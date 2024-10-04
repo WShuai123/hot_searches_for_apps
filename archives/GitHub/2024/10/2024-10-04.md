@@ -37,3 +37,21 @@
 
 + [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
++ [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+
++ [PabloMK7 / citra](https://github.com/PabloMK7/citra)
+
++ [fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024)
+
++ [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)
+
++ [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+
++ [continuedev / continue](https://github.com/continuedev/continue)
+
++ [meshery / meshery](https://github.com/meshery/meshery)
+
++ [home-assistant / core](https://github.com/home-assistant/core)
+
++ [getsentry / sentry](https://github.com/getsentry/sentry)
+
