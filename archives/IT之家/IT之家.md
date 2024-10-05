@@ -45,3 +45,7 @@
 
 + [小米 15 Pro 手机有望 10 月登场：6.78 英寸屏幕 + 6000mAh 电池 + 5 年安卓更新，钛金属版支持卫星通信](https://m.ithome.com/html/800214.htm)
 
++ [微软天价 Surface Studio 2 终章：6 年创意之旅走到尽头、本周终止支持](https://m.ithome.com/html/800206.htm)
+
++ [消息称腾讯和 Guillemot 家族正考虑收购育碧](https://m.ithome.com/html/800172.htm)
+
