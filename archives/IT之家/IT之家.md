@@ -61,3 +61,7 @@
 
 + [Elecom 宣布 12 月发布 USB4 2.0 Type-C 线：80Gbps 数据传输，最高 240W 充电](https://m.ithome.com/html/800168.htm)
 
++ [消息称华为 HarmonyOS 将推 4.4 版本，问界汽车超级桌面 2.0 功能已支持鸿蒙 4.3.X 及以上系统手机](https://m.ithome.com/html/800246.htm)
+
++ [苹果 CEO 库克发微博缅怀乔布斯逝世 13 周年：未来不是等来的，而是自己创造的](https://m.ithome.com/html/800216.htm)
+
