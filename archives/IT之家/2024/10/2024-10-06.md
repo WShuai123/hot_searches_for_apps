@@ -25,3 +25,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 系统支持应用分身功能，同一 App 最多可分 5 个](https://m.ithome.com/html/800275.htm)
 
++ [消息称 vivo X200 Pro mini “哑机”中框是磨砂材质、白色款机型后盖为亮面玻璃](https://m.ithome.com/html/800273.htm)
+
