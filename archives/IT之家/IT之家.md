@@ -57,3 +57,7 @@
 
 + [网友吐槽视频会员暂停仍有全屏广告：官方称关不了，罗永浩怒批产品经理](https://m.ithome.com/html/800224.htm)
 
++ [“爱奇艺会员暂停后播放全屏广告”引热议，官方客服回应](https://m.ithome.com/html/800245.htm)
+
++ [Elecom 宣布 12 月发布 USB4 2.0 Type-C 线：80Gbps 数据传输，最高 240W 充电](https://m.ithome.com/html/800168.htm)
+

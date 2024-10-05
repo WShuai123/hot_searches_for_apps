@@ -211,3 +211,13 @@
 
 + [盲拍合约：让竞拍更公平与神秘的创新解决方案](https://blog.csdn.net/yoona333/article/details/142705067)
 
++ [DenseNet算法：口腔癌识别](https://blog.csdn.net/2301_76606951/article/details/142707812)
+
++ [10.3学习](https://blog.csdn.net/2401_87363162/article/details/142695869)
+
++ [【DataLoom】智能问数 - 自然语言与数据库交互](https://blog.csdn.net/m0_62963408/article/details/142709488)
+
++ [智能手表（Smart Watch）项目](https://blog.csdn.net/Mr_Jaychong/article/details/142703861)
+
++ [GPTQ vs AWQ vs GGUF（GGML） 速览和 GGUF 文件命名规范](https://blog.csdn.net/weixin_42426841/article/details/142706753)
+
