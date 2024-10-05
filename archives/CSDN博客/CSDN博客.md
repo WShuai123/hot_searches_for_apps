@@ -101,3 +101,9 @@
 
 + [[论文笔记]SGPT: GPT Sentence Embeddings for Semantic Search](https://blog.csdn.net/yjw123456/article/details/142696621)
 
++ [【C++打怪之路Lv6】-- 内存管理](https://blog.csdn.net/Sweeney_001/article/details/142706899)
+
++ [华为 HCIP-Datacom H12-821 题库 (32)](https://blog.csdn.net/2301_77362941/article/details/142713981)
+
++ [GPTQ vs AWQ vs GGUF（GGML） 速览和 GGUF 文件命名规范](https://blog.csdn.net/weixin_42426841/article/details/142706753)
+
