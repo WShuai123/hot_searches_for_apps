@@ -49,3 +49,7 @@
 
 + [蓝队宝典 | 利用黑客指纹情报构建高级威胁防御战略](https://www.freebuf.com/articles/network/412136.html)
 
++ [GShark：一款针对GitHub的敏感信息安全扫描与审计工具](https://www.freebuf.com/sectool/412152.html)
+
++ [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
+

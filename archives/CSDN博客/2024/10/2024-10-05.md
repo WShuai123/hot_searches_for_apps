@@ -177,3 +177,13 @@
 
 + [【Unity精品插件】Magica Cloth：Unity布料模拟的新高度](https://blog.csdn.net/UnityBoy/article/details/142670442)
 
++ [基于大数据爬虫+Spark+Python数据可视化大屏的高校岗位招聘推荐和分析与可视化平台(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/weixin_39709134/article/details/142712242)
+
++ [新闻推荐系统：Spring Boot的架构优势](https://blog.csdn.net/2402_85758349/article/details/142701449)
+
++ [vue中如何实现组件通信](https://blog.csdn.net/2301_76380626/article/details/142704592)
+
++ [【Linux系统编程】第二十七弹---文件描述符与重定向：fd奥秘、dup2应用与Shell重定向实战](https://blog.csdn.net/2201_75584283/article/details/141751725)
+
++ [影刀RPA:Excel内容填充指令](https://blog.csdn.net/ddf128/article/details/142710907)
+

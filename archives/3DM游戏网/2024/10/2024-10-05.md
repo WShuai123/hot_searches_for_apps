@@ -151,3 +151,19 @@
 
 + [2024年10月24日，准备好在《风中行者》的抢先体验发布时跃入漩涡吧！](https://www.3dmgame.com/news/202410/3905572.html)
 
++ [任天堂博物馆开业引来大批黄牛 官方紧急制定对策](https://www.3dmgame.com/news/202410/3905584.html)
+
++ [Epic计划在其手游端商店中也采取免费送游戏的策略](https://www.3dmgame.com/news/202410/3905580.html)
+
++ [《大家一起观颜察色。4》宣布11月发售 登陆Switch和Steam](https://www.3dmgame.com/news/202410/3905583.html)
+
++ [英国游戏零售商GAME问题加剧 预购订单延期无人理会](https://www.3dmgame.com/news/202410/3905582.html)
+
++ [苹果CEO库克发文缅怀乔布斯逝世13周年：未来是自己创造的](https://www.3dmgame.com/news/202410/3905581.html)
+
++ [国庆节高速公路充电量创历史新高 全国超三分之一的充电桩满负荷工作](https://www.3dmgame.com/news/202410/3905579.html)
+
++ [堀井雄二游戏节目被乌龙错译 马斯克也转发引发热议](https://www.3dmgame.com/news/202410/3905578.html)
+
++ [《桃太郎电铁 昭和平成令和也是定番》亚洲版12月12日发售 支持中文](https://www.3dmgame.com/news/202410/3905577.html)
+
