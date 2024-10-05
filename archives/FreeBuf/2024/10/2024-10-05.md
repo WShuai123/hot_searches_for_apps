@@ -53,3 +53,5 @@
 
 + [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
 
++ [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
+

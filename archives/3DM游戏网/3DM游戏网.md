@@ -173,3 +173,15 @@
 
 + [《塞尔达传说：智慧的再现》漏洞让玩家可以用林克通关](https://www.3dmgame.com/news/202410/3905585.html)
 
++ [好评推理作《黄金偶像案》将重制 添加繁体中文支持](https://www.3dmgame.com/news/202410/3905592.html)
+
++ [5999元起！iPhone 16物料成本拆解出炉：苹果造价2900元](https://www.3dmgame.com/news/202410/3905593.html)
+
++ [《微软飞行模拟2024》Steam商店页面更新 添加中文支持](https://www.3dmgame.com/news/202410/3905589.html)
+
++ [《战锤40K：行商浪人》Steam史低六折价格销售](https://www.3dmgame.com/news/202410/3905590.html)
+
++ [会员吐槽爱奇艺暂停后也播全屏广告 官方回应更无奈](https://www.3dmgame.com/news/202410/3905591.html)
+
++ [《杀手3 VR：重装上阵》工作室证实大规模裁员消息](https://www.3dmgame.com/news/202410/3905588.html)
+

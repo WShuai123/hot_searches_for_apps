@@ -49,3 +49,9 @@
 
 + [消息称腾讯和 Guillemot 家族正考虑收购育碧](https://m.ithome.com/html/800172.htm)
 
++ [10 天修不完 BUG？ 暴雪游戏，毁百万玩家假期！](https://m.ithome.com/html/800218.htm)
+
++ [16+512G 立减 512 元：Redmi K70 手机 2487 元天猫三期免息](https://m.ithome.com/html/800198.htm)
+
++ [鸿蒙智行国庆 10 月 1~4 日累计大定突破 1.52 万台](https://m.ithome.com/html/800175.htm)
+
