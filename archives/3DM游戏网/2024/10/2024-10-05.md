@@ -117,3 +117,19 @@
 
 + [《药剂大亨》登陆Steam 巫术大师模拟养成](https://www.3dmgame.com/news/202410/3905557.html)
 
++ [《光环：无限》将于11月迎来官方第三人称模式](https://www.3dmgame.com/news/202410/3905562.html)
+
++ [生存新作《City 20》开始抢先体验 更新路线图公布](https://www.3dmgame.com/news/202410/3905563.html)
+
++ [《龙珠 DAIMA》雅木茶声优古谷彻撤换 10月11日开播](https://www.3dmgame.com/news/202410/3905564.html)
+
++ [经典重制《Killing Time: Resurrected》公布上市日期](https://www.3dmgame.com/news/202410/3905565.html)
+
++ [《暗黑破坏神4：憎恨之躯》IGN 8分 MC评分86分](https://www.3dmgame.com/news/202410/3905567.html)
+
++ [2024年金摇杆奖入围游戏名单公布 《黑神话：悟空》获最佳视觉设计奖提名](https://www.3dmgame.com/news/202410/3905566.html)
+
++ [研究显示超一半玩家更喜欢单人游戏](https://www.3dmgame.com/news/202410/3905560.html)
+
++ [《转转英雄》登陆Steam 肉鸽卡牌构建冒险](https://www.3dmgame.com/news/202410/3905561.html)
+

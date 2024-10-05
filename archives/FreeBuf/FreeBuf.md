@@ -43,3 +43,7 @@
 
 + [Apache OFBiz SSRF漏洞CVE-2024-45507分析](https://www.freebuf.com/vuls/411979.html)
 
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
++ [深度学习后门攻击分析与实现（二）](https://www.freebuf.com/articles/network/411853.html)
+
