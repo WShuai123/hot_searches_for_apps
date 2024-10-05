@@ -191,3 +191,5 @@
 
 + [Steam测试支持4K和超宽屏显示器格式游戏视频录制](https://www.3dmgame.com/news/202410/3905596.html)
 
++ [《枪匠模拟器》脱离抢先体验发售正式版 内容更新同步上线](https://www.3dmgame.com/news/202410/3905597.html)
+

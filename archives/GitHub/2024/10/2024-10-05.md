@@ -31,3 +31,21 @@
 
 + [getsentry / sentry](https://github.com/getsentry/sentry)
 
++ [ocornut / imgui](https://github.com/ocornut/imgui)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust)
+
++ [mandiant / capa](https://github.com/mandiant/capa)
+
++ [stretchr / testify](https://github.com/stretchr/testify)
+
++ [xenova / whisper-web](https://github.com/xenova/whisper-web)
+
++ [python-poetry / poetry](https://github.com/python-poetry/poetry)
+
++ [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [Budibase / budibase](https://github.com/Budibase/budibase)
+
