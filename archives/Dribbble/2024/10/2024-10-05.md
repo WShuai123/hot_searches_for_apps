@@ -89,3 +89,15 @@
 
 + [DoTogether - Saas Website Design](https://dribbble.com/shots/)
 
++ [Headless Horseman](https://dribbble.com/shots/)
+
++ [Hydro Pharma logo design](https://dribbble.com/shots/)
+
++ [Logo design for Natural and Organic Farm](https://dribbble.com/shots/)
+
++ [Agile Claim - Automated Vehicle Insurance Claim Website Design](https://dribbble.com/shots/)
+
++ [Lullaby Meld inc - logo design](https://dribbble.com/shots/)
+
++ [V star logo design](https://dribbble.com/shots/)
+

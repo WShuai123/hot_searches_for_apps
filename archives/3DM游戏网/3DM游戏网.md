@@ -185,3 +185,9 @@
 
 + [《杀手3 VR：重装上阵》工作室证实大规模裁员消息](https://www.3dmgame.com/news/202410/3905588.html)
 
++ [《时光3：永耀之境》众筹大获成功 远超预设筹款目标](https://www.3dmgame.com/news/202410/3905594.html)
+
++ [《高达破坏者4》三大游戏活动公布 大量奖励袭来](https://www.3dmgame.com/news/202410/3905595.html)
+
++ [Steam测试支持4K和超宽屏显示器格式游戏视频录制](https://www.3dmgame.com/news/202410/3905596.html)
+
