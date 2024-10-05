@@ -41,3 +41,5 @@
 
 + [成功破解Tor的匿名性，时序分析攻击技术这么厉害？](https://www.freebuf.com/articles/neopoints/412144.html)
 
++ [Apache OFBiz SSRF漏洞CVE-2024-45507分析](https://www.freebuf.com/vuls/411979.html)
+

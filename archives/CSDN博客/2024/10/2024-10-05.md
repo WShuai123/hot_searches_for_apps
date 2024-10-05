@@ -141,3 +141,15 @@
 
 + [基于微信小程序的旅游拼团系统](https://blog.csdn.net/2301_78335941/article/details/142704290)
 
++ [22.2 k8s中ksm采集的使用的dns解析](https://blog.csdn.net/weixin_48502062/article/details/142696504)
+
++ [VPN简述](https://blog.csdn.net/Jerry_BLOG/article/details/142684686)
+
++ [《深度学习》OpenCV 背景建模 原理及案例解析](https://blog.csdn.net/qq_64603703/article/details/142678511)
+
++ [Unity组件大全之 2D物理 |（68）Rigidbody 2D 刚体](https://blog.csdn.net/UnityBoy/article/details/142496933)
+
++ [【FFmpeg 深度解析】：全方位视频合成](https://blog.csdn.net/qq_34272964/article/details/142644509)
+
++ [微信小程序hbuilderx+uniapp+Android 新农村综合风貌旅游展示平台](https://blog.csdn.net/abo2021/article/details/142699793)
+

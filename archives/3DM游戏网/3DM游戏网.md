@@ -111,3 +111,9 @@
 
 + [节奏游戏《纵横律动 浑然新声》10/11推出EA版](https://www.3dmgame.com/news/202410/3905556.html)
 
++ [强地磁活动要来了！我国北方部分地区有机会看到极光](https://www.3dmgame.com/news/202410/3905559.html)
+
++ [延期十天 PS5日服《幻兽帕鲁》现已发售](https://www.3dmgame.com/news/202410/3905558.html)
+
++ [《药剂大亨》登陆Steam 巫术大师模拟养成](https://www.3dmgame.com/news/202410/3905557.html)
+
