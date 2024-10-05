@@ -201,3 +201,47 @@
 
 + [英特尔13、14代CPU不稳定问题现已解决：0x12B微代码补丁](https://www.3dmgame.com/news/202410/3905599.html)
 
++ [台积电2nm工艺将继续涨价：每片晶圆或超3万美元](https://www.3dmgame.com/news/202410/3905603.html)
+
++ [育碧原计划未来5年发售10款《刺客信条》游戏](https://www.3dmgame.com/news/202410/3905602.html)
+
++ [马斯克预测人类30年内在火星建城市：人类文明太脆弱](https://www.3dmgame.com/news/202405/3895292.html)
+
++ [《辐射：伦敦》团队希望尽快解决难题从而正式发布](https://www.3dmgame.com/news/202405/3895293.html)
+
++ [《椅子》登陆PC平台 奇葩主角异次元动作游戏](https://www.3dmgame.com/news/202405/3895294.html)
+
++ [爆料显示育碧新作《刺客信条：影》预购势头强劲](https://www.3dmgame.com/news/202405/3895295.html)
+
++ [上市八年的老游戏《杀戮空间2》本周末人气飙升](https://www.3dmgame.com/news/202405/3895296.html)
+
++ [《绝地潜兵2》开始在部分地区Steam平台恢复上架](https://www.3dmgame.com/news/202405/3895297.html)
+
++ [经典诺基亚Lumia“复活”曝HMD正计划复刻](https://www.3dmgame.com/news/202405/3895298.html)
+
++ [类魂ARPG《艾诺提亚：失落之歌》5月22日发布试玩](https://www.3dmgame.com/news/202405/3895299.html)
+
++ [世嘉相关爆料人发帖推测任天堂NS2主机开发代号](https://www.3dmgame.com/news/202405/3895300.html)
+
++ [特斯拉将在中国建自驾数据中心 还要采用N卡先进芯片](https://www.3dmgame.com/news/202405/3895301.html)
+
++ [《Dino Dino》登陆Steam 恐龙知识科普游戏](https://www.3dmgame.com/news/202405/3895302.html)
+
++ [部分《纸片马里奥：千年之门》玩家预购订单被取消](https://www.3dmgame.com/news/202405/3895303.html)
+
++ [《对马岛之魂》PC玩家数量持续上涨：索尼历史第三](https://www.3dmgame.com/news/202405/3895304.html)
+
++ [WeGame预告今夜开场就是好戏！《黑神话：悟空》或当仁不让](https://www.3dmgame.com/news/202405/3895305.html)
+
++ [《荒野枪巫》四人合作更新发布 周末限时免费试玩](https://www.3dmgame.com/news/202405/3895306.html)
+
++ [《博德之门3》史低价格销售 八五折优惠还剩四天](https://www.3dmgame.com/news/202405/3895307.html)
+
++ [经典PC《PasocomMini PC-8801》迷你版公开 手掌大小](https://www.3dmgame.com/news/202405/3895308.html)
+
++ [《动物之井》单人开发者：曾制作了很多废弃的房间](https://www.3dmgame.com/news/202405/3895309.html)
+
++ [《英雄联盟》2024 MSI决赛今日中韩大战再次开启！](https://www.3dmgame.com/news/202405/3895310.html)
+
++ [独立游戏新作《病态：艾尔之王》现已正式发售](https://www.3dmgame.com/news/202405/3895311.html)
+

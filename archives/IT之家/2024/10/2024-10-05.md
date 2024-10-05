@@ -67,3 +67,7 @@
 
 + [Steam Deck 掌机吃上“黑苹果”：开发者成功安装 macOS 15 Sequoia，但暂无 GPU 加速支持](https://m.ithome.com/html/800205.htm)
 
++ [上海地铁：10 月 4 日一列车车厢内有乘客手机突然冒烟，没有人员受伤](https://m.ithome.com/html/800260.htm)
+
++ [微软发布 Win11 Dev 26120.1930 预览版：引入新字体搞定最复杂汉字，支持显示 Biangbiang 面](https://m.ithome.com/html/800177.htm)
+

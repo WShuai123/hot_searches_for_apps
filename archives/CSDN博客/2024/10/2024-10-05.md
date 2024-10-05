@@ -229,3 +229,11 @@
 
 + [【springboot】整合LoadBalancer](https://blog.csdn.net/BlackPudding_/article/details/142698470)
 
++ [【AIGC】VoiceControl for ChatGPT指南：轻松开启ChatGPT语音对话模式](https://blog.csdn.net/2201_75539691/article/details/142705913)
+
++ [【分布式微服务云原生】详解Redis的主从模式，主服务器挂了如何从多个从服务器选出新的主服务器](https://blog.csdn.net/u010425839/article/details/142688720)
+
++ [如何高效使用Prompt与AI大模型对话](https://blog.csdn.net/zouliping123456/article/details/142693264)
+
++ [HTTPS 的加密流程](https://blog.csdn.net/GodK777/article/details/142706100)
+
