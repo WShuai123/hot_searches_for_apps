@@ -169,3 +169,11 @@
 
 + [GS-SLAM论文阅读笔记-CaRtGS](https://blog.csdn.net/qq_45795134/article/details/142697886)
 
++ [【机器学习】探索GRU：深度学习中门控循环单元的魅力](https://blog.csdn.net/2301_76820214/article/details/142706799)
+
++ [【微服务】负载均衡 - LoadBalancer（day4）](https://blog.csdn.net/weixin_73060900/article/details/142699967)
+
++ [YOLO11改进|卷积篇|引入可变核卷积AKConv](https://blog.csdn.net/A1983Z/article/details/142682147)
+
++ [【Unity精品插件】Magica Cloth：Unity布料模拟的新高度](https://blog.csdn.net/UnityBoy/article/details/142670442)
+

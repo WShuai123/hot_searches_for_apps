@@ -43,3 +43,5 @@
 
 + [苹果最薄 iPhone 有望明年登场，联咏科技被曝已打入供应链](https://m.ithome.com/html/800197.htm)
 
++ [小米 15 Pro 手机有望 10 月登场：6.78 英寸屏幕 + 6000mAh 电池 + 5 年安卓更新，钛金属版支持卫星通信](https://m.ithome.com/html/800214.htm)
+

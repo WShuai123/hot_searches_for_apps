@@ -95,3 +95,9 @@
 
 + [你有没有见过那个少年  | 原创曲手书](http://www.acfun.cn/v/ac46344156)
 
++ [【可心のvlog】小偶像可心的一周碎片～【国庆】](http://www.acfun.cn/v/ac46328682)
+
++ [《超自然武装当哒当》OP映像｜Creepy Nuts「オトノケ」](http://www.acfun.cn/v/ac46341953)
+
++ [【东方】灵梦 vs 神子【东方神灵庙 MMD 再现动画】](http://www.acfun.cn/v/ac46339252)
+
