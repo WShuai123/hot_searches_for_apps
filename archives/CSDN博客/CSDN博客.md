@@ -159,3 +159,13 @@
 
 + [华为资源分享](https://blog.csdn.net/qq_56248592/article/details/142688573)
 
++ [【Spring】Spring Boot项目创建和目录介绍](https://blog.csdn.net/Yeeear/article/details/142689655)
+
++ [在 Elasticsearch Serverless 上使用 Eland](https://blog.csdn.net/UbuntuTouch/article/details/142711307)
+
++ [【LLM】Agent在智能客服的实践（AI agent、记忆、快捷回复 | ReAct）](https://blog.csdn.net/qq_35812205/article/details/142703092)
+
++ [PyTorch实现卷积神经网络CNN](https://blog.csdn.net/weixin_51418964/article/details/142703073)
+
++ [GS-SLAM论文阅读笔记-CaRtGS](https://blog.csdn.net/qq_45795134/article/details/142697886)
+

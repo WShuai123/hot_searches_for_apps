@@ -47,3 +47,5 @@
 
 + [深度学习后门攻击分析与实现（二）](https://www.freebuf.com/articles/network/411853.html)
 
++ [蓝队宝典 | 利用黑客指纹情报构建高级威胁防御战略](https://www.freebuf.com/articles/network/412136.html)
+

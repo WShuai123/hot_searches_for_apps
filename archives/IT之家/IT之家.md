@@ -41,3 +41,5 @@
 
 + [明年登场，vivo V50 系列手机现踪迹](https://m.ithome.com/html/800104.htm)
 
++ [苹果最薄 iPhone 有望明年登场，联咏科技被曝已打入供应链](https://m.ithome.com/html/800197.htm)
+
