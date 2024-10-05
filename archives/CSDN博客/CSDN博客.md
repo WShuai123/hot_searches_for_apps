@@ -143,3 +143,7 @@
 
 + [Redis --- 第三讲 --- 通用命令](https://blog.csdn.net/m0_67635008/article/details/142700043)
 
++ [微信小程序地理定位与逆地址解析详解](https://blog.csdn.net/everfoot/article/details/142721172)
+
++ [yolov8.yaml](https://blog.csdn.net/2301_76846375/article/details/142715566)
+

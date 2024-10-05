@@ -203,3 +203,5 @@
 
 + [Quin - AI塔罗测测运势感情事业](https://itunes.apple.com/cn/app/id6480106163?mt=8)
 
++ [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
+
