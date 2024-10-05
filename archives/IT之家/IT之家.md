@@ -65,3 +65,5 @@
 
 + [苹果 CEO 库克发微博缅怀乔布斯逝世 13 周年：未来不是等来的，而是自己创造的](https://m.ithome.com/html/800216.htm)
 
++ [Steam Deck 掌机吃上“黑苹果”：开发者成功安装 macOS 15 Sequoia，但暂无 GPU 加速支持](https://m.ithome.com/html/800205.htm)
+

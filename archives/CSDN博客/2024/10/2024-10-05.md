@@ -221,3 +221,11 @@
 
 + [GPTQ vs AWQ vs GGUF（GGML） 速览和 GGUF 文件命名规范](https://blog.csdn.net/weixin_42426841/article/details/142706753)
 
++ [Linux：Linux进程概念](https://blog.csdn.net/2301_79691881/article/details/142250205)
+
++ [Spring Boot RESTful API开发教程](https://blog.csdn.net/luwei42768/article/details/142709260)
+
++ [vue3+vite@4+ts+elementplus创建项目详解](https://blog.csdn.net/cyz141001/article/details/142703509)
+
++ [【springboot】整合LoadBalancer](https://blog.csdn.net/BlackPudding_/article/details/142698470)
+

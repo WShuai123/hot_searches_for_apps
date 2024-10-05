@@ -195,3 +195,9 @@
 
 + [分析师预测 特斯拉2.5万美元电车即将亮相](https://www.3dmgame.com/news/202410/3905598.html)
 
++ [《暗黑破坏神4：憎恨之躯》之后剧情已有宏伟规划 确认将加入军械库](https://www.3dmgame.com/news/202410/3905600.html)
+
++ [安妮·海瑟薇回归主演《公主日记3》 2025年开拍](https://www.3dmgame.com/news/202410/3905601.html)
+
++ [英特尔13、14代CPU不稳定问题现已解决：0x12B微代码补丁](https://www.3dmgame.com/news/202410/3905599.html)
+
