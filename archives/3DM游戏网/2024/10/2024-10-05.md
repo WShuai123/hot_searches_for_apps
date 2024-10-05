@@ -133,3 +133,11 @@
 
 + [《转转英雄》登陆Steam 肉鸽卡牌构建冒险](https://www.3dmgame.com/news/202410/3905561.html)
 
++ [回合制战略卡牌《遗迹：堕落部落》登陆抢先体验](https://www.3dmgame.com/news/202410/3905568.html)
+
++ [《咒》Steam试玩发布 好评湾产恐怖电影改编](https://www.3dmgame.com/news/202410/3905569.html)
+
++ [下坡路猛踩油门 传育碧又招聘了一批DE&I多样化员工](https://www.3dmgame.com/news/202410/3905570.html)
+
++ [《灵异第六感》男星想参演《塞尔达传说》真人版电影](https://www.3dmgame.com/news/202410/3905571.html)
+
