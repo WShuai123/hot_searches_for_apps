@@ -201,3 +201,5 @@
 
 + [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
 
++ [Quin - AI塔罗测测运势感情事业](https://itunes.apple.com/cn/app/id6480106163?mt=8)
+

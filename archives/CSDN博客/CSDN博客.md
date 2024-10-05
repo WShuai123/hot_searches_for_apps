@@ -129,3 +129,13 @@
 
 + [HTTP的工作原理](https://blog.csdn.net/2302_81178149/article/details/142706863)
 
++ [使用Java调用GeoTools实现全球国家矢量数据入库实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/142699375)
+
++ [Elasticsearch：探索 Elastic 向量数据库](https://blog.csdn.net/UbuntuTouch/article/details/142718318)
+
++ [Python机器学习实战：使用Flask构建机器学习API](https://blog.csdn.net/universsky2015/article/details/142698494)
+
++ [【EXCEL数据处理】000014 案例 EXCEL分类汇总、定位和创建组。附多个操作案例。](https://blog.csdn.net/qq_33650655/article/details/142690271)
+
++ [MobX-Miniprogram：微信小程序的状态管理利器](https://blog.csdn.net/everfoot/article/details/142687405)
+
