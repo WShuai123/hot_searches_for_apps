@@ -93,3 +93,11 @@
 
 + [【国庆】网络上常见的热门短视频集锦 第两千一十二期](http://www.acfun.cn/v/ac46346453)
 
++ [【铁拳8】莉莉演示如何对策平八【TEKKEN8】Lili vs Heihachi](http://www.acfun.cn/v/ac46345275)
+
++ [【中文解说】速看S14全球总决赛 瑞士轮](http://www.acfun.cn/v/ac46346377)
+
++ [二次元漫画脸！我见犹怜，算你牛逼！——▎大师精选¹⁴³](http://www.acfun.cn/v/ac46343041)
+
++ [终于吃上铁锅炖了](http://www.acfun.cn/v/ac46345778)
+

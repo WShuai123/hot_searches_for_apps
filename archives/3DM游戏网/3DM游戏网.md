@@ -239,3 +239,13 @@
 
 + [PS5 Pro尚未发布 索尼已对PSSR升频技术进行优化](https://www.3dmgame.com/news/202410/3905625.html)
 
++ [金摇杆提名游戏开发者呼吁拉票 却不是为自己的游戏](https://www.3dmgame.com/news/202410/3905637.html)
+
++ [《地平线：零之曙光重制版》之后Nixxes将继续做重制](https://www.3dmgame.com/news/202410/3905636.html)
+
++ [《堡垒之夜》UEFN工具推出第一人称视角功能 玩法扩展](https://www.3dmgame.com/news/202410/3905633.html)
+
++ [《合金装备3：重制版》本打算只进行一下画质升级](https://www.3dmgame.com/news/202410/3905634.html)
+
++ [收购报告出炉后 育碧股价创下有史以来最大单日涨幅](https://www.3dmgame.com/news/202410/3905635.html)
+

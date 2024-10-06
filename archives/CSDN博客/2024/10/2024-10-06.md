@@ -193,3 +193,11 @@
 
 + [如何快速切换电脑的ip地址](https://blog.csdn.net/hgdlip/article/details/142712130)
 
++ [计算机视觉 第十章OpenCV](https://blog.csdn.net/qq_53034510/article/details/142185412)
+
++ [SpringBoot 配置文件](https://blog.csdn.net/2301_80035594/article/details/142725589)
+
++ [【2024】uniapp 接入声网音频RTC【H5+Android】Unibest模板下Vue3+Typescript](https://blog.csdn.net/applebomb/article/details/142708683)
+
++ [oh-topic-editor: OpenHarmony & HarmonyOS平台上基于RichEditor实现的支持添加话题、@用户的文本编辑组件](https://blog.csdn.net/u013028621/article/details/142725889)
+
