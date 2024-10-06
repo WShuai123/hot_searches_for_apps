@@ -229,3 +229,9 @@
 
 + [【Spring】“请求“ 之传递 JSON 数据](https://blog.csdn.net/Yeeear/article/details/142729039)
 
++ [2024泷羽CTF 2024年国庆假期《黑神话*悟空》争夺赛](https://blog.csdn.net/aczhqq/article/details/142730872)
+
++ [哪个编程工具让你的工作效率翻倍？](https://blog.csdn.net/2301_79969994/article/details/142720885)
+
++ [量子计算：下一次科技革命的引擎](https://blog.csdn.net/asd1_1212/article/details/142707496)
+

@@ -277,3 +277,7 @@
 
 + [育碧盈利总监指责玩家散播仇恨、不道德](https://www.3dmgame.com/news/202410/3905651.html)
 
++ [日本汽车制造商丰田宣布不再支持DEI](https://www.3dmgame.com/news/202410/3905653.html)
+
++ [《小丑2》票房口碑双扑 创漫改电影历史最低评级](https://www.3dmgame.com/news/202410/3905652.html)
+

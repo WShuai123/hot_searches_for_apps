@@ -57,3 +57,9 @@
 
 + [极氪关海涛回应车主在汽车自动驾驶时盖被躺下看电视：非常不鼓励类似行为](https://m.ithome.com/html/800360.htm)
 
++ [小米 SUV 汽车谍照曝光，采用无边框车门设计](https://m.ithome.com/html/800374.htm)
+
++ [vivo 韩伯啸：X200 系列新机三个屏都是定制的，标准版和 Pro 均为等深四微曲设计](https://m.ithome.com/html/800356.htm)
+
++ [OPPO Find X8 真机曝光：圆形相机模组、直角边框设计](https://m.ithome.com/html/800366.htm)
+
