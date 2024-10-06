@@ -179,3 +179,17 @@
 
 + [Flutter的架构层](https://blog.csdn.net/qq_37703224/article/details/142719389)
 
++ [【AIGC】ChatGPT开发者必备：如何获取 OpenAI 的 API Key](https://blog.csdn.net/2201_75539691/article/details/142701099)
+
++ [模型无关的局部解释（LIME）技术原理解析及多领域应用实践](https://blog.csdn.net/m0_46510245/article/details/142723444)
+
++ [《深度学习》OpenCV 摄像头OCR 过程及案例解析](https://blog.csdn.net/qq_64603703/article/details/142699848)
+
++ [【实战】Nginx+Lua脚本+Redis 实现自动封禁访问频率过高IP](https://blog.csdn.net/l1028386804/article/details/142724181)
+
++ [【Spring】运行Spring Boot项目，请求响应流程分析以及404和500报错](https://blog.csdn.net/Yeeear/article/details/142695889)
+
++ [模型量化技术概述及 GGUF/GGML 文件格式解析，了解 Q4_0、Q4_1、Q4_K 和 Q4_K_M 的区别](https://blog.csdn.net/weixin_42426841/article/details/142706753)
+
++ [如何快速切换电脑的ip地址](https://blog.csdn.net/hgdlip/article/details/142712130)
+

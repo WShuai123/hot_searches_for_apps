@@ -35,3 +35,7 @@
 
 + [网易 Filmly 播放器 Apple TV 端 TF 测试版上线：支持海报墙展示、适配 tvOS 18](https://m.ithome.com/html/800290.htm)
 
++ [AMD 锐龙 7 9800X3D 处理器 Cinebench R23 跑分曝光：比 7800X3D 单核快 20%、多核快 28%](https://m.ithome.com/html/800266.htm)
+
++ [今日起，国内航线燃油附加费下调至 10 或 20 元](https://m.ithome.com/html/800248.htm)
+
