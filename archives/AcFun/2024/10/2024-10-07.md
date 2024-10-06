@@ -61,3 +61,7 @@
 
 + [【A站首发|新游展示】恐怖游戏《寂静岭2 重制版》体验及内容展示  以新表现重塑曾经恐怖压抑的氛围](http://www.acfun.cn/v/ac46349645)
 
++ [【怜兔x萤子】Near◆I m Near . I love you.](http://www.acfun.cn/v/ac46347319)
+
++ [恐怖鬼屋！金戈的秘密！？个人剧情解释《神奇数字马戏团》第三集](http://www.acfun.cn/v/ac46347771)
+

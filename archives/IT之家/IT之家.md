@@ -25,3 +25,5 @@
 
 + [OPPO Find X8 真机曝光：圆形相机模组、直角边框设计](https://m.ithome.com/html/800366.htm)
 
++ [比亚迪纯电小车海鸥上市累计销售 59.19 万辆，现款 6.98~8.58 万元](https://m.ithome.com/html/800310.htm)
+
