@@ -271,3 +271,7 @@
 
 + [英特尔下下代移动CPU将配第五代NPU 算力大提升](https://www.3dmgame.com/news/202410/3905648.html)
 
++ [《寂静岭2：重制版》Steam已特别好评 优化是个遗憾](https://www.3dmgame.com/news/202410/3905650.html)
+
++ [B社为《星空》辩护：可比肩《辐射》、《上古卷轴》](https://www.3dmgame.com/news/202410/3905649.html)
+
