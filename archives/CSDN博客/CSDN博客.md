@@ -101,3 +101,31 @@
 
 + [Perforce静态分析工具2024.2新增功能：Helix QAC全新CI/CD集成支持、Klocwork分析引擎改进和安全增强](https://blog.csdn.net/weixin_49715102/article/details/142715741)
 
++ [基于Java的GeoTools对Shapefile文件属性信息深度解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/142708551)
+
++ [[C++][第三方库][etcd]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142680213)
+
++ [认知战认知作战：2024年10月4日美国非农数据发布背景下的全球认知战分析——策略、手段与应对](https://blog.csdn.net/kejiju2023/article/details/142710888)
+
++ [大学生就业招聘：Spring Boot系统的架构分析](https://blog.csdn.net/2402_85761468/article/details/142713347)
+
++ [10.2 如何解决从复杂 PDF 文件中提取数据的问题？](https://blog.csdn.net/zc621_/article/details/142705523)
+
++ [SQL自用小结](https://blog.csdn.net/ailbj/article/details/142718626)
+
++ [智能手表（Smart Watch）项目](https://blog.csdn.net/Mr_Jaychong/article/details/142703861)
+
++ [openEuler 24.03 (LTS) 部署 K8s(v1.31.1) 高可用集群(Kubespray Ansible 方式)](https://blog.csdn.net/sanhewuyang/article/details/142647645)
+
++ [用人工智能写作：专业作家利用 ChatGPT 的五种方式 ✍️](https://blog.csdn.net/qq_44866828/article/details/142731160)
+
++ [SpringBoot中间件Docker](https://blog.csdn.net/h123372868/article/details/142712456)
+
++ [偏标记学习+图像分类（论文复现）](https://blog.csdn.net/weixin_62765017/article/details/142644300)
+
++ [深入浅出 CSS 定位：全面解析与实战指南](https://blog.csdn.net/2301_79175212/article/details/142708111)
+
++ [影刀RPA实战：Excel密码与字典功能指令](https://blog.csdn.net/ddf128/article/details/142722540)
+
++ [【Linux系统编程】第二十七弹---文件描述符与重定向：fd奥秘、dup2应用与Shell重定向实战](https://blog.csdn.net/2201_75584283/article/details/141751725)
+

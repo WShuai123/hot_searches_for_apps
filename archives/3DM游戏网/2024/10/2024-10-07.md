@@ -101,3 +101,7 @@
 
 + [《守望先锋2》新英雄预热彩蛋上线 或将是第二位中国英雄](https://www.3dmgame.com/news/202407/3899346.html)
 
++ [《直到黎明》Steam褒贬不一 优化差、绑定PSN账户](https://www.3dmgame.com/news/202410/3905656.html)
+
++ [外媒对《上古卷轴6》失去信心 需要和《星空》完全不同](https://www.3dmgame.com/news/202410/3905657.html)
+
