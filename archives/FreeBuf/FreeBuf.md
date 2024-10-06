@@ -47,3 +47,5 @@
 
 + [企业安全 | 浅谈数据安全治理主要过程](https://www.freebuf.com/articles/es/397153.html)
 
++ [反沙箱与杀软对抗双重利用，银狐新变种快速迭代](https://www.freebuf.com/articles/others-articles/412057.html)
+

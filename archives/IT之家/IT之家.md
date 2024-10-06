@@ -33,3 +33,5 @@
 
 + [2024 香港僵尸电影《邪 Mall》首曝预告发布：姜皓文主演，10 月 31 日上映](https://m.ithome.com/html/800280.htm)
 
++ [网易 Filmly 播放器 Apple TV 端 TF 测试版上线：支持海报墙展示、适配 tvOS 18](https://m.ithome.com/html/800290.htm)
+
