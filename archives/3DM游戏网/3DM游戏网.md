@@ -249,3 +249,13 @@
 
 + [收购报告出炉后 育碧股价创下有史以来最大单日涨幅](https://www.3dmgame.com/news/202410/3905635.html)
 
++ [《七龙珠 电光炸裂！ZERO》PS5版约27GB 豪华版预载开启](https://www.3dmgame.com/news/202410/3905642.html)
+
++ [PS5“炫彩”配色外设预购开启 手柄定价79.99美元](https://www.3dmgame.com/news/202410/3905639.html)
+
++ [课题独到 印度新研究称新冠让月球更冷了](https://www.3dmgame.com/news/202410/3905641.html)
+
++ [《泡沫明星》已经转为免费游戏模式 机制有所变化](https://www.3dmgame.com/news/202410/3905640.html)
+
++ [《幻想水浒传1&2高清重制版》监督希望让系列回归](https://www.3dmgame.com/news/202410/3905638.html)
+

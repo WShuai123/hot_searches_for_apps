@@ -53,3 +53,5 @@
 
 + [小程序一次一密流量解密](https://www.freebuf.com/articles/web/390152.html)
 
++ [一个人的信息安全部（3）——数据防泄露【附有DLP选型对比表】](https://www.freebuf.com/articles/security-management/397806.html)
+
