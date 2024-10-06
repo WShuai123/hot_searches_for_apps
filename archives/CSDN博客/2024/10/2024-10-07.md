@@ -129,3 +129,5 @@
 
 + [【Linux系统编程】第二十七弹---文件描述符与重定向：fd奥秘、dup2应用与Shell重定向实战](https://blog.csdn.net/2201_75584283/article/details/141751725)
 
++ [猫猫cpu的缓存（NW）](https://blog.csdn.net/Tonvia/article/details/142707759)
+
