@@ -41,3 +41,5 @@
 
 + [简单易懂！Java应用中的不安全反序列化](https://www.freebuf.com/vuls/411859.html)
 
++ [蓝队宝典 | 异常流量阻断技战法分析与应用](https://www.freebuf.com/articles/network/410134.html)
+

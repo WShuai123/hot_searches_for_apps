@@ -27,3 +27,5 @@
 
 + [消息称 vivo X200 Pro mini “哑机”中框是磨砂材质、白色款机型后盖为亮面玻璃](https://m.ithome.com/html/800273.htm)
 
++ [消息称华为 nova 13 系列手机预计 10 月 8 日官宣和预热](https://m.ithome.com/html/800262.htm)
+

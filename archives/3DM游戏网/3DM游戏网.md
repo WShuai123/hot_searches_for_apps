@@ -101,3 +101,43 @@
 
 + [外媒记者体验国产大飞机C919 称其是游戏规则改变者](https://www.3dmgame.com/news/202410/3905574.html)
 
++ [《Venture to the Vile》延期上市公告](https://www.3dmgame.com/news/202404/3893998.html)
+
++ [《超级猴子球 香蕉大乱斗》宣传片 带来欢乐大乱斗的派对娱乐体验](https://www.3dmgame.com/news/202404/3893999.html)
+
++ [小米一季度出货量大涨33%：稳坐全球第三 无限逼近苹果](https://www.3dmgame.com/news/202404/3893997.html)
+
++ [《星刃》能获得年度最佳？网友：打不过《最终幻想7：重生》](https://www.3dmgame.com/news/202404/3893996.html)
+
++ [三星Q1营业利润暴涨近10倍！半导体业务2022年来首次盈利](https://www.3dmgame.com/news/202404/3893995.html)
+
++ [机构预估 2027年AI笔记本销量占比达到75%](https://www.3dmgame.com/news/202404/3893994.html)
+
++ [《辐射》故事无缘他国 托德确认系列不会离开美国](https://www.3dmgame.com/news/202404/3893993.html)
+
++ [贾跃亭：我可能是被造谣最多的中国企业家！](https://www.3dmgame.com/news/202404/3894000.html)
+
++ [雷军自曝如何释放压力：刷刷短视频 看看爽文](https://www.3dmgame.com/news/202404/3894001.html)
+
++ [《盟军敢死队：起源》实机演示 夏季封闭测试](https://www.3dmgame.com/news/202404/3893987.html)
+
++ [肉鸽地牢《亡者之地》5月13日发售 支持试玩](https://www.3dmgame.com/news/202404/3894010.html)
+
++ [《星刃》女主泳装美图欣赏：性感热辣 物理效果好](https://www.3dmgame.com/news/202404/3893992.html)
+
++ [Xbox直面会将于6月10日举行 B社、暴雪游戏情报](https://www.3dmgame.com/news/202404/3894008.html)
+
++ [XGP五月上旬新增游戏阵容 《古墓丽影9：终极版》等](https://www.3dmgame.com/news/202404/3894009.html)
+
++ [调查发现英国一半玩家不会《GTA6》 部分玩家担心审查](https://www.3dmgame.com/news/202404/3894006.html)
+
++ [《GTA4》发售16周年 配音演员多达860名](https://www.3dmgame.com/news/202404/3894007.html)
+
++ [特斯拉股价飙涨15% 马斯克中国行大获成功](https://www.3dmgame.com/news/202404/3894005.html)
+
++ [SE已取消多个游戏 开发资源分配将更精挑细选](https://www.3dmgame.com/news/202404/3894004.html)
+
++ [光荣：《浪人崛起》首发销量超过了《仁王》](https://www.3dmgame.com/news/202404/3894003.html)
+
++ [微星掌机更新BIOS和驱动 部分游戏性能提升150%](https://www.3dmgame.com/news/202404/3894002.html)
+
