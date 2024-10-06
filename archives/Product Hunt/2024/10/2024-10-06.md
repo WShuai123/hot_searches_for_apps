@@ -119,3 +119,5 @@
 
 + [KindlePPT](https://www.producthunt.com/posts/kindleppt)
 
++ [Buy Sell Startups 2.0](https://www.producthunt.com/posts/buy-sell-startups-2-0)
+

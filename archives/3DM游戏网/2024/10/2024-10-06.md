@@ -259,3 +259,13 @@
 
 + [《幻想水浒传1&2高清重制版》监督希望让系列回归](https://www.3dmgame.com/news/202410/3905638.html)
 
++ [现实版三体！美国探测器发现一个独特的三星系统：三颗恒星互绕](https://www.3dmgame.com/news/202410/3905646.html)
+
++ [《塞尔达传说：智慧的再现》杀敌策略高效且残忍](https://www.3dmgame.com/news/202410/3905647.html)
+
++ [《王国之心》索拉配音演员：功成身退也是一种选择](https://www.3dmgame.com/news/202410/3905644.html)
+
++ [《涂鸦英雄工厂》11月登陆Steam 塔防工厂建设](https://www.3dmgame.com/news/202410/3905645.html)
+
++ [《刺猬索尼克》游戏将尽可能长时间保持旧主机兼容](https://www.3dmgame.com/news/202410/3905643.html)
+
