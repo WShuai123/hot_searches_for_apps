@@ -39,3 +39,7 @@
 
 + [今日起，国内航线燃油附加费下调至 10 或 20 元](https://m.ithome.com/html/800248.htm)
 
++ [宋紫薇从理想汽车离职：已获内部人员确认，从 iQOO“跳槽”仅一年](https://m.ithome.com/html/800327.htm)
+
++ [消息称英伟达 RTX 4090/4090D 顶级显卡已停产](https://m.ithome.com/html/800301.htm)
+

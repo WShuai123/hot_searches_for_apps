@@ -223,3 +223,19 @@
 
 + [假期已经进入尾声 返程大军开始出发：多地高速排长龙](https://www.3dmgame.com/news/202410/3905624.html)
 
++ [iPhone 16 Pro Max部分地区已现货销售：9999元起](https://www.3dmgame.com/news/202410/3905632.html)
+
++ [庆祝百万销量 Atlus公布《圣兽之王》最受欢迎角色排名](https://www.3dmgame.com/news/202410/3905631.html)
+
++ [美军正在广泛使用定制游戏手柄操作武器装备](https://www.3dmgame.com/news/202410/3905630.html)
+
++ [虚幻5重制老游戏《虚幻竞技场99》开场动画](https://www.3dmgame.com/news/202410/3905629.html)
+
++ [卡普空官方震怒 罕见点名网友传播虚假《街霸6》情报](https://www.3dmgame.com/news/202410/3905628.html)
+
++ [《直到黎明》重制版FSR 3.0帧生成/光追/HDR出问题](https://www.3dmgame.com/news/202410/3905627.html)
+
++ [虚幻5重制《上古卷轴5》裂谷城 美得令人难以置信](https://www.3dmgame.com/news/202410/3905626.html)
+
++ [PS5 Pro尚未发布 索尼已对PSSR升频技术进行优化](https://www.3dmgame.com/news/202410/3905625.html)
+

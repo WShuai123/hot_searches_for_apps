@@ -101,3 +101,21 @@
 
 + [buzzabout](https://www.producthunt.com/posts/buzzabout)
 
++ [Badgeify](https://www.producthunt.com/posts/badgeify)
+
++ [Habicy](https://www.producthunt.com/posts/habicy)
+
++ [Taskblaze](https://www.producthunt.com/posts/taskblaze)
+
++ [Text Behind Image](https://www.producthunt.com/posts/text-behind-image)
+
++ [recce](https://www.producthunt.com/posts/recce-3)
+
++ [SalesBox](https://www.producthunt.com/posts/salesbox)
+
++ [Platea AI](https://www.producthunt.com/posts/platea-ai)
+
++ [Open Agent Cloud (Antler F24)](https://www.producthunt.com/posts/open-agent-cloud-antler-f24)
+
++ [KindlePPT](https://www.producthunt.com/posts/kindleppt)
+
