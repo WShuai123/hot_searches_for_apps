@@ -147,3 +147,5 @@
 
 + [【东方】システム・フレイヤ【蓬莱人形 Ver. MMD】](http://www.acfun.cn/v/ac46348745)
 
++ [【国庆】Ai越来越懂Acer了！！！欢乐八点档-1064](http://www.acfun.cn/v/ac46348529)
+

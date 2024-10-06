@@ -275,3 +275,5 @@
 
 + [B社为《星空》辩护：可比肩《辐射》、《上古卷轴》](https://www.3dmgame.com/news/202410/3905649.html)
 
++ [育碧盈利总监指责玩家散播仇恨、不道德](https://www.3dmgame.com/news/202410/3905651.html)
+
