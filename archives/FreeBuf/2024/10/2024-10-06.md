@@ -45,3 +45,5 @@
 
 + [日本数据保护要求](https://www.freebuf.com/articles/database/411518.html)
 
++ [企业安全 | 浅谈数据安全治理主要过程](https://www.freebuf.com/articles/es/397153.html)
+

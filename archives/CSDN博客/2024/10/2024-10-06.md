@@ -165,3 +165,9 @@
 
 + [【分布式微服务云原生】掌握Redis哨兵模式：构建高可用性Redis集群的终极指南](https://blog.csdn.net/u010425839/article/details/142689068)
 
++ [机器学习/数据分析--用通俗语言讲解时间序列自回归(AR)模型，并用其预测天气，拟合度98%+](https://blog.csdn.net/weixin_74085818/article/details/142714950)
+
++ [开源跨平台三维模型轻量化软件osgGISPlugins-1、简介](https://blog.csdn.net/weixin_41364246/article/details/142722980)
+
++ [偏标记学习+图像分类（论文复现）](https://blog.csdn.net/weixin_62765017/article/details/142644300)
+
