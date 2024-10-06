@@ -215,3 +215,13 @@
 
 + [影刀RPA实战：Excel密码与字典功能指令](https://blog.csdn.net/ddf128/article/details/142722540)
 
++ [全流程Python编程、机器学习与深度学习实践技术应用](https://blog.csdn.net/zmjia111/article/details/142712042)
+
++ [WebRTC学习二：WebRTC音视频数据采集](https://blog.csdn.net/wel_006/article/details/142689957)
+
++ [计算机网络：物理层 —— 物理层下的传输媒体](https://blog.csdn.net/Zachyy/article/details/142718607)
+
++ [基于H3C环境的实验——OSPF](https://blog.csdn.net/qq_63926306/article/details/142719787)
+
++ [【百度文心智能体】想开发爆款智能体？来看看 万圣节之夜探秘者 智能体开发流程大揭秘](https://blog.csdn.net/weixin_75172965/article/details/142725211)
+

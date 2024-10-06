@@ -269,3 +269,5 @@
 
 + [《刺猬索尼克》游戏将尽可能长时间保持旧主机兼容](https://www.3dmgame.com/news/202410/3905643.html)
 
++ [英特尔下下代移动CPU将配第五代NPU 算力大提升](https://www.3dmgame.com/news/202410/3905648.html)
+

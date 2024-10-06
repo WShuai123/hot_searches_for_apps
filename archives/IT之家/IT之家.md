@@ -47,3 +47,7 @@
 
 + [至高 3.2 万元：政府数码家电补贴再加码，全国各地攻略一文汇总](https://m.ithome.com/html/800285.htm)
 
++ [高盛预计小米 SU7 Ultra 明年可售出 4000 辆，平均售价约 80 万元](https://m.ithome.com/html/800342.htm)
+
++ [杭州飞重庆国航 CA4578 航班起飞后返航，网友称挡风玻璃疑似开裂](https://m.ithome.com/html/800329.htm)
+
