@@ -141,3 +141,61 @@
 
 + [微星掌机更新BIOS和驱动 部分游戏性能提升150%](https://www.3dmgame.com/news/202404/3894002.html)
 
++ [Netflix喜剧剧集《十日谈》预告 7月25日上线](https://www.3dmgame.com/news/202407/3899352.html)
+
++ [XGP涨价后 最便宜分级自动续费仍可首发玩《使命召唤：黑色行动6》](https://www.3dmgame.com/news/202407/3899354.html)
+
++ [万吨大白船！我国第2艘万吨级医院船“丝路方舟”号起航](https://www.3dmgame.com/news/202407/3899350.html)
+
++ [桌面放置挂机游戏《狂暴比特》现已登录Steam平台](https://www.3dmgame.com/news/202407/3899351.html)
+
++ [时间差不多咯 《咒术回战》作者芥见下下透露 漫画已经进入最终章](https://www.3dmgame.com/news/202407/3899347.html)
+
++ [停刊7年《军团要塞2》官方漫画确认回归 新刊制作中](https://www.3dmgame.com/news/202407/3899349.html)
+
++ [《双截龙再临》Steam页面上线 明年发售](https://www.3dmgame.com/news/202407/3899345.html)
+
++ [《守望先锋2》新英雄预热彩蛋上线 或将是第二位中国英雄](https://www.3dmgame.com/news/202407/3899346.html)
+
++ [马斯克称脑机接口该像iPhone一样升级 大批志愿者踊跃报名](https://www.3dmgame.com/news/202407/3899343.html)
+
++ [IGN 6月榜：《星球大战：法外狂徒》仍是今年最受期待作品](https://www.3dmgame.com/news/202407/3899344.html)
+
++ [动画电影《守望者》新预告 8月13正式上映](https://www.3dmgame.com/news/202407/3899342.html)
+
++ [押宝AI功能 苹果iPhone16系出货量至少9000万台](https://www.3dmgame.com/news/202407/3899353.html)
+
++ [AMC官方行尸走肉丧尸幸存RPG《行尸走肉：无人之境》Steam页面 支持中文](https://www.3dmgame.com/news/202407/3899355.html)
+
++ [《英雄传说：黎之轨迹2》Switch中文版开启预购 8月16日发售](https://www.3dmgame.com/news/202407/3899341.html)
+
++ [《植物大战僵尸杂交版》作者初中毕业 做游戏改变他人生](https://www.3dmgame.com/news/202407/3899338.html)
+
++ [事故不断 美国航空一架波音737-800客机起飞时爆胎](https://www.3dmgame.com/news/202407/3899360.html)
+
++ [少女漫改动画《好想告诉你》第三季全新宣传预告放出 8月1日起Netflix独占播出](https://www.3dmgame.com/news/202407/3899359.html)
+
++ [国产科幻潜行游戏《演灭》开发完成 配音演员阵容公开](https://www.3dmgame.com/news/202407/3899357.html)
+
++ [《死侍》导演执导《星球大战》电影获编剧 曾合作《亚当计划》](https://www.3dmgame.com/news/202407/3899358.html)
+
++ [《东京时笼》二部曲Switch版免费体验发布 好评文字冒险](https://www.3dmgame.com/news/202407/3899356.html)
+
++ [《寂静岭2：重制版》IGN日本10分 系列未来标杆](https://www.3dmgame.com/news/202410/3905612.html)
+
++ [《PACS》Steam上线 末日世界卡车运输模拟](https://www.3dmgame.com/news/202410/3905611.html)
+
++ [《死神：魂魄觉醒》开场动画公布 2025年发售](https://www.3dmgame.com/news/202410/3905610.html)
+
++ [《我的世界》主机版制作组新作《Reforj》预告片](https://www.3dmgame.com/news/202410/3905609.html)
+
++ [游客太多兵马俑被迫上夜班 特殊情况临时放夜场票](https://www.3dmgame.com/news/202410/3905608.html)
+
++ [《废都物语 重制版》Steam商店页面上线 发售日期待定](https://www.3dmgame.com/news/202410/3905606.html)
+
++ [《Grunn》登陆Steam 卡通渲染像素风悬疑冒险](https://www.3dmgame.com/news/202410/3905605.html)
+
++ [《艾尔登法环：黄金树阴影》灵鳗杀死玩家将近30万次](https://www.3dmgame.com/news/202410/3905607.html)
+
++ [《刺客信条：幻景》Steam版10月发售 商店页上线](https://www.3dmgame.com/news/202410/3905604.html)
+

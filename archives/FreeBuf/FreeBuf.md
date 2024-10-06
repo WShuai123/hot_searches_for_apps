@@ -43,3 +43,5 @@
 
 + [蓝队宝典 | 异常流量阻断技战法分析与应用](https://www.freebuf.com/articles/network/410134.html)
 
++ [日本数据保护要求](https://www.freebuf.com/articles/database/411518.html)
+
