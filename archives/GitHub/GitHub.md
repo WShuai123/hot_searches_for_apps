@@ -33,3 +33,21 @@
 
 + [Budibase / budibase](https://github.com/Budibase/budibase)
 
++ [livekit / agents](https://github.com/livekit/agents)
+
++ [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
+
++ [lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+
++ [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+
++ [joonspk-research / generative_agents](https://github.com/joonspk-research/generative_agents)
+
++ [onejs / one](https://github.com/onejs/one)
+
++ [zauberzeug / nicegui](https://github.com/zauberzeug/nicegui)
+
++ [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
+
++ [ErikBjare / gptme](https://github.com/ErikBjare/gptme)
+
