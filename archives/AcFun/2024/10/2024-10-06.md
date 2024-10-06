@@ -71,3 +71,7 @@
 
 + [什么齐天大圣 没听说过..](http://www.acfun.cn/v/ac46345242)
 
++ [【国庆】Acer们是时候睁眼看世界了！★手机竖屏1295★](http://www.acfun.cn/v/ac46346443)
+
++ [我要洗头，我爱洗头。](http://www.acfun.cn/v/ac46345204)
+

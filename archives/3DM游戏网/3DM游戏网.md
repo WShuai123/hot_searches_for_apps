@@ -199,3 +199,17 @@
 
 + [《刺客信条：幻景》Steam版10月发售 商店页上线](https://www.3dmgame.com/news/202410/3905604.html)
 
++ [经典日恐新作《翌日-忌夜的噬灵超市》10月10日登陆PS4/NS](https://www.3dmgame.com/news/202410/3905613.html)
+
++ [《星球工匠》新DLC“Planet Humble”宣布10月9日发售 定价8美元](https://www.3dmgame.com/news/202410/3905614.html)
+
++ [《直到黎明》游戏改编电影杀青 计划2025年上映](https://www.3dmgame.com/news/202410/3905615.html)
+
++ [《铁拳8》MOD让《博德之门3》起源角色加入对战](https://www.3dmgame.com/news/202410/3905616.html)
+
++ [《地球防卫军6》取消强制登陆Epic账号的联机要求](https://www.3dmgame.com/news/202410/3905617.html)
+
++ [《Divine Orders》Steam上线 幻想世界探索弹幕射击](https://www.3dmgame.com/news/202410/3905618.html)
+
++ [传闻：索尼在今年东京电玩展上展示了PS6原型机](https://www.3dmgame.com/news/202410/3905619.html)
+
