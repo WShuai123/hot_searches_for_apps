@@ -135,3 +135,5 @@
 
 + [flutter鸿蒙版本mvvm架构思想原理](https://blog.csdn.net/lbcyllqj/article/details/142734009)
 
++ [实现mnist手写数字识别](https://blog.csdn.net/ngczx/article/details/142729724)
+
