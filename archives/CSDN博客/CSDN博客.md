@@ -141,3 +141,13 @@
 
 + [Spring Boot与iTextPdf：高效生成PDF文件预览](https://blog.csdn.net/2301_76419561/article/details/142718445)
 
++ [前后端分离开发在阿里云ECS上布置spring boot后端程序和vue前端](https://blog.csdn.net/2301_81869574/article/details/142730373)
+
++ [自然语言处理问答系统](https://blog.csdn.net/hh867308122/article/details/142733599)
+
++ [k8s中pod的管理](https://blog.csdn.net/K1487994142/article/details/142729565)
+
++ [外包干了3年，技术退步太明显了。。。。。](https://blog.csdn.net/chengxuyuznguoke/article/details/142638061)
+
++ [网络安全概述：从认知到实践](https://blog.csdn.net/l1x1n0/article/details/142704870)
+

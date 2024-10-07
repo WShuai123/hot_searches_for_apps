@@ -111,3 +111,19 @@
 
 + [疑似小米15背面设计渲染图曝光！王腾回应：假的](https://www.3dmgame.com/news/202410/3905658.html)
 
++ [拳头游戏澄清：没有在开发《Deadlock》的竞品游戏](https://www.3dmgame.com/news/202410/3905668.html)
+
++ [《黑神话》新MOD玩法变FPS 枪械挑战牛鬼蛇神](https://www.3dmgame.com/news/202410/3905667.html)
+
++ [《巫师3》自制扩展MOD“风之歌”发布 视频欣赏](https://www.3dmgame.com/news/202410/3905666.html)
+
++ [网友爆料《黑神话》后期略差可能就是资金不足原因](https://www.3dmgame.com/news/202410/3905665.html)
+
++ [沙特阿拉伯正在考虑增持任天堂股份 任天堂股价应声上涨](https://www.3dmgame.com/news/202410/3905664.html)
+
++ [庵野秀明公布新策划 2025年启动《宇宙战舰大和号》衍生](https://www.3dmgame.com/news/202410/3905663.html)
+
++ [《辐射：新维加斯》扩展包规模MOD“新墨西哥”预告](https://www.3dmgame.com/news/202410/3905662.html)
+
++ [曝《铁拳8》比赛 万代南梦宫逼迫中国最强选手XCC“弃权”](https://www.3dmgame.com/news/202410/3905661.html)
+

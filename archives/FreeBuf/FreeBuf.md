@@ -43,3 +43,8 @@
 
 + [CVE–2019–8985漏洞复现](https://www.freebuf.com/vuls/408217.html)
 
++ [非结构化数据资产分类分级建设实践与思考](https://www.freebuf.com/articles/database/396282.html)
+
++ [百密一疏！
+你是否败给了“最土”的攻击方式（ATO）？](https://www.freebuf.com/news/411745.html)
+
