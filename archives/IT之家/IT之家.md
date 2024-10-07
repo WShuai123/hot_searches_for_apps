@@ -39,3 +39,5 @@
 
 + [男子买二手小米 SU7，购车后遭原车主远程锁车](https://m.ithome.com/html/800434.htm)
 
++ [疑似苹果 M4 MacBook Pro 上手视频曝光，基准测试结果出炉](https://m.ithome.com/html/800410.htm)
+

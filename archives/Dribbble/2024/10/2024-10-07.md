@@ -111,3 +111,19 @@
 
 + [Cat and cup](https://dribbble.com/shots/)
 
++ [Digital Agency Landing page Design](https://dribbble.com/shots/)
+
++ [Fantasy Sport Web Platform](https://dribbble.com/shots/)
+
++ [Elegant Watch Landing Page](https://dribbble.com/shots/)
+
++ [ChronoTask - Task Management Platform](https://dribbble.com/shots/)
+
++ [EnduroSat — Various animations](https://dribbble.com/shots/)
+
++ [Komodo Dragon](https://dribbble.com/shots/)
+
++ [Olive - Developer Agency Website](https://dribbble.com/shots/)
+
++ [Ghost Pottery](https://dribbble.com/shots/)
+

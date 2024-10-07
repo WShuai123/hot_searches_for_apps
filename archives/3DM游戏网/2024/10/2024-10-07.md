@@ -157,3 +157,15 @@
 
 + [《莱莎的炼金工房2》莱莎泳装1/4手办开订 售价4.2万日元](https://www.3dmgame.com/news/202410/3905683.html)
 
++ [《全职猎人》确定10月7日重新连载 停载时隔近两年](https://www.3dmgame.com/news/202410/3905688.html)
+
++ [《直到黎明》1.004版本更新 优化光追和DLSS等功能](https://www.3dmgame.com/news/202410/3905689.html)
+
++ [男子20万买二手小米SU7 回家后遭到原车主远程锁车](https://www.3dmgame.com/news/202410/3905687.html)
+
++ [Epic老大：虚幻引擎6将打通《堡垒之夜》和其它游戏](https://www.3dmgame.com/news/202410/3905684.html)
+
++ [《Lazarus》Steam页面上线 吸幸类型动作RPG](https://www.3dmgame.com/news/202410/3905685.html)
+
++ [真人剧集《我推的孩子》新预告 宣布11月28日播出](https://www.3dmgame.com/news/202410/3905686.html)
+

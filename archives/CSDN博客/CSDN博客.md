@@ -177,3 +177,7 @@
 
 + [【Linux】信号知识三把斧——信号的产生、保存和处理](https://blog.csdn.net/hanwangyyds/article/details/142312209)
 
++ [【AIGC】ChatGPT是如何思考的：探索CoT思维链技术的奥秘](https://blog.csdn.net/2201_75539691/article/details/142720622)
+
++ [FredNormer: 非平稳时间序列预测的频域正则化方法](https://blog.csdn.net/m0_46510245/article/details/142735710)
+
