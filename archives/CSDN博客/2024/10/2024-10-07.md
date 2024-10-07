@@ -137,3 +137,7 @@
 
 + [实现mnist手写数字识别](https://blog.csdn.net/ngczx/article/details/142729724)
 
++ [redis+mysql数据一致性+缓存穿透解决方案](https://blog.csdn.net/2202_75352238/article/details/142732699)
+
++ [Spring Boot与iTextPdf：高效生成PDF文件预览](https://blog.csdn.net/2301_76419561/article/details/142718445)
+

@@ -41,3 +41,5 @@
 
 + [渗透测试 | 如何用三条命令查杀冰蝎和哥斯拉内存马](https://www.freebuf.com/articles/web/411468.html)
 
++ [CVE–2019–8985漏洞复现](https://www.freebuf.com/vuls/408217.html)
+

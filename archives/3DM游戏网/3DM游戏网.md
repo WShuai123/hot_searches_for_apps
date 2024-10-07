@@ -105,3 +105,9 @@
 
 + [外媒对《上古卷轴6》失去信心 需要和《星空》完全不同](https://www.3dmgame.com/news/202410/3905657.html)
 
++ [343工作室更名为Halo Studios 展示虚幻5《光环》项目新画面](https://www.3dmgame.com/news/202410/3905659.html)
+
++ [《我推的孩子》TV动画第三季确定制作 主艺图公开](https://www.3dmgame.com/news/202410/3905660.html)
+
++ [疑似小米15背面设计渲染图曝光！王腾回应：假的](https://www.3dmgame.com/news/202410/3905658.html)
+
