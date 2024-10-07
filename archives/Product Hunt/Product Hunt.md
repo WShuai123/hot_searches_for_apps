@@ -101,3 +101,5 @@
 
 + [Editapp](https://www.producthunt.com/posts/editapp)
 
++ [Cursor Usage Counter](https://www.producthunt.com/posts/cursor-usage-counter)
+

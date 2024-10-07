@@ -201,3 +201,9 @@
 
 + [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
 
++ [学习通](https://itunes.apple.com/cn/app/id977946724?mt=8)
+
++ [东方财富-股票交易 基金理财](https://itunes.apple.com/cn/app/id423525686?mt=8)
+
++ [换机助手-腾讯通讯录相册手机搬家](https://itunes.apple.com/cn/app/id1475199599?mt=8)
+

@@ -105,3 +105,25 @@
 
 + [10.6学习](https://blog.csdn.net/2401_87363162/article/details/142731052)
 
++ [认知战认知作战：认知战与安全挑战中方企业在海外的应对策略分析](https://blog.csdn.net/kejiju2023/article/details/142736750)
+
++ [贪心算法相关知识](https://blog.csdn.net/2301_81718046/article/details/142731638)
+
++ [Linux--IO模型与高级IO重要概念](https://blog.csdn.net/m0_74068921/article/details/142742714)
+
++ [论文阅读：Attention is All you Need](https://blog.csdn.net/OctYZ/article/details/142729282)
+
++ [【前端】-音乐播放器（源代码和结构讲解，大家可以将自己喜欢的歌曲添加到数据当中，js实现页面动态显示音乐）](https://blog.csdn.net/2301_81253185/article/details/142731617)
+
++ [GitHub上如何进行举报？](https://blog.csdn.net/zhiyuan411/article/details/142726928)
+
++ [【量子计算】开辟全新计算范式](https://blog.csdn.net/2302_80269373/article/details/142732758)
+
++ [Github优质项目推荐-第四期](https://blog.csdn.net/qq_43657722/article/details/142724726)
+
++ [基于SpringBoot+Vue+Uniapp的植物园管理小程序系统(2024最新，源码+文档+远程部署+讲解视频等)](https://blog.csdn.net/qq_32340877/article/details/142731671)
+
++ [实现mnist手写数字识别](https://blog.csdn.net/ngczx/article/details/142729724)
+
++ [若依权限设计与自定义新增用户](https://blog.csdn.net/qq_61654952/article/details/142735802)
+
