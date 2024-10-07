@@ -105,3 +105,9 @@
 
 + [2024诺贝尔生理学或医学奖公布！两位科学家共享745万奖金](https://www.3dmgame.com/news/202410/3905708.html)
 
++ [九番队队长东仙要参战《死神：魂魄觉醒》](https://www.3dmgame.com/news/202410/3905710.html)
+
++ [爱与创意的游戏情书《宇宙机器人》开发幕后花絮](https://www.3dmgame.com/news/202410/3905711.html)
+
++ [《七龙珠 电光炸裂！ZERO》公开燃爆开场动画](https://www.3dmgame.com/news/202410/3905709.html)
+
