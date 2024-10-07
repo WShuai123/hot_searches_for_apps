@@ -51,3 +51,5 @@
 
 + [扎克伯格为妻子打造“保时捷小货车”，自己也购入一辆 911 GT3 Touring](https://m.ithome.com/html/800452.htm)
 
++ [英伟达 CEO 黄仁勋个人身价超英特尔市值，达 1092 亿美元](https://m.ithome.com/html/800416.htm)
+
