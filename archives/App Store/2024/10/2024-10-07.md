@@ -207,3 +207,5 @@
 
 + [WPS Office - 智能AI办公助手](https://itunes.apple.com/cn/app/id599852710?mt=8)
 
++ [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
+

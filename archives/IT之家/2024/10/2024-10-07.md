@@ -41,3 +41,7 @@
 
 + [疑似苹果 M4 MacBook Pro 上手视频曝光，基准测试结果出炉](https://m.ithome.com/html/800410.htm)
 
++ [vivo X200 系列手机支持 4K 120fps、全焦段 10bit log 视频拍摄，号称“拍照堪比一英寸，视频超越一英寸”](https://m.ithome.com/html/800428.htm)
+
++ [12306 客服回应火车票“买长乘短”：可以但不推荐](https://m.ithome.com/html/800400.htm)
+
