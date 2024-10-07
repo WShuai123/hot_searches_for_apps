@@ -35,3 +35,5 @@
 
 + [微软建议：购买新电脑以升级至 Win11](https://m.ithome.com/html/800398.htm)
 
++ [古尔曼：苹果 Apple Intelligence 将于 10 月 28 日与 iOS 18.1 一起推出](https://m.ithome.com/html/800382.htm)
+

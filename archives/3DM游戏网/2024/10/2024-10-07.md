@@ -151,3 +151,9 @@
 
 + [TV动画《夜樱家的大作战》第二季制作决定 新预告公布](https://www.3dmgame.com/news/202410/3905677.html)
 
++ [《MONOMYTH》Steam抢先体验 第一人称地牢探索RPG](https://www.3dmgame.com/news/202410/3905681.html)
+
++ [《749局》豆瓣评分降至4.4 陆川想问自己哪部是烂片](https://www.3dmgame.com/news/202410/3905682.html)
+
++ [《莱莎的炼金工房2》莱莎泳装1/4手办开订 售价4.2万日元](https://www.3dmgame.com/news/202410/3905683.html)
+
