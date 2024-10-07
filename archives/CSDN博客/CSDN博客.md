@@ -127,3 +127,5 @@
 
 + [若依权限设计与自定义新增用户](https://blog.csdn.net/qq_61654952/article/details/142735802)
 
++ [基于微信小程序的成都美食分享系统的设计与实现(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/2403_87479145/article/details/142747297)
+

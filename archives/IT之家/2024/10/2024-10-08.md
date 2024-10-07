@@ -25,3 +25,5 @@
 
 + [华为 nova 13 标准版 / Pro 手机配置曝光： 全玻璃后盖、支持 100W 快充](https://m.ithome.com/html/800478.htm)
 
++ [京东 11.11 献礼开启：iPhone 14 自营 2349 元，速领 20 元神券 + 800 元补贴](https://m.ithome.com/html/800467.htm)
+
