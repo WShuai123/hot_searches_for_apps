@@ -191,3 +191,5 @@
 
 + [网传苹果已取消开发智能戒指 或担心该品类设备影响Apple Watch销量](https://www.3dmgame.com/news/202410/3905699.html)
 
++ [育碧回应被腾讯收购：正定期评估所有战略可能性](https://www.3dmgame.com/news/202410/3905701.html)
+

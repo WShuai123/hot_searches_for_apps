@@ -53,3 +53,5 @@
 
 + [英伟达 CEO 黄仁勋个人身价超英特尔市值，达 1092 亿美元](https://m.ithome.com/html/800416.htm)
 
++ [古尔曼：苹果正逐渐远离产品“一年一更”模式](https://m.ithome.com/html/800465.htm)
+

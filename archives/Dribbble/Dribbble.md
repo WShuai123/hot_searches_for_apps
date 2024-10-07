@@ -151,3 +151,15 @@
 
 + [BlackBull Logo Reveal Animation](https://dribbble.com/shots/)
 
++ [Evergreen church](https://dribbble.com/shots/)
+
++ [Deezer - Logo Redesign](https://dribbble.com/shots/)
+
++ [Aircraft Monitoring Web UI](https://dribbble.com/shots/)
+
++ [Funny monkey logo](https://dribbble.com/shots/)
+
++ [MJ / JM monogram](https://dribbble.com/shots/)
+
++ [Logos & Marks Vol.7](https://dribbble.com/shots/)
+

@@ -211,3 +211,7 @@
 
 + [安逸花-分期贷款信用借款快速借钱平台](https://itunes.apple.com/cn/app/id1098542282?mt=8)
 
++ [大麦 - 演出、体育购票平台](https://itunes.apple.com/cn/app/id513829338?mt=8)
+
++ [百度极速版](https://itunes.apple.com/cn/app/id1281873118?mt=8)
+
