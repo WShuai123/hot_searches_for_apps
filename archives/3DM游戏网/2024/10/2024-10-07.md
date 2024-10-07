@@ -127,3 +127,19 @@
 
 + [曝《铁拳8》比赛 万代南梦宫逼迫中国最强选手XCC“弃权”](https://www.3dmgame.com/news/202410/3905661.html)
 
++ [小岛秀夫反复澄清《死亡搁浅2》开发进展情况](https://www.3dmgame.com/news/202410/3905674.html)
+
++ [又有高管出走 《彩虹六号》团队副总裁离开育碧](https://www.3dmgame.com/news/202410/3905675.html)
+
++ [《光环》虚幻5宣传片被揪出正确高管 玩家质疑《光环》还有救吗](https://www.3dmgame.com/news/202410/3905676.html)
+
++ [画面看起来很能打 网友分享AI生成的《GTA4》](https://www.3dmgame.com/news/202410/3905669.html)
+
++ [《星空》MOD将“星际之门”网络融入游戏宇宙](https://www.3dmgame.com/news/202410/3905670.html)
+
++ [《名侦探皮卡丘》一周年纪念活动重磅消息结果就这？](https://www.3dmgame.com/news/202410/3905671.html)
+
++ [《MONPIC》Steam上线 小龙与少女的温馨冒险物语](https://www.3dmgame.com/news/202410/3905672.html)
+
++ [板垣伴信工作室宣布解散 成立四年未能产出一款游戏](https://www.3dmgame.com/news/202410/3905673.html)
+

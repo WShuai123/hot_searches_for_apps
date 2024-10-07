@@ -151,3 +151,11 @@
 
 + [网络安全概述：从认知到实践](https://blog.csdn.net/l1x1n0/article/details/142704870)
 
++ [Pytorch实现心跳信号分类识别(支持LSTM,GRU,TCN模型）](https://blog.csdn.net/guyuealian/article/details/142714205)
+
++ [【Mybatis篇】Mybatis的注解开发](https://blog.csdn.net/m0_74202856/article/details/142729982)
+
++ [消费者Rebalance机制](https://blog.csdn.net/zhengzhaoyang122/article/details/142672689)
+
++ [电子信息类专业技术学习及比赛路线总结（大一到大三）](https://blog.csdn.net/TNT_JQR/article/details/142732554)
+
