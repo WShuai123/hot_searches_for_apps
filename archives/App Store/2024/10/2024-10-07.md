@@ -209,3 +209,5 @@
 
 + [测测-星座心理情感问答社区](https://itunes.apple.com/cn/app/id756771906?mt=8)
 
++ [安逸花-分期贷款信用借款快速借钱平台](https://itunes.apple.com/cn/app/id1098542282?mt=8)
+

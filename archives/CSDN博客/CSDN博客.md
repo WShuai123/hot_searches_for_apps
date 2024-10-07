@@ -185,3 +185,17 @@
 
 + [Spring MVC](https://blog.csdn.net/weixin_63314150/article/details/142731516)
 
++ [【大数据】Flink CDC 实时同步mysql数据](https://blog.csdn.net/zhangcongyi420/article/details/142730700)
+
++ [【愚公系列】《AIGC辅助软件开发》018-AI辅助后端编程：快速生成接口文档](https://blog.csdn.net/aa2528877987/article/details/142733281)
+
++ [YOLO11改进|注意力机制篇|引入上下文锚注意力机制CAA](https://blog.csdn.net/A1983Z/article/details/142724520)
+
++ [css如何制作瀑布流](https://blog.csdn.net/BANaanaa/article/details/142731050)
+
++ [python数据分析与可视化介绍](https://blog.csdn.net/li060708/article/details/142727947)
+
++ [云计算第四阶段 CLOUD2周目 01-03](https://blog.csdn.net/qq_53738093/article/details/142726464)
+
++ [若依权限设计与自定义新增用户](https://blog.csdn.net/qq_61654952/article/details/142735802)
+

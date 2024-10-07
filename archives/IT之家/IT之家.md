@@ -45,3 +45,7 @@
 
 + [12306 客服回应火车票“买长乘短”：可以但不推荐](https://m.ithome.com/html/800400.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT.0.0.71 系统开始推送，消息称该版本即为公测版](https://m.ithome.com/html/800445.htm)
+
++ [玩家制作 Mod 将《黑神话：悟空》变为第一人称射击游戏：用突击步枪干掉二郎神](https://m.ithome.com/html/800407.htm)
+

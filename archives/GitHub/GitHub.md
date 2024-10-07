@@ -27,3 +27,11 @@
 
 + [ErikBjare / gptme](https://github.com/ErikBjare/gptme)
 
++ [hyprwm / Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [Avaiga / taipy](https://github.com/Avaiga/taipy)
+
++ [PaperMC / Paper](https://github.com/PaperMC/Paper)
+
++ [nocodb / nocodb](https://github.com/nocodb/nocodb)
+
