@@ -101,3 +101,7 @@
 
 + [《直到黎明》Steam褒贬不一 优化差、绑定PSN账户](https://www.3dmgame.com/news/202410/3905656.html)
 
++ [《异形：隔离》续作开发中 处于早期阶段](https://www.3dmgame.com/news/202410/3905707.html)
+
++ [2024诺贝尔生理学或医学奖公布！两位科学家共享745万奖金](https://www.3dmgame.com/news/202410/3905708.html)
+
