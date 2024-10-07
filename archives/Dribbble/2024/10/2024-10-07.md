@@ -79,3 +79,15 @@
 
 + [Finance service - Mobile app](https://dribbble.com/shots/)
 
++ [Puffilo : Bites of Cloud-Like Bliss](https://dribbble.com/shots/)
+
++ [Task.Co - Task Management Dashboard](https://dribbble.com/shots/)
+
++ [Programming Learning Platform](https://dribbble.com/shots/)
+
++ [Pitch Deck - Infinity : Production House](https://dribbble.com/shots/)
+
++ [Tiimi - Weekly Calendar View in SaaS HR Management System](https://dribbble.com/shots/)
+
++ [Event UI/UX Mobile App Design - Full Screen](https://dribbble.com/shots/)
+

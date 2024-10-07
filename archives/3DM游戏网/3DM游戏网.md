@@ -143,3 +143,11 @@
 
 + [板垣伴信工作室宣布解散 成立四年未能产出一款游戏](https://www.3dmgame.com/news/202410/3905673.html)
 
++ [《致命解药》Steam抢先体验 美女僵尸生存射击](https://www.3dmgame.com/news/202410/3905679.html)
+
++ [英伟达黄仁勋身价突破千亿 超越英特尔市值](https://www.3dmgame.com/news/202410/3905678.html)
+
++ [RTX 4090/4090D正式停产 4080 SUPER也快了](https://www.3dmgame.com/news/202410/3905680.html)
+
++ [TV动画《夜樱家的大作战》第二季制作决定 新预告公布](https://www.3dmgame.com/news/202410/3905677.html)
+

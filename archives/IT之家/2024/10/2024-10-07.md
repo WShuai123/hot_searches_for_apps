@@ -33,3 +33,5 @@
 
 + [铁路 12306：候补订单的兑现率基本在 70% 以上](https://m.ithome.com/html/800369.htm)
 
++ [微软建议：购买新电脑以升级至 Win11](https://m.ithome.com/html/800398.htm)
+
