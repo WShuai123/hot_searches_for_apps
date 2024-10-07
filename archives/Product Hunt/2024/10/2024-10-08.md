@@ -103,3 +103,7 @@
 
 + [Cursor Usage Counter](https://www.producthunt.com/posts/cursor-usage-counter)
 
++ [NVLM 1.0](https://www.producthunt.com/posts/nvlm-1-0)
+
++ [Jammin](https://www.producthunt.com/posts/jammin-2)
+

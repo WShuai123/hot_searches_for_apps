@@ -129,3 +129,7 @@
 
 + [基于微信小程序的成都美食分享系统的设计与实现(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/2403_87479145/article/details/142747297)
 
++ [基于Python+Dango的大数据电商用户消费行为分析系统](https://blog.csdn.net/2302_81134928/article/details/142712141)
+
++ [走进异常类的世界，自定义业务异常类实现指南](https://blog.csdn.net/2301_80350265/article/details/142723831)
+
