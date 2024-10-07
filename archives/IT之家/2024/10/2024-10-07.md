@@ -55,3 +55,5 @@
 
 + [古尔曼：苹果正逐渐远离产品“一年一更”模式](https://m.ithome.com/html/800465.htm)
 
++ [消息称小米 SU7 国庆新增锁单破 6K，现锁单需等待 22~28 周](https://m.ithome.com/html/800451.htm)
+

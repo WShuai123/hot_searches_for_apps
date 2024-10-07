@@ -207,3 +207,7 @@
 
 + [论文阅读：Attention is All you Need](https://blog.csdn.net/OctYZ/article/details/142729282)
 
++ [解锁空间距离计算的多种方式-含前端、空间数据库、后端](https://blog.csdn.net/yelangkingwuzuhu/article/details/142723024)
+
++ [仿生学习：智能系统设计的灵感与实现](https://blog.csdn.net/2406_83947720/article/details/142744799)
+
