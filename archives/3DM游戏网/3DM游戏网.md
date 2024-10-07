@@ -169,3 +169,13 @@
 
 + [真人剧集《我推的孩子》新预告 宣布11月28日播出](https://www.3dmgame.com/news/202410/3905686.html)
 
++ [京东10月8日启动新玩法“月黑风高”全年力度最大](https://www.3dmgame.com/news/202410/3905692.html)
+
++ [世界上最强大的量子计算机也无法运行《毁灭战士》](https://www.3dmgame.com/news/202410/3905693.html)
+
++ [小米月底召开重磅发布会：小米15系列、平板7系列等大批新品登场](https://www.3dmgame.com/news/202410/3905694.html)
+
++ [中国玩家对欧美游戏更苛刻？统计机构进行数据对比](https://www.3dmgame.com/news/202410/3905690.html)
+
++ [数毛社分析PS5版《寂静岭2：重制版》：性能模式无法稳定60帧](https://www.3dmgame.com/news/202410/3905691.html)
+
