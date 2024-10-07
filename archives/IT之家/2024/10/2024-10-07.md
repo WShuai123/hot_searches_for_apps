@@ -49,3 +49,5 @@
 
 + [玩家制作 Mod 将《黑神话：悟空》变为第一人称射击游戏：用突击步枪干掉二郎神](https://m.ithome.com/html/800407.htm)
 
++ [扎克伯格为妻子打造“保时捷小货车”，自己也购入一辆 911 GT3 Touring](https://m.ithome.com/html/800452.htm)
+

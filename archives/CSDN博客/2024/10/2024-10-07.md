@@ -199,3 +199,11 @@
 
 + [若依权限设计与自定义新增用户](https://blog.csdn.net/qq_61654952/article/details/142735802)
 
++ [【Python】Python知识总结浅析](https://blog.csdn.net/wnm23/article/details/142729359)
+
++ [数据分析案例-机器学习工程师薪资数据可视化分析](https://blog.csdn.net/m0_64336780/article/details/138705547)
+
++ [Wannacry2.0勒索病毒分析----小白流深度解析](https://blog.csdn.net/weixin_49009841/article/details/142740246)
+
++ [论文阅读：Attention is All you Need](https://blog.csdn.net/OctYZ/article/details/142729282)
+
