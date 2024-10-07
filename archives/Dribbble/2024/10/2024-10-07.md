@@ -93,3 +93,21 @@
 
 + [To-do List Visual Identity](https://dribbble.com/shots/)
 
++ [Experience Dance - Landing Page](https://dribbble.com/shots/)
+
++ [Doru DAO animation](https://dribbble.com/shots/)
+
++ [Lorem Ipsum landing page](https://dribbble.com/shots/)
+
++ [UI/UX Design for AppFlowly CRM - AI collaborative workspace](https://dribbble.com/shots/)
+
++ [Qure branding interaction](https://dribbble.com/shots/)
+
++ [Letter e for energy logo design: droplet + leaf](https://dribbble.com/shots/)
+
++ [Property Management Dashboard UI Kit](https://dribbble.com/shots/)
+
++ [MeetHub - Meeting Collaboration Saas Website Landing Page](https://dribbble.com/shots/)
+
++ [Cat and cup](https://dribbble.com/shots/)
+

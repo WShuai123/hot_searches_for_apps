@@ -167,3 +167,13 @@
 
 + [Excel中的屠龙大招](https://blog.csdn.net/m0_57158496/article/details/142730457)
 
++ [【AIGC】VoiceControl for ChatGPT指南：轻松开启ChatGPT语音对话模式](https://blog.csdn.net/2201_75539691/article/details/142705913)
+
++ [【机器学习-无监督学习】概率图模型](https://blog.csdn.net/Morse_Chen/article/details/142722681)
+
++ [LabVIEW提高开发效率技巧----点阵图（XY Graph）](https://blog.csdn.net/bjcyck/article/details/142735442)
+
++ [【MySQL】—— MySQL表的增删改查（CRUD）](https://blog.csdn.net/2401_86777036/article/details/142735301)
+
++ [【Linux】信号知识三把斧——信号的产生、保存和处理](https://blog.csdn.net/hanwangyyds/article/details/142312209)
+

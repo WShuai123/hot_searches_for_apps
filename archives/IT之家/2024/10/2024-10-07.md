@@ -37,3 +37,5 @@
 
 + [古尔曼：苹果 Apple Intelligence 将于 10 月 28 日与 iOS 18.1 一起推出](https://m.ithome.com/html/800382.htm)
 
++ [男子买二手小米 SU7，购车后遭原车主远程锁车](https://m.ithome.com/html/800434.htm)
+

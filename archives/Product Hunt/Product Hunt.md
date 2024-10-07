@@ -101,3 +101,21 @@
 
 + [buzzabout](https://www.producthunt.com/posts/buzzabout)
 
++ [IndieMerger](https://www.producthunt.com/posts/indiemerger-2)
+
++ [islet](https://www.producthunt.com/posts/islet)
+
++ [Firebender](https://www.producthunt.com/posts/firebender-2)
+
++ [Dashworks Bots](https://www.producthunt.com/posts/dashworks-bots)
+
++ [TabsMagic](https://www.producthunt.com/posts/tabsmagic)
+
++ [RepoCloud.io](https://www.producthunt.com/posts/repocloud-io-1)
+
++ [OpenBB Terminal](https://www.producthunt.com/posts/openbb-terminal)
+
++ [Opencord AI](https://www.producthunt.com/posts/opencord-ai-2)
+
++ [Measurementplan](https://www.producthunt.com/posts/measurementplan)
+
