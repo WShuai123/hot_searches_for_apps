@@ -75,3 +75,7 @@
 
 + [31/32 – Vegas Devils](https://dribbble.com/shots/)
 
++ [Valor Offroad – art direction](https://dribbble.com/shots/)
+
++ [Finance service - Mobile app](https://dribbble.com/shots/)
+
