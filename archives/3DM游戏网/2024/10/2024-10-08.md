@@ -225,3 +225,13 @@
 
 + [年底国产旗舰扎堆杀到！vivo冲击连续四年国产销量第一：X200系列要来了](https://www.3dmgame.com/news/202410/3905764.html)
 
++ [悬疑惊悚《瑞秋的自杀惨案》 现已登陆 PlayStation 5](https://www.3dmgame.com/news/202410/3905772.html)
+
++ [模拟经营《药剂大亨》现已发布1.0版本——你的药剂帝国等待着你！](https://www.3dmgame.com/news/202410/3905773.html)
+
++ [模拟上万军团互相战斗，中世纪奇幻RTS《要战便战》正式版现已发布！](https://www.3dmgame.com/news/202410/3905771.html)
+
++ [《幽霾》steam免费试玩开启！融合推理、生存与怪谈背景的社交游戏！](https://www.3dmgame.com/news/202410/3905770.html)
+
++ [雷军：小米SU7十月冲刺生产2万辆 ！交付2万辆](https://www.3dmgame.com/news/202410/3905769.html)
+

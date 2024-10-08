@@ -217,3 +217,11 @@
 
 + [SQL语法学习](https://blog.csdn.net/qq_43556680/article/details/142736004)
 
++ [MS SQL Server 实战 统计与汇总重复记录](https://blog.csdn.net/michaelline/article/details/142753493)
+
++ [YOLOv5复现（论文复现）](https://blog.csdn.net/weixin_62765017/article/details/142725017)
+
++ [李飞飞：我不知道什么是AGI](https://blog.csdn.net/AIBigModel/article/details/142744657)
+
++ [机器学习中的并行与分布式深度学习：C/C++实现详解](https://blog.csdn.net/2406_83947720/article/details/142748654)
+

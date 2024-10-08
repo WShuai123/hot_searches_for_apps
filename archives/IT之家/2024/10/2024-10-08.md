@@ -55,3 +55,5 @@
 
 + [2024 金摇杆奖回应《黑神话：悟空》仅获一项提名：“年度最佳游戏”提名还没公布](https://m.ithome.com/html/800584.htm)
 
++ [微博鸿蒙版开启公测，核心功能已在华为 HarmonyOS NEXT 系统落地](https://m.ithome.com/html/800594.htm)
+

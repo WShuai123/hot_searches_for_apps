@@ -147,3 +147,5 @@
 
 + [General Collaboration](https://www.producthunt.com/posts/general-collaboration)
 
++ [Eddie AI](https://www.producthunt.com/posts/eddie-ai)
+
