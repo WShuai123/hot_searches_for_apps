@@ -101,3 +101,33 @@
 
 + [【前端】-音乐播放器（源代码和结构讲解，大家可以将自己喜欢的歌曲添加到数据当中，js实现页面动态显示音乐）](https://blog.csdn.net/2301_81253185/article/details/142731617)
 
++ [【艾思科蓝】Java Web开发实战：从零到一构建动态网站](https://blog.csdn.net/weixin_73295475/article/details/142745721)
+
++ [嵌入式硬件设计知识详解](https://blog.csdn.net/hh867308122/article/details/142746242)
+
++ [图像数据增强库综述：10个强大图像增强工具对比与分析](https://blog.csdn.net/m0_46510245/article/details/142751936)
+
++ [Linux--IO模型与高级IO重要概念](https://blog.csdn.net/m0_74068921/article/details/142742714)
+
++ [使用 Python 实现无人机实时路径规划的 MPC 算法](https://blog.csdn.net/qq_42568323/article/details/142738342)
+
++ [用人工智能写作：专业作家利用 ChatGPT 的五种方式 ✍️](https://blog.csdn.net/qq_44866828/article/details/142731160)
+
++ [如何在 Kubernetes 上部署 Spark](https://blog.csdn.net/i042416/article/details/142748196)
+
++ [深入理解CSS弹性盒子模型（Flexbox）](https://blog.csdn.net/2301_79175212/article/details/142721466)
+
++ [YOLOv11 vs YOLOv8：谁才是真正的AI检测之王？](https://blog.csdn.net/qq_42589613/article/details/142729649)
+
++ [kubernetes 中的微服务](https://blog.csdn.net/H945572/article/details/142679437)
+
++ [微服务es+Kibana解析部署使用全流程](https://blog.csdn.net/m0_71240584/article/details/142735051)
+
++ [【计算机网络】Tcp/IP五层协议，Udp报文组成，Udp与Tcp的区别](https://blog.csdn.net/yican2580/article/details/142770044)
+
++ [地图可视化的艺术：深入比较Mapbox、OpenLayers、Leaflet和Cesium，不同场景下应如何选择地图库](https://blog.csdn.net/RenGJ010617/article/details/142738382)
+
++ [YOLO11改进|注意力机制篇|引入大核可分离卷积注意力块LSKA](https://blog.csdn.net/A1983Z/article/details/142737858)
+
++ [走进异常类的世界，自定义业务异常类实现指南](https://blog.csdn.net/2301_80350265/article/details/142723831)
+
