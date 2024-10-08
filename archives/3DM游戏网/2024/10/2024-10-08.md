@@ -163,3 +163,9 @@
 
 + [《战争之人2》将于本月推出离线模式 提升用户体验](https://www.3dmgame.com/news/202410/3905727.html)
 
++ [16岁天才玩家突破极限 打穿NES版《俄罗斯方块》](https://www.3dmgame.com/news/202410/3905740.html)
+
++ [电影《最后的里程》宣布引进国内 定档11月9日](https://www.3dmgame.com/news/202410/3905739.html)
+
++ [《星球大战：侍者》的演员抨击迪士尼不为演员挺身而出](https://www.3dmgame.com/news/202410/3905738.html)
+

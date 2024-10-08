@@ -50,3 +50,5 @@
 
 + [高级漏洞篇 | Web大语言模型攻击专题](https://www.freebuf.com/articles/web/410633.html)
 
++ [损失高达1860亿美元，API风险防不胜防](https://www.freebuf.com/articles/412226.html)
+
