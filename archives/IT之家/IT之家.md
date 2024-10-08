@@ -51,3 +51,5 @@
 
 + [腾讯张军：鸿蒙原生版微信会随机向部分用户推送内测邀请，随后登陆“尝鲜”专区](https://m.ithome.com/html/800581.htm)
 
++ [基于华为 HarmonyOS NEXT，WPS 鸿蒙版开启公测](https://m.ithome.com/html/800575.htm)
+

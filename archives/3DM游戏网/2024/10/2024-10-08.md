@@ -207,3 +207,9 @@
 
 + [韩国官营退休基金国民年金公团成《星刃》开发商Shift Up第三大股东 持股6.15%](https://www.3dmgame.com/news/202410/3905757.html)
 
++ [美国法官裁定Epic胜诉 谷歌必须开放第三方应用商店](https://www.3dmgame.com/news/202410/3905760.html)
+
++ [《寂静岭2：重制版》没使用D加密 已被黑客攻破](https://www.3dmgame.com/news/202410/3905761.html)
+
++ [Steam最新一周销量榜 《七龙珠 电光炸裂！ZERO》登顶](https://www.3dmgame.com/news/202410/3905762.html)
+

@@ -197,3 +197,11 @@
 
 + [HCIP--以太网交换安全（二）](https://blog.csdn.net/2401_83878929/article/details/142719322)
 
++ [Bolt.new：终极自动化编程工具](https://blog.csdn.net/XiaoLiuLB/article/details/142724446)
+
++ [Docker 基本管理](https://blog.csdn.net/2201_75549363/article/details/142739601)
+
++ [数据库-分库分表](https://blog.csdn.net/m0_65419210/article/details/142736176)
+
++ [什么是方差](https://blog.csdn.net/u013172930/article/details/142748438)
+

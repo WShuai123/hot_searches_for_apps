@@ -105,3 +105,19 @@
 
 + [Micro Space - Website Case Study](https://dribbble.com/shots/)
 
++ [Payment app design](https://dribbble.com/shots/)
+
++ [Shopping](https://dribbble.com/shots/)
+
++ [Zen2Fit Brand Identity](https://dribbble.com/shots/)
+
++ [Development](https://dribbble.com/shots/)
+
++ [Trenning - Quiz List View in a SaaS Learning Management System](https://dribbble.com/shots/)
+
++ [🎶 Let's all go to the printer 🎶](https://dribbble.com/shots/)
+
++ [Cute Bear Stickers](https://dribbble.com/shots/)
+
++ [B2B SaaS To do list Pitch Deck](https://dribbble.com/shots/)
+
