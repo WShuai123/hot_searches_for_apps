@@ -229,3 +229,5 @@
 
 + [【qt】QQ仿真项目2](https://blog.csdn.net/qq_74047911/article/details/142616821)
 
++ [嵌入式硬件设计知识详解](https://blog.csdn.net/hh867308122/article/details/142746242)
+

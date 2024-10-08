@@ -139,3 +139,19 @@
 
 + [Friendly Chauffeur Logo](https://dribbble.com/shots/)
 
++ [TwentyFifty unused symbol](https://dribbble.com/shots/)
+
++ [Incremental Computing / Feldera](https://dribbble.com/shots/)
+
++ [Carousel Posters](https://dribbble.com/shots/)
+
++ [Life Care - UI Kit Charts (Sources???)](https://dribbble.com/shots/)
+
++ [OLIVER CLUB BARBER SHOP](https://dribbble.com/shots/)
+
++ [GourmetGrove – Mobile App UI Design for Restaurant](https://dribbble.com/shots/)
+
++ [Night Sky Logo](https://dribbble.com/shots/)
+
++ [Board game | Logo design](https://dribbble.com/shots/)
+

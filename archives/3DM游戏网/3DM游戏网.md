@@ -237,3 +237,15 @@
 
 + [开服也能延迟？《暗黑4：憎恨之躯》Steam多半差评](https://www.3dmgame.com/news/202410/3905774.html)
 
++ [《荒野大镖客：救赎》宣布登陆PC 10月29日发售](https://www.3dmgame.com/news/202410/3905779.html)
+
++ [《赛博朋克2077》官推庆祝《寂静岭2：重制版》发售](https://www.3dmgame.com/news/202410/3905780.html)
+
++ [英特尔新旗舰CPU Ultra 285K游戏性能不及14900K](https://www.3dmgame.com/news/202410/3905778.html)
+
++ [《直到黎明：重制版》Steam在线峰值仅2607人](https://www.3dmgame.com/news/202410/3905775.html)
+
++ [科琳·胡佛《想起他》将拍电影 北美定档2026年2月](https://www.3dmgame.com/news/202410/3905776.html)
+
++ [韩游《王权与自由》上线7天 玩家超过300万](https://www.3dmgame.com/news/202410/3905777.html)
+
