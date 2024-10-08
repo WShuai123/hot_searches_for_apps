@@ -147,3 +147,5 @@
 
 + [10.7学习](https://blog.csdn.net/2401_87363162/article/details/142747174)
 
++ [[C++][第三方库][RabbitMq]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142712555)
+
