@@ -41,3 +41,5 @@
 
 + [华为纯血鸿蒙 HarmonyOS NEXT 公测申请现已开启](https://m.ithome.com/html/800563.htm)
 
++ [纯血鸿蒙也能“砍一刀”，拼多多上架华为 HarmonyOS NEXT 应用商店](https://m.ithome.com/html/800571.htm)
+

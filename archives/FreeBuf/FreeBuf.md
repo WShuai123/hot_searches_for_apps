@@ -54,3 +54,5 @@
 
 + [深入分析CVE-2023-22518：Confluence中的身份验证绕过实例](https://www.freebuf.com/articles/web/411810.html)
 
++ [Apache Avro SDK曝关键漏洞，可在Java中执行任意代码](https://www.freebuf.com/news/412231.html)
+

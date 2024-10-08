@@ -91,3 +91,9 @@
 
 + [Apparel Brand Identity](https://dribbble.com/shots/)
 
++ [AI generation Text and Image to Video Dashboard](https://dribbble.com/shots/)
+
++ [Litverse | Mobile App Design 🔥](https://dribbble.com/shots/)
+
++ [pixelplus : Architect Studio - Visual Identity](https://dribbble.com/shots/)
+

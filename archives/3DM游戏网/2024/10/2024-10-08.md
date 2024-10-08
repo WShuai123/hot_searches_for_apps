@@ -187,3 +187,13 @@
 
 + [掏游戏王卡牌的短跑运动员晒科乐美赠送的大礼包 超大青眼白龙卡牌](https://www.3dmgame.com/news/202410/3905749.html)
 
++ [荣耀破千万，Quantic Dream巨献：《底特律：化身为人》《超凡双生》《暴雨》携手最低2.5折](https://www.3dmgame.com/news/202410/3905751.html)
+
++ [改编动画《擅长逃跑的殿下》官方宣布第二季制作决定](https://www.3dmgame.com/news/202410/3905752.html)
+
++ [东方神主ZUN找回失窃X账号 博丽神主重新归位](https://www.3dmgame.com/news/202410/3905753.html)
+
++ [《生化危机2：重制版》宣布年内登陆iOS/Mac 定价3990日元](https://www.3dmgame.com/news/202410/3905754.html)
+
++ [2024年，哪里还可以玩有趣的魔兽RPG？](https://www.3dmgame.com/news/202410/3905750.html)
+
