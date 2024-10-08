@@ -53,3 +53,5 @@
 
 + [基于华为 HarmonyOS NEXT，WPS 鸿蒙版开启公测](https://m.ithome.com/html/800575.htm)
 
++ [2024 金摇杆奖回应《黑神话：悟空》仅获一项提名：“年度最佳游戏”提名还没公布](https://m.ithome.com/html/800584.htm)
+

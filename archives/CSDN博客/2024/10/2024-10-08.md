@@ -211,3 +211,9 @@
 
 + [【计算机网络】详谈TCP协议确认应答机制&捎带应答机制&超市重传机制&连接管理机制&流量管理机制&滑动窗口&拥塞控制&延迟应答](https://blog.csdn.net/m0_74265792/article/details/142651798)
 
++ [GaussDB高智能--数据库智能化发展史&自治运维技术](https://blog.csdn.net/GaussDB/article/details/142649465)
+
++ [Sharding 分页原理分析](https://blog.csdn.net/zhengzhaoyang122/article/details/142621660)
+
++ [SQL语法学习](https://blog.csdn.net/qq_43556680/article/details/142736004)
+

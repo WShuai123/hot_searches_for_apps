@@ -121,3 +121,21 @@
 
 + [B2B SaaS To do list Pitch Deck](https://dribbble.com/shots/)
 
++ [Stock Trading App](https://dribbble.com/shots/)
+
++ [CDC Gaming Logo Redesign](https://dribbble.com/shots/)
+
++ [FysioVitalis - Logo Design](https://dribbble.com/shots/)
+
++ [Nuance - Sales Marketing Dashboard](https://dribbble.com/shots/)
+
++ [Autumn Doodles](https://dribbble.com/shots/)
+
++ [Halloween Monsters Collection](https://dribbble.com/shots/)
+
++ [Finance Management Mobile App](https://dribbble.com/shots/)
+
++ [Freddie](https://dribbble.com/shots/)
+
++ [Friendly Chauffeur Logo](https://dribbble.com/shots/)
+

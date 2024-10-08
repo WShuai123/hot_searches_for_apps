@@ -25,3 +25,13 @@
 
 + [nocodb / nocodb](https://github.com/nocodb/nocodb)
 
++ [e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
++ [keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [keras-team / keras](https://github.com/keras-team/keras)
+

@@ -225,3 +225,11 @@
 
 + [小猿口算 - 中小学检查作业和学习工具](https://itunes.apple.com/cn/app/id1325419855?mt=8)
 
++ [知到.](https://itunes.apple.com/cn/app/id1255358463?mt=8)
+
++ [招商银行](https://itunes.apple.com/cn/app/id392899425?mt=8)
+
++ [扫描全能王-手机扫描仪 & PDF图片转文字](https://itunes.apple.com/cn/app/id388627783?mt=8)
+
++ [咪咕视频-上咪咕看《雪迷宫》](https://itunes.apple.com/cn/app/id787130974?mt=8)
+
