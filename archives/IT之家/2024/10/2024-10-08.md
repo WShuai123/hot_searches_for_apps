@@ -57,3 +57,5 @@
 
 + [微博鸿蒙版开启公测，核心功能已在华为 HarmonyOS NEXT 系统落地](https://m.ithome.com/html/800594.htm)
 
++ [华为 Pura 70 等 8 款设备开启 HarmonyOS NEXT 花粉 Beta 版尝鲜招募，目标系统“Beta2”](https://m.ithome.com/html/800661.htm)
+

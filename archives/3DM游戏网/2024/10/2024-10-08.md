@@ -235,3 +235,5 @@
 
 + [雷军：小米SU7十月冲刺生产2万辆 ！交付2万辆](https://www.3dmgame.com/news/202410/3905769.html)
 
++ [开服也能延迟？《暗黑4：憎恨之躯》Steam多半差评](https://www.3dmgame.com/news/202410/3905774.html)
+

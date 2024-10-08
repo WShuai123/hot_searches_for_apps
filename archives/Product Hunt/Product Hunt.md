@@ -149,3 +149,5 @@
 
 + [Eddie AI](https://www.producthunt.com/posts/eddie-ai)
 
++ [Jam for Customer Support](https://www.producthunt.com/posts/jam-for-customer-support)
+
