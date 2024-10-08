@@ -46,3 +46,7 @@
 
 + [CC1链——全网最菜的分析思路](https://www.freebuf.com/articles/web/410767.html)
 
++ [新型僵尸网络针对 100 个国家发起 30 万次 DDoS 攻击](https://www.freebuf.com/news/412218.html)
+
++ [高级漏洞篇 | Web大语言模型攻击专题](https://www.freebuf.com/articles/web/410633.html)
+

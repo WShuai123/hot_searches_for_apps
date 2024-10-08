@@ -147,3 +147,15 @@
 
 + [OpenCV-OCR](https://blog.csdn.net/2301_77698138/article/details/142731214)
 
++ [【AI大模型】深入Transformer架构：编码器部分的实现与解析（下）](https://blog.csdn.net/2301_76820214/article/details/142706635)
+
++ [Github优质项目推荐 - 第五期](https://blog.csdn.net/qq_43657722/article/details/142735541)
+
++ [如何在 Kubernetes 上部署 Spark](https://blog.csdn.net/i042416/article/details/142748196)
+
++ [RabbitMQ事务模块](https://blog.csdn.net/weixin_72953218/article/details/141999876)
+
++ [vue2路由和vue3路由区别及原理](https://blog.csdn.net/qq_25416827/article/details/142746748)
+
++ [基于SpringBoot民宿预订系统小程序【附源码】](https://blog.csdn.net/2402_84112588/article/details/142748811)
+

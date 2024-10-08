@@ -137,3 +137,29 @@
 
 + [《寂静岭2》原版总监对Bloober重制版非常满意](https://www.3dmgame.com/news/202410/3905716.html)
 
++ [Switch推送19.0.0版本系统更新 改进整体稳定性](https://www.3dmgame.com/news/202410/3905737.html)
+
++ [华纳兄弟游戏招募开发者 或将启动DC宇宙3A大作](https://www.3dmgame.com/news/202410/3905736.html)
+
++ [踏浪而行，夺宝求生！多人合作APRG《Surfpunk》预告片公开](https://www.3dmgame.com/news/202410/3905735.html)
+
++ [类银河恶魔城动作游戏《灵魂熔解》现已在Steam平台正式推出](https://www.3dmgame.com/news/202410/3905734.html)
+
++ [前暴雪制作人谈西方工作室：少责怪玩家 不要ZZZQ](https://www.3dmgame.com/news/202410/3905733.html)
+
++ [经典即时战略游戏新作《盟军敢死队：起源》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905732.html)
+
++ [《七龙珠》声优事务所宣布AI声音战略 悟空今后会说国语了](https://www.3dmgame.com/news/202410/3905731.html)
+
++ [《异度神剑》开发商Monolith Soft正在扩展内部引擎 用于未来游戏](https://www.3dmgame.com/news/202410/3905730.html)
+
++ [《龙腾世纪》主创回应woke批评大骂玩家：该死的游客](https://www.3dmgame.com/news/202410/3905729.html)
+
++ [《堡垒之夜》的迪士尼专属模式可能不会允许米老鼠手持冲锋枪](https://www.3dmgame.com/news/202410/3905728.html)
+
++ [《漫游驿站Wanderstop》宣布延期至2025年 登陆PS5和PC](https://www.3dmgame.com/news/202410/3905726.html)
+
++ [《MainFrames》登陆Steam 桌面创意玩法休闲解谜](https://www.3dmgame.com/news/202410/3905725.html)
+
++ [《战争之人2》将于本月推出离线模式 提升用户体验](https://www.3dmgame.com/news/202410/3905727.html)
+
