@@ -27,3 +27,9 @@
 
 + [京东 11.11 献礼开启：iPhone 14 自营 2349 元，速领 20 元神券 + 800 元补贴](https://m.ithome.com/html/800467.htm)
 
++ [vivo X200 系列手机将搭载自研“公里级无网通信”功能，无网覆盖下可免费实现“无成本通信”](https://m.ithome.com/html/800472.htm)
+
++ [小米 SU7 Ultra 原型车意外现身官方 App，量产版明年一季度发布](https://m.ithome.com/html/800447.htm)
+
++ [比亚迪回应“向员工发放利润奖”：情况属实](https://m.ithome.com/html/800486.htm)
+

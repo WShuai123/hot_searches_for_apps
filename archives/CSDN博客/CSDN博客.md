@@ -137,3 +137,13 @@
 
 + [TypeScript：装饰器](https://blog.csdn.net/ChinaDragon10/article/details/142617468)
 
++ [linux信号 | 信号的补充知识](https://blog.csdn.net/strive_mianyang/article/details/142735978)
+
++ [深入探索Vue3组合式API](https://blog.csdn.net/weixin_74009702/article/details/142726867)
+
++ [基于SpringBoot+Vue+Uniapp的校史馆微信小程序设计与实现(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/qq_45714272/article/details/142747433)
+
++ [【艾思科蓝】Java Web开发实战：从零到一构建动态网站](https://blog.csdn.net/weixin_73295475/article/details/142745721)
+
++ [OpenCV-OCR](https://blog.csdn.net/2301_77698138/article/details/142731214)
+

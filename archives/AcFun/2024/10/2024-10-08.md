@@ -69,3 +69,7 @@
 
 + [千年龙诗](http://www.acfun.cn/v/ac46345951)
 
++ [EXID - Up&Down](http://www.acfun.cn/v/ac46353060)
+
++ [【游戏杂谈】魔性+上头的模拟经营游戏《沙威玛传奇》体验及内容展示 沙威玛，哦沙威玛，有了你，生活美好](http://www.acfun.cn/v/ac46353977)
+

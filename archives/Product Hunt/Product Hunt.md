@@ -107,3 +107,5 @@
 
 + [Jammin](https://www.producthunt.com/posts/jammin-2)
 
++ [HoundDog.ai Static Code Scanner](https://www.producthunt.com/posts/hounddog-ai-static-code-scanner-2)
+
