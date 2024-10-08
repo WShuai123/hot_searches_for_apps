@@ -149,3 +149,5 @@
 
 + [[C++][第三方库][RabbitMq]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142712555)
 
++ [HUAWEI_HCIA_实验指南_Lib1.4_配置通过Telnet登录系统](https://blog.csdn.net/m0_38096339/article/details/142758196)
+

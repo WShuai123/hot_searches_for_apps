@@ -109,3 +109,7 @@
 
 + [《寂静岭2：重制版》Steam在线玩家数不到1.8万 《悟空》第六](https://www.3dmgame.com/news/202410/3905784.html)
 
++ [龙珠迷必玩《七龙珠 电光炸裂！ZERO》MC评分出炉](https://www.3dmgame.com/news/202410/3905787.html)
+
++ [《节奏光剑》上线小甜甜布兰妮音乐包](https://www.3dmgame.com/news/202410/3905786.html)
+
