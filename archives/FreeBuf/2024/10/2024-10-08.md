@@ -52,3 +52,5 @@
 
 + [损失高达1860亿美元，API风险防不胜防](https://www.freebuf.com/articles/412226.html)
 
++ [深入分析CVE-2023-22518：Confluence中的身份验证绕过实例](https://www.freebuf.com/articles/web/411810.html)
+

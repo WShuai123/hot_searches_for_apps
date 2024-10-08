@@ -37,3 +37,7 @@
 
 + [雷军确认：国庆假期期间小米 SU7 锁单量超过 6000 辆](https://m.ithome.com/html/800506.htm)
 
++ [微信华为鸿蒙原生版开始内测邀请，QQ 等超 20 款腾讯 App 陆续适配中](https://m.ithome.com/html/800569.htm)
+
++ [华为纯血鸿蒙 HarmonyOS NEXT 公测申请现已开启](https://m.ithome.com/html/800563.htm)
+

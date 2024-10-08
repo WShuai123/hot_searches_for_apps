@@ -165,3 +165,11 @@
 
 + [计算机网络：物理层 —— 数据的传输方式](https://blog.csdn.net/Zachyy/article/details/142741702)
 
++ [华为Nova12活力版nova 11,FIN-AL60/FOA-AL00手机忘记密码到底怎么解锁无法激活设备已锁定平台工具软件固件使用解决方案](https://blog.csdn.net/menlouxia123/article/details/142742410)
+
++ [通信工程学习：什么是AIOT智能物联网](https://blog.csdn.net/limengshi138392/article/details/142734693)
+
++ [计算机网络——p2p](https://blog.csdn.net/qq_42183367/article/details/142737043)
+
++ [【网络篇】计算机网络——运输层详述（笔记）](https://blog.csdn.net/CXDNW/article/details/142720472)
+

@@ -211,3 +211,11 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [学信网](https://itunes.apple.com/cn/app/id1488854568?mt=8)
+
++ [中国银行](https://itunes.apple.com/cn/app/id399608199?mt=8)
+
++ [招商证券-炒股理财平台](https://itunes.apple.com/cn/app/id1042567321?mt=8)
+
++ [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
+
