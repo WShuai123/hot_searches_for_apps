@@ -101,3 +101,11 @@
 
 + [《堡垒之夜》的迪士尼专属模式可能不会允许米老鼠手持冲锋枪](https://www.3dmgame.com/news/202410/3905728.html)
 
++ [《刺客信条：英灵殿》Steam成就已更新 支持92个](https://www.3dmgame.com/news/202410/3905785.html)
+
++ [《战神：诸神黄昏》确认在PS5 PRo上增强 细节暂未公开](https://www.3dmgame.com/news/202410/3905782.html)
+
++ [官宣：支付宝鸿蒙版已上线](https://www.3dmgame.com/news/202410/3905783.html)
+
++ [《寂静岭2：重制版》Steam在线玩家数不到1.8万 《悟空》第六](https://www.3dmgame.com/news/202410/3905784.html)
+

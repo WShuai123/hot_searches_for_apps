@@ -25,3 +25,5 @@
 
 + [华为 Pura 70 等 8 款设备开启 HarmonyOS NEXT 花粉 Beta 版尝鲜招募，目标系统“Beta2”](https://m.ithome.com/html/800661.htm)
 
++ [2024 诺贝尔物理学奖揭晓：机器学习奠基人 John J. Hopfield 和 Geoffrey E. Hinton 获奖](https://m.ithome.com/html/800682.htm)
+
