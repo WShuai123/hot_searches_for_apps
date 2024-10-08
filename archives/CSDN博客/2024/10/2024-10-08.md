@@ -225,3 +225,7 @@
 
 + [机器学习中的并行与分布式深度学习：C/C++实现详解](https://blog.csdn.net/2406_83947720/article/details/142748654)
 
++ [华为 HCIP-Datacom H12-821 题库 (33)](https://blog.csdn.net/2301_77362941/article/details/142751176)
+
++ [【qt】QQ仿真项目2](https://blog.csdn.net/qq_74047911/article/details/142616821)
+
