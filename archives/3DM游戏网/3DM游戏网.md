@@ -169,3 +169,15 @@
 
 + [《星球大战：侍者》的演员抨击迪士尼不为演员挺身而出](https://www.3dmgame.com/news/202410/3905738.html)
 
++ [经典游戏重置版《蒙特祖玛的复仇 40周年纪念版》上架Steam](https://www.3dmgame.com/news/202410/3905745.html)
+
++ [《Global Farmer》登陆Steam 全球数据农业经营](https://www.3dmgame.com/news/202410/3905746.html)
+
++ [生物收集类角色扮演游戏《黄泉路探险队》现已在Steam平台正式推出](https://www.3dmgame.com/news/202410/3905741.html)
+
++ [《黑神话：悟空》Steam销量2100万份 收入超10亿美元](https://www.3dmgame.com/news/202410/3905742.html)
+
++ [高价AI学习机市场大受追捧 究竟是不是智商税](https://www.3dmgame.com/news/202410/3905743.html)
+
++ [《深空梦里人2》Steam试玩版10月14日上线 限时提供](https://www.3dmgame.com/news/202410/3905744.html)
+

@@ -35,3 +35,5 @@
 
 + [消息称 vivo X200 Pro 手机独享 200Mp 大底潜望镜等配置，全系机型支持长焦微距](https://m.ithome.com/html/800448.htm)
 
++ [雷军确认：国庆假期期间小米 SU7 锁单量超过 6000 辆](https://m.ithome.com/html/800506.htm)
+
