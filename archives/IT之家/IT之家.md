@@ -43,3 +43,5 @@
 
 + [纯血鸿蒙也能“砍一刀”，拼多多上架华为 HarmonyOS NEXT 应用商店](https://m.ithome.com/html/800571.htm)
 
++ [宋紫薇回应从理想汽车离职：创业一直是我心里一颗种子，希望去探索 AI 智能硬件赛道](https://m.ithome.com/html/800589.htm)
+

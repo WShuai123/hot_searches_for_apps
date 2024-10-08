@@ -183,3 +183,13 @@
 
 + [雷池+frp 批量设置proxy_protocol实现真实IP透传](https://blog.csdn.net/Trc0g/article/details/142755501)
 
++ [遗传算法与深度学习实战（16）——神经网络超参数优化](https://blog.csdn.net/LOVEmy134611/article/details/142750215)
+
++ [MySQL 篇-深入了解视图、SQL 优化（主键优化、order by 优化、group by 优化、update 优化等）](https://blog.csdn.net/Tingfeng__/article/details/142743404)
+
++ [与C++类和对象的宿命（下）](https://blog.csdn.net/2301_80863610/article/details/142742144)
+
++ [【分布式微服务云原生】Redis持久化策略：RDB vs AOF](https://blog.csdn.net/u010425839/article/details/142733936)
+
++ [API 数据接口：使用操作流程与安全指南](https://blog.csdn.net/Noah_ZX/article/details/142741594)
+

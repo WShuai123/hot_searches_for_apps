@@ -56,3 +56,5 @@
 
 + [Apache Avro SDK曝关键漏洞，可在Java中执行任意代码](https://www.freebuf.com/news/412231.html)
 
++ [OXO：一款针对Orchestration框架的安全扫描引擎](https://www.freebuf.com/sectool/412159.html)
+
