@@ -213,3 +213,15 @@
 
 + [Steam最新一周销量榜 《七龙珠 电光炸裂！ZERO》登顶](https://www.3dmgame.com/news/202410/3905762.html)
 
++ [避免升级出现问题：微软建议用户买新电脑安装Win11](https://www.3dmgame.com/news/202410/3905768.html)
+
++ [歌手胡彦斌也玩《黑神话》：二周目都通关了](https://www.3dmgame.com/news/202410/3905765.html)
+
++ [《Pathologic 3》Steam上线 瘟疫背景恐怖冒险](https://www.3dmgame.com/news/202410/3905766.html)
+
++ [英伟达市值超越微软 成为全球第二大公司！苹果还是第一](https://www.3dmgame.com/news/202410/3905767.html)
+
++ [网友用雷军AI配音恶搞骂人 律师表示已违法](https://www.3dmgame.com/news/202410/3905763.html)
+
++ [年底国产旗舰扎堆杀到！vivo冲击连续四年国产销量第一：X200系列要来了](https://www.3dmgame.com/news/202410/3905764.html)
+
