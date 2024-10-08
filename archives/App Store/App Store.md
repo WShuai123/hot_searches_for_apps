@@ -219,3 +219,9 @@
 
 + [大学搜题酱—教材网课答案全收录](https://itunes.apple.com/cn/app/id1519166316?mt=8)
 
++ [平安证券-股票交易证券开户](https://itunes.apple.com/cn/app/id636344719?mt=8)
+
++ [邮储银行](https://itunes.apple.com/cn/app/id493489515?mt=8)
+
++ [小猿口算 - 中小学检查作业和学习工具](https://itunes.apple.com/cn/app/id1325419855?mt=8)
+

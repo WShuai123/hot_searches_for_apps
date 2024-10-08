@@ -197,3 +197,13 @@
 
 + [2024年，哪里还可以玩有趣的魔兽RPG？](https://www.3dmgame.com/news/202410/3905750.html)
 
++ [OPPO Find X8全系标配无网畅聊：不插卡、无Wi-Fi也能通话](https://www.3dmgame.com/news/202410/3905758.html)
+
++ [万代公布《龙珠》40周年纪念周边 悟空发型毛线帽扎眼](https://www.3dmgame.com/news/202410/3905759.html)
+
++ [经典《凡尔赛玫瑰》新动画电影定档2025年1月31日上映](https://www.3dmgame.com/news/202410/3905755.html)
+
++ [数毛社：《光环》系列转向虚幻引擎可以方便移植PS5](https://www.3dmgame.com/news/202410/3905756.html)
+
++ [韩国官营退休基金国民年金公团成《星刃》开发商Shift Up第三大股东 持股6.15%](https://www.3dmgame.com/news/202410/3905757.html)
+
