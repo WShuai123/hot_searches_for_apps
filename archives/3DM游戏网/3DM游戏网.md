@@ -239,3 +239,7 @@
 
 + [联发科发布天玑9400 单核性能提升了35%](https://www.3dmgame.com/news/202410/3905850.html)
 
++ [《光环》转向虚幻5 分析称让登陆PS5变得更容易](https://www.3dmgame.com/news/202410/3905851.html)
+
++ [万代逼迫中国选手弃赛后续：向中国玩家道歉 更改规则允许参赛](https://www.3dmgame.com/news/202410/3905852.html)
+

@@ -69,3 +69,5 @@
 
 + [长城魏建军谈汽车行业：小米 SUV 市场表现可能优于轿车、奇瑞“真的盈利”](https://m.ithome.com/html/800828.htm)
 
++ [王化回应“网友恶搞 AI 雷军配音骂人”：已转给小米法务部](https://m.ithome.com/html/800880.htm)
+
