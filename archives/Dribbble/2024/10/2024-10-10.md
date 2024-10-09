@@ -59,3 +59,15 @@
 
 + [Tarmak by Decathlon - Mountain shoes.](https://dribbble.com/shots/)
 
++ [Letter D compendium](https://dribbble.com/shots/)
+
++ [Data Insights](https://dribbble.com/shots/)
+
++ [Website for an Education Platform ✦ Maskills](https://dribbble.com/shots/)
+
++ [Texas Truck Badge](https://dribbble.com/shots/)
+
++ [The Half Bird](https://dribbble.com/shots/)
+
++ [Fruitful Thoughts](https://dribbble.com/shots/)
+
