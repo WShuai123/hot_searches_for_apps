@@ -27,3 +27,5 @@
 
 + [6.98-9.88 万元，吉利星愿纯电小车正式发布](https://m.ithome.com/html/800953.htm)
 
++ [腾讯推出开源鸿蒙微信 OpenSDK，用于接入分享、收藏和支付等](https://m.ithome.com/html/800871.htm)
+

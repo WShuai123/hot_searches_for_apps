@@ -103,3 +103,9 @@
 
 + [《暗喻幻想：ReFantazio》获M站今年最高评分 官方庆贺](https://www.3dmgame.com/news/202410/3905860.html)
 
++ [格斗游戏《全职猎人NEN×IMPACT》公布甘舒参战预告](https://www.3dmgame.com/news/202410/3905863.html)
+
++ [新增6大狩猎区域《狩猎之道：荒野探险》10月29日发售](https://www.3dmgame.com/news/202410/3905862.html)
+
++ [任天堂发布互动游戏音乐闹钟Alarmo](https://www.3dmgame.com/news/202410/3905861.html)
+

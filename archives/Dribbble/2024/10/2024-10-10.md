@@ -71,3 +71,11 @@
 
 + [Fruitful Thoughts](https://dribbble.com/shots/)
 
++ [Carousel® Script Unused](https://dribbble.com/shots/)
+
++ [Dashboard Design for Crypto Staking Wallet](https://dribbble.com/shots/)
+
++ [D Lettermark](https://dribbble.com/shots/)
+
++ [Veterinary Innovation](https://dribbble.com/shots/)
+
