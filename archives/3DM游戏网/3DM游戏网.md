@@ -161,3 +161,27 @@
 
 + [世嘉联动痛飞机公开 女神异闻录索尼克涂装客机惊艳亮相](https://www.3dmgame.com/news/202410/3905811.html)
 
++ [多人动作类肉鸽游戏《皇家起义战士》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905821.html)
+
++ [《征服之歌》DLC“Vanir”今冬发售 未来将登陆主机和移动端](https://www.3dmgame.com/news/202410/3905822.html)
+
++ [玩家吐槽《寂静岭2：重制版》存档本地化 呼吁开放云存储](https://www.3dmgame.com/news/202410/3905823.html)
+
++ [电影《海洋奇缘2》确定引进国内 档期待定](https://www.3dmgame.com/news/202410/3905817.html)
+
++ [惠普戴尔苹果笔记本市占率新低 华为小米等国产崛起](https://www.3dmgame.com/news/202410/3905818.html)
+
++ [《三国志8重制版》角色统率/魅力排行榜 曹操刘备居首](https://www.3dmgame.com/news/202410/3905819.html)
+
++ [策略解谜冒险游戏《特斯拉之家》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905820.html)
+
++ [2.5D动作游戏《巴塞罗那旅馆》宣布延期至2025年初](https://www.3dmgame.com/news/202410/3905812.html)
+
++ [金亨泰谈《胜利女神》开发趣闻：所有东西都要晃动](https://www.3dmgame.com/news/202410/3905813.html)
+
++ [《暗黑破坏神4：憎恨之躯》发布遭差评 但Steam平台玩家数创历史新高](https://www.3dmgame.com/news/202410/3905814.html)
+
++ [诺兰新片再次与环球影业合作 马特·达蒙主演2026年上映](https://www.3dmgame.com/news/202410/3905816.html)
+
++ [英国归还非洲最后的海外岛屿 业界担心.io域名将消失](https://www.3dmgame.com/news/202410/3905815.html)
+

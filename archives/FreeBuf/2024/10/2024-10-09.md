@@ -48,3 +48,5 @@
 
 + [医疗行业 | 数据安全建设方案](https://www.freebuf.com/consult/411981.html)
 
++ [微软 Word 曝“神奇Bug”，这样命名会直接删除文件](https://www.freebuf.com/news/412315.html)
+

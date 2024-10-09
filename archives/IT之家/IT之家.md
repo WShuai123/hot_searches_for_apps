@@ -29,3 +29,13 @@
 
 + [升级 HarmonyOS NEXT 后隐藏相册图片丢失？华为官方：照片被转移，预计 10 月底版本推送解决](https://m.ithome.com/html/800733.htm)
 
++ [消息称微信鸿蒙原生版 App“没有重大问题”本周六上线应用尝鲜](https://m.ithome.com/html/800720.htm)
+
++ [时代落幕，苹果宣布 iPhone 6、iPod nano 及 shuffle 停产](https://m.ithome.com/html/800735.htm)
+
++ [支付宝鸿蒙版 App 上线：适配小程序等功能，后续支持“碰一下”新体验](https://m.ithome.com/html/800706.htm)
+
++ [vivo 预热 OriginOS 5“原子岛”：与手机前摄结合，适配音乐、通知、快捷操作等功能](https://m.ithome.com/html/800655.htm)
+
++ [贾冰担任毒液中文配音，索尼超英电影《毒液 3：最后一舞》10 月 23 日内地上映](https://m.ithome.com/html/800625.htm)
+
