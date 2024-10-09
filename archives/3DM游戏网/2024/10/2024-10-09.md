@@ -185,3 +185,5 @@
 
 + [英国归还非洲最后的海外岛屿 业界担心.io域名将消失](https://www.3dmgame.com/news/202410/3905815.html)
 
++ [国外17岁高中生开发AI应用爆火！6个月狂揽700万](https://www.3dmgame.com/news/202410/3905824.html)
+

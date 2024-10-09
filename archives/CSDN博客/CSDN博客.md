@@ -177,3 +177,9 @@
 
 + [守护数据安全：.rmallox勒索病毒的防范与应对策略](https://blog.csdn.net/javaFay/article/details/142771845)
 
++ [Spring 循环依赖](https://blog.csdn.net/zhengzhaoyang122/article/details/142691283)
+
++ [[Notes] How covariance matrix determind 3DGS and 2DGS](https://blog.csdn.net/weixin_44444492/article/details/142767270)
+
++ [登录注册静态网页实现（HTML，CSS）](https://blog.csdn.net/2301_76276891/article/details/142770810)
+

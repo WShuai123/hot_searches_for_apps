@@ -39,3 +39,7 @@
 
 + [贾冰担任毒液中文配音，索尼超英电影《毒液 3：最后一舞》10 月 23 日内地上映](https://m.ithome.com/html/800625.htm)
 
++ [iQOO 13 手机预计采用直屏 + 窄边框 + 金属中框设计，外观类似 OriginOS 视觉展示机型](https://m.ithome.com/html/800745.htm)
+
++ [消息称鸿蒙 HarmonyOS NEXT 系统通信共享功能规划年底上线](https://m.ithome.com/html/800651.htm)
+
