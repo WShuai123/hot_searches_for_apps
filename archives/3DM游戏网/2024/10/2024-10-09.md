@@ -209,3 +209,13 @@
 
 + [Steam好评如潮 《林间小世界》玩家数量突破50万](https://www.3dmgame.com/news/202410/3905831.html)
 
++ [11月7日正式发售《欢欣森活》中文DEMO现已上线](https://www.3dmgame.com/news/202410/3905840.html)
+
++ [五菱确认！中国版电动K-CAR要来了：动力空间碾压日本原版](https://www.3dmgame.com/news/202410/3905839.html)
+
++ [美国FAA发布安全警报：部分波音737方向舵存在隐患](https://www.3dmgame.com/news/202410/3905838.html)
+
++ [传《刺客信条：影》原本男主是山内鹰 协助德川家康服部半藏](https://www.3dmgame.com/news/202410/3905837.html)
+
++ [雷军澄清 曾经说过的“友商是sb”被很多人误解](https://www.3dmgame.com/news/202410/3905836.html)
+

@@ -51,3 +51,7 @@
 
 + [联发科天玑 9400 旗舰手机处理器发布：第二代 8 核全大核，多核功耗降低 40%](https://m.ithome.com/html/800813.htm)
 
++ [vivo X200 系列手机官宣首发天玑 9400 旗舰处理器](https://m.ithome.com/html/800821.htm)
+
++ [打工人慎用：苹果 iPhone 镜像功能被曝隐私和法律风险](https://m.ithome.com/html/800749.htm)
+
