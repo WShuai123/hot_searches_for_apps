@@ -29,3 +29,29 @@
 
 + [keras-team / keras](https://github.com/keras-team/keras)
 
++ [hcengineering / platform](https://github.com/hcengineering/platform)
+
++ [bol-van / zapret](https://github.com/bol-van/zapret)
+
++ [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+
++ [roboflow / supervision](https://github.com/roboflow/supervision)
+
++ [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
++ [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
+
++ [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver)
+
++ [HumanSignal / label-studio](https://github.com/HumanSignal/label-studio)
+
++ [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+
++ [hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm)
+
++ [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
+
++ [deskflow / deskflow](https://github.com/deskflow/deskflow)
+
++ [hashicorp / terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
+

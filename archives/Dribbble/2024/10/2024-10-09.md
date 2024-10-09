@@ -121,3 +121,13 @@
 
 + [CodeHS responsive](https://dribbble.com/shots/)
 
++ [Stella - Ecommerce Website](https://dribbble.com/shots/)
+
++ [Nexity Network blockchain ecosystem governing body logo design](https://dribbble.com/shots/)
+
++ [Whale Logo](https://dribbble.com/shots/)
+
++ [Tarmak by Decathlon - Mountain shoes.](https://dribbble.com/shots/)
+
++ [Ruxell - Logo Design](https://dribbble.com/shots/)
+

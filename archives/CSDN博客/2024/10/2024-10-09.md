@@ -217,3 +217,7 @@
 
 + [简历修订与求职经历 - Chap02.](https://blog.csdn.net/twicave/article/details/142763290)
 
++ [【自动驾驶】控制算法（十二）横纵向综合控制 | 从理论到实战全面解析](https://blog.csdn.net/weixin_51200029/article/details/141475438)
+
++ [【C++篇】继承之巅：超越法则束缚，领略面向对象的至臻智慧](https://blog.csdn.net/2301_79849925/article/details/142770992)
+

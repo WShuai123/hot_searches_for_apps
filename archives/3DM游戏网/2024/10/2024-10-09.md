@@ -225,3 +225,13 @@
 
 + [《Dead Season》登陆Steam 丧尸末日回合制战术](https://www.3dmgame.com/news/202410/3905842.html)
 
++ [24年来首次！美国考虑强制拆分谷歌：强迫出售部分业务](https://www.3dmgame.com/news/202410/3905848.html)
+
++ [14岁初中生爆肝4个月 将《猫和老鼠》做成3D版](https://www.3dmgame.com/news/202410/3905847.html)
+
++ [“SEGA 十月精选促销”活动火热进行中！《碧蓝幻想: Relink》等游戏以特价登场！](https://www.3dmgame.com/news/202410/3905846.html)
+
++ [《索尼克×夏特 世代重启》最新资讯公开：在序章动画第二集中介绍50年前与现在的夏特！](https://www.3dmgame.com/news/202410/3905845.html)
+
++ [《吸血鬼：避世血族2》有望在2025年上半年发售 但续集或将外包](https://www.3dmgame.com/news/202410/3905844.html)
+
