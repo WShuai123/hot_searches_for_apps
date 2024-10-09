@@ -91,3 +91,11 @@
 
 + [Druzhina](https://dribbble.com/shots/)
 
++ [Rizzle UI/UX design, User Interface experience](https://dribbble.com/shots/)
+
++ [ChronoTask - Landing Page](https://dribbble.com/shots/)
+
++ [Woodbird Opening and Scroll](https://dribbble.com/shots/)
+
++ [Pathfinder - Travel Responsive Website](https://dribbble.com/shots/)
+

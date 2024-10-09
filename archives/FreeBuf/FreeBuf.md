@@ -56,3 +56,7 @@
 
 + [ggshield：查找并修复基础设施即代码错误配置和硬编码密钥](https://www.freebuf.com/sectool/412163.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [入侵已隔离的网络系统，这家APT组织怎么做到的？](https://www.freebuf.com/news/412316.html)
+

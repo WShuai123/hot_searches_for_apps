@@ -199,3 +199,13 @@
 
 + [日漫风格少女格斗动作游戏《零至七年级》现已上线Steam平台](https://www.3dmgame.com/news/202410/3905825.html)
 
++ [《欢欣森活》Steam试玩发布 中世纪奇幻生活模拟RPG](https://www.3dmgame.com/news/202410/3905835.html)
+
++ [《疾速追杀》系列导演全新动作片将结合《疾速追杀》与《妙探寻凶》](https://www.3dmgame.com/news/202410/3905833.html)
+
++ [SE新手游《Emberstoria》正式公布 预注册开启](https://www.3dmgame.com/news/202410/3905834.html)
+
++ [UE版背包乱斗《Wretch无用之人》已上架Steam](https://www.3dmgame.com/news/202410/3905832.html)
+
++ [Steam好评如潮 《林间小世界》玩家数量突破50万](https://www.3dmgame.com/news/202410/3905831.html)
+
