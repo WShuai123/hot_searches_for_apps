@@ -245,3 +245,13 @@
 
 + [《星空》DLC多半差评 设计总监回应：大家期待太高了](https://www.3dmgame.com/news/202410/3905853.html)
 
++ [悬疑侦探游戏《心灵警探》11月14日发售 试玩版已上线](https://www.3dmgame.com/news/202410/3905857.html)
+
++ [两度登上央视、提名国际大奖 《永劫无间》官方致谢](https://www.3dmgame.com/news/202410/3905858.html)
+
++ [《潜行者:区域传奇 三部曲》10月31日登陆NS 预告发布](https://www.3dmgame.com/news/202410/3905856.html)
+
++ [《寂静岭2：重制版》片尾出现ZZZQ公司 玩家：看女性长着男人脸就知道了](https://www.3dmgame.com/news/202410/3905854.html)
+
++ [非常正确！网友想象DEI版本的《光环》是这样](https://www.3dmgame.com/news/202410/3905855.html)
+

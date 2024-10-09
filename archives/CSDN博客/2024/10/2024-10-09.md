@@ -227,3 +227,5 @@
 
 + [自然语言到 SQL 的曙光：我们准备好了吗？](https://blog.csdn.net/u014021753/article/details/142763195)
 
++ [办公AI推荐：阅读总结视频翻译文档文章等—包阅AI](https://blog.csdn.net/jxjdhdnd/article/details/142764664)
+
