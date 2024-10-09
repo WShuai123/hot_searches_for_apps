@@ -71,3 +71,5 @@
 
 + [王化回应“网友恶搞 AI 雷军配音骂人”：已转给小米法务部](https://m.ithome.com/html/800880.htm)
 
++ [华为 Mate 60 等 4 款设备再过开源鸿蒙兼容性测评，操作系统版本号 OpenHarmony 5.0.0 Release](https://m.ithome.com/html/800918.htm)
+
