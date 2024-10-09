@@ -43,3 +43,7 @@
 
 + [消息称鸿蒙 HarmonyOS NEXT 系统通信共享功能规划年底上线](https://m.ithome.com/html/800651.htm)
 
++ [小米鼠标 X1 首销：8000Hz 回报率、65g 轻量化设计，售价 299 元](https://m.ithome.com/html/800669.htm)
+
++ [消息称小米将推 Redmi 电竞小平板，搭骁龙 8s Gen 3 处理器](https://m.ithome.com/html/800652.htm)
+

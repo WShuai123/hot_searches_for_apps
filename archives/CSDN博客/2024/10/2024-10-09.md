@@ -183,3 +183,13 @@
 
 + [登录注册静态网页实现（HTML，CSS）](https://blog.csdn.net/2301_76276891/article/details/142770810)
 
++ [【愚公系列】《AIGC辅助软件开发》018-AI辅助后端编程：快速生成接口文档](https://blog.csdn.net/aa2528877987/article/details/142733281)
+
++ [【汇编语言】寄存器（CPU工作原理）（五）—— 段寄存器以及CS和IP](https://blog.csdn.net/2301_80191662/article/details/142780185)
+
++ [LangChain4j 使用 Elasticsearch 作为嵌入存储](https://blog.csdn.net/UbuntuTouch/article/details/142773596)
+
++ [学习threejs，光晕效果](https://blog.csdn.net/qq_28419035/article/details/142779976)
+
++ [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142752932)
+
