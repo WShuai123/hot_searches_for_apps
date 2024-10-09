@@ -153,3 +153,15 @@
 
 + [【Vue】Vue2（2）](https://blog.csdn.net/weixin_45980065/article/details/142578186)
 
++ [深度学习——生成对抗网络（GAN）](https://blog.csdn.net/hh867308122/article/details/142764951)
+
++ [【机器学习】监督学习 vs 非监督学习——如何选择合适的方法](https://blog.csdn.net/qq_61654952/article/details/142773776)
+
++ [Java项目实战II基于Java+Spring Boot+MySQL的高校学科竞赛平台](https://blog.csdn.net/2401_86524610/article/details/142771856)
+
++ [计算机网络-------重传、TCP流量控制、拥塞控制](https://blog.csdn.net/m0_73171073/article/details/142756162)
+
++ [YOLO11改进|注意力机制篇|引入MSCA注意力机制](https://blog.csdn.net/A1983Z/article/details/142767445)
+
++ [使用YOLO11实例分割模型进行人物分割【附完整源码】](https://blog.csdn.net/qq_42589613/article/details/142762115)
+

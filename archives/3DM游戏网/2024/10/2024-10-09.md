@@ -147,3 +147,9 @@
 
 + [《寂静岭2：重制版》深藏彩蛋致敬konami字体错误](https://www.3dmgame.com/news/202410/3905789.html)
 
++ [《Beloved Rapture》登陆Steam 复古像素风RPG](https://www.3dmgame.com/news/202410/3905807.html)
+
++ [《inZOI》要挑战模拟人生的地位 带来全新体验](https://www.3dmgame.com/news/202410/3905806.html)
+
++ [《小小大星球3》宣布PS4版即将永久下架 已购买的玩家不受影响](https://www.3dmgame.com/news/202410/3905805.html)
+
