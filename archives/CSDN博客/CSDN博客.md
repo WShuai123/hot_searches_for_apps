@@ -121,3 +121,11 @@
 
 + [基于PHP+uniapp微信小程序的个性化影视推荐系统的设计54lfb](https://blog.csdn.net/qq2295116502/article/details/142768629)
 
++ [【AI绘画】Midjourney进阶：对称构图详解](https://blog.csdn.net/2201_75539691/article/details/142747101)
+
++ [详解MySQL中MRR(多范围读取)如何优化范围查询](https://blog.csdn.net/qq_26664043/article/details/141502234)
+
++ [[C++][第三方库][Websocket]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142700054)
+
++ [遗传算法与深度学习实战（16）——神经网络超参数优化](https://blog.csdn.net/LOVEmy134611/article/details/142750215)
+
