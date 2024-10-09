@@ -187,3 +187,15 @@
 
 + [国外17岁高中生开发AI应用爆火！6个月狂揽700万](https://www.3dmgame.com/news/202410/3905824.html)
 
++ [《凡尔赛玫瑰》50周年纪念剧场版全新预告及角色视觉图公布](https://www.3dmgame.com/news/202410/3905827.html)
+
++ [《Creepy Creepy Love》登陆Steam 约会模拟混战](https://www.3dmgame.com/news/202410/3905828.html)
+
++ [国产射击新游《兽猎突袭》TGS表现亮眼，10月10日开放限时测试](https://www.3dmgame.com/news/202410/3905829.html)
+
++ [法厂打造新款电动摩托号称致敬GBA 酷炫高能](https://www.3dmgame.com/news/202410/3905830.html)
+
++ [《自由战争：复刻版》新主视觉图公布 2025年1月发售](https://www.3dmgame.com/news/202410/3905826.html)
+
++ [日漫风格少女格斗动作游戏《零至七年级》现已上线Steam平台](https://www.3dmgame.com/news/202410/3905825.html)
+

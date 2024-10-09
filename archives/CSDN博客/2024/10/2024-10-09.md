@@ -193,3 +193,13 @@
 
 + [网络安全（黑客）——自学2024](https://blog.csdn.net/2401_84466325/article/details/142752932)
 
++ [【Hierarchical RL】分层深度Q网络（Hierarchical-DQN）算法](https://blog.csdn.net/qq_51399582/article/details/142730859)
+
++ [【Linux】五种IO模型](https://blog.csdn.net/2301_77112634/article/details/142764020)
+
++ [【AIGC】通过OpenAi Canvas修改论文（附40条论文优化指令）](https://blog.csdn.net/guorui_java/article/details/142732717)
+
++ [贝叶斯线性回归：概率与预测建模的融合](https://blog.csdn.net/m0_46510245/article/details/142782042)
+
++ [【分布式微服务云原生】深入探究：多分片键下的分库分表策略](https://blog.csdn.net/u010425839/article/details/142766303)
+

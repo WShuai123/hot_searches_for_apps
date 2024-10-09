@@ -75,3 +75,19 @@
 
 + [Pixelia – Talent Marketplace Website](https://dribbble.com/shots/)
 
++ [Dashboard Crypto Finance Component](https://dribbble.com/shots/)
+
++ [SiteCraft: Website Builder Saas Landing Page](https://dribbble.com/shots/)
+
++ [Las Habitas Coffee Co. Branding and Packaging Design - Coffee](https://dribbble.com/shots/)
+
++ [Rentable - Rental Order Card View in SaaS Rental Management](https://dribbble.com/shots/)
+
++ [Rennaissance - AI Assistant Website](https://dribbble.com/shots/)
+
++ [Rumah Ria - Furniture Website Landing Page](https://dribbble.com/shots/)
+
++ [32/32 – Albuquerque Atomics](https://dribbble.com/shots/)
+
++ [Druzhina](https://dribbble.com/shots/)
+

@@ -54,3 +54,5 @@
 
 + [Awaken Likho恶意组织利用高级网络工具对俄罗斯政府发起“猛攻”](https://www.freebuf.com/news/412331.html)
 
++ [ggshield：查找并修复基础设施即代码错误配置和硬编码密钥](https://www.freebuf.com/sectool/412163.html)
+
