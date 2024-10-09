@@ -51,3 +51,9 @@
 
 + [Illustration Style Exploration](https://dribbble.com/shots/)
 
++ [Artefact 3](https://dribbble.com/shots/)
+
++ [Bear Mascot Logo Design (Unused for Sale)](https://dribbble.com/shots/)
+
++ [🍂💫Autumn Baking🥧🔥](https://dribbble.com/shots/)
+

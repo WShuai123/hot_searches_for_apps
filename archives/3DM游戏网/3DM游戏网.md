@@ -101,3 +101,5 @@
 
 + [《命运2》新章节“怨魂”发布预告片 章节1内容现已推出](https://www.3dmgame.com/news/202410/3905808.html)
 
++ [《暗喻幻想：ReFantazio》获M站今年最高评分 官方庆贺](https://www.3dmgame.com/news/202410/3905860.html)
+

@@ -101,3 +101,23 @@
 
 + [Spring Cloud微服务详解](https://blog.csdn.net/shiming8879/article/details/142757110)
 
++ [机器学习——大规模语言模型与生成模型](https://blog.csdn.net/2301_80374809/article/details/142745570)
+
++ [gpt为什么可以依据上下文来回答问题，依据的是什么原理](https://blog.csdn.net/weixin_63681863/article/details/142798636)
+
++ [OmniH2O——通用灵巧且可全身远程操作并学习的人形机器人(其前身H2O是HumanPlus的重要参考)](https://blog.csdn.net/v_JULY_v/article/details/142796658)
+
++ [tick数据合成k线的完整过程（含源代码）](https://blog.csdn.net/Le_temps/article/details/142741427)
+
++ [1-15 openGauss课程 -- openGauss 6.0.0 认证课程](https://blog.csdn.net/openGauss0809/article/details/142792694)
+
++ [HUAWEI_HCIA_实验指南_Lib1.4_配置通过Telnet登录系统](https://blog.csdn.net/m0_38096339/article/details/142758196)
+
++ [基于开元鸿蒙(OpenHarmony)的【智能药房与药品管理综合应用系统】](https://blog.csdn.net/ZCY_c/article/details/142791750)
+
++ [MATLAB - 浮动基座机器人的逆运动学](https://blog.csdn.net/weixin_46300916/article/details/142764371)
+
++ [【计网】【计网】从零开始学习http协议 ---理解http重定向和请求方法](https://blog.csdn.net/JLX_1/article/details/142764476)
+
++ [基于PHP+uniapp微信小程序的个性化影视推荐系统的设计54lfb](https://blog.csdn.net/qq2295116502/article/details/142768629)
+
