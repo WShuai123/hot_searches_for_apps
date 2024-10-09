@@ -235,3 +235,7 @@
 
 + [《吸血鬼：避世血族2》有望在2025年上半年发售 但续集或将外包](https://www.3dmgame.com/news/202410/3905844.html)
 
++ [育碧被起诉 未经用户同意将个人数据分享给Meta](https://www.3dmgame.com/news/202410/3905849.html)
+
++ [联发科发布天玑9400 单核性能提升了35%](https://www.3dmgame.com/news/202410/3905850.html)
+

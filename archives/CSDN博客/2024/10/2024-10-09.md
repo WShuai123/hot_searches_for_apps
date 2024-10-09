@@ -221,3 +221,9 @@
 
 + [【C++篇】继承之巅：超越法则束缚，领略面向对象的至臻智慧](https://blog.csdn.net/2301_79849925/article/details/142770992)
 
++ [【Linux进程间通信】深入探索：Linux下的命名管道与System V共享内存](https://blog.csdn.net/EterNity_TiMe_/article/details/142764962)
+
++ [网络安全（黑客）自学](https://blog.csdn.net/kailiaq_1/article/details/142780032)
+
++ [自然语言到 SQL 的曙光：我们准备好了吗？](https://blog.csdn.net/u014021753/article/details/142763195)
+

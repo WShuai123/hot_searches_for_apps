@@ -60,3 +60,7 @@
 
 + [入侵已隔离的网络系统，这家APT组织怎么做到的？](https://www.freebuf.com/news/412316.html)
 
++ [唤起网安人“那些年”的专属回忆 | FCIS 2024 大会十周年](https://www.freebuf.com/fevents/412320.html)
+
++ [入侵物理隔离的系统，这家APT组织怎么做到的？](https://www.freebuf.com/news/412316.html)
+
