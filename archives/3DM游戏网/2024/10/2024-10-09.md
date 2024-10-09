@@ -113,3 +113,37 @@
 
 + [《节奏光剑》上线小甜甜布兰妮音乐包](https://www.3dmgame.com/news/202410/3905786.html)
 
++ [《荒野大镖客：救赎》上架Steam平台 全新截图公布](https://www.3dmgame.com/news/202410/3905802.html)
+
++ [《星之侵略者》Steam试玩发布 卡牌构筑机甲射击](https://www.3dmgame.com/news/202410/3905801.html)
+
++ [《荒野大镖客：救赎》PC配置让人看不懂 比2代还高](https://www.3dmgame.com/news/202410/3905803.html)
+
++ [Bungie遭作家起诉 称《命运2》中的猩红战争剧情抄袭其作品](https://www.3dmgame.com/news/202410/3905804.html)
+
++ [《第一后裔》终极弗雷娜皮肤宣传视频 肉感十足！](https://www.3dmgame.com/news/202410/3905799.html)
+
++ [《小丑2》制作幕后 导演拒绝和DC新总裁滚导合作](https://www.3dmgame.com/news/202410/3905800.html)
+
++ [世嘉《忍shinobi》将拍电影版 《惊天营救》导演执导](https://www.3dmgame.com/news/202410/3905796.html)
+
++ [《寂静岭2：重制版》顾问曾表示：没有玩家 世界会变得更美好](https://www.3dmgame.com/news/202410/3905797.html)
+
++ [《模拟山羊3》将于10月24日登陆PS4和Xbox One](https://www.3dmgame.com/news/202410/3905798.html)
+
++ [《龙腾世纪4》辅助功能介绍 调整难度隐藏HUD等](https://www.3dmgame.com/news/202410/3905795.html)
+
++ [消息称任天堂新主机Switch 2已选择延期公布](https://www.3dmgame.com/news/202410/3905790.html)
+
++ [《山羊模拟器：重制版》将于11月7日推出](https://www.3dmgame.com/news/202410/3905791.html)
+
++ [索尼开卖PS5官翻机 可省100美元](https://www.3dmgame.com/news/202410/3905792.html)
+
++ [《荒野大镖客：救赎》PC版配置要求公布 推荐2070](https://www.3dmgame.com/news/202410/3905793.html)
+
++ [《七龙珠 电光炸裂！ZERO》Steam同时在线超91000](https://www.3dmgame.com/news/202410/3905794.html)
+
++ [日本监管机构文件显示沙特已减持任天堂股份](https://www.3dmgame.com/news/202410/3905788.html)
+
++ [《寂静岭2：重制版》深藏彩蛋致敬konami字体错误](https://www.3dmgame.com/news/202410/3905789.html)
+

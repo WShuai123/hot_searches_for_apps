@@ -42,3 +42,7 @@
 
 + [反沙箱与杀软对抗双重利用，银狐新变种快速迭代](https://www.freebuf.com/articles/others-articles/412057.html)
 
++ [FreeBuf早报 | 美国政府窃听系统遭反窃听；乐高网站被黑客入侵以推送加密货币骗局](https://www.freebuf.com/news/412267.html)
+
++ [数据包签名校验的Web安全测试实践](https://www.freebuf.com/vuls/411550.html)
+

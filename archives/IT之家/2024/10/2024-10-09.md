@@ -27,3 +27,5 @@
 
 + [2024 诺贝尔物理学奖揭晓：机器学习奠基人 John J. Hopfield 和 Geoffrey E. Hinton 获奖](https://m.ithome.com/html/800682.htm)
 
++ [升级 HarmonyOS NEXT 后隐藏相册图片丢失？华为官方：照片被转移，预计 10 月底版本推送解决](https://m.ithome.com/html/800733.htm)
+
