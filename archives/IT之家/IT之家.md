@@ -55,3 +55,9 @@
 
 + [打工人慎用：苹果 iPhone 镜像功能被曝隐私和法律风险](https://m.ithome.com/html/800749.htm)
 
++ [Telegram 宣布推出验证码平台，每条消息 0.01 美元](https://m.ithome.com/html/800684.htm)
+
++ [消息称传统汽车品牌国庆销量暴涨：奔驰 2 万 ±、宝马 1.8 万 ±、雷克萨斯 6~7 千](https://m.ithome.com/html/800692.htm)
+
++ [特斯拉推出新款 Model 3 长续航版：从 363 英里提升到 436 英里，44990 英镑](https://m.ithome.com/html/800672.htm)
+

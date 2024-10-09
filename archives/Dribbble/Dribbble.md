@@ -111,3 +111,13 @@
 
 + [Official Viture branding and website by Gleb Kuznetsov](https://dribbble.com/shots/)
 
++ [Lion Heraldry](https://dribbble.com/shots/)
+
++ [Health Tracker – Dashboard UI/UX Design](https://dribbble.com/shots/)
+
++ [Modern Monkey Logo](https://dribbble.com/shots/)
+
++ [Gorilla logomark](https://dribbble.com/shots/)
+
++ [CodeHS responsive](https://dribbble.com/shots/)
+
