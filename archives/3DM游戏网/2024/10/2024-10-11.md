@@ -113,3 +113,9 @@
 
 + [《史莱姆英雄》将于2025年第一季度推出](https://www.3dmgame.com/news/202410/3905952.html)
 
++ [经典一网打尽《俄罗斯方块永恒篇》公布游戏列表](https://www.3dmgame.com/news/202410/3905955.html)
+
++ [兄弟齐心航海冒险《马力欧＆路易吉RPG》发布新预告](https://www.3dmgame.com/news/202410/3905954.html)
+
++ [任天堂神秘测试计划启动 官方严禁泄露内容](https://www.3dmgame.com/news/202410/3905953.html)
+
