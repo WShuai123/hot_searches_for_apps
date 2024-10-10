@@ -63,3 +63,9 @@
 
 + [Influencer Discovery Dashboard Design](https://dribbble.com/shots/)
 
++ [Creampuff Branding](https://dribbble.com/shots/)
+
++ [Personalized Music Application](https://dribbble.com/shots/)
+
++ [Cube◼️](https://dribbble.com/shots/)
+
