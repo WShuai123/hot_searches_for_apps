@@ -75,3 +75,7 @@
 
 + [Thumbs up](http://www.acfun.cn/v/ac46361860)
 
++ [中国被制裁？国旗被禁播，中国选手被退赛！日厂电竞赛事如何歧视中国选手](http://www.acfun.cn/v/ac46361309)
+
++ [AEW Dynamite #262 2024.10.08](http://www.acfun.cn/v/ac46360045)
+

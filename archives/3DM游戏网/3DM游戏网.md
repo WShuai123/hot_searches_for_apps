@@ -161,3 +161,11 @@
 
 + [柴油朋克世界 第一人称模拟器《战争技师》Steam页面公布](https://www.3dmgame.com/news/202410/3905879.html)
 
++ [《古墓丽影：劳拉·克劳馥传奇》正式预告 今天上线Netflix](https://www.3dmgame.com/news/202410/3905890.html)
+
++ [PS Plus十月二档、三档游戏公布：《死亡岛2》、《双点校园》等](https://www.3dmgame.com/news/202410/3905891.html)
+
++ [卡牌策略版“小蜜蜂“ 《太空侵略者：卡牌指挥官》Steam页面开放](https://www.3dmgame.com/news/202410/3905893.html)
+
++ [《努努之歌》开发商Tequila宣布新项目取消 并将裁员](https://www.3dmgame.com/news/202410/3905892.html)
+
