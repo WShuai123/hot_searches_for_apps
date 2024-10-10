@@ -127,3 +127,17 @@
 
 + [Coiling Snake Logo / Abstract Logo by Bertalan Gombos](https://dribbble.com/shots/)
 
++ [Poster Store](https://dribbble.com/shots/)
+
++ [Quad Cortex 2.0 - Product Exploration](https://dribbble.com/shots/)
+
++ [Rapidway Visual Identity](https://dribbble.com/shots/)
+
++ [Influencer Discovery Dashboard Design](https://dribbble.com/shots/)
+
++ [Rolling cones](https://dribbble.com/shots/)
+
++ [Online Cinema App: animation](https://dribbble.com/shots/)
+
++ [Hoodie Man - Logo Design](https://dribbble.com/shots/)
+

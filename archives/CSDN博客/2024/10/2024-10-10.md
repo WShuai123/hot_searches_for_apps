@@ -179,3 +179,9 @@
 
 + [YOLO11改进|注意力机制篇|引入矩形自校准模块RCM](https://blog.csdn.net/A1983Z/article/details/142740949)
 
++ [人工智能时代，程序员如何保持核心竞争力？](https://blog.csdn.net/wwd0501/article/details/142791605)
+
++ [【Elasticsearch 实战与原理解析】好书推荐](https://blog.csdn.net/qyj19920704/article/details/142818829)
+
++ [华为 HCIP-Datacom H12-821 题库 (33)](https://blog.csdn.net/2301_77362941/article/details/142751176)
+

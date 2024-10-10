@@ -53,3 +53,5 @@
 
 + [消息称升级至华为鸿蒙 HarmonyOS NEXT 系统微信可“本地无缝迁移聊天记录”](https://m.ithome.com/html/801137.htm)
 
++ [用户反馈 iPhone 16 Pro 显示效果不如前代，罗斯・杨：M14 面板亮度 / 能效提高 20~30%](https://m.ithome.com/html/801123.htm)
+
