@@ -101,3 +101,21 @@
 
 + [MATLAB - 机器人机械臂设计轨迹规划器](https://blog.csdn.net/weixin_46300916/article/details/142764859)
 
++ [【AIGC】OpenAI API在快速开发中的实践与应用：优化ChatGPT提示词Prompt加速工程](https://blog.csdn.net/2201_75539691/article/details/142696615)
+
++ [【汇编语言】寄存器（CPU工作原理）（五）—— 段寄存器以及CS和IP](https://blog.csdn.net/2301_80191662/article/details/142780185)
+
++ [OmniH2O——通用灵巧且可全身远程操作并学习的人形机器人(其前身H2O是HumanPlus的重要参考)](https://blog.csdn.net/v_JULY_v/article/details/142796658)
+
++ [华为 HCIP-Datacom H12-821 题库 (33)](https://blog.csdn.net/2301_77362941/article/details/142751176)
+
++ [【DataSophon】DataSophon1.2.1 整合Zeppelin并配置Hive|Trino|Spark解释器](https://blog.csdn.net/qq_35995514/article/details/142592063)
+
++ [学习threejs，光晕效果](https://blog.csdn.net/qq_28419035/article/details/142779976)
+
++ [雷池+frp 批量设置proxy_protocol实现真实IP透传](https://blog.csdn.net/qq_38839915/article/details/142755768)
+
++ [YOLO11改进|注意力机制篇|引入矩形自校准模块RCM](https://blog.csdn.net/A1983Z/article/details/142740949)
+
++ [在线绘图工具drawio，visio的平替](https://blog.csdn.net/weixin_43215013/article/details/142820066)
+

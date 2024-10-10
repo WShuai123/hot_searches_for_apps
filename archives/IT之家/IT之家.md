@@ -27,3 +27,5 @@
 
 + [消息称小米 Redmi K80 系列手机涨价，Pro 版可能会大涨](https://m.ithome.com/html/801203.htm)
 
++ [Windows / Mac 微信 4.0.0 内测版本更新：新增深色模式、字号大小设置](https://m.ithome.com/html/801213.htm)
+
