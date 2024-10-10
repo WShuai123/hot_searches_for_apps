@@ -311,3 +311,5 @@
 
 + [Nexon CEO：3A游戏成本飙升 粉丝反馈至关重要](https://www.3dmgame.com/news/202410/3905941.html)
 
++ [Fami通新一周销量榜 《塞尔达传说：智慧的再现》二连冠](https://www.3dmgame.com/news/202410/3905945.html)
+

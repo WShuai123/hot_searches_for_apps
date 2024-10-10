@@ -57,3 +57,5 @@
 
 + [华为家庭存储、路由器产品鸿蒙 HarmonyOS NEXT 部分相关特性正适配开发](https://m.ithome.com/html/800992.htm)
 
++ [微信鸿蒙原生版抢先体验，惊喜不只简洁](https://m.ithome.com/html/801217.htm)
+
