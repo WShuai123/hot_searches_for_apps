@@ -109,3 +109,33 @@
 
 + [任天堂发布互动游戏音乐闹钟Alarmo](https://www.3dmgame.com/news/202410/3905861.html)
 
++ [《野狗子》新情报公布 介绍新角色以及武器战斗等](https://www.3dmgame.com/news/202410/3905875.html)
+
++ [《Knock Off》开启众筹 手办英雄2D格斗新游](https://www.3dmgame.com/news/202410/3905876.html)
+
++ [《龙腾世纪：影幛守护者》解决蜘蛛恐惧症的方式就是不添加蜘蛛](https://www.3dmgame.com/news/202410/3905877.html)
+
++ [《巫师》剧集第四季路透照 利亚姆和劳伦斯登场](https://www.3dmgame.com/news/202410/3905878.html)
+
++ [《天国：拯救2》PC版或将使用D加密技术 会卡顿？](https://www.3dmgame.com/news/202410/3905872.html)
+
++ [传《光环：无限》续作被砍 Xbox想要重新开始该系列](https://www.3dmgame.com/news/202410/3905874.html)
+
++ [《寂静岭2：重制版》细节惊人：男主会疲惫 衣服会变脏](https://www.3dmgame.com/news/202410/3905873.html)
+
++ [Atlus《暗喻幻想：ReFantazio》上市预告片分享](https://www.3dmgame.com/news/202410/3905866.html)
+
++ [《寂静之地：前方之路》真人预告片凸显沉浸危机](https://www.3dmgame.com/news/202410/3905867.html)
+
++ [《寂静岭2：重制版》新Mod解锁过场动画30fps限制](https://www.3dmgame.com/news/202410/3905868.html)
+
++ [Xbox将在本月推出一款全新更昂贵的无线头戴耳机](https://www.3dmgame.com/news/202410/3905869.html)
+
++ [steam喜加一！免费领取“特别好评”游戏《Castle Break》](https://www.3dmgame.com/news/202410/3905870.html)
+
++ [网传CDPR已陷入困境：由于关注DEI和失去高级人才](https://www.3dmgame.com/news/202410/3905871.html)
+
++ [任天堂邀请1万名付费会员参加神秘测试计划](https://www.3dmgame.com/news/202410/3905864.html)
+
++ [Steam泄露《七龙珠 电光炸裂！ZERO》DLC](https://www.3dmgame.com/news/202410/3905865.html)
+

@@ -29,3 +29,5 @@
 
 + [腾讯推出开源鸿蒙微信 OpenSDK，用于接入分享、收藏和支付等](https://m.ithome.com/html/800871.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统手机、电脑智慧互联特性支持清单发布：不支持扫码发现、一键回连等功能](https://m.ithome.com/html/800988.htm)
+

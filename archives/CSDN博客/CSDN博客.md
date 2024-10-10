@@ -129,3 +129,17 @@
 
 + [遗传算法与深度学习实战（16）——神经网络超参数优化](https://blog.csdn.net/LOVEmy134611/article/details/142750215)
 
++ [C/C++程序员为什么要了解汇编？了解汇编有哪些好处？如何学习汇编？](https://blog.csdn.net/chenlycly/article/details/142795872)
+
++ [YOLO11模型推理 | 目标检测与跟踪 | 实例分割 | 关键点估计 | OBB旋转目标检测](https://blog.csdn.net/qq_41204464/article/details/142789655)
+
++ [[C++][第三方库][RabbitMq]详细讲解](https://blog.csdn.net/qq_37281656/article/details/142712555)
+
++ [超越单线程：Web Worker 在前端性能中的角色](https://blog.csdn.net/qq_53123067/article/details/142768811)
+
++ [【在Linux世界中追寻伟大的One Piece】DNS与ICMP](https://blog.csdn.net/weixin_74809706/article/details/142793652)
+
++ [【艾思科蓝】C++游戏开发探秘：打造高性能游戏世界的钥匙](https://blog.csdn.net/weixin_73295475/article/details/142793847)
+
++ [三坐标测量中的最小二乘法和切比雪夫法理论与实践应用](https://blog.csdn.net/LJM1200/article/details/142795610)
+
