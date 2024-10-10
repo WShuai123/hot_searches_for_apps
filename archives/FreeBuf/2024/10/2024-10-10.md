@@ -49,3 +49,9 @@
 
 + [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从网安公司Dr.Web窃取10TB数据](https://www.freebuf.com/news/412382.html)
 
++ [包含2个满分漏洞，MMS协议存在严重安全风险](https://www.freebuf.com/articles/412425.html)
+
++ [Internet Archive 遭遇黑客攻击，导致 3100 万用户数据泄露](https://www.freebuf.com/news/412412.html)
+
++ [DumpForums论坛黑客声称从网络安全公司 Dr.Web 窃取了 10TB 数据](https://www.freebuf.com/news/412418.html)
+

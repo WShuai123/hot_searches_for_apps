@@ -169,3 +169,43 @@
 
 + [《努努之歌》开发商Tequila宣布新项目取消 并将裁员](https://www.3dmgame.com/news/202410/3905892.html)
 
++ [《英雄联盟》解说组合德云色解散 网友：十年青春结束了](https://www.3dmgame.com/news/202409/3903158.html)
+
++ [《黄蜂先锋2》Steam页面上线 和风推理名作](https://www.3dmgame.com/news/202409/3903159.html)
+
++ [《博德之门3》曾考虑做第一人称视角对话 但被否决](https://www.3dmgame.com/news/202409/3903160.html)
+
++ [《星际拓荒：考古学家版》PS5实体版意外缺失DLC](https://www.3dmgame.com/news/202409/3903161.html)
+
++ [《百鬼夜行幸存者》登陆Steam 日风吸幸爽快射击](https://www.3dmgame.com/news/202409/3903162.html)
+
++ [《风暴之城》大型资料片“磐石守护者”公布 月底发售](https://www.3dmgame.com/news/202409/3903163.html)
+
++ [《地心护核者》钓鱼小游戏被移除 或将在优化后回归](https://www.3dmgame.com/news/202409/3903164.html)
+
++ [百度副总裁谈AI热潮 大模型领域有人在挂羊头卖狗肉](https://www.3dmgame.com/news/202409/3903165.html)
+
++ [三上真司称自己最想要复活的经典作品是《神之手》](https://www.3dmgame.com/news/202409/3903166.html)
+
++ [邪恶结局优化 《博德之门3》7号补丁下周终于到来](https://www.3dmgame.com/news/202409/3903167.html)
+
++ [《ASTROBOTANICA》Steam上线 开放世界生存](https://www.3dmgame.com/news/202409/3903168.html)
+
++ [七彩虹推出iGame Z790D5 火神主板 19+1+1相](https://www.3dmgame.com/news/202409/3903169.html)
+
++ [《拳皇15》Steam新史低促销 当前售价仅64.8元](https://www.3dmgame.com/news/202409/3903170.html)
+
++ [《怪物猎人：荒野》DLC不会有任何充钱变强的道具](https://www.3dmgame.com/news/202409/3903171.html)
+
++ [《怪物猎人：荒野》开发已经超过了5年 部分原因是大量新玩家涌入](https://www.3dmgame.com/news/202409/3903172.html)
+
++ [《潜行者2》发售后追加三大功能：硬件光追、MOD和多人模式](https://www.3dmgame.com/news/202409/3903173.html)
+
++ [李连杰于适加盟吴京新片《镖人》 2024年内杀青](https://www.3dmgame.com/news/202409/3903174.html)
+
++ [《绝影战士》Steam多半好评 游戏手感欠佳](https://www.3dmgame.com/news/202409/3903175.html)
+
++ [《罪恶装备：Strive》明年1月登陆NS 可玩所有角色](https://www.3dmgame.com/news/202409/3903176.html)
+
++ [硬扛苹果16 性能回第一阵营！华为Mate 70曝光](https://www.3dmgame.com/news/202409/3903177.html)
+

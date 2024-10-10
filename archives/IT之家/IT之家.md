@@ -31,3 +31,5 @@
 
 + [华为鸿蒙 HarmonyOS NEXT 系统手机、电脑智慧互联特性支持清单发布：不支持扫码发现、一键回连等功能](https://m.ithome.com/html/800988.htm)
 
++ [vivo X200 系列手机官宣首发 LPDDR5X Ultra Pro 内存，跑分突破 300 万分](https://m.ithome.com/html/800887.htm)
+
