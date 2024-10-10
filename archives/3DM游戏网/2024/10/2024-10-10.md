@@ -139,3 +139,25 @@
 
 + [Steam泄露《七龙珠 电光炸裂！ZERO》DLC](https://www.3dmgame.com/news/202410/3905865.html)
 
++ [顽皮狗等前员工组建NEARstudios首作 《山楂树》预告](https://www.3dmgame.com/news/202410/3905889.html)
+
++ [复古风格动作设计类肉鸽游戏《鸭鸭悖论》现已在Steam平台正式推出](https://www.3dmgame.com/news/202410/3905885.html)
+
++ [数毛社：Switch 2或将支持所有虚幻5引擎功能](https://www.3dmgame.com/news/202410/3905888.html)
+
++ [古风互动游戏《皇子驾到》预告 古装丝袜美女相伴](https://www.3dmgame.com/news/202410/3905886.html)
+
++ [《邻居：郊区战争》Steam上线开启测试 邻居大混战](https://www.3dmgame.com/news/202410/3905887.html)
+
++ [《英灵神殿》“沼泽女巫”更新即将推出公开测试](https://www.3dmgame.com/news/202410/3905884.html)
+
++ [《微软飞行模拟 2024》现已开放Alpha测试申请 将于10月开始](https://www.3dmgame.com/news/202410/3905883.html)
+
++ [《索尼克》开发者：PS5 Pro不算贵 高端玩家绝佳选择](https://www.3dmgame.com/news/202410/3905882.html)
+
++ [《Dungeon Antiqua》登陆Steam 复古迷宫探索RPG](https://www.3dmgame.com/news/202410/3905881.html)
+
++ [世嘉经典游戏《超级忍》系列宣布将改编真人电影](https://www.3dmgame.com/news/202410/3905880.html)
+
++ [柴油朋克世界 第一人称模拟器《战争技师》Steam页面公布](https://www.3dmgame.com/news/202410/3905879.html)
+

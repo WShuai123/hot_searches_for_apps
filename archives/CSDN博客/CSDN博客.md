@@ -143,3 +143,7 @@
 
 + [三坐标测量中的最小二乘法和切比雪夫法理论与实践应用](https://blog.csdn.net/LJM1200/article/details/142795610)
 
++ [进程的状态的理解（概念+Linux）](https://blog.csdn.net/Q741_147/article/details/142787808)
+
++ [认知战认知作战：萨尔浒之战-努尔哈赤认知作战下的明朝崩溃](https://blog.csdn.net/kejiju2023/article/details/142780755)
+

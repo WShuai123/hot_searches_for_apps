@@ -45,3 +45,7 @@
 
 + [phpcms 文件上传复现+审计](https://www.freebuf.com/vuls/411849.html)
 
++ [渗透测试 | 一起漏洞利用&水坑攻击分析](https://www.freebuf.com/defense/411452.html)
+
++ [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从网安公司Dr.Web窃取10TB数据](https://www.freebuf.com/news/412382.html)
+
