@@ -101,3 +101,5 @@
 
 + [Dezbor Beta](https://www.producthunt.com/posts/dezbor-beta)
 
++ [pipl.ai 2.0](https://www.producthunt.com/posts/pipl-ai-2-0)
+

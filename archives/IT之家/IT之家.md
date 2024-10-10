@@ -25,3 +25,5 @@
 
 + [未发布的苹果 M4 MacBook Pro 现身俄罗斯网站，遭高价售卖](https://m.ithome.com/html/801000.htm)
 
++ [消息称小米 Redmi K80 系列手机涨价，Pro 版可能会大涨](https://m.ithome.com/html/801203.htm)
+

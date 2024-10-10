@@ -101,3 +101,7 @@
 
 + [《小丑2：双重妄想》中文主角海报 10月16日全国上映](https://www.3dmgame.com/news/202410/3905902.html)
 
++ [《足球经理2025》延期至明年3月 以确保游戏质量符合标准](https://www.3dmgame.com/news/202410/3905948.html)
+
++ [《荒野大镖客：救赎》Steam售价公布 国区预购价249元](https://www.3dmgame.com/news/202410/3905947.html)
+
