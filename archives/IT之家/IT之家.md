@@ -33,3 +33,5 @@
 
 + [vivo X200 系列手机官宣首发 LPDDR5X Ultra Pro 内存，跑分突破 300 万分](https://m.ithome.com/html/800887.htm)
 
++ [赛力斯被曝“520 计划”：50 岁或司龄 20 年一切归零，员工称尚未实施](https://m.ithome.com/html/801026.htm)
+

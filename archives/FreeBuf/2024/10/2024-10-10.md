@@ -55,3 +55,5 @@
 
 + [DumpForums论坛黑客声称从网络安全公司 Dr.Web 窃取了 10TB 数据](https://www.freebuf.com/news/412418.html)
 
++ [深入分析Atom CMS 2.0漏洞：揭示远程代码执行的真相](https://www.freebuf.com/articles/web/412140.html)
+
