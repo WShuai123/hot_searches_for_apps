@@ -281,3 +281,23 @@
 
 + [任天堂闹钟值不值100美元？媒体抢先分享更多细节](https://www.3dmgame.com/news/202410/3905923.html)
 
++ [日韩最不喜欢中国电动汽车 仅14%的人有兴趣买中国电动车](https://www.3dmgame.com/news/202410/3905933.html)
+
++ [RTX4090/4090D停产清库存：英伟达新大招杀到](https://www.3dmgame.com/news/202410/3905939.html)
+
++ [在合作解谜游戏《合力逃脱》中逃离神秘岛屿，游戏将于11月12日正式发售](https://www.3dmgame.com/news/202410/3905937.html)
+
++ [恐怖游戏《幻戏惊魂夜》：万圣节期间的生存大屠杀将于10.28上线](https://www.3dmgame.com/news/202410/3905938.html)
+
++ [横版策略《王国 两位君主：奥林匹斯的召唤》DLC现已登陆多平台](https://www.3dmgame.com/news/202410/3905936.html)
+
++ [光耀罗马帝国！城市建造策略游戏《万神之城》10月17日发售](https://www.3dmgame.com/news/202410/3905935.html)
+
++ [《魔农传记 FARMAGIA》 现已在Nintendo eShop中开启预购！](https://www.3dmgame.com/news/202410/3905934.html)
+
++ [亚洲航空与世嘉和ATLUS联手 打造开创性的游戏与旅行交互体验](https://www.3dmgame.com/news/202410/3905932.html)
+
++ [《黑神话》二郎神3D模型欣赏 很酷帅实力强大](https://www.3dmgame.com/news/202410/3905931.html)
+
++ [《Ghost Frequency》Steam上线 捉鬼恐怖冒险](https://www.3dmgame.com/news/202410/3905930.html)
+

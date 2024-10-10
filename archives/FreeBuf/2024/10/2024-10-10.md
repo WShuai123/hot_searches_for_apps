@@ -61,3 +61,7 @@
 
 + [可导致设备崩溃，MMS协议被曝存在多个安全漏洞](https://www.freebuf.com/articles/412425.html)
 
++ [一个人的信息安全部（1）——灾难恢复体系建设](https://www.freebuf.com/articles/security-management/381622.html)
+
++ [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从Dr.Web窃取10TB数据](https://www.freebuf.com/news/412382.html)
+

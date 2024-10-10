@@ -123,3 +123,7 @@
 
 + [Abstract Cow Logo](https://dribbble.com/shots/)
 
++ [Climax Logo Design](https://dribbble.com/shots/)
+
++ [Coiling Snake Logo / Abstract Logo by Bertalan Gombos](https://dribbble.com/shots/)
+
