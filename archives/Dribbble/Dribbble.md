@@ -141,3 +141,9 @@
 
 + [Hoodie Man - Logo Design](https://dribbble.com/shots/)
 
++ [Omega - CRM Hero Section](https://dribbble.com/shots/)
+
++ [Re-Brand Concepts](https://dribbble.com/shots/)
+
++ [Cargo bike animation](https://dribbble.com/shots/)
+

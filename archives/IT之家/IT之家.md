@@ -55,3 +55,5 @@
 
 + [用户反馈 iPhone 16 Pro 显示效果不如前代，罗斯・杨：M14 面板亮度 / 能效提高 20~30%](https://m.ithome.com/html/801123.htm)
 
++ [华为家庭存储、路由器产品鸿蒙 HarmonyOS NEXT 部分相关特性正适配开发](https://m.ithome.com/html/800992.htm)
+

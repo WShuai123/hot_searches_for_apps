@@ -305,3 +305,5 @@
 
 + [英特尔酷睿Ultra 200K/KF系列上架 2399元起](https://www.3dmgame.com/news/202410/3905942.html)
 
++ [2024年诺贝尔文学奖揭晓 韩国作家韩江获奖](https://www.3dmgame.com/news/202410/3905943.html)
+
