@@ -105,3 +105,11 @@
 
 + [《荒野大镖客：救赎》Steam售价公布 国区预购价249元](https://www.3dmgame.com/news/202410/3905947.html)
 
++ [《机甲战士5：部落》首日也将登陆Game Pass](https://www.3dmgame.com/news/202410/3905951.html)
+
++ [银河恶魔城类游戏《武士的精神》12/12登陆PC](https://www.3dmgame.com/news/202410/3905950.html)
+
++ [《幻灵降世录：女巫的面纱》11/5推出抢先体验版](https://www.3dmgame.com/news/202410/3905949.html)
+
++ [《史莱姆英雄》将于2025年第一季度推出](https://www.3dmgame.com/news/202410/3905952.html)
+
