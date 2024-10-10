@@ -37,3 +37,27 @@
 
 + [livekit / agents](https://github.com/livekit/agents)
 
++ [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
++ [clinebot / cline](https://github.com/clinebot/cline)
+
++ [vuejs / core](https://github.com/vuejs/core)
+
++ [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [open-mmlab / mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+
++ [hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost)
+
++ [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [langgenius / dify](https://github.com/langgenius/dify)
+
++ [openai / CLIP](https://github.com/openai/CLIP)
+
++ [public-apis / public-apis](https://github.com/public-apis/public-apis)
+
++ [halo-dev / halo](https://github.com/halo-dev/halo)
+
++ [dagger / dagger](https://github.com/dagger/dagger)
+

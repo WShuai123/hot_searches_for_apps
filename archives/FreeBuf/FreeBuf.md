@@ -65,3 +65,5 @@
 
 + [FreeBuf早报 | 四川暂停办理户籍和身份证业务；黑客称从Dr.Web窃取10TB数据](https://www.freebuf.com/news/412382.html)
 
++ [倒计时30天 | FCIS 2024网络安全创新大会·十周年](https://www.freebuf.com/fevents/412448.html)
+

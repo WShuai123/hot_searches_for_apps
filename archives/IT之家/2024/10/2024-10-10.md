@@ -51,3 +51,5 @@
 
 + [2024 年诺贝尔化学奖揭晓：AI 预测蛋白质结构里程碑突破，授予三位科学家](https://m.ithome.com/html/800931.htm)
 
++ [消息称升级至华为鸿蒙 HarmonyOS NEXT 系统微信可“本地无缝迁移聊天记录”](https://m.ithome.com/html/801137.htm)
+
