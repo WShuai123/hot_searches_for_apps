@@ -263,3 +263,7 @@
 
 + [雨果·维文表示“受够了”《指环王》电影 没有兴趣参演《追捕咕噜》](https://www.3dmgame.com/news/202410/3905912.html)
 
++ [2024年内油价第八涨要来了！今晚上调：加满一箱多花4.5元](https://www.3dmgame.com/news/202410/3905921.html)
+
++ [经典《残月之锁宫》更新版登陆PS4/Switch 日风迷宫RPG](https://www.3dmgame.com/news/202410/3905922.html)
+

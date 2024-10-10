@@ -37,3 +37,5 @@
 
 + [前 iQOO 产品经理宋紫薇现身 2024 vivo 开发者大会](https://m.ithome.com/html/801046.htm)
 
++ [vivo OriginOS 5 发布：磨砂玻璃 UI、锁屏组件自定义、蓝心小 V 大升级](https://m.ithome.com/html/801078.htm)
+
