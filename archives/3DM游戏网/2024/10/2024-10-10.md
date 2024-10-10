@@ -267,3 +267,17 @@
 
 + [经典《残月之锁宫》更新版登陆PS4/Switch 日风迷宫RPG](https://www.3dmgame.com/news/202410/3905922.html)
 
++ [女性向像素RPG游戏《欺神弄鬼》即将登陆Steam新品节！试玩已开启](https://www.3dmgame.com/news/202410/3905929.html)
+
++ [富士康将打造全球最强AI超算中心 当前Top1的8.5倍](https://www.3dmgame.com/news/202410/3905928.html)
+
++ [马来西亚男子上班打游戏被炒鱿鱼 提出诉讼但败诉](https://www.3dmgame.com/news/202410/3905927.html)
+
++ [炉石传说国服恢复正常 补偿两周内上线](https://www.3dmgame.com/news/202410/3905926.html)
+
++ [史上最长双十一来了！今年电商购物节10月14日开启：提前10天](https://www.3dmgame.com/news/202410/3905925.html)
+
++ [国际空间站继续老化 俄罗斯舱段发生空气泄漏](https://www.3dmgame.com/news/202410/3905924.html)
+
++ [任天堂闹钟值不值100美元？媒体抢先分享更多细节](https://www.3dmgame.com/news/202410/3905923.html)
+

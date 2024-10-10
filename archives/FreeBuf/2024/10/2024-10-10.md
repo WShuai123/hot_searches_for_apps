@@ -59,3 +59,5 @@
 
 + [Gitxray：一款基于GitHub REST API的网络安全工具](https://www.freebuf.com/sectool/412164.html)
 
++ [可导致设备崩溃，MMS协议被曝存在多个安全漏洞](https://www.freebuf.com/articles/412425.html)
+

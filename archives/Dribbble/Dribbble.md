@@ -99,3 +99,27 @@
 
 + [Cepol - Finance Mobile App](https://dribbble.com/shots/)
 
++ [Waffle Pay - UI/UX Design for Fintech Website/Mobile App](https://dribbble.com/shots/)
+
++ [25 logo marks](https://dribbble.com/shots/)
+
++ [Workflow website interaction](https://dribbble.com/shots/)
+
++ [Redacted Airways](https://dribbble.com/shots/)
+
++ [Develop Audio Logo Design](https://dribbble.com/shots/)
+
++ [Luxury Yacht Rental Landing Page](https://dribbble.com/shots/)
+
++ [Greenado landing page design](https://dribbble.com/shots/)
+
++ [Micro Space - Design Agency Website](https://dribbble.com/shots/)
+
++ [Syndr medical dashboard](https://dribbble.com/shots/)
+
++ [Asana - iPad Mockup](https://dribbble.com/shots/)
+
++ [Travel Ticket Logo](https://dribbble.com/shots/)
+
++ [Abstract Cow Logo](https://dribbble.com/shots/)
+

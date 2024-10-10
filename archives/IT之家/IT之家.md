@@ -39,3 +39,7 @@
 
 + [vivo OriginOS 5 发布：磨砂玻璃 UI、锁屏组件自定义、蓝心小 V 大升级](https://m.ithome.com/html/801078.htm)
 
++ [京东 2024 年双十一活动时间公布：“抢先购”10 月 12 日预热、10 月 14 日 20 点开售](https://m.ithome.com/html/800977.htm)
+
++ [小米电脑管家下沉计划更新：Redmi G 游戏本 2022 等进行灰度测试](https://m.ithome.com/html/800983.htm)
+
