@@ -35,3 +35,5 @@
 
 + [赛力斯被曝“520 计划”：50 岁或司龄 20 年一切归零，员工称尚未实施](https://m.ithome.com/html/801026.htm)
 
++ [前 iQOO 产品经理宋紫薇现身 2024 vivo 开发者大会](https://m.ithome.com/html/801046.htm)
+

@@ -239,3 +239,9 @@
 
 + [Embracer旗下《无冬OL》开发商Cryptic再次裁员](https://www.3dmgame.com/news/202410/3905905.html)
 
++ [《全金属中士2》Steam上线 新兵训练培养模拟器](https://www.3dmgame.com/news/202410/3905911.html)
+
++ [合作恐怖游戏《劫盗惊魂夜 Dark Hours》抢先体验版悄然来袭！](https://www.3dmgame.com/news/202410/3905910.html)
+
++ [回合战略类肉鸽枪械射击冷兵器游戏《刀剑竞技场》现已推出试玩Demo](https://www.3dmgame.com/news/202410/3905909.html)
+
