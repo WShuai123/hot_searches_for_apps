@@ -147,3 +147,11 @@
 
 + [Cargo bike animation](https://dribbble.com/shots/)
 
++ [Security & Fraud / Feldera](https://dribbble.com/shots/)
+
++ [Modular Logotype](https://dribbble.com/shots/)
+
++ [Lost Fox Inn Business Card Mockup](https://dribbble.com/shots/)
+
++ [Branding Hook Music](https://dribbble.com/shots/)
+

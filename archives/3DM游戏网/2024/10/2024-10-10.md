@@ -307,3 +307,7 @@
 
 + [2024年诺贝尔文学奖揭晓 韩国作家韩江获奖](https://www.3dmgame.com/news/202410/3905943.html)
 
++ [《寂静岭2：重制版》出现各种MOD 里昂乱入、阳光洒满寂静岭](https://www.3dmgame.com/news/202410/3905944.html)
+
++ [Nexon CEO：3A游戏成本飙升 粉丝反馈至关重要](https://www.3dmgame.com/news/202410/3905941.html)
+

@@ -145,3 +145,5 @@
 
 + [Dezbor Beta](https://www.producthunt.com/posts/dezbor-beta)
 
++ [Podcastworld.io- Perplexity for Podcasts](https://www.producthunt.com/posts/podcastworld-io-perplexity-for-podcasts)
+

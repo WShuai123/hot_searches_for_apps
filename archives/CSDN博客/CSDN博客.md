@@ -185,3 +185,9 @@
 
 + [华为 HCIP-Datacom H12-821 题库 (33)](https://blog.csdn.net/2301_77362941/article/details/142751176)
 
++ [未来已来：AIGC时代为办公方式带来智能化转型与革新](https://blog.csdn.net/qq_32682301/article/details/142793606)
+
++ [24.4 基于consul服务发现模式](https://blog.csdn.net/weixin_48502062/article/details/142821802)
+
++ [【计算机网络】详谈TCP协议确认应答机制&捎带应答机制&超时重传机制&连接管理机制&流量管理机制&滑动窗口&拥塞控制&延迟应答](https://blog.csdn.net/m0_74265792/article/details/142651798)
+
