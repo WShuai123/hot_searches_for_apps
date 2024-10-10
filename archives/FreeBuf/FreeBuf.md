@@ -57,3 +57,5 @@
 
 + [深入分析Atom CMS 2.0漏洞：揭示远程代码执行的真相](https://www.freebuf.com/articles/web/412140.html)
 
++ [Gitxray：一款基于GitHub REST API的网络安全工具](https://www.freebuf.com/sectool/412164.html)
+
