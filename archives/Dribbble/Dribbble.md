@@ -49,3 +49,17 @@
 
 + [Med. Pharma Analytics Hub](https://dribbble.com/shots/)
 
++ [30k](https://dribbble.com/shots/)
+
++ [Favorite Things](https://dribbble.com/shots/)
+
++ [Sugar House coasters](https://dribbble.com/shots/)
+
++ [Traveller's Guide](https://dribbble.com/shots/)
+
++ [Branding Hook Music](https://dribbble.com/shots/)
+
++ [MTV Ident](https://dribbble.com/shots/)
+
++ [Influencer Discovery Dashboard Design](https://dribbble.com/shots/)
+
