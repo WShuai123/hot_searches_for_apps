@@ -119,3 +119,9 @@
 
 + [在线绘图工具drawio，visio的平替](https://blog.csdn.net/weixin_43215013/article/details/142820066)
 
++ [Vite 4.0 发布，下一代的前端工具链](https://blog.csdn.net/qq_41134427/article/details/142824574)
+
++ [小猿口算 基于pytesseract和pynput的高速ocr比大小](https://blog.csdn.net/qq_18813685/article/details/142819750)
+
++ [外包干了6天，技术明显退步。。。](https://blog.csdn.net/2301_77645834/article/details/142764116)
+
