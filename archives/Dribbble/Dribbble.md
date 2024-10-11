@@ -155,3 +155,9 @@
 
 + [Menu](https://dribbble.com/shots/)
 
++ [Soundium](https://dribbble.com/shots/)
+
++ [Odi Agency: Clevyr Case Study](https://dribbble.com/shots/)
+
++ [Affinity designer book tutorial](https://dribbble.com/shots/)
+
