@@ -119,3 +119,15 @@
 
 + [Casper Cards: Crypto Hardware Wallet](https://dribbble.com/shots/)
 
++ [Coder San Diego](https://dribbble.com/shots/)
+
++ [Pre-Deposit - Dashboard / Light](https://dribbble.com/shots/)
+
++ [Social work logo](https://dribbble.com/shots/)
+
++ [Q - Logo Design (Unused)](https://dribbble.com/shots/)
+
++ [Akrylic](https://dribbble.com/shots/)
+
++ [Bat king](https://dribbble.com/shots/)
+

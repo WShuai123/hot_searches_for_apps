@@ -65,3 +65,5 @@
 
 + [蚂蚁国际安全团队诚招安全人才！](https://www.freebuf.com/jobs/412615.html)
 
++ [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
+

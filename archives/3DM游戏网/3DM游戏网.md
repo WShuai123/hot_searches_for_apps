@@ -237,3 +237,13 @@
 
 + [日系车国人不买账了！丰田、本田、日产9月在华销量均同比下滑](https://www.3dmgame.com/news/202410/3906015.html)
 
++ [海上钻井平台运营模拟游戏 《Oil Rig Simulator》Steam页面公布](https://www.3dmgame.com/news/202410/3906018.html)
+
++ [HBO《绿灯侠》剧集约翰·斯图尔特选角确定](https://www.3dmgame.com/news/202410/3906019.html)
+
++ [《Everholm》11月登陆Steam 像素风开放世界RPG](https://www.3dmgame.com/news/202410/3906020.html)
+
++ [贾跃亭重申还债回国必须完成！价值观是绝不说假话](https://www.3dmgame.com/news/202410/3906016.html)
+
++ [古风互动《皇子驾到》幕后花絮视频 各个都是大美女](https://www.3dmgame.com/news/202410/3906017.html)
+
