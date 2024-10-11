@@ -205,3 +205,11 @@
 
 + [志愿汇](https://itunes.apple.com/cn/app/id959468399?mt=8)
 
++ [Quin - AI塔罗测测运势感情事业](https://itunes.apple.com/cn/app/id6480106163?mt=8)
+
++ [Top Widgets⁺ - 万能小组件灵动岛手机桌面主题](https://itunes.apple.com/cn/app/id6446477593?mt=8)
+
++ [倒数日 · Days Matter](https://itunes.apple.com/cn/app/id406170251?mt=8)
+
++ [百度地图-智能导航，打车地铁公交更快出行](https://itunes.apple.com/cn/app/id452186370?mt=8)
+
