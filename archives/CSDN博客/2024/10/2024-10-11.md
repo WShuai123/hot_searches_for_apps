@@ -195,3 +195,9 @@
 
 + [彻底解决docker：docker: Get https://registry-1.docker.io/v2/: net/http: request canceled 报错](https://blog.csdn.net/2301_79849395/article/details/142829852)
 
++ [边缘检测评估方法：FOM、RMSE、PSNR和SSIM对比实验和理论研究](https://blog.csdn.net/m0_46510245/article/details/142846096)
+
++ [重学SpringBoot3-集成Redis（十二）之点赞功能实现](https://blog.csdn.net/u014390502/article/details/142844417)
+
++ [YOLO11改进|注意力机制篇|引入MSCA注意力机制](https://blog.csdn.net/A1983Z/article/details/142767445)
+

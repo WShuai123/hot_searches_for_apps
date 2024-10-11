@@ -139,3 +139,15 @@
 
 + [Halloween Finders](https://dribbble.com/shots/)
 
++ [Rapidway Symbol](https://dribbble.com/shots/)
+
++ [Website for a Technology Brand ✦ 21Dop](https://dribbble.com/shots/)
+
++ [Logistics Website Design](https://dribbble.com/shots/)
+
++ [Greetings from MARS](https://dribbble.com/shots/)
+
++ [Birdly - Digital Marketing Agency - Logo Design ( Bird )](https://dribbble.com/shots/)
+
++ [Nobleblocks: Search](https://dribbble.com/shots/)
+

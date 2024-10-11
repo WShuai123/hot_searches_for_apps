@@ -53,3 +53,9 @@
 
 + [小米全屋路由 BE3600 Pro 预售：Wi-Fi 7、首次支持澎湃智联，单只到手价 349 元、套装 699 元](https://m.ithome.com/html/801329.htm)
 
++ [腾讯管理层内部谈游戏：自研团队正在调整，《黑神话：悟空》开发成本并不高](https://m.ithome.com/html/801402.htm)
+
++ [马斯克宣布推出特斯拉 Robovan 无人驾驶厢式货车，可承载 20 人也可载货](https://m.ithome.com/html/801328.htm)
+
++ [大学生涌入小猿口算“炸鱼”，官方升级优化 PK 匹配机制](https://m.ithome.com/html/801350.htm)
+

@@ -269,3 +269,7 @@
 
 + [ATLUS新作《暗喻幻想：ReFantazio》今日正式发售！荣获“M站”94分！](https://www.3dmgame.com/news/202410/3906030.html)
 
++ [微星上架创造者16 AI+锐龙版笔记本 15999元起](https://www.3dmgame.com/news/202410/3906034.html)
+
++ [Sweet Baby隐藏地更深了 官网删除合作游戏公司](https://www.3dmgame.com/news/202410/3906033.html)
+
