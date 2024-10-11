@@ -45,3 +45,7 @@
 
 + [消息称苹果 iPhone 17 / Pro 系列四款机型都将采用更易于拆卸的新型电池粘合剂](https://m.ithome.com/html/801252.htm)
 
++ [小米 Redmi K80 系列手机曝光：Pro 机型预估配高通骁龙 8 Gen 4 芯片](https://m.ithome.com/html/801325.htm)
+
++ [特斯拉 Cybercab 无人驾驶出租车亮相：鸥翼门设计，无踏板 / 方向盘](https://m.ithome.com/html/801324.htm)
+

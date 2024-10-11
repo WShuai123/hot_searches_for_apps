@@ -195,3 +195,21 @@
 
 + [哆啦A梦黑白熊声优大山羡代去世 享年90岁](https://www.3dmgame.com/news/202410/3905995.html)
 
++ [生死一线×动作 RPG “TRIBE NINE” 今日开放事前下载](https://www.3dmgame.com/news/202410/3905994.html)
+
++ [《城市：天际线2》发行商表示现今玩家期望值更高 不太能接受游戏随时间修复问题](https://www.3dmgame.com/news/202410/3906003.html)
+
++ [恋爱互动游戏《这个是真的喜欢！》创意互动小游戏曝光](https://www.3dmgame.com/news/202410/3906002.html)
+
++ [《小朋友齐打交2重制版》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3906001.html)
+
++ [KK官方对战平台新图《双生之战-OMG自走棋》惊喜上线！引爆dota团战新体验！](https://www.3dmgame.com/news/202410/3906000.html)
+
++ [Xbox Series X《夺宝奇兵：古老之圈》定制版主机 线下活动解谜赢取](https://www.3dmgame.com/news/202410/3905999.html)
+
++ [Steam 10月新品节宣传片公布 10月15日开启](https://www.3dmgame.com/news/202410/3905998.html)
+
++ [《刺客信条：幻景》Steam版10月17日发售 需要育碧客户端](https://www.3dmgame.com/news/202410/3905997.html)
+
++ [亚马逊影业总裁不希望007电影间隔太久 但对于等待下一部并不感到担心](https://www.3dmgame.com/news/202410/3905996.html)
+

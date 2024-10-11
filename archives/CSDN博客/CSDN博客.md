@@ -165,3 +165,17 @@
 
 + [processing像素画教程](https://blog.csdn.net/m0_63251896/article/details/142834607)
 
++ [【Hierarchical RL】分层演员-评论家（Hierarchical Actor-Critic ）算法](https://blog.csdn.net/qq_51399582/article/details/142739464)
+
++ [多元线性回归：机器学习中的经典模型探讨](https://blog.csdn.net/2302_81410974/article/details/142820391)
+
++ [小猿口算脚本](https://blog.csdn.net/qq_45910820/article/details/142795826)
+
++ [强大的PDF到Word转换工具](https://blog.csdn.net/weixin_43215013/article/details/142820510)
+
++ [跨站请求伪造（CSRF，Cross-Site Request Forgery）](https://blog.csdn.net/wangnanwlw/article/details/142697996)
+
++ [【银河麒麟高级服务器操作系统】安全配置基线相关分析全过程及解决方案](https://blog.csdn.net/2301_77223451/article/details/142814634)
+
++ [2024百度云智大会｜百度大模型内容安全合规探索与实践](https://blog.csdn.net/Baidu_Secrity/article/details/142829926)
+
