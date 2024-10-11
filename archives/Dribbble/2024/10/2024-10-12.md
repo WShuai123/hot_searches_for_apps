@@ -49,3 +49,17 @@
 
 + [MyPhones Business Cards](https://dribbble.com/shots/)
 
++ [Glyph beer 55](https://dribbble.com/shots/)
+
++ [32/32 – Albuquerque Atomics](https://dribbble.com/shots/)
+
++ [Personalized Music App Animation](https://dribbble.com/shots/)
+
++ [Xerox PARC](https://dribbble.com/shots/)
+
++ [Singer Banks - Modern Experimental Aesthetic Website - Contact](https://dribbble.com/shots/)
+
++ [Folder Structure](https://dribbble.com/shots/)
+
++ [Menu](https://dribbble.com/shots/)
+
