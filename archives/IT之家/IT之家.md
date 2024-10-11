@@ -37,3 +37,5 @@
 
 + [小米米家多功能便携手电筒开售：1000 流明亮度、3100mAh 电池，售价 99 元](https://m.ithome.com/html/801258.htm)
 
++ [特斯拉明天将在抖音、快手等直播 Robotaxi 发布会，马斯克称将是“载入史册的一天”](https://m.ithome.com/html/801077.htm)
+
