@@ -179,3 +179,9 @@
 
 + [2024百度云智大会｜百度大模型内容安全合规探索与实践](https://blog.csdn.net/Baidu_Secrity/article/details/142829926)
 
++ [【分布式微服务云原生】掌握Java分布式事务：2PC、3PC、TCC与Seata全解析](https://blog.csdn.net/u010425839/article/details/142772596)
+
++ [【如何学习计组】——基本概念与原理](https://blog.csdn.net/zhaochen1127/article/details/142771198)
+
++ [Webpack 完整指南](https://blog.csdn.net/2302_76329106/article/details/142844590)
+

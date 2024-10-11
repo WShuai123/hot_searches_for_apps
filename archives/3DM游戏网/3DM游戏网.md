@@ -233,3 +233,7 @@
 
 + [《使命召唤：黑色行动6》战役需联网 主机无需会员](https://www.3dmgame.com/news/202410/3906005.html)
 
++ [Xbox安卓移动应用11月起支持购买游戏](https://www.3dmgame.com/news/202410/3906014.html)
+
++ [日系车国人不买账了！丰田、本田、日产9月在华销量均同比下滑](https://www.3dmgame.com/news/202410/3906015.html)
+

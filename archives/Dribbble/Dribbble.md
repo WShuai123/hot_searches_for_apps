@@ -109,3 +109,13 @@
 
 + [Trenning - Creating Learning Paths: Assign Learners in SaaS LMS](https://dribbble.com/shots/)
 
++ [BL/S® Mockups Vol.1](https://dribbble.com/shots/)
+
++ [EnduroSat — Website subpages](https://dribbble.com/shots/)
+
++ [Nexus](https://dribbble.com/shots/)
+
++ [LOGO - LEO](https://dribbble.com/shots/)
+
++ [Casper Cards: Crypto Hardware Wallet](https://dribbble.com/shots/)
+
