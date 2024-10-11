@@ -27,3 +27,5 @@
 
 + [消息称华为 WATCH Ultimate 非凡大师手表降级，改名“非凡探索”](https://m.ithome.com/html/801409.htm)
 
++ [华为启动鸿蒙原生应用开发者激励计划，应用活跃激励最高 10 万元](https://m.ithome.com/html/801300.htm)
+

@@ -123,3 +123,5 @@
 
 + [【Linux探索学习】第四弹——Linux权限管理详解：理解用户、组和权限之间的关系](https://blog.csdn.net/2301_80220607/article/details/142834189)
 
++ [Vite 4.0 发布，下一代的前端工具链](https://blog.csdn.net/qq_41134427/article/details/142824574)
+
