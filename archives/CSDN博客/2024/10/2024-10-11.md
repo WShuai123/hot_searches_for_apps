@@ -141,3 +141,15 @@
 
 + [如何在全平台启用 IPv6 网络？（路由器、Windows、Linux、Docker）](https://blog.csdn.net/zc_mk/article/details/142828966)
 
++ [【AIGC】寻找ChatGPT最佳推理步骤：CoT思维链技术的探索与应用](https://blog.csdn.net/2201_75539691/article/details/142743054)
+
++ [【QT】信号和槽](https://blog.csdn.net/s_little_monster/article/details/142440821)
+
++ [学习threejs，网格深度材质MeshDepthMaterial](https://blog.csdn.net/qq_28419035/article/details/142817285)
+
++ [Windows电脑使用IDEA远程ssh异地无公网IP的Linux服务器进行开发](https://blog.csdn.net/w2915w/article/details/142826266)
+
++ [k8s网络通信](https://blog.csdn.net/H945572/article/details/142793514)
+
++ [开源全文搜索（搜索引擎）](https://blog.csdn.net/ok060/article/details/142818922)
+
