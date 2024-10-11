@@ -247,3 +247,25 @@
 
 + [古风互动《皇子驾到》幕后花絮视频 各个都是大美女](https://www.3dmgame.com/news/202410/3906017.html)
 
++ [中国在线视频APP月活TOP5出炉：优酷明显掉队](https://www.3dmgame.com/news/202410/3906031.html)
+
++ [AMD官宣下代顶级GPU：3nm全新架构 288GB海量内存！](https://www.3dmgame.com/news/202410/3906021.html)
+
++ [音乐才是游戏的灵魂？ ——对话游戏背后的音乐人](https://www.3dmgame.com/news/202410/3906022.html)
+
++ [《暗喻幻想：ReFantazio》首发当日 销量破百万](https://www.3dmgame.com/news/202410/3906023.html)
+
++ [最萌恐龙店铺现已开业，模拟经营《琥珀岛》PC版正式上线](https://www.3dmgame.com/news/202410/3906024.html)
+
++ [独特的定格动画动作冒险游戏《武士的精神》将于12月12日发布](https://www.3dmgame.com/news/202410/3906025.html)
+
++ [重生之我在老美当警察：《警区》试玩版即将亮相10月14日的Steam 新品节](https://www.3dmgame.com/news/202410/3906026.html)
+
++ [《索尼克×夏特 世代重启》序章动画第三集现已发布！奔赴太空殖民地方舟](https://www.3dmgame.com/news/202410/3906029.html)
+
++ [《七龙珠 电光炸裂！ZERO》今日上市！同步公开最新宣传视频](https://www.3dmgame.com/news/202410/3906028.html)
+
++ [解开亚特兰蒂斯的秘密，《凡尔纳：幻想之形》现已登陆Switch香港区！](https://www.3dmgame.com/news/202410/3906027.html)
+
++ [ATLUS新作《暗喻幻想：ReFantazio》今日正式发售！荣获“M站”94分！](https://www.3dmgame.com/news/202410/3906030.html)
+

@@ -39,3 +39,33 @@
 
 + [dagger / dagger](https://github.com/dagger/dagger)
 
++ [denoland / deno](https://github.com/denoland/deno)
+
++ [gradio-app / gradio](https://github.com/gradio-app/gradio)
+
++ [formbricks / formbricks](https://github.com/formbricks/formbricks)
+
++ [hyprwm / Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
+
++ [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
++ [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+
++ [unkeyed / unkey](https://github.com/unkeyed/unkey)
+
++ [mfts / papermark](https://github.com/mfts/papermark)
+
++ [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
+
++ [twentyhq / twenty](https://github.com/twentyhq/twenty)
+
++ [ossu / computer-science](https://github.com/ossu/computer-science)
+
++ [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
+
++ [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver)
+
