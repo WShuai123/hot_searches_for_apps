@@ -201,3 +201,5 @@
 
 + [YOLO11改进|注意力机制篇|引入MSCA注意力机制](https://blog.csdn.net/A1983Z/article/details/142767445)
 
++ [7.存储过程中的事务管理（7/10）](https://blog.csdn.net/beautifulmemory/article/details/142844553)
+

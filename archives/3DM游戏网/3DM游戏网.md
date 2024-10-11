@@ -275,3 +275,9 @@
 
 + [义体大逃杀《Off the Grid》火了 Twitch看量超《堡垒之夜》](https://www.3dmgame.com/news/202410/3906032.html)
 
++ [小扎称自己是《文明》大师段位 有人能打败他会很惊讶](https://www.3dmgame.com/news/202410/3906036.html)
+
++ [《古墓丽影4：复刻版》公布 明年2月14日登陆全平台](https://www.3dmgame.com/news/202410/3906037.html)
+
++ [DF：PS5 Pro像是从3060升级到4070](https://www.3dmgame.com/news/202410/3906035.html)
+
