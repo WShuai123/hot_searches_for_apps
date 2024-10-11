@@ -213,3 +213,23 @@
 
 + [亚马逊影业总裁不希望007电影间隔太久 但对于等待下一部并不感到担心](https://www.3dmgame.com/news/202410/3905996.html)
 
++ [一位幸运《暗喻幻想》玩家将有机会成为现实中的“贵族”](https://www.3dmgame.com/news/202410/3906009.html)
+
++ [国产长篇悬疑视觉小说游戏《神罪降临》DEMO现已上线，参与社区活动赢丰厚好礼！](https://www.3dmgame.com/news/202410/3906010.html)
+
++ [《灵拳 Spirit X Strike》试玩Demo提前开放，正式命名确认！](https://www.3dmgame.com/news/202410/3906011.html)
+
++ [任天堂紧急停止普售闹钟改为抽选 订单太多没法应对黄牛笑了](https://www.3dmgame.com/news/202410/3906012.html)
+
++ [肉鸽卡牌构建游戏《疯狂之门：重开》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202410/3906013.html)
+
++ [特斯拉推出无人驾驶货车Robovan：一次能装20人](https://www.3dmgame.com/news/202410/3906006.html)
+
++ [【TRIBE NINE】死游体验版 预告视频 | Steam 新品节](https://www.3dmgame.com/news/202410/3906007.html)
+
++ [3连败！国足1-3遭澳大利亚逆转引围观：国足教练喊话印尼也是强队 目标小组前四](https://www.3dmgame.com/news/202410/3906008.html)
+
++ [《ecline“s Drops》登陆Steam 手绘风2D横版动作](https://www.3dmgame.com/news/202410/3906004.html)
+
++ [《使命召唤：黑色行动6》战役需联网 主机无需会员](https://www.3dmgame.com/news/202410/3906005.html)
+

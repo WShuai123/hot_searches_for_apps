@@ -49,3 +49,7 @@
 
 + [特斯拉 Cybercab 无人驾驶出租车亮相：鸥翼门设计，无踏板 / 方向盘](https://m.ithome.com/html/801324.htm)
 
++ [腾讯 QQ 鸿蒙原生版开启内测报名](https://m.ithome.com/html/801318.htm)
+
++ [小米全屋路由 BE3600 Pro 预售：Wi-Fi 7、首次支持澎湃智联，单只到手价 349 元、套装 699 元](https://m.ithome.com/html/801329.htm)
+
