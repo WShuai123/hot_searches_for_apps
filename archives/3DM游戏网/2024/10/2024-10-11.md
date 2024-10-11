@@ -171,3 +171,25 @@
 
 + [发售17年后 原版《帝国时代3》10月底永久下架](https://www.3dmgame.com/news/202410/3905980.html)
 
++ [《我推的孩子》漫画原作即将完结 10月24日恢复连载 还剩最后4话内容](https://www.3dmgame.com/news/202410/3905992.html)
+
++ [平台剧情冒险游戏《阿里·布图和时间旅行电梯》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905984.html)
+
++ [《幸福工厂》Mod管理器现支持1.0版本和独立服务器](https://www.3dmgame.com/news/202410/3905993.html)
+
++ [《炉石传说》最新扩展包“深暗领域”现已公布 11月6日上线](https://www.3dmgame.com/news/202410/3905991.html)
+
++ [《胜利女神》两周年庆典直播10月26日举行 新情报活动预定](https://www.3dmgame.com/news/202410/3905990.html)
+
++ [动态沙盒回合制战术角色扮演游戏《尘墓纪事》现已推出免费序章](https://www.3dmgame.com/news/202410/3905988.html)
+
++ [老黄不手软！英伟达RTX50系价格首曝 5090这涨幅迅猛](https://www.3dmgame.com/news/202410/3905989.html)
+
++ [欧洲9月榜：销量跃升20% 《星际战士2》第三名](https://www.3dmgame.com/news/202410/3905986.html)
+
++ [历史性时刻 比亚迪超越上汽成中国最大汽车集团](https://www.3dmgame.com/news/202410/3905987.html)
+
++ [《切尔诺贝利人2》地图比前作大20倍 2025年秋季发布](https://www.3dmgame.com/news/202410/3905985.html)
+
++ [《星球大战前传1：幽灵的威胁》预购开启 明年上线](https://www.3dmgame.com/news/202410/3905983.html)
+

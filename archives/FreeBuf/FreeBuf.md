@@ -57,3 +57,5 @@
 
 + [伊朗黑客使用ChatGPT策划ICS攻击](https://www.freebuf.com/news/412521.html)
 
++ [数字化时代的隐患：如何应对API安全风险](https://www.freebuf.com/articles/database/412243.html)
+
