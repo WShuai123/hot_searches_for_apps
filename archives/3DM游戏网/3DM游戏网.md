@@ -193,3 +193,5 @@
 
 + [《星球大战前传1：幽灵的威胁》预购开启 明年上线](https://www.3dmgame.com/news/202410/3905983.html)
 
++ [哆啦A梦黑白熊声优大山羡代去世 享年90岁](https://www.3dmgame.com/news/202410/3905995.html)
+

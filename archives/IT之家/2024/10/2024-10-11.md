@@ -43,3 +43,5 @@
 
 + [上汽奥迪 A5L 谍照曝光：保险杠放置两颗激光雷达，与华为合作智驾](https://m.ithome.com/html/801142.htm)
 
++ [消息称苹果 iPhone 17 / Pro 系列四款机型都将采用更易于拆卸的新型电池粘合剂](https://m.ithome.com/html/801252.htm)
+

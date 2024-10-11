@@ -59,3 +59,5 @@
 
 + [数字化时代的隐患：如何应对API安全风险](https://www.freebuf.com/articles/database/412243.html)
 
++ [研究人员在Windows版的SVN中发现代码执行漏洞](https://www.freebuf.com/news/412549.html)
+

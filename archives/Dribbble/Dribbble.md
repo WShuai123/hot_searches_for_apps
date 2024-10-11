@@ -85,3 +85,9 @@
 
 + [Ecommerce Fashion Store](https://dribbble.com/shots/)
 
++ [Six Speed Coffee](https://dribbble.com/shots/)
+
++ [Language Learning App Exploration](https://dribbble.com/shots/)
+
++ [Cryptocurrency Platform | Crypto trading and investing](https://dribbble.com/shots/)
+
