@@ -125,3 +125,7 @@
 
 + [Vite 4.0 发布，下一代的前端工具链](https://blog.csdn.net/qq_41134427/article/details/142824574)
 
++ [机器学习与神经网络：诺贝尔物理学奖的新篇章](https://blog.csdn.net/hh867308122/article/details/142824889)
+
++ [【项目管理】如何根据 PV、EV、AC 计算 CPI 和 SPI？](https://blog.csdn.net/qq_41840843/article/details/142855850)
+

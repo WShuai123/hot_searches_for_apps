@@ -103,3 +103,7 @@
 
 + [《古墓丽影》系列销量破1亿 本月庆祝周年纪念日](https://www.3dmgame.com/news/202410/3906040.html)
 
++ [恐怖小丑来袭《断魂小丑》游戏版明年上市](https://www.3dmgame.com/news/202410/3906042.html)
+
++ [新动画《乐高漫威复仇者联盟：拆除任务》本月播出](https://www.3dmgame.com/news/202410/3906041.html)
+
