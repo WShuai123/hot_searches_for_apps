@@ -35,3 +35,5 @@
 
 + [小米 SU7 Ultra 首次征战纽北却遇雨天，雷军直言“确实有点失望”](https://m.ithome.com/html/801272.htm)
 
++ [小米米家多功能便携手电筒开售：1000 流明亮度、3100mAh 电池，售价 99 元](https://m.ithome.com/html/801258.htm)
+

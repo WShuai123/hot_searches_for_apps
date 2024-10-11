@@ -141,3 +141,15 @@
 
 + [重力掌控一切《重力锻造》实机预告震撼公开](https://www.3dmgame.com/news/202410/3905956.html)
 
++ [《狂奔：皇家赛车》免费登陆Steam 多人赛车大逃杀](https://www.3dmgame.com/news/202410/3905973.html)
+
++ [P社总结《天际线2》失败：玩家要求更高](https://www.3dmgame.com/news/202410/3905969.html)
+
++ [还没死透？《星鸣特攻》Steam后台仍在继续更新](https://www.3dmgame.com/news/202410/3905972.html)
+
++ [模拟经营加探索制作游戏《琥珀岛》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202410/3905971.html)
+
++ [ARPG新作《Bylina》预告 基于斯拉夫民俗与神话](https://www.3dmgame.com/news/202410/3905970.html)
+
++ [Bungie《马拉松》或将于2025年第一季度开启预购](https://www.3dmgame.com/news/202410/3905968.html)
+

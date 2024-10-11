@@ -45,3 +45,9 @@
 
 + [CC2反序列化链与TemplatesImpl命令执行链分析](https://www.freebuf.com/vuls/411681.html)
 
++ [漏洞挖掘 | 分享几个白帽常用漏洞小技巧](https://www.freebuf.com/articles/web/405947.html)
+
++ [AI将为谁所用？伊朗黑客“Cyber​​Av3ngers”使用ChatGPT策划ICS攻击](https://www.freebuf.com/news/412521.html)
+
++ [Django-DOS漏洞分析&复现（CVE-2024-41989）](https://www.freebuf.com/vuls/412186.html)
+
