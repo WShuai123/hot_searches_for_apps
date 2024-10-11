@@ -119,3 +119,25 @@
 
 + [任天堂神秘测试计划启动 官方严禁泄露内容](https://www.3dmgame.com/news/202410/3905953.html)
 
++ [《战国王朝》PC正式版11月7日推出 主机版2025年发售](https://www.3dmgame.com/news/202410/3905965.html)
+
++ [《七龙珠 电光炸裂！ZERO》Steam特别好评 在线超12万](https://www.3dmgame.com/news/202410/3905966.html)
+
++ [前暴雪总裁迈克·莫汉创立的工作室公布首款游戏《破碎族裔》](https://www.3dmgame.com/news/202410/3905967.html)
+
++ [Xbox将在沙特地区停售？微软回应：假消息](https://www.3dmgame.com/news/202410/3905962.html)
+
++ [Steam Deck下个月正式开始在澳大利亚开卖](https://www.3dmgame.com/news/202410/3905963.html)
+
++ [亨利卡维尔加盟《战神金刚》真人电影 担任主演](https://www.3dmgame.com/news/202410/3905964.html)
+
++ [曝多款《战神》复刻版开发中 或于2025年发售](https://www.3dmgame.com/news/202410/3905959.html)
+
++ [Konami取代EA成为FIFA电竞比赛合作伙伴](https://www.3dmgame.com/news/202410/3905960.html)
+
++ [《双截龙再临》Boss威利介绍视频 凶狠的猛男！](https://www.3dmgame.com/news/202410/3905961.html)
+
++ [《细胞分裂：重制版》仍在开发中 或于2026年发布](https://www.3dmgame.com/news/202410/3905958.html)
+
++ [重力掌控一切《重力锻造》实机预告震撼公开](https://www.3dmgame.com/news/202410/3905956.html)
+

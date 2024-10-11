@@ -29,3 +29,9 @@
 
 + [Windows / Mac 微信 4.0.0 内测版本更新：新增深色模式、字号大小设置](https://m.ithome.com/html/801213.htm)
 
++ [韩国作家韩江获得 2024 诺贝尔文学奖](https://m.ithome.com/html/801202.htm)
+
++ [小米王腾：Redmi 旗舰新品的产品定位、规格升级，预计年底发布](https://m.ithome.com/html/801176.htm)
+
++ [小米 SU7 Ultra 首次征战纽北却遇雨天，雷军直言“确实有点失望”](https://m.ithome.com/html/801272.htm)
+

@@ -41,3 +41,7 @@
 
 + [代码审计 | 你一定会审的java系统](https://www.freebuf.com/articles/web/393271.html)
 
++ [FreeBuf早报 | 高通产品被发现存在 20 个漏洞；英格兰银行关键支付系统崩溃](https://www.freebuf.com/news/412462.html)
+
++ [CC2反序列化链与TemplatesImpl命令执行链分析](https://www.freebuf.com/vuls/411681.html)
+
