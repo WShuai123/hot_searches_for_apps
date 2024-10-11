@@ -25,3 +25,5 @@
 
 + [vivo X200 系列手机全球首发蓝图 × 索尼 LYT-818 定制传感器：拍视频“超越”一英寸](https://m.ithome.com/html/801291.htm)
 
++ [消息称华为 WATCH Ultimate 非凡大师手表降级，改名“非凡探索”](https://m.ithome.com/html/801409.htm)
+

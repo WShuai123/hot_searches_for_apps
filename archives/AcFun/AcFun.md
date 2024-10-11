@@ -61,3 +61,11 @@
 
 + [【东方】ナイト・オブ・ナイツ 长笛Arrange【かとろーる】](http://www.acfun.cn/v/ac46370501)
 
++ [拿“头”拍的电影，新时代的“霸王别姬”，如今最难看到的华语片《椒麻堂会》](http://www.acfun.cn/v/ac46371453)
+
++ [【蒜香烧鸡】我把鸡腿放在这里，不准偷吃](http://www.acfun.cn/v/ac46371435)
+
++ [【中文解说】速看S14全球总决赛 瑞士轮 TES vs DK](http://www.acfun.cn/v/ac46367742)
+
++ [我回来了！我带着Jennie回来了](http://www.acfun.cn/v/ac46372250)
+
