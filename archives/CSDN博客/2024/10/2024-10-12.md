@@ -105,3 +105,19 @@
 
 + [Webpack 完整指南](https://blog.csdn.net/2302_76329106/article/details/142844590)
 
++ [办公AI推荐：阅读总结视频翻译文档文章等—包阅AI](https://blog.csdn.net/jxjdhdnd/article/details/142764664)
+
++ [【Linux系统编程】第三十弹---软硬链接与动静态库的深入探索](https://blog.csdn.net/2201_75584283/article/details/142034854)
+
++ [【Golang】Go语言中如何通过Goroutine快速实现高并发](https://blog.csdn.net/littlefun591/article/details/142823192)
+
++ [Linux平台Kafka高可用集群部署全攻略](https://blog.csdn.net/weixin_53269650/article/details/142088476)
+
++ [【网络原理】TCP协议提高效率的秘密-滑动窗口机制](https://blog.csdn.net/acm_pn/article/details/142821859)
+
++ [计算机视觉之OpenCV vs YOLO](https://blog.csdn.net/renhui1112/article/details/142799566)
+
++ [1-15 openGauss课程 -- openGauss 6.0.0 认证课程](https://blog.csdn.net/openGauss0809/article/details/142792694)
+
++ [【语音告警】博灵智能语音报警灯组播配网场景实例-语音报警灯|声光报警器|网络信号灯](https://blog.csdn.net/2401_87356806/article/details/142845791)
+
