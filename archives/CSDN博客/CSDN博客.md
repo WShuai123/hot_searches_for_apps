@@ -151,3 +151,15 @@
 
 + [Qt 数据库，人脸识别](https://blog.csdn.net/yangh1231/article/details/142862778)
 
++ [【AI第四次工业革命】](https://blog.csdn.net/qyj19920704/article/details/142833804)
+
++ [机器学习中的多模态学习：用C/C++实现高效模型](https://blog.csdn.net/2406_83947720/article/details/142748590)
+
++ [《 C++ 修炼全景指南：十五 》突破算法极限：并查集如何轻松搞定最棘手的连通性问题？](https://blog.csdn.net/mmlhbjk/article/details/142865958)
+
++ [运维工具之ansible](https://blog.csdn.net/qq_68289621/article/details/142824307)
+
++ [配置MAC地址安全](https://blog.csdn.net/zhgjx_ywz/article/details/142830961)
+
++ [飞行机器人专栏（十六）-- 双臂机器人体感交互式控制](https://blog.csdn.net/hhaowang/article/details/142813550)
+

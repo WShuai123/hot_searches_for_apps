@@ -45,3 +45,9 @@
 
 + [你“购买”的游戏只是“游玩许可证”，V 社更新 Steam 购物车页面展示《订户协议》信息](https://m.ithome.com/html/801482.htm)
 
++ [奔驰回应“215 万元迈巴赫新车漏水”：进一步拆检遭客户反对，将尽快明确问题完成检修](https://m.ithome.com/html/801558.htm)
+
++ [哆啦 A 梦声优大山羡代去世，享年 90 岁](https://m.ithome.com/html/801360.htm)
+
++ [因未满足投资承诺，苹果 iPhone 16 在印尼面临销售禁令](https://m.ithome.com/html/801511.htm)
+

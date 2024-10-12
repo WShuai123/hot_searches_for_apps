@@ -167,3 +167,17 @@
 
 + [V社《Deadlock》正式添加天梯匹配：10月16日解锁](https://www.3dmgame.com/news/202410/3906072.html)
 
++ [《死侍与金刚狼》打破《疾速追杀》美国R级电影数字首周销量纪录](https://www.3dmgame.com/news/202410/3906079.html)
+
++ [黄仁勋自曝每天使用ChatGPT！相信它会越来越强](https://www.3dmgame.com/news/202410/3906078.html)
+
++ [打字策略游戏《指尖传说》现已在Steam平台推出试玩Demo 正式版11月4日发售](https://www.3dmgame.com/news/202410/3906077.html)
+
++ [《绝地潜兵2》承诺60日大补丁延期3天：没算到是周末](https://www.3dmgame.com/news/202410/3906076.html)
+
++ [合作动作类肉鸽游戏《喵门镖局-狂野森林》现已推出试玩Demo](https://www.3dmgame.com/news/202410/3906074.html)
+
++ [《文明7》越南开国女王征侧预告 2月11日发售](https://www.3dmgame.com/news/202410/3906075.html)
+
++ [《明末：渊虚之羽》预计于2025年推出 准备好迎接本作](https://www.3dmgame.com/news/202410/3906073.html)
+
