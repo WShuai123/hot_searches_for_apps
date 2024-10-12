@@ -53,3 +53,9 @@
 
 + [Etinte - Saas, Tech, Bank, Financial, Finance Logo Design](https://dribbble.com/shots/)
 
++ [Singer Banks - Modern Experimental Aesthetic Website - Main (S)](https://dribbble.com/shots/)
+
++ [Eagle crest logo](https://dribbble.com/shots/)
+
++ [Social worker](https://dribbble.com/shots/)
+
