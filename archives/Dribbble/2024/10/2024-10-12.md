@@ -127,3 +127,5 @@
 
 + [Defendo Logo Mark - A Web 3 Security Company](https://dribbble.com/shots/)
 
++ [Etinte - Saas, Tech, Bank, Financial, Finance Logo Design](https://dribbble.com/shots/)
+

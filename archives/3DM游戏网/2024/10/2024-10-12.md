@@ -231,3 +231,7 @@
 
 + [传RTX 5080综合效能无法抗衡4090 没有D版本](https://www.3dmgame.com/news/202410/3906104.html)
 
++ [R星前技术总监认为《GTA6》PC版要等到2027年](https://www.3dmgame.com/news/202410/3906105.html)
+
++ [《荒野大镖客：救赎》粉丝抱怨PC版50美元定价太贵](https://www.3dmgame.com/news/202410/3906106.html)
+

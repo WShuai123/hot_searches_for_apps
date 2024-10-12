@@ -61,3 +61,5 @@
 
 + [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
 
++ [2024 VDC划重点！一文详解vivo隐私安全最新技术升级](https://www.freebuf.com/fevents/412562.html)
+
