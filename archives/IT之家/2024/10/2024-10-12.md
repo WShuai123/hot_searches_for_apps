@@ -55,3 +55,5 @@
 
 + [USB 启动盘制作工具 Rufus 4.6 Beta 版发布，可绕过 Win11 24H2 兼容性检查](https://m.ithome.com/html/801515.htm)
 
++ [微信 iOS 版 8.0.53 最新官方正式版下载发布](https://m.ithome.com/html/801587.htm)
+

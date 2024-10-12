@@ -191,3 +191,5 @@
 
 + [记者称微软并未正面回应Xbox撤出沙特传闻：只说还能买到](https://www.3dmgame.com/news/202410/3906084.html)
 
++ [真人版罪案悬疑互动作品《幻面行者》Steam页面上线  支持中文](https://www.3dmgame.com/news/202410/3906085.html)
+

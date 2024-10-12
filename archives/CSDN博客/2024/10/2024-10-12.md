@@ -169,3 +169,11 @@
 
 + [基于FPGA的以太网设计（二）](https://blog.csdn.net/qq_69315815/article/details/142855820)
 
++ [【AIGC】ChatGPT提示词Prompt高效编写模式：思维链、Self-Consistency CoT与Zero-Shot CoT](https://blog.csdn.net/2201_75539691/article/details/142717910)
+
++ [【Golang】Go高并发之线程间数据通信Channel原理解析与应用实战](https://blog.csdn.net/littlefun591/article/details/142859818)
+
++ [Python 网络爬虫高阶用法](https://blog.csdn.net/u012263104/article/details/142863387)
+
++ [介绍各种编程语言](https://blog.csdn.net/hjxxlsx/article/details/142864589)
+
