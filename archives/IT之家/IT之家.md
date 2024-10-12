@@ -31,3 +31,7 @@
 
 + [适配鸿蒙 HarmonyOS NEXT，华为应用市场 11 月 10 日起仅允许集成 API12 Release SDK 的应用上架](https://m.ithome.com/html/801513.htm)
 
++ [消息称小米 15 系列、iQOO 13、一加 13 等机型将在 10 月最后一周发布](https://m.ithome.com/html/801503.htm)
+
++ [限量 5 折 699 元：苹果 AirPods 3 耳机京东自营 11.11 发车](https://m.ithome.com/html/801502.htm)
+

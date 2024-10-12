@@ -131,3 +131,11 @@
 
 + [【拥抱AIGC】知识库构建与管理指南](https://blog.csdn.net/segwy/article/details/142652840)
 
++ [【机器视觉】Apriltag 算法提高检测频率 | 从4Hz提升至25Hz的秘诀](https://blog.csdn.net/weixin_51200029/article/details/142833869)
+
++ [【机器学习】金融预测 —— 风险管理与股市预测](https://blog.csdn.net/2202_76097976/article/details/142806066)
+
++ [华为、字节、Dimforge等顶尖专家齐聚，GOSIM CHINA 2024《下一代媒体与终端》专题论坛等你来](https://blog.csdn.net/GOSIM2023/article/details/142829275)
+
++ [【Linux】五种IO模型](https://blog.csdn.net/2301_77112634/article/details/142764020)
+

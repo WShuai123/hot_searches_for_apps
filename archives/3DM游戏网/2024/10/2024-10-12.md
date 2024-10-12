@@ -131,3 +131,21 @@
 
 + [新预告确定《Overthrown》支持最多6人合作](https://www.3dmgame.com/news/202410/3906043.html)
 
++ [美国8月支出榜：口碑不佳 《星战：法外狂徒》仍位列前三](https://www.3dmgame.com/news/202410/3906059.html)
+
++ [《第一后裔》终极弗雷娜皮肤图赏 非常性感诱惑](https://www.3dmgame.com/news/202410/3906060.html)
+
++ [平台跳跃游戏《Ayasa》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3906061.html)
+
++ [面对加州新规GOG发推嘲讽：将在购买页面提醒玩家可获得游戏所有权](https://www.3dmgame.com/news/202410/3906062.html)
+
++ [前《极乐迪斯科》开发者创建三家新工作室](https://www.3dmgame.com/news/202410/3906063.html)
+
++ [《真三国无双：起源》甘宁和庞统介绍 甘宁更成熟了](https://www.3dmgame.com/news/202410/3906055.html)
+
++ [Xbox云游戏将从11月起允许玩家串联库中的所有游戏](https://www.3dmgame.com/news/202410/3906056.html)
+
++ [《寂静之地：前方之路》主要灵感来自《异形：隔离》](https://www.3dmgame.com/news/202410/3906057.html)
+
++ [《三角洲行动》Steam愿望单破210万 国际服新品节开测](https://www.3dmgame.com/news/202410/3906058.html)
+
