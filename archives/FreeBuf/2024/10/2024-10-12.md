@@ -41,3 +41,7 @@
 
 + [渗透测试 | 一起漏洞利用&水坑攻击分析](https://www.freebuf.com/defense/411452.html)
 
++ [FreeBuf早报 | 国安部警告闲置网络设备莫大意；欧洲理事会通过《网络弹性法案》](https://www.freebuf.com/news/412560.html)
+
++ [ofcms 代码审计 |  java代码审计学习](https://www.freebuf.com/vuls/411959.html)
+

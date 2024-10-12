@@ -29,3 +29,5 @@
 
 + [华为启动鸿蒙原生应用开发者激励计划，应用活跃激励最高 10 万元](https://m.ithome.com/html/801300.htm)
 
++ [适配鸿蒙 HarmonyOS NEXT，华为应用市场 11 月 10 日起仅允许集成 API12 Release SDK 的应用上架](https://m.ithome.com/html/801513.htm)
+

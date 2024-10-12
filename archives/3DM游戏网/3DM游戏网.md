@@ -107,3 +107,27 @@
 
 + [新动画《乐高漫威复仇者联盟：拆除任务》本月播出](https://www.3dmgame.com/news/202410/3906041.html)
 
++ [《寂静之地：前方之路》PS5/XSX支持4K/30帧](https://www.3dmgame.com/news/202410/3906054.html)
+
++ [《星河舰队：灭绝》现已正式发售 新增单人教程模式](https://www.3dmgame.com/news/202410/3906053.html)
+
++ [老滚5设计师：B社不能随便换引擎 因创造引擎经过完美调试](https://www.3dmgame.com/news/202410/3906052.html)
+
++ [CDPR回应公司陷入困境传言：无稽之谈 停止阴谋论](https://www.3dmgame.com/news/202410/3906051.html)
+
++ [Steam警告客户：你们购买的游戏只是游玩许可证](https://www.3dmgame.com/news/202410/3906050.html)
+
++ [樱井政博游戏开发视频最终回深情缅怀岩田聪](https://www.3dmgame.com/news/202410/3906048.html)
+
++ [侦探冒险游戏《黄金偶像案》重制版11/12推出](https://www.3dmgame.com/news/202410/3906049.html)
+
++ [《暗喻幻想》同时在线Steam玩家数量超过6.1万人](https://www.3dmgame.com/news/202410/3906047.html)
+
++ [传言《霍格沃茨之遗》最终版明年推出 包含10-15小时新内容](https://www.3dmgame.com/news/202410/3906046.html)
+
++ [前极乐迪斯科开发者成立了三个不同的新工作室](https://www.3dmgame.com/news/202410/3906045.html)
+
++ [《堡垒之夜》万圣节活动联动恐怖角色皮肤曝光](https://www.3dmgame.com/news/202410/3906044.html)
+
++ [新预告确定《Overthrown》支持最多6人合作](https://www.3dmgame.com/news/202410/3906043.html)
+

@@ -129,3 +129,5 @@
 
 + [【项目管理】如何根据 PV、EV、AC 计算 CPI 和 SPI？](https://blog.csdn.net/qq_41840843/article/details/142855850)
 
++ [【拥抱AIGC】知识库构建与管理指南](https://blog.csdn.net/segwy/article/details/142652840)
+
