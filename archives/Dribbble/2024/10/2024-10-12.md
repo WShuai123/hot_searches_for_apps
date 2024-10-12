@@ -131,3 +131,9 @@
 
 + [Modern Thunder S Letter Logo](https://dribbble.com/shots/)
 
++ [Vectober 12 // Earth](https://dribbble.com/shots/)
+
++ [Wyatt Herb's Logo Design](https://dribbble.com/shots/)
+
++ [Agency Brand Identity](https://dribbble.com/shots/)
+
