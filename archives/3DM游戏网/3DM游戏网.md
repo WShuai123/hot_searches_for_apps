@@ -149,3 +149,15 @@
 
 + [《三角洲行动》Steam愿望单破210万 国际服新品节开测](https://www.3dmgame.com/news/202410/3906058.html)
 
++ [CDPR和企鹅与兰登书屋合作推出儿童读物《小小猎魔人》](https://www.3dmgame.com/news/202410/3906069.html)
+
++ [Steam Deck支持Epic和GOG插件即将登陆Steam](https://www.3dmgame.com/news/202410/3906068.html)
+
++ [《七龙珠 电光炸裂！ZERO》媒体评分出炉 IGN 7分](https://www.3dmgame.com/news/202410/3906067.html)
+
++ [约会模拟器《Date Everything!》发售日预告 情人节发售](https://www.3dmgame.com/news/202410/3906066.html)
+
++ [治愈系动作冒险游戏《Europa》现已在Steam平台正式发售 获得好评](https://www.3dmgame.com/news/202410/3906065.html)
+
++ [《星球大战》首个变性克隆人士兵亮相 穿骄傲色盔甲](https://www.3dmgame.com/news/202410/3906064.html)
+

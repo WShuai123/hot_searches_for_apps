@@ -139,3 +139,9 @@
 
 + [【Linux】五种IO模型](https://blog.csdn.net/2301_77112634/article/details/142764020)
 
++ [【C++篇】虚境探微：多态的流动诗篇，解锁动态的艺术密码](https://blog.csdn.net/2301_79849925/article/details/142817956)
+
++ [【MySQL】CRUD增删改查操作](https://blog.csdn.net/2301_80085602/article/details/142827634)
+
++ [【Redis十二】Redis的典型应用（缓存和分布式锁）](https://blog.csdn.net/2203_75565612/article/details/142521787)
+
