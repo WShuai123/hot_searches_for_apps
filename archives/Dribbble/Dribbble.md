@@ -113,3 +113,17 @@
 
 + [Clinic, Hospital, Doctor, Dentist, Healthcare, Medical Website](https://dribbble.com/shots/)
 
++ [ODAKONE - Bird Logo Design | DAINOGO](https://dribbble.com/shots/)
+
++ [Letter R & D - Modern, Minimalist, Tech, StartUp Logo](https://dribbble.com/shots/)
+
++ [Ai Audio Platform Website 2024](https://dribbble.com/shots/)
+
++ [marketing logo, logo design, arrow logo, hexagone logo](https://dribbble.com/shots/)
+
++ [Currency exchange app](https://dribbble.com/shots/)
+
++ [Architecture Company Portfolio Website Design](https://dribbble.com/shots/)
+
++ [Defendo Logo Mark - A Web 3 Security Company](https://dribbble.com/shots/)
+

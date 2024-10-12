@@ -229,3 +229,5 @@
 
 + [创新AI桌宠《Ai Vpet / 守护与智友》全球竞赛第二期启动](https://www.3dmgame.com/news/202410/3906092.html)
 
++ [传RTX 5080综合效能无法抗衡4090 没有D版本](https://www.3dmgame.com/news/202410/3906104.html)
+
