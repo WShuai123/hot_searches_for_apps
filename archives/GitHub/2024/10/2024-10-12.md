@@ -41,3 +41,17 @@
 
 + [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver)
 
++ [teamhanko / hanko](https://github.com/teamhanko/hanko)
+
++ [vuejs / core](https://github.com/vuejs/core)
+
++ [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [nextcloud / server](https://github.com/nextcloud/server)
+
++ [dagger / dagger](https://github.com/dagger/dagger)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [nocobase / nocobase](https://github.com/nocobase/nocobase)
+
