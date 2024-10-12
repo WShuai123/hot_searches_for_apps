@@ -145,3 +145,9 @@
 
 + [【Redis十二】Redis的典型应用（缓存和分布式锁）](https://blog.csdn.net/2203_75565612/article/details/142521787)
 
++ [泰始明昌文旅：如何打造真正的文旅爆品体系](https://blog.csdn.net/taishimingchang/article/details/142815551)
+
++ [2024年诺贝尔物理学奖授予机器学习与神经网络：变革、应用与展望](https://blog.csdn.net/lilinhai548/article/details/142859259)
+
++ [Qt 数据库，人脸识别](https://blog.csdn.net/yangh1231/article/details/142862778)
+

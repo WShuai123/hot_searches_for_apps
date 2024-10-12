@@ -51,3 +51,7 @@
 
 + [从JS接口到拿下超级管理员权限](https://www.freebuf.com/vuls/409392.html)
 
++ [泄露3.34亿客户信息，万豪决定支付3.6亿元和解](https://www.freebuf.com/news/412685.html)
+
++ [因泄露数亿人数据，美国国家公共数据公司申请破产](https://www.freebuf.com/news/412671.html)
+

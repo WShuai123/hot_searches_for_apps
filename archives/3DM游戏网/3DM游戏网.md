@@ -161,3 +161,9 @@
 
 + [《星球大战》首个变性克隆人士兵亮相 穿骄傲色盔甲](https://www.3dmgame.com/news/202410/3906064.html)
 
++ [中世纪风格动作类肉鸽游戏《饥兽之战》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3906070.html)
+
++ [美国联邦航空管理局批准 SpaceX猎鹰9号火箭恢复发射](https://www.3dmgame.com/news/202410/3906071.html)
+
++ [V社《Deadlock》正式添加天梯匹配：10月16日解锁](https://www.3dmgame.com/news/202410/3906072.html)
+

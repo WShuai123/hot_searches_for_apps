@@ -35,3 +35,13 @@
 
 + [限量 5 折 699 元：苹果 AirPods 3 耳机京东自营 11.11 发车](https://m.ithome.com/html/801502.htm)
 
++ [贾跃亭：还债回国是我必须完成的事情](https://m.ithome.com/html/801535.htm)
+
++ [OPPO Find X8 Pro 配备“抓拍快启键”，号称就像音量键一样简单](https://m.ithome.com/html/801337.htm)
+
++ [消息称小米平板 7 系列搭载骁龙 7+/8s Gen3 处理器、11.16 英寸 144Hz LCD 屏](https://m.ithome.com/html/801359.htm)
+
++ [消息称海康威视大规模人员缩编 N+2 赔偿：32 个研发区域只留 12 个，预计波及上千员工](https://m.ithome.com/html/801383.htm)
+
++ [你“购买”的游戏只是“游玩许可证”，V 社更新 Steam 购物车页面展示《订户协议》信息](https://m.ithome.com/html/801482.htm)
+
