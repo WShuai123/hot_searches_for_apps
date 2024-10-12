@@ -177,3 +177,9 @@
 
 + [介绍各种编程语言](https://blog.csdn.net/hjxxlsx/article/details/142864589)
 
++ [【机器学习】推荐系统——基于用户行为分析的个性化推荐技术](https://blog.csdn.net/2202_76097976/article/details/142867801)
+
++ [【Linux进程信号】Linux信号产生机制详解：掌握系统通信的关键](https://blog.csdn.net/EterNity_TiMe_/article/details/142827566)
+
++ [【多模态】ViT模型技术学习](https://blog.csdn.net/qq_37734256/article/details/142834080)
+

@@ -193,3 +193,11 @@
 
 + [真人版罪案悬疑互动作品《幻面行者》Steam页面上线  支持中文](https://www.3dmgame.com/news/202410/3906085.html)
 
++ [Blackwell需求量惊人 NVIDIA未来1年订单已全部售罄](https://www.3dmgame.com/news/202410/3906088.html)
+
++ [上汽集团9月销量报告：上汽大众、上汽通用全线大跌 仅剩智己暴涨](https://www.3dmgame.com/news/202410/3906089.html)
+
++ [暴雪前总裁认为游戏行业低迷的说法夸大其词 称大公司只是想削减开支](https://www.3dmgame.com/news/202410/3906086.html)
+
++ [育碧仍未放弃区块链 推出公司首款Web3游戏](https://www.3dmgame.com/news/202410/3906087.html)
+

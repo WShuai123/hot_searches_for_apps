@@ -59,3 +59,5 @@
 
 + [file-unpumper：一款针对PE文件的安全分析工具](https://www.freebuf.com/sectool/412169.html)
 
++ [应急响应 | 勒索病毒应急流程](https://www.freebuf.com/articles/es/407931.html)
+
