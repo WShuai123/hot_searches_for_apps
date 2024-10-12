@@ -129,3 +129,5 @@
 
 + [Etinte - Saas, Tech, Bank, Financial, Finance Logo Design](https://dribbble.com/shots/)
 
++ [Modern Thunder S Letter Logo](https://dribbble.com/shots/)
+
