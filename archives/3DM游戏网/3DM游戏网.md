@@ -181,3 +181,13 @@
 
 + [《明末：渊虚之羽》预计于2025年推出 准备好迎接本作](https://www.3dmgame.com/news/202410/3906073.html)
 
++ [KK官方对战平台超燃地图续作《不死武夫II》火爆上线！带你重返热血时光！](https://www.3dmgame.com/news/202410/3906080.html)
+
++ [《方块方舟》限时25折特惠，仅需29元！探索方块世界，体验无限自由！](https://www.3dmgame.com/news/202410/3906081.html)
+
++ [《银魂》番外动画《3年Z班银八老师》全新预告公布 2025年10月开播](https://www.3dmgame.com/news/202410/3906082.html)
+
++ [找茬类异常恐怖游戏《无人》Steam页面上线 年内发售](https://www.3dmgame.com/news/202410/3906083.html)
+
++ [记者称微软并未正面回应Xbox撤出沙特传闻：只说还能买到](https://www.3dmgame.com/news/202410/3906084.html)
+
