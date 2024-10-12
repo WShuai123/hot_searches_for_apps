@@ -201,3 +201,7 @@
 
 + [育碧仍未放弃区块链 推出公司首款Web3游戏](https://www.3dmgame.com/news/202410/3906087.html)
 
++ [扎克伯格最爱《文明》系列：自称强到“无人能敌”](https://www.3dmgame.com/news/202410/3906090.html)
+
++ [文字冒险游戏《Iris Odyssey》Steam页面上线 明年发售](https://www.3dmgame.com/news/202410/3906091.html)
+

@@ -57,3 +57,9 @@
 
 + [微信 iOS 版 8.0.53 最新官方正式版下载发布](https://m.ithome.com/html/801587.htm)
 
++ [华为原生鸿蒙 HarmonyOS NEXT 开启公测后，报名人数超百万](https://m.ithome.com/html/801616.htm)
+
++ [一加员工：骁龙 8 至尊版能效干翻苹果 A18 Pro，在能效曲线最左上角](https://m.ithome.com/html/801641.htm)
+
++ [因虚假宣传，网红“东北雨姐”被没收和罚款 165 万元](https://m.ithome.com/html/801635.htm)
+

@@ -183,3 +183,11 @@
 
 + [【多模态】ViT模型技术学习](https://blog.csdn.net/qq_37734256/article/details/142834080)
 
++ [多代理强化学习综述：原理、算法与挑战](https://blog.csdn.net/m0_46510245/article/details/142869780)
+
++ [重学SpringBoot3-集成Redis（十三）之点排行榜实现](https://blog.csdn.net/u014390502/article/details/142844529)
+
++ [YOLOv8实战PCB电路板缺陷检测【数据集+YOLOv8模型+源码+PyQt5界面】](https://blog.csdn.net/weixin_40280870/article/details/142863836)
+
++ [软件测试之单元测试、系统测试、集成测试](https://blog.csdn.net/HUA6911/article/details/142856244)
+
