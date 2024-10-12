@@ -97,3 +97,19 @@
 
 + [Netflix - Squid Game](https://dribbble.com/shots/)
 
++ [DuckyLucky](https://dribbble.com/shots/)
+
++ [Modern colorful abstract logo design](https://dribbble.com/shots/)
+
++ [Nature Logo - Brand Identity design - Branding - Farm](https://dribbble.com/shots/)
+
++ [VPN Mobile App](https://dribbble.com/shots/)
+
++ [UI Bento Grid | NFT Collection Website](https://dribbble.com/shots/)
+
++ [Dylex Logo Design](https://dribbble.com/shots/)
+
++ [Cross BomB](https://dribbble.com/shots/)
+
++ [Clinic, Hospital, Doctor, Dentist, Healthcare, Medical Website](https://dribbble.com/shots/)
+

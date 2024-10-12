@@ -205,3 +205,27 @@
 
 + [文字冒险游戏《Iris Odyssey》Steam页面上线 明年发售](https://www.3dmgame.com/news/202410/3906091.html)
 
++ [牌组构筑自走棋游戏《幸运猎人》定档11月5日正式发售](https://www.3dmgame.com/news/202410/3906098.html)
+
++ [魔理沙法庭对决八云紫，推理AVG《东方裁判梦》将于11月8日正式上线STEAM平台！](https://www.3dmgame.com/news/202410/3906099.html)
+
++ [《都市传说解体中心》试玩版10月14日公开！ 可试玩约1.5小时的游戏流程！](https://www.3dmgame.com/news/202410/3906100.html)
+
++ [元气小剧场、MiSide 和卡牌探险：雨林迷踪现已参加10月新品节并开放全新Demo](https://www.3dmgame.com/news/202410/3906101.html)
+
++ [男子iPhone电池鼓包免费修 省799元！苹果官方回应](https://www.3dmgame.com/news/202410/3906102.html)
+
++ [男子工作电脑藏大量不雅视频被开除 本人喊冤我没看](https://www.3dmgame.com/news/202410/3906103.html)
+
++ [腾讯管理层：《黑神话：悟空》值得TGA年度游戏](https://www.3dmgame.com/news/202410/3906097.html)
+
++ [据报道漫威《美国队长4：美丽新世界》试映反响很“糟糕”](https://www.3dmgame.com/news/202410/3906093.html)
+
++ [旗舰今年都涨价！小米15来了：一大波骁龙8Gen4新机10月杀到](https://www.3dmgame.com/news/202410/3906094.html)
+
++ [雀友大集结！麻将策略肉鸽游戏《青天井》新品节抢先试玩](https://www.3dmgame.com/news/202410/3906095.html)
+
++ [《最终幻想7》蒂法饭制美图 风格多样让人目不转睛](https://www.3dmgame.com/news/202410/3906096.html)
+
++ [创新AI桌宠《Ai Vpet / 守护与智友》全球竞赛第二期启动](https://www.3dmgame.com/news/202410/3906092.html)
+
