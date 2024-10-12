@@ -25,3 +25,5 @@
 
 + [雷军：纽北常年多雨包场刷圈时间不多，小米 SU7 Ultra 此次系年初预约](https://m.ithome.com/html/801705.htm)
 
++ [小米高管“曝光”神秘新机型，预计为小米 15 系列](https://m.ithome.com/html/801761.htm)
+
