@@ -139,3 +139,17 @@
 
 + [《永冻纪元》Steam试玩发布 寒冬生存冒险](https://www.3dmgame.com/news/202410/3906126.html)
 
++ [安德鲁·加菲尔德表示自己最喜欢托比·马奎尔版蜘蛛侠](https://www.3dmgame.com/news/202410/3906132.html)
+
++ [《桃太郎电铁世界》新更新11月上线 神秘新大陆登场](https://www.3dmgame.com/news/202410/3906133.html)
+
++ [《黑神话：悟空》冯骥谈儿童游戏成瘾：做游戏要愿给自己娃玩](https://www.3dmgame.com/news/202410/3906134.html)
+
++ [《Thronefall》登陆PC/Switch 好评小清新塔防](https://www.3dmgame.com/news/202410/3906131.html)
+
++ [《RuneScape》开发者新作《Brighter Shores》跳票](https://www.3dmgame.com/news/202410/3906130.html)
+
++ [38岁大龄女玩家晒自己秘密收藏 没有化妆品全是游戏](https://www.3dmgame.com/news/202410/3906128.html)
+
++ [CDPR携手企鹅兰登书屋推出《小猎魔人》绘本小说](https://www.3dmgame.com/news/202410/3906129.html)
+

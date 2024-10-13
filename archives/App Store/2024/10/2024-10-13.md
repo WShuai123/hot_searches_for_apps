@@ -215,3 +215,5 @@
 
 + [点淘-淘宝直播官方APP](https://itunes.apple.com/cn/app/id1448831879?mt=8)
 
++ [肯德基KFC（官方版）-上肯德基APP，享APP超省价](https://itunes.apple.com/cn/app/id587238847?mt=8)
+

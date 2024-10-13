@@ -55,3 +55,5 @@
 
 + [Mass-Assigner：一款针对Web应用程序的安全检测工具](https://www.freebuf.com/sectool/412170.html)
 
++ [记一次某安卓APP渗透测试解决抓包方案](https://www.freebuf.com/articles/mobile/408337.html)
+
