@@ -123,3 +123,7 @@
 
 + [韩国车主对奔驰提起集体诉讼 因EQE电动车起火事故隐瞒电池信息](https://www.3dmgame.com/news/202410/3906114.html)
 
++ [《暗喻幻想》用即时与回合战斗结合呈现漫画电影感](https://www.3dmgame.com/news/202410/3906121.html)
+
++ [国产之光！游戏科学登顶Steam发行商收入榜前列](https://www.3dmgame.com/news/202410/3906120.html)
+
