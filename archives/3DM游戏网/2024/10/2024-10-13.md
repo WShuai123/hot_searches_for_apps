@@ -173,3 +173,7 @@
 
 + [《生化危机9》公布在即？MC专属评分页面已上线](https://www.3dmgame.com/news/202410/3906143.html)
 
++ [Game Freak证实大规模泄密 源代码和未来游戏曝光](https://www.3dmgame.com/news/202410/3906146.html)
+
++ [SpaceX首次回收星舰成功 “筷子”成功夹住超大型火箭](https://www.3dmgame.com/news/202410/3906145.html)
+

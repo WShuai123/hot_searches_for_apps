@@ -217,3 +217,7 @@
 
 + [肯德基KFC（官方版）-上肯德基APP，享APP超省价](https://itunes.apple.com/cn/app/id587238847?mt=8)
 
++ [山姆会员商店](https://itunes.apple.com/cn/app/id818237113?mt=8)
+
++ [美团外卖-外卖订餐,送啥都快](https://itunes.apple.com/cn/app/id737310995?mt=8)
+

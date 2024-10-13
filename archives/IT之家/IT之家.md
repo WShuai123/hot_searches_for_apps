@@ -63,3 +63,9 @@
 
 + [11 月上旬上市交付，消息称小鹏 P7 + 预售价 21.99 万元起](https://m.ithome.com/html/801794.htm)
 
++ [SpaceX“星舰”实现史上首次“筷子”夹火箭](https://m.ithome.com/html/801921.htm)
+
++ [小米 SU7 汽车单日交付量首次破 1000 台，官方 10 月生产、交付目标冲刺 2 万台](https://m.ithome.com/html/801901.htm)
+
++ [《黑神话：悟空》助力游戏科学跻身 Steam 发行商收入榜前列，总收入超 10 亿美元](https://m.ithome.com/html/801833.htm)
+
