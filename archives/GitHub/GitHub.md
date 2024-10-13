@@ -37,3 +37,25 @@
 
 + [cline / cline](https://github.com/cline/cline)
 
++ [3b1b / manim](https://github.com/3b1b/manim)
+
++ [mfts / papermark](https://github.com/mfts/papermark)
+
++ [ManimCommunity / manim](https://github.com/ManimCommunity/manim)
+
++ [RSSNext / Follow](https://github.com/RSSNext/Follow)
+
++ [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
+
++ [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
+
++ [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [gradio-app / gradio](https://github.com/gradio-app/gradio)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [pbatard / rufus](https://github.com/pbatard/rufus)
+

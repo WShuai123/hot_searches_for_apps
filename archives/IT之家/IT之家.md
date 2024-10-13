@@ -53,3 +53,5 @@
 
 + [微信员工：所有适配原生鸿蒙的第三方 App 都需从内测到应用尝鲜，再到公测](https://m.ithome.com/html/801862.htm)
 
++ [消息称鸿蒙 HarmonyOS NEXT 文件管理器和图库完全隔离，暂不支持华为分享传相册或大量图片 / 视频](https://m.ithome.com/html/801877.htm)
+

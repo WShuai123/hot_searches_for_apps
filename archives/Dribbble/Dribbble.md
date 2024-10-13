@@ -107,3 +107,13 @@
 
 + [Defendo  - A Web3 Security Company](https://dribbble.com/shots/)
 
++ [FundFix - crypto fund prop firm](https://dribbble.com/shots/)
+
++ [Woodbird Catalog to Item Transition](https://dribbble.com/shots/)
+
++ [Virtual Assistant AI Landing Page](https://dribbble.com/shots/)
+
++ [c, coiner logo](https://dribbble.com/shots/)
+
++ [Logo, Data Scientists, Analyze, Decision Making, NLP, V logo](https://dribbble.com/shots/)
+
