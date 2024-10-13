@@ -101,3 +101,9 @@
 
 + [腾讯管理层：《黑神话：悟空》值得TGA年度游戏](https://www.3dmgame.com/news/202410/3906097.html)
 
++ [PS5是美国8月最畅销主机 PS Portal今年最畅销配件](https://www.3dmgame.com/news/202410/3906149.html)
+
++ [《神之天平》 Steam新史低60元 好评如潮](https://www.3dmgame.com/news/202410/3906148.html)
+
++ [Redmi Note 14系列非常成功 友商用户购买比例明显提升](https://www.3dmgame.com/news/202410/3906147.html)
+

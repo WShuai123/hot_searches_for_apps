@@ -67,3 +67,5 @@
 
 + [【丸子歌单】大卫鲍伊David Bowie我喜欢的歌曲分享](http://www.acfun.cn/v/ac46380926)
 
++ [据说超好玩的EVA合金玩具，来看看怎么样？CCS铁魄 最终号机](http://www.acfun.cn/v/ac46380352)
+
