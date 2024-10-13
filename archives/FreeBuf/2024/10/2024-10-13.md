@@ -53,3 +53,5 @@
 
 + [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
 
++ [Mass-Assigner：一款针对Web应用程序的安全检测工具](https://www.freebuf.com/sectool/412170.html)
+

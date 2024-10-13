@@ -103,3 +103,31 @@
 
 + [Kaption AI](https://www.producthunt.com/posts/kaption-ai)
 
++ [Hacky Loom](https://www.producthunt.com/posts/hacky-loom)
+
++ [CalcGen AI](https://www.producthunt.com/posts/calcgen-ai)
+
++ [Porcupine](https://www.producthunt.com/posts/porcupine-2)
+
++ [DevKit 3.0](https://www.producthunt.com/posts/devkit-3-0)
+
++ [Quizzio](https://www.producthunt.com/posts/quizzio)
+
++ [My iTags](https://www.producthunt.com/posts/my-itags)
+
++ [EyeFocus](https://www.producthunt.com/posts/eyefocus)
+
++ [ShakePin](https://www.producthunt.com/posts/shakepin)
+
++ [Flipt Cloud](https://www.producthunt.com/posts/flipt-cloud)
+
++ [Langflow](https://www.producthunt.com/posts/langflow)
+
++ [MoneyVision](https://www.producthunt.com/posts/moneyvision)
+
++ [Pricing Table Builder](https://www.producthunt.com/posts/pricing-table-builder)
+
++ [Journalizr](https://www.producthunt.com/posts/journalizr)
+
++ [Kuration.ai](https://www.producthunt.com/posts/kuration-ai)
+

@@ -37,3 +37,7 @@
 
 + [苹果 iPhone SE 4 保护壳曝光：屏幕更大，A18 芯片、Face ID 加持](https://m.ithome.com/html/801802.htm)
 
++ [华为鸿蒙推送 HarmonyOS NEXT.0.0.71 SP10，支持 exFAT 文件格式](https://m.ithome.com/html/801813.htm)
+
++ [iQOO 13 手机部分细节曝光，灯带和镜头为一整块玻璃](https://m.ithome.com/html/801690.htm)
+
