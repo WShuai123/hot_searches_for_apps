@@ -51,3 +51,5 @@
 
 + [WPS Office从路径穿越到远程代码执行漏洞分析与复现](https://www.freebuf.com/vuls/412285.html)
 
++ [Gophish钓鱼测试平台——钓鱼邮件二维码替换功能开发](https://www.freebuf.com/sectool/389610.html)
+
