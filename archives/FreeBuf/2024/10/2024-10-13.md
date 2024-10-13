@@ -41,3 +41,7 @@
 
 + [伊朗黑客使用ChatGPT策划ICS攻击](https://www.freebuf.com/news/412521.html)
 
++ [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/412586.html)
+
++ [端口扫描工具横向对比测评](https://www.freebuf.com/sectool/411796.html)
+

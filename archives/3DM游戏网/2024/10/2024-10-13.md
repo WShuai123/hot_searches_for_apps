@@ -101,3 +101,11 @@
 
 + [平台跳跃游戏《Ayasa》Steam页面开放 明年发售](https://www.3dmgame.com/news/202410/3906061.html)
 
++ [“移动版寂静岭” 《失落的记忆：复刻版》10月28日发售](https://www.3dmgame.com/news/202410/3906112.html)
+
++ [受飓风影响 《ANTONBLAST》推迟至12/3发行](https://www.3dmgame.com/news/202410/3906109.html)
+
++ [NVIDIA GeForce 256问世25周年 纳斯达克官方庆祝](https://www.3dmgame.com/news/202410/3906110.html)
+
++ [锐龙9800X3D/9950X3D新消息：规格游戏性能大曝光](https://www.3dmgame.com/news/202410/3906111.html)
+
