@@ -25,3 +25,5 @@
 
 + [《黑神话：悟空》助力游戏科学跻身 Steam 发行商收入榜前列，总收入超 10 亿美元](https://m.ithome.com/html/801833.htm)
 
++ [vivo X200 Pro 手机配备 X100 Ultra 同款蔡司 2 亿 APO 长焦镜头，明日发布](https://m.ithome.com/html/801924.htm)
+
