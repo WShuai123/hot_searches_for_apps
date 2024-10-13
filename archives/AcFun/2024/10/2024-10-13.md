@@ -97,3 +97,5 @@
 
 + [【张梓义&冰阔落】在加纳共和国离婚-原来一辈子，他真的很遥远-ACFUN声唱2024参赛歌曲](http://www.acfun.cn/v/ac46377393)
 
++ [竖屏离你更近～You re pitiful 2024.ver可怜](http://www.acfun.cn/v/ac46377709)
+

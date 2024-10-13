@@ -153,3 +153,7 @@
 
 + [CDPR携手企鹅兰登书屋推出《小猎魔人》绘本小说](https://www.3dmgame.com/news/202410/3906129.html)
 
++ [90后程序员跟风杀入A股四天亏32万 想学习扭亏为盈](https://www.3dmgame.com/news/202410/3906136.html)
+
++ [《死亡细胞》厂商新作《风中行者》要承担初代名气压力](https://www.3dmgame.com/news/202410/3906135.html)
+
