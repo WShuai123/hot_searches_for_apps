@@ -55,3 +55,7 @@
 
 + [消息称鸿蒙 HarmonyOS NEXT 文件管理器和图库完全隔离，暂不支持华为分享传相册或大量图片 / 视频](https://m.ithome.com/html/801877.htm)
 
++ [vivo X200 系列三款真机同框，明日正式发布](https://m.ithome.com/html/801900.htm)
+
++ [比亚迪腾势 N9 实车图曝光：定位中大型旗舰 SUV，搭载易三方技术](https://m.ithome.com/html/801788.htm)
+
