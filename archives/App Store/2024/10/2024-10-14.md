@@ -209,3 +209,7 @@
 
 + [Colorful Widget彩虹组件-万能桌面主题壁纸图标](https://itunes.apple.com/cn/app/id1538946171?mt=8)
 
++ [Soul-年轻人的社交元宇宙](https://itunes.apple.com/cn/app/id1032287195?mt=8)
+
++ [美柚 - 经期·备孕·怀孕·育儿&亲友版](https://itunes.apple.com/cn/app/id634896669?mt=8)
+
