@@ -57,3 +57,11 @@
 
 + [Language Learning Mobile iOS App](https://dribbble.com/shots/)
 
++ [Halloween](https://dribbble.com/shots/)
+
++ [Crypto Wallet Dashboard Template](https://dribbble.com/shots/)
+
++ [Bold Avenue Branding & Packaging Design - Fashion](https://dribbble.com/shots/)
+
++ [LOGO - MIRAS](https://dribbble.com/shots/)
+

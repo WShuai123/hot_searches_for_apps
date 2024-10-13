@@ -205,3 +205,7 @@
 
 + [志愿汇](https://itunes.apple.com/cn/app/id959468399?mt=8)
 
++ [WiFi万能钥匙极速版 - 安全wi-fi无线上网管家](https://itunes.apple.com/cn/app/id1544429501?mt=8)
+
++ [Colorful Widget彩虹组件-万能桌面主题壁纸图标](https://itunes.apple.com/cn/app/id1538946171?mt=8)
+
