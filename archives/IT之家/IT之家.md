@@ -59,3 +59,7 @@
 
 + [比亚迪腾势 N9 实车图曝光：定位中大型旗舰 SUV，搭载易三方技术](https://m.ithome.com/html/801788.htm)
 
++ [消息称华为商用鸿蒙系统本月发布，11 月旗舰新品上市](https://m.ithome.com/html/801908.htm)
+
++ [11 月上旬上市交付，消息称小鹏 P7 + 预售价 21.99 万元起](https://m.ithome.com/html/801794.htm)
+
