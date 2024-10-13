@@ -135,3 +135,7 @@
 
 + [育碧官推免费送《刺客信条：幻景》 只需转发和评论](https://www.3dmgame.com/news/202410/3906125.html)
 
++ [《刺客信条：幻景》Steam有50项成就 可在Steam Deck游玩](https://www.3dmgame.com/news/202410/3906127.html)
+
++ [《永冻纪元》Steam试玩发布 寒冬生存冒险](https://www.3dmgame.com/news/202410/3906126.html)
+

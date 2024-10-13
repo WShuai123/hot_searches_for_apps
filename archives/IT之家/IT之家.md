@@ -35,3 +35,5 @@
 
 + [微博鸿蒙客户端回应偶发打字丢字等 Bug：初步定位为系统问题，华为已在排期修复](https://m.ithome.com/html/801758.htm)
 
++ [苹果 iPhone SE 4 保护壳曝光：屏幕更大，A18 芯片、Face ID 加持](https://m.ithome.com/html/801802.htm)
+
