@@ -127,3 +127,11 @@
 
 + [国产之光！游戏科学登顶Steam发行商收入榜前列](https://www.3dmgame.com/news/202410/3906120.html)
 
++ [资深业内人士分析 Switch 2与PS5 Pro哪个更值得买](https://www.3dmgame.com/news/202410/3906122.html)
+
++ [《任天堂明星大乱斗》名字里Brothers原来是这个意思](https://www.3dmgame.com/news/202410/3906123.html)
+
++ [苹果推出换代AI大模型MM1.5 拥有自然语言推理](https://www.3dmgame.com/news/202410/3906124.html)
+
++ [育碧官推免费送《刺客信条：幻景》 只需转发和评论](https://www.3dmgame.com/news/202410/3906125.html)
+
