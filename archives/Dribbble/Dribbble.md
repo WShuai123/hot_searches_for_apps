@@ -95,3 +95,15 @@
 
 + [Faces](https://dribbble.com/shots/)
 
++ [Pre-Market web design](https://dribbble.com/shots/)
+
++ [D Logomark](https://dribbble.com/shots/)
+
++ [Digital Banking App](https://dribbble.com/shots/)
+
++ [overlapping play button logo design](https://dribbble.com/shots/)
+
++ [Buildridge - Real Estate Dashboard](https://dribbble.com/shots/)
+
++ [Defendo  - A Web3 Security Company](https://dribbble.com/shots/)
+

@@ -157,3 +157,13 @@
 
 + [《死亡细胞》厂商新作《风中行者》要承担初代名气压力](https://www.3dmgame.com/news/202410/3906135.html)
 
++ [《堡垒之夜》赛车游戏《火箭赛车》停止主题更新](https://www.3dmgame.com/news/202410/3906141.html)
+
++ [《宇宙机器人》欧洲表现超越马里奥之外的平台跳跃游戏](https://www.3dmgame.com/news/202410/3906139.html)
+
++ [《鱿鱼游戏》第二季12月开播 纽约开设体验中心](https://www.3dmgame.com/news/202410/3906140.html)
+
++ [特斯拉Cybercab风格设计引发投资者不满 股价暴跌9%](https://www.3dmgame.com/news/202410/3906137.html)
+
++ [《古墓丽影》动画版制作人：要小心不跟游戏版撞车](https://www.3dmgame.com/news/202410/3906138.html)
+
