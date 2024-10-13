@@ -169,3 +169,7 @@
 
 + [《荒野机器人》续集正在开发中 第一部10月15日上线流媒体](https://www.3dmgame.com/news/202410/3906142.html)
 
++ [粉丝要求Konami和Bloober重制《寂静岭3》](https://www.3dmgame.com/news/202410/3906144.html)
+
++ [《生化危机9》公布在即？MC专属评分页面已上线](https://www.3dmgame.com/news/202410/3906143.html)
+
