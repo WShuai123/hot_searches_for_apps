@@ -211,3 +211,5 @@
 
 + [全民K歌-你其实很会唱歌](https://itunes.apple.com/cn/app/id910513149?mt=8)
 
++ [七猫小说-看小说电子书的阅读神器](https://itunes.apple.com/cn/app/id1387717110?mt=8)
+

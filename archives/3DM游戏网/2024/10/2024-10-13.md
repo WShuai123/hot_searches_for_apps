@@ -109,3 +109,17 @@
 
 + [锐龙9800X3D/9950X3D新消息：规格游戏性能大曝光](https://www.3dmgame.com/news/202410/3906111.html)
 
++ [“卡特队长”表示很愿意在网飞剧集或其它项目中演劳拉](https://www.3dmgame.com/news/202410/3906118.html)
+
++ [《Void Path》10月30日登陆Steam 日恐诡异探索](https://www.3dmgame.com/news/202410/3906119.html)
+
++ [《马力欧＆路易吉RPG 兄弟齐航！》15分钟实机演示视频](https://www.3dmgame.com/news/202410/3906115.html)
+
++ [《VOIN》Steam试玩发布 第一人称近战ACT](https://www.3dmgame.com/news/202410/3906116.html)
+
++ [《死亡细胞》开发商：抢先体验很有用但并非万能](https://www.3dmgame.com/news/202410/3906117.html)
+
++ [《WEBFISHING》登陆Steam 休闲钓鱼](https://www.3dmgame.com/news/202410/3906113.html)
+
++ [韩国车主对奔驰提起集体诉讼 因EQE电动车起火事故隐瞒电池信息](https://www.3dmgame.com/news/202410/3906114.html)
+

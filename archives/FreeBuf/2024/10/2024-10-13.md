@@ -45,3 +45,5 @@
 
 + [端口扫描工具横向对比测评](https://www.freebuf.com/sectool/411796.html)
 
++ [Hunters International勒索组织持续猖獗，数据泄露风险升级](https://www.freebuf.com/news/412262.html)
+
