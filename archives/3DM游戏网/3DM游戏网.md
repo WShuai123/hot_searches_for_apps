@@ -197,3 +197,11 @@
 
 + [《宠物摄像头》登陆Steam 行走系恐怖探索](https://www.3dmgame.com/news/202410/3906189.html)
 
++ [纯燃油彻底沦为小众 每卖出4辆国产汽车只有1辆是纯燃油](https://www.3dmgame.com/news/202410/3906198.html)
+
++ [央妈重新定义3A游戏为三高：高成本 高体量 高质量](https://www.3dmgame.com/news/202410/3906197.html)
+
++ [高德顺风车正式全国上线 司机搭车者双方互利](https://www.3dmgame.com/news/202410/3906196.html)
+
++ [外资火速撤离 三星市值蒸发近90万亿韩元！连续23日被抛售](https://www.3dmgame.com/news/202410/3906195.html)
+

@@ -111,3 +111,17 @@
 
 + [Delivr - Pitch Deck Design](https://dribbble.com/shots/)
 
++ [J+R Architects](https://dribbble.com/shots/)
+
++ [Montrac Landing Page](https://dribbble.com/shots/)
+
++ [Cyauza - Logo Design](https://dribbble.com/shots/)
+
++ [Geomark](https://dribbble.com/shots/)
+
++ [E-commerce Management Dashboard](https://dribbble.com/shots/)
+
++ [Orbit Navigator -  App, Icon, logo, Design](https://dribbble.com/shots/)
+
++ [3D Sakura Flowers](https://dribbble.com/shots/)
+
