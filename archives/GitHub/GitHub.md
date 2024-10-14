@@ -39,3 +39,23 @@
 
 + [pbatard / rufus](https://github.com/pbatard/rufus)
 
++ [openai / swarm](https://github.com/openai/swarm)
+
++ [eloialonso / diamond](https://github.com/eloialonso/diamond)
+
++ [3b1b / videos](https://github.com/3b1b/videos)
+
++ [krahets / hello-algo](https://github.com/krahets/hello-algo)
+
++ [golemcloud / golem](https://github.com/golemcloud/golem)
+
++ [typst / typst](https://github.com/typst/typst)
+
++ [stenzek / duckstation](https://github.com/stenzek/duckstation)
+
++ [dubinc / dub](https://github.com/dubinc/dub)
+
++ [roc-lang / roc](https://github.com/roc-lang/roc)
+
++ [LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
+

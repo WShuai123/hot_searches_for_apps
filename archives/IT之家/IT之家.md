@@ -43,3 +43,9 @@
 
 + [消息称华为 Mate 70 系列手机将提供“双框架”，同时发布兼容安卓版本](https://m.ithome.com/html/802051.htm)
 
++ [极氪副总裁回应“车上吃火锅”宣传：展示新车 MIX 的强大新风系统及使用场景](https://m.ithome.com/html/801965.htm)
+
++ [小米手环 9 Pro 渲染图首次曝光，采用微曲屏设计](https://m.ithome.com/html/801969.htm)
+
++ [广州一女子注销手机号未解绑百度网盘致照片泄露，客服建议自行换绑](https://m.ithome.com/html/802080.htm)
+
