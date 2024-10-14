@@ -143,3 +143,5 @@
 
 + [PixDuplicate](https://www.producthunt.com/posts/pixduplicate)
 
++ [PicLooks AI Avatars](https://www.producthunt.com/posts/piclooks-ai-avatars)
+

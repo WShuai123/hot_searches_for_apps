@@ -125,3 +125,7 @@
 
 + [3D Sakura Flowers](https://dribbble.com/shots/)
 
++ [Omnisea Rebranding Case Study](https://dribbble.com/shots/)
+
++ [Official Xiaomi fingerprint design by Gleb Kuznetsov](https://dribbble.com/shots/)
+
