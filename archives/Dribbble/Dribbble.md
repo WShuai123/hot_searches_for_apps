@@ -77,3 +77,35 @@
 
 + [Tiimi - Detailed Job Information in SaaS HR Management System](https://dribbble.com/shots/)
 
++ [OMO responsive](https://dribbble.com/shots/)
+
++ [Waffle Pay Case - UI/UX Design for Fintech Website/Mobile App](https://dribbble.com/shots/)
+
++ [Doru DAO footer animation](https://dribbble.com/shots/)
+
++ [Hook Hero Section Exploration](https://dribbble.com/shots/)
+
++ [Harmony App Design Concept](https://dribbble.com/shots/)
+
++ [Lordsky - Travel Landing Page](https://dribbble.com/shots/)
+
++ [Hansel landing page](https://dribbble.com/shots/)
+
++ [Dashboard for Meeting & Conference](https://dribbble.com/shots/)
+
++ [Perla - branding](https://dribbble.com/shots/)
+
++ [Proimprover | Redesign](https://dribbble.com/shots/)
+
++ [Solar Panel Ecommerce Web Animation](https://dribbble.com/shots/)
+
++ [Logos 2024](https://dribbble.com/shots/)
+
++ [Software Company Logo](https://dribbble.com/shots/)
+
++ [Ohio - Hotel Booking Animation](https://dribbble.com/shots/)
+
++ [K-CEP, logo design for climate and energy global initiative](https://dribbble.com/shots/)
+
++ [Mental Health Mobile App](https://dribbble.com/shots/)
+

@@ -53,3 +53,5 @@
 
 + [0day的产生 | 权限绕过的秘密](https://www.freebuf.com/articles/web/412296.html)
 
++ [psobf：一款针对PowerShell的代码混淆处理工具](https://www.freebuf.com/sectool/412211.html)
+

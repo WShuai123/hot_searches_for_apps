@@ -107,3 +107,21 @@
 
 + [JobJump](https://www.producthunt.com/posts/jobjump)
 
++ [Swell](https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733)
+
++ [Better Off](https://www.producthunt.com/posts/better-off)
+
++ [Audeus](https://www.producthunt.com/posts/audeus)
+
++ [BrainDeck](https://www.producthunt.com/posts/braindeck)
+
++ [PicLooks Avatars](https://www.producthunt.com/posts/piclooks-avatars)
+
++ [LLMWare](https://www.producthunt.com/posts/llmware)
+
++ [Rankfast](https://www.producthunt.com/posts/rankfast)
+
++ [SuiteOp](https://www.producthunt.com/posts/suiteop)
+
++ [Asora](https://www.producthunt.com/posts/asora-3)
+
