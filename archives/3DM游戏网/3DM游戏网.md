@@ -149,3 +149,17 @@
 
 + [《巫师3》HD重制Mod次世代版11月推出 见识逼真效果](https://www.3dmgame.com/news/202410/3906163.html)
 
++ [《黄金偶像的崛起》11月登陆多平台 侦探名作续篇](https://www.3dmgame.com/news/202410/3906175.html)
+
++ [传闻：Xbox第一方游戏《Everwild》开发进展顺利](https://www.3dmgame.com/news/202410/3906176.html)
+
++ [马斯克的SpaceX星际工厂亮相 每年生产1000艘飞船](https://www.3dmgame.com/news/202410/3906177.html)
+
++ [《妖精的尾巴2》公布原创剧情新情报 12月12日正式发售](https://www.3dmgame.com/news/202410/3906171.html)
+
++ [传言漫威影业即将开发首款以漫威电影宇宙为主题的电子游戏](https://www.3dmgame.com/news/202410/3906172.html)
+
++ [《海贼王》“蛋头岛篇”明年4月再开 “鱼人岛篇”迎来重制](https://www.3dmgame.com/news/202410/3906173.html)
+
++ [《寂静岭2：重制版》新摄影作品 红衣玛丽亚很有魅力](https://www.3dmgame.com/news/202410/3906174.html)
+
