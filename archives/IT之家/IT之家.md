@@ -55,3 +55,7 @@
 
 + [手机停机后仍被收套餐费，华东政法大学学生起诉上海移动获全额退款](https://m.ithome.com/html/801942.htm)
 
++ [vivo X200 / Pro 手机售价公布：全球首发天玑 9400 处理器，4299 元起](https://m.ithome.com/html/802221.htm)
+
++ [vivo X200 Pro mini 小屏手机发布：6.31 英寸直屏，4699 元起](https://m.ithome.com/html/802220.htm)
+

@@ -217,3 +217,9 @@
 
 + [PS5 Pro目前是亚马逊美国最畅销主机](https://www.3dmgame.com/news/202410/3906204.html)
 
++ [《暗喻幻想：ReFantazio》Steam峰值超8.5万 创单人JRPG最高记录](https://www.3dmgame.com/news/202410/3906207.html)
+
++ [《燕云十六声》已实装大世界光追 绝不忽略优化](https://www.3dmgame.com/news/202410/3906206.html)
+
++ [英特尔已列出酷睿Ultra 9 295K 或用于取代i9-14900KS](https://www.3dmgame.com/news/202410/3906205.html)
+

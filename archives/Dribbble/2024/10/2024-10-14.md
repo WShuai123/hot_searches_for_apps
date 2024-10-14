@@ -153,3 +153,5 @@
 
 + [GO Gorilla](https://dribbble.com/shots/)
 
++ [Letter K & Bird Logo - Minimalist Logo Design](https://dribbble.com/shots/)
+
