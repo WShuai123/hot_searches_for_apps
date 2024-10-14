@@ -101,3 +101,5 @@
 
 + [《泰坦之旅2》新情报和新设定图 神马阿瑞翁亮相](https://www.3dmgame.com/news/202410/3906159.html)
 
++ [《勇者斗恶龙3：HD-2D重制版》新预告 11月14日发售](https://www.3dmgame.com/news/202410/3906213.html)
+
