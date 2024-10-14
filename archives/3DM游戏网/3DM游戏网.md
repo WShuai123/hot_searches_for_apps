@@ -163,3 +163,21 @@
 
 + [《寂静岭2：重制版》新摄影作品 红衣玛丽亚很有魅力](https://www.3dmgame.com/news/202410/3906174.html)
 
++ [恐怖冒险游戏《寂静之地：前方之路》游戏时长约8-12小时](https://www.3dmgame.com/news/202410/3906186.html)
+
++ [《Tidekeeper》Steam抢先体验 岛屿巡逻管理](https://www.3dmgame.com/news/202410/3906185.html)
+
++ [《暗喻幻想》总监桥野桂透露游戏启发自《指环王》但为了创作放弃传统奇幻背景](https://www.3dmgame.com/news/202410/3906184.html)
+
++ [苦等三年 Win11大更新让用户集体崩溃！各种BUG](https://www.3dmgame.com/news/202410/3906183.html)
+
++ [《古墓丽影》动漫劳拉形象变化：身材是越来越差了](https://www.3dmgame.com/news/202410/3906182.html)
+
++ [维京神话背景类暗黑动作游戏《巨人杀手：地狱大军》已推出试玩Demo](https://www.3dmgame.com/news/202410/3906181.html)
+
++ [发售2个月后 《黑神话：悟空》在台湾过审上架](https://www.3dmgame.com/news/202410/3906180.html)
+
++ [传失窃的苹果M4版MacBook Pro惊现俄罗斯网站 5万元高价](https://www.3dmgame.com/news/202410/3906179.html)
+
++ [像素风恋爱互动游戏《S4U: 都市朋克2011与爱的重拳》现已推出试玩Demo](https://www.3dmgame.com/news/202410/3906178.html)
+

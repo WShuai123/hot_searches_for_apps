@@ -39,3 +39,5 @@
 
 + [OPPO Find X8 手机支持 PPS 充电，标准版提供 16+512GB 版本](https://m.ithome.com/html/801922.htm)
 
++ [11.11 今晚正式开抢：2 分钟速读全网攻略，提前领 2000 元政府补贴大省一笔](https://m.ithome.com/html/801987.htm)
+
