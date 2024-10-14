@@ -125,3 +125,21 @@
 
 + [Asora](https://www.producthunt.com/posts/asora-3)
 
++ [PumpaNomics](https://www.producthunt.com/posts/pumpanomics)
+
++ [ExportWiz](https://www.producthunt.com/posts/exportwiz)
+
++ [Director Mode by Wondercraft](https://www.producthunt.com/posts/director-mode-by-wondercraft)
+
++ [Gem](https://www.producthunt.com/posts/gem-6031f563-beee-41c5-a6c4-34258c6b8ab7)
+
++ [SheetBot AI](https://www.producthunt.com/posts/sheetbot-ai)
+
++ [Widgets for Stripe](https://www.producthunt.com/posts/widgets-for-stripe)
+
++ [Fabloq](https://www.producthunt.com/posts/fabloq-2)
+
++ [CommandFor](https://www.producthunt.com/posts/commandfor)
+
++ [PixDuplicate](https://www.producthunt.com/posts/pixduplicate)
+

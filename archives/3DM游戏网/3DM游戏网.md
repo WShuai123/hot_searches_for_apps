@@ -185,3 +185,15 @@
 
 + [亚马逊《如龙》真人剧发布特别采访视频 10月25日播出](https://www.3dmgame.com/news/202410/3906188.html)
 
++ [电视出货量创十年新低 会议电视却火了：增速超过600%](https://www.3dmgame.com/news/202410/3906194.html)
+
++ [KK官方对战平台新图推荐！创意拉满的新时代RPG就该是这样！](https://www.3dmgame.com/news/202410/3906193.html)
+
++ [《小丑2》第二周末票房暴跌 创漫改电影史最大跌幅](https://www.3dmgame.com/news/202410/3906192.html)
+
++ [《GANGSTALK》Steam上线 追踪者视角恐怖冒险](https://www.3dmgame.com/news/202410/3906191.html)
+
++ [杰洛特在《巫师3》次世代版中的首个敌人其实是萝卜 首场战斗被马踢死](https://www.3dmgame.com/news/202410/3906190.html)
+
++ [《宠物摄像头》登陆Steam 行走系恐怖探索](https://www.3dmgame.com/news/202410/3906189.html)
+
