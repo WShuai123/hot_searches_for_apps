@@ -157,3 +157,9 @@
 
 + [《 我 的 南 韩 女 友 》](http://www.acfun.cn/v/ac46383805)
 
++ [【见信如晤】你字字句句 欲向思念去【ACFUN声唱2024参赛歌曲】](http://www.acfun.cn/v/ac46385481)
+
++ [第一次玩沙威玛差点破防！](http://www.acfun.cn/v/ac46383790)
+
++ [寺地拳四朗 vs 克里斯托弗·罗萨雷斯](http://www.acfun.cn/v/ac46382997)
+

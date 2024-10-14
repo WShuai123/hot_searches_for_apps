@@ -223,3 +223,7 @@
 
 + [英特尔已列出酷睿Ultra 9 295K 或用于取代i9-14900KS](https://www.3dmgame.com/news/202410/3906205.html)
 
++ [动作冒险《创战纪：催化剂》公布 2025年发售](https://www.3dmgame.com/news/202410/3906208.html)
+
++ [距离发售还有两周 《龙腾世纪：影障守护者》仍未进入Steam热销榜Top 50](https://www.3dmgame.com/news/202410/3906209.html)
+

@@ -155,3 +155,11 @@
 
 + [Letter K & Bird Logo - Minimalist Logo Design](https://dribbble.com/shots/)
 
++ [S Monogram](https://dribbble.com/shots/)
+
++ [Friction Logo](https://dribbble.com/shots/)
+
++ [HODLVERSE - Hodl Valley](https://dribbble.com/shots/)
+
++ [It’s not magic, it’s software!](https://dribbble.com/shots/)
+
