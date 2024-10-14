@@ -55,3 +55,5 @@
 
 + [psobf：一款针对PowerShell的代码混淆处理工具](https://www.freebuf.com/sectool/412211.html)
 
++ [第39次全国计算机安全学术交流会召开，切面融合智能亮相“网络综合治理”分论坛](https://www.freebuf.com/articles/412823.html)
+
