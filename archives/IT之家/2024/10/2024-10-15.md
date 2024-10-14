@@ -25,3 +25,5 @@
 
 + [大战三只羊后，网红主播辛巴宣布回归称“现在是直播电商至暗时刻”](https://m.ithome.com/html/802096.htm)
 
++ [vivo X200 系列手机全系搭载全等深微四曲屏，Pro 款下巴和其余三边压缩至 1.63mm](https://m.ithome.com/html/802207.htm)
+
