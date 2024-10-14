@@ -125,3 +125,27 @@
 
 + [Switch《如龙：极》容量超过Xbox版](https://www.3dmgame.com/news/202410/3906150.html)
 
++ [《真三国无双：起源》只关注故事前半部分 赤壁之战之前](https://www.3dmgame.com/news/202410/3906170.html)
+
++ [第一人称心理恐怖游戏《灰烬之中》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3906169.html)
+
++ [《仙剑世界》PC端预载开启 游戏终测开始倒计时](https://www.3dmgame.com/news/202410/3906168.html)
+
++ [冒险角色扮演游戏《信天翁》现已推出试玩Demo 11月1日正式发售](https://www.3dmgame.com/news/202410/3906166.html)
+
++ [消息称RTX 5090价格不会比4090高出太多](https://www.3dmgame.com/news/202410/3906165.html)
+
++ [动画《恶魔城：夜曲》第二季制作完成 续集暂未确定](https://www.3dmgame.com/news/202410/3906164.html)
+
++ [《XXX NIGHTSHIFT》Steam上线 悬疑冒险RPG](https://www.3dmgame.com/news/202410/3906167.html)
+
++ [拉瑞安发行总监谴责黄牛倒卖《博德之门3》实体收藏版：令玩家伤心](https://www.3dmgame.com/news/202410/3906162.html)
+
++ [国外网友缅怀《蝙蝠侠：阿卡姆骑士》：为什么一个发售9年的游戏这么好看](https://www.3dmgame.com/news/202410/3906161.html)
+
++ [《海贼王》官方APP上线 趣味变脸尾田海贼风](https://www.3dmgame.com/news/202410/3906160.html)
+
++ [《泰坦之旅2》新情报和新设定图 神马阿瑞翁亮相](https://www.3dmgame.com/news/202410/3906159.html)
+
++ [《巫师3》HD重制Mod次世代版11月推出 见识逼真效果](https://www.3dmgame.com/news/202410/3906163.html)
+

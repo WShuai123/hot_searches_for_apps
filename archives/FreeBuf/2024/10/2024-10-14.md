@@ -45,3 +45,9 @@
 
 + [通过写入MSR以提升到内核模式执行](https://www.freebuf.com/articles/endpoint/412299.html)
 
++ [低成本恶意软件泛滥，能窃取多个浏览器存储的个人数据](https://www.freebuf.com/news/412760.html)
+
++ [威胁升级！伊朗APT34组织针对阿联酋及海湾关键基础设施发动攻击](https://www.freebuf.com/news/412761.html)
+
++ [Yakit针对流量加密APP的Frida rpc解决方案](https://www.freebuf.com/articles/web/412059.html)
+
