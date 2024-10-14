@@ -103,3 +103,11 @@
 
 + [《勇者斗恶龙3：HD-2D重制版》新预告 11月14日发售](https://www.3dmgame.com/news/202410/3906213.html)
 
++ [《机甲战士5：部落》上市预告片分享 点燃战斗热情](https://www.3dmgame.com/news/202410/3906217.html)
+
++ [《伊苏10：北境历险》欧美版试玩已登陆PS4/PS5/PC](https://www.3dmgame.com/news/202410/3906216.html)
+
++ [微软将于本周四举办Xbox合作伙伴预览活动](https://www.3dmgame.com/news/202410/3906215.html)
+
++ [万代南梦宫《死神：魂魄觉醒》角色预告片之碎蜂](https://www.3dmgame.com/news/202410/3906214.html)
+
