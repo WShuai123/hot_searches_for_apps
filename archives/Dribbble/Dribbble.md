@@ -65,3 +65,9 @@
 
 + [LOGO - MIRAS](https://dribbble.com/shots/)
 
++ [Poster PSD Mockups](https://dribbble.com/shots/)
+
++ [Bezier Blade Lettering](https://dribbble.com/shots/)
+
++ [Bear (2018)](https://dribbble.com/shots/)
+

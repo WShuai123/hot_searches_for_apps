@@ -107,3 +107,21 @@
 
 + [Redmi Note 14系列非常成功 友商用户购买比例明显提升](https://www.3dmgame.com/news/202410/3906147.html)
 
++ [《DOTA2》PGL S2 南美战队Heroic夺冠创造历史](https://www.3dmgame.com/news/202410/3906158.html)
+
++ [《寂静岭2RE》女主美颜Mod 让她们更加美丽和女性化](https://www.3dmgame.com/news/202410/3906157.html)
+
++ [《赛博朋克2077》超现实MOD 无法区分现实和游戏](https://www.3dmgame.com/news/202410/3906156.html)
+
++ [SBI公司CEO急了：反DEI人士在不断骚扰和威胁我们](https://www.3dmgame.com/news/202410/3906155.html)
+
++ [消息称Xbox将在本周举行第三方游戏厂商发布会](https://www.3dmgame.com/news/202410/3906154.html)
+
++ [PSP经典视觉小说《快盗天使》高清重制版登陆Steam](https://www.3dmgame.com/news/202410/3906153.html)
+
++ [PVP试玩版上线 沙盒游戏《Sand》发布6分钟演示](https://www.3dmgame.com/news/202410/3906152.html)
+
++ [《绝地求生手游》联动《铁拳8》活动现已上线](https://www.3dmgame.com/news/202410/3906151.html)
+
++ [Switch《如龙：极》容量超过Xbox版](https://www.3dmgame.com/news/202410/3906150.html)
+
