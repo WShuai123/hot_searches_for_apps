@@ -89,3 +89,15 @@
 
 + [【中文解说】速看S14全球总决赛 瑞士轮 day9](http://www.acfun.cn/v/ac46381733)
 
++ [特厨探店 |伊宁最火的小吃街逛吃攻略！—伊宁六星街](http://www.acfun.cn/v/ac46374038)
+
++ [【猪肝来也】『after 17』我的孩子气给我勇气](http://www.acfun.cn/v/ac46380910)
+
++ [【惊奇万圣】用扭扭棒做出可动AC娘娃娃](http://www.acfun.cn/v/ac46380014)
+
++ [花200块！买的最新款电动车续航王，效果实在是..](http://www.acfun.cn/v/ac46380203)
+
++ [【井上拓真vs堤圣也】二先生解说版](http://www.acfun.cn/v/ac46381230)
+
++ [是洗完头发炸毛的刘海～](http://www.acfun.cn/v/ac46379601)
+

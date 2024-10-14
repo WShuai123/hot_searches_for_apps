@@ -51,3 +51,5 @@
 
 + [Yakit针对流量加密APP的Frida rpc解决方案](https://www.freebuf.com/articles/web/412059.html)
 
++ [0day的产生 | 权限绕过的秘密](https://www.freebuf.com/articles/web/412296.html)
+

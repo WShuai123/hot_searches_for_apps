@@ -35,3 +35,7 @@
 
 + [问界新 M5 高速上智驾未紧急制动撞死 11 只羊，经销商称车辆已减速](https://m.ithome.com/html/801956.htm)
 
++ [消息称荣耀 MagicOS 9.0 与华为 HarmonyOS NEXT 控制中心小组件位置略有差别，其余功能图标几乎一致](https://m.ithome.com/html/801948.htm)
+
++ [OPPO Find X8 手机支持 PPS 充电，标准版提供 16+512GB 版本](https://m.ithome.com/html/801922.htm)
+
