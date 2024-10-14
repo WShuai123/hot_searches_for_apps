@@ -215,3 +215,5 @@
 
 + [卡牌射击《FragPunk》封测启动 近期登陆PC/Xbox](https://www.3dmgame.com/news/202410/3906201.html)
 
++ [PS5 Pro目前是亚马逊美国最畅销主机](https://www.3dmgame.com/news/202410/3906204.html)
+
