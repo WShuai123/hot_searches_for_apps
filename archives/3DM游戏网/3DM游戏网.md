@@ -303,3 +303,5 @@
 
 + [英伟达每年的研发费用现在是AMD的两倍](https://www.3dmgame.com/news/202410/3906311.html)
 
++ [Game Pass新增游戏公布 《黑色行动6》《星际争霸》等](https://www.3dmgame.com/news/202410/3906315.html)
+
