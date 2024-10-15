@@ -29,3 +29,5 @@
 
 + [i5-14400F+RTX4060Ti：联想 T4900k 台式机 16+1TB 版 4996 元 6 期免息](https://m.ithome.com/html/802310.htm)
 
++ [苹果全新 iPad mini 7 电脑支持 esim 通信，对比上代缺少 1 个千兆 LTE 频段](https://m.ithome.com/html/802569.htm)
+
