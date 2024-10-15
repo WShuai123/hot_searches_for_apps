@@ -105,3 +105,9 @@
 
 + [《超级马里奥派对：空前盛会》评分解禁 M站均分81](https://www.3dmgame.com/news/202410/3906318.html)
 
++ [《不羁联盟》制作人表示没有在S4后关服的计划](https://www.3dmgame.com/news/202410/3906321.html)
+
++ [《战锤40K：星际战士2》新视频介绍发行后计划](https://www.3dmgame.com/news/202410/3906322.html)
+
++ [《使命召唤：黑色行动6》预告片宣传PC版特性](https://www.3dmgame.com/news/202410/3906320.html)
+
