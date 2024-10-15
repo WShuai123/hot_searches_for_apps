@@ -103,3 +103,53 @@
 
 + [Flowbite WYSIWYG](https://www.producthunt.com/posts/flowbite-wysiwyg)
 
++ [Busy Status Bar](https://www.producthunt.com/posts/busy-status-bar)
+
++ [Batteries Included](https://www.producthunt.com/posts/batteries-included)
+
++ [Time Squeeze](https://www.producthunt.com/posts/time-squeeze)
+
++ [Arcane Camera](https://www.producthunt.com/posts/arcane-camera)
+
++ [Webstudio Variables](https://www.producthunt.com/posts/webstudio-variables)
+
++ [Gradio 5.0](https://www.producthunt.com/posts/gradio-5-0)
+
++ [EU-Inc](https://www.producthunt.com/posts/eu-inc)
+
++ [Mic Audio Level](https://www.producthunt.com/posts/mic-audio-level)
+
++ [Question Base](https://www.producthunt.com/posts/question-base-4)
+
++ [Claap 3.0](https://www.producthunt.com/posts/claap-3-0)
+
++ [Bezel 2.0](https://www.producthunt.com/posts/bezel-2-0)
+
++ [Conductor](https://www.producthunt.com/posts/conductor-b1a9cd41-3057-41bb-9b29-c88e01431103)
+
++ [PurrWalk](https://www.producthunt.com/posts/purrwalk)
+
++ [gait](https://www.producthunt.com/posts/gait)
+
++ [aPulse](https://www.producthunt.com/posts/apulse)
+
++ [OnlyShortcuts](https://www.producthunt.com/posts/onlyshortcuts)
+
++ [Code2.AI](https://www.producthunt.com/posts/code2-ai)
+
++ [Parseflow.io](https://www.producthunt.com/posts/parseflow-io)
+
++ [Productlane](https://www.producthunt.com/posts/productlane-3)
+
++ [Dovetail 3.0](https://www.producthunt.com/posts/dovetail-3-0)
+
++ [HeyForm 3.0](https://www.producthunt.com/posts/heyform-3-0)
+
++ [Perplexity for Mac](https://www.producthunt.com/posts/perplexity-for-mac)
+
++ [Strella](https://www.producthunt.com/posts/strella)
+
++ [Scrintal](https://www.producthunt.com/posts/scrintal)
+
++ [Zupport AI](https://www.producthunt.com/posts/zupport-ai)
+

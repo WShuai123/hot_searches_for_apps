@@ -217,3 +217,21 @@
 
 + [I社新《VR女友》确定2025年2月发售 女主角详情公开](https://www.3dmgame.com/news/202410/3906271.html)
 
++ [《海洋奇缘2》内地定档 11月29日全国上映](https://www.3dmgame.com/news/202410/3906280.html)
+
++ [abxylute ABXY S9手机手柄京东首发，畅玩掌上游戏，带来精英级手机游戏体验！](https://www.3dmgame.com/news/202410/3906279.html)
+
++ [《方舟生存飞升》今日上线新地图希腊世界、新生物巨型海龟](https://www.3dmgame.com/news/202410/3906278.html)
+
++ [《完蛋我被美女包围前传》售价公布 首发39.6元](https://www.3dmgame.com/news/202410/3906277.html)
+
++ [《绝区零》柏妮思角色展示 伤心的人来杯特调](https://www.3dmgame.com/news/202410/3906276.html)
+
++ [第三人称解谜冒险游戏《北境之灵2》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906275.html)
+
++ [《惊天魔盗团3》主演手指受伤 不仅有魔术还有很多动作戏](https://www.3dmgame.com/news/202410/3906274.html)
+
++ [《命运石之门》发布15周年纪念预告片 感谢玩家支持](https://www.3dmgame.com/news/202410/3906273.html)
+
++ [报道指出《疾速追杀》系列导演不得不重拍外传《芭蕾杀姬》大部分场景](https://www.3dmgame.com/news/202410/3906272.html)
+

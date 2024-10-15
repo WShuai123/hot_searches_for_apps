@@ -41,3 +41,5 @@
 
 + [郭明錤：骁龙 8 Gen 4 芯片 2024 下半年出货量同比增 50%、单价涨 15%，中国手机品牌冲击高端是主因之一](https://m.ithome.com/html/802270.htm)
 
++ [10 月 24 日发布，OPPO Find X8 系列手机、Pad 3 Pro 平板、Enco X3 耳机渲染图曝光](https://m.ithome.com/html/802282.htm)
+

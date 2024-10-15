@@ -77,3 +77,19 @@
 
 + [Stonefisher Electronics](https://dribbble.com/shots/)
 
++ [VitalPlate - Healthy Food Menu Planner Landing Page Website](https://dribbble.com/shots/)
+
++ [Pipelined - Customer Relationship Management Platform](https://dribbble.com/shots/)
+
++ [HR Management Saas Web App - Employee Performance](https://dribbble.com/shots/)
+
++ [Trenning - Detailed Quiz Question Reports in SaaS LMS](https://dribbble.com/shots/)
+
++ [Yoga E-commerce Landing Page](https://dribbble.com/shots/)
+
++ [Send](https://dribbble.com/shots/)
+
++ [Listen](https://dribbble.com/shots/)
+
++ [Lordsky - Destination Details Page](https://dribbble.com/shots/)
+
