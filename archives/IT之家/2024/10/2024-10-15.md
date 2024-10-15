@@ -49,3 +49,5 @@
 
 + [华为 nova 13 系列手机定金预售：黑 / 白 / 绿 / 紫四色，到手价 2XX9 元起](https://m.ithome.com/html/802399.htm)
 
++ [原生鸿蒙之夜暨华为全场景新品发布会官宣 10 月 22 日举行](https://m.ithome.com/html/802302.htm)
+

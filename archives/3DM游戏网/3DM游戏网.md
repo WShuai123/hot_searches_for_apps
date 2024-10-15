@@ -289,3 +289,7 @@
 
 + [微信小程序翻译功能上线 18种语言可一键翻译](https://www.3dmgame.com/news/202410/3906295.html)
 
++ [随着市场向新标准过渡 制造商开始停产PCIe 3.0 M.2 SSD](https://www.3dmgame.com/news/202410/3906309.html)
+
++ [龙芯披露首款自研GPU显卡：对标AMD七年前的RX550](https://www.3dmgame.com/news/202410/3906308.html)
+

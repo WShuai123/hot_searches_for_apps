@@ -123,3 +123,13 @@
 
 + [EnduroSat — Website content](https://dribbble.com/shots/)
 
++ [Altimist Visual Identity](https://dribbble.com/shots/)
+
++ [BlackBull Iconography](https://dribbble.com/shots/)
+
++ [Cyclops - Component](https://dribbble.com/shots/)
+
++ [Heart+Bxxbs](https://dribbble.com/shots/)
+
++ [D Pulses - Transforming Data Into Growth](https://dribbble.com/shots/)
+
