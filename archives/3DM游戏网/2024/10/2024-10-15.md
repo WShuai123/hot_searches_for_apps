@@ -235,3 +235,21 @@
 
 + [报道指出《疾速追杀》系列导演不得不重拍外传《芭蕾杀姬》大部分场景](https://www.3dmgame.com/news/202410/3906272.html)
 
++ [鹰角合作平台解谜《泡姆泡姆》参与2024 Steam新品节 推出新版试玩](https://www.3dmgame.com/news/202410/3906289.html)
+
++ [中国汽车9月出口销量榜：奇瑞稳居第一 前十独占三款车型](https://www.3dmgame.com/news/202410/3906288.html)
+
++ [KK官方对战平台创作赏金任务上线！随手投稿，拿海量好礼！](https://www.3dmgame.com/news/202410/3906287.html)
+
++ [樱井政博游戏开发视频迎来最终回 特别篇下周发布](https://www.3dmgame.com/news/202410/3906286.html)
+
++ [《小丑2》预计亏损1.5-2亿刀 数字媒体版10月29日上映](https://www.3dmgame.com/news/202410/3906285.html)
+
++ [《太空工程师》“接触”更新现已上线 添加全新PvE战斗](https://www.3dmgame.com/news/202410/3906284.html)
+
++ [R星前技术总监透露《荒野大镖客：救赎》PS3版开发难度大 Xbox 360版本更容易](https://www.3dmgame.com/news/202410/3906282.html)
+
++ [《Re:Fragment》Steam试玩发布 日式美少女视觉冒险](https://www.3dmgame.com/news/202410/3906281.html)
+
++ [任天堂：敬请期待Switch Online扩展包会员2025年的惊喜内容](https://www.3dmgame.com/news/202410/3906283.html)
+
