@@ -65,3 +65,5 @@
 
 + [Mr.taxi](http://www.acfun.cn/v/ac46389894)
 
++ [虽是坏结局，但却是我最钟意的结局【寂静岭2重制版】之“在水中”结局及片尾曲Promise欣赏](http://www.acfun.cn/v/ac46390033)
+
