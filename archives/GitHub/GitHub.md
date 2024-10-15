@@ -33,3 +33,5 @@
 
 + [LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
 
++ [eloialonso / diamond](https://github.com/eloialonso/diamond)
+

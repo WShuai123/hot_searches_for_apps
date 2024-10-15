@@ -211,3 +211,7 @@
 
 + [《真三国无双：起源》孙策贾诩乐进介绍 小霸王很帅](https://www.3dmgame.com/news/202410/3906245.html)
 
++ [《庄园领主》发行商促销大获成功 游戏销量突破250万份](https://www.3dmgame.com/news/202410/3906269.html)
+
++ [小米电视S Pro Mini LED 2025预售开启 4599元起！](https://www.3dmgame.com/news/202410/3906270.html)
+
