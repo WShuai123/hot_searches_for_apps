@@ -53,3 +53,9 @@
 
 + [四川警方通报 74 岁老人驾“老头乐”强闯高速逆行事故，致两人死亡](https://m.ithome.com/html/802430.htm)
 
++ [苹果发布 2024 款 iPad mini 7 平板电脑：128GB 版本 3999 元，512GB 版本 6499 元](https://m.ithome.com/html/802562.htm)
+
++ [大跳 1918 元：三星 S24 小屏旗舰手机 3581 元京东 6.5 折新低](https://m.ithome.com/html/802390.htm)
+
++ [小米王腾：最新 3nm 制程工艺成本大幅增加、内存持续涨价，年底这一波旗舰定价都挺难的](https://m.ithome.com/html/802326.htm)
+

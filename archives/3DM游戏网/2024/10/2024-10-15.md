@@ -293,3 +293,13 @@
 
 + [龙芯披露首款自研GPU显卡：对标AMD七年前的RX550](https://www.3dmgame.com/news/202410/3906308.html)
 
++ [英伟达谈未来：员工人数将增至5万 部署1亿个AI助手](https://www.3dmgame.com/news/202410/3906312.html)
+
++ [传万代南梦宫取消多款游戏 强迫员工主动离职](https://www.3dmgame.com/news/202410/3906313.html)
+
++ [《七龙珠 电光炸裂！ZERO》发售24小时 销量超300万套](https://www.3dmgame.com/news/202410/3906314.html)
+
++ [《微软飞行模拟2024》带宽要求惊人 最高每小时81GB流量](https://www.3dmgame.com/news/202410/3906310.html)
+
++ [英伟达每年的研发费用现在是AMD的两倍](https://www.3dmgame.com/news/202410/3906311.html)
+
