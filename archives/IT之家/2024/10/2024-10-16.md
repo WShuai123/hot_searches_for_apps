@@ -27,3 +27,5 @@
 
 + [QQ 纯血鸿蒙版抢先体验：超级纯净，藏小惊喜，有大期待](https://m.ithome.com/html/802424.htm)
 
++ [i5-14400F+RTX4060Ti：联想 T4900k 台式机 16+1TB 版 4996 元 6 期免息](https://m.ithome.com/html/802310.htm)
+

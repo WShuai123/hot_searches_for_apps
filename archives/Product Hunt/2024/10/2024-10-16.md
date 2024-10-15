@@ -103,3 +103,5 @@
 
 + [DevKit 3.0](https://www.producthunt.com/posts/devkit-3-0)
 
++ [CalcGen AI](https://www.producthunt.com/posts/calcgen-ai)
+
