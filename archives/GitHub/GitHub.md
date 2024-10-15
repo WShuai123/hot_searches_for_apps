@@ -35,3 +35,23 @@
 
 + [eloialonso / diamond](https://github.com/eloialonso/diamond)
 
++ [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit)
+
++ [VikParuchuri / surya](https://github.com/VikParuchuri/surya)
+
++ [siyuan-note / siyuan](https://github.com/siyuan-note/siyuan)
+
++ [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
++ [onevcat / Kingfisher](https://github.com/onevcat/Kingfisher)
+
++ [kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
+
++ [RSSNext / Follow](https://github.com/RSSNext/Follow)
+
++ [kestra-io / kestra](https://github.com/kestra-io/kestra)
+
++ [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
