@@ -79,3 +79,7 @@
 
 + [一枚粉色的小蛋糕（嚼嚼嚼）](http://www.acfun.cn/v/ac46384282)
 
++ [要的就是美人鱼！★手机竖屏1304★](http://www.acfun.cn/v/ac46385484)
+
++ [【柯基】魔法少女小圆《And I m Home》](http://www.acfun.cn/v/ac46386639)
+

@@ -37,3 +37,5 @@
 
 + [京东以旧换新补贴购：苹果 iPhone 16 系列直减 500 元](https://m.ithome.com/html/802094.htm)
 
++ [vivo X200 标准版机身厚度约 7.99mm，配备 5800mAh 电池 + 蔡司超级长焦](https://m.ithome.com/html/802209.htm)
+

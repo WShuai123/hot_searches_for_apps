@@ -151,3 +151,63 @@
 
 + [《收获日3》制作人坦言游戏就像舞台坍塌的摇滚乐队演出 所有人都离开了](https://www.3dmgame.com/news/202410/3906231.html)
 
++ [像素猎奇风动作冒险游戏《Vindefiant》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906258.html)
+
++ [阿什莉体模想演《寂静岭3》希瑟 伊藤畅达称要改模型](https://www.3dmgame.com/news/202410/3906259.html)
+
++ [网易手游《天启行动》宣布停运 总运营时长不到4个月](https://www.3dmgame.com/news/202410/3906260.html)
+
++ [经典横向卷轴动作游戏《梦幻战士合集》Steam页面上线 发售日未定](https://www.3dmgame.com/news/202410/3906261.html)
+
++ [神女有情，坠落凡尘《西游志：山海战纪》最新DLC现已发售](https://www.3dmgame.com/news/202410/3906262.html)
+
++ [《一起开火车2：汽笛重鸣》今日登陆Steam新品节](https://www.3dmgame.com/news/202410/3906263.html)
+
++ [《苏丹的游戏》亮相Steam新品节，DEMO重磅更新同步推出！](https://www.3dmgame.com/news/202410/3906264.html)
+
++ [索尼申请新专利：聋哑玩家游戏交流实时手语翻译](https://www.3dmgame.com/news/202410/3906265.html)
+
++ [《风中行者》单人试玩版现已限时上线！](https://www.3dmgame.com/news/202410/3906268.html)
+
++ [《UNDERWARD》Steam上线 多人合作恐怖医院探索](https://www.3dmgame.com/news/202410/3906266.html)
+
++ [4X修仙游戏《宗门志》参加Steam新品节，免费试玩版开启！](https://www.3dmgame.com/news/202410/3906267.html)
+
++ [家主，我想成亲！《吾今有世家》Demo已登陆Steam新品节](https://www.3dmgame.com/news/202410/3906255.html)
+
++ [EA《黑豹》游戏编剧支持Kotaku编辑对玩家谩骂](https://www.3dmgame.com/news/202410/3906256.html)
+
++ [AMD中国专属新卡RX 7650 GRE冒泡 或CES 2025公开](https://www.3dmgame.com/news/202410/3906257.html)
+
++ [聊天平台Discord开发者揭秘 软件最初起源自《最终幻想11》](https://www.3dmgame.com/news/202410/3906247.html)
+
++ [GF泄露显示“成人主题”宝可梦剧场版和新动画剧集制作中](https://www.3dmgame.com/news/202410/3906248.html)
+
++ [高分催泪动画电影《蓦然回首》官宣定档 10.26谱写细腻友情与梦想诗篇](https://www.3dmgame.com/news/202410/3906249.html)
+
++ [像素风格动作类肉鸽游戏《破咒剑士》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906250.html)
+
++ [Flyway Games将在Steam 新品节展示两款新作](https://www.3dmgame.com/news/202410/3906251.html)
+
++ [谷歌签署核电购买协议 以满足发展人工智能的用电需求](https://www.3dmgame.com/news/202410/3906252.html)
+
++ [《都市传说解体中心》Steam试玩发布 灵异冒险调查](https://www.3dmgame.com/news/202410/3906253.html)
+
++ [30周年限定版PS5国行10月17日开启预购 购买资格需抽签](https://www.3dmgame.com/news/202410/3906254.html)
+
++ [藤本树漫改电影 《蓦然回首》国内定档10月26日](https://www.3dmgame.com/news/202410/3906246.html)
+
++ [卡牌策略类肉鸽游戏《牌兵布阵》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906239.html)
+
++ [《地痞街区2》试玩版现已发布 EA发售日跳票](https://www.3dmgame.com/news/202410/3906240.html)
+
++ [国产RPG《明末：渊虚之羽》确认参加Xbox第三方展示会](https://www.3dmgame.com/news/202410/3906241.html)
+
++ [纪念系列45周年 高达宣布将联动初音未来](https://www.3dmgame.com/news/202410/3906242.html)
+
++ [亚马逊游戏剧集《秘密关卡》演员阵容泄露：施瓦辛格父子参演](https://www.3dmgame.com/news/202410/3906243.html)
+
++ [《Maple Forest》双倍众筹目标达成 致敬经典塞尔达传说](https://www.3dmgame.com/news/202410/3906244.html)
+
++ [《真三国无双：起源》孙策贾诩乐进介绍 小霸王很帅](https://www.3dmgame.com/news/202410/3906245.html)
+
