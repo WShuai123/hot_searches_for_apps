@@ -101,3 +101,7 @@
 
 + [像素猎奇风动作冒险游戏《Vindefiant》现已在Steam新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906258.html)
 
++ [《龙腾世纪：影障守护者》配置公布 不使用D加密](https://www.3dmgame.com/news/202410/3906319.html)
+
++ [《超级马里奥派对：空前盛会》评分解禁 M站均分81](https://www.3dmgame.com/news/202410/3906318.html)
+
