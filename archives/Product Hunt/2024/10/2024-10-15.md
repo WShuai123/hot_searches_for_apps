@@ -153,3 +153,5 @@
 
 + [Zupport AI](https://www.producthunt.com/posts/zupport-ai)
 
++ [Talkstack AI](https://www.producthunt.com/posts/talkstack-ai-1)
+
