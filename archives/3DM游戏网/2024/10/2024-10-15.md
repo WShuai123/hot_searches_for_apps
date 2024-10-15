@@ -117,3 +117,17 @@
 
 + [《罪恶王权》开发团队全新学园RPG项目启动](https://www.3dmgame.com/news/202410/3906218.html)
 
++ [《原神》移动端国内收入超50亿美元 游戏太吸引人了](https://www.3dmgame.com/news/202410/3906228.html)
+
++ [Steam特别好评《机械守护者》将登陆PS5和PS4平台](https://www.3dmgame.com/news/202410/3906227.html)
+
++ [《GTAOL》万圣节僵尸模式太火爆 120万玩家涌入](https://www.3dmgame.com/news/202410/3906226.html)
+
++ [《盗贼之海》工作室Rare老大升官 领导整个Xbox工作室群](https://www.3dmgame.com/news/202410/3906225.html)
+
++ [《无名九使：觉醒》发售预告 巫师剧版叶奈法演员出演](https://www.3dmgame.com/news/202410/3906224.html)
+
++ [《寂静岭2：重制版》数字艺术图展示角色变化 女主变化太大](https://www.3dmgame.com/news/202410/3906223.html)
+
++ [治愈系动物沙盒RPG《荆棘谷​》公布玩法视频](https://www.3dmgame.com/news/202410/3906222.html)
+

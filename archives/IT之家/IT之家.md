@@ -27,3 +27,7 @@
 
 + [vivo X200 系列手机全系搭载全等深微四曲屏，Pro 款下巴和其余三边压缩至 1.63mm](https://m.ithome.com/html/802207.htm)
 
++ [【IT之家】vivo X200 Pro mini 小屏手机实拍、快速上手：单手掌控，Pro 级 mini](https://m.ithome.com/html/802267.htm)
+
++ [vivo X200 / Pro 手机发布：全球首发天玑 9400 处理器，4299 元起](https://m.ithome.com/html/802217.htm)
+

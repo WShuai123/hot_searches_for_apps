@@ -41,3 +41,7 @@
 
 + [file-unpumper：一款针对PE文件的安全分析工具](https://www.freebuf.com/sectool/412169.html)
 
++ [FreeBuf早报 | 通灵占卜平台因违反数据保护法被罚；伊朗政府部门和遭大规模网络攻击](https://www.freebuf.com/news/412798.html)
+
++ [Vulnstack | ATT&CK实战系列：红队实战(一)](https://www.freebuf.com/vuls/412751.html)
+
