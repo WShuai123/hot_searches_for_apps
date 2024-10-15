@@ -105,3 +105,5 @@
 
 + [CalcGen AI](https://www.producthunt.com/posts/calcgen-ai)
 
++ [Quizzio](https://www.producthunt.com/posts/quizzio)
+
