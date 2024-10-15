@@ -47,3 +47,5 @@
 
 + [vivo：X200 系列手机预售首日全系销量是上代 150%，Pro 版本是上代 200%](https://m.ithome.com/html/802352.htm)
 
++ [华为 nova 13 系列手机定金预售：黑 / 白 / 绿 / 紫四色，到手价 2XX9 元起](https://m.ithome.com/html/802399.htm)
+

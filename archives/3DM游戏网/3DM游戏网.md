@@ -257,3 +257,35 @@
 
 + [魂系ARPG《匹诺曹的谎言》确定支持PS5 Pro增强](https://www.3dmgame.com/news/202410/3906290.html)
 
++ [老外10年前误扔天价比特币硬盘 计划挖掘被拒起诉当地议会](https://www.3dmgame.com/news/202410/3906305.html)
+
++ [RTX5070 12GB性能首曝！光追比4070Ti S高5-10%](https://www.3dmgame.com/news/202410/3906306.html)
+
++ [DEMO大更新！好评RPG《萌护全宇宙》又有新动作了，Steam新品节追加肉鸽模式！](https://www.3dmgame.com/news/202410/3906304.html)
+
++ [国产恐怖游戏《弥留》正式参与10月15日STEAM新品节！](https://www.3dmgame.com/news/202410/3906303.html)
+
++ [柏青哥弹球类肉鸽游戏《弹球百万富翁》推出免费试玩，计划于2024年发布](https://www.3dmgame.com/news/202410/3906302.html)
+
++ [《CARD OF LEGEND: AWAKEN ANGELS》将于10月15日起参加SNF](https://www.3dmgame.com/news/202410/3906307.html)
+
++ [扑克对决推理ADV/RPG《深渊绝赌：千王处刑》于Steam新品节上线试玩版](https://www.3dmgame.com/news/202410/3906301.html)
+
++ [30周年限定版PlayStation®5数字版主机10月17日在中国大陆市场开启预约](https://www.3dmgame.com/news/202410/3906300.html)
+
++ [“筷子夹火箭”后 马斯克称开发火星需将现有技术提升千倍](https://www.3dmgame.com/news/202410/3906299.html)
+
++ [台积电市值逼近万亿美元大关！今年已狂飙近90%](https://www.3dmgame.com/news/202410/3906298.html)
+
++ [传GF泄露包含PC版《宝可梦传说Z-A》 已全程可玩](https://www.3dmgame.com/news/202410/3906296.html)
+
++ [涨价板上钉钉！郭明錤曝高通骁龙8至尊版芯片报价超千元](https://www.3dmgame.com/news/202410/3906294.html)
+
++ [空间站工厂自动化游戏《Outworld Station》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202410/3906293.html)
+
++ [Steam最新一周销量榜 《七龙珠 电光炸裂！ZERO》二连冠](https://www.3dmgame.com/news/202410/3906292.html)
+
++ [中国台湾专家盛赞《黑神话》：真好玩！世界级创意](https://www.3dmgame.com/news/202410/3906297.html)
+
++ [微信小程序翻译功能上线 18种语言可一键翻译](https://www.3dmgame.com/news/202410/3906295.html)
+
