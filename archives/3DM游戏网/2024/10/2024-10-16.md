@@ -111,3 +111,5 @@
 
 + [《使命召唤：黑色行动6》预告片宣传PC版特性](https://www.3dmgame.com/news/202410/3906320.html)
 
++ [植松伸夫：Fantasian为其最后一个游戏作曲项目](https://www.3dmgame.com/news/202410/3906323.html)
+
