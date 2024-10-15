@@ -253,3 +253,7 @@
 
 + [任天堂：敬请期待Switch Online扩展包会员2025年的惊喜内容](https://www.3dmgame.com/news/202410/3906283.html)
 
++ [《最终幻想7》蒂法饭制新美图 穿皮衣新丝袜太诱人](https://www.3dmgame.com/news/202410/3906291.html)
+
++ [魂系ARPG《匹诺曹的谎言》确定支持PS5 Pro增强](https://www.3dmgame.com/news/202410/3906290.html)
+

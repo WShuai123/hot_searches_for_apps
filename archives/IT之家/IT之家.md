@@ -43,3 +43,7 @@
 
 + [10 月 24 日发布，OPPO Find X8 系列手机、Pad 3 Pro 平板、Enco X3 耳机渲染图曝光](https://m.ithome.com/html/802282.htm)
 
++ [QQ 鸿蒙原生版抢先体验：超级纯净，藏小惊喜，有大期待](https://m.ithome.com/html/802424.htm)
+
++ [vivo：X200 系列手机预售首日全系销量是上代 150%，Pro 版本是上代 200%](https://m.ithome.com/html/802352.htm)
+
