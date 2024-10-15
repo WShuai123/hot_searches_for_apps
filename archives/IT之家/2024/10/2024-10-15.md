@@ -31,3 +31,9 @@
 
 + [vivo X200 / Pro 手机发布：全球首发天玑 9400 处理器，4299 元起](https://m.ithome.com/html/802217.htm)
 
++ [IT之家纯血鸿蒙 1.10 原生正式版上架！华为账号一键登录、投稿、缩放看图…](https://m.ithome.com/html/802170.htm)
+
++ [小鹏 P7+ 汽车预售 1 小时 48 分钟订单突破 3 万台，20.98 万元起](https://m.ithome.com/html/802247.htm)
+
++ [京东以旧换新补贴购：苹果 iPhone 16 系列直减 500 元](https://m.ithome.com/html/802094.htm)
+

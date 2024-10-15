@@ -45,3 +45,5 @@
 
 + [Vulnstack | ATT&CK实战系列：红队实战(一)](https://www.freebuf.com/vuls/412751.html)
 
++ [企业数据安全与访问控制体系建设](https://www.freebuf.com/articles/es/412112.html)
+

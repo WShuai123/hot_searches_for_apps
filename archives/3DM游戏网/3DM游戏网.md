@@ -131,3 +131,23 @@
 
 + [治愈系动物沙盒RPG《荆棘谷​》公布玩法视频](https://www.3dmgame.com/news/202410/3906222.html)
 
++ [《完蛋被美女包围前传》试玩版上线 第一章免费体验](https://www.3dmgame.com/news/202410/3906232.html)
+
++ [策略战棋游戏《长沼蟾蜍》发售日公布 11月19日发售](https://www.3dmgame.com/news/202410/3906233.html)
+
++ [国产游戏《无限机兵》试玩版上线 限时体验首个关卡](https://www.3dmgame.com/news/202410/3906234.html)
+
++ [《机械公敌》导演指责特斯拉“抄袭”了他的创意](https://www.3dmgame.com/news/202410/3906235.html)
+
++ [《逃离塔科夫》开发商庆祝10周年 游戏打折PvP玩家获免费装备](https://www.3dmgame.com/news/202410/3906236.html)
+
++ [类魂迷宫探索游戏《遗产：钢铁与巫术》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3906237.html)
+
++ [《如龙8外传：夏威夷海盗》新情报演示10月18日公开](https://www.3dmgame.com/news/202410/3906238.html)
+
++ [《使命召唤：黑色行动6》首发将会登陆Xbox云游戏](https://www.3dmgame.com/news/202410/3906229.html)
+
++ [《DigDigDrill》12月登陆Steam 挖矿探险经营](https://www.3dmgame.com/news/202410/3906230.html)
+
++ [《收获日3》制作人坦言游戏就像舞台坍塌的摇滚乐队演出 所有人都离开了](https://www.3dmgame.com/news/202410/3906231.html)
+
