@@ -215,3 +215,5 @@
 
 + [小米电视S Pro Mini LED 2025预售开启 4599元起！](https://www.3dmgame.com/news/202410/3906270.html)
 
++ [I社新《VR女友》确定2025年2月发售 女主角详情公开](https://www.3dmgame.com/news/202410/3906271.html)
+
