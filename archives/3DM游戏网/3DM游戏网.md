@@ -173,3 +173,13 @@
 
 + [PlayStation官方音乐会宣布 两年内巡演200多个城市](https://www.3dmgame.com/news/202410/3906348.html)
 
++ [《三国志8重制版》武将能力排行榜 你想拥有哪位武将？](https://www.3dmgame.com/news/202410/3906357.html)
+
++ [《都市传说解体中心》发售日预告 2月13日发售](https://www.3dmgame.com/news/202410/3906358.html)
+
++ [美国演员工会与游戏公司谈判重开：罢工抗议仍将继续](https://www.3dmgame.com/news/202410/3906356.html)
+
++ [回合制卡牌对战游戏《疯狂之门：重新开张》现已在新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906355.html)
+
++ [《宝可梦大集结》国服移动端正式定档：11月7日](https://www.3dmgame.com/news/202410/3906354.html)
+

@@ -49,3 +49,5 @@
 
 + [2024年，全球数据贩卖、勒索攻击等黑产事件大幅上升](https://www.freebuf.com/articles/neopoints/412920.html)
 
++ [可绕过安全防护！EDR Silencer红队工具遭黑客利用](https://www.freebuf.com/news/412912.html)
+

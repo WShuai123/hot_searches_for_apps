@@ -39,3 +39,7 @@
 
 + [M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4290 元清仓](https://m.ithome.com/html/802345.htm)
 
++ [苹果 iPhone 18 系列曝猛料：首发 2nm A20 芯片、更先进封装、12GB 内存](https://m.ithome.com/html/802604.htm)
+
++ [5479 元起，小米 14 Ultra 旗舰手机全版本直降千元 + 24 期免息](https://m.ithome.com/html/802465.htm)
+
