@@ -41,3 +41,7 @@
 
 + [WPS Office从路径穿越到远程代码执行漏洞分析与复现](https://www.freebuf.com/vuls/412285.html)
 
++ [FreeBuf早报 | 宝可梦开发商未公开游戏信息泄露；世界最大数字图书馆遭网络攻击](https://www.freebuf.com/news/412842.html)
+
++ [零知识证明的先进形式化验证：两个ZK漏洞的深度剖析](https://www.freebuf.com/articles/blockchain-articles/412314.html)
+

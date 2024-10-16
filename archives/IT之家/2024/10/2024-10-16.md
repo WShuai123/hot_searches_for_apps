@@ -31,3 +31,7 @@
 
 + [苹果全新 iPad mini 7 电脑支持 esim 通信，对比上代缺少 1 个千兆 LTE 频段](https://m.ithome.com/html/802569.htm)
 
++ [iPhone 16 Pro 被曝不能连接华强北耳机，苹果客服称未收到有关技术限制的通知](https://m.ithome.com/html/802579.htm)
+
++ [刀法精湛，苹果全新 iPad mini 7 平板 A17 Pro 芯片图形处理器少 1 核](https://m.ithome.com/html/802586.htm)
+

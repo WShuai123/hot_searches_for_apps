@@ -113,3 +113,37 @@
 
 + [植松伸夫：Fantasian为其最后一个游戏作曲项目](https://www.3dmgame.com/news/202410/3906323.html)
 
++ [平台冒险解谜游戏《Neva》现已在Steam平台正式推出 获特别好评](https://www.3dmgame.com/news/202410/3906339.html)
+
++ [据报道《直到黎明》真人电影将于2025年4月25日上映](https://www.3dmgame.com/news/202410/3906340.html)
+
++ [《弹丸论破》团队最新作，已开启20小时免费试玩](https://www.3dmgame.com/news/202410/3906338.html)
+
++ [B社《夺宝奇兵：古老之圈》将在本月底提供上手预览](https://www.3dmgame.com/news/202410/3906337.html)
+
++ [拳头宣布今年第二轮裁员 近30位《英雄联盟》团队员工遭裁](https://www.3dmgame.com/news/202410/3906336.html)
+
++ [《超人》电影首曝剧照 超人和超级狗小氪温馨亮相](https://www.3dmgame.com/news/202410/3906335.html)
+
++ [《荒野大镖客：救赎》PC版与PS5版对比 有些进步](https://www.3dmgame.com/news/202410/3906334.html)
+
++ [老滚5设计师承认B社游戏缺少打磨 但Bug多你也得发售](https://www.3dmgame.com/news/202410/3906333.html)
+
++ [《龙腾世纪：影障守护者》PC无预载 因没有任何DRM](https://www.3dmgame.com/news/202410/3906332.html)
+
++ [《奥日》总监公开反对强迫DEI：这是变态的做法](https://www.3dmgame.com/news/202410/3906331.html)
+
++ [《最终幻想》系列全球总销量已突破1.95亿份 太惊人了！](https://www.3dmgame.com/news/202410/3906330.html)
+
++ [《地铁跑酷》精神续作《地铁大陆》近日上市](https://www.3dmgame.com/news/202410/3906328.html)
+
++ [《使命召唤：黑色行动6》官方PC配置需求 平易近人](https://www.3dmgame.com/news/202410/3906329.html)
+
++ [尻控必玩爆笑对战游戏《尻战士》12月发售](https://www.3dmgame.com/news/202410/3906327.html)
+
++ [高达元宇宙计划限时开放第三阶段测试](https://www.3dmgame.com/news/202410/3906326.html)
+
++ [10月末《宝可梦GO》将加入超极巨化功能](https://www.3dmgame.com/news/202410/3906325.html)
+
++ [万代南梦宫裁员或影响与任天堂合作游戏项目](https://www.3dmgame.com/news/202410/3906324.html)
+
