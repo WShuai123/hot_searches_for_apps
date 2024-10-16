@@ -161,3 +161,15 @@
 
 + [《DayZ》寒冬群岛DLC“Frostline”发布 更新已同步推出](https://www.3dmgame.com/news/202410/3906347.html)
 
++ [玩家以收购动视暴雪垄断为由起诉微软：现已达成和解](https://www.3dmgame.com/news/202410/3906353.html)
+
++ [《龙腾世纪：影幛守护者》成就列表已泄露 浪漫关系将不会与成就挂钩](https://www.3dmgame.com/news/202410/3906352.html)
+
++ [《怪物猎人：荒野》猎人组队视频 召唤打手来帮忙](https://www.3dmgame.com/news/202410/3906351.html)
+
++ [《了不起的修仙模拟器》大型免费更新《天道异动》 10月21日上线](https://www.3dmgame.com/news/202410/3906349.html)
+
++ [《RuneScape》开发商Jagex正在开发开放世界新作 采用虚幻引擎5](https://www.3dmgame.com/news/202410/3906350.html)
+
++ [PlayStation官方音乐会宣布 两年内巡演200多个城市](https://www.3dmgame.com/news/202410/3906348.html)
+

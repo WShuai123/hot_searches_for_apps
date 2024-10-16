@@ -47,3 +47,5 @@
 
 + [教育行业｜高校网络安全建设思路](https://www.freebuf.com/consult/412388.html)
 
++ [2024年，全球数据贩卖、勒索攻击等黑产事件大幅上升](https://www.freebuf.com/articles/neopoints/412920.html)
+

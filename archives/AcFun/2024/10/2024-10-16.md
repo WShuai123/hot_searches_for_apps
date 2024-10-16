@@ -73,3 +73,7 @@
 
 + [带喵喵打猎的一天，这感觉贼爽！](http://www.acfun.cn/v/ac46387669)
 
++ [Hot Pink](http://www.acfun.cn/v/ac46389467)
+
++ [【4K60帧/《你的名字》】8年 我终于再见到了你（重映剪辑）【惊奇万圣】](http://www.acfun.cn/v/ac46387768)
+
