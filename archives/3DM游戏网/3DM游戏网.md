@@ -147,3 +147,17 @@
 
 + [万代南梦宫裁员或影响与任天堂合作游戏项目](https://www.3dmgame.com/news/202410/3906324.html)
 
++ [卡牌塔防游戏《预言之牌》Steam页面公布 不支持中文](https://www.3dmgame.com/news/202410/3906342.html)
+
++ [《使命召唤：黑色行动6》各平台预载&全球解锁时间公开](https://www.3dmgame.com/news/202410/3906341.html)
+
++ [《异形：夺命舰》现已上线流媒体 全球票房超3.5亿美元](https://www.3dmgame.com/news/202410/3906343.html)
+
++ [回合制策略游戏《强国争坝》现已在新品节推出PC试玩版 2025年第一季度发行](https://www.3dmgame.com/news/202410/3906344.html)
+
++ [冒险游戏《佩蒂特的小岛》宣布11月14日发售 支持中文](https://www.3dmgame.com/news/202410/3906346.html)
+
++ [《光环》虚幻5版与《光环3》对比视频 画面大进化](https://www.3dmgame.com/news/202410/3906345.html)
+
++ [《DayZ》寒冬群岛DLC“Frostline”发布 更新已同步推出](https://www.3dmgame.com/news/202410/3906347.html)
+
