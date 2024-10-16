@@ -183,3 +183,17 @@
 
 + [《宝可梦大集结》国服移动端正式定档：11月7日](https://www.3dmgame.com/news/202410/3906354.html)
 
++ [恐怖游戏《不要害怕2》Demo公布 10月28日发售](https://www.3dmgame.com/news/202410/3906363.html)
+
++ [《绝地潜兵2》宣布60天更新计划已进入收尾阶段 同步推出新补丁](https://www.3dmgame.com/news/202410/3906364.html)
+
++ [黄仁勋：希望NVIDIA拥有5万名员工 配备1亿个AI助手](https://www.3dmgame.com/news/202410/3906365.html)
+
++ [新款Xbox Series X主机采用了更小的SoC芯片 性能不变发热量更小](https://www.3dmgame.com/news/202410/3906359.html)
+
++ [传本周Xbox发布会将有“大新闻”：《黑神话》Xbox版？](https://www.3dmgame.com/news/202410/3906360.html)
+
++ [第一人称动作冒险射击游戏《IHAS》现已在新品节推出试玩Demo](https://www.3dmgame.com/news/202410/3906361.html)
+
++ [允许SteamOS安装Epic和GOG游戏的插件已从Steam下架](https://www.3dmgame.com/news/202410/3906362.html)
+

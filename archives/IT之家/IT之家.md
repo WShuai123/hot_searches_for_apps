@@ -43,3 +43,5 @@
 
 + [5479 元起，小米 14 Ultra 旗舰手机全版本直降千元 + 24 期免息](https://m.ithome.com/html/802465.htm)
 
++ [苹果 Apple Store 官网上架翻新款 11 英寸 iPad Pro 2021，4999 元起](https://m.ithome.com/html/802541.htm)
+

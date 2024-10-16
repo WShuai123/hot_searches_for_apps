@@ -51,3 +51,5 @@
 
 + [可绕过安全防护！EDR Silencer红队工具遭黑客利用](https://www.freebuf.com/news/412912.html)
 
++ [0day的产生 | 不懂代码的"代码审计"](https://www.freebuf.com/articles/web/412297.html)
+
