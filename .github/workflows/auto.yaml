@@ -1,39 +1,41 @@
-# name: auto_get_hot
+name: auto_get_hot
 
-# on:
-#   schedule:
-#     - cron: "0 */1 * * *"
-#   # push:
-#   #   branches:
-#   #     - main
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     env:
-#       TZ: Asia/Shanghai
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  # push:
+  #   branches:
+  #     - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
       
-#     steps:
-#     - uses: actions/checkout@v2
+    steps:
+    - uses: actions/checkout@v2
 
-#     - name: Set up Python 3.9
-#       uses: actions/setup-python@v2
-#       with:
-#         python-version: "3.9"
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
 
-#     - name: Install dependencies
-#       run: |
-#         python -m pip install --upgrade pip
-#         pip install requests
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
         
-#     - name: Run .py
-#       # run: python hot_to_md.py
-#       run: python hot_md_filter.py
+    - name: Run .py
+      # run: python hot_to_md.py
+      env:
+          API_URL: ${{ secrets.API_URL }}  # 将 Secret 注入环境变量
+      run: python hot_md_filter.py
 
-#     - name: Commit and Push Changes
-#       run: |
-#         git config --local user.email "action@github.com"
-#         git config --local user.name "GitHub Action"
-#         git add .
-#         git diff --staged --name-status
-#         git commit -m "Add generated files"
-#         git push
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --name-status
+        git commit -m "Add generated files"
+        git push
