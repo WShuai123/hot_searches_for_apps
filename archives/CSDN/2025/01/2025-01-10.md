@@ -101,3 +101,9 @@
 
 + [css盒子水平垂直居中](https://blog.csdn.net/m0_61811926/article/details/145033215)
 
++ [【深度学习】多目标融合算法（二）：底部共享多任务模型（Shared-Bottom Multi-task Model）](https://blog.csdn.net/weixin_48007632/article/details/145028678)
+
++ [Springboot Bean创建流程、三种Bean注入方式（构造器注入、字段注入、setter注入）、循坏依赖问题](https://blog.csdn.net/weixin_43281875/article/details/145027699)
+
++ [SpringBoot之核心配置](https://blog.csdn.net/2402_85275973/article/details/145009778)
+
