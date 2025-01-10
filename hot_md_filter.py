@@ -2,6 +2,7 @@ import requests
 import time
 import os
 import shutil
+from urllib.parse import quote
 
 def get_api_data(url):
     """从 API 获取数据"""
@@ -68,8 +69,11 @@ def process_api_data(api_data, base_path):
 
         new_content = ""
         for title, href in zip(titles, hrefs):
+            print("title",title, "href:",href)
             if title not in existing_content:
-                new_content += f"+ [{title}]({href})\n\n"
+                # 对 href 进行 URL 编码，避免 Markdown 将%20重新渲染为空格。（主要针对微博）
+                encoded_href = quote(href, safe=":/")
+                new_content += f"+ [{title}]({encoded_href})\n\n"
 
         if new_content:
             write_markdown(markdown_file, new_content)
