@@ -107,3 +107,5 @@
 
 + [SpringBoot之核心配置](https://blog.csdn.net/2402_85275973/article/details/145009778)
 
++ [Python从0到100（八十三）：神经网络-使用残差网络RESNET识别手写数字](https://blog.csdn.net/weixin_51390582/article/details/144057356)
+
