@@ -1,11 +1,11 @@
 name: auto_get_hot
 
 on:
-  # schedule:
-  #   - cron: "0 */1 * * *"
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */1 * * *"
+  # push:
+  #   branches:
+  #     - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,7 +26,6 @@ jobs:
         pip install requests
         
     - name: Run .py
-      # run: python hot_to_md.py
       env:
           API_URL: ${{ secrets.API_URL }}  # 将 Secret 注入环境变量
       run: python hot_md_filter.py
