@@ -13,14 +13,6 @@
 + 2023-12-15: api出现故障。打算自己写。没时间，所以写的很慢:<https://github.com/WShuai123/api_for_hot_searchs>
 + 2023-10-22: 过滤各平台当天的重复热搜，合并为一个文件夹,改为每1小时运行一次。
 
-### 感谢[教书先生](https://api.oioweb.cn/)的api
-
-`hot_to_csv.py`是将获取到的热搜保存在csv文件中，不进行重复热搜过滤。
-
-`hot_to_md.py`是将获取到的热搜保存在markdown文件中，不进行重复热搜过滤。
-
-`hot_md_filter.py`获取热搜并过滤，保存在一个markdown文件中。该仓库使用的GitHub Action就是运行这个文件。
-
 共包含以下平台的热搜：
 
 | 网站/应用 | 网站/应用 | 网站/应用 | 网站/应用 | 网站/应用 | 网站/应用 |
