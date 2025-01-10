@@ -107,3 +107,23 @@
 
 + [uniApp通过xgplayer(西瓜播放器)接入视频实时监控](https://blog.csdn.net/2301_78542842/article/details/145000477)
 
++ [【Linux网络编程】第二十二弹---深入理解 I/O 多路转接之 epoll：系统调用、工作原理、代码演示及应用场景](https://blog.csdn.net/2201_75584283/article/details/143624939)
+
++ [Elasticsearch：在 HNSW 中提前终止以实现更快的近似 KNN 搜索](https://blog.csdn.net/UbuntuTouch/article/details/145001010)
+
++ [iPad编程新体验：如何用IDE Code App实现远程在线开发告别电脑束缚](https://blog.csdn.net/VLOKL/article/details/145036045)
+
++ [英伟达Project Digits赋能医疗大模型：创新应用与未来展望](https://blog.csdn.net/kkiron/article/details/144998767)
+
++ [2025年01月09日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/145037703)
+
++ [蓝桥杯训练](https://blog.csdn.net/m0_74931752/article/details/145019986)
+
++ [网络安全概论](https://blog.csdn.net/2401_88858891/article/details/145043352)
+
++ [AIGC | Midjourney——图片一致性操作及深度学习原理剖析](https://blog.csdn.net/2401_87533975/article/details/145040684)
+
++ [ros2-4.2 用python实现人脸识别](https://blog.csdn.net/bohu83/article/details/145004186)
+
++ [RabbitMQ 在 Spring Boot 项目中的深度应用与实战解析](https://blog.csdn.net/2401_86610558/article/details/145043028)
+
