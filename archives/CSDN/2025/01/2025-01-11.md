@@ -137,3 +137,7 @@
 
 + [【再谈设计模式】模板方法模式 - 算法骨架的构建者](https://blog.csdn.net/wnm23/article/details/145057380)
 
++ [Python|【Pytorch】基于小波时频图与SwinTransformer的轴承故障诊断研究](https://blog.csdn.net/w56782888/article/details/145046495)
+
++ [【网络】深入了解HTTPS协议](https://blog.csdn.net/chaodddddd/article/details/144873972)
+
