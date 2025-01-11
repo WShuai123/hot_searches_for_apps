@@ -157,3 +157,5 @@
 
 + [计算机视觉算法实战——YOLOv7在姿态识别上的应用](https://blog.csdn.net/m0_65481401/article/details/145066296)
 
++ [MySQL--》理解锁机制中的并发控制与优化策略](https://blog.csdn.net/qq_53123067/article/details/145053146)
+

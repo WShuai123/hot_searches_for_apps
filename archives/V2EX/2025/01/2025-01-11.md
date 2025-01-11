@@ -47,3 +47,7 @@
 
 + [逆向了运营商定制无线路由器/光猫里的间谍软件](https://www.v2ex.com/t/1104332)
 
++ [有个小说的奇思妙想](https://www.v2ex.com/t/1104313)
+
++ [iPad mini 7 esim 版现在适合入手吗？](https://www.v2ex.com/t/1104221)
+
