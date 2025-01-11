@@ -127,3 +127,13 @@
 
 + [RabbitMQ 在 Spring Boot 项目中的深度应用与实战解析](https://blog.csdn.net/2401_86610558/article/details/145043028)
 
++ [数据结构与算法笔记（待完善）](https://blog.csdn.net/Yjf_66/article/details/145045599)
+
++ [【深度学习】多目标融合算法（二）：底部共享多任务模型（Shared-Bottom Multi-task Model）](https://blog.csdn.net/weixin_48007632/article/details/145028678)
+
++ [WebGIS在应急灾害中对村庄、风景区、机场的影响范围应用-以日喀则市定日县地震为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/145066748)
+
++ [【技术分享】如何利用rdesktop实现Linux远程Windows桌面高效办公](https://blog.csdn.net/2301_77485708/article/details/145034400)
+
++ [【再谈设计模式】模板方法模式 - 算法骨架的构建者](https://blog.csdn.net/wnm23/article/details/145057380)
+
