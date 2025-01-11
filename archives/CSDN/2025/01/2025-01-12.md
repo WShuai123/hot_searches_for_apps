@@ -133,3 +133,5 @@
 
 + [Qiskit快速编程探索（基本篇）](https://blog.csdn.net/kkiron/article/details/145076692)
 
++ [【学习记录】滤波器方案LTSpice仿真设计](https://blog.csdn.net/weixin_75151460/article/details/144377792)
+
