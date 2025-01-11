@@ -143,3 +143,7 @@
 
 + [Blender 2D动画与MATLAB数学建模：跨界融合的创新实践探索](https://blog.csdn.net/qq_32682301/article/details/145054119)
 
++ [ssl与ipsec的区别](https://blog.csdn.net/lxc_djy/article/details/145034632)
+
++ [【update 更新数据语法合集】.NET开源ORM框架 SqlSugar 系列](https://blog.csdn.net/mss359681091/article/details/145064635)
+
