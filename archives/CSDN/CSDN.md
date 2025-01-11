@@ -131,3 +131,5 @@
 
 + [Flutter 3.x 版本升级实战：让老项目焕发新生](https://blog.csdn.net/mzxj7255/article/details/145037952)
 
++ [Qiskit快速编程探索（基本篇）](https://blog.csdn.net/kkiron/article/details/145076692)
+
