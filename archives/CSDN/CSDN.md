@@ -153,3 +153,7 @@
 
 + [C#进阶-在Ubuntu上部署ASP.NET Core Web API应用](https://blog.csdn.net/weixin_41793160/article/details/145021559)
 
++ [VDN 微服务架构搭建篇（一）核心组件引入与目录结构规划](https://blog.csdn.net/qq_38411796/article/details/145018537)
+
++ [计算机视觉算法实战——YOLOv7在姿态识别上的应用](https://blog.csdn.net/m0_65481401/article/details/145066296)
+
