@@ -121,3 +121,9 @@
 
 + [C#进阶-在Ubuntu上部署ASP.NET Core Web API应用](https://blog.csdn.net/weixin_41793160/article/details/145021559)
 
++ [全面教程：Nacos 2.4.2 启用鉴权与 MySQL 数据存储配置](https://blog.csdn.net/qq_38411796/article/details/145082416)
+
++ [网络安全应急响应技术原理与应用](https://blog.csdn.net/Hacker_xingchen/article/details/145057624)
+
++ [7.在 Vue 3 中使用 ECharts 实现动态散点图：完整教程与代码解析](https://blog.csdn.net/Miller777_/article/details/145052684)
+
