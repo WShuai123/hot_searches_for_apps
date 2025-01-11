@@ -39,3 +39,7 @@
 
 + [2025 年 1 月 11 日， ClashX 已经停更那么久的当下，除了 Surge， MacOS 还有好用的代理 App 吗？](https://www.v2ex.com/t/1104324)
 
++ [突然感觉一点过年的气氛都没得了](https://www.v2ex.com/t/1104309)
+
++ [求教，最近写了一段时间 C# WPF, 仅从写样式角度，感觉比起 HTML/CSS 非常麻烦，纯 windows 桌面应用 C#下有其他更好用的框架吗？](https://www.v2ex.com/t/1104231)
+

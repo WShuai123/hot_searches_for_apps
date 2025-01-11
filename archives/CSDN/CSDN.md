@@ -147,3 +147,9 @@
 
 + [【update 更新数据语法合集】.NET开源ORM框架 SqlSugar 系列](https://blog.csdn.net/mss359681091/article/details/145064635)
 
++ [C/C++新春烟花](https://blog.csdn.net/m0_68111267/article/details/145074254)
+
++ [vue3如何使用bus（事件总线）](https://blog.csdn.net/2301_78542842/article/details/145055814)
+
++ [C#进阶-在Ubuntu上部署ASP.NET Core Web API应用](https://blog.csdn.net/weixin_41793160/article/details/145021559)
+
