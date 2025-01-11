@@ -59,3 +59,5 @@
 
 + [发现 Linux .do 这个管理员抢了我的 ID 然后把我号删了这件事](https://www.v2ex.com/t/1104357)
 
++ [现在 SHA1 已经属于不安全的 hash 算法了，但是很多软件的 codesign 还是 SHA1 的，是否有伪造签名的风险？](https://www.v2ex.com/t/1104300)
+
