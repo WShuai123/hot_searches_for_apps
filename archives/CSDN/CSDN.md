@@ -175,3 +175,11 @@
 
 + [什么是system分区？root之后如何修改？](https://blog.csdn.net/2401_84168288/article/details/145073430)
 
++ [Python基于YOLOv8和OpenCV实现车道线和车辆检测](https://blog.csdn.net/old_power/article/details/145036338)
+
++ [用c实现C++类（八股）](https://blog.csdn.net/xiaolan7777777/article/details/145067123)
+
++ [腾讯二面：MySQL的半同步是什么？不是MySQL的两阶段提交，那是什么？](https://blog.csdn.net/kelai_6792/article/details/145040270)
+
++ [vscode开启调试模式,结合Delve调试器调试golang项目详细步骤](https://blog.csdn.net/zhoupenghui168/article/details/145054905)
+
