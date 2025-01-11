@@ -25,3 +25,27 @@
 
 + [用户反映苹果 iPhone 闹钟响铃延迟问题多年未解决，严重影响日常生活](https://m.ithome.com/html/822647.htm)
 
++ [特斯拉焕新 Model Y 正式发布：26.35 万元起，长续航车型 30.35 万元](https://m.ithome.com/html/823847.htm)
+
++ [雷军：如果特别着急等不了小米 YU7，特斯拉 Model Y 也不错](https://m.ithome.com/html/823692.htm)
+
++ [特斯拉焕新 Model Y 宣传语称“尽管对比”，小米雷军回应“好的”](https://m.ithome.com/html/823825.htm)
+
++ [小米 14 Ultra 手机全版本降价 500 元：5999 元起可享国补](https://m.ithome.com/html/823693.htm)
+
++ [消息称苹果 iPhone SE 4 手机“快上了”，60Hz 刘海屏 + A18 处理器](https://m.ithome.com/html/823765.htm)
+
++ [华为余承东评价特斯拉焕新 Model Y：看资料数据，智界 R7 依然保持领先优势](https://m.ithome.com/html/823709.htm)
+
++ [京东 App 大改版灰度测试：一级入口重新分布，透露三个业务信号](https://m.ithome.com/html/823896.htm)
+
++ [小米首款 SUV 车型 YU7 单电机版完成申报，预计六至七月上市](https://m.ithome.com/html/823804.htm)
+
++ [何小鹏“隔空回应”特斯拉焕新 Model Y“撞脸” ：好的设计总是心有灵犀](https://m.ithome.com/html/823816.htm)
+
++ [腾讯微信官网上架华为纯血鸿蒙 HarmonyOS 版客户端](https://m.ithome.com/html/823888.htm)
+
++ [比亚迪全新中大型轿车汉 L 完成申报：电机冲上 500kW，零百最快 2.7 秒](https://m.ithome.com/html/823746.htm)
+
++ [特斯拉焕新 Model Y 车型保留转向灯拨杆，但采用屏幕换挡](https://m.ithome.com/html/822647.htm)
+
