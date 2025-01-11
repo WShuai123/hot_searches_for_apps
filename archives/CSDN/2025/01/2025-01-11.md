@@ -161,3 +161,9 @@
 
 + [Mysql--架构篇--存储引擎InnoDB（内存结构，磁盘结构，存储结构，日志管理，锁机制，事务并发控制等）](https://blog.csdn.net/qq_34207422/article/details/145065336)
 
++ [2025新年源码免费送](https://blog.csdn.net/weixin_67874152/article/details/145011340)
+
++ [深入学习RabbitMQ的Direct Exchange（直连交换机）](https://blog.csdn.net/huaqianzkh/article/details/145016800)
+
++ [SQL注入的学习](https://blog.csdn.net/2401_88422349/article/details/145031077)
+

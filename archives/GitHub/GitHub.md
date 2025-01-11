@@ -31,3 +31,21 @@
 
 + [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
 
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
+
++ [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox)
+
++ [google/googletest](https://github.com/google/googletest)
+
++ [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+
++ [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest)
+
++ [gabime/spdlog](https://github.com/gabime/spdlog)
+
