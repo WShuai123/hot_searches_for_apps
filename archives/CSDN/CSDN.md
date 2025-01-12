@@ -137,3 +137,15 @@
 
 + [linux网络 | https前置知识 | 数据加密与解密、数据摘要](https://blog.csdn.net/strive_mianyang/article/details/145067347)
 
++ [RNN心脏病预测-Pytorch版本](https://blog.csdn.net/2301_76606951/article/details/145031341)
+
++ [IP 地址与蜜罐技术](https://blog.csdn.net/IpdataCloud/article/details/145052578)
+
++ [7 分布式定时任务调度框架](https://blog.csdn.net/yusongcao/article/details/145055673)
+
++ [请求方式(基于注解实现)](https://blog.csdn.net/m0_67244960/article/details/145066183)
+
++ [1.1 k8s的介绍与核心对象概念](https://blog.csdn.net/weixin_48502062/article/details/145072198)
+
++ [分布式锁 Redis vs etcd](https://blog.csdn.net/dengjiayue/article/details/145035820)
+
