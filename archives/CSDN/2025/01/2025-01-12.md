@@ -163,3 +163,9 @@
 
 + [【硬件测试】基于FPGA的BPSK+帧同步系统开发与硬件片内测试,包含高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/145046035)
 
++ [【论文投稿】探索JavaScript前端开发：开启交互之门的神奇钥匙（一）](https://blog.csdn.net/weixin_73295475/article/details/145092405)
+
++ [【Spring Boot】Spring 事务探秘：核心机制与应用场景解析](https://blog.csdn.net/GGBond778/article/details/145090158)
+
++ [基于Python实现的通用小规模搜索引擎](https://blog.csdn.net/s1t16/article/details/145054397)
+
