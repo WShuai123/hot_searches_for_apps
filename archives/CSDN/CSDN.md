@@ -151,3 +151,5 @@
 
 + [【机器学习】时序数据与序列建模：理论与实践的全面指南](https://blog.csdn.net/lrq13965748542/article/details/145088901)
 
++ [【大前端】Vue3 工程化项目使用详解](https://blog.csdn.net/congge_study/article/details/145089960)
+
