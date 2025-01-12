@@ -199,3 +199,7 @@
 
 + [AIGC时代的明星——CLIP](https://blog.csdn.net/haopinglianlian/article/details/145089638)
 
++ [深入解析 Flink 与 Spark 的性能差异](https://blog.csdn.net/weixin_45710998/article/details/145081893)
+
++ [FFmpeg音视频流媒体，视频编解码性能优化](https://blog.csdn.net/bryant_liu24/article/details/145068058)
+
