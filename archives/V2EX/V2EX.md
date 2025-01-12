@@ -17,3 +17,11 @@
 
 + [现在 SHA1 已经属于不安全的 hash 算法了，但是很多软件的 codesign 还是 SHA1 的，是否有伪造签名的风险？](https://www.v2ex.com/t/1104300)
 
++ [婚姻就是男人的坟墓，而我，已是那将死之人](https://www.v2ex.com/t/1104431)
+
++ [2025 年 1 月帮推荐个安卓手机](https://www.v2ex.com/t/1104426)
+
++ [如何将小米 AX9000 作为主路由](https://www.v2ex.com/t/1104319)
+
++ [我的新副业，照片打印](https://www.v2ex.com/t/1104326)
+
