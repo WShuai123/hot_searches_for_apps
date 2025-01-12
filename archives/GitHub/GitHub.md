@@ -29,3 +29,29 @@
 
 + [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 
++ [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)
+
++ [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+
++ [raycast/extensions](https://github.com/raycast/extensions)
+
++ [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
+
++ [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+
++ [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+
++ [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+
++ [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)
+
++ [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
+
++ [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+

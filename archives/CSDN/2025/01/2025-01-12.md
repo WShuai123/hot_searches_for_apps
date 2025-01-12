@@ -173,3 +173,13 @@
 
 + [SpringBoot的@Scheduled和@Schedules有什么区别](https://blog.csdn.net/m0_50742275/article/details/145062823)
 
++ [错误修改系列---基于RNN模型的心脏病预测(pytorch实现)](https://blog.csdn.net/weixin_74085818/article/details/145083629)
+
++ [RK3588上CPU和GPU算力以及opencv resize的性能对比测试](https://blog.csdn.net/m0_61864577/article/details/145063034)
+
++ [MySQL -- 约束](https://blog.csdn.net/Ruyi_baobao/article/details/144314074)
+
++ [赛灵思(Xilinx)公司Artix-7系列FPGA](https://blog.csdn.net/qq_31844657/article/details/145083098)
+
++ [微信原生小程序自定义封装组件（以导航navbar为例）](https://blog.csdn.net/Xiang_Gong_Ya_/article/details/145048314)
+
