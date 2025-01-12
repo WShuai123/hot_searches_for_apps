@@ -101,3 +101,9 @@
 
 + [【系统安全】CVE-2024-49113 Windows轻量级目录访问协议(LDAP)拒绝服务漏洞](https://blog.csdn.net/weixin_46944519/article/details/145058974)
 
++ [一文通透OpenVLA及其源码剖析——基于Prismatic VLM(SigLIP、DinoV2、Llama 2)及离散化动作预测](https://blog.csdn.net/v_JULY_v/article/details/145072593)
+
++ [基于改进粒子群优化的无人机最优能耗路径规划](https://blog.csdn.net/m0_37758063/article/details/145079173)
+
++ [FFmpeg音视频流媒体，视频编解码性能优化](https://blog.csdn.net/bryant_liu24/article/details/145068058)
+
