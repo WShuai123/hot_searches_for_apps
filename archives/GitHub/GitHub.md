@@ -27,3 +27,5 @@
 
 + [gabime/spdlog](https://github.com/gabime/spdlog)
 
++ [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+
