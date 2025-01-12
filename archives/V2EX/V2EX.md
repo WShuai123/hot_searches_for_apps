@@ -21,3 +21,5 @@
 
 + [想问问大佬知道 WhatsApp 接不到验证码是怎么解决的吗？](https://www.v2ex.com/t/1104455)
 
++ [Ai 开始自动抢活儿干了](https://www.v2ex.com/t/1104489)
+
