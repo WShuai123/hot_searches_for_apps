@@ -125,3 +125,5 @@
 
 + [Spark vs Flink分布式数据处理框架的全面对比与应用场景解析](https://blog.csdn.net/weixin_43114209/article/details/145080533)
 
++ [学习华为熵减，激发组织活力](https://blog.csdn.net/Peter_Changyb/article/details/145098451)
+
