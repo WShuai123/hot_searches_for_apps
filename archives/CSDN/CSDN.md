@@ -183,3 +183,13 @@
 
 + [微信原生小程序自定义封装组件（以导航navbar为例）](https://blog.csdn.net/Xiang_Gong_Ya_/article/details/145048314)
 
++ [【机器学习】零售行业的智慧升级：机器学习驱动的精准营销与库存管理](https://blog.csdn.net/2301_80350265/article/details/145095309)
+
++ [Flask安全开发](https://blog.csdn.net/qq_63701832/article/details/145083146)
+
++ [Linux权限管理（用户和权限之间的关系）](https://blog.csdn.net/2301_80774875/article/details/144493811)
+
++ [Vue3框架核心功能点响应式数据reactive、组合式API setup、computed、组件通信、路由导航，状态管理vuex、pinia等的实战示例代码](https://blog.csdn.net/qq_37268201/article/details/145083559)
+
++ [相机小孔成像模型与透视变换](https://blog.csdn.net/ChiKuo_Z/article/details/145094754)
+
