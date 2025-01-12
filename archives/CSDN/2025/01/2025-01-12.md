@@ -193,3 +193,9 @@
 
 + [相机小孔成像模型与透视变换](https://blog.csdn.net/ChiKuo_Z/article/details/145094754)
 
++ [【Linux网络编程】网络层 | IP协议 | 网段划分 | 私有IP和公有IP | NAT技术](https://blog.csdn.net/weixin_73397765/article/details/144816275)
+
++ [全面教程：Nacos 2.3.2 启用鉴权与 MySQL 数据存储配置](https://blog.csdn.net/qq_38411796/article/details/145082416)
+
++ [AIGC时代的明星——CLIP](https://blog.csdn.net/haopinglianlian/article/details/145089638)
+
