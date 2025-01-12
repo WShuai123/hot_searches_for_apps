@@ -107,3 +107,17 @@
 
 + [FFmpeg音视频流媒体，视频编解码性能优化](https://blog.csdn.net/bryant_liu24/article/details/145068058)
 
++ [从CRUD到高级功能：EF Core在.NET Core中全面应用（二）](https://blog.csdn.net/qq_53123067/article/details/145015619)
+
++ [计算机视觉算法实战——YOLOv7在姿态识别上的应用](https://blog.csdn.net/m0_65481401/article/details/145066296)
+
++ [如何在本地部署大模型并实现接口访问（ Llama3、Qwen、DeepSeek等）](https://blog.csdn.net/weixin_56462041/article/details/145076675)
+
++ [【数学】概率论与数理统计（五）](https://blog.csdn.net/from__2025_01_01/article/details/145068311)
+
++ [如何使用MVC模式设计和实现校园自助点餐系统的微信小程序](https://blog.csdn.net/byby0325_/article/details/145071922)
+
++ [【灵码助力安全2】——利用通义灵码辅助复现未公开漏洞的实践](https://blog.csdn.net/qq_44373268/article/details/145081969)
+
++ [Golang笔记——Interface类型](https://blog.csdn.net/haopingbiji/article/details/145090019)
+
