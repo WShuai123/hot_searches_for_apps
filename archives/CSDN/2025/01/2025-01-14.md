@@ -135,3 +135,5 @@
 
 + [【Linux】信号的艺术：深入理解 Linux 进程信号](https://blog.csdn.net/2303_79015671/article/details/145114768)
 
++ [万物互联的背后：MCU嵌入式硬件的奇幻之旅](https://blog.csdn.net/bryant_liu24/article/details/145092011)
+
