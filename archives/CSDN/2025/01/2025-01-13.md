@@ -165,3 +165,11 @@
 
 + [线程池参数的动态化原理及集成nacos实践](https://blog.csdn.net/qq_26664043/article/details/145099530)
 
++ [AIGC时代 | 探索AI Agent的奥秘：四种设计模式引领未来智能趋势](https://blog.csdn.net/qq_32682301/article/details/145111913)
+
++ [DooTask | 案例分析：直击客户痛点的 DooTask](https://blog.csdn.net/weixin_43151418/article/details/145065266)
+
++ [使用 Python 实现自动化办公（邮件、Excel）](https://blog.csdn.net/weixin_45710998/article/details/145081847)
+
++ [网络安全 | 什么是CC攻击防护？](https://blog.csdn.net/Andya_net/article/details/145101380)
+
