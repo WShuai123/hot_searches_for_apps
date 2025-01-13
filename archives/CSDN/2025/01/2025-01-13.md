@@ -153,3 +153,15 @@
 
 + [GPU算力平台|在GPU算力平台部署Linly-Talker 数字人对话应用教程](https://blog.csdn.net/weixin_42878111/article/details/145094054)
 
++ [C# OpenCV机器视觉:主色提取](https://blog.csdn.net/xcwzj123/article/details/145073738)
+
++ [GPU算力平台|在GPU算力平台部署Qwen-2通义千问大模型的教程](https://blog.csdn.net/weixin_42878111/article/details/145061929)
+
++ [【Java项目】基于SpringBoot的【校园新闻系统】](https://blog.csdn.net/Dyan_csdn/article/details/145066905)
+
++ [【Linux系列】Curl 参数详解与实践应用](https://blog.csdn.net/qyj19920704/article/details/145101013)
+
++ [【微信小程序】订阅消息](https://blog.csdn.net/chenzhong373095238/article/details/145053361)
+
++ [线程池参数的动态化原理及集成nacos实践](https://blog.csdn.net/qq_26664043/article/details/145099530)
+
