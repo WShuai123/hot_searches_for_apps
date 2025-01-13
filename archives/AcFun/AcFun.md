@@ -69,3 +69,7 @@
 
 + [【东方】微醉的东方钢琴音乐会【触手猴 まらしぃ】](https://m.acfun.cn/v/%3Fac%3D46765021)
 
++ [《动物迷惑行为大赏240》](https://m.acfun.cn/v/%3Fac%3D46766701)
+
++ [Stellar ~Sting](https://m.acfun.cn/v/%3Fac%3D46766815)
+

@@ -135,3 +135,11 @@
 
 + [微信小程序-Docker+Nginx环境配置业务域名验证文件](https://blog.csdn.net/weixin_41793160/article/details/145096112)
 
++ [全同态加密理论、生态现状与未来展望（上）](https://blog.csdn.net/mutourend/article/details/145101069)
+
++ [探索深度学习：开启智能新时代](https://blog.csdn.net/2401_83429250/article/details/145063737)
+
++ [[人工智能自学] Python包学习-numpy](https://blog.csdn.net/m0_46606108/article/details/145080902)
+
++ [【Python项目】基于自适应SVM电影评价倾向性分析系统](https://blog.csdn.net/Dyan_csdn/article/details/145084130)
+
