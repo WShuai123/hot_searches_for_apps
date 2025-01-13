@@ -143,3 +143,13 @@
 
 + [【Python项目】基于自适应SVM电影评价倾向性分析系统](https://blog.csdn.net/Dyan_csdn/article/details/145084130)
 
++ [数据在内存的存储](https://blog.csdn.net/eixjdj/article/details/145092482)
+
++ [LabVIEW驱动电机实现样品自动搜索](https://blog.csdn.net/bjcyck/article/details/145104632)
+
++ [潜力巨大但道路曲折的量子计算](https://blog.csdn.net/boliang319/article/details/145068212)
+
++ [贪心算法汇总](https://blog.csdn.net/get_money_/article/details/145082638)
+
++ [GPU算力平台|在GPU算力平台部署Linly-Talker 数字人对话应用教程](https://blog.csdn.net/weixin_42878111/article/details/145094054)
+
