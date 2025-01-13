@@ -137,3 +137,7 @@
 
 + [万物互联的背后：MCU嵌入式硬件的奇幻之旅](https://blog.csdn.net/bryant_liu24/article/details/145092011)
 
++ [kafka消费堆积问题探索](https://blog.csdn.net/ezreal_pan/article/details/145070263)
+
++ [26个开源Agent开发框架调研总结（2）](https://blog.csdn.net/wyj20082004/article/details/145095673)
+
