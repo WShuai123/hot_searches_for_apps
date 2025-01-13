@@ -173,3 +173,5 @@
 
 + [网络安全 | 什么是CC攻击防护？](https://blog.csdn.net/Andya_net/article/details/145101380)
 
++ [《 C++ 点滴漫谈： 二十 》内存的权杖：C++ new 和 delete 的致胜之道](https://blog.csdn.net/mmlhbjk/article/details/145101204)
+
