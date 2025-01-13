@@ -111,3 +111,27 @@
 
 + [基于springboot+vue的个性化旅游推荐系统的设计与实现](https://blog.csdn.net/shmp54/article/details/145098421)
 
++ [若依中初始多表格及自定义查询和依赖查询的一种实现方式](https://blog.csdn.net/yelangkingwuzuhu/article/details/145069395)
+
++ [【机器学习】时序数据与序列建模：理论与实践的全面指南](https://blog.csdn.net/lrq13965748542/article/details/145088901)
+
++ [《系统爆破：MD5易破，后台登录可爆破？》](https://blog.csdn.net/m0_74907475/article/details/145099773)
+
++ [AI浪潮下的IT变革之路：机遇、挑战与重塑未来](https://blog.csdn.net/qq_33650655/article/details/145113947)
+
++ [【MyBatis系列】深入解析 MyBatis-Plus 中 QueryWrapper 的高级用法](https://blog.csdn.net/qyj19920704/article/details/145101715)
+
++ [一个基于Spring Boot的智慧养老平台](https://blog.csdn.net/m0_52011717/article/details/145084489)
+
++ [接口测试之测试原则、测试用例、测试流程](https://blog.csdn.net/cs888zsy/article/details/145078401)
+
++ [Rabbit Rocket kafka 怎么实现消息有序消费和延迟消费的](https://blog.csdn.net/C18298182575/article/details/145101292)
+
++ [Observability：将 OpenTelemetry 添加到你的 Flask 应用程序](https://blog.csdn.net/UbuntuTouch/article/details/145069242)
+
++ [Mysql--运维篇--库表分离（垂直分库，水平分库，垂直分表，水平分表）](https://blog.csdn.net/qq_34207422/article/details/145100631)
+
++ [微服务的配置共享](https://blog.csdn.net/2402_85591461/article/details/145100839)
+
++ [【Linux】信号的艺术：深入理解 Linux 进程信号](https://blog.csdn.net/2303_79015671/article/details/145114768)
+
