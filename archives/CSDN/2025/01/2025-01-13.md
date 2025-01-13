@@ -183,3 +183,9 @@
 
 + [SpringCloud系列教程：微服务的未来（十二）OpenFeign连接池、最佳实践、日志、微服务拆分](https://blog.csdn.net/m0_63267251/article/details/145073229)
 
++ [【MyBatis系列】深入解析 MyBatis-Plus 中 QueryWrapper 的高级用法](https://blog.csdn.net/qyj19920704/article/details/145101715)
+
++ [学习threejs，使用TrackballControls相机控制器](https://blog.csdn.net/qq_28419035/article/details/145114321)
+
++ [uniapp 小程序中使用 uview-plus 实现不同角色动态显示底部导航栏 tabbar](https://blog.csdn.net/qq_53882279/article/details/145064193)
+
