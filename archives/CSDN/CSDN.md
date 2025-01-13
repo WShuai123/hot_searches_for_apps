@@ -195,3 +195,11 @@
 
 + [微信小程序实现人脸识别登录](https://blog.csdn.net/qq_48164590/article/details/145066614)
 
++ [【深度学习】Pytorch：手写数字识别](https://blog.csdn.net/2303_80346267/article/details/145077512)
+
++ [kafka消费堆积问题探索](https://blog.csdn.net/ezreal_pan/article/details/145070263)
+
++ [Unity教程（二十）战斗系统 角色反击](https://blog.csdn.net/cyr___/article/details/144341449)
+
++ [2025年01月11日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/145079022)
+
