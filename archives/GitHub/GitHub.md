@@ -35,3 +35,21 @@
 
 + [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
++ [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
++ [TabbyML/tabby](https://github.com/TabbyML/tabby)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+
++ [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
+
++ [automatisch/automatisch](https://github.com/automatisch/automatisch)
+
++ [kevmo314/scuda](https://github.com/kevmo314/scuda)
+
++ [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)
+
++ [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
+

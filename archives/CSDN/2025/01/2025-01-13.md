@@ -189,3 +189,9 @@
 
 + [uniapp 小程序中使用 uview-plus 实现不同角色动态显示底部导航栏 tabbar](https://blog.csdn.net/qq_53882279/article/details/145064193)
 
++ [用 Python 从零开始创建神经网络（十九）：真实数据集](https://blog.csdn.net/xzs1210652636/article/details/145079432)
+
++ [[RabbitMQ] RabbitMQ运维问题](https://blog.csdn.net/2301_80050796/article/details/145081462)
+
++ [微信小程序实现人脸识别登录](https://blog.csdn.net/qq_48164590/article/details/145066614)
+
