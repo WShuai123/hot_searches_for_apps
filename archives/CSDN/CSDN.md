@@ -127,3 +127,11 @@
 
 + [学习华为熵减，激发组织活力](https://blog.csdn.net/Peter_Changyb/article/details/145098451)
 
++ [Spring MVC](https://blog.csdn.net/wk200411/article/details/144973097)
+
++ [如何使用高性能内存数据库Redis](https://blog.csdn.net/qq_42257666/article/details/143136135)
+
++ [图片和短信验证码（头条项目-06）](https://blog.csdn.net/March_A/article/details/145083205)
+
++ [微信小程序-Docker+Nginx环境配置业务域名验证文件](https://blog.csdn.net/weixin_41793160/article/details/145096112)
+
