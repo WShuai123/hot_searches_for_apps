@@ -205,3 +205,9 @@
 
 + [使用Cilium/eBPF实现大规模云原生网络和安全](https://blog.csdn.net/hao_wujing/article/details/145101499)
 
++ [解锁云电脑爽玩TGA游戏，ToDesk、海马云等多款云电脑游戏横测](https://blog.csdn.net/g310773517/article/details/145143597)
+
++ [基于spingbott+html+Thymeleaf的24小时智能服务器监控平台设计与实现](https://blog.csdn.net/mr_lili_111/article/details/145108354)
+
++ [2024—AWS：re:Invent城市巡展——武汉站参会心笺](https://blog.csdn.net/Pocker_Spades_A/article/details/144859386)
+
