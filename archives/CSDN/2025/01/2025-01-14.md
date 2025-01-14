@@ -211,3 +211,7 @@
 
 + [2024—AWS：re:Invent城市巡展——武汉站参会心笺](https://blog.csdn.net/Pocker_Spades_A/article/details/144859386)
 
++ [【AI大模型】BERT GPT ELMo模型的对比](https://blog.csdn.net/2301_76820214/article/details/145123395)
+
++ [2024年开发语言热度排名](https://blog.csdn.net/weixin_42132035/article/details/145123942)
+
