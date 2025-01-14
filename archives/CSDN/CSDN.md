@@ -101,3 +101,5 @@
 
 + [2024—AWS：re:Invent城市巡展——武汉站参会心笺](https://blog.csdn.net/Pocker_Spades_A/article/details/144859386)
 
++ [【Redis学习 | 第5篇】Redis缓存 —— 缓存的概念 + 缓存穿透 + 缓存雪崩 + 缓存击穿](https://blog.csdn.net/serendipity_hky/article/details/144751378)
+
