@@ -175,3 +175,5 @@
 
 + [开源项目ESP-SparkBot: ESP32-S3 大模型 AI 桌面机器人（复刻分享）](https://blog.csdn.net/qq_21722993/article/details/145083457)
 
++ [【机器人】SceneGrasp 同时支持3D物体重建、6D位姿估计、抓取点估计](https://blog.csdn.net/qq_41204464/article/details/145108633)
+
