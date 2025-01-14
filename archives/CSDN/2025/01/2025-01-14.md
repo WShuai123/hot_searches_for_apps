@@ -145,3 +145,7 @@
 
 + [腾讯云AI代码助手编程挑战赛——打造属于个人的智能客服助手系统](https://blog.csdn.net/lwcwam/article/details/145125742)
 
++ [【Redis学习 | 第5篇】Redis缓存 —— 缓存的概念 + 缓存穿透 + 缓存雪崩 + 缓存击穿](https://blog.csdn.net/serendipity_hky/article/details/144751378)
+
++ [《Java重构革命：集成自动化工具与持续集成，重塑代码质量》](https://blog.csdn.net/2401_88677290/article/details/144946600)
+

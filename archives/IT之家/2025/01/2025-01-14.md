@@ -25,3 +25,27 @@
 
 + [周末两连更：微信纯血鸿蒙版 App 获 1.0.3.50 测试版尝鲜升级](https://m.ithome.com/html/822647.htm)
 
++ [终结命名混乱，USB 全新徽标直接标注传输速度、功率瓦数](https://m.ithome.com/html/824240.htm)
+
++ [华为余承东 2025 全员信：鸿蒙三分天下有其一，10 万个原生应用是未来半年到一年关键目标](https://m.ithome.com/html/824247.htm)
+
++ [王守义十三香给 1000 多名员工发华为 Mate 60：迎来 40 周年厂庆](https://m.ithome.com/html/824417.htm)
+
++ [华为余承东晒自购享界 S9：感觉非常棒，百公里电耗 11.4kWh](https://m.ithome.com/html/824266.htm)
+
++ [彻底脱去伪装，鸿蒙智行问界 M8 大量实车谍照曝光](https://m.ithome.com/html/824285.htm)
+
++ [雷军亲赴黑河冬测：不只有“泼水成冰”，还验收小米 SU7 Ultra / YU7 成果](https://m.ithome.com/html/824350.htm)
+
++ [尾号 0000000 的手机号拍卖：70 万成交，只有使用权没有所有权](https://m.ithome.com/html/824394.htm)
+
++ [26.35 万元起，特斯拉焕新 Model Y 冰河蓝实车曝光](https://m.ithome.com/html/824357.htm)
+
++ [冯骥回应《黑神话：悟空》更新 Steam 上线最晚：先在人少平台灰度测试](https://m.ithome.com/html/824315.htm)
+
++ [泰国推出旅游警察 App：可发送定位、报警](https://m.ithome.com/html/824230.htm)
+
++ [三只羊旗下“小杨甄选”转战微信视频号平台复播](https://m.ithome.com/html/824428.htm)
+
++ [零跑汽车成第二家盈利新势力，提前一年达成目标](https://m.ithome.com/html/822820.htm)
+
