@@ -169,3 +169,9 @@
 
 + [项目解决方案：跨区快餐店视频资源通过视频云租用平台实现统一汇聚和管理](https://blog.csdn.net/weixin_70208651/article/details/145088699)
 
++ [轨迹优化 | 基于贝塞尔曲线的无约束路径平滑与粗轨迹生成(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/145118929)
+
++ [【机器学习 | 数据挖掘】离群点检测](https://blog.csdn.net/Morse_Chen/article/details/145120465)
+
++ [开源项目ESP-SparkBot: ESP32-S3 大模型 AI 桌面机器人（复刻分享）](https://blog.csdn.net/qq_21722993/article/details/145083457)
+
