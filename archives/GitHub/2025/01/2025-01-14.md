@@ -33,3 +33,21 @@
 
 + [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 
++ [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
+
++ [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+
++ [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)
+
++ [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
++ [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+

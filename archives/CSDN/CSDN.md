@@ -195,3 +195,7 @@
 
 + [【FFmpeg】FLV 格式分析 ① ( File Header 文件头 | File Body 文件体 | Tag Header 数据块头结构 | Script Data 元数据结构 )](https://blog.csdn.net/han1202012/article/details/144942570)
 
++ [Springboot项目如何消费Kafka数据](https://blog.csdn.net/weixin_56693899/article/details/145120789)
+
++ [封装MyBatisPlus+EasyCode模板升级](https://blog.csdn.net/m0_64637029/article/details/145124037)
+
