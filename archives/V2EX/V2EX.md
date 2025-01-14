@@ -51,3 +51,5 @@
 
 + [公司年会 自己脑子一热报名了 吉他弹唱 昨天发现还没学会 ,但邻居](https://www.v2ex.com/t/1105037)
 
++ [为什么你不应该使用 Apple Account](https://www.v2ex.com/t/1105001)
+
