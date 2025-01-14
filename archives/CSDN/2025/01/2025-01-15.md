@@ -129,3 +129,5 @@
 
 + [万物互联的背后：MCU嵌入式硬件的奇幻之旅](https://blog.csdn.net/bryant_liu24/article/details/145092011)
 
++ [解锁未来科技之路——两本不可或缺的技术指南](https://blog.csdn.net/xqe777/article/details/145143799)
+
