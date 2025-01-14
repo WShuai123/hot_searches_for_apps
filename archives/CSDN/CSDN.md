@@ -215,3 +215,9 @@
 
 + [2024年开发语言热度排名](https://blog.csdn.net/weixin_42132035/article/details/145123942)
 
++ [RocketMQ、Kafka、RabbitMQ，如何选型？](https://blog.csdn.net/qq_45228323/article/details/145100056)
+
++ [MySQL 与 Redis 的数据一致性问题](https://blog.csdn.net/dengjiayue/article/details/145120778)
+
++ [基于springboot+vue的 嗨玩-旅游网站](https://blog.csdn.net/shmp54/article/details/145123058)
+
