@@ -141,3 +141,7 @@
 
 + [26个开源Agent开发框架调研总结（2）](https://blog.csdn.net/wyj20082004/article/details/145095673)
 
++ [Elasticsearch ES|QL 地理空间索引加入纽约犯罪地图](https://blog.csdn.net/UbuntuTouch/article/details/145108797)
+
++ [腾讯云AI代码助手编程挑战赛——打造属于个人的智能客服助手系统](https://blog.csdn.net/lwcwam/article/details/145125742)
+
