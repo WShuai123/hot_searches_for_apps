@@ -161,3 +161,11 @@
 
 + [【Linux】深刻理解软硬链接](https://blog.csdn.net/2302_80652761/article/details/144494060)
 
++ [学习华为熵减：激发组织活力（系列之三）](https://blog.csdn.net/Peter_Changyb/article/details/145098451)
+
++ [腾讯云AI代码助手编程挑战赛-创业者青桔](https://blog.csdn.net/SDFsoul/article/details/145111858)
+
++ [计算机视觉算法实战——吸烟人员检测](https://blog.csdn.net/m0_65481401/article/details/145094540)
+
++ [项目解决方案：跨区快餐店视频资源通过视频云租用平台实现统一汇聚和管理](https://blog.csdn.net/weixin_70208651/article/details/145088699)
+
