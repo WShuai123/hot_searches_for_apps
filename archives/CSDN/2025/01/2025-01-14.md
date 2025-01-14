@@ -149,3 +149,15 @@
 
 + [《Java重构革命：集成自动化工具与持续集成，重塑代码质量》](https://blog.csdn.net/2401_88677290/article/details/144946600)
 
++ [2025机器学习之环境与可持续发展的超级英雄使命](https://blog.csdn.net/2401_82648291/article/details/145086552)
+
++ [大数据技术Kafka详解 ⑤ | Kafka中的CAP机制](https://blog.csdn.net/chenlycly/article/details/145129585)
+
++ [【深度学习】Java DL4J 基于MLP构建农业数据分析模型](https://blog.csdn.net/lilinhai548/article/details/145097562)
+
++ [第五章：计算机网络](https://blog.csdn.net/liu17234050/article/details/145118864)
+
++ [全套华为HCIE-DataCom认证学习资料分享（考试大纲、培训教材、实验手册等等）](https://blog.csdn.net/HuaweiLab_Peach/article/details/145071461)
+
++ [【Linux】深刻理解软硬链接](https://blog.csdn.net/2302_80652761/article/details/144494060)
+
