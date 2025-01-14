@@ -101,3 +101,11 @@
 
 + [Why Don t You Dai☆Su☆Ke☆？](https://m.acfun.cn/v/%3Fac%3D46772135)
 
++ [历时多年Atlus憋了个便秘《暗喻幻想》鉴赏【就知道玩游戏】](https://m.acfun.cn/v/%3Fac%3D46771655)
+
++ [《超超超超超喜欢你的100个女朋友》第二季 - 第一集](https://m.acfun.cn/v/%3Fac%3D46768530)
+
++ [早期电棍唱歌](https://m.acfun.cn/v/%3Fac%3D46772001)
+
++ [“南韩大姐姐的温泉旅馆vlog”](https://m.acfun.cn/v/%3Fac%3D46770749)
+
