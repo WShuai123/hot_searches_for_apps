@@ -143,3 +143,9 @@
 
 + [微信小程序-Docker+Nginx环境配置业务域名验证文件](https://blog.csdn.net/weixin_41793160/article/details/145096112)
 
++ [用 Python 从零开始创建神经网络（二十一）：保存和加载模型及其参数](https://blog.csdn.net/xzs1210652636/article/details/145121186)
+
++ [TorchOptimizer：基于贝叶斯优化的PyTorch Lightning超参数调优框架](https://blog.csdn.net/m0_46510245/article/details/145107961)
+
++ [Python脚本自动发送电子邮件](https://blog.csdn.net/weixin_42490599/article/details/145124284)
+
