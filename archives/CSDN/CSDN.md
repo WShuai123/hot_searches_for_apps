@@ -161,3 +161,7 @@
 
 + [【深度学习】神经网络灾难性遗忘（Catastrophic Forgetting，CF）问题](https://blog.csdn.net/qq_42761751/article/details/145056907)
 
++ [数仓建模（五）选择数仓技术栈：Hive & ClickHouse & 其它](https://blog.csdn.net/qq_52213943/article/details/145135541)
+
++ [【实践】操作系统智能助手OS Copilot新功能测评](https://blog.csdn.net/wnm23/article/details/145141011)
+
