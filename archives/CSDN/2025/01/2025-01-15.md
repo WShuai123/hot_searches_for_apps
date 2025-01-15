@@ -175,3 +175,7 @@
 
 + [【Python】从爬虫小白到大佬(一)](https://blog.csdn.net/hsy1603914691/article/details/145121884)
 
++ [自动连接校园网wifi脚本实践（自动网页认证）](https://blog.csdn.net/qq_43800449/article/details/134648273)
+
++ [数据仓库: 10- 新技术与趋势](https://blog.csdn.net/Taerge0110/article/details/145121359)
+

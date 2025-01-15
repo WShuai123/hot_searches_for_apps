@@ -31,3 +31,19 @@
 
 + [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [sampotts/plyr](https://github.com/sampotts/plyr)
+
++ [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)
+
++ [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+
++ [NVlabs/Sana](https://github.com/NVlabs/Sana)
+
++ [ton-blockchain/ton](https://github.com/ton-blockchain/ton)
+
++ [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+
++ [microsoft/vscode](https://github.com/microsoft/vscode)
+
