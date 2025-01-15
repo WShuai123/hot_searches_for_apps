@@ -133,3 +133,9 @@
 
 + [天机学堂笔记1](https://blog.csdn.net/juli_eyre/article/details/145063665)
 
++ [开发人员学习书籍推荐（C#、Python方向）](https://blog.csdn.net/weixin_44643352/article/details/144650682)
+
++ [MySQL多版本并发（MVCC）机制](https://blog.csdn.net/2301_77599076/article/details/145081563)
+
++ [Formality：子网表的产生](https://blog.csdn.net/weixin_45791458/article/details/145126599)
+
