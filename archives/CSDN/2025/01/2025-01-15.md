@@ -189,3 +189,7 @@
 
 + [从玩具到工业控制--51单片机的跨界传奇【2】](https://blog.csdn.net/2401_83009236/article/details/145092447)
 
++ [【深度学习实战】kaggle 自动驾驶的假场景分类](https://blog.csdn.net/2302_79308082/article/details/145159278)
+
++ [Linux网络 | 学习传输层网络协议之UDP（短篇）](https://blog.csdn.net/strive_mianyang/article/details/145162019)
+
