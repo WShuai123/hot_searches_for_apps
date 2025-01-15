@@ -169,3 +169,9 @@
 
 + [.NET 开发的分流抢票软件，不做广告、不收集隐私](https://blog.csdn.net/kfashfasf/article/details/145134447)
 
++ [【安全帽头盔检测】基于YOLOV11+pytorch+Flask+SpringBoot+Vue+MySQL的安全帽头盔检测识别系统](https://blog.csdn.net/qq_51977316/article/details/145133208)
+
++ [使用强化学习优化数据中心的能源管理策略技术详解](https://blog.csdn.net/qq_36287830/article/details/145101834)
+
++ [【Python】从爬虫小白到大佬(一)](https://blog.csdn.net/hsy1603914691/article/details/145121884)
+
