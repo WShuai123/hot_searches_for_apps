@@ -179,3 +179,7 @@
 
 + [数据仓库: 10- 新技术与趋势](https://blog.csdn.net/Taerge0110/article/details/145121359)
 
++ [AI浪潮下IT从业者的变与不变](https://blog.csdn.net/qq_33650655/article/details/145150164)
+
++ [mybatis-spring @MapperScan走读分析](https://blog.csdn.net/qq_26437925/article/details/145149181)
+
