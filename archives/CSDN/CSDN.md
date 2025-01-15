@@ -105,3 +105,27 @@
 
 + [mybatis-spring @MapperScan走读分析](https://blog.csdn.net/qq_26437925/article/details/145149181)
 
++ [【深度学习】神经网络灾难性遗忘（Catastrophic Forgetting，CF）问题](https://blog.csdn.net/qq_42761751/article/details/145056907)
+
++ [网络安全的几种攻击方法](https://blog.csdn.net/2401_88326365/article/details/145139950)
+
++ [1.3 k8s-上部署第一个应用程序](https://blog.csdn.net/weixin_48502062/article/details/145105613)
+
++ [【Linux】深刻理解软硬链接](https://blog.csdn.net/2302_80652761/article/details/144494060)
+
++ [更改手机应用的音频输入/推荐其他方案](https://blog.csdn.net/weixin_43970743/article/details/144519325)
+
++ [如何给即将满的 C 盘添加磁盘空间](https://blog.csdn.net/xinxin8822/article/details/145143650)
+
++ [什么是美国原生ip](https://blog.csdn.net/cliproxy_com/article/details/145145818)
+
++ [SpringBoot源码解析(七)：应用上下文结构体系](https://blog.csdn.net/qq_35512802/article/details/145013393)
+
++ [FPGA EDA软件的位流验证](https://blog.csdn.net/tiger119/article/details/145071140)
+
++ [腾讯云AI代码助手编程挑战赛-智能聊天助手](https://blog.csdn.net/hahahagehahage/article/details/145099176)
+
++ [台式电脑硬件升级方案——通用版 -- 笔记本硬件升级也可参考](https://blog.csdn.net/cory010/article/details/145165800)
+
++ [2024—AWS：re:Invent城市巡展——武汉站参会心笺](https://blog.csdn.net/Pocker_Spades_A/article/details/144859386)
+
