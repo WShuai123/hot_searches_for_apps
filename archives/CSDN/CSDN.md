@@ -149,3 +149,9 @@
 
 + [Python脚本自动发送电子邮件](https://blog.csdn.net/weixin_42490599/article/details/145124284)
 
++ [Spring Cloud 完整引解：优化你的微服务架构](https://blog.csdn.net/qq_42055933/article/details/145150059)
+
++ [DooTask | 案例分析：直击客户痛点的 DooTask](https://blog.csdn.net/weixin_43151418/article/details/145065266)
+
++ [DeepSeek-V3技术报告](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/145040984)
+
