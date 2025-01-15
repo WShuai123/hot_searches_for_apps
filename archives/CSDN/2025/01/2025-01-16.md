@@ -129,3 +129,7 @@
 
 + [2024—AWS：re:Invent城市巡展——武汉站参会心笺](https://blog.csdn.net/Pocker_Spades_A/article/details/144859386)
 
++ [使用 GPIB-USB-HS+ 截取和分析 GPIB 通信协议](https://blog.csdn.net/bjcyck/article/details/145152306)
+
++ [基于SpringBoot+Vue+UniApp微信小程序的电子竞技信息交流平台的详细设计和实现](https://blog.csdn.net/qq_45714272/article/details/145168844)
+
