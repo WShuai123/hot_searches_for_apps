@@ -139,3 +139,7 @@
 
 + [Formality：子网表的产生](https://blog.csdn.net/weixin_45791458/article/details/145126599)
 
++ [滚雪球学Spring[1.4讲]：Spring事件机制](https://blog.csdn.net/weixin_43970743/article/details/142171952)
+
++ [微信小程序-Docker+Nginx环境配置业务域名验证文件](https://blog.csdn.net/weixin_41793160/article/details/145096112)
+
