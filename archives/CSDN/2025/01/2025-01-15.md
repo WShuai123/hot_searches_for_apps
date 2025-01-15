@@ -155,3 +155,7 @@
 
 + [DeepSeek-V3技术报告](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/145040984)
 
++ [【深度学习】Java DL4J 基于MLP构建农业数据分析模型](https://blog.csdn.net/lilinhai548/article/details/145097562)
+
++ [如何使用 Java 的 Spring Boot 创建一个 RESTful API？](https://blog.csdn.net/finally_vince/article/details/145118205)
+
