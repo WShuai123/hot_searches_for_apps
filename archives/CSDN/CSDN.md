@@ -159,3 +159,5 @@
 
 + [如何使用 Java 的 Spring Boot 创建一个 RESTful API？](https://blog.csdn.net/finally_vince/article/details/145118205)
 
++ [【深度学习】神经网络灾难性遗忘（Catastrophic Forgetting，CF）问题](https://blog.csdn.net/qq_42761751/article/details/145056907)
+
