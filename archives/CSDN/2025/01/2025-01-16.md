@@ -173,3 +173,5 @@
 
 + [多种vue前端框架介绍](https://blog.csdn.net/n_229397218/article/details/145157111)
 
++ [Transformer架构和Transformers 库和Hugging Face](https://blog.csdn.net/m0_68654129/article/details/145135722)
+
