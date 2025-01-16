@@ -33,3 +33,25 @@
 
 + [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 
++ [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+
++ [Freika/dawarich](https://github.com/Freika/dawarich)
+
++ [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions)
+
++ [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
+
++ [frappe/frappe](https://github.com/frappe/frappe)
+
++ [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+
++ [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+
++ [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+
++ [marimo-team/marimo](https://github.com/marimo-team/marimo)
+
++ [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+
++ [facebook/folly](https://github.com/facebook/folly)
+
