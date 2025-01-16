@@ -165,3 +165,11 @@
 
 + [深度解析Linux中关于操作系统的知识点](https://blog.csdn.net/2301_80863610/article/details/145167170)
 
++ [Python从0到100（八十四）：神经网络-卷积神经网络训练CIFAR-10数据集](https://blog.csdn.net/weixin_51390582/article/details/144057487)
+
++ [Manga Image Translator 开源 AI 漫画翻译工具的深度剖析](https://blog.csdn.net/xiaobing259/article/details/145074482)
+
++ [LabVIEW实现油浸式变压器自主监测与实时报告](https://blog.csdn.net/bjcyck/article/details/145172959)
+
++ [多种vue前端框架介绍](https://blog.csdn.net/n_229397218/article/details/145157111)
+
