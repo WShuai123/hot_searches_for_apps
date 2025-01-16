@@ -175,3 +175,7 @@
 
 + [Transformer架构和Transformers 库和Hugging Face](https://blog.csdn.net/m0_68654129/article/details/145135722)
 
++ [从GAN到GPT：揭秘AIGC技术的前世今生](https://blog.csdn.net/2401_87533975/article/details/145181666)
+
++ [YOLOv11实战行人跌倒识别](https://blog.csdn.net/weixin_40280870/article/details/145145972)
+
