@@ -149,3 +149,9 @@
 
 + [跨域代理解决方案：Windows上的nginx配置详解](https://blog.csdn.net/sixpp/article/details/145153220)
 
++ [AI人工智能 - 4种革新性AI Agent工作流设计模式全解析](https://blog.csdn.net/weixin_43178406/article/details/145152132)
+
++ [计算机网络 | IP地址、子网掩码、网络地址、主机地址计算方式详解](https://blog.csdn.net/Andya_net/article/details/145168752)
+
++ [【网络协议】DHCP（动态主机配置协议）](https://blog.csdn.net/2301_77485708/article/details/145162936)
+
