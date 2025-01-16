@@ -135,3 +135,17 @@
 
 + [C# 配置文件：app.config 和 web.config](https://blog.csdn.net/weixin_44064908/article/details/145145444)
 
++ [基于Java的百度AOI数据解析与转换的实现方法](https://blog.csdn.net/yelangkingwuzuhu/article/details/145149784)
+
++ [TensorFlow深度学习实战（5）——神经网络性能优化技术详解](https://blog.csdn.net/LOVEmy134611/article/details/144227301)
+
++ [【Elasticsearch】filterQuery过滤查询](https://blog.csdn.net/lilinhai548/article/details/145169922)
+
++ [【AI 与 IT 从业者：共舞还是取代？】](https://blog.csdn.net/qyj19920704/article/details/145159558)
+
++ [基于数据可视化+SpringBoot+Vue的医院体检预约系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145168244)
+
++ [CasaOS小主机如何部署1Panel面板并实现远程管理服务器超实用教程](https://blog.csdn.net/Tiam_cr/article/details/145162348)
+
++ [跨域代理解决方案：Windows上的nginx配置详解](https://blog.csdn.net/sixpp/article/details/145153220)
+
