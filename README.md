@@ -4,7 +4,7 @@
 
 每1个小时获取一次，按天归档。
 
-获取到的热搜以markdown的形式保存在[archives](https://github.com/WShuai123/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
+获取到的热搜以markdown的形式保存在[archives](https://github.com/iiecho1/hot_searches_for_apps/tree/main/archives)文件夹中，按照`软件名称/年/月/日`的路径保存。
 
 ### 更新日志：
 + 2025-01-10: 本懒狗终于修复了。重新写的api，目前支持获取24个网站的热搜。更多网站再慢慢添加吧。
