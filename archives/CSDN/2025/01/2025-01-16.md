@@ -185,3 +185,7 @@
 
 + [【AI大模型】BERT GPT ELMo模型的对比](https://blog.csdn.net/2301_76820214/article/details/145123395)
 
++ [FPGA 21 ，深入理解 Verilog 中的基数，以及二进制数与十进制数之间的关系（ Verilog中的基数 ）](https://blog.csdn.net/weixin_65793170/article/details/145128905)
+
++ [网络安全概述](https://blog.csdn.net/shuicarry66/article/details/145139469)
+
