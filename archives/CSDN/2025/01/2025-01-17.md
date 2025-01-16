@@ -125,3 +125,11 @@
 
 + [zookeeper 基本原理-单机模式、集群模式](https://blog.csdn.net/luxideyao/article/details/145133791)
 
++ [Zookeeper 核心知识深度解析：从选主到部署](https://blog.csdn.net/guihong004/article/details/145168264)
+
++ [Uniapp判断设备是安卓还是 iOS，并调用不同的方法](https://blog.csdn.net/m0_47814717/article/details/145163081)
+
++ [【Vue】Vue组件--上](https://blog.csdn.net/m0_75163045/article/details/145147149)
+
++ [解锁未来科技之路——两本不可或缺的技术指南](https://blog.csdn.net/xqe777/article/details/145143799)
+
