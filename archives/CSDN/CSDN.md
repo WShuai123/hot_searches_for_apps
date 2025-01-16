@@ -101,3 +101,9 @@
 
 + [2024美赛C题完整思路与过程可视化（附代码+数据）_2025-01-15](https://blog.csdn.net/K_KK_KK_KK/article/details/145166803)
 
++ [Transformer架构和Transformers 库和Hugging Face](https://blog.csdn.net/m0_68654129/article/details/145135722)
+
++ [【Linux系统编程】—— 进程与进程管理在Linux中的基本概念](https://blog.csdn.net/ZWW_zhangww/article/details/145186652)
+
++ [electron编写一个macOS风格的桌面应用](https://blog.csdn.net/u012848304/article/details/145135511)
+
