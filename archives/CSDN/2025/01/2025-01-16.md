@@ -155,3 +155,13 @@
 
 + [【网络协议】DHCP（动态主机配置协议）](https://blog.csdn.net/2301_77485708/article/details/145162936)
 
++ [60岁村妇能否学会AI编程？| 乡村硅谷里的技术平权事件](https://blog.csdn.net/qq_32682301/article/details/145171593)
+
++ [[Deep Learning] Anaconda+CUDA+CuDNN+Pytorch(GPU)环境配置-2025](https://blog.csdn.net/m0_54524462/article/details/145113873)
+
++ [【Docker】Docker部署多种容器](https://blog.csdn.net/weixin_44581175/article/details/144728217)
+
++ [基于当前最前沿的前端（Vue3 + Vite + Antdv）和后台（Spring boot）实现的低代码开发平台](https://blog.csdn.net/luhuillll/article/details/145145281)
+
++ [深度解析Linux中关于操作系统的知识点](https://blog.csdn.net/2301_80863610/article/details/145167170)
+
