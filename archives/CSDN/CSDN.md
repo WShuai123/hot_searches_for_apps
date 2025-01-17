@@ -155,3 +155,9 @@
 
 + [强化学习-蒙特卡洛方法](https://blog.csdn.net/MXZJSJ1112/article/details/144905661)
 
++ [登录、注册、忘记密码、首页HTML模板](https://blog.csdn.net/weixin_45019897/article/details/145141454)
+
++ [【PCIE734-1 】基于 PCIe 总线架构的 XCKU060 FPGA 4 路 SFP+光纤通道处理平台](https://blog.csdn.net/beijingqingyikeji/article/details/145158602)
+
++ [从 Web3 到元宇宙：探索数字身份的奇幻演变](https://blog.csdn.net/Roun3/article/details/145165624)
+
