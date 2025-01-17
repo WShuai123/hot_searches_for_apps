@@ -31,3 +31,17 @@
 
 + [facebook/folly](https://github.com/facebook/folly)
 
++ [nextcloud/server](https://github.com/nextcloud/server)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
+
++ [metabase/metabase](https://github.com/metabase/metabase)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+

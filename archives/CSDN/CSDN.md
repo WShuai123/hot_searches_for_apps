@@ -197,3 +197,5 @@
 
 + [斯坦福iDP3源码剖析：逐步分解Improved 3D Diffusion Policy的实现(人形机器人的动作策略之一)](https://blog.csdn.net/v_JULY_v/article/details/145183110)
 
++ [物联网网关Web服务器--lighttpd服务器部署与应用测试](https://blog.csdn.net/Tony_Shen/article/details/145185336)
+
