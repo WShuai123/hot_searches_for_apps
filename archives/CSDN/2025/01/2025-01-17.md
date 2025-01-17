@@ -191,3 +191,9 @@
 
 + [2025年01月16日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/145187282)
 
++ [数据挖掘实战-基于机器学习的车辆二氧化碳排放量建模分析](https://blog.csdn.net/m0_64336780/article/details/139267330)
+
++ [解锁动态规划的奥秘：从零到精通的创新思维解析（6）](https://blog.csdn.net/effort123_/article/details/145207337)
+
++ [斯坦福iDP3源码剖析：逐步分解Improved 3D Diffusion Policy的实现(人形机器人的动作策略之一)](https://blog.csdn.net/v_JULY_v/article/details/145183110)
+
