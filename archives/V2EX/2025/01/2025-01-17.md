@@ -33,3 +33,13 @@
 
 + [再次惊叹 cursor 的能力，最近正在写 ha 的 dashboard，几乎所有代码都有 cursor 完成](https://www.v2ex.com/t/1105560)
 
++ [美国上一个法学院要花 45 万美元，是真的吗？](https://www.v2ex.com/t/1105767)
+
++ [支付宝这次事故的真相是什么？](https://www.v2ex.com/t/1105721)
+
++ [大家有没有让人上头的小游戏，简单而且让人上瘾](https://www.v2ex.com/t/1105675)
+
++ [求助：政务 app 在 AppStore 上架问题](https://www.v2ex.com/t/1105749)
+
++ [避雷 onedrive，纯低能应用](https://www.v2ex.com/t/1105647)
+

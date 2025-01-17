@@ -95,3 +95,9 @@
 
 + [【铁拳8】主界面动态背景可用自定义服装了！【TEKKEN8】Lili](https://m.acfun.cn/v/%3Fac%3D46781234)
 
++ [从破木板到小别墅，重回raft回味捡垃圾的日子](https://m.acfun.cn/v/%3Fac%3D46780559)
+
++ [全家一致同意加入年夜饭清单系列！！](https://m.acfun.cn/v/%3Fac%3D46780194)
+
++ [任天堂新掌机Nintendo Switch 2首次公开](https://m.acfun.cn/v/%3Fac%3D46780802)
+
