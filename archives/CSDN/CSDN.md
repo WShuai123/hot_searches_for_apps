@@ -101,3 +101,31 @@
 
 + [低代码平台：技术复杂性的系统简化](https://blog.csdn.net/M006688/article/details/145187115)
 
++ [2024年博客之星年度评选—创作影响力评审入围名单公布](https://blog.csdn.net/blogdevteam/article/details/145189549)
+
++ [Python从0到100（八十四）：神经网络-卷积神经网络训练CIFAR-10数据集](https://blog.csdn.net/weixin_51390582/article/details/144057487)
+
++ [《C++11》深入剖析正则表达式库：解锁文本处理的高效之道](https://blog.csdn.net/Z_oioihoii/article/details/145164082)
+
++ [【SLAM】基于扩展卡尔曼滤波器实现机器人SLAM滤波跟踪，维多利亚公园为基准，地标是激光扫描仪探测到的极地物体附matlab代码](https://blog.csdn.net/m0_60703264/article/details/145211588)
+
++ [【Redis】Redis事务和Lua脚本的区别](https://blog.csdn.net/qq_40782372/article/details/145184778)
+
++ [Zookeeper 核心知识深度解析：从选主到部署](https://blog.csdn.net/guihong004/article/details/145168264)
+
++ [苍穹外卖(七) 缓存商品、购物车](https://blog.csdn.net/weixin_69912448/article/details/145160853)
+
++ [缓存基本原理](https://blog.csdn.net/qq_44915801/article/details/139512517)
+
++ [腾讯云AI代码助手编程挑战赛-属于自己的赛博书房](https://blog.csdn.net/Terry_qi_an/article/details/145216817)
+
++ [AI编程工具使用技巧——通义灵码](https://blog.csdn.net/weixin_74888502/article/details/145212263)
+
++ [测试工程师的linux 命令学习（持续更新中）](https://blog.csdn.net/weixin_44259638/article/details/122177382)
+
++ [从玩具到工业控制--51单片机的跨界传奇【3】](https://blog.csdn.net/2401_83009236/article/details/145190814)
+
++ [计算机网络-物理层](https://blog.csdn.net/qq_72189290/article/details/145174092)
+
++ [UDP/TCP ①-UDP协议报文格式](https://blog.csdn.net/Themberfue/article/details/145152282)
+
