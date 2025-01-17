@@ -143,3 +143,27 @@
 
 + [2025年——【寒假】自学黑客计划（网络安全）](https://blog.csdn.net/2401_85026643/article/details/145173244)
 
++ [Python人工智能在气象中的应用，包括：天气预测、气候模拟、降雨量和降水预测、气象数据分析、气象预警系统](https://blog.csdn.net/weixin_46433038/article/details/145181700)
+
++ [AI自动化编程：编程教育的变革之风](https://blog.csdn.net/qq_33650655/article/details/145190619)
+
++ [【Elasticsearch】filterQuery过滤查询](https://blog.csdn.net/lilinhai548/article/details/145169922)
+
++ [Vue3+Spring Boot 大型电商项目实战前后端分离](https://blog.csdn.net/HappyAcmen/article/details/145185388)
+
++ [基于华为云车牌识别服务设计的停车场计费系统【华为开发者空间-鸿蒙】](https://blog.csdn.net/xiaolong1126626497/article/details/145184116)
+
++ [【Hive】海量数据存储利器之Hive库原理初探](https://blog.csdn.net/weixin_51360020/article/details/144798169)
+
++ [npm发布组件（vue3+webpack）](https://blog.csdn.net/weixin_45610943/article/details/145186700)
+
++ [Spark RPC 学习总结](https://blog.csdn.net/dkl12/article/details/145162066)
+
++ [K8S中的Pod调度之定向调度](https://blog.csdn.net/m0_66011019/article/details/145165591)
+
++ [Java进阶-在Ubuntu上部署SpringBoot应用](https://blog.csdn.net/m0_74825678/article/details/145190089)
+
++ [Flink (七): DataStream API (四) Watermarks](https://blog.csdn.net/weixin_41914554/article/details/145164539)
+
++ [【鸿蒙】0x02-LiteOS-M基于Qemu RISC-V运行](https://blog.csdn.net/BigDarkNote/article/details/145217771)
+
