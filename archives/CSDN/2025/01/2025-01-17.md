@@ -139,3 +139,9 @@
 
 + [Flink链接Kafka](https://blog.csdn.net/wangjian530/article/details/145156140)
 
++ [【Javaweb05】 XML探秘：解码数据的哲学，构建跨界的沟通桥梁](https://blog.csdn.net/qq_74232707/article/details/145188683)
+
++ [AIGC视频生成概要](https://blog.csdn.net/haopinglianlian/article/details/145152180)
+
++ [开源在线聊天服务Fiora本地搭建个性化社交网络定制专属聊天工具](https://blog.csdn.net/YYDsis/article/details/145181576)
+
