@@ -31,3 +31,5 @@
 
 + [婚后生活 我也来说一说自己的故事 从旁观者视角给点意见](https://www.v2ex.com/t/1105777)
 
++ [再次惊叹 cursor 的能力，最近正在写 ha 的 dashboard，几乎所有代码都有 cursor 完成](https://www.v2ex.com/t/1105560)
+
