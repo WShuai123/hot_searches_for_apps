@@ -219,3 +219,7 @@
 
 + [.NET概述](https://blog.csdn.net/qq_45728381/article/details/145182524)
 
++ [Python与Excel：开启自动化办公新时代 ](https://blog.csdn.net/qq_57128262/article/details/145166352)
+
++ [提升我编程效率的秘密武器——明基RD280U专业编程显示器](https://blog.csdn.net/qq_53847859/article/details/145043539)
+
