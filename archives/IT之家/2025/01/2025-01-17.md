@@ -25,3 +25,27 @@
 
 + [比亚迪汉 L、唐 L 设计发布会定档 1 月 17 日](https://m.ithome.com/html/824828.htm)
 
++ [央视：美国政府正考虑让 TikTok 继续在美运营](https://m.ithome.com/html/825198.htm)
+
++ [任天堂 Switch 2 游戏掌机正式公布：屏幕更大、磁吸手柄，4 月 2 日见](https://m.ithome.com/html/825147.htm)
+
++ [苹果回应 iOS 18 一直截图越来越红：正在加紧调查修复](https://m.ithome.com/html/825231.htm)
+
++ [支付宝：针对已经发出的营销优惠金，不会向用户追款](https://m.ithome.com/html/825123.htm)
+
++ [劳斯莱斯为李姓中国富豪定制幻影龙车，297 块木片绘就“双龙戏珠”](https://m.ithome.com/html/825130.htm)
+
++ [“TikTok 难民”涌向小红书之际，用“多邻国”学汉语普通话的美国用户激增 216%](https://m.ithome.com/html/825040.htm)
+
++ [抖音集团副总裁李亮：有海外 IP 不代表是海外注册用户，已处理 1 万多仿冒外国用户的账号](https://m.ithome.com/html/825217.htm)
+
++ [黄仁勋在英伟达年会向中国员工发最高 4 万元红包，“下次来 10 万”](https://m.ithome.com/html/825098.htm)
+
++ [商务部：手机补贴不用交旧手机，线上线下都适用](https://m.ithome.com/html/825175.htm)
+
++ [小红书海外大热：消息称股东磋商出售股份，估值至少 200 亿美元，腾讯考虑买入](https://m.ithome.com/html/825148.htm)
+
++ [不再阻止无人机飞越白宫等地点，大疆在美取消禁飞区限制](https://m.ithome.com/html/825233.htm)
+
++ [再见 Home 键：苹果 iPhone SE 4 机模曝光，4800 万单摄 + A18 芯片](https://m.ithome.com/html/824828.htm)
+

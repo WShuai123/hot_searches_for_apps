@@ -149,3 +149,9 @@
 
 + [解锁转型密码：不同方向的技能与素质修炼手册](https://blog.csdn.net/qq_33650655/article/details/145170228)
 
++ [如何在亚马逊云科技上大幅降低无服务器网页应用冷启动时间（上篇）](https://blog.csdn.net/m0_66628975/article/details/145195910)
+
++ [基于Web的宠物医院看诊系统设计与实现（源码+定制+开发）在线预约平台、宠物病历管理、医生诊疗记录、宠物健康数据分析 宠物就诊预约、病历管理与健康分析](https://blog.csdn.net/m0_64148096/article/details/145156772)
+
++ [强化学习-蒙特卡洛方法](https://blog.csdn.net/MXZJSJ1112/article/details/144905661)
+
