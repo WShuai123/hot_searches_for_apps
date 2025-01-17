@@ -205,3 +205,17 @@
 
 + [[操作系统] 深入理解操作系统的概念及定位](https://blog.csdn.net/SDFsoul/article/details/145190947)
 
++ [【C#深度学习之路】如何使用C#实现Yolo8/11 Segment 全尺寸模型的训练和推理](https://blog.csdn.net/qq_30270773/article/details/145169580)
+
++ [Redis 缓存穿透、击穿、雪崩 的区别与解决方案](https://blog.csdn.net/weixin_46029085/article/details/145150571)
+
++ [缓存基本原理](https://blog.csdn.net/qq_44915801/article/details/139512517)
+
++ [去中心化身份验证：Web3如何确保元宇宙中的身份安全](https://blog.csdn.net/Roun3/article/details/145182540)
+
++ [UDP/TCP ①-UDP协议报文格式](https://blog.csdn.net/Themberfue/article/details/145152282)
+
++ [低代码平台：技术复杂性的系统简化](https://blog.csdn.net/M006688/article/details/145187115)
+
++ [.NET概述](https://blog.csdn.net/qq_45728381/article/details/145182524)
+
