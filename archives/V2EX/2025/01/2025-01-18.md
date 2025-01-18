@@ -27,3 +27,11 @@
 
 + [那么多婚姻不幸的，我来说说我的幸福婚姻生活](https://www.v2ex.com/t/1105902)
 
++ [4 天上架的 iOS app 1 天后登顶苹果付费榜第 1 名](https://www.v2ex.com/t/1105903)
+
++ [38 岁，只能干外包了吗？？](https://www.v2ex.com/t/1105950)
+
++ [微信疑似正在国内灰度 CallKit 功能](https://www.v2ex.com/t/1105820)
+
++ [一个奇淫技巧实现的短网址](https://www.v2ex.com/t/1105845)
+
