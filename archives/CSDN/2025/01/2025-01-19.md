@@ -125,3 +125,9 @@
 
 + [基于 Spring Boot 和 Vue.js 的全栈购物平台开发实践](https://blog.csdn.net/m0_74408723/article/details/145214095)
 
++ [从 0 开始实现一个 SpringBoot + Vue 项目](https://blog.csdn.net/m0_74823021/article/details/145216555)
+
++ [SSE 实践：用 Vue 和 Spring Boot 实现实时数据传输](https://blog.csdn.net/xyendjsj/article/details/145200590)
+
++ [ASP .NET Core 学习 （.NET 9）- 创建 API项目，并配置Swagger及API 分组或版本](https://blog.csdn.net/Bad_Shepherd/article/details/145208815)
+
