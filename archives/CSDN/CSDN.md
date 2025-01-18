@@ -211,3 +211,7 @@
 
 + [【机器学习实战】kaggle 欺诈检测---使用生成对抗网络（GAN）解决欺诈数据中正负样本极度不平衡问题](https://blog.csdn.net/2302_79308082/article/details/145207240)
 
++ [HarmonyOS Next 实现登录注册页面(ARKTS) 并使用Springboot作为后端提供接口](https://blog.csdn.net/m0_74824592/article/details/145189941)
+
++ [技术总结:Vue在前端开发中的应用与实践](https://blog.csdn.net/2302_76329106/article/details/145224672)
+
