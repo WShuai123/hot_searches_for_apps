@@ -21,3 +21,7 @@
 
 + [做游戏需要学些什么？](https://www.v2ex.com/t/1106022)
 
++ [服了，天天都有 cursor 的帖子](https://www.v2ex.com/t/1106116)
+
++ [今天被老妈的询问搞得突然第一次不想回家](https://www.v2ex.com/t/1106147)
+
