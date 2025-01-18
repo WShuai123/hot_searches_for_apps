@@ -53,3 +53,7 @@
 
 + [做游戏需要学些什么？](https://www.v2ex.com/t/1106022)
 
++ [评小米 Bootloader 解锁进一步收紧](https://www.v2ex.com/t/1106001)
+
++ [大家怎么看 B 站员工给用户注入 xss 攻击](https://www.v2ex.com/t/1106028)
+
