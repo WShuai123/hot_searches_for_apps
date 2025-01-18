@@ -131,3 +131,5 @@
 
 + [ASP .NET Core 学习 （.NET 9）- 创建 API项目，并配置Swagger及API 分组或版本](https://blog.csdn.net/Bad_Shepherd/article/details/145208815)
 
++ [学英语学技术：Elasticsearch 线程池](https://blog.csdn.net/zfj321/article/details/145191272)
+
