@@ -101,3 +101,27 @@
 
 + [天下苦RTL久矣](https://blog.csdn.net/mecache2009/article/details/145212197)
 
++ [【深度学习】Java DL4J 2024年度技术总结](https://blog.csdn.net/lilinhai548/article/details/145224986)
+
++ [音乐播放器实现:前端HTML，CSS，JavaScript综合大项目](https://blog.csdn.net/2402_83322742/article/details/145233363)
+
++ [【C++】揭秘类与对象的内在机制（核心卷之深浅拷贝与拷贝构造函数的奥秘）](https://blog.csdn.net/hdxbufcbjuhg/article/details/145079013)
+
++ [TensorFlow深度学习实战（5）——神经网络性能优化技术详解](https://blog.csdn.net/LOVEmy134611/article/details/144227301)
+
++ [【Javaweb05】 XML探秘：解码数据的哲学，构建跨界的沟通桥梁](https://blog.csdn.net/qq_74232707/article/details/145188683)
+
++ [ACL配置和Telent（远程登陆协议）详细配置 ](https://blog.csdn.net/lll73/article/details/145233992)
+
++ [【Linux系列】查看服务器是否使用了 SSD 的多种方法](https://blog.csdn.net/qyj19920704/article/details/145207776)
+
++ [技术总结:Vue在前端开发中的应用与实践](https://blog.csdn.net/2302_76329106/article/details/145224672)
+
++ [卷1 项目式学习：项目一 有源带通滤波器设计](https://blog.csdn.net/zooperjook/article/details/145234981)
+
++ [在.NET用C#将Word文档转换为HTML格式](https://blog.csdn.net/Eiceblue/article/details/145212188)
+
++ [【心中有星辰大海，写下24年的总结，2025与你共赴流年】](https://blog.csdn.net/2301_80863610/article/details/145231257)
+
++ [基于 Spring Boot 和 Vue.js 的全栈购物平台开发实践](https://blog.csdn.net/m0_74408723/article/details/145214095)
+
