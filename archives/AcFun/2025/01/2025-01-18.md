@@ -143,3 +143,5 @@
 
 + [【cos】最喜欢的是变出花田的魔法](https://m.acfun.cn/v/%3Fac%3D46787211)
 
++ [3D DNF 衍生作《第一狂战士卡赞》BOSS战幽魂之布雷德](https://m.acfun.cn/v/%3Fac%3D46786529)
+

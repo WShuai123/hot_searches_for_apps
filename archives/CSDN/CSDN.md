@@ -221,3 +221,5 @@
 
 + [Java 大视界 -- Java 开发 Spark 应用：RDD 操作与数据转换](https://blog.csdn.net/qq_42978535/article/details/145130177)
 
++ [从零搭建SpringBoot3+Vue3前后端分离项目基座，中小项目可用](https://blog.csdn.net/m0_74825746/article/details/145216623)
+
