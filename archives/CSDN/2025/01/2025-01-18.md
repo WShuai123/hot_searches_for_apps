@@ -209,3 +209,5 @@
 
 + [C# OpenCV机器视觉:极大值抑制](https://blog.csdn.net/xcwzj123/article/details/145174206)
 
++ [【机器学习实战】kaggle 欺诈检测---使用生成对抗网络（GAN）解决欺诈数据中正负样本极度不平衡问题](https://blog.csdn.net/2302_79308082/article/details/145207240)
+

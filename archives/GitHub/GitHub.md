@@ -25,3 +25,23 @@
 
 + [facebook/folly](https://github.com/facebook/folly)
 
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
+
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop)
+
++ [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
+
++ [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+
++ [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
+
++ [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
