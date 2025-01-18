@@ -197,3 +197,13 @@
 
 + [PyTorch使用教程(3)-Tensor包](https://blog.csdn.net/evm_doc/article/details/145189028)
 
++ [【人工智能 | 大数据】基于人工智能的大数据分析方法](https://blog.csdn.net/Morse_Chen/article/details/145211460)
+
++ [【逆境中绽放：万字回顾2024我在挑战中突破自我】](https://blog.csdn.net/Aileenvov/article/details/145227000)
+
++ [Elasticsearch：Jira 连接器教程第二部分 - 6 个优化技巧](https://blog.csdn.net/UbuntuTouch/article/details/145198078)
+
++ [Inception 网络：开启多尺度卷积的图像识别新时代](https://blog.csdn.net/2301_80840905/article/details/145225306)
+
++ [Python大数据可视化：基于spark的短视频推荐系统的设计与实现_django+spider](https://blog.csdn.net/m0_74824802/article/details/145198719)
+
