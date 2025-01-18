@@ -25,3 +25,27 @@
 
 + [再见 Home 键：苹果 iPhone SE 4 机模曝光，4800 万单摄 + A18 芯片](https://m.ithome.com/html/824828.htm)
 
++ [美媒：拜登将不执行 TikTok 禁令](https://m.ithome.com/html/825412.htm)
+
++ [赵明官宣离开荣耀：长文回顾 10 年历程，未来规划修整和学习，股票还在公司](https://m.ithome.com/html/825489.htm)
+
++ [小米陈波：NAS 已进入到开发的尾声，外观会比较简约、优雅、高级](https://m.ithome.com/html/825448.htm)
+
++ [赵明再发长文：十分遗憾无法陪荣耀走向下一个十年](https://m.ithome.com/html/825488.htm)
+
++ [美国最高法院裁定支持 TikTok 禁令](https://m.ithome.com/html/825406.htm)
+
++ [王朝网全新“双旗舰”登场，比亚迪汉 L / 唐 L 正式发布](https://m.ithome.com/html/825386.htm)
+
++ [比亚迪宣布“龙颜美学”设计进化：Dragon Face → Loong Face](https://m.ithome.com/html/825467.htm)
+
++ [吉利银河 L6 EM-i 预售：8.98 万元起，CLTC 综合续航超 2000km / 百公里亏电油耗 2.9L](https://m.ithome.com/html/825493.htm)
+
++ [TikTok CEO 周受资：将尽全力确保平台继续繁荣](https://m.ithome.com/html/825352.htm)
+
++ [小米手机 BL 解锁再收紧，获取资格后需 14 天内完成绑定和解锁操作](https://m.ithome.com/html/825393.htm)
+
++ [全黑车身，鸿蒙智行尊界 S800 实车路试影像曝光](https://m.ithome.com/html/825486.htm)
+
++ [M4 iPad Pro 销量不佳，消息称苹果已延后 OLED MacBook Air 上市时间至 2027 年](https://m.ithome.com/html/824828.htm)
+
