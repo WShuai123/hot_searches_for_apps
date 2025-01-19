@@ -187,3 +187,5 @@
 
 + [C#深度神经网络(TensorFlow.NET)](https://blog.csdn.net/qq_42455262/article/details/145137632)
 
++ [【2024 CSDN博客之星】我的年度总结与创作历程回顾](https://blog.csdn.net/weixin_44976692/article/details/145242156)
+

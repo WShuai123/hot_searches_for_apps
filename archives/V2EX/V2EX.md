@@ -57,3 +57,7 @@
 
 + [31 岁互联网大厂程序员：不续签后的面试之旅](https://www.v2ex.com/t/1106214)
 
++ [民主是否绝对优于非民主？](https://www.v2ex.com/t/1106260)
+
++ [最受不了的就是 golang 中的 if...else 语句了](https://www.v2ex.com/t/1106223)
+
