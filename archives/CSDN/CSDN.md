@@ -189,3 +189,11 @@
 
 + [【2024 CSDN博客之星】我的年度总结与创作历程回顾](https://blog.csdn.net/weixin_44976692/article/details/145242156)
 
++ [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/145244766)
+
++ [【Spring Boot】掌握 Spring 事务：隔离级别与传播机制解读与应用](https://blog.csdn.net/GGBond778/article/details/145243297)
+
++ [从零到一：Spring Boot 与 RocketMQ 的完美集成指南](https://blog.csdn.net/web15085415935/article/details/145216593)
+
++ [【博客之星】2024年度个人成长、强化学习算法领域总结](https://blog.csdn.net/qq_51399582/article/details/145234478)
+
