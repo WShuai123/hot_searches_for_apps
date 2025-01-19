@@ -15,3 +15,5 @@
 
 + [有没有远程切换 pc 启动盘的方案](https://www.v2ex.com/t/1106208)
 
++ [川皇发币](https://www.v2ex.com/t/1106179)
+
