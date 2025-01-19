@@ -27,3 +27,31 @@
 
 + [ruanyf/weekly](https://github.com/ruanyf/weekly)
 
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+
++ [frappe/helpdesk](https://github.com/frappe/helpdesk)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [nextcloud/server](https://github.com/nextcloud/server)
+
++ [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+
++ [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [bytedance/monolith](https://github.com/bytedance/monolith)
+
++ [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
+
++ [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+
++ [henrygd/beszel](https://github.com/henrygd/beszel)
+
++ [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
+
