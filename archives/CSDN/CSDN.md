@@ -137,3 +137,13 @@
 
 + [wx030基于springboot+vue+uniapp的养老院系统小程序](https://blog.csdn.net/shmp54xmu/article/details/145213889)
 
++ [华为ENSP：STP和链路聚合的管理与配置](https://blog.csdn.net/2301_76341691/article/details/145233055)
+
++ [基于SpringBoot和PostGIS的各国及所属机场信息检索及可视化实现](https://blog.csdn.net/yelangkingwuzuhu/article/details/145234301)
+
++ [斯坦福iDP3源码剖析：逐步分解Improved 3D Diffusion Policy的实现(人形机器人的动作策略之一)](https://blog.csdn.net/v_JULY_v/article/details/145183110)
+
++ [【深度学习】Pytorch：CUDA 模型训练](https://blog.csdn.net/2303_80346267/article/details/145181030)
+
++ [微服务学习-快速搭建](https://blog.csdn.net/qq_29768197/article/details/145209873)
+
