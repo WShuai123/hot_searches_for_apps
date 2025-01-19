@@ -147,3 +147,7 @@
 
 + [轮播图（免费获取+自动轮播+左右切换+触摸手势+底部导航）](https://blog.csdn.net/sahjiwij/article/details/145250280)
 
++ [llama.cpp LLM_ARCH_NAMES and LLM_TENSOR_NAMES](https://blog.csdn.net/chengyq116/article/details/145215779)
+
++ [【C#与ML.NET的机器学习模型集成】——释放.NET开发者的无限潜能，轻松构建智能应用](https://blog.csdn.net/2401_88677290/article/details/144945663)
+
