@@ -141,3 +141,9 @@
 
 + [论文阅读：CosAE Learnable Fourier Series for Image Restoration](https://blog.csdn.net/shinian1987/article/details/145229169)
 
++ [深度学习项目--基于LSTM的火灾预测研究(pytorch实现)](https://blog.csdn.net/weixin_74085818/article/details/145215359)
+
++ [9种提高 GitHub 国内访问速度的方案_hub](https://blog.csdn.net/2401_89790869/article/details/145195654)
+
++ [轮播图（免费获取+自动轮播+左右切换+触摸手势+底部导航）](https://blog.csdn.net/sahjiwij/article/details/145250280)
+
