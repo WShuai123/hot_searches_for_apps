@@ -177,3 +177,9 @@
 
 + [AI 音频工具合集](https://blog.csdn.net/2301_77362941/article/details/145224273)
 
++ [NFT创作者收益保障与交易追溯：版税机制与交易记录存储全攻略](https://blog.csdn.net/Huahua_1223/article/details/145233520)
+
++ [【LLM】Openai-o1及o1类复现方法](https://blog.csdn.net/qq_35812205/article/details/144953197)
+
++ [在亚马逊云科技上构建安全、负责任的多模态AI应用](https://blog.csdn.net/m0_66628975/article/details/145241119)
+
