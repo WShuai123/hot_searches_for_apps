@@ -207,3 +207,7 @@
 
 + [风吹字符起，诗意Linux：一场指令与自由的浪漫邂逅（上）](https://blog.csdn.net/2303_81060385/article/details/145111697)
 
++ [物联网在烟草行业的应用](https://blog.csdn.net/jjk_02027/article/details/145245220)
+
++ [奔跑吧邓邓子 2024 年度 CSDN 博客成长全记录](https://blog.csdn.net/u012069313/article/details/145245818)
+
