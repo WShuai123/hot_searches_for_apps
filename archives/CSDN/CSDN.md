@@ -211,3 +211,7 @@
 
 + [奔跑吧邓邓子 2024 年度 CSDN 博客成长全记录](https://blog.csdn.net/u012069313/article/details/145245818)
 
++ [如何通过 Apache Airflow 将数据导入 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/145225118)
+
++ [iDP3的部署代码解析(含训练)——同一套策略控制各种机器人：包含我司对斯坦福iDP3的通用化改写](https://blog.csdn.net/v_JULY_v/article/details/145260121)
+

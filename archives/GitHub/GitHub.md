@@ -37,3 +37,25 @@
 
 + [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 
++ [mudler/LocalAI](https://github.com/mudler/LocalAI)
+
++ [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+
++ [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
+
++ [getmaxun/maxun](https://github.com/getmaxun/maxun)
+
++ [uutils/coreutils](https://github.com/uutils/coreutils)
+
++ [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
+
++ [yorukot/superfile](https://github.com/yorukot/superfile)
+
++ [koreader/koreader](https://github.com/koreader/koreader)
+
++ [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
