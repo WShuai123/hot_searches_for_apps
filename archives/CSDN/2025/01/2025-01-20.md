@@ -165,3 +165,9 @@
 
 + [NVIDIA视频编解码](https://blog.csdn.net/weixin_43147845/article/details/136257628)
 
++ [Linux：生产者消费者模型](https://blog.csdn.net/weixin_51142926/article/details/142908331)
+
++ [【图片自动化识别重命名】如何利用编程将 PDF 扫描件的 OCR 识别与批量重命名方案， PDF 扫描件的批量重命名及内容识别问题](https://blog.csdn.net/bbyn24955/article/details/145243032)
+
++ [redis做为缓存，mysql的数据如何与redis进行同步呢?](https://blog.csdn.net/qq_44199605/article/details/145205006)
+
