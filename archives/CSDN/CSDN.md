@@ -215,3 +215,5 @@
 
 + [iDP3的部署代码解析(含训练)——同一套策略控制各种机器人：包含我司对斯坦福iDP3的通用化改写](https://blog.csdn.net/v_JULY_v/article/details/145260121)
 
++ [【HarmonyOS NEXT】碰一碰开发分享](https://blog.csdn.net/weixin_44640245/article/details/145263999)
+
