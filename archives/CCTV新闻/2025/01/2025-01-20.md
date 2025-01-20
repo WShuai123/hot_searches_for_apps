@@ -169,3 +169,9 @@
 
 + [TikTok恢复在美服务](https://news.cctv.com/2025/01/20/ARTINV9LRkY3SXn6evmVjaZR250120.shtml)
 
++ [印媒：印度实习医生遭奸杀案嫌犯罪名成立，其可能被判处死刑或终身监禁](https://news.cctv.com/2025/01/20/ARTII4VspK14B4HjsWcdQMDO250120.shtml)
+
++ [新西兰总理改组内阁 促经济重卫生](https://news.cctv.com/2025/01/20/ARTIaglyjfHx9lybxQixVg0m250120.shtml)
+
++ [美国加州帕利塞德大火过半火势得到控制](https://news.cctv.com/2025/01/20/ARTIjSvL0KHJ1ENJbIsRcrv3250120.shtml)
+
