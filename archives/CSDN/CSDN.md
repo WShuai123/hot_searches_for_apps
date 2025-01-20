@@ -151,3 +151,7 @@
 
 + [【C#与ML.NET的机器学习模型集成】——释放.NET开发者的无限潜能，轻松构建智能应用](https://blog.csdn.net/2401_88677290/article/details/144945663)
 
++ [ASP .NET Core 学习 （.NET 9）- 创建 API项目，并配置Swagger及API 分组或版本](https://blog.csdn.net/Bad_Shepherd/article/details/145208815)
+
++ [TypeScript 使用 VSCode 简介](https://blog.csdn.net/qq_29939347/article/details/145232560)
+

@@ -175,3 +175,7 @@
 
 + [美国加州帕利塞德大火过半火势得到控制](https://news.cctv.com/2025/01/20/ARTIjSvL0KHJ1ENJbIsRcrv3250120.shtml)
 
++ [“非洲第一高楼”亮灯迎新春](https://photo.cctv.com/2025/01/20/PHOApqwuNXQ9vpfuSzQXt0ab250120.shtml)
+
++ [特朗普：将在上任后的“几个小时内”推翻拜登多项行政令](https://news.cctv.com/2025/01/20/ARTIcyGQPYdaFABd5zJONbtj250120.shtml)
+
