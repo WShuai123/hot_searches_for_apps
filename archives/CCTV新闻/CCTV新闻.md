@@ -179,3 +179,11 @@
 
 + [特朗普：将在上任后的“几个小时内”推翻拜登多项行政令](https://news.cctv.com/2025/01/20/ARTIcyGQPYdaFABd5zJONbtj250120.shtml)
 
++ [中外网友暖心互动：童年中的“李华”终于收到回信](https://news.cctv.com/2025/01/20/ARTIjrov1mmNiCRQ1TEEObCk250120.shtml)
+
++ [泰国总理佩通坦：春节是泰中文化纽带的象征](https://news.cctv.com/2025/01/20/ARTI4rp5GY1aTaDzG5aGCmXd250120.shtml)
+
++ [“与中国合作带来了巨大机遇”——访匈牙利投资促进局局长约·伊什特万](https://news.cctv.com/2025/01/20/ARTI1JeNkThrwOTSpjdCimic250120.shtml)
+
++ [韩公调处：尹锡悦两次拒绝接受拘留调查 正考虑强制传讯审问](https://news.cctv.com/2025/01/20/ARTIdSztw5FpvqhYLLT9GcbL250120.shtml)
+

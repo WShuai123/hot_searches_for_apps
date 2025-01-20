@@ -69,3 +69,9 @@
 
 + [《动物迷惑行为大赏241》](https://m.acfun.cn/v/%3Fac%3D46789294)
 
++ [【丸子歌单】Beatles曲调/题材欢乐的歌曲 ](https://m.acfun.cn/v/%3Fac%3D46790781)
+
++ [【凌寒/幻塔】打 扰 一 下，凌 寒 - EXCUSE ME](https://m.acfun.cn/v/%3Fac%3D46789965)
+
++ [猫族信仰之巅：巴斯特](https://m.acfun.cn/v/%3Fac%3D46788700)
+

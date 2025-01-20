@@ -155,3 +155,13 @@
 
 + [TypeScript 使用 VSCode 简介](https://blog.csdn.net/qq_29939347/article/details/145232560)
 
++ [PyTorch使用教程(4)-如何使用torch.nn构建模型？](https://blog.csdn.net/evm_doc/article/details/145204829)
+
++ [人脸识别【python-基于OpenCV】](https://blog.csdn.net/weixin_62946182/article/details/145234159)
+
++ [Linux《Linux简介与环境的搭建》](https://blog.csdn.net/2303_81098358/article/details/143896822)
+
++ [Android系统开发（八）：从麦克风到扬声器，音频HAL框架的奇妙之旅](https://blog.csdn.net/bryant_liu24/article/details/145232367)
+
++ [NVIDIA视频编解码](https://blog.csdn.net/weixin_43147845/article/details/136257628)
+
