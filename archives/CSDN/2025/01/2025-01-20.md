@@ -185,3 +185,11 @@
 
 + [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://blog.csdn.net/qq_44866828/article/details/145250503)
 
++ [在亚马逊云科技上高效蒸馏低成本、高精度的Llama 3.1大语言模型（下篇）](https://blog.csdn.net/m0_66628975/article/details/145249575)
+
++ [C#实战：使用腾讯云智能结构化识别服务轻松提取物流送货单信息，解决仓储物流信息录入的效率问题](https://blog.csdn.net/xishining/article/details/145252367)
+
++ [Python新春烟花](https://blog.csdn.net/m0_68111267/article/details/145254338)
+
++ [ToDesk云电脑、顺网云、网易云、易腾云、极云普惠云横测对比：探寻电竞最佳拍档](https://blog.csdn.net/JHXL_/article/details/145260263)
+
