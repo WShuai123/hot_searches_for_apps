@@ -183,3 +183,5 @@
 
 + [基于海思soc的智能产品开发（高、中、低soc、以及和fpga的搭配）](https://blog.csdn.net/feixiaoxing/article/details/145226014)
 
++ [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://blog.csdn.net/qq_44866828/article/details/145250503)
+
