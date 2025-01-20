@@ -171,3 +171,15 @@
 
 + [redis做为缓存，mysql的数据如何与redis进行同步呢?](https://blog.csdn.net/qq_44199605/article/details/145205006)
 
++ [腾讯云 AI 代码助手编程挑战赛 + 构建开发板垃圾图片识别AI对话的Copilot](https://blog.csdn.net/wanmeijuhao/article/details/145247318)
+
++ [游戏引擎学习第81天](https://blog.csdn.net/TM1695648164/article/details/145222799)
+
++ [MySQL、HBase、ES的特点和区别](https://blog.csdn.net/qq_15437629/article/details/145224260)
+
++ [模块化架构与微服务架构，哪种更适合桌面软件开发？](https://blog.csdn.net/houbincarson/article/details/145234519)
+
++ [htmlcssJavaScript网页开发：年会手机号抽奖案例](https://blog.csdn.net/forever8341/article/details/145230468)
+
++ [基于海思soc的智能产品开发（高、中、低soc、以及和fpga的搭配）](https://blog.csdn.net/feixiaoxing/article/details/145226014)
+
