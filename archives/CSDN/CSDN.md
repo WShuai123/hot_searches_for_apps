@@ -217,3 +217,11 @@
 
 + [【HarmonyOS NEXT】碰一碰开发分享](https://blog.csdn.net/weixin_44640245/article/details/145263999)
 
++ [从零到一：使用Cursor+Coze开发图像生成微信小程序的快速指南【超详细】](https://blog.csdn.net/m0_70814680/article/details/145264714)
+
++ [Taro开发系统化实战学习](https://blog.csdn.net/Aria_Miazzy/article/details/145263913)
+
++ [[论文阅读] (36)C&S22 MPSAutodetect：基于自编码器的恶意Powershell脚本检测模型](https://blog.csdn.net/Eastmount/article/details/145259823)
+
++ [一岁征程：学习、挑战与成长](https://blog.csdn.net/weixin_74888502/article/details/145227919)
+

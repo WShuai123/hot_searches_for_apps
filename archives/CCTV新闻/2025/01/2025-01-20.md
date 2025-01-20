@@ -207,3 +207,5 @@
 
 + [联合国机构：加沙地带超九成住房被摧毁或部分损坏](https://news.cctv.com/2025/01/20/ARTI2eaRCn3GDDPUP2zebapy250120.shtml)
 
++ [拜登“预防性”赦免福奇等人 防止特朗普报复](https://news.cctv.com/2025/01/20/ARTI9bQ5CmSPO3yI6LqoYsOS250120.shtml)
+
